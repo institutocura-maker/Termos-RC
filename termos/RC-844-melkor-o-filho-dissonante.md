@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-844"
+nome = "Melkor (o filho dissonante)"
+categoria = "Seres & Entidades"
+subcategoria = "1.5 Decaídos / Exilados / Demônios"
+status = "em análise"
+fontes = ["P2018-12-15"]
+via = "P7-conhecimento"
+confianca_fonte = "baixa"
+atualizado = "2026-08-31"
++++
 # Melkor (o filho dissonante) — RC-844
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | Seres & Entidades |
-| **Subcategoria** | 1.5 Decaídos / Exilados / Demônios |
-| **Status** | 🟠 Em análise |
-| **Última atualização** | 2026-08-31 |
 
 ## Definição Sintética
 

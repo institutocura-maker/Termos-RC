@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-163"
+nome = "Mente Universal (Emergente)"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.5 Propósitos / Destinos"
+status = "verificado"
+fontes = ["B024", "P2025-03-15", "P2025-02-16", "P2025-02-15", "P2024-11-30", "P2024-11-09", "P2024-04-14", "P2025-06-14b", "P2023-11-19", "P2023-12-03"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-09-07"
++++
 # Mente Universal (Emergente) — RC-163
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
-| **Subcategoria** | 2.5 Propósitos / Destinos |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-09-07 |
 
 ## Definição Sintética
 A «Mente Universal» (também chamada Biocosmos): a mente coletiva que emerge da recomposição da criação — o resultado da integração das consciências particularizadas depois do Tikun (RC-514). Não é uma divindade nem uma soma de indivíduos: é a nova instância de consciência que a obra descreve como o destino do conjunto.

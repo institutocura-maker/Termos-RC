@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-737"
+nome = "Projeto Amaterasu–Kami no Japão"
+categoria = "Eventos & Eras"
+subcategoria = "7.5 Missões / Expedições / Encontros"
+status = "em análise"
+fontes = ["P2024-09-29"]
+via = "P7-conhecimento"
+confianca_fonte = "baixa"
+atualizado = "2026-08-16"
++++
 # Projeto Amaterasu–Kami no Japão — RC-737
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | EVENTOS & ERAS |
-| **Subcategoria** | 7.5 Missões / Expedições / Encontros |
-| **Status** | 🟠 Em análise |
-| **Última atualização** | 2026-08-16 |
 
 ## Definição Sintética
 

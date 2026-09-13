@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-722"
+nome = "Dignidade como Critério de Consciência"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.6 Ética / Carma / Compromissos"
+status = "verificado"
+fontes = ["P2024-11-09", "P2024-09-29", "P2024-07-14", "P2024-07-13", "P2024-09-28", "P2024-08-03", "P2025-07-18"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-18"
++++
 # Dignidade como Critério de Consciência — RC-722
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
-| **Subcategoria** | 2.6 Ética / Carma / Compromissos |
-| **Status** | 🟢 Verificado (candidatura aprovada pelo curador) |
-| **Última atualização** | 2026-08-18 |
 
 ## Definição Sintética
 Critério ético proposto na palestra para avaliar crenças, poderes e ações: quando uma consciência não se preocupa com a dignidade do outro, sua grandeza declarada não elimina o abismo entre poder e consciência.

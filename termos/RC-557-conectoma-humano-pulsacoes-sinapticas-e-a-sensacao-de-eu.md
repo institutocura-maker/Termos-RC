@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-557"
+nome = "Conectoma humano (pulsações sinápticas e a sensação de eu)"
+categoria = "Processos & Fenômenos"
+subcategoria = "4.1 Processos biológicos / genéticos"
+status = "em análise"
+fontes = ["P2024-02-25", "P2026-07-30", "P2025-03-15", "P2025-02-15", "P2024-11-09", "P2024-07-14", "P2023-06-24", "P2023-04-01b", "P2023-08-27", "P2021-02-28"]
+via = "P7-conhecimento"
+confianca_fonte = "baixa"
+atualizado = "2026-08-19"
++++
 # Conectoma humano (pulsações sinápticas e a sensação de eu) — RC-557
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | PROCESSOS & FENÔMENOS |
-| **Subcategoria** | 4.2 Fenômenos espirituais / mediúnicos |
-| **Status** | 🟠 Em análise |
-| **Última atualização** | 2026-08-19 |
 
 ## Definição Sintética
 

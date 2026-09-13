@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-942"
+nome = "Messias"
+categoria = "Termos Específicos"
+subcategoria = "8.4 Grego / Latim"
+status = "em análise"
+fontes = ["P2023-12-25-01", "P2023-12-25-02", "P2023-12-25-03", "P2020-04-04"]
+via = "P7-conhecimento"
+confianca_fonte = "baixa"
+atualizado = "2026-09-06"
++++
 # MESSIAS — RC-942
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | Termos Específicos |
-| **Subcategoria** | 8.4 Grego / Latim |
-| **Status** | 🟠 Em análise |
-| **Última atualização** | 2026-09-06 |
 
 ## Definição Sintética
 O «enviado» / ungido profetizado no Antigo Testamento, que viria «super poderoso em nome de Javé» resolver o tema principal — pano de fundo do conflito entre o Criador e a Criação. No F044, Ellam distingue Jesus de Nazaré do **Messias**: o homem Jesus **não** seria o avatar de Javé, seria o Messias, o enviado. É o eixo da expectativa messiânica judaica que estrutura as cinco aulas do curso.

@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-783"
+nome = "Especiação Humana — Levas Genéticas"
+categoria = "Processos & Fenômenos"
+subcategoria = "4.1 Processos biológicos / genéticos"
+status = "verificado"
+fontes = ["P2019-05-11", "P2022-12-03", "P2022-11-26", "P2022-10-01", "P2022-09-25", "P2022-09-18", "P2022-07-16", "P2021-06-26"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-30"
++++
 # Especiação Humana — Levas Genéticas — RC-783
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | PROCESSOS & FENÔMENOS |
-| **Subcategoria** | 4.1 Processos biológicos / genéticos |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-30 |
 
 ## Definição Sintética
 Tese (leitura do autor, palestra **P2019-05-11 — Pandora e os Desacertos dos Pactos de Javé**, U0005) de que a **especiação humana** vai começar a ocorrer **agora** (palestra de 2019) com a geração de **1, 2, 3 levas de padrão genético humano para outros mundos** — não como "a melhor genética", mas como "a genética que puder ir". A especiação é, portanto, **seleção por viabilidade**, não por excelência. Ver RC-778 (Especiação a partir do DNA Humano) para o conceito-mãe, e RC-056 (Especiação) para a categoria mais ampla.

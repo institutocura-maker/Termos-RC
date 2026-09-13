@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-079"
+nome = "Mastlans Phisosferas / Luciferianas"
+categoria = "Tecnologias & Artefatos"
+subcategoria = "5.1 Naves / Tecnologia extraterrestre"
+status = "em análise"
+fontes = ["B031", "B061", "P2022-12-17"]
+via = "P7-conhecimento"
+confianca_fonte = "baixa"
+atualizado = "2026-09-10"
++++
 # Mastlans Phisosferas / Luciferianas — RC-079
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | TECNOLOGIAS & ARTEFATOS |
-| **Subcategoria** | 5.1 Naves / Tecnologia extraterrestre |
-| **Status** | 🟠 Em análise |
-| **Última atualização** | 2026-09-10 |
 
 ## Definição Sintética
 

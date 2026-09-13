@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-788"
+nome = "Revolução Inacabada de Prometeu e Pandora"
+categoria = "Eventos & Eras"
+subcategoria = "7.5 Missões / Expedições / Encontros"
+status = "verificado"
+fontes = ["P2025-04-06"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-30"
++++
 # Revolução Inacabada de Prometeu e Pandora — RC-788
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | EVENTOS & ERAS |
-| **Subcategoria** | 7.5 Missões / Expedições / Encontros |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-30 |
 
 ## Definição Sintética
 Tese (leitura do autor, palestra **P2025-04-06 — A Revolução Inacabada de Prometeu e Pandora**, U0001/U0005/U0006) de que a **transformação humana** iniciada por **Prometeu (RC-301)**, **Epimeteu (RC-302)** e **Pandora (RC-086)** — que buscava destravar a dignidade humana via **alquimia/farmacologia** nos criatórios — foi **inacabada**: as religiões impositivas (judaísmo, cristianismo, islamismo) reescreveram a história, transformaram os "bandidos-heróis" em "vilões" e o crime em "sagrado". **Pandora desiste e morre "mal"**. Mas o **fogo que Prometeu acendeu** ainda pode ser reacendido por cada humano que se recusa a pertencer a qualquer "-ismo". A palestra é a **peça de encerramento do tema Pandora** na Nova Fase. Ver RC-086 (Pandora), RC-301 (Prometeu), RC-302 (Epimeteu), RC-105 (Religiões Impositivas).

@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-194"
+nome = "Big Data Cósmico"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.2 Leis e princípios cósmicos"
+status = "verificado"
+fontes = ["B035", "P2025-03-15", "P2025-02-15", "P2024-11-30", "P2024-11-09", "P2024-09-29", "P2024-04-13", "P2021-05-15", "P2020-04-25", "P2022-03-26", "P2023-02-12"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-28"
++++
 # Big Data Cósmico — RC-194
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
-| **Subcategoria** | 2.2 Leis e princípios cósmicos |
-| **Status** | 🟢 Verificado (baseado na amostra B035 — caps. 1–2) |
-| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 É o análogo cósmico do "big data" terreno: o **supercontrole informacional** exercido pelo Criador (Javé) e sua "plêiade" de anjos-clones sobre **todas as sequências genéticas de qualquer ser vivo** da Criação. Esse grupo de seres "monitora e tem acesso privilegiado — de modo vergonhoso frente aos valores humanos no campo da ética — a absolutamente todas as sequências genéticas de qualquer ser vivo, e disso se aproveita para delas retirar o que supõem ser o contributo pessoal de cada 'criatura-ferramenta'" (B035, cap. 2). Não há "big data" terreno que se aproxime da riqueza de informação de que dispõem, apesar de estarem presos em uma dimensão subjacente à nossa.

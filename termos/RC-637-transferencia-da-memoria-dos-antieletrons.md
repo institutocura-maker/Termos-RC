@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-637"
+nome = "Transferência da Memória dos Antielétrons"
+categoria = "Processos & Fenômenos"
+subcategoria = "4.4 Fenômenos físicos / energéticos"
+status = "verificado"
+fontes = ["P2024-05-04", "P2025-03-15", "P2024-11-09", "P2024-07-13"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-14"
++++
 # Transferência da Memória dos Antielétrons — RC-637
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | PROCESSOS & FENÔMENOS |
-| **Subcategoria** | 4.4 Fenômenos físicos / energéticos |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-14 |
 
 ## Definição Sintética
 Hipótese de que a memória dos antielétrons do universo antimaterial em colapso migra para a memória dos elétrons do universo biológico.

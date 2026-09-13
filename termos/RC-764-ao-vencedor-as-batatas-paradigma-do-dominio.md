@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-764"
+nome = "Ao Vencedor as Batatas (paradigma do domínio)"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.6 Ética / Carma / Compromissos"
+status = "verificado"
+fontes = ["P2021-03-27"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-18"
++++
 # Ao Vencedor as Batatas (paradigma do domínio) — RC-764
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
-| **Subcategoria** | 2.6 Ética / Carma / Compromissos |
-| **Status** | 🟢 Verificado (candidatura aprovada pelo curador (2026-08-18)) |
-| **Última atualização** | 2026-08-18 |
 
 ## Definição Sintética
 

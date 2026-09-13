@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-774"
+nome = "PEP — Pulso Eletromagnético Particularizado (transferência de nanopontos da genética entre universos)"
+categoria = "Tecnologias & Artefatos"
+subcategoria = "5.1 Naves / Tecnologia extraterrestre"
+status = "provisório"
+fontes = ["ART-2025-08-03"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-21"
++++
 # PEP — Pulso Eletromagnético Particularizado — RC-774
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | TECNOLOGIAS & ARTEFATOS |
-| **Subcategoria** | 5.1 Naves / Tecnologia extraterrestre |
-| **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-21 |
 
 ## Definição Sintética
 Mecanismo central de transferência de "nanopontos da genética" do universo antimaterial para o material, no âmbito do **Projeto TALM** (RC-091). Envia informações encapsuladas em "quanta de energia" que, ao chegarem ao novo ambiente, "se hospedariam, vibrariam e, juntas, criariam algoritmos que se replicariam, formando uma programação lógica" para a emergência de seres biológicos.

@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-188"
+nome = "Mente Coletiva / Redes Psíquicas Coletivas"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.2 Leis e princípios cósmicos"
+status = "verificado"
+fontes = ["B044", "P2021-12-04", "P2026-07-30", "P2024-11-09", "P2021-05-15", "P2020-04-25", "P2022-03-26", "P2023-12-03"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-29"
++++
 # Mente Coletiva / Redes Psíquicas Coletivas — RC-188
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
-| **Subcategoria** | 2.2 Leis e princípios cósmicos |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 Estruturas coletivas de informação e consciência que organizam famílias, gêneros e espécies espirituais em redes. A palestra distingue implicitamente dois usos: redes psíquicas naturais de cooperação e o modelo de controle coletivo da Colmeia.

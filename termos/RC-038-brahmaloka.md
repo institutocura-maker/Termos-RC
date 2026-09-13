@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-038"
+nome = "Brahmaloka"
+categoria = "Termos Específicos"
+subcategoria = "8.1 Sânscrito / Hinduísmo"
+status = "verificado"
+fontes = ["B031", "B016", "B013", "B021", "B023", "P2025-03-15"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-09-10"
++++
 # Brahmaloka — RC-038
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | TERMOS ESPECÍFICOS |
-| **Subcategoria** | 8.1 Sânscrito / Hinduísmo |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-09-10 |
 
 ## Definição Sintética
 

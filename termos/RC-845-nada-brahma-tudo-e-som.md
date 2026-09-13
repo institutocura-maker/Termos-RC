@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-845"
+nome = "Nada Brahma (tudo é som)"
+categoria = "Termos Específicos"
+subcategoria = "8.1 Sânscrito / Hinduísmo"
+status = "verificado"
+fontes = ["P2018-12-15"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-31"
++++
 # Nada Brahma (tudo é som) — RC-845
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | Termos Específicos |
-| **Subcategoria** | 8.1 Sânscrito / Hinduísmo |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-31 |
 
 ## Definição Sintética
 

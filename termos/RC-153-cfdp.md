@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-153"
+nome = "CFDP (Código-fonte Definidor Pessoal / Código de Vida Pessoal do Criador)"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.2 Leis e princípios cósmicos"
+status = "verificado"
+fontes = ["B024", "B041", "B019", "P2025-03-15"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-09-10"
++++
 # CFDP (Código-fonte Definidor Pessoal / Código de Vida Pessoal do Criador) — RC-153
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
-| **Subcategoria** | 2.2 Leis e princípios cósmicos |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-09-10 |
 
 ## Definição Sintética
 

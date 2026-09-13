@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-403"
+nome = "Colegiado Druídico"
+categoria = "Genealogias & Linhagens"
+subcategoria = "6.3 Dinastias extraterrestres"
+status = "em análise"
+fontes = ["B050", "B052", "P2017-10-14"]
+via = "P7-conhecimento"
+confianca_fonte = "baixa"
+atualizado = "2026-09-05"
++++
 # Colegiado Druídico — RC-403
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | Genealogias & Linhagens |
-| **Subcategoria** | 6.3 Dinastias extraterrestres |
-| **Status** | 🟠 Em análise |
-| **Última atualização** | 2026-09-05 |
 
 ## Definição Sintética
 

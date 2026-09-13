@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-257"
+nome = "Espiritismo como Expressão do Quarto Logos"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.4 Espiritualidade / Doutrina"
+status = "verificado"
+fontes = ["B016"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-12"
++++
 # Espiritismo como Expressão do Quarto Logos — RC-257
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
-| **Subcategoria** | 2.4 Espiritualidade / Doutrina |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-12 |
 
 ## Definição Sintética
 Revelação de Olm (B016, cap. 5): **"O espiritismo, adrede engendrado para ser uma expressão do Quarto Logos, foi abraçado pelas características do Terceiro Logos, porquanto inevitável."** Ou seja, a codificação espírita (Revelação Espiritual, Kardec) foi *planejada* como instrumento do Quarto Logos — uma "disciplina esclarecedora, que fugisse do culto da fé e da crendice" — mas acabou sendo apropriada pelas características do Terceiro Logos (Vishnu), tornando-se, em parte, mais um veículo de fé do que de busca da verdade.

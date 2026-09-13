@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-062"
+nome = "Experiência Gron"
+categoria = "Eventos & Eras"
+subcategoria = "7.5 Missões / Expedições / Encontros"
+status = "em análise"
+fontes = ["B031", "P2018-12-15"]
+via = "P7-conhecimento"
+confianca_fonte = "baixa"
+atualizado = "2026-09-05"
++++
 # Experiência Gron — RC-062
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | Eventos & Eras |
-| **Subcategoria** | 7.5 Missões / Expedições / Encontros |
-| **Status** | 🟠 Em análise |
-| **Última atualização** | 2026-09-05 |
 
 ## Definição Sintética
 

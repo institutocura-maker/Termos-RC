@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-846"
+nome = "Maria Orsic (médium da Sociedade Vril)"
+categoria = "Seres & Entidades"
+subcategoria = "1.6 Figuras humanas (históricas/míticas)"
+status = "verificado"
+fontes = ["P2018-12-16"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-31"
++++
 # Maria Orsic (médium da Sociedade Vril) — RC-846
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | Seres & Entidades |
-| **Subcategoria** | 1.6 Figuras humanas (históricas/míticas) |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-31 |
 
 ## Definição Sintética
 

@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-413"
+nome = "Hara (avatar de Shiva)"
+categoria = "Seres & Entidades"
+subcategoria = "1.3 Extraterrestres / Raças cósmicas"
+status = "verificado"
+fontes = ["B051", "B024", "P2022-05-07"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-31"
++++
 # Hara (avatar de Shiva) — RC-413
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | Seres & Entidades |
-| **Subcategoria** | 1.3 Extraterrestres / Raças cósmicas |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-31 |
 
 ## Definição Sintética
 

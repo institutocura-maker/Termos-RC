@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-404"
+nome = "Sentido Gradualístico das Leis da Evolução Cósmica"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.2 Leis e princípios cósmicos"
+status = "provisório"
+fontes = ["B027", "P2025-03-15", "P2025-02-15", "P2024-11-30", "P2024-11-09"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-13"
++++
 # Sentido Gradualístico das Leis da Evolução Cósmica — RC-404
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
-| **Subcategoria** | 2.2 Leis e princípios cósmicos |
-| **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-13 |
 
 ## Definição Sintética
 O "Sentido Gradualístico das Leis da Evolução Cósmica" — anunciado no cap. 1 ("O Aviso") de *Nos Céus da Grécia* (B027): "**O Sentido Gradualístico das Leis da Evolução Cósmica ainda está por ser explicado à comunidade terráquea**, e até que tal ensinamento seja concluído, as leis eternas e seus aspectos transitórios sempre se confundirão ao juízo menos aprofundado." O conceito aponta que as leis eternas se manifestam de forma gradual e adaptada à capacidade perceptiva de cada época.

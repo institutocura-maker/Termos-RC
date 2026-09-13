@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-495"
+nome = "Arabot-Ráquia (ambiente de Javé; = Araboth)"
+categoria = "Lokas & Geografias"
+subcategoria = "3.2 Lokas / Mundos interiores"
+status = "em análise"
+fontes = ["B061"]
+via = "P7-conhecimento"
+confianca_fonte = "baixa"
+atualizado = "2026-08-19"
++++
 # Arabot-Ráquia — RC-495
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | LOKAS & GEOGRAFIAS |
-| **Subcategoria** | 3.2 Lokas / Mundos interiores |
-| **Status** | 🟠 Em análise |
-| **Última atualização** | 2026-08-19 |
 
 ## Definição Sintética
 

@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-417"
+nome = "Resposta de Javé (em 1ª pessoa)"
+categoria = "Tecnologias & Artefatos"
+subcategoria = "5.4 Escrituras / Objetos documentais"
+status = "verificado"
+fontes = ["B034"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-13"
++++
 # Resposta de Javé (em 1ª pessoa) — RC-417
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | TECNOLOGIAS & ARTEFATOS |
-| **Subcategoria** | 5.4 Escrituras / Objetos documentais |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-13 |
 
 ## Definição Sintética
 As **respostas de Javé em primeira pessoa** — a parte mais singular de *Cartas a Javé* (B034): depois de Mônica Camargo escrever 16 cartas ao Criador, "o destinatário das mesmas — Senhor Javé — resolveu respondê-las, precisando, para tanto, de um intermediário que a reproduzisse para os olhos terrenos" (Jan Val Ellam). A "Resposta de Javé - Parte 1" abre com: "Trate-me como quiser, isso lhe permito" e contém a frase-chave: "**Acostumem-se e compreendam: sou eu que vivo em vocês!**"

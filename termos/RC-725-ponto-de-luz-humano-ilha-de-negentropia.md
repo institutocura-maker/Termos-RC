@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-725"
+nome = "Ponto de Luz Humano / Ilha de Negentropia"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.5 Propósitos / Destinos"
+status = "verificado"
+fontes = ["P2024-11-09", "P2024-09-29", "P2024-07-13", "P2023-06-24", "P2023-06-17", "P2023-04-01", "P2023-04-29", "P2022-09-24", "P2023-04-01b", "P2025-02-22", "P2023-12-03", "P2022-12-03", "P2022-11-26", "P2022-11-20", "P2022-07-16", "P2021-06-26"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-29"
++++
 # Ponto de Luz Humano / Ilha de Negentropia — RC-725
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
-| **Subcategoria** | 2.5 Propósitos / Destinos |
-| **Status** | 🟢 Verificado (candidatura aprovada pelo curador) |
-| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 Humano que, por vontade, serenidade e decência, produziria um foco de resistência à entropia informacional. Na linguagem da palestra, esse foco é um “ponto de luz” ou uma “ilha de negentropia”.

@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-003"
+nome = "Reintegração Cósmica"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.5 Propósitos / Destinos"
+status = "verificado"
+fontes = ["B031", "B003", "B025", "B026", "B005", "B027", "B042", "B037", "B009", "B017", "P2022-12-17", "P2021-12-04", "P2024-05-04", "P2025-02-16", "P2024-07-13", "P2024-03-02", "P2021-05-15", "P2022-03-26", "P2023-12-03", "P2025-06-14", "P2023-12-25-03", "P2020-04-04"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-29"
++++
 # Reintegração Cósmica — RC-003
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
-| **Subcategoria** | 2.5 Propósitos / Destinos |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 É a reintegração que a Terra sofrerá **após a vinda de Sophia** (o retorno de Jesus): o planeta será reintegrado ao **Circuito Cósmico**, retomando contato com seres de outros planetas e saindo do exílio imposto pelo próprio Sophia após a Rebelião de Lúcifer. Difere-se da Revelação Cósmica (é **um dos fatos marcantes** dentro dela). Para as gerações futuras, num âmbito maior, integrará também os seres do universo paralelo ao nosso universo (B031).

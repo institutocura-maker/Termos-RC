@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-036"
+nome = "Biodemos"
+categoria = "Seres & Entidades"
+subcategoria = "1.3 Extraterrestres / Raças cósmicas"
+status = "verificado"
+fontes = ["B031", "B044", "B001", "B017", "B018", "B039", "B023", "B050", "B057", "B058", "P2024-05-04", "P2024-04-13", "P2020-08-08", "P2021-03-13", "P2021-09-04", "P2021-05-15", "P2020-04-25", "P2022-03-26", "P2023-12-03", "P2021-01-30", "P2017-10-14", "P2023-08-27", "P2022-10-01", "P2022-09-25"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-29"
++++
 # Biodemos — RC-036
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | SERES & ENTIDADES |
-| **Subcategoria** | 1.3 Extraterrestres / Raças cósmicas |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 **Biodemos** é a estirpe extraterrestre de Capela da qual procedem os capelinos — os seres das famílias criadas por Sophia (Yel, Mion, Cromon, Shanlung, Val etc.), caracterizados por corpos longevos "sujeitos a fenecer", mentes coletivas ligadas por **Processadores Familiares** (RC-446) e programação genética predeterminada. É o "gênero" do qual as famílias capelinas são espécies.

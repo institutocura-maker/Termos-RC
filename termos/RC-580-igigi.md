@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-580"
+nome = "Igigi"
+categoria = "Seres & Entidades"
+subcategoria = "1.3 Extraterrestres / Raças cósmicas"
+status = "verificado"
+fontes = ["P2022-12-17", "P2024-04-13", "P2023-12-02; RC-673; RC-024; RC-488", "P2023-10-14"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-28"
++++
 # Igigi — RC-580
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | SERES & ENTIDADES |
-| **Subcategoria** | 1.3 Extraterrestres / Raças cósmicas |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 Classe de Anunnakis de menor escalão apresentada, na palestra, como rebelde e envolvida em cruzamentos com seres humanos.

@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-264"
+nome = "Planos de Existência da Cabala (Atziluth, Briah, Yetzirah, Assiah)"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.3 Dimensões / Planos de existência"
+status = "verificado"
+fontes = ["B013", "B060"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-12"
++++
 # Planos de Existência da Cabala (Atziluth, Briah, Yetzirah, Assiah) — RC-264
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
-| **Subcategoria** | 2.3 Dimensões / Planos de existência |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-12 |
 
 ## Definição Sintética
 Os **quatro universos/níveis dimensionais revelados pela Cabala**, mapeados por Ellam diretamente na cosmologia das RC (B013, cap. 6):

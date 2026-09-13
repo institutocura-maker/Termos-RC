@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-762"
+nome = "As Três Escalas da Consciência (Sábio → Mago → Iniciado)"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.4 Espiritualidade / Doutrina"
+status = "verificado"
+fontes = ["P2023-12-02", "P2022-03-26", "P2023-12-03"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-29"
++++
 # As Três Escalas da Consciência (Sábio → Mago → Iniciado) — RC-762
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
-| **Subcategoria** | 2.4 Espiritualidade / Doutrina |
-| **Status** | 🟢 Verificado (candidatura aprovada pelo curador (2026-08-18)) |
-| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 

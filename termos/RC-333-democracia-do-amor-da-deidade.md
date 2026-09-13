@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-333"
+nome = "Democracia do Amor da Deidade"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.6 Ética / Carma / Compromissos"
+status = "verificado"
+fontes = ["B048"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-12"
++++
 # Democracia do Amor da Deidade — RC-333
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
-| **Subcategoria** | 2.6 Ética / Carma / Compromissos |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-12 |
 
 ## Definição Sintética
 A **liberdade total concedida pela Deidade** às suas criaturas — o polo oposto à Teocracia da Doença de Javé (B048, cap. 6): "Observando a liberdade total que a Deidade, ainda que presente em todos os demais seres, concede à personalidade destes para que atuem conforme o tirocínio que lhe for próprio, **sem jamais obrigar ou impor coisa alguma a quem quer que seja**, e agora comparando com a submissão doentia exigida pelo Senhor Javé... vemos como realmente existe algo de muito errado com a postura deste último."

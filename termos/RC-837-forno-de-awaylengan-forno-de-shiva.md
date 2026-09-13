@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-837"
+nome = "Forno de Awaylengan (forno de Shiva — o primeiro a funcionar)"
+categoria = "Lokas & Geografias"
+subcategoria = "3.2 Lokas / Mundos interiores"
+status = "verificado"
+fontes = ["P2019-08-25", "ART-2025-08-01", "P2021-05-15", "P2022-03-26"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-31"
++++
 # Forno de Awaylengan (forno de Shiva — o primeiro a funcionar) — RC-837
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | LOKAS & GEOGRAFIAS |
-| **Subcategoria** | 3.2 Lokas / Mundos interiores |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-31 |
 
 ## Definição Sintética
 Forno replicador de vida do **Projeto Talm** (RC-091) sob o controle de **Shiva** (Segundo Logos, RC-102). Foi o **primeiro** dos três fornos a de fato funcionar, e o **mais ativo**: dele emergiram a **animalidade** (reino animal), os seres **radiata** (RC-093) mais animalizados e voltados à **emoção/sensação**, os gêneros **demol** e **demobiol**, e — na leitura da fonte — a origem da sexualidade. Descrito como base colossal cujo formato lembra "o obelisco gigantesco deitado" (com componente lido como o **lingam**).

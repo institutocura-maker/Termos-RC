@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-488"
+nome = "Nefilins (= Anunnaki)"
+categoria = "Seres & Entidades"
+subcategoria = "1.3 Extraterrestres / Raças cósmicas"
+status = "verificado"
+fontes = ["B061", "P2026-08-04", "P2021-03-27", "P2024-09-28", "P2023-10-14", "P2018-12-16", "P2022-09-17"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-28"
++++
 # Nefilins (= Anunnaki) — RC-488
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | SERES & ENTIDADES |
-| **Subcategoria** | 1.3 Extraterrestres / Raças cósmicas |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 

@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-847"
+nome = "Sociedade Vril"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.4 Espiritualidade / Doutrina"
+status = "verificado"
+fontes = ["P2018-12-16"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-31"
++++
 # Sociedade Vril — RC-847
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | Conceitos Cosmológicos |
-| **Subcategoria** | 2.4 Espiritualidade / Doutrina |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-31 |
 
 ## Definição Sintética
 

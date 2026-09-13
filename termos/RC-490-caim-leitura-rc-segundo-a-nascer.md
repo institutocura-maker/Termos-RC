@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-490"
+nome = "Caim (leitura RC: segundo a nascer)"
+categoria = "Seres & Entidades"
+subcategoria = "1.6 Figuras humanas (históricas/míticas)"
+status = "verificado"
+fontes = ["B061", "P2022-12-17", "P2025-02-16", "P2024-11-30", "P2023-08-05", "P2023-05-20"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-19"
++++
 # Caim (leitura RC: segundo a nascer) — RC-490
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | SERES & ENTIDADES |
-| **Subcategoria** | 1.6 Figuras humanas (históricas/míticas) |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-19 |
 
 ## Definição Sintética
 

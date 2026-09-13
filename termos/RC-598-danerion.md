@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-598"
+nome = "Danérion"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.3 Dimensões / Planos de existência"
+status = "verificado"
+fontes = ["P2021-12-04"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-14"
++++
 # Danérion — RC-598
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
-| **Subcategoria** | 2.3 Dimensões / Planos de existência |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-14 |
 
 ## Definição Sintética
 Um dos cinco Archeons de Ereon, ligado ao desenvolvimento das artes criativas de Antérion.

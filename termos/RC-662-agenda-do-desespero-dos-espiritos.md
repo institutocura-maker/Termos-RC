@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-662"
+nome = "Agenda do Desespero dos Espíritos"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.6 Ética / Carma / Compromissos"
+status = "verificado"
+fontes = ["P2025-06-26", "P2024-07-13"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-15"
++++
 # Agenda do Desespero dos Espíritos — RC-662
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
-| **Subcategoria** | 2.6 Ética / Carma / Compromissos |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-15 |
 
 ## Definição Sintética
 Uso antiético de eus humanos por espíritos para resolver pendências de agendas anteriores.

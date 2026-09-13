@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-175"
+nome = "Abelha-Rainha (Javé)"
+categoria = "Seres & Entidades"
+subcategoria = "1.1 Divindades / Criadores"
+status = "verificado"
+fontes = ["B044", "P2021-03-27", "P2024-09-28", "P2020-04-25", "P2022-03-26", "P2018-12-15"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-28"
++++
 # Abelha-Rainha (Javé) — RC-175
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
-| **Subcategoria** | 2.2 Leis e princípios cósmicos |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 

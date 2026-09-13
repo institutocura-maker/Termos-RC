@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-746"
+nome = "Dessensibilização da Condição Humana"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.2 Leis e princípios cósmicos"
+status = "verificado"
+fontes = ["P2024-03-03", "P2026-08-04"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-17"
++++
 # Dessensibilização da Condição Humana — RC-746
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
-| **Subcategoria** | 2.2 Leis e princípios cósmicos |
-| **Status** | 🟢 Verificado (candidatura aprovada pelo curador) |
-| **Última atualização** | 2026-08-17 |
 
 ## Definição Sintética
 

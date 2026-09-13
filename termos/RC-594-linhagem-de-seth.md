@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-594"
+nome = "Linhagem de Seth"
+categoria = "Genealogias & Linhagens"
+subcategoria = "6.2 Linhagens humanas"
+status = "verificado"
+fontes = ["P2022-12-17", "P2025-02-16", "P2024-11-30", "P2024-11-09", "P2024-09-28", "P2018-12-16", "P2023-08-27", "P2023-02-12"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-18"
++++
 # Linhagem de Seth — RC-594
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | GENEALOGIAS & LINHAGENS |
-| **Subcategoria** | 6.2 Linhagens humanas |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-18 |
 
 ## Definição Sintética
 Linhagem genealógica derivada de Seth, terceiro filho de Adão e Eva, preparada na ontologia para conexão futura com os Sethianos Emancipados.

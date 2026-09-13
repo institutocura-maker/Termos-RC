@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-382"
+nome = "A Vida do CFD de Javé no Ser Humano"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.2 Leis e princípios cósmicos"
+status = "verificado"
+fontes = ["B041", "B034", "P2024-09-29"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-12"
++++
 # A Vida do CFD de Javé no Ser Humano — RC-382
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
-| **Subcategoria** | 2.2 Leis e princípios cósmicos |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-12 |
 
 ## Definição Sintética
 **"A vida do CFD de Javé vive em cada um de nós"** (B041, cap. 10): "enquanto o condicionamento nos faz pensar que somos nós que vivemos a vida — isso é assunto para reflexão de gente adulta. Por isso que a 'vida nos vive', ao mesmo tempo em que a sensação e o poder de maya – o de cegar com a ilusão... faz com que pensemos que somos senhores da vida que levamos. **Esse é o mistério por trás do 'favor divino' do qual os nossos espíritos são os agentes da Deidade**, na sua ajuda às Divindades problemáticas."

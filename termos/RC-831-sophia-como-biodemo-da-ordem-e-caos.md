@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-831"
+nome = "Sophia Como Biodemo da Ordem e Caos"
+categoria = "Seres & Entidades"
+subcategoria = "1.7 Híbridos / Seres de transição"
+status = "verificado"
+fontes = ["P2023-12-17", "P2023-12-03", "P2018-10-06", "P2019-05-11", "P2025-05-10"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-31"
++++
 # Sophia Como Biodemo da Ordem e Caos — RC-831
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | SERES & ENTIDADES |
-| **Subcategoria** | 1.7 Espíritos Elevados / Mestres / Avatares |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-31 |
 
 ## Definição Sintética
 Tese (leitura do autor, palestra **P2023-12-17**, U0002) de que **Sophia (RC-009) é um biodemo** — híbrido de humano + demo, **parte ordem, parte caos**. "Sophia tem um quê de demo porque ele é biodemo, é a questão de ordem e caos. Onde tem caos, você tem que pôr ordem. E Sophia existe para pôr ordem no caos desse lado do universo." Sophia teve que **destruir muitas civilizações** que provocavam mais caos. Foi gerado com **4 cabeças** (no caso de Morenu, seu "irmão" — para a Trimurti destruir se descumprisse). Sophia se livrou gradualmente do controle mental de Javé (RC-001) à medida que Javé se esquecia dele. Ver RC-009 (Sophia), RC-104 (Trimurti), RC-001 (Javé), RC-316 (Morenu), RC-369 (Aya/Aye).

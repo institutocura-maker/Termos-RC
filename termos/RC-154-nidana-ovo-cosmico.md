@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-154"
+nome = "Nidana (ovo cósmico)"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.1 Cosmogonia / Criação"
+status = "em análise"
+fontes = ["B024", "P2024-05-04", "P2025-03-15", "P2024-11-30", "P2024-04-13", "P2023-09-09", "P2023-04-15", "P2020-04-25", "P2024-06-16", "P2018-12-15", "P2026-03-21"]
+via = "P7-conhecimento"
+confianca_fonte = "baixa"
+atualizado = "2026-09-05"
++++
 # Nidana (ovo cósmico) — RC-154
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | Conceitos Cosmológicos |
-| **Subcategoria** | 2.1 Cosmogonia / Criação |
-| **Status** | 🟠 Em análise |
-| **Última atualização** | 2026-09-05 |
 
 ## Definição Sintética
 

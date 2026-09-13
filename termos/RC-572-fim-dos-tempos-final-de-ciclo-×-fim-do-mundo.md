@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-572"
+nome = "Fim dos Tempos / Final de Ciclo × Fim do Mundo"
+categoria = "Eventos & Eras"
+subcategoria = "7.3 Profecias / Anúncios"
+status = "verificado"
+fontes = ["P2022-12-17", "P2026-08-04"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-14"
++++
 # Fim dos Tempos / Final de Ciclo × Fim do Mundo — RC-572
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | EVENTOS & ERAS |
-| **Subcategoria** | 7.3 Profecias / Anúncios |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-14 |
 
 ## Definição Sintética
 Distinção entre o encerramento de uma época, ciclo ou regime temporal e a destruição do planeta, da humanidade ou do universo.

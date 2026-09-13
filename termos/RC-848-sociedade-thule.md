@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-848"
+nome = "Sociedade Thule"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.4 Espiritualidade / Doutrina"
+status = "verificado"
+fontes = ["P2018-12-16"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-31"
++++
 # Sociedade Thule — RC-848
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | Conceitos Cosmológicos |
-| **Subcategoria** | 2.4 Espiritualidade / Doutrina |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-31 |
 
 ## Definição Sintética
 

@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-024"
+nome = "Anunnaki"
+categoria = "Seres & Entidades"
+subcategoria = "1.3 Extraterrestres / Raças cósmicas"
+status = "verificado"
+fontes = ["B031", "B017", "B018", "B023", "B015", "B061", "P2022-12-17", "P2025-02-16", "P2024-11-30", "P2024-11-09", "P2024-04-13", "P2023-12-02", "P2021-03-27", "B089", "P2023-05-20", "P2023-04-01", "P2024-11-03", "P2021-05-15", "P2023-10-14", "P2023-12-03", "P2022-05-07", "P2017-10-14"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-29"
++++
 # Anunnaki — RC-024
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | SERES & ENTIDADES |
-| **Subcategoria** | 1.3 Extraterrestres / Raças cósmicas |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 

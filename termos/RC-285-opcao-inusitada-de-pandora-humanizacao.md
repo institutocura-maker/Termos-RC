@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-285"
+nome = "Opção Inusitada de Pandora (humanização)"
+categoria = "Processos & Fenômenos"
+subcategoria = "4.2 Fenômenos espirituais / mediúnicos"
+status = "verificado"
+fontes = ["B020", "P2021-12-04", "B087", "B088", "B089", "P2020-04-25"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-28"
++++
 # Opção Inusitada de Pandora (humanização) — RC-285
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | PROCESSOS & FENÔMENOS |
-| **Subcategoria** | 4.2 Fenômenos espirituais / mediúnicos |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 O momento em que Pandora **decidiu se humanizar de vez**, usando "a opção mental que Hefesto havia deixado pendente no meu código genético pessoal" (B020, cap. 6): "Foi quando decidi humanizar-me de vez e fiz uso da opção mental que Hefesto havia deixado pendente no meu código genético pessoal... tentei, ao meu modo, pacificar a minha mente para que o meu 'movimento de consciência', profundamente estabelecido na minha vontade, pudesse..." (a "transferência de fase" demo → homo, mencionada em B031). É o correlato do deslacre mental: Pandora libertou-se da "trava-demo" e tornou-se a **primeira mulher humana racional**.

@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-790"
+nome = "Quinaras / Centauros (Seres Reais que Hoje Nascem Humanos)"
+categoria = "Seres & Entidades"
+subcategoria = "1.7 Híbridos / Seres de transição"
+status = "verificado"
+fontes = ["P2025-04-06"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-30"
++++
 # Quinaras / Centauros (Seres Reais que Hoje Nascem Humanos) — RC-790
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | SERES & ENTIDADES |
-| **Subcategoria** | 1.7 Híbridos / Seres de transição |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-30 |
 
 ## Definição Sintética
 Tese (leitura do autor, palestra **P2025-04-06**, U0004) de que os **"Quinaras"** — termo sânscrito para o que a mitologia grega chama de **"centauros"** (meio-humanos, meio-cavalos/bodes/bois) — são **seres reais**, não fictícios. Eles existem no **universo vizinho** como **"meio retardados"** que praticam alquimia; e hoje estão **nascendo como humanos** porque o universo vizinho está colapsando. Os centauros têm **protorracionalidade** que aparece como "linguagem mental" em animais irracionais da Terra (cachorros, elefantes, cavalos). Ver RC-696 (Geração Regenerada de Brahma), RC-577 (Xamanismo Cósmico).

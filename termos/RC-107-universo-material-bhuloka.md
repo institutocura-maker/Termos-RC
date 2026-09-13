@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-107"
+nome = "Universo Material (Bhuloka)"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.3 Dimensões / Planos de existência"
+status = "verificado"
+fontes = ["B031", "B024", "B044", "B001", "B002", "B013", "B005", "B060", "P2024-05-04", "P2025-03-15", "P2025-02-16", "P2025-02-15", "P2024-11-30", "P2024-11-09"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-12"
++++
 # Universo Material (Bhuloka) — RC-107
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
-| **Subcategoria** | 2.3 Dimensões / Planos de existência |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-12 |
 
 ## Definição Sintética
 É o universo que habitamos, que passou a existir há **13,7 bilhões de anos** a partir de uma singularidade chamada **Big Bang** ("Grande Expansão"). Formado por bilhões de galáxias, estrelas e planetas; também chamado de **Bhuloka** (termo sânscrito). É o universo da vida biológica "de vida curta", para onde o Projeto Talm transferiu o código de vida do Criador (B031).

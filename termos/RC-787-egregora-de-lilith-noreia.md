@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-787"
+nome = "Egrégora de Lilith / Noreia (Loop Mental Vivo)"
+categoria = "Processos & Fenômenos"
+subcategoria = "4.2 Fenômenos espirituais / mediúnicos"
+status = "verificado"
+fontes = ["P2023-11-11"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-30"
++++
 # Egrégora de Lilith / Noreia (Loop Mental Vivo) — RC-787
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | PROCESSOS & FENÔMENOS |
-| **Subcategoria** | 4.2 Fenômenos espirituais / mediúnicos |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-30 |
 
 ## Definição Sintética
 Tese (leitura do autor, palestra **P2023-11-11 — De Pandora a Eva e a Rebelião de Lilith**, U0004/U0005) de que **Lilith (RC-308) e Noreia (RC-579) criaram, ao longo de milênios, um "loop mental vivo"** — cópias de consciência presas que, **quando evocadas (em palestras, livros, rituais), mexem com a estabilidade de quem ouve**. É como se houvesse uma **egrégora** (entidade coletiva gerada por pensamentos/emoções cristalizados) que se ativa toda vez que essas figuras são mencionadas. O autor, por isso, **se esquiva de aprofundá-las** — para não ativar o loop. Ver RC-308 (Lilith), RC-579 (Noreia) para as figuras; RC-335 (Lavagem Cerebral) para o conceito correlato de "memória cancelada".

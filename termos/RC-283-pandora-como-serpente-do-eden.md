@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-283"
+nome = "Pandora como Serpente do Éden"
+categoria = "Eventos & Eras"
+subcategoria = "7.5 Missões / Expedições / Encontros"
+status = "verificado"
+fontes = ["B020", "P2022-12-17", "P2025-02-16", "P2024-11-30", "P2024-11-09", "P2025-02-22", "P2020-04-25", "P2022-03-26"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-28"
++++
 # Pandora como Serpente do Éden — RC-283
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | EVENTOS & ERAS |
-| **Subcategoria** | 7.5 Missões / Expedições / Encontros |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 Revelação central de *O Sorriso de Pandora* (B020, cap. 9): **Pandora fez o papel da serpente do Jardim do Éden** — não uma serpente literal, mas a figura que afrontou o Criador para proteger a humanidade: "Aqui fiz o papel da serpente pois, enquanto mulher, mas com o meu poder mental demoníaco ainda acionado, afrontei Caos e os seus anjos como forma de proteger a minha semeadura entre os humanos." Ao agir assim, impediu que o Criador adestrasse o casal do Éden e, em seguida, eliminasse seus descendentes.

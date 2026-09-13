@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-145"
+nome = "Zeus"
+categoria = "Seres & Entidades"
+subcategoria = "1.5 Decaídos / Exilados / Demônios"
+status = "verificado"
+fontes = ["B031", "B020", "B021", "B050", "B060", "P2022-12-17", "P2025-10-25", "P2024-11-30", "P2024-11-09", "P2024-09-29", "B087", "B088", "B089", "P2020-09-19", "P2023-12-03", "P2021-02-28", "P2020-04-04"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-29"
++++
 # Zeus — RC-145
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | SERES & ENTIDADES |
-| **Subcategoria** | 1.5 Decaídos / Exilados / Demônios |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 **Zeus** é o "deus do Olimpo" da narrativa RC — chefe da **"Assembleia dos Eleitos"** (os doze), autointitulado **"Senhor de Todos os Seres Viventes"**, quarto gerador da teogonia (Urano → Cronos → Zeus) que venceu e aprisionou os titãs no tártaro. Criador tirânico de **Pandora** (RC-086) e adversário de **Prometeu** (RC-301): a vingança contra o titã — a "caixa" com "algoritmos virais" e a transformação forçada de Pandora — é o motor do Livro 1 da trilogia psicografada de Jeane Miranda. Na malha RC, Zeus é figura da linhagem olimpiana (universo antimaterial) ligada à **Era dos Humanos** (RC-297).

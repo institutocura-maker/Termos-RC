@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-436"
+nome = "Heber (patriarca pós-dilúvio)"
+categoria = "Seres & Entidades"
+subcategoria = "1.6 Figuras humanas (históricas/míticas)"
+status = "verificado"
+fontes = ["B052", "B060", "P2022-12-17", "P2025-10-25", "P2024-11-30"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-09-10"
++++
 # Heber (patriarca pós-dilúvio) — RC-436
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | SERES & ENTIDADES |
-| **Subcategoria** | 1.6 Figuras humanas (históricas/míticas) |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-09-10 |
 
 ## Definição Sintética
 

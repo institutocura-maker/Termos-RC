@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-832"
+nome = "Pulsação dos Elétrons Como Afetividade Humana"
+categoria = "Processos & Fenômenos"
+subcategoria = "4.4 Fenômenos físicos / energéticos"
+status = "verificado"
+fontes = ["P2023-12-17"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-31"
++++
 # Pulsação dos Elétrons Como Afetividade Humana — RC-832
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | PROCESSOS & FENÔMENOS |
-| **Subcategoria** | 4.6 Processos sociais / biológicos |
-| **Status** | 🟢 Verificado (com quarentena social FORTE) |
-| **Última atualização** | 2026-08-31 |
 
 ## Definição Sintética
 Tese (leitura do autor, palestra **P2023-12-17**, U0004) de que o **comportamento biológico humano** (afetividade, identidade de gênero, medo de relação sexual, vontade de ficar só, insegurança) é promovido pela **pulsação dos elétrons (RC-162)** — **NÃO é escolha humana livre**, é "comportamento biológico promovido pela pulsação dos elétrons". Os elétrons estão **desincentivando a reprodução humana** para parar com a "máquina de gerar vida" — "Cara, a gente tem que parar com a máquina de gerar vida nos termos em que sempre foi feito". Ver RC-162 (Elétron), RC-099 (Homo Sapiens), RC-009 (Sophia), RC-330 (Genoma), RC-826 (Rebelião dos Elétrons).

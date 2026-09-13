@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-516"
+nome = "Hibridização genética (Nefilim reinterpretado)"
+categoria = "Processos & Fenômenos"
+subcategoria = "4.1 Processos biológicos / genéticos"
+status = "em análise"
+fontes = ["B071", "P2022-12-17", "P2024-09-29", "P2021-03-27", "P2021-05-15", "P2023-10-14", "P2020-04-25", "P2022-03-26", "P2023-12-03"]
+via = "P7-conhecimento"
+confianca_fonte = "baixa"
+atualizado = "2026-08-29"
++++
 # Hibridização genética (Nefilim reinterpretado) — RC-516
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | PROCESSOS & FENÔMENOS |
-| **Subcategoria** | 4.1 Processos biológicos / genéticos |
-| **Status** | 🟠 Em análise |
-| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 

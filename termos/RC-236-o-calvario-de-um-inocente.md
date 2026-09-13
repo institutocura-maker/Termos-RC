@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-236"
+nome = "O Calvário de um Inocente"
+categoria = "Eventos & Eras"
+subcategoria = "7.1 Guerras / Rebeliões / Conflitos"
+status = "verificado"
+fontes = ["B039", "B011"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-12"
++++
 # O Calvário de um Inocente — RC-236
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | EVENTOS & ERAS |
-| **Subcategoria** | 7.1 Guerras / Rebeliões / Conflitos |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-12 |
 
 ## Definição Sintética
 Capítulo 11 de *Terra Atlantis III: A Era Sapiens* (B039) que narra o **impacto da crucificação de Jesus sobre Yel Luzbel (Lúcifer)** e o desfecho do envolvimento rebelde: "Yel Luzbel retirou-se atordoado e, a partir daquele momento, não mais voltou ao convívio dos seus pares... Desde aquele instante, Lúcifer isolou-se, e não mais comandou a sua falange ou o que dela restava. A base Atlan voltou a ser o seu 'refúgio'." A expressão "Calvário de um Inocente" refere-se à crucificação de Jesus vista sob a ótica dos exilados (Len Mion e Yel Luzbel acompanhavam o Messias anunciado).

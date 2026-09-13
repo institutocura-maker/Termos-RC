@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-295"
+nome = "Drama do Fechamento dos Portais"
+categoria = "Eventos & Eras"
+subcategoria = "7.4 Catástrofes / Dilúvios / Quedas"
+status = "em análise"
+fontes = ["B021", "P2022-12-17", "P2025-02-16", "P2024-11-30", "P2024-09-29", "P2023-12-03", "P2022-11-26", "P2022-10-01", "P2022-09-25", "P2022-07-16", "P2021-04-10"]
+via = "P7-conhecimento"
+confianca_fonte = "baixa"
+atualizado = "2026-08-29"
++++
 # Drama do Fechamento dos Portais — RC-295
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | EVENTOS & ERAS |
-| **Subcategoria** | 7.4 Catástrofes / Dilúvios / Quedas |
-| **Status** | 🟠 Em análise |
-| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 O processo de **fechamento dos portais entre o universo antimaterial e o material** — um dos principais temas ausentes dos estudos humanos, "ao qual a mitologia não se refere" (B021, cap. 21). Quando os portais se fecharam, os deuses do universo vizinho não puderam mais se manifestar diretamente na Terra, e cessaram os registros produzidos por eles para os humanos. **O grande impacto do fechamento total dos portais é que "a partir desse evento se acabou o engodo dos deuses, já que não puderam mais manipular os humanos por meio de 'adivinhação astrológica'"** — o que levou Zeus e Apolo a desenvolverem o controle por meio das **pitonisas e oráculos**.

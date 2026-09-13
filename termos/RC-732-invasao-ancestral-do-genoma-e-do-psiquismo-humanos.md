@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-732"
+nome = "Invasão Ancestral do Genoma e do Psiquismo Humanos"
+categoria = "Processos & Fenômenos"
+subcategoria = "4.1 Processos biológicos / genéticos"
+status = "verificado"
+fontes = ["P2024-11-02", "P2024-08-03", "P2024-07-13"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-17"
++++
 # Invasão Ancestral do Genoma e do Psiquismo Humanos — RC-732
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | PROCESSOS & FENÔMENOS |
-| **Subcategoria** | 4.1 Processos biológicos / genéticos |
-| **Status** | 🟢 Verificado (candidatura aprovada pelo curador) |
-| **Última atualização** | 2026-08-17 |
 
 ## Definição Sintética
 

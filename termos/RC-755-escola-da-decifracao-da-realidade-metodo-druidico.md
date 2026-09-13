@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-755"
+nome = "Escola da Decifração da Realidade (Método Druídico)"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.4 Espiritualidade / Doutrina"
+status = "verificado"
+fontes = ["P2025-06-14b", "P2024-02-03", "P2024-11-03", "P2021-05-15", "P2020-04-25", "P2022-03-26", "P2023-12-03", "P2021-06-26", "B016"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-09-05"
++++
 # Escola da Decifração da Realidade (Método Druídico) — RC-755
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
-| **Subcategoria** | 2.4 Espiritualidade / Doutrina |
-| **Status** | 🟢 Verificado (candidatura aprovada pelo curador) |
-| **Última atualização** | 2026-09-05 |
 
 ## Definição Sintética
 

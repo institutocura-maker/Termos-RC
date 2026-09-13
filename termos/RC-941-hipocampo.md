@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-941"
+nome = "Hipocampo"
+categoria = "Processos & Fenômenos"
+subcategoria = "4.1 Processos biológicos / genéticos"
+status = "provisório"
+fontes = []
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-09-06"
++++
 # HIPOCAMPO — RC-941
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | Processos & Fenômenos |
-| **Subcategoria** | 4.1 Processos biológicos / genéticos |
-| **Status** | 🟡 provisório |
-| **Última atualização** | 2026-09-06 |
 
 ## Definição Sintética
 Estrutura cerebral do armazenamento temporário da memória (principalmente a de longo prazo), parte do sistema límbico; no corpus, a base física onde o registro RC localiza a «puxada» dos arquivos mentais — sem redução da fenomenologia espiritual à anatomia.

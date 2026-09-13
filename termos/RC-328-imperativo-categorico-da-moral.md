@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-328"
+nome = "Imperativo Categórico da Moral"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.6 Ética / Carma / Compromissos"
+status = "verificado"
+fontes = ["B023", "P2026-07-30", "P2026-04-02", "P2025-03-15", "P2025-02-15", "P2024-11-30", "P2024-11-09"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-12"
++++
 # Imperativo Categórico da Moral — RC-328
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
-| **Subcategoria** | 2.6 Ética / Carma / Compromissos |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-12 |
 
 ## Definição Sintética
 O **imperativo categórico da moral ou da espiritualização** — a constatação de *O Dharma e as Castas Hindus* (B023, cap. 9): "Há um imperativo categórico, no campo da moral, atrelado ao modo da existência espiritual, que mesmo a 'Revelação Espiritual' não pôde explicar na segunda metade do século XIX, nem Sai Baba... esclarecer." Esse imperativo "somente surgiu... a partir da **eclosão da racionalidade humana**": "o senso crítico, associado à razão filosófica capaz de valorar emoções com padrões superiores e refinados, estabeleceu um **freio ao modo destemperado com que o 'mal' e a 'ignorância' vinham atuando livremente na Criação**". É uma das constatações mais importantes a serem decifradas pelas gerações futuras.

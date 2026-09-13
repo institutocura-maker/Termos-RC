@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-802"
+nome = "Humanos como Cobaias dos Deuses"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.1 Cosmogonia / Criação"
+status = "verificado"
+fontes = ["P2018-02-24"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-30"
++++
 # Humanos como Cobaias dos Deuses — RC-802
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
-| **Subcategoria** | 2.1 Cosmogonia / Criação |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-30 |
 
 ## Definição Sintética
 Tese (leitura do autor, palestra **P2018-02-24**, U0004/U0005) de que **os humanos (RC-099) são "cobaias que receberam o final de genética da vida dos deuses"** — incluindo a "doença do criador" (violência, dominação, corrupção). Os humanos herdaram "lutas de sequências de um DNA que estão atavicamente adormecidas em todos os seres humanos" e que "vão sendo despertadas" de acordo com as circunstâncias. A humanidade, portanto, é **produto experimental** da estratégia dos deuses. Ver RC-099 (Homo Sapiens), RC-422 (Ser Criador Fracassado), RC-797 (Estratégia dos Avatares).

@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-771"
+nome = "Fornos Replicadores (naves/estações de semeadura de vida do Projeto Talm; Awayen, Awaylengan e Awaymaion)"
+categoria = "Tecnologias & Artefatos"
+subcategoria = "5.1 Naves / Tecnologia extraterrestre"
+status = "em análise"
+fontes = ["B061", "P2021-12-04", "P2024-05-04", "ART-2025-08-01", "P2025-02-22", "P2025-07-18", "P2021-05-15", "P2022-03-26", "P2023-12-03", "P2022-05-07", "P2024-06-16", "P2017-10-14"]
+via = "P7-conhecimento"
+confianca_fonte = "baixa"
+atualizado = "2026-08-29"
++++
 # Fornos Replicadores — RC-771
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | TECNOLOGIAS & ARTEFATOS |
-| **Subcategoria** | 5.1 Naves / Tecnologia extraterrestre |
-| **Status** | 🟠 Em análise |
-| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 Naves ou estações gigantescas de semeadura de vida biológica, construídas pela Trimurti para viabilizar o **Projeto Talm** (RC-091): **Awayen** (de Brahma/Javé), **Awaylengan** (de Shiva) e **Awaymaion** (de Vishnu — RC-499). Também chamados de "laboratórios dimensionais" ou "Centrais de Realidades". Criados para produzir seres capazes de atravessar e viver num universo com leis de Física e Química diferentes, onde antimatéria e matéria não se anulassem.

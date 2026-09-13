@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-422"
+nome = "Ser-Criador fracassado (autoconfissão de Javé)"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.5 Propósitos / Destinos"
+status = "verificado"
+fontes = ["B036", "B037", "P2024-11-30", "P2024-11-09", "P2023-10-14", "P2020-04-25", "P2022-03-26"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-28"
++++
 # Ser-Criador fracassado (autoconfissão de Javé) — RC-422
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
-| **Subcategoria** | 2.5 Propósitos / Destinos |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 A **autoconfissão de Javé** como "Ser-Criador fracassado" — o conceito central das *Memórias de Javé* (B036): a Primeira Crônica registra o humano (Ellam) acusando o Criador: "Foi a inconsequente roda de gerar vida que inventaste, que forçou muitos de nós a assumir personagens, para fazer valer a sua desdita enquanto **Ser-Criador fracassado** de uma Obra que, se um dia pensada como um paraíso, transformou-se no inferno existencial de tantos". Javé admite: "Preciso viver e, vida, agora, para mim, é avaliar o modo como existo, uma vez que minha forma a isso me obriga, pois tenho que redimensioná-la."

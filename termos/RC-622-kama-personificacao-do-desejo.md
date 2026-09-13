@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-622"
+nome = "Kama (personificação do desejo)"
+categoria = "Seres & Entidades"
+subcategoria = "1.1 Divindades / Criadores"
+status = "verificado"
+fontes = ["P2026-07-30", "P2024-08-03"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-14"
++++
 # Kama (personificação do desejo) — RC-622
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | SERES & ENTIDADES |
-| **Subcategoria** | 1.1 Divindades / Criadores |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-14 |
 
 ## Definição Sintética
 Ser criado por Vishnu como personificação do desejo despertado nos deuses diante da Grande Deusa Deva/Aurora.

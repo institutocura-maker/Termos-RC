@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-651"
+nome = "Individualização Epifenomenológica dos Anjos Clones"
+categoria = "Processos & Fenômenos"
+subcategoria = "4.2 Fenômenos espirituais / mediúnicos"
+status = "em análise"
+fontes = ["P2025-10-25", "P2025-06-26", "P2023-06-17"]
+via = "P7-conhecimento"
+confianca_fonte = "baixa"
+atualizado = "2026-08-15"
++++
 # Individualização Epifenomenológica dos Anjos Clones — RC-651
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | PROCESSOS & FENÔMENOS |
-| **Subcategoria** | 4.2 Fenômenos espirituais / mediúnicos |
-| **Status** | 🟠 Em análise |
-| **Última atualização** | 2026-08-15 |
 
 ## Definição Sintética
 Processo pelo qual anjos clones desenvolvem senso de identidade e iniciativa após o colapso do comando de Javé.

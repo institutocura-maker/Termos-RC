@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-769"
+nome = "Corpos Fenvã (terceira forma de vida do universo vizinho)"
+categoria = "Seres & Entidades"
+subcategoria = "1.3 Extraterrestres / Raças cósmicas"
+status = "em análise"
+fontes = ["P2026-07-25", "P2026-03-21"]
+via = "P7-conhecimento"
+confianca_fonte = "baixa"
+atualizado = "2026-08-19"
++++
 # Corpos Fenvã — RC-769
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | SERES & ENTIDADES |
-| **Subcategoria** | 1.3 Extraterrestres / Raças cósmicas |
-| **Status** | 🟠 Em análise |
-| **Última atualização** | 2026-08-19 |
 
 ## Definição Sintética
 

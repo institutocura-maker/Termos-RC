@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-694"
+nome = "Oitavo Dia da Criação"
+categoria = "Eventos & Eras"
+subcategoria = "7.2 Eras / Épocas / Ciclos"
+status = "verificado"
+fontes = ["P2025-02-16", "P2025-02-15", "P2023-06-17"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-15"
++++
 # Oitavo Dia da Criação — RC-694
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | EVENTOS & ERAS |
-| **Subcategoria** | 7.2 Eras / Épocas / Ciclos |
-| **Status** | 🟢 Verificado (candidatura aprovada pelo curador) |
-| **Última atualização** | 2026-08-15 |
 
 ## Definição Sintética
 Novo tempo ainda por ser cumprido, posterior ao ciclo simbolizado pelos sete dias da criação, no qual um novo padrão humano pode participar conscientemente da reorganização da obra do Criador.

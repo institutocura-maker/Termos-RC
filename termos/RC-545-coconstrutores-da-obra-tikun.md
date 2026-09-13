@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-545"
+nome = "Coconstrutores da Obra (tikun)"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.5 Propósitos / Destinos"
+status = "verificado"
+fontes = ["B019", "P2025-02-16", "P2024-11-30", "P2024-07-14", "ART-2026-08-18", "P2023-10-14", "P2022-03-26"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-28"
++++
 # Coconstrutores da Obra (tikun) — RC-545
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | Conceitos Cosmológicos |
-| **Subcategoria** | 2.5 Propósitos / Destinos |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 

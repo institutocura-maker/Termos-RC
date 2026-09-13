@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-410"
+nome = "ADHYPRABRAJNA (grafia do diagrama)"
+categoria = "Seres & Entidades"
+subcategoria = "1.1 Divindades / Criadores"
+status = "verificado"
+fontes = ["B051", "B060", "B061", "P2021-12-04", "P2024-05-04", "P2025-02-16", "P2024-11-30"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-09-07"
++++
 # ADHYPRABRAJNA (grafia do diagrama) — RC-410
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | SERES & ENTIDADES |
-| **Subcategoria** | 1.1 Divindades / Criadores |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-09-07 |
 
 ## Definição Sintética
 Grafia do diagrama para o nome do Criador antes da queda: ADHYPRABRAJNA. É a forma usada nos quadros e diagramas das obras (B051, B060, B061) para Adhyshprabrajna (RC-310) — o ser da condição Adhyatman que, após a queda, passa a ser chamado Prabrajna (RC-152) e, depois, Brahma / Javé (RC-037 / RC-001).

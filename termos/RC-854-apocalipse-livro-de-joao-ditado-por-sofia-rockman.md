@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-854"
+nome = "Apocalipse (livro de João, ditado por Sofia/Rockman)"
+categoria = "Tecnologias & Artefatos"
+subcategoria = "5.4 Escrituras / Objetos documentais"
+status = "verificado"
+fontes = ["P2025-05-10", "P2023-02-11", "P2022-11-20", "P2026-03-21", "P2023-12-25-03"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-31"
++++
 # Apocalipse (livro de João, ditado por Sofia/Rockman) — RC-854
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | Tecnologias & Artefatos |
-| **Subcategoria** | 5.4 Escrituras / Objetos documentais |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-31 |
 
 ## Definição Sintética
 

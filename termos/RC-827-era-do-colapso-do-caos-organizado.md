@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-827"
+nome = "Era do Colapso do Caos Organizado"
+categoria = "Eventos & Eras"
+subcategoria = "7.2 Eras / Épocas / Ciclos"
+status = "verificado"
+fontes = ["P2023-12-17"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-31"
++++
 # Era do Colapso do Caos Organizado — RC-827
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | EVENTOS & ERAS |
-| **Subcategoria** | 7.2 Eras / Épocas / Ciclos |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-31 |
 
 ## Definição Sintética
 Tese (leitura do autor, palestra **P2023-12-17 — Lúcifer e a Rebelião dos Elétrons**, U0005) de que **a humanidade está vivendo "a era do colapso do caos organizado"** — o caos se organizou criando vida (colmeias, corais, humanos), mas agora a **entropia (força tamásica, RC-148)** + a **rebelião dos elétrons (RC-826)** estão colapsando as "ilhas de negentropia". "Ninguém reverte isso. Se nós humanos nos especiarmos e vários núcleos humanos conseguirem, isso vai ser serão novas ilhas de neentropia em pleno caos, produzindo informações maravilhosas." Ver RC-162 (Elétron), RC-148 (Shiva), RC-001 (Javé), RC-162 (Plasma), RC-826 (Rebelião dos Elétrons), RC-832 (Pulsação dos Elétrons).

@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-758"
+nome = "Quarto Cérebro (centro de sabedoria vibracional)"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.5 Propósitos / Destinos"
+status = "verificado"
+fontes = ["ART-2026-08-18", "P2021-05-15", "P2020-04-25", "P2022-03-26", "P2023-12-03"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-29"
++++
 # Quarto Cérebro (centro de sabedoria vibracional) — RC-758
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
-| **Subcategoria** | 2.5 Propósitos / Destinos |
-| **Status** | 🟢 Verificado (candidatura aprovada pelo curador) |
-| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 

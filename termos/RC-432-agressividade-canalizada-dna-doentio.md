@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-432"
+nome = "Agressividade canalizada (DNA doentio)"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.2 Leis e princípios cósmicos"
+status = "verificado"
+fontes = ["B040", "B052", "P2024-11-30", "P2023-10-14", "P2023-12-03"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-29"
++++
 # Agressividade canalizada (DNA doentio) — RC-432
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | Conceitos Cosmológicos |
-| **Subcategoria** | 2.2 Leis e princípios cósmicos |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 

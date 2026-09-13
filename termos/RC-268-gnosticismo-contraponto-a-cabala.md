@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-268"
+nome = "Gnosticismo (contraponto à Cabala)"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.4 Espiritualidade / Doutrina"
+status = "verificado"
+fontes = ["B013", "P2026-04-02", "P2024-11-09", "P2023-12-02", "P2024-09-28", "P2025-05-10"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-18"
++++
 # Gnosticismo (contraponto à Cabala) — RC-268
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
-| **Subcategoria** | 2.4 Espiritualidade / Doutrina |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-18 |
 
 ## Definição Sintética
 

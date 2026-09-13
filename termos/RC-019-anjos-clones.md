@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-019"
+nome = "Anjos clones"
+categoria = "Seres & Entidades"
+subcategoria = "1.4 Anjos / Arcanjos / Querubins"
+status = "em análise"
+fontes = ["B031", "B024", "B044", "B035", "B001", "B002", "B015", "P2025-10-25", "P2025-06-26", "P2025-02-15", "P2024-11-30", "P2024-09-29", "P2024-04-13", "P2023-06-17", "P2020-07-04", "P2020-05-09", "P2021-03-13", "P2024-06-16", "P2020-04-04"]
+via = "P7-conhecimento"
+confianca_fonte = "baixa"
+atualizado = "2026-08-31"
++++
 # Anjos clones — RC-019
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | Seres & Entidades |
-| **Subcategoria** | 1.4 Anjos / Arcanjos / Querubins |
-| **Status** | 🟠 Em análise |
-| **Última atualização** | 2026-08-31 |
 
 ## Definição Sintética
 

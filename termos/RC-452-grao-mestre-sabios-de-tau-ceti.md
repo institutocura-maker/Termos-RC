@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-452"
+nome = "Grão-mestre (Sábios de Tau Ceti)"
+categoria = "Seres & Entidades"
+subcategoria = "1.3 Extraterrestres / Raças cósmicas"
+status = "provisório"
+fontes = ["B058"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-25"
++++
 # Grão-mestre (Sábios de Tau Ceti) — RC-452
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | SERES & ENTIDADES |
-| **Subcategoria** | 1.3 Extraterrestres / Raças cósmicas |
-| **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-25 |
 
 ## Definição Sintética
 **Grão-mestre** é o título do **"Primeiro Mestre"** da Universidade de Tau Ceti (RC-451) — o porta-voz do "Conselho de Sábios da Grande Fraternidade Tau Ceti" no Livro 2 da trilogia de Yel Luzbel. Foi ele quem recebeu o "Primeiro Pesquisador" para a "sabatina" e proferiu o veredito que validou o movimento rebelde: as premissas de Yel Luzbel eram **"irrefutáveis"**, e os Sábios confessaram jamais ter tido contato direto com o Criador.

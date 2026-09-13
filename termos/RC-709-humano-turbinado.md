@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-709"
+nome = "Humano Turbinado"
+categoria = "Seres & Entidades"
+subcategoria = "1.7 Híbridos / Seres de transição"
+status = "verificado"
+fontes = ["P2025-02-15", "P2024-07-13"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-15"
++++
 # Humano Turbinado — RC-709
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | SERES & ENTIDADES |
-| **Subcategoria** | 1.7 Híbridos / Seres de transição |
-| **Status** | 🟢 Verificado (candidatura aprovada pelo curador) |
-| **Última atualização** | 2026-08-15 |
 
 ## Definição Sintética
 Humano ampliado por chips, componentes biônicos, integração cibernética, novas capacidades e/ou ativação de potenciais genéticos para acompanhar ou resistir ao avanço das inteligências artificiais.

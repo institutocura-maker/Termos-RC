@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-472"
+nome = "Tempérion (Archeon de Ereon; setor dos seres LM)"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.3 Dimensões / Planos de existência"
+status = "verificado"
+fontes = ["B060", "B061", "P2021-12-04", "P2024-05-04", "P2024-11-30"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-14"
++++
 # Tempérion (Archeon de Ereon; setor dos seres LM) — RC-472
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
-| **Subcategoria** | 2.3 Dimensões / Planos de existência |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-14 |
 
 ## Definição Sintética
 Tempérion é um dos cinco Archeons de Ereon e o setor da Espiritualidade Laboratorial associado aos seres do gênero LM, entre eles Elm e Olm.

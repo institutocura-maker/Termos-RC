@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-319"
+nome = "Fator Dharma"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.2 Leis e princípios cósmicos"
+status = "verificado"
+fontes = ["B023", "P2024-11-30", "P2023-10-14", "P2022-03-26"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-28"
++++
 # Fator Dharma — RC-319
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
-| **Subcategoria** | 2.2 Leis e princípios cósmicos |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 O **dharma** como fator revelado em *O Dharma e as Castas Hindus* (B023, cap. 2): "talvez poucas expressões da atual linguagem humana 'escondam' — no seu significado e no contexto em que ela surgiu — tantos mistérios como é o caso de 'dharma'". Ellam desconfia que o dharma era o "painel mental" sobre o qual os **"Senhores do Dharma"** (os mesmos "Senhores da Lila", a Trimurti) se apoiavam para compor a interpretação das escrituras védicas — o que exige revê-las. A 4ª Constatação conecta o dharma à vida universal: a vida se aproveita dos "feitos" que cada consciência particularizada "esculpe nos elétrons".

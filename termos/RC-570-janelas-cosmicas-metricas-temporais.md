@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-570"
+nome = "Janelas Cósmicas (métricas temporais)"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.2 Leis e princípios cósmicos"
+status = "verificado"
+fontes = ["P2022-12-17"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-14"
++++
 # Janelas Cósmicas (métricas temporais) — RC-570
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
-| **Subcategoria** | 2.2 Leis e princípios cósmicos |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-14 |
 
 ## Definição Sintética
 Metáfora conceitual para as escalas temporais pelas quais seres não humanos observam, organizam e pactuam acontecimentos ligados à Terra.

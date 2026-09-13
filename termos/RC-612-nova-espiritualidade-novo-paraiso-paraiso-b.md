@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-612"
+nome = "Nova Espiritualidade / Novo Paraíso (Paraíso B)"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.5 Propósitos / Destinos"
+status = "verificado"
+fontes = ["P2021-12-04", "P2024-05-04", "P2025-03-15", "P2025-02-15", "P2024-11-30", "P2024-11-09", "P2024-07-14", "P2024-03-03", "P2024-04-14", "P2023-05-13"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-18"
++++
 # Nova Espiritualidade / Novo Paraíso — RC-612
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
-| **Subcategoria** | 2.5 Propósitos / Destinos |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-18 |
 
 ## Definição Sintética
 Reorganização futura dos níveis espirituais que não seria mero retorno aos padrões antigos, mas integração do aprendizado produzido no caos e na experiência humana.

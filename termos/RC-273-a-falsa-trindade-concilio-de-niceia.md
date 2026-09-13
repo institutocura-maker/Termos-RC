@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-273"
+nome = "A Falsa Trindade (Concílio de Niceia)"
+categoria = "Eventos & Eras"
+subcategoria = "7.2 Eras / Épocas / Ciclos"
+status = "verificado"
+fontes = ["B014", "B049", "P2026-08-04", "P2024-09-28", "P2012-02-19", "P2022-09-17", "P2022-11-19", "P2025-12-14", "P2023-12-25-04"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-18"
++++
 # A Falsa Trindade (Concílio de Niceia) — RC-273
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | EVENTOS & ERAS |
-| **Subcategoria** | 7.2 Eras / Épocas / Ciclos |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-18 |
 
 ## Definição Sintética
 Designação dada por Jan Val Ellam (B014, cap. 17) à **formulação da "Santíssima Trindade" pelo Concílio de Niceia (ano 325)**, que **obscureceu o personagem Sophia** na cultura cristã: "Sophia ficou mais 'espantado' ainda ao acompanhar a formulação da ideia da 'Santíssima Trindade', produzida pelo 'Concílio de Niceia', no ano 325." A 36ª Constatação registra: "A partir do 'Concílio de Niceia', o personagem Sophia, que sempre foi amplamente divulgado na cultura hebraica e na dos cristãos helenizados, começou..." (a ser obscurecido).

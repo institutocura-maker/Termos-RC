@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-736"
+nome = "Aristocracia Olimpiana e Monarquias Terrestres"
+categoria = "Genealogias & Linhagens"
+subcategoria = "6.2 Linhagens humanas"
+status = "em análise"
+fontes = ["P2024-09-29", "B087", "B088", "B089", "P2023-04-15", "P2023-12-03"]
+via = "P7-conhecimento"
+confianca_fonte = "baixa"
+atualizado = "2026-08-29"
++++
 # Aristocracia Olimpiana e Monarquias Terrestres — RC-736
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | GENEALOGIAS & LINHAGENS |
-| **Subcategoria** | 6.2 Linhagens humanas |
-| **Status** | 🟠 Em análise |
-| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 

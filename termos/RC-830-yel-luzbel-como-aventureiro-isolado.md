@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-830"
+nome = "Yel Luzbel Como Aventureiro Isolado (2.000 Anos)"
+categoria = "Seres & Entidades"
+subcategoria = "1.5 Decaídos / Exilados / Demônios"
+status = "verificado"
+fontes = ["P2023-12-17"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-31"
++++
 # Yel Luzbel Como Aventureiro Isolado (2.000 Anos) — RC-830
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | SERES & ENTIDADES |
-| **Subcategoria** | 1.5 Decaídos / Exilados / Demônios |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-31 |
 
 ## Definição Sintética
 Tese (leitura do autor, palestra **P2023-12-17**, U0001) de que **Yel Luzbel** é um ser que está **2.000 anos absolutamente isolado**, sem contato com ninguém, desde que **desmaiou aos pés da cruz do humano Jesus crucificado**. Quando percebeu que aquele ser humano era **expressão do comandante Sophia (RC-009)** — contra o qual ele se rebelara. É o "aventureiro" que "também iria escolher o verso de Belquió" — alguém que tenta fazer por si mesmo o seu caminho, mas "deu tudo errado" porque "todo mundo errou ao redor dele, inclusive Sophia, principalmente os anjos de Sophia, que eram os Anjos de Jahé que estão nesse universo meio que pressionando Sophia". Ver RC-072 (Jesus), RC-009 (Sophia), RC-002 (Lúcifer).

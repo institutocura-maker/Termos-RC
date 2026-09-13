@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-791"
+nome = "Lamúria dos Deuses (Diagnóstico de Prometeu)"
+categoria = "Processos & Fenômenos"
+subcategoria = "4.2 Fenômenos espirituais / mediúnicos"
+status = "verificado"
+fontes = ["P2025-04-06"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-30"
++++
 # Lamúria dos Deuses (Diagnóstico de Prometeu) — RC-791
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | PROCESSOS & FENÔMENOS |
-| **Subcategoria** | 4.2 Fenômenos espirituais / mediúnicos |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-30 |
 
 ## Definição Sintética
 Tese (leitura do autor, palestra **P2025-04-06**, U0004) de que a **"lamúria dos deuses"** — a lamentação interminável e improdutiva de Javé, Zeus, Brahma, Shiva, Vishnu e outros — é o **fato comum** desde o **Ragnarok (300 milhões de anos atrás)**. **Prometeu (RC-301) e Epimeteu (RC-302)** ouviam essa lamúria (especialmente no criatório) e a **catalogavam como diagnóstico** — o que os levou a **negar a existência dos deuses** e a iniciar a **revolução inacabada** (RC-788). A "lamúria" é, portanto, o **gatilho** da revolta de Prometeu. Ver RC-301, RC-302, RC-149 (Zeus), RC-001 (Javé).

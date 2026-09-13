@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-865"
+nome = "Pulsação Digna (a pulsação alinhada a conceitos supremos)"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.6 Ética / Carma / Compromissos"
+status = "verificado"
+fontes = ["P2022-12-03", "P2022-11-20", "P2022-09-18"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-09-01"
++++
 # Pulsação Digna (a pulsação alinhada a conceitos supremos) — RC-865
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | Conceitos Cosmológicos |
-| **Subcategoria** | 2.6 Ética / Carma / Compromissos |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-09-01 |
 
 ## Definição Sintética
 

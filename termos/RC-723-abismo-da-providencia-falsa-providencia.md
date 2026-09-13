@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-723"
+nome = "Abismo da Providência / Falsa Providência"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.4 Espiritualidade / Doutrina"
+status = "verificado"
+fontes = ["P2024-11-09", "P2024-07-14", "P2024-07-13"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-16"
++++
 # Abismo da Providência / Falsa Providência — RC-723
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
-| **Subcategoria** | 2.4 Espiritualidade / Doutrina |
-| **Status** | 🟢 Verificado (candidatura aprovada pelo curador) |
-| **Última atualização** | 2026-08-16 |
 
 ## Definição Sintética
 Crítica, na palestra, à distância entre a crença numa providência cuidadora e a ausência de intervenção externa comprovável diante do sofrimento. A resposta proposta desloca o eixo para solidariedade, ação humana e ajuda limitada entre seres.

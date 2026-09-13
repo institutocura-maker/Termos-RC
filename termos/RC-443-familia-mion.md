@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-443"
+nome = "Família Mion"
+categoria = "Genealogias & Linhagens"
+subcategoria = "6.3 Dinastias extraterrestres"
+status = "verificado"
+fontes = ["B057", "B058", "P2020-08-08", "P2020-04-25", "P2022-03-26", "P2023-12-03"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-29"
++++
 # Família Mion — RC-443
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | GENEALOGIAS & LINHAGENS |
-| **Subcategoria** | 6.3 Dinastias extraterrestres |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 Estirpe capelina à qual pertencem **Len Mion (Satã)** e **Gron Mion**, descrita nos "Livros de Yel Luzbel" (Jeane Miranda) como **mais antiga que a Família Yel** e protagonista no contato com os demais **Biocoletivos** do universo. Sob a liderança do "Primeiro em Comando", a Família Mion convoca conclaves, pressiona por respostas de Sophia e acolhe Yel Luzbel quando este se desliga da própria família — tornando-se o núcleo do movimento que antecedeu a **Revolta Capelina**.

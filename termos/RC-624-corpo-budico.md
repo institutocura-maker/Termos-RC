@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-624"
+nome = "Corpo Búdico"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.3 Dimensões / Planos de existência"
+status = "verificado"
+fontes = ["P2026-07-30", "P2024-05-04", "P2025-02-16", "P2025-02-15", "P2024-11-30", "P2024-11-09", "P2024-07-14", "P2024-03-02"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-14"
++++
 # Corpo Búdico — RC-624
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
-| **Subcategoria** | 2.3 Dimensões / Planos de existência |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-14 |
 
 ## Definição Sintética
 Primeira vestimenta espiritual dos desdobramentos paradisíacos, permitindo ao eu átmico tomar consciência de existir fora do Paraíso Original.

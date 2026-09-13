@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-574"
+nome = "Alcíone (Sistema)"
+categoria = "Lokas & Geografias"
+subcategoria = "3.1 Planetas / Sistemas estelares"
+status = "verificado"
+fontes = ["P2022-12-17"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-14"
++++
 # Alcíone (Sistema) — RC-574
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | LOKAS & GEOGRAFIAS |
-| **Subcategoria** | 3.1 Planetas / Sistemas estelares |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-14 |
 
 ## Definição Sintética
 Sistema estelar ao qual a palestra associa o cinturão de fótons e uma alegada órbita de aproximadamente 26 mil anos do Sistema Solar.

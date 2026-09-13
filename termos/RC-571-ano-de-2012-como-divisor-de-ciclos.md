@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-571"
+nome = "Ano de 2012 como Divisor de Ciclos"
+categoria = "Eventos & Eras"
+subcategoria = "7.2 Eras / Épocas / Ciclos"
+status = "verificado"
+fontes = ["B037", "P2022-12-17", "P2025-02-16", "P2024-09-29"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-14"
++++
 # Ano de 2012 como Divisor de Ciclos — RC-571
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | EVENTOS & ERAS |
-| **Subcategoria** | 7.2 Eras / Épocas / Ciclos |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-14 |
 
 ## Definição Sintética
 Leitura de 2012 como marco de encerramento de ciclos equinociais e zodiacais, e não como destruição do mundo.

@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-647"
+nome = "Evangelho de Judas"
+categoria = "Tecnologias & Artefatos"
+subcategoria = "5.4 Escrituras / Objetos documentais"
+status = "verificado"
+fontes = ["P2026-04-02", "P2023-12-25-03"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-15"
++++
 # Evangelho de Judas — RC-647
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | TECNOLOGIAS & ARTEFATOS |
-| **Subcategoria** | 5.4 Escrituras / Objetos documentais |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-15 |
 
 ## Definição Sintética
 Texto gnóstico que apresenta Judas sob leitura distinta da tradição canônica e o relaciona à gnose e Barbelo.

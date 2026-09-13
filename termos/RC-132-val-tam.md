@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-132"
+nome = "Val Tam"
+categoria = "Seres & Entidades"
+subcategoria = "1.3 Extraterrestres / Raças cósmicas"
+status = "verificado"
+fontes = ["B031"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-21"
++++
 # Val Tam — RC-132
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | SERES & ENTIDADES |
-| **Subcategoria** | 1.7 Seres extraterrestres / Extrafísicos |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-21 |
 
 ## Definição Sintética
 Ser vinculado à Frota Norte e ao Conselho dos Cinco (RC-501); na leitura da RC, sua **consciência espiritual está de algum modo acoplada ou prisioneira** à estação cósmica **Awayen** — o forno replicador de Brahma/Javé que se tornou uma "Central de Realidades" (ver Fornos Replicadores, RC-771).

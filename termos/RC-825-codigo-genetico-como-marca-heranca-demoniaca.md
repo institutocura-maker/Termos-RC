@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-825"
+nome = "Código Genético como Marca da Herança Demoníaca"
+categoria = "Processos & Fenômenos"
+subcategoria = "4.1 Processos biológicos / genéticos"
+status = "verificado"
+fontes = ["P2019-04-14"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-30"
++++
 # Código Genético como Marca da Herança Demoníaca — RC-825
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | CONCEITOS BIOLÓGICOS |
-| **Subcategoria** | 3.2 Genética / DNA / Herança |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-30 |
 
 ## Definição Sintética
 Tese (leitura do autor, palestra **P2019-04-14**, U0003/U0005) de que **o DNA dos humanos carrega a "infecção" dos demos** — as necessidades biológicas (alimentação, sexualidade, defecação) são **"marcas"** da herança demoníaca. "Os nossos espíritos hoje guardam o reflexo de todas essas necessidades, ou seja, são infectados." A humanidade precisa **aprender a gerar do campo quântico**, não do cadáver alheio. Ver RC-820 (Alimentação por Perfume), RC-001 (Javé), RC-148 (Shiva), RC-104 (Trimurti), RC-822 (Mahatma Magant), RC-824 (Greve de Fome Genética).

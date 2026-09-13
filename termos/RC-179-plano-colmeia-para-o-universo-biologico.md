@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-179"
+nome = "Plano Colmeia (para o Universo Biológico)"
+categoria = "Eventos & Eras"
+subcategoria = "7.5 Missões / Expedições / Encontros"
+status = "verificado"
+fontes = ["B044", "P2024-11-30", "P2024-07-13"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-12"
++++
 # Plano Colmeia (para o Universo Biológico) — RC-179
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | EVENTOS & ERAS |
-| **Subcategoria** | 7.5 Missões / Expedições / Encontros |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-12 |
 
 ## Definição Sintética
 Foi o **planejamento da transferência do código do psiquismo e da consciência demo (ou demodhármica ou trimurtiana)** dos ambientes do universo antimaterial para os mundos do universo biológico. Esse planejamento foi chamado de **"Projeto Talm"** pelo grupo que assumiu sua execução (B044, cap. 7). A intenção sempre foi a de **recriar a "Colmeia Trimurtina" nos moldes biológicos** — ou seja, transplantar o modelo colmeia do universo demo para a vida biológica. "Os terráqueos representam tão somente a face mais moderna do 'Projeto Talm'."

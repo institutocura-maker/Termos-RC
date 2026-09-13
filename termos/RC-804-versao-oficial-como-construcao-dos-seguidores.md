@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-804"
+nome = "Versão Oficial como Construção dos Seguidores"
+categoria = "Processos & Fenômenos"
+subcategoria = "4.2 Fenômenos espirituais / mediúnicos"
+status = "verificado"
+fontes = ["P2018-02-24"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-30"
++++
 # Versão Oficial como Construção dos Seguidores — RC-804
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | PROCESSOS & FENÔMENOS |
-| **Subcategoria** | 4.2 Fenômenos espirituais / mediúnicos |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-30 |
 
 ## Definição Sintética
 Tese (leitura do autor, palestra **P2018-02-24**, U0001/U0005) de que **as "versões oficiais" dos avatares são produzidas pelos seguidores**, não pelos avatares originais. As versões oficiais são "escritas, dirigidas, revisadas modificadas, adequadas pelos seguidores dessas pessoas" — gerando **"crenças baratas, infantilizadas, pouco refletidas"**. O paradoxo: a versão oficial é mais sentimentalizada que a vida do próprio avatar. Ver RC-072 (Jesus), RC-105 (Religiões Impositivas), RC-335 (Lavagem Cerebral), RC-797 (Estratégia dos Avatares).

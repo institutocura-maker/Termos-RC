@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-727"
+nome = "DNA Insubmisso / Linhagem Pandora–Eva–Noreia"
+categoria = "Genealogias & Linhagens"
+subcategoria = "6.2 Linhagens humanas"
+status = "em análise"
+fontes = ["P2024-11-09", "P2024-08-03", "P2024-07-13", "B087", "B088", "B089", "P2023-04-30", "P2023-04-01", "P2023-04-29", "P2020-04-18", "P2021-09-04", "P2022-09-24", "P2023-04-01b", "P2024-11-03", "P2025-02-22", "P2025-07-18", "P2021-05-15", "P2020-04-25", "P2022-03-26", "P2023-12-03", "P2023-08-27", "P2023-02-12", "P2023-02-11", "P2022-12-03", "P2022-09-25", "P2022-07-16"]
+via = "P7-conhecimento"
+confianca_fonte = "baixa"
+atualizado = "2026-08-29"
++++
 # DNA Insubmisso / Linhagem Pandora–Eva–Noreia — RC-727
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | GENEALOGIAS & LINHAGENS |
-| **Subcategoria** | 6.2 Linhagens humanas |
-| **Status** | 🟠 Em análise (candidatura aprovada pelo curador) |
-| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 Na genealogia comparada de Jan Val Ellam, linhagem de códigos humanos insubmissos ao controle dos deuses, associada a Pandora, Eva e Noreia e contraposta a códigos de submissão atribuídos à linhagem de Adão.

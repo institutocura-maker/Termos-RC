@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-576"
+nome = "Baktun 13"
+categoria = "Termos Específicos"
+subcategoria = "8.5 Outros idiomas / jargão técnico"
+status = "em análise"
+fontes = ["P2022-12-17", "P2025-02-16"]
+via = "P7-conhecimento"
+confianca_fonte = "baixa"
+atualizado = "2026-08-14"
++++
 # Baktun 13 — RC-576
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | TERMOS ESPECÍFICOS |
-| **Subcategoria** | 8.5 Outros idiomas / jargão técnico |
-| **Status** | 🟠 Em análise |
-| **Última atualização** | 2026-08-14 |
 
 ## Definição Sintética
 Marco do calendário maia associado ao ano de 2012 e reinterpretado na palestra como encerramento de período ou regência, não como anúncio do fim do mundo.

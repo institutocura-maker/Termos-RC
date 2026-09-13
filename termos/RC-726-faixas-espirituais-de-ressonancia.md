@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-726"
+nome = "Faixas Espirituais de Ressonância"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.3 Dimensões / Planos de existência"
+status = "verificado"
+fontes = ["P2024-11-09", "P2024-07-14"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-16"
++++
 # Faixas Espirituais de Ressonância — RC-726
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
-| **Subcategoria** | 2.3 Dimensões / Planos de existência |
-| **Status** | 🟢 Verificado (candidatura aprovada pelo curador) |
-| **Última atualização** | 2026-08-16 |
 
 ## Definição Sintética
 Ambientes espirituais que, segundo a palestra, seriam sustentados pela ressonância das mentes reunidas. O acesso não seria democrático, mas compatível com a sensação e o estado do eu.

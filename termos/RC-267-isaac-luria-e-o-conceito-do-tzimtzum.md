@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-267"
+nome = "Isaac Luria e o conceito do Tzimtzum"
+categoria = "Termos Específicos"
+subcategoria = "8.2 Hebraico / Cabala"
+status = "verificado"
+fontes = ["B013", "P2024-11-09"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-19"
++++
 # Isaac Luria e o conceito do Tzimtzum — RC-267
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | TERMOS ESPECÍFICOS |
-| **Subcategoria** | 8.2 Hebraico / Cabala |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-19 |
 
 ## Definição Sintética
 

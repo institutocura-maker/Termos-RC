@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-752"
+nome = "Agenda Espiritual"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.5 Propósitos / Destinos"
+status = "verificado"
+fontes = ["P2024-04-14", "P2023-12-25-01"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-17"
++++
 # Agenda Espiritual — RC-752
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
-| **Subcategoria** | 2.5 Propósitos / Destinos |
-| **Status** | 🟢 Verificado (candidatura aprovada pelo curador) |
-| **Última atualização** | 2026-08-17 |
 
 ## Definição Sintética
 

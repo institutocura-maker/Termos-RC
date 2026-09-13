@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-398"
+nome = "Thuata de Dannan"
+categoria = "Seres & Entidades"
+subcategoria = "1.5 Decaídos / Exilados / Demônios"
+status = "verificado"
+fontes = ["B050", "B060", "P2024-04-13", "P2024-02-03", "P2017-10-14", "P2022-09-18"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-09-05"
++++
 # Thuata de Dannan — RC-398
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | Seres & Entidades |
-| **Subcategoria** | 1.5 Decaídos / Exilados / Demônios |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-09-05 |
 
 ## Definição Sintética
 

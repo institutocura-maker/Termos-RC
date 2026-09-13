@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-308"
+nome = "Adhytia (nível hierárquico)"
+categoria = "Seres & Entidades"
+subcategoria = "1.8 Consciências coletivas / Logos"
+status = "verificado"
+fontes = ["B022"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-12"
++++
 # Adhytia (nível hierárquico) — RC-308
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | SERES & ENTIDADES |
-| **Subcategoria** | 1.8 Consciências coletivas / Logos |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-12 |
 
 ## Definição Sintética
 Nível hierárquico superior de seres mencionado em *Inquisição Trimurtiana* (B022, cap. 9): "ali estava o nível hierárquico dos Adhytia, que se apresentava, naquela oportunidade, em número de **nove seres**, sendo cada um mais estranho e diferente do que o outro — na verdade eram 'singulares' — para o meu padrão humano". Os Adhytia são **descendentes da linhagem dos três "Senhores da Trimurti"** (daí o nome, ligado a Adhy), e a narrativa prevê que, após a morte da condição humana de Ellam, "alguns membros da linhagem de descendentes de vocês três, os chamados Adhytia, tentarão ocupar os canais de comunicação possíveis entre os terráqueos e vocês, na tentativa de desqualificar estas informações".

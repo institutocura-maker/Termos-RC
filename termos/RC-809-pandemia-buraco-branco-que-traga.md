@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-809"
+nome = "Pandemia de Buraco Branco que Traga (Javé Tragado pela Criação)"
+categoria = "Eventos & Eras"
+subcategoria = "7.4 Catástrofes / Dilúvios / Quedas"
+status = "verificado"
+fontes = ["P2017-05-14", "P2012-02-19", "P2025-06-14", "P2023-02-12"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-30"
++++
 # Pandemia de Buraco Branco que Traga (Javé Tragado pela Criação) — RC-809
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | EVENTOS & ERAS |
-| **Subcategoria** | 7.4 Catástrofes / Dilúvios / Quedas |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-30 |
 
 ## Definição Sintética
 Tese (leitura do autor, palestra **P2017-05-14**, U0002) de que **Javé (RC-001) foi "tragado" pela própria criação** — "do jeito que um buraco negro no nosso universo hoje suba tudo, a criação que saiu da mente de Javé já era no próprio buraco branco que entra em rou." Javé "tentou insistir, tentou resistir, mas foi [trag]ado. Não entrou todo, só o corpo mental dele caiu. Mas na hora de cair, ele não aceitou o fato, obviamente, improvisou. um lugar para ele cair, para continuar fora da criação." **O buraco branco** é a metáfora para a "queda" de Javé na criação. Ver RC-001 (Javé), RC-808 (Era da Solidão), RC-002 (Rebelião de Lúcifer), RC-422 (Ser Criador Fracassado).

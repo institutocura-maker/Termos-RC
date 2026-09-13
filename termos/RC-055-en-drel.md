@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-055"
+nome = "En Drel"
+categoria = "Seres & Entidades"
+subcategoria = "1.4 Anjos / Arcanjos / Querubins"
+status = "verificado"
+fontes = ["B031", "B015", "B061", "P2025-10-25"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-12"
++++
 # En Drel — RC-055
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | SERES & ENTIDADES |
-| **Subcategoria** | 1.4 Anjos / Arcanjos / Querubins |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-12 |
 
 ## Definição Sintética
 Família de **374 anjos clones criados por Javé no Brahmaloka**, membros da "classe especial de guardiões do universo", com a função de **proteger o Criador** (B031). São "frios e distanciados da vontade do poder, ainda que poderosos e absolutamente imbatíveis"; ligam-se e desligam-se conforme as necessidades do Criador, "acionados ou em repouso conforme os ditames dos fatos". Seus corpos mais parecem "corpos-máquina", acionados por códigos numéricos — **não possuíam consciência individualizada** até que o primeiro (Zont En Drel 29) despertou. Residem em **Araboth**, um dos circuitos de mundos vinculados ao Sistema das Esferas Sagradas.

@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-466"
+nome = "Bebida dos Deuses (Ambrosia/Amrita/Soma)"
+categoria = "Termos Específicos"
+subcategoria = "8.5 Outros idiomas / jargão técnico"
+status = "em análise"
+fontes = ["B060", "P2025-02-16", "P2024-08-03", "P2024-06-16", "P2023-08-27", "P2026-03-21"]
+via = "P7-conhecimento"
+confianca_fonte = "baixa"
+atualizado = "2026-08-31"
++++
 # Bebida dos Deuses (Ambrosia/Amrita/Soma) — RC-466
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | Termos Específicos |
-| **Subcategoria** | 8.5 Outros idiomas / jargão técnico |
-| **Status** | 🟠 Em análise |
-| **Última atualização** | 2026-08-31 |
 
 ## Definição Sintética
 

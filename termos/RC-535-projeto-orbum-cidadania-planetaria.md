@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-535"
+nome = "Projeto Orbum (cidadania planetária)"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.4 Espiritualidade / Doutrina"
+status = "verificado"
+fontes = ["B042", "P2025-10-25", "P2024-02-03", "P2024-11-03", "P2025-02-22"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-09-05"
++++
 # Projeto Orbum (cidadania planetária) — RC-535
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
-| **Subcategoria** | 2.4 Espiritualidade / Doutrina |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-09-05 |
 
 ## Definição Sintética
 **Projeto Orbum** é o movimento de **cidadania planetária** idealizado por Jan Val Ellam (com base no conceito do planeta **Orbum**, RC-085) e apresentado no Manifesto anexo às *Crônicas de um Novo Tempo* (B042): a declaração dos princípios da **cidadania planetária** — "exerça plenamente a sua nacionalidade, mas não esqueça: somos todos cidadãos planetários". Difunde a ideia de que formamos "uma só família ante o cosmos" e que o exercício pleno da **cidadania cósmica** (RC-226) é o maior ensinamento legado por Jesus.

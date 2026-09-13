@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-620"
+nome = "Eu Coalescente"
+categoria = "Processos & Fenômenos"
+subcategoria = "4.2 Fenômenos espirituais / mediúnicos"
+status = "verificado"
+fontes = ["P2026-07-30", "P2026-04-02", "P2025-10-25"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-14"
++++
 # Eu Coalescente — RC-620
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | PROCESSOS & FENÔMENOS |
-| **Subcategoria** | 4.2 Fenômenos espirituais / mediúnicos |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-14 |
 
 ## Definição Sintética
 Tipo de Eu Mental dignificado que possui autoridade moral e vibratória para sintetizar, alinhar e ressignificar os diversos eus produzidos por um mesmo espírito.

@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-329"
+nome = "Kumari Kandan (tradição)"
+categoria = "Lokas & Geografias"
+subcategoria = "3.3 Localidades terrestres"
+status = "em análise"
+fontes = ["B023", "P2022-12-17", "P2025-02-16", "P2024-11-30", "P2024-04-13", "P2023-12-25-01"]
+via = "P7-conhecimento"
+confianca_fonte = "baixa"
+atualizado = "2026-08-19"
++++
 # Kumari Kandan (tradição) — RC-329
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | LOKAS & GEOGRAFIAS |
-| **Subcategoria** | 3.3 Localidades terrestres |
-| **Status** | 🟠 Em análise |
-| **Última atualização** | 2026-08-19 |
 
 ## Definição Sintética
 

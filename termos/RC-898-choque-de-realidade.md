@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-898"
+nome = "Choque de Realidade"
+categoria = "Processos & Fenômenos"
+subcategoria = "4.4 Fenômenos físicos / energéticos"
+status = "em análise"
+fontes = ["P2023-10-15", "P2023-11-18", "P2024-01-13", "P2024-02-04", "P2024-03-17"]
+via = "P7-conhecimento"
+confianca_fonte = "baixa"
+atualizado = "2026-09-07"
++++
 # Choque de Realidade — RC-898
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | PROCESSOS & FENÔMENOS |
-| **Subcategoria** | 5.1 Epistemologia / Cognição |
-| **Status** | 🟠 Em análise |
-| **Última atualização** | 2026-09-07 |
 
 ## Definição Sintética
 O Choque de Realidade é a forma pela qual a estupidez humana colecionada ao longo da história será confrontada — a única maneira de "bater na cara da estupidez humana" para que os humanos acordem (os que sobreviverem). Esses choques acontecerão como eventos inevitáveis resultantes de processos que a humanidade já engatilhou e que estão no nível máximo de represamento, prestes a explodir. Não são promovidos por seres de fora (que estão apenas assistindo), mas são consequência da própria ação humana.

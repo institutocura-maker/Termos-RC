@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-320"
+nome = "Senhores do Dharma (= Senhores da Lila / Trimurti)"
+categoria = "Seres & Entidades"
+subcategoria = "1.1 Divindades / Criadores"
+status = "verificado"
+fontes = ["B023", "P2024-11-30", "P2023-10-14", "P2022-03-26", "P2012-02-19"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-28"
++++
 # Senhores do Dharma (= Senhores da Lila / Trimurti) — RC-320
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | SERES & ENTIDADES |
-| **Subcategoria** | 1.1 Divindades / Criadores |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 Designação dos **seres da Trimurti (Brahma, Vishnu, Shiva) como os "Senhores do Dharma"** — os mesmos autoaclamados "Senhores da Lila" (B023, cap. 2): "seres que se apresentavam como 'Senhores do Dharma' — os mesmos autoaclamados 'Senhores da Lila', da Trimurti hindu". Eles são os autores do sistema de dharma/castas que impuseram à humanidade, e a convivência com eles levou Ellam a desconfiar das interpretações modernas das escrituras védicas.

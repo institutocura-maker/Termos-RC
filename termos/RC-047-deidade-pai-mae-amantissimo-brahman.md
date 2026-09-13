@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-047"
+nome = "Deidade (Pai-Mãe Amantíssimo / Brahman)"
+categoria = "Seres & Entidades"
+subcategoria = "1.1 Divindades / Criadores"
+status = "verificado"
+fontes = ["B031", "B024", "B001", "B002", "B048", "P2025-03-15", "P2025-02-15", "P2024-11-30", "P2024-11-09", "P2024-09-28", "P2023-06-17", "P2023-04-15", "P2023-04-01", "P2023-04-29", "P2020-04-18", "P2022-03-26", "P2012-02-19"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-28"
++++
 # Deidade (Pai-Mãe Amantíssimo / Brahman) — RC-047
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | SERES & ENTIDADES |
-| **Subcategoria** | 1.1 Divindades / Criadores |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 Seria o **Pai-Mãe Amantíssimo**, o **Ser Supremo** que deu origem a toda a Matriz Divina — o "**Brahman**" (e não Brahma) da tradição hindu. É a **Deidade Suprema**, a **Fonte de tudo o que há**, superior e acima de qualquer Divindade; nas RC também referida como **Deus Incognoscível** (que é "só amor") (B031).

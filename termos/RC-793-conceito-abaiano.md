@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-793"
+nome = "Conceito Abaiano (Fazer Sem Esperar Receber)"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.6 Ética / Carma / Compromissos"
+status = "verificado"
+fontes = ["P2025-04-06"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-30"
++++
 # Conceito Abaiano (Fazer Sem Esperar Receber) — RC-793
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
-| **Subcategoria** | 2.6 Ética / Carma / Compromissos |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-30 |
 
 ## Definição Sintética
 Tese (leitura do autor, palestra **P2025-04-06**, U0005) do **"Conceito Abaiano"** — fórmula sânscrita/baiana de "**viva sem se perguntar se você vai ganhar alguma coisa**" / "**faça na vida aquilo que você quer fazer. Independente de se perguntar o que é que diabos eu vou ganhar com isso**". É o **caminho humano de reacender o fogo** (RC-792) que Pandora desistiu de carregar. "A sapiência livre de engodos responde que não se ganha nada. Mas esse é o conceito abaiano, é a gente dá sem esperar receber nada." Ver RC-786 (Racionalidade Trucidada), RC-292 (Telos).

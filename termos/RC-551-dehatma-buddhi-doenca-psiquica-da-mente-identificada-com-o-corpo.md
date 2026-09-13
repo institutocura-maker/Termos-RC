@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-551"
+nome = "Dehatma Buddhi (doença psíquica da mente identificada com o corpo)"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.6 Ética / Carma / Compromissos"
+status = "verificado"
+fontes = ["B074", "B075", "P2025-02-15", "P2012-02-19"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-13"
++++
 # Dehatma Buddhi (doença psíquica) — RC-551
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
-| **Subcategoria** | 2.6 Ética / Carma / Compromissos |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-13 |
 
 ## Definição Sintética
 **Dehatma Buddhi** é a "doença psíquica" em que a mente se identifica plenamente com o corpo (deha = corpo; atma = alma/ser; buddhi = mente/inteligência) — a condição de quem se porta como se fosse apenas o corpo e acredita nas ideias que lhe foram impostas ("lavagens cerebrais"), sem perceber a realidade espiritual mais profunda. Segundo o Mentalma, "a maioria dos seres humanos se porta como um 'dehatma buddhi', apresentando esse tipo de doença psíquica".

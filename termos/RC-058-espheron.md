@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-058"
+nome = "Espheron"
+categoria = "Tecnologias & Artefatos"
+subcategoria = "5.1 Naves / Tecnologia extraterrestre"
+status = "em análise"
+fontes = ["B031", "B017", "B018", "B039"]
+via = "P7-conhecimento"
+confianca_fonte = "baixa"
+atualizado = "2026-09-10"
++++
 # Espheron — RC-058
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | TECNOLOGIAS & ARTEFATOS |
-| **Subcategoria** | 5.1 Naves / Tecnologia extraterrestre |
-| **Status** | 🟠 Em análise |
-| **Última atualização** | 2026-09-10 |
 
 ## Definição Sintética
 

@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-659"
+nome = "Quirino Cornélio (Centurião da Crucificação)"
+categoria = "Seres & Entidades"
+subcategoria = "1.6 Figuras humanas (históricas/míticas)"
+status = "verificado"
+fontes = ["P2025-06-26", "P2024-11-30"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-15"
++++
 # Quirino Cornélio (Centurião da Crucificação) — RC-659
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | SERES & ENTIDADES |
-| **Subcategoria** | 1.6 Figuras humanas (históricas/míticas) |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-15 |
 
 ## Definição Sintética
 Identidade atribuída ao espírito de Jan Val Ellam como centurião executor da crucificação de Jesus.

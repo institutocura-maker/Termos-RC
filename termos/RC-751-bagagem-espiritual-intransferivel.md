@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-751"
+nome = "Bagagem Espiritual Intransferível"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.5 Propósitos / Destinos"
+status = "verificado"
+fontes = ["P2024-04-14", "P2021-05-15"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-28"
++++
 # Bagagem Espiritual Intransferível — RC-751
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
-| **Subcategoria** | 2.5 Propósitos / Destinos |
-| **Status** | 🟢 Verificado (candidatura aprovada pelo curador) |
-| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 

@@ -1,9 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-684"
+nome = "Abel"
+categoria = "Seres & Entidades"
+subcategoria = "1.6 Figuras humanas (históricas/míticas)"
+status = "verificado"
+fontes = ["P2025-05-31", "P2025-02-16", "P2023-08-27", "P2022-09-17"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-15"
++++
 # Abel — RC-684
-
-| Campo | Valor |
-|---|---|
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-15 |
 
 ## Definição Sintética
 Termo extraído e aprovado na curadoria de P2025-05-31.

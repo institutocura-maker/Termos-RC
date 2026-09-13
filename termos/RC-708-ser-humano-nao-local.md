@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-708"
+nome = "Ser Humano Não Local"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.5 Propósitos / Destinos"
+status = "verificado"
+fontes = ["P2025-02-15", "P2024-11-09", "P2025-06-14b"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-15"
++++
 # Ser Humano Não Local — RC-708
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
-| **Subcategoria** | 2.5 Propósitos / Destinos |
-| **Status** | 🟢 Verificado (candidatura aprovada pelo curador) |
-| **Última atualização** | 2026-08-15 |
 
 ## Definição Sintética
 Capacidade atribuída ao eu humano de atuar informacionalmente em outros lugares, seres vivos, mortos, universo paralelo e espiritualidade sem presença física local.

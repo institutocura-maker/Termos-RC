@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-811"
+nome = "Fissão em Dois Universos (Matéria + Antimatéria)"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.1 Cosmogonia / Criação"
+status = "verificado"
+fontes = ["P2017-05-14"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-09-10"
++++
 # Fissão em Dois Universos (Matéria + Antimatéria) — RC-811
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
-| **Subcategoria** | 2.1 Cosmogonia / Criação |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-09-10 |
 
 ## Definição Sintética
 Tese (leitura do autor, palestra **P2017-05-14**, U0002) de que **a criação de Javé (RC-001) é "uma coisa composta por duas partes"** — o **universo material** (nosso, com matéria) e o **universo antimaterial** (paralelo, com antimatéria) — surgidas nos **"primeiros microsegundos" do Big Bang (RC-034)**. A ciência confirma: "que sim, que há um universo paralelo. Esse aqui foi formado de matéria e esse aqui de antimatéria". Para que os dois se mantenham, foi necessário criar um "atrito" — quando 10 bilhões de átomos materiais se encontram com 10 bilhões de átomos não materiais, "se autonquilam, sobra um" — e esse "um" constitui o universo. Ver RC-001 (Javé), RC-034 (Big Bang), RC-162 (Elétrons), RC-809 (Pandemia de Buraco Branco).

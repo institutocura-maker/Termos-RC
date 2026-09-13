@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-834"
+nome = "Família Aya (Clone de Sophia para Inseminação Artificial de Maria)"
+categoria = "Seres & Entidades"
+subcategoria = "1.5 Decaídos / Exilados / Demônios"
+status = "verificado"
+fontes = ["P2023-12-17", "B031", "P2023-02-11", "P2026-03-21"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-31"
++++
 # Família Aya (Clone de Sophia para Inseminação Artificial de Maria) — RC-834
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | SERES & ENTIDADES |
-| **Subcategoria** | 1.5 Decaídos / Exilados / Demônios |
-| **Status** | 🟢 Verificado (remissão) |
-| **Última atualização** | 2026-08-31 |
 
 ## Remissão
 

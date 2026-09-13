@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-928"
+nome = "Sathya Sai Baba"
+categoria = "Seres & Entidades"
+subcategoria = "1.6 Figuras humanas (históricas/míticas)"
+status = "provisório"
+fontes = ["B060", "B031", "P2012-02-19"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-09-03"
++++
 # Sathya Sai Baba — RC-928
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | SERES & ENTIDADES |
-| **Subcategoria** | 1.6 Figuras humanas (históricas/míticas) |
-| **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-09-03 |
 
 ## Definição Sintética
 Segundo as Revelações Cósmicas, **Sathya Sai Baba** é a **segunda encarnação da linhagem "Sai" de Shiva na era moderna** — "Sat Saibaba" na transcrição STT de Ellam (P2012-02-19) —, o avatar de Shiva mais conhecido na atualidade ("um de seus avatares mais conhecidos foi Sai Baba", B031). No acervo canônico, B060 o cataloga como personagem próprio: "Sathya Sai Baba (1926 a 2011 — Índia, nome Sathyanarayana Raju)". Ver RC-927 (Shirdi), RC-929 (Prema Sai), RC-801, RC-102 (Shiva).

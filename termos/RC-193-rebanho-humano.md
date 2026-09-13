@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-193"
+nome = "Rebanho humano"
+categoria = "Termos Específicos"
+subcategoria = "8.5 Outros idiomas / jargão técnico"
+status = "em análise"
+fontes = ["B044", "P2024-07-14", "P2022-11-20", "P2023-12-25-04", "P2020-04-04"]
+via = "P7-conhecimento"
+confianca_fonte = "baixa"
+atualizado = "2026-08-20"
++++
 # Rebanho humano — RC-193
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | Termos Específicos |
-| **Subcategoria** | 8.5 Outros idiomas / jargão técnico |
-| **Status** | 🟠 Em análise |
-| **Última atualização** | 2026-08-20 |
 
 ## Definição Sintética
 

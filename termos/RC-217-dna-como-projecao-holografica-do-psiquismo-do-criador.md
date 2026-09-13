@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-217"
+nome = "DNA como Projeção Holográfica do Psiquismo do Criador"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.2 Leis e princípios cósmicos"
+status = "verificado"
+fontes = ["B002", "B034", "B040", "B052", "B019", "B074", "B075", "P2022-12-17", "P2021-12-04", "P2026-07-30", "P2024-05-04", "P2026-04-02", "P2025-03-15", "P2025-02-16", "P2025-02-15", "P2024-11-30", "P2024-11-09", "P2024-09-29", "P2024-07-13", "P2024-11-03", "P2025-02-22", "P2023-12-03", "P2024-06-16", "P2021-02-28"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-29"
++++
 # DNA como Projeção Holográfica do Psiquismo do Criador — RC-217
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
-| **Subcategoria** | 2.2 Leis e princípios cósmicos |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 Constatação central de B002: **o que entendemos na Terra como molécula de DNA é, na verdade, "uma espécie de projeção holográfica do padrão mental e emocional do Senhor Javé" — uma representação química do seu psiquismo** (B002, cap. 1). Quando o Criador caiu, seu indescritível poder mental, ainda que em desequilíbrio, marcou as componentes básicas da sua nova forma existencial ("células") com absolutamente tudo o que era emanado pela sua mente naqueles momentos de pânico e desespero — expressões que a ciência terrestre chama de "moléculas de DNA". Essa molécula passou a ser utilizada por ele como fator de replicação existencial para os demais seres da sua criação.

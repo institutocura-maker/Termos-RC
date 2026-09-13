@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-496"
+nome = "Ereon (região dos cinco Archeons da Espiritualidade Laboratorial)"
+categoria = "Lokas & Geografias"
+subcategoria = "3.4 Regiões cósmicas / Portais"
+status = "verificado"
+fontes = ["B061", "P2021-12-04", "P2023-12-03"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-29"
++++
 # Ereon (região dos cinco Archeons da Espiritualidade Laboratorial) — RC-496
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | LOKAS & GEOGRAFIAS |
-| **Subcategoria** | 3.4 Regiões cósmicas / Portais |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 Ereon é a região/conjunto da Espiritualidade Laboratorial formado por cinco Archeons: Antérion, Danérion, Mermérion, Perpérion e Tempérion.

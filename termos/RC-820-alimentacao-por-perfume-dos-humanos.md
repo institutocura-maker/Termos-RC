@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-820"
+nome = "Alimentação por Perfume dos Humanos (Demos se Alimentam de DNA)"
+categoria = "Processos & Fenômenos"
+subcategoria = "4.4 Fenômenos físicos / energéticos"
+status = "verificado"
+fontes = ["P2019-04-14"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-30"
++++
 # Alimentação por Perfume dos Humanos (Demos se Alimentam de DNA) — RC-820
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | PROCESSOS & FENÔMENOS |
-| **Subcategoria** | 4.3 Processos energéticos / vibracionais |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-30 |
 
 ## Definição Sintética
 Tese (leitura do autor, palestra **P2019-04-14**, U0003) de que **os demos se alimentam do "perfume" dos humanos** (DNA, emoções, fluidos, sequências genéticas). "Eles retiravam dele [Soca] as sequências genéticas e outros elementos sutis." A humanidade produz "o melhor perfume porque somos a junção do cérebro radiado a um cérebro bilatério". É a **origem da nossa exploração** — somos a "fábrica de perfume" que os demos precisam para sobreviver. Ver RC-104 (Trimurti), RC-148 (Shiva), RC-037 (Brahma), RC-001 (Javé), RC-099 (Homo Sapiens), RC-821 (Soca/Reis/Rit como Receptor Universal).

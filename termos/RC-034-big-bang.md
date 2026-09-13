@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-034"
+nome = "Big Bang"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.1 Cosmogonia / Criação"
+status = "em análise"
+fontes = ["B031", "B024", "P2025-03-15", "P2025-02-16", "P2025-02-15", "P2024-11-30", "P2024-11-09", "P2023-12-03"]
+via = "P7-conhecimento"
+confianca_fonte = "baixa"
+atualizado = "2026-09-10"
++++
 # Big Bang — RC-034
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
-| **Subcategoria** | 2.1 Cosmogonia / Criação |
-| **Status** | 🟠 Em análise |
-| **Última atualização** | 2026-09-10 |
 
 ## Definição Sintética
 

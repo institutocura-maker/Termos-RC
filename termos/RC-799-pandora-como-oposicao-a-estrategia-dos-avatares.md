@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-799"
+nome = "Pandora como Oposição à Estratégia dos Avatares"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.2 Leis e princípios cósmicos"
+status = "verificado"
+fontes = ["P2018-02-24"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-30"
++++
 # Pandora como Oposição à Estratégia dos Avatares — RC-799
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
-| **Subcategoria** | 2.2 Leis e princípios cósmicos |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-30 |
 
 ## Definição Sintética
 Tese (leitura do autor, palestra **P2018-02-24**, U0002/U0005) de que **Pandora (RC-086) é a voz que se opõe à estratégia dos avatares** — Moisés, Krishna, Saibaba, Jesus, Maomé. Segundo Pandora, "mesmo na luta entre luz e trevas, as estratégias de vantagem são avantes. [contra] a descendência humana. Nada se preocupa em dignificar o ser humano." Pandora "bate duro" porque a humanidade "sai apanhando por aí" para resgatar fatos que as religiões tentam esconder. Ver RC-086 (Pandora), RC-797 (Estratégia dos Avatares), RC-105 (Religiões Impositivas).

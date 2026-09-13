@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-717"
+nome = "Buraco Negro Mental / Consciencial"
+categoria = "Processos & Fenômenos"
+subcategoria = "4.2 Fenômenos espirituais / mediúnicos"
+status = "verificado"
+fontes = ["P2024-11-30", "P2024-11-09", "P2025-06-14b", "P2026-08-04", "P2023-05-13", "P2023-06-24", "P2023-06-17", "P2025-07-18"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-18"
++++
 # Buraco Negro Mental / Consciencial — RC-717
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | PROCESSOS & FENÔMENOS |
-| **Subcategoria** | 4.2 Fenômenos espirituais / mediúnicos |
-| **Status** | 🟢 Verificado (candidatura aprovada pelo curador) |
-| **Última atualização** | 2026-08-18 |
 
 ## Definição Sintética
 Neologismo analógico para colapso/implosão de corpo e eu consciencial que produziria estrutura parasitária ou campo de aprisionamento informacional.

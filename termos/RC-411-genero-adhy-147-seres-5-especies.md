@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-411"
+nome = "Gênero Adhy (147 seres, 5 espécies)"
+categoria = "Seres & Entidades"
+subcategoria = "1.8 Consciências coletivas / Logos"
+status = "verificado"
+fontes = ["B051", "B022", "P2021-12-04", "P2024-05-04", "P2025-10-25", "P2024-11-30", "P2024-11-09"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-14"
++++
 # Gênero Adhy (147 seres, 5 espécies) — RC-411
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | SERES & ENTIDADES |
-| **Subcategoria** | 1.8 Consciências coletivas / Logos |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-14 |
 
 ## Definição Sintética
 Gênero Adhy é o conjunto de 147 seres da Espiritualidade Laboratorial, distribuídos em cinco espécies. A individualidade de seus membros passou a adquirir peso incomum em relação às redes coletivas.

@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-481"
+nome = "Maitreya (Dionísio; forma adiágena de Vishnu)"
+categoria = "Seres & Entidades"
+subcategoria = "1.1 Divindades / Criadores"
+status = "verificado"
+fontes = ["B061", "P2021-03-27", "B060", "P2021-06-26", "P2025-12-14"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-18"
++++
 # Maitreya (Dionísio; forma adiágena de Vishnu) — RC-481
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | SERES & ENTIDADES |
-| **Subcategoria** | 1.6 Figuras humanas (históricas/míticas) |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-18 |
 
 ## Definição Sintética
 

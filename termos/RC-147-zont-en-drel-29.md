@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-147"
+nome = "Zont En Drel 29"
+categoria = "Seres & Entidades"
+subcategoria = "1.4 Anjos / Arcanjos / Querubins"
+status = "em análise"
+fontes = ["B031", "B015", "P2025-10-25", "P2025-06-26", "P2023-07-30", "P2022-03-26", "P2024-06-16"]
+via = "P7-conhecimento"
+confianca_fonte = "baixa"
+atualizado = "2026-08-28"
++++
 # Zont En Drel 29 — RC-147
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | SERES & ENTIDADES |
-| **Subcategoria** | 1.4 Anjos / Arcanjos / Querubins |
-| **Status** | 🟠 Em análise |
-| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 **Primeiro anjo-clone da Família En Drel a despertar para uma consciência individualizada** — o "guardião do Éden" e narrador em primeira pessoa de *O Guardião do Éden* (B015). Foi enviado por Javé ao nosso universo (Terra) para observar a evolução dos humanos; "foi o 'anjo' que ficou 'guardando os portões' do Jardim do Éden e observando o desencadeamento de fatos ao redor de Adão e Eva" (B031). Na hierarquia En Drel, os que despertavam assumiam um pré-nome — "Zont En Drel" — enquanto os demais permaneciam como "corpos-máquina" acionados por códigos numéricos. **Zont En Drel 29 é o 29º da linhagem.**

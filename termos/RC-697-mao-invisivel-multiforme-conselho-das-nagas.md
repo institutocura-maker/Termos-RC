@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-697"
+nome = "Mão Invisível Multiforme / Conselho das Nagas"
+categoria = "Seres & Entidades"
+subcategoria = "1.8 Consciências coletivas / Logos"
+status = "verificado"
+fontes = ["P2025-02-16", "P2024-09-29", "P2025-02-22"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-15"
++++
 # Mão Invisível Multiforme / Conselho das Nagas — RC-697
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | SERES & ENTIDADES |
-| **Subcategoria** | 1.8 Consciências coletivas / Logos |
-| **Status** | 🟢 Verificado (candidatura aprovada pelo curador) |
-| **Última atualização** | 2026-08-15 |
 
 ## Definição Sintética
 Rede discreta e multiforme de interferências atribuída principalmente aos conselhos Naga, mas também relacionada ao Quarto Logos e ao Conselho dos Tirthankaras.

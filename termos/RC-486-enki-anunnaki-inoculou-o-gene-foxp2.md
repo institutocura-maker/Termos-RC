@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-486"
+nome = "Enki (Anunnaki; inoculou o gene FOXP2)"
+categoria = "Seres & Entidades"
+subcategoria = "1.3 Extraterrestres / Raças cósmicas"
+status = "verificado"
+fontes = ["B061", "P2022-12-17", "P2021-12-04", "P2024-11-09", "P2024-03-03", "P2023-12-02", "P2021-03-27", "P2024-08-03", "B089", "P2024-11-03", "P2025-02-22", "P2021-05-15", "P2023-10-14", "P2017-10-14", "P2018-12-16", "P2023-08-27"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-28"
++++
 # Enki (Anunnaki; inoculou o gene FOXP2) — RC-486
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | SERES & ENTIDADES |
-| **Subcategoria** | 1.3 Extraterrestres / Raças cósmicas |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 

@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-314"
+nome = "Fenômenos Denunciadores do Fim"
+categoria = "Eventos & Eras"
+subcategoria = "7.3 Profecias / Anúncios"
+status = "verificado"
+fontes = ["B022", "B035", "P2025-03-15"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-09-07"
++++
 # Fenômenos Denunciadores do Fim — RC-314
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | EVENTOS & ERAS |
-| **Subcategoria** | 7.3 Profecias / Anúncios |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-09-07 |
 
 ## Definição Sintética
 Capítulo 4 de *Inquisição Trimurtiana* (B022): os **fenômenos que denunciam a aproximação do fim do modo de existir demo/trimurtiano** — as "tormentas magnéticas" que devastam as formas dos "Senhores da Trimurti" e suas moradas. Ellam percebe que "aquilo tudo doía na organização daqueles seres... os mesmos se encontravam profundamente medicados para que suas formas pudessem conviver com o inevitável. Nem podiam sair daquele lugar e muito menos resolver os problemas que iam devastando a 'morada' onde viviam." (O termo também já existia como candidato de B035 — título de capítulo — agora confirmado com conteúdo.)

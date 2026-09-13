@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-446"
+nome = "Processadores Familiares"
+categoria = "Tecnologias & Artefatos"
+subcategoria = "5.3 Dispositivos / Instrumentos"
+status = "verificado"
+fontes = ["B057", "B058", "P2020-04-25", "P2022-03-26", "P2023-12-03"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-29"
++++
 # Processadores Familiares — RC-446
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | TECNOLOGIAS & ARTEFATOS |
-| **Subcategoria** | 5.3 Dispositivos / Instrumentos |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 Dispositivos psíquico-tecnológicos que **conectam todos os integrantes de cada família capelina** (o "Processador Yel", os "Processadores" da família Mion etc.), criados por **Sophia** junto com os próprios biodemos. Servem para comunicação, armazenamento e coesão do coletivo familiar; desligar-se do Processador equivale a deixar de existir "como ser coletivo" — e, segundo suspeita revelada no Livro 2, Sophia e suas Hostes poderiam acessá-los. (Narrativa psicografada de Jeane Miranda — conceito análogo ao "Processador Val", RC-089, das obras primárias.)

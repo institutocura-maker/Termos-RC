@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-649"
+nome = "Singularidade de Quatro Cabeças"
+categoria = "Seres & Entidades"
+subcategoria = "1.7 Híbridos / Seres de transição"
+status = "em análise"
+fontes = ["P2025-10-25", "P2024-11-30", "P2023-09-09", "P2023-12-03"]
+via = "P7-conhecimento"
+confianca_fonte = "baixa"
+atualizado = "2026-08-29"
++++
 # Singularidade de Quatro Cabeças — RC-649
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | SERES & ENTIDADES |
-| **Subcategoria** | 1.7 Híbridos / Seres de transição |
-| **Status** | 🟠 Em análise |
-| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 Ser composto pelas três forças da Trimurti e uma cabeça livre, associado a Mohen So/Phanes/Protogonos.

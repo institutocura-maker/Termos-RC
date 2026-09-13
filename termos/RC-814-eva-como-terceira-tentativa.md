@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-814"
+nome = "Eva como 3ª Tentativa de Fêmea para Adão (Homem + Mulher da Espécie Sábia)"
+categoria = "Seres & Entidades"
+subcategoria = "1.6 Figuras humanas (históricas/míticas)"
+status = "verificado"
+fontes = ["P2018-05-20", "B001"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-30"
++++
 # Eva como 3ª Tentativa de Fêmea para Adão (Homem + Mulher da Espécie Sábia) — RC-814
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | SERES & ENTIDADES |
-| **Subcategoria** | 1.6 Ancestrais / Patriarcas / Matriarcas |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-30 |
 
 ## Definição Sintética
 Tese (leitura do autor, palestra **P2018-05-20**, U0003) de que **Eva é a 3ª tentativa de Javé** de encontrar uma fêmea que funcionasse para Adão — depois de **Lilith (1ª, fracasso) e Agar (2ª, fracasso)** fracassarem. Eva é a **única que funcionou** porque é "alternativa homo" (homem + mulher da espécie sábia, ou seja, humano + humano). A **racionalidade de Eva é "evolutiva"** — nem instantânea como a de Pandora, nem reflexiva como a de Pirra; **evolui de acordo com as pressões que recebe**. Ver RC-001 (Javé), RC-308 (Lilith), RC-455 (Agar), RC-099 (Homo Sapiens), RC-086 (Pandora), RC-303 (Pirra).

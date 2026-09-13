@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-010"
+nome = "Atlântida / Terra Atlantis"
+categoria = "Lokas & Geografias"
+subcategoria = "3.3 Localidades terrestres"
+status = "em análise"
+fontes = ["P2025-02-16", "P2018-12-15"]
+via = "P7-conhecimento"
+confianca_fonte = "baixa"
+atualizado = "2026-08-31"
++++
 # Atlântida / Terra Atlantis — RC-010
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | Lokas & Geografias |
-| **Subcategoria** | 3.3 Localidades terrestres |
-| **Status** | 🟠 Em análise |
-| **Última atualização** | 2026-08-31 |
 
 ## Definição Sintética
 

@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-520"
+nome = "Infecção mental / contágio vibratório"
+categoria = "Processos & Fenômenos"
+subcategoria = "4.2 Fenômenos espirituais / mediúnicos"
+status = "em análise"
+fontes = ["B072", "P2025-02-15", "P2022-11-26", "P2021-04-10"]
+via = "P7-conhecimento"
+confianca_fonte = "baixa"
+atualizado = "2026-09-01"
++++
 # Infecção mental / contágio vibratório — RC-520
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | Processos & Fenômenos |
-| **Subcategoria** | 4.2 Fenômenos espirituais / mediúnicos |
-| **Status** | 🟠 Em análise |
-| **Última atualização** | 2026-09-01 |
 
 ## Definição Sintética
 

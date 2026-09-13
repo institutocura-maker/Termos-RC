@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-305"
+nome = "Têmis"
+categoria = "Seres & Entidades"
+subcategoria = "1.5 Decaídos / Exilados / Demônios"
+status = "em análise"
+fontes = ["B021", "P2023-05-21", "P2017-10-14"]
+via = "P7-conhecimento"
+confianca_fonte = "baixa"
+atualizado = "2026-08-31"
++++
 # Têmis — RC-305
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | Seres & Entidades |
-| **Subcategoria** | 1.5 Decaídos / Exilados / Demônios |
-| **Status** | 🟠 Em análise |
-| **Última atualização** | 2026-08-31 |
 
 ## Definição Sintética
 

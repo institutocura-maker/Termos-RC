@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-756"
+nome = "Ganesha (exceção à metamorfose; cabeça de elefante)"
+categoria = "Seres & Entidades"
+subcategoria = "1.1 Divindades / Criadores"
+status = "verificado"
+fontes = ["P2024-03-02", "P2021-05-15"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-28"
++++
 # Ganesha (exceção à metamorfose; cabeça de elefante) — RC-756
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | SERES & ENTIDADES |
-| **Subcategoria** | 1.1 Divindades / Criadores |
-| **Status** | 🟢 Verificado (candidatura aprovada pelo curador) |
-| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 

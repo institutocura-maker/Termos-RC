@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-860"
+nome = "Nova Aliança (a proposta de Jesus contra a velha aliança dos pactos de Javé)"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.4 Espiritualidade / Doutrina"
+status = "verificado"
+fontes = ["P2023-02-11", "P2022-11-20"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-09-01"
++++
 # Nova Aliança (a proposta de Jesus contra a velha aliança dos pactos de Javé) — RC-860
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | Conceitos Cosmológicos |
-| **Subcategoria** | 2.4 Espiritualidade / Doutrina |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-09-01 |
 
 ## Definição Sintética
 

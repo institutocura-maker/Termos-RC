@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-692"
+nome = "Kit Reencarnatório de Elétrons"
+categoria = "Processos & Fenômenos"
+subcategoria = "4.3 Transmigração / Reencarnação"
+status = "verificado"
+fontes = ["P2025-03-15", "P2025-02-15", "P2024-11-30", "P2024-11-09", "P2024-03-03", "P2023-02-11", "P2020-04-04"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-15"
++++
 # Kit Reencarnatório de Elétrons — RC-692
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | PROCESSOS & FENÔMENOS |
-| **Subcategoria** | 4.3 Transmigração / Reencarnação |
-| **Status** | 🟢 Verificado (candidatura aprovada pelo curador) |
-| **Última atualização** | 2026-08-15 |
 
 ## Definição Sintética
 Conjunto recorrente de elétrons que reconheceria a assinatura quântico-biológica de um espírito e voltaria a compor seus diferentes corpos ao longo das encarnações.

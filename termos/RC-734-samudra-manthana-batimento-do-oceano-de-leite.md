@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-734"
+nome = "Samudra Manthana / Batimento do Oceano de Leite"
+categoria = "Eventos & Eras"
+subcategoria = "7.5 Missões / Expedições / Encontros"
+status = "verificado"
+fontes = ["P2024-11-02", "P2024-08-03", "P2023-04-30", "P2026-03-21"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-16"
++++
 # Samudra Manthana / Batimento do Oceano de Leite — RC-734
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | EVENTOS & ERAS |
-| **Subcategoria** | 7.5 Missões / Expedições / Encontros |
-| **Status** | 🟢 Verificado (candidatura aprovada pelo curador) |
-| **Última atualização** | 2026-08-16 |
 
 ## Definição Sintética
 

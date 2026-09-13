@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-218"
+nome = "Holograma Universal"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.2 Leis e princípios cósmicos"
+status = "verificado"
+fontes = ["B002", "P2025-02-15", "P2024-11-30", "P2023-07-30", "P2025-06-14"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-31"
++++
 # Holograma Universal — RC-218
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | Conceitos Cosmológicos |
-| **Subcategoria** | 2.2 Leis e princípios cósmicos |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-31 |
 
 ## Definição Sintética
 

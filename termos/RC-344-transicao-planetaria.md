@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-344"
+nome = "Transição Planetária"
+categoria = "Eventos & Eras"
+subcategoria = "7.2 Eras / Épocas / Ciclos"
+status = "em análise"
+fontes = ["B003", "B025", "B042", "P2022-12-17", "P2025-03-15", "P2025-02-16", "P2025-02-15", "P2024-11-30", "P2023-12-03"]
+via = "P7-conhecimento"
+confianca_fonte = "baixa"
+atualizado = "2026-08-29"
++++
 # Transição Planetária — RC-344
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | Eventos & Eras |
-| **Subcategoria** | 7.2 Eras / Épocas / Ciclos |
-| **Status** | 🟠 Em análise |
-| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 

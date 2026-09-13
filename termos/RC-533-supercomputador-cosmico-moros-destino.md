@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-533"
+nome = "Supercomputador Cósmico (Moros — destino)"
+categoria = "Seres & Entidades"
+subcategoria = "1.8 Consciências coletivas / Logos"
+status = "em análise"
+fontes = ["B073", "P2025-02-15", "P2024-11-30", "P2024-04-13", "P2024-06-16"]
+via = "P7-conhecimento"
+confianca_fonte = "baixa"
+atualizado = "2026-08-31"
++++
 # Supercomputador Cósmico (Moros — destino) — RC-533
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | Seres & Entidades |
-| **Subcategoria** | 1.8 Consciências coletivas / Logos |
-| **Status** | 🟠 Em análise |
-| **Última atualização** | 2026-08-31 |
 
 ## Definição Sintética
 

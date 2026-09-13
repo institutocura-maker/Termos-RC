@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-591"
+nome = "Profecia Hopi da Estrela Azul"
+categoria = "Eventos & Eras"
+subcategoria = "7.3 Profecias / Anúncios"
+status = "verificado"
+fontes = ["P2022-12-17"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-14"
++++
 # Profecia Hopi da Estrela Azul — RC-591
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | EVENTOS & ERAS |
-| **Subcategoria** | 7.3 Profecias / Anúncios |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-14 |
 
 ## Definição Sintética
 Tradição atribuída aos Hopis segundo a qual uma Estrela Azul marcaria transição para nova condição de consciência, da crença para o conhecimento.

@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-385"
+nome = "Egrégora (circuito dos elétrons rebeldes)"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.4 Espiritualidade / Doutrina"
+status = "verificado"
+fontes = ["B041", "B074", "B075", "P2026-07-30", "P2025-03-15", "P2023-06-24", "P2021-05-08"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-09-10"
++++
 # Egrégora (circuito dos elétrons rebeldes) — RC-385
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
-| **Subcategoria** | 2.4 Espiritualidade / Doutrina |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-09-10 |
 
 ## Definição Sintética
 

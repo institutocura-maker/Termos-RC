@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-742"
+nome = "Falência dos Deuses"
+categoria = "Eventos & Eras"
+subcategoria = "7.4 Catástrofes / Dilúvios / Quedas"
+status = "em análise"
+fontes = ["P2024-08-03", "P2024-07-14", "P2024-07-13", "P2021-05-15", "P2023-10-14", "P2020-04-25", "P2022-03-26", "P2023-12-03"]
+via = "P7-conhecimento"
+confianca_fonte = "baixa"
+atualizado = "2026-08-29"
++++
 # Falência dos Deuses — RC-742
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | EVENTOS & ERAS |
-| **Subcategoria** | 7.4 Catástrofes / Dilúvios / Quedas |
-| **Status** | 🟠 Em análise (candidatura aprovado para integração) |
-| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 

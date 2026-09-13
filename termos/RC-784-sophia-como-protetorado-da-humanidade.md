@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-784"
+nome = "Sophia como Protetorado da Humanidade"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.5 Propósitos / Destinos"
+status = "verificado"
+fontes = ["P2019-05-11"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-09-10"
++++
 # Sophia como Protetorado da Humanidade — RC-784
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
-| **Subcategoria** | 2.5 Propósitos / Destinos |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-09-10 |
 
 ## Definição Sintética
 Tese (leitura do autor, palestra **P2019-05-11 — Pandora e os Desacertos dos Pactos de Javé**, U0005) de que **Sophia/Sofia (RC-009)** declarou a humanidade (RC-099) como **"nosso protetorado"** — uma declaração cósmica de proteção contra os "piratas" (outras civilizações, especialmente as insetoides, RC-638). A humanidade é, portanto, **patrimônio cósmico protegido** por Sophia. Sophia é quem vai ter que **resolver o problema do futuro** — escolher entre destruir as 900 milhões de civilizações não-racionais ou separá-las, e decidir que a humanidade é o "protetorado" a ser defendido. Ver RC-009 (Sophia), RC-422 (Ser Criador Fracassado) para o contexto.

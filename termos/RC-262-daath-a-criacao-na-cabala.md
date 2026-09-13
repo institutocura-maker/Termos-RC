@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-262"
+nome = "Daath (a Criação na Cabala)"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.1 Cosmogonia / Criação"
+status = "em análise"
+fontes = ["B013", "P2023-10-14"]
+via = "P7-conhecimento"
+confianca_fonte = "baixa"
+atualizado = "2026-08-28"
++++
 # Daath (a Criação na Cabala) — RC-262
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | TERMOS ESPECÍFICOS |
-| **Subcategoria** | 8.2 Hebraico / Cabala |
-| **Status** | 🟠 Em análise |
-| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 

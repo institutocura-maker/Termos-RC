@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-595"
+nome = "Avesta"
+categoria = "Tecnologias & Artefatos"
+subcategoria = "5.4 Escrituras / Objetos documentais"
+status = "verificado"
+fontes = ["P2022-12-17", "P2025-10-25", "P2023-05-20"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-14"
++++
 # Avesta — RC-595
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | TECNOLOGIAS & ARTEFATOS |
-| **Subcategoria** | 5.4 Escrituras / Objetos documentais |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-14 |
 
 ## Definição Sintética
 Texto sagrado zoroástrico citado na palestra como fonte da narrativa de Yima e dos abrigos subterrâneos.

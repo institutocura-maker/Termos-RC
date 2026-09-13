@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-061"
+nome = "Espiritualidade Laboratorial"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.3 Dimensões / Planos de existência"
+status = "em análise"
+fontes = ["B031", "B024", "B013", "B051", "B060", "P2021-12-04", "P2024-05-04", "P2025-02-15", "P2024-11-30", "P2024-11-09", "P2024-07-14", "P2020-04-04"]
+via = "P7-conhecimento"
+confianca_fonte = "baixa"
+atualizado = "2026-09-07"
++++
 # Espiritualidade Laboratorial — RC-061
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
-| **Subcategoria** | 2.3 Dimensões / Planos de existência |
-| **Status** | 🟠 Em análise |
-| **Última atualização** | 2026-09-07 |
 
 ## Definição Sintética
 O terceiro e mais denso dos três níveis: a região da «Experiência Laboratorial» onde se deu o projeto que saiu errado. Abriga Ereon (RC-496) e os seus cinco Archeons (RC-596) — Antérion, Danérion, Mermérion, Perpérion (RC-087) e Tempérion (RC-472) — e é o nível do corpo manásico. Dela partiu a projeção de Prabrajna (RC-152) que gerou a Criação Indevida (RC-167).

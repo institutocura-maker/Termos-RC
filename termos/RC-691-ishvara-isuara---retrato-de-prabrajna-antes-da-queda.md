@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-691"
+nome = "Ishvara (Isuara — Retrato de Prabrajna Antes da Queda)"
+categoria = "Termos Específicos"
+subcategoria = "8.1 Sânscrito / Hinduísmo"
+status = "verificado"
+fontes = ["P2025-03-15", "P2025-06-14b", "P2024-06-16", "P2022-12-03"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-15"
++++
 # Ishvara (Isuara — Retrato de Prabrajna Antes da Queda) — RC-691
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | TERMOS ESPECÍFICOS |
-| **Subcategoria** | 8.1 Sânscrito / Hinduísmo |
-| **Status** | 🟢 Verificado (candidatura aprovada pelo curador) |
-| **Última atualização** | 2026-08-15 |
 
 ## Definição Sintética
 Último retrato ou estado mental de Prabrajna antes da queda: modelo-limite preservado na memória dos elétrons e usado como referência para a reconstrução futura do Criador.

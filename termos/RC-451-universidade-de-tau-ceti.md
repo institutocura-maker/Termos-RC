@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-451"
+nome = "Universidade de Tau Ceti"
+categoria = "Lokas & Geografias"
+subcategoria = "3.4 Regiões cósmicas / Portais"
+status = "provisório"
+fontes = ["B058"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-25"
++++
 # Universidade de Tau Ceti — RC-451
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | LOKAS & GEOGRAFIAS |
-| **Subcategoria** | 3.4 Regiões cósmicas / Portais |
-| **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-25 |
 
 ## Definição Sintética
 **Universidade de Tau Ceti** é a instituição académica dos biodemos no sistema de Tau Ceti (RC-103), regida pelo **"Conselho de Sábios da Grande Fraternidade Tau Ceti"** e presidida pelo **Grão-mestre** (RC-452) — descrita como o reduto "dos seres mais sábios de toda esta parte do universo". No Livro 2, Yel Luzbel aí submete as suas questões à avaliação ("sabatina") e recebe o veredito: **as premissas são "irrefutáveis"** — os Sábios admitem que jamais tiveram contato direto com o Criador e comprometem-se a exigir explicações de Sophia.

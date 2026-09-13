@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-635"
+nome = "Conclave da Espiritualidade Laboratorial"
+categoria = "Eventos & Eras"
+subcategoria = "7.5 Missões / Expedições / Encontros"
+status = "verificado"
+fontes = ["P2024-05-04", "P2022-03-26"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-28"
++++
 # Conclave da Espiritualidade Laboratorial — RC-635
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | EVENTOS & ERAS |
-| **Subcategoria** | 7.5 Missões / Expedições / Encontros |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 Reunião prolongada de famílias da Espiritualidade Laboratorial após o colapso de Javé, voltada à responsabilidade e ao futuro da criação.

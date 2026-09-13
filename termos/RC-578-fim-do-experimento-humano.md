@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-578"
+nome = "Fim do Experimento Humano"
+categoria = "Eventos & Eras"
+subcategoria = "7.3 Profecias / Anúncios"
+status = "verificado"
+fontes = ["P2022-12-17", "P2026-08-04"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-14"
++++
 # Fim do Experimento Humano — RC-578
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | EVENTOS & ERAS |
-| **Subcategoria** | 7.3 Profecias / Anúncios |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-14 |
 
 ## Definição Sintética
 Risco de extinção ou fracasso da experiência humana, explicitamente distinguido do fim do planeta ou do universo.

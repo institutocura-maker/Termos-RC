@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-378"
+nome = "A Rebelião dos Elétrons"
+categoria = "Eventos & Eras"
+subcategoria = "7.1 Guerras / Rebeliões / Conflitos"
+status = "verificado"
+fontes = ["B041", "B024", "P2024-05-04", "P2025-03-15", "P2024-11-30", "P2024-11-09", "P2024-03-03", "P2024-04-14", "P2023-11-19", "P2023-06-24", "P2023-10-14", "P2020-04-25", "P2022-03-26", "P2023-12-03", "P2022-12-03", "P2022-07-16", "P2020-04-04"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-29"
++++
 # A Rebelião dos Elétrons — RC-378
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | EVENTOS & ERAS |
-| **Subcategoria** | 7.1 Guerras / Rebeliões / Conflitos |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 A "rebelião dos elétrons" é o **movimento inconsciente de rebelião íntima no âmbito dos elétrons** (B041, cap. 17) — e, segundo o cap. 22, **"foi e é o único padrão modificador do Código de Vida Pessoal do Criador (CFDP)"**, daí o título do livro. Para Javé, "o sentido que damos à 'rebelião dos elétrons' significa exatamente a sua rendição psíquica, cuja implicação é a de 'abrir mão' da gestão dos 'pedaços desagregados de si mesmo', ou seja, dos elétrons e dos antielétrons". Em vez de Javé comandar os elétrons (suas partes desagregadas), **eles atuarão sobre ele**, comandados pelas mentes das "criaturas-ferramentas" — "a única maneira possível deles ajudarem o Criador 'caído'".

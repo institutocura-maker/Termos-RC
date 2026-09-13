@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-800"
+nome = "Jesus como Último Avatar (Não Mata)"
+categoria = "Seres & Entidades"
+subcategoria = "1.4 Anjos / Arcanjos / Querubins"
+status = "em análise"
+fontes = ["P2018-02-24"]
+via = "P7-conhecimento"
+confianca_fonte = "baixa"
+atualizado = "2026-08-30"
++++
 # Jesus como Último Avatar (Não Mata) — RC-800
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | SERES & ENTIDADES |
-| **Subcategoria** | 1.4 Anjos / Arcanjos / Querubins |
-| **Status** | 🟠 Em análise |
-| **Última atualização** | 2026-08-30 |
 
 ## Definição Sintética
 Tese (leitura do autor, palestra **P2018-02-24**, U0004/U0005) de que **Jesus (RC-072) é o "último avatar"** da estratégia — aquele que **resolveu não matar ninguém** e propôs a **luta íntima do bem e do mal**, transferindo a responsabilidade para os humanos. Jesus "tentou avisar ao ser humano algo que ele não disse explicitamente" — que os humanos são "cobaias que receberam o final de genética da vida dos deuses" e que a "covardia desses seres" (Javé) é tamanha. Ver RC-072 (Jesus), RC-422 (Ser Criador Fracassado), RC-099 (Homo Sapiens), RC-797 (Estratégia dos Avatares).

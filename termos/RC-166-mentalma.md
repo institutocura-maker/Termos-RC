@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-166"
+nome = "Mentalma"
+categoria = "Termos Específicos"
+subcategoria = "8.5 Outros idiomas / jargão técnico"
+status = "verificado"
+fontes = ["B024", "B074", "B075", "P2022-12-17", "P2021-12-04", "P2026-07-30", "P2026-04-02", "P2025-06-26", "P2025-03-15", "P2025-02-15", "P2024-11-30", "P2024-11-09", "P2024-04-14", "P2025-06-14b", "P2026-08-04", "ART-2026-08-18", "P2023-05-13", "P2023-07-30", "P2023-07-05", "P2023-04-01", "P2020-04-25", "P2022-03-26"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-28"
++++
 # Mentalma — RC-166
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | TERMOS ESPECÍFICOS |
-| **Subcategoria** | 8.5 Outros idiomas / jargão técnico |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 **Mentalma** é o **método de yoga mental e de emancipação psíquica** criado por Jan Val Ellam para o cotidiano — uma "disciplina de Yoga" que substitui as práticas físicas (asanas) por **"jogos mentais"** baseados em questionamentos sobre os próprios conceitos, crenças e "verdades pessoais". O nome deriva de *Mente* + *Atma* (alma/espírito). É o método central da série paralela às Revelações Cósmicas (5 livros + curso), intimamente ligada ao corpus RC.

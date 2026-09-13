@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-455"
+nome = "Pashvnaj (espécie de 43 seres do Gênero Adhy)"
+categoria = "Seres & Entidades"
+subcategoria = "1.2 Coletivos criadores"
+status = "verificado"
+fontes = ["B060", "P2021-12-04", "P2024-05-04"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-14"
++++
 # Pashvnaj (espécie de 43 seres do Gênero Adhy) — RC-455
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | SERES & ENTIDADES |
-| **Subcategoria** | 1.2 Coletivos criadores |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-14 |
 
 ## Definição Sintética
 Pashvnaj é uma das cinco espécies do Gênero Adhy. A palestra atribui à espécie 43 seres, dentro do total de 147 Adhy.

@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-152"
+nome = "Prabrajna"
+categoria = "Seres & Entidades"
+subcategoria = "1.1 Divindades / Criadores"
+status = "verificado"
+fontes = ["B024", "B044", "B001", "B016", "B013", "B022", "B060", "B061", "P2021-12-04", "P2026-07-30", "P2024-05-04", "P2025-03-15", "P2024-11-30", "P2024-11-09", "P2024-04-14", "P2025-06-14b", "P2024-03-02", "B089", "P2024-11-03", "P2024-06-16", "P2021-06-26"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-12"
++++
 # Prabrajna — RC-152
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | SERES & ENTIDADES |
-| **Subcategoria** | 1.1 Divindades / Criadores |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-12 |
 
 ## Definição Sintética
 **Prabrajna** (também chamado **Prajapati** nas antigas tradições védicas/sânscritas) é o Ser da condição **Adhyatman** de cuja "Experiência Laboratorial" emergiu um "Processo de Gestação Mental corrompida", prematuramente expelida/plasmada (B024, cap. 1). Ele é o **Criador antes da queda** — a identidade prévia de **Brahma/Javé** na Espiritualidade Laboratorial (Perpérion). A Criação de Prabrajna — ou Prajapati — é o nome dado ao universo gerado, e sua energia característica é **Rajas**.

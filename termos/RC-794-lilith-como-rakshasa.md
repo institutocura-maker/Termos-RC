@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-794"
+nome = "Lilith como Rakshasa (Espécie Não-Humana)"
+categoria = "Genealogias & Linhagens"
+subcategoria = "6.3 Dinastias extraterrestres"
+status = "verificado"
+fontes = ["P2025-04-06", "P2023-11-11"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-30"
++++
 # Lilith como Rakshasa (Espécie Não-Humana) — RC-794
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | GENEALOGIAS & LINHAGENS |
-| **Subcategoria** | 6.3 Dinastias extraterrestres |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-30 |
 
 ## Definição Sintética
 Tese (leitura do autor, palestra **P2025-04-06**, U0006) de que **Lilith (RC-308)** **não é humana** — é da **espécie Rakshasa** (STT "Rxaça") (também grafada "racha"), que tem **mais de 1000 tipos/subespécies**. Lilith é **"monstruosa"**, mas **surgiu para apoiar Pandora (RC-086)**. Seus descendentes **mantinham o mito dela** como forma de **esconder Pandora** ("fazendo crer que ela estava morta para ver se ela ganhava um descanso"). A tese afasta Lilith da demonologia judaica-cristã (1ª esposa de Adão) e a reinscreve como **espécie cósmica não-humana**. Ver RC-308 (Lilith), RC-086 (Pandora), RC-796 (Judaísmo).

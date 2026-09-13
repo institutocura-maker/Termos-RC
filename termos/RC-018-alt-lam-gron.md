@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-018"
+nome = "Alt´Lam Gron"
+categoria = "Tecnologias & Artefatos"
+subcategoria = "5.1 Naves / Tecnologia extraterrestre"
+status = "em análise"
+fontes = ["B031", "B017", "B018", "B039", "P2021-05-15", "P2020-04-25", "P2023-12-03", "P2018-12-15", "P2022-09-25"]
+via = "P7-conhecimento"
+confianca_fonte = "baixa"
+atualizado = "2026-08-29"
++++
 # Alt´Lam Gron — RC-018
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | Tecnologias & Artefatos |
-| **Subcategoria** | 5.1 Naves / Tecnologia extraterrestre |
-| **Status** | 🟠 Em análise |
-| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 

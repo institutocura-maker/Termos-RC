@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-666"
+nome = "Obatalá (correspondência de Javé em Ifá)"
+categoria = "Termos Específicos"
+subcategoria = "8.5 Outros idiomas / jargão técnico"
+status = "em análise"
+fontes = ["P2025-06-26", "P2024-09-29", "P2025-06-14b", "P2025-11-29"]
+via = "P7-conhecimento"
+confianca_fonte = "baixa"
+atualizado = "2026-08-18"
++++
 # Obatalá (correspondência de Javé em Ifá) — RC-666
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | TERMOS ESPECÍFICOS |
-| **Subcategoria** | 8.5 Outros idiomas / jargão técnico |
-| **Status** | 🟠 Em análise |
-| **Última atualização** | 2026-08-18 |
 
 ## Definição Sintética
 Correspondência de teologia comparada entre Obatalá e Javé reconstruído/caído.

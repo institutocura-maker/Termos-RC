@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-297"
+nome = "Era dos Humanos (Zeus e a)"
+categoria = "Eventos & Eras"
+subcategoria = "7.2 Eras / Épocas / Ciclos"
+status = "verificado"
+fontes = ["B021", "P2025-11-29", "B087", "B088"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-18"
++++
 # Era dos Humanos (Zeus e a) — RC-297
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | EVENTOS & ERAS |
-| **Subcategoria** | 7.2 Eras / Épocas / Ciclos |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-18 |
 
 ## Definição Sintética
 A **"Era dos Humanos"** é o período em que a espécie humana emergiu como protagonista da Terra, deslocando os deuses demo — tema do capítulo 23 de B021 ("Zeus e a Impensável 'Era dos Humanos'"). Zeus "invadiu, sim, a 'Era dos Humanos', mas as religiões que posteriormente foram surgindo transformaram o seu esforço em nada, numa mera criação literária... foi desse modo que Zeus tentou lidar com a 'Era dos Humanos', sendo o seu objetivo o de ser tido como o 'deus dos humanos', o 'pai dos humanos'. Em vez disso, passou a ser considerado lenda, um mito."

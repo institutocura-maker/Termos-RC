@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-696"
+nome = "Geração Regenerada de Brahma"
+categoria = "Genealogias & Linhagens"
+subcategoria = "6.1 Famílias divinas / Celestiais"
+status = "verificado"
+fontes = ["P2025-02-16", "P2024-11-30", "P2024-11-02", "P2024-08-03", "P2024-07-13", "P2023-10-14"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-28"
++++
 # Geração Regenerada de Brahma — RC-696
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | GENEALOGIAS & LINHAGENS |
-| **Subcategoria** | 6.1 Famílias divinas / Celestiais |
-| **Status** | 🟢 Verificado (candidatura aprovada pelo curador) |
-| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 Conjunto de filhos e filhas produzidos pela mente e pelo corpo reconstruído de Brahma/Javé após o Ragnarok, apresentados como fontes genéticas de espécies e linhagens posteriores.

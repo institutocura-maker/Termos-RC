@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-604"
+nome = "Fatiamento de Consciência"
+categoria = "Processos & Fenômenos"
+subcategoria = "4.2 Fenômenos espirituais / mediúnicos"
+status = "em análise"
+fontes = ["P2021-12-04", "P2026-07-30", "P2024-05-04", "P2025-10-25", "P2025-02-16", "P2024-11-30", "P2024-07-14", "P2024-03-02", "P2023-05-13", "P2020-04-25", "P2022-03-26", "P2023-12-03", "P2020-04-04"]
+via = "P7-conhecimento"
+confianca_fonte = "baixa"
+atualizado = "2026-08-29"
++++
 # Fatiamento de Consciência — RC-604
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | PROCESSOS & FENÔMENOS |
-| **Subcategoria** | 4.2 Fenômenos espirituais / mediúnicos |
-| **Status** | 🟠 Em análise |
-| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 Projeção de múltiplos eus ou identidades sustentados por um mesmo espírito ancestral em diferentes níveis, corpos ou avatares.

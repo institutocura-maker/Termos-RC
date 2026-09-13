@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-927"
+nome = "Sai Baba de Shirdi (Shirdi Sai Baba)"
+categoria = "Seres & Entidades"
+subcategoria = "1.6 Figuras humanas (históricas/míticas)"
+status = "provisório"
+fontes = ["B060", "P2012-02-19"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-09-03"
++++
 # Sai Baba de Shirdi (Shirdi Sai Baba) — RC-927
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | SERES & ENTIDADES |
-| **Subcategoria** | 1.6 Figuras humanas (históricas/míticas) |
-| **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-09-03 |
 
 ## Definição Sintética
 Segundo as Revelações Cósmicas, **Sai Baba de Shirdi (Shirdi Sai Baba)** é a **primeira encarnação da linhagem "Sai" de Shiva na era moderna** — o primeiro dos três avatares da sequência que, nas palavras de Ellam, Shiva programou (P2012-02-19). No acervo canônico, B060 o cataloga como personagem próprio: "Sai Baba de Shirdi ou Shirdi Sai Baba (1838(?) a 1918 — Índia)". Ver RC-928 (Sathya Sai Baba), RC-929 (Prema Sai), RC-801 (linhagem Sai), RC-102 (Shiva).

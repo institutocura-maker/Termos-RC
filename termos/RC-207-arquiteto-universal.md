@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-207"
+nome = "Arquiteto Universal"
+categoria = "Seres & Entidades"
+subcategoria = "1.1 Divindades / Criadores"
+status = "verificado"
+fontes = ["B001", "B002", "B019"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-12"
++++
 # Arquiteto Universal — RC-207
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | SERES & ENTIDADES |
-| **Subcategoria** | 1.1 Divindades / Criadores |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-12 |
 
 ## Definição Sintética
 Função exercida por uma **divindade menor co-criadora** quando se apresenta, nos "setores de criação do paraíso", para criar um universo em homenagem à Deidade (B001, cap. 1). O **Arquiteto Universal** é a condição/função que o Criador (Prabrajna/Prajapati) exercia **antes da queda**: "era chegado o momento de mais uma divindade menor co-criadora apresentar-se para exercer a função de arquiteto universal". A queda do Arquiteto Universal é o tema do primeiro capítulo de B002 ("A Queda de um Arquiteto Universal") — a divindade que criou este universo "nele se obrigou a viver por uma 'questão de consciência'".

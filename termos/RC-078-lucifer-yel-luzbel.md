@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-078"
+nome = "Lúcifer (Yel Luzbel)"
+categoria = "Seres & Entidades"
+subcategoria = "1.5 Decaídos / Exilados / Demônios"
+status = "verificado"
+fontes = ["B031", "B017", "B018", "B039", "B015", "B003", "B025", "B026", "B057", "B058", "B060", "B061", "P2022-12-17", "P2024-03-03", "P2020-04-25", "P2022-03-26", "P2023-12-03", "P2018-12-16", "P2023-08-27"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-29"
++++
 # Lúcifer (Yel Luzbel) — RC-078
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | SERES & ENTIDADES |
-| **Subcategoria** | 1.5 Decaídos / Exilados / Demônios |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 **Lúcifer** é o nome terreno pelo qual **Yel Luzbel** passou a ser conhecido: biodemo da **Família Yel**, criado no Sistema de Capela, que **deu início à Rebelião de Lúcifer** nos Sistemas de Capela e Antares e depois se exilou na Terra. São Jerônimo atribuiu "Lúcifer" ao anjo caído ao traduzir a Vulgata (séc. IV d.C.); a palavra significa literalmente **"O Portador da Luz"** (B031). Sua importância nas RC é sem precedentes para o **"deslacre" mental** dos biodemos que se rebelaram — abrindo caminho para a liberdade humana em relação ao domínio "colméico" do Criador.

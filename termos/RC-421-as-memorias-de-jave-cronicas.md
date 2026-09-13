@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-421"
+nome = "As Memórias de Javé (crônicas)"
+categoria = "Tecnologias & Artefatos"
+subcategoria = "5.4 Escrituras / Objetos documentais"
+status = "verificado"
+fontes = ["B036"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-13"
++++
 # As Memórias de Javé (crônicas) — RC-421
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | TECNOLOGIAS & ARTEFATOS |
-| **Subcategoria** | 5.4 Escrituras / Objetos documentais |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-13 |
 
 ## Definição Sintética
 *As Memórias de Javé* (B036) é a coletânea de **crônicas atribuídas a Javé** — o Criador falando em primeira pessoa — recebidas por Jan Val Ellam em três fases: **I. Crônicas Espontâneas** (7), **II. Crônicas espontâneas, mas nem tanto** (4, com perguntas/discordâncias de Ellam para "acordá-lo") e **III. Crônicas forçadas** (2, diálogos como no Favor Divino). A Introdução explica que tudo começou com as reclamações de Javé sobre o livro *Favor Divino* e continuou com as *Cartas a Javé* (B034).

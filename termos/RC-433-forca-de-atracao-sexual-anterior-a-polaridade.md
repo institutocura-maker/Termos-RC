@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-433"
+nome = "Força de Atração Sexual (anterior à polaridade)"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.2 Leis e princípios cósmicos"
+status = "verificado"
+fontes = ["B052", "P2024-11-30", "P2024-09-29", "P2024-08-03"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-13"
++++
 # Força de Atração Sexual (anterior à polaridade) — RC-433
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
-| **Subcategoria** | 2.2 Leis e princípios cósmicos |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-13 |
 
 ## Definição Sintética
 A revelação central de *Homoafetividade: O Segredo Perdido do Éden* (B052): **a força de atração sexual surgiu ANTES do estabelecimento da polaridade macho/fêmea** — na "geração do Olimpo" (cultura demo). O trecho narra: "A expressão do tipo de força sexual que agora existe entre vocês, humanos, existiu no passado remoto entre algumas das estirpes da família de seres à qual pertenci... Naquela época, a força sexual explodia em algumas classes de seres, como forma de uni-los, independente da maneira do acasalamento. Pelo fato de 'todos desconfiarem de todos', ninguém se unia, e por isso essa força teve que surgir para evitar os problemas da desagregação eterna."

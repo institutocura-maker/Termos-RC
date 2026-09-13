@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-760"
+nome = "Vrittis e Cittas (atividades e núcleos mentais)"
+categoria = "Termos Específicos"
+subcategoria = "8.1 Sânscrito / Hinduísmo"
+status = "verificado"
+fontes = ["P2024-02-03", "P2025-11-29", "P2023-11-19", "P2023-09-09", "P2023-07-05", "P2025-02-22", "P2025-06-14b"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-18"
++++
 # Vrittis e Cittas (atividades e núcleos mentais) — RC-760
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | TERMOS ESPECÍFICOS |
-| **Subcategoria** | 8.1 Sânscrito / Hinduísmo |
-| **Status** | 🟢 Verificado (candidatura aprovada pelo curador) |
-| **Última atualização** | 2026-08-18 |
 
 ## Definição Sintética
 

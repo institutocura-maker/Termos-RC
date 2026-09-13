@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-781"
+nome = "Pactos de Javé (Brama / Vishnu / Shiva)"
+categoria = "Eventos & Eras"
+subcategoria = "7.1 Guerras / Rebeliões / Conflitos"
+status = "verificado"
+fontes = ["P2019-05-11", "P2018-10-06", "P2023-02-12"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-30"
++++
 # Pactos de Javé (Brama / Vishnu / Shiva) — RC-781
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | EVENTOS & ERAS |
-| **Subcategoria** | 7.1 Guerras / Rebeliões / Conflitos |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-30 |
 
 ## Definição Sintética
 Tese (leitura do autor, palestra **P2019-05-11 — Pandora e os Desacertos dos Pactos de Javé**, U0004) de que os **três seres divinos** — **Javé/Brama (RC-001)**, **Vishnu/Krishna (RC-102)**, **Shiva (RC-148)** — fizeram **pactos entre si** por **impossibilidade racional** de prevalecerem uns sobre os outros. Esses pactos (que não são "termos de acordo racionais", mas **a única lógica possível para o comportamento demo**) geraram a humanidade como **resultado incidental**. A humanidade (RC-099) é, portanto, **o subproduto dos pactos desastrosos** entre os três — não o objetivo, mas o efeito colateral. Ver RC-001 (Javé), RC-102 (Krishna), RC-148 (Shiva) para os três seres pactuantes.

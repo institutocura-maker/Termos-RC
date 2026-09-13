@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-447"
+nome = "Primeiro Pesquisador (cargo capelino)"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.2 Leis e princípios cósmicos"
+status = "provisório"
+fontes = ["B057", "B058"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-25"
++++
 # Primeiro Pesquisador (cargo capelino) — RC-447
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
-| **Subcategoria** | 2.2 Leis e princípios cósmicos |
-| **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-25 |
 
 ## Definição Sintética
 **Primeiro Pesquisador** é o cargo capelino exercido por **Yel Luzbel** (RC-078) na Família Yel (RC-442): a incumbência de "**verificar os graus de atuação e de evolução dos seres que faziam parte deste universo**" — mapear como as criaturas percebiam a vida e as Hierarquias que administravam o universo, e o próprio Criador. Da pesquisa desse cargo nasceram as três constatações que deflagraram o processo da Revolta (RC-002). Em B058, Yel Luzbel demite-se do cargo (e do Processador Yel).

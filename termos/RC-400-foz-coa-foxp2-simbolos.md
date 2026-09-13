@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-400"
+nome = "Foz Côa / FOXP2 (símbolos)"
+categoria = "Processos & Fenômenos"
+subcategoria = "4.1 Processos biológicos / genéticos"
+status = "verificado"
+fontes = ["B050", "B061", "P2022-12-17", "P2021-12-04", "P2024-05-04", "P2025-02-16", "P2025-02-15", "P2024-11-30", "P2024-11-09", "P2024-08-03", "P2022-09-17", "P2022-11-19", "P2025-12-14"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-20"
++++
 # Foz Côa / FOXP2 (símbolos) — RC-400
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | Processos & Fenômenos |
-| **Subcategoria** | 4.1 Processos biológicos / genéticos |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-20 |
 
 ## Definição Sintética
 

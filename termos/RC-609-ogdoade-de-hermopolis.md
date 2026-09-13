@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-609"
+nome = "Ogdóade de Hermópolis"
+categoria = "Genealogias & Linhagens"
+subcategoria = "6.1 Famílias divinas / Celestiais"
+status = "verificado"
+fontes = ["P2021-12-04", "P2026-07-30", "P2023-12-02", "P2024-08-03", "P2023-12-25-01"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-18"
++++
 # Ogdóade de Hermópolis — RC-609
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | GENEALOGIAS & LINHAGENS |
-| **Subcategoria** | 6.1 Famílias divinas / Celestiais |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-18 |
 
 ## Definição Sintética
 Conjunto de oito figuras da tradição egípcia de Hermópolis correlacionado na palestra a seis seres Adhy da Trimurti/Tridevi e dois seres LM.

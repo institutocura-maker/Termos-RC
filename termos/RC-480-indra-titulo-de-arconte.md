@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-480"
+nome = "Indra (título de arconte)"
+categoria = "Seres & Entidades"
+subcategoria = "1.8 Consciências coletivas / Logos"
+status = "em análise"
+fontes = ["B061", "P2022-12-17", "P2025-10-25", "P2025-02-16", "P2024-09-29"]
+via = "P7-conhecimento"
+confianca_fonte = "baixa"
+atualizado = "2026-08-19"
++++
 # Indra — RC-480
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | TERMOS ESPECÍFICOS |
-| **Subcategoria** | 8.1 Sânscrito / Hinduísmo |
-| **Status** | 🟠 Em análise |
-| **Última atualização** | 2026-08-19 |
 
 ## Definição Sintética
 

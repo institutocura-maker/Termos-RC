@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-773"
+nome = "Nanotecnologia Prânica (manipulação da matéria em escala atômica; base tecnológica do Projeto TALM)"
+categoria = "Tecnologias & Artefatos"
+subcategoria = "5.1 Naves / Tecnologia extraterrestre"
+status = "provisório"
+fontes = ["ART-2025-08-03"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-21"
++++
 # Nanotecnologia Prânica — RC-773
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | TECNOLOGIAS & ARTEFATOS |
-| **Subcategoria** | 5.1 Naves / Tecnologia extraterrestre |
-| **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-21 |
 
 ## Definição Sintética
 Base tecnológica do **Projeto TALM** (RC-091): manipulação da matéria em escala atômica e molecular, muito mais avançada que a nanotecnologia humana. Opera na formação de subpartículas a partir de frequências de vibração de cordas e colapso quântico. Os **Fenvans** (RC-064) e os vírus ("nanorrobôs autorreplicantes") são produtos dessa tecnologia.

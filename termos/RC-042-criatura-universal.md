@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-042"
+nome = "Criatura Universal"
+categoria = "Seres & Entidades"
+subcategoria = "1.7 Híbridos / Seres de transição"
+status = "em análise"
+fontes = ["B031", "B024", "B019", "B041", "P2026-04-02", "P2023-05-13", "P2020-04-25", "P2022-03-26", "P2023-12-03", "P2021-02-28", "P2021-06-26"]
+via = "P7-conhecimento"
+confianca_fonte = "baixa"
+atualizado = "2026-08-29"
++++
 # Criatura Universal — RC-042
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | SERES & ENTIDADES |
-| **Subcategoria** | 1.7 Híbridos / Seres de transição |
-| **Status** | 🟠 Em análise |
-| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 

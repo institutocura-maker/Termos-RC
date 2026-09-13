@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-366"
+nome = "O Enigma da Transfiguração"
+categoria = "Eventos & Eras"
+subcategoria = "7.3 Profecias / Anúncios"
+status = "verificado"
+fontes = ["B011", "P2023-06-03", "P2025-05-10", "P2023-02-11", "P2022-11-20", "P2020-04-04"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-12"
++++
 # O Enigma da Transfiguração — RC-366
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | EVENTOS & ERAS |
-| **Subcategoria** | 7.3 Profecias / Anúncios |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-12 |
 
 ## Definição Sintética
 A **Transfiguração de Jesus** (Mateus 17:1-19) reinterpretada nas RC — o capítulo 15 do B011 (Livro de Moisés): o evento em que Jesus se transfigurou diante de Pedro, Tiago e João, com Moisés e Elias, é explicado como uma **alteração vibratória** (RC-367) — a manifestação temporária de sua condição espiritual superior. O B011 narra o fenômeno pela perspectiva da equipe espiritual que assessorava Jesus ("Assessoria Cósmica", RC-368): "antes de nascer para o mundo terreno, nosso Mestre havia deixado clara Sua diretriz para todas as hostes que O assessoravam".

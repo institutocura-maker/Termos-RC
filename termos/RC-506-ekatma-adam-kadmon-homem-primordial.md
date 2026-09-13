@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-506"
+nome = "Ekatma (Adam Kadmon — Homem Primordial)"
+categoria = "Termos Específicos"
+subcategoria = "8.2 Hebraico / Cabala"
+status = "verificado"
+fontes = ["B061", "P2024-09-28", "P2024-08-03", "P2023-09-09", "P2023-12-03"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-29"
++++
 # Ekatma (Adam Kadmon — Homem Primordial) — RC-506
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | SERES & ENTIDADES |
-| **Subcategoria** | 1.1 Divindades / Criadores |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 

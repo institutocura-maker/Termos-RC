@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-031"
+nome = "Aya e Aye"
+categoria = "Seres & Entidades"
+subcategoria = "1.4 Anjos / Arcanjos / Querubins"
+status = "em análise"
+fontes = ["B031", "B024", "B044", "B061", "P2021-05-15", "P2018-12-16"]
+via = "P7-conhecimento"
+confianca_fonte = "baixa"
+atualizado = "2026-08-31"
++++
 # Aya e Aye — RC-031
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | Seres & Entidades |
-| **Subcategoria** | 1.4 Anjos / Arcanjos / Querubins |
-| **Status** | 🟠 Em análise |
-| **Última atualização** | 2026-08-31 |
 
 ## Definição Sintética
 

@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-744"
+nome = "Pendências Existenciais em Realidades Paralelas"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.3 Dimensões / Planos de existência"
+status = "em análise"
+fontes = ["P2024-08-03"]
+via = "P7-conhecimento"
+confianca_fonte = "baixa"
+atualizado = "2026-08-16"
++++
 # Pendências Existenciais em Realidades Paralelas — RC-744
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
-| **Subcategoria** | 2.3 Dimensões / Planos de existência |
-| **Status** | 🟠 Em análise (candidatura aprovado para integração) |
-| **Última atualização** | 2026-08-16 |
 
 ## Definição Sintética
 

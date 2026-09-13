@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-323"
+nome = "Entroncamentos Genéticos Intersiderais"
+categoria = "Processos & Fenômenos"
+subcategoria = "4.1 Processos biológicos / genéticos"
+status = "verificado"
+fontes = ["B023", "P2025-02-16", "P2024-11-30", "P2024-09-29"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-12"
++++
 # Entroncamentos Genéticos Intersiderais — RC-323
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | PROCESSOS & FENÔMENOS |
-| **Subcategoria** | 4.1 Processos biológicos / genéticos |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-12 |
 
 ## Definição Sintética
 Os cruzamentos genéticos entre diferentes cepas (demo, biodemo, biodemol, humano, nephelim, sirianos) que formaram a humanidade — revelados em *O Dharma e as Castas Hindus* (B023, cap. 3). O texto divide os entroncamentos em 4 grupos (de pelo menos 8 ocorridos):

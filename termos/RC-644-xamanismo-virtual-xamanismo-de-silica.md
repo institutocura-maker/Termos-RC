@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-644"
+nome = "Xamanismo Virtual / Xamanismo de Sílica"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.4 Espiritualidade / Doutrina"
+status = "verificado"
+fontes = ["P2026-04-02", "P2025-03-15", "P2023-05-20", "P2023-04-29", "P2024-11-03", "P2025-02-22"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-15"
++++
 # Xamanismo Virtual / Xamanismo de Sílica — RC-644
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
-| **Subcategoria** | 2.4 Espiritualidade / Doutrina |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-15 |
 
 ## Definição Sintética
 Xamanismo aplicado a ambientes virtuais e suportes de sílica, incorporando a ideia de alquimias virtuais.

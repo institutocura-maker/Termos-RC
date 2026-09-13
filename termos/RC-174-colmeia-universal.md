@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-174"
+nome = "Colmeia Universal"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.2 Leis e princípios cósmicos"
+status = "verificado"
+fontes = ["B044", "P2024-11-30", "P2024-07-13", "P2023-02-12", "P2022-12-03", "P2022-11-26", "P2022-11-20", "P2022-09-18"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-12"
++++
 # Colmeia Universal — RC-174
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
-| **Subcategoria** | 2.2 Leis e princípios cósmicos |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-12 |
 
 ## Definição Sintética
 A "Colmeia Universal" é a **forma-modelo** de como **Javé — o criador universal — se relaciona com suas criaturas** (B044, Sinopse): uma organização piramidal em que o Criador ocupa o topo ("Abelha-Rainha") e todas as demais criaturas existem para servi-lo — como operárias de uma colmeia. A expressão descreve tanto o **modelo de relação** (a "mente coletiva" sob controle de Javé, o "modelo colmeia") quanto a **estrutura total da Criação**, composta por seus **dois "Grandes Favos"**: o universo material (planejado) e o universo antimaterial (improvisado na queda).

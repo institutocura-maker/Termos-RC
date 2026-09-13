@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-274"
+nome = "Cápsula do Tempo de Sophia (João)"
+categoria = "Tecnologias & Artefatos"
+subcategoria = "5.4 Escrituras / Objetos documentais"
+status = "verificado"
+fontes = ["B014", "B042", "P2024-03-02; RC-009", "P2026-03-21"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-12"
++++
 # Cápsula do Tempo de Sophia (João) — RC-274
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | TECNOLOGIAS & ARTEFATOS |
-| **Subcategoria** | 5.4 Escrituras / Objetos documentais |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-12 |
 
 ## Definição Sintética
 Designação (B014, cap. 13) para o **conjunto de promessas e revelações de Jesus registradas pelo apóstolo João** — notadamente o **Apocalipse** — que funcionam como uma "cápsula do tempo" deixada por Sophia/Jesus para a humanidade: "Vivenciando a sua 'condição humana', Jesus fez promessas sobre o 'seu retorno', que serão cumpridas não por alguém com a sua natureza humana de então, mas sim, por Sophia, que nada tem de humano" (B014, cap. 13). A "cápsula" contém o anúncio da vinda de Sophia ("os tempos são chegados" — Apocalipse) e o plano do retorno.

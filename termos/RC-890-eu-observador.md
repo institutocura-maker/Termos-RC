@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-890"
+nome = "Eu Observador"
+categoria = "Processos & Fenômenos"
+subcategoria = "4.4 Fenômenos físicos / energéticos"
+status = "em análise"
+fontes = ["P2023-10-15", "P2023-11-18", "P2024-01-13", "P2024-02-04", "P2024-03-17"]
+via = "P7-conhecimento"
+confianca_fonte = "baixa"
+atualizado = "2026-09-02"
++++
 # Eu Observador — RC-890
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | PROCESSOS & FENÔMENOS |
-| **Subcategoria** | 4.1 Psicologia / Consciência |
-| **Status** | 🟠 Em análise |
-| **Última atualização** | 2026-09-02 |
 
 ## Definição Sintética
 O Eu Observador é a modalidade de consciência que não age no primeiro impulso, mas deixa tudo passar, observa e decide o que fazer por si mesmo, sem ser levado pelas influências que movem os "lobos do cérebro" (as emoções inoculadas por seres de outros universos). Contrasta com o "eu usufruidor", que vive em êxtase devocional permanente, alheio ao mundo ao redor.

@@ -1,9 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-672"
+nome = "Os 366 Manuscritos de Enoque"
+categoria = "Tecnologias & Artefatos"
+subcategoria = "5.4 Escrituras / Objetos documentais"
+status = "verificado"
+fontes = ["P2025-05-31", "P2025-02-15", "P2024-11-30", "P2026-08-04", "P2024-11-03", "P2023-12-03", "P2022-11-20", "P2025-12-14"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-29"
++++
 # Os 366 Manuscritos de Enoque — RC-672
-
-| Campo | Valor |
-|---|---|
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 Termo extraído e aprovado na curadoria de P2025-05-31.

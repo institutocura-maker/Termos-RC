@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-483"
+nome = "Barbelo (Mãe-Pai primordial gnóstica)"
+categoria = "Seres & Entidades"
+subcategoria = "1.1 Divindades / Criadores"
+status = "verificado"
+fontes = ["B061", "P2026-04-02", "P2024-09-28"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-18"
++++
 # Barbelo (Mãe-Pai primordial gnóstica) — RC-483
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | SERES & ENTIDADES |
-| **Subcategoria** | 1.1 Divindades / Criadores |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-18 |
 
 ## Definição Sintética
 

@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-782"
+nome = "Javé como Caos Personificado"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.1 Cosmogonia / Criação"
+status = "verificado"
+fontes = ["P2019-05-11"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-30"
++++
 # Javé como Caos Personificado — RC-782
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
-| **Subcategoria** | 2.1 Cosmogonia / Criação |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-30 |
 
 ## Definição Sintética
 Tese (leitura do autor, palestra **P2019-05-11 — Pandora e os Desacertos dos Pactos de Javé**, U0003) de que **Javé (RC-001) é o "Caos Personificado"** — não no sentido de "estado caótico" (interpretação moderna), mas no sentido original de **Hesíodo (séc. VIII-VII a.C.)**, que usou "caos" como o **pior palavrão do grego antigo** para se referir ao ser criador caído. Javé/Brama é, portanto, "tudo que não presta, unido num só ser", "tudo que de podre existe unido num só ser", e sua mente foi **desmembrada em elétrons (universo material) e pósitrons (universo antimaterial)**. Ver RC-001 (Javé), RC-162 (Elétrons) para os termos correlatos.

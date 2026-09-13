@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-150"
+nome = "Xadrez Cósmico"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.1 Cosmogonia / Criação"
+status = "verificado"
+fontes = ["B024"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-12"
++++
 # Xadrez Cósmico — RC-150
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
-| **Subcategoria** | 2.1 Cosmogonia / Criação |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-12 |
 
 ## Definição Sintética
 Denominação dada por Jan Val Ellam ao **"Jogo" executado por algumas Divindades** (a Trimurti — Brahma, Vishnu e Shiva), que tomam as **espécies da vida universal como suas "equipes"** (B024, Introdução). O "Xadrez Cósmico" começa quando Prabrajna cria: como ele se tornou "refém" da própria Obra, Mavatna a mantém dando-lhe um "Programa Operacional" coerente, enquanto a energia Tamas de Savna vai destruindo as formas que atrapalham o progresso da Obra imperfeita — até que, no final, a energia Tamas prevaleça (B024, cap. 3).

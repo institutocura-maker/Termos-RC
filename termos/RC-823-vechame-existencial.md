@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-823"
+nome = "Vechame Existencial (Sangue de Barata = Amor sem Submissão)"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.6 Ética / Carma / Compromissos"
+status = "verificado"
+fontes = ["P2019-04-14"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-30"
++++
 # Vechame Existencial (Sangue de Barata = Amor sem Submissão) — RC-823
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | CONCEITOS ÉTICOS & FILOSÓFICOS |
-| **Subcategoria** | 5.2 Ética / Conduta / Valores |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-30 |
 
 ## Definição Sintética
 Tese (leitura do autor, palestra **P2019-04-14**, U0004) de que **o "vechame existencial"** é o **"sangue de barata"** — a **indiferença amorosa** para com quem nos pisa e nos escraviza, **sem nojo e sem submissão**. "É uma situação de exceção. Isso chama-se vechame existencial." É o **conceito ético mais original** da palestra — amar quem nos pisa sem se subjugar. Ver RC-001 (Javé), RC-806 (Desvio de Rota de Pandora), RC-335 (Lavagem Cerebral), RC-822 (Mahatma Magant).

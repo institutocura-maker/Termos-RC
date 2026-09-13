@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-445"
+nome = "Biocoletivos"
+categoria = "Seres & Entidades"
+subcategoria = "1.8 Consciências coletivas / Logos"
+status = "provisório"
+fontes = ["B057", "B058"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-25"
++++
 # Biocoletivos — RC-445
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | SERES & ENTIDADES |
-| **Subcategoria** | 1.8 Consciências coletivas / Logos |
-| **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-25 |
 
 ## Definição Sintética
 **Biocoletivos** são os coletivos de biodemos (RC-036) — o modo de existência das famílias capelinas: seres com "corpos individualizados, porém **coletivos**", portadores de uma **identidade coletiva** "baseada e alicerçada nas características da família em que estão inseridos", ligados pelos **Processadores Familiares** (RC-446). Contraste interno da narrativa: os olimpianos (universo paralelo) são urdidos individualmente e têm identidade própria; os capelinos, não.

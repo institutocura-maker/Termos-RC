@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-555"
+nome = "Série Mentalma (5 livros + curso)"
+categoria = "Tecnologias & Artefatos"
+subcategoria = "5.4 Escrituras / Objetos documentais"
+status = "verificado"
+fontes = ["B074", "B075", "P2026-08-04", "P2020-04-25", "P2022-03-26"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-28"
++++
 # Série Mentalma (5 livros + curso) — RC-555
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | TECNOLOGIAS & ARTEFATOS |
-| **Subcategoria** | 5.4 Escrituras / Objetos documentais |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 **Série Mentalma** ("Mentalma — A Yoga do Cotidiano") é a série de livros de Jan Val Ellam sobre o método **Mentalma** (RC-166): **7 partes anunciadas em 2020** (no *Mentalma I*, p. 10), das quais **5 publicadas** — I *A Consciência Esclarecida e a Gestão dos Arquivos Mentais* (B074, 2020); II *Gestão Psíquica e Memórias Complexas* (B075, 2022); III *Autoconhecimento e Emancipação* (B076, 2025); IV *Consciência Pessoal e Soberania Espiritual* (B077, 2026); V *Autorrealização* (B078, 2026) — mais o **curso** ("Ciclo de Cursos e Palestras", p. 196). VI *Qualia e o Laboratório Mental* e VII *O Eu como Computador Quântico* permanecem **anunciados/não publicados**. "Vinte maestrias pessoais... distribuídas pelos **sete módulos** do Mentalma" (B075, p. 185).

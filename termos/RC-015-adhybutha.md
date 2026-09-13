@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-015"
+nome = "Adhybutha"
+categoria = "Termos Específicos"
+subcategoria = "8.1 Sânscrito / Hinduísmo"
+status = "verificado"
+fontes = ["B031", "B051", "P2021-12-04", "P2025-02-16", "P2024-11-30"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-09-10"
++++
 # Adhybutha — RC-015
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | TERMOS ESPECÍFICOS |
-| **Subcategoria** | 8.1 Sânscrito / Hinduísmo |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-09-10 |
 
 ## Definição Sintética
 

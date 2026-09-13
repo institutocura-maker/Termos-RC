@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-559"
+nome = "Teia quântica (o que sai de um ser volta para ele)"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.2 Leis e princípios cósmicos"
+status = "verificado"
+fontes = ["P2024-02-25", "P2024-05-04", "P2025-03-15", "P2025-02-15", "P2024-11-30", "P2024-11-09", "P2024-04-13", "P2024-04-14", "P2024-02-03", "P2023-05-13", "P2025-11-29", "P2023-10-14", "P2023-12-03"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-29"
++++
 # Teia quântica — RC-559
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | PROCESSOS & FENÔMENOS |
-| **Subcategoria** | 4.2 Fenômenos espirituais / mediúnicos |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 

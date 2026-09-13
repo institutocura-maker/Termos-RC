@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-225"
+nome = "Gestão Cósmica"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.2 Leis e princípios cósmicos"
+status = "verificado"
+fontes = ["B033"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-12"
++++
 # Gestão Cósmica — RC-225
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
-| **Subcategoria** | 2.2 Leis e princípios cósmicos |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-12 |
 
 ## Definição Sintética
 A **administração do universo** exercida pelos "três personagens" (a Trimurti — Brahma, Vishnu e Shiva) e, no presente, objeto de **divisão de gestão com Jesus**. Segundo B033 (cap. 7): "o Senhor Brahma, até o momento em que escrevo estas páginas... já aceitou a divisão da gestão universal com aquele a quem conhecemos atualmente como Mestre Jesus, e a sua tão prometida volta tem tudo a ver com os termos desta questão". Como "não podem existir três mentes responsáveis pelo mesmo processo", o que ainda se negocia é qual encargo cada mente tomará até os últimos momentos do universo.

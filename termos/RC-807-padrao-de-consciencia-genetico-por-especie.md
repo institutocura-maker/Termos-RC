@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-807"
+nome = "Padrão de Consciência Genético por Espécie"
+categoria = "Processos & Fenômenos"
+subcategoria = "4.1 Processos biológicos / genéticos"
+status = "verificado"
+fontes = ["P2017-05-14"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-30"
++++
 # Padrão de Consciência Genético por Espécie — RC-807
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | PROCESSOS & FENÔMENOS |
-| **Subcategoria** | 4.1 Processos biológicos / genéticos |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-30 |
 
 ## Definição Sintética
 Tese (leitura do autor, palestra **P2017-05-14**, U0001) de que **cada espécie tem um padrão de consciência X e uma programação genética** que a predestina a agir de certo modo. "Um leão não tem como agir como elefante. Um leão só age como elefante. O macacato não vai agir como jacaré. Um macaco age como macaco." O verme intestinal "apenas busca aquelas duas componentes" — temperatura e acidez. **Nenhuma espécie pode "transcender" seu padrão — exceto a humana, via Pandora**. Ver RC-099 (Homo Sapiens), RC-086 (Pandora), RC-086 (que é a "primeira a romper o lacre").

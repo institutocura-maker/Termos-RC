@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-303"
+nome = "Pirra"
+categoria = "Seres & Entidades"
+subcategoria = "1.5 Decaídos / Exilados / Demônios"
+status = "provisório"
+fontes = ["B021", "P2024-11-09", "B087", "B088", "B089"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-25"
++++
 # Pirra — RC-303
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | SERES & ENTIDADES |
-| **Subcategoria** | 1.5 Decaídos / Exilados / Demônios |
-| **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-25 |
 
 ## Definição Sintética
 **Pirra** é a filha de **Pandora (RC-086) e Epimeteu (RC-302)**, engendrada no **"círculo de luz"** — "muito mais titânide do que olimpiana" — para dar continuidade à linhagem dos titãs criadores e manter Epimeteu ancorado na realidade. Nasceu "formada e pronta" (como todos os seres do universo paralelo), "reflexiva e ousada", e recebeu do pai a missão: "De você, nascerão seres melhorados que serão os futuros descendentes que habitarão a Terra". Na mitologia grega, Pirra (com Deucalião) repovoa a Terra após o dilúvio — na RC, funda a **Descendência de Pirra** (RC-298).

@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-826"
+nome = "Rebelião dos Elétrons (Além da Entropia)"
+categoria = "Processos & Fenômenos"
+subcategoria = "4.4 Fenômenos físicos / energéticos"
+status = "verificado"
+fontes = ["P2023-12-17", "P2023-12-03"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-31"
++++
 # Rebelião dos Elétrons (Além da Entropia) — RC-826
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | PROCESSOS & FENÔMENOS |
-| **Subcategoria** | 4.5 Processos quânticos / subatômicos |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-31 |
 
 ## Definição Sintética
 Tese (leitura do autor, palestra **P2023-12-17 — Lúcifer e a Rebelião dos Elétrons**, U0004) de que **os elétrons (RC-162) estão se rebelando** contra a máquina de gerar vida. "Isso não é entropia, isso está além das entropias. Ninguém previa esse problema dos elétrons lá atrás." A rebelião se manifesta como **colapso de colmeias, corais, genomas** e **desincentivo à reprodução humana** (afetividade, identidade de gênero, medo de relação). Os elétrons "montaram tribunal da Inquisição" e disseram "a gente tem que parar com a máquina de gerar vida nos termos em que sempre foi feito". Ver RC-162 (Elétron), RC-002 (Lúcifer), RC-009 (Sophia), RC-099 (Homo Sapiens), RC-330 (Genoma), RC-827 (Era do Colapso).

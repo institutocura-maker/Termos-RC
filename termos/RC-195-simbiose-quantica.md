@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-195"
+nome = "Simbiose Quântica"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.2 Leis e princípios cósmicos"
+status = "provisório"
+fontes = ["B035"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-12"
++++
 # Simbiose Quântica — RC-195
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
-| **Subcategoria** | 2.2 Leis e princípios cósmicos |
-| **Status** | 🟡 Provisório (baseado na amostra B035 — cap. 2) |
-| **Última atualização** | 2026-08-12 |
 
 ## Definição Sintética
 Termo cunhado por Jan Val Ellam em *O Big Data do Criador* (B035, cap. 2) para designar a **interconexão não-local entre todos os seres da Criação do Criador caído**: "todos os seres mergulhados no âmbito do que foi gerado a partir da energia pessoal do criador caído coexistem, dividindo um mesmo mecanismo que interconecta instantaneamente o que cada uma das partes faz". O aspecto **simbiótico** vem de *symbiosis* (grego: associação de dois ou mais seres de espécies diferentes com vantagens recíprocas, como um só organismo); o aspecto **quântico** vem de as espécies existirem em dimensões distintas interconectadas de modo não local (a "interconectividade não-localizada" da física quântica).

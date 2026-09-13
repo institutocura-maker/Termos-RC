@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-606"
+nome = "Protocolos / Algoritmos da Perfeição"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.2 Leis e princípios cósmicos"
+status = "verificado"
+fontes = ["P2021-12-04", "P2026-07-30", "P2024-05-04", "P2025-03-15", "P2025-02-15", "P2024-11-30", "P2024-11-09", "P2024-07-14", "P2024-03-02", "P2023-04-01b"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-14"
++++
 # Protocolos / Algoritmos da Perfeição — RC-606
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
-| **Subcategoria** | 2.2 Leis e princípios cósmicos |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-14 |
 
 ## Definição Sintética
 Padrões originais que manteriam os seres paradisíacos dentro da perfeição, sem liberdade para não serem perfeitos.

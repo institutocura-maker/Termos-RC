@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-052"
+nome = "Deus / Deus Incognoscível"
+categoria = "Seres & Entidades"
+subcategoria = "1.1 Divindades / Criadores"
+status = "verificado"
+fontes = ["B031", "B001", "B002", "B048", "B061", "P2025-03-15", "P2025-02-15", "P2024-11-30", "P2024-11-09", "P2023-12-25-01"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-12"
++++
 # Deus / Deus Incognoscível — RC-052
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | SERES & ENTIDADES |
-| **Subcategoria** | 1.1 Divindades / Criadores |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-12 |
 
 ## Definição Sintética
 As RC fazem uma distinção fundamental: existe o **Deus Bíblico** — chamado de **Javé** (na tradição católica), o **Criador "caído"** deste universo, por isso chamado de Criador e não Deus — e existe o **Deus Incognoscível**, "que é só amor", a **Deidade Suprema**, a **Fonte de tudo o que há**, superior e acima de qualquer Divindade (B031).

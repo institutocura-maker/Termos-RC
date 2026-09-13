@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-498"
+nome = "Tempérium — variação histórica de Tempérion (ver RC-472)"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.3 Dimensões / Planos de existência"
+status = "verificado"
+fontes = ["B061", "P2021-12-04"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-14"
++++
 # Tempérium — variação histórica de Tempérion (ver RC-472) — RC-498
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
-| **Subcategoria** | 2.3 Dimensões / Planos de existência |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-14 |
 
 ## Definição Sintética
 Tempérium é uma variação histórica/de STT de Tempérion, preservada para rastreabilidade e remetida ao termo canônico RC-472.

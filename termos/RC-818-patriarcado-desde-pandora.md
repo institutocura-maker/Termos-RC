@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-818"
+nome = "Patriarcado desde Pandora (Origem no Feminino, Dominação pelo Masculino)"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.6 Ética / Carma / Compromissos"
+status = "verificado"
+fontes = ["P2018-05-20"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-30"
++++
 # Patriarcado desde Pandora (Origem no Feminino, Dominação pelo Masculino) — RC-818
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | PROCESSOS & FENÔMENOS |
-| **Subcategoria** | 4.2 Processos sociais / culturais |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-30 |
 
 ## Definição Sintética
 Tese (leitura do autor, palestra **P2018-05-20**, U0004) de que **o patriarcalismo começa com Pandora** e continua com Pirra, Lilith e Eva. Javé "sempre optava por privilegiar o lado masculino ferrando feminino, desde a coordenação dele para [Pandora] que era uma feminina para toda a procreação [da humanidade]". **A racionalidade de Eva foi "sufocada"** pelo patriarcalismo. A humanidade "resultou totalmente defraudada, totalmente distorcida, totalmente mediocrizada pelos desdobramentos desse início". Ver RC-001 (Javé), RC-086 (Pandora), RC-303 (Pirra), RC-308 (Lilith), RC-814 (Eva como 3ª Tentativa), RC-335 (Lavagem Cerebral).

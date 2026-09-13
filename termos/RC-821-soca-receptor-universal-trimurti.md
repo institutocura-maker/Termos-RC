@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-821"
+nome = "Soca/Reis/Rit como Receptor Universal (Instrumento da Trimurti)"
+categoria = "Seres & Entidades"
+subcategoria = "1.5 Decaídos / Exilados / Demônios"
+status = "verificado"
+fontes = ["P2019-04-14"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-30"
++++
 # Soca/Reis/Rit como Receptor Universal (Instrumento da Trimurti) — RC-821
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | SERES & ENTIDADES |
-| **Subcategoria** | 1.5 Decaídos / Exilados / Demônios |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-30 |
 
 ## Definição Sintética
 Tese (leitura do autor, palestra **P2019-04-14**, U0003) de que **Soca/Reis/Rit** é o **"receptor universal"** — o **instrumento** da Trimurti (Brahma + Shiva + Vishnu). "Dependendo da mitologia que se usa para contar a história, sempre foi usado por essas figuras, mas ele sempre achou que era ele o [protagonista]." É paralelo ao **Sokar egípcio** (deidade funerária), ao **Rudra hindu** (forma violenta de Shiva), e ao **Reis/Rit nórdico** (Runas). Ver RC-104 (Trimurti), RC-148 (Shiva), RC-037 (Brahma), RC-820 (Alimentação por Perfume).

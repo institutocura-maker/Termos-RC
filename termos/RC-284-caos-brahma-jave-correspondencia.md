@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-284"
+nome = "Caos = Brahma = Javé (correspondência)"
+categoria = "Termos Específicos"
+subcategoria = "8.4 Grego / Latim"
+status = "em análise"
+fontes = ["B020", "B021", "B023", "B060", "P2025-03-15", "P2024-11-30", "P2024-11-09", "P2024-09-29", "P2023-06-24", "P2023-12-03", "P2025-06-14"]
+via = "P7-conhecimento"
+confianca_fonte = "baixa"
+atualizado = "2026-08-29"
++++
 # Caos = Brahma = Javé (correspondência) — RC-284
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | TERMOS ESPECÍFICOS |
-| **Subcategoria** | 8.4 Grego / Latim |
-| **Status** | 🟠 Em análise |
-| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 Correspondência estabelecida em *O Sorriso de Pandora* (B020): **Caos (Mitologia Grega) = Brahma (Hindu) = Javé (Bíblia)** — o mesmo Criador "caído" visto por diferentes tradições. O texto usa recorrentemente a forma composta "**Caos/Brahma/Javé**": "Caos (Brahma ou Javé), o criador, ao contrário, se soergueu do nada, apenas com a sua força mental incompreensível" (B020). A correspondência amplia a cadeia já registrada (B031: Javé = Jeová = Alá = Brahma = Caos = Pangu = Atom).

@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-379"
+nome = "Dança dos Elétrons"
+categoria = "Processos & Fenômenos"
+subcategoria = "4.4 Fenômenos físicos / energéticos"
+status = "verificado"
+fontes = ["B041", "P2024-05-04"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-12"
++++
 # Dança dos Elétrons — RC-379
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | PROCESSOS & FENÔMENOS |
-| **Subcategoria** | 4.4 Fenômenos físicos / energéticos |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-12 |
 
 ## Definição Sintética
 A "dança dos elétrons" é o processo pelo qual **o universo material se constituiu e se sustenta** (B041, cap. 7): "quando um elétron salta de uma órbita para outra ou quando ele desaparece de uma órbita e aparece em outra — é responsável pela existência dos elementos químicos listados na tabela periódica". "É a 'dança dos elétrons' que cria e modifica a forma material das coisas e dos corpos dos seres vivos, além de sustentar o universo e tudo o que nele existe." A quantidade de elétrons é a mesma desde o início (conservação da energia — "nada se perde, nada se cria, tudo se transforma").

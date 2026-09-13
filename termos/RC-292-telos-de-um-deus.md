@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-292"
+nome = "Telos (de um deus)"
+categoria = "Termos Específicos"
+subcategoria = "8.4 Grego / Latim"
+status = "verificado"
+fontes = ["B021", "P2024-09-29", "P2023-05-21"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-12"
++++
 # Telos (de um deus) — RC-292
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | TERMOS ESPECÍFICOS |
-| **Subcategoria** | 8.4 Grego / Latim |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-12 |
 
 ## Definição Sintética
 **Telos** é a "finalidade/missão" de um deus na cosmologia das RC (B021): o propósito existencial e a missão que cada ser demo/deus deve cumprir. No capítulo 23, o "Rei do Olimpo" percebe que "sobrou para o seu telos a missão inglória..." (de gerenciar a decadência do universo demo). O telos está intimamente ligado à **timé**: enquanto a timé é a "honra/domínio" (o âmbito de presença), o telos é o propósito/desígnio que o define. A sinopse de B021 pergunta diretamente: "O que significa o 'telos de um deus' e como eles valorizam a própria timé?"

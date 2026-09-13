@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-325"
+nome = "Genética Totalitária"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.2 Leis e princípios cósmicos"
+status = "verificado"
+fontes = ["B023", "P2024-11-30", "P2024-11-09", "P2024-09-29"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-12"
++++
 # Genética Totalitária — RC-325
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
-| **Subcategoria** | 2.2 Leis e princípios cósmicos |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-12 |
 
 ## Definição Sintética
 A estratégia do Criador de **escolher um povo da Terra para, por meio dele, dominar os demais** — revelada em *O Dharma e as Castas Hindus* (B023, cap. 7): "Desde o advento da cultura humana, uma moda criada pelos 'deuses de fora' foi estabelecida como estratégia de dominação: a de escolher um povo da Terra para, por meio dele, dominar os demais povos." Apresentando-se como Brahma, Caos, Ra-Atom, Javé, Og-mi e Alá (dentre outros), "o Criador decaído e demente aplicou, até o ano 2015, essa estratégia criminosa... de tentar dominar, a qualquer custo, os humanos — que saíram do seu controle genético desde os tempos de Pandora".

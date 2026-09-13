@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-148"
+nome = "Agentes da Vida Universal"
+categoria = "Seres & Entidades"
+subcategoria = "1.8 Consciências coletivas / Logos"
+status = "verificado"
+fontes = ["B031", "B024", "B001", "B002", "B014", "B005", "P2020-04-04"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-12"
++++
 # Agentes da Vida Universal — RC-148
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | SERES & ENTIDADES |
-| **Subcategoria** | 1.8 Consciências coletivas / Logos |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-12 |
 
 ## Definição Sintética
 São os **seres vivos que expressam o fenômeno da vida** no universo: "sem os seres vivos, a vida não teria lugar, e tão somente existiria o palco, o cenário que a envolve" (B024, Sinopse). O fenômeno da vida se hospeda nos corpos dos seres vivos, no psiquismo de cada espécie, nos agentes que a expressam — e é na **mente dos seres vivos** que a vida efetivamente acontece. A "epopeia dos agentes da vida universal" começou quando o caos e o tormento se manifestaram nesta Criação (B024, cap. 15). Nada existe na Criação sem que haja uma **mônada espiritual** dando estrutura ao corpo — pedra, planta, animal ou robô.

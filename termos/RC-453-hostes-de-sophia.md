@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-453"
+nome = "Hostes de Sophia"
+categoria = "Seres & Entidades"
+subcategoria = "1.2 Coletivos criadores"
+status = "verificado"
+fontes = ["B057", "B058", "P2020-08-08", "P2021-05-08", "P2023-12-03"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-29"
++++
 # Hostes de Sophia — RC-453
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | SERES & ENTIDADES |
-| **Subcategoria** | 1.2 Coletivos criadores |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 **Hostes de Sophia** são as forças coletivas a serviço de Sophia (RC-009) na trilogia de Yel Luzbel — o séquito administrativo e bélico do "Comandante deste universo": os "Administradores"/"Assessores" e as "**Hostes bélicas**" que, ao final do Livro 2, o "Exército" dos biodemos rebelados se prepara para combater. No Livro 1, "a Revolta... foi uma rebelião deflagrada há uns 687 mil anos, em Capela, **contra Sophia e as suas hostes**".

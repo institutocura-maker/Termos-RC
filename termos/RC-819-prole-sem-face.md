@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-819"
+nome = "Prole sem Face (Humanos Modificáveis sem Face Definida)"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.4 Espiritualidade / Doutrina"
+status = "verificado"
+fontes = ["P2019-04-14"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-30"
++++
 # Prole sem Face (Humanos Modificáveis sem Face Definida) — RC-819
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | CONCEITOS ANTROPOLÓGICOS |
-| **Subcategoria** | 3.1 Natureza humana / Consciência |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-30 |
 
 ## Definição Sintética
 Tese (leitura do autor, palestra **P2019-04-14**, U0001/U0002) de que **a humanidade é a "prole sem face"** — somos os **únicos seres modificáveis** ("podemos modificar o nosso modo de ser, e podemos enriquecer do nosso modo de ser com o curso que a gente faz, com a experiência que a gente tem") mas **sem face definida** ("podemos ser qualquer coisa"). Os **demos** (com 1000 faces, Exu com 256) acham isso "horrível" — porque podem sorrir e enfiar a faca, podem usar da falsidade que eles não têm. **Somos a "progênie de uma briga entre Zeus e Pandora"**. Ver RC-099 (Homo Sapiens), RC-086 (Pandora), RC-149 (Zeus), RC-001 (Javé), RC-301 (Prometeu), RC-302 (Epimeteu).

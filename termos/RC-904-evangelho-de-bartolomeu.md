@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-904"
+nome = "Evangelho de Bartolomeu"
+categoria = "Processos & Fenômenos"
+subcategoria = "4.4 Fenômenos físicos / energéticos"
+status = "em análise"
+fontes = ["P2023-10-15", "P2023-11-18", "P2024-01-13", "P2024-02-04", "P2024-03-17", "P2023-12-25-03"]
+via = "P7-conhecimento"
+confianca_fonte = "baixa"
+atualizado = "2026-09-02"
++++
 # Evangelho de Bartolomeu — RC-904
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | PROCESSOS & FENÔMENOS |
-| **Subcategoria** | 5.1 Epistemologia / Cognição |
-| **Status** | 🟠 Em análise |
-| **Última atualização** | 2026-09-02 |
 
 ## Definição Sintética
 Evangelho de Bartolomeu — conceito desenvolvido na palestra «A Teia da Vida e o Circuito Oculto dos Deuses» (P2024-01-13).

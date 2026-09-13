@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-786"
+nome = "Racionalidade Humana Trucidada"
+categoria = "Eventos & Eras"
+subcategoria = "7.4 Catástrofes / Dilúvios / Quedas"
+status = "verificado"
+fontes = ["P2023-11-11", "P2018-10-06"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-30"
++++
 # Racionalidade Humana Trucidada — RC-786
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | EVENTOS & ERAS |
-| **Subcategoria** | 7.4 Catástrofes / Dilúvios / Quedas |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-30 |
 
 ## Definição Sintética
 Tese (leitura do autor, palestra **P2023-11-11 — De Pandora a Eva e a Rebelião de Lilith**, U0004) de que a **racionalidade humana** — produzida pela Sequência Formativa (RC-785) — foi **trucidada** ao longo da história por múltiplos eventos: (1) **catolicismo medieval** proibiu a leitura popular por 1000 anos (séculos X-XIII); (2) **Concílio de Niceia (325 DC)** centralizou o debate em arianismo × trinitarismo, abandonando o trívio/quadrívio; (3) **Boécio** foi executado aos 44 anos (524 DC) enquanto traduzia o trívio/quadrívio; (4) **Fausto de Goethe** (séc. XIX) é o símbolo da "tentativa de submeter o eu humano". A racionalidade humana é, portanto, **flor destruída** — que precisa ser reconstruída na intimidade de cada um. Ver RC-105 (Igreja Católica), RC-273 (Concílio de Niceia), RC-335 (Lavagem Cerebral).

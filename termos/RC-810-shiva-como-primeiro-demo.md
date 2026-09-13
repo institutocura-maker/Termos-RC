@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-810"
+nome = "Shiva como Primeiro Demo (Saiu do Clone Destruído)"
+categoria = "Seres & Entidades"
+subcategoria = "1.5 Decaídos / Exilados / Demônios"
+status = "verificado"
+fontes = ["P2017-05-14"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-09-10"
++++
 # Shiva como Primeiro Demo (Saiu do Clone Destruído) — RC-810
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | SERES & ENTIDADES |
-| **Subcategoria** | 1.5 Decaídos / Exilados / Demônios |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-09-10 |
 
 ## Definição Sintética
 Tese (leitura do autor, palestra **P2017-05-14**, U0002/U0003) de que **Shiva (Chiva no STT, RC-148) é o primeiro demo da história** — saiu do corpo destruído de um clone de Brama (Javé, RC-001). "Demo é apenas um indivíduo que não tem um corpo fixo, mas tem uma forma mental que se leva fazer ele. Qual o drama faz efeito? Esse chima quando surgiu, surgiu aqui dentro do drama lóc." Shiva começou a fazer a mesma coisa que Javé tinha feito por clonagem — criar sedes (descendentes) a partir dele, "diversas classes". Cada demo que surgia de Shiva queria uma loca para ele, propagando a "doença da arrogância ou da petulância da que existia na podridão genética de Brama". Ver RC-148 (Shiva), RC-001 (Javé/Brama), RC-149 (Zeus, descendente de Shiva).

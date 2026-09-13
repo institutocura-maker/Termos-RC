@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-897"
+nome = "Código Filosófico Pessoal"
+categoria = "Processos & Fenômenos"
+subcategoria = "4.4 Fenômenos físicos / energéticos"
+status = "em análise"
+fontes = ["P2023-10-15", "P2023-11-18", "P2024-01-13", "P2024-02-04", "P2024-03-17"]
+via = "P7-conhecimento"
+confianca_fonte = "baixa"
+atualizado = "2026-09-02"
++++
 # Código Filosófico Pessoal — RC-897
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | PROCESSOS & FENÔMENOS |
-| **Subcategoria** | 4.1 Psicologia / Filosofia |
-| **Status** | 🟠 Em análise |
-| **Última atualização** | 2026-09-02 |
 
 ## Definição Sintética
 O Código Filosófico Pessoal é o único pouso seguro onde a consciência humana pode repousar — um conjunto de princípios e propósitos pessoais que dignifica a existência. É construído quando o ser humano se liberta das narrativas falsas e do vínculo com as fontes que as mantêm, transcendendo a pequena face do criador caído representada no genoma humano. O código filosófico pessoal é a antítese da religião (peso da prestação de contas de certezas colecionadas) e representa a autonomia espiritual do indivíduo frente ao sistema histórico de desinformação.

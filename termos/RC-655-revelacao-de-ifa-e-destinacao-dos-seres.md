@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-655"
+nome = "Revelação de Ifá e Destinação dos Seres"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.5 Propósitos / Destinos"
+status = "verificado"
+fontes = ["P2025-10-25", "P2025-06-26", "P2025-03-15", "P2025-02-15", "P2024-11-30", "P2024-09-29", "P2024-08-03", "P2024-09-28", "P2025-11-29", "P2025-07-18", "P2025-05-10"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-18"
++++
 # Revelação de Ifá e Destinação dos Seres — RC-655
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
-| **Subcategoria** | 2.5 Propósitos / Destinos |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-18 |
 
 ## Definição Sintética
 Revelação atribuída a Orunmilá sobre destinos que precisam ser cumpridos pelos seres.

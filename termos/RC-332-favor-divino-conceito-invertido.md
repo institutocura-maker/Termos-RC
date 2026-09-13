@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-332"
+nome = "Favor Divino (conceito invertido)"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.6 Ética / Carma / Compromissos"
+status = "verificado"
+fontes = ["B048", "B041", "B034", "B036", "P2025-03-15", "P2025-02-16", "P2025-02-15", "P2024-11-30", "P2024-09-29", "P2024-04-14", "P2025-06-14b", "P2024-03-02", "P2023-02-12", "P2022-12-03"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-12"
++++
 # Favor Divino (conceito invertido) — RC-332
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
-| **Subcategoria** | 2.6 Ética / Carma / Compromissos |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-12 |
 
 ## Definição Sintética
 O "favor divino" **invertido** — a tese central de *Favor Divino* (B048): os humanos é que fazem um favor ao Criador, **assumindo cotas particularizadas de sua doença** (B031/glossário: "os espíritos que animam os nossos corpos nessa Criação indevida fazem um 'favor divino' a Javé (o Demiurgo) por assumirem cotas particularizadas de sua 'doença'... Através do nosso DNA e de nossas 'vivências na carne' ajudamos a curar esse Ser adoentado"). Em B048, Ellam explica que o termo é uma "provocação": "O 'favor divino' que aqui utilizo tem como objetivo apenas o de provocar o entendimento do leitor", pois a visão distorcida foi promovida pelas "revelações" do próprio Javé.

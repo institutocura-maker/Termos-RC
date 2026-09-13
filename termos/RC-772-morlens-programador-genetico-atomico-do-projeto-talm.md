@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-772"
+nome = "Morlens (programador genético atômico do Projeto TALM; 'monstro ciberenergético')"
+categoria = "Seres & Entidades"
+subcategoria = "1.3 Extraterrestres / Raças cósmicas"
+status = "verificado"
+fontes = ["ART-2025-08-03", "P2024-06-16", "P2018-12-15"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-21"
++++
 # Morlens — RC-772
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | SERES & ENTIDADES |
-| **Subcategoria** | 1.3 Extraterrestres / Raças cósmicas |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-21 |
 
 ## Definição Sintética
 O "monstro ciberenergético" — programador genético que opera em nível atômico, arquiteto das formas de vida possíveis no universo material. "Pesou, mediu e estabeleceu cada nanoponto da genética a ser transferida" no âmbito do **Projeto TALM** (RC-091), utilizando os repositórios do **Éon das Três Esferas** (RC-775).

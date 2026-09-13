@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-191"
+nome = "Fofocas cósmicas"
+categoria = "Termos Específicos"
+subcategoria = "8.5 Outros idiomas / jargão técnico"
+status = "em análise"
+fontes = ["B044", "P2025-03-15", "P2025-02-15", "P2023-10-14", "P2020-04-25"]
+via = "P7-conhecimento"
+confianca_fonte = "baixa"
+atualizado = "2026-08-28"
++++
 # Fofocas cósmicas — RC-191
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | Termos Específicos |
-| **Subcategoria** | 8.5 Outros idiomas / jargão técnico |
-| **Status** | 🟠 Em análise |
-| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 

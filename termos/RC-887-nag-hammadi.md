@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-887"
+nome = "Nag Hammadi (a biblioteca egípcia onde em 1945 foi encontrada a cópia copta da Hipóstase dos Arcontes — STT «Naghama»; marco físico e histórico da recuperação da revelação gnóstica original)"
+categoria = "Tecnologias & Artefatos"
+subcategoria = "5.4 Escrituras / Objetos documentais"
+status = "verificado"
+fontes = ["P2022-09-17", "P2023-12-25-04"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-09-06"
++++
 # NAG HAMMADI — RC-887
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | TECNOLOGIAS & ARTEFATOS |
-| **Subcategoria** | 5.4 Escrituras / Objetos documentais |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-09-06 |
 
 ## Definição Sintética
 A biblioteca egípcia (Nag Hammadi) descoberta em 1945, onde foi encontrada a cópia copta da **Hipóstase dos Arcontes** (STT «Naghama»). No acervo é o **marco físico e histórico da recuperação da revelação gnóstica original** — o material que o F044 usa para sustentar a face «revelada» (gnóstica) do Jesus ressuscitado, em contraste com a face paulina.

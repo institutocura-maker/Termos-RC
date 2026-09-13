@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-293"
+nome = "Timé (de um deus)"
+categoria = "Termos Específicos"
+subcategoria = "8.4 Grego / Latim"
+status = "verificado"
+fontes = ["B021", "P2024-09-29", "P2023-05-21"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-12"
++++
 # Timé (de um deus) — RC-293
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | TERMOS ESPECÍFICOS |
-| **Subcategoria** | 8.4 Grego / Latim |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-12 |
 
 ## Definição Sintética
 **Timé** é a "honra/domínio" de um deus demo na cosmologia das RC (B021): "a 'presença' (importância, destaque) de um deus está relacionada e coincide com o âmbito (contexto) de seu 'domínio'... a expressão 'domínio' tem a ver com a própria 'morada' ou geno que um 'deus respeitável' deve possuir, sob pena de vir a ser considerado como um tipo de 'sem-teto'". A timé engloba também "a esfera (classe) de atribuições, os conjuntos de encargos e de funções exclusivas do seu 'talento pessoal' — em sânscrito, a expressão que caracteriza esse tipo de timé é a palavra 'varna'". **A pior desgraça para um deus é ter sua honra atingida pela perda da timé.**

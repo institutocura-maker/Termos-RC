@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-007"
+nome = "Exilados de Capela"
+categoria = "Seres & Entidades"
+subcategoria = "1.5 Decaídos / Exilados / Demônios"
+status = "verificado"
+fontes = ["B031", "B003", "B025", "B026", "B057", "P2023-04-01", "P2020-04-25", "P2023-12-03", "P2012-02-19", "P2021-04-10"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-29"
++++
 # Exilados de Capela — RC-007
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | SERES & ENTIDADES |
-| **Subcategoria** | 1.5 Decaídos / Exilados / Demônios |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 São os seres das **famílias biodemicas exilados do Sistema de Capela para a Terra**. Chegaram de duas formas: **em naves**, fugindo dos confrontos nos mundos de Capela, e **como espíritos desencarnados**, devido à afinidade vibratória — passando a reencarnar no nosso planeta. O termo "Exilados de Capela" só surgiu no Séc. XX, no livro *A Caminho da Luz* (Chico Xavier/Emmanuel). A gênese da história espiritual da Terra teria começado com esses espíritos (B031).

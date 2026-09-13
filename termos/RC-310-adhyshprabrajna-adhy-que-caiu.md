@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-310"
+nome = "Adhyshprabrajna (Adhy que caiu)"
+categoria = "Seres & Entidades"
+subcategoria = "1.1 Divindades / Criadores"
+status = "verificado"
+fontes = ["B022", "B051", "P2021-12-04"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-12"
++++
 # Adhyshprabrajna (Adhy que caiu) — RC-310
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | SERES & ENTIDADES |
-| **Subcategoria** | 1.1 Divindades / Criadores |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-12 |
 
 ## Definição Sintética
 Nome mais completo do Criador antes da queda, encontrado em *Inquisição Trimurtiana* (B022, Introdução): a Criação Universal indevida "foi procedida por **Adhyshprabrajna**, na sua expressão Adhyatman. Após a sua 'queda' na Criação indevida, esta entidade — antes Adhyshprabrajna — conseguiu erigir uma forma de expressão (Adhydaiva) que viria a ser conhecida, na cultura humana, como **Brahma/Javé/Alá**, dentre outros nomes e epítetos, da qual tornou-se prisioneira e dela jamais se libertou."

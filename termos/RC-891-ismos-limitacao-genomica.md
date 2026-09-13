@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-891"
+nome = "Ismos como Limitação Genômica"
+categoria = "Processos & Fenômenos"
+subcategoria = "4.4 Fenômenos físicos / energéticos"
+status = "em análise"
+fontes = ["P2023-10-15", "P2023-11-18", "P2024-01-13", "P2024-02-04", "P2024-03-17"]
+via = "P7-conhecimento"
+confianca_fonte = "baixa"
+atualizado = "2026-09-02"
++++
 # Ismos como Limitação Genômica — RC-891
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | PROCESSOS & FENÔMENOS |
-| **Subcategoria** | 3.1 Biologia / Genética |
-| **Status** | 🟠 Em análise |
-| **Última atualização** | 2026-09-02 |
 
 ## Definição Sintética
 Os "ismos" (preferências, vícios, inclinações) são limitações impostas ao DNA humano que restringem a capacidade de cada ser humano de acessar o todo que está contido em si mesmo. Segundo a perspectiva holográfica do universo, cada ser humano traz em si o todo — mas os "ismos" funcionam como filtros que limitam essa potencialidade integral, mantendo o ser humano preso a parcialidades.

@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-231"
+nome = "Razão Filosófica dos Terráqueos"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.5 Propósitos / Destinos"
+status = "verificado"
+fontes = ["B033", "B005", "B049", "P2025-03-15", "P2024-11-30", "P2024-11-09", "P2024-07-14", "P2012-02-19"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-20"
++++
 # Razão Filosófica dos Terráqueos — RC-231
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | Conceitos Cosmológicos |
-| **Subcategoria** | 2.5 Propósitos / Destinos |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-20 |
 
 ## Definição Sintética
 

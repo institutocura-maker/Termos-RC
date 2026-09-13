@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-816"
+nome = "Pacto Aesir-Vanir como Origem Nórdica da Ideia de Pandora"
+categoria = "Eventos & Eras"
+subcategoria = "7.1 Guerras / Rebeliões / Conflitos"
+status = "verificado"
+fontes = ["P2018-05-20"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-30"
++++
 # Pacto Aesir-Vanir como Origem Nórdica da Ideia de Pandora — RC-816
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | EVENTOS & ERAS |
-| **Subcategoria** | 7.1 Guerras / Rebeliões / Conflitos |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-30 |
 
 ## Definição Sintética
 Tese (leitura do autor, palestra **P2018-05-20**, U0002) de que **o pacto entre os Aesir e os Vanir** (mitologia nórdica, ~5 bilhões de anos atrás) é a **origem nórdica da ideia de Pandora**. **Fria** (a Vanir) olha para a "tigela" de saliva (registro do melhor de cada um dos demônio) e pede a criação de **Kvasir** ("o melhor de todos"). **Kvasir é paralelo a Pandora** — ambos são criados a partir de uma "tigela" que contém o melhor de cada um. A palestra usa o pacto Aesir-Vanir como **analogia mítica** para a clonagem de Pandora por Zeus + Têmis. Ver RC-085 (Fria), RC-396 (Kvasir), RC-489 (Odin), RC-068 (Hiperbórea/Asgard), RC-395 (Ragnarok em Marte), RC-086 (Pandora), RC-815 (Têmis como Mãe-de-Pandora).

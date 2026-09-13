@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-475"
+nome = "Deva / Aurora (A Grande Deusa)"
+categoria = "Seres & Entidades"
+subcategoria = "1.1 Divindades / Criadores"
+status = "verificado"
+fontes = ["B061", "P2026-07-30; RC-622; RC-768"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-14"
++++
 # Deva / Aurora (A Grande Deusa) — RC-475
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | SERES & ENTIDADES |
-| **Subcategoria** | 1.1 Divindades / Criadores |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-14 |
 
 ## Definição Sintética
 Grande Deusa de polaridade feminina, identificada como Deva/Aurora e apresentada como externalização espontânea da cólera coletiva dos primeiros deuses diante dos impasses do caos.

@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-252"
+nome = "Olm (Codificador de Zion/Zian)"
+categoria = "Seres & Entidades"
+subcategoria = "1.8 Consciências coletivas / Logos"
+status = "verificado"
+fontes = ["B016", "B057", "B060", "P2021-12-04", "P2024-08-03"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-12"
++++
 # Olm (Codificador de Zion/Zian) — RC-252
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | SERES & ENTIDADES |
-| **Subcategoria** | 1.8 Consciências coletivas / Logos |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-12 |
 
 ## Definição Sintética
 Nome pelo qual se identifica o **Quarto Logos** — também chamado **Codificador de Zion (ou Zian)**. Em B016 (cap. 5, "A Mensagem do Codificador de Zion"), Olm se expressa diretamente: "— Meu filho e agente da nossa estratégia esclarecedora. Peço-lhe que me permita assim chamá-lo, pois vejo nos terráqueos os filhos e filhas mais despertos... do meu propósito existencial." Ele é a consciência que personifica o Quarto Logos — o único dos quatro Logos que **não mergulhou no universo antimaterial** (B031), podendo criar um CFD próprio, livre da programação do Primeiro Logos.

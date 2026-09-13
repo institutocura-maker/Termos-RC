@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-470"
+nome = "Midgard (Marte + Terra)"
+categoria = "Lokas & Geografias"
+subcategoria = "3.1 Planetas / Sistemas estelares"
+status = "verificado"
+fontes = ["B060", "P2025-02-16", "P2024-11-30", "P2024-11-02", "P2024-08-03", "P2025-02-22"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-16"
++++
 # Midgard (Marte + Terra) — RC-470
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | LOKAS & GEOGRAFIAS |
-| **Subcategoria** | 3.1 Planetas / Sistemas estelares |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-16 |
 
 ## Definição Sintética
 

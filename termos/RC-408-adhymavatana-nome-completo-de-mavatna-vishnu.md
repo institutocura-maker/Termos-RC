@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-408"
+nome = "ADHYMAVATANA (nome completo de Mavatna/Vishnu)"
+categoria = "Seres & Entidades"
+subcategoria = "1.1 Divindades / Criadores"
+status = "verificado"
+fontes = ["B051", "B060", "B061", "P2021-12-04", "P2024-05-04", "P2025-02-16", "P2024-11-30"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-13"
++++
 # ADHYMAVATANA (nome completo de Mavatna/Vishnu) — RC-408
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | SERES & ENTIDADES |
-| **Subcategoria** | 1.1 Divindades / Criadores |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-13 |
 
 ## Definição Sintética
 **ADHYMAVATANA** é o nome completo da condição Adhy de **Mavatna** (→ Vishnu), conforme o Diagrama Geral de Ligações (B051): a cadeia "ADHYMAVATANA → Vishnu (mergulhado) → Mohen So → Sophia → Jesus". Confirma que Mavatna é um ser do **gênero Adhy** (RC-011), na condição **Adhyatman** (RC-013) antes do mergulho, que passou a compor a Trimurti como expressão **Adhydaiva** (RC-014) — e cujas expressões Adhyajna geram Mohen So → Sophia → Jesus.

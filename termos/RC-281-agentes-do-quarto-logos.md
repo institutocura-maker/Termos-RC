@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-281"
+nome = "Agentes do Quarto Logos"
+categoria = "Seres & Entidades"
+subcategoria = "1.8 Consciências coletivas / Logos"
+status = "em análise"
+fontes = ["B014"]
+via = "P7-conhecimento"
+confianca_fonte = "baixa"
+atualizado = "2026-09-07"
++++
 # Agentes do Quarto Logos — RC-281
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | SERES & ENTIDADES |
-| **Subcategoria** | 1.8 Consciências coletivas / Logos |
-| **Status** | 🟠 Em análise |
-| **Última atualização** | 2026-09-07 |
 
 ## Definição Sintética
 Os agentes do Quarto Logos — Olm, o Codificador de Zian (RC-092 / RC-252) — : as consciências encarregadas de levar adiante a «estratégia esclarecedora» do Logos que mergulhou diretamente no universo biológico sem passar pelo antimaterial. Na RC, o próprio Jan Val Ellam (RC-071) é tratado como um desses agentes.

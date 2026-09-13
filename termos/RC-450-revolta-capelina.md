@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-450"
+nome = "Revolta Capelina"
+categoria = "Eventos & Eras"
+subcategoria = "7.1 Guerras / Rebeliões / Conflitos"
+status = "provisório"
+fontes = ["B057", "B058"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-13"
++++
 # Revolta Capelina — RC-450
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | EVENTOS & ERAS |
-| **Subcategoria** | 7.1 Guerras / Rebeliões / Conflitos |
-| **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-13 |
 
 ## Definição Sintética
 Designação usada nos "Livros de Yel Luzbel" (Jeane Miranda) para o processo de **rompimento dos lacres psíquicos dos biodemos de Capela** que precedeu a **Rebelião de Lúcifer** (RC-002): a partir da inquietação de Yel Luzbel e da pressão da Família Mion, os coletivos capelinos passam a desenvolver individualidade, a desconfiar de Sophia e a organizar um movimento de questionamento do Criador — que, no Livro 2, já se estrutura como um "exército" pronto a combater Sophia e suas Hostes. É a mesma rebelião conhecida na cultura humana como "Rebelião dos Anjos Decaídos".

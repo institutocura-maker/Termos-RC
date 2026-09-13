@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-701"
+nome = "Daksha e Virini"
+categoria = "Genealogias & Linhagens"
+subcategoria = "6.1 Famílias divinas / Celestiais"
+status = "verificado"
+fontes = ["P2025-02-16", "P2024-11-02", "P2024-08-03", "P2024-09-28", "P2022-05-07"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-18"
++++
 # Daksha e Virini — RC-701
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | GENEALOGIAS & LINHAGENS |
-| **Subcategoria** | 6.1 Famílias divinas / Celestiais |
-| **Status** | 🟢 Verificado (candidatura aprovada pelo curador) |
-| **Última atualização** | 2026-08-18 |
 
 ## Definição Sintética
 Dupla ancestral associada, na genealogia apresentada, às filhas que estruturam as linhagens ligadas a Kashyapa, incluindo Aditi, Diti e Kadru.

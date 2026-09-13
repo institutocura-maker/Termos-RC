@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-223"
+nome = "O Mal: Subproduto da Ignorância Espiritual"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.6 Ética / Carma / Compromissos"
+status = "verificado"
+fontes = ["B002", "P2025-02-15", "P2024-11-30", "P2024-11-09"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-12"
++++
 # O Mal: Subproduto da Ignorância Espiritual — RC-223
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
-| **Subcategoria** | 2.6 Ética / Carma / Compromissos |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-12 |
 
 ## Definição Sintética
 Tese de B002 (cap. 17): **o mal não é uma força autônoma, mas subproduto da ignorância espiritual** — da incompreensão da verdadeira natureza do drama cósmico. No contexto do Drama Espiritual de Javé, o "mal" praticado pelas hostes do Criador decorre da doença, do desespero e da ignorância espiritual do próprio Criador e de sua hierarquia, não de uma intenção maligna metafísica.

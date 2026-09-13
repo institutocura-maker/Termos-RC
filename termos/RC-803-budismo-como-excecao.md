@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-803"
+nome = "Budismo como Exceção (Sem Deus)"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.4 Espiritualidade / Doutrina"
+status = "verificado"
+fontes = ["P2018-02-24"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-30"
++++
 # Budismo como Exceção (Sem Deus) — RC-803
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
-| **Subcategoria** | 2.4 Espiritualidade / Doutrina |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-30 |
 
 ## Definição Sintética
 Tese (leitura do autor, palestra **P2018-02-24**, U0005) de que **o budismo (Gautama, RC-803) é a única exceção** entre as religiões que "jamais falou de Deus" — embora tenha sido "transformado devagarinho" em religião. O budismo seria, portanto, a **única religião não-dominação** entre as "instrumentos de dominação" (judaísmo, cristianismo, islamismo, hinduísmo, "até o espiritismo"). Ver RC-803 (Budismo/Gautama), RC-105 (Religiões Impositivas), RC-797 (Estratégia dos Avatares).

@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-657"
+nome = "Verdade Posta × Verdade a Construir"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.2 Leis e princípios cósmicos"
+status = "verificado"
+fontes = ["P2025-10-25", "P2025-06-26", "P2025-03-15", "P2025-02-16", "P2025-02-15", "P2024-11-09", "P2022-11-26", "P2022-11-20"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-15"
++++
 # Verdade Posta × Verdade a Construir — RC-657
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
-| **Subcategoria** | 2.2 Leis e princípios cósmicos |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-15 |
 
 ## Definição Sintética
 Distinção entre destinos/verdades já postos e uma verdade futura construída por consciências livres.

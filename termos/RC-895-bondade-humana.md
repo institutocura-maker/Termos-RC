@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-895"
+nome = "Bondade Humana"
+categoria = "Processos & Fenômenos"
+subcategoria = "4.4 Fenômenos físicos / energéticos"
+status = "em análise"
+fontes = ["P2023-10-15", "P2023-11-18", "P2024-01-13", "P2024-02-04", "P2024-03-17"]
+via = "P7-conhecimento"
+confianca_fonte = "baixa"
+atualizado = "2026-09-02"
++++
 # Bondade Humana — RC-895
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | PROCESSOS & FENÔMENOS |
-| **Subcategoria** | 4.1 Psicologia / Ética |
-| **Status** | 🟠 Em análise |
-| **Última atualização** | 2026-09-02 |
 
 ## Definição Sintética
 A Bondade Humana é a capacidade única do ser humano de fazer o bem — uma capacidade que foge ao controle do big data dos arcontes e que eleva a vibração humana a um padrão incontrolável. Os arcontes, ao perceberem essa bondade nos humanos, tentaram destruí-la, pois ela escapa ao sistema de controle do genoma humano. Enquanto os arcontes não sabem fazer o bem (só podem não fazer o mal), e os seres do paraíso são de uma "gestosa inutilidade" em termos de eficácia do bem, só os humanos — apesar de "horrorosos" — têm a capacidade real de fazer o bem.

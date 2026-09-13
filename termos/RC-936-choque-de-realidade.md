@@ -1,3 +1,15 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-936"
+nome = "Choque de realidade"
+categoria = "Processos & Fenômenos"
+subcategoria = "4.2 Fenômenos espirituais / mediúnicos"
+status = "provisório"
+fontes = []
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-09-13"
++++
 # CHOQUE DE REALIDADE — RC-936
 
 > **REMISSIVA — [F045-MERGE 07-09-2026]** Este código é **duplicata absorvida por RC-898

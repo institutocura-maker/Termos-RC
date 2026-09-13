@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-541"
+nome = "Evolução Possível (terceira via: nem Darwin, nem deus)"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.5 Propósitos / Destinos"
+status = "verificado"
+fontes = ["B019", "P2025-03-15", "P2025-02-16", "P2025-02-15", "P2024-11-30", "P2024-11-09", "P2024-04-13", "P2025-06-14b", "P2023-05-13", "P2023-12-03", "P2021-01-30"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-29"
++++
 # Evolução Possível (terceira via) — RC-541
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
-| **Subcategoria** | 2.5 Propósitos / Destinos |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 **Evolução Possível** é a tese central de *Nem Deus, nem Javé, nem Darwin* (B019, 2021): uma **terceira via** para compreender a evolução da vida — nem o "deus bíblico" (criacionismo), nem a "seleção natural" darwiniana pura, nem a aleatoriedade absoluta. Segundo Ellam, a evolução terrestre seria um processo conduzido (e disputado) por múltiplos agentes cósmicos — o "Consórcio de Mundos"/"Arquitetos Universais" (RC-538/539) — comprometidos com a edificação da **Criatura Universal** (RC-042).

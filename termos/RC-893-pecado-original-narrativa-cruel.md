@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-893"
+nome = "Pecado Original como Narrativa Cruel"
+categoria = "Processos & Fenômenos"
+subcategoria = "4.4 Fenômenos físicos / energéticos"
+status = "em análise"
+fontes = ["P2023-10-15", "P2023-11-18", "P2024-01-13", "P2024-02-04", "P2024-03-17"]
+via = "P7-conhecimento"
+confianca_fonte = "baixa"
+atualizado = "2026-09-02"
++++
 # Pecado Original como Narrativa Cruel — RC-893
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | PROCESSOS & FENÔMENOS |
-| **Subcategoria** | 6.1 Teologia / Religião |
-| **Status** | 🟠 Em análise |
-| **Última atualização** | 2026-09-02 |
 
 ## Definição Sintética
 O Pecado Original como Narrativa Cruel é a caracterização da história de que "os humanos caíram do paraíso ou foram expulsos de um paraíso ou pecaram, erraram" como uma narrativa absolutamente cruel, indecente, injusta e imoral — o pior crime já cometido com a sensibilidade humana. Essa narrativa foi inventada por um ser maluco, maldoso, ou por um ser que distorceu fatos que efetivamente aconteceram, e transformou-se em religião, servindo como instrumento de dominação e submissão mental.

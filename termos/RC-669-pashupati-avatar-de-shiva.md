@@ -1,9 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-669"
+nome = "Pashupati (avatar de Shiva)"
+categoria = "Seres & Entidades"
+subcategoria = "1.3 Extraterrestres / Raças cósmicas"
+status = "verificado"
+fontes = ["P2026-02-28", "P2025-02-16", "P2024-09-28", "P2022-05-07", "P2018-12-16"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-18"
++++
 # Pashupati — RC-669
-
-| Campo | Valor |
-|---|---|
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-18 |
 
 ## Definição Sintética
 Pashupati — avatar de Shiva ligado à animalidade e ao amortecimento do sofrimento.

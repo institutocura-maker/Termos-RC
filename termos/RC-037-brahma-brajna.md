@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-037"
+nome = "Brahma (Brajna)"
+categoria = "Seres & Entidades"
+subcategoria = "1.1 Divindades / Criadores"
+status = "verificado"
+fontes = ["B031", "B024", "B044", "B001", "B033", "B013", "B020", "B022", "B060", "B061", "B037", "P2022-12-17", "P2026-07-30", "P2025-03-15", "P2025-02-16", "P2025-02-15", "P2024-11-30", "P2024-11-09", "P2024-09-29", "P2024-08-03", "P2024-07-14", "P2025-11-29", "P2023-06-24", "P2023-04-15", "P2023-04-29", "P2021-09-04", "P2022-09-24", "P2024-11-03", "P2025-02-22", "P2023-10-14", "P2022-05-07", "P2024-06-16", "P2012-02-19", "P2022-12-03", "P2022-09-18", "P2022-07-16", "P2021-02-28", "P2021-06-26", "P2022-11-19", "P2025-12-14", "P2023-12-25-01"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-28"
++++
 # Brahma (Brajna) — RC-037
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | SERES & ENTIDADES |
-| **Subcategoria** | 1.1 Divindades / Criadores |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 Nas RC, Brahma é o **"Criador caído, apodrecido e adoentado"** — a mesma entidade que a Bíblia chama de **Javé**, a Mitologia Grega de **Caos**, a Chinesa de **Pan Ku**, o Alcorão de **Alá**. Antes de "cair" em sua criação, em Perpérion (Espiritualidade Laboratorial), era **Brajna**, em sua condição **Adhyatman**. Jamais pôde ter avatares devido à sua condição "desalmada" (apenas seu corpo mental caiu na criação), mas sempre escolheu "eleitos" entre os humanos (Adão, Seth, Enoque, Abraão, Jacó) (B031).

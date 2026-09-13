@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-106"
+nome = "Universo Antimaterial (Brahmaloka / Universo Paralelo)"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.3 Dimensões / Planos de existência"
+status = "verificado"
+fontes = ["B031", "B024", "B044", "B001", "B002", "B016", "B013", "B021", "B041", "B060", "P2022-12-17", "P2024-05-04", "P2025-03-15", "P2025-02-16", "P2025-02-15", "P2024-11-30", "P2024-11-09", "P2024-08-03", "P2024-07-13", "P2023-12-03", "P2025-06-14"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-29"
++++
 # Universo Antimaterial (Brahmaloka / Universo Paralelo) — RC-106
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
-| **Subcategoria** | 2.3 Dimensões / Planos de existência |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 Universo que se formou **ao mesmo tempo** que o nosso universo material e onde **o Criador se instalou após sua queda** — por isso também chamado de **Universo Paralelo** ou **Brahmaloka**. É formado por **genos ou lokas** (moradas) onde vivem os **seres extrafísicos**: Brahma, Vishnu, Shiva, anjos clones, demos, seres dos portais, etc. (B031).

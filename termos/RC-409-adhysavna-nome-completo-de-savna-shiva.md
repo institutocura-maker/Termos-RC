@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-409"
+nome = "ADHYSAVNA (nome completo de Savna/Shiva)"
+categoria = "Seres & Entidades"
+subcategoria = "1.1 Divindades / Criadores"
+status = "verificado"
+fontes = ["B051", "B060", "B061", "P2021-12-04", "P2024-05-04", "P2025-02-16", "P2024-11-30", "P2023-06-24", "P2022-05-07"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-13"
++++
 # ADHYSAVNA (nome completo de Savna/Shiva) — RC-409
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | SERES & ENTIDADES |
-| **Subcategoria** | 1.1 Divindades / Criadores |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-13 |
 
 ## Definição Sintética
 **ADHYSAVNA** é o nome completo da condição Adhy de **Savna** (→ Shiva), conforme o Diagrama Geral de Ligações (B051): a cadeia "ADHYSAVNA → Shiva (mergulhado) → Hara / Krishna / Sai Baba". Confirma que Savna é um ser do **gênero Adhy** (RC-011), na condição **Adhyatman** (RC-013) antes do mergulho, que passou a compor a Trimurti como expressão **Adhydaiva** (RC-014) — cujas expressões avatáricas incluem Hara, Krishna e Sai Baba.

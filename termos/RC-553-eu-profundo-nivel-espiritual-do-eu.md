@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-553"
+nome = "Eu Profundo (nível espiritual do Eu)"
+categoria = "Seres & Entidades"
+subcategoria = "1.8 Consciências coletivas / Logos"
+status = "verificado"
+fontes = ["B074", "B075", "P2026-07-30", "P2025-02-15", "P2024-11-30", "P2024-11-09", "P2024-04-14", "P2025-06-14b", "ART-2026-08-18"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-25"
++++
 # Eu Profundo — RC-553
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | SERES & ENTIDADES |
-| **Subcategoria** | 1.8 Consciências coletivas / Logos |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-25 |
 
 ## Definição Sintética
 **Eu Profundo** é o nível espiritual do "Eu" que surge da "caixa de depósitos do ser" (mente humana): o "Eu Mais Profundo" que, desperto, comanda o "Eu organizador" e administra os "impulsos anteriores ao pensamento". Na hierarquia dos "Eus" do Mentalma I (B074): "ego transitório" (ego terreno / personalidade) → **Eu Profundo** (Personalidade Espiritual resultante dos egos) → "Eu Superior" (Personalidade Espiritual produzida pela evolução do próprio Espírito) → "Eu Sagrado" (Personalidade Unificada — "está fora da 'blindagem' que contém as vibrações 'infectadas'").

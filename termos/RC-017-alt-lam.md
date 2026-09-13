@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-017"
+nome = "Alt´Lam"
+categoria = "Lokas & Geografias"
+subcategoria = "3.1 Planetas / Sistemas estelares"
+status = "em análise"
+fontes = ["B031", "P2021-05-15", "P2020-04-25", "P2017-10-14"]
+via = "P7-conhecimento"
+confianca_fonte = "baixa"
+atualizado = "2026-08-31"
++++
 # Alt´Lam — RC-017
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | Lokas & Geografias |
-| **Subcategoria** | 3.1 Planetas / Sistemas estelares |
-| **Status** | 🟠 Em análise |
-| **Última atualização** | 2026-08-31 |
 
 ## Definição Sintética
 

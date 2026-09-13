@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-602"
+nome = "Blindagens Interdimensionais (Intramuros Vibratórios)"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.3 Dimensões / Planos de existência"
+status = "verificado"
+fontes = ["P2021-12-04", "P2024-11-09", "P2024-07-14", "P2023-12-03"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-29"
++++
 # Blindagens Interdimensionais (Intramuros Vibratórios) — RC-602
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
-| **Subcategoria** | 2.3 Dimensões / Planos de existência |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 Barreiras quânticas/vibratórias entre níveis espirituais e criações derivadas, limitando comunicação e passagem de informações.

@@ -1,9 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-687"
+nome = "Farmacopeia Ancestral Extraterrestre"
+categoria = "Tecnologias & Artefatos"
+subcategoria = "5.3 Dispositivos / Instrumentos"
+status = "em análise"
+fontes = ["P2025-05-31", "P2025-02-16", "P2025-02-15", "P2024-11-30"]
+via = "P7-conhecimento"
+confianca_fonte = "baixa"
+atualizado = "2026-08-15"
++++
 # Farmacopeia Ancestral Extraterrestre — RC-687
-
-| Campo | Valor |
-|---|---|
-| **Status** | 🟠 Em análise |
-| **Última atualização** | 2026-08-15 |
 
 ## Definição Sintética
 Termo extraído e aprovado na curadoria de P2025-05-31.

@@ -1,9 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-667"
+nome = "Autofagia do Criador"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.1 Cosmogonia / Criação"
+status = "em análise"
+fontes = ["P2026-02-28", "P2024-11-30", "P2024-03-02"]
+via = "P7-conhecimento"
+confianca_fonte = "baixa"
+atualizado = "2026-08-15"
++++
 # Autofagia do Criador — RC-667
-
-| Campo | Valor |
-|---|---|
-| **Status** | 🟠 Em análise |
-| **Última atualização** | 2026-08-15 |
 
 ## Definição Sintética
 Autofagia do Criador — condição de Brahma recém-reconstruído alimentando-se de si mesmo.

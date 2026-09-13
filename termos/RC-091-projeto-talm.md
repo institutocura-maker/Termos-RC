@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-091"
+nome = "Projeto Talm"
+categoria = "Eventos & Eras"
+subcategoria = "7.5 Missões / Expedições / Encontros"
+status = "verificado"
+fontes = ["B031", "B024", "B044", "B001", "P2021-12-04", "P2025-03-15", "P2024-11-02", "P2024-08-03", "P2023-11-19", "P2023-04-15", "P2023-04-01", "P2024-11-03", "P2025-02-22", "P2025-07-18", "P2021-01-30", "P2024-06-16", "P2020-04-04"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-12"
++++
 # Projeto Talm — RC-091
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | EVENTOS & ERAS |
-| **Subcategoria** | 7.5 Missões / Expedições / Encontros |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-12 |
 
 ## Definição Sintética
 Nome do projeto de **transferência do código de vida ("DNA") do Criador "caído"** do Brahmaloka (universo antimaterial, onde vivem os demos) para o **Bhuloka** (universo material, onde vivem os seres biológicos de "vida curta"). Foi edificado pelos **"Senhores da Trimurti"** — Brahma, Vishnu e Shiva —, conseguindo trazer o "código da vida" do universo antimaterial para o material (B031). Também chamado de **semeadura da vida biológica** no nosso universo, executado através do avatar **Mohen So** (RC-081), que recebeu o CFD dos três Logos.

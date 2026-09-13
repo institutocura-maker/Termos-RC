@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-346"
+nome = "Jeová (grafia da trilogia)"
+categoria = "Seres & Entidades"
+subcategoria = "1.1 Divindades / Criadores"
+status = "verificado"
+fontes = ["B003", "B025", "P2024-11-30"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-12"
++++
 # Jeová (grafia da trilogia) — RC-346
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | SERES & ENTIDADES |
-| **Subcategoria** | 1.1 Divindades / Criadores |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-12 |
 
 ## Definição Sintética
 A grafia **"Jeová"** — usada na trilogia "Queda e Ascensão Espiritual" (B003/B025/B026, 1999–2000) — para o ser que as obras posteriores chamam de **Javé** (RC-001). Na trilogia, Jeová é o Deus Único do Antigo Testamento que "principiara" a atuação de "fecundar um dado meio político, social e religioso com a ideia do Deus Único, de início, e depois com os avisos da chegada de alguém muito especial" — o que levou as tropas de Lúcifer a concluir que "ali certamente estava próxima a encarnação de uma entidade muito próxima do Mestre" (B003).

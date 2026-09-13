@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-815"
+nome = "Temis (Têmis) como Mãe-de-Pandora (Co-clonadora)"
+categoria = "Seres & Entidades"
+subcategoria = "1.5 Decaídos / Exilados / Demônios"
+status = "verificado"
+fontes = ["P2018-05-20"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-30"
++++
 # Temis (Têmis) como Mãe-de-Pandora (Co-clonadora) — RC-815
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | SERES & ENTIDADES |
-| **Subcategoria** | 1.3 Titãs / Deuses Menores / Semideuses |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-30 |
 
 ## Definição Sintética
 Tese (leitura do autor, palestra **P2018-05-20**, U0002) de que **Temis (Têmis)** é **"co-mãe" de Pandora (RC-086)** — Pandora é "filha de Zeus e Temes [Têmis]" (não-sexualmente, mas psiquicamente). Temis é a **"tigela"** que inspirou a clonagem de Pandora, em paralelo com Kvasir (criado pela saliva de Aesir+Vanir da mitologia nórdica). **A "vontade de Zeus" de clonar Pandora foi "provocada por uma professa [promessa?] de Zeus e tênis [Têmis]"**. Ver RC-305 (Têmis), RC-149 (Zeus), RC-086 (Pandora), RC-396 (Kvasir), RC-816 (Pacto Aesir-Vanir).

@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-068"
+nome = "Hiperbórea"
+categoria = "Lokas & Geografias"
+subcategoria = "3.3 Localidades terrestres"
+status = "em análise"
+fontes = ["B031", "B023", "B052", "B061", "P2024-04-13", "P2025-11-29", "P2021-05-15", "P2022-03-26", "P2023-12-03", "P2018-12-16", "P2022-10-01", "P2022-09-25", "P2022-09-18"]
+via = "P7-conhecimento"
+confianca_fonte = "baixa"
+atualizado = "2026-09-05"
++++
 # Hiperbórea — RC-068
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | LOKAS & GEOGRAFIAS |
-| **Subcategoria** | 3.3 Localidades terrestres |
-| **Status** | 🟠 Em análise |
-| **Última atualização** | 2026-09-05 |
 
 ## Definição Sintética
 

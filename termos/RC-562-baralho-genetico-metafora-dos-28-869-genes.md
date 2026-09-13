@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-562"
+nome = "Baralho genético (metáfora dos 28.869 genes)"
+categoria = "Processos & Fenômenos"
+subcategoria = "4.1 Processos biológicos / genéticos"
+status = "em análise"
+fontes = ["P2024-02-25", "P2021-05-15", "P2022-03-26", "P2024-06-16", "P2022-12-03", "P2022-11-26", "P2022-09-18", "P2022-07-16", "P2021-02-28", "P2021-06-26", "P2022-09-17", "P2022-11-19", "P2025-12-14"]
+via = "P7-conhecimento"
+confianca_fonte = "baixa"
+atualizado = "2026-08-28"
++++
 # Baralho genético (metáfora dos 28.869 genes) — RC-562
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | PROCESSOS & FENÔMENOS |
-| **Subcategoria** | 4.1 Processos biológicos / genéticos |
-| **Status** | 🟠 Em análise |
-| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 

@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-482"
+nome = "Ialdabaoth (= Javé/Samael/Saklas/Sabaoth)"
+categoria = "Seres & Entidades"
+subcategoria = "1.1 Divindades / Criadores"
+status = "verificado"
+fontes = ["B061", "P2022-09-17"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-19"
++++
 # Ialdabaoth — RC-482
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | SERES & ENTIDADES |
-| **Subcategoria** | 1.1 Divindades / Criadores |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-19 |
 
 ## Definição Sintética
 

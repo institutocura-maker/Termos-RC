@@ -1,9 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-682"
+nome = "Malkuth"
+categoria = "Termos Específicos"
+subcategoria = "8.2 Hebraico / Cabala"
+status = "verificado"
+fontes = ["P2025-05-31", "P2024-07-14", "P2023-06-03", "P2023-04-15", "P2023-10-14", "P2023-12-03"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-29"
++++
 # Malkuth — RC-682
-
-| Campo | Valor |
-|---|---|
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 Termo extraído e aprovado na curadoria de P2025-05-31.

@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-779"
+nome = "Momento Zero de Pandora"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.5 Propósitos / Destinos"
+status = "verificado"
+fontes = ["P2018-10-06"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-30"
++++
 # Momento Zero de Pandora — RC-779
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
-| **Subcategoria** | 2.5 Propósitos / Destinos |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-30 |
 
 ## Definição Sintética
 Tese (leitura do autor, palestra **P2018-10-06 — Humanidade em Disputa a Descendência de Pandora**, U0004) de que **Pandora (RC-086) é o "momento zero" da humanidade** — o ponto de inflexão cósmica em que a humanidade se diferenciou das outras espécies animais. Antes de Pandora, a humanidade estava fadada a ser mais uma espécie de lobo/urso; **o "destrave" de Pandora** (deslacrar o DNA, introduzir racionalidade, humanizar a linhagem) é o que torna possível a humanidade racional. O "Momento Zero" é, portanto, não uma data, mas um **evento cósmico-seminal** que altera o destino da espécie. Ver RC-086 (Pandora) e RC-285 (Opção Inusitada de Pandora) para a figura central.

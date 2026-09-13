@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-808"
+nome = "Era da Solidão de Javé (500 Milhões de Anos)"
+categoria = "Eventos & Eras"
+subcategoria = "7.2 Eras / Épocas / Ciclos"
+status = "verificado"
+fontes = ["P2017-05-14", "B006"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-30"
++++
 # Era da Solidão de Javé (500 Milhões de Anos) — RC-808
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | EVENTOS & ERAS |
-| **Subcategoria** | 7.2 Eras / Épocas / Ciclos |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-30 |
 
 ## Definição Sintética
 Tese (leitura do autor, palestra **P2017-05-14**, U0002) de que **Javé (RC-001) passou mais de 500 milhões de anos tentando se reconstruir** após cair no buraco branco — período chamado de **"era da solidão de Japé [Javé]"**. Javé sofreu "para cacete" e quando se reconstruiu, ele era "um modo absolutamente [absoluto], totalmente demente e desagregado". No livro B006 (Drama Espírito Javé), isso é narrado como Javé "se achar um ser múltiplo" — como se "um braço voando ali, uma perna voando ali, um olho ali". Ver RC-001 (Javé), RC-422 (Ser Criador Fracassado), RC-002 (Rebelião de Lúcifer), RC-148 (Chiva, primeiro demo).

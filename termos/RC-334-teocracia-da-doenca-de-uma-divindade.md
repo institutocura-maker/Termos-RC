@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-334"
+nome = "Teocracia da Doença de uma Divindade"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.6 Ética / Carma / Compromissos"
+status = "verificado"
+fontes = ["B048", "B037", "P2024-11-30"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-12"
++++
 # Teocracia da Doença de uma Divindade — RC-334
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
-| **Subcategoria** | 2.6 Ética / Carma / Compromissos |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-12 |
 
 ## Definição Sintética
 A **submissão doentia exigida pelo Senhor Javé** das suas criaturas — o polo oposto à Democracia do Amor da Deidade (B048, cap. 6): a teocracia de um deus doente. "O problema reside na sua doença psíquica, trauma maior da sua queda, que o deixou marcado com uma natureza simplesmente incompreensível". É o regime de dominação do Criador caído sobre os humanos, expresso no "modelo colmeia" e na "ética da sobrevivência a qualquer custo".

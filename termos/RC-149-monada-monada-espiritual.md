@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-149"
+nome = "Mônada (Mônada Espiritual)"
+categoria = "Seres & Entidades"
+subcategoria = "1.8 Consciências coletivas / Logos"
+status = "verificado"
+fontes = ["B024", "B001", "B002", "B048", "P2021-12-04", "P2024-05-04", "P2025-10-25", "P2024-11-30", "P2024-11-09"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-12"
++++
 # Mônada (Mônada Espiritual) — RC-149
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | SERES & ENTIDADES |
-| **Subcategoria** | 1.8 Consciências coletivas / Logos |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-12 |
 
 ## Definição Sintética
 Consciência espiritual **particularizada** — também denominada "espírito" ou "alma". Não há nada que exista na Criação "indevida" (de Perpérion à Espiritualidade Superior) sem uma mônada espiritual estruturando o corpo, seja uma pedra, planta, animal ou robô (B024, cap. 15). A Espiritualidade Superior, vendo o drama do Criador caído, **deu de si mônadas** para estruturar os clones que Brahma criava; os seres Adhyatman de Perpérion desenvolveram tecnologia espiritual para retirar de si mônadas e imantá-las nos seres criados por Brahma.

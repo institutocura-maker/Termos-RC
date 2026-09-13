@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-665"
+nome = "Orunmilá (Moros de Irém / Orum)"
+categoria = "Seres & Entidades"
+subcategoria = "1.6 Figuras humanas (históricas/míticas)"
+status = "verificado"
+fontes = ["P2025-06-26", "P2025-02-15", "P2024-11-30", "P2024-09-29", "P2025-06-14b", "P2024-09-28", "P2025-11-29", "P2025-07-18", "P2026-03-21"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-18"
++++
 # Orunmilá (Moros de Irém / Orum) — RC-665
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | SERES & ENTIDADES |
-| **Subcategoria** | 1.6 Figuras humanas (históricas/míticas) |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-18 |
 
 ## Definição Sintética
 Correspondência de teologia comparada entre Orunmilá e Elm/Moros de Irém/Orum.

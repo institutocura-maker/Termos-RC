@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-741"
+nome = "Projeto Orunmilá–Olodus"
+categoria = "Eventos & Eras"
+subcategoria = "7.5 Missões / Expedições / Encontros"
+status = "em análise"
+fontes = ["P2024-09-29", "P2025-11-29", "P2025-07-18"]
+via = "P7-conhecimento"
+confianca_fonte = "baixa"
+atualizado = "2026-08-18"
++++
 # Projeto Orunmilá–Olodus — RC-741
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | EVENTOS & ERAS |
-| **Subcategoria** | 7.5 Missões / Expedições / Encontros |
-| **Status** | 🟠 Em análise |
-| **Última atualização** | 2026-08-18 |
 
 ## Definição Sintética
 

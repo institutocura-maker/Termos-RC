@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-560"
+nome = "WD (variação de STT = Wyrd/Urd — fundido em RC-658)"
+categoria = "Tecnologias & Artefatos"
+subcategoria = "5.3 Dispositivos / Instrumentos"
+status = "em análise"
+fontes = ["P2024-02-25", "P2024-05-04", "P2024-09-29", "P2025-06-14b", "P2025-11-29"]
+via = "P7-conhecimento"
+confianca_fonte = "baixa"
+atualizado = "2026-08-19"
++++
 # WD (variação de STT = Wyrd/Urd — fundido em RC-658) — RC-560
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | TECNOLOGIAS & ARTEFATOS |
-| **Subcategoria** | 5.3 Dispositivos / Instrumentos |
-| **Status** | 🟠 Em análise |
-| **Última atualização** | 2026-08-19 |
 
 ## Definição Sintética
 

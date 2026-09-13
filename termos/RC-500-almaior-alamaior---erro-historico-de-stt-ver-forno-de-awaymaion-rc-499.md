@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-500"
+nome = "Almaior / Alamaior — erro histórico de STT (ver Forno de Awaymaion RC-499)"
+categoria = "Lokas & Geografias"
+subcategoria = "3.2 Lokas / Mundos interiores"
+status = "em análise"
+fontes = ["B061", "P2021-12-04", "ART-2025-08-01", "P2021-05-15"]
+via = "P7-conhecimento"
+confianca_fonte = "baixa"
+atualizado = "2026-08-28"
++++
 # Almaior / Alamaior — erro histórico de STT (ver Forno de Awaymaion RC-499) — RC-500
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | LOKAS & GEOGRAFIAS |
-| **Subcategoria** | 3.2 Lokas / Mundos interiores |
-| **Status** | 🟠 Em análise |
-| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 "Almaior" / "Alamaior" é uma leitura defeituosa de STT, preservada apenas para rastreabilidade. O termo correto no contexto é o forno **Awaymaion** (RC-499), o forno replicador de Vishnu responsável pela emergência dos **biodemos** (RC-036).

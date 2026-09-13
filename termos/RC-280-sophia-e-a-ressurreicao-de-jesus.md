@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-280"
+nome = "Sophia e a Ressurreição de Jesus"
+categoria = "Eventos & Eras"
+subcategoria = "7.5 Missões / Expedições / Encontros"
+status = "em análise"
+fontes = ["B014", "P2025-02-15", "P2024-11-30", "P2023-06-03", "P2023-04-15", "P2023-04-01", "P2023-04-29", "P2023-12-03", "P2025-05-10", "P2023-12-25-03"]
+via = "P7-conhecimento"
+confianca_fonte = "baixa"
+atualizado = "2026-08-29"
++++
 # Sophia e a Ressurreição de Jesus — RC-280
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | Eventos & Eras |
-| **Subcategoria** | 7.5 Missões / Expedições / Encontros |
-| **Status** | 🟠 Em análise |
-| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 

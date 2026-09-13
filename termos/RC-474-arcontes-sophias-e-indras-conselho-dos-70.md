@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-474"
+nome = "Arcontes (= Sophias e Indras; Conselho dos 70)"
+categoria = "Seres & Entidades"
+subcategoria = "1.2 Coletivos criadores"
+status = "em análise"
+fontes = ["B061", "P2022-12-17", "P2025-02-16", "P2024-11-30", "P2026-08-04", "P2023-12-02", "P2023-06-03", "P2022-09-24", "P2025-02-22", "P2023-10-14", "P2022-03-26", "P2023-12-03", "P2022-05-07", "P2025-05-10", "P2023-02-11", "P2022-11-26", "P2022-11-20", "P2022-09-17", "P2025-12-14"]
+via = "P7-conhecimento"
+confianca_fonte = "baixa"
+atualizado = "2026-08-29"
++++
 # Arcontes (= Sophias e Indras; Conselho dos 70) — RC-474
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | SERES & ENTIDADES |
-| **Subcategoria** | 1.1 Divindades / Criadores |
-| **Status** | 🟠 Em análise |
-| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 

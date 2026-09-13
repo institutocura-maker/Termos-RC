@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-526"
+nome = "Demência do Criador (fases da condição de Javé)"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.5 Propósitos / Destinos"
+status = "verificado"
+fontes = ["B072", "P2024-11-30", "P2024-11-09", "P2012-02-19", "P2025-06-14"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-31"
++++
 # Demência do Criador (fases da condição de Javé) — RC-526
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | Conceitos Cosmológicos |
-| **Subcategoria** | 2.5 Propósitos / Destinos |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-31 |
 
 ## Definição Sintética
 

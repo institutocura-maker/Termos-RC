@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-544"
+nome = "Novo Homo sapiens (evolução que terá de vir)"
+categoria = "Processos & Fenômenos"
+subcategoria = "4.1 Processos biológicos / genéticos"
+status = "verificado"
+fontes = ["B019", "P2022-12-17", "P2021-12-04", "P2024-05-04", "P2026-04-02", "P2025-02-16", "P2025-02-15", "P2024-11-30"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-09-10"
++++
 # Novo Homo sapiens (evolução que terá de vir) — RC-544
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | PROCESSOS & FENÔMENOS |
-| **Subcategoria** | 4.1 Processos biológicos / genéticos |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-09-10 |
 
 ## Definição Sintética
 Tese (leitura do autor, B019 cap. 12 + P2025-02-16/P2025-02-15) de que a humanidade está dando os primeiros passos no seu próprio processo de especiação: o Homo sapiens atual dará origem — por adaptação ambiental (Lua, Marte, naves), engenharia genética e "turbinagem" tecnológica (chips, biônica, IA) — a novas espécies e subespécies humanas, o "novo tipo de ser humano" sem o qual o Oitavo Dia da Criação não será auspicioso. A especiação é inevitável ("gostemos ou não") e já está em curso. Ver RC-694 (Oitavo Dia), RC-709 (Humano Turbinado), RC-614 (Quarto Cérebro).

@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-092"
+nome = "Quarto Logos (Olm / Codificador de Zian)"
+categoria = "Seres & Entidades"
+subcategoria = "1.8 Consciências coletivas / Logos"
+status = "verificado"
+fontes = ["B031", "B016", "B014", "B057", "B060", "P2021-12-04", "P2026-07-30", "P2026-04-02", "P2025-10-25", "P2025-02-16", "P2024-03-02", "ART-2026-08-18", "P2023-05-13", "P2023-12-02", "P2021-03-27", "P2024-09-28", "P2024-08-03", "P2023-11-19", "P2023-04-30", "P2020-04-18", "P2020-07-04", "P2021-03-13", "P2023-04-01b", "P2024-11-03", "P2025-02-22", "P2021-05-15", "P2022-03-26", "P2023-12-03", "P2021-01-30", "P2024-06-16", "P2017-10-14", "P2022-12-03", "P2022-11-20", "P2022-09-18", "P2022-07-16", "P2021-04-10", "P2021-06-26", "P2022-09-17"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-09-05"
++++
 # Quarto Logos (Olm / Codificador de Zian) — RC-092
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | SERES & ENTIDADES |
-| **Subcategoria** | 1.8 Consciências coletivas / Logos |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-09-05 |
 
 ## Definição Sintética
 O Quarto Logos se chama **"Olm"**, mais conhecido como o **Codificador de Zian (ou Zion)**. "Mergulhou" de Perpérion diretamente para o nosso universo biológico (Bhuloka) — foi o **único dos quatro Logos que não mergulhou no universo antimaterial** (Brahmaloka), podendo criar um **CFD próprio**, livre da programação gerada pelo Primeiro Logos. Surgiu no forno de Vishnu (Awaymaion) e depois apareceu na nave Asphezian no Sistema de Capela, dando assessoria a Sophia. **Não é um Ser Criador**: sua função é gerar **cocriadores esclarecidos, independentes e harmonizados** com os princípios nobres da existência. Teve uma única encarnação terrena como **Apolônio de Tiana** (~2.000 anos atrás), contemporâneo de Jesus (B031).

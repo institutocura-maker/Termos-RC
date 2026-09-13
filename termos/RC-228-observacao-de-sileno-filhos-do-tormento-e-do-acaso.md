@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-228"
+nome = "Observação de Sileno (Filhos do Tormento e do Acaso)"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.5 Propósitos / Destinos"
+status = "verificado"
+fontes = ["B033", "P2017-10-14"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-31"
++++
 # Observação de Sileno (Filhos do Tormento e do Acaso) — RC-228
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | Conceitos Cosmológicos |
-| **Subcategoria** | 2.5 Propósitos / Destinos |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-31 |
 
 ## Definição Sintética
 

@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-021"
+nome = "Antares (Sistema)"
+categoria = "Lokas & Geografias"
+subcategoria = "3.1 Planetas / Sistemas estelares"
+status = "verificado"
+fontes = ["B031", "B058", "P2020-09-19", "P2022-05-07"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-25"
++++
 # Antares (Sistema) — RC-021
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | LOKAS & GEOGRAFIAS |
-| **Subcategoria** | 3.1 Planetas / Sistemas estelares |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-25 |
 
 ## Definição Sintética
 **Antares** é o sistema estelar (supergigante vermelha da constelação de Scorpius/Escorpião) citado nos "Livros de Yel Luzbel" como o **primeiro destino da turnê de Yel Luzbel e da Família Mion** na divulgação das questões sobre o Criador — e, na cronologia do Livro 1, um dos sistemas atingidos pela Revolta: a rebelião "resultou na morte de seres de várias espécies desse Sistema Solar e **de outros, como o de Antares**, e na destruição de civilizações e de mundos" (B057, p. 19).

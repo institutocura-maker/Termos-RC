@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-824"
+nome = "Greve de Fome Genética (Suicídio como Quebra do Código Demoníaco)"
+categoria = "Processos & Fenômenos"
+subcategoria = "4.2 Fenômenos espirituais / mediúnicos"
+status = "verificado"
+fontes = ["P2019-04-14"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-30"
++++
 # Greve de Fome Genética (Suicídio como Quebra do Código Demoníaco) — RC-824
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | PROCESSOS & FENÔMENOS |
-| **Subcategoria** | 4.4 Práticas ascéticas / espirituais |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-30 |
 
 ## Definição Sintética
 Tese (leitura do autor, palestra **P2019-04-14**, U0005) de que **o suicídio voluntário** (greve de fome até a morte) **desestrutura o código genético** demoníaco que infecta os humanos. "Basicamente a desestruturação de todas as sequências genéticas que alimentam esses [demos]." É o **gesto extremo** que o autor **quase fez** mas foi salvo pelos "amigos espirituais". É paralelo à **satyagraha** (desobediência civil não-violenta) de Gandhi, mas levado ao extremo. Ver RC-825 (Código Genético como Marca), RC-820 (Alimentação por Perfume), RC-822 (Mahatma Magant), RC-823 (Vechame Existencial).

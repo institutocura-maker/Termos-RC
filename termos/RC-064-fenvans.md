@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-064"
+nome = "Fenvans"
+categoria = "Seres & Entidades"
+subcategoria = "1.3 Extraterrestres / Raças cósmicas"
+status = "verificado"
+fontes = ["B031", "B024", "P2022-12-17", "P2024-11-30", "P2024-08-03", "P2024-04-13", "P2023-12-03", "P2021-01-30", "P2024-06-16"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-29"
++++
 # Fenvans — RC-064
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | SERES & ENTIDADES |
-| **Subcategoria** | 1.3 Extraterrestres / Raças cósmicas |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 Espécie precursora e experimental do **Projeto TALM** (RC-091): "seres-cobaias" ou "primeiros astronautas", criados a partir da mutação de códigos genéticos "demos" para viabilizar a transposição do código de vida do universo antimaterial para o material. Criadores da **Mensagem TALM** (RC-080). Forma intermediária entre demos e seres biológicos, desprovidos de emoção e senso crítico, com "pensamento único" e programação sacrificial.

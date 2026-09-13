@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-536"
+nome = "Era do Conhecimento e da Espiritualização"
+categoria = "Eventos & Eras"
+subcategoria = "7.2 Eras / Épocas / Ciclos"
+status = "verificado"
+fontes = ["B042", "P2022-12-17"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-13"
++++
 # Era do Conhecimento e da Espiritualização — RC-536
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | EVENTOS & ERAS |
-| **Subcategoria** | 7.2 Eras / Épocas / Ciclos |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-13 |
 
 ## Definição Sintética
 **Era do Conhecimento e da Espiritualização** é a denominação dada por **Jan Val Ellam** (B042, "Esclarecimento") à nova era em que a humanidade estaria ingressando: os "primeiros tempos de uma nova era" marcada pelo conhecimento e pela espiritualização, em que os **fundamentalismos** não encontrarão mais guarida e a intolerância — o "pior tipo de veneno presente nas relações humanas" — tende a ser superada.

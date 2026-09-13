@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-813"
+nome = "Culto a Lilith (Transformação em Deusa Lil Babilônica)"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.4 Espiritualidade / Doutrina"
+status = "verificado"
+fontes = ["P2018-05-20", "P2023-11-11", "P2025-04-06"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-30"
++++
 # Culto a Lilith (Transformação em Deusa Lil Babilônica) — RC-813
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | EVENTOS & ERAS |
-| **Subcategoria** | 7.3 Cultos / Religiões / Liturgias |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-30 |
 
 ## Definição Sintética
 Tese (leitura do autor, palestra **P2018-05-20**, U0004) de que **Lilith (RC-308) transformou-se em deusa na Babilônia** — "Lil" — e era "mais conhecida de todas" as divindades. O **judaísmo-cristianismo sumiu com o nome dela** ("deixou de Eva, por que Eva funcionou, e ela virou um demônio para religiosidade cristã e católica"). O **culto a Lilith** é a peça que o autor tenta recuperar na palestra. Ver RC-308 (Lilith), RC-794 (Lilith como Rxaça), RC-464 (Inanna), RC-489 (Enoque), RC-796 (Judaísmo).

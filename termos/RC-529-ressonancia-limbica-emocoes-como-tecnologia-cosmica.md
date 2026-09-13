@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-529"
+nome = "Ressonância límbica (emoções como tecnologia cósmica)"
+categoria = "Processos & Fenômenos"
+subcategoria = "4.2 Fenômenos espirituais / mediúnicos"
+status = "verificado"
+fontes = ["B072", "P2025-03-15", "P2025-02-16", "P2025-02-15", "P2024-11-30", "P2024-11-09", "P2024-09-29", "P2024-08-03", "P2024-07-14", "P2024-03-03", "P2024-04-13", "P2023-04-15", "P2023-04-01", "P2023-04-29", "P2022-09-17", "P2022-11-19", "P2025-12-14"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-20"
++++
 # Ressonância límbica (emoções como tecnologia cósmica) — RC-529
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | Processos & Fenômenos |
-| **Subcategoria** | 4.2 Fenômenos espirituais / mediúnicos |
-| **Status** | 🟢 Verificado (candidatura aprovada pelo curador) |
-| **Última atualização** | 2026-08-20 |
 
 ## Definição Sintética
 

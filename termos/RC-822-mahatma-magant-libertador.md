@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-822"
+nome = "Mahatma Magant como Libertador da Alimentação Demoníaca"
+categoria = "Seres & Entidades"
+subcategoria = "1.7 Híbridos / Seres de transição"
+status = "em análise"
+fontes = ["P2019-04-14"]
+via = "P7-conhecimento"
+confianca_fonte = "baixa"
+atualizado = "2026-08-30"
++++
 # Mahatma Magant como Libertador da Alimentação Demoníaca — RC-822
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | SERES & ENTIDADES |
-| **Subcategoria** | 1.7 Espíritos Elevados / Mestres / Avatares |
-| **Status** | 🟠 Em análise |
-| **Última atualização** | 2026-08-30 |
 
 ## Definição Sintética
 Tese (leitura do autor, palestra **P2019-04-14**, U0003) de que **Mahatma Magant** é o **espírito que lidera o processo de libertação** da humanidade da exploração demoníaca via geração de "perfume" próprio (do campo quântico). "O espírito do Mahatma Magant está à frente desse processo na espiritualidade." **"Magant"** pode ser corruptela de "Mahatma" (o "Grande Alma" em sânscrito) ou paralelo com Gandhi. Ver RC-820 (Alimentação por Perfume), RC-003 (Reintegração Cósmica), RC-099 (Homo Sapiens).

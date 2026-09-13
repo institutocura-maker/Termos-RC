@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-569"
+nome = "Eras Zodiacais (ciclos de aproximadamente 2.160 anos)"
+categoria = "Eventos & Eras"
+subcategoria = "7.2 Eras / Épocas / Ciclos"
+status = "verificado"
+fontes = ["P2022-12-17"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-14"
++++
 # Eras Zodiacais (ciclos de aproximadamente 2.160 anos) — RC-569
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | EVENTOS & ERAS |
-| **Subcategoria** | 7.2 Eras / Épocas / Ciclos |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-14 |
 
 ## Definição Sintética
 Doze subdivisões temporais de aproximadamente 2.160 anos que totalizam 25.920 anos e são associadas às constelações do zodíaco.

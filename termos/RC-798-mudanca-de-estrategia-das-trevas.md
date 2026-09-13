@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-798"
+nome = "Mudança de Estratégia das Trevas (Centralizar → Espalhar)"
+categoria = "Eventos & Eras"
+subcategoria = "7.1 Guerras / Rebeliões / Conflitos"
+status = "verificado"
+fontes = ["P2018-02-24"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-30"
++++
 # Mudança de Estratégia das Trevas (Centralizar → Espalhar) — RC-798
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | EVENTOS & ERAS |
-| **Subcategoria** | 7.1 Guerras / Rebeliões / Conflitos |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-30 |
 
 ## Definição Sintética
 Tese (leitura do autor, palestra **P2018-02-24**, U0004) de que **depois de 2 destruições pelos avatares** (Moisés contra o império egípcio, Krishna contra a guerra de Kurukshetra), **as trevas mudaram de estratégia**: em vez de **centralizar o mal em impérios/famílias**, resolveram **espalhar o mal em todos os corações humanos**. Essa mudança **obrigou** os avatares seguintes (Saibaba, Jesus) a **propor a luta íntima do bem e do mal** — transferindo a responsabilidade para os humanos. Ver RC-102 (Krishna), RC-750 (Moisés), RC-072 (Jesus), RC-797 (Estratégia dos Avatares).

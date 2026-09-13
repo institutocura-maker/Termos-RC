@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-307"
+nome = "Hefesto"
+categoria = "Seres & Entidades"
+subcategoria = "1.5 Decaídos / Exilados / Demônios"
+status = "verificado"
+fontes = ["B020", "B021", "B060", "B087", "B088", "P2021-05-15"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-28"
++++
 # Hefesto — RC-307
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | SERES & ENTIDADES |
-| **Subcategoria** | 1.5 Decaídos / Exilados / Demônios |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 **Hefesto** é o olimpiano "ferreiro dos deuses" — o técnico da "Assembleia dos Eleitos" — que na trilogia psicografada de Pandora executa o **"encerramento"** das "prendas" impostas a Pandora (RC-086) e, com Zeus (RC-145), constrói a **caixa** dos "algoritmos virais". Foi também o seu **benfeitor oculto**: deixou que a própria Pandora decidisse se se tornaria totalmente humana ("quem decidiria isso seria eu e não Zeus") — o "presente" que tornou possível a humanização (RC-285).

@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-369"
+nome = "Nietzsche como 'Amigo da Intenção de Jesus'"
+categoria = "Seres & Entidades"
+subcategoria = "1.6 Figuras humanas (históricas/míticas)"
+status = "verificado"
+fontes = ["B049", "P2024-11-09", "P2020-04-25", "P2022-03-26", "P2022-11-19"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-28"
++++
 # Nietzsche como 'Amigo da Intenção de Jesus' — RC-369
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | SERES & ENTIDADES |
-| **Subcategoria** | 1.6 Figuras humanas (históricas/míticas) |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 A tese central de *Jesus e Nietzsche* (B049): **Friedrich Nietzsche como um "agente", uma espécie de "amigo da intenção de Jesus"** — "quando colocou em dúvida, sem se preocupar em corrigir, um pouco do que foi equivocadamente distorcido do legado do Messias, ainda que entronizado como 'verdade eterna'... entre Jesus e Nietzsche, parecia existir a mais estranha das parcerias, por mim percebida nas entrelinhas dos fatos, ainda que a mesma possa parecer curiosa por força do corajoso antagonismo que o filósofo assumiu frente aos equívocos dos 'donos do legado' do Messias".

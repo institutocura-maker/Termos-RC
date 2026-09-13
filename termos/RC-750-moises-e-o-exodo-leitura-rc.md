@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-750"
+nome = "Moisés e o Êxodo (leitura RC)"
+categoria = "Eventos & Eras"
+subcategoria = "7.5 Missões / Expedições / Encontros"
+status = "em análise"
+fontes = ["P2024-04-13"]
+via = "P7-conhecimento"
+confianca_fonte = "baixa"
+atualizado = "2026-08-17"
++++
 # Moisés e o Êxodo (leitura RC) — RC-750
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | EVENTOS & ERAS |
-| **Subcategoria** | 7.5 Missões / Expedições / Encontros |
-| **Status** | 🟠 Em análise (candidatura aprovada pelo curador) |
-| **Última atualização** | 2026-08-17 |
 
 ## Definição Sintética
 

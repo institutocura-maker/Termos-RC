@@ -1,3 +1,15 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-872"
+nome = "Rakshasas"
+categoria = "Seres & Entidades"
+subcategoria = "1.3 Extraterrestres / Raças cósmicas"
+status = "verificado"
+fontes = ["P2022-07-16"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-09-13"
++++
 # Rakshasas — RC-872
 
 > **REMISSIVA — [F045-MERGE 10-09-2026]** Este código é **duplicata absorvida por RC-581

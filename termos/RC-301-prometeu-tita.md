@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-301"
+nome = "Prometeu (titã)"
+categoria = "Seres & Entidades"
+subcategoria = "1.5 Decaídos / Exilados / Demônios"
+status = "verificado"
+fontes = ["B020", "B021", "P2025-02-16", "P2024-11-09", "P2025-06-14b", "B087", "B088", "B089", "P2021-05-15", "P2023-12-03"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-29"
++++
 # Prometeu (titã) — RC-301
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | SERES & ENTIDADES |
-| **Subcategoria** | 1.5 Decaídos / Exilados / Demônios |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 **Prometeu** é o titã criador — da segunda geração de deuses (descendente de Urano), sobrevivente da guerra contra Zeus "por interesse" do Olimpo — que nos livros de Pandora "modela" as **"criaturas de barro"** e planeia o **"marco evolutivo"** das "criaturas de duas pernas" (os futuros *Homo sapiens sapiens*). Provocador de Zeus (as "peças" que humilham o chefe do Olimpo), paga o preço: persegue-o o pressentimento de que "o que está por ocorrer, nem você nem ninguém pode impedir" (o castigo que o mito clássico fixou no Cáucaso).

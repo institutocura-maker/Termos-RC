@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-160"
+nome = "Entropia e Negentropia"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.2 Leis e princípios cósmicos"
+status = "verificado"
+fontes = ["B024", "P2024-05-04", "P2025-03-15", "P2025-02-16", "P2025-02-15", "P2024-11-30", "P2024-11-09", "P2024-09-29", "P2024-09-28", "P2022-09-24", "P2023-04-01b", "P2025-02-22", "P2021-05-15", "P2020-04-25", "P2022-03-26", "P2023-12-03", "P2023-02-12", "P2022-12-03", "P2022-09-18", "P2022-07-16", "P2021-06-26"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-29"
++++
 # Entropia e Negentropia — RC-160
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
-| **Subcategoria** | 2.2 Leis e princípios cósmicos |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 A **entropia** é a medida do grau de **desorganização** de um sistema; a **negentropia** (entropia negativa) é a medida do grau de **organização** das partículas — um elemento negentrópico contribui para o equilíbrio e o desenvolvimento organizacional. Segundo a Física, no "momento zero" o universo estava 100% organizado; com o tempo, vai se desorganizando até o seu final (B024, cap. 14). Na Criação "indevida", entropia e negentropia "formam uma das faces do segredo" do que foi implementado pelas Mentes vinculadas ao processo — e a entropia destrói tudo, nem tudo é carma (cap. 3).

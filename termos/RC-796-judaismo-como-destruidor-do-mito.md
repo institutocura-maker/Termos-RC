@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-796"
+nome = "Judaísmo como Destruidor do Mito de Pandora/Lilith"
+categoria = "Eventos & Eras"
+subcategoria = "7.4 Catástrofes / Dilúvios / Quedas"
+status = "verificado"
+fontes = ["P2025-04-06", "P2023-11-11"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-30"
++++
 # Judaísmo como Destruidor do Mito de Pandora/Lilith — RC-796
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | EVENTOS & ERAS |
-| **Subcategoria** | 7.4 Catástrofes / Dilúvios / Quedas |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-30 |
 
 ## Definição Sintética
 Tese (leitura do autor, palestra **P2025-04-06**, U0006) de que o **judaísmo** (e por extensão o cristianismo e o islamismo, "escolas religiosas impositivas") **destruiu o mito de Pandora (RC-086) e Lilith (RC-308)** — "sumindo com as notícias para tirar o mito de Lilif, o mito de Pandora". A estratégia foi (1) **transformar os "bandidos-heróis" (Prometeu, Pandora, Lilith, Eva) em "vilões"**; (2) **reescrever a história de Eva como "tentadora"** (pecado original); (3) **apagar Lilith** da narrativa canônica; (4) **fazer Pandora "desistir"** ao perder a guerra contra as religiões. Ver RC-105 (Religiões Impositivas), RC-086 (Pandora), RC-308 (Lilith), RC-189 (Eva), RC-335 (Lavagem Cerebral).

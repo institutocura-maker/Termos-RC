@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-795"
+nome = "Nyx como Mãe de Origem de Pandora"
+categoria = "Genealogias & Linhagens"
+subcategoria = "6.1 Famílias divinas / Celestiais"
+status = "em análise"
+fontes = ["P2025-04-06", "P2023-04-01"]
+via = "P7-conhecimento"
+confianca_fonte = "baixa"
+atualizado = "2026-08-30"
++++
 # Nyx como Mãe de Origem de Pandora — RC-795
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | GENEALOGIAS & LINHAGENS |
-| **Subcategoria** | 6.1 Famílias divinas / Celestiais |
-| **Status** | 🟠 Em análise |
-| **Última atualização** | 2026-08-30 |
 
 ## Definição Sintética
 Tese (leitura do autor, palestra **P2025-04-06**, U0006) de que **Nyx (RC-621)** é **mãe de origem** de **Pandora (RC-086)** — "através da descendência de Nix, do mergulho de Moros, que o quarto logos começou naquela brecha a atuar. Aí foi ali que foi plantada a semente de Pandora de Y Luzb. [...] o quarto logos acoplou à sua mente os descendentes de Pandora e que a descendência de Pandora teria o DNA do quarto logos". A genealogia: Nyx → descendência de Nyx + Moros (mergulho) → brecha → Quarto Logos (RC-092) → semente de Pandora (e Yel Luzbel RC-142) → descendentes de Pandora têm DNA do Quarto Logos. Ver RC-621 (Nyx), RC-454 (Moros), RC-092 (Quarto Logos), RC-086 (Pandora), RC-142 (Yel Luzbel).

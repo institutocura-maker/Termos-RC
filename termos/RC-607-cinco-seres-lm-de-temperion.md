@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-607"
+nome = "Cinco Seres LM de Tempérion"
+categoria = "Seres & Entidades"
+subcategoria = "1.2 Coletivos criadores"
+status = "verificado"
+fontes = ["P2021-12-04"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-14"
++++
 # Cinco Seres LM de Tempérion — RC-607
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | SERES & ENTIDADES |
-| **Subcategoria** | 1.2 Coletivos criadores |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-14 |
 
 ## Definição Sintética
 Grupo de cinco seres do gênero LM, originário de Tempérion e enviado a Perpérion para observar o problema ligado aos Adhy.

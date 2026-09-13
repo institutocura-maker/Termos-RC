@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-929"
+nome = "Prema Sai (Prima Sai / Prem Sai)"
+categoria = "Seres & Entidades"
+subcategoria = "1.6 Figuras humanas (históricas/míticas)"
+status = "provisório"
+fontes = ["B031", "B060", "P2012-02-19"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-09-03"
++++
 # Prema Sai (Prima Sai / Prem Sai) — RC-929
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | SERES & ENTIDADES |
-| **Subcategoria** | 1.6 Figuras humanas (históricas/míticas) |
-| **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-09-03 |
 
 ## Definição Sintética
 Segundo as Revelações Cósmicas, **Prema Sai** é a **terceira e última encarnação da linhagem "Sai" de Shiva** — o avatar com o qual "Shiva encerrará seu ciclo de avatares terrenos" (B031). Na transcrição STT de Ellam surge como "prima sai" (interpretada como Prem/Prema Sai). Por B031, **nasceu na Índia em 2019** e "ainda fará parte desta história". Ver RC-927 (Shirdi), RC-928 (Sathya Sai Baba), RC-801, RC-102 (Shiva).

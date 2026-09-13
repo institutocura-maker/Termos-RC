@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-704"
+nome = "Corpo Sutil Reencarnante"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.3 Dimensões / Planos de existência"
+status = "verificado"
+fontes = ["P2025-02-15", "P2024-11-30", "P2024-11-09", "P2024-07-14", "P2024-04-14"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-15"
++++
 # Corpo Sutil Reencarnante — RC-704
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
-| **Subcategoria** | 2.3 Dimensões / Planos de existência |
-| **Status** | 🟢 Verificado (candidatura aprovada pelo curador) |
-| **Última atualização** | 2026-08-15 |
 
 ## Definição Sintética
 Estrutura intermediária entre espírito e corpo biológico que hospeda o eu, atravessa a morte e transporta tendências, fórmulas mentais, hábitos, talentos, Samskaras e Vasanas para um novo corpo.

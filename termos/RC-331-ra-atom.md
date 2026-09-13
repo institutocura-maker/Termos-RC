@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-331"
+nome = "Ra-Atom / Og-mi (nomes do Criador)"
+categoria = "Termos Específicos"
+subcategoria = "8.5 Outros idiomas / jargão técnico"
+status = "em análise"
+fontes = ["B023", "B060"]
+via = "P7-conhecimento"
+confianca_fonte = "baixa"
+atualizado = "2026-09-07"
++++
 # Ra-Atom / Og-mi (nomes do Criador) — RC-331
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | TERMOS ESPECÍFICOS |
-| **Subcategoria** | 8.5 Outros idiomas / jargão técnico |
-| **Status** | 🟠 Em análise |
-| **Última atualização** | 2026-09-07 |
 
 ## Definição Sintética
 Designação do Criador nas obras: «Ra-Atom / Og-mi». Integra a série de nomes que a RC atribui ao mesmo ser — Javé (RC-001), Brahma (RC-037), Caos (RC-284), Ialdabaoth (RC-482), Alá — recolhidos na correspondência estabelecida em «O Sorriso de Pandora» (B020).

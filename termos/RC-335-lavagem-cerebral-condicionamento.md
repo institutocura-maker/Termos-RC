@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-335"
+nome = "Lavagem Cerebral (condicionamento)"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.6 Ética / Carma / Compromissos"
+status = "verificado"
+fontes = ["B048", "P2025-03-15", "P2025-02-15", "P2024-11-30", "P2024-11-09", "P2024-03-03", "P2026-08-04"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-12"
++++
 # Lavagem Cerebral (condicionamento) — RC-335
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
-| **Subcategoria** | 2.6 Ética / Carma / Compromissos |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-12 |
 
 ## Definição Sintética
 O **condicionamento imposto ao psiquismo humano** pelas crenças e revelações vindas do Criador — tema recorrente de *Favor Divino* (B048): "esta humanidade sempre foi mantida sob perene processo de lavagem cerebral, por meio de algumas visões religiosas... condicionados que fomos a sempre pedir e implorar por misericórdia e perdão divinos, quando os seres que estavam e ainda estão por trás do processo de 'concessão de graças e de bênçãos' nada têm de divinos no atual estágio em que suas personalidades se encontram" (cap. 10).

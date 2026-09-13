@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-862"
+nome = "Essênios (seita judaica puritana; criadores de João Batista)"
+categoria = "Seres & Entidades"
+subcategoria = "1.6 Figuras humanas (históricas/míticas)"
+status = "verificado"
+fontes = ["P2023-02-11", "P2023-12-25-01"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-09-06"
++++
 # ESSÊNIOS — RC-862
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | SERES & ENTIDADES |
-| **Subcategoria** | 1.6 Figuras humanas (históricas/míticas) |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-09-06 |
 
 ## Definição Sintética
 Seita judaica puritana do século I (ambiente do deserto, Qumran), descrita no acervo como **criadores/lar de João Batista** (RC-944). É o meio ascético-profético que, no F044, transmite a Jesus o conhecimento das escrituras do povo judeu e a expectativa messiânica — o contexto do anúncio «o Messias já está entre nós».

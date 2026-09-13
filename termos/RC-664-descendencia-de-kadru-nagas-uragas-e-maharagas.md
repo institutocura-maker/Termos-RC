@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-664"
+nome = "Descendência de Kadru (Nagas, Uragas e Maharagas)"
+categoria = "Genealogias & Linhagens"
+subcategoria = "6.1 Famílias divinas / Celestiais"
+status = "verificado"
+fontes = ["P2025-06-26", "P2025-02-16", "P2025-02-22"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-15"
++++
 # Descendência de Kadru (Nagas, Uragas e Maharagas) — RC-664
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | GENEALOGIAS & LINHAGENS |
-| **Subcategoria** | 6.1 Famílias divinas / Celestiais |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-15 |
 
 ## Definição Sintética
 Grande linhagem atribuída a Kadru, reunindo Nagas, Uragas e Maharagas e suas ramificações em clãs, reinos, espécies protorracionais, tradições humanas e intervenções na história da Terra.

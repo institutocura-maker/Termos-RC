@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-414"
+nome = "Krishna (avatar de Vishnu/Shiva)"
+categoria = "Seres & Entidades"
+subcategoria = "1.3 Extraterrestres / Raças cósmicas"
+status = "verificado"
+fontes = ["B051", "B023", "B036", "B061", "P2025-02-16", "P2024-11-30", "P2024-03-02", "P2023-12-02", "P2024-09-28", "P2025-11-29", "P2023-06-25", "P2023-05-20", "P2023-04-30", "P2023-10-14", "P2022-03-26", "P2023-12-03", "P2022-05-07", "P2024-06-16", "P2023-08-27", "P2022-11-26", "P2022-07-16"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-29"
++++
 # Krishna (avatar de Vishnu/Shiva) — RC-414
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | SERES & ENTIDADES |
-| **Subcategoria** | 1.6 Figuras humanas (históricas/míticas) |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 

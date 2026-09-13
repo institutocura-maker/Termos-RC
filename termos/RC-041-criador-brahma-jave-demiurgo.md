@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-041"
+nome = "Criador (Brahma/Javé/Demiurgo)"
+categoria = "Seres & Entidades"
+subcategoria = "1.1 Divindades / Criadores"
+status = "verificado"
+fontes = ["B031", "B044", "B035", "B001", "B002", "B033", "B015", "B016", "B013", "B020", "B048", "B041", "B034", "B036", "B017", "B018", "B039", "P2025-03-15", "P2025-02-16", "P2025-02-15", "P2024-11-30", "P2024-11-09", "P2024-09-29", "P2023-12-25-01"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-12"
++++
 # Criador (Brahma / Javé / Demiurgo) — RC-041
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | SERES & ENTIDADES |
-| **Subcategoria** | 1.1 Divindades / Criadores |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-12 |
 
 ## Definição Sintética
 No contexto da Revelação Cósmica, **o Criador é Brahma**, responsável pela criação deste universo e do universo antimaterial; é quem aparece na Bíblia como **Javé**, o Deus Bíblico. O Criador é apenas uma **Divindade Co-Criadora** — **não é** o Pai-Mãe Amantíssimo (Deidade), apesar de a maioria confundi-los. Platão o chamava de **Demiurgo** (B031).

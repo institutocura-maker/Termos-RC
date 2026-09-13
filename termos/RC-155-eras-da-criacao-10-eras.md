@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-155"
+nome = "Eras da Criação (10 eras)"
+categoria = "Eventos & Eras"
+subcategoria = "7.2 Eras / Épocas / Ciclos"
+status = "verificado"
+fontes = ["B024", "B033", "B050", "P2021-06-26"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-12"
++++
 # Eras da Criação (10 eras) — RC-155
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | EVENTOS & ERAS |
-| **Subcategoria** | 7.2 Eras / Épocas / Ciclos |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-12 |
 
 ## Definição Sintética
 Divisão da história da Criação "indevida" de Prabrajna (ou Prajapati) em **sete eras já transcorridas (até a atualidade) + três previstas**, totalizando **dez eras universais** (B024, cap. 16, que reproduz e aprofunda o exposto em *O Drama Terreno de Javé* — B033). Estamos vivendo o **final da sétima era**.

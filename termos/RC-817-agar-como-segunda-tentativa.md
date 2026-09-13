@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-817"
+nome = "Agar como 2ª Tentativa Fracassada de Fêmea para Adão"
+categoria = "Seres & Entidades"
+subcategoria = "1.6 Figuras humanas (históricas/míticas)"
+status = "verificado"
+fontes = ["P2018-05-20", "B001"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-30"
++++
 # Agar como 2ª Tentativa Fracassada de Fêmea para Adão — RC-817
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | SERES & ENTIDADES |
-| **Subcategoria** | 1.6 Ancestrais / Patriarcas / Matriarcas |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-30 |
 
 ## Definição Sintética
 Tese (leitura do autor, palestra **P2018-05-20**, U0003) de que **Agar** é a **2ª tentativa de Javé** de encontrar uma fêmea que funcionasse para Adão — entre **Lilith (1ª, fracasso)** e **Eva (3ª, sucesso)**. Agar "veio da transada original da nossa mãe Pandora com os animais humanos" — "mulher da espécie sábia" (já racional). Mas **"Adão é de uma linhagem mais fraca"** segundo Lilit, então a combinação não funcionou. Ver RC-455 (Agar), RC-308 (Lilith), RC-001 (Javé), RC-099 (Homo Sapiens), RC-086 (Pandora), RC-814 (Eva como 3ª Tentativa).

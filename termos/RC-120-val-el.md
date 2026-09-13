@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-120"
+nome = "Val El / Val Ellam"
+categoria = "Seres & Entidades"
+subcategoria = "1.3 Extraterrestres / Raças cósmicas"
+status = "provisório"
+fontes = ["B031"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-09-07"
++++
 # Val El / Val Ellam — RC-120
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | SERES & ENTIDADES |
-| **Subcategoria** | 1.3 Extraterrestres / Raças cósmicas |
-| **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-09-07 |
 
 ## Definição Sintética
 Nome composto «Val El / Val Ellam»: a forma pela qual o codificador das Revelações Cósmicas, Jan Val Ellam (RC-071), é designado na economia interna da própria obra — o nome civil acrescido do prefixo «Val», que na RC identifica a família biodêmica Val (RC-109).

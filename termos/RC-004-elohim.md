@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-004"
+nome = "Elohim"
+categoria = "Seres & Entidades"
+subcategoria = "1.2 Coletivos criadores"
+status = "em análise"
+fontes = ["B061", "P2024-09-28"]
+via = "P7-conhecimento"
+confianca_fonte = "baixa"
+atualizado = "2026-08-18"
++++
 # Elohim — RC-004
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | SERES & ENTIDADES |
-| **Subcategoria** | 1.2 Coletivos criadores |
-| **Status** | 🟠 Em análise |
-| **Última atualização** | 2026-08-18 |
 
 ## Definição Sintética
 Coletivo de entidades criadoras de origem hebraica, reinterpretado nas Revelações Cósmicas no contexto da criação e do drama de Javé. *(Detalhes do tratamento dado por Ellam a confirmar nos PDFs.)*

@@ -1,3 +1,15 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-449"
+nome = "Criaturas-ferramenta"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.5 Propósitos / Destinos"
+status = "verificado"
+fontes = ["B057", "B058", "P2025-03-15", "P2021-03-27", "P2025-11-29"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-09-13"
++++
 # Criaturas-ferramenta — RC-449
 
 > **REMISSIVA — [F045-MERGE 07-09-2026]** Este código é **duplicata absorvida por RC-164

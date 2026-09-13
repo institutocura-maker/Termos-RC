@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-718"
+nome = "Cumprimento da Profecia de Moros pela Revelação Cósmica"
+categoria = "Eventos & Eras"
+subcategoria = "7.3 Profecias / Anúncios"
+status = "em análise"
+fontes = ["P2024-11-30", "P2023-12-02", "P2021-03-27", "P2025-11-29; RC-714; RC-454", "P2025-07-18", "P2023-12-03"]
+via = "P7-conhecimento"
+confianca_fonte = "baixa"
+atualizado = "2026-08-29"
++++
 # Cumprimento da Profecia de Moros pela Revelação Cósmica — RC-718
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | EVENTOS & ERAS |
-| **Subcategoria** | 7.3 Profecias / Anúncios |
-| **Status** | 🟠 Em análise (candidatura aprovada pelo curador) |
-| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 Evento/processo em que as revelações ligadas ao espírito de Moros culminam na Revelação Cósmica, abrindo os Arquivos do Destino e cumprindo a Profecia das Três Flechas.

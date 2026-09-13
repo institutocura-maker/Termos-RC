@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-871"
+nome = "Midana (o código original primordial semeado no universo biológico)"
+categoria = "Processos & Fenômenos"
+subcategoria = "4.1 Processos biológicos / genéticos"
+status = "em análise"
+fontes = ["P2022-10-01", "P2022-09-25"]
+via = "P7-conhecimento"
+confianca_fonte = "baixa"
+atualizado = "2026-09-01"
++++
 # Midana (o código original primordial semeado no universo biológico) — RC-871
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | Processos & Fenômenos |
-| **Subcategoria** | 4.1 Processos biológicos / genéticos |
-| **Status** | 🟠 Em análise |
-| **Última atualização** | 2026-09-01 |
 
 ## Definição Sintética
 

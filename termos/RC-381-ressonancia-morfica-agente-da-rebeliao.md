@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-381"
+nome = "Ressonância Mórfica (agente da rebelião)"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.2 Leis e princípios cósmicos"
+status = "verificado"
+fontes = ["B041", "P2025-03-15", "P2025-02-15", "P2024-11-30", "P2024-11-09", "P2024-09-29", "P2024-04-14", "P2023-10-14", "P2020-04-25", "P2022-03-26", "P2023-12-03", "P2022-05-07", "P2024-06-16", "P2022-12-03", "P2022-10-01", "P2022-09-18", "P2021-02-28"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-29"
++++
 # Ressonância Mórfica (agente da rebelião) — RC-381
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | Conceitos Cosmológicos |
-| **Subcategoria** | 2.2 Leis e princípios cósmicos |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 

@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-836"
+nome = "Forno de Awayen (forno de Brahma/Javé → Central de Realidades)"
+categoria = "Lokas & Geografias"
+subcategoria = "3.2 Lokas / Mundos interiores"
+status = "verificado"
+fontes = ["P2019-08-25", "ART-2025-08-01", "P2021-05-15", "P2022-03-26"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-31"
++++
 # Forno de Awayen (forno de Brahma/Javé → Central de Realidades) — RC-836
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | LOKAS & GEOGRAFIAS |
-| **Subcategoria** | 3.2 Lokas / Mundos interiores |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-31 |
 
 ## Definição Sintética
 Forno replicador de vida do **Projeto Talm** (RC-091) sob o controle de **Brahma/Javé** (Primeiro Logos, RC-037). É o único dos três fornos que **nunca funcionou** como replicador de vida; em vez disso, terminou por se tornar a **"Central de Realidades"** do universo paralelo — um posto de acompanhamento/atualização de todas as locas, usado por Brahma para tentar se comunicar com este universo e, mais tarde, como laboratório (casulos com protótipos de seres, inclusive da genética de Adão). Formato **ovóide, um pouco maior que a Lua**.

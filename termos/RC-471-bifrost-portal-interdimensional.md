@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-471"
+nome = "Bifrost (Portal interdimensional)"
+categoria = "Lokas & Geografias"
+subcategoria = "3.4 Regiões cósmicas / Portais"
+status = "verificado"
+fontes = ["B060", "P2022-12-17", "P2025-02-16", "P2024-11-30", "P2024-11-02", "P2024-08-03", "P2026-03-21"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-16"
++++
 # Bifrost (Portal interdimensional) — RC-471
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | LOKAS & GEOGRAFIAS |
-| **Subcategoria** | 3.4 Regiões cósmicas / Portais |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-16 |
 
 ## Definição Sintética
 

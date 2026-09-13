@@ -1,9 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-503"
+nome = "Mavátma / Mavatna / Mavat (Vishnu em condição Adhyatman)"
+categoria = "Seres & Entidades"
+subcategoria = "1.1 Divindades / Criadores"
+status = "verificado"
+fontes = ["B061", "P2025-02-16", "P2024-11-30", "P2024-03-02"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-09-10"
++++
 # Mavátma / Mavatna / Mavat (Vishnu em condição Adhyatman) — RC-503
-
-| Campo | Valor |
-|---|---|
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-09-10 |
 
 ## Ampliação — P2024-03-02 (O Drama Espiritual de Jesus)
 

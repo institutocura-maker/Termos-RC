@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-939"
+nome = "Samkhya"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.4 Espiritualidade / Doutrina"
+status = "provisório"
+fontes = []
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-09-06"
++++
 # SAMKHYA — RC-939
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | Conceitos Cosmológicos |
-| **Subcategoria** | 2.4 Espiritualidade / Doutrina |
-| **Status** | 🟡 provisório |
-| **Última atualização** | 2026-09-06 |
 
 ## Definição Sintética
 Filosofia proposta por Kapila que visa eliminar toda a ignorância; no corpus, o trilho indiano pelo qual a «tradição ariana/hindu» antecipou registro do jogo mental — a via da qual Moksha é o estado.

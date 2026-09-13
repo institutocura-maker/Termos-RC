@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-548"
+nome = "Arquivos Mentais (coleção de conceitos no psiquismo)"
+categoria = "Processos & Fenômenos"
+subcategoria = "4.2 Fenômenos espirituais / mediúnicos"
+status = "verificado"
+fontes = ["B074", "B075", "P2025-02-15", "P2024-11-09", "P2024-04-14", "P2024-02-03", "P2025-11-29"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-18"
++++
 # Arquivos Mentais — RC-548
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | PROCESSOS & FENÔMENOS |
-| **Subcategoria** | 4.2 Fenômenos espirituais / mediúnicos |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-18 |
 
 ## Definição Sintética
 **Arquivos Mentais** são a configuração sob a qual o psiquismo humano "guarda/hospeda" conceitos, opiniões, crenças, "verdades pessoais" e impressões — tanto no **cérebro animal** quanto na **Mente Espiritual**. Cada conceito/crença é tratado como um "arquivo" que pode ser **aberto, fechado, eliminado ou colecionado**. A gestão desses arquivos é o coração do **Mentalma** (RC-166): o método ensina a quem "coleciona" os arquivos, como são adquiridos, onde ficam guardados, como são abertos e como são fechados/eliminados.

@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-690"
+nome = "Colapso do Caos Organizado"
+categoria = "Eventos & Eras"
+subcategoria = "7.4 Catástrofes / Dilúvios / Quedas"
+status = "verificado"
+fontes = ["P2025-03-15", "P2025-02-16", "P2024-11-30", "P2024-11-09", "P2024-09-29", "P2024-07-13", "P2024-02-03"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-15"
++++
 # Colapso do Caos Organizado — RC-690
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | EVENTOS & ERAS |
-| **Subcategoria** | 7.4 Catástrofes / Dilúvios / Quedas |
-| **Status** | 🟢 Verificado (candidatura aprovada pelo curador) |
-| **Última atualização** | 2026-08-15 |
 
 ## Definição Sintética
 Desestruturação progressiva ou súbita das arquiteturas biológicas, informacionais e cósmicas formadas durante a organização do caos, impulsionada pela Rebelião dos Elétrons.

@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-434"
+nome = "Homoafetividade (resquício da força original)"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.5 Propósitos / Destinos"
+status = "verificado"
+fontes = ["B052", "P2025-03-15", "P2024-11-30", "P2024-03-03"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-13"
++++
 # Homoafetividade (resquício da força original) — RC-434
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
-| **Subcategoria** | 2.5 Propósitos / Destinos |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-13 |
 
 ## Definição Sintética
 A **homoafetividade** como tema-título do B052: nas RC, a atração entre pessoas do mesmo sexo é interpretada como **resquício da força de atração sexual original** (RC-433) — que surgiu antes da polaridade macho/fêmea, na geração demo do Olimpo, como mecanismo de coesão entre seres desconfiados. O livro (2016) aborda a questão com "perspectiva adulta": "não deveria existir culpa e nem mesmo responsabilidade pelo padrão de conduta" — pois a força é anterior às formas animalizadas.

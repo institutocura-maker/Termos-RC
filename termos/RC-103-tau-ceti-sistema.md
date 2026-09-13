@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-103"
+nome = "Tau Ceti (Sistema)"
+categoria = "Lokas & Geografias"
+subcategoria = "3.1 Planetas / Sistemas estelares"
+status = "verificado"
+fontes = ["B031", "B058"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-25"
++++
 # Tau Ceti (Sistema) — RC-103
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | LOKAS & GEOGRAFIAS |
-| **Subcategoria** | 3.1 Planetas / Sistemas estelares |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-25 |
 
 ## Definição Sintética
 **Tau Ceti** é o sistema estelar (constelação de Cetus/Baleia, a menos de 11,90 anos-luz do Sol) sede da **Universidade de Tau Ceti** (RC-451) — a instituição académica dos biodemos onde Yel Luzbel submeteu as suas questões à avaliação do **Grão-mestre** e do Conselho de Sábios da Grande Fraternidade Tau Ceti, no Livro 2 da trilogia de Yel Luzbel.

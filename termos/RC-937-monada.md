@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-937"
+nome = "Mônada"
+categoria = "Seres & Entidades"
+subcategoria = "1.8 Consciências coletivas / Logos"
+status = "provisório"
+fontes = []
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-09-06"
++++
 # MÔNADA — RC-937
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | Seres & Entidades |
-| **Subcategoria** | 1.8 Consciências coletivas / Logos |
-| **Status** | 🟡 provisório |
-| **Última atualização** | 2026-09-06 |
 
 ## Definição Sintética
 Unidade Espiritual Individualizada; o GKA acrescenta a espécie rara: há mônadas sem emergência de individualidade, «Porções de Energia Espiritual».

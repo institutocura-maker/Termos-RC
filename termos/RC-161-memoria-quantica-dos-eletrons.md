@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-161"
+nome = "Memória Quântica dos Elétrons"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.2 Leis e princípios cósmicos"
+status = "verificado"
+fontes = ["B024", "B041", "P2024-05-04", "P2025-03-15", "P2025-02-16", "P2025-02-15", "P2024-11-30", "P2024-11-09", "P2025-06-14b", "P2023-11-19", "P2023-06-24", "P2023-10-14", "P2022-03-26", "P2023-12-03", "P2017-10-14", "P2022-12-03", "P2026-03-21", "P2021-04-10"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-29"
++++
 # Memória Quântica dos Elétrons — RC-161
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
-| **Subcategoria** | 2.2 Leis e princípios cósmicos |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 Capacidade **misteriosa e exclusiva dos elétrons** (que as demais micropartículas não possuem) de **"marcar" em si mesmos tudo o que vivenciam** — uma espécie de memória quântica (B024, cap. 13). O elétron é o **único agente que existe desde o primeiro momento da Criação** e existirá até não mais existirem elementos químicos. Os elétrons absorvem absolutamente tudo o que experienciam, trocando informações com seus "irmãos gêmeos-parceiros" do **emaranhamento quântico**. Quando um corpo morre, seus elétrons não morrem — voltam à condição de "unidade" levando gravado tudo o que vivenciaram, passando de um ser para outro (cap. 14).

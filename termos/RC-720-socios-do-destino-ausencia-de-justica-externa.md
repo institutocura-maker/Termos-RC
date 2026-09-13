@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-720"
+nome = "Sócios do Destino / Ausência de Justiça Externa"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.6 Ética / Carma / Compromissos"
+status = "verificado"
+fontes = ["P2024-11-30", "P2024-11-09"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-15"
++++
 # Sócios do Destino / Ausência de Justiça Externa — RC-720
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
-| **Subcategoria** | 2.6 Ética / Carma / Compromissos |
-| **Status** | 🟢 Verificado (candidatura aprovada pelo curador) |
-| **Última atualização** | 2026-08-15 |
 
 ## Definição Sintética
 Princípio segundo o qual consciências particularizadas coexistem como sócias de um destino comum, sem autoridade externa distribuindo indulgência, castigo ou perdão; os próprios fatos e retornos tecem as consequências.

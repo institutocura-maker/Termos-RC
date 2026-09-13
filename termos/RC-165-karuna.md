@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-165"
+nome = "Karuna"
+categoria = "Termos Específicos"
+subcategoria = "8.1 Sânscrito / Hinduísmo"
+status = "verificado"
+fontes = ["B024", "P2024-06-16"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-21"
++++
 # Karuna — RC-165
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
-| **Subcategoria** | 2.5 Consciência / Espiritualidade |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-21 |
 
 ## Definição Sintética
 "Consciência Karuna" — na leitura da RC, a resposta silenciosa à **Mensagem TALM** (RC-080): a forma como a humanidade, com sua sensibilidade e decência, pode redimir indiretamente os **Fenvans** (RC-064) e colaborar com o "novo eu" de Javé. Termo de raiz sânscrita (karuṇā = compaixão), reapropriado pela RC.

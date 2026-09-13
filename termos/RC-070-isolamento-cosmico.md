@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-070"
+nome = "Isolamento Cósmico"
+categoria = "Eventos & Eras"
+subcategoria = "7.1 Guerras / Rebeliões / Conflitos"
+status = "em análise"
+fontes = ["B031", "B033", "B003", "B025", "B026", "B005", "P2022-12-17", "P2024-11-30", "P2024-07-13", "P2021-05-15", "P2020-04-25", "P2022-03-26", "P2023-12-03"]
+via = "P7-conhecimento"
+confianca_fonte = "baixa"
+atualizado = "2026-08-29"
++++
 # Isolamento Cósmico — RC-070
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | EVENTOS & ERAS |
-| **Subcategoria** | 7.1 Guerras / Rebeliões / Conflitos |
-| **Status** | 🟠 Em análise |
-| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 É o isolamento imposto aos **19 planetas** que participaram da Rebelião de Lúcifer há aproximadamente **750 mil anos**, iniciada no Sistema de Capela. A Terra serviu de refúgio para exilados (que vieram em naves e reencarnaram por afinidade vibracional — os Exilados de Capela). **Atualmente, a Terra é o único planeta que ainda se encontra isolado cosmicamente**, sem "contato oficial" com outras civilizações extraterrenas. O isolamento terminará quando **Sophia, o Cristo Cósmico e Suserano deste universo, aparecer nos céus com suas naves** e fizer o primeiro contato extraterreno oficial — a promessa de Jesus de que voltaria (B031).

@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-101"
+nome = "Shamb-Aha"
+categoria = "Lokas & Geografias"
+subcategoria = "3.2 Lokas / Mundos interiores"
+status = "em análise"
+fontes = ["B031", "B017", "B018", "B039", "P2018-12-15"]
+via = "P7-conhecimento"
+confianca_fonte = "baixa"
+atualizado = "2026-08-31"
++++
 # Shamb-Aha — RC-101
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | Lokas & Geografias |
-| **Subcategoria** | 3.2 Lokas / Mundos interiores |
-| **Status** | 🟠 Em análise |
-| **Última atualização** | 2026-08-31 |
 
 ## Definição Sintética
 

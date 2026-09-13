@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-765"
+nome = "Relógio Messiânico"
+categoria = "Eventos & Eras"
+subcategoria = "7.3 Profecias / Anúncios"
+status = "em análise"
+fontes = ["P2021-03-27"]
+via = "P7-conhecimento"
+confianca_fonte = "baixa"
+atualizado = "2026-08-18"
++++
 # Relógio Messiânico — RC-765
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | EVENTOS & ERAS |
-| **Subcategoria** | 7.3 Profecias / Anúncios |
-| **Status** | 🟠 Em análise (candidatura aprovada pelo curador (2026-08-18)) |
-| **Última atualização** | 2026-08-18 |
 
 ## Definição Sintética
 

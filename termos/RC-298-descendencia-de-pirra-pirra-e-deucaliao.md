@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-298"
+nome = "Descendência de Pirra (Pirra e Deucalião)"
+categoria = "Genealogias & Linhagens"
+subcategoria = "6.2 Linhagens humanas"
+status = "verificado"
+fontes = ["B021", "P2024-11-09", "B087", "B088", "B089", "P2023-08-05", "P2023-05-21"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-12"
++++
 # Descendência de Pirra (Pirra e Deucalião) — RC-298
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | GENEALOGIAS & LINHAGENS |
-| **Subcategoria** | 6.2 Linhagens humanas |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-12 |
 
 ## Definição Sintética
 A linhagem resultante da união de **Pirra** (filha de Pandora/Kalil Kadmon com Epimeteu) e **Deucalião** (filho de Prometeu): "Deucalião e Pirra, que eram demos sexuados, tornaram-se o que, para nós, humanos, seria 'marido e mulher'. Eles tiveram vários filhos e filhas que portavam as sequências genéticas mais ricas da 'herança' de Caos nos seus códigos-fonte definidores de vida" (B021, cap. 22). **Pandora e Pirra foram "os maiores problemas da gestão de Zeus", pois suas descendências "decretaram o fim das linhagens demodhármicas".**

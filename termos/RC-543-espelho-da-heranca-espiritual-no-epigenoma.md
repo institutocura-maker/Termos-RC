@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-543"
+nome = "Espelho da Herança Espiritual no Epigenoma"
+categoria = "Processos & Fenômenos"
+subcategoria = "4.1 Processos biológicos / genéticos"
+status = "verificado"
+fontes = ["B019", "P2024-05-04", "P2025-03-15", "P2025-02-15", "P2024-11-30", "P2023-04-01", "P2020-08-08", "P2021-03-13", "P2023-04-01b"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-13"
++++
 # Espelho da Herança Espiritual no Epigenoma — RC-543
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | PROCESSOS & FENÔMENOS |
-| **Subcategoria** | 4.1 Processos biológicos / genéticos |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-13 |
 
 ## Definição Sintética
 **"Espelho da Herança Espiritual" no Epigenoma Humano** é a tese do cap. 16 de *Nem Deus, nem Javé, nem Darwin* (B019): a ciência da **epigenética** (regulação da expressão genética sem alterar o DNA) seria o "espelho" em que se refletiria a herança espiritual/consciencial do ser — um mecanismo biológico que acolheria as marcas das trajetórias espirituais, conectando a biologia ao psiquismo.

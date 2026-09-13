@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-365"
+nome = "O Fator Judas"
+categoria = "Eventos & Eras"
+subcategoria = "7.5 Missões / Expedições / Encontros"
+status = "verificado"
+fontes = ["B011", "P2026-04-02", "P2025-10-25", "P2018-12-16", "P2025-05-10", "P2022-11-20"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-12"
++++
 # O Fator Judas — RC-365
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | EVENTOS & ERAS |
-| **Subcategoria** | 7.5 Missões / Expedições / Encontros |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-12 |
 
 ## Definição Sintética
 O **papel estratégico de Judas** na missão de Jesus — o capítulo 2 do Livro de Tiago (B011): o "fator Judas" designa a função de Judas Iscariotes no drama da crucificação, reinterpretada nas RC (cf. RC-138: Judas = Yel Am/Yel Liam, o biodemo que fundiu o código genético com Val El). Nas RC, Judas não "traiu" por maldade: não suportou a surpresa da morte de Jesus (conhecia seus poderes e esperava que os usasse) e tirou a própria vida.

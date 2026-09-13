@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-894"
+nome = "Qualia como Processamento Humano"
+categoria = "Processos & Fenômenos"
+subcategoria = "4.4 Fenômenos físicos / energéticos"
+status = "em análise"
+fontes = ["P2023-10-15", "P2023-11-18", "P2024-01-13", "P2024-02-04", "P2024-03-17"]
+via = "P7-conhecimento"
+confianca_fonte = "baixa"
+atualizado = "2026-09-02"
++++
 # Qualia como Processamento Humano — RC-894
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | PROCESSOS & FENÔMENOS |
-| **Subcategoria** | 3.1 Biologia / Neurociência |
-| **Status** | 🟠 Em análise |
-| **Última atualização** | 2026-09-02 |
 
 ## Definição Sintética
 Os Qualia são as experiências subjetivas e qualitativas da condição biológica humana — como o sabor de uma uva na boca — que a inteligência artificial não consegue reproduzir (apenas descrever quimicamente). Esses qualia são roubados por seres de outros universos que se alimentam dos eflúvios humanos, usando a experiência do corpo humano para simplificar e ampliar sua própria compreensão da realidade. O ser humano é o único processador capaz de reciclar informações acumuladas do passado e produzir resultados no campo da compreensão que sirvam a todos os seres da criação.

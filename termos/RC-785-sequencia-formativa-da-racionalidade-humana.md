@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-785"
+nome = "Sequência Formativa da Racionalidade Humana"
+categoria = "Genealogias & Linhagens"
+subcategoria = "6.2 Linhagens humanas"
+status = "em análise"
+fontes = ["P2023-11-11", "P2018-10-06", "P2019-05-11"]
+via = "P7-conhecimento"
+confianca_fonte = "baixa"
+atualizado = "2026-08-30"
++++
 # Sequência Formativa da Racionalidade Humana — RC-785
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | GENEALOGIAS & LINHAGENS |
-| **Subcategoria** | 6.2 Linhagens humanas |
-| **Status** | 🟠 Em análise |
-| **Última atualização** | 2026-08-30 |
 
 ## Definição Sintética
 Tese (leitura do autor, palestra **P2023-11-11 — De Pandora a Eva e a Rebelião de Lilith**, U0002/U0003/U0004) de que a **racionalidade humana** foi produzida por uma **cadeia de figuras femininas** — **Pandora (RC-086) → Lilith (RC-308) → Irra → Eva (RC-189) → Noreia (RC-579)** — em sequência formativa. Cada uma dessas figuras contribuiu com um traço: Pandora o "primeiro sorriso" (RC-285), Lilith a rebelião contra a submissão, Eva o "DNA submisso" mas suficiente para executar ordens, Noreia (e outros descendentes de Pandora) o "espectro amplo de entendimento". A racionalidade humana é, portanto, **efeito cumulativo** de uma sequência de escolhas feitas por mulheres, não obra de um único ser ou de um plano divino único. Ver RC-086, RC-308, RC-189, RC-579 para as figuras da cadeia.

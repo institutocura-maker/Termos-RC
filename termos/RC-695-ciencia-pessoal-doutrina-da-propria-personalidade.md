@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-695"
+nome = "Ciência Pessoal / Doutrina da Própria Personalidade"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.4 Espiritualidade / Doutrina"
+status = "verificado"
+fontes = ["P2025-02-16", "P2025-02-15", "P2024-11-09", "P2024-09-29", "P2024-04-14", "P2025-06-14b", "P2023-05-13"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-18"
++++
 # Ciência Pessoal / Doutrina da Própria Personalidade — RC-695
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
-| **Subcategoria** | 2.4 Espiritualidade / Doutrina |
-| **Status** | 🟢 Verificado (candidatura aprovada pelo curador) |
-| **Última atualização** | 2026-08-18 |
 
 ## Definição Sintética
 Construção individual de critérios, práticas e princípios de existência adequados à singularidade da pessoa, sem submissão automática a guru, religião, espírito ou autoridade externa.

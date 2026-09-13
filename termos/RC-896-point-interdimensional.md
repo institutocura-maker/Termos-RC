@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-896"
+nome = "Point Interdimensional"
+categoria = "Processos & Fenômenos"
+subcategoria = "4.4 Fenômenos físicos / energéticos"
+status = "em análise"
+fontes = ["P2023-10-15", "P2023-11-18", "P2024-01-13", "P2024-02-04", "P2024-03-17"]
+via = "P7-conhecimento"
+confianca_fonte = "baixa"
+atualizado = "2026-09-02"
++++
 # Point Interdimensional — RC-896
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | ESTRUTURAS & SISTEMAS |
-| **Subcategoria** | 2.1 Cosmologia / Geografia Cósmica |
-| **Status** | 🟠 Em análise |
-| **Última atualização** | 2026-09-02 |
 
 ## Definição Sintética
 O Point Interdimensional é a caracterização da Terra como o centro de convergência, o ponto de encontro de todas as forças que disputam a Suzerania Universal. A Terra foi transformada nesse point interdimensional onde Jesus, Maomé, Cristo e outras figuras não foram para outros mundos — só nasceram aqui. O DNA humano é o mais novo DNA surgido no âmbito da obra de 13,8 bilhões de anos, e por ser o último a surgir, é o mais moderno — razão pela qual tudo está convergindo para a Terra.

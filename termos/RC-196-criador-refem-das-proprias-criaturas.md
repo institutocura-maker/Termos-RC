@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-196"
+nome = "Criador refém das próprias criaturas"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.6 Ética / Carma / Compromissos"
+status = "verificado"
+fontes = ["B035", "B001"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-09-07"
++++
 # Criador refém das próprias criaturas — RC-196
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
-| **Subcategoria** | 2.6 Ética / Carma / Compromissos |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-09-07 |
 
 ## Definição Sintética
 A condição do Criador depois da queda: preso à própria obra, dependente das criaturas que gerou. É o inverso da onipotência — o deus que não pode sair do lugar nem desfazer o que fez, e cuja recomposição depende do que as suas criaturas produzirem.

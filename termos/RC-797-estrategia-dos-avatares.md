@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-797"
+nome = "Estratégia dos Avatares (Moisés/Krishna/Saibaba/Jesus/Maomé)"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.2 Leis e princípios cósmicos"
+status = "verificado"
+fontes = ["P2018-02-24"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-30"
++++
 # Estratégia dos Avatares (Moisés/Krishna/Saibaba/Jesus/Maomé) — RC-797
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
-| **Subcategoria** | 2.2 Leis e princípios cósmicos |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-30 |
 
 ## Definição Sintética
 Tese (leitura do autor, palestra **P2018-02-24 — Pandora e a Estratégia dos Avatares**, U0001/U0003/U0004/U0005) de que os **avatares** (Moisés, Krishna, Saibaba, Jesus, Maomé) vieram à Terra com **dois objetivos simultâneos**: (1) **destruir o mal centralizado** (em império, família, cidade) e (2) **transferir a doença do criador para a humanidade** via "DNA final de genética dos deuses". As religiões (judaísmo, cristianismo, islamismo, hinduísmo) são **instrumentos de dominação** derivados desta estratégia. Ver RC-072 (Jesus), RC-102 (Krishna), RC-105 (Religiões Impositivas), RC-422 (Ser Criador Fracassado).

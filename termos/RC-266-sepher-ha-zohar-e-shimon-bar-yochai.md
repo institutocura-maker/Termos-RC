@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-266"
+nome = "Sepher ha-Zohar (e Shimon Bar Yochai)"
+categoria = "Tecnologias & Artefatos"
+subcategoria = "5.4 Escrituras / Objetos documentais"
+status = "verificado"
+fontes = ["B013", "P2024-11-09", "P2024-07-14"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-19"
++++
 # Sepher ha-Zohar (e Shimon Bar Yochai) — RC-266
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | TERMOS ESPECÍFICOS |
-| **Subcategoria** | 8.2 Hebraico / Cabala |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-19 |
 
 ## Definição Sintética
 

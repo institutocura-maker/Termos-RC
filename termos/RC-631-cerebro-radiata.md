@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-631"
+nome = "Cérebro Radiata"
+categoria = "Processos & Fenômenos"
+subcategoria = "4.1 Processos biológicos / genéticos"
+status = "verificado"
+fontes = ["P2024-05-04", "P2025-02-16", "P2024-11-30", "P2024-04-13", "P2023-04-15", "P2021-05-15", "P2020-04-25", "P2022-03-26", "P2023-12-03", "P2022-11-26"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-29"
++++
 # Cérebro Radiata — RC-631
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | PROCESSOS & FENÔMENOS |
-| **Subcategoria** | 4.1 Processos biológicos / genéticos |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 Cérebro biodemo/radiata de um hemisfério atribuído a Sophia, contraposto ao cérebro bilatério humano.

@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-028"
+nome = "Atlan"
+categoria = "Lokas & Geografias"
+subcategoria = "3.3 Localidades terrestres"
+status = "em análise"
+fontes = ["B031", "B017", "B018", "B039", "B006", "P2022-09-25"]
+via = "P7-conhecimento"
+confianca_fonte = "baixa"
+atualizado = "2026-09-01"
++++
 # Atlan — RC-028
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | Lokas & Geografias |
-| **Subcategoria** | 3.3 Localidades terrestres |
-| **Status** | 🟠 Em análise |
-| **Última atualização** | 2026-09-01 |
 
 ## Definição Sintética
 

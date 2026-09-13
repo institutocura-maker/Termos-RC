@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-805"
+nome = "Espiritismo com Germe da Poluição Católica/Protestante"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.4 Espiritualidade / Doutrina"
+status = "verificado"
+fontes = ["P2018-02-24"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-30"
++++
 # Espiritismo com Germe da Poluição Católica/Protestante — RC-805
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
-| **Subcategoria** | 2.4 Espiritualidade / Doutrina |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-30 |
 
 ## Definição Sintética
 Tese (leitura do autor, palestra **P2018-02-24**, U0005) de que **o Espiritismo (Kardec, RC-101) tem "no germe da poluição"** — herdado de **ex-católicos e ex-protestantes** que o trouxeram para o movimento. O Espiritismo é, portanto, listado entre as "religiões opressivas e dominadoras" (judaísmo, cristianismo, islamismo, hinduísmo) — embora com a ressalva de que o autor reconhece que o Espiritismo "tem estranhado" (tem tentado se diferenciar). Ver RC-101 (Espiritismo/Kardec), RC-105 (Religiões Impositivas), RC-335 (Lavagem Cerebral).

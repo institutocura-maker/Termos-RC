@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-721"
+nome = "Abismo da Consciência Cósmica"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.5 Propósitos / Destinos"
+status = "verificado"
+fontes = ["P2024-11-09"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-16"
++++
 # Abismo da Consciência Cósmica — RC-721
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
-| **Subcategoria** | 2.5 Propósitos / Destinos |
-| **Status** | 🟢 Verificado (candidatura aprovada pelo curador) |
-| **Última atualização** | 2026-08-16 |
 
 ## Definição Sintética
 Na formulação de Jan Val Ellam, é a distância entre poder ou conhecimento e a capacidade de reconhecer, compreender e agir diante do sofrimento, da indignidade e do caos. O conceito é aplicado, na palestra, a consciências humanas, espirituais, cósmicas e paradisíacas.

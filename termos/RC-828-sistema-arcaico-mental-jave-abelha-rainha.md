@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-828"
+nome = "Sistema Arcaico Mental (Javé Como Abelha Rainha)"
+categoria = "Processos & Fenômenos"
+subcategoria = "4.1 Processos biológicos / genéticos"
+status = "verificado"
+fontes = ["P2019-08-25", "P2023-12-17", "B037"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-31"
++++
 # Sistema Arcaico Mental (Javé Como Abelha Rainha) — RC-828
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | CONCEITOS BIOLÓGICOS |
-| **Subcategoria** | 3.3 Sistemática / Filogenia |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-31 |
 
 ## Definição Sintética
 Tese (leitura do autor, palestra **P2023-12-17**, U0003) de que o **sistema mais antigo de organização da vida** é o **sistema arcaico mental** — descrito no livro "Divina Ceia" (B037) — onde **Javé (RC-001) = abelha rainha**, **os clones = abelhas operárias**. É uma "estrutura morfogenética" de 300 milhões de anos, baseada em **hierarquia e controle mental** (Javé controla os clones). Os elétrons (RC-162) estão **colapsando esse sistema arcaico** porque ele é o mais antigo e "são no sentido arcano as maneiras mais antigas como a vida se organizou". Ver RC-001 (Javé), RC-009 (Sophia), RC-162 (Elétron), RC-162 (Plasma), RC-826 (Rebelião dos Elétrons), RC-829 (Memória dos Elétrons).

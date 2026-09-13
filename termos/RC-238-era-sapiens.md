@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-238"
+nome = "Era Sapiens"
+categoria = "Eventos & Eras"
+subcategoria = "7.2 Eras / Épocas / Ciclos"
+status = "em análise"
+fontes = ["B039", "P2018-12-15", "P2018-12-16"]
+via = "P7-conhecimento"
+confianca_fonte = "baixa"
+atualizado = "2026-08-31"
++++
 # Era Sapiens — RC-238
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | Eventos & Eras |
-| **Subcategoria** | 7.2 Eras / Épocas / Ciclos |
-| **Status** | 🟠 Em análise |
-| **Última atualização** | 2026-08-31 |
 
 ## Definição Sintética
 

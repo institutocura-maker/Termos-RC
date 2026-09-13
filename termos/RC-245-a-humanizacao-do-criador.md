@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-245"
+nome = "A Humanização do Criador"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.5 Propósitos / Destinos"
+status = "verificado"
+fontes = ["B015", "B036", "B048", "B037", "P2024-05-04", "P2025-10-25"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-12"
++++
 # A Humanização do Criador — RC-245
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
-| **Subcategoria** | 2.5 Propósitos / Destinos |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-12 |
 
 ## Definição Sintética
 Processo pelo qual **o Criador (Brahma/Javé) vem aprendendo a coexistir com aquilo que contraria o seu psiquismo** — a lenta aquisição de traços "humanizados" (compreensão, aceitação do contraditório, vínculo emocional com as criaturas) ao longo da história (B015, cap. 17). Zont En Drel 29, testemunha ocular: "ver o meu Criador 'disposto' a buscar o entendimento de como aquelas primeiras criaturas humanizadas saíram da destinação que Ele traçara... não é fácil para um En Drel". O marco temporal de ~23 mil anos (quando o Senhor Brahma/Javé fixou um dos portais da sua morada celestial na Terra) é apontado como início desse processo mais próximo.

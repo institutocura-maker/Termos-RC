@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-789"
+nome = "Centro Alquímico-Farmacopédico"
+categoria = "Lokas & Geografias"
+subcategoria = "3.2 Lokas / Mundos interiores"
+status = "verificado"
+fontes = ["P2025-04-06", "P2023-11-11"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-30"
++++
 # Centro Alquímico-Farmacopédico — RC-789
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | LOKAS & GEOGRAFIAS |
-| **Subcategoria** | 3.2 Lokas / Mundos interiores |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-30 |
 
 ## Definição Sintética
 Tese (leitura do autor, palestra **P2025-04-06**, U0004) de que existiram **dois centros alquímicos-farmacopédicos** na história cósmica: (1) **o primeiro em Asgard**, operado pelos anões a partir da mistura gênica dos Aesir e Vanir, que gerou **Kvasir (RC-396)** — destruído pelo **Ragnarok há 300 milhões de anos**; (2) **o segundo nos criatórios de Prometeu (RC-301) e Epimeteu (RC-302)**, uma "continuação maluca" do primeiro, que operava com os "restos alquímicos" do Ragnarok. O segundo centro foi a base da **revolução inacabada** (RC-788). Ver RC-396 (Kvasir), RC-135 (Odin), RC-730 (Yggdrasil).

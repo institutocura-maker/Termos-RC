@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-467"
+nome = "Moiras / Nornes / Súdices / Parcas (destino)"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.5 Propósitos / Destinos"
+status = "verificado"
+fontes = ["B060", "P2025-06-26", "P2025-02-16", "P2024-11-30", "P2023-05-21", "P2023-04-15", "P2023-04-29", "P2020-04-18", "P2020-07-04", "P2023-04-01b", "P2023-10-14", "P2021-01-30", "P2024-06-16", "P2018-12-15", "P2022-10-01"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-09-05"
++++
 # Moiras / Nornes / Súdices / Parcas (destino) — RC-467
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | SERES & ENTIDADES |
-| **Subcategoria** | 1.8 Consciências coletivas / Logos |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-09-05 |
 
 ## Definição Sintética
 

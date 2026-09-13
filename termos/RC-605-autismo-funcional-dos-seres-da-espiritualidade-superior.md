@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-605"
+nome = "Autismo Funcional dos Seres da Espiritualidade Superior"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.5 Propósitos / Destinos"
+status = "verificado"
+fontes = ["P2021-12-04", "P2024-05-04", "P2024-11-09", "P2021-09-04", "P2022-03-26"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-28"
++++
 # Autismo Funcional dos Seres da Espiritualidade Superior — RC-605
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
-| **Subcategoria** | 2.5 Propósitos / Destinos |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 Analogia usada pelo palestrante para descrever seres quase perfeitos que funcionam plenamente em rede, mas teriam dificuldade para compreender caos, malícia e sofrimento fora dos protocolos originais.

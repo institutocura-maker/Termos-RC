@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-071"
+nome = "Jan Val Ellam (Rogério de Almeida Freitas)"
+categoria = "Seres & Entidades"
+subcategoria = "1.6 Figuras humanas (históricas/míticas)"
+status = "verificado"
+fontes = ["B031", "B016", "B006", "B027", "B034", "B036", "B060", "P2021-12-04", "P2025-06-26", "P2023-12-03"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-29"
++++
 # Jan Val Ellam (Rogério de Almeida Freitas) — RC-071
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | SERES & ENTIDADES |
-| **Subcategoria** | 1.6 Figuras humanas (históricas/míticas) |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 O **codificador e transmissor das Revelações Cósmicas** — o "recebedor" pelo qual as revelações "chegam" (a própria malha é filha da sua obra: 777 termos extraídos do glossário de B031, além das obras B001–B090 e das palestras P-codes). Assinatura autoral; o nome civil é termo separado (**RC-095** Rogério de Almeida Freitas).

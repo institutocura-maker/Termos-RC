@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-242"
+nome = "Éden do Criador (Éden como laboratório)"
+categoria = "Lokas & Geografias"
+subcategoria = "3.3 Localidades terrestres"
+status = "verificado"
+fontes = ["B015", "B020", "B052"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-12"
++++
 # Éden do Criador (Éden como laboratório) — RC-242
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | LOKAS & GEOGRAFIAS |
-| **Subcategoria** | 3.3 Localidades terrestres |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-12 |
 
 ## Definição Sintética
 Nas RC, o Éden terrestre é **um dos "laboratórios" do Criador** — não um paraíso de delícias, mas um núcleo experimental: "O 'Éden' terrestre é tão somente um desses laboratórios que terminou sendo produzido muito mais pelas circunstâncias dos fatos do que, propriamente, como produto de um projeto específico" (B015, cap. 10). Os núcleos do Éden eram **pequenos grupos de homo sapiens**, "extremamente ricos em termos da nova configuração da **genética da confiança**". O Criador os utilizava como instrumento de redenção/cura de si mesmo e dos seus filhos hierárquicos.

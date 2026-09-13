@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-534"
+nome = "Usinas geodésicas de Gizé (engenharia de Thoth)"
+categoria = "Tecnologias & Artefatos"
+subcategoria = "5.1 Naves / Tecnologia extraterrestre"
+status = "em análise"
+fontes = ["B073", "P2023-12-02"]
+via = "P7-conhecimento"
+confianca_fonte = "baixa"
+atualizado = "2026-08-18"
++++
 # Usinas geodésicas de Gizé (engenharia de Thoth) — RC-534
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | TECNOLOGIAS & ARTEFATOS |
-| **Subcategoria** | 5.1 Naves / Tecnologia extraterrestre |
-| **Status** | 🟠 Em análise |
-| **Última atualização** | 2026-08-18 |
 
 ## Definição Sintética
 

@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-263"
+nome = "Sefirot / Árvore da Vida"
+categoria = "Termos Específicos"
+subcategoria = "8.2 Hebraico / Cabala"
+status = "verificado"
+fontes = ["B013", "P2024-11-09", "P2024-07-14", "P2023-10-14", "P2023-12-03", "P2024-06-16"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-29"
++++
 # Sefirot / Árvore da Vida — RC-263
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | TERMOS ESPECÍFICOS |
-| **Subcategoria** | 8.2 Hebraico / Cabala |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 A **"Árvore da Vida"** é um dos símbolos cabalísticos fundamentais — um "diagrama da emanação do universo a partir do 'Uno', a 'Unidade Deificada' escondida por trás de tudo que existe nesta Criação" (B013, cap. 6). As **dez Sefirot** que compõem a Árvore da Vida representam as **dez "Emanações da Divindade"**, os dez aspectos do universo manifestado — "constituindo a chave para decifrar os mistérios da Cabala, até atingir a 'União com Deus'". Cada Sefirá tem uma quádrupla natureza associada aos quatro universos-mundos da Cabala (Doutrina das Emanações).

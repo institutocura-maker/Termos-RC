@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-321"
+nome = "Castas Trimurtianas"
+categoria = "Genealogias & Linhagens"
+subcategoria = "6.2 Linhagens humanas"
+status = "verificado"
+fontes = ["B023", "P2024-11-30", "P2023-10-14", "P2022-03-26", "P2021-02-28"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-28"
++++
 # Castas Trimurtianas — RC-321
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | GENEALOGIAS & LINHAGENS |
-| **Subcategoria** | 6.2 Linhagens humanas |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 O sistema de castas conforme revelado em *O Dharma e as Castas Hindus* (B023, cap. 4): surgiu pela primeira vez na Terra **em dois focos de aglomerados não humanos** — "um situado entre os povos hiperbóreos, no Norte, e um outro da tradição Kumari Kandan, no sul da Índia" (cerca de 20 mil anos atrás). As castas eram o critério organizacional dos "deuses" para **o refino de certas áreas do genoma demo-homo** — "as 'cobaias terráqueas' disso jamais tiveram sabido".

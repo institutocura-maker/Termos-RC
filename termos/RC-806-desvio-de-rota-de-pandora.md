@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-806"
+nome = "Desvio de Rota de Pandora (Contra o Plano de Zeus)"
+categoria = "Eventos & Eras"
+subcategoria = "7.1 Guerras / Rebeliões / Conflitos"
+status = "verificado"
+fontes = ["P2017-05-14", "P2018-02-24", "P2025-04-06"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-30"
++++
 # Desvio de Rota de Pandora (Contra o Plano de Zeus) — RC-806
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | EVENTOS & ERAS |
-| **Subcategoria** | 7.1 Guerras / Rebeliões / Conflitos |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-30 |
 
 ## Definição Sintética
 Tese (leitura do autor, palestra **P2017-05-14 — O Desvio de Rota de Pandora e o Quarto Logos Universal**, U0005) de que **Pandora (RC-086) se desvia do plano original de Zeus (RC-149)**. Zeus queria que Pandora fosse "presente funesto" (vírus) para Epimeteu (RC-302) como vingança contra Prometeu (RC-301). Mas os 12 do Olimpo inocularam Kalil Kadmon (RC-299) com o **melhor DNA deles** (não o pior), e Pandora — em vez de contaminar os humanos — se apaixonou pelos homo sapiens (RC-099) das fazendas de Epimeteu, se metamorfoseou em mulher e **gerou a linhagem racional da humanidade**. O "desvio de rota" é o **núcleo da tese cosmogônica** da palestra. Ver RC-086, RC-149, RC-302, RC-301, RC-299, RC-179 (Pirra).

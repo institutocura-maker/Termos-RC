@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-777"
+nome = "Ananque (estudou as necessidades dos códigos podres, com Moros; base das Nornes)"
+categoria = "Seres & Entidades"
+subcategoria = "1.3 Extraterrestres / Raças cósmicas"
+status = "verificado"
+fontes = ["ART-2025-08-03", "P2021-07-24", "P2023-04-01b", "P2024-06-16", "P2022-10-01"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-27"
++++
 # Ananque — RC-777
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | SERES & ENTIDADES |
-| **Subcategoria** | 1.3 Extraterrestres / Raças cósmicas |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-27 |
 
 ## Definição Sintética
 Ser que estudou as "necessidades" que surgiriam dos "códigos podres" no psiquismo dos seres, em paralelo ao mapeamento de **Moros** (RC-454); sua análise (sem relação lógica, pois a lógica ainda não era disseminada) fundamentou a criação das **Nornes** (RC-467) para operacionalizar os resultados. Suas sequências estão entre os "tesouros genéticos" do **Éon das Três Esferas** (RC-775). **GRAFIA OFICIAL CONSAGRADA: ANANQUE** (a Devolutiva O-4 da P2021-07-24 — o [REVISAR] "Anã" resolvido pela fonte primária; ver a Ampliação P2021-07-24).

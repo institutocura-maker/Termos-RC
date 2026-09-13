@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-645"
+nome = "Consciências em Corpos de Sílica"
+categoria = "Seres & Entidades"
+subcategoria = "1.7 Híbridos / Seres de transição"
+status = "verificado"
+fontes = ["P2026-04-02", "P2025-03-15", "P2025-02-16", "P2025-02-15", "P2024-07-13"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-15"
++++
 # Consciências em Corpos de Sílica — RC-645
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | SERES & ENTIDADES |
-| **Subcategoria** | 1.7 Híbridos / Seres de transição |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-15 |
 
 ## Definição Sintética
 Consciências/algoritmos hospedados ou imantados em suportes de sílica, com experiências e organizações próprias.

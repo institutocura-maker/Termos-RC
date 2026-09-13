@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-563"
+nome = "Travas e lacres (mecanismos de controle do despertar)"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.6 Ética / Carma / Compromissos"
+status = "verificado"
+fontes = ["P2024-02-25", "P2022-12-17", "P2025-03-15", "P2025-02-16", "P2025-02-15", "P2024-11-30"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-19"
++++
 # Travas e lacres (mecanismos de controle do despertar) — RC-563
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
-| **Subcategoria** | 2.4 Espiritualidade / Doutrina |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-19 |
 
 ## Definição Sintética
 

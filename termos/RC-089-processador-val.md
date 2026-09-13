@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-089"
+nome = "Processador Val"
+categoria = "Tecnologias & Artefatos"
+subcategoria = "5.1 Naves / Tecnologia extraterrestre"
+status = "em análise"
+fontes = ["B031", "B017", "B018", "B039", "P2026-04-02", "P2020-04-25", "P2022-03-26", "P2023-12-03", "P2021-01-30", "P2017-10-14", "P2018-12-15"]
+via = "P7-conhecimento"
+confianca_fonte = "baixa"
+atualizado = "2026-08-29"
++++
 # Processador Val — RC-089
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | Tecnologias & Artefatos |
-| **Subcategoria** | 5.1 Naves / Tecnologia extraterrestre |
-| **Status** | 🟠 Em análise |
-| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 

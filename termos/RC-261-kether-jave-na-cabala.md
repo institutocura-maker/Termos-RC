@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-261"
+nome = "Kether (Javé na Cabala)"
+categoria = "Seres & Entidades"
+subcategoria = "1.1 Divindades / Criadores"
+status = "verificado"
+fontes = ["B013", "B060", "P2024-07-14", "P2023-10-14", "P2023-12-03", "P2025-05-10"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-29"
++++
 # Kether (Javé na Cabala) — RC-261
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | SERES & ENTIDADES |
-| **Subcategoria** | 1.1 Divindades / Criadores |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 **Kether** é o nome pelo qual o **Criador (Javé/Brahma)** é designado na Cabala — a "Coroa" da Árvore da Vida, o Criador referido no subtítulo de B013: "a Criação (Daath), o Criador (Kether/Javé)". Na correspondência cabalística das RC, **Kether = Javé = Brahma**, residente no nível **Yetzirah** da Cabala (o Brahmaloka): "o universo antimaterial, paralelo e vizinho ao que vivemos, no qual reside o Criador 'caído' Kether, também chamado de 'Javé' e de 'Brahma'" (B013, cap. 6).

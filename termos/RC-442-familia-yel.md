@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-442"
+nome = "Família Yel"
+categoria = "Genealogias & Linhagens"
+subcategoria = "6.3 Dinastias extraterrestres"
+status = "verificado"
+fontes = ["B057", "B058", "P2020-08-08", "P2021-03-13", "P2021-09-04", "P2020-04-25", "P2022-03-26", "P2023-12-03"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-29"
++++
 # Família Yel — RC-442
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | GENEALOGIAS & LINHAGENS |
-| **Subcategoria** | 6.3 Dinastias extraterrestres |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 Estirpe capelina da qual **Yel Luzbel (Lúcifer)** é integrante — a mais mencionada na narrativa psicografada de Jeane Miranda ("Os Livros de Yel Luzbel"). Segundo B057, a família Yel foi urdida há cerca de **492 milhões de anos** e era composta por **5.545 seres**, todos ligados entre si pelo **"Processador Yel"**. Yel Luzbel exercia o cargo de **Primeiro Pesquisador** da família. (Cronologia e números: narrativa psicografada — a confirmar nas obras primárias de Ellam.)

@@ -1,9 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-673"
+nome = "Intercessão de Enoque pelos Anunnaki"
+categoria = "Eventos & Eras"
+subcategoria = "7.5 Missões / Expedições / Encontros"
+status = "em análise"
+fontes = ["P2025-05-31", "P2023-12-02", "P2023-10-14", "P2023-12-03"]
+via = "P7-conhecimento"
+confianca_fonte = "baixa"
+atualizado = "2026-08-29"
++++
 # Intercessão de Enoque pelos Anunnaki — RC-673
-
-| Campo | Valor |
-|---|---|
-| **Status** | 🟠 Em análise |
-| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 Termo extraído e aprovado na curadoria de P2025-05-31.

@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-660"
+nome = "Pegadinha de Javé"
+categoria = "Eventos & Eras"
+subcategoria = "7.5 Missões / Expedições / Encontros"
+status = "em análise"
+fontes = ["P2025-06-26"]
+via = "P7-conhecimento"
+confianca_fonte = "baixa"
+atualizado = "2026-08-15"
++++
 # Pegadinha de Javé — RC-660
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | EVENTOS & ERAS |
-| **Subcategoria** | 7.5 Missões / Expedições / Encontros |
-| **Status** | 🟠 Em análise |
-| **Última atualização** | 2026-08-15 |
 
 ## Definição Sintética
 Estratégia atribuída a Javé para constranger e gerar karma entre Quirino Cornélio e Jesus.

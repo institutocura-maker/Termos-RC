@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-558"
+nome = "Sensação de eu (a sensação particular a cada instante)"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.5 Propósitos / Destinos"
+status = "verificado"
+fontes = ["P2024-02-25", "P2026-07-30", "P2025-03-15", "P2025-02-15", "P2024-11-09", "P2025-06-14b", "P2024-03-02"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-19"
++++
 # Sensação de eu (a sensação particular a cada instante) — RC-558
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
-| **Subcategoria** | 2.4 Espiritualidade / Doutrina |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-19 |
 
 ## Definição Sintética
 

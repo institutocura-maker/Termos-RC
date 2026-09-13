@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-355"
+nome = "Fator Extraterrestre (o Elo Perdido)"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.5 Propósitos / Destinos"
+status = "verificado"
+fontes = ["B005", "B042"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-12"
++++
 # Fator Extraterrestre (o Elo Perdido) — RC-355
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
-| **Subcategoria** | 2.5 Propósitos / Destinos |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-12 |
 
 ## Definição Sintética
 O **fator extraterrestre** é "o elo perdido" da origem humana — a **componente extraterrena na nossa história que responde pela nossa origem** (B005, cap. 12): "Eis o elo perdido: a componente extraterrena na nossa história que responde pela nossa origem." O termo-título da obra de 2004 (B005) designa o conjunto de evidências — desde o princípio dos tempos — de que seres de outros mundos interferiram na história terrestre, dos anjos decaídos às mitologias.

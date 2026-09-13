@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-513"
+nome = "Espiritualidade Errática (4ª faixa manifestada)"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.3 Dimensões / Planos de existência"
+status = "verificado"
+fontes = ["B060", "B071", "P2021-12-04", "P2024-05-04", "P2025-03-15", "P2024-11-09", "P2024-07-14", "P2024-03-03", "P2024-04-14", "P2025-06-14b", "P2023-12-03", "P2022-10-01", "P2022-09-25", "P2022-09-18", "P2022-07-16"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-29"
++++
 # Espiritualidade Errática (4ª faixa manifestada) — RC-513
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | Conceitos Cosmológicos |
-| **Subcategoria** | 2.3 Dimensões / Planos de existência |
-| **Status** | 🟢 Verificado (candidatura aprovada pelo curador) |
-| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 

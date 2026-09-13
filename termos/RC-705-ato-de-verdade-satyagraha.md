@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-705"
+nome = "Ato de Verdade / Satyagraha"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.6 Ética / Carma / Compromissos"
+status = "verificado"
+fontes = ["P2025-02-15", "P2024-11-09", "P2024-09-29", "P2024-03-03", "P2023-11-19", "P2025-07-18", "P2023-12-03"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-29"
++++
 # Ato de Verdade / Satyagraha — RC-705
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
-| **Subcategoria** | 2.6 Ética / Carma / Compromissos |
-| **Status** | 🟢 Verificado (candidatura aprovada pelo curador) |
-| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 Ancoragem consciente numa verdade íntima demonstrada pela própria conduta, produzindo força moral e informacional sem depender de recompensa, reconhecimento ou convencimento externo.

@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-728"
+nome = "Fantasmas do Passado Mitológico"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.5 Propósitos / Destinos"
+status = "verificado"
+fontes = ["P2024-11-02"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-16"
++++
 # Fantasmas do Passado Mitológico — RC-728
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
-| **Subcategoria** | 2.5 Propósitos / Destinos |
-| **Status** | 🟢 Verificado (candidatura aprovada pelo curador) |
-| **Última atualização** | 2026-08-16 |
 
 ## Definição Sintética
 

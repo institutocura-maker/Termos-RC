@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-938"
+nome = "Livre-arbítrio"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.2 Leis e princípios cósmicos"
+status = "provisório"
+fontes = []
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-09-06"
++++
 # LIVRE-ARBÍTRIO — RC-938
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | Conceitos Cosmológicos |
-| **Subcategoria** | 2.2 Leis e princípios cósmicos |
-| **Status** | 🟡 provisório |
-| **Última atualização** | 2026-09-06 |
 
 ## Definição Sintética
 Capacidade de decisão ou independência — o princípio que torna o «impróprio para o manejo» arriscável e a Reintegração métrica, tal como o corpus o pressupõe.

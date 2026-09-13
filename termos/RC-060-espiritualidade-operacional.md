@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-060"
+nome = "Espiritualidade Operacional"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.3 Dimensões / Planos de existência"
+status = "em análise"
+fontes = ["B031", "B013", "B051", "B060", "P2021-12-04", "P2024-05-04", "P2025-02-15", "P2024-11-30", "P2024-11-09", "P2024-07-14", "P2023-06-17", "P2023-12-03", "P2020-04-04"]
+via = "P7-conhecimento"
+confianca_fonte = "baixa"
+atualizado = "2026-09-07"
++++
 # Espiritualidade Operacional — RC-060
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
-| **Subcategoria** | 2.3 Dimensões / Planos de existência |
-| **Status** | 🟠 Em análise |
-| **Última atualização** | 2026-09-07 |
 
 ## Definição Sintética
 O primeiro desdobramento da Espiritualidade Superior (RC-059): o nível criado para que os seres puros pudessem experimentar a imperfeição por meio de uma «vestimenta espiritual» — o corpo búdico. É o degrau intermediário entre a perfeição obrigatória e a Espiritualidade Laboratorial (RC-061).

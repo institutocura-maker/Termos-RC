@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-565"
+nome = "Hochmah (2ª Sefirah — Sabedoria; = Sophia)"
+categoria = "Termos Específicos"
+subcategoria = "8.2 Hebraico / Cabala"
+status = "verificado"
+fontes = ["B060", "B013", "P2024-02-25", "P2024-07-14", "P2024-04-13", "P2026-08-04", "P2023-06-03", "P2023-05-20", "P2023-04-15", "P2023-04-01", "P2023-04-29", "P2020-04-18", "P2020-09-19", "P2021-05-08", "P2022-09-24", "P2023-04-01b", "P2024-11-03", "P2025-02-22", "P2023-10-14", "P2024-06-16", "P2025-05-10", "P2023-02-11", "P2022-12-03", "P2023-12-25-02", "P2020-04-04"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-28"
++++
 # Hochmah — RC-565
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | TERMOS ESPECÍFICOS |
-| **Subcategoria** | 8.2 Hebraico / Cabala |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 

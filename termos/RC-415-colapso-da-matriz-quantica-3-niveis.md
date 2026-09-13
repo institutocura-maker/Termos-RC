@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-415"
+nome = "Colapso da Matriz Quântica (3 níveis)"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.3 Dimensões / Planos de existência"
+status = "em análise"
+fontes = ["B051", "P2021-12-04", "P2024-05-04", "P2025-03-15", "P2025-02-15", "P2024-11-09", "P2023-12-03"]
+via = "P7-conhecimento"
+confianca_fonte = "baixa"
+atualizado = "2026-08-29"
++++
 # Colapso da Matriz Quântica (3 níveis) — RC-415
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
-| **Subcategoria** | 2.3 Dimensões / Planos de existência |
-| **Status** | 🟠 Em análise |
-| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 A estrutura da realidade espiritual em **3 níveis de colapso da Matriz Quântica**, conforme o Diagrama Geral de Ligações (B051):

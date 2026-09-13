@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-099"
+nome = "Seres Terrenos (Homo Sapiens)"
+categoria = "Seres & Entidades"
+subcategoria = "1.6 Figuras humanas (históricas/míticas)"
+status = "verificado"
+fontes = ["B031", "B039", "B023", "B048", "B003", "B026", "B005", "B049", "B041", "B006", "B050", "B034", "B036", "B040", "B052", "B061", "P2025-03-15", "P2025-02-16", "P2025-02-15", "P2024-11-30", "P2024-11-09"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-09-07"
++++
 # Seres Terrenos (Homo Sapiens) — RC-099
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | SERES & ENTIDADES |
-| **Subcategoria** | 1.6 Figuras humanas (históricas/míticas) |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-09-07 |
 
 ## Definição Sintética
 A espécie humana na leitura da Revelação Cósmica: o ser terreno atual (Homo sapiens), habitante do Universo Material (RC-107) e portador do DNA como projeção holográfica do psiquismo do Criador (RC-217). Não é apresentado como produto de evolução darwiniana nem de criação divina direta, mas como resultado de sucessivas levas genéticas e de um projeto de semeadura, e como candidato à especiação (RC-056) que produz a Criatura Universal (RC-042).

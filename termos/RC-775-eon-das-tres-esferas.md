@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-775"
+nome = "Éon das Três Esferas (superloka/geno; repositório de tesouros genéticos do Projeto TALM)"
+categoria = "Lokas & Geografias"
+subcategoria = "3.4 Regiões cósmicas / Portais"
+status = "provisório"
+fontes = ["ART-2025-08-03"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-21"
++++
 # Éon das Três Esferas — RC-775
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | LOKAS & GEOGRAFIAS |
-| **Subcategoria** | 3.4 Regiões cósmicas / Portais |
-| **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-21 |
 
 ## Definição Sintética
 "Superloka" ou "geno" — estrutura concebida por **Mohen So** (RC-081) e a **Trimurti** (RC-104) no universo antimaterial como vasto repositório de "tesouros genéticos" do **Projeto TALM** (RC-091). Abriga as **Três Esferas** (Brahma cinzenta · Vishnu esverdeada opaca · Shiva amarronzada) como ambientes experimentais, além do satélite-laboratório de Mohen So. É a única estrutura organizada do universo vizinho que sobreviverá à sua desagregação.

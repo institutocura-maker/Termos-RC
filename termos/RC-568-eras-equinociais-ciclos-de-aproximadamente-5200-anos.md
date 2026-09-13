@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-568"
+nome = "Eras Equinociais (ciclos de aproximadamente 5.200 anos)"
+categoria = "Eventos & Eras"
+subcategoria = "7.2 Eras / Épocas / Ciclos"
+status = "verificado"
+fontes = ["P2022-12-17", "P2025-02-16", "P2024-09-29"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-14"
++++
 # Eras Equinociais (ciclos de aproximadamente 5.200 anos) — RC-568
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | EVENTOS & ERAS |
-| **Subcategoria** | 7.2 Eras / Épocas / Ciclos |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-14 |
 
 ## Definição Sintética
 Na taxonomia temporal da palestra, cinco subdivisões de aproximadamente 5.120/5.200 anos dentro de um ciclo de precessão de cerca de 26 mil anos.

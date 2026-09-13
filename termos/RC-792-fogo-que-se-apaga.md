@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-792"
+nome = "Fogo que se Apaga (Fogo de Prometeu Hoje)"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.2 Leis e princípios cósmicos"
+status = "verificado"
+fontes = ["P2025-04-06"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-30"
++++
 # Fogo que se Apaga (Fogo de Prometeu Hoje) — RC-792
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
-| **Subcategoria** | 2.2 Leis e princípios cósmicos |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-30 |
 
 ## Definição Sintética
 Tese (leitura do autor, **mediúnica literal de Pandora**, palestra **P2025-04-06**, U0005) de que o **"fogo"** que **Prometeu (RC-301)** trouxe à humanidade via **insidiosa interferência no pacote genético** (produzido por Prometeu, Hefaístos e Atena, destinado a **Pandora (RC-086)**) — **"não é mais visto a movimentar a consciência dos humanos"**. **Apagou-se**. Pandora diz: "aqui eu me apago". A metáfora é que o dom da racionalidade filosófica e da dignidade existencial está em **extinção** na humanidade atual, e **Pandora desiste** de carregá-lo. Ver RC-086 (Pandora), RC-301 (Prometeu), RC-788 (Revolução Inacabada), RC-149 (Hefaístos).

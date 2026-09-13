@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-600"
+nome = "Seres Originais do Paraíso"
+categoria = "Seres & Entidades"
+subcategoria = "1.2 Coletivos criadores"
+status = "verificado"
+fontes = ["P2021-12-04", "P2026-07-30", "P2024-05-04", "P2024-11-09", "P2024-07-14", "P2023-04-01b", "P2022-03-26"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-28"
++++
 # Seres Originais do Paraíso — RC-600
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | SERES & ENTIDADES |
-| **Subcategoria** | 1.2 Coletivos criadores |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 Família/espécie primordial do Paraíso Original, anterior à diferenciação em gêneros e espécies dos níveis Operacional e Laboratorial.

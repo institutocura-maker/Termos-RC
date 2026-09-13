@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-829"
+nome = "Memória dos Elétrons e Arcanos"
+categoria = "Processos & Fenômenos"
+subcategoria = "4.4 Fenômenos físicos / energéticos"
+status = "verificado"
+fontes = ["P2023-12-17"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-31"
++++
 # Memória dos Elétrons e Arcanos — RC-829
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | CONCEITOS QUÂNTICOS |
-| **Subcategoria** | 3.4 Mecânica quântica / Informação |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-31 |
 
 ## Definição Sintética
 Tese (leitura do autor, palestra **P2023-12-17**, U0003/U0004) de que os **elétrons (RC-162) guardam memórias de tudo que existiu** (universo vizinho + nosso). **"Arcanos"** são memórias antigas que se transformaram em "conceitos mentais à parte" — entidades autônomas no psiquismo dos elétrons. A **rebelião dos elétrons (RC-826)** desfaz esses arcanos. **Experimento de Charon** (físico nuclear francês dos anos 70) confirma matematicamente. Ver RC-162 (Elétron), RC-099 (Homo Sapiens), RC-161 (Memória Quântica dos Elétrons), RC-826 (Rebelião dos Elétrons), RC-832 (Pulsação dos Elétrons), RC-829-154 (Inconsciente Coletivo de Jung — paralelo formal).

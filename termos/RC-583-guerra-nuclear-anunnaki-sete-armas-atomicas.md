@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-583"
+nome = "Guerra Nuclear Anunnaki (Sete Armas Atômicas)"
+categoria = "Eventos & Eras"
+subcategoria = "7.1 Guerras / Rebeliões / Conflitos"
+status = "verificado"
+fontes = ["P2022-12-17", "P2023-05-20", "P2021-05-15", "P2023-10-14"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-28"
++++
 # Guerra Nuclear Anunnaki (Sete Armas Atômicas) — RC-583
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | EVENTOS & ERAS |
-| **Subcategoria** | 7.1 Guerras / Rebeliões / Conflitos |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 Conflito entre clãs Anunnakis com uso de sete armas atômicas atribuídas a Nibiru, relacionado na palestra às destruições de Sodoma e Gomorra.

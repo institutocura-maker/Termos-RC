@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-046"
+nome = "Dan"
+categoria = "Lokas & Geografias"
+subcategoria = "3.1 Planetas / Sistemas estelares"
+status = "verificado"
+fontes = ["B031", "B057", "B058", "P2023-12-03"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-29"
++++
 # Dan — RC-046
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | LOKAS & GEOGRAFIAS |
-| **Subcategoria** | 3.1 Planetas / Sistemas estelares |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 **Dan** é o "mundo" do sistema de Capela (RC-039) no qual Yel Luzbel (RC-078) nasceu — descrito como uma **grande nave-laboratório** onde os membros das famílias de capelinos eram urdidos ("nascemos 'prontos', ou seja, já habilitados para atuarmos como cientistas e pesquisadores"). Era administrado por seres que, confrontados com as questões de Yel Luzbel, "levaram um grande susto".

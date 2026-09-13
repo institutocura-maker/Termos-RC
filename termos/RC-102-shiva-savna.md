@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-102"
+nome = "Shiva (Savna)"
+categoria = "Seres & Entidades"
+subcategoria = "1.1 Divindades / Criadores"
+status = "verificado"
+fontes = ["B031", "B024", "B044", "B001", "B033", "B016", "B020", "B021", "B022", "B050", "B051", "B036", "B060", "B037", "P2022-12-17", "P2021-12-04", "P2026-07-30", "P2024-05-04", "P2025-03-15", "P2025-02-16", "P2024-11-30", "P2024-11-09", "P2024-07-14", "P2025-11-29", "P2023-06-24", "P2023-04-15", "P2023-04-29", "P2020-07-04", "P2020-05-09", "P2024-11-03", "P2025-02-22", "P2021-05-15", "P2023-10-14", "P2022-03-26", "P2022-05-07", "P2024-06-16", "P2012-02-19", "P2022-12-03", "P2022-07-16", "P2026-03-21", "P2021-04-10", "P2021-06-26", "P2022-09-17", "P2023-12-25-01", "P2020-04-04"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-28"
++++
 # Shiva (Savna) — RC-102
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | SERES & ENTIDADES |
-| **Subcategoria** | 1.1 Divindades / Criadores |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 

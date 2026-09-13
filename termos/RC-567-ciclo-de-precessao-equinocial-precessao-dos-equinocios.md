@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-567"
+nome = "Ciclo de Precessão Equinocial (Precessão dos Equinócios)"
+categoria = "Eventos & Eras"
+subcategoria = "7.2 Eras / Épocas / Ciclos"
+status = "verificado"
+fontes = ["P2022-12-17", "P2025-02-16", "P2024-09-29", "P2021-04-10", "P2022-09-17"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-14"
++++
 # Ciclo de Precessão Equinocial (Precessão dos Equinócios) — RC-567
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | EVENTOS & ERAS |
-| **Subcategoria** | 7.2 Eras / Épocas / Ciclos |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-14 |
 
 ## Definição Sintética
 Ciclo astronômico de aproximadamente 25.920 anos usado, na palestra, como métrica temporal para organizar a cronologia terrestre e a percepção de seres longevos.

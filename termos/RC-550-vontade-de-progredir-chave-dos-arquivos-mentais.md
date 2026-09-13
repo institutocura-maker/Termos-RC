@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-550"
+nome = "Vontade de Progredir (chave dos arquivos mentais)"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.6 Ética / Carma / Compromissos"
+status = "verificado"
+fontes = ["B074", "B075", "P2025-02-15"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-25"
++++
 # Vontade de Progredir — RC-550
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
-| **Subcategoria** | 2.6 Ética / Carma / Compromissos |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-25 |
 
 ## Definição Sintética
 **Vontade de Progredir** é uma das duas "chaves" pelas quais o psiquismo humano abre e fecha os **Arquivos Mentais** (RC-548) de modo **consciente** — em oposição ao aparente acaso do **Circuito do CHA** (RC-549). É a "chave da soberania espiritual": a "Vontade Maior" do Espírito encarnado atuando sobre o "ego transitório", que se efetiva quando a compreensão pessoal é "esclarecida". Segundo Ellam, constitui o primeiro item da "agenda espiritual" do ser humano.

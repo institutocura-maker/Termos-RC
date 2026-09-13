@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-226"
+nome = "Cidadão Cósmico"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.5 Propósitos / Destinos"
+status = "verificado"
+fontes = ["B033", "B027", "B042"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-12"
++++
 # Cidadão Cósmico — RC-226
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
-| **Subcategoria** | 2.5 Propósitos / Destinos |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-12 |
 
 ## Definição Sintética
 O ser humano **consciente de sua pertença ao circuito cósmico** — aquele que, "apesar do isolamento", surge como cidadão do cosmo, apto a conviver com outras civilizações quando o isolamento da Terra terminar (B033, cap. 9). "Apesar do isolamento, o cidadão cósmico pretendido surgiu neste palco planetário. Contudo, ele ainda precisa ser bastante melhorado." O conceito está ligado ao **Manifesto da Cidadania Planetária** (Projeto Orbum) e à **Reintegração Cósmica**: cidadãos planetários formando "uma só família ante o Cosmos".

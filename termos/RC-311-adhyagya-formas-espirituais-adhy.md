@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-311"
+nome = "Adhyagya (formas espirituais Adhy)"
+categoria = "Seres & Entidades"
+subcategoria = "1.8 Consciências coletivas / Logos"
+status = "verificado"
+fontes = ["B022"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-12"
++++
 # Adhyagya (formas espirituais Adhy) — RC-311
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | SERES & ENTIDADES |
-| **Subcategoria** | 1.8 Consciências coletivas / Logos |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-12 |
 
 ## Definição Sintética
 Formas espirituais dos seres Adhy mencionadas em *Inquisição Trimurtiana* (B022, Introdução): "vi-me como que sonhando, tendo uma longa conversa com os espíritos — as suas formas **Adhyagya** — que respondem pelas formas trimurtianas (expressões Adhydaiva edificadas após o 'mergulho' nesta Criação) de Vishnu e Shiva". Ou seja, as formas Adhyagya são os **espíritos (consciências espirituais) por trás das formas Adhydaiva** de Vishnu e Shiva — o nível espiritual que responde pelas divindades da Trimurti.

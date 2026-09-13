@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-241"
+nome = "Seres dos Portais"
+categoria = "Seres & Entidades"
+subcategoria = "1.5 Decaídos / Exilados / Demônios"
+status = "em análise"
+fontes = ["B017", "B018", "B039", "B031", "B021", "P2022-12-17", "P2023-12-03"]
+via = "P7-conhecimento"
+confianca_fonte = "baixa"
+atualizado = "2026-08-29"
++++
 # Seres dos Portais — RC-241
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | SERES & ENTIDADES |
-| **Subcategoria** | 1.5 Decaídos / Exilados / Demônios |
-| **Status** | 🟠 Em análise |
-| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 Classe de **demos extrafísicos do universo antimaterial** que, nas RC, correspondem aos **"deuses" das mitologias** — notadamente os **deuses gregos** (e seus descendentes, como os Titãs), os nórdicos (Odin, Thor, Loki), os "gênios" árabes e outros seres lendários. A expressão aparece em B031 ("os 'Seres dos Portais' (Deuses da Mitologia Grega)") e é central na trilogia Terra Atlantis: "Ao tempo em que descortinámos os 'seres dos portais', sabíamos que eles viviam, tanto nas suas 'moradas invisíveis ou astrais' — camufladas por energia de alto padrão mental e nível de arquitetura singular —, quanto nos mundos deste universo, como era o caso da Terra" (B018, cap. 1).

@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-243"
+nome = "Genética da Confiança"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.2 Leis e princípios cósmicos"
+status = "provisório"
+fontes = ["B015", "B040", "P2025-02-15"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-12"
++++
 # Genética da Confiança — RC-243
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
-| **Subcategoria** | 2.2 Leis e princípios cósmicos |
-| **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-12 |
 
 ## Definição Sintética
 Nova configuração genética surgida nos núcleos edênicos: os pequenos grupos de homo sapiens escolhidos pelo Criador eram "extremamente ricos em termos da nova configuração da **genética da confiança**, base do que os terráqueos entendem como **atração, desejo e amor**" (B015, cap. 10). O "efeito confiança" foi semeado na configuração do código genético das criaturas — a base psíquica que permite a cooperação, o vínculo e o amor entre os seres, ausente nas gerações diretas do Criador.

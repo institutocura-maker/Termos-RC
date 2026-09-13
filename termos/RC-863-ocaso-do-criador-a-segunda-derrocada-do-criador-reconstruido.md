@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-863"
+nome = "Ocaso do Criador (a segunda derrocada do criador reconstruído)"
+categoria = "Eventos & Eras"
+subcategoria = "7.4 Catástrofes / Dilúvios / Quedas"
+status = "em análise"
+fontes = ["P2022-12-03", "P2022-09-18"]
+via = "P7-conhecimento"
+confianca_fonte = "baixa"
+atualizado = "2026-09-01"
++++
 # Ocaso do Criador (a segunda derrocada do criador reconstruído) — RC-863
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | Eventos & Eras |
-| **Subcategoria** | 7.4 Catástrofes / Dilúvios / Quedas |
-| **Status** | 🟠 Em análise |
-| **Última atualização** | 2026-09-01 |
 
 ## Definição Sintética
 

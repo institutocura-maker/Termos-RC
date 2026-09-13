@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-463"
+nome = "Hermes Trismegisto (= Ningishzidda/Thoth/Quetzalcóatl)"
+categoria = "Seres & Entidades"
+subcategoria = "1.6 Figuras humanas (históricas/míticas)"
+status = "verificado"
+fontes = ["B060", "P2023-12-02", "P2025-11-29", "P2022-09-17"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-18"
++++
 # Hermes Trismegisto (= Ningishzidda / Thoth / Quetzalcóatl / Viracocha) — RC-463
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | SERES & ENTIDADES |
-| **Subcategoria** | 1.6 Figuras humanas (históricas/míticas) |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-18 |
 
 ## Definição Sintética
 **Hermes Trismegisto** ("Hermes, o três vezes grande") é a figura sincrética greco-egípcia que, no material de apoio de aluno de Ellam (B060), agrega **quatro grandes manifestações**: **Ningishzidda** (Anunnaki, filho de Enki), **Tehuti/Thoth** (Egípcia), **Quetzalcóatl** (Asteca) e **Viracocha** (Inca). A equivalência reforça o pano de fundo "Anunnaki por trás das mitologias" da Revelação Cósmica e se conecta à figura de **Apolônio de Tiana** (encarnação do Quarto Logos, RC-259).

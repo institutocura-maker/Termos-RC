@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-416"
+nome = "Cartas a Javé (obra e diálogo)"
+categoria = "Tecnologias & Artefatos"
+subcategoria = "5.4 Escrituras / Objetos documentais"
+status = "verificado"
+fontes = ["B034", "B036"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-13"
++++
 # Cartas a Javé (obra e diálogo) — RC-416
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | TECNOLOGIAS & ARTEFATOS |
-| **Subcategoria** | 5.4 Escrituras / Objetos documentais |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-13 |
 
 ## Definição Sintética
 *Cartas a Javé* (B034, 2014) é a obra em que **Mônica Camargo** escreveu 16 cartas ao Criador (enquanto lia os Dramas Espiritual e Terreno de Javé) e — surpreendentemente — **o destinatário respondeu**, valendo-se de Jan Val Ellam como intermediário. "Foi com surpresa que os autores foram percebendo que havia uma estratégia em curso para que o presente livro fosse produzido... o destinatário das mesmas — Senhor Javé — resolveu respondê-las, precisando, para tanto, de um intermediário que a reproduzisse para os olhos terrenos." É "um livro único, singular em seu conteúdo e revelador em seus propósitos".

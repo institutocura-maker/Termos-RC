@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-940"
+nome = "Samsara"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.4 Espiritualidade / Doutrina"
+status = "provisório"
+fontes = []
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-09-06"
++++
 # SAMSARA — RC-940
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | Conceitos Cosmológicos |
-| **Subcategoria** | 2.4 Espiritualidade / Doutrina |
-| **Status** | 🟡 provisório |
-| **Última atualização** | 2026-09-06 |
 
 ## Definição Sintética
 O ciclo continuado do renascimento e da morte; da perspectiva da RC, o circuito da Criação problemática do qual o Tikun é o conserto.

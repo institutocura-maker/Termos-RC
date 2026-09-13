@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-035"
+nome = "Bilatérios"
+categoria = "Seres & Entidades"
+subcategoria = "1.7 Híbridos / Seres de transição"
+status = "em análise"
+fontes = ["B031", "P2019-08-25", "P2024-05-04", "P2025-02-16", "P2024-04-13", "P2021-05-15", "P2020-04-25", "P2023-12-03", "P2022-05-07"]
+via = "P7-conhecimento"
+confianca_fonte = "baixa"
+atualizado = "2026-08-29"
++++
 # Bilatérios — RC-035
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | Seres & Entidades |
-| **Subcategoria** | 1.7 Híbridos / Seres de transição |
-| **Status** | 🟠 Em análise |
-| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 

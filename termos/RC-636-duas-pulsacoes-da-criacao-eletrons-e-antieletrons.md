@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-636"
+nome = "Duas Pulsações da Criação (elétrons e antielétrons)"
+categoria = "Processos & Fenômenos"
+subcategoria = "4.4 Fenômenos físicos / energéticos"
+status = "verificado"
+fontes = ["P2024-05-04", "P2025-03-15", "P2024-11-09", "P2022-12-03", "P2022-10-01", "P2022-09-18", "P2022-07-16", "P2021-02-28", "P2021-06-26"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-14"
++++
 # Duas Pulsações da Criação (elétrons e antielétrons) — RC-636
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | PROCESSOS & FENÔMENOS |
-| **Subcategoria** | 4.4 Fenômenos físicos / energéticos |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-14 |
 
 ## Definição Sintética
 Pulsação dos elétrons do universo material e dos antielétrons do universo antimaterial, unidas numa resultante simultânea que repercute no espírito criador.

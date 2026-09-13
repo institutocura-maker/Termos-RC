@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-448"
+nome = "Deslacre (rompimento dos lacres psíquicos)"
+categoria = "Processos & Fenômenos"
+subcategoria = "4.2 Fenômenos espirituais / mediúnicos"
+status = "provisório"
+fontes = ["B057", "B058", "P2022-12-17"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-25"
++++
 # Deslacre (rompimento dos lacres psíquicos) — RC-448
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | PROCESSOS & FENÔMENOS |
-| **Subcategoria** | 4.2 Fenômenos espirituais / mediúnicos |
-| **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-25 |
 
 ## Definição Sintética
 **Deslacre** é o conceito dos "Livros de Yel Luzbel" para o **rompimento dos "lacres mentais/psíquicos"** que condicionavam os biodemos de Capela à programação genética familiar: a individualização progressiva de seres coletivos, inaugurada por Yel Luzbel ("o 1º a abrir lacres mentais" — relação B057) e propagada pela sua "inquietação". No Livro 2, o processo ganha nome e escala: "os lacres que marcavam o psiquismo coletivo desses seres passaram a ser rompidos, dando lugar a um **senso de individualidade inquietante jamais intentado**".

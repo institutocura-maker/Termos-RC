@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-232"
+nome = "Ostronomos"
+categoria = "Seres & Entidades"
+subcategoria = "1.3 Extraterrestres / Raças cósmicas"
+status = "verificado"
+fontes = ["B017", "B018", "B060", "P2021-05-15"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-28"
++++
 # Ostronomos — RC-232
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | SERES & ENTIDADES |
-| **Subcategoria** | 1.3 Extraterrestres / Raças cósmicas |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 Espécie extraterrestre (raça intermediária) que aparece na trilogia Terra Atlantis: **"Ostronomos, pai dos que aqui estão comigo. Esta é a minha família, minha linhagem mais próxima, que comigo veio do mundo onde surgimos"** (B017, cap. 4). São seres que "praticam a partilha genética e procriam tais quais os animais deste mundo", autodenominam-se "passantes", dizem ser "bem mais velhos" que os demais e mortais — "facilmente morremos". O grupo é comandado por Sophia, de quem estavam apartados. (Em B031, o glossário refere-se à "Família de Ostronomos" como os 27 seres **Sirianos** ("anfíbios inteligentes") que interagiram com os exploradores Val Geon, Val Pen e Val Ilon num grande rio onde hoje é a China.)

@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-395"
+nome = "Ragnarok em Marte"
+categoria = "Eventos & Eras"
+subcategoria = "7.4 Catástrofes / Dilúvios / Quedas"
+status = "verificado"
+fontes = ["B050", "B060", "P2022-12-17", "P2025-02-16", "P2024-11-30", "P2024-11-02", "P2024-08-03", "P2024-03-02", "P2025-11-29", "P2023-08-05", "P2023-05-20", "P2023-04-01", "P2020-08-08", "P2021-03-13", "P2025-02-22", "P2021-05-15", "P2023-10-14", "P2023-12-03", "P2024-06-16", "P2022-12-03", "P2026-03-21"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-29"
++++
 # Ragnarok em Marte — RC-395
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | EVENTOS & ERAS |
-| **Subcategoria** | 7.4 Catástrofes / Dilúvios / Quedas |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 Evento registrado no **Guia das Eras Universais (Mapa)** (B050): **"Ragnarok em Marte, uma explosão que acabou com a atmosfera e diversas formas de vida do planeta. Morte de Odin, Thor, Remdel e Jorgamungand (300 milhões a.p.)"**. O Ragnarok da mitologia nórdica é reinterpretado como um evento real ocorrido **em Marte** (~300 milhões de anos antes do presente), que destruiu a atmosfera marciana e vitimou os deuses nórdicos (Odin, Thor, Jörmungandr) — demos da linhagem Aesir.

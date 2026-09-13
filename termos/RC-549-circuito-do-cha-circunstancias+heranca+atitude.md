@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-549"
+nome = "Circuito do CHA (Circunstâncias+Herança+Atitude)"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.2 Leis e princípios cósmicos"
+status = "verificado"
+fontes = ["B074", "P2025-02-15"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-13"
++++
 # Circuito do CHA — RC-549
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
-| **Subcategoria** | 2.2 Leis e princípios cósmicos |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-13 |
 
 ## Definição Sintética
 **Circuito do CHA** é, no Mentalma (B074, cap. 3), o "império das circunstâncias" — o circuito da vida que define os **Arquivos Mentais** (RC-548) que uma pessoa coleciona quando não há **Vontade de Progredir** (RC-550). A sigla **CHA** vem de: **C**ircunstâncias da vida; **H**erança espiritual (hábitos e habilidades do Espírito); **A**titude mental/espiritual. As circunstâncias (ou aparentes acasos) despertam a herança de hábitos e habilidades, que produzem tendências e inclinações psíquicas, que por sua vez cobram uma atitude — fechando o circuito, que se repete ou se renova conforme a postura pessoal.

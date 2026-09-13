@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-049"
+nome = "Demos"
+categoria = "Seres & Entidades"
+subcategoria = "1.5 Decaídos / Exilados / Demônios"
+status = "verificado"
+fontes = ["B031", "B044", "B035", "B021", "B022", "B023", "B050", "B052", "B060", "P2024-05-04", "P2025-02-16", "P2025-02-15", "P2024-11-30", "P2024-09-29", "P2024-03-03", "P2024-04-13", "P2021-05-15", "P2020-04-25", "P2022-03-26", "P2023-12-03", "P2025-06-14", "P2020-04-04"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-29"
++++
 # Demos — RC-049
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | SERES & ENTIDADES |
-| **Subcategoria** | 1.5 Decaídos / Exilados / Demônios |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 Também chamados de "demônios" ou "daemon" (cultura grega), são **seres extrafísicos e dementes** (demo = "demente") criados a partir do **DNA ou CFD (Código Fonte Definidor) do Criador**, após a classe dos anjos clones. Apesar da conotação negativa de "demônio", os demos do Brahmaloka (universo antimaterial) são apenas uma **classificação de seres** que se metamorfoseiam devido à condição molecular instável — não sendo nem bons nem maus (ou podendo ser ambos), como os anjos. Alguns são chamados de "deuses" nas mitologias (B031).

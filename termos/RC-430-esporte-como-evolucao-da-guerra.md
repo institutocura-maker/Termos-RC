@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-430"
+nome = "Esporte como evolução da Guerra"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.5 Propósitos / Destinos"
+status = "provisório"
+fontes = ["B040"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-13"
++++
 # Esporte como evolução da Guerra — RC-430
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
-| **Subcategoria** | 2.5 Propósitos / Destinos |
-| **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-13 |
 
 ## Definição Sintética
 A tese central de *Homo Sapiens: da Guerra ao Esporte* (B040): **o esporte como evolução da guerra** — em vez de matar os "adversários", a espécie humana canaliza sua agressividade para a **competição esportiva** ("praticar esportes sem matar os 'adversários', antes, durante ou depois da peleja"). A obra acompanha a transição do **guerreiro ao atleta** (RC-431): "Um dia guerreiro implacável, hoje atleta que vibra na vitória e aceita a derrota sem aniquilar o seu oponente".

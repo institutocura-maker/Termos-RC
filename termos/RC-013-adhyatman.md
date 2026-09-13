@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-013"
+nome = "Adhyatman"
+categoria = "Seres & Entidades"
+subcategoria = "1.8 Consciências coletivas / Logos"
+status = "em análise"
+fontes = ["B031", "B024", "B022", "B051", "P2021-12-04", "P2025-02-16", "P2024-11-30"]
+via = "P7-conhecimento"
+confianca_fonte = "baixa"
+atualizado = "2026-09-10"
++++
 # Adhyatman — RC-013
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | SERES & ENTIDADES |
-| **Subcategoria** | 1.8 Consciências coletivas / Logos |
-| **Status** | 🟠 Em análise |
-| **Última atualização** | 2026-09-10 |
 
 ## Definição Sintética
 

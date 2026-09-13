@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-426"
+nome = "Javé sem avatares ('Não tenho isto!')"
+categoria = "Seres & Entidades"
+subcategoria = "1.1 Divindades / Criadores"
+status = "verificado"
+fontes = ["B036", "B016", "P2022-12-17", "P2024-11-30", "P2023-12-03"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-29"
++++
 # Javé sem avatares ('Não tenho isto!') — RC-426
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | SERES & ENTIDADES |
-| **Subcategoria** | 1.1 Divindades / Criadores |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 A declaração categórica de Javé de que **não possui avatares** — registrada nas *Memórias de Javé* (B036) e sintetizada no resumo (B036R): os descendentes da Trimurti (Vishnu, Shiva) "manifestam-se através de variações pessoais conhecidas como avatares"; Javé, porém, "**declara categoricamente: 'Não tenho isto!'**. Ele afirma ser o que é, sem variações avatáricas, o que torna sua presença direta, pesada e desprovida da 'delicadeza' dos avatares de seus sócios."

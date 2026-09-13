@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-286"
+nome = "Eros = Vishnu / Tártaro = Shiva (correspondências)"
+categoria = "Termos Específicos"
+subcategoria = "8.4 Grego / Latim"
+status = "em análise"
+fontes = ["B020", "B021", "B060", "B061", "P2024-11-30", "P2024-11-09", "P2023-05-21", "P2022-09-17"]
+via = "P7-conhecimento"
+confianca_fonte = "baixa"
+atualizado = "2026-08-19"
++++
 # Tártaro — RC-286
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | LOKAS & GEOGRAFIAS |
-| **Subcategoria** | 3.4 Regiões cósmicas / Portais |
-| **Status** | 🟠 Em análise |
-| **Última atualização** | 2026-08-19 |
 
 ## Definição Sintética
 

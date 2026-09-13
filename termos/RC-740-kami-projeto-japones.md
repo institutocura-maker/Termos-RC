@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-740"
+nome = "Kami (Projeto Japonês)"
+categoria = "Seres & Entidades"
+subcategoria = "1.2 Coletivos criadores"
+status = "em análise"
+fontes = ["P2024-09-29"]
+via = "P7-conhecimento"
+confianca_fonte = "baixa"
+atualizado = "2026-08-16"
++++
 # Kami (Projeto Japonês) — RC-740
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | SERES & ENTIDADES |
-| **Subcategoria** | 1.2 Coletivos criadores |
-| **Status** | 🟠 Em análise |
-| **Última atualização** | 2026-08-16 |
 
 ## Definição Sintética
 

@@ -1,9 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-670"
+nome = "Yoga Ancestral (Origem Cósmica)"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.4 Espiritualidade / Doutrina"
+status = "verificado"
+fontes = ["P2026-02-28", "P2025-02-16", "P2025-02-15", "P2024-11-30", "P2026-03-21"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-15"
++++
 # Yoga Ancestral — RC-670
-
-| Campo | Valor |
-|---|---|
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-15 |
 
 ## Definição Sintética
 Yoga Ancestral — tecnologia criada por Shiva no universo paralelo para gerir reversibilidade e dor.

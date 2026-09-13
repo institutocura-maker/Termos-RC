@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-094"
+nome = "Revelação Cósmica (conceito)"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.1 Cosmogonia / Criação"
+status = "verificado"
+fontes = ["B031", "B044", "B035", "B013", "B014", "B022", "B023", "B048", "B003", "B005", "B011", "B049", "B043", "B041", "B006", "B050", "B027", "B051", "B034", "B036", "B040", "B052", "B042", "B009", "P2021-12-04", "P2025-10-25", "P2025-06-26", "P2025-02-15", "P2024-11-30", "P2024-11-09", "P2024-07-14", "P2023-12-02", "P2021-03-27", "P2023-10-14", "P2020-04-25", "P2023-12-03", "P2022-07-16", "P2021-06-26"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-29"
++++
 # Revelação Cósmica (conceito) — RC-094
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
-| **Subcategoria** | 2.1 Cosmogonia / Criação |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 É o **conjunto de revelações** transmitidas por **Jan Val Ellam** sobre a origem do nosso universo, em que se misturam mitologias, espiritualidade, cosmologia, ufologia e física quântica. Seu tema central é a máxima de que **houve um erro no momento da criação** e o Criador "caiu" dentro dela, gerando **dois universos paralelos**: o nosso e um universo antimaterial vizinho. Remonta a nossa história de **13,7 bilhões de anos**, reconstituindo os fatos sob a ótica dos contextos espiritual, biológico material (terreno e extraterreno) e extrafísico antimaterial (B031).

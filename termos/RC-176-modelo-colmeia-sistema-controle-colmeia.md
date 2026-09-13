@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-176"
+nome = "Modelo Colmeia (Sistema/Controle Colmeia)"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.2 Leis e princípios cósmicos"
+status = "verificado"
+fontes = ["B044", "B035", "B048", "P2021-12-04", "P2025-03-15", "P2024-11-30", "P2024-07-13", "P2023-05-13", "P2021-03-27", "P2020-04-25", "P2022-03-26", "P2023-12-03", "P2024-06-16", "P2018-12-15"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-29"
++++
 # Modelo Colmeia (Sistema/Controle Colmeia) — RC-176
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
-| **Subcategoria** | 2.2 Leis e princípios cósmicos |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 É o **modus operandi existencial** implementado por Javé: o modelo da **"mente coletiva" sob o seu controle**, no qual o Criador ("Abelha-Rainha") ocupa o topo e todas as demais criaturas — "operárias" — existem para servir e alimentar a rainha, sem liberdade ou conveniência próprias (B044, caps. 1, 11). Os humanos romperam o "lacre" do sistema de controle — o "modelo colmeia" — para poderem evoluir, mas ainda não o realizaram como deveriam (cap. 7).

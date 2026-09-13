@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-552"
+nome = "Disciplina dos 3As (respiração, mente, alinhamento)"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.4 Espiritualidade / Doutrina"
+status = "verificado"
+fontes = ["B074", "B075", "P2021-12-04", "P2024-05-04", "P2025-02-16", "P2025-02-15", "P2024-04-14", "P2026-03-21"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-13"
++++
 # Disciplina dos 3As — RC-552
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
-| **Subcategoria** | 2.4 Espiritualidade / Doutrina |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-13 |
 
 ## Definição Sintética
 **Disciplina dos 3As** é uma prática central do **Mentalma** (B074, cap. 10; B075, cap. 1.4): os "3As" são **A**profundar a respiração; **A**calmar a mente; **A**lignar-se consigo mesmo. É descrita como "um tipo de 'antídoto pessoal' para o nervosismo" e como o caminho do autocontrole: "Aquele que busca o autocontrole poderá alcançá-lo por meio da prática dos '3As'". A disciplina inicia com o aprofundamento da respiração, passa pela decisão de acalmar a mente e busca o alinhamento com os "projetos espirituais" do ser/Espírito.

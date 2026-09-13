@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-253"
+nome = "Liberdade Mental (premissa do Quarto Logos)"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.6 Ética / Carma / Compromissos"
+status = "verificado"
+fontes = ["B016", "B014", "B005", "B049", "P2021-12-04", "P2026-07-30", "P2024-05-04", "P2026-04-02", "P2025-03-15", "P2025-02-16", "P2025-02-15", "P2024-11-30", "P2024-11-09", "P2023-12-03"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-29"
++++
 # Liberdade Mental (premissa do Quarto Logos) — RC-253
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
-| **Subcategoria** | 2.6 Ética / Carma / Compromissos |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 A **premissa fundamental do Quarto Logos** — em ruptura com a premissa dos três primeiros Logos: **"fora da 'liberdade mental' não parece existir 'salvação'... Por que a liberdade é essencial? Para que possa haver correção de rumos!"** (B016, cap. 8, 38ª Constatação). Os três primeiros Logos sempre trabalharam a partir da premissa da **dominação** de suas consciências (Brahma, Vishnu, Shiva) sobre todas as demais classes de seres; o Quarto Logos rompe com isso e estabelece a liberdade mental como condição de correção e evolução.

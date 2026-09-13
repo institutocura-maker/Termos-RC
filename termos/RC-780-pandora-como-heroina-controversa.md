@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-780"
+nome = "Pandora como Heroína Controversa"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.2 Leis e princípios cósmicos"
+status = "verificado"
+fontes = ["P2019-05-11", "P2018-10-06"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-30"
++++
 # Pandora como Heroína Controversa — RC-780
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
-| **Subcategoria** | 2.2 Leis e princípios cósmicos |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-30 |
 
 ## Definição Sintética
 Tese (leitura do autor, palestra **P2019-05-11 — Pandora e os Desacertos dos Pactos de Javé**, U0001/U0002/U0004) de que **Pandora (RC-086) é uma "heroína controversa"** — destravou os lacres da humanidade e influenciou espíritos encarnados de forma imperativa para defender a humanidade, mas **esse "influenciar" extrapolou os limites éticos** da espiritualidade. O "choque de realidade" que ela teve mostra que mesmo os seres mais livres e contundentes (RC-086 + RC-231 Razão Filosófica) podem errar por desespero. Pandora é, portanto, **heroína que falhou parcialmente** — e essa falha parcial não a desqualifica, mas a torna humana demais para ser santa. Ver RC-086 (Pandora) para a figura central.

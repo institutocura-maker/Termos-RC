@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-517"
+nome = "Protocolo Mental (padrões organizadores da mente)"
+categoria = "Processos & Fenômenos"
+subcategoria = "4.2 Fenômenos espirituais / mediúnicos"
+status = "em análise"
+fontes = ["B072", "B074", "B075", "P2021-12-04", "P2026-07-30", "P2026-04-02", "P2025-02-15", "P2024-11-30", "P2024-11-09", "P2024-02-03", "P2025-11-29", "P2021-05-15", "P2022-03-26", "P2023-12-03"]
+via = "P7-conhecimento"
+confianca_fonte = "baixa"
+atualizado = "2026-08-29"
++++
 # Protocolo Mental (padrões organizadores da mente) — RC-517
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | PROCESSOS & FENÔMENOS |
-| **Subcategoria** | 4.2 Fenômenos espirituais / mediúnicos |
-| **Status** | 🟠 Em análise |
-| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 

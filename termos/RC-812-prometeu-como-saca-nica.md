@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-812"
+nome = "Prometeu como Saca-Nica dos Olímpicos"
+categoria = "Seres & Entidades"
+subcategoria = "1.4 Anjos / Arcanjos / Querubins"
+status = "em análise"
+fontes = ["P2017-05-14"]
+via = "P7-conhecimento"
+confianca_fonte = "baixa"
+atualizado = "2026-08-30"
++++
 # Prometeu como Saca-Nica dos Olímpicos — RC-812
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | SERES & ENTIDADES |
-| **Subcategoria** | 1.4 Anjos / Arcanjos / Querubins |
-| **Status** | 🟠 Em análise |
-| **Última atualização** | 2026-08-30 |
 
 ## Definição Sintética
 Tese (leitura do autor, palestra **P2017-05-14**, U0004) de que **Prometeu (RC-301) "sempre que podia sacranear vocês [os olímpicos]"** — piadas de "sacanagem" que só eram percebidas 5 anos depois. "Prometeu era genial num sentido e Pometeu no outro." Prometeu "chegava e explicava uma coisa a Zeus. Aí Zeus prestava bem atenção, mas prometeu sabia que ele não tava [levando a sério]. Aí ele soltava a piada e embora e Zeus não percebia a piada. Aí um mês, um ano, 5 anos depois ele viu todo mundo rindo no Olímpo." Zeus acabou querendo se vingar de Prometeu — enviando Pandora (RC-086) como "presente funesto" ao irmão Epimeteu (RC-302). Ver RC-301 (Prometeu), RC-149 (Zeus), RC-086 (Pandora), RC-806 (Desvio de Rota de Pandora).

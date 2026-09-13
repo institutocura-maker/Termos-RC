@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-118"
+nome = "Val Dimon"
+categoria = "Seres & Entidades"
+subcategoria = "1.3 Extraterrestres / Raças cósmicas"
+status = "verificado"
+fontes = ["B031", "B020", "B060"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-09-07"
++++
 # Val Dimon — RC-118
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | SERES & ENTIDADES |
-| **Subcategoria** | 1.3 Extraterrestres / Raças cósmicas |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-09-07 |
 
 ## Definição Sintética
 Nome demo de Pandora (RC-086): a identidade de Pandora antes da humanização, na condição de biodemo da família Val (RC-109). Integra a cadeia de identidades que a RC atribui à mesma figura — Kalil Kadmon (RC-299) → Adam Kadmon → Val Dimon → Pandora — e que a proposta pedagógica resume como «Pandora = Val Dimon = Kalil Kadmon = serpente do Éden».

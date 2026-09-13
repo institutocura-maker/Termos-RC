@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-146"
+nome = "Zian (Zion)"
+categoria = "Lokas & Geografias"
+subcategoria = "3.1 Planetas / Sistemas estelares"
+status = "verificado"
+fontes = ["B031", "B057", "B061"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-25"
++++
 # Zian (Zion) — RC-146
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | LOKAS & GEOGRAFIAS |
-| **Subcategoria** | 3.1 Planetas / Sistemas estelares |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-25 |
 
 ## Definição Sintética
 **Zian (Zion)** é o planeta do sistema de Capela (RC-039) sede da **escola do Mestre Codificador de Zion** (RC-092/RC-252): "para onde convergiam todas as informações coletadas nos diversos campos da pesquisa cósmica", criada pelo Codificador "para os que tivessem condições de aprender a **arte da codificação e da decodificação cósmica**, com o objetivo de decifrar o grande enigma da existência deste universo e do seu Criador".

@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-943"
+nome = "Maria Madalena"
+categoria = "Seres & Entidades"
+subcategoria = "1.6 Figuras humanas (históricas/míticas)"
+status = "verificado"
+fontes = ["P2023-12-25-03", "P2023-12-25-05"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-09-06"
++++
 # MARIA MADALENA — RC-943
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | SERES & ENTIDADES |
-| **Subcategoria** | 1.6 Figuras humanas (históricas/míticas) |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-09-06 |
 
 ## Definição Sintética
 Figura humana do círculo de Jesus; no F044, a **transmissora da terceira fase da revelação**. Após a Ressurreição, o Jesus «ressuscitado» chama Maria Madalena e — por meio dela — dita uma nova revelação, «totalmente diferente, muito maior do que a que havia criado com os apóstolos». A aula 05 é dedicada à «verdadeira face» de Maria Madalena.

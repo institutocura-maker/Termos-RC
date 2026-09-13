@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-388"
+nome = "Grupo Atlan"
+categoria = "Genealogias & Linhagens"
+subcategoria = "6.3 Dinastias extraterrestres"
+status = "verificado"
+fontes = ["B006", "B031", "B044"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-13"
++++
 # Grupo Atlan — RC-388
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | GENEALOGIAS & LINHAGENS |
-| **Subcategoria** | 6.3 Dinastias extraterrestres |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-13 |
 
 ## Definição Sintética
 O **Grupo Atlan** é o grupo de estudos mediúnicos do qual Jan Val Ellam participa desde 1986, e que deu origem à sua obra: "Quatro, seis, às vezes oito reuniões por mês, desde o ano de 1986, foi a rotina de trabalho, em grupos de estudo, do autor terreno destas páginas, cujas mensagens formam a temática deste livro" (B006, Esclarecimento). Inicialmente era a **"Casa de Lucas"** (centro espírita administrado por amigos), renomeada para **Atlan** quando "seres cósmicos de naipe vibratório algo diferente do que normalmente caracteriza os espíritos desencarnados se fizeram presentes".

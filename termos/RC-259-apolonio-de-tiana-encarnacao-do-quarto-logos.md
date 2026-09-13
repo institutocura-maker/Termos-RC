@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-259"
+nome = "Apolônio de Tiana (encarnação do Quarto Logos)"
+categoria = "Seres & Entidades"
+subcategoria = "1.6 Figuras humanas (históricas/míticas)"
+status = "verificado"
+fontes = ["B016", "B061", "P2021-12-04", "P2025-02-15", "P2024-11-30", "P2024-11-09", "P2023-12-02", "P2024-11-03"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-18"
++++
 # Apolônio de Tiana (encarnação do Quarto Logos) — RC-259
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | SERES & ENTIDADES |
-| **Subcategoria** | 1.6 Figuras humanas (históricas/míticas) |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-18 |
 
 ## Definição Sintética
 **Única encarnação terrena conhecida do Quarto Logos (Olm)**, ocorrida há aproximadamente 2.000 anos, contemporânea de Jesus Cristo (B031). Em B016, o capítulo 8 ("Apolônio de Tiana") é narrado na voz dessa personalidade: "Costumo olhar para a humanidade com o mesmo padrão de compaixão que dedico a mim mesmo. Padecemos, todos, dos mesmos problemas, de dores semelhantes e de angústias superlativas." Apolônio de Tiana foi um filósofo neopitagórico histórico (séc. I d.C.), reinterpretado nas RC como a encarnação do Quarto Logos.

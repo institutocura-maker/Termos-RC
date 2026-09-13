@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-579"
+nome = "Noreia (Norea)"
+categoria = "Seres & Entidades"
+subcategoria = "1.6 Figuras humanas (históricas/míticas)"
+status = "verificado"
+fontes = ["P2022-12-17", "P2025-02-16", "P2024-11-30", "P2024-11-09", "P2023-12-03", "P2022-09-17"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-29"
++++
 # Noreia (Norea) — RC-579
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | SERES & ENTIDADES |
-| **Subcategoria** | 1.6 Figuras humanas (históricas/míticas) |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 Figura gnóstica apresentada como filha de Eva e resistente aos Arcontes, integrada na palestra à genealogia ligada a Adão, Eva, Caim e Seth.

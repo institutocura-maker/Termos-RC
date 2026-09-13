@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-265"
+nome = "Os 270 Mundos (profecia do Zohar)"
+categoria = "Lokas & Geografias"
+subcategoria = "3.2 Lokas / Mundos interiores"
+status = "verificado"
+fontes = ["B013", "P2022-12-03"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-12"
++++
 # Os 270 Mundos (profecia do Zohar) — RC-265
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | LOKAS & GEOGRAFIAS |
-| **Subcategoria** | 3.2 Lokas / Mundos interiores |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-12 |
 
 ## Definição Sintética
 Profecia registrada no **Sepher ha-Zohar** ("VAYEHI 21, 8B-9A"), revelada a Shimon Bar Yochai por ordem de Javé: **"Quando os tempos do Juízo Final estiverem chegados, aparecerá um mensageiro cuja proclamação será ouvida nos 270 mundos da Criação."** (B013, "Antiga Revelação do Sepher ha-Zohar"). Nas RC, os "270 mundos" são as **"moradas" ou "lokas"** diretamente envolvidas com os problemas mal resolvidos do passado imemorial: os livros da Revelação Cósmica estão sendo produzidos "exatamente para chamar a atenção dos '270 mundos' ('moradas' ou 'lokas') diretamente envolvidos com os problemas mal resolvidos do passado imemorial".

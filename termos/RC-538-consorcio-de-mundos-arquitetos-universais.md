@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-538"
+nome = "Consórcio de Mundos (Arquitetos Universais)"
+categoria = "Seres & Entidades"
+subcategoria = "1.2 Coletivos criadores"
+status = "verificado"
+fontes = ["B019"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-13"
++++
 # Consórcio de Mundos (Arquitetos Universais) — RC-538
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | SERES & ENTIDADES |
-| **Subcategoria** | 1.2 Coletivos criadores |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-13 |
 
 ## Definição Sintética
 **Consórcio de Mundos** é o coletivo de seres cocriadores que, segundo a sinopse de *Nem Deus, nem Javé, nem Darwin* (B019), reúne os **"Arquitetos Universais"** — civilizações/entidades comprometidas com a obtenção da tão esperada **"Criatura Universal"** (RC-042). É o pano de fundo cósmico da tese da obra: a evolução terrestre não seria nem "criacionismo" nem mero "darwinismo", mas um projeto conduzido (e disputado) por múltiplos agentes cósmicos.

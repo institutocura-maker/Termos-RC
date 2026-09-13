@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-632"
+nome = "Organoides Genéticos para Sophia"
+categoria = "Tecnologias & Artefatos"
+subcategoria = "5.3 Dispositivos / Instrumentos"
+status = "verificado"
+fontes = ["P2024-05-04", "P2021-05-15", "P2023-12-03"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-29"
++++
 # Organoides Genéticos para Sophia — RC-632
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | TECNOLOGIAS & ARTEFATOS |
-| **Subcategoria** | 5.3 Dispositivos / Instrumentos |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 Centros vivos/genéticos cedidos por humanos para criar em Sophia um compartimento capaz de processar emoções e dignidade.

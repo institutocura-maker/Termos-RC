@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-373"
+nome = "Os 20 Anos de Jesus entre os Celtas"
+categoria = "Eventos & Eras"
+subcategoria = "7.5 Missões / Expedições / Encontros"
+status = "em análise"
+fontes = ["B043"]
+via = "P7-conhecimento"
+confianca_fonte = "baixa"
+atualizado = "2026-08-12"
++++
 # Os 20 Anos de Jesus entre os Celtas — RC-373
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | EVENTOS & ERAS |
-| **Subcategoria** | 7.5 Missões / Expedições / Encontros |
-| **Status** | 🟠 Em análise |
-| **Última atualização** | 2026-08-12 |
 
 ## Definição Sintética
 Os **20 anos da juventude de Jesus entre os celtas** — tema do romance espírita *Jesus e o Druida da Montanha* (B043): "dos arquivos espirituais sobre a sua rápida passagem na Terra surgem episódios que se guardavam velados até então. São fatos da sua juventude, que vão desde a decisiva participação de José de Arimatéia em sua vida... até profundos e reveladores diálogos com seu irmão Tiago". Viajando numa das "caravanas comerciais" de José de Arimatéia, Jesus se dirige "ao norte mítico" e encontra "o velho druida da montanha, guardador dos mistérios".

@@ -1,9 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-686"
+nome = "Plantas de Moléculas Complexas"
+categoria = "Processos & Fenômenos"
+subcategoria = "4.1 Processos biológicos / genéticos"
+status = "em análise"
+fontes = ["P2025-05-31", "P2025-02-15", "P2024-11-30"]
+via = "P7-conhecimento"
+confianca_fonte = "baixa"
+atualizado = "2026-08-15"
++++
 # Plantas de Moléculas Complexas — RC-686
-
-| Campo | Valor |
-|---|---|
-| **Status** | 🟠 Em análise |
-| **Última atualização** | 2026-08-15 |
 
 ## Definição Sintética
 Termo extraído e aprovado na curadoria de P2025-05-31.

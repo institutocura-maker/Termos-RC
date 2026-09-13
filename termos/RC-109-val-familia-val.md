@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-109"
+nome = "Val (Família Val)"
+categoria = "Genealogias & Linhagens"
+subcategoria = "6.3 Dinastias extraterrestres"
+status = "em análise"
+fontes = ["B031", "P2022-12-17", "P2020-04-25", "P2023-12-03", "P2017-10-14", "P2018-12-15"]
+via = "P7-conhecimento"
+confianca_fonte = "baixa"
+atualizado = "2026-08-31"
++++
 # Val (Família Val) — RC-109
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | Genealogias & Linhagens |
-| **Subcategoria** | 6.3 Dinastias extraterrestres |
-| **Status** | 🟠 Em análise |
-| **Última atualização** | 2026-08-31 |
 
 ## Definição Sintética
 

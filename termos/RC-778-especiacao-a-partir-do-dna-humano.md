@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-778"
+nome = "Especiação a partir do DNA Humano"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.2 Leis e princípios cósmicos"
+status = "verificado"
+fontes = ["P2018-10-06"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-30"
++++
 # Especiação a partir do DNA Humano — RC-778
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
-| **Subcategoria** | 2.2 Leis e princípios cósmicos |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-30 |
 
 ## Definição Sintética
 Tese (leitura do autor, palestra **P2018-10-06 — Humanidade em Disputa a Descendência de Pandora**, U0004) de que a **especiação cósmica** — a geração de milhares de novas espécies a partir do DNA humano — é o objetivo final da humanidade. A humanidade não é "joia" antropocêntrica, mas **fábrica de futuras espécies**: o DNA humano será a matriz para a próxima geração de vida racionalizada no universo. A tese se opõe às duas faces do antropocentrismo humano ("Deus fez o humano porque é o melhor" / "humanos são o câncer da vida"), propondo em vez disso que **a humanidade está a serviço da especiação cósmica**. Ver RC-056 (Especiação) para o conceito-mãe.

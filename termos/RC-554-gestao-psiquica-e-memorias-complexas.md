@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-554"
+nome = "Gestão Psíquica e Memórias Complexas (Mentalma II)"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.4 Espiritualidade / Doutrina"
+status = "verificado"
+fontes = ["B075", "P2025-02-15", "ART-2026-08-18"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-25"
++++
 # Gestão Psíquica e Memórias Complexas — RC-554
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
-| **Subcategoria** | 2.4 Espiritualidade / Doutrina |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-25 |
 
 ## Definição Sintética
 **Gestão Psíquica e Memórias Complexas** é o conceito central do *Mentalma II* (B075, 2022): a governança, pelo "Eu organizador", dos **Arquivos Mentais** (RC-548) — "capturar, organizar, colecionar e **deletar**" (10ª Constatação) — incluindo as **memórias complexas** ("fardo espiritual": lembranças pesadas, mal resolvidas, que "sujam" a Consciência). A prática inclui a "limpeza" das memórias (2 etapas: Vontade → "novo sentimento"), o "Dia Meta 10" (dez práticas diárias) e a **Pacificação Pessoal** ("o fim de todos os medos"). Coroa a série com o **Grau 6 de maestria — "Maestria da Arquitetura do Projeto Espiritual de Vida"**.

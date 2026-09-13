@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-858"
+nome = "Desígnios Proféticos (profecia como instrumento de domínio e sua desconexão)"
+categoria = "Eventos & Eras"
+subcategoria = "7.3 Profecias / Anúncios"
+status = "em análise"
+fontes = ["P2023-02-12", "P2023-02-11", "P2022-11-20"]
+via = "P7-conhecimento"
+confianca_fonte = "baixa"
+atualizado = "2026-09-01"
++++
 # Desígnios Proféticos (profecia como instrumento de domínio e sua desconexão) — RC-858
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | Eventos & Eras |
-| **Subcategoria** | 7.3 Profecias / Anúncios |
-| **Status** | 🟠 Em análise |
-| **Última atualização** | 2026-09-01 |
 
 ## Definição Sintética
 

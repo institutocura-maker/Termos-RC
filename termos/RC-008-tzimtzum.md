@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-008"
+nome = "Tzimtzum"
+categoria = "Termos Específicos"
+subcategoria = "8.2 Hebraico / Cabala"
+status = "verificado"
+fontes = ["B013", "P2023-10-14"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-28"
++++
 # Tzimtzum — RC-008
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | TERMOS ESPECÍFICOS |
-| **Subcategoria** | 8.2 Hebraico / Cabala |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 Conceito do rabino **Isaac Luria** (1534–1572) que significa, literalmente, uma espécie de **"exílio de deus dentro dele mesmo"**: "Deus foi compelido a dar espaço ao universo, abandonando uma região dentro de sua infinidade. Ao se contrair, ele deixou um lugar primordial para o universo se desenvolver" (B013, cap. 1). Nas RC, o Tzimtzum é reinterpretado como a **"implosão" do Corpo Mental** do Criador — "se entendermos que a tal 'contração de deus' talvez signifique exatamente a 'implosão' do seu Corpo Mental... o que provocou a sua 'queda' no âmbito da Criação" — ou seja, o "primeiro ato ou atitude mental de 'deus' não foi um passo para fora, mas para dentro, como se 'implodindo e caindo' na própria 'implosão', e daí o 'Tzimtzum'" (B013).

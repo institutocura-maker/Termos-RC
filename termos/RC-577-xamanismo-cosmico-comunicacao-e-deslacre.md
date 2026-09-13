@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-577"
+nome = "Xamanismo Cósmico (comunicação e deslacre)"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.4 Espiritualidade / Doutrina"
+status = "verificado"
+fontes = ["P2022-12-17", "P2026-04-02", "P2025-02-16", "P2025-02-15", "P2024-11-30", "P2026-08-04", "P2024-09-28", "P2024-08-03"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-18"
++++
 # Xamanismo Cósmico (comunicação e deslacre) — RC-577
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
-| **Subcategoria** | 2.4 Espiritualidade / Doutrina |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-18 |
 
 ## Definição Sintética
 No uso da palestra, protocolo antigo de comunicação entre o universo antimaterial e humanos, envolvendo plantas capazes de alterar padrões de consciência considerados lacrados.

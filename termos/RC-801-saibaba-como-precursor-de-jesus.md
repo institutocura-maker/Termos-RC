@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-801"
+nome = "Saibaba como Precursor de Jesus"
+categoria = "Seres & Entidades"
+subcategoria = "1.4 Anjos / Arcanjos / Querubins"
+status = "em análise"
+fontes = ["P2018-02-24", "P2012-02-19"]
+via = "P7-conhecimento"
+confianca_fonte = "baixa"
+atualizado = "2026-08-30"
++++
 # Saibaba como Precursor de Jesus — RC-801
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | SERES & ENTIDADES |
-| **Subcategoria** | 1.4 Anjos / Arcanjos / Querubins |
-| **Status** | 🟠 Em análise |
-| **Última atualização** | 2026-08-30 |
 
 ## Definição Sintética
 Tese (leitura do autor, palestra **P2018-02-24**, U0004) de que **Saibaba** (avatar hindu, ~séc. XIX-XX) **propôs 2000 anos antes de Jesus a mesma estratégia** — "não para destruir o mal, mas para convidar cada ser humano a travar a luta íntima do bem e do mal". Saibaba é, portanto, **precursor direto de Jesus** na estratégia dos avatares (RC-797). Ver RC-797 (Estratégia dos Avatares), RC-800 (Jesus como Último Avatar), RC-102 (Krishna).

@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-945"
+nome = "Pedro (apóstolo)"
+categoria = "Seres & Entidades"
+subcategoria = "1.6 Figuras humanas (históricas/míticas)"
+status = "verificado"
+fontes = ["P2023-12-25-03"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-09-06"
++++
 # PEDRO (APÓSTOLO) — RC-945
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | SERES & ENTIDADES |
-| **Subcategoria** | 1.6 Figuras humanas (históricas/míticas) |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-09-06 |
 
 ## Definição Sintética
 Um dos doze apóstolos escolhidos por Jesus na Galileia; no F044, é lembrado sobretudo pelo episódio da **negação** durante a prisão de Jesus pela «turma do Sinédrio». A cena serve ao curso para mostrar o raio de alcance da condenação — a ordem era prender toda a «turma de Jesus», não só o mestre.

@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-497"
+nome = "Impérial — erro histórico de STT (ver Perpérion RC-087)"
+categoria = "Lokas & Geografias"
+subcategoria = "3.4 Regiões cósmicas / Portais"
+status = "verificado"
+fontes = ["B061", "P2021-12-04"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-14"
++++
 # Impérial — erro histórico de STT (ver Perpérion RC-087) — RC-497
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | LOKAS & GEOGRAFIAS |
-| **Subcategoria** | 3.4 Regiões cósmicas / Portais |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-14 |
 
 ## Definição Sintética
 Impérial é uma leitura histórica defeituosa de STT preservada apenas para rastreabilidade. O termo correto no contexto é Perpérion (RC-087).

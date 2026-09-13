@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-294"
+nome = "Eon de Khaos (Universo de Caos)"
+categoria = "Lokas & Geografias"
+subcategoria = "3.4 Regiões cósmicas / Portais"
+status = "verificado"
+fontes = ["B021", "P2026-07-30"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-12"
++++
 # Eon de Khaos (Universo de Caos) — RC-294
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | LOKAS & GEOGRAFIAS |
-| **Subcategoria** | 3.4 Regiões cósmicas / Portais |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-12 |
 
 ## Definição Sintética
 O **"Universo de Caos"** — o conjunto dos genos (moradas) do universo antimaterial sob a égide do Criador Caos (= Brahma/Javé): "na lógica dos seres que habitam os inúmeros genos que compõem o 'Eon de Khaos', ou seja, o 'Universo de Caos', a 'presença' (importância, destaque) de um deus está relacionada e coincide com o âmbito (contexto) de seu 'domínio'" (B021, cap. 1). O termo grego **eon** (αιών) = "mundo/dimensão" é usado como equivalente de geno/loka.

@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-556"
+nome = "Senhor Parameshthi / Brahma Parameshthi (face atual de Javé)"
+categoria = "Seres & Entidades"
+subcategoria = "1.1 Divindades / Criadores"
+status = "verificado"
+fontes = ["P2024-02-25", "P2024-11-30"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-19"
++++
 # Senhor Parameshthi / Brahma Parameshthi (face atual de Javé) — RC-556
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | SERES & ENTIDADES |
-| **Subcategoria** | 1.1 Divindades / Criadores |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-19 |
 
 ## Definição Sintética
 

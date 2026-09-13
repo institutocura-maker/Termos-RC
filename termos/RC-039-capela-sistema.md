@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-039"
+nome = "Capela (Sistema)"
+categoria = "Lokas & Geografias"
+subcategoria = "3.1 Planetas / Sistemas estelares"
+status = "verificado"
+fontes = ["B031", "B003", "B025", "B057", "B058", "P2023-04-01", "P2023-12-03"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-29"
++++
 # Capela (Sistema) — RC-039
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | LOKAS & GEOGRAFIAS |
-| **Subcategoria** | 3.1 Planetas / Sistemas estelares |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 **Capela** é o sistema estelar (Alfa Aurigae, constelação do Cocheiro/Auriga — um arranjo de **quatro estrelas: duas gigantes amarelas e duas anãs vermelhas**) de onde procedem os capelinos, os biodemos das famílias criadas por Sophia. Abriga **Dan** (RC-046), o mundo-nave do nascimento de Yel Luzbel, e **Orbum** (RC-085), a sede da governadoria dos Administradores deste universo — "todo o sistema de Capela, com os seus diversos mundos, é, na realidade, a sede governamental da parte da galáxia onde vivemos".

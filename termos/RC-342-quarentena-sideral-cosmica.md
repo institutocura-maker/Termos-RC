@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-342"
+nome = "Quarentena Sideral / Cósmica"
+categoria = "Eventos & Eras"
+subcategoria = "7.1 Guerras / Rebeliões / Conflitos"
+status = "em análise"
+fontes = ["B003", "B025", "B026", "B042", "P2024-07-13"]
+via = "P7-conhecimento"
+confianca_fonte = "baixa"
+atualizado = "2026-08-12"
++++
 # Quarentena Sideral / Cósmica — RC-342
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | EVENTOS & ERAS |
-| **Subcategoria** | 7.1 Guerras / Rebeliões / Conflitos |
-| **Status** | 🟠 Em análise |
-| **Última atualização** | 2026-08-12 |
 
 ## Definição Sintética
 A **quarentena sideral/cósmica** é o isolamento imposto à Terra (e aos demais mundos rebelados) após a rebelião — o nome dado na trilogia "Queda e Ascensão Espiritual" (B003) ao que a RC posterior chama de **Isolamento Cósmico** (RC-070): "uma dramática ocorrência truncou a destinação do Planeta Azul e de outros mundos irmãos. Resultado: uma **quarentena sideral**, significando o isolamento da Terra da integração fraterna na comunidade galática" (B003, abertura). "Foi decretada uma espécie de quarentena que isolava pelo tempo que fosse necessário os mundos rebeldes do intercâmbio cósmico."

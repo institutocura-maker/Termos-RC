@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-489"
+nome = "Enoque (sétimo patriarca; levado por Javé)"
+categoria = "Seres & Entidades"
+subcategoria = "1.6 Figuras humanas (históricas/míticas)"
+status = "verificado"
+fontes = ["B061", "P2022-12-17", "P2024-11-30", "P2024-07-14", "P2024-04-13", "P2026-08-04", "P2024-03-02", "P2023-12-02", "P2023-05-20", "P2020-05-09", "P2021-05-08", "P2024-11-03", "P2023-10-14", "P2023-12-03", "P2017-10-14", "P2018-12-16", "P2022-11-20", "P2022-10-01", "P2022-07-16", "P2025-12-14", "P2023-12-25-01"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-29"
++++
 # Enoque (sétimo patriarca; levado por Javé) — RC-489
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | SERES & ENTIDADES |
-| **Subcategoria** | 1.6 Figuras humanas (históricas/míticas) |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 

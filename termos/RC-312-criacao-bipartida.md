@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-312"
+nome = "Criação Bipartida"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.3 Dimensões / Planos de existência"
+status = "em análise"
+fontes = ["B022", "P2024-11-30"]
+via = "P7-conhecimento"
+confianca_fonte = "baixa"
+atualizado = "2026-09-10"
++++
 # Criação Bipartida — RC-312
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
-| **Subcategoria** | 2.1 Cosmogonia / Criação |
-| **Status** | 🟠 Em análise |
-| **Última atualização** | 2026-09-10 |
 
 ## Definição Sintética
 A "confusa 'Criação Bipartida'" (B022, Introdução, p. 4): dois universos paralelos, subjacentes — o nosso, em expansão, "onde a vida biológica impera"; e outro "retraído, desagregado", como que "recortado" em "moradas apartadas", onde vivem os "entes-clones" e as diversas classes de "demônios". Na P2024-11-30 (Moros e os Arquivos do Destino Universal): "dois universos que nasceram agarradinhos um no outro, interpostos" — o vizinho/gêmeo, universo de plasma onde a vida primeiro surgiu, e o nosso, universo biológico; "durante os 13.8 bilhões de anos da criação desses dois universos, os primeiros 7, 8 bilhões de anos, a vida só existiu" no vizinho. Só quando Moros resgatar as três setas "todo o conjunto de seres dos dois universos" saberá a história desde o momento zero.

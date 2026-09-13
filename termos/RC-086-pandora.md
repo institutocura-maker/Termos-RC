@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-086"
+nome = "Pandora"
+categoria = "Seres & Entidades"
+subcategoria = "1.7 Híbridos / Seres de transição"
+status = "em análise"
+fontes = ["B031", "B044", "B020", "B021", "B061", "P2025-03-15", "P2025-02-16", "P2024-11-30", "P2024-11-09", "ART-2026-08-18", "P2024-02-03", "P2024-08-03", "B087", "B088", "B089", "P2023-04-01b", "P2024-11-03", "P2025-02-22", "P2021-05-15", "P2020-04-25", "P2023-12-03", "P2023-08-27", "P2025-06-14", "P2022-09-25", "P2022-07-16", "P2026-03-21", "P2021-02-28"]
+via = "P7-conhecimento"
+confianca_fonte = "baixa"
+atualizado = "2026-08-29"
++++
 # Pandora — RC-086
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | SERES & ENTIDADES |
-| **Subcategoria** | 1.7 Híbridos / Seres de transição |
-| **Status** | 🟠 Em análise |
-| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 

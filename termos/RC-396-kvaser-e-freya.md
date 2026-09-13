@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-396"
+nome = "Kvasir e Freya (Vanir/Aesir)"
+categoria = "Seres & Entidades"
+subcategoria = "1.5 Decaídos / Exilados / Demônios"
+status = "verificado"
+fontes = ["B050", "B060", "P2024-11-30", "P2024-03-02", "P2020-08-08"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-09-12"
++++
 # Kvasir e Freya (Vanir/Aesir) — RC-396
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | Seres & Entidades |
-| **Subcategoria** | 1.5 Decaídos / Exilados / Demônios |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-09-12 |
 
 ## Ampliação — P2024-03-02 (O Drama Espiritual de Jesus)
 

@@ -1,9 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-671"
+nome = "Metatron"
+categoria = "Seres & Entidades"
+subcategoria = "1.4 Anjos / Arcanjos / Querubins"
+status = "em análise"
+fontes = ["P2025-05-31", "P2024-07-14", "P2021-05-08", "P2024-11-03", "P2023-10-14", "P2022-11-20", "P2025-12-14", "P2023-12-25-01"]
+via = "P7-conhecimento"
+confianca_fonte = "baixa"
+atualizado = "2026-08-28"
++++
 # Metatron — RC-671
-
-| Campo | Valor |
-|---|---|
-| **Status** | 🟠 Em análise |
-| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 Termo extraído e aprovado na curadoria de P2025-05-31.

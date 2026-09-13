@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-658"
+nome = "Wyrd / Urd (Teia do Destino)"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.2 Leis e princípios cósmicos"
+status = "verificado"
+fontes = ["P2025-06-26", "P2025-03-15", "P2024-11-30", "P2024-09-29", "P2025-06-14b", "P2024-02-25", "P2024-05-04", "P2024-02-03", "P2023-12-02", "P2025-11-29", "P2023-07-05", "P2023-05-20", "P2025-07-18", "P2023-10-14", "P2023-12-03", "P2025-05-10", "P2022-10-01", "P2022-09-25"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-29"
++++
 # Wyrd / Urd (Teia do Destino) — RC-658
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
-| **Subcategoria** | 2.2 Leis e princípios cósmicos |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 Teia germânico-nórdica de destino, causalidade e retorno das informações, organizada por Moros e atualizada como Ifá.

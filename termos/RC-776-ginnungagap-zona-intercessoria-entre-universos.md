@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-776"
+nome = "Ginnungagap (zona intercessória entre universos; prisão dos fenvans frustrados)"
+categoria = "Lokas & Geografias"
+subcategoria = "3.4 Regiões cósmicas / Portais"
+status = "em análise"
+fontes = ["ART-2025-08-03", "P2023-04-30", "P2021-01-30", "P2024-06-16"]
+via = "P7-conhecimento"
+confianca_fonte = "baixa"
+atualizado = "2026-08-21"
++++
 # Ginnungagap — RC-776
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | LOKAS & GEOGRAFIAS |
-| **Subcategoria** | 3.4 Regiões cósmicas / Portais |
-| **Status** | 🟠 Em análise |
-| **Última atualização** | 2026-08-21 |
 
 ## Definição Sintética
 Zona intercessória entre o universo material e o antimaterial, onde estão aprisionados os **Fenvans** (RC-064) frustrados — os "heróis frustrados" que tentaram trazer vida de um universo para outro. Na mitologia nórdica, o "abismo primordial"; na leitura da RC, o destino dos que "se ferraram" na travessia do **Projeto TALM** (RC-091).

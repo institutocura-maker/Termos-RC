@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-889"
+nome = "Biblioteca Genômica Humana"
+categoria = "Processos & Fenômenos"
+subcategoria = "4.4 Fenômenos físicos / energéticos"
+status = "em análise"
+fontes = ["P2023-10-15", "P2023-11-18", "P2024-01-13", "P2024-02-04", "P2024-03-17"]
+via = "P7-conhecimento"
+confianca_fonte = "baixa"
+atualizado = "2026-09-02"
++++
 # Biblioteca Genômica Humana — RC-889
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | PROCESSOS & FENÔMENOS |
-| **Subcategoria** | 3.1 Biologia / Genética |
-| **Status** | 🟠 Em análise |
-| **Última atualização** | 2026-09-02 |
 
 ## Definição Sintética
 A Biblioteca Genômica Humana é o conceito que descreve o DNA humano como um laboratório cósmico em funcionamento, onde seres de outros universos observam e manipulam o código genético como se fosse um repositório de experimentos. Para esses seres, não existe o indivíduo — apenas o DNA de cada pessoa. A Terra é vista como o laboratório mais rico atualmente, alvo de pirataria genômica por diversas civilizações cósmicas.

@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-528"
+nome = "Mergulho (designação ellâmica da queda)"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.1 Cosmogonia / Criação"
+status = "em análise"
+fontes = ["B072", "P2023-07-30", "P2023-12-03"]
+via = "P7-conhecimento"
+confianca_fonte = "baixa"
+atualizado = "2026-09-07"
++++
 # Mergulho (designação ellâmica da queda) — RC-528
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
-| **Subcategoria** | 2.1 Cosmogonia / Criação |
-| **Status** | 🟠 Em análise |
-| **Última atualização** | 2026-09-07 |
 
 ## Definição Sintética
 A designação ellâmica da queda: «mergulho», não «queda». O termo desloca o sentido teológico da culpa para o de uma descida voluntária — ainda que malcalculada — para dentro da própria criação, da qual o ser não consegue mais sair.

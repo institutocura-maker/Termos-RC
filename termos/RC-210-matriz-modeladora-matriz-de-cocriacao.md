@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-210"
+nome = "Matriz Modeladora / Matriz de Cocriação"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.1 Cosmogonia / Criação"
+status = "verificado"
+fontes = ["B001", "B015", "P2024-05-04"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-12"
++++
 # Matriz Modeladora (Eterna) — RC-210
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
-| **Subcategoria** | 2.1 Cosmogonia / Criação |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-12 |
 
 ## Definição Sintética
 A **"Fonte Primordial Formadora do Todo"** — o padrão estruturante espiritual eterno, "de cujo concurso tudo depende": **sem o concurso dessa Matriz Modeladora Eterna, nada, absolutamente nada de material — seja em que nível de materialidade for — consegue tomar forma e existir transitoriamente** (B001, cap. 2). É o pano de fundo da Criação (título do cap. 4 de B001: "Matriz Modeladora: Pano de Fundo da Criação"), o modelo espiritual que dá forma a tudo o que existe.

@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-710"
+nome = "Genes Críticos / Genes Dorminhocos"
+categoria = "Processos & Fenômenos"
+subcategoria = "4.1 Processos biológicos / genéticos"
+status = "verificado"
+fontes = ["P2025-02-15", "P2021-05-15", "P2020-04-25", "P2021-01-30"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-28"
++++
 # Genes Críticos / Genes Dorminhocos — RC-710
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | PROCESSOS & FENÔMENOS |
-| **Subcategoria** | 4.1 Processos biológicos / genéticos |
-| **Status** | 🟢 Verificado (candidatura aprovada pelo curador) |
-| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 Genes com potencial evolutivo latente que, segundo a palestra, seriam acionados por contexto epigenético, necessidade, sonho, mensagens do eu e novas aspirações, produzindo proteínas e transformações.

@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-005"
+nome = "Segundo Advento do Cristo (Volta de Jesus)"
+categoria = "Eventos & Eras"
+subcategoria = "7.3 Profecias / Anúncios"
+status = "em análise"
+fontes = ["B001", "B002", "B016", "B014", "B003", "B025", "B005", "B011", "B042", "B009", "B033", "P2026-08-04", "P2024-03-02; RC-674; RC-565", "P2023-06-03", "P2023-05-20", "P2023-04-15", "P2023-04-01", "P2020-04-18", "P2020-07-04", "P2021-07-24", "P2023-04-01b", "P2024-11-03", "P2025-02-22", "P2021-05-15", "P2023-10-14", "P2022-03-26", "P2023-12-03", "P2012-02-19", "P2025-05-10", "P2023-12-25-02"]
+via = "P7-conhecimento"
+confianca_fonte = "baixa"
+atualizado = "2026-08-29"
++++
 # Segundo Advento do Cristo (Volta de Jesus) — RC-005
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | EVENTOS & ERAS |
-| **Subcategoria** | 7.3 Profecias / Anúncios |
-| **Status** | 🟠 Em análise |
-| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 

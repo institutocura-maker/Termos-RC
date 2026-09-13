@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-934"
+nome = "Kris Amon (Krysamon NEAD)"
+categoria = "Seres & Entidades"
+subcategoria = "1.6 Figuras humanas (históricas/míticas)"
+status = "provisório"
+fontes = []
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-09-06"
++++
 # KRIS AMON (Krysamon NEAD) — RC-934
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | SERES & ENTIDADES |
-| **Subcategoria** | 1.6 Figuras humanas (históricas/míticas) |
-| **Status** | 🟡 provisório |
-| **Última atualização** | 2026-09-06 |
 
 ## Definição Sintética
 Colaborador e parceiro próximo de Jan Val Ellam, atestado pelo curador em 06/09/2026. Autor do GLOSSÁRIO KRYS AMON (`EXT-2024-01-04`), obra de apoio escrita de dentro do vocabulário da Revelação Cósmica — única fonte escrita da Arca que encadeia nominalmente Entropia–Tamas–Savna/Adhyatman–Perpérion–Tikun em um só verbete.

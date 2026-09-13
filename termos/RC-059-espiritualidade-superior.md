@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-059"
+nome = "Espiritualidade Superior"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.3 Dimensões / Planos de existência"
+status = "em análise"
+fontes = ["B031", "B024", "B013", "B027", "B051", "B060", "P2021-12-04", "P2025-02-16", "P2025-02-15", "P2024-11-30", "P2024-11-09", "P2024-07-14", "P2020-04-04"]
+via = "P7-conhecimento"
+confianca_fonte = "baixa"
+atualizado = "2026-09-07"
++++
 # Espiritualidade Superior — RC-059
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
-| **Subcategoria** | 2.3 Dimensões / Planos de existência |
-| **Status** | 🟠 Em análise |
-| **Última atualização** | 2026-09-07 |
 
 ## Definição Sintética
 O nível mais alto dos três em que a Revelação Cósmica divide a realidade não caída: o «todo» que contém tudo — inclusive a Criação Indevida, que nela existe como uma «cabeça de alfinete» blindada. É a condição dos Seres Originais (RC-600), que vivem sob os Protocolos / Algoritmos da Perfeição (RC-606), sem tempo, sem distância e sem mérito. Corresponde, na leitura de Ellam, ao «Paraíso» e ao que a tradição gnóstica chamou de Pleroma.

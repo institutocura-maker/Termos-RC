@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-833"
+nome = "13 Livros de Lúcifer com Humanos (Necessários Antes do Fim)"
+categoria = "Tecnologias & Artefatos"
+subcategoria = "5.4 Escrituras / Objetos documentais"
+status = "em análise"
+fontes = ["P2023-12-17"]
+via = "P7-conhecimento"
+confianca_fonte = "baixa"
+atualizado = "2026-08-31"
++++
 # 13 Livros de Lúcifer com Humanos (Necessários Antes do Fim) — RC-833
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | OBRAS & PROJETOS |
-| **Subcategoria** | 8.1 Livros / Publicações |
-| **Status** | 🟠 Em análise |
-| **Última atualização** | 2026-08-31 |
 
 ## Definição Sintética
 Tese (leitura do autor, palestra **P2023-12-17**, U0005) de que **Lúcifer (RC-002) precisa escrever 13 livros com humanos** sobre a rebelião de Lúcifer, "antes de se desfazer". "Lúcifer poderia sim ajudar bastante os cientistas da Terra, porque o olhar dele pro abismo é científico. A mente de Lúcio é totalmente científica, não é como a minha, não é como a de vocês." Os **9 livros que o autor está escrevendo** são o início desse processo (publicou 1 com Maria Helena). Ver RC-002 (Lúcifer), RC-099 (Homo Sapiens), RC-009 (Sophia), RC-826 (Rebelião dos Elétrons), RC-827 (Era do Colapso).

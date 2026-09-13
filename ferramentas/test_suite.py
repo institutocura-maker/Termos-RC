@@ -294,7 +294,7 @@ class TestBase(unittest.TestCase):
                     ruins.append(f"{cod}: TOML.{k} diverge do registro")
             if not re.fullmatch(r"\d{4}-\d{2}-\d{2}", str(f.get("atualizado", ""))):
                 ruins.append(f"{cod}: atualizado fora do ISO")
-        print(f"\n[T13] {n_front} fichas com frontmatter (piloto 2.1)")
+        print(f"\n[T13] {n_front} fichas com frontmatter (2.1 piloto + expansão)")
         self.assertEqual(ruins[:8], [], ruins[:8])
 
     def test_T14_tabelas_relacionados(self):

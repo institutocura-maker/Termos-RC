@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-702"
+nome = "Camuflagem da Realidade"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.3 Dimensões / Planos de existência"
+status = "em análise"
+fontes = ["P2025-02-15", "P2024-07-13", "P2024-03-03", "P2026-08-04", "P2023-05-13", "P2023-04-01", "P2023-04-29", "P2023-10-14", "P2022-03-26", "P2023-12-03"]
+via = "P7-conhecimento"
+confianca_fonte = "baixa"
+atualizado = "2026-08-29"
++++
 # Camuflagem da Realidade — RC-702
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
-| **Subcategoria** | 2.3 Dimensões / Planos de existência |
-| **Status** | 🟠 Em análise (candidatura aprovada pelo curador) |
-| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 Sistema perceptivo, neuronal, cultural e psíquico que faz o humano tomar uma faixa limitada da realidade como totalidade, ocultando níveis quânticos, espirituais e cósmicos.

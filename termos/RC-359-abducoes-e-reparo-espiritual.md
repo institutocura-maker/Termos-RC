@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-359"
+nome = "Abduções e Reparo Espiritual"
+categoria = "Processos & Fenômenos"
+subcategoria = "4.2 Fenômenos espirituais / mediúnicos"
+status = "verificado"
+fontes = ["B005", "P2025-02-16"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-12"
++++
 # Abduções e Reparo Espiritual — RC-359
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | PROCESSOS & FENÔMENOS |
-| **Subcategoria** | 4.2 Fenômenos espirituais / mediúnicos |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-12 |
 
 ## Definição Sintética
 A interpretação das **abduções** (1960–1990) no contexto das RC — o capítulo 9 de *Fator Extraterrestre* (B005): "muitas pessoas estavam sendo abduzidas, ou seja, levadas para dentro de naves alienígenas onde ali sofriam algum tipo de exame, em alguns casos, seguidos de processos operatórios, realizados por entidades não terrenas." O título "Abduções e **Reparo Espiritual**" aponta a tese: para além dos aspectos traumáticos, haveria uma função de reparo/ajuste espiritual no processo.

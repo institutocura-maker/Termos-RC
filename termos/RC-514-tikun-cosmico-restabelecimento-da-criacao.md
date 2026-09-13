@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-514"
+nome = "Tikun Cósmico (restabelecimento da Criação)"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.5 Propósitos / Destinos"
+status = "verificado"
+fontes = ["B061", "B071", "B019", "B074", "B075", "P2022-12-17", "P2021-12-04", "P2024-05-04", "P2025-10-25", "P2025-06-26", "P2025-02-15", "P2024-11-30", "P2024-11-09", "P2024-07-14", "ART-2026-08-18", "P2024-09-28", "P2024-08-03", "P2023-04-15", "P2021-09-04", "P2024-11-03", "P2023-10-14", "P2022-03-26", "P2022-05-07", "P2023-08-27", "P2023-02-12", "P2022-12-03", "P2022-11-26", "P2022-09-18", "P2021-06-26"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-28"
++++
 # Tikun Cósmico (restabelecimento da Criação) — RC-514
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
-| **Subcategoria** | 2.5 Propósitos / Destinos |
-| **Status** | 🟢 Verificado (candidatura aprovada pelo curador) |
-| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 

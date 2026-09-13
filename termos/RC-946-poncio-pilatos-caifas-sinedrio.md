@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-946"
+nome = "Pôncio Pilatos / Caifás / Sinédrio"
+categoria = "Seres & Entidades"
+subcategoria = "1.6 Figuras humanas (históricas/míticas)"
+status = "verificado"
+fontes = ["P2023-12-25-03", "P2023-12-25-04"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-09-06"
++++
 # PÔNCIO PILATOS / CAIFÁS / SINÉDRIO — RC-946
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | SERES & ENTIDADES |
-| **Subcategoria** | 1.6 Figuras humanas (históricas/míticas) |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-09-06 |
 
 ## Definição Sintética
 **Verbetes agrupados** — o clúster temático da Paixão, reunindo os três agentes da condenação de Jesus conforme o F044:

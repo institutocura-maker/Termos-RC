@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-371"
+nome = "A Fé de Jesus e a Razão de Nietzsche"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.6 Ética / Carma / Compromissos"
+status = "verificado"
+fontes = ["B049", "P2020-04-25"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-28"
++++
 # A Fé de Jesus e a Razão de Nietzsche — RC-371
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
-| **Subcategoria** | 2.6 Ética / Carma / Compromissos |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 O contraste e o choque entre a **fé de Jesus** e a **razão de Nietzsche** — o capítulo 11 do B049: enquanto Jesus encarna a fé amorosa e o "amai-vos uns aos outros", Nietzsche representa a razão crítica que desmonta os ídolos e a moral institucionalizada. O capítulo 12 aprofunda: "O Choque entre a Fé e a Razão de Jesus, que Nietzsche não Viu" — Ellam aponta que o filósofo não percebeu a dimensão cósmica da intenção de Jesus.

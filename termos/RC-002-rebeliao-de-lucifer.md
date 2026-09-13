@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-002"
+nome = "Rebelião de Lúcifer"
+categoria = "Eventos & Eras"
+subcategoria = "7.1 Guerras / Rebeliões / Conflitos"
+status = "verificado"
+fontes = ["B031", "B003", "B026", "B057", "B058", "B017", "P2024-03-03", "P2024-04-13", "P2023-04-01", "P2020-09-19", "P2021-07-24", "P2023-04-01b", "P2024-11-03", "P2025-02-22", "P2020-04-25", "P2022-03-26", "P2023-12-03", "P2022-05-07", "P2023-08-27", "P2023-02-11", "P2021-02-28"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-29"
++++
 # Rebelião de Lúcifer — RC-002
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | EVENTOS & ERAS |
-| **Subcategoria** | 7.1 Guerras / Rebeliões / Conflitos |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 Período de inquietações de **Yel Luzbel (Lúcifer)** iniciado há **742 mil anos** no Sistema de Capela, que gerou um "vírus" que contaminou mais de **213 bilhões de seres** (pandemia generalizada). Essa pandemia levou a uma rebelião por volta de **687 mil anos**, culminando no **isolamento cósmico** de seres em **19 planetas** há aproximadamente **619 mil anos** (B031). (Definição do glossário de B031; cronologia a confirmar nas obras primárias.)

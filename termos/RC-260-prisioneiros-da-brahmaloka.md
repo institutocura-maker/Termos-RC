@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
+codigo = "RC-260"
+nome = "Prisioneiros da Brahmaloka"
+categoria = "Seres & Entidades"
+subcategoria = "1.5 Decaídos / Exilados / Demônios"
+status = "verificado"
+fontes = ["B016"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-12"
++++
 # Prisioneiros da Brahmaloka — RC-260
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | SERES & ENTIDADES |
-| **Subcategoria** | 1.5 Decaídos / Exilados / Demônios |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-12 |
 
 ## Definição Sintética
 Expressão do apêndice homônimo de B016 para designar os **seres da Trimurti — sobretudo Brahma/Javé — presos no universo antimaterial (Brahmaloka)**: "Brahma ou Javé jamais saiu da 'morada' que conseguiu gerar para si, ainda que a sua Criação extrapole, e em muito, o seu 'brahmaloka', onde passou a viver." Por não ser dotado da condição Adhyagia (e dela ter se apartado desde a queda), **Brahma jamais conseguiu produzir expressões de si mesmo (expressões Adhyajna)** para endereçá-las a outras regiões da Criação — ao contrário de Shiva e Vishnu.
