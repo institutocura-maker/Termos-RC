@@ -1,0 +1,66 @@
+{
+ "unidade": "U60",
+ "lote": 17,
+ "data": "2026-09-13",
+ "rota": "R1",
+ "criterio": "família B do censo v3 (referência homologada) — bloco de fonte única da B023 (O Dharma e as Castas Hindus), 3 códigos, por despacho do Curador (via expressa; segregação obra a obra)",
+ "v_revogado": true,
+ "nota_hardwrap": "**Fratura de hard-wrap:** a edição digital das fontes quebra as sentenças em linhas curtas. Cada fragmento entre «» é verbatim **intra-linha**, conferido byte a byte contra o `original.txt` da obra declarada; quando uma sentença foi partida, as suas partes aparecem como fragmentos distintos, com as linhas indicadas. **Convenção gráfica da obra:** as aberturas de capítulo vêm em **caixa alta espaçada** («A R A» / «B E M» / «C O M P R E E N D E R M O S»; «O  H O M O  H I E R A R C H I C U S»), preservada sem normalização (critério homologado na U56: convenção de formatação não acciona a etiqueta de divergência).",
+ "fichas": [
+  {
+   "cod": "RC-326",
+   "slug": "povos-escolhidos-ariano-judeu-arabe",
+   "definicao": "Na B023 (*O Dharma e as Castas Hindus*), os três povos que, segundo o autor, o mesmo «deus» elegeu sucessivamente: «Esse “deus”, como já o disse, escolheu os arianos, quando a eles se apresentou como Brahma, depois, elegeu os judeus, mostrando-se como Javé e, mais recentemente, optou pelos árabes muçulmanos, se identificando como Alá, mas deixando bem claro que era o mesmo “deus” dos judeus e dos arianos». A obra refere expressamente «árabes e judeus, dois grupos envolvidos com “promessas, pactos e eleição como povos escolhidos pelo deus bíblico”».",
+   "cit": [
+    ["B023", 3904, ["judeus, dois grupos envolvidos com “promessas, pactos e eleição como povos"], "a eleição (início em L3902–L3903)"],
+    ["B023", 3905, ["escolhidos pelo deus bíblico” –, sou dos que pensam que jamais"], "o termo, verbatim (continua em L3906)"],
+    ["B023", 3915, ["Esse “deus”, como já o disse, escolheu os arianos, quando a eles se"], "o primeiro povo (continua em L3916–L3919)"],
+    ["B023", 3916, ["apresentou como Brahma, depois, elegeu os judeus, mostrando-se como Javé"], "o segundo povo"],
+    ["B023", 3917, ["e, mais recentemente, optou pelos árabes muçulmanos, se identificando como"], "o terceiro povo"],
+    ["B023", 3918, ["Alá, mas deixando bem claro que era o mesmo “deus” dos judeus e dos"], "a identidade entre as três eleições (continua em L3919)"]
+   ],
+   "obs": [
+    "**O discurso é do autor, não do cadastro.** A sequência arianos/Brahma → judeus/Javé → árabes/Alá é a **tese do autor da obra**, formulada em primeira pessoa («como já o disse»). A ficha registra-a como tal, sem a adoptar como afirmação do cadastro e sem a conferir contra qualquer outra fonte.",
+    "O verbete declara também duas palestras (P2024‑11‑30, P2024‑04‑13). **A sustentação desta ficha é exclusivamente a B023**, nos termos da salvaguarda do despacho de congelamento da série P (critério: a evidência literal é escrita).",
+    "A passagem ocorre no interior do capítulo sobre o *Homo hierarchicus* (cap. 6), a propósito da obediência cega aos valores repassados «aos escolhidos da hora – Moisés, entre os judeus, e Maomé, entre os árabes» (L3912–L3914)."
+   ]
+  },
+  {
+   "cod": "RC-327",
+   "slug": "homo-hierarchicus",
+   "definicao": "Na B023 (*O Dharma e as Castas Hindus*), a designação que o autor dá ao humano moldado pelo temor e pela obediência: «Esse humano simplório que surgiu, passei a chamá-lo de “Homo hierarchicus”». A obra descreve-o como «encabrestado feito um equino, arrebanhado, ao mesmo tempo corrupto e ingênuo, obediente e raramente rebelde, infectado pelo vírus mental do estacionamento espiritual», e é o título do capítulo 6.",
+   "cit": [
+    ["B023", 3734, ["surgiu esse humano simplório, encabrestado feito um equino,"], "o retrato (início em L3733; continua em L3735–L3738)"],
+    ["B023", 3736, ["raramente rebelde, infectado pelo vírus mental do estacionamento"], "o «vírus mental» (continua em L3737)"],
+    ["B023", 3739, ["Esse humano simplório que surgiu, passei a chamá-lo de “"], "a designação (o hard-wrap parte a expressão)"],
+    ["B023", 3740, ["Homo"], "primeira parte do termo"],
+    ["B023", 3741, ["hierarchicus"], "segunda parte do termo"],
+    ["B023", 3746, ["O  H O M O  H I E R A R C H I C U S"], "título do capítulo 6, em caixa alta espaçada (sob o número «6», L3745)"]
+   ],
+   "obs": [
+    "**O termo é cunhagem do autor, e a obra o diz:** «passei a chamá-lo de» (L3739). A ficha registra-a como **designação proposta na obra**, não como categoria do cadastro.",
+    "**Convenção gráfica, não divergência:** o corpo grafa «Homo hierarchicus» (caixa normal, L3740–L3741) e o título do capítulo vem em caixa alta espaçada (L3746). As duas posições vão verbatim, **sem** a etiqueta de divergência (critério homologado na U56).",
+    "O autor contrapõe a esse humano a fé simples do Nordeste brasileiro que descreve a seguir (L3749–L3779) — **contexto da obra, não adoptado como definição**.",
+    "A expressão reaparece em L3910 («os humanos terrestres reclassificados, por mim, como Homo hierarchicus»), na passagem que sustenta a RC‑326."
+   ]
+  },
+  {
+   "cod": "RC-330",
+   "slug": "civilizacao-saraswati",
+   "definicao": "Na B023 (*O Dharma e as Castas Hindus*), a civilização do vale do rio Saraswati: «redescobriu-se o lendário rio Saraswati, do vale do rio Indo, onde se desenvolveu a civilização Saraswati‑Sindhu, por volta de 5.000 anos a.p. (antes do presente)». Segundo a obra, é dela que «o reino de Bharata, atualmente conhecido como sendo a Índia, viria a emergir», e nela teve origem a tradição védica — «e a questão das castas, como atualmente a conhecemos, tem a ver diretamente com essa civilização».",
+   "cit": [
+    ["B023", 1900, ["habitantes da civilização Saraswati, da qual o reino de Bharata, atualmente"], "a civilização e o reino que dela emerge (início em L1899)"],
+    ["B023", 1901, ["conhecido como sendo a Índia, viria a emergir."], "fecho da sentença"],
+    ["B023", 1920, ["científico ou foi redescoberto o lendário rio Saraswati,"], "a redescoberta por satélite (início em L1918–L1919; continua em L1922)"],
+    ["B023", 1923, ["onde se desenvolveu a civilização Saraswati-Sindhu, por volta de 5.000 anos"], "a datação (continua em L1924)"],
+    ["B023", 1941, ["Saraswati-Sindhu, hoje perdida nas brumas do tempo; e"], "a forma alongada do nome (início em L1939–L1940)"],
+    ["B023", 1943, ["castas, como atualmente a conhecemos, tem a ver diretamente com essa"], "a ligação às castas (início em L1942; continua em L1944–L1945)"]
+   ],
+   "obs": [
+    "**Duas formulações do mesmo nome, sem etiqueta:** a obra grafa «civilização Saraswati» (L1900) e «civilização Saraswati‑Sindhu» (L1923, L1940). Não são contraditórias — a segunda é a forma alongada, e a própria obra a explica («o lendário rio Saraswati, do vale do rio Indo», L1920–L1922). Vão ambas verbatim, **sem** accionar a etiqueta de divergência. Se o Curador preferir o critério inverso, fica registrado para revisão.",
+    "**A obra distingue o «oficialmente desconhecido» do «oficialmente conhecido»** e ironiza a fronteira entre ambos (L1902–L1915): a ficha registra esse enquadramento **como postura do autor perante a arqueologia ortodoxa**, sem a subscrever.",
+    "A redescoberta do leito seco do rio «via satélite», no final do século XX (L1918–L1920), é **afirmativa da obra**; a ficha não a confere contra fonte externa."
+   ]
+  }
+ ]
+}

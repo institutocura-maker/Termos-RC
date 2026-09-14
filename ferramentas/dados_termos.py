@@ -444,11 +444,11 @@ TERMOS = [
     ("RC-323", "Entroncamentos Genéticos Intersiderais", PRO_BIO[0], PRO_BIO[1], "verificado", ['B023', 'P2025-02-16', 'P2024-11-30', 'P2024-09-29'], 'RC-024; RC-036; RC-068; RC-082; RC-094; RC-099; RC-186; RC-324', True),
     ("RC-324", "Grupos de Entroncamento (1-4)", PRO_BIO[0], PRO_BIO[1], P, ["B023"], "RC-323; RC-036; RC-186; RC-082; RC-024; RC-099", False),
     ("RC-325", "Genética Totalitária", COS_LEI[0], COS_LEI[1], "verificado", ['B023', 'P2024-11-30', 'P2024-11-09', 'P2024-09-29'], 'RC-001; RC-094; RC-099; RC-284; RC-321; RC-326; RC-331; RC-335; RC-727', True),
-    ("RC-326", "Povos Escolhidos (ariano, judeu, árabe)", GEN_HUM[0], GEN_HUM[1], P, ['B023', 'P2024-11-30', 'P2024-04-13'], 'RC-325; RC-270; RC-001; RC-099', False),
-    ("RC-327", "Homo hierarchicus", SER_HUM[0], SER_HUM[1], P, ["B023"], "RC-099; RC-321; RC-325; RC-094", False),
+    ("RC-326", "Povos Escolhidos (ariano, judeu, árabe)", GEN_HUM[0], GEN_HUM[1], P, ['B023', 'P2024-11-30', 'P2024-04-13'], 'RC-325; RC-270; RC-001; RC-099', True),
+    ("RC-327", "Homo hierarchicus", SER_HUM[0], SER_HUM[1], P, ["B023"], "RC-099; RC-321; RC-325; RC-094", True),
     ("RC-328", "Imperativo Categórico da Moral", COS_ETI[0], COS_ETI[1], "verificado", ['B023', 'P2026-07-30', 'P2026-04-02', 'P2025-03-15', 'P2025-02-15', 'P2024-11-30', 'P2024-11-09'], 'RC-094; RC-099; RC-223; RC-231; RC-253; RC-319; RC-620; RC-705; RC-720; RC-722', True),
     ("RC-329", "Kumari Kandan (tradição)", LOK_TER[0], LOK_TER[1], "em análise", ['B023', 'P2022-12-17', 'P2025-02-16', 'P2024-11-30', 'P2024-04-13', "P2023-12-25-01"], 'RC-010; RC-099; RC-102; RC-321; RC-414; RC-488', True),
-    ("RC-330", "Civilização Saraswati", LOK_TER[0], LOK_TER[1], P, ["B023"], "RC-321; RC-099; RC-094", False),
+    ("RC-330", "Civilização Saraswati", LOK_TER[0], LOK_TER[1], P, ["B023"], "RC-321; RC-099; RC-094", True),
     ("RC-331", "Ra-Atom / Og-mi (nomes do Criador)", TER_OUT[0], TER_OUT[1], "em análise", ["B023", "B060"], "RC-001; RC-094; RC-284; RC-325", True),
 
     # ---- Novos termos de B048 (obra primária: Favor Divino, 2013)

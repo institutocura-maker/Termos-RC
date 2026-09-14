@@ -2859,3 +2859,29 @@ designações são palavras da personagem, registradas como tais.
 **47** (27 activos + 20 congelados) · cadastro 572🟢 inalterado.
 
 **Próximo poço activo:** B023 3 · B050 3 · B002 2 · B014 2 · B020 2 · B003 2.
+
+
+## U60 — R1 · lote 17: os 3 da B023
+
+**Despacho do Curador:** lote 17 = B023; **postulado central da Extração R1
+adoptado**: «o que o cadastro sabe, a ficha não empresta à fonte; o que a fonte
+não diz, a ficha não lhe atribui». Roteiro de encerramento (3 frentes)
+homologado, a accionar quando o poço chegar a zero.
+
+**3 fichas, 18 fragmentos.** RC-326 Povos Escolhidos · RC-327 Homo
+hierarchicus · RC-330 Civilização Saraswati. **B023 3→0.**
+
+**Portão B pegou mais um deslocamento:** L1941, não L1940 (6ª vez que o
+mecanismo segura erro meu antes da escrita).
+
+**Postulado aplicado três vezes:** «Homo hierarchicus» é cunhagem do autor;
+a eleição dos três povos é tese do autor; a civilização é grafada de duas
+formas e as duas são citadas.
+
+**Duas formulações SEM etiqueta:** «Saraswati» × «Saraswati-Sindhu» — forma
+alongada explicada pela própria obra, não contradição.
+
+**Números:** 793 → **796 fichas** · GAP 153 → **150** · família B v3 47 →
+**44** (24 activos + 20 congelados) · cadastro 572🟢 inalterado.
+
+**Próximo poço activo:** B050 3 · B002 2 · B014 2 · B020 2 · B003 2 · B026 2.
