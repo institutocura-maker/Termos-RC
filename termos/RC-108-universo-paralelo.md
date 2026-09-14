@@ -23,7 +23,7 @@ Segundo o glossário de B031, é o universo paralelo ao nosso, chamado de Univer
 ## Escopo e evidência
 
 - Fontes declaradas no cadastro: B031, P2025-02-16, P2024-11-30, P2024-11-09, P2024-08-03.
-- Arestas em `RELACOES`: 3 — nada aberto, fechado ou reetiquetado nesta ficha.
+- Arestas em `RELACOES`: 3 — a tabela abaixo soma a essas as do espelho do cadastro (3 no total). Nada aberto, fechado ou reetiquetado nesta ficha.
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados

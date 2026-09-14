@@ -23,7 +23,7 @@ No argumento de B019, o ancestral comum de toda a vida terrestre: apenas existe 
 ## Escopo e evidência
 
 - Fontes declaradas no cadastro: B019, P2024-11-30, P2024-11-09, P2020-09-19, P2021-03-13.
-- Arestas em `RELACOES`: 3 — nada aberto, fechado ou reetiquetado nesta ficha.
+- Arestas em `RELACOES`: 3 — a tabela abaixo soma a essas as do espelho do cadastro (6 no total). Nada aberto, fechado ou reetiquetado nesta ficha.
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados

@@ -2331,3 +2331,36 @@ Acumulado: **649 verbetes** · 8.540 verbatim · 8.249 códigos · **0 falhas** 
 6. **Próximo:** lote 2 da B já com `aplicar_V` (RC-032 Benem · RC-048 Demiurgo · RC-073 Keshava · RC-123 Val Eno ·
    RC-095 Rogério de Almeida Freitas · RC-438 Tubal · RC-374 Mordon · RC-211 Kundalini) — as guardas E1–E5 rodam
    antes de escrever.
+
+## U44 (13/09/2026) — R1 · família B · lote 2 (8 fichas)
+
+Despacho vigente: «seguir na B» + presunção de V por fonte de livro (U43). Lote 2 autorizado pelo
+Curador com um «Sim!».
+
+**Materializados (8):** RC-032 Benem · RC-048 Demiurgo · RC-073 Keshava · RC-123 Val Eno ·
+RC-095 Rogério de Almeida Freitas · RC-438 Tubal · RC-374 Mordon · RC-211 Kundalini.
+
+- 32 fragmentos verbatim intra-linha, conferidos byte a byte — **0 falhas** (RC-032 6 · RC-048 3 ·
+  RC-073 3 · RC-123 5 · RC-095 5 · RC-438 3 · RC-374 3 · RC-211 4).
+- Guardas E1–E5 checadas antes de qualquer escrita: **0 impedimentos**.
+- Suíte 21/21 (T13 697 · T14 0 divergentes · T15 697/0) · verificador 946/697/1887 · 5 builds na ordem.
+- Status 60⚪/212🟡/102🟠/572🟢 · **GAP 257→249** · **família B 55→47**.
+
+**Dois consertos no driver (`ferramentas/materializar_lote.py`):**
+1. `virar_cadastro` ancorava no FIM da linha do cadastro (`endswith("False),")`) e quebrou no RC-032,
+   cuja linha tem comentário de rastro. Agora usa `l.partition(", False),")`. Lição: ancorar na tupla.
+2. `nota_chancela` dizia «V já chancelado» também sob presunção. Passou a distinguir
+   `aplicar_V == "presuncao-livro"` (nota de V presuntivo, reversível, com o caminho do despacho)
+   do `aplicar_V` genuíno.
+
+**Adendo de uniformidade (achado ao lavrar a RC-032):** a linha «Arestas em `RELACOES`» contava só
+as arestas do grafo (3) enquanto a tabela abaixo mostrava 7 — a tabela, por T14, soma o espelho
+`t[6]` do cadastro nos dois polos. Nova redação explícita aplicada às 24 fichas da R1 (8 desta
+unidade + 16 do piloto U41 e do lote 1 da U42) e ao driver: as próximas 249 já nascem uniformes.
+
+**Pendências registradas, não resolvidas:** RC-095 quarentena biográfica (B031 L429+) ·
+RC-374 equiparação druida/Venerável Mordon fraturada pelo hard-wrap (só após R2) ·
+RC-211 sentido prânico de B074/B075 é diverso · palestras sem ocorrência: RC-073 (P2026-04-02),
+RC-438 (P2024-11-30).
+
+**Próximo:** lote 3 da B (8 códigos), já com `aplicar_V: "presuncao-livro"` e guardas E1–E5.

@@ -23,7 +23,7 @@ A empreitada cósmica que elegeu a Terra como portal: há cerca de 3 milhões de
 ## Escopo e evidência
 
 - Fontes declaradas no cadastro: B031, B003, B026.
-- Arestas em `RELACOES`: 2 — nada aberto, fechado ou reetiquetado nesta ficha.
+- Arestas em `RELACOES`: 2 — a tabela abaixo soma a essas as do espelho do cadastro (8 no total). Nada aberto, fechado ou reetiquetado nesta ficha.
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados

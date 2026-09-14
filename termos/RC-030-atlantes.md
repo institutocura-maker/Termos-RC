@@ -23,7 +23,7 @@ Os «lendários Atlantes» do Império Atlante: segundo B031, eram, na verdade, 
 ## Escopo e evidência
 
 - Fontes declaradas no cadastro: B031.
-- Arestas em `RELACOES`: 0 — nada aberto, fechado ou reetiquetado nesta ficha.
+- Arestas em `RELACOES`: 0 — a tabela abaixo soma a essas as do espelho do cadastro (6 no total). Nada aberto, fechado ou reetiquetado nesta ficha.
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados

@@ -1,0 +1,340 @@
+{
+ "unidade": "U44",
+ "lote": 2,
+ "data": "2026-09-13",
+ "rota": "R1",
+ "aplicar_V": "presuncao-livro",
+ "criterio": "ranking por ocorrências (família B) — posições 9 a 16",
+ "fichas": [
+  {
+   "cod": "RC-032",
+   "slug": "benem",
+   "definicao": "Base biodêmica estabelecida há 392 mil anos no Norte do planeta, onde hoje fica a fronteira entre Alemanha, Bélgica e Holanda: composta por 1.841 biodemos, foi criada a partir das partes da nave Espherian, e os seus membros ficaram conhecidos como Frota Norte (RC-065). Não era uma cidade típica da cultura terrestre, e sim uma edificação central com mais cinco construções menores espalhadas num raio de 2,7 km — uma espécie de «morada local» para manter a tecnologia necessária ao cuidado dos biodemos hibernados. Era em Benem que se situava o «Processador Val», o meio mais seguro de contato entre os «dimensionados» e os que permaneceram no planeta (B017/B018).",
+   "cit": [
+    [
+     "B031",
+     3189,
+     [
+      "Benem: Nome da base biodemica estabelecida há 392 mil anos no"
+     ],
+     "glossário, verbete «Benem» — início da sentença (continua em L3190)"
+    ],
+    [
+     "B031",
+     3190,
+     [
+      "Norte do nosso planeta, onde hoje fica a fronteira entre a Alemanha,"
+     ],
+     "mesma sentença, fraturada pelo hard-wrap"
+    ],
+    [
+     "B031",
+     3191,
+     [
+      "Bélgica e Holanda."
+     ],
+     "fecho intra-linha da mesma sentença"
+    ],
+    [
+     "B031",
+     3196,
+     [
+      "Passou a ser uma espécie de “morada local” para manter a tecnologia"
+     ],
+     "início da sentença sobre a função da base (continua em L3197)"
+    ],
+    [
+     "B031",
+     3197,
+     [
+      "necessária para cuidar dos biodemos hibernados."
+     ],
+     "fecho intra-linha da mesma sentença"
+    ],
+    [
+     "B018",
+     776,
+     [
+      "“Processador Val”, situado em Benem."
+     ],
+     "fecho intra-linha da sentença sobre o contato com os «dimensionados»"
+    ]
+   ],
+   "obs": []
+  },
+  {
+   "cod": "RC-048",
+   "slug": "demiurgo",
+   "definicao": "Artífice ou Criador Divino — o nome que Platão dá ao Criador. Segundo o glossário de B031, Platão sustenta que o Demiurgo resolveu copiar as ideias de um nível superior ao que conhecemos e, ao gerar as coisas que compõem a nossa realidade, deixou a desejar em comparação com o mundo arquetípico ou espiritual; por teimosia, o Demiurgo ficou separado do «Pleroma» — o tal nível mais evoluído, comparável a Perpérion ou à Espiritualidade Laboratorial — após a sua queda na própria Criação. No pensamento cosmogônico de Platão, o termo parece significar um «artesão divino algo problemático». O mesmo glossário reforça que o Criador é apenas uma Divindade Co-criadora, e não o Pai-Mãe Amantíssimo (Deidade), embora a maioria o confunda com ele.",
+   "cit": [
+    [
+     "B031",
+     3288,
+     [
+      "Demiurgo: Artífice ou Criador Divino."
+     ],
+     "glossário, verbete «Demiurgo» — sentença completa intra-linha"
+    ],
+    [
+     "B031",
+     3250,
+     [
+      "passou a chamar o Criador de “Demiurgo”."
+     ],
+     "verbete «Criador» — fecho intra-linha da sentença iniciada em L3249 («Em sua obra, Platão»)"
+    ],
+    [
+     "B031",
+     3296,
+     [
+      "“Demiurgo” parece significar um “artesão divino algo problemático”, uma"
+     ],
+     "mesmo verbete — fecho da sentença sobre o sentido platônico do termo (continua em L3297)"
+    ]
+   ],
+   "obs": []
+  },
+  {
+   "cod": "RC-073",
+   "slug": "keshava",
+   "definicao": "Na Revelação Cósmica, um tipo de avatar urdido obrigatoriamente a partir do «código de vida» conjunto dos 3 Logos Criadores — ou seja, de Brahma, Vishnu e Shiva. O glossário de B031 dá como exemplo Mohen So, avatar «Keshava» criado por Vishnu, e o sumário da obra dedica um capítulo ao tema: «O Sonho do Criador — Projeto Talm e os Keshavas».",
+   "cit": [
+    [
+     "B031",
+     3551,
+     [
+      "Keshava:  Tipo de avatar urdido obrigatoriamente a partir do “código"
+     ],
+     "glossário, verbete «Keshava» — início da sentença (continua em L3552; duplo espaço após os dois pontos, como na fonte)"
+    ],
+    [
+     "B031",
+     3552,
+     [
+      "de vida” conjunto dos 3 Logos Criadores, ou seja, de Brahma, Vishnu e"
+     ],
+     "mesma sentença, fraturada pelo hard-wrap"
+    ],
+    [
+     "B031",
+     3553,
+     [
+      "Shiva."
+     ],
+     "fecho intra-linha da mesma sentença"
+    ]
+   ],
+   "obs": [
+    "P2026-04-02 consta do cadastro como fonte e a busca de 13/09/2026 não localizou nele o termo com a grafia canônica — nenhuma citação foi extraída dessa palestra."
+   ]
+  },
+  {
+   "cod": "RC-123",
+   "slug": "val-eno",
+   "definicao": "Biodemo da Família Val: foi quem passou os conteúdos da trilogia de livros Terra Atlantis, entre outros, para Jan Val Ellam, e vive em Alt´Lam Gron, a nave-cidadela dimensionada que se situa próxima à Escócia. É uma das vozes narradoras da obra — B039 registra que o livro é «narrado por Val Eno» — e pertence ao grupo que sobreviveu com a forma Val original e administra, ainda hoje, os arquivos absorvidos pelo «processador Val». O glossário distingue-o de Val Eon, descrito como um «irmão gêmeo» por ter nascido no mesmo momento cósmico.",
+   "cit": [
+    [
+     "B031",
+     3990,
+     [
+      "Val Eno: Biodemo da Família Val."
+     ],
+     "glossário, verbete «Val Eno» — sentença completa intra-linha"
+    ],
+    [
+     "B031",
+     3991,
+     [
+      "trilogia de livros Terra Atlantis, entre outros, para Jan Val Ellam."
+     ],
+     "fecho intra-linha da sentença sobre a transmissão dos conteúdos"
+    ],
+    [
+     "B031",
+     3992,
+     [
+      "Alt´Lam Gron, a nave-cidadela dimensionada, que se situa próxima à"
+     ],
+     "início da sentença sobre a morada (continua em L3993)"
+    ],
+    [
+     "B031",
+     3993,
+     [
+      "Escócia."
+     ],
+     "fecho intra-linha da mesma sentença"
+    ],
+    [
+     "B039",
+     5295,
+     [
+      "narrado por Val Eno,"
+     ],
+     "a voz narradora do livro — fragmento intra-linha («…neste livro , narrado por Val Eno, começo por…»)"
+    ]
+   ],
+   "obs": []
+  },
+  {
+   "cod": "RC-095",
+   "slug": "rogerio-de-almeida-freitas",
+   "definicao": "O nome civil do codificador das Revelações Cósmicas, conhecido pelo pseudônimo de Jan Val Ellam (RC-071): palestrante e autor de dezenas de obras literárias. O glossário de B031 estabelece o paralelo que o define na doutrina — assim como Allan Kardec ficou conhecido como o Codificador da Doutrina Espírita, Jan Val Ellam é, e será conhecido pelas gerações futuras, como o Codificador da Revelação Cósmica.",
+   "cit": [
+    [
+     "B031",
+     3747,
+     [
+      "Rogério de Almeida Freitas: Conhecido pelo pseudônimo de Jan Val"
+     ],
+     "glossário, verbete «Rogério de Almeida Freitas» — início da sentença (continua em L3748)"
+    ],
+    [
+     "B031",
+     3748,
+     [
+      "Ellam, Rogério é palestrante e autor de dezenas de obras literárias."
+     ],
+     "fecho intra-linha da mesma sentença"
+    ],
+    [
+     "B031",
+     3749,
+     [
+      "como Allan Kardec ficou conhecido como o Codificador da Doutrina"
+     ],
+     "início da sentença do paralelo Kardec × Ellam (continua em L3750)"
+    ],
+    [
+     "B031",
+     3750,
+     [
+      "Espírita, Jan Val Ellam é e será conhecido pelas gerações futuras como o"
+     ],
+     "mesma sentença, fraturada pelo hard-wrap"
+    ],
+    [
+     "B031",
+     3751,
+     [
+      "Codificador da Revelação Cósmica."
+     ],
+     "fecho intra-linha da mesma sentença"
+    ]
+   ],
+   "obs": [
+    "**QUARENTENA BIOGRÁFICA ATIVA** (decisão registrada em RC-071): a seção «QUEM É JAN VAL ELLAM» da mesma obra (B031, L429 e seguintes) traz dados da vida pessoal — naturalidade, data de nascimento, preferências —, aqui **declarados apenas como existentes na fonte e NÃO transportados para a ficha**. O verbete fica restrito à persona pública/civil: nome, pseudônimo e a função de codificador."
+   ]
+  },
+  {
+   "cod": "RC-438",
+   "slug": "tubal",
+   "definicao": "Figura da descendência de Jafé relida em B052 como fundador de um centro de comércio em Sefarad — a atual península ibérica —, cuja vila ficava mais a leste do porto onde Bartar e Heber desembarcaram, no sentido do estuário do Rio Sado. O centro fora erigido por Tubal havia mais de uma década quando Bartar, nos seus quase 65 anos, a ele retornava pela terceira vez; no relato, a linhagem de Tubal é tratada como portadora de esperança em plena devastação, e o sábio Melmon observa que já dissera ao seu parente Tubal o que agora pretende levar mais além.",
+   "cit": [
+    [
+     "B052",
+     118,
+     [
+      "estava retornando ao centro fundado por Tubal há mais de uma década."
+     ],
+     "fecho intra-linha da sentença sobre o retorno de Bartar"
+    ],
+    [
+     "B052",
+     158,
+     [
+      "sobre o caminho até a cidade erigida por Tubal, que ficava mais a leste."
+     ],
+     "fecho intra-linha da sentença sobre a localização da cidade"
+    ],
+    [
+     "B052",
+     455,
+     [
+      "já o tendo dito a seu parente Tubal, pretendo ir um pouco mais além agora."
+     ],
+     "fala de Melmon — fecho intra-linha da sentença"
+    ]
+   ],
+   "obs": [
+    "P2024-11-30 consta do cadastro como fonte e a busca de 13/09/2026 não localizou nele o nome com a grafia canônica — nenhuma citação foi extraída dessa palestra."
+   ]
+  },
+  {
+   "cod": "RC-374",
+   "slug": "mordon",
+   "definicao": "O «Druida da Montanha» que dá título a B043: o Venerável Mordon, ancião druida que vivia recluso na montanha sagrada e ali recebe José de Arimatéia e o jovem Jesus, cujas conversas estruturam o livro (capítulos «O Druida da Montanha», «Jesus entre os Druidas» e «Mordon e a Índia»). Segundo o relato, Mordon estivera na distante terra do grande Açoka, entre os brâmanes, e refere-se ao Sanatana Dharma como a Lei do Caminho para a Verdade Superior. A nota do autor terreno registra que, ao tempo do encontro com Mordon, o Mestre Jesus ainda não tinha pleno conhecimento de tudo o que lhe reservava o futuro.",
+   "cit": [
+    [
+     "B043",
+     2032,
+     [
+      "MORDON ESTEVE na distante terra do grande Açoka1, ó Jesus."
+     ],
+     "cap. «Mordon e a Índia» — sentença completa intra-linha (o «1» é o marcador de nota na fonte)"
+    ],
+    [
+     "B043",
+     2415,
+     [
+      "Mordon se referia ao Sanatana Dharma, que é a Lei do Caminho para a Verdade Superior."
+     ],
+     "nota 2 do autor — sentença completa intra-linha"
+    ],
+    [
+     "B043",
+     1993,
+     [
+      "com Mordon, ainda não tinha pleno conhecimento de tudo o que lhe reservava o futuro."
+     ],
+     "nota 9 do autor — fecho intra-linha da sentença (iniciada em L1992)"
+    ]
+   ],
+   "obs": [
+    "A identificação «o druida da montanha» = «o Venerável Mordon» é dada pelo próprio livro (título, sumário e pela passagem de L1458–L1461, em que o «velho druida da montanha» que observa a comitiva é nomeado «Venerável Mordon»); a passagem está fraturada pelo hard-wrap e não coube numa linha, e por isso não foi usada como citação-chave — fica declarada aqui."
+   ]
+  },
+  {
+   "cod": "RC-211",
+   "slug": "kundalini",
+   "definicao": "Na leitura das Revelações Cósmicas, o «potencial sagrado da energia espiritual» conhecido nas culturas orientais da Terra como Kundalini: a energia de que a divindade criadora de padrões dependentes se utilizou para gerar, a partir da sua própria mente, a singularidade que deu origem ao nosso universo (B001). Na pregação mais recente, são as energias intrínsecas das Divindades Co-criadoras — «denominadas Kundalini» — que projetam e moldam novas realidades, num processo análogo a um colapso quântico, donde resultam domínios vibracionais inicialmente 99,99% semelhantes à pureza original, dada a imutabilidade da alma.",
+   "cit": [
+    [
+     "B001",
+     6256,
+     [
+      "Para isso ela se utilizou do “potencial sagrado da energia"
+     ],
+     "início da sentença sobre a geração da singularidade (continua em L6257)"
+    ],
+    [
+     "B001",
+     6257,
+     [
+      "espiritual” conhecida nas culturas orientais da T erra como Kundalini."
+     ],
+     "fecho intra-linha da mesma sentença (grafia «T erra» preservada como na fonte)"
+    ],
+    [
+     "P2024-05-04",
+     337,
+     [
+      "essas experiências, as Divindades Cocriadoras utilizaram suas energias"
+     ],
+     "palestra (STT segmentado) — início da sentença (continua em L338)"
+    ],
+    [
+     "P2024-05-04",
+     338,
+     [
+      "intrínsecas, denominadas Kundalini, para projetar e moldar novas realidades."
+     ],
+     "fecho intra-linha da mesma sentença"
+    ]
+   ],
+   "obs": [
+    "B074 e B075 constam do cadastro como fontes e a busca de 13/09/2026 localizou nelas o termo, mas empregado no sentido vital/prânico corrente (ao lado de «Prana» e «Ki»), diverso do sentido cosmológico que B001 e a pregação oral lhe dão — por isso não foram usadas como citação-chave."
+   ]
+  }
+ ]
+}

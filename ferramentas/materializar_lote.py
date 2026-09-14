@@ -127,7 +127,14 @@ def nota_hardwrap(lote: dict) -> str:
 
 def nota_chancela(lote: dict) -> str:
     """Governança: só recebe 🟢 quem tem V do Curador. O resto nasce 🟡 e vai a leva."""
-    if lote.get("aplicar_V"):
+    av = lote.get("aplicar_V")
+    if av == "presuncao-livro":
+        return ("**V presuntivo (fonte de livro):** despacho do Curador de 13/09/2026 — "
+                "`diagnostico/DESPACHO-V-POR-FONTE-DE-LIVRO-2026-09-13.md`. O 🟢 vem do lastro em obra "
+                "publicada (fonte `B###` declarada) + citação verbatim conferida byte a byte, **não** de "
+                "revisão termo a termo; as guardas E1–E5 foram verificadas antes da escrita. Reversível a "
+                "qualquer tempo, e identificado na Base por `via = P6-evidência` + `confianca_fonte = alta`.")
+    if av:
         return ("Ficha nascida com o **V já chancelado** pelo Curador e aplicado nesta unidade "
                 "(a trava §7 «sem ficha → bloqueia» deixa de incidir).")
     return ("**Status de nascença:** 🟡 **provisório** — este código nunca passou por leva de chancela "
@@ -152,6 +159,8 @@ def corpo(f: dict, termo: tuple, lote: dict) -> str:
         tipo = "livro; citação intra-linha" if sigla.startswith("B") else "palestra/STT; citação intra-linha"
         rows.append(f"| {sigla} | {titulo(sigla)} | {', '.join(ps)} | {tipo} |")
     n_arestas = sum(1 for a, _t, b, _f in _d.RELACOES if f["cod"] in (a, b))
+    tab = tabela_relacionados(f["cod"])
+    n_tab = max(0, tab.count("\n") - 1)
     return "\n".join([
         f"# {termo[1]} — {f['cod']}",
         "",
@@ -170,12 +179,13 @@ def corpo(f: dict, termo: tuple, lote: dict) -> str:
         "## Escopo e evidência",
         "",
         f"- Fontes declaradas no cadastro: {', '.join(termo[5])}.",
-        f"- Arestas em `RELACOES`: {n_arestas} — nada aberto, fechado ou reetiquetado nesta ficha.",
+        (f"- Arestas em `RELACOES`: {n_arestas} — a tabela abaixo soma a essas as do espelho "
+         f"do cadastro ({n_tab} no total). Nada aberto, fechado ou reetiquetado nesta ficha."),
         "- Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** "
         "(`CENSO-GAP-FICHAS-2026-09-13.json`).",
         "",
         "## Termos Relacionados",
-        tabela_relacionados(f["cod"]),
+        tab,
         "",
         "## Fontes",
         "",
@@ -254,11 +264,14 @@ def virar_cadastro(codes: list[str], aplicar_v: bool = False) -> int:
             l = linhas_arq[i]
             if not l.lstrip().startswith(f'("{cod}"'):
                 continue
-            assert l.rstrip().endswith("False),"), f"{cod}: linha não termina em False), — {l!r}"
-            novo = l.replace(", False),", ", True),")
+            # a linha pode carregar comentario de rastro depois de `False),` — ancorar na tupla
+            cabeca, sep, cauda = l.partition(", False),")
+            assert sep, f"{cod}: linha nao casa com o padrao da tupla — {l!r}"
+            corpo, resto = cabeca, cauda
             if aplicar_v:
-                assert ", P, [" in l, f"{cod}: esperava status P (provisório) — {l!r}"
-                novo = novo.replace(", P, [", ', "verificado", [', 1)
+                assert ", P, [" in corpo, f"{cod}: esperava status P (provisório) — {l!r}"
+                corpo = corpo.replace(", P, [", ', "verificado", [', 1)
+            novo = corpo + ", True)," + resto
             assert novo != l, f"{cod}: substituição não pegou — {l!r}"
             linhas_arq[i] = novo
             feitos.append(cod)

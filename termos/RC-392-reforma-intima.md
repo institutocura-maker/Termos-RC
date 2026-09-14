@@ -23,7 +23,7 @@ Na pregação do Grupo Atlan recolhida em B006, o processo de correção de si: 
 ## Escopo e evidência
 
 - Fontes declaradas no cadastro: B006, B074, B075, P2025-03-15.
-- Arestas em `RELACOES`: 1 — nada aberto, fechado ou reetiquetado nesta ficha.
+- Arestas em `RELACOES`: 1 — a tabela abaixo soma a essas as do espelho do cadastro (5 no total). Nada aberto, fechado ou reetiquetado nesta ficha.
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados

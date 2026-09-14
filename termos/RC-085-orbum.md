@@ -23,7 +23,7 @@ Planeta do Sistema de Capela — um magnífico sol cuja luz gasta cerca de 42 an
 ## Escopo e evidência
 
 - Fontes declaradas no cadastro: B031, B042, B057, P2020-08-08.
-- Arestas em `RELACOES`: 2 — nada aberto, fechado ou reetiquetado nesta ficha.
+- Arestas em `RELACOES`: 2 — a tabela abaixo soma a essas as do espelho do cadastro (7 no total). Nada aberto, fechado ou reetiquetado nesta ficha.
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados

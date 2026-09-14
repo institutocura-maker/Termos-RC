@@ -1021,7 +1021,7 @@
    "nome": "Benem",
    "categoria": "Lokas & Geografias",
    "subcategoria": "3.3 Localidades terrestres",
-   "status": "provisório",
+   "status": "verificado",
    "fontes": [
     "B031",
     "B017",
@@ -1035,9 +1035,9 @@
     "RC-058",
     "RC-109"
    ],
-   "ficha": false,
+   "ficha": true,
    "via": "P6-evidência",
-   "confianca_fonte": "média"
+   "confianca_fonte": "alta"
   },
   {
    "codigo": "RC-033",
@@ -1522,7 +1522,7 @@
    "nome": "Demiurgo",
    "categoria": "Termos Específicos",
    "subcategoria": "8.4 Grego / Latim",
-   "status": "provisório",
+   "status": "verificado",
    "fontes": [
     "B031"
    ],
@@ -1532,9 +1532,9 @@
     "RC-061",
     "RC-063"
    ],
-   "ficha": false,
+   "ficha": true,
    "via": "P6-evidência",
-   "confianca_fonte": "média"
+   "confianca_fonte": "alta"
   },
   {
    "codigo": "RC-049",
@@ -2241,7 +2241,7 @@
    "nome": "Keshava",
    "categoria": "Termos Específicos",
    "subcategoria": "8.1 Sânscrito / Hinduísmo",
-   "status": "provisório",
+   "status": "verificado",
    "fontes": [
     "B031",
     "P2026-04-02"
@@ -2252,9 +2252,9 @@
     "RC-135",
     "RC-081"
    ],
-   "ficha": false,
+   "ficha": true,
    "via": "P6-evidência",
-   "confianca_fonte": "média"
+   "confianca_fonte": "alta"
   },
   {
    "codigo": "RC-074",
@@ -2939,7 +2939,7 @@
    "nome": "Rogério de Almeida Freitas",
    "categoria": "Seres & Entidades",
    "subcategoria": "1.6 Figuras humanas (históricas/míticas)",
-   "status": "provisório",
+   "status": "verificado",
    "fontes": [
     "B031"
    ],
@@ -2947,9 +2947,9 @@
     "RC-071",
     "RC-094"
    ],
-   "ficha": false,
+   "ficha": true,
    "via": "P6-evidência",
-   "confianca_fonte": "média"
+   "confianca_fonte": "alta"
   },
   {
    "codigo": "RC-096",
@@ -3674,7 +3674,7 @@
    "nome": "Val Eno",
    "categoria": "Seres & Entidades",
    "subcategoria": "1.3 Extraterrestres / Raças cósmicas",
-   "status": "provisório",
+   "status": "verificado",
    "fontes": [
     "B031",
     "B017",
@@ -3687,9 +3687,9 @@
     "RC-071",
     "RC-125"
    ],
-   "ficha": false,
+   "ficha": true,
    "via": "P6-evidência",
-   "confianca_fonte": "média"
+   "confianca_fonte": "alta"
   },
   {
    "codigo": "RC-124",
@@ -5787,7 +5787,7 @@
    "nome": "Kundalini (no contexto RC)",
    "categoria": "Conceitos Cosmológicos",
    "subcategoria": "2.4 Espiritualidade / Doutrina",
-   "status": "provisório",
+   "status": "verificado",
    "fontes": [
     "B001",
     "B074",
@@ -5800,9 +5800,9 @@
     "RC-210",
     "RC-149"
    ],
-   "ficha": false,
+   "ficha": true,
    "via": "P6-evidência",
-   "confianca_fonte": "média"
+   "confianca_fonte": "alta"
   },
   {
    "codigo": "RC-212",
@@ -9474,7 +9474,7 @@
    "nome": "Mordon (o Druida da Montanha)",
    "categoria": "Seres & Entidades",
    "subcategoria": "1.6 Figuras humanas (históricas/míticas)",
-   "status": "provisório",
+   "status": "verificado",
    "fontes": [
     "B043"
    ],
@@ -9484,9 +9484,9 @@
     "RC-072",
     "RC-094"
    ],
-   "ficha": false,
+   "ficha": true,
    "via": "P6-evidência",
-   "confianca_fonte": "média"
+   "confianca_fonte": "alta"
   },
   {
    "codigo": "RC-375",
@@ -10994,7 +10994,7 @@
    "nome": "Tubal (filho de Jafé, centro de comércio)",
    "categoria": "Seres & Entidades",
    "subcategoria": "1.6 Figuras humanas (históricas/míticas)",
-   "status": "provisório",
+   "status": "verificado",
    "fontes": [
     "B052",
     "P2024-11-30"
@@ -11003,9 +11003,9 @@
     "RC-270",
     "RC-094"
    ],
-   "ficha": false,
+   "ficha": true,
    "via": "P6-evidência",
-   "confianca_fonte": "média"
+   "confianca_fonte": "alta"
   },
   {
    "codigo": "RC-439",
