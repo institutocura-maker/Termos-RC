@@ -22495,7 +22495,7 @@
     "RC-259",
     "RC-755"
    ],
-   "ficha": false,
+   "ficha": true,
    "via": "P6-evidência",
    "confianca_fonte": "baixa"
   },

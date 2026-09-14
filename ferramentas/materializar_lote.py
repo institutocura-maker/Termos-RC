@@ -125,8 +125,14 @@ def nota_hardwrap(lote: dict) -> str:
         "parágrafos), previsto no dossiê do gap."))
 
 
-def nota_chancela(lote: dict) -> str:
-    """Governança: só recebe 🟢 quem tem V do Curador. O resto nasce 🟡 e vai a leva."""
+def nota_chancela(lote: dict, status: str = "provisório") -> str:
+    """Governança: só recebe 🟢 quem tem V do Curador. O resto nasce 🟡 e vai a leva.
+
+    U77 — `status` é o status REAL do código no cadastro. Até aqui todos os
+    lotes da R1 eram «provisório»; RC-931 é «candidato». Dizer «provisório»
+    a quem o cadastro registra como «candidato» seria a ficha emprestar ao
+    registro um status que ele não tem (U60).
+    """
     av = lote.get("aplicar_V")
     if av == "presuncao-livro":
         return ("**V presuntivo (fonte de livro):** despacho do Curador de 13/09/2026 — "
@@ -138,13 +144,29 @@ def nota_chancela(lote: dict) -> str:
         return ("Ficha nascida com o **V já chancelado** pelo Curador e aplicado nesta unidade "
                 "(a trava §7 «sem ficha → bloqueia» deixa de incidir).")
     if lote.get("v_revogado"):
-        return ("**Status de nascença:** 🟡 **provisório** — a presunção de V por fonte de livro, que "
+        if status == "provisório":
+            return ("**Status de nascença:** 🟡 **provisório** — a presunção de V por fonte de livro, que "
+                    "chancelou os lotes 1 e 2, foi **REVOGADA pelo Curador para os lotes 3 em diante** "
+                    "(`diagnostico/DESPACHO-ROTAS-POS-V2-2026-09-13.md`): o instrumento que a lastreava "
+                    "estava submedido e estender a presunção sobre base comprometida comprometeria a Base. "
+                    "Sem V não há 🟢: a ficha nasce provisória e segue para leva de chancela, com as "
+                    "citações já extraídas e conferidas.")
+        # U77 — status diverso de «provisório» (ex.: «candidato», RC-931): o texto
+        # genérico diria «provisório» e emprestaria ao registro um status que ele
+        # não tem (U60). Diz-se o status REAL; o mais fica idêntico.
+        return (f"**Status de nascença:** 🟡 **{status}** — o status é o do cadastro, preservado "
+                "sem promoção (U42). A presunção de V por fonte de livro, que "
                 "chancelou os lotes 1 e 2, foi **REVOGADA pelo Curador para os lotes 3 em diante** "
                 "(`diagnostico/DESPACHO-ROTAS-POS-V2-2026-09-13.md`): o instrumento que a lastreava "
                 "estava submedido e estender a presunção sobre base comprometida comprometeria a Base. "
-                "Sem V não há 🟢: a ficha nasce provisória e segue para leva de chancela, com as "
+                f"Sem V não há 🟢: a ficha nasce **{status}** e segue para leva de chancela, com as "
                 "citações já extraídas e conferidas.")
-    return ("**Status de nascença:** 🟡 **provisório** — este código nunca passou por leva de chancela "
+    if status == "provisório":
+        return ("**Status de nascença:** 🟡 **provisório** — este código nunca passou por leva de chancela "
+                "(nenhuma planilha `chancela/P7-*.csv` o contém): a materialização da ficha foi despachada, "
+                "o **V não**, e marcar 🟢 sem chancela seria autocancela. A ficha segue para a próxima leva "
+                "de chancela, com as citações já extraídas e conferidas.")
+    return (f"**Status de nascença:** 🟡 **{status}** — este código nunca passou por leva de chancela "
             "(nenhuma planilha `chancela/P7-*.csv` o contém): a materialização da ficha foi despachada, "
             "o **V não**, e marcar 🟢 sem chancela seria autocancela. A ficha segue para a próxima leva "
             "de chancela, com as citações já extraídas e conferidas.")
@@ -206,7 +228,7 @@ def corpo(f: dict, termo: tuple, lote: dict) -> str:
         "",
         "\n".join("- " + o for o in f["obs"]),
         f"- {nota_hardwrap(lote)}",
-        f"- {nota_chancela(lote)}",
+        f"- {nota_chancela(lote, termo[4])}",
     ]
     if f.get("historico"):
         # Gaveta instituída pelo despacho DESPACHO-DIVERGENCIAS-CROSSREF-E-GRAFIA:
@@ -349,7 +371,12 @@ def main() -> int:
     for f in lote["fichas"]:
         t = T[f["cod"]]
         assert t[7] is True, f"{f['cod']}: ficha não virou True"
-        assert t[4] == ("verificado" if aplicar_v else "provisório"), f"{f['cod']}: status inesperado {t[4]!r}"
+        # U77 — sem V o status é PRESERVADO, nunca promovido (U42). A asserção não
+        # fixa um valor: «candidato» (RC-931) é tão legítimo quanto «provisório»;
+        # o que não pode é nascer «verificado» sem V do Curador.
+        assert (t[4] == "verificado") == bool(aplicar_v), (
+            f"{f['cod']}: status {t[4]!r} incompatível com aplicar_V={aplicar_v!r} "
+            f"(sem V o status do cadastro é preservado, nunca promovido)")
         texto = _m.fm_toml(t, lote["data"]) + corpo(f, t, lote)
         arq = os.path.join(RAIZ, "termos", f"{f['cod']}-{f['slug']}.md")
         if os.path.exists(arq):

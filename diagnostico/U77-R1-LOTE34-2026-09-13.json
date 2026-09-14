@@ -1,0 +1,264 @@
+{
+ "unidade": "U77",
+ "lote": 34,
+ "data": "2026-09-13",
+ "rota": "R1",
+ "criterio": "família B do censo v3 (referência homologada) — bloco de fonte única da B016 (O Quarto Logos), 1 código (RC-931), por despacho do Curador: LOTE FINAL DA VIA EXPRESSA. Esgota o poço de activos: família B v3 activos 1 → 0. Ancoragem pela obra que OCORRE (U57): RC-931 declara B016 e P2024-11-03; a evidência ocorre NA B016 e nada da palestra foi importado. O censo é ACHADOR, não CERCA (§6).",
+ "v_revogado": true,
+ "nota_fonte": "**Sem artefato de tabulação:** nenhuma das 10 057 linhas traz TAB (U+0009).\n\n⚠️ **CAPITULAR DESLOCADA — TERCEIRA OBRA COM O ARTEFATO.** A letra inicial do corpo de cada capítulo ficou solta em linha própria, antes do título ou depois dele. Provado em DOIS capítulos: cap. 8 — L6877 «8», L6878 «APOLÔNIO DE TIANA», L6879 «**C**», L6880 «**OSTUMO**», L6882 «**OLHAR**» = «**COSTUMO OLHAR** para a humanidade…» (L6883); cap. 9 — L7611 «9», L7612 «O QUARTO LOGOS E O PORVIR», L7613 «**M**», L7614 «**ESMO**», L7616 «**ANTES**», L7618 «**DA**» = «**MESMO ANTES DA** encarnação como Apolônio de Tiana» (L7619). Mesma classe da B011 (U74: «S» + «EM SABER…» = SEM SABER) e da capitular da U61. **Registrado e NÃO higienizado** (U58: a esteira de extração não se interrompe para limpar). Normalização proposta para a FRENTE 2 DO ENCERRAMENTO, junto com a da B049 (TAB → ESPAÇO).\n\n⭐ **CITAÇÃO EXTERNA NOMEADA — E A VARIAÇÃO «Apolónio» × «Apolônio» QUE ELA EXPLICA.** Entre L7204 e L7251 a B016 transcreve passagens de um livro português, que nomeia: «Segundo apontado pelos autores **Eduardo Amarante, Dulce Leal Abalada e George Robert Stowe Mead** (32), no livro “**Apolónio de Tiana — O Taumaturgo Contemporâneo de Jesus**”:»; a citação fecha em L7251. Em **L7252 a voz do autor retoma**: «**Fiz questão de reproduzir estas passagens** do excelente livro português», e o nome volta grafado «**Apolônio**» (acento circunflexo, L7253). As duas grafias pertencem, portanto, a **DUAS VOZES DISTINTAS** — o agudo à fonte citada, o circunflexo ao autor. Pelo critério U62/U70 (epígrafe citada ≠ doutrina do autor; fonte externa nomeada registra-se como CITAÇÃO, marcando-se a retoma da voz do narrador), **não é divergência interna da B016 e nenhuma etiqueta se acciona**. As duas grafias ficam registradas, verbatim.\n\n**Voz:** autor em PRIMEIRA PESSOA — «Fiz questão» (L7252), «o que penso ter sido instruído» (L7300), «conforme deduzi» (L7496), «este aflito escrevente» (L7506). Registrado como tal.\n\n**Ancoragem (U57):** RC-931 declara B016 e P2024-11-03; a evidência ocorre na B016. Nenhum conteúdo da palestra foi importado.\n\n**Alcance da leitura:** o censo declarou 3 blocos («7230-7273», «7275-7327», «7500-7532»). A leitura alcançou **L26 a L7509**, mais o intertexto de L1968 — donde vêm o sumário, o título do capítulo, a capitular, a moldura interpretativa, o mapa das doze horas e a citação externa. **Décimo terceiro uso consecutivo do §6.**",
+ "fichas": [
+  {
+   "cod": "RC-931",
+   "slug": "nuctemeron",
+   "definicao": "Em B016 (*O Quarto Logos*), o «Nuctemeron» é o único escrito de Apolônio de Tiana que, segundo a obra, chegou aos dias de hoje: «deixou escritos dos quais **apenas o enigmático “Nuctemeron”** chegou aos nossos dias» — «uma **estranha obra**», «apresentada como se a cada uma das **“doze horas”** da passagem do tempo da Criação, um anúncio ou uma constatação específica se fazia registrar por meio dos seus **vaticínios**». A B016 **reproduz as doze horas e oferece a sua própria leitura**, advertindo-o expressamente: «eis a sua **interpretação para os tempos atuais**»; donde o título que lhe dá — «Nuctemeron — **O Dia de Deus que Resplandece nas Trevas**» — ser **glosa do autor, e não o título do texto apolônio**. O autor fala sob **conjectura** («o que penso ter sido instruído», «conforme deduzi») e qualifica o legado de «meio que **hermeticamente**» deixado por Apolônio, «que nem mesmo os ocultistas se atreviam a ir mais além no campo da sua compreensão». Nada aqui é atribuído ao Nuctemeron que a B016 não lhe atribua.",
+   "cit": [
+    [
+     "B016",
+     26,
+     [
+      "Apolônio de Tiana"
+     ],
+     "o capítulo 8 no SUMÁRIO (entrada «8.» em L25) — é dentro dele que a obra trata do Nuctemeron"
+    ],
+    [
+     "B016",
+     6878,
+     [
+      "APOLÔNIO DE TIANA"
+     ],
+     "o título no CORPO, em caixa alta; o sumário o grafa em caixa normal (L26) — diferença de CAIXA, sem etiqueta (U63)"
+    ],
+    [
+     "B016",
+     6879,
+     [
+      "C"
+     ],
+     "⚠️ CAPITULAR DESLOCADA: a inicial do corpo ficou solta nesta linha; a continuação é «OSTUMO» (L6880)"
+    ],
+    [
+     "B016",
+     6880,
+     [
+      "OSTUMO"
+     ],
+     "⚠️ recomposição: L6879 «C» + L6880 «OSTUMO» + L6882 «OLHAR» = «COSTUMO OLHAR para a humanidade…» (L6883). Mesmo artefato da B011 (U74) — provado também no cap. 9: L7613 «M» + L7614 «ESMO» + L7616 «ANTES» + L7618 «DA» = «MESMO ANTES DA encarnação como Apolônio de Tiana» (L7619)"
+    ],
+    [
+     "B016",
+     7261,
+     [
+      "helenizado, que deixou escritos dos quais apenas o enigmático"
+     ],
+     "O ÚNICO SOBREVIVENTE: «deixou escritos dos quais apenas o enigmático “Nuctemeron” chegou aos nossos dias» (L7261-L7266)"
+    ],
+    [
+     "B016",
+     7263,
+     [
+      "Nuctemeron"
+     ],
+     "o título, isolado numa linha entre as aspas de L7262 e L7264 (hard-wrap)"
+    ],
+    [
+     "B016",
+     7294,
+     [
+      "Como já referido, do seu legado restou uma estranha obra, cujo título é"
+     ],
+     "«do seu legado restou uma ESTRANHA OBRA»"
+    ],
+    [
+     "B016",
+     7297,
+     [
+      "que foi apresentada como se a cada uma das “doze horas” da"
+     ],
+     "A ESTRUTURA — as DOZE HORAS (a obra apresenta exactamente doze: L7309, 7320, 7342, 7372, 7386, 7394, 7420, 7438, 7450, 7461, 7468, 7481)"
+    ],
+    [
+     "B016",
+     7298,
+     [
+      "passagem do tempo da Criação, um anúncio ou uma constatação específica se"
+     ],
+     "cada hora = «um anúncio ou uma constatação específica»"
+    ],
+    [
+     "B016",
+     7299,
+     [
+      "fazia registrar por meio dos seus vaticínios."
+     ],
+     "fecho: «por meio dos seus VATICÍNIOS»"
+    ],
+    [
+     "B016",
+     7300,
+     [
+      "Segundo o que penso ter sido instruído pelo “Codificador de Zion” que,"
+     ],
+     "⭐ REGIME DE CONJECTURA: «o que PENSO TER SIDO instruído» — grau de certeza do autor, sem etiqueta (U67)"
+    ],
+    [
+     "B016",
+     7306,
+     [
+      "interpretação para os tempos atuais:"
+     ],
+     "⭐ A MOLDURA DECISIVA: «eis a sua INTERPRETAÇÃO PARA OS TEMPOS ATUAIS» (L7305-L7306) — o que se segue NÃO é o texto apolônio: é a leitura do autor"
+    ],
+    [
+     "B016",
+     7308,
+     [
+      "Nuctemeron — O Dia de Deus que Resplandece nas Trevas"
+     ],
+     "⭐ A GLOSA: «O Dia de Deus que Resplandece nas Trevas». É o título que o autor dá à SUA interpretação (L7306), NÃO o título do texto apolônio — distinção que a própria fonte autoriza"
+    ],
+    [
+     "B016",
+     7309,
+     [
+      "Primeira Hora — Unidos, os daimons louvam a Deus; eles perdem a"
+     ],
+     "PRIMEIRA HORA (início do verso; o fecho vem em L7310)"
+    ],
+    [
+     "B016",
+     7310,
+     [
+      "sua malignidade e sua ira."
+     ],
+     "fecho do verso da primeira hora; a INTERPRETAÇÃO do autor vem logo a seguir (L7312) — esse é o padrão das doze"
+    ],
+    [
+     "B016",
+     7312,
+     [
+      "“Logo após” a efetivação da Criação e vencidas as etapas iniciais de"
+     ],
+     "a interpretação da primeira hora, exemplificando o método: verso da fonte apolônia + leitura do autor"
+    ],
+    [
+     "B016",
+     7450,
+     [
+      "Nona Hora — O número que não deve ser revelado."
+     ],
+     "NONA HORA — verso COMPLETO numa só linha (caso raro: as doze horas foram partidas pelo hard-wrap)"
+    ],
+    [
+     "B016",
+     7481,
+     [
+      "Décima-segunda Hora — Aqui se realiza, pelo Fogo, a Obra da Luz"
+     ],
+     "DÉCIMA-SEGUNDA HORA, a última das doze (o fecho vem em L7482)"
+    ],
+    [
+     "B016",
+     7496,
+     [
+      "É esta a interpretação que, conforme deduzi, seria a mais adequada ao que"
+     ],
+     "⭐ «É ESTA A INTERPRETAÇÃO QUE, CONFORME DEDUZI» — a fonte mesma marca o que é leitura sua"
+    ],
+    [
+     "B016",
+     7497,
+     [
+      "o ocultismo tão zelosamente cuidou em preservar para a posteridade."
+     ],
+     "o ocultismo PRESERVOU o texto; a leitura é do autor"
+    ],
+    [
+     "B016",
+     7501,
+     [
+      "compreender a interpretação sobre as “eras temporais” do"
+     ],
+     "«a INTERPRETAÇÃO sobre as “eras temporais” do “Nuctemeron”» (L7501-L7504)"
+    ],
+    [
+     "B016",
+     7503,
+     [
+      "Nuctemeron"
+     ],
+     "o nome, entre aspas, na fala de fecho"
+    ],
+    [
+     "B016",
+     7508,
+     [
+      "sobre a visão que Apolônio, meio que hermeticamente, nos legou, e que nem"
+     ],
+     "⭐ HERMÉTICO: «meio que hermeticamente» — o autor qualifica o próprio legado"
+    ],
+    [
+     "B016",
+     7509,
+     [
+      "mesmo os ocultistas se atreviam a ir mais além no campo da sua"
+     ],
+     "«nem mesmo os ocultistas se atreviam a ir mais além no campo da sua compreensão» (L7509-L7510)"
+    ],
+    [
+     "B016",
+     7204,
+     [
+      "Segundo apontado pelos autores Eduardo Amarante, Dulce Leal Abalada"
+     ],
+     "⭐ CITAÇÃO EXTERNA NOMEADA: «Eduardo Amarante, Dulce Leal Abalada e George Robert Stowe Mead» (L7204-L7205), no livro cujo título vem em L7209 — registra-se como CITAÇÃO, não como doutrina do autor (U62/U70)"
+    ],
+    [
+     "B016",
+     7209,
+     [
+      "Apolónio de Tiana — O"
+     ],
+     "o título do LIVRO CITADO, grafado «Apolónio» com acento AGUDO — a grafia é DA FONTE CITADA (livro português), não da voz do autor"
+    ],
+    [
+     "B016",
+     7251,
+     [
+      "Apolónio; contudo, este trabalho foi rapidamente suprimido.”"
+     ],
+     "fecho da citação externa; as aspas finais são da própria fonte"
+    ],
+    [
+     "B016",
+     7252,
+     [
+      "Fiz questão de reproduzir estas passagens do excelente livro português"
+     ],
+     "⭐ A RETOMA DA VOZ DO AUTOR: «Fiz questão de reproduzir estas passagens do excelente livro português» — e é aqui que «Apolônio» volta com acento CIRCUNFLEXO (L7253). A variação «Apolónio»×«Apolônio» NÃO é divergência interna da B016: pertence a duas vozes distintas"
+    ],
+    [
+     "B016",
+     1968,
+     [
+      "E a sua luz resplandece nas trevas, e as trevas não a compreenderam."
+     ],
+     "a ÚNICA outra ocorrência de «resplandece nas trevas» na B016: citação do Evangelho de João («(Jo, 1-1)», L1969), em passagem diversa (L1958-L1969). Registrada como COINCIDÊNCIA DE FORMULAÇÃO na mesma obra — a ficha NÃO afirma nexo entre as duas"
+    ]
+   ],
+   "obs": [
+    "⭐ **O QUE É O NUCTEMERON, PELA FONTE, E O QUE ELA NÃO LHE ATRIBUI.** «Passou à história como um filósofo taumaturgo da escola pitagórica, helenizado, que deixou escritos dos quais **apenas o enigmático “Nuctemeron” chegou aos nossos dias**» (L7260–L7266); «do seu legado restou uma **estranha obra**, cujo título é “Nuctemeron”, que foi apresentada como se a cada uma das **“doze horas”** da passagem do tempo da Criação, um anúncio ou uma constatação específica se fazia registrar por meio dos seus **vaticínios**» (L7294–L7299). A ficha não afirma autoria, data, língua nem procedência do texto apolônio: **a B016 não os declara**, e o que a fonte não diz a ficha não lhe atribui (U60).",
+    "⭐ **A MOLDURA INTERPRETATIVA — A DISTINÇÃO QUE GOVERNA TODA ESTA FICHA.** «Segundo o que **penso ter sido instruído** pelo “Codificador de Zion” que, por meio da personalidade de Apolônio, nos legou o “Nuctemeron”, **eis a sua INTERPRETAÇÃO para os tempos atuais**:» (L7300–L7306). Tudo o que se segue — a começar pelo próprio título «**Nuctemeron — O Dia de Deus que Resplandece nas Trevas**» (L7308) — é a **leitura do autor**, não o texto apolônio. A fonte mesma o confirma no fecho: «**É esta a interpretação que, conforme deduzi**, seria a mais adequada ao que o ocultismo tão zelosamente cuidou em preservar para a posteridade» (L7496–L7497). **A glosa é do autor; o Nuctemeron é de Apolônio. A ficha não os funde** (U64).",
+    "⭐ **O MAPA DAS DOZE HORAS (todas localizadas, todas na B016).** A obra apresenta exactamente doze: **Primeira** L7309 · **Segunda** L7320 · **Terceira** L7342 · **Quarta** L7372 · **Quinta** L7386 · **Sexta** L7394 · **Sétima** L7420 · **Oitava** L7438 · **Nona** L7450 · **Décima** L7461 · **Décima-primeira** L7468 · **Décima-segunda** L7481. O padrão é constante: o **verso** (entre aspas) seguido da **interpretação** do autor — exemplificado na Primeira Hora, cujo verso fecha em L7310 e cuja leitura começa em L7312. A Nona Hora («O número que não deve ser revelado.», L7450) é o único verso que coube inteiro numa linha; os demais foram partidos pelo *hard-wrap* e por isso aparecem como fragmentos distintos.",
+    "⭐ **CITAÇÃO EXTERNA NOMEADA, E A VARIAÇÃO «Apolónio» × «Apolônio» QUE ELA RESOLVE.** Entre L7204 e L7251 a B016 transcreve passagens de outro livro, que nomeia: «Segundo apontado pelos autores **Eduardo Amarante, Dulce Leal Abalada e George Robert Stowe Mead** (32), no livro “**Apolónio de Tiana — O Taumaturgo Contemporâneo de Jesus**”:», com fecho em L7251 («Apolónio; contudo, este trabalho foi rapidamente suprimido.”»). Em **L7252 a voz do autor retoma**: «**Fiz questão de reproduzir estas passagens** do excelente livro português», e o nome volta grafado «**Apolônio**» (L7253). As duas grafias pertencem a **duas vozes distintas** — acento agudo na fonte citada, circunflexo no autor. Pelo critério **U62/U70** (fonte externa nomeada registra-se como CITAÇÃO, marcando-se a retoma da voz), **não é divergência interna da B016 e nenhuma etiqueta se acciona**.",
+    "⚠️ **CAPITULAR DESLOCADA — TERCEIRA OBRA COM O ARTEFATO (B011 → B016).** A inicial do corpo de cada capítulo ficou solta em linha própria. Provado em dois capítulos: **cap. 8** — L6877 «8», L6878 «APOLÔNIO DE TIANA», L6879 «**C**», L6880 «**OSTUMO**», L6882 «**OLHAR**» = «**COSTUMO OLHAR** para a humanidade…» (L6883); **cap. 9** — L7611 «9», L7612 «O QUARTO LOGOS E O PORVIR», L7613 «**M**», L7614 «**ESMO**», L7616 «**ANTES**», L7618 «**DA**» = «**MESMO ANTES DA** encarnação como Apolônio de Tiana» (L7619). **Registrado e NÃO higienizado** (U58). Normalização proposta para a FRENTE 2 DO ENCERRAMENTO, com a da B049 (TAB → ESPAÇO).",
+    "**Caixa alta no título do capítulo — sem etiqueta.** O sumário grafa «Apolônio de Tiana» (L26) e o corpo grafa «APOLÔNIO DE TIANA» (L6878). Diferença de CAIXA = modo de imprimir, não o termo mesmo (U63). Nenhuma etiqueta accionada.",
+    "**Regime de conjectura — sem etiqueta (U67).** «o que **penso ter sido instruído**» (L7300), «**conforme deduzi**» (L7496), «**Sei da dificuldade** que o(a) presumível leitor(a) […] terá» (L7498), «é o que se pode ofertar» (L7507). A fonte não afirma duas coisas incompatíveis no mesmo regime: **marca ela própria o grau de certeza**. Nenhuma etiqueta accionada.",
+    "**Hermético, e além do alcance dos ocultistas — dito pelo autor.** «sobre a visão que Apolônio, **meio que hermeticamente**, nos legou, e que **nem mesmo os ocultistas se atreviam a ir mais além** no campo da sua compreensão» (L7508–L7510). Registrado como qualificação do autor, não como juízo da Base.",
+    "**Coincidência de formulação, registrada SEM nexo afirmado.** A expressão «resplandece nas trevas» ocorre **duas vezes** na B016: na glosa do Nuctemeron (L7308) e, em passagem inteiramente diversa, como **citação do Evangelho de João** — «E a sua luz resplandece nas trevas, e as trevas não a compreenderam. (Jo, 1-1).» (L1968–L1969). A ficha registra a coincidência e **não afirma** que uma derive da outra: isso a fonte não diz (U60).",
+    "**Sem artefato de tabulação:** nenhuma das 10 057 linhas da B016 traz TAB (U+0009) — contraste com a B049 (7 886).",
+    "**Ancoragem (U57):** RC‑931 declara B016 e P2024‑11‑03; a evidência ocorre **na B016**. Nenhum conteúdo da palestra foi importado.",
+    "⚠️ **Alcance da leitura (§6):** o censo declarou 3 blocos — «7230‑7273», «7275‑7327», «7500‑7532». A leitura alcançou **L26 a L7509**, mais o intertexto de L1968, donde vêm o sumário, o título do capítulo, a capitular, a moldura interpretativa, o mapa das doze horas, o fecho hermético e a citação externa. **Décimo terceiro uso consecutivo do §6.**"
+   ]
+  }
+ ]
+}

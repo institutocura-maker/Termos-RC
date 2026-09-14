@@ -3290,3 +3290,39 @@ primeiro, donde SEM etiqueta. Juízo de fronteira.
 **21** (1 activo + 20 congelados) · 🟢 inalterado (572).
 
 **Activo restante: RC-931 (B016) — o último.**
+
+
+## U77 — R1 · lote 34, O LOTE FINAL: a B016 (RC-931 «Nuctemeron»)
+
+**Despacho do Curador:** lote 34 aprovado com honras; último código activo.
+
+**1 ficha, 29 fragmentos, 0 falhas.** RC-931 Nuctemeron.
+**ACTIVOS DA FAMÍLIA B v3: 1 → 0 — o poço secou.**
+
+Ressalva: a B016 não fica «fechada» — esgota os seus códigos da família B
+(RC-931, 1 de 1) e conserva 4 de outras famílias (RC-254 F · RC-255 D ·
+RC-256 E · RC-930 F), fora da R1.
+
+**A moldura interpretativa:** «eis a sua INTERPRETAÇÃO para os tempos atuais»
+(L7305-L7306) — donde a glosa «Nuctemeron — O Dia de Deus que Resplandece nas
+Trevas» (L7308) ser DO AUTOR, não o título do texto apolônio. «É esta a
+interpretação que, conforme deduzi» (L7496). A glosa é do autor; o Nuctemeron
+é de Apolônio — U64, não fundir.
+
+Doze horas, todas localizadas (L7309 → L7481). Verso + interpretação.
+
+**«Apolónio» × «Apolônio» resolvida pela VOZ:** L7204-L7251 é citação
+NOMEADA de livro português (Amarante / Abalada / Mead); L7252 «Fiz questão de
+reproduzir estas passagens» retoma a voz do autor, e o circunflexo volta.
+U62/U70 — nenhuma etiqueta.
+
+**Capitular deslocada, 3.ª obra (B011 → B016):** provada em 2 capítulos —
+«C»+«OSTUMO»+«OLHAR» = COSTUMO OLHAR; «M»+«ESMO»+«ANTES»+«DA» = MESMO ANTES DA.
+
+⚠️ **Reparo no driver (submetido a homologação):** RC-931 é «candidato», status
+que o driver desconhecia. Asserção generalizada (sem V nada nasce verificado);
+texto byte a byte idêntico quando o status é «provisório». Erro meu no caminho:
+a 1.ª versão alterou retroativamente RC-372/RC-377 — desfeito e provado.
+
+**Números:** 819 → **820 fichas** · GAP 127 → **126** · família B v3 21 →
+**20** (0 activos + 20 congelados) · 🟢 inalterado (572).
