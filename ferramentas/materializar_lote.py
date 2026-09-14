@@ -137,6 +137,13 @@ def nota_chancela(lote: dict) -> str:
     if av:
         return ("Ficha nascida com o **V já chancelado** pelo Curador e aplicado nesta unidade "
                 "(a trava §7 «sem ficha → bloqueia» deixa de incidir).")
+    if lote.get("v_revogado"):
+        return ("**Status de nascença:** 🟡 **provisório** — a presunção de V por fonte de livro, que "
+                "chancelou os lotes 1 e 2, foi **REVOGADA pelo Curador para os lotes 3 em diante** "
+                "(`diagnostico/DESPACHO-ROTAS-POS-V2-2026-09-13.md`): o instrumento que a lastreava "
+                "estava submedido e estender a presunção sobre base comprometida comprometeria a Base. "
+                "Sem V não há 🟢: a ficha nasce provisória e segue para leva de chancela, com as "
+                "citações já extraídas e conferidas.")
     return ("**Status de nascença:** 🟡 **provisório** — este código nunca passou por leva de chancela "
             "(nenhuma planilha `chancela/P7-*.csv` o contém): a materialização da ficha foi despachada, "
             "o **V não**, e marcar 🟢 sem chancela seria autocancela. A ficha segue para a próxima leva "
@@ -226,9 +233,17 @@ def checar_excecoes(cods: list[str], lote: dict) -> list[str]:
             campos = ln.rstrip("\r\n").split(";")
             if campos and campos[0].strip() in T and "DESFECHO" not in ln:
                 hold.add(campos[0].strip())
-    censo = _os.path.join(RAIZ, "diagnostico", "CENSO-GAP-FICHAS-2026-09-13.json")
-    fam = ({c["cod"]: c["fam"] for c in _json.load(open(censo, encoding="utf-8"))}
-           if _os.path.exists(censo) else {})
+    # Censo v2 primeiro: o v1 submedia a família E em ~70% (falso negativo do
+    # hard-wrap) e a guarda E3 barraria códigos que são família B de verdade —
+    # foi o caso da RC-171, que motivou a unidade U45.
+    fam = {}
+    for nome in ("CENSO-RECLASSIFICADO-2026-09-13.json",
+                 "CENSO-GAP-FICHAS-2026-09-13.json"):
+        censo = _os.path.join(RAIZ, "diagnostico", nome)
+        if _os.path.exists(censo):
+            fam = {c["cod"]: c.get("fam_v2", c["fam"])
+                   for c in _json.load(open(censo, encoding="utf-8"))}
+            break
     usos = {c: set() for c in cods}                                  # E4
     for arq in glob.glob(_os.path.join(RAIZ, "termos", "*.md")):
         with open(arq, encoding="utf-8") as fh:

@@ -2418,3 +2418,39 @@ a chave está de fato dentro do bloco citado, em contexto real (glossário da B0
 **Aguarda despacho do Curador:** (i) o poço da R1 passa a ser os 142 da família B da v2?
 (ii) os 52 E saem da R1 e vão para R4? (iii) o V presuntivo (escopo: lotes 1–2) vale
 para os próximos lotes?
+
+## U46 (13/09/2026) — lote 3: as 10 Eras da Criação (sem V)
+
+Despacho do Curador em resposta ao relatório do censo v2 (U45), lavrado em
+`diagnostico/DESPACHO-ROTAS-POS-V2-2026-09-13.md`:
+
+1. **Poço da R1 = os 142 da família B do censo v2.** Mapa antigo descartado.
+2. **52 E → R4** (declarar ausência / lápide / fusão) e **21 D + 17 C → R3**
+   (curadoria). Todos fora da esteira da R1.
+3. **V presuntivo REVOGADO do lote 3 em diante.** A deriva que eu mesmo apontei
+   foi estancada pelo Curador.
+
+**Materializadas (10, todas do §16 da B024, L4737–L5016):** RC-156 Era da Solidão ·
+RC-157 Era da Geração · RC-158 Era da Punição · RC-159 Era do Impasse · RC-168 Era
+da Lila e da Aceitação · RC-169 Era da Semeadura Universal · RC-170 Era do
+Refinamento da Semeadura Biológica Universal · RC-171 Era da Geopolítica Universal
+e da Divisão do Comando · RC-172 Era da Criatura Universal · RC-173 Era das
+Supercivilizações.
+
+- 50 fragmentos verbatim intra-linha, conferidos byte a byte — **0 falhas**.
+- Guarda-chuva RC-155 «Eras da Criação (10 eras)» já tinha ficha: a família fechou.
+- **Nenhuma nasce 🟡→🟢**: `ficha False→True` com **status preservado** (provisório).
+- Suíte 21/21 (T13 707 · T14 0 · T15 707/0) · verificador 946/707/1887 · 5 builds.
+- GAP 249→239 · família B v2: 142→**132 restantes**.
+
+**Duas correções no driver (`ferramentas/materializar_lote.py`):**
+1. A guarda **E3 passa a ler o censo v2** — consultava o v1 e barraria a RC-171
+   («E.não-achado-no-corpus»), o caso que motivou toda a U45.
+2. `nota_chancela` passa a lavrar a **revogação** no corpo da ficha (quando o lote
+   traz `v_revogado`), apontando ao despacho — para que nenhum 🟡 pareça esquecimento.
+
+**Lição registrada nas próprias fichas:** RC-170, RC-171 e RC-172 trazem em
+Observações que o censo v1 as classificou mal (C, E e D) e por quê (título partido
+pelo hard-wrap). Fica a memória do erro no lugar onde ele teria consequência.
+
+**Próximo:** lote 4 sobre os 132 restantes da família B v2, sempre sem V.

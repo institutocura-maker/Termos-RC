@@ -1,0 +1,166 @@
+{
+ "unidade": "U46",
+ "lote": 3,
+ "data": "2026-09-13",
+ "rota": "R1",
+ "criterio": "família B do censo v2 (CENSO-RECLASSIFICADO-2026-09-13.json) — despacho DESPACHO-ROTAS-POS-V2-2026-09-13.md",
+ "v_revogado": true,
+ "nota_hardwrap": "**Fratura de hard-wrap:** a edição digital das fontes quebra as sentenças em linhas curtas (a maior linha da B024 tem 92 caracteres). Cada fragmento entre «» é verbatim **intra-linha**, conferido byte a byte contra o `original.txt` da obra declarada; quando uma sentença foi partida, o seu início e o seu fecho aparecem como fragmentos distintos, com as linhas indicadas.",
+ "fichas": [
+  {
+   "cod": "RC-156",
+   "slug": "era-da-solidao",
+   "definicao": "Primeira das dez eras da Criação (B024 §16.1): durou até cerca de 500 milhões de anos após o início da Criação e corresponde ao período da «solidão» — a grande e dolorosa marca dessa era — do Criador, que «caiu» e se tornou «prisioneiro» da própria Obra. Nela ocorreu a «reconstrução» do Ser «decaído» — que era Prabrajna, antes de ser «sugado» pela sua Criação —, nos moldes holográficos em que passou a ser conhecido até os tempos atuais, isto é, como Brahma/Javé. Brahma se auto-organiza e começa a tentar criar diversas levas de clones.",
+   "cit": [
+    ["B024", 4738, ["Durou até cerca de 500 milhões de anos após o início da Criação."], "sentença íntegra (abertura do §16.1)"],
+    ["B024", 4739, ["Essa primeira era corresponde ao período da “solidão” – a grande e"], "início da sentença sobre a marca da era (continua em L4740–L4742)"],
+    ["B024", 4742, ["“prisioneiro” da própria Obra."], "fecho intra-linha da mesma sentença"],
+    ["B024", 4743, ["Ocorreu a “reconstrução” do Ser “decaído” – que era Prabrajna,"], "início da sentença sobre a reconstrução do Criador (continua em L4744–L4746)"],
+    ["B024", 4747, ["Brahma se auto-organiza e começa a tentar criar diversas levas de"], "início da sentença final do §16.1 (fecho em L4748)"]
+   ],
+   "obs": [
+    "As dez eras são relacionadas em conjunto sob **RC-155 «Eras da Criação (10 eras)»**, que já possui ficha."
+   ]
+  },
+  {
+   "cod": "RC-157",
+   "slug": "era-da-geracao",
+   "definicao": "Segunda era (B024 §16.2), de 500 milhões a 2,2 bilhões de anos após o início da Criação: era em que Brahma gerou diversas espécies de clones a partir do seu próprio «Código-fonte Definidor Pessoal». Savna «mergulhou» quando a Criação contava com 1,63 bilhão de anos, surgindo como um clone; esse clone foi considerado «rebelde» porque agrediu Brahma na altura dos 2,2 bilhões de anos após a Criação. Seguiu-se um período de cerca de 300 milhões de anos de recuperação e reorganização de Brahma, que se preparava para punir o clone rebelde e os seus seguidores.",
+   "cit": [
+    ["B024", 4752, ["De 500 milhões a 2,2 bilhões de anos após o início da Criação."], "sentença íntegra (abertura do §16.2)"],
+    ["B024", 4753, ["Era em que Brahma gerou diversas espécies de clones a partir do"], "início da sentença definidora (continua em L4754)"],
+    ["B024", 4754, ["seu próprio “Código-fonte Definidor Pessoal”."], "fecho intra-linha da sentença definidora"],
+    ["B024", 4757, ["“rebelde” porque agrediu Brahma na altura dos 2,2 bilhões anos"], "fecho intra-linha da sentença sobre o clone rebelde (início em L4755–L4756)"],
+    ["B024", 4762, ["Os “agentes da vida” eram os anjos-clones robotizados e o anjo-"], "início da sentença sobre os agentes da vida (continua em L4763–L4764)"]
+   ],
+   "obs": [
+    "As dez eras são relacionadas em conjunto sob **RC-155 «Eras da Criação (10 eras)»**, que já possui ficha."
+   ]
+  },
+  {
+   "cod": "RC-158",
+   "slug": "era-da-punicao",
+   "definicao": "Terceira era (B024 §16.3), de 2,2 a 3,2 bilhões de anos após o início da Criação: começou com a punição do anjo-clone «rebelde» e de muitos outros grupos de anjos-clones, considerados por Brahma «cúmplices» do «traidor». Ao fazê-lo, Brahma destruiu o corpo do clone rebelde, liberando a sua alma então «infectada» pelos padrões da luta mantida, o que a levou a assumir uma forma mutante, surgindo assim o demônio Shiva, que deu origem à estirpe demo.",
+   "cit": [
+    ["B024", 4766, ["De 2,2 a 3,2 bilhões de anos"], "início da sentença de abertura do §16.3"],
+    ["B024", 4768, ["após o início da Criação."], "fecho da mesma sentença, fraturada por linha em branco (L4767)"],
+    ["B024", 4769, ["A terceira era começou com a punição do anjo-clone “rebelde” e de"], "início da sentença definidora (continua em L4770–L4771)"],
+    ["B024", 4774, ["levou a assumir uma forma mutante, surgindo assim o demônio"], "meio da sentença sobre a origem de Shiva (início em L4772–L4773)"],
+    ["B024", 4775, ["Shiva, que deu origem à estirpe demo."], "fecho intra-linha da mesma sentença"]
+   ],
+   "obs": [
+    "As dez eras são relacionadas em conjunto sob **RC-155 «Eras da Criação (10 eras)»**, que já possui ficha.",
+    "O §16.3 prossegue descrevendo o anjo-clone «castigado» que hesitou em se expressar como demo (B024 L4791–L4802), cuja mutação no código de vida teria alicerçado o DNA a partir do qual surgiu o Homo sapiens — matéria que excede o recorte desta ficha e fica registrada como existente na fonte."
+   ]
+  },
+  {
+   "cod": "RC-159",
+   "slug": "era-do-impasse",
+   "definicao": "Quarta era (B024 §16.4), de 3,2 a 4,3 bilhões de anos após o início da Criação: época na qual o Senhor Brahma já havia definitivamente perdido a capacidade de criar seres sozinho, devido à agressão de Shiva. A capacidade de criação de novas espécies ficou então com algumas classes de anjos-clones — para as quais Brahma repassara o seu poder criador — e com outros processos. O caos se estabeleceu em todo o universo antimaterial e surgiram as «famílias» Aya e Aye, novas versões de clones antes existentes.",
+   "cit": [
+    ["B024", 4809, ["De 3,2 a 4,3 bilhões de anos"], "início da sentença de abertura do §16.4"],
+    ["B024", 4811, ["após o início da Criação."], "fecho da mesma sentença, fraturada por linha em branco (L4810)"],
+    ["B024", 4812, ["Época na qual o Senhor Brahma já havia definitivamente perdido a"], "início da sentença definidora (continua em L4813)"],
+    ["B024", 4813, ["capacidade de criar seres sozinho devido à agressão de Shiva."], "fecho intra-linha da sentença definidora"],
+    ["B024", 4817, ["O caos se estabeleceu em todo o universo antimaterial, e os “atores"], "início da sentença sobre o caos (continua em L4818–L4819)"]
+   ],
+   "obs": [
+    "As dez eras são relacionadas em conjunto sob **RC-155 «Eras da Criação (10 eras)»**, que já possui ficha."
+   ]
+  },
+  {
+   "cod": "RC-168",
+   "slug": "era-da-lila-e-da-aceitacao",
+   "definicao": "Quinta era (B024 §16.5), de 4,3 a 5,7 bilhões de anos após o início da Criação: começa com a institucionalização da Lila e da «aceitação», por parte do Senhor Brahma, da «semeadura» do seu «Código-fonte Definidor Pessoal» (CFDP), já manipulado e transformado em «código-fonte definidor de vida» (CFD), a ser testado nas naturezas planetárias do universo físico favoráveis à vida, visando a produção genética de seres menos «problemáticos», menos poderosos e menos «adoentados» pela «afetação» do psiquismo do Criador. Nela surge o «Projeto Talm» nos seus postulados teóricos.",
+   "cit": [
+    ["B024", 4844, ["De 4,3 a 5,7 bilhões de anos"], "início da sentença de abertura do §16.5"],
+    ["B024", 4847, ["A quinta era começa com a institucionalização da"], "início da sentença definidora (continua em L4848–L4856)"],
+    ["B024", 4850, ["“aceitação”, por parte do Senhor Brahma, da “semeadura” do seu"], "meio da sentença definidora, já no trecho do CFDP/CFD"],
+    ["B024", 4852, ["transformado em “código-fonte definidor de vida” (CFD), a ser"], "meio da mesma sentença (a sigla CFD é grafada assim na fonte)"],
+    ["B024", 4860, ["Os “agentes da vida” são os mesmos da “Era do Impasse”."], "sentença íntegra de fecho do §16.5, remetendo à RC-159"]
+   ],
+   "obs": [
+    "As dez eras são relacionadas em conjunto sob **RC-155 «Eras da Criação (10 eras)»**, que já possui ficha."
+   ]
+  },
+  {
+   "cod": "RC-169",
+   "slug": "era-da-semeadura-universal",
+   "definicao": "Sexta era (B024 §16.6), de 5,7 a 7,2 bilhões de anos após o início da Criação: com o «Projeto Talm» inicia-se, efetivamente, uma nova era na qual começou a ter lugar a «semeadura» da vida biológica no universo material. Apareceram os primeiros protótipos de seres evolutivos, com liberdade racional decorrente da associação celular — função sexuada em diversos níveis de consecução — de dois ou mais seres, e surgiram padrões de forma corporal parecidos com os de espécies animais hoje conhecidas na Terra, com destaque para o primata/humanoide.",
+   "cit": [
+    ["B024", 4862, ["De 5,7 a 7,2 bilhões de anos"], "início da sentença de abertura do §16.6"],
+    ["B024", 4865, ["Com o “Projeto"], "início da sentença definidora — o nome do projeto está partido entre L4865 e L4866"],
+    ["B024", 4868, ["qual começou a ter lugar a “semeadura” da vida biológica no"], "meio da mesma sentença (início em L4867, fecho em L4869)"],
+    ["B024", 4870, ["Apareceram os primeiros protótipos de seres evolutivos, com"], "início da sentença sobre os primeiros protótipos (continua em L4871–L4872)"],
+    ["B024", 4872, ["sexuada em diversos níveis de consecução – de dois ou mais seres."], "fecho intra-linha da mesma sentença"]
+   ],
+   "obs": [
+    "As dez eras são relacionadas em conjunto sob **RC-155 «Eras da Criação (10 eras)»**, que já possui ficha."
+   ]
+  },
+  {
+   "cod": "RC-170",
+   "slug": "era-do-refinamento-da-semeadura-biologica-universal",
+   "definicao": "Sétima era (B024 §16.7), de 7,2 a 13,8 bilhões de anos após o início da Criação — ou seja, até a atualidade, durando 6,6 bilhões de anos: nela começou o fechamento dos portais entre os universos antimaterial e material, consumado em dezembro de 2012, e surgiram diversas espécies evolutivas promovidas pelo «Projeto Talm», com baixo «padrão de afetação» no código genético, dentre as quais a humana da Terra (Homo sapiens). É a era em que se situa o leitor: «nós estamos vivendo o final da sétima era». Termina quando Sophia se apresentar na Terra, evento que caracterizará a «divisão de Comando».",
+   "cit": [
+    ["B024", 4908, ["De 7,2 a 13,8 bilhões de anos"], "início da sentença de abertura do §16.7"],
+    ["B024", 4911, ["a atualidade – está durando 6,6 bilhões de anos."], "fecho da mesma sentença (início em L4909–L4910)"],
+    ["B024", 4912, ["O fechamento dos portais entre os universos antimaterial e material"], "início da sentença sobre o fechamento dos portais (continua em L4913)"],
+    ["B024", 4913, ["começou nesta sétima era, cujos tempos finais estamos vivendo."], "fecho intra-linha da mesma sentença"],
+    ["B024", 4928, ["Finalmente, surgem as tão esperadas e desejadas espécies."], "sentença íntegra"],
+    ["B024", 4736, ["universal, nós estamos vivendo o final da sétima era."], "fecho da fala introdutória do capítulo 16 (L4733–L4736), que situa o leitor na sétima era"]
+   ],
+   "obs": [
+    "As dez eras são relacionadas em conjunto sob **RC-155 «Eras da Criação (10 eras)»**, que já possui ficha.",
+    "**Classificação corrigida pelo censo v2:** a v1 registrou este código como «C.prosa-fora-das-fontes-declaradas» porque buscava o nome inteiro numa só linha; o título do §16.7 está partido entre L4906 e L4907 pelo hard-wrap. A prosa é da própria B024, fonte declarada — donde «B.prosa-citável-na-fonte-declarada»."
+   ]
+  },
+  {
+   "cod": "RC-171",
+   "slug": "era-da-geopolitica-universal-e-da-divisao-do-comando",
+   "definicao": "Oitava era (B024 §16.8): inicia-se com a volta de Jesus/Sophia, quando a atuação mais clara do «Quarto Logos» começa a ter lugar, e Brahma, Vishnu e Shiva, em suas expressões Adhydaiva, vão deixar de existir — Vishnu já o fez, transmitindo o seu legado, no «campo da Gestão», ao «consórcio» dos seus avatares Sophia e Jesus. O universo antimaterial já está se acabando e, ao longo desta era, as consciências de lá migrarão para o universo material, pois na nona era só existirá este último. O DNA humano criado na Terra será «semeado» no Cosmos.",
+   "cit": [
+    ["B024", 4966, ["A oitava era se inicia com a volta de Jesus/Sophia, e a"], "início da sentença definidora (continua em L4967–L4968)"],
+    ["B024", 4968, ["clara do “Quarto Logos” começa a ter lugar."], "fecho intra-linha da mesma sentença"],
+    ["B024", 4969, ["Brahma, Vishnu e Shiva, em suas expressões"], "início da sentença sobre o fim das expressões Adhydaiva (continua em L4970–L4972)"],
+    ["B024", 4981, ["O universo antimaterial já está se acabando, e ao longo da oitava"], "início da sentença sobre a migração das consciências (continua em L4982–L4988)"],
+    ["B024", 4994, ["será “semeado” no Cosmos."], "fecho da sentença sobre o DNA humano (início em L4989–L4993)"]
+   ],
+   "obs": [
+    "As dez eras são relacionadas em conjunto sob **RC-155 «Eras da Criação (10 eras)»**, que já possui ficha.",
+    "**Classificação corrigida pelo censo v2 — caso mais grave da família:** a v1 registrou este código como «E.não-achado-no-corpus» (occ=0), e a guarda E3 o teria BLOQUEADO de receber o V presuntivo. O título do §16.8 está partido entre L4962 e L4963 pelo hard-wrap; a era tem 30 linhas de prosa na própria B024, fonte declarada."
+   ]
+  },
+  {
+   "cod": "RC-172",
+   "slug": "era-da-criatura-universal",
+   "definicao": "Nona era (B024 §16.9): quando surgirá, neste universo, o melhor protótipo do «Projeto Talm» — a chamada «Criatura Universal», associada à «Mente Universal Emergente» —, que se espalhará em todos os mundos. Nela só existirá o universo material, pois o antimaterial já estará finalizado.",
+   "cit": [
+    ["B024", 4996, ["É quando surgirá, neste universo, o melhor protótipo do “Projeto"], "início da sentença definidora (continua em L4997–L4999)"],
+    ["B024", 4998, [", a chamada “Criatura Universal” – associada à “Mente"], "meio da mesma sentença"],
+    ["B024", 4999, ["Universal Emergente” –, que se espalhará em todos os mundos."], "fecho intra-linha da mesma sentença"],
+    ["B024", 5000, ["Só existirá o universo material, pois o universo antimaterial já"], "início da sentença final do §16.9 (fecho em L5001–L5002)"]
+   ],
+   "obs": [
+    "As dez eras são relacionadas em conjunto sob **RC-155 «Eras da Criação (10 eras)»**, que já possui ficha.",
+    "**Classificação corrigida pelo censo v2:** a v1 registrou este código como «D.só-estrutural»; a prosa do §16.9 (L4996–L5002) é definidora e está na própria B024, fonte declarada.",
+    "O termo «Criatura Universal» também consta como entrada autônoma (RC-042), com ficha própria e status em análise."
+   ]
+  },
+  {
+   "cod": "RC-173",
+   "slug": "era-das-supercivilizacoes",
+   "definicao": "Décima e última era (B024 §16.10): surgimento de «supercivilizações» no universo material, que realizarão o difícil e delicado trabalho dessa etapa final. Quem idealizou o «Projeto Talm» baseou a vida no elemento químico carbono, além de utilizar outras duas bases de vida, que serão descobertas no futuro. É a última era, quando este universo se acaba, finalizando esta Criação; após a entropia, todos os protagonistas dessa história terão voltado para a Espiritualidade.",
+   "cit": [
+    ["B024", 5004, ["Surgimento de “supercivilizações” no universo material."], "sentença íntegra (abertura do §16.10)"],
+    ["B024", 5005, ["O difícil e delicado trabalho dessa última etapa será realizado por"], "início da sentença (continua em L5008)"],
+    ["B024", 5008, ["essas “supercivilizações”. Nós nos veremos por lá, caro(a) leitor(a)!"], "fecho da mesma sentença, fraturada pelo marca-página de L5007"],
+    ["B024", 5014, ["Última era, quando este universo se acaba, finalizando esta Criação."], "sentença íntegra"],
+    ["B024", 5015, ["Após a entropia finalizar este universo, todos os protagonistas dessa"], "início da sentença de fecho do capítulo (continua em L5016)"]
+   ],
+   "obs": [
+    "As dez eras são relacionadas em conjunto sob **RC-155 «Eras da Criação (10 eras)»**, que já possui ficha."
+   ]
+  }
+ ]
+}
