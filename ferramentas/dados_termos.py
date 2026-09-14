@@ -474,7 +474,7 @@ TERMOS = [
     ("RC-349", "Exílios Interplanetários", EVE_GUE[0], EVE_GUE[1], P, ["B003"], "RC-342; RC-007; RC-002; RC-094", False),
     ("RC-350", "Jesus, o Capelino", SER_HUM[0], SER_HUM[1], P, ["B025"], "RC-072; RC-007; RC-039; RC-094", False),
     ("RC-351", "Mestres de Capela", SER_HUM[0], SER_HUM[1], P, ["B025"], "RC-039; RC-094; RC-346; RC-350", False),
-    ("RC-352", "A Segunda Grande Vinda", EVE_PRO[0], EVE_PRO[1], P, ["B025"], "RC-005; RC-072; RC-094", False),
+    ("RC-352", "A Segunda Grande Vinda", EVE_PRO[0], EVE_PRO[1], P, ["B025"], "RC-005; RC-072; RC-094", True),
     ("RC-353", "Ilha Cósmica (mundos rebelados)", LOK_REG[0], LOK_REG[1], P, ["B003"], "RC-342; RC-002; RC-070; RC-094", True),
     ("RC-354", "Trilogia Queda e Ascensão Espiritual", TEC_ESC[0], TEC_ESC[1], P, ["B003", "B025", "B026"], "RC-003; RC-025; RC-026; RC-094", False),
 

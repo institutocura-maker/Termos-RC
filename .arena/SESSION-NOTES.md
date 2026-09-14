@@ -3181,3 +3181,29 @@ ocorrência SEM RESOLVER se é o mesmo referente.
 **25** (5 activos + 20 congelados) · cadastro 572🟢 inalterado.
 
 **Próximo:** RC-352 → B025.
+
+
+## U73 — R1 · lote 30: a B025 (RC-352 «A Segunda Grande Vinda»)
+
+**Despacho do Curador:** lote 30 = B025; Via (a) mantida; verificação dupla de
+HEAD. 5 activos na contagem.
+
+**1 ficha, 9 fragmentos, 0 falhas na primeira passada.** RC-352 A Segunda
+Grande Vinda. **B025 1→0.**
+
+⚠️ **OITO FORMAS PARA UM SÓ REFERENTE — o caso mais próximo da linha do §5.**
+«Segunda Grande Vinda» · «Segunda Vinda» · «Sua Grande Vinda» · «Vinda do
+Mestre»... Sem etiqueta (§5.2: mesmo referente; gradação anafórica, não grafias
+em competição). **RESSALVA:** uma palavra é suprimida («Grande»).
+**SOLICITADO UM §5.3 AO CURADOR.**
+
+**Processo × dia:** a obra usa as duas escalas, não as declara distintas.
+Disciplina da RC-347 (U72).
+
+**Aqui a identificação É da fonte:** «como entendemos a Segunda Vinda do Cristo
+e aquilo a que as religiões chamam de Juízo Final».
+
+**Números:** 815 → **816 fichas** · GAP 131 → **130** · família B v3 25 →
+**24** (4 activos + 20 congelados) · cadastro 572🟢 inalterado.
+
+**Próximo:** RC-368 → B011.

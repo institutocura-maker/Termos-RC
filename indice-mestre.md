@@ -352,7 +352,7 @@
 | RC-344 | Transição Planetária | Eventos & Eras | 7.2 Eras / Épocas / Ciclos | 🟠 | B003, B025, B042, P2022-12-17, P2025-03-15, P2025-02-16, P2025-02-15, P2024-11-30, P2023-12-03 | RC-003; RC-005; RC-094; RC-342; RC-535; RC-573 | [✔](termos/RC-344-transicao-planetaria.md) |
 | RC-345 | Sentimento Luciferiano | Conceitos Cosmológicos | 2.6 Ética / Carma / Compromissos | 🟡 | B003 | RC-078; RC-002; RC-342; RC-094 | — |
 | RC-346 | Jeová (grafia da trilogia) | Seres & Entidades | 1.1 Divindades / Criadores | 🟢 | B003, B025, P2024-11-30 | RC-001; RC-041; RC-078; RC-094; RC-284; RC-351 | [✔](termos/RC-346-jeova-grafia-da-trilogia.md) |
-| RC-347 | Projeto Terra | Eventos & Eras | 7.5 Missões / Expedições / Encontros | 🟡 | B026, B019, P2024-11-30 | RC-090; RC-342; RC-099; RC-094 | — |
+| RC-347 | Projeto Terra | Eventos & Eras | 7.5 Missões / Expedições / Encontros | 🟡 | B026, B019, P2024-11-30 | RC-090; RC-342; RC-099; RC-094 | [✔](termos/RC-347-projeto-terra.md) |
 | RC-348 | Roteiro do Exílio | Eventos & Eras | 7.5 Missões / Expedições / Encontros | 🟡 | B026 | RC-342; RC-007; RC-094 | — |
 | RC-349 | Exílios Interplanetários | Eventos & Eras | 7.1 Guerras / Rebeliões / Conflitos | 🟡 | B003 | RC-342; RC-007; RC-002; RC-094 | — |
 | RC-350 | Jesus, o Capelino | Seres & Entidades | 1.6 Figuras humanas (históricas/míticas) | 🟡 | B025 | RC-072; RC-007; RC-039; RC-094 | — |

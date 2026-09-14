@@ -1,0 +1,36 @@
+{
+ "unidade": "U73",
+ "lote": 30,
+ "data": "2026-09-13",
+ "rota": "R1",
+ "criterio": "família B do censo v3 (referência homologada) — bloco de fonte única da B025 (Caminhos Espirituais, Livro II da Trilogia «Queda e Ascensão Espiritual»), 1 código (RC‑352), por despacho do Curador (via expressa; VIA (a): 1 obra = 1 lote). O censo é ACHADOR, não CERCA (§6 do despacho do censo).",
+ "v_revogado": true,
+ "nota_fonte": "**A obra apresenta‑se como informação transmitida por Mestres Espirituais** — «Segundo os nossos Mestres Espirituais» (L764), «Fomos informados de que» (L582), «ao que estamos informados» (L4036), «como entendemos» (L284). A ficha registra esse regime. **Artefatos da edição, preservados sem normalização:** palavras partidas («me lhora», «j ustamente», «consequ ente», «propic iados», «ene rgético», «terceiro milé nio», «equi pe», «pr esidir», «a s», «pr imeiro») e espaços soltos antes de pontuação («Vinda do Mestre ,», «ano de 1989,  o», «dispõe -  muitas»). **Fratura de hard-wrap:** cada fragmento entre «» é verbatim **intra-linha**, conferido byte a byte.",
+ "fichas": [
+  {
+   "cod": "RC-352",
+   "slug": "segunda-grande-vinda",
+   "definicao": "Na B025 (*Caminhos Espirituais*), o título da secção 1 de «V — O Terceiro Milênio» — «A Segunda Grande Vinda» —, designando a volta do Mestre Jesus. A obra diz que ela «**será percebida por todos**» (L765) e que, antes de o Mestre se apresentar «em toda Sua glória e majestade», «a equipe do Mestre deverá promover alguns **eventos preliminares**» (L3921–L3924). A mesma obra identifica esse acontecimento com aquilo «a que as religiões chamam de **Juízo Final**» (L284–L285).",
+   "cit": [
+    ["B025", 127, ["1. A Segunda Grande Vinda"], "a entrada no ÍNDICE (sob «V  O Terceiro Milênio», L126)"],
+    ["B025", 3611, ["1. A Segunda Grande Vinda"], "O TÍTULO DA SECÇÃO no corpo (sob «V - O Terceiro Milênio», L3608)"],
+    ["B025", 764, ["Segundo os nossos Mestres Espirituais, quando da Segunda Grande"], "a fonte da informação (início em L764)"],
+    ["B025", 765, ["Vinda do Mestre , que será percebida por todos, haverá muita perplexidade"], "«percebida por todos» (continua em L766-L768)"],
+    ["B025", 820, ["encarnados que dessem os avisos da Segunda Grande Vinda do Mestre para"], "os avisos (continua em L821-L824)"],
+    ["B025", 881, ["Desde meados do ano de 1989,  o processo da Segunda Vinda foi"], "o PROCESSO, iniciado em 1989 (continua em L882-L884)"],
+    ["B025", 3922, ["toda Sua glória e majestade, ou seja, com toda a Sua corte celeste, no dia da"], "a moldura da culminação (início em L3920-L3921)"],
+    ["B025", 3923, ["Segunda Grande Vinda, a equi pe do Mestre deverá promover alguns eventos"], "os EVENTOS PRELIMINARES (continua em L3924)"],
+    ["B025", 284, ["figurada e simples, como entendemos a Segunda Vinda do Cristo e aquilo a"], "a identificação com o Juízo Final (início em L282-L283; continua em L285)"]
+   ],
+   "obs": [
+    "⭐ **Oito formas para um só referente — e por que NÃO etiquetamos (decisão submetida ao Curador).** A obra designa o mesmo acontecimento com graus diversos de explicitude: «A **Segunda Grande Vinda**» (L127, L3611, L3923, L820) · «a **Segunda Vinda**» (L253, L284, L582, L696, L881, L4036) · «a **segunda Vinda do Mestre**» (L772) · «a **Sua Grande Vinda**» (L858, L3347, L3998, L4044) · «a **Vinda do Mestre**» (L802) · «a **Vinda Oficial do Mestre Jesus**» (L3973) · «a **iminente vinda de Jesus**» (L579) · «a **sua vinda no porvir**» (L1852). **Pelo §5.2, o teste do referente vem antes do teste das letras: é o mesmo acontecimento em todas.** E a variação não é entre duas grafias em competição — é **gradação de explicitude anafórica**, como qualquer texto pratica ao retomar um nome. **Registro a ressalva com franqueza:** aqui uma palavra é efectivamente **suprimida** («Grande»), o que faz deste o caso que **mais se aproxima da linha do §5** desde a RC‑397. Ainda assim abstemo‑nos, por entender que etiquetar toda redução anafórica esvaziaria o alerta — cujo peso se reserva à ortografia e à contradição semântica.",
+    "⭐ **A obra distingue PROCESSO e DIA — mas não o declara como distinção técnica, e a ficha não a converte em tal.** «**Desde meados do ano de 1989, o processo da Segunda Vinda foi iniciado**, através da fixação, por parte da Espiritualidade Maior, do marco inicial do primeiro instante do terceiro milênio» (L881–L884); e, noutro ponto, «**antes** que o Mestre se apresente diante de todas as Suas ovelhas terráqueas em toda Sua glória e majestade, ou seja, com toda a Sua corte celeste, **no dia da Segunda Grande Vinda**, a equipe do Mestre deverá promover alguns **eventos preliminares**» (L3921–L3924). A fonte **usa** as duas escalas; **não diz** «o processo não é o dia». É a disciplina da RC‑347 (U72) aplicada de novo: não forçar nexo que a fonte não explicita.",
+    "⭐ **Aqui, ao contrário, a identificação É da fonte — e por isso se registra:** «Para a entrega deste diploma aos que [...] conseguiram obter a nota mínima necessária à aprovação e, principalmente, para confortar, estimular e orientar aqueles que não conseguiram a aprovação [...] aqui virá o Mestre Jesus. **Eis, de forma figurada e simples, como entendemos a Segunda Vinda do Cristo e aquilo a que as religiões chamam de Juízo Final**» (L279–L285). Não é inferência do motor: a obra estabelece a equivalência.",
+    "**Regime de informação transmitida, registrado como tal:** «**Segundo os nossos Mestres Espirituais**, quando da Segunda Grande Vinda do Mestre [...] haverá muita perplexidade em todo o planeta» (L764–L766); «**Fomos informados de que** a Segunda Vinda do Mestre seria, acima de…» (L582); «**ao que estamos informados**, a equipe que se…» (L4036). A ficha atribui as afirmações à voz que as profere.",
+    "**A finalidade dos avisos:** «achou por bem escolher grupos de encarnados que dessem os avisos da Segunda Grande Vinda do Mestre para que ao menos fosse plantado no coração de cada um **a semente da dúvida**, caracterizada [...] pelos sentimentos de **como seria bom se isto fosse verdade**, como seria maravilhoso se realmente Ele viesse» (L815–L824); e «o aviso prévio, se aceito pela humanidade, **diminuiria, em muito, esta perplexidade**» (L766–L767).",
+    "**Isolamento semântico (critério homologado na U72):** a base contém outros conceitos de «vinda» e de «Terra» em chaves diversas (a «opção Terra» da B033, RC‑227; o «projeto Terra» da B026, RC‑347). Nenhum deles foi cruzado com este.",
+    "⚠️ **Alcance da leitura (§6):** os blocos do censo eram «L126‑128», «L764‑768» e «L815‑824». O **título da secção no corpo** (L3611) e a passagem dos **eventos preliminares** (L3922–L3923) ficavam fora deles e foram alcançados por leitura estendida na mesma obra. Nono uso consecutivo do §6."
+   ]
+  }
+ ]
+}
