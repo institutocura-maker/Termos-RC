@@ -2454,3 +2454,45 @@ Observações que o censo v1 as classificou mal (C, E e D) e por quê (título p
 pelo hard-wrap). Fica a memória do erro no lugar onde ele teria consequência.
 
 **Próximo:** lote 4 sobre os 132 restantes da família B v2, sempre sem V.
+
+## U47 (13/09/2026) — lote 4: os 25 Val/Yel em bloco único (sem V)
+
+Despacho do Curador: escopo aprovado integralmente; **bloco único de 25**, sem
+fracionamento («o instrumento v2 demonstrou estabilidade e velocidade, eliminando
+a necessidade de fatiar um grupo coeso da mesma fonte»); V presuntivo continua
+revogado.
+
+**Materializados (25, todos do glossário da B031, L3890–L4112):** RC-110 Val Am ·
+RC-111 Val Amon · RC-112 Val Anen · RC-113 Val Anon · RC-114 Val Antien ·
+RC-115 Val Aten · RC-116 Val Bon · RC-117 Val Den · RC-119 Val Ean ·
+RC-121 Val Elliah · RC-122 Val Ellieh · RC-124 Val Eon · RC-125 Val Gevi ·
+RC-126 Val Geon · RC-128 Val Ilon · RC-129 Val Pen · RC-130 Val Sean ·
+RC-131 Val Sion · RC-133 Val dos Corpos Perdidos ou Dimensionados ·
+RC-137 Yel Adrax · RC-138 Yel Am · RC-139 Yel Breasil · RC-140 Yel Liam ·
+RC-141 Yel Lupon · RC-143 Yel Luziel.
+
+- **79 fragmentos** verbatim intra-linha, conferidos byte a byte — 0 falhas.
+- Fonte única: B031. Três reforços fora do glossário, no corpo da obra:
+  L1742 (Família Yel / primeiro Yel urgido), L1776–L1777 (Família Val / primeiro
+  Val urgido = Val Anon), L3255 (relação dos cinco do Conselho).
+- **Nenhuma nasce 🟢**: ficha False→True, status preservado (provisório).
+- Suíte 21/21 (T13 732 · T14 0 · T15 732/0) · verificador 946/732/1887 · 5 builds.
+- GAP 239→214 · família B v2: 132→**107 restantes**.
+
+**O portão B pegou um erro meu:** na primeira conferência, o fragmento final de
+Val Pen foi ancorado em **L4026** quando está em **L4027** — eu havia contado as
+linhas de memória em vez de reler. O portão abortou antes de escrever qualquer
+coisa; corrigido e reconferido. É a lição da U41 valendo outra vez.
+
+**Achados registrados nas fichas, sem resolução (falta despacho):**
+1. *Val Bon × Val Dimon* (RC-116): o verbete de Val Bon atribui a Val Dimon a
+   migração que termina em Astréia; o verbete de Val Dimon a termina em Pandora.
+   Divergência interna da fonte — transmitida como está.
+2. *Yel Am (RC-138) × Yel Liam (RC-140)*: dois códigos para o mesmo biodemo,
+   antes e depois da fusão do código genético com Val El. Verbetes complementares;
+   a duplicidade é da Base.
+3. *Grafia*: a relação do Conselho (L3255) grafa «Val Eliah»/«Val Elieh»; os
+   verbetes próprios grafam «Val Elliah»/«Val Ellieh».
+
+**Próximo:** 107 restantes da família B v2. Blocos coesos já identificados:
+consolidar o restante do glossário da B031.

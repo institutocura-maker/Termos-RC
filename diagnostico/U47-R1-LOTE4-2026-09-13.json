@@ -1,0 +1,356 @@
+{
+ "unidade": "U47",
+ "lote": 4,
+ "data": "2026-09-13",
+ "rota": "R1",
+ "criterio": "família B do censo v2 (CENSO-RECLASSIFICADO-2026-09-13.json) — bloco único autorizado pelo despacho DESPACHO-ROTAS-POS-V2-2026-09-13.md",
+ "v_revogado": true,
+ "nota_hardwrap": "**Fratura de hard-wrap:** a edição digital das fontes quebra as sentenças em linhas curtas. Cada fragmento entre «» é verbatim **intra-linha**, conferido byte a byte contra o `original.txt` da obra declarada; quando uma sentença foi partida, o seu início e o seu fecho aparecem como fragmentos distintos, com as linhas indicadas.",
+ "fichas": [
+  {
+   "cod": "RC-110",
+   "slug": "val-am",
+   "definicao": "Biodemo da Família Val que faleceu logo na primeira experiência dos Val fora das naves, há 599 mil anos atrás, passando a ser um dos 9 Val dos Corpos Perdidos ou Dimensionados.",
+   "cit": [
+    ["B031", 3895, ["Val Am: Biodemo da Família Val que faleceu logo na primeira"], "verbete «Val Am» — abertura (continua em L3896–L3897)"],
+    ["B031", 3896, ["experiência dos Val fora das naves há 599 mil anos atrás. Passou a ser um"], "meio do verbete"],
+    ["B031", 3897, ["dos 9 Val dos Corpos Perdidos ou Dimensionados."], "fecho do verbete, remetendo a RC-133"]
+   ],
+   "obs": [
+    "A Família Val é descrita no mesmo glossário como composta por 736 membros nascidos de casulos dentro das naves Espheron, Espherian e Asphezian, «urgidos» há aproximadamente 230 milhões de anos no Sistema de Capela, com base no planeta Zian (ou Zion) — B031 L3890–L3894."
+   ]
+  },
+  {
+   "cod": "RC-111",
+   "slug": "val-amon",
+   "definicao": "Biodemo da Família Val: era o líder dos Val no sentido organizacional e fazia parte do Conselho dos Cinco da Frota Norte em Benem.",
+   "cit": [
+    ["B031", 3898, ["Val Amon: Biodemo da Família Val. Era o líder dos Val no sentido"], "verbete «Val Amon» — abertura (continua em L3899–L3900)"],
+    ["B031", 3899, ["organizacional. Fazia parte do Conselho dos Cinco da Frota Norte em"], "meio do verbete"],
+    ["B031", 3900, ["Benem."], "fecho do verbete, remetendo a RC-043 e RC-032"],
+    ["B031", 3255, ["membros (3 Val e 2 Yel): Val Amon, Val Eliah, Val Elieh, Yel Am e Yel"], "relação dos cinco membros do Conselho, no verbete «Conselho dos Cinco» (continua em L3256)"]
+   ],
+   "obs": [
+    "A Família Val é descrita no mesmo glossário como composta por 736 membros, «urgidos» há aproximadamente 230 milhões de anos no Sistema de Capela — B031 L3890–L3894."
+   ]
+  },
+  {
+   "cod": "RC-112",
+   "slug": "val-anen",
+   "definicao": "Biodemo da Família Val que faleceu logo na primeira experiência dos Val fora das naves, há 599 mil anos atrás, tornando-se um dos 9 Val dos Corpos Perdidos ou Dimensionados. Teve a sua «consciência» migrada para a família de demos dos «Seres dos Portais» (Deuses da Mitologia Grega) e renasceu como Despina.",
+   "cit": [
+    ["B031", 3904, ["Val Anen: Biodemo da Família Val que faleceu logo na primeira"], "verbete «Val Anen» — abertura (continua em L3905–L3908)"],
+    ["B031", 3906, ["dos Corpos Perdidos ou Dimensionados. Val Anen teve a sua “consciência”"], "meio do verbete, onde começa a sentença sobre a migração da consciência"],
+    ["B031", 3907, ["migrada para a família de demos dos “Seres dos Portais” (Deuses da"], "meio da mesma sentença"],
+    ["B031", 3908, ["Mitologia Grega) e renasceu como Despina."], "fecho intra-linha da mesma sentença"]
+   ],
+   "obs": [
+    "A Família Val é descrita no mesmo glossário como composta por 736 membros, «urgidos» há aproximadamente 230 milhões de anos no Sistema de Capela — B031 L3890–L3894.",
+    "A identificação com **Despina** remete a RC-051, que já possui ficha."
+   ]
+  },
+  {
+   "cod": "RC-113",
+   "slug": "val-anon",
+   "definicao": "Primeiro biodemo da Família Val a ser urgido — «o primeiro Val a ser urgido foi Val Anon», informa o verbete «Família Val» da obra. Segundo o glossário, atualmente está encarnado como um General da Força Aérea Brasileira.",
+   "cit": [
+    ["B031", 3909, ["Val Anon: Foi o primeiro biodemo da Família Val a ser urgido."], "verbete «Val Anon» — sentença íntegra"],
+    ["B031", 3910, ["Atualmente está encarnado como um General da Força Aérea Brasileira."], "sentença íntegra de fecho do verbete"],
+    ["B031", 1776, ["Os Val foram a 249.314ª família a ser criada, há cerca de 230 milhões"], "início da sentença sobre a Família Val, no corpo da obra (continua em L1777)"],
+    ["B031", 1777, ["de anos, com 736 membros, e o primeiro Val a ser urgido foi Val Anon. Ela"], "fecho: a obra o nomeia como o primeiro Val urgido"]
+   ],
+   "obs": [
+    "O verbete «Família Val» (B031 L1775–L1782) acrescenta que os Val foram a 249.314ª família criada, a última e a menor família biodêmica, e que as naves onde foram urgidos ficavam no planeta Zian (ou Zion), no Sistema de Capela."
+   ]
+  },
+  {
+   "cod": "RC-114",
+   "slug": "val-antien",
+   "definicao": "Biodemo da Família Val, o primeiro a falecer na primeira experiência dos Val fora das naves, há 599 mil anos atrás, e um dos 9 Val dos Corpos Perdidos ou Dimensionados. Segundo a obra, está atualmente encarnado no Brasil e é um dos colaboradores para a obra da Revelação Cósmica.",
+   "cit": [
+    ["B031", 3911, ["Val Antien: Biodemo da Família Val que foi o primeiro a falecer na"], "verbete «Val Antien» — abertura (continua em L3912–L3915)"],
+    ["B031", 3912, ["primeira experiência dos Val fora das naves há 599 mil anos atrás. Era um"], "meio do verbete"],
+    ["B031", 3914, ["encarnado no Brasil e é um dos colaboradores para a obra da Revelação"], "início da sentença final (fecho em L3915)"],
+    ["B031", 3915, ["Cósmica."], "fecho intra-linha da mesma sentença"]
+   ],
+   "obs": [
+    "A Família Val é descrita no mesmo glossário como composta por 736 membros, «urgidos» há aproximadamente 230 milhões de anos no Sistema de Capela — B031 L3890–L3894."
+   ]
+  },
+  {
+   "cod": "RC-115",
+   "slug": "val-aten",
+   "definicao": "Biodemo da Família Val que faleceu logo na primeira experiência dos Val fora das naves, há 599 mil anos atrás, tornando-se um dos 9 Val dos Corpos Perdidos ou Dimensionados. Foi o último dos Val a permanecer em Val-Ha, de onde acompanhou, a partir das tecnologias construídas naquela dimensão, o «trabalho espiritual» em torno de Allan Kardec; deixou Val-Ha no final do século XIX e foi praticamente o único dos Val a conviver com Yel Luzbel e, principalmente, Len Mion, ao longo do processo que levou este à loucura.",
+   "cit": [
+    ["B031", 3916, ["Val Aten: Biodemo da Família Val que faleceu logo na primeira"], "verbete «Val Aten» — abertura (continua em L3917–L3923)"],
+    ["B031", 3918, ["dos Corpos Perdidos ou Dimensionados. Ele foi o último dos Val a"], "meio do verbete, onde começa a sentença sobre Val-Ha"],
+    ["B031", 3919, ["permanecer em Val-Ha. Teve o privilégio de, a partir das tecnologias"], "fecho dessa sentença e início da seguinte"],
+    ["B031", 3921, ["espiritual” em torno de Allan Kardec. Deixou Val-Ha no final do século"], "meio do verbete — a menção a Allan Kardec"],
+    ["B031", 3922, ["XIX, tendo sido praticamente o único dos Val a conviver com Yel Luzbel, e"], "meio do verbete — a convivência com Yel Luzbel e Len Mion"]
+   ],
+   "obs": [
+    "A Família Val é descrita no mesmo glossário como composta por 736 membros, «urgidos» há aproximadamente 230 milhões de anos no Sistema de Capela — B031 L3890–L3894.",
+    "Sobre **Val-Ha**, dimensão onde os 9 Val dos Corpos Perdidos passaram a habitar, ver RC-127 (família B do censo v2, ainda sem ficha)."
+   ]
+  },
+  {
+   "cod": "RC-116",
+   "slug": "val-bon",
+   "definicao": "Biodemo da Família Val que faleceu logo na primeira experiência dos Val fora das naves, há 599 mil anos atrás, passando a ser um dos 9 Val dos Corpos Perdidos ou Dimensionados. O verbete registra que, a partir de 75 mil anos atrás, «Val Dimon teve a sua “consciência” migrada para a família de demos dos “Seres dos Portais” (Deuses da Mitologia Grega) e renasceu como Astréia» — grafia da própria fonte, que nomeia Val Dimon no interior da entrada de Val Bon.",
+   "cit": [
+    ["B031", 3924, ["Val Bon: Biodemo da Família Val que faleceu logo na primeira"], "verbete «Val Bon» — abertura (continua em L3925–L3929)"],
+    ["B031", 3925, ["experiência dos Val fora das naves há 599 mil anos atrás. Passou a ser um"], "meio do verbete"],
+    ["B031", 3926, ["dos 9 Val dos Corpos Perdidos ou Dimensionados. A partir de 75 mil anos"], "início da sentença sobre a migração da consciência (continua em L3927)"],
+    ["B031", 3927, ["atrás, Val Dimon teve a sua “consciência” migrada para a família de demos"], "meio da sentença — a fonte grafa «Val Dimon» dentro da entrada de Val Bon"],
+    ["B031", 3929, ["Astréia."], "fecho do verbete"]
+   ],
+   "obs": [
+    "**Divergência interna da fonte, registrada sem resolução:** o verbete «Val Bon» atribui a Val Dimon a migração de consciência que termina em Astréia (B031 L3926–L3929), ao passo que o verbete «Val Dimon» (B031 L3933–L3935 e L3939–L3941) atribui a Val Dimon o renascimento como **Pandora**. A ficha transmite a letra da fonte e não escolhe entre as duas.",
+    "A Família Val é descrita no mesmo glossário como composta por 736 membros, «urgidos» há aproximadamente 230 milhões de anos no Sistema de Capela — B031 L3890–L3894."
+   ]
+  },
+  {
+   "cod": "RC-117",
+   "slug": "val-den",
+   "definicao": "Biodemo da Família Val que faleceu logo na primeira experiência dos Val fora das naves, há 599 mil anos atrás, passando a ser um dos 9 Val dos Corpos Perdidos ou Dimensionados.",
+   "cit": [
+    ["B031", 3930, ["Val Den: Biodemo da Família Val que faleceu logo na primeira"], "verbete «Val Den» — abertura (continua em L3931–L3932)"],
+    ["B031", 3931, ["experiência dos Val fora das naves há 599 mil anos atrás. Passou a ser um"], "meio do verbete"],
+    ["B031", 3932, ["dos 9 Val dos Corpos Perdidos ou Dimensionados."], "fecho do verbete"]
+   ],
+   "obs": [
+    "A Família Val é descrita no mesmo glossário como composta por 736 membros, «urgidos» há aproximadamente 230 milhões de anos no Sistema de Capela — B031 L3890–L3894."
+   ]
+  },
+  {
+   "cod": "RC-119",
+   "slug": "val-ean",
+   "definicao": "Biodemo da Família Val dotado de senso prático, de visão estratégica singular e de grande conhecimento na área da navegação aérea.",
+   "cit": [
+    ["B031", 3952, ["Val Ean: Biodemo da Família Val. Foi dotado de senso prático, de"], "verbete «Val Ean» — abertura (continua em L3953–L3954)"],
+    ["B031", 3953, ["visão estratégica singular e de grande conhecimento na área da navegação"], "meio do verbete"],
+    ["B031", 3954, ["aérea."], "fecho do verbete"]
+   ],
+   "obs": [
+    "A Família Val é descrita no mesmo glossário como composta por 736 membros, «urgidos» há aproximadamente 230 milhões de anos no Sistema de Capela — B031 L3890–L3894."
+   ]
+  },
+  {
+   "cod": "RC-121",
+   "slug": "val-elliah",
+   "definicao": "Biodemo da Família Val que fazia parte do Conselho dos Cinco da Frota Norte em Benem; uma de suas encarnações foi como um dos zelotes crucificados ao lado de Jesus Cristo.",
+   "cit": [
+    ["B031", 3983, ["Val Elliah: Biodemo da Família Val. Fazia parte do Conselho dos"], "verbete «Val Elliah» — abertura (continua em L3984–L3985)"],
+    ["B031", 3984, ["Cinco da Frota Norte em Benem. Uma de suas encarnações foi como um"], "meio do verbete"],
+    ["B031", 3985, ["dos zelotes crucificados ao lado de Jesus Cristo."], "fecho do verbete"]
+   ],
+   "obs": [
+    "A Família Val é descrita no mesmo glossário como composta por 736 membros, «urgidos» há aproximadamente 230 milhões de anos no Sistema de Capela — B031 L3890–L3894."
+   ]
+  },
+  {
+   "cod": "RC-122",
+   "slug": "val-ellieh",
+   "definicao": "Biodemo da Família Val que fazia parte do Conselho dos Cinco da Frota Norte em Benem; uma de suas encarnações foi como um dos zelotes crucificados ao lado de Jesus Cristo e, também posteriormente, como Clemente XIV.",
+   "cit": [
+    ["B031", 3986, ["Val Ellieh: Biodemo da Família Val. Fazia parte do Conselho dos"], "verbete «Val Ellieh» — abertura (continua em L3987–L3989)"],
+    ["B031", 3988, ["dos zelotes crucificados ao lado de Jesus Cristo e, também posteriormente,"], "meio do verbete"],
+    ["B031", 3989, ["como Clemente XIV."], "fecho do verbete"]
+   ],
+   "obs": [
+    "A Família Val é descrita no mesmo glossário como composta por 736 membros, «urgidos» há aproximadamente 230 milhões de anos no Sistema de Capela — B031 L3890–L3894."
+   ]
+  },
+  {
+   "cod": "RC-124",
+   "slug": "val-eon",
+   "definicao": "Biodemo da Família Val que era como se fosse um «irmão gêmeo» de Val Eno, devido aos dois terem nascido no mesmo momento cósmico.",
+   "cit": [
+    ["B031", 3994, ["Val Eon: Biodemo da Família Val que era como se fosse um “irmão"], "verbete «Val Eon» — abertura (continua em L3995–L3996)"],
+    ["B031", 3995, ["gêmeo” de Val Eno, devido aos dois terem nascido no mesmo momento"], "meio do verbete — a relação com Val Eno"],
+    ["B031", 3996, ["cósmico."], "fecho do verbete"]
+   ],
+   "obs": [
+    "**Val Eno** (RC-123) tem ficha própria, materializada na U44: é o biodemo que transmitiu a trilogia Terra Atlantis a Jan Val Ellam e vive em Alt´Lam Gron.",
+    "A Família Val é descrita no mesmo glossário como composta por 736 membros, «urgidos» há aproximadamente 230 milhões de anos no Sistema de Capela — B031 L3890–L3894."
+   ]
+  },
+  {
+   "cod": "RC-125",
+   "slug": "val-gevi",
+   "definicao": "Biodemo da Família Val que foi convidado pelo Codificador de Zian, juntamente com Val El e Val Eno, para participar do seu grupo de estudos.",
+   "cit": [
+    ["B031", 3997, ["Val Gevi: Biodemo da Família Val que foi convidado pelo"], "verbete «Val Gevi» — abertura (continua em L3998–L3999)"],
+    ["B031", 3998, ["Codificador de Zian, juntamente com Val El e Val Eno, para participar do"], "meio do verbete"],
+    ["B031", 3999, ["seu grupo de estudos."], "fecho do verbete"]
+   ],
+   "obs": [
+    "A Família Val é descrita no mesmo glossário como composta por 736 membros, «urgidos» há aproximadamente 230 milhões de anos no Sistema de Capela — B031 L3890–L3894."
+   ]
+  },
+  {
+   "cod": "RC-126",
+   "slug": "val-geon",
+   "definicao": "Biodemo da Família Val, um dos três exploradores que assumiram o risco de interagir com a natureza terráquea, juntamente com Val Pen e Val Ilon; foram eles que interagiram com os 27 seres Sirianos («anfíbios inteligentes») da Família de Ostronomos, num grande rio da região que hoje corresponde à China, por um período de 3 anos.",
+   "cit": [
+    ["B031", 4000, ["Val Geon: Biodemo da Família Val. Um dos três exploradores que"], "verbete «Val Geon» — abertura (continua em L4001–L4004)"],
+    ["B031", 4001, ["assumiram o risco de interagir com a natureza terráquea, juntamente com"], "meio do verbete"],
+    ["B031", 4002, ["Val Pen e Val Ilon. Foram eles que interagiram com os 27 seres Sirianos"], "meio do verbete — os companheiros e o número de sirianos"],
+    ["B031", 4004, ["onde hoje corresponde à China, por um período de 3 anos."], "fecho do verbete"]
+   ],
+   "obs": [
+    "A Família Val é descrita no mesmo glossário como composta por 736 membros, «urgidos» há aproximadamente 230 milhões de anos no Sistema de Capela — B031 L3890–L3894."
+   ]
+  },
+  {
+   "cod": "RC-128",
+   "slug": "val-ilon",
+   "definicao": "Biodemo da Família Val que interagiu com os Sirianos da Família de Ostronomos por 3 anos, juntamente com Val Geon e Val Pen.",
+   "cit": [
+    ["B031", 4017, ["Val Ilon: Biodemo da Família Val que interagiu com os Sirianos da"], "verbete «Val Ilon» — abertura (continua em L4018)"],
+    ["B031", 4018, ["Família de Ostronomos por 3 anos, juntamente com Val Geon e Val Pen."], "fecho do verbete"],
+    ["B031", 4002, ["Val Pen e Val Ilon. Foram eles que interagiram com os 27 seres Sirianos"], "reforço no verbete «Val Geon», que o inclui entre os três exploradores"]
+   ],
+   "obs": [
+    "A Família Val é descrita no mesmo glossário como composta por 736 membros, «urgidos» há aproximadamente 230 milhões de anos no Sistema de Capela — B031 L3890–L3894."
+   ]
+  },
+  {
+   "cod": "RC-129",
+   "slug": "val-pen",
+   "definicao": "Biodemo da Família Val que, enquanto biodemo, viveu junto aos Sirianos (Família de Ostronomos) durante 3 anos — uma das experiências mais enriquecedoras, segundo a obra — e que, após fenecer, teve diversas encarnações na Terra: cerca de 7.000 anos atrás já estava em sua 34ª encarnação, nos tempos da quarta geração da descendência de Noé. O espírito desse biodemo veio a encarnar como Rochester (o poeta britânico John Wilmot, Conde de Rochester, 1647-1680), autor espiritual de 51 livros psicografados pela médium russa Vera Kryzhanovskaia.",
+   "cit": [
+    ["B031", 4019, ["Val Pen: Biodemo da Família Val. Enquanto biodemo, foi o que teve"], "verbete «Val Pen» — abertura (continua em L4020–L4027)"],
+    ["B031", 4020, ["uma das experiências mais enriquecedoras, pois ficou vivendo junto aos"], "meio do verbete"],
+    ["B031", 4021, ["Sirianos (Família de Ostronomos) durante 3 anos. Além disso, após fenecer"], "meio do verbete — os 3 anos com os sirianos"],
+    ["B031", 4027, ["psicografados pela médium russa Vera Kryzhanovskaia."], "fecho do verbete"]
+   ],
+   "obs": [
+    "A Família Val é descrita no mesmo glossário como composta por 736 membros, «urgidos» há aproximadamente 230 milhões de anos no Sistema de Capela — B031 L3890–L3894."
+   ]
+  },
+  {
+   "cod": "RC-130",
+   "slug": "val-sean",
+   "definicao": "Biodemo da Família Val que faleceu logo na primeira experiência dos Val fora das naves, há 599 mil anos atrás, passando a ser um dos 9 Val dos Corpos Perdidos ou Dimensionados; segundo a obra, encontra-se encarnado no Brasil no momento e está relacionado aos estudos da Revelação Cósmica.",
+   "cit": [
+    ["B031", 4028, ["Val Sean: Biodemo da Família Val que faleceu logo na primeira"], "verbete «Val Sean» — abertura (continua em L4029–L4032)"],
+    ["B031", 4030, ["dos 9 Val dos Corpos Perdidos ou Dimensionados. Encontra-se encarnado"], "meio do verbete"],
+    ["B031", 4031, ["no Brasil no momento e está relacionado aos estudos da Revelação"], "início da sentença final (fecho em L4032)"]
+   ],
+   "obs": [
+    "A Família Val é descrita no mesmo glossário como composta por 736 membros, «urgidos» há aproximadamente 230 milhões de anos no Sistema de Capela — B031 L3890–L3894."
+   ]
+  },
+  {
+   "cod": "RC-131",
+   "slug": "val-sion",
+   "definicao": "Biodemo da Família Val que faleceu logo na primeira experiência dos Val fora das naves, há 599 mil anos atrás, passando a ser um dos 9 Val dos Corpos Perdidos ou Dimensionados; consta da relação dos 9 — Val Sean, Val Sion, Val Den, Val Dimon, Val Bon, Val Antien, Val Anen, Val Am e Val Aten.",
+   "cit": [
+    ["B031", 4033, ["Val Sion: Biodemo da Família Val que faleceu logo na primeira"], "verbete «Val Sion» — abertura (continua em L4034–L4035)"],
+    ["B031", 4035, ["dos 9 Val dos Corpos Perdidos ou Dimensionados."], "fecho do verbete"],
+    ["B031", 3950, ["Val Sean, Val Sion, Val Den, Val Dimon, Val Bon, Val Antien, Val Anen,"], "a relação dos 9, no verbete «Val dos Corpos Perdidos» (continua em L3951)"]
+   ],
+   "obs": [
+    "A Família Val é descrita no mesmo glossário como composta por 736 membros, «urgidos» há aproximadamente 230 milhões de anos no Sistema de Capela — B031 L3890–L3894."
+   ]
+  },
+  {
+   "cod": "RC-133",
+   "slug": "val-dos-corpos-perdidos",
+   "definicao": "Os 9 Val que começaram a operar fora das naves e morreram logo na primeira experiência, há aproximadamente 599 mil anos. Passaram a ser chamados «Os 9 Val dos Corpos Perdidos» e também Val Dimensionados, pois as suas consciências passaram a habitar uma nova dimensão, a que chamaram Val-Ha, comunicando-se com os demais da Família Val através do Processador Val. Eram: Val Sean, Val Sion, Val Den, Val Dimon, Val Bon, Val Antien, Val Anen, Val Am e Val Aten.",
+   "cit": [
+    ["B031", 3942, ["Val dos “Corpos Perdidos” ou Dimensionados: Foram os 9 Val que"], "verbete — abertura (continua em L3943–L3951)"],
+    ["B031", 3943, ["começaram a operar fora das naves, e que morreram logo na primeira"], "meio do verbete"],
+    ["B031", 3946, ["chamados de Val Dimensionados, pois “estranhamente” as suas"], "início da sentença sobre a dimensão (continua em L3947–L3949)"],
+    ["B031", 3947, ["consciências passaram a habitar uma nova dimensão a qual chamaram de"], "meio da mesma sentença"],
+    ["B031", 3948, ["Val-Ha. Passaram a se comunicar com os demais da Família Val através do"], "fecho da sentença e o meio de comunicação: o Processador Val"],
+    ["B031", 3950, ["Val Sean, Val Sion, Val Den, Val Dimon, Val Bon, Val Antien, Val Anen,"], "a relação nominal dos 9 (continua em L3951)"]
+   ],
+   "obs": [
+    "A Família Val é descrita no mesmo glossário como composta por 736 membros, «urgidos» há aproximadamente 230 milhões de anos no Sistema de Capela — B031 L3890–L3894.",
+    "O **Processador Val**, citado no verbete como o meio de comunicação, é o mesmo referido em RC-032 (Benem), ficha materializada na U44."
+   ]
+  },
+  {
+   "cod": "RC-137",
+   "slug": "yel-adrax",
+   "definicao": "Biodemo da Família Yel, o primeiro Yel a ser urgido em sua família — conforme o verbete «Família Yel»: «com 5.420 membros, sendo que o primeiro Yel a ser urgido foi Yel Adrax».",
+   "cit": [
+    ["B031", 4058, ["Yel Adrax: Biodemo da Família Yel. Foi o primeiro Yel a ser urgido"], "verbete «Yel Adrax» — abertura (continua em L4059)"],
+    ["B031", 4059, ["em sua família."], "fecho do verbete"],
+    ["B031", 1742, ["de anos, com 5.420 membros, sendo que o primeiro Yel a ser urgido foi Yel"], "reforço no verbete «Família Yel», no corpo da obra (continua em L1743)"]
+   ],
+   "obs": [
+    "A Família Yel é descrita no mesmo glossário como composta por 5.420 membros «urgidos» ou nascidos em casulos dentro de naves espaciais, criados há aproximadamente 492 milhões de anos no Sistema de Capela, tendo como base o planeta Dan — B031 L4052–L4057."
+   ]
+  },
+  {
+   "cod": "RC-138",
+   "slug": "yel-am-yel-liam",
+   "definicao": "Biodemo da Família Yel que fazia parte do Conselho dos Cinco da Frota Norte em Benem; fundiu o seu código genético com Val El e passou a se chamar Yel Liam.",
+   "cit": [
+    ["B031", 4060, ["Yel Am: Biodemo da Família Yel. Fazia parte do Conselho dos Cinco"], "verbete «Yel Am» — abertura (continua em L4061–L4062)"],
+    ["B031", 4061, ["da Frota Norte em Benem. Fundiu seu código genético com Val El, e passou"], "meio do verbete — a fusão dos códigos"],
+    ["B031", 4062, ["a se chamar Yel Liam."], "fecho do verbete, remetendo a RC-140"]
+   ],
+   "obs": [
+    "**Duas entradas para o mesmo biodemo:** RC-138 versa sobre «Yel Am» (antes da fusão) e RC-140 sobre «Yel Liam» (depois). Os dois verbetes do glossário da B031 são complementares e descrevem o mesmo ser; a duplicidade é da Base e fica registrada, não resolvida.",
+    "A Família Yel é descrita no mesmo glossário como composta por 5.420 membros, criados há aproximadamente 492 milhões de anos no Sistema de Capela, com base no planeta Dan — B031 L4052–L4057."
+   ]
+  },
+  {
+   "cod": "RC-139",
+   "slug": "yel-brasil",
+   "definicao": "Biodemo da Família Yel que ficou conhecido posteriormente como o «Deus Bress» da Mitologia Celta.",
+   "cit": [
+    ["B031", 4063, ["Yel Breasil: Biodemo da Família Yel. Ficou conhecido"], "verbete «Yel Breasil» — abertura (continua em L4064)"],
+    ["B031", 4064, ["posteriormente como o “Deus Bress” da Mitologia Celta."], "fecho do verbete"]
+   ],
+   "obs": [
+    "A Família Yel é descrita no mesmo glossário como composta por 5.420 membros, criados há aproximadamente 492 milhões de anos no Sistema de Capela, com base no planeta Dan — B031 L4052–L4057."
+   ]
+  },
+  {
+   "cod": "RC-140",
+   "slug": "yel-liam",
+   "definicao": "Biodemo da Família Yel que, antes de fundir o seu código genético com Val El, chamava-se Yel Am; na Terra, uma de suas encarnações mais conhecidas foi a de Judas Iscariotes, o apóstolo que «supostamente» traiu Jesus — pela Revelação Cósmica, Judas não suportou a surpresa de saber da morte de Jesus e tirou a sua própria vida.",
+   "cit": [
+    ["B031", 4065, ["Yel Liam: Biodemo da Família Yel. Antes de fundir seu código"], "verbete «Yel Liam» — abertura (continua em L4066–L4071)"],
+    ["B031", 4066, ["genético com Val El, chamava-se Yel Am. Na Terra, umas de suas"], "meio do verbete"],
+    ["B031", 4067, ["encarnações mais conhecidas foi a de Judas Iscariotes, o apóstolo que"], "meio do verbete — a encarnação como Judas Iscariotes"]
+   ],
+   "obs": [
+    "**Duas entradas para o mesmo biodemo:** RC-140 versa sobre «Yel Liam» (depois da fusão) e RC-138 sobre «Yel Am» (antes). Os dois verbetes do glossário da B031 são complementares; a duplicidade é da Base e fica registrada, não resolvida.",
+    "A Família Yel é descrita no mesmo glossário como composta por 5.420 membros, criados há aproximadamente 492 milhões de anos no Sistema de Capela, com base no planeta Dan — B031 L4052–L4057."
+   ]
+  },
+  {
+   "cod": "RC-141",
+   "slug": "yel-lupon",
+   "definicao": "Biodemo da Família Yel que descobriu a Mensagem Talm: ele fez a astralização e estava dimensionado em Shamb-Aha quando a descobriu, através do Processador Val.",
+   "cit": [
+    ["B031", 4072, ["Yel Lupon: Biodemo da Família Yel. Foi quem descobriu a"], "verbete «Yel Lupon» — abertura (continua em L4073–L4074)"],
+    ["B031", 4073, ["Mensagem Talm. Ele fez a astralização e estava dimensionado em Shamb-"], "meio do verbete — a palavra «Shamb-» parte-se entre L4073 e L4074"],
+    ["B031", 4074, ["Aha quando descobriu a mensagem através do Processador Val."], "fecho do verbete"]
+   ],
+   "obs": [
+    "A Família Yel é descrita no mesmo glossário como composta por 5.420 membros, criados há aproximadamente 492 milhões de anos no Sistema de Capela, com base no planeta Dan — B031 L4052–L4057."
+   ]
+  },
+  {
+   "cod": "RC-143",
+   "slug": "yel-luziel",
+   "definicao": "Biodemo da Família Yel que fazia parte do Conselho dos Cinco da Frota Norte em Benem — comando composto por 5 membros (3 Val e 2 Yel): Val Amon, Val Eliah, Val Elieh, Yel Am e Yel Luziel.",
+   "cit": [
+    ["B031", 4085, ["Yel Luziel: Biodemo da Família Yel. Fazia parte do Conselho dos"], "verbete «Yel Luziel» — abertura (continua em L4086)"],
+    ["B031", 4086, ["Cinco da Frota Norte em Benem."], "fecho do verbete"],
+    ["B031", 3255, ["membros (3 Val e 2 Yel): Val Amon, Val Eliah, Val Elieh, Yel Am e Yel"], "a relação dos cinco, no verbete «Conselho dos Cinco» (continua em L3256)"]
+   ],
+   "obs": [
+    "A Família Yel é descrita no mesmo glossário como composta por 5.420 membros, criados há aproximadamente 492 milhões de anos no Sistema de Capela, com base no planeta Dan — B031 L4052–L4057.",
+    "A grafia da fonte é «Val Eliah» / «Val Elieh» na relação do Conselho (L3255), ao passo que os verbetes próprios grafam «Val Elliah» (RC-121) e «Val Ellieh» (RC-122). A diferença fica registrada, não resolvida."
+   ]
+  }
+ ]
+}
