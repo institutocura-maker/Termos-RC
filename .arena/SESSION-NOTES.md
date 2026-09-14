@@ -2364,3 +2364,57 @@ RC-211 sentido prânico de B074/B075 é diverso · palestras sem ocorrência: RC
 RC-438 (P2024-11-30).
 
 **Próximo:** lote 3 da B (8 códigos), já com `aplicar_V: "presuncao-livro"` e guardas E1–E5.
+
+## U45 (13/09/2026) — unidade de DIAGNÓSTICO: o censo do gap estava submedido
+
+Motivo: parei a R1 a pedido do Curador para avaliar o processo. A avaliação apontou
+quatro problemas; o primeiro e maior era o instrumento de medição.
+
+**A falha:** o censo v1 buscava a `chave` do termo dentro de UMA linha do
+`original.txt`. Todo o corpus é hard-wrapped (a maior linha da B024 tem 92 chars),
+então qualquer nome partido pela quebra de linha virava **falso negativo**.
+
+**O sintoma que denunciou:** das 10 Eras da Criação (B024 §16), três saíram erradas —
+RC-170 → C, RC-171 → **E (não-achado-no-corpus)**, RC-172 → D. Nenhuma estava ausente.
+E RC-171, como E, seria **bloqueada pela guarda E3** na hora de receber o V presuntivo.
+
+**O instrumento novo:** `ferramentas/censo_gap_v2.py` (16 s, 158 obras, 14.603 blocos).
+  1. linhas consecutivas viram um bloco (parágrafo recomposto);
+  2. marca de página suprimida e **sem** cortar o bloco (sensibilidade primeiro);
+  3. marca d'água do conversor de ebook suprimida (180× na B031 — entrava no parágrafo);
+  4. hífen de translineação recomposto sem espaço;
+  5. busca pela `chave` normalizada da v1 — muda só a unidade: parágrafo, não linha;
+  6. prosa = ≥200 chars + ≥2 terminadores reais (`.!?` não precedido de dígito) +
+     sem cara de lista (mediana < 20 chars E ≥3 itens numerados).
+
+Critérios testados e ABANDONADOS (registrados no próprio relatório): «tem pontuação»
+(deixava passar o SUMÁRIO da B049, L43-83) e «mediana do comprimento das linhas»
+(rebaixava prosa autêntica: o hard-wrap quebra «Projeto»/«Talm» e encurta as linhas).
+
+**O resultado — 134 de 273 (49%) mudam de família:**
+
+| | v1 | v2 | Δ |
+|---|---:|---:|---:|
+| B prosa citável | 71 | **166** | +95 |
+| C prosa fora da fonte | 41 | 17 | −24 |
+| D só-estrutural | 104 | **21** | −83 |
+| E não achado | 40 | 52 | +12 |
+| A / F (juízo de nome) | 6 / 11 | 6 / 11 | 0 |
+
+- **A família D era majoritariamente artefato**: 73 dos 104 tinham prosa citável
+  na própria fonte declarada.
+- E cresceu porque 11 C e 7 D, recomposto o texto, só tinham sumário/nota/título.
+- Dos 249 que ainda não têm ficha, **142 são B** — o poço da R1 era 47.
+
+**Verificação de honestidade:** conferi à mão 5 promoções D→B (RC-023/026/043/111/113) —
+a chave está de fato dentro do bloco citado, em contexto real (glossário da B031).
+
+**Zero mudança na Base:** sem ficha, sem aresta, sem frontmatter, sem HOLD, sem
+`canonico.json`. Suíte 21/21 e verificador intactos (946/697/1887).
+
+**Entregáveis:** `diagnostico/CENSO-RECLASSIFICADO-2026-09-13.md` (+ `.json`) e
+`ferramentas/censo_gap_v2.py`.
+
+**Aguarda despacho do Curador:** (i) o poço da R1 passa a ser os 142 da família B da v2?
+(ii) os 52 E saem da R1 e vão para R4? (iii) o V presuntivo (escopo: lotes 1–2) vale
+para os próximos lotes?
