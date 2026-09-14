@@ -10937,7 +10937,7 @@
     "RC-433",
     "RC-434"
    ],
-   "ficha": false,
+   "ficha": true,
    "via": "P6-evidência",
    "confianca_fonte": "média"
   },
@@ -11021,7 +11021,7 @@
     "RC-068",
     "RC-403"
    ],
-   "ficha": false,
+   "ficha": true,
    "via": "P6-evidência",
    "confianca_fonte": "média"
   },
@@ -11039,7 +11039,7 @@
     "RC-094",
     "RC-099"
    ],
-   "ficha": false,
+   "ficha": true,
    "via": "P6-evidência",
    "confianca_fonte": "média"
   },

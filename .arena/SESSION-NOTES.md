@@ -2757,3 +2757,30 @@ B048). Nenhuma excepção consciente ao Portão de Paridade foi aberta.
 **59** (39 activos + 20 congelados) · cadastro 572🟢 inalterado.
 
 **Próximo poço activo:** B052 4 · B019 4 · B006 4 · B036 3 · B023 3 · B050 3.
+
+
+## U56 — R1 · lote 13: bloco de fonte única da B052
+
+**Despacho do Curador:** lote 13 = B052; segregação livro a livro mantida;
+jurisprudência da etiqueta homologada; critério do poço congelado cristalizado.
+
+**3 fichas, 15 fragmentos, 0 falhas.** RC-435 O Segredo Perdido do Éden
+(subtítulo do livro) · RC-439 Os Magos do Norte (cap. 8) · RC-440 A Sina dos
+Portadores (cap. 11). **B052 3→0.**
+
+**RC-435 com etiqueta ⚠️:** o próprio título da obra diverge na pontuação —
+créditos «Homoafetividade: O Segredo…» × CIP «Homoafetividade : o segredo…».
+Caso-limite sem etiqueta: «do jardim do Éden» (L6865) é variante da prosa da
+personagem.
+
+**RC-270 fica para a B013:** a evidência do censo é toda da B013 (segundo caso
+do padrão; o primeiro foi RC-300 → B021).
+
+**Despacho lavrado:** `DESPACHO-JURISPRUDENCIA-ETIQUETA-DIVERGENCIA-2026-09-13.md`
+— acciona (contradição semântica/textual/tipográfica estrutural) × não acciona
+(convenção de formatação); critério: «altera o termo ou o modo de imprimir?».
+
+**Números:** 781 → **784 fichas** · GAP 165 → **162** · família B v3 59 →
+**56** (36 activos + 20 congelados) · cadastro 572🟢 inalterado.
+
+**Próximo poço activo:** B019 4 · B006 4 · B036 3 · B023 3 · B050 3 · B002 2.
