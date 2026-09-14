@@ -320,8 +320,8 @@ TERMOS = [
     ("RC-218", "Holograma Universal", COS_LEI[0], COS_LEI[1], "verificado", ['B002', 'P2025-02-15', 'P2024-11-30', 'P2023-07-30', "P2025-06-14"], 'RC-217; RC-219; RC-106; RC-707; RC-708', True),
     ("RC-219", "Agente Secreto do Bem", SER_HUM[0], SER_HUM[1], P, ["B002"], "RC-072; RC-218; RC-214", False),
     ("RC-220", "Conspiração do Desespero", EVE_GUE[0], EVE_GUE[1], P, ["B002"], "RC-001; RC-102; RC-216", False),
-    ("RC-221", "Sustentação Espiritual do Universo", COS_LEI[0], COS_LEI[1], P, ["B002"], "RC-106; RC-107; RC-041", False),
-    ("RC-222", "Filhos das Estrelas", SER_LOG[0], SER_LOG[1], P, ["B002"], "RC-100; RC-149; RC-107", False),
+    ("RC-221", "Sustentação Espiritual do Universo", COS_LEI[0], COS_LEI[1], P, ["B002"], "RC-106; RC-107; RC-041", True),
+    ("RC-222", "Filhos das Estrelas", SER_LOG[0], SER_LOG[1], P, ["B002"], "RC-100; RC-149; RC-107", True),
     ("RC-223", "O Mal: Subproduto da Ignorância Espiritual", COS_ETI[0], COS_ETI[1], "verificado", ['B002', 'P2025-02-15', 'P2024-11-30', 'P2024-11-09'], 'RC-001; RC-041; RC-094; RC-190; RC-217; RC-224; RC-328; RC-721', True),
     ("RC-224", "Prevalece o Amor", COS_ETI[0], COS_ETI[1], P, ['B002', 'P2025-03-15'], 'RC-052; RC-072; RC-094; RC-223', False),
     # ---- B033 — O Drama Terreno de Javé

@@ -2906,3 +2906,26 @@ texto impresso — as citações tomam o núcleo da legenda.
 **41** (21 activos + 20 congelados) · cadastro 572🟢 inalterado.
 
 **Próximo poço activo:** B002 2 · B014 2 · B020 2 · B003 2 · B026 2 · B034 2.
+
+
+## U62 — R1 · lote 19: os 2 da B002
+
+**2 fichas, 12 fragmentos.** RC-221 Sustentação Espiritual do Universo ·
+RC-222 Filhos das Estrelas. **B002 2→0.**
+
+**Portão pegou o sétimo deslocamento:** L4288, não L4287.
+
+**A armadilha do lote:** o cap. 9 abre com epígrafe do **Shiva Samhita** (com
+nota de rodapé), em caixa alta espaçada partida pelo hard-wrap — fonte externa
+CITADA, não adoptada. A ficha não funde epígrafe com exposição do autor.
+
+**RC-222:** a fonte dá a razão literal do nome — corpos feitos dos elementos
+químicos «produzidos pelas fornalhas estelares do universo». Sem estreitar à
+humanidade, sem atribuir origem extraterrestre.
+
+**Três grafias de caixa, sem etiqueta** (sumário, título, corpo).
+
+**Números:** 799 → **801 fichas** · GAP 147 → **145** · família B v3 41 →
+**39** (19 activos + 20 congelados) · cadastro 572🟢 inalterado.
+
+**Próximo poço activo:** B014 2 · B020 2 · B003 2 · B026 2 · B034 2.

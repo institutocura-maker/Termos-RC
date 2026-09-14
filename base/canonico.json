@@ -6026,7 +6026,7 @@
     "RC-107",
     "RC-041"
    ],
-   "ficha": false,
+   "ficha": true,
    "via": "P6-evidência",
    "confianca_fonte": "média"
   },
@@ -6044,7 +6044,7 @@
     "RC-149",
     "RC-107"
    ],
-   "ficha": false,
+   "ficha": true,
    "via": "P6-evidência",
    "confianca_fonte": "média"
   },
