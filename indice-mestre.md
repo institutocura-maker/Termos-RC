@@ -357,7 +357,7 @@
 | RC-349 | Exílios Interplanetários | Eventos & Eras | 7.1 Guerras / Rebeliões / Conflitos | 🟡 | B003 | RC-342; RC-007; RC-002; RC-094 | — |
 | RC-350 | Jesus, o Capelino | Seres & Entidades | 1.6 Figuras humanas (históricas/míticas) | 🟡 | B025 | RC-072; RC-007; RC-039; RC-094 | — |
 | RC-351 | Mestres de Capela | Seres & Entidades | 1.6 Figuras humanas (históricas/míticas) | 🟡 | B025 | RC-039; RC-094; RC-346; RC-350 | — |
-| RC-352 | A Segunda Grande Vinda | Eventos & Eras | 7.3 Profecias / Anúncios | 🟡 | B025 | RC-005; RC-072; RC-094 | — |
+| RC-352 | A Segunda Grande Vinda | Eventos & Eras | 7.3 Profecias / Anúncios | 🟡 | B025 | RC-005; RC-072; RC-094 | [✔](termos/RC-352-segunda-grande-vinda.md) |
 | RC-353 | Ilha Cósmica (mundos rebelados) | Lokas & Geografias | 3.4 Regiões cósmicas / Portais | 🟡 | B003 | RC-342; RC-002; RC-070; RC-094 | [✔](termos/RC-353-ilha-cosmica-mundos-rebelados.md) |
 | RC-354 | Trilogia Queda e Ascensão Espiritual | Tecnologias & Artefatos | 5.4 Escrituras / Objetos documentais | 🟡 | B003, B025, B026 | RC-003; RC-025; RC-026; RC-094 | — |
 | RC-355 | Fator Extraterrestre (o Elo Perdido) | Conceitos Cosmológicos | 2.5 Propósitos / Destinos | 🟢 | B005, B042 | RC-020; RC-094; RC-098; RC-099; RC-357; RC-359 | [✔](termos/RC-355-fator-extraterrestre-o-elo-perdido.md) |

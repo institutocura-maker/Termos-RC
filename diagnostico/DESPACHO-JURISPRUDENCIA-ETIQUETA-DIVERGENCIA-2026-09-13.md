@@ -97,6 +97,24 @@ Na fala de Maneton a expressão surge como «um segredo perdido **do jardim** do
 
 **Corolário (U64, reiterado):** fundi‑las violaria a diretriz «não fundir o que a fonte separa». O registro documenta ambas e declara a distinção.
 
+### 5.3. Terceira aplicação da matriz — REDUÇÃO ANAFÓRICA DO NOME DE UM REFERENTE ÚNICO (RC‑352, homologado na U73)
+
+**Decisão do Curador:** **HOMOLOGADO COM LOUVOR.**
+
+**Regra lavrada:** *«Redução anafórica do nome de um referente único não aciona a etiqueta, ainda quando suprima uma palavra, desde que se trate de gradação de explicitude anafórica e o referente ontológico seja inequivocamente o mesmo.»*
+
+**O caso (B025, RC‑352 «A Segunda Grande Vinda»):** a obra designa o **mesmo** acontecimento com oito formas, da mais explícita à mais breve — «A **Segunda Grande Vinda**» · «a **Segunda Vinda**» · «a **segunda Vinda do Mestre**» · «a **Sua Grande Vinda**» · «a **Vinda do Mestre**» · «a **Vinda Oficial do Mestre Jesus**» · «a **iminente vinda de Jesus**» · «a **sua vinda no porvir**».
+
+**Fundamento lavrado:** «Distinguir a variação anafórica legítima (ex: suprimir "Grande" mantendo o sentido do mesmo evento) de uma alteração tipográfica estrutural ou de referentes distintos é o ápice da curadoria documental.»
+
+**Alcance e limites — o §5.3 não é uma franquia:**
+
+1. Exige que o **referente ontológico seja inequivocamente o mesmo**. Havendo dúvida, aplica‑se o §5.2 (o teste do referente vem antes) e, persistindo a dúvida, a abstenção **deve ser registrada com as linhas**, para o Curador a conferir.
+2. Exige **gradação de explicitude** — isto é, que a variação consista em nomear o mesmo ente com mais ou menos palavras, ao retomá‑lo no fio do texto.
+3. **Não** cobre a **supressão ou troca de letras dentro da palavra** (essa continua no §5, coluna «ortografia»), nem a **troca de palavra por outra de sentido diverso** para o mesmo ente sem explicação na fonte (essa continua a pedir exame, à luz dos precedentes «Terrenos» × «TERRESTRES»).
+
+**Primeira aplicação:** RC‑368 «Assessoria Cósmica» (B011, U74) — quatro formas («assessoria cósmica» · «assessoria cósmica (angelical)» · «a assessoria que O acompanha» · «A assessoria do Mestre») para um só referente, sem etiqueta.
+
 ---
 
-*Despacho lavrado na U56. Adendo da RC‑397 lavrado na U63 por decisão do Curador. §5.1 (aspas) lavrado na U64. §5.2 (referentes distintos) lavrado na U69. Aplica-se a todas as fichas da base, presentes e futuras.*
+*Despacho lavrado na U56. Adendo da RC‑397 lavrado na U63 por decisão do Curador. §5.1 (aspas) lavrado na U64. §5.2 (referentes distintos) lavrado na U69. §5.3 (redução anafórica) lavrado na U74, por decisão do Curador. Aplica-se a todas as fichas da base, presentes e futuras.*

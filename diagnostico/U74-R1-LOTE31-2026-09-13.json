@@ -1,0 +1,40 @@
+{
+ "unidade": "U74",
+ "lote": 31,
+ "data": "2026-09-13",
+ "rota": "R1",
+ "criterio": "família B do censo v3 (referência homologada) — bloco de fonte única da B011 (Jesus e o Enigma da Transfiguração), 1 código (RC‑368), por despacho do Curador (via expressa; VIA (a): 1 obra = 1 lote). Ancoragem pela obra que OCORRE, não pela declarada (critério U57: RC‑368 declara também P2025‑02‑15). O censo é ACHADOR, não CERCA (§6 do despacho do censo).",
+ "v_revogado": true,
+ "nota_fonte": "**A Parte I é narrada na primeira pessoa por TIAGO, O MAIOR** («o espírito daquele que personificou Tiago, o Maior, um dos apóstolos do Mestre, traça a sua narrativa», L74–L76) — discurso de personagem (critério da B036, U59). **A obra apresenta‑se como revelação transmitida:** «o objetivo dos mentores espirituais e extraterrenos que respondem pela autoria intelectual das revelações aqui apresentadas» (L65–L66). ⚠️ **Artefato da edição digital — capitular deslocada:** em TODOS os capítulos do corpo, a extracção emite numa linha própria, ANTES do título, a **capital inicial decorativa do primeiro parágrafo**. A ficha **não a recompõe silenciosamente na citação** (que é verbatim intra-linha), mas registra a leitura. **Fratura de hard-wrap:** cada fragmento entre «» é verbatim **intra-linha**, conferido byte a byte.",
+ "fichas": [
+  {
+   "cod": "RC-368",
+   "slug": "assessoria-cosmica",
+   "definicao": "Na B011 (*Jesus e o Enigma da Transfiguração*), o título do capítulo 4 — «Assessoria Cósmica» —, designando a equipa de seres cósmicos que acompanha e assessora o Mestre Jesus, a quem a obra chama «a sua **assessoria cósmica (angelical)**». Segundo o próprio livro, formam‑na «irmãos de outras moradas cósmicas» entre os quais se nomeiam «as personalidades de **Moisés, Enoch**, além dos “anjos” **Rafael, Miguel, Gabriel**, dentre outros», em «aquela nave singular que se encontrava, ao tempo de Jesus, “estacionada” um pouco além da órbita» de Saturno.",
+   "cit": [
+    ["B011", 14, ["4. Assessoria Cósmica"], "a entrada no SUMÁRIO (Parte I, «O livro de Tiago, o Maior», L10)"],
+    ["B011", 989, ["A S S E S S O R I A  C Ó S M I C A"], "O TÍTULO DO CAPÍTULO no corpo (caixa alta espaçada; sob pág. 34, L987)"],
+    ["B011", 93, ["conversa com a sua assessoria cósmica (angelical), a história da Terra teria"], "a glosa DA PRÓPRIA OBRA — «(angelical)» (início em L92; continua em L94-L95)"],
+    ["B011", 71, ["se encontrar em missão de apoio nestes dias que antecedem o que eles"], "a missão de apoio (início em L70; continua em L72)"],
+    ["B011", 990, ["EM SABER SE ACREDITÁVAMOS ou não no que João acabara de"], "a abertura do capítulo — lê-se «SEM SABER…» (ver obs.; continua em L991-L993)"],
+    ["B011", 3697, ["com as mensagens que Lhe foram endereçadas por sua assessoria cósmica,"], "a assessoria na nave triangular (continua em L3698-L3702)"],
+    ["B011", 3820, ["moradas cósmicas que formam a assessoria que O acompanha, na qual"], "variante + composição (início em L3819; continua em L3821)"],
+    ["B011", 3823, ["as personalidades de Moisés, Enoch, além dos “anjos” Rafael, Miguel,"], "QUEM a compõe (continua em L3824)"],
+    ["B011", 3825, ["naquela nave singular que se encontrava, ao tempo de Jesus, “estacionada”"], "a nave, além da órbita de Saturno (continua em L3826-L3827)"],
+    ["B011", 4604, ["A assessoria do Mestre encontrava-se em estado de estupefação ao"], "variante (continua em L4605-L4609)"]
+   ],
+   "obs": [
+    "⭐ **A composição é nomeada pela própria obra — e por isso se registra.** «Aqueles que ficaram conhecidos nos registros do mundo terreno como as personalidades de **Moisés, Enoch**, além dos “anjos” **Rafael, Miguel, Gabriel**, dentre outros, eram — e ainda são — meus companheiros de tarefa naquela nave singular que se encontrava, ao tempo de Jesus, “estacionada” um pouco além da órbita do planeta que na Terra é conhecido pelo nome de **Saturno**» (L3822–L3827). Não é inferência do motor.",
+    "⭐ **A obra glosa o seu próprio termo — e a glosa se preserva:** «a sua assessoria cósmica **(angelical)**» (L93). O parêntese é da fonte, não do cadastro. E o narrador situa‑se depois dentro dela: «irmãos de outras moradas cósmicas que formam a assessoria que O acompanha, **na qual agora modestamente estou incluído**» (L3819–L3821).",
+    "⭐ **§5.3 (recém‑homologado) — quatro formas, um só referente, sem etiqueta:** «assessoria cósmica» (L14, L93, L989, L3697) · «assessoria cósmica (angelical)» (L93) · «a assessoria que O acompanha» (L3820) · «A assessoria do Mestre» (L4604). Pela regra homologada neste despacho, a **redução ou variante anafórica do nome de um referente único não acciona a etiqueta, ainda quando suprima uma palavra**, desde que se trate de gradação de explicitude e o referente ontológico seja inequivocamente o mesmo — o que aqui se verifica.",
+    "⚠️ **Artefato resolvido — a capitular deslocada.** Em todos os capítulos do corpo, a extracção emite numa linha própria, **antes** do título, a capital inicial decorativa do primeiro parágrafo. Prova em quatro capítulos independentes: cap. 1 «E» + «STÁVAMOS…» = **ESTÁVAMOS** (L128/L130) · cap. 3 «H» + «OUVE…» = **HOUVE** (L711/L713) · cap. 5 «O» + «S DIAS…» = **OS DIAS** (L1185/L1187) · **cap. 4 «S» + «EM SABER…» = SEM SABER** (L988/L990). Donde: a abertura do capítulo lê‑se «**SEM SABER SE ACREDITÁVAMOS** ou não no que João acabara de revelar» (L988+L990). **A ficha não recompõe a letra dentro da citação** — o fragmento é verbatim intra‑linha, como o Portão exige —, mas registra a leitura, para que não se tome «EM SABER» por erro da obra.",
+    "⭐ **O capítulo 4 não define o termo: dramatiza a incompreensão dos discípulos.** «SEM SABER SE ACREDITÁVAMOS ou não no que João acabara de revelar, ou mesmo, hoje o sei, sem conseguir atinar o significado do que fora revelado, permanecemos cabisbaixos» (L988+L990–L993); «eu e Simão Pedro começamos a **desconfiar** de que deveria existir uma estranha verdade por trás daqueles acontecimentos. Ao mesmo tempo que assim achávamos, não conseguíamos ir além» (L1025–L1029). A **definição** vem de fora do bloco indicado pelo censo — do Esclarecimento (L93) e das passagens posteriores (L3697, L3820–L3827).",
+    "**O que a obra diz que a assessoria fazia:** «as mensagens que Lhe foram endereçadas por sua assessoria cósmica, presente naquela nave triangular» (L3696–L3697); e a sua reacção ao risco: «A assessoria do Mestre encontrava‑se em **estado de estupefação** ao perceber os sérios riscos para Sua organização celestial (corpo cósmico‑eterno)» (L4604–L4607).",
+    "**A missão declarada dos seres:** «em considerá‑los como sendo **inteligências extraterrenas**. Afirmaram aqui se encontrar **em missão de apoio** nestes dias que antecedem o que eles anunciam como sendo o prometido retorno do Mestre Jesus» (L70–L72).",
+    "**A voz é de Tiago, o Maior** («o espírito daquele que personificou Tiago, o Maior […] traça a sua narrativa», L74–L76); o capítulo 4 relata o que **João** contou. Registrado como discurso de personagem (critério da B036, U59).",
+    "**Ancoragem (U57):** RC‑368 declara B011 e P2025‑02‑15; a evidência ocorre **na B011**, e é nela que a ficha se sustenta. Nenhum conteúdo da palestra foi importado.",
+    "⚠️ **Alcance da leitura (§6):** os blocos do censo eram «L7‑33» (sumário), «L61‑98» (Esclarecimento) e «L987‑1012» (abertura do capítulo). As passagens que **dizem o que a assessoria é e quem a compõe** (L3697, L3820–L3827, L4604) ficavam fora e foram alcançadas por leitura estendida na mesma obra. Décimo uso consecutivo do §6."
+   ]
+  }
+ ]
+}

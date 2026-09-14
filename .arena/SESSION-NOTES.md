@@ -3207,3 +3207,28 @@ e aquilo a que as religiões chamam de Juízo Final».
 **24** (4 activos + 20 congelados) · cadastro 572🟢 inalterado.
 
 **Próximo:** RC-368 → B011.
+
+
+## U74 — R1 · lote 31: a B011 (RC-368 «Assessoria Cósmica»)
+
+**Despacho do Curador:** lote 31 = B011; **§5.3 HOMOLOGADO COM LOUVOR**; Via
+(a) mantida; verificação dupla de HEAD. 4 activos na contagem.
+
+**1 ficha, 10 fragmentos, 0 falhas na primeira passada.** RC-368 Assessoria
+Cósmica. **B011 1→0.**
+
+**§5.3 lavrado no despacho de jurisprudência**, com os limites postos por
+escrito (não é franquia). Primeira aplicação nesta mesma unidade.
+
+**A composição é nomeada pela obra:** Moisés, Enoch, Rafael, Miguel, Gabriel,
+numa nave estacionada além da órbita de Saturno. A glosa «(angelical)» é da
+própria obra.
+
+**Artefato resolvido — a capitular deslocada:** prova em quatro capítulos;
+cap. 4 «S»+«EM SABER» = «SEM SABER». A ficha não recompõe a letra na citação,
+mas registra a leitura.
+
+**Números:** 816 → **817 fichas** · GAP 130 → **129** · família B v3 24 →
+**23** (3 activos + 20 congelados) · cadastro 572🟢 inalterado.
+
+**Próximo:** RC-372 → B049.

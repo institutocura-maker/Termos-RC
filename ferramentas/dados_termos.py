@@ -494,7 +494,7 @@ TERMOS = [
     ("RC-365", "O Fator Judas", EVE_MIS[0], EVE_MIS[1], "verificado", ['B011', 'P2026-04-02', 'P2025-10-25', "P2018-12-16", "P2025-05-10", "P2022-11-20"], "RC-072; RC-094; RC-138; RC-236; RC-366; RC-647", True),
     ("RC-366", "O Enigma da Transfiguração", EVE_PRO[0], EVE_PRO[1], "verificado", ["B011", 'P2023-06-03', "P2025-05-10", "P2023-02-11", "P2022-11-20", "P2020-04-04"], "RC-072; RC-094; RC-214; RC-365; RC-367; RC-368; RC-565", True),
     ("RC-367", "Alteração Vibratória (Transfiguração)", PRO_FIS[0], PRO_FIS[1], "verificado", ['B011', 'P2025-02-15'], 'RC-366; RC-072; RC-094; RC-713', True),
-    ("RC-368", "Assessoria Cósmica (equipes espirituais de Jesus)", SER_LOG[0], SER_LOG[1], P, ['B011', 'P2025-02-15'], 'RC-072; RC-094; RC-100; RC-214; RC-366', False),
+    ("RC-368", "Assessoria Cósmica (equipes espirituais de Jesus)", SER_LOG[0], SER_LOG[1], P, ['B011', 'P2025-02-15'], 'RC-072; RC-094; RC-100; RC-214; RC-366', True),
     ("RC-369", "Nietzsche como 'Amigo da Intenção de Jesus'", SER_HUM[0], SER_HUM[1], "verificado", ['B049', 'P2024-11-09', 'P2020-04-25', 'P2022-03-26', "P2022-11-19"], 'RC-072; RC-094; RC-253; RC-370; RC-371; RC-372', True),
     ("RC-370", "A Criação de Ídolos para a Humanidade", COS_ETI[0], COS_ETI[1], P, ["B049"], "RC-099; RC-369; RC-094; RC-041", False),
     ("RC-371", "A Fé de Jesus e a Razão de Nietzsche", COS_ETI[0], COS_ETI[1], "verificado", ["B049", "P2020-04-25"], "RC-072; RC-094; RC-231; RC-253; RC-369; RC-372", True),
