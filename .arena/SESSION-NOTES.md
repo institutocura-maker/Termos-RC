@@ -2981,3 +2981,27 @@ mesmo capítulo, porque a abertura não nomeia o vício.
 **35** (15 activos + 20 congelados) · cadastro 572🟢 inalterado.
 
 **Próximo poço activo:** B003 2 · B026 2 · B034 2.
+
+
+## U65 — R1 · lote 22: os 2 da B003
+
+**Despacho do Curador:** lote 22 = B003; **diretriz arquitetural**: o CENSO É
+UM ACHADOR, NÃO UMA CERCA (§6 do despacho do censo).
+
+**2 fichas, 12 fragmentos, 0 falhas na primeira passada.** RC-343 Portal
+Cósmico · RC-353 Ilha Cósmica. **B003 2→0.**
+
+**RC-343:** o portal NÃO foi construído — «seria construído», «estava para ser
+edificado». Destinação frustrada por uma «ocorrência dramática» → quarentena.
+O vocabulário da física («buracos de verme») é tomado por aproximação:
+«chamam de», «provavelmente».
+
+**RC-353:** «uma espécie de ilha cósmica» — condição de isolamento decretada,
+não lugar. Alargamento encontrou a definição em L973-L976 (fora dos blocos).
+
+**A obra reitera passagens com variantes; o termo não muda** → sem etiqueta.
+
+**Números:** 805 → **807 fichas** · GAP 141 → **139** · família B v3 35 →
+**33** (13 activos + 20 congelados) · cadastro 572🟢 inalterado.
+
+**Próximo poço activo:** B034 2 · e os 11 unitários.

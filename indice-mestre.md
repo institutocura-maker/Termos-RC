@@ -293,8 +293,8 @@
 | RC-285 | Opção Inusitada de Pandora (humanização) | Processos & Fenômenos | 4.2 Fenômenos espirituais / mediúnicos | 🟢 | B020, P2021-12-04, B087, B088, B089, P2020-04-25 | RC-086; RC-118; RC-184; RC-242; RC-283 | [✔](termos/RC-285-opcao-inusitada-de-pandora-humanizacao.md) |
 | RC-286 | Eros = Vishnu / Tártaro = Shiva (correspondências) | Termos Específicos | 8.4 Grego / Latim | 🟠 | B020, B021, B060, P2024-11-30, P2024-11-09, P2023-05-21, P2022-09-17 | RC-135; RC-102; RC-145; RC-284; RC-074; RC-072; RC-519 | [✔](termos/RC-286-tartaro-eros-vishnu-tartaro-shiva.md) |
 | RC-287 | Enigma da Esperança (Caixa de Pandora) | Conceitos Cosmológicos | 2.5 Propósitos / Destinos | 🟢 | B020, ART-2026-08-18, B087, B088, P2020-04-25, P2022-03-26 | RC-086; RC-099; RC-145; RC-476; RC-514 | [✔](termos/RC-287-enigma-da-esperanca-caixa-de-pandora.md) |
-| RC-288 | Os Anais de uma Cultura Perdida | Tecnologias & Artefatos | 5.4 Escrituras / Objetos documentais | 🟡 | B020 | RC-086; RC-145; RC-284; RC-094 | — |
-| RC-289 | O Vício de Epimeteu | Conceitos Cosmológicos | 2.6 Ética / Carma / Compromissos | 🟡 | B020 | RC-086; RC-145; RC-283; RC-099 | — |
+| RC-288 | Os Anais de uma Cultura Perdida | Tecnologias & Artefatos | 5.4 Escrituras / Objetos documentais | 🟡 | B020 | RC-086; RC-145; RC-284; RC-094 | [✔](termos/RC-288-os-anais-de-uma-cultura-perdida.md) |
+| RC-289 | O Vício de Epimeteu | Conceitos Cosmológicos | 2.6 Ética / Carma / Compromissos | 🟡 | B020 | RC-086; RC-145; RC-283; RC-099 | [✔](termos/RC-289-o-vicio-de-epimeteu.md) |
 | RC-290 | Cuidado com o 'Ide e Pregai' | Conceitos Cosmológicos | 2.6 Ética / Carma / Compromissos | 🟡 | B020 | RC-072; RC-099; RC-094; RC-086 | — |
 | RC-291 | Fim do Silêncio de Pandora | Eventos & Eras | 7.2 Eras / Épocas / Ciclos | 🟡 | B020, P2020-04-25 | RC-086; RC-094; RC-071; RC-099 | — |
 | RC-292 | Telos (de um deus) | Termos Específicos | 8.4 Grego / Latim | 🟢 | B021, P2024-09-29, P2023-05-21 | RC-094; RC-145; RC-293; RC-294; RC-297 | [✔](termos/RC-292-telos-de-um-deus.md) |

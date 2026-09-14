@@ -465,7 +465,7 @@ TERMOS = [
 
     # ---- Novos termos da TRILOGIA QUEDA E ASCENSÃO ESPIRITUAL (B003 Livro I, B025 Livro II, B026 Livro III)
     ("RC-342", "Quarentena Sideral / Cósmica", EVE_GUE[0], EVE_GUE[1], "em análise", ['B003', 'B025', 'B026', 'B042', 'P2024-07-13'], 'RC-070; RC-090; RC-003; RC-094; RC-002', True),
-    ("RC-343", "Portal Cósmico (destinação do Planeta Azul)", LOK_REG[0], LOK_REG[1], P, ["B003", "B026"], "RC-090; RC-342; RC-094; RC-107", False),
+    ("RC-343", "Portal Cósmico (destinação do Planeta Azul)", LOK_REG[0], LOK_REG[1], P, ["B003", "B026"], "RC-090; RC-342; RC-094; RC-107", True),
     ("RC-344", "Transição Planetária", EVE_ERA[0], EVE_ERA[1], "em análise", ['B003', 'B025', 'B042', 'P2022-12-17', 'P2025-03-15', 'P2025-02-16', 'P2025-02-15', 'P2024-11-30', 'P2023-12-03'], 'RC-003; RC-005; RC-094; RC-342; RC-535; RC-573', True),
     ("RC-345", "Sentimento Luciferiano", COS_ETI[0], COS_ETI[1], P, ["B003"], "RC-078; RC-002; RC-342; RC-094", False),
     ("RC-346", "Jeová (grafia da trilogia)", SER_DIV[0], SER_DIV[1], "verificado", ['B003', 'B025', 'P2024-11-30'], 'RC-001; RC-041; RC-078; RC-094; RC-284; RC-351', True),
@@ -475,7 +475,7 @@ TERMOS = [
     ("RC-350", "Jesus, o Capelino", SER_HUM[0], SER_HUM[1], P, ["B025"], "RC-072; RC-007; RC-039; RC-094", False),
     ("RC-351", "Mestres de Capela", SER_HUM[0], SER_HUM[1], P, ["B025"], "RC-039; RC-094; RC-346; RC-350", False),
     ("RC-352", "A Segunda Grande Vinda", EVE_PRO[0], EVE_PRO[1], P, ["B025"], "RC-005; RC-072; RC-094", False),
-    ("RC-353", "Ilha Cósmica (mundos rebelados)", LOK_REG[0], LOK_REG[1], P, ["B003"], "RC-342; RC-002; RC-070; RC-094", False),
+    ("RC-353", "Ilha Cósmica (mundos rebelados)", LOK_REG[0], LOK_REG[1], P, ["B003"], "RC-342; RC-002; RC-070; RC-094", True),
     ("RC-354", "Trilogia Queda e Ascensão Espiritual", TEC_ESC[0], TEC_ESC[1], P, ["B003", "B025", "B026"], "RC-003; RC-025; RC-026; RC-094", False),
 
     # ---- Novos termos de B005 (obra primária: Fator Extraterrestre, 2004)

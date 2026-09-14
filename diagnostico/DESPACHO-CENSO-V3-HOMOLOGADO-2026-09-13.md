@@ -73,7 +73,38 @@ nenhum E foi recuperado; nenhum falso positivo.
 
 R3 (17 C + 20 D) e R4 (52 E) seguem fora da esteira automatizada da R1.
 
+## 6. ADENDO (U65) — o Censo é um ACHADOR, não uma CERCA
+
+**Decisão do Curador (despacho do lote 22), homologando o alargamento de
+leitura praticado na RC‑289 (U64):**
+
+> «O Censo é um **ACHADOR (Finder)**, não uma **Cerca (Fence)**. […] O motor do
+> censo existe para localizar a âncora inicial (o *hit* da *string*), mas a
+> extração do conhecimento exige contexto. Desde que a expansão da leitura
+> obedeça aos limites do capítulo/verbete e passe pelo Portão de Paridade
+> Verbatim (garantindo que o texto extraído seja *byte a byte* idêntico à
+> fonte), você tem total autonomia para alargar o raio de captura para
+> encontrar a definição real. Excelente precedente arquitetural.»
+
+**Regra, com as suas duas condições cumulativas:**
+
+1. **Limite:** o alargamento vale **dentro da obra e do verbete** (o capítulo
+   que sustenta o termo, ou o desenvolvimento do mesmo termo na mesma obra) —
+   nunca para mudar de obra nem para importar conteúdo de outro código.
+2. **Portão:** todo fragmento colhido por alargamento passa pelo **Portão de
+   Paridade Verbatim**, exactamente como os do bloco original.
+
+**Transparência:** sempre que uma ficha colher fragmentos fora dos blocos
+indicados pelo censo, o facto é registrado nas observações da ficha, no
+`STATE-MIRROR.md` e na certidão da unidade, com as linhas alcançadas.
+
+**Primeiras aplicações:** RC‑289 (U64) — o bloco do censo era só a abertura do
+capítulo 5 da B020, e o vício só é nomeado em L2097–L2105; RC‑353 (U65) — os
+blocos do censo (L304‑316, L87‑91, L325‑328 da B003) trazem apenas aplicações
+da expressão, e a **definição** está em L973–L976.
+
 ---
 
 *Despacho lavrado pelo motor a partir da decisão do Curador de 13/09/2026; a
-guarda E3 foi atualizada na mesma unidade (U51).*
+guarda E3 foi atualizada na mesma unidade (U51). Adendo §6 lavrado na U65 por
+decisão do Curador.*
