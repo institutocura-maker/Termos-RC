@@ -1,0 +1,100 @@
+{
+ "unidade": "U53",
+ "lote": 10,
+ "data": "2026-09-13",
+ "rota": "R1",
+ "criterio": "família B do censo v3 (referência homologada) — lote natural da B015 (O Guardião do Éden), 5 códigos exclusivos, por despacho do Curador (liquidar o saldo das fontes série B antes de reabrir a série P)",
+ "v_revogado": true,
+ "nota_hardwrap": "**Fratura de hard-wrap:** a edição digital das fontes quebra as sentenças em linhas curtas. Cada fragmento entre «» é verbatim **intra-linha**, conferido byte a byte contra o `original.txt` da obra declarada; quando uma sentença foi partida, as suas partes aparecem como fragmentos distintos, com as linhas indicadas. Esta obra tem ainda artefatos próprios: palavras partidas no meio («jardim-» / «laboratório», L194–L195) e aberturas de capítulo em caixa alta espaçada («Z O N T  E N D R E L  29  A P R E S E N T E - S E !», L162–L172), tudo preservado.",
+ "fichas": [
+  {
+   "cod": "RC-244",
+   "slug": "germe-da-desconfianca",
+   "definicao": "Na B015 (*O Guardião do Éden*), o traço «herdado do modo de ser do Criador» que o narrador aponta como causa da «dificuldade insuperável — que perdurou por cerca de 3 bilhões de anos desde o surgimento da molécula-mãe no planeta — dos seres unicelulares terrestres se reunirem para formar um corpo pluricelular». Contrapõe-se ao «efeito “confiança” semeado na configuração do código genético das criaturas deste universo» — a «genética da confiança» que os grupos humanos do Éden terrestre encerravam, «base do que os terráqueos entendem como atração, desejo e amor».",
+   "cit": [
+    ["B015", 1775, ["às experiências que somente surgiram com o efeito “confiança” semeado na"], "o efeito «confiança» no código genético (início em L1773–L1774)"],
+    ["B015", 1776, ["configuração do código genético das criaturas deste universo."], "fecho da sentença"],
+    ["B015", 1779, ["unicelulares terrestres se reunirem para formar um corpo pluricelular, tem a"], "a dificuldade (início em L1777–L1778)"],
+    ["B015", 1780, ["ver exatamente com o germe da desconfiança herdado do modo de ser do"], "o termo, verbatim"],
+    ["B015", 1781, ["Criador."], "fecho — a origem do germe"],
+    ["B015", 1786, ["ricos em termos da nova configuração da genética da confiança, base do que"], "o contraponto (continua em L1787)"]
+   ],
+   "obs": [
+    "A obra apresenta o germe como **herança do modo de ser do Criador** e como obstáculo à pluricelularidade, não como uma «queda»: a ficha não transporta leituras teológicas que a fonte não faça.",
+    "O mesmo capítulo descreve o Éden terrestre como «tão somente um desses laboratórios que terminou sendo produzido muito mais pelas circunstâncias dos fatos do que, propriamente, como produto de um projeto específico» (B015 L1763–L1767)."
+   ]
+  },
+  {
+   "cod": "RC-246",
+   "slug": "dez-sagrados-primeira-geracao-do-criador",
+   "definicao": "Na B015, os **dez seres primordiais da primeira geração** gerada pelo Criador que «sobraram» — «Da primeira geração foram, portanto, dez os seres primordiais que sobraram e eis que eles existem até esses tempos atuais, apesar de que alguns se encontram com problemas que não me foram e nem são possíveis compreender». Segundo o narrador, «alguns poucos dos primeiros que foram gerados tiveram que ser destruídos, pois eram em quase tudo semelhantes ao Criador», e dos dez sagrados «um deles foi o mentor dos En Drel».",
+   "cit": [
+    ["B015", 630, ["narrar, tem como base as informações que pude obter de um dos dez sagrados"], "a fonte da informação (início em L629)"],
+    ["B015", 631, ["da primeira geração advinda daquele a quem tenho como sendo o meu"], "a geração (continua em L632)"],
+    ["B015", 639, ["É dito que alguns poucos dos primeiros que foram gerados tiveram que"], "os destruídos (continua em L640–L642)"],
+    ["B015", 646, ["Da primeira geração foram, portanto, dez os seres primordiais que"], "a definição (continua em L647–L649)"],
+    ["B015", 647, ["sobraram e eis que eles existem até esses tempos atuais, apesar de que alguns"], "continuação"],
+    ["B015", 650, ["Dos dez sagrados, um deles foi o mentor dos En Drel. Foram dele a ideia"], "a relação com os En Drel (continua em L651–L655)"]
+   ],
+   "obs": [
+    "A obra explica a destruição dos primeiros: não era «cabível, nesta criação universal, mais que um ser com o tipo de conformação vibratória semelhante ao da fonte personificada original que gerou todos nós» (B015 L640–L642).",
+    "Confrontar com **En Drel** / **Endrelnianos** (RC-247), cuja classe teve por mentor um dos dez sagrados."
+   ]
+  },
+  {
+   "cod": "RC-247",
+   "slug": "endrelnianos",
+   "definicao": "Na B015, a classe de seres «especialmente gerada para os conflitos e a guarda de locais estratégicos» — «os 374 membros da classe especial de guardiães do universo» — a que pertence o narrador (**En Drel 29**, ou Zont). Distinguem-se pelo **psiquismo grupal**: entre os Endrelnianos «não é processo usual que alguém interfira na “mente coletiva” para pontuar uma chamada individualizada». Foram criados como «organismos programados» para o exercício pleno do poder do Criador e ufanam-se de ser «a única estirpe das muitas do Criador cujos membros jamais faltaram com a fidelidade que ele tanto aprecia». Alguns, porém, começaram a sentir-se indivíduos: «26 dentre os 374, tinham percebido que uma “consciência pessoal” emergira lentamente».",
+   "cit": [
+    ["B015", 185, ["“Endrelnianos”, por força do psiquismo grupal que é ativado sempre que"], "o psiquismo grupal (início em L184; continua em L186–L189)"],
+    ["B015", 186, ["entre eles uns se aproximam dos outros, não é processo usual que alguém"], "continuação"],
+    ["B015", 216, ["todos os En Drel que épocas existiram em que fomos criados como"], "a criação como organismos programados (início em L215; continua em L217)"],
+    ["B015", 228, ["universo e do resto da sua criação. O nosso 29 em existência endrelniana será"], "o narrador é o En Drel 29 (continua em L229–L230)"],
+    ["B015", 231, ["Os 374 membros da classe especial de guardiães do universo fizerem"], "a classe: 374 membros (continua em L232–L233)"],
+    ["B015", 448, ["Entre os endrelnianos o tema não era aprofundado pela nossa baixíssima"], "o limite da capacidade de questionamento (continua em L449–L450)"],
+    ["B015", 450, ["portanto, jamais formalmente tratado. Alguns poucos de nós, 26 dentre os"], "os 26 (continua em L451)"],
+    ["B015", 451, ["374, tinham percebido que uma “consciência pessoal” emergira lentamente"], "a consciência pessoal emergente (continua em L452–L455)"]
+   ],
+   "obs": [
+    "**Duas grafias na mesma obra, ambas preservadas:** «Endrelnianos» (maiusculado, L185 e L448) e «endrelnianos» (minusculado, L448 «Entre os endrelnianos») — além de «En Drel» (a forma corrente) e «em existência endrelniana» (L228). Nenhuma foi normalizada.",
+    "A obra descreve a classe como tendo evoluído «de simples “máquinas” mescladas à mineral energizado com “plasma edificado”» a indivíduos analíticos (B015 L452–L455), e registra que entre os En Drel «não havia duas cores iguais que definissem as suas personalidades individualizadas» (L239–L240)."
+   ]
+  },
+  {
+   "cod": "RC-248",
+   "slug": "viajores-da-rebeliao",
+   "definicao": "Na B015, seres que «a princípio, não se alinharam à rebelião de Lúcifer, mas que nela terminaram tendo papel preponderante a partir de uma das mais desagradáveis etapas daquelas que tiveram lugar naquele episódio». Tornaram-se conhecidos nos desdobramentos da rebelião «porque haviam tido os seus corpos animalizados — como forma de castigo advindo do criador — formados muito tempo antes da rebelião devido a uma outra questão cósmica»; acometidos de doença a bordo, programaram as naves para prosseguir com os ocupantes em hibernação, e uma delas veio a pousar num mundo do sistema do Sol, onde «surgiram, assim, os que pelos terráqueos foram chamados de “gigantes vindos de fora” ou anunnakis».",
+   "cit": [
+    ["B015", 332, ["Eram os “viajores da rebelião” — pensou, enquanto registrava a"], "a identificação (início em L330–L331)"],
+    ["B015", 333, ["informação — seres que, a princípio, não se alinharam à rebelião de Lúcifer,"], "a posição inicial (continua em L334–L335)"],
+    ["B015", 334, ["mas que nela terminaram tendo papel preponderante a partir de uma das mais"], "o papel posterior"],
+    ["B015", 336, ["Aqueles seres terminaram se tornando famosos nos quadros dos"], "a fama (continua em L337–L342)"],
+    ["B015", 337, ["desdobramentos da rebelião porque haviam tido os seus corpos animalizados"], "os corpos animalizados"],
+    ["B015", 338, ["—como forma de castigo advindo do criador — formados muito tempo antes"], "o castigo (continua em L339–L342)"],
+    ["B015", 358, ["Surgiram, assim, os que pelos terráqueos foram chamados de “gigantes"], "o desfecho: os anunnakis (continua em L359–L361)"]
+   ],
+   "obs": [
+    "A obra remete a origem dos «viajores da rebelião» a um planeta de outro sistema estelar, destruído pelos próprios habitantes em tempos remotos (B015 L339–L342).",
+    "A nota sobre a denominação «anunnakis» («conforme denominação acadiana apontada por Zecharia Sitchen») é **do autor terreno**, e a obra o diz expressamente (B015 L359–L360) — registrado como tal, sem adopção.",
+    "Confrontar com **Viajores** (RC-134), materializado na U48 a partir de B031 e B015: são verbetes distintos no cadastro, e nenhuma aresta foi aberta entre eles."
+   ]
+  },
+  {
+   "cod": "RC-250",
+   "slug": "mundo-das-aguas",
+   "definicao": "Na B015, a designação que o guardião-narrador (En Drel 29) dá ao planeta para onde é destacado — o «jardim-laboratório» do Criador —, «o mundo mais recentemente escolhido para receber a sua herança novamente reprogramada para as experiências necessárias ao progresso», e que fora «o selecionado pelos nossos irmãos em criação muito antes do problema que estamos agora controlando», entre «os planetas que foram selecionados para laboratórios da vida ascensional». Na mesma narrativa ele chama a esse mundo «o mundo que chamais Terra» (L438) e designa a sua população como «a raça humana do mundo das águas» (L579).",
+   "cit": [
+    ["B015", 194, ["— O Criador determinou à nossa classe a guarda do seu jardim-"], "a ordem (o hard-wrap parte «jardim-laboratório»)"],
+    ["B015", 195, ["laboratório no mundo mais recentemente escolhido para receber a sua"], "segunda metade (continua em L198)"],
+    ["B015", 200, ["para laboratórios da vida ascensional, o mundo das águas foi o selecionado"], "a designação (início em L199)"],
+    ["B015", 201, ["pelos nossos irmãos em criação muito antes do problema que estamos agora"], "a anterioridade da escolha (continua em L202–L204)"],
+    ["B015", 229, ["aquele que representará a nossa estirpe no mundo das águas. A ele o nosso"], "o destacamento do En Drel 29 (continua em L230)"],
+    ["B015", 579, ["pessoais na elaboração do futuro da raça humana do mundo das águas. Nesse"], "a raça humana do mundo das águas (início em L577–L578)"]
+   ],
+   "obs": [
+    "A identificação com a Terra é sustentada **pela própria narrativa**, e não inferida: o guardião diz «habitantes animalizados da natureza do mundo que chamais Terra» (B015 L438) e «a raça humana do mundo das águas» (L579). A ficha cita as duas âncoras e **não** vai além do que elas dizem.",
+    "O capítulo 1 registra ainda que, no mundo das águas, «alguns dos núcleos rebeldes ali já se encontram estabelecidos há certo tempo» e que o Criador «decidiu interferir nos seus projetos de domínio do planeta» (B015 L202–L204)."
+   ]
+  }
+ ]
+}

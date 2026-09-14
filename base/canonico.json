@@ -6519,7 +6519,7 @@
     "RC-107",
     "RC-167"
    ],
-   "ficha": false,
+   "ficha": true,
    "via": "P6-evidência",
    "confianca_fonte": "média"
   },
@@ -6563,7 +6563,7 @@
     "RC-041",
     "RC-206"
    ],
-   "ficha": false,
+   "ficha": true,
    "via": "P6-evidência",
    "confianca_fonte": "média"
   },
@@ -6581,7 +6581,7 @@
     "RC-147",
     "RC-019"
    ],
-   "ficha": false,
+   "ficha": true,
    "via": "P6-evidência",
    "confianca_fonte": "média"
   },
@@ -6602,7 +6602,7 @@
     "RC-249",
     "RC-250"
    ],
-   "ficha": false,
+   "ficha": true,
    "via": "P6-evidência",
    "confianca_fonte": "média"
   },
@@ -6639,7 +6639,7 @@
     "RC-249",
     "RC-024"
    ],
-   "ficha": false,
+   "ficha": true,
    "via": "P6-evidência",
    "confianca_fonte": "média"
   },

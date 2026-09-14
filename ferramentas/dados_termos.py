@@ -348,13 +348,13 @@ TERMOS = [
     # ---- Novos termos de B015 (obra primária: O Guardião do Éden, 2017)
     ("RC-242", "Éden do Criador (Éden como laboratório)", LOK_TER[0], LOK_TER[1], "verificado", ["B015", "B020", "B052"], "RC-006; RC-041; RC-147; RC-177; RC-189; RC-243; RC-251; RC-285", True),
     ("RC-243", "Genética da Confiança", COS_LEI[0], COS_LEI[1], P, ['B015', 'B040', 'P2025-02-15'], 'RC-041; RC-099; RC-210; RC-242; RC-244; RC-245; RC-251', True),
-    ("RC-244", "Germe da Desconfiança", COS_LEI[0], COS_LEI[1], P, ["B015"], "RC-243; RC-041; RC-107; RC-167", False),
+    ("RC-244", "Germe da Desconfiança", COS_LEI[0], COS_LEI[1], P, ["B015"], "RC-243; RC-041; RC-107; RC-167", True),
     ("RC-245", "A Humanização do Criador", COS_PRO[0], COS_PRO[1], "verificado", ['B015', 'B036', 'B048', 'B037', 'P2024-05-04', 'P2025-10-25'], "RC-001; RC-041; RC-099; RC-147; RC-231; RC-243", True),
-    ("RC-246", "Dez Sagrados (primeira geração do Criador)", SER_LOG[0], SER_LOG[1], P, ["B015"], "RC-055; RC-041; RC-206", False),
-    ("RC-247", "Endrelnianos", SER_ANJ[0], SER_ANJ[1], P, ["B015"], "RC-055; RC-147; RC-019", False),
-    ("RC-248", "Viajores da Rebelião", SER_DEC[0], SER_DEC[1], P, ["B015"], "RC-002; RC-078; RC-134; RC-147; RC-249; RC-250", False),
+    ("RC-246", "Dez Sagrados (primeira geração do Criador)", SER_LOG[0], SER_LOG[1], P, ["B015"], "RC-055; RC-041; RC-206", True),
+    ("RC-247", "Endrelnianos", SER_ANJ[0], SER_ANJ[1], P, ["B015"], "RC-055; RC-147; RC-019", True),
+    ("RC-248", "Viajores da Rebelião", SER_DEC[0], SER_DEC[1], P, ["B015"], "RC-002; RC-078; RC-134; RC-147; RC-249; RC-250", True),
     ("RC-249", "Expulsão dos Viajores (decreto do Criador)", EVE_GUE[0], EVE_GUE[1], P, ["B015"], "RC-248; RC-250; RC-147; RC-001", False),
-    ("RC-250", "Mundo das Águas", LOK_PLA[0], LOK_PLA[1], P, ["B015"], "RC-248; RC-249; RC-024", False),
+    ("RC-250", "Mundo das Águas", LOK_PLA[0], LOK_PLA[1], P, ["B015"], "RC-248; RC-249; RC-024", True),
     ("RC-251", "Laboratórios do Criador", COS_COG[0], COS_COG[1], P, ['B015', 'P2024-09-29'], 'RC-041; RC-090; RC-167; RC-242; RC-243', False),
 
     # ---- Novos termos de B016 (obra primária: O Quarto Logos, 2017)

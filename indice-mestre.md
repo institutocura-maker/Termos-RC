@@ -314,11 +314,11 @@
 | RC-306 | Apolo | Seres & Entidades | 1.5 Decaídos / Exilados / Demônios | 🟡 | B021, B060, P2024-04-13, P2023-05-21, P2023-12-03, P2020-04-04 | RC-145; RC-296; RC-094 | — |
 | RC-307 | Hefesto | Seres & Entidades | 1.5 Decaídos / Exilados / Demônios | 🟢 | B020, B021, B060, B087, B088, P2021-05-15 | RC-145; RC-086; RC-285 | [✔](termos/RC-307-hefesto.md) |
 | RC-308 | Adhytia (nível hierárquico) | Seres & Entidades | 1.8 Consciências coletivas / Logos | 🟢 | B022 | RC-011; RC-094; RC-104; RC-311; RC-313 | [✔](termos/RC-308-adhytia-nivel-hierarquico.md) |
-| RC-309 | Ordem dos Indecifráveis | Seres & Entidades | 1.8 Consciências coletivas / Logos | 🟡 | B022 | RC-308; RC-311; RC-104 | — |
+| RC-309 | Ordem dos Indecifráveis | Seres & Entidades | 1.8 Consciências coletivas / Logos | 🟡 | B022 | RC-308; RC-311; RC-104 | [✔](termos/RC-309-ordem-dos-indecifraveis.md) |
 | RC-310 | Adhyshprabrajna (Adhy que caiu) | Seres & Entidades | 1.1 Divindades / Criadores | 🟢 | B022, B051, P2021-12-04 | RC-001; RC-013; RC-014; RC-037; RC-041; RC-094; RC-152 | [✔](termos/RC-310-adhyshprabrajna-adhy-que-caiu.md) |
 | RC-311 | Adhyagya (formas espirituais Adhy) | Seres & Entidades | 1.8 Consciências coletivas / Logos | 🟢 | B022 | RC-012; RC-013; RC-014; RC-102; RC-135; RC-308; RC-309 | [✔](termos/RC-311-adhyagya-formas-espirituais-adhy.md) |
 | RC-312 | Criação Bipartida | Conceitos Cosmológicos | 2.3 Dimensões / Planos de existência | 🟠 | B022, P2024-11-30 | RC-106; RC-107; RC-167; RC-094 | [✔](termos/RC-312-criacao-bipartida.md) |
-| RC-313 | Tempo de Apostasia | Eventos & Eras | 7.2 Eras / Épocas / Ciclos | 🟡 | B022 | RC-094; RC-104; RC-300; RC-308; RC-314 | — |
+| RC-313 | Tempo de Apostasia | Eventos & Eras | 7.2 Eras / Épocas / Ciclos | 🟡 | B022 | RC-094; RC-104; RC-300; RC-308; RC-314 | [✔](termos/RC-313-tempo-de-apostasia.md) |
 | RC-314 | Fenômenos Denunciadores do Fim | Eventos & Eras | 7.3 Profecias / Anúncios | 🟢 | B022, B035, P2025-03-15 | RC-070; RC-094; RC-104; RC-155; RC-203; RC-300; RC-313; RC-315; RC-317; RC-572; RC-578; RC-690 | [✔](termos/RC-314-fenomenos-denunciadores-do-fim.md) |
 | RC-315 | O Fim da Lila | Eventos & Eras | 7.1 Guerras / Rebeliões / Conflitos | 🟡 | B022, P2024-11-30, P2023-11-19, P2023-12-03 | RC-075; RC-104; RC-300; RC-313; RC-314 | — |
 | RC-316 | Decifra-me ou Devoro (hábito demo) | Conceitos Cosmológicos | 2.6 Ética / Carma / Compromissos | 🟡 | B022, P2025-06-14b | RC-049; RC-104; RC-075 | — |

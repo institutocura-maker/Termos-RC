@@ -2673,3 +2673,31 @@ que nenhum teste os fiscaliza. **DÍVIDA: congelados em 768 fichas, Base em
 
 **Números:** 768 → **770 fichas** · GAP 178 → **176** · família B v3 72 →
 **70 restantes** · cadastro 572🟢 inalterado.
+
+
+## U53 — R1 · lote 10: o lote natural da B015 + congelamento da série P
+
+**Despacho do Curador:** lote 10 = B015; **congelar todas as fontes da série
+P (palestras/STT)** até protocolo próprio, focando apenas nas fontes série B.
+
+**5 fichas, 33 fragmentos, 0 falhas.** RC-244 Germe da Desconfiança ·
+RC-246 Dez Sagrados · RC-247 Endrelnianos · RC-248 Viajores da Rebelião ·
+RC-250 Mundo das Águas. Todos exclusivos da B015. **B015 5→0.**
+
+**Três abstenções:** «Mundo das Águas»=Terra não é inferido (ancorado em duas
+falas do narrador); o Germe não é lido como queda; a relação Dez Sagrados ×
+Endrelnianos é só a que a fonte escreve.
+
+**Uniformização:** slug ASCII — todas as 64 fichas da R1 usam; RC-244 saiu de
+`germe-da-desconfiança` para `germe-da-desconfianca`.
+
+**CONGELAMENTO DA SÉRIE P** (`DESPACHO-CONGELAMENTO-SERIE-P-2026-09-13.md`):
+19 códigos congelados em 14 palestras; quem declara livro E palestra
+continua elegível sustentando-se só no livro; reabertura por despacho com
+protocolo próprio.
+
+**Números:** 770 → **775 fichas** · GAP 176 → **171** · família B v3 70 →
+**65** (46 activos + 19 congelados) · cadastro 572🟢 inalterado.
+
+**Próximo poço activo:** B048 5 · B052 4 · B019 4 · B006 4 · B036 3 ·
+B023 3 · B050 3.
