@@ -3005,3 +3005,27 @@ não lugar. Alargamento encontrou a definição em L973-L976 (fora dos blocos).
 **33** (13 activos + 20 congelados) · cadastro 572🟢 inalterado.
 
 **Próximo poço activo:** B034 2 · e os 11 unitários.
+
+
+## U66 — R1 · lote 23: os 2 da B034
+
+**Despacho do Curador:** lote 23 = B034.
+
+**2 fichas, 12 fragmentos, 0 falhas na primeira passada.** RC-419 Sou eu que
+vivo em vocês (Javé) · RC-420 Mônica Camargo. **B034 2→0.**
+
+**A obra tem duas vozes em primeira pessoa** — Mônica Camargo (autora das
+cartas) e Javé (que responde) —, além da de Jan Val Ellam. A RC-419 é a voz de
+Javé; a RC-420, a de Mônica. Não foram confundidas.
+
+**RC-420:** autora das CARTAS, não do livro (CIP e copyright são de Jan Val
+Ellam). O assombro e o juízo são DELA, registrados como tais.
+
+**O POÇO ENTROU NA FASE DOS UNITÁRIOS:** nenhuma obra tem mais de um código.
+Restam 12 códigos · 11 activos (RC-296 congelada).
+
+**O quadro das sombras:** RC-270→B013 e RC-347→B026 ancoram-se pela obra que
+OCORRE, não pela declarada.
+
+**Números:** 807 → **809 fichas** · GAP 139 → **137** · família B v3 33 →
+**31** (11 activos + 20 congelados) · cadastro 572🟢 inalterado.

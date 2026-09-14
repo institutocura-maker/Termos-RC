@@ -348,7 +348,7 @@
 | RC-340 | Atores de uma Peça Incompreensível | Conceitos Cosmológicos | 2.6 Ética / Carma / Compromissos | 🟡 | B048 | RC-099; RC-041; RC-167; RC-094 | [✔](termos/RC-340-atores-de-uma-peca-incompreensivel.md) |
 | RC-341 | Ferramentas do Favor Divino (religiões e pensadores) | Conceitos Cosmológicos | 2.4 Espiritualidade / Doutrina | 🟡 | B048, P2024-11-09, P2024-09-29 | RC-190; RC-332; RC-099; RC-094; RC-723 | [✔](termos/RC-341-ferramentas-do-favor-divino.md) |
 | RC-342 | Quarentena Sideral / Cósmica | Eventos & Eras | 7.1 Guerras / Rebeliões / Conflitos | 🟠 | B003, B025, B026, B042, P2024-07-13 | RC-070; RC-090; RC-003; RC-094; RC-002 | [✔](termos/RC-342-quarentena-sideral-cosmica.md) |
-| RC-343 | Portal Cósmico (destinação do Planeta Azul) | Lokas & Geografias | 3.4 Regiões cósmicas / Portais | 🟡 | B003, B026 | RC-090; RC-342; RC-094; RC-107 | — |
+| RC-343 | Portal Cósmico (destinação do Planeta Azul) | Lokas & Geografias | 3.4 Regiões cósmicas / Portais | 🟡 | B003, B026 | RC-090; RC-342; RC-094; RC-107 | [✔](termos/RC-343-portal-cosmico-destinacao-planeta-azul.md) |
 | RC-344 | Transição Planetária | Eventos & Eras | 7.2 Eras / Épocas / Ciclos | 🟠 | B003, B025, B042, P2022-12-17, P2025-03-15, P2025-02-16, P2025-02-15, P2024-11-30, P2023-12-03 | RC-003; RC-005; RC-094; RC-342; RC-535; RC-573 | [✔](termos/RC-344-transicao-planetaria.md) |
 | RC-345 | Sentimento Luciferiano | Conceitos Cosmológicos | 2.6 Ética / Carma / Compromissos | 🟡 | B003 | RC-078; RC-002; RC-342; RC-094 | — |
 | RC-346 | Jeová (grafia da trilogia) | Seres & Entidades | 1.1 Divindades / Criadores | 🟢 | B003, B025, P2024-11-30 | RC-001; RC-041; RC-078; RC-094; RC-284; RC-351 | [✔](termos/RC-346-jeova-grafia-da-trilogia.md) |
@@ -358,7 +358,7 @@
 | RC-350 | Jesus, o Capelino | Seres & Entidades | 1.6 Figuras humanas (históricas/míticas) | 🟡 | B025 | RC-072; RC-007; RC-039; RC-094 | — |
 | RC-351 | Mestres de Capela | Seres & Entidades | 1.6 Figuras humanas (históricas/míticas) | 🟡 | B025 | RC-039; RC-094; RC-346; RC-350 | — |
 | RC-352 | A Segunda Grande Vinda | Eventos & Eras | 7.3 Profecias / Anúncios | 🟡 | B025 | RC-005; RC-072; RC-094 | — |
-| RC-353 | Ilha Cósmica (mundos rebelados) | Lokas & Geografias | 3.4 Regiões cósmicas / Portais | 🟡 | B003 | RC-342; RC-002; RC-070; RC-094 | — |
+| RC-353 | Ilha Cósmica (mundos rebelados) | Lokas & Geografias | 3.4 Regiões cósmicas / Portais | 🟡 | B003 | RC-342; RC-002; RC-070; RC-094 | [✔](termos/RC-353-ilha-cosmica-mundos-rebelados.md) |
 | RC-354 | Trilogia Queda e Ascensão Espiritual | Tecnologias & Artefatos | 5.4 Escrituras / Objetos documentais | 🟡 | B003, B025, B026 | RC-003; RC-025; RC-026; RC-094 | — |
 | RC-355 | Fator Extraterrestre (o Elo Perdido) | Conceitos Cosmológicos | 2.5 Propósitos / Destinos | 🟢 | B005, B042 | RC-020; RC-094; RC-098; RC-099; RC-357; RC-359 | [✔](termos/RC-355-fator-extraterrestre-o-elo-perdido.md) |
 | RC-356 | Fonte da Vida (metáfora da ilha/oceano) | Conceitos Cosmológicos | 2.1 Cosmogonia / Criação | 🟡 | B005 | RC-148; RC-107; RC-094; RC-033 | [✔](termos/RC-356-fonte-da-vida-metafora-da-ilha-oceano.md) |

@@ -557,8 +557,8 @@ TERMOS = [
     ("RC-416", "Cartas a Javé (obra e diálogo)", TEC_ESC[0], TEC_ESC[1], "verificado", ["B034", "B036"], "RC-001; RC-002; RC-033; RC-094; RC-417; RC-418; RC-419; RC-420; RC-421", True),
     ("RC-417", "Resposta de Javé (em 1ª pessoa)", TEC_ESC[0], TEC_ESC[1], "verificado", ["B034"], "RC-001; RC-094; RC-382; RC-416; RC-418; RC-419", True),
     ("RC-418", "Terminal Nervoso do Criador (humano)", COS_LEI[0], COS_LEI[1], P, ['B034', 'B036', 'P2025-03-15', 'P2025-02-15'], 'RC-041; RC-094; RC-099; RC-217; RC-417; RC-708', False),
-    ("RC-419", "Sou eu que vivo em vocês (Javé)", COS_PRO[0], COS_PRO[1], P, ['B034', 'P2024-11-30'], 'RC-001; RC-094; RC-332; RC-382; RC-416', False),
-    ("RC-420", "Mônica Camargo (autora das cartas)", SER_HUM[0], SER_HUM[1], P, ["B034"], "RC-416; RC-071; RC-094", False),
+    ("RC-419", "Sou eu que vivo em vocês (Javé)", COS_PRO[0], COS_PRO[1], P, ['B034', 'P2024-11-30'], 'RC-001; RC-094; RC-332; RC-382; RC-416', True),
+    ("RC-420", "Mônica Camargo (autora das cartas)", SER_HUM[0], SER_HUM[1], P, ["B034"], "RC-416; RC-071; RC-094", True),
 
     # ---- Novos termos de B036 (obra primária: As Memórias de Javé — crônicas em 1ª pessoa)
     ("RC-421", "As Memórias de Javé (crônicas)", TEC_ESC[0], TEC_ESC[1], "verificado", ["B036"], "RC-001; RC-071; RC-094; RC-332; RC-416; RC-422; RC-423", True),

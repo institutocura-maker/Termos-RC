@@ -10578,7 +10578,7 @@
     "RC-382",
     "RC-416"
    ],
-   "ficha": false,
+   "ficha": true,
    "via": "P6-evidência",
    "confianca_fonte": "média"
   },
@@ -10596,7 +10596,7 @@
     "RC-071",
     "RC-094"
    ],
-   "ficha": false,
+   "ficha": true,
    "via": "P6-evidência",
    "confianca_fonte": "média"
   },

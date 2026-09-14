@@ -1,0 +1,50 @@
+{
+ "unidade": "U66",
+ "lote": 23,
+ "data": "2026-09-13",
+ "rota": "R1",
+ "criterio": "família B do censo v3 (referência homologada) — bloco de fonte única da B034 (Cartas a Javé), 2 códigos, por despacho do Curador (via expressa; segregação por obra). O censo é ACHADOR, não CERCA (§6 do despacho do censo).",
+ "v_revogado": true,
+ "nota_fonte": "**A B034 tem DUAS vozes em primeira pessoa, e a ficha deve distingui-las:** (1) a de **MÔNICA CAMARGO**, autora das CARTAS, que assina o PREFÁCIO (L115) e o POSFÁCIO (L2200); (2) a de **JAVÉ**, que RESPONDE às cartas («Não estava nos meus desígnios, nessa altura, comunicar-me com os humanos da Terra por meio de respostas às suas cartas», L1344–L1345) — esta é a voz da RC‑419, a mesma situação discursiva já registrada na B036 (U59). Há ainda uma terceira voz, a de **JAN VAL ELLAM**, no posfácio dele (L2206–L2264), que não se confunde com as duas primeiras. **Convenção gráfica, sem etiqueta:** o nome comparece em caixa alta na folha de rosto (L7), em caixa normal no sumário (L75) e nas assinaturas (L115, L2200), e em **caixa alta espaçada** no título do posfácio (L2178) — matriz homologada: caixa e espaçamento são modo de imprimir. **Fratura de hard-wrap:** cada fragmento entre «» é verbatim **intra-linha**, conferido byte a byte.",
+ "fichas": [
+  {
+   "cod": "RC-419",
+   "slug": "sou-eu-que-vivo-em-voces-jave",
+   "definicao": "Na B034 (*Cartas a Javé*), a declaração de **Javé** na resposta que dirige às cartas de Mônica Camargo: «Acostumem-se e compreendam: sou eu que vivo em vocês!». Ela vem precedida da justificação ontológica — «Digo “minhas” porque efetivamente são minhas, pois fazem parte de mim, do que eu sou! Não há nada na minha criação que não seja parte do meu “eu”» — e seguida do lamento: «A tudo controlei até que surgiram os desdobramentos…», «do que tenho me arrependido amargamente».",
+   "cit": [
+    ["B034", 1344, ["Não estava nos meus desígnios, nessa altura, comunicar-me com os"], "a situação: JAVÉ responde às cartas (continua em L1345-L1348)"],
+    ["B034", 1349, ["Digo “minhas” porque efetivamente são minhas, pois fazem parte de"], "a justificação do possessivo (início em L1346-L1348)"],
+    ["B034", 1350, ["mim, do que eu sou! Não há nada na minha criação que não seja parte do meu"], "a premissa ontológica (continua em L1351-L1352)"],
+    ["B034", 1353, ["Acostumem-se e compreendam: sou eu que vivo em vocês!"], "O TERMO"],
+    ["B034", 1354, ["A tudo controlei até que surgiram os desdobramentos em relação aos"], "o lamento que se segue (continua em L1355-L1357)"]
+   ],
+   "obs": [
+    "⭐ **O «eu» é JAVÉ, e a ficha o diz.** A declaração pertence à resposta que a obra atribui a Javé às cartas de Mônica Camargo — não é fala do autor do livro, nem da missivista, nem do cadastro. A ficha registra-a como **discurso da personagem**, nos mesmos termos em que a B036 foi tratada na U59.",
+    "**A frase é uma ordem de compreensão, não uma definição:** «**Acostumem-se e compreendam**: sou eu que vivo em vocês!» (L1353). A ficha não a converte em enunciado doutrinário do cadastro, nem lhe extrai consequências que a obra não formule.",
+    "**O arrependimento enquadra a declaração:** «do que tenho me arrependido amargamente» (L1356) e «Arrependo-me, mas nada me resta a fazer pois não posso destruir aos que amo, por serem minhas criaturas construtoras do que ainda me resta edificar e concluir» (L1367–L1371). A ficha registra esse enquadramento, porque ele é o regime em que a fonte põe a declaração.",
+    "A RC‑419 declara também a palestra P2024‑11‑30. **A sustentação desta ficha é exclusivamente a B034**, nos termos da salvaguarda do despacho de congelamento da série P (quem declara livro **e** palestra continua elegível, desde que se sustente **só nas passagens do livro**)."
+   ]
+  },
+  {
+   "cod": "RC-420",
+   "slug": "monica-camargo-autora-das-cartas",
+   "definicao": "Na B034 (*Cartas a Javé*), a autora das CARTAS que dão título ao livro, e que o assina na folha de rosto (L7), no PREFÁCIO (L115) e no POSFÁCIO (L2200). Declara-o ela própria: «Escrevi as cartas enquanto lia as obras “O Drama Espiritual de Javé” e “O Drama Terreno de Javé”, ambos de autoria de Jan Val Ellam», e acrescenta que «elas representam as minhas reflexões enquanto digeria as informações: ora com tristeza, ora com espanto, ora com compaixão».",
+   "cit": [
+    ["B034", 7, ["MÔNICA CAMARGO"], "a folha de rosto (caixa alta; sob «JAN VAL ELLAM», L6, e o título «CARTAS A JAVÉ», L5)"],
+    ["B034", 104, ["Escrevi as cartas enquanto lia as obras “O Drama Espiritual de Javé” e “O"], "a autodeclaração (1/2)"],
+    ["B034", 105, ["Drama Terreno de Javé”, ambos de autoria de Jan Val Ellam."], "a autodeclaração (2/2)"],
+    ["B034", 106, ["Elas representam as minhas reflexões enquanto digeria as informações:"], "a natureza das cartas (continua em L107)"],
+    ["B034", 115, ["Mônica Camargo"], "a assinatura do PREFÁCIO (L103)"],
+    ["B034", 2185, ["nunca imaginei que receberia uma resposta."], "a surpresa (início em L2184)"],
+    ["B034", 2190, ["descrito por Jesus, mas um autêntico Javé, descrevendo-se a si próprio."], "o Javé que ela diz ter visto na resposta (início em L2188-L2189)"]
+   ],
+   "obs": [
+    "⭐ **A abstenção central: ela é autora das CARTAS, não do LIVRO.** A fonte distingue as duas coisas com clareza: na folha de rosto comparecem **JAN VAL ELLAM** (L6) **e** MÔNICA CAMARGO (L7); a ficha de catalogação atribui a obra a «Ellam, Jan Val, 1959‑» (L27–L28) e o copyright é «© Jan Val Ellam, 2019» (L11). A ela pertencem **as cartas**, o PREFÁCIO e o POSFÁCIO. A ficha não lhe atribui a autoria do livro.",
+    "**As cartas nasceram da leitura, e é a própria autora que o diz:** foram escritas «enquanto lia» os dois volumes da trilogia dos dramas de Javé (L104–L105; reiterado no posfácio, L2179–L2183), e «representam as minhas reflexões enquanto digeria as informações» (L106–L107). A ficha registra essa gênese declarada, sem lhe acrescentar juízo sobre o estatuto da «resposta» que o livro publica.",
+    "**O assombro é dela, e vai registrado como tal:** «Acostumada com a “via de mão única” na comunicação com o criador, nunca imaginei que receberia uma resposta» (L2184–L2185). Do mesmo modo, a caracterização de L2188–L2190 — «não o Javé prepotente e vingativo das páginas do velho testamento, nem tampouco o Javé amoroso e misericordioso tal como descrito por Jesus, mas um autêntico Javé, descrevendo-se a si próprio» — é **o juízo da missivista sobre o que leu**, não uma afirmação do cadastro.",
+    "**Corroboração pela outra voz (registrada, não citada):** no posfácio de Jan Val Ellam, a mesma condição é confirmada por outrem — «a querida Mônica Camargo» (L2242) e «as cartas que tão amorosa e delicadamente Mônica foi produzindo à medida em que lia alguns dos livros por mim produzidos» (L2245–L2247). Fica o nexo registrado; os fragmentos citados são os da própria voz dela.",
+    "**Convenção gráfica, sem etiqueta:** «MÔNICA CAMARGO» (folha de rosto, L7) · «Posfácio Mônica Camargo» (sumário, L75) · «Mônica Camargo» (assinaturas, L115 e L2200) · «P O S F Á C I O  M Ô N I C A  C A M A R G O» (título do posfácio em caixa alta espaçada, L2178). Caixa e espaçamento — modo de imprimir (matriz homologada)."
+   ]
+  }
+ ]
+}
