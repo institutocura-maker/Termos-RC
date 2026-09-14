@@ -2836,3 +2836,26 @@ falta de acentuação («incomodo»). Nada normalizado.
 **49** (29 activos + 20 congelados) · cadastro 572🟢 inalterado.
 
 **Próximo poço activo:** B036 3 · B023 3 · B050 3 · B002 2 · B014 2 · B020 2.
+
+
+## U59 — R1 · lote 16: os 2 da B036
+
+**Despacho do Curador:** lote 16 = B036; segregação obra a obra mantida
+«independentemente do tamanho do lote».
+
+**2 fichas, 11 fragmentos, 0 falhas.** RC-423 Advogado de Acusação (Ellam ×
+Javé) · RC-427 Criatura-teste (estágio avançado). **B036 2→0.** RC-270 segue
+ancorada na B013 (inventário da U57).
+
+**O discurso é de Javé, não do cadastro:** a obra é escrita na primeira pessoa
+do Criador, dirigindo-se ao humano que lhe serve de instrumento. As duas
+designações são palavras da personagem, registradas como tais.
+
+**Duas abstenções de fronteira:** a obra não nomeia o «advogado de acusação»
+(a ficha não introduz o nome que a fonte não escreve); a fonte não gradua o
+«estágio avançado» (o qualificativo não entra na citação).
+
+**Números:** 791 → **793 fichas** · GAP 155 → **153** · família B v3 49 →
+**47** (27 activos + 20 congelados) · cadastro 572🟢 inalterado.
+
+**Próximo poço activo:** B023 3 · B050 3 · B002 2 · B014 2 · B020 2 · B003 2.

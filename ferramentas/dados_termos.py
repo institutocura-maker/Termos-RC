@@ -563,11 +563,11 @@ TERMOS = [
     # ---- Novos termos de B036 (obra primária: As Memórias de Javé — crônicas em 1ª pessoa)
     ("RC-421", "As Memórias de Javé (crônicas)", TEC_ESC[0], TEC_ESC[1], "verificado", ["B036"], "RC-001; RC-071; RC-094; RC-332; RC-416; RC-422; RC-423", True),
     ("RC-422", "Ser-Criador fracassado (autoconfissão de Javé)", COS_PRO[0], COS_PRO[1], "verificado", ['B036', 'B037', 'P2024-11-30', 'P2024-11-09', 'P2023-10-14', 'P2020-04-25', 'P2022-03-26'], 'RC-001; RC-041; RC-094; RC-245; RC-332; RC-427', True),
-    ("RC-423", "Advogado de Acusação (Ellam × Javé)", SER_HUM[0], SER_HUM[1], P, ["B036"], "RC-071; RC-001; RC-094", False),
+    ("RC-423", "Advogado de Acusação (Ellam × Javé)", SER_HUM[0], SER_HUM[1], P, ["B036"], "RC-071; RC-001; RC-094", True),
     ("RC-424", "Linhagem dos Escolhidos (Adão, Enoch, Abraão, Jacó)", GEN_HUM[0], GEN_HUM[1], 'em análise', ['B036', 'B060', 'P2022-12-17', 'P2025-10-25', 'P2025-02-16', 'P2024-11-30', 'P2024-11-09', 'P2024-04-13', 'P2026-08-04', 'P2024-02-03', 'P2023-09-09', 'P2020-05-09', 'P2023-10-14', 'P2023-12-03'], 'RC-270; RC-001; RC-217; RC-094; RC-579; RC-594', True),
     ("RC-425", "Krishna como 'pretenso Keshava'", SER_EXT[0], SER_EXT[1], "verificado", ['B036', 'P2025-02-16', 'P2024-11-30', 'P2023-10-14', 'P2023-12-03'], 'RC-414; RC-073; RC-104; RC-094; RC-714; RC-717; RC-722', True),
     ("RC-426", "Javé sem avatares ('Não tenho isto!')", SER_DIV[0], SER_DIV[1], "verificado", ['B036', 'B016', 'P2022-12-17', 'P2024-11-30', 'P2023-12-03'], 'RC-001; RC-016; RC-102; RC-135; RC-094', True),
-    ("RC-427", "Criatura-teste (estágio avançado)", COS_PRO[0], COS_PRO[1], P, ["B036"], "RC-094; RC-099; RC-418; RC-422", False),
+    ("RC-427", "Criatura-teste (estágio avançado)", COS_PRO[0], COS_PRO[1], P, ["B036"], "RC-094; RC-099; RC-418; RC-422", True),
     ("RC-428", "Tempo-limite (transição crítica de Javé)", EVE_ERA[0], EVE_ERA[1], P, ['B036', 'P2024-11-30', 'P2024-09-29'], 'RC-001; RC-300; RC-094', False),
     ("RC-429", "Javé alimenta-se do senso crítico humano", COS_ETI[0], COS_ETI[1], P, ['B036', 'P2025-02-15', 'P2024-11-30', 'P2024-09-29'], 'RC-001; RC-231; RC-253; RC-094', False),
 

@@ -394,12 +394,12 @@
 | RC-386 | Memórias para Javé | Conceitos Cosmológicos | 2.2 Leis e princípios cósmicos | 🟡 | B041, P2024-09-29 | RC-161; RC-378; RC-041; RC-094 | — |
 | RC-387 | Fragmentação do Poder Mental da Divindade | Conceitos Cosmológicos | 2.1 Cosmogonia / Criação | 🟡 | B041, P2024-05-04, P2025-03-15, P2025-02-16, P2024-11-30, P2024-11-09, P2020-07-04, P2023-12-03 | RC-041; RC-167; RC-152; RC-094; RC-638 | — |
 | RC-388 | Grupo Atlan | Genealogias & Linhagens | 6.3 Dinastias extraterrestres | 🟢 | B006, B031, B044 | RC-389; RC-071; RC-094; RC-100; RC-028; RC-390 | [✔](termos/RC-388-grupo-atlan.md) |
-| RC-389 | Casa de Lucas (origem do Grupo Atlan) | Lokas & Geografias | 3.3 Localidades terrestres | 🟡 | B006 | RC-388; RC-071; RC-094 | — |
+| RC-389 | Casa de Lucas (origem do Grupo Atlan) | Lokas & Geografias | 3.3 Localidades terrestres | 🟡 | B006 | RC-388; RC-071; RC-094 | [✔](termos/RC-389-casa-de-lucas-origem-do-grupo-atlan.md) |
 | RC-390 | Espíritos comunicantes do Grupo Atlan | Seres & Entidades | 1.8 Consciências coletivas / Logos | 🟡 | B006 | RC-388; RC-100; RC-094; RC-393; RC-394 | — |
-| RC-391 | Mesmice Espiritual | Conceitos Cosmológicos | 2.6 Ética / Carma / Compromissos | 🟡 | B006 | RC-099; RC-100; RC-094 | — |
+| RC-391 | Mesmice Espiritual | Conceitos Cosmológicos | 2.6 Ética / Carma / Compromissos | 🟡 | B006 | RC-099; RC-100; RC-094 | [✔](termos/RC-391-mesmice-espiritual.md) |
 | RC-392 | Reforma Íntima (tema do Grupo Atlan) | Conceitos Cosmológicos | 2.4 Espiritualidade / Doutrina | 🟢 | B006, B074, B075, P2025-03-15 | RC-100; RC-099; RC-094; RC-190 | [✔](termos/RC-392-reforma-intima.md) |
-| RC-393 | Enéas (espírito comunicante) | Seres & Entidades | 1.6 Figuras humanas (históricas/míticas) | 🟡 | B006 | RC-390; RC-094 | — |
-| RC-394 | Mandreya Ramataiana (espírito comunicante) | Seres & Entidades | 1.6 Figuras humanas (históricas/míticas) | 🟡 | B006 | RC-390; RC-094 | — |
+| RC-393 | Enéas (espírito comunicante) | Seres & Entidades | 1.6 Figuras humanas (históricas/míticas) | 🟡 | B006 | RC-390; RC-094 | [✔](termos/RC-393-eneas-espirito-comunicante.md) |
+| RC-394 | Mandreya Ramataiana (espírito comunicante) | Seres & Entidades | 1.6 Figuras humanas (históricas/míticas) | 🟡 | B006 | RC-390; RC-094 | [✔](termos/RC-394-mandreya-ramataiana-espirito-comunicante.md) |
 | RC-395 | Ragnarok em Marte | Eventos & Eras | 7.4 Catástrofes / Dilúvios / Quedas | 🟢 | B050, B060, P2022-12-17, P2025-02-16, P2024-11-30, P2024-11-02, P2024-08-03, P2024-03-02, P2025-11-29, P2023-08-05, P2023-05-20, P2023-04-01, P2020-08-08, P2021-03-13, P2025-02-22, P2021-05-15, P2023-10-14, P2023-12-03, P2024-06-16, P2022-12-03, P2026-03-21 | RC-145; RC-102; RC-300; RC-094; RC-471; RC-694; RC-611; RC-470; RC-730; RC-742; RC-454; RC-467; RC-103; RC-396 | [✔](termos/RC-395-ragnarok-em-marte.md) |
 | RC-396 | Kvasir e Freya (Vanir/Aesir) | Seres & Entidades | 1.5 Decaídos / Exilados / Demônios | 🟢 | B050, B060, P2024-11-30, P2024-03-02, P2020-08-08 | RC-049; RC-094; RC-395; RC-454; RC-611; RC-815; RC-816 | [✔](termos/RC-396-kvaser-e-freya.md) |
 | RC-397 | Tirthankaras (Rishabh Dev, Jina Mahavira) | Seres & Entidades | 1.6 Figuras humanas (históricas/míticas) | 🟡 | B050, P2025-10-25, P2025-02-16, P2024-02-03 | RC-094; RC-099; RC-655; RC-697; RC-755 | — |
