@@ -3232,3 +3232,30 @@ mas registra a leitura.
 **23** (3 activos + 20 congelados) · cadastro 572🟢 inalterado.
 
 **Próximo:** RC-372 → B049.
+
+
+## U75 — R1 · lote 32: a B049 (RC-372 «O Ser Humano Emancipado»)
+
+**Despacho do Curador:** lote 32 = B049; Via (a) mantida; verificação dupla de
+HEAD. 3 activos na contagem.
+
+**1 ficha, 10 fragmentos, 0 falhas.** RC-372 O Ser Humano Emancipado.
+**B049 1→0.**
+
+⚠️ **O PORTÃO B RECUSOU A PRIMEIRA REDACÇÃO — E RECUSOU COM RAZÃO.** A obra
+tem TAB onde o impresso tem ESPAÇO (7 886 de 8 959 linhas). Citei a forma
+impressa; o Portão comparou bytes e barrou. Certo: U50 (normalizar só para
+localizar), U58 (nada de higienizar no meio da esteira) e a própria função do
+Portão. Citaram-se os bytes exactos e registrou-se o artefato.
+**PROPOSTO PARA O ENCERRAMENTO: normalizar TAB → ESPAÇO nesta obra.**
+
+**A obra define o termo:** «Este é o ser humano emancipado, livre, aquele que
+pensa, o que não mais se encontra condicionado pelas “sombras da caverna”».
+
+**A abstenção:** NÃO é o super-homem — «Mais que o [...] super-homem de
+Nietzsche, penso que surgirá [...] um modelo de ser humano [...] emancipado».
+
+**Números:** 817 → **818 fichas** · GAP 129 → **128** · família B v3 23 →
+**22** (2 activos + 20 congelados) · cadastro 572🟢 inalterado.
+
+**Dois para o zero:** RC-377 (B043) · RC-931 (B016).

@@ -9446,7 +9446,7 @@
     "RC-702",
     "RC-708"
    ],
-   "ficha": false,
+   "ficha": true,
    "via": "P6-evidência",
    "confianca_fonte": "média"
   },

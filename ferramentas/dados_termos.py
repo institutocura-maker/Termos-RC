@@ -498,7 +498,7 @@ TERMOS = [
     ("RC-369", "Nietzsche como 'Amigo da Intenção de Jesus'", SER_HUM[0], SER_HUM[1], "verificado", ['B049', 'P2024-11-09', 'P2020-04-25', 'P2022-03-26', "P2022-11-19"], 'RC-072; RC-094; RC-253; RC-370; RC-371; RC-372', True),
     ("RC-370", "A Criação de Ídolos para a Humanidade", COS_ETI[0], COS_ETI[1], P, ["B049"], "RC-099; RC-369; RC-094; RC-041", False),
     ("RC-371", "A Fé de Jesus e a Razão de Nietzsche", COS_ETI[0], COS_ETI[1], "verificado", ["B049", "P2020-04-25"], "RC-072; RC-094; RC-231; RC-253; RC-369; RC-372", True),
-    ("RC-372", "O Ser Humano Emancipado", COS_PRO[0], COS_PRO[1], P, ['B049', 'P2026-07-30', 'P2025-02-15'], 'RC-094; RC-099; RC-231; RC-253; RC-369; RC-371; RC-702; RC-708', False),
+    ("RC-372", "O Ser Humano Emancipado", COS_PRO[0], COS_PRO[1], P, ['B049', 'P2026-07-30', 'P2025-02-15'], 'RC-094; RC-099; RC-231; RC-253; RC-369; RC-371; RC-702; RC-708', True),
     ("RC-373", "Os 20 Anos de Jesus entre os Celtas", EVE_MIS[0], EVE_MIS[1], "verificado", ["B043"], "RC-072; RC-374; RC-375; RC-094", True),
     ("RC-374", "Mordon (o Druida da Montanha)", SER_HUM[0], SER_HUM[1], "verificado", ["B043"], "RC-373; RC-375; RC-072; RC-094", True),
     ("RC-375", "Druidas Celtas (contexto RC)", SER_HUM[0], SER_HUM[1], "verificado", ["B043", 'P2023-06-03', 'P2023-12-03'], "RC-373; RC-374; RC-094", True),
