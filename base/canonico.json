@@ -7552,7 +7552,7 @@
     "RC-284",
     "RC-094"
    ],
-   "ficha": false,
+   "ficha": true,
    "via": "P6-evidência",
    "confianca_fonte": "média"
   },
@@ -7571,7 +7571,7 @@
     "RC-283",
     "RC-099"
    ],
-   "ficha": false,
+   "ficha": true,
    "via": "P6-evidência",
    "confianca_fonte": "média"
   },

@@ -280,10 +280,10 @@
 | RC-272 | Laço Temporal de Kether/Javé | Conceitos Cosmológicos | 2.2 Leis e princípios cósmicos | 🟡 | B013, P2023-10-14 | RC-261; RC-008; RC-167; RC-041; RC-634 | — |
 | RC-273 | A Falsa Trindade (Concílio de Niceia) | Eventos & Eras | 7.2 Eras / Épocas / Ciclos | 🟢 | B014, B049, P2026-08-04, P2024-09-28, P2012-02-19, P2022-09-17, P2022-11-19, P2025-12-14, P2023-12-25-04 | RC-001; RC-009; RC-072; RC-094; RC-104; RC-786 | [✔](termos/RC-273-a-falsa-trindade-concilio-de-niceia.md) |
 | RC-274 | Cápsula do Tempo de Sophia (João) | Tecnologias & Artefatos | 5.4 Escrituras / Objetos documentais | 🟢 | B014, B042, P2024-03-02, P2026-03-21 | RC-009; RC-005; RC-072; RC-094 | [✔](termos/RC-274-capsula-do-tempo-de-sophia-joao.md) |
-| RC-275 | Arte Demodhármica do Possível | Conceitos Cosmológicos | 2.2 Leis e princípios cósmicos | 🟡 | B014 | RC-183; RC-009; RC-005; RC-094 | — |
+| RC-275 | Arte Demodhármica do Possível | Conceitos Cosmológicos | 2.2 Leis e princípios cósmicos | 🟡 | B014 | RC-183; RC-009; RC-005; RC-094 | [✔](termos/RC-275-arte-demodharmica-do-possivel.md) |
 | RC-276 | Sacralização do Absurdo | Conceitos Cosmológicos | 2.6 Ética / Carma / Compromissos | 🟡 | B014 | RC-094; RC-099; RC-041; RC-254; RC-253 | — |
 | RC-277 | A Jaula de Cada Espécie | Conceitos Cosmológicos | 2.2 Leis e princípios cósmicos | 🟡 | B014 | RC-099; RC-036; RC-176; RC-094 | — |
-| RC-278 | Olhar Adulto | Conceitos Cosmológicos | 2.5 Propósitos / Destinos | 🟡 | B014 | RC-099; RC-253; RC-231; RC-094; RC-566 | — |
+| RC-278 | Olhar Adulto | Conceitos Cosmológicos | 2.5 Propósitos / Destinos | 🟡 | B014 | RC-099; RC-253; RC-231; RC-094; RC-566 | [✔](termos/RC-278-olhar-adulto.md) |
 | RC-279 | Modo Trimurtiano de Sophia | Conceitos Cosmológicos | 2.2 Leis e princípios cósmicos | 🟡 | B014 | RC-009; RC-104; RC-075; RC-094 | — |
 | RC-280 | Sophia e a Ressurreição de Jesus | Eventos & Eras | 7.5 Missões / Expedições / Encontros | 🟢 | B014, P2025-02-15, P2024-11-30, P2023-06-03, P2023-04-15, P2023-04-01, P2023-04-29, P2023-12-03, P2025-05-10, P2023-12-25-03 | RC-009; RC-072; RC-274; RC-094; RC-692; RC-770 | [✔](termos/RC-280-sophia-e-a-ressurreicao-de-jesus.md) |
 | RC-281 | Agentes do Quarto Logos | Seres & Entidades | 1.8 Consciências coletivas / Logos | 🟢 | B014 | RC-092; RC-252; RC-256; RC-071 | [✔](termos/RC-281-agentes-do-quarto-logos.md) |

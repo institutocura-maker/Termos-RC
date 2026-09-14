@@ -66,6 +66,20 @@ Na fala de Maneton a expressão surge como «um segredo perdido **do jardim** do
 
 **Caso análogo já homologado sem etiqueta:** RC‑330 «Civilização **Saraswati**» × «Civilização **Saraswati‑Sindhu**» (U61) — forma alongada explicada pela própria obra, não contradição.
 
+### 5.1. Primeira aplicação da matriz — o caso das ASPAS (RC‑275, homologado na U64)
+
+**Decisão do Curador:** a abstenção estava **CORRETA**. Não aplicar a etiqueta.
+
+| Função | Ocorrência (B014) | Alcance das aspas |
+|---|---|---|
+| Sumário (L53) | A **“Arte Demodhármica”** do Possível | parcial |
+| Título do capítulo (L2672, L10592) | A **“ARTE DEMODHÁRMICA”** DO POSSÍVEL | parcial |
+| Menção no corpo (L2821–L2823) | **“a arte demodhármica do possível”** | total |
+
+**Fundamento lavrado:** «A variação no alcance das aspas […] recai perfeitamente na coluna *Modo de imprimir* da sua matriz. Embora mude sutilmente o escopo da cunhagem visual, **não há mutação nas letras, na ordem das palavras ou no sentido estrutural do termo**. É uma flutuação de estilo editorial e de diagramação. Manter a isenção da etiqueta neste caso preserva o "peso" do alerta para quando houver falhas reais de ortografia ou contradições semânticas.»
+
+**Regra extraída:** *aspas* — inclusive a variação do seu **alcance** — integram a coluna «modo de imprimir». Só accionam a etiqueta se vierem acompanhadas de mutação nas letras, na ordem das palavras ou no sentido estrutural. O «peso do alerta» é bem finito: reserva-se à ortografia e à semântica.
+
 ---
 
 *Despacho lavrado na U56. Adendo da RC‑397 lavrado na U63 por decisão do Curador. Aplica-se a todas as fichas da base, presentes e futuras.*

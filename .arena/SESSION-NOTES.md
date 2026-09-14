@@ -2955,3 +2955,29 @@ percepção»); caso das aspas submetido ao Curador.
 **37** (17 activos + 20 congelados) · cadastro 572🟢 inalterado.
 
 **Próximo poço activo:** B020 2 · B003 2 · B026 2 · B034 2.
+
+
+## U64 — R1 · lote 21: os 2 da B020
+
+**Despacho do Curador:** lote 21 = B020; **decisão sobre as aspas da RC-275**:
+abstenção CORRETA, registrada como §5.1 da jurisprudência.
+
+**2 fichas, 14 fragmentos, 0 falhas na primeira passada.** RC-288 Os Anais de
+uma Cultura Perdida · RC-289 O Vício de Epimeteu. **B020 2→0.**
+
+**A obra fala pela boca de Pandora** (primeira pessoa, criatura de «condição
+demoníaca», criada há ~74 mil anos). Artefatos da edição preservados: palavras
+partidas ao meio, hífenes soltos, aspas curvas E rectas na mesma obra.
+
+**A abstenção central (RC-289):** a fonte NÃO identifica o vício à fixação pelo
+barro — «fixação» (abertura) e «vício» (L2098, poções) são coisas distintas no
+texto, e não foram fundidas. «Para os humanos […] seria um drogado»: o
+enquadramento é preservado.
+
+**Alargamento registrado:** a leitura foi além do bloco do censo, dentro do
+mesmo capítulo, porque a abertura não nomeia o vício.
+
+**Números:** 803 → **805 fichas** · GAP 143 → **141** · família B v3 37 →
+**35** (15 activos + 20 congelados) · cadastro 572🟢 inalterado.
+
+**Próximo poço activo:** B003 2 · B026 2 · B034 2.

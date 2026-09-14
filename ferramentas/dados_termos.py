@@ -400,8 +400,8 @@ TERMOS = [
     ("RC-285", "Opção Inusitada de Pandora (humanização)", PRO_ESP[0], PRO_ESP[1], "verificado", ['B020', 'P2021-12-04', 'B087', 'B088', 'B089', 'P2020-04-25'], "RC-086; RC-118; RC-184; RC-242; RC-283", True),
     ("RC-286", "Eros = Vishnu / Tártaro = Shiva (correspondências)", TER_GRE[0], TER_GRE[1], 'em análise', ['B020', 'B021', 'B060', 'P2024-11-30', 'P2024-11-09', 'P2023-05-21', "P2022-09-17"], 'RC-135; RC-102; RC-145; RC-284; RC-074; RC-072; RC-519', True),
     ("RC-287", "Enigma da Esperança (Caixa de Pandora)", COS_PRO[0], COS_PRO[1], "verificado", ["B020", 'ART-2026-08-18', 'B087', 'B088', 'P2020-04-25', 'P2022-03-26'], "RC-086; RC-099; RC-145; RC-476; RC-514", True),
-    ("RC-288", "Os Anais de uma Cultura Perdida", TEC_ESC[0], TEC_ESC[1], P, ["B020"], "RC-086; RC-145; RC-284; RC-094", False),
-    ("RC-289", "O Vício de Epimeteu", COS_ETI[0], COS_ETI[1], P, ["B020"], "RC-086; RC-145; RC-283; RC-099", False),
+    ("RC-288", "Os Anais de uma Cultura Perdida", TEC_ESC[0], TEC_ESC[1], P, ["B020"], "RC-086; RC-145; RC-284; RC-094", True),
+    ("RC-289", "O Vício de Epimeteu", COS_ETI[0], COS_ETI[1], P, ["B020"], "RC-086; RC-145; RC-283; RC-099", True),
     ("RC-290", "Cuidado com o 'Ide e Pregai'", COS_ETI[0], COS_ETI[1], P, ["B020"], "RC-072; RC-099; RC-094; RC-086", False),
     ("RC-291", "Fim do Silêncio de Pandora", EVE_ERA[0], EVE_ERA[1], P, ["B020", "P2020-04-25"], "RC-086; RC-094; RC-071; RC-099", False),
 
