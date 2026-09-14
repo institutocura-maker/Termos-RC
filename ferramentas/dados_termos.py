@@ -336,7 +336,7 @@ TERMOS = [
     # ---- Novos termos da TRILOGIA TERRA ATLANTIS (B017 Livro 1, B018 Livro 2, B039 Livro 3)
     ("RC-232", "Ostronomos", SER_EXT[0], SER_EXT[1], "verificado", ["B017", "B018", "B060", "P2021-05-15"], "RC-009; RC-024; RC-036; RC-098; RC-126; RC-128; RC-129", True),
     ("RC-233", "Marca Val (A Estratégia do Possível)", PRO_BIO[0], PRO_BIO[1], P, ["B017"], "RC-109; RC-082; RC-186; RC-036", True),
-    ("RC-234", "Cidades Voadoras", TEC_NAV[0], TEC_NAV[1], P, ["B018"], "RC-058; RC-018; RC-065", False),
+    ("RC-234", "Cidades Voadoras", TEC_NAV[0], TEC_NAV[1], P, ["B018"], "RC-058; RC-018; RC-065", True),
     ("RC-235", "Teurgistas", TER_GRE[0], TER_GRE[1], P, ["B039"], "RC-097; RC-145; RC-049", False),
     ("RC-236", "O Calvário de um Inocente", EVE_GUE[0], EVE_GUE[1], "verificado", ["B039", "B011"], "RC-028; RC-072; RC-074; RC-078; RC-142; RC-238", True),
     ("RC-237", "Land's End (Sinal de Land's End)", LOK_TER[0], LOK_TER[1], P, ["B017"], "RC-010; RC-028; RC-039", False),

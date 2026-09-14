@@ -3081,3 +3081,28 @@ suprimiras o erro. Correcção de método: nunca mais suprimir erros do fetch.
 **29** (9 activos + 20 congelados) · cadastro 572🟢 inalterado.
 
 **Próximo:** RC-234 → B018.
+
+
+## U69 — R1 · lote 26: a B018 (RC-234 «Cidades Voadoras»)
+
+**Despacho do Curador:** lote 26 = B018; Via (a) mantida; verificação dupla de
+HEAD. 9 activos na contagem.
+
+**1 ficha, 8 fragmentos, 0 falhas na primeira passada.** RC-234 Cidades
+Voadoras. **B018 1→0.**
+
+**A obra diz por que o nome:** «assim chamadas porque não existia nenhum centro
+urbano, na superfície, que se aproximasse daquele tamanho» (L3447-L3450).
+
+**Regime de conjectura:** «não conseguíamos ter a mais remota ideia» → «viemos
+a desconfiar». A ficha não converte desconfiança em certeza.
+
+**Duas variantes, sem etiqueta:** no mesmo capítulo, expansão descritiva do
+mesmo referente («cidades ou bases voadoras»); no cap. 2, OUTRO EPISÓDIO
+(«cidadelas»/«fortalezas» destruídas por Shiva, em palcos planetários
+distintos) — registrados sem fusão, pela U64.
+
+**Números:** 811 → **812 fichas** · GAP 135 → **134** · família B v3 29 →
+**28** (8 activos + 20 congelados) · cadastro 572🟢 inalterado.
+
+**Próximo:** RC-235 → B039.

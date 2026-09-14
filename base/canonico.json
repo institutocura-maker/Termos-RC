@@ -6302,7 +6302,7 @@
     "RC-018",
     "RC-065"
    ],
-   "ficha": false,
+   "ficha": true,
    "via": "P6-evidência",
    "confianca_fonte": "média"
   },

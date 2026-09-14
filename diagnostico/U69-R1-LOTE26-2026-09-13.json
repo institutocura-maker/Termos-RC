@@ -1,0 +1,34 @@
+{
+ "unidade": "U69",
+ "lote": 26,
+ "data": "2026-09-13",
+ "rota": "R1",
+ "criterio": "família B do censo v3 (referência homologada) — bloco de fonte única da B018 (Terra Atlantis: A Frota Norte), 1 código (RC‑234), por despacho do Curador (via expressa; VIA (a): 1 obra = 1 lote). O censo é ACHADOR, não CERCA (§6 do despacho do censo).",
+ "v_revogado": true,
+ "nota_fonte": "**A obra é narrada na primeira pessoa por um BIODOMO** («o nosso entendimento», «não conseguíamos ter a mais remota ideia», «Muito mais tarde, viemos a desconfiar») — mesma situação discursiva da B036 (U59), da B034 (U66) e da B017 (U68): as designações são **palavras da personagem**. **Artefatos da edição, preservados sem normalização:** palavras partidas («mil énios», «en tendimento», «pod ia», «diversas esp écies», «narrati vas») e espaços duplos no corpo («de  outrora», L3453). **Fratura de hard-wrap:** cada fragmento entre «» é verbatim **intra-linha**, conferido byte a byte.",
+ "fichas": [
+  {
+   "cod": "RC-234",
+   "slug": "cidades-voadoras",
+   "definicao": "Na B018 (*Terra Atlantis: A Frota Norte*), o título do capítulo 8, designando artefatos voadores de porte descomunal vistos a confrontar-se na alta atmosfera do planeta. **A obra dá a razão do nome:** «algumas daquelas “cidades voadoras” — **assim chamadas porque não existia nenhum centro urbano, na superfície, que se aproximasse daquele tamanho**». Narra-se que, cerca de 17 mil anos atrás, «quatro “cidades voadoras” passavam sistematicamente pelos céus do mundo terreno», de origem então ignorada e só mais tarde **suspeitada** («viemos a desconfiar que as mesmas seriam produtos típicos dos “seres dos portais”»).",
+   "cit": [
+    ["B018", 73, ["Cidades Voadoras"], "o título no SUMÁRIO (entrada «Capítulo 8», L72; pag. 87)"],
+    ["B018", 3281, ["Cidades Voadoras"], "o TÍTULO no corpo (sob «Capítulo 8», L3280)"],
+    ["B018", 3447, ["Mais tarde, vimos algumas daquelas “cidades voadoras” — assim chamadas"], "A RAZÃO DO NOME (1/2; início em L3447)"],
+    ["B018", 3448, ["porque não existia nenhum centro urbano, na superfície, que se aproximasse daquele"], "A RAZÃO DO NOME (2/2; continua em L3449-L3450)"],
+    ["B018", 3453, ["atrás — voltámos a observar, não as mesmas “cidades voadoras” de  outrora, mas"], "as de 17 mil anos atrás, de porte menor (continua em L3454-L3455)"],
+    ["B018", 3458, ["associados aos “seres do conglomerado de realidades”. Quatro “cidades voadoras”"], "eram QUATRO (continua em L3459-L3460)"],
+    ["B018", 3465, ["Aquelas “cidades voadoras” confundiram a tal ponto o nosso entendimento que,"], "a origem ignorada (continua em L3466-L3467)"],
+    ["B018", 3482, ["Muito mais tarde, viemos a desconfiar que as mesmas seriam produtos típicos"], "a atribuição, sob DESCONFIANÇA (continua em L3483-L3487)"]
+   ],
+   "obs": [
+    "⭐ **A obra diz por que o nome, e a ficha o registra:** «algumas daquelas “cidades voadoras” — **assim chamadas porque não existia nenhum centro urbano, na superfície, que se aproximasse daquele tamanho** — a confrontarem-se na alta atmosfera do planeta» (L3447–L3450). Não é metáfora do cadastro: é a **explicação dada pela fonte** para a designação.",
+    "⭐ **Regime de conjectura, registrado como tal (mesmo critério da RC‑227, U67).** Ao tempo dos factos, a origem era ignorada: «não conseguíamos ter a **mais remota ideia** de onde as mesmas poderiam ter sido produzidas ou qual a sua origem» (L3466–L3467). A atribuição vem depois, e **sob reserva expressa**: «Muito mais tarde, **viemos a desconfiar** que as mesmas seriam produtos típicos dos “seres dos portais”» (L3482–L3484). A ficha não converte a desconfiança em certeza. A confirmação atribuída aos **Val** — «haviam sido produzidas no âmbito das “moradas” dos “seres dos portais”» (L3491–L3493) — é registrada como **análise de outrem** apropriada pelo narrador, não como verificação própria.",
+    "⚠️ **Duas variantes, tratadas de modo diverso — e decidimos NÃO etiquetar nenhuma (submetido ao Curador).** (i) Na **mesma passagem**, L3490 diz «as “**cidades ou bases** voadoras”»: é **expansão descritiva do mesmo referente** (precedentes homologados: RC‑330 «Saraswati» × «Saraswati‑Sindhu», U61; «opção pelo planeta Terra», U67) — sem etiqueta. (ii) No **capítulo 2**, L1020 diz «as três “**cidadelas** voadoras” dos “seres dos portais”» e L1033 «aquelas **fortalezas** voadoras»: mas aí se trata de **outro episódio** — o das três cidadelas destruídas pelo Senhor Shiva, sobre registos que «referiam‑se a acontecimentos ocorridos muitos milhares — e mesmo milhões — de anos atrás, em **palcos planetários distintos**» (L1018–L1019). **Não são o mesmo referente**, e fundi‑los violaria a diretriz da U64 («não fundir o que a fonte separa»). Ficam **registrados sem fusão e sem etiqueta**, por não haver contradição: duas designações para episódios distintos.",
+    "**A impossibilidade aerodinâmica, para o entendimento biodemo:** «A sua aerodinâmica simplesmente era algo que jamais passaria por um cérebro biodemo, porque […] para o nosso entendimento, “aquilo” não poderia manter‑se em qualquer tipo de atmosfera com qualquer padrão de gravidade» (L3468–L3471). E a diferença de princípio: enquanto nas naves deles havia vínculo entre as mentes dos pilotos e o «centro de comando», nas superfícies voadoras havia «um outro “processo mental” em curso, que dispensava mesmo […] “central de comando”» (L3471–L3481).",
+    "**A voz é de um biodemo:** «o nosso entendimento», «não conseguíamos», «viemos a desconfiar» — testemunho da personagem, registrado como tal (critério da B036, U59; reiterado na B017, U68).",
+    "⚠️ **Alcance da leitura (§6):** os blocos do censo eram «L54‑84» (sumário), «L3279‑3310» (abertura do capítulo) e «L3439‑3473». O fragmento de **L3482** ficava além do último bloco e foi alcançado por leitura estendida dentro do **mesmo capítulo** (capítulo 8 = L3280–L3705), por ser a passagem que **atribui** os artefatos. Todos os fragmentos passaram pelo Portão de Paridade Verbatim."
+   ]
+  }
+ ]
+}
