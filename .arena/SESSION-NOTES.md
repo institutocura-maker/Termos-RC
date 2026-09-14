@@ -3326,3 +3326,28 @@ a 1.ª versão alterou retroativamente RC-372/RC-377 — desfeito e provado.
 
 **Números:** 819 → **820 fichas** · GAP 127 → **126** · família B v3 21 →
 **20** (0 activos + 20 congelados) · 🟢 inalterado (572).
+
+
+## U78 — Encerramento · FRENTE 1: reconstrução dos espelhos
+
+**Roteiro U60, ordem estrita:** Frente 1 (espelhos) → 2 (higienização de
+`fontes`) → 3 (certidão final da campanha R1).
+
+**Dívida medida antes de paga:** os dois espelhos estavam em **768** fichas;
+a Base em **820** — **52 fichas em dívida** (U52 → U77).
+
+O sandbox perdeu openpyxl/python-docx pela 3.ª vez (U39, U51, U78).
+
+Reconstrução: `build_xlsx.py` → 7 abas, **820 fichas-resumo**;
+`build_word.py` → **820 fichas detalhadas**.
+
+Verificação não só da contagem: abas íntegras (Índice 947 · Fichas 821 ·
+Relações 1888 · Bibliografia 103 · Categorias 41 · Status 5 · Como usar 9);
+RC-931 conferida COM CONTEÚDO no corpo do docx; amostra
+RC-931/377/372/368/352/347/270/025 = todos presentes.
+
+Suíte 21/21 · verificador 946/820/1887. **Delta do turno = só os dois
+binários** (docx 1 964 460 → 2 066 963 B · xlsx 305 976 → 311 012 B).
+O canônico não foi reexportado: a dívida era dos espelhos, não da Base.
+
+**Frentes: 1 ✅ · 2 ⏳ · 3 ⏳**
