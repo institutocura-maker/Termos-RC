@@ -457,11 +457,11 @@ TERMOS = [
     ("RC-334", "Teocracia da Doença de uma Divindade", COS_ETI[0], COS_ETI[1], "verificado", ['B048', 'B037', 'P2024-11-30'], 'RC-001; RC-041; RC-094; RC-176; RC-332; RC-333; RC-335; RC-339', True),
     ("RC-335", "Lavagem Cerebral (condicionamento)", COS_ETI[0], COS_ETI[1], "verificado", ['B048', 'P2025-03-15', 'P2025-02-15', 'P2024-11-30', 'P2024-11-09', 'P2024-03-03', 'P2026-08-04'], 'RC-041; RC-094; RC-099; RC-176; RC-253; RC-325; RC-334; RC-702; RC-717', True),
     ("RC-336", "Ética da Sobrevivência de Javé", COS_ETI[0], COS_ETI[1], P, ['B048', 'P2024-11-30'], 'RC-041; RC-099; RC-001; RC-094', False),
-    ("RC-337", "Humanos: uma simples Experiência Biológica", COS_PRO[0], COS_PRO[1], P, ['B048', 'P2024-11-30'], 'RC-099; RC-041; RC-094; RC-578', False),
-    ("RC-338", "O Reconhecimento que nunca veio", COS_ETI[0], COS_ETI[1], P, ["B048"], "RC-041; RC-099; RC-094; RC-332", False),
-    ("RC-339", "A Difícil Cobrança sobre os Humanos", COS_ETI[0], COS_ETI[1], P, ["B048"], "RC-041; RC-094; RC-099; RC-334; RC-336", False),
-    ("RC-340", "Atores de uma Peça Incompreensível", COS_ETI[0], COS_ETI[1], P, ["B048"], "RC-099; RC-041; RC-167; RC-094", False),
-    ("RC-341", "Ferramentas do Favor Divino (religiões e pensadores)", COS_ESP[0], COS_ESP[1], P, ['B048', 'P2024-11-09', 'P2024-09-29'], 'RC-190; RC-332; RC-099; RC-094; RC-723', False),
+    ("RC-337", "Humanos: uma simples Experiência Biológica", COS_PRO[0], COS_PRO[1], P, ['B048', 'P2024-11-30'], 'RC-099; RC-041; RC-094; RC-578', True),
+    ("RC-338", "O Reconhecimento que nunca veio", COS_ETI[0], COS_ETI[1], P, ["B048"], "RC-041; RC-099; RC-094; RC-332", True),
+    ("RC-339", "A Difícil Cobrança sobre os Humanos", COS_ETI[0], COS_ETI[1], P, ["B048"], "RC-041; RC-094; RC-099; RC-334; RC-336", True),
+    ("RC-340", "Atores de uma Peça Incompreensível", COS_ETI[0], COS_ETI[1], P, ["B048"], "RC-099; RC-041; RC-167; RC-094", True),
+    ("RC-341", "Ferramentas do Favor Divino (religiões e pensadores)", COS_ESP[0], COS_ESP[1], P, ['B048', 'P2024-11-09', 'P2024-09-29'], 'RC-190; RC-332; RC-099; RC-094; RC-723', True),
 
     # ---- Novos termos da TRILOGIA QUEDA E ASCENSÃO ESPIRITUAL (B003 Livro I, B025 Livro II, B026 Livro III)
     ("RC-342", "Quarentena Sideral / Cósmica", EVE_GUE[0], EVE_GUE[1], "em análise", ['B003', 'B025', 'B026', 'B042', 'P2024-07-13'], 'RC-070; RC-090; RC-003; RC-094; RC-002', True),

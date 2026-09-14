@@ -2729,3 +2729,31 @@ ocorre literalmente (excepção consciente ao Portão de Paridade).
 
 **Números:** 775 → **776 fichas** · GAP 171 → **170** · família B v3 65 →
 **64** (45 activos + 19 congelados) · cadastro 572🟢 inalterado.
+
+
+## U55 — R1 · lote 12: bloco de fonte única da B048 + RC-296 congelada
+
+**Despacho do Curador:** lote 12 = B048 (5 códigos), manter a cadência da via
+expressa; RC-296 pela via (a) — manter congelada.
+
+**5 fichas, 30 fragmentos.** RC-337 Humanos: uma simples Experiência
+Biológica · RC-338 O Reconhecimento que nunca veio · RC-339 A Difícil
+Cobrança sobre os Humanos · RC-340 Atores de uma Peça Incompreensível ·
+RC-341 Ferramentas do Favor Divino. **B048 5→0.**
+
+**O Portão B barrou 3 fragmentos:** RC-337 com deslocamento de uma linha
+(L105-L107, não L106-L108). Nada foi escrito; corrigido, 0 falhas.
+
+**Distinção proposta:** nos 5, SUMÁRIO × corpo diferem só pela CAIXA →
+convenção gráfica da obra, sem a etiqueta ⚠️ (reservada a divergência do
+próprio termo). Critério registrado para revisão do Curador.
+
+**RC-296 no inventário congelado** (adendo ao despacho da série P): o critério
+é «a evidência literal é oral», não «declara fonte P»; a salvaguarda dos
+mistos continua (RC-337 e RC-341 declaram palestras e foram processados pela
+B048). Nenhuma excepção consciente ao Portão de Paridade foi aberta.
+
+**Números:** 776 → **781 fichas** · GAP 170 → **165** · família B v3 64 →
+**59** (39 activos + 20 congelados) · cadastro 572🟢 inalterado.
+
+**Próximo poço activo:** B052 4 · B019 4 · B006 4 · B036 3 · B023 3 · B050 3.

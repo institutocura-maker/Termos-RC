@@ -53,3 +53,23 @@ Até lá, os 19 códigos aguardam.
 ---
 
 *Lavrado sob o rito: nada se apaga; os códigos congelados continuam registrados no censo v3 e no cadastro.*
+
+---
+
+## 6. ADENDO (U55) — RC‑296 transferida ao inventário congelado
+
+**Decisão do Curador sobre o achado da U54 (via (a)):**
+
+> «A correspondência semântica em B021 (L5095–L5112) não substitui a ocorrência literal do termo exato. O Portão de Paridade Verbatim é inegociável e não admite exceções conscientes por aproximação. Se a evidência literal que sustenta o nome do código reside em uma palestra (P2023‑05‑21), a RC‑296 pertence oficialmente ao poço congelado da Série P e aguardará o protocolo oral.»
+
+**Fica, portanto, registrado:**
+
+- **RC‑296 (Pitonisas e Oráculos / Apolo‑Delfos) integra o inventário congelado**, ainda que declare um livro (B021). A sustentação literal do nome é a palestra **P2023‑05‑21 L3‑37**; na B021 as palavras ocorrem, o nome não.
+- **O critério de pertença ao poço congelado não é «declara fonte P», mas «a evidência literal é oral»** — a alínea 3 acima (salvaguarda dos códigos mistos) continua válida: quem se sustenta no livro, processa‑se; quem se sustenta na palestra, congela‑se.
+- **Nenhuma excepção consciente ao Portão de Paridade foi aberta.** Não há ficha «por aproximação de matéria» nesta base: um verbete só se materializa onde o seu nome (ou uma das suas formulações) ocorre literalmente na fonte.
+
+**Inventário congelado, actualizado:** 19 códigos que só declaram palestras + **RC‑296** (declara livro, evidência oral) = **20 códigos**.
+
+**Poço activo de livros:** 39 códigos (B052 4 · B019 4 · B006 4 · B036 3 · B023 3 · B050 3 · B002 2 · B014 2 · demais 1 cada).
+
+*Adendo lavrado na U55, 13/09/2026, por despacho do Curador.*
