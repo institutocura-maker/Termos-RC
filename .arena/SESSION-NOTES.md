@@ -3259,3 +3259,34 @@ Nietzsche, penso que surgirá [...] um modelo de ser humano [...] emancipado».
 **22** (2 activos + 20 congelados) · cadastro 572🟢 inalterado.
 
 **Dois para o zero:** RC-377 (B043) · RC-931 (B016).
+
+
+## U76 — R1 · lote 33: a B043 (RC-377 «Brendiver e Dolman»)
+
+**Despacho do Curador:** lote 33 = B043; 1 activo restante depois dele.
+
+**1 ficha, 17 fragmentos, 0 falhas.** RC-377 Brendiver e Dolman (personagens
+celtas). **B043 1→0** — e a B043 fica COMPLETA (4 códigos, 4 fichas).
+
+**O verbete é um rótulo do CADASTRO sobre DUAS pessoas.** «Brendiver e Dolman»
+não é nome que a fonte dê a um par: a única vez em que os dois nomes aparecem
+juntos é L1146-L1147, mera enumeração partida pelo hard-wrap — e é exactamente
+essa co-ocorrência que o censo declarou. Registradas as duas, SEM FUNDIR (U64).
+
+Brendiver: sacerdotisa, «mulher de idade madura», vive em santuários recônditos;
+chefia a delegação de cinco druidas. Dolman: sacerdotisa «que afirmava ter
+poderes divinatórios», malvista por muitos druidas; criou Brendiver «desde
+menina» (L577-L579). A fonte as DISTINGUE diante de Jesus: Dolman «tocada pelo
+seu olhar»; Brendiver «não senti nada de muito especial».
+
+Mordon: «Dolman [...] almas sagradas que me foram confiadas por Deus para
+educá-las»; e «Oh, querida filha». A aresta RC-377→RC-374 fica documentada.
+
+⚠️ **QUESTÃO SUBMETIDA:** «sacerdotisa» × «druidisa» (hapax, L2330) — dois
+lexemas distintos sobre o mesmo referente; §5.2 manda olhar o referente
+primeiro, donde SEM etiqueta. Juízo de fronteira.
+
+**Números:** 818 → **819 fichas** · GAP 128 → **127** · família B v3 22 →
+**21** (1 activo + 20 congelados) · 🟢 inalterado (572).
+
+**Activo restante: RC-931 (B016) — o último.**

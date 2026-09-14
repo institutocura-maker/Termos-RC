@@ -503,7 +503,7 @@ TERMOS = [
     ("RC-374", "Mordon (o Druida da Montanha)", SER_HUM[0], SER_HUM[1], "verificado", ["B043"], "RC-373; RC-375; RC-072; RC-094", True),
     ("RC-375", "Druidas Celtas (contexto RC)", SER_HUM[0], SER_HUM[1], "verificado", ["B043", 'P2023-06-03', 'P2023-12-03'], "RC-373; RC-374; RC-094", True),
     ("RC-376", "José de Arimatéia (no corpus RC)", SER_HUM[0], SER_HUM[1], "verificado", ["B043", "B011", 'P2026-08-04', "P2018-12-16", "P2023-12-25-03"], "RC-373; RC-072; RC-094", True),
-    ("RC-377", "Brendiver e Dolman (personagens celtas)", SER_HUM[0], SER_HUM[1], P, ["B043"], "RC-373; RC-374; RC-094", False),
+    ("RC-377", "Brendiver e Dolman (personagens celtas)", SER_HUM[0], SER_HUM[1], P, ["B043"], "RC-373; RC-374; RC-094", True),
 
     # ---- Novos termos de B041 (obra primária: A Rebelião dos Elétrons e o Código de Vida do Criador, 2018)
     ("RC-378", "A Rebelião dos Elétrons", EVE_GUE[0], EVE_GUE[1], "verificado", ['B041', 'B024', 'P2024-05-04', 'P2025-03-15', 'P2024-11-30', 'P2024-11-09', 'P2024-03-03', 'P2024-04-14', 'P2023-11-19', 'P2023-06-24', 'P2023-10-14', 'P2020-04-25', 'P2022-03-26', 'P2023-12-03', "P2022-12-03", "P2022-07-16", "P2020-04-04"], 'RC-041; RC-094; RC-153; RC-161; RC-162; RC-379; RC-381; RC-434; RC-638; RC-646; RC-690; RC-693', True),

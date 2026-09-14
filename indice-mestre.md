@@ -377,7 +377,7 @@
 | RC-369 | Nietzsche como 'Amigo da Intenção de Jesus' | Seres & Entidades | 1.6 Figuras humanas (históricas/míticas) | 🟢 | B049, P2024-11-09, P2020-04-25, P2022-03-26, P2022-11-19 | RC-072; RC-094; RC-253; RC-370; RC-371; RC-372 | [✔](termos/RC-369-nietzsche-como-amigo-da-intencao-de-jesus.md) |
 | RC-370 | A Criação de Ídolos para a Humanidade | Conceitos Cosmológicos | 2.6 Ética / Carma / Compromissos | 🟡 | B049 | RC-099; RC-369; RC-094; RC-041 | — |
 | RC-371 | A Fé de Jesus e a Razão de Nietzsche | Conceitos Cosmológicos | 2.6 Ética / Carma / Compromissos | 🟢 | B049, P2020-04-25 | RC-072; RC-094; RC-231; RC-253; RC-369; RC-372 | [✔](termos/RC-371-a-fe-de-jesus-e-a-razao-de-nietzsche.md) |
-| RC-372 | O Ser Humano Emancipado | Conceitos Cosmológicos | 2.5 Propósitos / Destinos | 🟡 | B049, P2026-07-30, P2025-02-15 | RC-094; RC-099; RC-231; RC-253; RC-369; RC-371; RC-702; RC-708 | — |
+| RC-372 | O Ser Humano Emancipado | Conceitos Cosmológicos | 2.5 Propósitos / Destinos | 🟡 | B049, P2026-07-30, P2025-02-15 | RC-094; RC-099; RC-231; RC-253; RC-369; RC-371; RC-702; RC-708 | [✔](termos/RC-372-ser-humano-emancipado.md) |
 | RC-373 | Os 20 Anos de Jesus entre os Celtas | Eventos & Eras | 7.5 Missões / Expedições / Encontros | 🟢 | B043 | RC-072; RC-374; RC-375; RC-094 | [✔](termos/RC-373-os-20-anos-de-jesus-entre-os-celtas.md) |
 | RC-374 | Mordon (o Druida da Montanha) | Seres & Entidades | 1.6 Figuras humanas (históricas/míticas) | 🟢 | B043 | RC-373; RC-375; RC-072; RC-094 | [✔](termos/RC-374-mordon.md) |
 | RC-375 | Druidas Celtas (contexto RC) | Seres & Entidades | 1.6 Figuras humanas (históricas/míticas) | 🟢 | B043, P2023-06-03, P2023-12-03 | RC-373; RC-374; RC-094 | [✔](termos/RC-375-druidas-celtas-contexto-rc.md) |

@@ -9544,7 +9544,7 @@
     "RC-374",
     "RC-094"
    ],
-   "ficha": false,
+   "ficha": true,
    "via": "P6-evidência",
    "confianca_fonte": "média"
   },
