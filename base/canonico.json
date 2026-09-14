@@ -8056,7 +8056,7 @@
     "RC-311",
     "RC-104"
    ],
-   "ficha": false,
+   "ficha": true,
    "via": "P6-evidência",
    "confianca_fonte": "média"
   },
@@ -8142,7 +8142,7 @@
     "RC-308",
     "RC-314"
    ],
-   "ficha": false,
+   "ficha": true,
    "via": "P6-evidência",
    "confianca_fonte": "média"
   },

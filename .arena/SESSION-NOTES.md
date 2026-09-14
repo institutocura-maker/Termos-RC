@@ -2645,3 +2645,31 @@ declara também B042 (só 5 dos 6 são exclusivos) — nuance assinalada.
 U40. Receita da U48 aplicada com sucesso: refspec add → fetch →
 `reset --mixed FETCH_HEAD` → restauro do `.arena/SESSION-NOTES.md` → reanexo
 do bloco. Nenhum conteúdo perdido; só os objetos.
+
+
+## U52 — R1 · lote 9: o lote natural da B022
+
+**Despacho do Curador:** lote 9 = lote natural da B022, «duplamente
+estratégico» — liquida a fonte e captura a RC-309 promovida pela v3.
+
+**2 fichas, 16 fragmentos, 0 falhas.** RC-309 Ordem dos Indecifráveis (cap. 9)
+e RC-313 Tempo de Apostasia (subtítulo do próprio livro).
+
+**RC-309 fecha o ciclo da v3 em três unidades:** U50 achou (D→B pela caixa
+alta espaçada) · U51 homologou a regra e manteve o código intocado no poço ·
+U52 materializou. Reportada antes de processada.
+
+**Cuidado de rigor:** a expressão no plural só existe no sumário e no título
+do capítulo; no corpo é «o Indecifrável» (singular), e os Adhytia são
+apresentados à parte. A ficha não inventa a relação entre eles.
+
+**RC-300 ficou de fora:** declara B022, mas a família B assenta-se na B021
+(L5365-5408). Fica para o lote natural da B021 — trazê-la aqui misturaria
+fontes dentro de um bloco de fonte única.
+
+**ESPELHOS .xlsx/.docx PULADOS** por despacho (custo por rodada). Verificado
+que nenhum teste os fiscaliza. **DÍVIDA: congelados em 768 fichas, Base em
+770 — reconstruir no fim da sessão.**
+
+**Números:** 768 → **770 fichas** · GAP 178 → **176** · família B v3 72 →
+**70 restantes** · cadastro 572🟢 inalterado.

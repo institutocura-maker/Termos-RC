@@ -361,15 +361,15 @@
 | RC-353 | Ilha Cósmica (mundos rebelados) | Lokas & Geografias | 3.4 Regiões cósmicas / Portais | 🟡 | B003 | RC-342; RC-002; RC-070; RC-094 | — |
 | RC-354 | Trilogia Queda e Ascensão Espiritual | Tecnologias & Artefatos | 5.4 Escrituras / Objetos documentais | 🟡 | B003, B025, B026 | RC-003; RC-025; RC-026; RC-094 | — |
 | RC-355 | Fator Extraterrestre (o Elo Perdido) | Conceitos Cosmológicos | 2.5 Propósitos / Destinos | 🟢 | B005, B042 | RC-020; RC-094; RC-098; RC-099; RC-357; RC-359 | [✔](termos/RC-355-fator-extraterrestre-o-elo-perdido.md) |
-| RC-356 | Fonte da Vida (metáfora da ilha/oceano) | Conceitos Cosmológicos | 2.1 Cosmogonia / Criação | 🟡 | B005 | RC-148; RC-107; RC-094; RC-033 | — |
+| RC-356 | Fonte da Vida (metáfora da ilha/oceano) | Conceitos Cosmológicos | 2.1 Cosmogonia / Criação | 🟡 | B005 | RC-148; RC-107; RC-094; RC-033 | [✔](termos/RC-356-fonte-da-vida-metafora-da-ilha-oceano.md) |
 | RC-357 | Confederações de Mundos | Genealogias & Linhagens | 6.3 Dinastias extraterrestres | 🟢 | B005 | RC-003; RC-059; RC-094; RC-098; RC-107; RC-355 | [✔](termos/RC-357-confederacoes-de-mundos.md) |
-| RC-358 | Terra de Ninguém (cósmica) | Lokas & Geografias | 3.4 Regiões cósmicas / Portais | 🟡 | B005 | RC-357; RC-070; RC-094; RC-099 | — |
+| RC-358 | Terra de Ninguém (cósmica) | Lokas & Geografias | 3.4 Regiões cósmicas / Portais | 🟡 | B005 | RC-357; RC-070; RC-094; RC-099 | [✔](termos/RC-358-terra-de-ninguem-cosmica.md) |
 | RC-359 | Abduções e Reparo Espiritual | Processos & Fenômenos | 4.2 Fenômenos espirituais / mediúnicos | 🟢 | B005, P2025-02-16 | RC-094; RC-098; RC-099; RC-355; RC-698 | [✔](termos/RC-359-abducoes-e-reparo-espiritual.md) |
 | RC-360 | Atmosferizar a Lua ou Marte (Opção Final) | Eventos & Eras | 7.5 Missões / Expedições / Encontros | 🟡 | B005 | RC-094; RC-099; RC-107 | — |
-| RC-361 | Antropocentrismo (crítica) | Conceitos Cosmológicos | 2.6 Ética / Carma / Compromissos | 🟡 | B005 | RC-099; RC-094; RC-231 | — |
-| RC-362 | Apego aos Conceitos Terrenos | Conceitos Cosmológicos | 2.6 Ética / Carma / Compromissos | 🟡 | B005 | RC-099; RC-094; RC-361; RC-253 | — |
-| RC-363 | Ótica e Ética Cósmicas | Conceitos Cosmológicos | 2.6 Ética / Carma / Compromissos | 🟡 | B005 | RC-094; RC-099; RC-253 | — |
-| RC-364 | A Missão do Mestre | Eventos & Eras | 7.5 Missões / Expedições / Encontros | 🟡 | B005, B042 | RC-072; RC-094; RC-005 | — |
+| RC-361 | Antropocentrismo (crítica) | Conceitos Cosmológicos | 2.6 Ética / Carma / Compromissos | 🟡 | B005 | RC-099; RC-094; RC-231 | [✔](termos/RC-361-antropocentrismo-critica.md) |
+| RC-362 | Apego aos Conceitos Terrenos | Conceitos Cosmológicos | 2.6 Ética / Carma / Compromissos | 🟡 | B005 | RC-099; RC-094; RC-361; RC-253 | [✔](termos/RC-362-apego-aos-conceitos-terrenos.md) |
+| RC-363 | Ótica e Ética Cósmicas | Conceitos Cosmológicos | 2.6 Ética / Carma / Compromissos | 🟡 | B005 | RC-094; RC-099; RC-253 | [✔](termos/RC-363-otica-e-etica-cosmicas.md) |
+| RC-364 | A Missão do Mestre | Eventos & Eras | 7.5 Missões / Expedições / Encontros | 🟡 | B005, B042 | RC-072; RC-094; RC-005 | [✔](termos/RC-364-a-missao-do-mestre.md) |
 | RC-365 | O Fator Judas | Eventos & Eras | 7.5 Missões / Expedições / Encontros | 🟢 | B011, P2026-04-02, P2025-10-25, P2018-12-16, P2025-05-10, P2022-11-20 | RC-072; RC-094; RC-138; RC-236; RC-366; RC-647 | [✔](termos/RC-365-o-fator-judas.md) |
 | RC-366 | O Enigma da Transfiguração | Eventos & Eras | 7.3 Profecias / Anúncios | 🟢 | B011, P2023-06-03, P2025-05-10, P2023-02-11, P2022-11-20, P2020-04-04 | RC-072; RC-094; RC-214; RC-365; RC-367; RC-368; RC-565 | [✔](termos/RC-366-o-enigma-da-transfiguracao.md) |
 | RC-367 | Alteração Vibratória (Transfiguração) | Processos & Fenômenos | 4.4 Fenômenos físicos / energéticos | 🟢 | B011, P2025-02-15 | RC-366; RC-072; RC-094; RC-713 | [✔](termos/RC-367-alteracao-vibratoria-transfiguracao.md) |

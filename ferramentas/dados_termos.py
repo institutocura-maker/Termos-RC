@@ -425,11 +425,11 @@ TERMOS = [
 
     # ---- Novos termos de B022 (obra primária: Inquisição Trimurtiana — Tempo de Apostasia)
     ("RC-308", "Adhytia (nível hierárquico)", SER_LOG[0], SER_LOG[1], "verificado", ["B022"], "RC-011; RC-094; RC-104; RC-311; RC-313", True),
-    ("RC-309", "Ordem dos Indecifráveis", SER_LOG[0], SER_LOG[1], P, ["B022"], "RC-308; RC-311; RC-104", False),
+    ("RC-309", "Ordem dos Indecifráveis", SER_LOG[0], SER_LOG[1], P, ["B022"], "RC-308; RC-311; RC-104", True),
     ("RC-310", "Adhyshprabrajna (Adhy que caiu)", SER_DIV[0], SER_DIV[1], "verificado", ['B022', 'B051', 'P2021-12-04'], "RC-001; RC-013; RC-014; RC-037; RC-041; RC-094; RC-152", True),
     ("RC-311", "Adhyagya (formas espirituais Adhy)", SER_LOG[0], SER_LOG[1], "verificado", ["B022"], "RC-012; RC-013; RC-014; RC-102; RC-135; RC-308; RC-309", True),
     ("RC-312", "Criação Bipartida", COS_DIM[0], COS_DIM[1], "em análise", ['B022', 'P2024-11-30'], 'RC-106; RC-107; RC-167; RC-094', True),
-    ("RC-313", "Tempo de Apostasia", EVE_ERA[0], EVE_ERA[1], P, ["B022"], "RC-094; RC-104; RC-300; RC-308; RC-314", False),
+    ("RC-313", "Tempo de Apostasia", EVE_ERA[0], EVE_ERA[1], P, ["B022"], "RC-094; RC-104; RC-300; RC-308; RC-314", True),
     ("RC-314", "Fenômenos Denunciadores do Fim", EVE_PRO[0], EVE_PRO[1], "verificado", ['B022', 'B035', 'P2025-03-15'], 'RC-070; RC-094; RC-104; RC-155; RC-203; RC-300; RC-313; RC-315; RC-317; RC-572; RC-578; RC-690', True),  # [F045-MERGE 07-09-2026] absorveu RC-203 (homonimo de B035, candidato sem ficha): fontes e referencias unificadas aqui. Remissiva em RC-203.
     ("RC-315", "O Fim da Lila", EVE_GUE[0], EVE_GUE[1], P, ['B022', 'P2024-11-30', 'P2023-11-19', 'P2023-12-03'], 'RC-075; RC-104; RC-300; RC-313; RC-314', False),
     ("RC-316", "Decifra-me ou Devoro (hábito demo)", COS_ETI[0], COS_ETI[1], P, ["B022", 'P2025-06-14b'], "RC-049; RC-104; RC-075", False),
