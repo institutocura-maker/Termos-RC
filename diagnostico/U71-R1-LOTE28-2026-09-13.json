@@ -1,0 +1,35 @@
+{
+ "unidade": "U71",
+ "lote": 28,
+ "data": "2026-09-13",
+ "rota": "R1",
+ "criterio": "família B do censo v3 (referência homologada) — bloco de fonte única da B013 (Tzimtzum), 1 código (RC‑270), por despacho do Curador (via expressa; VIA (a): 1 obra = 1 lote). Ancoragem pela obra que OCORRE, não pela declarada (critério U57: RC‑270 declara também B036 e B052, mas a evidência está na B013). O censo é ACHADOR, não CERCA (§6 do despacho do censo).",
+ "v_revogado": true,
+ "nota_fonte": "**A obra é de Jan Val Ellam, em primeira pessoa** («Penso que sim», L928; assinatura «Jan Val Ellam», L6998) e trata da Cabala e da figura de Javé. **Aparelho da transcrição, não texto impresso:** os marcadores «===== [PÁGINA NNN] =====» pertencem à extração digital (critério U61) — **não são citados como conteúdo**, apenas invocados, na observação sobre a carência, como meio pelo qual se apurou a extensão do anexo. **Fratura de hard-wrap:** cada fragmento entre «» é verbatim **intra-linha**, conferido byte a byte.",
+ "fichas": [
+  {
+   "cod": "RC-270",
+   "slug": "linhagem-dos-patriarcas-hebreus",
+   "definicao": "Na B013 (*Tzimtzum*), o título de um **anexo** — «A Linhagem dos Patriarcas Hebreus» —, anunciado duas vezes no corpo pela fórmula «(Ver, em anexo, “A Linhagem dos Patriarcas Hebreus”)» e listado no sumário entre o «Posfácio» e as «Notas Explicativas e Referências Bibliográficas». **O texto extraído do anexo contém apenas o seu título**: a obra não apresenta, em texto extraível, o desenvolvimento da linhagem. O que o corpo diz que o anexo cobre é a descendência de Noé — Gomer, «ancestral do “DNA ariano”», Abraão, «da descendência de Sem» — e os três nomes com que o Ente se apresentou: «Javé» aos hebreus, «Brahma» aos arianos, «Alá» aos árabes.",
+   "cit": [
+    ["B013", 59, ["A Linhagem dos Patriarcas Hebreus"], "o SUMÁRIO, entre «Posfácio» (L58) e «Notas Explicativas…» (L60)"],
+    ["B013", 108, ["desse processo. (Ver, em anexo,"], "1º anúncio — a moldura, na INTRODUÇÃO (início em L106-L107)"],
+    ["B013", 109, ["“A Linhagem dos Patriarcas Hebreus”"], "1º anúncio — o título (continua em L110)"],
+    ["B013", 920, ["encontrava no âmbito da descendência de Noé! (Ver, em anexo,"], "2º anúncio — a moldura, no corpo (início em L918-L919)"],
+    ["B013", 921, ["“A"], "2º anúncio — o título, partido pelo hard-wrap (1/2)"],
+    ["B013", 922, ["Linhagem dos Patriarcas Hebreus”"], "2º anúncio — o título (2/2; continua em L923)"],
+    ["B013", 913, ["também neto de Noé, só que de uma outra linhagem do seu sangue. Abraão"], "o conteúdo, explicado no CORPO (início em L911-L912; continua em L914)"],
+    ["B013", 918, ["ter se apresentado aos antigos hebreus como “Javé”, aos arianos como"], "os três nomes (continua em L919)"],
+    ["B013", 7001, ["A LINHAGEM DOS PATRIARCAS HEBREUS"], "O TÍTULO DO ANEXO, no corpo do livro (caixa alta)"]
+   ],
+   "obs": [
+    "⭐ **CARÊNCIA DA PRÓPRIA FONTE — registrada, não suprida (critério U63: regime de carência).** O anexo é anunciado duas vezes no corpo, listado no sumário e tem título próprio (L7001); **mas o texto extraído do anexo contém APENAS esse título**. Pelo aparelho de paginação da transcrição, a página que o encabeça cede só o cabeçalho, e a página seguinte já abre «NOTAS EXPLICATIVAS E REFERÊNCIAS BIBLIOGRÁFICAS» (L7004) — ou seja, o desenvolvimento da linhagem **não comparece em texto extraível** (era, ao que tudo indica, quadro, imagem ou matéria não corrida). **A ficha não inventa a genealogia, não a importa de outra obra, e não supre a lacuna**: registra a carência. E assinala a consequência: o que se pode afirmar sobre o **conteúdo** do anexo vem do **corpo do livro** (L905–L923), não do anexo mesmo.",
+    "⭐ **O que o corpo diz que o anexo cobre:** a descendência de Noé. «Gomer, ancestral do “DNA ariano”, era também neto de Noé, só que de uma **outra linhagem** do seu sangue. Abraão era da descendência de **Sem**, outro filho de Noé» (L912–L914); e, «após ter se decepcionado com os arianos e, depois, com os judeus, esse mesmo Ser pactuou com Maomé, árabe de origem, e que também representava um **outro ramo da descendência de Abraão**» (L915–L917). Daí a conclusão do autor: «ter se apresentado aos antigos hebreus como “**Javé**”, aos arianos como “**Brahma**” e aos árabes como “**Alá**”, todo esse contexto de pactos se encontrava **no âmbito da descendência de Noé**!» (L918–L920).",
+    "**A moldura dos pactos, e a nota sobre a ortodoxia:** «para Javé, ele não estava fazendo nada de errado, pois que o “pacto” feito por ele com Noé, bem antes do de Abraão, dava “legalidade moral” à opção feita no pretérito» (L910–L912); e «Óbvio que a ortodoxia judaica não aceita esse aspecto da história» (L909). Registrado como **afirmação do autor sobre a perspectiva da personagem**, não como facto do cadastro.",
+    "**Ancoragem (U57):** RC‑270 declara as obras B013, B036 e B052; a evidência do censo ocorre **na B013**, e é nela que esta ficha se sustenta. Nenhum conteúdo de B036 ou de B052 foi importado.",
+    "**Convenção gráfica, sem etiqueta:** «A Linhagem dos Patriarcas Hebreus» (sumário, L59; e corpo, L109) × «A LINHAGEM DOS PATRIARCAS HEBREUS» (título do anexo, L7001) — caixa. E o título partido pelo hard-wrap no segundo anúncio (L921–L922) — as mesmas palavras, a quebra é da edição digital.",
+    "⚠️ **Alcance da leitura (§6):** os blocos do censo eram «L31‑65», «L100‑129» e «L905‑945». O **título do anexo** (L7001) ficava fora deles e foi alcançado por leitura estendida na mesma obra, por ser a ocorrência canónica do termo. Sétimo uso consecutivo do §6."
+   ]
+  }
+ ]
+}

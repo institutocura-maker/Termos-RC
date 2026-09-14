@@ -378,7 +378,7 @@ TERMOS = [
     ("RC-267", "Isaac Luria e o conceito do Tzimtzum", TER_HEB[0], TER_HEB[1], "verificado", ['B013', 'P2024-11-09'], 'RC-008; RC-261; RC-262; RC-266', True),
     ("RC-268", "Gnosticismo (contraponto à Cabala)", COS_ESP[0], COS_ESP[1], "verificado", ['B013', 'P2026-04-02', 'P2024-11-09', 'P2023-12-02', 'P2024-09-28', "P2025-05-10"], 'RC-072; RC-190; RC-261; RC-263; RC-266; RC-483; RC-647; RC-763', True),
     ("RC-269", "Linhagens Humanas: Preferidas e Preteridas", GEN_HUM[0], GEN_HUM[1], P, ['B013', 'P2024-09-29'], 'RC-270; RC-099; RC-261; RC-202; RC-194; RC-271; RC-293; RC-736; RC-737', False),
-    ("RC-270", "Linhagem dos Patriarcas Hebreus", GEN_HUM[0], GEN_HUM[1], P, ["B013", "B036", "B052"], "RC-269; RC-261; RC-189; RC-099", False),
+    ("RC-270", "Linhagem dos Patriarcas Hebreus", GEN_HUM[0], GEN_HUM[1], P, ["B013", "B036", "B052"], "RC-269; RC-261; RC-189; RC-099", True),
     ("RC-271", "Pactos do Criador (troca de informações)", COS_ETI[0], COS_ETI[1], P, ['B013', 'P2024-09-29', 'P2024-04-13'], 'RC-261; RC-099; RC-041; RC-063; RC-269', False),
     ("RC-272", "Laço Temporal de Kether/Javé", COS_LEI[0], COS_LEI[1], P, ["B013", "P2023-10-14"], "RC-261; RC-008; RC-167; RC-041; RC-634", False),
 

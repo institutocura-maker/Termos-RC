@@ -3133,3 +3133,26 @@ coisas, não há o que etiquetar.
 **27** (7 activos + 20 congelados) · cadastro 572🟢 inalterado.
 
 **Próximo:** RC-270 → B013.
+
+
+## U71 — R1 · lote 28: a B013 (RC-270 «Linhagem dos Patriarcas Hebreus»)
+
+**Despacho do Curador:** lote 28 = B013; Via (a) mantida; verificação dupla de
+HEAD. 7 activos na contagem.
+
+**1 ficha, 9 fragmentos, 0 falhas na primeira passada.** RC-270 Linhagem dos
+Patriarcas Hebreus. **B013 1→0.**
+
+**O verbete é um ANEXO — e a obra não traz o seu corpo em texto extraível.**
+Anunciado duas vezes («Ver, em anexo»), listado no sumário, com título próprio
+em caixa alta (L7001)... mas a página cede só o cabeçalho e a seguinte já abre
+as Notas.
+
+**Regime de carência (U63) aplicado à própria fonte:** a ficha não inventa a
+genealogia, não a importa de outra obra, não supre a lacuna. O que se pode
+afirmar sobre o conteúdo vem do CORPO do livro.
+
+**Números:** 813 → **814 fichas** · GAP 133 → **132** · família B v3 27 →
+**26** (6 activos + 20 congelados) · cadastro 572🟢 inalterado.
+
+**Próximo:** RC-347 → B026.
