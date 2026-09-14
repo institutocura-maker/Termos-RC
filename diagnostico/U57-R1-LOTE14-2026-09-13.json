@@ -1,0 +1,60 @@
+{
+ "unidade": "U57",
+ "lote": 14,
+ "data": "2026-09-13",
+ "rota": "R1",
+ "criterio": "família B do censo v3 (referência homologada) — bloco de fonte única da B019 (Nem Deus, nem Javé, nem Darwin), por despacho do Curador (manter o fluxo de liquidação via fonte única)",
+ "v_revogado": true,
+ "nota_hardwrap": "**Fratura de hard-wrap:** a edição digital das fontes quebra as sentenças em linhas curtas. Cada fragmento entre «» é verbatim **intra-linha**, conferido byte a byte contra o `original.txt` da obra declarada; quando uma sentença foi partida, as suas partes aparecem como fragmentos distintos, com as linhas indicadas. Esta obra tem artefatos gráficos próprios, todos preservados: **enumerações com os números em linha própria** («1» / «.» / «como o universo surgiu…»), **marcadores de nota soltos** («Amit Goswami» / «3» / « e outros científistas…»), **palavras partidas ao meio** («Big» / «Bang») e **aberturas em caixa alta espaçada** («Q» / «UANTO» / «ÀQUELAS» / «RESPOSTAS»).",
+ "fichas": [
+  {
+   "cod": "RC-539",
+   "slug": "arquitetos-universais-coletivo-cocriador",
+   "definicao": "Na B019 (*Nem Deus, nem Javé, nem Darwin*), os integrantes do **“Consórcio de Mundos”** — colectivo de civilizações comprometido, segundo a SINOPSE da obra, com «a obtenção da tão esperada “Criatura Universal”». No corpo, o autor arrola-os entre os elementos da sua cosmologia: «ambientes espirituais, Arquitetos Universais, Seres Espirituais, universo paralelo habitado por entes extrafísicos clonados e de mente “afetada”, e um “código-fonte” que veio de lá para cá».",
+   "cit": [
+    ["B019", 94, ["aspectos obscuros, como a existência de um “Consórcio de Mundos”, cujos"], "SINOPSE (início em L93)"],
+    ["B019", 95, ["integrantes, os “Arquitetos Universais”, estão comprometidos com a"], "a designação, na SINOPSE (continua em L96)"],
+    ["B019", 96, ["obtenção da tão esperada “Criatura Universal”."], "o propósito do colectivo"],
+    ["B019", 5132, ["ambientes espirituais, Arquitetos Universais, Seres Espirituais, universo"], "no corpo, em enumeração (continua em L5133–L5136)"]
+   ],
+   "obs": [
+    "**Duas posições, sem etiqueta:** na SINOPSE a expressão vem entre aspas e com artigo («os “Arquitetos Universais”», L95); no corpo comparece nua, dentro de uma enumeração (L5132). É **variação da prosa do autor**, não divergência do termo — pelo critério homologado na U56, não acciona a etiqueta `[⚠️ DIVERGÊNCIA INTERNA DA FONTE]`.",
+    "A obra não enumera quantos são nem os nomeia individualmente: a ficha não o inventa. O que a fonte diz é que estão «comprometidos com a obtenção da tão esperada “Criatura Universal”» (L95–L96).",
+    "A SINOPSE é **paratexto da própria obra** (L83–L96); a ficha a apresenta como tal."
+   ]
+  },
+  {
+   "cod": "RC-546",
+   "slug": "primado-da-consciencia-criativa-goswami",
+   "definicao": "Na B019 (*Nem Deus, nem Javé, nem Darwin*), a tese de que a **consciência** — e não a matéria — é o princípio gerador: a percepção quântica de que «o “olhar faz colapsar uma função de onda”» «bem poderia ser a **raiz-noção do “Primado da Consciência Criativa”**, como aponta, por exemplo, o físico **Amit Goswami** e outros cientistas que compõem a vanguarda em torno desse assunto». A obra cita Goswami: «nenhum dos paradigmas materialistas conseguiu desenvolver modelos satisfatórios para o surgimento da vida, muito menos para a mente ou para a consciência».",
+   "cit": [
+    ["B019", 634, ["desaprovam e refutam essa percepção que bem poderia ser a raiz-noção do"], "a construção (início em L629–L633)"],
+    ["B019", 635, ["“Primado da Consciência Criativa”"], "o termo, verbatim"],
+    ["B019", 637, ["Amit Goswami"], "o físico a quem a obra atribui a noção (continua em L639–L640)"],
+    ["B019", 642, ["“(…) saber que nenhum dos paradigmas materialistas conseguiu"], "a citação de Goswami (continua em L643–L644)"],
+    ["B019", 650, ["Consciência gera um universo físico — e não a matéria, conforme afirmam"], "a tese (início em L649; continua em L651–L652)"]
+   ],
+   "obs": [
+    "O verbete declara também quatro palestras (P2025‑03‑15, P2025‑02‑15, P2020‑08‑08, P2023‑12‑03). **A sustentação desta ficha é exclusivamente a B019**, nos termos da salvaguarda do despacho de congelamento da série P (critério: a evidência literal é escrita).",
+    "A obra cita o livro de Goswami «O Universo Autoconsciente – Como a Consciência Cria o Mundo Material» (L646–L648) — **fonte externa citada pela obra, não adoptada como fonte da ficha**.",
+    "O cadastro registra a designação com o nome do físico entre parênteses («Goswami»); a ficha mantém a autoria **como a obra a atribui** («como aponta, por exemplo, o físico Amit Goswami»), sem lhe dar exclusividade."
+   ]
+  },
+  {
+   "cod": "RC-547",
+   "slug": "evolucao-criativa-hipotese-consciencial",
+   "definicao": "Na B019 (*Nem Deus, nem Javé, nem Darwin*), a **quarta** hipótese que o autor arrola sobre a evolução dos seres vivos, ao lado do «Evolucionismo Darwiniano», do «Desígnio Inteligente» e da «crença Criacionista»: «Isso é tudo? Não, pois ainda tem uma outra hipótese, que é a da “Evolução Criativa”.» O capítulo contrapõe-lhe o Darwinismo — «está correto quanto aos seus postulados, porém não consegue explicar o todo da questão evolutiva».",
+   "cit": [
+    ["B019", 3309, ["tamanho da fé que os caracteriza. Isso é tudo? Não, pois ainda tem uma outra"], "a introdução da hipótese (continua em L3310)"],
+    ["B019", 3310, ["hipótese, que é a da"], "o hard-wrap parte a sentença"],
+    ["B019", 3311, ["“Evolução Criativa”"], "o termo, verbatim"],
+    ["B019", 3313, ["Ao se observar os principais postulados relativos a essas teorias, pode-se"], "o confronto das teorias (continua em L3314–L3315)"],
+    ["B019", 3327, ["porém não consegue explicar o todo da questão evolutiva"], "o limite atribuído ao Darwinismo (início em L3326; continua em L3328)"]
+   ],
+   "obs": [
+    "**O que a obra diz e o que a ficha não diz:** a fonte **arrola** a «Evolução Criativa» como uma hipótese entre quatro; **não a define** neste capítulo. A ficha registra o termo com o enquadramento que a obra lhe dá (a lista das teorias e o confronto com o Darwinismo) e **não** lhe atribui conteúdo doutrinário próprio.",
+    "A obra grafa as correntes de dois modos — «“Evolucionismo Darwiniano”» (L3301), «“Evolução Darwiniana”» (L3319) e «“Darwinismo”» (L3317) —, variações de prosa, todas verbatim."
+   ]
+  }
+ ]
+}

@@ -440,12 +440,12 @@
 | RC-432 | Agressividade canalizada (DNA doentio) | Conceitos Cosmológicos | 2.2 Leis e princípios cósmicos | 🟢 | B040, B052, P2024-11-30, P2023-10-14, P2023-12-03 | RC-040; RC-094; RC-099; RC-217; RC-433 | [✔](termos/RC-432-agressividade-canalizada-dna-doentio.md) |
 | RC-433 | Força de Atração Sexual (anterior à polaridade) | Conceitos Cosmológicos | 2.2 Leis e princípios cósmicos | 🟢 | B052, P2024-11-30, P2024-09-29, P2024-08-03 | RC-049; RC-094; RC-099; RC-432 | [✔](termos/RC-433-forca-de-atracao-sexual-anterior-a-polaridade.md) |
 | RC-434 | Homoafetividade (resquício da força original) | Conceitos Cosmológicos | 2.5 Propósitos / Destinos | 🟢 | B052, P2025-03-15, P2024-11-30, P2024-03-03 | RC-049; RC-094; RC-099; RC-378; RC-433; RC-435 | [✔](termos/RC-434-homoafetividade-resquicio-da-forca-original.md) |
-| RC-435 | O Segredo Perdido do Éden | Conceitos Cosmológicos | 2.5 Propósitos / Destinos | 🟡 | B052, P2024-03-03 | RC-094; RC-242; RC-433; RC-434 | — |
+| RC-435 | O Segredo Perdido do Éden | Conceitos Cosmológicos | 2.5 Propósitos / Destinos | 🟡 | B052, P2024-03-03 | RC-094; RC-242; RC-433; RC-434 | [✔](termos/RC-435-o-segredo-perdido-do-eden.md) |
 | RC-436 | Heber (patriarca pós-dilúvio) | Seres & Entidades | 1.6 Figuras humanas (históricas/míticas) | 🟢 | B052, B060, P2022-12-17, P2025-10-25, P2024-11-30 | RC-270; RC-094; RC-437; RC-585 | [✔](termos/RC-436-heber.md) |
 | RC-437 | Joctan e Faleg (filhos de Heber) | Seres & Entidades | 1.6 Figuras humanas (históricas/míticas) | 🟢 | B052, P2022-12-17, P2025-10-25, P2024-11-30, P2021-03-27 | RC-001; RC-094; RC-270; RC-424; RC-436; RC-561 | [✔](termos/RC-437-joctan-e-faleg-filhos-de-heber.md) |
 | RC-438 | Tubal (filho de Jafé, centro de comércio) | Seres & Entidades | 1.6 Figuras humanas (históricas/míticas) | 🟢 | B052, P2024-11-30 | RC-270; RC-094 | [✔](termos/RC-438-tubal.md) |
-| RC-439 | Os Magos do Norte | Seres & Entidades | 1.6 Figuras humanas (históricas/míticas) | 🟡 | B052 | RC-094; RC-068; RC-403 | — |
-| RC-440 | A Sina dos Portadores | Eventos & Eras | 7.3 Profecias / Anúncios | 🟡 | B052 | RC-433; RC-094; RC-099 | — |
+| RC-439 | Os Magos do Norte | Seres & Entidades | 1.6 Figuras humanas (históricas/míticas) | 🟡 | B052 | RC-094; RC-068; RC-403 | [✔](termos/RC-439-os-magos-do-norte.md) |
+| RC-440 | A Sina dos Portadores | Eventos & Eras | 7.3 Profecias / Anúncios | 🟡 | B052 | RC-433; RC-094; RC-099 | [✔](termos/RC-440-a-sina-dos-portadores.md) |
 | RC-441 | Mistérios Dionisíacos | Conceitos Cosmológicos | 2.4 Espiritualidade / Doutrina | 🟡 | B052 | RC-094; RC-433; RC-049 | — |
 | RC-442 | Família Yel | Genealogias & Linhagens | 6.3 Dinastias extraterrestres | 🟢 | B057, B058, P2020-08-08, P2021-03-13, P2021-09-04, P2020-04-25, P2022-03-26, P2023-12-03 | RC-142; RC-036; RC-039; RC-446; RC-450; RC-443 | [✔](termos/RC-442-familia-yel.md) |
 | RC-443 | Família Mion | Genealogias & Linhagens | 6.3 Dinastias extraterrestres | 🟢 | B057, B058, P2020-08-08, P2020-04-25, P2022-03-26, P2023-12-03 | RC-074; RC-036; RC-039; RC-446; RC-450 | [✔](termos/RC-443-familia-mion.md) |

@@ -13339,7 +13339,7 @@
     "RC-207",
     "RC-042"
    ],
-   "ficha": false,
+   "ficha": true,
    "via": "P6-evidência",
    "confianca_fonte": "média"
   },
@@ -13528,7 +13528,7 @@
     "RC-703",
     "RC-707"
    ],
-   "ficha": false,
+   "ficha": true,
    "via": "P6-evidência",
    "confianca_fonte": "média"
   },
@@ -13545,7 +13545,7 @@
     "RC-546",
     "RC-541"
    ],
-   "ficha": false,
+   "ficha": true,
    "via": "P6-evidência",
    "confianca_fonte": "média"
   },

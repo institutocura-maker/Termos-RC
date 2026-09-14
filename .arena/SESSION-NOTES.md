@@ -2784,3 +2784,29 @@ do padrão; o primeiro foi RC-300 → B021).
 **56** (36 activos + 20 congelados) · cadastro 572🟢 inalterado.
 
 **Próximo poço activo:** B019 4 · B006 4 · B036 3 · B023 3 · B050 3 · B002 2.
+
+
+## U57 — R1 · lote 14: os 3 da B019 + inventário de desvios
+
+**Despacho do Curador:** lote 14 = B019; **levantar o inventário completo dos
+códigos com desvio entre fonte declarada e fonte sustentadora**.
+
+**3 fichas, 14 fragmentos, 0 falhas.** RC-539 Arquitetos Universais ·
+RC-546 Primado da Consciência Criativa (Goswami) · RC-547 Evolução Criativa.
+**B019 3→0.** RC-347 fica para a B026 (terceiro caso do padrão).
+
+**Três abstenções:** os Arquitetos não são contados nem nomeados; a «Evolução
+Criativa» é só arrolada, não definida; a autoria de Goswami vai sem
+exclusividade e o livro dele é fonte externa citada, não adoptada.
+
+⭐ **INVENTÁRIO DE DESVIOS** (`INVENTARIO-DESVIOS-FONTE-DECLARADA-2026-09-13.md`):
+sobre a família B v3 inteira (167 códigos) → **28 com desvio**: perfil C (1,
+evidência oral) e perfil D (27, livro declarado sem ocorrência). Mapa para
+verificação, não lista de erros — obra que trate da matéria sob outra forma de
+palavra não é sinalizada. Três usos no encerramento: higienizar `fontes`,
+ancorar lotes pela obra que ocorre, rever a bibliografia das 24 fichas.
+
+**Números:** 784 → **787 fichas** · GAP 162 → **159** · família B v3 56 →
+**53** (33 activos + 20 congelados) · cadastro 572🟢 inalterado.
+
+**Próximo poço activo:** B006 4 · B036 3 · B023 3 · B050 3 · B002 2 · B014 2.
