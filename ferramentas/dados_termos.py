@@ -519,12 +519,12 @@ TERMOS = [
 
     # ---- Novos termos de B006 (obra primária: Nos Bastidores da Luz I — obra mediúnica, 2000)
     ("RC-388", "Grupo Atlan", GEN_EXT[0], GEN_EXT[1], "verificado", ["B006", "B031", "B044"], "RC-389; RC-071; RC-094; RC-100; RC-028; RC-390", True),
-    ("RC-389", "Casa de Lucas (origem do Grupo Atlan)", LOK_TER[0], LOK_TER[1], P, ["B006"], "RC-388; RC-071; RC-094", False),
+    ("RC-389", "Casa de Lucas (origem do Grupo Atlan)", LOK_TER[0], LOK_TER[1], P, ["B006"], "RC-388; RC-071; RC-094", True),
     ("RC-390", "Espíritos comunicantes do Grupo Atlan", SER_LOG[0], SER_LOG[1], P, ["B006"], "RC-388; RC-100; RC-094; RC-393; RC-394", False),
-    ("RC-391", "Mesmice Espiritual", COS_ETI[0], COS_ETI[1], P, ["B006"], "RC-099; RC-100; RC-094", False),
+    ("RC-391", "Mesmice Espiritual", COS_ETI[0], COS_ETI[1], P, ["B006"], "RC-099; RC-100; RC-094", True),
     ("RC-392", "Reforma Íntima (tema do Grupo Atlan)", COS_ESP[0], COS_ESP[1], "verificado", ['B006', 'B074', 'B075', 'P2025-03-15'], 'RC-100; RC-099; RC-094; RC-190', True),
-    ("RC-393", "Enéas (espírito comunicante)", SER_HUM[0], SER_HUM[1], P, ["B006"], "RC-390; RC-094", False),
-    ("RC-394", "Mandreya Ramataiana (espírito comunicante)", SER_HUM[0], SER_HUM[1], P, ["B006"], "RC-390; RC-094", False),
+    ("RC-393", "Enéas (espírito comunicante)", SER_HUM[0], SER_HUM[1], P, ["B006"], "RC-390; RC-094", True),
+    ("RC-394", "Mandreya Ramataiana (espírito comunicante)", SER_HUM[0], SER_HUM[1], P, ["B006"], "RC-390; RC-094", True),
 
     # ---- Novos termos de B050 (Guia das Eras Universais — Mapa; obra complementar do filho de JVE)
     ("RC-395", "Ragnarok em Marte", EVE_CAT[0], EVE_CAT[1], 'verificado', ['B050', 'B060', 'P2022-12-17', 'P2025-02-16', 'P2024-11-30', 'P2024-11-02', 'P2024-08-03', 'P2024-03-02', 'P2025-11-29', 'P2023-08-05', 'P2023-05-20', 'P2023-04-01', 'P2020-08-08', 'P2021-03-13', 'P2025-02-22', 'P2021-05-15', 'P2023-10-14', 'P2023-12-03', "P2024-06-16", "P2022-12-03", "P2026-03-21"], 'RC-145; RC-102; RC-300; RC-094; RC-471; RC-694; RC-611; RC-470; RC-730; RC-742; RC-454; RC-467; RC-103; RC-396', True),

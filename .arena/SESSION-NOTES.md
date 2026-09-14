@@ -2810,3 +2810,29 @@ ancorar lotes pela obra que ocorre, rever a bibliografia das 24 fichas.
 **53** (33 activos + 20 congelados) · cadastro 572🟢 inalterado.
 
 **Próximo poço activo:** B006 4 · B036 3 · B023 3 · B050 3 · B002 2 · B014 2.
+
+
+## U58 — R1 · lote 15: os 4 da B006
+
+**Despacho do Curador:** lote 15 = B006; **não antecipar a higienização do
+campo fontes** (EL antes de Transform) — manter a esteira até esgotar o poço.
+
+**4 fichas, 21 fragmentos, 0 falhas.** RC-389 Casa de Lucas · RC-391 Mesmice
+Espiritual · RC-393 Enéas · RC-394 Mandreya Ramataiana. **B006 4→0.**
+
+**Fonte de natureza diferente:** obra mediúnica, com secção PERSONAGENS e
+capítulos em PERGUNTA/RESPOSTA, sem sumário. Três cautelas: Casa de Lucas sem
+atribuição de fundação/endereço/data; Enéas e Mandreya **descritos, não
+endossados** (com o condicional da fonte preservado: «seria o mesmo referido
+no livro do Apocalipse»); «mesmice» ocorre em três pontos, sem equivalência
+forçada.
+
+**Artefatos preservados:** palavras partidas («Espí rita»), dois espaços,
+falta de acentuação («incomodo»). Nada normalizado.
+
+**Higienização NÃO antecipada**, por diretriz expressa.
+
+**Números:** 787 → **791 fichas** · GAP 159 → **155** · família B v3 53 →
+**49** (29 activos + 20 congelados) · cadastro 572🟢 inalterado.
+
+**Próximo poço activo:** B036 3 · B023 3 · B050 3 · B002 2 · B014 2 · B020 2.

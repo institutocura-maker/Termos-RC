@@ -1,0 +1,79 @@
+{
+ "unidade": "U58",
+ "lote": 15,
+ "data": "2026-09-13",
+ "rota": "R1",
+ "criterio": "família B do censo v3 (referência homologada) — bloco de fonte única da B006 (Nos Bastidores da Luz I), 4 códigos exclusivos, por despacho do Curador (não antecipar a higienização; manter a esteira de extração até esgotar o poço)",
+ "v_revogado": true,
+ "nota_hardwrap": "**Fratura de hard-wrap:** a edição digital das fontes quebra as sentenças em linhas curtas. Cada fragmento entre «» é verbatim **intra-linha**, conferido byte a byte contra o `original.txt` da obra declarada; quando uma sentença foi partida, as suas partes aparecem como fragmentos distintos, com as linhas indicadas. **Esta edição tem artefatos próprios, todos preservados sem correcção:** palavras partidas no meio pelo *hard-wrap* («Espí rita», «transcr itas», «espirit ualidade», «div ersos», «dois mi l anos»), **dois espaços** em lugar de um (depois de ponto final, em redor de travessões e no meio de frases) e falta de acentuação («incomodo»). Nada disso foi normalizado: o Portão de Paridade Verbatim é absoluto.",
+ "fichas": [
+  {
+   "cod": "RC-389",
+   "slug": "casa-de-lucas-origem-do-grupo-atlan",
+   "definicao": "Na B006 (*Nos Bastidores da Luz I*, obra mediúnica), o centro espírita que acolheu o grupo de estudos do qual o Grupo **Atlan** se originou: «NO INÍCIO, era a Casa de Lucas. Centro Espírita administrado por um grupo de amigos que, com todo carinho, nos deram guarida para que pudéssemos estudar “in loco” a doutrina que tanto nos atraía». Com o tempo, «independente de para onde fôssemos», chamavam «de “Casa de Lucas” qualquer recanto que nos desse a oportunidade do esclarecimento e da evolução espiritual» — até que, «diante de outros problemas normais do percurso, procuramos um outro espaço, mudando, a partir de então, a denominação — tanto do nosso grupo como do nosso recanto de estudo — para Atlan».",
+   "cit": [
+    ["B006", 73, ["NO INÍCIO, era a Casa de Lucas. Centro Espí rita administrado por um grupo de amigos que,"], "abertura do ESCLARECIMENTO (o hard-wrap parte «Espí rita», tal como na edição)"],
+    ["B006", 74, ["com todo carinho, nos deram guarida para que pudéssemos estudar \"in loco\" a doutrina que"], "a guarida (continua em L75)"],
+    ["B006", 82, ["de \"Casa de Lucas\" qualquer recanto que nos desse a oportunidade do esclarecimento e da"], "a designação passa a acompanhar o grupo (início em L80–L81; continua em L83)"],
+    ["B006", 93, ["problemas normais do percurso, procuramos um outro espaço, mudando, a partir de então, a"], "a mudança (início em L90–L92)"],
+    ["B006", 94, ["denominação - tanto do nosso grupo como do nosso recanto de estudo - para Atlan."], "a origem do nome Atlan"]
+   ],
+   "obs": [
+    "**O que a fonte diz e o que a ficha não diz:** a obra relata a mudança de denominação para **Atlan** e a rotina do grupo («Quatro, seis, às vezes oito reuniões por mês, desde o ano de 1986», L95–L96). **Não** se afirma aqui que a Casa de Lucas seja uma instituição formal extinta, nem se lhe atribui fundação, endereço ou data: nada disso consta da passagem.",
+    "O trecho pertence ao **ESCLARECIMENTO** (paratexto da própria obra, L72–L124), apresentado como tal.",
+    "A edição grafada «Centro Espí rita» com a palavra partida (L73) é citada **verbatim**, sem correcção."
+   ]
+  },
+  {
+   "cod": "RC-391",
+   "slug": "mesmice-espiritual",
+   "definicao": "Título do capítulo 8 de B006 (*Nos Bastidores da Luz I*). A condição de estacionamento que a resposta mediúnica descreve: a família espiritual que «reencarnando há cerca de alguns poucos milênios» mantém a situação vibratória «se mantendo estacionária ou mesmo se complicando a cada encarnação na Terra». O capítulo responde à pergunta «Estamos melhores ou piores do que há 100 anos?» e atribui o atraso a serem os humanos «preguiçosos e tendentes ao estacionamento espiritual», «muito empedernidos e teimosos quanto à manutenção das nossas posturas íntimas».",
+   "cit": [
+    ["B006", 1010, ["Mesmice Espiritual"], "título do capítulo (sob «CAPÍTULO 8», L1009)"],
+    ["B006", 1011, ["PERGUNTA: Estamos melhores ou piores do que há 100 anos?"], "a pergunta que abre o capítulo"],
+    ["B006", 1019, ["que vinha se mantendo estacionária ou mesmo se complicando a cada encarnação na Terra."], "o diagnóstico (início em L1017–L1018)"],
+    ["B006", 1025, ["tendentes ao estacionamento espiritual que somos, já que muito empedernidos e teimosos"], "a causa apontada (início em L1024; continua em L1026)"],
+    ["B006", 1026, ["quanto à manutenção das nossas posturas íntimas. Dessa maneira, demoramos muito a"], "continuação (continua em L1027–L1028)"],
+    ["B006", 408, ["com a perigosa mesmice do jogo das sensações terrenas. Muito além dos valores transitórios"], "outra ocorrência, em prosa (início em L406–L407)"]
+   ],
+   "obs": [
+    "**A obra emprega o termo em mais de um ponto**, com alcances próximos mas não idênticos: como título de capítulo (L1010), e na prosa como «a perigosa mesmice do jogo das sensações terrenas» (L408) e «a “mesmice terrestre”» (L2009). A ficha cita as três posições e **não** as trata como definições equivalentes — apenas como ocorrências do mesmo termo.",
+    "O capítulo tem a forma **PERGUNTA / RESPOSTA** característica da obra mediúnica; a ficha registra a resposta **como resposta atribuída pela obra à espiritualidade**, sem lhe dar o estatuto de afirmação do cadastro."
+   ]
+  },
+  {
+   "cod": "RC-393",
+   "slug": "eneas-espirito-comunicante",
+   "definicao": "Na B006 (*Nos Bastidores da Luz I*), o espírito comunicante apresentado na secção **PERSONAGENS**: «ENÉAS. Este amigo espiritual, em uma de suas reencarnações, foi um cidadão romano, ao tempo da estada de Paulo de Tarso em Roma. Foi dele que escutou as primeiras palavras que modificariam o seu futuro» — ao «avistar um homem que, de cima de um grande bloco de pedra, falava de Jesus». A obra registra que, «como ele mesmo disse, “jamais teve uma vida onde seu nome terreno tivesse alcançado reconhecimento mais amplo”», e enumera as reencarnações seguintes (século II d.C. em Alexandria; política romana ao tempo da queda do Império do Ocidente; sul da França no século VIII; padre católico na virada do milênio; apoio a Lutero; comerciante espanhol no século XVIII; homem de letras na França do século XIX).",
+   "cit": [
+    ["B006", 133, ["ENÉAS. Este amigo espiritual, em uma de suas reencarnações, foi um cidadão romano, ao"], "entrada na secção PERSONAGENS (continua em L134–L135)"],
+    ["B006", 134, ["tempo da estada de Paulo de Tarso em Roma. Foi dele que escutou as primeiras palavras"], "o encontro com Paulo de Tarso (continua em L135)"],
+    ["B006", 137, ["grande bloco de pedra, falava de Jesus. A partir de então, o espírito do irmão Enéas não"], "a cena em Roma (início em L136; continua em L138–L139)"],
+    ["B006", 142, ["Como ele mesmo disse, \"jamais teve uma vida onde seu nome"], "o dito do espírito (continua em L143–L144)"],
+    ["B006", 145, ["Após a sua reencarnação como Enéas, ao tempo de Jesus, teve algumas outras das quais"], "as reencarnações seguintes (continua em L146–L155)"]
+   ],
+   "obs": [
+    "**A ficha descreve, não endossa.** A obra apresenta Enéas como «amigo espiritual» e relata o que «ele mesmo disse» e o que «nos foram informadas» as suas vidas terem sido. A ficha registra essas afirmações **como conteúdo da obra mediúnica**, sem lhes atribuir veracidade histórica — nenhuma delas foi conferida contra fonte externa, e nenhuma o poderia ser pela extração.",
+    "Enéas é um dos espíritos que respondem às perguntas ao longo do livro (ocorrências em L411, L828, L1326, L1557, L1734, L2091, L2198, L2280, L2780 e outras), sempre sob a mesma designação.",
+    "A secção **PERSONAGENS** (L125–L132) é paratexto da própria obra, e diz expressamente expor «alguns traços das personalidades espirituais das entidades que colaboraram», «com a preocupação de seguir exatamente a orientação dos mentores espirituais»."
+   ]
+  },
+  {
+   "cod": "RC-394",
+   "slug": "mandreya-ramataiana-espirito-comunicante",
+   "definicao": "Na B006 (*Nos Bastidores da Luz I*), o espírito comunicante que «se apresenta sob a forma hindu referente a uma de suas poucas encarnações na Terra, ao longo dos últimos 200.000 anos, período no qual ele se assenta, vamos assim dizer, em uma espécie de Conselho». A obra acrescenta que «outros amigos espirituais informaram que ele pertence a um certo Conselho que coordena os esforços e acompanha o desenrolar dos acontecimentos terrenos», Conselho esse que «seria o mesmo referido no livro do Apocalipse».",
+   "cit": [
+    ["B006", 230, ["Ser que se apresenta sob a forma hindu referente a uma de"], "entrada na secção PERSONAGENS (a linha começa por «MANDREYA RAMATAIANA.», com dois espaços depois do ponto)"],
+    ["B006", 231, ["suas poucas encarnações na Terra, ao longo dos últimos 200.000 anos, período no qual ele"], "o período (continua em L232–L233)"],
+    ["B006", 232, ["se assenta, vamos assim dizer, em uma espécie de Conselho, e que o instrumento terreno"], "o Conselho (continua em L233)"],
+    ["B006", 238, ["Posteriormente, outros amigos espirituais informaram que ele pertence a um certo Conselho"], "a informação atribuída a outros espíritos (continua em L239)"],
+    ["B006", 240, ["Conselho seria o mesmo referido no livro do Apocalipse."], "a identificação proposta pela obra"]
+   ],
+   "obs": [
+    "**A ficha descreve, não endossa** — e aqui a fonte é ainda mais cuidadosa do que em Enéas: a pertença ao Conselho vem «conforme informaram outros amigos espirituais» e a identificação com o Conselho do Apocalipse é formulada no condicional («seria o mesmo referido»). A ficha conserva **esse regime de atribuição**: não transforma o condicional da obra em afirmação do cadastro.",
+    "A obra registra a raridade das suas manifestações («costuma ofertar as suas mensagens - de forma episódica - mas raramente se refere ao Conselho», L241–L242) e que o próprio acenou com a possibilidade de o elucidar «em futuro breve» (L243–L246).",
+    "O efeito vibratório atribuído à sua presença (L234–L237) é **linguagem da obra**; a ficha não o reproduz como dado."
+   ]
+  }
+ ]
+}
