@@ -239,7 +239,7 @@
 | RC-231 | Razão Filosófica dos Terráqueos | Conceitos Cosmológicos | 2.5 Propósitos / Destinos | 🟢 | B033, B005, B049, P2025-03-15, P2024-11-30, P2024-11-09, P2024-07-14, P2012-02-19 | RC-001; RC-094; RC-099; RC-226; RC-245; RC-371; RC-514; RC-566 | [✔](termos/RC-231-razao-filosofica-dos-terraqueos.md) |
 | RC-232 | Ostronomos | Seres & Entidades | 1.3 Extraterrestres / Raças cósmicas | 🟢 | B017, B018, B060, P2021-05-15 | RC-009; RC-024; RC-036; RC-098; RC-126; RC-128; RC-129 | [✔](termos/RC-232-ostronomos.md) |
 | RC-233 | Marca Val (A Estratégia do Possível) | Processos & Fenômenos | 4.1 Processos biológicos / genéticos | 🟡 | B017 | RC-109; RC-082; RC-186; RC-036 | [✔](termos/RC-233-marca-val-a-estrategia-do-possivel.md) |
-| RC-234 | Cidades Voadoras | Tecnologias & Artefatos | 5.1 Naves / Tecnologia extraterrestre | 🟡 | B018 | RC-058; RC-018; RC-065 | — |
+| RC-234 | Cidades Voadoras | Tecnologias & Artefatos | 5.1 Naves / Tecnologia extraterrestre | 🟡 | B018 | RC-058; RC-018; RC-065 | [✔](termos/RC-234-cidades-voadoras.md) |
 | RC-235 | Teurgistas | Termos Específicos | 8.4 Grego / Latim | 🟡 | B039 | RC-097; RC-145; RC-049 | — |
 | RC-236 | O Calvário de um Inocente | Eventos & Eras | 7.1 Guerras / Rebeliões / Conflitos | 🟢 | B039, B011 | RC-028; RC-072; RC-074; RC-078; RC-142; RC-238 | [✔](termos/RC-236-o-calvario-de-um-inocente.md) |
 | RC-237 | Land's End (Sinal de Land's End) | Lokas & Geografias | 3.3 Localidades terrestres | 🟡 | B017 | RC-010; RC-028; RC-039 | — |

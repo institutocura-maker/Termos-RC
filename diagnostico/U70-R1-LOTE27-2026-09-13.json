@@ -1,0 +1,38 @@
+{
+ "unidade": "U70",
+ "lote": 27,
+ "data": "2026-09-13",
+ "rota": "R1",
+ "criterio": "família B do censo v3 (referência homologada) — bloco de fonte única da B039 (Terra Atlantis: A Era Sapiens), 1 código (RC‑235), por despacho do Curador (via expressa; VIA (a): 1 obra = 1 lote). O censo é ACHADOR, não CERCA (§6 do despacho do censo).",
+ "v_revogado": true,
+ "nota_fonte": "**A obra é narrada na primeira pessoa por um BIODOMO** («nós, biodemos», L1608) — critério da B036 (U59), reiterado na B034 (U66), B017 (U68) e B018 (U69). **Artefatos da edição, preservados sem normalização:** palavras partidas («dos fa ctos», «defini -la», «encontra- se», «of iciavam», «chamar -se-ia», «Grupos de h omens», «de for ça») e espaços duplos («eram  considerados», usada  para a», «“ seres dos portais ”»). **Fratura de hard-wrap:** cada fragmento entre «» é verbatim **intra-linha**, conferido byte a byte.",
+ "fichas": [
+  {
+   "cod": "RC-235",
+   "slug": "teurgistas",
+   "definicao": "Na B039 (*Terra Atlantis: A Era Sapiens*), o título do capítulo 6, designando os humanos considerados «“especialistas” no trato com seres situados além das fronteiras da vida humana», surgidos na Grécia nos 800 anos anteriores à época de Jesus. **O narrador DELIMITA expressamente o sentido que adopta:** «Hoje em dia, os ocultistas e estudiosos em geral entendem a Teurgia como sendo uma maneira de comunicação com o “mundo não manifestado” […] Contudo, para o que aqui estou a relatar, seria mais prudente defini-la como sendo, especificamente, usada para a **comunicação com os “seres dos portais”**».",
+   "cit": [
+    ["B039", 109, ["Os Teurgistas"], "o título no SUMÁRIO (entrada «Capítulo 6», L108; pag. 35)"],
+    ["B039", 1508, ["Os Teurgistas"], "o TÍTULO no corpo (sob «Capítulo 6», L1507)"],
+    ["B039", 1595, ["Grécia, foi exatamente onde surgiram os teurgistas, que eram  considerados"], "o SURGIMENTO (início em L1593-L1594)"],
+    ["B039", 1596, ["“especialistas” no trato com seres situados além das fronteiras da vida humana."], "o ofício, tal como a obra o nomeia"],
+    ["B039", 1597, ["Hoje em dia, os ocultistas e estudiosos em geral entendem a Teurgia como"], "o sentido GERAL, que o narrador vai delimitar (continua em L1598-L1599)"],
+    ["B039", 1600, ["a relatar, seria mais prudente defini -la como sendo, especificamente, usada  para a"], "A DELIMITAÇÃO — «mais prudente» (início em L1599)"],
+    ["B039", 1601, ["comunicação com os “ seres dos portais ”, nesta trilogia já definidos como sendo"], "O REFERENTE ESPECÍFICO (continua em L1602-L1603)"],
+    ["B039", 1606, ["“divino”, o que distorce o real conceito dos factos então ocorridos, já que o ser humano"], "A CORRECÇÃO do enquadramento (início em L1604-L1605; continua em L1607-L1608)"],
+    ["B039", 6157, ["platónicos alexandrinos, no período cristão. Chamavam-se teurgistas aos sacerdotes"], "FONTE EXTERNA CITADA na nota de esclarecimento (continua em L6158-L6165)"],
+    ["B039", 6167, ["Segundo a narrativa de Val Eno, Len Mion (Satã) foi um dos entes não humanos que"], "a voz do narrador, RETOMADA após a citação (continua em L6168-L6170)"]
+   ],
+   "obs": [
+    "⭐ **TRÊS CAMADAS, E A FICHA NÃO AS FUNDE (precedente U62: epígrafe citada ≠ doutrina do autor).** (1) **A definição própria do narrador**, expressamente delimitada: «para o que aqui estou a relatar, seria mais prudente defini‑la como sendo, especificamente, usada para a comunicação com os “seres dos portais”» (L1599–L1603). (2) **A sua correcção** do enquadramento alheio: chamar «divino» a essas manifestações «**distorce o real conceito dos factos então ocorridos**», porque o ser humano entende «divino» como «elevado», de «padrão superior», «o que, **infelizmente, não corresponde à verdade**» (L1604–L1608). (3) **Uma fonte externa CITADA** na «Notas de Esclarecimento» (L6134): o livro lusitano «Apolónio de Tiana – O Taumaturgo contemporâneo de Jesus», de Eduardo Amarante, Dulce Leal Abalada e George Robert Stowe Mead (L6137–L6140), de onde vêm «Chamavam‑se teurgistas aos sacerdotes que, nos templos do Egipto, Assíria, Babilónia e Grécia, of iciavam a evocação dos deuses» (L6157–L6160) e «Entenda‑se que os espíritos evocados não eram os dos mortos, pois se assim fosse, a essa prática chamar‑se‑ia **necromancia**» (L6162–L6163). **A ficha registra a citação como citação, e não a adopta.**",
+    "⭐ **Sem etiqueta, e porquê:** não há aqui contradição interna. O narrador **não contradiz** o sentido geral dos ocultistas — ele o **delimita** («Contudo, para o que aqui estou a relatar…»), e **atribui** a outra definição a um livro que cita nominalmente. Duas vozes com dois alcances declarados não perfazem divergência (critério do Curador na RC‑234, lote 26: referentes e enquadramentos distintos, sem fusão e sem etiqueta).",
+    "⭐ **A delimitação é o núcleo da ficha.** A obra não define «teurgista» em abstracto: define‑o **para esta narrativa**, e a ficha preserva o «**mais prudente**» e o «**especificamente**» com que o faz. O referente delimitado são os «seres dos portais», «habitantes do “universo demo”, paralelo ao “universo biológico”» (L1601–L1603) — **não** o «mundo não manifestado» dos ocultistas.",
+    "**A voz do narrador retoma depois da citação, e isso está marcado:** encerrada a transcrição do livro alheio (com «(...)», L6155), o texto volta a Val Eno: «**Segundo a narrativa de Val Eno**, Len Mion (Satã) foi um dos entes não humanos que mais se utilizou desse expediente» (L6167–L6170). A ficha registra a retoma, para que a autoria de cada asserção fique identificada.",
+    "**A caracterização dos teurgistas pela obra — registrada como juízo do narrador:** «descobrir o grupo dos **ingénuos** teurgistas humanos foi um achado» (L1722); «Preciso, aqui, novamente ressaltar o aspeto da **ingenuidade humana**» (L1656); e «o próprio Len Mion, **aproveitou‑se por demais da boa vontade** dos humanos que se tornaram especialistas no ofício teurgista» (L1679–L1680).",
+    "**O ofício, segundo a obra, era restrito e depois reclassificado:** «**Nem todo ser humano poderia exercer esse ofício. Somente os melhores**, dentre os humanos, a tanto poderiam almejar» (L1670–L1673); «Com o tempo, a Teurgia ficou a ser conhecida, fora dos limites dos ciclos iniciáticos, como **magia**, podendo essa ser, então, vista como sendo **baixa ou alta magia**» (L1673). A nota do autor (NAT, L1674–L1677) divide a matéria em três ramos: «a **Teurgia**, a **Magia Negra** e a **Magia Natural**». Nota do autor preservada como nota do autor.",
+    "**A voz é de um biodemo:** «Mesmo nós, biodemos, na atualidade vivendo em Alt’Lam Gron…» (L1608–L1609) — testemunho da personagem, registrado como tal.",
+    "⚠️ **Alcance da leitura (§6):** os blocos do censo eram «L96‑124» (sumário), «L1507‑1538» e «L1586‑1622». A «**Notas de Esclarecimento**» (L6134–L6170), onde está a **fonte externa citada**, ficava fora deles e foi alcançada por leitura estendida na mesma obra — por ser o lugar onde a obra **separa a sua definição da definição alheia**. Sexto uso consecutivo do §6."
+   ]
+  }
+ ]
+}

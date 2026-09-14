@@ -3106,3 +3106,30 @@ distintos) — registrados sem fusão, pela U64.
 **28** (8 activos + 20 congelados) · cadastro 572🟢 inalterado.
 
 **Próximo:** RC-235 → B039.
+
+
+## U70 — R1 · lote 27: a B039 (RC-235 «Teurgistas»)
+
+**Despacho do Curador:** lote 27 = B039; Via (a) mantida; verificação dupla de
+HEAD. 8 activos na contagem.
+
+**1 ficha, 10 fragmentos, 0 falhas na primeira passada.** RC-235 Teurgistas.
+**B039 1→0.**
+
+**Três camadas, não fundidas** (precedente U62): (1) a definição própria do
+narrador, expressamente DELIMITADA — «para o que aqui estou a relatar, seria
+mais prudente defini-la como sendo, especificamente, usada para a comunicação
+com os «seres dos portais»; (2) a sua correcção («divino» distorce os factos);
+(3) uma FONTE EXTERNA CITADA na «Notas de Esclarecimento» (Apolónio de Tiana,
+de Amarante/Abalada/Mead) — registrada como citação, não adoptada.
+
+**Sem etiqueta:** o narrador delimita e atribui; não contradiz.
+
+**§5.2 LAVRADO no despacho de jurisprudência** (decisão do Curador sobre a
+RC-234): o teste do REFERENTE vem antes do teste das LETRAS — onde há duas
+coisas, não há o que etiquetar.
+
+**Números:** 812 → **813 fichas** · GAP 134 → **133** · família B v3 28 →
+**27** (7 activos + 20 congelados) · cadastro 572🟢 inalterado.
+
+**Próximo:** RC-270 → B013.

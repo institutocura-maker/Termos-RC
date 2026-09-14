@@ -6320,7 +6320,7 @@
     "RC-145",
     "RC-049"
    ],
-   "ficha": false,
+   "ficha": true,
    "via": "P6-evidência",
    "confianca_fonte": "média"
   },

@@ -80,6 +80,23 @@ Na fala de Maneton a expressão surge como «um segredo perdido **do jardim** do
 
 **Regra extraída:** *aspas* — inclusive a variação do seu **alcance** — integram a coluna «modo de imprimir». Só accionam a etiqueta se vierem acompanhadas de mutação nas letras, na ordem das palavras ou no sentido estrutural. O «peso do alerta» é bem finito: reserva-se à ortografia e à semântica.
 
+### 5.2. Segunda aplicação da matriz — REFERENTES E CRONOLOGIAS DISTINTOS (RC‑234, homologado na U69)
+
+**Decisão do Curador:** a abstenção estava **PERFEITA**. Não aplicar a etiqueta.
+
+| Designação | Ocorrência (B018) | Referente |
+|---|---|---|
+| «cidades voadoras» | L73, L3281, L3447, L3453, L3458, L3465, L3496, L3504, L3549, L3563 | os artefatos do capítulo 8 |
+| «cidades **ou bases** voadoras» | L3490 | **o mesmo** referente, expansão descritiva |
+| «**cidadelas** voadoras» | L1020 (cap. 2) | **outro** episódio: as três destruídas pelo Senhor Shiva |
+| «**fortalezas** voadoras» | L1033 (cap. 2) | **o mesmo outro** episódio, noutra palavra |
+
+**Fundamento lavrado:** «A aplicação rigorosa da diretriz da U64 ("não fundir o que a fonte separa") evitou uma colisão conceitual. […] Como são referentes e contextos descolados no tempo/espaço, tratá-los separadamente sem forçar uma falsa contradição ou fusão é a própria essência da análise documental de alta precisão. **Nenhuma etiqueta é necessária, pois não há erro tipográfico nem contradição interna — apenas fatos distintos descritos com precisão.**»
+
+**Regra extraída — o teste do REFERENTE vem antes do teste das LETRAS.** A matriz do §5 pergunta «as letras da palavra são as mesmas?»; mas antes dela cumpre perguntar «**é a mesma coisa?**». Se duas designações nomeiam **referentes distintos** — episódios distintos, cronologias distintas, palcos distintos —, a variação lexical é **consequência**, não contradição: cada coisa tem o seu nome. Nesse caso: **registram-se as duas, sem fusão e sem etiqueta**. A etiqueta supõe que a fonte fale **da mesma coisa** de dois modos incompatíveis; onde há duas coisas, não há o que etiquetar.
+
+**Corolário (U64, reiterado):** fundi‑las violaria a diretriz «não fundir o que a fonte separa». O registro documenta ambas e declara a distinção.
+
 ---
 
-*Despacho lavrado na U56. Adendo da RC‑397 lavrado na U63 por decisão do Curador. Aplica-se a todas as fichas da base, presentes e futuras.*
+*Despacho lavrado na U56. Adendo da RC‑397 lavrado na U63 por decisão do Curador. §5.1 (aspas) lavrado na U64. §5.2 (referentes distintos) lavrado na U69. Aplica-se a todas as fichas da base, presentes e futuras.*
