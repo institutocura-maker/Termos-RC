@@ -54,3 +54,8 @@ Biodemo da Família Yel que, antes de fundir o seu código genético com Val El,
 - A Família Yel é descrita no mesmo glossário como composta por 5.420 membros, criados há aproximadamente 492 milhões de anos no Sistema de Capela, com base no planeta Dan — B031 L4052–L4057.
 - **Fratura de hard-wrap:** a edição digital das fontes quebra as sentenças em linhas curtas. Cada fragmento entre «» é verbatim **intra-linha**, conferido byte a byte contra o `original.txt` da obra declarada; quando uma sentença foi partida, o seu início e o seu fecho aparecem como fragmentos distintos, com as linhas indicadas.
 - **Status de nascença:** 🟡 **provisório** — a presunção de V por fonte de livro, que chancelou os lotes 1 e 2, foi **REVOGADA pelo Curador para os lotes 3 em diante** (`diagnostico/DESPACHO-ROTAS-POS-V2-2026-09-13.md`): o instrumento que a lastreava estava submedido e estender a presunção sobre base comprometida comprometeria a Base. Sem V não há 🟢: a ficha nasce provisória e segue para leva de chancela, com as citações já extraídas e conferidas.
+
+## 6. Histórico Curatorial e Auditoria
+
+- **Cross-reference (despacho de 13/09/2026):** RC-140 e RC-138 **não se fundem**. Ambos os códigos são preservados porque representam estados ontológicos e temporais distintos do mesmo biodemo: RC-140 = **Yel Liam**, depois da fusão do código genético com Val El; RC-138 = **Yel Am**, antes dela. **Origem: RC-140 ← RC-138.**
+- Registro lavrado por despacho do Curador (`diagnostico/DESPACHO-DIVERGENCIAS-CROSSREF-E-GRAFIA-2026-09-13.md`). Nenhuma aresta foi criada em `relacoes/`: a conexão é feita no corpo das fichas, por remissiva textual.

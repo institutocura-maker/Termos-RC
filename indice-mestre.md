@@ -115,40 +115,40 @@
 | RC-107 | Universo Material (Bhuloka) | Conceitos Cosmológicos | 2.3 Dimensões / Planos de existência | 🟢 | B031, B024, B044, B001, B002, B013, B005, B060, P2024-05-04, P2025-03-15, P2025-02-16, P2025-02-15, P2024-11-30, P2024-11-09 | RC-033; RC-034; RC-084; RC-091; RC-099; RC-106; RC-174; RC-178; RC-179; RC-636 | [✔](termos/RC-107-universo-material-bhuloka.md) |
 | RC-108 | Universo Paralelo | Conceitos Cosmológicos | 2.3 Dimensões / Planos de existência | 🟢 | B031, P2025-02-16, P2024-11-30, P2024-11-09, P2024-08-03 | RC-106; RC-038; RC-744 | [✔](termos/RC-108-universo-paralelo.md) |
 | RC-109 | Val (Família Val) | Genealogias & Linhagens | 6.3 Dinastias extraterrestres | 🟠 | B031, P2022-12-17, P2020-04-25, P2023-12-03, P2017-10-14, P2018-12-15 | RC-146; RC-136; RC-089; RC-120; RC-036 | [✔](termos/RC-109-val-familia-val.md) |
-| RC-110 | Val Am | Seres & Entidades | 1.3 Extraterrestres / Raças cósmicas | 🟡 | B031 | RC-133; RC-109 | — |
-| RC-111 | Val Amon | Seres & Entidades | 1.3 Extraterrestres / Raças cósmicas | 🟡 | B031 | RC-043; RC-109; RC-065 | — |
-| RC-112 | Val Anen | Seres & Entidades | 1.3 Extraterrestres / Raças cósmicas | 🟡 | B031, B060 | RC-133; RC-109; RC-051 | — |
-| RC-113 | Val Anon | Seres & Entidades | 1.3 Extraterrestres / Raças cósmicas | 🟡 | B031 | RC-109 | — |
-| RC-114 | Val Antien | Seres & Entidades | 1.3 Extraterrestres / Raças cósmicas | 🟡 | B031 | RC-133; RC-109 | — |
-| RC-115 | Val Aten | Seres & Entidades | 1.3 Extraterrestres / Raças cósmicas | 🟡 | B031 | RC-133; RC-109; RC-127 | — |
-| RC-116 | Val Bon | Seres & Entidades | 1.3 Extraterrestres / Raças cósmicas | 🟡 | B031, B060 | RC-133; RC-109; RC-027 | — |
-| RC-117 | Val Den | Seres & Entidades | 1.3 Extraterrestres / Raças cósmicas | 🟡 | B031 | RC-133; RC-109 | — |
+| RC-110 | Val Am | Seres & Entidades | 1.3 Extraterrestres / Raças cósmicas | 🟡 | B031 | RC-133; RC-109 | [✔](termos/RC-110-val-am.md) |
+| RC-111 | Val Amon | Seres & Entidades | 1.3 Extraterrestres / Raças cósmicas | 🟡 | B031 | RC-043; RC-109; RC-065 | [✔](termos/RC-111-val-amon.md) |
+| RC-112 | Val Anen | Seres & Entidades | 1.3 Extraterrestres / Raças cósmicas | 🟡 | B031, B060 | RC-133; RC-109; RC-051 | [✔](termos/RC-112-val-anen.md) |
+| RC-113 | Val Anon | Seres & Entidades | 1.3 Extraterrestres / Raças cósmicas | 🟡 | B031 | RC-109 | [✔](termos/RC-113-val-anon.md) |
+| RC-114 | Val Antien | Seres & Entidades | 1.3 Extraterrestres / Raças cósmicas | 🟡 | B031 | RC-133; RC-109 | [✔](termos/RC-114-val-antien.md) |
+| RC-115 | Val Aten | Seres & Entidades | 1.3 Extraterrestres / Raças cósmicas | 🟡 | B031 | RC-133; RC-109; RC-127 | [✔](termos/RC-115-val-aten.md) |
+| RC-116 | Val Bon | Seres & Entidades | 1.3 Extraterrestres / Raças cósmicas | 🟡 | B031, B060 | RC-133; RC-109; RC-027 | [✔](termos/RC-116-val-bon.md) |
+| RC-117 | Val Den | Seres & Entidades | 1.3 Extraterrestres / Raças cósmicas | 🟡 | B031 | RC-133; RC-109 | [✔](termos/RC-117-val-den.md) |
 | RC-118 | Val Dimon | Seres & Entidades | 1.3 Extraterrestres / Raças cósmicas | 🟢 | B031, B020, B060 | RC-133; RC-109; RC-086; RC-299 | [✔](termos/RC-118-val-dimon.md) |
-| RC-119 | Val Ean | Seres & Entidades | 1.3 Extraterrestres / Raças cósmicas | 🟡 | B031 | RC-109 | — |
+| RC-119 | Val Ean | Seres & Entidades | 1.3 Extraterrestres / Raças cósmicas | 🟡 | B031 | RC-109 | [✔](termos/RC-119-val-ean.md) |
 | RC-120 | Val El / Val Ellam | Seres & Entidades | 1.3 Extraterrestres / Raças cósmicas | 🟡 | B031 | RC-109; RC-071; RC-140; RC-068; RC-083 | [✔](termos/RC-120-val-el.md) |
-| RC-121 | Val Elliah | Seres & Entidades | 1.3 Extraterrestres / Raças cósmicas | 🟡 | B031 | RC-043; RC-109; RC-072 | — |
-| RC-122 | Val Ellieh | Seres & Entidades | 1.3 Extraterrestres / Raças cósmicas | 🟡 | B031 | RC-043; RC-109; RC-072 | — |
+| RC-121 | Val Elliah | Seres & Entidades | 1.3 Extraterrestres / Raças cósmicas | 🟡 | B031 | RC-043; RC-109; RC-072 | [✔](termos/RC-121-val-elliah.md) |
+| RC-122 | Val Ellieh | Seres & Entidades | 1.3 Extraterrestres / Raças cósmicas | 🟡 | B031 | RC-043; RC-109; RC-072 | [✔](termos/RC-122-val-ellieh.md) |
 | RC-123 | Val Eno | Seres & Entidades | 1.3 Extraterrestres / Raças cósmicas | 🟢 | B031, B017, B018, B039 | RC-109; RC-018; RC-071; RC-125 | [✔](termos/RC-123-val-eno.md) |
-| RC-124 | Val Eon | Seres & Entidades | 1.3 Extraterrestres / Raças cósmicas | 🟡 | B031 | RC-123; RC-109 | — |
-| RC-125 | Val Gevi | Seres & Entidades | 1.3 Extraterrestres / Raças cósmicas | 🟡 | B031 | RC-109; RC-092; RC-120; RC-123 | — |
-| RC-126 | Val Geon | Seres & Entidades | 1.3 Extraterrestres / Raças cósmicas | 🟡 | B031 | RC-109; RC-128; RC-129; RC-024 | — |
+| RC-124 | Val Eon | Seres & Entidades | 1.3 Extraterrestres / Raças cósmicas | 🟡 | B031 | RC-123; RC-109 | [✔](termos/RC-124-val-eon.md) |
+| RC-125 | Val Gevi | Seres & Entidades | 1.3 Extraterrestres / Raças cósmicas | 🟡 | B031 | RC-109; RC-092; RC-120; RC-123 | [✔](termos/RC-125-val-gevi.md) |
+| RC-126 | Val Geon | Seres & Entidades | 1.3 Extraterrestres / Raças cósmicas | 🟡 | B031 | RC-109; RC-128; RC-129; RC-024 | [✔](termos/RC-126-val-geon.md) |
 | RC-127 | Val-Ha | Lokas & Geografias | 3.2 Lokas / Mundos interiores | 🟡 | B031 | RC-101; RC-133; RC-115 | — |
-| RC-128 | Val Ilon | Seres & Entidades | 1.3 Extraterrestres / Raças cósmicas | 🟡 | B031 | RC-109; RC-126; RC-129 | — |
-| RC-129 | Val Pen | Seres & Entidades | 1.3 Extraterrestres / Raças cósmicas | 🟡 | B031, B060 | RC-109; RC-126; RC-128; RC-024 | — |
-| RC-130 | Val Sean | Seres & Entidades | 1.3 Extraterrestres / Raças cósmicas | 🟡 | B031 | RC-133; RC-109 | — |
-| RC-131 | Val Sion | Seres & Entidades | 1.3 Extraterrestres / Raças cósmicas | 🟡 | B031 | RC-133; RC-109 | — |
+| RC-128 | Val Ilon | Seres & Entidades | 1.3 Extraterrestres / Raças cósmicas | 🟡 | B031 | RC-109; RC-126; RC-129 | [✔](termos/RC-128-val-ilon.md) |
+| RC-129 | Val Pen | Seres & Entidades | 1.3 Extraterrestres / Raças cósmicas | 🟡 | B031, B060 | RC-109; RC-126; RC-128; RC-024 | [✔](termos/RC-129-val-pen.md) |
+| RC-130 | Val Sean | Seres & Entidades | 1.3 Extraterrestres / Raças cósmicas | 🟡 | B031 | RC-133; RC-109 | [✔](termos/RC-130-val-sean.md) |
+| RC-131 | Val Sion | Seres & Entidades | 1.3 Extraterrestres / Raças cósmicas | 🟡 | B031 | RC-133; RC-109 | [✔](termos/RC-131-val-sion.md) |
 | RC-132 | Val Tam | Seres & Entidades | 1.3 Extraterrestres / Raças cósmicas | 🟢 | B031 | RC-018; RC-109; RC-501 | [✔](termos/RC-132-val-tam.md) |
-| RC-133 | Val dos Corpos Perdidos / Dimensionados | Seres & Entidades | 1.3 Extraterrestres / Raças cósmicas | 🟡 | B031 | RC-127; RC-109; RC-110; RC-112; RC-114; RC-115; RC-116; RC-117; RC-118; RC-130; RC-131 | — |
+| RC-133 | Val dos Corpos Perdidos / Dimensionados | Seres & Entidades | 1.3 Extraterrestres / Raças cósmicas | 🟡 | B031 | RC-127; RC-109; RC-110; RC-112; RC-114; RC-115; RC-116; RC-117; RC-118; RC-130; RC-131 | [✔](termos/RC-133-val-dos-corpos-perdidos.md) |
 | RC-134 | Viajores | Termos Específicos | 8.5 Outros idiomas / jargão técnico | 🟡 | B031, B015 | RC-024; RC-082 | — |
 | RC-135 | Vishnu (Mavatna) | Seres & Entidades | 1.1 Divindades / Criadores | 🟢 | B031, B024, B044, B001, B033, B016, B014, B020, B021, B022, B051, B036, B060, P2022-12-17, P2021-12-04, P2026-07-30, P2024-05-04, P2026-04-02, P2025-03-15, P2025-02-16, P2024-11-30, P2024-11-09, P2024-08-03, P2024-07-14, P2023-04-15, P2023-04-29, P2020-05-09, P2025-02-22, P2022-05-07, P2024-06-16, P2012-02-19, P2023-12-25-01, P2020-04-04 | RC-037; RC-102; RC-104; RC-081; RC-009; RC-584; RC-622; RC-642; RC-565; RC-152 | [✔](termos/RC-135-vishnu-mavatna.md) |
 | RC-136 | Yel (Família Yel) | Genealogias & Linhagens | 6.3 Dinastias extraterrestres | 🟡 | B031, P2020-04-25, P2023-12-03 | RC-109; RC-078; RC-046; RC-137; RC-036 | — |
-| RC-137 | Yel Adrax | Seres & Entidades | 1.3 Extraterrestres / Raças cósmicas | 🟡 | B031 | RC-136 | — |
-| RC-138 | Yel Am / Yel Liam | Seres & Entidades | 1.3 Extraterrestres / Raças cósmicas | 🟡 | B031, B011, B060, P2026-04-02, P2025-10-25 | RC-136; RC-120; RC-140; RC-072; RC-043; RC-647 | — |
-| RC-139 | Yel Breasil | Seres & Entidades | 1.3 Extraterrestres / Raças cósmicas | 🟡 | B031 | RC-136; RC-047 | — |
-| RC-140 | Yel Liam | Seres & Entidades | 1.3 Extraterrestres / Raças cósmicas | 🟡 | B031 | RC-138; RC-136; RC-072 | — |
-| RC-141 | Yel Lupon | Seres & Entidades | 1.3 Extraterrestres / Raças cósmicas | 🟡 | B031 | RC-136; RC-080; RC-026; RC-101; RC-089 | — |
+| RC-137 | Yel Adrax | Seres & Entidades | 1.3 Extraterrestres / Raças cósmicas | 🟡 | B031 | RC-136 | [✔](termos/RC-137-yel-adrax.md) |
+| RC-138 | Yel Am / Yel Liam | Seres & Entidades | 1.3 Extraterrestres / Raças cósmicas | 🟡 | B031, B011, B060, P2026-04-02, P2025-10-25 | RC-136; RC-120; RC-140; RC-072; RC-043; RC-647 | [✔](termos/RC-138-yel-am-yel-liam.md) |
+| RC-139 | Yel Breasil | Seres & Entidades | 1.3 Extraterrestres / Raças cósmicas | 🟡 | B031 | RC-136; RC-047 | [✔](termos/RC-139-yel-brasil.md) |
+| RC-140 | Yel Liam | Seres & Entidades | 1.3 Extraterrestres / Raças cósmicas | 🟡 | B031 | RC-138; RC-136; RC-072 | [✔](termos/RC-140-yel-liam.md) |
+| RC-141 | Yel Lupon | Seres & Entidades | 1.3 Extraterrestres / Raças cósmicas | 🟡 | B031 | RC-136; RC-080; RC-026; RC-101; RC-089 | [✔](termos/RC-141-yel-lupon.md) |
 | RC-142 | Yel Luzbel | Seres & Entidades | 1.5 Decaídos / Exilados / Demônios | 🟢 | B031, B017, B018, B039, B015, B057, B058, B060, P2022-12-17, P2024-03-03, P2020-04-25, P2022-03-26, P2023-12-03, P2023-12-25-03 | RC-078; RC-136; RC-002; RC-070; RC-017; RC-026; RC-442 | [✔](termos/RC-142-yel-luzbel.md) |
-| RC-143 | Yel Luziel | Seres & Entidades | 1.3 Extraterrestres / Raças cósmicas | 🟡 | B031 | RC-136; RC-043; RC-065 | — |
+| RC-143 | Yel Luziel | Seres & Entidades | 1.3 Extraterrestres / Raças cósmicas | 🟡 | B031 | RC-136; RC-043; RC-065 | [✔](termos/RC-143-yel-luziel.md) |
 | RC-144 | Zeitgeist | Termos Específicos | 8.5 Outros idiomas / jargão técnico | 🟡 | B031 | RC-094 | — |
 | RC-145 | Zeus | Seres & Entidades | 1.5 Decaídos / Exilados / Demônios | 🟢 | B031, B020, B021, B050, B060, P2022-12-17, P2025-10-25, P2024-11-30, P2024-11-09, P2024-09-29, B087, B088, B089, P2020-09-19, P2023-12-03, P2021-02-28, P2020-04-04 | RC-009; RC-047; RC-066; RC-077; RC-086; RC-097; RC-241; RC-480 | [✔](termos/RC-145-zeus.md) |
 | RC-146 | Zian (Zion) | Lokas & Geografias | 3.1 Planetas / Sistemas estelares | 🟢 | B031, B057 | RC-109; RC-039; RC-092; RC-755 | [✔](termos/RC-146-zian-zion.md) |

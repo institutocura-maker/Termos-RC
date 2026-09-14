@@ -2496,3 +2496,42 @@ coisa; corrigido e reconferido. É a lição da U41 valendo outra vez.
 
 **Próximo:** 107 restantes da família B v2. Blocos coesos já identificados:
 consolidar o restante do glossário da B031.
+
+## U48 (13/09/2026) — lote 5: fecha o glossário da B031 + três despachos curatoriais
+
+**Lote 5 (14 fichas):** RC-022 Antlar · RC-023 Antlartes · RC-026 Astralização dos
+Biodemos · RC-029 Atlans · RC-043 Conselho dos Cinco · RC-045 Daemon ·
+RC-067 Gron Mion · RC-069 Ion Crom · RC-082 Nephilins · RC-083 Norte Divino ·
+RC-088 Portlan e Portlon · RC-127 Val-Ha · RC-134 Viajores · RC-144 Zeitgeist.
+53 fragmentos, 0 falhas. Com isto, **o glossário da B031 está fechado**.
+
+**Os três despachos do Curador, aplicados:**
+
+1. *Divergência Val Bon × Val Dimon* — gaveta `## 6. Histórico Curatorial e
+   Auditoria` instituída e lavrada em **RC-116** e **RC-118**, com a etiqueta
+   `[⚠️ DIVERGÊNCIA INTERNA DA FONTE]` e o cruzamento dos dois verbetes
+   (Astréia × Pandora). Nada conciliado: a contradição é da obra.
+2. *Códigos duplos Yel Am × Yel Liam* — **preservados**, sem fusão, sem lápide,
+   sem aresta nova em `relacoes/`. Conexão por remissiva textual no corpo:
+   RC-138 → RC-140 (evolução) e RC-140 → RC-138 (origem).
+3. *Grafia* — paridade verbatim absoluta: nenhuma normalização. A variação fica
+   declarada na Definição Sintética de RC-121, RC-122 e RC-043. Caso-limite do
+   lote: «Gron Mion:  Planeta…» (B031 L3497) tem DOIS espaços na fonte e a ficha
+   os conserva.
+
+**Instrumento:** o driver passa a gerar a gaveta a partir do campo opcional
+`historico` do lote. O JSON do lote 4 foi atualizado e as três gavetas
+**regeneradas pelo driver** (não remendadas à mão), com prova de regeneração
+conferida — o JSON volta a gerar o arquivo byte a byte.
+
+**Números:** 732 → **746 fichas** · GAP 214 → **200** · família B v2: 107 →
+**93 restantes** · status congelado em 572🟢 (V revogado, as 14 nascem 🟡).
+
+**INCIDENTE DE AMBIENTE (grave, resolvido):** o sandbox foi recriado no meio do
+turno — perdeu `openpyxl`/`python-docx` (U39 de novo) **e os objetos do git**:
+a branch local voltou ao U40. O commit da U48 nasceu em cima do U40 e o push
+foi rejeitado por non-fast-forward. Remédio aplicado: `git branch backup-u48`
+para não perder nada, `git reset --mixed FETCH_HEAD` para reancorar no U47
+(que é a fonte da verdade), restauração do `.arena/SESSION-NOTES.md` pelo U47
+(diretório fora do snapshot: perde os blocos U41–U47) e reanexo do bloco U48.
+O conteúdo dos arquivos nunca se perdeu — só os objetos do git.

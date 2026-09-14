@@ -15,6 +15,8 @@ atualizado = "2026-09-13"
 ## Definição Sintética
 
 Biodemo da Família Val que fazia parte do Conselho dos Cinco da Frota Norte em Benem; uma de suas encarnações foi como um dos zelotes crucificados ao lado de Jesus Cristo.
+**Grafia (paridade verbatim absoluta):** a obra grafa este nome de dois modos — «Val Elliah» no verbete próprio do glossário (B031 L3983) e «Val Eliah» na relação do Conselho dos Cinco (B031 L3255). Cada citação conserva a grafia do trecho de onde foi extraída; a variação **não é normalizada**.
+
 
 ## Contexto / Origem
 

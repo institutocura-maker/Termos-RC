@@ -1,0 +1,214 @@
+{
+ "unidade": "U48",
+ "lote": 5,
+ "data": "2026-09-13",
+ "rota": "R1",
+ "criterio": "família B do censo v2 (CENSO-RECLASSIFICADO-2026-09-13.json) — bloco único: os 14 termos restantes do glossário da B031 (despacho DESPACHO-DIVERGENCIAS-CROSSREF-E-GRAFIA-2026-09-13.md)",
+ "v_revogado": true,
+ "nota_hardwrap": "**Fratura de hard-wrap:** a edição digital das fontes quebra as sentenças em linhas curtas. Cada fragmento entre «» é verbatim **intra-linha**, conferido byte a byte contra o `original.txt` da obra declarada; quando uma sentença foi partida, o seu início e o seu fecho aparecem como fragmentos distintos, com as linhas indicadas.",
+ "fichas": [
+  {
+   "cod": "RC-022",
+   "slug": "antlar",
+   "definicao": "Base construída no hemisfério sul, onde hoje é a Antártida, a partir da nave Asphezian; alojava inicialmente 1.218 «rebeldes originais», em sua maioria Yel.",
+   "cit": [
+    ["B031", 3105, ["Antlar: Base construída no hemisfério sul, onde hoje é a Antártida, a"], "verbete «Antlar» — abertura (continua em L3106–L3107)"],
+    ["B031", 3106, ["partir da nave Asphezian. Alojava inicialmente 1.218 “rebeldes originais”,"], "meio do verbete — a nave de origem e o contingente inicial"],
+    ["B031", 3107, ["em sua maioria Yel."], "fecho do verbete"]
+   ],
+   "obs": [
+    "Antlar é uma das **40 bases luciferianas do «Império Atlante»**, ao lado de Antlartes (RC-023) e Atlans (RC-029), entre outras; várias delas teriam sucumbido por questões ambientais.",
+    "A nave **Asphezian**, a partir da qual a base foi construída, é uma das 3 naves da Família Val (verbete próprio em B031 L3113–L3115)."
+   ]
+  },
+  {
+   "cod": "RC-023",
+   "slug": "antlartes",
+   "definicao": "Uma das 40 bases luciferianas do «Império Atlante» que também sucumbiu devido às questões ambientais.",
+   "cit": [
+    ["B031", 3108, ["Antlartes: Uma das 40 bases luciferianas do “Império Atlante” que"], "verbete «Antlartes» — abertura (continua em L3109)"],
+    ["B031", 3109, ["também sucumbiu devido às questões ambientais."], "fecho do verbete"]
+   ],
+   "obs": [
+    "Verbete de duas linhas: é tudo o que a fonte declara sobre esta base. Nada foi acrescentado por inferência.",
+    "Irmãs de série no mesmo glossário: **Antlar** (RC-022), na Antártida, e **Atlans** (RC-029), onde hoje é Portugal."
+   ]
+  },
+  {
+   "cod": "RC-026",
+   "slug": "astralizacao-dos-biodemos",
+   "definicao": "Processo que se iniciou há uns 64.000 anos, pelo qual um total de 207 seres de diversas famílias biodêmicas começaram a migrar as suas consciências para uma nova realidade alternativa — dentre eles Yel Luzbel (Lúcifer) e Len Mion (Satã) —, dimensão que passou a ser chamada Shamb-Aha. Muitos feneceram ao longo das tentativas, restando somente 129 seres dimensionados ou astralizados por volta de uns 25 mil anos atrás; nessa dimensão, os 123 biodemos astralizados encontram os 6 Val dos Corpos Perdidos e harmonizam os padrões da realidade alternativa.",
+   "cit": [
+    ["B031", 3122, ["Astralização dos Biodemos: Processo que se iniciou há uns 64.000"], "verbete — abertura (continua em L3123–L3131)"],
+    ["B031", 3123, ["anos, onde um total de 207 seres de diversas famílias biodemicas"], "meio do verbete — o total de seres envolvidos"],
+    ["B031", 3124, ["começaram a migrar suas consciências para esta nova realidade alternativa,"], "meio do verbete — o mecanismo do processo"],
+    ["B031", 3125, ["dentre eles Yel Luzbel (Lúcifer) e Len Mion (Satã). Essa nova dimensão"], "meio do verbete — os dois nomes centrais"],
+    ["B031", 3127, ["ao longo das tentativas, restando somente 129 seres dimensionados ou"], "meio do verbete — o saldo de 129 seres"]
+   ],
+   "obs": [
+    "**Aritmética da fonte, conferida:** 207 seres iniciam o processo; restam 129; e esses 129 se decompõem em «123 biodemos astralizados» + «6 Val dos Corpos Perdidos» (B031 L3129–L3131). Os números fecham e não há divergência a registrar.",
+    "A dimensão resultante é **Shamb-Aha**, que a obra descreve como Val-Ha depois de os astralizados passarem a lá conviver — ver RC-127."
+   ]
+  },
+  {
+   "cod": "RC-029",
+   "slug": "atlans",
+   "definicao": "Uma das 40 bases luciferianas do «Império Atlante» que também sucumbiu devido às questões ambientais; ficava onde é hoje Portugal.",
+   "cit": [
+    ["B031", 3171, ["Atlans: Uma das 40 bases luciferianas do “Império Atlante” que"], "verbete «Atlans» — abertura (continua em L3172–L3173)"],
+    ["B031", 3172, ["também sucumbiu devido às questões ambientais. Ficava onde é hoje"], "meio do verbete"],
+    ["B031", 3173, ["Portugal."], "fecho do verbete"]
+   ],
+   "obs": [
+    "Irmãs de série no mesmo glossário: **Antlar** (RC-022), na Antártida, e **Antlartes** (RC-023).",
+    "Na mesma região ibérica ficavam também **Portlan e Portlon** (RC-088), bases do Império Atlante que formavam o «complexo interdimensional»."
+   ]
+  },
+  {
+   "cod": "RC-043",
+   "slug": "conselho-dos-cinco",
+   "definicao": "Era o Comando da Frota Norte, composto por 5 membros (3 Val e 2 Yel): Val Amon, Val Eliah, Val Elieh, Yel Am e Yel Luziel.\n\n**Grafia (paridade verbatim absoluta):** a fonte grafa os dois nomes Val de dois modos — «Val Eliah» e «Val Elieh» neste verbete (B031 L3255) e «Val Elliah» / «Val Ellieh» nos verbetes próprios (B031 L3983 e L3986). Cada citação conserva a grafia do trecho de onde foi extraída; a variação **não é normalizada**.",
+   "cit": [
+    ["B031", 3254, ["Conselho dos Cinco: Era o Comando da Frota Norte, composto por 5"], "verbete «Conselho dos Cinco» — abertura (continua em L3255–L3256)"],
+    ["B031", 3255, ["membros (3 Val e 2 Yel): Val Amon, Val Eliah, Val Elieh, Yel Am e Yel"], "relação nominal dos cinco, com a grafia de um só «l»"],
+    ["B031", 3256, ["Luziel."], "fecho do verbete"]
+   ],
+   "obs": [
+    "Os cinco, um a um: **Val Amon** (RC-111), **Val Elliah** (RC-121), **Val Ellieh** (RC-122), **Yel Am** (RC-138) e **Yel Luziel** (RC-143) — todos com ficha a partir dos lotes 4 e 5.",
+    "O Conselho comandava a **Frota Norte**, sediada em **Benem** (RC-032) — fichas materializadas na U44."
+   ]
+  },
+  {
+   "cod": "RC-045",
+   "slug": "daemon",
+   "definicao": "Significa «divindade» ou «espírito». A palavra se originou com os gregos na Antiguidade; o nome em Latim é daemon, que veio a dar origem ao vocábulo «demônio» em Português. Na Antiguidade, a palavra não era tomada à parte má, como nos tempos modernos: não designava exclusivamente seres malfazejos, mas todos os Espíritos em geral, dentre os quais se destacavam os Espíritos Superiores, chamados «Deuses», e os menos elevados, ou Demônios propriamente ditos, que se comunicavam diretamente com os homens.",
+   "cit": [
+    ["B031", 3264, ["Daemon: Significa “divindade” ou “espírito”. A palavra “daemon” se"], "verbete «Daemon» — abertura (continua em L3265–L3275)"],
+    ["B031", 3265, ["originou com os gregos na Antiguidade, no entanto, ao longo da história,"], "meio do verbete — a origem grega"],
+    ["B031", 3267, ["que veio a dar origem ao vocábulo “demônio” em Português. A palavra"], "meio do verbete — a passagem ao português"],
+    ["B031", 3270, ["exclusivamente seres malfazejos, mas sim todos os Espíritos, em geral,"], "meio do verbete — o sentido antigo, não restrito ao mal"],
+    ["B031", 3272, ["“Deuses”, e os menos elevados, ou Demônios propriamente ditos, que se"], "meio do verbete — a distinção entre Deuses e Demônios"]
+   ],
+   "obs": [
+    "O verbete prossegue afirmando que um mesmo daemon pode apresentar-se «bom» ou «mau» conforme as circunstâncias do relacionamento (B031 L3273–L3275) — matéria que excede o recorte desta ficha e fica registrada como existente na fonte.",
+    "Distinguir de **Demônios** (RC-050), entrada autônoma do mesmo glossário."
+   ]
+  },
+  {
+   "cod": "RC-067",
+   "slug": "gron-mion",
+   "definicao": "Planeta do Sistema de Tau Ceti, base da Família Mion; Len Mion era oriundo deste planeta. Segundo a obra, o Sistema de Tau Ceti fica a menos de 11,90 anos-luz do sistema solar.",
+   "cit": [
+    ["B031", 3497, ["Gron Mion:  Planeta do Sistema de Tau Ceti, base da Família Mion."], "verbete «Gron Mion» — sentença íntegra (a fonte grafa DOIS espaços depois dos dois-pontos; a paridade verbatim os conserva)"],
+    ["B031", 3498, ["Len Mion era oriundo deste planeta."], "sentença íntegra de fecho do verbete"],
+    ["B031", 3858, ["planeta Gron Mion, base de Len Mion e da Família Mion."], "reforço no verbete «Tau Ceti» (início em L3856–L3857)"],
+    ["B031", 1712, ["Gron Mion, no Sistema de Tau Ceti."], "reforço no verbete «Família Mion», no corpo da obra (início em L1711)"]
+   ],
+   "obs": [
+    "A **Família Mion** é descrita no corpo da obra como a 199.741ª família criada, há cerca de 690 milhões de anos, cujas naves ficavam no planeta Gron Mion, no Sistema de Tau Ceti (B031 L1710–L1712).",
+    "**Len Mion** (B031 L3555–L3559) é o biodemo rebelde da Família Mion, exilado da Rebelião de Lúcifer, oriundo de Gron Mion."
+   ]
+  },
+  {
+   "cod": "RC-069",
+   "slug": "ion-crom",
+   "definicao": "Biodemo da Família Cromon (ou Crom) — família que, conforme o corpo da obra, foi a 168.332ª a ser criada, há cerca de 710 milhões de anos.",
+   "cit": [
+    ["B031", 3511, ["Ion Crom: Biodemo da Família Cromon (ou Crom)."], "verbete «Ion Crom» — sentença íntegra, única linha que a obra lhe dedica"],
+    ["B031", 1707, ["A Cromon foi a 168.332ª família a ser criada, há cerca de 710 milhões"], "contexto da família, no verbete «Família Cromon» (continua em L1708)"],
+    ["B031", 1708, ["de anos."], "fecho do mesmo verbete"]
+   ],
+   "obs": [
+    "O glossário dedica a Ion Crom **uma única linha**; todo o resto da ficha vem do verbete da família, no corpo da obra (B031 L1706–L1708). Nada foi inferido além disso.",
+    "A Família Cromon figura entre as quatro famílias da rebelião citadas pela obra: Yel, Mion, Cromon e Shanlung (B031 L2717)."
+   ]
+  },
+  {
+   "cod": "RC-082",
+   "slug": "nephilins",
+   "definicao": "Termo derivado do hebraico naphal («ele caiu»), que ocorre duas vezes na Bíblia — Gênesis 6:4 e Números 13:33. A Septuaginta traduziu o termo pela palavra grega que significa, literalmente, «nascido da terra», e as traduções seguintes verteram o termo para «gigantes». Segundo a obra, é o nome bíblico dos Anunnakis — seres extraterrestres do planeta Nibiru, que não são anjos nem deuses, mas foram considerados como tal por «virem do céu» em suas naves.",
+   "cit": [
+    ["B031", 3625, ["Nephilins: Termo derivado do hebraico naphal (“ele caiu”), que"], "verbete «Nephilins» — abertura (continua em L3626–L3631)"],
+    ["B031", 3626, ["ocorre duas vezes na Bíblia, em Gênesis 6:4 e Números"], "meio do verbete — as duas ocorrências bíblicas"],
+    ["B031", 3627, ["13:33. A Septuaginta traduziu o termo pela palavra grega que significa,"], "meio do verbete — a tradução da Septuaginta"],
+    ["B031", 3628, ["literalmente, “nascido da terra”, e as traduções seguintes verteram o termo"], "meio do verbete"],
+    ["B031", 3111, ["Nephilins citados na Bíblia. Não são anjos e nem deuses, mas foram"], "cruzamento no verbete «Anunnakis», que identifica os dois (início em L3110)"]
+   ],
+   "obs": [
+    "A obra associa explicitamente os Nephilins aos **Anunnakis** do planeta Nibiru (B031 L3110–L3112).",
+    "O verbete menciona ainda Erich von Däniken e Zecharia Sitchin como autores cujas referências a gigantes e Anunnakis apontam para os Nephilins (B031 L3629–L3631) — registrado como existente na fonte, sem adopção do juízo."
+   ]
+  },
+  {
+   "cod": "RC-083",
+   "slug": "norte-divino",
+   "definicao": "Eram as terras Hiperbóreas — um local pacífico da Terra onde seres considerados lendários viviam; foi para lá que um grupo de biodemos foi viver junto a eles.",
+   "cit": [
+    ["B031", 3633, ["Norte Divino: Eram as terras Hiperbóreas - um local pacífico da"], "verbete «Norte Divino» — abertura (continua em L3634–L3635)"],
+    ["B031", 3634, ["Terra onde seres por nós considerados lendários viviam. E foi para lá que"], "meio do verbete"],
+    ["B031", 3635, ["um grupo de biodemos foi viver junto a eles."], "fecho do verbete"]
+   ],
+   "obs": [
+    "O verbete «Hiperbórea» (B031 L3500–L3502) confirma a equivalência: terra mítica grega «também chamada de “Norte Divino” na Revelação»."
+   ]
+  },
+  {
+   "cod": "RC-088",
+   "slug": "portlan-e-portlon",
+   "definicao": "Juntamente com Astlan, essas três bases do Império Atlante ficavam na Península Ibérica e formavam o «complexo interdimensional». Após serem destruídas por intempéries, foram reconstruídas por uma linhagem dos «seres dos portais» (a de Poseidon).",
+   "cit": [
+    ["B031", 3675, ["Portlan e Portlon: Juntamente com Astlan, essas 3 bases do Império"], "verbete «Portlan e Portlon» — abertura (continua em L3676–L3678)"],
+    ["B031", 3676, ["Atlante ficavam na Península Ibérica e formavam o “complexo"], "meio do verbete — a localização"],
+    ["B031", 3677, ["interdimensional”. Após serem destruídas por intempéries, foram"], "meio do verbete — a destruição"],
+    ["B031", 3678, ["reconstruídas por uma linhagem dos “seres dos portais” (a de Poseidon)."], "fecho do verbete — a reconstrução"]
+   ],
+   "obs": [
+    "**Atlans** (RC-029), outra base do Império Atlante, ficava onde é hoje Portugal — mesma península."
+   ]
+  },
+  {
+   "cod": "RC-127",
+   "slug": "val-ha",
+   "definicao": "Dimensão ou realidade alternativa onde os 9 Val dos Corpos Perdidos foram parar após fenecerem. Passou a ser chamada Shamb-Aha depois que os 129 seres astralizados passaram a lá também conviver. A obra especula que os nomes de Valhalla (o «Salão dos Mortos» da Mitologia Nórdica) e de Shambhalla (reino mítico oculto na Cordilheira do Himalaia, capital do Reino de Agartha, constituído por 8 cidades etéricas) estejam relacionados com Val-Ha e Shamb-Aha.",
+   "cit": [
+    ["B031", 4005, ["Val-Ha: Dimensão ou realidade alternativa onde os 9 Val dos Corpos"], "verbete «Val-Ha» — abertura (continua em L4006–L4016)"],
+    ["B031", 4006, ["Perdidos foram parar após fenecerem. Val-Ha passou a ser chamado de"], "meio do verbete"],
+    ["B031", 4007, ["Shamb-Aha depois que os 129 seres astralizados passaram a lá também"], "meio do verbete — a mudança de nome"],
+    ["B031", 4008, ["conviver. Especula-se que os nomes de Valhalla (o “Salão dos Mortos” da"], "início da sentença final, partida pelo marca-página de L4011 (continua em L4012)"],
+    ["B031", 4012, ["Mitologia Nórdica) e de Shambhalla (no Budismo Tibetano, é um reino"], "continuação da mesma sentença, já depois do marca-página"],
+    ["B031", 4015, ["constituído por 8 cidades etéricas) estejam relacionados com Val-Ha e"], "fecho da sentença (termina em L4016)"]
+   ],
+   "obs": [
+    "A marca d'água do conversor de ebook (L4011) parte ao meio a última sentença do verbete; as duas metades são citadas em separado, cada uma na sua linha.",
+    "Ver **RC-133** (os 9 Val dos Corpos Perdidos ou Dimensionados) e **RC-026** (Astralização dos Biodemos), materializadas nos lotes 4 e 5, que descrevem o mesmo processo pelo lado dos Val e pelo lado dos biodemos."
+   ]
+  },
+  {
+   "cod": "RC-134",
+   "slug": "viajores",
+   "definicao": "Nome pelo qual os biodemos chamavam os Anunnakis. Na narrativa de B015, «os “viajores” eram uma das poucas raças do universo que haviam conseguido a proeza de ter vivido em mais de três mundos diferentes», sendo por isso motivo de estudos para outras civilizações.",
+   "cit": [
+    ["B031", 4040, ["Viajores: Nome de como os biodemos chamavam os Anunnakis."], "verbete «Viajores» — sentença íntegra"],
+    ["B015", 395, ["Os “viajores” eram uma das poucas raças do universo que haviam"], "reforço narrativo em B015 (continua em L396–L400)"],
+    ["B015", 396, ["conseguido a proeza de ter vivido em mais de três mundos diferentes, sendo,"], "meio da mesma sentença"]
+   ],
+   "obs": [
+    "B015 — obra também declarada no cadastro — intitula o seu primeiro capítulo «Primeiro Contato com os “Viajores”» (B015 L16 e L273)."
+   ]
+  },
+  {
+   "cod": "RC-144",
+   "slug": "zeitgeist",
+   "definicao": "Termo alemão cuja tradução significa o «espírito de cada época», espírito do tempo ou sinal dos tempos. Significa, em suma, o conjunto do clima intelectual e cultural do mundo numa certa época, ou as características genéricas de um determinado período de tempo.",
+   "cit": [
+    ["B031", 4088, ["Zeitgeist: É um termo alemão cuja tradução significa o “espírito de"], "verbete «Zeitgeist» — abertura (continua em L4089–L4091)"],
+    ["B031", 4089, ["cada época”, espírito do tempo ou sinal dos tempos. O Zeitgeist significa,"], "meio do verbete"],
+    ["B031", 4090, ["em suma, o conjunto do clima intelectual e cultural do mundo, numa certa"], "meio do verbete"],
+    ["B031", 4091, ["época, ou as características genéricas de um determinado período de tempo."], "fecho do verbete"]
+   ],
+   "obs": [
+    "Entrada de vocabulário geral (o termo não é próprio da Revelação Cósmica); a ficha registra apenas o sentido que a obra lhe dá."
+   ]
+  }
+ ]
+}

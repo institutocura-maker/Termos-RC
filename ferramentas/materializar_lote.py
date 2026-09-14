@@ -168,7 +168,7 @@ def corpo(f: dict, termo: tuple, lote: dict) -> str:
     n_arestas = sum(1 for a, _t, b, _f in _d.RELACOES if f["cod"] in (a, b))
     tab = tabela_relacionados(f["cod"])
     n_tab = max(0, tab.count("\n") - 1)
-    return "\n".join([
+    secoes = [
         f"# {termo[1]} — {f['cod']}",
         "",
         "## Definição Sintética",
@@ -207,8 +207,14 @@ def corpo(f: dict, termo: tuple, lote: dict) -> str:
         "\n".join("- " + o for o in f["obs"]),
         f"- {nota_hardwrap(lote)}",
         f"- {nota_chancela(lote)}",
-        "",
-    ])
+    ]
+    if f.get("historico"):
+        # Gaveta instituída pelo despacho DESPACHO-DIVERGENCIAS-CROSSREF-E-GRAFIA:
+        # para que contradição da FONTE não seja lida como erro de extração.
+        secoes += ["", "## 6. Histórico Curatorial e Auditoria", "",
+                   "\n".join("- " + h for h in f["historico"])]
+    secoes.append("")
+    return "\n".join(secoes)
 
 
 # ─────────────────── guardas da presunção de V (DESPACHO-V-POR-FONTE-DE-LIVRO)

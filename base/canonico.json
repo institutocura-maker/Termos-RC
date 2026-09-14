@@ -805,7 +805,7 @@
     "RC-030",
     "RC-079"
    ],
-   "ficha": false,
+   "ficha": true,
    "via": "P6-evidência",
    "confianca_fonte": "média"
   },
@@ -823,7 +823,7 @@
     "RC-010",
     "RC-022"
    ],
-   "ficha": false,
+   "ficha": true,
    "via": "P6-evidência",
    "confianca_fonte": "média"
   },
@@ -907,7 +907,7 @@
     "RC-142",
     "RC-074"
    ],
-   "ficha": false,
+   "ficha": true,
    "via": "P6-evidência",
    "confianca_fonte": "média"
   },
@@ -969,7 +969,7 @@
     "RC-010",
     "RC-028"
    ],
-   "ficha": false,
+   "ficha": true,
    "via": "P6-evidência",
    "confianca_fonte": "média"
   },
@@ -1415,7 +1415,7 @@
     "RC-138",
     "RC-143"
    ],
-   "ficha": false,
+   "ficha": true,
    "via": "P6-evidência",
    "confianca_fonte": "média"
   },
@@ -1453,7 +1453,7 @@
     "RC-050",
     "RC-053"
    ],
-   "ficha": false,
+   "ficha": true,
    "via": "P6-evidência",
    "confianca_fonte": "média"
   },
@@ -2015,7 +2015,7 @@
     "RC-074",
     "RC-136"
    ],
-   "ficha": false,
+   "ficha": true,
    "via": "P6-evidência",
    "confianca_fonte": "média"
   },
@@ -2065,7 +2065,7 @@
     "RC-136",
     "RC-018"
    ],
-   "ficha": false,
+   "ficha": true,
    "via": "P6-evidência",
    "confianca_fonte": "média"
   },
@@ -2508,7 +2508,7 @@
     "RC-096",
     "RC-134"
    ],
-   "ficha": false,
+   "ficha": true,
    "via": "P6-evidência",
    "confianca_fonte": "média"
   },
@@ -2525,7 +2525,7 @@
     "RC-068",
     "RC-120"
    ],
-   "ficha": false,
+   "ficha": true,
    "via": "P6-evidência",
    "confianca_fonte": "média"
   },
@@ -2671,7 +2671,7 @@
     "RC-010",
     "RC-047"
    ],
-   "ficha": false,
+   "ficha": true,
    "via": "P6-evidência",
    "confianca_fonte": "média"
   },
@@ -3760,7 +3760,7 @@
     "RC-133",
     "RC-115"
    ],
-   "ficha": false,
+   "ficha": true,
    "via": "P6-evidência",
    "confianca_fonte": "média"
   },
@@ -3894,7 +3894,7 @@
     "RC-024",
     "RC-082"
    ],
-   "ficha": false,
+   "ficha": true,
    "via": "P6-evidência",
    "confianca_fonte": "média"
   },
@@ -4138,7 +4138,7 @@
    "relacionados": [
     "RC-094"
    ],
-   "ficha": false,
+   "ficha": true,
    "via": "P6-evidência",
    "confianca_fonte": "média"
   },
