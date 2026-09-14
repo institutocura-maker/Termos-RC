@@ -6284,7 +6284,7 @@
     "RC-186",
     "RC-036"
    ],
-   "ficha": false,
+   "ficha": true,
    "via": "P6-evidência",
    "confianca_fonte": "média"
   },

@@ -232,7 +232,7 @@
 | RC-224 | Prevalece o Amor | Conceitos Cosmológicos | 2.6 Ética / Carma / Compromissos | 🟡 | B002, P2025-03-15 | RC-052; RC-072; RC-094; RC-223 | — |
 | RC-225 | Gestão Cósmica | Conceitos Cosmológicos | 2.2 Leis e princípios cósmicos | 🟢 | B033 | RC-104; RC-001; RC-072; RC-171; RC-570 | [✔](termos/RC-225-gestao-cosmica.md) |
 | RC-226 | Cidadão Cósmico | Conceitos Cosmológicos | 2.5 Propósitos / Destinos | 🟢 | B033, B027, B042 | RC-003; RC-070; RC-094; RC-099; RC-231; RC-490; RC-566 | [✔](termos/RC-226-cidadao-cosmico.md) |
-| RC-227 | Opção Terra | Eventos & Eras | 7.5 Missões / Expedições / Encontros | 🟡 | B033 | RC-107; RC-090; RC-091; RC-228 | — |
+| RC-227 | Opção Terra | Eventos & Eras | 7.5 Missões / Expedições / Encontros | 🟡 | B033 | RC-107; RC-090; RC-091; RC-228 | [✔](termos/RC-227-opcao-terra-estrategia-necessaria.md) |
 | RC-228 | Observação de Sileno (Filhos do Tormento e do Acaso) | Conceitos Cosmológicos | 2.5 Propósitos / Destinos | 🟢 | B033, P2017-10-14 | RC-099; RC-094; RC-227 | [✔](termos/RC-228-observacao-de-sileno-filhos-do-tormento-e-do-acaso.md) |
 | RC-229 | A Lógica de Javé e a Origem da Humanidade | Conceitos Cosmológicos | 2.1 Cosmogonia / Criação | 🟡 | B033 | RC-001; RC-099; RC-014 | — |
 | RC-230 | Reflexos da Doença (Herança do DNA) | Conceitos Cosmológicos | 2.6 Ética / Carma / Compromissos | 🟢 | B033, P2012-02-19, P2025-06-14 | RC-217; RC-099; RC-040 | [✔](termos/RC-230-reflexos-da-doenca-heranca-do-dna.md) |

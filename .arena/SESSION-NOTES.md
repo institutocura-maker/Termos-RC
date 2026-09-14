@@ -3057,3 +3057,27 @@ certeza do autor, não o termo. A ficha NÃO resolve a autoria.
 **30** (10 activos + 20 congelados) · cadastro 572🟢 inalterado.
 
 **Próximo:** RC-233 → B017.
+
+
+## U68 — R1 · lote 25: a B017 (RC-233 «Marca Val»)
+
+**Despacho do Curador:** lote 25 = B017; Via (a) mantida; **nova diretriz**:
+verificação do HEAD também no encerramento, antes do push (duplo cinturão).
+
+**1 ficha, 7 fragmentos, 0 falhas na primeira passada.** RC-233 Marca Val (A
+Estratégia do Possível). **B017 1→0.**
+
+**A explicação estava no FECHO do capítulo:** os blocos do censo traziam a
+abertura (descoberta genética sobre os nephelim); a «lógica do possível»
+introduzida por Val El só aparece em L3362-L3374. Quarto uso do §6.
+
+**A abstenção:** a obra não diz «a marca dos Val é a lógica do possível». O
+nexo vem do desenvolvimento do capítulo, e é registrado como tal.
+
+**Nota de governança:** falso alarme na checagem — o fetch falhara e eu
+suprimiras o erro. Correcção de método: nunca mais suprimir erros do fetch.
+
+**Números:** 810 → **811 fichas** · GAP 136 → **135** · família B v3 30 →
+**29** (9 activos + 20 congelados) · cadastro 572🟢 inalterado.
+
+**Próximo:** RC-234 → B018.
