@@ -312,8 +312,8 @@
     "A Família Val é descrita no mesmo glossário como composta por 736 membros, «urgidos» há aproximadamente 230 milhões de anos no Sistema de Capela — B031 L3890–L3894."
    ],
    "historico": [
-    "**[⚠️ DIVERGÊNCIA INTERNA DA FONTE]** — O verbete «Val Bon» (B031 L3926–L3929) atribui a migração de consciência que termina em **Astréia** a Val Dimon, e não a Val Bon; o verbete «Val Dimon» (B031 L3939–L3941) atribui a Val Dimon o renascimento como **Pandora**. As duas afirmações não se conciliam e **não foram conciliadas por esta Base**: a contradição pertence à obra original (B031), não a um erro de extração. O mesmo cruzamento está registrado, pelo outro lado, na gaveta homônima de **RC-118 (Val Dimon)**.",
-    "Registro lavrado em 13/09/2026 por despacho do Curador (`diagnostico/DESPACHO-DIVERGENCIAS-CROSSREF-E-GRAFIA-2026-09-13.md`), que determina manter a divergência verbatim em ambas as fichas e etiquetá-la, para que o leitor humano ou o LLM não a tome por falha do instrumento."
+    "- **[⚠️ DIVERGÊNCIA INTERNA DA FONTE]** — O verbete «Val Bon» (B031 L3926–L3929) atribui a migração de consciência que termina em **Astréia** a Val Dimon, e não a Val Bon; o verbete «Val Dimon» (B031 L3939–L3941) atribui a Val Dimon o renascimento como **Pandora**. As duas afirmações não se conciliam e **não foram conciliadas por esta Base**: a contradição pertence à obra original (B031), não a um erro de extração. O mesmo cruzamento está registrado, pelo outro lado, na gaveta homônima de **RC-118 (Val Dimon)**.",
+    "- Registro lavrado em 13/09/2026 por despacho do Curador (`diagnostico/DESPACHO-DIVERGENCIAS-CROSSREF-E-GRAFIA-2026-09-13.md`), que determina manter a divergência verbatim em ambas as fichas e etiquetá-la, para que o leitor humano ou o LLM não a tome por falha do instrumento."
    ]
   },
   {
@@ -835,8 +835,8 @@
     "A Família Yel é descrita no mesmo glossário como composta por 5.420 membros, criados há aproximadamente 492 milhões de anos no Sistema de Capela, com base no planeta Dan — B031 L4052–L4057."
    ],
    "historico": [
-    "**Cross-reference (despacho de 13/09/2026):** RC-138 e RC-140 **não se fundem**. Ambos os códigos são preservados porque representam estados ontológicos e temporais distintos do mesmo biodemo: RC-138 = **Yel Am**, antes da fusão do código genético com Val El; RC-140 = **Yel Liam**, depois dela. **Evolução: RC-138 → RC-140.**",
-    "Registro lavrado por despacho do Curador (`diagnostico/DESPACHO-DIVERGENCIAS-CROSSREF-E-GRAFIA-2026-09-13.md`). Nenhuma aresta foi criada em `relacoes/`: a conexão é feita no corpo das fichas, por remissiva textual."
+    "- **Cross-reference (despacho de 13/09/2026):** RC-138 e RC-140 **não se fundem**. Ambos os códigos são preservados porque representam estados ontológicos e temporais distintos do mesmo biodemo: RC-138 = **Yel Am**, antes da fusão do código genético com Val El; RC-140 = **Yel Liam**, depois dela. **Evolução: RC-138 → RC-140.**",
+    "- Registro lavrado por despacho do Curador (`diagnostico/DESPACHO-DIVERGENCIAS-CROSSREF-E-GRAFIA-2026-09-13.md`). Nenhuma aresta foi criada em `relacoes/`: a conexão é feita no corpo das fichas, por remissiva textual."
    ]
   },
   {
@@ -900,8 +900,8 @@
     "A Família Yel é descrita no mesmo glossário como composta por 5.420 membros, criados há aproximadamente 492 milhões de anos no Sistema de Capela, com base no planeta Dan — B031 L4052–L4057."
    ],
    "historico": [
-    "**Cross-reference (despacho de 13/09/2026):** RC-140 e RC-138 **não se fundem**. Ambos os códigos são preservados porque representam estados ontológicos e temporais distintos do mesmo biodemo: RC-140 = **Yel Liam**, depois da fusão do código genético com Val El; RC-138 = **Yel Am**, antes dela. **Origem: RC-140 ← RC-138.**",
-    "Registro lavrado por despacho do Curador (`diagnostico/DESPACHO-DIVERGENCIAS-CROSSREF-E-GRAFIA-2026-09-13.md`). Nenhuma aresta foi criada em `relacoes/`: a conexão é feita no corpo das fichas, por remissiva textual."
+    "- **Cross-reference (despacho de 13/09/2026):** RC-140 e RC-138 **não se fundem**. Ambos os códigos são preservados porque representam estados ontológicos e temporais distintos do mesmo biodemo: RC-140 = **Yel Liam**, depois da fusão do código genético com Val El; RC-138 = **Yel Am**, antes dela. **Origem: RC-140 ← RC-138.**",
+    "- Registro lavrado por despacho do Curador (`diagnostico/DESPACHO-DIVERGENCIAS-CROSSREF-E-GRAFIA-2026-09-13.md`). Nenhuma aresta foi criada em `relacoes/`: a conexão é feita no corpo das fichas, por remissiva textual."
    ]
   },
   {

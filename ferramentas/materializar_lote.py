@@ -212,7 +212,9 @@ def corpo(f: dict, termo: tuple, lote: dict) -> str:
         # Gaveta instituída pelo despacho DESPACHO-DIVERGENCIAS-CROSSREF-E-GRAFIA:
         # para que contradição da FONTE não seja lida como erro de extração.
         secoes += ["", "## 6. Histórico Curatorial e Auditoria", "",
-                   "\n".join("- " + h for h in f["historico"])]
+                   # renderização NEUTRA: o lote diz como quer o texto
+                   # (parágrafos, tabelas, listas). O driver não decide.
+                   "\n".join(f["historico"])]
     secoes.append("")
     return "\n".join(secoes)
 
@@ -239,11 +241,15 @@ def checar_excecoes(cods: list[str], lote: dict) -> list[str]:
             campos = ln.rstrip("\r\n").split(";")
             if campos and campos[0].strip() in T and "DESFECHO" not in ln:
                 hold.add(campos[0].strip())
-    # Censo v2 primeiro: o v1 submedia a família E em ~70% (falso negativo do
-    # hard-wrap) e a guarda E3 barraria códigos que são família B de verdade —
-    # foi o caso da RC-171, que motivou a unidade U45.
+    # Censo v3 primeiro (HOMOLOGADO pelo Curador em 13/09/2026, U51): ele
+    # acrescenta à v2 o colapso da caixa alta espaçada (regra que resgatou a
+    # RC-309 de D para B sem produzir um falso positivo sequer). A v2 vem a
+    # seguir e a v1 por último — o v1 submedia a família E em ~70% (falso
+    # negativo do hard-wrap) e a guarda E3 barraria códigos que são família B
+    # de verdade — foi o caso da RC-171, que motivou a unidade U45.
     fam = {}
-    for nome in ("CENSO-RECLASSIFICADO-2026-09-13.json",
+    for nome in ("CENSO-V3-ESPACADAS-2026-09-13.json",
+                 "CENSO-RECLASSIFICADO-2026-09-13.json",
                  "CENSO-GAP-FICHAS-2026-09-13.json"):
         censo = _os.path.join(RAIZ, "diagnostico", nome)
         if _os.path.exists(censo):
@@ -287,13 +293,18 @@ def virar_cadastro(codes: list[str], aplicar_v: bool = False) -> int:
                 continue
             # a linha pode carregar comentario de rastro depois de `False),` — ancorar na tupla
             cabeca, sep, cauda = l.partition(", False),")
-            assert sep, f"{cod}: linha nao casa com o padrao da tupla — {l!r}"
+            if not sep:
+                # Já virado (`True`): IDEMPOTÊNCIA. Re-executar um lote é o
+                # ritual de prova de regeneração — as fichas têm de voltar
+                # byte a byte. Só a virada do cadastro é que já está feita.
+                cabeca, sep, cauda = l.partition(", True),")
+                if not sep:
+                    raise AssertionError(
+                        f"{cod}: linha nao casa com o padrao da tupla — {l!r}")
             corpo, resto = cabeca, cauda
-            if aplicar_v:
-                assert ", P, [" in corpo, f"{cod}: esperava status P (provisório) — {l!r}"
+            if aplicar_v and ", P, [" in corpo:
                 corpo = corpo.replace(", P, [", ', "verificado", [', 1)
             novo = corpo + ", True)," + resto
-            assert novo != l, f"{cod}: substituição não pegou — {l!r}"
             linhas_arq[i] = novo
             feitos.append(cod)
             break
@@ -306,9 +317,11 @@ def virar_cadastro(codes: list[str], aplicar_v: bool = False) -> int:
 # ───────────────────────────────────────────────────────────────────────── main
 def main() -> int:
     if len(sys.argv) < 2:
-        sys.exit("uso: materializar_lote.py <lote.json> [--dry]")
+        sys.exit("uso: materializar_lote.py <lote.json> [--dry] "
+                 "[--sobrescrever]")
     lote = json.load(open(sys.argv[1], encoding="utf-8"))
     dry = "--dry" in sys.argv
+    sobrescrever = "--sobrescrever" in sys.argv
     print(f"{lote['unidade']} · lote {lote['lote']} da rota {lote.get('rota','R1')} · "
           f"{len(lote['fichas'])} fichas — conferência byte a byte (portão B)")
     for f in lote["fichas"]:
@@ -339,7 +352,20 @@ def main() -> int:
         assert t[4] == ("verificado" if aplicar_v else "provisório"), f"{f['cod']}: status inesperado {t[4]!r}"
         texto = _m.fm_toml(t, lote["data"]) + corpo(f, t, lote)
         arq = os.path.join(RAIZ, "termos", f"{f['cod']}-{f['slug']}.md")
-        assert not os.path.exists(arq), f"já existe: {arq}"
+        if os.path.exists(arq):
+            # Só com --sobrescrever. É o ritual da PROVA DE REGENERAÇÃO: o JSON
+            # do lote é a fonte da verdade e tem de voltar a gerar a ficha
+            # byte a byte (despacho de 13/09/2026, U48).
+            assert sobrescrever, (
+                f"já existe: {arq} — use --sobrescrever para regerar pelo lote")
+            _antigo = open(arq, encoding="utf-8").read()
+            if _antigo == texto:
+                print(f"  = termos/RC-{os.path.basename(arq)}: idêntico (nada a reescrever)")
+                continue
+            _salvo = arq + ".bak-u51"
+            open(_salvo, "w", encoding="utf-8").write(_antigo)
+            print(f"  ~ {os.path.basename(arq)}: REGERADO (cópia em "
+                  f"{os.path.basename(_salvo)})")
         open(arq, "w", encoding="utf-8").write(texto)
         print(f"  ficha: termos/{os.path.basename(arq)} · {len(texto):,} B")
     print(f"\n{lote['unidade']}: {len(lote['fichas'])} fichas materializadas.")

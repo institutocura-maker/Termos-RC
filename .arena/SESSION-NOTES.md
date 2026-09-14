@@ -2610,3 +2610,38 @@ palavras, divergência de grafia dentro da própria obra em RC-213
 
 **Números:** 754 → **762 fichas** · GAP 192 → **184** · família B v3 86 →
 **78 restantes** · cadastro 572🟢 inalterado.
+
+
+## U51 — DOIS ATOS: censo v3 homologado (guarda E3) + R1 lote 8 (B005)
+
+**Despacho do Curador:** censo v3 HOMOLOGADO como referência, inclusive para a
+guarda E3; RC-309 sai da R3, entra no poço da R1 e **não** deve ser processada
+agora (aguarda o lote natural da B022); lote 8 APROVADO (os 6 da B005); R3/R4
+congelados.
+
+**ATO A.** Guarda E3 passa a ler v3 → v2 → v1. A v2 não foi apagada (é
+reproduzível por `--sem-espacadas`). Despacho lavrado em
+`DESPACHO-CENSO-V3-HOMOLOGADO-2026-09-13.md`. RC-309 intocada.
+
+**Três reparos no driver, achados ao materializar uma gaveta com tabela:**
+(1) renderização neutra da gaveta (era sempre lista «- »); (2) idempotência
+(re-executar lote já materializado abortava); (3) `--sobrescrever`
+(impedia a prova de regeneração). **Prova:** o lote 4 inteiro foi re-executado
+— 25/25 fichas idênticas ao HEAD; o JSON mudou (3 gavetas ganharam «- »
+explícito), nenhuma ficha mudou.
+
+**DÍVIDA:** a gaveta de RC-118 foi feita à mão na U48 (RC-118 não está em
+nenhum lote — é anterior ao driver). Não é regenerável por lote.
+
+**ATO B — lote 8 (B005, Fator Extraterrestre 2004).** 6 fichas, 39 fragmentos,
+0 falhas. B005 6→0. Nova divergência interna em RC-362: Índice «Terrenos»
+(L30) × corpo «TERRESTRES» (L2959) — gaveta 6, sem normalização. RC-364
+declara também B042 (só 5 dos 6 são exclusivos) — nuance assinalada.
+
+**Números:** 762 → **768 fichas** · GAP 184 → **178** · família B v3 78 →
+**72 restantes** · cadastro 572🟢 inalterado.
+
+**INCIDENTE (2ª vez):** o sandbox perdeu os objetos do git — HEAD voltou ao
+U40. Receita da U48 aplicada com sucesso: refspec add → fetch →
+`reset --mixed FETCH_HEAD` → restauro do `.arena/SESSION-NOTES.md` → reanexo
+do bloco. Nenhum conteúdo perdido; só os objetos.

@@ -210,17 +210,17 @@
 | RC-202 | Linhagens Preferenciais do Criador | Genealogias & Linhagens | 6.2 Linhagens humanas | ⚪ | B035, P2024-09-29 | RC-001; RC-194; RC-189 | — |
 | RC-203 | Fenômenos Denunciadores do Fim | Eventos & Eras | 7.3 Profecias / Anúncios | ⚪ | B035, P2025-03-15 | RC-314 | — |
 | RC-204 | Realidade Maior / Paraíso Original | Conceitos Cosmológicos | 2.3 Dimensões / Planos de existência | 🟠 | B001, P2021-12-04, P2026-07-30, P2024-05-04, P2025-02-16, P2025-02-15, P2024-11-30, P2024-11-09, P2023-12-03 | RC-047; RC-052; RC-205; RC-059; RC-600; RC-603; RC-606; RC-623; RC-624; RC-625 | [✔](termos/RC-204-realidade-maior-paraiso-original.md) |
-| RC-205 | Pai Supremo (Amantíssimo) | Seres & Entidades | 1.1 Divindades / Criadores | 🟡 | B001, P2025-02-16, P2025-02-15, P2024-11-30, P2024-11-09 | RC-047; RC-052; RC-204; RC-206; RC-723 | — |
-| RC-206 | Divindades Excelsas | Seres & Entidades | 1.1 Divindades / Criadores | 🟡 | B001 | RC-205; RC-047; RC-054 | — |
+| RC-205 | Pai Supremo (Amantíssimo) | Seres & Entidades | 1.1 Divindades / Criadores | 🟡 | B001, P2025-02-16, P2025-02-15, P2024-11-30, P2024-11-09 | RC-047; RC-052; RC-204; RC-206; RC-723 | [✔](termos/RC-205-pai-supremo-amantissimo.md) |
+| RC-206 | Divindades Excelsas | Seres & Entidades | 1.1 Divindades / Criadores | 🟡 | B001 | RC-205; RC-047; RC-054 | [✔](termos/RC-206-divindades-excelsas.md) |
 | RC-207 | Arquiteto Universal | Seres & Entidades | 1.1 Divindades / Criadores | 🟢 | B001, B002, B019 | RC-001; RC-041; RC-054; RC-152; RC-208; RC-210 | [✔](termos/RC-207-arquiteto-universal.md) |
-| RC-208 | Criador de Padrões Dependentes | Conceitos Cosmológicos | 2.2 Leis e princípios cósmicos | 🟡 | B001, B002, P2024-05-04 | RC-041; RC-207; RC-209; RC-210 | — |
-| RC-209 | Vida de Padrão Dependente | Conceitos Cosmológicos | 2.2 Leis e princípios cósmicos | 🟡 | B001, B002, P2024-05-04 | RC-208; RC-167; RC-036 | — |
+| RC-208 | Criador de Padrões Dependentes | Conceitos Cosmológicos | 2.2 Leis e princípios cósmicos | 🟡 | B001, B002, P2024-05-04 | RC-041; RC-207; RC-209; RC-210 | [✔](termos/RC-208-criador-de-padroes-dependentes.md) |
+| RC-209 | Vida de Padrão Dependente | Conceitos Cosmológicos | 2.2 Leis e princípios cósmicos | 🟡 | B001, B002, P2024-05-04 | RC-208; RC-167; RC-036 | [✔](termos/RC-209-vida-de-padrao-dependente.md) |
 | RC-210 | Matriz Modeladora / Matriz de Cocriação | Conceitos Cosmológicos | 2.1 Cosmogonia / Criação | 🟢 | B001, B015, P2024-05-04 | RC-047; RC-167; RC-204; RC-207; RC-208; RC-211; RC-628 | [✔](termos/RC-210-matriz-modeladora-matriz-de-cocriacao.md) |
 | RC-211 | Kundalini (no contexto RC) | Conceitos Cosmológicos | 2.4 Espiritualidade / Doutrina | 🟢 | B001, B074, B075, P2024-05-04, P2023-07-05, P2024-11-03 | RC-210; RC-149 | [✔](termos/RC-211-kundalini.md) |
-| RC-212 | O Grande Dia do Senhor Javé | Eventos & Eras | 7.3 Profecias / Anúncios | 🟡 | B001 | RC-005; RC-001; RC-009 | — |
-| RC-213 | Centro de Comando Paralelo | Lokas & Geografias | 3.4 Regiões cósmicas / Portais | 🟡 | B001 | RC-106; RC-001; RC-019 | — |
-| RC-214 | Agente do Mais Alto | Seres & Entidades | 1.8 Consciências coletivas / Logos | 🟡 | B001, B011, B042 | RC-072; RC-059; RC-215 | — |
-| RC-215 | Emissários da Espiritualidade Maior | Seres & Entidades | 1.8 Consciências coletivas / Logos | 🟡 | B001, B042 | RC-059; RC-214; RC-100 | — |
+| RC-212 | O Grande Dia do Senhor Javé | Eventos & Eras | 7.3 Profecias / Anúncios | 🟡 | B001 | RC-005; RC-001; RC-009 | [✔](termos/RC-212-o-grande-dia-do-senhor-jave.md) |
+| RC-213 | Centro de Comando Paralelo | Lokas & Geografias | 3.4 Regiões cósmicas / Portais | 🟡 | B001 | RC-106; RC-001; RC-019 | [✔](termos/RC-213-centro-de-comando-paralelo.md) |
+| RC-214 | Agente do Mais Alto | Seres & Entidades | 1.8 Consciências coletivas / Logos | 🟡 | B001, B011, B042 | RC-072; RC-059; RC-215 | [✔](termos/RC-214-agente-do-mais-alto.md) |
+| RC-215 | Emissários da Espiritualidade Maior | Seres & Entidades | 1.8 Consciências coletivas / Logos | 🟡 | B001, B042 | RC-059; RC-214; RC-100 | [✔](termos/RC-215-emissarios-da-espiritualidade-maior.md) |
 | RC-216 | Queda do Arquiteto Universal | Eventos & Eras | 7.4 Catástrofes / Dilúvios / Quedas | 🟡 | B002, B019 | RC-207; RC-167; RC-041; RC-001 | — |
 | RC-217 | DNA como Projeção Holográfica do Psiquismo do Criador | Conceitos Cosmológicos | 2.2 Leis e princípios cósmicos | 🟢 | B002, B034, B040, B052, B019, B074, B075, P2022-12-17, P2021-12-04, P2026-07-30, P2024-05-04, P2026-04-02, P2025-03-15, P2025-02-16, P2025-02-15, P2024-11-30, P2024-11-09, P2024-09-29, P2024-07-13, P2024-11-03, P2025-02-22, P2023-12-03, P2024-06-16, P2021-02-28 | RC-040; RC-041; RC-218; RC-223; RC-619; RC-632; RC-646; RC-696; RC-698; RC-704; RC-710; RC-713; RC-715; RC-716; RC-719 | [✔](termos/RC-217-dna-como-projecao-holografica-do-psiquismo-do-criador.md) |
 | RC-218 | Holograma Universal | Conceitos Cosmológicos | 2.2 Leis e princípios cósmicos | 🟢 | B002, P2025-02-15, P2024-11-30, P2023-07-30, P2025-06-14 | RC-217; RC-219; RC-106; RC-707; RC-708 | [✔](termos/RC-218-holograma-universal.md) |

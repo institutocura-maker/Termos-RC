@@ -480,15 +480,15 @@ TERMOS = [
 
     # ---- Novos termos de B005 (obra primária: Fator Extraterrestre, 2004)
     ("RC-355", "Fator Extraterrestre (o Elo Perdido)", COS_PRO[0], COS_PRO[1], "verificado", ["B005", "B042"], "RC-020; RC-094; RC-098; RC-099; RC-357; RC-359", True),
-    ("RC-356", "Fonte da Vida (metáfora da ilha/oceano)", COS_COG[0], COS_COG[1], P, ["B005"], "RC-148; RC-107; RC-094; RC-033", False),
+    ("RC-356", "Fonte da Vida (metáfora da ilha/oceano)", COS_COG[0], COS_COG[1], P, ["B005"], "RC-148; RC-107; RC-094; RC-033", True),
     ("RC-357", "Confederações de Mundos", GEN_EXT[0], GEN_EXT[1], "verificado", ["B005"], "RC-003; RC-059; RC-094; RC-098; RC-107; RC-355", True),
-    ("RC-358", "Terra de Ninguém (cósmica)", LOK_REG[0], LOK_REG[1], P, ["B005"], "RC-357; RC-070; RC-094; RC-099", False),
+    ("RC-358", "Terra de Ninguém (cósmica)", LOK_REG[0], LOK_REG[1], P, ["B005"], "RC-357; RC-070; RC-094; RC-099", True),
     ("RC-359", "Abduções e Reparo Espiritual", PRO_ESP[0], PRO_ESP[1], "verificado", ['B005', 'P2025-02-16'], 'RC-094; RC-098; RC-099; RC-355; RC-698', True),
     ("RC-360", "Atmosferizar a Lua ou Marte (Opção Final)", EVE_MIS[0], EVE_MIS[1], P, ["B005"], "RC-094; RC-099; RC-107", False),
-    ("RC-361", "Antropocentrismo (crítica)", COS_ETI[0], COS_ETI[1], P, ["B005"], "RC-099; RC-094; RC-231", False),
-    ("RC-362", "Apego aos Conceitos Terrenos", COS_ETI[0], COS_ETI[1], P, ["B005"], "RC-099; RC-094; RC-361; RC-253", False),
-    ("RC-363", "Ótica e Ética Cósmicas", COS_ETI[0], COS_ETI[1], P, ["B005"], "RC-094; RC-099; RC-253", False),
-    ("RC-364", "A Missão do Mestre", EVE_MIS[0], EVE_MIS[1], P, ["B005", "B042"], "RC-072; RC-094; RC-005", False),
+    ("RC-361", "Antropocentrismo (crítica)", COS_ETI[0], COS_ETI[1], P, ["B005"], "RC-099; RC-094; RC-231", True),
+    ("RC-362", "Apego aos Conceitos Terrenos", COS_ETI[0], COS_ETI[1], P, ["B005"], "RC-099; RC-094; RC-361; RC-253", True),
+    ("RC-363", "Ótica e Ética Cósmicas", COS_ETI[0], COS_ETI[1], P, ["B005"], "RC-094; RC-099; RC-253", True),
+    ("RC-364", "A Missão do Mestre", EVE_MIS[0], EVE_MIS[1], P, ["B005", "B042"], "RC-072; RC-094; RC-005", True),
 
     # ---- Novos termos das OBRAS SOBRE JESUS (B011 Transfiguração, B049 Nietzsche, B043 Druida)
     ("RC-365", "O Fator Judas", EVE_MIS[0], EVE_MIS[1], "verificado", ['B011', 'P2026-04-02', 'P2025-10-25', "P2018-12-16", "P2025-05-10", "P2022-11-20"], "RC-072; RC-094; RC-138; RC-236; RC-366; RC-647", True),

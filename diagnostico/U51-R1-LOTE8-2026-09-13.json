@@ -1,0 +1,403 @@
+{
+ "unidade": "U51",
+ "lote": 8,
+ "data": "2026-09-13",
+ "rota": "R1",
+ "criterio": "família B do censo v3 (HOMOLOGADO pelo Curador em U51) — bloco dos 6 códigos que declaram a B005 (Fator Extraterrestre), por despacho do Curador (critério preferencial: liquidar agrupamentos de uma mesma fonte de um só golpe)",
+ "v_revogado": true,
+ "nota_hardwrap": "**Fratura de hard-wrap:** a edição digital das fontes quebra as sentenças em linhas curtas. Cada fragmento entre «» é verbatim **intra-linha**, conferido byte a byte contra o `original.txt` da obra declarada; quando uma sentença foi partida, as suas partes aparecem como fragmentos distintos, com as linhas indicadas. Nesta obra, cinco dos seis verbetes são **títulos de capítulo**, grafados em caixa alta no corpo e em caixa normal no Índice — as duas posições são citadas, sem normalização.",
+ "fichas": [
+  {
+   "cod": "RC-356",
+   "slug": "fonte-da-vida-metafora-da-ilha-oceano",
+   "definicao": "Título do capítulo 1 de B005 (*Fator Extraterrestre*, 2004). A obra desenvolve-o por meio de uma parábola: imagine-se um planeta formado apenas por água, sem nenhum continente, «somente com uma pequena ilha a quebrar a monotonia dos mares». Nessa ilha, com a evolução das eras geológicas, a vida aparece em abundância. O viajante sideral que observasse o planeta «de cima» — a vastidão oceânica e a ilhota com alguns seres —, acurando a observação, «perceberia que o oceano é prenhe de vida, e facilmente concluiria que a vida na ilhota surgiu por influência das vagas oceânicas».",
+   "cit": [
+    [
+     "B005",
+     19,
+     [
+      "13...................... Fonte da Vida"
+     ],
+     "entrada do Índice"
+    ],
+    [
+     "B005",
+     158,
+     [
+      "1. FONTE DA VIDA"
+     ],
+     "título do capítulo no corpo"
+    ],
+    [
+     "B005",
+     159,
+     [
+      "Imaginemos um Planeta que fosse formado apenas por água, sem nenhum"
+     ],
+     "abertura da parábola (continua em L160–L162)"
+    ],
+    [
+     "B005",
+     160,
+     [
+      "continente, somente com uma pequena ilha a quebrar a monotonia dos"
+     ],
+     "a ilha no meio do oceano planetário"
+    ],
+    [
+     "B005",
+     178,
+     [
+      "observação, ele perceberia que o oceano é prenhe de vida, e facilmente"
+     ],
+     "a conclusão do observador (início em L177)"
+    ],
+    [
+     "B005",
+     179,
+     [
+      "concluiria que a vida na ilhota surgiu por influência das vagas oceânicas."
+     ],
+     "fecho da parábola"
+    ]
+   ],
+   "obs": [
+    "A metáfora sustenta a tese do capítulo — a de que a vida não teria surgido no «nada» isolado da Terra, mas por influência do «oceano» cósmico que a cerca —, **sem que a ficha adote a tese**: a parábola é citada, não endossada.",
+    "O capítulo é o primeiro do livro (L158); o Índice o situa à página 13 (L19)."
+   ]
+  },
+  {
+   "cod": "RC-358",
+   "slug": "terra-de-ninguem-cosmica",
+   "definicao": "A condição atribuída pela B005 ao planeta Terra enquanto a sua população esteve «desvinculada dos nobres padrões que regem a conduta cósmica»: um mundo «à mercê de quem dele resolvesse se aproximar», sem mérito nem oferta de condições para receber ajuda ou proteção das confederações de mundos. Sendo «uma espécie de “terra de ninguém”», estava passível de receber visitas exploratórias — «muitas vezes com fins pouco nobres» — de quaisquer civilizações não vinculadas àquelas confederações.",
+   "cit": [
+    [
+     "B005",
+     1394,
+     [
+      "O planeta Terra, desde que começou a ser ocupado por seres algo"
+     ],
+     "a condição (continua em L1395)"
+    ],
+    [
+     "B005",
+     1395,
+     [
+      "desvinculados dos nobres padrões que regem a conduta cósmica, passou a"
+     ],
+     "o critério: a conduta cósmica (continua em L1398)"
+    ],
+    [
+     "B005",
+     1398,
+     [
+      "ser tido como um mundo à mercê de quem dele resolvesse se aproximar, já"
+     ],
+     "o mundo à mercê (continua em L1399–L1400)"
+    ],
+    [
+     "B005",
+     1401,
+     [
+      "Sendo, portanto, o nosso planeta uma espécie de \"terra de ninguém\""
+     ],
+     "o termo, verbatim"
+    ],
+    [
+     "B005",
+     1402,
+     [
+      "estava passível de receber visitas exploratórias (muitas vezes com fins"
+     ],
+     "a consequência (continua em L1403–L1406)"
+    ]
+   ],
+   "obs": [
+    "A obra define as **confederações de mundos** na mesma passagem: a maneira pela qual civilizações celestiais minimamente evoluídas se aglutinam em torno das regras da convivência cósmica e da ajuda mútua, hierarquicamente subordinadas à administração dos Prepostos da Deidade (B005 L1404–L1414).",
+    "A obra ressalva que as equipes exploratórias agem «mesmo destituídas de qualquer “maldade”» — sentimento que diz ser próprio dos que vivem na Terra, não encontrado em outros mundos (B005 L1415–L1428). Registro da fonte, sem adopção."
+   ]
+  },
+  {
+   "cod": "RC-361",
+   "slug": "antropocentrismo-critica",
+   "definicao": "Na B005, o conceito que «entroniza o homem como o centro de todas as coisas» — palavra grega, «herança direta da cultura grega», do tempo em que surgia, pela primeira vez na História Ocidental, a tomada de consciência do homem sobre si mesmo e a busca de explicações racionais sobre a realidade: «Foi o início da ciência, da forma como a conhecemos na atualidade.» A obra critica-o: chama-o «a “pérola” do antropocentrismo que, até os dias atuais, ainda cega o entendimento humano para a percepção de realidades maiores», e associa-lhe o orgulho que faz muitos afirmarem, «com toda pretensão, que somos o centro da criação universal».",
+   "cit": [
+    [
+     "B005",
+     44,
+     [
+      "coisa alguma\", muitos pretendem afirmar, com toda pretensão, que somos"
+     ],
+     "a pretensão (início em L43)"
+    ],
+    [
+     "B005",
+     45,
+     [
+      "o centro da criação universal."
+     ],
+     "fecho da sentença"
+    ],
+    [
+     "B005",
+     46,
+     [
+      "O conceito de antropocentrismo - palavra grega que entroniza o homem"
+     ],
+     "a definição (continua em L47)"
+    ],
+    [
+     "B005",
+     47,
+     [
+      "como o centro de todas as coisas - é uma herança direta da cultura grega,"
+     ],
+     "a origem grega (continua em L48–L51)"
+    ],
+    [
+     "B005",
+     891,
+     [
+      "especial, a \"pérola\" do antropocentrismo que, até os dias atuais, ainda"
+     ],
+     "a crítica (início em L890)"
+    ],
+    [
+     "B005",
+     892,
+     [
+      "cega o entendimento humano para a percepção de realidades maiores."
+     ],
+     "fecho da sentença"
+    ]
+   ],
+   "obs": [
+    "O verbete é uma **crítica** (o cadastro a registra no nome): a obra reconhece ao mesmo tempo que o movimento antropocêntrico grego deu início à ciência (L48–L51) e que a ideia «terminou se transformando em ideal» e contaminou de orgulho a evolução do pensamento (L52–L56).",
+    "A obra associa o antropocentrismo à «cegueira perceptiva» e à fé cega religiosa (B005 L893–L900) — registrado como uso da fonte."
+   ]
+  },
+  {
+   "cod": "RC-362",
+   "slug": "apego-aos-conceitos-terrenos",
+   "definicao": "Título do capítulo 10 de B005 (grafado «TERRESTRES» no corpo — ver o Histórico Curatorial). A obra liga-o à cegueira da humanidade «por força do apego a dogmas e a conceitos equivocados» e ilustra-o com a conhecida história dos cinco macacos: após sucessivas substituições, nenhum dos macacos da jaula havia levado o jato de água fria, e ainda assim todos batiam em quem tentasse subir a escada — «“não sei, mas as coisas sempre foram assim por aqui”». A obra conclui: «Realmente, “as coisas sempre foram assim aqui pela Terra”», e quem se atreve a comportar-se de maneira diferente da lógica vigente «normalmente é surrado na sua honra pessoal»; lembra que Sócrates, Jesus, Giordano Bruno, Jan Huss e Jerônimo de Praga «foram “surrados pelo mundo” porque agiram de forma diferente».",
+   "cit": [
+    [
+     "B005",
+     30,
+     [
+      "132..................... Apego aos Conceitos Terrenos"
+     ],
+     "entrada do Índice — grafia «Terrenos»"
+    ],
+    [
+     "B005",
+     2959,
+     [
+      "10. APEGO AOS CONCEITOS TERRESTRES"
+     ],
+     "título no corpo — grafia «TERRESTRES» (ver a gaveta 6)"
+    ],
+    [
+     "B005",
+     2955,
+     [
+      "humanidade permaneça cega em relação ao assunto, por força do apego a"
+     ],
+     "a definição pela consequência (início em L2954)"
+    ],
+    [
+     "B005",
+     2956,
+     [
+      "dogmas e a conceitos equivocados."
+     ],
+     "fecho da sentença"
+    ],
+    [
+     "B005",
+     2960,
+     [
+      "Existe uma história , por demais conhecida, que bem simboliza a forma"
+     ],
+     "a parábola (continua em L2961)"
+    ],
+    [
+     "B005",
+     2981,
+     [
+      "coisas sempre foram assim por aqui\"."
+     ],
+     "a resposta dos macacos (início em L2979–L2980)"
+    ],
+    [
+     "B005",
+     2982,
+     [
+      "Realmente, \"as coisas sempre foram assim aqui pela Terra\" e, quem se"
+     ],
+     "a aplicação aos humanos (continua em L2983–L2986)"
+    ],
+    [
+     "B005",
+     2990,
+     [
+      "outros, foram \"surrados pelo mundo\" porque agiram de forma diferente,"
+     ],
+     "os exemplos históricos (início em L2989; continua em L2991)"
+    ]
+   ],
+   "obs": [
+    "A parábola dos cinco macacos ocupa L2962–L2981; a ficha cita a abertura e o desfecho, sem transcrever a experiência inteira nem adoptar o seu valor probatório.",
+    "O capítulo prossegue tratando da «pureza doutrinária» e da intolerância religiosa (B005 L2989–L2996 e L901–L918) — registrado como existente na fonte."
+   ],
+   "historico": [
+    "**[⚠️ DIVERGÊNCIA INTERNA DA FONTE]** A obra grafa o título deste capítulo de **duas maneiras**:",
+    "",
+    "| Posição | Linha | Grafia |",
+    "|---|---|---|",
+    "| Índice | B005 L30 | «Apego aos Conceitos **Terrenos**» |",
+    "| Corpo (cabeçalho do capítulo) | B005 L2959 | «10. APEGO AOS CONCEITOS **TERRESTRES**» |",
+    "",
+    "O cadastro registra a forma do Índice («Terrenos»), que é também a do verbete. **As duas grafias estão preservadas *verbatim* nas citações desta ficha. Nenhuma foi normalizada e nenhuma foi eleita como “correta”: a divergência pertence à obra (B005, Zian Editora, 2004), não à extração.**",
+    "",
+    "Aplica-se aqui o mesmo critério do despacho de 13/09/2026 que tratou do par Val Bon (RC-116) × Val Dimon (RC-118): «o Portão de Paridade Verbatim é absoluto» — onde a fonte escreve de um modo, escreve-se de um modo; onde escreve de outro, de outro.",
+    "",
+    "Registro lavrado na unidade **U51** (lote 8 da R1). Nenhuma aresta foi aberta em `relacoes/`, nenhum verbete foi fundido, nenhuma lápide foi lavrada: a divergência é **dentro de um mesmo verbete**, entre duas posições da mesma obra, e não entre dois verbetes."
+   ]
+  },
+  {
+   "cod": "RC-363",
+   "slug": "otica-e-etica-cosmicas",
+   "definicao": "Título do capítulo 11 de B005, em que a obra contrapõe a chamada **ética da responsabilidade** — o postulado segundo o qual «os fins justificam o meio», invocado por interesses de Estado, interesses religiosos e defesa de pureza doutrinária — à **ética de princípios**, «de fato, a única que existe como tal». O ponto crítico é que «quem elege o que deve ou não ser tomado como fins que nobilitam os meios, são as pessoas que têm interesse direto nos “fins”»: com isso, a subordinação da ética às razões de Estado «entroniza a falsa ética da conveniência dos que estão no poder».",
+   "cit": [
+    [
+     "B005",
+     31,
+     [
+      "144..................... Ótica e Ética Cósmicas"
+     ],
+     "entrada do Índice"
+    ],
+    [
+     "B005",
+     3244,
+     [
+      "11. Ótica e Ética Cósmicas"
+     ],
+     "título do capítulo no corpo"
+    ],
+    [
+     "B005",
+     3245,
+     [
+      "Muitos defendem a chamada ética da responsabilidade. Normalmente, os"
+     ],
+     "abertura do capítulo (continua em L3246–L3247)"
+    ],
+    [
+     "B005",
+     3259,
+     [
+      "impõe a conclusão de que os fins justificam o meio, sejam quais forem os"
+     ],
+     "o postulado criticado (início em L3257–L3258; continua em L3260–L3263)"
+    ],
+    [
+     "B005",
+     3265,
+     [
+      "que têm interesse direto nos \"fins\". Lamentável!"
+     ],
+     "o nó do argumento (início em L3263–L3264)"
+    ],
+    [
+     "B005",
+     3315,
+     [
+      "como já apontado, exatamente os que estão no poder. Isso fere a ética de"
+     ],
+     "a contraposição (início em L3312–L3314)"
+    ],
+    [
+     "B005",
+     3316,
+     [
+      "princípios - de fato, a única que existe como tal - e entroniza a falsa ética"
+     ],
+     "a ética de princípios (continua em L3317–L3318)"
+    ]
+   ],
+   "obs": [
+    "A obra ressalva haver exceções entre as elites políticas e religiosas — os «heróis que, nas posições mais difíceis, conseguem manter a nobreza de seus ideais» (B005 L3248–L3254) — e elogia os que, «distantes dos focos de poder», dão testemunho de honestidade (L3268–L3276).",
+    "A obra anuncia, como informação que julga estar recebendo, que «surgirá um tempo» em que a maioria terá «um código de conduta que dignifique a vida e o seu semelhante» (B005 L3283–L3285) — registrado como expectativa da fonte, sem adopção nem datação."
+   ]
+  },
+  {
+   "cod": "RC-364",
+   "slug": "a-missao-do-mestre",
+   "definicao": "Título do capítulo 6 de B005. Segundo a obra, «como gesto de amor pelos que viviam e vivem neste mundo, um mestre maior — unificado ao Pai Celestial — se fez homem, transformando-se no maior fator extraterrestre na História desta humanidade». O capítulo desenvolve a afirmação de que «os habitantes da Terra não têm, ainda, a menor idéia do quanto devem a esta individualidade cósmica conhecida entre nós como Jesus», cujas «reais intenções» e cuja «profundidade filosófica das suas atitudes e posturas» seriam pouco percebidas, inclusive entre os que o seguem.",
+   "cit": [
+    [
+     "B005",
+     26,
+     [
+      "80....................... A Missão do Mestre"
+     ],
+     "entrada do Índice"
+    ],
+    [
+     "B005",
+     1731,
+     [
+      "6. A MISSÃO DO MESTRE"
+     ],
+     "título do capítulo no corpo"
+    ],
+    [
+     "B005",
+     1727,
+     [
+      "Diante dessa necessidade e, como gesto de amor pelos que viviam e vivem"
+     ],
+     "a motivação (continua em L1728–L1730)"
+    ],
+    [
+     "B005",
+     1728,
+     [
+      "neste mundo, um mestre maior - unificado ao Pai Celestial - se fez homem,"
+     ],
+     "o mestre que se fez homem"
+    ],
+    [
+     "B005",
+     1729,
+     [
+      "transformando-se no maior fator extraterrestre na História desta"
+     ],
+     "o «maior fator extraterrestre» (continua em L1730)"
+    ],
+    [
+     "B005",
+     1732,
+     [
+      "Os habitantes da Terra não têm, ainda, a menor idéia do quanto devem a"
+     ],
+     "a tese do capítulo (continua em L1733–L1738)"
+    ],
+    [
+     "B005",
+     1733,
+     [
+      "esta individualidade cósmica conhecida entre nós como Jesus. Muitos o"
+     ],
+     "a identificação"
+    ]
+   ],
+   "obs": [
+    "**Fonte:** o cadastro declara **B005 e B042** para este verbete; a família B assentou-se na B005, onde o termo é título de capítulo. As citações são todas da B005.",
+    "O capítulo critica os «chavões» cristãos sobre o que Jesus fez (B005 L1739–L1742) e cita Mt 7, 1–3 sobre o não julgar (L1749–L1752) — uso da fonte, registrado sem adopção."
+   ]
+  }
+ ]
+}
