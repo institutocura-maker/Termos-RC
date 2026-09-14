@@ -3029,3 +3029,31 @@ OCORRE, não pela declarada.
 
 **Números:** 807 → **809 fichas** · GAP 139 → **137** · família B v3 33 →
 **31** (11 activos + 20 congelados) · cadastro 572🟢 inalterado.
+
+
+## U67 — R1 · lote 24: a B033 (RC-227 «Opção Terra»)
+
+**Despacho do Curador:** lote 24 = B033; **VIA (a) confirmada**: 1 obra = 1
+lote — «em sistemas de alta integridade e auditoria por commits atômicos, a
+velocidade da reta final não justifica abrir mão da pureza do processo».
+
+⚠️ **REGRESSÃO DO GIT NA ABERTURA — terceira ocorrência (U48, U61, U67).**
+Detectada pela checagem de abertura antes de qualquer trabalho. Nada perdido:
+disco e remoto ambos com 809 fichas. Corrigido por fetch → reset --mixed →
+restauração do SESSION-NOTES. A checagem cumpriu exactamente a função para que
+foi instituída.
+
+**1 ficha, 7 fragmentos, 0 falhas na primeira passada.** RC-227 Opção Terra:
+Estratégia Necessária. **B033 1→0.**
+
+**Três atribuições, sem etiqueta:** Brahma (com correcção na mesma sentença) ·
+Javé (influenciado) · acaso («na lógica humana»). O que varia é o grau de
+certeza do autor, não o termo. A ficha NÃO resolve a autoria.
+
+**O poço revelou a composição final: 30 códigos = 10 activos + 20 congelados**
+(os congelados são exactamente os de evidência só-em-palestras).
+
+**Números:** 809 → **810 fichas** · GAP 137 → **136** · família B v3 31 →
+**30** (10 activos + 20 congelados) · cadastro 572🟢 inalterado.
+
+**Próximo:** RC-233 → B017.

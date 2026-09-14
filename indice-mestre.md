@@ -424,8 +424,8 @@
 | RC-416 | Cartas a Javé (obra e diálogo) | Tecnologias & Artefatos | 5.4 Escrituras / Objetos documentais | 🟢 | B034, B036 | RC-001; RC-002; RC-033; RC-094; RC-417; RC-418; RC-419; RC-420; RC-421 | [✔](termos/RC-416-cartas-a-jave-obra-e-dialogo.md) |
 | RC-417 | Resposta de Javé (em 1ª pessoa) | Tecnologias & Artefatos | 5.4 Escrituras / Objetos documentais | 🟢 | B034 | RC-001; RC-094; RC-382; RC-416; RC-418; RC-419 | [✔](termos/RC-417-resposta-de-jave-em-1a-pessoa.md) |
 | RC-418 | Terminal Nervoso do Criador (humano) | Conceitos Cosmológicos | 2.2 Leis e princípios cósmicos | 🟡 | B034, B036, P2025-03-15, P2025-02-15 | RC-041; RC-094; RC-099; RC-217; RC-417; RC-708 | — |
-| RC-419 | Sou eu que vivo em vocês (Javé) | Conceitos Cosmológicos | 2.5 Propósitos / Destinos | 🟡 | B034, P2024-11-30 | RC-001; RC-094; RC-332; RC-382; RC-416 | — |
-| RC-420 | Mônica Camargo (autora das cartas) | Seres & Entidades | 1.6 Figuras humanas (históricas/míticas) | 🟡 | B034 | RC-416; RC-071; RC-094 | — |
+| RC-419 | Sou eu que vivo em vocês (Javé) | Conceitos Cosmológicos | 2.5 Propósitos / Destinos | 🟡 | B034, P2024-11-30 | RC-001; RC-094; RC-332; RC-382; RC-416 | [✔](termos/RC-419-sou-eu-que-vivo-em-voces-jave.md) |
+| RC-420 | Mônica Camargo (autora das cartas) | Seres & Entidades | 1.6 Figuras humanas (históricas/míticas) | 🟡 | B034 | RC-416; RC-071; RC-094 | [✔](termos/RC-420-monica-camargo-autora-das-cartas.md) |
 | RC-421 | As Memórias de Javé (crônicas) | Tecnologias & Artefatos | 5.4 Escrituras / Objetos documentais | 🟢 | B036 | RC-001; RC-071; RC-094; RC-332; RC-416; RC-422; RC-423 | [✔](termos/RC-421-as-memorias-de-jave-cronicas.md) |
 | RC-422 | Ser-Criador fracassado (autoconfissão de Javé) | Conceitos Cosmológicos | 2.5 Propósitos / Destinos | 🟢 | B036, B037, P2024-11-30, P2024-11-09, P2023-10-14, P2020-04-25, P2022-03-26 | RC-001; RC-041; RC-094; RC-245; RC-332; RC-427 | [✔](termos/RC-422-ser-criador-fracassado-autoconfissao-de-jave.md) |
 | RC-423 | Advogado de Acusação (Ellam × Javé) | Seres & Entidades | 1.6 Figuras humanas (históricas/míticas) | 🟡 | B036 | RC-071; RC-001; RC-094 | [✔](termos/RC-423-advogado-de-acusacao-ellam-x-jave.md) |

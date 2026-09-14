@@ -327,7 +327,7 @@ TERMOS = [
     # ---- B033 — O Drama Terreno de Javé
     ("RC-225", "Gestão Cósmica", COS_LEI[0], COS_LEI[1], "verificado", ["B033"], "RC-104; RC-001; RC-072; RC-171; RC-570", True),
     ("RC-226", "Cidadão Cósmico", COS_PRO[0], COS_PRO[1], "verificado", ["B033", "B027", "B042"], "RC-003; RC-070; RC-094; RC-099; RC-231; RC-490; RC-566", True),
-    ("RC-227", "Opção Terra", EVE_MIS[0], EVE_MIS[1], P, ["B033"], "RC-107; RC-090; RC-091; RC-228", False),
+    ("RC-227", "Opção Terra", EVE_MIS[0], EVE_MIS[1], P, ["B033"], "RC-107; RC-090; RC-091; RC-228", True),
     ("RC-228", "Observação de Sileno (Filhos do Tormento e do Acaso)", COS_PRO[0], COS_PRO[1], "verificado", ["B033", "P2017-10-14"], "RC-099; RC-094; RC-227", True),
     ("RC-229", "A Lógica de Javé e a Origem da Humanidade", COS_COG[0], COS_COG[1], P, ["B033"], "RC-001; RC-099; RC-014", False),
     ("RC-230", "Reflexos da Doença (Herança do DNA)", COS_ETI[0], COS_ETI[1], "verificado", ["B033", "P2012-02-19", "P2025-06-14"], "RC-217; RC-099; RC-040", True),
