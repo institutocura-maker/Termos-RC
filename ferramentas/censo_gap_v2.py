@@ -91,6 +91,32 @@ def norm(s: str) -> str:
     return re.sub(r"\s+", " ", s).strip().lower()
 
 
+# ── caixa alta espaçada ─────────────────────────────────────────────────────
+# A B044 (e outras) grafam os títulos de capítulo em CAIXA ALTA ESPAÇADA: um
+# espaço entre letras, DOIS entre palavras — forma que a busca normalizada não
+# alcança (achado da U49: quatro dos oito códigos do lote 6 eram títulos). O
+# colapso é legítimo NO LOCALIZADOR. O texto capturado para a ficha permanece
+# rigorosamente verbatim, com os espaços da edição (despacho do Curador, U50).
+ESPACADA = re.compile(
+    r"(?<![\wÀ-ÿ])(?:[A-ZÀ-Ý][ \t]+){1,}[A-ZÀ-Ý](?![\wÀ-ÿ])")
+
+USAR_ESPACADAS = True      # `--sem-espacadas` reproduz o censo v2
+
+
+def colapsar_espacadas(s: str) -> str:
+    def troca(m: re.Match) -> str:
+        t = m.group(0)
+        # 1 espaço = separador de LETRA (some); 2+ espaços = separador de PALAVRA
+        t = re.sub(r"(?<=[A-ZÀ-Ý]) (?=[A-ZÀ-Ý])", "", t)
+        return re.sub(r"\s{2,}", " ", t)
+    return ESPACADA.sub(troca, s)
+
+
+def norm2(s: str) -> str:
+    """`norm` + colapso de caixa alta espaçada. Só para LOCALIZAR; nunca para citar."""
+    return norm(colapsar_espacadas(s)) if USAR_ESPACADAS else norm(s)
+
+
 def mediana_de(vals: list[int]) -> int:
     if not vals:
         return 0
@@ -139,7 +165,12 @@ class Obra:
                 partes.append(ln[:-1])         # translineação: sem espaço
             else:
                 partes.append(ln + " ")
-        texto = re.sub(r"\s+", " ", "".join(partes)).strip()
+        # bruto = ANTES de colapsar os espaços: é aí que ainda se distingue
+        # 1 espaço (separador de letra) de 2+ (separador de palavra) na caixa
+        # alta espaçada. Só o localizador usa o bruto; `texto` segue verbatim
+        # para métrica e exibição.
+        bruto = "".join(partes)
+        texto = re.sub(r"\s+", " ", bruto).strip()
         if not texto:
             return
         lista = (mediana < MIN_MED_LISTA
@@ -149,6 +180,7 @@ class Obra:
             "fim": fim,
             "texto": texto,
             "norm": norm(texto),
+            "norm2": norm2(bruto),
             "nlin": len(brutas),
             "mediana_linha": mediana,
             "terminadores": termos,
@@ -186,12 +218,12 @@ def buscar(obra: Obra, chave: str, modo: str) -> list[dict]:
     achados: list[dict] = []
     if modo == "linha":
         for i, ln in enumerate(obra.linhas, start=1):
-            if chave in norm(ln):
+            if chave in norm2(ln):
                 achados.append({"linha": i, "texto": ln.strip()[:240],
                                 "prosa": False})
         return achados
     for b in obra.blocos:
-        if chave in b["norm"]:
+        if chave in b["norm2"]:
             achados.append({
                 "linha": b["ini"],
                 "linhas": f'{b["ini"]}-{b["fim"]}',
@@ -206,7 +238,7 @@ def buscar(obra: Obra, chave: str, modo: str) -> list[dict]:
 
 
 def tem_bloco(obra: Obra, chave: str) -> bool:
-    return any(chave in b["norm"] for b in obra.blocos)
+    return any(chave in b["norm2"] for b in obra.blocos)
 
 
 # ───────────────────────────────────────────────────────────────── relatório
@@ -236,9 +268,24 @@ def relatorio(saida: list[dict]) -> str:
     A("# Censo reclassificado do gap de fichas — 2026-09-13")
     A("")
     A("Instrumento: `ferramentas/censo_gap_v2.py` · dados: "
-      "`diagnostico/CENSO-RECLASSIFICADO-2026-09-13.json`.")
-    A("Reproduzir: `python3 ferramentas/censo_gap_v2.py` (~17 s, 158 obras).")
+      f"`{os.path.relpath(SAIDA_JSON, RAIZ)}`.")
+    A("Reproduzir: `python3 ferramentas/censo_gap_v2.py` (~20 s, 158 obras) · "
+      "a v2, bit a bit: `python3 ferramentas/censo_gap_v2.py --sem-espacadas "
+      "--saida=<base>`.")
     A("")
+    if USAR_ESPACADAS:
+        A("**Regra v3 — caixa alta espaçada (U50, despacho do Curador):** o "
+          "localizador colapsa as sequências de letras separadas por espaço "
+          "(um espaço = separador de letra, dois = separador de palavra), "
+          "porque a B044, a B022 e outras grafam os títulos de capítulo em "
+          "caixa alta espaçada — forma que a busca normalizada não alcança. "
+          "**O colapso vale só para localizar:** o texto capturado para as "
+          "fichas permanece verbatim, com os espaços da edição.")
+        A("")
+    else:
+        A("**Modo `--sem-espacadas`:** reproz a v2 — o colapso da caixa alta "
+          "espaçada fica desligado.")
+        A("")
     A("**Unidade de diagnóstico: nada da Base foi alterado** — sem ficha nova, "
       "sem aresta, sem frontmatter, sem HOLD, sem `canonico.json`.")
     A("")
@@ -390,6 +437,20 @@ def relatorio(saida: list[dict]) -> str:
 
 # ───────────────────────────────────────────────────────────────────── main
 def main() -> int:
+    global SAIDA_JSON, SAIDA_MD, USAR_ESPACADAS
+    args = sys.argv[1:]
+    if "--sem-espacadas" in args:
+        USAR_ESPACADAS = False                 # censo v2, bit a bit
+    else:
+        SAIDA_JSON = os.path.join(RAIZ, "diagnostico",
+                                  "CENSO-V3-ESPACADAS-2026-09-13.json")
+        SAIDA_MD = os.path.join(RAIZ, "diagnostico",
+                                "CENSO-V3-ESPACADAS-2026-09-13.md")
+    for a in args:
+        if a.startswith("--saida="):
+            base = a.split("=", 1)[1]
+            SAIDA_JSON = os.path.join(RAIZ, "diagnostico", base + ".json")
+            SAIDA_MD = os.path.join(RAIZ, "diagnostico", base + ".md")
     t0 = time.time()
     v1 = json.load(io.open(CENSO_V1, encoding="utf-8"))
     obras = carregar_corpus()

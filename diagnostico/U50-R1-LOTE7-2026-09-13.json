@@ -1,0 +1,154 @@
+{
+ "unidade": "U50",
+ "lote": 7,
+ "data": "2026-09-13",
+ "rota": "R1",
+ "criterio": "família B do censo v2 — bloco único dos 8 códigos da B001 (O Drama Cósmico de Javé), por despacho do Curador (liquidar agrupamentos de uma mesma fonte de um só golpe)",
+ "v_revogado": true,
+ "nota_hardwrap": "**Fratura de hard-wrap:** a edição digital das fontes quebra as sentenças em linhas curtas. Cada fragmento entre «» é verbatim **intra-linha**, conferido byte a byte contra o `original.txt` da obra declarada; quando uma sentença ou um título foi partido, as suas partes aparecem como fragmentos distintos, com as linhas indicadas. **A B001 tem artefatos próprios de diagramação, preservados sem normalização:** espaço antes de sinal de pontuação («Deidade , esta»), espaço interno em palavras («T erra», «V al Ellam», «P ararelo») e o título do capítulo no **rodapé** da página, partido em duas ou três linhas — ver as Observações de RC-212, RC-213, RC-214 e RC-215.",
+ "fichas": [
+  {
+   "cod": "RC-205",
+   "slug": "pai-supremo-amantissimo",
+   "definicao": "Na B001 (*O Drama Cósmico de Javé*), uma das **personificações da Deidade** — esta sim, segundo a obra, o único a quem se deveria referir como sendo Deus, o Incognoscível. Por ser incompreensível e indescritível para os padrões das consciências evolutivas, a Deidade personifica-se em Divindades Excelsas, que passam a representá-Lhe; o Pai Supremo, o Amantíssimo, é a que «mais se aproximaria do que, na condição humana, seria possível vislumbrar como sendo uma individualidade “deificada”, ou perfeita», e a quem a pequenez humana também poderia chamar de Deus Pai ou Deus Mãe. É pela sua vontade que, no paraíso da Realidade Maior, «nada é transitório posto que tudo é eterno».",
+   "cit": [
+    ["B001", 317, ["Nesse paraíso onde nada é transitório posto que tudo é eterno pela"], "a eternidade do paraíso pela sua vontade (continua em L318)"],
+    ["B001", 318, ["vontade do Pai Supremo, o Amantíssimo, encontra-se o que, nos moldes do"], "o nome completo, verbatim (continua em L319–L320)"],
+    ["B001", 321, ["A entidade a quem chamamos de Pai Supremo é, na verdade, uma"], "a identificação (continua em L322)"],
+    ["B001", 322, ["das personificações da Deidade , esta sim, o único a quem deveríamos nos"], "a distinção entre Deidade e personificação (continua em L323)"],
+    ["B001", 323, ["referir como sendo Deus , o Incognoscível."], "fecho da sentença"],
+    ["B001", 327, ["Desse modo, Aquele a quem denominamos de Pai Supremo, o Aman-"], "o hard-wrap parte «Amantíssimo» ao meio (continua em L328)"],
+    ["B001", 328, ["tíssimo é uma das personificações da Deidade que mais se aproximaria do"], "segunda metade (continua em L329–L331)"]
+   ],
+   "obs": [
+    "A obra distingue **Deidade** (o Incognoscível) de **personificação**: o Pai Supremo é uma personificação, não a Deidade mesma — distinção que a ficha preserva sem adotar juízo teológico.",
+    "Confrontar com **Divindades Excelsas** (RC-206), que a mesma passagem define na sequência imediata."
+   ]
+  },
+  {
+   "cod": "RC-206",
+   "slug": "divindades-excelsas",
+   "definicao": "Na B001, as personalizações da **Deidade**: esta, por ser incompreensível e indescritível para os padrões das consciências evolutivas, «personifica-se, por sua vez, em Divindades Excelsas que passam a Lhe representar perante tudo o que já existe e o que venha a ser gerado». São as «Personificações Divinas», que, sob a perspectiva dos que vivem na Terra, poderiam ser consideradas divindades «maiores» e «menores», conforme o potencial representativo dos atributos da Deidade que lhes marcam a existência e conforme a função que exercem; a elas não se aplica a distinção humano-terrena de masculino e feminino.",
+   "cit": [
+    ["B001", 325, ["sua vez, em Divindades Excelsas que passam a Lhe representar perante tudo"], "a definição (início em L323–L324; continua em L326)"],
+    ["B001", 326, ["o que já existe e o que venha a ser gerado."], "fecho da sentença"],
+    ["B001", 339, ["menos as Suas Personificações Divinas, ou seja, as Divindades Excelsas. Estas,"], "Personificações Divinas = Divindades Excelsas (continua em L340–L344)"],
+    ["B001", 342, ["cial representativo dos atributos da Deidade que lhes marcam a existência,"], "o critério de «maiores» e «menores» (início em L341)"],
+    ["B001", 343, ["enquanto “representantes da Deidade” , como também em relação à função"], "o segundo critério: a função"]
+   ],
+   "obs": [
+    "A passagem (L323–L344) define de uma só vez a **Deidade**, as **Divindades Excelsas** e o **Pai Supremo** (RC-205): as três fichas se iluminam mutuamente, sem que nenhuma aresta nova tenha sido aberta em `relacoes/`.",
+    "A obra registra que a vida eterna nessa espécie de «não-tempo» «foge completamente à lógica terrestre» (L345–L348) — registrado como limite declarado pela própria fonte."
+   ]
+  },
+  {
+   "cod": "RC-208",
+   "slug": "criador-de-padroes-dependentes",
+   "definicao": "Na B001, a designação da divindade co-criadora — «a divindade com problemas», irmã das outras oito — cuja criação se caracteriza por gerar seres e dimensões que permanecem **dependentes** da mente do criador, em contraste com as divindades que criam seres «total e completamente independentes em relação à mente daquele que os criou». O nome é apresentado como aproximação: «Isso em modo aproximado com o linguajar terráqueo e mais ainda com o vocabulário disponível na linguagem pátria do autor terreno».",
+   "cit": [
+    ["B001", 637, ["como sua residência, como Criador de Padrões Dependentes. Isso em modo"], "a designação e a ressalva de aproximação (início em L635–L636; continua em L638–L639)"],
+    ["B001", 666, ["A divindade em foco, doravante denominada como sendo o Criador"], "a adoção do nome dali em diante (continua em L667)"],
+    ["B001", 667, ["de Padrões Dependentes, tinha posteriormente agravado o seu estado por"], "segunda metade do nome, partida pelo hard-wrap"],
+    ["B001", 678, ["dade Criadora de Padrões Dependentes , pelo que consegui depreender"], "terceira ocorrência (início em L677)"],
+    ["B001", 652, ["Outras há que formulam suas criações estabelecendo padrão de de-"], "o contraste com as outras divindades (continua em L653–L656)"],
+    ["B001", 653, ["pendência vibratória (que neste livro será chamado de “dependência ho-"], "o hard-wrap parte «dependência holográfica» ao meio"]
+   ],
+   "obs": [
+    "A obra anuncia que os termos de «dependência holográfica» «serão explicados no capítulo quatro» (L653–L654) — remissiva interna da fonte, registrada sem transporte.",
+    "Confrontar com **Vida de Padrão Dependente** (RC-209), que a B002 define expressamente a partir desta noção."
+   ]
+  },
+  {
+   "cod": "RC-209",
+   "slug": "vida-de-padrao-dependente",
+   "definicao": "Expressão que a B002 (*O Drama Espiritual de Javé*) emprega e explica: a vida que «surge a partir da máquina de gerar vida de padrão dependente criada pelo Senhor Javé». Ao perguntar «Por que “vida de padrão dependente”?», a obra responde que o programa mental da divindade menor criadora deste universo e das suas dimensões adjacentes «somente estava habilitado a criar seres que dependessem mentalmente do criador», os quais deveriam viver no estrito cumprimento dos seus desígnios «enquanto gozariam dos graus de aparente liberdade».",
+   "cit": [
+    ["B002", 5364, ["surgem a partir da máquina de gerar vida de padrão dependente criada pelo"], "a expressão no corpo do texto (início em L5362–L5363; continua em L5365)"],
+    ["B002", 5366, ["Por que “"], "a pergunta que introduz a explicação"],
+    ["B002", 5367, ["vida de padrão dependente"], "o termo, verbatim"],
+    ["B002", 5373, ["adjacentes, somente estava habilitado a criar seres que dependessem"], "a resposta (início em L5372)"],
+    ["B002", 5374, ["mentalmente do criador. Estes deveriam viver no estrito cumprimento dos"], "continuação — o «estrito cumprimento» (continua em L5375–L5376)"],
+    ["B001", 9302, ["“ criações de padrões dependentes” que era a especialidade do Senhor Javé"], "a noção na B001, declarada sem o nome exacto do verbete"]
+   ],
+   "obs": [
+    "**A expressão exacta não ocorre na B001** (primeira fonte declarada). A B001 trabalha a mesma noção com outra formulação — «criações de padrões dependentes», «especialidade do Senhor Javé» (L9302), «lógica de divindade criadora de padrões dependentes» (L3285). A família B do censo assentou-se na B002, também declarada no cadastro; a ficha cita as duas e **não** funde as formulações.",
+    "Confrontar com **Criador de Padrões Dependentes** (RC-208), cuja noção a B002 diz retomar expressamente («Apenas para lembrar aos que já leram o “Drama Cósmico de Javé”», B002 L5368–L5369)."
+   ]
+  },
+  {
+   "cod": "RC-212",
+   "slug": "o-grande-dia-do-senhor-jave",
+   "definicao": "Na B001, o «algo inquestionável» que romperá a situação de ocultamento da interferência de seres de fora no contexto terrestre — o «Grande Dia do Senhor Javé», «por ele aclamado ainda ao tempo de Enoch». Corresponde ao «dia» em que toda a «verdade escondida» para os olhos desta humanidade começará a ser revelada, «queiram os terráqueos ou não»; o seu momento maior cumpre-se com a volta de Jesus. A obra aproxima-o do conceito de «Reintegração Cósmica» da Terra — fim do isolamento planetário — e dos epítetos «Volta de Jesus», «Separação do Joio e do Trigo», «Julgamento Geral dos Vivos e dos Mortos» e «Juízo Final».",
+   "cit": [
+    ["B001", 8568, ["O Grande Dia do Senhor Javé"], "título do capítulo, no cabeçalho da página"],
+    ["B001", 8591, ["O Grande Dia do"], "o mesmo título no rodapé, partido pelo hard-wrap (continua em L8592)"],
+    ["B001", 8592, ["Senhor Javé."], "segunda metade do título"],
+    ["B001", 8725, ["“Grande Dia do Senhor Javé” , por ele aclamado ainda ao tempo de Enoch."], "a aclamação por Enoch (início em L8724)"],
+    ["B001", 8729, ["Pelo que depreendo, corresponde ao “ dia ” em que toda a “verdade es-"], "a definição (continua em L8730–L8733)"],
+    ["B001", 8730, ["condida” para os olhos desta humanidade começará a ser revelada, queiram"], "o hard-wrap parte «verdade escondida» ao meio"],
+    ["B001", 8753, ["o “Grande Dia do Senhor Javé” . Este “ dia ” tem o seu momento maior quando"], "o momento maior (início em L8752)"],
+    ["B001", 8754, ["se cumprir a volta de Jesus com as bênçãos do Senhor Javé."], "fecho da sentença"]
+   ],
+   "obs": [
+    "**Artefato de diagramação:** nesta obra o título do capítulo aparece no CABEÇALHO de cada página (L8568) e, partido em duas linhas, no RODAPÉ (L8591–L8592), seguido da numeração (L8593 «Capítulo 16»). A ficha cita as três posições e **não** afirma quantos capítulos a obra tem nem a numeração de cada título — o livro não traz sumário numerado.",
+    "A obra registra haver «outras interpretações quanto ao significado deste dia» (L8726) e que expressa «o desejo elucidativo dos mentores responsáveis» (L8727–L8728) — ressalva da própria fonte, preservada."
+   ]
+  },
+  {
+   "cod": "RC-213",
+   "slug": "centro-de-comando-paralelo",
+   "definicao": "Na B001, a realidade — ou o lugar — «de onde é que o Senhor Javé atua», «a realidade na qual o Senhor Javé vive objetivamente». A obra dedica-lhe um capítulo para «facilitar o entendimento quanto ao “centro de comando paralelo” do Senhor Javé», partindo do conceito de «colapso quântico» da física quântica e de três premissas: a de que o «ser-observador quântico» não é Deus, mas uma divindade co-criadora; a de que, ao gerar a singularidade, essa mente plasmou os limites e a natureza do espaço-tempo; e a de que o ser-criador «colapsou» junto com a dimensão universal física-densa por ele gerada.",
+   "cit": [
+    ["B001", 8232, ["Centro de Comando P ararelo"], "título no cabeçalho, com o espaço interno da edição («P ararelo») — verbatim"],
+    ["B001", 8234, ["vislumbramos de onde é que o Senhor Javé atua ou, em outras palavras, a"], "o objeto do capítulo (início em L8233)"],
+    ["B001", 8235, ["realidade na qual o Senhor Javé vive objetivamente."], "fecho da sentença"],
+    ["B001", 8236, ["Para nos facilitar o entendimento quanto ao “ centro de comando para-"], "o termo, partido pelo hard-wrap (continua em L8237)"],
+    ["B001", 8237, ["lelo ” do Senhor Javé faz-se necessário que compreendamos um dos aspectos"], "segunda metade do termo"],
+    ["B001", 8255, ["Centro de Comando"], "o título no rodapé, também partido (continua em L8256)"],
+    ["B001", 8256, ["Paralelo."], "segunda metade — aqui sem o espaço interno do cabeçalho"]
+   ],
+   "obs": [
+    "**Divergência de diagramação dentro da própria obra:** o cabeçalho grafa «Centro de Comando P ararelo» (L8232) e o rodapé grafa «Centro de Comando / Paralelo.» (L8255–L8256). Ambas as grafias são citadas verbatim; nenhuma foi normalizada (Portão de Paridade, despacho de 13/09/2026).",
+    "Como em RC-212, o título comparece no cabeçalho e no rodapé, seguido de «Capítulo 15» (L8257); a ficha não afirma a numeração do capítulo."
+   ]
+  },
+  {
+   "cod": "RC-214",
+   "slug": "agente-do-mais-alto",
+   "definicao": "Na B001, aquele que «se faz Emissário do “Deus Criador”» — título do capítulo em que a obra trata do ser que viria a nascer na Terra como Jesus: «Foi assim que o agente do Mais Alto se fez filho do Senhor Javé para depois se tornar o seu emissário para os que vivem na Terra», «único modo que ele encontrou de atuar no nível existencial em que poderia influenciar amorosamente a todas as forças existenciais envolvidas no drama».",
+   "cit": [
+    ["B001", 5200, ["O Agente do Mais Alto se faz Emissário do Deus Criador"], "título do capítulo, no cabeçalho da página"],
+    ["B001", 5222, ["O Agente do Mais Alto"], "o mesmo título no rodapé, partido em três linhas (continua em L5223–L5224)"],
+    ["B001", 5223, ["se faz Emissário do"], "segunda linha"],
+    ["B001", 5224, ["“Deus Criador” ."], "terceira linha"],
+    ["B001", 5585, ["Foi assim que o agente do Mais Alto se fez filho do Senhor Javé para"], "a definição (continua em L5586–L5588)"],
+    ["B001", 5586, ["depois se tornar o seu emissário para os que vivem na T erra, único modo que"], "o espaço interno de «T erra» é da edição — verbatim"],
+    ["B001", 5587, ["ele encontrou de atuar no nível existencial em que poderia influenciar amoro-"], "o hard-wrap parte «amorosamente» ao meio"]
+   ],
+   "obs": [
+    "O capítulo abre com o Salmo 2 citado integralmente (L5201–L5221), do qual a obra extrai a expressão «O Messias, Senhor do Universo» (L5201) — registrado como uso da fonte, sem adopção.",
+    "O cabeçalho repete-se ao longo do capítulo (L5265, L5339, L5412, L5487, L5562); a ficha cita a primeira ocorrência."
+   ]
+  },
+  {
+   "cod": "RC-215",
+   "slug": "emissarios-da-espiritualidade-maior",
+   "definicao": "Na B001, título do capítulo em que a obra enumera as categorias de seres que atuam no drama universal do Senhor Javé. Além das divindades envolvidas — «notadamente Jesus e Sai Baba» — e do «esforço concentrado de alguns dos assessores do Senhor Javé», a obra registra, como quinto item, que «existe um “pequeno grupo” de individualidades divinizadas que de diversos modos – e mais notadamente sob a perspectiva espiritual superior – atuam no drama universal do Senhor Javé».",
+   "cit": [
+    ["B001", 4208, ["Emissários da Espiritualidade Maior"], "título do capítulo, no cabeçalho da página"],
+    ["B001", 4229, ["Emissários da"], "o mesmo título no rodapé, partido em três linhas (continua em L4230–L4231)"],
+    ["B001", 4230, ["Espiritualidade"], "segunda linha"],
+    ["B001", 4231, ["Maior."], "terceira linha"],
+    ["B001", 4402, ["obedecerem, tornando-se seus agentes por todos os quadrantes da sua criação."], "os seres criados para obedecer (início em L4400–L4401)"],
+    ["B001", 4560, ["(5) Existe um “pequeno grupo ” de individualidades divinizadas que de"], "o quinto item da enumeração (continua em L4561–L4562)"],
+    ["B001", 4561, ["diversos modos – e mais notadamente sob a perspectiva espiritual superior –"], "meio da sentença"],
+    ["B001", 4562, ["atuam no drama universal do Senhor Javé."], "fecho da sentença"]
+   ],
+   "obs": [
+    "A enumeração do capítulo (itens 1 a 5) não nomeia cada categoria com o nome do verbete; a ficha reproduz o item (5) e o contexto de L4402, **sem** atribuir o título a um grupo específico além do que a fonte diz.",
+    "O cabeçalho repete-se ao longo do capítulo (L4271, L4343, L4414, L4484, L4559).",
+    "Confrontar com **Agente do Mais Alto** (RC-214), cujo capítulo a obra intitula «O Agente do Mais Alto se faz Emissário do Deus Criador»."
+   ]
+  }
+ ]
+}

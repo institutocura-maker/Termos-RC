@@ -2572,3 +2572,41 @@ vez.
 
 **Números:** 746 → **754 fichas** · GAP 200 → **192** · família B v2: 93 →
 **85 restantes** · **B044: 8 → 0** · cadastro 572🟢/212🟡/102🟠/60⚪ inalterado.
+
+
+## U50 — DOIS ATOS: normalização do localizador (censo v3) + R1 lote 7 (B001)
+
+**Despacho do Curador:** (1) normalização APROVADA, com a diretriz estrita de
+que o texto capturado permaneça *verbatim*; (2) re-rodar o censo e **reportar
+os números antes de processar** códigos recuperados de C/D/E; (3) lote 7
+APROVADO (os 8 da B001); (4) R3 e R4 congelados.
+
+**ATO A — o instrumento.** `colapsar_espacadas()` + `norm2()` em
+`censo_gap_v2.py`: 1 espaço entre letras → nada; 2+ → 1 espaço. Aplicadas
+**só** no localizador (`buscar`, `tem_bloco`, índice `norm2` dos blocos). O
+`texto` de onde saem as citações não passa pelo colapso — a diretriz está
+cumprida por construção, não por cuidado.
+
+**Armadilha apanhada em teste, antes de rodar o censo:** o compositor de
+blocos já faz `re.sub(r"\s+", " ", texto)`, de modo que aplicar a regra ao
+parágrafo recomposto grudava tudo: `C O L M E I A  D O  É D E N` →
+`colmeiadoeden`, que não casa com a chave. Correção: a regra passou a correr
+sobre o texto **bruto** (`"".join(partes)`), onde 1 espaço (letra) ainda se
+distingue de 2 (palavra). Depois disso, RC-177 ganhou o bloco 725-757.
+
+**Prova de neutralidade:** `--sem-espacadas` reproduz a v2 com 0 divergências
+em 273 códigos. O que mudar vem da regra, não da reforma.
+
+**Resultado v3:** 1 código muda de família em 273 — **RC-309 Ordem dos
+Indecifráveis, D→B** (B022 L5338). Nenhum perdido. Poço R1 85→86; R3 38→37.
+**RC-309 REPORTADA E INTOCADA** — sem ficha, sem fragmento, sem aresta;
+aguarda despacho. O censo v2 **não** foi sobrescrito.
+
+**ATO B — lote 7 (B001).** 8 fichas, 54 fragmentos, 0 falhas na primeira
+passada. B001 8→0. Novos artefatos de diagramação: título no rodapé partido
+em 2–3 linhas (não se afirma numeração de capítulo), espaços internos em
+palavras, divergência de grafia dentro da própria obra em RC-213
+(«P ararelo» × «Paralelo»), e RC-209 cuja expressão exacta só existe na B002.
+
+**Números:** 754 → **762 fichas** · GAP 192 → **184** · família B v3 86 →
+**78 restantes** · cadastro 572🟢 inalterado.

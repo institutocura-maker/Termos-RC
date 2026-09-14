@@ -182,17 +182,17 @@
 | RC-174 | Colmeia Universal | Conceitos Cosmológicos | 2.2 Leis e princípios cósmicos | 🟢 | B044, P2024-11-30, P2024-07-13, P2023-02-12, P2022-12-03, P2022-11-26, P2022-11-20, P2022-09-18 | RC-001; RC-106; RC-107; RC-175; RC-176; RC-178 | [✔](termos/RC-174-colmeia-universal.md) |
 | RC-175 | Abelha-Rainha (Javé) | Seres & Entidades | 1.1 Divindades / Criadores | 🟢 | B044, P2021-03-27, P2024-09-28, P2020-04-25, P2022-03-26, P2018-12-15 | RC-001; RC-174; RC-176; RC-765 | [✔](termos/RC-175-abelha-rainha-jave.md) |
 | RC-176 | Modelo Colmeia (Sistema/Controle Colmeia) | Conceitos Cosmológicos | 2.2 Leis e princípios cósmicos | 🟢 | B044, B035, B048, P2021-12-04, P2025-03-15, P2024-11-30, P2024-07-13, P2023-05-13, P2021-03-27, P2020-04-25, P2022-03-26, P2023-12-03, P2024-06-16, P2018-12-15 | RC-019; RC-174; RC-175; RC-188; RC-334; RC-690; RC-715 | [✔](termos/RC-176-modelo-colmeia-sistema-controle-colmeia.md) |
-| RC-177 | Colmeia do Éden | Lokas & Geografias | 3.3 Localidades terrestres | 🟡 | B044, B015 | RC-174; RC-006; RC-176 | — |
+| RC-177 | Colmeia do Éden | Lokas & Geografias | 3.3 Localidades terrestres | 🟡 | B044, B015 | RC-174; RC-006; RC-176 | [✔](termos/RC-177-colmeia-do-eden.md) |
 | RC-178 | Dois Grandes Favos | Conceitos Cosmológicos | 2.3 Dimensões / Planos de existência | 🟡 | B044 | RC-174; RC-106; RC-107 | — |
 | RC-179 | Plano Colmeia (para o Universo Biológico) | Eventos & Eras | 7.5 Missões / Expedições / Encontros | 🟢 | B044, P2024-11-30, P2024-07-13 | RC-036; RC-091; RC-107; RC-174; RC-183; RC-187 | [✔](termos/RC-179-plano-colmeia-para-o-universo-biologico.md) |
-| RC-180 | Fator Colmeia | Conceitos Cosmológicos | 2.2 Leis e princípios cósmicos | 🟡 | B044, P2024-11-30 | RC-174; RC-176; RC-155 | — |
-| RC-181 | Pluribus Unum | Termos Específicos | 8.4 Grego / Latim | 🟡 | B044 | RC-174; RC-182 | — |
-| RC-182 | Unus Pluribum | Termos Específicos | 8.4 Grego / Latim | 🟡 | B044 | RC-174; RC-181 | — |
-| RC-183 | Cultura Demodhármica | Conceitos Cosmológicos | 2.2 Leis e princípios cósmicos | 🟡 | B044, B014 | RC-044; RC-049; RC-075; RC-179 | — |
-| RC-184 | Trava-demo | Conceitos Cosmológicos | 2.2 Leis e princípios cósmicos | 🟡 | B044, B020 | RC-049; RC-078; RC-086; RC-283 | — |
-| RC-185 | Horda Colmeia | Seres & Entidades | 1.4 Anjos / Arcanjos / Querubins | 🟡 | B044 | RC-031; RC-019; RC-174 | — |
+| RC-180 | Fator Colmeia | Conceitos Cosmológicos | 2.2 Leis e princípios cósmicos | 🟡 | B044, P2024-11-30 | RC-174; RC-176; RC-155 | [✔](termos/RC-180-fator-colmeia.md) |
+| RC-181 | Pluribus Unum | Termos Específicos | 8.4 Grego / Latim | 🟡 | B044 | RC-174; RC-182 | [✔](termos/RC-181-pluribus-unum.md) |
+| RC-182 | Unus Pluribum | Termos Específicos | 8.4 Grego / Latim | 🟡 | B044 | RC-174; RC-181 | [✔](termos/RC-182-unus-pluribum.md) |
+| RC-183 | Cultura Demodhármica | Conceitos Cosmológicos | 2.2 Leis e princípios cósmicos | 🟡 | B044, B014 | RC-044; RC-049; RC-075; RC-179 | [✔](termos/RC-183-cultura-demodharmica.md) |
+| RC-184 | Trava-demo | Conceitos Cosmológicos | 2.2 Leis e princípios cósmicos | 🟡 | B044, B020 | RC-049; RC-078; RC-086; RC-283 | [✔](termos/RC-184-trava-demo.md) |
+| RC-185 | Horda Colmeia | Seres & Entidades | 1.4 Anjos / Arcanjos / Querubins | 🟡 | B044 | RC-031; RC-019; RC-174 | [✔](termos/RC-185-horda-colmeia.md) |
 | RC-186 | Biodemol | Seres & Entidades | 1.7 Híbridos / Seres de transição | 🟠 | B044, B017, B018, B023, P2024-11-30, P2024-04-13, P2021-05-15, P2023-12-03, P2022-05-07 | RC-036; RC-078; RC-176; RC-323 | [✔](termos/RC-186-biodemol.md) |
-| RC-187 | Insectoides | Seres & Entidades | 1.3 Extraterrestres / Raças cósmicas | 🟡 | B044 | RC-036; RC-091; RC-098; RC-179 | — |
+| RC-187 | Insectoides | Seres & Entidades | 1.3 Extraterrestres / Raças cósmicas | 🟡 | B044 | RC-036; RC-091; RC-098; RC-179 | [✔](termos/RC-187-insectoides.md) |
 | RC-188 | Mente Coletiva / Redes Psíquicas Coletivas | Conceitos Cosmológicos | 2.2 Leis e princípios cósmicos | 🟢 | B044, P2021-12-04, P2026-07-30, P2024-11-09, P2021-05-15, P2020-04-25, P2022-03-26, P2023-12-03 | RC-176; RC-001; RC-019; RC-603; RC-601; RC-606 | [✔](termos/RC-188-mente-coletiva-redes-psiquicas-coletivas.md) |
 | RC-189 | Eva (figura) | Seres & Entidades | 1.6 Figuras humanas (históricas/míticas) | 🟢 | B044, B020, P2025-03-15, P2025-02-16, P2024-11-30, P2024-11-09, P2024-02-03, P2023-06-03, P2023-04-01, P2022-09-24, P2023-04-01b, P2024-11-03, P2021-05-15, P2023-12-03 | RC-086; RC-099; RC-184; RC-242; RC-540; RC-579; RC-727 | [✔](termos/RC-189-eva-figura.md) |
 | RC-190 | Revelação Espiritual (Kardec) | Conceitos Cosmológicos | 2.4 Espiritualidade / Doutrina | 🟢 | B044, B016, B013, B048, B006, B060, B042, P2025-02-15, P2024-11-30, P2024-11-09, P2024-03-03, P2024-04-14, P2025-06-14b, P2024-02-03, P2020-09-19, P2012-02-19 | RC-094; RC-071; RC-100; RC-933 | [✔](termos/RC-190-revelacao-espiritual-kardec.md) |
