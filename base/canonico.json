@@ -5042,7 +5042,7 @@
     "RC-006",
     "RC-176"
    ],
-   "ficha": false,
+   "ficha": true,
    "via": "P6-evidência",
    "confianca_fonte": "média"
   },
@@ -5102,7 +5102,7 @@
     "RC-176",
     "RC-155"
    ],
-   "ficha": false,
+   "ficha": true,
    "via": "P6-evidência",
    "confianca_fonte": "média"
   },
@@ -5119,7 +5119,7 @@
     "RC-174",
     "RC-182"
    ],
-   "ficha": false,
+   "ficha": true,
    "via": "P6-evidência",
    "confianca_fonte": "média"
   },
@@ -5136,7 +5136,7 @@
     "RC-174",
     "RC-181"
    ],
-   "ficha": false,
+   "ficha": true,
    "via": "P6-evidência",
    "confianca_fonte": "média"
   },
@@ -5156,7 +5156,7 @@
     "RC-075",
     "RC-179"
    ],
-   "ficha": false,
+   "ficha": true,
    "via": "P6-evidência",
    "confianca_fonte": "média"
   },
@@ -5176,7 +5176,7 @@
     "RC-086",
     "RC-283"
    ],
-   "ficha": false,
+   "ficha": true,
    "via": "P6-evidência",
    "confianca_fonte": "média"
   },
@@ -5194,7 +5194,7 @@
     "RC-019",
     "RC-174"
    ],
-   "ficha": false,
+   "ficha": true,
    "via": "P6-evidência",
    "confianca_fonte": "média"
   },
@@ -5240,7 +5240,7 @@
     "RC-098",
     "RC-179"
    ],
-   "ficha": false,
+   "ficha": true,
    "via": "P6-evidência",
    "confianca_fonte": "média"
   },

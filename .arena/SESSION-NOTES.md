@@ -2535,3 +2535,40 @@ para não perder nada, `git reset --mixed FETCH_HEAD` para reancorar no U47
 (que é a fonte da verdade), restauração do `.arena/SESSION-NOTES.md` pelo U47
 (diretório fora do snapshot: perde os blocos U41–U47) e reanexo do bloco U48.
 O conteúdo dos arquivos nunca se perdeu — só os objetos do git.
+
+
+## U49 — R1 · lote 6: os 8 da B044 (A Divina Colmeia) — obra liquidada
+
+**Despacho do Curador:** lote 6 APROVADO, com a recomendação expressa de
+«liquidar agrupamentos semânticos oriundos de uma mesma fonte de um único
+golpe». Auditoria da U48 aprovada com louvor; a manobra de contingência do
+`reset --mixed FETCH_HEAD` (incidente do sandbox) foi elogiada como cirúrgica.
+
+**As 8 fichas** (fonte única B044): RC-177 Colmeia do Éden · RC-180 Fator
+Colmeia · RC-181 Pluribus Unum · RC-182 Unus Pluribum · RC-183 Cultura
+Demodhármica · RC-184 Trava-demo · RC-185 Horda Colmeia · RC-187 Insectoides.
+46 fragmentos verbatim intra-linha, 0 falhas. V revogado mantido (as 8 nascem
+🟡; nenhum 🟢 acrescentado).
+
+**ACHADO NOVO DE MEDIÇÃO — caixa alta espaçada.** Quatro dos oito códigos são
+títulos de capítulo, e a B044 os grafa no corpo assim:
+
+    A  “ C O L M E I A  D O  É D E N ”      (B044 L727)
+
+A busca normalizada do censo (v1 e v2) não alcança essa forma — é a mesma
+classe de artefato do hard-wrap, numa variante nova: não é a frase que se
+parte, é a própria palavra. Os títulos foram citados verbatim, com os espaços
+da edição, e passaram pelo portão B byte a byte. Mapa dos 15 capítulos com as
+linhas está na certidão. **Proposta de normalização do localizador
+(colapsar `C\s+O\s+L\s+M\s+E\s+I\s+A` → `COLMEIA`) registrada e NÃO
+despachada: o instrumento não foi alterado nesta unidade.**
+
+**Erros meus, presos pelo portão antes de qualquer escrita (4):** RC-177 L775
+(a linha começa em «submetidas à violência?»; desdobrado em L775+L776) ·
+RC-185 L3417/L3418 (deslocamento de duas linhas → L3418/L3419) · RC-187 L611
+(um «um» omitido). **Lição aplicada:** pré-conferir TODOS os fragmentos do lote
+numa passada única antes de invocar o driver, em vez de iterar uma falha por
+vez.
+
+**Números:** 746 → **754 fichas** · GAP 200 → **192** · família B v2: 93 →
+**85 restantes** · **B044: 8 → 0** · cadastro 572🟢/212🟡/102🟠/60⚪ inalterado.

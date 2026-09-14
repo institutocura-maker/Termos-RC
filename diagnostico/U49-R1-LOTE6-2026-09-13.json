@@ -1,0 +1,466 @@
+{
+ "unidade": "U49",
+ "lote": 6,
+ "data": "2026-09-13",
+ "rota": "R1",
+ "criterio": "família B do censo v2 — bloco único dos 8 códigos da B044 (A Divina Colmeia), por despacho do Curador (critério preferencial: liquidar agrupamentos semânticos de uma mesma fonte de um só golpe)",
+ "v_revogado": true,
+ "nota_hardwrap": "**Fratura de hard-wrap:** a edição digital das fontes quebra as sentenças em linhas curtas. Cada fragmento entre «» é verbatim **intra-linha**, conferido byte a byte contra o `original.txt` da obra declarada; quando uma sentença foi partida, o seu início e o seu fecho aparecem como fragmentos distintos, com as linhas indicadas. Nesta obra, os títulos de capítulo são ainda grafados em **caixa alta espaçada** no corpo (por exemplo, L727), o que os torna invisíveis à busca normalizada — ver as Observações destas fichas.",
+ "fichas": [
+  {
+   "cod": "RC-177",
+   "slug": "colmeia-do-eden",
+   "definicao": "Capítulo 2 de B044 (*A Divina Colmeia*). A obra desenvolve o tema perguntando-se que espécie de «laboratório» seria o «Jardim do Éden» de onde todas as expressões de vida teriam saído «absolutamente devotadas ou desgraçadamente submetidas à violência», e propondo que o planeta seja um «grande laboratório», no qual uma «molécula-mãe» — com o código genético que está por trás da edificação de todos os seres vivos conhecidos — foi «semeada» há cerca de 3 bilhões e 800 milhões de anos, já trazendo consigo a exata definição desse tipo de situação ditatorial, de um lado, e a de subserviência, do outro.",
+   "cit": [
+    [
+     "B044",
+     727,
+     [
+      "A  “ C O L M E I A  D O  É D E N ”"
+     ],
+     "título do capítulo 2, no corpo da obra, em caixa alta espaçada (verbatim, com os espaços da edição)"
+    ],
+    [
+     "B044",
+     46,
+     [
+      "A “Colmeia do Éden”"
+     ],
+     "entrada do SUMÁRIO (L46), sob o número do capítulo (L45)"
+    ],
+    [
+     "B044",
+     772,
+     [
+      "Se a vida surgiu no maravilhoso “Jardim do Éden”, que classe de"
+     ],
+     "abertura da interrogação que dá título ao capítulo (continua em L773–L774)"
+    ],
+    [
+     "B044",
+     775,
+     [
+      "Ou esse planeta todo seria um “grande laboratório”,"
+     ],
+     "a tese do planeta como laboratório (continua em L776–L777)"
+    ],
+    [
+     "B044",
+     776,
+     [
+      "no qual uma “molécula-mãe” – com o código genético que está por trás da"
+     ],
+     "continuação — a «molécula-mãe» e o código genético"
+    ],
+    [
+     "B044",
+     778,
+     [
+      "há cerca de 3 bilhões e 800 milhões de anos, já trazendo consigo a exata"
+     ],
+     "meio da mesma sentença — a data da semeadura"
+    ],
+    [
+     "B044",
+     780,
+     [
+      "do outro, para o que chamamos de “dádiva da vida”"
+     ],
+     "fecho da sentença (a interrogação fecha em L781)"
+    ]
+   ],
+   "obs": [
+    "**A expressão só ocorre duas vezes na obra, ambas em posição estrutural:** a entrada do SUMÁRIO (L46) e o índice de Notas Explicativas (L5542). No corpo, o título do capítulo 2 está em **caixa alta espaçada** (L727), forma que a busca normalizada não alcança — é o mesmo tipo de artefato de medição que motivou o censo v2, agora em nova variante.",
+    "A ficha, portanto, apoia-se em: (i) o título verbatim nas duas posições estruturais e no corpo; (ii) a prosa do próprio capítulo (L772–L781), que é onde o tema se desenvolve."
+   ]
+  },
+  {
+   "cod": "RC-180",
+   "slug": "fator-colmeia",
+   "definicao": "Padrão de funcionamento que, segundo a obra, vigora «entre Javé e seus anjos-clones robotizados» e do qual advém a «velha e imperativa “doença”» cujas sequências genéticas «estão desgraçadamente marcadas em qualquer ser que exista no âmbito da Obra “problemática”». A expressão dá título ao capítulo 15 de B044, «O “Fator Colmeia” e o Cenário Final», e é apresentada desde o capítulo 1 como o modelo vigente na gênese do sistema.",
+   "cit": [
+    [
+     "B044",
+     4618,
+     [
+      "O  “ F A T O R  C O L M E I A ”  E  O  C E N Á R I O  F I N A L"
+     ],
+     "título do capítulo 15, no corpo da obra, em caixa alta espaçada"
+    ],
+    [
+     "B044",
+     633,
+     [
+      "que, lá na sua gênese, funciona exatamente como o “fator colmeia”, existente"
+     ],
+     "a definição pela gênese do sistema (continua em L634)"
+    ],
+    [
+     "B044",
+     634,
+     [
+      "entre Javé e seus anjos-clones robotizados?"
+     ],
+     "fecho da mesma sentença — entre quem vigora"
+    ],
+    [
+     "B044",
+     4327,
+     [
+      "velha e imperativa “doença” advinda do “fator colmeia”, cujas sequências"
+     ],
+     "a «doença» que dele advém (continua em L4328–L4329)"
+    ],
+    [
+     "B044",
+     4328,
+     [
+      "genéticas estão desgraçadamente marcadas em qualquer ser que exista no"
+     ],
+     "meio da mesma sentença"
+    ],
+    [
+     "B044",
+     4200,
+     [
+      "”, e que serve de exemplo para o “fator colmeia” – que está"
+     ],
+     "outra ocorrência, no capítulo 14 (continua em L4201–L4202)"
+    ]
+   ],
+   "obs": [
+    "A obra usa a expressão também no capítulo 14 (L4200) e nas proximidades do capítulo 15 (L4327), sempre no mesmo sentido: o padrão «colmeia» vigente entre o Criador e as suas criaturas.",
+    "O **capítulo 15** (L4618) é o «Cenário Final» do livro e desenvolve a expressão; a ficha registra o título e as definições esparsas, sem resumir o capítulo."
+   ]
+  },
+  {
+   "cod": "RC-181",
+   "slug": "pluribus-unum",
+   "definicao": "Expressão latina que a obra verte por «DE MUITOS, UM!» e apresenta como **uma das faces da «moeda» chamada «colmeia»**: o sistema existencial em que a relação de coexistência entre «um» — que se distingue por uma razão qualquer — e os «demais» costuma ser aplicada para a vinculação entre o «equivocado conceito de “Deus”» e os homens. Estudiosos de diversas categorias a assumem como «todos por um», sentido que a obra acolhe para significar o alto grau de dependência que o Criador tem das suas «criaturas-ferramentas». Título do capítulo 13 de B044.",
+   "cit": [
+    [
+     "B044",
+     3983,
+     [
+      "P L U R I B U S  U N U M"
+     ],
+     "título do capítulo 13, no corpo da obra, em caixa alta espaçada"
+    ],
+    [
+     "B044",
+     3989,
+     [
+      "UM"
+     ],
+     "a abertura do capítulo está em caixa espaçada, letra por letra (L3984–L3990): «DE MUITOS, UM!»"
+    ],
+    [
+     "B044",
+     3991,
+     [
+      " – é o significado da expressão latina “"
+     ],
+     "a atribuição de sentido à expressão (continua em L3992–L3993)"
+    ],
+    [
+     "B044",
+     3992,
+     [
+      "Pluribus unum"
+     ],
+     "a expressão, verbatim"
+    ],
+    [
+     "B044",
+     3994,
+     [
+      "Essa é uma das faces da “moeda” chamada “colmeia”, em cujo sistema"
+     ],
+     "a qualificação: uma face da «moeda» colmeia (continua em L3995–L3997)"
+    ],
+    [
+     "B044",
+     3999,
+     [
+      "esse conceito latino como sendo “todos por um”, o que, no que se refere ao"
+     ],
+     "a leitura de «todos por um» (continua em L4000–L4001)"
+    ]
+   ],
+   "obs": [
+    "O par formado com **Unus Pluribum** (RC-182) é explícito na obra: são as «duas faces da moeda chamada colmeia» (L3994 e L4352).",
+    "A abertura do capítulo (L3984–L3990) vem em caixa alta espaçada, palavra por palavra («D», «E», «MUITOS», «,», «UM», «!”»); apenas as partes citáveis linha a linha foram trazidas."
+   ]
+  },
+  {
+   "cod": "RC-182",
+   "slug": "unus-pluribum",
+   "definicao": "Expressão latina que a obra verte por «UM A PARTIR DE TODOS» ou «um a partir de muitos» e apresenta como **a outra face da «Colmeia»**: nela, o Criador «caído» sempre procurou, inconscientemente, «alimentar-se» ou ter o seu «alimento» preparado pelos seus anjos-clones, depois pelos seres demos, mais tarde pelos biodemos e pelos biodemol. Título do capítulo 14 de B044.",
+   "cit": [
+    [
+     "B044",
+     4337,
+     [
+      "U N U S  P L U R I B U M"
+     ],
+     "título do capítulo 14, no corpo da obra, em caixa alta espaçada"
+    ],
+    [
+     "B044",
+     4347,
+     [
+      "TODOS"
+     ],
+     "a abertura do capítulo está em caixa espaçada (L4338–L4348): «UM A PARTIR DE TODOS»"
+    ],
+    [
+     "B044",
+     4349,
+     [
+      " ou “um a partir de muitos”, são esses os dois"
+     ],
+     "a segunda tradução (continua em L4350–L4351)"
+    ],
+    [
+     "B044",
+     4351,
+     [
+      "unus pluribum”."
+     ],
+     "fecho da sentença de atribuição de sentido"
+    ],
+    [
+     "B044",
+     4352,
+     [
+      "Essa é a outra face da “Colmeia”!"
+     ],
+     "a qualificação: a outra face da moeda"
+    ],
+    [
+     "B044",
+     4353,
+     [
+      "Aqui, o Criador “caído” sempre procurou, inconscientemente, se"
+     ],
+     "o desenvolvimento do sentido (continua em L4354–L4361)"
+    ]
+   ],
+   "obs": [
+    "O par formado com **Pluribus Unum** (RC-181) é explícito na obra: são as «duas faces da moeda chamada colmeia» (L3994 e L4352).",
+    "A lista dos que preparam o «alimento» do Criador (anjos-clones, demos, biodemos e biodemol) está em L4355–L4361; a ficha a menciona sem citar cada item."
+   ]
+  },
+  {
+   "cod": "RC-183",
+   "slug": "cultura-demodharmica",
+   "definicao": "Modo comum à «cultura demo», associado à **lei do dharma** — que se referia ao cumprimento do *varna*, termo sânscrito que significa «talento de cada demo» e que mais tarde passou a ser entendido como «casta», como sendo uma questão de «honra demo»; uma das maneiras encontradas por Krishna para fazer evoluir o baixo padrão do comprometimento do psiquismo demo com as suas obrigações. No sentido em que o autor diz usar nos livros e palestras, «demodhármico» seria referente ao «modo de ser demo», «modo demo de sentir», enfim, «modo de pensar demo».",
+   "cit": [
+    [
+     "B044",
+     5444,
+     [
+      "Cultura Demodhármica"
+     ],
+     "entrada nas Notas Explicativas"
+    ],
+    [
+     "B044",
+     5445,
+     [
+      "Modo comum à “cultura demo”, associado à lei do"
+     ],
+     "a definição, abertura (continua em L5446)"
+    ],
+    [
+     "B044",
+     5446,
+     [
+      "dharma"
+     ],
+     "fecho da sentença de abertura"
+    ],
+    [
+     "B044",
+     5450,
+     [
+      "termo sânscrito que significa “talento de cada demo”, e que mais tarde passou a ser entendido como"
+     ],
+     "o sentido de *varna* (início em L5447–L5449)"
+    ],
+    [
+     "B044",
+     5452,
+     [
+      "fazer evoluir o baixo padrão do comprometimento do psiquismo demo com suas obrigações."
+     ],
+     "fecho da sentença"
+    ],
+    [
+     "B044",
+     5454,
+     [
+      "“modo de ser demo”, “modo demo de sentir”, enfim, “modo de pensar demo”."
+     ],
+     "o sentido empregado pelo autor (início em L5453)"
+    ]
+   ],
+   "obs": [
+    "No corpo da obra, a expressão aparece grafada «cultura demodhármica» na passagem em que o autor identifica o Criador «decaído»: «o ocidente conhece como sendo o “Javé bíblico”, e que a cultura demodhármica oriental denomina como “Brahma”» (B044 L400–L404).",
+    "**Trava-demo** (RC-184) e **cultura demo** (RC-044) compartilham a mesma raiz conceitual."
+   ]
+  },
+  {
+   "cod": "RC-184",
+   "slug": "trava-demo",
+   "definicao": "Na passagem em que a obra trata da «revolução solitária de Pandora» — uma «transferência de fase inédita na história universal» —, o termo designa aquilo de que o psiquismo de Pandora se libertou para «se alinhar com a espécie humana», cujos membros eram então tidos como «animais de estimação» pelos «deuses». Em contrapartida, a obra registra o condicionamento que se seguiu: uma lavagem cerebral para «enjaular o recém-liberto psiquismo humano nos padrões definidos pelos seus “Ex-proprietários”», operada por meio das religiões ancoradas no enredo ancestral de «Deuses» disputando poder.",
+   "cit": [
+    [
+     "B044",
+     2992,
+     [
+      "de fase inédita na história universal, levando o seu psiquismo a se libertar da"
+     ],
+     "a libertação (início em L2991)"
+    ],
+    [
+     "B044",
+     2993,
+     [
+      "“trava-demo” e a se alinhar com a espécie humana – cujos membros, na"
+     ],
+     "o termo, no coração da sentença"
+    ],
+    [
+     "B044",
+     2994,
+     [
+      "ocasião, eram tidos como “animais de estimação” pelos “deuses” –, em"
+     ],
+     "a condição dos humanos na ocasião"
+    ],
+    [
+     "B044",
+     2996,
+     [
+      "enjaular o recém-liberto psiquismo humano nos padrões definidos pelos seus"
+     ],
+     "a contrapartida: o condicionamento (início em L2995)"
+    ]
+   ],
+   "obs": [
+    "Ocorrência única na obra: o termo só aparece nesta passagem do capítulo 8 («Subserviência “Deslacrada”», L2978).",
+    "A sentença prossegue atribuindo o aprisionamento «às religiões ancoradas neste triste e infeliz enredo ancestral de “Deuses” disputando poder em torno da origem da Criação e do seu comando» (B044 L2997–L2999) — registrado como existente na fonte, sem adopção do juízo."
+   ]
+  },
+  {
+   "cod": "RC-185",
+   "slug": "horda-colmeia",
+   "definicao": "Conjunto dos seres das «famílias Aya e Aye» — mais especificamente os que fizeram o primeiro contato com o autor —, que segundo a obra se encontrava vivendo talvez o ápice da sua condição de desenvolvimento no campo da inteligência, enquanto, paradoxalmente, permaneciam ignorantes sobre o sentido da racionalidade subjetiva e complexa relativa à decência, às emoções superiores e ao senso crítico.",
+   "cit": [
+    [
+     "B044",
+     3412,
+     [
+      "Demorei muito para compreender como a “horda colmeia”, composta por"
+     ],
+     "a definição, abertura (continua em L3413–L3417)"
+    ],
+    [
+     "B044",
+     3413,
+     [
+      "aqueles seres das “famílias"
+     ],
+     "meio da sentença — de quem se compõe (continua em L3414–L3417)"
+    ],
+    [
+     "B044",
+     3418,
+     [
+      "o primeiro contato comigo –, encontrava-se vivendo talvez o ápice da sua"
+     ],
+     "o ápice no campo da inteligência (continua em L3419)"
+    ],
+    [
+     "B044",
+     3419,
+     [
+      "condição de desenvolvimento no campo da inteligência, enquanto,"
+     ],
+     "fecho da sentença (continua em L3420–L3422)"
+    ],
+    [
+     "B044",
+     3420,
+     [
+      "paradoxalmente, permaneciam ignorantes sobre o sentido da racionalidade"
+     ],
+     "o paradoxo (continua em L3421–L3422)"
+    ]
+   ],
+   "obs": [
+    "Ocorrência única na obra (L3412), no capítulo 10 («Inesperada Liberdade», L3398).",
+    "As «famílias Aya e Aye» são as mesmas citadas no censo do gap; a ficha não as cria nem as relaciona — apenas registra o que a obra diz."
+   ]
+  },
+  {
+   "cod": "RC-187",
+   "slug": "insectoides",
+   "definicao": "Espécies extraterrestres que possuem a forma de insetos — popularmente chamadas «insectoides» — e que, segundo a obra, surgiram universo afora após a «semeadura» do código-fonte definidor de vida do Criador, adaptado às condições deste universo material. Teriam capacidade técnica avançada para construir naves espaciais, mas apresentam comportamento «automatizado»: nada ainda parecido com os padrões da natureza humana.",
+   "cit": [
+    [
+     "B044",
+     2664,
+     [
+      "extraterrestres que possuem a forma de insetos – popularmente chamadas de"
+     ],
+     "a definição, no capítulo 7 (início em L2663)"
+    ],
+    [
+     "B044",
+     2665,
+     [
+      "“insectoides” –, que surgiram"
+     ],
+     "o termo, verbatim"
+    ],
+    [
+     "B044",
+     2666,
+     [
+      "universo afora, após a “semeadura” do código-"
+     ],
+     "a origem (continua em L2667)"
+    ],
+    [
+     "B044",
+     2667,
+     [
+      "fonte definidor de vida do Criador, adaptado às condições deste universo"
+     ],
+     "fecho da sentença"
+    ],
+    [
+     "B044",
+     610,
+     [
+      "insectoides, com capacidade técnica avançada para construir"
+     ],
+     "reforço no capítulo 1 (início em L609)"
+    ],
+    [
+     "B044",
+     611,
+     [
+      "naves espaciais, mas que apresentam um comportamento “automatizado”."
+     ],
+     "fecho da sentença — a limitação do comportamento"
+    ]
+   ],
+   "obs": [
+    "A obra contrapõe os insectoides aos insetos eussociais da natureza terrestre (abelhas, vespas, cupins, formigas), que seriam espécies irracionais vivendo em sociedades altamente organizadas; os insectoides, estes, teriam evoluído e «despertado para os padrões mínimos do que entendemos por racionalidade» (B044 L605–L612)."
+   ]
+  }
+ ]
+}
