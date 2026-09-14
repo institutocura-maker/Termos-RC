@@ -2885,3 +2885,24 @@ alongada explicada pela própria obra, não contradição.
 **44** (24 activos + 20 congelados) · cadastro 572🟢 inalterado.
 
 **Próximo poço activo:** B050 3 · B002 2 · B014 2 · B020 2 · B003 2 · B026 2.
+
+## U61 — R1 · lote 18: os 3 da B050
+
+**Despacho do Curador:** lote 18 = B050; cadência obra a obra mantida.
+
+**3 fichas, 7 fragmentos.** RC-397 Tirthankaras (**ETIQUETADA**) · RC-399
+Dwarka submersa · RC-402 Halos de Poder. **B050 3→0.**
+
+**Achado 1 — a B050 não é um livro:** é um INFOGRÁFICO A0 de 1 página; o
+`original.txt` é a transcrição estrutural fiel do texto vectorial (298 spans,
+sem OCR, sem interpolação), com 143 eventos datados em 4 trilhas. A data entre
+colchetes e as coordenadas (trilha, y) são **aparelho da transcrição**, não
+texto impresso — as citações tomam o núcleo da legenda.
+
+**Achado 2 — ETIQUETA accionada:** «Tirthankaras» (L170) × «Thirtankara»
+(L186) — outra ordem de letras no próprio termo, não convenção de caixa.
+
+**Números:** 796 → **799 fichas** · GAP 150 → **147** · família B v3 44 →
+**41** (21 activos + 20 congelados) · cadastro 572🟢 inalterado.
+
+**Próximo poço activo:** B002 2 · B014 2 · B020 2 · B003 2 · B026 2 · B034 2.

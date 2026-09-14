@@ -10035,7 +10035,7 @@
     "RC-697",
     "RC-755"
    ],
-   "ficha": false,
+   "ficha": true,
    "via": "P6-evidência",
    "confianca_fonte": "média"
   },
@@ -10078,7 +10078,7 @@
     "RC-094",
     "RC-010"
    ],
-   "ficha": false,
+   "ficha": true,
    "via": "P6-evidência",
    "confianca_fonte": "média"
   },
@@ -10145,7 +10145,7 @@
     "RC-049",
     "RC-094"
    ],
-   "ficha": false,
+   "ficha": true,
    "via": "P6-evidência",
    "confianca_fonte": "média"
   },

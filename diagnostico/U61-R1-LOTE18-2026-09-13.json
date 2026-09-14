@@ -1,0 +1,55 @@
+{
+ "unidade": "U61",
+ "lote": 18,
+ "data": "2026-09-13",
+ "rota": "R1",
+ "criterio": "família B do censo v3 (referência homologada) — bloco de fonte única da B050 (Guia das Eras Universais · Mapa), 3 códigos, por despacho do Curador (via expressa; segregação obra a obra)",
+ "v_revogado": true,
+ "nota_fonte": "**A natureza da fonte (achado que se registra para o Curador):** a B050 **não é um livro**. Conforme a `[NOTA METODOLÓGICA]` do próprio `original.txt` (L5–L9), o `original.pdf` é um **INFOGRÁFICO de 1 página** (A0, 3436×2450 pt, Adobe Illustrator 26.1, 30/05/2023), intitulado «Linha do Tempo da Revelação Cósmica», sem fluxo de texto corrido; o ficheiro é a **TRANSCRIÇÃO ESTRUTURAL FIEL do conteúdo textual vetorial do artefato** (298 spans), extraída com pypdf/PyMuPDF, «sem OCR, sem interpolação». **Consequência para o Portão de Paridade:** cada entrada da cronologia (L63–L205) tem a forma `[DATA a.p.] (trilha X, y=NNN) <texto da legenda> (DATA por extenso)`. A data entre colchetes e a anotação «(trilha X, y=NNN)» são **aparelho da transcrição** — a própria secção 4 o declara: «trilha e posição y **conforme o artefato**» (L58) —, e não texto impresso no infográfico. Por isso as citações abaixo tomam o **núcleo semântico da legenda**, sem o aparelho; cada fragmento é, ainda assim, verbatim **intra-linha** do `original.txt`, conferido byte a byte. A barra «/» dentro das linhas marca uma quebra de linha interna ao span (a legenda continua na linha visual seguinte do artefato).",
+ "fichas": [
+  {
+   "cod": "RC-397",
+   "slug": "tirthankaras-rishabh-dev-jina-mahavira",
+   "definicao": "Na B050 (*Guia das Eras Universais · Mapa* — infográfico «Linha do Tempo da Revelação Cósmica»), os mestres do Jainadharma, figurando em duas entradas datadas da cronologia unificada: em 8.765 a.p., «Rishabh Dev, primeiro dos Tirthankaras. Fundou o Jainadharma.»; em 2.600 a.p., «Jina Mahavira. 24°A Thirtankara.». [⚠️ DIVERGÊNCIA INTERNA DA FONTE — a obra grafa o termo de dois modos: «Tirthankaras» e «Thirtankara»; ver observações.]",
+   "cit": [
+    ["B050", 170, ["Rishabh Dev, primeiro dos"], "Rishabh Dev (o hard-wrap da transcrição parte a entrada; segue em L170)"],
+    ["B050", 170, ["Tirthankaras. Fundou o Jainadharma."], "o termo e a fundação atribuída"],
+    ["B050", 186, ["Jina Mahavira. 24°A Thirtankara. (2600 a.p.)"], "Jina Mahavira — grafia «Thirtankara»"]
+   ],
+   "obs": [
+    "[⚠️ DIVERGÊNCIA INTERNA DA FONTE] **«Thirtankara» (L186) × «Tirthankaras» (L170).** Acciono a etiqueta porque a diferença **altera o termo**: não é convenção de caixa (alta × baixa) nem espaçamento gráfico, mas **outra ordem de letras** (Thir‑ × Tir‑), na grafia do próprio nome, em duas entradas do mesmo artefato. Pela jurisprudência homologada na U56 — «a diferença altera o TERMO, ou apenas o modo de o imprimir?» —, a resposta é a primeira. Ambas as posições vão **verbatim**, sem conciliação e sem correcção. **Submeto o enquadramento ao Curador.**",
+    "**Registro de cautela:** a grafia anómala «24°A» (com o «A» solto após o ordinal) e a própria «Thirtankara» provêm da camada vectorial extraída «sem OCR, sem interpolação» — isto é, constam do ficheiro canónico tal como o artefato as traz. A ficha não corrige nem conjectura; se o defeito for do infográfico ou da extração, isso não se decide aqui.",
+    "**O cadastro e a fonte coincidem nos dois nomes:** a designação do verbete («Rishabh Dev, Jina Mahavira») corresponde às duas entradas do mapa — o primeiro e o vigésimo quarto. A ficha não acrescenta nenhum outro nome: são os dois que a fonte traz.",
+    "**A fonte não explica o termo.** O infográfico apenas **data e nomeia** os dois mestres, sem definir o que seja um tirthankara. A ficha registra o que a legenda diz e não lhe atribui doutrina (postulado central da Extração R1)."
+   ]
+  },
+  {
+   "cod": "RC-399",
+   "slug": "dwarka-submersa",
+   "definicao": "Na B050 (*Guia das Eras Universais · Mapa* — infográfico «Linha do Tempo da Revelação Cósmica»), entrada datada da trilha C da cronologia unificada: «Dwarka submersa. (19 mil a.p. )». O mapa registra o evento sem o descrever — a legenda é a íntegra do que a fonte diz.",
+   "cit": [
+    ["B050", 158, ["Dwarka submersa."], "a íntegra da entrada (L158)"],
+    ["B050", 158, ["19 mil a.p."], "a datação, conforme a transcrição"]
+   ],
+   "obs": [
+    "**A fonte não descreve, situa.** «Dwarka submersa.» é a totalidade da legenda: um marco cronológico, não uma exposição. A ficha não infere localização, causa, agente ou consequência — nenhuma dessas coisas está na linha (postulado central da Extração R1).",
+    "A entrada figura na **trilha C** (pré-história e mito), entre «Completada a Experiência Gron» (19.700 a.p., L157) e «Início das mortes de biodemos no Hiperbóreo» (19 mil a.p., L159). A **vizinhança cronológica é contexto da obra e não é adoptada como definição**.",
+    "A transcrição grafa a datação com um espaço antes do parêntese de fecho («(19 mil a.p. )»); o fragmento citado toma «19 mil a.p.», sem o espaço final — artefato tipográfico da transcrição, registrado aqui e não normalizado na citação."
+   ]
+  },
+  {
+   "cod": "RC-402",
+   "slug": "halos-de-poder-demos",
+   "definicao": "Na B050 (*Guia das Eras Universais · Mapa* — infográfico «Linha do Tempo da Revelação Cósmica»), entrada datada de 7 bilhões de anos a.p., na trilha A (universo demo/antimaterial): «Halos de poder usados para estabilizar a forma física dos demos.»",
+   "cit": [
+    ["B050", 84, ["Halos de poder usados para estabilizar a forma física"], "a função atribuída (o «/» da transcrição parte a entrada)"],
+    ["B050", 84, ["dos demos. (7 bilhões a.p.)"], "os destinatários e a datação"]
+   ],
+   "obs": [
+    "**A fonte atribui uma função, e só isso:** estabilizar a forma física dos demos. Não diz o que os halos são, de que são feitos, quem os produziu nem como operam. Nenhuma dessas coisas é inferida pela ficha.",
+    "A entrada figura na **trilha A** (universo demo/antimaterial), na mesma data de «Abertura de portais entre os universos material e antimaterial» (L83). A **contemporaneidade é do mapa**; a ficha não afirma relação de causa entre as duas entradas, porque a fonte não a enuncia.",
+    "**O cadastro grafa «Halos de Poder» (caixa alta) e a legenda traz «Halos de poder»** (caixa normal). Não acciono a etiqueta: é convenção de caixa, sem alteração do termo (critério homologado na U56)."
+   ]
+  }
+ ]
+}

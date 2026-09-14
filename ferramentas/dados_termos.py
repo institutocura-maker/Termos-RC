@@ -529,12 +529,12 @@ TERMOS = [
     # ---- Novos termos de B050 (Guia das Eras Universais — Mapa; obra complementar do filho de JVE)
     ("RC-395", "Ragnarok em Marte", EVE_CAT[0], EVE_CAT[1], 'verificado', ['B050', 'B060', 'P2022-12-17', 'P2025-02-16', 'P2024-11-30', 'P2024-11-02', 'P2024-08-03', 'P2024-03-02', 'P2025-11-29', 'P2023-08-05', 'P2023-05-20', 'P2023-04-01', 'P2020-08-08', 'P2021-03-13', 'P2025-02-22', 'P2021-05-15', 'P2023-10-14', 'P2023-12-03', "P2024-06-16", "P2022-12-03", "P2026-03-21"], 'RC-145; RC-102; RC-300; RC-094; RC-471; RC-694; RC-611; RC-470; RC-730; RC-742; RC-454; RC-467; RC-103; RC-396', True),
     ("RC-396", "Kvasir e Freya (Vanir/Aesir)", SER_DEC[0], SER_DEC[1], 'verificado', ['B050', 'B060', 'P2024-11-30', 'P2024-03-02', 'P2020-08-08'], 'RC-049; RC-094; RC-395; RC-454; RC-611; RC-815; RC-816', True),  # ficha materializada em termos/
-    ("RC-397", "Tirthankaras (Rishabh Dev, Jina Mahavira)", SER_HUM[0], SER_HUM[1], P, ['B050', 'P2025-10-25', 'P2025-02-16', 'P2024-02-03'], 'RC-094; RC-099; RC-655; RC-697; RC-755', False),
+    ("RC-397", "Tirthankaras (Rishabh Dev, Jina Mahavira)", SER_HUM[0], SER_HUM[1], P, ['B050', 'P2025-10-25', 'P2025-02-16', 'P2024-02-03'], 'RC-094; RC-099; RC-655; RC-697; RC-755', True),
     ("RC-398", "Thuata de Dannan", SER_DEC[0], SER_DEC[1], 'verificado', ["B050", "B060", 'P2024-04-13', 'P2024-02-03', "P2017-10-14", "P2022-09-18"], "RC-094; RC-373; RC-068; RC-049; RC-755; RC-842", True),
-    ("RC-399", "Dwarka (submersa)", LOK_TER[0], LOK_TER[1], P, ["B050"], "RC-094; RC-010", False),
+    ("RC-399", "Dwarka (submersa)", LOK_TER[0], LOK_TER[1], P, ["B050"], "RC-094; RC-010", True),
     ("RC-400", "Foz Côa / FOXP2 (símbolos)", PRO_BIO[0], PRO_BIO[1], "verificado", ['B050', 'P2022-12-17', 'P2021-12-04', 'P2024-05-04', 'P2025-02-16', 'P2025-02-15', 'P2024-11-30', 'P2024-11-09', 'P2024-08-03', "P2022-09-17", "P2022-11-19", "P2025-12-14"], 'RC-099; RC-094; RC-577; RC-614; RC-619; RC-710', True),
     ("RC-401", "Família Demolle (biodemos)", GEN_EXT[0], GEN_EXT[1], P, ["B050", "P2021-05-15"], "RC-036; RC-094", False),
-    ("RC-402", "Halos de Poder (demos)", TEC_DIS[0], TEC_DIS[1], P, ["B050"], "RC-049; RC-094", False),
+    ("RC-402", "Halos de Poder (demos)", TEC_DIS[0], TEC_DIS[1], P, ["B050"], "RC-049; RC-094", True),
     ("RC-403", "Colegiado Druídico", GEN_EXT[0], GEN_EXT[1], 'em análise', ["B050", "B052", "P2017-10-14"], "RC-375; RC-373; RC-094; RC-755", True),
 
     # ---- Novos termos de B027 (obra primária: Nos Céus da Grécia — AMOSTRA PARCIAL)
