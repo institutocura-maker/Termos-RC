@@ -469,7 +469,7 @@ TERMOS = [
     ("RC-344", "Transição Planetária", EVE_ERA[0], EVE_ERA[1], "em análise", ['B003', 'B025', 'B042', 'P2022-12-17', 'P2025-03-15', 'P2025-02-16', 'P2025-02-15', 'P2024-11-30', 'P2023-12-03'], 'RC-003; RC-005; RC-094; RC-342; RC-535; RC-573', True),
     ("RC-345", "Sentimento Luciferiano", COS_ETI[0], COS_ETI[1], P, ["B003"], "RC-078; RC-002; RC-342; RC-094", False),
     ("RC-346", "Jeová (grafia da trilogia)", SER_DIV[0], SER_DIV[1], "verificado", ['B003', 'B025', 'P2024-11-30'], 'RC-001; RC-041; RC-078; RC-094; RC-284; RC-351', True),
-    ("RC-347", "Projeto Terra", EVE_MIS[0], EVE_MIS[1], P, ['B026', 'B019', 'P2024-11-30'], 'RC-090; RC-342; RC-099; RC-094', False),
+    ("RC-347", "Projeto Terra", EVE_MIS[0], EVE_MIS[1], P, ['B026', 'B019', 'P2024-11-30'], 'RC-090; RC-342; RC-099; RC-094', True),
     ("RC-348", "Roteiro do Exílio", EVE_MIS[0], EVE_MIS[1], P, ["B026"], "RC-342; RC-007; RC-094", False),
     ("RC-349", "Exílios Interplanetários", EVE_GUE[0], EVE_GUE[1], P, ["B003"], "RC-342; RC-007; RC-002; RC-094", False),
     ("RC-350", "Jesus, o Capelino", SER_HUM[0], SER_HUM[1], P, ["B025"], "RC-072; RC-007; RC-039; RC-094", False),

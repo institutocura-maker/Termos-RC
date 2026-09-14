@@ -3156,3 +3156,28 @@ afirmar sobre o conteúdo vem do CORPO do livro.
 **26** (6 activos + 20 congelados) · cadastro 572🟢 inalterado.
 
 **Próximo:** RC-347 → B026.
+
+
+## U72 — R1 · lote 29: a B026 (RC-347 «Projeto Terra»)
+
+**Despacho do Curador:** lote 29 = B026; Via (a) mantida; verificação dupla de
+HEAD. 6 activos na contagem.
+
+**1 ficha, 8 fragmentos, 0 falhas na primeira passada.** RC-347 Projeto Terra.
+**B026 1→0.**
+
+**A obra não define — caracteriza, com um «também»:** «O projeto Terra é
+TAMBÉM um sonho antigo». A ficha preserva o advérbio e não converte a
+caracterização em definição.
+
+**A abstenção:** aqui o «projeto Terra» é um empreendimento de DIVULGAÇÃO (da
+Editora do Conhecimento), não de engenharia cósmica.
+
+**§5.2 — o limite do que a fonte permite afirmar:** o «PROJETO TERRA» de L59
+está na folha de front matter, sem desenvolvimento; a ficha registra a
+ocorrência SEM RESOLVER se é o mesmo referente.
+
+**Números:** 814 → **815 fichas** · GAP 132 → **131** · família B v3 26 →
+**25** (5 activos + 20 congelados) · cadastro 572🟢 inalterado.
+
+**Próximo:** RC-352 → B025.

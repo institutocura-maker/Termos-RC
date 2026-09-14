@@ -275,7 +275,7 @@
 | RC-267 | Isaac Luria e o conceito do Tzimtzum | Termos Específicos | 8.2 Hebraico / Cabala | 🟢 | B013, P2024-11-09 | RC-008; RC-261; RC-262; RC-266 | [✔](termos/RC-267-isaac-luria-e-o-conceito-do-tzimtzum.md) |
 | RC-268 | Gnosticismo (contraponto à Cabala) | Conceitos Cosmológicos | 2.4 Espiritualidade / Doutrina | 🟢 | B013, P2026-04-02, P2024-11-09, P2023-12-02, P2024-09-28, P2025-05-10 | RC-072; RC-190; RC-261; RC-263; RC-266; RC-483; RC-647; RC-763 | [✔](termos/RC-268-gnosticismo-contraponto-a-cabala.md) |
 | RC-269 | Linhagens Humanas: Preferidas e Preteridas | Genealogias & Linhagens | 6.2 Linhagens humanas | 🟡 | B013, P2024-09-29 | RC-270; RC-099; RC-261; RC-202; RC-194; RC-271; RC-293; RC-736; RC-737 | — |
-| RC-270 | Linhagem dos Patriarcas Hebreus | Genealogias & Linhagens | 6.2 Linhagens humanas | 🟡 | B013, B036, B052 | RC-269; RC-261; RC-189; RC-099 | — |
+| RC-270 | Linhagem dos Patriarcas Hebreus | Genealogias & Linhagens | 6.2 Linhagens humanas | 🟡 | B013, B036, B052 | RC-269; RC-261; RC-189; RC-099 | [✔](termos/RC-270-linhagem-dos-patriarcas-hebreus.md) |
 | RC-271 | Pactos do Criador (troca de informações) | Conceitos Cosmológicos | 2.6 Ética / Carma / Compromissos | 🟡 | B013, P2024-09-29, P2024-04-13 | RC-261; RC-099; RC-041; RC-063; RC-269 | — |
 | RC-272 | Laço Temporal de Kether/Javé | Conceitos Cosmológicos | 2.2 Leis e princípios cósmicos | 🟡 | B013, P2023-10-14 | RC-261; RC-008; RC-167; RC-041; RC-634 | — |
 | RC-273 | A Falsa Trindade (Concílio de Niceia) | Eventos & Eras | 7.2 Eras / Épocas / Ciclos | 🟢 | B014, B049, P2026-08-04, P2024-09-28, P2012-02-19, P2022-09-17, P2022-11-19, P2025-12-14, P2023-12-25-04 | RC-001; RC-009; RC-072; RC-094; RC-104; RC-786 | [✔](termos/RC-273-a-falsa-trindade-concilio-de-niceia.md) |
