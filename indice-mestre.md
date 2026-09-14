@@ -249,13 +249,13 @@
 | RC-241 | Seres dos Portais | Seres & Entidades | 1.5 Decaídos / Exilados / Demônios | 🟢 | B017, B018, B039, B031, B021, P2022-12-17, P2023-12-03 | RC-027; RC-049; RC-051; RC-086; RC-097; RC-145; RC-240; RC-293 | [✔](termos/RC-241-seres-dos-portais.md) |
 | RC-242 | Éden do Criador (Éden como laboratório) | Lokas & Geografias | 3.3 Localidades terrestres | 🟢 | B015, B020, B052 | RC-006; RC-041; RC-147; RC-177; RC-189; RC-243; RC-251; RC-285 | [✔](termos/RC-242-eden-do-criador-eden-como-laboratorio.md) |
 | RC-243 | Genética da Confiança | Conceitos Cosmológicos | 2.2 Leis e princípios cósmicos | 🟡 | B015, B040, P2025-02-15 | RC-041; RC-099; RC-210; RC-242; RC-244; RC-245; RC-251 | [✔](termos/RC-243-genetica-da-confianca.md) |
-| RC-244 | Germe da Desconfiança | Conceitos Cosmológicos | 2.2 Leis e princípios cósmicos | 🟡 | B015 | RC-243; RC-041; RC-107; RC-167 | — |
+| RC-244 | Germe da Desconfiança | Conceitos Cosmológicos | 2.2 Leis e princípios cósmicos | 🟡 | B015 | RC-243; RC-041; RC-107; RC-167 | [✔](termos/RC-244-germe-da-desconfianca.md) |
 | RC-245 | A Humanização do Criador | Conceitos Cosmológicos | 2.5 Propósitos / Destinos | 🟢 | B015, B036, B048, B037, P2024-05-04, P2025-10-25 | RC-001; RC-041; RC-099; RC-147; RC-231; RC-243 | [✔](termos/RC-245-a-humanizacao-do-criador.md) |
-| RC-246 | Dez Sagrados (primeira geração do Criador) | Seres & Entidades | 1.8 Consciências coletivas / Logos | 🟡 | B015 | RC-055; RC-041; RC-206 | — |
-| RC-247 | Endrelnianos | Seres & Entidades | 1.4 Anjos / Arcanjos / Querubins | 🟡 | B015 | RC-055; RC-147; RC-019 | — |
-| RC-248 | Viajores da Rebelião | Seres & Entidades | 1.5 Decaídos / Exilados / Demônios | 🟡 | B015 | RC-002; RC-078; RC-134; RC-147; RC-249; RC-250 | — |
+| RC-246 | Dez Sagrados (primeira geração do Criador) | Seres & Entidades | 1.8 Consciências coletivas / Logos | 🟡 | B015 | RC-055; RC-041; RC-206 | [✔](termos/RC-246-dez-sagrados-primeira-geracao-do-criador.md) |
+| RC-247 | Endrelnianos | Seres & Entidades | 1.4 Anjos / Arcanjos / Querubins | 🟡 | B015 | RC-055; RC-147; RC-019 | [✔](termos/RC-247-endrelnianos.md) |
+| RC-248 | Viajores da Rebelião | Seres & Entidades | 1.5 Decaídos / Exilados / Demônios | 🟡 | B015 | RC-002; RC-078; RC-134; RC-147; RC-249; RC-250 | [✔](termos/RC-248-viajores-da-rebeliao.md) |
 | RC-249 | Expulsão dos Viajores (decreto do Criador) | Eventos & Eras | 7.1 Guerras / Rebeliões / Conflitos | 🟡 | B015 | RC-248; RC-250; RC-147; RC-001 | — |
-| RC-250 | Mundo das Águas | Lokas & Geografias | 3.1 Planetas / Sistemas estelares | 🟡 | B015 | RC-248; RC-249; RC-024 | — |
+| RC-250 | Mundo das Águas | Lokas & Geografias | 3.1 Planetas / Sistemas estelares | 🟡 | B015 | RC-248; RC-249; RC-024 | [✔](termos/RC-250-mundo-das-aguas.md) |
 | RC-251 | Laboratórios do Criador | Conceitos Cosmológicos | 2.1 Cosmogonia / Criação | 🟡 | B015, P2024-09-29 | RC-041; RC-090; RC-167; RC-242; RC-243 | — |
 | RC-252 | Olm (Codificador de Zion/Zian) | Seres & Entidades | 1.8 Consciências coletivas / Logos | 🟢 | B016, B057, B060, P2021-12-04, P2024-08-03 | RC-092; RC-253; RC-256; RC-257 | [✔](termos/RC-252-olm-codificador-de-zion-zian.md) |
 | RC-253 | Liberdade Mental (premissa do Quarto Logos) | Conceitos Cosmológicos | 2.6 Ética / Carma / Compromissos | 🟢 | B016, B014, B005, B049, P2021-12-04, P2026-07-30, P2024-05-04, P2026-04-02, P2025-03-15, P2025-02-16, P2025-02-15, P2024-11-30, P2024-11-09, P2023-12-03 | RC-092; RC-167; RC-252; RC-254; RC-257; RC-259; RC-333; RC-335; RC-369; RC-566; RC-618; RC-619; RC-620; RC-695; RC-702; RC-703 | [✔](termos/RC-253-liberdade-mental-premissa-do-quarto-logos.md) |

@@ -2701,3 +2701,31 @@ protocolo próprio.
 
 **Próximo poço activo:** B048 5 · B052 4 · B019 4 · B006 4 · B036 3 ·
 B023 3 · B050 3.
+
+
+## U54 — R1 · lote 11: o lote natural da B021 (+ achado RC-296)
+
+**Despacho do Curador:** lote 11 = B021; «a liquidação de exceções e dívidas
+técnicas tem prioridade sobre a fila linear» — processar os nativos e
+resgatar a RC-300 (ancorada na U52).
+
+**1 ficha, 7 fragmentos, 0 falhas.** RC-300 Dissolução da Tríade (2015–2017).
+Dívida da U52 liquidada.
+
+**Terceira divergência interna da fonte:** «a Tríade implodiu no ano de 2015»
+(L5384, pontual) × «a dissolução da Tríade, levada a efeito entre os anos
+terrestres de 2015 e 2017» (L5408–L5411, intervalar). Ambas verbatim. A
+Tríade é nomeada pela fonte: «Caos, Eros e Tártar» (L5411).
+
+**⚠️ ACHADO — RC-296 não se sustenta na B021.** O localizador devolve 0
+blocos para «pitonisas e oraculos»; os componentes ocorrem (L5095–L5112 é
+uma passagem excelente), mas **a evidência do censo v3 para RC-296 é uma
+palestra (P2023-05-21 L3-37)**. Cai no congelamento da série P. Não foi
+materializada por aproximação de matéria — precedente da U53.
+
+**Duas vias ao Curador:** (a) manter congelada [o que foi feito]; (b) autorizar
+por despacho expresso a materialização pela B021, declarando que o nome não
+ocorre literalmente (excepção consciente ao Portão de Paridade).
+
+**Números:** 775 → **776 fichas** · GAP 171 → **170** · família B v3 65 →
+**64** (45 activos + 19 congelados) · cadastro 572🟢 inalterado.

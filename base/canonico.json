@@ -7834,7 +7834,7 @@
     "RC-155",
     "RC-571"
    ],
-   "ficha": false,
+   "ficha": true,
    "via": "P6-evidência",
    "confianca_fonte": "média"
   },
