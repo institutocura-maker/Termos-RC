@@ -1,0 +1,48 @@
+{
+ "unidade": "U63",
+ "lote": 20,
+ "data": "2026-09-13",
+ "rota": "R1",
+ "criterio": "família B do censo v3 (referência homologada) — bloco de fonte única da B014 (Sophia e o Logos Criadores), 2 códigos, por despacho do Curador (via expressa; segregação obra a obra)",
+ "v_revogado": true,
+ "nota_hardwrap": "**Fratura de hard-wrap:** a edição digital da B014 quebra as sentenças em linhas curtas. Cada fragmento entre «» é verbatim **intra-linha**, conferido byte a byte contra o `original.txt` da obra declarada; quando uma sentença foi partida, as suas partes aparecem como fragmentos distintos, com as linhas indicadas. **Convenção gráfica, não divergência:** a mesma expressão comparece no SUMÁRIO (caixa normal), no TÍTULO do capítulo (caixa alta) e na MENÇÃO no corpo (caixa baixa) — três funções distintas da edição, sem alteração de letras (critérios homologados na U55 e na U56; precedente próximo: RC‑330 «Saraswati» × «Saraswati‑Sindhu», homologado sem etiqueta na U61).",
+ "fichas": [
+  {
+   "cod": "RC-275",
+   "slug": "arte-demodharmica-do-possivel",
+   "definicao": "Na B014 (*Sophia e o Logos Criadores*), expressão cunhada pelo autor e **título do capítulo 5**: «Cada uma dessas espécies faz o que lhe é possível para manter a vida. Essa é a “lei” que rege todo organismo vivo. É aqui que nasce “a arte demodhármica do possível”, título do presente capítulo.» O raciocínio que a engendra é o de que, se os humanos e todas as espécies biológicas se alimentam de outros seres para manter os seus corpos, também «outras estirpes, mesmo que pertencentes a um universo vizinho», poderiam proceder do mesmo modo quanto à emoção religiosa dos fiéis.",
+   "cit": [
+    ["B014", 53, ["A “Arte Demodhármica” do Possível"], "o título no SUMÁRIO (entrada «5.», L52)"],
+    ["B014", 2672, ["A “ARTE DEMODHÁRMICA” DO POSSÍVEL"], "o TÍTULO DO CAPÍTULO 5 no corpo (caixa alta; sob o número «5», L2671)"],
+    ["B014", 2820, ["É aqui que nasce"], "a gênese da expressão (continua em L2821-L2823)"],
+    ["B014", 2821, ["“a arte"], "a expressão no corpo, partida pelo hard-wrap (1/3)"],
+    ["B014", 2822, ["demodhármica"], "a expressão no corpo (2/3)"],
+    ["B014", 2823, [" do possível”"], "a expressão no corpo (3/3; segue «, título do presente capítulo.», L2824-L2825)"]
+   ],
+   "obs": [
+    "**A fonte apresenta a expressão como título de capítulo e diz onde ela nasce** — da constatação de que «cada uma dessas espécies faz o que lhe é possível para manter a vida» (L2818–L2819). A ficha registra essa **gênese declarada** e não extrai do título nenhuma definição doutrinária que a fonte não formule.",
+    "**Três ocorrências, três funções, sem etiqueta:** sumário «A “Arte Demodhármica” do Possível» (L53) · título do capítulo «A “ARTE DEMODHÁRMICA” DO POSSÍVEL» (L2672 e, na lista do fim, L10592) · menção no corpo «“a arte demodhármica do possível”» (L2821–L2823). **As letras e as palavras são as mesmas nas três**; o que varia é a caixa e o **alcance das aspas** — no sumário e no título, as aspas cobrem apenas «Arte Demodhármica»; no corpo, cobrem a expressão inteira. Registro o ponto sem accionar a etiqueta, por entender que se trata da marcação gráfica de uma cunhagem em três funções distintas, e não de contradição sobre o termo. **É um caso mais sutil que a mera caixa; submeto-o ao Curador**, a par do precedente da RC‑330 (homologado sem etiqueta na U61).",
+    "**O raciocínio é do autor e é condicional:** ele não afirma que as estirpes do universo vizinho se alimentam da emoção religiosa — **argumenta que poderiam** («por que outras estirpes […] também não poderiam assim proceder?», L2811–L2812), e a percepção de que a fé dos terráqueos está «sendo usada como “fonte de alimentação”» vem introduzida por «**Em sendo verdadeira essa percepção**» (L2839). A ficha preserva esse regime de dúvida e não o converte em asserção (postulado central da Extração R1)."
+   ]
+  },
+  {
+   "cod": "RC-278",
+   "slug": "olhar-adulto",
+   "definicao": "Na B014 (*Sophia e o Logos Criadores*), a expressão que dá título ao capítulo 10 e que a obra **declara inexistente, ainda por construir**: «Não existe “olhar adulto” sobre o que quer que seja, em termos dos conceitos religiosos que, enquanto humanidade, abraçamos»; «Sophia não teve e ainda não tem um “olhar adulto”, crítico e equilibrado»; «Um “olhar adulto” é algo ainda por ser construído e conquistado, tanto da parte dele como também da nossa».",
+   "cit": [
+    ["B014", 63, ["“Olhar Adulto”"], "o título no SUMÁRIO (entrada «10.», L62)"],
+    ["B014", 4910, ["“OLHAR ADULTO”"], "o TÍTULO DO CAPÍTULO 10 no corpo (caixa alta; sob o número «10», L4909)"],
+    ["B014", 5078, ["Não existe “olhar adulto” sobre o que quer que seja, em termos dos"], "a inexistência, quanto aos conceitos religiosos (continua em L5079)"],
+    ["B014", 5137, ["Sophia não teve e ainda não tem um “olhar adulto”, crítico e equilibrado,"], "a inexistência em Sophia (continua em L5138-L5142)"],
+    ["B014", 5143, ["Um “olhar adulto” é algo ainda por ser construído e conquistado, tanto da"], "o que a obra diz que ele É (continua em L5144-L5145)"],
+    ["B014", 5144, ["parte dele como também da nossa."], "o alcance: Sophia e a humanidade"]
+   ],
+   "obs": [
+    "⭐ **A abstenção central desta ficha:** a obra **não descreve uma faculdade possuída** — declara uma **carência**. O «olhar adulto» é dito **inexistente** (L5078), **ausente em Sophia** («não teve e ainda não tem», L5137) e **ainda por ser construído e conquistado** «tanto da parte dele como também da nossa» (L5143–L5144). A ficha registra a expressão **como aquilo que a fonte diz que falta**, e não como uma capacidade definida. Convertê-la em atributo seria inverter o sentido da passagem.",
+    "**Convenção gráfica, sem etiqueta:** «“Olhar Adulto”» (sumário, L63) · «“OLHAR ADULTO”» (título do capítulo, L4910; e na lista do fim, L10859) · «“olhar adulto”» (corpo, L5078, L5137, L5143, L6902, L6906). Três caixas, as mesmas letras.",
+    "**A obra aplica a expressão a pelo menos dois sujeitos:** à humanidade, quanto aos conceitos religiosos (L5078–L5079, com o contraste «padrões de “crítica adulta e sensata”» × «oceano de infantilidades», L5084–L5086), e ao próprio **Sophia** (L5137–L5142). A ficha não reduz o termo a um só deles.",
+    "**Registro de vizinhança, não de definição:** a expressão reaparece em L6902 e L6906 a propósito de Nietzsche («o seu “olhar adulto possa passar a vista”», «Muita falta faz o “olhar adulto” de um Nietzsche»), num diálogo com interlocutor espiritual. É **aplicação da expressão**, não acréscimo de definição; a ficha não a invoca como tal."
+   ]
+  }
+ ]
+}

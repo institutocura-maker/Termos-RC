@@ -7226,7 +7226,7 @@
     "RC-005",
     "RC-094"
    ],
-   "ficha": false,
+   "ficha": true,
    "via": "P6-evidência",
    "confianca_fonte": "média"
   },
@@ -7285,7 +7285,7 @@
     "RC-094",
     "RC-566"
    ],
-   "ficha": false,
+   "ficha": true,
    "via": "P6-evidência",
    "confianca_fonte": "média"
   },

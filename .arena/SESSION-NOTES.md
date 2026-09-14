@@ -2929,3 +2929,29 @@ humanidade, sem atribuir origem extraterrestre.
 **39** (19 activos + 20 congelados) · cadastro 572🟢 inalterado.
 
 **Próximo poço activo:** B014 2 · B020 2 · B003 2 · B026 2 · B034 2.
+
+
+## U63 — R1 · lote 20: os 2 da B014
+
+**Despacho do Curador:** lote 20 = B014; **jurisprudência decidida**: a etiqueta
+da RC-397 DEVE ser mantida — troca do «h» + ausência de plural = mutação
+estrutural da ortografia, não estilo gráfico.
+
+**2 fichas, 12 fragmentos, 0 falhas na primeira passada.** RC-275 Arte
+Demodhármica do Possível · RC-278 Olhar Adulto. **B014 2→0.**
+
+**Adendo §5 à jurisprudência:** critério desdobrado em dois testes — (1) as
+letras da palavra são as mesmas? (2) a flexão é a mesma? Linha divisória:
+caixa/espaçamento/aspas = modo de imprimir; ortografia/flexão = o termo.
+
+**A abstenção central (RC-278):** a obra declara uma CARÊNCIA — «não existe
+olhar adulto», «ainda por ser construído e conquistado». A ficha registra o que
+falta, não uma faculdade possuída.
+
+**RC-275:** raciocínio condicional preservado («em sendo verdadeira essa
+percepção»); caso das aspas submetido ao Curador.
+
+**Números:** 801 → **803 fichas** · GAP 145 → **143** · família B v3 39 →
+**37** (17 activos + 20 congelados) · cadastro 572🟢 inalterado.
+
+**Próximo poço activo:** B020 2 · B003 2 · B026 2 · B034 2.

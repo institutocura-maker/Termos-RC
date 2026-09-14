@@ -42,4 +42,30 @@ Na fala de Maneton a expressão surge como «um segredo perdido **do jardim** do
 
 ---
 
-*Despacho lavrado na U56. Aplica-se a todas as fichas da base, presentes e futuras.*
+## 5. ADENDO (U63) — decisão sobre a RC‑397: «Tirthankaras» × «Thirtankara»
+
+**Decisão do Curador (despacho do lote 20): a etiqueta `[⚠️ DIVERGÊNCIA INTERNA DA FONTE]` DEVE ser mantida e aplicada.**
+
+**Caso (B050, infográfico «Linha do Tempo da Revelação Cósmica»):**
+
+| Linha | Ocorrência | Grafia |
+|---|---|---|
+| L170 | «Rishabh Dev, primeiro dos / **Tirthankaras**. Fundou o Jainadharma.» | **Tirthankara**-s (com «r», plural) |
+| L186 | «Jina Mahavira. 24°A **Thirtankara**. (2600 a.p.)» | **Thirtankara** (com «h» trocado, singular) |
+
+**Fundamento lavrado pelo Curador:**
+
+> «Diferente da variação de caixa alta/baixa (que é estilo gráfico), a troca de posição da letra "h" e a ausência do plural configuram uma **mutação estrutural na ortografia da palavra**. Assim como no precedente "Terrenos × Terrestres", trata-se de um erro tipográfico de edição que **altera o termo**. A etiqueta sinaliza exatamente essa contradição da fonte.»
+
+**Consequência para o critério operativo (§3.2):** a pergunta «a diferença altera o TERMO, ou apenas o modo de o o imprimir?» desdobra-se agora em dois testes cumulativos:
+
+1. **As letras da palavra são as mesmas?** Se não forem — troca, acréscimo, supressão ou **reordenação** de letras —, é mutação ortográfica: **etiqueta-se**.
+2. **A flexão (número, género) é a mesma?** Se divergir no próprio termo tal como a fonte o grafa, concorre para a mutação estrutural.
+
+**Linha divisória fixada:** *caixa* (alta/baixa), *espaçamento*, *aspas* e *posição na página* são modo de imprimir → **não** se etiqueta; *ortografia da palavra* e *flexão do termo* são o termo mesmo → **etiqueta-se**.
+
+**Caso análogo já homologado sem etiqueta:** RC‑330 «Civilização **Saraswati**» × «Civilização **Saraswati‑Sindhu**» (U61) — forma alongada explicada pela própria obra, não contradição.
+
+---
+
+*Despacho lavrado na U56. Adendo da RC‑397 lavrado na U63 por decisão do Curador. Aplica-se a todas as fichas da base, presentes e futuras.*

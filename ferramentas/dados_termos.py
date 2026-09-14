@@ -385,10 +385,10 @@ TERMOS = [
     # ---- Novos termos de B014 (obra primária: Sophia e o Logos Criadores, 2020)
     ("RC-273", "A Falsa Trindade (Concílio de Niceia)", EVE_ERA[0], EVE_ERA[1], "verificado", ['B014', 'B049', 'P2026-08-04', 'P2024-09-28', "P2012-02-19", "P2022-09-17", "P2022-11-19", "P2025-12-14", "P2023-12-25-04"], "RC-001; RC-009; RC-072; RC-094; RC-104; RC-786", True),
     ("RC-274", "Cápsula do Tempo de Sophia (João)", TEC_ESC[0], TEC_ESC[1], "verificado", ["B014", "B042", 'P2024-03-02', "P2026-03-21"], "RC-009; RC-005; RC-072; RC-094", True),
-    ("RC-275", "Arte Demodhármica do Possível", COS_LEI[0], COS_LEI[1], P, ["B014"], "RC-183; RC-009; RC-005; RC-094", False),
+    ("RC-275", "Arte Demodhármica do Possível", COS_LEI[0], COS_LEI[1], P, ["B014"], "RC-183; RC-009; RC-005; RC-094", True),
     ("RC-276", "Sacralização do Absurdo", COS_ETI[0], COS_ETI[1], P, ["B014"], "RC-094; RC-099; RC-041; RC-254; RC-253", False),
     ("RC-277", "A Jaula de Cada Espécie", COS_LEI[0], COS_LEI[1], P, ["B014"], "RC-099; RC-036; RC-176; RC-094", False),
-    ("RC-278", "Olhar Adulto", COS_PRO[0], COS_PRO[1], P, ["B014"], "RC-099; RC-253; RC-231; RC-094; RC-566", False),
+    ("RC-278", "Olhar Adulto", COS_PRO[0], COS_PRO[1], P, ["B014"], "RC-099; RC-253; RC-231; RC-094; RC-566", True),
     ("RC-279", "Modo Trimurtiano de Sophia", COS_LEI[0], COS_LEI[1], P, ["B014"], "RC-009; RC-104; RC-075; RC-094", False),
     ("RC-280", "Sophia e a Ressurreição de Jesus", EVE_MIS[0], EVE_MIS[1], "verificado", ['B014', 'P2025-02-15', 'P2024-11-30', 'P2023-06-03', 'P2023-04-15', 'P2023-04-01', 'P2023-04-29', 'P2023-12-03', "P2025-05-10", "P2023-12-25-03"], 'RC-009; RC-072; RC-274; RC-094; RC-692; RC-770', True),
     ("RC-281", "Agentes do Quarto Logos", SER_LOG[0], SER_LOG[1], "verificado", ["B014"], "RC-092; RC-252; RC-256; RC-071", True),

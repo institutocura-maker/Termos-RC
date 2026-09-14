@@ -226,8 +226,8 @@
 | RC-218 | Holograma Universal | Conceitos Cosmológicos | 2.2 Leis e princípios cósmicos | 🟢 | B002, P2025-02-15, P2024-11-30, P2023-07-30, P2025-06-14 | RC-217; RC-219; RC-106; RC-707; RC-708 | [✔](termos/RC-218-holograma-universal.md) |
 | RC-219 | Agente Secreto do Bem | Seres & Entidades | 1.6 Figuras humanas (históricas/míticas) | 🟡 | B002 | RC-072; RC-218; RC-214 | — |
 | RC-220 | Conspiração do Desespero | Eventos & Eras | 7.1 Guerras / Rebeliões / Conflitos | 🟡 | B002 | RC-001; RC-102; RC-216 | — |
-| RC-221 | Sustentação Espiritual do Universo | Conceitos Cosmológicos | 2.2 Leis e princípios cósmicos | 🟡 | B002 | RC-106; RC-107; RC-041 | — |
-| RC-222 | Filhos das Estrelas | Seres & Entidades | 1.8 Consciências coletivas / Logos | 🟡 | B002 | RC-100; RC-149; RC-107 | — |
+| RC-221 | Sustentação Espiritual do Universo | Conceitos Cosmológicos | 2.2 Leis e princípios cósmicos | 🟡 | B002 | RC-106; RC-107; RC-041 | [✔](termos/RC-221-sustentacao-espiritual-do-universo.md) |
+| RC-222 | Filhos das Estrelas | Seres & Entidades | 1.8 Consciências coletivas / Logos | 🟡 | B002 | RC-100; RC-149; RC-107 | [✔](termos/RC-222-filhos-das-estrelas.md) |
 | RC-223 | O Mal: Subproduto da Ignorância Espiritual | Conceitos Cosmológicos | 2.6 Ética / Carma / Compromissos | 🟢 | B002, P2025-02-15, P2024-11-30, P2024-11-09 | RC-001; RC-041; RC-094; RC-190; RC-217; RC-224; RC-328; RC-721 | [✔](termos/RC-223-o-mal-subproduto-da-ignorancia-espiritual.md) |
 | RC-224 | Prevalece o Amor | Conceitos Cosmológicos | 2.6 Ética / Carma / Compromissos | 🟡 | B002, P2025-03-15 | RC-052; RC-072; RC-094; RC-223 | — |
 | RC-225 | Gestão Cósmica | Conceitos Cosmológicos | 2.2 Leis e princípios cósmicos | 🟢 | B033 | RC-104; RC-001; RC-072; RC-171; RC-570 | [✔](termos/RC-225-gestao-cosmica.md) |
