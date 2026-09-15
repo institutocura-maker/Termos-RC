@@ -3527,3 +3527,48 @@ Estado final selado: commit 11f38b8 · HEAD == remoto · 0 pendentes · 820 fich
 946 termos · 1 887 relações · 158 obras com texto · suíte 21/21.
 
 **Frentes: 1 ✅ · 1.5 ✅ · 2 ✅ · 3 ✅ — CAMPANHA R1 SELADA**
+
+
+## U83 — Abertura do backlog: reparo das arestas A1 e A2
+
+Despacho: correcção cirúrgica ESTRITAMENTE nos artefactos de dados (JSONs),
+`aplicar_V` e `fam`; **driver ABSOLUTAMENTE INTOCADO**; validação por reexecução
+provar «regeneração plena» (idempotência).
+
+**Duas correcções ao diagnóstico anterior (honestidade algorítmica):**
+1. **A2 não era do lote.** O `fam` não é chave do lote — é chave do **CENSO**
+   (`CENSO-V3-ESPACADAS`), lida na linha 278 do driver: `c.get("fam_v2", c["fam"])`.
+   O censo tem `fam_v1`/`fam_v2` e nunca `fam`. Causa real: `dict.get(k, default)`
+   avalia o `default` **sempre**, ansiosamente — `c["fam"]` é avaliado mesmo quando
+   `fam_v2` existe. Só o LOTE2 tem `aplicar_V` (o único que chama
+   `checar_excecoes`), por isso só ele rebentava. **Reparo no dado:** campo `fam`
+   acrescentado às 273 entradas do censo (fallback = `fam_v1`, o instrumento
+   antigo). Fica registada a **aresta A8**: o driver tem defeito latente na
+   linha 278 — não tocado, por determinação do Curador.
+2. **A1 custa uma linha por ficha.** As 8 fichas do LOTE1 traziam a chancela
+   «**V aplicado (U43, 13/09/2026)**», texto que `nota_chancela()` **já não
+   produz** (a fórmula evoluiu). Estabelecido `aplicar_V = "presuncao-livro"`
+   (a mesma regra que chancelou os lotes 1 e 2). A reexecução troca a fórmula
+   pela genérica «V presuntivo (fonte de livro)» — **1 linha por ficha**. Para
+   não perder o registro do despacho originário, o texto U43 foi preservado
+   como nota de Observações nas 8 fichas (mecanismo do próprio driver).
+
+**Rastro da U80 preservado:** RC-077 e RC-085 (LOTE1) e RC-211 (LOTE2) receberam
+as suas notas de higienização no `obs` do lote — sem isso, a reexecução tê-las-ia
+apagado. Na RC-211 a nota mudou apenas de posição (para dentro das Observações,
+antes do hard-wrap e da chancela).
+
+**Validação exigida, cumprida:** LOTE2 **8/8 idêntico** · LOTE1 **8/8 idêntico**
+(3.ª execução, 0 REGERADOS). Os 34 lotes da R1 passam a ser **34/34
+reexecutáveis**.
+
+**Invariantes:** suíte 21/21 · T13 820 · T14 0 · T15 820/0 · verificador
+946/820/1887 · **Portão B 778/778 revalidado depois das reexecuções** ·
+espelhos reconstruídos (16 fichas mudaram).
+
+Erros meus nesta unidade, corrigidos: vírgula em falta ao inserir 2+ notas;
+`"obs": []` vazio na própria linha (matcher saltava para o fecho seguinte);
+vírgula à direita antes de `}` (JSON não admite); nota que começava por `- `
+ganhando duplo traço (o driver já antepõe `- `).
+
+**Frentes: 1 ✅ · 1.5 ✅ · 2 ✅ · 3 ✅ · backlog A1 ✅ · A2 ✅ — A3–A8 pendentes**
