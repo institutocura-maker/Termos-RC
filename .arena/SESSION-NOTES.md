@@ -3572,3 +3572,46 @@ vírgula à direita antes de `}` (JSON não admite); nota que começava por `- `
 ganhando duplo traço (o driver já antepõe `- `).
 
 **Frentes: 1 ✅ · 1.5 ✅ · 2 ✅ · 3 ✅ · backlog A1 ✅ · A2 ✅ — A3–A8 pendentes**
+
+
+## U84 — Aresta A3: resgate das 8 fichas órfãs (piloto U41)
+
+Despacho: alocar as 8 órfãs em lotes rastreáveis; regenerar; atestar no Portão B
+que nada foi corrompido.
+
+**Origem encontrada (não era perda, era traslado):** as 8 órfãs são o **piloto
+U41** («os 8 suspenso-B do HOLD, com V chancelado»). Os dados nunca estiveram
+num JSON de lote — estavam **embutidos** em `ferramentas/u41_materializar_r1.py`
+(registro histórico). Extraídos por `exec` do módulo com `__name__` neutro:
+**31 citações** (a contagem de 29 da U81 estava submedida em 2).
+
+**Lote de resgate:** `diagnostico/U41-R1-LOTE0-2026-09-13.json` — unidade U41,
+lote 0, `aplicar_V: true` (o V destes códigos veio das **levas P7m/n/o**, não da
+presunção por fonte de livro; todos os 8 estão `verificado` no cadastro).
+
+**Duas perdas colaterais detectadas no diff e reparadas POR DADOS (driver
+intocado):**
+1. **Títulos de palestras.** A `titulo()` do driver lê `BIBLIO` ← `base/biblio.json`;
+   as palestras não constavam e caiam na sigla (`| P2023-05-21 | P2023-05-21 |`
+   em vez de «A hebdomada de Apolo — o ultraje humano»). Os títulos vieram do
+   dicionário interno do piloto. Reparo: **2 entradas** acrescentadas ao
+   `biblio.json` — 102 → 104 obras (+18 linhas, estilo do ficheiro preservado).
+2. **Nota de hard-wrap enriquecida.** A do piloto traz as larguras por obra
+   (B031 = 92 · B021 = 106 · B026 = 109 · B003 = 111). O driver aceita
+   `nota_hardwrap` **do lote** → texto do piloto preservado na íntegra.
+
+**Preservações (mesma manobra elogiada na A1):** o Contexto/Origem do piloto e a
+chancela «V já chancelado pelo Curador **nas levas P7m/n/o**» (que a fórmula
+actual omite) ficaram registrados como notas de Observações nas 8 fichas. O
+rastro da U80 na RC-100 foi transportado para o `obs` do lote.
+
+**Custo final:** 6 linhas por ficha (9 na RC-100). Nenhuma citação mexida.
+
+**Validação:** LOTE0 8/8 idêntico · prova de fecho **35/35 lotes idempotentes,
+0 regerados, 0 falhas** · Portão B **778/778** · suíte 21/21 · T13 820 · T14 0 ·
+T15 820/0 · verificador 946/820/1887 · espelhos reconstruídos (obras 102→104).
+
+**A3 ENCERRADA:** 147 fichas com lote · **0 fichas com citações sem lote** —
+100% das fichas com citações verificadas respondem ao comando de regeneração.
+
+**Backlog: A1 ✅ · A2 ✅ · A3 ✅ · A4–A8 pendentes.**

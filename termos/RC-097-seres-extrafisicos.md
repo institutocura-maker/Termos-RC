@@ -18,7 +18,7 @@ Os habitantes do universo paralelo (antimaterial): não são físicos — e muit
 
 ## Contexto / Origem
 
-**Materialização (não é criação).** Este código vivia só no cadastro (`ficha=False`). A virada foi despachada pelo Curador em 13/09/2026 — rota **R1** do dossiê `diagnostico/CENSO-GAP-FICHAS-2026-09-13.md` (o piloto dos 8 suspensos com V chancelado que caem na família B) — e executada na unidade U41, na esteira do precedente U30 (RC-367/RC-537). Conteúdo restrito ao que a fonte sustém.
+**Materialização (não é criação).** Este código vivia só no cadastro (`ficha=False`). A virada foi despachada pelo Curador em 13/09/2026 — rota **R1** do dossiê `diagnostico/CENSO-GAP-FICHAS-2026-09-13.md` — e executada na unidade U41 (lote 0 da família B), na esteira do precedente U30 (RC-367/RC-537) e do piloto U41. Conteúdo restrito ao que a fonte sustém.
 
 ## Escopo e evidência
 
@@ -60,5 +60,7 @@ Os habitantes do universo paralelo (antimaterial): não são físicos — e muit
 ## Observações
 
 - Cinco fragmentos de três sentenças fraturadas pelo hard-wrap: a seção é um bloco corrido de L663 a L686 e nenhuma das suas sentenças cabe inteira numa linha de B031.
+- **Texto original do piloto U41, preservado (Contexto / Origem):** ao reexecutar este lote na U84, o motor passou a emitir a fórmula genérica de materialização; o texto originário fica aqui registrado. — «**Materialização (não é criação).** Este código vivia só no cadastro (`ficha=False`). A virada foi despachada pelo Curador em 13/09/2026 — rota **R1** do dossiê `diagnostico/CENSO-GAP-FICHAS-2026-09-13.md` (o piloto dos 8 suspensos com V chancelado que caem na família B) — e executada na unidade U41, na esteira do precedente U30 (RC-367/RC-537). Conteúdo restrito ao que a fonte sustém.»
+- **Chancela original do piloto U41, preservada:** o V destes 8 códigos veio das **levas P7m/n/o**, não da presunção por fonte de livro; a fórmula actual do motor é mais curta e omite essa origem. — «Ficha nascida com o **V já chancelado** pelo Curador nas levas P7m/n/o e aplicado nesta unidade (a trava §7 «sem ficha → bloqueia» deixa de incidir): `chancela/HOLD.csv` baixado com desfecho.»
 - **Fratura de hard-wrap:** a edição digital das fontes quebra as sentenças em linhas curtas (B031 = 92 chars na maior linha · B021 = 106 · B026 = 109 · B003 = 111). Cada fragmento entre «» é verbatim **intra-linha**, conferido byte a byte contra o `original.txt` da obra declarada; quando uma sentença foi partida, o seu início e o seu fecho aparecem como fragmentos distintos, com as linhas indicadas. A sentença íntegra só será citável após o refinamento **R2** (reconstrução de parágrafos), previsto no dossiê do gap.
-- Ficha nascida com o **V já chancelado** pelo Curador nas levas P7m/n/o e aplicado nesta unidade (a trava §7 «sem ficha → bloqueia» deixa de incidir): `chancela/HOLD.csv` baixado com desfecho.
+- Ficha nascida com o **V já chancelado** pelo Curador e aplicado nesta unidade (a trava §7 «sem ficha → bloqueia» deixa de incidir).
