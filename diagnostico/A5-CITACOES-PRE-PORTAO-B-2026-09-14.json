@@ -1,0 +1,1012 @@
+{
+ "meta": {
+  "artefacto": "A5 — censo das citações da geração pré-Portão B",
+  "lavrado_em": "2026-09-14",
+  "unidade": "U85",
+  "criterio": "Blocos «…» em «Citações-chave» SEM o aparelho R1 (— SIGLA · original.txt LNNN). Verificados contra as 158 obras com texto no workspace, com índice de linhas que tolera hard-wrap.",
+  "nota_metodologica": "Nenhum dos 52 blocos é integralmente verbatim: todos diferem do original por elisões, acréscimos entre colchetes ou suavização de transcrição. Não são, portanto, reancoráveis por edição de dados — exigem reextração.",
+  "totais": {
+   "blocos": 52,
+   "fichas": 39,
+   "com_vestigio_no_corpus": 47,
+   "sem_vestigio": 5,
+   "vestigio_em_obra_declarada": 39,
+   "vestigio_em_obra_nao_declarada": 8
+  }
+ },
+ "blocos": [
+  {
+   "codigo": "RC-778",
+   "trecho": "A humanidade não é a joia — é a fábrica da próxima geração de vida racionalizada no universo. Esse é o trabalho dela. A humanidade tem que produzir DNA para gerar milhares de novas espécies.",
+   "estado": "vestigio",
+   "vestigio": {
+    "palavras_conferidas": 4,
+    "subfrase": "humanidade não é a",
+    "obras": [
+     "B042"
+    ],
+    "primeira_obra": "B042",
+    "linha": 5367,
+    "obra_declarada": false,
+    "em_multiplas_obras": false
+   },
+   "fontes_declaradas": [
+    "P2018-10-06"
+   ]
+  },
+  {
+   "codigo": "RC-779",
+   "trecho": "Pandora é o momento zero da humanidade. Sem ela, nós seríamos mais uma espécie de lobo, urso. Foi o destrave de Pandora que fez a humanidade se diferenciar.",
+   "estado": "vestigio",
+   "vestigio": {
+    "palavras_conferidas": 6,
+    "subfrase": "mais uma espécie de lobo, urso.",
+    "obras": [
+     "P2024-08-03"
+    ],
+    "primeira_obra": "P2024-08-03",
+    "linha": 129,
+    "obra_declarada": false,
+    "em_multiplas_obras": false
+   },
+   "fontes_declaradas": [
+    "P2018-10-06"
+   ]
+  },
+  {
+   "codigo": "RC-780",
+   "trecho": "Pandora é a nossa heroína, mas ela extrapolou. Influenciar espíritos, você desencarnado, influenciando, encarnado, você encarnado, influenciando, desencarnado, isso não é legal. Espírito elegante do bem não faz isso. Pandora fez isso por desespero.",
+   "estado": "vestigio",
+   "vestigio": {
+    "palavras_conferidas": 25,
+    "subfrase": "espíritos, você desencarnado, influenciando, encarnado, você encarnado, influenciando, desencarnado, isso não é legal. Espírito elegante do bem não faz isso. Pandora fez isso por desespero.",
+    "obras": [
+     "P2019-05-11"
+    ],
+    "primeira_obra": "P2019-05-11",
+    "linha": 64,
+    "obra_declarada": true,
+    "em_multiplas_obras": false
+   },
+   "fontes_declaradas": [
+    "P2019-05-11",
+    "P2018-10-06"
+   ]
+  },
+  {
+   "codigo": "RC-783",
+   "trecho": "Na especiação da espécie humana, que vai começar a ocorrer agora, a genética que vai não é a melhor, é a que puder ir. Então, talvez se espere uma, duas, três levas de padrão genético para outros mundos.",
+   "estado": "vestigio",
+   "vestigio": {
+    "palavras_conferidas": 36,
+    "subfrase": "especiação da espécie humana, que vai começar a ocorrer agora, a genética que vai não é a melhor, é a que puder ir. Então, talvez se espere uma, duas, três levas de padrão genético para outros",
+    "obras": [
+     "P2019-05-11"
+    ],
+    "primeira_obra": "P2019-05-11",
+    "linha": 68,
+    "obra_declarada": true,
+    "em_multiplas_obras": false
+   },
+   "fontes_declaradas": [
+    "P2019-05-11",
+    "P2022-12-03",
+    "P2022-11-26",
+    "P2022-10-01",
+    "P2022-09-25",
+    "P2022-09-18",
+    "P2022-07-16",
+    "P2021-06-26"
+   ]
+  },
+  {
+   "codigo": "RC-783",
+   "trecho": "Esse mundo aqui ele vai ser capaz de produzir de informações complexas no campo da razão filosófica, da razão emocional, do amor, que as 900 milhões de civilizações do cosmos não conseguem produzir. Essa raça aqui vai ser a raça raiz pra nova mente espiritual, para as novas marcações no elétron.",
+   "estado": "vestigio",
+   "vestigio": {
+    "palavras_conferidas": 45,
+    "subfrase": "mundo aqui ele vai ser capaz de produzir de informações complexas no campo da razão filosófica, da razão emocional, do amor, que as 900 milhões de civilizações do cosmos não conseguem produzir. Essa raça aqui vai ser a raça raiz pra nova mente espiritual, para",
+    "obras": [
+     "P2019-05-11"
+    ],
+    "primeira_obra": "P2019-05-11",
+    "linha": 68,
+    "obra_declarada": true,
+    "em_multiplas_obras": false
+   },
+   "fontes_declaradas": [
+    "P2019-05-11",
+    "P2022-12-03",
+    "P2022-11-26",
+    "P2022-10-01",
+    "P2022-09-25",
+    "P2022-09-18",
+    "P2022-07-16",
+    "P2021-06-26"
+   ]
+  },
+  {
+   "codigo": "RC-786",
+   "trecho": "Goethe, no seu romance Fausto [...] ele nos mostra a perene tentativa de forças não humanas de submeter o eu humano que duvida.",
+   "estado": "vestigio",
+   "vestigio": {
+    "palavras_conferidas": 12,
+    "subfrase": "perene tentativa de forças não humanas de submeter o eu humano que",
+    "obras": [
+     "P2023-11-11"
+    ],
+    "primeira_obra": "P2023-11-11",
+    "linha": 23,
+    "obra_declarada": true,
+    "em_multiplas_obras": false
+   },
+   "fontes_declaradas": [
+    "P2023-11-11",
+    "P2018-10-06"
+   ]
+  },
+  {
+   "codigo": "RC-787",
+   "trecho": "A história de Noréia é muito particularizada. Eu eu não tenho não tenho, acho que não vale a pena a gente, como eu disse, Lili e Noré, são duas figuras que eu não, a gente não pode nem falar muito porque tem muita coisa de tem muito, tem muitos loops mentais que essas duas figuras criaram que a estão muito vivos. E esses loop mentais [...] tem cópias de consciências que ainda existem presos a esses lups mentais.",
+   "estado": "vestigio",
+   "vestigio": {
+    "palavras_conferidas": 64,
+    "subfrase": "história de Noréia é muito particularizada. Eu eu não tenho não tenho, acho que não vale a pena a gente, como eu disse, Lili e Noré, são duas figuras que eu não, a gente não pode nem falar muito porque tem muita coisa de tem muito, tem muitos loops mentais que essas duas figuras criaram que a estão muito vivos. E esses loop mentais",
+    "obras": [
+     "P2023-11-11"
+    ],
+    "primeira_obra": "P2023-11-11",
+    "linha": 57,
+    "obra_declarada": true,
+    "em_multiplas_obras": false
+   },
+   "fontes_declaradas": [
+    "P2023-11-11"
+   ]
+  },
+  {
+   "codigo": "RC-787",
+   "trecho": "É como se fosse uma chamada, né? [...] como o carteiro poeta que diz: \"A poesia pertence não ao poeta que a escreveu, mas a quem dela se serve, né?\" Então, hoje nós temos esses arquétipos que estão alojados na nossa mente, nas nossas emoções. E nós é que movimentamos isso.",
+   "estado": "vestigio",
+   "vestigio": {
+    "palavras_conferidas": 43,
+    "subfrase": "como o carteiro poeta que diz: \"A poesia pertence não ao poeta que a escreveu, mas a quem dela se serve, né?\" Então, hoje nós temos esses arquétipos que estão alojados na nossa mente, nas nossas emoções. E nós é que movimentamos isso.",
+    "obras": [
+     "P2023-11-11"
+    ],
+    "primeira_obra": "P2023-11-11",
+    "linha": 62,
+    "obra_declarada": true,
+    "em_multiplas_obras": false
+   },
+   "fontes_declaradas": [
+    "P2023-11-11"
+   ]
+  },
+  {
+   "codigo": "RC-788",
+   "trecho": "a revolução inacabada de Prometeu e Pandora [...] Prometeu começou a ser alguém que parou de levar a sério a si mesmo, a Zeus, a tudo que era ser que se pretendia superior.",
+   "estado": "vestigio",
+   "vestigio": {
+    "palavras_conferidas": 24,
+    "subfrase": "começou a ser alguém que parou de levar a sério a si mesmo, a Zeus, a tudo que era ser que se pretendia superior.",
+    "obras": [
+     "P2025-04-06"
+    ],
+    "primeira_obra": "P2025-04-06",
+    "linha": 5,
+    "obra_declarada": true,
+    "em_multiplas_obras": false
+   },
+   "fontes_declaradas": [
+    "P2025-04-06"
+   ]
+  },
+  {
+   "codigo": "RC-788",
+   "trecho": "Pandora é um espírito com problemas [...] O amor que ela tinha pelo ser humano secou a tal ponto que eu acho que ela hoje não gosta de ninguém. E ela mesmo me disse: \"A minha vergonha foi nascer como mãe quatro vezes e eu não consegui amar meus rebeldos.\"",
+   "estado": "vestigio",
+   "vestigio": {
+    "palavras_conferidas": 42,
+    "subfrase": "O amor que ela tinha pelo ser humano secou a tal ponto que eu acho que ela hoje não gosta de ninguém. E ela mesmo me disse: \"A minha vergonha foi nascer como mãe quatro vezes e eu não consegui amar meus",
+    "obras": [
+     "P2025-04-06"
+    ],
+    "primeira_obra": "P2025-04-06",
+    "linha": 36,
+    "obra_declarada": true,
+    "em_multiplas_obras": false
+   },
+   "fontes_declaradas": [
+    "P2025-04-06"
+   ]
+  },
+  {
+   "codigo": "RC-789",
+   "trecho": "um centro alquímico e farmacopédico [...] se alguém chegava lá numa fazenda de pimetê, dizia: \"Epimet, eu tô com dor, aonde aqui?\" Aí ele misturava lá não sei o quê, pessoa tomar, passava dor.",
+   "estado": "vestigio",
+   "vestigio": {
+    "palavras_conferidas": 28,
+    "subfrase": "se alguém chegava lá numa fazenda de pimetê, dizia: \"Epimet, eu tô com dor, aonde aqui?\" Aí ele misturava lá não sei o quê, pessoa tomar, passava dor.",
+    "obras": [
+     "P2025-04-06"
+    ],
+    "primeira_obra": "P2025-04-06",
+    "linha": 5,
+    "obra_declarada": true,
+    "em_multiplas_obras": false
+   },
+   "fontes_declaradas": [
+    "P2025-04-06",
+    "P2023-11-11"
+   ]
+  },
+  {
+   "codigo": "RC-791",
+   "trecho": "Prometeu começou a ser alguém que parou de levar a sério a si mesmo, a Zeus, a tudo que era ser que se pretendia superior.",
+   "estado": "vestigio",
+   "vestigio": {
+    "palavras_conferidas": 24,
+    "subfrase": "começou a ser alguém que parou de levar a sério a si mesmo, a Zeus, a tudo que era ser que se pretendia superior.",
+    "obras": [
+     "P2025-04-06"
+    ],
+    "primeira_obra": "P2025-04-06",
+    "linha": 5,
+    "obra_declarada": true,
+    "em_multiplas_obras": false
+   },
+   "fontes_declaradas": [
+    "P2025-04-06"
+   ]
+  },
+  {
+   "codigo": "RC-792",
+   "trecho": "Eu sou Pandora, e digo com propriedade que, pelo fogo trazido por prometeu e dado à humanidade, via uma insidiosa interferência no pacote genético produzido por ele, Prometeu, Efesto e Atena e destinado a mim. Atualmente, esse fogo não é mais visto a movimentar a consciência dos humanos. Apagou-se neles não mais existe e aqui eu me apago.",
+   "estado": "vestigio",
+   "vestigio": {
+    "palavras_conferidas": 37,
+    "subfrase": "por prometeu e dado à humanidade, via uma insidiosa interferência no pacote genético produzido por ele, Prometeu, Efesto e Atena e destinado a mim. Atualmente, esse fogo não é mais visto a movimentar a consciência dos humanos.",
+    "obras": [
+     "P2025-04-06"
+    ],
+    "primeira_obra": "P2025-04-06",
+    "linha": 15,
+    "obra_declarada": true,
+    "em_multiplas_obras": false
+   },
+   "fontes_declaradas": [
+    "P2025-04-06"
+   ]
+  },
+  {
+   "codigo": "RC-796",
+   "trecho": "devido ao pecado original [...] as escolas religiosas impositivas detestam Pandora, ou melhor dizendo, Eva.",
+   "estado": "vestigio",
+   "vestigio": {
+    "palavras_conferidas": 9,
+    "subfrase": "as escolas religiosas impositivas detestam Pandora, ou melhor dizendo,",
+    "obras": [
+     "P2025-04-06"
+    ],
+    "primeira_obra": "P2025-04-06",
+    "linha": 32,
+    "obra_declarada": true,
+    "em_multiplas_obras": false
+   },
+   "fontes_declaradas": [
+    "P2025-04-06",
+    "P2023-11-11"
+   ]
+  },
+  {
+   "codigo": "RC-797",
+   "trecho": "Todos os avatares antes de Jesus [...] Todas essas figuras criar vivos entre os humanos e deuses são deuses.",
+   "estado": "vestigio",
+   "vestigio": {
+    "palavras_conferidas": 12,
+    "subfrase": "Todas essas figuras criar vivos entre os humanos e deuses são deuses.",
+    "obras": [
+     "P2018-02-24"
+    ],
+    "primeira_obra": "P2018-02-24",
+    "linha": 3,
+    "obra_declarada": true,
+    "em_multiplas_obras": false
+   },
+   "fontes_declaradas": [
+    "P2018-02-24"
+   ]
+  },
+  {
+   "codigo": "RC-801",
+   "trecho": "Saibaba [...] ele agora teria vindo à vida humana não para destruir ninguém, mas para convidar todos os seres humanos a entre aspas amarem a Deus que era ele mesmo feito homem.",
+   "estado": "vestigio",
+   "vestigio": {
+    "palavras_conferidas": 30,
+    "subfrase": "ele agora teria vindo à vida humana não para destruir ninguém, mas para convidar todos os seres humanos a entre aspas amarem a Deus que era ele mesmo feito homem.",
+    "obras": [
+     "P2018-02-24"
+    ],
+    "primeira_obra": "P2018-02-24",
+    "linha": 5,
+    "obra_declarada": true,
+    "em_multiplas_obras": false
+   },
+   "fontes_declaradas": [
+    "P2018-02-24",
+    "P2012-02-19"
+   ]
+  },
+  {
+   "codigo": "RC-801",
+   "trecho": "Por isso as trevas teriam feito várias várias ordas de encarnações sucessivas estrategicamente preparadas no último mil de len antes de Cristo para esse mistério, para atingir esse objetivo.",
+   "estado": "vestigio",
+   "vestigio": {
+    "palavras_conferidas": 28,
+    "subfrase": "isso as trevas teriam feito várias várias ordas de encarnações sucessivas estrategicamente preparadas no último mil de len antes de Cristo para esse mistério, para atingir esse objetivo.",
+    "obras": [
+     "P2018-02-24"
+    ],
+    "primeira_obra": "P2018-02-24",
+    "linha": 5,
+    "obra_declarada": true,
+    "em_multiplas_obras": false
+   },
+   "fontes_declaradas": [
+    "P2018-02-24",
+    "P2012-02-19"
+   ]
+  },
+  {
+   "codigo": "RC-802",
+   "trecho": "de acordo com as circunstâncias vão sendo despertadas aí cada psiquismo de João, de Rogério, de cirir ainda se sentir culpado quando dá tudo errado. Aí a gente se sente culpado, marca no espírito da gente, o corpo morre, espírito da gente sai com aquela marca, tá ferrado. Isso é favor de vino que a gente escreveu.",
+   "estado": "vestigio",
+   "vestigio": {
+    "palavras_conferidas": 39,
+    "subfrase": "ainda se sentir culpado quando dá tudo errado. Aí a gente se sente culpado, marca no espírito da gente, o corpo morre, espírito da gente sai com aquela marca, tá ferrado. Isso é favor de vino que a gente",
+    "obras": [
+     "P2018-02-24"
+    ],
+    "primeira_obra": "P2018-02-24",
+    "linha": 5,
+    "obra_declarada": true,
+    "em_multiplas_obras": false
+   },
+   "fontes_declaradas": [
+    "P2018-02-24"
+   ]
+  },
+  {
+   "codigo": "RC-806",
+   "trecho": "Pandora tomou muitas [poções] também porque o fato é que Pandora ficou convivendo com os bichos de que meteteu e ela se apaixonou pelos homoenses. E ela foi então entre aspas se deixando. Cada vez que ela pegava um homoens [...] ela foi assimilando nela mesmo aqueles quadrões.",
+   "estado": "vestigio",
+   "vestigio": {
+    "palavras_conferidas": 36,
+    "subfrase": "também porque o fato é que Pandora ficou convivendo com os bichos de que meteteu e ela se apaixonou pelos homoenses. E ela foi então entre aspas se deixando. Cada vez que ela pegava um homoens",
+    "obras": [
+     "P2017-05-14"
+    ],
+    "primeira_obra": "P2017-05-14",
+    "linha": 5,
+    "obra_declarada": true,
+    "em_multiplas_obras": false
+   },
+   "fontes_declaradas": [
+    "P2017-05-14",
+    "P2018-02-24",
+    "P2025-04-06"
+   ]
+  },
+  {
+   "codigo": "RC-808",
+   "trecho": "Ele caiu aqui e ele se reconstruiu durante milhões de anos, a chamada era da solidão do Japé, 500. Ele passou mais de 500 milhões de anos tentando se reconstruir, sofreu para cacete muito.",
+   "estado": "vestigio",
+   "vestigio": {
+    "palavras_conferidas": 33,
+    "subfrase": "caiu aqui e ele se reconstruiu durante milhões de anos, a chamada era da solidão do Japé, 500. Ele passou mais de 500 milhões de anos tentando se reconstruir, sofreu para cacete muito.",
+    "obras": [
+     "P2017-05-14"
+    ],
+    "primeira_obra": "P2017-05-14",
+    "linha": 3,
+    "obra_declarada": true,
+    "em_multiplas_obras": false
+   },
+   "fontes_declaradas": [
+    "P2017-05-14",
+    "B006"
+   ]
+  },
+  {
+   "codigo": "RC-810",
+   "trecho": "Esse clone agrediu [Javé], ele parou de criar sozinho [...] Quando esse clone criou um plano de Chiv e agredir o Brandon para ver se ele parava de criar mais e mais monstros, ele terminou espalhando-se tanto que surgiu monstro de todo o tipo que a gente tinha de foi quando Javé pela primeira vez percebeu que ele não controlava tudo.",
+   "estado": "vestigio",
+   "vestigio": {
+    "palavras_conferidas": 48,
+    "subfrase": "criou um plano de Chiv e agredir o Brandon para ver se ele parava de criar mais e mais monstros, ele terminou espalhando-se tanto que surgiu monstro de todo o tipo que a gente tinha de foi quando Javé pela primeira vez percebeu que ele não controlava tudo.",
+    "obras": [
+     "P2017-05-14"
+    ],
+    "primeira_obra": "P2017-05-14",
+    "linha": 3,
+    "obra_declarada": true,
+    "em_multiplas_obras": false
+   },
+   "fontes_declaradas": [
+    "P2017-05-14"
+   ]
+  },
+  {
+   "codigo": "RC-812",
+   "trecho": "Prometeu sempre que podia sacranear vocês porque tinha richa entre os titães mais velhos e os olímpicos desde a época da guerra.",
+   "estado": "vestigio",
+   "vestigio": {
+    "palavras_conferidas": 21,
+    "subfrase": "sempre que podia sacranear vocês porque tinha richa entre os titães mais velhos e os olímpicos desde a época da guerra.",
+    "obras": [
+     "P2017-05-14"
+    ],
+    "primeira_obra": "P2017-05-14",
+    "linha": 4,
+    "obra_declarada": true,
+    "em_multiplas_obras": false
+   },
+   "fontes_declaradas": [
+    "P2017-05-14"
+   ]
+  },
+  {
+   "codigo": "RC-812",
+   "trecho": "Aí Prometheus sacanear vocês [...] Prometeu ajudou, foi embora. I Zeus ficou muito feliz, mas todo mundo dizendo para Zeus não para ele mesmo. Eu ainda ele não tá vendo de novo que prometeu curtir com a cara dele. Isso era relativo a sacrifícios cara. A Zeus, anos depois, convencido de que prometeu algum sacanear, resolve se vingar de prometeu.",
+   "estado": "vestigio",
+   "vestigio": {
+    "palavras_conferidas": 54,
+    "subfrase": "ajudou, foi embora. I Zeus ficou muito feliz, mas todo mundo dizendo para Zeus não para ele mesmo. Eu ainda ele não tá vendo de novo que prometeu curtir com a cara dele. Isso era relativo a sacrifícios cara. A Zeus, anos depois, convencido de que prometeu algum sacanear, resolve se vingar de prometeu.",
+    "obras": [
+     "P2017-05-14"
+    ],
+    "primeira_obra": "P2017-05-14",
+    "linha": 4,
+    "obra_declarada": true,
+    "em_multiplas_obras": false
+   },
+   "fontes_declaradas": [
+    "P2017-05-14"
+   ]
+  },
+  {
+   "codigo": "RC-815",
+   "trecho": "A mitologia não conta que essa vontade de Zeus foi provocada por uma professa de Zeus e tênis.",
+   "estado": "vestigio",
+   "vestigio": {
+    "palavras_conferidas": 17,
+    "subfrase": "mitologia não conta que essa vontade de Zeus foi provocada por uma professa de Zeus e tênis.",
+    "obras": [
+     "P2018-05-20"
+    ],
+    "primeira_obra": "P2018-05-20",
+    "linha": 3,
+    "obra_declarada": true,
+    "em_multiplas_obras": false
+   },
+   "fontes_declaradas": [
+    "P2018-05-20"
+   ]
+  },
+  {
+   "codigo": "RC-816",
+   "trecho": "Esse clone [que se tornou Kvasir] criou um plano de Chiv [Shiva] e agredir o Brandon [Brama] para ver se ele parava de criar mais e mais monstros, ele terminou espalhando-se tanto que surgiu monstro de todo o tipo que a gente tinha de foi quando Javé pela primeira vez percebeu que ele não controlava tudo.",
+   "estado": "vestigio",
+   "vestigio": {
+    "palavras_conferidas": 39,
+    "subfrase": "para ver se ele parava de criar mais e mais monstros, ele terminou espalhando-se tanto que surgiu monstro de todo o tipo que a gente tinha de foi quando Javé pela primeira vez percebeu que ele não controlava tudo.",
+    "obras": [
+     "P2017-05-14"
+    ],
+    "primeira_obra": "P2017-05-14",
+    "linha": 3,
+    "obra_declarada": false,
+    "em_multiplas_obras": false
+   },
+   "fontes_declaradas": [
+    "P2018-05-20",
+    "P2017-05-14"
+   ]
+  },
+  {
+   "codigo": "RC-819",
+   "trecho": "na lógica dos demos, em todas as locas, sabe-se que ninguém dentre eles sabe direito como é que os humanos surgiram, os humanos terracos. Mas todos eles sabem que surgiu no meio de uma confusão entre Zeus e Pandora. É isso que ele sabem. Envolvendo Prometeu e Epimeteu, dois titães, os quais Deus havia derrotado, mas que os manteve convivendo na mesma loca chamada Olimpo, no mesmo gêno ou na mesma morada desse universo vizinho.",
+   "estado": "vestigio",
+   "vestigio": {
+    "palavras_conferidas": 74,
+    "subfrase": "lógica dos demos, em todas as locas, sabe-se que ninguém dentre eles sabe direito como é que os humanos surgiram, os humanos terracos. Mas todos eles sabem que surgiu no meio de uma confusão entre Zeus e Pandora. É isso que ele sabem. Envolvendo Prometeu e Epimeteu, dois titães, os quais Deus havia derrotado, mas que os manteve convivendo na mesma loca chamada Olimpo, no mesmo gêno ou na mesma morada desse universo vizinho.",
+    "obras": [
+     "P2019-04-14"
+    ],
+    "primeira_obra": "P2019-04-14",
+    "linha": 3,
+    "obra_declarada": true,
+    "em_multiplas_obras": false
+   },
+   "fontes_declaradas": [
+    "P2019-04-14"
+   ]
+  },
+  {
+   "codigo": "RC-820",
+   "trecho": "nós, os humanos, produzimos o melhor perfume porque somos a junção do cérebro radiado a um cérebro bilatério. E o nosso circuito produz muito mais coisas, sequências, perfumes do que a de um demo, do que a de um macaco, do que a de um cavalo.",
+   "estado": "vestigio",
+   "vestigio": {
+    "palavras_conferidas": 45,
+    "subfrase": "os humanos, produzimos o melhor perfume porque somos a junção do cérebro radiado a um cérebro bilatério. E o nosso circuito produz muito mais coisas, sequências, perfumes do que a de um demo, do que a de um macaco, do que a de um cavalo.",
+    "obras": [
+     "P2019-04-14"
+    ],
+    "primeira_obra": "P2019-04-14",
+    "linha": 11,
+    "obra_declarada": true,
+    "em_multiplas_obras": false
+   },
+   "fontes_declaradas": [
+    "P2019-04-14"
+   ]
+  },
+  {
+   "codigo": "RC-821",
+   "trecho": "Esse triste Novela poderia ser livros de receita do senhor Reit ou do senhor Socar ou Socar. Subtítulo: Como se alimentar dos melhores perfumes? Neste cé a gente faz livro de receitas maravilhosas em cima de cadáveres.",
+   "estado": "vestigio",
+   "vestigio": {
+    "palavras_conferidas": 36,
+    "subfrase": "triste Novela poderia ser livros de receita do senhor Reit ou do senhor Socar ou Socar. Subtítulo: Como se alimentar dos melhores perfumes? Neste cé a gente faz livro de receitas maravilhosas em cima de cadáveres.",
+    "obras": [
+     "P2019-04-14"
+    ],
+    "primeira_obra": "P2019-04-14",
+    "linha": 9,
+    "obra_declarada": true,
+    "em_multiplas_obras": false
+   },
+   "fontes_declaradas": [
+    "P2019-04-14"
+   ]
+  },
+  {
+   "codigo": "RC-822",
+   "trecho": "Essa história só se enfouqueceu a partir de 2015, quando a trim[urti] [...] como sempre disse, se há um criminoso, 5, 10 ou 100 nessa história, é só ele.",
+   "estado": "vestigio",
+   "vestigio": {
+    "palavras_conferidas": 15,
+    "subfrase": "sempre disse, se há um criminoso, 5, 10 ou 100 nessa história, é só ele.",
+    "obras": [
+     "P2019-04-14"
+    ],
+    "primeira_obra": "P2019-04-14",
+    "linha": 12,
+    "obra_declarada": true,
+    "em_multiplas_obras": false
+   },
+   "fontes_declaradas": [
+    "P2019-04-14"
+   ]
+  },
+  {
+   "codigo": "RC-824",
+   "trecho": "através e jejum eu tô fazendo tudo agora, né? O jejum pode ser uma arma maravilhosa pra gente aprender a comer, como ele acabou de falar, que sim. Alimentação corpória do que pelo prazer da alimentação, que aí já faz a decisão, você comer para se alimentar e não comer pro seu prazer.",
+   "estado": "vestigio",
+   "vestigio": {
+    "palavras_conferidas": 50,
+    "subfrase": "eu tô fazendo tudo agora, né? O jejum pode ser uma arma maravilhosa pra gente aprender a comer, como ele acabou de falar, que sim. Alimentação corpória do que pelo prazer da alimentação, que aí já faz a decisão, você comer para se alimentar e não comer pro seu prazer.",
+    "obras": [
+     "P2019-04-14"
+    ],
+    "primeira_obra": "P2019-04-14",
+    "linha": 29,
+    "obra_declarada": true,
+    "em_multiplas_obras": false
+   },
+   "fontes_declaradas": [
+    "P2019-04-14"
+   ]
+  },
+  {
+   "codigo": "RC-825",
+   "trecho": "Através e jejum eu tô fazendo tudo agora, né? O jejum pode ser uma arma maravilhosa pra gente aprender a comer.",
+   "estado": "vestigio",
+   "vestigio": {
+    "palavras_conferidas": 17,
+    "subfrase": "eu tô fazendo tudo agora, né? O jejum pode ser uma arma maravilhosa pra gente aprender a",
+    "obras": [
+     "P2019-04-14"
+    ],
+    "primeira_obra": "P2019-04-14",
+    "linha": 29,
+    "obra_declarada": true,
+    "em_multiplas_obras": false
+   },
+   "fontes_declaradas": [
+    "P2019-04-14"
+   ]
+  },
+  {
+   "codigo": "RC-828",
+   "trecho": "As calmeias [colmeias] trazem si o velho sistema comérico [cooperativo] mental que eu explorei no livro chamada Divina Céia, que é o sistema arcaico, mental. mais antigo porque surgiu com Javé e os clones. Javé era abelha rainha, os clones, as abelhas operárias.",
+   "estado": "vestigio",
+   "vestigio": {
+    "palavras_conferidas": 33,
+    "subfrase": "mental que eu explorei no livro chamada Divina Céia, que é o sistema arcaico, mental. mais antigo porque surgiu com Javé e os clones. Javé era abelha rainha, os clones, as abelhas operárias.",
+    "obras": [
+     "P2023-12-17"
+    ],
+    "primeira_obra": "P2023-12-17",
+    "linha": 16,
+    "obra_declarada": true,
+    "em_multiplas_obras": false
+   },
+   "fontes_declaradas": [
+    "P2019-08-25",
+    "P2023-12-17",
+    "B037"
+   ]
+  },
+  {
+   "codigo": "RC-830",
+   "trecho": "Yel Luzbel, que é um ser que está basicamente a dois 1000 anos absolutamente isolado, sem contato com quem quer que seja, porque não quer ter contato com ninguém. Desde que ele desmaiou aos pés da cruz do humano Jesus sendo crucificado. E quando ele percebeu que aquele ser humano era uma expressão do comandante Sophia contra o qual ele se rebelara, né?",
+   "estado": "vestigio",
+   "vestigio": {
+    "palavras_conferidas": 53,
+    "subfrase": "que é um ser que está basicamente a dois 1000 anos absolutamente isolado, sem contato com quem quer que seja, porque não quer ter contato com ninguém. Desde que ele desmaiou aos pés da cruz do humano Jesus sendo crucificado. E quando ele percebeu que aquele ser humano era uma expressão do comandante",
+    "obras": [
+     "P2023-12-17"
+    ],
+    "primeira_obra": "P2023-12-17",
+    "linha": 3,
+    "obra_declarada": true,
+    "em_multiplas_obras": false
+   },
+   "fontes_declaradas": [
+    "P2023-12-17"
+   ]
+  },
+  {
+   "codigo": "RC-830",
+   "trecho": "E Di Luzb [Yel Luzbel] seria alguém que também iria escolher essa esse verso de Belquió, porque ele foi alguém que tentou fazer por ele mesmo o caminho que ele julgou ser razoável. Só que deu tudo errado. Não porque ele tem errado, os outros erraram, todo mundo erraram ao redor dele, inclusive Sophia, principalmente os anjos de Sophia, que eram os Anjos de Jahé que estão nesse universo meio que pressionando Sophia.",
+   "estado": "vestigio",
+   "vestigio": {
+    "palavras_conferidas": 43,
+    "subfrase": "seria alguém que também iria escolher essa esse verso de Belquió, porque ele foi alguém que tentou fazer por ele mesmo o caminho que ele julgou ser razoável. Só que deu tudo errado. Não porque ele tem errado, os outros erraram, todo mundo",
+    "obras": [
+     "P2023-12-17"
+    ],
+    "primeira_obra": "P2023-12-17",
+    "linha": 3,
+    "obra_declarada": true,
+    "em_multiplas_obras": false
+   },
+   "fontes_declaradas": [
+    "P2023-12-17"
+   ]
+  },
+  {
+   "codigo": "RC-831",
+   "trecho": "Sophia tem um quê de demo porque ele é biodemo, é a questão de ordem e caos. Onde tem caos, você tem que pôr ordem. E Sophia existe para pôr ordem no caos desse lado do universo.",
+   "estado": "vestigio",
+   "vestigio": {
+    "palavras_conferidas": 22,
+    "subfrase": "de demo porque ele é biodemo, é a questão de ordem e caos. Onde tem caos, você tem que pôr ordem. E",
+    "obras": [
+     "P2023-12-17"
+    ],
+    "primeira_obra": "P2023-12-17",
+    "linha": 4,
+    "obra_declarada": true,
+    "em_multiplas_obras": false
+   },
+   "fontes_declaradas": [
+    "P2023-12-17",
+    "P2023-12-03",
+    "P2018-10-06",
+    "P2019-05-11",
+    "P2025-05-10"
+   ]
+  },
+  {
+   "codigo": "RC-831",
+   "trecho": "Sophia existe para pôr ordem no caos desse lado do universo. Então ele teve que destruir muita coisa para manter a ordem, teve que destruir muitas civilizações que provocavam mais caos. Então o Sophia se mexe nessa dualidade meio simplória até hoje.",
+   "estado": "vestigio",
+   "vestigio": {
+    "palavras_conferidas": 32,
+    "subfrase": "existe para pôr ordem no caos desse lado do universo. Então ele teve que destruir muita coisa para manter a ordem, teve que destruir muitas civilizações que provocavam mais caos. Então o",
+    "obras": [
+     "P2023-12-17"
+    ],
+    "primeira_obra": "P2023-12-17",
+    "linha": 4,
+    "obra_declarada": true,
+    "em_multiplas_obras": false
+   },
+   "fontes_declaradas": [
+    "P2023-12-17",
+    "P2023-12-03",
+    "P2018-10-06",
+    "P2019-05-11",
+    "P2025-05-10"
+   ]
+  },
+  {
+   "codigo": "RC-834",
+   "trecho": "foi de Sophia que as Famílias Aya e Aye extraíram parte do DNA para a inseminação artificial de Maria — em palavras simples, Sophia seria o \"pai biológico\" de Jesus (B031).",
+   "estado": "vestigio",
+   "vestigio": {
+    "palavras_conferidas": 9,
+    "subfrase": "de Sophia que as Famílias Aya e Aye extraíram",
+    "obras": [
+     "B031"
+    ],
+    "primeira_obra": "B031",
+    "linha": 3839,
+    "obra_declarada": true,
+    "em_multiplas_obras": false
+   },
+   "fontes_declaradas": [
+    "P2023-12-17",
+    "B031",
+    "P2023-02-11",
+    "P2026-03-21"
+   ]
+  },
+  {
+   "codigo": "RC-834",
+   "trecho": "desde que a família Aya e Aye, que são dois tipos de clones, conseguissem também engendrar membros deles ou conseguissem passar e, entre aspas, ficar ao lado de Sophia ou obedecendo Sophia no sentido técnico.",
+   "estado": "vestigio",
+   "vestigio": {
+    "palavras_conferidas": 21,
+    "subfrase": "que são dois tipos de clones, conseguissem também engendrar membros deles ou conseguissem passar e, entre aspas, ficar ao lado de",
+    "obras": [
+     "P2023-12-17"
+    ],
+    "primeira_obra": "P2023-12-17",
+    "linha": 3,
+    "obra_declarada": true,
+    "em_multiplas_obras": false
+   },
+   "fontes_declaradas": [
+    "P2023-12-17",
+    "B031",
+    "P2023-02-11",
+    "P2026-03-21"
+   ]
+  },
+  {
+   "codigo": "RC-835",
+   "trecho": "foi de Sophia que as Famílias Aya e Aye extraíram parte do DNA para a inseminação artificial de Maria — em palavras simples, Sophia seria o \"pai biológico\" de Jesus (B031).",
+   "estado": "vestigio",
+   "vestigio": {
+    "palavras_conferidas": 9,
+    "subfrase": "de Sophia que as Famílias Aya e Aye extraíram",
+    "obras": [
+     "B031"
+    ],
+    "primeira_obra": "B031",
+    "linha": 3839,
+    "obra_declarada": true,
+    "em_multiplas_obras": false
+   },
+   "fontes_declaradas": [
+    "P2023-12-17",
+    "B031"
+   ]
+  },
+  {
+   "codigo": "RC-835",
+   "trecho": "desde que a família Aya e Aye, que são dois tipos de clones, conseguissem também engendrar membros deles ou conseguissem passar e, entre aspas, ficar ao lado de Sophia ou obedecendo Sophia no sentido técnico.",
+   "estado": "vestigio",
+   "vestigio": {
+    "palavras_conferidas": 21,
+    "subfrase": "que são dois tipos de clones, conseguissem também engendrar membros deles ou conseguissem passar e, entre aspas, ficar ao lado de",
+    "obras": [
+     "P2023-12-17"
+    ],
+    "primeira_obra": "P2023-12-17",
+    "linha": 3,
+    "obra_declarada": true,
+    "em_multiplas_obras": false
+   },
+   "fontes_declaradas": [
+    "P2023-12-17",
+    "B031"
+   ]
+  },
+  {
+   "codigo": "RC-862",
+   "trecho": "José casou com Maria, Isabel e Zacarias tiveram um filho e se filho foi criado pelos Essênios, conhecia todas as escrituras do povo judeu, o nome dele era João, tornou se um profeta todo poderoso...",
+   "estado": "vestigio",
+   "vestigio": {
+    "palavras_conferidas": 5,
+    "subfrase": "as escrituras do povo judeu,",
+    "obras": [
+     "P2023-02-11"
+    ],
+    "primeira_obra": "P2023-02-11",
+    "linha": 8,
+    "obra_declarada": true,
+    "em_multiplas_obras": false
+   },
+   "fontes_declaradas": [
+    "P2023-02-11",
+    "P2023-12-25-01"
+   ]
+  },
+  {
+   "codigo": "RC-887",
+   "trecho": "Quando eles souberam que legiões de tropas romanas estavam destruindo livros hereges, eles então esconderam, no século IV provavelmente no ano de 374, esconderam vários códices de papiros em uma certa caverna, uma região na época chamada Nag Hammadi, e que ainda continua sendo chamada assim... os livros gnósticos foram todos cancelados, e estes em língua copta foram escondidos.",
+   "estado": "vestigio",
+   "vestigio": {
+    "palavras_conferidas": 5,
+    "subfrase": "os livros gnósticos foram todos",
+    "obras": [
+     "P2020-09-19"
+    ],
+    "primeira_obra": "P2020-09-19",
+    "linha": 4,
+    "obra_declarada": false,
+    "em_multiplas_obras": false
+   },
+   "fontes_declaradas": [
+    "P2022-09-17",
+    "P2023-12-25-04"
+   ]
+  },
+  {
+   "codigo": "RC-928",
+   "trecho": "…enquanto já Saibaba disse que só desencarnaria em 2021, Javé fez com que eles encarnasse antes para devolver a humilhação.",
+   "estado": "vestigio",
+   "vestigio": {
+    "palavras_conferidas": 19,
+    "subfrase": "já Saibaba disse que só desencarnaria em 2021, Javé fez com que eles encarnasse antes para devolver a humilhação.",
+    "obras": [
+     "P2012-02-19"
+    ],
+    "primeira_obra": "P2012-02-19",
+    "linha": 5,
+    "obra_declarada": true,
+    "em_multiplas_obras": false
+   },
+   "fontes_declaradas": [
+    "B060",
+    "B031",
+    "P2012-02-19"
+   ]
+  },
+  {
+   "codigo": "RC-942",
+   "trecho": "o homem Jesus não seria o avatar de Javé, seria o Messias, seria o enviado, seria aquele que viria super poderoso em nome de Javé, resolver o tema principal e mais tarde foi transposto para as páginas da Bíblia, que tema era esse? Um Criador...",
+   "estado": "vestigio",
+   "vestigio": {
+    "palavras_conferidas": 4,
+    "subfrase": "o homem Jesus não",
+    "obras": [
+     "P2020-07-04",
+     "P2020-07-11",
+     "P2021-07-24",
+     "P2023-02-11",
+     "P2023-05-20"
+    ],
+    "primeira_obra": "P2020-07-04",
+    "linha": 6,
+    "obra_declarada": false,
+    "em_multiplas_obras": true
+   },
+   "fontes_declaradas": [
+    "P2023-12-25-01",
+    "P2023-12-25-02",
+    "P2023-12-25-03",
+    "P2020-04-04"
+   ]
+  },
+  {
+   "codigo": "RC-943",
+   "trecho": "agora Jesus iniciava uma terceira fase, quando ele chamou Maria Madalena e pediu para ela chamar mais quatro mulheres de Jerusalém e alguns apóstolos, porque ele, Jesus, iria ditar uma nova revelação, agora que estava como ressuscitado...",
+   "estado": "sem-vestigio",
+   "fontes_declaradas": [
+    "P2023-12-25-03",
+    "P2023-12-25-05"
+   ]
+  },
+  {
+   "codigo": "RC-943",
+   "trecho": "Jesus o Vivo, o Ressuscitado que através de Madalena, criou uma outra revelação totalmente diferente... A igreja preferiu a versão que Paulo criou. Paulo não conheceu Jesus...",
+   "estado": "sem-vestigio",
+   "fontes_declaradas": [
+    "P2023-12-25-03",
+    "P2023-12-25-05"
+   ]
+  },
+  {
+   "codigo": "RC-944",
+   "trecho": "Depois de 400 anos de silêncio profético, João Batista começou a dizer que o Messias iria aparecer no tempo da vida dele, que era naquele tempo que aquele Messias profetizado na faixa de 2000 anos, finalmente tinha chegado o momento.",
+   "estado": "vestigio",
+   "vestigio": {
+    "palavras_conferidas": 5,
+    "subfrase": "no tempo da vida dele,",
+    "obras": [
+     "P2025-02-22"
+    ],
+    "primeira_obra": "P2025-02-22",
+    "linha": 57,
+    "obra_declarada": false,
+    "em_multiplas_obras": false
+   },
+   "fontes_declaradas": [
+    "P2023-12-25-01",
+    "P2023-12-25-02"
+   ]
+  },
+  {
+   "codigo": "RC-944",
+   "trecho": "ele poderia ter iniciado seu ministério público, sem passar pelas mãos de João Batista... pelo batismo de João Batista. Existiam outras maneiras.",
+   "estado": "sem-vestigio",
+   "fontes_declaradas": [
+    "P2023-12-25-01",
+    "P2023-12-25-02"
+   ]
+  },
+  {
+   "codigo": "RC-945",
+   "trecho": "No dia em que Jesus foi preso pela turma do Sinédrio, era para prender toda a turma de Jesus. Pedro negou várias vezes. Foi quando Jesus percebeu que aqueles 11 apóstolos que ele havia escolhido lá da Galileia, porque o 12º, era Judas da Judeia...",
+   "estado": "vestigio",
+   "vestigio": {
+    "palavras_conferidas": 5,
+    "subfrase": "dia em que Jesus foi",
+    "obras": [
+     "P2025-07-18"
+    ],
+    "primeira_obra": "P2025-07-18",
+    "linha": 16,
+    "obra_declarada": false,
+    "em_multiplas_obras": false
+   },
+   "fontes_declaradas": [
+    "P2023-12-25-03"
+   ]
+  },
+  {
+   "codigo": "RC-946",
+   "trecho": "Ah! Jesus foi crucificado porque... o Sinédrio judaico... é uma redundância, um pleonasmo porque o Sinédrio só existe no judaísmo... Foi Pôncio Pilatos.",
+   "estado": "sem-vestigio",
+   "fontes_declaradas": [
+    "P2023-12-25-03",
+    "P2023-12-25-04"
+   ]
+  },
+  {
+   "codigo": "RC-946",
+   "trecho": "quando Caifás e Anás descobrem isso, vão para cima de Pilatos. Pilatos abre imediatamente uma verificação ou acusação em cima do centurião... O centurião apareceu como sendo alguém que teria sido subornado por José de Arimatéi...",
+   "estado": "vestigio",
+   "vestigio": {
+    "palavras_conferidas": 4,
+    "subfrase": "vão para cima de",
+    "obras": [
+     "P2022-11-19"
+    ],
+    "primeira_obra": "P2022-11-19",
+    "linha": 78,
+    "obra_declarada": false,
+    "em_multiplas_obras": false
+   },
+   "fontes_declaradas": [
+    "P2023-12-25-03",
+    "P2023-12-25-04"
+   ]
+  },
+  {
+   "codigo": "RC-946",
+   "trecho": "Pôncio Pilatos, que representavam os romanos lá na crucificação, não queria crucificar Jesus. Ele tentou. Ele colocou Barrabás para dar uma opção para a turba decidir.",
+   "estado": "sem-vestigio",
+   "fontes_declaradas": [
+    "P2023-12-25-03",
+    "P2023-12-25-04"
+   ]
+  }
+ ]
+}

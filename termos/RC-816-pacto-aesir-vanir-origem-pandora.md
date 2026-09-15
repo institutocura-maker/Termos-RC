@@ -5,7 +5,7 @@ nome = "Pacto Aesir-Vanir como Origem Nórdica da Ideia de Pandora"
 categoria = "Eventos & Eras"
 subcategoria = "7.1 Guerras / Rebeliões / Conflitos"
 status = "verificado"
-fontes = ["P2018-05-20"]
+fontes = ["P2018-05-20", "P2017-05-14"]
 via = "P6-evidência"
 confianca_fonte = "média"
 atualizado = "2026-08-30"
@@ -29,6 +29,7 @@ A palestra **NÃO FUSIONA o Kvasir da mitologia nórdica clássica com o "princ�
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
 | P2018-05-20 — De Pandora a Eva e o Culto a Lilith | U0002 (S2) | — | palestra (fonte primária, STT) |
+| P2017-05-14 — O Desvio de Rota de Pandora e o Quarto Logos Universal | U0005 (S5) | — | palestra (fonte primária, STT) |
 | Edda Poética (Hávamál) | — | — | obra canônica (fonte secundária, contraste) |
 | Edda em Prosa (Snorri Sturluson) | — | — | obra canônica (fonte secundária, contraste) |
 
@@ -65,3 +66,5 @@ A palestra **NÃO FUSIONA o Kvasir da mitologia nórdica clássica com o "princ�
 
 
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-816.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
+- 🧭 **Correcção de atribuição (A6, U85, 14/09/2026):** o 3.º bloco de «Citações-chave» desta ficha tem 47 palavras conferidas em **P2017-05-14** («O Desvio de Rota de Pandora e o Quarto Logos Universal»), obra que não constava das fontes declaradas. A sigla foi acrescentada ao cadastro, ao frontmatter e à tabela de Fontes. A ficha já registava, nas observações, a conexão com essa palestra.
+- ⚠️ **Citações da geração pré-Portão B (aresta A5, U85, 14/09/2026):** o bloco entre «» desta ficha **não** resiste à verificação byte a byte — são transcrições editadas (elisões, acrescentos entre colchetes, suavizações) ou provêm de fonte ainda não ingerida. Não são extractos conferidos, ao contrário das citações com aparelho R1. Censo completo em `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`; a reextração fica diferida para a campanha que reprocessar estas fontes.

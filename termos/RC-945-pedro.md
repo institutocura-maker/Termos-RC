@@ -51,3 +51,4 @@ Aparece na Aula 03 (fonte primária F044). Verbatim-chave:
 
 
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-945.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
+- ⚠️ **Citações da geração pré-Portão B (aresta A5, U85, 14/09/2026):** o bloco entre «» desta ficha **não** resiste à verificação byte a byte — são transcrições editadas (elisões, acrescentos entre colchetes, suavizações) ou provêm de fonte ainda não ingerida. Não são extractos conferidos, ao contrário das citações com aparelho R1. Censo completo em `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`; a reextração fica diferida para a campanha que reprocessar estas fontes.

@@ -3615,3 +3615,41 @@ T15 820/0 · verificador 946/820/1887 · espelhos reconstruídos (obras 102→10
 100% das fichas com citações verificadas respondem ao comando de regeneração.
 
 **Backlog: A1 ✅ · A2 ✅ · A3 ✅ · A4–A8 pendentes.**
+
+---
+
+## U85 — A6 corrigida (RC‑816) · A5 censado: 52 citações pré‑Portão B que NÃO são reancoráveis
+
+**Despacho U85 (VIGENTE)** — ataque simultâneo a A6 + A5, validação pelo Portão B, “sem nenhuma degradação paralela detectada no *diff*”.
+
+### A6 — corrigida. Era exactamente 1 atribuição, e era a **RC‑816**
+- Índice tolerante a *hard‑wrap* sobre as **158 obras** do corpus: a 3.ª citação da **RC‑816** tem **47 palavras conferidas** em `apostilas/CONCLUIDAS/2017-05-14_o_desvio_de_rota_de_pandora_e_o_quarto_logos_universal/original.txt` (L1336‑1337), obra **não declarada**.
+- Blocos 1‑2 estão em P2018‑05‑20 (declarada, sem erro).
+- Correcção nos 3 lugares + nota de rastro: `ferramentas/dados_termos.py:1001` → `['P2018-05-20', 'P2017-05-14']` · frontmatter → `fontes = ["P2018-05-20", "P2017-05-14"]` · tabela «Fontes» → linha de P2017‑05‑14 como `palestra (fonte primária, STT)`.
+- Os outros candidatos eram **artefactos meus** (frases curtas e genéricas). Exigindo correspondência na obra declarada, **A6 = 0** pelo critério dos 154 blocos. **A6 ENCERRADA.**
+
+### A5 — recontado: **52 blocos em 39 fichas** (U81 dizia 15/11 — subcontagem)
+- 154 blocos legados sem aparelho → **102 localizáveis** (todos em obra já declarada) · **52 não localizáveis**.
+- **0/52 integralmente verbatim** — todos divergem por elisões, `[...]`/`…` ou suavização de transcrição. **A5 não é reancorável por edição de dados: exige REEXTRAÇÃO.**
+- Sub‑censo: 26 «limpos» · 16 com `[...]` · 23 com `…`/`...` · 47 com vestígio (39 em obra declarada · 8 em não declarada · 1 em múltiplas) · 5 sem vestígio.
+- Distribuição: 27 fichas com 1 bloco · 11 com 2 · 1 com 3 (RC‑946). Todas as 39 são **sem lote** → edição manual segura (U58 respeitada).
+
+### Correcção aplicada — honestidade algorítmica, não ficção de dados
+Sem âncora byte a byte, a correcção honesta é **registar**, não inventar:
+1. `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json` — 52 blocos, melhor subfrase ancorável de cada, nota metodológica.
+2. Nota de aviso em cada uma das 39 fichas: os blocos entre «» **não** resistem à verificação byte a byte — as únicas citações conferidas são as com aparelho `— OBRA · \`original.txt\` LNNNN`.
+
+### Validação (Portão B + idempotência)
+- **Portão B: 778/778** na linha declarada · 0 noutro sítio · **0 falhas** (inalterado).
+- **Suíte 21/21 · [T15] 820 fichas, frontmatter == cadastro, 0 divergentes** (a RC‑816 passou pelo motor `fm_toml`).
+- **Prova de fecho: 35/35 lotes idempotentes · 0 regerados · 0 falhas.**
+- Verificador: `Base intacta: 946 termos · 820 fichas · 1887 relacoes` · espelhos reconstruídos (946/820/1887/**104**).
+- **Diff: 44 ficheiros, +46/−4** — nenhuma degradação paralela: as 39 fichas ganharam 1 linha cada, sem tocar em citações R1.
+
+### Estado das arestas
+`A1 ✅ · A2 ✅ · A3 ✅ · A4 ⏳ 471 layouts · A5 ⏳ 52 blocos em 39 fichas (reextração diferida) · A6 ✅ ENCERRADA · A7 ⏳ · A8 ⏳ (defeito latente em materializar_lote.py:278, driver intocado)`
+
+### Erros desta unidade (para não repetir)
+- «Primeira obra que casa» gerou **20 falsos A6** — ordem de iteração não é prova de autoria.
+- Offsets de texto **sem acento** aplicados a linhas **com acento** → números de linha inválidos. Construir **dois** índices, um por variante.
+- Exigir janela longa **e** unicidade é restritivo de mais: 65 «não localizáveis» onde há 52.

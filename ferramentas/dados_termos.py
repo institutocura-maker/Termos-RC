@@ -998,7 +998,7 @@ TERMOS = [
     ("RC-813", "Culto a Lilith (Transformação em Deusa Lil Babilônica)", COS_ESP[0], COS_ESP[1], "verificado", ['P2018-05-20', 'P2023-11-11', 'P2025-04-06'], 'RC-105; RC-308; RC-464; RC-489; RC-794; RC-796; RC-818', True),
     ("RC-814", "Eva como 3ª Tentativa de Fêmea para Adão (Homem + Mulher da Espécie Sábia)", SER_HUM[0], SER_HUM[1], "verificado", ['P2018-05-20', 'B001'], 'RC-001; RC-308; RC-817; RC-099; RC-302; RC-086; RC-303; RC-335; RC-818', True),
     ("RC-815", "Temis (Têmis) como Mãe-de-Pandora (Co-clonadora)", SER_DEC[0], SER_DEC[1], "verificado", ['P2018-05-20'], 'RC-085; RC-086; RC-149; RC-300; RC-305; RC-378; RC-396; RC-816', True),
-    ("RC-816", "Pacto Aesir-Vanir como Origem Nórdica da Ideia de Pandora", EVE_GUE[0], EVE_GUE[1], "verificado", ['P2018-05-20'], 'RC-068; RC-085; RC-086; RC-378; RC-395; RC-396; RC-489; RC-810; RC-815', True),
+    ("RC-816", "Pacto Aesir-Vanir como Origem Nórdica da Ideia de Pandora", EVE_GUE[0], EVE_GUE[1], "verificado", ['P2018-05-20', 'P2017-05-14'], 'RC-068; RC-085; RC-086; RC-378; RC-395; RC-396; RC-489; RC-810; RC-815', True),
     ("RC-817", "Agar como 2ª Tentativa Fracassada de Fêmea para Adão", SER_HUM[0], SER_HUM[1], "verificado", ['P2018-05-20', 'B001'], 'RC-455; RC-001; RC-308; RC-814; RC-302; RC-099; RC-086', True),
     ("RC-818", "Patriarcado desde Pandora (Origem no Feminino, Dominação pelo Masculino)", COS_ETI[0], COS_ETI[1], "verificado", ['P2018-05-20'], 'RC-001; RC-086; RC-105; RC-303; RC-308; RC-335; RC-796; RC-813; RC-814', True),
     ("RC-819", "Prole sem Face (Humanos Modificáveis sem Face Definida)", COS_ESP[0], COS_ESP[1], "verificado", ['P2019-04-14'], 'RC-001; RC-086; RC-099; RC-149; RC-270; RC-271; RC-301; RC-302; RC-806; RC-814', True),
