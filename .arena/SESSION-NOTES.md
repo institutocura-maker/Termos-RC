@@ -4066,3 +4066,44 @@ restaurado a `95fe773`, `termos/` limpo.
 
 ### 7. Estado
 `A1 ✅ A2 ✅ A3 ✅ A4 ✅ · A5 ⏳ 128 reanexados + 212 em curadoria · A6 ✅ A7 ✅ A8 ✅`
+
+---
+
+## U95 — ORFANATO A5: 221 blocos sem vestígio no corpus (leitura)
+
+**Artefactos:** `diagnostico/U95-ORFANATO-A5.md` + `.json`
+**Gerador:** `ferramentas/gerar_orfanato_a5.py` (só leitura, 0 fichas tocadas)
+
+### 1. O que é um órfão
+Nenhuma janela de 5 palavras consecutivas ocorre em obra alguma das 158
+ingeridas. Não são reanexáveis hoje — e nenhum modelo os pode extrair: o texto
+não está cá.
+
+### 2. Veredito (o censo só dizia «sem âncora»)
+| veredito | blocos | significado |
+|---|---|---|
+| PARÁFRASE | 186 | todas as fontes declaradas estão no corpus e o texto não ocorre: é redacção, não extracto |
+| FONTE PARCIALMENTE NÃO INGERIDA | 27 | declara obra(s) que o corpus não tem |
+| FONTE NÃO INGERIDA | 8 | nenhuma das fontes declaradas está no corpus |
+
+**Achado accionável: 35 blocos são recuperáveis por INGESTÃO**, não por
+curadoria. Obras ausentes: `P2023-12-25-01..05` (26 blocos), `B051` (7),
+`ART-2026-08-18` (6), `B035`/`B071`/`B072`/`B064`/`ART-2025-08-01`.
+
+### 3. Marcas
+aspas 164 · sem marca 38 · **«» 19 — estes últimos são os mais graves**: a
+ficha promete VERBATIM com «» e não cumpre. Ficam sinalizados no artefacto.
+
+### 4. Por que artefacto e não ficha RC-000-QUARENTENA-A5.md
+Um termo fora do cadastro quebraria 946/820/1887, o build_indice e o T14. E a
+contenção JÁ ESTÁ FEITA pela nota da U86 em 478/478 fichas — o bloco fica no
+lugar com o seu aviso. Este ficheiro é o *dataset* para a triagem semântica.
+
+### 5. Isolamento verificado
+`git status`: **0 fichas alteradas**, nenhuma nota emitida, nenhum status mexido.
+
+### 6. Estado
+`A1 ✅ A2 ✅ A3 ✅ A4 ✅ · A5 ⏳ 128 reanexados · 212 em curadoria (U93) ·
+221 em orfanato · A6 ✅ A7 ✅ A8 ✅`
+Falta: aplicar as decisões do `U93-DIFF-CURATORIAL.md` (U94) e, se o Curador
+quiser, ingerir as obras ausentes para recuperar 35 órfãos.

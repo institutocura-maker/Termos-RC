@@ -1,0 +1,5903 @@
+{
+ "unidade": "U95",
+ "gerado_por": "gerar_orfanato_a5.py",
+ "corpus": 158,
+ "orfãos": 221,
+ "registos": [
+  {
+   "cod": "RC-001",
+   "secao": "Observações",
+   "arquivo": "termos/RC-001-jave.md",
+   "linha_ficha": 619,
+   "palavras": 70,
+   "trecho": "Nas Revelações Cósmicas, Javé é o \"Deus Bíblico do Antigo Testamento\" (B031), identificado em outras tradições como **Jeová/Yahweh** (Cristianismo/Judaísmo), **Alá** (Islamismo), **Brahma** (Hinduísmo), **Caos** (Mitologia Grega), **Pangu/Pan'Ku** (Mitologia Chinesa) e **Atom** (Mitologia Egípcia). Ele é o **Criador \"caído\"** deste universo — e por isso chamado de Criador e não de Deus —, o pro…",
+   "fontes_declaradas": [
+    "B031",
+    "B044",
+    "B035",
+    "B001",
+    "B002",
+    "B033",
+    "B015",
+    "B013",
+    "B014",
+    "B020",
+    "B021",
+    "B022",
+    "B023",
+    "B048",
+    "B003",
+    "B025",
+    "B026",
+    "B034",
+    "B036",
+    "B060",
+    "B019",
+    "B043",
+    "B037",
+    "B039",
+    "P2022-12-17",
+    "P2026-07-30",
+    "P2024-05-04",
+    "P2025-06-26",
+    "P2025-02-16",
+    "P2025-02-15",
+    "P2024-11-30",
+    "P2024-11-09",
+    "P2024-09-29",
+    "P2024-08-03",
+    "P2024-07-14",
+    "P2024-03-03",
+    "P2024-04-13",
+    "P2024-04-14",
+    "P2026-08-04",
+    "P2024-03-02",
+    "P2024-02-03",
+    "P2023-05-13",
+    "P2023-12-02",
+    "P2021-03-27",
+    "P2025-11-29",
+    "P2023-04-15",
+    "P2023-04-01",
+    "P2023-04-29",
+    "P2020-07-04",
+    "P2020-05-09",
+    "P2020-09-19",
+    "P2021-05-08",
+    "P2021-07-24",
+    "P2021-09-04",
+    "P2022-09-24",
+    "P2023-04-01b",
+    "P2024-11-03",
+    "P2025-02-22",
+    "P2021-05-15",
+    "P2023-10-14",
+    "P2020-04-25",
+    "P2022-03-26",
+    "P2023-12-03",
+    "P2021-01-30",
+    "P2022-05-07",
+    "P2024-06-16",
+    "P2017-10-14",
+    "P2012-02-19",
+    "P2022-12-03",
+    "P2022-11-26",
+    "P2022-11-20",
+    "P2022-10-01",
+    "P2022-09-18",
+    "P2022-07-16",
+    "P2026-03-21",
+    "P2021-02-28",
+    "P2021-04-10",
+    "P2021-06-26",
+    "P2022-11-19",
+    "P2025-12-14",
+    "P2023-12-25-01",
+    "P2020-04-04"
+   ],
+   "fontes_no_corpus": [
+    "B031",
+    "B044",
+    "B001",
+    "B002",
+    "B033",
+    "B015",
+    "B013",
+    "B014",
+    "B020",
+    "B021",
+    "B022",
+    "B023",
+    "B048",
+    "B003",
+    "B025",
+    "B026",
+    "B034",
+    "B036",
+    "B060",
+    "B019",
+    "B043",
+    "B037",
+    "B039",
+    "P2022-12-17",
+    "P2026-07-30",
+    "P2024-05-04",
+    "P2025-06-26",
+    "P2025-02-16",
+    "P2025-02-15",
+    "P2024-11-30",
+    "P2024-11-09",
+    "P2024-09-29",
+    "P2024-08-03",
+    "P2024-07-14",
+    "P2024-03-03",
+    "P2024-04-13",
+    "P2024-04-14",
+    "P2026-08-04",
+    "P2024-03-02",
+    "P2024-02-03",
+    "P2023-05-13",
+    "P2023-12-02",
+    "P2021-03-27",
+    "P2025-11-29",
+    "P2023-04-15",
+    "P2023-04-01",
+    "P2023-04-29",
+    "P2020-07-04",
+    "P2020-05-09",
+    "P2020-09-19",
+    "P2021-05-08",
+    "P2021-07-24",
+    "P2021-09-04",
+    "P2022-09-24",
+    "P2023-04-01b",
+    "P2024-11-03",
+    "P2025-02-22",
+    "P2021-05-15",
+    "P2023-10-14",
+    "P2020-04-25",
+    "P2022-03-26",
+    "P2023-12-03",
+    "P2021-01-30",
+    "P2022-05-07",
+    "P2024-06-16",
+    "P2017-10-14",
+    "P2012-02-19",
+    "P2022-12-03",
+    "P2022-11-26",
+    "P2022-11-20",
+    "P2022-10-01",
+    "P2022-09-18",
+    "P2022-07-16",
+    "P2026-03-21",
+    "P2021-02-28",
+    "P2021-04-10",
+    "P2021-06-26",
+    "P2022-11-19",
+    "P2025-12-14",
+    "P2020-04-04"
+   ],
+   "fontes_fora_do_corpus": [
+    "B035",
+    "P2023-12-25-01"
+   ],
+   "veredito": "FONTE PARCIALMENTE NÃO INGERIDA",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-009",
+   "secao": "Observações",
+   "arquivo": "termos/RC-009-sophia-cristo-cosmico.md",
+   "linha_ficha": 539,
+   "palavras": 100,
+   "trecho": "Sophia é **o Cristo Cósmico** e o **Suserano Cósmico** deste universo. É um ser **biológico (biodemo e radiata)** do nosso universo, com sede de sua \"Governadoria Cósmica\" no planeta **Orbum** (Sistema de Capela), de onde governa o universo material. É um **avatar de Mohen So**, que por sua vez era avatar de **Vishnu** — os dois (Jesus e Sophia) possuem o mesmo espírito (também o de Vishnu e Ma…",
+   "fontes_declaradas": [
+    "B031",
+    "B017",
+    "B018",
+    "B039",
+    "B016",
+    "B014",
+    "B013",
+    "B057",
+    "B058",
+    "B060",
+    "P2024-02-25",
+    "P2022-12-17",
+    "P2021-12-04",
+    "P2026-07-30",
+    "P2024-05-04",
+    "P2026-04-02",
+    "P2025-02-16",
+    "P2025-02-15",
+    "P2024-11-30",
+    "P2024-11-09",
+    "P2024-08-03",
+    "P2024-07-14",
+    "P2024-03-03",
+    "P2026-08-04",
+    "P2024-03-02",
+    "ART-2026-08-18",
+    "P2023-05-13",
+    "P2023-12-02",
+    "P2021-03-27",
+    "P2024-09-28",
+    "P2023-11-19",
+    "P2023-04-30",
+    "P2023-04-15",
+    "P2023-04-29",
+    "P2020-04-18",
+    "P2020-07-04",
+    "P2020-05-09",
+    "P2020-08-08",
+    "P2021-03-13",
+    "P2021-05-08",
+    "P2021-07-24",
+    "P2021-09-04",
+    "P2022-09-24",
+    "P2024-11-03",
+    "P2025-02-22",
+    "P2021-05-15",
+    "P2023-10-14",
+    "P2020-04-25",
+    "P2022-03-26",
+    "P2023-12-03",
+    "P2021-01-30",
+    "P2022-05-07",
+    "P2024-06-16",
+    "P2018-12-15",
+    "P2025-05-10",
+    "P2023-02-11",
+    "P2022-11-26",
+    "P2022-11-20",
+    "P2022-10-01",
+    "P2022-09-18",
+    "P2022-07-16",
+    "P2021-06-26",
+    "P2022-11-19",
+    "P2025-12-14",
+    "P2023-12-25-01",
+    "P2020-04-04"
+   ],
+   "fontes_no_corpus": [
+    "B031",
+    "B017",
+    "B018",
+    "B039",
+    "B016",
+    "B014",
+    "B013",
+    "B057",
+    "B058",
+    "B060",
+    "P2024-02-25",
+    "P2022-12-17",
+    "P2021-12-04",
+    "P2026-07-30",
+    "P2024-05-04",
+    "P2026-04-02",
+    "P2025-02-16",
+    "P2025-02-15",
+    "P2024-11-30",
+    "P2024-11-09",
+    "P2024-08-03",
+    "P2024-07-14",
+    "P2024-03-03",
+    "P2026-08-04",
+    "P2024-03-02",
+    "P2023-05-13",
+    "P2023-12-02",
+    "P2021-03-27",
+    "P2024-09-28",
+    "P2023-11-19",
+    "P2023-04-30",
+    "P2023-04-15",
+    "P2023-04-29",
+    "P2020-04-18",
+    "P2020-07-04",
+    "P2020-05-09",
+    "P2020-08-08",
+    "P2021-03-13",
+    "P2021-05-08",
+    "P2021-07-24",
+    "P2021-09-04",
+    "P2022-09-24",
+    "P2024-11-03",
+    "P2025-02-22",
+    "P2021-05-15",
+    "P2023-10-14",
+    "P2020-04-25",
+    "P2022-03-26",
+    "P2023-12-03",
+    "P2021-01-30",
+    "P2022-05-07",
+    "P2024-06-16",
+    "P2018-12-15",
+    "P2025-05-10",
+    "P2023-02-11",
+    "P2022-11-26",
+    "P2022-11-20",
+    "P2022-10-01",
+    "P2022-09-18",
+    "P2022-07-16",
+    "P2021-06-26",
+    "P2022-11-19",
+    "P2025-12-14",
+    "P2020-04-04"
+   ],
+   "fontes_fora_do_corpus": [
+    "ART-2026-08-18",
+    "P2023-12-25-01"
+   ],
+   "veredito": "FONTE PARCIALMENTE NÃO INGERIDA",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-011",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-011-adhy.md",
+   "linha_ficha": 43,
+   "palavras": 42,
+   "trecho": "Os 147 seres que terminaram compondo essa espécie ou esse gênero... eles são gênero, porque esses 147 seres, nesse número pequeno, têm cinco tipos de seres que compõem os 147 seres; então são cinco espécies formando esse gênero.\" — P2021-12-04 (apud RC-411)",
+   "fontes_declaradas": [
+    "B031",
+    "B022",
+    "B051",
+    "P2021-12-04",
+    "P2024-11-30"
+   ],
+   "fontes_no_corpus": [
+    "B031",
+    "B022",
+    "P2021-12-04",
+    "P2024-11-30"
+   ],
+   "fontes_fora_do_corpus": [
+    "B051"
+   ],
+   "veredito": "FONTE PARCIALMENTE NÃO INGERIDA",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-012",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-012-adhyagia.md",
+   "linha_ficha": 54,
+   "palavras": 38,
+   "trecho": "Na Espiritualidade Operacional [...] a alma ou o espírito puro do 'gênero espiritual Adhy' está sob a condição Adhyagia, que é, portanto, o corpo causal da consciência espiritual plena ou o corpo espiritual superior.\" — B024, Nota 5",
+   "fontes_declaradas": [
+    "B031",
+    "B024",
+    "B022",
+    "B051",
+    "P2021-12-04",
+    "P2025-02-16",
+    "P2024-11-30"
+   ],
+   "fontes_no_corpus": [
+    "B031",
+    "B024",
+    "B022",
+    "P2021-12-04",
+    "P2025-02-16",
+    "P2024-11-30"
+   ],
+   "fontes_fora_do_corpus": [
+    "B051"
+   ],
+   "veredito": "FONTE PARCIALMENTE NÃO INGERIDA",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-015",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-015-adhybutha.md",
+   "linha_ficha": 38,
+   "palavras": 16,
+   "trecho": "Adhybutha seria uma 'expansão' de um tipo de 'projeção' da condição Adhyagia.\" — B024, Nota 20",
+   "fontes_declaradas": [
+    "B031",
+    "B051",
+    "P2021-12-04",
+    "P2025-02-16",
+    "P2024-11-30"
+   ],
+   "fontes_no_corpus": [
+    "B031",
+    "P2021-12-04",
+    "P2025-02-16",
+    "P2024-11-30"
+   ],
+   "fontes_fora_do_corpus": [
+    "B051"
+   ],
+   "veredito": "FONTE PARCIALMENTE NÃO INGERIDA",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-036",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-036-biodemos.md",
+   "linha_ficha": 88,
+   "palavras": 34,
+   "trecho": "Essa postura, até então **nunca sentida pela estirpe dos biodemos**, logo se espalhou como uma espécie de 'vírus mental' para outros 'anjos' que apresentavam um tipo de mente coletiva.\" — B057, SINTESE, p. 1",
+   "fontes_declaradas": [
+    "B031",
+    "B044",
+    "B001",
+    "B017",
+    "B018",
+    "B039",
+    "B023",
+    "B050",
+    "B057",
+    "B058",
+    "P2024-05-04",
+    "P2024-04-13",
+    "P2020-08-08",
+    "P2021-03-13",
+    "P2021-09-04",
+    "P2021-05-15",
+    "P2020-04-25",
+    "P2022-03-26",
+    "P2023-12-03",
+    "P2021-01-30",
+    "P2017-10-14",
+    "P2023-08-27",
+    "P2022-10-01",
+    "P2022-09-25"
+   ],
+   "fontes_no_corpus": [
+    "B031",
+    "B044",
+    "B001",
+    "B017",
+    "B018",
+    "B039",
+    "B023",
+    "B050",
+    "B057",
+    "B058",
+    "P2024-05-04",
+    "P2024-04-13",
+    "P2020-08-08",
+    "P2021-03-13",
+    "P2021-09-04",
+    "P2021-05-15",
+    "P2020-04-25",
+    "P2022-03-26",
+    "P2023-12-03",
+    "P2021-01-30",
+    "P2017-10-14",
+    "P2023-08-27",
+    "P2022-10-01",
+    "P2022-09-25"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-064",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-064-fenvans.md",
+   "linha_ficha": 55,
+   "palavras": 18,
+   "trecho": "Os Fenvans foram a espécie precursora e experimental, designados como 'seres-cobaias' ou 'primeiros astronautas'.\" — ART-2025-08-03, Cap. 3",
+   "fontes_declaradas": [
+    "B031",
+    "B024",
+    "P2022-12-17",
+    "P2024-11-30",
+    "P2024-08-03",
+    "P2024-04-13",
+    "P2023-12-03",
+    "P2021-01-30",
+    "P2024-06-16",
+    "P2026-03-21"
+   ],
+   "fontes_no_corpus": [
+    "B031",
+    "B024",
+    "P2022-12-17",
+    "P2024-11-30",
+    "P2024-08-03",
+    "P2024-04-13",
+    "P2023-12-03",
+    "P2021-01-30",
+    "P2024-06-16",
+    "P2026-03-21"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-068",
+   "secao": "Definição Sintética",
+   "arquivo": "termos/RC-068-hiperborea.md",
+   "linha_ficha": 17,
+   "palavras": 33,
+   "trecho": "Toda a história da Terra é voltada pro chamado norte sagrado, não era pro sul... era o norte sagrado por causa da Hiperbórea... o point, o lugar chique era essa Hiperbórea.\" — P2025-11-29",
+   "fontes_declaradas": [
+    "B031",
+    "B023",
+    "B052",
+    "P2024-04-13",
+    "P2025-11-29",
+    "P2021-05-15",
+    "P2022-03-26",
+    "P2023-12-03",
+    "P2018-12-16",
+    "P2022-10-01",
+    "P2022-09-25",
+    "P2022-09-18"
+   ],
+   "fontes_no_corpus": [
+    "B031",
+    "B023",
+    "B052",
+    "P2024-04-13",
+    "P2025-11-29",
+    "P2021-05-15",
+    "P2022-03-26",
+    "P2023-12-03",
+    "P2018-12-16",
+    "P2022-10-01",
+    "P2022-09-25",
+    "P2022-09-18"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-074",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-074-len-mion-sata.md",
+   "linha_ficha": 60,
+   "palavras": 20,
+   "trecho": "Len Mion e sua influência em Marduk... a problemática do psiquismo de 'deuses' e seres cósmicos.\" — P2021-03-27 (seções 6.2–6.3)",
+   "fontes_declaradas": [
+    "B031",
+    "B017",
+    "B018",
+    "B039",
+    "B057",
+    "B058",
+    "B060",
+    "P2021-03-27",
+    "P2020-04-25",
+    "P2022-03-26",
+    "P2023-12-03",
+    "P2018-12-15",
+    "P2018-12-16",
+    "P2023-08-27",
+    "P2023-02-11",
+    "P2021-04-10"
+   ],
+   "fontes_no_corpus": [
+    "B031",
+    "B017",
+    "B018",
+    "B039",
+    "B057",
+    "B058",
+    "B060",
+    "P2021-03-27",
+    "P2020-04-25",
+    "P2022-03-26",
+    "P2023-12-03",
+    "P2018-12-15",
+    "P2018-12-16",
+    "P2023-08-27",
+    "P2023-02-11",
+    "P2021-04-10"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-086",
+   "secao": "Observações",
+   "arquivo": "termos/RC-086-pandora.md",
+   "linha_ficha": 247,
+   "palavras": 20,
+   "trecho": "**Demarcação de autoria:** as formulações acima são interpretação do artigo ART-2026-08-18 (fonte secundária confiável), não cânon primário direto do Ellam.",
+   "fontes_declaradas": [
+    "B031",
+    "B044",
+    "B020",
+    "B021",
+    "P2025-03-15",
+    "P2025-02-16",
+    "P2024-11-30",
+    "P2024-11-09",
+    "ART-2026-08-18",
+    "P2024-02-03",
+    "P2024-08-03",
+    "B087",
+    "B088",
+    "B089",
+    "P2023-04-01b",
+    "P2024-11-03",
+    "P2025-02-22",
+    "P2021-05-15",
+    "P2020-04-25",
+    "P2023-12-03",
+    "P2023-08-27",
+    "P2025-06-14",
+    "P2022-09-25",
+    "P2022-07-16",
+    "P2026-03-21",
+    "P2021-02-28"
+   ],
+   "fontes_no_corpus": [
+    "B031",
+    "B044",
+    "B020",
+    "B021",
+    "P2025-03-15",
+    "P2025-02-16",
+    "P2024-11-30",
+    "P2024-11-09",
+    "P2024-02-03",
+    "P2024-08-03",
+    "B087",
+    "B088",
+    "B089",
+    "P2023-04-01b",
+    "P2024-11-03",
+    "P2025-02-22",
+    "P2021-05-15",
+    "P2020-04-25",
+    "P2023-12-03",
+    "P2023-08-27",
+    "P2025-06-14",
+    "P2022-09-25",
+    "P2022-07-16",
+    "P2026-03-21",
+    "P2021-02-28"
+   ],
+   "fontes_fora_do_corpus": [
+    "ART-2026-08-18"
+   ],
+   "veredito": "FONTE PARCIALMENTE NÃO INGERIDA",
+   "marcas": "sem marca",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-087",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-087-perperion.md",
+   "linha_ficha": 65,
+   "palavras": 22,
+   "trecho": "“A turma de Perpérion foi a que mais ousou [...] trabalhando criações com seres independentes e codependentes.” — P2021-12-04, U0042–U0051; U0200–U0268; U0294–U0337",
+   "fontes_declaradas": [
+    "B031",
+    "B024",
+    "B013",
+    "B060",
+    "P2021-12-04",
+    "P2024-05-04",
+    "P2023-07-30"
+   ],
+   "fontes_no_corpus": [
+    "B031",
+    "B024",
+    "B013",
+    "B060",
+    "P2021-12-04",
+    "P2024-05-04",
+    "P2023-07-30"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-091",
+   "secao": "Fontes",
+   "arquivo": "termos/RC-091-projeto-talm.md",
+   "linha_ficha": 74,
+   "palavras": 68,
+   "trecho": "**Complemento primário B024:** os postulados teóricos do Projeto Talm surgem na **Era da Lila e da Aceitação** (4,3–5,7 bi anos) e a semeadura efetiva começa na **Era da Semeadura Universal** (5,7–7,2 bi anos); a \"molécula-mãe\" terrestre já era um padrão refinado do **nidana** com a doença de Javé \"apagada\" em 95–97% (cap. 16). O cap. 12 detalha o projeto e o cap. 17 descreve os primeiros seres…",
+   "fontes_declaradas": [
+    "B031",
+    "B024",
+    "B044",
+    "B001",
+    "P2021-12-04",
+    "P2025-03-15",
+    "P2024-11-02",
+    "P2024-08-03",
+    "P2023-11-19",
+    "P2023-04-15",
+    "P2023-04-01",
+    "P2024-11-03",
+    "P2025-02-22",
+    "P2025-07-18",
+    "P2021-01-30",
+    "P2024-06-16",
+    "P2020-04-04"
+   ],
+   "fontes_no_corpus": [
+    "B031",
+    "B024",
+    "B044",
+    "B001",
+    "P2021-12-04",
+    "P2025-03-15",
+    "P2024-11-02",
+    "P2024-08-03",
+    "P2023-11-19",
+    "P2023-04-15",
+    "P2023-04-01",
+    "P2024-11-03",
+    "P2025-02-22",
+    "P2025-07-18",
+    "P2021-01-30",
+    "P2024-06-16",
+    "P2020-04-04"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-098",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-098-seres-extraterrenos-extraterrestres.md",
+   "linha_ficha": 45,
+   "palavras": 20,
+   "trecho": "São seres com corpos físicos e biológicos como nós, mas que habitam outros planetas e galáxias do nosso universo material.",
+   "fontes_declaradas": [
+    "B031",
+    "B044",
+    "B005",
+    "B042"
+   ],
+   "fontes_no_corpus": [
+    "B031",
+    "B044",
+    "B005",
+    "B042"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-132",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-132-val-tam.md",
+   "linha_ficha": 41,
+   "palavras": 26,
+   "trecho": "A consciência espiritual de Val Tam está de algum modo acoplada ou prisioneira [a Awayen]... as fontes prometem aprofundar em futuras obras.\" — ART-2025-08-01, Parte I",
+   "fontes_declaradas": [
+    "B031"
+   ],
+   "fontes_no_corpus": [
+    "B031"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-142",
+   "secao": "Termos Relacionados",
+   "arquivo": "termos/RC-142-yel-luzbel.md",
+   "linha_ficha": 37,
+   "palavras": 65,
+   "trecho": "**Este termo é uma REMISSÃO para [RC-078 — Lúcifer (Yel Luzbel)](RC-078-lucifer-yel-luzbel.md).**  Todo o conteúdo ontológico do ser (ficha completa, ampliações B057 e citações) está concentrado em **RC-078**, por decisão do curador (**Devolutiva B057, O-2, 2026-08-25**): a duplicidade \"RC-078 Lúcifer (Yel Luzbel)\" × \"RC-142 Yel Luzbel\" foi resolvida **sem fusão de códigos** — RC-142 permanece …",
+   "fontes_declaradas": [
+    "B031",
+    "B017",
+    "B018",
+    "B039",
+    "B015",
+    "B057",
+    "B058",
+    "B060",
+    "P2022-12-17",
+    "P2024-03-03",
+    "P2020-04-25",
+    "P2022-03-26",
+    "P2023-12-03",
+    "P2023-12-25-03"
+   ],
+   "fontes_no_corpus": [
+    "B031",
+    "B017",
+    "B018",
+    "B039",
+    "B015",
+    "B057",
+    "B058",
+    "B060",
+    "P2022-12-17",
+    "P2024-03-03",
+    "P2020-04-25",
+    "P2022-03-26",
+    "P2023-12-03"
+   ],
+   "fontes_fora_do_corpus": [
+    "P2023-12-25-03"
+   ],
+   "veredito": "FONTE PARCIALMENTE NÃO INGERIDA",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-147",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-147-zont-en-drel-29.md",
+   "linha_ficha": 56,
+   "palavras": 72,
+   "trecho": "Os que começaram a despertar as suas consciências individuais assumiam um pré-nome, como era o caso de Zont En Drel. Os demais que ainda permaneciam com as suas consciências espirituais obscurecidas pela imantação realizada em 'corpos-máquinas', eram acionados apenas pelo comando dos seus códigos numéricos.\" — B015, cap. 1  \"A questão era a de que os En Drel não foram programados para sentir, e…",
+   "fontes_declaradas": [
+    "B031",
+    "B015",
+    "P2025-10-25",
+    "P2025-06-26",
+    "P2023-07-30",
+    "P2022-03-26",
+    "P2024-06-16"
+   ],
+   "fontes_no_corpus": [
+    "B031",
+    "B015",
+    "P2025-10-25",
+    "P2025-06-26",
+    "P2023-07-30",
+    "P2022-03-26",
+    "P2024-06-16"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-148",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-148-agentes-da-vida-universal.md",
+   "linha_ficha": 60,
+   "palavras": 71,
+   "trecho": "A 'epopeia dos agentes da vida universal' começou quando o caos e o tormento se manifestaram nesta Criação. O grande problema é que não há nada que exista em lugar algum da Criação 'indevida', dos níveis de Perpérion ou da Espiritualidade Superior, que possa existir sem que haja uma 'mônada espiritual' dando estrutura a esse corpo, seja uma pedra, uma planta, um animal ou mesmo um robô.\" — B024…",
+   "fontes_declaradas": [
+    "B031",
+    "B024",
+    "B001",
+    "B002",
+    "B014",
+    "B005",
+    "P2020-04-04"
+   ],
+   "fontes_no_corpus": [
+    "B031",
+    "B024",
+    "B001",
+    "B002",
+    "B014",
+    "B005",
+    "P2020-04-04"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-162",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-162-eletrons.md",
+   "linha_ficha": 58,
+   "palavras": 36,
+   "trecho": "O elétron 'marca' em si mesmo tudo o que ele 'vivencia' e não é demais lembrar que esse 'agente básico da vida universal' é o único que existe desde o primeiro momento da Criação.\" — B024",
+   "fontes_declaradas": [
+    "B024",
+    "B041",
+    "P2024-05-04",
+    "P2025-03-15",
+    "P2025-02-16",
+    "P2025-02-15",
+    "P2024-11-30",
+    "P2024-11-09",
+    "P2024-03-03",
+    "P2024-04-14",
+    "P2025-06-14b",
+    "P2023-11-19"
+   ],
+   "fontes_no_corpus": [
+    "B024",
+    "B041",
+    "P2024-05-04",
+    "P2025-03-15",
+    "P2025-02-16",
+    "P2025-02-15",
+    "P2024-11-30",
+    "P2024-11-09",
+    "P2024-03-03",
+    "P2024-04-14",
+    "P2025-06-14b",
+    "P2023-11-19"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-188",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-188-mente-coletiva-redes-psiquicas-coletivas.md",
+   "linha_ficha": 60,
+   "palavras": 15,
+   "trecho": "“Cada grupamento que foi surgindo nesses níveis operacionais foi se fechando em rede.” — P2021-12-04",
+   "fontes_declaradas": [
+    "B044",
+    "P2021-12-04",
+    "P2026-07-30",
+    "P2024-11-09",
+    "P2021-05-15",
+    "P2020-04-25",
+    "P2022-03-26",
+    "P2023-12-03"
+   ],
+   "fontes_no_corpus": [
+    "B044",
+    "P2021-12-04",
+    "P2026-07-30",
+    "P2024-11-09",
+    "P2021-05-15",
+    "P2020-04-25",
+    "P2022-03-26",
+    "P2023-12-03"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-194",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-194-big-data-cosmico.md",
+   "linha_ficha": 62,
+   "palavras": 43,
+   "trecho": "Não há 'big data' terreno que possa se aproximar da riqueza de informação de que esses seres dispõem, apesar do fato de se encontrarem presos em uma dimensão de realidade subjacente àquela em que vivem os seres deste universo.\" — B035, cap. 2",
+   "fontes_declaradas": [
+    "B035",
+    "P2025-03-15",
+    "P2025-02-15",
+    "P2024-11-30",
+    "P2024-11-09",
+    "P2024-09-29",
+    "P2024-04-13",
+    "P2021-05-15",
+    "P2020-04-25",
+    "P2022-03-26",
+    "P2023-02-12"
+   ],
+   "fontes_no_corpus": [
+    "P2025-03-15",
+    "P2025-02-15",
+    "P2024-11-30",
+    "P2024-11-09",
+    "P2024-09-29",
+    "P2024-04-13",
+    "P2021-05-15",
+    "P2020-04-25",
+    "P2022-03-26",
+    "P2023-02-12"
+   ],
+   "fontes_fora_do_corpus": [
+    "B035"
+   ],
+   "veredito": "FONTE PARCIALMENTE NÃO INGERIDA",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-264",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-264-planos-de-existencia-da-cabala-atziluth-briah-yetzirah-assiah.md",
+   "linha_ficha": 60,
+   "palavras": 63,
+   "trecho": "1º nível – 'Atziluth': o 'Universo ou Dimensão Arquetípica ou das Emanações', o 'Mundo Divino', ou seja, o que tenho chamado de realidades da 'Espiritualidade Superior' e da 'Espiritualidade Operacional'... 2º nível – 'Briah': o 'Universo da Criação' ou 'Khorsis', o 'Mundo dos Tronos', ou seja, o que tenho chamado de contexto da 'Espiritualidade Laboratorial', mais especificamente como 'Perpéri…",
+   "fontes_declaradas": [
+    "B013",
+    "B060"
+   ],
+   "fontes_no_corpus": [
+    "B013",
+    "B060"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-268",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-268-gnosticismo-contraponto-a-cabala.md",
+   "linha_ficha": 42,
+   "palavras": 36,
+   "trecho": "Se eu pegar o Orfismo ou o Gnosticismo ou a Cabala ou a Teosofia ou o hermetismo, Thot está por trás de cada um deles, porque ele falou, ele organizou tudo isso lá atrás.\" — P2023-12-02",
+   "fontes_declaradas": [
+    "B013",
+    "P2026-04-02",
+    "P2024-11-09",
+    "P2023-12-02",
+    "P2024-09-28",
+    "P2025-05-10"
+   ],
+   "fontes_no_corpus": [
+    "B013",
+    "P2026-04-02",
+    "P2024-11-09",
+    "P2023-12-02",
+    "P2024-09-28",
+    "P2025-05-10"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-273",
+   "secao": "Definição Sintética",
+   "arquivo": "termos/RC-273-a-falsa-trindade-concilio-de-niceia.md",
+   "linha_ficha": 16,
+   "palavras": 51,
+   "trecho": "Sophia ficou mais 'espantado' ainda ao acompanhar a formulação da ideia da 'Santíssima Trindade', produzida pelo 'Concílio de Niceia', no ano 325. 36ª Constatação: A partir do 'Concílio de Niceia', o personagem Sophia, que sempre foi amplamente divulgado na cultura hebraica e na dos cristãos helenizados, começou...\" — B014, cap. 17",
+   "fontes_declaradas": [
+    "B014",
+    "B049",
+    "P2026-08-04",
+    "P2024-09-28",
+    "P2012-02-19",
+    "P2022-09-17",
+    "P2022-11-19",
+    "P2025-12-14",
+    "P2023-12-25-04"
+   ],
+   "fontes_no_corpus": [
+    "B014",
+    "B049",
+    "P2026-08-04",
+    "P2024-09-28",
+    "P2012-02-19",
+    "P2022-09-17",
+    "P2022-11-19",
+    "P2025-12-14"
+   ],
+   "fontes_fora_do_corpus": [
+    "P2023-12-25-04"
+   ],
+   "veredito": "FONTE PARCIALMENTE NÃO INGERIDA",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-282",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-282-mohen-so-phanes-protogonos-vasuki-kalki-correspondencias.md",
+   "linha_ficha": 76,
+   "palavras": 3,
+   "trecho": "Ver P2026-04-02, U0045–U0054.",
+   "fontes_declaradas": [
+    "B014",
+    "B060",
+    "P2026-04-02",
+    "P2025-10-25",
+    "P2024-11-30",
+    "P2024-11-02",
+    "P2024-08-03",
+    "P2024-04-14",
+    "P2024-03-02",
+    "P2023-12-02",
+    "P2021-03-27",
+    "P2023-09-09",
+    "P2022-10-01",
+    "P2022-09-25",
+    "P2022-07-16",
+    "P2026-03-21",
+    "P2021-06-26"
+   ],
+   "fontes_no_corpus": [
+    "B014",
+    "B060",
+    "P2026-04-02",
+    "P2025-10-25",
+    "P2024-11-30",
+    "P2024-11-02",
+    "P2024-08-03",
+    "P2024-04-14",
+    "P2024-03-02",
+    "P2023-12-02",
+    "P2021-03-27",
+    "P2023-09-09",
+    "P2022-10-01",
+    "P2022-09-25",
+    "P2022-07-16",
+    "P2026-03-21",
+    "P2021-06-26"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "sem marca",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-287",
+   "secao": "Observações",
+   "arquivo": "termos/RC-287-enigma-da-esperanca-caixa-de-pandora.md",
+   "linha_ficha": 89,
+   "palavras": 26,
+   "trecho": "**Demarcação de autoria:** a releitura vibracional (caixa como DNA espiritual) é interpretação do artigo ART-2026-08-18 (fonte secundária confiável), enriquecendo este verbete sem alterar o núcleo canônico.",
+   "fontes_declaradas": [
+    "B020",
+    "ART-2026-08-18",
+    "B087",
+    "B088",
+    "P2020-04-25",
+    "P2022-03-26"
+   ],
+   "fontes_no_corpus": [
+    "B020",
+    "B087",
+    "B088",
+    "P2020-04-25",
+    "P2022-03-26"
+   ],
+   "fontes_fora_do_corpus": [
+    "ART-2026-08-18"
+   ],
+   "veredito": "FONTE PARCIALMENTE NÃO INGERIDA",
+   "marcas": "sem marca",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-294",
+   "secao": "Definição Sintética",
+   "arquivo": "termos/RC-294-eon-de-khaos-universo-de-caos.md",
+   "linha_ficha": 16,
+   "palavras": 43,
+   "trecho": "Na lógica dos seres que habitam os inúmeros genos que compõem o 'Eon de Khaos', ou seja, o 'Universo de Caos', a 'presença' (importância, destaque) de um deus está relacionada e coincide com o âmbito (contexto) de seu 'domínio'.\" — B021, cap. 1",
+   "fontes_declaradas": [
+    "B021",
+    "P2026-07-30"
+   ],
+   "fontes_no_corpus": [
+    "B021",
+    "P2026-07-30"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-310",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-310-adhyshprabrajna-adhy-que-caiu.md",
+   "linha_ficha": 48,
+   "palavras": 45,
+   "trecho": "A Criação Universal indevida foi procedida por Adhyshprabrajna, na sua expressão Adhyatman. Após a sua 'queda' na Criação indevida, esta entidade – antes Adhyshprabrajna – conseguiu erigir uma forma de expressão (Adhydaiva) que viria a ser conhecida, na cultura humana, como Brahma/Javé/Alá.\" — B022, Introdução",
+   "fontes_declaradas": [
+    "B022",
+    "B051",
+    "P2021-12-04"
+   ],
+   "fontes_no_corpus": [
+    "B022",
+    "P2021-12-04"
+   ],
+   "fontes_fora_do_corpus": [
+    "B051"
+   ],
+   "veredito": "FONTE PARCIALMENTE NÃO INGERIDA",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-329",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-329-kumari-kandan-tradicao.md",
+   "linha_ficha": 38,
+   "palavras": 29,
+   "trecho": "Quando esse processo começou, Shiva resolveu criar o seu quartel general na Terra para dominar a raça humana... e assim ele criou expressões avatáricas ou adhyajnas de si mesmo.",
+   "fontes_declaradas": [
+    "B023",
+    "P2022-12-17",
+    "P2025-02-16",
+    "P2024-11-30",
+    "P2024-04-13",
+    "P2023-12-25-01"
+   ],
+   "fontes_no_corpus": [
+    "B023",
+    "P2022-12-17",
+    "P2025-02-16",
+    "P2024-11-30",
+    "P2024-04-13"
+   ],
+   "fontes_fora_do_corpus": [
+    "P2023-12-25-01"
+   ],
+   "veredito": "FONTE PARCIALMENTE NÃO INGERIDA",
+   "marcas": "sem marca",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-332",
+   "secao": "Definição Sintética",
+   "arquivo": "termos/RC-332-favor-divino-conceito-invertido.md",
+   "linha_ficha": 16,
+   "palavras": 58,
+   "trecho": "O 'favor divino' que aqui utilizo tem como objetivo apenas o de provocar o entendimento do leitor. Afinal, como o meu ou de qualquer outro terráqueo que inevitavelmente sofre a 'lavagem cerebral' imposta pelas crenças vindas do passado equivocado, é mero produto de uma visão distorcida que foi promovida pelas 'revelações' ofertadas ao mundo.\" — B048, cap. 8",
+   "fontes_declaradas": [
+    "B048",
+    "B041",
+    "B034",
+    "B036",
+    "P2025-03-15",
+    "P2025-02-16",
+    "P2025-02-15",
+    "P2024-11-30",
+    "P2024-09-29",
+    "P2024-04-14",
+    "P2025-06-14b",
+    "P2024-03-02",
+    "P2023-02-12",
+    "P2022-12-03"
+   ],
+   "fontes_no_corpus": [
+    "B048",
+    "B041",
+    "B034",
+    "B036",
+    "P2025-03-15",
+    "P2025-02-16",
+    "P2025-02-15",
+    "P2024-11-30",
+    "P2024-09-29",
+    "P2024-04-14",
+    "P2025-06-14b",
+    "P2024-03-02",
+    "P2023-02-12",
+    "P2022-12-03"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-342",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-342-quarentena-sideral-cosmica.md",
+   "linha_ficha": 56,
+   "palavras": 27,
+   "trecho": "Resultado: uma quarentena sideral, significando o isolamento da Terra da integração fraterna na comunidade galática, e o retardo evolutivo de incontável número de individualidades.\" — B003, abertura",
+   "fontes_declaradas": [
+    "B003",
+    "B025",
+    "B026",
+    "B042",
+    "P2024-07-13"
+   ],
+   "fontes_no_corpus": [
+    "B003",
+    "B025",
+    "B026",
+    "B042",
+    "P2024-07-13"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-365",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-365-o-fator-judas.md",
+   "linha_ficha": 57,
+   "palavras": 18,
+   "trecho": "*(A inserir — transcrição literal do cap. 2 do B011 na revisão.)* — B011, Livro I, cap. 2",
+   "fontes_declaradas": [
+    "B011",
+    "P2026-04-02",
+    "P2025-10-25",
+    "P2018-12-16",
+    "P2025-05-10",
+    "P2022-11-20"
+   ],
+   "fontes_no_corpus": [
+    "B011",
+    "P2026-04-02",
+    "P2025-10-25",
+    "P2018-12-16",
+    "P2025-05-10",
+    "P2022-11-20"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "sem marca",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-371",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-371-a-fe-de-jesus-e-a-razao-de-nietzsche.md",
+   "linha_ficha": 47,
+   "palavras": 12,
+   "trecho": "*(A inserir — transcrição literal dos caps. 11–12 na revisão.)* — B049",
+   "fontes_declaradas": [
+    "B049",
+    "P2020-04-25"
+   ],
+   "fontes_no_corpus": [
+    "B049",
+    "P2020-04-25"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "sem marca",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-379",
+   "secao": "Definição Sintética",
+   "arquivo": "termos/RC-379-danca-dos-eletrons.md",
+   "linha_ficha": 16,
+   "palavras": 39,
+   "trecho": "É a 'dança dos elétrons' que cria e modifica a forma material das coisas e dos corpos dos seres vivos, além de sustentar o universo e tudo o que nele existe e venha a existir.\" — B041, cap. 7",
+   "fontes_declaradas": [
+    "B041",
+    "P2024-05-04"
+   ],
+   "fontes_no_corpus": [
+    "B041",
+    "P2024-05-04"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-400",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-400-foz-coa-foxp2-simbolos.md",
+   "linha_ficha": 56,
+   "palavras": 17,
+   "trecho": "Enki foi quem introduziu [o gene FOXP2]. Esse gene FOXP2 surgiu 47–48.000 anos atrás no nosso genoma.",
+   "fontes_declaradas": [
+    "B050",
+    "P2022-12-17",
+    "P2021-12-04",
+    "P2024-05-04",
+    "P2025-02-16",
+    "P2025-02-15",
+    "P2024-11-30",
+    "P2024-11-09",
+    "P2024-08-03",
+    "P2022-09-17",
+    "P2022-11-19",
+    "P2025-12-14"
+   ],
+   "fontes_no_corpus": [
+    "B050",
+    "P2022-12-17",
+    "P2021-12-04",
+    "P2024-05-04",
+    "P2025-02-16",
+    "P2025-02-15",
+    "P2024-11-30",
+    "P2024-11-09",
+    "P2024-08-03",
+    "P2022-09-17",
+    "P2022-11-19",
+    "P2025-12-14"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-408",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-408-adhymavatana-nome-completo-de-mavatna-vishnu.md",
+   "linha_ficha": 55,
+   "palavras": 14,
+   "trecho": "(Diagrama) \"ADHYMAVATANA → Vishnu (mergulhado) → Mohen So → Sophia → Jesus\" — B051",
+   "fontes_declaradas": [
+    "B051",
+    "B060",
+    "P2021-12-04",
+    "P2024-05-04",
+    "P2025-02-16",
+    "P2024-11-30"
+   ],
+   "fontes_no_corpus": [
+    "B060",
+    "P2021-12-04",
+    "P2024-05-04",
+    "P2025-02-16",
+    "P2024-11-30"
+   ],
+   "fontes_fora_do_corpus": [
+    "B051"
+   ],
+   "veredito": "FONTE PARCIALMENTE NÃO INGERIDA",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-409",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-409-adhysavna-nome-completo-de-savna-shiva.md",
+   "linha_ficha": 50,
+   "palavras": 14,
+   "trecho": "(Diagrama) \"ADHYSAVNA → Shiva (mergulhado) → Hara / Krishna / Sai Baba\" — B051",
+   "fontes_declaradas": [
+    "B051",
+    "B060",
+    "P2021-12-04",
+    "P2024-05-04",
+    "P2025-02-16",
+    "P2024-11-30",
+    "P2023-06-24",
+    "P2022-05-07"
+   ],
+   "fontes_no_corpus": [
+    "B060",
+    "P2021-12-04",
+    "P2024-05-04",
+    "P2025-02-16",
+    "P2024-11-30",
+    "P2023-06-24",
+    "P2022-05-07"
+   ],
+   "fontes_fora_do_corpus": [
+    "B051"
+   ],
+   "veredito": "FONTE PARCIALMENTE NÃO INGERIDA",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-411",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-411-genero-adhy-147-seres-5-especies.md",
+   "linha_ficha": 53,
+   "palavras": 21,
+   "trecho": "“Esses 147 seres [...] têm cinco tipos de seres [...] cinco espécies formando esse gênero.” — P2021-12-04, U0091–U0096; U0130–U0148; U0200–U0266; U0350–U0374",
+   "fontes_declaradas": [
+    "B051",
+    "B022",
+    "P2021-12-04",
+    "P2024-05-04",
+    "P2025-10-25",
+    "P2024-11-30",
+    "P2024-11-09"
+   ],
+   "fontes_no_corpus": [
+    "B022",
+    "P2021-12-04",
+    "P2024-05-04",
+    "P2025-10-25",
+    "P2024-11-30",
+    "P2024-11-09"
+   ],
+   "fontes_fora_do_corpus": [
+    "B051"
+   ],
+   "veredito": "FONTE PARCIALMENTE NÃO INGERIDA",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-443",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-443-familia-mion.md",
+   "linha_ficha": 60,
+   "palavras": 28,
+   "trecho": "Os Mion estarão prontos para confrontar Sophia e as suas Hostes! O 'Primeiro em Comando' da 'família Mion' não deixará essa questão passar despercebida!\" — B058, p. 15",
+   "fontes_declaradas": [
+    "B057",
+    "B058",
+    "P2020-08-08",
+    "P2020-04-25",
+    "P2022-03-26",
+    "P2023-12-03"
+   ],
+   "fontes_no_corpus": [
+    "B057",
+    "B058",
+    "P2020-08-08",
+    "P2020-04-25",
+    "P2022-03-26",
+    "P2023-12-03"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-448",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-448-deslacre-rompimento-dos-lacres-psiquicos.md",
+   "linha_ficha": 50,
+   "palavras": 23,
+   "trecho": "o nosso 'bloqueio mental' relativo ao meu modo de proceder se havia 'rompido', e pude perceber 'falhas' na realidade.\" — B058, p. 43",
+   "fontes_declaradas": [
+    "B057",
+    "B058",
+    "P2022-12-17"
+   ],
+   "fontes_no_corpus": [
+    "B057",
+    "B058",
+    "P2022-12-17"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-448",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-448-deslacre-rompimento-dos-lacres-psiquicos.md",
+   "linha_ficha": 52,
+   "palavras": 25,
+   "trecho": "o alto patamar de 'deslacre' que nós acreditamos que você ostenta.\" — B058, p. 73 (o \"Primeiro em Comando\" da família Mion, sobre Yel Luzbel)",
+   "fontes_declaradas": [
+    "B057",
+    "B058",
+    "P2022-12-17"
+   ],
+   "fontes_no_corpus": [
+    "B057",
+    "B058",
+    "P2022-12-17"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-449",
+   "secao": "?",
+   "arquivo": "termos/RC-449-criaturas-ferramenta.md",
+   "linha_ficha": 15,
+   "palavras": 45,
+   "trecho": "**REMISSIVA — [F045-MERGE 07-09-2026]** Este código é **duplicata absorvida por RC-164 («Criaturas-ferramenta»)**. O verbete canônico é **RC-164** — é ele que deve ser citado. O conteúdo abaixo fica preservado como registro histórico, notadamente o lastro B057/B058 (a metafísica do reflexo), migrado para o verbete canônico.",
+   "fontes_declaradas": [
+    "B057",
+    "B058",
+    "P2025-03-15",
+    "P2021-03-27",
+    "P2025-11-29"
+   ],
+   "fontes_no_corpus": [
+    "B057",
+    "B058",
+    "P2025-03-15",
+    "P2021-03-27",
+    "P2025-11-29"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "«»",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-454",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-454-elm-moros---ser-lm-de-temperion.md",
+   "linha_ficha": 162,
+   "palavras": 54,
+   "trecho": "Avatares: ... Rogério de Almeida Freitas (Jan Val Ellam — codificador da Revelação Cósmica); ... Val El (Biodemo da família Val); ... Kardek (1804 — França — Hippolyte Léon Denizard Rivail, codificador do Espiritismo); ... Heber (Tataraneto de Noé, pai de Faleg e Joctan); ... Kvasir (Nórdica).\" — B060, p. 4 (avatares de Elm/Moros)",
+   "fontes_declaradas": [
+    "B060",
+    "P2022-12-17",
+    "P2021-12-04",
+    "P2026-07-30",
+    "P2026-04-02",
+    "P2025-10-25",
+    "P2025-06-26",
+    "P2024-11-30",
+    "P2024-09-29",
+    "P2024-07-14",
+    "P2024-03-02",
+    "P2024-02-03",
+    "P2023-05-13",
+    "P2023-12-02",
+    "P2025-11-29",
+    "P2024-08-03",
+    "P2021-05-08",
+    "P2021-09-04",
+    "P2023-04-01b",
+    "P2025-02-22",
+    "P2025-07-18",
+    "P2018-12-15",
+    "P2022-10-01",
+    "P2022-09-25"
+   ],
+   "fontes_no_corpus": [
+    "B060",
+    "P2022-12-17",
+    "P2021-12-04",
+    "P2026-07-30",
+    "P2026-04-02",
+    "P2025-10-25",
+    "P2025-06-26",
+    "P2024-11-30",
+    "P2024-09-29",
+    "P2024-07-14",
+    "P2024-03-02",
+    "P2024-02-03",
+    "P2023-05-13",
+    "P2023-12-02",
+    "P2025-11-29",
+    "P2024-08-03",
+    "P2021-05-08",
+    "P2021-09-04",
+    "P2023-04-01b",
+    "P2025-02-22",
+    "P2025-07-18",
+    "P2018-12-15",
+    "P2022-10-01",
+    "P2022-09-25"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-455",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-455-pashvnaj-especie-de-43-seres-do-genero-adhy.md",
+   "linha_ficha": 53,
+   "palavras": 13,
+   "trecho": "“A espécie Pashvnaj, com 43 figuras, compõe essa rede.” — P2021-12-04, U0136–U0148; U0244–U0266",
+   "fontes_declaradas": [
+    "B060",
+    "P2021-12-04",
+    "P2024-05-04"
+   ],
+   "fontes_no_corpus": [
+    "B060",
+    "P2021-12-04",
+    "P2024-05-04"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-456",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-456-ser-lm-genero-de-temperion.md",
+   "linha_ficha": 53,
+   "palavras": 20,
+   "trecho": "“Os seres do gênero LM [...] estudavam a imponderabilidade, as coisas imprevisíveis ainda não feitas.” — P2021-12-04, U0322–U0337; U0375–U0385; U0443–U0447",
+   "fontes_declaradas": [
+    "B060",
+    "P2021-12-04",
+    "P2024-11-30"
+   ],
+   "fontes_no_corpus": [
+    "B060",
+    "P2021-12-04",
+    "P2024-11-30"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-461",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-461-ninmah-anunnaki-geneticista.md",
+   "linha_ficha": 41,
+   "palavras": 56,
+   "trecho": "Esses 900 anunnakis eram comandados por Enlil. Enki era o outro irmão... Se a gente for para trás na história, há cerca de 450.000 anos os anunnaki chegaram aqui... Anu ou An, o imperador de Nibiru, mandou os dois filhos dele para cá — na verdade três: Enki, Enlil e uma irmã chamada Ninmah.\"\" — P2021-03-27",
+   "fontes_declaradas": [
+    "B060",
+    "P2021-03-27",
+    "P2021-05-15",
+    "P2023-10-14"
+   ],
+   "fontes_no_corpus": [
+    "B060",
+    "P2021-03-27",
+    "P2021-05-15",
+    "P2023-10-14"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-464",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-464-inanna-danu-anunnaki.md",
+   "linha_ficha": 62,
+   "palavras": 9,
+   "trecho": "“\"Anu tinha uma neta chamada Inana.\"” — P2021-05-15, U0003",
+   "fontes_declaradas": [
+    "B060",
+    "P2021-05-15",
+    "P2023-12-03"
+   ],
+   "fontes_no_corpus": [
+    "B060",
+    "P2021-05-15",
+    "P2023-12-03"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-472",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-472-temperion-archeon-de-ereon-setor-dos-seres-lm.md",
+   "linha_ficha": 60,
+   "palavras": 21,
+   "trecho": "“A turma de Tempérion [...] decidiu transformar Tempérion num lugar de observação, de estudo.” — P2021-12-04, U0051; U0294; U0313–U0337; U0375–U0385; U0459–U0467",
+   "fontes_declaradas": [
+    "B060",
+    "P2021-12-04",
+    "P2024-05-04",
+    "P2024-11-30"
+   ],
+   "fontes_no_corpus": [
+    "B060",
+    "P2021-12-04",
+    "P2024-05-04",
+    "P2024-11-30"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-475",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-475-deva-aurora-a-grande-deusa.md",
+   "linha_ficha": 51,
+   "palavras": 13,
+   "trecho": "“A forma mais ancestral [...] é Aurora; em sânscrito, Deva.” — P2026-07-30, U0028–U0038",
+   "fontes_declaradas": [
+    "P2026-07-30"
+   ],
+   "fontes_no_corpus": [
+    "P2026-07-30"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-476",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-476-en-ma-ema-emar---espirito-ancora.md",
+   "linha_ficha": 56,
+   "palavras": 21,
+   "trecho": "“Em Ma é apresentado como o espírito que ancora quatro centros de consciência: Javé, Sophia, Jesus e Vishnu.” — P2026-07-30, U0058–U0084",
+   "fontes_declaradas": [
+    "P2026-07-30",
+    "P2024-05-04",
+    "P2026-04-02",
+    "P2025-10-25",
+    "P2024-11-30"
+   ],
+   "fontes_no_corpus": [
+    "P2026-07-30",
+    "P2024-05-04",
+    "P2026-04-02",
+    "P2025-10-25",
+    "P2024-11-30"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-477",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-477-ensa-espirito-primordial-companheiro-de-en-ma.md",
+   "linha_ficha": 34,
+   "palavras": 19,
+   "trecho": "Todos os 70 membros do conselho dos Arcontes hoje são consciências fatiadas de Emá e de Ensá.\" — P2026-07-25",
+   "fontes_declaradas": [],
+   "fontes_no_corpus": [],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-481",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-481-maitreya-dionisio-forma-adiagena-de-vishnu.md",
+   "linha_ficha": 38,
+   "palavras": 25,
+   "trecho": "O retorno de Maitreya, a vinda do Avatar Kalki, a volta de Jesus... é continuação da confusão que Marduk fez há 4.000 anos.\" — P2021-03-27",
+   "fontes_declaradas": [
+    "P2021-03-27",
+    "B060",
+    "P2021-06-26",
+    "P2025-12-14"
+   ],
+   "fontes_no_corpus": [
+    "P2021-03-27",
+    "B060",
+    "P2021-06-26",
+    "P2025-12-14"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-486",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-486-enki-anunnaki-inoculou-o-gene-foxp2.md",
+   "linha_ficha": 50,
+   "palavras": 14,
+   "trecho": "Ele é um anunnaki terráqueo... ele é filho de Enki.\" — P2023-12-02 (sobre Thot/Ninjizida)",
+   "fontes_declaradas": [
+    "P2022-12-17",
+    "P2021-12-04",
+    "P2024-11-09",
+    "P2024-03-03",
+    "P2023-12-02",
+    "P2021-03-27",
+    "P2024-08-03",
+    "B089",
+    "P2024-11-03",
+    "P2025-02-22",
+    "P2021-05-15",
+    "P2023-10-14",
+    "P2017-10-14",
+    "P2018-12-16",
+    "P2023-08-27"
+   ],
+   "fontes_no_corpus": [
+    "P2022-12-17",
+    "P2021-12-04",
+    "P2024-11-09",
+    "P2024-03-03",
+    "P2023-12-02",
+    "P2021-03-27",
+    "P2024-08-03",
+    "B089",
+    "P2024-11-03",
+    "P2025-02-22",
+    "P2021-05-15",
+    "P2023-10-14",
+    "P2017-10-14",
+    "P2018-12-16",
+    "P2023-08-27"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-487",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-487-enlil-deus-sumerio-par-de-enki.md",
+   "linha_ficha": 49,
+   "palavras": 43,
+   "trecho": "Os descendentes dos clãs de Enki e Enlil sempre disputaram o poder nessas cidades sumerianas e nas cidades do Egito... E os objetivos de Enlil e Anu eram mais parecidos com os de Javé do que propriamente com os de Enki.\" — P2021-03-27",
+   "fontes_declaradas": [
+    "P2022-12-17",
+    "P2024-04-13",
+    "P2021-03-27",
+    "B089",
+    "P2021-05-15",
+    "P2023-10-14",
+    "P2023-12-03"
+   ],
+   "fontes_no_corpus": [
+    "P2022-12-17",
+    "P2024-04-13",
+    "P2021-03-27",
+    "B089",
+    "P2021-05-15",
+    "P2023-10-14",
+    "P2023-12-03"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-487",
+   "secao": "Observações",
+   "arquivo": "termos/RC-487-enlil-deus-sumerio-par-de-enki.md",
+   "linha_ficha": 105,
+   "palavras": 54,
+   "trecho": "**Insight do curador:** as atitudes de Enlil são \"perigosamente parecidas\" com as do Criador caído — historicamente, a humanidade pode ter **confundido os mandos de Enlil com as ordens de Javé**. Registro como **hipótese de leitura histórica** (para o RAG cruzar dados), **sem fusão ontológica** — Enlil e Javé permanecem entidades distintas na Base.",
+   "fontes_declaradas": [
+    "P2022-12-17",
+    "P2024-04-13",
+    "P2021-03-27",
+    "B089",
+    "P2021-05-15",
+    "P2023-10-14",
+    "P2023-12-03"
+   ],
+   "fontes_no_corpus": [
+    "P2022-12-17",
+    "P2024-04-13",
+    "P2021-03-27",
+    "B089",
+    "P2021-05-15",
+    "P2023-10-14",
+    "P2023-12-03"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-488",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-488-nefilins-anunnaki.md",
+   "linha_ficha": 44,
+   "palavras": 32,
+   "trecho": "A Bíblia fala de cidades que eram dos povos chamados anaquins, enacins, e na linguagem bíblica essas duas expressões, anaquins e enacins, é a mesma coisa que Anunnaki e Nefilim.\" — P2021-03-27",
+   "fontes_declaradas": [
+    "P2026-08-04",
+    "P2021-03-27",
+    "P2024-09-28",
+    "P2023-10-14",
+    "P2018-12-16",
+    "P2022-09-17"
+   ],
+   "fontes_no_corpus": [
+    "P2026-08-04",
+    "P2021-03-27",
+    "P2024-09-28",
+    "P2023-10-14",
+    "P2018-12-16",
+    "P2022-09-17"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-495",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-495-arabot-raquia-shekinah-merkabah.md",
+   "linha_ficha": 35,
+   "palavras": 46,
+   "trecho": "Chequiná nada mais é do que um artefato, vestimento, um adaptador antimaterial que os seres do universo antimaterial usam para interagir com os humanos... Mercabá seria um artefato que Javé, quando investido da sua chequiná, nele ele se desloca no âmbito do universo vizinho.\" — P2026-07-25",
+   "fontes_declaradas": [],
+   "fontes_no_corpus": [],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-496",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-496-ereon-regiao-dos-cinco-archeons-da-espiritualidade-laboratorial.md",
+   "linha_ficha": 53,
+   "palavras": 18,
+   "trecho": "“São cinco Archeons [...] padrões de realidade [...] no âmbito da Espiritualidade Laboratorial.” — P2021-12-04, U0039–U0051; U0313–U0323; U0355–U0358",
+   "fontes_declaradas": [
+    "P2021-12-04",
+    "P2023-12-03"
+   ],
+   "fontes_no_corpus": [
+    "P2021-12-04",
+    "P2023-12-03"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-497",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-497-imperial---erro-historico-de-stt-ver-perperion-rc-087.md",
+   "linha_ficha": 41,
+   "palavras": 17,
+   "trecho": "“A turma de Antérion, de Danérion, de Mermérion, de Perpérion, de Tempérion.” — P2021-12-04, U0042; U0049–U0051; U0313–U0320",
+   "fontes_declaradas": [
+    "P2021-12-04"
+   ],
+   "fontes_no_corpus": [
+    "P2021-12-04"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-498",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-498-temperium---variacao-historica-de-temperion-ver-rc-472.md",
+   "linha_ficha": 43,
+   "palavras": 18,
+   "trecho": "“Em Tempérion [...] há um tipo de ser que eu chamo de LM.” — P2021-12-04, U0051; U0294; U0313–U0337",
+   "fontes_declaradas": [
+    "P2021-12-04"
+   ],
+   "fontes_no_corpus": [
+    "P2021-12-04"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-499",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-499-forno-de-awaymaion-forno-de-vishnu-origem-de-olm.md",
+   "linha_ficha": 55,
+   "palavras": 18,
+   "trecho": "Produzir espécies através do forno de Awaymaion [STT 'Alamaior'], os biodemos.\" — P2021-12-04, U0621 (resolução confirmada pelo ART-2025-08-01)",
+   "fontes_declaradas": [
+    "P2019-08-25",
+    "P2021-05-15",
+    "P2022-03-26",
+    "P2022-05-07"
+   ],
+   "fontes_no_corpus": [
+    "P2019-08-25",
+    "P2021-05-15",
+    "P2022-03-26",
+    "P2022-05-07"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-500",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-500-almaior-alamaior---erro-historico-de-stt-ver-forno-de-awaymaion-rc-499.md",
+   "linha_ficha": 45,
+   "palavras": 16,
+   "trecho": "Produzir espécies através do forno de Alamaior [STT], os biodemos.\" — P2021-12-04, U0621 (→ Awaymaion, RC-499)",
+   "fontes_declaradas": [
+    "P2021-12-04",
+    "ART-2025-08-01",
+    "P2021-05-15"
+   ],
+   "fontes_no_corpus": [
+    "P2021-12-04",
+    "P2021-05-15"
+   ],
+   "fontes_fora_do_corpus": [
+    "ART-2025-08-01"
+   ],
+   "veredito": "FONTE PARCIALMENTE NÃO INGERIDA",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-514",
+   "secao": "Observações",
+   "arquivo": "termos/RC-514-tikun-cosmico-restabelecimento-da-criacao.md",
+   "linha_ficha": 202,
+   "palavras": 25,
+   "trecho": "**Demarcação de autoria:** as formulações vibracionais (tecelã do Tikun, ponte viva) são interpretação do artigo ART-2026-08-18 (fonte secundária confiável), não cânon primário direto do Ellam.",
+   "fontes_declaradas": [
+    "B071",
+    "B019",
+    "B074",
+    "B075",
+    "P2022-12-17",
+    "P2021-12-04",
+    "P2024-05-04",
+    "P2025-10-25",
+    "P2025-06-26",
+    "P2025-02-15",
+    "P2024-11-30",
+    "P2024-11-09",
+    "P2024-07-14",
+    "ART-2026-08-18",
+    "P2024-09-28",
+    "P2024-08-03",
+    "P2023-04-15",
+    "P2021-09-04",
+    "P2024-11-03",
+    "P2023-10-14",
+    "P2022-03-26",
+    "P2022-05-07",
+    "P2023-08-27",
+    "P2023-02-12",
+    "P2022-12-03",
+    "P2022-11-26",
+    "P2022-09-18",
+    "P2021-06-26"
+   ],
+   "fontes_no_corpus": [
+    "B019",
+    "B074",
+    "B075",
+    "P2022-12-17",
+    "P2021-12-04",
+    "P2024-05-04",
+    "P2025-10-25",
+    "P2025-06-26",
+    "P2025-02-15",
+    "P2024-11-30",
+    "P2024-11-09",
+    "P2024-07-14",
+    "P2024-09-28",
+    "P2024-08-03",
+    "P2023-04-15",
+    "P2021-09-04",
+    "P2024-11-03",
+    "P2023-10-14",
+    "P2022-03-26",
+    "P2022-05-07",
+    "P2023-08-27",
+    "P2023-02-12",
+    "P2022-12-03",
+    "P2022-11-26",
+    "P2022-09-18",
+    "P2021-06-26"
+   ],
+   "fontes_fora_do_corpus": [
+    "B071",
+    "ART-2026-08-18"
+   ],
+   "veredito": "FONTE PARCIALMENTE NÃO INGERIDA",
+   "marcas": "sem marca",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-516",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-516-hibridizacao-genetica-nefilim-reinterpretado.md",
+   "linha_ficha": 45,
+   "palavras": 36,
+   "trecho": "Os primeiros anunnaki que desobedeceram Anu e transaram com mulheres humanas... isso aconteceu num tempo pré-diluviano. Essa turma terminou gerando uma série de linhagens de aparentemente seres humanos, mas também tinham gigantes, figuras deformadas.\" — P2021-03-27",
+   "fontes_declaradas": [
+    "B071",
+    "P2022-12-17",
+    "P2024-09-29",
+    "P2021-03-27",
+    "P2021-05-15",
+    "P2023-10-14",
+    "P2020-04-25",
+    "P2022-03-26",
+    "P2023-12-03"
+   ],
+   "fontes_no_corpus": [
+    "P2022-12-17",
+    "P2024-09-29",
+    "P2021-03-27",
+    "P2021-05-15",
+    "P2023-10-14",
+    "P2020-04-25",
+    "P2022-03-26",
+    "P2023-12-03"
+   ],
+   "fontes_fora_do_corpus": [
+    "B071"
+   ],
+   "veredito": "FONTE PARCIALMENTE NÃO INGERIDA",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-517",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-517-protocolo-mental-padroes-organizadores-da-mente.md",
+   "linha_ficha": 48,
+   "palavras": 28,
+   "trecho": "A coleção de protocolos mentais que uma consciência coleciona das experiências ocorridas em outras espécies... e o álbum memorial das vidas sucessivas desenvolvidas na natureza humana.\" — P2025-11-29",
+   "fontes_declaradas": [
+    "B072",
+    "B074",
+    "B075",
+    "P2021-12-04",
+    "P2026-07-30",
+    "P2026-04-02",
+    "P2025-02-15",
+    "P2024-11-30",
+    "P2024-11-09",
+    "P2024-02-03",
+    "P2025-11-29",
+    "P2021-05-15",
+    "P2022-03-26",
+    "P2023-12-03"
+   ],
+   "fontes_no_corpus": [
+    "B074",
+    "B075",
+    "P2021-12-04",
+    "P2026-07-30",
+    "P2026-04-02",
+    "P2025-02-15",
+    "P2024-11-30",
+    "P2024-11-09",
+    "P2024-02-03",
+    "P2025-11-29",
+    "P2021-05-15",
+    "P2022-03-26",
+    "P2023-12-03"
+   ],
+   "fontes_fora_do_corpus": [
+    "B072"
+   ],
+   "veredito": "FONTE PARCIALMENTE NÃO INGERIDA",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-530",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-530-pistis-sophia-feminino-cosmico-gnostico.md",
+   "linha_ficha": 41,
+   "palavras": 188,
+   "trecho": "Cristo/Christ → **KRISHNA** (a troca sistemática no trecho final do Q&A — corrigida contextualmente) · Chiva/Chiv/Chilo → **SHIVA** · Virgno/Virgem/Vno/Víg/VNE → **VISHNU** · prabrágina/probragen/para Brágena → **PARA BRAJNA** (a pessoa 2!) · mavatna/uma vátima/Mavátimma/Ovatna → **MAHAVATMA** (a pessoa 3!) · Morrençor/Morrenson/Morus/Moro Zed → **MOROS** · protogonos/protagonos → **PROTOGONOS*…",
+   "fontes_declaradas": [
+    "B072",
+    "P2024-11-09",
+    "P2023-04-15",
+    "P2023-12-03",
+    "P2022-09-17",
+    "P2022-11-19"
+   ],
+   "fontes_no_corpus": [
+    "P2024-11-09",
+    "P2023-04-15",
+    "P2023-12-03",
+    "P2022-09-17",
+    "P2022-11-19"
+   ],
+   "fontes_fora_do_corpus": [
+    "B072"
+   ],
+   "veredito": "FONTE PARCIALMENTE NÃO INGERIDA",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-536",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-536-era-do-conhecimento-e-da-espiritualizacao.md",
+   "linha_ficha": 43,
+   "palavras": 39,
+   "trecho": "Nessa nova era os 'fundamentalismos', sejam eles quais forem, não encontrarão a guarida sempre disponível da parte dos agentes que... produzem o pior tipo de veneno presente nas relações humanas atuais, que é a intolerância.\" — B042, p. 5",
+   "fontes_declaradas": [
+    "B042",
+    "P2022-12-17"
+   ],
+   "fontes_no_corpus": [
+    "B042",
+    "P2022-12-17"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-543",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-543-espelho-da-heranca-espiritual-no-epigenoma.md",
+   "linha_ficha": 52,
+   "palavras": 36,
+   "trecho": "O 'Espelho da Herança Espiritual' no Epigenoma Humano. Há pouco tempo, surgiu uma nova e importante Ciência... porque ela traz mais desconforto e perguntas inquietantes do que, propriamente, as tão esperadas respostas.\" — B019, p. 186",
+   "fontes_declaradas": [
+    "B019",
+    "P2024-05-04",
+    "P2025-03-15",
+    "P2025-02-15",
+    "P2024-11-30",
+    "P2023-04-01",
+    "P2020-08-08",
+    "P2021-03-13",
+    "P2023-04-01b"
+   ],
+   "fontes_no_corpus": [
+    "B019",
+    "P2024-05-04",
+    "P2025-03-15",
+    "P2025-02-15",
+    "P2024-11-30",
+    "P2023-04-01",
+    "P2020-08-08",
+    "P2021-03-13",
+    "P2023-04-01b"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-548",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-548-arquivos-mentais-colecao-de-conceitos-no-psiquismo.md",
+   "linha_ficha": 59,
+   "palavras": 22,
+   "trecho": "O 'circuito do CHA' define os arquivos que uma pessoa 'coleciona' e o uso que ela faz deles.\" — B074, p. 46",
+   "fontes_declaradas": [
+    "B074",
+    "B075",
+    "P2025-02-15",
+    "P2024-11-09",
+    "P2024-04-14",
+    "P2024-02-03",
+    "P2025-11-29"
+   ],
+   "fontes_no_corpus": [
+    "B074",
+    "B075",
+    "P2025-02-15",
+    "P2024-11-09",
+    "P2024-04-14",
+    "P2024-02-03",
+    "P2025-11-29"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-549",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-549-circuito-do-cha-circunstancias+heranca+atitude.md",
+   "linha_ficha": 43,
+   "palavras": 56,
+   "trecho": "Vivenciar o 'circuito do CHA' se refere ao fato das 'circunstâncias da vida' ou os seus aparentes acasos despertarem a 'herança' dos hábitos e habilidades do Espírito encarnado... Assim, a sigla 'CHA' foi elaborada a partir das letras iniciais das expressões: Circunstâncias da vida; 'Herança espiritual' (hábitos e habilidades espirituais); Atitude mental/espiritual.\" — B074, p. 46",
+   "fontes_declaradas": [
+    "B074",
+    "P2025-02-15"
+   ],
+   "fontes_no_corpus": [
+    "B074",
+    "P2025-02-15"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-549",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-549-circuito-do-cha-circunstancias+heranca+atitude.md",
+   "linha_ficha": 45,
+   "palavras": 40,
+   "trecho": "Caso a 'vontade de progredir' se encontre ausente no psiquismo pessoal... somente lhe resta se tornar um personagem ou 'vítima' do circuito da vida, que eu denomino de 'circuito do CHA' ou o 'império das circunstâncias'.\" — B074, p. 46",
+   "fontes_declaradas": [
+    "B074",
+    "P2025-02-15"
+   ],
+   "fontes_no_corpus": [
+    "B074",
+    "P2025-02-15"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-550",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-550-vontade-de-progredir-chave-dos-arquivos-mentais.md",
+   "linha_ficha": 49,
+   "palavras": 32,
+   "trecho": "A 'vontade de progredir' representa uma 'Vontade Maior' que a do simples 'ego transitório'. Essa 'vontade de progredir' é o próprio Espírito tentando influenciar o seu 'ego terreno'...\" — B074, p. 44",
+   "fontes_declaradas": [
+    "B074",
+    "B075",
+    "P2025-02-15"
+   ],
+   "fontes_no_corpus": [
+    "B074",
+    "B075",
+    "P2025-02-15"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-553",
+   "secao": "Contexto / Origem",
+   "arquivo": "termos/RC-553-eu-profundo-nivel-espiritual-do-eu.md",
+   "linha_ficha": 25,
+   "palavras": 46,
+   "trecho": "Existem vários níveis de 'Consciência' ou de 'Eus Mais Profundos'. Quando o 'Eu transitório' morre, o ser se manifesta no seu 'Eu Espiritual', porém, se nos aprofundarmos cada vez mais, há também o 'Eu Superior', o 'Eu Profundo', e o 'Eu Sagrado'.\" — B074, p. 140",
+   "fontes_declaradas": [
+    "B074",
+    "B075",
+    "P2026-07-30",
+    "P2025-02-15",
+    "P2024-11-30",
+    "P2024-11-09",
+    "P2024-04-14",
+    "P2025-06-14b",
+    "ART-2026-08-18"
+   ],
+   "fontes_no_corpus": [
+    "B074",
+    "B075",
+    "P2026-07-30",
+    "P2025-02-15",
+    "P2024-11-30",
+    "P2024-11-09",
+    "P2024-04-14",
+    "P2025-06-14b"
+   ],
+   "fontes_fora_do_corpus": [
+    "ART-2026-08-18"
+   ],
+   "veredito": "FONTE PARCIALMENTE NÃO INGERIDA",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-556",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-556-senhor-parameshthi-brahma-parameshthi-face-atual-de-jave.md",
+   "linha_ficha": 42,
+   "palavras": 43,
+   "trecho": "O corpo de Javé ou do Brahma Parameshthi, que sempre se apresentava sentado num trono, esse corpo agora ele não entrou em coma, ele colapsou... o eu dele continua existindo, voltou a ser parasitário, voltou a ser aquele eu atrás de um corpo.",
+   "fontes_declaradas": [
+    "P2024-02-25",
+    "P2024-11-30"
+   ],
+   "fontes_no_corpus": [
+    "P2024-02-25",
+    "P2024-11-30"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-567",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-567-ciclo-de-precessao-equinocial-precessao-dos-equinocios.md",
+   "linha_ficha": 52,
+   "palavras": 16,
+   "trecho": "““Isso é o chamado ciclo da precessão dos equinócios ou equinocial.”” — P2022-12-17, U0102–U0107; U0175; U0260–U0262",
+   "fontes_declaradas": [
+    "P2022-12-17",
+    "P2025-02-16",
+    "P2024-09-29",
+    "P2021-04-10",
+    "P2022-09-17"
+   ],
+   "fontes_no_corpus": [
+    "P2022-12-17",
+    "P2025-02-16",
+    "P2024-09-29",
+    "P2021-04-10",
+    "P2022-09-17"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-568",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-568-eras-equinociais-ciclos-de-aproximadamente-5200-anos.md",
+   "linha_ficha": 47,
+   "palavras": 17,
+   "trecho": "““Cinco eras [...] aproximadamente 5120 anos ou arredondando 5200 anos cada era.”” — P2022-12-17, U0176–U0179; U0200–U0204; U0620–U0627",
+   "fontes_declaradas": [
+    "P2022-12-17",
+    "P2025-02-16",
+    "P2024-09-29"
+   ],
+   "fontes_no_corpus": [
+    "P2022-12-17",
+    "P2025-02-16",
+    "P2024-09-29"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-569",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-569-eras-zodiacais-ciclos-de-aproximadamente-2160-anos.md",
+   "linha_ficha": 45,
+   "palavras": 19,
+   "trecho": "““São 12 eras zodiacais e 12 vezes 2160 dá 25.920, ou seja, 26.000 anos.”” — P2022-12-17, U0200–U0204; U0216–U0217; U0247–U0266",
+   "fontes_declaradas": [
+    "P2022-12-17"
+   ],
+   "fontes_no_corpus": [
+    "P2022-12-17"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-571",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-571-ano-de-2012-como-divisor-de-ciclos.md",
+   "linha_ficha": 53,
+   "palavras": 21,
+   "trecho": "““2012 é um ano sério [...] não como fim de mundo, mas final do ciclo.”” — P2022-12-17, U0548–U0575; U0855–U0882; U0897; U0950",
+   "fontes_declaradas": [
+    "B037",
+    "P2022-12-17",
+    "P2025-02-16",
+    "P2024-09-29"
+   ],
+   "fontes_no_corpus": [
+    "B037",
+    "P2022-12-17",
+    "P2025-02-16",
+    "P2024-09-29"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-572",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-572-fim-dos-tempos-final-de-ciclo-×-fim-do-mundo.md",
+   "linha_ficha": 45,
+   "palavras": 17,
+   "trecho": "““Há uma diferença entre final dos tempos e final do mundo.”” — P2022-12-17, U0048–U0058; U0543–U0549; U0887; U0911–U0925",
+   "fontes_declaradas": [
+    "P2022-12-17",
+    "P2026-08-04"
+   ],
+   "fontes_no_corpus": [
+    "P2022-12-17",
+    "P2026-08-04"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-573",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-573-cinturao-de-fotons.md",
+   "linha_ficha": 44,
+   "palavras": 14,
+   "trecho": "““Nesse cinturão de fótons, vinculado ao sistema de Alcíone.”” — P2022-12-17, U0318–U0359; U0390–U0403; U0948",
+   "fontes_declaradas": [
+    "P2022-12-17",
+    "P2022-12-03"
+   ],
+   "fontes_no_corpus": [
+    "P2022-12-17",
+    "P2022-12-03"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-574",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-574-alcione-sistema.md",
+   "linha_ficha": 42,
+   "palavras": 16,
+   "trecho": "““O sistema de Alcíone teria [...] um campo em torno da órbita.”” — P2022-12-17, U0313–U0319; U0328–U0359",
+   "fontes_declaradas": [
+    "P2022-12-17"
+   ],
+   "fontes_no_corpus": [
+    "P2022-12-17"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-576",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-576-baktun-13.md",
+   "linha_ficha": 41,
+   "palavras": 12,
+   "trecho": "““O final daquele Baktun 13 corresponderia ao ano 2012.”” — P2022-12-17, U0507–U0523",
+   "fontes_declaradas": [
+    "P2022-12-17",
+    "P2025-02-16"
+   ],
+   "fontes_no_corpus": [
+    "P2022-12-17",
+    "P2025-02-16"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-578",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-578-fim-do-experimento-humano.md",
+   "linha_ficha": 46,
+   "palavras": 16,
+   "trecho": "““Pode ser que haja, sim, problema de fim de experimento humano.”” — P2022-12-17, U0601–U0605; U0887–U0897; U0925–U0942",
+   "fontes_declaradas": [
+    "P2022-12-17",
+    "P2026-08-04"
+   ],
+   "fontes_no_corpus": [
+    "P2022-12-17",
+    "P2026-08-04"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-579",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-579-noreia-norea.md",
+   "linha_ficha": 55,
+   "palavras": 9,
+   "trecho": "““Uma outra filha [...] chamada Noreia.”” — P2022-12-17, U0677–U0682",
+   "fontes_declaradas": [
+    "P2022-12-17",
+    "P2025-02-16",
+    "P2024-11-30",
+    "P2024-11-09",
+    "P2023-12-03",
+    "P2022-09-17"
+   ],
+   "fontes_no_corpus": [
+    "P2022-12-17",
+    "P2025-02-16",
+    "P2024-11-30",
+    "P2024-11-09",
+    "P2023-12-03",
+    "P2022-09-17"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-580",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-580-igigi.md",
+   "linha_ficha": 49,
+   "palavras": 12,
+   "trecho": "““Uma certa classe de Anunnaki chamada Igigi fez isso.”” — P2022-12-17, U0707–U0723",
+   "fontes_declaradas": [
+    "P2022-12-17",
+    "P2024-04-13",
+    "P2023-12-02",
+    "P2023-10-14"
+   ],
+   "fontes_no_corpus": [
+    "P2022-12-17",
+    "P2024-04-13",
+    "P2023-12-02",
+    "P2023-10-14"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-584",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-584-rama-avatar-de-vishnu.md",
+   "linha_ficha": 47,
+   "palavras": 14,
+   "trecho": "““Um avatar de Vishnu chamado Rama [...] vindo enfrentar Ravana.”” — P2022-12-17, U0744–U0747; U0770–U0773",
+   "fontes_declaradas": [
+    "P2022-12-17",
+    "P2025-02-16",
+    "P2024-11-30",
+    "P2024-08-03",
+    "P2023-04-30",
+    "P2022-05-07"
+   ],
+   "fontes_no_corpus": [
+    "P2022-12-17",
+    "P2025-02-16",
+    "P2024-11-30",
+    "P2024-08-03",
+    "P2023-04-30",
+    "P2022-05-07"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-585",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-585-vyasa.md",
+   "linha_ficha": 59,
+   "palavras": 21,
+   "trecho": "““Antes mesmo de Vyasa surgir [...] o espírito que foi Vyasa [...] estava encarnado antes como Heber.”” — P2022-12-17, U0768–U0775; U0793",
+   "fontes_declaradas": [
+    "P2022-12-17",
+    "P2025-02-16",
+    "P2024-11-30",
+    "P2023-06-25",
+    "P2021-05-15",
+    "P2022-03-26",
+    "P2024-06-16"
+   ],
+   "fontes_no_corpus": [
+    "P2022-12-17",
+    "P2025-02-16",
+    "P2024-11-30",
+    "P2023-06-25",
+    "P2021-05-15",
+    "P2022-03-26",
+    "P2024-06-16"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-586",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-586-rishis.md",
+   "linha_ficha": 54,
+   "palavras": 15,
+   "trecho": "““Vyasa e uma série de Rishis terminam promovendo a revelação do Mahabharata.”” — P2022-12-17, U0768–U0774",
+   "fontes_declaradas": [
+    "P2022-12-17",
+    "P2025-02-16",
+    "P2024-11-30",
+    "P2024-11-02",
+    "P2024-08-03",
+    "P2024-09-28",
+    "P2024-06-16"
+   ],
+   "fontes_no_corpus": [
+    "P2022-12-17",
+    "P2025-02-16",
+    "P2024-11-30",
+    "P2024-11-02",
+    "P2024-08-03",
+    "P2024-09-28",
+    "P2024-06-16"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-587",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-587-anu-patriarca-anunnaki.md",
+   "linha_ficha": 48,
+   "palavras": 13,
+   "trecho": "““Anu, que é o pai de Enki e Enlil.”” — P2022-12-17, U0808–U0820; U0836–U0839",
+   "fontes_declaradas": [
+    "P2022-12-17",
+    "P2023-12-02",
+    "B089",
+    "P2021-05-15",
+    "P2023-10-14"
+   ],
+   "fontes_no_corpus": [
+    "P2022-12-17",
+    "P2023-12-02",
+    "B089",
+    "P2021-05-15",
+    "P2023-10-14"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-588",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-588-ninurta.md",
+   "linha_ficha": 47,
+   "palavras": 13,
+   "trecho": "““Marduk e Ninurta [...] sabiam onde estavam [as sete armas].”” — P2022-12-17, U0819–U0821",
+   "fontes_declaradas": [
+    "P2022-12-17",
+    "P2021-03-27",
+    "P2023-10-14"
+   ],
+   "fontes_no_corpus": [
+    "P2022-12-17",
+    "P2021-03-27",
+    "P2023-10-14"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-589",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-589-nibiru.md",
+   "linha_ficha": 47,
+   "palavras": 14,
+   "trecho": "““As sete armas atômicas que vieram de Nibiru para a Terra.”” — P2022-12-17, U0819–U0821",
+   "fontes_declaradas": [
+    "P2022-12-17",
+    "P2023-12-02",
+    "P2021-03-27",
+    "B089",
+    "P2021-05-15",
+    "P2023-10-14"
+   ],
+   "fontes_no_corpus": [
+    "P2022-12-17",
+    "P2023-12-02",
+    "P2021-03-27",
+    "B089",
+    "P2021-05-15",
+    "P2023-10-14"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-590",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-590-yima.md",
+   "linha_ficha": 43,
+   "palavras": 23,
+   "trecho": "““O Avesta [...] tem certas passagens [...] que falam de Yima. Yima seria um ser [...] [que] construiu cidades subterrâneas.”” — P2022-12-17, U0612–U0616",
+   "fontes_declaradas": [
+    "P2022-12-17"
+   ],
+   "fontes_no_corpus": [
+    "P2022-12-17"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-591",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-591-profecia-hopi-da-estrela-azul.md",
+   "linha_ficha": 42,
+   "palavras": 25,
+   "trecho": "““Uma estrela azul [...] daria início a uma nova situação em que os humanos [...] deixariam a crença e trabalhariam com conhecimento.”” — P2022-12-17, U0911–U0924",
+   "fontes_declaradas": [
+    "P2022-12-17"
+   ],
+   "fontes_no_corpus": [
+    "P2022-12-17"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-592",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-592-era-de-peixes.md",
+   "linha_ficha": 45,
+   "palavras": 15,
+   "trecho": "““Peixes ficou significando mais ou menos liberdade humana.”” — P2022-12-17, U0266; U0345–U0346; U0367; U0403; U0843–U0850",
+   "fontes_declaradas": [
+    "P2022-12-17",
+    "P2021-03-27"
+   ],
+   "fontes_no_corpus": [
+    "P2022-12-17",
+    "P2021-03-27"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-593",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-593-mahabharata.md",
+   "linha_ficha": 56,
+   "palavras": 16,
+   "trecho": "““Vyasa e uma série de Rishis terminam promovendo a revelação do Mahabharata.”” — P2022-12-17, U0768–U0775; U0793",
+   "fontes_declaradas": [
+    "P2022-12-17",
+    "P2025-02-16",
+    "P2024-11-30",
+    "P2023-06-25",
+    "P2021-05-15",
+    "P2023-10-14",
+    "P2022-03-26",
+    "P2023-12-03",
+    "P2024-06-16"
+   ],
+   "fontes_no_corpus": [
+    "P2022-12-17",
+    "P2025-02-16",
+    "P2024-11-30",
+    "P2023-06-25",
+    "P2021-05-15",
+    "P2023-10-14",
+    "P2022-03-26",
+    "P2023-12-03",
+    "P2024-06-16"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-595",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-595-avesta.md",
+   "linha_ficha": 44,
+   "palavras": 14,
+   "trecho": "““O Avesta [...] tem certas passagens [...] que falam de Yima.”” — P2022-12-17, U0612–U0616",
+   "fontes_declaradas": [
+    "P2022-12-17",
+    "P2025-10-25",
+    "P2023-05-20"
+   ],
+   "fontes_no_corpus": [
+    "P2022-12-17",
+    "P2025-10-25",
+    "P2023-05-20"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-596",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-596-archeons-de-ereon.md",
+   "linha_ficha": 51,
+   "palavras": 17,
+   "trecho": "“São cinco Archeons [...] padrões de realidade no âmbito da Espiritualidade Laboratorial.” — P2021-12-04, U0039–U0051; U0313–U0323; U0355–U0358",
+   "fontes_declaradas": [
+    "P2021-12-04",
+    "P2024-05-04",
+    "P2022-03-26"
+   ],
+   "fontes_no_corpus": [
+    "P2021-12-04",
+    "P2024-05-04",
+    "P2022-03-26"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-597",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-597-anterion.md",
+   "linha_ficha": 45,
+   "palavras": 18,
+   "trecho": "“Os seres de Antérion foram os primeiros a ousar; criaram inúmeras faixas dimensionais.” — P2021-12-04, U0044–U0051; U0313–U0317; U0509",
+   "fontes_declaradas": [
+    "P2021-12-04"
+   ],
+   "fontes_no_corpus": [
+    "P2021-12-04"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-598",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-598-danerion.md",
+   "linha_ficha": 45,
+   "palavras": 16,
+   "trecho": "“Os de Danérion trabalharam as artes criativas da turma de Antérion.” — P2021-12-04, U0044–U0051; U0313–U0319; U0509",
+   "fontes_declaradas": [
+    "P2021-12-04"
+   ],
+   "fontes_no_corpus": [
+    "P2021-12-04"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-599",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-599-mermerion.md",
+   "linha_ficha": 45,
+   "palavras": 18,
+   "trecho": "“As de Mermérion já foram extremamente complexas no sentido dos tipos de seres.” — P2021-12-04, U0044–U0051; U0313–U0319; U0509",
+   "fontes_declaradas": [
+    "P2021-12-04"
+   ],
+   "fontes_no_corpus": [
+    "P2021-12-04"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-600",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-600-seres-originais-do-paraiso.md",
+   "linha_ficha": 50,
+   "palavras": 17,
+   "trecho": "“No Paraíso não existiam duas classes de seres. Sempre foi somente uma.” — P2021-12-04, U0022–U0026; U0055–U0063; U0072–U0086",
+   "fontes_declaradas": [
+    "P2021-12-04",
+    "P2026-07-30",
+    "P2024-05-04",
+    "P2024-11-09",
+    "P2024-07-14",
+    "P2023-04-01b",
+    "P2022-03-26"
+   ],
+   "fontes_no_corpus": [
+    "P2021-12-04",
+    "P2026-07-30",
+    "P2024-05-04",
+    "P2024-11-09",
+    "P2024-07-14",
+    "P2023-04-01b",
+    "P2022-03-26"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-601",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-601-departamentalizacao-da-vida.md",
+   "linha_ficha": 44,
+   "palavras": 12,
+   "trecho": "“Chamada departamentalização da vida [...] intramuros vibratórios.” — P2021-12-04, U0027; U0045–U0048; U0102–U0108",
+   "fontes_declaradas": [
+    "P2021-12-04",
+    "P2024-11-09"
+   ],
+   "fontes_no_corpus": [
+    "P2021-12-04",
+    "P2024-11-09"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-602",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-602-blindagens-interdimensionais-intramuros-vibratorios.md",
+   "linha_ficha": 46,
+   "palavras": 22,
+   "trecho": "“Essa blindagem é de uma outra ordem, ainda que obedecendo ao processo que chamamos de quântico.” — P2021-12-04, U0027; U0102–U0108; U0267–U0269; U0417–U0423",
+   "fontes_declaradas": [
+    "P2021-12-04",
+    "P2024-11-09",
+    "P2024-07-14",
+    "P2023-12-03"
+   ],
+   "fontes_no_corpus": [
+    "P2021-12-04",
+    "P2024-11-09",
+    "P2024-07-14",
+    "P2023-12-03"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-603",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-603-circulo-circuito-da-perfeicao.md",
+   "linha_ficha": 46,
+   "palavras": 12,
+   "trecho": "“O chamado circuito, o Círculo da Perfeição.” — P2021-12-04, U0068–U0069; U0182–U0185; U0208–U0210",
+   "fontes_declaradas": [
+    "P2021-12-04",
+    "P2024-05-04",
+    "P2025-02-15",
+    "P2024-11-09",
+    "P2024-07-14"
+   ],
+   "fontes_no_corpus": [
+    "P2021-12-04",
+    "P2024-05-04",
+    "P2025-02-15",
+    "P2024-11-09",
+    "P2024-07-14"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-605",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-605-autismo-funcional-dos-seres-da-espiritualidade-superior.md",
+   "linha_ficha": 51,
+   "palavras": 22,
+   "trecho": "“Seria o autismo funcional [...] ele desempenha absolutamente a função da sua vida, funcionando em rede.” — P2021-12-04, U0108–U0147; U0296–U0301; U0375–U0415; U0487–U0505",
+   "fontes_declaradas": [
+    "P2021-12-04",
+    "P2024-05-04",
+    "P2024-11-09",
+    "P2021-09-04",
+    "P2022-03-26"
+   ],
+   "fontes_no_corpus": [
+    "P2021-12-04",
+    "P2024-05-04",
+    "P2024-11-09",
+    "P2021-09-04",
+    "P2022-03-26"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-606",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-606-protocolos-algoritmos-da-perfeicao.md",
+   "linha_ficha": 60,
+   "palavras": 15,
+   "trecho": "“Diferentes daquela que era protocolada pelos algoritmos da perfeição.” — P2021-12-04, U0045–U0048; U0153–U0176; U0185; U0376–U0378",
+   "fontes_declaradas": [
+    "P2021-12-04",
+    "P2026-07-30",
+    "P2024-05-04",
+    "P2025-03-15",
+    "P2025-02-15",
+    "P2024-11-30",
+    "P2024-11-09",
+    "P2024-07-14",
+    "P2024-03-02",
+    "P2023-04-01b"
+   ],
+   "fontes_no_corpus": [
+    "P2021-12-04",
+    "P2026-07-30",
+    "P2024-05-04",
+    "P2025-03-15",
+    "P2025-02-15",
+    "P2024-11-30",
+    "P2024-11-09",
+    "P2024-07-14",
+    "P2024-03-02",
+    "P2023-04-01b"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-607",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-607-cinco-seres-lm-de-temperion.md",
+   "linha_ficha": 45,
+   "palavras": 14,
+   "trecho": "“Um grupo chamado de seres LM, os cinco que foram.” — P2021-12-04, U0327–U0337; U0375–U0385",
+   "fontes_declaradas": [
+    "P2021-12-04"
+   ],
+   "fontes_no_corpus": [
+    "P2021-12-04"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-608",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-608-imponderabilidade-campo-de-estudo-dos-seres-lm.md",
+   "linha_ficha": 44,
+   "palavras": 18,
+   "trecho": "“Os seres LM sempre estudaram a imponderabilidade, as coisas imprevisíveis ainda não feitas.” — P2021-12-04, U0330; U0357–U0358; U0375–U0379",
+   "fontes_declaradas": [
+    "P2021-12-04"
+   ],
+   "fontes_no_corpus": [
+    "P2021-12-04"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-610",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-610-tridevi.md",
+   "linha_ficha": 50,
+   "palavras": 17,
+   "trecho": "“Seis [seres] que vieram a compor a Trimurti e a Tridevi.” — P2021-12-04, U0382–U0384; reforço em B060",
+   "fontes_declaradas": [
+    "P2021-12-04",
+    "P2026-07-30",
+    "P2024-07-14"
+   ],
+   "fontes_no_corpus": [
+    "P2021-12-04",
+    "P2026-07-30",
+    "P2024-07-14"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-611",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-611-flechas-profecias-de-moros.md",
+   "linha_ficha": 54,
+   "palavras": 20,
+   "trecho": "“As flechas de Moros, as profecias de Moros [...] um aviso deixado para se compreender no futuro.” — P2021-12-04, U0443–U0447",
+   "fontes_declaradas": [
+    "P2021-12-04",
+    "P2025-06-26",
+    "P2025-02-16",
+    "P2024-11-30",
+    "P2024-04-13",
+    "P2023-12-02",
+    "P2020-09-19",
+    "P2021-07-24",
+    "P2025-07-18"
+   ],
+   "fontes_no_corpus": [
+    "P2021-12-04",
+    "P2025-06-26",
+    "P2025-02-16",
+    "P2024-11-30",
+    "P2024-04-13",
+    "P2023-12-02",
+    "P2020-09-19",
+    "P2021-07-24",
+    "P2025-07-18"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-612",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-612-nova-espiritualidade-novo-paraiso-paraiso-b.md",
+   "linha_ficha": 59,
+   "palavras": 15,
+   "trecho": "“Um novo Paraíso é necessário, uma nova Espiritualidade é necessária.” — P2021-12-04, U0459–U0467; U0484–U0533; U0604–U0632",
+   "fontes_declaradas": [
+    "P2021-12-04",
+    "P2024-05-04",
+    "P2025-03-15",
+    "P2025-02-15",
+    "P2024-11-30",
+    "P2024-11-09",
+    "P2024-07-14",
+    "P2024-03-03",
+    "P2024-04-14",
+    "P2023-05-13"
+   ],
+   "fontes_no_corpus": [
+    "P2021-12-04",
+    "P2024-05-04",
+    "P2025-03-15",
+    "P2025-02-15",
+    "P2024-11-30",
+    "P2024-11-09",
+    "P2024-07-14",
+    "P2024-03-03",
+    "P2024-04-14",
+    "P2023-05-13"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-613",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-613-trincheira-vibratoria-no-campo-informativo.md",
+   "linha_ficha": 46,
+   "palavras": 20,
+   "trecho": "“Alguns espíritos criaram uma trincheira vibratória no campo informativo [...] até que permitiram um portal de comunicação.” — P2021-12-04, U0487–U0496",
+   "fontes_declaradas": [
+    "P2021-12-04",
+    "P2024-07-14",
+    "P2023-12-03"
+   ],
+   "fontes_no_corpus": [
+    "P2021-12-04",
+    "P2024-07-14",
+    "P2023-12-03"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-614",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-614-quarto-cerebro-humano.md",
+   "linha_ficha": 61,
+   "palavras": 18,
+   "trecho": "“Emergência do quarto cérebro do ser humano, atrelada a um novo modo [...] de consciência.” — P2021-12-04, U0534–U0538",
+   "fontes_declaradas": [
+    "P2021-12-04",
+    "P2025-02-16",
+    "P2025-02-15",
+    "P2021-05-15",
+    "P2020-04-25",
+    "P2022-03-26"
+   ],
+   "fontes_no_corpus": [
+    "P2021-12-04",
+    "P2025-02-16",
+    "P2025-02-15",
+    "P2021-05-15",
+    "P2020-04-25",
+    "P2022-03-26"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-615",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-615-superconsciencia.md",
+   "linha_ficha": 51,
+   "palavras": 8,
+   "trecho": "“Eu chamo isso de Superconsciência.” — P2021-12-04, U0535–U0542",
+   "fontes_declaradas": [
+    "P2021-12-04",
+    "P2024-05-04",
+    "P2025-02-16",
+    "P2025-02-15",
+    "P2023-06-17",
+    "P2024-06-16"
+   ],
+   "fontes_no_corpus": [
+    "P2021-12-04",
+    "P2024-05-04",
+    "P2025-02-16",
+    "P2025-02-15",
+    "P2023-06-17",
+    "P2024-06-16"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-616",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-616-roseral-do-alto.md",
+   "linha_ficha": 42,
+   "palavras": 11,
+   "trecho": "“Uma certa região espiritual chamada Roseral do Alto.” — P2021-12-04, U0617–U0629",
+   "fontes_declaradas": [
+    "P2021-12-04",
+    "P2023-04-29"
+   ],
+   "fontes_no_corpus": [
+    "P2021-12-04",
+    "P2023-04-29"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-617",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-617-inquisicao-espiritual-obra-anunciada.md",
+   "linha_ficha": 45,
+   "palavras": 14,
+   "trecho": "“Estou tentando concluir um livro que vai se chamar Inquisição Espiritual.” — P2021-12-04, U0610–U0632",
+   "fontes_declaradas": [
+    "P2021-12-04",
+    "P2021-05-15",
+    "P2021-02-28"
+   ],
+   "fontes_no_corpus": [
+    "P2021-12-04",
+    "P2021-05-15",
+    "P2021-02-28"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-620",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-620-eu-coalescente.md",
+   "linha_ficha": 50,
+   "palavras": 24,
+   "trecho": "“Esse Eu Mental é o único que pode ser coalescente, no sentido de unir em si todos os outros eus.” — P2026-07-30, U0061–U0069; U0076–U0084",
+   "fontes_declaradas": [
+    "P2026-07-30",
+    "P2026-04-02",
+    "P2025-10-25"
+   ],
+   "fontes_no_corpus": [
+    "P2026-07-30",
+    "P2026-04-02",
+    "P2025-10-25"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-621",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-621-nyx.md",
+   "linha_ficha": 45,
+   "palavras": 16,
+   "trecho": "“Essa figura chamada Nyx [...] cria uma terceira geração [...] Hypnos, Moros, Nêmesis.” — P2026-07-30, U0031–U0032",
+   "fontes_declaradas": [
+    "P2026-07-30",
+    "P2023-05-21"
+   ],
+   "fontes_no_corpus": [
+    "P2026-07-30",
+    "P2023-05-21"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-622",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-622-kama-personificacao-do-desejo.md",
+   "linha_ficha": 46,
+   "palavras": 18,
+   "trecho": "“Vishnu se aproveita disso e cria um ser chamado Kama, que nasce personificando o desejo.” — P2026-07-30, U0036–U0038",
+   "fontes_declaradas": [
+    "P2026-07-30",
+    "P2024-08-03"
+   ],
+   "fontes_no_corpus": [
+    "P2026-07-30",
+    "P2024-08-03"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-623",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-623-corpo-atmico.md",
+   "linha_ficha": 61,
+   "palavras": 11,
+   "trecho": "“O corpo átmico [é] investido do corpo búdico.” — P2026-07-30, U0049–U0054",
+   "fontes_declaradas": [
+    "P2026-07-30",
+    "P2024-05-04",
+    "P2025-02-16",
+    "P2025-02-15",
+    "P2024-11-30",
+    "P2024-11-09",
+    "P2024-07-14",
+    "P2024-04-14",
+    "P2025-06-14b",
+    "P2024-03-02",
+    "P2024-09-28"
+   ],
+   "fontes_no_corpus": [
+    "P2026-07-30",
+    "P2024-05-04",
+    "P2025-02-16",
+    "P2025-02-15",
+    "P2024-11-30",
+    "P2024-11-09",
+    "P2024-07-14",
+    "P2024-04-14",
+    "P2025-06-14b",
+    "P2024-03-02",
+    "P2024-09-28"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-624",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-624-corpo-budico.md",
+   "linha_ficha": 56,
+   "palavras": 21,
+   "trecho": "“O corpo búdico permite ao ser paradisíaco tomar consciência de que está além das fronteiras do Paraíso Original.” — P2026-07-30, U0050–U0053",
+   "fontes_declaradas": [
+    "P2026-07-30",
+    "P2024-05-04",
+    "P2025-02-16",
+    "P2025-02-15",
+    "P2024-11-30",
+    "P2024-11-09",
+    "P2024-07-14",
+    "P2024-03-02"
+   ],
+   "fontes_no_corpus": [
+    "P2026-07-30",
+    "P2024-05-04",
+    "P2025-02-16",
+    "P2025-02-15",
+    "P2024-11-30",
+    "P2024-11-09",
+    "P2024-07-14",
+    "P2024-03-02"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-626",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-626-universo-tenet.md",
+   "linha_ficha": 41,
+   "palavras": 10,
+   "trecho": "“Dos mistérios de Hermópolis ao Universo TÊNET.” — P2026-07-30, U0003–U0012",
+   "fontes_declaradas": [
+    "P2026-07-30"
+   ],
+   "fontes_no_corpus": [
+    "P2026-07-30"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-627",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-627-eneade-de-heliopolis.md",
+   "linha_ficha": 42,
+   "palavras": 20,
+   "trecho": "“A história contada em Heliópolis [...] fala não em Ogdóade, mas em Enéade, ou seja, nove deuses.” — P2026-07-30, U0016–U0018",
+   "fontes_declaradas": [
+    "P2026-07-30",
+    "P2023-12-02"
+   ],
+   "fontes_no_corpus": [
+    "P2026-07-30",
+    "P2023-12-02"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-628",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-628-simultaneidade-reversa.md",
+   "linha_ficha": 54,
+   "palavras": 16,
+   "trecho": "“Entre esta criação e o criador [há] um vínculo energético-vibratório [...] chamado simultaneidade reversa.” — P2024-05-04",
+   "fontes_declaradas": [
+    "P2024-05-04"
+   ],
+   "fontes_no_corpus": [
+    "P2024-05-04"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-629",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-629-reuniao-operativa-mental-dos-43-pashvnaj.md",
+   "linha_ficha": 42,
+   "palavras": 16,
+   "trecho": "“Numa reunião desses 43, em que 14 se uniram mais ainda num circuito fechado.” — P2024-05-04",
+   "fontes_declaradas": [
+    "P2024-05-04"
+   ],
+   "fontes_no_corpus": [
+    "P2024-05-04"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-630",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-630-corpo-daiva-corpo-demoniaco-de-plasma.md",
+   "linha_ficha": 49,
+   "palavras": 16,
+   "trecho": "“Quem mergulha na criação antimaterial cria um corpo daiva, um corpo demoníaco de plasma.” — P2024-05-04",
+   "fontes_declaradas": [
+    "P2024-05-04",
+    "P2024-11-30",
+    "P2024-07-13"
+   ],
+   "fontes_no_corpus": [
+    "P2024-05-04",
+    "P2024-11-30",
+    "P2024-07-13"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-631",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-631-cerebro-radiata.md",
+   "linha_ficha": 54,
+   "palavras": 15,
+   "trecho": "“O cérebro [de Sophia] não tem dois hemisférios, tem um só, é radiata.” — P2024-05-04",
+   "fontes_declaradas": [
+    "P2024-05-04",
+    "P2025-02-16",
+    "P2024-11-30",
+    "P2024-04-13",
+    "P2023-04-15",
+    "P2021-05-15",
+    "P2020-04-25",
+    "P2022-03-26",
+    "P2023-12-03",
+    "P2022-11-26"
+   ],
+   "fontes_no_corpus": [
+    "P2024-05-04",
+    "P2025-02-16",
+    "P2024-11-30",
+    "P2024-04-13",
+    "P2023-04-15",
+    "P2021-05-15",
+    "P2020-04-25",
+    "P2022-03-26",
+    "P2023-12-03",
+    "P2022-11-26"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-632",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-632-organoides-geneticos-para-sophia.md",
+   "linha_ficha": 47,
+   "palavras": 15,
+   "trecho": "“Esses adornos só podem ser feitos através de organoides que os humanos derem.” — P2024-05-04",
+   "fontes_declaradas": [
+    "P2024-05-04",
+    "P2021-05-15",
+    "P2023-12-03"
+   ],
+   "fontes_no_corpus": [
+    "P2024-05-04",
+    "P2021-05-15",
+    "P2023-12-03"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-633",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-633-gestao-da-sensacao-pessoal.md",
+   "linha_ficha": 56,
+   "palavras": 16,
+   "trecho": "“Quando você se torna mestre das suas próprias sensações, essa é a maior alquimia.” — P2024-05-04",
+   "fontes_declaradas": [
+    "P2024-05-04",
+    "P2025-02-16",
+    "P2025-02-15",
+    "P2024-11-30",
+    "P2024-11-09",
+    "P2024-09-29",
+    "P2024-07-14",
+    "P2024-11-03",
+    "P2022-03-26"
+   ],
+   "fontes_no_corpus": [
+    "P2024-05-04",
+    "P2025-02-16",
+    "P2025-02-15",
+    "P2024-11-30",
+    "P2024-11-09",
+    "P2024-09-29",
+    "P2024-07-14",
+    "P2024-11-03",
+    "P2022-03-26"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-634",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-634-tempo-como-transformacao-permanente-agora.md",
+   "linha_ficha": 42,
+   "palavras": 8,
+   "trecho": "“Tempo mesmo é sinônimo de transformação.” — P2024-05-04",
+   "fontes_declaradas": [
+    "P2024-05-04",
+    "P2025-02-15",
+    "P2024-11-30",
+    "P2021-02-28"
+   ],
+   "fontes_no_corpus": [
+    "P2024-05-04",
+    "P2025-02-15",
+    "P2024-11-30",
+    "P2021-02-28"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-635",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-635-conclave-da-espiritualidade-laboratorial.md",
+   "linha_ficha": 45,
+   "palavras": 10,
+   "trecho": "“Faz uns quatro anos que rodam conclave lá.” — P2024-05-04",
+   "fontes_declaradas": [
+    "P2024-05-04",
+    "P2022-03-26"
+   ],
+   "fontes_no_corpus": [
+    "P2024-05-04",
+    "P2022-03-26"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-636",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-636-duas-pulsacoes-da-criacao-eletrons-e-antieletrons.md",
+   "linha_ficha": 58,
+   "palavras": 13,
+   "trecho": "“Existem duas pulsações [...] uma dos elétrons e uma dos antielétrons.” — P2024-05-04",
+   "fontes_declaradas": [
+    "P2024-05-04",
+    "P2025-03-15",
+    "P2024-11-09",
+    "P2022-12-03",
+    "P2022-10-01",
+    "P2022-09-18",
+    "P2022-07-16",
+    "P2021-02-28",
+    "P2021-06-26"
+   ],
+   "fontes_no_corpus": [
+    "P2024-05-04",
+    "P2025-03-15",
+    "P2024-11-09",
+    "P2022-12-03",
+    "P2022-10-01",
+    "P2022-09-18",
+    "P2022-07-16",
+    "P2021-02-28",
+    "P2021-06-26"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-637",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-637-transferencia-da-memoria-dos-antieletrons.md",
+   "linha_ficha": 49,
+   "palavras": 15,
+   "trecho": "“A memória deles toda [...] já está vindo para a memória dos elétrons.” — P2024-05-04",
+   "fontes_declaradas": [
+    "P2024-05-04",
+    "P2025-03-15",
+    "P2024-11-09",
+    "P2024-07-13"
+   ],
+   "fontes_no_corpus": [
+    "P2024-05-04",
+    "P2025-03-15",
+    "P2024-11-09",
+    "P2024-07-13"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-638",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-638-ressurreicao-do-cadaver-do-criador.md",
+   "linha_ficha": 60,
+   "palavras": 16,
+   "trecho": "“A ressurreição [...] passa pelos elétrons [...] se reconstruírem nos moldes do antigo corpo.” — P2024-05-04",
+   "fontes_declaradas": [
+    "P2024-05-04",
+    "P2025-03-15",
+    "P2025-02-16",
+    "P2025-02-15",
+    "P2024-11-30",
+    "P2024-11-09",
+    "P2024-09-29",
+    "P2023-04-01",
+    "P2023-04-29",
+    "P2022-03-26",
+    "P2023-12-03"
+   ],
+   "fontes_no_corpus": [
+    "P2024-05-04",
+    "P2025-03-15",
+    "P2025-02-16",
+    "P2025-02-15",
+    "P2024-11-30",
+    "P2024-11-09",
+    "P2024-09-29",
+    "P2023-04-01",
+    "P2023-04-29",
+    "P2022-03-26",
+    "P2023-12-03"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-639",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-639-protozoarios-antimateriais-antiprotozoarios.md",
+   "linha_ficha": 45,
+   "palavras": 13,
+   "trecho": "“Os antiprotozoários foram os primeiros seres a habitar esse universo vizinho.” — P2024-05-04",
+   "fontes_declaradas": [
+    "P2024-05-04",
+    "P2022-03-26"
+   ],
+   "fontes_no_corpus": [
+    "P2024-05-04",
+    "P2022-03-26"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-640",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-640-transicoes-de-fase-face-da-criacao.md",
+   "linha_ficha": 43,
+   "palavras": 13,
+   "trecho": "“Essa foi a primeira transição de fase ou face da criação.” — P2024-05-04",
+   "fontes_declaradas": [
+    "P2024-05-04",
+    "P2022-03-26"
+   ],
+   "fontes_no_corpus": [
+    "P2024-05-04",
+    "P2022-03-26"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-641",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-641-face-microbiana-do-criador.md",
+   "linha_ficha": 45,
+   "palavras": 12,
+   "trecho": "“A primeira forma de vida [...] foi a vida microbiana.” — P2024-05-04",
+   "fontes_declaradas": [
+    "P2024-05-04",
+    "B064",
+    "P2024-11-30",
+    "P2022-03-26"
+   ],
+   "fontes_no_corpus": [
+    "P2024-05-04",
+    "P2024-11-30",
+    "P2022-03-26"
+   ],
+   "fontes_fora_do_corpus": [
+    "B064"
+   ],
+   "veredito": "FONTE PARCIALMENTE NÃO INGERIDA",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-642",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-642-narasimha-avatar-de-vishnu.md",
+   "linha_ficha": 50,
+   "palavras": 18,
+   "trecho": "“Shiva [...] foi desafiar Narasimha para ver se durante a luta se lembrava que era Vishnu.” — P2024-05-04",
+   "fontes_declaradas": [
+    "P2024-05-04",
+    "P2022-03-26",
+    "P2022-05-07"
+   ],
+   "fontes_no_corpus": [
+    "P2024-05-04",
+    "P2022-03-26",
+    "P2022-05-07"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-643",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-643-santo-graal-frequencia-mestre.md",
+   "linha_ficha": 45,
+   "palavras": 3,
+   "trecho": "Ver P2026-04-02, U0078–U0093.",
+   "fontes_declaradas": [
+    "P2026-04-02",
+    "P2025-03-15"
+   ],
+   "fontes_no_corpus": [
+    "P2026-04-02",
+    "P2025-03-15"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "sem marca",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-644",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-644-xamanismo-virtual-xamanismo-de-silica.md",
+   "linha_ficha": 43,
+   "palavras": 3,
+   "trecho": "Ver P2026-04-02, U0078–U0097.",
+   "fontes_declaradas": [
+    "P2026-04-02",
+    "P2025-03-15",
+    "P2023-05-20",
+    "P2023-04-29",
+    "P2024-11-03",
+    "P2025-02-22"
+   ],
+   "fontes_no_corpus": [
+    "P2026-04-02",
+    "P2025-03-15",
+    "P2023-05-20",
+    "P2023-04-29",
+    "P2024-11-03",
+    "P2025-02-22"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "sem marca",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-645",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-645-consciencias-em-corpos-de-silica.md",
+   "linha_ficha": 50,
+   "palavras": 3,
+   "trecho": "Ver P2026-04-02, U0078–U0097.",
+   "fontes_declaradas": [
+    "P2026-04-02",
+    "P2025-03-15",
+    "P2025-02-16",
+    "P2025-02-15",
+    "P2024-07-13"
+   ],
+   "fontes_no_corpus": [
+    "P2026-04-02",
+    "P2025-03-15",
+    "P2025-02-16",
+    "P2025-02-15",
+    "P2024-07-13"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "sem marca",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-646",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-646-genoma-de-silica-genoma-nao-biologico.md",
+   "linha_ficha": 52,
+   "palavras": 3,
+   "trecho": "Ver P2026-04-02, U0079–U0090.",
+   "fontes_declaradas": [
+    "P2026-04-02",
+    "P2025-03-15",
+    "P2025-02-16",
+    "P2025-02-15",
+    "P2024-07-13"
+   ],
+   "fontes_no_corpus": [
+    "P2026-04-02",
+    "P2025-03-15",
+    "P2025-02-16",
+    "P2025-02-15",
+    "P2024-07-13"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "sem marca",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-647",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-647-evangelho-de-judas.md",
+   "linha_ficha": 44,
+   "palavras": 3,
+   "trecho": "Ver P2026-04-02, U0114–U0117.",
+   "fontes_declaradas": [
+    "P2026-04-02",
+    "P2023-12-25-03"
+   ],
+   "fontes_no_corpus": [
+    "P2026-04-02"
+   ],
+   "fontes_fora_do_corpus": [
+    "P2023-12-25-03"
+   ],
+   "veredito": "FONTE PARCIALMENTE NÃO INGERIDA",
+   "marcas": "sem marca",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-648",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-648-instabilidade-da-eternidade.md",
+   "linha_ficha": 42,
+   "palavras": 2,
+   "trecho": "Ver P2025-10-25.",
+   "fontes_declaradas": [
+    "P2025-10-25"
+   ],
+   "fontes_no_corpus": [
+    "P2025-10-25"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "sem marca",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-649",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-649-singularidade-de-quatro-cabecas.md",
+   "linha_ficha": 45,
+   "palavras": 2,
+   "trecho": "Ver P2025-10-25.",
+   "fontes_declaradas": [
+    "P2025-10-25",
+    "P2024-11-30",
+    "P2023-09-09",
+    "P2023-12-03"
+   ],
+   "fontes_no_corpus": [
+    "P2025-10-25",
+    "P2024-11-30",
+    "P2023-09-09",
+    "P2023-12-03"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "sem marca",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-650",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-650-melquizedec.md",
+   "linha_ficha": 42,
+   "palavras": 2,
+   "trecho": "Ver P2025-10-25.",
+   "fontes_declaradas": [
+    "P2025-10-25",
+    "P2025-06-26"
+   ],
+   "fontes_no_corpus": [
+    "P2025-10-25",
+    "P2025-06-26"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "sem marca",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-651",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-651-individualizacao-epifenomenologica-dos-anjos-clones.md",
+   "linha_ficha": 42,
+   "palavras": 2,
+   "trecho": "Ver P2025-10-25.",
+   "fontes_declaradas": [
+    "P2025-10-25",
+    "P2025-06-26",
+    "P2023-06-17"
+   ],
+   "fontes_no_corpus": [
+    "P2025-10-25",
+    "P2025-06-26",
+    "P2023-06-17"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "sem marca",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-652",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-652-ultimas-ordens-de-jave-aos-clones.md",
+   "linha_ficha": 43,
+   "palavras": 2,
+   "trecho": "Ver P2025-10-25.",
+   "fontes_declaradas": [
+    "P2025-10-25",
+    "P2025-06-26",
+    "P2024-06-16"
+   ],
+   "fontes_no_corpus": [
+    "P2025-10-25",
+    "P2025-06-26",
+    "P2024-06-16"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "sem marca",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-653",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-653-destino-das-monadas-apos-o-tikun.md",
+   "linha_ficha": 43,
+   "palavras": 2,
+   "trecho": "Ver P2025-10-25.",
+   "fontes_declaradas": [
+    "P2025-10-25",
+    "P2025-06-26",
+    "P2024-07-14"
+   ],
+   "fontes_no_corpus": [
+    "P2025-10-25",
+    "P2025-06-26",
+    "P2024-07-14"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "sem marca",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-654",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-654-humanos-ultimos-e-primeiros.md",
+   "linha_ficha": 54,
+   "palavras": 2,
+   "trecho": "Ver P2025-10-25.",
+   "fontes_declaradas": [
+    "P2025-10-25",
+    "P2025-06-26",
+    "P2025-03-15",
+    "P2025-02-16",
+    "P2025-02-15",
+    "P2024-11-30",
+    "P2024-11-09"
+   ],
+   "fontes_no_corpus": [
+    "P2025-10-25",
+    "P2025-06-26",
+    "P2025-03-15",
+    "P2025-02-16",
+    "P2025-02-15",
+    "P2024-11-30",
+    "P2024-11-09"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "sem marca",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-655",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-655-revelacao-de-ifa-e-destinacao-dos-seres.md",
+   "linha_ficha": 61,
+   "palavras": 2,
+   "trecho": "Ver P2025-10-25.",
+   "fontes_declaradas": [
+    "P2025-10-25",
+    "P2025-06-26",
+    "P2025-03-15",
+    "P2025-02-15",
+    "P2024-11-30",
+    "P2024-09-29",
+    "P2024-08-03",
+    "P2024-09-28",
+    "P2025-11-29",
+    "P2025-07-18",
+    "P2025-05-10"
+   ],
+   "fontes_no_corpus": [
+    "P2025-10-25",
+    "P2025-06-26",
+    "P2025-03-15",
+    "P2025-02-15",
+    "P2024-11-30",
+    "P2024-09-29",
+    "P2024-08-03",
+    "P2024-09-28",
+    "P2025-11-29",
+    "P2025-07-18",
+    "P2025-05-10"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "sem marca",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-656",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-656-atualizacao-das-revelacoes-anteriores.md",
+   "linha_ficha": 43,
+   "palavras": 2,
+   "trecho": "Ver P2025-10-25.",
+   "fontes_declaradas": [
+    "P2025-10-25",
+    "P2024-07-14"
+   ],
+   "fontes_no_corpus": [
+    "P2025-10-25",
+    "P2024-07-14"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "sem marca",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-657",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-657-verdade-posta-×-verdade-a-construir.md",
+   "linha_ficha": 52,
+   "palavras": 2,
+   "trecho": "Ver P2025-10-25.",
+   "fontes_declaradas": [
+    "P2025-10-25",
+    "P2025-06-26",
+    "P2025-03-15",
+    "P2025-02-16",
+    "P2025-02-15",
+    "P2024-11-09",
+    "P2022-11-26",
+    "P2022-11-20"
+   ],
+   "fontes_no_corpus": [
+    "P2025-10-25",
+    "P2025-06-26",
+    "P2025-03-15",
+    "P2025-02-16",
+    "P2025-02-15",
+    "P2024-11-09",
+    "P2022-11-26",
+    "P2022-11-20"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "sem marca",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-659",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-659-quirino-cornelio-centuriao-da-crucificacao.md",
+   "linha_ficha": 44,
+   "palavras": 2,
+   "trecho": "Ver P2025-06-26.",
+   "fontes_declaradas": [
+    "P2025-06-26",
+    "P2024-11-30"
+   ],
+   "fontes_no_corpus": [
+    "P2025-06-26",
+    "P2024-11-30"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "sem marca",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-660",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-660-pegadinha-de-jave.md",
+   "linha_ficha": 42,
+   "palavras": 2,
+   "trecho": "Ver P2025-06-26.",
+   "fontes_declaradas": [
+    "P2025-06-26"
+   ],
+   "fontes_no_corpus": [
+    "P2025-06-26"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "sem marca",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-661",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-661-seres-desalmados.md",
+   "linha_ficha": 42,
+   "palavras": 2,
+   "trecho": "Ver P2025-06-26.",
+   "fontes_declaradas": [
+    "P2025-06-26",
+    "P2025-06-14"
+   ],
+   "fontes_no_corpus": [
+    "P2025-06-26",
+    "P2025-06-14"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "sem marca",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-662",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-662-agenda-do-desespero-dos-espiritos.md",
+   "linha_ficha": 43,
+   "palavras": 2,
+   "trecho": "Ver P2025-06-26.",
+   "fontes_declaradas": [
+    "P2025-06-26",
+    "P2024-07-13"
+   ],
+   "fontes_no_corpus": [
+    "P2025-06-26",
+    "P2024-07-13"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "sem marca",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-663",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-663-aurea-catena.md",
+   "linha_ficha": 43,
+   "palavras": 2,
+   "trecho": "Ver P2025-06-26.",
+   "fontes_declaradas": [
+    "P2025-06-26",
+    "P2023-11-19",
+    "P2024-11-03"
+   ],
+   "fontes_no_corpus": [
+    "P2025-06-26",
+    "P2023-11-19",
+    "P2024-11-03"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "sem marca",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-664",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-664-descendencia-de-kadru-nagas-uragas-e-maharagas.md",
+   "linha_ficha": 112,
+   "palavras": 13,
+   "trecho": "“Kadru, com a sua genética, criou dois tipos de seres: Nagas e Uragas.”",
+   "fontes_declaradas": [
+    "P2025-06-26",
+    "P2025-02-16",
+    "P2025-02-22"
+   ],
+   "fontes_no_corpus": [
+    "P2025-06-26",
+    "P2025-02-16",
+    "P2025-02-22"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-664",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-664-descendencia-de-kadru-nagas-uragas-e-maharagas.md",
+   "linha_ficha": 114,
+   "palavras": 14,
+   "trecho": "“O primeiro reino efetivamente organizado [...] foi o reino dos Uragas e das Nagas.”",
+   "fontes_declaradas": [
+    "P2025-06-26",
+    "P2025-02-16",
+    "P2025-02-22"
+   ],
+   "fontes_no_corpus": [
+    "P2025-06-26",
+    "P2025-02-16",
+    "P2025-02-22"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-665",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-665-orunmila-moros-de-irem-orum.md",
+   "linha_ficha": 50,
+   "palavras": 2,
+   "trecho": "Ver P2025-06-26.",
+   "fontes_declaradas": [
+    "P2025-06-26",
+    "P2025-02-15",
+    "P2024-11-30",
+    "P2024-09-29",
+    "P2025-06-14b",
+    "P2024-09-28",
+    "P2025-11-29",
+    "P2025-07-18",
+    "P2026-03-21"
+   ],
+   "fontes_no_corpus": [
+    "P2025-06-26",
+    "P2025-02-15",
+    "P2024-11-30",
+    "P2024-09-29",
+    "P2025-06-14b",
+    "P2024-09-28",
+    "P2025-11-29",
+    "P2025-07-18",
+    "P2026-03-21"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "sem marca",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-666",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-666-obatala-correspondencia-de-jave-em-ifa.md",
+   "linha_ficha": 46,
+   "palavras": 2,
+   "trecho": "Ver P2025-06-26.",
+   "fontes_declaradas": [
+    "P2025-06-26",
+    "P2024-09-29",
+    "P2025-06-14b",
+    "P2025-11-29"
+   ],
+   "fontes_no_corpus": [
+    "P2025-06-26",
+    "P2024-09-29",
+    "P2025-06-14b",
+    "P2025-11-29"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "sem marca",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-691",
+   "secao": "Etimologia e Grafias",
+   "arquivo": "termos/RC-691-ishvara-isuara---retrato-de-prabrajna-antes-da-queda.md",
+   "linha_ficha": 26,
+   "palavras": 9,
+   "trecho": "**Ishvara (Isuara — Retrato de Prabrajna Antes da Queda)**",
+   "fontes_declaradas": [
+    "P2025-03-15",
+    "P2025-06-14b",
+    "P2024-06-16",
+    "P2022-12-03"
+   ],
+   "fontes_no_corpus": [
+    "P2025-03-15",
+    "P2025-06-14b",
+    "P2024-06-16",
+    "P2022-12-03"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "sem marca",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-691",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-691-ishvara-isuara---retrato-de-prabrajna-antes-da-queda.md",
+   "linha_ficha": 71,
+   "palavras": 17,
+   "trecho": "“Ishvara [...] significa o eu do universo, ou o ego do universo, ou o senhor do universo.”",
+   "fontes_declaradas": [
+    "P2025-03-15",
+    "P2025-06-14b",
+    "P2024-06-16",
+    "P2022-12-03"
+   ],
+   "fontes_no_corpus": [
+    "P2025-03-15",
+    "P2025-06-14b",
+    "P2024-06-16",
+    "P2022-12-03"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-694",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-694-oitavo-dia-da-criacao.md",
+   "linha_ficha": 74,
+   "palavras": 13,
+   "trecho": "“Esse novo tempo desse oitavo dia da criação vai acontecer de todo jeito.”",
+   "fontes_declaradas": [
+    "P2025-02-16",
+    "P2025-02-15",
+    "P2023-06-17"
+   ],
+   "fontes_no_corpus": [
+    "P2025-02-16",
+    "P2025-02-15",
+    "P2023-06-17"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-697",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-697-mao-invisivel-multiforme-conselho-das-nagas.md",
+   "linha_ficha": 62,
+   "palavras": 5,
+   "trecho": "“A mão invisível é multiforme.”",
+   "fontes_declaradas": [
+    "P2025-02-16",
+    "P2024-09-29",
+    "P2025-02-22"
+   ],
+   "fontes_no_corpus": [
+    "P2025-02-16",
+    "P2024-09-29",
+    "P2025-02-22"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-697",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-697-mao-invisivel-multiforme-conselho-das-nagas.md",
+   "linha_ficha": 64,
+   "palavras": 12,
+   "trecho": "“O mais atuante são as interferências discretas, pontuais, que as Nagas fizeram.”",
+   "fontes_declaradas": [
+    "P2025-02-16",
+    "P2024-09-29",
+    "P2025-02-22"
+   ],
+   "fontes_no_corpus": [
+    "P2025-02-16",
+    "P2024-09-29",
+    "P2025-02-22"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-700",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-700-kashyapa.md",
+   "linha_ficha": 70,
+   "palavras": 15,
+   "trecho": "“Kashyapa é um só ser; Asuras são uma porrada de seres, Devas outra, Prachetas outra.”",
+   "fontes_declaradas": [
+    "P2025-02-16",
+    "P2024-11-02",
+    "P2024-08-03"
+   ],
+   "fontes_no_corpus": [
+    "P2025-02-16",
+    "P2024-11-02",
+    "P2024-08-03"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-701",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-701-daksha-e-virini.md",
+   "linha_ficha": 61,
+   "palavras": 4,
+   "trecho": "“Daksha teve 69 filhas.”",
+   "fontes_declaradas": [
+    "P2025-02-16",
+    "P2024-11-02",
+    "P2024-08-03",
+    "P2024-09-28",
+    "P2022-05-07"
+   ],
+   "fontes_no_corpus": [
+    "P2025-02-16",
+    "P2024-11-02",
+    "P2024-08-03",
+    "P2024-09-28",
+    "P2022-05-07"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-703",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-703-postulados-quanticos-como-manual-operativo.md",
+   "linha_ficha": 59,
+   "palavras": 10,
+   "trecho": "“Os postulados quânticos são importantes porque são o manual operativo.”",
+   "fontes_declaradas": [
+    "P2025-02-15"
+   ],
+   "fontes_no_corpus": [
+    "P2025-02-15"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-704",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-704-corpo-sutil-reencarnante.md",
+   "linha_ficha": 64,
+   "palavras": 13,
+   "trecho": "“Existe um corpo sutil, reencarnante, que um espírito particularizado utiliza em cada vida.”",
+   "fontes_declaradas": [
+    "P2025-02-15",
+    "P2024-11-30",
+    "P2024-11-09",
+    "P2024-07-14",
+    "P2024-04-14"
+   ],
+   "fontes_no_corpus": [
+    "P2025-02-15",
+    "P2024-11-30",
+    "P2024-11-09",
+    "P2024-07-14",
+    "P2024-04-14"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-707",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-707-primado-da-informacao.md",
+   "linha_ficha": 49,
+   "palavras": 14,
+   "trecho": "“A informação é quem forma o tempo, a matéria, a energia e o espaço.”",
+   "fontes_declaradas": [
+    "P2025-02-15"
+   ],
+   "fontes_no_corpus": [
+    "P2025-02-15"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-709",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-709-humano-turbinado.md",
+   "linha_ficha": 58,
+   "palavras": 15,
+   "trecho": "“Se não surgir uma raça humana turbinada, os computadores vão dominar a raça humana biológica.”",
+   "fontes_declaradas": [
+    "P2025-02-15",
+    "P2024-07-13"
+   ],
+   "fontes_no_corpus": [
+    "P2025-02-15",
+    "P2024-07-13"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-710",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-710-genes-criticos-genes-dorminhocos.md",
+   "linha_ficha": 66,
+   "palavras": 8,
+   "trecho": "“Genes críticos seriam genes dorminhocos com potencial evolutivo.”",
+   "fontes_declaradas": [
+    "P2025-02-15",
+    "P2021-05-15",
+    "P2020-04-25",
+    "P2021-01-30"
+   ],
+   "fontes_no_corpus": [
+    "P2025-02-15",
+    "P2021-05-15",
+    "P2020-04-25",
+    "P2021-01-30"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-712",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-712-lei-da-mente-do-buda.md",
+   "linha_ficha": 53,
+   "palavras": 20,
+   "trecho": "“O que você pensa, você cria; o que você sente, você atrai; aquilo que aspira, o seu genoma se modifica.”",
+   "fontes_declaradas": [
+    "P2025-02-15",
+    "P2025-06-14b"
+   ],
+   "fontes_no_corpus": [
+    "P2025-02-15",
+    "P2025-06-14b"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-713",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-713-taumaturgia-genetico-quimica.md",
+   "linha_ficha": 58,
+   "palavras": 4,
+   "trecho": "“Aqui exige conhecimento taumatúrgico.”",
+   "fontes_declaradas": [
+    "P2025-02-15",
+    "P2024-11-03",
+    "P2021-05-15",
+    "P2023-10-14",
+    "P2020-04-25",
+    "P2022-03-26",
+    "P2023-12-03"
+   ],
+   "fontes_no_corpus": [
+    "P2025-02-15",
+    "P2024-11-03",
+    "P2021-05-15",
+    "P2023-10-14",
+    "P2020-04-25",
+    "P2022-03-26",
+    "P2023-12-03"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-715",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-715-informacoes-vivas.md",
+   "linha_ficha": 60,
+   "palavras": 5,
+   "trecho": "“Tudo isso é informação viva.”",
+   "fontes_declaradas": [
+    "P2024-11-30",
+    "P2024-07-13"
+   ],
+   "fontes_no_corpus": [
+    "P2024-11-30",
+    "P2024-07-13"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-716",
+   "secao": "Definição Sintética",
+   "arquivo": "termos/RC-716-pia---peso-da-inevitabilidade-ancestral.md",
+   "linha_ficha": 21,
+   "palavras": 6,
+   "trecho": "**PIA — Peso da Inevitabilidade Ancestral**",
+   "fontes_declaradas": [
+    "P2024-11-30",
+    "P2021-01-30",
+    "P2018-12-15"
+   ],
+   "fontes_no_corpus": [
+    "P2024-11-30",
+    "P2021-01-30",
+    "P2018-12-15"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "sem marca",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-716",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-716-pia---peso-da-inevitabilidade-ancestral.md",
+   "linha_ficha": 62,
+   "palavras": 7,
+   "trecho": "“Moros mediu o Peso da Inevitabilidade Ancestral.”",
+   "fontes_declaradas": [
+    "P2024-11-30",
+    "P2021-01-30",
+    "P2018-12-15"
+   ],
+   "fontes_no_corpus": [
+    "P2024-11-30",
+    "P2021-01-30",
+    "P2018-12-15"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-721",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-721-abismo-da-consciencia-cosmica.md",
+   "linha_ficha": 51,
+   "palavras": 18,
+   "trecho": "“Há um abismo na consciência cósmica, há um abismo na consciência espiritual, há um abismo na consciência humana.”",
+   "fontes_declaradas": [
+    "P2024-11-09"
+   ],
+   "fontes_no_corpus": [
+    "P2024-11-09"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-728",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-728-fantasmas-do-passado-mitologico.md",
+   "linha_ficha": 50,
+   "palavras": 13,
+   "trecho": "“O ser humano é meio que um fantasma de tudo o que houve.”",
+   "fontes_declaradas": [
+    "P2024-11-02"
+   ],
+   "fontes_no_corpus": [
+    "P2024-11-02"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-730",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-730-yggdrasil-conglomerado-dos-nove-mundos.md",
+   "linha_ficha": 68,
+   "palavras": 24,
+   "trecho": "“Marte [...] passou a fazer parte desse conglomerado de realidades composto por nove mundos, sendo oito do universo vizinho e um do nosso universo.”",
+   "fontes_declaradas": [
+    "P2024-11-02",
+    "P2024-03-02",
+    "P2024-08-03"
+   ],
+   "fontes_no_corpus": [
+    "P2024-11-02",
+    "P2024-03-02",
+    "P2024-08-03"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-739",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-739-susanoo-teologia-comparada-de-ellam.md",
+   "linha_ficha": 46,
+   "palavras": 75,
+   "trecho": "E, portanto, Amaterasu e Susanoo, que seriam descendentes dos mais velhos e também desse casal de gêmeos — os descendentes dessas duas figuras terminaram todos eles convergindo para um último descendente chamado Ninigi [STT: 'Ninig']. Esses se estabeleceram na Terra, vieram morar na Terra. E todas as crônicas do Kojiki mostram que eles se estabeleceram na Terra, e os descendentes desses que se …",
+   "fontes_declaradas": [
+    "P2024-09-29"
+   ],
+   "fontes_no_corpus": [
+    "P2024-09-29"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-746",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-746-dessensibilizacao-da-condicao-humana.md",
+   "linha_ficha": 54,
+   "palavras": 26,
+   "trecho": "Existe um processo de dessensibilização da condição humana que vem sendo imposto, que vem sendo praticado há milênios e nós humanos somos escravizados a esse processo.",
+   "fontes_declaradas": [
+    "P2024-03-03",
+    "P2026-08-04"
+   ],
+   "fontes_no_corpus": [
+    "P2024-03-03",
+    "P2026-08-04"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-753",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-753-estrangulamento-cognitivo-neural.md",
+   "linha_ficha": 48,
+   "palavras": 38,
+   "trecho": "Chega 400 bilhões de informações. Seu cérebro só tem tempo de decodificar 2.000. E você, ou seja, o eu que você pensa que é, só consegue lidar com 10 bits por segundo. O que é isso? Sacanagem. Escravidão.",
+   "fontes_declaradas": [
+    "P2025-06-14b"
+   ],
+   "fontes_no_corpus": [
+    "P2025-06-14b"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-754",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-754-chave-da-decifracao-universal.md",
+   "linha_ficha": 48,
+   "palavras": 32,
+   "trecho": "De fato, a chave da decifração universal está escondida na consciência humana. Aquela capa da palestra, que tem o cérebro e a chave lá dentro... retrata muito bem esse aspecto da questão.",
+   "fontes_declaradas": [
+    "P2025-06-14b"
+   ],
+   "fontes_no_corpus": [
+    "P2025-06-14b"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-755",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-755-escola-da-decifracao-da-realidade-metodo-druidico.md",
+   "linha_ficha": 76,
+   "palavras": 28,
+   "trecho": "Bloco inserido por despacho do curador (Q-C/Q-D do ciclo F031). Fonte: B016 (*O Quarto Logos*) — livro publicado, obra primária da Base; ordem e epígrafes **verbatim**, sem reformulação.",
+   "fontes_declaradas": [
+    "P2025-06-14b",
+    "P2024-02-03",
+    "P2024-11-03",
+    "P2021-05-15",
+    "P2020-04-25",
+    "P2022-03-26",
+    "P2023-12-03",
+    "P2021-06-26",
+    "B016"
+   ],
+   "fontes_no_corpus": [
+    "P2025-06-14b",
+    "P2024-02-03",
+    "P2024-11-03",
+    "P2021-05-15",
+    "P2020-04-25",
+    "P2022-03-26",
+    "P2023-12-03",
+    "P2021-06-26",
+    "B016"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "sem marca",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-757",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-757-vaishnavismo-vixenuismo-tradicao-hindu.md",
+   "linha_ficha": 53,
+   "palavras": 68,
+   "trecho": "Quem produziu esse purana é o que a gente chama de vaxinavas, ou seja, seguidores de Vishnu. E como os seguidores de Vishnu disputavam com os brahmanes, que eram os seguidores de Brama, e com os shivaístas, que eram os seguidores de Shiva, qual dos três era o maior, esses seguidores começaram a distorcer os fatos sempre para aumentar a grandeza do deus de preferência deles.\" — P2024-03-02",
+   "fontes_declaradas": [
+    "P2024-03-02",
+    "P2023-04-29",
+    "P2023-12-03"
+   ],
+   "fontes_no_corpus": [
+    "P2024-03-02",
+    "P2023-04-29",
+    "P2023-12-03"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-758",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-758-quarto-cerebro-centro-de-sabedoria-vibracional.md",
+   "linha_ficha": 57,
+   "palavras": 29,
+   "trecho": "O Quarto Cérebro é o espaço onde o sentir se reconcilia com a consciência e se transforma em linguagem criadora.\" — O Quarto Logos, cap. 7 (citado em ART-2026-08-18)",
+   "fontes_declaradas": [
+    "ART-2026-08-18",
+    "P2021-05-15",
+    "P2020-04-25",
+    "P2022-03-26",
+    "P2023-12-03"
+   ],
+   "fontes_no_corpus": [
+    "P2021-05-15",
+    "P2020-04-25",
+    "P2022-03-26",
+    "P2023-12-03"
+   ],
+   "fontes_fora_do_corpus": [
+    "ART-2026-08-18"
+   ],
+   "veredito": "FONTE PARCIALMENTE NÃO INGERIDA",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-760",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-760-vrittis-e-cittas-atividades-e-nucleos-mentais.md",
+   "linha_ficha": 50,
+   "palavras": 39,
+   "trecho": "Segundo Patanjali, a mente humana é uma assembleia de cittas que disputam permanentemente o controle do eu daquele ser humano... Isso aqui é a vontade de sobrevivência que loucamente Javé criou para ele mesmo quando ele caiu.\" — P2024-02-03",
+   "fontes_declaradas": [
+    "P2024-02-03",
+    "P2025-11-29",
+    "P2023-11-19",
+    "P2023-09-09",
+    "P2023-07-05",
+    "P2025-02-22",
+    "P2025-06-14b"
+   ],
+   "fontes_no_corpus": [
+    "P2024-02-03",
+    "P2025-11-29",
+    "P2023-11-19",
+    "P2023-09-09",
+    "P2023-07-05",
+    "P2025-02-22",
+    "P2025-06-14b"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-761",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-761-as-cinco-lentes-da-realidade.md",
+   "linha_ficha": 66,
+   "palavras": 116,
+   "trecho": "Existem cinco lentes básicas através das quais a gente pode olhar pra vida, pra realidade que a gente tá inserido e tentar entender como isso começou... se a gente olhar pela lente da mitologia, todas as mitologias vão dizer: 'Isso começou porque um ser criador problemático gerou o que não devia e terminou caindo na própria criação'... Um deus teísta é aquele que se mete em tudo e premia e cast…",
+   "fontes_declaradas": [
+    "P2023-05-13"
+   ],
+   "fontes_no_corpus": [
+    "P2023-05-13"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-763",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-763-as-sete-leis-hermeticas.md",
+   "linha_ficha": 49,
+   "palavras": 96,
+   "trecho": "Quais são as sete leis que o nosso amigo Tot, ao longo desse tempo, foi montando como sendo uma espécie de sete matérias, princípios que os seres todos... deveriam entender: a lei do mentalismo, da correspondência, da vibração, da polaridade, do ritmo, da causa e efeito e a lei do gênero. Tirando a lei do gênero, o resumo das outras seis é: o que você pensa, você cria; o que você sente, você at…",
+   "fontes_declaradas": [
+    "P2023-12-02"
+   ],
+   "fontes_no_corpus": [
+    "P2023-12-02"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-764",
+   "secao": "Definição Sintética",
+   "arquivo": "termos/RC-764-ao-vencedor-as-batatas-paradigma-do-dominio.md",
+   "linha_ficha": 22,
+   "palavras": 48,
+   "trecho": "Os anunnaki em relação aos humanos: pros anunnaki, batatas, os humanos que se ferrassem. Sempre foi assim. E para Javé, anunnaki humano que se ferre, as batatas. É para Javé. Então Javé sempre usou desgraçadamente as suas criaturas-ferramenta por estirpe, por espécie, sem a menor preocupação.\" — P2021-03-27",
+   "fontes_declaradas": [
+    "P2021-03-27"
+   ],
+   "fontes_no_corpus": [
+    "P2021-03-27"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-764",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-764-ao-vencedor-as-batatas-paradigma-do-dominio.md",
+   "linha_ficha": 49,
+   "palavras": 98,
+   "trecho": "Ao perdedor a vergonha, a desonra da derrota, e ao vencedor as batatas.' Então essa expressão de Machado de Assis, 'ao vencedor as batatas', reside nessa crítica que ele faz a esses supremacistas, que sempre são os vencedores, os pobres que se exploram, que se ferrem, e aos vencedores, as batatas, nesse sentido. E por que que eu tô fazendo essa brincadeira? Porque Hitler criou o nazismo exatame…",
+   "fontes_declaradas": [
+    "P2021-03-27"
+   ],
+   "fontes_no_corpus": [
+    "P2021-03-27"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-767",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-767-os-256-caminhos-profetizaveis-de-orunmila.md",
+   "linha_ficha": 52,
+   "palavras": 50,
+   "trecho": "Orunmilá percebeu, junto com outros seres, que a vida nesse universo do vizinho faliu e os códigos tinham que ser transferidos para cá, para a vida biológica. Porumilá percebeu ou construiu, retirando essa informação da Wyrd, os 256 caminhos possíveis de serem trilhados pelo conjunto das entidades individualizadas.\" — P2025-11-29",
+   "fontes_declaradas": [
+    "P2025-11-29",
+    "P2025-07-18"
+   ],
+   "fontes_no_corpus": [
+    "P2025-11-29",
+    "P2025-07-18"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-767",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-767-os-256-caminhos-profetizaveis-de-orunmila.md",
+   "linha_ficha": 54,
+   "palavras": 62,
+   "trecho": "Na divinosfera de Orunmilá, quem manda é o código de Xangô. Porque Orunmilá nunca estabeleceu regras no sentido de lei. Ele estabeleceu versos no sentido de orientar. E como ele largou, Xangô com o seu código de honra de Orixá é que estabeleceu, e essa regra vale para todos os terreiros... O que vale é o código moral de Xangô.\" — P2025-11-29",
+   "fontes_declaradas": [
+    "P2025-11-29",
+    "P2025-07-18"
+   ],
+   "fontes_no_corpus": [
+    "P2025-11-29",
+    "P2025-07-18"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-769",
+   "secao": "?",
+   "arquivo": "termos/RC-769-corpos-fenva-terceira-forma-de-vida.md",
+   "linha_ficha": 13,
+   "palavras": 69,
+   "trecho": "**REMISSIVA — [U26-MERGE 13-09-2026]** Este código foi **fundido em RC-064 («Fenvans»)** por despacho do Curador (o `?` do retorno 1.3: «Fenvã = Fenvan»). O verbete canônico é **RC-064** — é ele que deve ser citado. O registro abaixo fica preservado como lastro histórico da abertura: a Ampliação P2026-03-21 e a fonte migraram byte a byte para a ficha canônica; o HOLD P7c foi baixado com a decis…",
+   "fontes_declaradas": [
+    "P2026-07-25",
+    "P2026-03-21"
+   ],
+   "fontes_no_corpus": [
+    "P2026-07-25",
+    "P2026-03-21"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "«»",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-778",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-778-especiacao-a-partir-do-dna-humano.md",
+   "linha_ficha": 45,
+   "palavras": 42,
+   "trecho": "A humanidade não é a joia — é a fábrica da próxima geração de vida racionalizada no universo. Esse é o trabalho dela. A humanidade tem que produzir DNA para gerar milhares de novas espécies.» — P2018-10-06, U0004 (parafraseado de fala STT)",
+   "fontes_declaradas": [
+    "P2018-10-06"
+   ],
+   "fontes_no_corpus": [
+    "P2018-10-06"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "«»",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-779",
+   "secao": "Citações-chave",
+   "arquivo": "termos/RC-779-momento-zero-de-pandora.md",
+   "linha_ficha": 50,
+   "palavras": 35,
+   "trecho": "Pandora é o momento zero da humanidade. Sem ela, nós seríamos mais uma espécie de lobo, urso. Foi o destrave de Pandora que fez a humanidade se diferenciar.» — P2018-10-06, U0004 (parafraseado de fala STT)",
+   "fontes_declaradas": [
+    "P2018-10-06"
+   ],
+   "fontes_no_corpus": [
+    "P2018-10-06"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "«»",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-834",
+   "secao": "Definição Sintética",
+   "arquivo": "termos/RC-834-familia-aya.md",
+   "linha_ficha": 16,
+   "palavras": 35,
+   "trecho": "foi de Sophia que as Famílias Aya e Aye extraíram parte do DNA para a inseminação artificial de Maria — em palavras simples, Sophia seria o \"pai biológico\" de Jesus (B031).» — RC-009 (ficha canônica)",
+   "fontes_declaradas": [
+    "P2023-12-17",
+    "B031",
+    "P2023-02-11",
+    "P2026-03-21"
+   ],
+   "fontes_no_corpus": [
+    "P2023-12-17",
+    "B031",
+    "P2023-02-11",
+    "P2026-03-21"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "«»",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-834",
+   "secao": "Termos Relacionados",
+   "arquivo": "termos/RC-834-familia-aya.md",
+   "linha_ficha": 40,
+   "palavras": 51,
+   "trecho": "**Esta ficha é uma REMISSÃO** para a entrada canônica de **Aya** em **RC-009 — Sophia (Cristo Cósmico)**.  Foi criada para corrigir a grafia informal \"Aia\" que aparecia em algumas palestras (incluindo a P2023-12-17 processada em 2026-08-31), restabelecendo a grafia canônica **\"Aya\"** que aparece em **RC-009-sophia-cristo-cosmico.md** e em **B031** (livro do autor).",
+   "fontes_declaradas": [
+    "P2023-12-17",
+    "B031",
+    "P2023-02-11",
+    "P2026-03-21"
+   ],
+   "fontes_no_corpus": [
+    "P2023-12-17",
+    "B031",
+    "P2023-02-11",
+    "P2026-03-21"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-835",
+   "secao": "Definição Sintética",
+   "arquivo": "termos/RC-835-familia-aye.md",
+   "linha_ficha": 16,
+   "palavras": 35,
+   "trecho": "foi de Sophia que as Famílias Aya e Aye extraíram parte do DNA para a inseminação artificial de Maria — em palavras simples, Sophia seria o \"pai biológico\" de Jesus (B031).» — RC-009 (ficha canônica)",
+   "fontes_declaradas": [
+    "P2023-12-17",
+    "B031"
+   ],
+   "fontes_no_corpus": [
+    "P2023-12-17",
+    "B031"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "«»",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-835",
+   "secao": "Termos Relacionados",
+   "arquivo": "termos/RC-835-familia-aye.md",
+   "linha_ficha": 40,
+   "palavras": 51,
+   "trecho": "**Esta ficha é uma REMISSÃO** para a entrada canônica de **Aye** em **RC-009 — Sophia (Cristo Cósmico)**.  Foi criada para corrigir a grafia informal \"Aie\" que aparecia em algumas palestras (incluindo a P2023-12-17 processada em 2026-08-31), restabelecendo a grafia canônica **\"Aye\"** que aparece em **RC-009-sophia-cristo-cosmico.md** e em **B031** (livro do autor).",
+   "fontes_declaradas": [
+    "P2023-12-17",
+    "B031"
+   ],
+   "fontes_no_corpus": [
+    "P2023-12-17",
+    "B031"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "aspas",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-862",
+   "secao": "Contexto / Origem",
+   "arquivo": "termos/RC-862-essenios.md",
+   "linha_ficha": 21,
+   "palavras": 35,
+   "trecho": "José casou com Maria, Isabel e Zacarias tiveram um filho e se filho foi criado pelos Essênios, conhecia todas as escrituras do povo judeu, o nome dele era João, tornou se um profeta todo poderoso...",
+   "fontes_declaradas": [
+    "P2023-02-11",
+    "P2023-12-25-01"
+   ],
+   "fontes_no_corpus": [
+    "P2023-02-11"
+   ],
+   "fontes_fora_do_corpus": [
+    "P2023-12-25-01"
+   ],
+   "veredito": "FONTE PARCIALMENTE NÃO INGERIDA",
+   "marcas": "«»",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-872",
+   "secao": "?",
+   "arquivo": "termos/RC-872-rakshasas.md",
+   "linha_ficha": 15,
+   "palavras": 48,
+   "trecho": "**REMISSIVA — [F045-MERGE 10-09-2026]** Este código é **duplicata absorvida por RC-581 («Rakshasas»)**. O verbete canônico é **RC-581** — é ele que deve ser citado. O registro abaixo fica preservado como lastro histórico da abertura (título original, fonte única P2022-07-16 e referências do cadastro, migrados para o verbete canônico).",
+   "fontes_declaradas": [
+    "P2022-07-16"
+   ],
+   "fontes_no_corpus": [
+    "P2022-07-16"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "«»",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-887",
+   "secao": "Contexto / Origem",
+   "arquivo": "termos/RC-887-nag-hammadi.md",
+   "linha_ficha": 21,
+   "palavras": 59,
+   "trecho": "Quando eles souberam que legiões de tropas romanas estavam destruindo livros hereges, eles então esconderam, no século IV provavelmente no ano de 374, esconderam vários códices de papiros em uma certa caverna, uma região na época chamada Nag Hammadi, e que ainda continua sendo chamada assim... os livros gnósticos foram todos cancelados, e estes em língua copta foram escondidos.",
+   "fontes_declaradas": [
+    "P2022-09-17",
+    "P2023-12-25-04"
+   ],
+   "fontes_no_corpus": [
+    "P2022-09-17"
+   ],
+   "fontes_fora_do_corpus": [
+    "P2023-12-25-04"
+   ],
+   "veredito": "FONTE PARCIALMENTE NÃO INGERIDA",
+   "marcas": "«»",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-927",
+   "secao": "Contexto / Origem",
+   "arquivo": "termos/RC-927-sai-baba-de-shirdi-shirdi-sai-baba.md",
+   "linha_ficha": 24,
+   "palavras": 14,
+   "trecho": "Demarcação: abaixo, fatos biográficos verificáveis do mundo (contexto histórico-espiritual), **não** afirmações das Revelações Cósmicas.",
+   "fontes_declaradas": [
+    "B060",
+    "P2012-02-19"
+   ],
+   "fontes_no_corpus": [
+    "B060",
+    "P2012-02-19"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "sem marca",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-927",
+   "secao": "Observações",
+   "arquivo": "termos/RC-927-sai-baba-de-shirdi-shirdi-sai-baba.md",
+   "linha_ficha": 51,
+   "palavras": 19,
+   "trecho": "⚠️ Seção de **interpretação editorial (Assistente)**, sem ancoragem direta em fonte RC versionada. Não confundir com doutrina de Ellam.",
+   "fontes_declaradas": [
+    "B060",
+    "P2012-02-19"
+   ],
+   "fontes_no_corpus": [
+    "B060",
+    "P2012-02-19"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "sem marca",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-928",
+   "secao": "Contexto / Origem",
+   "arquivo": "termos/RC-928-sathya-sai-baba.md",
+   "linha_ficha": 24,
+   "palavras": 11,
+   "trecho": "Demarcação: fatos biográficos verificáveis do mundo, **não** afirmações das Revelações Cósmicas.",
+   "fontes_declaradas": [
+    "B060",
+    "B031",
+    "P2012-02-19"
+   ],
+   "fontes_no_corpus": [
+    "B060",
+    "B031",
+    "P2012-02-19"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "sem marca",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-928",
+   "secao": "Observações",
+   "arquivo": "termos/RC-928-sathya-sai-baba.md",
+   "linha_ficha": 56,
+   "palavras": 17,
+   "trecho": "⚠️ Interpretação editorial (Assistente), sem ancoragem direta em fonte RC versionada. Não confundir com doutrina de Ellam.",
+   "fontes_declaradas": [
+    "B060",
+    "B031",
+    "P2012-02-19"
+   ],
+   "fontes_no_corpus": [
+    "B060",
+    "B031",
+    "P2012-02-19"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "sem marca",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-929",
+   "secao": "Contexto / Origem",
+   "arquivo": "termos/RC-929-prema-sai-prima-sai-prem-sai.md",
+   "linha_ficha": 29,
+   "palavras": 11,
+   "trecho": "Demarcação: contexto verificável do mundo, **não** afirmação doutrinária das Revelações Cósmicas.",
+   "fontes_declaradas": [
+    "B031",
+    "B060",
+    "P2012-02-19"
+   ],
+   "fontes_no_corpus": [
+    "B031",
+    "B060",
+    "P2012-02-19"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "sem marca",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-929",
+   "secao": "Observações",
+   "arquivo": "termos/RC-929-prema-sai-prima-sai-prem-sai.md",
+   "linha_ficha": 55,
+   "palavras": 17,
+   "trecho": "⚠️ Interpretação editorial (Assistente), sem ancoragem direta em fonte RC versionada. Não confundir com doutrina de Ellam.",
+   "fontes_declaradas": [
+    "B031",
+    "B060",
+    "P2012-02-19"
+   ],
+   "fontes_no_corpus": [
+    "B031",
+    "B060",
+    "P2012-02-19"
+   ],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "sem marca",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-936",
+   "secao": "?",
+   "arquivo": "termos/RC-936-choque-de-realidade.md",
+   "linha_ficha": 15,
+   "palavras": 47,
+   "trecho": "**REMISSIVA — [F045-MERGE 07-09-2026]** Este código é **duplicata absorvida por RC-898 («Choque de Realidade»)**. O verbete canônico é **RC-898** — é ele que deve ser citado. O conteúdo abaixo fica preservado como registro histórico da abertura F043-T3 (Anel C, definição do Glossário Krys Amon como fonte secundária).",
+   "fontes_declaradas": [],
+   "fontes_no_corpus": [],
+   "fontes_fora_do_corpus": [],
+   "veredito": "PARÁFRASE",
+   "marcas": "«»",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-942",
+   "secao": "Contexto / Origem",
+   "arquivo": "termos/RC-942-messias.md",
+   "linha_ficha": 26,
+   "palavras": 45,
+   "trecho": "o homem Jesus não seria o avatar de Javé, seria o Messias, seria o enviado, seria aquele que viria super poderoso em nome de Javé, resolver o tema principal e mais tarde foi transposto para as páginas da Bíblia, que tema era esse? Um Criador...",
+   "fontes_declaradas": [
+    "P2023-12-25-01",
+    "P2023-12-25-02",
+    "P2023-12-25-03",
+    "P2020-04-04"
+   ],
+   "fontes_no_corpus": [
+    "P2020-04-04"
+   ],
+   "fontes_fora_do_corpus": [
+    "P2023-12-25-01",
+    "P2023-12-25-02",
+    "P2023-12-25-03"
+   ],
+   "veredito": "FONTE PARCIALMENTE NÃO INGERIDA",
+   "marcas": "«»",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-943",
+   "secao": "Contexto / Origem",
+   "arquivo": "termos/RC-943-maria-madalena.md",
+   "linha_ficha": 26,
+   "palavras": 37,
+   "trecho": "agora Jesus iniciava uma terceira fase, quando ele chamou Maria Madalena e pediu para ela chamar mais quatro mulheres de Jerusalém e alguns apóstolos, porque ele, Jesus, iria ditar uma nova revelação, agora que estava como ressuscitado...",
+   "fontes_declaradas": [
+    "P2023-12-25-03",
+    "P2023-12-25-05"
+   ],
+   "fontes_no_corpus": [],
+   "fontes_fora_do_corpus": [
+    "P2023-12-25-03",
+    "P2023-12-25-05"
+   ],
+   "veredito": "FONTE NÃO INGERIDA",
+   "marcas": "«»",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-943",
+   "secao": "Contexto / Origem",
+   "arquivo": "termos/RC-943-maria-madalena.md",
+   "linha_ficha": 30,
+   "palavras": 27,
+   "trecho": "Jesus o Vivo, o Ressuscitado que através de Madalena, criou uma outra revelação totalmente diferente... A igreja preferiu a versão que Paulo criou. Paulo não conheceu Jesus...",
+   "fontes_declaradas": [
+    "P2023-12-25-03",
+    "P2023-12-25-05"
+   ],
+   "fontes_no_corpus": [],
+   "fontes_fora_do_corpus": [
+    "P2023-12-25-03",
+    "P2023-12-25-05"
+   ],
+   "veredito": "FONTE NÃO INGERIDA",
+   "marcas": "«»",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-944",
+   "secao": "Contexto / Origem",
+   "arquivo": "termos/RC-944-joao-batista.md",
+   "linha_ficha": 26,
+   "palavras": 40,
+   "trecho": "Depois de 400 anos de silêncio profético, João Batista começou a dizer que o Messias iria aparecer no tempo da vida dele, que era naquele tempo que aquele Messias profetizado na faixa de 2000 anos, finalmente tinha chegado o momento.",
+   "fontes_declaradas": [
+    "P2023-12-25-01",
+    "P2023-12-25-02"
+   ],
+   "fontes_no_corpus": [],
+   "fontes_fora_do_corpus": [
+    "P2023-12-25-01",
+    "P2023-12-25-02"
+   ],
+   "veredito": "FONTE NÃO INGERIDA",
+   "marcas": "«»",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-944",
+   "secao": "Contexto / Origem",
+   "arquivo": "termos/RC-944-joao-batista.md",
+   "linha_ficha": 30,
+   "palavras": 22,
+   "trecho": "ele poderia ter iniciado seu ministério público, sem passar pelas mãos de João Batista... pelo batismo de João Batista. Existiam outras maneiras.",
+   "fontes_declaradas": [
+    "P2023-12-25-01",
+    "P2023-12-25-02"
+   ],
+   "fontes_no_corpus": [],
+   "fontes_fora_do_corpus": [
+    "P2023-12-25-01",
+    "P2023-12-25-02"
+   ],
+   "veredito": "FONTE NÃO INGERIDA",
+   "marcas": "«»",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-945",
+   "secao": "Contexto / Origem",
+   "arquivo": "termos/RC-945-pedro.md",
+   "linha_ficha": 26,
+   "palavras": 45,
+   "trecho": "No dia em que Jesus foi preso pela turma do Sinédrio, era para prender toda a turma de Jesus. Pedro negou várias vezes. Foi quando Jesus percebeu que aqueles 11 apóstolos que ele havia escolhido lá da Galileia, porque o 12º, era Judas da Judeia...",
+   "fontes_declaradas": [
+    "P2023-12-25-03"
+   ],
+   "fontes_no_corpus": [],
+   "fontes_fora_do_corpus": [
+    "P2023-12-25-03"
+   ],
+   "veredito": "FONTE NÃO INGERIDA",
+   "marcas": "«»",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-946",
+   "secao": "Contexto / Origem",
+   "arquivo": "termos/RC-946-poncio-pilatos-caifas-sinedrio.md",
+   "linha_ficha": 30,
+   "palavras": 23,
+   "trecho": "Ah! Jesus foi crucificado porque... o Sinédrio judaico... é uma redundância, um pleonasmo porque o Sinédrio só existe no judaísmo... Foi Pôncio Pilatos.",
+   "fontes_declaradas": [
+    "P2023-12-25-03",
+    "P2023-12-25-04"
+   ],
+   "fontes_no_corpus": [],
+   "fontes_fora_do_corpus": [
+    "P2023-12-25-03",
+    "P2023-12-25-04"
+   ],
+   "veredito": "FONTE NÃO INGERIDA",
+   "marcas": "«»",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-946",
+   "secao": "Contexto / Origem",
+   "arquivo": "termos/RC-946-poncio-pilatos-caifas-sinedrio.md",
+   "linha_ficha": 34,
+   "palavras": 36,
+   "trecho": "quando Caifás e Anás descobrem isso, vão para cima de Pilatos. Pilatos abre imediatamente uma verificação ou acusação em cima do centurião... O centurião apareceu como sendo alguém que teria sido subornado por José de Arimatéi...",
+   "fontes_declaradas": [
+    "P2023-12-25-03",
+    "P2023-12-25-04"
+   ],
+   "fontes_no_corpus": [],
+   "fontes_fora_do_corpus": [
+    "P2023-12-25-03",
+    "P2023-12-25-04"
+   ],
+   "veredito": "FONTE NÃO INGERIDA",
+   "marcas": "«»",
+   "ja_reanexado": false
+  },
+  {
+   "cod": "RC-946",
+   "secao": "Contexto / Origem",
+   "arquivo": "termos/RC-946-poncio-pilatos-caifas-sinedrio.md",
+   "linha_ficha": 38,
+   "palavras": 26,
+   "trecho": "Pôncio Pilatos, que representavam os romanos lá na crucificação, não queria crucificar Jesus. Ele tentou. Ele colocou Barrabás para dar uma opção para a turba decidir.",
+   "fontes_declaradas": [
+    "P2023-12-25-03",
+    "P2023-12-25-04"
+   ],
+   "fontes_no_corpus": [],
+   "fontes_fora_do_corpus": [
+    "P2023-12-25-03",
+    "P2023-12-25-04"
+   ],
+   "veredito": "FONTE NÃO INGERIDA",
+   "marcas": "«»",
+   "ja_reanexado": false
+  }
+ ]
+}
