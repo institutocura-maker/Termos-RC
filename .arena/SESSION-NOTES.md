@@ -4143,3 +4143,18 @@ quiser, ingerir as obras ausentes para recuperar 35 órfãos.
 - As 9 passam: vãos 4 a 257 · 13 fragmentos · 0 recusas · 4 palavras omitidas.
 - Limitação declarada: II-077, II-111, II-166 terminam truncadas por artefactos
   de STT («pra»/«para», «serem»/«seres», «chivo»/«Shiva»). Decisão do Curador.
+
+## U97 — Refutação da normalização das fontes (Fase 1)
+Despacho mandava injectar \n\n nas 9 fontes. NÃO SE EXECUTA — arquiva-se a
+refutação em `diagnostico/U97-REFUTACAO-NORMALIZACAO-FONTES.md`.
+- Premissa falsa: as 9 têm 2-23 linhas em branco e 2-19 blocos. CR solitário=0
+  em 158 obras.
+- Causa real: linhas gigantescas (P2022-12-17 tem uma de 112 921 chars).
+- SIMULAÇÃO da heurística: os vãos cairiam para 11-115 (abaixo de 300, um
+  "sucesso") mas reteriam só 4-6 palavras das 16-37. O vão cai porque os
+  fragmentos distantes DEIXAM DE SER ENCONTRADOS (mudam de bloco), não porque
+  o texto melhore. Falso passe: a métrica mediria o contentor, não a distância.
+- Custo: 974 citações na base, 25 apontam às 9 obras; inserir quebras deslocaria
+  a numeração e corrompê-las-ia em silêncio.
+- R2 (reconstrução de parágrafos) continua a ser o caminho — mas como VISTA
+  DERIVADA, nunca como reescrita de `original.txt`.
