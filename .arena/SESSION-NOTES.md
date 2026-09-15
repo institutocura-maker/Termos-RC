@@ -4123,3 +4123,23 @@ quiser, ingerir as obras ausentes para recuperar 35 órfãos.
   os DOIS marcadores. O reemissor da U92 (` … ` único) apagaria a distinção.
 - Provas: comporta A 293 fragmentos, 0 recusas · T5 649/8 801, 0 falhas ·
   suíte OK · idempotência nas duas ferramentas.
+
+## U96 — A5/Fase 1: resgate das 9 adiadas (REFUTAÇÃO do diagnóstico da U94)
+- A U94 atribuíra os vãos absurdos à falta de quebras de parágrafo. MEDIÇÃO
+  DIRECTA REFUTA: as 9 obras têm 2 a 23 linhas em branco e 2 a 19 blocos; e
+  CR solitário = 0 em 158 obras (terminadores estão sãos).
+- CAUSA REAL: linhas gigantescas. P2022-12-17 tem uma linha de 112 921 chars;
+  P2025-02-15, 34 076. O bloco vira contentor de dezenas de milhar de palavras
+  e o difflib pesca «a», «O», «Javé», «existe.» a milhares de palavras.
+- Em 7 dos 9: um fragmento longo com toda a substância + 1-3 fragmentos de
+  1-2 palavras pescados longe, estando as palavras em falta COLADAS ao
+  fragmento dominante (ver II-085: «o ser humano, ele» está mesmo antes).
+- NORMALIZAR AS FONTES (instrução original) NÃO ERA O REMÉDIO: não tocaria na
+  causa (de conteúdo, não de estrutura) e deslocaria a numeração de linhas,
+  invalidando o aparelho `original.txt LNNNN` de que a base depende.
+- SOLUÇÃO (no alinhador, não nas fontes): janela de salvamento CONDICIONAL
+  (só actua se vão global > MAX_VAO) + comporta F (micro-fragmentos isolados).
+  Sendo condicional, as 59 da U94 ficam textualmente idênticas — verificado.
+- As 9 passam: vãos 4 a 257 · 13 fragmentos · 0 recusas · 4 palavras omitidas.
+- Limitação declarada: II-077, II-111, II-166 terminam truncadas por artefactos
+  de STT («pra»/«para», «serem»/«seres», «chivo»/«Shiva»). Decisão do Curador.

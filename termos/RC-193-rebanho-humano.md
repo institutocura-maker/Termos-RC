@@ -48,7 +48,7 @@ Na cosmologia de Ellam, o conjunto dos humanos que se comportam dentro do mesmo 
 | B044 | — | obra |
 
 ## Citações-chave
-> "Existe um rebanho físico altamente manipulado pelas macroforças que dominam a cultura dos encarnados, mas há um rebanho espiritual totalmente fragmentado."
+> «um rebanho físico altamente manipulado pelas macroforças que dominam a cultura dos encarnados, mas há um rebanho espiritual totalmente fragmentado.» — P2024-07-14 · `original.txt` L95 · reanexado à fonte na U94 (A5); o trecho legado não trazia aparelho de linha nem era verificável byte a byte.
 
 ## Ampliação
 ### P2024-07-14

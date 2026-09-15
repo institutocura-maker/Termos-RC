@@ -37,7 +37,7 @@ Mecanismo de criação dos seres do universo vizinho **sem o recurso da sexualid
 
 ## Citações-chave
 
-> "O princípio da externalização é o princípio evolutivo mais importante desses seres antes de surgir a sexualidade. É assim que esses seres surgiram." — P2026-07-25
+> «princípio da externalização é o princípio evolutivo mais importante desses seres antes de surgir a sexualidade. É assim que esses» — P2026-07-25 · `original.txt` L274 · reanexado à fonte na U94 (A5); o trecho legado não trazia aparelho de linha nem era verificável byte a byte.
 
 ## Observações
 

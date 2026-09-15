@@ -69,7 +69,7 @@ Na RC, colegiado de seres = "Sophias e Indras; Conselho dos 70" — linhagem de 
 
 ## Citações-chave
 
-> "A vinda de Sofia aqui é uma promessa que Jesus ou humano fez, mas dentro de um contexto geopolítico de intriga entre os arcontes, ver quem deles herdava..." — P2023-12-02
+> «vinda de Sofia aqui é uma promessa que Jesus ou humano fez, mas dentro de um contexto geopolítico de» » […] « «intriga entre os» » […] « «ver quem deles herdava» — P2023-12-02 · `original.txt` L110 · reconstrução aprovada pelo Curador na U93; 2 palavras da fonte omitidas — » […] « assinala o fosso, ao passo que » … « assinala apenas quebra de hard-wrap.
 
 ## Ampliação
 ### P2026-07-25

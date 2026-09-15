@@ -48,7 +48,7 @@ Aparece em **P2019-04-14**, U0003. Contexto: a palestra explica o **mecanismo de
 | Mitologia hindu (Rudra) | — | — | obra canônica (fonte secundária, paralelo) |
 
 ## Citações-chave
-> «Esse triste Novela poderia ser livros de receita do senhor Reit ou do senhor Socar ou Socar. Subtítulo: Como se alimentar dos melhores perfumes? Neste cé a gente faz livro de receitas maravilhosas em cima de cadáveres.» — P2019-04-14, U0003
+> «triste Novela poderia ser livros de receita do senhor Reit ou do senhor Socar ou Socar. Subtítulo: Como se alimentar dos melhores perfumes? Neste cé a gente faz livro de receitas maravilhosas em cima de cadáveres.» — P2019-04-14 · `original.txt` L9 · reanexado à fonte na U94 (A5); o trecho legado não trazia aparelho de linha nem era verificável byte a byte.
 
 > «Socar, por sua vez, e aqui vem a notícia, sempre foi manipulado pelos senhores trimurte. No caso egípcio, os senhores atrimurte eram conhecidos como Sh[iva] e que retiravam dele as sequências genéticas e outros elementos sutis que sempre necessitava. O mestre Soca que se sentia, ele na verdade era só um instrumento e ainda é de brama virgem Chiva [Brahma + Shiva] que retiravam dele.» — P2019-04-14, U0003
 

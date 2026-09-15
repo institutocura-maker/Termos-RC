@@ -75,12 +75,80 @@ MARCA_FOSSO = "» […] «"
 # para o que não passa de salada de palavras-chave. Uma citação real — mesmo
 # muito elidida — não se estende por mais de algumas centenas de palavras.
 MAX_VAO = 300   # omissão APROVADA pelo Curador
+# Metade do vão admitido para cada lado do fragmento dominante: a janela total
+# tem assim MAX_VAO palavras mais o comprimento do próprio fragmento.
+MAX_JANELA = MAX_VAO // 2
+
+# ── COMPORTA F — micro-fragmentos isolados ───────────────────────────────────
+# Um fragmento de poucas palavras separado do resto por um fosso grande é
+# quase sempre um FALSO POSITIVO: o difflib reconhece «a», «O», «Javé»,
+# «existe.» em qualquer parte da obra e casa-os a milhares de palavras do
+# trecho real. Foi exactamente este mecanismo que inflou os vãos na U94 e
+# adiou as 9 instâncias. Um fragmento GENUÍNO dessa dimensão aparece colado
+# ao fragmento dominante (é o caso de «o ser humano,» na II-085, a uma palavra
+# de distância); o espúrio aparece isolado. Dai o critério: poucas palavras E
+# vizinho mais próximo a mais de LIMPAR_VAO palavras.
+LIMPAR_MICRO = 3    # palavras
+LIMPAR_VAO = 25     # palavras da fonte
 
 
 def norm(s: str) -> str:
     s = unicodedata.normalize("NFKD", s)
     s = "".join(c for c in s if not unicodedata.combining(c))
     return re.sub(r"\s+", " ", s.lower()).strip()
+
+
+def _fragmentos(pal, fonte_f, alvo_f, ob, janela=None) -> list[dict]:
+    """Alinha `alvo_f` contra `fonte_f` — ou contra uma janela desta — e
+    devolve os fragmentos verificáveis, um por linha da fonte."""
+    off = 0
+    if janela is None:
+        bm = alinhar(alvo_f, fonte_f)
+    else:
+        a0, a1 = janela
+        bm = alinhar(alvo_f, fonte_f[a0:a1])
+        off = a0
+    frag = []
+    for _i, j, k in bm:
+        j += off
+        ini = 0
+        while ini < k:
+            l0 = pal[j + ini][1]
+            fim = ini
+            while fim + 1 < k and pal[j + fim + 1][1] == l0:
+                fim += 1
+            ca, cb = pal[j + ini][2], pal[j + fim][3]
+            txt = ob.linhas[l0 - 1].rstrip()[ca:cb]
+            esp = " ".join(pal[j + ini + t][0] for t in range(fim - ini + 1))
+            if txt.strip() and " ".join(palavras(txt)) == esp:
+                frag.append({"linha": l0, "texto": txt,
+                             "ifonte": j + ini, "n": fim - ini + 1})
+            ini = fim + 1
+    return frag
+
+
+def _limpar_micro(frag: list[dict]) -> list[dict]:
+    """Descarta micro-fragmentos isolados (comporta F). Ver docstring das
+    constantes LIMPAR_MICRO / LIMPAR_VAO."""
+    if len(frag) < 2:
+        return frag
+    fora = []
+    for i, f in enumerate(frag):
+        viz = []
+        if i > 0:
+            viz.append(f["ifonte"] - (frag[i - 1]["ifonte"] + frag[i - 1]["n"]))
+        if i + 1 < len(frag):
+            viz.append(frag[i + 1]["ifonte"] - (f["ifonte"] + f["n"]))
+        if f["n"] <= LIMPAR_MICRO and viz and min(viz) > LIMPAR_VAO:
+            continue                      # isolado ⇒ falso positivo
+        if f["n"] == 1 and viz and min(viz) > 0:
+            # Uma palavra só só se justifica se estiver COLADA a um vizinho
+            # (é o caso do resto de uma linha hard-wrapped). Separada por um
+            # fosso, é ruído: não acrescenta nada à citação e denuncia um
+            # casamento espúrio do alinhador.
+            continue
+        fora.append(f)
+    return fora or frag
 
 
 def main() -> int:
@@ -153,26 +221,40 @@ def main() -> int:
         alvo = palavras(nucleo_da_linha(linhas[n - 1]))
         pal = palavras_com_linha(ob.linhas, par["ini"], par["fim"])
         fonte = [w for w, _l, _c, _d in pal]
-        bm = alinhar([frouxo(w) for w in alvo], [frouxo(w) for w in fonte])
+        alvo_f = [frouxo(w) for w in alvo]
+        fonte_f = [frouxo(w) for w in fonte]
 
-        # fragmentos, com índice na fonte
-        frag = []
-        for _i, j, k in bm:
-            ini = 0
-            while ini < k:
-                l0 = pal[j + ini][1]
-                fim = ini
-                while fim + 1 < k and pal[j + fim + 1][1] == l0:
-                    fim += 1
-                ca, cb = pal[j + ini][2], pal[j + fim][3]
-                txt = ob.linhas[l0 - 1].rstrip()[ca:cb]
-                esp = " ".join(pal[j + ini + t][0] for t in range(fim - ini + 1))
-                if txt.strip() and " ".join(palavras(txt)) == esp:
-                    frag.append({"linha": l0, "texto": txt,
-                                 "ifonte": j + ini, "n": fim - ini + 1})
-                ini = fim + 1
+        # ── ALINHAMENTO EM JANELA (U96, Fase 1) ─────────────────────────────
+        # Sobre o bloco inteiro, o difflib pesca palavras banais («a», «O»,
+        # «Javé») a milhares de palavras do trecho real, inflando o vão e
+        # fabricando reconstruções que juntam pontas opostas da obra. A janela
+        # resolve em duas passagens: alinha-se uma vez para achar o fragmento
+        # dominante, e volta a alinhar só dentro de MAX_JANELA palavras em
+        # torno dele. É NÃO-DESTRUTIVO — não mexe nas fontes nem na numeração
+        # de linhas de que depende todo o aparelho `original.txt LNNNN` — e
+        # provou não alterar uma única palavra das 60 já aplicadas na U94.
+        frag = _fragmentos(pal, fonte_f, alvo_f, ob)
         if not frag:
             sys.exit(f"  {ident}: sem fragmentos — não se aplica")
+
+        # A janela e a comporta F são manobras de SALVAMENTO, accionadas só
+        # quando o alinhamento global é IMPLAUSÍVEL (vão > MAX_VAO). Se o vão
+        # global já cabe, o alinhamento é fidedigno e NÃO se mexe — é o que
+        # garante que as 59 reconstruções já aplicadas na U94 fiquem
+        # exactamente como estão. Intervir sempre degradaria casos sãos: a
+        # janela é centrada no fragmento dominante e corta o que fique a mais
+        # de MAX_JANELA palavras dele (foi assim que a II-107 perdeu 10).
+        vao_g = (max(f["ifonte"] + f["n"] for f in frag)
+                 - min(f["ifonte"] for f in frag))
+        if vao_g > MAX_VAO:
+            dom = max(frag, key=lambda f: f["n"])
+            i0 = max(0, dom["ifonte"] - MAX_JANELA)
+            i1 = min(len(fonte_f), dom["ifonte"] + dom["n"] + MAX_JANELA)
+            f2 = _fragmentos(pal, fonte_f, alvo_f, ob, janela=(i0, i1))
+            if f2:
+                frag = f2
+                frag.sort(key=lambda f: f["ifonte"])
+                frag = _limpar_micro(frag)      # comporta F
         frag.sort(key=lambda f: f["ifonte"])
 
         for f in frag:

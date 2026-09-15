@@ -46,7 +46,7 @@ Lúcifer (Yel Luzbel) (RC-078); Brahma (Brajna) (RC-037); Shiva (Savna) (RC-102)
 
 
 ## Citações-chave
-> ““Ancorar-se no nosso universo exatamente sobre o sistema solar e mais especificamente voltado para a Terra.”” — P2022-12-17, U0129–U0156
+> «ancorar-se no nosso universo exatamente sobre o sistema solar e mais especificamente voltado» — P2022-12-17 · `original.txt` L5 · reanexado à fonte na U94 (A5); o trecho legado não trazia aparelho de linha nem era verificável byte a byte.
 
 ## Ampliação
 ### P2022-12-17

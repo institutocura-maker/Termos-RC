@@ -1,0 +1,101 @@
+{
+ "unidade": "U94",
+ "lote": "A5-4",
+ "rota": "R1",
+ "data": "2026-09-15",
+ "aplicar_V": false,
+ "origem": "uploads_recepcao/U93-U94-id-decisao.txt",
+ "criterio": "decisão do Curador sobre as 212 instâncias do artefacto de curadoria; 69 reconstruções com o marcador » […] «, 143 mantidas sem acção.",
+ "fichas": [
+  {
+   "ident": "II-018",
+   "cod": "RC-193",
+   "sigla": "P2024-07-14",
+   "linha": 95,
+   "pct": 0.0,
+   "nfrag": 1,
+   "omisso": 0,
+   "longo": false
+  },
+  {
+   "ident": "II-023",
+   "cod": "RC-266",
+   "sigla": "P2025-05-31",
+   "linha": 103,
+   "pct": 0.0,
+   "nfrag": 2,
+   "omisso": 1,
+   "longo": false
+  },
+  {
+   "ident": "II-059",
+   "cod": "RC-474",
+   "sigla": "P2023-12-02",
+   "linha": 110,
+   "pct": 0.0,
+   "nfrag": 3,
+   "omisso": 2,
+   "longo": false
+  },
+  {
+   "ident": "II-064",
+   "cod": "RC-490",
+   "sigla": "P2025-05-31",
+   "linha": 102,
+   "pct": 0.0,
+   "nfrag": 1,
+   "omisso": 0,
+   "longo": false
+  },
+  {
+   "ident": "II-077",
+   "cod": "RC-575",
+   "sigla": "P2022-12-17",
+   "linha": 5,
+   "pct": 0.0,
+   "nfrag": 1,
+   "omisso": 0,
+   "longo": false
+  },
+  {
+   "ident": "II-085",
+   "cod": "RC-708",
+   "sigla": "P2025-02-15",
+   "linha": 164,
+   "pct": 0.0,
+   "nfrag": 2,
+   "omisso": 1,
+   "longo": false
+  },
+  {
+   "ident": "II-111",
+   "cod": "RC-768",
+   "sigla": "P2026-07-25",
+   "linha": 274,
+   "pct": 0.0,
+   "nfrag": 1,
+   "omisso": 0,
+   "longo": false
+  },
+  {
+   "ident": "II-148",
+   "cod": "RC-821",
+   "sigla": "P2019-04-14",
+   "linha": 9,
+   "pct": 0.0,
+   "nfrag": 1,
+   "omisso": 0,
+   "longo": false
+  },
+  {
+   "ident": "II-166",
+   "cod": "RC-837",
+   "sigla": "P2019-08-25",
+   "linha": 21,
+   "pct": 0.0,
+   "nfrag": 1,
+   "omisso": 0,
+   "longo": false
+  }
+ ]
+}

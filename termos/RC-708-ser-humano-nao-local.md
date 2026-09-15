@@ -53,7 +53,7 @@ O termo não se refere a deslocamento físico instantâneo, mas a atuação do e
 | P2025-02-15 | U1335–U1365; U1380–U1445; U1689–U1700 | aula/palestra STT |
 
 ## Citações-chave
-> “O ser humano é não local. Ele não precisa estar no lugar para atuar naquele lugar.”
+> «o ser humano,» » […] « «é não local. Ele não precisa estar no lugar para atuar naquele lugar.» — P2025-02-15 · `original.txt` L164 · reconstrução aprovada pelo Curador na U93; 1 palavra da fonte omitida — » […] « assinala o fosso, ao passo que » … « assinala apenas quebra de hard-wrap.
 
 ## Ampliação
 ### P2025-02-15

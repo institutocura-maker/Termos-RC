@@ -49,7 +49,7 @@ Shiva (RC-102), os fenvans (RC-064), os seres radiata (RC-093).
 ## Citações-chave
 > "esse forno é chamado de Awaylengan. Esses nomes vocês não se preocupem porque por invenção aí dessa dessas revelações, não sei se esses nomes percevarão perervarão no futuro, perseverão no futuro." — P2019-08-25 (STT bruto)
 
-> "mas o primeiro forno a funcionar foi o de Shiva. Nós nós aqui que estamos essa sáb esses corpos são produtos do fogo de Shiva." — P2019-08-25 (STT bruto)
+> «mas o primeiro forno a funcionar foi o de Shiva. Nós nós aqui que estamos essa sáb esses corpos são produtos do fogo de» — P2019-08-25 · `original.txt` L21 · reanexado à fonte na U94 (A5); o trecho legado não trazia aparelho de linha nem era verificável byte a byte.
 
 ## Observações
 - **Quarentena teológica/ufológica:** a atribuição do forno a Shiva, a origem da sexualidade e o "lingam" cósmico são **leitura do autor** — não doutrina nem fato.
