@@ -43,7 +43,7 @@ Zeus (RC-145); humanos (RC-099); demos (RC-049); Caos/Javé (RC-284).
 | Tempos Difíceis no Olimpo (B021) | cap. 23 (Zeus e a Impensável "Era dos Humanos") | pp. 130–145 (aprox.) | capítulo dedicado |
 
 ## Citações-chave
-> "Ele invadiu, sim, a 'Era dos Humanos', mas as religiões que posteriormente foram surgindo transformaram o seu esforço em nada, numa mera criação literária. Entretanto, foi desse modo que Zeus tentou lidar com a 'Era dos Humanos', sendo o seu objetivo o de ser tido como o 'deus dos humanos', o 'pai dos humanos'." — B021, cap. 23
+> «Ele invadiu, sim, a “Era dos Humanos”, mas as religiões que» » … « «posteriormente foram surgindo, transformaram o seu esforço em nada, numa» » … « «mera criação literária. Entretanto, foi desse modo que Zeus tentou lidar com a» » … « «“Era dos Humanos”, sendo o seu objetivo o de ser tido como o “deus dos» » … « «humanos”, o “pai dos humanos”.» — B021 p. 135 · `original.txt` L5378 · reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte.
 
 ## Ampliação
 ### B087 (A Revolta do Anjo Decaído)
@@ -67,7 +67,7 @@ Zeus (RC-145); humanos (RC-099); demos (RC-049); Caos/Javé (RC-284).
 
 - **Contexto da destinação:** "os humanos são a última espécie e a espécie que vai definir o futuro universal" — a Era dos Humanos como o palco da ressignificação das vrittis (RC-760) e dos 256 caminhos (RC-767);
 - "Em nascendo na condição humana, 256 possibilidades eles terão" (todos os seres que precisam cumprir destinos).
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+- ✅ **Reanexação A5 (U92, 15/09/2026):** o trecho entre aspas desta ficha foi reanexado às fontes e passa a trazer aparelho de linha (`— SIGLA · original.txt LNNNN`), conferido byte a byte pelo Portão B. **Quarentena epistemológica de 14/09/2026 (U86) levantada nesta ficha** — a nota original dizia que o trecho não resistia à verificação; agora resiste, porque deixou de ser uma transcrição solta e passou a ser extracto conferido. Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
 
 ## Observações
 Ficha baseada em B021 (obra primária). A Era dos Humanos é o desfecho do "Tempos Difíceis no Olimpo": os deuses tornam-se mitos e a humanidade emerge. Cruzar com RC-238 (Era Sapiens) e RC-300.

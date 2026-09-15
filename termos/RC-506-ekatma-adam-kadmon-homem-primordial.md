@@ -35,7 +35,7 @@ Na RC, o **Homem Primordial cósmico** (Adam Kadmon) — distinto do Adão bíbl
 
 > "Aquilo que no futuro viria ser o primeiro protótipo de um Adão Cadmon, que não tem nada a ver com o Adão aqui da Terra, foi um Adão cósmico." — P2024-09-28
 
-> "E isso está presente em cada consciência particularizada, porque é o tal do corpo átmico presente em cada ser. Por isso que a gente usa aquela expressão: namastê." — P2024-09-28
+> «E isso está presente em cada consciência particularizada, porque é o tal do corpo átmico presente em cada ser. Por isso que a gente usa aquela expressão, namastê.» — P2024-09-28 · `original.txt` L38 · reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte.
 
 
 ## Ampliação
@@ -67,3 +67,4 @@ Menção breve na palestra (resposta à plateia). A relação com “demos hesit
 
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-506.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** os 2 trechos entre aspas desta ficha **não** resistem à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Todos deixam vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+- ✅ **Reanexação parcial A5 (U92, 15/09/2026):** 1 dos 2 trechos entre aspas desta ficha foi reanexado às fontes e passa a trazer aparelho de linha (`— SIGLA · original.txt LNNNN`), conferido byte a byte pelo Portão B. O restante permanece sob a quarentena epistemológica de 14/09/2026 (U86) — a nota acima continua a valer para ele. Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

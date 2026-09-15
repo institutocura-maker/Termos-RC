@@ -3966,3 +3966,49 @@ eu lia impressões truncadas. O Portão B está são.
 Backlog: 90–99% 169 (U92) · 70–89% 117 (U93) · <70% 51 + G2 25 + G6 14 + 6
 fora de parágrafo + 1 censura (U94) · **219 órfãos (U95 — artefacto, zero
 fichas tocadas)**.
+
+---
+
+## U92 — A5 faixa 90–99%: o fosso era ruído de transcrição, não truncamento
+
+**Lote:** `diagnostico/U92-A5-LOTE36-2026-09-15.json`
+
+### 1. A premissa do despacho estava errada
+Previam-se «limites de truncamento». Medidos os 161 blocos: **só 16 têem o
+fosso no início ou no fim**; **113 têem-no no MEIO**. E 159 de 161 divergem por
+ARTEFACTO — 91 fossos são aspas divergentes («'x'» vs «"x"»), 91 são
+`**negrito**`/`[…]`, 149 são de 1–2 palavras. Só **2** blocos têem edição real.
+
+### 2. Remédio: alinhamento frouxo, emissão estrita
+Alinha-se ignorando pontuação editorial (`frouxo()`); emite-se sempre o
+substring real da linha-fonte, conferido byte a byte. A ficha ganha a pontuação
+da FONTE. Nada se perde: o artefacto nunca foi texto-fonte.
+
+### 3. Resultado
+**56 citações · 158 fragmentos · 55 fichas** · 45 quarentenas levantadas,
+10 parciais · **32 verbetes reemissos** (42 ocorrências).
+Extractor --frouxo: 442 → 103 aprovados (G1 243 · G2 44 · G6 31 · não
+localizado 14 · fora de parágrafo 6 · G4 1); 47 já feitos na U91 → **56 novos**.
+
+### 4. Validação
+Suíte **21/21** · T5 **0 falhas, 8 646 verbatim** · Portão B **778/778** +
+**258 A5 = 1 036** · idempotência **0 reescritas / 55 idênticas** ·
+Base 946/820/1887.
+
+### 5. Três erros meus
+1. Comporta B: RC-016 tinha a chave em 2 linhas (uma começa pelo trecho, outra
+   contém-no no meio) → passou a exigir que a linha COMECE pelo trecho.
+2. A nota não era cumulativa (RC-800 dizia «1 de 3» e a U92 não avançava para
+   «2 de 3») → a conta passou a derivar do ESTADO DO ARQUIVO.
+3. Nota duplicada em 5 fichas ao passarem a completas → corrige-se removendo a
+   anterior; as 5 foram repostas da baseline e reaplicadas.
+
+### 6. Higiene
+O lote A5 da U91 colidia com o glob `U*-R1-LOTE*` (o Portão B tentava
+materializá-lo como lote R1 e falhava). Renomeados para `U9x-A5-LOTEnn-…`.
+Verificado: 35/35 · 778 · 0 falhas.
+
+### 7. Estado
+`A1 ✅ A2 ✅ A3 ✅ A4 ✅ · A5 ⏳ 128/658 reanexados · A6 ✅ A7 ✅ A8 ✅`
+Backlog: 70–89% 117 (U93) · <70% 51 + G2 44 + G6 31 + 6 fora de parágrafo +
+1 censura (U94) · **219 órfãos (U95 — artefacto, zero fichas tocadas)**.

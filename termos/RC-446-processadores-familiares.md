@@ -54,7 +54,7 @@ Yel Luzbel (RC-142, primeiro a se desligar); Sophia (RC-009, criadora); Sábios 
 
 > "Se eu deixar de ser um integrante da minha 'família' e, portanto, desligar-me do 'Processador' que nos une a todos, não mais existirei como um ser coletivo para este universo?" — B058, p. 67
 
-> "O pormenor é que Sophia, que nos engendrou, também criou todos os nossos 'Processadores'." — B058, p. 68
+> «O pormenor» » … « «é que Sophia, que nos engendrou, também criou todos os nossos “Processadores”.» — B058 p. 72 · `original.txt` L2608 · reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte.
 
 ## Ampliação
 ### B057 (A Revolta do Anjo Decaído)
@@ -92,4 +92,4 @@ Yel Luzbel (RC-142, primeiro a se desligar); Sophia (RC-009, criadora); Sábios 
 
 ## Observações
 Conceito central da narrativa psicografada: os Processadores como instrumento de controle de Sophia sobre os biodemos. Nas obras primárias de Ellam existe o "Processador Val" (RC-089) — sugerido como análogo; verificar nas obras primárias (ex.: B017/B018) a correspondência exata com os "Processadores Familiares".
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** os 3 trechos entre aspas desta ficha **não** resistem à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Todos deixam vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+- ✅ **Reanexação A5 (U92, 15/09/2026):** os 3 trechos entre aspas desta ficha foram reanexados às fontes e passam a trazer aparelho de linha (`— SIGLA · original.txt LNNNN`), conferido byte a byte pelo Portão B. **Quarentena epistemológica de 14/09/2026 (U86) levantada nesta ficha** — a nota original dizia que o trecho não resistia à verificação; agora resiste, porque deixou de ser uma transcrição solta e passou a ser extracto conferido. Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

@@ -48,7 +48,7 @@ Deidade (RC-047); Criador/Brahma (RC-041, RC-037).
 | Painéis Emergentes... (B031) | Glossário de Termos | p. 136 (aprox.) | verbete "Espiritualidade Superior" |
 
 ## Citações-chave
-> "existe o Deus Bíblico, o qual chamamos de Javé na Religião Católica é o Criador ('caído') desse universo, e por isso é chamado de Criador e não Deus. E existe o Deus Incognoscível que é só amor, a Deidade Suprema, a Fonte de tudo o que há, que é superior e está acima de qualquer Divindade." — B031, verbete "Deus"
+> «existe o Deus Bíblico, o qual chamamos de Javé na Religião» » … « «Católica é o Criador (“caído”) desse universo, e por isso é chamado de» » … « «Criador e não Deus. E existe o Deus Incognoscível que é só amor, a» » … « «Deidade Suprema, a Fonte de tudo o que há, que é superior e está acima de» » … « «qualquer Divindade.» — B031 p. 131 · `original.txt` L3350 · reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte.
 
 ## Ampliação
 ### P2024-11-09
@@ -76,4 +76,4 @@ Deidade (RC-047); Criador/Brahma (RC-041, RC-037).
 
 ## Observações
 Ficha baseada no glossário de B031. Termo central da teologia RC — cruzar com as obras primárias (B019 "Nem Deus, nem Javé, nem Darwin" é leitura-chave).
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+- ✅ **Reanexação A5 (U92, 15/09/2026):** o trecho entre aspas desta ficha foi reanexado às fontes e passa a trazer aparelho de linha (`— SIGLA · original.txt LNNNN`), conferido byte a byte pelo Portão B. **Quarentena epistemológica de 14/09/2026 (U86) levantada nesta ficha** — a nota original dizia que o trecho não resistia à verificação; agora resiste, porque deixou de ser uma transcrição solta e passou a ser extracto conferido. Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

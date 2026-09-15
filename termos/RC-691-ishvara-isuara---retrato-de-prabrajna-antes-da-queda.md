@@ -70,7 +70,7 @@ Satchidananda é mantido, neste ciclo, dentro da explicação de Ishvara e da ca
 ## Citações-chave
 > “Ishvara [...] significa o eu do universo, ou o ego do universo, ou o senhor do universo.”
 
-> “O último retrato que essa mente tirou de si mesma antes de explodir passou para todos os elétrons.”
+> «O último retrato que essa mente tirou de si mesma antes de explodir passou para todos os elétrons» — P2025-03-15 · `original.txt` L50 · reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte.
 
 ## Ampliação
 ### P2024-06-16 (O Projeto TALM, os Fenvans e os Humanos)
@@ -102,4 +102,4 @@ Satchidananda é mantido, neste ciclo, dentro da explicação de Ishvara e da ca
 
 
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-691.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** os 3 trechos entre aspas desta ficha **não** resistem à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Só 1 dos 3 deixam vestígio no corpus. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+- ✅ **Reanexação A5 (U92, 15/09/2026):** os 3 trechos entre aspas desta ficha foram reanexados às fontes e passam a trazer aparelho de linha (`— SIGLA · original.txt LNNNN`), conferido byte a byte pelo Portão B. **Quarentena epistemológica de 14/09/2026 (U86) levantada nesta ficha** — a nota original dizia que o trecho não resistia à verificação; agora resiste, porque deixou de ser uma transcrição solta e passou a ser extracto conferido. Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

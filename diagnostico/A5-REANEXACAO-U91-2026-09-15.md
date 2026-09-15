@@ -158,3 +158,111 @@ números do selo (946/820/1887), o `build_indice` e o T14. A contenção já est
 feita pela nota da U86 (478/478 fichas); os 219 órfãos ficarão isolados num
 artefacto legível por máquina em `diagnostico/` — o *dataset* para a triagem
 semântica futura, **tocando zero fichas**.
+
+---
+
+# U92 — a faixa 90–99% e o fosso que não era de truncamento
+
+**Lote:** `diagnostico/U92-A5-LOTE36-2026-09-15.json` · **Data:** 15/09/2026
+
+## 1. A premissa do despacho estava errada, e a medição prova-o
+
+O despacho previa para esta faixa «validação mais fina nos limites de
+truncamento». Medidos os 161 blocos da faixa 90–99%, **o fosso não está nos
+limites**:
+
+| posição do fosso | blocos |
+|---|---|
+| **meio** | 113 |
+| fim + meio | 29 |
+| fim | 13 |
+| início + meio | 3 |
+| início | 3 |
+
+E a sua natureza não é conteúdo perdido:
+
+| natureza do fosso | ocorrências |
+|---|---|
+| 1–2 palavras | 149 |
+| artefacto de edição (`**negrito**`, `[...]`, `…`) | 91 |
+| **aspas divergentes** (`'x'` na ficha contra `"x"` na fonte) | 91 |
+| edição real de prosa | **2** |
+
+**159 dos 161 blocos divergem por artefacto, não por conteúdo.** A ficha não
+truncou a fonte: reescreveu-lhe a pontuação.
+
+## 2. O remédio: alinhamento frouxo, emissão estrita
+
+Duas camadas, com funções distintas:
+
+- **Alinhar** com uma chave que despreza pontuação editorial (`frouxo()`), para
+  que `'tzimtzum'` e `"tzimtzum"` contem como o mesmo token;
+- **Emitir** sempre o substring REAL da linha-fonte, conferido byte a byte.
+
+A ficha ganha assim a pontuação da **fonte**, não a do transcriptor. Nada se
+perde, porque o artefacto nunca foi texto-fonte: `**negrito**` era formatação
+da ficha; `[...]` era elisão do transcriptor.
+
+## 3. Colheita
+
+Corrida do extractor com `--frouxo` sobre os 442 blocos com localização:
+
+| | |
+|---|---|
+| aprovados (G1–G6) | **103** |
+| G1 cobertura < 100% | 243 |
+| G2 citação longa | 44 |
+| G6 não contíguos | 31 |
+| já aplicados pela U91 | 47 |
+| **NOVOS (U92)** | **56** |
+
+## 4. Resultado
+
+- **56 citações · 158 fragmentos · 55 fichas**
+- **45 fichas** com a quarentena **levantada**; **10 parciais**
+- **32 verbetes reemitidos** (42 ocorrências)
+
+## 5. Validação
+
+| | |
+|---|---|
+| suíte | **21/21 OK** |
+| T5 verbetes | **0 falhas · 8 646 verbatim conferidos** |
+| Portão B | **778/778** (R1) + **258** (A5: 100 U91 + 158 U92) = **1 036** |
+| idempotência | 2.ª corrida: **0 reescritas · 55 idênticas** |
+| Base intacta | 946 · 820 · 1 887 |
+
+## 6. Três erros meus nesta unidade
+
+1. **Comporta B insuficiente**: em RC-016 a chave bate em duas linhas — L49,
+   que começa pelo trecho, e L51, uma citação maior que o contém no MEIO. Os
+   filtros «é blockquote» e «começa por aspa» não separavam. Passou a exigir-se
+   que a linha **COMECE** pelo trecho.
+2. **A nota não era cumulativa**: RC-800 já trazia «1 de 3» da U91; a U92
+   reescrevia «1 de 3» em vez de «2 de 3». A conta passou a ser derivada do
+   **estado do arquivo** (quantos trechos legados já não existem como texto
+   solto), o que a torna cumulativa entre unidades **e** idempotente.
+3. **Nota duplicada**: quando a ficha passava a completa, eu substituía a linha
+   de quarentena e deixava a nota parcial anterior ao lado — 5 fichas ficaram
+   com duas notas (RC-785, RC-791, RC-797, RC-800, RC-826, RC-829). Corrigido
+   removendo a anterior; as 5 foram repostas da baseline e reaplicadas.
+
+## 7. Higiene
+
+O lote da U91 foi lavrado como `U91-R1-LOTE35-A5-…json` e **colidia com o glob
+`U*-R1-LOTE*.json`** dos lotes de materialização — o Portão B tentava
+materializá-lo como lote R1 e falhava. Renomeados para
+`U9x-A5-LOTEnn-2026-09-15.json`. Verificado: 35/35 lotes R1, 778 fragmentos,
+0 falhas.
+
+## 8. Backlog actualizado
+
+| fila | blocos | unidade |
+|---|---|---|
+| cobertura 70–89% | 117 | U93 |
+| cobertura < 70% | 51 | U94 |
+| G2 (≥ 7 fragmentos) | 44 | U94 |
+| G6 (não contíguos) | 31 | U94 |
+| linha fora de parágrafo | 6 | U94 |
+| G4 (censura) | 1 | U94 |
+| **órfãos sem localização** | **219** | U95 |

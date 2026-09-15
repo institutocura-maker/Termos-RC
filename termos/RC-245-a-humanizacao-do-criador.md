@@ -44,7 +44,7 @@ Criador/Javé (RC-041/RC-001); Zont En Drel 29 (RC-147); Jesus (RC-072); Seres T
 | O Guardião do Éden (B015) | cap. 17 (A Humanização do Criador) | pp. 110–120 (aprox.) | capítulo dedicado |
 
 ## Citações-chave
-> "Depois de muitos bilhões de anos, contados à moda terráquea, ver o meu Criador 'disposto' a buscar o entendimento de como aquelas primeiras criaturas humanizadas saíram da destinação que Ele traçara, e agora, parecerem 'senhores de um destino' ao qual ele se vê obrigado a aceitar, creiam-me, não é fácil para um En Drel." — B015, cap. 17
+> «Depois de muitos bilhões de anos, contados à moda terráquea, ver o meu» » … « «Criador “disposto” a buscar o entendimento de como aquelas primeiras» » … « «criaturas humanizadas, saíram da destinação que Ele traçara, e agora,» » … « «parecerem “senhores de um destino” ao qual ele se vê obrigado a aceitar,» » … « «creiam-me, não é fácil para um En Drel.» — B015 p. 91 · `original.txt` L3240 · reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte.
 
 ## Ampliação
 ### B036 (As Memórias de Javé)
@@ -70,4 +70,4 @@ Criador/Javé (RC-041/RC-001); Zont En Drel 29 (RC-147); Jesus (RC-072); Seres T
 
 ## Observações
 Ficha baseada em B015 (obra primária). A Humanização do Criador é o desfecho dramático do "drama de Javé": a criatura que cura o criador. Cruzar com RC-196 (Criador refém) e RC-063 (Favor Divino).
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+- ✅ **Reanexação A5 (U92, 15/09/2026):** o trecho entre aspas desta ficha foi reanexado às fontes e passa a trazer aparelho de linha (`— SIGLA · original.txt LNNNN`), conferido byte a byte pelo Portão B. **Quarentena epistemológica de 14/09/2026 (U86) levantada nesta ficha** — a nota original dizia que o trecho não resistia à verificação; agora resiste, porque deixou de ser uma transcrição solta e passou a ser extracto conferido. Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

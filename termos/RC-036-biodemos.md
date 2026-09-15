@@ -87,7 +87,7 @@ Yel Luzbel (RC-078/RC-142, o primeiro a mutar); Sophia (RC-009, criador das fam�
 ## Citações-chave
 > "Essa postura, até então **nunca sentida pela estirpe dos biodemos**, logo se espalhou como uma espécie de 'vírus mental' para outros 'anjos' que apresentavam um tipo de mente coletiva." — B057, SINTESE, p. 1
 
-> "A inquietação então sentida e as perguntas feitas, até então jamais respondidas, foram o estopim de conflitos e **modificações no genoma de alguns biodemos** que terminaram classificados como 'rebelados' pelas hostes celestiais que os exilaram daquele circuito cósmico." — B057, SINTESE, p. 1
+> «A inquietação então sentida e as perguntas feitas,» » … « «até então jamais respondidas, foram o estopim de» » … « «conflitos e modificações no genoma de alguns biodemos» » … « «que terminaram classificados como “rebelados” pelas» » … « «hostes celestiais que os exilaram daquele circuito» » … « «cósmico.» — B057 p. 1 · `original.txt` L40 · reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte.
 
 ## Ampliação
 ### B058 (A Revolta do Anjo Decaído)
@@ -170,4 +170,4 @@ Yel Luzbel (RC-078/RC-142, o primeiro a mutar); Sophia (RC-009, criador das fam�
 
 
 > Notas de processo: 4 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-036.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** os 2 trechos entre aspas desta ficha **não** resistem à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Só 1 dos 2 deixam vestígio no corpus. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+- ✅ **Reanexação A5 (U92, 15/09/2026):** os 2 trechos entre aspas desta ficha foram reanexados às fontes e passam a trazer aparelho de linha (`— SIGLA · original.txt LNNNN`), conferido byte a byte pelo Portão B. **Quarentena epistemológica de 14/09/2026 (U86) levantada nesta ficha** — a nota original dizia que o trecho não resistia à verificação; agora resiste, porque deixou de ser uma transcrição solta e passou a ser extracto conferido. Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

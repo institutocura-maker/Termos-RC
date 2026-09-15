@@ -70,7 +70,7 @@ Jan Val Ellam (RC-071, criador).
 ## Citações-chave
 > "Criei o Mentalma como sendo o meu método de nada reafirmar, questionando todas as minhas 'certezas sinápticas'... O Mentalma questiona e recria, assegurando novas possibilidades." — B074, p. 11
 
-> "O Mentalma se trata de uma 'busca' pelo autoconhecimento, pelo autocontrole, pela elevação do nível de compreensão sobre a vida e os eventos ao nosso redor, enfim, pela emancipação do psiquismo." — B074, p. 12
+> «o Mentalma se trata de uma “busca” pelo autoconhecimento, pelo» » … « «autocontrole, pela elevação do nível de compreensão sobre a vida e os» » … « «eventos ao nosso redor, enfim, pela emancipação do psiquismo.» — B074 p. 12 · `original.txt` L318 · reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte.
 
 > "A 'guarda' e/ou 'hospedagem' de conceitos... sob a configuração de 'arquivos mentais'... foi e é a base do conjunto de práticas e de reflexões que passaram a compor o Mentalma, a minha disciplina de Yoga." — B074, p. 26
 
@@ -186,6 +186,7 @@ Jan Val Ellam (RC-071, criador).
 - **Limite da bondade:** "você pode continuar sendo um ser humano maravilhoso, formidável, bondoso, generoso... mas para o tipo de ser humano que é necessário desesperadamente que venha surgir na terra, tá longe" — a emancipação exige mais que ética pessoal;
 - Relação nova: Mentalma ↔ Ciência Pessoal (RC-695) — o laboratório íntimo do esforço psíquico (aresta P2023-05-13).
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** os 3 trechos entre aspas desta ficha **não** resistem à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Todos deixam vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+- ✅ **Reanexação parcial A5 (U92, 15/09/2026):** 2 dos 3 trechos entre aspas desta ficha foram reanexados às fontes e passam a trazer aparelho de linha (`— SIGLA · original.txt LNNNN`), conferido byte a byte pelo Portão B. O restante permanece sob a quarentena epistemológica de 14/09/2026 (U86) — a nota acima continua a valer para ele. Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
 
 ## Observações
 A série Mentalma é **paralela mas intimamente ligada** às RC (fonte B024 já citava o termo). O usuário informou que a série tem 5 livros + 1 curso; o Mentalma I menciona volumes até o VII (VI: Qualia e o Laboratório Mental; VII: O Eu como Computador Quântico) — planejados/em andamento. Método com exercícios mentais numerados (1º, 2º, 3º...).

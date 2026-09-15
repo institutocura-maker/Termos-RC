@@ -45,9 +45,9 @@ Evento/missão central da narrativa de Javé na leitura de Ellam: a retirada das
 
 ## Citações-chave
 
-> "O êxodo, ou seja, a retirada das 12 tribos de hebreus lá do Egito, foi um instrumento que Javé usou depois que o plano dele de usar os egípcios não deu certo."
+> «o êxodo, ou seja, a retirada das 12 tribos de hebreus lá do Egito. Foi um instrumento que Javé usou depois que o plano dele de usar os egípcios não deu certo.» — P2024-04-13 · `original.txt` L81 · reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte.
 
 ## Observações
 
 "Limpeza étnica", identificação dos filisteus como descendentes dos Igigis, a reencarnação de Moisés como Maomé e a leitura do Êxodo como instrumento de Javé são **Leitura de Ellam**, nunca consenso histórico, arqueológico ou teológico. O verbete não afirma a historicidade da narrativa bíblica como fato; registra a interpretação cosmológica do autor. Datas são cronologia interna da RC.
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+- ✅ **Reanexação A5 (U92, 15/09/2026):** o trecho entre aspas desta ficha foi reanexado às fontes e passa a trazer aparelho de linha (`— SIGLA · original.txt LNNNN`), conferido byte a byte pelo Portão B. **Quarentena epistemológica de 14/09/2026 (U86) levantada nesta ficha** — a nota original dizia que o trecho não resistia à verificação; agora resiste, porque deixou de ser uma transcrição solta e passou a ser extracto conferido. Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

@@ -43,7 +43,7 @@ Prepostos da Deidade (RC-206); civilizações planetárias (RC-098).
 | Fator Extraterrestre (B005) | cap. 5 (Situação Política da Terra diante do Cosmos) | pp. 65–80 (aprox.) | conceito central |
 
 ## Citações-chave
-> "Sendo, portanto, o nosso planeta uma espécie de 'terra de ninguém' estava passível de receber visitas exploratórias (muitas vezes com fins pouco nobres) de quaisquer civilizações que não estivessem vinculadas às confederações de mundos, sendo essas confederações a maneira, através da qual, diversas civilizações celestiais minimamente evoluídas se aglutinam em torno das regras da convivência cósmica e da ajuda mútua." — B005, cap. 5
+> «Sendo, portanto, o nosso planeta uma espécie de "terra de ninguém"» » … « «estava passível de receber visitas exploratórias (muitas vezes com fins» » … « «pouco nobres) de quaisquer civilizações que não estivessem vinculadas às» » … « «confederações de mundos, sendo essas confederações a maneira, através» » … « «da qual, diversas civilizações celestiais minimamente evoluídas se» » … « «aglutinam em torno das regras da convivência cósmica e da ajuda mútua.» — B005 p. 45 · `original.txt` L1401 · reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte.
 
 ## Ampliação
 ### B005 (Fator Extraterrestre)
@@ -53,4 +53,4 @@ Prepostos da Deidade (RC-206); civilizações planetárias (RC-098).
 
 ## Observações
 Ficha baseada em B005 (obra primária). As Confederações de Mundos são o "mapa político" do cosmos nas RC — conectam à Reintegração Cósmica e à cidadania cósmica (RC-226).
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+- ✅ **Reanexação A5 (U92, 15/09/2026):** o trecho entre aspas desta ficha foi reanexado às fontes e passa a trazer aparelho de linha (`— SIGLA · original.txt LNNNN`), conferido byte a byte pelo Portão B. **Quarentena epistemológica de 14/09/2026 (U86) levantada nesta ficha** — a nota original dizia que o trecho não resistia à verificação; agora resiste, porque deixou de ser uma transcrição solta e passou a ser extracto conferido. Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

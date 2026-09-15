@@ -53,7 +53,7 @@ Len Mion (RC-074); Gron Mion (RC-067, citado nas obras primárias); Yel Luzbel (
 
 
 ## Citações-chave
-> "Enquanto os 'sábios' da Família Yel aguardam as respostas de Sophia para as questões do Primeiro Pesquisador Yel Luzbel, a Família Mion decide entrar em contato com os demais Biocoletivos espalhados pelo universo." — B058, p. 1 (sinopse)
+> «Enquanto os “sábios” da Família Yel aguardam as» » … « «respostas de Sophia para as questões do Primeiro» » … « «Pesquisador Yel Luzbel, a Família Mion decide entrar» » … « «em contato com os demais Biocoletivos espalhados» » … « «pelo universo.» — B058 p. 1 · `original.txt` L26 · reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte.
 
 > "Len Mion, ele não aguentava mais esperar! Então, tomando a iniciativa, convocou os integrantes da 'família Mion' para um conclave." — B058, p. 14
 
@@ -106,3 +106,4 @@ Len Mion (RC-074); Gron Mion (RC-067, citado nas obras primárias); Yel Luzbel (
 ## Observações
 Nos livros da Jeane, os Mion são descritos como "mais antigos que os Yel" e os seres da família são citados como nascidos "coletivamente" (diferente dos Yel, individualizados) — detalhe narrativo a reconciliar com as obras primárias. O "Primeiro em Comando" da Família Mion torna-se figura-chave no Livro 2 (B058).
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** os 3 trechos entre aspas desta ficha **não** resistem à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Só 2 dos 3 deixam vestígio no corpus. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+- ✅ **Reanexação parcial A5 (U92, 15/09/2026):** 2 dos 3 trechos entre aspas desta ficha foram reanexados às fontes e passam a trazer aparelho de linha (`— SIGLA · original.txt LNNNN`), conferido byte a byte pelo Portão B. O restante permanece sob a quarentena epistemológica de 14/09/2026 (U86) — a nota acima continua a valer para ele. Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

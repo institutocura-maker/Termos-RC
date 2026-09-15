@@ -48,7 +48,7 @@ Jesus (RC-072); Nietzsche (figura histórica, RC-369); Voltaire (precedente cita
 
 
 ## Citações-chave
-> "Pude constatar que, entre Jesus e Nietzsche, parecia existir a mais estranha das parcerias, por mim percebida nas entrelinhas dos fatos, ainda que a mesma possa parecer curiosa por força do corajoso antagonismo que o filósofo assumiu frente aos equívocos dos 'donos do legado' do Messias." — B049, cap. 10
+> «pude constatar que, entre Jesus e Nietzsche, parecia existir a mais estranha das» » … « «parcerias, por mim percebida nas entrelinhas dos fatos, ainda que a mesma possa» » … « «parecer curiosa por força do corajoso antagonismo que o filósofo assumiu frente» » … « «aos equívocos dos “donos do legado” do Messias.» — B049 p. 106 · `original.txt` L4167 · reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte.
 
 ## Ampliação
 ### B049 (Jesus e Nietzsche)
@@ -74,4 +74,4 @@ Jesus (RC-072); Nietzsche (figura histórica, RC-369); Voltaire (precedente cita
 
 ## Observações
 Ficha baseada em B049 (obra primária). A "parceria" Jesus-Nietzsche é uma das teses mais ousadas do corpus — conecta a crítica filosófica à verdade do legado crístico.
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+- ✅ **Reanexação A5 (U92, 15/09/2026):** o trecho entre aspas desta ficha foi reanexado às fontes e passa a trazer aparelho de linha (`— SIGLA · original.txt LNNNN`), conferido byte a byte pelo Portão B. **Quarentena epistemológica de 14/09/2026 (U86) levantada nesta ficha** — a nota original dizia que o trecho não resistia à verificação; agora resiste, porque deixou de ser uma transcrição solta e passou a ser extracto conferido. Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

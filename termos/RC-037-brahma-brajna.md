@@ -96,7 +96,7 @@ Javé (RC-001); Vishnu (RC-135); Shiva (RC-102); Mohen So (RC-081); Sophia (RC-0
 
 
 ## Citações-chave
-> "Na Revelação Cósmica, Brahma é o 'Criador caído, apodrecido e adoentado'. Em Perpérion (na Espiritualidade Laboratorial), antes de 'cair' em sua criação, ele era Brajna, em sua condição Adhyatman." — B031, verbete "Brahma"
+> «Na Revelação Cósmica, Brahma é o “Criador caído, apodrecido e» » … « «adoentado”.  Em Perpérion (na Espiritualidade Laboratorial), antes de» » … « «“cair” em sua criação, ele era Brajna, em sua condição Adhyatman.» — B031 p. 128 · `original.txt` L3220 · reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte.
 >
 > **(Complemento primário B024):** antes da queda, Brahma era **Prabrajna (Prajapati)** (cap. 1); sua energia característica é **Rajas** (cap. 3); as Eras da Criação detalham sua trajetória — da "Era da Solidão" à perda da capacidade de criar sozinho (cap. 16).
 
@@ -244,7 +244,7 @@ Javé (RC-001); Vishnu (RC-135); Shiva (RC-102); Mohen So (RC-081); Sophia (RC-0
 
 
 > Notas de processo: 2 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-037.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+- ✅ **Reanexação A5 (U92, 15/09/2026):** o trecho entre aspas desta ficha foi reanexado às fontes e passa a trazer aparelho de linha (`— SIGLA · original.txt LNNNN`), conferido byte a byte pelo Portão B. **Quarentena epistemológica de 14/09/2026 (U86) levantada nesta ficha** — a nota original dizia que o trecho não resistia à verificação; agora resiste, porque deixou de ser uma transcrição solta e passou a ser extracto conferido. Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
 
 ## Atualização
 ### P2022-12-17

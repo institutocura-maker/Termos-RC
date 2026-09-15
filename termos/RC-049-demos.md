@@ -74,7 +74,7 @@ Zeus (RC-145); Seres dos Portais (mitologia grega/nórdica); Vishnu e Shiva (for
 
 
 ## Citações-chave
-> "Nas obras de Jan Val Ellam, a expressão 'demo' define tão somente os seres que habitam um universo paralelo ao que vivemos, de origem antimaterial, sendo alguns deles, inclusive, chamados de 'deuses', cujos nomes aparecem nas diversas mitologias do passado." — B031, verbete "Demos"
+> «Nas obras de Jan Val Ellam, a expressão “demo” define tão somente os» » … « «seres que habitam um universo paralelo ao que vivemos, de origem» » … « «antimaterial, sendo alguns deles, inclusive, chamados de “deuses”, cujos» » … « «nomes aparecem nas diversas mitologias do passado.» — B016 p. 193 · `original.txt` L9186 · reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte.
 
 ## Ampliação
 ### B052 (Homoafetividade: O Segredo Perdido do Éden)
@@ -139,4 +139,4 @@ Zeus (RC-145); Seres dos Portais (mitologia grega/nórdica); Vishnu e Shiva (for
 
 ## Observações
 Ficha baseada no glossário de B031. Verificar nas obras primárias a taxonomia completa: anjos clones → demos → biodemos → seres humanos.
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+- ✅ **Reanexação A5 (U92, 15/09/2026):** o trecho entre aspas desta ficha foi reanexado às fontes e passa a trazer aparelho de linha (`— SIGLA · original.txt LNNNN`), conferido byte a byte pelo Portão B. **Quarentena epistemológica de 14/09/2026 (U86) levantada nesta ficha** — a nota original dizia que o trecho não resistia à verificação; agora resiste, porque deixou de ser uma transcrição solta e passou a ser extracto conferido. Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

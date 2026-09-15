@@ -47,7 +47,7 @@ Espírito encarnado (o "Eu organizador" em ação); Jan Val Ellam (RC-071, criad
 | ART-2026-08-18 | O Quarto Cérebro de Pandora (artigo) | — | — |
 
 ## Citações-chave
-> "Quando descobre que pode usar o 'Eu terreno' — que a maioria dos seres humanos pensa ser — como '**instrumento quântico**' para '**capturar, organizar, colecionar e deletar**' arquivos mentais, ela se torna mestre de si mesma." — B075, 10ª Const., pp. 80–81
+> «Quando descobre que pode usar o “Eu terreno” — que a maioria dos» » … « «seres humanos pensa ser — como “instrumento quântico” para» » … « «“capturar, organizar, colecionar e deletar” arquivos mentais, ela se» » … « «torna mestre de si mesma.» — B075 p. 81 · `original.txt` L3336 · reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte.
 
 > "É necessário transcender tais memórias complicadas, de modo a acabar com o '**fardo espiritual**'... A pessoa somente modifica essa memória se tiver vontade de transcendê-la... o cérebro produzirá a PKMzeta, que proporcionará a apropriação ou a 'colagem do novo arquivo mental' — ou seja, morre uma memória antiga e surge uma nova no hipocampo." — B075, 16ª Const., p. 109
 
@@ -55,4 +55,4 @@ Espírito encarnado (o "Eu organizador" em ação); Jan Val Ellam (RC-071, criad
 
 ## Observações
 Termo já constava na tabela-mestra desde o ciclo anterior (B075 nas fontes); **ficha criada no ciclo B075 (Devolutiva O-2, 2026-08-25)**. **Quarentena (O-7, aprovação do curador):** PKMzeta, hipnose e "Phowa" são **chaves de leitura filosófica do livro — jamais promover como terapia real**; NDEs, milagres e canalizações (Ramtha/Knight) ficam de fora da ontologia. O "Dia Meta 10" e o 6º grau de maestria são conceitos metodológicos (sem código próprio, O-3).
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** os 3 trechos entre aspas desta ficha **não** resistem à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Todos deixam vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+- ✅ **Reanexação A5 (U92, 15/09/2026):** os 3 trechos entre aspas desta ficha foram reanexados às fontes e passam a trazer aparelho de linha (`— SIGLA · original.txt LNNNN`), conferido byte a byte pelo Portão B. **Quarentena epistemológica de 14/09/2026 (U86) levantada nesta ficha** — a nota original dizia que o trecho não resistia à verificação; agora resiste, porque deixou de ser uma transcrição solta e passou a ser extracto conferido. Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

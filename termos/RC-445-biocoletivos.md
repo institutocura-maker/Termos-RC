@@ -46,7 +46,7 @@ Sophia (RC-009, criador das famílias); Pandora (RC-086, contraste com os olimpi
 ## Citações-chave
 > "havia uma pequena diferença entre esses seres extrafísicos e os de Capela, pois os olimpianos eram urdidos individualmente e não são entes coletivos, enquanto os capelinos, que podem pertencer a grandes ou a pequenas famílias, também possuem corpos individualizados, **porém são coletivos, e não têm uma identidade própria**, como os olimpianos. **Os capelinos apresentam uma identidade coletiva, baseada e alicerçada nas características da família em que estão inseridos.**" — B057, p. 21
 
-> "tanto os seres de Capela quanto os olimpianos fazem parte de 'experiências' similares de um único 'projeto', que visa resolver os 'problemas' do Criador 'caído'." — B057, p. 21
+> «tanto os seres de Capela quanto os olimpianos» » … « «fazem parte de “experiências” similares de um único “projeto”, que visa resolver os» » … « «“problemas” do Criador “caído”.» — B057 p. 21 · `original.txt` L826 · reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte.
 
 ## Ampliação
 ### B058 (A Revolta do Anjo Decaído)
@@ -59,3 +59,4 @@ Sophia (RC-009, criador das famílias); Pandora (RC-086, contraste com os olimpi
 ## Observações
 **Ficha criada no ciclo B057 (Devolutiva O-2, 2026-08-25)** — termo já constava da tabela-mestra (B057/B058 nas fontes) sem ficha física. Nuance registrada na ficha de RC-442: a narrativa também descreve os Yel como "individualizados" (nascidos individualmente, porém coletivos) — ponto de atenção para reconciliar com as obras primárias. **Quarentena ufológica (O-7):** cruzar, não materializar como fato. 0 códigos novos (O-3).
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** os 2 trechos entre aspas desta ficha **não** resistem à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Todos deixam vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+- ✅ **Reanexação parcial A5 (U92, 15/09/2026):** 1 dos 2 trechos entre aspas desta ficha foi reanexado às fontes e passa a trazer aparelho de linha (`— SIGLA · original.txt LNNNN`), conferido byte a byte pelo Portão B. O restante permanece sob a quarentena epistemológica de 14/09/2026 (U86) — a nota acima continua a valer para ele. Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

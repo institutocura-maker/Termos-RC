@@ -44,7 +44,7 @@ Javé (RC-001); Jesus (RC-072); hierarquia celestial (Aya e Aye, RC-031).
 | O Drama Espiritual de Javé (B002) | cap. 17 (O Mal: Subproduto da Ignorância Espiritual) | pp. 187–189 (aprox.) | capítulo dedicado |
 
 ## Citações-chave
-> "O curioso, triste ou ainda ridículo em torno dessa ditadura é que, a exemplo do que se pode perceber na Terra, a opressão do Senhor Javé sobre tudo mais que o envolve no âmbito da sua criação, é pretensamente exercida em nome do 'bem'." — B002, cap. 17
+> «O curioso, triste ou ainda ridículo em torno dessa ditadura é que, a» » … « «exemplo do que se pode perceber na Terra, a opressão do Senhor Javé sobre» » … « «tudo mais que o envolve no âmbito da sua criação, é pretensamente exercida» » … « «em nome do “bem”.» — B002 p. 188 · `original.txt` L8428 · reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte.
 
 ## Ampliação
 ### B002 (O Drama Espiritual de Javé)
@@ -56,4 +56,4 @@ Javé (RC-001); Jesus (RC-072); hierarquia celestial (Aya e Aye, RC-031).
 
 ## Observações
 Ficha baseada em B002 (obra primária). Conceito ético central das RC — diferenciar do "mal" das religiões tradicionais. Cruzar com RC-224 (Prevalece o Amor, cap. 19 de B002).
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+- ✅ **Reanexação A5 (U92, 15/09/2026):** o trecho entre aspas desta ficha foi reanexado às fontes e passa a trazer aparelho de linha (`— SIGLA · original.txt LNNNN`), conferido byte a byte pelo Portão B. **Quarentena epistemológica de 14/09/2026 (U86) levantada nesta ficha** — a nota original dizia que o trecho não resistia à verificação; agora resiste, porque deixou de ser uma transcrição solta e passou a ser extracto conferido. Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

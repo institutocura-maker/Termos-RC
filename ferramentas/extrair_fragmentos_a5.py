@@ -104,6 +104,24 @@ def palavras(s: str) -> list[str]:
     return norm(s).split()
 
 
+# ── ALINHAMENTO FROUXO (U92) ───────────────────────────────────────────────
+# Descoberto ao medir a faixa 90–99%: o fosso NÃO é truncamento nos limites
+# (só 16 dos 161 blocos falham no início ou no fim) — é RUÍDO DE TRANSCRIÇÃO
+# NO MEIO da sentença. Contagem: 91 fossos são aspas divergentes («'x'» na
+# ficha contra «"x"» na fonte), 91 são artefactos («**negrito**», «[…]») e
+# 149 têem 1–2 palavras. Apenas 2 blocos têem edição real de prosa.
+# Logo: alinha-se com um normalizador que DESPREZA esses artefactos, mas
+# EMITE-SE sempre o substring real da fonte — o Portão B continua a exigir
+# byte a byte, e o que a ficha ganha é a pontuação da FONTE, não a do
+# transcriptor. Nada do conteúdo se perde: o artefacto nunca foi texto-fonte.
+LIXO = re.compile(r"[*_`\[\]'\"“”‘’…]")
+
+
+def frouxo(w: str) -> str:
+    """Chave de ALINHAMENTO: ignora pontuação editorial. Nunca usada na emissão."""
+    return LIXO.sub("", w).strip(" .,;:!?()").lower()
+
+
 # ══════════════════════════════════════════════════════════ 1. ler da ficha ──
 def indice_de_fichas() -> dict[str, str]:
     out: dict[str, str] = {}
@@ -228,6 +246,9 @@ def main() -> int:
                     metavar=("MIN", "MAX"))
     ap.add_argument("--cod", nargs="*", default=None)
     ap.add_argument("--verbose", action="store_true")
+    ap.add_argument("--frouxo", action="store_true",
+                    help="alinhar com o normalizador frouxo (ignora pontuação "
+                         "editorial); a emissão continua byte a byte")
     a = ap.parse_args()
 
     censo = json.load(open(CENSO, encoding="utf-8"))
@@ -264,7 +285,8 @@ def main() -> int:
             continue
         pal_fonte = palavras_com_linha(ob.linhas, par["ini"], par["fim"])
         fonte = [w for w, _l, _a, _b in pal_fonte]
-        blocosm = alinhar(alvo, fonte)
+        chave = frouxo if a.frouxo else (lambda w: w)
+        blocosm = alinhar([chave(w) for w in alvo], [chave(w) for w in fonte])
         frag = fragmentar(blocosm, pal_fonte, ob.linhas)
         cobertas = sum(k for _i, _j, k in blocosm)
         pct = round(100 * cobertas / len(alvo), 1)
@@ -319,6 +341,7 @@ def main() -> int:
             "trecho_atual": nucleo,
             "palavras": len(alvo),
             "cobertura": pct,
+            "alinhamento": "frouxo" if a.frouxo else "estrito",
             "cobertas": cobertas,
             "fragmentos": [[f["linha"], f["texto"]] for f in frag],
             "nota": ("reanexado à fonte na U91 (A5); o trecho legado era fiel ao "
@@ -347,14 +370,20 @@ def main() -> int:
         "data": "2026-09-15",
         "aplicar_V": False,
         "criterio": (
-            "A5 — reanexação dos blocos legados com localização conhecida no "
+            "A5/{} — reanexação dos blocos legados com localização conhecida no ".format(
+                "U92" if a.frouxo else "U91") + 
             "corpus. Comportas: G1 cobertura 100% (nada do que a ficha diz se "
             "perde) · G2 <= 6 fragmentos e <= 60 palavras (é citação, não "
             "capítulo) · G3 nenhum fragmento só de símbolos · G4 nenhuma marca "
             "de censura/elisão · G5 Portão B (`conferir`, importado do driver) "
             "aceita cada fragmento na sua linha. Os 25 blocos reprovados por "
             "G2 ficam para unidade própria: não se trunca citação para caber "
-            "no blockquote, porque truncar seria suprimir conteúdo da ficha."),
+            "no blockquote, porque truncar seria suprimir conteúdo da ficha."
+            + (" ALINHAMENTO FROUXO: a chave de alinhamento despreza pontuação "
+               "editorial (aspas divergentes, **negrito**, […]) porque se mediu "
+               "que 159 dos 161 blocos desta faixa divergem por ARTEFACTO e não "
+               "por conteúdo; a emissão, porém, é sempre o substring real da "
+               "linha-fonte, conferido byte a byte." if a.frouxo else "")),
         "nota_hardwrap": (
             "**Fratura de hard-wrap:** a edição digital das fontes quebra as "
             "sentenças em linhas curtas. Cada fragmento entre «» é verbatim "

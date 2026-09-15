@@ -42,7 +42,7 @@ Heber (RC-436); Joctan (RC-437); Noé; Despina (narradora da estirpe).
 | Homoafetividade: O Segredo Perdido do Éden (B052) | obra integral (4 partes, 15 caps.) | — | tema-título |
 
 ## Citações-chave
-> "não será nesse primeiro livro sobre homoafetividade que me será possível abordar a dramática questão da 'identidade de gêneros' que agora eclode explosivamente — e que sempre existiu — no seio das novas gerações humanas, devido a um 'marco temporal limite' de um processo cuja origem e desdobramentos permanecem desconhecidos para a humanidade – mas por pouco tempo!" — B052
+> «não será nesse primeiro livro sobre» » … « «homoafetividade que me será possível abordar a dramática questão da» » … « «“identidade de gêneros” que agora eclode explosivamente — e que sempre» » … « «existiu — no seio das novas gerações humanas, devido a um “marco temporal» » … « «limite” de um processo cuja origem e desdobramentos permanecem» » … « «desconhecidos para a humanidade – mas por pouco tempo!» — B052 p. 234 · `original.txt` L8847 · reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte.
 
 ## Ampliação
 ### P2025-03-15
@@ -69,3 +69,4 @@ A palestra P2025-03-15 apresenta outra hipótese causal, vinculando homoafetivid
 
 A hipótese de P2025-03-15 não possui validação científica e deve ser apresentada com atribuição explícita, respeito às pessoas LGBTQIA+ e sem patologização.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+- ✅ **Reanexação parcial A5 (U92, 15/09/2026):** 0 dos 1 trechos entre aspas desta ficha foram reanexado às fontes e passa a trazer aparelho de linha (`— SIGLA · original.txt LNNNN`), conferido byte a byte pelo Portão B. O restante permanece sob a quarentena epistemológica de 14/09/2026 (U86) — a nota acima continua a valer para ele. Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

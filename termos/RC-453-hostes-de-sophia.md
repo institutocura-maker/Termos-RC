@@ -47,7 +47,7 @@ Sophia (RC-009, o comandante); os Administradores/Assessores; os "anjos assessor
 ## Citações-chave
 > "Por mais desagradável que seja, preciso informar o leitor que a 'Revolta dos Anjos Decaídos' foi uma rebelião deflagrada há uns 687 mil anos, em Capela, **contra Sophia e as suas hostes**, que resultou na morte de seres de várias espécies desse Sistema Solar e de outros..." — B057, p. 19
 
-> "Passámos, então, a pensar e a agir conforme uma organização que se assemelha ao que os humanos da Terra conhecem como sendo um 'Exército'. Tínhamos 'líderes e soldados' que estavam a aprontar-se para **combater Sophia e as suas Hostes bélicas**!" — B058, p. 74
+> «Passámos, então, a pensar e a agir» » … « «conforme uma organização que se  assemelha ao que os  humanos da Terra conhecem» » … « «como sendo um “Exército”.  Tínhamos “líderes e soldados” que estavam a  aprontar-se» » … « «para combater Sophia e as suas Hostes bélicas!» — B058 p. 74 · `original.txt` L2698 · reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte.
 
 ## Ampliação
 ### P2020-08-08 (Sophia e o Alinhamento Interdimensional do Moscoviano)
@@ -67,4 +67,4 @@ Sophia (RC-009, o comandante); os Administradores/Assessores; os "anjos assessor
 
 ## Observações
 **Ficha criada no ciclo B058 (Devolutiva O-2, 2026-08-25)** — termo já constava da tabela-mestra (B057/B058 nas fontes) sem ficha física. **Quarentenas (O-7):** mediumística (narrativa psicografada — "leitura do ser") + ufológica (força bélica extraterrestre — cruzar, não materializar). A identificação "Hostes = o Criador" (B057, p. 49) é **teoria do ser em revolta** — não fato ontológico. 0 códigos novos (O-3).
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** os 2 trechos entre aspas desta ficha **não** resistem à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Todos deixam vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+- ✅ **Reanexação A5 (U92, 15/09/2026):** os 2 trechos entre aspas desta ficha foram reanexados às fontes e passam a trazer aparelho de linha (`— SIGLA · original.txt LNNNN`), conferido byte a byte pelo Portão B. **Quarentena epistemológica de 14/09/2026 (U86) levantada nesta ficha** — a nota original dizia que o trecho não resistia à verificação; agora resiste, porque deixou de ser uma transcrição solta e passou a ser extracto conferido. Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

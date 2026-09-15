@@ -1,0 +1,1539 @@
+{
+ "unidade": "U92",
+ "lote": "A5-2",
+ "rota": "R1",
+ "data": "2026-09-15",
+ "aplicar_V": false,
+ "criterio": "A5/U92 — reanexação dos blocos legados com localização conhecida no corpus. Comportas: G1 cobertura 100% (nada do que a ficha diz se perde) · G2 <= 6 fragmentos e <= 60 palavras (é citação, não capítulo) · G3 nenhum fragmento só de símbolos · G4 nenhuma marca de censura/elisão · G5 Portão B (`conferir`, importado do driver) aceita cada fragmento na sua linha. Os 25 blocos reprovados por G2 ficam para unidade própria: não se trunca citação para caber no blockquote, porque truncar seria suprimir conteúdo da ficha. ALINHAMENTO FROUXO: a chave de alinhamento despreza pontuação editorial (aspas divergentes, **negrito**, […]) porque se mediu que 159 dos 161 blocos desta faixa divergem por ARTEFACTO e não por conteúdo; a emissão, porém, é sempre o substring real da linha-fonte, conferido byte a byte.",
+ "nota_hardwrap": "**Fratura de hard-wrap:** a edição digital das fontes quebra as sentenças em linhas curtas. Cada fragmento entre «» é verbatim **intra-linha**, conferido byte a byte contra o `original.txt` da obra declarada; quando uma sentença foi partida, o seu início e o seu fecho aparecem como fragmentos distintos, unidos por » … «.",
+ "fichas": [
+  {
+   "cod": "RC-016",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citação-chave",
+   "sigla": "B031",
+   "linha": 3047,
+   "chave": "adhyajna: formas avataricas, demo ou homo, de vishnu e shiva;",
+   "trecho_atual": "Adhyajna: Formas avatáricas, demo ou homo, de Vishnu e Shiva; também denominada 'base sacrificial'. Foram criadas pelo fato das formas Adhydaiva não poderem deixar o universo paralelo, onde se encontram.",
+   "palavras": 30,
+   "cobertura": 100.0,
+   "alinhamento": "frouxo",
+   "cobertas": 30,
+   "fragmentos": [
+    [
+     3047,
+     "Adhyajna: Formas avatáricas, demo ou homo, de Vishnu e Shiva;"
+    ],
+    [
+     3048,
+     "também denominada “base sacrificial”. Foram criadas pelo fato das"
+    ],
+    [
+     3049,
+     "formas Adhydaiva não poderem deixar o universo paralelo, onde se"
+    ],
+    [
+     3050,
+     "encontram."
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-033",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citação-chave",
+   "sigla": "B031",
+   "linha": 615,
+   "chave": "na revelacao cosmica esse universo e chamado de bhuloka, que",
+   "trecho_atual": "Na Revelação Cósmica esse universo é chamado de Bhuloka, que em sânscrito significa 'o mundo'.",
+   "palavras": 15,
+   "cobertura": 100.0,
+   "alinhamento": "frouxo",
+   "cobertas": 15,
+   "fragmentos": [
+    [
+     615,
+     "Na Revelação Cósmica esse universo"
+    ],
+    [
+     616,
+     "é chamado de Bhuloka, que em sânscrito significa “o mundo”."
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-034",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citação-chave",
+   "sigla": "B031",
+   "linha": 3201,
+   "chave": "big bang: e a teoria cosmologica sobre o desenvolvimento inicial",
+   "trecho_atual": "Big Bang: É a teoria cosmológica sobre o desenvolvimento inicial do universo. Também chamada de 'Grande Expansão', foi o nome dado à singularidade que criou o nosso universo.",
+   "palavras": 28,
+   "cobertura": 100.0,
+   "alinhamento": "frouxo",
+   "cobertas": 28,
+   "fragmentos": [
+    [
+     3201,
+     "Big Bang: É a teoria cosmológica sobre o desenvolvimento inicial do"
+    ],
+    [
+     3202,
+     "universo. Também chamada de “Grande Expansão”, foi o nome dado à"
+    ],
+    [
+     3203,
+     "singularidade que criou o nosso universo."
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-036",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citações-chave",
+   "sigla": "B057",
+   "linha": 40,
+   "chave": "a inquietacao entao sentida e as perguntas feitas, ate entao",
+   "trecho_atual": "A inquietação então sentida e as perguntas feitas, até então jamais respondidas, foram o estopim de conflitos e **modificações no genoma de alguns biodemos** que terminaram classificados como 'rebelados' pelas hostes celestiais que os exilaram daquele circuito cósmico.",
+   "palavras": 38,
+   "cobertura": 100.0,
+   "alinhamento": "frouxo",
+   "cobertas": 38,
+   "fragmentos": [
+    [
+     40,
+     "A inquietação então sentida e as perguntas feitas,"
+    ],
+    [
+     41,
+     "até então jamais respondidas, foram o estopim de"
+    ],
+    [
+     42,
+     "conflitos e modificações no genoma de alguns biodemos"
+    ],
+    [
+     43,
+     "que terminaram classificados como “rebelados” pelas"
+    ],
+    [
+     44,
+     "hostes celestiais que os exilaram daquele circuito"
+    ],
+    [
+     45,
+     "cósmico."
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-037",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citações-chave",
+   "sigla": "B031",
+   "linha": 3220,
+   "chave": "na revelacao cosmica, brahma e o 'criador caido, apodrecido e",
+   "trecho_atual": "Na Revelação Cósmica, Brahma é o 'Criador caído, apodrecido e adoentado'. Em Perpérion (na Espiritualidade Laboratorial), antes de 'cair' em sua criação, ele era Brajna, em sua condição Adhyatman.",
+   "palavras": 29,
+   "cobertura": 100.0,
+   "alinhamento": "frouxo",
+   "cobertas": 29,
+   "fragmentos": [
+    [
+     3220,
+     "Na Revelação Cósmica, Brahma é o “Criador caído, apodrecido e"
+    ],
+    [
+     3221,
+     "adoentado”.  Em Perpérion (na Espiritualidade Laboratorial), antes de"
+    ],
+    [
+     3222,
+     "“cair” em sua criação, ele era Brajna, em sua condição Adhyatman."
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-038",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citação-chave",
+   "sigla": "B031",
+   "linha": 604,
+   "chave": "na revelacao cosmica esse universo e chamado de brahmaloka, que",
+   "trecho_atual": "Na Revelação Cósmica esse universo é chamado de Brahmaloka, que significa 'a morada de Brahma', e é composto por lokas (ou moradas extrafísicas). É no Brahmaloka que Brahma/Javé (o Deus Bíblico) 'caiu' na hora da criação e ainda reside.",
+   "palavras": 39,
+   "cobertura": 100.0,
+   "alinhamento": "frouxo",
+   "cobertas": 39,
+   "fragmentos": [
+    [
+     604,
+     "Na Revelação Cósmica esse universo é"
+    ],
+    [
+     605,
+     "chamado de Brahmaloka, que significa “a morada de Brahma”, e é"
+    ],
+    [
+     606,
+     "composto por lokas (ou moradas extrafísicas). É no Brahmaloka que"
+    ],
+    [
+     607,
+     "Brahma/Javé (o Deus Bíblico) “caiu” na hora da criação e ainda reside."
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-039",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citações-chave",
+   "sigla": "B057",
+   "linha": 414,
+   "chave": "alfa aurigae ou capela e, na verdade **um arranjo de",
+   "trecho_atual": "Alfa Aurigae ou Capela é, na verdade **um arranjo de quatro estrelas – duas gigantes amarelas e duas anãs vermelhas –**, e pertence à constelação de Auriga ou constelação do Cocheiro.",
+   "palavras": 31,
+   "cobertura": 100.0,
+   "alinhamento": "frouxo",
+   "cobertas": 31,
+   "fragmentos": [
+    [
+     414,
+     "Alfa Aurigae ou Capela é, na verdade um arranjo de quatro estrelas – duas gigantes amarelas e duas anãs vermelhas –,"
+    ],
+    [
+     415,
+     "e pertence à constelação de Auriga ou constelação do Cocheiro."
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-047",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citações-chave",
+   "sigla": "B031",
+   "linha": 3285,
+   "chave": "seria o pai-mae amantissimo, o ser supremo que deu origem",
+   "trecho_atual": "Seria o Pai-Mãe Amantíssimo, o Ser Supremo que deu origem a toda a Matriz Divina. Seria o 'Brahman' (e não Brahma) da tradição Hindu.",
+   "palavras": 24,
+   "cobertura": 100.0,
+   "alinhamento": "frouxo",
+   "cobertas": 24,
+   "fragmentos": [
+    [
+     3285,
+     "Seria o Pai-Mãe Amantíssimo, o Ser Supremo que deu"
+    ],
+    [
+     3286,
+     "origem a toda a Matriz Divina. Seria o “Brahman” (e não Brahma) da"
+    ],
+    [
+     3287,
+     "tradição Hindu."
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-049",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citações-chave",
+   "sigla": "B016",
+   "linha": 9186,
+   "chave": "nas obras de jan val ellam, a expressao 'demo' define",
+   "trecho_atual": "Nas obras de Jan Val Ellam, a expressão 'demo' define tão somente os seres que habitam um universo paralelo ao que vivemos, de origem antimaterial, sendo alguns deles, inclusive, chamados de 'deuses', cujos nomes aparecem nas diversas mitologias do passado.",
+   "palavras": 40,
+   "cobertura": 100.0,
+   "alinhamento": "frouxo",
+   "cobertas": 40,
+   "fragmentos": [
+    [
+     9186,
+     "Nas obras de Jan Val Ellam, a expressão “demo” define tão somente os"
+    ],
+    [
+     9187,
+     "seres que habitam um universo paralelo ao que vivemos, de origem"
+    ],
+    [
+     9188,
+     "antimaterial, sendo alguns deles, inclusive, chamados de “deuses”, cujos"
+    ],
+    [
+     9189,
+     "nomes aparecem nas diversas mitologias do passado."
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-052",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citações-chave",
+   "sigla": "B031",
+   "linha": 3350,
+   "chave": "existe o deus biblico, o qual chamamos de jave na",
+   "trecho_atual": "existe o Deus Bíblico, o qual chamamos de Javé na Religião Católica é o Criador ('caído') desse universo, e por isso é chamado de Criador e não Deus. E existe o Deus Incognoscível que é só amor, a Deidade Suprema, a Fonte de tudo o que há, que é superior e está acima de qualquer Divindade.",
+   "palavras": 56,
+   "cobertura": 100.0,
+   "alinhamento": "frouxo",
+   "cobertas": 56,
+   "fragmentos": [
+    [
+     3350,
+     "existe o Deus Bíblico, o qual chamamos de Javé na Religião"
+    ],
+    [
+     3351,
+     "Católica é o Criador (“caído”) desse universo, e por isso é chamado de"
+    ],
+    [
+     3352,
+     "Criador e não Deus. E existe o Deus Incognoscível que é só amor, a"
+    ],
+    [
+     3353,
+     "Deidade Suprema, a Fonte de tudo o que há, que é superior e está acima de"
+    ],
+    [
+     3354,
+     "qualquer Divindade."
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-057",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citação-chave",
+   "sigla": "B017",
+   "linha": 731,
+   "chave": "primeiro pousou 'espherian', a maior das tres; depois 'asphezian', a",
+   "trecho_atual": "Primeiro pousou 'espherian', a maior das três; depois 'asphezian', a mais requintada e poderosa e, cerca de quase seis milénios depois, a menor e mais adaptada para todo tipo de missão.",
+   "palavras": 31,
+   "cobertura": 100.0,
+   "alinhamento": "frouxo",
+   "cobertas": 31,
+   "fragmentos": [
+    [
+     731,
+     "Primeiro pousou “espherian”, a maior das três; depois “asphezian”, a mais"
+    ],
+    [
+     732,
+     "requintada e poderosa e, cerca de quase seis milénios depois, a menor e mais adaptada"
+    ],
+    [
+     733,
+     "para todo tipo de missão,"
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-071",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citações-chave",
+   "sigla": "B031",
+   "linha": 148,
+   "chave": "trilha cerebral aqui significa o conjunto dos novos elementos agora",
+   "trecho_atual": "Trilha cerebral aqui significa o conjunto dos novos elementos agora colecionados no jogo sináptico dos mais de 80 bilhões de neurônios produzindo cerca de 100 trilhões de estradas neurais no cérebro humano.",
+   "palavras": 32,
+   "cobertura": 100.0,
+   "alinhamento": "frouxo",
+   "cobertas": 32,
+   "fragmentos": [
+    [
+     148,
+     "Trilha cerebral aqui significa o conjunto dos novos elementos agora"
+    ],
+    [
+     149,
+     "colecionados no jogo sináptico dos mais de 80 bilhões de neurônios"
+    ],
+    [
+     150,
+     "produzindo cerca de 100 trilhões de estradas neurais no cérebro humano"
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-079",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citação-chave",
+   "sigla": "B031",
+   "linha": 2703,
+   "chave": "97 mil anos a.p.: seis naves-base chamadas de 'mastlans phisosferas'",
+   "trecho_atual": "97 mil anos A.P.: Seis naves-base chamadas de 'Mastlans Phisosferas' ou 'Mastlans Luciferianas' aportam na Terra trazendo 6.029 seres biodemos rebelados de várias famílias, entre os quais estava Yel Luzbel (Lúcifer).",
+   "palavras": 31,
+   "cobertura": 100.0,
+   "alinhamento": "frouxo",
+   "cobertas": 31,
+   "fragmentos": [
+    [
+     2703,
+     "97 mil anos A.P.:"
+    ],
+    [
+     2704,
+     "Seis naves-base chamadas de “Mastlans Phisosferas” ou “Mastlans"
+    ],
+    [
+     2705,
+     "Luciferianas” aportam na Terra trazendo 6.029 seres biodemos rebelados de"
+    ],
+    [
+     2706,
+     "várias famílias, entre os quais estava Yel Luzbel (Lúcifer)."
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-107",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citações-chave",
+   "sigla": "B031",
+   "linha": 3882,
+   "chave": "e o universo que habitamos e que passou a existir",
+   "trecho_atual": "É o universo que habitamos e que passou a existir há 13,7 bilhões de anos, a partir de uma singularidade a qual chamamos de 'Big Bang'. É formado por bilhões de galáxias, estrelas e planetas. Também chamado de Bhuloka.",
+   "palavras": 39,
+   "cobertura": 100.0,
+   "alinhamento": "frouxo",
+   "cobertas": 39,
+   "fragmentos": [
+    [
+     3882,
+     "É o universo que habitamos e que passou a"
+    ],
+    [
+     3883,
+     "existir há 13,7 bilhões de anos, a partir de uma singularidade a qual"
+    ],
+    [
+     3884,
+     "chamamos de “Big Bang”. É formado por bilhões de galáxias, estrelas e"
+    ],
+    [
+     3885,
+     "planetas. Também chamado de Bhuloka."
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-145",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citações-chave",
+   "sigla": "B087",
+   "linha": 702,
+   "chave": "ele se julgava importante o suficiente para se autoproclamar como",
+   "trecho_atual": "Ele se julgava importante o suficiente para se autoproclamar como o 'Senhor de Todos os Seres Viventes' ou o 'Senhor de Toda a Criação', e assim, de título em título, a sua soberba não tinha fim. Era tremenda a pretensão desse deus!",
+   "palavras": 42,
+   "cobertura": 100.0,
+   "alinhamento": "frouxo",
+   "cobertas": 42,
+   "fragmentos": [
+    [
+     702,
+     "Ele se"
+    ],
+    [
+     703,
+     "julgava importante o suficiente para se autoproclamar como o “Senhor de Todos os Seres"
+    ],
+    [
+     704,
+     "Viventes” ou o “Senhor de Toda a Criação”, e assim, de título em título, a sua soberba"
+    ],
+    [
+     705,
+     "não tinha fim. Era tremenda a pretensão desse deus!"
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-150",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citações-chave",
+   "sigla": "B024",
+   "linha": 160,
+   "chave": "no futuro, eu deveria escrever sobre a 'epopeia da consciencia",
+   "trecho_atual": "no futuro, eu deveria escrever sobre a 'Epopeia da Consciência Espiritual' por trás dos 'Agentes' de um 'Jogo' – que resolvi denominar como sendo 'Xadrez Cósmico' – que era executado por algumas Divindades, tomando sempre as espécies da vida universal como sendo as suas 'equipes'.",
+   "palavras": 45,
+   "cobertura": 100.0,
+   "alinhamento": "frouxo",
+   "cobertas": 45,
+   "fragmentos": [
+    [
+     160,
+     "no futuro, eu deveria escrever sobre a “Epopeia da"
+    ],
+    [
+     161,
+     "Consciência Espiritual” por trás dos “Agentes” de um “Jogo” – que resolvi"
+    ],
+    [
+     162,
+     "denominar como sendo “Xadrez Cósmico” – que era executado por algumas"
+    ],
+    [
+     163,
+     "Divindades, tomando sempre as espécies da vida universal como sendo as"
+    ],
+    [
+     164,
+     "suas “equipes”."
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-151",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citações-chave",
+   "sigla": "B013",
+   "linha": 7296,
+   "chave": "portanto, associando os conhecimentos arianos-hindus e cientificos, tudo o que",
+   "trecho_atual": "Portanto, associando os conhecimentos arianos-hindus e científicos, tudo o que é visível no universo corresponde a apenas 5% (energia Rajas, de Prabrajna) de toda a matéria/energia que existe, e que, do restante, 27% corresponde à matéria escura (energia Sattva, de Mavatna) e 68% corresponde à energia escura (energia Tamas, de Savna).",
+   "palavras": 51,
+   "cobertura": 100.0,
+   "alinhamento": "frouxo",
+   "cobertas": 51,
+   "fragmentos": [
+    [
+     7296,
+     "“Portanto, associando os conhecimentos arianos-hindus e científicos, tudo o que é visível no universo"
+    ],
+    [
+     7297,
+     "corresponde a apenas 5% (energia Rajas, de Prabrajna) de toda a matéria/energia que existe, e que,"
+    ],
+    [
+     7298,
+     "do restante, 27% corresponde à matéria escura (energia Sattva, de Mavatna) e 68% corresponde à"
+    ],
+    [
+     7299,
+     "energia escura (energia Tamas, de Savna)."
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-166",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citações-chave",
+   "sigla": "B074",
+   "linha": 318,
+   "chave": "o mentalma se trata de uma 'busca' pelo autoconhecimento, pelo",
+   "trecho_atual": "O Mentalma se trata de uma 'busca' pelo autoconhecimento, pelo autocontrole, pela elevação do nível de compreensão sobre a vida e os eventos ao nosso redor, enfim, pela emancipação do psiquismo.",
+   "palavras": 31,
+   "cobertura": 100.0,
+   "alinhamento": "frouxo",
+   "cobertas": 31,
+   "fragmentos": [
+    [
+     318,
+     "o Mentalma se trata de uma “busca” pelo autoconhecimento, pelo"
+    ],
+    [
+     319,
+     "autocontrole, pela elevação do nível de compreensão sobre a vida e os"
+    ],
+    [
+     320,
+     "eventos ao nosso redor, enfim, pela emancipação do psiquismo."
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-223",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citações-chave",
+   "sigla": "B002",
+   "linha": 8428,
+   "chave": "o curioso, triste ou ainda ridiculo em torno dessa ditadura",
+   "trecho_atual": "O curioso, triste ou ainda ridículo em torno dessa ditadura é que, a exemplo do que se pode perceber na Terra, a opressão do Senhor Javé sobre tudo mais que o envolve no âmbito da sua criação, é pretensamente exercida em nome do 'bem'.",
+   "palavras": 44,
+   "cobertura": 100.0,
+   "alinhamento": "frouxo",
+   "cobertas": 44,
+   "fragmentos": [
+    [
+     8428,
+     "O curioso, triste ou ainda ridículo em torno dessa ditadura é que, a"
+    ],
+    [
+     8429,
+     "exemplo do que se pode perceber na Terra, a opressão do Senhor Javé sobre"
+    ],
+    [
+     8430,
+     "tudo mais que o envolve no âmbito da sua criação, é pretensamente exercida"
+    ],
+    [
+     8431,
+     "em nome do “bem”."
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-245",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citações-chave",
+   "sigla": "B015",
+   "linha": 3240,
+   "chave": "depois de muitos bilhoes de anos, contados a moda terraquea,",
+   "trecho_atual": "Depois de muitos bilhões de anos, contados à moda terráquea, ver o meu Criador 'disposto' a buscar o entendimento de como aquelas primeiras criaturas humanizadas saíram da destinação que Ele traçara, e agora, parecerem 'senhores de um destino' ao qual ele se vê obrigado a aceitar, creiam-me, não é fácil para um En Drel.",
+   "palavras": 54,
+   "cobertura": 100.0,
+   "alinhamento": "frouxo",
+   "cobertas": 54,
+   "fragmentos": [
+    [
+     3240,
+     "Depois de muitos bilhões de anos, contados à moda terráquea, ver o meu"
+    ],
+    [
+     3241,
+     "Criador “disposto” a buscar o entendimento de como aquelas primeiras"
+    ],
+    [
+     3242,
+     "criaturas humanizadas, saíram da destinação que Ele traçara, e agora,"
+    ],
+    [
+     3243,
+     "parecerem “senhores de um destino” ao qual ele se vê obrigado a aceitar,"
+    ],
+    [
+     3244,
+     "creiam-me, não é fácil para um En Drel."
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-262",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citação-chave",
+   "sigla": "P2025-05-31",
+   "linha": 119,
+   "chave": "existia uma luz que criou o que nao devia, caiu",
+   "trecho_atual": "Existia uma luz que criou o que não devia, caiu onde não devia e por isso a sua luz se tornou refém do abismo que ela própria criou.",
+   "palavras": 28,
+   "cobertura": 100.0,
+   "alinhamento": "frouxo",
+   "cobertas": 28,
+   "fragmentos": [
+    [
+     119,
+     "Existia uma luz que criou o que não devia, caiu onde não devia e por isso a sua luz se tornou refém. do abismo que ela própria criou."
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-292",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citações-chave",
+   "sigla": "B021",
+   "linha": 5428,
+   "chave": "para o 'rei do olimpo' tem sido inacreditavel e mesmo",
+   "trecho_atual": "Para o 'Rei do Olimpo' tem sido inacreditável e mesmo inaceitável que tenha sobrado para o seu telos a missão inglória...",
+   "palavras": 21,
+   "cobertura": 100.0,
+   "alinhamento": "frouxo",
+   "cobertas": 21,
+   "fragmentos": [
+    [
+     5428,
+     "Para o “Rei do Olimpo” tem sido inacreditável e mesmo inaceitável que"
+    ],
+    [
+     5429,
+     "tenha sobrado para o seu"
+    ],
+    [
+     5430,
+     "telos"
+    ],
+    [
+     5431,
+     "a missão inglória"
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-297",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citações-chave",
+   "sigla": "B021",
+   "linha": 5378,
+   "chave": "ele invadiu, sim, a 'era dos humanos', mas as religioes",
+   "trecho_atual": "Ele invadiu, sim, a 'Era dos Humanos', mas as religiões que posteriormente foram surgindo transformaram o seu esforço em nada, numa mera criação literária. Entretanto, foi desse modo que Zeus tentou lidar com a 'Era dos Humanos', sendo o seu objetivo o de ser tido como o 'deus dos humanos', o 'pai dos humanos'.",
+   "palavras": 54,
+   "cobertura": 100.0,
+   "alinhamento": "frouxo",
+   "cobertas": 54,
+   "fragmentos": [
+    [
+     5378,
+     "Ele invadiu, sim, a “Era dos Humanos”, mas as religiões que"
+    ],
+    [
+     5379,
+     "posteriormente foram surgindo, transformaram o seu esforço em nada, numa"
+    ],
+    [
+     5380,
+     "mera criação literária. Entretanto, foi desse modo que Zeus tentou lidar com a"
+    ],
+    [
+     5381,
+     "“Era dos Humanos”, sendo o seu objetivo o de ser tido como o “deus dos"
+    ],
+    [
+     5382,
+     "humanos”, o “pai dos humanos”."
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-298",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citações-chave",
+   "sigla": "B021",
+   "linha": 5241,
+   "chave": "assim, deucaliao e pirra, que eram demos sexuados, tornaram-se o",
+   "trecho_atual": "Assim, Deucalião e Pirra, que eram demos sexuados, tornaram-se o que, para nós, humanos, seria 'marido e mulher'. Eles tiveram vários filhos e filhas que portavam as sequências genéticas mais ricas da 'herança' de Caos nos seus códigos-fonte definidores de vida.",
+   "palavras": 41,
+   "cobertura": 100.0,
+   "alinhamento": "frouxo",
+   "cobertas": 41,
+   "fragmentos": [
+    [
+     5241,
+     "Assim, Deucalião e Pirra, que eram demos sexuados, tornaram-se o que,"
+    ],
+    [
+     5242,
+     "para nós, humanos, seria “marido e mulher”. Eles tiveram vários filhos e"
+    ],
+    [
+     5243,
+     "filhas que portavam as sequências genéticas mais ricas da “herança” de Caos"
+    ],
+    [
+     5244,
+     "nos seus códigos-fonte definidores de vida,"
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-357",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citações-chave",
+   "sigla": "B005",
+   "linha": 1401,
+   "chave": "sendo, portanto, o nosso planeta uma especie de 'terra de",
+   "trecho_atual": "Sendo, portanto, o nosso planeta uma espécie de 'terra de ninguém' estava passível de receber visitas exploratórias (muitas vezes com fins pouco nobres) de quaisquer civilizações que não estivessem vinculadas às confederações de mundos, sendo essas confederações a maneira, através da qual, diversas civilizações celestiais minimamente evoluídas se aglutinam em torno das regras da convivência cósmica e da ajuda mútua.",
+   "palavras": 60,
+   "cobertura": 100.0,
+   "alinhamento": "frouxo",
+   "cobertas": 60,
+   "fragmentos": [
+    [
+     1401,
+     "Sendo, portanto, o nosso planeta uma espécie de \"terra de ninguém\""
+    ],
+    [
+     1402,
+     "estava passível de receber visitas exploratórias (muitas vezes com fins"
+    ],
+    [
+     1403,
+     "pouco nobres) de quaisquer civilizações que não estivessem vinculadas às"
+    ],
+    [
+     1404,
+     "confederações de mundos, sendo essas confederações a maneira, através"
+    ],
+    [
+     1405,
+     "da qual, diversas civilizações celestiais minimamente evoluídas se"
+    ],
+    [
+     1406,
+     "aglutinam em torno das regras da convivência cósmica e da ajuda mútua."
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-369",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citações-chave",
+   "sigla": "B049",
+   "linha": 4167,
+   "chave": "pude constatar que, entre jesus e nietzsche, parecia existir a",
+   "trecho_atual": "Pude constatar que, entre Jesus e Nietzsche, parecia existir a mais estranha das parcerias, por mim percebida nas entrelinhas dos fatos, ainda que a mesma possa parecer curiosa por força do corajoso antagonismo que o filósofo assumiu frente aos equívocos dos 'donos do legado' do Messias.",
+   "palavras": 46,
+   "cobertura": 100.0,
+   "alinhamento": "frouxo",
+   "cobertas": 46,
+   "fragmentos": [
+    [
+     4167,
+     "pude constatar que, entre Jesus e Nietzsche, parecia existir a mais estranha das"
+    ],
+    [
+     4168,
+     "parcerias, por mim percebida nas entrelinhas dos fatos, ainda que a mesma possa"
+    ],
+    [
+     4169,
+     "parecer curiosa por força do corajoso antagonismo que o filósofo assumiu frente"
+    ],
+    [
+     4170,
+     "aos equívocos dos “donos do legado” do Messias."
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-434",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citações-chave",
+   "sigla": "B052",
+   "linha": 8847,
+   "chave": "nao sera nesse primeiro livro sobre homoafetividade que me sera",
+   "trecho_atual": "não será nesse primeiro livro sobre homoafetividade que me será possível abordar a dramática questão da 'identidade de gêneros' que agora eclode explosivamente — e que sempre existiu — no seio das novas gerações humanas, devido a um 'marco temporal limite' de um processo cuja origem e desdobramentos permanecem desconhecidos para a humanidade – mas por pouco tempo!",
+   "palavras": 58,
+   "cobertura": 100.0,
+   "alinhamento": "frouxo",
+   "cobertas": 58,
+   "fragmentos": [
+    [
+     8847,
+     "não será nesse primeiro livro sobre"
+    ],
+    [
+     8848,
+     "homoafetividade que me será possível abordar a dramática questão da"
+    ],
+    [
+     8849,
+     "“identidade de gêneros” que agora eclode explosivamente — e que sempre"
+    ],
+    [
+     8850,
+     "existiu — no seio das novas gerações humanas, devido a um “marco temporal"
+    ],
+    [
+     8851,
+     "limite” de um processo cuja origem e desdobramentos permanecem"
+    ],
+    [
+     8852,
+     "desconhecidos para a humanidade – mas por pouco tempo!"
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-443",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citações-chave",
+   "sigla": "B058",
+   "linha": 26,
+   "chave": "enquanto os 'sabios' da familia yel aguardam as respostas de",
+   "trecho_atual": "Enquanto os 'sábios' da Família Yel aguardam as respostas de Sophia para as questões do Primeiro Pesquisador Yel Luzbel, a Família Mion decide entrar em contato com os demais Biocoletivos espalhados pelo universo.",
+   "palavras": 33,
+   "cobertura": 100.0,
+   "alinhamento": "frouxo",
+   "cobertas": 33,
+   "fragmentos": [
+    [
+     26,
+     "Enquanto os “sábios” da Família Yel aguardam as"
+    ],
+    [
+     27,
+     "respostas de Sophia para as questões do Primeiro"
+    ],
+    [
+     28,
+     "Pesquisador Yel Luzbel, a Família Mion decide entrar"
+    ],
+    [
+     29,
+     "em contato com os demais Biocoletivos espalhados"
+    ],
+    [
+     30,
+     "pelo universo."
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-445",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citações-chave",
+   "sigla": "B057",
+   "linha": 826,
+   "chave": "tanto os seres de capela quanto os olimpianos fazem parte",
+   "trecho_atual": "tanto os seres de Capela quanto os olimpianos fazem parte de 'experiências' similares de um único 'projeto', que visa resolver os 'problemas' do Criador 'caído'.",
+   "palavras": 25,
+   "cobertura": 100.0,
+   "alinhamento": "frouxo",
+   "cobertas": 25,
+   "fragmentos": [
+    [
+     826,
+     "tanto os seres de Capela quanto os olimpianos"
+    ],
+    [
+     827,
+     "fazem parte de “experiências” similares de um único “projeto”, que visa resolver os"
+    ],
+    [
+     828,
+     "“problemas” do Criador “caído”."
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-446",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citações-chave",
+   "sigla": "B058",
+   "linha": 2608,
+   "chave": "o pormenor e que sophia, que nos engendrou, tambem criou",
+   "trecho_atual": "O pormenor é que Sophia, que nos engendrou, também criou todos os nossos 'Processadores'.",
+   "palavras": 14,
+   "cobertura": 100.0,
+   "alinhamento": "frouxo",
+   "cobertas": 14,
+   "fragmentos": [
+    [
+     2608,
+     "O pormenor"
+    ],
+    [
+     2609,
+     "é que Sophia, que nos engendrou, também criou todos os nossos “Processadores”."
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-447",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citações-chave",
+   "sigla": "B057",
+   "linha": 587,
+   "chave": "eu, yel luzbel, um dos primeiros pesquisadores da familia yel,",
+   "trecho_atual": "Eu, Yel Luzbel, um dos primeiros pesquisadores da família Yel, **fui encarregado de verificar os graus de atuação e de evolução dos seres que faziam parte deste universo**.",
+   "palavras": 28,
+   "cobertura": 100.0,
+   "alinhamento": "frouxo",
+   "cobertas": 28,
+   "fragmentos": [
+    [
+     587,
+     "Eu, Yel Luzbel, um dos primeiros pesquisadores da família Yel, fui encarregado de"
+    ],
+    [
+     588,
+     "verificar os graus de  atuação e de evolução dos seres que faziam parte deste universo."
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-447",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citações-chave",
+   "sigla": "B057",
+   "linha": 1010,
+   "chave": "eu, yel luzbel, primeiro pesquisador da familia yel, continuava a",
+   "trecho_atual": "Eu, Yel Luzbel, primeiro pesquisador da família Yel, continuava a trilhar a trajetória que os seres tinham que seguir ou mesmo ultrapassar **para poderem conhecer o Criador e a sua Obra**. Quais os obstáculos que cada um tinha que passar para ter um vislumbre do que era existir?",
+   "palavras": 48,
+   "cobertura": 100.0,
+   "alinhamento": "frouxo",
+   "cobertas": 48,
+   "fragmentos": [
+    [
+     1010,
+     "Eu, Yel Luzbel, primeiro"
+    ],
+    [
+     1011,
+     "pesquisador da família Yel, continuava a trilhar a trajetória que os seres tinham que"
+    ],
+    [
+     1012,
+     "seguir ou mesmo ultrapassar para poderem conhecer o Criador e a sua Obra. Quais os"
+    ],
+    [
+     1013,
+     "obstáculos que cada um tinha que passar para ter um vislumbre do que era existir?"
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-452",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citações-chave",
+   "sigla": "B058",
+   "linha": 2013,
+   "chave": "as suas premissas foram irrefutaveis, mas nao as consideraremos como",
+   "trecho_atual": "As suas premissas foram irrefutáveis, mas não as consideraremos como certas ou verdadeiras até ouvirmos as explicações do próprio Sophia. Afirmamos o compromisso assumido por todos os Sábios desta 'Universidade' em elucidar tudo o que aqui foi debatido!",
+   "palavras": 38,
+   "cobertura": 100.0,
+   "alinhamento": "frouxo",
+   "cobertas": 38,
+   "fragmentos": [
+    [
+     2013,
+     "As suas premissas foram"
+    ],
+    [
+     2014,
+     "irrefutáveis, mas não as consideraremos como certas ou verdadeiras até ouvirmos as"
+    ],
+    [
+     2015,
+     "explicações do próprio Sophia. Afirmamos o compromisso assumido por todos os Sábios"
+    ],
+    [
+     2016,
+     "desta “Universidade” em elucidar tudo o que aqui foi debatido!"
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-453",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citações-chave",
+   "sigla": "B058",
+   "linha": 2698,
+   "chave": "passamos, entao, a pensar e a agir conforme uma organizacao",
+   "trecho_atual": "Passámos, então, a pensar e a agir conforme uma organização que se assemelha ao que os humanos da Terra conhecem como sendo um 'Exército'. Tínhamos 'líderes e soldados' que estavam a aprontar-se para **combater Sophia e as suas Hostes bélicas**!",
+   "palavras": 40,
+   "cobertura": 100.0,
+   "alinhamento": "frouxo",
+   "cobertas": 40,
+   "fragmentos": [
+    [
+     2698,
+     "Passámos, então, a pensar e a agir"
+    ],
+    [
+     2699,
+     "conforme uma organização que se  assemelha ao que os  humanos da Terra conhecem"
+    ],
+    [
+     2700,
+     "como sendo um “Exército”.  Tínhamos “líderes e soldados” que estavam a  aprontar-se"
+    ],
+    [
+     2701,
+     "para combater Sophia e as suas Hostes bélicas!"
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-506",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citações-chave",
+   "sigla": "P2024-09-28",
+   "linha": 38,
+   "chave": "e isso esta presente em cada consciencia particularizada, porque e",
+   "trecho_atual": "E isso está presente em cada consciência particularizada, porque é o tal do corpo átmico presente em cada ser. Por isso que a gente usa aquela expressão: namastê.",
+   "palavras": 28,
+   "cobertura": 100.0,
+   "alinhamento": "frouxo",
+   "cobertas": 28,
+   "fragmentos": [
+    [
+     38,
+     "E isso está presente em cada consciência particularizada, porque é o tal do corpo átmico presente em cada ser. Por isso que a gente usa aquela expressão, namastê."
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-529",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citação-chave",
+   "sigla": "P2024-08-03",
+   "linha": 100,
+   "chave": "o que e o eu humano, senao a colecao de",
+   "trecho_atual": "O que é o eu humano, senão a coleção de memórias, cada uma delas associada à emoção que se sentiu quando aquela memória foi produzida?",
+   "palavras": 25,
+   "cobertura": 100.0,
+   "alinhamento": "frouxo",
+   "cobertas": 25,
+   "fragmentos": [
+    [
+     100,
+     "o que é o eu humano, senão a coleção de memórias, cada uma delas associada à emoção que se sentiu quando aquela memória foi produzida."
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-552",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citações-chave",
+   "sigla": "B074",
+   "linha": 5328,
+   "chave": "a disciplina dos '3as' inicia-se com o aprofundamento da respiracao,",
+   "trecho_atual": "A disciplina dos '3As' inicia-se com o aprofundamento da respiração, passa pela decisão de acalmar a mente, de modo a que se possa buscar um alinhamento com os 'projetos espirituais'.",
+   "palavras": 30,
+   "cobertura": 100.0,
+   "alinhamento": "frouxo",
+   "cobertas": 30,
+   "fragmentos": [
+    [
+     5328,
+     "a disciplina dos “3As” inicia-se com o aprofundamento da respiração,"
+    ],
+    [
+     5329,
+     "passa pela decisão de acalmar a mente, de modo a que se possa buscar um"
+    ],
+    [
+     5330,
+     "alinhamento com os “projetos espirituais”"
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-554",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citações-chave",
+   "sigla": "B075",
+   "linha": 3336,
+   "chave": "quando descobre que pode usar o 'eu terreno' — que",
+   "trecho_atual": "Quando descobre que pode usar o 'Eu terreno' — que a maioria dos seres humanos pensa ser — como '**instrumento quântico**' para '**capturar, organizar, colecionar e deletar**' arquivos mentais, ela se torna mestre de si mesma.",
+   "palavras": 36,
+   "cobertura": 100.0,
+   "alinhamento": "frouxo",
+   "cobertas": 36,
+   "fragmentos": [
+    [
+     3336,
+     "Quando descobre que pode usar o “Eu terreno” — que a maioria dos"
+    ],
+    [
+     3337,
+     "seres humanos pensa ser — como “instrumento quântico” para"
+    ],
+    [
+     3338,
+     "“capturar, organizar, colecionar e deletar” arquivos mentais, ela se"
+    ],
+    [
+     3339,
+     "torna mestre de si mesma."
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-555",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citações-chave",
+   "sigla": "B075",
+   "linha": 7606,
+   "chave": "quando criei o mentalma, cheguei perto da busca por **vinte",
+   "trecho_atual": "Quando criei o Mentalma, cheguei perto da busca por **vinte maestrias pessoais** que desejei praticar nesta vida, e assim sigo fazendo. Elas estão distribuídas pelos **sete módulos** do Mentalma.",
+   "palavras": 29,
+   "cobertura": 100.0,
+   "alinhamento": "frouxo",
+   "cobertas": 29,
+   "fragmentos": [
+    [
+     7606,
+     "Quando criei o Mentalma, cheguei perto da busca por vinte maestrias"
+    ],
+    [
+     7607,
+     "pessoais que desejei praticar nesta vida, e assim sigo fazendo. Elas estão"
+    ],
+    [
+     7608,
+     "distribuídas pelos sete módulos do Mentalma."
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-557",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citação-chave",
+   "sigla": "P2024-02-25",
+   "linha": 5,
+   "chave": "o que e o conectoma humano? e o conjunto de",
+   "trecho_atual": "O que é o conectoma humano? É o conjunto de pulsações que as sinapses cerebrais a cada instante produzem, marcando, produzindo pensamentos, sentimentos que passam a caracterizar a sensação de eu daquela pessoa.",
+   "palavras": 33,
+   "cobertura": 100.0,
+   "alinhamento": "frouxo",
+   "cobertas": 33,
+   "fragmentos": [
+    [
+     5,
+     "O que é o conectoma humano? É o conjunto de pulsações que as sinapses cerebrais a cada instante produzem. marcando, produzindo pensamentos, sentimentos que passam a caracterizar a sensação de eu daquela pessoa."
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-560",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citação-chave",
+   "sigla": "P2024-02-25",
+   "linha": 8,
+   "chave": "ele criou a wd. o que e o wd? e",
+   "trecho_atual": "Ele criou a WD. O que é o WD? É um computador quântico que organiza a genética de todos os seres vivos ali dentro e faz com que o que saia de um ser retorne para ele. Isso não é punição, não é uma justiça, era só uma organização.",
+   "palavras": 49,
+   "cobertura": 100.0,
+   "alinhamento": "frouxo",
+   "cobertas": 49,
+   "fragmentos": [
+    [
+     8,
+     "ele criou a WD. O que é o WD? É um computador quântico que organiza a genética de todos os seres vivos ali dentro e faz com que o que saia de um ser retorne para ele. Isso não é punição. Não é uma justiça, era só uma organização."
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-564",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citação-chave",
+   "sigla": "P2024-02-25",
+   "linha": 6,
+   "chave": "eu chamo isso de os fios soltos que diferenciam o",
+   "trecho_atual": "Eu chamo isso de os fios soltos que diferenciam o ser humano, um androide de um robô. Porque se tiver fio fechado, aí o robô é só cumprir aquilo ali. Fio solto é que você não sabe o que vai acontecer no próximo momento.",
+   "palavras": 44,
+   "cobertura": 100.0,
+   "alinhamento": "frouxo",
+   "cobertas": 44,
+   "fragmentos": [
+    [
+     6,
+     "eu chamo isso de os fios soltos que diferenciam o ser humano, um androide de um robô. Porque se tiver fio fechado, aí o robô é só cumprir aquilo ali. Fio solto é que você não sabe o que vai acontecer no próximo momento"
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-691",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citações-chave",
+   "sigla": "P2025-03-15",
+   "linha": 50,
+   "chave": "“o ultimo retrato que essa mente tirou de si mesma",
+   "trecho_atual": "O último retrato que essa mente tirou de si mesma antes de explodir passou para todos os elétrons.",
+   "palavras": 18,
+   "cobertura": 100.0,
+   "alinhamento": "frouxo",
+   "cobertas": 18,
+   "fragmentos": [
+    [
+     50,
+     "O último retrato que essa mente tirou de si mesma antes de explodir passou para todos os elétrons"
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-695",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citações-chave",
+   "sigla": "P2025-02-16",
+   "linha": 113,
+   "chave": "“seja voce o seu proprio guru, mova-se.”",
+   "trecho_atual": "Seja você o seu próprio guru, mova-se.",
+   "palavras": 7,
+   "cobertura": 100.0,
+   "alinhamento": "frouxo",
+   "cobertas": 7,
+   "fragmentos": [
+    [
+     113,
+     "\"Seja você o seu próprio guru, mova-se,"
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-696",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citações-chave",
+   "sigla": "P2025-02-16",
+   "linha": 100,
+   "chave": "“ele criou entao filhos e filhas da sua mente e",
+   "trecho_atual": "Ele criou então filhos e filhas da sua mente e criou também filhos e filhas do seu corpo.",
+   "palavras": 18,
+   "cobertura": 100.0,
+   "alinhamento": "frouxo",
+   "cobertas": 18,
+   "fragmentos": [
+    [
+     100,
+     "ele criou então filhos e filhas da sua mente e criou também filhos e filhas do seu corpo"
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-750",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citação-chave",
+   "sigla": "P2024-04-13",
+   "linha": 81,
+   "chave": "o exodo, ou seja, a retirada das 12 tribos de",
+   "trecho_atual": "O êxodo, ou seja, a retirada das 12 tribos de hebreus lá do Egito, foi um instrumento que Javé usou depois que o plano dele de usar os egípcios não deu certo.",
+   "palavras": 32,
+   "cobertura": 100.0,
+   "alinhamento": "frouxo",
+   "cobertas": 32,
+   "fragmentos": [
+    [
+     81,
+     "o êxodo, ou seja, a retirada das 12 tribos de hebreus lá do Egito. Foi um instrumento que Javé usou depois que o plano dele de usar os egípcios não deu certo."
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-783",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citações-chave",
+   "sigla": "P2019-05-11",
+   "linha": 68,
+   "chave": "na especiacao da especie humana, que vai comecar a ocorrer",
+   "trecho_atual": "Na especiação da espécie humana, que vai começar a ocorrer agora, a genética que vai não é a melhor, é a que puder ir. Então, talvez se espere uma, duas, três levas de padrão genético para outros mundos.",
+   "palavras": 38,
+   "cobertura": 100.0,
+   "alinhamento": "frouxo",
+   "cobertas": 38,
+   "fragmentos": [
+    [
+     68,
+     "na especiação da espécie humana, que vai começar a ocorrer agora, a genética que vai não é a melhor, é a que puder ir. Então, talvez se espere uma, duas, três levas de padrão genético para outros mundos"
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-785",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citações-chave",
+   "sigla": "P2023-11-11",
+   "linha": 4,
+   "chave": "surgiu uma outra linhagem de humanos com um espectro mais",
+   "trecho_atual": "Surgiu uma outra linhagem de humanos com um espectro mais amplo de entendimento, de possibilidades, de sonhos, com menos travas e bloqueios no seu genoma. E Pandora transou bastante, teve muitos filhos.",
+   "palavras": 32,
+   "cobertura": 100.0,
+   "alinhamento": "frouxo",
+   "cobertas": 32,
+   "fragmentos": [
+    [
+     4,
+     "Surgiu uma outra linhagem de humanos com um espectro mais amplo de entendimento, de possibilidades, de sonhos, com menos travas e bloqueios no seu genoma. E Pandora transou bastante, teve muitos filhos"
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-791",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citações-chave",
+   "sigla": "P2025-04-06",
+   "linha": 5,
+   "chave": "prometeu comecou a ser alguem que parou de levar a",
+   "trecho_atual": "Prometeu começou a ser alguém que parou de levar a sério a si mesmo, a Zeus, a tudo que era ser que se pretendia superior.",
+   "palavras": 25,
+   "cobertura": 100.0,
+   "alinhamento": "frouxo",
+   "cobertas": 25,
+   "fragmentos": [
+    [
+     5,
+     "Prometeu, começou a ser alguém que parou de levar a sério a si mesmo, a Zeus, a tudo que era ser que se pretendia superior."
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-797",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citações-chave",
+   "sigla": "P2018-02-24",
+   "linha": 5,
+   "chave": "qual a estrategia de enoque, de noe, de abraao, de",
+   "trecho_atual": "qual a estratégia de Enoque, de Noé, de Abraão, de Moisés e Mimos? Todos esses foram vítimas que terminaram se tornando agentes de produzir mais vítimas ainda, porque criaram religiões, criaram agendas na terra que não eram deles, mas de um tal deus que os dominou.",
+   "palavras": 46,
+   "cobertura": 100.0,
+   "alinhamento": "frouxo",
+   "cobertas": 46,
+   "fragmentos": [
+    [
+     5,
+     "qual a estratégia de Enoque, de Noé, de Abraão, de Moisés e Mimos? Todos esses foram vítimas que terminaram se tornando agentes de produzir mais vítimas ainda, porque criaram religiões, criaram agendas na terra que não eram deles, mas de um tal deus que os dominou"
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-800",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citações-chave",
+   "sigla": "P2018-02-24",
+   "linha": 5,
+   "chave": "ele agora teria vindo a vida humana nao para destruir",
+   "trecho_atual": "ele agora teria vindo à vida humana não para destruir ninguém, mas para convidar todos os seres humanos a entre aspas amarem a Deus que era ele mesmo feito homem. independente da religião do Brasil, só que anterior a essa percepção de saibá. Entro eu mesmo com a minha própria percepção.",
+   "palavras": 51,
+   "cobertura": 100.0,
+   "alinhamento": "frouxo",
+   "cobertas": 51,
+   "fragmentos": [
+    [
+     5,
+     "ele agora teria vindo à vida humana não para destruir ninguém, mas para convidar todos os seres humanos a entre aspas amarem a Deus que era ele mesmo feito homem. independente da religião do Brasil, só que anterior a essa percepção de saibá. Entro eu mesmo com a minha própria percepção,"
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-804",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citações-chave",
+   "sigla": "P2018-02-24",
+   "linha": 3,
+   "chave": "todos nos somos levados a ser possuidos por crencas baratas.",
+   "trecho_atual": "todos nós somos levados a ser possuídos por crenças baratas. infantilizadas, pouco refletidas sobre as versões oficiais que foram produzidas em torno dessas pessoas que se tornaram deuses, semideuses.",
+   "palavras": 29,
+   "cobertura": 100.0,
+   "alinhamento": "frouxo",
+   "cobertas": 29,
+   "fragmentos": [
+    [
+     3,
+     "todos nós somos levados a ser possuídos por crenças baratas. infantilizadas, pouco refletidas sobre as versões oficiais que foram produzidas em torno dessas pessoas que se tornaram deuses, semideuses"
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-826",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citações-chave",
+   "sigla": "P2023-12-17",
+   "linha": 16,
+   "chave": "os eletrons estao montaram tribunal da inquisicao e disseram: 'cara,",
+   "trecho_atual": "Os elétrons estão montaram tribunal da Inquisição e disseram: 'Cara, a gente tem que parar com a máquina de gerar vida nos termos em que sempre foi feito'.",
+   "palavras": 28,
+   "cobertura": 100.0,
+   "alinhamento": "frouxo",
+   "cobertas": 28,
+   "fragmentos": [
+    [
+     16,
+     "Os elétrons estão montaram tribunal da Inquisição e disseram: \"Cara, a gente tem que parar com a máquina de gerar vida nos termos em que sempre foi feito.\""
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-829",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citações-chave",
+   "sigla": "P2023-12-17",
+   "linha": 16,
+   "chave": "cientistas nem admitem que o eletron tem memoria. outros cientistas",
+   "trecho_atual": "Cientistas nem admitem que o elétron tem memória. Outros cientistas sabem porque fazem as contas e interpretam e diz: 'Tem Charon, que foi o físico nuclear francês que descobriu isso nos anos 70, tá correto?'. Mas a maioria de cientista como não sabe responder, diz: 'Não, isso aí não existe",
+   "palavras": 50,
+   "cobertura": 100.0,
+   "alinhamento": "frouxo",
+   "cobertas": 50,
+   "fragmentos": [
+    [
+     16,
+     "Cientistas nem admitem que o elétron tem memória. Outros cientistas sabem porque fazem as contas e interpretam e diz: \"Tem Charon, que foi o físico nuclear francês que descobriu isso nos anos 70, tá correto?\" Mas a maioria de cientista como não sabe responder, diz: \"Não, isso aí não existe\"."
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-832",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citações-chave",
+   "sigla": "P2023-12-17",
+   "linha": 16,
+   "chave": "os eletrons estao montaram tribunal da inquisicao e disseram: 'cara,",
+   "trecho_atual": "Os elétrons estão montaram tribunal da Inquisição e disseram: 'Cara, a gente tem que parar com a máquina de gerar vida nos termos em que sempre foi feito'.",
+   "palavras": 28,
+   "cobertura": 100.0,
+   "alinhamento": "frouxo",
+   "cobertas": 28,
+   "fragmentos": [
+    [
+     16,
+     "Os elétrons estão montaram tribunal da Inquisição e disseram: \"Cara, a gente tem que parar com a máquina de gerar vida nos termos em que sempre foi feito.\""
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-928",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citações-chave (RC)",
+   "sigla": "P2012-02-19",
+   "linha": 5,
+   "chave": "...enquanto ja saibaba disse que so desencarnaria em 2021, jave",
+   "trecho_atual": "…enquanto já Saibaba disse que só desencarnaria em 2021, Javé fez com que eles encarnasse antes para devolver a humilhação.",
+   "palavras": 20,
+   "cobertura": 100.0,
+   "alinhamento": "frouxo",
+   "cobertas": 20,
+   "fragmentos": [
+    [
+     5,
+     "enquanto já Saibaba disse que só desencarnaria em 2021, Javé fez com que eles encarnasse antes para devolver a humilhação."
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  }
+ ]
+}

@@ -123,12 +123,43 @@ def clausula_vestigio(k: int, n: int) -> str:
     return f"Só {k} dos {n} deixam vestígio no corpus."
 
 
-def nota_reanexacao(m: int, n: int, fichas_lote: int) -> str:
+UNITS_NOTA = re.compile(r"A5 \((U\d+(?:, U\d+)*)")
+
+
+def unidades_da_nota(nota_existente: str | None, unidade: str) -> str:
+    """Acumula as unidades que já intervieram na ficha. Idempotente: se a
+    unidade corrente já consta, a lista não muda."""
+    us = set()
+    if nota_existente:
+        m = UNITS_NOTA.search(nota_existente)
+        if m:
+            us |= {u.strip() for u in m.group(1).split(",")}
+    us.add(unidade)
+    return ", ".join(sorted(us, key=lambda u: int(u[1:])))
+
+
+def reanexados_na_ficha(linhas: list[str], chaves: list[str]) -> int:
+    """
+    Conta quantos dos trechos legados da ficha JÁ foram reanexados — derivando
+    a conta do ESTADO DO ARQUIVO e não do lote, o que a torna idempotente e
+    cumulativa entre unidades (U91 escreveu «1 de N»; a U92 tem de escrever
+    «2 de N», e uma terceira corrida da U92 tem de continuar a dizer «2 de N»).
+
+    Critério: o trecho legado deixou de existir como texto solto — a sua chave
+    já não bate em nenhuma linha SEM aparelho R1.
+    """
+    return sum(1 for ch in chaves
+               if not any(ch in norm(l) and not APARELHO_R1.search(l)
+                          for l in linhas))
+
+
+def nota_reanexacao(m: int, n: int, unidades: str) -> str:
+    censo = "`diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`"
     if m == n:
         sujeito = ("o trecho entre aspas desta ficha" if n == 1
                    else f"os {n} trechos entre aspas desta ficha")
         return (
-            f"- ✅ **Reanexação A5 (U91, 15/09/2026):** {sujeito} "
+            f"- ✅ **Reanexação A5 ({unidades}, 15/09/2026):** {sujeito} "
             f"{'foi' if n == 1 else 'foram'} reanexado{'s' if n > 1 else ''} às "
             f"fontes e passa{'m' if n > 1 else ''} a trazer aparelho de linha "
             f"(`— SIGLA · original.txt LNNNN`), conferido byte a byte pelo "
@@ -136,16 +167,19 @@ def nota_reanexacao(m: int, n: int, fichas_lote: int) -> str:
             f"levantada nesta ficha** — a nota original dizia que o trecho não "
             f"resistia à verificação; agora resiste, porque deixou de ser uma "
             f"transcrição solta e passou a ser extracto conferido. Censo: "
-            f"`diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.")
+            f"{censo}.")
+    resto = n - m
     return (
-        f"- ✅ **Reanexação parcial A5 (U91, 15/09/2026):** {m} dos {n} trechos "
-        f"entre aspas desta ficha {'foi' if m == 1 else 'foram'} reanexado"
-        f"{'s' if m > 1 else ''} às fontes e passa{'m' if m > 1 else ''} a trazer "
-        f"aparelho de linha (`— SIGLA · original.txt LNNNN`), conferido byte a "
-        f"byte pelo Portão B. Os restantes {n - m} permanecem sob a quarentena "
-        f"epistemológica de 14/09/2026 (U86) — a nota acima continua a valer "
-        f"para eles. Censo: "
-        f"`diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.")
+        f"- ✅ **Reanexação parcial A5 ({unidades}, 15/09/2026):** {m} dos {n} "
+        f"trechos entre aspas desta ficha {'foi' if m == 1 else 'foram'} "
+        f"reanexado{'s' if m > 1 else ''} às fontes e passa{'m' if m > 1 else ''} "
+        f"a trazer aparelho de linha (`— SIGLA · original.txt LNNNN`), conferido "
+        f"byte a byte pelo Portão B. "
+        f"{'O restante' if resto == 1 else f'Os restantes {resto}'} "
+        f"{'permanece' if resto == 1 else 'permanecem'} sob a quarentena "
+        f"epistemológica de 14/09/2026 (U86)"
+        f"{' — a nota acima continua a valer para ele' if resto == 1 else ' — a nota acima continua a valer para eles'}"
+        f". Censo: {censo}.")
 
 
 # ════════════════════════════════════════════════════════════════ main ──────
@@ -175,9 +209,18 @@ def main() -> int:
             nao_verbatim[b["codigo"]] += 1
     por_ficha = collections.Counter(f["cod"] for f in fichas)
 
+    # chaves de localização de TODOS os blocos não-verbatim da ficha (não só
+    # os do lote): é sobre este conjunto que se conta quantos já saíram.
+    chaves_legadas: dict[str, list[str]] = collections.defaultdict(list)
+    for b in censo["blocos"]:
+        if b["classe"] in ("NULO", "PARCIAL"):
+            chaves_legadas[b["codigo"]].append(
+                norm(" ".join(re.sub(r"[^\w\s]", " ", b["trecho"].lower())
+                              .split()[:10])))
+
     # ── COMPORTAS B/C/D por ficha ───────────────────────────────────────────
     planos: dict[str, dict] = {}
-    for cod, m in sorted(por_ficha.items()):
+    for cod, _m_lote in sorted(por_ficha.items()):
         path = glob.glob(os.path.join(TERMOS, cod + "-*.md"))
         if len(path) != 1:
             sys.exit(f"  comporta E · {cod}: {len(path)} ficheiros — abortar")
@@ -204,7 +247,18 @@ def main() -> int:
             # linha que (1) é blockquote de citação, (2) começa por aspa,
             # (3) qualquer. Se mesmo assim sobrar mais de uma, aborta: nunca
             # se substitui às cegas.
-            for filtro in (lambda i: linhas[i].lstrip().startswith(">"),
+            # Filtro 1 — o mais forte: a linha TEM DE COMEÇAR pelo trecho (já
+            # descontados o «>» do blockquote e a aspa de abertura). Em RC-016
+            # a chave bate em duas linhas: L49, que começa por ela, e L51, uma
+            # citação maior que a contém no MEIO. «Contém» não basta.
+            def comeca_por(i: int) -> bool:
+                t = linhas[i].lstrip()
+                if t.startswith(">"):
+                    t = t[1:].lstrip()
+                return norm(t.lstrip("\"«“'‘")).startswith(chave)
+
+            for filtro in (comeca_por,
+                           lambda i: linhas[i].lstrip().startswith(">"),
                            lambda i: linhas[i].lstrip()[:1] in "\"«“'"):
                 hits = [i for i in brutos if filtro(i)]
                 if len(hits) == 1:
@@ -238,18 +292,28 @@ def main() -> int:
                 trocas.append((i, novo))
 
         n = nao_verbatim[cod]
-        nota = nota_reanexacao(m, n, len(blocos))
         ja_nota = [j for j, ln in enumerate(linhas)
                    if ln.startswith("- ✅ **Reanexa")]
         if len(ja_nota) > 1:
             sys.exit(f"  comporta D · {cod}: {len(ja_nota)} notas de "
                      f"reanexação — abortar")
+        # A conta vem do ESTADO DA FICHA DEPOIS das trocas deste lote: assim é
+        # cumulativa entre unidades (a U91 escreveu «1 de N»; a U92 escreve
+        # «2 de N») e idempotente (reexecutar não mexe na conta).
+        proj = list(linhas)
+        for i, novo in trocas:
+            proj[i] = novo
+        m = reanexados_na_ficha(proj, chaves_legadas[cod])
+        unidades = unidades_da_nota(
+            linhas[ja_nota[0]] if ja_nota else None, lote["unidade"])
+        nota = nota_reanexacao(m, n, unidades)
+        # Idempotência: se a nota que este lote produz já é a que lá está,
+        # não há nada a reescrever. Se difere (a conta subiu, a lista de
+        # unidades cresceu), é SUBSTITUÍDA — já não é conflito, é progresso.
         nota_ok = bool(ja_nota) and linhas[ja_nota[0]] == nota
-        if ja_nota and not nota_ok:
-            sys.exit(f"  comporta D · {cod}: nota de reanexação existe mas "
-                     f"não bate com a que este lote produz — abortar")
         planos[cod] = {"path": path, "linhas": linhas, "trocas": trocas,
-                       "nota": nota, "m": m, "n": n, "nota_ok": nota_ok}
+                       "nota": nota, "m": m, "n": n, "nota_ok": nota_ok,
+                       "ja_nota": bool(ja_nota)}
 
     print("  comportas B/C/D/E: 0 impedimentos")
     print(f"  notas: {sum(1 for p in planos.values() if p['m'] == p['n'])} "
@@ -281,13 +345,25 @@ def main() -> int:
         if len(alvo) != 1:
             sys.exit(f"  {cod}: esperava 1 nota de quarentena, achei "
                      f"{len(alvo)} — abortar")
-        if p["m"] == p["n"]:
-            if p["nota_ok"]:
-                pass                       # nota já é a certidão
-            else:
-                linhas[alvo[0]] = p["nota"]
+        ja = [k for k, ln in enumerate(linhas)
+              if ln.startswith("- ✅ **Reanexa")]
+        if p["nota_ok"]:
+            pass                            # a nota já é a certidão correcta
+        elif p["m"] == p["n"]:
+            # Quarentena LEVANTADA. A ficha podia já ter uma nota PARCIAL das
+            # unidades anteriores (RC-785: a U91 escreveu «1 de 2»); deixá-la
+            # no sítio ao lado da certidão daria DUAS notas — e a comporta D
+            # da corrida seguinte abortaria com razão. Remove-se a anterior e
+            # a certidão toma o lugar da linha de quarentena.
+            for k in sorted(ja, reverse=True):
+                del linhas[k]
+            alvo = [j for j, ln in enumerate(linhas)
+                    if ln.startswith(MARCA_QUARENTENA)]
+            linhas[alvo[0]] = p["nota"]
         else:
-            if not p["nota_ok"]:
+            if ja:
+                linhas[ja[0]] = p["nota"]   # parcial anterior: actualiza
+            else:
                 linhas.insert(alvo[0] + 1, p["nota"])
         open(p["path"], "w", encoding="utf-8").write("\n".join(linhas))
         feitos += 1

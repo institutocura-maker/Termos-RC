@@ -56,7 +56,7 @@ Jan Val Ellam (RC-071, criador e formulador da série e do curso).
 ## Citações-chave
 > "Esse meu aprendizado está sistematizado em **sete partes**, descritas na série de livros mostrada a seguir, sendo que, até o momento, **estão publicados os dois primeiros**: Mentalma I... Mentalma II... Mentalma III – Autoconhecimento e Emancipação; Mentalma IV – Consciência Pessoal e Soberania Espiritual; Mentalma V – Autorrealização; Mentalma VI – Qualia e o Laboratório Mental; Mentalma VII – O Eu como Computador Quântico." — B075, p. 7
 
-> "Quando criei o Mentalma, cheguei perto da busca por **vinte maestrias pessoais** que desejei praticar nesta vida, e assim sigo fazendo. Elas estão distribuídas pelos **sete módulos** do Mentalma." — B075, p. 185
+> «Quando criei o Mentalma, cheguei perto da busca por vinte maestrias» » … « «pessoais que desejei praticar nesta vida, e assim sigo fazendo. Elas estão» » … « «distribuídas pelos sete módulos do Mentalma.» — B075 p. 185 · `original.txt` L7606 · reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte.
 
 ## Ampliação
 ### P2020-04-25 (Os Desdobramentos da Rebelião de Lúcifer)
@@ -71,4 +71,4 @@ Jan Val Ellam (RC-071, criador e formulador da série e do curso).
 
 ## Observações
 Termo já constava na tabela-mestra desde o ciclo anterior; **ficha criada no ciclo B075 (Devolutiva O-2, 2026-08-25)**. **Nota Especial (decisão do curador, ciclo B074):** o nome do termo permanece **intacto** — "Série Mentalma (5 livros + curso)" (5 publicados); o **anúncio dos 7 volumes em 2020** (VI *Qualia e o Laboratório Mental*; VII *O Eu como Computador Quântico*) fica registrado **como nota**, sem alterar o nome. Os volumes VI/VII seguem "planejados/não publicados"; B076–B078 (III–V) estão na BIBLIO como `identificada`/sinopse Amazon, sem PDF.
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** os 2 trechos entre aspas desta ficha **não** resistem à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Todos deixam vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+- ✅ **Reanexação A5 (U92, 15/09/2026):** os 2 trechos entre aspas desta ficha foram reanexados às fontes e passam a trazer aparelho de linha (`— SIGLA · original.txt LNNNN`), conferido byte a byte pelo Portão B. **Quarentena epistemológica de 14/09/2026 (U86) levantada nesta ficha** — a nota original dizia que o trecho não resistia à verificação; agora resiste, porque deixou de ser uma transcrição solta e passou a ser extracto conferido. Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

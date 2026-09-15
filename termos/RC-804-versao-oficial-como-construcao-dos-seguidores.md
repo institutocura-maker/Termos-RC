@@ -44,7 +44,7 @@ Aparece em **P2018-02-24**, U0001 (abertura) e U0005 (encerramento). Contexto: o
 ## Citações-chave
 > «nós humanos colecionamos como sendo a versão oficial das coisas [...] essas versões oficiais são produzidas, escritas, dirigidas, revisadas modificadas, adequadas pelos seguidores dessas pessoas.» — P2018-02-24, U0001
 
-> «todos nós somos levados a ser possuídos por crenças baratas. infantilizadas, pouco refletidas sobre as versões oficiais que foram produzidas em torno dessas pessoas que se tornaram deuses, semideuses.» — P2018-02-24, U0001
+> «todos nós somos levados a ser possuídos por crenças baratas. infantilizadas, pouco refletidas sobre as versões oficiais que foram produzidas em torno dessas pessoas que se tornaram deuses, semideuses» — P2018-02-24 · `original.txt` L3 · reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte.
 
 > «o cristianismo ferrou com isso aqui, como Nietz, ferrou com esses valores, transformou a beleza grega em pecado.» — P2018-02-24, U0005
 
@@ -55,3 +55,4 @@ Aparece em **P2018-02-24**, U0001 (abertura) e U0005 (encerramento). Contexto: o
 
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-804.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** os 3 blocos entre «» desta ficha **não** resistem à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Todos deixam vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+- ✅ **Reanexação parcial A5 (U92, 15/09/2026):** 2 dos 3 trechos entre aspas desta ficha foram reanexados às fontes e passam a trazer aparelho de linha (`— SIGLA · original.txt LNNNN`), conferido byte a byte pelo Portão B. O restante permanece sob a quarentena epistemológica de 14/09/2026 (U86) — a nota acima continua a valer para ele. Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

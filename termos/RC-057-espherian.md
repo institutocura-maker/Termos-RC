@@ -35,9 +35,9 @@ A maior das três grandes naves com que a Família Val (736 membros) aportou na 
 
 ## Citações-chave
 
-> "Primeiro pousou 'espherian', a maior das três; depois 'asphezian', a mais requintada e poderosa e, cerca de quase seis milénios depois, a menor e mais adaptada para todo tipo de missão." — B017
+> «Primeiro pousou “espherian”, a maior das três; depois “asphezian”, a mais» » … « «requintada e poderosa e, cerca de quase seis milénios depois, a menor e mais adaptada» » … « «para todo tipo de missão,» — B017 p. 22 · `original.txt` L731 · reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte.
 
 ## Observações
 
 Ficha materializada na escala do Apêndice C (P5d — Frota Val, 10/09/2026): código 🟡 provisório, sem colisão de uso no corpus. O cadastro lista como fonte apenas B031 — as primárias B017/B018/B039 foram extraídas nesta materialização e ainda não constam do cadastro.
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+- ✅ **Reanexação A5 (U92, 15/09/2026):** o trecho entre aspas desta ficha foi reanexado às fontes e passa a trazer aparelho de linha (`— SIGLA · original.txt LNNNN`), conferido byte a byte pelo Portão B. **Quarentena epistemológica de 14/09/2026 (U86) levantada nesta ficha** — a nota original dizia que o trecho não resistia à verificação; agora resiste, porque deixou de ser uma transcrição solta e passou a ser extracto conferido. Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

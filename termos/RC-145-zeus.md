@@ -82,7 +82,7 @@ Pandora (RC-086, a criatura libertada); Prometeu e Epimeteu (RC-301/302, os adve
 
 
 ## Citações-chave
-> "Ele se julgava importante o suficiente para se autoproclamar como o 'Senhor de Todos os Seres Viventes' ou o 'Senhor de Toda a Criação', e assim, de título em título, a sua soberba não tinha fim. Era tremenda a pretensão desse deus!" — B087, p. 20
+> «Ele se» » … « «julgava importante o suficiente para se autoproclamar como o “Senhor de Todos os Seres» » … « «Viventes” ou o “Senhor de Toda a Criação”, e assim, de título em título, a sua soberba» » … « «não tinha fim. Era tremenda a pretensão desse deus!» — B087 p. 20 · `original.txt` L702 · reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte.
 
 > "Quero que cada um de vocês escolha um 'dom funesto', que será inserido na 'porção' deste meu filho. Exijo que cada um de vocês 'manipule' e altere a composição e a forma corporal dele, transformando-o num corpo com aparência feminina..." — B087, p. 33 (a ordem na Assembleia)
 
@@ -120,4 +120,4 @@ Pandora (RC-086, a criatura libertada); Prometeu e Epimeteu (RC-301/302, os adve
 
 ## Observações
 **Ficha criada no ciclo B087 (Devolutiva O-2, 2026-08-25)** — termo já constava da tabela-mestra (B031/B020/B021/B050/B060) sem ficha física. **B087 adicionada às fontes** (fonte nova). **Quarentenas (O-7):** mediumística (a versão B087 é psicografia — "leitura do ser", paralela às obras primárias B020/B021; **divergências registradas, jamais fundidas**) + teológica (o paralelo "Senhor de Todos os Seres Viventes" ≈ Criador; "parecido com o Criador dos dois universos desta Obra") + ufológica (olimpiano do universo antimaterial). 0 códigos novos (O-3).
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** os 2 trechos entre aspas desta ficha **não** resistem à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Todos deixam vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+- ✅ **Reanexação A5 (U92, 15/09/2026):** os 2 trechos entre aspas desta ficha foram reanexados às fontes e passam a trazer aparelho de linha (`— SIGLA · original.txt LNNNN`), conferido byte a byte pelo Portão B. **Quarentena epistemológica de 14/09/2026 (U86) levantada nesta ficha** — a nota original dizia que o trecho não resistia à verificação; agora resiste, porque deixou de ser uma transcrição solta e passou a ser extracto conferido. Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

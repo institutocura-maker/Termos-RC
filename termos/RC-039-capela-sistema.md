@@ -56,7 +56,7 @@ Sophia (RC-009, "Pai dos Capelinos" e Comandante); Yel Luzbel (RC-078); Len Mion
 
 
 ## Citações-chave
-> "Alfa Aurigae ou Capela é, na verdade **um arranjo de quatro estrelas – duas gigantes amarelas e duas anãs vermelhas –**, e pertence à constelação de Auriga ou constelação do Cocheiro." — B057, nota, p. 10
+> «Alfa Aurigae ou Capela é, na verdade um arranjo de quatro estrelas – duas gigantes amarelas e duas anãs vermelhas –,» » … « «e pertence à constelação de Auriga ou constelação do Cocheiro.» — B057 p. 10 · `original.txt` L414 · reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte.
 
 > "Capelino é a designação dada aos seres extraterrestres, de vários tipos, **oriundos do sistema de Capela**. Eles possuem corpos de vida longa, mas sujeitos a fenecer, e podem, por meio de naves espaciais, viajar pela galáxia... (Fonte: Trilogia 'Terra Atlantis', de Jan Val Ellam)." — B057, nota, p. 14
 
@@ -80,4 +80,4 @@ Sophia (RC-009, "Pai dos Capelinos" e Comandante); Yel Luzbel (RC-078); Len Mion
 
 ## Observações
 **Ficha criada no ciclo B057 (Devolutiva O-2, 2026-08-25)** — termo já constava da tabela-mestra (com B057 nas fontes desde ciclo anterior) sem ficha física. **Quarentena ufológica (O-7):** sistema extraterrestre — cruzar com as obras primárias, não materializar como fato. Cronologia interna de B057 (Revolta há 687 mil anos; famílias capelinas de 900 a 230 milhões de anos) = narrativa psicografada; divergência de datas registrada em RC-002. 0 códigos novos (O-3).
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** os 2 trechos entre aspas desta ficha **não** resistem à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Todos deixam vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+- ✅ **Reanexação A5 (U92, 15/09/2026):** os 2 trechos entre aspas desta ficha foram reanexados às fontes e passam a trazer aparelho de linha (`— SIGLA · original.txt LNNNN`), conferido byte a byte pelo Portão B. **Quarentena epistemológica de 14/09/2026 (U86) levantada nesta ficha** — a nota original dizia que o trecho não resistia à verificação; agora resiste, porque deixou de ser uma transcrição solta e passou a ser extracto conferido. Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

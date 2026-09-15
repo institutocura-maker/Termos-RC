@@ -42,9 +42,9 @@ Yel Luzbel (RC-078/RC-142, o titular); os sábios da Família Yel (que lhe incum
 | O Início da Revolta Capelina (B058) | — | — | Yel Luzbel demite-se do cargo e do Processador Yel |
 
 ## Citações-chave
-> "Eu, Yel Luzbel, um dos primeiros pesquisadores da família Yel, **fui encarregado de verificar os graus de atuação e de evolução dos seres que faziam parte deste universo**." — B057, p. 15
+> «Eu, Yel Luzbel, um dos primeiros pesquisadores da família Yel, fui encarregado de» » … « «verificar os graus de  atuação e de evolução dos seres que faziam parte deste universo.» — B057 p. 15 · `original.txt` L587 · reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte.
 
-> "Eu, Yel Luzbel, primeiro pesquisador da família Yel, continuava a trilhar a trajetória que os seres tinham que seguir ou mesmo ultrapassar **para poderem conhecer o Criador e a sua Obra**. Quais os obstáculos que cada um tinha que passar para ter um vislumbre do que era existir?" — B057, p. 26
+> «Eu, Yel Luzbel, primeiro» » … « «pesquisador da família Yel, continuava a trilhar a trajetória que os seres tinham que» » … « «seguir ou mesmo ultrapassar para poderem conhecer o Criador e a sua Obra. Quais os» » … « «obstáculos que cada um tinha que passar para ter um vislumbre do que era existir?» — B057 p. 26 · `original.txt` L1010 · reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte.
 
 ## Ampliação
 ### B058 (A Revolta do Anjo Decaído)
@@ -58,4 +58,4 @@ Yel Luzbel (RC-078/RC-142, o titular); os sábios da Família Yel (que lhe incum
 
 ## Observações
 **Ficha criada no ciclo B057 (Devolutiva O-2, 2026-08-25)** — termo já constava da tabela-mestra (B057/B058 nas fontes) sem ficha física. A forma **"Primeiro Pesquisador"** como título do cargo está consolidada em B058 e na ficha de RC-442; B057 usa "um dos primeiros pesquisadores"/"primeiro pesquisador" (sem caixa alta). **Quarentena ufológica (O-7):** cargo de universo extraterrestre — cruzar, não materializar. 0 códigos novos (O-3).
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** os 2 trechos entre aspas desta ficha **não** resistem à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Todos deixam vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+- ✅ **Reanexação A5 (U92, 15/09/2026):** os 2 trechos entre aspas desta ficha foram reanexados às fontes e passam a trazer aparelho de linha (`— SIGLA · original.txt LNNNN`), conferido byte a byte pelo Portão B. **Quarentena epistemológica de 14/09/2026 (U86) levantada nesta ficha** — a nota original dizia que o trecho não resistia à verificação; agora resiste, porque deixou de ser uma transcrição solta e passou a ser extracto conferido. Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

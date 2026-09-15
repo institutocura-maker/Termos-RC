@@ -53,7 +53,7 @@ Aparece em **P2025-04-06**, U0004. Contexto: "central de informação. Eu chamo 
 
 > «Lamúria é o quê? É um tipo de lamentação interminável, que importuna, mas que a nada leva. Mas era exatamente esse o padrão constante desses deuses. Eles viviam se lamuriando tudo. E quem é que diabos escutava isso aqui? Prometeu e Epimeteu. Então, esses caras eles foram colecionando a lamúria de todo mundo.» — P2025-04-06, U0004
 
-> «Prometeu começou a ser alguém que parou de levar a sério a si mesmo, a Zeus, a tudo que era ser que se pretendia superior.» — P2025-04-06, U0004
+> «Prometeu, começou a ser alguém que parou de levar a sério a si mesmo, a Zeus, a tudo que era ser que se pretendia superior.» — P2025-04-06 · `original.txt` L5 · reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte.
 
 ## Observações
 - [REVISAR → CHANCELA 2026-09-06 · F041-L5: AGUARDA-ÁUDIO (dívida perdoada até nova evidência na base; STT preservado como falado) — ver nota]: o conceito de "lamúria dos deuses" é leitura do autor — pode aparecer em outras palestras com formulações similares.
@@ -61,5 +61,4 @@ Aparece em **P2025-04-06**, U0004. Contexto: "central de informação. Eu chamo 
 
 
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-791.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** os 3 blocos entre «» desta ficha **não** resistem à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Todos deixam vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
-- ✅ **Reanexação parcial A5 (U91, 15/09/2026):** 1 dos 3 trechos entre aspas desta ficha foi reanexado às fontes e passa a trazer aparelho de linha (`— SIGLA · original.txt LNNNN`), conferido byte a byte pelo Portão B. Os restantes 2 permanecem sob a quarentena epistemológica de 14/09/2026 (U86) — a nota acima continua a valer para eles. Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+- ✅ **Reanexação A5 (U91, U92, 15/09/2026):** os 3 trechos entre aspas desta ficha foram reanexados às fontes e passam a trazer aparelho de linha (`— SIGLA · original.txt LNNNN`), conferido byte a byte pelo Portão B. **Quarentena epistemológica de 14/09/2026 (U86) levantada nesta ficha** — a nota original dizia que o trecho não resistia à verificação; agora resiste, porque deixou de ser uma transcrição solta e passou a ser extracto conferido. Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
