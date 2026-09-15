@@ -42,7 +42,7 @@ Ver RC-499 (Vishnu, Sophia, Olm, Mohen So, biodemos).
 
 
 ## Citações-chave
-> "Produzir espécies através do forno de Alamaior [STT], os biodemos." — P2021-12-04, U0621 (→ Awaymaion, RC-499)
+> «produzir espécies através do forno de Alamaior, os biodemos,» — P2021-12-04, U0621 · `original.txt` L4 · reanexado à fonte na U98 (A5); o trecho legado não trazia aparelho de linha. (→ Awaymaion, RC-499)
 
 ## Ampliação
 ### P2021-05-15 (As Etnias Hiperbóreas e os Anunnakis)

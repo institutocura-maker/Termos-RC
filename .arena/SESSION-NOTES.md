@@ -4158,3 +4158,18 @@ refutação em `diagnostico/U97-REFUTACAO-NORMALIZACAO-FONTES.md`.
   a numeração e corrompê-las-ia em silêncio.
 - R2 (reconstrução de parágrafos) continua a ser o caminho — mas como VISTA
   DERIVADA, nunca como reescrita de `original.txt`.
+
+## U98 — Fase 2 (A5): manifesto de ingestão + reanexação do RC-500
+ESCopo REAL DOS "35 RECUPERÁVEIS POR INGESTÃO" (despacho): só 2 têm fonte.
+- 32 registos: a fonte NÃO EXISTE no repo (10 obras: P2023-12-25-01..05, B051,
+  ART-2026-08-18, B071, B072, B064). Precisa de material do Curador.
+- B035: EXISTE em livros/AMOSTRAS, mas a ficha_ingresso.md diz expressamente
+  «não promover a CONCLUIDOS. Obra completa continua pendente». Bloqueado por
+  instrução vigente — NAO se ingeriu. Trecho de RC-194 L62 confere 100% (L284).
+- ART-2025-08-01: ALIAS de P2025-08-01, que já está no corpus.
+- RC-001 L619: parcial (B035 + P2023-12-25-01) -> 66.7% max, é síntese: fica.
+EXECUTADO: RC-500 L45 reanexado a P2021-12-04 L4.
+  Achado de integridade: os dois fragmentos são CONTÍGUOS (GAP=0). O "[STT]"
+  da ficha era inserção editorial. Emitiu-se fragmento ÚNICO sem » […] « —
+  usar o marcador de omissão seria afirmar uma falta inexistente.
+Artefacto: diagnostico/U98-INGESTAO-PENDENTE-A5.md (manifesto para o Curador).
