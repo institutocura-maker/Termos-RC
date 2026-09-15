@@ -4012,3 +4012,57 @@ Verificado: 35/35 · 778 · 0 falhas.
 `A1 ✅ A2 ✅ A3 ✅ A4 ✅ · A5 ⏳ 128/658 reanexados · A6 ✅ A7 ✅ A8 ✅`
 Backlog: 70–89% 117 (U93) · <70% 51 + G2 44 + G6 31 + 6 fora de parágrafo +
 1 censura (U94) · **219 órfãos (U95 — artefacto, zero fichas tocadas)**.
+
+---
+
+## U93 — ARTEFACTO DE CURADORIA (operação de LEITURA): 212 instâncias para decisão binária
+
+**Artefacto:** `diagnostico/U93-DIFF-CURATORIAL.md`
+**Gerador:** `ferramentas/gerar_diff_curatorial_a5.py` (só leitura)
+**Leitor:** `ferramentas/ler_diff_curatorial_a5.py` (só leitura)
+
+### 1. A faixa pedida tinha 45 blocos, não 117
+O despacho previa 117. Medido sobre o estado actual das fichas, com alinhamento
+frouxo, a faixa 70–89% tem **45**. A diferença: 29 blocos já reanexados e um
+grande número promovido a ≥90% pelo alinhamento frouxo (o fosso era artefacto).
+**Nenhum bloco se perdeu** — o saldo dos 442 reconcilia ao bloco.
+
+### 2. O achado maior: a fila curatorial real é 4× maior do que a pedida
+| situação | blocos | quem resolve |
+|---|---|---|
+| JÁ reanexado (U91+U92) | 122 | feito |
+| ≥90% e contíguo | 44 | motor (U94) |
+| **≥90% mas SEM substring único (falha G6)** | **167** | **curador** |
+| **faixa 70–89%** | **45** | **curador** |
+| 50–69% / 25–49% / <25% | 58 | curador (U95) |
+| fora de parágrafo | 6 | investigar |
+
+Os 167 que falham G6 têem cobertura ALTA mas os fragmentos não são contíguos:
+não existe um único extracto que os substitua. São a mesma decisão binária da
+faixa pedida, por isso foram incluídos como **Parte II** do mesmo artefacto.
+
+### 3. Filtro que evitou trabalho duplicado
+Um bloco reanexado com UM SÓ fragmento continuava «localizável» (a chave ainda
+casa dentro do «»). Sem filtrar pela presença de aparelho R1 na linha, o
+artefacto entregaria ao Curador 122 blocos já feitos.
+
+### 4. Formato e ida-e-volta provada
+Cada instância traz: LEGADO (como está), FONTE (fragmentos verbatim), tabela de
+DIVERGÊNCIAS fosso a fosso, e duas caixas — `APROVAR FONTE` / `MANTER LEGADO`.
+Uma âncora HTML (`<!-- U93|id|cod|sigla|linha|pct|contiguo|longo|arq|linha -->`)
+torna o ficheiro analisável por máquina. **A ida-e-volta foi provada no dia em
+que o artefacto nasceu**: 212 instâncias lidas, 0 decisões, lote vazio.
+
+### 5. Isolamento verificado
+`git status` depois da geração: **0 fichas alteradas**, nenhuma nota emitida,
+nenhum status mexido. Só `diagnostico/` e `ferramentas/`.
+
+### 6. INCIDENTE: 7.ª regressão do git
+A meio da unidade o HEAD regressou a `0a640cf` (735 ficheiros «alterados»,
+incluindo `original.txt` do corpus). Contido pelo protocolo da casa: `fetch` →
+`reset --mixed FETCH_HEAD` (**nunca** `--hard`) → `git checkout HEAD --
+.arena/SESSION-NOTES.md` (a regressão tinha ESVAZIADO o ficheiro). HEAD
+restaurado a `95fe773`, `termos/` limpo.
+
+### 7. Estado
+`A1 ✅ A2 ✅ A3 ✅ A4 ✅ · A5 ⏳ 128 reanexados + 212 em curadoria · A6 ✅ A7 ✅ A8 ✅`
