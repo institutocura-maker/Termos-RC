@@ -49,7 +49,7 @@ Kether/Javé (RC-261/RC-001); Criador (RC-041).
 
 
 ## Citações-chave
-> "O já citado conceito de 'Tzimtzum', do rabino Isaac Luria, que dá o indicativo do 'exílio de deus dentro da sua própria Criação', diz que: 'Deus foi compelido a dar espaço ao universo, abandonando uma região dentro de sua infinidade. Ao se contrair, ele deixou um lugar primordial para o universo se desenvolver'." — B013, cap. 1
+> «O já citado conceito de» » … « «“Tzimtzum”» » […] « «do rabino Isaac Luria, que dá o» » … « «indicativo do “exílio de deus dentro da sua própria Criação”, diz que:» » … « «“Deus foi compelido a dar espaço ao universo, abandonando uma» » … « «região dentro de sua infinidade. Ao se contrair, ele deixou um lugar» » … « «primordial para o universo se desenvolver”» — B013 p. 30 · `original.txt` L1126 · reconstrução aprovada pelo Curador na U93; 1 palavra da fonte omitida — » […] « assinala o fosso, ao passo que » … « assinala apenas quebra de hard-wrap.
 
 ## Ampliação
 ### P2025-05-31

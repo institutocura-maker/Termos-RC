@@ -46,9 +46,9 @@ Termo guarda-chuva da palestra de 14/04/2024: o conjunto **intransferível** de 
 
 ## Citações-chave
 
-> "O nome disso, pessoal, é bagagem espiritual intransferível. Cada espírito tem uma bagagem de conectomas quânticos, que corresponde ao álbum de figurinhas memorial associado a emoções de cada vida. E o espírito guarda tudo isso na sua mente eterna."
+> «o nome disso, pessoal, é bagagem espiritual intransferível. Cada espírito tem uma bagagem de» » […] « «Conectomas quânticos. que corresponde ao álbum de figurinhas memorial associado a emoções de cada vida. E o espírito guarda tudo isso na sua mente eterna.» — P2024-04-14 · `original.txt` L79 · reconstrução aprovada pelo Curador na U93; 6 palavras da fonte omitidas — » […] « assinala o fosso, ao passo que » … « assinala apenas quebra de hard-wrap.
 
-> "Esse espírito aqui funciona como um ator ou uma atriz que tem uma personalidade própria, mas já fez 50 novelas. Em cada novela tinha um nome diferente, mas ele é ele... O espírito evolui assim ou se ferra assim, porque se ele só produziu personagens que se ferraram ou ferraram alguém, ele é obrigado a apropriar isso nele. E o nome disso, pessoal, é bagagem espiritual intransferível."" — P2024-04-14
+> «esse espírito aqui funciona como um ator ou uma atriz que tem uma personalidade própria, mas já fez 50 novelas. Em cada novela» » […] « «tinha um nome diferente, mas ele é ele.» » […] « «o espírito evolui assim ou se ferra assim, porque se ele só produziu personagens que se ferraram ou ferraram alguém, ele é obrigado a apropriar isso nele. E o nome disso, pessoal, é bagagem espiritual intransferível.» — P2024-04-14 · `original.txt` L79 · reconstrução aprovada pelo Curador na U93; 71 palavras da fonte omitidas — » […] « assinala o fosso, ao passo que » … « assinala apenas quebra de hard-wrap.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** os 2 trechos entre aspas desta ficha **não** resistem à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Todos deixam vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
 
 ## Ampliação

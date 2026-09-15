@@ -64,7 +64,7 @@ Kether/Javé (RC-261); Deidade (RC-047).
 
 
 ## Citações-chave
-> "Para muitos, a 'Árvore da Vida' – um dos símbolos cabalísticos fundamentais – é um diagrama da emanação do universo a partir do 'Uno', a 'Unidade Deificada' escondida por trás de tudo que existe nesta Criação. Outros a veem como sendo um plano para permitir ao homem a escalada das dez 'Sefiroth' que compõem a 'Árvore da Vida', e representam as dez 'Emanações da Divindade'." — B013, cap. 6
+> «Para muitos, a» » … « «“Árvore da Vida” – um dos símbolos cabalísticos» » … « «fundamentais – é um diagrama da emanação do universo a partir do» » … « «“Uno”» » […] « «a “Unidade Deificada” escondida por trás de tudo que existe nesta» » … « «Criação.» » … « «Outros a veem como sendo um plano para permitir ao homem a» » … « «escalada» » … « «das dez» » … « «“Sefiroth”» » … « «que compõem a “Árvore da Vida”, e representam as» » … « «dez» » … « «“Emanações da Divindade”» — B013 p. 71 · `original.txt` L3208 · reconstrução aprovada pelo Curador na U93; 1 palavra da fonte omitida — » […] « assinala o fosso, ao passo que » … « assinala apenas quebra de hard-wrap.
 
 ## Ampliação
 ### P2025-05-31

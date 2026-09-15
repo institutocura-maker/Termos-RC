@@ -51,7 +51,7 @@ Zeus (RC-145); deuses do Olimpo (RC-241/RC-049).
 | Tempos Difíceis no Olimpo (B021) | caps. 1, 22 | pp. 10–20, 120–130 (aprox.) | conceito central |
 
 ## Citações-chave
-> "Para um deus, quanto mais cidades 'conquistadas', preces de prestígios recebidas, como também sacrifícios endereçados a ele, maior seria a sua timé. A pior desgraça de 'domínio' a ser sentida pelos deuses... o que de mais tenebroso pode acontecer a um deus é ter a sua honra atingida devido à perda da sua timé." — B021, cap. 1
+> «Para um deus, quanto mais cidades “conquistadas”, preces de prestígios» » … « «recebidas, como também sacrifícios endereçados a ele, maior seria a sua» » … « «timé» » […] « «A pior desgraça de “domínio” a ser sentida pelos deuses» » […] « «o que de mais tenebroso pode» » … « «acontecer a um deus é ter a sua honra atingida devido à perda da sua» » … « «timé» — B021 p. 10 · `original.txt` L261 · reconstrução aprovada pelo Curador na U93; 12 palavras da fonte omitidas — » […] « assinala o fosso, ao passo que » … « assinala apenas quebra de hard-wrap.
 
 ## Ampliação
 ### P2026-07-25

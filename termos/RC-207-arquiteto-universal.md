@@ -46,7 +46,7 @@ Prabrajna/Prajapati (RC-152); Javé (RC-001); Deidade (RC-047); Divindades Excel
 | O Drama Espiritual de Javé (B002) | cap. 1 (A Queda de um Arquiteto Universal) | pp. 6–7 (aprox.) | capítulo dedicado |
 
 ## Citações-chave
-> "Em um desses rincões, e dentro das etapas existenciais pelas quais passam os seres ali inseridos, era chegado o momento de mais uma divindade menor co-criadora apresentar-se para exercer a função de arquiteto universal." — B001, cap. 1
+> «Em um desses rincões, e dentro das etapas existenciais pelas quais» » … « «passam os seres ali inseridos, era chegado o momento de mais uma» » […] « «menor co-criadora apresentar-se para exercer a função de arquiteto» » … « «universal.» — B001 p. 14 · `original.txt` L348 · reconstrução aprovada pelo Curador na U93; 2 palavras da fonte omitidas — » […] « assinala o fosso, ao passo que » … « assinala apenas quebra de hard-wrap.
 
 ## Ampliação
 ### B001 (O Drama Cósmico de Javé)

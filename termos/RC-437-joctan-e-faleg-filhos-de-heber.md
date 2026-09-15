@@ -36,7 +36,7 @@ Filhos de Heber (RC-436), patriarcas pós-diluvianos da linhagem hebraica — **
 
 ## Citações-chave
 
-> "Javé teve uma raiva tão grande de Faleg e depois de uns descendentes de Gômer que ele jogou uma maldição que transformava o DNA de tudo que era mulheres em um tipo de DNA estéril." — P2021-03-27
+> «Javé teve uma raiva tão grande de Faleg e depois de uns descendentes de» » […] « «que ele jogou uma maldição que» » […] « «transformava o DNA de tudo que era mulheres em um tipo de DNA» » […] « «estéril,» — P2021-03-27 · `original.txt` L51 · reconstrução aprovada pelo Curador na U93; 251 palavras da fonte omitidas — » […] « assinala o fosso, ao passo que » … « assinala apenas quebra de hard-wrap.
 
 
 > Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.

@@ -55,7 +55,7 @@ Len Mion (RC-074); Gron Mion (RC-067, citado nas obras primárias); Yel Luzbel (
 ## Citações-chave
 > «Enquanto os “sábios” da Família Yel aguardam as» » … « «respostas de Sophia para as questões do Primeiro» » … « «Pesquisador Yel Luzbel, a Família Mion decide entrar» » … « «em contato com os demais Biocoletivos espalhados» » … « «pelo universo.» — B058 p. 1 · `original.txt` L26 · reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte.
 
-> "Len Mion, ele não aguentava mais esperar! Então, tomando a iniciativa, convocou os integrantes da 'família Mion' para um conclave." — B058, p. 14
+> «Len Mion,  ele não aguentava mais esperar! Então,» » … « «tomando a iniciativa, convocou os integrantes da “família Mion» » […] « «para» » … « «um conclave.» — B058 p. 14 · `original.txt` L498 · reconstrução aprovada pelo Curador na U93; 1 palavra da fonte omitida — » […] « assinala o fosso, ao passo que » … « assinala apenas quebra de hard-wrap.
 
 > "Os Mion estarão prontos para confrontar Sophia e as suas Hostes! O 'Primeiro em Comando' da 'família Mion' não deixará essa questão passar despercebida!" — B058, p. 15
 

@@ -51,7 +51,7 @@ Brahma (RC-037); Vishnu (RC-135); Shiva (RC-102); Jan Val Ellam (RC-071).
 | Inquisição Trimurtiana (B022) | caps. 7, 9 | pp. 60–70, 95–115 (aprox.) | termo central |
 
 ## Citações-chave
-> "E ali estava o nível hierárquico dos Adhytia, que se apresentava, naquela oportunidade, em número de nove seres, sendo cada um mais estranho e diferente do que o outro — na verdade eram 'singulares' — para o meu padrão humano." — B022, cap. 9
+> «E ali estava o nível hierárquico dos» » … « «Adhytia» » […] « «que se apresentava, naquela» » … « «oportunidade, em número de nove seres, sendo cada um mais estranho e» » … « «diferente do que o outro» » […] « «na verdade eram “singulares”» » […] « «para o meu padrão» » … « «humano.» — B022 p. 131 · `original.txt` L5609 · reconstrução aprovada pelo Curador na U93; 3 palavras da fonte omitidas — » […] « assinala o fosso, ao passo que » … « assinala apenas quebra de hard-wrap.
 
 ## Ampliação
 ### B022 (Inquisição Trimurtiana)

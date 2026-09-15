@@ -68,11 +68,11 @@ Jan Val Ellam (RC-071, criador).
 
 
 ## Citações-chave
-> "Criei o Mentalma como sendo o meu método de nada reafirmar, questionando todas as minhas 'certezas sinápticas'... O Mentalma questiona e recria, assegurando novas possibilidades." — B074, p. 11
+> «Criei o Mentalma como sendo o meu método de» » … « «nada reafirmar» » […] « «questionando todas as minhas “certezas sinápticas”,» » […] « «O Mentalma» » … « «questiona e recria, assegurando novas possibilidades,» — B074 p. 11 · `original.txt` L292 · reconstrução aprovada pelo Curador na U93; 32 palavras da fonte omitidas — » […] « assinala o fosso, ao passo que » … « assinala apenas quebra de hard-wrap.
 
 > «o Mentalma se trata de uma “busca” pelo autoconhecimento, pelo» » … « «autocontrole, pela elevação do nível de compreensão sobre a vida e os» » … « «eventos ao nosso redor, enfim, pela emancipação do psiquismo.» — B074 p. 12 · `original.txt` L318 · reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte.
 
-> "A 'guarda' e/ou 'hospedagem' de conceitos... sob a configuração de 'arquivos mentais'... foi e é a base do conjunto de práticas e de reflexões que passaram a compor o Mentalma, a minha disciplina de Yoga." — B074, p. 26
+> «A “guarda” e/ou “hospedagem” de conceitos,» » […] « «sob a» » … « «configuração de “arquivos mentais”,» » […] « «foi e é a base do» » … « «conjunto de práticas e de» » … « «reflexões que passaram a compor o Mentalma, a» » … « «minha disciplina de Yoga,» — B074 p. 26 · `original.txt` L932 · reconstrução aprovada pelo Curador na U93; 16 palavras da fonte omitidas — » […] « assinala o fosso, ao passo que » … « assinala apenas quebra de hard-wrap.
 
 ## Ampliação
 ### P2024-02-25

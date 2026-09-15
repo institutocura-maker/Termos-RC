@@ -54,7 +54,7 @@ Entidade cósmica resultante do **processo de especiação humana** (RC-056): a 
 
 ## Citações-chave
 
-> "Isso vai ter que ser feito através de um processo de especiação, porque aqui na terra talvez não dê para ser feito isso. Então, o que fazer? Não há muito a ser feito fora de cada um de nós... e esse é o processo de elevação de consciência que nós precisamos fazer." — P2023-05-13
+> «isso vai ter que ser feito através de um processo de especiação, porque aqui na terra talvez não dê para ser feito isso. Então, o que fazer? Não há muito a ser feito fora de cada um de nós.» » […] « «E esse é o processo de elevação de consciência que nós precisamos fazer.» — P2023-05-13 · `original.txt` L87 · reconstrução aprovada pelo Curador na U93; 12 palavras da fonte omitidas — » […] « assinala o fosso, ao passo que » … « assinala apenas quebra de hard-wrap.
 
 ## Ampliação
 ### B019 (Nem Deus, nem Javé, nem Darwin)

@@ -50,7 +50,7 @@ Yel Luzbel (RC-142, primeiro a se desligar); Sophia (RC-009, criadora); Sábios 
 
 
 ## Citações-chave
-> "Cada família capelina possuía o seu próprio 'Processador'. A nossa família Yel foi urdida há cerca de 492 milhões de anos... todos mantinham registados em si próprios os genes que nos definiam como família." — B057, p. 15
+> «Cada família» » … « «capelina possuía o seu próprio “Processador”.» » … « «A nossa família Yel foi urdida há» » […] « «de 492 milhões de anos» » […] « «todos mantinham registados em si próprios os genes que nos» » … « «definiam como família.» — B057 p. 15 · `original.txt` L579 · reconstrução aprovada pelo Curador na U93; 10 palavras da fonte omitidas — » […] « assinala o fosso, ao passo que » … « assinala apenas quebra de hard-wrap.
 
 > "Se eu deixar de ser um integrante da minha 'família' e, portanto, desligar-me do 'Processador' que nos une a todos, não mais existirei como um ser coletivo para este universo?" — B058, p. 67
 

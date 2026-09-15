@@ -44,7 +44,7 @@ Espírito encarnado (fonte da "Vontade Maior"); Jan Val Ellam (criador do métod
 | P2025-02-15 | Palestra | — | menção |
 
 ## Citações-chave
-> "A 'vontade de progredir' é a 'chave da soberania espiritual', e um indivíduo é 'soberano' sobre si mesmo quando ele a usa, pois ela o fará estar no comando do seu 'Eu organizador' dos arquivos mentais 'colecionados'." — B074, p. 45
+> «A “vontade de progredir” é a» » […] « «chave da soberania espiritual» » […] « «e um» » … « «indivíduo é “soberano” sobre si mesmo quando ele a usa, pois ela o fará estar» » … « «no comando do seu “Eu organizador” dos arquivos mentais “colecionados”.» — B074 p. 45 · `original.txt` L1745 · reconstrução aprovada pelo Curador na U93; 2 palavras da fonte omitidas — » […] « assinala o fosso, ao passo que » … « assinala apenas quebra de hard-wrap.
 
 > "A 'vontade de progredir' representa uma 'Vontade Maior' que a do simples 'ego transitório'. Essa 'vontade de progredir' é o próprio Espírito tentando influenciar o seu 'ego terreno'..." — B074, p. 44
 

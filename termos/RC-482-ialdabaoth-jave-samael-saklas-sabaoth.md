@@ -34,7 +34,7 @@ Epíteto gnóstico de Javé (o demiurgo): "Samael, o soberano cego; Saklas, o ig
 
 ## Citações-chave
 
-> "Samael, o soberano cego, também chamado de Sácala, o ignorante, e de Aldabaof, que é o blasfemador contra o divino, e de Sabaov... tudo isso é sinônimo pro nome de Javé." — P2026-07-25
+> «Samael. o soberano cego, também chamado de Sácala, o ignorante, e de Aldabaof, que é o blasfemador contra o divino, e de Sabaov,» » […] « «tudo isso é sinônimo pro nome de Javé.» — P2026-07-25 · `original.txt` L275 · reconstrução aprovada pelo Curador na U93; 2 palavras da fonte omitidas — » […] « assinala o fosso, ao passo que » … « assinala apenas quebra de hard-wrap.
 
 
 > Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.

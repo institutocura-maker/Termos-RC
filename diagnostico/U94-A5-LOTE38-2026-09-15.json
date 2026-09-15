@@ -1,0 +1,601 @@
+{
+ "unidade": "U94",
+ "lote": "A5-4",
+ "rota": "R1",
+ "data": "2026-09-15",
+ "aplicar_V": false,
+ "origem": "uploads_recepcao/U93-U94-id-decisao.txt",
+ "criterio": "decisão do Curador sobre as 212 instâncias do artefacto de curadoria; 69 reconstruções com o marcador » […] «, 143 mantidas sem acção.",
+ "fichas": [
+  {
+   "ident": "II-001",
+   "cod": "RC-008",
+   "sigla": "B013",
+   "linha": 1126,
+   "pct": 0.0,
+   "nfrag": 7,
+   "omisso": 1,
+   "longo": false
+  },
+  {
+   "ident": "II-003",
+   "cod": "RC-039",
+   "sigla": "B057",
+   "linha": 562,
+   "pct": 0.0,
+   "nfrag": 4,
+   "omisso": 18,
+   "longo": false
+  },
+  {
+   "ident": "II-004",
+   "cod": "RC-042",
+   "sigla": "P2023-05-13",
+   "linha": 87,
+   "pct": 0.0,
+   "nfrag": 2,
+   "omisso": 12,
+   "longo": false
+  },
+  {
+   "ident": "II-005",
+   "cod": "RC-055",
+   "sigla": "B015",
+   "linha": 632,
+   "pct": 0.0,
+   "nfrag": 5,
+   "omisso": 154,
+   "longo": false
+  },
+  {
+   "ident": "II-009",
+   "cod": "RC-145",
+   "sigla": "B087",
+   "linha": 1182,
+   "pct": 0.0,
+   "nfrag": 4,
+   "omisso": 2,
+   "longo": false
+  },
+  {
+   "ident": "II-010",
+   "cod": "RC-146",
+   "sigla": "B057",
+   "linha": 1172,
+   "pct": 0.0,
+   "nfrag": 6,
+   "omisso": 2,
+   "longo": false
+  },
+  {
+   "ident": "II-012",
+   "cod": "RC-155",
+   "sigla": "B024",
+   "linha": 4732,
+   "pct": 0.0,
+   "nfrag": 5,
+   "omisso": 5,
+   "longo": false
+  },
+  {
+   "ident": "II-014",
+   "cod": "RC-166",
+   "sigla": "B074",
+   "linha": 292,
+   "pct": 0.0,
+   "nfrag": 5,
+   "omisso": 32,
+   "longo": false
+  },
+  {
+   "ident": "II-015",
+   "cod": "RC-166",
+   "sigla": "B074",
+   "linha": 932,
+   "pct": 0.0,
+   "nfrag": 7,
+   "omisso": 16,
+   "longo": false
+  },
+  {
+   "ident": "II-019",
+   "cod": "RC-207",
+   "sigla": "B001",
+   "linha": 348,
+   "pct": 0.0,
+   "nfrag": 4,
+   "omisso": 2,
+   "longo": false
+  },
+  {
+   "ident": "II-020",
+   "cod": "RC-210",
+   "sigla": "B001",
+   "linha": 670,
+   "pct": 0.0,
+   "nfrag": 8,
+   "omisso": 2,
+   "longo": false
+  },
+  {
+   "ident": "II-022",
+   "cod": "RC-263",
+   "sigla": "B013",
+   "linha": 3208,
+   "pct": 0.0,
+   "nfrag": 13,
+   "omisso": 1,
+   "longo": false
+  },
+  {
+   "ident": "II-024",
+   "cod": "RC-267",
+   "sigla": "P2025-05-31",
+   "linha": 103,
+   "pct": 0.0,
+   "nfrag": 2,
+   "omisso": 1,
+   "longo": false
+  },
+  {
+   "ident": "II-026",
+   "cod": "RC-293",
+   "sigla": "B021",
+   "linha": 261,
+   "pct": 0.0,
+   "nfrag": 7,
+   "omisso": 12,
+   "longo": false
+  },
+  {
+   "ident": "II-027",
+   "cod": "RC-301",
+   "sigla": "B087",
+   "linha": 2035,
+   "pct": 0.0,
+   "nfrag": 4,
+   "omisso": 2,
+   "longo": false
+  },
+  {
+   "ident": "II-028",
+   "cod": "RC-303",
+   "sigla": "B087",
+   "linha": 2547,
+   "pct": 0.0,
+   "nfrag": 4,
+   "omisso": 2,
+   "longo": false
+  },
+  {
+   "ident": "II-030",
+   "cod": "RC-307",
+   "sigla": "B087",
+   "linha": 1915,
+   "pct": 0.0,
+   "nfrag": 4,
+   "omisso": 51,
+   "longo": false
+  },
+  {
+   "ident": "II-031",
+   "cod": "RC-308",
+   "sigla": "B022",
+   "linha": 5609,
+   "pct": 0.0,
+   "nfrag": 8,
+   "omisso": 3,
+   "longo": false
+  },
+  {
+   "ident": "II-032",
+   "cod": "RC-312",
+   "sigla": "B022",
+   "linha": 61,
+   "pct": 0.0,
+   "nfrag": 9,
+   "omisso": 3,
+   "longo": false
+  },
+  {
+   "ident": "II-034",
+   "cod": "RC-320",
+   "sigla": "B023",
+   "linha": 555,
+   "pct": 0.0,
+   "nfrag": 9,
+   "omisso": 2,
+   "longo": false
+  },
+  {
+   "ident": "II-035",
+   "cod": "RC-321",
+   "sigla": "B023",
+   "linha": 1884,
+   "pct": 0.0,
+   "nfrag": 8,
+   "omisso": 1,
+   "longo": false
+  },
+  {
+   "ident": "II-036",
+   "cod": "RC-335",
+   "sigla": "B048",
+   "linha": 2877,
+   "pct": 0.0,
+   "nfrag": 7,
+   "omisso": 2,
+   "longo": false
+  },
+  {
+   "ident": "II-037",
+   "cod": "RC-378",
+   "sigla": "B041",
+   "linha": 6395,
+   "pct": 0.0,
+   "nfrag": 10,
+   "omisso": 93,
+   "longo": false
+  },
+  {
+   "ident": "II-039",
+   "cod": "RC-385",
+   "sigla": "B041",
+   "linha": 6036,
+   "pct": 0.0,
+   "nfrag": 5,
+   "omisso": 1,
+   "longo": false
+  },
+  {
+   "ident": "II-041",
+   "cod": "RC-421",
+   "sigla": "B036",
+   "linha": 50,
+   "pct": 0.0,
+   "nfrag": 6,
+   "omisso": 25,
+   "longo": false
+  },
+  {
+   "ident": "II-042",
+   "cod": "RC-430",
+   "sigla": "B040",
+   "linha": 243,
+   "pct": 0.0,
+   "nfrag": 8,
+   "omisso": 22,
+   "longo": false
+  },
+  {
+   "ident": "II-044",
+   "cod": "RC-437",
+   "sigla": "P2021-03-27",
+   "linha": 51,
+   "pct": 0.0,
+   "nfrag": 4,
+   "omisso": 251,
+   "longo": false
+  },
+  {
+   "ident": "II-046",
+   "cod": "RC-442",
+   "sigla": "B057",
+   "linha": 581,
+   "pct": 0.0,
+   "nfrag": 5,
+   "omisso": 3,
+   "longo": false
+  },
+  {
+   "ident": "II-047",
+   "cod": "RC-443",
+   "sigla": "B058",
+   "linha": 498,
+   "pct": 0.0,
+   "nfrag": 4,
+   "omisso": 1,
+   "longo": false
+  },
+  {
+   "ident": "II-048",
+   "cod": "RC-446",
+   "sigla": "B057",
+   "linha": 579,
+   "pct": 0.0,
+   "nfrag": 6,
+   "omisso": 10,
+   "longo": false
+  },
+  {
+   "ident": "II-050",
+   "cod": "RC-448",
+   "sigla": "B058",
+   "linha": 36,
+   "pct": 0.0,
+   "nfrag": 6,
+   "omisso": 55,
+   "longo": false
+  },
+  {
+   "ident": "II-052",
+   "cod": "RC-450",
+   "sigla": "B058",
+   "linha": 2696,
+   "pct": 0.0,
+   "nfrag": 4,
+   "omisso": 24,
+   "longo": false
+  },
+  {
+   "ident": "II-053",
+   "cod": "RC-451",
+   "sigla": "B058",
+   "linha": 1949,
+   "pct": 0.0,
+   "nfrag": 6,
+   "omisso": 24,
+   "longo": false
+  },
+  {
+   "ident": "II-054",
+   "cod": "RC-451",
+   "sigla": "B058",
+   "linha": 1959,
+   "pct": 0.0,
+   "nfrag": 5,
+   "omisso": 2,
+   "longo": false
+  },
+  {
+   "ident": "II-055",
+   "cod": "RC-453",
+   "sigla": "B057",
+   "linha": 767,
+   "pct": 0.0,
+   "nfrag": 5,
+   "omisso": 2,
+   "longo": false
+  },
+  {
+   "ident": "II-060",
+   "cod": "RC-482",
+   "sigla": "P2026-07-25",
+   "linha": 275,
+   "pct": 0.0,
+   "nfrag": 2,
+   "omisso": 2,
+   "longo": false
+  },
+  {
+   "ident": "II-063",
+   "cod": "RC-489",
+   "sigla": "P2023-12-02",
+   "linha": 105,
+   "pct": 0.0,
+   "nfrag": 2,
+   "omisso": 7,
+   "longo": false
+  },
+  {
+   "ident": "II-065",
+   "cod": "RC-513",
+   "sigla": "P2024-07-14",
+   "linha": 99,
+   "pct": 0.0,
+   "nfrag": 4,
+   "omisso": 7,
+   "longo": false
+  },
+  {
+   "ident": "II-068",
+   "cod": "RC-548",
+   "sigla": "B074",
+   "linha": 931,
+   "pct": 0.0,
+   "nfrag": 5,
+   "omisso": 3,
+   "longo": false
+  },
+  {
+   "ident": "II-069",
+   "cod": "RC-550",
+   "sigla": "B074",
+   "linha": 1745,
+   "pct": 0.0,
+   "nfrag": 5,
+   "omisso": 2,
+   "longo": false
+  },
+  {
+   "ident": "II-070",
+   "cod": "RC-553",
+   "sigla": "B074",
+   "linha": 1707,
+   "pct": 0.0,
+   "nfrag": 5,
+   "omisso": 2,
+   "longo": false
+  },
+  {
+   "ident": "II-071",
+   "cod": "RC-554",
+   "sigla": "B075",
+   "linha": 4511,
+   "pct": 0.0,
+   "nfrag": 7,
+   "omisso": 32,
+   "longo": false
+  },
+  {
+   "ident": "II-073",
+   "cod": "RC-555",
+   "sigla": "B075",
+   "linha": 186,
+   "pct": 0.0,
+   "nfrag": 10,
+   "omisso": 16,
+   "longo": false
+  },
+  {
+   "ident": "II-074",
+   "cod": "RC-558",
+   "sigla": "P2024-02-25",
+   "linha": 5,
+   "pct": 0.0,
+   "nfrag": 2,
+   "omisso": 1,
+   "longo": false
+  },
+  {
+   "ident": "II-082",
+   "cod": "RC-692",
+   "sigla": "P2025-03-15",
+   "linha": 50,
+   "pct": 0.0,
+   "nfrag": 3,
+   "omisso": 2,
+   "longo": false
+  },
+  {
+   "ident": "II-086",
+   "cod": "RC-721",
+   "sigla": "P2024-11-09",
+   "linha": 57,
+   "pct": 0.0,
+   "nfrag": 4,
+   "omisso": 4,
+   "longo": false
+  },
+  {
+   "ident": "II-087",
+   "cod": "RC-723",
+   "sigla": "P2024-11-09",
+   "linha": 57,
+   "pct": 0.0,
+   "nfrag": 4,
+   "omisso": 4,
+   "longo": false
+  },
+  {
+   "ident": "II-088",
+   "cod": "RC-726",
+   "sigla": "P2024-11-09",
+   "linha": 57,
+   "pct": 0.0,
+   "nfrag": 6,
+   "omisso": 12,
+   "longo": false
+  },
+  {
+   "ident": "II-096",
+   "cod": "RC-743",
+   "sigla": "P2024-08-03",
+   "linha": 68,
+   "pct": 0.0,
+   "nfrag": 2,
+   "omisso": 1,
+   "longo": false
+  },
+  {
+   "ident": "II-098+II-099",
+   "cod": "RC-747",
+   "sigla": "P2024-03-03",
+   "linha": 60,
+   "pct": 0.0,
+   "nfrag": 4,
+   "omisso": 46,
+   "longo": false
+  },
+  {
+   "ident": "II-100",
+   "cod": "RC-748",
+   "sigla": "P2024-03-03",
+   "linha": 61,
+   "pct": 0.0,
+   "nfrag": 3,
+   "omisso": 37,
+   "longo": false
+  },
+  {
+   "ident": "II-101",
+   "cod": "RC-751",
+   "sigla": "P2024-04-14",
+   "linha": 79,
+   "pct": 0.0,
+   "nfrag": 2,
+   "omisso": 6,
+   "longo": false
+  },
+  {
+   "ident": "II-102",
+   "cod": "RC-751",
+   "sigla": "P2024-04-14",
+   "linha": 79,
+   "pct": 0.0,
+   "nfrag": 3,
+   "omisso": 71,
+   "longo": false
+  },
+  {
+   "ident": "II-103",
+   "cod": "RC-752",
+   "sigla": "P2024-04-14",
+   "linha": 79,
+   "pct": 0.0,
+   "nfrag": 3,
+   "omisso": 71,
+   "longo": false
+  },
+  {
+   "ident": "II-105",
+   "cod": "RC-759",
+   "sigla": "P2024-02-03",
+   "linha": 90,
+   "pct": 0.0,
+   "nfrag": 2,
+   "omisso": 2,
+   "longo": false
+  },
+  {
+   "ident": "II-106",
+   "cod": "RC-761",
+   "sigla": "P2023-05-13",
+   "linha": 82,
+   "pct": 0.0,
+   "nfrag": 2,
+   "omisso": 1,
+   "longo": false
+  },
+  {
+   "ident": "II-107",
+   "cod": "RC-762",
+   "sigla": "P2023-12-02",
+   "linha": 90,
+   "pct": 0.0,
+   "nfrag": 3,
+   "omisso": 137,
+   "longo": false
+  },
+  {
+   "ident": "II-116",
+   "cod": "RC-783",
+   "sigla": "P2019-05-11",
+   "linha": 68,
+   "pct": 0.0,
+   "nfrag": 2,
+   "omisso": 1,
+   "longo": false
+  },
+  {
+   "ident": "II-127",
+   "cod": "RC-790",
+   "sigla": "P2025-04-06",
+   "linha": 5,
+   "pct": 0.0,
+   "nfrag": 2,
+   "omisso": 1,
+   "longo": false
+  }
+ ]
+}

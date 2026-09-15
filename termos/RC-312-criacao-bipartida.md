@@ -43,7 +43,7 @@ B022, Introdução (voz de Ellam, pp. 4–7): em experiência visionária, Ellam
 | P2024-11-30 — Moros e os Arquivos do Destino Universal | camada-3 (transcrição) | — | palestra (fonte primária, STT) |
 
 ## Citações-chave
-> «a confusa "Criação Bipartida", da qual o universo em que a Terra estava situada parecia ser tão somente uma das suas partes componentes. O que me era dado perceber se assemelhava a dois universos paralelos, subjacentes, um em expansão — o nosso, onde a vida biológica impera — e um outro retraído, desagregado, como se "recortado" em muitas partes — onde vivem os chamados "entes-clones" e as diversas classes de "demônios".» — B022, Introdução (pp. 4–5)
+> «a confusa “Criação Bipartida”, da qual o universo em que a Terra estava» » … « «situada parecia ser tão somente uma das suas partes componentes.» » … « «O que me era dado perceber se assemelhava a dois universos paralelos,» » … « «subjacentes, um em expansão» » […] « «o nosso, onde a vida biológica impera» » […] « «e um» » … « «outro retraído, desagregado, como se “recortado” em muitas partes» » […] « «onde» » … « «vivem os chamados “entes-clones” e as diversas classes de “demônios”.» — B022 p. 4 · `original.txt` L61 · reconstrução aprovada pelo Curador na U93; 3 palavras da fonte omitidas — » […] « assinala o fosso, ao passo que » … « assinala apenas quebra de hard-wrap.
 
 > «São dois universos que nasceram agarradinhos um no outro, interpostos.» — P2024-11-30 · `original.txt` L88 · reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte.
 

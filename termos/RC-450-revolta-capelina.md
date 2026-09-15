@@ -51,7 +51,7 @@ Yel Luzbel (RC-142); Len Mion (RC-074); Sophia (RC-009, questionada); o "Primeir
 ## Citações-chave
 > "Os seus discursos combinados com um longo silêncio da 'Hierarquia Cósmica' começam a inflamar as mentes dos seus pares, nos momentos que precederam a 'Revolta Capelina'. Foi, então, que os lacres que marcavam o psiquismo coletivo desses seres passaram a ser rompidos, dando lugar a um senso de individualidade inquietante jamais intentado." — B058, p. 1
 
-> "Conforme o nosso grupo foi crescendo em número de participantes, acabámos por ter que estabelecer um comando de hierarquias... Tínhamos 'líderes e soldados' que estavam a aprontar-se para combater Sophia e as suas Hostes bélicas!" — B058, p. 70
+> «Conforme o nosso grupo foi crescendo em número de  participantes, acabámos» » … « «por ter que estabelecer um comando de hierarquias.» » […] « «Tínhamos “líderes e soldados” que estavam a  aprontar-se» » … « «para combater Sophia e as suas Hostes bélicas!» — B058 p. 74 · `original.txt` L2696 · reconstrução aprovada pelo Curador na U93; 24 palavras da fonte omitidas — » […] « assinala o fosso, ao passo que » … « assinala apenas quebra de hard-wrap.
 
 ## Ampliação
 ### B058 (A Revolta do Anjo Decaído)

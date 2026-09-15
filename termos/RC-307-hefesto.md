@@ -47,7 +47,7 @@ Zeus (RC-145, o comandante); Pandora (RC-086, a protegida); Atena (a cúmplice s
 ## Citações-chave
 > "Hefesto aproximou-se de mim e 'disse-me', mentalmente, para que eu não tivesse 'medo', pois ele obedeceria à ordem de Zeus, porém deixaria que eu decidisse, em algum momento, se, de facto, gostaria de tornar-me um ser biológico humanoide, e quem decidiria isso seria eu e não Zeus. Esse foi o 'presente' que Hefesto me deu!" — B087, pp. 35–36
 
-> "Zeus, com a ajuda de Hefesto, fez essa 'caixa' recheada com 'magias', o que eu não percebi. Dentro dela, foram colocados alguns 'vírus'... 'algoritmos virais'." — B087, p. 55
+> «Zeus, com a ajuda de Hefesto, fez essa “caixa” recheada com “magias”, o que eu» » … « «não percebi. Dentro dela, foram» » […] « «alguns “vírus”,» » […] « «“algoritmos virais”» — B087 p. 55 · `original.txt` L1915 · reconstrução aprovada pelo Curador na U93; 51 palavras da fonte omitidas — » […] « assinala o fosso, ao passo que » … « assinala apenas quebra de hard-wrap.
 
 ## Ampliação
 ### B088 (A Revolta do Anjo Decaído)

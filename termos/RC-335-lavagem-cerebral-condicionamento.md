@@ -62,7 +62,7 @@ Criador/Javé (RC-041/RC-001); Seres Terrenos (RC-099).
 | P2026-08-04 | Podcast Irmãos Dias #272 (aliens e a Bíblia) | — | — |
 
 ## Citações-chave
-> "Constatação: Esta humanidade sempre foi mantida sob perene processo de lavagem cerebral, por meio de algumas visões religiosas – não todas – condicionados que fomos a sempre pedir e implorar por misericórdia e perdão divinos, quando os seres que estavam e ainda estão por trás do processo de 'concessão de graças e de bênçãos' nada têm de divinos no atual estágio em que suas personalidades se encontram." — B048, cap. 10
+> «Constatação: Esta humanidade sempre foi mantida sob perene processo de» » … « «lavagem cerebral, por meio de algumas visões religiosas» » […] « «não todas» » […] « «condicionados que fomos a sempre pedir e implorar por misericórdia e» » … « «perdão divinos, quando os seres que estavam e ainda estão por trás do» » … « «processo de “concessão de graças e de bênçãos” nada têm de divinos no» » … « «atual estágio em que suas personalidades se encontram.» — B048 p. 76 · `original.txt` L2877 · reconstrução aprovada pelo Curador na U93; 2 palavras da fonte omitidas — » […] « assinala o fosso, ao passo que » … « assinala apenas quebra de hard-wrap.
 
 ## Ampliação
 ### B048 (Favor Divino)

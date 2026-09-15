@@ -58,7 +58,7 @@ Sétimo patriarca bíblico, levado por Javé — na RC, figura-chave da interces
 
 ## Citações-chave
 
-> "Além disso, conviveu e trabalhou com os anjos de Javé... com o Adão bíblico, com Enoque." — P2023-12-02 (sobre Thot)
+> «Além disso, conviveu e trabalhou com os anjos de Javé.» » […] « «com o Adão bíblico. com Enoque,» — P2023-12-02 · `original.txt` L105 · reconstrução aprovada pelo Curador na U93; 7 palavras da fonte omitidas — » […] « assinala o fosso, ao passo que » … « assinala apenas quebra de hard-wrap.
 
 
 > Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.

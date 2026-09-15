@@ -42,7 +42,7 @@ Seres Terrenos (RC-099); Criador (RC-041, origem do DNA doentio).
 | Homo Sapiens: da Guerra ao Esporte (B040) | Introdução e corpo | — | tese central |
 
 ## Citações-chave
-> "o 'código que responde pelo jeito de ser de cada espécie' da Terra, tem o seu genoma derivado da molécula-mãe... o 'porquê dele ter surgido já com essa tendência doentia é aspecto que somente ressalta como os futuros homo sapiens tiveram que evoluir para poder praticar esportes sem matar os 'adversários', antes, durante ou depois da peleja. Eis o tema principal das reflexões presentes neste livro." — B040, Introdução
+> «o "código que responde pelo jeito de» » … « «ser de cada espécie" da Terra, tem o seu genoma derivado da molécula-mãe.» » […] « «O "porquê dele ter surgido já com essa tendência doentia é aspecto que» » … « «somente ressalta como os futuros» » … « «homo sapiens» » … « «tiveram que evoluir para» » … « «poder praticar esportes sem matar os "adversários", antes, durante ou depois» » … « «da peleja. Eis o tema principal das reflexões presentes neste livro.» — B040 p. 11 · `original.txt` L243 · reconstrução aprovada pelo Curador na U93; 22 palavras da fonte omitidas — » […] « assinala o fosso, ao passo que » … « assinala apenas quebra de hard-wrap.
 
 ## Ampliação
 ### B040 (Homo Sapiens: da Guerra ao Esporte)

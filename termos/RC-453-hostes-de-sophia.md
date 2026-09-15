@@ -45,7 +45,7 @@ Sophia (RC-009, o comandante); os Administradores/Assessores; os "anjos assessor
 
 
 ## Citações-chave
-> "Por mais desagradável que seja, preciso informar o leitor que a 'Revolta dos Anjos Decaídos' foi uma rebelião deflagrada há uns 687 mil anos, em Capela, **contra Sophia e as suas hostes**, que resultou na morte de seres de várias espécies desse Sistema Solar e de outros..." — B057, p. 19
+> «Por mais desagradável que seja, preciso informar o leitor que a “Revolta dos Anjos» » … « «Decaídos” foi uma rebelião deflagrada há uns 687 mil anos, em Capela, contra Sophia e» » … « «as suas hostes, que resultou na morte de seres de várias espécies desse» » […] « «Solar e» » … « «de outros,» — B057 p. 19 · `original.txt` L767 · reconstrução aprovada pelo Curador na U93; 2 palavras da fonte omitidas — » […] « assinala o fosso, ao passo que » … « assinala apenas quebra de hard-wrap.
 
 > «Passámos, então, a pensar e a agir» » … « «conforme uma organização que se  assemelha ao que os  humanos da Terra conhecem» » … « «como sendo um “Exército”.  Tínhamos “líderes e soldados” que estavam a  aprontar-se» » … « «para combater Sophia e as suas Hostes bélicas!» — B058 p. 74 · `original.txt` L2698 · reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte.
 

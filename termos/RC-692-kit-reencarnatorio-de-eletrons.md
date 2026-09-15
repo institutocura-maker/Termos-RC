@@ -61,7 +61,7 @@ O termo cria uma ponte entre:
 | P2025-03-15 | U0704–U0723 | palestra/STT — fonte incompleta |
 
 ## Citações-chave
-> “Cada espírito fora desses dois universos usa o mesmo kit de elétrons para sempre imantar-se nos corpos diferentes que aparentemente produz a cada vida.”
+> «cada espírito fora desses dois universos,» » […] « «usa o mesmo kit de elétrons para sempre imantar-se nos corpos diferentes que aparentemente» » […] « «produz a cada vida,» — P2025-03-15 · `original.txt` L50 · reconstrução aprovada pelo Curador na U93; 2 palavras da fonte omitidas — » […] « assinala o fosso, ao passo que » … « assinala apenas quebra de hard-wrap.
 
 ## Ampliação
 ### P2025-03-15

@@ -4107,3 +4107,19 @@ lugar com o seu aviso. Este ficheiro é o *dataset* para a triagem semântica.
 221 em orfanato · A6 ✅ A7 ✅ A8 ✅`
 Falta: aplicar as decisões do `U93-DIFF-CURATORIAL.md` (U94) e, se o Curador
 quiser, ingerir as obras ausentes para recuperar 35 órfãos.
+
+## U94 — A5: aplicação da decisão do Curador (212 instâncias)
+- `uploads_recepcao/U93-U94-id-decisao.txt`: 69 APROVAR_FONTE · 143 MANTER_LEGADO.
+- MANTER_LEGADO = nenhuma acção (despacho): aparelho R1 em texto não-verbatim
+  falsificaria o rastreio; a nota de quarentena da U86 já cobre.
+- Aplicadas: 59 reconstruções em 56 fichas. Fundido II-098+II-099 (RC-747 L43).
+- DOIS MARCADORES: `» … «` = hard-wrap sem omissão · `» […] «` = omissão
+  APROVADA + nota «reconstrução aprovada na U93; N palavras da fonte omitidas».
+- NOVA COMPORTA E (o vão): 9 adiadas (vão 884..26 771 palavras). Causa: obras
+  sem quebra de parágrafo tornam o «parágrafo» o livro inteiro, e o alinhador
+  pesca palavras em qualquer página (cobertura 100% = artefacto). Voltam ao
+  Curador. Corte limpo: entre vão 251 (aplicado) e 884 (adiado) nada há.
+- U87: 29 verbetes reemitidos no mesmo commit, copiando o corpo da ficha com
+  os DOIS marcadores. O reemissor da U92 (` … ` único) apagaria a distinção.
+- Provas: comporta A 293 fragmentos, 0 recusas · T5 649/8 801, 0 falhas ·
+  suíte OK · idempotência nas duas ferramentas.

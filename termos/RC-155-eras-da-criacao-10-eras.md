@@ -75,7 +75,7 @@ Prabrajna/Brahma (RC-152/RC-037); Savna/Shiva (RC-102); Mavatna/Vishnu (RC-135);
 | Painéis Emergentes... (B031) | Cronologia Aproximada | — | apoio (secundária) |
 
 ## Citações-chave
-> "Até este momento, a Criação de Prabrajna – ou Prajapati – pode ser dividida em sete eras, porém ainda são previstas mais três, resultando num total de dez eras universais... Em termos de tempo universal, nós estamos vivendo o final da sétima era." — B024, cap. 16
+> «Até este momento, a Criação de Prabrajna – ou Prajapati – pode ser» » … « «dividida em sete eras, porém ainda são previstas mais três, resultando num» » … « «total de dez eras universais,» » […] « «Em termos de tempo» » … « «universal, nós estamos vivendo o final da sétima era.» — B024 p. 113 · `original.txt` L4732 · reconstrução aprovada pelo Curador na U93; 5 palavras da fonte omitidas — » […] « assinala o fosso, ao passo que » … « assinala apenas quebra de hard-wrap.
 
 ## Ampliação
 ### B024 (A Epopeia dos Agentes da Vida Universal)

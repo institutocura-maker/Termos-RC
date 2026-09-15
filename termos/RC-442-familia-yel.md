@@ -57,7 +57,7 @@ Yel Luzbel (RC-142); Len Mion (RC-074, estirpe rival); Sophia (RC-009, criadora 
 ## Citações-chave
 > "Cada um de nós, da família Yel – uma das espécies do género capelino –, nasceu individualmente, com a sua particularidade e característica. Entretanto, mesmo sendo seres individualizados, éramos ligados uns aos outros por um mecanismo que ficou conhecido como o nosso 'Processador'." — B057, p. 15
 
-> "A nossa família Yel foi urdida há cerca de 492 milhões de anos, e era composta por 5545 seres. Desses, todos mantinham registados em si próprios os genes que nos definiam como família." — B057, p. 15
+> «A nossa família Yel foi urdida há» » […] « «de 492 milhões de anos» » […] « «e era composta» » … « «por 5545 seres. Desses, todos mantinham registados em si próprios os genes que nos» » … « «definiam como família.» — B057 p. 15 · `original.txt` L581 · reconstrução aprovada pelo Curador na U93; 3 palavras da fonte omitidas — » […] « assinala o fosso, ao passo que » … « assinala apenas quebra de hard-wrap.
 
 ## Ampliação
 ### B057 (A Revolta do Anjo Decaído)

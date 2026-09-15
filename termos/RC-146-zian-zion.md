@@ -43,7 +43,7 @@ Olm / Mestre Codificador de Zion (RC-092/RC-252); Sophia (RC-009, com quem o Cod
 | Glossário Mestre (B061) | — | — | mineração (não fonte primária) |
 
 ## Citações-chave
-> "O Mestre Codificador de Zion era responsável por **uma escola no planeta Zion**, para onde convergiam todas as informações coletadas nos diversos campos da pesquisa cósmica. Este ser era muito respeitado e mesmo venerado por todos os capelinos. A escola do planeta Zion foi criada por ele, para os que tivessem condições de aprender a arte da codificação e da decodificação cósmica, com o objetivo de decifrar o grande enigma da existência deste universo e do seu Criador." — B057, nota, p. 30
+> «O Mestre Codificador de Zion era responsável por uma escola no planeta Zion, para onde convergiam todas as» » … « «informações coletadas nos diversos campos da pesquisa cósmica. Este ser era muito respeitado e mesmo venerado por» » … « «todos os capelinos. A escola do» » […] « «Zion foi criada por ele, para os que tivessem condições de aprender a arte da» » … « «codificação e da decodificação cósmica, com o objetivo de decifrar o grande enigma da existência deste universo e do» » … « «seu Criador.» — B057 p. 30 · `original.txt` L1172 · reconstrução aprovada pelo Curador na U93; 2 palavras da fonte omitidas — » […] « assinala o fosso, ao passo que » … « assinala apenas quebra de hard-wrap.
 
 ## Observações
 **Ficha criada no ciclo B057 (Devolutiva O-2, 2026-08-25)** — termo já constava da tabela-mestra (B031/B057/B061 nas fontes) sem ficha física. Grafia absorvida (O-4): B057 escreve **Zion**; a base mantém **Zian (Zion)** como canônico. **Quarentena ufológica (O-7):** cruzar, não materializar como fato. 0 códigos novos (O-3).

@@ -80,7 +80,7 @@ Javé (RC-001); Criador (RC-041); Seres Terrenos (RC-099, "criaturas-ferramentas
 
 
 ## Citações-chave
-> "A 'rebelião dos elétrons' foi e é o único padrão modificador do Código de Vida Pessoal do Criador (ou seja, do CFDP), daí o título do presente livro. A 'rebelião dos elétrons' é a única maneira possível deles ajudarem o Criador 'caído', pois em vez de Javé comandar os elétrons – que são suas partes desagregadas –, eles atuarão sobre ele, só que comandados pelas mentes das 'criaturas-ferramentas' geradas para esse fim." — B041, cap. 22
+> «à “rebelião» » … « «dos elétrons”» » […] « «foi e é o único» » … « «padrão» » … « «modificador do Código de Vida Pessoal do Criador (ou seja, do CFDP)» » […] « «daí o título do presente livro.» » … « «A “rebelião dos elétrons” é a única maneira possível deles ajudarem o» » … « «Criador “caído”, pois em vez de Javé comandar os elétrons – que são suas» » … « «partes desagregadas –, eles atuarão sobre ele, só que comandados pelas» » … « «mentes das “criaturas-ferramentas” geradas para esse fim.» — B041 p. 156 · `original.txt` L6395 · reconstrução aprovada pelo Curador na U93; 93 palavras da fonte omitidas — » […] « assinala o fosso, ao passo que » … « assinala apenas quebra de hard-wrap.
 
 ## Ampliação
 ### P2025-03-15

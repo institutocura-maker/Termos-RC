@@ -58,7 +58,7 @@ Sophia (RC-009, "Pai dos Capelinos" e Comandante); Yel Luzbel (RC-078); Len Mion
 ## Citações-chave
 > «Alfa Aurigae ou Capela é, na verdade um arranjo de quatro estrelas – duas gigantes amarelas e duas anãs vermelhas –,» » … « «e pertence à constelação de Auriga ou constelação do Cocheiro.» — B057 p. 10 · `original.txt` L414 · reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte.
 
-> "Capelino é a designação dada aos seres extraterrestres, de vários tipos, **oriundos do sistema de Capela**. Eles possuem corpos de vida longa, mas sujeitos a fenecer, e podem, por meio de naves espaciais, viajar pela galáxia... (Fonte: Trilogia 'Terra Atlantis', de Jan Val Ellam)." — B057, nota, p. 14
+> «Capelino é a designação dada aos seres extraterrestres, de vários tipos, oriundos do sistema de Capela. Eles possuem» » … « «corpos de vida longa, mas sujeitos a fenecer, e podem, por meio de naves espaciais, viajar pela galáxia,» » […] « «(Fonte: Trilogia» » … « «“Terra Atlantis”, de Jan Val Ellam).» — B057 p. 14 · `original.txt` L562 · reconstrução aprovada pelo Curador na U93; 18 palavras da fonte omitidas — » […] « assinala o fosso, ao passo que » … « assinala apenas quebra de hard-wrap.
 
 ## Ampliação
 ### B058 (A Revolta do Anjo Decaído)

@@ -33,7 +33,7 @@ Isaac Luria (séc. XVI, Safed) — cabalista que sistematizou o conceito do Tzim
 
 ## Citações-chave
 
-> Com a melhor das intenções criaram 100 interpretações e passaram a chamar isso de árvore da vida.
+> «com a melhor das intenções criaram 100 interpretações e passaram a chamar isso» » […] « «de árvore da vida.» — P2025-05-31 · `original.txt` L103 · reconstrução aprovada pelo Curador na U93; 1 palavra da fonte omitida — » […] « assinala o fosso, ao passo que » … « assinala apenas quebra de hard-wrap.
 
 ## Ampliação
 ### P2025-05-31

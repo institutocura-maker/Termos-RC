@@ -55,7 +55,7 @@ Aparece em **P2025-04-06**, U0004. O autor foi levado em espírito a uma "loca d
 
 > «uma dessas locas seria locas de centauros [...] hoje estão nascendo como humanos [...] E se isso explodir, o ser humano vai se sentir aquilo que o espírito foi lá atrás.» — P2025-04-06, U0004
 
-> «Kiron, num famoso centauro que era esse, sim, ele conseguiu deixar de ser demente, ainda que fosse um pouco retardado no sentido de ingenuidade. Kiron se transformou num gênio filósofo.» — P2025-04-06, U0004
+> «Kiron, num famoso centauro que era esse, sim, ele conseguiu deixar de ser demente, ainda que fosse um pouco retardado no sentido de ingenuidade. Kiron se transformou» » […] « «num gênio filósofo.» — P2025-04-06 · `original.txt` L5 · reconstrução aprovada pelo Curador na U93; 1 palavra da fonte omitida — » […] « assinala o fosso, ao passo que » … « assinala apenas quebra de hard-wrap.
 
 ## Observações
 - **Quarentena ufológica FORTE**: o autor afirma que centauros são **seres reais** que hoje nascem como humanos — **NÃO FUSIONAR com ufológicos modernos** (greys, reptilianos, etc.). A leitura é especificamente sobre "centauros" como categoria de híbrido metade-animal/metade-humano.

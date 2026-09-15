@@ -40,7 +40,7 @@ Conceito ético-evolutivo interno da Revelação Cósmica: um **genótipo** (na 
 
 ## Citações-chave
 
-> "Eu criei para mim mesmo um novo tipo de genótipo chamado vergonha de existir... E esse é o pior presente que eu deixo pro espírito que me anima."
+> «eu criei para mim mesmo um novo tipo de genótipo chamado vergonha de existir.» » […] « «eu criei para mim mesmo um novo tipo de genótipo chamado vergonha de existir.» » […] « «E esse é o pior presente que eu deixo pro espírito que me anima.» » […] « «E esse é o pior presente que eu deixo pro espírito que me anima.» — P2024-03-03 · `original.txt` L60 · reconstrução aprovada pelo Curador na U93; 46 palavras da fonte omitidas — » […] « assinala o fosso, ao passo que » … « assinala apenas quebra de hard-wrap.
 
 > "Eu criei para mim mesmo um novo tipo de genótipo chamado vergonha de existir... Eu fiz isso para provocar o meu espírito. E a partir de agora todo eu que ele produzir virá com essa vergonha de existir, que é a única forma de causar incômodo nele."" — P2024-03-03
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** os 2 trechos entre aspas desta ficha **não** resistem à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Todos deixam vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

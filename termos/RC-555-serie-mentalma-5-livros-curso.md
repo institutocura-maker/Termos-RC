@@ -54,7 +54,7 @@ Jan Val Ellam (RC-071, criador e formulador da série e do curso).
 
 
 ## Citações-chave
-> "Esse meu aprendizado está sistematizado em **sete partes**, descritas na série de livros mostrada a seguir, sendo que, até o momento, **estão publicados os dois primeiros**: Mentalma I... Mentalma II... Mentalma III – Autoconhecimento e Emancipação; Mentalma IV – Consciência Pessoal e Soberania Espiritual; Mentalma V – Autorrealização; Mentalma VI – Qualia e o Laboratório Mental; Mentalma VII – O Eu como Computador Quântico." — B075, p. 7
+> «Esse meu aprendizado está sistematizado em sete partes, descritas na série» » … « «de livros mostrada a seguir, sendo que, até o momento, estão publicados os» » … « «dois primeiros:» » … « «Mentalma I» » […] « «Mentalma II» » […] « «Mentalma III – Autoconhecimento e Emancipação» » … « «Mentalma IV – Consciência Pessoal e Soberania Espiritual» » … « «“Mentalma V – Autorrealização» » … « «Mentalma VI – Qualia e o Laboratório Mental» » … « «Mentalma VII – O Eu como Computador Quântico» — B075 p. 7 · `original.txt` L186 · reconstrução aprovada pelo Curador na U93; 16 palavras da fonte omitidas — » […] « assinala o fosso, ao passo que » … « assinala apenas quebra de hard-wrap.
 
 > «Quando criei o Mentalma, cheguei perto da busca por vinte maestrias» » … « «pessoais que desejei praticar nesta vida, e assim sigo fazendo. Elas estão» » … « «distribuídas pelos sete módulos do Mentalma.» — B075 p. 185 · `original.txt` L7606 · reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte.
 

@@ -54,7 +54,7 @@ Trimurti (RC-104); Senhores do Dharma (RC-320); Seres Terrenos (RC-099).
 
 
 ## Citações-chave
-> "O sistema de castas surgiu pela primeira vez, na Terra, em dois focos de aglomerados não humanos: um situado entre os povos hiperbóreos, no Norte, e um outro da tradição Kumari Kandan, no sul da Índia, em terras que, naqueles tempos (cerca de 20 mil anos atrás), ligavam o sul do continente indiano com a atual ilha do Sri Lanka." — B023, cap. 4
+> «o» » … « «sistema de castas surgiu pela» » … « «primeira vez, na Terra, em dois focos de aglomerados não humanos» » […] « «um» » … « «situado entre os povos hiperbóreos, no Norte, e um outro da tradição Kumari» » … « «Kandan, no sul da Índia, em terras que, naqueles tempos (cerca de 20 mil» » … « «anos atrás), ligavam o sul do continente indiano com a atual ilha do Sri» » … « «Lanka,» — B023 p. 43 · `original.txt` L1884 · reconstrução aprovada pelo Curador na U93; 1 palavra da fonte omitida — » […] « assinala o fosso, ao passo que » … « assinala apenas quebra de hard-wrap.
 
 ## Ampliação
 ### B023 (O Dharma e as Castas Hindus)

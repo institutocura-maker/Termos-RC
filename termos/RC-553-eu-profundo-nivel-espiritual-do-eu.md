@@ -56,7 +56,7 @@ Espírito encarnado; os níveis do "Eu" da "Consciência Particularizada"; Jan V
 ## Citações-chave
 > "Existem vários níveis de 'Consciência' ou de 'Eus Mais Profundos'. Quando o 'Eu transitório' morre, o ser se manifesta no seu 'Eu Espiritual', porém, se nos aprofundarmos cada vez mais, há também o 'Eu Superior', o 'Eu Profundo', e o 'Eu Sagrado'." — B074, p. 140
 
-> "Quando, por trás da personalidade humana, a 'Vontade do Eu Profundo' — que é quem responde pela administração dos impulsos anteriores ao pensamento — se encontra desperta, o 'ego terreno' estará alinhado com os propósitos enraizados nos seus sonhos mais relevantes." — B074, p. 44
+> «Quando, por trás da personalidade humana, a “Vontade do Eu Profundo”» » […] « «que é quem responde pela administração dos impulsos anteriores ao» » … « «pensamento» » […] « «se encontra desperta, o “ego terreno” estará alinhado com os» » … « «propósitos enraizados nos seus sonhos mais relevantes.» — B074 p. 44 · `original.txt` L1707 · reconstrução aprovada pelo Curador na U93; 2 palavras da fonte omitidas — » […] « assinala o fosso, ao passo que » … « assinala apenas quebra de hard-wrap.
 
 ## Ampliação
 ### B075 (Mentalma II)

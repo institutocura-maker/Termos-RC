@@ -46,7 +46,7 @@ Na leitura de Jan Val Ellam (P2024-02-03), o **Jainismo é a religião mais anti
 
 ## Citações-chave
 
-> "Se alguém perguntar qual a religião mais antiga da Terra, quem entende de assunto religioso vai dizer: é o jainismo. Não tem outra. Isso aqui é a coisa mais antiga da Terra. Só que o jainismo antes se chamava druidismo." — P2024-02-03
+> «Se alguém perguntar qual» » […] « «a religião mais antiga da Terra. Quem entende de assunto religioso vai dizer: "É o jainismo". Não tem outra. Isso aqui é a coisa mais antiga da Terra. Só que o jainismo antes se chamava druidismo.» — P2024-02-03 · `original.txt` L90 · reconstrução aprovada pelo Curador na U93; 2 palavras da fonte omitidas — » […] « assinala o fosso, ao passo que » … « assinala apenas quebra de hard-wrap.
 
 *Ocorrência referenciada apenas estruturalmente (índices/listas) nas obras-fonte processadas até o momento. Aguardando processamento de prosa descritiva.*
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

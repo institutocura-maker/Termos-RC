@@ -45,7 +45,7 @@ Yel Luzbel (RC-078/RC-142, o inaugurador); os "Rebelados de Capela"; Len Mion (R
 | A Revolta do Anjo Decaído (B057) | Cap. 1 | p. 19 (PDF): os "lacres mentais" abertos | narrativa psicografada |
 
 ## Citações-chave
-> "Foi, então, que os lacres que marcavam o psiquismo coletivo desses seres passaram a ser rompidos, dando lugar a um senso de individualidade inquietante jamais intentado... depois de um certo **deslacre**, passaram a assinalar as mentes dos considerados Rebelados de Capela." — B058, SINTESE, p. 1
+> «Foi, então, que os lacres que marcavam o psiquismo» » … « «coletivo desses seres passaram a ser rompidos, dando» » … « «lugar a um senso de individualidade inquietante jamais» » … « «intentado,» » […] « «depois de um certo deslacre, passaram a assinalar as» » … « «mentes dos considerados Rebelados de Capela.» — B058 p. 1 · `original.txt` L36 · reconstrução aprovada pelo Curador na U93; 55 palavras da fonte omitidas — » […] « assinala o fosso, ao passo que » … « assinala apenas quebra de hard-wrap.
 
 > "o nosso 'bloqueio mental' relativo ao meu modo de proceder se havia 'rompido', e pude perceber 'falhas' na realidade." — B058, p. 43
 

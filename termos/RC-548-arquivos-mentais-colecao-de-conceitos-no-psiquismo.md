@@ -54,7 +54,7 @@ Espírito encarnado (colecionador dos arquivos); Jan Val Ellam (criador do méto
 | P2024-02-03 | O Jainismo e o Druidismo Ancestrais (palestra) | — | — |
 
 ## Citações-chave
-> "A 'guarda' e/ou 'hospedagem' de conceitos, opiniões e impressões sob a configuração de 'arquivos mentais', 'colecionados' pelo psiquismo humano, tanto no seu cérebro animal como na Mente Espiritual, foi e é a base do conjunto de práticas... que passaram a compor o Mentalma." — B074, p. 26
+> «A “guarda” e/ou “hospedagem” de conceitos, opiniões e impressões sob a» » … « «configuração de “arquivos mentais”, “colecionados” pelo psiquismo humano,» » … « «tanto no seu cérebro animal como na Mente Espiritual, foi e é a base do» » … « «conjunto de práticas» » […] « «que passaram a compor o Mentalma,» — B074 p. 26 · `original.txt` L931 · reconstrução aprovada pelo Curador na U93; 3 palavras da fonte omitidas — » […] « assinala o fosso, ao passo que » … « assinala apenas quebra de hard-wrap.
 
 > "O 'circuito do CHA' define os arquivos que uma pessoa 'coleciona' e o uso que ela faz deles." — B074, p. 46
 

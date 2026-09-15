@@ -42,7 +42,7 @@ Javé (RC-001); Zont En Drel 29 (RC-147); Comandante En Drel 1; Criador (RC-041)
 | Painéis Emergentes (B031) | Glossário (En Drel) | — | apoio (secundária) |
 
 ## Citações-chave
-> "Na verdade, fomos forjados um pouco antes da grande conflagração que terminou por diminuir o poder criador do nosso comandante supremo... Da primeira geração foram, portanto, dez os seres primordiais que sobraram e eis que eles existem até esses tempos atuais... Dos dez sagrados, um deles foi o mentor dos En Drel." — B015, cap. 4
+> «Na verdade, fomos forjados um pouco antes da grande conflagração» » … « «que terminou por diminuir o poder criador do nosso comandante supremo,» » […] « «Da primeira geração foram, portanto, dez os seres primordiais que» » … « «sobraram e eis que eles existem até esses tempos atuais,» » […] « «Dos dez sagrados, um deles foi o mentor dos En Drel.» — B015 p. 20 · `original.txt` L632 · reconstrução aprovada pelo Curador na U93; 154 palavras da fonte omitidas — » […] « assinala o fosso, ao passo que » … « assinala apenas quebra de hard-wrap.
 
 ## Observações
 Ficha baseada em B015 (obra primária) + B031. A leitura de B015 é essencial para a compreensão da classe En Drel — sua "robotização", o despertar de Zont e a humanização emocional.

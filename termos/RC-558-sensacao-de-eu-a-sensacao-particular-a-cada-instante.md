@@ -45,7 +45,7 @@ Definição central da palestra: 'a sensação particular que você sente a cada
 | P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |
 ## Citações-chave
 
-> "Vocês sabem qual é a única definição aceitável para o sentido do eu de cada um de nós? Anotem na mente de vocês: é a sensação particular que você sente a cada instante."
+> «Vocês sabem qual é a única definição aceitável para o sentido do eu de cada um de nós? Anotem na» » […] « «mente de vocês. É a sensação particular que você sente a cada instante.» — P2024-02-25 · `original.txt` L5 · reconstrução aprovada pelo Curador na U93; 1 palavra da fonte omitida — » […] « assinala o fosso, ao passo que » … « assinala apenas quebra de hard-wrap.
 
 
 > Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.

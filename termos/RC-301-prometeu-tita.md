@@ -60,7 +60,7 @@ Epimeteu (RC-302, o irmão); Pandora (RC-086, a discípula); Zeus (RC-145); Aten
 
 
 ## Citações-chave
-> "Observe, Pandora, que em cima dos ombros dessa espécie tão grotesca perduram várias possibilidades de 'marco evolutivo' nunca antes visto, ou sequer pretendido para criaturas tão frágeis e primitivas como essas que aí vemos." — B087, p. 58
+> «Observe, Pandora, que em cima dos ombros dessa espécie tão grotesca» » … « «perduram várias possibilidades de “marco evolutivo” nunca antes visto, ou sequer» » … « «pretendido para criaturas tão frágeis e» » […] « «como essas que aí vemos.» — B087 p. 58 · `original.txt` L2035 · reconstrução aprovada pelo Curador na U93; 2 palavras da fonte omitidas — » […] « assinala o fosso, ao passo que » … « assinala apenas quebra de hard-wrap.
 
 > "O que está por ocorrer, nem você nem ninguém pode impedir. Eu aceito porque não há o que se possa fazer para evitar o que virá a acontecer. Somente quero que você proteja o meu irmão e leve adiante o nosso planeamento em desenvolver o cérebro das 'criaturas de duas pernas'..." — B087, p. 53
 

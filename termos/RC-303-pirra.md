@@ -47,7 +47,7 @@ Pandora (RC-086) e Epimeteu (RC-302, os criadores); Prometeu (RC-301, o "tio"); 
 ## Citações-chave
 > «O seu nome é Pirra, que significa aquela cheia de sabedoria, de justiça e amor.» » … « «Você nasceu através de nós. Somos Epimeteu, da linhagem dos titãs, e Pandora, que» » … « «antes foi filha de Zeus e, agora, é um ser biológico humanoide. Você foi urdida para» » … « «manter a minha linhagem mais um tempo sobre a Terra.» — B087 p. 72 · `original.txt` L2529 · reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte.
 
-> "— Recebo-o como o meu criador, acima de tudo, e o aceito como meu pai, cuidador e protetor. Você tem aqui uma filha. Ensina-me tudo que sabe e eu darei seguimento à linhagem de seres à qual você pertence." — B087, p. 73
+> «— Recebo-o como o meu criador, acima de tudo, e o aceito como meu pai,» » … « «cuidador e protetor. Você tem aqui uma filha.» » […] « «tudo que sabe e eu  darei» » … « «seguimento à linhagem de seres à qual você pertence.» — B087 p. 73 · `original.txt` L2547 · reconstrução aprovada pelo Curador na U93; 2 palavras da fonte omitidas — » […] « assinala o fosso, ao passo que » … « assinala apenas quebra de hard-wrap.
 
 ## Ampliação
 ### B088 (A Revolta do Anjo Decaído)

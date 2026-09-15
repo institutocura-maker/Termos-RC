@@ -49,7 +49,7 @@ Brahma (RC-037); Vishnu (RC-135); Shiva (RC-102).
 
 
 ## Citações-chave
-> "Desde que me defrontei com os intrigantes aspectos vindos da minha não menos enigmática convivência com seres que se apresentavam como 'Senhores do Dharma' – os mesmos autoaclamados 'Senhores da Lila', da Trimurti hindu – comecei a, indubitavelmente, desconfiar de uma coisa." — B023, cap. 2
+> «Desde que me defrontei com os intrigantes aspectos vindos da minha não» » … « «menos enigmática convivência com seres que se apresentavam como» » … « «“Senhores do» » … « «Dharma» » […] « «– os mesmos autoaclamados “Senhores da» » … « «Lila» » […] « «da» » … « «Trimurti» » … « «hindu – comecei a, indubitavelmente, desconfiar de uma coisa:» — B023 p. 15 · `original.txt` L555 · reconstrução aprovada pelo Curador na U93; 2 palavras da fonte omitidas — » […] « assinala o fosso, ao passo que » … « assinala apenas quebra de hard-wrap.
 
 ## Ampliação
 ### B023 (O Dharma e as Castas Hindus)

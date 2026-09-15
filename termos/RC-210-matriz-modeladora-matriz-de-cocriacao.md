@@ -45,7 +45,7 @@ Deidade (RC-047); Divindades Excelsas (RC-206).
 | O Drama Cósmico de Javé (B001) | caps. 2, 4 | pp. 23–24, 57 (aprox.) | conceito central |
 
 ## Citações-chave
-> "O modelo então criado por sua habilidade mental não conseguiu estabelecer ponte de ressonância com a já referida Fonte Primordial Formadora do Todo ou Matriz Modeladora Eterna, de cujo concurso tudo depende. Como também já afirmado, sem o concurso dessa Matriz Modeladora Eterna, nada, absolutamente nada de material – seja em que nível de materialidade for – consegue tomar forma e existir transitoriamente." — B001, cap. 2
+> «O modelo então criado por sua» » … « «habilidade mental não conseguiu estabelecer ponte de ressonância com a» » … « «já referida Fonte Primordial Formadora do» » […] « «ou Matriz Modeladora» » … « «Eterna, de cujo concurso tudo depende. Como também já afirmado, sem o» » … « «concurso dessa Matriz Modeladora Eterna, nada, absolutamente nada de» » … « «material – seja em que nível de materialidade for – consegue tomar forma e» » … « «existir transitoriamente.» — B001 p. 23 · `original.txt` L670 · reconstrução aprovada pelo Curador na U93; 2 palavras da fonte omitidas — » […] « assinala o fosso, ao passo que » … « assinala apenas quebra de hard-wrap.
 
 ## Ampliação
 ### B001 (O Drama Cósmico de Javé)

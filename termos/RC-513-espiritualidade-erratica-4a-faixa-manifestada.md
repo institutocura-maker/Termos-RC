@@ -55,7 +55,7 @@ Na cosmologia de Ellam, a faixa espiritual intermediária que envolve a Terra �
 
 
 ## Citações-chave
-> "Não é porque tem autoridade autocrática... é porque é assim que as coisas são no mundo espiritual. Por isso que não é permitida a democracia."
+> «não é porque tem autoridade autocrática,» » […] « «é porque é assim que as coisas são no mundo espiritual. Por» » […] « «isso que não é» » […] « «a democracia» — P2024-07-14 · `original.txt` L99 · reconstrução aprovada pelo Curador na U93; 7 palavras da fonte omitidas — » […] « assinala o fosso, ao passo que » … « assinala apenas quebra de hard-wrap.
 
 
 > Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.

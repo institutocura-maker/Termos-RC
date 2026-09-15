@@ -45,7 +45,7 @@ Na leitura de Jan Val Ellam, um genótipo (GG) associado à gentileza, que teria
 
 ## Citações-chave
 
-> "Alguém teve a ideia de ser gentil. E esse alguém que teve a ideia de ser gentil marcou no genoma dele a mutação... E é assim que um novo genótipo é introduzido no genoma humano."
+> «Alguém teve a ideia de ser gentil. E esse alguém que teve a ideia de ser gentil marcou no» » […] « «genoma dele, a mutação,» » […] « «E é assim que um novo genótipo é introduzido no genoma humano.» — P2024-03-03 · `original.txt` L61 · reconstrução aprovada pelo Curador na U93; 37 palavras da fonte omitidas — » […] « assinala o fosso, ao passo que » … « assinala apenas quebra de hard-wrap.
 
 ## Ampliação
 ### P2026-07-25

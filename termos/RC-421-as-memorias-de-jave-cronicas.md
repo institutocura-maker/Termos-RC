@@ -44,7 +44,7 @@ Javé (RC-001); Jan Val Ellam (RC-071); Mônica Camargo (RC-420, contexto).
 | As Memórias de Javé (B036) | Introdução; Crônicas I–XIII | — | obra integral |
 
 ## Citações-chave
-> "Desde que cedi aos fatos tentando ser honesto comigo mesmo, resolvi, pelo menos, 'escutar' o que aquele Ser... agora me solicita, pois que, antes, tão somente ordenava... restou o seu pedido para que eu lhe ofereça o concurso pessoal a fim de que as 'suas comunicações', para as suas criaturas terráqueas, pudessem ser veiculadas." — B036, Introdução
+> «Desde que cedi aos fatos tentando ser honesto comigo mesmo, resolvi, pelo» » … « «menos, “escutar” o que aquele Ser» » […] « «agora me solicita, pois que, antes, tão somente ordenava,» » […] « «restou o» » … « «seu pedido para que eu lhe ofereça o concurso pessoal a fim de que as “suas» » … « «comunicações”, para as suas criaturas terráqueas, pudessem ser veiculadas.» — B036 p. 4 · `original.txt` L50 · reconstrução aprovada pelo Curador na U93; 25 palavras da fonte omitidas — » […] « assinala o fosso, ao passo que » … « assinala apenas quebra de hard-wrap.
 
 ## Ampliação
 ### B036 (As Memórias de Javé)

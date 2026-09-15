@@ -54,7 +54,7 @@ Aparece em **P2019-05-11**, U0005 (Q&A), em resposta à pergunta sobre "seres de
 ## Citações-chave
 > «na especiação da espécie humana, que vai começar a ocorrer agora, a genética que vai não é a melhor, é a que puder ir. Então, talvez se espere uma, duas, três levas de padrão genético para outros mundos» — P2019-05-11 · `original.txt` L68 · reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte.
 
-> «Esse mundo aqui ele vai ser capaz de produzir de informações complexas no campo da razão filosófica, da razão emocional, do amor, que as 900 milhões de civilizações do cosmos não conseguem produzir. Essa raça aqui vai ser a raça raiz pra nova mente espiritual, para as novas marcações no elétron.» — P2019-05-11, U0005
+> «esse mundo aqui ele vai ser capaz de produzir de informações complexas no campo da razão filosófica, da razão emocional, do amor, que as 900 milhões de civilizações do cosmos não conseguem produzir. Essa raça aqui vai ser a raça raiz pra nova mente espiritual,» » […] « «novas marcações no elétron.» — P2019-05-11 · `original.txt` L68 · reconstrução aprovada pelo Curador na U93; 1 palavra da fonte omitida — » […] « assinala o fosso, ao passo que » … « assinala apenas quebra de hard-wrap.
 
 ## Ampliação
 ### P2022-12-03 (O Ocaso do Criador e a Rebelião dos Elétrons)

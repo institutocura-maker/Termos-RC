@@ -84,7 +84,7 @@ Pandora (RC-086, a criatura libertada); Prometeu e Epimeteu (RC-301/302, os adve
 ## Citações-chave
 > «Ele se» » … « «julgava importante o suficiente para se autoproclamar como o “Senhor de Todos os Seres» » … « «Viventes” ou o “Senhor de Toda a Criação”, e assim, de título em título, a sua soberba» » … « «não tinha fim. Era tremenda a pretensão desse deus!» — B087 p. 20 · `original.txt` L702 · reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte.
 
-> "Quero que cada um de vocês escolha um 'dom funesto', que será inserido na 'porção' deste meu filho. Exijo que cada um de vocês 'manipule' e altere a composição e a forma corporal dele, transformando-o num corpo com aparência feminina..." — B087, p. 33 (a ordem na Assembleia)
+> «Quero que cada um de vocês escolha um “dom funesto”, que será  inserido na» » … « «“porção” deste meu filho. Exijo que cada um de vocês “manipule” e altere a composição» » … « «e a forma corporal dele,» » […] « «num corpo com  aparência feminina,» — B087 p. 33 · `original.txt` L1182 · reconstrução aprovada pelo Curador na U93; 2 palavras da fonte omitidas — » […] « assinala o fosso, ao passo que » … « assinala apenas quebra de hard-wrap.
 
 ## Ampliação
 ### B088 (A Revolta do Anjo Decaído)
