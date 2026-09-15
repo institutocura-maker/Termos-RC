@@ -3455,3 +3455,45 @@ com o frontmatter de todas em sincronia — sem falsa declaração em jogo.
 Certidão: `diagnostico/CERTIDAO-U80-ENCERRAMENTO-FRENTE2-2026-09-14.md`
 
 **Frentes: 1 ✅ · 1.5 ✅ · 2 ✅ · 3 ⏳**
+
+
+## U81 — Encerramento · FRENTE 3: CERTIDÃO FINAL DA CAMPANHA R1
+
+Despacho: Frente 2 aprovada com louvor máximo; Frente 3 autorizada — selar o fim
+da fase ativa da família B v3 e mapear as arestas pendentes de infraestrutura
+(lotes U42/U44 e unificação de layouts) como requisitos para o futuro.
+
+⚠️ **5.ª REGRESSÃO DO GIT, contida pelo duplo cinturão (U48, U61, U67, U79, U81).**
+HEAD voltou ao commit BASE (0a640cf) contra o remoto em 3ce9e07, 245 pendentes.
+**Abortado antes de qualquer escrita.** Disco medido e íntegro: 946 termos ·
+1 887 relações · 820 fichas · cadastro no ponto U80 (RC-347 → ['B026']) ·
+certidão U80 presente · rastro presente. O SESSION-NOTES reapareceu TROCADO pelo
+de outra branch (mesmo modo de falha da U79). Salvaguarda de 4 679 ficheiros,
+`reset --mixed FETCH_HEAD` (nunca --hard), `git checkout HEAD -- SESSION-NOTES`.
+Estado reposto: HEAD == remoto, 0 pendentes, 820 fichas.
+
+**O SELO — Portão B provado na ÍNTEGRA, não por amostra.** Todas as citações de
+todas as 820 fichas reextraídas e confrontadas com a LINHA DECLARADA do
+`original.txt`: **778/778 conferem byte a byte · 0 em linha diversa · 0 falhas**
+(147 fichas, 38 obras). Prova independente: **32/34 lotes idempotentes** ao
+reexecutar com --sobrescrever numa CÓPIA (todas as fichas «idêntico»).
+
+**Corpus legado medido com a mesma régua** (154 blocos `> «…»` sem aparelho R1,
+janelas de 6 palavras sobre o corpus inteiro): 139 localizáveis · **15 não
+localizáveis** em 11 fichas (RC-778/779/834/835/862/887/942–946 — séries
+P2023-12-25-0N e P2018-10-06; as fontes TÊM texto, falta o trecho: transcrições
+parciais) · 1 localizável FORA das fontes declaradas.
+
+**Mapa formal das arestas (A1–A7):** A1 LOTE1 sem `aplicar_V` (8 fichas, hoje
+todas «verificado») · A2 LOTE2 sem `fam` (8 fichas) — reparo no JSON, nunca no
+driver; 123 fichas plenamente regeneráveis · A3 8 fichas com citações sem lote
+(29 citações) · A4 471 layouts (144 canónicos) · A5 15 citações por reancorar ·
+A6 1 atribuição por corrigir · A7 RC-296 congelada, RC-118 sem lote, B049 com
+espaços intra-palavra pendentes, censo v3 só guarda 3 blocos/código.
+
+**Invariantes:** suíte 21/21 · T13 820 · T14 0 · T15 820/0 · verificador
+946/820/1887 · 820/820 frontmatter · 10/10 rastro.
+
+Certidão: `diagnostico/CERTIDAO-U81-ENCERRAMENTO-FRENTE3-2026-09-14.md`
+
+**Frentes: 1 ✅ · 1.5 ✅ · 2 ✅ · 3 ✅ — CAMPANHA R1 SELADA**
