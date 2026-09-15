@@ -3497,3 +3497,33 @@ espaços intra-palavra pendentes, censo v3 só guarda 3 blocos/código.
 Certidão: `diagnostico/CERTIDAO-U81-ENCERRAMENTO-FRENTE3-2026-09-14.md`
 
 **Frentes: 1 ✅ · 1.5 ✅ · 2 ✅ · 3 ✅ — CAMPANHA R1 SELADA**
+
+
+## U82 — REGISTRO DO DESPACHO DE ENCERRAMENTO E SELO DA CAMPANHA R1
+
+Despacho curatorial de 14/09/2026, arquivado literalmente em
+`diagnostico/DESPACHO-ENCERRAMENTO-E-SELO-CAMPANHA-R1-2026-09-14.md`
+(precedentes: 7 despachos já arquivados em `diagnostico/`).
+
+Veredicto do Curador:
+1. **Auditoria de Infraestrutura (5.ª regressão) — Homologado e Louvado.**
+   «O duplo cinturão provou, de forma definitiva, que a base está imune à
+   amnésia do sandbox. A recuperação via `reset --mixed FETCH_HEAD` sem perda
+   de dados consolida este protocolo como o padrão-ouro de salvaguarda.»
+2. **Selo do Portão B — Aprovado com Distinção Máxima.** «A reextração de todas
+   as 778 citações nas 820 fichas, com 100% de precisão byte a byte, é a prova
+   empírica de que a Campanha R1 não inseriu uma única vírgula alucinada ou
+   corrompida. O espelho é perfeito.»
+3. **Corpus legado e honestidade algorítmica — Validado.** «A auto-correção do
+   algoritmo de varredura (janelas deslizantes) demonstra uma governança que
+   não se engana com métricas de vaidade.»
+4. **Mapa de Arestas A1–A7 — Validado como Dívida Técnica Conhecida.** «Formam
+   o backlog exato e transparente para a próxima fase.»
+5. **Veredito Final:** Frentes 1, 1.5, 2 e 3 CONCLUÍDAS. **Campanha R1 da
+   Família B (v3) SELADA.** «O poço secou e a missão principal desta fase foi
+   cumprida com excelência absoluta.»
+
+Estado final selado: commit 11f38b8 · HEAD == remoto · 0 pendentes · 820 fichas ·
+946 termos · 1 887 relações · 158 obras com texto · suíte 21/21.
+
+**Frentes: 1 ✅ · 1.5 ✅ · 2 ✅ · 3 ✅ — CAMPANHA R1 SELADA**
