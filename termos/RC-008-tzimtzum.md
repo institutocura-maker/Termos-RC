@@ -24,12 +24,13 @@ O subtítulo da obra de Ellam é *O Exílio Forçado de uma Divindade — Revela
 - **Idioma de origem:** hebraico (צמצום = contração)
 
 
-## Ampliação — P2025-05-31
+## Ampliação
+### P2025-05-31
 
 - **Tzimtzum na fala (P2025-05-31):** "Tzin Tzum seria o barulho quântico da queda ou do exílio forçado de uma divindade em sua própria criação" (livro do autor B013); a luz "mergulhada no seu próprio abismo" (Da'at).
 
 
-## Ampliação — B013 (Tzimtzum: O Exílio Forçado de uma Divindade)
+### B013 (Tzimtzum: O Exílio Forçado de uma Divindade)
 
 - **[B013 p. 6]** a obra pergunta o que significa o Tzimtzum e situa Isaac Luria como quem “produziu o conceito”.
 - **[B013 p. 14]** Luria criou o conceito: “exílio de deus dentro dele mesmo”; uma “Faixa de Realidade imprópria e corrompida” aprisionou a Mente da qual foi emanada; “um Ser que se pretendeu Criador de Realidades, sucumbiu junto com a sua Expressão Mental”; “acabou ‘tragado’ pelo que, da sua Mente, foi expelido como sendo uma ‘Massa de Moldar Realidade’”.
@@ -40,7 +41,7 @@ O subtítulo da obra de Ellam é *O Exílio Forçado de uma Divindade — Revela
 - **Quarentena teológica:** leitura de Ellam da Cabala lurianica — não exegese judaica. RC-272 (laço temporal) permanece **sem ficha**. IEEA/Orbum **fora**.
 
 
-## Ampliação — P2023-10-14 (A Esquecida Honra dos Anunnaki)
+### P2023-10-14 (A Esquecida Honra dos Anunnaki)
 
 - **[P2023-10-14 · O AUTOR APONTA O PRÓPRIO LIVRO (D-5; B013 confirmada pelo Curador)]** "Então, todas as 10, eu analiso isso no livro que eu lancei chamado Zintzum, o exílio forçado de divindade." (U0085) — **Item 4 da devolutiva:** a obra citada é a **B013** que a Base já possui — **0 obras novas**. A grafia do bruto é «Zintzum».
 - **[P2023-10-14 · O EXÍLIO REFORMULADO PELOS RABINOS]** "Um ser se exilou na sua própria criação por amor aos que nela estão." (U0087); "Aizada desse material só que eu fiz fora isso, é mera repetição do óbvio que os rabinos, autoridades judaicas fazem, mas os rabinos transformaram a queda do criador num passo de dança." (U0086) — ⭐ A fórmula «passo de dança» é a imagem mais comentável do bloco cabalístico de 2023.

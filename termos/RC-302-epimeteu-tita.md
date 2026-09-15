@@ -25,7 +25,8 @@ Titã irmão de Prometeu que, na cosmologia de Jan Val Ellam, teria sido o grand
 - **[P2024-08-03] Unidades:** U1480–U1525; U1662.
 - **[P2024-08-03] Proveniência:** palestra de Jan Val Ellam; transcrição STT pré-curada; devolutiva do curador registrada em 2026-08-20 (ficha autorizada).
 
-## Ampliação — P2024-08-03
+## Ampliação
+### P2024-08-03
 
 - **[P2024-08-03 — destaque O-2] Epimeteu como base do xamanismo (U1480–U1495):** "quem é o mais responsável pelo fato do ser humano ser do jeito que é hoje? É a figura mais louca que eu conheço em toda essa história"; "criou tudo que nós imaginamos como sendo a base do xamanismo"; plantas terrestres com mais de 500 moléculas complexas — "a Terra não faz isso... ayahuasca, cannabis e uma série de outras raízes... foi manipulado"; "quem mais fez isso foi a figura chamada Epimeteu, que era irmão de Prometeu"; "Prometeu era sábio, Epimeteu era leso... mas é genial para muitas coisas"; "ele fez todas as misturas xamânicas... tudo que a gente conhece hoje é Epimeteu por trás".
 - **[P2024-08-03] Frankenstein e as criaturas (U1498–U1515):** "sabe aquele doutor do filme Frankenstein, o Dr. Frankenstein e as suas criaturas? Epimeteu foi Frankenstein para uma porrada de criaturas que hoje existe. Ele só pensava nisso, o tempo inteiro. E ele também usava ele próprio como cobaia"; "essa figura destravou, desbloqueou todos os códigos que a turma da Trimurti, durante milhões de anos, produziu".
@@ -33,7 +34,7 @@ Titã irmão de Prometeu que, na cosmologia de Jan Val Ellam, teria sido o grand
 - **[P2024-08-03] A corrupção dos códigos (U1662):** "os humanos também tinham campos [mórficos]... só que os humanos, devido ao que Epimeteu fez e a turma bebeu, os códigos foram corrompidos: eles perderam o poder de manipular".
 
 
-## Ampliação — B087 (A Revolta do Anjo Decaído)
+### B087 (A Revolta do Anjo Decaído)
 
 - **[B087 p. 25–26 · as "poções"]** "Epimeteu havia criado uma série de '**misturas mágicas**' que alteravam os componentes dos corpos... essas 'poções' criavam **mutações nos corpos e nas mentes** de quem as tomasse!"
 - **[B087 p. 26 · o vício — quarentena clínica]** "De tanto provar nele mesmo as 'misturas mágicas', Epimeteu acabou por **ficar viciado em algumas delas**, passando a viver... com a sua mente em **estado alterado de consciência**... passou a viver perdido nos seus pensamentos e sensações, no '**mundo ilusório**' que ele criou para si mesmo." (leitura narrativa — jamais promoção/diagnóstico; O-7.)
@@ -45,7 +46,7 @@ Titã irmão de Prometeu que, na cosmologia de Jan Val Ellam, teria sido o grand
 - 0 códigos novos (O-3). **B087 adicionada às fontes** (Devolutiva O-6).
 
 
-## Ampliação — B088 (A Revolta do Anjo Decaído)
+### B088 (A Revolta do Anjo Decaído)
 
 - **[B088 p. 68 · a invisibilidade]** "Agora, vocês duas perceberão que nós, os titãs de segunda geração, temos alguns poderes especiais. **Epimeteu pode ficar invisível**..."
 - **[B088 p. 69 · os segredos]** "**Eu também tenho os meus segredos, ó Pandora!**... **tenho vários laboratórios montados, cada um em um local diferente**. Posso parecer tolo, no entanto, eu tinha plena convicção que, em algum momento, essa contenda entre Prometeu e Zeus não traria bons resultados."
@@ -54,7 +55,7 @@ Titã irmão de Prometeu que, na cosmologia de Jan Val Ellam, teria sido o grand
 - 0 códigos novos (O-3). **B088 adicionada às fontes** (Devolutiva O-6).
 
 
-## Ampliação — B089 (A Revolta do Anjo Decaído)
+### B089 (A Revolta do Anjo Decaído)
 
 - **[B089 p. 83 · A RECUSA no banquete]** "**pensa que permitirei que a minha esposa seja assim tratada?**... **Não admito que toquem na minha esposa!**... considero esta solicitação uma verdadeira afronta!" — o momento decisivo da disputa (Enlil recua: "Sem a sua permissão, nada será feito").
 - **[B089 p. 71–72 · a estratégia da 'propriedade']** "os Anunnaki gostam de respeitar as hierarquias... **se eu me colocasse na posição de responsável por você, eles teriam de falar comigo**" — a proteção pela lei da hierarquia Anunnaki.
@@ -64,7 +65,7 @@ Titã irmão de Prometeu que, na cosmologia de Jan Val Ellam, teria sido o grand
 - 0 códigos novos (O-3). **B089 adicionada às fontes** (Devolutiva O-6).
 
 
-## Ampliação — P2021-05-15 (As Etnias Hiperbóreas e os Anunnakis)
+### P2021-05-15 (As Etnias Hiperbóreas e os Anunnakis)
 
 - **[P2021-05-15 · AS BEBERAGENS DE EPIMETEU COMO BANCO DE SEQUÊNCIAS]** "E como no organismo de Pandora já tinha várias beberagens repetidas das poções de epimeteu, nos quais existia sequência dos animais humanos que ele trabalhava." (U0006); "Ela trouxe o que os humanos de então tinham conseguido até o momento em que Epimeteu recolheu o DNA deles e os transformou em poção deberagem." (U0006)
 

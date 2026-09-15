@@ -33,7 +33,8 @@ Com isso:
 * **Grafia STT:** 'colégio do I' / 'escola druídica' = Colégio Druídico. Nesta fonte é a continuidade terrena da escola de Capela (RC-092).
 * **Trava aplicável**: nenhuma além das gerais do despacho.
 
-## Ampliação — P2017-10-14 (Da Base Atlan ao Colégio Druídico)
+## Ampliação
+### P2017-10-14 (Da Base Atlan ao Colégio Druídico)
 
 - **[a escola druídica recriada na Terra] (U0007)** «Os biodemos são bons na tentativa de entender o como as coisas são feitas, por seres humanos, nós, seres humanos, vamos então assim, a escola druídica, entre aspas, que nem sei se esse nome vai persistir, se pretende recriar aqui na terra livro de toda a sujeira dos conceitos viciados de religião, de dogmatismo, de ideologia, seja o que for, nada mais é do que a continuidade dessa história.» — a escola druídica (futuro Colégio Druídico) é a continuidade da escola fundada em Capela pelo Codificador; ver RC-755.
 

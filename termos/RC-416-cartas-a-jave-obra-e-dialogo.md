@@ -23,7 +23,8 @@ A obra materializa o diálogo direto Criador × criatura: Mônica abre a Carta 1
 - **Variações:** as cartas ao Criador; o diálogo com Javé; cartas e respostas
 
 
-## Ampliação — B034 (Cartas a Javé)
+## Ampliação
+### B034 (Cartas a Javé)
 
 - **[B034 p. 5]** sinopse: “estratégia em curso” para o livro nascer; só depois das cartas o destinatário — Senhor Javé — resolveu respondê-las, “precisando, para tanto, de um intermediário”. “Livro único, singular… revelador em seus propósitos.”
 - **[B034 p. 4]** sumário: **15** cartas + Resposta em 2 partes + 2 posfácios. BIBLIO diz 16 cartas → **`[REVISAR → CHANCELA 10/09/2026 · F040-L5: DIVERGÊNCIA REGISTRADA (sumário 15 × BIBLIO 16) — ver nota]`** de contagem. BIBLIO intocada.

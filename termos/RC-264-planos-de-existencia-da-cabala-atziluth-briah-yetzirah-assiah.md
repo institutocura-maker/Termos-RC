@@ -30,13 +30,14 @@ A Doutrina das Emanações das Sefiroth opera "por sobre" essas quatro dimensõe
 - **Variações:** quatro universos-mundos; níveis dimensionais da Cabala; Atziluth/Briah/Yetzirah/Assiah (grafias variam: Atzilut, Beriá/Briah, Yetzirá/Yetzirah, Assiá/Assiah)
 
 
-## Ampliação — P2025-05-31
+## Ampliação
+### P2025-05-31
 
 - **Os 4 mundos na fala (P2025-05-31):** Atziluth (Kether/Chokhmah/Binah = Brahma/Vishnu/Shiva; "espiritualidade operacional"), Beriah (Chesed/Geburah/Tiferet; "espiritualidade laboratorial"), Yetzirah (Netzach/Hod/Yesod; o universo vizinho/antimaterial = "Ietsirá"), Assiah (Malkuth = Hochmah/Sophia; nosso universo material).
 - **"Só Aciá e Edirá [Assiah e Yetzirah] são os dois [mundos] dentro do abismo"** (Da'at); Atziluth e Beriah "são lá fora" (paraíso).
 
 
-## Ampliação — B013 (Tzimtzum: O Exílio Forçado de uma Divindade)
+### B013 (Tzimtzum: O Exílio Forçado de uma Divindade)
 
 - **[B013 p. 71–72]** quatro níveis, na leitura de Ellam:
   - Atziluth — “Universo ou Dimensão Arquetípica ou das Emanações”, “Mundo Divino” = Espiritualidade Superior + Operacional; “Circuito da Perfeição”; Paraíso “Imanifestado”.

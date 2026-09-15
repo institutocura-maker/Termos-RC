@@ -25,25 +25,26 @@ Nome demo de Pandora anterior à sua humanização: na cosmologia de Ellam, a ca
 - **[P2024-08-03] Unidades:** U1414–U1419.
 - **[P2024-08-03] Proveniência:** palestra de Jan Val Ellam; transcrição STT pré-curada; devolutiva do curador registrada em 2026-08-20 (ficha autorizada).
 
-## Ampliação — P2024-08-03
+## Ampliação
+### P2024-08-03
 
 - **[P2024-08-03 — destaque O-2] A cadeia de Pandora (U1414–U1419):** "era Pandora sorrindo, se sentindo livre do domínio de Zeus"; "ele antes era um ser que se chamava Kalil Kadmon [STT: 'Cali Calon']; disso veio o Adam Kadmon, que é outra história, mas que se misturou; e assim, agora se sentia mulher, o nome que deu foi Pandora"; "uma sensação de dignidade surgiu pela primeira vez com o sorriso de Pandora".
 
 
-## Ampliação — B089 (A Revolta do Anjo Decaído)
+### B089 (A Revolta do Anjo Decaído)
 
 - **[B089 p. 9 · paratexto de Kummer — QUARENTENA INSTITUCIONAL]** "**Ao nascer como um ser assexuado e já pronto para a vida, Kadmon, filho da titânide Themis (ou Témis) e de Zeus, o 'Rei do Olimpo', jamais imaginou que se tornaria a primeira mulher** da humanidade terrestre, a grande ancestral que, mais tarde, ficou conhecida como Pandora." — **a origem do nome-demo na psicografia** (paralela à revelação de B021).
 - 0 códigos novos (O-3). Texto de terceiros ("baseado nos ensinamentos de Jan Val Ellam") — **registro sem promover a paratexto autorizado** (O-1/O-7). **B089 adicionada às fontes** (Devolutiva O-6).
 
 
-## Ampliação — B050 (Guia das Eras Universais (Mapa))
+### B050 (Guia das Eras Universais (Mapa))
 
 - **[B050 · trilha B — O SURGIMENTO]** "Erupção do monte Toba causa cataclismos que fazem com que o quartel-general luciferiano repense sua situação na Terra. (74 mil a.p.) **Surge Kalil Kadmon (Pandora)**." — o nome demo de Pandora SURGE no mapa logo após o Toba e o abalo do quartel-general luciferiano (a base Atlan: 81 mil; a chegada de Yel Luzbel: 98 mil) — o cross com B089 (a ficha já registra Kadmon pela trilogia Pandora) **agora com data**.
 - **[B050 · trilha B/C — os demais marcos Pandora do mapa]** "Zeus usa Pandora para atingir Prometeu (52 mil a.p.)" (trilha B) · "Pandora faz a transição de fase (48 mil a.p.)" (trilha C — no mesmo nível de "Humanos inteligentes e despertos" e "Zont En Drel vem para a Terra 'guardar' o jardim-laboratório", ambos 48 mil) — a sequência Kadmon (74) → uso contra Prometeu (52) → transição de fase (48) **ordena a biografia de Pandora no mapa** (cross RC-086/RC-145/RC-301).
 - 0 códigos novos (O-3). Zeus/Prometeu/Pirra: cluster já denso (B087–B089); o mapa só datifica — quarentena ufológica/teológica padrão (O-7).
 
 
-## Ampliação — P2023-08-05 (O Velho Sonho de Ares)
+### P2023-08-05 (O Velho Sonho de Ares)
 
 - **[P2023-08-05 · A GÊNESE COMPLETA — A SABOTAGEM DO OLIMPO]** Zeus tinha "um dos filhos, porque não era nem macho, nem fêmea, **Kalil Kadmon** [STT: 'Cali Cadimon'], que vivia nessas fazendas de Epimeteu" → o plano: "vamos criar o mais belo e funesto dos presentes... **cada um de vocês pegue a sua pior marcação e inocule isso nele**" — mas "como todo mundo tava meio irritado com Zeus, **cada um do Olimpo deu para esse Kalil Kadmon a sua MELHOR sequência genética ao invés da pior**".
 - **[P2023-08-05 · O ALGORITMO DE HEFESTO]** "Hefesto chegou para esse Kadmon e disse: 'O que é que eu tenho que fazer?' — 'Eu não sei... eu tenho que me metamorfosear numa coisa que vai ferrar com tudo lá na fazenda'... **'exatamente por eu não saber o que fazer, eu vou criar aqui um algoritmo, vou colocar no seu genoma, e você vai lá pra fazenda e lá você decide o que você quiser ser'**" — o livre-arbítrio como o algoritmo de Hefesto.
@@ -53,11 +54,11 @@ Nome demo de Pandora anterior à sua humanização: na cosmologia de Ellam, a ca
 - 0 códigos novos (O-3). Quarentena teológica (a leitura de Zeus como "pai").
 
 
-## Ampliação — P2021-05-15 (As Etnias Hiperbóreas e os Anunnakis)
+### P2021-05-15 (As Etnias Hiperbóreas e os Anunnakis)
 
 - **[P2021-05-15 · PANDORA NA MITOLOGIA DESTE CICLO (sem o nome demo)]** "Pandora, que terminou se tornando uma fêmea humana e procri e já descendentes racionalizados nasceram disso." (U0003) — ⚠️ KALIL KADMON NÃO É CITADO nesta fonte; o vínculo é nominal. Registrar a ausência (para não inflar a ficha).
 
-## Ampliação — P2022-09-17 (A Hipóstase dos Arcontes)
+### P2022-09-17 (A Hipóstase dos Arcontes)
 
 - **[Car Cadmon: a metamorfose que originou Pandora] (U0035)** «000 anos atrás, quando nessa época os homo sapiens eram só animais de estimação dos deuses desses arcontos, quando um deles chamado Car Cadmon fez uma metamorfose definitiva, se transformou numa fêmea dos humanos que existiam na fazenda de Epimeteu.» — há cerca de 48.000 anos (número no BLOCO 3; o span inicia em "000 anos" porque o STT retoma a contagem); «Car Cadmon»/«Caliil Cadmon» = Kalil Kadmon, o nome demo de Pandora (RC-299): a inoculação dos vírus encomendada por Zeus para se vingar de Prometeu, com Pandora levando o "presente funesto" (paráfrase do contexto U0035; RC-086 Pandora; RC-301 Prometeu).
 

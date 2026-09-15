@@ -17,27 +17,28 @@ atualizado = "2026-08-19"
 Conjunto de pulsações que as sinapses cerebrais produzem a cada instante, marcando pensamentos e sentimentos que caracterizam a sensação de eu de uma pessoa. No passado, 'no tempo em que a entropia permitia que as memórias permanecessem pujantes por mais tempo dentro do conectoma humano', algumas figuras sabiam o que é um eu; hoje quase ninguém sabe.
 
 
-## Ampliação — P2025-02-15
+## Ampliação
+### P2025-02-15
 
 - **Neurônio e a sensação de eu (P2025-02-15):** "cada neurônio tem milhares de dendritos, mas só tem uma porta de saída — o axônio. Essa porta de saída produz a sensação no córtex frontal. Por isso a gente pensa que o eu está aí dentro, mas é falso. A internalização de fazer com que um ser humano se confunda com esse corpo é esse truque neuronal: tudo que entra entra facilmente por milhares de dendritos... esse código só consegue processar 2.000 informações por segundo".
 
 
-## Ampliação — P2024-11-30
+### P2024-11-30
 
 - **Conectoma (P2024-11-30):** "essa segunda faísca que nos move é o genoma... se você agir no primeiro impulso, são as memórias que recebeu de papai e mamãe e o fluxo da vida"; "quando você aprende a observar e agir no segundo impulso, no impulso mais profundo, aqui você tem livre arbítrio" (ver RC-719).
 
 
-## Ampliação — P2024-11-09
+### P2024-11-09
 
 - **Cérebro e eu (P2024-11-09):** "o cérebro humano serve para uma vida, nasce e morre com esse corpo e apenas dá guarida ao eu, um personagem que emerge durante a vida do corpo. Isso é transitório, ilusório. Mas tudo isso está vinculado a um espírito que tem lá um tipo de personagem numa mente eterna, que recolhe os fragmentos de cada cérebro e vai colecionando".
 
 
-## Ampliação — P2024-07-14
+### P2024-07-14
 
 - **[P2024-07-14] O conectoma como álbum memorial (U0640–U0650):** "o conectoma de Rogério é o álbum memorial de todas as memórias, as emoções, tudo que Rogério vivenciou, todas as sensações — tá tudo aqui guardado. O espírito vai colecionar isso. Se o espírito quiser, ele sente-se como Rogério, porque tá tudo de Rogério nele"; "o espírito de Jesus coleciona tudo de Jesus nele, mas o espírito de Jesus não consegue vivenciar a herança, o legado que Jesus produziu enquanto ser humano... não consegue acionar nele a memória do conectoma talvez mais belo já produzido na condição humana. Na hora da pior dor, ainda assim Jesus conseguiu produzir proteínas que a gente nem imagina no âmbito do seu genoma pessoal".
 
 
-## Ampliação — P2023-06-24 (O Buraco Negro Mental e o Estacionamento Coletivo)
+### P2023-06-24 (O Buraco Negro Mental e o Estacionamento Coletivo)
 
 - **[P2023-06-24 · A DEFINIÇÃO NUCLEAR DO EU-CONECTOMA]** "**O eu de Rogério tá NO QUE SAI DESSE CORPO**... o eu humano nem é desse espírito, o eu humano nem é desse corpo. **O eu humano é o CONECTOMA que sai desse corpo** — o conjunto de tudo que os neurônios produzirem em termos de fala, emoção, ação... um conjunto de arquivos memoriais, emocionais, conceituais... **uma bolinha quântica que fica fluindo entre o espírito que me anima e o cérebro desse corpo que eu uso**... um quântum codificado sobre a forma de **uma consciência particularizada QUE NÃO PRECISA TER CORPO PARA EXISTIR**" — e: "Rogério, que nem é esse corpo, nem é o espírito que me anima, não é nada, mas é **UM PROGRAMA QUE PENSA QUE EXISTE**."
 - **[P2023-06-24 · O CÉREBRO 0,5s E A MATRIX]** "0.5 segundos antes de um ser humano falar, é porque aquela palavra ele já escutou dentro do cérebro dele... a ciência tá 100% correta... [mas] qual a pergunta que eles não sabem responder? **POR QUE que o cérebro se acende?** O acaso, é o que eles dizem... a física quântica diz: **é a consciência que existe no nível para além da matrix**... o corpo tá dentro da matrix, mas FORA da matrix tem uma alminha — a alma, o espírito... Aí quando essa alma pulsa, o cérebro se acende e o corpo fala. SÃO TRÊS MOVIMENTOS."
@@ -50,17 +51,17 @@ Conjunto de pulsações que as sinapses cerebrais produzem a cada instante, marc
 - 0 códigos novos (O-3).
 
 
-## Ampliação — P2023-04-01b (O Quarto Logos e seus Agentes)
+### P2023-04-01b (O Quarto Logos e seus Agentes)
 
 - **[P2023-04-01b · O CONECTOMA E A TRANSFERÊNCIA]** "cada neurônio se comunica com 1000 outros... cada sinapse é uma espécie de estrada neural... ISSO TUDO CHAMA-SE CONECTOMA HUMANO. É O MAPA DE TODOS OS PENSAMENTOS, SENTIMENTOS, MEMÓRIAS... na hora em que esse corpo morre, ALGUÉM ESCANEIA A PERSONALIDADE DE ROGÉRIO, SE APROPRIA DISSO" [o uso paralelo dos eus guardados].
 - **[P2023-04-01b · O CÉREBRO DO CORAÇÃO — a convergência dos dois cérebros]** "a ciência descobriu que a gente tem UM CÉREBRO NO CORAÇÃO FORMADO POR 40.000 CÉLULAS. Com esse [o da cabeça] eu posso mentir... MAS ESSE CÉREBRO DAQUI NÃO TEM JEITO DE EU ENGANÁ-LO... A ÁGUA MARCA O QUE SAI DA PULSAÇÃO MAGNÉTICA DO MEU CORAÇÃO" [⚠️⚠️⚠️⚠️ ⚠️ QUARENTENA CLÍNICA/CIENTÍFICA (a Devolutiva O-7): a formulação entra na base EXCLUSIVAMENTE COMO CONCEITO METAFÍSICO DO MENTALMA — a linguagem dos dois focos: "os pensamentos, as palavras são a linguagem do cérebro. AS EMOÇÕES E OS SENTIMENTOS SÃO A LINGUAGEM DO CORAÇÃO. Nós temos que alinhar isso"; os experimentos de Emoto (os cristais da água) e a lagosta/oxitocina como CHAVES DE LEITURA PEDAGÓGICAS, não dogmas científicos (a Devolutiva O-4)]; **A SUPERCONSCIÊNCIA**: "ESSA CONVERGÊNCIA [cérebro + cérebro do coração] PRODUZ UMA SUPERCONSCIÊNCIA E PROMOVERÁ A EMERGÊNCIA DO QUARTO CÉREBRO".
 - 0 códigos novos (O-3). Quarentena: clínica/científica (a retenção das formulações literais — a Devolutiva O-7).
 
-## Ampliação — P2023-08-27 (Len Mion e os Senhores da Terra Alexandre Magno e Qin Shi Huang Di)
+### P2023-08-27 (Len Mion e os Senhores da Terra Alexandre Magno e Qin Shi Huang Di)
 
 - **[Conectoma: os álbuns de memória] (U0003)** «Então, é como se em cada vida produzisse um álbum de memória, cada personagem um álbum de memória e esse espírito fosse colecionador desses álbuns num álbum maior, num espécie de um Almanque geral, se assim quisermos entender.» — o conectoma (RC-557) é a 'somatória dos álbuns' que um espírito coleciona das diversas vidas cerebrais transitórias — cada vida um álbum, o espírito o colecionador; a somatória 'ainda não é a verdade'.
 
-## Ampliação — P2021-02-28 (Tragédia Anunciada - As Fórmulas Mentais do Poder Demo)
+### P2021-02-28 (Tragédia Anunciada - As Fórmulas Mentais do Poder Demo)
 
 - **[86 bilhões de neurônios e 100 trilhões de teias quânticas] (U0008)** «O nosso corpo são 86 bilhões de neurônios aqui no cérebro cada neurônio tem um axônio, tem dendritos que se unem, formam camadas ou caminhos neurais.» — "São mais de 100 trilhões de teias quânticas entre esses neurônios e que as runas eh no sentido mais profundo do termo eh registram tudo que se passa de consciências de fora que tentam mexer aqui e o eu da gente surge como consequência disso, mas o eu da gente quando tá no comando faz o cérebro pensar e devolve para quem tiver ligado." (U0008: «São mais de 100 trilhões de teias quânticas entre esses neurônios e que as runas eh no sentido mais profundo do termo eh registram tudo que se passa de consciências de fora que tentam mexer aqui e o eu da gente surge como consequência disso, mas o eu da gente quando tá no comando faz o cérebro pensar e devolve para quem tiver ligado.»); o processo de duas mãos (paráfrase U0008); RC-557 Conectoma.
 

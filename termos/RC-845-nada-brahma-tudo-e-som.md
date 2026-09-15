@@ -35,7 +35,8 @@ Com isso:
 * **Grafia STT:** 'nada brama' = Nada Brahma (tudo é som).
 * **Trava aplicável**: nenhuma além das gerais do despacho.
 
-## Ampliação — P2018-12-15 (Terra Atlantis – Aprofundamento)
+## Ampliação
+### P2018-12-15 (Terra Atlantis – Aprofundamento)
 
 - **[Nada Brahma: tudo é som] (U0004)** «Nada brama em sânscrito quer dizer tudo é só.» — Nada Brahma (sânscrito 'tudo é som'): a cosmogonia como vibração (teoria das cordas) — a 'música da criação' que precede a matéria.
 

@@ -16,7 +16,8 @@ atualizado = "2026-08-28"
 
 Anunnaki geneticista, irmã de Enki (RC-486) e Enlil (RC-487) — também chamada **Ninhursag**; craque na **manipulação genética** das linhagens.
 
-## Atualização — P2021-03-27
+## Atualização
+### P2021-03-27
 
 - **Irmã de Marduk:** "Marduk e essa irmã deles, Ninhursag, é um dos... craque na manipulação genética, mas ela foi embora";
 - **Linhagem preservada:** "a linhagem dela ficou e é uma linhagem que não foi traduzida nas páginas das tábuas sumérias, mas ficou";
@@ -24,13 +25,14 @@ Anunnaki geneticista, irmã de Enki (RC-486) e Enlil (RC-487) — também chamad
 - A "turma da irmã" é descrita como "a mais agradável" da história anunnaki (resposta à pergunta de Ricardo Andrade).
 
 
-## Ampliação — P2021-05-15 (As Etnias Hiperbóreas e os Anunnakis)
+## Ampliação
+### P2021-05-15 (As Etnias Hiperbóreas e os Anunnakis)
 
 - **[P2021-05-15 · A IRMÃ-CO-AUTORA DA CRIAÇÃO RACIONALIZADA]** "Quando enk junto com essa sua irmã e com Ning Ningicida, que é o deus Thor, quando eles criaram um outro tipo de ser humano também racionalizado, né?" (U0003)
 - **[P2021-05-15 · OS FILHOS DE ANU A FAVOR DE JAVÉ (a 1ª vez que a fonte diz isso)]** "Quando enk junto com essa sua irmã e com Ning Ningicida, que é o deus Thor, quando eles criaram um outro tipo de ser humano também racionalizado, né?" (U0003) — ⚠️ RETIRADA NESTE CICLO (declaração de engano): a frase que o dossiê atribuiu a esta fonte — «os dois filhos de Anu, os dois genéticos que trabalharam a favor de Javé» — NÃO existe no `original.txt` de 15/05/2021. Era contaminação de memória. O T-13 não se aplica e nada foi aplicado em nome dele; a ficha mantém a linha B060 sem essa inflexão.
 
 
-## Ampliação — P2023-10-14 (A Esquecida Honra dos Anunnaki)
+### P2023-10-14 (A Esquecida Honra dos Anunnaki)
 
 - **[P2023-10-14 · A IRMÃ QUE DECIDIU COM ELE: NINHARSAK NOS TESTES]** "Quando o ser humano surgiu racional e em que se achava e até hoje se acha o principal responsável por isso, em que fica se perguntando se por trás da decisão que ele e a irmã dele Ninharsak tomaram de fazer os testes de manipulação genética com vários casais de hominídios para ver o que é que dava de resultado, se aquilo de fato foi a ideia deles ou se algo ou se era o cri ador que assim quando na Terra eles descobriram que tinha seres de um universo paralelo que vinham para cá por meio dos portais e esses seres diziam que lá nesse universo paralelo tinha uma trimurte, uma trindade, um trium virato, uma tríade de seres super poderosos que lá na gênese da criação desses dois universos, esses três seres, estavam presentes e foram co-autores de alguma maneira, mas que estranhamente nenhum dos três nunca saía lá desse universo e vinha para esse, mas mandavam avatares." (U0033) — ⚠️ A fonte usa a mesma família de grafias para Ninmah/Ninharsag (8 ocorrências); não desmembrar sem decisão do Curador.
 

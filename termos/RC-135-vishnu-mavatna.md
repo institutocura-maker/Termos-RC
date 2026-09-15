@@ -33,15 +33,16 @@ Com isso:
 * **Grafia STT:** 'Vído' = Vishnu, 'Chiva' = Shiva. 'Trabalharam sempre em cima' = sobre o código de Brahma, até a 'carreira solo' do Projeto Talm.
 * **Trava aplicável**: nenhuma além das gerais do despacho.
 
-## Ampliação — P2022-05-07 (Shiva, o Projeto Talm e os Mistérios de Awaylengam)
+## Ampliação
+### P2022-05-07 (Shiva, o Projeto Talm e os Mistérios de Awaylengam)
 
 - **[Vishnu — trabalhando sobre o código de Brahma] (U0003)** «Mas Chiva e Vído trabalharam sempre em cima.» — Chiva e Vishnu sempre trabalharam sobre o código de Brahma, sem grandes ousadias, até o Projeto Talm.
 
-## Ampliação — P2024-06-16 (O Projeto TALM, os Fenvans e os Humanos)
+### P2024-06-16 (O Projeto TALM, os Fenvans e os Humanos)
 
 - **[Vishnu — o terceiro logos] (U0006)** «Aí tem o terceiro logos que pôs tudo isso para evoluir, que foi virgino quando a força da sexualidade, fazendo com que a oxitocina surgisse.» — Vishnu (STT "virgino/virgno") como o 3º logos: pôs a vida a evoluir pela sexualidade, fazendo surgir a oxitocina.
 
-## Ampliação — P2012-02-19 (Xadrez Cósmico de Brahma, Vishnu e Shiva)
+### P2012-02-19 (Xadrez Cósmico de Brahma, Vishnu e Shiva)
 
 - **[Vishnu, o preservador] (U0005)** «E é por isso que Vno é conhecido na tradição hindu como o preservador.» — Vishnu (RC-135, STT 'Vno/Virgno/Virgino') é conhecido na tradição hindu como 'o preservador': cabe a ele o modelo de criação possível no caos primeiro.
 
@@ -102,7 +103,8 @@ Com isso:
 | Centro Alquímico-Farmacopédico | RC-789 | associado |
 | Eru Ilúvatar (criador no Silmarillion) | RC-843 | associado |
 
-## Ampliação — P2024-03-02 (O Drama Espiritual de Jesus)
+## Ampliação
+### P2024-03-02 (O Drama Espiritual de Jesus)
 
 - **[Matsya (peixe) — primeira "encarnação" de Vishnu para salvar informações do dilúvio]:** «Os seguidores de Vishnu dizem que a primeira encarnação dele foi Matsya, como peixe, na época do grande dilúvio, para salvar informações que estavam reproduzidas em pedras, em manuscritos [...] Isso não é, entre aspas, real, mas de fato, pelas fofocas na espiritualidade, o senhor Vishnu no tempo fez isso: criar alguém, um peixe, devido ao dilúvio.» — ver RC-757 (Vaishnavismo).
 

@@ -23,7 +23,8 @@ Conceito desenvolvido na palestra «A Falsa Queda do Ser Humano e a Indignidade 
 - **Variações:** point; centro de convergência; ponto de encontro
 - **Idioma de origem:** Inglês (point)
 
-## Ampliação — P2024-02-04
+## Ampliação
+### P2024-02-04
 
 **Fonte:** palestra «A Falsa Queda do Ser Humano e a Indignidade Entronizada como Religião» (04/02/2024).
 

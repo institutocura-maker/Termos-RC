@@ -23,7 +23,8 @@ A palestra os descreve como padrões dimensionais com grupos de seres e estilos 
 - **Fonte de decisão:** Quadro 9 aprovado pelo curador.
 
 
-## Ampliação — P2021-12-04
+## Ampliação
+### P2021-12-04
 
 - **[P2021-12-04 — FONTE ORIGINAL] Os Archeons de Ereon (U0038–U0051; U0311–U0330):** "vamos falar das construções que no meu linguajar eu chamo de Archeons [STT 'arquelos'] de uma determinada região da espiritualidade laboratorial, que eu chamo de Ereon [STT 'héreo']" (U0038–U0041); "os chamados Archeons compõem uma realidade ou um padrão de realidade no âmbito da espiritualidade laboratorial... desde que o problema teve lugar em um desses Archeons, notadamente em Perpérion, terminou fazendo desses Archeons o lugar mais conhecido, mais visitado, mais estudado" (U0044–U0046); "são realmente níveis dimensionais ou subníveis dimensionais desse já grande nível chamado espiritualidade laboratorial"; "exclusivamente no que interessa à nossa história, são cinco Archeons" (U0047–U0050).
 - **Perfis dos cinco (U0325–U0330):** "os seres de Antérion foram os primeiros a usar [criar]: criaram inúmeras faixas dimensionais"; "os de Danérion trabalharam as artes criativas da turma de Antérion"; "Mermérion já foi extremamente complexa no sentido dos tipos de seres que nas suas criações passaram a existir"; "a turma de Perpérion foi a que mais usou sem obedecer aos critérios lógicos de prudência de Mermérion e Danérion"; "a turma de Tempérion tem um temperamento bem diferente dos outros... resolveu, desde uma longa eternidade para trás, não criar, não gerar novas dimensões".
@@ -31,7 +32,7 @@ A palestra os descreve como padrões dimensionais com grupos de seres e estilos 
 - **Pontos focais (U0568–U0571):** "essas mudanças teriam que começar por esses cinco Archeons... são os pontos focais da espiritualidade que mais cedeu espíritos ou consciências particularizadas para funcionarem na tentativa, repito, não de resolver, mas de mergulhar e tentar entender"; "se houver essa coisa de uma precipitação de acontecimentos no âmbito espiritual, é por aí, vai ser nesses cinco Archeons".
 
 
-## Ampliação — P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
+### P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
 
 - **[P2022-03-26 · ARCHEONS DE EREON NA FALA DE 26/03/2022]** "tem planetas em Oreon que tem cinco tipos de sexo rolando lá." (U0005) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2021-12-04`); a entrada desta fonte é de **conteúdo**, não de data.
 - **[P2022-03-26 · O QUE OS ARCHEONS TÊM DE SEXO E O QUE ISSO FAZ DA REBELIÃO]** "A possibilidade de transmitir doença, porque lá vai surgir essa coisa chamada sexualidade. Aqui não tem, é tudo por clonagem. Seres eram criados aqui. Como não é mais um tirando de si para criar outro, agora são dois unindo suas células para gerar outro. Essa opção aqui permite que a doença do criador seja repassada num grau menor, já que na clonagem ela vai total pro outro." (U0005); "Aqui há 2 bilhões 500 milhões de anos atrás outros seres já eram produzidos. E esses seres eram animalizados, eram sensórios, ou seja, tinham sensação de todo tipo e eram sexualizados, eles eram polarizados." (U0005) — A fala liga a polarização sexual à possibilidade de transmitir doença — a chave para ler `RC-596` sem exotismo: o sexo entra como **via de infecção** no argumento sanitário.

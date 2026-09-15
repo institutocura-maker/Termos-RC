@@ -33,7 +33,8 @@ Apenas a terceira possibilidade é descrita como auspiciosa. Ela requer ciência
 - dimensão temporal do Novo Ser Humano, sem duplicar `RC-544`.
 
 
-## Ampliação — P2025-02-16
+## Ampliação
+### P2025-02-16
 
 - **Os três cenários do oitavo dia (P2025-02-16):** "esse novo tempo do oitavo dia da criação vai acontecer de todo jeito, porém poderá acontecer sem a participação dos humanos, caso nós venhamos a ser extintos enquanto raça (perigo real e iminente); com os humanos condicionados pela devoção e submissão (não adianta muita coisa); e com os humanos emancipados, ajudando ou definindo a agenda consciencial desse novo tempo".
 - **Especiação:** "o oitavo dia se daria por meio da especiação do genoma humano, que seria exportado para outros mundos desse universo e novos núcleos humanos ali começariam a viver de forma decente".
@@ -41,7 +42,7 @@ Apenas a terceira possibilidade é descrita como auspiciosa. Ela requer ciência
 - **"O palco no qual o ser humano vive é camuflado a tal ponto que esconde a realidade maior na qual ele atua sem que o saiba."**
 
 
-## Ampliação — P2023-06-17 (O Paradoxo Divino)
+### P2023-06-17 (O Paradoxo Divino)
 
 - **[P2023-06-17 · O OITAVO DIA — A FONTE ANTECIPADA (jun/2023, ~2 anos antes da P2025-02-16)]** **ANTONINE MEER** [STT — [REVISAR → CHANCELA 2026-09-06 · F039-L3: AGUARDA-ÁUDIO (STT preservado como falado) — ver nota]; a escritora canadense], a quem um repórter fez uma pergunta irônica: "**É, meus livros até podem não ser conhecidos, mas eu escrevo porque EU ME CONSIDERO A ARTESÃ DO OITAVO DIA DA CRIAÇÃO** — as religiões dizem que Deus trabalhou um dia, dois, três, no sétimo ele descansou. **EU ACHO QUE ELE NÃO FEZ TUDO. Então eu trabalho nesse oitavo dia.** Antes, até o sétimo dia, **esse pássaro que tá cantando ali na árvore — ESSE CANTO NÃO EXISTIA, não foi Deus que [fez]. Esse pássaro É UM ARTESÃO TAMBÉM DO OITAVO DIA. COMO EU SOU. TODOS NÓS SOMOS ARTESÃOS DESSE OITAVO DIA DA CRIAÇÃO. ESSA CRIAÇÃO É INCOMPLETA**" — o oitavo dia como a cocriação contínua (RC-545): "nós somos recriadores, nós somos cocriadores... há um princípio sempre renovador em cada processo de pulsação".
 - 0 códigos novos (O-3). A antecipação: o conceito lavrado na P2025-02-16 já pulsava em jun/2023.

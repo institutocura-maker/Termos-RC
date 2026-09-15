@@ -24,22 +24,23 @@ A equivalência Senhores do Dharma = Senhores da Lila = Trimurti consolida a lei
 - **Idioma de origem:** sânscrito (dharma) + português
 
 
-## Ampliação — B023 (O Dharma e as Castas Hindus)
+## Ampliação
+### B023 (O Dharma e as Castas Hindus)
 
 - **[B023 p. 15]** «seres que se apresentavam como “Senhores do Dharma” – os mesmos autoaclamados “Senhores da Lila”, da Trimurti hindu».
 - **[B023 p. 24]** «Da minha desafortunada convivência com os seres da Trimurti, posso testemunhar que pensavam que aqueles seres híbridos “herdariam a Terra”». RC-075 permanece **sem ficha**. Sem fusão com B044. Fonte **B023** já constava na tabela-mestra.
 
 
-## Ampliação — P2023-10-14 (A Esquecida Honra dos Anunnaki)
+### P2023-10-14 (A Esquecida Honra dos Anunnaki)
 
 - **[P2023-10-14 · OS «TRÊS SENHORES ATRIBUT» E O AVATAR QUE CARREGAVA GENÉTICA]** "E então Krishna, não como Krishna, mas em encarnações anteriores dele mesmo como avatar de Chiva, Vígno e Brama, porque era um avatar quechava, trazia na sua um pouco da genética dos três senhores atribut desse universo vizinho." (U0020) — 🆕 anterioridade: P2024-11-30 —  [REVISAR: «quechava» = Keshava, fusão de STT. → CHANCELA 2026-09-06 · F039-L3: AGUARDA-ÁUDIO (STT preservado como falado) — ver nota]
 
 
-## Ampliação — P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
+### P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
 
 - **[P2022-03-26 · SENHORES DA LILA NA FALA DE 26/03/2022]** "os níveis de aristocracia em torno da Trimurte. gerações que foram surgindo, que querem ser deles a trimurto e a última que surgiu em termos de de informação que a gente tem é a mitologia grega chamando de Zeus, os Olimpiados." (U0048) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⭐ **NOTA DE ANTERIORIDADE — P2022-03-26:** antecipa **19 meses** a atual fonte oral mais antiga da ficha (`P2023-10-14`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
 
-## Ampliação — P2012-02-19 (Xadrez Cósmico de Brahma, Vishnu e Shiva)
+### P2012-02-19 (Xadrez Cósmico de Brahma, Vishnu e Shiva)
 
 - **[Os três pilares de criação, sustentação e dissolução] (U0005)** «Esses três gunas corresponde aos três pilares de criação, sustentação e dissolução do universo.» — as três gunas correspondem aos 'três pilares de criação, sustentação e dissolução do universo' — Brama (Rajas), Vishnu (Sattva) e Shiva (Tamas).
 

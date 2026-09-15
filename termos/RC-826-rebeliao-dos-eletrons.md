@@ -74,7 +74,8 @@ Esta ficha usa exclusivamente as **grafias canônicas** do repositório:
 
 Correção aplicada em **2026-08-31** via fix de terminologia canônica — substituições de 158 ocorrências (Sofia/Yosbel/Brama/Aia/Aie/Luzbell → Sophia/Yel Luzbel/Brahma/Aya/Aye/Yel Luzbel) na apostila P2023-12-17 e nas 8 fichas RC-826..833, com criação de RC-834 (Aya) e RC-835 (Aye) como remissões.
 
-## Ampliação — P2023-07-09 (A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons)
+## Ampliação
+### P2023-07-09 (A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons)
 
 - **[Pre-história da rebelião — dores dos mamíferos acumuladas nos elétrons]** «os elétrons começaram a receber a marcação das dores num grau de pulsação psíquica que começou a acontecer algo muito estranho que os adores famílias Biodeco, não digo todas, mas as últimas começavam a notar, mas ninguém tentava, atentava com o que seria» — ver RC-162 (Elétron).
 - **[Colapso atual — universo vizinho desde 2014, nosso universo desde 2007]** «nós chegamos a um ponto tal de infecção da memória dos elétrons nos tempos atuais que nós estamos vivendo, em que simplesmente tudo começou a colapsar. Só que o tudo aí é o universo vizinho já tava colapsando desde 2014. O nosso aqui começou a colapsar sistemas bi Lógicos em 2007» — ver RC-827 (Era do Colapso).

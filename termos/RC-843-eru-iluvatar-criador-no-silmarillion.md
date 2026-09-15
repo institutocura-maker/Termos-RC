@@ -35,7 +35,8 @@ Com isso:
 * **Grafia STT:** 'Heru' / 'éu iluvatar' = Eru Ilúvatar, o criador no Silmarillion.
 * **Trava aplicável**: nenhuma além das gerais do despacho.
 
-## Ampliação — P2018-12-15 (Terra Atlantis – Aprofundamento)
+## Ampliação
+### P2018-12-15 (Terra Atlantis – Aprofundamento)
 
 - **[Eru Ilúvatar, o criador no Silmarillion] (U0004)** «Mar e ele apresenta nesse livro a estranha figura de Heru, o criador, que na linguagem élfica se chamava iluvatar, então o nome éu iluvatar.» — Eru Ilúvatar (STT 'Heru/éu iluvatar'), o criador na obra de Tolkien, = Prabrajna (RC-152)/Brahma antes da queda; a Ainulindalê (música da criação) = Nada Brahma.
 

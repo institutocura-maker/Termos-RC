@@ -39,22 +39,23 @@ O curador fixou **Satchidananda** como a correção das formas severamente defor
 
 Satchidananda é mantido, neste ciclo, dentro da explicação de Ishvara e da cadeia Nidana–DNA–reconstrução, **sem código independente**.
 
-## Ampliação — P2024-06-16 (O Projeto TALM, os Fenvans e os Humanos)
+## Ampliação
+### P2024-06-16 (O Projeto TALM, os Fenvans e os Humanos)
 
 - **[Ishvara — o ser com o Satchidanandaghana] (U0004)** «Mas ovvar é o ser com o sati nadana gana se um dia isso existir.» — Ishvara (STT "ovvar/Estivara") = o Javé/Brahma reconstruído com o Satchidanandaghana; "o mistério de Isvara" é o tema do livro em produção.
 
-## Ampliação — P2025-06-14b (A Consciência Humana e a Chave da Decifração Universal)
+### P2025-06-14b (A Consciência Humana e a Chave da Decifração Universal)
 
 - **[Brama depois, Prabrajna antes da queda] (U0094)** «Brama é depois da queda para Brasna é antes da queda.» — na Q&A, Ellam fixa a distinção nominal: Brama é o mesmo espírito de Prabrajna, mas apenas DEPOIS da queda; antes dela, é Prabrajna (Prajapati) — o retrato de Ishvara corresponde à condição anterior.
 
 
-## Ampliação — P2022-12-03 (O Ocaso do Criador e a Rebelião dos Elétrons)
+### P2022-12-03 (O Ocaso do Criador e a Rebelião dos Elétrons)
 
 - **[Os tijolos podres do primeiro logos] (U0014)** «A energia Rajas apenas produziu os tijolos podres da construção da vida aqui dentro.» — "Esse foi o trabalho do primeiro logos": a energia rajásica de Prabrajna produziu os tijolos podres; Savna polarizou as partes podres e Mahavatma criou a rota evolutiva, mas nada pôde ser executado — as hesitações ferraram a possibilidade de reordenar a criação pelas gunas.
 - **[O paraíso que parou de criar] (U0016)** «Desde que para Bragna fez isso, parou tudo.» — "O fim das criações no universo... o que era normalíssimo... Desde que Para Brajna fez isso, parou tudo. Ninguém cria mais nada" — o paraíso "já era chato, agora está"; a pulsação digna dos humanos pode substituir temporariamente os alicerces de sustentabilidade da erraticidade do paraíso (grafia STT "para Bragna" = Para Brajna).
 
 
-## Ampliação — P2025-03-15 (A Rebelião dos Elétrons e a era do Colapso do Caos Organizado)
+### P2025-03-15 (A Rebelião dos Elétrons e a era do Colapso do Caos Organizado)
 
 - **"O retrato de Prabrajna" (P2025-03-15):** "dizem que o último retrato dele foi tirado... o último retrato de Prabrajna que alguém tirou chama-se Ishvara"; "o limite de modulação pré-estabelecido desde a queda do seu criador. Que limite? É o retrato de Ishvara".
 - **Epítetos:** "significa o eu do universo, o ego do universo, o senhor do universo, o Deus do universo — você encontra uns 20 epítetos e nenhum deles bate"; "o que de mais próximo se chegou foi o Samkhya que Kapila produziu".

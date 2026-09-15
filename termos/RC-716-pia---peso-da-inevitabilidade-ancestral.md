@@ -26,15 +26,16 @@ A forma canônica aprovada é:
 Moros teria calculado o PIA de cada ser e Anank/Anankê `[REVISAR → CHANCELA 10/09/2026 · F039-L5: AGUARDA-ÁUDIO (ver Ananque, RC-777, grafia consagrada; STT nunca renomeado por conveniência) — ver nota]` teria relacionado genoma e necessidades derivadas desse peso. Wyrd organizaria o retorno das informações ao emissor.
 
 
-## Ampliação — P2024-11-30
+## Ampliação
+### P2024-11-30
 
 - **PIA (P2024-11-30):** "Ananké, depois de milhões de anos, conseguiu criar a relação das necessidades típicas daquele tipo de peso inevitável, de podridão ancestral, que cada ser sentia"; a última Moira (Skuld) "iria trabalhar na confecção das possíveis soluções para a necessidade daquele tipo de código podre, o que implicava dizer que o dono desse código, se soubesse do que essa moira sabia, saberia do futuro, já que inevitavelmente aquele eu particularizado seria levado por uma força que o obrigaria a percorrer um caminho existencial de maneira a resolver ou neutralizar as informações vivas que pulsavam dentro dele".
 
-## Ampliação — P2021-01-30 (A Mensagem TALM e os Fios Soltos do Destino)
+### P2021-01-30 (A Mensagem TALM e os Fios Soltos do Destino)
 
 - **[PIA — o peso da infecção ancestral] (U0015)** «Então quando o nosso amigo Morrensor lá atrás pegou o manual de Moros e começou a estudar cada parte podre de cada microparte, a condição podre de cada microparte daquele corpo de Javer, quando se eh morrem só e entender o peso da infecção ancestral, da podridão ancestral que morre somido, todos os fvães, o destino de um servilismo a a necessidade de Jah, de recompor Javé, né?» — fonte oral mais antiga do verbete (antes de P2024-11-30); o peso da infecção ancestral medido por Moros.
 
-## Ampliação — P2018-12-15 (Terra Atlantis – Aprofundamento)
+### P2018-12-15 (Terra Atlantis – Aprofundamento)
 
 - **[Moros mapeia o padrão de inevitabilidade] (U0012)** «Moros, então, ao perceber o padrão da inevitabilidade ancestral, Ele fez um mapeamento do inquietante padrão da da inevitabilidade dessa estrada.» — Moros percebe o padrão de inevitabilidade ancestral (PIA, RC-716) e faz seu mapeamento sem se deixar enganar pela aparência (o deus cego).
 

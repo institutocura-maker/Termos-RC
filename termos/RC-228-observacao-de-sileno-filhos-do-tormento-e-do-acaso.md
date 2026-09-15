@@ -33,7 +33,8 @@ Com isso:
 * **Grafia STT:** 'Sileno'/'Silênio' = Sileno. O episódio no contexto do rei Midas (U0021).
 * **Trava aplicável**: nenhuma além das gerais do despacho.
 
-## Ampliação — P2017-10-14 (Da Base Atlan ao Colégio Druídico)
+## Ampliação
+### P2017-10-14 (Da Base Atlan ao Colégio Druídico)
 
 - **[Sileno e o rei Midas] (U0021)** «E demos não tem senso crítico muito mas um dos, entre aspas de que seguiam o deus deiono uma figura chamada Sileno na época do rei Midas, estamos falando aqui há cerca de 3 4000 anos atrás, na época do rei Midas, que foi mais recente inclusive que isso, Midas ele tinha muito muito defeito, ele era muito ganancioso, mas ele era um cara que queria saber o porquê das coisas.» — Sileno (STT `Sileno`/`Silênio`), o demo sábio capturado por Midas; a observação de Sileno sobre jamais ter nascido (ver RC-228).
 

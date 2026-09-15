@@ -24,7 +24,8 @@ Presente em B031 (glossário Raquyel) e nas obras primárias B020 *O Sorriso de 
 - **Obs.:** na nota mitológica da ed. 2022 do B087: "o 'deus dos céus', que mantêm a ordem e a justiça"
 
 
-## Ampliação — B088 (A Revolta do Anjo Decaído)
+## Ampliação
+### B088 (A Revolta do Anjo Decaído)
 
 - **[B088 p. 33–34 e 44 · O MEDO DA MORTE]** o artefato de Hefesto/Prometeu que mede longevidade — construído a pedido de Zeus, que "queria ter plena certeza da sua imortalidade": "Hefesto confidenciou-me que **o mesmo ficou muito preocupado com o resultado do seu exame corporal**" (p. 34); "Zeus ainda não está convencido do tempo que esse dispositivo detetou de sobrevida do seu corpo... **sempre recebia a mesma resposta do artefato, ficando relutante em aceitar o resultado da previsão como verdade**" (p. 44). **O segredo: Zeus é mortal.**
 - **[B088 p. 62–63 · a paranóia]** "Zeus fez, de todos os olimpianos, **os seus espiões**"; "Zeus anda nervoso o tempo todo!"; a pressão sobre Hefesto ("foi pressionado, por Zeus, a revelar o motivo da visita de Prometeu").
@@ -33,7 +34,7 @@ Presente em B031 (glossário Raquyel) e nas obras primárias B020 *O Sorriso de 
 - 0 códigos novos (O-3). Quarentena ufológica (O-7). **B088 adicionada às fontes** (Devolutiva O-6).
 
 
-## Ampliação — B089 (A Revolta do Anjo Decaído)
+### B089 (A Revolta do Anjo Decaído)
 
 - **[B089 p. 88–90 · o conselho de guerra]** "**Como eles ousam aportar nos ambientes terrenos sem a minha permissão!** Eles verão com quem estão lidando!"; "os meus domínios foram violados!" (Hades); "**Combateremos esses inimigos e mostraremos a eles quem é que manda nos céus, nas águas e, principalmente, no submundo terreno!**"
 - **[B089 p. 87–90]** a cena do conselho: Zeus + Poseidon + Hades + Ares + Atena + Témis; a ordem: "Convoque a 'Assembleia dos Deuses', sem perda de tempo!"; a vitória ("o Olimpo está a comemorar o rápido desfecho desse ataque").
@@ -41,16 +42,16 @@ Presente em B031 (glossário Raquyel) e nas obras primárias B020 *O Sorriso de 
 - 0 códigos novos (O-3). **B089 adicionada às fontes** (Devolutiva O-6).
 
 
-## Ampliação — P2020-09-19 (Sophia e o Impasse do Juízo Final)
+### P2020-09-19 (Sophia e o Impasse do Juízo Final)
 
 - **[P2020-09-19 · ZEUS NATO EM CRETA + OS TITÃS PRISIONEIROS DA VIA LÁCTEA; ⚠️ O EMBRIONÁRIO DE 2020]** **A ORIGEM TERRESTRE DE ZEUS**: "Aí surge quem? ZEUS. Zeus nasce aonde? NA TERRA, PESSOAL. ZEUS NASCEU DE UM PORTAL ABERTO AQUI NA TERRA, NA ILHA DE CRETA. Então, ZEUS É O ÚNICO DEMO QUE NÃO FOI [engendrado no universo vizinho]... Zeus já é alguém que NASCEU NESSE NOSSO UNIVERSO, ainda que seja demo, E AINDA QUE HOJE MORE NO OLIMPO, QUE É UMA LOCA DO UNIVERSO VIZINHO" [⚠️⚠️ a inversão: o demo nascido AQUI!]; **OS TITÃS**: "a primeira coisa... no sentido de chamar a Terra [ao centro] foi um evento que aconteceu COM A CRIAÇÃO DOS TITÃS. Eu tô usando aqui a mitologia grega... Poderia usar a mitologia hindu, chamando isso de ASURAS — é a mesma coisa. OS TITÃS, quando eles, numa primeira confusão que eles criaram, FORAM ALOJADOS COMO PRISIONEIROS, COMO CASTIGO, NA NOSSA GALÁXIA VIA LÁCTEA... houve uma época aí para trás em que A GERAÇÃO DE URANOS E A GERAÇÃO DE CRONOS FORAM PRO CACETE... e os titãs foram castigados a viver aprisionados em torno da galáxia... eles ficaram LIGADOS À NOSSA GALÁXIA"; "COM OS TITÃS HOUVE O DESDOBRAMENTO DE UMA LINHAGEM QUE SURGIU A PARTIR DO PROJETO TALM... AS GUERRAS QUE FORAM ESTABELECIDAS COM OS TITÃS E OUTRAS FIGURAS FORAM EM TORNO DESSA GALÁXIA"; "a Terra foi se transformando NUM PONTO DE CONFUSÃO DOS TITÃS... espiritualmente A LATA DE LIXO DE TUDO"; o Q&A de Pandora: "mesmo com a DESOBEDIÊNCIA DE PANDORA EM RELAÇÃO AOS CRITÉRIOS DE ZEUS, o tipo de ser humano que dali surgiu produzia coisas que ninguém em nenhum desses dois universos..." [⚠️ "os critérios de Zeus" — o eco de P2020-08-08: "Pandora, filha de Zeus com Têmis"].
 - 0 códigos novos (O-3). Quarentena: teológica (a mitologia como chave).
 
-## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+### P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
 
 - **[P2023-12-03 · ZEUS NA FALA DE 03/12/2023]** «Esse aqui já veio.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-09-19`); a entrada desta fonte é de **conteúdo**, não de data.
 
-## Ampliação — P2021-02-28 (Tragédia Anunciada - As Fórmulas Mentais do Poder Demo)
+### P2021-02-28 (Tragédia Anunciada - As Fórmulas Mentais do Poder Demo)
 
 - **[Zeus: o imperador que ninguém entendia] (U0030)** «Zeus da ordens, a turma sai para cumprir, mas ninguém entendeu nada.» — a estupidez como "segurança maluca em você mesmo" (paráfrase U0030; ver Disforia de gênio — BLOCO 2); Têmis (STT «Tem»/«Tênis») tentando ensinar Zeus a compreender o que diz: "Tem foi quem disse: \"Ei, compreenda o que você diz." (U0030: «Tem foi quem disse: "Ei, compreenda o que você diz.»); a raiva de Zeus com Prometeu que "curtia com a cara dele" (paráfrase U0030; RC-301); RC-145.
 

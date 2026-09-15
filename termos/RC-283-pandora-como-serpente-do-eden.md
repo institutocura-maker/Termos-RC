@@ -23,23 +23,24 @@ No B020, Pandora narra em 1ª pessoa: cerca de 30 mil anos após sua "humanizaç
 - **Variações:** a serpente do Éden = Pandora; papel da serpente; a "serpente" da tradição bíblica
 
 
-## Ampliação — P2025-05-31
+## Ampliação
+### P2025-05-31
 
 - **A serpente falante (P2025-05-31):** "até a cobra falante... existe. São seres descendentes dos Nagas e Uragas, filhos de Kadru [STT], uma das filhas de Daksha, que junto com Kashyapa produziram isso" — seres teriantrópicos; "a metáfora que não é metáfora" (leitura do autor).
 
 
-## Ampliação — P2025-02-22 (A Vinda de Sophia e o Equilíbrio Universal)
+### P2025-02-22 (A Vinda de Sophia e o Equilíbrio Universal)
 
 - **[P2025-02-22 — eco] A SERPENTE REAL DO ÉDEN]** "no episódio descrito no Gênesis, existem QUATRO PERSONAGENS: JAVÉ, ADÃO, EVA E UMA TAL DE UMA SERPENTE QUE CONVERSA COM EVA. Conversa? Serpente não conversa... Ah, mas isso não é metáfora, não. Infelizmente eu tenho que dizer para vocês que NÃO É... AO LONGO DOS ÚLTIMOS 300 MILHÕES DE ANOS, OS FILHOS DE CADRU, DE DESCENDÊNCIA NAGA E URAGA, INVASIRAM ESTE UNIVERSO, INVASIRAM A TERRA TAMBÉM E SE ESTABELECERAM" [⚠️⚠️ a confirmação da realidade da serpente]; "QUANDO EVA VÊ UMA SERPENTE QUE DIZ: 'OLÁ, EVA, TUDO BEM?'... Ó, você por aqui? É, estou passando, mas olha, já soube desse último elixir... AS SERPENTES FINANCIARAM O DESPERTAR HUMANO"; "O PRÓPRIO JAVÉ QUANDO PRODUZIU AS NOTÍCIAS REGISTRADAS NO GÊNESIS DIZ: 'A SERPENTE, O MAIS ASTUTO DOS ANIMAIS.' OU SEJA, JAVÉ ELE CONTOU AQUILO MEIO QUE TRISTE, SÓ QUE NÓS NUNCA ENTENDEMOS DIREITO"; "a serpente... ela representa UM ENREDO QUE NÃO É PERCEBIDO PELO SENSO COMUM" [o Gênesis como o registro invertido].
 - 0 códigos novos (O-3). Quarentena: teológica (a leitura do Gênesis).
 
 
-## Ampliação — P2020-04-25 (Os Desdobramentos da Rebelião de Lúcifer)
+### P2020-04-25 (Os Desdobramentos da Rebelião de Lúcifer)
 
 - **[P2020-04-25 · A MESMA CENA CONTADA PELO AVESSO: PORTAIS, HERANÇA E O VÍCIO ORACULAR]** "criaram o vício oracular para forçar todo mundo a só fazer qualquer coisa na vida dependendo dos deuses." (U0006); "travas genéticas de controle que eles haviam colocado." (U0006) — Bloco Pandora lido como **mecanismo de contenção** (travas postas pelos deuses), não como cosmogonia moral. · ⭐ **NOTA DE ANTERIORIDADE — P2020-04-25:** antecipa **32 meses** a atual fonte oral mais antiga da ficha (`P2022-12-17`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
 
 
-## Ampliação — P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
+### P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
 
 - **[P2022-03-26 · PANDORA COMO SERPENTE DO ÉDEN NA FALA DE 26/03/2022]** "Quando a autoridade entra, o que é que os humanos fazem? Se ajoelho. Ou seja, esse gesto de submissão." (U0029) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
 
@@ -79,7 +80,8 @@ Ficha baseada em B020 (obra primária). A reinterpretação da serpente bíblica
 
 ---
 
-## Atualização — P2022-12-17
+## Atualização
+### P2022-12-17
 
 - **Fonte:** palestra *O Incompreendido Ano de 2012 e a Falsa Noção do Fim do Mundo* — unidades U0673–U0679.
 - **Contexto acrescentado:** A narrativa de Eva como agente do destravamento da consciência é reforçada: ela ingere poções, destrava a própria consciência e oferece o recurso a Adão. Pandora não é nomeada diretamente neste trecho; a conexão decorre da Base.

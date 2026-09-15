@@ -25,18 +25,19 @@ Na leitura de Jan Val Ellam, um genótipo (GG) associado à gentileza, que teria
 - relação com a herança espiritual no epigenoma (RC-543) e a evolução possível (RC-541).
 
 
-## Ampliação — P2026-07-25
+## Ampliação
+### P2026-07-25
 
 - **P2026-07-25 (referência marginal):** o padrão de "gentileza/dominação" mencionado na palestra permanece em quarentena — sem novos dados nesta fonte.
 
 
-## Ampliação — B040 (Homo Sapiens: da Guerra ao Esporte)
+### B040 (Homo Sapiens: da Guerra ao Esporte)
 
 - **[B040 p. 28]** “de cada três indivíduos somente um tem o gene da gentileza”; “houve época em que esse gene simplesmente não existia no genoma humano.”
 - **[B040 p. 34–35]** “Quando um ‘primeiro humano’ teve… a ideia de ser gentil, o seu DNA pessoal instantaneamente reprogramou o seu código”; evolução vertical (dionisíaca) × horizontal (apolínea / massa crítica).
 - **Quarentena científica + clínica:** genótipos GG/AG/AA e o mecanismo “ideia → DNA” = cronologia interna do autor, jamais diagnóstico nem fato genético validado. Sheldrake (p. 29) = **referência externa**. Sem fusão com P2024-03-03. Fonte **B040** acrescentada na tabela-mestra.
 
-## Ampliação — P2022-11-19 (No Princípio era o Bem! Será)
+### P2022-11-19 (No Princípio era o Bem! Será)
 
 - **[O genótipo GG da gentileza: só ~12.000 anos] (U0008)** «A gente falou no GN Fox P2, mas tem o genótipo GG, que só defuntos humanos de 12.000 anos para cá, alguns defuntos Alguns fósseis têm o genótipo GG no seu genoma, pessoal.» — o genótipo GG (gentileza) só aparece em fósseis humanos a partir de ~12.000 anos; antes disso, ninguém tinha (RC-748 Genótipo da Gentileza; RC-562).
 - **[O genótipo GG não foi Deus que criou] (U0008)** «Porque o genótipo GG não foi Deus que criou.» — a gentileza como construção evolutiva, não dádiva divina; o livre arbítrio como motor da mudança genômica (RC-748; RC-001).
@@ -71,7 +72,8 @@ As datas paleogenéticas (fósseis de 15.000 e 11.000 anos, áreas HR1/HR2) e o 
 
 ---
 
-## Atualização — P2024-09-28 (A Raça Inabalável dos Sethianos Emancipados)
+## Atualização
+### P2024-09-28 (A Raça Inabalável dos Sethianos Emancipados)
 
 - **Genótipos AA/AG/GG detalhados:** "O AA é aquele pessoal grosseiro que não sabe ser gentil nem a pau. O AG é aquele que pode ser gentil ou não, dependendo das circunstâncias. O GG é aquele que é sempre naturalmente gentil";
 - **Dignidade (RC-722) como tempero:** "Faltou a genética ou o tempero da dignidade no genoma humano e, em termos de análise da complexidade redutiva do sistema, sem o tempero, esse sistema genômico não funciona para o Tikun";

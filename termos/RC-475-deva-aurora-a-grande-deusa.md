@@ -23,14 +23,15 @@ A live amplia a antiga ficha: Deva/Aurora não seria simplesmente a primeira ent
 - **Fonte da decisão:** Devolutiva-01 + observação direta do curador.
 
 
-## Ampliação — P2026-07-25
+## Ampliação
+### P2026-07-25
 
 - **Primeiro ser feminino:** surgiu da cólera de todos os deuses do 2º conselho ("a energia raivosa de todos os seres presentes... convergiu para a pessoa de Brahma") — princípio da externalização (RC-768); "surgiu nua e a turma, que nunca tinha visto nada nem parecido, ficou olhando".
 - **Poder apagado:** "o componente feminino produziu tudo... e isso foi absolutamente apagado" (fariseus, viúva enterrada viva com o marido — crítica do autor a costumes).
 - **Relevância:** "é impressionante o poder que essa Deusa Dev ou Aurora tem nessa história" — origem do 2º conselho.
 
 
-## Ampliação — P2026-07-30
+### P2026-07-30
 
 - **[P2026-07-30 — FONTE ORIGINAL] Deva/Aurora, a Grande Deusa (Pergunta 2):** "não há maior mistério dentre as histórias contadas e não contadas do que a emergência, no âmbito do caos, da grande deusa chamada de muitos nomes; a forma mais ancestral que eu conheço de chamar essa figura é o nome Aurora, mas que em sânscrito essa forma mais ancestral é a expressão Deva; então Deva ou Aurora são expressões... do jeito que eu digo 'Brahma é Javé, é a mesma pessoa', então Deva é Aurora, seria a mesma pessoa".
 

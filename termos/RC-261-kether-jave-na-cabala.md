@@ -24,17 +24,18 @@ B013 demonstra que Javé "há muito tempo tenta explicar e entender a sua 'situa
 - **Idioma de origem:** hebraico (כתר = coroa)
 
 
-## Ampliação — P2026-07-25
+## Ampliação
+### P2026-07-25
 
 - **P2026-07-25:** "Javé se sentiu novamente traído e, por isso, introduziu a Cabala (ou 'acabalá' [STT])" — como contramedida à expansão de Krishna na Europa.
 
 
-## Ampliação — P2024-07-14
+### P2024-07-14
 
 - **[P2024-07-14] Kether na lição de Enoque (U0795–U0805):** "vocês criaram Kether, Hochmah, Binah e Yesod, várias sefirot, ou seja, várias emanações dos três principais seres, que são os três da Trimurti" — Kether como a primeira das emanações da Trimurti na explicação de Enoque (lógica humana aplicada à cabala).
 
 
-## Ampliação — B013 (Tzimtzum: O Exílio Forçado de uma Divindade)
+### B013 (Tzimtzum: O Exílio Forçado de uma Divindade)
 
 - **[B013 p. 6]** o Criador na Cabala é **Kether/Javé**; a Criação é Daath.
 - **[B013 p. 72]** em Yetzirah reside “o Criador ‘caído’ Kether, também chamado de ‘Javé’ e de ‘Brahma’.”
@@ -44,16 +45,16 @@ B013 demonstra que Javé "há muito tempo tenta explicar e entender a sua 'situa
 - **Quarentena teológica.** Fonte B013 já estava na tabela-mestra; este bloco só fecha o rastreio de páginas.
 
 
-## Ampliação — P2023-10-14 (A Esquecida Honra dos Anunnaki)
+### P2023-10-14 (A Esquecida Honra dos Anunnaki)
 
 - **[P2023-10-14 · JAVÉ = KETHER, AFIRMADO EM FALA (anterioridade)]** "Então, Javé é que ter, é, a primeira que foi reconstruída aqui dentro." (U0085); "Então ele foi organizou uma árvore da vida dizendo: «Olha, o principal aqui entre vocês que vocês consideram é keter.»" (U0085) — 🆕 anterioridade: P2024-07-14
 - **[P2023-10-14 · AS NOVE RESTANTES RECONSTRUÍDAS NA MATRIX]** "As outras nove são outras nove personif." (U0085)
 
-## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+### P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
 
 - **[P2023-12-03 · KETHER (JAVÉ NA CABALA) NA FALA DE 03/12/2023]** «preparado o humano Jesus para servir a Keter ou javera ou brama.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2023-10-14`); a entrada desta fonte é de **conteúdo**, não de data.
 
-## Ampliação — P2025-05-10 (Mistérios do Apocalipse)
+### P2025-05-10 (Mistérios do Apocalipse)
 
 - **[Getsêmani: velha vs nova aliança] (U0003)** «Você criou essa coisa de velha aliança com os patriarcas, com todos esses que nos que antecederam a história no povo do povo hebreu, judeu.» — no Getsêmani, Jesus opôs a 'nova aliança' (amar) à 'velha aliança' do temor (RC-261); Javé/Kether recusou: 'não tem nada de lhe livrar desse cálice'.
 

@@ -46,7 +46,8 @@ atualizado = "2026-08-16"
 
 [P2024-09-29] O termo não redefine kami nem a taxonomia do Xintoísmo. Amatsukami e a possível forma Kotoamatsukami/Takamimusubi permanecem [REVISAR → CHANCELA 2026-09-06 · F039-L3: AGUARDA-ÁUDIO (STT preservado como falado) — ver nota] onde a STT não é segura.
 
-## Ampliação — P2024-09-29
+## Ampliação
+### P2024-09-29
 
 - **Kami (P2024-09-29):** "o xintoísmo é a religião do Japão, que no fundo é basicamente o culto aos deuses chamado Kami"; "os kami seriam os mais novos, os amatsukami, os mais antigos"; "o takamimusubi representa os deuses primordiais que eram anteriores inclusive aos amatsukami" — a classificação japonesa equiparada ao panteão grego (destaque O-2).
 - **O imperador Yu da China:** "esse rapaz corresponde na história japonesa ao que na história chinesa seria o famoso imperador mítico número um da China, chamado imperador Yu. O imperador Yu era filho de dois seres anfíbios que apareciam no rio Yangtzé e no rio Amarelo: dois dragões aquáticos, ou seja, serpentes teriantrópicas... eles levantavam o rabo serpentino, que tinha umas protuberâncias, tipo tubarão, e tinha uns símbolos, e eles diziam: 'Anota esses símbolos.' E essa relação ficou muito fraternal, até que os dois disseram: 'Nós vamos ter que ir embora daqui da Terra.' Aí os ancestrais dos chineses choraram, pediram para eles não ir, mas eles resolveram então ter um filho e deixar esse filho como primeiro imperador da China. E esse primeiro imperador nasceu com as pernas presas, tipo pinguim — e todas as cerimônias oficiais do governo chinês e japonês até hoje todo mundo anda assim, imitando os primeiros imperadores míticos."

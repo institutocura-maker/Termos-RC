@@ -29,14 +29,15 @@ Quando o corpo morre, o corpo sutil e o eu seriam apropriados pelo espírito. Em
 Mantidos como subtermos de glossário: impressões, hábitos e tendências transportadas entre existências.
 
 
-## Ampliação — P2025-02-15
+## Ampliação
+### P2025-02-15
 
 - **O eu humano é a pérola (P2025-02-15 — destaque C-2):** "existe um meio-termo aí que o eu de cada um de nós repousa. E quer saber quem é mais importante, o espírito ou o eu de cada ser humano? Obviamente que o espiritismo vai dizer que são os espíritos. É, não, pessoal, é o eu de cada ser. E, como os humanos são os mais modernos dessa história, o eu humano é a pérola a ser colecionada no eu espiritual de cada consciência particularizada. O ser humano é, no momento, mais importante do que tudo o que existe somado."
 - **O corpo sutil reencarnante:** "o espírito cede o corpo sutil reencarnante, que traz toda uma condição genética de fórmulas mentais viciadas de vidas passadas, como também traz os sanscaras positivos — fórmulas mentais dos talentos que você já conseguiu em vidas passadas".
 - **O ego pós-morte:** "o eu presente no corpo sutil reencarnante, que acabou de desencarnar — o tipo de ego que ele tinha aqui como ser humano... se isso demora 20 anos e esse ego deixa de ser doente (o que é difícil), o espírito apropria... normalmente é o ego".
 
 
-## Ampliação — P2024-07-14
+### P2024-07-14
 
 - **[P2024-07-14] O cordão e o desdobramento (U0080–U0126):** "o seu corpo tá aqui na Terra, o seu espírito já está nesse lugar. E o que acontece é que, quando esse corpo morre, um cordão entre os dois se desfaz. Aí esse cordão é levado pelo espírito de volta para ele. Na ponta desse cordão vai o seu eu viajando"; "quando nós estamos vivos, o nosso eu se desloca junto com a sensação de deslocamento desse corpo. O que é um truque, porque o nosso eu não precisa do deslocamento do corpo para que ele de fato se desloque. Mas se você mesmo acha que você só se desloca se seu corpo se deslocar, o seu eu jamais irá se deslocar sozinho. Desdobramento. Porque, se pra sua mente aquela possibilidade é impossível, pro seu eu a oportunidade de fazer isso nunca vai existir. Então, é assim que o eu humano é aprisionado na sensação de que ele está aqui dentro".
 
@@ -77,6 +78,7 @@ Mantidos como subtermos de glossário: impressões, hábitos e tendências trans
 ## Observações
 Não equiparar automaticamente a perispírito, alma ou corpo astral de outras doutrinas. A definição é específica da palestra.
 
-## Atualização — P2024-11-09
+## Atualização
+### P2024-11-09
 O Corpo Sutil Reencarnante é relacionado à destinação por ressonância/sensação nas faixas espirituais — RC-726. A relação permanece no plano doutrinário da palestra.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

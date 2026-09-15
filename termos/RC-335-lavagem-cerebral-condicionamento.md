@@ -23,7 +23,8 @@ A lavagem cerebral é o mecanismo pelo qual a Teocracia da Doença (RC-334) se m
 - **Variações:** condicionamento; lavagem cerebral imposta; adestramento; "descondicione-se" (imperativo de Ellam)
 
 
-## Ampliação — B048 (Favor Divino)
+## Ampliação
+### B048 (Favor Divino)
 
 - **[B048 p. 6]** Introdução: a lavagem cerebral “foi e ainda é parte de uma etapa necessária de um processo maior”. Atlan, 20/06/2012.
 - **[B048 p. 14]** “existiram e existem muitas ‘lavagens cerebrais’” que motivam ofertas “em troca de ‘favores divinos’”; não é desse tipo de favor que o livro trata.
@@ -73,7 +74,8 @@ Criador/Javé (RC-041/RC-001); Seres Terrenos (RC-099).
 ## Observações
 Ficha baseada em B048 (obra primária) + apoio de B023/B044. A lavagem cerebral é o mecanismo psíquico da dominação — o antídoto é o "descondicionamento" (lema de Ellam no B023). Cruzar com RC-253 e RC-325.
 
-## Reforço — P2025-02-15
+## Reforço
+### P2025-02-15
 
 A Camuflagem da Realidade — RC-702 — é sustentada por condicionamentos religiosos, culturais, perceptivos e genéticos. A fala associa crenças repetidas a cadeados e travas, sem que isso constitua diagnóstico clínico.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

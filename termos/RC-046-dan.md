@@ -24,14 +24,15 @@ Termo do universo capelino da RC (glossário B031; presente também em B058). No
 - **Obs.:** não confundir com **Danu** (mitologia celta) nem com outros "Dan" da malha — aqui é o mundo capelino de urdidura
 
 
-## Ampliação — B058 (A Revolta do Anjo Decaído)
+## Ampliação
+### B058 (A Revolta do Anjo Decaído)
 
 - **[B058 p. 41 · nota do adaptador, com fonte B031]** "**Dan é um planeta do Sistema de Capela. Era lá que ficavam as naves em que a 'Família Yel' foi criada.** Fonte: 'Painéis Emergentes da Revelação Cósmica — um guia prático para iniciantes - Livro 1', de Raqueyel Braga, editora Nova Egrégora, 2020." (= **B031** — nota da ed. 2022, quarentena institucional.)
 - **[B058 p. 47]** o Grão-mestre: "Integrante Yel Luzbel, 'Primeiro Pesquisador' pertencente à 'família Yel', **do planeta Dan**, do sistema de Capela."
 - **[B058 p. 63]** o retiro de Yel Luzbel: "**Voltei para o meu planeta Dan, escondi-me de todos** e passei a refletir sobre o rumo que a 'causa' estava a tomar."
 - 0 códigos novos (O-3). Quarentena ufológica (O-7).
 
-## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+### P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
 
 - **[P2023-12-03 · DAN NA FALA DE 03/12/2023]** «a lenda dos Turatas de Danã, que ali chegaram das cidades de Hiperbório, ainda existe na base da mitologia. Celto. O Elan R tá na base da mitologia, o innoit dos esquimóis no Alasca. Estata de Danã na base da mitologia celta. E todas essas duas vieram das cidades de Hiperbólio. Uma terceira fonte» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · **⭐ ganho de anterioridade**: nenhuma fonte oral estava registrada nesta ficha; `P2023-12-03` passa a ser a mais antiga.
 

@@ -24,7 +24,8 @@ A abertura das *Crônicas de um Novo Tempo* (B042) situa o livro no contexto da 
 - **Obs.:** o título do livro ("Crônicas de um Novo Tempo") ecoa essa denominação
 
 
-## Ampliação — B042 (Crônicas de um Novo Tempo)
+## Ampliação
+### B042 (Crônicas de um Novo Tempo)
 
 - **[B042 p. 5]** Esclarecimento: “Estamos nos primeiros tempos de uma nova era a qual, particularmente, denomino como sendo a do conhecimento e da espiritualização.”
 - **[B042 p. 6]** Atlan, 04/08/2011. Textos em maioria inéditos; alguns já em jornais, “novo tratamento editorial”; “sem nenhuma ligação com fé ou dogma.” BIBLIO Etapa II ~1999–2002 × 2011/2012 = **`[REVISAR → CHANCELA 2026-09-06 · F040-L4: AVERBADA — origem dos textos × colofon do volume — ver nota]`** de recorte.
@@ -53,7 +54,8 @@ Denominação da fase histórica do ponto de vista do Ellam (Etapa II do pensame
 
 ---
 
-## Atualização — P2022-12-17
+## Atualização
+### P2022-12-17
 
 - **Fonte:** palestra *O Incompreendido Ano de 2012 e a Falsa Noção do Fim do Mundo* — unidades U0915–U0921; U0948–U0955.
 - **Contexto acrescentado:** A transição é associada à passagem da crença para o conhecimento e à necessidade de intencionalidade espiritual, embora a fala afirme que seus efeitos ainda não se concretizaram plenamente.

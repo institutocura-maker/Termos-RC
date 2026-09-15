@@ -23,19 +23,20 @@ Aparece no relato da guerra entre os clãs de Enki e Enlil.
 - **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
 
 
-## Ampliação — P2022-12-17
+## Ampliação
+### P2022-12-17
 
 - **[P2022-12-17 — FONTE ORIGINAL] Nibiru (U0850–U0860):** "as sete armas atômicas que vieram de Nibiru [STT 'Dibiru'] pra Terra... Marduk e que Ninurta, que são os filhos de Enki e Enlil, sabiam onde estava. Eles pegaram essas bombas para resolver o conflito".
 
 
-## Ampliação — B089 (A Revolta do Anjo Decaído)
+### B089 (A Revolta do Anjo Decaído)
 
 - **[B089 p. 64–65 · o planeta em crise]** "**No nosso planeta, que chamamos de 'Nibiru'... a camada que o protege das radiações que vêm do espaço, está a deteriorar-se**... se nada for feito, **Nibiru perderá as suas condições de abrigar vida** e, consequentemente, o nosso povo perecerá."
 - **[B089 p. 65 · o ouro]** "**Este ouro, quando transformado num pó fino, é lançado em cima da camada que protege o nosso planeta**... O mais impressionante é que ela absorve este tipo de material de tal maneira que **se regenera com ele**. Portanto, precisamos voltar à Terra, de tempos a tempos."
 - 0 códigos novos (O-3). Quarentena ufológica CRÍTICA (O-7 — cruzar com a linha RC, jamais fundir). **B089 adicionada às fontes** (Devolutiva O-6).
 
 
-## Ampliação — P2021-05-15 (As Etnias Hiperbóreas e os Anunnakis)
+### P2021-05-15 (As Etnias Hiperbóreas e os Anunnakis)
 
 - **[P2021-05-15 · A AUTOCORREÇÃO DO AUTOR SOBRE A ÓRBITA (material raro de história do pensamento)]** "E C falou muito claramente que a rota eh nada peculiar da órbita de de Nibiro, se modificava a cada vez que ele passava próximo ao sistema solar." (U0010)
 - **[P2021-05-15 · O ESTADO DA OBSERVAÇÃO EM 2021 (Q&A)]** "E assim, nós só vamos ter certeza desses fatos quando nós tivermos telescópios que nos mostrem os confins do sistema solar." (U0010); "Pelas pelas previsões de Z City, você deveria observar Nibiro, então, a cada hora que quisesse naquele ponto." (U0010)
@@ -44,7 +45,7 @@ Aparece no relato da guerra entre os clãs de Enki e Enlil.
 - **[P2021-05-15 · QUARENTENA UFOLÓGICA (a frase que não se amplia)]** "O governo dos Estados Unidos é engraçado, tem a astrônomos aí dizendo que Nibiro não existe e tem grupos de cientistas conversando com a Nunx escondido e que sabe de tudo." (U0010) — [STT: «a Nunx» ≈ os Anunnaki.] Registro apenas.
 
 
-## Ampliação — P2023-10-14 (A Esquecida Honra dos Anunnaki)
+### P2023-10-14 (A Esquecida Honra dos Anunnaki)
 
 - **[P2023-10-14 · A ÓRBITA DE 3.600 ANOS E O «CHARLES» DO STT]** "Então aqui dá 3.600 anos." (U0003); "Você já falou isso em outros vídeos, mas só para registrar aqui, quando foi a última vez que Nibiro passou aqui próximo à Terra?" (U0047) — ⚠️ **Não fixar a data da última passagem**: a resposta é autocontraditória na própria fala («2000 496» / «499» / «6 anos de Cristo»).
 - **[P2023-10-14 · O POUSO EM TRÊS NÚMEROS]** "Pousou na Terra cerca de 450.000 anos atrás, na verdade, segundo eles, 445.000." (U0005); "Ele veio atravessando tudo isso e resolveu abrir caminho no cinturão de asteroides usando bombas nucleares." (U0005)
@@ -81,7 +82,8 @@ O vocabulário controlado já citava Nibiru como exemplo a confirmar, mas não h
 
 ---
 
-## Atualização — P2023-12-02 (Thot, o Enigmático Hermes Trismegisto)
+## Atualização
+### P2023-12-02 (Thot, o Enigmático Hermes Trismegisto)
 
 - **Obliquidade orbital:** "Nibiru, por ter um problema de obliquidade em relação à sua órbita... os planetas todos giram numa espécie de um mesmo plano; já eles quase que perpendicular" — órbita longa, longe do Sol por muito tempo;
 - **Ouro como escudo atmosférico:** "eles precisam do único minério que, colocado sobre uma espécie de repouso no lugar da atmosfera, ficando flutuando em relação a Nibiru, criaria um escudo que manteria a atmosfera sem que esta se esvaísse no espaço";
@@ -90,7 +92,7 @@ O vocabulário controlado já citava Nibiru como exemplo a confirmar, mas não h
 
 ---
 
-## Atualização — P2021-03-27 (Enki, Enlil e o Fim Súbito da Babilônia)
+### P2021-03-27 (Enki, Enlil e o Fim Súbito da Babilônia)
 
 - **Retirada:** "os anunnaki de Nibiru passou, a ideia de Anu era descer, mandar mais gente ainda... ele foi obrigado a dizer: vamos embora, não vai ficar mais ninguém aqui";
 - **Especiação anunnaki:** "a turma que ficou aqui na Terra, decorridos 400.000 anos, adquiriu alguns complementos na sua condição física que ninguém de Nibiru tem, são diferentes";

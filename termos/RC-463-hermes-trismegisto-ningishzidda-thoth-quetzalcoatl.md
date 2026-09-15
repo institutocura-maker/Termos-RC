@@ -23,7 +23,8 @@ No verbete de B060, Hermes Trismegisto é listado como um personagem com múltip
 - **Variações:** Hermes Trismegistus (Latim); Mercúrio Trismegisto
 - **Equivalências (B060):** Ningishzidda (Anunnaki, filho de Enki); Tehuti ou Thoth (Egípcia); Quetzalcóatl (Asteca); Viracocha (Inca)
 
-## Ampliação — P2022-09-17 (A Hipóstase dos Arcontes)
+## Ampliação
+### P2022-09-17 (A Hipóstase dos Arcontes)
 
 - **[Ningizida, o futuro Tot] (U0056)** «Tô falando dos nefelin bíblicos na linguagem sumeriana ou os Anunax na linguagem acadiana.» — os três seres do criatório: "E Enenk e a irmã dele e Ningizida, que viria a ser conhecido mais tarde na cultura egípcia como Tot" (U0056: «E Enenk e a irmã dele e Ningizida, que viria a ser conhecido mais tarde na cultura egípcia como Tot.»); STT «Enenk» (= Enki; RC-460 Marduk = Ra, filho de Enki) e «Ningizida» (= Ningishzidda/Thoth; RC-463 Hermes Trismegisto); RC-488.
 
@@ -59,7 +60,8 @@ Fonte secundária (material de aluno, B060). A conexão Hermes Trismegisto ↔ Q
 
 ---
 
-## Atualização — P2023-12-02 (Thot, o Enigmático Hermes Trismegisto) — FONTE PRIMÁRIA
+## Atualização
+### P2023-12-02 (Thot, o Enigmático Hermes Trismegisto) — FONTE PRIMÁRIA
 
 **Marco:** esta palestra é a **fonte primária** do verbete (antes: B060, material de aluno). Perfil integral do ser:
 
@@ -77,7 +79,7 @@ Descrições biográficas (140–150 mil anos; nascimento; descendência) são *
 
 ---
 
-## Atualização — P2025-11-29 (A Revelação de Ifá e o Destino dos Seres)
+### P2025-11-29 (A Revelação de Ifá e o Destino dos Seres)
 
 - **Tot inventou o alfabeto:** diálogo com o faraó (~4.261 a.C. [STT — `[REVISAR → CHANCELA 10/09/2026 · F039-L5: AGUARDA-ÁUDIO (data STT como falada) — ver nota]`]): "Tot entra na sala do faraó e diz: 'Faraó, tive uma ideia... estou inventando um método de representar em símbolos os sons que as nossas bocas expressam'";
 - **Faraó relutante:** "a gente vai se desacostumar a memorizar tudo e a nossa mente vai ficar indolente, preguiçosa... faraó, quando a gente morre, a gente leva o conhecimento, a gente precisa encontrar uma maneira de deixar isso aqui pros [pósteros]";

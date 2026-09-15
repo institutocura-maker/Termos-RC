@@ -16,12 +16,13 @@ atualizado = "2026-08-19"
 
 O Zohar (Livro do Esplendor) é atribuído pela tradição ao rabino Shimon bar Yochai (séc. II d.C.) — na leitura da RC, o rabino teria recebido de Javé (via anjos) a Otz Chim e informações sobre a Cabalá.
 
-## Ampliação — P2025-05-31
+## Ampliação
+### P2025-05-31
 
 - **Na palestra (P2025-05-31):** no século 2 depois de Cristo, após a morte de Jesus, Javé (pé da vida se achando traído) deu ordens para a Cabalá ser criada; os anjos (com Metatron desativado) apareceram ao rabino Shimon bar Yochai (STT "Shimon Bariokai/Yariosai") e entregaram a Otz Chim e mais uma série de informações sobre a Cabalá; esse rabino agiu da forma mais séria possível e guardou; contraponto à derrota de Javé pela ressurreição de Jesus (e pelos livros via Maria Madalena).
 
 
-## Ampliação — B013 (Tzimtzum: O Exílio Forçado de uma Divindade)
+### B013 (Tzimtzum: O Exílio Forçado de uma Divindade)
 
 - **[B013 p. 6]** os mistérios da revelação “registrada pelo rabino Shimon Bar Yochai, na obra ‘Sepher ha-Zohar’.”
 - **[B013 p. 10]** citação (VAYEHI 21, 8B-9A): “Quando os tempos do Juízo Final estiverem chegados, aparecerá um mensageiro cuja proclamação será ouvida nos 270 mundos da Criação.” O Zohar = “O Livro do Esplendor”.

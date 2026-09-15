@@ -38,7 +38,8 @@ atualizado = "2026-08-16"
 
 [P2024-08-03] Realidades paralelas, cópias e universo antimaterial são cosmologia atribuída a Ellam; não são apresentados como consenso científico estabelecido.
 
-## Ampliação — P2024-08-03
+## Ampliação
+### P2024-08-03
 
 - **[P2024-08-03] Vampiros ancestrais (U0864–U0876):** pergunta da plateia sobre vampiros/lobisomens em realidades paralelas; resposta: "não tem aqui na terra vampiro, mas tem dois níveis: tem nesse universo vizinho ainda tem vampiro ancestral e nas cópias paralelas, em realidades, em loops"; felinos bípedes em outros mundos (origem Pulaha); "no caso dos vampiros, no caso dos lobisomens, não, porque foi bloqueado. Alguém bloqueou? Muito provavelmente Krishna bloqueou, mas isso é uma outra história".
 - **[P2024-08-03] O êxodo dos espíritos (U1086–U1096):** com o fim do universo vizinho, "essa malta de espíritos vai perder seus corpinhos de plasma de urso, de leão, de meio leão, meio humano... e cada uma vai vindo"; muitos virão em espírito; "os que têm tecnologia já estão vindo agora vivos"; relatos de pessoas com sensações de "se sentir um cachorro" [quarentena clínica].

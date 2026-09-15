@@ -23,12 +23,13 @@ Surge após a externalização da cólera: o desejo coletivo dos deuses de levar
 - **Fonte da decisão:** Devolutiva-01 + observação direta do curador.
 
 
-## Ampliação — P2026-07-25
+## Ampliação
+### P2026-07-25
 
 - **Cama = Kama (STT "Cama"):** egrégora do desejo criada por Vishnu a partir da influência de Aurora — "eu tenho em mim essa força que Vishnu criou vindo de Aurora"; flecha do cupido/Eros; Cama Sutra (referência do autor); desejo que rompe a desconfiança entre os deuses.
 
 
-## Ampliação — P2024-08-03
+### P2024-08-03
 
 - **[P2024-08-03 — destaque O-2] Cama/Eros (U1585–U1598):** "Vishnu resolveu criar uma expressão avatarica dele mesmo chamado Cama, ou o Eros novo na mitologia grega"; "esse Cama criou uma energia que fizesse com que a desconfiança que separava os seres fosse superada por outra energia que unisse esses seres"; "foi quando ele e Shiva viram que a energia sexual faria isso. Só a sexual poderia fazer isso. Criaram a tesão"; "Cama foi quem criou o Kama Sutra na condição".
 

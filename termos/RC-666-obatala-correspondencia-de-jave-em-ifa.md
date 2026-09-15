@@ -22,12 +22,13 @@ P2025-06-26 — 1ª Edição Estagiários do Kaos.
 Forma preferida: **Obatalá (correspondência de Javé em Ifá)**.
 
 
-## Ampliação — P2026-07-25
+## Ampliação
+### P2026-07-25
 
 - **Obatalá = Javé (P2026-07-25):** "Jafé ou Obatalá pediu a Orumilá para criar revelação de Ifá" (STT "Jafé/Jahé") — renovação do Ifá como contramedida à expansão de Krishna na África.
 
 
-## Ampliação — P2025-06-26
+### P2025-06-26
 
 - **[P2025-06-26 — FONTE ORIGINAL] Obatalá = Javé caído (pergunta 8):** "Obatalá, que é o Javé caído reconstruído, pediu: 'Rapaz, me arranje comida'"; "se vocês lerem a Revelação de Ifá, vocês vão ver que Obatalá implorou a Orunmilá para ele fazer a revelação de Ifá, para ele produzir o ifismo; só que depois ele mudou de ideia, resolveu fazer o Islã, e por isso que Orunmilá largou a revelação de Ifá e ela se transformou em orixás"; "é uma história cheia de vai e vem".
 
@@ -59,7 +60,8 @@ Correspondências culturais são atribuídas à leitura de Val Ellam, não a con
 
 ---
 
-## Atualização — P2025-11-29 (A Revelação de Ifá e o Destino dos Seres) — FONTE PRIMÁRIA
+## Atualização
+### P2025-11-29 (A Revelação de Ifá e o Destino dos Seres) — FONTE PRIMÁRIA
 
 **Marco:** fonte primária definitiva do verbete (antes: live P2025-06-26, ficha minimalista).
 

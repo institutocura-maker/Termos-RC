@@ -23,12 +23,13 @@ Primeira vestimenta espiritual dos desdobramentos paradisíacos, permitindo ao e
 - **Fonte da decisão:** Devolutiva-01 + observação direta do curador.
 
 
-## Ampliação — P2025-05-31
+## Ampliação
+### P2025-05-31
 
 - **Corpo búdico (P2025-05-31):** "o corpo consciencial búdico, que é o que toma consciência das coisas de um modo diferente do corpo átmico" — uma das duas vestimentas espirituais do ser que desce do paraíso.
 
 
-## Ampliação — P2024-07-14
+### P2024-07-14
 
 - **[P2024-07-14] O corpo búdico (U0140–U0200):** "se eu tenho posturas elegantes e não explodo emocionalmente e ajo com um padrão de elegância, eu marco esses arquivos aqui no búdico emocional superior"; a dignificação passa por trabalhar o "corpo búdico superior e o corpo manásico superior, ou seja, o emocional e o mental superior"; o padrão superior: "compaixão universal, tolerância, integridade emocional associada ao padrão de integridade intelectual no campo do tirocínio e da lucidez".
 
@@ -63,11 +64,13 @@ Termo candidato de origem também presente em doutrinas orientais; a ficha regis
 
 **Regra de status:** fonte recente em STT sem áudio anexado; manter candidato salvo status prévio do termo mesclado.
 
-## Reforço — P2025-02-15
+## Reforço
+### P2025-02-15
 
 O Corpo Búdico integra a Tríade Imortal e participa da arquitetura usada para explicar o Bhavaṅga e a sintonia com o eu espiritual.
 
-## Ampliação — P2024-03-02 (O Drama Espiritual de Jesus)
+## Ampliação
+### P2024-03-02 (O Drama Espiritual de Jesus)
 
 - **[Corpo búdico — projeção vs mergulho integral]:** «Aqui temos, portanto, prestem bem atenção, a parcela átmica, mas abúdica de um ser projetado, que terminou criando um eu ancorado em corpos búdicos e manásicos projetados, personagem chamado Prabrajna no laboratorial.» — «Detalhe, como eu disse para vocês, búdico projetado é bem diferente de búdico integralmente mergulhado.» — «O corpo búdico tá em coma.» — ver RC-152 (Prabrajna), RC-623 (Corpo Átmico), RC-625 (Corpo Manásico).
 

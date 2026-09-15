@@ -60,16 +60,17 @@ editada por este ciclo.
 - **Vetado** (devolutiva de 29/08/2026, D-4): nenhuma das máscaras do STT (`p****`, `m****`, `b******`, `e******`)
   transita para esta ficha. As nove ocorrências ficam na apostila, com a moldura, onde o leitor vê que são máscara.
 
-## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+## Ampliação
+### P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
 
 - **[P2023-12-03 · ALT´LAM GRON NA FALA DE 03/12/2023]** «fizeram a experiência Alto Longró e se astralizaram junto. Se astralizaram, não é? Termina sendo. Passaram a viver dentro dessa nave e essa nave pulou umita para cima e continuou flutuando sobre o Oceano Atlântico Norte. Até hoje ela tá lá. E cerca de 900, quase 1000 seres dentro da nave, que é o» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
 - **[P2023-12-03 · A NAVE, O CENSO E A VISITA DATADA]** «Sofia esteve aqui nos anos 2018, 19 lá em Alto Longron, ou seja, na tal nave pequenininha dos Wall, onde cerca de 938 figuras aí estão e o processador Vol está lá.» (U0004) — D-10: materialização autorizada. A fonte entrega o que o cadastro não tinha: a grafia em quatro formas, o censo da nave (~1.000 → 938 a bordo, uns 600 e poucos na Terra) e **um evento datado** — a presença de Sofia ali em 2018-19. Nada é harmonizado com os 936/984 de ciclos anteriores: divergência selada (D-9).
 
-## Ampliação — P2018-12-15 (Terra Atlantis – Aprofundamento)
+### P2018-12-15 (Terra Atlantis – Aprofundamento)
 
 - **[Alt Lam Gron, a alteração de 19.700 anos] (U0003)** «Essa ilha foi vista durante milênos como essa essa mudança, essa camuflagem que a nave esfer aplicou a ela mesmo numa alteração chamada Al Langron lá na antiguidade.» — Alt Lam Gron (RC-018): a camuflagem 'Al Langron' que a nave esfera aplicou a si mesma há 19.700 anos, entre Inglaterra e Irlanda.
 
-## Ampliação — P2022-09-25 (O Contexto Espiritual da Construção de Brasília)
+### P2022-09-25 (O Contexto Espiritual da Construção de Brasília)
 
 - **[A cidadela de Alt'Lam Gron e a nave Esferon] (U0003)** «Na verdade é a nave Esferon com cerca de 900 e pou seres lá dentro que até hoje existe, como eu disse, e fica a oeste da Irlanda.» — a nave Esferon/Alto Langron (RC-018 Alt'Lam Gron): "essa cidadela de Alangron, que a nave esfer dos V, passou a existir então com 983 membros, sendo 115 da família V, 617 L e por aí vai" (U0003: «000 anos, essa cidadela de Alangron, que a nave esfer dos V, passou a existir então com 983 membros, sendo 115 da família V, 617 L e por aí vai.»); Ielreasil e Iel Breasiel (STT "Iel Breasiel/El Breziel/Yel Brasil") "não se astralizaram, também não se submeteram a tal experiência gr" — "Desde 22.000 anos, essa cidadela de Alangron... passou a existir"; "a ilha que os rebeldes viviam nela... passou a ser conhecida como a terra de Brass, o lugar de Br" (U0003: «Aquela ilha voadora que mudava de lugar e que da Irlanda se enxergava, passou a ser conhecida como a terra de Brass, o lugar de Br, para onde Br ia quando ele não tava na Irlanda.»).
 

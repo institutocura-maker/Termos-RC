@@ -33,7 +33,8 @@ Com isso:
 * **Materialização imediata (devolutiva):** RC-858 (Desígnios Proféticos / Placas de Sinalização) sai da fila aberta e ganha ficha (ficha=False → True) com a pérola validada neste ciclo (a interpolação posterior como método).
 * **Trava aplicável**: nenhuma além das gerais do despacho.
 
-## Ampliação — P2022-11-20 (A Incompreendida Nova Aliança proposta por Jesus)
+## Ampliação
+### P2022-11-20 (A Incompreendida Nova Aliança proposta por Jesus)
 
 - **[A interpolação posterior nas escrituras] (U0040)** «Isso foi uma manipulação feita posteriormente, porque esse é o drama desses livros.» — sobre a profecia de Isaías quanto à ressurreição: "a frase ressurreição na época em que Isaías viveu, ela não foi efetivamente colocada nesses termos" — "Isaías não sabia da ressurreição, não sabia da crucificação. Mas de fato tá lá escrito"; o mesmo critério para os livros de Enoque: "O Enoque nunca escreveu, nunca chamou esse pessoal de santo, mas na tradução que foi feita depois que o catolicismo surgiu, a turma vai e coloca São Miguel, São Rafael. Então isso é uma interpolação posterior aos fatos" (U0040: «O Enoque nunca escreveu, nunca chamou esse pessoal de santo, mas na tradução que foi feita depois que o catolicismo surgiu, a turma vai e coloca São Miguel, São Rafael.»); "Javé não conseguia prever isso no big data, mas outras entidades sim" (U0039: «Então, podemos imaginar que Javé não conseguia prever isso no big data, mas outras entidades sim.»).
 

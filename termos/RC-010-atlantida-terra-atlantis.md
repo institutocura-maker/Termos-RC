@@ -33,7 +33,8 @@ Com isso:
 * **Grafia STT:** 'a única nave que sobrou' / 'está camuflada como se fosse uma ilha' = Terra Atlantis. A nave esfera disfarçada de ilha/paraíso terrestre.
 * **Trava aplicável**: nenhuma além das gerais do despacho.
 
-## Ampliação — P2018-12-15 (Terra Atlantis – Aprofundamento)
+## Ampliação
+### P2018-12-15 (Terra Atlantis – Aprofundamento)
 
 - **[a nave esfera camuflada de ilha] (U0003)** «Porque hoje a única nave que sobrou das diversas que chegaram aqui na Terra vindas do Advento da rebelião de Lúcia.» — Terra Atlantis (RC-010): a única nave que sobrou da rebelião de Lúcifer camuflada como ilha — origem dos mitos do paraíso, da idade de ouro e dos campos elísios.
 

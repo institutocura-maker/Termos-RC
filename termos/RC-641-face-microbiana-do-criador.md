@@ -22,7 +22,8 @@ Vincula-se à obra B064 A Ordenação do Caos e às transições de fase.
 - Grafia: Face Microbiana do Criador.
 
 
-## Ampliação — P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
+## Ampliação
+### P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
 
 - **[P2022-03-26 · FACE MICROBIANA DO CRIADOR NA FALA DE 26/03/2022]** "Daqui a um mês sai um livro chamado Além da Ordenação do Caos, a face virótica do Criador, em que nesse livro eu vou explicar a fundo algumas questões Eu não vou falar aqui na palestra porque eu vou ter que falar sobre o problema de Javé." (U0020) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⭐ **NOTA DE ANTERIORIDADE — P2022-03-26:** antecipa **25 meses** a atual fonte oral mais antiga da ficha (`P2024-05-04`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
 

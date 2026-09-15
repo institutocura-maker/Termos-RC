@@ -24,14 +24,15 @@ Arquitetura tripla da condição humana: faísca divina que sustenta, faísca ge
 A fala admite faíscas adicionais construídas na vida interior, mas sem taxonomia fechada.
 
 
-## Ampliação — P2024-11-30
+## Ampliação
+### P2024-11-30
 
 - **As Três Faíscas (P2024-11-30 — destaque M-2):** "a humanidade tem duas faíscas que a movimenta: uma que a sustenta, mas não movimenta (o corpo sagrado), e essa faísca doentia do corpo de Javé. Mas eu tenho três faíscas. Algumas pessoas nessa sala têm [três]. Outros têm quatro faíscas — essas outras são as que são construídas na vida interior de um ser humano, não na vida agitada do primeiro impulso."
 - **A 2ª faísca = genoma:** Richard Dawkins ("O Gene Egoísta" — "a ditadura dos genes"); "se você agir no primeiro impulso, eles mandam"; "essa segunda faísca que nos move é o genoma".
 - **A 3ª faísca = eu profundo:** "o seu eu humano, que cria despertar o eu profundo, que é esse eu que age aqui no segundo, terceiro impulso"; "quando você aprende a observar e agir no segundo impulso, aqui você tem livre arbítrio. Porque, se você agir no primeiro impulso, são as memórias que recebeu de papai e mamãe e o fluxo da vida".
 
 
-## Ampliação — P2024-07-14
+### P2024-07-14
 
 - **[P2024-07-14] A semente e a ponte (U0905–U0925):** "Deus, esse ser perfeito, ele deu a semente dele para estruturar a constituição septenária de cada ser individualizado; ele pulsa o tempo inteiro. Mas, se o eu desse cérebro não perceber, se o eu transitório não perceber a fragrância desse ser, que está lá no seu íntimo, ele vai continuar existindo, mas o seu eu nunca vai estabelecer uma ponte com ele"; "primeiro você precisa compreender, identificar isso aqui, ser o seu eu, o gestor de todos os arquivos disso aqui. Esse eu humano tem que se tornar um svami [STT: 'suami'], ou seja, alguém unificado com o eu espiritual produzido pelos corpos búdico e manásico"; "o eu do espírito e o eu humano funcionam como dois polos... ou sendo parceiros de um processo. As religiões não sabem bulhufas a respeito disso. Só as disciplinas de meditação budista, as linhas do yoga tradicional, coisas como Mentalma".
 

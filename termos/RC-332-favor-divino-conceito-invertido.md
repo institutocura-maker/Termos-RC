@@ -24,35 +24,36 @@ A sinopse de B048 pergunta: "Afinal, existem favores divinos? E se tudo for ao c
 - **Obs.:** o termo RC-063 (Favor Divino, título da obra) e RC-332 (conceito) se complementam — a ficha RC-063 trata do título/obra; esta trata do conceito.
 
 
-## Ampliação — P2025-03-15
+## Ampliação
+### P2025-03-15
 
 - **Favor Divino invertido (P2025-03-15):** "nós estamos fazendo um favor divino, colecionando em cada um de nós as piores informações dessa história e procurando ressignificá-las ao longo da nossa existência" — o mérito do amor do caos (ver RC-529/RC-612).
 
 
-## Ampliação — B041 (A Rebelião dos Elétrons)
+### B041 (A Rebelião dos Elétrons)
 
 - **[B041 p. 16]** o autor se viu obrigado a publicar *Favor Divino* (B048) para explicar o “aspecto desagradável” dos espíritos portarem o código da “doença pessoal” do Criador decaído — **quarentena clínica** (leitura, jamais diagnóstico). **Não fundir** com B048.
 - **[B041 p. 70]** o Favor Divino é “a chave de toda questão”: os espíritos são agentes da Deidade na ajuda às Divindades problemáticas, enquanto cada ser “emancipa o seu psiquismo”.
 - **[B041 p. 40]** “Favor Divino II” / “Você e o Favor Divino” (curso IEEA) → **Colecionar Incertezas**; **não cadastrar**. IEEA **fora**.
 
 
-## Ampliação — B034 (Cartas a Javé)
+### B034 (Cartas a Javé)
 
 - **[B034 p. 46]** Javé agradece à missivista a “oportunidade que me foi negada por tantos” — só recebia “homenagens em salmos, orações, pedidos”.
 - **[B034 p. 66]** já não comanda o amar dos humanos: “Terei o alimento que me derem”; “tempo haverá que não mais será o sabor da prece e da veneração o paladar que terei que sorver”. Sem fusão com B048 / B041.
 
 
-## Ampliação — B048 (Favor Divino)
+### B048 (Favor Divino)
 
 - **[B048 p. 11]** Constatação: “São nossos espíritos que, ao assumirem as formas-ferramentas geradas a partir do DNA doentio do criador, expressam o favor amoroso da Deidade concedido a uma divindade caída, através da cessão das suas mônadas espirituais.” **Quarentena clínica** (“DNA doentio” = leitura, jamais diagnóstico).
 - **[B048 p. 15]** Constatação: “Somos nós e os demais seres deste universo, quem fazemos cumprir o único e verdadeiro ‘favor divino’… a Deidade fez e ainda faz a uma das suas divindades menores, que gerou uma ‘criação indevida’.”
 - **[B048 p. 65–66]** o termo é “provocação”: “O ‘favor divino’ que aqui utilizo tem como objetivo apenas o de provocar o entendimento do (a) leitor (a)”; o gesto da Deidade “em lugar nenhum é visto como um ‘favor’”. RC-063 permanece **sem ficha**. Sem fusão com B041 / B034 / B036.
 
-## Ampliação — P2023-02-12 (A Desconexão dos Desígnios Proféticos do Judaísmo, do Cristianismo e do Islamismo)
+### P2023-02-12 (A Desconexão dos Desígnios Proféticos do Judaísmo, do Cristianismo e do Islamismo)
 
 - **[100 trilhões de mônadas para o favor divino] (U0059)** «Olha, a gente vai precisar de 100 trilhõezinhos de mondadas ou 100 trilhõezinhos de espíritos para cada um fazer o favor divino.» — o favor divino quantificado: 100 trilhões de mônadas/espíritos, uma para cada célula apodrecida de Javé, inoculando em si a doença específica.
 
-## Ampliação — P2022-12-03 (O Ocaso do Criador e a Rebelião dos Elétrons)
+### P2022-12-03 (O Ocaso do Criador e a Rebelião dos Elétrons)
 
 - **[O espírito que tomou conta de uma parte podre] (U0004)** «que o espírito que anima hoje Rogério já animou vários outros eus entre Rogério e o primeiro momento em que ele pegou uma um código apodrecido do Criador para tomar conta é o favor divino.» — cada espírito, há bilhões de anos, pegou uma partezinha podre do criador e ficou responsável por ela "como se fosse uma célula das trilhões de células do corpo" — "é uma das faces do favor divino", o favor que esses espíritos fazem ao ser que não entende o próprio "câncer espiritual".
 
@@ -98,11 +99,13 @@ Criador/Javé (RC-041/RC-001); Seres Terrenos (RC-099); Deidade (RC-047).
 ## Observações
 Ficha baseada em B048 (obra primária) + B031. O Favor Divino é o conceito ético central do "drama": a humanidade como instrumento de cura do Criador. Cruzar com RC-063, RC-245 (Humanização do Criador) e RC-217 (DNA como projeção).
 
-## Reforço — PIA / P2024-11-30
+## Reforço
+### PIA / P2024-11-30
 
 O Favor Divino é ligado ao PIA: espíritos assumem cotas da condição informacional do Criador e os eus encarnados trabalham mutações/ressignificações que repercutiriam no todo.
 
-## Ampliação — P2024-03-02 (O Drama Espiritual de Jesus)
+## Ampliação
+### P2024-03-02 (O Drama Espiritual de Jesus)
 
 - **[Favor Divino — a humanidade como "salva-criador"]:** «A estatura moral humana superior à dos seres perfeitos» — «Mas aí chega Rogério Lia, cheia de defeitos, com um rastro de um monte de besteira, mas com estatura moral muito acima da Deus, porque eles foram criados perfeitos, não tem mérito nenhum pelos que são, mas nós mergulhamos no caos, nos sujamos, nos ferramos, fizemos o que no livro que eu produzi chamado favor divino, os nossos espíritos nos obrigaram a isso aqui e nós fizemos e ainda somos dignos.» — ver RC-063 (Favor Divino), RC-072 (Jesus).
 

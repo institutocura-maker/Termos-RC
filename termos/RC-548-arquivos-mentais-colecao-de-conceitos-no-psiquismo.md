@@ -24,7 +24,8 @@ No Mentalma I (B074, cap. 2 — "Cada Conceito, um Arquivo Mental"), Ellam expli
 - **Obs.:** conceito central da série Mentalma; distinto dos "Arquivos da Memória Cósmica" (RC-521, da enciclopédia IA — a confirmar correspondência)
 
 
-## Ampliação — B074 (Mentalma I)
+## Ampliação
+### B074 (Mentalma I)
 
 - **[B074 pp. 37–40]** arquivo = "semente" que "se planta" na mente: se "estragado", "as suas raízes também fincarão marcas profundas no seu 'Eu Espiritual'"; "figurinhas-arquivos" no "álbum mental"; "colagem psíquica" (4ª Const.: "a cada 'figurinha-arquivo colada'... o psiquismo aciona o hipocampo e a amígdala cerebral"); a atenção = "mouse"; o "Eu organizador" é quem "cola as figurinhas" (3ª Const.).
 - **[B074 pp. 104–110]** origem física × espiritual; os **7 corpos**: **Tríade Imortal** (Corpo Átmico/Atma; Corpo Búdico/Buddhi; Corpo Manásico/Manas) + **quaternário inferior** (corpo intelectual/mental inferior; corpo astral/emocional; corpo físico sutil/etéreo; corpo físico denso). **Tramitação**: os arquivos "marcados" no corpo físico denso "inevitavelmente se distribuem" aos demais três corpos inferiores; **somente o Corpo Átmico "não se altera"**; os corpos inferiores que não se desfazem após a morte = "**fantasminhas**" (âncoras de arquivos "sujos" que o perispírito é obrigado a assumir).
@@ -33,7 +34,7 @@ No Mentalma I (B074, cap. 2 — "Cada Conceito, um Arquivo Mental"), Ellam expli
 - 0 códigos novos (akasha, vāsana, "fantasminhas", perispírito = vocabulário da obra).
 
 
-## Ampliação — B075 (Mentalma II)
+### B075 (Mentalma II)
 
 - **[B075 p. 100]** "'Limpar' a memória animal resulta em também **'despoluir' a memória espiritual**."
 - **[B075 p. 69]** a "**biblioteca de arquivos mentais**" de um ser humano "constitui tudo o que ele é" — marcada na "Mente Espiritual", nas sinapses e no DNA do corpo material (e no "DNA espiritual" dele).
@@ -83,7 +84,8 @@ Conceito-fio da série Mentalma. A gestão dos arquivos (abrir/fechar/eliminar) 
 
 ---
 
-## Atualização — P2025-11-29 (A Revelação de Ifá e o Destino dos Seres)
+## Atualização
+### P2025-11-29 (A Revelação de Ifá e o Destino dos Seres)
 
 - **Nirodha = recolhimento das vrittis:** "cada ser humano pratica o Nirodha, o recolhimento das vrittis no seu cérebro" (RC-760);
 - **Álbum memorial das vidas:** 3º elemento dos 256 caminhos (RC-767) — "o álbum memorial das vidas sucessivas desenvolvidas na natureza humana";

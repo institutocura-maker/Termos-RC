@@ -16,25 +16,26 @@ atualizado = "2026-08-18"
 Critério ético proposto na palestra para avaliar crenças, poderes e ações: quando uma consciência não se preocupa com a dignidade do outro, sua grandeza declarada não elimina o abismo entre poder e consciência.
 
 
-## Ampliação — P2026-07-25
+## Ampliação
+### P2026-07-25
 
 - **Kant e Sócrates:** Kant — dignidade = aderir aos próprios valores e viver com coerência ("a sua insignificância se torna uma bomba atômica"); Sócrates (RC-406) — recusa da corrupção (fuga da prisão): "prefiro morrer a me sujar".
 - **Pulsação digna (absorvida):** a pulsação que sai de um ser humano detém "todas as senhas de abertura de portais interdimensionais"; emite fragrância ao entrelaçamento quântico dos elétrons (metáfora do autor).
 - **Cisne negro (RC-192):** a dignidade como "o pior cisne negro" para os arcontes — não conseguem entender um ser que dá a vida por honra.
 
 
-## Ampliação — P2024-02-25
+### P2024-02-25
 
 - **Sócrates e os 'melhores eus' (P2024-02-25):** 'eu passei minha vida inteira lutando contra a corrupção e eu vou usar a corrupção para salvar a minha vida? Eu prefiro perder a minha vida.' — 'alguns homens e mulheres conseguiram sozinhos, pagando o preço, criar neles próprios sensações das quais o eu deles não podia abrir mão, sobra de se sentir descaracterizado.'
 - **Não se hospedam em corpo transitório:** 'esse tipo de eu é tão, tão elevado que não se hospeda num corpo transitório'.
 
 
-## Ampliação — P2025-03-15
+### P2025-03-15
 
 - **Sócrates e o herói (P2025-03-15):** "Sócrates conseguiu corromper os guardas... 'mas eu passei minha vida inteira falando mal de corrupção. Como é que eu vou encerrar minha vida se eu ceder?'" — o sobreviver a qualquer custo como corrupção; a dignidade como genótipo novo construído por alguns humanos.
 
 
-## Ampliação — P2024-11-09
+### P2024-11-09
 
 - **Hannah Arendt e a banalidade do mal (P2024-11-09):** "Arendt cunhou a expressão 'banalidade do mal' no relatório de 1963 sobre o julgamento do nazista Adolf Eichmann em Israel... um burocrata brando, distante, preocupado apenas com a eficiência do serviço; terrivelmente normal"; "a pergunta sobre se alguém pode fazer coisas terrivelmente más sem ser terrivelmente mau vaga sem resposta"; "regimes brutalmente totalitários produzem agentes irreflexivos, pessoas incapazes de pensar do ponto de vista da outra"; "para mim, não existiu nada mais tenebroso e escabroso do que perceber que Javé e seus anjos sempre se acharam terrivelmente normais... os avatares se acham normais. A banalidade do mal apresenta em tudo."
 
@@ -44,13 +45,13 @@ Critério ético proposto na palestra para avaliar crenças, poderes e ações: 
 - **"Eu venci o mundo" (Jesus):** "ele venceu como [quem] se mantém aceso, livre e decente".
 
 
-## Ampliação — P2024-08-03
+### P2024-08-03
 
 - **[P2024-08-03] O cerne (U0051; U0799):** "o cerne das coisas, na minha opinião, chama-se dignidade"; "nós só podemos construir duas coisas nessa história: pacificação pessoal e senso de dignidade própria"; "só assim você se [liberta] em relação a tudo isso, ainda que continue a fazer parte disso".
 - **[P2024-08-03] O eu digno e o espírito (U1683–U1715):** "você tem dignidade, seu espírito nenhum"; "o espírito não tem a sensação de dignidade... ele foi criado para fazer o jogo sujo de preparar corpos dentro do aquário"; “se você sai com o eu digno [STT: “eu de Tat digno” — REVISAR → CHANCELA 10/09/2026 · F039-L5: AGUARDA-ÁUDIO (hapax) — ver nota], o espírito que lhe anima é totalmente submisso a você"; "o espírito assume a face da experiência humana... por karma negativo ou por reconhecimento meritório"; "o espírito não evolui por ele mesmo, ele evolui através das experiências que ele provoca no aquário".
 
 
-## Ampliação — P2024-07-14
+### P2024-07-14
 
 - **[P2024-07-14] A definição operacional (U0035–U0060):** "a dignidade de um ser se expressa frente ao alinhamento entre a expressão elétrica dos pensamentos que movem aquela consciência, associada às expressões emocionais magnéticas que são emanadas daquele ser. Se houver coerência nessas duas componentes, aí sim a sensação de dignidade desse ser frente a si mesmo dá autoridade moral, dá um impulso, dá uma turbinada na expressão que sai desse ser, porque isso é verdadeiro nele"; "dignidade não é algo associado ou atrelado à crença religiosa, nem a discurso".
 - **[P2024-07-14] A consciência dignificada (U0431–U0451):** "é um eu que já não dá trabalho a ninguém, que cuida de si mesmo e ainda cuida dos outros, sem dono de nenhuma verdade, que abraça budista, maometano, ateu, católico, sem achar um melhor que o outro. Ou seja, é uma consciência desprovida de padrões de intolerância, que acolhe todos no seu coração, mas que mantém a sua chama pessoal lúcida, o tirocínio limpo e a sua atitude emocional superior no campo da compaixão para todos, e é 100% responsável pela sua pulsação espiritual"; "não fique esperando que Jesus, Maomé, Krishna, Deus, ou seja lá quem for, pulse por ele"; "a gente aprende a ser assim é aqui, e leva para lá esse comportamento. Lá não tem como se aprender porcaria nenhuma".
@@ -122,14 +123,15 @@ Critério ético proposto na palestra para avaliar crenças, poderes e ações: 
 > “Se não tiver preocupação com o aspecto da dignidade, tem alguma coisa errada com essa crença.”
 
 
-## Ampliação — P2024-03-17
+## Ampliação
+### P2024-03-17
 
 **Fonte:** palestra «A Quem Pertence o Planeta e a Biblioteca Genômica Mais Atualizada do Universo» (17/03/2024).
 
 **Trecho verbatim:** «Quando um ser humano acende em si mesmo a pulsação da dignidade e quando isso é honesto na pessoa, eles perdem totalmente a condição de se aproximar. daquele ser humano e mexer, porque a pulsação daquele ser humano cria um campo protetor ao redor do ser humano que impede de jáé a qualquer anjo ou qualquer ser ou espírito que seja e mexer no que de mais entre aspas importante existe naquele corpo que é o código genético.»
 
 
-## Ampliação — P2024-02-04
+### P2024-02-04
 
 **Fonte:** palestra «A Falsa Queda do Ser Humano e a Indignidade Entronizada como Religião» (04/02/2024).
 
@@ -149,7 +151,8 @@ Critério ético proposto na palestra para avaliar crenças, poderes e ações: 
 
 ---
 
-## Atualização — P2024-09-28 (A Raça Inabalável dos Sethianos Emancipados)
+## Atualização
+### P2024-09-28 (A Raça Inabalável dos Sethianos Emancipados)
 
 - **Dignidade como tempero genético:** "Faltou a genética ou o tempero da dignidade no genoma humano e... sem o tempero, esse sistema genômico não funciona para o Tikun";
 - **Marco dos setianos:** "pode faltar tudo no genoma deles, menos a sensação de dignidade... sentir-se digno, os setianos, os gnósticos";

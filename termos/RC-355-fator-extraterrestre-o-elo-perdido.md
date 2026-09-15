@@ -23,14 +23,15 @@ O capítulo 12 de B005 ("A Busca do Elo Perdido: O Fator Extraterrestre") argume
 - **Variações:** o elo perdido; componente extraterrena; fator ET (jargão)
 
 
-## Ampliação — B042 (Crônicas de um Novo Tempo)
+## Ampliação
+### B042 (Crônicas de um Novo Tempo)
 
 - **[B042 p. 105]** *Espíritos e Extraterrestres*: hipótese de desencarnados + visitantes de outros mundos que, “quando próximos ao nosso planeta, projetam-se com seus corpos especiais nos ambientes astrais”. **Quarentena ufológica** (leitura, não fato).
 - **[B042 p. 105–106]** na codificação espírita “não era possível se referir a esses seres”; a ausência de ETs em Kardec gerou dogmas — Kardec = **referência externa**; RC-190 sem ficha.
 - Sem fusão com B005. Naves / avistamentos **fora** da malha como evento validado.
 
 
-## Ampliação — B005 (Fator Extraterrestre)
+### B005 (Fator Extraterrestre)
 
 - **[B005 p. 4–5]** Esclarecimento (Atlan, 16/02/2004 — voz de Ellam): o «fator extraterrestre» ficou «sempre à margem dos "estudos sérios"»; «parece termos perdido o elo» com um passado lido pela «ótica viciada do presente». O tema «extraterrestre» virou «sinônimo de loucura, alucinação etc.», sendo «o fator mais importante das nossas vidas». «Orgulho doentio» = **quarentena clínica** (leitura, jamais diagnóstico).
 - **[B005 p. 105]** cap. 12: «Eis o elo perdido: a componente extraterrena na nossa história que responde pela nossa origem.» **Quarentena ufológica** (leitura do autor, não facto validado). Sagan / Crick = **externas**. Qumran / Israel / Jordânia (p. 108–110) = **político — fora**.

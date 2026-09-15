@@ -23,7 +23,8 @@ A Genética da Confiança é o contraponto do **Germe da Desconfiança** (RC-244
 - **Variações:** efeito confiança; configuração genética da confiança; genética do amor
 
 
-## Ampliação — B040 (Homo Sapiens: da Guerra ao Esporte)
+## Ampliação
+### B040 (Homo Sapiens: da Guerra ao Esporte)
 
 - **[B040 p. 9–10]** “gene da desconfiança” impede unicelulares de se unirem; “gene da confiança” só surge “muito tempo mais tarde.”
 - **[B040 p. 18–19]** hormônio da confiança (oxitocina) e “genes da gentileza” tornam possível “direcionar a sua força para a prática esportiva saudável.” **Quarentena científica** (oxitocina/OXTR = citação, não validação).

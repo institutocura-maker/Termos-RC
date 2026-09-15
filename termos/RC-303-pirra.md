@@ -24,7 +24,8 @@ No B087 (psicografia de Jeane Miranda — versão paralela às obras primárias 
 - **Obs.:** no livro, o nome é traduzido como "aquela cheia de sabedoria, de justiça e amor" (fala de Epimeteu, p. 72); no mito clássico, "pirra" = "a ruiva/vermelha como fogo"
 
 
-## Ampliação — B088 (A Revolta do Anjo Decaído)
+## Ampliação
+### B088 (A Revolta do Anjo Decaído)
 
 - **[B088 p. 49 · a decisão soberana]** "**quero que a minha porção titânide permaneça no meu corpo, tornando-me um ser parte titânide e parte biológica**... Levarei comigo a sua genética, pois foi exatamente para isso que ele me urdiu, e eu farei gosto em realizar o seu desejo."
 - **[B088 p. 27 e 30 · a guardiã]** "Nas noites que velei o seu sono, **anotei as frases que você murmurou**"; "**Somos parceiras de ideal!**... nada do que aqui falámos, eu contarei ao meu tio ou ao meu pai. Este é um momento nosso, e será o nosso segredo."
@@ -32,7 +33,7 @@ No B087 (psicografia de Jeane Miranda — versão paralela às obras primárias 
 - 0 códigos novos (O-3). **B088 adicionada às fontes** (Devolutiva O-6).
 
 
-## Ampliação — B089 (A Revolta do Anjo Decaído)
+### B089 (A Revolta do Anjo Decaído)
 
 - **[B089 p. 97 · a expulsão de Témis]** "Quando percebi que ela estava a investigar dentro da minha própria mente, **logo me defendi!**... Apanhei-a de surpresa... **expulsando-a da minha mente, advertindo-a que não mais agisse assim comigo.**" — e a constatação de Pandora: Témis "invade facilmente as mentes deles [dos olimpianos], colhendo informações e até mesmo plantando sugestões, **sem que sequer percebam!**"
 - **[B089 p. 99 · O MELHOR PROTÓTIPO]** "**Pirra era o melhor resultado alcançado até então... o que de melhor existia a partir dessas duas estirpes!**" (Epimeteu: "o melhor protótipo que existe dos titãs e dos olimpianos" — a revelação que Témis buscou.)

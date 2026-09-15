@@ -23,19 +23,20 @@ Os Seres dos Portais viviam nas moradas do universo paralelo (lokas/genos) e tra
 - **Variações:** "deuses da mitologia grega"; demos mitológicos; gênios (mitologia árabe)
 
 
-## Ampliação — B018 (Terra Atlantis II: A Frota Norte)
+## Ampliação
+### B018 (Terra Atlantis II: A Frota Norte)
 
 - **[B018 p. 14]** NAT: Val Eno referia-se ao «último dos senhores» / «último em descendência» dos «seres dos portais»; disputa entre gerações; a cultura desses seres «retrocedia a tempos […] anteriores à Criação».
 - **[B018 p. 79]** NAT: os biodemos «jamais compreenderam» a relação do «conglomerado de realidades» com os «seres dos portais»; contexto de «realidade paralela antimaterial» — **quarentena ufológica / científica**.
 - **[B018 p. 9]** NAT só gloss: «viajores» = «Nephilim bíblicos» (grafia do livro) × canônico Nefilins. Caps. 1–11 **isolados**. Sem fusão com B017. Fonte **B018** já constava na tabela-mestra.
 
 
-## Ampliação — B039 (Terra Atlantis III: A Era Sapiens)
+### B039 (Terra Atlantis III: A Era Sapiens)
 
 - **[B039 p. 16]** NAT: entre 2002 e 2004 «ainda não estava claro» para os «autores desta narrativa» que os «seres dos portais» e os «Seres do Conglomerado de Realidades» «pertenciam ao universo antimaterial, paralelo ao que vivemos». **Quarentena ufológica / científica.** Caps. 1–12 **isolados**. Sem fusão com B017 / B018. Fonte **B039** acrescentada na tabela-mestra.
 
 
-## Ampliação — B021 (Tempos Difíceis no Olimpo)
+### B021 (Tempos Difíceis no Olimpo)
 
 - **[B021 p. 140–141]** ensaio: «as futuras gerações humanas terão que voltar a conviver com os "seres dos portais" — é assim que eu os denomino na trilogia "Terra Atlantis"»; «chamados de "seres dos portais" porque apareciam e desapareciam próximo àqueles vórtices». Remissão à trilogia B017 / B018 / B039 — **não fundir**. IEEA (mesmo capítulo) = **institucional — fora**. Falas de Zeus **isoladas**. Sem fusão com B020 / B017. Fonte **B021** já constava na tabela-mestra.
 ---
@@ -54,7 +55,8 @@ Os Seres dos Portais viviam nas moradas do universo paralelo (lokas/genos) e tra
 | Timé (de um deus) | RC-293 | associado |
 | Extísicos (seres do universo vizinho, não biológicos, compostos de plasma) | RC-861 | associado |
 
-## Atualização — P2022-12-17
+## Atualização
+### P2022-12-17
 
 - **Fonte:** palestra *O Incompreendido Ano de 2012 e a Falsa Noção do Fim do Mundo* — unidades U0496–U0506; U0646–U0669; U0731–U0739.
 - **Contexto acrescentado:** Os Seres dos Portais são relacionados às comunicações entre lokas, à disputa pelo domínio da Terra e à criação/uso dos Rakshasas.
@@ -63,7 +65,8 @@ Os Seres dos Portais viviam nas moradas do universo paralelo (lokas/genos) e tra
 ---
 ---
 
-## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+## Ampliação
+### P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
 
 - **[P2023-12-03 · SERES DOS PORTAIS NA FALA DE 03/12/2023]** «seres dos portais que invadiam a terra vindo desse universo vizinho.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2022-12-17`); a entrada desta fonte é de **conteúdo**, não de data.
 

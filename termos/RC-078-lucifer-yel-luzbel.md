@@ -24,26 +24,27 @@ Yel Luzbel é o protagonista negativo-positivo do drama cósmico: sua inquietaç
 - **Idioma de origem:** latim *lucifer* (portador da luz)
 
 
-## Ampliação — B017 (Terra Atlantis I: O Sinal de Land's End)
+## Ampliação
+### B017 (Terra Atlantis I: O Sinal de Land's End)
 
 - **[B017 p. 4–5]** Prefácio (voz de Ellam): as informações «complementam, aprofundam e dão seguimento» à trilogia *Queda e Ascensão Espiritual* (B003 / B025 / B026) — remissão, **não fusão** — «notadamente às […] desdobramentos da Rebelião de Lúcifer» e às trajetórias das famílias Val e Yel até aportarem na Terra, «consequências decorrentes desse exílio forçado».
 - **[B017 p. 5]** a narrativa «não pertence à autoria intelectual deste escrevente», e sim a «um autor situado em um outro contexto». **Quarentena mediúnica.**
 - **[B017 p. 6–7]** Esclarecimentos: famílias cósmicas que, «devido aos desdobramentos da rebelião de Lúcifer, viram-se obrigadas a aportar no planeta Terra»; alguns personagens optaram por uma operação «camuflagem» para preservar o «quartel-general da rebelião». Caps. 1–13 (Val Eno) **isolados**. Artefato voador (p. 4) = **ufológica — fora**. Sem fusão com B018 / B039. Fonte **B017** já constava na tabela-mestra.
 
 
-## Ampliação — B018 (Terra Atlantis II: A Frota Norte)
+### B018 (Terra Atlantis II: A Frota Norte)
 
 - **[B018 p. 68]** NAT: Yel Luzbel «hoje se encontra em vivência isolada e fora deste contexto»; os biodemos rebelados só perceberam o «fator Javé» por trás do problema com Sophia ao monitorar a relação de Javé com «este escrevente» (2006–2017).
 - Prefácio/Esclarecimentos = **mesmo bloco de B017** — remissão, **não** reancorar. Caps. 1–11 (Val Eno) **isolados**. Sem fusão com B017 / B039. Fonte **B018** já constava na tabela-mestra.
 
 
-## Ampliação — B039 (Terra Atlantis III: A Era Sapiens)
+### B039 (Terra Atlantis III: A Era Sapiens)
 
 - **[B039 p. 6]** Esclarecimentos (Atlan, 29/08/2018 — bloco **novo**, não o de B017/B018): Ellam descortinou o contexto da «rebelião» creditada a Yel Luzbel, os problemas de Sophia e a função dos «Processadores» (notadamente o da família Val). Val Eno = «autor real» da Parte I — **quarentena mediúnica**.
 - Caps. 1–12 (Val Eno) **isolados**. Comentários 1–2 = **político-geopolítica — fora**. Sem extrair Val Eno para RC-123 / RC-232. Sem fusão com B017 / B018. Fonte **B039** já constava na tabela-mestra.
 
 
-## Ampliação — B057 (A Revolta do Anjo Decaído)
+### B057 (A Revolta do Anjo Decaído)
 
 - **[B057 p. 15]** "Eu, Yel Luzbel, **um dos primeiros pesquisadores da família Yel**, fui encarregado de verificar os graus de atuação e de evolução dos seres que faziam parte deste universo." (também "primeiro pesquisador da família Yel", p. 26; o cargo: RC-447.)
 - **[B057 p. 16–17 · as três constatações]** (1ª) o nivelamento: a lei "que nos nivelava a todos num único tipo de percepção e de entendimento"; (2ª) a incoerência: as informações "mostravam-se incoerentes e sem lógica para serem realmente estabelecidas por 'Alguém' que 'sabia' o que estava a fazer – essa foi a minha segunda constatação"; (3ª) a analogia do quotidiano: o presidente da corporação que "não tem a capacidade de responder sobre algo tão sério que está sob a responsabilidade dele" (p. 17).
@@ -62,7 +63,7 @@ Yel Luzbel é o protagonista negativo-positivo do drama cósmico: sua inquietaç
 - 0 códigos novos (O-3). "Lacres mentais", "vírus mental", "liberdade mental", "pólvora" = vocabulário narrativo da obra (Navalha).
 
 
-## Ampliação — B058 (A Revolta do Anjo Decaído)
+### B058 (A Revolta do Anjo Decaído)
 
 - **[B058 p. 6 · nota "Imagem e Reflexo" do próprio ser]** "Pode o 'reflexo' tornar-se mais do que a 'Imagem'?... **O 'reflexo' é mais importante do que a 'Imagem', posto que pode modificá-la.** A 'Imagem' perdeu o domínio sobre o 'reflexo'!... **apenas uma criatura-ferramenta, e passa a constituir o 'deus verdadeiro de si mesmo'!**" (RC-449.)
 - **[B058 p. 30]** o efeito sobre as plateias: "parecia que estávamos **hipnotizados pelo seu magnetismo pessoal**!"; "Você, Luzbel, **cresce em tamanho e força quando fala** sobre estes assuntos." (relato da equipa de pesquisa.)
@@ -76,13 +77,13 @@ Yel Luzbel é o protagonista negativo-positivo do drama cósmico: sua inquietaç
 - 0 códigos novos (O-3). "Massa energética", "magnetismo pessoal", "causa", cargos = vocabulário narrativo (Navalha).
 
 
-## Ampliação — P2020-04-25 (Os Desdobramentos da Rebelião de Lúcifer)
+### P2020-04-25 (Os Desdobramentos da Rebelião de Lúcifer)
 
 - **[P2020-04-25 · NINGUÉM CONSEGUIA RESOLVER O PROBLEMA LUCIFERIANO]** "ninguém conseguia resolver o problema luciferiano, quando isso se tornou uma pandemia, dentro da pandemia que já para qualquer existir em qualquer das condições do âmbito da criação de janvier, porque é vírus doento." (U0006) — A fonte não narra a queda: registra o **impasse** que ela criou — daí o título ser «desdobramentos». Grafia degradada do nome na fala: «I Luzbell» (STT). · ⭐ **NOTA DE ANTERIORIDADE — P2020-04-25:** antecipa **32 meses** a atual fonte oral mais antiga da ficha (`P2022-12-17`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
 - **[P2020-04-25 · O VETO ÀS GRAFIAS CORROMPIDAS, CONFIRMADO]** "deixou a Terra como o único planeta rebelde." (U0006) — **Retificação R-3:** o bruto grafa «Luzbel» 2×, «Luisber» 1×, «I Luzbell» 1× — **0** de «Lusbel». A forma canônica da Base não é dedutível do TXT: daí o Apêndice da apostila. O nome **não** é unificado a RC-142 nesta fase (D-7).
 
 
-## Ampliação — P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
+### P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
 
 - **[P2022-03-26 · LÚCIFER (YEL LUZBEL) NA FALA DE 26/03/2022]** "o Luisbell, um ser biodêmico, tranquilo, funcional, um belo dia olhou para um problema e descobri outra coisa, outro problema. Só que isso aqui tem algo que os outros não têm. Isso aqui mostra que há uma causa anterior a isso aqui." (U0007) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
 - **[P2022-03-26 · LUCIFER COMO AUTOR DO AGENTE, COM O NOME DEFORMADO PELO STT]** "Esse eu caído é um vírus antimaterial. Tudo na obra de Javé é podre, porque tudo se desagregou, tudo virou." (U0007) — A fala grafa o nome em quatro formas degradadas (ver dicionário da apostila); nenhuma é promovida. O conteúdo que transita é o ato — *criar um vírus* — e a definição do agente como eu antimaterial.
@@ -112,7 +113,8 @@ Yel Luzbel é o protagonista negativo-positivo do drama cósmico: sua inquietaç
 | Vergonha de Existir | RC-747 | ← relaciona-se-a |
 | Melkor (o filho dissonante) | RC-844 | associado |
 
-## Atualização — P2022-12-17
+## Atualização
+### P2022-12-17
 
 - **Fonte:** palestra *O Incompreendido Ano de 2012 e a Falsa Noção do Fim do Mundo* — unidades U0125–U0156.
 - **Contexto acrescentado:** A fala distingue a chegada antiga da Família Val da instalação posterior de Lúcifer/Mastlans na Terra, em torno de 98–100 mil anos, e relaciona esse fato à ancoragem trimurtiana.
@@ -121,17 +123,18 @@ Yel Luzbel é o protagonista negativo-positivo do drama cósmico: sua inquietaç
 ---
 ---
 
-## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+## Ampliação
+### P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
 
 - **[P2023-12-03 · LÚCIFER (YEL LUZBEL) NA FALA DE 03/12/2023]** «o coitado do Lucifer, que nunca pretendeu comandar porcaria nenhuma, teve que ser o o comandante, né, porque ele sabia explicar as coisas relativas àquele problema.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
 
 ---
 
-## Ampliação — P2018-12-16 (Terra Atlantis - Era Sapiens)
+### P2018-12-16 (Terra Atlantis - Era Sapiens)
 
 - **[a implosão de Lúcifer diante de Jesus] (U0046)** «Não houve a situação de Lúcifer da a implosão de Lúcifer diante do Jesus.» — Lúcifer (RC-078) implodiu diante do Jesus crucificado — 'falta de cuidado' que piorou a revolta de Len Mion (RC-074); Lúcifer recusa-se a ser estudado.
 
-## Ampliação — P2023-08-27 (Len Mion e os Senhores da Terra Alexandre Magno e Qin Shi Huang Di)
+### P2023-08-27 (Len Mion e os Senhores da Terra Alexandre Magno e Qin Shi Huang Di)
 
 - **[Lúcifer reconstituído no corpo físico] (U0006)** «Então, ele foi reconstituído no corpo físico que ele tinha antes como biodemo.» — após a crucificação, o espírito de Jesus recolheu Elusbell (Lúcifer, RC-078), que foi 'reconstituído no corpo físico que ele tinha antes como biodemo' — algo parecido com o que foi feito com Enoque (RC-489), numa forma 'metatrônica' (RC-671).
 

@@ -33,7 +33,8 @@ Com isso:
 * **Grafia STT:** 'Coreografia Cósmica' (nome do termo, não do bruto). A vinda de Sofia está ancorada em P2025-05-10 (a nave de 2.000 km) e em fontes anteriores (B016, P2024-07-13).
 * **Trava aplicável**: nenhuma além das gerais do despacho.
 
-## Ampliação — P2025-05-10 (Mistérios do Apocalipse)
+## Ampliação
+### P2025-05-10 (Mistérios do Apocalipse)
 
 - **[A Nova Jerusalém, nave de 2.000 km] (U0010)** «O anjo e João mediram então a cidade com a vara e deu 12.000 estádios.» — a 'Nova Jerusalém' (RC-258) é a nave de Sofia: '12.000 estádios' = cerca de 2.000 km, metade da lua cheia — estacionada à distância lunar, fora do alcance de mísseis.
 

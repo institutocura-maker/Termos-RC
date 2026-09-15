@@ -33,7 +33,8 @@ Com isso:
 * **Grafia STT:** 'Melcor' = Melkor, o filho que apresentou dissonância na criação.
 * **Trava aplicável**: nenhuma além das gerais do despacho.
 
-## Ampliação — P2018-12-15 (Terra Atlantis – Aprofundamento)
+## Ampliação
+### P2018-12-15 (Terra Atlantis – Aprofundamento)
 
 - **[Melkor, o filho dissonante] (U0004)** «Aí ele notou que um dos filhos chamado Melcor não conseguia chegar na mesma harmonia ressonante e ele apresentou uma dissonância.» — Melkor (STT 'Melcor'), o filho de Eru que não alcançou a harmonia ressonante e introduziu a dissonância na criação — analogia ao vírus/rompimento do lacre de Lúcifer (RC-002).
 

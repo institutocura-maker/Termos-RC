@@ -33,7 +33,8 @@ Com isso:
 * **Grafia STT:** 'sancalpa' = Sankalpa. O sânscrito condensa em uma palavra o que exige ~30 palavras em português.
 * **Trava aplicável**: nenhuma além das gerais do despacho.
 
-## Ampliação — P2012-02-19 (Xadrez Cósmico de Brahma, Vishnu e Shiva)
+## Ampliação
+### P2012-02-19 (Xadrez Cósmico de Brahma, Vishnu e Shiva)
 
 - **[Sankalpa, a palavra de trinta significados] (U0004)** «Aquele que tem a força de vontade e o conhecimento íntimos e já abriu os compartimentos da alma para produzir aparentes milagres, toda essa frase, o sânscrito tem só uma palavra que significa sancalpa e essa palavra significa umas 30 palavras em português para dar o significado.» — Sankalpa (STT 'sancalpa'): a palavra sânscrita que condensa a força de vontade e o conhecimento íntimos de quem 'já abriu os compartimentos da alma para produzir aparentes milagres'.
 

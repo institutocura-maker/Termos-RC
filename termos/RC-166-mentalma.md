@@ -24,22 +24,23 @@ Criado ao longo dos anos pelo próprio Ellam ("fui transformando as minhas atua�
 - **Obs.:** o livro I define como "a minha disciplina de Yoga, que criei para o meu cotidiano, com o intuito de viver melhor a vida"
 
 
-## Ampliação — P2024-02-25
+## Ampliação
+### P2024-02-25
 
 - **Super sensações (P2024-02-25):** 'é necessário antes que você aprenda a criar super sensações ou sensação adulta. E é isso que o Mentalma tenta ensinar.'
 
 
-## Ampliação — P2025-02-15
+### P2025-02-15
 
 - **Mentalma (P2025-02-15):** "a importância do diálogo constante interior de você: usar o seu discurso para dizer às suas células o que você quer ser"; "eu estava fazendo um pouco de yoga e me perguntando há quanto tempo eu não crio uma novidade para surpreender os meus RNA mensageiros".
 
 
-## Ampliação — P2024-11-30
+### P2024-11-30
 
 - **Mentalma (P2024-11-30 — pergunta da plateia):** "o exercício de, na hora de dormir, me perguntar o que ainda me envergonha"; "eu comecei a observar que vinham informações... que estavam engavetadas, que elas estão vindo à tona"; o padrão vinculado ao odu do jogo de Ifá.
 
 
-## Ampliação — B074 (Mentalma I)
+### B074 (Mentalma I)
 
 - **[B074 pp. 13–15]** origem: criado por Ellam para enfrentar o estresse do cotidiano ("foi um dia histórico quando percebi que o cotidiano estava indevidamente comandando o meu psiquismo", p. 13); a primeira "respiração consciente" nasceu no banco (1990 — a senhora reclamona, p. 14); "o Mentalma, o meu 'Yoga do cotidiano', aplicável diariamente" (p. 15).
 - **[B074 p. 17]** o nome = combinação de "mente lúcida" + "Alma limpa"; "o Mentalma não pertence a mim, mas a quem dele se valer" ("não é um trilho, mas uma trilha").
@@ -50,7 +51,7 @@ Criado ao longo dos anos pelo próprio Ellam ("fui transformando as minhas atua�
 - **[B074 p. 10]** série de **7 volumes anunciada** (I–VII; VI *Qualia e o Laboratório Mental*; VII *O Eu como Computador Quântico* — "planejados" em 2020) — **RC-555 mantém o nome** ("5 livros + curso"); anúncio registrado no O-3/RELATÓRIO (Nota Especial do curador). 0 códigos novos. Voz 100% Ellam; sem plateia.
 
 
-## Ampliação — B075 (Mentalma II)
+### B075 (Mentalma II)
 
 - **[B075 p. 185]** "Quando criei o Mentalma, cheguei perto da busca por **vinte maestrias pessoais** que desejei praticar nesta vida, e assim sigo fazendo. Elas estão distribuídas pelos **sete módulos** do Mentalma." (sete módulos = sete volumes da série).
 - **[B075 p. 185]** o **Grau 6 de maestria** — "Maestria da Arquitetura do Projeto Espiritual de Vida" — é específico do "Mentalma II" (os graus 1–5, do B074 cap. 18, são retomados em 12.1–12.5).
@@ -60,7 +61,7 @@ Criado ao longo dos anos pelo próprio Ellam ("fui transformando as minhas atua�
 - 0 códigos novos (O-3). Voz 100% Ellam; sem plateia.
 
 
-## Ampliação — P2023-07-30 (A Leitura Adulta da Realidade)
+### P2023-07-30 (A Leitura Adulta da Realidade)
 
 - **[P2023-07-30 · O AXIOMA DO AXÔNIO ÚNICO — a fundação neural do método]** "Observem que são **milhares de dendritos em um neurônio e SÓ UM AXÔNIO**... entra uma porrada de informações — 400 bilhões de bits a cada microinstante — o nosso código neuronal **só processa 2.000 e solta UMA resposta só pelo axônio**... A pergunta é: por que que não tem dois axônios? Por que milhares de coisas entram pelos dendritos e **só sai um? Porque isso chama-se ESCRAVIZAÇÃO. O eu humano tem que ser a resposta do axônio.** Não é a gente que opta — o eu de cada um de nós já é o resultado disso."
 - **[P2023-07-30 · Eva e a sabotagem]** "Eva, quando tomou as poções [não foi maçã]... **esculhambou com esse código neural**... o humano despertou além da programação e teve que desenvolver uma racionalidade para decidir, já que não havia mais a ordem que era dada... **Javé e companhia limitada encheu o DNA humano de travas e lacres, já que ele perdeu o controle automático.**"
@@ -69,7 +70,7 @@ Criado ao longo dos anos pelo próprio Ellam ("fui transformando as minhas atua�
 - 0 códigos novos (O-3). Quarentena científica (a neurologia como leitura).
 
 
-## Ampliação — P2023-07-05 (O Despertar dos Potenciais da Consciência Pessoal)
+### P2023-07-05 (O Despertar dos Potenciais da Consciência Pessoal)
 
 - **[P2023-07-05 · A LEI DO BUDA CORRIGIDA — o alicerce do método]** "O que você pensa, você cria. O que você sente, você atrai. **O que você ASPIRA A SER torna-se realidade.**" — [a correção]: "é assim que em todos os livros está escrita a tradução... Mas o correto mesmo é... **o que você aspira a ser torna-se relevante. Não é o desejar, é o ASPIRAR A SER que se torna a realidade.** Infelizmente o comércio mundial transformou a lei do Buda... Buda foi um cara que já nasceu bilionário, filho de rei, largou toda a riqueza... **Ele jamais formularia uma lei ancorada no sentido menor da expressão desejo — uma das nobres verdades é que quem deseja e sente apego sofre.**"
 - **[P2023-07-05 · O RNA MENSAGEIRO DO SONHO — o mecanismo]** "Na hora em que você sonha [com aspiração], **esse sonho é encriptografado** pelo RNA mensageiro de cada célula **através das quatro bases nitrogenadas**... e leva o teor da sua aspiração **e vai lá nos 28.869 genes**... **tenta codificar o seu sonho em algum código genético disponível no seu genoma; caso não tenha, esse RNA mensageiro provoca uma MUTAÇÃO — e então o seu DNA apropria o seu sonho, a sua aspiração.** E se você fizer isso todo dia, a cada dia ele reforça aquela área do seu ADN com o mesmo processo de aspiração." ⚠️ **QUARENTENA CLÍNICA (Devolutiva O-7): o 'RNA mensageiro' e o 'epigenoma' operam exclusivamente como METÁFORA filosófico-espiritual — jamais biologia médica literal.** [O apoio citado: "o Dr. Joe Dispenza tem experiências com novos meditadores... 4 dias de meditação → novos peptídeos, novos hormônios do hipotálamo."]
@@ -80,19 +81,19 @@ Criado ao longo dos anos pelo próprio Ellam ("fui transformando as minhas atua�
 - 0 códigos novos (O-3 — os conceitos absorvidos aqui).
 
 
-## Ampliação — P2023-04-01 (Reintegração Cósmica: Tempo de Ruptura)
+### P2023-04-01 (Reintegração Cósmica: Tempo de Ruptura)
 
 - **[P2023-04-01 · O MENTALMA COMO O MÉTODO DO ROMPIMENTO]** "NÓS HUMANOS PRECISAMOS MAIS E MAIS ROMPER ESSES LACRES, mas a gente pode fazer isso PELO USO INTELIGENTE DO PROCESSO DE RESPIRAÇÃO ASSOCIADO A ESTADOS MEDITATIVOS E CONTEMPLATIVOS. **E AÍ QUE EU PROCURO EXPLICAR NO MENTALMA**" — a 2ª ponte direta livro-palestra; a preparação para a reintegração: "TENDO FÉ? Fé aqui não conta. É ESTUDANDO, É REFLETINDO, É SE PACIFICANDO... tentar agir de forma digna"; "nós humanos somos OS AGENTES DA VIDA e nós podemos sim transformar a nós próprios... NÓS SOMOS OS PORTADORES DO CAOS, AINDA QUE EM NOSSOS CORAÇÕES E MENTES AS CHAVES DA FELICIDADE, DA PAZ E DO PROGRESSO E DO CONSERTO DO PRÓPRIO CRIADOR".
 - 0 códigos novos (O-3). Quarentena: científica.
 
 
-## Ampliação — P2020-04-25 (Os Desdobramentos da Rebelião de Lúcifer)
+### P2020-04-25 (Os Desdobramentos da Rebelião de Lúcifer)
 
 - **[P2020-04-25 · O 8º MÓDULO **NÃO** MINISTRADO: EU SÓ VOU DAR CINCO, TALVEZ SEIS]** "eu só vou dar cinco, talvez seis, no máximo, certo, mas nunca oito." (U0006); "Mentalma, eu fui percebendo quão natural é essa coisa de um espírito que tá lá na esfera X, ele pensa em você, as duas mentes entram em sintonia, ainda que o seu psiquismo de Rogério esteja vendo um jogo de futebol." (U0006) — A estrutura 6+1+1 tem antecedente **datado** em 2020. ⚠️ Medição: «Mentalma» = **1** ocorrência no bruto — esta ficha não pode claims maiores que a fonte. · ⭐ **NOTA DE ANTERIORIDADE — P2020-04-25:** antecipa **19 meses** a atual fonte oral mais antiga da ficha (`P2021-12-04`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
 - **[P2020-04-25 · A INTERCOMUNICAÇÃO NÃO LOCAL COMO O MÓDULO RETIDO]** "O budismo diz que além desses cinco sentidos, nós temos um sexto." (U0006); "Rupert Shellrake e Shellake é um dos papas desse assunto que eu estou falando, ele diz que desde que a física quântica produziu o postulado da compreensão do conceito de que a comunicação é não local, a intercomunicabilidade não local, ele nos seus postulados referentes aos campos mórficos de cada espécie, para simplificar, ele propõe que nós, seres humanos, além de termos os cinco sentidos daagem do corpo, sexto da cognição, da Temos um sétimo sentido que é o da, entre aspas, comunicação à distância, a intercomunicação, a intercomunicabilidade não local, ou seja, a telepatia, troca de informações." (U0006)
 
 
-## Ampliação — P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
+### P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
 
 - **[P2022-03-26 · MENTALMA NA FALA DE 26/03/2022]** "O mentalma que eu produzi hoje, ele não era para ser público." (U0049) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
 
@@ -151,7 +152,8 @@ A série Mentalma é **paralela mas intimamente ligada** às RC (fonte B024 já 
 
 ---
 
-## Atualização — P2022-12-17
+## Atualização
+### P2022-12-17
 
 - **Fonte:** palestra *O Incompreendido Ano de 2012 e a Falsa Noção do Fim do Mundo* — unidades U0952–U0955.
 - **Contexto acrescentado:** Mentalma é apresentado no fechamento como sinalização prática de intencionalidade espiritual para orientar a improvisação humana.
@@ -159,7 +161,7 @@ A série Mentalma é **paralela mas intimamente ligada** às RC (fonte B024 já 
 
 ---
 
-## Atualização — P2021-12-04
+### P2021-12-04
 
 - **Unidades:** U0563–U0571.
 - **Contexto acrescentado:** Mentalma é citado como disciplina de meditação, respiração e emancipação psíquica capaz de apoiar a busca de Moksha.
@@ -167,7 +169,7 @@ A série Mentalma é **paralela mas intimamente ligada** às RC (fonte B024 já 
 
 ---
 
-## Atualização — P2026-07-30
+### P2026-07-30
 
 - **Unidades:** U0086–U0098.
 - **Contexto acrescentado:** Mentalma aparece na pergunta sobre destino e livre-arbítrio como prática capaz de apoiar posição interior digna; a resposta enfatiza esforço e consciência.
@@ -175,14 +177,14 @@ A série Mentalma é **paralela mas intimamente ligada** às RC (fonte B024 já 
 
 ---
 
-## Atualização — P2024-05-04
+### P2024-05-04
 
 - Mentalma/respiração é relacionado à gestão consciente da sensação pessoal.
 - Divergências e alegações científicas permanecem abertas/atribuídas à palestra.
 
 ---
 
-## Atualização — P2023-05-13 (Bastidores da Revelação Cósmica)
+### P2023-05-13 (Bastidores da Revelação Cósmica)
 
 - **Respiração como ferramenta:** "É educando o processo da respiração corporal... desenvolvendo um novo ritmo respiratório. Somente assim você poderá se livrar do enjaulamento que todos os seres humanos estão em termos do primeiro impulso que movimenta a cabeça de todo e qualquer ser humano";
 - **Primeiro impulso:** sem se libertar do primeiro impulso, "não há passos a serem dados" — a respiração como via de **evolução vertical** (seção 5.5);

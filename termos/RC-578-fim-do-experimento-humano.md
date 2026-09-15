@@ -23,7 +23,8 @@ A palestra o apresenta como possibilidade real ligada à corrupção de seres cr
 - **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
 
 
-## Ampliação — P2022-12-17
+## Ampliação
+### P2022-12-17
 
 - **[P2022-12-17 — FONTE ORIGINAL] O fim do experimento humano (U0970–U0990):** "a corrupção chegou a níveis... corrupção em demos não tem grandes problemas. Corrupção em seres pouco criativos não tem nenhum problema. Mas corrupção em seres criativos tem todos os problemas do universo juntos"; "só nós humanos podemos produzir essas novas proteínas através da nossa capacidade de inovar, de criar novos genes, novas proteínas. Se nós formos embora como um resultado estúpido de um experimento que não deu certo, se nós explodirmos a vida e a nós próprios, tá todo mundo ferrado" [QUARENTENA CLÍNICA — leitura do autor]; "se nós formos embora... essa turma vai ter que inventar uma outra raça humana que saiba improvisar".
 

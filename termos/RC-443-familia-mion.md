@@ -24,7 +24,8 @@ Na narrativa psicografada, enquanto os sábios da Família Yel aguardam resposta
 - **Obs.:** o nome dos integrantes carrega o sufixo "Mion" (Len Mion, Gron Mion), assim como "Yel" marca a Família Yel
 
 
-## Ampliação — B057 (A Revolta do Anjo Decaído)
+## Ampliação
+### B057 (A Revolta do Anjo Decaído)
 
 - **[B057 p. 59 · caracterização]** "Se havia determinada missão a ser cumprida, que fosse de grande complexidade no que se refere a ter ousadia para ser levada adiante, **então a família Mion era chamada para executá-la** porque, quando eles decidiam algo, **não mudavam a sua rota até conseguirem os resultados pretendidos. Eles eram fortes, obstinados e ousados.** Nenhuma família tinha essas características tão acentuadas quanto eles... **Eles enfrentariam Sophia, caso assim decidissem!**"
 - **[B057 p. 52 · Len Mion apresenta a família]** "eu reuni aqui, perante você, aqueles seres da minha família que **julgo mais ousados, mais inteligentes e mais corajosos na maneira de pensar**... Nós, da família Mion, somos assim! Somos ousados e permitimo-nos pensar um pouco mais além do que vocês, da família Yel."
@@ -35,7 +36,7 @@ Na narrativa psicografada, enquanto os sábios da Família Yel aguardam resposta
 - 0 códigos novos (O-3). Fonte: narrativa psicografada (O-7).
 
 
-## Ampliação — B058 (A Revolta do Anjo Decaído)
+### B058 (A Revolta do Anjo Decaído)
 
 - **[B058 p. 14]** Len Mion convoca o conclave da família: "Vamos Luzbel, **teremos de tratar deste assunto por nós mesmos!** A minha 'família' já não tem mais paciência..."
 - **[B058 p. 29]** o "Primeiro em Comando" dos Mion convoU "os Sábios de **quase todas as 'famílias capelinas'**".
@@ -48,22 +49,22 @@ Na narrativa psicografada, enquanto os sábios da Família Yel aguardam resposta
 - 0 códigos novos (O-3). Fonte: narrativa psicografada (O-7).
 
 
-## Ampliação — P2020-08-08 (Sophia e o Alinhamento Interdimensional do Moscoviano)
+### P2020-08-08 (Sophia e o Alinhamento Interdimensional do Moscoviano)
 
 - **[P2020-08-08 · A FAMÍLIA MION — os guerreiros antigos]** "OS CROMONS, OS MIÕES JÁ TINHAM SIDO CRIADOS ANTES" [as espécies antigas anteriores à fixação em Capela]; "OS MI, ESSE PESSOAL OLHAVA PARA ISSO TUDO E ELES ERAM GUERREIROS, DIFERENTE DOS IELS... E era uma situação confusa" [⚠️ o contraste estrutural guerreiros×apolíneos: os Miões entre as famílias guerreiras que presenciaram o alinhamento de 310 Ma]; "Nessa época [~310 Ma] os vol nem existiam. Os viel, sim. Os CHANLUM [SHANLUNG], sim. Os mi, os prom. Sim, mas val nem existia" [⚠️ a ordem de surgimento: viel/shanlung/mi/prom antes; vol depois — a cronologia das espécies!].
 - 0 códigos novos (O-3). Quarentena: —.
 
 
-## Ampliação — P2020-04-25 (Os Desdobramentos da Rebelião de Lúcifer)
+### P2020-04-25 (Os Desdobramentos da Rebelião de Lúcifer)
 
 - **[P2020-04-25 · O ELENCO DAS FAMÍLIAS DA TERRA NAS GRAFAS DO STT]** "quase 250.000 famílias biodêmicas que existem até hoje, umas penso que 10, 11, 12, se ferraram nessas confusões todas lá em Antares." (U0006) — **D-7:** nenhum nome de família é corrigido em silêncio; as grafas degradadas vão para o Apêndice da apostila. · ⭐ **NOTA DE ANTERIORIDADE — P2020-04-25:** antecipa **3 meses** a atual fonte oral mais antiga da ficha (`P2020-08-08`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
 
 
-## Ampliação — P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
+### P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
 
 - **[P2022-03-26 · FAMÍLIA MION NA FALA DE 26/03/2022]** "foi feito um, não um pacto, uma mistura de genética entre os voz e diversos outros seres das famílias, Iel, Chamum, Cromon e Mion, para que estes fossem absorvidos pelo processador vol." (U0034) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
 
-## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+### P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
 
 - **[P2023-12-03 · FAMÍLIA MION NA FALA DE 03/12/2023]** «principalmente a cromon, miom, mas foi a primeira porrada.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
 

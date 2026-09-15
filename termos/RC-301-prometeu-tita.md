@@ -24,7 +24,8 @@ Versão primária em B020/B021 (Ellam). No B087 (psicografia de Jeane Miranda �
 - **Obs.:** na nota mitológica da ed. 2022 do B087: Prometeu = "**antevisão**" ("aquele que vê o futuro"); "Segundo Hesíodo, Prometeu desenvolveu um papel crucial na história da humanidade"
 
 
-## Ampliação — B088 (A Revolta do Anjo Decaído)
+## Ampliação
+### B088 (A Revolta do Anjo Decaído)
 
 - **[B088 p. 17–18 · os transes]** em transe, formula o coquetel e orienta Pandora — e depois: "**Não sei de onde vem esta informação** que agora estou para lhe dizer"; "**devo confessar-lhe que não me lembro de nada**" (a "força" misteriosa que o guia).
 - **[B088 p. 19 e 47]** "Algo ou alguém estava a usar-nos" (reflexão de Pandora); "**Algo age por meio de nós, ó Pandora!** Agora, tenho plena convicção disso!"
@@ -35,7 +36,7 @@ Versão primária em B020/B021 (Ellam). No B087 (psicografia de Jeane Miranda �
 - 0 códigos novos (O-3). **B088 adicionada às fontes** (Devolutiva O-6).
 
 
-## Ampliação — B089 (A Revolta do Anjo Decaído)
+### B089 (A Revolta do Anjo Decaído)
 
 - **[B089 p. 52 e 54 · o contato prévio]** o líder Anunnaki: "**Reconheço este lugar! No passado, estive aqui a convite de um titã chamado Prometeu!**" — Prometeu conhecia Enlil havia muito tempo (o motivo da missão dada por Zeus).
 - **[B089 p. 19–20 · os transes]** "**Isso está sem controle e anda a ocorrer cada vez mais frequentemente!** Preciso fazer algo para dominar esse processo!" — e a revelação de Témis: ela TAMBÉM é dominada pelas mesmas forças ("Eu também sou dominada por forças que não consigo identificar" — p. 33).
@@ -44,11 +45,11 @@ Versão primária em B020/B021 (Ellam). No B087 (psicografia de Jeane Miranda �
 - 0 códigos novos (O-3). **B089 adicionada às fontes** (Devolutiva O-6).
 
 
-## Ampliação — P2021-05-15 (As Etnias Hiperbóreas e os Anunnakis)
+### P2021-05-15 (As Etnias Hiperbóreas e os Anunnakis)
 
 - **[P2021-05-15 · O FOGO DE PROMETEU COMO RECICLAGEM DE INFORMAÇÃO (o elo com o filme)]** "É o fogo de Prometeu realmente queimando tudo e reciclando e colocando novas informações que nunca antes haviam sido trabalhadas." (U0016)
 
-## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+### P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
 
 - **[P2023-12-03 · PROMETEU (TITÃ) NA FALA DE 03/12/2023]** «como a rebelião de Prometeu, foi algo que aconteceu nos Demobi, ou seja, várias rebeliões.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2021-05-15`); a entrada desta fonte é de **conteúdo**, não de data.
 

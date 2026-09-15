@@ -16,7 +16,8 @@ atualizado = "2026-09-13"
 
 Metáfora (da série Westworld, baseada na teoria da mente bicameral de Julian Jaynes [REVISAR → CHANCELA 2026-09-06 · F041-L5: AGUARDA-ÁUDIO (dívida perdoada até nova evidência na base; STT preservado como falado) — ver nota]) para o que diferencia um ser humano de um robô: o robô tem 'fio fechado' (cumpre ordens), o ser humano tem 'fios soltos' — precisa improvisar a cada situação. A construção de um eu (memórias + algoritmos de improviso + memórias encobridoras) é comparada à montagem dos androides do parque.
 
-## Ampliação — P2021-01-30 (A Mensagem TALM e os Fios Soltos do Destino)
+## Ampliação
+### P2021-01-30 (A Mensagem TALM e os Fios Soltos do Destino)
 
 - **[Fios soltos — a condição humana] (U0015)** «Cada um de nós hoje é uma espécie de um fio solto ainda por realizar a o alinhamento desse fio com algum propósito.» — fonte oral mais antiga do verbete (antes de P2021-12-04); a palestra é intitulada "os fios soltos do destino".
 - **[Fios soltos — recapear o fio desencapado que é Javé] (U0015)** «nós somos os fios soltos que precisaram ser livres ou libertos para tentar recapear, reconduzir esse fio solto, dando choque, que se chama javé, a uma condição de pretensa ou aparente normalidade.» — Javé como o fio desencapado; ver RC-001.

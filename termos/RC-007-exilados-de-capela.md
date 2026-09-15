@@ -23,7 +23,8 @@ Resultado direto da Rebelião de Lúcifer e do consequente Isolamento Cósmico. 
 - **Variações:** Anjos caídos (equivalência parcial, ver RC-020); Espíritos exilados de Capela
 
 
-## Ampliação — B057 (A Revolta do Anjo Decaído)
+## Ampliação
+### B057 (A Revolta do Anjo Decaído)
 
 - **[B057 p. 19]** "Entre os '**rebelados**' sobreviventes, estavam os capelinos das **famílias Yel, Mion, Cromon e Shanlun** [canônico: **Shanlung**], que **se refugiaram no planeta Terra há uns 98 mil anos**, e todos os membros da **família Val, que vieram para a Terra há aproximadamente 620 mil anos**, antes que essas 'guerras' começassem."
 - **[B057 p. 19]** "Com o passar do tempo, **quase todos morreram neste planeta** – entretanto, existe um pequeno grupo de capelinos que, na **única nave dos 'ex-rebelados', ainda apta para se locomover à volta da Terra, se submeteu a um processo de alteração dimensional**."
@@ -32,7 +33,7 @@ Resultado direto da Rebelião de Lúcifer e do consequente Isolamento Cósmico. 
 - 0 códigos novos (O-3). Quarentena ufológica: cruzar, não materializar como fato (O-7).
 
 
-## Ampliação — B031 (Painéis Emergentes da Revelação Cósmica)
+### B031 (Painéis Emergentes da Revelação Cósmica)
 
 - **[B031 p. 171 · POSFÁCIO — paratexto inédito]** a autora **se inclui entre os Exilados**: "nós – **os Exilados de Capela** – nos encontramos novamente enfrentando um novo vírus (COVID-19)"; "(muitas delas sendo ainda os tais **'Exilados de Capela' encarnados**)" (a COVID-19 atingindo os exilados reencarnados — **quarentena clínica**: leitura, não fato).
 - **[B031 p. 171 · POSFÁCIO]** "**sendo a Terra o último planeta remanescendo isolado com seres 'Exilados de Capela'**"; "A Terra, com seus países, estados, cidades, pessoas isoladas em suas casas, **ainda é um planeta a ser resgatado e curado, de todas as formas e maneiras, física ou espiritualmente**." (p. 172: "Que bom seria finalizar **dois isolamentos de uma só vez**...".)
@@ -41,26 +42,26 @@ Resultado direto da Rebelião de Lúcifer e do consequente Isolamento Cósmico. 
 - 0 códigos novos (O-3). Quarentena ufológica (naves, isolamento cósmico): **cruzar, não materializar**; o posfácio é paratexto de terceiros (O-7).
 
 
-## Ampliação — P2023-04-01 (Reintegração Cósmica: Tempo de Ruptura)
+### P2023-04-01 (Reintegração Cósmica: Tempo de Ruptura)
 
 - **[P2023-04-01 · O LIXO DA REBELIÃO — os exilados]** "do jeito que a TURMA DE CAPELA um dia veio EXILADA para a Terra, LÁ VEM TURBILHÃO, JÁ VEIO"; "A TERRA RECEBEU O LIXO da rebelião... veio em naves para cá E TAMBÉM EM COMBOIO ESPIRITUAL"; "NÓS, OS HUMANOS, HÁ 50.000 ANOS ATRÁS ÉRAMOS ANIMAIS DE ESTIMAÇÃO IRRACIONAIS DESSES SERES... do jeito que a gente brinca com papagaio, cachorrinho, cavalo, gato, NÓS ÉRAMOS O CACHORRINHO E O GATO desses seres... só que fomos adquirindo inteligência e nos tornamos MAIS SAGAZES DO QUE ELES. E eles foram perdendo a capacidade reprodutiva. Os portais se fecharam... NÓS HUMANOS HERDAMOS ISSO AQUI"; "eles ainda inventaram essa coisa de REI/RAINHA para dizer que era representante deles... SANGUE AZUL"; "A TERRA ESTÁ ISOLADA DO INTERCÂMBIO CÓSMICO. E assim permanece até hoje" — a analogia da penitenciária (o ex-detento de 50 anos que precisa de "reforço psicológico, informativo" — a reintegração).
 - 0 códigos novos (O-3). Quarentena: ufológica.
 
 
-## Ampliação — P2020-04-25 (Os Desdobramentos da Rebelião de Lúcifer)
+### P2020-04-25 (Os Desdobramentos da Rebelião de Lúcifer)
 
 - **[P2020-04-25 · A TRANS MIGRAÇÃO: 1.641 → 936 (experiência Gron [REVISAR → CHANCELA 2026-09-06 · F042-VARREDURA: AGUARDA-ÁUDIO (órfã de censo; grafia preservada como falada) — ver nota]) → 900Q]** "22.000 anos. Dos 1641 seres que tinham biodemos aqui, cerca de 936 fizeram a opção de se eh alinhar com a experiência Gron." (U0006) — **D-10:** os três números ficam **listados**, com o endereço de cada; não se escolhe um. O nome «Gron» é hipotético (Gron/Cronos?) — [REVISAR → CHANCELA 2026-09-06 · F042-VARREDURA: AGUARDA-ÁUDIO (órfã de censo; grafia preservada como falada) — ver nota] obrigatório. · ⭐ **NOTA DE ANTERIORIDADE — P2020-04-25:** antecipa **35 meses** a atual fonte oral mais antiga da ficha (`P2023-04-01`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
 - **[P2020-04-25 · A ESCOLA DE CAPELA: 3–4 Ma, substanciada há ~2 Ma]** "a escola que surgiu não entre aspas, recentemente lá nos mundos de capela, três, 4 milhões de anos atrás, essa escola se substanciou mesmo dois dois 1 milhão de anos no sentido de as tarefas eram existem feridas na realidade, precisamos descobri-las." (U0006) — Contagem medida: «Capela» **1** ocorrência no bruto — a ficha não pode inflar esta fonte. ⚠️ «capelinos» = **0** ocorrências.
 
-## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+### P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
 
 - **[P2023-12-03 · O ÚNICO TOQUE DE CAPELA NA PALESTRA]** «a respeito dos exilados de Capela. P p pá pá, impecáveis, maravilhosos.» (U0004) — A palestra menciona Capela **uma vez**, e a menção vem dentro de uma frase em que a fonte nomeia uma pessoa cuja obra ela leu — o nome fica na apostila (D-12) e aqui entra só o fragmento verificável do juízo. É registro de leitura, não de doutrina: nenhuma relação nova com `RC-006` (exilium) é aberta por esta entrada.
 
-## Ampliação — P2012-02-19 (Xadrez Cósmico de Brahma, Vishnu e Shiva)
+### P2012-02-19 (Xadrez Cósmico de Brahma, Vishnu e Shiva)
 
 - **[Os exilados de Capela resgatados] (U0005)** «E aí Aí começa uma história dos exilados de capela que Chico Xavier e Emmanuel desde 1938 no livro A Caminho da Luz já resgataram para a modernidade.» — a história dos exilados de Capela (RC-007) foi resgatada por Chico Xavier e Emmanuel desde 1938, no livro 'A Caminho da Luz'.
 
-## Ampliação — P2021-04-10 (O Fechamento dos Portais e o Impasse no Exílio Espiritual de Len Mion — Aprofundamento)
+### P2021-04-10 (O Fechamento dos Portais e o Impasse no Exílio Espiritual de Len Mion — Aprofundamento)
 
 - **[Capela foi uma pandemia, não uma reciclagem organizada] (U0006)** «O que houve em Capela foi uma pandemia, uma pandemia criada a partir de um vírus que surgiu.» — "o que houve em Capela foi um problema de saúde pública. A turma lá foi mais incompetente do que tá sendo o governo brasileiro no trato dessa pandemia" (glosa sem aspa — quarentena política não transita); "não é do jeito romântico que todos nós terminamos colecionando na nossa mente"; ainda não acabou: as quase 250.000 famílias biodem e o processador VOL seguem se adaptando; o exílio de Capela era um comboio organizado? "Não foi. Foi tudo improvisado."
 - **[Nunca houve exílio planetário na história do universo] (U0006)** «Sabe qual é a resposta? Nunca. Nunca houve isso.» — "o que ocorreu no nosso universo são problemas parecidos com o que aconteceu em Capela, mas eh subproduto de pandemia, confusões, de destruição"; "jamais algum mundo no nosso universo biológico passou por exílio espiritual, nos termos em que Nós ingenuamente pensávamos"; a separação do joio e do trigo na Terra seria o primeiro tipo de atitude nesse sentido desde que a criação começou.

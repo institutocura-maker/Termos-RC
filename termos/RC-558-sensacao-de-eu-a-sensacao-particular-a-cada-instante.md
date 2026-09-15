@@ -16,7 +16,8 @@ atualizado = "2026-08-19"
 
 Definição central da palestra: 'a sensação particular que você sente a cada instante' — a única definição aceitável para o sentido do eu. O eu humano é descrito como 'um programa quântico que funciona entre esses dois polos: a mente espiritual eterna e o cérebro transitório que nasce e morre'; o eu não morre nunca. Metáfora do rádio: o eu não está dentro do corpo. O genoma foi programado para não deixar o eu refletir sobre as sensações que sente.
 
-## ## Ampliação — P2024-02-25 (ficha criada na re-curadoria)
+## Ampliação
+### P2024-02-25 (ficha criada na re-curadoria)
 
 - Quando o corpo morre, o espírito 'coleciona, puxa, escaneia todas as sensações que definiram aquele eu'; a sensação continua existindo.
 - 'Se a sensação for uma merda, o eu adentra uma nova situação existencial se sentindo um merda' — gerir sensações como tarefa existencial.
@@ -24,7 +25,7 @@ Definição central da palestra: 'a sensação particular que você sente a cada
 - Os deuses do universo vizinho 'estão atrás de produzir as suas faces com suas sensações e eles não sabem fazer isso'; humanos são os únicos capazes de modificar o genoma pessoal criando novas sensações.
 
 
-## Ampliação — P2025-02-15
+### P2025-02-15
 
 - **Sensação de eu (P2025-02-15):** "o que cada um de nós pensa ser, o que cada um de nós acha que é... isso é só um estágio, é só uma etapa no processo de uma obra que foi iniciada"; "ser um ser humano não é isso que nós estamos certos".
 
@@ -61,7 +62,8 @@ Conceito central também em P2024-11-09 (Abismo da Consciência) e P2025-02-15.
 
 ---
 
-## Ampliação — P2024-03-02 (O Drama Espiritual de Jesus)
+## Ampliação
+### P2024-03-02 (O Drama Espiritual de Jesus)
 
 - **[Componente humana 7-8% — dignidade, não equilíbrio]:** «Eu queria perguntar sobre a componente humana que você falou que precisaria ainda ser desenvolvida para ajudar Jesus. Tem a ver com essa pacificação mental que a gente precisa?» — «Não, não tem a ver com dignidade, dignidade. Você pode até ser inquieto, ser desequilibrado, mas se você fodesse com seu padrão de integridade pessoal, você consegue modificar o genoma no padrão que é necessário para isso. Não é só equilíbrio, ser bonzinho; tem que ter ousadia, dignidade.» — ver RC-722 (Dignidade), RC-072 (Jesus).
 

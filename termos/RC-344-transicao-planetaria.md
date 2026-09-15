@@ -34,7 +34,8 @@ Com isso:
 * D-13: a janela foi colocada aqui e em `RC-003`, e vetada em `RC-200` — a assimetria é deliberada.
 * **Trava aplicável**: D-13 (calendário aqui, vetado em RC-200, vencimento só no relatório).
 
-## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+## Ampliação
+### P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
 
 - **[P2023-12-03 · TRANSIÇÃO PLANETÁRIA NA FALA DE 03/12/2023]** «fez parar o processo de exídio dos espíritos que estavam sendo exilados aqui da Terra para mundos inferiores no processo de transição planetária.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2022-12-17`); a entrada desta fonte é de **conteúdo**, não de data.
 - **[P2023-12-03 · O MARCO E A JANELA, COMO A FONTE OS DISSE]** «o ano 2050, ou é 50 ou é 51, 52, é uma dessas três áas, a partir de um certo que foi foi fincado o marco em 1989. Em julho de 9, alguém na espiritualidade fincou um marco, falando em nome das figuras mais altas que esse espírito conhece e disse até 2052, acho que 52 vai existir de tudo por aqui.» (U0016) — D-13: a fonte finca o marco em `1989` («Em julho de 9, alguém na espiritualidade fincou um marco») e a janela `2050, ou é 50 ou é 51, 52`. Entram **como ditos**, com a grafa degradada (`áas`, `foi foi fincado`) e sem cálculo de prazo: o `RELATORIO-DE-CICLO.md` é que registra que a janela **já estaria vencida** na data desta aplicação, sem harmonização corretiva e sem recálculo da data original.

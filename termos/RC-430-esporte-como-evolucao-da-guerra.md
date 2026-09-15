@@ -23,7 +23,8 @@ O B040 (2014, assinado com o nome civil Rogério de Almeida Freitas) argumenta q
 - **Variações:** da guerra ao esporte; esporte × guerra; a transição guerreiro-atleta
 
 
-## Ampliação — B040 (Homo Sapiens: da Guerra ao Esporte)
+## Ampliação
+### B040 (Homo Sapiens: da Guerra ao Esporte)
 
 - **[B040 p. 3]** sinopse: “Um dia guerreiro implacável, hoje atleta que vibra na vitória e aceita a derrota sem aniquilar o seu oponente.”
 - **[B040 p. 11]** tese: o primeiro DNA surgiu “já com essa tendência doentia”; “os futuros homo sapiens tiveram que evoluir para poder praticar esportes sem matar os ‘adversários’, antes, durante ou depois da peleja.” **Quarentena clínica** (“tendência doentia” = leitura, jamais diagnóstico).

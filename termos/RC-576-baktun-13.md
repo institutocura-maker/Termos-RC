@@ -23,7 +23,8 @@ Surge na crítica às leituras apocalípticas modernas das estelas maias e à pe
 - **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
 
 
-## Ampliação — P2022-12-17
+## Ampliação
+### P2022-12-17
 
 - **[P2022-12-17 — FONTE ORIGINAL] Baktun 13 e Diego de Landa (U0620–U0640):** "se não fosse Diego de Landa [STT 'Diego Dilanda'], um frade espanhol que em 1453 [1562 — REVISAR → RESOLVIDO 10/09/2026 · F043-L5: DATA CONFIRMADA EXTERNAMENTE (auto-de-fé de Maní, 12/07/1562; STT “1453” preservado como falado) — ver nota] destruiu quase toda a biblioteca dos maias, deixando restar só dois pedaços entre milhares de códices que ele destruiu, dizendo que aquilo era a obra do demônio da Igreja Católica Espanhola"; "esses intérpretes terminaram vendo nas estelas um e seis... o final daquele Baktun 13 corresponderia ao ano 2012"; "tudo indica que é uma era equinocial de 5.200 anos"; "originalmente nos toltecas, como essas figuras híbridas e demo viviam milhares, milhões de anos, um baktun para eles era 5.000 anos, 10.000 anos, dois baktuns"; "os maias não tinham uma visão linear da passagem do tempo"; "os intérpretes do século XX... se você escreve um livro dizendo que o mundo vai se acabar, todo mundo copia, é formidável" — crítica ao comércio do medo.
 

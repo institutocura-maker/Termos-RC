@@ -23,7 +23,8 @@ A obra B041 (2018) desenvolve o tema: os elétrons, "sujados" pela violência im
 - **Variações:** rebelião inconsciente no âmbito dos elétrons; rebelião íntima dos elétrons; a "rebelião" (aspas na obra)
 
 
-## Ampliação — P2025-03-15
+## Ampliação
+### P2025-03-15
 
 - **"Cansaço da matéria" (P2025-03-15):** "os elétrons estão vivendo uma crise e estão desfazendo, colapsando o que até agora foi construído"; "começou há milhões de anos, mas hoje, ano 2025"; "não aguentam mais memorizar porcaria"; "é a revolução dos elétrons" (nem de direita, nem de esquerda).
 - **"Acabou em fevereiro desse ano [2025]"** [REVISAR — Colecionar Incertezas → CHANCELA 2026-09-06 · F040-L4: DADO-NARRATIVO (data referida [2025]; nenhum código criado) — ver nota]: "essa confusão [WD × Trimurti] acabou em fevereiro desse ano, mas os efeitos ainda vão demorar".
@@ -31,7 +32,7 @@ A obra B041 (2018) desenvolve o tema: os elétrons, "sujados" pela violência im
 - **B063:** o autor cita o livro "Reflexões Quase Filosóficas — Schopenhauer e o Sofrimento do Mundo" (a dor da presa é sempre superior ao prazer do predador — os elétrons registram o sofrimento e "encheram o saco").
 
 
-## Ampliação — B041 (A Rebelião dos Elétrons)
+### B041 (A Rebelião dos Elétrons)
 
 - **[B041 p. 5]** a sinopse firma o tema-título: os elétrons hospedam, na “intimidade”, as informações desde o “momento zero”; os psiquismos das espécies predadoras “têm sujado a ‘existência interior’ desses agentes da informação cósmica”; “algum tipo de premissa neles, não mais suporta acumular marcações de sofrimento”.
 - **[B041 p. 131–132]** cap. 17: “movimento inconsciente de ‘rebelião íntima’ no âmbito dos elétrons”. Primeira etapa (reverter o caos dos “deuses primordiais”): Moros (grafia do extract: “Morus”), Ananke, Mohen So, Odin, Kvasir, Têmis. Segunda etapa (ponto de inflexão): Yel Luzbel, famílias rebeldes, Ostronomos, Pandora, Dionísio, Pirra, Eva. Sem materializar novos nós.
@@ -40,14 +41,14 @@ A obra B041 (2018) desenvolve o tema: os elétrons, "sujados" pela violência im
 - **[B041 p. 157–158]** nova egrégora: a Trimurti e a egrégora-corpo de Javé “se desfizeram”; Javé “feito um bebê” ligado a outra, “só que mais consciente”, mantida pelas mentes da Revelação Cósmica. “Ohm” (p. 158) = variação de **Olm** — `[REVISAR → RESOLVIDO 10/09/2026 · F038-L5: “Ohm” é grafia IMPRESSA de B041 (“Quarto Logos (Ohm)”); variação registrada, não fundida — ver nota]`; não criar código. Remissão ao Quarto Logos (B016) = **não fundir**. IEEA / Orbum **fora**.
 
 
-## Ampliação — P2023-11-19 (A Máquina da Criação: O Desmonte do Mundo)
+### P2023-11-19 (A Máquina da Criação: O Desmonte do Mundo)
 
 - **[P2023-11-19 · cap. 7.2 — A REVISITA]** "a 'rebelião dos elétrons' como um processo em que os elétrons, que 'hospedam informações desde o **momento zero** do Big Bang', estão se insurgindo contra a **'imundície'** acumulada." — o elo com a memória quântica (RC-161).
 - **[P2023-11-19 · cap. 7.2]** "Os humanos, ao **limpar seus próprios elétrons através do amor e do conhecimento**, contribuem para a formação de uma 'nova mente universal'" — a contribuição pessoal à rebelião (cross RC-163).
 - 0 códigos novos (O-3). Quarentena científica (a física dos elétrons como leitura do autor).
 
 
-## Ampliação — P2023-06-24 (O Buraco Negro Mental e o Estacionamento Coletivo)
+### P2023-06-24 (O Buraco Negro Mental e o Estacionamento Coletivo)
 
 - **[P2023-06-24 · O QUE O LUZBEL COMEÇOU A PENSAR FOI CONCLUÍDO]** "quem começou a lidar com essa perspectiva foi **Elos Bell, Lúcifer [Yel Luzbel]**. A rebelião de Lúcifer tem a ver com isso, só que num modo ainda muito precário... **o que é que o Luzbel começou a pensar na época e eu, Rogério, CONCLUÍ POR ELE AGORA que é a rebelião dos elétrons. O que sem querer o Luzbel começou a pensar foi concluído.**" — a cronologia íntima: "**algo que o Luzbell pensou, percebeu há 1 MILHÃO 20 E POUCOS ANOS atrás. A rebelião dele, esse problema EXPLODIU NA CABEÇA DELE há 700 E POUCOS MIL ANOS atrás**, contaminou a porrada de gente... gerou [STT 'Gerço' — gerou?] 100 desdobramentos, **surgiu o terreno como subproduto de 100 confusões. Aí o eu terreno CONCLUIU A PERCEPÇÃO LUCIFERIANA naquele tempo**. Então não foi nada programado."
 - **[P2023-06-24 · SEM MENTOR]** "isso **NÃO TEM MENTOR, nem influenciador, isso é um FATO. Simplesmente aconteceu** essa perspectiva de rebelião dos elétrons" (a resposta à pergunta sobre o Quarto Logos — que "não interferiu nem coisa alguma": ver RC-092).
@@ -57,31 +58,31 @@ A obra B041 (2018) desenvolve o tema: os elétrons, "sujados" pela violência im
 - 0 códigos novos (O-3).
 
 
-## Ampliação — P2023-10-14 (A Esquecida Honra dos Anunnaki)
+### P2023-10-14 (A Esquecida Honra dos Anunnaki)
 
 - **[P2023-10-14 · A OBRA CITADA NOMINALMENTE EM PALESTRA, EM 2023]** "E só entende isso quem entendeu que tá escrito no livro Rebelião dos Elétrons." (U0033)
 
 
-## Ampliação — P2020-04-25 (Os Desdobramentos da Rebelião de Lúcifer)
+### P2020-04-25 (Os Desdobramentos da Rebelião de Lúcifer)
 
 - **[P2020-04-25 · A SÉRIE DE 9-10 LIVROS ANUNCIADA — E O QUE O 1º VOLUME DEVE]** "A Rebelião dos Elétrons, ele é só o o primeiro de uma série de 9, 10 livros." (U0006); "anos 96, 97, 98, no ano eh 2002, 3, eu tive contato com Valeno lá na Inglaterra, coisa e tal, veio toda uma chorrada de informações, surgiu 12 anos depois ele, rapaz, escreva aquele livro." (U0008) — **D-11/D-12:** anúncio editorial **não** vira obra nem ciclo; o título dito pela fonte fica como registro datado. (A referência ao 2º volume incidia em vocabulário vedado por **D-3** — fica na apostila, não na ficha.) · ⭐ **NOTA DE ANTERIORIDADE — P2020-04-25:** antecipa **3.2 anos** a atual fonte oral mais antiga da ficha (`P2023-06-24`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
 
 
-## Ampliação — P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
+### P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
 
 - **[P2022-03-26 · A REBELIÃO DOS ELÉTRONS NA FALA DE 26/03/2022]** "Ao longo dos últimos 500.000 anos ocorreram guerras entre essas estirpes aqui tecnomentais, guerras mentais e também as chamadas guerras destrutivas. Esses dois tipos de guerras não matavam ninguém, não destruíam ninguém." (U0009) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
 - **[P2022-03-26 · GUERRAS DE 500.000 ANOS: QUEM SE DESTRÓI E QUEM SÓ SE BATE]** "nos 400.000 anos para cá, 300.000 anos, eles começaram a se destruir uns aos outros, ainda que sem maldade, ainda que sem mais são, é um formigueiro brigando com o outro. Em algum momento formigas começam a morrer, mas não que um formigueiro tenha planejado isso." (U0009); "começou a acontecer o quê? Guerras entre os seres biodemos." (U0008) — Três marcos de duração na mesma linha (500.000 / 400.000 / 300.000 anos) — reproduzidos como ditos, com o intervalo aberto (D-10).
 
-## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+### P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
 
 - **[P2023-12-03 · A REBELIÃO DOS ELÉTRONS NA FALA DE 03/12/2023]** «devolver pela sua pulsação para o resto do universo.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
 
-## Ampliação — P2022-12-03 (O Ocaso do Criador e a Rebelião dos Elétrons)
+### P2022-12-03 (O Ocaso do Criador e a Rebelião dos Elétrons)
 
 - **[A rebelião como percepção matemática quântica] (U0013)** «É uma simples percepção, vamos dizer, matemática quântica, de que o que eles estão sendo obrigados a fazer não vai funcionar no sentido de receber as Notícias de quem?» — a natureza da rebelião dos elétrons: não é indignação nem escolha moral — "a rebelião dos elétrons não é nada de dignidade, porque os elétrons não lidam com essas questões" — é a percepção, via táquions, de que o que são obrigados a fazer não vai funcionar segundo o que já está escrito.
 
 
-## Ampliação — P2022-07-16 (Do Ramayana ao Mahabharata)
+### P2022-07-16 (Do Ramayana ao Mahabharata)
 
 - **[A rebelião dos elétrons e o DNA] (U0014)** «se você age feito um Reptil, porque você já tem cérebro reptiliano lá dentro, você termina despertando aqui alguma coisa.» — o despertar do DNA lixo (a rebelião como recusa de reproduzir o que está marcado): "no DNA, nos 28.869 genes humanos, só 2, 3% tá ativo, o resto é lixo" (U0014: «No DNA, nos 28.869 genes humanos, só 2, 3% tá ativo»); "tudo que veio dele, de todos esses seres que não presta, tá no DNA da gente. Só que fechado" (U0014: «Mas tudo que veio dele, de todos esses seres que não presta, tá no DNA da gente. Só que fechado»).
 
@@ -147,7 +148,8 @@ Javé (RC-001); Criador (RC-041); Seres Terrenos (RC-099, "criaturas-ferramentas
 ## Observações
 Ficha baseada em B041 (obra primária) + B024. A Rebelião dos Elétrons é o conceito-título da obra — conecta a física quântica ao drama de Javé (a rebelião como "salvação" do Criador).
 
-## Reforço — P2025-03-15
+## Reforço
+### P2025-03-15
 
 A rebelião é aprofundada como **saturação memorial e desobediência dos elétrons**: eles deixariam de aceitar a repetição de padrões de dor e passariam a colapsar arquiteturas do caos organizado. O “Princípio de Schopenhauer” — dor da presa superior ao prazer do predador — foi absorvido nesta ficha, sem código próprio.
 

@@ -23,7 +23,8 @@ Era zodiacal ligada, na palestra, à vida de Jesus e a uma orientação de liber
 - **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
 
 
-## Ampliação — P2022-12-17
+## Ampliação
+### P2022-12-17
 
 - **[P2022-12-17 — FONTE ORIGINAL] A Era de Peixes e Jesus (U0890–U0920):** "quando os Anunnaki se ferraram... as profecias de Javé de enviar o seu Messias para dominar a terra toda têm lugar. Nasce Jesus. Aí Javé se sente traído porque o homem Jesus resolveu não cumprir a agenda espiritual do seu próprio espírito e a agenda profética que Javé... anunciou. Jesus disse: 'Não faço'"; "esse acontecimento... trouxe a era de Peixes. Jesus iniciou esse processo com essa atitude dele. E Peixes ficou significando mais ou menos liberdade humana... e veio até 2012"; "isso que Jesus fez começou a produzir toda uma percepção na Trimurti de que eles tinham falido".
 
@@ -55,7 +56,8 @@ A cronologia da fala contém aproximações e hesitação sobre a era anterior; 
 
 ---
 
-## Atualização — P2021-03-27 (Enki, Enlil e o Fim Súbito da Babilônia)
+## Atualização
+### P2021-03-27 (Enki, Enlil e o Fim Súbito da Babilônia)
 
 - **Relógio messiânico (RC-765):** "o relógio messiânico estava apontando pro fato de que naquela época iria aparecer o enviado dos céus que tomaria a regência da terra para si durante a era de peixes. Aí Marduk é que fez isso e a turma não aceitou";
 - A Era de Peixes como a "badalada" de Marduk no calendário profético (há ~4.000 anos).

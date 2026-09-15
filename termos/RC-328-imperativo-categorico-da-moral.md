@@ -23,7 +23,8 @@ O imperativo categórico marca a mudança provocada pelo modo humano de existir:
 - **Variações:** imperativo categórico da espiritualização; freio moral; o imperativo da racionalidade humana
 
 
-## Ampliação — B023 (O Dharma e as Castas Hindus)
+## Ampliação
+### B023 (O Dharma e as Castas Hindus)
 
 - **[B023 p. 96]** cap. 9: «Há um imperativo categórico, no campo da moral, atrelado ao modo da existência espiritual», que a «Revelação Espiritual» do séc. XIX e Sai Baba «não puderam» / «não houve por bem» esclarecer.
 - **[B023 p. 96]** o modo humano de existir mudou «como as leis ditas científicas, desta Criação, passaram a atuar no seu contexto quântico».
@@ -60,7 +61,8 @@ Ficha baseada em B023 (obra primária). O imperativo categórico da moral é a "
 
 ---
 
-## Atualização — P2026-07-30
+## Atualização
+### P2026-07-30
 
 - **Unidades:** U0087–U0098.
 - **Contexto acrescentado:** A dignidade kantiana é usada para definir coerência entre valores de consciência e conduta, base do Eu Dignificado e da autoridade vibratória.

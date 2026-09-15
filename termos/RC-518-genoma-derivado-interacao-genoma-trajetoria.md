@@ -16,18 +16,19 @@ atualizado = "2026-08-19"
 
 Conceito da RC sobre a interação genoma × trajetória do eu. Na palestra P2026-07-25, o genoma humano é apresentado como "a grande joia" da criação de 13,8 bilhões de anos — não o corpo, mas **o que um eu faz do seu genoma**: a construção interior (padrões de genética pessoal, como Jesus e Sidarta Gautama) como preciosidade disputada pelos conselhos.
 
-## ## Ampliação — P2026-07-25 (Genoma como Joia absorvido)
+## Ampliação
+### P2026-07-25 (Genoma como Joia absorvido)
 
 Devolutiva do curador (19/08/2026): "Genoma Humano como Joia" absorvido aqui (e em RC-732). Conteúdo: analogia ONU/conselho nuclear (quem domina a joia domina a criação e o criador caído); o eu humano como "bomba atômica" de dignidade; o conselho domina o DNA de quem não constrói poder sobre si mesmo. Quarentena científica: nada disso é genética validada — é leitura do autor.
 
 
-## Ampliação — P2024-02-25
+### P2024-02-25
 
 - **Genoma bichado (P2024-02-25):** 'o genoma com o qual o corpo de cada um de nós foi edificado já veio bichado e continua'; 'só um eu esclarecido pode reescrever em si mesmo a história que ele deseja'.
 - **A última aposta:** 'a última aposta que o eu do criador caído tinha ainda balas... para poder semear num ser humano e ver se dali iria surgir uma descendência da qual Javé pudesse retirar as sequências que ele queria'.
 
 
-## Ampliação — P2025-03-15
+### P2025-03-15
 
 - **Genoma/epigenoma (P2025-03-15):** "o eu da gente trabalha só esses genes que produzem proteína... 25.869 genes [STT — REVISAR → CHANCELA 10/09/2026 · F039-L5: NÚMERO COMO FALADO (B5; paralelo em RC-710, mesma fala) — ver nota]"; "o eu de um ser humano, as sensações que sente, se referem ao uso que ele faz da produção proteica"; Freud: forças ocultas no inconsciente; "o inconsciente é separado do consciente por uma barreira".
 

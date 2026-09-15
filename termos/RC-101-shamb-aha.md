@@ -34,7 +34,8 @@ Com isso:
 * **Decisão do Curador (devolutiva P2018-12-15):** Shamb-Aha = forno Awaymaion (RC-499) disfarçado de realidade — equivalência registrada como aresta 'manifesta-se-em' RC-499.
 * **Trava aplicável**: nenhuma além das gerais do despacho.
 
-## Ampliação — P2018-12-15 (Terra Atlantis – Aprofundamento)
+## Ampliação
+### P2018-12-15 (Terra Atlantis – Aprofundamento)
 
 - **[Shamb-Aha = forno Awaymaion] (U0146)** «Mas Shambaá é uma vibra, é uma realidade alternativa.» — refina RC-101: Shamb-Aha é o forno replicador Awaymaion (RC-499/RC-771) disfarçado de realidade, no mesmo molde em que Alt'Lam (RC-018) é a esfera disfarçada — especificação (não contradição) do que 'Shamba' é na P2017-10-14.
 

@@ -23,7 +23,8 @@ A Opção Inusitada é o eixo do B020: criada pelos deuses como "demônio feito 
 - **Variações:** opção mental de Hefesto; humanização de Pandora; transferência de fase demo → homo; "primeira mulher humana racional"
 
 
-## Ampliação — B087 (A Revolta do Anjo Decaído)
+## Ampliação
+### B087 (A Revolta do Anjo Decaído)
 
 - **[B087 p. 66]** "**Eu, como Pandora, mais biológica que olimpiana, evoluía e aprendia a 'pensar e sentir' de modo diferente de outrora.** Cada dia, algo novo em mim me surpreendia..."
 - **[B087 p. 65]** "**Eu era, de facto, um novo ser!**... 'Algo' crescia dentro de mim, sem que eu soubesse como aquilo acontecia…" — a narrativa INTEIRA do B087 é este processo (a "Opção Inusitada" de B020 contada em primeira pessoa).
@@ -33,7 +34,7 @@ A Opção Inusitada é o eixo do B020: criada pelos deuses como "demônio feito 
 - 0 códigos novos (O-3). **B087 adicionada às fontes** (Devolutiva O-6).
 
 
-## Ampliação — B088 (A Revolta do Anjo Decaído)
+### B088 (A Revolta do Anjo Decaído)
 
 - **[B088 p. 45 · o processo CONCLUÍDO]** "Conseguimos, ó querida Pandora!... **Você está livre da genética de Zeus e ainda mantém os seus poderes mentais!**" + "viverá bem mais do que eu!" — a "Opção Inusitada" (B020) contada até o fim pela psicografia.
 - **[B088 p. 31–32 · a "fase de transição"]** "sentia que ele estava a ter várias oscilações e a mudar muito entre a composição olimpiana e a biológica. Percebi também que a minha porção biológica estava a afirmar-se de maneira mais forte."
@@ -41,13 +42,13 @@ A Opção Inusitada é o eixo do B020: criada pelos deuses como "demônio feito 
 - 0 códigos novos (O-3). **B088 adicionada às fontes** (Devolutiva O-6).
 
 
-## Ampliação — B089 (A Revolta do Anjo Decaído)
+### B089 (A Revolta do Anjo Decaído)
 
 - **[B089 p. 60–62]** a apresentação a Enlil: Pandora "**fez uma transferência de fase e tornou-se um protótipo de uma nova espécie que estamos a chamar de biológica**" (Prometeu); o diagnóstico do aparelho: "**as moléculas... ainda estão em fase de transformação. Portanto, ela não está definida enquanto espécie.**" — a "Opção Inusitada" segue ABERTA (a transmutação de Pirra, sem poções, como o eco — p. 77).
 - 0 códigos novos (O-3). **B089 adicionada às fontes** (Devolutiva O-6).
 
 
-## Ampliação — P2020-04-25 (Os Desdobramentos da Rebelião de Lúcifer)
+### P2020-04-25 (Os Desdobramentos da Rebelião de Lúcifer)
 
 - **[P2020-04-25 · AS TRAVAS GENÉTICAS DE CONTROLE E A RUPTURA DELAS PELA EVOLUÇÃO]** "travas genéticas de controle que eles haviam colocado." (U0006) · ⭐ **NOTA DE ANTERIORIDADE — P2020-04-25:** antecipa **19 meses** a atual fonte oral mais antiga da ficha (`P2021-12-04`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
 
@@ -83,7 +84,8 @@ Ficha baseada em B020 (obra primária) + B031. A Opção Inusitada é o momento 
 
 ---
 
-## Atualização — P2021-12-04
+## Atualização
+### P2021-12-04
 
 - **Unidades:** U0593–U0598.
 - **Contexto acrescentado:** O movimento de consciência de Pandora é relacionado ao surgimento da racionalidade humana e à ruptura progressiva com a voz dos deuses.

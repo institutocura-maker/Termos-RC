@@ -49,7 +49,8 @@ Termo **candidato**: o verbete "Elohim" **não consta no glossário de B031** e 
 
 ---
 
-## Atualização — P2024-09-28 (A Raça Inabalável dos Sethianos Emancipados) — DESAMBIGUAÇÃO DEFINITIVA
+## Atualização
+### P2024-09-28 (A Raça Inabalável dos Sethianos Emancipados) — DESAMBIGUAÇÃO DEFINITIVA
 
 - **Elohim = sistema colmeico de Javé:** "Elohim era um sistema que funcionava de Javé para os seus anjos clones, do jeito que uma abelha rainha e as suas abelhas operárias compõem uma colmeia... era um grupo de seres com alfa mandando e o resto obedecendo" (RC-175 Abelha-Rainha — nova aresta RC-004 ↔ RC-175);
 - **Elohim ≠ Nefelins:** "Nefelim é uma raça extraterrestre que estava na Terra na época do problema no jardim do Éden... isso não tem nada a ver com os Elohins" (nova aresta RC-004 ↔ RC-488);

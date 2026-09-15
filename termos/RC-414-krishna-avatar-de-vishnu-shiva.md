@@ -16,7 +16,8 @@ atualizado = "2026-09-12"
 
 Avatar hindu — na RC, avatar de Vishnu (e correlacionado a Shiva), "pretenso Keshava" (RC-425); na leitura de Thot (P2023-12-02), uma **novidade gerada da junção do DNA de Brahma, Vishnu e Shiva**, que se proclamou superior à Trimurti — "avatar quechada" [STT — ver Colecionar Incertezas].
 
-## Atualização — P2023-12-02
+## Atualização
+### P2023-12-02
 
 - **Avatar de DNA misturado:** "Krishna é uma novidade que foi gerada a partir de uma juntada do DNA de Brama, Vishnu e Shiva... ele é um avatar quechada [STT]";
 - **Proclamação de superioridade:** "Krishna meio que olhou pros três da Trimurti e disse: 'Ei, eu sou maior que vocês'... e os três tiveram que ser devotos, porque Krishna mostrou para eles que tinha mais energia que os três";
@@ -25,7 +26,8 @@ Avatar hindu — na RC, avatar de Vishnu (e correlacionado a Shiva), "pretenso K
 - **Ogdóade (RC-609):** Krishna como desdobramento da leitura dos oito princípios (nova aresta).
 
 
-## Ampliação — P2026-07-25
+## Ampliação
+### P2026-07-25
 
 - **Rama e a sinarquia (RC-584):** ordem de reinar na Terra respeitada pelos arcontes; destruída pela guerra de Kurukshetra entre as famílias que mantinham a dinastia.
 - **Criação de Krishna:** CFD dos três senhores da Trimurti para servi-los; "se achou maior que os três e de fato era" — obrigou a Trimurti a venerá-lo; crise geral no conselho (últimos ~5.000 anos).
@@ -36,7 +38,7 @@ Avatar hindu — na RC, avatar de Vishnu (e correlacionado a Shiva), "pretenso K
 - **Decisão recente:** teria conversado com Shiva e "baixado as armas mentais", alinhando-se ao inevitável — abertura para a vinda de Sophia; o autor declara confiança "muito modesta" (informação recebida por canais que não pode pôr em dúvida; "Krishna desde a semana passada").
 
 
-## Ampliação — P2024-02-25
+### P2024-02-25
 
 - **Criado para a sinarquia (P2024-02-25):** 'a Trimurti havia gerado Krishna para continuar a sinarquia de Rama sobre a terra... para fazer com que um certo segmento dos Bharata devesse ganhar uma guerra em Kurukshetra para herdar o domínio da terra.'
 - **Senhor supremo:** 'se afirmou o senhor supremo, mas deixou espaço imperial para todos. Nesse ponto ele foi democrático' [REVISAR — frase do autor → CHANCELA 2026-09-06 · F041-L5: AGUARDA-ÁUDIO (dívida perdoada até nova evidência na base; STT preservado como falado) — ver nota].
@@ -44,30 +46,30 @@ Avatar hindu — na RC, avatar de Vishnu (e correlacionado a Shiva), "pretenso K
 - **4.000 anos de engrandecimento:** 'o eu do Senhor Parameshthi se torna bem menor e simplório do que o eu de Krishna ao longo dos 4.000 anos'; todos os templos de Brahma sumiram; Krishna criou avatares de si mesmo para engrandecê-lo.
 
 
-## Ampliação — P2025-02-16
+### P2025-02-16
 
 - **Krishna adármico (P2025-02-16):** "Krishna assumiu o controle desse processo e domina a Índia... a Índia hoje pertence a Krishna, como também as duas maiores locas do universo vizinho, a Goloka e a Vaikuntha"; "isso está acabando, porque Krishna, por ter traído o dharma que ele mesmo criou, está se tornando um ser adármico. O ego dele foi direcionado para padrões que o inabilitam na sua pretensão de ser o senhor supremo".
 - **Castas indianas:** "quem nasce na Índia reencarna na Índia... funciona em circuito fechado... as castas vão ter que passar por uma reformulação".
 
 
-## Ampliação — P2024-11-30
+### P2024-11-30
 
 - **Krishna (P2024-11-30):** "Krishna surge como o senhor Vishnu para cumprir a promessa feita junto a Jaya e Vijaya [porteiros de Vaikuntha; maldição dos munis]"; "eu sou o senhor supremo... sou a somatória dos três [Brama/Vishnu/Shiva]... e eles três me são devotos"; Bhagavad Gita: "faça isso em meu nome, que nem karma você gera"; Arjuna e os Pândavas × Duryodhana/Kauravas; "Gandhari, a mãe dos [Kauravas], triste porque tinha perdido 100 filhos (o número é literal), se revoltou contra Krishna e soltou uma maldição"; "um belo dia Krishna recebe uma flechada casual e morre. Se ele fosse o Senhor supremo, não poderia receber o curso da maldição nem morrer".
 - **Crítica do autor (quarentena):** "eu percebi maldade em Krishna... eu sinto a vergonha por ti que você deveria sentir"; "Krishna não está à altura do passado dele"; "ele olha para qualquer um de nós como pobres coitados... agem feito carrapatos".
 
 
-## Ampliação — P2024-11-09
+### P2024-11-09
 
 - **Krishna (P2024-11-09 — destaque A-2):** "o senhor Krishna afirma ser o senhor supremo, mas ele age e agiu como alguém que não merece, pelo menos, o meu aplauso... mas ele cumpre a tarefa dele, de fazer com que as pessoas se entorpeçam com a energia que ele emana, para que essas pessoas parem de assaltar, de se drogar, de se matar, e fiquem cantando Hare Krishna milhares de vezes ao longo do dia. OK? Mas isso é uma forma também de imbecilizar as pessoas."
 - **Castas:** "o sistema de castas lá na Índia seja tido como meio normal de educar as pessoas" (Sai Baba defendia) — quarentena.
 
 
-## Ampliação — P2024-09-29
+### P2024-09-29
 
 - **Krishna (P2024-09-29 — contexto):** a astrologia védica de Parashara como critério de comprovação de avatares ("eu sou avatar de Shiva, eu sou avatar de Vishnu — ninguém podia provar nada"); "Jesus teria que nascer dentro desses critérios para que magos da cultura persa, egípcia... pudessem ver nos astros o anúncio de que alguém importante, um avatar divino, nasceria na Terra".
 
 
-## Ampliação — P2021-01-23
+### P2021-01-23
 
 - **[P2021-01-23 — FONTE ORIGINAL] Krishna (STT 'Cristo/Cristva') (U0750–U1050):** "os seres que viviam aqui na terra, seja humano, seja os de fora, se apresentaram como avatar cachava, ou seja, que trazia uma porção da genética de cada um dos três seres [da Trimurti]" (U0876) [REVISAR — 'cachava' no STT → CHANCELA 2026-09-06 · F039-L3: AGUARDA-ÁUDIO (STT preservado como falado) — ver nota]; "e Krishna se apresentou como sendo superior aos três" (U0877); no Bhagavad Gita, "Krishna se apresenta aqui como maior do que os três seres" (U0882).
 - **Comportamento satírico e disfarce (dossiê do ciclo):** Krishna como figura de comportamento satírico/irônico ("disfarce") nos diálogos com Vyasa e Parashara [REVISAR — STT → CHANCELA 2026-09-06 · F039-L3: AGUARDA-ÁUDIO (STT preservado como falado) — ver nota].
@@ -77,20 +79,20 @@ Avatar hindu — na RC, avatar de Vishnu (e correlacionado a Shiva), "pretenso K
 - **Vyasa e Krishna (U1083–U1093):** "quando Vyasa conversando com Krishna, que era o maior ser que ele já tinha visto... 'o poder que eu tenho dele trago em mim: a essência de Brahma, a razão de Vishnu e a força de Shiva'" (U1093).
 
 
-## Ampliação — B036 (As Memórias de Javé)
+### B036 (As Memórias de Javé)
 
 - **[B036 p. 39]** voz atribuída a Javé: “Krishna foi o pretenso Keshava (personificação de um avatar que presumivelmente incorporou sequências da genética mental dos três seres da Trimurti) que se aproveitou da situação e pretendeu apartar do meu poder toda a Criação, situando-a em torno dele.”
 - Outros “antes dele também a tal pretenderam, mas nenhum havia saído das forças consorciadas da Trimurti com tal intento.” RC-425 permanece **sem ficha**. Sem fusão com B016. **Quarentena teológica.**
 
 
-## Ampliação — B023 (O Dharma e as Castas Hindus)
+### B023 (O Dharma e as Castas Hindus)
 
 - **[B023 p. 23]** Krishna = «avatar keshava enviado pelos três Senhores da Trimurti» para as «últimas etapas históricas» que definiriam «aquele que, finalmente, herdaria a Terra».
 - **[B023 p. 38]** «grande formulador, revelador, executor e principal definidor» de dharma e varna para a cultura demo e os descendentes hiperbóreos; no cap. IV do Gita, institui as castas «num tempo ainda bem anterior ao de sua personalidade como Krishna».
 - **[B023 p. 11]** Ellam defende Sai Baba «engendrado à moda de Krishna» / avatar de Shiva — **quarentena teológica** (leitura, não fato vaishnava). Sem materializar RC-425. Sem fusão com B036. Fonte **B023** já constava na tabela-mestra.
 
 
-## Ampliação — P2023-06-25 (A Proposta de Salvação do Senhor Krishna)
+### P2023-06-25 (A Proposta de Salvação do Senhor Krishna)
 
 - **[P2023-06-25 · A TESE KEŚAVA — o bloco-centro]** "a disputa dos três [da Trimurti] passou para esse universo e **eles três resolveram produzir um avatar JUNTOS** — porque **Brahma não podia produzir um avatar sozinho porque era DESALMADO. É só um ser holográfico.** Vishnu e Shiva sempre puderam... Vishnu colocaria então a maior porção de DNA, ou melhor dizendo, de código fonte definidor [nos avatares 'Keśava' — STT: 'quechava']. **O primeiro deles foi Rama. O segundo foi Krishna.**" — ⚠️ e a chave revisionista: "dos três, **quem tem fórmulas mentais de destruição mais afiada é SHIVA, o reciclador, o destruidor. Então é SHIVA quem colocava a maior dose da sua genética pessoal nos avatares Keśava. Vishnu sabia disso e deixava... A GENÉTICA DE SHIVA PREVALECEU TANTO EM RAMA QUANTO EM KRISHNA** — ainda que os seguidores de Vishnu [os vaishnavas] até hoje digam que não... **isso está absolutamente errado, mas nenhuma pessoa da Índia vai aceitar isso que a gente tá falando aqui**." [A divergência × a narrativa vaishnava registrada, jamais fundida.]
 - **[P2023-06-25 · A APARÊNCIA]** "ele não é humano. Tem uma forma humanoide, mas aquilo lá não é humano... **pele azulada, escura, roxa... contrastes pretos, muito negros... Não é bonito pra gente**" + **as 150.000 esposas**: "a perpetuação das espécies ainda é a regra número um... quanto mais alguém que tinha um código que outros não tinham reproduzisse... maior seria a probabilidade de **reparos no DNA ou no código do ente do criador caído. E Krishna fazia isso por DEVER DE OFÍCIO.**"
@@ -101,7 +103,7 @@ Avatar hindu — na RC, avatar de Vishnu (e correlacionado a Shiva), "pretenso K
 - 0 códigos novos (O-3). ⚠️ **QUARENTENA BIOMEDIÚNICA (a Devolutiva O-7): A CENA de 20/06/2023 ("Sofia tá escutando isso desse jeito e Krishna tá escutando com os quatro braços que ele tem") e a confissão da encomenda dos 3-4 livros = REGISTRO FENOMÊNICO, não ontologia.**
 
 
-## Ampliação — P2023-05-20 (As Batalhas do Final dos Tempos)
+### P2023-05-20 (As Batalhas do Final dos Tempos)
 
 - **[P2023-05-20 · A CONVERSA MAIS COMPLETA COM A TRIMURTI]** "quando eles produziram KRISHNA, Krishna olhou pros três: 'EI, EU SOU MAIOR QUE VOCÊS TRÊS, ENTÃO VOCÊS TÊM QUE SER MEUS DEVOTOS'... [a Brahma:] '**VOCÊ FICA SE GABANDO que você criou esse universo no qual nós estamos existindo e o vizinho — de fato você criou. MAS TEM MILHÕES DE UNIVERSOS [que outros] BRAHMAS Criaram... por CRIADORES MUITO MAIS CAPACITADOS QUE VOCÊ — E NÃO TEM NENHUM PROBLEMA**'... E FEZ LÁ UM JOGO DE METAMORFOSE que provou... **AÍ ELES TRÊS PERCEBERAM E SE TORNARAM DEVOTOS DE KRISHNA**."
 - **[P2023-05-20 · OS AVATARES DELE E A CADEIA DE SAI BABA]** "**KRISHNA FOI O PRIMEIRO AVATAR QUE COMEÇOU A CRIAR AVATARES DELE PRÓPRIO**... CRISTO começou a criar avatares PARA ESSES AVATARES LOUVAREM A ELE PRÓPRIO — para mostrar a Brahma, Vishnu e Shiva que, diferente dos avatares que eles criavam... KRISHNA CRIAVA AVATARES QUE ERAM DEVOTOS DELE... **SAI BABA FOI O ÚLTIMO**" + a cadeia: "**ANTES DO ESPÍRITO DELE SER [SATHYA] SAI BABA, ELE FOI [SAI BABA DE] SHIRDI, QUE É UM SANTO ISLÂMICO QUE VIVEU NA ÍNDIA. ESSE MESMO ESPÍRITO TÁ AGORA DE NOVO AQUI**" + "Sai Baba também se apresentou... como o AVATAR KALKI dos hindus, que é o mesmo... que o Mahdi à moda islâmica."
@@ -110,7 +112,7 @@ Avatar hindu — na RC, avatar de Vishnu (e correlacionado a Shiva), "pretenso K
 - 0 códigos novos (O-3).
 
 
-## Ampliação — P2023-04-30 (O Senhor Krishna e as Expressões do Ser)
+### P2023-04-30 (O Senhor Krishna e as Expressões do Ser)
 
 - **[P2023-04-30 · A DEFINIÇÃO — o bloco-centro absoluto]** "um humanoide de PELE AZUL ESCURA, poderes mentais singulares... NUNCA ALGUÉM TINHA PISADO A TERRA E ESSE UNIVERSO VIZINHO E FALADO COM TANTO CONHECIMENTO ESPIRITUAL... equivocadamente retratado como um avatar humano quando nunca foi — É UM AVATAR DE UM GÊNERO BIODEMOL"; "a expressão do ser de [Krishna] é A MAIS COMPLETA QUE EXISTIU" nos dois universos — e o Bhagavad Gita foi escrito PARA SERES HÍBRIDOS, não para humanos ("Arjuna, Duryodhana, Dhritarashtra, Pandu, Kunti — tudo seres híbridos; o problema é que as traduções os apresentam como humanos").
 - **[P2023-04-30 · O TERCEIRO PLANO DAS TREVAS — a joia estrutural]** o discurso de Sai Baba — A LUZ × AS TREVAS EM TRÊS PLANOS: "concentrar o mal numa região → Rama destrói; concentrar numa família → Krishna destrói; E O TERCEIRO: 'vamos DISTRIBUIR O MAL EM TODOS OS CORAÇÕES HUMANOS, NO DNA DE CADA SER HUMANO, PORQUE SE A LUZ QUISER DESTRUIR O MAL, VAI TER QUE DESTRUIR TODA A ESPÉCIE — E ELES NÃO QUEREM'... E ASSIM ELES FIZERAM" — o mal como REFÉM GENÉTICO da espécie inteira (a narrativa absorvida sem código — a Devolutiva O-3; ver RC-727 para a contraparte insubmissa).
@@ -123,13 +125,13 @@ Avatar hindu — na RC, avatar de Vishnu (e correlacionado a Shiva), "pretenso K
 - 0 códigos novos (O-3). Quarentenas: teológica (a luminosidade × Jesus), biomediúnica (Sai Baba/Prema Sai), científica (a reversibilidade genética).
 
 
-## Ampliação — P2023-10-14 (A Esquecida Honra dos Anunnaki)
+### P2023-10-14 (A Esquecida Honra dos Anunnaki)
 
 - **[P2023-10-14 · KRISHNA COMO INTRODUTOR DECLARADO DO DHARMA]** "Então, Krishna no Bagavaguita, que é um dos capítulos do Marabarata, ele explica com outras palavras, porque ele se diz o introdutor do conceito de dharma." (U0020); "Arjuna quando aqui estive comivaco lá atrás eu ensinei o, ensinei o conceito do dharma, ou seja, o conceito do dharma foi o que educou as gerações." (U0020)
 - **[P2023-10-14 · O BEM E O MAL NO CAMPO DE BATALHA (Arjuna)]** "Eles representam o mal e você aqui representa o bem e o bem tem que destruir o mal." (U0020) — ⚠️ registrar **como fala da fonte sobre o Gita**; não confundir com a fórmula canônica da Base sobre o bem que não destrói o mal (ver RC-422/RC-742).
 
 
-## Ampliação — P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
+### P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
 
 - **[P2022-03-26 · KRISHNA NA FALA DE 26/03/2022]** "Viaza não é um nome." (U0003) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⭐ **NOTA DE ANTERIORIDADE — P2022-03-26:** antecipa **13 meses** a atual fonte oral mais antiga da ficha (`P2023-04-30`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
 ---
@@ -140,14 +142,15 @@ O curador conferiu em **documentação confiável** (fora do corpus) e identific
 
 ---
 
-## Atualização — P2024-09-28 (A Raça Inabalável dos Sethianos Emancipados)
+## Atualização
+### P2024-09-28 (A Raça Inabalável dos Sethianos Emancipados)
 
 - **Bhagavad Gita e "pôr ordem na desordem":** "o matar em si é aquilo que Krishna explica no Bhagavad Gita. Desde que você faça sem [ódio]..." — contexto da resposta sobre os elétrons de Jesus e o genoma "ordem e desordem" de Sofia (RC-009);
 - Leitura do autor (Teologia Comparada) — não endossa violência.
 
 ---
 
-## Atualização — P2025-11-29 (A Revelação de Ifá e o Destino dos Seres)
+### P2025-11-29 (A Revelação de Ifá e o Destino dos Seres)
 
 - **Krishna roubou a devoção de Javé:** "quando Krishna surgiu na Índia, existiam mais de 5.000 templos que adoravam Brama. Hoje tem um templo só para Brahma na Índia e o resto Krishna";
 - **Batalha Islã × Krishna × orixás:** "houve uma batalha do Islã, de Krishna e dos orixás... o que resta hoje é uma gestão de escombros. É tipo Ragnarök 2" — leitura do autor (quarentena histórico-religiosa/geopolítica);
@@ -156,29 +159,30 @@ O curador conferiu em **documentação confiável** (fora do corpus) e identific
 ---
 ---
 
-## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+## Ampliação
+### P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
 
 - **[P2023-12-03 · KRISHNA (AVATAR DE VISHNU/SHIVA) NA FALA DE 03/12/2023]** «Krishna tem o problema da demência demo, que faz com que ele se engrandeça além da conta e não perceba os pequenos detalhes da sua vulnerabilidade.» (U0007) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2022-03-26`); a entrada desta fonte é de **conteúdo**, não de data.
 
 ---
 
-## Ampliação — P2022-05-07 (Shiva, o Projeto Talm e os Mistérios de Awaylengam)
+### P2022-05-07 (Shiva, o Projeto Talm e os Mistérios de Awaylengam)
 
 - **[Krishna — criando avatares próprios] (U0003)** «E quando esse Krishna tão grande ficou que Krishna passou a criar avatares dele próprio, ou seja, Chrishna Já era um avatar que achava.» — Krishna, avatar de temperamento de Shiva, passa a criar subavatares na condição humana.
 
-## Ampliação — P2024-06-16 (O Projeto TALM, os Fenvans e os Humanos)
+### P2024-06-16 (O Projeto TALM, os Fenvans e os Humanos)
 
 - **[Krishna — dono de Vaikuntha] (U0006)** «Mas a cada vez que a Trimurte gerava um novo avatar, esse avatar que era para existir durante um tempo, os avatares passaram a querer ser eternos e também que querem locas eh Krishna hoje. Ele é dono de várias locas aqui e também aqui e inclusive assumiu vaicunta.» — os avatares passaram a querer ser eternos; Krishna assumiu Vaikuntha (STT "vaicunta").
 
-## Ampliação — P2023-08-27 (Len Mion e os Senhores da Terra Alexandre Magno e Qin Shi Huang Di)
+### P2023-08-27 (Len Mion e os Senhores da Terra Alexandre Magno e Qin Shi Huang Di)
 
 - **[Krishna barrou Alexandre no Indo] (U0004)** «Quem é que barrou Alexandre no rio Indo?» — quem barrou Alexandre Magno no rio Indo foi Krishna (RC-414), que não queria a cultura helênica nos seus domínios; Lemion aceitou, pois os planos de Krishna atrapalhavam Enki (RC-486) na China.
 
-## Ampliação — P2022-11-26 (Choque de Realidade – o Perpétuo Espanto dos Donos da Verdade)
+### P2022-11-26 (Choque de Realidade – o Perpétuo Espanto dos Donos da Verdade)
 
 - **[Krishna Murti: a figura mais admirada] (U0002)** «Krishna murte é uma das figuras que eu mais admiro em termos de condição humana.» — revelação de opinião pessoal do autor: Krishna Murti é uma das figuras que mais admira em condição humana — "não sei se a sua condição humana sabe o quanto ele brigou em silêncio com a agenda do espírito que o animava"; "Krishnam nasceu para ser uma coisa e se recusou a ser" (grafias STT "Krishna murte"/"Krishnam" = Krishna Murti).
 
-## Ampliação — P2022-07-16 (Do Ramayana ao Mahabharata)
+### P2022-07-16 (Do Ramayana ao Mahabharata)
 
 - **[Do Ramayana ao Mahabharata: a história de Rama e a de Krishna] (U0006)** «O Ramaiana é uma narrativa produzida em torno de Rama e a sinarquia cósmica por ele constituída.» — a chave da palestra: "o marrabarata, por sua vez, é uma narrativa produzida em torno de Krishna, outro avatar" (U0006: «O marrabarata, por sua vez, é uma narrativa produzida em torno de Krishna, outro avatar»); "e é uma narrativa produzida em torno de Krishna e a definitiva transferência do poder trimurtiano ancestral para as novas classes demo e híbrida alghumanizadas que surgiram mais recentemente" (U0006: «E é uma narrativa produzida em torno de Krishna e a definitiva transferência do poder trimurtiano ancestral para as novas classes demo e híbrida alghumanizadas que surgiram mais recentemente»).
 - **[Rama: corpo de plasma, engendrado por Vishnu] (U0006)** «Rama era um ser de corpo de plasma feito à moda humana, a forma humanoide que transitava entre os dois universos e que passou a residir aqui nesse universo.» — a emergência: "Brama disse: Olha, vamos falar com Virgno que ele vai arranjar uma solução para isso" — "aí virgem disse: Eu vou dar um jeito nisso. Eu vou engendrar alguém. E esse alguém foi Rama" (U0009: «Eu vou engendrar alguém»); "Rama foi durante milênios quem mandou nos dois universos. Não era Brama, nem vir, nem Chiva, nem Ravan, era ele. E Indra aceitava porque reconhecia a grandeza de Rama" (U0006: «E Rama foi durante milênios quem mandou nos dois universos»).
@@ -186,7 +190,7 @@ O curador conferiu em **documentação confiável** (fora do corpus) e identific
 - **[A meditação de Ravana e as fórmulas de poder] (U0008)** «Ravana começou a meditar em cima de Rama para Rama dar todos os formas de poder que ele queria.» — "e em 10.000 anos ele conseguiu isso, arrancando cabeças dele próprio, mas pensando em Hana, isso fazia com que a dor fosse transferida paraa Hana" (STT "Hana" [REVISAR — Brahma? → CHANCELA 2026-09-06 · F039-L3: AGUARDA-ÁUDIO (STT preservado como falado) — ver nota]; U0008: «E em 10.000 anos ele conseguiu isso, arrancando cabeças dele próprio, mas pensando em Hana, isso fazia com que a dor fosse transferida paraa Hana»); "quando Brama deu as formas de poder a Ravana, aí Ravana tornou-se o mais poderoso dos dois universos. E aí ninguém segurou o cara"; "Ravana como um bom racassa, foi criado a partir do DNA de Chiva, porque Shiva no seu forno de Awailing foi quem produziu a animalidade tanto no universo de lá quanto no de cá" (U0007: «Ravana como um bom racassa, foi criado a partir do DNA de Chiva, porque Shiva no seu forno de Awailing foi quem produziu a animalidade tanto no universo de lá quanto no de cá»).
 
 
-## Ampliação — P2024-03-02 (O Drama Espiritual de Jesus)
+### P2024-03-02 (O Drama Espiritual de Jesus)
 
 - **[Krishna — avatar adhybuta dos três (Vishnu, Brama, Shiva)]:** «O espírito de Krishna era de quem? Dois. Esse aqui que está por trás de Vishnu e Brama e o de Shiva, já que Krishna é avatar Keshava dos três. Nas três porções avatáricas genômicas de Krishna existia uma banda podre que era Brama, um eu de Vishnu um pouco mais fraco e um eu de Shiva. E Krishna pendeu pro lado de Shiva.» — «Os dois inventaram uma condição adhybuta para que esse espírito ficasse estruturando a condição pessoal de Krishna [...] Krishna sempre se achou alguém ancorado na sua condição adhyatmica pura, quando isso é um engodo. Ele estava ancorado numa expressão adhybuta.» — ver RC-503 (Mavatna), RC-001 (Javé).
 
@@ -236,7 +240,8 @@ O curador conferiu em **documentação confiável** (fora do corpus) e identific
 | P2024-03-17 | A Quem Pertence o Planeta e a Biblioteca Genômica Mais Atualizada do Universo (palestra) | transcrição automatizada; citação |
 | P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |
 
-## Ampliação — P2024-03-17
+## Ampliação
+### P2024-03-17
 
 **Fonte:** palestra «A Quem Pertence o Planeta e a Biblioteca Genômica Mais Atualizada do Universo» (17/03/2024).
 

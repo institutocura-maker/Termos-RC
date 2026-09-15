@@ -24,14 +24,15 @@ Na formulação de Jan Val Ellam, é a distância entre poder ou conhecimento e 
 - relação com o Buraco Negro Mental/Consciencial — RC-717.
 
 
-## Ampliação — P2024-11-09
+## Ampliação
+### P2024-11-09
 
 - **Abismos em todos os níveis (P2024-11-09):** "há um abismo na consciência cósmica, na consciência espiritual, na consciência humana — abismos existem em todos os níveis de consciência devido ao problema que nós estamos vivendo. Problema esse que nunca foi decifrado, mas foi inventada toda uma narrativa falsa que nos cegou durante muito tempo."
 - **As "faces do abismo" dos seres poderosos (destaque A-2):** (a) "o aspecto mais torturante do abismo entre a crença dos humanos, de que existe um alguém muito especial que cuida dos humanos, e a dramática realidade que vivemos, é o de que não existe nenhum ser que a isso se assemelhe"; (b) Krishna "senhor supremo que age como alguém que não merece o meu aplauso"; (c) Jesus "caminho, verdade e vida" (frase que "as religiões usaram num sentido trágico"); (d) Sai Baba senhor supremo que apoiava as castas.
 - **Livro relacionado:** "O Abismo da Consciência Cósmica" (B065) — "um livro que eu não queria ter produzido, mas tive que fazê-lo"; "essa palestra é uma espécie de apoio ou complemento".
 
 
-## Ampliação — P2024-09-29
+### P2024-09-29
 
 - **Transtorno cognitivo (P2024-09-29):** "é quando o ser humano perde a capacidade de olhar e entender: ele olha, ao invés de entender, cria uma narrativa em relação àquilo que tá olhando e assume essa narrativa como sendo verdade... é o famoso 'me engana que eu gosto'"; "nós fomos incentivados, condicionados, cretinizados a ficarmos permanentemente nos enganando"; "enxergar coisa boa onde a ruindade existe — o nome disso é demência; aí já não é mais transtorno cognitivo, já é transtorno psíquico".
 - **A perda da linguagem comum:** "se nós não tivermos as palavras adequadas para nos referirmos aos significados que sejam comuns à nossa forma de pensar, a racionalidade humana deixa de existir"; "o movimento woke tá cretinizando de vez com a humanidade" [quarentena política]; o exemplo de Trump/posse (narrativa × fotos) [quarentena política].

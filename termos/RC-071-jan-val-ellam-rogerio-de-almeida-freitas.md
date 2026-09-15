@@ -24,7 +24,8 @@ Autor das obras-primária e complementar que fundamentam a base. Na B031 (a obra
 - **Nome civil:** Rogério de Almeida Freitas = **RC-095** (termo separado, sem ficha)
 - **Não confundir com:** RC-120 **Val El / Val Ellam** (o ser extraterrestre da Família Val — o vínculo de identidade entre ambos é relato de B060, em quarentena)
 
-## Ampliação — B031 (Painéis Emergentes da Revelação Cósmica)
+## Ampliação
+### B031 (Painéis Emergentes da Revelação Cósmica)
 
 - **[B031 pp. 9–10 · PREFÁCIO DE JAN VAL ELLAM — paratexto AUTORIZADO (hierarquia superior ao de Kummer/B089)]** a "trilha cerebral": a Educação como "um conjunto de elementos que compõem um determinado modo — método — de ofertar ao ser humano uma **'trilha cerebral'** para que o seu psiquismo possa, então, racionalmente, apropriar e/ou conviver com um dado padrão de conhecimento"; "Trilha cerebral aqui significa o conjunto dos novos elementos agora colecionados no **jogo sináptico dos mais de 80 bilhões de neurônios produzindo cerca de 100 trilhões de estradas neurais no cérebro humano**".
 - **[B031 p. 9 · PREFÁCIO]** o "perspectivo": "na prática do **perspectivo** — que é a visão filosófica que se preocupa em considerar ou analisar algo **segundo vários pontos de vista ou planos diferentes** — reside, talvez, a única maneira disponível ao ser humano adulto de se livrar das 'mesmices'".
@@ -34,7 +35,7 @@ Autor das obras-primária e complementar que fundamentam a base. Na B031 (a obra
 - **[B031 p. 14 · INTRODUÇÃO — quarentena biográfica de terceiros]** o relato de conversão da autora: primeiro contato com as RC em **15/08/2017** (a busca por "mônadas espirituais" no YouTube levou ao vídeo de Ellam; depois "O Livro de Urântia"; e a entrevista no **Programa do Jô, junho de 2004**) + a palestra no Templo da Arte (SP) — o ecossistema de difusão registrado como contexto, não fato ontológico.
 - 0 códigos novos (O-3). **Ficha materializada por ORDEM DO CURADOR em 2026-08-26** (aditamento ao ciclo B031 — resolve a nota de transparência 1 do RELATORIO-DE-CICLO).
 
-## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+### P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
 
 - **[P2023-12-03 · JAN VAL ELLAM NA FALA DE 03/12/2023]** «nasce como Enoque.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2021-12-04`); a entrada desta fonte é de **conteúdo**, não de data.
 - **[P2023-12-03 · A CADEIA ELÃ → ENOQUE]** «esse Valan, que foi uma das figuras que o meu espírito personalizou, personificou, lá atrás, ficou vivendo aqui na Terra. E com essas duas questões dos 600 e poucos foram morrendo, mas isso foi na época, exatamente na época em que existiam terras aonde hoje é o polo norte. Foi na época do hiperbório. E lá no Polo Norte, muitas partes de terra que hoje não mais existem Porque todas sucumbiram no problema que iria» (U0004) — D-12: entra **só** a cadeia de encarnações que a fonte atribui ao espírito que a anima (Valan/Elã → Enoque), sem adjetivação confirmatória e sem as frases em que a fonte se coloca como «a última opção» dos três — essas ficam na transcrição, com moldura, e não aqui.

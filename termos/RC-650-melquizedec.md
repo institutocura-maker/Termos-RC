@@ -22,7 +22,8 @@ Extraído da live P2025-10-25 — 2ª Edição Estagiários do Kaos.
 - Forma preferida: **Melquizedec**.
 
 
-## Ampliação — P2025-10-25
+## Ampliação
+### P2025-10-25
 
 - **[P2025-10-25 — FONTE ORIGINAL] Melquizedec (Pergunta 2 — Reinaldo):** "essa é uma pergunta difícil de se colocar com pretensão de se estar falando com algum grau de certeza... quase ninguém sabe muita coisa e eu estou nessa lista dos que não sabem"; contexto: "Javé escolheu, num primeiro momento, aquilo que seria a semente dos povos semitas... Adão, Sete, Cainã, Malalel, Jared, Enoque, Matusalém, Lameque, Noé; Noé teve três filhos, Sem, Cam e Jafé, mas Sem era o primogênito; então Sem, Arfaxade, Salé... até que aparece Éber e um filho dele chamado Faleg"; "Faleg disse para Éber que não iria honrar a figura de Javé" (livro "Segredo Perdido do Éden"); "eu não tive contato direto com Melquizedec quando ele esteve aqui na época dele"; "provavelmente alguns de vocês podem até inclusive ter sido contemporâneos dele — o que talvez seja o caso do nosso irmão Reinaldo, porque é a terceira ou quarta vez que ele tenta falar desse assunto ao longo dos últimos 30 anos".
 

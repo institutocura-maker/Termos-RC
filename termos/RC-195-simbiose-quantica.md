@@ -23,7 +23,8 @@ Consequência direta da queda do Criador: como todas as criaturas dividem "o mes
 - **Variações:** simbiose cósmica; interconectividade não-localizada (física quântica)
 
 
-## Ampliação — B035 (O Big Data do Criador)
+## Ampliação
+### B035 (O Big Data do Criador)
 
 - **[B035 p. 14]** «Devido ao que chamo de “simbiose quântica”, e ao que a física quântica classifica de interconectividade não-localizada, todos os seres mergulhados no âmbito do que foi gerado a partir da energia pessoal do criador caído coexistem, dividindo um mesmo mecanismo que interconecta instantaneamente o que cada uma das partes faz».
 - **[B035 p. 14–15]** *symbiosis* = associação de espécies distintas com vantagens recíprocas, «um só organismo»; o quântico = dimensões distintas interconectadas de modo não local. **Quarentena científica** (não-localidade / física quântica = analogia do autor, não fato validado).

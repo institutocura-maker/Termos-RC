@@ -22,7 +22,8 @@ São distintas da Blindagem Cósmica terrestre/quarentena RC-510. A palestra afi
 - Grafia preferida: Blindagens Interdimensionais. Variação: intramuros vibratórios.
 - **Fonte de decisão:** Quadro 9 aprovado pelo curador.
 
-## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+## Ampliação
+### P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
 
 - **[P2023-12-03 · BLINDAGENS INTERDIMENSIONAIS (INTRAMUROS VIBRATÓRIOS) NA FALA DE 03/12/2023]** «duas bandas e uma blindagem em que aqui nós temos o universo antimaterial.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2021-12-04`); a entrada desta fonte é de **conteúdo**, não de data.
 

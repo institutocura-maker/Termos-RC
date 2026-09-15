@@ -59,11 +59,12 @@ aspa fica datada aqui, e a eventual revisão do verbete nas obras continua pende
   CFD ao «criador» não é lida como negação de Deus — a cláusula «desloca o título de Deus do criador da obra» mora
   em `RC-001`/`RC-042`/`RC-742`, onde o despacho a exigiu.
 
-## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+## Ampliação
+### P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
 
 - **[P2023-12-03 · CFD (CÓDIGO FONTE DEFINIDOR) NA FALA DE 03/12/2023]** «padrões arquétipos do código fonte definidor do criador, que ou isso aqui fica organizado ou jamais esse ser aqui terá paz, terá condição psíquica de trazer para si tudo que dele foi fragmentado.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2021-12-04`); a entrada desta fonte é de **conteúdo**, não de data.
 
-## Ampliação — P2026-03-21 (Samudra Manthan A Enigmatica Alquimia de Vishnu)
+### P2026-03-21 (Samudra Manthan A Enigmatica Alquimia de Vishnu)
 
 - **[A codificação líquida: o líquido como computador que dá guarida] (U0013)** «Mas na codificação líquida, o líquido passou a ser o computador que dá guarida.» — o código genético das espécies é líquido: "essa coisa de código genético das espécies, compreendam, é líquido é a parte líquida do do corpo de um camaleão, de um rato, de um gato, de um cachorro, de um ser humano" (U0008: «Ou seja, essa coisa de código genético das espécies, compreendam, é líquido é a parte líquida do do corpo de um camaleão, de um rato, de um gato, de um cachorro, de um ser humano.»); nos fenvães, o que a mente pensasse ficava gravado na saliva, na porção líquida: "surgiu permitindo que o que a mente pensasse ficasse gravado na saliva, na porção líquida" (U0008: «Só quando os cvães ou elfos foram criados é que essa coisa de ter líquido dentro do corpo de plasma deles ou um tipo de líquido que ainda não é água, surgiu permitindo que o que a mente pensasse ficasse gravado na saliva, na porção líquida.»).
 - **[O humano como Samudra Mantã ambulante: o eu batedor do próprio genoma] (U0008)** «Mas cada ser humano traz em si, no seu genômico, todas as marcas dessa história e o eu humano é o batedor do seu próprio genoma e nós somos o próprio Samudra Mantã ambulante, produzindo ou as mesmas proteínas o tempo inteiro, tendo os mesmos comportamentos, ou alguns seres humanos conseguem produzir novos genótipos, novas sequências genéticas.» — todo pensamento é produção de produtos mentais: "Cada sensação que nós humanos temos, cada ideia, cada emoção, cada pensamento, é uma permanente produção de produtos mentais" (U0008: «Cada sensação que nós humanos temos, cada ideia, cada emoção, cada pensamento, é uma permanente produção de produtos mentais.»).

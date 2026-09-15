@@ -25,7 +25,8 @@ Na cosmologia de Jan Val Ellam (P2024-03-02), Ganesha é a divindade hindu descr
 - relação com o contexto de Krishna (RC-414) e da Trimurti (RC-104).
 
 
-## Ampliação — P2021-05-15 (As Etnias Hiperbóreas e os Anunnakis)
+## Ampliação
+### P2021-05-15 (As Etnias Hiperbóreas e os Anunnakis)
 
 - **[P2021-05-15 · GANESHA, A CANETA ESPECIAL E A TRADUÇÃO PARA OS GANDARVAS]** "Para locas, paraas locas dos gandarvas, Gene ajudou adaptando o que Viaza tava contando ao tipo de entendimento que a turma dos Gandarvas, que pertence a quatro locas distintas poderiam obter." (U0003) — ⚠️ A fonte classifica Ganesha como «aquele tipo de ser demobio» — leitura ausente da base: registrar como variante, sem alterar a ficha.
 
@@ -53,7 +54,8 @@ Na cosmologia de Jan Val Ellam (P2024-03-02), Ganesha é a divindade hindu descr
 
 A história de Ganesha, a loca de elefantes racionais e o livro de Ellam sobre o tema são **leitura do autor / mitologia hindu reinterpretada**, não fato histórico-científico. A distinção "exceção à metamorfose" pertence à cosmologia interna da RC. O verbete registra a interpretação de Ellam sem endossar a historicidade do mito.
 
-## Ampliação — P2024-03-02 (O Drama Espiritual de Jesus)
+## Ampliação
+### P2024-03-02 (O Drama Espiritual de Jesus)
 
 - **[Ganesha — exceção à metamorfose, cabeça de elefante]:** «Ganesha não é metamorfose, não. Outra história. O fato dele ter a cabeça de elefante não é devido à metamorfose, é uma outra história.» — «Quando coloca a cabeça de elefante no filho morto, é o próprio filho que volta à vida ou o novo ser?» — «Outro ser.» — «Os elefantes eram racionais assim como os seres humanos?» — «São diferentes.» — ver RC-102 (Shiva), RC-459 (Parvathi), RC-604 (Fatiamento).
 

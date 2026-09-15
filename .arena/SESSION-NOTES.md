@@ -3693,3 +3693,79 @@ Sem âncora byte a byte, a correcção honesta é **registar**, não inventar:
 
 ### Estado das arestas
 `A1 ✅ · A2 ✅ · A3 ✅ · A4 ⏳ · A5 ⏳ quarentena 100% (reextração diferida: 658 blocos) · A6 ✅ · A7 ✅ ENCERRADA · A8 ✅ SELADA`
+
+---
+
+## U87 — A4 · tranche 1: 471 → 188 assinaturas, sem mover uma linha de corpo
+
+**Despacho do Curador:** «Chegou a hora de enfrentarmos o desafio arquitetural
+da A4» — unificação taxonómica dos layouts.
+
+### 0. SEXTA REGRESSÃO DO GIT (contida na abertura)
+O HEAD local apareceu em `0a640cf` (commit base) com 728 ficheiros pendentes,
+enquanto o remoto estava em `4c78b46` (U86); o `reflog` acusava um `checkout`
+a partir de `arena/01a071c8-termos-rc`. A árvore de trabalho estava **íntegra**
+(478 notas, `correcao_U86`, despacho A7, 273 `fam`). Protocolo da U81:
+`git reset --mixed FETCH_HEAD` (**nunca** `--hard`) → HEAD reposto, restando
+1 único ficheiro divergente, o `.arena/SESSION-NOTES.md`, restaurado com
+`git checkout HEAD --`. **Zero trabalho perdido**; suíte 21/21 e Portão B
+778/778 reconfirmados.
+
+### 1. Anatomia da fragmentação
+471 assinaturas em 820 fichas (147 com lote, 673 sem). A fragmentação não vem
+de secções diferentes: vem de **193 variantes de três secções** que embutem a
+obra no título — `Ampliação — <obra>` (155 títulos, 2 071 ocorrências),
+`Atualização — <obra>` (30/190) e `Reforço — <obra>` (8/76).
+
+Verificação prévia: 62% das linhas de corpo das Ampliações (2 929 de 4 750)
+contêm a sigla da obra. Normalizar o título **não perde a referência**.
+
+### 2. Tranche 1 executada
+`## Ampliação — <obra>` → `## Ampliação` + `### <obra>` (idem Atualização e
+Reforço), com fusão das repetições **consecutivas** — que são a quase
+totalidade, pelo que **nenhuma linha de corpo foi deslocada**. Correcção
+incidental de `## ## Ampliação` (10 ocorrências, título defeituoso).
+
+| | |
+|---|---|
+| fichas afectadas | 523 |
+| subtítulos `###` criados | 2 379 |
+| H2 redundantes removidos | 1 542 |
+| títulos variantes extintos | 193 → 3 |
+| **assinaturas** | **471 → 188 (−60%)** |
+| linhas de corpo movidas | **0** |
+| fichas com lote tocadas | **0** |
+
+A RC‑092 passa de 32 H2 idênticos a uma `## Ampliação` com 28 `### <obra>`.
+
+### 3. Dependência descoberta — os verbetes citam títulos de secção
+O teste T5 (`verificar_verbetes.py` sobre `pedagogico/enciclopedia/verbetes`)
+falhou com 4 citações órfãs: os verbetes citam **títulos de secção das fichas
+como verbatim**. Corrigidas em 3 verbetes — V3.16.03‑RC690 (2 marcos
+reedificados), V4.18.03‑RC518 e V5.22.01‑RC558 (ambos **documentavam o
+defeito** `## ## Ampliação` que a tranche 1 curou; os registos passam a
+declará‑lo corrigido). **Doutrina nova:** normalizar títulos de secção obriga
+a reemitir os verbetes que os citem, no mesmo commit (Baliza 3 da U80).
+
+### 4. Validação
+- Suíte **21/21 OK** (T5 incluído) · verificador: base intacta 946/820/1887.
+- Portão B **778/778** na linha declarada, 0 falhas.
+- **35/35 lotes idempotentes · 0 regerados · 0 falhas.**
+- Corpo das fichas conferido ficheiro a ficheiro contra o HEAD: **0 fichas com
+  corpo alterado**; 97% dos subtítulos conservam a sigla da obra.
+- Diff: 523 fichas em `termos/`, **+3 132 / −2 337** — só linhas de cabeçalho.
+
+### 5. O que falta de A4 (medido, em `diagnostico/A4-TAXONOMIA-LAYOUTS-2026-09-15.md`)
+| tranche | assinaturas |
+|---|---|
+| partida | 471 |
+| 1 · família Ampliação/Atualização/Reforço (**feita**) | **188** |
+| 2 · variantes gráficas (`Citação-chave`, `Observação`, `Relações`, `Etimologia`, `Blindagem`) | 177 |
+| 3 · 66 títulos residuais (108 ocorrências), revisão individual | ~150 |
+| 4 · **unificação da ORDEM** — decisão editorial, move conteúdo | a decidir |
+
+A tranche 2 provoca **colisões** (fichas com `Termos Relacionados` e
+`Relações centrais` ganhariam dois H2 iguais) e foi por isso deixada de fora.
+
+### Estado das arestas
+`A1 ✅ · A2 ✅ · A3 ✅ · A4 ⏳ tranche 1 de 4 feita (471→188) · A5 ⏳ reextração · A6 ✅ · A7 ✅ · A8 ✅`

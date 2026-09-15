@@ -33,11 +33,12 @@ Com isso:
 * **Grafia STT:** 'toatas de ganã' = Thuata de Dannan. Chegaram queimando os navios; astralizaram-se em fadas/gnomos.
 * **Trava aplicável**: nenhuma além das gerais do despacho.
 
-## Ampliação — P2017-10-14 (Da Base Atlan ao Colégio Druídico)
+## Ampliação
+### P2017-10-14 (Da Base Atlan ao Colégio Druídico)
 
 - **[a chegada dos Thuata de Dannan] (U0166)** «A história da mitologia irlandesa diz que os filhos de já existiam lá, mas que tiveram que conviver com a chegada de povos que não eram humanos, chamado partolanos, nemedianos, formorianos, toatas de ganã.» — STT `toatas de ganã`=Thuata de Dannan; chegaram à Irlanda queimando os próprios navios, em conflito com partolanos, nemedianos e formorianos.
 
-## Ampliação — P2022-09-18 (as quatro relíquias; cotejo F030, 2026-09-05)
+### P2022-09-18 (as quatro relíquias; cotejo F030, 2026-09-05)
 
 - **[os quatro objetos "sagrados para a cultura dos hiperbórios"] (U0002 · chars 876–1423)** «os toatas de Danã, que há 14.000 anos atrás, quando saíram do hiperbório que havia sucumbido a certos cataclismas e chegaram no norte da Escócia, No norte da Irlanda, eles elevaram quatro objetos, entre aspas, sagrados para a cultura dos hiperbórios. O caldeirão do deus de Águeda, a lança do rei Lug, a espada do rei doado e o pedra falante. E essa pedra, quando qualquer rei ia suceder algum outro rei na linha sucessória, a pedra que confirmava o nome do rei ou então os candidatos a reificavam dentro da pedra e a pedra dizia o nome de alguém.»
 - **Precisão mitográfica (o STT lido com a bússola F030 — o refatorado NÃO é fonte):** «deus de Águeda» = **caldeirão de Dagda**; «rei Lug» = **lança de Lugh**; «rei doado» = **espada de Nuada**; «pedra falante» = **Pedra do Destino (Fál)**, a pedra que nomeava o rei na sucessão. O estudo de terceiros (F030, Daniela D. Ferro) reproduz as mesmas quatro relíquias na ordem Pedra/lança/espada/caldeirão — convergência registrada; a degradação fonética do STT é corrigida pela própria fala, não pelo doc.

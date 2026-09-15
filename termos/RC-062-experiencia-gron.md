@@ -33,7 +33,8 @@ Com isso:
 * **Grafia STT:** 'experiência cronom' = Experiência Gron. 983 dos 1.641 biodemos alteraram a fase vibratória junto com a esfera.
 * **Trava aplicável**: nenhuma além das gerais do despacho.
 
-## Ampliação — P2018-12-15 (Terra Atlantis – Aprofundamento)
+## Ampliação
+### P2018-12-15 (Terra Atlantis – Aprofundamento)
 
 - **[a experiência Gron] (U0081)** «Então, aconteceu a experiência cronom envolvendo os biodemos do norte.» — a experiência Gron (RC-062): a operação magnética em que 983 dos 1.641 biodemos alteraram a fase vibratória junto com a esfera, criando Alt'Lam.
 

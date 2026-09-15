@@ -23,13 +23,14 @@ O B049 explora a dialética fé × razão como complementares: a fé de Jesus (a
 - **Variações:** fé × razão; o choque fé-razão; a fé de Jesus e a crítica de Nietzsche
 
 
-## Ampliação — B049 (Jesus e Nietzsche)
+## Ampliação
+### B049 (Jesus e Nietzsche)
 
 - **[B049 p. 115]** cap. 11: «A fé, efetivamente, “move montanhas”, mas a “vontade de potência” também»; Jesus nasceu «enjaulado» na crença do povo e mediu o mundo pela fé das escrituras, não pela razão; Nietzsche «passou longe» de perceber o problema das origens.
 - **[B049 p. 122–123]** cap. 12: o «homem Jesus» nasceu subjugado por um «plano de fora»; a razão filosófica impediu o aprisionamento total no papel de Messias dominador; fé da família / apóstolos / povo / Javé × razão que encaminha à cruz. «Egos adoecidos» (p. 115) = **clínica**. Sem fusão com B001 / B014. RC-372 permanece **sem ficha**.
 
 
-## Ampliação — P2020-04-25 (Os Desdobramentos da Rebelião de Lúcifer)
+### P2020-04-25 (Os Desdobramentos da Rebelião de Lúcifer)
 
 - **[P2020-04-25 · NIETS NA BOCA DA FONTE: A ABREVIAÇÃO E O REFERENTE]** "Niets dizia que quando você olha olha para um abismo, tanto você olhar para o abismo durante um bom tempo, esse abismo termina olhando para você." (U0006); "Então eu tô tentando dizer para vocês que nós, os seres humanos, somos o abismo paraa Javela." (U0006) · 🆕 **primeira fonte oral desta ficha** — o cadastro só tinha `B049`, `P2020-04-25`; `P2020-04-25` entra como a primeira fala registrada, **com a data de 25/04/2020**.
 

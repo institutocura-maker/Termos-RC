@@ -19,17 +19,18 @@ Ser vinculado à Frota Norte e ao Conselho dos Cinco (RC-501); na leitura da RC,
 - Termo já presente na base (mineração B031; relações RC-109; RC-018);
 - **ficha física materializada** por autorização da Devolutiva ART-2025-08-01 (O-2 — a devolutiva lista RC-132 explicitamente), a partir da conexão inédita trazida pelo material do curador.
 
-## Ampliação — ART-2025-08-01
+## Ampliação
+### ART-2025-08-01
 
 - **[ART-2025-08-01 — material do curador] Val Tam e Awayen (Parte I):** "as fontes revelam um detalhe intrigante: a 'consciência espiritual de Val Tam está de algum modo acoplada ou prisioneira' a esta 'estação cósmica' [Awayen]. Este é um ponto que as fontes prometem aprofundar em futuras obras, como o livro 'Awayen – A Central de Realidades'" [REVISAR — grafia do título: 'Awayem' no ART; obra anunciada B083 → CHANCELA 2026-09-05 · F038-L2: FONTE AUSENTE DA ARCA — ver nota].
 
 
-## Ampliação — P2025-08-01
+### P2025-08-01
 
 - **[ART-2025-08-01] Val Tam acoplada a Awayen (Parte I):** "as fontes revelam um detalhe intrigante: a 'consciência espiritual de Val Tam está de algum modo acoplada ou prisioneira' a esta 'estação cósmica' [Awayen, a Central de Realidades de Brahma]. Este é um ponto que as fontes prometem aprofundar em futuras obras, como o livro 'Awayen – A Central de Realidades'" [REVISAR — grafia do título 'Awayem' no ART; obra anunciada B083 → CHANCELA 2026-09-05 · F038-L2: FONTE AUSENTE DA ARCA — ver nota] — conexão inédita na base (ficha física materializada por Devolutiva O-2).
 
 
-## Ampliação — P2025-08-02
+### P2025-08-02
 
 - **[ART-2025-08-02 — material do curador] Val Tam e o Processador Val (Glossário):** "há relatos de Val Tam, que desconfiou ter sido 'captado' pelo 'Processador Val' e buscava compreender o destino dos dados que passavam por sua mente, embora a origem e destinação exatas permanecessem um mistério" [REVISAR — leitura → CHANCELA 2026-09-06 · F041-L5: DADO-NARRATIVO (sem código novo) — ver nota]; "as mensagens codificadas encontradas por Yel Lupon foram passadas para os biodemos de Alt' Lam Gron, que as armazenaram no 'Processador Val'".
 

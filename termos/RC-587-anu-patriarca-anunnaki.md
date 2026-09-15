@@ -23,19 +23,20 @@ Aparece na disputa entre clãs e na reação ao uso das armas atômicas que teri
 - **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
 
 
-## Ampliação — P2022-12-17
+## Ampliação
+### P2022-12-17
 
 - **[P2022-12-17 — FONTE ORIGINAL] Anu (U0830–U0850):** "Anu era o dono da terra, na lógica dos Anunnaki"; "Anu, que é o pai de Enki e Enlil, não sabe como resolver a situação"; "Anu ficou p da vida com tudo isso e os Anunnaki perderam a capacidade de continuar a disputar com outras forças o domínio na Terra"; "Anu chamou todo mundo de volta, ainda que alguns tenham ficado".
 
 
-## Ampliação — B089 (A Revolta do Anjo Decaído)
+### B089 (A Revolta do Anjo Decaído)
 
 - **[B089 p. 54]** "**Aqui me reporto sob a ordem do meu pai e Rei Anu.**" — e (via Epimeteu, p. 50): "o seu governante e pai havia se comunicado com ele e **lhe ordenado para não demorar mais**" (o rei pressiona o príncipe).
 - **[B089 p. 67 · a linhagem]** "**todos da realeza descendem do mesmo ramo genético do nosso Rei Anu. Veja, ele e a nossa Rainha Ki, que é a sua irmã, são descendentes diretos dos nossos mais antigos governantes.** O rei manteve a pureza da sua linhagem ao procriar com ela, e deles nasceu o nosso Príncipe Enlil."
 - 0 códigos novos (O-3). Quarentena ufológica (O-7). **B089 adicionada às fontes** (Devolutiva O-6).
 
 
-## Ampliação — P2021-05-15 (As Etnias Hiperbóreas e os Anunnakis)
+### P2021-05-15 (As Etnias Hiperbóreas e os Anunnakis)
 
 - **[P2021-05-15 · O PREDOMÍNIO DE ANU NAS ETNIAS HIPERBÓREAS (o dado que faltava à ficha)]** "E então o Deus que mais tinha prestígio, o Deus que mais era reverenciado, vamos assim dizer, não era nenhum dos seres que vive nesse universo aí vizinho, em nenhum das moradas." (U0003)
 - **[P2021-05-15 · A VISITA PERIÓDICA À TERRA]** "Mas essa inana, ela é que ela quando a nu vinha a Terra cada cerca de 3600 anos, que é o tempo da órbita que o planeta Anibiro faz em torno aí do sistema solar." (U0003) — ⚠️ a mesma cifra de 3.600 anos serve aqui para a periodicidade da vinda, não só para a órbita; o autor a relativiza no Q&A (ver RC-589).
@@ -44,7 +45,7 @@ Aparece na disputa entre clãs e na reação ao uso das armas atômicas que teri
 - **[P2021-05-15 · O PONTO CEGO: A DESCENDÊNCIA DOS DOIS FILHOS]** "Ele olhou tanto para essas questões que esqueceu de olhar pra descendência de seus dois filhos e foi exat também que o grande problema que a eh acabou com a perspectiva dos anunaques dominarem a terra, que foi aquilo que a gente falou numa numas palestras meses atrás, né, quando Nerginta, filho de Enquenil, brigaram tanto que terminaram saltando bombas de uma briga com Mardur e outras figuras aí do clã Hen Lil soltaram bombas atômicas no Vale do Sinai e no Vale do Sidim." (U0003)
 
 
-## Ampliação — P2023-10-14 (A Esquecida Honra dos Anunnaki)
+### P2023-10-14 (A Esquecida Honra dos Anunnaki)
 
 - **[P2023-10-14 · O SELO DE ANU NA CARTA DE GAUZU (material inédito para a ficha)]** "E Gauzu entrega a Enque e a Enlil uma carta de recomendação com o selo de Anu." (U0005); "É, mas eu não conheço nemum o Gauzu." (U0005) — ⭐⭐ A cena do emissor desconhecido — o selo autêntico e a assinatura não reconhecida — não consta das fontes atuais da Base.
 - **[P2023-10-14 · ANU E O CONSELHO DOS SETE DIANTE DA INVASÃO]** "E Anu e o conselho dos sete ainda valiam os efeitos colaterais que a invasão na parte das forças do universo vizinho poderá provocar." (U0046)
@@ -81,7 +82,8 @@ A Base já individualiza outros Anunnakis; este cadastro preserva a mesma granul
 
 ---
 
-## Atualização — P2023-12-02 (Thot, o Enigmático Hermes Trismegisto)
+## Atualização
+### P2023-12-02 (Thot, o Enigmático Hermes Trismegisto)
 
 - **Anu/An, imperador de Nibiru:** "foi através dessa negociação que Anu ou An, o imperador de Nibiru, mandou os dois filhos dele para cá — na verdade três — Enki e uma irmã chamada Ninmah...";
 - **Governo central de Nibiru:** "obedece basicamente a dois critérios: um, descendência genética; e dois, em caso de dúvida, os que querem o poder entram numa arena sem nenhuma arma e se resolvem sem matar ninguém" (leitura do autor);

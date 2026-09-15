@@ -39,7 +39,8 @@ atualizado = "2026-08-16"
 
 [P2024-08-03] Não confundir a interpretação de Ellam com etologia ou evolução validadas. A legenda viral da alcateia é falsa; carne crua não é apresentada editorialmente como ativadora de memória lupina; alegações clínicas foram excluídas.
 
-## Ampliação — P2024-08-03
+## Ampliação
+### P2024-08-03
 
 - **[P2024-08-03 — destaque O-2] A She-Wolf (U1223–U1245):** "o lobo sempre esteve associado à mulher, representando a mulher livre, independente, ativa, também chamada de She Wolf"; lendas celtas correspondentes ao que Michelle Pfeiffer interpretou no cinema; "essa associação de lobo e mulher traduz uma manipulação genética dos descendentes de Kasyapa e Marichi com os descendentes de Pulaha, ou seja, de humanos com lobos" — perspectiva de um híbrido que trouxesse aos humanos a genética lupina de cuidar dos vulneráveis ("os mais vulneráveis na frente para que o resto cuide").
 - **[P2024-08-03] Rainha Medb (U1329–U1335):** rainha irlandesa celta que reinou em Connacht, pertencente ao ciclo de Ulster; "seu nome significa mulher ou rainha loba"; deusa da guerra pelo desempenho em guerra e forte magnetismo sexual.

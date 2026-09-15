@@ -16,7 +16,8 @@ atualizado = "2026-09-12"
 
 Espírito primordial companheiro de En Ma (Emá, RC-476). Na leitura da RC, os 70 membros do conselho dos arcontes são consciências fatiadas de Emá **e de Ensá**; os seres de Ensá resolveram sair do conselho — Saibaba foi o penúltimo a sair ("o último não, o penúltimo"), recusando assento.
 
-## ## Ampliação — P2026-07-25
+## Ampliação
+### P2026-07-25
 
 "Todos os 70 membros do conselho dos Arcontes hoje são consciências fatiadas de Emá e de Ensá, só que os seres de Ensá resolveram sair. E o último deles que foi Saibaba... o penúltimo, resolveu não... não se sentou." — A saída dos seres de Ensá como sinal do esvaziamento/fim da dinastia (ver RC-494).
 

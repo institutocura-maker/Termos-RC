@@ -23,12 +23,13 @@ Olm atua desde tempos antigos (a consciência que o personifica já atuou em out
 - **Variações:** Codificador de Zion; Codificador de Zian; Quarto Logos (RC-092); "Olm (ou Codificador de Zian)" (B031)
 
 
-## Ampliação — P2024-08-03
+## Ampliação
+### P2024-08-03
 
 - **[P2024-08-03] "O velho codificador" (U1463–U1466):** "há um desconhecido que é o que eu chamo de quarto logos nos livros que escrevo, que é o velho codificador"; a compreensão de quem ele é passa pela Ogdóade e pela "rebelião de Lúcifer" [STT: "Yel Luzbel"] — "em termos do que a gente pode contar na ótica terrena".
 
 
-## Ampliação — B016 (O Quarto Logos)
+### B016 (O Quarto Logos)
 
 - **[B016 p. 17]** “Sophia e o Codificador de Zion são os dois seres” com quem o autor convive neste ciclo de esclarecimento.
 - **[B016 p. 101]** “Assim se expressou o ‘Codificador de Zion’, que se identificou como Olm”; convite a uma escola de “agentes esclarecidos da busca da verdade” no sistema de Capela — **quarentena ufológica**.
@@ -37,7 +38,7 @@ Olm atua desde tempos antigos (a consciência que o personifica já atuou em out
 - RC-255 / RC-256 permanecem **sem ficha**. Zion = variação de Zian.
 
 
-## Ampliação — B057 (A Revolta do Anjo Decaído)
+### B057 (A Revolta do Anjo Decaído)
 
 - **[B057 p. 27]** o título no livro: "**Mestre Codificador de Zion**" — "Este ser era muito respeitado e mesmo **venerado por todos os capelinos**" (nota, p. 30).
 - **[B057 p. 30 · nota de fim de capítulo — a escola]** "O Mestre Codificador de Zion era responsável por **uma escola no planeta Zion**, para onde convergiam todas as informações coletadas nos diversos campos da pesquisa cósmica. A escola do planeta Zion foi criada por ele, para os que tivessem condições de aprender a **arte da codificação e da decodificação cósmica**, com o objetivo de **decifrar o grande enigma da existência deste universo e do seu Criador**."
@@ -74,13 +75,15 @@ Ficha baseada em B016 (obra primária) + B031. Olm é o protagonista do B016 —
 
 ---
 
-## Atualização — P2021-12-04
+## Atualização
+### P2021-12-04
 
 - **Unidades:** U0327–U0385; U0443–U0450; U0572–U0583.
 - **Contexto acrescentado:** Olm é confirmado como um dos seres LM de Tempérion, integrante da Ogdóade e encarnado como Apolônio de Tiana.
 - **Status da evidência:** transcrição automatizada, pré-curada e aprovada quanto à integração terminológica; conferir com áudio/obra antes de promover status.
 
-## Ampliação — P2023-07-09 (A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons)
+## Ampliação
+### P2023-07-09 (A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons)
 
 - **[Codificador de Zian — escola de decifração]** «E ele então criou chamada escola de decifração de Zel e alguns membros de cada família envolvidas com aquela sensação de de que algo de errado tava existindo» — a escola reuniu membros de várias famílias biodêmicas para investigar as feridas na realidade. Ver RC-092 (Quarto Logos), RC-826 (Rebelião dos Elétrons).
 

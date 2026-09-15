@@ -24,7 +24,8 @@ No Mentalma I (B074, itens 7.2 e 13.1 — "A 'primeira versão' do psiquismo hum
 - **Composição:** deha (corpo) + atma (alma) + buddhi (mente/inteligência)
 
 
-## Ampliação — B074 (Mentalma I)
+## Ampliação
+### B074 (Mentalma I)
 
 - **[B074 pp. 151–152]** definição sânscrita: "animal humano, mentalmente incapacitado de perceber que o seu psiquismo, além de ser formado pela natureza animal do seu corpo, é também composto pela natureza espiritual da sua Alma"; a doença ocorre quando o indivíduo "conclui equivocadamente: **'Eu sou o corpo!'**"; "uma 'triste verdade pessoal' que atinge quase todos, na humanidade"; a "Chave da Vontade Maior" não consegue atuar no "ego nervoso e primitivo".
 - **[B074 pp. 153–155]** a "**primeira versão**" do psiquismo: os primeiros pensamentos/sentimentos são falsos — arquivos "jogados" na "caixa de depósito" pela vida/"corrente mental"; a técnica da "vontade de observar" (teste dos cinco minutos); "pescar" na "corrente mental" ("um tipo de 'internet cósmica' dos campos mórficos da espécie"); o "Não sou eu!" como distanciamento psíquico.
@@ -34,7 +35,7 @@ No Mentalma I (B074, itens 7.2 e 13.1 — "A 'primeira versão' do psiquismo hum
 - **Quarentena clínica:** o método não é terapia; o trecho p. 215 (biodemos/Len Mion/Hitler) está **banido da malha** (O-7). 0 códigos novos.
 
 
-## Ampliação — B075 (Mentalma II)
+### B075 (Mentalma II)
 
 - **[B075 p. 13]** "Dehatma-buddhi" é "uma expressão sânscrita que descreve **aquele ser humano apartado do seu Corpo Búdico** — um dos Corpos Superiores —, e que, ao assumir que é o próprio corpo físico material, se confunde com o corpo animal, com o nome que lhe deram ao nascer"; analogia da TV: o corpo é "tão somente um instrumento"; o nome = "um dos canais da TV, o que se encontra selecionado no momento"; "o ego humano **perdeu essa capacidade** de saber se sintonizar naquilo que ele gostaria".
 - **[B075 p. 15]** "A maioria dos seres humanos se porta como um 'dehatma buddhi', apresentando esse tipo de doença psíquica" (exemplos: missa, passe, dízimo — **crítica religiosa, leitura**).
@@ -43,7 +44,7 @@ No Mentalma I (B074, itens 7.2 e 13.1 — "A 'primeira versão' do psiquismo hum
 - **[B075 p. 127]** "O pior automatismo que um ser humano pode ostentar é o de 'colecionar' arquivos mentais ruins. O automatismo é subproduto da 'doença' do Criador deste universo, mas as pessoas não precisam aplicá-lo ou fazer como Javé, pois elas têm a condição — que ele não possui — de serem **criativas e ousadas**."
 - 0 códigos novos.
 
-## Ampliação — P2012-02-19 (Xadrez Cósmico de Brahma, Vishnu e Shiva)
+### P2012-02-19 (Xadrez Cósmico de Brahma, Vishnu e Shiva)
 
 - **[Dehatma Buddhi, o engano com o corpo] (U0004)** «Derratman Bud também uma outra palavra que diz daquele ser humano que se confunde com o seu próprio corpo ou com sua própria personalidade e pensa que ele é isso que os outros pensam que eles são.» — Dehatma Buddhi (RC-551, STT 'Derratman Bud'): a palavra sânscrita para 'aquele ser humano que se confunde com o seu próprio corpo ou com sua própria personalidade'.
 

@@ -42,10 +42,11 @@ Consultar Base.
 ## Observações
 Teologia comparada e alegações científicas permanecem atribuídas ao palestrante.
 
-## Reforço — P2025-02-15
+## Reforço
+### P2025-02-15
 
 A palestra volta a afirmar que plantas psicoativas possuem centenas de moléculas complexas e teriam sido manipuladas. A afirmação exige ressalva botânica e científica.
 
-## Reforço — P2024-11-30
+### P2024-11-30
 
 Cannabis e outras plantas são descritas como portadoras de centenas de moléculas complexas e possível manipulação externa. Exige ressalva botânica e científica.

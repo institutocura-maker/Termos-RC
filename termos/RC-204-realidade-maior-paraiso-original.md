@@ -24,7 +24,8 @@ B001 registra a Realidade Maior. P2021-12-04 a descreve como Paraíso Original o
 - **Termo externo local:** Ilha Estacionária do Paraíso, de *O Livro de Urântia*, mantido apenas como remissão/glossário.
 
 
-## Ampliação — B001 (O Drama Cósmico de Javé)
+## Ampliação
+### B001 (O Drama Cósmico de Javé)
 
 - **[B001 p. 13]** «A Realidade Maior é pré-existente a tudo»; universo espiritual «onde nada é transitório posto que tudo é eterno pela vontade do Pai Supremo».
 - «afirmam os Espíritos Codificadores» = **referência externa** (Kardec); Ellam relata, não ontologizar a codificação. Sem fusão com P2021-12-04. Fonte **B001** já constava na tabela-mestra.
@@ -46,7 +47,8 @@ B001 registra a Realidade Maior. P2021-12-04 a descreve como Paraíso Original o
 | Corpo Búdico | RC-624 | associado |
 | Corpo Manásico / Corpo Mental | RC-625 | associado |
 
-## Atualização — P2026-07-30
+## Atualização
+### P2026-07-30
 
 - **Unidades:** U0042–U0054.
 - **Contexto acrescentado:** O Paraíso Original é descrito como plenitude/êxtase permanente que inibe ímpeto criativo; seus desdobramentos búdico e manásico permitiriam consciência de externalidade e criação.
@@ -55,7 +57,8 @@ B001 registra a Realidade Maior. P2021-12-04 a descreve como Paraíso Original o
 ---
 ---
 
-## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+## Ampliação
+### P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
 
 - **[P2023-12-03 · REALIDADE MAIOR / PARAÍSO ORIGINAL NA FALA DE 03/12/2023]** «todos esses seres são 100% pacíficos.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2021-12-04`); a entrada desta fonte é de **conteúdo**, não de data.
 

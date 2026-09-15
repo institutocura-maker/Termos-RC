@@ -23,7 +23,8 @@ Conceito desenvolvido na palestra «A Falsa Queda do Ser Humano e a Indignidade 
 - **Variações:** pouso seguro da consciência; princípios e propósitos pessoais
 - **Idioma de origem:** Português
 
-## Ampliação — P2024-02-04
+## Ampliação
+### P2024-02-04
 
 **Fonte:** palestra «A Falsa Queda do Ser Humano e a Indignidade Entronizada como Religião» (04/02/2024).
 

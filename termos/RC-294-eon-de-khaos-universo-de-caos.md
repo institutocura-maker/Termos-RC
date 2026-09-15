@@ -24,7 +24,8 @@ O "Eon de Khaos" é o nome grego para o universo antimaterial (Brahmaloka) visto
 - **Idioma de origem:** grego (αιών = era/mundo; khaos = caos)
 
 
-## Ampliação — B021 (Tempos Difíceis no Olimpo)
+## Ampliação
+### B021 (Tempos Difíceis no Olimpo)
 
 - **[B021 p. 10–11]** «inúmeros genos que compõem o "Eon de Khaos", ou seja, o "Universo de Caos"».
 - **[B021 p. 12]** «em todo o eon de Caos (Brahmaloka, o universo antimaterial)». RC-038 materializada P5c.

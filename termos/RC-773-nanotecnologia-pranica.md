@@ -18,7 +18,8 @@ Base tecnológica do **Projeto TALM** (RC-091): manipulação da matéria em esc
 ## Contexto / Origem
 Criado por autorização excepcional do curador (Devolutiva Trilogia TALM, O-3 — RC-773) a partir do ART-2025-08-03.
 
-## Ampliação — ART-2025-08-03
+## Ampliação
+### ART-2025-08-03
 
 - **Cap. 1:** "a Nanotecnologia Prânica é a espinha dorsal de todo o Projeto TALM... opera em uma escala e com uma sofisticação muito mais avançadas [que a nanotecnologia terrestre]";
 - "transcende as limitações da física ondulatória ou quântica que atualmente compreendemos, operando em um nível onde a formação de cada subpartícula dos átomos provém de frequências específicas de vibração de cordas e seu colapso quântico, conforme a Teoria das Cordas e Supercordas";

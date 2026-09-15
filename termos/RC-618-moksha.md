@@ -23,17 +23,18 @@ Libertação da roda reencarnacional por superação da ignorância e emancipaç
 - **Fonte de decisão:** Quadro 9 aprovado pelo curador.
 
 
-## Ampliação — P2025-02-15
+## Ampliação
+### P2025-02-15
 
 - **Moksha (P2025-02-15 — contexto):** as "fórmulas mentais viciadas" (sanscaras/vāsanās) como grilhões; "quem está livre disso não tem esses grilhões"; a libertação individual (ver RC-705 e RC-712).
 
 
-## Ampliação — P2024-11-30
+### P2024-11-30
 
 - **Samsara (P2024-11-30):** "só tem sansara funcionando mesmo"; "alguns de nós que já nem precisariam mais encarnar, mas nós temos a conquista da ressonância límbica"; "você mergulha no sansara de novo sem precisar, mas você mergulha porque precisa fazer por uma questão de consciência sua, não pela necessidade mais do destino a ser cumprido"; "o pior: às vezes, num mergulho desses, você se complica e gera um destino a ser cumprido por você mesmo".
 
 
-## Ampliação — P2021-12-04
+### P2021-12-04
 
 - **[P2021-12-04 — FONTE ORIGINAL] Moksha (U0610–U0612):** "é o velho Moksha [STT 'Mcha'] que Kapila falou há cerca de 2.700 anos atrás: é quando você supera os padrões de ignorância no campo do conhecimento e da compreensão que lhe mantêm prisioneiro dessa situação; e quando você para de ser alguém que alimenta ou retroalimenta essa situação e passa a buscar uma perspectiva nova, e você se torna o agente dessa busca. Isso chama-se [moksha] em relação a esse oceano de [merda] que a gente tá mergulhado até aqui".
 

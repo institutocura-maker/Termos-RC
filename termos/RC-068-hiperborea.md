@@ -16,7 +16,8 @@ atualizado = "2026-09-12"
 
 Na RC, o **"Norte Sagrado"** — a região mítica do extremo norte (também **Norte Divino**, RC-083) para onde convergia a geografia sagrada da antiguidade: "toda a história da Terra é voltada pro chamado norte sagrado, não era pro sul".
 
-## Atualização — P2025-11-29 (A Revelação de Ifá)
+## Atualização
+### P2025-11-29 (A Revelação de Ifá)
 
 - **1ª etapa da Revelação de Ifá:** "essa história começou na Hiperbórea, no Oriente Médio e foi bater no ocidente da África" — a primeira etapa (~11–14 mil anos atrás) se perdeu; os fatos anteriores a ~14.000 anos se perderam;
 - **Portais e geografia sagrada:** "os deuses do Olimpo saíam do Olimpo para ir para as cidades da Hiperbórea... porque lá era bom demais... o point, o lugar chique era essa Hiperbórea. Quando a Hiperbórea afundou, os descendentes desceram para a Irlanda, Escócia, Sibéria, Alasca";
@@ -24,7 +25,8 @@ Na RC, o **"Norte Sagrado"** — a região mítica do extremo norte (também **N
 - Cronologia e geografia são **leitura do autor** (cronologia interna).
 
 
-## Ampliação — P2021-05-15 (As Etnias Hiperbóreas e os Anunnakis)
+## Ampliação
+### P2021-05-15 (As Etnias Hiperbóreas e os Anunnakis)
 
 - **[P2021-05-15 · A PALESTRA INTEIRAMENTE DEDICADA AO TEMA (a fonte mais completa da taxonomia)]** "E se hoje nós somos esses seres humanos, surpreendentemente, somos uma espécie única, seja lá de que tipo de lógica ou ótica ou ângulo a gente observe, a espécie humana é é realmente um ponto fora da curva em relação a tudo que existe, seja em que nível for, do paraíso a esse caos infernal que vivemos e as etnias, as espécies que nos definiram são exatamente essas que a a gente já falou em outras palestras e hoje eu vou novamente me referir ao tema, mas colocando alguns itens, algumas eh alguns painéis em torno dessas etnias, vinculando com o ser humano." (U0003); "Eh, são seis, basicamente, as principais parcelas ou componentes que ao longo dessa história de aproximadamente uns 30.000 anos de muita importância situada entre 40.000 anos e 10.000 anos atrás, esse foi o período mais importante da história dessas cidades." (U0003)
 - **[P2021-05-15 · O CRITÉRIO DO SEXO: demobios assexuados × demobiol sexuados]** "Então, aqui assim, aqueles seres descendentes de Odim, os Aesir e Vanir ou Aesires e Vanires, esses seres Demobio foi eh foram a as equipes que mais trabalharam nesses últimos 50.000 anos, no sentido de formar cidades ou dominar ou criar cidadelas." (U0003); "Então, esses seres notadamente, né, que eu chamo de Demobiol, porque muitos deles, diferentes das descendências de Odim, dos Aesir e dos Vanires, que não eram sexuados, estes Zeus eram sexuados." (U0003) — ⚠️ A fonte distingue DEMOBIO de BIODEMO («um padrão diferente dos biodemos»): não fundir com RC-036/RC-186; a equação demol↔demobio é decisão do Curador.
@@ -39,29 +41,29 @@ Na RC, o **"Norte Sagrado"** — a região mítica do extremo norte (também **N
 - **[P2021-05-15 · O LIVRO IMPOSSÍVEL]** "A questão é que dessa misturada que houve nessas cidades em que não há livro nenhum do mundo e nunca mais, ao longo da eternidade, penso eu, nós teremos a capacidade de de escrever um livro assim." (U0003)
 
 
-## Ampliação — P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
+### P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
 
 - **[P2022-03-26 · HIPERBÓREA NA FALA DE 26/03/2022]** "portal da antiguidade quando estavam abertos eram estirpes e perbórias que brigavam entre si, toatas de danã contra partolanos, contra nemedianos, contra aí os próprios humanos, através dos milesianos também que passaram a ter essas brigas fronteiristas." (U0018) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2021-05-15`); a entrada desta fonte é de **conteúdo**, não de data.
 
-## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+### P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
 
 - **[P2023-12-03 · HIPERBÓREA NA FALA DE 03/12/2023]** «A turma do Hiperbório foi então construindo essas cidades.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2021-05-15`); a entrada desta fonte é de **conteúdo**, não de data.
 
-## Ampliação — P2018-12-16 (Terra Atlantis - Era Sapiens)
+### P2018-12-16 (Terra Atlantis - Era Sapiens)
 
 - **[os hiperbóreos e o código ariano] (U0014)** «Porque eles esses bolos tinha uma certa cota do código que viria criar os arianos depois.» — os hiperbóreos (RC-068) tinham a cota do código que viria criar os arianos: conheciam a história da rebelião (900 milhões de anos), eram pacíficos e transmitiram essa linhagem via Gomer.
 
-## Ampliação — P2022-10-01 (A Wyrd e a Espiritualidade)
+### P2022-10-01 (A Wyrd e a Espiritualidade)
 
 - **[Os híbridos surgiram no hiperbório] (U0002)** «No tempo em que os seres híbridos surgiram no hiperbório.» — o ponto de partida da espiritualidade errática: "No tempo em que os seres híbridos surgiram no hiperbório. No tempo em que o conceito de dharma surgiu entre aqueles seres como sendo um conceito pedagógico que em eles cumprindo faziam com que eles sentissem a nova, entre aspas, sensação de honra pessoal"; "Só que isso os bramenes elevaram a um nível de orgulho"; "a maioria dos seres hiperbórios queriam ir para onde os corpos, os ancestrais hiperbórios estavam, ou seja, os céus dos ancestrais hiperbórios" (U0002: «Ainda que onde os humanos estavam tinham algumas almas desencarnadas de corpos híbridos hiperbóis, mas torno a dizer alguns ou a maioria dos seres hiperbórios queriam ir para onde os corpos, os ancestrais hiperbórios estavam, ou seja, os céus dos ancestrais hiperbórios.»).
 
 
-## Ampliação — P2022-09-25 (O Contexto Espiritual da Construção de Brasília)
+### P2022-09-25 (O Contexto Espiritual da Construção de Brasília)
 
 - **[A lendária Hiperbórea e as cidades do Polo Norte] (U0003)** «E essas terras estavam entre as terras que hoje pode ser considerado pelos terráqueos como sendo a lendária hiperbória.» — "O que é a hiperbória? Ou o continente tule. Seja na mitologia escandinava, seja na mitologia nórdica, seja na mitologia celta... Aonde hoje ao Polo Norte existiam terras e ali as cidades adas dos hiperbórios existiam há cerca de 14.000 anos atrás. Falhas fírias, górias, múrias, eloxia ou exiloia" (U0003: «Aonde hoje ao Polo Norte existiam terras e ali as cidades adas dos hiperbórios existiam há cerca de 14.000 anos atrás.») — "há cerca de 14.000 anos, devido um cataclisma, simplesmente foram engolidas pelo oceano. Só que os sobreviventes desceram do Polo Norte, foram para onde hoje é o Alas. foram paraa Sibéria, na Rússia, foram pro norte da Escócia, foram pro norte da Irlanda"; "nos últimos 20.000 anos o hiperbório terreno era o lugar mais chique de toda a criação de Brama ou de Javer... Apolo adorava sair do Olimpo e e conviver com os hiperbórios, porque os pessoal do Olímpio era tudo um bando de demente".
 
 
-## Ampliação — P2022-09-18 (as relíquias da cultura dos hiperbórios; cotejo F030, 2026-09-05)
+### P2022-09-18 (as relíquias da cultura dos hiperbórios; cotejo F030, 2026-09-05)
 
 - **[os quatro objetos sagrados levados do hiperbório] (U0002 · chars 876–1113)** «os toatas de Danã, que há 14.000 anos atrás, quando saíram do hiperbório que havia sucumbido a certos cataclismas e chegaram no norte da Escócia, No norte da Irlanda, eles elevaram quatro objetos, entre aspas, sagrados para a cultura dos hiperbórios. O caldeirão do deus de Águeda, a lança do rei Lug, a espada do rei doado e o pedra falante.» — o espólio é **hiperbóreo por origem**: as quatro relíquias (Caldeirão de Dagda · Lança de Lugh · Espada de Nuada · Pedra do Destino/Fál, com a precisão mitográfica lida pela bússola F030 — detalhe na ficha RC-398) partem com os Tuatha quando o Norte afunda e fundam a "tradição que deu origem à mitologia céltica". A datação do episódio — **«há 14.000 anos atrás»** — casa com a entrada já registrada nesta ficha («a ida da Irlanda foi quando as terras hiperbolianas se ferraram 14.000 anos atrás», P2017-10-14) e com «~11–14 mil anos» (P2025-11-29); as datas "20 mil" (corpo) e "15 mil" (slide) do refatorado F030 **não foram adotadas** (ledger D-9).
 - **Trava (navalha mantida — decisão homologada em 05/09/2026):** nenhum código novo para as relíquias/Pedra de Scone; F030 não é fonte de citação.

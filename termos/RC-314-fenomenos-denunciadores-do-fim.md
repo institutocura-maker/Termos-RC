@@ -23,7 +23,8 @@ Os fenômenos denunciadores do fim são o pano de fundo sensorial de todo o B022
 - **Variações:** fenômenos do fim; tormentas magnéticas; fenômenos denunciadores (título de capítulo em B035 e B022)
 
 
-## Ampliação — B022 (Inquisição Trimurtiana)
+## Ampliação
+### B022 (Inquisição Trimurtiana)
 
 - **[B022 p. 58–63]** cap. 4 *Fenômenos Denunciadores do Fim* (narração de Ellam): «ribombar de eventos distantes, como se fossem trovões longínquos»; «fenômenos eletromagnéticos» com repercussão no «plasma-matéria» dos corpos; o «espaço-tempo» da dimensão vibra com «epicentro» acima das cabeças; gravidade some por instantes e todos flutuam. A sequência matéria/antimatéria e a «violação da paridade» no universo antimaterial = **quarentena científica** (leitura do autor). Mentores espirituais (p. 61) **isolados**.
 - **[B022 p. 125–126]** cap. 9 (narração de Ellam — **não** é o cap. 4): «o firmamento daquele lugar continuava em plena convulsão»; «potentíssimos fenômenos»; «campo protetor» em torno dos três / «tormentas magnéticas». «No início dos encontros, pensei que o desconforto era só meu… o menos incomodado era eu, pois aquilo tudo doía na organização daqueles seres.» «Profundamente medicados para que suas formas pudessem conviver com o inevitável» = **quarentena clínica** (leitura, jamais diagnóstico).

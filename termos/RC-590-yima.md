@@ -23,7 +23,8 @@ A palestra cita Yima ao tratar das eras e de cidades subterrâneas na região da
 - **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
 
 
-## Ampliação — P2022-12-17
+## Ampliação
+### P2022-12-17
 
 - **[P2022-12-17 — FONTE ORIGINAL] Yima e as cidades subterrâneas (U0650–U0660):** "o Avesta fala de Yima. Yima seria um ser que a cerca de 12.000, 14.000 anos atrás, quando a Terra passou... dentro de um certo cinturão em que restos de um cometa, mas eram restos complicados, bateram aqui na terra durante mais de 1.000 anos e a turma do universo vizinho percebeu que ia acontecer isso. Esse avatar foi produzido e esse avatar construiu cidades subterrâneas lá onde hoje é a Turquia... inúmeras cidades interligadas"; "o Avesta dá pistas disso aí, o Kalevala finlandês também".
 

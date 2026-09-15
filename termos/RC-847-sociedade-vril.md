@@ -33,7 +33,8 @@ Com isso:
 * **Grafia STT:** 'sociedade do frio' / 'sociedade vila' = Sociedade Vril. Fundada em 1902; só mulheres médiuns ('frioistas').
 * **Trava aplicável**: nenhuma além das gerais do despacho.
 
-## Ampliação — P2018-12-16 (Terra Atlantis - Era Sapiens)
+## Ampliação
+### P2018-12-16 (Terra Atlantis - Era Sapiens)
 
 - **[Sociedade Vril, a 'sociedade do frio'] (U0059)** «Em 1902, a sociedade do frio surgiu e os frioistas, os línguiros da época, eram só mulheres, que recebiam mensagens de uma raça alienígena que se propunha repassar técnica, notícias de um antigo asem da época dos deuses para que só a Alemanhase aquelas notícias e por isso pudesse desenvolver armas para dominar o mundo.» — Sociedade Vril (STT 'sociedade do frio/vila'), fundada em 1902; só mulheres médiuns ('frioistas') recebiam mensagens de uma raça alienígena que propunha repassar a 'ciência perdida' da época dos deuses.
 

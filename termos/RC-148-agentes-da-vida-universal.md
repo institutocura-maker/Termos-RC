@@ -24,17 +24,18 @@ Termo-título da obra primária *A Epopeia dos Agentes da Vida Universal* (B024,
 - **Obs.:** a "epopeia" refere-se à saga das consciências espirituais (mônadas) ao longo da Criação "indevida"
 
 
-## Ampliação — P2025-05-31
+## Ampliação
+### P2025-05-31
 
 - **Agentes da Vida (P2025-05-31 — do sumário):** "o Projeto Talm visa transformar o antigo nidana em uma equipe de agentes da vida consciente e perceptiva"; a redenção do criador depende das "informações" produzidas pelas "Consciências Particularizadas" (criaturas-ferramenta).
 
 
-## Ampliação — P2025-03-15
+### P2025-03-15
 
 - **Agentes da vida / heróis (P2025-03-15):** "nós somos os heróis e heroínas criados para resolver essa porcaria aí, só que a gente não sabe disso"; "na verdade, esses seres foram criando as coisas não com intenção predefinida. Eles foram jogando dados biológicos, bioquímicos, e vendo o que é que dava no resultado" (a Bíblia: "viu que era bom" depois de criar).
 
 
-## Ampliação — B024 (A Epopeia dos Agentes da Vida Universal)
+### B024 (A Epopeia dos Agentes da Vida Universal)
 
 - **[B024 p. 5]** a sinopse firma o termo-título: “sem os seres vivos, a vida não teria lugar, e tão somente existiria o palco”; o fenômeno se hospeda nos corpos, no psiquismo de cada espécie e, mais misterioso, “é na mente dos seres vivos onde a vida efetivamente acontece”.
 - **[B024 p. 7]** a encomenda da Introdução: escrever a “Epopeia da Consciência Espiritual” por trás dos “Agentes” de um “Jogo” — o “Xadrez Cósmico” — executado por Divindades que tomam as espécies da vida universal como “equipes”. Sem fusão com B001 / B002.

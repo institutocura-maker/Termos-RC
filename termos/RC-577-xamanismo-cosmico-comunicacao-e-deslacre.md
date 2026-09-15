@@ -23,7 +23,8 @@ No uso da palestra, protocolo antigo de comunicação entre o universo antimater
 - **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
 
 
-## Ampliação — P2024-08-03
+## Ampliação
+### P2024-08-03
 
 - **[P2024-08-03 — destaque O-2] Epimeteu como base do xamanismo (U1480–U1495):** "quem é o mais responsável pelo fato do ser humano ser do jeito que é hoje? É a figura mais louca que eu conheço em toda essa história"; "criou tudo que nós imaginamos como sendo a base do xamanismo"; plantas terrestres com mais de 500 moléculas complexas — "a Terra não faz isso... ayahuasca, cannabis e uma série de outras raízes... foi manipulado"; "quem mais fez isso foi a figura chamada Epimeteu, que era irmão de Prometeu"; "Prometeu era sábio, Epimeteu era leso... mas é genial para muitas coisas"; "ele fez todas as misturas xamânicas... tudo que a gente conhece hoje é Epimeteu por trás".
 
@@ -66,7 +67,8 @@ Distinguir o uso próprio das RC do xamanismo em sentido antropológico geral.
 
 **Regra de status:** permanece ⚪ candidato porque a fonte é STT sem áudio anexado. A aprovação do curador valida a modelagem terminológica, não substitui a futura conferência com áudio ou obra primária.
 
-## Ampliação — Xamanismo Naga / P2025-02-16
+## Ampliação
+### Xamanismo Naga / P2025-02-16
 
 A palestra atribui aos Nagas o estímulo à manipulação de raízes, plantas e moléculas psicoativas para contato com um reino mental serpentino. Relatos de imagens de serpentes em experiências com cannabis, Ayahuasca, iboga e outras beberagens são integrados à leitura do Xamanismo Cósmico.
 
@@ -74,17 +76,19 @@ A palestra atribui aos Nagas o estímulo à manipulação de raízes, plantas e 
 
 **Evidências:** P2025-02-16, U0752–U0768. Relações ampliadas: RC-664, RC-687 e RC-697.
 
-## Reforço — P2025-02-15
+## Reforço
+### P2025-02-15
 
 O Xamanismo é apresentado como canal ancestral de deslacre perceptivo, alimentação e cura, ligado à mistura de raízes e plantas psicoativas. Corrigir sempre com X. Origem extraterrestre e manipulação de moléculas complexas permanecem alegações da palestra.
 
-## Reforço — Cannabis e plantas complexas / P2024-11-30
+### Cannabis e plantas complexas / P2024-11-30
 
 A palestra relaciona cannabis e outras plantas à expansão de consciência e ao Xamanismo ancestral. As afirmações sobre Jesus, manipulação artificial e efeitos clínicos permanecem alegações sem validação histórica ou médica.
 
 ---
 
-## Atualização — P2024-09-28 (A Raça Inabalável dos Sethianos Emancipados) — ABSORÇÃO NT-ST03 (TERIANTROPIA)
+## Atualização
+### P2024-09-28 (A Raça Inabalável dos Sethianos Emancipados) — ABSORÇÃO NT-ST03 (TERIANTROPIA)
 
 - **Três elementos comuns dos transes xamânicos (pesquisa citada):** (1) "a sensação de que aquilo era terrivelmente verdadeiro"; (2) "as árvores estão vivas querendo falar com você"; (3) "aparecem cobras e em alguns casos essas cobras se transformam em felinos";
 - **Teriantropia (absorvida aqui — decisão do curador):** "existe em alguma realidade subjacente à nossa... seres serpentoides e alguns deles que se transformam em felinos, se metamorfoseiam em felinos; o nome disso é teriantropia";

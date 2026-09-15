@@ -34,22 +34,23 @@ Com isso:
 * **Decisão curatorial:** 'Nova Jerusalém' absorvida em RC-258; 'Nag Hammadi' em RC-268; 'Babilônia' (= Nova York/World Trade Center) e 'as duas testemunhas' (Rogério + João Paulo I) não materializadas.
 * **Trava aplicável**: nenhuma além das gerais do despacho.
 
-## Ampliação — P2025-05-10 (Mistérios do Apocalipse)
+## Ampliação
+### P2025-05-10 (Mistérios do Apocalipse)
 
 - **[O Apocalipse, exceção às profecias] (U0003)** «Porém, a pretensão de quem produziu o livro Apocalipse é a de que no Apocalipse do que ali está inexoravelmente vai acontecer.» — o Apocalipse (RC-854) pretende ser a exceção ao pressuposto prudente de que profecia 'predispõe mas não impõe': nele, o que está 'inexoravelmente vai acontecer'.
 - **[Revelação, não fim de mundo] (U0007)** «O significado do apocalipse não é fim de mundo, não é Graça não é isso, é revelação.» — 'o significado do apocalipse não é fim de mundo' — é 'revelação' (julgamento está nos evangelhos).
 
-## Ampliação — P2023-02-11 (Agente Humano Jesus e os Arcontes)
+### P2023-02-11 (Agente Humano Jesus e os Arcontes)
 
 - **[O Apocalipse: a confirmação de Sofia] (U0033)** «Os termos do estranho livro do Apocalipse, que nada mais é do que a confirmação de Sofia, dizendo que iria cumprir sim a promessa que o eu humano dele havia feito em nome dele, de que no futuro ele retornaria e o apocalipse seria exatamente o enredo e o roteiro das profecias que inevit aconteceria.» — ~70 anos após a crucificação, Sofia (então chamada assim pelos seguidores de Jesus reunidos em torno de Maria Madalena) ditou, via um anjo, a João — o único apóstolo ainda vivo — os termos do Apocalipse: a ratificação da promessa de retorno feita pelo eu humano de Jesus.
 
 
-## Ampliação — P2022-11-20 (A Incompreendida Nova Aliança proposta por Jesus)
+### P2022-11-20 (A Incompreendida Nova Aliança proposta por Jesus)
 
 - **[Javé no trono sem saber tirar os selos] (U0007)** «E quando ele escreveu Apocalipse, ele botou Javé sentado num trono, os sete livros selados, mas dizendo o que?» — Sofia escreveu o Apocalipse "através de um anjo através de João, o apóstolo" (U0007: «Então, quando Sofia escreveu Apocalipse através de um anjo através de João, o apóstolo, foi dizendo: "Eu vou cumprir tudo que o meu avatar humano disse que faria em relação a boa nova que ele deixou entre os homens.») — e botou Javé no trono com os sete livros selados "dizendo o quê? Que nem sabia tirar os selos dos livros e dizer de todas as profecias ali descritas, quais as que de fato iriam acontecer" (prosa); a carimbada final da nova aliança: "com o desastre que Javé fez com Jesus, Sofia rompeu com Javé" (veto léxico — formulação retida no BLOCO 5, registrada em prosa).
 
 
-## Ampliação — P2026-03-21 (Samudra Manthan A Enigmatica Alquimia de Vishnu)
+### P2026-03-21 (Samudra Manthan A Enigmatica Alquimia de Vishnu)
 
 - **[Os 30 minutos entre a sexta e a sétima trombeta: a angústia de Sofia] (U0032)** «Esses 30 minutos que é dito, que vai acontecer entre o toque do da sexta trombeta de um anjo e o da sétima trombeta, que já anuncia a chegada de Jesus, são 30 minutos em que o próprio Sofia na época ficou sem saber o que é que diabos ia acontecer direito ali.» — o tempo se organizou e se esgotou: "E esse algum tempo ele chamou de 30 minutos aproveite para se organizar e assim esses 30 minutos já se acabaram" (U0032: «E esse algum tempo ele chamou de 30 minutos aproveite para se organizar e assim esses 30 minutos já se acabaram.»); "2026 se acaba isso é o que eles dizem" (U0032: «2026 se acaba isso é o que eles dizem.»).
 - **[O Apocalipse encomendado no meio da confusão] (U0032)** «Então, Apocalipse é esse livro encomendado no meio dessa confusão.» — a queda das torres no capítulo 18: "João, nos capítulos 18, no Apocalipse descreve a queda das torres do Road Trade Center" (U0032: «João, nos capítulos 18, no Apocalipse descreve a queda das torres do Road Trade Center.») [STT «Road Trade Center» = World Trade Center — sem emenda].

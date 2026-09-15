@@ -22,11 +22,12 @@ Extraído da live P2025-10-25 — 2ª Edição Estagiários do Kaos.
 - Forma preferida: **Últimas Ordens de Javé aos Clones**.
 
 
-## Ampliação — P2025-10-25
+## Ampliação
+### P2025-10-25
 
 - **[P2025-10-25 — FONTE ORIGINAL] As últimas ordens de Javé aos clones (Pergunta 3 — Ana):** "as últimas ordens de Javé para eles [os clones]... isso é uma coisa que o meu código de ética não permite que eu vá além"; "nessas ordens tinha instruções que têm tudo a ver com a pergunta de Ana: Javé não disse 'olha, procurem vocês entre os judeus, como ele fazia antes, entre os arianos'; agora foi: 'vejam nos alunos, nas pessoas que estão estudando esses assuntos, o que é que vocês podem'"; "nós da Revelação Cósmica somos a base mais atual do que um dia foram os escolhidos de Javé, para isso ou para aquilo"; "nesse sentido, a resposta é afirmativa à pergunta de Ana".
 
-## Ampliação — P2024-06-16 (O Projeto TALM, os Fenvans e os Humanos)
+### P2024-06-16 (O Projeto TALM, os Fenvans e os Humanos)
 
 - **[Últimas Ordens de Javé aos Clones — a ressignificação] (U0006)** «Então os anjos clones o criador continuam cumprindo as últimas ordens recebidas de Brama e o novo projeto que o novo projeto é isso aqui que a gente precisa criar, já que o projeto Talm parou, precisa ser ressignificado lá na frente.» — os clones cumprem as últimas ordens de Brahma; o novo projeto precisa harmonizar-se com elas.
 

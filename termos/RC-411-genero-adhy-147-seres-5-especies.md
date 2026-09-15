@@ -23,12 +23,13 @@ A palestra fornece a fonte direta mais detalhada da taxonomia: 147 seres, cinco 
 - **Fonte de decisão:** curadoria estrutural C-01 a C-07, 2026-08-14.
 
 
-## Ampliação — P2020-07-11
+## Ampliação
+### P2020-07-11
 
 - **[P2020-07-11] O Gênero Adhy e os espíritos (U0220–U0240; U0380–U0400):** "147 consciências particularizadas... a família Pastevinagem, ~43 individualidades"; "10 seres adiátima podem representar 5 espíritos adiágia (fatiamento)"; "8 seres adiátima = 7 espíritos (ou 6) adiágia" — a relação ser/espírito como chave do Gênero Adhy.
 
 
-## Ampliação — P2021-12-04
+### P2021-12-04
 
 - **[P2021-12-04 — FONTE ORIGINAL] O Gênero Adhy e a taxonomia (U0156–U0158):** "os 147 seres [STT 'seres arte'] que terminaram compondo essa espécie ou esse gênero... olhando de acordo com a taxonomia que a gente aplica na biologia aqui na Terra, reino, filo, gênero, espécie, eles são gênero, porque esses 147 seres, nesse número pequeno, têm cinco tipos de seres que compõem os 147 seres; então são cinco espécies formando esse gênero. A espécie Pashvnaj [STT 'vinage'] com 43 figuras que compõe essa rede" (U0158).
 - **O rompimento com a mente coletiva (U0103–U0110):** "os seres [Adhy] romperam com essa questão de que a mente individual não vale nada, o que vale é a mente coletiva... eles passaram a assumir com o tempo uma nova postura mental que meio que diferenciava os Seres Adhy dos demais grupos de seres de Perpérion, mas também de Mermérion, de Danérion, de Antérion"; "toda rede de informação desses níveis tomou consciência de que os Seres Adhy haviam rompido essa característica da natureza psíquica daqueles dias, em que o coletivo sempre iria prevalecer".
@@ -72,7 +73,8 @@ Correção estrutural aprovada: a antiga relação RC-411 inclui RC-412 apontava
 
 ---
 
-## Atualização — P2024-05-04
+## Atualização
+### P2024-05-04
 
 - A palestra reafirma 147 Adhy e 43 Pashvnaj em Perpérion.
 - Divergências e alegações científicas permanecem abertas/atribuídas à palestra.

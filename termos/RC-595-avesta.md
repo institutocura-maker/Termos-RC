@@ -23,12 +23,13 @@ Aparece no diálogo com as eras culturais de Rudolf Steiner e com a cronologia d
 - **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
 
 
-## Ampliação — P2022-12-17
+## Ampliação
+### P2022-12-17
 
 - **[P2022-12-17 — FONTE ORIGINAL] Avesta (U0650–U0660; U0645–U0656):** "Rudolf Steiner, que formulou a antroposofia, estudou essas últimas cinco eras zodiacais, ou seja, as de 2.160 anos... cada era cultural dessa são 2.160 anos mais ou menos"; "ele situa [a era do] Avesta como tendo sido a mais importante... falando de fatos ocorridos há 10.000 anos atrás"; "a era de peixes com Jesus, a outra era anterior greco-romana, israelita, uma outra era anterior onde os [persas?] dominaram, uma outra era anterior onde os Vedas dominaram com cultura védica" [Steiner = referência externa (antroposofia), não ontologia].
 
 
-## Ampliação — P2023-05-20 (As Batalhas do Final dos Tempos)
+### P2023-05-20 (As Batalhas do Final dos Tempos)
 
 - **[P2023-05-20 · O CONTEXTO PERSA — O SAOSHYANT]** "quando ZOROASTRO, que é 2.700 anos atrás, esteve aqui, falou de AHURA MAZDA e ARIMÃ [Angra Mainyu] como sendo UMA BATALHA FINAL que aconteceria no final dos tempos — **QUE É EXATAMENTE ESSE MESMO TEMPO**... essa batalha aqui NÃO é pelo contexto planetário: É O CONTEXTO UNIVERSAL — envolve os dois universos" + "**NO FIM DOS TEMPOS, AHURA MAZDA ENVIARÁ À TERRA O SEU ÚLTIMO PROFETA, O SAOSHYANT [STT: 'Saoans'] — QUE É [HOCHMAH] OU SOFIA — PARA REALIZAR O JULGAMENTO GERAL dos seres humanos. É ISSO QUE É DITO NO ZEND AVESTA**" + **A TRIANGULAÇÃO**: "Zoroastro apenas organizou esse assunto: das tríades de todas religiões e mitologias, na verdade são três, MAS SÓ DOIS BRIGAM... O PROBLEMÁTICO É O JAVÉ/BRAHMA. E QUEM É O AHURA MAZDA? **VEM DE VISHNU**" + "os persas... Ciro, rei dos persas, foi quem tirou os judeus do cativeiro da Babilônia" + a religião do fogo ("as famílias se reuniam em torno do fogo... sempre imaginando que NO FOGO ESTARIA A PRESENÇA de um portal com a deidade").
 - **[P2023-05-20 · ZOROASTRO PROCUROU ROGÉRIO]** ⚠️ [quarentena biomediúnica] "**EU TIVE O PRIVILÉGIO UMA VEZ DE TER SIDO PROCURADO POR ELE**... nada do que ele me pediu eu consegui fazer, porque ele queria exatamente... ENVOLVER NO OCIDENTE AS INTERPRETAÇÕES DE ZEND AVESTA, ATUALIZAR. Eu até disse que ia fazer, MAS NUNCA FIZ NADA E NÃO VOU FAZER MESMO. Não sei se outro alguém fará."

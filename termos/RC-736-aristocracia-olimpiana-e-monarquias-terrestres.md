@@ -59,7 +59,8 @@ atualizado = "2026-08-29"
 
 [P2024-09-29] Alegação extraordinária genética e histórica restrita à interpretação de Ellam. Descendência divina, marcadores genéticos e continuidade monárquica não são apresentados como genealogia ou genética validada.
 
-## Ampliação — P2024-09-29
+## Ampliação
+### P2024-09-29
 
 - **Aristocracia Olimpiana × Monarquias Terrestres (P2024-09-29):** as monarquias terrestres como cópia do modelo de dominação da aristocracia olimpiana (Zeus/Atena/Poseidon); "era isso que Javé, Zeus e todo mundo queria: humanos submetidos aos deuses"; "não há nenhum exemplo maior do que [o Japão], porque os japoneses de fato se submetem à casa imperial japonesa — o maior exemplo e o mais atual".
 - **O imperador como "Deus":** "pro japonês, o imperador não é um ser humano: ele é Deus, um Deus descendente de Amaterasu. Simples assim. É assim que eles pensam. Nenhuma monarquia humana tem essa profissão de fé no rei imperador que os japoneses têm."
@@ -67,7 +68,7 @@ atualizado = "2026-08-29"
 
 ---
 
-## Ampliação — B087 (A Revolta do Anjo Decaído)
+### B087 (A Revolta do Anjo Decaído)
 
 - **[B087 p. 21–22 · a Assembleia]** "Zeus e os seus irmãos eram os principais deuses que formavam a **'Assembleia dos Eleitos'**, que tinha o poder de decidir o destino de todos. Entre todos os deuses dessa 'assembleia', o mais poderoso era Zeus." (nota 3 p. 19: **os doze** — Zeus, Hera, Poseidon, Atena, Ares, Deméter, Apolo, Ártemis, Hefesto, Afrodite, Hermes e Dionísio.)
 - **[B087 p. 28]** a "elite dos deuses do Olimpo" (Atena "fazia parte da 'elite' — e isso a tornava diferente dos outros 'filhos diretos' de Zeus").
@@ -76,7 +77,7 @@ atualizado = "2026-08-29"
 
 ---
 
-## Ampliação — B088 (A Revolta do Anjo Decaído)
+### B088 (A Revolta do Anjo Decaído)
 
 - **[B088 p. 84 e 88 · ARES]** "o mais terrível de todos, ou seja, **Ares, o deus da Guerra**! Ele e Atena apresentavam as suas armas em punho!" (p. 84); "O 'deus da guerra' era mais 'prático'... **destruía primeiro e perguntava depois**... **Ares era um deus frio e instável!** Ninguém sabia como ele agiria!" (p. 88 — personagem sem termo; registro observacional, O-3).
 - **[B088 p. 87–88 · o decreto e a caça]** a ordem irrevogável a Atena e Ares; "Todos os deuses ficaram nervosos porque sabiam que, a partir daquele instante, seriam investigados e pressionados" — "**uma verdadeira 'caça' aos possíveis inimigos de Zeus**" (p. 90).
@@ -84,7 +85,7 @@ atualizado = "2026-08-29"
 
 ---
 
-## Ampliação — B089 (A Revolta do Anjo Decaído)
+### B089 (A Revolta do Anjo Decaído)
 
 - **[B089 p. 40 · ARES caracterizado]** "**autoritário, violento, controlador, vil e malvado. Destruir, era sempre o seu objetivo, porém, antes... achava melhor se ainda pudesse humilhar o seu adversário... primeiro, ele adorava causar sofrimento, para só depois aniquilar** o adversário. Esse era Ares, o 'Deus da Guerra', filho de Zeus e Hera." (Ares = **nó satélite estrutural** — sem código, Devolutiva O-3.)
 - **[B089 p. 42 · TÉMIS]** "**a minha criadora faz parte dos doze titãs chamados de 'Deuses Anciães'**... Témis é tida entre nós, os olimpianos, como a **'Deusa da Justiça e do Conhecimento'**." (Témis = nó satélite estrutural — sem código.)
@@ -93,7 +94,7 @@ atualizado = "2026-08-29"
 
 ---
 
-## Ampliação — P2023-04-15 (Desafio Crucial: O Alinhamento do Espírito de Jesus)
+### P2023-04-15 (Desafio Crucial: O Alinhamento do Espírito de Jesus)
 
 - **[P2023-04-15 · AS LOCAS PARTICULARES E A ARISTOCRACIA]** "com o tempo Vishnu passou a ter descendência — Nyx, Érebo, Moros, Tânatos... e isso gerou UMA ARISTOCRACIA EM TORNO DA TRIMURTI toda nesse universo vizinho. E essa aristocracia CHEGAVA AO PONTO DE QUE CADA SER IMPORTANTE TINHA SUA PRÓPRIA LOCA OU MORADA OU CÉU PARTICULAR nesse universo vizinho. E isso foi gerando muitos problemas entrópicos e guerra disso e guerra daquilo" — a estrutura social do universo vizinho na voz mais completa.
 - **[P2023-04-15 · A INVASÃO ESTRATÉGICA]** "infelizmente nos últimos 20 ANOS, esse universo começou a ser INVAZIDO por locas desse universo vizinho. PARTE DISSA TEM A VER COM A DISTRIBUIÇÃO ESTRATÉGICA DE FORÇAS DESSE LADO PARA IMPEDIR SOFIA DE CHEGAR SE APROXIMAR DA TERRA"; "os espíritos todos desses seres que estão imantados a esses corpos que estão morrendo no outro lado VIRÃO PARA CÁ. Só que alguns dessas figuras JÁ ESTÃO VINDO PARA CÁ PORQUE ESTÃO CONSEGUINDO TRAZER SEUS CORPOS" ⚠️ quarentena ufológica — o bloco retido na apostila.
@@ -105,7 +106,7 @@ atualizado = "2026-08-29"
 ---
 ---
 
-## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+### P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
 
 - **[P2023-12-03 · ARISTOCRACIA OLIMPIANA E MONARQUIAS TERRESTRES NA FALA DE 03/12/2023]** «tipo uma rainha da Inglaterra, um rei da Inglaterra, em que todo mundo faz de tudo e de vez em quando ele mostra lá, cara.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2023-04-15`); a entrada desta fonte é de **conteúdo**, não de data.
 

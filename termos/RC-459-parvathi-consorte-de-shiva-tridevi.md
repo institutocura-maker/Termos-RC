@@ -33,7 +33,8 @@ Com isso:
 * **Sati → Parvati:** a fonte narra a imolação de Sati e o retorno como Parvati (STT 'Paraki'). A grafia canônica Parvathi (RC-459) cobre a figura; Sati é candidata a termo novo (radar).
 * **Trava aplicável**: nenhuma além das gerais do despacho.
 
-## Ampliação — P2022-05-07 (Shiva, o Projeto Talm e os Mistérios de Awaylengam)
+## Ampliação
+### P2022-05-07 (Shiva, o Projeto Talm e os Mistérios de Awaylengam)
 
 - **[Parvathi — Sati na fogueira, depois Parvati] (U0003)** «Sat ficou tão triste com o pai que resolveu entrar numa fogueira e o corpo dela híbrido, humanizado, se desfez, seu espírito saiu e mais tarde eh assumiria a função de Paraki, ou seja, outra esposa de Chico.» — Sati (STT "SAT"), a primeira esposa de Shiva, imola-se e retorna como Parvati (STT "Paraki").
 

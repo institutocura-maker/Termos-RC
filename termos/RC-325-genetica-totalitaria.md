@@ -23,7 +23,8 @@ A Genética Totalitária conecta-se à escolha dos **três segmentos étnicos** 
 - **Variações:** estratégia de dominação genética; povos escolhidos; "povo escolhido" (traço cultural)
 
 
-## Ampliação — B023 (O Dharma e as Castas Hindus)
+## Ampliação
+### B023 (O Dharma e as Castas Hindus)
 
 - **[B023 p. 85]** cap. 7: «uma moda criada pelos “deuses de fora”» — «escolher um povo da Terra para, por meio dele, dominar os demais povos».
 - **[B023 p. 85]** o Criador «aplicou, até o ano 2015, essa estratégia»; humanos «saíram do seu controle genético desde os tempos de Pandora». «Criador decaído e demente» = **quarentena clínica** (leitura, jamais diagnóstico).
@@ -61,6 +62,7 @@ Criador (RC-041); Javé (RC-001); Pandora (RC-086, origem da fuga do controle ge
 ## Observações
 Ficha baseada em B023 (obra primária). A Genética Totalitária explica o "povo escolhido" como estratégia do Criador — conecta à B013 (linhagens preferidas/preteridas) e à B025/26 (Carma e Compromisso).
 
-## Atualização — P2024-11-09
+## Atualização
+### P2024-11-09
 O DNA de submissão é contraposto ao DNA Insubmisso — RC-727. A ligação a Enki/Anunnakis é Teologia Comparada de Ellam, não genética acadêmica.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

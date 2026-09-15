@@ -16,19 +16,20 @@ atualizado = "2026-08-28"
 
 Grafia canônica para a 2ª Sefirah (Sabedoria) da Cabala, epíteto hebraico de Sophia (RC-009). Decisão canônica do curador: **Hochmah**, nunca "Rockman/Rockma" (veto estrito).
 
-## ## Ampliação — P2026-07-25
+## Ampliação
+### P2026-07-25
 
 Na palestra, o ser que inseminou Maria para gerar Jesus aparece em variações STT: **Rockma / Rockman / Hotman / Hman / Shockma** — todas normalizadas para **Hochmah** (ou Sophia) na edição, com nota na primeira ocorrência. Conteúdo: "Jesus nasceu via uma humana, Maria, mas via uma inseminação artificial em Maria feita por um ser chamado Rockma ou Sofia"; "Sofia aparece como sendo o espírito ou tutor de Pistis na criação como Vishnu ou Shockma" — Hochmah/Sophia como agente da inseminação (ver RC-072 e RC-009).
 
 
-## Ampliação — P2025-05-31
+### P2025-05-31
 
 - **"Eis o meu eleito" (P2025-05-31):** Javé apresenta a Enoque o ser "Rockmar [Hochmah] em hebraico... personificação da sabedoria"; Enoque sentiu-se "maravilhosamente bem" na presença dele.
 - **Inseminação de Maria (B004):** "Jesus nasce através do genoma de Hochmah... ele teve que ficar imobilizado, retirar o genoma dele, a fórmula de poder mental e inseminar Maria"; descrito no livro B004 (A Sétima Trombeta do Apocalipse — anjos testemunhas).
 - **Crítica do autor:** Hochmah "não dá sorriso, não é sexuado... é um robozão, um troço que não tem emoção... é igual um computador recebendo oração"; as provocações nas palestras são "para tirá-lo da inércia, porque a inércia dele também tem um preço"; "qualquer ser humano dá de 1.000 a zero em Hochmah em termos de perceber as coisas" (leitura do autor).
 
 
-## Ampliação — B013 (Tzimtzum: O Exílio Forçado de uma Divindade)
+### B013 (Tzimtzum: O Exílio Forçado de uma Divindade)
 
 - **[B013 p. 18]** o “Messias” previsto pelo Criador é denominado “Hochmah (em hebraico) ou ‘Sophia’ (em grego).”
 - **[B013 p. 74]** “Hochmah, em hebraico — que mais tarde viria a ser chamada de ‘Sophia’, nas tradições gregas”; no tempo de Enoch, “a Entidade Hochmah (Sophia) era conhecida como o ‘feitor de Javé’, ‘o deus executivo de Javé’.” Com o sumiço dos livros de Enoch, o conceito “se tornou lendário.”
@@ -38,7 +39,7 @@ Na palestra, o ser que inseminou Maria para gerar Jesus aparece em variações S
 - Grafia canônica: **Hochmah** (Sophia) × **Chokmah** (2ª Sefirá / Vishnu). PDF traz também “Chokmach” e “Hokhmah” — não ontologizar as variantes. Fonte **B013** acrescentada na tabela-mestra.
 
 
-## Ampliação — P2023-06-03 (Os Bastidores da Ressurreição de Jesus)
+### P2023-06-03 (Os Bastidores da Ressurreição de Jesus)
 
 - **[P2023-06-03 · A BIOGRAFIA COMPLETA DO VERBO — o bloco-centro]** **O MENINO DE 10 ANOS**: "Jesus fez essa pergunta quando tinha 10 anos lá no Sinédrio [STT: 'Sined'], nos dias em que ficou perdido dos pais... escutou um dos doutores lendo o LIVRO DA SABEDORIA DE SALOMÃO... 'Com licença — QUEM É ESSE [Hochmah]?' — 'É uma pessoa que ATUA NO LUGAR DE DEUS E JUNTO COM DEUS.' — 'E por que é que Deus precisa que alguém atue no lugar dele?'... ~90 anos depois, JOÃO [com 90 anos] começa o evangelho dele: 'NO PRINCÍPIO ERA O VERBO... O verbo estava junto de Deus e o verbo era Deus'... **ESSE VERBO É [Hochmah]. É O NOME HEBRAICO desse ser que funciona como verbo.**"
 - **[P2023-06-03 · O AVATAR DOS TRÊS E O SUZERANO]** "Keter, Chokhmah e Biná — ou seja, Brama, Vishnu e Chiva — **MORAM NO UNIVERSO VIZINHO. Mas as coisas estão acontecendo é NESSE universo biológico. Então eles criaram um avatar para representar os três nesse universo. ESSE AVATAR É [Hochmah] OU SOFIA**... na sua morada... Brahma-loka; aqui seria o Bhu-loca" + "[Hochmah]... **ENGENDRADO PARA SER O SUZERANO DESTE UNIVERSO há mais de 5-6 BILHÕES DE ANOS**... que nem sexuado é: ele é biológico, mas não é macho nem fêmea, não tem órgão sexual."
@@ -48,14 +49,14 @@ Na palestra, o ser que inseminou Maria para gerar Jesus aparece em variações S
 - 0 códigos novos (O-3). A grafia canônica **Hochmah** (o veto estrito; STT: Rockma/Rockman/Hman/Rock/Rockm/HMA).
 
 
-## Ampliação — P2023-05-20 (As Batalhas do Final dos Tempos)
+### P2023-05-20 (As Batalhas do Final dos Tempos)
 
 - **[P2023-05-20 · OS QUATRO NOMES DA FUNÇÃO CÓSMICA]** "não era ele [quem viria], seria Madi — só que **MADI É UM NOME ISLÂMICO QUE TEM TUDO A VER COM [HOCHMAH], O NOME HEBRAICO; O TERMO SOFIA SURGIU COM OS GREGOS DEPOIS... A FUNÇÃO CÓSMICA DELE É CHAMADA EM HEBRAICO DE HOCHMAH, EM GREGO DE SOFIA, E NO ISLÃ, MAHDI**" + [a confirmação persa:] "o SAOSHYANT... QUE É [HOCHMAH] OU SOFIA".
 - **[P2023-05-20 · O ESCANEAMENTO DA MENTE DE JESUS]** "Jesus foi o último avatar divino, só que ele não pode voltar... **E [HOCHMAH] DEVERIA TER APROPRIADO O ESCANEAMENTO DA MENTE DE JESUS E NÃO CONSEGUIU PORQUE A MENTE DELE NÃO CABE**" — a limitação do suzerano + "O ÚNICO ARCONTE QUE VIVE DO LADO DE CÁ É [HOCHMAH]" + "SOBRE O ESPÍRITO DE VISHNU... **É UM AVATAR DIRETO DE VISHNU**".
 - 0 códigos novos (O-3).
 
 
-## Ampliação — P2023-04-15 (Desafio Crucial: O Alinhamento do Espírito de Jesus)
+### P2023-04-15 (Desafio Crucial: O Alinhamento do Espírito de Jesus)
 
 - **[P2023-04-15 · O MAPA GENEALÓGICO COMPLETO — AS OITO PESSOAS DO ESPÍRITO (o bloco-colossal)]** a fonte mais completa do corpus para a genealogia do Verbo: **P1 — O ESPÍRITO PURO** (a condição adhyatma) no paraíso, que "quando dessa situação... SE TRANSFERIU para dentro da espiritualidade operacional" ("não foi uma projeção — ele se transferiu") → **P2 — PARA BRAJNA** [STT: 'prabrágina/probragen']: a projeção de P1 na espiritualidade LABORATORIAL; "quando esse ser número dois CAIU NA PRÓPRIA OBRA e se reconstruiu com os restos de si mesmo"; IMPLÓDIOU ("é como se alguém desmaiasse, ficasse um restinho dela ali, mas o eu dela foi embora") → **P3 — MAHAVATMA** [STT: 'mavatna/uma vátima']: quando P1 "resolveu mergulhar sua consciência no mesmo nível da espiritualidade laboratorial... ele primeiro projetou pro nível, num primeiro momento ele não foi, mas DEPOIS ELE DESCEU TODO pro nível laboratorial" — "MAHAVATNA ERA O ÚNICO QUE NÃO ENTREGOU A ESSE SER PADRÕES DOENTIOS MENTAIS" → **P4 — BRAHMA/JAVÉ/KETER** ("criada pela queda do dois... Keter é o nome do criador caído no âmbito da Cabala"; "um cancro, cancerígeno") → **P5 — VISHNU** ("a pessoa três Mahavatma... frente ao acontecido com sua consciência irmã, MERGULHOU na faixa de realidade da criação em que Para Brajna se encontrava agora feito Javé... e fateou mais uma vez a sua própria consciência, construindo a personalidade de VISHNU") → **P6 — MOROS/PROTOGONOS** (o ser de QUATRO CABEÇAS criado pela Trimurti: "uma representava o DNA de Brahma... o outro de Vishnu, o outro de Shiva, E A QUARTA CABEÇA ERA UM PROTO-SER"; o veredito: "'OLHA, VOCÊS TRÊS APODRECERAM... NÓS PRECISAMOS CRIAR UM TIPO DE VIDA DIFERENTE... VAMOS MANDAR CÓDIGOS MICROBIANOS PARA LÁ'" — o responsável pelo PROJETO TALM) → **P7 — PHANES** [STT: 'funis/Fanis'] ("esse ser gera a partir dele mesmo um MODELO... uma espécie de PESSOA NÚMERO SETE que serviu de MOLDE ao engendramento de um outro ente") → **P8 — SOFIA/HOCHMAH/CHOKMAH** ("engendrado há cerca de 5,5 BILHÕES DE ANOS... o cérebro dele é RADIATA... o ser criado nesse universo para ser o SUZERANO desse universo, herdeiro e representante da aristocracia trimurtiana").
 - **[P2023-04-15 · A ÁUREA CATENA — o eixo do alinhamento]** "o fator de unificação dessa CORRENTE ARREBENTADA de consciências falidas, transformando NUMA CORRENTE DOURADA OU ÁUREA CATENA... recompor esses elos que são personagens de uma mesma consciência, de um mesmo espírito, PARA VER SE ESSE ESPÍRITO SE RECOMPÕE, porque ninguém sabe o que diabo fazer com o espírito que NEM MORRE E É VIVO. E que tem partes de si desagregadas" — o ente gerado para isso foi JESUS ("seria necessário produzir um eu, um ente que pudesse LIMPAR ISSO TUDO e fazer com que todos esses seres se reconstruíssem"); "P2 e P4 vão ser RESSUSCITADOS os dois, já que não morrem e não são destruídos".
@@ -65,14 +66,14 @@ Na palestra, o ser que inseminou Maria para gerar Jesus aparece em variações S
 - 0 códigos novos (O-3). Quarentenas: teológica (a genealogia como ontologia, sem o choque), biomediúnica (a fonte como "fofoca espiritual" do espírito que anima o autor).
 
 
-## Ampliação — P2023-04-01 (Reintegração Cósmica: Tempo de Ruptura)
+### P2023-04-01 (Reintegração Cósmica: Tempo de Ruptura)
 
 - **[P2023-04-01 · O EPÍTETO — "Sofia não é um nome"]** "Quando os humanos vieram a surgir, passaram a chamar esse ser NA LINGUAGEM HEBRAICA DE ROCKMA [Hochmah/Chokmah]. E quando essa história foi conhecida e traduzida pelo conhecimento e cultura helênica, esse ser passou a ser chamado de SOFIA. **SOFIA AQUI NÃO É UM NOME, É UM EPÍTETO — personificação da sabedoria.**" + "esse ser que hoje o Espiritismo chama de CRISTO CÓSMICO, esse ser que o Jesus humano se referia como sendo A FORMA CELESTIAL DELE, que um dia viria à Terra depois do seu tempo de condição humana"; o corpo: "ser biológico como a gente, só que de um tipo de biologia associada a uma genética que veio desse universo vizinho demo... **o tipo de corpo dele é BIODÊMO: não tem sexo, são assexuados, EMOÇÃO ZERO**" [RC-631/RC-093].
 - **[P2023-04-01 · A DECISÃO DOS 19 MUNDOS E OUTLAND]** "a decisão de Sofia, que resolveu ISOLAR EM 19 MUNDOS todos os seres que se contaminaram... a cerca de 700.000 anos atrás"; a reintegração gradual: "com o tempo, os que conseguiam se autocurar... um certo mundo era REINTEGRADO à convivência cósmica e só ficava 16, 15, 14... com o tempo só tinham 10... HÁ CERCA DE 100.000 ANOS ATRÁS, DOS 19 MUNDOS, SÓ DOIS CONTINUAVAM ISOLADOS. HÁ 100.000 ANOS, UM PLANETA CHAMADO **OUTLAND** FINALMENTE FOI REINTEGRADO À CONVIVÊNCIA CÓSMICA. E O ÚLTIMO PLANETA, QUE É A TERRA, RECEBEU O LIXO DOS DOENTES, DOS REBELDES... A TURMA MAIS DOIDA, MAIS MALUCA, MAIS DOENTE, MAIS TEIMOSA... VEIO EM NAVES PARA CÁ E TAMBÉM EM COMBOIO ESPIRITUAL" — **OUTLAND: o nome do penúltimo mundo** (a joia cosmológica da Devolutiva).
 - 0 códigos novos (O-3). Quarentena: teológica.
 
 
-## Ampliação — P2023-04-29 (Jesus, Sophia e Javé: as Responsabilidades de um mesmo Ser)
+### P2023-04-29 (Jesus, Sophia e Javé: as Responsabilidades de um mesmo Ser)
 
 - **[P2023-04-29 · A GÊNESE E AS GUNAS COMO FORÇAS DA FÍSICA — a joia cosmológica]** a ideia que escapou: "um belo dia, um ser chamado PARA BRAJNA teve uma ideia, **A IDEIA ESCAPOU DA SUA MENTE.** Aí outro ser chamado **MAHAVATMA** se associou a essa ideia. **E UM OUTRO SER CHAMADO SÁVNA** [SAVNA/SHIVA!] **SE ASSOCIOU TAMBÉM... E MAIS OUTROS SERES TAMBÉM SE ASSOCIARAM A ESSA IDEIA**"; o puxa-puxa ("será que não é melhor você repassar isso para Mahavatma, já que a ideia original é dele **E ELE É SUA CONSCIÊNCIA ÂNCORA, porque vocês dois são duas faces de um só espírito**... eu puxo minha ideia, vocês puxam para lá, e nesse puxa-puxa, **A IDEIA GANHOU VIDA PRÓPRIA**"); o corpo mental tragado: "o meu cérebro inteiro, meus 100 bilhões de neurônios **JUNTO COM O CORPO MENTAL DO MEU QUATERNÁRIO INFERIOR CAÍRAM AQUI DENTRO DESSSE TROÇO DA IDEIA**. Vocês todos demais se protegeram para não vir juntos"; "UM FOI PENSADO E O OUTRO FOI IMPROVISADO"; **AS GUNAS COMO FORÇAS**: "surgiu a energia **RAJAS**... a guna criadora que fornece O TIJULO DA VIDA, QUE SÃO OS ELÉTRONS E PÓSITRONS"; **"A FORÇA [SÁTTVICA] QUE VEIO DA MENTE DE MAHAVATMA FOI QUEM ORGANIZOU A FORÇA RAJAS"** — a força eletronuclear FORTE (que une prótons e nêutrons), a FRACA (que puxa o lépton/elétron "e cria um elemento químico"), a ELETROMAGNÉTICA e a GRAVITACIONAL, "criou lá de fora"; **TAMAS**: "vou colocar aqui uma energia que vai obrigar tudo que passar a existir aqui dentro a ser TRANSITÓRIO — **JÁ NASÇA COM O GERME DA PRÓPRIA MORTE**"; o tempo de Planck.
 - **[P2023-04-29 · A REVERSIBILIDADE GENÉTICA INTERROMPIDA — e Moros também se desfez]** "o que aconteceu na genética de Morrençor... AS CONQUISTAS DE MORRENÇOR DEVERIAM SER REVERTIDAS PARA VISHNU, QUE É A CONSCIÊNCIA ÂNCORA... **MAS MORRENÇOR NÃO MORRIA, NÃO QUERIA MAIS MORRER.** Aí Morrensou criou Sofia... **AÍ NÃO TEM REVERSIBILIDADE GENÉTICA**... Jesus morreu, mas o eu de Jesus NÃO CONSEGUIU SER APROPRIADO por Sofia. Ainda que Jesus tenha ressuscitado o seu corpo e devolvido os elétrons que Sofia havia retirado... **MAS O EU DE JESUS NÃO FOI PRA CABEÇA DE SOFIA**"; **"VISHNU SE DESCONSTITUIU PORQUE ELE FINALMENTE COMPREENDEU QUE A CONDIÇÃO DE DAIVA ATRAPALHA TUDO... E LOGO DEPOIS MORRENÇOU TAMBÉM DISSE: 'VOU ME DESFAZER PARA LIBERAR O MEU ESPÍRITO [P1] PARA SÓ TER QUE CUIDAR DOS TRÊS QUE SOBRAM: JESUS, JAVÉ E SOFIA'**"; "esse espírito tem DOIS PENDURICALHOS CANCERÍGENOS: Para Brajna caído E o eu de Javé apodrecido... esse espírito é responsável pelos dois e tem essas duas pendências"; o Q&A: "do espírito alfa... **NÃO TEM MAIS JEITO. Isso não se resolve**".
@@ -80,7 +81,7 @@ Na palestra, o ser que inseminou Maria para gerar Jesus aparece em variações S
 - 0 códigos novos (O-3). Quarentena: teológica.
 
 
-## Ampliação — P2020-04-18 (Terra em Disputa: o Marco Zero de Sophia)
+### P2020-04-18 (Terra em Disputa: o Marco Zero de Sophia)
 
 - **[P2020-04-18 · O EMBRIONÁRIO DE 2020 — OS ENCONTROS DE 2017 E O LIVRO POR LANÇAR]** "Essa palestra... tem a ver com algo que eu conto no livro **SOFIOS LOGOS CRIADORES, QUE AINDA NÃO FOI LANÇADO** — quem porventura vier a ler esse livro vai perceber que em algum momento das conversas havidas ENTRE SOFIA E A MINHA CONDIÇÃO HUMANA, ELE ME PEDE para explicar algumas questões para organizar melhor o nível de entendimento... mas também dele, em especial o dele. Por quê? PORQUE O MODO COMO ELE VIRÁ, O JEITO QUE ELE IRÁ ATUAR OU AGIR... VAI DEPENDER MUITO EXATAMENTE DISSO QUE ELE PUDER COMPREENDER do complexíssimo contexto que sempre existiu aqui na Terra" [o livro no radar como obra em desenvolvimento/inédita — a Devolutiva O-4]; + "quando alguém pegou o livro JESUS, QUARTO LOGOS [B016], lá... EU OLHAVA PARA SOFIA E DIZIA: 'EU TÔ AQUI ABDUZIDO'. Ora, qualquer ser humano gostaria, se ajoelharia na frente de Sofia... O CHOQUE FOI GRANDE PORQUE ELE ESPERAVA [reverência]" ⚠️ quarentena biomediúnica.
 - **[P2020-04-18 · A ANEDOTA DE LINDON JOHNSON — O GANCHO MENTAL QUE FALTA]** o filme [STT: 'Salvo Engano Até o Fim' — [REVISAR → CHANCELA 2026-09-06 · F042-VARREDURA: FONTE AUSENTE DA ARCA (matéria fora da base) — ver nota]] sobre Lindon Johnson: a esposa ("você tem que ser tão forte quanto foi a SUA AVÓ no tempo em que os COMANCHES INVASIRAM A NOSSA FAZENDA e ela, sozinha, com o rifle, resistiu") — "a esposa conhecia Lindon Johnson... A ÚNICA FÓRMULA MENTAL QUE EXISTIA NA CABEÇA DELE de viver uma situação desesperadora... era a história da avó que ele nem havia conhecido, MAS QUE CONTOARAM PARA ELE"; **O MOMENTO**: "EU TAVA COM SOFIA EM 2017... tentando estabelecer ele comigo um padrão em que ele dissesse alguma coisa e eu pudesse entrar na lógica dele... MAS FALTAVA ESSE TIPO DE ANZOL OU DE GANCHO NA MENTE DA GENTE. AÍ ELE, PARA MINHA SURPRESA, DISSE: 'TÁ FALTANDO NESSA NOSSA INTERAÇÃO AQUILO QUE...' [a cena do filme que eu tinha visto] — OU SEJA, ELE LEU NA MINHA MENTE PORQUE ELE TEM UM BIG DATA, ele sabe ler as coisas junto com os anjos, MAS ELE NÃO SABE COMPREENDER AQUELES ELEMENTOS QUE A GENTE TEM, mas ele pega o DNA da gente. Então ele disse: 'TÁ FALTANDO EM MIM MAIS ENTENDIMENTOS HUMANOS DO TIPO DE LINDON JOHNSON COM A AVÓ DELE'"; **"SOFIA É UMA CRIANÇA QUE PRECISA APRENDER OU APREENDER DA NOSSA LÓGICA HUMANA diversas contribuições que permitam que ele crie a lógica dele humanizada"**; "a mesma coisa quando você vai conversar com uma criança: você tem que entender quais as coisas que JÁ SÃO LÓGICAS para aquela criança para você poder interagir com ela" ⚠️ quarentena biomediúnica.
@@ -88,66 +89,66 @@ Na palestra, o ser que inseminou Maria para gerar Jesus aparece em variações S
 - 0 códigos novos (O-3). Quarentena: biomediúnica (CRÍTICA — o relato blindado com o rótulo).
 
 
-## Ampliação — P2020-09-19 (Sophia e o Impasse do Juízo Final)
+### P2020-09-19 (Sophia e o Impasse do Juízo Final)
 
 - **[P2020-09-19 · O VERBO SUPERINTENDE + SOFIA JÁ ESTÁ AQUI; ⚠️ O EMBRIONÁRIO DE 2020]** **A NOMECLATURA**: "a Cabala se refere a HOCHMAH, QUE É VISHNU, E A ROCKMAN, QUE É UMA EXPRESSÃO DE VISHNU QUE É SOFIA"; "Só que antes de Jesus, esse ser sempre foi conhecido... esse era o nome em hebraico"; **O ECLIPSE CATÓLICO**: "NA TRANSIÇÃO DO CRISTIANISMO PRO CATOLICISMO, A FIGURA DE HOCHMAH SUMIU. PORQUE HOCHMAH ESTAVA CITADA DUAS VEZES NOS SALMOS E CENTENAS DE VEZES NOS LIVROS GNÓSTICOS. Mas como os livros gnósticos foram todos destruídos... A FIGURA DE SOFIA SUMIU"; **O VERBO DE JOÃO**: "João... se referia a Hochmah como sendo UMA ESPÉCIE DE DIRETOR EXECUTIVO DE DEUS QUE SUPERINTENDEU A EDIFICAÇÃO DA SUA OBRA. TÁ NOS SALMOS, NOS PROVÉRBIOS. ISSO TUDO FOI MUTILADO E SURGIU O CATOLICISMO... 'No princípio era o verbo, não era nem Deus, era o verbo... QUE DEUS É ESSE QUE PRECISA DE UM VERBO?'"; **SALOMÃO**: "quando SALOMÃO, 1000 anos antes de Jesus, dizia: 'E TU, Ó HOCHMAH, SABEDORIA MAIOR QUE ESTAVA JUNTO COM DEUS NA HORA EM QUE TUDO FOI CONSTRUÍDO', ele estava se referindo a essa figura da qual foi retirada uma sequência genética inseminada em Maria"; "SOFIA OU HOCHMAH NÃO ENTENDEU BUFAS DO QUE TINHA SE PASSADO... não entendeu porque a continuidade dele... havia como atitude destruído todo um processo QUE COMEÇAVA EM HOCHMAH, QUE É VISHNU DA TRIMURTI, QUE PASSOU POR OUTROS AVATARES DE VISHNU, CHEGOU A ELE E UM HUMANO. E O PIOR: ELE, SOFIA, CONCORDAVA COM JESUS" [que não havia critérios para julgar]; "o espírito de Jesus... tomou uma série de medidas E HOCHMAH SE RECUPEROU"; o Apocalipse: "Rockmah ou Sofia mandou o seu anjo confirmar João... a volta de Jesus não era pro tempo de João, era para um tempo... E FOI POR ISSO QUE JOÃO ESCREVEU O APOCALIPSE COM A CÁPSULA TEMPORAL... ele estava confirmando que iria cumprir a promessa que o seu avatar humano havia feito... TAMBÉM NÃO ERA PARA JULGAR NINGUÉM, ERA PARA SEPARAR O JOIO DO TRIGO... coordenar esse momento de reciclagem" [⚠️ o WTC retido — a quarentena política]; **SOFIA JÁ ESTÁ AQUI** [⚠️ registro fenomênico — a O-7]: "SOFIA JÁ ESTEVE PELO MENOS UMA VEZ AQUI NA TERRA, MAS NÃO SE APRESENTOU PUBLICAMENTE... ELE SOFIA TÁ AQUI — ELE AINDA NÃO SE AUSENTOU DESDE A ÚLTIMA VEZ QUE CHEGOU. Mas ele se apresentar publicamente e assumir como HERDEIRO DAS ERAS — aí é uma confusão dos diabos"; a herança: "NESSA ÉPOCA A TURMA NÃO SABIA QUE O UNIVERSO VIZINHO IA ACABAR PRIMEIRO QUE ESSE. TODO MUNDO PODEROSO FICOU DO OUTRO LADO E SÓ SOFIA DE PODEROSO VEIO PARA CÁ. O UNIVERSO DE LÁ TÁ DESABANDO E SOFIA TÁ HERDANDO TUDO ISSO. Algumas figuras do universo de lá não aceitam que Sofia seja o suzerano... na hora que ele vier... é o anúncio oficial, ele assumindo como suzerano de tudo. Então a turma tenta impedir ele vir à Terra... porque é a consumação disso"; "SOFIA É UM SER EM PROCESSO DE HUMANIZAÇÃO... os bilhões de anos que ele vive como Sofia, juntando tudo, NÃO VALE UM MÊS DO QUE ELE AINDA VAI VIVER... QUEM SABE MUITA COISA É O ESPÍRITO DE JESUS"; + o 13º apóstolo: "SOFIA PASSOU A CONSIDERAR CONSTANTINO O 13º APÓSTOLO... o principal apóstolo atuante de Jesus... criou um tipo de intimidade com a família de Constantino... no sentido de bem manipulá-los"; a Ágia Sofia ("a igreja mais maravilhosa que tem hoje na face da Terra... FOI CONSTRUÍDA EM HOMENAGEM A SOFIA, PORQUE SOFIA ESTAVA POR TRÁS DE JUSTINIANO E TEODORA, DO JEITO QUE ESTEVE POR TRÁS DE CONSTANTINO E HELENA") [⚠️ chave de leitura histórica — a O-4].
 - 0 códigos novos (O-3). Quarentenas: política (o WTC retido), teológica (a história da Igreja como chave de leitura), biomediúnica ("Sofia tá aqui" como registro fenomênico).
 
 
-## Ampliação — P2021-05-08 (As Convenções Mentais de Sophia)
+### P2021-05-08 (As Convenções Mentais de Sophia)
 
 - **[P2021-05-08 · A FUNDAÇÃO DE 2021 · O NOME "SOPHIA" CUNHADO POR MADALENA]** "ATÉ ENTÃO ESSE NOME 'SOFIA' NÃO EXISTIA... O NOME ATÉ ENTÃO ERA HOCHMAH. Mas 'Sofia' passou a existir SÓ DEPOIS QUE JESUS MORREU. E FOI QUANDO MARIA MADALENA E OS DEMAIS QUE A SEGUIAM COMEÇARAM A RECEBER NOTÍCIAS DE JESUS RESSUSCITADO E CHAMAVAM ENTÃO, EM GREGO, HOCHMAH DE SOFIA" [⚠️⚠️ A ORIGEM HISTÓRICA DO NOME — a grega Madalena batizando a Sefirah]; "Sofia aprendeu a ver quem era Javé ATRAVÉS DO QUE O SER HUMANO JESUS CRIOU NO CAMPO DAS SUAS OPINIÕES... o que ele [Jesus] pensasse, Sofia ia ter que pensar" [o campo das opiniões de Jesus como o espelho]; "ele devolveu não só limpo o DNA, mas cheio de coisas, de riquezas que ele, Sofia, nunca teve convenção mental para absorver" [o Getsêmani/cruz — a herança transmitida]; o dia da posse como imperador universal/herdeiro; a ordem dupla do avatar (Vishnu + Javé via Aia).
 - 0 códigos novos (O-3). Quarentena: teológica (o Getsêmani; Madalena).
 
 
-## Ampliação — P2022-09-24 (Sophia, os Arcontes e a Disputa pela Suzerania Universal)
+### P2022-09-24 (Sophia, os Arcontes e a Disputa pela Suzerania Universal)
 
 - **[P2022-09-24 · O VERBO — HOCHMAH = VISHNU E O EVANGELHO GNÓSTICO DE JOÃO]** **O EVANGELHO DE JOÃO COMO GNÓSTICO**: "quando João escreveu o evangelho dele... qual a primeira frase? 'NO PRINCÍPIO ERA O VERBO. E O VERBO ESTAVA COM DEUS E O VERBO ERA DEUS. E SEM O VERBO NADA DO QUE DEUS FEZ TERIA SIDO FEITO'... Vocês querem uma forma mais estranha de se iniciar um evangelho do que DIMINUIR O VALOR DO TAL DEUS, dizendo que no início tinha o verbo... PORQUE ESSE DEUS É QUEM? É o criador. SÓ QUE ELE FEZ UMA CRIAÇÃO, CAIU NA PRÓPRIA CRIAÇÃO E O VERBO É QUE SAIU AJEITANDO TUDO. É POR ISSO QUE O EVANGELHO DE JOÃO É CHAMADO DE GNÓSTICO, pelo fato de conhecer profundamente QUE HOUVE UM PROBLEMA NA CRIAÇÃO, QUE O CRIADOR DELA FICOU REFÉM PORQUE NELA CAIU"; **A IDENTIDADE DO VERBO**: "muito mais importante que Deus era um tal de um verbo QUE NA CABALA OU CABALA CHAMA-SE HOCHMAH, QUE É O MESMO VISHNU DA MITOLOGIA INDO-ARIANA. E ESSE SER CRIOU SOFIA, assim entendida em grego, OU ENTÃO HOCHMAH EM HEBRAICO. E ESSE SER GEROU ATRAVÉS DE MARIA UM JESUS HUMANO. E NINGUÉM COMPREENDE ISSO. NINGUÉM. Quem? Ninguém. ISSO NUNCA FOI COMPREENDIDO ANTES"; **O CONTEXTO DE JOÃO**: "por volta do ano 70, de todos os apóstolos de Jesus, SÓ EXISTIA UM VIVO CHAMADO JOÃO... João tinha 16 [quando escolhido]. JOÃO TINHA IDADE QUE MARIA TINHA QUANDO ENGRAVIDOU... já em idade bastante avançada, os romanos deixaram João ficar vivendo numa ilha de um arquipélago grego chamada ILHA DE PÁTMOS"; "João... sabendo que existiam as epístolas de Paulo, os evangelhos de Mateus, Marcos, Lucas... foi forçado a escrever e ELE PRODUZIU O SEU EVANGELHO PERTO DOS 90 ANOS... e mais tarde o apocalipse" [~100 anos]; + o demiurgo ("os gregos falavam de que o criador do universo não era nada de Deus... ERA UM DEMIURGO. Porque PLATÃO, 400 ANOS ANTES DA ÉPOCA DE JOÃO, já havia assim definido. E os neoplatônicos também chamavam").
 - 0 códigos novos (O-3). Quarentena: teológica.
 
 
-## Ampliação — P2023-04-01b (O Quarto Logos e seus Agentes)
+### P2023-04-01b (O Quarto Logos e seus Agentes)
 
 - **[P2023-04-01b — eco] O SUZERANO CRIADO PELA TRIMURTI]** "SOFIA OU HOCHMAH [STT 'Rockma/Hm'], QUE É O SUZERANO UNIVERSAL, CRIADO PELA TRIMURTI PARA REPRESENTAR A TRIMURTI NESTE UNIVERSO, já que a Trimurti é cativa, refém do universo vizinho" [a função do suzerano]; **A INSEMINAÇÃO**: "Sofia... chamou seus anjos... 'EU PRECISO NASCER COMO HUMANO, COMO É QUE EU FAÇO?' E esses anjos operacionais descobriram que só havia uma forma: seria RETIRAR UMA CERTA ÁREA [A] ASSINATURA QUÂNTICA DO DNA DE SOFIA E INSEMINAR NUMA MULHER... Maria com 15 anos, mãe de Jesus, foi inseminada por esse processo" [⚠️⚠️ "ISSO É DE UMA VIOLÊNCIA SEM TAMANHO. Uma criança com 15 anos de idade, sem ter tido relação sexual, se vê grávida, sem poder falar com ninguém" — a leitura humanizada; ⚠️ teológica/ética]; **O ESPELHO GÊMEO DE APOLÔNIO**: "OS MESMOS MOLDES OLM FEZ CONSIGO PRÓPRIO E TAMBÉM NASCEU NA MESMA ÉPOCA DE JESUS COMO APOLÔNIO DE TIANA" [a dupla encarnação paralela (RC-092)]; + o kit: "na hora em que o espírito que anima Rogério vai encarnar... O MESMO KIT DE ELÉTRONS SE REARRUMA" (RC-160).
 - 0 códigos novos (O-3). Quarentena: teológica (a inseminação de Maria).
 
 
-## Ampliação — P2024-11-03 (Apolônio de Tiana e o Quarto Logos)
+### P2024-11-03 (Apolônio de Tiana e o Quarto Logos)
 
 - **[P2024-11-03 — eco] O EPÍTETO E O ARRANJO]** "há uns 6 bilhões de anos, ROCKMA [HOCHMAH]... O NOME É EPÍTETO, SIGNIFICA PERSONIFICAÇÃO DA SABEDORIA. ESSE [HOCHMAH] EM GREGOS SIGNIFICA SOFIA. Esse ser que é O SUZERANO DO UNIVERSO BIOLÓGICO, representando a Trimurti do universo de plasma, ESSE SER JÁ VEIO DIRETO PRO UNIVERSO BIOLÓGICO PARA NÃO TER QUE PASSAR PELA SUJEIRA, PELA INFECÇÃO DO UNIVERSO VIZINHO, COISA QUE TODOS OS OUTROS TIVERAM" [⚠️⚠️ a divergência com o fecho ("[Olm] foi o único que veio direto para cá") — REGISTRADA SEM FUSÃO na RC-092 — a Devolutiva O-4]; "ROCKMA/SOFIA ESTABELECEU-SE EM ORBUM, QUE É O NOME DE UM OUTRO PLANETA DE CAPELA" [⚠️ o planeta Orbum]; O ARRANJO: "VISHNU disse: 'ROCKMA É MEU AVATAR, ELE TEM O MEU GENOMA. Eu posso falar com ele e eu dou uma ordem a ele e ele cria um ser humano com a genética dele, que é a minha... e obedece a você, BRAHMA... ATENÇÃO, ATENÇÃO, ROCKMA. Aqui [fala] VISHNU: dê um jeito de criar um ser humano na terra para obedecer a Javé'"; "AÍ SOFIA DISSE: 'NÃO VAI DAR CERTO PORQUE NÃO É A MIM, É UM SER HUMANO QUE VAI NASCER LÁ, QUE EU NÃO SEI COMO VAI SER ESSE SER HUMANO'"; "quando os humanos surgiram, aí Apolônio percebeu que era essa raça que poderia consertar os problemas da criação imperfeita. SOFIA FOI INFORMADO DISSO E TODO UM PROCESSO DE ACOMPANHAR OS HUMANOS COMEÇOU A TER LUGAR"; A NONA HORA: "a vinda de Sofia... o fim do governo de Javé" (RC-005).
 - 0 códigos novos (O-3). Quarentena: teológica (a inseminação de Maria — "olha que violência. Uma criança de 15 anos... apedrejada até a morte").
 
 
-## Ampliação — P2025-02-22 (A Vinda de Sophia e o Equilíbrio Universal)
+### P2025-02-22 (A Vinda de Sophia e o Equilíbrio Universal)
 
 - **[P2025-02-22 · O EPÍTETO E A BIOGRAFIA TÉCNICA]** "o nome [HOCHMAH] hebraico foi chamado de SOPHIA. NÃO É NOME, É EPÍTETO. Porque quando essa história foi contada em grego, o nome [Hochmah] hebraico foi chamado de Sophia" [⚠️ a explicitação da tradução]; A GÊNESE NO FORNO DE VISHNU: "esse ser que a gente chama de Sofia, ELE SURGIU A PARTIR DE VISHNU NO FORNO DE REPLICAÇÃO DE VISHNU [AWAYMAION]... A CERCA DE 5,7 BILHÕES DE ANOS... A PARTIR DE UM CASULO... E SOFIA SURGIU DE LINHAGEM DE MORRENÇO E VISHNU, OU SEJA, NÃO ERA DE BRAMA NEM DE CHIVA" [⚠️ a linhagem explícita]; a limitação: "na época, ele era o ser mais avançado do universo vizinho e desse. HOJE... TOTALMENTE ULTRAPASSADO"; o cérebro radiato e as peças de reposição (ver RC-009); "Sofia, através do processo de decifrar a realidade, de perceber incongruências..." [o método do suzerano]; a ordem de Javé: "'Sofia, nós estamos todos recebendo ordem de Javé... VOCÊ VAI TER QUE SE FAZER HUMANO, PORQUE SHIVA JÁ ESTÁ DOMINANDO A HUMANIDADE'" [⚠️ a Razão da encarnação de Jesus]; "Sofia ficou IMOBILIZADO em termos de poder agir. CEDEU DE SI A SUA ASSINATURA QUÂNTICA GENÔMICA" (RC-072).
 - 0 códigos novos (O-3). Quarentenas: teológica (a inseminação: "inocular algo numa menina de 15 anos é de uma violência sem tamanho... nós humanos transformamos tudo isso em sagrado. NÓS FOMOS OBRIGADOS A TOMAR O ABSURDO COMO SENDO ALGO MARAVILHOSO").
 
 
-## Ampliação — P2023-10-14 (A Esquecida Honra dos Anunnaki)
+### P2023-10-14 (A Esquecida Honra dos Anunnaki)
 
 - **[P2023-10-14 · A TESE DATADA DA FUSÃO DE EPÍTETOS (D-7: tese da fonte, não estrutura da ficha)]** "Esse cara é o pai de Jesus, tá pessoal?" (U0033); "É o Rockman em hebraico, Sofia em grego." (U0033) — ⚠️ Item 6 da devolutiva: a fusão **não** entra na estrutura das fichas; vive aqui como **tese datada** (com RC-682) e no aparato da apostila.
 - **[P2023-10-14 · A GRAFIA DO STT PARA A 2ª SEFIRAH]** "Aí tem Shockma e biná." (U0085) — [REVISAR: «Shockma» = Hochmah (canônico da Base); grafia preservada na citação. → CHANCELA 2026-09-06 · F039-L3: AGUARDA-ÁUDIO (STT preservado como falado) — ver nota]
 
-## Ampliação — P2024-06-16 (O Projeto TALM, os Fenvans e os Humanos)
+### P2024-06-16 (O Projeto TALM, os Fenvans e os Humanos)
 
 - **[Hochmah — a personificação da sabedoria] (U0006)** «Esse ser que a gente chama Sofia, mas o nome dele original é Hockma, não é nome, é um epíteto, que significa personificação da sabedoria.» — Hochmah (STT "Hockma/Rockma") é epíteto ("personificação da sabedoria"); os gregos o chamaram Sofia.
 
-## Ampliação — P2025-05-10 (Mistérios do Apocalipse)
+### P2025-05-10 (Mistérios do Apocalipse)
 
 - **[Rockman = Chochma = Vishnu] (U0003)** «Isso é um ardil que novamente você, o talman e o ser que produziu hockman, que é choquma em termos de cabala, mas que é o mesmo víno da São Ariana.» — Rockman é 'choquma' (Chochma/Hochmah, RC-565) 'em termos de cabala, mas que é o mesmo Vishnu da [linha] ariana'.
 
-## Ampliação — P2023-02-11 (Agente Humano Jesus e os Arcontes)
+### P2023-02-11 (Agente Humano Jesus e os Arcontes)
 
 - **[Rockman: o diretor executivo de Deus] (U0009)** «Ele disse: "Não sei, parece que um diretor executivo de Deus.» — a resposta de José de Arimateia à pergunta do jovem Jesus sobre quem era Rockman: segundo o livro da Sabedoria de Salomão, um diretor executivo de Deus — "Deus sem esse diretor executivo não teria feito o que fez"; a mesma pergunta que o menino Jesus fizera aos rabinos do Sinédrio sem resposta.
 
 
-## Ampliação — P2022-12-03 (O Ocaso do Criador e a Rebelião dos Elétrons)
+### P2022-12-03 (O Ocaso do Criador e a Rebelião dos Elétrons)
 
 - **[O erro de retrabalhar as gunas] (U0014)** «Que o ser humano ou que qualquer ser tem que retrabalhar essas três energias ou códigos para poder resolver a situação dos elétrons desse universo.» — o erro: os Vedas e Upanishads acertam que as gunas (rajas, sattva, tamas) estão em cada um, mas erram ao ensinar que o ser deve retrabalhar as três energias para resolver a situação dos elétrons — os seres do outro lado se ferraram tentando isso; os yogis foram "vítimas desse mal-entendido".
 
 
-## Ampliação — P2023-12-25-02 (Aula 02 — Os Anos de Pregação e a Promessa do Retorno)
+### P2023-12-25-02 (Aula 02 — Os Anos de Pregação e a Promessa do Retorno)
 
 - **«o modus operandi que o seu genoma trazia do ser chamado rockmah ou Sophia»**
 - Aula 02 usa a grafia **«rockmah»** (= Hochmah) e o liga explicitamente a **Sophia**; a aula 01 introduz **«em hebraico esse ser se chama Hohkmah»**. Confirma o par Hochmah=Sophia.

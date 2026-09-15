@@ -30,12 +30,13 @@ atualizado = "2026-08-31"
 - **Variações:** Aia (corruptela frequente em transcrições — corrigida em 2026-08-31)
 - **Idioma de origem:** Hebraico (איה = "falcão" ou "voz de lamento") ou Sânscrito (आय = "mãe" — paralelo com Aye, āye)
 
-## Ampliação — P2023-02-11 (Agente Humano Jesus e os Arcontes)
+## Ampliação
+### P2023-02-11 (Agente Humano Jesus e os Arcontes)
 
 - **[Os anjos de Sofia inseminaram Maria] (U0009)** «Esse ser retirou dele a sua, entre aspas, assinatura quântica genética e os seus anjos no sentido de auxiliares diretos, inseminaram uma criança de 15 anos, como a gente falou.» — o mecanismo da concepção: Sofia retirou de si a assinatura quântica genética e seus anjos-auxiliares (as famílias Aya/Aye, RC-834/835) inseminaram Maria, então uma criança de 15 anos, sem o concurso de pai humano.
 
 
-## Ampliação — P2026-03-21 (Samudra Manthan A Enigmatica Alquimia de Vishnu)
+### P2026-03-21 (Samudra Manthan A Enigmatica Alquimia de Vishnu)
 
 - **[Sofia: criada do genoma de Virgno, mente radiata, anjos incorruptíveis] (U0032)** «Então Sofia foi um ser criado a partir do genoma de Virgno.» — o cérebro radiato: "Como virem, não, desculpa, de Sofia, o genoma dele, porque como Sofia ia viver nesse universo daqui e Javé é uma um ser que vive no universo de lá, quando Sofia fosse fazer qualquer coisa, ou seja, movimentar a mente dele e a mente de Sofia é associada não a um cérebro bilatério, mas a um cérebro radiato" (U0032: «Como virem, não, desculpa, de Sofia, o genoma dele, porque como Sofia ia viver nesse universo daqui e Javé é uma um ser que vive no universo de lá, quando Sofia fosse fazer qualquer coisa, ou seja, movimentar a mente dele e a mente de Sofia é associada não a um cérebro bilatério, mas a um cérebro radiato.»); os anjos: "E os anjos são incorruptíveis" (U0032: «E os anjos são incorruptíveis.»); a chegada à cultura grega: "Quando essa história da existência desse ser chegou na cultura grega, Rockman foi chamado de Sofia" (U0013: «Quando essa história da existência desse ser chegou na cultura grega, Rockman foi chamado de Sofia.»).
 

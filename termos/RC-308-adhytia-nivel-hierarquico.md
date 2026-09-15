@@ -24,7 +24,8 @@ Os Adhytia aparecem episodicamente nos registros da mitologia hindu (os Adityas)
 - **Obs.:** distinguir de Adhy (gênero espiritual, RC-011) — Adhytia é a linhagem descendente
 
 
-## Ampliação — B022 (Inquisição Trimurtiana)
+## Ampliação
+### B022 (Inquisição Trimurtiana)
 
 - **[B022 p. 31]** cap. 2 (fala de Ellam no diálogo; interlocutores isolados): após a morte da condição humana, «alguns membros da linhagem de descendentes de vocês três, os chamados **Adhytia**, tentarão ocupar os canais de comunicação possíveis entre os terráqueos e vocês, na tentativa de desqualificar estas informações».
 - **[B022 p. 130–131]** cap. 9 (narração de Ellam): «ali estava o nível hierárquico dos Adhytia… em número de **nove seres**, sendo cada um mais estranho e diferente do que o outro — na verdade eram “singulares” — para o meu padrão humano». Nos estudos hindus, os Adhytia «aparecem muito episodicamente»; no academicismo, «jamais encontrei referências dignas de nota».

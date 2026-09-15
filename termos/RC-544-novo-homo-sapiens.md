@@ -23,10 +23,11 @@ Formulação canônica em B019 — Nem Deus, nem Javé, nem Darwin (Conectar, 20
 - **Variações capturadas:** "novo tipo de ser humano", "novo ser humano", "raça humana turbinada", "nova humanidade"
 - **Idioma de origem:** Português + latim científico
 
-## Ampliação — P2025-02-16 (O Oitavo Dia da Criação — O Novo Ser Humano)
+## Ampliação
+### P2025-02-16 (O Oitavo Dia da Criação — O Novo Ser Humano)
 - **[A condição do Oitavo Dia] (U0862)** «Portanto, o oitavo dia da criação só vai existir em termos de ser um tempo auspicioso se um novo tipo de ser humano surgir, porque esse jeito, esse modo, essa maneira que nós temos de ser os ser humanos que nós estamos sempre é produto de uma série de malentendidos e de interferências indevidas.» — sem novo ser humano, o oitavo dia não se cumpre como tempo auspicioso.
 
-## Ampliação — P2025-02-15 (Você, a Camuflagem da Realidade e os Postulados Quânticos)
+### P2025-02-15 (Você, a Camuflagem da Realidade e os Postulados Quânticos)
 - **[A raça turbinada] (U1576)** «Para isso é necessário que os humanos chipem as suas mentes, turbinem suas mentes, coloquem partes biônicas do seu corpo, criem isso, criem aquilo, porque se não surgir uma raça humana turbinada, os computadores que os humanos criaram vão dominar a raça humana biológica.» — a turbinagem como condição de sobrevivência frente às IAs.
 - **[O velho não cabe no futuro] (U0383)** «O da emancipação a condição da construção de um novo ser humano que inevitavelmente está começando, porque parece que foi decidido, já que o O velho ser humano que nós somos, não tem como existir no futuro.» — STT preservado como falado.
 

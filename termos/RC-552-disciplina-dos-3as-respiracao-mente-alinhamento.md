@@ -24,7 +24,8 @@ Ellam relata que os "3As" tornaram-se "a mais preciosa" das práticas do seu cot
 - **Obs.:** não confundir com outras siglas "3A" da base (nenhuma conflita)
 
 
-## Ampliação — B074 (Mentalma I)
+## Ampliação
+### B074 (Mentalma I)
 
 - **[B074 pp. 131–133]** definição: **Aprofundar** a respiração / **Acalmar** a mente / **Alinhar-se** consigo mesmo; exemplo da savana e da leoa (três estágios respiratórios: tranquilidade, dúvida, decisão de correr); "de quatorze a dezessete para **quatro ou cinco respirações por minuto** — fazendo um ciclo completo a cada dez, doze ou catorze segundos"; "hormônios de pacificação"; "envelhecimento mais lento — em termos biológicos".
 - **[B074 pp. 134–136]** a respiração = o único processo que pode ser involuntário e voluntário; "o altar onde o 'Eu humano' poderia repousar, refazer-se, revigorar-se, realinhar-se"; rotina matinal: 3–4 circuitos de 5 respirações completas ("**selo de garantia**", p. 135); a cadeia: quem aprofunda a respiração "nem que não queira, o meu 'Eu' acalma a mente", e, aprofundando e acalmando, "termino alinhando o meu 'Eu humano' com o 'Eu Mais Profundo'" (p. 136) — a "agenda espiritual" do dia.
@@ -34,7 +35,7 @@ Ellam relata que os "3As" tornaram-se "a mais preciosa" das práticas do seu cot
 - 0 códigos novos.
 
 
-## Ampliação — B075 (Mentalma II)
+### B075 (Mentalma II)
 
 - **[B075 pp. 168–169]** **PRA** (Programa Respiração Aprofundada): "a pessoa inspira em **4, 5 ou 6 segundos, retém o ar por 15 a 20 segundos, depois o expele em 5 a 10 segundos**, e fica um tempinho — um milésimo de um segundo, um segundo — sem respirar" (2 a 5 respirações profundas por minuto); "O Professor Hermógenes e outros mestres sempre recomendaram que o(a) praticante, imediatamente após soltar o ar dos pulmões, às vezes, provocasse **uma ou duas pequenas tossidas**"; "o primeiro passo para alcançar a 'soberania espiritual' é, inevitavelmente, adotar o hábito de utilizar algum ritmo respiratório diferente do usual".
 - **[B075 p. 168]** "**pranayama** — as práticas milenares que consistem em exercícios de controle respiratório" — "transformou-se numa **'chave do autocontrole'**"; "a respiração engloba as funções fisiológica, psicológica e espiritual".
@@ -42,7 +43,7 @@ Ellam relata que os "3As" tornaram-se "a mais preciosa" das práticas do seu cot
 - **[B075 p. 23]** respiração dirigida a arquivos específicos (exemplo da claustrofobia — **clínica, exemplo**): "a respiração pode ser **direcionada, com uma precisão cirúrgica**, para arquivos mentais de problemas específicos, no sentido de atacar a causa e as consequências desses".
 - 0 códigos novos (PAC/"DBD" = programa clínico, O-7).
 
-## Ampliação — P2026-03-21 (Samudra Manthan A Enigmatica Alquimia de Vishnu)
+### P2026-03-21 (Samudra Manthan A Enigmatica Alquimia de Vishnu)
 
 - **[A soberania espiritual: controle das emoções e da respiração] (U0019)** «A soberania espiritual de um ser humano passa necessariamente pelo controle das suas emoções.» — a respiração como via: "E o controle das emoções de um ser humano passa inevitavelmente pelo controle da respiração" (U0019: «E o controle das emoções de um ser humano passa inevitavelmente pelo controle da respiração.»); as duas vacinas de autoimunidade: "Aqui existem duas vacinas ou componentes de autoimunidade que estão sendo produzidas meio que de modo forçado pelos seres humanos e eles não sabem" (U0019: «Aqui existem duas vacinas ou componentes de autoimunidade que estão sendo produzidas meio que de modo forçado pelos seres humanos e eles não sabem.»).
 
@@ -82,7 +83,8 @@ Prática simples e acessível (respiração + mente + alinhamento) — a "porta 
 
 ---
 
-## Atualização — P2021-12-04
+## Atualização
+### P2021-12-04
 
 - **Unidades:** U0563–U0571.
 - **Contexto acrescentado:** A prática respiratória, meditativa e de alinhamento é reforçada como disciplina de emancipação vinculada ao Mentalma e ao Moksha.

@@ -23,7 +23,8 @@ A encarnação de Apolônio marca a atuação do Quarto Logos no mundo: sua mens
 - **Variações:** Apolônio (filósofo neopitagórico); encarnação do Quarto Logos
 
 
-## Ampliação — B016 (O Quarto Logos)
+## Ampliação
+### B016 (O Quarto Logos)
 
 - **[B016 p. 146]** capítulo em 1ª pessoa: “Costumo olhar para a humanidade com o mesmo padrão de compaixão que dedico a mim mesmo.”
 - **[B016 p. 146]** Jesus usou o poder “não para submeter as pessoas, mas sim, para ajudar as mais frágeis”; contraste com o “Deus Bíblico”, que haveria destinado o messias a “dominar a humanidade em seu nome, só que pela força.”
@@ -31,7 +32,7 @@ A encarnação de Apolônio marca a atuação do Quarto Logos no mundo: sua mens
 - **Quarentena histórico-religiosa:** Apolônio histórico ≠ validação acadêmica da leitura de Ellam.
 
 
-## Ampliação — P2024-11-03 (Apolônio de Tiana e o Quarto Logos)
+### P2024-11-03 (Apolônio de Tiana e o Quarto Logos)
 
 - **[P2024-11-03 · O ALVO CENTRAL — O RESGATE DO CANCELADO]** "uma figura chamada APOLÔNIO DE TIANA, QUE FOI O PERSONAGEM MAIS IMPORTANTE DESSE PERÍODO [séculos 1-4 da era cristã], HOJE A GENTE NEM SABE QUE EXISTIU... todo um processo de distorção no campo do conhecimento, todo um processo de COMPETIÇÃO ENTRE ÍDOLOS GERADOS PELOS SEGUIDORES... A GRANDE VÍTIMA EM TERMOS DE PERSONAGEM HISTÓRICO DESSE PROCESSO FOI APOLÔNIO DE TIANA, mas não foi só ele... NA VERDADE, A GRANDE VÍTIMA É A HUMANIDADE. Somos nós que não aprendemos o que poderíamos ter aprendido"; O CONTRASTE DE FAMA: "o próprio TIBÉRIO CÉSAR veio saber que Jesus tinha morrido 13 ANOS DEPOIS da crucificação... DE TÃO POUCA IMPORTÂNCIA, os imperadores romanos davam [ao que acontecia na Palestina]. Só que Apolônio ELE ERA CONHECIDO E TORNOU-SE CONHECIDO POR TODOS OS IMPERADORES ROMANOS. Jesus viveu 33 anos, atuou publicamente 3 anos. APOLÔNIO ATUOU DURANTE 80, 90 ANOS"; "nesse processo SUMIRAM COM TUDO QUE APOL[ÔNIO DE] TIANA FEZ"; "AS HISTÓRIAS DE APOL[ÔNIO] COLOCAM AS HISTÓRIAS DE JESUS NO NÍVEL UM POUCO MAIS MODESTO".
 - **[P2024-11-03 · O NASCIMENTO E PROTEUS]** "A POLÔNIA TERIA NASCIDO DE UMA VIRGEM NUMA ANTIGA E ABASTADA FAMÍLIA ARISTOCRATA, DESCENDENTES DOS PRIMEIROS MORADORES DE TIANA, que é uma cidade que fica na hoje chamada Turquia, mas na época fazia parte da cultura helênica. E UM DEUS EGÍPCIO CHAMADO PROTEUS APARECE PARA SUA MÃE E ANUNCIA QUE ELA IA TER UMA CRIANÇA E ESSA CRIANÇA IA SER FORMIDÁVEL" [⚠️⚠️ o paralelo da Anunciação — o anjo de Maria × o deus egípcio de Tiana]; A GÊNESE ESPIRITUAL: "quando soube que um tal ser humano ia ser produzido por Sofia, ELE QUIS NASCER NO MESMO PERÍODO PARA VER SE PODIA SER ÚTIL... A ESSE OUTRO SER HUMANO QUE VINHA ENJAULADO NUMA MISSÃO DE SER O MESSIAS"; O NASCIMENTO TÉCNICO: "o caso do outro ser DESATIVOU A SUA BIOFORMA que tinha desde os tempos em que ele mergulhou e ficou LÁ NO PLANETA DE ZAM [Zian] NO SISTEMA DE CAPELA... ESSE SER DESATIVOU ESSA FORMA DURANTE UM TEMPO E NASCEU FEITO UM SER HUMANO... UM NASCEU INTEIRAÇO DO JEITO QUE QUIS" (× "o outro, Jesus, é TODO UM PROCESSO DE FATIAMENTO DE UM GENOMA PRESTADO" — RC-072).
@@ -73,7 +74,8 @@ Ficha baseada em B016 (obra primária) + B031. O cap. 8 de B016 é narrado na 1�
 
 ---
 
-## Atualização — P2021-12-04
+## Atualização
+### P2021-12-04
 
 - **Unidades:** U0572–U0584.
 - **Contexto acrescentado:** Apolônio de Tiana é reafirmado como única encarnação humana de Olm, contemporânea de Jesus e descrita em O Quarto Logos.
@@ -81,7 +83,7 @@ Ficha baseada em B016 (obra primária) + B031. O cap. 8 de B016 é narrado na 1�
 
 ---
 
-## Atualização — P2023-12-02 (Thot, o Enigmático Hermes Trismegisto)
+### P2023-12-02 (Thot, o Enigmático Hermes Trismegisto)
 
 - **Apolônio e o conhecimento de Thot:** "quando Apolônio de Tiana viveu, foi a mesma época de Jesus... o conhecimento de Thot no âmbito da cultura judaico-semítica e greco-romana já estava travestido da face da teurgia, ou seja, da magia. Já não era o dos iniciados";
 - **"Só magia e sabedoria":** "Apolônio de Tiana está muito além disso, mas ele lidou com só magia e sabedoria, não foi no grau de iniciação";

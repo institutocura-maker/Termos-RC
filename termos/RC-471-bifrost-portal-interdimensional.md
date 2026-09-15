@@ -23,11 +23,12 @@ Na cosmologia comparada de Jan Val Ellam, Bifrost é uma ponte periódica entre 
 - **STT:** B Frost, Be Frost.
 
 
-## Ampliação — P2025-02-16
+## Ampliação
+### P2025-02-16
 
 - **Bifrost (P2025-02-16):** "a famosa ponte Bifrost, que o deus Heimdall acionava quando era chegada a época de se abrir um caminho entre os nove mundos do conglomerado de Ig Brasil"; "só quando essa Bifrost era estabelecida, seres dessas comunidades podiam viajar de uma para outra, inclusive vir para a Terra (na época, Marte)".
 
-## Ampliação — P2026-03-21 (Samudra Manthan A Enigmatica Alquimia de Vishnu)
+### P2026-03-21 (Samudra Manthan A Enigmatica Alquimia de Vishnu)
 
 - **[A ponte Bifrost: ligando as oito locas ao nosso universo] (U0013)** «Essa ponte na mitologia nórdica chamada B Frost, quando havia um alinhamento entre elas, os seres Thor, se lembram de Thor?» — a primeira ponte construída pelos cientistas de Odin: "Quando Odin foi expandindo o seu reino de Brasil, e seus cientistas criaram a primeira ponte ligando às oito locas do universo vizinho com o nosso universo, que passou a ser chamado por ele de mais uma loca" (U0013: «Quando Odin foi expandindo o seu reino de Brasil, e seus cientistas criaram a primeira ponte ligando às oito locas do universo vizinho com o nosso universo, que passou a ser chamado por ele de mais uma loca.»); Midgard e o axis mund: "Uma delas era Midgard, que seria o nosso universo" (U0013: «Uma delas era Midgard, que seria o nosso universo.»); "Axismund é o lugar onde o universo de lá se une ao nosso universo, que Marte era o axis mund da época" (U0013: «Axismund é o lugar onde o universo de lá se une ao nosso universo, que Marte era o axis mund da época.»).
 
@@ -61,7 +62,8 @@ Na cosmologia comparada de Jan Val Ellam, Bifrost é uma ponte periódica entre 
 
 O portal interdimensional é elemento da cosmologia de Ellam. Não há afirmação de comprovação física da Bifrost. Sua leitura como tecnologia de trânsito entre universos é **Teologia Comparada de Ellam**, não consenso da mitologia nórdica nem resultado estabelecido da física.
 
-## Ampliação — P2024-08-03
+## Ampliação
+### P2024-08-03
 
 - **[P2024-08-03] AE-FD06 — U0375–U0388; U0400–U0404:** Acrescenta Ragnarok como destruição do conglomerado de nove mundos, com Marte/Midgard e portais, somente na interpretação cosmológica de Ellam. Qualquer apoio em John Brandenburg ou hipótese marciana permanece controverso.
 ## Citações-chave

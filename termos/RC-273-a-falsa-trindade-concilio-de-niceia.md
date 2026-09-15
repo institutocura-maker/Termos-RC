@@ -23,7 +23,8 @@ O capítulo 17 de B014 parte da constatação de que Sophia, "apesar de investid
 - **Variações:** Santíssima Trindade (nome tradicional); Concílio de Niceia (325); "Falsa Trindade" (termo de Ellam)
 
 
-## Ampliação — B014 (Sophia e o Logos Criadores)
+## Ampliação
+### B014 (Sophia e o Logos Criadores)
 
 - **[B014 p. 187]** a urdidura da “Santíssima Trindade” no Concílio de Niceia — o autor remete o detalhe ao cap. 17.
 - **[B014 p. 196]** “Sophia ficou mais ‘espantado’ ainda ao acompanhar a formulação da ideia da ‘Santíssima Trindade’, produzida pelo ‘Concílio de Niceia’, no ano 325.”
@@ -34,31 +35,31 @@ O capítulo 17 de B014 parte da constatação de que Sophia, "apesar de investid
 - **Quarentena histórico-religiosa e teológica:** Niceia = narrativa de Ellam, **não** fato histórico validado. Sem código novo.
 
 
-## Ampliação — B049 (Jesus e Nietzsche)
+### B049 (Jesus e Nietzsche)
 
 - **[B049 p. 12]** «jamais o credo do “Concílio de Niceia” será respeitado, exatamente aquele que criou o mito da “Santíssima Trindade” e igualou Jesus a Deus»; o sistema desde 325 «foi “destruindo” a parte humana de Jesus». **Quarentena histórico-religiosa e político-geopolítica** (leitura do autor, não fato validado). Sem fusão com B014. Fonte **B049** acrescentada na tabela-mestra.
 
-## Ampliação — P2012-02-19 (Xadrez Cósmico de Brahma, Vishnu e Shiva)
+### P2012-02-19 (Xadrez Cósmico de Brahma, Vishnu e Shiva)
 
 - **[Niceia 325 e a Santíssima Trindade] (U0005)** «Quando no concílio de Missé em 325 depois de Cristo, Jesus foi igualado a Deus quando surgiu o conceito da Santíssima Trindade, aí é que Javé não aceitou mesmo.» — no Concílio de Niceia (RC-273, STT 'Missé'), em 325 d.C., Jesus foi igualado a Deus e surgiu a Santíssima Trindade — 'aí é que Javé não aceitou mesmo'.
 
-## Ampliação — P2022-09-17 (A Hipóstase dos Arcontes)
+### P2022-09-17 (A Hipóstase dos Arcontes)
 
 - **[Concílio de Niceia 325: o mito da Santíssima Trindade] (U0004)** «E Constantino se converteu ao cristianismo, mas Mas quando Constantino se converteu ao cristianismo, qual a primeira confusão que surgiu no Concílio de Niceia em 325, Constantino trouxe todos os bispos de igrejas cristãs.» — "E ali surgiu o mito da Santíssima Trindade Eniceia." (U0004: «E ali surgiu o mito da Santíssima Trindade Eniceia.»); a datação do mito trinitário no Concílio (RC-273 A Falsa Trindade); "Não existia a figura do Papa ainda" (paráfrase do contexto U0004).
 - **[Helena: as relíquias para a conversão de Constantino] (U0004)** «As pessoas não sabem o que Helena, a mãe de Constantino, foi atrás em Jerusalém.» — a busca dos textos gnósticos pela mãe de Constantino: "A história do cristianismo diz que Helena foi quem levou para Constantino as relíquias de fé suficientes para que Constantino se convertesse ao cristianismo no início do século 4 e parasse de perseguir o cristianismo" (U0004: «A história do cristianismo diz que Helena foi quem levou para Constantino as relíquias de fé suficientes para que Constantino se convertesse ao cristianismo no início do século 4 e parasse de perseguir o cristianismo.»); o resgate fracassado que Boécio retomaria no séc. V (RC-273; BLOCO 2 — Boécio).
 
 
-## Ampliação — P2022-11-19 (No Princípio era o Bem! Será)
+### P2022-11-19 (No Princípio era o Bem! Será)
 
 - **[Agostinho de Hipona e a imposição dogmática] (U0008)** «Então assim, aí Agostinho bateu na mesa e disse: "A partir de hoje, quem desconfia de que a vida não é boa ou que Deus não é perfeito, vai pro inferno".» — STT «Agostinho Dipona»/«Agostinho de Pon» = Agostinho de Hipona (séc. IV-V); a imposição que encerrou o questionamento sobre a bondade divina e o problema do mal durante séculos (RC-273; religião institucional como quarentena).
 
 
-## Ampliação — P2025-12-14 (Os Fundamentos da Revelação Cósmica)
+### P2025-12-14 (Os Fundamentos da Revelação Cósmica)
 
 - **[A remoção do livro de Enoque pelo grupo de Jerônimo] (U0070)** «O livro de Enoque sumiu.» — a queima de arquivo institucional: o grupo comandado por Jerônimo removeu o livro de Enoque do cânone bíblico; «menos o livro de Enoque» (U0070: «menos o livro de Enoque.»); o mesmo padrão de Niceia 325 (o que seria verdade definido pelo Império Romano); STT «século» (sem número — o STT trai); RC-273 religião institucional; RC-672.
 
 
-## Ampliação — P2023-12-25-04 (Aula 04 — O Nascimento do Cristianismo)
+### P2023-12-25-04 (Aula 04 — O Nascimento do Cristianismo)
 
 - **«O Concílio de Nicéia, ferou com Ário, ferrou com o Arianismo e surgiu então o que? Os trinitaristas.»**
 - Aula 04 narra o **Concílio de Niceia** e a imposição do trinitarismo (Ário derrotado) — corrobora e amplia a Falsa Trindade (RC-273).
@@ -98,7 +99,8 @@ Ficha baseada em B014 (obra primária). A "Falsa Trindade" é o contraponto cris
 
 ---
 
-## Atualização — P2024-09-28 (A Raça Inabalável dos Sethianos Emancipados)
+## Atualização
+### P2024-09-28 (A Raça Inabalável dos Sethianos Emancipados)
 
 - **Concílio de Niceia (325):** "no ano 325, no concílio de Niceia, surgiu o chamado credo da Santíssima Trindade";
 - **Tese de Ário:** "a tese de Ário? Que Jesus era só um ser humano que divinizou a si mesmo pela sua grandeza pessoal" — rejeitada pelos bispos trinitaristas;

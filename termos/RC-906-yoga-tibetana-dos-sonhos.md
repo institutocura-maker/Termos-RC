@@ -15,7 +15,8 @@ atualizado = "2026-09-13"
 ## Definição Sintética
 Yoga Tibetana dos Sonhos — conceito desenvolvido na palestra «A Teia da Vida e o Circuito Oculto dos Deuses» (P2024-01-13).
 
-## Ampliação — P2024-01-13
+## Ampliação
+### P2024-01-13
 **Fonte:** palestra «A Teia da Vida e o Circuito Oculto dos Deuses» (13/01/2024).
 **Trecho verbatim:** «Existe yoga que você pode fazer para você se recordar melhor do chamado mundo da vigília, do sono e dos sonhos»
 

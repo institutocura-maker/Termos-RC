@@ -23,17 +23,18 @@ A hibridização atribuída aos Igigi é situada na segunda era equinocial e lig
 - **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
 
 
-## Ampliação — P2025-05-31
+## Ampliação
+### P2025-05-31
 
 - **Os igigis (P2025-05-31):** ramo dos Anunnakis ("igis") que se recusou ao trabalho pesado (retirar ouro para Nibiru); "há 15–16.000 anos" transaram com mulheres humanas na época de Jarede (pai de Enoque) → "raça ímpia"/gigantes; presos por Javé em "prisões onde a energia do mundo [deles]..."; Enoque intercedeu (RC-673); "Lammur" = Marte (STT).
 
 
-## Ampliação — P2022-12-17
+### P2022-12-17
 
 - **[P2022-12-17 — FONTE ORIGINAL] Os Igigi (U0750–U0760):** "os Anunnakis rebeldes desobedeceram, Enki e Anu, desobedeceram todo mundo e resolveram transar com seres humanos, ou seja, com mulheres. E também Anunnakis fêmeas transaram com humanos machos"; "uma certa classe de Anunnaki chamada Igigi fez isso e a vida na Terra tornou-se muito complicada"; "esses filhos híbridos de Anunnakis com seres humanos criaram problemas pros interesses da Trimurti, pros interesses de Zeus... uma confusão que só acabou com as explosões de Sodoma e Gomorra".
 
 
-## Ampliação — P2023-10-14 (A Esquecida Honra dos Anunnaki)
+### P2023-10-14 (A Esquecida Honra dos Anunnaki)
 
 - **[P2023-10-14 · A REVOLTA DOS IGIGI, DATADA POR ESTA FONTE]** "Decorridos 360, 360.000 anos depois da chegada de Alalu, uma um certo tipo de anunque chamado Igii veio pra Terra para trabalhar como sendo os mineradores." (U0005)
 - **[P2023-10-14 · A ESCASSEZ DE MÃO DE OBRA COMO CAUSA DA FABRICAÇÃO]** "Então, poucos anulacques, por mais que chegasse, sempre eram poucos para a quantidade de trabalhos 300.000 anos, 200.000 anos, 100.000 anos e em que uma irmã dele chamada Narsc e um outro irmão chamado Eno que já tinha vindo depois dele." (U0005)
@@ -70,7 +71,8 @@ Grafia e contexto mesopotâmico validados pelo curador. Status permanece candida
 
 ---
 
-## Atualização — P2023-12-02 (Thot, o Enigmático Hermes Trismegisto)
+## Atualização
+### P2023-12-02 (Thot, o Enigmático Hermes Trismegisto)
 
 - **Tipologia:** "um grupo de 600 anunnaki que tinha uma tipologia muito semelhante à nossa humana e um outro grupo que também se parece conosco, mas que o corpo deles pode receber complemento... eles já nascem com essa genética que o corpo dele já é como se nascesse com lugares para você instalar algumas coisas biônicas... E esses são chamados igigi";
 - **Efetivo:** ~850–900 anunnaki na Terra há ~20.000 anos, "comandados por Enlil"; Enki "era o outro irmão";

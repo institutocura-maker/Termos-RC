@@ -30,7 +30,8 @@ Os entroncamentos genéticos explicam a composição do genoma humano como "mosa
 - **Variações:** entroncamentos genéticos; cruzamentos intersiderais; grupos de entroncamento (1–4)
 
 
-## Ampliação — B023 (O Dharma e as Castas Hindus)
+## Ampliação
+### B023 (O Dharma e as Castas Hindus)
 
 - **[B023 p. 28]** cap. 3: povos híbridos entre contextos «demoníaco e humano»; Hiperbórea; biodemo / biodemol / humano.
 - **[B023 p. 28–29]** quatro grupos descritos: (1) demo + homo = biodemol; (2) biodemo + biodemol + homo; (3) nephelim + homo e anfíbios sirianos + homo; (4) biodemo + demo = alguns atlantes.

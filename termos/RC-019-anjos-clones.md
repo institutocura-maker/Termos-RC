@@ -32,7 +32,8 @@ Com isso:
 
 * **Trava aplicável**: leitura do autor (a angelologia católica como 'romantismo'; anjo não cuida de humano) — dito, não doutrina.
 
-## Ampliação — P2024-06-16 (O Projeto TALM, os Fenvans e os Humanos)
+## Ampliação
+### P2024-06-16 (O Projeto TALM, os Fenvans e os Humanos)
 
 - **[Anjos clones — 100% fiéis] (U0006)** «Esses clones eles nunca param de operar e eles são 100, não é 99, são 100% fiéis as ordens que Jahé ou Brama deu para eles.» — os anjos clones (Miguel, Rafael, Uriel, Gabriel) nunca param e são 100% fiéis às ordens de Brahma/Javé.
 

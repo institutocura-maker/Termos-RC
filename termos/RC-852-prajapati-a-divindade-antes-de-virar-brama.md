@@ -35,12 +35,13 @@ Com isso:
 * **Grafia STT:** 'prajapati' / 'para Japati' = Prajapati. O nome que a divindade tinha antes de se tornar prisioneira da própria criação e passar a ser chamada de Brama.
 * **Trava aplicável**: nenhuma além das gerais do despacho.
 
-## Ampliação — P2012-02-19 (Xadrez Cósmico de Brahma, Vishnu e Shiva)
+## Ampliação
+### P2012-02-19 (Xadrez Cósmico de Brahma, Vishnu e Shiva)
 
 - **[Prajapati, a divindade antes da queda] (U0005)** «Mas como essa divindade também chamada de prajapati, hesitou depois que expeliu a sua criação singular.» — Prajapati: a divindade que, 'também chamada de prajapati', hesitou depois de expelir sua criação — e, pela hesitação, foi tragada pela própria obra, tornando-se Brama (RC-037/Javé).
 - **[Brama, o nome após a prisão] (U0005)** «E assim, o ser chamado de Brama é o nome que a divindade para Japati começou a ter depois que se tornou prisioneira da sua própria criação.» — o ser chamado Brama (RC-037) é 'o nome que a divindade Prajapati começou a ter depois que se tornou prisioneira da sua própria criação'.
 
-## Ampliação — P2025-06-14 (PALESTRA SOBRE A QUEDA DO CRIADOR-Refatorada)
+### P2025-06-14 (PALESTRA SOBRE A QUEDA DO CRIADOR-Refatorada)
 
 - **[A hesitação de Brajna na singularidade] (U0012)** «Por milésimos de segundo, Brajna percebeu o erro em seus algoritmos, mas já não era capaz de conter a singularidade.» — Prajapati/Brajna (RC-852) percebeu o erro em seus algoritmos por milésimos de segundo, mas já não conseguia conter a singularidade — o instante que definiu a queda.
 

@@ -18,7 +18,8 @@ atualizado = "2026-08-21"
 ## Contexto / Origem
 Criado por autorização excepcional do curador (Devolutiva Trilogia TALM, O-3 — RC-775) a partir do ART-2025-08-03.
 
-## Ampliação — ART-2025-08-03
+## Ampliação
+### ART-2025-08-03
 
 - **Cap. 2:** "o Éon das Três Esferas, também conhecido como 'super-loka', 'Loca das Três Esferas', 'geno' ou mesmo 'Brahmaloka' (em seu aspecto yang), foi uma estrutura crucial concebida por Mohen So e a Trimúrti no universo antimaterial, funcionando como um vasto repositório de 'tesouros genéticos'";
 - "guarda as intrincadas sequências descritas por **Moros** (RC-454) e **Anã** (RC-777); Moros, o primeiro a empregar a racionalidade para mapear a 'podridão ancestral', criou uma 'planilha' em um 'computador quântico' onde essa podridão era criptografada como um 'código fonte definidor'; Anã estudou as 'necessidades' que surgiriam desses 'códigos podres'... As **Nornes** (RC-467) foram então criadas para operacionalizar os resultados desses estudos";

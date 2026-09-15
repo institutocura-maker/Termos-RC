@@ -16,7 +16,8 @@ atualizado = "2026-09-12"
 
 Morada principal de Javé no Brahmaloka (universo antimaterial): uma loca com uma grande base laboratorial dentro da qual há uma pequena nave antimaterial que leva o eu/corpo de Javé ao mundo material. Edificada "nos últimos tempos" (~25.000 anos, segundo a palestra P2026-07-25), desde o último estado de coma de Javé (que ficava milhões de anos apagado, mantido pelos anjos clones).
 
-## ## Ampliação — P2026-07-25 (Shekinah e Merkabah absorvidas)
+## Ampliação
+### P2026-07-25 (Shekinah e Merkabah absorvidas)
 
 Devolutiva do curador (19/08/2026): **Shekinah** e **Merkabah** absorvidas neste termo.
 - **Shekinah:** artefato/vestimento antimaterial ("trono móvel") que os seres do universo antimaterial usam para interagir com os humanos; o brilho da Shekinah de Javé era superior ao do sol (relato dos tempos de Adão — as famílias se sentavam no jardim do Éden vendo-a pousar sobre a árvore do conhecimento; quem a contemplava e saía ileso ficava imune a doenças); também descrita como nave antimaterial que unia o universo vizinho ao nosso. Relato pessoal do autor: encontro com a Shekinah num quarto de hotel em Pinheiros (SP), 2007 — "meu filho, você precisa fazer um pacto comigo".

@@ -33,7 +33,8 @@ Com isso:
 * **Grafia STT:** 'milesanos' = Milésios. Herdaram o conhecimento druídico e fundaram as origens do Colégio.
 * **Trava aplicável**: nenhuma além das gerais do despacho.
 
-## Ampliação — P2017-10-14 (Da Base Atlan ao Colégio Druídico)
+## Ampliação
+### P2017-10-14 (Da Base Atlan ao Colégio Druídico)
 
 - **[os Milésios herdaram o conhecimento] (U0141)** «Então, o conhecimento que eles trouxeram quando os milesanos herdavam o conhecimento deste terreno, eles meio que chamaram isso de conhecimento de inclusezianos lá na Irlanda e depois lá na Escócia e depois descendo da Grantã, que fundaram as primeiras origens do colégio do cuja tese estranhamente foi transplantada lá de Capela paraa Terra através dessa história.» — STT `milesanos`=Milésios; herdaram o conhecimento druídico na Irlanda e fundaram as primeiras origens do Colégio Druídico, cuja tese foi transplantada de Capela.
 

@@ -33,7 +33,8 @@ Com isso:
 * **Grafia STT:** 'Maria Orstic' / 'Maria Rossique' = Maria Orsic. Médium vidente da Sociedade Vril; com as 'Ringles' recebia mensagens em línguas antigas (sumério-acadiano).
 * **Trava aplicável**: nenhuma além das gerais do despacho.
 
-## Ampliação — P2018-12-16 (Terra Atlantis - Era Sapiens)
+## Ampliação
+### P2018-12-16 (Terra Atlantis - Era Sapiens)
 
 - **[Maria Orsic, a médium da Sociedade Vril] (U0059)** «Em 1921 e 22, encontramos Hitler sentado junto com Maria Orsic, médium, vidente, psicógrafo e os que recebia mensagens em línguas que nenhum deles entendia.» — Maria Orsic (STT 'Maria Orstic/Rossique'), médium vidente da Sociedade Vril (RC-847); com as 'Ringles' recebia mensagens em línguas antigas (sumério-acadiano) que repassavam a 'ciência perdida' — Lemion (RC-074) operava por trás dessa raça, municiando o salto tecnológico nazista.
 

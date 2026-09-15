@@ -23,13 +23,14 @@ A palestra o apresenta junto a Antérion, Danérion, Mermérion e Tempérion. É
 - **Fonte de decisão:** curadoria estrutural C-01 a C-07, 2026-08-14.
 
 
-## Ampliação — P2024-05-04-R
+## Ampliação
+### P2024-05-04-R
 
 - **[P2024-05-04-R] Perpérion, dimensão-laboratório (U0300–U0450; telas 1–2):** "dentro da Espiritualidade Laboratorial (M3), que representa um nível de ousadia e risco para se testar a incompletude, existem milhares de dimensões-laboratório. Perpérion é uma dessas dimensões, descrita como uma cidade espiritual onde Divindades Cocriadoras podem manifestar universos"; "estima-se que mais de 3.500 universos foram gerados a partir de Perpérion, incluindo o universo material (Bhuloka) e antimaterial (Brahmaloka)"; "os arcons de eon são as cinco principais cidades espirituais nesse nível: Antterrium, Danérium, Mermérium, Perpérium e Tempérium".
 - **[P2024-05-04-R] A lógica de Perpérion (U0450–U0550):** "a lógica que prevalecia em Perpérion antes do problema da criação de Javé distinguia entre divindades com capacidade criativa independente (que poderiam gerar universos e seres autônomos, cedendo mônadas espirituais) e divindades menores com potencial cocriativo para gerar seres dependentes (que permaneceriam vinculados ao psiquismo do criador)"; "Brajna, antes de sua queda, pertencia a este segundo tipo".
 
 
-## Ampliação — P2023-07-30 (A Leitura Adulta da Realidade)
+### P2023-07-30 (A Leitura Adulta da Realidade)
 
 - **[P2023-07-30 · A MODA DOS ARTISTAS-COCRIADORES — ENTRAR NA OBRA]** "aqui [na Espiritualidade Laboratorial] surgiram **artistas**... aqui existem dois tipos de artista cocriador: os que estabelecem relação de dependência com a criação e os de independência [o livro O Drama Cósmico de Javé]. O que eu nunca falei: **nos últimos tempos surgiu uma novidade — o criador que gerou a realidade ENTRA e constrói lá de dentro**... **quem inventou isso foram os seres Adhy, a família Pashvnaj** [STT: 'Past']."
 - **[P2023-07-30 · a queda como ESCOLHA]** "parece que **Prabrajna teria entrado na obra levado por esse desejo de ser o primeiro a entrar na própria obra e lá de dentro dar o show dele**... a conversa dos seres de lá teria sido 'não vá, não, porque isso não vai dar certo'... **o caso de Prabrajna foi o primeiro — aí eles interromperam essa ideia.** Nós estamos falando de você criar uma música e ENTRAR na música e passar a ser um dos versos da música."

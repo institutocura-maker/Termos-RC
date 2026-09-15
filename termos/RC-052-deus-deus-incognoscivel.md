@@ -23,25 +23,26 @@ Esta distinção é a chave hermenêutica das RC: separa o "Deus" das religiões
 - **Variações:** Deidade Suprema; Fonte; Princípio Maior; Deus Bíblico (= Javé, não confundir)
 
 
-## Ampliação — P2024-11-09
+## Ampliação
+### P2024-11-09
 
 - **Deus (P2024-11-09):** "uma consciência cósmica e espiritual, tipo Deus, que pudesse existir para além das fronteiras da criação caótica... jamais deu qualquer passo no sentido de resolver o impasse gerado. Tanto que o buraco negro mental emergiu e está acelerando ainda mais o colapso do universo vizinho. E, de novo, esse Deus que existe lá naquele nível espiritual nunca fez nada, mas ele existe. Mas, como eu disse, pro caos é uma majestosa inutilidade. Nós, os humanos, é que temos que fazer o trabalho sujo".
 
 
-## Ampliação — B048 (Favor Divino)
+### B048 (Favor Divino)
 
 - **[B048 p. 13]** “o único e verdadeiro Deus, o Incognoscível, Aquele verdadeiramente Sagrado e doador de toda existência.”
 - **[B048 p. 67]** “o único e verdadeiro Deus Pai-Mãe Amoroso, o Incognoscível, o Eterno, o Incriado”; “não tem entre os seus atributos” a imposição pela força.
 - Distinção Javé ≠ Incognoscível. Sem fusão com B043 / B019. A ficha deixava de citar a obra primária (só B031).
 
 
-## Ampliação — B001 (O Drama Cósmico de Javé)
+### B001 (O Drama Cósmico de Javé)
 
 - **[B001 p. 13]** «Deus, o Incognoscível» = a Deidade, «incompreensível e indescritível»; distinto das Divindades Excelsas e do criador deste universo.
 - **[B001 p. 11]** o Pai Incognoscível «está acima de todas as divindades criadoras»; a «parte sagrada» que sustenta cada ser. Sem fundir com Javé. Sem fusão com B048. Fonte **B001** já constava na tabela-mestra.
 
 
-## Ampliação — B002 (O Drama Espiritual de Javé)
+### B002 (O Drama Espiritual de Javé)
 
 - **[B002 p. 8]** a personificação da Deidade em divindades maiores e menores; as almas das criaturas das divindades menores foram formatadas «simples e ignorantes» — distinto da Deidade.
 - **[B002 p. 188]** «prestação de contas que cada ser existente faz da cota existencial herdada do Deus Incognoscível, Aquele que é Pai e Mãe amoroso dos demais seres viventes». Sem fundir com Javé. Sem fusão com B001 / B048. Fonte **B002** já constava na tabela-mestra.

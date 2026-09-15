@@ -28,13 +28,14 @@ Não significa isolamento intelectual nem recusa de estudo. Implica:
 - desenvolver disciplina compatível com a própria personalidade.
 
 
-## Ampliação — P2025-02-16
+## Ampliação
+### P2025-02-16
 
 - **Doutrina da própria personalidade (P2025-02-16):** "cada ser humano que a isso pretenda desenvolva a sua ciência pessoal ou a sua doutrina, a doutrina da sua própria personalidade, porque cada um de nós é de um jeito. Regras gerais existem, mas cada um de nós precisa também de regras específicas"; "seja você o seu próprio guru".
 - **O espelho:** "você olha para um espelho, quando você sai da frente do espelho sua imagem fica lá. Isso aqui é o eu humano que fica dentro do espelho, mas o espírito dele é o que tá fora. Nós somos imagens refletidas dos nossos espíritos que se movimentam dentro de um espelho — só que esse espelho pra gente é uma faixa de realidade."
 - **Desenraizar:** "você perceber uma nova ideia é fácil. O difícil é desenraizar as velhas ideias... sem o processo da vivência do yoga ou algo parecido, não há possibilidade de renovação do ser humano."
 
-## Ampliação — P2025-06-14b (A Consciência Humana e a Chave da Decifração Universal)
+### P2025-06-14b (A Consciência Humana e a Chave da Decifração Universal)
 
 - **[A ciência pessoal de cada ser único] (U0029)** «O que implica dizer que cada ser humano sob essa perspectiva tem que criar sua ciência pessoal, já que cada um de nós é único.» — o Mentalma é a primeira versão da ciência pessoal do autor; cada ser humano, sendo único, precisa criar a sua própria.
 
@@ -78,7 +79,8 @@ Não transformar Ciência Pessoal em doutrina padronizada e coletiva: a singular
 
 ---
 
-## Atualização — P2023-05-13 (Bastidores da Revelação Cósmica)
+## Atualização
+### P2023-05-13 (Bastidores da Revelação Cósmica)
 
 - **Esforço intelectual e psíquico como imperativo:** seção 5.4 — "A Crítica à Crença e à Passividade Religiosa: O Esforço Intelectual e Psíquico como Imperativo" — a Ciência Pessoal como método de autodescoberta da função humana na Matrix (seção 5.3);
 - **Laboratório íntimo:** "Não há muito a ser feito fora de cada um de nós. Há muito a ser feito aqui dentro de cada um de nós" — o processo de elevação de consciência é individual;

@@ -23,21 +23,22 @@ O B011 (Jesus e o Enigma da Transfiguração) narra os fatos do período final d
 - **Variações:** Fator Judas; o papel de Judas; Judas Iscariotes (= Yel Am/Yel Liam, RC-138)
 
 
-## Ampliação — B011 (Jesus e o Enigma da Transfiguração)
+## Ampliação
+### B011 (Jesus e o Enigma da Transfiguração)
 
 - **[B011 p. 19–20]** Judas, "antes de todos os outros, passou a demonstrar pouca surpresa"; "Motivado pelo orgulho intelectual [...] jactava-se em ser conhecedor do plano de Jesus"; o "óbvio" para ele era que Jesus "assumiria [...] uma espécie de governo planetário, em que os judeus exerceriam a supremacia política" e Judas "ocuparia posição de vulto no pretenso reinado".
 - **[B011 p. 81]** na ceia: "Um de vós me há de trair." — o anúncio, na voz de Tiago, sem interpolar o desfecho.
 - Não ontologizar Yel Am/Yel Liam (RC-138 sem ficha).
 
-## Ampliação — P2018-12-16 (Terra Atlantis - Era Sapiens)
+### P2018-12-16 (Terra Atlantis - Era Sapiens)
 
 - **[Ielan veio a ser Judas Iscariotes] (U0003)** «Mas assim, Lemi ele ele tinha uma versão profunda por Ielan, que veio a ser Judas Iscariotes.» — Judas Iscariotes era a encarnação de Ielan (família Iel), a quem Lemion detestava; o único apóstolo da elite judaica (Judeia), o que explica o papel dele no processo do Sinédrio (RC-365).
 
-## Ampliação — P2025-05-10 (Mistérios do Apocalipse)
+### P2025-05-10 (Mistérios do Apocalipse)
 
 - **[Judas, o que não soube lidar] (U0003)** «Não, mas a espiritualidade sabe de Judas não foi um traidor barato ou vagabundo de Jesus.» — Judas (RC-365) 'não foi um traidor barato ou vagabundo de Jesus' — não soube lidar com a recusa de Jesus em cumprir as profecias messiânicas.
 
-## Ampliação — P2022-11-20 (A Incompreendida Nova Aliança proposta por Jesus)
+### P2022-11-20 (A Incompreendida Nova Aliança proposta por Jesus)
 
 - **[O sinal verde de Judas] (U0005)** «disse: "Cara, já que você vai ter que fazer, faça logo.» — na última ceia, Jesus anuncia a traição e olha para Judas: "já que você vai ter que fazer, faça logo" — "Judas se levantou crente que tinha recebido um sinal verde de Jesus para criar tal situação em que na hora H"; a leitura do autor: Judas não traiu por maldade — "Judas só enxergava o que ele queria enxergar... ele tá dizendo que não é, que não vai fazer isso"; "Judas se suicidou porque viu que Jesus não ia fazer nada" (U0006: «Judas se suicidou porque viu que Jesus não ia fazer nada.»); o Messias recusado: "Judas, eu sou o Messias" (U0005: «Judas, eu sou o Messias.») — "mas eu não serei o tipo de Messias que vocês esperam" (prosa).
 
@@ -68,14 +69,16 @@ O B011 (Jesus e o Enigma da Transfiguração) narra os fatos do período final d
 ## Seres Associados
 Judas (Yel Am/Yel Liam, RC-138); Jesus (RC-072); Tiago (narrador).
 
-## Atualização — P2026-04-02
+## Atualização
+### P2026-04-02
 
 A live amplia o Fator Judas com uma reabilitação histórica de Judas e referência ao Evangelho de Judas (RC-647), mantendo essa leitura como interpretação atribuída ao palestrante.
 
 ## Observações
 Ficha baseada em B011 (obra primária) + B031. O Fator Judas conecta a trilogia Terra Atlantis (B039) ao drama da crucificação. Transcrição literal pendente na revisão.
 
-## Ampliação — P2023-07-09 (A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons)
+## Ampliação
+### P2023-07-09 (A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons)
 
 - **[Eulian — espírito que encarnou como Judas Iscariotes]** «Esse o espírito de Eulian encarnaria depois como apóstolo de Jesus, Judas, aquele, exatamente aquele que o traiu» — Eulian era membro da família Val; seu espírito encarnou posteriormente como Judas. Ver RC-109 (Família Val), RC-072 (Jesus).
 

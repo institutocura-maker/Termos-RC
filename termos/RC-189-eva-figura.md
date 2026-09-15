@@ -34,7 +34,8 @@ Com isso:
 * **Aspas não autorizadas não transitam.** O que a fonte diz sobre mulheres mora no glossário do ciclo, com nota contextual forte; não em ficha que nomeia figura humana.
 * **Trava aplicável**: D-2 (aspa única) · D-4 (span retido por máscara) · ficha que nomeia figura humana.
 
-## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+## Ampliação
+### P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
 
 - **[P2023-12-03 · SÓ A ASPA APROVADA TRANSITA]** «foi o DNAzinho de Maria em Jesus que fez com que Jesus disse.» (U0004) — D-2: a âncora-mestre do dossiê nesta ficha (`Depois que Eva disse…` — [emenda declarada, ciclo zero da esteira leve, 29/08/2026: referência a span retido, não citação; aspa rebaixada a `backticks` pela regra da casa, que reserva aspa para span conferido byte a byte no `original.txt`]) atravessa uma máscara do STT e por isso foi **retida** (BLOCO 5) — o que se aproveita aqui é apenas a aspa da salvação pelo DNA de Maria, que a fonte põe na boca de Jesus. Na apostila as duas frases do quiasma ficam juntas, como ordem expressa; aqui não.
 
@@ -62,7 +63,8 @@ Com isso:
 | Sequência Formativa da Racionalidade Humana | RC-785 | associado |
 | Judaísmo como Destruidor do Mito de Pandora/Lilith | RC-796 | associado |
 
-## Ampliação — P2024-03-17
+## Ampliação
+### P2024-03-17
 
 **Fonte:** palestra «A Quem Pertence o Planeta e a Biblioteca Genômica Mais Atualizada do Universo» (17/03/2024).
 

@@ -23,7 +23,8 @@ O Cidadão Cósmico é o **ideal antropológico das RC**: o humano que desenvolv
 - **Variações:** cidadania cósmica; cidadão planetário; cidadania planetária (Projeto Orbum)
 
 
-## Ampliação — B033 (O Drama Terreno de Javé)
+## Ampliação
+### B033 (O Drama Terreno de Javé)
 
 - **[B033 p. 98]** cap. 9 *Apesar do Isolamento, eis o Cidadão Cósmico*. CONSTATAÇÃO: o universo como «organismo» / «computador quântico» cujas «teclas» são os seres viventes — **quarentena científica** (analogia do autor).
 - **[B033 p. 107]** «Apesar do isolamento, o cidadão cósmico pretendido surgiu neste palco planetário. Contudo, ele ainda precisa ser bastante melhorado.»

@@ -23,7 +23,8 @@ O livro é a sequência natural de *Cartas a Javé* (B034) e do *Favor Divino* (
 - **Variações:** Memórias de Javé; crônicas de Javé; as três partes de crônicas (espontâneas / nem tanto / forçadas)
 
 
-## Ampliação — B036 (As Memórias de Javé)
+## Ampliação
+### B036 (As Memórias de Javé)
 
 - **[B036 p. 4–6]** Introdução: Ellam cede a “escutar” o Ser que “antes tão somente ordenava”. Primeiro momento = reclamações sobre *Favor Divino* (B048); segundo = respostas às cartas de Mônica Camargo → *Cartas a Javé* (B034). **Não fundir** com B048 / B034.
 - **[B036 p. 5]** três partes: “espontâneas”; “espontâneas, mas nem tanto” (perguntas/discordâncias para “acordá-lo”); “forçadas” (diálogos como em B048). O livro “não se encontra finalizado” e permanecerá aberto a pedido de Javé → **Colecionar Incertezas**; não cadastrar continuação.

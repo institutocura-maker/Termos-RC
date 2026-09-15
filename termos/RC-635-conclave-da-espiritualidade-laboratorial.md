@@ -22,7 +22,8 @@ A fala situa o conclave em curso há cerca de quatro anos, no ritmo próprio dos
 - Grafia: Conclave da Espiritualidade Laboratorial.
 
 
-## Ampliação — P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
+## Ampliação
+### P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
 
 - **[P2022-03-26 · CONCLAVE DA ESPIRITUALIDADE LABORATORIAL NA FALA DE 26/03/2022]** "criaram um nível laboratorial. E aqui as experiências começaram a ter lugar, coisa que aqui não existia. Aqui começaram a surgir seres livres dos protocolos da perfeição, minimamente libertos para ter fios soltos para terem livre arbítrio ou vontade de fazer algo." (U0005) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⭐ **NOTA DE ANTERIORIDADE — P2022-03-26:** antecipa **25 meses** a atual fonte oral mais antiga da ficha (`P2024-05-04`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
 

@@ -23,20 +23,21 @@ A palestra situa Seth entre Caim e os patriarcas Enos, Cainã, Jared e Enoque, d
 - **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
 
 
-## Ampliação — P2022-12-17
+## Ampliação
+### P2022-12-17
 
 - **[P2022-12-17 — FONTE ORIGINAL] A linhagem de Seth (U0730–U0750):** "a descendência de Adão e Eva, Javé teve que engolir o fato de que Abel nasceu afeminado [REVISAR — STT → CHANCELA 2026-09-06 · F039-L3: AGUARDA-ÁUDIO (STT preservado como falado) — ver nota]; aí Caim, que foi o segundo filho de Adão e Eva, matou Abel"; "depois surge Seth, um terceiro filho, que... não quis seguir o mesmo amor por Javé que Adão tinha"; “Adão viveu 930 anos... Seth 105 [912? — REVISAR → RESOLVIDO 10/09/2026 · F043-L5: 912 ANOS, confirmado externamente (Gen 5:8; STT “105” preservado como falado) — ver nota]”; "essas figuras não estavam nascendo [em lugares diferentes], era no mesmo lugar... entre o Mar Negro e o Mar Cáspio, porque era dali que Javé iria transformar aquilo tudo num super império"; "somente quando chegou os tempos de Cainã é que finalmente a descendência de Adão, Seth, Enos... começaram a homenagear Javé através de sacrifícios, cultos".
 
-## Ampliação — P2018-12-16 (Terra Atlantis - Era Sapiens)
+### P2018-12-16 (Terra Atlantis - Era Sapiens)
 
 - **[Sete e a origem do nome Satã] (U0014)** «O nome 7, Satã, derivou desse dessa coisa aqui, desse episódio, desse momento.» — o nome 'Satã' derivou do episódio em que Lemion buscou transformar Sete (Seth, RC-594) em seu representante humano — 'alguém que venerava Set'.
 
-## Ampliação — P2023-08-27 (Len Mion e os Senhores da Terra Alexandre Magno e Qin Shi Huang Di)
+### P2023-08-27 (Len Mion e os Senhores da Terra Alexandre Magno e Qin Shi Huang Di)
 
 - **[Sete, produzido por Lemion] (U0003)** «Sete produzido por Lemi a genética escolhida toda.» — Sete (RC-594), terceiro filho de Adão e Eva, foi 'produzido por Lemi' — Lemion escolheu o espermatozoide e passou-lhe o entendimento do que os anjos de Javé faziam com a linhagem; Sete recusou obedecer.
 - **[Satã surgiu de Sete] (U0003)** «E o nome de Satã hoje existe, exatamente devido a essa interferência que Lenion fez em Set, terceiro filho de Adão e Eva, e sete passou a ter seguidores, cuja corruptela O nome seria, ou seja, Satã surgiu daqui.» — o nome 'Satã' existe 'exatamente devido a essa interferência que Lenion fez em Set': Sete passou a ter seguidores cuja corruptela gerou o nome Satã — na conta de Elusbell, que era quem se projetava.
 
-## Ampliação — P2023-02-12 (A Desconexão dos Desígnios Proféticos do Judaísmo, do Cristianismo e do Islamismo)
+### P2023-02-12 (A Desconexão dos Desígnios Proféticos do Judaísmo, do Cristianismo e do Islamismo)
 
 - **[Sete herdou a assinatura quântica] (U0017)** «Então, Set, terceiro filho de Adão e Eva, foi aquele que herdou a genética, a assinatura quântica.» — Sete, terceiro filho de Adão e Eva, herdou a assinatura quântica que Javé retirou de si e deu a Adão.
 
@@ -75,7 +76,8 @@ Modelagem coletiva escolhida pelo curador para simplificar a ontologia e prepara
 
 ---
 
-## Atualização — P2024-09-28 (A Raça Inabalável dos Sethianos Emancipados)
+## Atualização
+### P2024-09-28 (A Raça Inabalável dos Sethianos Emancipados)
 
 - **Seth recusou louvar Javé:** "Seth disse: 'Eu não vou louvar esse ser chamado Javé'. Tanto é que a própria Bíblia diz que nem foi Adão, nem Seth, mas Enos foi o primeiro a honrar";
 - **Linhagem espiritual:** a "mesma turma" que encarnou na época de Seth encarnou na época de Jesus (gnósticos) — e hoje forma a **Raça Inabalável dos Sethianos Emancipados (RC-766)**;

@@ -23,23 +23,24 @@ Reorganização futura dos níveis espirituais que não seria mero retorno aos p
 - **Fonte de decisão:** Quadro 9 aprovado pelo curador.
 
 
-## Ampliação — P2025-03-15
+## Ampliação
+### P2025-03-15
 
 - **Paraíso B (P2025-03-15):** "talvez a gente precise construir um paraíso B, porque a turma que sai suja, mas consegue dignificar-se do caos, se entrar no paraíso, gera [problemas]" — Sidarta Gautama como exemplo de espírito que já entrou; o amor do caos como mérito.
 
 
-## Ampliação — P2024-07-14
+### P2024-07-14
 
 - **[P2024-07-14] O futuro colegiado (U0540–U0590):** "não existem colegiados de consciências dignificadas ainda. Nós precisamos criar o primeiro... ainda não somos nem 10. Mas daqui a pouco vai ser 20, 30, 50. E assim, nós temos 18.000 anos para fazer isso, se sobrevivermos enquanto experiência biológica"; "tudo que existe nesse sentido é um pequeno grupo de espíritos lúcidos que finalmente estão conseguindo compor uma equipe de seres esclarecidos via os seus eus humanos, que doravante irão trabalhar em diversas esferas para construir, atingir este fim"; "para além disso, existe ainda o colegiado paradisíaco, que não se mistura também com aqueles outros, dos tais seres puros, distribuídos pelos seus três principais níveis de expressão" (paradisíaco imutável; operacional e laboratorial mutáveis — "a revolução começou nesses dois níveis").
 
 
-## Ampliação — P2024-05-04-R
+### P2024-05-04-R
 
 - **[P2024-05-04-R] O Paraíso B (U1700–U1752):** "a necessidade de um Paraíso B surge como uma visão de um novo ambiente de existência, desprovido das dissonâncias que afetam a espiritualidade e a Criação atual"; "esse Paraíso B não é uma replicação do Paraíso original, mas uma nova construção, onde a dissonância mental não levaria ao colapso, como ocorreria nos níveis mais puros da espiritualidade"; "uma vez que retornar ao Paraíso original poderia perturbar sua construção".
 - **[P2024-05-04-R] A transformação do caos em beleza (U1752):** "a atual crise cósmica exige um processo de alquimia para ser transmutada em beleza"; "a aptidão para encontrar o belo na feiura e conferir sentido e significado maior para a nossa existência é o que distingue a humanidade"; "a visão final é de uma dignidade e harmonia alcançadas através do esforço consciente humano".
 
 
-## Ampliação — P2021-01-23
+### P2021-01-23
 
 - **[P2021-01-23 — FONTE ORIGINAL DO TEMA] O paraíso "furado" (U0260–U0277):** "tudo que até hoje nós seres humanos pensamos sobre paraíso está absolutamente furado, errado, não serve para nada" (U0261); os três reinos da antiguidade: "na antiguidade, até surgir o evento Jesus, as pessoas pensavam que existia esses três reinos: o reino dos deuses, o reino dos mortos e o reino dos humanos" (U0265–U0266); "o máximo que se imaginou na cultura ocidental é um paraíso parecido com os campos elísios... uma fazenda com o trigo, o vento soprando, uma casinha e você com seus pais, sua esposa, seus maridos, seus filhos, uma coisa bucólica" (U0270–U0272).
 - **"Vamos inventar outro" (U1099):** Vyasa, diante dos grandes seres, "espiritualmente diz: 'Paz... se isso aqui for paraíso, vamos inventar outro'" — a percepção de que algo estava errado com os deuses e o paraíso deles "surgiu nesse processo de decifração com esses 20" (U1125).
@@ -48,7 +49,7 @@ Reorganização futura dos níveis espirituais que não seria mero retorno aos p
 - **O marco temporal (U1371–U1377):** "o trabalho se acaba aqui... a gente vai zerar isso aí e vai começar de outra forma"; "daqui a 10.000 anos tem o IEA e mais uns 500 institutos... mas o IEA vai continuar existindo na sua centralidade nesse marco temporal, ano 2020, no século XXI, tem iniciado a revelação cósmica".
 
 
-## Ampliação — P2021-12-04
+### P2021-12-04
 
 - **[P2021-12-04 — FONTE ORIGINAL] A nova espiritualidade (U0495–U0496; U0523; U0560–U0564):** "essa nova espiritualidade que eu brinco chamando de novo paraíso é a **estratégia de Tempérion sobre a velha estratégia de Perpérion**, de querer fazer mais do mesmo e continuar tudo como sempre foi" (U0495–U0496); "os Seres Adhy que mergulharam só sabem voltar pro ponto em que eles estavam antes dessa criação" (U0523); "um novo paraíso é necessário, uma nova espiritualidade é necessária, novos caminhos que unem essas distinções de como se organizam os lá fora e aqui dentro... esse novo paraíso, essa nova espiritualidade, o nome novo aí é só num certo sentido, porque isso ainda vai ter que se ancorar na energia da matriz primordial do ser a quem chamamos de Deus na sua criação original" (U0560–U0563); "a infecção via as pontes informativas, via os furos que estão começando a aparecer na blindagem... em algum momento vai infeccionar mais e mais a chamada espiritualidade superior" (U0565–U0567).
 
@@ -94,26 +95,29 @@ Conceito ainda em elaboração; status candidato.
 
 ---
 
-## Atualização — P2024-05-04
+## Atualização
+### P2024-05-04
 
 - Paraíso B foi incorporado como variação da Nova Espiritualidade/Novo Paraíso: cidades/ambientes para consciências que não podem retornar ao Paraíso Original.
 - **Fonte:** P2024-05-04.
 
-## Reforço — P2025-03-15
+## Reforço
+### P2025-03-15
 
 O Paraíso B é relacionado ao “amor mamífero” ou “amor que cuida”: consciências dignificadas no caos carregariam experiência de proteção e cuidado não desenvolvida do mesmo modo no Paraíso Original.
 
-## Reforço — P2025-02-15
+### P2025-02-15
 
 O amor mamífero e o zelo pelos afetos são apresentados como freio à saída individual do caos e justificativa para um projeto de Paraíso B.
 
-## Reforço — P2024-11-30
+### P2024-11-30
 
 A ressonância límbica leva consciências que já não precisariam encarnar a retornar por solidariedade aos afetos, reforçando a necessidade de um Paraíso B.
 
 ---
 
-## Atualização — P2023-05-13 (Bastidores da Revelação Cósmica)
+## Atualização
+### P2023-05-13 (Bastidores da Revelação Cósmica)
 
 - **"Vamos ter que fazer um paraíso B":** "eu fico brincando, dizendo: 'Ei, a gente vai ter que fazer um paraíso B' — porque esses espíritos que lá estão começam a pulsar de uma forma tal que é totalmente diferente dos que lá estão";
 - **Perfil dos espíritos do Paraíso B:** "possuem características espectrais... vibram com dignidade, com altruísmo, com senso de sacrifício por quem ama, com uma série de temperos psíquicos que os super puros, os super belos, os super maravilhosos..." — espíritos que não se encaixam no Paraíso A;

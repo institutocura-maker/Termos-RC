@@ -23,7 +23,8 @@ Aparece em **P2019-05-11**, U0004. Contexto: depois de bilhões de anos de confl
 - **Variações STT capturadas:** "pacto entre Javé, Vishnu e Shiva", "aliança entre os três", "pactos desastrosos"
 - **Idioma de origem:** Português + sânscrito (Trimurti: Brama, Vishnu, Shiva)
 
-## Ampliação — P2023-02-12 (A Desconexão dos Desígnios Proféticos do Judaísmo, do Cristianismo e do Islamismo)
+## Ampliação
+### P2023-02-12 (A Desconexão dos Desígnios Proféticos do Judaísmo, do Cristianismo e do Islamismo)
 
 - **[O pacto com os arianos (Gomer)] (U0017)** «Foi pros arianos, assinou contrato de pacto com Gommer e seus descendentes.» — depois de largar os hebreus (por Faleque), Javé assina pacto com Gômer (arianos), apresentando-se como Brama.
 - **[O pacto com Abraão] (U0017)** «Ele agora fez o movimento contrário, jogou fora os arianos, pegou de novo Shem em termos de descendência e fez um pacto com Abraão.» — Javé abandona os arianos e volta à linhagem de Sem, pactuando com Abraão.

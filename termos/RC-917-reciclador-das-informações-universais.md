@@ -15,7 +15,8 @@ atualizado = "2026-09-13"
 ## Definição Sintética
 Reciclador das Informações Universais — conceito desenvolvido na palestra «O Reciclador das Informações Universais a Limpeza da Criação» (P2023-11-18).
 
-## Ampliação — P2023-11-18
+## Ampliação
+### P2023-11-18
 **Fonte:** palestra «O Reciclador das Informações Universais a Limpeza da Criação» (18/11/2023).
 **Trecho verbatim:** «Um corpo humano ou qualquer corpo vivo, ele é uma antena de receber, guardar, processar de novo e repassar a informação. Os seres vivos só existem para isso aqui.»
 

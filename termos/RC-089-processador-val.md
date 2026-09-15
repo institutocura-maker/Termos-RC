@@ -37,25 +37,26 @@ Com isso:
 - **Na fonte oral (P2022-03-26):** o objeto é dito como *o processador da família Vol* e a nave que o hospeda como *Esferon* [REVISAR: nome novo, uma ocorrência → CHANCELA 2026-09-06 · F039-L3: AGUARDA-ÁUDIO (STT preservado como falado) — ver nota] — ver o dicionário STT no apêndice da apostila do ciclo.
 - **Vetado como grafia canônica** (devolutiva de 28/08/2026, D-4): nenhuma das degradações do STT promotione nome novo, e nenhuma máscara (`t*****`) transita para esta ficha.
 
-## Ampliação — P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
+## Ampliação
+### P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
 
 - **[P2022-03-26 · PROCESSADOR VAL NA FALA DE 26/03/2022]** "existe um processador de cada família vinculando a Sofia. E lá no sistema em capela, desculpa, lá no sistema de capela, onde órbão é só um dos planetas em torno. Em órbon existe um uma coisa meio arredondada, meio sei lá o quê, e aquilo é o processador, vamos assim dizer, de Sofia, ligado a todos os outros processadores, das famílias Biodemo." (U0008) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
 - **[P2022-03-26 · A GÊNESE TÉCNICA DO PROCESSADOR (o que justifica a materialização)]** "O processador da família Vol, que chegou aqui a 620.000 anos, foi o único que sobrou da história das famílias arrebeladas e foi feito um, não um pacto, uma mistura de genética entre os voz e diversos outros seres das famílias, Iel, Chamum, Cromon e Mion, para que estes fossem absorvidos pelo processador vol." (U0034); "foi feito um, não um pacto, uma mistura de genética entre os voz e diversos outros seres das famílias, Iel, Chamum, Cromon e Mion, para que estes fossem absorvidos pelo processador vol." (U0034); "a nave Esferon da família Vol, transformada em cidade flutuante que aparece e desaparece, mas ela tá lá e o processador vol tá lá e os 600 e poucos rebeldes que não se astralizaram e continuaram vivendo aqui na Terra e cujas genéticas foram se misturando com os seres híbridos hiperbórios e com os seres humanos." (U0034) — **D-9:** é esta a passagem que autorizou a virada de `ficha=False` → `ficha=True`: o processador da família Vol como único sobrevivente, produzido por mistura genética para absorver as famílias rebeldes, hospedado na nave-cidade. Nada aqui é inferido de outra fonte.
 - **[P2022-03-26 · ONDE O PROCESSADOR MORA E O QUE ELE PROCESSA]** "lá no sistema de capela, onde órbão é só um dos planetas em torno." (U0008); "quando Sofia se situa no meio daquela coisa que parece um quarto mais escuro, ele ali ele está se atualizando com tudo tudo o que aconteceu de nova informação no circuito dessas quase 250.000 famílias." (U0008) — A definição de função (um processador por família, ligado a Sophia, atualizando o campo escuro) vem da mesma fala; a Base não tinha a mecânica, tinha só o nome.
 
-## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+### P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
 
 - **[P2023-12-03 · O ÚNICO ARQUIVO VIVO DA REBELIÃO]** «passou a ser a coisa mais importante da rebelião de Lúcifera, porque trazia todas as notícias atualizadas do antes da rebelião, porque ele foi o último processador a ser gerado, ele era o mais moderno, então teve tudo atualizado até aqui, todo o processo ocorrido e terminou apropriando a memória dos principais cabeças da rebelião, que sabiam tudo que tinha se passado na rebelião.» (U0004) — Materializada no ciclo anterior, esta ficha recebe a peça de fechamento: o processador da Vol sobreviveu porque **era o mais moderno**, atualizado até o fim, e acabou apropriando a memória dos cabeças da rebelião — é isso que, na fala, mantém a rebelião viva («a questão era proteger o processador»).
 
-## Ampliação — P2021-01-30 (A Mensagem TALM e os Fios Soltos do Destino)
+### P2021-01-30 (A Mensagem TALM e os Fios Soltos do Destino)
 
 - **[Processador Val — a nova espécie biodemo] (U0015)** «uma nova espécie biodel, a partir do processador val de alto long.» — o quarto canal de notícias e a criação de uma nova espécie biodemo a partir do Processador Val.
 
-## Ampliação — P2017-10-14 (Da Base Atlan ao Colégio Druídico)
+### P2017-10-14 (Da Base Atlan ao Colégio Druídico)
 
 - **[o processador como corpo de Javé] (U0044)** «Com esse processador, praticamente o processador da família Vol hoje é o corpo de J, porque o corpo último que ele tinha apodreceu há 4 milhões de anos atrás.» — o processador da família Val (STT `Vol`) hoje é o corpo de Javé, cujo último corpo apodreceu há 4 milhões de anos.
 
-## Ampliação — P2018-12-15 (Terra Atlantis – Aprofundamento)
+### P2018-12-15 (Terra Atlantis – Aprofundamento)
 
 - **[a dimensão dos Val mortos (Valhala)] (U0052)** «A dimensão ou realidade paralela nessa época chamada Val, que foi o modo como os nove vol começaram a chamar o lugar que está Ou seja, a casa dos v, mas isso na linguagem começou a ser conhecida com mais profundidade pelos vul lá residentes.» — o processador Val (RC-089) como ponte para a dimensão 'Val' onde os 9 Val mortos passaram a viver — associada à Valhala nórdica.
 
@@ -89,7 +90,8 @@ Com isso:
 
 A pergunta que `RC-446` deixava aberta — *"verificar nas obras primárias (ex.: B017/B018) a correspondência exata com os Processadores Familiares"* — **não** é respondida por esta ficha: a fala de 2022 não descreve um dispositivo capelino de coesão familiar neutra, e sim um **órgão de absorção** criado depois da revolta. Registrar a diferença é o serviço desta ficha; responder à pergunta de `RC-446` continua pendente e é decisão curatorial.
 
-## Ampliação — P2023-07-09 (A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons)
+## Ampliação
+### P2023-07-09 (A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons)
 
 - **[Valel = cápsula temporal biológica de Orlog]** «ele se percebeu como sendo um um qu uma cápsula temporal biológica de base de Diorlog» — o espírito de Orlog/Tempério reencarnou num membro da família Val.
 - **[Conexão Processador Val ↔ Wyrd via espírito de Orlog]** «a mesma mente de Kivas, mesma mente de Orlot ao do universo de Z, ligou-se, criou um tran tran tran aí qualquer uma espécie de Frost particular, uma ponte quântica» — ver RC-658 (Wyrd), RC-454 (Moros/Orlog).

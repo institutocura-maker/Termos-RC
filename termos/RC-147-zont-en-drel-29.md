@@ -24,7 +24,8 @@ No B015, Zont narra: (1) o primeiro contato com os "Viajores" (há ~48 mil anos,
 - **Obs.:** em B015, refere-se aos irmãos como "endrelnianos" (RC-247)
 
 
-## Ampliação — P2023-07-30 (A Leitura Adulta da Realidade)
+## Ampliação
+### P2023-07-30 (A Leitura Adulta da Realidade)
 
 - **[P2023-07-30 · O Q&A INTEIRO — A HUMANIZAÇÃO INÉDITA]** "Zont En Drel, em tese, não obedece a Sophia... **a estirpe dele foi criada para proteger Brahma de todo e qualquer outro ser que viesse a ser criado depois. O Sophia foi criado depois.** Então a estirpe de Zont En Drel, penso eu, toda ela vai se extinguir, menos ele, porque ele tá nesse universo aqui e a estirpe dele tá toda no universo de lá."
 - **[P2023-07-30 · a humanização]** "Tudo que eu sei é que esse ser **se humanizou. Zont En Drel talvez seja o primeiro anjo clone de Javé humanizado** — mas eu não sei o que isso significa, porque é humanizado à moda deles: não tem emoções, não tem nem corpo de carbono, é silícico."
@@ -32,11 +33,11 @@ No B015, Zont narra: (1) o primeiro contato com os "Viajores" (há ~48 mil anos,
 - 0 códigos novos (O-3). Quarentena biográfica (o vínculo com Ellam).
 
 
-## Ampliação — P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
+### P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
 
 - **[P2022-03-26 · ZONT EN DREL 29 NA FALA DE 26/03/2022]** "Que diabos é ser colmeico? A abelha rainha e E as abelhas operárias formam um sistema de comunicação coletiva em que o genoma da abelha rainha da ordem e as abelhas operárias existem apenas para servir a abelha rainha e nem tem noção de individualização." (U0008) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⭐ **NOTA DE ANTERIORIDADE — P2022-03-26:** antecipa **16 meses** a atual fonte oral mais antiga da ficha (`P2023-07-30`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
 
-## Ampliação — P2024-06-16 (O Projeto TALM, os Fenvans e os Humanos)
+### P2024-06-16 (O Projeto TALM, os Fenvans e os Humanos)
 
 - **[Zont En Drel — humanizado do DNA do autor] (U0006)** «Um desses seres e alguém que se apresentou a mim como senos tendrel, o livro Guardião do Éden, eu escrevia sobre esse ser.» — Zont En Drel (STT "senos tendrel") desbloqueou o controle de Javé e se humaniza a partir do DNA do autor.
 

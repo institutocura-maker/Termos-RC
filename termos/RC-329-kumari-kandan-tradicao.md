@@ -16,17 +16,18 @@ atualizado = "2026-08-19"
 
 Kumari Kandam — o continente lemuriano do sul da Índia (tradição tâmil), citado na RC como o território onde Shiva estabeleceu seu quartel general.
 
-## Ampliação — P2025-05-31
+## Ampliação
+### P2025-05-31
 
 - **Na palestra (P2025-05-31):** antes do máximo glacial, há cerca de 23.000 anos, Shiva resolveu criar o seu quartel general na Terra para dominar a raça humana; existia um continente da Lemúria, continente de Mu, basicamente ligado ao continente hindu — a cultura que aí existia chama-se Kumari Kandam; expressões avatáricas Anahata/Pashupati [STT — REVISAR → CHANCELA 10/09/2026 · F039-L5: AGUARDA-ÁUDIO (formas STT; a alegação arqueológica é do expositor) — ver nota] comprovadas por registros arqueológicos de +20.000 anos; dravidianos (Mohenjo-Daro/Harapa) como povo de Shiva; a palavra Deus não existia (surgiu na Trácia, 4–5.000 anos).
 
 
-## Ampliação — P2025-02-16
+### P2025-02-16
 
 - **Kumari Kandam (P2025-02-16):** "Shiva começou a se apresentar pelo Axis Mundi de Naimisha... aos humanos que viviam no sul da Índia, na tradição Kumari Kandam (continente que existia dando continuidade ao sul da Índia e sucumbiu ao nível hidrostático do mar)"; "construíram cidades tipo Mohenjo-Daro, Harapa"; "o primeiro a se estabelecer na Terra foi Shiva, há cerca de 20.000 anos, criando os seus seguidores"; o epíteto "Deus" surgiu há ~4.000 anos na Trácia.
 
 
-## Ampliação — B023 (O Dharma e as Castas Hindus)
+### B023 (O Dharma e as Castas Hindus)
 
 - **[B023 p. 43]** um dos dois focos das castas: «tradição Kumari Kandan, no sul da Índia», terras que ~20 mil anos atrás ligavam o sul do continente ao atual Sri Lanka e depois foram cobertas pelo oceano.
 - Grafia do livro: **Kandan**. A ficha já registra Kandam (palestras). **Não fundir** as grafias; convívio marcado. Quarentena cronológica/arqueológica. Sem materializar RC-330. Sem fusão com B021. Fonte **B023** já constava na tabela-mestra.

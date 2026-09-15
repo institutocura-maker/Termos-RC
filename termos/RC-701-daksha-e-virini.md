@@ -30,17 +30,18 @@ Formas preferidas: **Daksha** e **Virini**.
 Formas STT: `Daxha`, `Daxa`, `Dakar`, `Virine`.
 
 
-## Ampliação — P2026-07-25
+## Ampliação
+### P2026-07-25
 
 - **69 filhas de Daksha:** as últimas 13 deram origem a Olímpicos e Titãs; duas dessas 13 → os olimpianos/titãs; uma delas ("Ira" [REVISAR → CHANCELA 2026-09-06 · F039-L3: AGUARDA-ÁUDIO (STT preservado como falado) — ver nota]) produziu todas as plantas, inclusive a cuscuta (STT da palestra P2026-07-25).
 
 
-## Ampliação — P2025-02-16
+### P2025-02-16
 
 - **Daksha e Virini (P2025-02-16):** "Daksha teve 69 filhas... essas 13 filhas de Daksha são as mães de quase tudo que vemos no universo e particularmente aqui na Terra"; "dessas 13, Aditi, Diti e Kadru têm protagonismo maior".
 - **Aditi →** 12 Adityas/senhores da criação (→ Vivasvan → Yama/Manu → Manavas); **Diti →** Asuras; **Kadru →** Nagas e Uragas.
 
-## Ampliação — P2022-05-07 (Shiva, o Projeto Talm e os Mistérios de Awaylengam)
+### P2022-05-07 (Shiva, o Projeto Talm e os Mistérios de Awaylengam)
 
 - **[Daksha e Virini — filho de Brahma] (U0003)** «Olha, Daxa é um filho de Brama que teve várias consortes e teve 10 filhas.» — Daksha (STT "Daxa/Daxha") como filho/descendente de Brahma, pai de Sati; a festa sem convidar Shiva motiva o Virabhadra (radar).
 
@@ -82,7 +83,8 @@ Formas STT: `Daxha`, `Daxa`, `Dakar`, `Virine`.
 
 ---
 
-## Atualização — P2024-09-28 (A Raça Inabalável dos Sethianos Emancipados) — ABSORÇÃO NT-ST02
+## Atualização
+### P2024-09-28 (A Raça Inabalável dos Sethianos Emancipados) — ABSORÇÃO NT-ST02
 
 - **Daksha com 69 filhas:** "esse Daxa teve 69 filhas... cada uma dessas 69 filhas é responsável por uma maluquice à parte";
 - **Cadru (13ª filha) + Cásiapa = serpentes:** "13 filhas uniram os seus códigos-fontes definidores ao de Cásiapa. E principalmente a 13ª filha chama-se Cadru. Cadru e Cásiapa criaram todos os tipos de serpentes que existem no universo vizinho" — centenas/milhares de espécies;

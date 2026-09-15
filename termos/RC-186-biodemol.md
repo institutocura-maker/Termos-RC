@@ -33,7 +33,8 @@ Com isso:
 * **Biodemol × biodemo:** a fonte distingue o biodemol (sexualizado) do biodemo (RC-036). A sexualização como ruptura criativa de Shiva é leitura do autor — ver trava.
 * **Trava aplicável**: Moldura Rígida (gênero/sexualidade): a sexualização como ruptura criativa de Shiva é leitura do autor.
 
-## Ampliação — P2022-05-07 (Shiva, o Projeto Talm e os Mistérios de Awaylengam)
+## Ampliação
+### P2022-05-07 (Shiva, o Projeto Talm e os Mistérios de Awaylengam)
 
 - **[Biodemol — parte biológico, parte demo] (U0003)** «Hoje nós temos aqui na nossa natureza seres eh biodemol, ou seja, parte biológicos, parte demo, mas sexualizados.» — o biodemol como o tipo de ser da natureza atual; sexualização como a ruptura criativa de Shiva.
 

@@ -41,7 +41,8 @@ Consultar Base.
 ## Observações
 Termo candidato.
 
-## Ampliação — P2024-03-02 (O Drama Espiritual de Jesus)
+## Ampliação
+### P2024-03-02 (O Drama Espiritual de Jesus)
 
 - **[Autofagia de Brama/Javé — neurose e ansiedade]:** «Ele dava um jeito de não se comer todo, para deixar uma parte dele viva, se alimentando dele mesmo [...] Essa sensação de um psiquismo que o tempo inteiro precisa sobreviver a cada segundo novo é isso que a gente chama de neurose, ansiedade.» — ver RC-001 (Javé).
 

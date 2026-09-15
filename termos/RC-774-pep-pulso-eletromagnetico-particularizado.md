@@ -18,7 +18,8 @@ Mecanismo central de transferência de "nanopontos da genética" do universo ant
 ## Contexto / Origem
 Criado por autorização excepcional do curador (Devolutiva Trilogia TALM, O-3 — RC-774) a partir do ART-2025-08-03.
 
-## Ampliação — ART-2025-08-03
+## Ampliação
+### ART-2025-08-03
 
 - **Cap. 1:** "foi através do PEP que Mohen So conseguiu enviar informações encapsuladas em 'quanta de energia' do universo antimaterial para o material";
 - "um elemento crucial nessa transferência foi o 'nidana' (RC-154), o código-fonte primordial definidor de vida — uma 'pequena porção de uma força eletromagnética que hospedava o jogo das informações codificadas, funcionando em circuito fechado'; a manipulação desse nidana pela nanotecnologia visava 'aniquilar certas ordens algorítmicas' do código 'doentio' original de Brahma, buscando 'amortecer' o problema da 'podridão original'";

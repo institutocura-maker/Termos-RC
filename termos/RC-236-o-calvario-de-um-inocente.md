@@ -23,7 +23,8 @@ O evento marca o ponto de virada da Era Sapiens: após a crucificação, ocorre 
 - **Variações:** Calvário de um Inocente; a crucificação de Jesus (evento subjacente)
 
 
-## Ampliação — B011 (Jesus e o Enigma da Transfiguração)
+## Ampliação
+### B011 (Jesus e o Enigma da Transfiguração)
 
 - **[B011 p. 80]** véspera pascal; "postura grave do Mestre"; lava-pés: "a postura dos seres de Seu porte era a preocupação de servir e não de ser servido"; "há bem mais alegria em dar do que em receber".
 - **[B011 p. 81]** "Um de vós me há de trair." — inquietação; Pedro pergunta a João.

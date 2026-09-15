@@ -54,7 +54,8 @@ Aparece em **P2025-04-06**, U0006, em resposta à pergunta sobre Nyx. Contexto: 
 - [REVISAR → ENCERRADO 2026-09-05 · F038-L2: ver nota — paralelos confirmados em 4 palestras]: a grafia "Rxaça" pode ter paralelo em outras palestras com a grafia "rachacha" ou similar.
 - ~~O conceito de "espécie Rxaça" pode ter ficha dedicada (RC-###) — verificar.~~ **RESOLVIDO 10/09/2026: é RC-581 (Rakshasas) — ver Resolução abaixo.**
 
-## Ampliação — P2024-03-17
+## Ampliação
+### P2024-03-17
 
 **Fonte:** palestra «A Quem Pertence o Planeta e a Biblioteca Genômica Mais Atualizada do Universo» (17/03/2024).
 

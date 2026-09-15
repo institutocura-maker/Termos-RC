@@ -24,7 +24,8 @@ atualizado = "2026-09-12"
 - **Fonte de decisão:** Devolutiva ART-2025-08-01, O-4 (2026-08-21).
 
 
-## Ampliação — P2021-05-15 (As Etnias Hiperbóreas e os Anunnakis)
+## Ampliação
+### P2021-05-15 (As Etnias Hiperbóreas e os Anunnakis)
 
 - **[P2021-05-15 · A INSTABILIDADE GRÁFICA CONFIRMADA POR ESTA FONTE]** "Então isso passou a existir e o ser humano não foi o primeiro a ter, aliás, o ser humano foi o último a surgir com essa característica, porque ele é produto da evolução de tudo que veio desse momento em que se uniram as conquistas evolutivas de Aamaion e Aingã." (U0003) — A fonte grafa o nome «Aamaion» nesta linha e «Aáon» noutra passagem do mesmo bloco — evidência a mais de que a família «Almaior/Alamaior/Aáon/Aamaion» é campo de instabilidade de STT, não termos distintos. Nada a corrigir na ficha (que é de advertência).
 
@@ -52,7 +53,8 @@ Ver RC-499 (Vishnu, Sophia, Olm, Mohen So, biodemos).
 Código imutável e nunca reutilizável. Não usar "Alamaior" como entidade válida em novos textos; manter somente como erro STT histórico.
 
 
-## Ampliação — P2019-08-25 (Os Três Fornos Replicadores do Projeto Talm)
+## Ampliação
+### P2019-08-25 (Os Três Fornos Replicadores do Projeto Talm)
 
 - **[P2019-08-25 · O BERÇO PROVÁVEL DO ERRO "ALMAIOR"]** (nota de origem):
 

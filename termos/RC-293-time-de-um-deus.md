@@ -24,14 +24,15 @@ Quanto mais cidades "conquistadas", preces e sacrifícios um deus recebia, "maio
 - **Idioma de origem:** grego (τιμή = honra, valor, prerrogativa)
 
 
-## Ampliação — P2026-07-25
+## Ampliação
+### P2026-07-25
 
 - **Ritos de passagem** (absorvido na devolutiva): mudança de status instituída entre os arcontes (porteiro do portão do céu, toga do STF, coroa) — "esses seres que não obedecem a nada obedecem a isso".
 - **Crime de Jesus:** agredir a Timé de um arconte é crime no conselho — Jesus invadiu o Tártaro (Timé de Hades e Belial) → processo aberto contra Jesus, sem resolução até hoje.
 - **Aumento de Timé:** cada ser que assumia assento no conselho dos 70 tinha a Timé aumentada — motivo de guerras e perseguição a humanos (ex.: Apolo obrigado a "se livrar" de jogadores humanos).
 
 
-## Ampliação — B021 (Tempos Difíceis no Olimpo)
+### B021 (Tempos Difíceis no Olimpo)
 
 - **[B021 p. 8]** extrafísicos «ainda se encontram sob a égide (custódia) da timé de Zeus».
 - **[B021 p. 10–11]** ensaio: «Para um deus, quanto mais cidades "conquistadas", preces de prestígios recebidas, como também sacrifícios endereçados a ele, maior seria a sua timé.» «o que de mais tenebroso pode acontecer a um deus é ter a sua honra atingida devido à perda da sua timé.» Domínio = «morada» ou geno; sem ela, risco de «sem-teto». Timé também = esfera de atribuições / «talento pessoal» = sânscrito «varna». Jaa Torrano / Hesíodo = **referência externa, não ontologia**.
@@ -39,7 +40,7 @@ Quanto mais cidades "conquistadas", preces e sacrifícios um deus recebia, "maio
 - **[B021 p. 157]** Notas: reitera a definição (timaí; varna). Falas de Zeus **isoladas**. RC-145 **não** materializada. Sem fusão com B020. Fonte **B021** já constava na tabela-mestra.
 
 
-## Ampliação — P2023-05-21 (A Hebdômada de Apolo - O Ultraje Humano)
+### P2023-05-21 (A Hebdômada de Apolo - O Ultraje Humano)
 
 - **[P2023-05-21 · A TIMÉ MEDIDA PELA FORBES]** "Você tinha um exército com 100 pessoas, uma vai embora, 99: você perdeu força. Você tinha 50 palácios, agora tem 49: perdeu a Timé. Você tinha 10 tipos de armas, agora tem nove: você perdeu a Timé. **A TIMÉ DE UM DEUS ERA MEDIDA DO JEITO QUE HOJE EM DIA SAI A REVISTA FORBES, os principais bilionários da Terra — fulano é o primeiro, segundo... O OLIMPO ERA ESPECIALISTA EM MEDIR, E ZEUS TINHA QUE SER O NÚMERO UM. Não era. Aí, quando não era, era uma perturbação terrível... e ZEUS SÓ FEZ CAIR — ATÉ HOJE ELE TÁ CAINDO em termos de perda de timé.**" (com RC-306.)
 - **[P2023-05-21 · A POSSE QUE VAI ALÉM DO ESCRAVO]** "É TIMÉ a expressão grega que diz o tamanho da majestade que eles têm... **é pior que escravo: é posse — um tipo de posse que tá além do que nós entendemos** como a posse que alguns seres humanos sentiram em relação a seus escravos... o conceito de ser dono **NÃO IMPLICA EM MALDADE**: do jeito que nós somos donos de várias coisas e não somos maus" + o espelho humano (de maridos, esposas, filhos, cavalos, cachorros, vizinhos, **e de conceitos e verdades**).

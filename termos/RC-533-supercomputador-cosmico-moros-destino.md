@@ -33,7 +33,8 @@ Com isso:
 * **Grafia STT:** 'Moros/Morus/Moras' = Moros. Nesta fonte é o 'Supercomputador Cósmico' (RC-533), a planilha quântica que mede a podridão ancestral; distinto de Moros como ente (RC-454).
 * **Trava aplicável**: nenhuma além das gerais do despacho.
 
-## Ampliação — P2024-06-16 (O Projeto TALM, os Fenvans e os Humanos)
+## Ampliação
+### P2024-06-16 (O Projeto TALM, os Fenvans e os Humanos)
 
 - **[Supercomputador Cósmico — a planilha de Moros] (U0003)** «Moros criou uma planilha, vamos assim dizer, em um computador quântico para ser medido o peso da podridão ancestral em criptografado sob a forma de código fonte definidor que defini o corpo de cada ser individualizado.» — Moros (STT "Moros/Morus") mediu o peso da podridão ancestral no código-fonte definidor.
 

@@ -16,7 +16,8 @@ atualizado = "2026-09-12"
 
 As diversas classes de anjos clones de Javé que povoam Arabot-Ráquia (RC-495): serafins flamejantes, querubins, ofanins, galgalim, chayot, chashmalim — "os anjos de Javé não são de um só tipo". Anjos são "robôs" de Javé (clones robotizados); ninguém aceita anjo sentado no conselho dos arcontes — só seres demoníacos.
 
-## ## Ampliação — P2026-07-25
+## Ampliação
+### P2026-07-25
 
 - **Príncipes da Merkabah:** arcontes da aristocracia em torno dos três grandes seres (equivalência com os 70 clãs: cada nação comandada por um príncipe).
 - **Anjos ministradores:** Uzza, Azza e Azael (STT "Usá, Azá e Aziel") — anjos com poder de não ser robotizados e de criar processos; acusaram Javé de ter criado a humanidade; resposta de Javé: "Eu fiz e eu carrego, e eu carrego e eu livro" (frase reproduzida pelo profeta Isaías).

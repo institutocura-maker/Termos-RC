@@ -16,7 +16,8 @@ atualizado = "2026-09-13"
 
 Título/epíteto, não nome próprio: na leitura da RC, "um Indra é um arconte". Diversos Indras existiram ao longo da história; Zeus, ao se tornar rei dos deuses, tornou-se "o último Indra" (na mitologia ariana hindu). As referências a Indras nos Puranas, Upanishads e Mahabharata são referências aos arcontes.
 
-## ## Ampliação — P2026-07-25
+## Ampliação
+### P2026-07-25
 
 - Arcontes = Indras = Sophias (epítetos do mesmo conceito).
 - "Zeus quando se tornou rei dos deuses, ele se tornou na mitologia ariana hindu um Indra."

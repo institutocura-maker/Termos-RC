@@ -23,7 +23,8 @@ Conceito desenvolvido na palestra «A Quem Pertence o Planeta e a Biblioteca Gen
 - **Variações:** alguém observador; observador interno
 - **Idioma de origem:** Português
 
-## Ampliação — P2024-03-17
+## Ampliação
+### P2024-03-17
 
 **Fonte:** palestra «A Quem Pertence o Planeta e a Biblioteca Genômica Mais Atualizada do Universo» (17/03/2024).
 

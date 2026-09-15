@@ -46,7 +46,8 @@ atualizado = "2026-08-29"
 
 [P2024-07-14] A classificação de coletivos religiosos e espirituais documenta a interpretação de Ellam. Não constitui classificação histórica, sociológica, clínica ou confessional universal.
 
-## Ampliação — P2024-07-14
+## Ampliação
+### P2024-07-14
 
 - **[P2024-07-14] Os seis polos em detalhe (U0358–U0494):** colegiado do êxtase da fé católica ("vinculado diretamente a Jesus e indiretamente a Javé e ao chamado culto mental do Espírito Santo"; "a Igreja Católica criou a figura do Espírito Santo no século IV, em Niceia"); colegiado do êxtase da fé islâmica ("a mente dessas pessoas está vinculada diretamente à figura de Javé/Alá e também de Maomé"); colegiado do êxtase da fé protestante ("vinculado diretamente a Javé e indiretamente a Jesus"); colegiado do êxtase da fé budista-yogue ("vinculado diretamente à figura de Buda e indiretamente à figura de Cristo"); colegiado híbrido demodármico devocional ("vinculado diretamente a Krishna"; "quem iniciou foi esse rapaz chamado Krishna... convenceu as pessoas a passarem o dia inteiro cantando os mantras"; "a educação que Krishna na época impôs aos humanos é a dármica, ou seja, o conceito do dharma, o dever sagrado"; "quando os seres humanos começaram a se tornar Hare Krishna, aí surgiu na espiritualidade esse colegiado, e é o maior"); colegiado de caráter filosófico ("não é devocional... congrega núcleos druídicos lá dos tempos celtas, hiperbóreos, nórdicos, com confucianos na base da educação dos ancestrais chineses, taoístas, tibetanos e dos antigos dravidianos"; "quase não tem defunto ocidental lá"; "é o único que não é de caráter de êxtase devocional. E ele é bem pequeno se comparado a esses outros grandes colegiados").
 - **[P2024-07-14] A não interação (U0431–U0451):** "ninguém desse colegiado convive com esse aqui... cada colegiado desse é um polo e tem dezenas, centenas, milhares de pequenos núcleos em torno de cada um deles, porque depende da sensação, depende do comprometimento cármico de cada um"; a disputa entre colegiados: "a mesma disputa imbecil que a gente vê aqui na Terra, de programas de televisão e internet disputando fiéis num proselitismo vagabundo" (relato do cemitério São João Batista, Rio de Janeiro — duas igrejas pentecostais disputando quem cantava mais alto; "todo dia o demônio passa aqui na terra e recolhe 1000").
@@ -54,13 +55,13 @@ atualizado = "2026-08-29"
 
 ---
 
-## Ampliação — P2024-07-13
+### P2024-07-13
 
 - **[P2024-07-13] A devoção imbecilizou (U1420–U1430):** "o tipo de ser humano que nós temos sido faliu. Não é que eu, você, alguém falou... o modelo de ser humano que tá indo no lado devocional tá falindo, porque transferiu para outros as possibilidades dela própria evoluir. Então, ela tá esperando que o outro faça com que ela evolua. A devoção é que imbecilizou totalmente o ser humano".
 
 ---
 
-## Ampliação — P2021-05-15 (As Etnias Hiperbóreas e os Anunnakis)
+### P2021-05-15 (As Etnias Hiperbóreas e os Anunnakis)
 
 - **[P2021-05-15 · A BANCA ESPIRITUAL DE RESISTÊNCIA (a proposta de 2021)]** "É preciso que mais grupos espirituais mantenham ou construam aquilo que eu tô chamando de banca espiritual, de resistência, né, de de para reter ali os assuntos para serem trabalhados, verificados, porque só aqui na terra não tá, não tem espaço." (U0018)
 - **[P2021-05-15 · POR QUE A ERRATICIDADE NÃO RETÉM]** "A estrutura da operacional é manter em funcionamento novas atitudes e buscas, mas dentro de certos padrões de controle." (U0018) — [STT: «os aliceces magnéticos» = os alicerces magnéticos.]
@@ -68,7 +69,7 @@ atualizado = "2026-08-29"
 
 ---
 
-## Ampliação — P2023-10-14 (A Esquecida Honra dos Anunnaki)
+### P2023-10-14 (A Esquecida Honra dos Anunnaki)
 
 - **[P2023-10-14 · O ADJETIVO «DEMODÁRMICO» GANHA DEFINIÇÃO ORAL (D-1)]** "Que tipo de honra esses seres sentem aqui na Terra não conhece a chamada honra demodármica, mas a honra demodármica é uma honra que foi criada em torno do conceito de dharma." (U0020); "Essa honra demodármica sempre se ancorou nas relações da linhagem, das linhagens genéticas." (U0020) — Decisão D-1 do Curador: nota transversal nesta ficha — o adjetivo já vivia aqui; a **honra** não vira código.
 - **[P2023-10-14 · O LEGADO MAL ENDEREÇADO]** "O conteúdo do legado que eles deixaram e nós humanos ficamos escutando essas palavras sem entender que no princípio isso foi criado para outro tipo de ser." (U0020)
@@ -79,7 +80,7 @@ atualizado = "2026-08-29"
 ---
 ---
 
-## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+### P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
 
 - **[P2023-12-03 · COLEGIADOS ESPIRITUAIS HUMANIZADOS NA FALA DE 03/12/2023]** «dois colégios arquidruídicos para estudar o conhecimento que receberam dos toatas de Dané, o que Javé tava fazendo com Enoque era a mesma coisa, era mandando os anjos dele passar os conhecimentos que eles tinham para Enoque, para Enoque.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2021-05-15`); a entrada desta fonte é de **conteúdo**, não de data.
 - **[P2023-12-03 · O PEDIDO POR TRÁS DOS COLÉGIOS]** «criem um método para vocês estudarem.» (U0004) — D-8: os colegiados ganham origem narrada: os não-humanos pediram que os humanos **inventassem um método**, com a promessa de aprenderem com o nível de compreensão alcançado. A constatação de que a Arca seria esse método fica no relatório — e é vedada como auto-legitimação na ficha.

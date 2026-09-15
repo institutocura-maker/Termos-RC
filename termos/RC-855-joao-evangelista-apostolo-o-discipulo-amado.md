@@ -33,7 +33,8 @@ Com isso:
 * **Grafia STT:** 'João' (literal). = 'o discípulo amado'; irmão de Tiago; o apóstolo menino que Jesus manteve junto de si.
 * **Trava aplicável**: nenhuma além das gerais do despacho.
 
-## Ampliação — P2025-05-10 (Mistérios do Apocalipse)
+## Ampliação
+### P2025-05-10 (Mistérios do Apocalipse)
 
 - **[João, o apóstolo menino] (U0003)** «Então, o apóstolo João de Jesus é Era um rapazote de 16 anos no meio de um grupo de coroas, todo mundo com 30 anos, ou seja, no meio de um grupo de velhos.» — João (RC-855) era 'um rapazote de 16 anos' entre apóstolos de ~30; Jesus o manteve junto para que não virasse 'empregado' dos outros.
 - **[O discípulo que testemunhou tudo] (U0003)** «Foi o único Quando Jesus foi preso, o único apóstolo que não fugiu com medo também de ser preso foi ele.» — João foi 'o único apóstolo que não fugiu' na prisão de Jesus — testemunhou tudo, daí ser tratado como o 'discípulo amado'.

@@ -16,7 +16,8 @@ atualizado = "2026-09-13"
 
 Nome do terceiro conselho dos deuses na leitura da RC: a dinastia dos arcontes ("Conselho dos 70", "Eloim", "Conselho dos Arcontes", "Dinastia das Sophias" são faces do mesmo colegiado). Composta por consciências fatiadas dos espíritos Emá (En Ma) e Ensá; surgiu quando a humanidade emergiu (últimos ~25.000 anos; fixada em 70 membros nos últimos ~4.000 anos). Na palestra P2026-07-25: "Sofia não é nome — é epíteto (personificação de um tipo de sabedoria)"; cada arconte é dono de um clã humano (70 clãs desde a Torre de Babel); a dinastia está em crise terminal (universo vizinho colapsando, sem novos membros, alguns se retirando — "dias contados").
 
-## ## Ampliação — P2026-07-25
+## Ampliação
+### P2026-07-25
 
 - **Três conselhos** (esqueleto da palestra): 1º Trimurti (deuses primevos, ~4 bi anos) → 2º Dev/Aurora + Cama/Kama + descendência trimurtiana → 3º Dinastia das Sophias/70 arcontes (com os humanos).
 - **Função declarada:** manter o criador caído vivo (administrar o caos, retirar dele o que servir à reconstrução do eu de Javé).

@@ -23,7 +23,8 @@ Aparece em **P2023-12-17**, U0002. Contexto: a palestra reconstrói a **geraçã
 - **Variações STT capturadas:** "Sophia", "Sophia biodemo", "comandante Sophia", "Sophia ordem e caos"
 - **Idioma de origem:** Grego (Σοφία Sophia = "sabedoria") + Português
 
-## Ampliação — P2025-05-10 (Mistérios do Apocalipse)
+## Ampliação
+### P2025-05-10 (Mistérios do Apocalipse)
 
 - **[Sofia e o cérebro radiata] (U0037)** «Então ele tem cérebro radiata, pois não?» — Sofia (RC-831) 'tem cérebro radiata' (um eixo só), não bilatério como o humano — por isso age por ordem/desordem, sem protocolo emocional.
 

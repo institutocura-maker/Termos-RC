@@ -24,22 +24,23 @@ O diagrama (B051) apresenta os três "nomes completos" Adhy da Trimurti. A cadei
 - **Origem:** composto RC (Adhy + Savna)
 
 
-## Ampliação — P2024-05-04-R
+## Ampliação
+### P2024-05-04-R
 
 - **[P2024-05-04-R] ADHYSAVNA e o Segundo Logos (U0900–U1100):** "o Segundo Logos é personificado por Shiva, que trouxe a diversidade e a geração de polaridades distintas entre os seres demos. Sua atuação foi fundamental para ordenar o que havia sido semeado pelo Primeiro Logos"; "Shiva, juntamente com Mohen So, um avatar de Vishnu, criou os campos morfogenéticos de todas as espécies. Esses campos funcionam como bancos de dados de informação, sem vibração, transmitindo informações indefinidamente fora do espaço-tempo"; "a força de Shiva é associada à energia Tamásica, responsável pela reciclagem e finalização"; "a ação de Shiva representa a força de ordenamento e diversificação necessária para estruturar a vida que emergiu da singularidade problemática de Brahma".
 
 
-## Ampliação — P2020-07-11
+### P2020-07-11
 
 - **[P2020-07-11 — FONTE ORIGINAL] Sávna (U0250–U0270; U0890–U0900):** "tinha Sávna, que era só um espírito adiágia por trás de Sávna"; "Sávna, que depois mergulharia como sendo Shiva"; "os seis mergulhados trabalhavam com Brahma, criando diversos seres a partir da cota deles"; "a forma adnata de Shiva associada ao sofrimento do senhor Pashupati, que era uma forma adiágena de Shiva; Shiva é quem teve mais formas, que ainda tem".
 
 
-## Ampliação — P2023-06-24 (O Buraco Negro Mental e o Estacionamento Coletivo)
+### P2023-06-24 (O Buraco Negro Mental e o Estacionamento Coletivo)
 
 - **[P2023-06-24 · SAVNA ANTES DO BALÃO]** o registro narrativo mais antigo do corpus de palestras da **pré-existência de Savna** (a condição Adhyatman — RC-013): "reza uma lenda não terrena que Savna... **o nome que o ser chamado CHIVA tinha antes do balão**... quando viu **para BRAJNA** [a grafia da malha na voz — RC-037 ✓] **tentar soltar o track dele, encher o balão**... Savna somente aplicou a sua força tamásica nos termos em que o fez **porque divisou quando seria o ponto de inflexão da derrocada do corpo reconstruído pelo criador**" — o vínculo direto com a cadeia ADHYSAVNA → Shiva (mergulhado) do Diagrama (B051).
 - 0 códigos novos (O-3).
 
-## Ampliação — P2022-05-07 (Shiva, o Projeto Talm e os Mistérios de Awaylengam)
+### P2022-05-07 (Shiva, o Projeto Talm e os Mistérios de Awaylengam)
 
 - **[ADHYSAVNA — o espírito adiágia] (U0003)** «É um espírito adiágia.» — a condição adyágena (adiágia) do espírito por trás de Shiva/Savna, que veio ao sacrifício; o STT grafa "adiágia" para o canônico "adyágena".
 
@@ -73,7 +74,8 @@ Ficha baseada no B051 (obra complementar revisada). O nome completo confirma a c
 
 ---
 
-## Atualização — P2021-12-04
+## Atualização
+### P2021-12-04
 
 - **Unidades:** U0237–U0243.
 - **Contexto acrescentado:** Shiva/Savna aparece como clone rebelde na cadeia de desdobramentos Adhy; o trecho exige futura conferência com áudio/obra.

@@ -23,12 +23,13 @@ Anunnaki relacionado à localização e ao uso das sete armas atômicas no confl
 - **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
 
 
-## Ampliação — P2022-12-17
+## Ampliação
+### P2022-12-17
 
 - **[P2022-12-17 — FONTE ORIGINAL] Ninurta (U0850–U0860):** filho de Enki/Enlil; sabia onde estavam as sete armas atômicas vindas de Nibiru; envolvido na guerra nuclear contra Marduk.
 
 
-## Ampliação — P2023-10-14 (A Esquecida Honra dos Anunnaki)
+### P2023-10-14 (A Esquecida Honra dos Anunnaki)
 
 - **[P2023-10-14 · NINURTA E A RECUSA DA CHEFIA]** "Quando chegou a vez de Marduque assumir, 2200 anos antes de Cristo, a chefia ou comando Anuna aqui na terra, Ninurta, filho de Eli, disse: «Não, os dois foram pro pau.»" (U0018) — ⚠️ A grafia «Eli» para Enlil é do STT; o par Marduk–Ninurta é o da fonte, não uma dedução.
 
@@ -62,7 +63,8 @@ Menção breve; manter como candidato até cruzamento com outras fontes do corpu
 
 ---
 
-## Atualização — P2021-03-27 (Enki, Enlil e o Fim Súbito da Babilônia)
+## Atualização
+### P2021-03-27 (Enki, Enlil e o Fim Súbito da Babilônia)
 
 - **Pontaria das bombas:** "de acordo com a pontaria de Ninurta e a outra de acordo com a pontaria de Nergal" — as explosões na Península do Sinai/vale de Sidim (Sodoma e Gomorra) no âmbito da disputa dos clãs (RC-486/487);
 - **Contexto:** "Ninurta e Nergal jogaram as tais bombas para tentar impedir a supremacia de Marduk";

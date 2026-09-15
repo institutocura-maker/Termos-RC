@@ -24,7 +24,8 @@ O nome Adhyshprabrajna (Adhy + Prabrajna) revela a linhagem completa: um ser do 
 - **Origem:** sânscrito/composto RC (Adhy + Prabrajna)
 
 
-## Ampliação — B022 (Inquisição Trimurtiana)
+## Ampliação
+### B022 (Inquisição Trimurtiana)
 
 - **[B022 p. 5]** Introdução (Atlan, 30/11/2015 — voz de Ellam): a Criação Universal indevida «foi procedida por **Adhyshprabrajna**, na sua expressão Adhyatman». Após a «queda» na Criação indevida, esta entidade — «antes Adhyshprabrajna» — erigiu uma forma de expressão (Adhydaiva) conhecida, na cultura humana, como **Brahma/Javé/Alá**, «da qual tornou-se prisioneira e dela jamais se libertou».
 - **[B022 p. 5–6]** o espírito, ou forma Adhyagya, de Adhyshprabrajna «não se encontrava presente àquele encontro porque jamais conseguira se imantar à sua expressão Adhydaiva — Brahma». Desde então Brahma «sempre foi e ainda é um ser holográfico, sem “alma”»; da condição Adhyatman foi «extraído» o «corpo mental», e é este que responde pela existência como Brahma.
@@ -58,7 +59,8 @@ Ficha baseada em B022 (obra primária). Adhyshprabrajna é a forma mais completa
 
 ---
 
-## Atualização — P2021-12-04
+## Atualização
+### P2021-12-04
 
 - **Unidades:** U0212–U0243.
 - **Contexto acrescentado:** Adhyprabrajna aparece em relação de fatiamento com Adhymavatana: faces distintas sustentadas por um mesmo espírito ancestral.

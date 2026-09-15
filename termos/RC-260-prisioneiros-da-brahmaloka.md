@@ -23,7 +23,8 @@ O apêndice "Prisioneiros da Brahmaloka" (B016) é uma das fontes mais densas da
 - **Variações:** presos no universo antimaterial; "morada" de Brahma; prisioneiros da criação
 
 
-## Ampliação — B016 (O Quarto Logos)
+## Ampliação
+### B016 (O Quarto Logos)
 
 - **[B016 p. 185]** “Brahma ou Javé jamais saiu da ‘morada’ que conseguiu gerar para si […] o seu ‘brahmaloka’, onde passou a viver.”
 - **[B016 p. 185]** por ter-se apartado da condição Adhyagia na queda, “Brahma jamais conseguiu produzir expressões de si mesmo (expressões Adhyajna).”

@@ -27,7 +27,8 @@ atualizado = "2026-08-18"
 **Aplicação:** "em nascendo na condição humana, 256 possibilidades eles terão" — todos os seres que precisam resolver pendências um dia nascerão humanos (RC-056 Especiação). O **ifismo** (codificação de Osamaro Ibiere) resgata essas informações (ver RC-655).
 
 
-## Ampliação — P2024-11-30
+## Ampliação
+### P2024-11-30
 
 - **256 Caminhos (P2024-11-30):** o plano de esclarecimento humano dos odus não foi feito; "hoje poderia ser feito, mas nas opções da tragicidade do que eu sou obrigado a trabalhar, isso não vai rolar" (ver RC-655).
 
@@ -61,7 +62,8 @@ Estrutura técnica da destinação é **leitura do autor** (cronologia interna +
 
 ---
 
-## Reforço — P2025-07-18 — os caminhos e a sincronicidade profetizável
+## Reforço
+### P2025-07-18 — os caminhos e a sincronicidade profetizável
 
 - **[P2025-07-18 · U00016]** O expositor afirma que a atualização atribuída a Orunmilá transforma a Wyrd em Ifá e organiza **16 odus/olodus e 256 caminhos previsíveis** para diferentes origens ancestrais. O discurso contrapõe o destino ligado a pendências à abertura produzida pelo uso consciente do presente.
 - **Nota cruzada aprovada:** a expressão **sincronicidade profetizável** é somente uma nota de ligação entre RC-767, RC-658, RC-655 e RC-718. Não se cria termo autônomo.

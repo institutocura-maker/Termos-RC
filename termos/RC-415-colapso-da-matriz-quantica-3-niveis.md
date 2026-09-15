@@ -31,7 +31,8 @@ O diagrama B051 organiza verticalmente a cosmologia: Espiritualidade Superior �
 - **Variações:** colapso quântico; níveis do colapso da Matriz Quântica (1º/2º/3º)
 
 
-## Ampliação — P2025-03-15
+## Ampliação
+### P2025-03-15
 
 - **Colapso da matriz quântica (P2025-03-15 — contexto):** a rebelião dos elétrons como o mecanismo do colapso: "na hora que a energia pulsa... a recarga que os elétrons dão em si mesmos quando vão se materializar de novo está produzindo situações de desobediência ao que antes já estava em curso" — o colapso do caos organizado.
 ---
@@ -49,7 +50,8 @@ O diagrama B051 organiza verticalmente a cosmologia: Espiritualidade Superior �
 | Colapso do Caos Organizado | RC-690 | ← distingue-se-de |
 | Colapso do Caos Organizado | RC-690 | distingue-se-de |
 
-## Atualização — P2021-12-04
+## Atualização
+### P2021-12-04
 
 - **Unidades:** U0045–U0051; U0102–U0108.
 - **Contexto acrescentado:** Os colapsos quânticos são apresentados como origem das faixas da Espiritualidade Laboratorial a partir das porções operacionais.
@@ -62,7 +64,8 @@ O curador determinou que **RC-415 não seja fundido com RC-690 — Colapso do Ca
 ---
 ---
 
-## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+## Ampliação
+### P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
 
 - **[P2023-12-03 · COLAPSO DA MATRIZ QUÂNTICA (3 NÍVEIS) NA FALA DE 03/12/2023]** «tempo for começar a ser rompido pela entropia, isso satisfaz.» (U0038) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2021-12-04`); a entrada desta fonte é de **conteúdo**, não de data.
 

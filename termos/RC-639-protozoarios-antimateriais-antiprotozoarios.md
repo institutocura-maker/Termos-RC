@@ -22,7 +22,8 @@ São apresentadas como primeira face ressuscitada de Javé no universo vizinho.
 - Grafia: Protozoários Antimateriais / Antiprotozoários.
 
 
-## Ampliação — P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
+## Ampliação
+### P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
 
 - **[P2022-03-26 · PROTOZOÁRIOS ANTIMATERIAIS NA FALA DE 26/03/2022]** "Esse eu caído é um vírus antimaterial. Tudo na obra de Javé é podre, porque tudo se desagregou, tudo virou." (U0007) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⭐ **NOTA DE ANTERIORIDADE — P2022-03-26:** antecipa **25 meses** a atual fonte oral mais antiga da ficha (`P2024-05-04`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
 

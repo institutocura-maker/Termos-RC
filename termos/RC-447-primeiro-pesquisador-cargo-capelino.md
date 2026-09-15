@@ -24,7 +24,8 @@ No B057: "Eu, Yel Luzbel, **um dos primeiros pesquisadores da família Yel**, fu
 - **Obs.:** não confundir com o "primeiro escalão" de Orbum (nota p. 25 do B057) — este é o estrato administrativo, não um cargo de pesquisa
 
 
-## Ampliação — B058 (A Revolta do Anjo Decaído)
+## Ampliação
+### B058 (A Revolta do Anjo Decaído)
 
 - **[B058 p. 42]** "Comecei a palestra a falar sobre as **minhas obrigações enquanto 'Primeiro Pesquisador' da 'família Yel'**." (em Antares.)
 - **[B058 p. 47]** o endereço cerimonioso do Grão-mestre: "Integrante Yel Luzbel, **'Primeiro Pesquisador' pertencente à 'família Yel'**, do planeta Dan, do sistema de Capela."

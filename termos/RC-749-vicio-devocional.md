@@ -25,7 +25,8 @@ Mecanismo cármico/ético central da Revelação Cósmica: o condicionamento dev
 - poucos "livres" (ateus e não-fundamentalistas); quem "já descobriu a verdade" estaria preso numa "gaiola de ilusão";
 - desdobramento: criação de califado mundial (âncora sunita) e manutenção da geopolítica.
 
-## Ampliação — P2024-06-16 (O Projeto TALM, os Fenvans e os Humanos)
+## Ampliação
+### P2024-06-16 (O Projeto TALM, os Fenvans e os Humanos)
 
 - **[Vício Devocional — bloqueia o empirismo] (U0003)** «Acreditem se quiser, mas o sentido devocional atrapalha isso aqui, porque faz com que a consciência de um ser humano se torne passiva e pulsante só num determinado padrão e cessa o empirismo da experiência humana que faz com que as mutações adaptativas e modificativas ocorram no genoma de cada ser humano.» — o devocional (inventado por Krishna, via Ananda) trava o empirismo que gera mutações adaptativas.
 
@@ -70,7 +71,8 @@ O número de "7 bilhões" e a universalidade do mecanismo são **afirmação de 
 
 ---
 
-## Atualização — P2023-12-02 (Thot, o Enigmático Hermes Trismegisto)
+## Atualização
+### P2023-12-02 (Thot, o Enigmático Hermes Trismegisto)
 
 - **Crítica à devoção (Krishna):** "ser devoto é você não usar a mente, não usar seus potenciais... e ficar cantando o dia inteiro";
 - **Avatares para engrandecimento:** "Krishna foi o único avatar que começou a produzir avatares dele mesmo para engrandecê-lo. E o senhor Chaitanya foi Krishna feito ser humano para ensinar os humanos a passar o dia inteiro: Hare Krishna, Hare Krishna...";
@@ -80,19 +82,20 @@ O número de "7 bilhões" e a universalidade do mecanismo são **afirmação de 
 
 ---
 
-## Atualização — P2025-11-29 (A Revelação de Ifá e o Destino dos Seres)
+### P2025-11-29 (A Revelação de Ifá e o Destino dos Seres)
 
 - **Devoção = alimento:** "o que é devoção para esses seres? É alimento. Isso aplaca a fome deles" — a fome de devoção de Javé/Brama/Obatalá (RC-001/RC-666; nova aresta RC-666 ↔ RC-749);
 - **O Islã como linha de devoção:** "os muçulmanos diariamente se voltam para a Meca e me endereçam ondas de devoção";
 - Reforça a crítica à devoção (P2023-12-02 — Krishna/Chaitanya) e o contraste com os Sethianos Emancipados (RC-766).
 
-## Ampliação — P2024-03-17
+## Ampliação
+### P2024-03-17
 
 **Fonte:** palestra «A Quem Pertence o Planeta e a Biblioteca Genômica Mais Atualizada do Universo» (17/03/2024).
 
 **Trecho verbatim:** «E a emoção mais estranha que esses seres inocularam na gente é a expectativa de receber bênçãos, milagres, favores divinos a cada momento. E por isso a gente vive rezando, vive. Aí com isso, você não é mais aquele observador, você é aquele que usufrui o tempo inteiro de uma emoção. O mundo ao seu redor continua existindo. Você tá totalmente em êxtase com Deus. Seus filhos se ferrando, os vizinhos se ferrando, o mundo em que você vive ferrado.»
 
-## Ampliação — P2024-02-04
+### P2024-02-04
 
 **Fonte:** palestra «A Falsa Queda do Ser Humano e a Indignidade Entronizada como Religião» (04/02/2024).
 

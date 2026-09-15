@@ -24,19 +24,20 @@ Na leitura de B013, a Cabala surgiu como **reação de Javé ao gnosticismo** (s
 - **Idioma de origem:** hebraico (ספירות = emanações/números)
 
 
-## Ampliação — P2025-05-31
+## Ampliação
+### P2025-05-31
 
 - **Otz Chim (STT "Osim/Oditim") — P2025-05-31:** o nome próprio da "Árvore da Vida": "a Árvore da Vida, que não é árvore da vida, é Otz Chim"; denominação moderna (séc. X+) dada por Isaac Luria e outros rabinos.
 - **A planilha de Enoque:** Enoque, via a inteligência artificial de Metatron, "compôs uma espécie de organograma, uma planilha, um fluxo de informações" para explicar à elite trimurtiana as principais emanações dos três senhores (4 mundos, 10 sefirot, 22 caminhos). "O tarô, o I Ching, a Cabala moderna utilizaram isso para outros fins."
 - **Da'at não pertence originalmente à Otz Chim** [ver RC-262].
 
 
-## Ampliação — P2024-07-14
+### P2024-07-14
 
 - **[P2024-07-14] A árvore da vida (U0805–U0815):** "a tradução disso é árvore da vida. Essa tradução não era para ser chamada assim, mas os cabalistas fizeram"; "quando isso foi entregue a Shimon Bar Yochai com o conceito de Tikun, dizendo que os humanos eram os únicos capazes de, sob o comando de Malkuth, um dia reparar tanto os defeitos da obra quanto do criador nela caído"; "os judeus transformaram que Malkuth é o Messias que virá... é uma distorção, uma deformação, uma difamação da revelação que Javé entregou aos judeus" [leitura do autor — quarentena].
 
 
-## Ampliação — B013 (Tzimtzum: O Exílio Forçado de uma Divindade)
+### B013 (Tzimtzum: O Exílio Forçado de uma Divindade)
 
 - **[B013 p. 71]** Javé, por meio dos Anjos, ofertou “uma descrição sobre a extensão do seu ‘império além-mundo’”, “a metáfora do que passou a ser conhecido como a ‘Árvore da Vida’ e as ‘Sefiroth’.”
 - **[B013 p. 71]** a Árvore da Vida é “um diagrama da emanação do universo a partir do ‘Uno’”; também “um plano para permitir ao homem a escalada das dez ‘Sefiroth’”, “dez ‘Emanações da Divindade’”, “chave para decifrar os mistérios da Cabala, até atingir a ‘União com Deus’.”
@@ -46,18 +47,18 @@ Na leitura de B013, a Cabala surgiu como **reação de Javé ao gnosticismo** (s
 - **Quarentena teológica.** Páginas “aprox.” da ficha antiga substituídas pelo rastreio do PDF.
 
 
-## Ampliação — P2023-10-14 (A Esquecida Honra dos Anunnaki)
+### P2023-10-14 (A Esquecida Honra dos Anunnaki)
 
 - **[P2023-10-14 · A ÁRVORE DA VIDA COMO INVENÇÃO DE UM HUMANO]** "É uma representação que Enoque, um humano, criou." (U0085); "É um joguinho que Enoque humano criou pros seres demos jogarem, para eles entenderem direito o que estão fazendo." (U0085) — ⭐⭐⭐ A inversão da direção da revelação (humano → deuses) está aqui, em fala.
 - **[P2023-10-14 · AS DEZ PERSONIFICAÇÕES E OS DESÍGNIOS]** "Ou seja, a árvore da vida mostra as 10 principais personificações do que esses seres consideram como entes divinos que têm missão ou que tem um processo em curso que tem a ver com o cumprimento dos desígnios de Keper, de Javel." (U0085); "São encarnações as que movem os principais 10 processos que acontecem dentro da matrix que Javé terminou criando sem querer, ou melhor dizendo, né?" (U0085)
 - **[P2023-10-14 · A PONTE COM O TARÔ]** "A relação entre essas 10firais aí aqui dá toda a margem do tarô." (U0085)
 - **[P2023-10-14 · A ENTREGA AOS RABINOS E O MATERIAL PRIMÁRIO]** "Mas quando Javé decidiu apresentar isso aos humanos, foi dois séculos depois de Jesus, foi quando os anjos aí Enoqu Metatron já não mais existiam, mas Gabriel entregou a rabinos Shimon Bariokai esses postulados acaba lá e entre eles estava a árvore da vida." (U0085) — [REVISAR: «fois» é truncamento do STT; o canônico da Base é Shimon bar Yochai. A expressão «ver também» aparece degradada na linha 280 do bruto. [TEXTO CORROMPIDO → CHANCELA 2026-09-06 · F039-L3: TENSÃO NÃO-RESOLVÍVEL INTRA-ARCA — ver nota].
 
-## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+### P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
 
 - **[P2023-12-03 · SEFIROT / ÁRVORE DA VIDA NA FALA DE 03/12/2023]** «Não tem nada de árvore da vida, mas foi assim que os cabalistas chamaram.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2023-10-14`); a entrada desta fonte é de **conteúdo**, não de data.
 
-## Ampliação — P2024-06-16 (O Projeto TALM, os Fenvans e os Humanos)
+### P2024-06-16 (O Projeto TALM, os Fenvans e os Humanos)
 
 - **[Sefirot — as 10 emanações] (U0006)** «Mas se você pegar as 10firá, o da Cabalá ou da Cabala, você vai ver que nove das personificações ou emanações da divindade existem aqui que Ter, que é brah o primeiro, biná que é shoka, que é visno.» — as 10 Sefirot (STT "10firá"): nove personificações existem aqui; Hochmah = Malkuth (a décima).
 

@@ -24,14 +24,15 @@ O conceito de telos é central para compreender a psicologia dos deuses demo nas
 - **Idioma de origem:** grego (τέλος = fim, propósito, finalidade)
 
 
-## Ampliação — B021 (Tempos Difíceis no Olimpo)
+## Ampliação
+### B021 (Tempos Difíceis no Olimpo)
 
 - **[B021 p. 8]** Abertura da Parte I (voz de Ellam): telos = «propósito ou finalidade de existir»; «doravante algo pitoresco, talvez seja o de se sentir governando um contexto que escapa à sua compreensão».
 - **[B021 p. 35–37]** ensaio: telos = «finalidade da inevitabilidade» gerada pela correção da «doença» do Criador «caído». Grafia do livro **Morus** = variação; canônico **Moros** = `[REVISAR → ENCERRADO 2026-09-05 · F038-L2: ver nota]`. «Dramático é, portanto, o telos de cada um de nós!» «Doença» / «apodrecido» = **quarentena clínica** (leitura cosmologica, jamais diagnóstico). Kardec (p. 36) = **referência externa**.
 - **[B021 p. 157–158]** Notas: telos do destino; telos e tikun — o telos habilita o «conserto» (tikun) da Obra e do «Eu recriado doente». Grafia canônica **Tikun**. Falas de Zeus (corpo + Diálogo p. 146–149) **isoladas**. RC-145 **não** materializada. Sem fusão com B020 / B001 / B003. Fonte **B021** já constava na tabela-mestra.
 
 
-## Ampliação — P2023-05-21 (A Hebdômada de Apolo - O Ultraje Humano)
+### P2023-05-21 (A Hebdômada de Apolo - O Ultraje Humano)
 
 - **[P2023-05-21 · O CONCEITO PROFUNDO DE TELOS]** "[A resposta do Q&A:] **O QUE É O TELOS? É O DESTINO IMPOSTO PELA PODRIDÃO DE JAVÉ [NA] OBRA DELE. Esse é o conceito profundo de telos.** Ainda que hoje no dicionário não vá ser esse, vai ser só 'destino' — MAS TEM A VER COM O CÁLCULO DE MOROS [e Ananke]" — o telos como a leitura RC do destino: o desdobramento obrigatório da obra podre, calculado pelas agulhas de Moros (ver RC-611/RC-467).
 - 0 códigos novos (O-3).

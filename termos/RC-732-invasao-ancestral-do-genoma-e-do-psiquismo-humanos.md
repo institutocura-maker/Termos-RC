@@ -29,18 +29,19 @@ Na cosmologia de Jan Val Ellam, hipótese narrativa segundo a qual códigos, “
 NT-FP21 permanece bloqueado. Este verbete **não** abrange teriantropia/licantropia associada a crianças, famílias, autismo, diagnósticos ou causalidades espirituais clínicas.
 
 
-## Ampliação — P2026-07-25
+## Ampliação
+### P2026-07-25
 
 - **P2026-07-25:** "externalizaram lá tudo que tinha para ser externalizado... jogaram o problema todo para cá" ao tempo da emergência da espécie humana (últimos ~25.000 anos) — reforça o termo; genoma como "joia" disputada (ver RC-518).
 
 
-## Ampliação — P2024-02-25
+### P2024-02-25
 
 - **Reconstrução no genoma humano (P2024-02-25):** 'vai começar tudo de novo. Só que agora não vai ser preciso milhões de espécies. É tudo na condição humana, tudo no genoma humano.'
 - **Humanos como únicos capazes:** 'nós somos os únicos capazes de modificar o genoma pessoal, criando novas sensações. E é isso que, entre aspas, todos os seres desse universo vizinho precisam.'
 
 
-## Ampliação — P2025-03-15
+### P2025-03-15
 
 - **Teriantropia (P2025-03-15):** "por que hoje a Terra tá cheia de humanos que se dizem teriantrópicos? É um eu humano que de repente sente vontade de sair se arrastando feito uma cobra... esse espírito um dia já deve ter sido cobra e a sensação da vida passada invadiu a sensação atual"; a respiração como controle dos arquivos (Mentalma).
 
@@ -70,11 +71,12 @@ NT-FP21 permanece bloqueado. Este verbete **não** abrange teriantropia/licantro
 
 Esta é uma categoria interna da cosmologia de Ellam, **não um mecanismo reconhecido pela genética, psiquiatria, neurologia ou psicologia**. Não autoriza diagnosticar ninguém, atribuir sintomas a entidades, suspender tratamentos, substituir avaliação profissional nem estabelecer causalidade espiritual para condições médicas. Relatos de crianças e famílias permanecem na apostila por integralidade documental, com separação da plateia e nota crítica, mas fora da ontologia clínica.
 
-## Ampliação — P2024-08-03
+## Ampliação
+### P2024-08-03
 
 - **[P2024-08-03] AE-FD14 — U1088–U1095; U1216–U1232:** NOTA DE SEGURANÇA/EXCLUSÃO: a fonte contém alegações sobre características animais, licantropia e invasão/mistura espiritual. Elas ficam excluídas da ontologia clínica, diagnóstica e causal. Não associar a crianças, famílias, autismo, diagnósticos ou tratamento.
 
-## Ampliação — P2024-07-13
+### P2024-07-13
 
 - **[P2024-07-13] AE-RCT16 — U0542–U0605; U1468–U1499; U1605–U1617:** Acrescenta, com atribuição, genética humana, insubmissão, travas e a narrativa Eva–Pandora. Não autoriza causalidade espiritual do autismo, homoafetividade, reprodução ou qualquer condição clínica/biológica.
 - **[P2024-07-13] TC-RCT04 — U0542–U0605:** Gênesis, Nefilins, Javé, Anunnaki e linhagens humanas são leitura comparada de Ellam; exegese e genética permanecem atribuídas e segregadas.

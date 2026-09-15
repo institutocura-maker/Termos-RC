@@ -16,24 +16,26 @@ atualizado = "2026-09-05"
 
 Filhos de Heber (RC-436), patriarcas pós-diluvianos da linhagem hebraica — **Faleg** é o elo da linhagem de Sem/Abraão na genealogia bíblica da RC.
 
-## Atualização — P2021-03-27
+## Atualização
+### P2021-03-27
 
 - **Maldição de Javé sobre Faleg:** "Javé teve uma raiva tão grande de Faleg e depois de uns descendentes de Gômer que ele jogou uma maldição que transformava o DNA de tudo que era mulheres em um tipo de DNA estéril" — as mulheres dessa descendência "tinham que orar loucamente para Javé fazer o favor de desfazer a maldição";
 - **Contexto do pacto com Abraão:** a maldição tornou Sara estéril — "os anjos de Javé estavam fazendo com Abraão e Sara a mesma coisa que Anu... fez com a irmã" ("sangue azul"; regra monástica) — e o pacto dependia da descendência (nova aresta RC-437 ↔ RC-001);
 - A maldição sobre Faleg/Gômer é **leitura do autor** (Teologia Comparada) — não é relato histórico validado.
 
 
-## Ampliação — P2024-02-25
+## Ampliação
+### P2024-02-25
 
 - **Faleg interrompe a linhagem (P2024-02-25):** 'um filho de Éber chamado Faleg fez com Javé a mesma coisa que Set havia feito... Deu uma banana.' Com a linhagem hebreia interrompida e a de Cam maldita, restou Jafé — 'Gomer foi o pai dos chamados arianos. Aí Javé... apresentou-se aos arianos com o nome do Senhor Brahma Parameshthi.'
 
 
-## Ampliação — P2024-11-30
+### P2024-11-30
 
 - **Faleg/Gomer (P2024-11-30):** "o filho de Éber, Faleg, chegou para Éber e disse: 'Eu não vou honrar Javé do jeito que vocês honram'"; "Javé largou a descendência dos filhos de Noé e procurou Gomer, pai dos arianos, que era neto de Jafé"; "nessa época Javé tinha largado os judeus e hebreus e investiu nos arianos".
 
 
-## Ampliação — B052 (Homoafetividade: O Segredo Perdido do Éden)
+### B052 (Homoafetividade: O Segredo Perdido do Éden)
 
 - **[B052 p. 6]** Joctan a Heber: "não sou eu o continuador da linhagem, mas sim Faleg, o seu primogênito e meu irmão, o portador da perpetuação da semente do Criador."
 - **[B052 p. 108]** Faleg: "Não quero mais ser o elo da linhagem... Sempre achei Joctan mais habilitado para isso"; Joctan: "quanto mais faço as coisas encomendadas pelo Senhor, mas me sinto como você."

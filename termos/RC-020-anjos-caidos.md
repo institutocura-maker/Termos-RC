@@ -34,18 +34,19 @@ Com isso:
 - **Na fonte oral (P2020-04-25):** os anjos são citados como **interlocutores e informantes**, com grafia do STT para os nomes do entorno: «I Luzbell», «Luisber», «Luzbel», «a rebelião de Lúcia» [REVISAR: feminização do STT → CHANCELA 2026-09-06 · F039-L3: AGUARDA-ÁUDIO (STT preservado como falado) — ver nota]. A expressão «anjos caídos» **não** é pronunciada como sintagma nesta fala: o que a fonte entrega é o **mecanismo**, e é por isso que a materialização se apoia no verbo dela, não em um rótulo dela.
 - **Vetado como grafia canônica** (devolutiva de 28/08/2026): as formas degradadas do TXT não promovem nome novo — ver Apêndice do dicionário STT da apostila do ciclo.
 
-## Ampliação — P2020-04-25 (Os Desdobramentos da Rebelião de Lúcifer)
+## Ampliação
+### P2020-04-25 (Os Desdobramentos da Rebelião de Lúcifer)
 
 - **[P2020-04-25 · **MATERIALIZAÇÃO (D-9): O MECANISMO DOS QUE FICARAM SEM PROCESSADOR**]** "os anjos chegavam para aparecem no contexto dos livros mais antigos dizendo, mas eles os a nossa criatura superior a nós?" (U0006); "uma vez eu conversando com os anjos dele nas confusões dos anos 2009, 10 e 11, eu disse que é que vocês não faz um rastreamento das formas mentais de janela para trás e ver, mas eles não conseguem." (U0006) — 🆕 **Única materialização deste ciclo**, autorizada pela devolutiva. A ficha deixa de ser `ficha=False`: a definição do mecanismo operante sobre os humanos é **puxada desta fonte datada** (25/04/2020) e de mais nenhuma. · 🆕 **primeira fonte oral desta ficha** — o cadastro só tinha `B031`, `B003`, `B005`, `P2020-04-25`; `P2020-04-25` entra como a primeira fala registrada, **com a data de 25/04/2020**.
 - **[P2020-04-25 · A QUEDA COMO INFECÇÃO, NÃO COMO PUNIÇÃO (o que a ficha passa a dizer)]** "A rebelião de Lúcifer não foi porque I Luzbell olhou muito tempo para um abismo e o abismo olhou para ele e deu broca." (U0006); "O vírus é o eu de Jahrado, desagregado." (U0006) — ⚠️ **D-3 aplicada**: a fonte usa mulheres e homoafetivos como *prova* da falha do criador; essa aspa **não** entra aqui — fica na apostila com nota editorial.
 - **[P2020-04-25 · OS QUE VIRARAM TREVAS E O QUE A FONTE RECUSA DIZER]** "a turma da gnose envzada pro lado da perdição e essa turma vai querer se vingar se todo mundo perdoasse o nosso amigo." (U0006)
 
 
-## Ampliação — P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
+### P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
 
 - **[P2022-03-26 · ANJOS CAÍDOS NA FALA DE 26/03/2022]** "Os anjos clones são robotizados, eles são tão autistas quanto a turma lá de cima. Eles olharam ser Sofia olhou e mais um problema e continuaram a estudar e em algum momento ficou com um vírus na cabeça de Lúcifer de Elos Bell." (U0008) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
 
-## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+### P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
 
 - **[P2023-12-03 · ANJOS CAÍDOS NA FALA DE 03/12/2023]** «subtema do tema doutrina dos anjos decaídos.» (U0003) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
 - **[P2023-12-03 · OS ANJOS QUE NÃO SOUBERAM LER]** «esses anjos são meio assim, são robôs, então eles só servem para E também não fizeram a leitura que a Elusb fez.» (U0004) — A doutrina dos anjos decaídos recebe a variante da fonte: os clones-robôs da Trimúrti examinaram o problema e **não fizeram a leitura que Luzbel fez**. O item ancora a taxonomia declarada no início da própria palestra (rebelião = subtema da doutrina dos anjos decaídos).

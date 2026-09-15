@@ -35,7 +35,8 @@ Forma preferida: **Kashyapa**.
 Formas de STT: `Casiapa`, `Casiata`, `Casipa`, `Caseat`.
 
 
-## Ampliação — P2025-02-16
+## Ampliação
+### P2025-02-16
 
 - **Kashyapa (P2025-02-16):** "primeiro filho de Marichi"; "os padrões primordiais ou mais antigos por trás da questão macho e fêmea".
 - **As 5 linhagens de descendência:** (1) com Diti → Asuras; (2) indireta → Devas/Olimpianos; (3) → Prachetas (dragonoides; origem dos primeiros cérebros bilatérios); (4) cobras venenosas geradas na loca aquática de Varuna (laboratório; "existe até hoje"); (5) com Aditi → os 12 Adityas (que substituíram os primordiais) → Vivasvan → Yama e Manu → Manavas (humanidade híbrida).

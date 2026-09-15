@@ -23,7 +23,8 @@ Conceito central da palestra «A Quem Pertence o Planeta e a Biblioteca Genômic
 - **Variações:** laboratório genômico; laboratório cósmico; pirataria genômica
 - **Idioma de origem:** Português
 
-## Ampliação — P2024-03-17
+## Ampliação
+### P2024-03-17
 
 **Fonte:** palestra «A Quem Pertence o Planeta e a Biblioteca Genômica Mais Atualizada do Universo» (17/03/2024).
 

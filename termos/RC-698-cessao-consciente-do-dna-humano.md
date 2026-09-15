@@ -30,16 +30,17 @@ A cessão é vinculada a:
 Forma canônica: **cessão**, ato de ceder. Corrigir o STT `sessão consciencial` para **cessão consciencial**.
 
 
-## Ampliação — P2025-02-16
+## Ampliação
+### P2025-02-16
 
 - **Cessão consciente do DNA (P2025-02-16):** "esse DNA humano tem que ser cedido de maneira consciente pelos terráqueos, sendo esta a única maneira de preservar sua validade funcional quando transferido para corpos de outras espécies. Não adianta arrancar o DNA humano ou abduzir alguém e levar — é como um transplante que o organismo rejeita. O DNA humano, para funcionar em qualquer outra coisa, tem que ser protegido pelo ato de cessão consciencial do dono daquele DNA. Esses seres descobriram isso agora, entre os anos 2018, 2021."
 - **Desmistifica abduções:** a "abdução" física não basta — a cessão consciente é a chave (ver RC-359 Abduções e Reparo Espiritual).
 
-## Ampliação — P2024-06-16 (O Projeto TALM, os Fenvans e os Humanos)
+### P2024-06-16 (O Projeto TALM, os Fenvans e os Humanos)
 
 - **[Cessão Consciente do DNA — só com carinho] (U0004)** «Se não for com carinho, se não existia a consciência do ser humano, querendo ele mesmo dar algo dele para Javé, ou seja lá para quem for, isso nunca vai funcionar direito.» — só a cessão consciente (com carinho) do DNA humano funciona; tudo que é roubado "pifa".
 
-## Ampliação — P2025-05-10 (Mistérios do Apocalipse)
+### P2025-05-10 (Mistérios do Apocalipse)
 
 - **[O óvulo de Maria e o genoma emprestado] (U0003)** «E só aí houve um óvulo de Maria que foi fecundado não por um espermatozoide, mas por algo que veio espécie de inseminação artificial.» — o óvulo de Maria 'foi fecundado não por um espermatozoide, mas por algo que veio espécie de inseminação artificial' — o genoma de Rockman (RC-698).
 
@@ -75,7 +76,8 @@ Forma canônica: **cessão**, ato de ceder. Corrigir o STT `sessão consciencial
 ## Observações Científicas
 Não existe base genética ou biomédica conhecida para a exigência de anuência consciencial na funcionalidade do DNA transplantado. Manter a proposição atribuída ao palestrante.
 
-## Reforço — P2025-02-15
+## Reforço
+### P2025-02-15
 
 A fala afirma que, entre 2018 e 2021, seres teriam percebido que material humano roubado não funcionava, enquanto a cessão voluntária preservaria funcionalidade. Representantes de outras linhagens estariam nascendo como humanos para combinar genomas e experiência. A proposição permanece sem base biomédica.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

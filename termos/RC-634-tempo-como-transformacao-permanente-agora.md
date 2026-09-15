@@ -21,7 +21,8 @@ A fala distingue tempo astronômico de transformação e afirma atemporalidade d
 ## Etimologia / Grafias
 - Grafia: Tempo como Transformação / Permanente Agora.
 
-## Ampliação — P2021-02-28 (Tragédia Anunciada - As Fórmulas Mentais do Poder Demo)
+## Ampliação
+### P2021-02-28 (Tragédia Anunciada - As Fórmulas Mentais do Poder Demo)
 
 - **[O tempo é o modo como o psiquismo se movimenta] (U0015)** «Então, nesse sentido, o O tempo é o modo como o psiquismo se movimenta e se transforma ao longo da existência, sofrendo os efeitos da entropia e dos registros das informações colecionadas na consciência pessoal do corpo e do espírito.» — a resposta à pergunta sobre o tempo: "O tempo surgiu como decorrência do projeto mental do criador que terminou, entre aspas, se deteriorando a esse tempo, essa seta do tempo, começou a cumprir a determinação em troca de Chiva." (U0025: «Não, o tempo surgiu como decorrência do projeto mental do criador que terminou, entre aspas, se deteriorando a esse tempo, essa seta do tempo, começou a cumprir a determinação em troca de Chiva.»); o tempo ligado aos saltos quânticos da evolução da consciência caída (paráfrase U0025); RC-634.
 

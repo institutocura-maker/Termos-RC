@@ -31,7 +31,8 @@ A palestra relaciona sua ação a:
 O Conselho das Nagas foi absorvido nesta ficha como principal componente citado da Mão Invisível, evitando fragmentação prematura. Não é tratado como sinônimo absoluto: a Mão Invisível é explicitamente “multiforme”.
 
 
-## Ampliação — P2025-02-16
+## Ampliação
+### P2025-02-16
 
 - **A Mão Invisível (P2025-02-16):** "esses seres sempre estiveram por trás de muitos dos acontecimentos em curso... o processo continua, a mão invisível. Eles sempre estiveram no processo por trás. Eu estou fazendo essa palestra a pedido deles, só para vocês terem noção da maluquice."
 - **Conselho das Nagas:** "há um conselho permanentemente atuante numa espécie de mundo mental paralelo aos humanos, não formado por espíritos bonitos e charmosos, são essas figuras... esses nagas e alguns padrões de reptilianos que estão por trás de algumas das principais famílias humanas".
@@ -39,7 +40,7 @@ O Conselho das Nagas foi absorvido nesta ficha como principal componente citado 
 - **"A humanidade em algum momento vai se encontrar cara a cara com esses seres. É inevitável."**
 
 
-## Ampliação — P2025-02-22 (A Vinda de Sophia e o Equilíbrio Universal)
+### P2025-02-22 (A Vinda de Sophia e o Equilíbrio Universal)
 
 - **[P2025-02-22 — eco] O CONSELHO DAS NAGAS]** "existe um conselho chamado MAHORAGA, que são os maiores entre Nagas e Uragas, que formam um conselho muito distinto que comanda basicamente [tudo]. Ninguém sabe a quantidade que existe desses seres, nagas e uragas"; "as nagas e uragas nos ajudam a mantermos vivos, mas também não nos salvam"; "esses seres... SÃO EXTREMAMENTE DISCRETOS PORQUE É DA NATUREZA DE SERES QUE SE ARRASTAM A DISCRIÇÃO, NÃO SEREM PERCEBIDOS"; "eles passaram a proteger, A FINANCIAR O AVANÇO DA EVOLUÇÃO HUMANA" [a mão invisível — RC-664].
 - 0 códigos novos (O-3).

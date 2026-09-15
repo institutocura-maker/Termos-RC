@@ -27,7 +27,8 @@ Termo guarda-chuva da palestra de 14/04/2024: o conjunto **intransferível** de 
 - o espírito como "ator" que apropria as experiências dos "personagens" (eus) que produziu.
 
 
-## Ampliação — P2021-05-15 (As Etnias Hiperbóreas e os Anunnakis)
+## Ampliação
+### P2021-05-15 (As Etnias Hiperbóreas e os Anunnakis)
 
 - **[P2021-05-15 · A ANTERIORIDADE (3 ANOS ANTES DA FICHA) — O MECANISMO JÁ DESCRITO]** "Porque tá tendo um problema seríssimo na espiritualidade que começou de uns anos para cá e vai até ninguém sabe quando que está impedindo que os espíritos desencarnados retenham as suas melhores conquistas codificadas sob a forma de certas sequências, que é novidade, eh, paraa manutenção do da bagagem espiritual." (U0003)
 - **[P2021-05-15 · A VISTA GROSSA COMO TÉCNICA DE CONTAMINAÇÃO]** "Poucos são os níveis espirituais que retém as informações que são eh vivenciadas por eles quando assistem as palestras, os bate-papos do IEA, porque fazem mal no atual estado momento." (U0018)

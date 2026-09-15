@@ -30,12 +30,13 @@ Entre os filhos da mente aparecem Rishis como Marichi, Atri, Angiras, Pulastya, 
 - Sete Rishis, como ampliação de `RC-586`, sem criar códigos individuais neste ciclo.
 
 
-## Ampliação — P2026-07-25
+## Ampliação
+### P2026-07-25
 
 - **Gerações regeneradas (P2026-07-25):** Brahma criou uma geração regenerada da sensação mental (Atri, Marichi, Pulastya, Pulaha, Kratu) e outra do corpo tetracéfalo (Bhrigu, Daksha) — unidas para criar o mundo biológico.
 
 
-## Ampliação — P2025-02-16
+### P2025-02-16
 
 - **Os 7 filhos da mente de Brahma (P2025-02-16):** Marichi, Atri, Angiras, Pulastya, Pulaha, Kratu e Vasishtha — "esses sete seres são as fontes gênicas, as fontes do genoma, principais de todas as formas de vida que hoje percebemos existindo na natureza planetária terráquea".
 - **Marichi → Kashyapa:** da genética de Marichi surgiu Kashyapa; de Kashyapa diretamente os Asuras (= Titãs gregos), indiretamente os Devas (Olimpianos) e os Prachetas (dragões pensantes).
@@ -43,12 +44,12 @@ Entre os filhos da mente aparecem Rishis como Marichi, Atri, Angiras, Pulastya, 
 - **Pulastya →** Rakshasas, macacos, Kinnaras (centauros), Yakshas (espíritos de florestas); **Pulaha →** Sharadas (insetos alados), felinos, Kimpurushas (teriantrópicos leão/homem), ursos e lobos; **Kratu →** Valakhilyas (rishis minúsculos e poderosos) → linhagem de Satyavati → Parashara → Vyasa → Pândavas/Kauravas.
 
 
-## Ampliação — P2024-11-30
+### P2024-11-30
 
 - **Geração Regenerada (P2024-11-30):** "na última feição da chamada geração regenerada de Brahma nascem quatro irmãos de Rama"; "Bharata"; "Brahma acreditava, ao longo dos últimos 20.000 anos, que os rishis bramânicos e os kshatriyas dharmicos — os brâmanes e os kshatriyas — iriam dominar a Terra"; "7.000 anos antes de Cristo, era essa a noção".
 
 
-## Ampliação — P2023-10-14 (A Esquecida Honra dos Anunnaki)
+### P2023-10-14 (A Esquecida Honra dos Anunnaki)
 
 - **[P2023-10-14 · A LINHAGEM REGENERADA DE BRAHMA, DITA COMO «DE JAVÉ» (anterioridade)]** "Existe uma outra obra chamada Marra Barat, que do começo ao fim fala de uma linhagem regenerada de Braba, ou seja, de Javé." (U0020) — 🆕 anterioridade: P2024-07-13
 - **[P2023-10-14 · OS SETE FILHOS E A CLONAGEM]** "Mas vamos agentar a mesma história de novo, em que diz que a partir de um certo ponto, Brahma teve sete filhos, uma dessas, mas aí não é filho no sentido de de sexo, filho clonado." (U0020)

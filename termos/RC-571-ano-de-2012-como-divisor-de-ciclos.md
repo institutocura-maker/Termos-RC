@@ -23,12 +23,13 @@ O palestrante afirma que 2012 “ainda não acabou” porque a regência de Soph
 - **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
 
 
-## Ampliação — P2022-12-17
+## Ampliação
+### P2022-12-17
 
 - **[P2022-12-17 — FONTE ORIGINAL] 2012 como divisor (U0920–U0960; U0430–U0436):** "2012 foi o divisor de um tempo que ainda não começou, ainda que passado"; "2012 era o ano que Javé imaginava que ele já teria feito o juízo final dele"; "falta essa era se acabar na sua repercussão histórica... falta só Sophia assumir a vestimenta de mandatário celestial... falta a Terra... ser reintegrada à convivência cósmica"; "tá atrasado 10 anos... 10 anos nesse contexto de 5.600 anos, de 2.160 anos. Mas como eu disse, esses caras estão nem aí pro calendário da gente"; "2012 e a entrada no cinturão de fótons têm a ver também com o fechamento dos portais".
 
 
-## Ampliação — B037 (Inquisição Filosófica)
+### B037 (Inquisição Filosófica)
 
 - **[B037 p. 1]** síntese da obra: Brahma/Javé, Vishnu e Shiva «presos nas suas moradas desde o ano de 2012», ainda com poder mental e tecnológico para se acoplarem à faixa densa.
 - Âncora primária (livro) da fórmula já referida em ART-2025-08-02 na ficha RC-104. Sem materializar RC-300. Sem fusão com B022 / B050. Fonte **B037** acrescentada na tabela-mestra.

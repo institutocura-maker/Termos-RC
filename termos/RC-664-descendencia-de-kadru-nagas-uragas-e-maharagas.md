@@ -82,7 +82,8 @@ O episódio de serpentes atraídas ao fogo é provavelmente o Sarpa Satra/Sarpa 
 A fala associa sacrifícios Naga a renascimentos humanos na Índia e a um circuito reencarnatório fechado. Mantido como dado atribuído, sem código próprio.
 
 
-## Ampliação — P2025-02-16
+## Ampliação
+### P2025-02-16
 
 - **Nagas e Uragas (P2025-02-16):** "Kadru com a sua genética criou dois tipos de seres: nagas e uragas. Nagas são cobras pensantes com característica teriantrópica (parte serpente, parte humana); Uragas são seres reptilianos primordiais, dentre eles surgiu uma subraça chamada Maharaga (raça de divindade entre os uragas)".
 - **A que mais evoluiu:** "de todas as espécies de seres pensantes, os Nagas foi a que mais evoluiu... começaram a ter sábios entre eles".
@@ -90,17 +91,17 @@ A fala associa sacrifícios Naga a renascimentos humanos na Índia e a um circui
 - **Robert Temple/Dogons:** referência ao "Mistério de Sírius" (casal de antropólogos franceses e os Dogons) — quarentena.
 
 
-## Ampliação — P2024-09-29
+### P2024-09-29
 
 - **Serpentes teriantrópicas (P2024-09-29):** "os dois dragões aquáticos, ou seja, serpentes teriantrópicas — que a gente falou ontem — parte alguma coisa e parte humana" (ligação com P2024-09-28); o imperador Yu como filho dos dragões do Yangtzé/Amarelo.
 
 
-## Ampliação — P2025-06-26
+### P2025-06-26
 
 - **[P2025-06-26 — FONTE ORIGINAL] A descendência de Kadru (pergunta 6):** "a descendência de Kadru, ou seja, os Nagas e Uragas e o conselho dos Maharagas e outras ramificações dos chamados Tirthankaras, esse conjunto de seres é que tem a ver com toda essa questão de acidentes ou incidentes que foram ocorrendo e que terminaram produzindo a humanidade"; "o quarto logos não tem muito a ver com isso; ele participou disso numa concepção muito teórica de reunião de espíritos fora do âmbito dessa criação".
 
 
-## Ampliação — P2025-02-22 (A Vinda de Sophia e o Equilíbrio Universal)
+### P2025-02-22 (A Vinda de Sophia e o Equilíbrio Universal)
 
 - **[P2025-02-22 · A FICHA CONSAGRADA — A GENEALOGIA COMPLETA]** "depois que Brama tomou esse amrita, aí ELE SE SENTIU CHIQUE. A partir desse ponto... surge a chamada GERAÇÃO REGENERADA DE BRAMA. HÁ DUAS GERAÇÕES REGENERADAS DE BRAHMA: UMA QUE É A GERAÇÃO REGENERADA DA MENTE DE BRAHMA E OUTRA A GERAÇÃO REGENERADA DO CORPO... existem sete filhos de Brama chamados MARICHI, ATRI, ANGIRAS, [PULAHA], [PULASTYA], KRATU E VIVASVATE. Esse aqui produziu um clone dele mesmo chamado KASHYAPA... Esse DAKSHA, ele produziu 69 FILHAS, surgiu gênero feminino... 13 foram as que mais se reproduziram. E dessas 13, ADITI, DITI E KADRU são as três que mais terminaram fazendo com que a sua genética se transformasse nos animais que hoje nós conhecemos na Terra"; "CADRU, ELA PRODUZIU AS URAGAS. NAGAS E URAGAS. O que é naga? Serpentes. Só que aqui a gente tem que usar o conceito de TERIANTROPIA. O que é teriantrópico? É um corpo que é parte uma coisa e parte outra coisa. PARTE SERPENTE, PARTE HUMANA. ISSO É NAGA. O que é uraga? SER REPTILIANO. Cadru é mãe de ambas... todas elas protorracionais"; OS DRAGÕES: "dragões são filhos de PRACHETAS... um certo dragão... ROUBOU O AMRITA... engoliu, ficou guardado [numa] montanha... INDRA, O REI DOS DEUSES... FOI ENFRENTOU ESSE DRAGÃO E DESTRUIU... E QUANDO O BUCHO DO DRAGÃO FOI [ABERTO], TODA A SEIVA QUE LÁ ESTAVA VOLTOU A INUNDAR A TERRA E FERTILIZAR DIVERSAS NOVAS ESPÉCIES... Indra, eh, ZEUS chamado".
 - **[P2025-02-22 · O RAGNAROK E A FUGA DE KADRU]** "ESSA HISTÓRIA COMEÇOU APÓS O RAGNAROK... QUE TEVE LUGAR A CERCA DE 300 MILHÕES DE ANOS, QUE DESTRUIU A VIDA QUE EXISTIA EM MARTE... quem destruiu YGGDRASIL, QUE ERA O REINO DE ODIN... O RAGNAROK FOI PRODUZIDO ATRAVÉS DE INTRIGAS E INVEJAS QUE A TRIMURTI CONSEGUIU INOCULAR"; "CADRU FOI UMA DESSAS FIGURAS QUE NÃO CONCORDOU, SUMIU. ELA DEU UM JEITO DE VIR DE LÁ PARA CÁ... quando as nagas e uragas disseram: 'Cadê mamãe?'... FORAM SE ESTABELECENDO, FORAM SE ORGANIZANDO E SÃO SERES PACÍFICOS. Ainda que sejam feios para a nossa lógica"; "ao longo dos últimos 290 milhões de anos... A RAÇA QUE MAIS EVOLUIU EM TERMOS DE PROTORRACIONALIDADE FORAM OS FILHOS DE CADRU"; "a Terra tinha recebido o lixo do Ragnarok... AS TRÊS SETAS DE MOROS AGORA ESTÃO NA TERRA. CADRU SE ESCONDEU NA TERRA".

@@ -33,7 +33,8 @@ Com isso:
 * **Grafia STT:** 'seres aia' / 'Zaia' / 'Aia' = Aya e Aye. Agentes de Sofia que disputaram Sete com Lemion.
 * **Trava aplicável**: nenhuma além das gerais do despacho.
 
-## Ampliação — P2018-12-16 (Terra Atlantis - Era Sapiens)
+## Ampliação
+### P2018-12-16 (Terra Atlantis - Era Sapiens)
 
 - **[os seres Aia disputam Sete] (U0014)** «Aí quando ele percebeu o terceiro filho de Adão e Eva chamado Sete, quando ele percebeu que Sete era muito superior a Adão, a Caim, a Abel, e olhava com certa reserva o tipo de influência que os seres aia queriam jogar em cima dele, ele, o Lemô, se aproximou de S.» — os seres Aia (Aya e Aye, RC-031) queriam influenciar Sete; Lemion disputou Sete com o Zaia (Aia), cada um em nome de seu lado.
 

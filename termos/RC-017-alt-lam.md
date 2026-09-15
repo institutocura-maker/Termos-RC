@@ -33,7 +33,8 @@ Com isso:
 * **Grafia STT:** 'base Atla' = Alt´Lam. A base sob o perímetro de ~2 km onde hoje é Natal; ver RC-018 Alt´Lam Gron.
 * **Trava aplicável**: nenhuma além das gerais do despacho.
 
-## Ampliação — P2017-10-14 (Da Base Atlan ao Colégio Druídico)
+## Ampliação
+### P2017-10-14 (Da Base Atlan ao Colégio Druídico)
 
 - **[a base Atlan sob Natal] (U0008)** «Então eles começaram a me mostrar que ali aonde hoje ela tá, mas principalmente no perímetro dos 2 km, existia durante muito tempo uma chamada base Atla.» — a base Atlan existiu no perímetro de ~2 km onde hoje é a cidade de Natal (anagrama de Atlan); ver RC-018 Alt´Lam Gron.
 

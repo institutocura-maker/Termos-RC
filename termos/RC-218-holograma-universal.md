@@ -34,7 +34,8 @@ Com isso:
 * **Grafia STT (ciclos anteriores):** 'holograma' / 'projeção holográfica' (RC-217, RC-001). O conceito exige familiaridade com física quântica (como se projeta um holograma).
 * **Trava aplicável**: nenhuma além das gerais do despacho.
 
-## Ampliação — P2025-06-14 (PALESTRA SOBRE A QUEDA DO CRIADOR-Refatorada)
+## Ampliação
+### P2025-06-14 (PALESTRA SOBRE A QUEDA DO CRIADOR-Refatorada)
 
 - **[Javé, holograma sem alma] (U0021)** «Consequentemente, Javé se reconstituiu como um "holograma de sua força mental", apoiado em sua força divina remanescente, mas sem a plenitude da consciência que possuía antes da queda.» — Javé se reconstituiu como um 'holograma de sua força mental', apoiado na força divina remanescente, mas sem a plenitude da consciência que possuía antes da queda (RC-218).
 

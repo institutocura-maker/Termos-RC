@@ -25,25 +25,26 @@ O corpo de Javé teria colapsado em 2021, gerando o primeiro Buraco Negro Mental
 A hipótese de Krishna tornar-se um segundo Buraco Negro Mental foi absorvida nesta ficha exclusivamente como risco/prognóstico, não como evento consumado.
 
 
-## Ampliação — P2024-11-30
+## Ampliação
+### P2024-11-30
 
 - **Buraco Negro Mental (P2024-11-30):** Einstein (relatividade geral; Prêmio Nobel) e Karl Schwarzschild [STT "Call Schauardes de Child"]; "o buraco negro chupa informação e solta informação no outro universo"; "a informação é que entra em 3D e sai 2D" (leitura — quarentena); a analogia mental/consciencial.
 
 
-## Ampliação — P2024-11-09
+### P2024-11-09
 
 - **Implosão do eu de Javé (P2024-11-09 — destaque A-2):** "qual foi o problema jamais antevisto? Foi o que aconteceu com a implosão do eu do criador caído, que gerou um buraco negro mental antimaterial no universo [vizinho]"; "a primeira consciência faliu a tal ponto — o eu de Javé — que criou um buraco negro mental no universo vizinho. E é isso que está infectando o paraíso, porque não existia. Por quê? Porque lá no paraíso tem um corpo tombado de Prabrajna, que perdeu uma parte".
 - **2021:** "isso aconteceu no ano de 2021, ninguém sabe as consequências disso... o colapso no universo vizinho começou loucamente a acelerar depois disso"; "o colapso do criador estava basicamente determinado desde a sua queda, só que jamais foi vislumbrado nem compreendido por ele próprio e por ninguém mais".
 - **Vórtice mental:** "os buracos negros surgiram como a necessidade de [o criador caído] chupar as informações [do universo vizinho]... isso gerou um mecanismo tipo vórtice mental extremamente poderoso, cujo resultado foi a emergência de incontáveis buracos negros entre as suas partes, entre os dois universos".
 
 
-## Ampliação — P2024-09-29
+### P2024-09-29
 
 - **Colapso do corpo de Javé (P2024-09-29 — pergunta da plateia):** "ele acabou caindo na criação e assimilando todos os males que ele tinha criado"; "a regra dessa criação: tudo que você faz volta para você. Então ele foi vítima da própria [regra]... o corpo dele colapsou, porque a entropia devolveu. Eles estavam fazendo um jogo entrópico de jogar as coisas; a entropia devolveu na mesma hora. Ele represou o quanto pôde, mas em algum momento isso vem."
 - **O sono de Brahma:** "de vez em quando esse corpo dele entrava em coma e os anjos ficavam sustentando durante milhões de anos um Javé desacordado. Por isso que na mitologia ariana ainda se fala no sono de Brahma ou de Javé, que durava milhões de anos. Em algum momento ele acordava e voltava a funcionar. Só que agora o corpo dele colapsou."
 
 
-## Ampliação — P2023-06-24 (O Buraco Negro Mental e o Estacionamento Coletivo)
+### P2023-06-24 (O Buraco Negro Mental e o Estacionamento Coletivo)
 
 - **[P2023-06-24 · A CRONOLOGIA COMPLETA DO 1º CASO — o bloco-centro]** a fonte mais antiga do dossiê fixa a linha do tempo: **2017** (o transporte: "um espírito chegou para mim: 'nós temos que levar você, porque tá acontecendo um fato e como Javé foi alguém que optou por ter você como TRADUTOR para ele das situações'... me levaram à força. E o que tava ocorrendo era... quando a gente diz 'fulano tá definhando', era alguma coisa parecida com aquilo" ⚠️ quarentena biomediúnica — experiência do autor-foco, registro fenomênico) → **2018, o EVENTO** ("esse coma foi IMPLOSÃO... Surgiu um buraco negro aqui com seu Javé no ano de 2018. Isso aconteceu no universo vizinho"; fevereiro/2018: "alguns seres começaram a me dizer: 'Ei, Javé morreu... comemoremos' — normalmente essa turma chamava de CAOS") → **2021, apenas a CONFIRMAÇÃO** de Rogério ("em 2021 eu entendi que era diferente de fato... os anjos diziam: 'Não, dessa vez é diferente'") — ⚠️ a ficha registava "o corpo de Javé teria colapsado em 2021" [P2024-11-09]; a fonte de 2023 ANTECIPA o evento para 2018 [a divergência de data registrada, não fundida].
 - **[P2023-06-24 · A DEFINIÇÃO NUCLEAR]** "já que buracos negros existem a partir de implosão estelar, como os elétrons viram que os seres vivos mais complexos fazendo m\*\*\*\* atrás de m\*\*\*\*, o que é que eles inventaram para expulsar daqui de dentro aqueles que fazem mais merada, **IMPLODINDO O FOCO CONSCIENCIAL de quem produz mais m\*\*\*\*. É aqui que surge o buraco negro mental**... Um dia vai receber um prêmio Nobel lá na frente, porque a ciência vai rodar, vai rodar, vai rodar até entender isso."
@@ -55,7 +56,7 @@ A hipótese de Krishna tornar-se um segundo Buraco Negro Mental foi absorvida ne
 - 0 códigos novos (O-3). Quarentenas: biomediúnica (o relato 2017-2018), teológica, ufológica, clínica, política.
 
 
-## Ampliação — P2023-06-17 (O Paradoxo Divino)
+### P2023-06-17 (O Paradoxo Divino)
 
 - **[P2023-06-17 · O VETO VIBRATÓRIO — a interdição pré-definição (a antevéspera)]** "Infelizmente, Simone, **eu NÃO TENHO COMO RESPONDER esse assunto buraco negro mental. EU FALEI A PEDIDO DELES** [o grupo de inteligências lúcidas]... esse grupo... **eu, entre aspas, me submeti ao que eles me pedem, porque realmente esses buracos negros estão vinculados a processos que a gente nem imagina. E O SIMPLES ATO DE SE REFERIR A ELES EM CERTO PADRÃO VIBRATÓRIO É UM PROBLEMA QUE A GENTE NEM IMAGINA**" ⚠️ quarentena biomediúnica — a interdição de uma semana (a P2023-06-24, sete dias depois, quebraria o veto "a pedido deles").
 - **[P2023-06-17 · O REINO DAS EGRÉGORAS — a gênese]** "a questão do buraco negro mental que a gente tem falado... **COMEÇA EXATAMENTE NO REINO DESSAS EGRÉGORAS. Isso FERROU O CRIADOR CAÍDO. Isso JÁ FERROU VÁRIAS CRIATURAS DO UNIVERSO VIZINHO**, que não é nem essa faixa de realidade, nem a faixa de realidade espiritual — é uma outra. **Mas nesse campo quântico de pensamentos, sentimentos da criação, É UM SÓ PARA TODA A CRIAÇÃO e para a erraticidade vinculada**" (as faixas espirituais vinculadas a essa criação).
@@ -97,12 +98,13 @@ A hipótese de Krishna tornar-se um segundo Buraco Negro Mental foi absorvida ne
 - Destruição das Moiras e futuro de Javé permanecem em quarentena.
 - Não usar o termo para diagnosticar pessoas ou condições clínicas.
 
-## Atualização — P2024-11-09
+## Atualização
+### P2024-11-09
 A implosão de Javé em 2021 e a aceleração do colapso do universo vizinho são retomadas como narrativa cosmológica. Buraco Negro Mental/Consciencial não é conceito astrofísico ou diagnóstico clínico.
 
 ---
 
-## Atualização — P2023-05-13 (Bastidores da Revelação Cósmica)
+### P2023-05-13 (Bastidores da Revelação Cósmica)
 
 - **Demência ancestral:** seção 3.5 — "O Espírito de Javé e a Condição de 'Demência Ancestral' do Criador" — a demência do criador como raiz do Buraco Negro Mental (RC-001);
 - **Demência plena das faixas improvisadas:** "A demência é plena, ainda que não profunda, porque os seres têm algum nível de consciência crítica, mas não conseguem fechar o entendimento... a consciência deles não tem como ter continuidade, porque o próprio habitat onde eles vivem não tem a continuidade que o nosso aqui tem";
@@ -111,7 +113,8 @@ A implosão de Javé em 2021 e a aceleração do colapso do universo vizinho sã
 
 ---
 
-## Reforço — P2025-07-18 — alegação do colapso de Javé
+## Reforço
+### P2025-07-18 — alegação do colapso de Javé
 
 - **[P2025-07-18 · U00007/U00016 e Q&A U00023–U00025]** O expositor retoma a alegação de que o corpo de Javé teria colapsado em 2021 e que seu “eu” teria permanecido em condição parasitária. A expressão **buraco negro mental consciencial** é explicada por analogia com implosão, ego e retenção de informação.
 - **Decisão editorial aplicada:** absorver como **alegação**, sem literalidade astrofísica, neurológica ou clínica. O status do verbete não muda.

@@ -25,22 +25,23 @@ Registro que associa o gene FOXP2 — vinculado na cosmologia de Ellam à emerg�
 - **[P2024-08-03] Unidades:** U1554–U1568.
 - **[P2024-08-03] Proveniência:** palestra de Jan Val Ellam; transcrição STT pré-curada; devolutiva do curador registrada em 2026-08-20 (ficha autorizada).
 
-## Ampliação — P2024-08-03
+## Ampliação
+### P2024-08-03
 
 - **[P2024-08-03 — destaque O-2] Enki e o FOXP2 (U1554–U1568):** "Enki foi quem introduziu [o gene FOXP2]"; "esse gene FOXP2 surgiu 47–48.000 anos atrás no nosso genoma"; "se você pegar fósseis de 100.000 anos de Homo sapiens, não tem desse gene... só tem de 40 e poucos mil anos para cá"; a história científica do gene com milhões de anos (herdado dos australopitecos) é distinta — "algo no mar fez isso" [leitura do autor; quarentena científico-genética].
 
-## Ampliação — P2022-09-17 (A Hipóstase dos Arcontes)
+### P2022-09-17 (A Hipóstase dos Arcontes)
 
 - **[O gene Fox P2: o da linguagem e da racionalidade] (U0041)** «Pô, sobre o cérebro límbico mamífero, surgiu o cérebro primata e no topo do cérebro primata um córtex cerebral, no qual o gene Fox P2, que é o da linguagem, o da racionalidade surgiu.» — a cronologia fóssil do gene: fósseis de homo sapiens com 50-60.000 anos não têm o gene no genoma; a partir de ~40.000/37.000 anos ele aparece (paráfrase U0054): "000 anos, você não vai encontrar o GN Fox P2 no genoma deles" (U0054: «000 anos, você não vai encontrar o GN Fox P2 no genoma deles.»); STT «GN Fox P2» (RC-400 Foz Côa/FOXP2).
 
 
-## Ampliação — P2022-11-19 (No Princípio era o Bem! Será)
+### P2022-11-19 (No Princípio era o Bem! Será)
 
 - **[O gene Fox P2 e a racionalidade humana: ~48.000 anos] (U0006)** «000 anos para cá, quando o Gene Fox P2, o gen que faz com que o ser humano possa ser racional, começou a aparecer nos fósseis dos humanos antigos.» — a cronologia da racionalidade: o gene Fox P2 surgiu nos fósseis há ~48.000 anos; antes disso, o Homo sapiens existia há 60-70.000 anos mas sem racionalidade (RC-400 Fox P2; RC-562 Baralho Genético).
 - **[O mistério da origem do Fox P2] (U0006)** «000 anos era o Homo Sáps, mas não racionalizado, sem o gene Fox P2. Um dos mistérios é esse gene veio de onde?» — a pergunta não respondida pela ciência: de onde veio o gene da racionalidade? (RC-400; paráfrase do contexto U0006).
 
 
-## Ampliação — P2025-12-14 (Os Fundamentos da Revelação Cósmica)
+### P2025-12-14 (Os Fundamentos da Revelação Cósmica)
 
 - **[400 bilhões de bits por segundo: a flutuação quântica da realidade] (U0088)** «A cada 1 segundo, 400 bilhões de bits de informação tentam penetrar no cérebro humano através das dendrites dos neurônios.» — a cada segundo, 400 bilhões de bits de informação tentam penetrar no cérebro; mas o cérebro só processa 2.000: «000 das 400 bilhões de informações, o cérebro da gente processa e com isso surge a faixa de realidade que a gente vive» (U0088: «000 das 400 bilhões de informações, o cérebro da gente processa e com isso surge a faixa de realidade que a gente vive.»); a realidade como faixa limitada de processamento (RC-400 Fox P2; RC-562).
 - **[Os microtúbulos como porta de entrada da informação quântica] (U0088)** «E mais especificamente através dos microtúbulos, que são os citoesqueletos desses neurônios.» — os microtúbulos (citoesqueletos dos neurônios) como a porta específica pela qual a flutuação quântica penetra o cérebro; a realidade composta das 2.000 informações processadas (RC-400; paráfrase do contexto U0088).

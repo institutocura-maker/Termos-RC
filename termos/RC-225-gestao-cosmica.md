@@ -23,7 +23,8 @@ A Gestão Cósmica é o pano de fundo "político" do drama: as mitologias de tod
 - **Variações:** gestão universal; divisão da gestão; administração cósmica; divisão do Comando
 
 
-## Ampliação — B033 (O Drama Terreno de Javé)
+## Ampliação
+### B033 (O Drama Terreno de Javé)
 
 - **[B033 p. 79]** cap. 7 *Gestão Cósmica*: «o “computador” foi gerado, mas quem o gerou, dele se tornou refém»; Javé «não tem permitido que ninguém o faça por ele». «Conspiração amorosa» **não** ganha código (O-3).
 - **[B033 p. 80]** «sempre o que esteve em jogo foi e é a gestão do cosmos» — «quem exerce a supremacia sobre os diversos processos em curso».

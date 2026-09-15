@@ -23,7 +23,8 @@ A comparação mostra que os oito da Ogdóade não representam contagem exaustiv
 - **Fonte da decisão:** Devolutiva-01 + observação direta do curador.
 
 
-## Ampliação — P2020-07-11
+## Ampliação
+### P2020-07-11
 
 - **[P2020-07-11] A Enéade em contraponto (U0380–U0400):** a Ogdóade de Hermópolis (oito) em contraste com a Enéade de Heliópolis (nove); a palestra usa a Ogdóade como base dos oito entes primordiais [REVISAR — correlação a validar → CHANCELA 2026-09-06 · F041-L5: AGUARDA-ÁUDIO (dívida perdoada até nova evidência na base; STT preservado como falado) — ver nota].
 
@@ -52,7 +53,8 @@ Ogdóade e Enéade são esquemas distintos e não devem ser fundidos.
 
 ---
 
-## Atualização — P2023-12-02 (Thot, o Enigmático Hermes Trismegisto)
+## Atualização
+### P2023-12-02 (Thot, o Enigmático Hermes Trismegisto)
 
 - **Thot rei de Heliópolis (~10.000 anos):** "há cerca de 10.000 anos atrás, surgiu uma cidade no Egito chamado Heliópolis. E Thot era o rei dessa época";
 - **Enéade = adaptação dos 9 anunnaki divinizados:** "o conceito de Enéade... foi uma adaptação posterior que iniciados fizeram para adequar os nove principais anunnaki ao divino do Egito. Aí os nomes de Ptah, Osíris, Ísis, Hórus... tudo surge aqui. E cada uma dessas figuras era um anunnaki que ficou no poder durante 500 anos, 1000 anos, 2000 anos";

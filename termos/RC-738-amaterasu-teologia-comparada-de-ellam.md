@@ -46,7 +46,8 @@ atualizado = "2026-08-16"
 
 [P2024-09-29] A equivalência não é consenso histórico, filológico ou religioso. Alegações sobre manipulação genética e descendência imperial permanecem atribuídas a Ellam.
 
-## Ampliação — P2024-09-29
+## Ampliação
+### P2024-09-29
 
 - **Amaterasu = Atena (P2024-09-29 — destaque O-2):** "Amaterasu, que é Atena, que é, entre aspas, filha de Zeus"; "Atena é tida como deusa virgem. E o pior: de fato assim ela permaneceu, porque tudo o que ela fez foi por manipulação genética".
 - **Caverna da Rocha Celestial:** "é dito que essa deusa chamada Atena aparecia pros habitantes das ilhas do Japão nesse portal que até hoje é chamado de Caverna da Rocha Celestial. Amaterasu aparecia e ali dava ordens e conversava com uns e outros."

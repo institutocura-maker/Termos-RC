@@ -39,7 +39,8 @@ Com isso:
 * **Grafia STT:** 'lila' (soletrada 'L I L A'). Intraduzível; = o jogo/leela cósmico entre as três divindades.
 * **Trava aplicável**: nenhuma além das gerais do despacho.
 
-## Ampliação — P2012-02-19 (Xadrez Cósmico de Brahma, Vishnu e Shiva)
+## Ampliação
+### P2012-02-19 (Xadrez Cósmico de Brahma, Vishnu e Shiva)
 
 - **[Lila, o jogo cósmico em sânscrito] (U0004)** «Para nós portugueses brasileiros, a palavra parece ser lila.» — Lila (RC-075): o jogo cósmico 'sendo jogado mesmo antes da criação desse universo'; 'a palavra parece ser lila' (L-I-L-A), intraduzível em português.
 

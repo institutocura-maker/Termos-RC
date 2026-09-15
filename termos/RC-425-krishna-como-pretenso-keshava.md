@@ -32,11 +32,12 @@ atualizado = "2026-08-29"
 - **Outras formas da mesma linha de leitura:** «Krishno», «Krisno» (variantes de *Krishna* no bloco de U0020). A ficha materializada **não renomeia nada**: o canônico do cadastro é preservado e as formas entram como variantes datadas.
 
 
-## Ampliação — P2023-10-14 (A Esquecida Honra dos Anunnaki)
+## Ampliação
+### P2023-10-14 (A Esquecida Honra dos Anunnaki)
 
 - **[P2023-10-14 · OS AVATARES ANTERIORES E O «QUECHAVA» (materialização autorizada)]** "E então Krishna, não como Krishna, mas em encarnações anteriores dele mesmo como avatar de Chiva, Vígno e Brama, porque era um avatar quechava, trazia na sua um pouco da genética dos três senhores atribut desse universo vizinho." (U0020) — 🆕 anterioridade: P2024-11-30 —  ⚠️ «quechava» é a grafia que o STT deu a Keshava ao fundir o pronome; a ficha materializada **não** renomeia nada.
 
-## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+### P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
 
 - **[P2023-12-03 · KRISHNA COMO 'PRETENSO KESHAVA' NA FALA DE 03/12/2023]** «um avatar da sua categoria não era para sofrer o escândalo de uma maldição.» (U0007) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2023-10-14`); a entrada desta fonte é de **conteúdo**, não de data.
 

@@ -23,7 +23,8 @@ Conceito central da palestra «A Falsa Queda do Ser Humano e a Indignidade Entro
 - **Variações:** Post truth; pós verdade; falsa verdade
 - **Idioma de origem:** Inglês (Post truth)
 
-## Ampliação — P2024-02-04
+## Ampliação
+### P2024-02-04
 
 **Fonte:** palestra «A Falsa Queda do Ser Humano e a Indignidade Entronizada como Religião» (04/02/2024).
 

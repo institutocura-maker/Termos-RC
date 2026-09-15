@@ -23,11 +23,12 @@ A palestra situa a ancoragem há cerca de 100–104 mil anos, em reação à ins
 - **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
 
 
-## Ampliação — P2022-12-17
+## Ampliação
+### P2022-12-17
 
 - **[P2022-12-17 — FONTE ORIGINAL] A ancoragem da Trimurti (U0160–U0170; U0165–U0168):** "há 100.000 aninhos... pela segunda vez essa faixa de realidade vizinha ancorou-se no nosso universo. Só que agora na Terra"; "ancorar-se no nosso universo exatamente sobre o sistema solar e mais especificamente voltado pra Terra"; "essa ancoragem foi muito semelhante à outra ocorrida há 300 milhões de anos, quando a turma... do bairro de [entre]stício desses dois universos chamado Yggdrasil [STT 'Igrazil'] na mitologia nórdica fizeram essa mesma coisa, só que em Marte. Por isso que o Ragnarok aconteceu... como eles tinham uma ponte, a Bifrost [STT 'B Frost'], que unia eles a Marte, a desgraça, as explosões aconteceu em Marte"; "a família Val chegou aqui na Terra há cerca de 600.000 anos atrás no âmbito da rebelião de Lúcifer"; "a ancoragem ocorreu porque Lúcifer estava estabelecendo o seu quartel general na Terra" e Sophia acompanhava o problema luciferiano.
 
-## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+### P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
 
 - **[P2023-12-03 · ANCORAGEM DO CONGLOMERADO TRIMURTIANO NA TERRA NA FALA DE 03/12/2023]** «a Trimurte tem que deixar de existir.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2022-12-17`); a entrada desta fonte é de **conteúdo**, não de data.
 

@@ -23,7 +23,8 @@ A Matriz Modeladora é o que faltou ao Criador de Padrões Dependentes: o modelo
 - **Variações:** Matriz Modeladora Eterna; Fonte Primordial Formadora do Todo; padrão estruturante espiritual
 
 
-## Ampliação — B001 (O Drama Cósmico de Javé)
+## Ampliação
+### B001 (O Drama Cósmico de Javé)
 
 - **[B001 p. 23]** o modelo da divindade «não conseguiu estabelecer ponte de ressonância com a já referida Fonte Primordial Formadora do Todo ou Matriz Modeladora Eterna, de cujo concurso tudo depende»; sem esse concurso, «nada, absolutamente nada de material […] consegue tomar forma e existir transitoriamente».
 - **[B001 p. 57]** cap. 4 *Matriz Modeladora: Pano de Fundo da Criação*. RC-208 permanece **sem ficha**. Sem fusão com B015. Fonte **B001** já constava na tabela-mestra.
@@ -57,7 +58,8 @@ Ficha baseada em B001 (obra primária). Conceito chave para entender o "defeito 
 
 ---
 
-## Atualização — P2024-05-04
+## Atualização
+### P2024-05-04
 
 - Matriz de Cocriação foi incorporada como variação da Matriz Modeladora: faixa/universo gerado por divindades da periferia do Paraíso.
 - **Fonte:** P2024-05-04.

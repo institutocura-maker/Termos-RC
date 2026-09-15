@@ -22,7 +22,8 @@ A fala anuncia palestra futura específica sobre as transferências de fase.
 - Grafia: Transições de Fase / Face da Criação.
 
 
-## Ampliação — P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
+## Ampliação
+### P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
 
 - **[P2022-03-26 · TRANSIÇÕES DE FASE / FACE DA CRIAÇÃO NA FALA DE 26/03/2022]** "sempre é essa salada terrível nos corpos pluricelulares biológicos. Nesse ponto da história, cerca de 2.5 bilhões de anos atrás, existiam os seres, portanto, biodemmo e os seres que nós podemos chamar de demobiol existindo no nosso universo." (U0009) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⭐ **NOTA DE ANTERIORIDADE — P2022-03-26:** antecipa **25 meses** a atual fonte oral mais antiga da ficha (`P2024-05-04`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
 

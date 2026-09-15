@@ -33,7 +33,8 @@ Com isso:
 * **Grafia STT:** 'Kardec' (literal). A revelação espírita transmitida pela equipe do Espírito da Verdade.
 * **Trava aplicável**: nenhuma além das gerais do despacho.
 
-## Ampliação — P2012-02-19 (Xadrez Cósmico de Brahma, Vishnu e Shiva)
+## Ampliação
+### P2012-02-19 (Xadrez Cósmico de Brahma, Vishnu e Shiva)
 
 - **[A revelação espiritual e o espanto de Javé] (U0005)** «E já concluindo, quando do advento da revelação espiritual, quando A equipe do Espírito da verdade, na segunda metade do século XIX, apoiado nos esforços de Kardec e outros na França, transmitem ao mundo a revelação espiritual e a turma de Javé que não consegue perceber o que se encontra além das fronteiras da sua criação.» — na segunda metade do século XIX, a equipe do Espírito da Verdade, 'apoiado nos esforços de Kardec' (RC-190), transmitiu a revelação espiritual — e a turma de Javé, que não vê além da criação, não entendeu.
 

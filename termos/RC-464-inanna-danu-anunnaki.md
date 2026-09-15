@@ -35,7 +35,8 @@ Figura do panteão anunnaki registrada na Base como **Inanna = Danu**: neta de *
 - **Direção da equivalência (divergência selada, não fundida):** em B060, Inanna é a deusa **a quem** Danu corresponde; nesta fonte oral, **Danana é o nome do grupo** ("a deusa Danana é a deusa Inana, ou seja, os toatas de Danan, na verdade são os toatas de Inan"), isto é, *Danu* designa a **seguidora/seguidor de Inana** — não o inverso. As duas leituras ficam seladas com suas fontes; a ficha não decide entre elas.
 
 
-## Ampliação — P2021-05-15 (As Etnias Hiperbóreas e os Anunnakis)
+## Ampliação
+### P2021-05-15 (As Etnias Hiperbóreas e os Anunnakis)
 
 - **[P2021-05-15 · A MATERIALIZAÇÃO — a ficha existia só no cadastro (B060); a fonte oral de 15/05/2021 a fundamenta]** "E eu tô fazendo essa volta toda só para dizer que a deusa Danana é a deusa inana, ou seja, os toatas de Danan, na verdade são os toatas de inan, ou seja, toatas quer dizer seguidores." (U0003) — ⚠️ Divergência SEM FUSÃO com B060: aqui Inana não é «deusa da terra» nem «mãe dos Tuatha» — é a neta e amante de Anu a quem os *tuatha* (seguidores) devem o nome; a direção da equivalência se inverte.
 - **[P2021-05-15 · O PODER E O CICLO DE 3.600 ANOS]** "Anu tinha uma neta chamada Inana." (U0003); "E quando Anu não vinha à terra, Inana ia lá e Libirô, se encontravam com Anu e assim avô e Népta se tornaram amantes." (U0003)
@@ -46,7 +47,7 @@ Figura do panteão anunnaki registrada na Base como **Inanna = Danu**: neta de *
 - **[P2021-05-15 · ANU × ZEUS: A GUERRA INTERNA QUE ENFRAQUECE E NÃO MULTIPLICA]** "E foi quando o próprio Zeus começou a transar loucamente com tudo que se movimentava que ele queria ter uma descendência com aquilo para dar continuidade à sua genética no meio daquela história, já que o Zanuna defendiu a tese, por isso Anu, como avô transou com Inana, sua neta, para poder dar uma descendência de um de uma posição genética que eles acham importante." (U0003); "E se enfraqueciam, não se multiplicavam." (U0003)
 - **[P2021-05-15 · A ORIGEM: NETA DE ANU, NASCIDA EM NIBIRU, VINDA À TERRA]** "É neta de Anô." (U0003); "Essa turma toda, o Anon Chic é quem nascia em Nibiro e Nanau na terra." (U0003) — [REVISAR: «Anon Chic» = STT para Anunnaki; «Nanau» ≈ Inana/Anu — grafias da fonte preservadas. → CHANCELA 2026-09-06 · F039-L3: AGUARDA-ÁUDIO (STT preservado como falado) — ver nota]
 
-## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+### P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
 
 - **[P2023-12-03 · INANNA (= DANU; ANUNNAKI) NA FALA DE 03/12/2023]** «a lenda dos Turatas de Danã, que ali chegaram das cidades de Hiperbório, ainda existe na base da mitologia.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2021-05-15`); a entrada desta fonte é de **conteúdo**, não de data.
 

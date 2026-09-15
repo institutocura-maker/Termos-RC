@@ -16,7 +16,8 @@ atualizado = "2026-09-12"
 
 Na gnose, a **Mãe-Pai primordial** — no material RC, a Deidade imanente do Pleroma que "deu de si a semente da sua deidade" presente em cada consciência particularizada (corpo átmico, RC-623).
 
-## Atualização — P2024-09-28
+## Atualização
+### P2024-09-28
 
 - **Pleroma como paraíso pré-existente:** "nos livros gnósticos existe pleroma como sendo paraíso... algo já era pré-existente, já existia de todo sempre criado. E lá tem um ser, pai-mãe amantíssimo, também criado";
 - **"Encomenda" dos setianos:** "esses setianos, segundo o que Sofia disse no hipócase [Hipócrates? `[REVISAR → CHANCELA 10/09/2026 · F039-L5: AGUARDA-ÁUDIO (paralelo em RC-009, mesma fala) — ver nota]`], teriam sido encomendados por esse rapazinho [o pai-mãe]... os mais belos gnósticos setianos... seriam uma encomenda, um sonho desse Deus que é imanente a tudo";

@@ -24,7 +24,8 @@ Na sinopse do B019: "Ao indicar um cenário de evolução possível, o autor ain
 - **Obs.:** no B019 a expressão aparece na sinopse; no corpo, o autor refere-se a "ambientes espirituais, Arquitetos Universais, Seres Espirituais" (p. 121)
 
 
-## Ampliação — B019 (Nem Deus, nem Javé, nem Darwin)
+## Ampliação
+### B019 (Nem Deus, nem Javé, nem Darwin)
 
 - **[B019 p. 5]** (sinopse) "um 'Consórcio de Mundos', cujos integrantes, os 'Arquitetos Universais', estão comprometidos com a obtenção da tão esperada 'Criatura Universal'."
 - **[B019 p. 121]** no corpo: "estão referidos ambientes espirituais, Arquitetos Universais, Seres Espirituais, universo paralelo habitado por entes extrafísicos clonados e de mente 'afetada', e um 'código-fonte' que veio de lá para cá" — o autor admite que "nada disso existe cientificamente comprovado" [quarentena].

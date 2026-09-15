@@ -30,7 +30,8 @@ As Gunas explicam a física da Criação "indevida" associada à mitologia hindu
 - **Origem:** sânscrito (guṇa = qualidade/atributo)
 
 
-## Ampliação — B024 (A Epopeia dos Agentes da Vida Universal)
+## Ampliação
+### B024 (A Epopeia dos Agentes da Vida Universal)
 
 - **[B024 p. 32]** cap. 3: Rajas, Sattva e Tamas “compõem absolutamente tudo o que existe”. Cruzamento do autor com a cosmologia vigente: visível ~5% = Rajas (Prabrajna); matéria escura ~27% = Sattva (Mavatna); energia escura ~68% = Tamas (Savna) — **quarentena científica** (analogia, não fato validado).
 - **[B024 p. 33–35]** Rajas criou quarks (e, com distúrbio, elétrons); Sattva criou glúons e as quatro forças (nuclear forte/fraca, eletromagnética, gravitacional) que organizaram Rajas; Tamas = selo de garantia de que a Obra terá fim. Hindús relacionam Brahma / Vishnu / Shiva às três Gunas.
@@ -38,23 +39,23 @@ As Gunas explicam a física da Criação "indevida" associada à mitologia hindu
 - **[B024 p. 38]** no instante da Singularidade, Savna “expressou” Tamas como selo de garantia; a ciência chama isso, “sob um certo aspecto”, de entropia e, “por outro”, de energia escura — mesma **quarentena científica**.
 
 
-## Ampliação — B041 (A Rebelião dos Elétrons)
+### B041 (A Rebelião dos Elétrons)
 
 - **[B041 p. 43]** cap. 6: as Gunas — Rajas, Sattva e Tamas, “expressas respectivamente por Brahma, Vishnu e Shiva” — “foram e são o alicerce da Criação”.
 - **[B041 p. 43]** Prajapati / Prabrajna sofria de “inconsistência psíquica” que o autor chama de “doença do primeiro impulso” — **quarentena clínica** (leitura, jamais diagnóstico). Outras Divindades (Mavatna e Savna) tentaram ajustar o projeto na mente dela; Prajapati as expulsou e, na expulsão, a Criação “sugou” o corpo mental, “despedaçando-o”. Brahma diz que “não ‘caiu’… mas que ‘foi empurrado’”.
 - Sem fusão com B024. RC-013 / RC-387 permanecem **sem ficha**.
 
 
-## Ampliação — P2024-11-03 (Apolônio de Tiana e o Quarto Logos)
+### P2024-11-03 (Apolônio de Tiana e o Quarto Logos)
 
 - **[P2024-11-03 · AS GUNAS NA TERCEIRA HORA DO NUCTEMERON]** "as serpentes do caduceu de Hermes entrelaçam-se três vezes. Cérbero escancara a sua tríplice goela e o fogo entoa louvores a Deus pelas três línguas do relâmpago... AS TRÊS COMPONENTES NECESSÁRIAS À EVOLUÇÃO DO PSIQUISMO UNIVERSAL SÃO FINALMENTE DECODIFICADAS A PARTIR DO USO DA KUNDALINI, SENDO ESSE O ÚNICO MODO DE CORRIGIR E DE REDIMENSIONAR O DNA DO CRIADOR... AS SERPENTES ENTRELAÇADAS TRÊS VEZES SIGNIFICA A PERCEPÇÃO DAS TRÊS GUNAS RAJAS, [SATTVA] E [TAMAS], que a mitologia ariana hindu explica como sendo OS TRÊS PADRÕES DE ENERGIA QUE MOVEM ABSOLUTAMENTE TUDO QUE EXISTE dentro dessa criação... AS TRÊS LÍNGUAS DO RELÂMPAGO SIGNIFICAM QUE ATRAVÉS DAS FORÇAS RAJAS, [SATTVA] E TAMAS... OS RELÂMPAGOS AJEITAM O PROBLEMA DO CRIADOR. FOI ENTÃO QUE FOI VISLUMBRADA A SOLUÇÃO PARA O SEU ENIGMA, PARA SUA DOENÇA"; A 12ª HORA: "com os três fatores... o fim da criação vai ser carimbado pela força de um ser chamado Chiva" [RC-102].
 - 0 códigos novos (O-3).
 
-## Ampliação — P2012-02-19 (Xadrez Cósmico de Brahma, Vishnu e Shiva)
+### P2012-02-19 (Xadrez Cósmico de Brahma, Vishnu e Shiva)
 
 - **[As três gunas compõem tudo] (U0005)** «Segundo a concepção dos nossos irmãos arianos hindus, existem três gunas que formam ou compõem absolutamente tudo que existe.» — as três gunas (RC-151) 'formam ou compõem absolutamente tudo que existe' — e o que podemos perceber é só 4% da matéria e energia do universo.
 
-## Ampliação — P2021-04-10 (O Fechamento dos Portais e o Impasse no Exílio Espiritual de Len Mion — Aprofundamento)
+### P2021-04-10 (O Fechamento dos Portais e o Impasse no Exílio Espiritual de Len Mion — Aprofundamento)
 
 - **[A tamásica impera desde os 9 bilhões de anos] (U0006)** «Então, nos primeiros 9 bilhões de anos da criação do universo, o Big Bang manteve uma velocidade, vamos assim dizer, de expansão.» + «Mas de 9 bilhões de anos para cá começou a ter uma um aumento na velocidade da acelerou, a expansão acelerou e tá tudo se destruindo mais rapidamente.» — "Isso quer dizer que o império da energia básica começou a ser exercido depois de 9 bilhões de anos após o início do universo e nós já estamos a 13.7 13.8"; "das três forças essa é a mais forte"; o carimbo que garante que aquilo acaba é de Sávna (que mergulhou antes de Mavatma, ainda no tempo em que Prabrágina caído se reconstruíra como Brama).
 - **[A força tamásica: a força escura que desagrega] (U0006)** «Ou seja, ela mexe desse nível aí até a força gravitacional mais forte no sentido de ser algo anti gravitacional, ou seja, a força tamática é aquela força escura que faz com que tudo se desagregue.» — mexe nas forças nuclear forte e fraca, nos três quarks que formam prótons e nêutrons; "é uma coisa que você vai ter que lidar com ela até o fim da história desse universo"; ninguém sabe "o que é que essa força vai fazer daqui a 297 milhões de minutos do tempo terreno ou 243 milhões de dias do tempo terreno" (U0006: «e dizer com precisão o que é que essa força vai fazer daqui a 297 milhões de minutos do tempo terreno ou 243 milhões de dias do tempo terreno.»); "Não há ninguém no paraíso" que compreenda todas as implicações dela (U0006: «Não há ninguém no paraíso.»).
@@ -90,7 +91,8 @@ Ficha baseada em B024 (obra primária). As porcentagens (5/27/68) vêm do cruzam
 
 ---
 
-## Atualização — P2024-09-28 (A Raça Inabalável dos Sethianos Emancipados)
+## Atualização
+### P2024-09-28 (A Raça Inabalável dos Sethianos Emancipados)
 
 - **Força entrópica = força tamásica de Shiva:** "a força tamásica de Shiva é a entropia dessa criação... existe uma lei entrópica que diz que o que cai de entropia num sistema, ninguém consegue mexer nessa equação" (RC-160 — nova aresta RC-160 ↔ RC-151);
 - Shiva como "reciclagem vinculada à entropia cósmica, vinculada à força tamásica" (reforço de P2023-12-02).

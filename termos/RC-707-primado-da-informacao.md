@@ -21,7 +21,8 @@ A palestra substitui o esquema clássico de quatro elementos da realidade — es
 O humano poderia emitir novas informações para participar da reparação da obra e do Criador.
 
 
-## Ampliação — P2025-02-15
+## Ampliação
+### P2025-02-15
 
 - **O 5º elemento (P2025-02-15):** "quais são os elementos formadores da realidade universal? São cinco. Sempre se achava que era quatro: espaço, tempo, matéria e energia. Mas a ciência de vanguarda diz que a informação é quem forma o quê? O tempo, a matéria, a energia e o espaço."
 - **De onde vem a informação:** "da mente que está fora, agindo sobre o campo acásico, criando matéria, tempo e energia aqui dentro. Como a gente falou no início, o nosso criador faliu. Ninguém assumiu esse processo. O processo está solto. É preciso que daqui de dentro a gente tome conta."

@@ -33,19 +33,20 @@ Forma preferida: **Kit Reencarnatório de Elétrons**.
 A fala usa “o mesmo kit de elétrons”. “Reencarnatório” explicita editorialmente a função descrita sem alterar o conteúdo.
 
 
-## Ampliação — P2025-03-15
+## Ampliação
+### P2025-03-15
 
 - **A mecânica da assinatura quântica (P2025-03-15):** "os elétrons que um dia já compuseram outros corpos desse mesmo espírito, obrigatoriamente desaparecem de onde estão e aparecem lá no óvulo de mamãe que acabou de ser fecundado"; "cada espírito usa o mesmo kit de elétrons para sempre imantar-se nos corpos diferentes que aparentemente ele produz a cada vida, mas no fundo são os mesmos elétrons".
 - **Fofoca eletrônica:** "os elétrons dizem: lá vem ele ou lá vem ela" (a assinatura quântica do eu particularizado é informada ao sistema de interligação — "tipo a cor do corante").
 - **Espiritismo clássico:** "o espiritismo não diz isso... diz o que foi possível ser dito no século XIX"; "isso deve ser como incerteza, deixa que o futuro confirme ou não".
 - **Roda de Samsara:** "livrar-se disso ninguém se livra. Isso aí é a roda de Samsara. Bem-vindos." (Ver RC-618/RC-712.)
 
-## Ampliação — P2023-02-11 (Agente Humano Jesus e os Arcontes)
+### P2023-02-11 (Agente Humano Jesus e os Arcontes)
 
 - **[O acréscimo que só a condição humana dá] (U0033)** «Ao muito pelo contrário, ele acrescentou uma série de coisas que só a condição humana, a experiência humana pode dar a um uma consciência.» — Jesus ressuscitou o corpo para devolver a Sofia o kit de elétrons recebido sob a forma de genoma: devolveu-o intacto, "sem nenhuma sujeira", e acrescentado de tudo o que só a experiência humana pode dar a uma consciência.
 
 
-## Ampliação — P2020-04-04 (Javé, Sophia e Jesus: a Trindade Jamais Percebida (palestra Q&A))
+### P2020-04-04 (Javé, Sophia e Jesus: a Trindade Jamais Percebida (palestra Q&A))
 
 - **«a revolta dos elétrons é uma autoproteção de Javer»**
 - Amplia a mecânica dos **elétrons**: a "revolta dos elétrons" (rejeição das marcações viciadas) é uma **autoproteção de Javé** para permitir a reconstrução de uma mente universal emergente.
@@ -86,7 +87,8 @@ A fala usa “o mesmo kit de elétrons”. “Reencarnatório” explicita edito
 - “Assinatura Quântico-Biológica do Espírito” foi absorvida em `RC-199` neste ciclo.
 - A frase imediatamente posterior sobre a recusa de certas encarnações contém uma ruptura do arquivo em `U0733–U0734`; não completar sem áudio.
 
-## Reforço — P2025-02-15
+## Reforço
+### P2025-02-15
 
 Na explicação sobre Jesus e Sophia, a ressurreição é descrita como devolução de um kit de elétrons emprestado por um corpo biodemo, enquanto o eu de Jesus seria apropriado pelo espírito ligado a Sophia. A arquitetura é específica e não deve ser generalizada.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

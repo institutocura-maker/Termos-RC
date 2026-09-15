@@ -25,15 +25,16 @@ Na cosmologia de Ellam, o conjunto dos humanos que se comportam dentro do mesmo 
 - **[P2024-07-14] Unidades:** U0025–U0050.
 - **[P2024-07-14] Proveniência:** palestra de Jan Val Ellam; transcrição STT pré-curada; devolutiva do curador registrada em 2026-08-20 (ficha autorizada).
 
-## Ampliação — P2024-07-14
+## Ampliação
+### P2024-07-14
 
 - **[P2024-07-14] O rebanho humano × o rebanho espiritual (U0025–U0050):** "o rebanho humano de pessoas físicas encarnadas existe, mas existe também um perigosíssimo rebanho espiritual de consciências"; "ainda que falem o nome de Deus ou de Buda ou de Krishna ou de Jesus ou de Maomé 24 horas por dia... isso não quer dizer que eles sejam consciências dignificadas"; "muitos deles falam em Alá o dia inteiro, mas matam em nome de Alá, esfolam em nome de Alá"; rebanho identificado por "padrão de produção proteica"; "o rebanho não cresce no sentido de evolução vertical... ele cresce só no sentido de horizontalização das suas práticas"; "o rebanho não deixa você crescer".
 
-## Ampliação — P2022-11-20 (A Incompreendida Nova Aliança proposta por Jesus)
+### P2022-11-20 (A Incompreendida Nova Aliança proposta por Jesus)
 
 - **[O membro típico do rebanho] (U0007)** «Pergunto então: como se comporta o membro típico do rebanho humano?» — a pergunta do autor "sob a ótica nitiana" (STT = nietzschiana; grafia sem emenda): "a resposta seria o modo com que os cristãos islâmicos se comporta terrivelmente simplório, sem ousadia, sem criatividade" (STT "cristãos islâmicos" = cristãos e islâmicos; sem emenda); "É um modo que vicia o ser humano a pedir sempre. É um modo medroso e é um modo covarde, submisso, porque a gente tem medo de ser independente" (U0007: «É um modo que vicia o ser humano a pedir sempre.»); na atualidade, "uma parte da humanidade totalmente arrebanhada à moda cristã... Outra parte totalmente arrebanhada à moda islâmica".
 
-## Ampliação — P2023-12-25-04 (Aula 04 — O Nascimento do Cristianismo)
+### P2023-12-25-04 (Aula 04 — O Nascimento do Cristianismo)
 
 - **«rebanho humano»** — «esse é o pior retrato do rebanho humano da atualidade».
 - Aula 04 usa «rebanho humano» no contexto do julgamento da humanidade (mundo administrado), corroborando RC-193.

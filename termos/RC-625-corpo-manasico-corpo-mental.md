@@ -23,17 +23,19 @@ A live identifica este nível como origem do ímpeto criativo, após a tomada de
 - **Fonte da decisão:** Devolutiva-01 + observação direta do curador.
 
 
-## Ampliação — P2025-05-31
+## Ampliação
+### P2025-05-31
 
 - **Corpo manásico (P2025-05-31):** "o corpo manásico permite a esse eu búdico expressar-se mentalmente"; no fatiamento de consciência, a projeção do laboratorial ficava "só com a cópia do búdico, do manásico, sem o corpo átmico" (RC-604).
 
 
-## Ampliação — P2024-07-14
+### P2024-07-14
 
 - **[P2024-07-14] O corpo manásico (U0140–U0200):** "se eu sou apegado a conceitos, a verdades, eu marco no meu mental inferior"; "se eu sou esclarecido, lúcido e meu tirocínio é limpo, não é dualista burro, marco no mental superior"; "a possibilidade de dignificação de uma consciência passa pelo que o eu humano consegue, ao longo da vida, trabalhar com o seu corpo búdico superior e o seu corpo manásico superior"; "as disciplinas de meditação budista, as linhas do yoga tradicional, coisas como Mentalma" ensinam a manter o inferior sob controle e despertar os superiores — "se a prática for devocional, ferrou, porque você não vai desenvolver seus potenciais".
 ---
 
-## Atualização — P2023-12-02 (Thot, o Enigmático Hermes Trismegisto)
+## Atualização
+### P2023-12-02 (Thot, o Enigmático Hermes Trismegisto)
 
 - **Rá = eu; Amon = corpo despedaçado:** "que é o corpo manásico que para Prabrajna ou para Javé, lá fora antes da criação disso tudo, tinha e que foi fragmentado, aí junto com o eu dele. Rá é o eu, Amon é o corpo despedaçado";
 - **Javé a reconstruir:** "enquanto Javé não for reconstruído e se achar isso ou aquilo... a humanidade vai ser a massa de manobra, onde todos os testes vão ser feitos para que tenham padrões genéticos por trás de todas as sensações existenciais" (nova aresta RC-625 ↔ RC-001);
@@ -42,13 +44,14 @@ A live identifica este nível como origem do ímpeto criativo, após a tomada de
 ---
 ---
 
-## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+## Ampliação
+### P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
 
 - **[P2023-12-03 · CORPO MANÁSICO / CORPO MENTAL NA FALA DE 03/12/2023]** «o eu do criador com o seu corpo manásico que foi despedaçado, totalmente reconstruído.» (U0038) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2023-12-02`); a entrada desta fonte é de **conteúdo**, não de data.
 
 ---
 
-## Ampliação — P2024-03-02 (O Drama Espiritual de Jesus)
+### P2024-03-02 (O Drama Espiritual de Jesus)
 
 - **[Corpo manásico despedaçado — queda de Prabrajna]:** «Quando esse rapaz criou algo que não devia, duas coisas desse eu aqui caíram na criação. Esse corpo manásico projetado se espatifou aqui dentro e a sensação desse eu também caiu aqui dentro. O corpo búdico tá em coma.» — ver RC-152 (Prabrajna), RC-623 (Corpo Átmico), RC-624 (Corpo Búdico).
 

@@ -33,7 +33,8 @@ Com isso:
 * **Grafia STT:** 'Septoaginta' = Septuaginta. 47 livros (46 + Enoque); 'vulgata' = Bíblia em latim do séc. da era cristã, 73 livros.
 * **Trava aplicável**: nenhuma além das gerais do despacho.
 
-## Ampliação — P2025-05-10 (Mistérios do Apocalipse)
+## Ampliação
+### P2025-05-10 (Mistérios do Apocalipse)
 
 - **[A Septuaginta e o livro de Enoque] (U0003)** «Mas na época que Jesus nasceu, existia uma coletâine em grego chamado Septoaginta, que era composta não de 46 livros como Antigo Testamento, mas de 47, porque o livro de Enoque fazia parte.» — a Septuaginta (RC-096) tinha 47 livros — não 46 — 'porque o livro de Enoque fazia parte'; Jesus lia em hebraico/aramaico.
 

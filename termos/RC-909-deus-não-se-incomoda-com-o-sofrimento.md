@@ -15,7 +15,8 @@ atualizado = "2026-09-13"
 ## Definição Sintética
 Deus Não Se Incomoda com o Sofrimento — conceito desenvolvido na palestra «Delírio Humano a Insensatez Espiritual da Busca Religiosa» (P2023-10-15).
 
-## Ampliação — P2023-10-15
+## Ampliação
+### P2023-10-15
 **Fonte:** palestra «Delírio Humano a Insensatez Espiritual da Busca Religiosa» (15/10/2023).
 **Trecho verbatim:** «A trágica pergunta é: por que que Deus não se incomoda com sofrimento dos seres de Deus?»
 

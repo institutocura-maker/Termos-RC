@@ -24,14 +24,15 @@ Os Demos habitam o universo antimaterial (Brahmaloka) e são a matéria-prima da
 - **Idioma de origem:** grego daimon → latim daemon; no RC, "demo" = "demente"
 
 
-## Ampliação — B052 (Homoafetividade: O Segredo Perdido do Éden)
+## Ampliação
+### B052 (Homoafetividade: O Segredo Perdido do Éden)
 
 - **[B052 p. 40]** `n.e.` sobre a fala de Despina: "o ser se refere à 'cultura demo' que então existia entre os membros da chamada geração do Olimpo, conforme descrito na mitologia grega."
 - **[B052 p. 40–41]** nessa cultura a força de atração surgiu "antes mesmo de a questão 'macho e fêmea' se estabelecer"; o Criador "não é humano, e também não é macho nem fêmea".
 - RC-044 (Cultura Demo) e RC-051 (Despina) permanecem **sem ficha**; B052 **não** entra nas fontes de RC-051. "Seres de outras paragens" (p. 41): **quarentena ufológica**.
 
 
-## Ampliação — B035 (O Big Data do Criador)
+### B035 (O Big Data do Criador)
 
 - **[B035 p. 14]** «diversas classes demoníacas», com genética mental das mutações «lenta e discretamente produzidas» pelo anjo-clone rebelde; o criador passa a monitorar seres que «podiam pensar e se multiplicar».
 - **[B035 p. 15]** «Com o surgimento dos demônios, esse modelo foi atingido de morte para sempre!» — o modelo dos «filhos-robôs» / «uma só vontade».
@@ -39,46 +40,46 @@ Os Demos habitam o universo antimaterial (Brahmaloka) e são a matéria-prima da
 - **[B035 p. 17]** famílias demoníacas «padeciam de doenças» e a genética dos corpos demo não permitia expressar aquisições espirituais — **quarentena clínica**. RC-019 permanece **sem ficha**. Sem fusão com B052 / B044. Fonte **B035** já constava na tabela-mestra.
 
 
-## Ampliação — B023 (O Dharma e as Castas Hindus)
+### B023 (O Dharma e as Castas Hindus)
 
 - **[B023 p. 5–6]** Introdução: disciplina existencial criada para «demônios feito gente»; o sistema de leis herdado pelos humanos era «destinado a um outro tipo de psiquismo – o demo».
 - **[B023 p. 24]** «ética demo» / «honra demo» como base das castas; «nós, humanos, deles herdamos essas convenções».
 - Sem materializar RC-322 / RC-044. Sem fusão com B052 / B044. Fonte **B023** já constava na tabela-mestra.
 
 
-## Ampliação — B021 (Tempos Difíceis no Olimpo)
+### B021 (Tempos Difíceis no Olimpo)
 
 - **[B021 p. 13]** nas mitologias originais os entes eram classificados como demônios (demos); a palavra «deus» surge depois, com as religiões. «Dementes» = **quarentena clínica**.
 - **[B021 p. 18]** ensaio: «todo ser demo tem um quê de "demência"» = **clínica** (construto cosmológico, jamais diagnóstico).
 - **[B021 p. 41]** cap. 6: «diferença de ordem corporal e psíquica existente entre demos e humanos»; «Demônios e humanos também são figuras à parte, que conviviam, mas não se compreendiam». Falas de Zeus **isoladas**. Sem materializar RC-040 / RC-044 / RC-145. Sem fusão com B020 / B052. Fonte **B021** já constava na tabela-mestra.
 
 
-## Ampliação — P2021-05-15 (As Etnias Hiperbóreas e os Anunnakis)
+### P2021-05-15 (As Etnias Hiperbóreas e os Anunnakis)
 
 - **[P2021-05-15 · O PROBLEMA DEMO COMO HERANÇA QUE INVIABILIZA]** "O único problema é que todos eles tinham um grande fator de herança do problema da genética demo." (U0003)
 - **[P2021-05-15 · A AUSÊNCIA DE DUALISMO MORAL]** "Eles não tem esse tipo de dualismo na cabeça." (U0003)
 - **[P2021-05-15 · O PACTO DAS ESTIRPES DE DEMO ANTIGA]** "Então, a hibridagem, o acordo, o pacto que muitas das estirpes de demo antiga eh foram fazendo ao longo desses 50.000 anos, exatamente para poder ocupar uma cidade, uma ilhota daquela." (U0003)
 
 
-## Ampliação — P2020-04-25 (Os Desdobramentos da Rebelião de Lúcifer)
+### P2020-04-25 (Os Desdobramentos da Rebelião de Lúcifer)
 
 - **[P2020-04-25 · A MENTE DEMO COMO O RUÍDO QUE OS BIODAMOS FORAM CRIADOS PARA AMORTECER]** "inquietude da mente demo ancestral." (U0006); "ansiedade, nervosismo, estresse." (U0006) · ⭐ **NOTA DE ANTERIORIDADE — P2020-04-25:** antecipa **13 meses** a atual fonte oral mais antiga da ficha (`P2021-05-15`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
 - **[P2020-04-25 · A DEMÊNCIA FILOSÓFICA E O PADRÃO DE INQUIETAÇÃO]** "O nome disso é reptiliano." (U0006) — A fonte nega que Javé tenha sido «reptiliano» e usa o termo para ansiedade: registro terminológico **do uso**, não da teoria.
 
 
-## Ampliação — P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
+### P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
 
 - **[P2022-03-26 · DEMOS NA FALA DE 26/03/2022]** "os autistas do paraíso e os dementes que caíram e foram surgindo a partir de um código podre do criador que é demente e implica que todo mundo que erde esse código tem padrões e traços de demência e por isso os demos se metamorfoseiam desse universo vizinho, são demência." (U0005) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
 
-## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+### P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
 
 - **[P2023-12-03 · DEMOS NA FALA DE 03/12/2023]** «criaram um tipo de condição para eles de ter órgãos sexuais para poder fazer iguais aos mamíferos do universo vizinho.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
 
-## Ampliação — P2025-06-14 (PALESTRA SOBRE A QUEDA DO CRIADOR-Refatorada)
+### P2025-06-14 (PALESTRA SOBRE A QUEDA DO CRIADOR-Refatorada)
 
 - **[Demos: dementes, do DNA de Javé] (U0080)** «Os seres demos, que habitam o universo antimaterial, são intrinsecamente "dementes" (do grego daemon = "demente") e foram criados a partir do DNA de Javé.» — os demos (RC-049) são intrinsecamente 'dementes' (do grego daemon = 'demente') e foram criados a partir do DNA de Javé, herdando a doença do Criador.
 
-## Ampliação — P2020-04-04 (Javé, Sophia e Jesus: a Trindade Jamais Percebida (palestra Q&A))
+### P2020-04-04 (Javé, Sophia e Jesus: a Trindade Jamais Percebida (palestra Q&A))
 
 - **«disputa dos seres demo pelos campos mórficos»**
 - Situa os **Demos** na tese: a "história do universo" é a disputa dos seres demo pelos campos mórficos das espécies; os demos são especialistas em criar campos mórficos e novas classes de vírus.

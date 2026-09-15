@@ -23,7 +23,8 @@ A afirmação integra a "Mensagem do Codificador de Zion": "Se antes a intençã
 - **Variações:** espiritismo = expressão do Quarto Logos; o espiritismo e o Quarto Logos; "espírito de Kardec" (reconceituação)
 
 
-## Ampliação — B016 (O Quarto Logos)
+## Ampliação
+### B016 (O Quarto Logos)
 
 - **[B016 p. 102]** (voz de Olm) “O espiritismo, adrede engendrado para ser uma expressão do Quarto Logos, foi abraçado pelas características do Terceiro Logos, porquanto inevitável.”
 - **[B016 p. 102]** a intenção era “disciplina esclarecedora, que fugisse do culto da fé e da crendice”; “a busca da verdade […] não pode ser substituída pela fé, que deveria ser tão somente um estágio.”

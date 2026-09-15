@@ -23,7 +23,8 @@ Coletivo da tradição hindu apresentado, na Teologia Comparada de Ellam, em cor
 - **correspondência RC:** Titãs, exclusivamente como **Teologia Comparada de Ellam**.
 
 
-## Ampliação — B087 (A Revolta do Anjo Decaído)
+## Ampliação
+### B087 (A Revolta do Anjo Decaído)
 
 - **[B087 p. 57–58 · a teogonia do volume]** "a estirpe dos titãs era muito mais antiga que a nossa. **Eles faziam parte da segunda geração de deuses, e eram seres poderosos, descendentes de Urano. Cronos, que pertencia à terceira geração de deuses, foi aprisionado no tártaro pelo seu filho Zeus, que era da quarta geração.** Após derrotar Cronos, Zeus entrou em guerra com os titãs, vencendo-os e também aprisionando quase todos no tártaro – **os irmãos Prometeu e Epimeteu foram poupados por interesse** do 'chefe' do Olimpo."
 - **[B087 notas p. 61]** as notas mitológicas da ed. 2022: Urano ("deus primordial (protogenos) do céu. 'Casou-se' com Gaia (a Terra)"); Cronos/Reia (engolia os filhos; "Zeus, que Reia conseguiu salvar, enganando Cronos – ela enrolou uma pedra num pano"); o tártaro ("a personificação do 'Mundo Inferior'... onde são aprisionados os inimigos do Olimpo").
@@ -55,6 +56,7 @@ Coletivo da tradição hindu apresentado, na Teologia Comparada de Ellam, em cor
 
 Asura é termo de tradições hindus com história e sentidos próprios. A equivalência integral **Asuras = Titãs**, bem como a ligação genealógica ou cósmica narrada, não é consenso histórico, filológico ou religioso: é **Teologia Comparada de Ellam**.
 
-## Ampliação — P2024-09-29
+## Ampliação
+### P2024-09-29
 
 - **[P2024-09-29] AE-AM05 — U0236–U0239; U0279–U0280:** Acrescenta Titãs=Asuras e Olimpianos=Devas como paralelismo exclusivo da Teologia Comparada de Ellam.

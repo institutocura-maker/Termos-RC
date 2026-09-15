@@ -16,7 +16,8 @@ atualizado = "2026-08-18"
 
 Complexo geodésico de Gizé atribuído, na RC, à engenharia de **Thoth** (RC-463) — tecnologia anunnaki preservada no Egito.
 
-## Atualização — P2023-12-02
+## Atualização
+### P2023-12-02
 
 - **Confirmação:** Thot como engenheiro/mentor técnico — "a compreensão cosmológica quântica da ancestralidade, a geração de alfabetos e processos organizacionais diversos no campo da matemática e da astronáutica" (bloco final);
 - "Nas pirâmides não tem nada inscrito, é tudo escondido" — nos templos egípcios há registros que "a turma ainda não sabe descrever ou entender aqueles sinais" (leitura do autor);

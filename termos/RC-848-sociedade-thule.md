@@ -33,7 +33,8 @@ Com isso:
 * **Grafia STT:** 'sociedade Turno' / 'sociedade Tudo' = Sociedade Thule. Influência esotérica de Rudolf von Sebottendorf (1918); a 'Turciade' e o governo oculto.
 * **Trava aplicável**: nenhuma além das gerais do despacho.
 
-## Ampliação — P2018-12-16 (Terra Atlantis - Era Sapiens)
+## Ampliação
+### P2018-12-16 (Terra Atlantis - Era Sapiens)
 
 - **[Sociedade Thule, a 'sociedade Turno'] (U0003)** «Comecei a comprar ali um inglês português que existia sobre Hitler, mas eu percebi a influência esotérica, entre aspas, da sociedade Turno, da sociedade frio, que a gente vai falar daqui a pouco, sobre sobre Rita, porque Valeno também tinha falado isso, mas eu não tinha ainda descoberto as coisas como eu gostaria para ter certeza se eu não tava distorcendo as coisas que o Mal tinha dito.» — Sociedade Thule (STT 'Turno/Tudo'): a influência esotérica de Rudolf von Sebottendorf (1918), que estudava a 'Turciade' e o governo oculto desde os hiperbóreos; Himmler comandava o castelo de Wewelsburg como laboratório paranormal.
 

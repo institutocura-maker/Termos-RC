@@ -31,51 +31,52 @@ A **ressonância mórfica** na RC não é apenas o mecanismo de herança de háb
 - **Na fonte oral (P2023-10-14):** «campos mórficos» — a fonte usa o **plural de campo** e não pronuncia «Sheldrake» nesta palestra; o vínculo bibliográfico com o autor fica onde já está no cadastro (B041 e suas notas), **sem** retroprojeção.
 
 
-## Ampliação — P2023-10-14 (A Esquecida Honra dos Anunnaki)
+## Ampliação
+### P2023-10-14 (A Esquecida Honra dos Anunnaki)
 
 - **[P2023-10-14 · CAMPOS MÓRFICOS COMO INSTRUMENTO DE OPERAÇÃO (materialização autorizada)]** "Nós estamos falando aqui de campos mórficos que são usados por seres desse universo vizinho." (U0047) — 🆕 anterioridade: P2024-04-14
 - **[P2023-10-14 · O ROUBO DO SENSO CRÍTICO]** "Essas locas que sabem disso estão acompanhando o progresso dos seres humanos e roubando o senso crítico da para eles poderem passar melhor." (U0047)
 - **[P2023-10-14 · A NOVELA DAS 8]** "Nós somos a novela das 8 para eles." (U0047)
 
 
-## Ampliação — P2020-04-25 (Os Desdobramentos da Rebelião de Lúcifer)
+### P2020-04-25 (Os Desdobramentos da Rebelião de Lúcifer)
 
 - **[P2020-04-25 · O HUMANO NÃO TEM PROCESSADOR: TEM **CAMPO MÓRFICO** DA ESPÉCIE]** "vinculados ao campo mórfico da nossa espécie que faz o mesmíssimo se Isso que um processador faz." (U0008) — ⭐ Equação fundante: `campo mórfico ≡ o que o processador faz para as outras espécies`. **Anterioridade calculada**: a formulação mais antiga da ficha até hoje é de 2023 — esta fala a antecipa em anos (ver contador emitido acima). · ⭐ **NOTA DE ANTERIORIDADE — P2020-04-25:** antecipa **3.5 anos** a atual fonte oral mais antiga da ficha (`P2023-10-14`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
 - **[P2020-04-25 · RUPERT SHELLRAKE E O SÉTIMO SENTIDO [REVISAR: grafia → CHANCELA 2026-09-06 · F039-L3: AGUARDA-ÁUDIO (STT preservado como falado) — ver nota]]** "Rupert Shellrake e Shellake é um dos papas desse assunto que eu estou falando, ele diz que desde que a física quântica produziu o postulado da compreensão do conceito de que a comunicação é não local, a intercomunicabilidade não local, ele nos seus postulados referentes aos campos mórficos de cada espécie, para simplificar, ele propõe que nós, seres humanos, além de termos os cinco sentidos daagem do corpo, sexto da cognição, da Temos um sétimo sentido que é o da, entre aspas, comunicação à distância, a intercomunicação, a intercomunicabilidade não local, ou seja, a telepatia, troca de informações." (U0006) — Grafia do STT preservada; a hipótese *Sheldrake* é **declarada**, não aplicada (D-7).
 
 
-## Ampliação — P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
+### P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
 
 - **[P2022-03-26 · RESSONÂNCIA MÓRFICA (AGENTE DA REBELIÃO) NA FALA DE 26/03/2022]** "e o campo morfagenético da da espécie de toxoplasma Gond? E se tiver uma mente por trás, controlando aquela espécie." (U0007) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
 
-## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+### P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
 
 - **[P2023-12-03 · RESSONÂNCIA MÓRFICA (AGENTE DA REBELIÃO) NA FALA DE 03/12/2023]** «esse processador funciona como campo mórfico, que registra toda a atividade mental de todos os membros da família IEL, devolve para esses membros uma ou outra orientação e os membros, a familiel tem isso que a a gente chama hoje de WhatsApp de rede, né?» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
 
-## Ampliação — P2022-05-07 (Shiva, o Projeto Talm e os Mistérios de Awaylengam)
+### P2022-05-07 (Shiva, o Projeto Talm e os Mistérios de Awaylengam)
 
 - **[Ressonância Mórfica — o campo mórfico] (U0003)** «que a gente não consegue entender desse processo de interação que esses seres têm, é que surgiu isso que a gente chama hoje de campo mórfico.» — o campo mórfico como produto do processo de interação dos Trimurtianos; no Q&A, a fonte distingue campo (registro quântico espiritual) de genoma (mistura biológica).
 
-## Ampliação — P2024-06-16 (O Projeto TALM, os Fenvans e os Humanos)
+### P2024-06-16 (O Projeto TALM, os Fenvans e os Humanos)
 
 - **[Ressonância Mórfica — gerada pelo Projeto Talm] (U0006)** «Aí todos os que pulavam, referentes aquele campo mórfico, pulavam meio que juntos ou não sei o quê dentro de, ou seja, a coisa foi se sofisticando e foi assim que o projeto Talm gerou os famosos campos mórficos, que até hoje ninguém sabe o que diabos isso significa e nem como sugiro.» — os campos mórficos surgiram quando Morlens substituiu a idealização individual fenvã pela geração em série de espécies.
 
-## Ampliação — P2022-12-03 (O Ocaso do Criador e a Rebelião dos Elétrons)
+### P2022-12-03 (O Ocaso do Criador e a Rebelião dos Elétrons)
 
 - **[O campo mórfico humano: o computador quântico mais precioso] (U0020)** «Sob essa perspectiva, o campo mórfico da espécie humana e o seu respectivo painel de controle é o campo quântico ou computador quântico mais precioso de tudo que existe.» — o campo mórfico da espécie humana é o computador quântico mais precioso que existe; quem o controla são seres do outro lado, e "a única coisa que tá enfrentando esse campo quântico" é a pulsação dos biodemos feitos humanos (processador Vril).
 
 
-## Ampliação — P2022-10-01 (A Wyrd e a Espiritualidade)
+### P2022-10-01 (A Wyrd e a Espiritualidade)
 
 - **[A teia tenta distribuir; os campos mórficos redistribuem] (U0002)** «O jogo da vida que a teia quântica da tenta distribuir e os campos mórficos de cada espécie tentam redistribuir, é exatamente O quê?» — o mecanismo dos campos mórficos: "Quando surge um bom comportamento, um novo comportamento, essa teia quântica, ela tenta devolver para que esse novo comportamento seja imantado, passa a existir em um membro daquela espécie que ainda não aprendeu esse comportamento"; "Essa teia, ela, entre aspas, se pudesse rezar, ela rezaria para que os seus os membros fossem ousados e criassem. É o tal insight criativo quântico" (U0002: «É o tal insight criativo quântico.») — "criassem o inusitado para que novas mutações surgissem no DNA"; os demos "estão tentando apropriar no ser deles comportamentos de outras espécies" — "a ressonância que existe entre um mamífero e outro, essa ressonância não existe entre um demo e outro".
 
 
-## Ampliação — P2022-09-18 (Os Níveis de Estresse Extremo da Criação)
+### P2022-09-18 (Os Níveis de Estresse Extremo da Criação)
 
 - **[O campo mórfico dos demos em perigo] (U0031)** «Ei, o campo mórfico dos demons tá em perigo.» — "já tá em perigo há muito tempo, porque eles têm um frágil campo mórfico. Mas a vida que surgiu no nosso universo foi constituído um outro tipo de campo mórfico, ou seja, a vida biológica tem um campo mórfico mais forte que o dos demos" (U0031: «Mas a vida que surgiu no nosso universo foi constituído um outro tipo de campo mórfico, ou seja, a vida biológica tem um campo mórfico mais forte que o dos demos»); "o campo mórfico dos clones foi criado por Javé... mas qual foi o drama? Colapsou a forma e colapsou o campo"; o exemplo da macaca: "vários macaquinhos, um belo dia receberam desse campo uma influência de pegar a batata e lavar na água para tirar o sal" (U0031: «Vários macaquinhos, um belo dia receberam desse campo uma influência de pegar a batata e lavar na água para tirar o sal»).
 - **[Espécie extinta: o campo mórfico colapsa] (U0031)** «o tempo inteiro, enquanto a espécie esteja existindo, quando a espécie é extinta e não tem mais nenhum membro enviando via ponte quântica do seu DNA com o campo quântico o seu comportamento, porque esse corpo morreu, o campo mórfico daquela espécie tende a também colapsar e deixa desistir.» — a regra guardada para a segunda parte: "guardem isso aí pra gente usar daqui a pouco. Vamos falar de colapsos múltiplos"; "em tese, as mentes que criaram os campos mórficos das espécies que hoje existem nesse universo, elas faliram todas, que são as mentes desse universo vizinho" (U0031: «em tese, as mentes que criaram os campos mórficos das espécies que hoje existem nesse universo, elas faliram todas, que são as mentes desse universo vizinho»); "os campos mórficos e a vida estruturada sobre a forma de corpos. estão em crise"; Rupert Sheldrake: "isso que Rupert Shell Drake e outros no século XIX e XX começaram a falar que a gente chama de campo morfogenético, ou melhor dizendo, de campos mórficos, é o campo que organiza a vida" (U0031: «é o campo que organiza a vida»).
 
-## Ampliação — P2021-02-28 (Tragédia Anunciada - As Fórmulas Mentais do Poder Demo)
+### P2021-02-28 (Tragédia Anunciada - As Fórmulas Mentais do Poder Demo)
 
 - **[Constelação familiar e o campo mórfico: desentrelaçamento quântico] (U0073)** «Talvez a a a própria Solange Matilde que faz a questão da constelação e eu tô fazendo um curso de de constelação também e vejo que quando finaliza a constelação eh dá a sensação que é o que a gente quando a gente acessa o campo mórfico daquela situação familiar ali, a constelação se desenrol se desenrola um um um desentrelaçamento quântico ali e as de alguma forma aquela situação apazígua.» — a resposta do autor: "Então sim, a constelação familiar é um instrumento maravilhoso, tem a ver com a tragédia grega, é a própria tragédia grega sendo encenada dentro de mecanismos que estão sendo aplicados por terapeutas, com isso tudo é muito agora, não é todo tipo de prática de constelação familiar que produz de constelação que produz necessariamente bons resultados, porque aí depende de uma série de circunstâncias, desde quem está no comando os atores, o propósito daquilo, tá?" (U0078: «Então sim, a constelação familiar é um instrumento maravilhoso, tem a ver com a tragédia grega, é a própria tragédia grega sendo encenada dentro de mecanismos que estão sendo aplicados por terapeutas, com isso tudo é muito agora, não é todo tipo de prática de constelação familiar que produz de constelação que produz necessariamente bons resultados, porque aí depende de uma série de circunstâncias, desde quem está no comando os atores, o propósito daquilo, tá?»); Bert Hellinger (STT «Bert Heringer») e Rupert Sheldrake (STT «Rubert Sheldrake») citados (paráfrase U0073); RC-381 Ressonância Mórfica.
 

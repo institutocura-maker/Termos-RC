@@ -33,11 +33,12 @@ Com isso:
 * **Materialização imediata (devolutiva):** RC-865 (Pulsação Digna) sai da fila aberta e ganha ficha (ficha=False → True) com a pérola validada neste ciclo (a onda que inibe os seres).
 * **Trava aplicável**: nenhuma além das gerais do despacho.
 
-## Ampliação — P2022-11-20 (A Incompreendida Nova Aliança proposta por Jesus)
+## Ampliação
+### P2022-11-20 (A Incompreendida Nova Aliança proposta por Jesus)
 
 - **[A onda da pulsação digna que inibe] (U0003)** «Esses seres, eles têm que receber a onda da pulsação digna de um ser humano ou de vários seres humanos para que eles essa pulsação os inibe e eles não podem fazer nada.» — os seres do outro lado precisam receber a onda da pulsação digna humana para serem inibidos — "Quando você cansa de pulsar, eles podem chegar e bater" (U0003: «Quando você cansa de pulsar, eles podem chegar e bater.»); "é preciso uma certa contundência na pulsação que sai de um ser humano para que eles respeitem" (prosa); o efeito-fogueira: "Na hora em que a gente faz isso, nada de negativo consegue chegar perto da gente, porque é como se fosse um fogo saindo de uma fogueira que dói em quem dela se aproxima e uma pessoa estaciona alguns metros de uma fogueira porque o fogo dói nela" (U0007: «Na hora em que a gente faz isso, nada de negativo consegue chegar perto da gente, porque é como se fosse um fogo saindo de uma fogueira que dói em quem dela se aproxima e uma pessoa estaciona alguns metros de uma fogueira porque o fogo dói nela.»).
 
-## Ampliação — P2022-09-18 (Os Níveis de Estresse Extremo da Criação)
+### P2022-09-18 (Os Níveis de Estresse Extremo da Criação)
 
 - **[Pulsar com dignidade: o assunto para frente] (U0048)** «Como é que se pulsa com dignidade?» — a única via de limpeza da memória dos elétrons: "o eu humano parece ser o único, pelo menos até agora... capaz de limpar a memória dos elétrons e nela edificar os padrões conceituais supremos necessária a redenção de todos" (U0048: «Mas assim, o eu humano parece ser o único, pelo menos até agora»); "um eu de um jacaré não faz isso. O eu de um macaquinho não faz isso, o eu de um cachorrinho não faz isso. O eu de um anunque não faz isso. Eu só o eu humano" (U0048: «Eu só o eu humano»); "somente a partir desse ponto os elétrons que estão naquele corpo de um eu que pulsa com dignidade a cada pulsação da vida"; "é possível que a raça humana um dia chegue nesse ponto? A raça humana não. Mas alguns humanos sim" (U0048: «A raça humana não. Mas alguns humanos sim»); a massa crítica: "basta que uma parte dele resolva, que o campo mórfico dos elétricos devolve para" (span truncado no bruto em "devolve para"; sem emenda).
 

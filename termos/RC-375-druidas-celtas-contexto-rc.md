@@ -34,7 +34,8 @@ Com isso:
 * A grafia `toatas de Dané` é a do STT e entra como veio; as Túatha têm cinco formas registradas no ciclo, nenhuma unificada.
 * **Trava aplicável**: D-8 (método na ficha, etnicidade fora) · ficha que nomeia grupo humano.
 
-## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+## Ampliação
+### P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
 
 - **[P2023-12-03 · DRUIDAS CELTAS (CONTEXTO RC) NA FALA DE 03/12/2023]** «início da lenda ou da mitologia celta que diz que faz gnomos passaram a existir na Irlanda.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2023-06-03`); a entrada desta fonte é de **conteúdo**, não de data.
 - **[P2023-12-03 · O QUE OS DRUIDAS RECEBERAM]** «dois colégios arquidruídicos para estudar o conhecimento que receberam dos toatas de Dané, o que Javé tava fazendo com Enoque era a mesma coisa, era mandando os anjos dele passar os conhecimentos que eles tinham para Enoque, para Enoque.» (U0004) — D-8: os colégios entram como o *método pedido*, não como instituição étnica: os Túatha pediram que os humanos criassem um jeito de estudar o que recebiam. A etnicidade fica na transcrição, não na ficha.

@@ -37,7 +37,8 @@ Com isso:
 * **Grafia STT:** 'Rita' / 'Rit' / 'Riti' / 'Rito' = Hitler. Obedecia a uma voz (Lemion) que o conduzia como 'novo Messias' alemão.
 * **Trava aplicável**: nenhuma além das gerais do despacho.
 
-## Ampliação — P2018-12-16 (Terra Atlantis - Era Sapiens)
+## Ampliação
+### P2018-12-16 (Terra Atlantis - Era Sapiens)
 
 - **[Hitler obedecia a uma voz] (U0003)** «Valen me dizia: "Olha, Hitler obedecia a um ser, Hitler obedecia a uma voz.» — Hitler (STT 'Rita/Rit') obedecia a uma voz — Lemion (RC-074) — que o preservava e o conduzia como 'novo Messias' alemão; o palestrante ancora na pesquisa do livro 'A Mente de Hitler' (Langer/CIA).
 

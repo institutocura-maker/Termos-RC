@@ -34,15 +34,16 @@ Com isso:
 * posse é tratada como metáfora no glossário do ciclo, não como evento administrativo desta cosmologia; a ficha não decide a questão.
 * **Trava aplicável**: D-6 (posse revogada, sem relação de fundamento).
 
-## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+## Ampliação
+### P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
 
 - **[P2023-12-03 · O QUE ELE EXPLICOU DEPOIS]** «ele explicou como Jesus ressuscitado, o porquê de não agir, porque não queria entrar em guerra com os arcontes do universo vizinho, que não queriam deixar que ele, Jesus, o ressuscitado, assumisse a vestimenta de verdadeiro herdeiro da trimurte e seu suzerano desse universo, como ele foi engendrado para ser.» (U0004) — A ressurreição é lida como resposta à inação: Sofia explica, como ressuscitado, por que não assume. Entrada com aspa e endereço; nenhuma relação nova com RC-005 além da que o cadastro já tinha.
 
-## Ampliação — P2025-05-10 (Mistérios do Apocalipse)
+### P2025-05-10 (Mistérios do Apocalipse)
 
 - **[Ressurreição: termo inadequado] (U0003)** «Porque ele precisava sumir com o corpo defunto para devolver os elétrons na forma do código para Rockman, que havia emprestado esse geno.» — 'ressuscitar' é termo inadequado (RC-280): o corpo defunto sumiu para 'devolver os elétrons na forma do código para Rockman', que havia emprestado o genoma.
 
-## Ampliação — P2023-12-25-03 (Aula 03 — Dias Difíceis: Crucificação e Ressurreição)
+### P2023-12-25-03 (Aula 03 — Dias Difíceis: Crucificação e Ressurreição)
 
 - **«Pôncio Pilatos queria logo produzir para ninguém acreditar que Jesus ressuscitou»**
 - **«Jesus o Vivo, o Ressuscitado que através de Madalena, criou uma outra revelação totalmente diferente»**

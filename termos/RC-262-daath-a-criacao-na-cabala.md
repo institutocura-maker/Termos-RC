@@ -16,7 +16,8 @@ atualizado = "2026-08-28"
 
 Daath (Da'at) na Cabala: a sefirá oculta do conhecimento — na leitura da palestra, um conceito à parte da Otz Chim: Da'at significa incongruência — Da significa um abismo de luz (a luz que criou o que não devia, caiu onde não devia e ficou refém do próprio abismo).
 
-## Ampliação — P2025-05-31
+## Ampliação
+### P2025-05-31
 
 - **Na palestra (P2025-05-31):** na Otz Chim original da Cabala não é uma sefirá — Enoque apresentou a Shimon bar Yochai a Otz Chim com Da'at como um conceito à parte.
 - Da'at é o abismo onde essas 10 emanações atuam; só Assiah e Yetzirah são os dois mundos dentro do abismo.
@@ -24,7 +25,7 @@ Daath (Da'at) na Cabala: a sefirá oculta do conhecimento — na leitura da pale
 - Livro do autor: B013 Tzimtzum (o barulho quântico da queda ou do exílio forçado de uma divindade em sua própria criação).
 
 
-## Ampliação — B013 (Tzimtzum: O Exílio Forçado de uma Divindade)
+### B013 (Tzimtzum: O Exílio Forçado de uma Divindade)
 
 - **[B013 p. 6]** a Cabala explica a Criação **(Daath)** e o Criador **(Kether/Javé)**.
 - **[B013 p. 133]** citação cabalística reproduzida pelo autor: “Daath é ‘um Abismo de Luz’ entre a Tríade Superior, e a multiplicação desta em Forças ou Emanações que constituirão a Criação”; “Daath constitui a fratura pela qual se realiza o fenômeno da ‘Separatividade’, engendrando a Ilusão do Espaço e do Tempo.”
@@ -34,7 +35,7 @@ Daath (Da'at) na Cabala: a sefirá oculta do conhecimento — na leitura da pale
 - **Quarentena teológica:** releitura gnóstica da Cabala. RC-190 (Kardec / Erraticidade, p. 134) permanece **sem ficha**. Prazos de desconstituição de Yetzirah: **quarentena científica**.
 
 
-## Ampliação — P2023-10-14 (A Esquecida Honra dos Anunnaki)
+### P2023-10-14 (A Esquecida Honra dos Anunnaki)
 
 - **[P2023-10-14 · «ABISMO LUMINOSO»: A DEFINIÇÃO ORAL DE DAATH (D-6 aprovado)]** "Abismo luminoso." (U0087); "Abismo é profundo, mas DAF é um abismo estranho." (U0087); "Então, por isso que é luminoso, porque lá no fundo do abismo a luz de do Deus caiu." (U0087) — 🆕 anterioridade: B013 (só livro) — a ficha passa oficialmente a ter fonte-palestra, por decisão do Curador em 28/08/2026 —  ⚠️ A grafia do bruto é «DAF»; o Curador confirmou a leitura Daath.
 - **[P2023-10-14 · A CRÍTICA AOS CABALISTAS]** "E os cabalistas não entendem isso de forma crítica, de forma romântica." (U0087) — ⚠️ quarentena teológica (retenção): não vai para a apostila.

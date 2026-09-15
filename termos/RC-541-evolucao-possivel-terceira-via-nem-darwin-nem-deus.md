@@ -24,7 +24,8 @@ O livro (18 capítulos) percorre: as teorias da evolução, o "Jogo das Mutaçõ
 - **Obs.:** título do livro também traz a fórmula "Nem Deus, nem Javé, nem Darwin"
 
 
-## Ampliação — B019 (Nem Deus, nem Javé, nem Darwin)
+## Ampliação
+### B019 (Nem Deus, nem Javé, nem Darwin)
 
 - **[B019 p. 6]** Fórmula do autor: "Nem 'Darwinismo', nem 'Criacionismo': a questão é bem mais séria e controversa!"
 - **[B019 p. 170]** Fecho do cap. 14: "Não existe milagre nem bênçãos vindas de lugar nenhum [...] O que se encontra posto é a 'evolução possível'. Nada mais!"
@@ -48,7 +49,8 @@ O livro (18 capítulos) percorre: as teorias da evolução, o "Jogo das Mutaçõ
 | Genótipo da Gentileza (GG) | RC-748 | associado |
 | As Cinco Lentes da Realidade | RC-761 | ← relaciona-se-a |
 
-## Atualização — P2023-05-13 (Bastidores da Revelação Cósmica)
+## Atualização
+### P2023-05-13 (Bastidores da Revelação Cósmica)
 
 - **Terceira via confirmada:** as Cinco Lentes (RC-761) mostram que nenhuma resposta isolada (mito, teísmo, deísmo, acaso, supercomputador) resolve — a RC é a soma integrada, e a **consciência humana** é o fator ausente em todas: nem o deus teísta, nem o deísta, nem o acaso, nem o supercomputador a possuem (seção 3.2);
 - **Evolução vertical:** a Evolução Possível se realiza pela elevação de consciência, respiração (RC-166) e despersonificação — não por seleção natural nem por ação divina;
@@ -57,13 +59,14 @@ O livro (18 capítulos) percorre: as teorias da evolução, o "Jogo das Mutaçõ
 ---
 ---
 
-## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+## Ampliação
+### P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
 
 - **[P2023-12-03 · EVOLUÇÃO POSSÍVEL (TERCEIRA VIA: NEM DARWIN, NEM DEUS) NA FALA DE 03/12/2023]** «A rebelião de Lúcifer agora para ter continuidade seria propositiva.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2023-05-13`); a entrada desta fonte é de **conteúdo**, não de data.
 
 ---
 
-## Ampliação — P2021-01-30 (A Mensagem TALM e os Fios Soltos do Destino)
+### P2021-01-30 (A Mensagem TALM e os Fios Soltos do Destino)
 
 - **[Evolução Possível — o livro concluído] (U0003)** «Eu ia inclusive desenvolver esse tema num livro que concluí agora chamado Nem Deus, nem Jahé, nem Darwin.» — a palestra anuncia o livro "Nem Deus, nem Javé, nem Darwin — a evolução possível" como concluído; fonte oral mais antiga do verbete.
 

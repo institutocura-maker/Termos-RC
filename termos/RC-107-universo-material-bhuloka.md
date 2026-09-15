@@ -23,7 +23,8 @@ Um dos dois universos paralelos resultantes da queda do Criador. É o cenário d
 - **Variações:** Bhuloka (sânscrito); nosso universo; universo biológico
 
 
-## Ampliação — B060 (Personagens e Terminologias da Revelação Cósmica)
+## Ampliação
+### B060 (Personagens e Terminologias da Revelação Cósmica)
 
 - **[B060 p. 8 · verbete "Universo Material"]** equivalências: Assiah (Cabala) · **Bhuloka (✓ RC-107)** · Daath (RC-262) · **Hutukara (Yanomami, BR)** · **Hyron (Druidística — o par de Hyren; cross B085)** · Iav (Eslava) · **Midgard (Marte+Terra — Nórdica; RC-470 ✓)** · Musphelhein [sic] (Nórdica) · Realidade subjacente (RC).
 - **[B060 · quarentena]** idem RC-106; a dupla Hyren (antimaterial) / Hyron (material) na druidística — a "colisão" da B085.

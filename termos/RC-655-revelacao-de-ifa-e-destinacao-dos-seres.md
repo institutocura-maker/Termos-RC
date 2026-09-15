@@ -22,33 +22,34 @@ Extraído da live P2025-10-25 — 2ª Edição Estagiários do Kaos.
 - Forma preferida: **Revelação de Ifá e Destinação dos Seres**.
 
 
-## Ampliação — P2026-07-25
+## Ampliação
+### P2026-07-25
 
 - **Renovação do Ifá (P2026-07-25):** "Javé ou Obatalá pediu a Orumilá para criar revelação de Ifá para que os povos da África fossem devotos de Obatalá, de Orumilá, de Olodumaré, para que Cristo não dominasse os povos da África" — geopolítica da devoção (absorvida em RC-474).
 
 
-## Ampliação — P2025-02-15
+### P2025-02-15
 
 - **Orumilá e os 256 caminhos (P2025-02-15):** "os 256 caminhos profetizáveis de Orumilá... na revelação de Ifá, ele explica isso aqui: é para quem precisa ter um passado, um dia cumprido no futuro, porque o passado está pendente, então obriga que um tal futuro aconteça para resolvê-lo. Mas esse é o tipo do destino que precisa ser cumprido. Mas se você no presente sempre atua sem gerar fatos que ficam pendentes, você mesmo cria o seu destino. Ele não precisa [estar] já escrito."
 
 
-## Ampliação — P2024-11-30
+### P2024-11-30
 
 - **Ifá/odus (P2024-11-30 — pergunta da plateia):** "quando Orumilá e os olodus e molés [STT] começaram a produzir a revelação de Ifá desses 256 [caminhos], a preocupação deles ainda era pros seres deste universo vizinho e pouco pros humanos. Isso iria ser feito através dos odus, mas infelizmente esse plano não foi adiante, porque quando Obatalá traiu Orumilá e lançou o Islã, isso criou um problemaço para o palácio de Alafim, que fica no nível de Ilê"; "Orumilá disse: 'Lá vem outra merda parecida com Ragnarok'... houve uma desmobilização"; o autor: "o que mais esses seres me pedem é para eu atualizar os 256 caminhos", mas não vai conseguir ("obra monumental").
 
 
-## Ampliação — P2024-08-03
+### P2024-08-03
 
 - **[P2024-08-03] Os portais de Ifá (U0540–U0543):** "a doutrina dos orixás, a famosa revelação dos corpos de Ifá, que mostra a união que era possível existir entre a comunidade que vivia em Orum e a que vivia no Aiê"; "quando você vinha do mundo invisível pro mundo visível, você passava por um riacho e tinha Exu, portal de uma certa encruzilhada entre mundos"; "há diversos tipos de encruzilhadas... tá descrito no corpo de Ifá, os tais portais".
 - **[P2024-08-03] Espíritos de árvores (U1061–U1065):** "a revelação de Ifá descreve até mesmo o trânsito de espíritos de árvores que migravam do Orum para o Aiê e nasciam ainda como árvores por aqui, seguindo as suas rondas existenciais, conforme Blavatsky... e o que viria a ser a teosofia"; Camille Flammarion e Léon Denis (amigos de Kardec) registraram espíritos que viveram em árvores; a comparação com os Ents do Senhor dos Anéis.
 - **[P2024-08-03] Exu e o aché (U1528–U1531):** "o ser humano é produto de uma série de encruzilhadas de Exu"; "Exu seria o cara que realizou o aché, que transformou alguém do inconsciente pro consciente, mas aconselhado por Orunmilá".
 
 
-## Ampliação — P2025-10-25
+### P2025-10-25
 
 - **[P2025-10-25 — FONTE ORIGINAL] A Revelação de Ifá e a destinação dos seres (Pergunta 5 — Adilson):** "a revelação de Ifá e a destinação dos seres é o assunto número um da espiritualidade... a revelação de Ifá é a maior revelação que existe, só que nós desconhecemos"; "isso foi meio que perdido também na noite dos tempos: a cultura iorubá surgiu lá na Arábia Saudita, desceu para a África, terminou vindo para cá no Brasil, e isso foi transformado em Umbanda, Candomblé"; palestra "A Revelação de Ifá e a Destinação dos Seres" em 29/11 (Rio de Janeiro) — o autor prevê lançar o livro sobre o tema ("eu não sei se nessa vida eu fico só fazendo palestras").
 
-## Ampliação — P2025-05-10 (Mistérios do Apocalipse)
+### P2025-05-10 (Mistérios do Apocalipse)
 
 - **[Ifá e a destinação dos seres] (U0003)** «Ela tem como base 256 caminhos profetizáveis ou caminhos chamados de odus na linguagem iorubá, que foi produzida em torno dessa visão mais profunda.» — a revelação de Ifá (RC-655) tem '256 caminhos profetizáveis' (odus, em iorubá): a destinação dos seres — distinta do profetismo de obediência judaico-cristão.
 
@@ -93,20 +94,22 @@ Consultar relações na Base.
 ## Observações
 Termo candidato, sujeito a cruzamento com obras e palestras adicionais.
 
-## Reforço — P2024-11-30
+## Reforço
+### P2024-11-30
 
 Ifá é apresentado como atualização humana de Wyrd por Orunmilá, com 16 Molés/Olodus `[REVISAR → RESOLVIDO 10/09/2026 · F038-L5: “Olodus” (16) é termo canônico (RC-741, Projeto Orunmilá–Olodus); “Molés” = forma STT paralela, preservada — ver nota]` e 256 caminhos. A distinção entre destino obrigatório e destino criado pelo eu é ampliada.
 
 ---
 
-## Atualização — P2024-09-28 (A Raça Inabalável dos Sethianos Emancipados)
+## Atualização
+### P2024-09-28 (A Raça Inabalável dos Sethianos Emancipados)
 
 - **Palestra futura anunciada:** "sábado de novembro vai ser a Revelação de Ifá... o ritmo da inevitabilidade do código primordial" (Rezende) — elo com a Base (RC-655) e os 250 caminhos de Orunmilá (RC-665);
 - Contexto: entidades que "personificaram entidades protocionais no mundo biológico" (referência a entes/Senhor dos Anéis; Léon Denis; Flammarion — `[REVISAR → CHANCELA 10/09/2026 · F043-L5: AGUARDA-EVIDÊNCIA EXTERNA (espíritos em árvores em Denis/Flammarion não localizado em 10/09/2026; alegação do expositor) — ver nota]`).
 
 ---
 
-## Atualização — P2025-11-29 (A Revelação de Ifá e o Destino dos Seres) — FONTE PRIMÁRIA + ABSORÇÕES NT-IF02/NT-IF03
+### P2025-11-29 (A Revelação de Ifá e o Destino dos Seres) — FONTE PRIMÁRIA + ABSORÇÕES NT-IF02/NT-IF03
 
 **Marco:** esta palestra é a **fonte primária definitiva** do verbete (antes: live P2025-10-25, ficha minimalista).
 
@@ -124,7 +127,8 @@ Ifá é apresentado como atualização humana de Wyrd por Orunmilá, com 16 Mol�
 
 ---
 
-## Reforço — P2025-07-18 — destino obrigatório e liberdade do presente
+## Reforço
+### P2025-07-18 — destino obrigatório e liberdade do presente
 
 - **[P2025-07-18 · U00016]** Na atualização atribuída a Orunmilá, a fala descreve a passagem de três processadores para **16 odus/olodus e 256 caminhos previsíveis**, vinculados às origens ancestrais e aos códigos que entrariam no universo biológico. O expositor afirma que determinados caminhos seriam destinos a cumprir, enquanto o ser humano que não gera novas pendências poderia construir outra destinação no presente.
 - **[Nota cruzada]** A “sincronicidade profetizável” é absorvida estritamente como ponte de leitura entre RC-655, RC-665, RC-658 e RC-718; não recebe código independente.

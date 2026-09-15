@@ -27,12 +27,13 @@ Mecânica técnica de funcionamento psíquico apresentada por Jan Val Ellam (P20
 - relação com karma/teia quântica (RC-559) e protocolo mental (RC-517).
 
 
-## Ampliação — P2025-05-31
+## Ampliação
+### P2025-05-31
 
 - **Vrittis e Cittas (P2025-05-31 — contexto):** o autor cita “Vatireca” [STT — REVISAR → CHANCELA 10/09/2026 · F039-L5: AGUARDA-ÁUDIO (uso coerente: ver RC-712/RC-563) — ver nota] como tipo de ignorância (pior que Trishna) — relacionar com a gestão dos estados mentais (ver RC-712); registro na Colecionar Incertezas.
 
 
-## Ampliação — P2023-11-19 (A Máquina da Criação: O Desmonte do Mundo)
+### P2023-11-19 (A Máquina da Criação: O Desmonte do Mundo)
 
 - **[P2023-11-19 · cap. 4.1 — O TRATAMENTO MAIS DENSO DA TRÍADE]** "os humanos foram 'caracterizados para ter as manias de Jah, os hábitos de Jahé, os problemas de Jah' [STT; Javé], sendo as **vrittis** (sensações e pensamentos negativos no campo da emoção) transformadas em **tattvas** [STT: 'tátuas'/'estátuas'/'távos'/'táos'] e instaladas nos seres humanos como **cittas** [STT: 'citas'] ou núcleos mentais. Estas são as 'fórmulas mentais primitivas' do 'criador caído'." — a cadeia completa vrittis→tattvas→cittas com a função de cada elo.
 - **[P2023-11-19 · cap. 3.1]** a biologia sintética visa substituir o "código dos **estátuas** [tattvas] de Javé que está presente nas células do mundo biológico" — os tattvas como o CÓDIGO NA CÉLULA (a ponte biológica do conceito).
@@ -41,7 +42,7 @@ Mecânica técnica de funcionamento psíquico apresentada por Jan Val Ellam (P20
 - **Devolutiva O-3: o termo Tattva NÃO ganha código — absorvido ESTRUTURADO nesta ficha** (o elo do meio da tríade). 0 códigos.
 
 
-## Ampliação — P2023-09-09 (O Colapso da Trimurti e Suas Consequências)
+### P2023-09-09 (O Colapso da Trimurti e Suas Consequências)
 
 - **[P2023-09-09 · O CITTA = A COMPLEXIDADE IRREDUTÍVEL]** "O que nos faz humanos reside num conjunto de protocolos específicos engendrados sobre a égede [?] do que hoje chamamos de **complexidade irredutível**... essa complexidade irredutível foi chamada há cerca de 2.400-700 anos atrás por **Patanjali [STT 'Pantângele'] no yoga sutra como sendo um tipo de citta específica que existia no ser humano**" — a identificação CITTA = complexidade irredutível; a analogia da RATOEIRA ("só funciona com todas essas peças"); "essa central... é a joia do processo e é ela que precisa ser ressignificada e retrabalhada, porque **essa é a única complexidade irredutível que existe, que é útil à ressurreição do eu de Javé**".
 - **[P2023-09-09 · A ORIGEM: AS DUAS BEBERAGENS]** "**Pandora, há cerca de 49.000 anos, tomou umas poções [STT 'pelps'] que o Epimeteu [STT 'Pimeteu'] havia preparado. E depois, há 23.000 anos atrás, Eva... Não foi maçã... a química, a influência que a gente chama hoje de psicodélica** no cérebro desse homo sapiens que existe há 200.000 anos, ele levou **duas ondas de mexida há 49-48.000 e há 23.000 anos**. E aqui surgiu essa citta, esse centro cerebral... que envolve a **epífese, ou seja, a glândula pineal**" — quem "aprender a mexer nesse seu centro... consegue virar borboleta, levitar, andar sobre as águas".
@@ -49,7 +50,7 @@ Mecânica técnica de funcionamento psíquico apresentada por Jan Val Ellam (P20
 - 0 códigos novos (O-3). Quarentena científica (a pineal/psicodélicos como leitura).
 
 
-## Ampliação — P2023-07-05 (O Despertar dos Potenciais da Consciência Pessoal)
+### P2023-07-05 (O Despertar dos Potenciais da Consciência Pessoal)
 
 - **[P2023-07-05 · RAMANA MAHARSHI — o eu falso e o verdadeiro]** "Ramana Maharshi, um dos grandes mestres do pensamento indo, diz: **para além dos primeiros pensamentos e sentimentos que Rogério pensa que tem e com eles se confunde, para além disso tudo é que se encontra o verdadeiro EU.** ... esse eu [do primeiro impulso] é o eu falso... **Ninguém controla esse primeiro impulso.**" — e: **"99% do que se passa ao longo do dia no psiquismo de cada um de nós NÃO é produzido pela vontade**... É inevitável, não tem quem a detenha, **mas você pode sair do meio da correnteza, observá-la e despertar o seu eu profundo.**"
 - **[P2023-07-05 · O EXERCÍCIO DOS OLHOS FECHADOS]** "[Ramana] fechava os olhos e dizia: **'O que está por trás da escuridão dos meus olhos fechados?'** Com o tempo, deu duas respostas: (1) **por trás da escuridão reside um outro nível de realidade** — a realidade espiritual, quântica, interior; (2) **quem está por trás é EU MESMO** — não o Rogério que papai e mamãe nomearam, mas 'aquele mais profundo que despertou quando aprendi a não me deixar levar pelos impulsos'."
@@ -57,12 +58,12 @@ Mecânica técnica de funcionamento psíquico apresentada por Jan Val Ellam (P20
 - 0 códigos novos (O-3). Quarentena cultural (Ramana Maharshi como referência).
 
 
-## Ampliação — P2025-02-22 (A Vinda de Sophia e o Equilíbrio Universal)
+### P2025-02-22 (A Vinda de Sophia e o Equilíbrio Universal)
 
 - **[P2025-02-22 · O NIRODHA DE PATANJALI APLICADO À GENÉTICA CÓSMICA]** "QUAL A FUNÇÃO DE CADA SER HUMANO? RECOLHER A [SUJEIRA] QUE TÁ ESPALHADA, REUNIR ESSA [SUJEIRA] NO SEU GENOMA, RESSIGNIFICAR CADA GENE E DEVOLVER [SUJEIRA] TRANSFORMADA EM BELEZA PRO OCEANO DE ELÉTRONS. É PARA ISSO QUE NÓS EXISTIMOS, USANDO AS EXPRESSÕES DE [PATANJALI] NOS [SUTRAS] DO YOGA. **NIRODHA É O ATO DE VOCÊ RECOLHER AS VRTTIS QUE SE TRANSFORMEM EM CHITTAS NA SUA MENTE E COM A SUA PULSAÇÃO VOCÊ AS DEVOLVE PARA O UNIVERSO. VRTTIS É ATIVIDADES MENTAIS, OU SEJA, AS MEMÓRIAS DOS ELÉTRONS. CHITTAS SÃO OS NÚCLEOS MENTAIS QUE A GENTE VAI GUARDANDO ESSAS VRTTIS POR ASSOCIAÇÃO**" [⚠️⚠️⚠️ a definição completa do nirodha + a identificação vrttis=as memórias dos elétrons]; "E O EU HUMANO É AQUELE QUE É OU PRODUTO DISSO QUE ELE RECOLHE, OU SEJA, [SUJEIRA] PURA, OU É UM EU QUE VAI ATUAR SOBRE A [SUJEIRA] QUE ELE RECOLHE, RESSIGNIFICANDO COM A SUA TEMPERATURA INTERIOR, COM O SEU CÓDIGO FILOSÓFICO DE EXISTIR, COM A SUA PREOCUPAÇÃO DE SER DIGNO EM CADA INSTANTE. E ASSIM TUDO QUE SAI DE VOCÊ, AINDA QUE VOCÊ ERRE O TEMPO TODO, MAS SAI COM A SUA BOA INTENÇÃO NO CAMPO DA NOBREZA. E É ASSIM QUE A GENTE VAI [ALIMENTANDO] ESSE OCEANO"; "QUANDO UMA CERTA QUANTIDADE DE MASSA CRÍTICA DE HUMANOS CONSEGUIR FAZER ISSO, O PROBLEMA DOS DOIS UNIVERSOS ESTARÁ RESOLVIDO, MAS NÓS SOMOS MUITO POUCOS E NÃO VAI DAR TEMPO. Então, outras soluções aí vão ter que ocorrer. Ou não tem plano B, não. Vamos embora" [⚠️ a mass crítica insuficiente]; A ONDA E O OCEANO (o contexto): "o ser humano é só, a exemplo de UMA ONDA QUE PENSA QUE É UMA ONDA quando uma onda é só O OCEANO SE MOVIMENTANDO... QUE OCEANO PROMOVE O NOSSO CORPO SENDO UMA ONDA? É O OCEANO DOS ELÉTRONS. TODOS OS ELÉTRONS DESSE UNIVERSO ESTÃO INTERLIGADOS PELO CHAMADO ENTRELAÇAMENTO QUÂNTICO... NADA SE CRIA, NADA SE PERDE, PORÉM TUDO SE TRANSFORMA. O QUE É QUE DIABOS SE TRANSFORMA? A MEMÓRIA DOS ELÉTRONS" (RC-160); "quando ocorre essa divisão celular, UM ESPÍRITO SE [IMANTA] A ISSO AQUI. Nessa hora que surge o eu de um novo cérebro. Esse cérebro irá produzir informações, irá adaptar informações de onde? DE TUDO QUE TÁ MEMORIZADO NOS CIRCUITOS ACÁSICOS" [os registros akáshicos].
 - 0 códigos novos (O-3 — a Devolutiva: "o Nirodha fortalece a ficha RC-760"). Quarentena: clínica (a linguagem como conceito do Mentalma).
 
-## Ampliação — P2025-06-14b (A Consciência Humana e a Chave da Decifração Universal)
+### P2025-06-14b (A Consciência Humana e a Chave da Decifração Universal)
 
 - **[Kapila e o Sankhya: o jogo de tattvas] (U0113)** «Capila, quando escreveu Sankia, descreveu toda a formação universal como sendo um jogo de tátivas.» — Kapila/Samkhya descreve a formação universal como jogo de tattvas (algoritmos dos cittas) — a leitura de Ellam que ancora o Nirodha ao método druídico.
 
@@ -95,7 +96,8 @@ A afirmação de que "cada transtorno mental é um citta que reina" é **metáfo
 
 ---
 
-## Atualização — P2025-11-29 (A Revelação de Ifá e o Destino dos Seres)
+## Atualização
+### P2025-11-29 (A Revelação de Ifá e o Destino dos Seres)
 
 - **Detalhamento completo de Patanjali:** "cada ser humano pratica o Nirodha, o recolhimento das vrittis no seu cérebro... elas vão se reunindo em núcleos mentais distintos que na obra de Patanjali ele é chamado de cittas";
 - **Humanos como "guardadores de vrittis":** "cada ser humano no seu cérebro é um guardador das famosas vrittis que são as atividades doentias do criador caído... a antiga mente do criador foi transferida pra mente de cada ser humano";

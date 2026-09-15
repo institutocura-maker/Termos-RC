@@ -34,18 +34,19 @@ Forma preferida: **Colapso do Caos Organizado**.
 “Caos organizado” é o arranjo temporário formado por dois universos, uma espiritualidade errática e os sistemas biológicos/informacionais que preservam e transformam a memória do Criador caído.
 
 
-## Ampliação — P2025-03-15
+## Ampliação
+### P2025-03-15
 
 - **O colapso em curso (P2025-03-15):** "nós estamos vivendo no limite em que esse colapso do caos organizado vai ter que destruir a maneira como esse caos se organizou até hoje em muitas das suas arquiteturas"; "o que estiver impedindo o progresso da vida, ou é ressignificado, ou é dimensionado de forma diferente, ou a vida não vai adiante".
 - **O experimento humano em perigo:** "se os humanos saírem de cena da vida universal, ferrou, porque não tem plano B — na verdade não existia nem plano A" (humanos surgiram "num acidente" — Eva e a beberagem do chamanismo).
 - **Humanos como "caos organizado da melhor maneira":** "nós somos o ápice, a melhor face, a última versão que a podridão conseguiu produzir"; "o genoma humano é a melhor formatação desses códigos podres".
 
-## Ampliação — P2024-11-09
+### P2024-11-09
 
 - **Colapso do Caos Organizado (P2024-11-09):** "o universo passou 13,8 bilhões de anos se organizando; agora, o colapso de tudo o que foi organizado pelo caos está em curso, porque tudo o que o caos construiu não serve para nada"; "as ilhas de negentropia mantêm o funcionamento desse universo até o esgotamento do seu combustível, que é o hidrogênio" (ver RC-725).
 
 
-## Ampliação — P2024-07-13
+### P2024-07-13
 
 - **[P2024-07-13] As colmeias (U1059–U1090):** "no ano 2007, quando as primeiras colmeias começaram a colapsar, até hoje, ano 2024, os cientistas não sabem por que as colmeias colapsaram"; "colmeia é algo extremamente equilibrado e simplesmente começou a colapsar no ano 2007"; relato do Canadá (junho de 2024; "todo dia colmeias estão colapsando"); "há um desequilíbrio profundo na arte da fundamentação da nossa realidade".
 - **[P2024-07-13] A entropia destrói (U1070–U1110):** "é um momento de colapso... mas colapso de quê? Daquilo que o caos conseguiu construir desde que o caos surgiu aqui. Então, o caos passou 13,8 bilhões de anos construindo, mas chegou um ponto em que a entropia agora tá destruindo tudo que foi construído. Nós vamos precisar reconstruir outros sistemas".

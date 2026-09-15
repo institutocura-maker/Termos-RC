@@ -23,7 +23,8 @@ A palestra identifica duas janelas principais: a escala equinocial e a zodiacal.
 - **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
 
 
-## Ampliação — P2022-12-17
+## Ampliação
+### P2022-12-17
 
 - **[P2022-12-17 — FONTE ORIGINAL] As janelas cósmicas (U0325–U0330; U0145–U0150):** "nós vimos as duas janelas principais através das quais seres que não são humanos observam... Zeus fez um pacto com Apolo que vai valer 2/3 ou que valeu 2/3 da era de Peixes, que começou dá 3.000 anos antes de Cristo e só terminou agora em 2012"; "esses seres... não contam o tempo da vida, seja deles ou nossa, pelos dias, semanas, meses, anos... eles sempre utilizaram essas duas medidas temporais, a equinocial e a zodiacal"; "as apostas começaram agora a ser feitas em eras zodiacais, ao invés das eras equinociais, para ter mais adrenalina na cabeça desses seres".
 

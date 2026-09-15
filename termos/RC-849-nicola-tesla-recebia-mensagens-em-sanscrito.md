@@ -35,7 +35,8 @@ Com isso:
 * **Grafia STT:** 'Nicola Tesla' (literal). Recebia mensagens em sânscrito e as reproduzia; morreu em 1943.
 * **Trava aplicável**: nenhuma além das gerais do despacho.
 
-## Ampliação — P2018-12-16 (Terra Atlantis - Era Sapiens)
+## Ampliação
+### P2018-12-16 (Terra Atlantis - Era Sapiens)
 
 - **[Nicola Tesla e as mensagens em sânscrito] (U0059)** «Vejam bem, Nicola Tesla nesse período recebia mensagens em sânscrito.» — Nicola Tesla (figura histórica) recebia mensagens em sânscrito e as reproduzia — no mesmo circuito mediúnico de Maria Orsic (RC-846); morreu em 1943.
 

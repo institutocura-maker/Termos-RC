@@ -23,12 +23,13 @@ A profecia conecta-se ao Juízo Final (na cultura cristã, relacionado ao retorn
 - **Variações:** 270 mundos da Criação; "moradas"/lokas envolvidas; público-alvo do Zohar
 
 
-## Ampliação — P2026-07-25
+## Ampliação
+### P2026-07-25
 
 - **Parameshthi (P2026-07-25):** "o senhor Brahma Parameshthi... cerca de 270 mundos que observam o que se passa na Terra" (Vyasa/Mahabharata) — alinhado ao registro do Zohar (RC-265).
 
 
-## Ampliação — B013 (Tzimtzum: O Exílio Forçado de uma Divindade)
+### B013 (Tzimtzum: O Exílio Forçado de uma Divindade)
 
 - **[B013 p. 10]** profecia VAYEHI 21, 8B-9A: o mensageiro será ouvido “nos 270 mundos da Criação.”
 - **[B013 p. 12]** os livros da Revelação Cósmica “estão sendo produzidos exatamente para chamar a atenção dos ‘270 mundos’ (‘moradas’ ou ‘lokas’) diretamente envolvidos com os problemas mal resolvidos do passado imemorial.”
@@ -37,7 +38,7 @@ A profecia conecta-se ao Juízo Final (na cultura cristã, relacionado ao retorn
 - **[B013 p. 146]** as populações dos 270 mundos “dependeriam do que os humanos compreendessem e, depois, registrassem na sua cultura”; para esse público “o enredo aqui contextualizado não causa espanto algum!”
 - **Quarentena teológica:** Juízo Final / mensageiro = leitura de Ellam. Sem código para “mensageiro do Juízo Final”.
 
-## Ampliação — P2022-12-03 (O Ocaso do Criador e a Rebelião dos Elétrons)
+### P2022-12-03 (O Ocaso do Criador e a Rebelião dos Elétrons)
 
 - **[A revelação cósmica como complemento de Enoque e Vyasa] (U0021)** «Falando claro e francamente a revelação cósmica, em uma de suas faces é um mero complemento do que Enoque Viaza fizeram lá atrás, de anunciar aos tais 270 mundos desse universo vizinho vinculados essa confusão aqui, que é o que foi dito no Zorrar, essa palestra para eles num primeiro momento.» — a revelação cósmica, numa de suas faces, é complemento do legado de Enoque e Vyasa: anunciar aos 270 mundos o que foi dito no Zohar; "tem que ser uma mesma história... contada de muitas maneiras para ver se nós entendemos" (grafias STT "Viaza" = Vyasa; "Zorrar" = Zohar).
 

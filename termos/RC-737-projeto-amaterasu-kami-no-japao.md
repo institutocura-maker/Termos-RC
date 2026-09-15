@@ -48,7 +48,8 @@ atualizado = "2026-09-13"
 
 [P2024-09-29] Cautela máxima: a história imperial japonesa e o Xintoísmo têm contextos próprios e não podem ser reduzidos à cosmologia do projeto. Descendência divina ou biológica não é tratada como fato histórico ou genético.
 
-## Ampliação — P2024-09-29
+## Ampliação
+### P2024-09-29
 
 - **Kojiki e Nihon Shoki (P2024-09-29):** "existem dois livros sobreviventes, os mais antigos escritos no Japão, cujas crônicas datam do século VI, mas a tradição oral é muito mais antiga, vem de alguns milênios: é o Kojiki e o Nihon Shoki"; "todos os dois têm uma preocupação básica: descrever a genealogia de todos os imperadores divinos e humanos que o Japão teve, sendo todos eles descendentes de Amaterasu".
 - **Amatsukami × Takamimusubi:** "o Kojiki fala dos amatsukami, chamados deuses do céu e seus descendentes — os deuses mais antigos, ainda que não sejam os primordiais. Os primordiais eles chamam takamimusubi. O takamimusubi representa os deuses primordiais que eram anteriores inclusive aos amatsukami: aqui estamos falando de Brahma, Vishnu, Shiva, Nix, Érebo, os filhos de Nix, Moros, Tânatos. Os amatsukami seriam as gerações de Urano, Cronos; e os Kami, a geração de Zeus para cá."

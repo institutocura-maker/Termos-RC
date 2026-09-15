@@ -33,7 +33,8 @@ Com isso:
 * **Grafia STT:** 'Temis'/'Tenes'/'Tex' = Têmis. Deusa dos juramentos; a 1ª mutação genética de racionalidade limpa.
 * **Trava aplicável**: nenhuma além das gerais do despacho.
 
-## Ampliação — P2017-10-14 (Da Base Atlan ao Colégio Druídico)
+## Ampliação
+### P2017-10-14 (Da Base Atlan ao Colégio Druídico)
 
 - **[Têmis, deusa dos juramentos] (U0135)** «Então ela passou a ser tida como a deusa dos juramentos, dos deuses.» — Têmis (STT `Temis`/`Tenes`) criou a primeira mutação genética de racionalidade limpa; é a deusa dos juramentos (não da justiça) e a primeira ligada ao oráculo de Delfos.
 

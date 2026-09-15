@@ -23,7 +23,8 @@ A 38ª Constatação de B016 contrasta as duas premissas: os três primeiros Log
 - **Variações:** liberdade de pensamento; crivo lógico da razão; livre-arbítrio (aproximação)
 
 
-## Ampliação — B016 (O Quarto Logos)
+## Ampliação
+### B016 (O Quarto Logos)
 
 - **[B016 p. 147]** 38ª Constatação: os três primeiros Logos “sempre trabalharam a partir da premissa básica e comum da dominação” (Brahma, Vishnu, Shiva).
 - **[B016 p. 147]** o Quarto Logos “rompe com esta premissa e estabelece outra bem diferente: fora da ‘liberdade mental’ não parece existir ‘salvação’”; “Por que a liberdade é essencial? Para que possa haver correção de rumos!”
@@ -31,7 +32,7 @@ A 38ª Constatação de B016 contrasta as duas premissas: os três primeiros Log
 - RC-254 (Dominação) permanece **sem ficha**.
 
 
-## Ampliação — B049 (Jesus e Nietzsche)
+### B049 (Jesus e Nietzsche)
 
 - **[B049 p. 9]** método: separar o pretendido pelo fundador-revelador do que fazem os seguidores; Nietzsche agrava o abismo; livre da «infecção da crença» — **clínica** (metáfora, não diagnóstico).
 - **[B049 p. 106]** transferir a cota da vida a «deus», Jesus, Buda ou Maomé faz o humano esquecer que é o «agente das transformações»; os que não dão conta entregam a tarefa a manipuladores. Sem fusão com B016. RC-370 permanece **sem ficha**.
@@ -72,7 +73,8 @@ A 38ª Constatação de B016 contrasta as duas premissas: os três primeiros Log
 | Postulados Quânticos como Manual Operativo | RC-703 | associado |
 | Abismo da Consciência Cósmica | RC-721 | ← relaciona-se-a |
 
-## Atualização — P2021-12-04
+## Atualização
+### P2021-12-04
 
 - **Unidades:** U0154–U0176; U0563–U0571; U0593–U0601.
 - **Contexto acrescentado:** A Liberdade Mental é contraposta aos Protocolos da Perfeição e associada ao Moksha e ao Genoma da Liberdade.
@@ -81,7 +83,8 @@ A 38ª Constatação de B016 contrasta as duas premissas: os três primeiros Log
 ---
 ---
 
-## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+## Ampliação
+### P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
 
 - **[P2023-12-03 · LIBERDADE MENTAL (PREMISSA DO QUARTO LOGOS) NA FALA DE 03/12/2023]** «eles são livres, mas eles obedecem o comando.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2021-12-04`); a entrada desta fonte é de **conteúdo**, não de data.
 

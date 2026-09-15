@@ -30,12 +30,13 @@ Episódio mítico hindu no qual Devas e Asuras cooperam no batimento do oceano d
 O STT alterna ou deforma nomes e funções. A identificação exata da serpente, o papel de Kurma/Vishnu e a enumeração completa dos produtos do batimento permanecem `[REVISAR → CHANCELA 10/09/2026 · F040-L5: INCOMPLETUDE REGISTRADA (não completado por fontes externas) — ver nota]`; não foram completados por fontes externas dentro da transcrição.
 
 
-## Ampliação — P2023-04-30 (O Senhor Krishna e as Expressões do Ser)
+## Ampliação
+### P2023-04-30 (O Senhor Krishna e as Expressões do Ser)
 
 - **[P2023-04-30 · A GARGANTA AZUL — o Neelakantha]** "Chiva [STT] já salvou o universo uma vez... quando surgiu um super ser que criou a AYURVEDA; surgiu AMRITA... MAS SURGIU UM VENENO que ninguém esperava... um vírus começou a se espalhar em toda a criação. E CHIVA ABSORVEU TUDO AQUILO, GUARDOU NELE MESMO — E POR ISSO ELE FICOU COM A GARGANTA AZULADA... senão ele teria morrido naquela época" — a expansão do veneno (o "vírus") além da narrativa clássica do batimento; Shiva como o Absorvedor (a ponte com a REVERSIBILIDADE GENÉTICA de RC-414: "Shiva absorveu um pouco").
 - 0 códigos novos (O-3). Quarentena: científica (o "vírus" como narrativa mítica, não patologia).
 
-## Ampliação — P2026-03-21 (Samudra Manthan A Enigmatica Alquimia de Vishnu)
+### P2026-03-21 (Samudra Manthan A Enigmatica Alquimia de Vishnu)
 
 - **[O batimento do oceano de leite: joias de uma alquimia] (U0008)** «Então, samudra mantã, os hindus chamam de o batimento de um oceano de leite do Qual o senhor virgino retirou maravilhas chamado ratas, joias de uma alquimia que produziu várias coisas e isso em tese mudou outras tantas coisas.» — o evento como transferência de produtos mentais entre locas: "Samudra Mantã é do que transferência de produtos mentais entre locas" (U0013: «Samudra Mantã é do que transferência de produtos mentais entre locas.»); a leitura interior: "o samudra mantã, ele não é só uma metáfora de um fato que na realidade aconteceu, mas se a gente quiser se lembrar da metáfora e se lembrar que o nosso interior é o oceano que precisa ser batido pelo Eu da gente, essa talvez seja a melhor metáfora que reste dessa palestra" (U0019: «Então, o samudra mantã, ele não é só uma metáfora de um fato que na realidade aconteceu, mas se a gente quiser se lembrar da metáfora e se lembrar que o nosso interior é o oceano que precisa ser batido pelo Eu da gente, essa talvez seja a melhor metáfora que reste dessa palestra.»).
 
@@ -72,7 +73,8 @@ O STT alterna ou deforma nomes e funções. A identificação exata da serpente,
 
 O episódio pertence à mitologia e às tradições religiosas hindus. As equivalências com Titãs, deuses gregos, sistemas nórdicos, portais ou processos cósmicos constituem **Teologia Comparada de Ellam**, não consenso da história das religiões. Nenhum efeito farmacológico ou biológico de Amrita é afirmado.
 
-## Ampliação — P2024-08-03
+## Ampliação
+### P2024-08-03
 
 - **[P2024-08-03] AE-FD05 — U0324–U0334; U0637–U0640:** Registra Samudra Manthana como resposta narrativa à dor/falência das descendências e amrita como alívio escasso, segundo Ellam. A relação já vigente entre os registros não é duplicada semanticamente.
 - **[P2024-08-03] O recurso desesperado (U0324–U0333):** Brama e descendentes "perceberam que estavam falidos... doía tudo e ninguém conseguia produzir nada de remédio"; "no hinduísmo surge a notícia do samudra manthã, que foi algo desesperador": uma super serpente batendo num líquido do universo vizinho "do jeito que você bate no leite para fazer manteiga"; daí surgiu o amrita, "um tipo de elixir que aplacava a dor de todas as espécies"; "assim que esse pouco de remédio surgiu, todas essas espécies começaram a brigar porque o remédio não dava para todo mundo".

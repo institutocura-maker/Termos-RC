@@ -23,7 +23,8 @@ Ellam pesquisou casos de abdução no interior do Nordeste (Paraíba, Rio Grande
 - **Variações:** abduções; sequestros extraterrestres; reparo espiritual
 
 
-## Ampliação — B005 (Fator Extraterrestre)
+## Ampliação
+### B005 (Fator Extraterrestre)
 
 - **[B005 p. 84–85]** cap. 9: entre 1960 e 1990, «muitas pessoas estavam sendo abduzidas, ou seja, levadas para dentro de naves alienígenas onde ali sofriam algum tipo de exame». **Quarentena ufológica crítica** (leitura, não facto).
 - **[B005 p. 86–87]** Ellam: «pano de fundo espiritual» por trás dos casos; abduções como «ocorrências cármicas permitidas por força dos mecanismos do necessário reparo energético-vibratório». Bob Pratt / *UFO Danger Zone* = **referência externa / biográfica**. Anunnaki / atlantes / cobaias = **ufológica — fora**. Kardec / Drosnin (p. 84) = **externas**. Sem materializar RC-098 / RC-360. Sem fusão com B003. Fonte **B005** já constava na tabela-mestra.

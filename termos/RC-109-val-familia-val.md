@@ -33,11 +33,12 @@ Com isso:
 * **Grafia STT:** 'Vol' / 'Família V' = Val. As quatro famílias da deflagração: Iel, Cromon, Mion e Chamon.
 * **Trava aplicável**: quarentena social — a leitura 'elitista' do percentual de biodemos na humanidade e dos 'mais habilitados' que levam a tocha da vida (linha U0149): dito, não endossado.
 
-## Ampliação — P2017-10-14 (Da Base Atlan ao Colégio Druídico)
+## Ampliação
+### P2017-10-14 (Da Base Atlan ao Colégio Druídico)
 
 - **[a família Val e a rebelião] (U0008)** «Família V não fez parte da deflagração do processo.» — a família Val (STT `Vol`/`V`) não participou da deflagração da rebelião; as quatro famílias envolvidas foram Iel, Cromon, Mion e Chamon.
 
-## Ampliação — P2018-12-15 (Terra Atlantis – Aprofundamento)
+### P2018-12-15 (Terra Atlantis – Aprofundamento)
 
 - **[Val, a última família biodêmica] (U0023)** «A última foi a Vol que foi criada h cerca de 230 milhões de anos.» — a família Val (RC-109): a última das ~250.000 espécies biodêmicas, criada há ~230 M anos na nave Asphezian (RC-025).
 
@@ -88,7 +89,8 @@ Com isso:
 | Conselho dos Cinco (comando da Frota Norte: 3 Val + 2 Yel) | RC-501 | associado |
 | Val Aten (último Val de Val-Ha) | RC-502 | ← é-um |
 
-## Ampliação — P2023-07-09 (A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons)
+## Ampliação
+### P2023-07-09 (A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons)
 
 - **[Valel + Eulian = mix genético — origem do nome Val]** «enciava e Liamo junto comel terminaram fazendo um mix do código genérico dos dois em termos mais recentes, em que o nome de Val ficou Val, porque Valel pegou de Lian na parte final e o nome de Eulian» — ver RC-089 (Processador Val), RC-365 (Fator Judas).
 - **[Família Val — criados um por um, cada um como cobaia]** «os VS foram criados um por um, porque cada um trazia em si uma receita de cobaia que possivelmente poderia ser usada. em padrões de humanoides futuros sexuais» — ver RC-089 (Processador Val).
@@ -99,7 +101,8 @@ Com isso:
 | P2024-03-17 | A Quem Pertence o Planeta e a Biblioteca Genômica Mais Atualizada do Universo (palestra) | transcrição automatizada; citação |
 | P2023-07-09 | A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
 
-## Ampliação — P2024-03-17
+## Ampliação
+### P2024-03-17
 
 **Fonte:** palestra «A Quem Pertence o Planeta e a Biblioteca Genômica Mais Atualizada do Universo» (17/03/2024).
 

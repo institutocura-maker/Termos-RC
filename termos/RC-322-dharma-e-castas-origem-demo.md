@@ -33,36 +33,37 @@ O **dharma** e o sistema de **castas** entendidos, na RC, como **instituição p
 - **Nome próprio envolvido:** a fonte atribui a introdução do conceito a **Krishna conversando com Arjuna** no *Bagavaguita*, «um dos capítulos do Marabarata» (grafia do bruto para *Mahābhārata*) — ver RC-425 e RC-414.
 
 
-## Ampliação — P2023-10-14 (A Esquecida Honra dos Anunnaki)
+## Ampliação
+### P2023-10-14 (A Esquecida Honra dos Anunnaki)
 
 - **[P2023-10-14 · A MATERIALIZAÇÃO — o dharma criado PARA os híbridos, não para a humanidade (D-3)]** "E Darma foi o principal conceito que na época foi educado para gerar honra entre seres híbridos que não tinham honra." (U0020); "Porque ele também criou essa coisa chamada casta, mas não era pros humanos, era para seres híbridos." (U0020) — 🆕 anterioridade: P2024-11-30 (hoje a ficha não tem arquivo próprio; o Curador autorizou a materialização — Devolutiva item 11).
 - **[P2023-10-14 · A HONRA DEMODÁRMICA É O CONTEÚDO DESTA FICHA]** "Que tipo de honra esses seres sentem aqui na Terra não conhece a chamada honra demodármica, mas a honra demodármica é uma honra que foi criada em torno do conceito de dharma." (U0020) — Decisão D-1: «honra» ganha **linha de conteúdo** aqui, sem código novo.
 - **[P2023-10-14 · O DEVER DE CASTA COMO SUSPENSÃO DO KARMA]** "Você vai gerar karma negativo se você não for paraa guerra." (U0020) — ⚠️ **Ponto mais delicado do ciclo** (dever de casta justificando violência): entra com rótulo de quarentena e **não** vai para a apostila sem nota editorial.
 - **[P2023-10-14 · O QUE RESTOU QUANDO OS PORTAIS FECHARAM]** "Os humanos apenas herdaram isso agora porque os portais fecharam esses seres sumiram e restou o quê?" (U0020)
 
-## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+### P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
 
 - **[P2023-12-03 · DHARMA E CASTAS (ORIGEM DEMO) NA FALA DE 03/12/2023]** «substituir a única regra da erdo que sai de um ser volta para ele pelo tipo de karma dármico que ele explicou no Bagavaguita, que é um dos capítulos do Marrabarato, quando ele diz para Aruna, Oruna pode matar Já que o mal precisa ter destruído, que eu Cristo, que sou o Senhor supremo, garanto que» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2023-10-14`); a entrada desta fonte é de **conteúdo**, não de data.
 
-## Ampliação — P2023-02-12 (A Desconexão dos Desígnios Proféticos do Judaísmo, do Cristianismo e do Islamismo)
+### P2023-02-12 (A Desconexão dos Desígnios Proféticos do Judaísmo, do Cristianismo e do Islamismo)
 
 - **[O dharma de cada varna] (U0047)** «O eu de um alguém pertencente a uma certa varna tem que cumprir o dharma daquela varna.» — a lei do dharma aplicada ao talento único (varna) de cada ser demo: cumprir o dharma da varna gera karma positivo.
 - **[Varna define a posição social (a casta)] (U0047)** «E esse um talento é um tipo de varna que define a posição social. dele no VAR na que ele se encontra, ou seja, naquilo que foi chamado de casta.» — os seres do universo vizinho têm um único talento (varna), que define sua casta; "VAR" é grafia STT para varna.
 
-## Ampliação — P2022-11-20 (A Incompreendida Nova Aliança proposta por Jesus)
+### P2022-11-20 (A Incompreendida Nova Aliança proposta por Jesus)
 
 - **[O karma derivado do dharma várnico] (U0003)** «O karma é um conceito sânscrito derivado da noção de dharma que, por sua vez, é ancorado na questão dos critérios várnicos.» — a genealogia do karma: sânscrito, derivado do dharma, ancorado nos critérios várnicos — "Não foi o espiritismo que inventou o karma" (U0003: «Não foi o espiritismo que inventou o karma.»); "Varna em sânscrito significa talento. Depois passou a significar casta" (U0003: «Varna em sânscrito significa talento.»); o jogo dármico/várnico/cármico "era da cultura demodármica... não era humano, mas foi imposto aos humanos"; "a doença deles começa nessa questão várnica" (U0003: «E a doença deles começa nessa questão várnica.»); "Se eu não fizer, estarei descumprindo o dharma e serei punido. Como? Pelo karma" (prosa).
 
-## Ampliação — P2022-10-01 (A Wyrd e a Espiritualidade)
+### P2022-10-01 (A Wyrd e a Espiritualidade)
 
 - **[O karma foi gerado pros demos] (U0002)** «Do jeito que o conceito de karma foi gerado pros demos de acordo com o Varna, relativo ao Dharma e os humanos herdaram.» — a genealogia demo do karma: "do jeito que o yoga também foi algo criado pros demos e que os humanos ardaram do jeito que o conceito de dharma foi criado pros demos e para quem pertence à casta e os humanos herdaram e dão 100 interpretações" — "e isso é que mexe a teia o erdo para fazer com que fulaninho depois de morto... o seu espírito vá para ali ou para lá"; ressonância com o P2022-11-20 (karma derivado do dharma ancorado nos critérios várnicos).
 
 
-## Ampliação — P2022-07-16 (Do Ramayana ao Mahabharata)
+### P2022-07-16 (Do Ramayana ao Mahabharata)
 
 - **[O varna: a base do dharma] (U0007)** «Foi engendrada uma estirpe que se desdobrou em outras muitas e todas elas passaram a ser conhecidas como a família dos rakchaças, cujo varna, varna em sânscrito significa talento e dever de acordo com o talento.» — "o Varna é a base do conceito do dharma. que é o dever sagrado de cada um, cujo dma era fazer uso do sangue humano e de outros animais" (U0007: «O Varna é a base do conceito do dharma»); "as quatro principais castas que Ixivaco lá atrás começou a implementar... Os sudras são também chamados de dálides" (U0015: «Os sudras são também chamados de dálides»); "Tem os braes, que são os sacerdotes, os que cháatras, os guerreiros, os vaixais governantes, os sudras são os trabalhadores" (U0015: «Tem os braes, que são os sacerdotes, os que cháatras, os guerreiros, os vaixais governantes, os sudras são os trabalhadores.»).
 
-## Ampliação — P2021-06-26 (Shiva - A Reconstrução do Erro de Brahma e o Tikum)
+### P2021-06-26 (Shiva - A Reconstrução do Erro de Brahma e o Tikum)
 
 - **[O problema pendente das castas] (U0021)** «Existe um problema pendente das castas que é a responsabilidade agora do senor Krishna e do senor Chiva e como saibava propriou a questão na condição humana, ou eles resolvem isso aqui, ou a Terra vai ficar inviabilizada para o programa de reestruturação universal.» — a dupla face da ahimsa (STT "arima"): "o arima, que é a coisa mais bela que eu conheço olhando o lado da moeda, são homens e mulheres que nascem pobres, acho a Índia, desde crianças são educados, né, a gente já falou disso aqui, a não cometer o quê?" (U0013: «Então enquanto existem essas prisões, porque Quem entendam o arima, que é a coisa mais bela que eu conheço olhando o lado da moeda, são homens e mulheres que nascem pobres, acho a Índia, desde crianças são educados, né, a gente já falou disso aqui, a não cometer o quê?»); "a outra face é o controle terrível, que quem quer controlar bilhões de seres humanos condiciona que eles ajam assim" (U0013: «É uma face, mas a outra face é o controle terrível, que quem quer controlar bilhões de seres humanos condiciona que eles ajam assim.»); "Eles vão morrer de fome, mas não matam a vaca para comer, porque eles foram condicionados a agir assim: uma vaca é animal sagrado, um macaco é animal sagrado, tudo é sagrado" (U0013: «Eles vão morrer de fome, mas não matam a vaca para comer, porque eles foram condicionados a agir assim: uma vaca é animal sagrado, um macaco é animal sagrado, tudo é sagrado.»).
 

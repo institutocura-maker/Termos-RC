@@ -22,11 +22,12 @@ A palestra descreve confronto de Shiva com Narasimha sem intenção de destruí-
 - Grafia: Narasimha. STT: Nara Sima, Nacima, Naraimra.
 
 
-## Ampliação — P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
+## Ampliação
+### P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
 
 - **[P2022-03-26 · NARASIMHA NA FALA DE 26/03/2022]** "limite da finalização da energia tamásica." (U0048) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⭐ **NOTA DE ANTERIORIDADE — P2022-03-26:** antecipa **25 meses** a atual fonte oral mais antiga da ficha (`P2024-05-04`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
 
-## Ampliação — P2022-05-07 (Shiva, o Projeto Talm e os Mistérios de Awaylengam)
+### P2022-05-07 (Shiva, o Projeto Talm e os Mistérios de Awaylengam)
 
 - **[Narasimha — avatar de Vishnu, cabeça de leão] (U0003)** «Estranho, mas é parte de baixo humana, cabeça de leão.» — Narasimha (STT "Nara/Naraimsa") como avatar de Vishnu; contraposto ao Sharabha de Shiva (ver radar).
 
@@ -56,7 +57,8 @@ Candidato mitológico; cruzar com obras sobre Vishnu/Shiva.
 
 Status candidato por depender de palestra e alegações ainda não cruzadas integralmente com obras primárias.
 
-## Ampliação — P2024-03-02 (O Drama Espiritual de Jesus)
+## Ampliação
+### P2024-03-02 (O Drama Espiritual de Jesus)
 
 - **[Hiranyaksha — demônio filho de Shiva+Brama, morto por Varaha]:** «Existia um ser chamado Iran [Hiranyaksha] e um irmão chamado Irani Akashipu [Hiranyakashipu]. E esse ser chamado Iranea era um demônio [...] Hirani Akaxa aprendeu a importunar Vno, Chiva e Brama se concentrando neles o tempo inteiro, pedindo o quê? Poderes, fórmulas de poder [...] Brama chegou diante de Iraniak e disse: 'O que que você quer, cara?' Ah, eu quero que você me dê poderes para que eu não seja morto nunca por nenhum assura, nenhum deva e nenhum dos animais que existem [...] A citou todos os animais que ele se lembrou, mas ele esqueceu javali.» — ver RC-135 (Vishnu).
 

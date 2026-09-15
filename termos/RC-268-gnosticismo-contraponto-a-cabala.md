@@ -16,13 +16,15 @@ atualizado = "2026-08-18"
 
 Corrente esotérica cujas fontes são os **evangelhos gnósticos** — na RC, um dos **focos de revelação** que Thot "organizou lá atrás", contraponto à Cabala (RC-261/262/264/468).
 
-## Atualização — P2023-12-02
+## Atualização
+### P2023-12-02
 
 - **Foco de revelação no esoterismo:** "existe o gnosticismo, cujas fontes são chamados evangelhos gnósticos" — na lista dos grandes mistérios: Orfismo, Gnosticismo, Cabala, Teosofia, Hermetismo;
 - **Thot por trás:** "se eu pegar o Orfismo ou o Gnosticismo ou a Cabala ou a Teosofia ou o hermetismo, Thot está por trás de cada um deles";
 - O Gnosticismo é citado como herança do conhecimento codificado por Thot (com os demais focos) — conexão com RC-463 (nova aresta).
 
-## Ampliação — P2025-05-10 (Mistérios do Apocalipse)
+## Ampliação
+### P2025-05-10 (Mistérios do Apocalipse)
 
 - **[Nag Hammadi e os livros gnósticos] (U0004)** «Quando em Nagramade, 13 rolos com 52 manuscritos foram descobertos.» — em Nag Hammadi (RC-268), '13 rolos com 52 manuscritos' gnósticos — escondidos pelos monges desde o séc. IV (Atanásio) — foram descobertos em 1945.
 
@@ -51,7 +53,8 @@ Corrente esotérica cujas fontes são os **evangelhos gnósticos** — na RC, um
 | As Sete Leis Herméticas | RC-763 | relaciona-se-a |
 | Cabala | RC-261/262/264/468 | contraponto-a |
 
-## Atualização — P2024-09-28 (A Raça Inabalável dos Sethianos Emancipados)
+## Atualização
+### P2024-09-28 (A Raça Inabalável dos Sethianos Emancipados)
 
 - **Gnose de Jesus:** "o que chamamos de gnosticismo propriamente dito surgiu como necessidade do eu de Jesus após a sua morte, de explicar os seus afetos, notadamente a sua mãe, porque ele se recusou a ser o rei dos judeus nos termos exigidos por Javé";
 - **Gnose = verdade esclarecida:** "gnose significa a verdade profunda, a verdade esclarecida e não a verdade fajuta que Paulo e os apóstolos estavam divulgando";

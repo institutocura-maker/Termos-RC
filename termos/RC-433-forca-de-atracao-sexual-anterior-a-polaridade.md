@@ -23,12 +23,13 @@ A tese: a desconfiança (doença do DNA do Criador) impedia a união dos seres; 
 - **Variações:** força de atração; força sexual original; a força que antecede macho/fêmea
 
 
-## Ampliação — P2024-08-03
+## Ampliação
+### P2024-08-03
 
 - **[P2024-08-03 — destaque O-2] A lagosta e a confiança (U1599–U1615):** "a lagosta, para transar, precisa tirar a carapaça... ela podia ser comida por um predador. Então ela teve que confiar no lagostão"; "é por isso que a ciência diz que dessa transada os lagostinhos que surgiram receberam as mutações genéticas ocorridas no código genético desse casal e surgiu o gene da oxitocina [STT: GNO XT]"; "isso não é Deus trabalhando... é o próprio Vishnu mexendo nos bichinhos do aquário"; Shiva, via Pashupati, fez a polaridade macho/fêmea dos pluricelulares (U1589).
 
 
-## Ampliação — B052 (Homoafetividade: O Segredo Perdido do Éden)
+### B052 (Homoafetividade: O Segredo Perdido do Éden)
 
 - **[B052 p. 39–40]** (Despina) "A expressão do tipo de força sexual que agora existe entre vocês, humanos, existiu no passado remoto entre algumas das estirpes da família de seres à qual pertenci"; "a força sexual explodia em algumas classes de seres, como forma de uni-los, independente da maneira do acasalamento. Pelo fato de 'todos desconfiarem de todos', ninguém se unia".
 - **[B052 p. 40]** "O gosto ou preferência pelos indivíduos do mesmo sexo surgiu nesse ponto da evolução dos seres da minha espécie"; a "'força de atração' [...] começou a ser assimilada e absorvida por muitos, antes mesmo de a questão 'macho e fêmea' se estabelecer na natureza deste mundo"; "A força que move os humanos ao sexo é anterior a tudo o que existe sob a perspectiva das organizações das formas animalizadas."

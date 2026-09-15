@@ -23,34 +23,35 @@ Em B044, a mente coletiva aparecia sobretudo como instrumento do Modelo Colmeia.
 - **Variações:** redes operativas; rede mental coletiva; circuitos fechados de informação.
 
 
-## Ampliação — P2024-11-09
+## Ampliação
+### P2024-11-09
 
 - **Mente Coletiva (P2024-11-09):** "os campos memoriais que se transformam às vezes em inconsciente coletivo, como os arcanos" — a rede neural de consciência do planeta (ver RC-724).
 
 
-## Ampliação — B044 (A Divina Colmeia)
+### B044 (A Divina Colmeia)
 
 - **[B044 p. 86]** o primeiro modelo existencial implementado pela mente de Javé, envolvendo ele e os anjos-clones, foi o da “mente coletiva”, só que sob o seu controle.
 - **[B044 p. 127]** o universo, por meio da sua recém-nascida “Mente Coletiva”, assim agiu para poder sobreviver (deslacre do sistema de controle dos agentes da vida).
 - Sheldrake (p. 127) = hipótese citada, **não** ontologizada. Distinguir mente coletiva natural × controle Colmeia (já na ficha). Sem fusão com B041.
 
 
-## Ampliação — P2021-05-15 (As Etnias Hiperbóreas e os Anunnakis)
+### P2021-05-15 (As Etnias Hiperbóreas e os Anunnakis)
 
 - **[P2021-05-15 · MEMETE — A DEFINIÇÃO EM BOCA DO AUTOR (termo nunca cadastrado)]** "Mas os pensamentos que vêm da movimentação do campo mófico humano, da dos do inconsciente coletivo humano e da corrente da genética que toda santa hora, cada microsegundo, pega tudo que cada cabeça de qualquer ser humano que exista pensou, esteja ele aqui na eh na lua, num planeta abduzido, a sequência da internet humana, que eu chamo Memete, a cada microssegundo distribui e redistribui e pega e redistribui de novo para toda e qualquer cabeça de um ser humano e o produto do que todos pensam." (U0018); "Esse genoma de hoje, hoje os últimos tempos, veja só, o genoma de cada ser humano pula loucamente a cada microssegundo, tá?" (U0006)
 - **[P2021-05-15 · O TECLADO GENÉTICO COMO INTERFACE DA REDE]** "É o uso que a atitude mental de cada ser humano faz do seu teclado genético." (U0006) — ⚠️ **VETO DE CÓDIGO MANTIDO (Devolutiva O-8):** «Memete» permanece termo-observação absorvido aqui e em RC-194; **não** ocupa RC-778.
 
 
-## Ampliação — P2020-04-25 (Os Desdobramentos da Rebelião de Lúcifer)
+### P2020-04-25 (Os Desdobramentos da Rebelião de Lúcifer)
 
 - **[P2020-04-25 · A MENTE UNA DE CAPIILA COMO CONHECIMENTO ABORTADO]** "Capila foi o primeiro a falar da mente uma." (U0006); "mente coletiva?" (U0009) — **D-7:** hipótese *Kapila/Sāṃkhya* documentada, fusão recusada. A fonte usa «mente una» — expressão que a Base não tem com esse nome (ver Apêndice). · ⭐ **NOTA DE ANTERIORIDADE — P2020-04-25:** antecipa **13 meses** a atual fonte oral mais antiga da ficha (`P2021-05-15`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
 
 
-## Ampliação — P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
+### P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
 
 - **[P2022-03-26 · MENTE COLETIVA NA FALA DE 26/03/2022]** "Os V era uma mente coletiva, os Ira mente coletiva, o chão um, outro, os cromon outro, cada família dessa era uma espécie de uma colmeia à parte, todas vinculadas à Sofia." (U0009) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
 
-## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+### P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
 
 - **[P2023-12-03 · MENTE COLETIVA / REDES PSÍQUICAS COLETIVAS NA FALA DE 03/12/2023]** «WhatsApp de rede, né?» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
 

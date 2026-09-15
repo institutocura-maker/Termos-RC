@@ -33,11 +33,12 @@ Com isso:
 * **[REVISAR → ENCERRADO 2026-09-06 · F040-L4: RATIFICADO — divergência registrada, não costurada — ver nota] — uso da fala × categoria do cadastro.** A frase de 03/12/2023 trata bilatério como atributo de cérebro; o cadastro o lista como classe de seres. A divergência é registrada, não costurada, e nenhuma ficha de anatomia foi tocada (D-7: obsolescência anatômica mora em `RC-631`/`RC-632`).
 * **Trava aplicável**: D-7 (anatomia sem código novo) · D-4 (nenhuma máscara transita) · veto de trânsito por nomear classe de seres.
 
-## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+## Ampliação
+### P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
 
 - **[P2023-12-03 · BILATÉRIOS NA FALA DE 03/12/2023]** «O nosso é bilatério.» (U0038) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
 
-## Ampliação — P2022-05-07 (Shiva, o Projeto Talm e os Mistérios de Awaylengam)
+### P2022-05-07 (Shiva, o Projeto Talm e os Mistérios de Awaylengam)
 
 - **[Bilatérios — antes do cérebro, o corpo] (U0003)** «Então, primeiro, antes de surgir, desculpa, um cérebro bilatério, teve que surgir um corpo bilatério.» — a bilateralidade corporal (produto de Awaylengan) precede a cerebral; ver RC-093.
 
@@ -57,7 +58,8 @@ Com isso:
 | Fornos Replicadores (naves/estações de semeadura de vida do Projeto Talm; Awayen, Awaylengan e Awaymaion) | RC-771 | ← relaciona-se-a |
 | Forno de Awaylengan (forno de Shiva — o primeiro a funcionar) | RC-837 | associado |
 
-## Ampliação — P2019-08-25 (Os Três Fornos Replicadores do Projeto Talm)
+## Ampliação
+### P2019-08-25 (Os Três Fornos Replicadores do Projeto Talm)
 
 - **[P2019-08-25 · A FONTE ORAL FUNDADORA DOS BILATÉRIOS — O NIDANA B]** (predata P2023-12-03 em 4 anos):
 - "nesse último bilhão de anos surgiu os primeiros seres bilatérios. Até então só tinha radiatas é isso. Radiatas são seres cérebro onde só gira um sistema fechado. Bilatérios são seres que têm um cérebro, mas que tem duas componentes rodando. Chamado hemisfério direito, hemisfério esquerdo" (STT);

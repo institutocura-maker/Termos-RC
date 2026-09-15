@@ -33,7 +33,8 @@ Com isso:
 * **Grafia STT:** 'Era Sápens' = Era Sapiens. O livro sobre Lemion, Jesus e o nazismo.
 * **Trava aplicável**: nenhuma além das gerais do despacho.
 
-## Ampliação — P2018-12-15 (Terra Atlantis – Aprofundamento)
+## Ampliação
+### P2018-12-15 (Terra Atlantis – Aprofundamento)
 
 - **[Era Sapiens: Lemion, Jesus e o nazismo] (U0084)** «Então, amanhã a gente vai ver a interação de Lemion com a vinda de Jesus terra e com a ascensão do nazismo, que é basicamente o livro Era Sápens que a gente ainda vai publicar.» — Era Sapiens (RC-238): o livro que contará a interação de Lemion com a vinda de Jesus e a ascensão do nazismo.
 
@@ -41,7 +42,7 @@ Com isso:
 
 # (nenhum span retido neste ciclo)
 
-## Ampliação — P2018-12-16 (Terra Atlantis - Era Sapiens)
+### P2018-12-16 (Terra Atlantis - Era Sapiens)
 
 - **[Começa a Era Sapiens] (U0014)** «Começa a era SAS.» — a Era Sapiens (STT 'era SAS') começou depois de dois grandes cataclismos (~9.000 anos) que varreram quase todas as bases de seres extraterrestres atuantes na Terra.
 

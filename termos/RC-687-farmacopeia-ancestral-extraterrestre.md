@@ -47,7 +47,8 @@ Consultar Base.
 ## Observações
 Teologia comparada e alegações científicas permanecem atribuídas ao palestrante.
 
-## Ampliação — Xamanismo Naga / P2025-02-16
+## Ampliação
+### Xamanismo Naga / P2025-02-16
 
 A Farmacopeia Ancestral é associada à hipótese de Nagas ensinando humanos a combinar raízes e plantas para produzir moléculas complexas e estados alterados de consciência.
 
@@ -55,10 +56,11 @@ A hipótese não constitui comprovação botânica, farmacológica ou antropoló
 
 **Evidências:** U0752–U0768. Relações: RC-577 e RC-664.
 
-## Reforço — P2025-02-15
+## Reforço
+### P2025-02-15
 
 Ayahuasca, cannabis, iboga e outras combinações são ligadas ao canal xamânico, à percepção de seres do universo vizinho e a usos de alimentação/cura. Preservar atribuição e ressalvas antropológicas.
 
-## Reforço — P2024-11-30
+### P2024-11-30
 
 O sistema endocanabinoide, cannabis e estados alterados são discutidos como parte da Farmacopeia/Xamanismo. Nenhuma recomendação terapêutica é derivada da palestra.

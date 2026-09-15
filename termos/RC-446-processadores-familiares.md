@@ -24,7 +24,8 @@ Nos "Livros de Yel Luzbel", o Processador Familiar é o mecanismo que mantém ca
 - **Obs.:** na base, já existe o "Processador Val" (RC-089), dispositivo da Família Val — verificar correspondência com os Processadores Familiares das obras primárias
 
 
-## Ampliação — B057 (A Revolta do Anjo Decaído)
+## Ampliação
+### B057 (A Revolta do Anjo Decaído)
 
 - **[B057 p. 15]** "**Cada família capelina possuía o seu próprio 'Processador'.**" — o "Processador Yel", "**'Processador Quântico'**", "registava tudo o que sentíamos individualmente e, posteriormente, tudo o que pensávamos ou sentíamos enquanto grupo ou coletividade familiar."
 - **[B057 p. 22]** o mecanismo do contágio: "o que nos fazia ser coletivos, **também nos uniu na nova energia desagregadora** que passou a perturbar, inicialmente, o ambiente coletivo da minha família e, depois, os ambientes de todos os outros capelinos que faziam parte de outras famílias que viviam em Orbum (RC-085)."
@@ -34,7 +35,7 @@ Nos "Livros de Yel Luzbel", o Processador Familiar é o mecanismo que mantém ca
 - 0 códigos novos (O-3). Sophia como criadora: relação RC-446 ←criado-por— RC-009 já registrada (B058).
 
 
-## Ampliação — B058 (A Revolta do Anjo Decaído)
+### B058 (A Revolta do Anjo Decaído)
 
 - **[B058 p. 27 · o bloqueio]** "Encontrámos uma maneira de **'bloquear' as nossas conversas**. O 'circuito está fechado', e somente nós, que estamos aqui, somos capazes de captar o que está a acontecer... **nada disso irá para o nosso 'Processador Familiar'!**" (a equipa de pesquisa de Yel — técnica inédita.)
 - **[B058 p. 71–72 · a suspeita]** "Não sabemos se **Sophia e as suas Hostes se conetam aos 'Processadores Familiares'**... Isso é algo que teremos de descobrir!"; "**Sophia, que nos engendrou, também criou todos os nossos 'Processadores'.**"; "Sophia e as suas Hostes **devem espionar-nos por meio dos 'Processadores Familiares'!**" (leitura do ser em revolta — O-7.)
@@ -43,17 +44,17 @@ Nos "Livros de Yel Luzbel", o Processador Familiar é o mecanismo que mantém ca
 - 0 códigos novos (O-3).
 
 
-## Ampliação — P2020-04-25 (Os Desdobramentos da Rebelião de Lúcifer)
+### P2020-04-25 (Os Desdobramentos da Rebelião de Lúcifer)
 
 - **[P2020-04-25 · O ÚNICO PROCESSADOR QUE SOBREVIVEU ÀS GUERRAS]** "O único processador a sobreviver essa história foi a Vol por um motivo bem simples, porque todas essas outras famílias que eu descrevi na Terra Atlântis, Chanlum, Promon, o que seja, essas famílias elas não vieram toda." (U0006) · 🆕 **primeira fonte oral desta ficha** — o cadastro só tinha `B057`, `B058`, `P2020-04-25`; `P2020-04-25` entra como a primeira fala registrada, **com a data de 25/04/2020**.
 
 
-## Ampliação — P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
+### P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
 
 - **[P2022-03-26 · PROCESSADORES FAMILIARES NA FALA DE 26/03/2022]** "lá no sistema de capela, onde órbão é só um dos planetas em torno." (U0008) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
 - **[P2022-03-26 · A REDE INTEIRA E O QUE O VÍRUS FERROU]** "O vírus que surgiu com Lúciferrou esse processo. Ferrou com todos os processos." (U0008); "milhares de novos espermatozoides são produzidos a cada segundo no seu saque escrotal? Para atualizar as últimas informações que giraram nos seus neurônios, porque se ele transar, ele repassa. O que de mais atualizado ele tem em termos de informação colecionada com a mulher é a mesma coisa na progressão do óvulo que poderá ser fecundado ou não." (U0008) — A mecânica de atualização (espermatozoides e óvulo como portadores da mudança) é o detalhe que faltava na Base para ler `RC-089` e `RC-446` como a mesma infraestrutura em duas escalas.
 
-## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+### P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
 
 - **[P2023-12-03 · CADA FAMÍLIA, UM PROCESSADOR]** «cada um deles era ligado ao processador da família IEL. E esse processador funciona como campo mórfico, que registra toda a atividade mental de todos os membros da família IEL, devolve para esses membros uma ou outra orientação e os membros, a familiel tem isso que a a gente chama hoje de WhatsApp de rede, né?» (U0004) — Os processadores familiares ganham definição operacional completa: campo mórfico que registra a atividade de todos, devolve orientação e coesa. A fonte diz também que um biodemo **não pode viver** sem ele — a dependência é lei da espécie, não costume.
 

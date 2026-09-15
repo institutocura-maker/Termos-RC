@@ -33,7 +33,8 @@ Com isso:
 * **Materialização imediata (devolutiva):** RC-860 (Nova Aliança) sai da fila aberta e ganha ficha (ficha=False → True) com as 3 pérolas validadas neste ciclo — esta é a palestra-título do termo.
 * **Trava aplicável**: nenhuma além das gerais do despacho.
 
-## Ampliação — P2022-11-20 (A Incompreendida Nova Aliança proposta por Jesus)
+## Ampliação
+### P2022-11-20 (A Incompreendida Nova Aliança proposta por Jesus)
 
 - **[A tradução honesta do tema] (U0002)** «está ligado mesmo e hoje nós vamos falar de um tema em que com certa dose de suavidade, ao longo desses 20 anos aí ou mais, a gente já se referiu um pouco a alguns aspectos do que aqui a gente vai abordar, mas Hoje nós vamos ter que abordá-lo de forma completa, porque esse tema ele, se houvesse uma tradução honesta para esse tema, a tradução seria: "2000 anos depois, ninguém entendeu buiufas do que Jesus fez ou tentou fazer.» — a tradução honesta do tema: 2.000 anos depois ninguém entendeu o que Jesus fez ou tentou fazer — nem os espíritos explicaram convenientemente, nem a doutrina espírita; "a vida de Jesus ninguém entendeu... nem nós, os humanos, nem os seus familiares, nem a turma desse universo vizinho, nem os espíritos" (grafias STT "buiufas"/"bulhufas" sem emenda).
 - **[A nova aliança como questão de limite] (U0007)** «A nova aliança que Jesus propôs não é uma ideia de um gênio, foi uma questão de limite humano.» — a tese central da palestra: a nova aliança não nasceu de genialidade — "foi uma questão de limite humano": "isso aqui não dá certo. Então vamos propor uma coisa nova"; "a repetição da velha fórmula da velha aliança... Jesus tentou obedecer, mas também não deu".

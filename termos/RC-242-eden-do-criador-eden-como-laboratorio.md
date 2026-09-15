@@ -23,7 +23,8 @@ O Éden do Criador (B015, cap. 10) esclarece o propósito dos experimentos edên
 - **Variações:** Éden terrestre; Jardim do Éden (tradicional); "Éden como laboratório"; núcleos edênicos
 
 
-## Ampliação — B052 (Homoafetividade: O Segredo Perdido do Éden)
+## Ampliação
+### B052 (Homoafetividade: O Segredo Perdido do Éden)
 
 - **[B052 p. 98]** (Noé a Heber) "Essa questão da sexualidade... Esse parece ser o segredo perdido do Éden, o porquê desse tipo de atração estranha existir na natureza dos homens..." — voz do patriarca, não conclusão do autor.
 - **[B052 p. 183]** (Maneton ao faraó) "penso que é um segredo perdido do jardim do Éden"; Javé "criou o ser humano a partir de um jardim no qual experiências vivas eram praticadas, chamado Éden"; "Esse ser [...] é o mesmo Atum, que por sua vez é o mesmo ser criador Brahma dos hindus, como ainda também é [...] Caos." — **Teologia Comparada de Ellam**.

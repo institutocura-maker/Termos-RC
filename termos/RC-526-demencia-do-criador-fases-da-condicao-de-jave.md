@@ -35,11 +35,12 @@ Com isso:
 
 A demência do Criador refere-se ao estado de deterioração consciencial de Javé, decorrente do isolamento e da incapacidade de processar o choque da própria ignorância existencial. Esse estado evolui em fases cíclicas, manifestando-se através de explosões de fúria e necessidades patológicas de devoção por parte de suas criaturas, que atuam como amortecedores psíquicos para o seu desespero.
 
-## Ampliação — P2012-02-19 (Xadrez Cósmico de Brahma, Vishnu e Shiva)
+## Ampliação
+### P2012-02-19 (Xadrez Cósmico de Brahma, Vishnu e Shiva)
 
 - **[A doença, não o atraso] (U0005)** «Não é porque ele seja atrasado, é porque a sua natureza é doentia.» — Javé (RC-526) não é 'atrasado' — 'a sua natureza é doentia'; não é falta de evolução, é uma condição de doença que o impede de ver o que está além da sua criação.
 
-## Ampliação — P2025-06-14 (PALESTRA SOBRE A QUEDA DO CRIADOR-Refatorada)
+### P2025-06-14 (PALESTRA SOBRE A QUEDA DO CRIADOR-Refatorada)
 
 - **[O Criador desalmado] (U0022)** «O Criador Javé é "desalmado, sem capacidade de imaginação ou criatividade", o que limita seu progresso pessoal.» — Javé é 'desalmado, sem capacidade de imaginação ou criatividade' — o que limita seu progresso e o torna refém do progresso de suas criaturas (RC-526).
 

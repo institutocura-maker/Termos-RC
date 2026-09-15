@@ -23,7 +23,8 @@ Os Ostronomos são uma das "espécies de fora" que monitoravam a Terra nos tempo
 - **Variações:** Família de Ostronomos; seres Sirianos (anfíbios inteligentes) — verificar equivalência exata
 
 
-## Ampliação — P2021-05-15 (As Etnias Hiperbóreas e os Anunnakis)
+## Ampliação
+### P2021-05-15 (As Etnias Hiperbóreas e os Anunnakis)
 
 - **[P2021-05-15 · O PRESTÍGIO DOS «ASTRONOMOS» JUNTO ÀS ETNIAS HIPERBÓREAS]** "Eh, e astronomos, esses dois seres tinham muito mais prestígio junto às ilhas, desculpa, junto às etinias hiperbórias híbridas do que a turma do universo vizinho, como astronomos e seus descendentes, suas linhagens e uma um modo muito particular de viver e tinha suas limitações." (U0003) — [REVISAR: «Apólogo» ≈ Apolo. → CHANCELA 2026-09-06 · F041-L5: AGUARDA-ÁUDIO (dívida perdoada até nova evidência na base; STT preservado como falado) — ver nota]
 - **[P2021-05-15 · ⚠️ A AMBIGUIDADE QUE O CURADOR DETERMINOU PRESERVAR (Devolutiva O-8 / T-9)]** "O governo dos Estados Unidos é engraçado, tem a astrônomos aí dizendo que Nibiro não existe e tem grupos de cientistas conversando com a Nunx escondido e que sabe de tudo." (U0010) — Na mesma fonte a palavra designa também os astrônomos profissionais humanos (Q&A U0009–U0010). Vinculado à RC-232 **com ressalva**: os dois sentidos não se fundem; a ambiguidade fica registrada aqui e na apostila.

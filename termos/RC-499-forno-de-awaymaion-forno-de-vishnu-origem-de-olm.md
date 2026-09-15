@@ -22,7 +22,8 @@ Forno replicador de vida do **Projeto Talm** (RC-091) sob o controle de **Vishnu
 ## Etimologia / Grafias
 - Grafia preferida: Awaymaion. STT: "Alamaior"/"Almaior" (RC-500 — erro de STT, remissão para cá).
 
-## Ampliação — ART-2025-08-01
+## Ampliação
+### ART-2025-08-01
 
 - **[ART-2025-08-01 — material do curador] Awaymaion (Parte III):**
   - "nave ou estação gigantesca, com formato de charuto gigante, localizada em nossa galáxia, a Via Láctea";
@@ -34,16 +35,16 @@ Forno replicador de vida do **Projeto Talm** (RC-091) sob o controle de **Vishnu
   - Mohen So (RC-081, avatar Keshava de Vishnu) produziu os fenvans (RC-064) e, a partir deles, Sophia, "sua contraparte no universo material".
 
 
-## Ampliação — P2021-05-15 (As Etnias Hiperbóreas e os Anunnakis)
+### P2021-05-15 (As Etnias Hiperbóreas e os Anunnakis)
 
 - **[P2021-05-15 · A GRAFIA ORAL DO FORNO E O SEU ADMINISTRADOR]** "Se lembra que eu tenho falado que quando os produto de Aáon, que é o forno de replicação de vidro, administrado por Virgno e Morrenç e o forno de Hawaiingan, administrado por Pachu Pathiba." (U0003) — ⚠️ «de vidre» é lido pela linha da base como FORRAGEM (B061). Mantida a grafia da fonte + [TEXTO CORROMPIDO]; a decisão de grafar «forragem» continua pendente.
 
 
-## Ampliação — P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
+### P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
 
 - **[P2022-03-26 · FORNO DE AWAYMAION NA FALA DE 26/03/2022]** "fornos de replicação de vida nesse universo foram criados três Aen, a maon, a Lingan, um nunca funcionou." (U0005) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2021-05-15`); a entrada desta fonte é de **conteúdo**, não de data.
 
-## Ampliação — P2022-05-07 (Shiva, o Projeto Talm e os Mistérios de Awaylengam)
+### P2022-05-07 (Shiva, o Projeto Talm e os Mistérios de Awaylengam)
 
 - **[Forno de Awaymaion — o forno de Vishnu] (U0003)** «A o Amaion, a o Amaion, que é o forno de virgo, sempre atuou assim.» — o forno de Vishnu, produtor de seres "ordenados pela matemática", sem movimento psíquico; ver RC-771 e RC-186.
 
@@ -86,7 +87,8 @@ Vishnu (RC-408/135), Sophia (RC-009), Olm (RC-092), Mohen So (RC-081), Val Tam (
 **Regra de status:** 🟡 provisório — promovido por Devolutiva ART-2025-08-01; aguarda confirmação em fonte primária para definitivo.
 
 
-## Ampliação — P2019-08-25 (Os Três Fornos Replicadores do Projeto Talm)
+## Ampliação
+### P2019-08-25 (Os Três Fornos Replicadores do Projeto Talm)
 
 - **[P2019-08-25 · A GRAFIA ORAL FUNDADORA DO FORNO DE VISHNU]** (fonte oral mais antiga — predata P2021-05-15 em 2 anos):
 

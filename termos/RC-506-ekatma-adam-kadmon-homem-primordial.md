@@ -16,23 +16,25 @@ atualizado = "2026-09-12"
 
 Na RC, o **Homem Primordial cósmico** (Adam Kadmon) — distinto do Adão bíblico da Terra; protótipo associado aos "demos hesitantes" e ao processo pré-criação.
 
-## Atualização — P2024-09-28
+## Atualização
+### P2024-09-28
 
 - **Adão cósmico ≠ Adão da Terra:** "aquilo que no futuro viria ser o primeiro protótipo de um Adão Cadmon [Kadmon], que não tem nada a ver com o Adão aqui da Terra, foi um Adão cósmico" (resposta à pergunta de Rogério sobre o demo hesitante);
 - **Demos hesitantes:** "o que liga os chamados demos hesitantes... essa história ainda falta elementos poder me referir a ela” — `[REVISAR → CHANCELA 10/09/2026 · F040-L5: INCERTEZA COLECIONADA (demos hesitantes; sem ontologia) — ver nota]` (Colecionar Incertezas);
 - Contexto: o autor declara não ter ainda elementos para aprofundar a relação (pergunta de Maria Helena sobre o campo morfogenético da humanidade).
 
 
-## Ampliação — P2024-08-03
+## Ampliação
+### P2024-08-03
 
 - **[P2024-08-03] Kalil Kadmon → Adam Kadmon (U1416–U1417):** "disso veio o Adam Kadmon, que é outra história, mas que se misturou" — a cadeia Kalil Kadmon (nome demo de Pandora) → Adam Kadmon (Ekatma) → Pandora é narrada na palestra como passos da mesma dignificação (ver RC-086 e RC-299).
 
 
-## Ampliação — P2023-09-09 (O Colapso da Trimurti e Suas Consequências)
+### P2023-09-09 (O Colapso da Trimurti e Suas Consequências)
 
 - **[P2023-09-09 · O PRIMEIRO ADÃO]** "desse análise de Phanes... emergiu **o primeiro Adão num forno de vida que foi construído por essa turma nesse nosso universo chamado Aingan [⚠ REVISAR → RESOLVIDO 10/09/2026 · F038-L5: Aingan = Awaymaion (forno; ver RC-499 e RC-500, erro histórico de STT Almaior/Alamaior) — ver nota]**... **esse primeiro Adão aqui não é o Adão da Bíblia, não. Esse aqui é um GIGANTE que foi construído na perspectiva de ser o primeiro molde, um modelo corporal que um dia poderia receber a correção de todas as doenças do corpo do criador no sonho de fazer com que um dia esse criador assumisse um eu desse tipo de modelo corporal**" (o Evangelho apócrifo de João; "eu já fiz uma palestra toda sobre isso") — o Primeiro Adão = o Adam Kadmon/Ekatma como o MOLDE de ressureição do criador.
 
-## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+### P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
 
 - **[P2023-12-03 · EKATMA (ADAM KADMON — HOMEM PRIMORDIAL) NA FALA DE 03/12/2023]** «Adão Cadimão ancestral.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2023-09-09`); a entrada desta fonte é de **conteúdo**, não de data.
 

@@ -43,7 +43,8 @@ Consultar Base.
 ## Observações
 Termo candidato.
 
-## Reforço — P2025-02-16
+## Reforço
+### P2025-02-16
 
 O episódio da Naga pacificada pelo som da flauta é retomado. A palestra acrescenta a hipótese de intuição do Conselho das Nagas na descoberta da respiração/Yoga por Shiva. O nome `Anarata/Ana Rata` permanece `[REVISAR → CHANCELA 10/09/2026 · F039-L5: AGUARDA-ÁUDIO (hapax) — ver nota] STT`.
 

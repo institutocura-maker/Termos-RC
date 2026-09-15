@@ -24,16 +24,17 @@ Em B020, Pandora narra sua convivência com o criador: "os desígnios de Caos/Ja
 - **Idioma de origem:** grego (khaos)
 
 
-## Ampliação — P2023-06-24 (O Buraco Negro Mental e o Estacionamento Coletivo)
+## Ampliação
+### P2023-06-24 (O Buraco Negro Mental e o Estacionamento Coletivo)
 
 - **[P2023-06-24 · O CAOS DOS GREGOS NA VOZ DOS ESPÍRITOS]** "em 2018, acho que no mês de fevereiro, alguns seres começaram a me dizer: '**Ei, Javé morreu... comemoremos**'... o nome não era sempre Javé... **normalmente essa turma que falava aí CHAMAVA DE CAOS. Eram figuras vinculadas ao conhecimento grego... 'Caos se foi. É hora de comemorarmos'**" [STT: "Peti, Dioniso, Ramos" — os nomes dos espíritos; [REVISAR → CHANCELA 2026-09-06 · F039-L3: AGUARDA-ÁUDIO (STT preservado como falado) — ver nota] — Pã? Dionísio?] — ⚠️ **a 2ª confirmação da correspondência na voz dos próprios espíritos** (a 1ª: B020 cap. 1); quarentena biomediúnica — registro fenomênico.
 - 0 códigos novos (O-3).
 
-## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+### P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
 
 - **[P2023-12-03 · CAOS = BRAHMA = JAVÉ (CORRESPONDÊNCIA) NA FALA DE 03/12/2023]** «foi estruturado pelo caos, a própria entropia vai destruir tudo, tem que se renovar.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2023-06-24`); a entrada desta fonte é de **conteúdo**, não de data.
 
-## Ampliação — P2025-06-14 (PALESTRA SOBRE A QUEDA DO CRIADOR-Refatorada)
+### P2025-06-14 (PALESTRA SOBRE A QUEDA DO CRIADOR-Refatorada)
 
 - **[Caos e o ciclo de Urano] (U0079)** «Nesta, Caos gerou diversos filhos, entre os quais Urano.» — na mitologia grega, 'Caos gerou diversos filhos, entre os quais Urano' — a doença do DNA de Javé traduzida no ciclo de geração e destruição (RC-284).
 

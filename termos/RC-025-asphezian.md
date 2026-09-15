@@ -33,11 +33,12 @@ Com isso:
 * **Grafia STT:** 'Aspesian' = Asphezian. Aportou em 'Zan' (Zian), 'um dos planetas em torno… de Capela'.
 * **Trava aplicável**: nenhuma além das gerais do despacho.
 
-## Ampliação — P2018-12-15 (Terra Atlantis – Aprofundamento)
+## Ampliação
+### P2018-12-15 (Terra Atlantis – Aprofundamento)
 
 - **[Aspesian aportou em Zian/Capela] (U0023)** «Essa na Tuto, ou seja, Aspesian, havia portado no planeta Zan, que é um dos planetas em torno que se chama de Capela, h cerca de 270 milhões de anos, trazendo um pequeno número de seres que se representantes do preposto universal que edificaram aquela nave com vistas a objetivos que não poderiam ser naquela época compreendidos.» — Asphezian (STT 'Aspesian', RC-025): a nave que aportou no planeta Zan (Capela) há ~270 M anos, onde depois os Vol foram engendrados em casulos.
 
-## Ampliação — Trilogia Terra Atlantis (B017/B018/B031)
+### Trilogia Terra Atlantis (B017/B018/B031)
 
 - **[B017 — a tríade do Veneto]** há ~620 mil anos, a Família Val pousou com as três naves onde hoje é o Veneto: "Primeiro pousou 'espherian', a maior das três; depois 'asphezian', a mais requintada e poderosa e, cerca de quase seis milénios depois, a menor e mais adaptada para todo tipo de missão."
 - **[B017 — 63 km]** "Asphezian, que detinha cerca de quatro vezes o diâmetro de 'espheron', portanto, com cerca de 63 km, normalmente estacionava sobre as águas de lagos ou mesmo de mares e oceanos."

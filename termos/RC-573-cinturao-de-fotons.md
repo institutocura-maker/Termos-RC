@@ -23,11 +23,12 @@ Campo de fótons atribuído, na palestra, ao sistema de Alcíone e atravessado p
 - **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
 
 
-## Ampliação — P2022-12-17
+## Ampliação
+### P2022-12-17
 
 - **[P2022-12-17 — FONTE ORIGINAL] O cinturão de fótons (U0301–U0330):** "certas áreas do sistema solar de Alcíone têm algo que a ciência não sabe muito bem ainda como explicar, que seria chamado cinturão de fótons espalhado na sua horizontalidade. Do jeito que Saturno tem aqueles anéis, o sistema de Alcíone teria uma zona daquele [tipo], um campo em torno da órbita que orbitaria Alcíone"; "o sistema solar no espaço de 26.000 anos passa duas vezes no meio desse cinturão"; "desde o ano 2012, nós começamos a entrar... o Sol teria entrado nesse cinturão de fótons nesse período — a Terra logo depois"; "o período em que nós vamos ficar dentro desse cinturão de fótons... é uma era zodiacal de 2.160 anos e que na cultura isso seria a nova era de Aquário" [QUARENTENA CIENTÍFICA — leitura do autor].
 
-## Ampliação — P2022-12-03 (O Ocaso do Criador e a Rebelião dos Elétrons)
+### P2022-12-03 (O Ocaso do Criador e a Rebelião dos Elétrons)
 
 - **[A entrada no cinturão de fótons (1988/89 → dez/2022)] (U0021)** «Como nós estamos sendo atacados e como nós estamos desde 1988, 1989, entrando nessa parte desse cinturão de foto, A convergência disso tudo aponta pro mês de dezembro do ano 2022 o momento em que mais intensamente essa entrada nesse campo foi sentido um atrito, mas o atritão começa agora.» — o sistema solar entrou no cinturão de fótons desde 1988/1989; dezembro de 2022 marca o atrito máximo da entrada — agravado pela fragilização por vírus/bactérias mexidas pelos seres do outro lado.
 
