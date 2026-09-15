@@ -149,3 +149,57 @@ receber citação. O texto localizável mas não aparelhável é recusado com
 mensagem própria, em vez de derrubar a esteira.
 
 Teste: `B031` aparelhável · `B035` **não** aparelhável · `B061` fora do corpus.
+
+---
+
+## 6. Adendo U100 — as 5 aulas de «Os Mistérios da Vida de Jesus» NÃO estavam ausentes
+
+**Pista do Curador (recebida a 15/09/2026):** as palestras `P2023-12-25-01`…`-05` fazem parte do
+curso «Os Mistérios da Vida de Jesus», processado em
+`ciclos/P2023-12-25_F044_misterios-da-vida-de-jesus`, com os originais em `…/translado`.
+
+**Achado — os ficheiros estavam no repositório desde sempre.** O carregador de corpus e o
+`caminho_da_obra` procuram `<pasta>/original.txt`; o dossiê F044 guarda o texto em
+`translado/0N-*.txt`, um ficheiro por aula, sem `original.txt` no topo. A obra era portanto
+**invisível para a máquina** — não ausente do repositório.
+
+**Correcção executada (sem tocar em nenhum ficheiro intocável):** criadas cinco pastas-obra
+canónicas, uma por aula, cada uma com `original.txt` (cópia **byte a byte** do traslado,
+sha256 conferido) e `ficha_ingresso.md`:
+
+| Sigla | Aula | sha256 (16) | linhas |
+|---|---|---|---|
+| `P2023-12-25-01` | Adolescência e a Juventude de Jesus | `304c9d66260421af` | 6 |
+| `P2023-12-25-02` | Os Anos de Pregação e a Promessa do Retorno | `2ddcfceff95fea53` | 18 |
+| `P2023-12-25-03` | Dias Difíceis: Crucificação e Ressurreição | `d1d4171df8a0d5ec` | 29 |
+| `P2023-12-25-04` | O Nascimento do Cristianismo | `b6d77e12ff8def73` | 35 |
+| `P2023-12-25-05` | A Verdadeira Face de Maria Madalena | `cd246089b15e2d3a` | 20 |
+
+Corpus passou de **159 para 164 obras**; as cinco siglas resolvem no **Portão B** — ao contrário
+da B035 (U99), estas ficam **aparelháveis**.
+
+### 6.1 O código estava despachado — a ficha de ingresso do ciclo ficou para trás
+
+A ficha do ciclo dizia que os códigos «aguardam despacho do Curador». Estavam **despachados a
+06/09/2026**, e o despacho está lavrado em `consolidacoes/F044_misterios-da-vida-de-jesus/ciclo.toml`:
+
+```
+[fontes_p2023_12_25]
+decisao_curator = "2026-09-06 - P2023-12-25 (curso online lancado no Natal de 2023);
+                   sufixo -01..-05 por aula"
+```
+
+O Curador reafirmou-o nesta sessão: **2023-12-25 é a data de LIBERAÇÃO do curso**, não a data de
+cada aula. O sufixo `-0N` é **número de ordem**, não dia do mês — ficou registado em cada
+`ficha_ingresso.md` para que ninguém o leia como data.
+
+Os códigos constam ainda de `dados_termos.py` (base canónica de declaração) em 33 verbetes, e de
+78 citações nas fichas. Não são provisórios: são a declaração oficial de fontes.
+
+### 6.2 Saldo
+
+Dos 17 registos órfãos que citam estas palestras, **11 verificam a 95–100 %** contra o traslado
+e passam a ser aparelháveis; 6 ficam por síntese (cobertura < 80 %).
+
+Pendências restantes desta lista: `B051` (7), `B071` (2), `B072` (2), `B064` (1),
+`ART-2026-08-18` (6) — sem qualquer ficheiro no repositório.
