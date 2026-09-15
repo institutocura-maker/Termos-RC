@@ -56,7 +56,7 @@ Yel Luzbel (RC-078); Len Mion (RC-074); famílias Val (RC-109), Yel (RC-136), Mi
 
 
 ## Citações-chave
-> "Na Revelação Cósmica, os Exilados de Capela são os seres biodemos extraterrestres (entre eles Lúcifer - Yel Luzbel), que vieram para a Terra em face do isolamento cósmico." — B031, verbete "Anjos caídos"
+> «Na Revelação Cósmica, os Exilados de Capela são os seres biodemos» » … « «extraterrestres (entre eles Lúcifer - Yel Luzbel), que vieram para a Terra em» » … « «face do isolamento cósmico.» — B031 p. 124 · `original.txt` L3081 · reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte.
 
 ## Ampliação
 ### B057 (A Revolta do Anjo Decaído)
@@ -107,4 +107,4 @@ Verificar nas obras primárias: a relação com a doutrina espírita dos "exilad
 
 
 > Notas de processo: 2 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-007.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+- ✅ **Reanexação A5 (U91, 15/09/2026):** o trecho entre aspas desta ficha foi reanexado às fontes e passa a trazer aparelho de linha (`— SIGLA · original.txt LNNNN`), conferido byte a byte pelo Portão B. **Quarentena epistemológica de 14/09/2026 (U86) levantada nesta ficha** — a nota original dizia que o trecho não resistia à verificação; agora resiste, porque deixou de ser uma transcrição solta e passou a ser extracto conferido. Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

@@ -45,7 +45,7 @@ Aparece em **P2018-02-24**, U0005. Contexto: o autor lista as religiões como in
 | P2018-02-24 — Pandora e a Estratégia dos Avatares | U0005 (S5) | — | palestra (fonte primária, STT) |
 
 ## Citações-chave
-> «Judaísmo, bromanismo, cristianismo. dividido em catolicismo, protestantismo, espiritismo, islamismo. Tudo isso aqui tem a cara de por trás, inclusive espiritismo. Por mais que ele tenha estranhado, mas o verme, no germe da poluição, veio através de espíritos de ex-católicos e ex-protestantes que soldados espíritas trouxeram.» — P2018-02-24, U0005
+> «Judaísmo, bromanismo, cristianismo. dividido em catolicismo, protestantismo, espiritismo, islamismo. Tudo isso aqui tem a cara de por trás, inclusive espiritismo. Por mais que ele tenha estranhado, mas o verme, no germe da poluição, veio através de espíritos de ex-católicos e ex-protestantes que soldados espíritas trouxeram.» — P2018-02-24 · `original.txt` L5 · reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte.
 
 ## Observações
 - **Quarentena FORTE**: o autor é **kardecista** mas identifica o "germe da poluição" no Espiritismo. Esta é uma **autocrítica** — **NÃO FUSIONAR com crítica acadêmica ao Espiritismo, com antiespiritismo, com anticatolicismo, com antiprotestantismo**.
@@ -55,4 +55,4 @@ Aparece em **P2018-02-24**, U0005. Contexto: o autor lista as religiões como in
 
 
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-805.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o bloco entre «» desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+- ✅ **Reanexação A5 (U91, 15/09/2026):** o trecho entre aspas desta ficha foi reanexado às fontes e passa a trazer aparelho de linha (`— SIGLA · original.txt LNNNN`), conferido byte a byte pelo Portão B. **Quarentena epistemológica de 14/09/2026 (U86) levantada nesta ficha** — a nota original dizia que o trecho não resistia à verificação; agora resiste, porque deixou de ser uma transcrição solta e passou a ser extracto conferido. Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

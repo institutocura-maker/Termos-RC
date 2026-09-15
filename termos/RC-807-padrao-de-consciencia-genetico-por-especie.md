@@ -42,11 +42,11 @@ Aparece em **P2017-05-14**, U0001 (abertura). Contexto: o autor abre a palestra 
 | P2017-05-14 — O Desvio de Rota de Pandora e o Quarto Logos Universal | U0001 (S1) | — | palestra (fonte primária, STT) |
 
 ## Citações-chave
-> «cada espécie que surge, surge com padrão de consciência X e com uma programação genética para que aquela espécie aja daquele jeito. Um leão não tem como agir como elefante.» — P2017-05-14, U0001
+> «cada espécie que surge, surge com padrão de consciência X e com uma programação genética para que aquela espécie aja daquele jeito. Um leão não tem como agir como elefante.» — P2017-05-14 · `original.txt` L3 · reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte.
 
-> «O inverno só trabalha com essas duas componentes no seu cérebro, no cerebelo, na sua inverno interessa sede de inteligência vão poder interagir. O verbo no serviço. Todo e qualquer serviço tá importante inteligência, o tipo de cérebro. E a partir disso ele expressa um padrão de consciência que é característico da espécie que ele perce.» — P2017-05-14, U0001
+> «O inverno só trabalha com essas duas componentes no seu cérebro, no cerebelo, na sua inverno interessa sede de inteligência vão poder interagir. O verbo no serviço. Todo e qualquer serviço tá importante inteligência, o tipo de cérebro. E a partir disso ele expressa um padrão de consciência que é característico da espécie que ele perce.» — P2017-05-14 · `original.txt` L3 · reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte.
 
-> «não havia uma programação para que Pandora ou seja lá quem for, despertasse, rompesse o lacre genético da programação que predestinava aquela espécie a ter um padrão de consciência assistência. E o mais interessante de toda essa história que o deslacre veio de um ponto que onde ninguém esperava.» — P2017-05-14, U0001
+> «não havia uma programação para que Pandora ou seja lá quem for, despertasse, rompesse o lacre genético da programação que predestinava aquela espécie a ter um padrão de consciência assistência. E o mais interessante de toda essa história que o deslacre veio de um ponto que onde ninguém esperava.» — P2017-05-14 · `original.txt` L3 · reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte.
 
 ## Observações
 - [REVISAR → CHANCELA 2026-09-06 · F041-L5: AGUARDA-ÁUDIO (dívida perdoada até nova evidência na base; STT preservado como falado) — ver nota]: a palestra de 2017-05-14 é a única fonte primária dessa formulação específica.
@@ -54,4 +54,4 @@ Aparece em **P2017-05-14**, U0001 (abertura). Contexto: o autor abre a palestra 
 
 
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-807.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** os 3 blocos entre «» desta ficha **não** resistem à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Todos deixam vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+- ✅ **Reanexação A5 (U91, 15/09/2026):** os 3 trechos entre aspas desta ficha foram reanexados às fontes e passam a trazer aparelho de linha (`— SIGLA · original.txt LNNNN`), conferido byte a byte pelo Portão B. **Quarentena epistemológica de 14/09/2026 (U86) levantada nesta ficha** — a nota original dizia que o trecho não resistia à verificação; agora resiste, porque deixou de ser uma transcrição solta e passou a ser extracto conferido. Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

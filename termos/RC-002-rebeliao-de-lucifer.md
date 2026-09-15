@@ -72,7 +72,7 @@ Yel Luzbel (RC-078); Len Mion (RC-074); Família Yel (RC-136); Família Val (RC-
 
 
 ## Citações-chave
-> "Período de inquietações de Yel Luzbel (Lúcifer) que se iniciou há 742 mil anos no Sistema de Capela, gerando uma espécie de vírus que contaminou mais de 213 bilhões de seres, causando uma pandemia generalizada." — B031, verbete "Rebelião de Lúcifer"
+> «Período de inquietações de Yel Luzbel» » … « «(Lúcifer) que se iniciou há 742 mil anos no Sistema de Capela, gerando» » … « «uma espécie de vírus que contaminou mais de 213 bilhões de seres,» » … « «causando uma pandemia generalizada.» — B031 p. 143 · `original.txt` L3724 · reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte.
 
 ## Ampliação
 ### P2024-07-13
@@ -207,7 +207,7 @@ Yel Luzbel (RC-078); Len Mion (RC-074); Família Yel (RC-136); Família Val (RC-
 
 
 > Notas de processo: 4 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-002.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+- ✅ **Reanexação A5 (U91, 15/09/2026):** o trecho entre aspas desta ficha foi reanexado às fontes e passa a trazer aparelho de linha (`— SIGLA · original.txt LNNNN`), conferido byte a byte pelo Portão B. **Quarentena epistemológica de 14/09/2026 (U86) levantada nesta ficha** — a nota original dizia que o trecho não resistia à verificação; agora resiste, porque deixou de ser uma transcrição solta e passou a ser extracto conferido. Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
 
 ## Observações
 A cronologia (742 mil / 687 mil / 619 mil anos) vem do glossário de B031 e **precisa ser confirmada** na Cronologia Aproximada do próprio livro e nas obras primárias de Ellam. Verificar também o papel de Jesus na narrativa.

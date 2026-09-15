@@ -72,9 +72,9 @@ A palestra situa o colapso das colmeias, desde 2006/2007, e o colapso de corais 
 | P2024-02-03 | O Jainismo e o Druidismo Ancestrais (palestra) | — |
 
 ## Citações-chave
-> “O caos organizado que a gente conhece hoje, desde o ano 2007 ele começou a colapsar.”
+> «o caos organizado que a gente conhece hoje, desde o ano 2007 ele começou a colapsar.» — P2025-03-15 · `original.txt` L50 · reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte.
 
-> “Hoje isso tudo está sendo colapsado aos poucos ou repentinamente, depende do que estiver em jogo, pela Rebelião dos Elétrons.”
+> «Hoje isso tudo está sendo colapsado aos poucos ou repentinamente, depende do que estiver em jogo, pela rebelião dos elétrons.» — P2025-03-15 · `original.txt` L51 · reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte.
 
 ## Ampliação
 ### P2025-03-15
@@ -100,4 +100,4 @@ A palestra situa o colapso das colmeias, desde 2006/2007, e o colapso de corais 
 - *Colony Collapse Disorder* é tratado cientificamente como fenômeno multifatorial.
 - A fonte recebida termina no intervalo; a exposição posterior não está disponível.
 - Não interpolar a conclusão ausente.
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** os 2 trechos entre aspas desta ficha **não** resistem à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Todos deixam vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+- ✅ **Reanexação A5 (U91, 15/09/2026):** os 2 trechos entre aspas desta ficha foram reanexados às fontes e passam a trazer aparelho de linha (`— SIGLA · original.txt LNNNN`), conferido byte a byte pelo Portão B. **Quarentena epistemológica de 14/09/2026 (U86) levantada nesta ficha** — a nota original dizia que o trecho não resistia à verificação; agora resiste, porque deixou de ser uma transcrição solta e passou a ser extracto conferido. Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

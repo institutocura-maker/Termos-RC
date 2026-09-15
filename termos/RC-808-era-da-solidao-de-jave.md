@@ -44,7 +44,7 @@ Aparece em **P2017-05-14**, U0002. Contexto: depois que Javé (RC-001) caiu no b
 | B006 — Drama Espírito Javé | — | — | obra do autor (citada na palestra) |
 
 ## Citações-chave
-> «Ele caiu aqui e ele se reconstruiu durante milhões de anos, a chamada era da solidão do Japé, 500. Ele passou mais de 500 milhões de anos tentando se reconstruir, sofreu para cacete muito.» — P2017-05-14, U0002
+> «ele caiu aqui e ele se reconstruiu durante milhões de anos, a chamada era da solidão do Japé, 500. Ele passou mais de 500 milhões de anos tentando se reconstruir, sofreu para cacete muito.» — P2017-05-14 · `original.txt` L3 · reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte.
 
 > «Quando ele se reconstruiu, ele e ser reconstruído de um modo absolutamente [absoluto], totalmente demente e desagregado. No livro Drama Espírito Javé, a gente fala lá que já vé no início se achar um ser múltiplo por isso, porque é como se você tivesse um braço seu voando ali, uma perna voando ali, um olho ali, um ouvido ali.» — P2017-05-14, U0002
 
@@ -55,3 +55,4 @@ Aparece em **P2017-05-14**, U0002. Contexto: depois que Javé (RC-001) caiu no b
 
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-808.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** os 2 blocos entre «» desta ficha **não** resistem à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Todos deixam vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+- ✅ **Reanexação parcial A5 (U91, 15/09/2026):** 1 dos 2 trechos entre aspas desta ficha foi reanexado às fontes e passa a trazer aparelho de linha (`— SIGLA · original.txt LNNNN`), conferido byte a byte pelo Portão B. Os restantes 1 permanecem sob a quarentena epistemológica de 14/09/2026 (U86) — a nota acima continua a valer para eles. Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

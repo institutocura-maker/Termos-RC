@@ -47,10 +47,10 @@ A **expressão prática** da bagagem espiritual: o conjunto de necessidades e pe
 
 ## Citações-chave
 
-> "Existir é ter uma agenda espiritual para cumprir. Esse é o sinônimo mais simples que a gente deve compreender."
+> «Existir é ter uma agenda espiritual para cumprir. Esse é o sinônimo mais simples que a gente deve compreender.» — P2024-04-14 · `original.txt` L132 · reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte.
 
 > "Esse espírito aqui funciona como um ator ou uma atriz que tem uma personalidade própria, mas já fez 50 novelas. Em cada novela tinha um nome diferente, mas ele é ele... O espírito evolui assim ou se ferra assim, porque se ele só produziu personagens que se ferraram ou ferraram alguém, ele é obrigado a apropriar isso nele. E o nome disso, pessoal, é bagagem espiritual intransferível."" — P2024-04-14
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+- ✅ **Reanexação A5 (U91, 15/09/2026):** o trecho entre aspas desta ficha foi reanexado às fontes e passa a trazer aparelho de linha (`— SIGLA · original.txt LNNNN`), conferido byte a byte pelo Portão B. **Quarentena epistemológica de 14/09/2026 (U86) levantada nesta ficha** — a nota original dizia que o trecho não resistia à verificação; agora resiste, porque deixou de ser uma transcrição solta e passou a ser extracto conferido. Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
 
 ## Ampliação
 ### P2023-12-25-01 (Aula 01 — Adolescência e a Juventude de Jesus)

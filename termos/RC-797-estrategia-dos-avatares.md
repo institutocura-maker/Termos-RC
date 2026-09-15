@@ -56,7 +56,7 @@ Aparece em **P2018-02-24**, a palestra **mais antiga** do tema Pandora (Fev/2018
 
 > «qual a estratégia de Enoque, de Noé, de Abraão, de Moisés e Mimos? Todos esses foram vítimas que terminaram se tornando agentes de produzir mais vítimas ainda, porque criaram religiões, criaram agendas na terra que não eram deles, mas de um tal deus que os dominou.» — P2018-02-24, U0005
 
-> «Avatares e agentes da imposição religiosa são exatamente os instrumentos de dominação da humanidade que Javé e outros seres utilizaram.» — P2018-02-24, U0005
+> «Avatares e agentes da imposição religiosa são exatamente os instrumentos de dominação da humanidade que Javé e outros seres utilizaram.» — P2018-02-24 · `original.txt` L5 · reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte.
 
 ## Observações
 - [REVISAR → CHANCELA 2026-09-06 · F041-L5: AGUARDA-ÁUDIO (dívida perdoada até nova evidência na base; STT preservado como falado) — ver nota]: a palestra de 2018-02-24 é a primeira formulação do conceito; pode haver formulações similares em outras palestras.
@@ -65,3 +65,4 @@ Aparece em **P2018-02-24**, a palestra **mais antiga** do tema Pandora (Fev/2018
 
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-797.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** os 3 blocos entre «» desta ficha **não** resistem à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Todos deixam vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+- ✅ **Reanexação parcial A5 (U91, 15/09/2026):** 1 dos 3 trechos entre aspas desta ficha foi reanexado às fontes e passa a trazer aparelho de linha (`— SIGLA · original.txt LNNNN`), conferido byte a byte pelo Portão B. Os restantes 2 permanecem sob a quarentena epistemológica de 14/09/2026 (U86) — a nota acima continua a valer para eles. Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

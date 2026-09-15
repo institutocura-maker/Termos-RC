@@ -39,10 +39,11 @@ Na RC, metáfora do **sistema colmeico de comando** — o modelo em que um coman
 
 ## Citações-chave
 
-> "A Sofia é a abelha rainha, ou seja, é o velho sistema colmeico que funciona entre eles." — P2021-03-27
+> «a Sofia é a abelha rainha, ou seja, é o velho sistema colmeico que funciona entre eles.» — P2021-03-27 · `original.txt` L58 · reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte.
 
 > "A pergunta que se impõe para análise é: o que o atual nível da condição humana poderia saber sobre a “DRAMÁTICA COLMEIA DESENCANTADA” da qual ela faz parte, ainda que, na atualidade, tanto a “Abelha-rainha” (Javé) quanto os espécimes da mesma (as “criaturas- ferramentas” humanas) se viram desenquadrados em relação à função genética que antes os moviam, levando-se também em conta que o Criador não tem a mais remota consciência do que está havendo com a sua condição pessoal? Que choque foi esse? Antes, a “Abelha-rainha” mandava em tudo e em todos, e as criaturas obedeciam." — B044
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** os 2 trechos entre aspas desta ficha **não** resistem à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Todos deixam vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+- ✅ **Reanexação parcial A5 (U91, 15/09/2026):** 1 dos 2 trechos entre aspas desta ficha foi reanexado às fontes e passa a trazer aparelho de linha (`— SIGLA · original.txt LNNNN`), conferido byte a byte pelo Portão B. Os restantes 1 permanecem sob a quarentena epistemológica de 14/09/2026 (U86) — a nota acima continua a valer para eles. Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
 
 ## Ampliação
 ### B044 (A Divina Colmeia)

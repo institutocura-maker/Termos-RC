@@ -1,0 +1,1491 @@
+{
+ "unidade": "U91",
+ "lote": "A5-1",
+ "rota": "R1",
+ "data": "2026-09-15",
+ "aplicar_V": false,
+ "criterio": "A5 — reanexação dos blocos legados com localização conhecida no corpus. Comportas: G1 cobertura 100% (nada do que a ficha diz se perde) · G2 <= 6 fragmentos e <= 60 palavras (é citação, não capítulo) · G3 nenhum fragmento só de símbolos · G4 nenhuma marca de censura/elisão · G5 Portão B (`conferir`, importado do driver) aceita cada fragmento na sua linha. Os 25 blocos reprovados por G2 ficam para unidade própria: não se trunca citação para caber no blockquote, porque truncar seria suprimir conteúdo da ficha.",
+ "nota_hardwrap": "**Fratura de hard-wrap:** a edição digital das fontes quebra as sentenças em linhas curtas. Cada fragmento entre «» é verbatim **intra-linha**, conferido byte a byte contra o `original.txt` da obra declarada; quando uma sentença foi partida, o seu início e o seu fecho aparecem como fragmentos distintos, unidos por » … «.",
+ "fichas": [
+  {
+   "cod": "RC-002",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citações-chave",
+   "sigla": "B031",
+   "linha": 3724,
+   "chave": "periodo de inquietacoes de yel luzbel (lucifer) que se iniciou",
+   "trecho_atual": "Período de inquietações de Yel Luzbel (Lúcifer) que se iniciou há 742 mil anos no Sistema de Capela, gerando uma espécie de vírus que contaminou mais de 213 bilhões de seres, causando uma pandemia generalizada.",
+   "palavras": 35,
+   "cobertura": 100.0,
+   "cobertas": 35,
+   "fragmentos": [
+    [
+     3724,
+     "Período de inquietações de Yel Luzbel"
+    ],
+    [
+     3725,
+     "(Lúcifer) que se iniciou há 742 mil anos no Sistema de Capela, gerando"
+    ],
+    [
+     3726,
+     "uma espécie de vírus que contaminou mais de 213 bilhões de seres,"
+    ],
+    [
+     3727,
+     "causando uma pandemia generalizada."
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-007",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citações-chave",
+   "sigla": "B031",
+   "linha": 3081,
+   "chave": "na revelacao cosmica, os exilados de capela sao os seres",
+   "trecho_atual": "Na Revelação Cósmica, os Exilados de Capela são os seres biodemos extraterrestres (entre eles Lúcifer - Yel Luzbel), que vieram para a Terra em face do isolamento cósmico.",
+   "palavras": 28,
+   "cobertura": 100.0,
+   "cobertas": 28,
+   "fragmentos": [
+    [
+     3081,
+     "Na Revelação Cósmica, os Exilados de Capela são os seres biodemos"
+    ],
+    [
+     3082,
+     "extraterrestres (entre eles Lúcifer - Yel Luzbel), que vieram para a Terra em"
+    ],
+    [
+     3083,
+     "face do isolamento cósmico."
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-021",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citações-chave",
+   "sigla": "B058",
+   "linha": 1376,
+   "chave": "antares e uma estrela supergigante vermelha na constelacao de scorpius.",
+   "trecho_atual": "Antares é uma estrela supergigante vermelha na constelação de Scorpius. É a 162ª estrela mais brilhante do céu noturno.",
+   "palavras": 19,
+   "cobertura": 100.0,
+   "cobertas": 19,
+   "fragmentos": [
+    [
+     1376,
+     "Antares é uma estrela supergigante vermelha na constelação de Scorpius. É a 162ª estrela mais brilhante do céu noturno."
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-071",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citações-chave",
+   "sigla": "B031",
+   "linha": 132,
+   "chave": "ao meu mestre jan val ellam, que nao se intitula",
+   "trecho_atual": "Ao meu mestre Jan Val Ellam, que não se intitula e nem quer ser mestre de ninguém, por sua mediunidade, sabedoria e auto sacrifício ao dedicar sua vida à codificação e transmissão dos conhecimentos e das Revelações Cósmicas e Espirituais que chegam através dele.",
+   "palavras": 44,
+   "cobertura": 100.0,
+   "cobertas": 44,
+   "fragmentos": [
+    [
+     132,
+     "Ao meu mestre Jan Val Ellam, que não se intitula e nem quer ser mestre de ninguém, por sua"
+    ],
+    [
+     133,
+     "mediunidade, sabedoria e auto sacrifício ao dedicar sua vida à codificação e transmissão dos"
+    ],
+    [
+     134,
+     "conhecimentos e das Revelações Cósmicas e Espirituais que chegam através dele."
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-175",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citação-chave",
+   "sigla": "P2021-03-27",
+   "linha": 58,
+   "chave": "a sofia e a abelha rainha, ou seja, e o",
+   "trecho_atual": "A Sofia é a abelha rainha, ou seja, é o velho sistema colmeico que funciona entre eles.",
+   "palavras": 17,
+   "cobertura": 100.0,
+   "cobertas": 17,
+   "fragmentos": [
+    [
+     58,
+     "a Sofia é a abelha rainha, ou seja, é o velho sistema colmeico que funciona entre eles."
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-231",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citação-chave",
+   "sigla": "P2024-07-14",
+   "linha": 103,
+   "chave": "filosofo nao devia ter fe. filosofo deve ser ateu e",
+   "trecho_atual": "Filósofo não devia ter fé. Filósofo deve ser ateu e buscar a verdade livremente.",
+   "palavras": 14,
+   "cobertura": 100.0,
+   "cobertas": 14,
+   "fragmentos": [
+    [
+     103,
+     "filósofo não devia ter fé. Filósofo deve ser ateu e buscar a verdade livremente."
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-232",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citações-chave",
+   "sigla": "B017",
+   "linha": 1528,
+   "chave": "neste padrao de linguagem, a minha identificacao e ostronomos, pai",
+   "trecho_atual": "Neste padrão de linguagem, a minha identificação é Ostronomos, pai dos que aqui estão comigo. Esta é a minha família, minha linhagem mais próxima, que comigo veio do mundo onde surgimos. Praticamos a partilha genética e procriamos tais quais os animais deste mundo.",
+   "palavras": 43,
+   "cobertura": 100.0,
+   "cobertas": 43,
+   "fragmentos": [
+    [
+     1528,
+     "Neste padrão de linguagem, a minha identificação é"
+    ],
+    [
+     1529,
+     "Ostronomos, pai dos que aqui estão comigo. Esta é a minha família, minha linhagem"
+    ],
+    [
+     1530,
+     "mais próxima, que comigo veio do mundo onde surgimos. Praticamos a partilha"
+    ],
+    [
+     1531,
+     "genética e procriamos tais quais os animais deste mundo."
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-243",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citações-chave",
+   "sigla": "B015",
+   "linha": 1784,
+   "chave": "esses pequenos grupos de humanos, que aqui estou chamando de",
+   "trecho_atual": "Esses pequenos grupos de humanos, que aqui estou chamando de laboratórios, eram extremamente ricos em termos da nova configuração da genética da confiança, base do que os terráqueos entendem como atração, desejo e amor.",
+   "palavras": 34,
+   "cobertura": 100.0,
+   "cobertas": 34,
+   "fragmentos": [
+    [
+     1784,
+     "Esses pequenos grupos"
+    ],
+    [
+     1785,
+     "de humanos, que aqui estou chamando de laboratórios, eram extremamente"
+    ],
+    [
+     1786,
+     "ricos em termos da nova configuração da genética da confiança, base do que"
+    ],
+    [
+     1787,
+     "os terráqueos entendem como atração, desejo e amor."
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-303",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citações-chave",
+   "sigla": "B087",
+   "linha": 2529,
+   "chave": "o seu nome e pirra, que significa aquela cheia de",
+   "trecho_atual": "O seu nome é Pirra, que significa aquela cheia de sabedoria, de justiça e amor. Você nasceu através de nós. Somos Epimeteu, da linhagem dos titãs, e Pandora, que antes foi filha de Zeus e, agora, é um ser biológico humanoide. Você foi urdida para manter a minha linhagem mais um tempo sobre a Terra.",
+   "palavras": 55,
+   "cobertura": 100.0,
+   "cobertas": 55,
+   "fragmentos": [
+    [
+     2529,
+     "O seu nome é Pirra, que significa aquela cheia de sabedoria, de justiça e amor."
+    ],
+    [
+     2530,
+     "Você nasceu através de nós. Somos Epimeteu, da linhagem dos titãs, e Pandora, que"
+    ],
+    [
+     2531,
+     "antes foi filha de Zeus e, agora, é um ser biológico humanoide. Você foi urdida para"
+    ],
+    [
+     2532,
+     "manter a minha linhagem mais um tempo sobre a Terra."
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-312",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citações-chave",
+   "sigla": "P2024-11-30",
+   "linha": 88,
+   "chave": "sao dois universos que nasceram agarradinhos um no outro, interpostos.»",
+   "trecho_atual": "São dois universos que nasceram agarradinhos um no outro, interpostos.",
+   "palavras": 10,
+   "cobertura": 100.0,
+   "cobertas": 10,
+   "fragmentos": [
+    [
+     88,
+     "São dois universos que nasceram agarradinhos um no outro, interpostos."
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-314",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citações-chave",
+   "sigla": "B022",
+   "linha": 5373,
+   "chave": "no inicio dos encontros, pensei que o desconforto era so",
+   "trecho_atual": "No início dos encontros, pensei que o desconforto era só meu, pelo fato de ser um intruso ali. Com o tempo, e as renovadas ocorrências, fui percebendo que, para meu espanto, o menos incomodado era eu, pois aquilo tudo doía na organização daqueles seres.",
+   "palavras": 44,
+   "cobertura": 100.0,
+   "cobertas": 44,
+   "fragmentos": [
+    [
+     5373,
+     "No início dos encontros, pensei que o desconforto era só meu, pelo fato"
+    ],
+    [
+     5374,
+     "de ser um intruso ali. Com o tempo, e as renovadas ocorrências, fui"
+    ],
+    [
+     5375,
+     "percebendo que, para meu espanto, o menos incomodado era eu, pois aquilo"
+    ],
+    [
+     5376,
+     "tudo doía na organização daqueles seres."
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-417",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citações-chave",
+   "sigla": "B034",
+   "linha": 1353,
+   "chave": "acostumem-se e compreendam: sou eu que vivo em voces!\" —",
+   "trecho_atual": "Acostumem-se e compreendam: sou eu que vivo em vocês!",
+   "palavras": 9,
+   "cobertura": 100.0,
+   "cobertas": 9,
+   "fragmentos": [
+    [
+     1353,
+     "Acostumem-se e compreendam: sou eu que vivo em vocês!"
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-433",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citações-chave",
+   "sigla": "B052",
+   "linha": 1501,
+   "chave": "a forca que move os humanos ao sexo e anterior",
+   "trecho_atual": "A força que move os humanos ao sexo é anterior a tudo o que existe sob a perspectiva das organizações das formas animalizadas.",
+   "palavras": 23,
+   "cobertura": 100.0,
+   "cobertas": 23,
+   "fragmentos": [
+    [
+     1501,
+     "A força que move os"
+    ],
+    [
+     1502,
+     "humanos ao sexo é anterior a tudo o que existe sob a perspectiva das"
+    ],
+    [
+     1503,
+     "organizações das formas animalizadas."
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-436",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citação-chave",
+   "sigla": "B052",
+   "linha": 414,
+   "chave": "por que entao os meus pais noe, sem, arfaxad e",
+   "trecho_atual": "Por que então os meus pais Noé, Sem, Arfaxad e Salé me investiram da responsabilidade de retornar no mesmo rumo dos passos de Tubal?",
+   "palavras": 24,
+   "cobertura": 100.0,
+   "cobertas": 24,
+   "fragmentos": [
+    [
+     414,
+     "Por que então os"
+    ],
+    [
+     415,
+     "meus pais Noé, Sem, Arfaxad e Salé me investiram da responsabilidade de"
+    ],
+    [
+     416,
+     "retornar no mesmo rumo dos passos de Tubal?"
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-464",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citações-chave",
+   "sigla": "P2021-05-15",
+   "linha": 3,
+   "chave": "“\"e eu to fazendo essa volta toda so para dizer",
+   "trecho_atual": "E eu tô fazendo essa volta toda só para dizer que a deusa Danana é a deusa inana, ou seja, os toatas de Danan, na verdade são os toatas de inan, ou seja, toatas quer dizer seguidores.",
+   "palavras": 37,
+   "cobertura": 100.0,
+   "cobertas": 37,
+   "fragmentos": [
+    [
+     3,
+     "E eu tô fazendo essa volta toda só para dizer que a deusa Danana é a deusa inana, ou seja, os toatas de Danan, na verdade são os toatas de inan, ou seja, toatas quer dizer seguidores."
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-480",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citação-chave",
+   "sigla": "P2026-07-25",
+   "linha": 268,
+   "chave": "um indra e um arconte, e um epiteto, nao e",
+   "trecho_atual": "Um Indra é um arconte, é um epíteto, não é nome próprio.",
+   "palavras": 12,
+   "cobertura": 100.0,
+   "cobertas": 12,
+   "fragmentos": [
+    [
+     268,
+     "Um Indra é um arconte, é um epíteto, não é nome próprio."
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-485",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citação-chave",
+   "sigla": "P2026-07-25",
+   "linha": 275,
+   "chave": "os anjos de jave nao sao de um so tipo,",
+   "trecho_atual": "Os anjos de Javé não são de um só tipo, é de vários tipos.",
+   "palavras": 14,
+   "cobertura": 100.0,
+   "cobertas": 14,
+   "fragmentos": [
+    [
+     275,
+     "os anjos de Javé não são de um só tipo, é de vários tipos."
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-518",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citação-chave",
+   "sigla": "P2026-07-25",
+   "linha": 265,
+   "chave": "nao e o ser humano que e a joia. e",
+   "trecho_atual": "Não é o ser humano que é a joia. É o que um eu de um ser humano faz do seu genoma.",
+   "palavras": 22,
+   "cobertura": 100.0,
+   "cobertas": 22,
+   "fragmentos": [
+    [
+     265,
+     "Não é o ser humano que é a joia. É o que um eu de um ser humano faz do seu genoma."
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-535",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citações-chave",
+   "sigla": "B002",
+   "linha": 10515,
+   "chave": "se voce concorda com os principios e objetivos da cidadania",
+   "trecho_atual": "Se você concorda com os princípios e objetivos da cidadania planetária, junte-se a nós em pensamento, intenção e atitudes.",
+   "palavras": 19,
+   "cobertura": 100.0,
+   "cobertas": 19,
+   "fragmentos": [
+    [
+     10515,
+     "Se você concorda com os princípios e objetivos da cidadania planetária,"
+    ],
+    [
+     10516,
+     "junte-se a nós em pensamento, intenção e atitudes."
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-544",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citações-chave",
+   "sigla": "B019",
+   "linha": 5817,
+   "chave": "nao existe retorno possivel para o incontestavel aspecto de que",
+   "trecho_atual": "Não existe retorno possível para o incontestável aspecto de que a humanidade está dando os seus primeiros passos no seu próprio processo de especiação. O que isso significa?",
+   "palavras": 28,
+   "cobertura": 100.0,
+   "cobertas": 28,
+   "fragmentos": [
+    [
+     5817,
+     "Não existe retorno possível para o incontestável aspecto de que a"
+    ],
+    [
+     5818,
+     "humanidade está dando os seus primeiros passos no seu próprio processo de"
+    ],
+    [
+     5819,
+     "especiação. O que isso significa?"
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-544",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citações-chave",
+   "sigla": "B019",
+   "linha": 5920,
+   "chave": "o progresso tecnologico e as terapias geneticas que modificam nosso",
+   "trecho_atual": "O progresso tecnológico e as terapias genéticas que modificam nosso DNA turbinarão a própria inteligência humana, e isso também vai causar mais diferenciação no processo de especiação.",
+   "palavras": 27,
+   "cobertura": 100.0,
+   "cobertas": 27,
+   "fragmentos": [
+    [
+     5920,
+     "O progresso tecnológico e as terapias genéticas que modificam nosso"
+    ],
+    [
+     5921,
+     "DNA turbinarão a própria inteligência humana, e isso também vai causar"
+    ],
+    [
+     5922,
+     "mais diferenciação no processo de especiação."
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-545",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citação-chave",
+   "sigla": "P2024-07-14",
+   "linha": 103,
+   "chave": "nos temos 18.000 anos para fazer isso. se sobrevivermos enquanto",
+   "trecho_atual": "Nós temos 18.000 anos para fazer isso. Se sobrevivermos enquanto experiência biológica.",
+   "palavras": 12,
+   "cobertura": 100.0,
+   "cobertas": 12,
+   "fragmentos": [
+    [
+     103,
+     "nós temos 18.000 anos para fazer isso. Se sobrevivermos enquanto experiência biológica."
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-565",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citação-chave",
+   "sigla": "P2026-07-25",
+   "linha": 275,
+   "chave": "jesus nasceu como via uma humana maria, mas via uma",
+   "trecho_atual": "Jesus nasceu como via uma humana Maria, mas via uma inseminação artificial em Maria feita por um ser chamado Rockma ou Sofia.",
+   "palavras": 22,
+   "cobertura": 100.0,
+   "cobertas": 22,
+   "fragmentos": [
+    [
+     275,
+     "Jesus nasceu como via uma humana Maria, mas via uma inseminação artificial em Maria feita por um ser chamado Rockma ou Sofia."
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-570",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citações-chave",
+   "sigla": "P2022-12-17",
+   "linha": 5,
+   "chave": "““essas janelas cosmicas atraves das quais essa turma pensa a",
+   "trecho_atual": "Essas janelas cósmicas através das quais essa turma pensa a vida deles e pensa sobre a nossa vida.",
+   "palavras": 18,
+   "cobertura": 100.0,
+   "cobertas": 18,
+   "fragmentos": [
+    [
+     5,
+     "essas janelas cósmicas através das quais essa turma pensa a vida deles e pensa sobre a nossa vida."
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-690",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citações-chave",
+   "sigla": "P2025-03-15",
+   "linha": 50,
+   "chave": "“o caos organizado que a gente conhece hoje, desde o",
+   "trecho_atual": "O caos organizado que a gente conhece hoje, desde o ano 2007 ele começou a colapsar.",
+   "palavras": 16,
+   "cobertura": 100.0,
+   "cobertas": 16,
+   "fragmentos": [
+    [
+     50,
+     "o caos organizado que a gente conhece hoje, desde o ano 2007 ele começou a colapsar."
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-690",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citações-chave",
+   "sigla": "P2025-03-15",
+   "linha": 51,
+   "chave": "“hoje isso tudo esta sendo colapsado aos poucos ou repentinamente,",
+   "trecho_atual": "Hoje isso tudo está sendo colapsado aos poucos ou repentinamente, depende do que estiver em jogo, pela Rebelião dos Elétrons.",
+   "palavras": 20,
+   "cobertura": 100.0,
+   "cobertas": 20,
+   "fragmentos": [
+    [
+     51,
+     "Hoje isso tudo está sendo colapsado aos poucos ou repentinamente, depende do que estiver em jogo, pela rebelião dos elétrons."
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-694",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citações-chave",
+   "sigla": "P2025-02-16",
+   "linha": 113,
+   "chave": "“este e o oitavo dia da criacao. ou o humano",
+   "trecho_atual": "Este é o oitavo dia da criação. Ou o humano executa ou não terá.",
+   "palavras": 14,
+   "cobertura": 100.0,
+   "cobertas": 14,
+   "fragmentos": [
+    [
+     113,
+     "Este é o oitavo dia da criação. Ou o humano executa ou não terá."
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-695",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citações-chave",
+   "sigla": "P2025-02-16",
+   "linha": 113,
+   "chave": "“cada um de nos precisa tambem de regras especificas.”",
+   "trecho_atual": "Cada um de nós precisa também de regras específicas.",
+   "palavras": 9,
+   "cobertura": 100.0,
+   "cobertas": 9,
+   "fragmentos": [
+    [
+     113,
+     "cada um de nós precisa também de regras específicas."
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-698",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citações-chave",
+   "sigla": "P2025-02-16",
+   "linha": 113,
+   "chave": "“esse dna humano tem que ser cedido de maneira consciente.”",
+   "trecho_atual": "Esse DNA humano tem que ser cedido de maneira consciente.",
+   "palavras": 10,
+   "cobertura": 100.0,
+   "cobertas": 10,
+   "fragmentos": [
+    [
+     113,
+     "Esse DNA humano tem que ser cedido de maneira consciente."
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-711",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citações-chave",
+   "sigla": "P2025-02-15",
+   "linha": 167,
+   "chave": "“a egregora surge quando voce repete a emocao.”",
+   "trecho_atual": "A egrégora surge quando você repete a emoção.",
+   "palavras": 8,
+   "cobertura": 100.0,
+   "cobertas": 8,
+   "fragmentos": [
+    [
+     167,
+     "A egrégora surge quando você repete a emoção."
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-714",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citações-chave",
+   "sigla": "P2024-11-30",
+   "linha": 88,
+   "chave": "“moros atirou tres arquivos atemporais para um futuro incerto.”",
+   "trecho_atual": "Moros atirou três arquivos atemporais para um futuro incerto.",
+   "palavras": 9,
+   "cobertura": 100.0,
+   "cobertas": 9,
+   "fragmentos": [
+    [
+     88,
+     "Moros atirou três arquivos atemporais para um futuro incerto."
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-717",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citações-chave",
+   "sigla": "P2024-11-30",
+   "linha": 88,
+   "chave": "“surgiu o primeiro buraco negro mental no ambito dessa criacao.”",
+   "trecho_atual": "Surgiu o primeiro buraco negro mental no âmbito dessa criação.",
+   "palavras": 10,
+   "cobertura": 100.0,
+   "cobertas": 10,
+   "fragmentos": [
+    [
+     88,
+     "surgiu o primeiro buraco negro mental no âmbito dessa criação."
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-720",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citações-chave",
+   "sigla": "P2024-11-30",
+   "linha": 162,
+   "chave": "“nao ha autoridade, nao ha justica divina em curso.”",
+   "trecho_atual": "Não há autoridade, não há justiça divina em curso.",
+   "palavras": 9,
+   "cobertura": 100.0,
+   "cobertas": 9,
+   "fragmentos": [
+    [
+     162,
+     "não há autoridade, não há justiça divina em curso."
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-722",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citação-chave",
+   "sigla": "P2024-11-09",
+   "linha": 57,
+   "chave": "“se nao tiver preocupacao com o aspecto da dignidade, tem",
+   "trecho_atual": "Se não tiver preocupação com o aspecto da dignidade, tem alguma coisa errada com essa crença.",
+   "palavras": 16,
+   "cobertura": 100.0,
+   "cobertas": 16,
+   "fragmentos": [
+    [
+     57,
+     "Se não tiver preocupação com o aspecto da dignidade, tem alguma coisa errada com essa crença."
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-749",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citação-chave",
+   "sigla": "P2024-04-13",
+   "linha": 102,
+   "chave": "quase 7 bilhoes e cacetada de milhoes de seres humanos,",
+   "trecho_atual": "Quase 7 bilhões e cacetada de milhões de seres humanos, todos são cativos do vício devocional que a imposição de Javé marcou no DNA humano.",
+   "palavras": 25,
+   "cobertura": 100.0,
+   "cobertas": 25,
+   "fragmentos": [
+    [
+     102,
+     "quase 7 bilhões e cacetada de milhões de seres humanos, todos são cativos do vício devocional que a imposição de Javé marcou no DNA humano."
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-752",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citação-chave",
+   "sigla": "P2024-04-14",
+   "linha": 132,
+   "chave": "existir e ter uma agenda espiritual para cumprir. esse e",
+   "trecho_atual": "Existir é ter uma agenda espiritual para cumprir. Esse é o sinônimo mais simples que a gente deve compreender.",
+   "palavras": 19,
+   "cobertura": 100.0,
+   "cobertas": 19,
+   "fragmentos": [
+    [
+     132,
+     "Existir é ter uma agenda espiritual para cumprir. Esse é o sinônimo mais simples que a gente deve compreender."
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-755",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citação-chave",
+   "sigla": "P2025-06-14",
+   "linha": 20,
+   "chave": "nos estamos lancando daqui a algum tempo algo que se",
+   "trecho_atual": "Nós estamos lançando daqui a algum tempo algo que se chama escola da decifração da realidade. Essa palestra aqui é a palestra número um da escola.",
+   "palavras": 26,
+   "cobertura": 100.0,
+   "cobertas": 26,
+   "fragmentos": [
+    [
+     20,
+     "nós estamos lançando daqui a algum tempo algo que se chama escola da decifração da realidade. Essa palestra aqui é a palestra número um da escola."
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-785",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citações-chave",
+   "sigla": "P2023-11-11",
+   "linha": 23,
+   "chave": "pandora, lilif, irra, eva, noreia, essas cinco figuras aqui e",
+   "trecho_atual": "Pandora, Lilif, Irra, Eva, Noreia, essas cinco figuras aqui e outras tantas, cujos nomes a gente nunca vai saber, tiveram uma importância, sei lá, fantástica. Não gosto da expressão, mas assim, difícil de ser medida na história da racionalidade humana.",
+   "palavras": 40,
+   "cobertura": 100.0,
+   "cobertas": 40,
+   "fragmentos": [
+    [
+     23,
+     "Pandora, Lilif, Irra, Eva, Noreia, essas cinco figuras aqui e outras tantas, cujos nomes a gente nunca vai saber, tiveram uma importância, sei lá, fantástica. Não gosto da expressão, mas assim, difícil de ser medida na história da racionalidade humana."
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-786",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citações-chave",
+   "sigla": "P2023-11-11",
+   "linha": 23,
+   "chave": "o catolicismo impedia a pessoa de aprender a ler. durante",
+   "trecho_atual": "O catolicismo impedia a pessoa de aprender a ler. Durante mais de 1000 anos, ninguém na Europa podia aprender a ler. Até o século X, ninguém aqui na Europa era autorizado a aprender a ler.",
+   "palavras": 35,
+   "cobertura": 100.0,
+   "cobertas": 35,
+   "fragmentos": [
+    [
+     23,
+     "O catolicismo impedia a pessoa de aprender a ler. Durante mais de 1000 anos, ninguém na Europa podia aprender a ler. Até o século X, ninguém aqui na Europa era autorizado a aprender a ler."
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-788",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citações-chave",
+   "sigla": "P2025-04-06",
+   "linha": 15,
+   "chave": "independente resultado, ou a gente acende esse tipo de luz",
+   "trecho_atual": "Independente resultado, ou a gente acende esse tipo de luz que é esse fogo, porque na época do dos deuses só tinha doido.",
+   "palavras": 23,
+   "cobertura": 100.0,
+   "cobertas": 23,
+   "fragmentos": [
+    [
+     15,
+     "Independente resultado, ou a gente acende esse tipo de luz que é esse fogo, porque na época do dos deuses só tinha doido."
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-791",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citações-chave",
+   "sigla": "P2025-04-06",
+   "linha": 6,
+   "chave": "a lamuria dos deuses passou a ser o fato comum",
+   "trecho_atual": "a lamúria dos deuses passou a ser o fato comum ao longo dos últimos 300 milhões de anos, porque foi o tempo em que o Rinarok exatamente aconteceu.",
+   "palavras": 28,
+   "cobertura": 100.0,
+   "cobertas": 28,
+   "fragmentos": [
+    [
+     6,
+     "a lamúria dos deuses passou a ser o fato comum ao longo dos últimos 300 milhões de anos, porque foi o tempo em que o Rinarok exatamente aconteceu."
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-792",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citações-chave",
+   "sigla": "P2025-04-06",
+   "linha": 15,
+   "chave": "ainda que quando se olha assim, a impressao e que",
+   "trecho_atual": "Ainda que quando se olha assim, a impressão é que de fato o fogo que nunca havia apagado, a humanidade que recebeu esse fogo terminou apagando pela sua corrupção.",
+   "palavras": 29,
+   "cobertura": 100.0,
+   "cobertas": 29,
+   "fragmentos": [
+    [
+     15,
+     "Ainda que quando se olha assim, a impressão é que de fato o fogo que nunca havia apagado, a humanidade que recebeu esse fogo terminou apagando pela sua corrupção."
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-793",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citações-chave",
+   "sigla": "P2025-04-06",
+   "linha": 15,
+   "chave": "surge um conceito em sanscrito abaiano. viva sem se perguntar",
+   "trecho_atual": "surge um conceito em sânscrito abaiano. Viva sem se perguntar se você vai ganhar alguma coisa. Então faça na vida aquilo que você quer fazer. Independente de se perguntar o que é que diabos eu vou ganhar com Isso porque se a gente fizer essa pergunta, só a corrupção responde de modo favorável.",
+   "palavras": 53,
+   "cobertura": 100.0,
+   "cobertas": 53,
+   "fragmentos": [
+    [
+     15,
+     "surge um conceito em sânscrito abaiano. Viva sem se perguntar se você vai ganhar alguma coisa. Então faça na vida aquilo que você quer fazer. Independente de se perguntar o que é que diabos eu vou ganhar com Isso porque se a gente fizer essa pergunta, só a corrupção responde de modo favorável."
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-794",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citações-chave",
+   "sigla": "P2025-04-06",
+   "linha": 32,
+   "chave": "um genero chamado rxa que tem mais de 1000 especies,",
+   "trecho_atual": "um gênero chamado rxá que tem mais de 1000 espécies, tem mais de 1000 tipos de rachas. A gente fala os rchaças, não dá para falar assim porque é uma complexidade muito grande. E uma dessas espécies, Lilif é alguém que surgiu aqui para apoiar a Pandora. Só que Lilif não é humana, é Rxassa. E Lilif é monstruosa.",
+   "palavras": 59,
+   "cobertura": 100.0,
+   "cobertas": 59,
+   "fragmentos": [
+    [
+     32,
+     "um gênero chamado rxá que tem mais de 1000 espécies, tem mais de 1000 tipos de rachas. A gente fala os rchaças, não dá para falar assim porque é uma complexidade muito grande. E uma dessas espécies, Lilif é alguém que surgiu aqui para apoiar a Pandora. Só que Lilif não é humana, é Rxassa. E Lilif é monstruosa."
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-794",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citações-chave",
+   "sigla": "P2025-04-06",
+   "linha": 32,
+   "chave": "lilif saiu e teve descendencia de lili que passou a",
+   "trecho_atual": "Lilif saiu e teve descendência de Lili que passou a manter o mito dela. Então, houve momentos em que o mito de Liliff era mais forte do que Pandora, porque a estratégia era esconder Pandora para que alguns pensassem que ela tava morta para ver se ela ganhava um descanso.",
+   "palavras": 50,
+   "cobertura": 100.0,
+   "cobertas": 50,
+   "fragmentos": [
+    [
+     32,
+     "Lilif saiu e teve descendência de Lili que passou a manter o mito dela. Então, houve momentos em que o mito de Liliff era mais forte do que Pandora, porque a estratégia era esconder Pandora para que alguns pensassem que ela tava morta para ver se ela ganhava um descanso."
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-797",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citações-chave",
+   "sigla": "P2018-02-24",
+   "linha": 5,
+   "chave": "avatares e agentes da imposicao religiosa sao exatamente os instrumentos",
+   "trecho_atual": "Avatares e agentes da imposição religiosa são exatamente os instrumentos de dominação da humanidade que Javé e outros seres utilizaram.",
+   "palavras": 20,
+   "cobertura": 100.0,
+   "cobertas": 20,
+   "fragmentos": [
+    [
+     5,
+     "Avatares e agentes da imposição religiosa são exatamente os instrumentos de dominação da humanidade que Javé e outros seres utilizaram."
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-798",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citações-chave",
+   "sigla": "P2018-02-24",
+   "linha": 5,
+   "chave": "as trevas, cansados de centrarem seus soldados num imperio, depois",
+   "trecho_atual": "as trevas, cansados de centrarem seus soldados num império, depois de uma família diante de dois sucesso seguido, já que a luz veio e derrotou, eles resolveram não mais centrar o poder deles em um lugar como uma família no império. Eles resolveram espalharam mal por todos os corações de todos os seres humanos.",
+   "palavras": 54,
+   "cobertura": 100.0,
+   "cobertas": 54,
+   "fragmentos": [
+    [
+     5,
+     "as trevas, cansados de centrarem seus soldados num império, depois de uma família diante de dois sucesso seguido, já que a luz veio e derrotou, eles resolveram não mais centrar o poder deles em um lugar como uma família no império. Eles resolveram espalharam mal por todos os corações de todos os seres humanos."
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-798",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citações-chave",
+   "sigla": "P2018-02-24",
+   "linha": 5,
+   "chave": "porque assim, se a luz quisesse destruir aquele dna, aquela",
+   "trecho_atual": "Porque assim, se a luz quisesse destruir aquele DNA, aquela semente do mal, teria que destruir toda a humanidade.",
+   "palavras": 19,
+   "cobertura": 100.0,
+   "cobertas": 19,
+   "fragmentos": [
+    [
+     5,
+     "Porque assim, se a luz quisesse destruir aquele DNA, aquela semente do mal, teria que destruir toda a humanidade."
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-799",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citações-chave",
+   "sigla": "P2018-02-24",
+   "linha": 5,
+   "chave": "pandora diz: \"ei, quando e que o mundo vai entender",
+   "trecho_atual": "Pandora diz: \"Ei, quando é que o mundo vai entender que os avatares só fazem ferrar com a humanidade? Porque mesmo das histórias mais belas que eles contam, dependendo de como você observe, tá claro que eles estão querendo sempre encabrestar, tá claro que eles infectaram a humanidade com a doença dele.",
+   "palavras": 52,
+   "cobertura": 100.0,
+   "cobertas": 52,
+   "fragmentos": [
+    [
+     5,
+     "Pandora diz: \"Ei, quando é que o mundo vai entender que os avatares só fazem ferrar com a humanidade? Porque mesmo das histórias mais belas que eles contam, dependendo de como você observe, tá claro que eles estão querendo sempre encabrestar, tá claro que eles infectaram a humanidade com a doença dele."
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-799",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citações-chave",
+   "sigla": "P2018-02-24",
+   "linha": 5,
+   "chave": "entao, panovor bate e bate duro na estrategia dos avatares.",
+   "trecho_atual": "Então, Panovor bate e bate duro na estratégia dos avatares. Porque segundo Pandora, mesmo na luta entre luz e treches e trevas, as estratégias avantagem é avante. para descência humana. Nada se preocupa em dignificar o ser humano.",
+   "palavras": 38,
+   "cobertura": 100.0,
+   "cobertas": 38,
+   "fragmentos": [
+    [
+     5,
+     "Então, Panovor bate e bate duro na estratégia dos avatares. Porque segundo Pandora, mesmo na luta entre luz e treches e trevas, as estratégias avantagem é avante. para descência humana. Nada se preocupa em dignificar o ser humano."
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-800",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citações-chave",
+   "sigla": "P2018-02-24",
+   "linha": 5,
+   "chave": "saibaba tambem o fez, mas 2000 anos antes jesus foi",
+   "trecho_atual": "Saibaba também o fez, mas 2000 anos antes Jesus foi o cara que resolveu não destruir ninguém. resolveu não matar ninguém usando os seus poderes como Javé queria que ele matasse, que ele usasse.",
+   "palavras": 34,
+   "cobertura": 100.0,
+   "cobertas": 34,
+   "fragmentos": [
+    [
+     5,
+     "Saibaba também o fez, mas 2000 anos antes Jesus foi o cara que resolveu não destruir ninguém. resolveu não matar ninguém usando os seus poderes como Javé queria que ele matasse, que ele usasse."
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-800",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citações-chave",
+   "sigla": "P2018-02-24",
+   "linha": 5,
+   "chave": "jesus ele tentou avisar ao ser humano algo que ele",
+   "trecho_atual": "Jesus ele tentou avisar ao ser humano algo que ele não disse explicitamente, mas que agora a gente deve falar. A covardia desses seres é tamanho, porque se essa análise de saber estiver correta, é uma confirmação de que os humanos são cobaias que receberam o final de genética da vida dos deuses.",
+   "palavras": 53,
+   "cobertura": 100.0,
+   "cobertas": 53,
+   "fragmentos": [
+    [
+     5,
+     "Jesus ele tentou avisar ao ser humano algo que ele não disse explicitamente, mas que agora a gente deve falar. A covardia desses seres é tamanho, porque se essa análise de saber estiver correta, é uma confirmação de que os humanos são cobaias que receberam o final de genética da vida dos deuses."
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-801",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citações-chave",
+   "sigla": "P2018-02-24",
+   "linha": 5,
+   "chave": "saibaba tambem o fez, mas 2000 anos antes jesus foi",
+   "trecho_atual": "Saibaba também o fez, mas 2000 anos antes Jesus foi o cara que resolveu não destruir ninguém.",
+   "palavras": 17,
+   "cobertura": 100.0,
+   "cobertas": 17,
+   "fragmentos": [
+    [
+     5,
+     "Saibaba também o fez, mas 2000 anos antes Jesus foi o cara que resolveu não destruir ninguém."
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-801",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citações-chave",
+   "sigla": "P2018-02-24",
+   "linha": 5,
+   "chave": "por isso as trevas teriam feito varias varias ordas de",
+   "trecho_atual": "Por isso as trevas teriam feito várias várias ordas de encarnações sucessivas estrategicamente preparadas no último mil de len antes de Cristo para esse mistério, para atingir esse objetivo.",
+   "palavras": 29,
+   "cobertura": 100.0,
+   "cobertas": 29,
+   "fragmentos": [
+    [
+     5,
+     "por isso as trevas teriam feito várias várias ordas de encarnações sucessivas estrategicamente preparadas no último mil de len antes de Cristo para esse mistério, para atingir esse objetivo."
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-802",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citações-chave",
+   "sigla": "P2018-02-24",
+   "linha": 5,
+   "chave": "e uma confirmacao de que os humanos sao cobaias que",
+   "trecho_atual": "é uma confirmação de que os humanos são cobaias que receberam o final de genética da vida dos deuses.",
+   "palavras": 19,
+   "cobertura": 100.0,
+   "cobertas": 19,
+   "fragmentos": [
+    [
+     5,
+     "é uma confirmação de que os humanos são cobaias que receberam o final de genética da vida dos deuses."
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-802",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citações-chave",
+   "sigla": "P2018-02-24",
+   "linha": 5,
+   "chave": "ai jesus sai bar essas figuras que fazem parte dessa",
+   "trecho_atual": "Aí Jesus sai bar essas figuras que fazem parte dessa loucura de avatares, mas eles também conseguem ter um código filosófico que apresentam ao mesmo tempo o antídoto com dessa loucura da qual eles mesmos são portadores.",
+   "palavras": 37,
+   "cobertura": 100.0,
+   "cobertas": 37,
+   "fragmentos": [
+    [
+     5,
+     "Aí Jesus sai bar essas figuras que fazem parte dessa loucura de avatares, mas eles também conseguem ter um código filosófico que apresentam ao mesmo tempo o antídoto com dessa loucura da qual eles mesmos são portadores."
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-805",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citações-chave",
+   "sigla": "P2018-02-24",
+   "linha": 5,
+   "chave": "judaismo, bromanismo, cristianismo. dividido em catolicismo, protestantismo, espiritismo, islamismo. tudo",
+   "trecho_atual": "Judaísmo, bromanismo, cristianismo. dividido em catolicismo, protestantismo, espiritismo, islamismo. Tudo isso aqui tem a cara de por trás, inclusive espiritismo. Por mais que ele tenha estranhado, mas o verme, no germe da poluição, veio através de espíritos de ex-católicos e ex-protestantes que soldados espíritas trouxeram.",
+   "palavras": 45,
+   "cobertura": 100.0,
+   "cobertas": 45,
+   "fragmentos": [
+    [
+     5,
+     "Judaísmo, bromanismo, cristianismo. dividido em catolicismo, protestantismo, espiritismo, islamismo. Tudo isso aqui tem a cara de por trás, inclusive espiritismo. Por mais que ele tenha estranhado, mas o verme, no germe da poluição, veio através de espíritos de ex-católicos e ex-protestantes que soldados espíritas trouxeram."
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-807",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citações-chave",
+   "sigla": "P2017-05-14",
+   "linha": 3,
+   "chave": "cada especie que surge, surge com padrao de consciencia x",
+   "trecho_atual": "cada espécie que surge, surge com padrão de consciência X e com uma programação genética para que aquela espécie aja daquele jeito. Um leão não tem como agir como elefante.",
+   "palavras": 30,
+   "cobertura": 100.0,
+   "cobertas": 30,
+   "fragmentos": [
+    [
+     3,
+     "cada espécie que surge, surge com padrão de consciência X e com uma programação genética para que aquela espécie aja daquele jeito. Um leão não tem como agir como elefante."
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-807",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citações-chave",
+   "sigla": "P2017-05-14",
+   "linha": 3,
+   "chave": "o inverno so trabalha com essas duas componentes no seu",
+   "trecho_atual": "O inverno só trabalha com essas duas componentes no seu cérebro, no cerebelo, na sua inverno interessa sede de inteligência vão poder interagir. O verbo no serviço. Todo e qualquer serviço tá importante inteligência, o tipo de cérebro. E a partir disso ele expressa um padrão de consciência que é característico da espécie que ele perce.",
+   "palavras": 56,
+   "cobertura": 100.0,
+   "cobertas": 56,
+   "fragmentos": [
+    [
+     3,
+     "O inverno só trabalha com essas duas componentes no seu cérebro, no cerebelo, na sua inverno interessa sede de inteligência vão poder interagir. O verbo no serviço. Todo e qualquer serviço tá importante inteligência, o tipo de cérebro. E a partir disso ele expressa um padrão de consciência que é característico da espécie que ele perce."
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-807",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citações-chave",
+   "sigla": "P2017-05-14",
+   "linha": 3,
+   "chave": "nao havia uma programacao para que pandora ou seja la",
+   "trecho_atual": "não havia uma programação para que Pandora ou seja lá quem for, despertasse, rompesse o lacre genético da programação que predestinava aquela espécie a ter um padrão de consciência assistência. E o mais interessante de toda essa história que o deslacre veio de um ponto que onde ninguém esperava.",
+   "palavras": 49,
+   "cobertura": 100.0,
+   "cobertas": 49,
+   "fragmentos": [
+    [
+     3,
+     "não havia uma programação para que Pandora ou seja lá quem for, despertasse, rompesse o lacre genético da programação que predestinava aquela espécie a ter um padrão de consciência assistência. E o mais interessante de toda essa história que o deslacre veio de um ponto que onde ninguém esperava."
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-808",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citações-chave",
+   "sigla": "P2017-05-14",
+   "linha": 3,
+   "chave": "ele caiu aqui e ele se reconstruiu durante milhoes de",
+   "trecho_atual": "Ele caiu aqui e ele se reconstruiu durante milhões de anos, a chamada era da solidão do Japé, 500. Ele passou mais de 500 milhões de anos tentando se reconstruir, sofreu para cacete muito.",
+   "palavras": 34,
+   "cobertura": 100.0,
+   "cobertas": 34,
+   "fragmentos": [
+    [
+     3,
+     "ele caiu aqui e ele se reconstruiu durante milhões de anos, a chamada era da solidão do Japé, 500. Ele passou mais de 500 milhões de anos tentando se reconstruir, sofreu para cacete muito."
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-812",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citações-chave",
+   "sigla": "P2017-05-14",
+   "linha": 4,
+   "chave": "prometeu era genial num sentido e pometeu no outro. pimeteu",
+   "trecho_atual": "Prometeu era genial num sentido e Pometeu no outro. Pimeteu era um cientista maluco. Sabe aquele cientista maluco que faz 100 anos experiências no seu laboratório, mistura isso com aquilo?",
+   "palavras": 30,
+   "cobertura": 100.0,
+   "cobertas": 30,
+   "fragmentos": [
+    [
+     4,
+     "Prometeu era genial num sentido e Pometeu no outro. Pimeteu era um cientista maluco. Sabe aquele cientista maluco que faz 100 anos experiências no seu laboratório, mistura isso com aquilo?"
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-812",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citações-chave",
+   "sigla": "P2017-05-14",
+   "linha": 4,
+   "chave": "prometeu sempre que podia sacranear voces porque tinha richa entre",
+   "trecho_atual": "Prometeu sempre que podia sacranear vocês porque tinha richa entre os titães mais velhos e os olímpicos desde a época da guerra.",
+   "palavras": 22,
+   "cobertura": 100.0,
+   "cobertas": 22,
+   "fragmentos": [
+    [
+     4,
+     "prometeu sempre que podia sacranear vocês porque tinha richa entre os titães mais velhos e os olímpicos desde a época da guerra."
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-815",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citações-chave",
+   "sigla": "P2018-05-20",
+   "linha": 3,
+   "chave": "pandora ela surgiu como, entre aspas, como um ser filho",
+   "trecho_atual": "Pandora ela surgiu como, entre aspas, como um ser filho de Zeus e Temes, mas não sentir sexual, pois que nessa época Deus ainda, a geração de Zeus não tinha assumido o aspecto biológico da sexualidade. Eles apenas procriavam mentalmente uma outra forma de fazer as coisas.",
+   "palavras": 47,
+   "cobertura": 100.0,
+   "cobertas": 47,
+   "fragmentos": [
+    [
+     3,
+     "Pandora ela surgiu como, entre aspas, como um ser filho de Zeus e Temes, mas não sentir sexual, pois que nessa época Deus ainda, a geração de Zeus não tinha assumido o aspecto biológico da sexualidade. Eles apenas procriavam mentalmente uma outra forma de fazer as coisas."
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-815",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citações-chave",
+   "sigla": "P2018-05-20",
+   "linha": 3,
+   "chave": "a mitologia nao conta que essa vontade de zeus foi",
+   "trecho_atual": "A mitologia não conta que essa vontade de Zeus foi provocada por uma professa de Zeus e tênis.",
+   "palavras": 18,
+   "cobertura": 100.0,
+   "cobertas": 18,
+   "fragmentos": [
+    [
+     3,
+     "a mitologia não conta que essa vontade de Zeus foi provocada por uma professa de Zeus e tênis."
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-815",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citações-chave",
+   "sigla": "P2018-05-20",
+   "linha": 3,
+   "chave": "a misteriosa temis estava com tras, mas e que implica",
+   "trecho_atual": "A misteriosa Temis estava com trás, mas é que implica uma reflexão.",
+   "palavras": 12,
+   "cobertura": 100.0,
+   "cobertas": 12,
+   "fragmentos": [
+    [
+     3,
+     "A misteriosa Temis estava com trás, mas é que implica uma reflexão."
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-820",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citações-chave",
+   "sigla": "P2019-04-14",
+   "linha": 11,
+   "chave": "nos, os humanos, produzimos o melhor perfume porque somos a",
+   "trecho_atual": "nós, os humanos, produzimos o melhor perfume porque somos a junção do cérebro radiado a um cérebro bilatério. E o nosso circuito produz muito mais coisas, sequências, perfumes do que a de um demo, do que a de um macaco, do que a de um cavalo.",
+   "palavras": 46,
+   "cobertura": 100.0,
+   "cobertas": 46,
+   "fragmentos": [
+    [
+     11,
+     "Nós, os humanos, produzimos o melhor perfume porque somos a junção do cérebro radiado a um cérebro bilatério. E o nosso circuito produz muito mais coisas, sequências, perfumes do que a de um demo, do que a de um macaco, do que a de um cavalo."
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-825",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citações-chave",
+   "sigla": "P2019-04-14",
+   "linha": 11,
+   "chave": "o nosso espirito que nao precisa se alimentar de nada,",
+   "trecho_atual": "o nosso espírito que não precisa se alimentar de nada, o nosso espírito que não precisa transar, o nosso espírito que não tem nem como defecar, ele hoje é obrigado a lidar com as influências, as infecções que os sistemas que ele apropriou vivendo nos corpos biológicos da evolução planetária.",
+   "palavras": 50,
+   "cobertura": 100.0,
+   "cobertas": 50,
+   "fragmentos": [
+    [
+     11,
+     "o nosso espírito que não precisa se alimentar de nada, o nosso espírito que não precisa transar, o nosso espírito que não tem nem como defecar, ele hoje é obrigado a lidar com as influências, as infecções que os sistemas que ele apropriou vivendo nos corpos biológicos da evolução planetária."
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-826",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citações-chave",
+   "sigla": "P2023-12-17",
+   "linha": 11,
+   "chave": "a rebeliao dos eletrons, a propria rebeliao da das memorias",
+   "trecho_atual": "A rebelião dos elétrons, a própria rebelião da das memórias dos elétrons. Isso não é entropia, isso está além das entropias. Ninguém previa esse problema dos elétrons lá atrás, nesse diverse vizinho.",
+   "palavras": 32,
+   "cobertura": 100.0,
+   "cobertas": 32,
+   "fragmentos": [
+    [
+     11,
+     "A rebelião dos elétrons, a própria rebelião da das memórias dos elétrons. Isso não é entropia, isso está além das entropias. Ninguém previa esse problema dos elétrons lá atrás, nesse diverse vizinho."
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-826",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citações-chave",
+   "sigla": "P2023-12-17",
+   "linha": 16,
+   "chave": "os eletrons eles estao acumulando informacoes mais e mais e",
+   "trecho_atual": "Os elétrons eles estão acumulando informações mais e mais e enquanto isso aqui durar essa criação, eles vão estar acumulando informação. Mas compreendo, eles já acumularam um grau de informação negativa que fez a infinitude memorial deles não suportar mais apropriar.",
+   "palavras": 41,
+   "cobertura": 100.0,
+   "cobertas": 41,
+   "fragmentos": [
+    [
+     16,
+     "Os elétrons eles estão acumulando informações mais e mais e enquanto isso aqui durar essa criação, eles vão estar acumulando informação. Mas compreendo, eles já acumularam um grau de informação negativa que fez a infinitude memorial deles não suportar mais apropriar."
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-829",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citações-chave",
+   "sigla": "P2023-12-17",
+   "linha": 16,
+   "chave": "nao existe inconsciente coletivo dos eletrons. quem disse que nao",
+   "trecho_atual": "Não existe inconsciente coletivo dos elétrons. Quem disse que não existe? Existe. Só que a gente não tem como. Mas ex Eles estão trabalhando os arcanos mais antigos deles no sentido de desfazê-los.",
+   "palavras": 33,
+   "cobertura": 100.0,
+   "cobertas": 33,
+   "fragmentos": [
+    [
+     16,
+     "Não existe inconsciente coletivo dos elétrons. Quem disse que não existe? Existe. Só que a gente não tem como. Mas ex Eles estão trabalhando os arcanos mais antigos deles no sentido de desfazê-los."
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  },
+  {
+   "cod": "RC-831",
+   "secao": "## Citações-chave",
+   "secao_censo_u86": "Citações-chave",
+   "sigla": "P2023-12-17",
+   "linha": 3,
+   "chave": "jave aceitou que se criassem dois seres livres nessa historia.",
+   "trecho_atual": "Javé aceitou que se criassem dois seres livres nessa história. Um foi Morençor E por isso a estrutura física do corpo de Morrensor teve que compor quatro cabeças porque Javé aceitou, mas queria estar presente também no corpo de Morençô. Porque se a cabeça de Morençor descumprisse os termos da trimurte, os três destruiriam Morençor naquele corpo.",
+   "palavras": 57,
+   "cobertura": 100.0,
+   "cobertas": 57,
+   "fragmentos": [
+    [
+     3,
+     "Javé aceitou que se criassem dois seres livres nessa história. Um foi Morençor E por isso a estrutura física do corpo de Morrensor teve que compor quatro cabeças porque Javé aceitou, mas queria estar presente também no corpo de Morençô. Porque se a cabeça de Morençor descumprisse os termos da trimurte, os três destruiriam Morençor naquele corpo."
+    ]
+   ],
+   "nota": "reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte"
+  }
+ ]
+}

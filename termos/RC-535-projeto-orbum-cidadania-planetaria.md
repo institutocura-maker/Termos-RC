@@ -45,7 +45,7 @@ Jan Val Ellam (RC-071, idealizador); Jesus (ensinamento da cidadania cósmica, s
 ## Citações-chave
 > "Exerça plenamente a sua nacionalidade, mas não esqueça: somos todos cidadãos planetários. Por conseguinte, formamos uma só família ante o cosmos." — B042, p. 226
 
-> "Se você concorda com os princípios e objetivos da cidadania planetária, junte-se a nós em pensamento, intenção e atitudes." — B042, p. 228
+> «Se você concorda com os princípios e objetivos da cidadania planetária,» » … « «junte-se a nós em pensamento, intenção e atitudes.» — B002 p. 238 · `original.txt` L10515 · reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte.
 
 ## Ampliação
 ### P2024-11-03 (Apolônio de Tiana e o Quarto Logos)
@@ -64,3 +64,4 @@ Movimento real do Ellam (site www.orbum.org; citado em outras obras da Etapa II)
 
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-535.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** os 2 trechos entre aspas desta ficha **não** resistem à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Todos deixam vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+- ✅ **Reanexação parcial A5 (U91, 15/09/2026):** 1 dos 2 trechos entre aspas desta ficha foi reanexado às fontes e passa a trazer aparelho de linha (`— SIGLA · original.txt LNNNN`), conferido byte a byte pelo Portão B. Os restantes 1 permanecem sob a quarentena epistemológica de 14/09/2026 (U86) — a nota acima continua a valer para eles. Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

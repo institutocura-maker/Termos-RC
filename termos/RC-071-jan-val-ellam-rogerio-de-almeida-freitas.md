@@ -70,7 +70,7 @@ Ver Base (os relacionados acima cobrem o círculo direto; a Família Val: RC-109
 ## Citações-chave
 > "Trilha cerebral aqui significa o conjunto dos novos elementos agora colecionados no jogo sináptico dos mais de 80 bilhões de neurônios produzindo cerca de 100 trilhões de estradas neurais no cérebro humano." — B031, prefácio de Ellam (p. 9)
 
-> "Ao meu mestre Jan Val Ellam, que não se intitula e nem quer ser mestre de ninguém, por sua mediunidade, sabedoria e auto sacrifício ao dedicar sua vida à codificação e transmissão dos conhecimentos e das Revelações Cósmicas e Espirituais que chegam através dele." — B031, agradecimentos (p. 8) [leitura da autora — quarentena biográfica]
+> «Ao meu mestre Jan Val Ellam, que não se intitula e nem quer ser mestre de ninguém, por sua» » … « «mediunidade, sabedoria e auto sacrifício ao dedicar sua vida à codificação e transmissão dos» » … « «conhecimentos e das Revelações Cósmicas e Espirituais que chegam através dele.» — B031 p. 8 · `original.txt` L132 · reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte.
 
 ## Ampliação
 ### B031 (Painéis Emergentes da Revelação Cósmica)
@@ -94,3 +94,4 @@ Ver Base (os relacionados acima cobrem o círculo direto; a Família Val: RC-109
 - **Quarentena institucional**: IEEA/IESP/INSTALM, Rádio Atlan, Nova Egrégora = ecossistema de difusão, fora da ontologia primária.
 - B074 p. 215 (Hitler/biodemos): **segue BANIDO** — não reincide nesta ficha.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** os 2 trechos entre aspas desta ficha **não** resistem à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Todos deixam vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+- ✅ **Reanexação parcial A5 (U91, 15/09/2026):** 1 dos 2 trechos entre aspas desta ficha foi reanexado às fontes e passa a trazer aparelho de linha (`— SIGLA · original.txt LNNNN`), conferido byte a byte pelo Portão B. Os restantes 1 permanecem sob a quarentena epistemológica de 14/09/2026 (U86) — a nota acima continua a valer para eles. Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

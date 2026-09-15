@@ -44,7 +44,7 @@ O código RC-203 permanece na sequência (a contiguidade é requisito do validad
 como **remissiva** para este verbete. Nenhuma aresta foi criada, removida ou
 redirecionada em `RELACOES` — inclusive a aresta `RC-203 -[variação]-> RC-314 [B035]`,
 que agora aponta da remissiva para o verbete canônico.
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+- ✅ **Reanexação A5 (U91, 15/09/2026):** o trecho entre aspas desta ficha foi reanexado às fontes e passa a trazer aparelho de linha (`— SIGLA · original.txt LNNNN`), conferido byte a byte pelo Portão B. **Quarentena epistemológica de 14/09/2026 (U86) levantada nesta ficha** — a nota original dizia que o trecho não resistia à verificação; agora resiste, porque deixou de ser uma transcrição solta e passou a ser extracto conferido. Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
 
 ## Contexto / Origem
 Os fenômenos denunciadores do fim são o pano de fundo sensorial de todo o B022: o "firmamento em plena convulsão", os "potentíssimos fenômenos" que se sucedem, os campos protetores em torno dos três seres. Eles anunciam o **Tempo de Apostasia** (RC-313), a Dissolução da Tríade (RC-300) e o fim da Lila (RC-315). O termo apareceu primeiramente como título de capítulo no sumário de B035 (O Big Data do Criador), onde foi registrado como candidato — agora confirmado com o conteúdo de B022.
@@ -77,7 +77,7 @@ Brahma (RC-037); Vishnu (RC-135); Shiva (RC-102); Jan Val Ellam (RC-071, testemu
 
 
 ## Citações-chave
-> "No início dos encontros, pensei que o desconforto era só meu, pelo fato de ser um intruso ali. Com o tempo, e as renovadas ocorrências, fui percebendo que, para meu espanto, o menos incomodado era eu, pois aquilo tudo doía na organização daqueles seres." — B022, cap. 4
+> «No início dos encontros, pensei que o desconforto era só meu, pelo fato» » … « «de ser um intruso ali. Com o tempo, e as renovadas ocorrências, fui» » … « «percebendo que, para meu espanto, o menos incomodado era eu, pois aquilo» » … « «tudo doía na organização daqueles seres.» — B022 p. 126 · `original.txt` L5373 · reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte.
 
 ## Ampliação
 ### B022 (Inquisição Trimurtiana)

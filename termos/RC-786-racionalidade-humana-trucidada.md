@@ -52,7 +52,7 @@ Aparece em **P2023-11-11**, U0004, em conexão com a **Sequência Formativa** (R
 | Goethe — Fausto (séc. XIX) | Parte I | — | obra clássica (referência cultural do autor) |
 
 ## Citações-chave
-> «O catolicismo impedia a pessoa de aprender a ler. Durante mais de 1000 anos, ninguém na Europa podia aprender a ler. Até o século X, ninguém aqui na Europa era autorizado a aprender a ler.» — P2023-11-11, U0004
+> «O catolicismo impedia a pessoa de aprender a ler. Durante mais de 1000 anos, ninguém na Europa podia aprender a ler. Até o século X, ninguém aqui na Europa era autorizado a aprender a ler.» — P2023-11-11 · `original.txt` L23 · reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte.
 
 > «Boécio, que foi um cidadão do século V, um dos patrícios [...] percebeu o quanto a decadência da mente romana. Ele tentou traduzir o trívio quadrível para as gerações novas romanas, mas aí matar o cara com 44 anos. [...] A racionalidade humana, que é o que a gente tá discutindo aqui nessa palestra, ela foi trucidada de diversas maneiras.» — P2023-11-11, U0004
 
@@ -66,3 +66,4 @@ Aparece em **P2023-11-11**, U0004, em conexão com a **Sequência Formativa** (R
 
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-786.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** os 3 blocos entre «» desta ficha **não** resistem à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Todos deixam vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+- ✅ **Reanexação parcial A5 (U91, 15/09/2026):** 1 dos 3 trechos entre aspas desta ficha foi reanexado às fontes e passa a trazer aparelho de linha (`— SIGLA · original.txt LNNNN`), conferido byte a byte pelo Portão B. Os restantes 2 permanecem sob a quarentena epistemológica de 14/09/2026 (U86) — a nota acima continua a valer para eles. Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

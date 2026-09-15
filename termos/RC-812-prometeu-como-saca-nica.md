@@ -46,9 +46,9 @@ Aparece em **P2017-05-14**, U0004. Contexto: a relação Prometeu-Zeus é de "ri
 | P2017-05-14 — O Desvio de Rota de Pandora e o Quarto Logos Universal | U0004 (S4) | — | palestra (fonte primária, STT) |
 
 ## Citações-chave
-> «Prometeu era genial num sentido e Pometeu no outro. Pimeteu era um cientista maluco. Sabe aquele cientista maluco que faz 100 anos experiências no seu laboratório, mistura isso com aquilo?» — P2017-05-14, U0004
+> «Prometeu era genial num sentido e Pometeu no outro. Pimeteu era um cientista maluco. Sabe aquele cientista maluco que faz 100 anos experiências no seu laboratório, mistura isso com aquilo?» — P2017-05-14 · `original.txt` L4 · reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte.
 
-> «Prometeu sempre que podia sacranear vocês porque tinha richa entre os titães mais velhos e os olímpicos desde a época da guerra.» — P2017-05-14, U0004
+> «prometeu sempre que podia sacranear vocês porque tinha richa entre os titães mais velhos e os olímpicos desde a época da guerra.» — P2017-05-14 · `original.txt` L4 · reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte.
 
 > «Aí Prometheus sacanear vocês [...] Prometeu ajudou, foi embora. I Zeus ficou muito feliz, mas todo mundo dizendo para Zeus não para ele mesmo. Eu ainda ele não tá vendo de novo que prometeu curtir com a cara dele. Isso era relativo a sacrifícios cara. A Zeus, anos depois, convencido de que prometeu algum sacanear, resolve se vingar de prometeu.» — P2017-05-14, U0004
 
@@ -59,3 +59,4 @@ Aparece em **P2017-05-14**, U0004. Contexto: a relação Prometeu-Zeus é de "ri
 
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-812.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** os 3 blocos entre «» desta ficha **não** resistem à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Todos deixam vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+- ✅ **Reanexação parcial A5 (U91, 15/09/2026):** 2 dos 3 trechos entre aspas desta ficha foram reanexados às fontes e passam a trazer aparelho de linha (`— SIGLA · original.txt LNNNN`), conferido byte a byte pelo Portão B. Os restantes 1 permanecem sob a quarentena epistemológica de 14/09/2026 (U86) — a nota acima continua a valer para eles. Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

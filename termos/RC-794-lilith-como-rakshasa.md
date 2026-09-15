@@ -45,9 +45,9 @@ Aparece em **P2025-04-06**, U0006, em resposta à pergunta sobre Nyx. Contexto: 
 | P2023-11-11 — De Pandora a Eva e a Rebelião de Lilith | U0004 (S4) | — | palestra (fonte secundária, contexto) |
 
 ## Citações-chave
-> «um gênero chamado rxá que tem mais de 1000 espécies, tem mais de 1000 tipos de rachas. A gente fala os rchaças, não dá para falar assim porque é uma complexidade muito grande. E uma dessas espécies, Lilif é alguém que surgiu aqui para apoiar a Pandora. Só que Lilif não é humana, é Rxassa. E Lilif é monstruosa.» — P2025-04-06, U0006
+> «um gênero chamado rxá que tem mais de 1000 espécies, tem mais de 1000 tipos de rachas. A gente fala os rchaças, não dá para falar assim porque é uma complexidade muito grande. E uma dessas espécies, Lilif é alguém que surgiu aqui para apoiar a Pandora. Só que Lilif não é humana, é Rxassa. E Lilif é monstruosa.» — P2025-04-06 · `original.txt` L32 · reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte.
 
-> «Lilif saiu e teve descendência de Lili que passou a manter o mito dela. Então, houve momentos em que o mito de Liliff era mais forte do que Pandora, porque a estratégia era esconder Pandora para que alguns pensassem que ela tava morta para ver se ela ganhava um descanso.» — P2025-04-06, U0006
+> «Lilif saiu e teve descendência de Lili que passou a manter o mito dela. Então, houve momentos em que o mito de Liliff era mais forte do que Pandora, porque a estratégia era esconder Pandora para que alguns pensassem que ela tava morta para ver se ela ganhava um descanso.» — P2025-04-06 · `original.txt` L32 · reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte.
 
 ## Ampliação
 ### P2024-03-17
@@ -58,7 +58,7 @@ Aparece em **P2025-04-06**, U0006, em resposta à pergunta sobre Nyx. Contexto: 
 
 
 > Notas de processo: 2 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-794.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** os 2 blocos entre «» desta ficha **não** resistem à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Todos deixam vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+- ✅ **Reanexação A5 (U91, 15/09/2026):** os 2 trechos entre aspas desta ficha foram reanexados às fontes e passam a trazer aparelho de linha (`— SIGLA · original.txt LNNNN`), conferido byte a byte pelo Portão B. **Quarentena epistemológica de 14/09/2026 (U86) levantada nesta ficha** — a nota original dizia que o trecho não resistia à verificação; agora resiste, porque deixou de ser uma transcrição solta e passou a ser extracto conferido. Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
 
 ## Observações
 - **Quarentena demonológica FORTE**: a tese afasta Lilith da demonologia judaica-cristã tradicional (1ª esposa de Adão, mãe de demônios) — **NÃO FUSIONAR**.

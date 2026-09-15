@@ -50,9 +50,9 @@ Aparece em **P2018-02-24**, U0004. Contexto: depois que as trevas espalharam o m
 ## Citações-chave
 > «Saibaba [...] ele agora teria vindo à vida humana não para destruir ninguém, mas para convidar todos os seres humanos a entre aspas amarem a Deus que era ele mesmo feito homem.» — P2018-02-24, U0004
 
-> «Saibaba também o fez, mas 2000 anos antes Jesus foi o cara que resolveu não destruir ninguém.» — P2018-02-24, U0004
+> «Saibaba também o fez, mas 2000 anos antes Jesus foi o cara que resolveu não destruir ninguém.» — P2018-02-24 · `original.txt` L5 · reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte.
 
-> «Por isso as trevas teriam feito várias várias ordas de encarnações sucessivas estrategicamente preparadas no último mil de len antes de Cristo para esse mistério, para atingir esse objetivo.» — P2018-02-24, U0004
+> «por isso as trevas teriam feito várias várias ordas de encarnações sucessivas estrategicamente preparadas no último mil de len antes de Cristo para esse mistério, para atingir esse objetivo.» — P2018-02-24 · `original.txt` L5 · reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte.
 
 ## Ampliação
 ### P2012-02-19 (Xadrez Cósmico de Brahma, Vishnu e Shiva)
@@ -69,3 +69,4 @@ Aparece em **P2018-02-24**, U0004. Contexto: depois que as trevas espalharam o m
 
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-801.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** os 3 blocos entre «» desta ficha **não** resistem à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Todos deixam vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+- ✅ **Reanexação parcial A5 (U91, 15/09/2026):** 2 dos 3 trechos entre aspas desta ficha foram reanexados às fontes e passam a trazer aparelho de linha (`— SIGLA · original.txt LNNNN`), conferido byte a byte pelo Portão B. Os restantes 1 permanecem sob a quarentena epistemológica de 14/09/2026 (U86) — a nota acima continua a valer para eles. Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

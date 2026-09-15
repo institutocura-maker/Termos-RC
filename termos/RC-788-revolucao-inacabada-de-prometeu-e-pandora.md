@@ -54,7 +54,7 @@ Aparece em **P2025-04-06** — palestra de 2025 que **encerra o tema Pandora** i
 
 > «Pandora é um espírito com problemas [...] O amor que ela tinha pelo ser humano secou a tal ponto que eu acho que ela hoje não gosta de ninguém. E ela mesmo me disse: "A minha vergonha foi nascer como mãe quatro vezes e eu não consegui amar meus rebeldos."» — P2025-04-06, U0006
 
-> «Independente resultado, ou a gente acende esse tipo de luz que é esse fogo, porque na época do dos deuses só tinha doido.» — P2025-04-06, U0005
+> «Independente resultado, ou a gente acende esse tipo de luz que é esse fogo, porque na época do dos deuses só tinha doido.» — P2025-04-06 · `original.txt` L15 · reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte.
 
 ## Observações
 - [REVISAR → CHANCELA 2026-09-06 · F041-L5: AGUARDA-ÁUDIO (dívida perdoada até nova evidência na base; STT preservado como falado) — ver nota]: a palestra de 2025-04-06 é a peça de **encerramento do tema Pandora** — futuras palestras do autor podem reabrir o tema, mas esta marca o "fim" da série.
@@ -63,3 +63,4 @@ Aparece em **P2025-04-06** — palestra de 2025 que **encerra o tema Pandora** i
 
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-788.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** os 3 blocos entre «» desta ficha **não** resistem à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Todos deixam vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+- ✅ **Reanexação parcial A5 (U91, 15/09/2026):** 1 dos 3 trechos entre aspas desta ficha foi reanexado às fontes e passa a trazer aparelho de linha (`— SIGLA · original.txt LNNNN`), conferido byte a byte pelo Portão B. Os restantes 2 permanecem sob a quarentena epistemológica de 14/09/2026 (U86) — a nota acima continua a valer para eles. Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

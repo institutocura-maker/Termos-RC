@@ -54,7 +54,7 @@ Aparece em **P2019-04-14**, U0003. Contexto: a palestra explica **por que os hum
 
 > «os nossos espíritos hoje guardam o reflexo de todas essas necessidades, ou seja, são infectados e além disso ainda tão infectados pelas crenças, pela que a gente viu ontem, pelos pacotes de coisas inapropriadas que a gente produziu para se alimentar.» — P2019-04-14, U0003
 
-> «nós, os humanos, produzimos o melhor perfume porque somos a junção do cérebro radiado a um cérebro bilatério. E o nosso circuito produz muito mais coisas, sequências, perfumes do que a de um demo, do que a de um macaco, do que a de um cavalo.» — P2019-04-14, U0003
+> «Nós, os humanos, produzimos o melhor perfume porque somos a junção do cérebro radiado a um cérebro bilatério. E o nosso circuito produz muito mais coisas, sequências, perfumes do que a de um demo, do que a de um macaco, do que a de um cavalo.» — P2019-04-14 · `original.txt` L11 · reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte.
 
 ## Observações
 - [REVISAR → CHANCELA 2026-09-06 · F041-L5: AGUARDA-ÁUDIO (dívida perdoada até nova evidência na base; STT preservado como falado) — ver nota]: a palestra de 2019-04-14 é a única fonte primária dessa formulação específica (alimentação por perfume humano).
@@ -64,3 +64,4 @@ Aparece em **P2019-04-14**, U0003. Contexto: a palestra explica **por que os hum
 
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-820.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** os 3 blocos entre «» desta ficha **não** resistem à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Todos deixam vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+- ✅ **Reanexação parcial A5 (U91, 15/09/2026):** 1 dos 3 trechos entre aspas desta ficha foi reanexado às fontes e passa a trazer aparelho de linha (`— SIGLA · original.txt LNNNN`), conferido byte a byte pelo Portão B. Os restantes 2 permanecem sob a quarentena epistemológica de 14/09/2026 (U86) — a nota acima continua a valer para eles. Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

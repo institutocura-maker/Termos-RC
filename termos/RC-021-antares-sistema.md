@@ -49,7 +49,7 @@ Yel Luzbel (RC-078); Len Mion (RC-074); as "famílias" biodemos de Antares (audi
 ## Citações-chave
 > "O plano consiste em irmos primeiro a Antares e, de lá, visitarmos os outros planetas que também já o estão a aguardar." — B058, p. 34 (Len Mion)
 
-> "Antares é uma estrela supergigante vermelha na constelação de Scorpius. É a 162ª estrela mais brilhante do céu noturno." — B058, nota, p. 37 (ed. 2022 — fonte Wikipédia)
+> «Antares é uma estrela supergigante vermelha na constelação de Scorpius. É a 162ª estrela mais brilhante do céu noturno.» — B058 p. 37 · `original.txt` L1376 · reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte.
 
 ## Ampliação
 ### P2020-09-19 (Sophia e o Impasse do Juízo Final)
@@ -64,3 +64,4 @@ Yel Luzbel (RC-078); Len Mion (RC-074); as "famílias" biodemos de Antares (audi
 ## Observações
 **Ficha criada no ciclo B058 (Devolutiva O-2, 2026-08-25)** — termo já constava da tabela-mestra (B031/B058 nas fontes) sem ficha física. **Quarentena ufológica (O-7):** sistema estelar real citado na narrativa psicografada — cruzar, não materializar como fato; a nota astronômica é do adaptador da ed. 2022 (Wikipédia — quarentena institucional). 0 códigos novos (O-3).
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** os 2 trechos entre aspas desta ficha **não** resistem à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Todos deixam vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+- ✅ **Reanexação parcial A5 (U91, 15/09/2026):** 1 dos 2 trechos entre aspas desta ficha foi reanexado às fontes e passa a trazer aparelho de linha (`— SIGLA · original.txt LNNNN`), conferido byte a byte pelo Portão B. Os restantes 1 permanecem sob a quarentena epistemológica de 14/09/2026 (U86) — a nota acima continua a valer para eles. Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

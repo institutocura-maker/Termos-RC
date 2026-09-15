@@ -45,7 +45,7 @@ Demos da geração do Olimpo (RC-049); Despina (ser que narra); Heber (RC-436) e
 | Homoafetividade (B052) | Narrativas (trecho da força sexual) | — | revelação central |
 
 ## Citações-chave
-> "A força que move os humanos ao sexo é anterior a tudo o que existe sob a perspectiva das organizações das formas animalizadas." — B052 (fala atribuída a um ser da estirpe de Heber)
+> «A força que move os» » … « «humanos ao sexo é anterior a tudo o que existe sob a perspectiva das» » … « «organizações das formas animalizadas.» — B052 p. 40 · `original.txt` L1501 · reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte.
 
 ## Ampliação
 ### P2024-08-03
@@ -63,4 +63,4 @@ Demos da geração do Olimpo (RC-049); Despina (ser que narra); Heber (RC-436) e
 
 ## Observações
 Ficha baseada em B052 (obra primária, 2016). Tese ousada: a atração sexual como mecanismo de coesão anterior à polaridade — explica a homoafetividade como herança demo original. Cruzar com RC-433/434/435.
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+- ✅ **Reanexação A5 (U91, 15/09/2026):** o trecho entre aspas desta ficha foi reanexado às fontes e passa a trazer aparelho de linha (`— SIGLA · original.txt LNNNN`), conferido byte a byte pelo Portão B. **Quarentena epistemológica de 14/09/2026 (U86) levantada nesta ficha** — a nota original dizia que o trecho não resistia à verificação; agora resiste, porque deixou de ser uma transcrição solta e passou a ser extracto conferido. Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

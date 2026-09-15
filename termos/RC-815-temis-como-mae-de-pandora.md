@@ -50,11 +50,11 @@ A Temis da palestra **NÃO É a Titã grega clássica** (Têmis grega = filha de
 | P2018-05-20 — De Pandora a Eva e o Culto a Lilith | U0002 (S2) | — | palestra (fonte primária, STT) |
 
 ## Citações-chave
-> «Pandora ela surgiu como, entre aspas, como um ser filho de Zeus e Temes, mas não sentir sexual, pois que nessa época Deus ainda, a geração de Zeus não tinha assumido o aspecto biológico da sexualidade. Eles apenas procriavam mentalmente uma outra forma de fazer as coisas.» — P2018-05-20, U0002
+> «Pandora ela surgiu como, entre aspas, como um ser filho de Zeus e Temes, mas não sentir sexual, pois que nessa época Deus ainda, a geração de Zeus não tinha assumido o aspecto biológico da sexualidade. Eles apenas procriavam mentalmente uma outra forma de fazer as coisas.» — P2018-05-20 · `original.txt` L3 · reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte.
 
-> «A mitologia não conta que essa vontade de Zeus foi provocada por uma professa de Zeus e tênis.» — P2018-05-20, U0002
+> «a mitologia não conta que essa vontade de Zeus foi provocada por uma professa de Zeus e tênis.» — P2018-05-20 · `original.txt` L3 · reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte.
 
-> «A misteriosa Temis estava com trás, mas é que implica uma reflexão.» — P2018-05-20, U0002
+> «A misteriosa Temis estava com trás, mas é que implica uma reflexão.» — P2018-05-20 · `original.txt` L3 · reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte.
 
 ## Observações
 - **Quarentena mitológica FORTE**: a Temis da palestra **NÃO É a Titã grega clássica**. A Têmis da mitologia grega é **filha de Urano e Gaia, personificação da justiça divina, mãe das Horas e das Moiras** (cf. Hesíodo, *Teogonia*). Aqui Temis é "uma certa" Temis da geração de Zeus.
@@ -63,4 +63,4 @@ A Temis da palestra **NÃO É a Titã grega clássica** (Têmis grega = filha de
 
 
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-815.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** os 3 blocos entre «» desta ficha **não** resistem à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Todos deixam vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+- ✅ **Reanexação A5 (U91, 15/09/2026):** os 3 trechos entre aspas desta ficha foram reanexados às fontes e passam a trazer aparelho de linha (`— SIGLA · original.txt LNNNN`), conferido byte a byte pelo Portão B. **Quarentena epistemológica de 14/09/2026 (U86) levantada nesta ficha** — a nota original dizia que o trecho não resistia à verificação; agora resiste, porque deixou de ser uma transcrição solta e passou a ser extracto conferido. Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

@@ -58,13 +58,14 @@ Aparece em **P2023-12-17**, U0004. Contexto: a palestra reconstrói a história 
 
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-826.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** os 3 blocos entre «» desta ficha **não** resistem à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Todos deixam vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+- ✅ **Reanexação parcial A5 (U91, 15/09/2026):** 2 dos 3 trechos entre aspas desta ficha foram reanexados às fontes e passam a trazer aparelho de linha (`— SIGLA · original.txt LNNNN`), conferido byte a byte pelo Portão B. Os restantes 1 permanecem sob a quarentena epistemológica de 14/09/2026 (U86) — a nota acima continua a valer para eles. Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
 
 ## Citações-chave
-> «A rebelião dos elétrons, a própria rebelião da das memórias dos elétrons. Isso não é entropia, isso está além das entropias. Ninguém previa esse problema dos elétrons lá atrás, nesse diverse vizinho.» — P2023-12-17, U0004
+> «A rebelião dos elétrons, a própria rebelião da das memórias dos elétrons. Isso não é entropia, isso está além das entropias. Ninguém previa esse problema dos elétrons lá atrás, nesse diverse vizinho.» — P2023-12-17 · `original.txt` L11 · reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte.
 
 > «Os elétrons estão montaram tribunal da Inquisição e disseram: 'Cara, a gente tem que parar com a máquina de gerar vida nos termos em que sempre foi feito'.» — P2023-12-17, U0004
 
-> «Os elétrons eles estão acumulando informações mais e mais e enquanto isso aqui durar essa criação, eles vão estar acumulando informação. Mas compreendo, eles já acumularam um grau de informação negativa que fez a infinitude memorial deles não suportar mais apropriar.» — P2023-12-17, U0004
+> «Os elétrons eles estão acumulando informações mais e mais e enquanto isso aqui durar essa criação, eles vão estar acumulando informação. Mas compreendo, eles já acumularam um grau de informação negativa que fez a infinitude memorial deles não suportar mais apropriar.» — P2023-12-17 · `original.txt` L16 · reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte.
 
 ## Ampliação
 ### P2023-07-09 (A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons)

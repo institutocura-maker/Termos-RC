@@ -42,7 +42,7 @@ Javé (RC-001); Mônica Camargo (RC-420); Jan Val Ellam (RC-071, intermediário)
 | Cartas a Javé (B034) | Resposta de Javé - Parte 1 e Parte 2 | — | seção central da obra |
 
 ## Citações-chave
-> "Acostumem-se e compreendam: sou eu que vivo em vocês!" — B034, Resposta de Javé - Parte 1
+> «Acostumem-se e compreendam: sou eu que vivo em vocês!» — B034 p. 45 · `original.txt` L1353 · reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte.
 
 ## Ampliação
 ### B034 (Cartas a Javé)
@@ -54,4 +54,4 @@ Javé (RC-001); Mônica Camargo (RC-420); Jan Val Ellam (RC-071, intermediário)
 
 ## Observações
 Ficha baseada em B034 (obra primária, 2014). A Resposta de Javé é fonte primária única para a psicologia do Criador — confirmar as citações na revisão página a página.
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+- ✅ **Reanexação A5 (U91, 15/09/2026):** o trecho entre aspas desta ficha foi reanexado às fontes e passa a trazer aparelho de linha (`— SIGLA · original.txt LNNNN`), conferido byte a byte pelo Portão B. **Quarentena epistemológica de 14/09/2026 (U86) levantada nesta ficha** — a nota original dizia que o trecho não resistia à verificação; agora resiste, porque deixou de ser uma transcrição solta e passou a ser extracto conferido. Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

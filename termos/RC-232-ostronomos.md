@@ -48,7 +48,7 @@ Sophia (RC-009); Família Val (RC-109); Val Geon (RC-126); Val Pen (RC-129); Val
 
 
 ## Citações-chave
-> "Neste padrão de linguagem, a minha identificação é Ostronomos, pai dos que aqui estão comigo. Esta é a minha família, minha linhagem mais próxima, que comigo veio do mundo onde surgimos. Praticamos a partilha genética e procriamos tais quais os animais deste mundo." — B017, cap. 4
+> «Neste padrão de linguagem, a minha identificação é» » … « «Ostronomos, pai dos que aqui estão comigo. Esta é a minha família, minha linhagem» » … « «mais próxima, que comigo veio do mundo onde surgimos. Praticamos a partilha» » … « «genética e procriamos tais quais os animais deste mundo.» — B017 p. 43 · `original.txt` L1528 · reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte.
 
 ## Ampliação
 ### P2021-05-15 (As Etnias Hiperbóreas e os Anunnakis)
@@ -61,4 +61,4 @@ Ficha baseada em B017/B018 (obras primárias) + B031. A equivalência exata Ostr
 
 
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-232.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+- ✅ **Reanexação A5 (U91, 15/09/2026):** o trecho entre aspas desta ficha foi reanexado às fontes e passa a trazer aparelho de linha (`— SIGLA · original.txt LNNNN`), conferido byte a byte pelo Portão B. **Quarentena epistemológica de 14/09/2026 (U86) levantada nesta ficha** — a nota original dizia que o trecho não resistia à verificação; agora resiste, porque deixou de ser uma transcrição solta e passou a ser extracto conferido. Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

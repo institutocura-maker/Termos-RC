@@ -3905,3 +3905,64 @@ conteúdo alterado** · espelhos reconstruídos 946/820/1887/104.
 ### 5. Estado
 `A1 ✅ · A2 ✅ · A3 ✅ · A4 ✅ ENCERRADA · A5 ⏳ reextração · A6 ✅ · A7 ✅ · A8 ✅`
 `471 → 188 (U87) → 178 (U88) → 150 (U89) → 102 (U90)`
+
+---
+
+## U91 — A5 INFRAESTRUTURA + PILOTO: 72 citações reanexadas, 17 verbetes reemitidos
+
+**Commit:** (a lavrar) · **Despacho:** aparelho R1 estrito, sem tag nova
+**Lote:** `diagnostico/U91-R1-LOTE35-A5-2026-09-15.json`
+**Artefacto:** `diagnostico/A5-REANEXACAO-U91-2026-09-15.md`
+
+### 1. Correcção de base — a divisão é 439/219, não 418/240
+O despacho contava 418 ancorados (= só a classe NULO). Os **21 PARCIAL também
+têm localização** e são os mais fáceis (só elisões os partem). Dívida real:
+658 = **439** com localização + **219** sem. Zero sobreposição com as 147
+fichas com lote — A5 e o *driver* nunca se cruzam.
+
+### 2. Correcção de arquitectura — substituição, não injecção
+Os 658 blocos **já estão nas fichas**; a âncora é coordenada no corpus, não
+lacuna. Medição: **mediana de 28 palavras** do parágrafo-fonte já presentes na
+ficha; 426/436 com ≥ 8 palavras. O conhecimento nunca se perdeu — faltava a
+exactidão byte a byte e o aparelho. Modo de falha seguro: âncora errada → o
+Portão B falha ruidosamente, não alucina.
+
+### 3. Construído (driver INTOCADO, U83)
+- `ferramentas/extrair_fragmentos_a5.py` — alinhamento + lote declarativo
+- `ferramentas/reintegrar_citacoes.py` — cirurgia; **importa `conferir()` do
+  driver** (Portão B = mesmo código, não reimplementação)
+- `ferramentas/reemitir_verbetes_a5.py` — doutrina U87: reemitir no mesmo commit
+
+`materializar_lote.py` NÃO serve: `corpo()` regenera a ficha com 7 secções e
+destruiria Ampliação/Atualização/Reforço.
+
+### 4. Comportas G1–G6 (extractor) e A–E (aplicador)
+G1 cobertura 100% (reprovou 324) · G2 ≤6 frag/≤60p (25) · G3 símbolos (0) ·
+G4 censura (1) · G5 Portão B (0) · **G6 contiguidade (14)** · fora de
+parágrafo (6).
+**G6 nasceu da leitura do inventário:** `» … «` significa quebra de
+hard-wrap; em RC-266/RC-193 encobria uma palavra omitida («à» vs «a»).
+Mentira estrutural → saíram do piloto.
+
+### 5. Resultado
+**72 citações · 100 fragmentos · 58 fichas** · 27 quarentenas levantadas,
+31 parciais · **17 verbetes reemitidos** (20 citações distintas, 26 ocorrências).
+
+### 6. Validação
+Suíte **21/21** · Portão B **778/778** + **100/100** · idempotência: 2.ª
+corrida **0 reescritas · 58 idênticas** · T5 **0 falhas, 8 563 verbatim** ·
+Base 946/820/1887 · diferencial 100 removidas / 131 inseridas / **0 anomalias**.
+
+### 7. Três erros meus, apanhados pelas comportas
+1. Comporta C somava a tupla por fragmento (RC-002 auto-colidia).
+2. Comporta B: a chave de RC-002 bate em 2 linhas (citação L75 + nota L121).
+3. Chave (sigla,linha) demasiado estrita: `P2025-04-06` L32 tem 3 980 chars e
+   dá 2 citações legítimas (RC-794).
+Falso alarme: suspeitei que `conferir()` aceitasse um fragmento ausente —
+eu lia impressões truncadas. O Portão B está são.
+
+### 8. Estado
+`A1 ✅ · A2 ✅ · A3 ✅ · A4 ✅ · A5 ⏳ (72/658 reanexados) · A6 ✅ · A7 ✅ · A8 ✅`
+Backlog: 90–99% 169 (U92) · 70–89% 117 (U93) · <70% 51 + G2 25 + G6 14 + 6
+fora de parágrafo + 1 censura (U94) · **219 órfãos (U95 — artefacto, zero
+fichas tocadas)**.

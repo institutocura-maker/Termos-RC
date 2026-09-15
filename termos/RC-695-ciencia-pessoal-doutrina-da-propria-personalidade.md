@@ -58,7 +58,7 @@ Não significa isolamento intelectual nem recusa de estudo. Implica:
 | P2025-02-16 | U0878–U0889; U0998–U1006; U1020–U1039 | aula/palestra STT |
 
 ## Citações-chave
-> “Cada um de nós precisa também de regras específicas.”
+> «cada um de nós precisa também de regras específicas.» — P2025-02-16 · `original.txt` L113 · reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte.
 
 > “Seja você o seu próprio guru, mova-se.”
 
@@ -82,6 +82,7 @@ Não significa isolamento intelectual nem recusa de estudo. Implica:
 - **Despersonificação:** "você tem que se, entre aspas, despersonificar um pouco, porque o tipo de personificação que nós estamos tendo é animalizada, é primitiva" — necessária à autogestão e autoproteção conscencial (seção 5.2);
 - Relação nova: Ciência Pessoal ↔ Mentalma (RC-166) — o esforço respiratório como ferramenta do laboratório íntimo (aresta P2023-05-13).
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** os 2 trechos entre aspas desta ficha **não** resistem à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Todos deixam vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+- ✅ **Reanexação parcial A5 (U91, 15/09/2026):** 1 dos 2 trechos entre aspas desta ficha foi reanexado às fontes e passa a trazer aparelho de linha (`— SIGLA · original.txt LNNNN`), conferido byte a byte pelo Portão B. Os restantes 1 permanecem sob a quarentena epistemológica de 14/09/2026 (U86) — a nota acima continua a valer para eles. Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
 
 ## Observações
 Não transformar Ciência Pessoal em doutrina padronizada e coletiva: a singularidade é constitutiva do conceito.
