@@ -68,6 +68,24 @@ SAIDA_JSON = os.path.join(RAIZ, "diagnostico", "CENSO-RECLASSIFICADO-2026-09-13.
 SAIDA_MD = os.path.join(RAIZ, "diagnostico", "CENSO-RECLASSIFICADO-2026-09-13.md")
 
 BASES = ("livros/CONCLUIDOS", "apostilas/CONCLUIDAS", "ciclos")
+
+# ── AMOSTRAS AUTORIZADAS PARA CITAÇÃO ────────────────────────────────────────
+# (sigla, pasta). Só entram as amostras CUJAS PÁGINAS SÃO CONTÍNUAS A PARTIR DA
+# PÁGINA 1: quando a obra completa chegar, as páginas seguintes são ACRESCENTADAS
+# AO FIM, pelo que a numeração de linhas já citada não se desloca. Numa amostra
+# de páginas salteadas, a interpolação das páginas em falta deslocaria tudo e
+# cada `original.txt LNNNN` passaria a mentir.
+#
+# NÃO se ingere `livros/AMOSTRAS` inteiro por duas razões:
+#   1. a instrução vigente das fichas de ingresso é «não promover a CONCLUIDOS»;
+#      a lista mantém a pasta onde está e não toca na BIBLIO, mas torna o texto
+#      verificável pelo Portão B;
+#   2. a B061, que lá está, NÃO É OBRA PRIMÁRIA — é glossário pré-repo escrito
+#      pelo Curador com ajuda de IA. Cità-la como fonte de Ellam falsificaria a
+#      autoria. Fica fora por princípio.
+AMOSTRAS_AUTORIZADAS = (
+    ("B035", "livros/AMOSTRAS/B035_o_big_data_do_criador"),
+)
 MARCA_PAGINA = re.compile(r"^\s*=+\s*\[?PÁGINA", re.I)
 # Marca d'água do conversor de ebook: ocorre 180× no meio do texto de B031 e,
 # se não for suprimida, ENTRA DENTRO do parágrafo recomposto — poluiria a
@@ -205,6 +223,13 @@ def carregar_corpus(verbose: bool = True) -> dict[str, Obra]:
                 continue
             with io.open(p, encoding="utf-8", errors="replace") as fh:
                 obras[sigla] = Obra(sigla, fh.read().split("\n"))
+    for sigla, rel in AMOSTRAS_AUTORIZADAS:
+        p = os.path.join(RAIZ, rel, "original.txt")
+        if not os.path.exists(p) or sigla in obras:
+            continue
+        with io.open(p, encoding="utf-8", errors="replace") as fh:
+            obras[sigla] = Obra(sigla, fh.read().split("\n"))
+
     if verbose:
         nbl = sum(len(o.blocos) for o in obras.values())
         print(f"corpus: {len(obras)} obras · {nbl:,} blocos recompostos",

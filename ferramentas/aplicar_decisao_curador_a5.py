@@ -55,7 +55,8 @@ from ferramentas.extrair_fragmentos_a5 import (  # noqa: E402
     nucleo_da_linha, palavras_com_linha, alinhar, palavras, frouxo,
 )
 # Portão B: o mesmo código do driver, não uma reimplementação.
-from ferramentas.materializar_lote import conferir, pagina  # noqa: E402
+from ferramentas.materializar_lote import (  # noqa: E402
+    caminho_da_obra, conferir, pagina)
 
 ARTEFACTO = os.path.join(RAIZ, "diagnostico", "U93-DIFF-CURATORIAL.md")
 DECISAO = os.path.join(RAIZ, "uploads_recepcao", "U93-U94-id-decisao.txt")
@@ -151,6 +152,23 @@ def _limpar_micro(frag: list[dict]) -> list[dict]:
     return fora or frag
 
 
+def aparelhavel(sigla: str) -> bool:
+    """A obra pode receber aparelho `original.txt LNNNN`?
+
+    O censo e o Portão B não vêem necessariamente as mesmas obras: o corpus
+    pode incluir amostras autorizadas (`AMOSTRAS_AUTORIZADAS`, em
+    `censo_gap_v2`) que `materializar_lote.caminho_da_obra` — ficheiro
+    INTOCÁVEL, onde vive o Portão B — não resolve. Para essas obras o texto é
+    LOCALIZÁVEL mas não é APARELHÁVEL: apontar-lhes uma linha produziria uma
+    citação que a porta da casa não consegue verificar.
+    """
+    try:
+        caminho_da_obra(sigla)
+        return True
+    except FileNotFoundError:
+        return False
+
+
 def main() -> int:
     aplicar = "--aplicar" in sys.argv
 
@@ -193,6 +211,7 @@ def main() -> int:
     vistos: set[tuple[str, int]] = set()
     por_endereco: dict[tuple[str, int], dict] = {}
     bloq_b = 0
+    n_aparelhaveis = [0]
 
     for ident, d in sorted(decisao.items()):
         if d != "APROVAR_FONTE":
@@ -213,6 +232,10 @@ def main() -> int:
         ob = corpus.get(a["sigla"])
         if ob is None:
             sys.exit(f"  {ident}: obra {a['sigla']} fora do corpus")
+        if not aparelhavel(a["sigla"]):
+            # texto localizável mas NÃO aparelhável (Portão B cego a esta obra)
+            n_aparelhaveis[0] += 1
+            continue
         par = next((p for p in ob.blocos
                     if p["ini"] <= a["linha"] <= p["fim"]), None)
         if par is None:
@@ -329,6 +352,9 @@ def main() -> int:
           f"conferidos byte a byte — 0 recusas")
     print(f"  comportas B/C: 0 impedimentos · {len(planos)} reconstruções "
           f"prontas")
+    if n_aparelhaveis[0]:
+        print(f"  comporta G: {n_aparelhaveis[0]} recusada(s) — texto localizável "
+              f"no corpus mas NÃO aparelhável (o Portão B não resolve a obra)")
     print(f"  comporta E (vão>{MAX_VAO}): {len(adiados)} adiadas — salada "
           f"de palavras-chave")
     for d in sorted(adiados, key=lambda x: -x["vao"]):

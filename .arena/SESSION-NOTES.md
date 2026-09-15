@@ -4173,3 +4173,24 @@ EXECUTADO: RC-500 L45 reanexado a P2021-12-04 L4.
   da ficha era inserção editorial. Emitiu-se fragmento ÚNICO sem » […] « —
   usar o marcador de omissão seria afirmar uma falta inexistente.
 Artefacto: diagnostico/U98-INGESTAO-PENDENTE-A5.md (manifesto para o Curador).
+
+## U99 — B035: amostra CONTÍNUA => muda o quadro (decisão do Curador)
+- O Curador esclareceu: a amostra da B035 é PARTE CONTÍNUA do livro a partir do
+  início, não páginas salteadas. VERIFICADO: 18 marcas de página sequenciais,
+  PÁGINA 1 (L1) a PÁGINA 18 (L468), sem falhas.
+- ISTO DERRUBA A OBJECÇÃO QUE MOTIVOU O BLOQUEIO: com páginas salteadas, a obra
+  completa INTERPOLARIA linhas e deslocaria a numeração; sendo contínua, as pp.
+  19+ ACRESCENTAM-SE AO FIM e as linhas 1-495 ficam estáveis para sempre.
+- Ressalvas locais: [TEXTO INCOMPLETO] nas L74 (p.6) e L257 (p.12). A citação do
+  RC-194 está na L284 (p.13), região limpa.
+- INGERIU-SE a B035 por LISTA AUTORIZADA (AMOSTRAS_AUTORIZADAS em censo_gap_v2),
+  nunca por diretório. Corpus 158 -> 159.
+- B061 FICA FORA POR PRINCÍPIO: «não é obra primária de Ellam: é glossário
+  pré-repo elaborado pelo Curador com ajuda de IA». Cità-la falsificaria a
+  autoria. B027 é caso idêntico ao B035 (contínua p.1-14) mas nenhum órfão
+  depende dela.
+- DECISÃO DO CURADOR: manter materializar_lote.py INTOCÁVEL => Portão B não vê a
+  B035 => RC-194 FICA PENDENTE. Não se assina aparelho que a porta não verifica.
+- Armadilha desactivada: B035 no corpus sem Portão B rebentaria execuções
+  automáticas. Comporta G em aplicar_decisao_curador_a5.py: exige obra
+  APARELHÁVEL antes de citar. B031 sim · B035 não · B061 fora.

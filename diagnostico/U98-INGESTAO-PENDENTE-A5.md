@@ -78,3 +78,74 @@ violar nenhuma instrução:
   (GAP = 0). O `[STT]` da ficha era inserção editorial, não omissão da
   fonte. Emitiu-se portanto um fragmento ÚNICO, sem `» […] «` — usar o
   marcador de omissão aqui seria afirmar uma falta que não existe.
+
+---
+
+## 5. ADENDO (mesmo dia) — a amostra da B035 é CONTÍNUA, e isso muda o quadro
+
+O Curador esclareceu que, embora seja uma amostra, a B035 **é uma parte
+contínua do livro a partir do início** — não são páginas salteadas. Verificou-se
+no ficheiro e confirma-se:
+
+```
+===== [PÁGINA 1] =====   na linha   1
+===== [PÁGINA 2] =====   na linha   4
+...
+===== [PÁGINA 18] =====  na linha 468
+```
+
+18 marcas, sequenciais de 1 a 18, sem uma única falha.
+
+**Isto derruba a objecção técnica que motivou o bloqueio.** Numa amostra de
+páginas salteadas, a chegada da obra completa *interpolaria* linhas pelo meio
+e deslocaria toda a numeração: cada `B035 · original.txt LNNNN` passaria a
+mentir. Sendo contínua a partir da página 1, as páginas 19 e seguintes
+**acrescentam-se ao fim**. As linhas 1–495 ficam onde estão, hoje e depois de
+a obra chegar. A numeração é estável.
+
+Duas ressalvas locais, declaradas: há `[TEXTO INCOMPLETO]` nas linhas **74**
+(p. 6) e **257** (p. 12), por runs de `\x00` no extract. A citação do RC-194
+está na **L284** (p. 13) — região limpa, entre os dois buracos.
+
+### 5.1 O que se fez
+
+Ingeriu-se a B035 no corpus por **lista autorizada**
+(`AMOSTRAS_AUTORIZADAS`, em `ferramentas/censo_gap_v2.py`), nunca por
+diretório. O corpus passa de 158 para **159 obras**.
+
+Não se ingeriu `livros/AMOSTRAS` inteiro por duas razões:
+
+1. a instrução vigente das fichas de ingresso é «não promover a CONCLUIDOS».
+   A lista mantém a pasta onde está e **não toca na BIBLIO**;
+2. a **B061**, que ali está, **não é obra primária** — a sua ficha diz: «é
+   glossário pré-repo elaborado pelo Curador com ajuda de IA». Cità-la como
+   fonte de Ellam falsificaria a autoria. Fica fora por princípio, e não tem
+   marcas de página (0).
+
+A **B027** partilha a condição da B035 (14 marcas, PÁGINA 1 a 14, contínua).
+Não foi ingerida porque nenhum órfão depende dela; basta uma linha na lista
+quando o Curador o pedir.
+
+### 5.2 O que NÃO se fez, e porquê
+
+Posto ao Curador, decidiu-se **manter `materializar_lote.py` intocável**.
+Consequência aceite:
+
+- o Portão B (`caminho_da_obra`) não resolve a B035, pois só vasculha
+  `CONCLUIDOS` / `CONCLUIDAS` / `ciclos`;
+- logo **a RC-194 fica pendente**. Não se assina um aparelho de linha que a
+  porta da casa não consegue verificar — seria a falsificação que a U86 e a
+  U94 mandam evitar;
+- a B035 continua no corpus como **achador** (U65): o censo localiza o texto,
+  mas ele não é aparelhável.
+
+### 5.3 A armadilha que se desactivou
+
+Ter a B035 no corpus sem suporte do Portão B criava um risco: qualquer
+execução automática futura que tentasse aparelhá-la rebentaria com
+`FileNotFoundError`. Acrescentou-se por isso a **comporta G** em
+`aplicar_decisao_curador_a5.py`: a obra tem de ser *aparelhável* antes de
+receber citação. O texto localizável mas não aparelhável é recusado com
+mensagem própria, em vez de derrubar a esteira.
+
+Teste: `B031` aparelhável · `B035` **não** aparelhável · `B061` fora do corpus.
