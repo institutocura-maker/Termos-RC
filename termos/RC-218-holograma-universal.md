@@ -28,22 +28,17 @@ Com isso:
 
 **Origem do conteúdo da ampliação:** palestra `P2025-06-14 — PALESTRA SOBRE A QUEDA DO CRIADOR-Refatorada` (14/06/2025). Transcrição automatizada, **não conferida com o áudio**; cada aspa foi recortada do `original.txt` pelo índice de âncoras do motor e conferida byte a byte pelo portão B. Nada foi digitado de memória.
 
-## Observações sobre o Estado da Malha
+## Citações-chave
 
-* **Fonte refatorada (não verbatim):** a formulação 'holograma de sua força mental' vem da versão REFATORADA de P2025-06-14, não da fala literal do Ellam.
-* **Grafia STT (ciclos anteriores):** 'holograma' / 'projeção holográfica' (RC-217, RC-001). O conceito exige familiaridade com física quântica (como se projeta um holograma).
-* **Trava aplicável**: nenhuma além das gerais do despacho.
+> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+
+- «Consequentemente, Javé se reconstituiu como um "holograma de sua força mental", apoiado em sua força divina remanescente, mas sem a plenitude da consciência que possuía antes da queda.» — *ver:* **Ampliação — P2025-06-14 (PALESTRA SOBRE A QUEDA DO CRIADO…** U0021
+
 
 ## Ampliação
 ### P2025-06-14 (PALESTRA SOBRE A QUEDA DO CRIADOR-Refatorada)
 
 - **[Javé, holograma sem alma] (U0021)** «Consequentemente, Javé se reconstituiu como um "holograma de sua força mental", apoiado em sua força divina remanescente, mas sem a plenitude da consciência que possuía antes da queda.» — Javé se reconstituiu como um 'holograma de sua força mental', apoiado na força divina remanescente, mas sem a plenitude da consciência que possuía antes da queda (RC-218).
-
-## Fontes
-| Obra (sigla) | Título | Página | Tipo |
-|---|---|---|---|
-| P2025-06-14 | PALESTRA SOBRE A QUEDA DO CRIADOR-Refatorada (palestra) | — | transcrição automatizada; citação |
-| B002 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -55,9 +50,14 @@ Com isso:
 | Primado da Informação | RC-707 | relaciona-se-a |
 | Ser Humano Não Local | RC-708 | **sem aresta** em `RELACOES`; arquivo existe |
 
-## Citações-chave
+## Fontes
+| Obra (sigla) | Título | Página | Tipo |
+|---|---|---|---|
+| P2025-06-14 | PALESTRA SOBRE A QUEDA DO CRIADOR-Refatorada (palestra) | — | transcrição automatizada; citação |
+| B002 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
 
-> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+## Observações sobre o Estado da Malha
 
-- «Consequentemente, Javé se reconstituiu como um "holograma de sua força mental", apoiado em sua força divina remanescente, mas sem a plenitude da consciência que possuía antes da queda.» — *ver:* **Ampliação — P2025-06-14 (PALESTRA SOBRE A QUEDA DO CRIADO…** U0021
-
+* **Fonte refatorada (não verbatim):** a formulação 'holograma de sua força mental' vem da versão REFATORADA de P2025-06-14, não da fala literal do Ellam.
+* **Grafia STT (ciclos anteriores):** 'holograma' / 'projeção holográfica' (RC-217, RC-001). O conceito exige familiaridade com física quântica (como se projeta um holograma).
+* **Trava aplicável**: nenhuma além das gerais do despacho.

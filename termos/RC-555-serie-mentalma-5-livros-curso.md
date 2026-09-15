@@ -18,11 +18,10 @@ atualizado = "2026-08-28"
 ## Contexto / Origem
 A série é **paralela às RC, mas intimamente ligada** ao corpus (o termo já era citado em B024, 2019 — RC-166). O *Mentalma I* (B074, 2020) define o método (Arquivos Mentais RC-548; Circuito do CHA RC-549; Vontade de Progredir RC-550; Dehatma Buddhi RC-551; Disciplina dos 3As RC-552) e os **5 primeiros graus de maestria** (cap. 18); o *Mentalma II* (B075, 2022) aprofunda a **Gestão Psíquica e Memórias Complexas** (RC-554) e adiciona o **Grau 6 — "Maestria da Arquitetura do Projeto Espiritual de Vida"** (p. 185). Na Introdução do B075 (Atlan, 08/01/2022), a série é descrita como "sete partes, descritas na série de livros", "sendo que, até o momento, estão publicados os dois primeiros". O "Sobre o Autor" (B075, p. 196) lista: "Formulador do MENTALMA – A Yoga do Cotidiano (Ciclo de Cursos e Palestras)".
 
-## Etimologia e Grafias
-- **Grafia preferida:** Série Mentalma (5 livros + curso)
-- **Variações:** "Mentalma I–VII" (nomes dos volumes); "A Yoga do Cotidiano" (epíteto do método); "sete módulos do Mentalma"
-- **Idioma de origem / etimologia:** "Mentalma" = *Mente* + *Atma* (RC-166); "cotidiano" = "aplicável diariamente" (B074, p. 15)
+## Citações-chave
+> "Esse meu aprendizado está sistematizado em **sete partes**, descritas na série de livros mostrada a seguir, sendo que, até o momento, **estão publicados os dois primeiros**: Mentalma I... Mentalma II... Mentalma III – Autoconhecimento e Emancipação; Mentalma IV – Consciência Pessoal e Soberania Espiritual; Mentalma V – Autorrealização; Mentalma VI – Qualia e o Laboratório Mental; Mentalma VII – O Eu como Computador Quântico." — B075, p. 7
 
+> "Quando criei o Mentalma, cheguei perto da busca por **vinte maestrias pessoais** que desejei praticar nesta vida, e assim sigo fazendo. Elas estão distribuídas pelos **sete módulos** do Mentalma." — B075, p. 185
 
 ## Ampliação
 ### P2020-04-25 (Os Desdobramentos da Rebelião de Lúcifer)
@@ -34,6 +33,30 @@ A série é **paralela às RC, mas intimamente ligada** ao corpus (o termo já e
 
 - **[P2022-03-26 · SÉRIE MENTALMA (5 LIVROS + CURSO) NA FALA DE 26/03/2022]** "O mentalma é o sanquia atualizado pros tempos modernos e visto pela moda ocidental." (U0049) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
 - **[P2022-03-26 · MENTALMA COMO SANKHIA ATUALIZADO — E FEITO PARA SI]** "O mentalma que eu produzi hoje, ele não era para ser público." (U0049); "a sanquia é a única das seis escolas hindu que diz: «Ó Deus». Por quê? Porque é um tipo de conceito de Deus estúpido." (U0049) — **Retenção (D-3/D-5):** a frase sobre as religiões (*mata em nome de Brama, mata em nome de Alá*) **não** transita — fica na apostila. Aqui entram só a definição da escola e a declaração de destino do material.
+
+## Etimologia e Grafias
+- **Grafia preferida:** Série Mentalma (5 livros + curso)
+- **Variações:** "Mentalma I–VII" (nomes dos volumes); "A Yoga do Cotidiano" (epíteto do método); "sete módulos do Mentalma"
+- **Idioma de origem / etimologia:** "Mentalma" = *Mente* + *Atma* (RC-166); "cotidiano" = "aplicável diariamente" (B074, p. 15)
+
+
+## Seres Associados
+Jan Val Ellam (RC-071, criador e formulador da série e do curso).
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Mentalma | RC-166 | relaciona-se-a |
+| Arquivos Mentais (coleção de conceitos no psiquismo) | RC-548 | relaciona-se-a (tema do vol. I) |
+| Vontade de Progredir (chave dos arquivos mentais) | RC-550 | relaciona-se-a (tema do vol. I) |
+| Dehatma Buddhi (doença psíquica da mente identificada com o corpo) | RC-551 | relaciona-se-a (tema dos vols. I–II) |
+| Disciplina dos 3As (respiração, mente, alinhamento) | RC-552 | relaciona-se-a (tema dos vols. I–II) |
+| Eu Profundo (nível espiritual do Eu) | RC-553 | relaciona-se-a (tema dos vols. I–II) |
+| Gestão Psíquica e Memórias Complexas (Mentalma II) | RC-554 | relaciona-se-a (tema do vol. II) |
+
+## Observações
+Termo já constava na tabela-mestra desde o ciclo anterior; **ficha criada no ciclo B075 (Devolutiva O-2, 2026-08-25)**. **Nota Especial (decisão do curador, ciclo B074):** o nome do termo permanece **intacto** — "Série Mentalma (5 livros + curso)" (5 publicados); o **anúncio dos 7 volumes em 2020** (VI *Qualia e o Laboratório Mental*; VII *O Eu como Computador Quântico*) fica registrado **como nota**, sem alterar o nome. Os volumes VI/VII seguem "planejados/não publicados"; B076–B078 (III–V) estão na BIBLIO como `identificada`/sinopse Amazon, sem PDF.
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** os 2 trechos entre aspas desta ficha **não** resistem à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Todos deixam vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
@@ -49,26 +72,3 @@ A série é **paralela às RC, mas intimamente ligada** ao corpus (o termo já e
 | P2026-08-04 | Podcast Irmãos Dias #272 (aliens e a Bíblia) | — | menção |
 
 
-
-## Citações-chave
-> "Esse meu aprendizado está sistematizado em **sete partes**, descritas na série de livros mostrada a seguir, sendo que, até o momento, **estão publicados os dois primeiros**: Mentalma I... Mentalma II... Mentalma III – Autoconhecimento e Emancipação; Mentalma IV – Consciência Pessoal e Soberania Espiritual; Mentalma V – Autorrealização; Mentalma VI – Qualia e o Laboratório Mental; Mentalma VII – O Eu como Computador Quântico." — B075, p. 7
-
-> "Quando criei o Mentalma, cheguei perto da busca por **vinte maestrias pessoais** que desejei praticar nesta vida, e assim sigo fazendo. Elas estão distribuídas pelos **sete módulos** do Mentalma." — B075, p. 185
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Mentalma | RC-166 | relaciona-se-a |
-| Arquivos Mentais (coleção de conceitos no psiquismo) | RC-548 | relaciona-se-a (tema do vol. I) |
-| Vontade de Progredir (chave dos arquivos mentais) | RC-550 | relaciona-se-a (tema do vol. I) |
-| Dehatma Buddhi (doença psíquica da mente identificada com o corpo) | RC-551 | relaciona-se-a (tema dos vols. I–II) |
-| Disciplina dos 3As (respiração, mente, alinhamento) | RC-552 | relaciona-se-a (tema dos vols. I–II) |
-| Eu Profundo (nível espiritual do Eu) | RC-553 | relaciona-se-a (tema dos vols. I–II) |
-| Gestão Psíquica e Memórias Complexas (Mentalma II) | RC-554 | relaciona-se-a (tema do vol. II) |
-
-## Seres Associados
-Jan Val Ellam (RC-071, criador e formulador da série e do curso).
-
-## Observações
-Termo já constava na tabela-mestra desde o ciclo anterior; **ficha criada no ciclo B075 (Devolutiva O-2, 2026-08-25)**. **Nota Especial (decisão do curador, ciclo B074):** o nome do termo permanece **intacto** — "Série Mentalma (5 livros + curso)" (5 publicados); o **anúncio dos 7 volumes em 2020** (VI *Qualia e o Laboratório Mental*; VII *O Eu como Computador Quântico*) fica registrado **como nota**, sem alterar o nome. Os volumes VI/VII seguem "planejados/não publicados"; B076–B078 (III–V) estão na BIBLIO como `identificada`/sinopse Amazon, sem PDF.
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** os 2 trechos entre aspas desta ficha **não** resistem à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Todos deixam vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

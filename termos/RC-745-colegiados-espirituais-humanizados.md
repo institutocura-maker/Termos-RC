@@ -16,49 +16,6 @@ atualizado = "2026-08-29"
 
 [P2024-07-14] Na cosmologia apresentada por Jan Val Ellam, polos ou coletivos da espiritualidade intermediária formados por consciências que passaram pela experiência humana e se agregam segundo sensação, devoção, tradição religiosa, afinidade filosófica e comprometimento cármico.
 
-## Variante e escopo
-
-- **Variante aprovada:** Colegiados do Êxtase Devocional.
-- **[P2024-07-14] Evidência nuclear:** U0358–U0410; U0431–U0451.
-- **[P2024-07-14] Retomadas:** U0475–U0494; U0515; U0530–U0539; U0570.
-- A fonte descreve polos católico, islâmico, protestante, budista-yogue, demodármico devocional e filosófico, sem criar um RC para cada polo.
-
-## Limites obrigatórios
-
-- Os colegiados atuais não equivalem ao futuro colegiado de consciências dignificadas.
-- O colegiado dignificado futuro é absorvido em RC-612/RC-613 e não recebe registro autônomo.
-- Colegiados humanizados não equivalem ao Colegiado do Paraíso, a anjos-clones nem a seres demo não hibridizados.
-- As classificações religiosas são cartografia e Teologia Comparada de Ellam, não ontologia externa nem consenso das tradições.
-
-## Termos Relacionados
-
-| Código | Relação |
-|---|---|
-| RC-726 | organiza-se-em |
-| RC-722 | avaliado-por |
-| RC-193 | recebe repercussão de rebanho humano |
-| RC-733 | recebe manifestação de dominação/êxtase pela devoção |
-| RC-513 | mecanismo próximo de ressonância |
-| RC-633 | gestão da sensação e destinação |
-| RC-612 / RC-613 | destino editorial do projeto futuro, sem novo nó |
-
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Rebanho humano | RC-193 | ← repercute-em |
-| Espiritualidade Errática (4ª faixa manifestada) | RC-513 | associado |
-| Nova Espiritualidade / Novo Paraíso (Paraíso B) | RC-612 | associado |
-| Trincheira Vibratória no Campo Informativo | RC-613 | associado |
-| Gestão da Sensação Pessoal | RC-633 | associado |
-| Dignidade como Critério de Consciência | RC-722 | avaliado-por |
-| Faixas Espirituais de Ressonância | RC-726 | organiza-se-em |
-| Dominação Psíquica pela Devoção | RC-733 | ← manifesta-se-em |
-
-> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-745.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
-
-## Cautela editorial
-
-[P2024-07-14] A classificação de coletivos religiosos e espirituais documenta a interpretação de Ellam. Não constitui classificação histórica, sociológica, clínica ou confessional universal.
-
 ## Ampliação
 ### P2024-07-14
 
@@ -99,3 +56,46 @@ atualizado = "2026-08-29"
 - **[P2023-12-03 · O PEDIDO POR TRÁS DOS COLÉGIOS]** «criem um método para vocês estudarem.» (U0004) — D-8: os colegiados ganham origem narrada: os não-humanos pediram que os humanos **inventassem um método**, com a promessa de aprenderem com o nível de compreensão alcançado. A constatação de que a Arca seria esse método fica no relatório — e é vedada como auto-legitimação na ficha.
 
 ---
+
+## Termos Relacionados
+
+| Código | Relação |
+|---|---|
+| RC-726 | organiza-se-em |
+| RC-722 | avaliado-por |
+| RC-193 | recebe repercussão de rebanho humano |
+| RC-733 | recebe manifestação de dominação/êxtase pela devoção |
+| RC-513 | mecanismo próximo de ressonância |
+| RC-633 | gestão da sensação e destinação |
+| RC-612 / RC-613 | destino editorial do projeto futuro, sem novo nó |
+
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Rebanho humano | RC-193 | ← repercute-em |
+| Espiritualidade Errática (4ª faixa manifestada) | RC-513 | associado |
+| Nova Espiritualidade / Novo Paraíso (Paraíso B) | RC-612 | associado |
+| Trincheira Vibratória no Campo Informativo | RC-613 | associado |
+| Gestão da Sensação Pessoal | RC-633 | associado |
+| Dignidade como Critério de Consciência | RC-722 | avaliado-por |
+| Faixas Espirituais de Ressonância | RC-726 | organiza-se-em |
+| Dominação Psíquica pela Devoção | RC-733 | ← manifesta-se-em |
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-745.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
+
+## Variante e escopo
+
+- **Variante aprovada:** Colegiados do Êxtase Devocional.
+- **[P2024-07-14] Evidência nuclear:** U0358–U0410; U0431–U0451.
+- **[P2024-07-14] Retomadas:** U0475–U0494; U0515; U0530–U0539; U0570.
+- A fonte descreve polos católico, islâmico, protestante, budista-yogue, demodármico devocional e filosófico, sem criar um RC para cada polo.
+
+## Limites obrigatórios
+
+- Os colegiados atuais não equivalem ao futuro colegiado de consciências dignificadas.
+- O colegiado dignificado futuro é absorvido em RC-612/RC-613 e não recebe registro autônomo.
+- Colegiados humanizados não equivalem ao Colegiado do Paraíso, a anjos-clones nem a seres demo não hibridizados.
+- As classificações religiosas são cartografia e Teologia Comparada de Ellam, não ontologia externa nem consenso das tradições.
+
+## Cautela editorial
+
+[P2024-07-14] A classificação de coletivos religiosos e espirituais documenta a interpretação de Ellam. Não constitui classificação histórica, sociológica, clínica ou confessional universal.

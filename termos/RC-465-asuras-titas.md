@@ -16,13 +16,6 @@ atualizado = "2026-09-13"
 
 Coletivo da tradição hindu apresentado, na Teologia Comparada de Ellam, em correspondência narrativa com os Titãs gregos e em oposição aos Devas. A palestra os inclui na cooperação forçada do Samudra Manthana e em linhagens posteriores atribuídas a Brahma, Kashyapa e às filhas de Daksha.
 
-## Etimologia e Grafias
-
-- **Forma preferida:** Asuras;
-- **STT:** Assuras, açuras;
-- **correspondência RC:** Titãs, exclusivamente como **Teologia Comparada de Ellam**.
-
-
 ## Ampliação
 ### B087 (A Revolta do Anjo Decaído)
 
@@ -31,14 +24,17 @@ Coletivo da tradição hindu apresentado, na Teologia Comparada de Ellam, em cor
 - **[B087 p. 68]** a especialização da linhagem: "construtores, pesquisadores e ousados no campo da criatividade... Zeus... precisa do nosso concurso criativo e da nossa inteligência."
 - 0 códigos novos (O-3). Quarentena ufológica (O-7). **B087 adicionada às fontes** (Devolutiva O-6).
 
-## Fontes
+## Ampliação
+### P2024-09-29
 
-| Fonte | Localização | Tipo |
-|---|---|---|
-| B060/B061 | correspondências anteriores | fontes publicadas |
-| P2025-02-16 | genealogias | palestra/STT |
-| P2024-11-30 | paralelos mitológicos | palestra/STT |
-| P2024-11-02 | U0656–U0724; U0743–U0815 | palestra/STT pré-curada |
+- **[P2024-09-29] AE-AM05 — U0236–U0239; U0279–U0280:** Acrescenta Titãs=Asuras e Olimpianos=Devas como paralelismo exclusivo da Teologia Comparada de Ellam.
+
+## Etimologia e Grafias
+
+- **Forma preferida:** Asuras;
+- **STT:** Assuras, açuras;
+- **correspondência RC:** Titãs, exclusivamente como **Teologia Comparada de Ellam**.
+
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -56,7 +52,11 @@ Coletivo da tradição hindu apresentado, na Teologia Comparada de Ellam, em cor
 
 Asura é termo de tradições hindus com história e sentidos próprios. A equivalência integral **Asuras = Titãs**, bem como a ligação genealógica ou cósmica narrada, não é consenso histórico, filológico ou religioso: é **Teologia Comparada de Ellam**.
 
-## Ampliação
-### P2024-09-29
+## Fontes
 
-- **[P2024-09-29] AE-AM05 — U0236–U0239; U0279–U0280:** Acrescenta Titãs=Asuras e Olimpianos=Devas como paralelismo exclusivo da Teologia Comparada de Ellam.
+| Fonte | Localização | Tipo |
+|---|---|---|
+| B060/B061 | correspondências anteriores | fontes publicadas |
+| P2025-02-16 | genealogias | palestra/STT |
+| P2024-11-30 | paralelos mitológicos | palestra/STT |
+| P2024-11-02 | U0656–U0724; U0743–U0815 | palestra/STT pré-curada |

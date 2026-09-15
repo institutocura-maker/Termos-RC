@@ -16,14 +16,18 @@ atualizado = "2026-09-12"
 
 Anunnaki filho de Anu, irmão de Enlil — na RC, responsável pela inoculação do gene FOXP2 na linhagem humana; **pai de Thot/Ninjizida** (RC-463).
 
-## Atualização
-### P2023-12-02
+## Citações-chave
 
-- **Pai de Thot:** "ele é um anunnaki terráqueo... ele é filho de Enki" — Thot/Ninjizida como filho de Enki (nova aresta RC-463 ↔ RC-486);
-- **Irmãos:** Enki e Enlil entre os três filhos de Anu enviados à Terra (com a irmã Ninmah/Ninhursag);
-- **Comando:** "esses 900 anunnakis eram comandados por Enlil. Enki era o outro irmão" — contexto do efetivo anunnaki na Terra;
-- Enki e Enlil na dinastia de Nibiru (RC-589) — “Dieck Eno” [STT duvidoso para Enki? — `[REVISAR → CHANCELA 10/09/2026 · F039-L5: AGUARDA-ÁUDIO (hipótese Enki registrada; hapax) — ver nota]`].
+> "Ele é um anunnaki terráqueo... ele é filho de Enki." — P2023-12-02 (sobre Thot/Ninjizida)
 
+
+> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+
+- «E ele foi eh colocado DNA humano pelos, né, o na quando eles precisavam de macacides e inteligentes para trabalhar o ouro necessário aos ananares, não foi certo?» — *ver:* **Ampliação — P2018-12-16 (Terra Atlantis - Era Sapiens)** U0017
+
+
+> Notas de processo: 4 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-486.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
 
 ## Ampliação
 ### P2025-05-31
@@ -84,22 +88,30 @@ Anunnaki filho de Anu, irmão de Enlil — na RC, responsável pela inoculação
 
 - **[Enki e o DNA obediente] (U0003)** «Então, o DNA mexido por Enk é um DNA obediente que obrigava o ser humano a ser obediente aos seres que lhe controlavam.» — o DNA mexido por Enki (RC-486) 'é um DNA obediente' — obrigava o ser humano a obedecer aos deuses, com faixa de liberdade mental para entender ordens.
 
-## Fontes
+## Ampliação
+### P2024-03-17
 
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2023-08-27 | Len Mion e os Senhores da Terra Alexandre Magno e Qin Shi Huang Di (palestra) | — | transcrição automatizada; citação |
-| P2018-12-16 | Terra Atlantis - Era Sapiens (palestra) | — | transcrição automatizada; citação |
-| P2017-10-14 | Da Base Atlan ao Colégio Druídico (palestra) | — | transcrição automatizada; citação |
-| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
-| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
-| P2023-12-02 | bloco da história anunnaki | palestra/STT pré-curada |
+**Fonte:** palestra «A Quem Pertence o Planeta e a Biblioteca Genômica Mais Atualizada do Universo» (17/03/2024).
+
+**Trecho verbatim:** «E ele fez isso e conseguiu introduzir o DNA de Enk em muitas linhagens humanas. Isso aconteceu há 48.000 anos atrás.»
+
+## Atualização
+### P2023-12-02
+
+- **Pai de Thot:** "ele é um anunnaki terráqueo... ele é filho de Enki" — Thot/Ninjizida como filho de Enki (nova aresta RC-463 ↔ RC-486);
+- **Irmãos:** Enki e Enlil entre os três filhos de Anu enviados à Terra (com a irmã Ninmah/Ninhursag);
+- **Comando:** "esses 900 anunnakis eram comandados por Enlil. Enki era o outro irmão" — contexto do efetivo anunnaki na Terra;
+- Enki e Enlil na dinastia de Nibiru (RC-589) — “Dieck Eno” [STT duvidoso para Enki? — `[REVISAR → CHANCELA 10/09/2026 · F039-L5: AGUARDA-ÁUDIO (hipótese Enki registrada; hapax) — ver nota]`].
 
 
+## Atualização
+### P2021-03-27 (Enki, Enlil e o Fim Súbito da Babilônia)
 
-## Citação-chave
-
-> "Ele é um anunnaki terráqueo... ele é filho de Enki." — P2023-12-02 (sobre Thot/Ninjizida)
+- **Fonte primária do conflito com Enlil:** os clãs de Enki e Enlil "sempre disputaram o poder nessas cidades sumerianas e nas cidades do Egito" — o pano de fundo do fim súbito da Babilônia;
+- **Desobediência à regra de Anu:** "o próprio Enki e Enlil começaram a meio que desobedecer e também os filhos deles, os netos e os bisnetos começaram a produzir relação com seres humanos" (pré-diluviano);
+- **Torre de Babel como projeto de Enki:** seção 4.4 do Sumário — "A Torre de Babel: Um Projeto Cultural e de Poder de Enki";
+- **Objetivos:** os de Enlil/Anu eram "mais parecidos com os de Javé" do que os de Enki (nova aresta RC-486 ↔ RC-487);
+- **Guerras atômicas (contexto da disputa):** a pontaria de Ninurta/Nergal, no âmbito dos clãs, atingiu Sinai/vale de Sidim (Sodoma e Gomorra) e a radioatividade dizimou a Suméria — **contexto, não ontologia** (quarentena histórica).
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -117,28 +129,15 @@ Anunnaki filho de Anu, irmão de Enlil — na RC, responsável pela inoculação
 | Ao Vencedor as Batatas (paradigma do domínio) | RC-764 | ← relaciona-se-a |
 | Qin Shi Huang Di (imperador chinês sob influência de Lemion) | RC-851 | associado |
 
-## Atualização
-### P2021-03-27 (Enki, Enlil e o Fim Súbito da Babilônia)
+## Fontes
 
-- **Fonte primária do conflito com Enlil:** os clãs de Enki e Enlil "sempre disputaram o poder nessas cidades sumerianas e nas cidades do Egito" — o pano de fundo do fim súbito da Babilônia;
-- **Desobediência à regra de Anu:** "o próprio Enki e Enlil começaram a meio que desobedecer e também os filhos deles, os netos e os bisnetos começaram a produzir relação com seres humanos" (pré-diluviano);
-- **Torre de Babel como projeto de Enki:** seção 4.4 do Sumário — "A Torre de Babel: Um Projeto Cultural e de Poder de Enki";
-- **Objetivos:** os de Enlil/Anu eram "mais parecidos com os de Javé" do que os de Enki (nova aresta RC-486 ↔ RC-487);
-- **Guerras atômicas (contexto da disputa):** a pontaria de Ninurta/Nergal, no âmbito dos clãs, atingiu Sinai/vale de Sidim (Sodoma e Gomorra) e a radioatividade dizimou a Suméria — **contexto, não ontologia** (quarentena histórica).
-
-## Ampliação
-### P2024-03-17
-
-**Fonte:** palestra «A Quem Pertence o Planeta e a Biblioteca Genômica Mais Atualizada do Universo» (17/03/2024).
-
-**Trecho verbatim:** «E ele fez isso e conseguiu introduzir o DNA de Enk em muitas linhagens humanas. Isso aconteceu há 48.000 anos atrás.»
-
-## Citações-chave
-
-> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
-
-- «E ele foi eh colocado DNA humano pelos, né, o na quando eles precisavam de macacides e inteligentes para trabalhar o ouro necessário aos ananares, não foi certo?» — *ver:* **Ampliação — P2018-12-16 (Terra Atlantis - Era Sapiens)** U0017
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2023-08-27 | Len Mion e os Senhores da Terra Alexandre Magno e Qin Shi Huang Di (palestra) | — | transcrição automatizada; citação |
+| P2018-12-16 | Terra Atlantis - Era Sapiens (palestra) | — | transcrição automatizada; citação |
+| P2017-10-14 | Da Base Atlan ao Colégio Druídico (palestra) | — | transcrição automatizada; citação |
+| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
+| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
+| P2023-12-02 | bloco da história anunnaki | palestra/STT pré-curada |
 
 
-> Notas de processo: 4 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-486.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

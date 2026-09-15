@@ -18,13 +18,8 @@ Fórmula doutrinária da palestra segundo a qual o que se pensa é criado, o que
 ## Contexto / Origem
 A lei é vinculada ao diálogo interior, aos RNA mensageiros, à prática mental, ao campo akáshico e à capacidade de o eu enviar novas informações durante a recomposição da realidade.
 
-## Escopo rigoroso
-
-- não é lei científica;
-- não é citação textual do Buda validada neste projeto;
-- não comprova cura genética, levitação ou caminhada sobre água;
-- registra a formulação doutrinária usada por Ellam.
-
+## Citações-chave
+> “O que você pensa, você cria; o que você sente, você atrai; aquilo que aspira, o seu genoma se modifica.”
 
 ## Ampliação
 ### P2025-05-31
@@ -43,14 +38,6 @@ A lei é vinculada ao diálogo interior, aos RNA mensageiros, à prática mental
 - **Lei da Mente do Buda (P2025-02-15):** "a lei que explica o que você pode fazer em você mesmo. O que você pensa você cria, o que você sente você atrai, o que você aspira a ser, o seu genoma se modifica para você ser aquilo que aspira. Então aquilo se torna realidade."
 - **Diálogo interior (Mentalma):** "no Mentalma a gente fala da importância do diálogo constante interior: usar o seu discurso para dizer às suas células o que você quer ser".
 - **Transtorno cognitivo × religião:** "transtorno cognitivo é quando você acredita em algo que não é verdade, mas que lhe é agradável... Os ateus dizem: quando uma pessoa sozinha fica fazendo maluquice, a gente diz que fulano tá delirando. Quando várias deliram juntas, o nome disso é religião" [quarentena — leitura do autor].
-
-## Fontes
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2025-02-15 | U0830–U0883 | aula/palestra STT |
-
-## Citações-chave
-> “O que você pensa, você cria; o que você sente, você atrai; aquilo que aspira, o seu genoma se modifica.”
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -76,3 +63,16 @@ Preservar a atribuição “Lei da Mente do Buda” como nome usado na palestra,
 
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-712.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2025-02-15 | U0830–U0883 | aula/palestra STT |
+
+## Escopo rigoroso
+
+- não é lei científica;
+- não é citação textual do Buda validada neste projeto;
+- não comprova cura genética, levitação ou caminhada sobre água;
+- registra a formulação doutrinária usada por Ellam.
+

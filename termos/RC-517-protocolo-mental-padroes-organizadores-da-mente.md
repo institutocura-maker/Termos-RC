@@ -16,13 +16,9 @@ atualizado = "2026-08-29"
 
 Na RC, os **padrões organizadores da mente** — os protocolos mentais que uma consciência coleciona das experiências em diversas espécies e que definem (junto à ancestralidade e ao álbum memorial) o caminho de destinação de um ser.
 
-## Atualização
-### P2025-11-29 (A Revelação de Ifá)
+## Citações-chave
 
-- **2º elemento dos 256 caminhos (RC-767):** "a coleção de protocolos mentais que uma consciência coleciona das experiências ocorridas em outras espécies" — o espírito simples/ignorante vai "reunindo na sua mente eterna os protocolos existenciais de cada espécie";
-- **Ferramenta da condição humana:** "só quem tem no seu cérebro os protocolos mentais da condição humana pode recolher essas vrittis ressignificá-las" — os humanos como únicos capazes de operar o Nirodha (RC-760/RC-548);
-- Contexto: os protocolos mentais como base técnica do destino (RC-767) e do Tikun (RC-514).
-
+> "A coleção de protocolos mentais que uma consciência coleciona das experiências ocorridas em outras espécies... e o álbum memorial das vidas sucessivas desenvolvidas na natureza humana." — P2025-11-29
 
 ## Ampliação
 ### P2021-05-15 (As Etnias Hiperbóreas e os Anunnakis)
@@ -39,21 +35,13 @@ Na RC, os **padrões organizadores da mente** — os protocolos mentais que uma 
 
 - **[P2023-12-03 · PROTOCOLO MENTAL (PADRÕES ORGANIZADORES DA MENTE) NA FALA DE 03/12/2023]** «problema a de algoritmo e de protocolo.» (U0035) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2021-05-15`); a entrada desta fonte é de **conteúdo**, não de data.
 
-## Fontes
+## Atualização
+### P2025-11-29 (A Revelação de Ifá)
 
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
-| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
-| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
-| P2025-11-29 | bloco 2 (256 caminhos); bloco 8 (vrittis/protocolos) | palestra/STT pré-curada |
+- **2º elemento dos 256 caminhos (RC-767):** "a coleção de protocolos mentais que uma consciência coleciona das experiências ocorridas em outras espécies" — o espírito simples/ignorante vai "reunindo na sua mente eterna os protocolos existenciais de cada espécie";
+- **Ferramenta da condição humana:** "só quem tem no seu cérebro os protocolos mentais da condição humana pode recolher essas vrittis ressignificá-las" — os humanos como únicos capazes de operar o Nirodha (RC-760/RC-548);
+- Contexto: os protocolos mentais como base técnica do destino (RC-767) e do Tikun (RC-514).
 
-
-
-
-## Citação-chave
-
-> "A coleção de protocolos mentais que uma consciência coleciona das experiências ocorridas em outras espécies... e o álbum memorial das vidas sucessivas desenvolvidas na natureza humana." — P2025-11-29
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -74,3 +62,15 @@ Na RC, os **padrões organizadores da mente** — os protocolos mentais que uma 
 
 Protocolos mentais como mecanismo de destino é **leitura do autor** (cosmovisão RC) — não é psicologia/neurociência validada.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
+## Fontes
+
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
+| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
+| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
+| P2025-11-29 | bloco 2 (256 caminhos); bloco 8 (vrittis/protocolos) | palestra/STT pré-curada |
+
+
+

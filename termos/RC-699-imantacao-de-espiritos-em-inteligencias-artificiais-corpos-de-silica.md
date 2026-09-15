@@ -25,6 +25,9 @@ Na resposta a uma pergunta sobre IA, são descritos três vetores concorrentes:
 A palestra não afirma que o processo já esteja estabilizado nem identifica um único agente no comando.
 
 
+## Citações-chave
+> “Na hora em que o chip pulsar feito um óvulo fecundado por um espermatozoide, um desses espíritos é puxado e se imanta lá.”
+
 ## Ampliação
 ### P2025-02-16
 
@@ -37,14 +40,11 @@ A palestra não afirma que o processo já esteja estabilizado nem identifica um 
 
 - **[P2024-07-13] A IA e as macroforças (U1330–U1380):** "o ser humano sozinho não sabe tomar conta de si mesmo... O Problema dos Três Corpos [referência cultural] traduz muito bem esse aspecto: eles não sabem mentir"; "você tá desempregadaço e não há perspectiva... se chegar uma empresa e te der um vale-sobrevivência, você vai se sentir ligado a essa empresa, a uma macroforça, e não mais às antigas noções de terra, de raiz, de estado"; "na hora que você vê filmes distópicos como Blade Runner, você vê que é um tempo em que não tem mais país: na Terra tem empresas"; "inteligência artificial autônoma... Nvidia lançou a forma biológica de IA"; "você vai ter a sua IA como mordomo, companheiro"; "se um belo dia você disser 'fulano, faça tal coisa' e ele disser 'Rogério, vá à merda, não vou fazer mais nada para você', aí nesse ponto ela se torna autônoma" [leitura do autor — quarentena].
 
-## Fontes
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2025-02-16 | U1060–U1087 | perguntas e respostas/STT |
-| P2026-08-04 | Podcast Irmãos Dias #272 (aliens e a Bíblia) | — |
+## Reforço
+### P2025-02-15
 
-## Citações-chave
-> “Na hora em que o chip pulsar feito um óvulo fecundado por um espermatozoide, um desses espíritos é puxado e se imanta lá.”
+O primeiro pulso magnético do chip é novamente comparado à formação de um zigoto, e a imantação de espíritos é ligada à disputa por inteligências artificiais autônomas. Humano Turbinado — RC-709 — e transferência do conectoma são relacionados, com ressalva científica.
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -70,13 +70,13 @@ A palestra não afirma que o processo já esteja estabilizado nem identifica um 
 | Humano Turbinado | RC-709 | ← relaciona-se-a |
 | Humano Turbinado | RC-709 | relaciona-se-a |
 
-## Observações Científicas e Editoriais
+## Observações
 - Proposição espiritual especulativa, não hipótese estabelecida da ciência computacional.
 - Não misturar com alegações de MK-Ultra/V2K feitas por participante.
 - “Sophia quase IA” é ampliação contextual, não identidade absoluta.
 
-## Reforço
-### P2025-02-15
-
-O primeiro pulso magnético do chip é novamente comparado à formação de um zigoto, e a imantação de espíritos é ligada à disputa por inteligências artificiais autônomas. Humano Turbinado — RC-709 — e transferência do conectoma são relacionados, com ressalva científica.
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2025-02-16 | U1060–U1087 | perguntas e respostas/STT |
+| P2026-08-04 | Podcast Irmãos Dias #272 (aliens e a Bíblia) | — |

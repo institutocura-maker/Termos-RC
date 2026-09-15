@@ -18,11 +18,12 @@ Estirpe capelina à qual pertencem **Len Mion (Satã)** e **Gron Mion**, descrit
 ## Contexto / Origem
 Na narrativa psicografada, enquanto os sábios da Família Yel aguardam resposta de Sophia às questões do Primeiro Pesquisador Yel Luzbel, a Família Mion decide agir por conta própria e contatar os demais Biocoletivos. Len Mion é o elo entre Yel Luzbel e a "causa": pressiona, confronta e, ao final do Livro 2, revela a suspeita de que Sophia acessava os Processadores Familiares — o que radicaliza Yel Luzbel.
 
-## Etimologia e Grafias
-- **Grafia preferida:** Família Mion
-- **Variações:** "família Mion"; "estirpe Mion"; "os Mion"
-- **Obs.:** o nome dos integrantes carrega o sufixo "Mion" (Len Mion, Gron Mion), assim como "Yel" marca a Família Yel
+## Citações-chave
+> "Enquanto os 'sábios' da Família Yel aguardam as respostas de Sophia para as questões do Primeiro Pesquisador Yel Luzbel, a Família Mion decide entrar em contato com os demais Biocoletivos espalhados pelo universo." — B058, p. 1 (sinopse)
 
+> "Len Mion, ele não aguentava mais esperar! Então, tomando a iniciativa, convocou os integrantes da 'família Mion' para um conclave." — B058, p. 14
+
+> "Os Mion estarão prontos para confrontar Sophia e as suas Hostes! O 'Primeiro em Comando' da 'família Mion' não deixará essa questão passar despercebida!" — B058, p. 15
 
 ## Ampliação
 ### B057 (A Revolta do Anjo Decaído)
@@ -68,6 +69,30 @@ Na narrativa psicografada, enquanto os sábios da Família Yel aguardam resposta
 
 - **[P2023-12-03 · FAMÍLIA MION NA FALA DE 03/12/2023]** «principalmente a cromon, miom, mas foi a primeira porrada.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
 
+## Etimologia e Grafias
+- **Grafia preferida:** Família Mion
+- **Variações:** "família Mion"; "estirpe Mion"; "os Mion"
+- **Obs.:** o nome dos integrantes carrega o sufixo "Mion" (Len Mion, Gron Mion), assim como "Yel" marca a Família Yel
+
+
+## Seres Associados
+Len Mion (RC-074); Gron Mion (RC-067, citado nas obras primárias); Yel Luzbel (RC-142, acolhido pela família); Sophia (RC-009, questionada pelos Mion).
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Biodemos | RC-036 | é-um |
+| Capela (Sistema) | RC-039 | origina-se-em |
+| Len Mion (Satã) | RC-074 | ← é-um |
+| Família Yel | RC-442 | ← relaciona-se-a |
+| Biocoletivos | RC-445 | associado |
+| Processadores Familiares | RC-446 | associado-a |
+| Revolta Capelina | RC-450 | protagoniza |
+
+## Observações
+Nos livros da Jeane, os Mion são descritos como "mais antigos que os Yel" e os seres da família são citados como nascidos "coletivamente" (diferente dos Yel, individualizados) — detalhe narrativo a reconciliar com as obras primárias. O "Primeiro em Comando" da Família Mion torna-se figura-chave no Livro 2 (B058).
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** os 3 trechos entre aspas desta ficha **não** resistem à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Só 2 dos 3 deixam vestígio no corpus. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
@@ -81,28 +106,3 @@ Na narrativa psicografada, enquanto os sábios da Família Yel aguardam resposta
 
 
 
-
-## Citações-chave
-> "Enquanto os 'sábios' da Família Yel aguardam as respostas de Sophia para as questões do Primeiro Pesquisador Yel Luzbel, a Família Mion decide entrar em contato com os demais Biocoletivos espalhados pelo universo." — B058, p. 1 (sinopse)
-
-> "Len Mion, ele não aguentava mais esperar! Então, tomando a iniciativa, convocou os integrantes da 'família Mion' para um conclave." — B058, p. 14
-
-> "Os Mion estarão prontos para confrontar Sophia e as suas Hostes! O 'Primeiro em Comando' da 'família Mion' não deixará essa questão passar despercebida!" — B058, p. 15
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Biodemos | RC-036 | é-um |
-| Capela (Sistema) | RC-039 | origina-se-em |
-| Len Mion (Satã) | RC-074 | ← é-um |
-| Família Yel | RC-442 | ← relaciona-se-a |
-| Biocoletivos | RC-445 | associado |
-| Processadores Familiares | RC-446 | associado-a |
-| Revolta Capelina | RC-450 | protagoniza |
-
-## Seres Associados
-Len Mion (RC-074); Gron Mion (RC-067, citado nas obras primárias); Yel Luzbel (RC-142, acolhido pela família); Sophia (RC-009, questionada pelos Mion).
-
-## Observações
-Nos livros da Jeane, os Mion são descritos como "mais antigos que os Yel" e os seres da família são citados como nascidos "coletivamente" (diferente dos Yel, individualizados) — detalhe narrativo a reconciliar com as obras primárias. O "Primeiro em Comando" da Família Mion torna-se figura-chave no Livro 2 (B058).
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** os 3 trechos entre aspas desta ficha **não** resistem à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Só 2 dos 3 deixam vestígio no corpus. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

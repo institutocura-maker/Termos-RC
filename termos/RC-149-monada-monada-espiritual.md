@@ -18,11 +18,8 @@ Consciência espiritual **particularizada** — também denominada "espírito" o
 ## Contexto / Origem
 A doutrina espírita explica que todos os espíritos foram criados simples e ignorantes e evoluem conforme os mundos onde cada mônada se situa — "até se tornar hominal" (racionalização). As mônadas originalmente imantadas a vegetais e animais irracionais encontram-se hoje, em muitos casos, encarnadas na condição humana. A mônada espiritual distingue-se dos **Seres Extrafísicos** (anjos clones, demos), que nada têm a ver com as consciências espirituais particularizadas.
 
-## Etimologia e Grafias
-- **Grafia preferida:** Mônada
-- **Variações:** mônada espiritual; alma; espírito; consciência espiritual particularizada; protoconsciência particularizada
-- **Origem:** do grego *monas* (unidade) — usado por Leibniz; nas RC equivale ao espírito/alma individual
-
+## Citações-chave
+> "Nesse tempo longínquo da história universal... os seres Adhyatman (de Perpérion, na Espiritualidade Laboratorial) desenvolveram uma tecnologia espiritual na qual retiraram de si mônadas, para imantá-las nos seres que Brahma criava." — B024, cap. 15
 
 ## Ampliação
 ### B024 (A Epopeia dos Agentes da Vida Universal)
@@ -39,14 +36,22 @@ A doutrina espírita explica que todos os espíritos foram criados simples e ign
 - **[B048 p. 48]** mônadas “amorosas, ingênuas e incapacitadas de não amarem.”
 - **[B048 p. 70]** o favor “reside exatamente ‘nesses empréstimos de atores espirituais’ que dão vida aos corpos transitórios.” Sem fusão com B024. RC-063 permanece **sem ficha**.
 
-## Fontes
-| Obra (sigla) | Capítulo | Página | Tipo |
-|---|---|---|---|
-| A Epopeia dos Agentes da Vida Universal (B024) | caps. 9, 15 | pp. 61, 109–110 (aprox.) | definições e contexto |
-| Painéis Emergentes... (B031) | Glossário (Seres Espirituais) | — | apoio (secundária) |
+## Atualização
+### P2021-12-04
 
-## Citações-chave
-> "Nesse tempo longínquo da história universal... os seres Adhyatman (de Perpérion, na Espiritualidade Laboratorial) desenvolveram uma tecnologia espiritual na qual retiraram de si mônadas, para imantá-las nos seres que Brahma criava." — B024, cap. 15
+- **Unidades:** U0176–U0185.
+- **Contexto acrescentado:** A Mônada é descrita como princípio espiritual produzido/doado coletivamente pelo Círculo da Perfeição para animar um novo ser quando o original permanece no Paraíso.
+- **Status da evidência:** transcrição automatizada, pré-curada e aprovada quanto à integração terminológica; conferir com áudio/obra antes de promover status.
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
+## Etimologia e Grafias
+- **Grafia preferida:** Mônada
+- **Variações:** mônada espiritual; alma; espírito; consciência espiritual particularizada; protoconsciência particularizada
+- **Origem:** do grego *monas* (unidade) — usado por Leibniz; nas RC equivale ao espírito/alma individual
+
+
+## Seres Associados
+Espiritualidade Superior (RC-059); Seres Adhyatman (RC-013).
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -71,18 +76,13 @@ A doutrina espírita explica que todos os espíritos foram criados simples e ign
 | Temis (Têmis) como Mãe-de-Pandora (Co-clonadora) | RC-815 | associado |
 | Prole sem Face (Humanos Modificáveis sem Face Definida) | RC-819 | associado |
 
-## Seres Associados
-Espiritualidade Superior (RC-059); Seres Adhyatman (RC-013).
-
 ## Observações
 Ficha baseada na leitura de B024. Verificar nos capítulos 9 ("Estruturação das lokas") e 15 o detalhamento do processo de "imantação" de mônadas.
 
 ---
 
-## Atualização
-### P2021-12-04
-
-- **Unidades:** U0176–U0185.
-- **Contexto acrescentado:** A Mônada é descrita como princípio espiritual produzido/doado coletivamente pelo Círculo da Perfeição para animar um novo ser quando o original permanece no Paraíso.
-- **Status da evidência:** transcrição automatizada, pré-curada e aprovada quanto à integração terminológica; conferir com áudio/obra antes de promover status.
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo |
+|---|---|---|---|
+| A Epopeia dos Agentes da Vida Universal (B024) | caps. 9, 15 | pp. 61, 109–110 (aprox.) | definições e contexto |
+| Painéis Emergentes... (B031) | Glossário (Seres Espirituais) | — | apoio (secundária) |

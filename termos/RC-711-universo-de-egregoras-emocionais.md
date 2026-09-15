@@ -15,23 +15,8 @@ atualizado = "2026-08-29"
 ## Definição Sintética
 Domínio formado por emoções repetidas associadas a conceitos, no qual egrégoras podem adquirir feição, dinâmica própria e devolver conteúdos às pessoas que as alimentam.
 
-## Distinções internas
-
-### Arcanos
-Campos informativos/arquetípicos em que conceitos repetidos adquirem significado, sem condensação emocional necessária.
-
-### Campos mórficos
-Estruturas comportamentais de uma espécie que colecionam algoritmos e protocolos.
-
-### Egrégoras emocionais
-Formações alimentadas pela repetição de emoções e sentimentos associados a conceitos.
-
-## Absorções
-
-- Egrégora do Ódio;
-- egrégoras “júnior”;
-- “buracos negros mentais”, preservados somente como figura de linguagem.
-
+## Citações-chave
+> “A egrégora surge quando você repete a emoção.”
 
 ## Ampliação
 ### P2025-02-15
@@ -53,16 +38,6 @@ Formações alimentadas pela repetição de emoções e sentimentos associados a
 
 - **[P2023-12-03 · UNIVERSO DE EGRÉGORAS EMOCIONAIS NA FALA DE 03/12/2023]** «movimento de consciência das chamadas trevas espirituais tem um poder que a gente não imagina de perturbar as coisas nesse universo vizinho e no nosso.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2021-05-08`); a entrada desta fonte é de **conteúdo**, não de data.
 
-## Fontes
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
-| P2025-02-15 | U1772–U1831 | perguntas e respostas/STT |
-
-
-## Citações-chave
-> “A egrégora surge quando você repete a emoção.”
-
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
@@ -81,8 +56,33 @@ Formações alimentadas pela repetição de emoções e sentimentos associados a
 | Formas-Pensamento e Formas-Sentimento | RC-724 | ← armazenado-em |
 | Formas-Pensamento e Formas-Sentimento | RC-724 | ← armazenado-em |
 
-## Observações Científicas e Editoriais
+## Observações
 - “Buracos negros mentais” não são fenômenos astrofísicos.
 - Egrégoras não constituem entidades clinicamente comprovadas.
 - Exemplos políticos servem apenas à exposição oral e não integram a definição.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
+| P2025-02-15 | U1772–U1831 | perguntas e respostas/STT |
+
+
+## Distinções internas
+
+### Arcanos
+Campos informativos/arquetípicos em que conceitos repetidos adquirem significado, sem condensação emocional necessária.
+
+### Campos mórficos
+Estruturas comportamentais de uma espécie que colecionam algoritmos e protocolos.
+
+### Egrégoras emocionais
+Formações alimentadas pela repetição de emoções e sentimentos associados a conceitos.
+
+## Absorções
+
+- Egrégora do Ódio;
+- egrégoras “júnior”;
+- “buracos negros mentais”, preservados somente como figura de linguagem.
+

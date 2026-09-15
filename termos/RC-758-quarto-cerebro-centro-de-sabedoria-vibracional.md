@@ -16,16 +16,12 @@ atualizado = "2026-08-29"
 
 **Na leitura/interpretação do artigo `ART-2026-08-18` (Denise Ferreira da Silva, aluna avançada de Jan Val Ellam):** o Quarto Cérebro é um centro de sabedoria vibracional onde razão e alma, pensamento e ternura, dor e lucidez se integram em coerência viva — a manifestação do **Quarto Logos (RC-092)** no psiquismo humano. O conceito aparece citado pelo artigo com base em **O Quarto Logos, caps. 6–9** do Ellam: *"O Quarto Cérebro surge quando o sentir deixa de ser desorganização e se torna inteligência vibracional"* e *"o novo Logos não será fundado pela razão, mas pela lucidez vibracional que nasce do coração reconciliado"*.
 
-## Estrutura interna
+## Citações-chave
 
-- **Enraizado na obra primária:** o artigo cita "O Quarto Logos" (caps. 6–9) como base — conceito com autonomia própria;
-- centro de lucidez vibracional onde mente, corpo, emoção e alma se realinham;
-- "o sentir deixa de ser ruído para se transformar em sabedoria aplicada";
-- emerge quando a alma se recusa a continuar negando o que sente;
-- relaciona-se ao psiquismo feminino como "solo" de manifestação (Sophia, RC-009);
-- ativação ligada à maturidade emocional ("condição da idade adulta espiritual" — O Quarto Logos, cap. introdutório);
-- conexões: Quarto Logos (RC-092), Sophia (RC-009), Tikun (RC-514), Pandora (RC-086), Eu Profundo (RC-553).
+> "O Quarto Cérebro é o espaço onde o sentir se reconcilia com a consciência e se transforma em linguagem criadora." — O Quarto Logos, cap. 7 (citado em ART-2026-08-18)
 
+> "Normalmente os cientistas falam 82, 86 bilhões de neurônios, mas o filme já arredondou para 100. E o personagem diz que nós humanos só usando Cerca disso aí. E exatamente o filme mostra como a presença no organismo humano da da tal droga, ou seja, o CPH4, só que sintetizado, aí não é só a forma de enzimo, é sobre a forma de droga. Quem consome aquele tipo de droga tem desbloqueado esse essa condição de ir criando, eu vou falar sobre isso, uma palestra que eu devo fazer domingo em reserva são os protocolos da mente e o quarto cérebro vão criando, vão colonizando esses neurônios que ainda nem foram ativados ou ficam neutros. Por quê? Porque os humanos estacionaram. Mas em tese, nós, seres humanos, somos a única espécie que ainda tem um cérebro que por ser mais recente o cérebro com a proteção do crânio do que os cérebros radiatas, tipo de Sofia, nunca foi bilatério, tipo do povo, e em corpos invertebrados, nós aqui precisamos romper essa barreira para usar os 84, 83% restante." — P2021-05-15
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** os 2 trechos entre aspas desta ficha **não** resistem à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Só 1 dos 2 deixam vestígio no corpus. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
 
 ## Ampliação
 ### P2021-05-15 (As Etnias Hiperbóreas e os Anunnakis)
@@ -47,25 +43,6 @@ atualizado = "2026-08-29"
 
 - **[P2023-12-03 · QUARTO CÉREBRO (CENTRO DE SABEDORIA VIBRACIONAL) NA FALA DE 03/12/2023]** «tem dois cérebros ou duas câmaras cerebrais.» (U0038) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
 
-## Fontes
-
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
-| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
-| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra/STT) | citação verbatim; paráfrase |
-| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
-| ART-2026-08-18 | caps. 1–10 (conceito central) | artigo de aluna avançada (exegese) |
-| O Quarto Logos (B016) | caps. 6–9 (citado pelo artigo) | obra primária de Ellam |
-
-
-
-
-
-## Citação-chave
-
-> "O Quarto Cérebro é o espaço onde o sentir se reconcilia com a consciência e se transforma em linguagem criadora." — O Quarto Logos, cap. 7 (citado em ART-2026-08-18)
-
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
@@ -81,6 +58,28 @@ atualizado = "2026-08-29"
 Este verbete foi criado a partir do **artigo de Denise Ferreira da Silva (ART-2026-08-18)**, uma **interpretação avançada** das obras de Jan Val Ellam — **não é cânon primário direto**. O conceito "Quarto Cérebro" está **enraizado na obra primária** (O Quarto Logos, caps. 6–9, citado pelo artigo), o que lhe confere autonomia, mas toda formulação vibracional/iniciática do artigo (afirmações, "selo", "flor estelar") **não é ontologizada** como verbo/nó de IA. A linguagem clínica ("maturidade emocional") é uso iniciático, não terminologia médica.
 
 
-## Citações-chave
-> "Normalmente os cientistas falam 82, 86 bilhões de neurônios, mas o filme já arredondou para 100. E o personagem diz que nós humanos só usando Cerca disso aí. E exatamente o filme mostra como a presença no organismo humano da da tal droga, ou seja, o CPH4, só que sintetizado, aí não é só a forma de enzimo, é sobre a forma de droga. Quem consome aquele tipo de droga tem desbloqueado esse essa condição de ir criando, eu vou falar sobre isso, uma palestra que eu devo fazer domingo em reserva são os protocolos da mente e o quarto cérebro vão criando, vão colonizando esses neurônios que ainda nem foram ativados ou ficam neutros. Por quê? Porque os humanos estacionaram. Mas em tese, nós, seres humanos, somos a única espécie que ainda tem um cérebro que por ser mais recente o cérebro com a proteção do crânio do que os cérebros radiatas, tipo de Sofia, nunca foi bilatério, tipo do povo, e em corpos invertebrados, nós aqui precisamos romper essa barreira para usar os 84, 83% restante." — P2021-05-15
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** os 2 trechos entre aspas desta ficha **não** resistem à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Só 1 dos 2 deixam vestígio no corpus. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+## Fontes
+
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
+| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
+| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra/STT) | citação verbatim; paráfrase |
+| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
+| ART-2026-08-18 | caps. 1–10 (conceito central) | artigo de aluna avançada (exegese) |
+| O Quarto Logos (B016) | caps. 6–9 (citado pelo artigo) | obra primária de Ellam |
+
+
+
+
+
+## Estrutura interna
+
+- **Enraizado na obra primária:** o artigo cita "O Quarto Logos" (caps. 6–9) como base — conceito com autonomia própria;
+- centro de lucidez vibracional onde mente, corpo, emoção e alma se realinham;
+- "o sentir deixa de ser ruído para se transformar em sabedoria aplicada";
+- emerge quando a alma se recusa a continuar negando o que sente;
+- relaciona-se ao psiquismo feminino como "solo" de manifestação (Sophia, RC-009);
+- ativação ligada à maturidade emocional ("condição da idade adulta espiritual" — O Quarto Logos, cap. introdutório);
+- conexões: Quarto Logos (RC-092), Sophia (RC-009), Tikun (RC-514), Pandora (RC-086), Eu Profundo (RC-553).
+

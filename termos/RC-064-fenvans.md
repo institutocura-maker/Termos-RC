@@ -19,8 +19,8 @@ Espécie precursora e experimental do **Projeto TALM** (RC-091): "seres-cobaias"
 - Termo já presente na base (B031/B024; sem ficha física);
 - **ficha materializada** por autorização da Devolutiva Trilogia TALM (O-2 — "os detalhes dos Fenvans em RC-064").
 
-## Etimologia e Grafias
-- Grafia preferida: Fenvans. STT/variações: "fenvães", "fenvans"; relacionado a Corpos Fenvã (RC-769 — terceira forma de vida do universo vizinho) e "pré-fenvans" (leva inicial sacrificial).
+## Citações-chave
+> "Os Fenvans foram a espécie precursora e experimental, designados como 'seres-cobaias' ou 'primeiros astronautas'." — ART-2025-08-03, Cap. 3
 
 ## Ampliação
 ### ART-2025-08-03
@@ -58,18 +58,8 @@ Espécie precursora e experimental do **Projeto TALM** (RC-091): "seres-cobaias"
 
 - **[Os fenvães/elfos de Ig Brasil: corpos de plasma e o padrão emocional] (U0008)** «Mais tarde, perto de 6 bilhões de anos após o início do universo da criação, foi engendrada uma outra espécie de seres demoníacos, só que mais modernos, também com corpos de plasma chamados de fenvães ou de elfos na mitologia nórdica ou na mitologia celta, na quem assistiu Senhor dos Anéis tem uma noção da coisa.» — Odim, o primeiro demo curioso: "Odim foi o primeiro demo que queria entender as coisas" (U0008: «Odim foi o primeiro demo que queria entender as coisas.»); "A curiosidade intelectual de Odim está plenamente descrita na mitologia nórdica" (U0008: «A curiosidade intelectual de Odim está plenamente descrita na mitologia nórdica.»); a novidade do padrão emocional: "Os últimos aqui de Brasil, surgiu a novidade nesse universo vizinho, o padrão emocional" (U0008: «Os últimos aqui de Brasil, surgiu a novidade nesse universo vizinho, o padrão emocional.»).
 
-## Fontes
-| Obra/palestra | Localização | Tipo |
-|---|---|---|
-| P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
-| P2021-01-30 | A Mensagem TALM e os Fios Soltos do Destino (palestra) | — | transcrição automatizada; citação |
-| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
-| ART-2025-08-03 — Dossiê Fenvans (Edson Cella Mendes) | Partes I–III | material do curador |
-| Fontes anteriores da Base | B031, B024 | apoio/remissão |
-| P2026-03-21 | Samudra Manthan A Enigmatica Alquimia de Vishnu (palestra) | — | transcrição automatizada; citação |
-
-## Citações-chave
-> "Os Fenvans foram a espécie precursora e experimental, designados como 'seres-cobaias' ou 'primeiros astronautas'." — ART-2025-08-03, Cap. 3
+## Etimologia e Grafias
+- Grafia preferida: Fenvans. STT/variações: "fenvães", "fenvans"; relacionado a Corpos Fenvã (RC-769 — terceira forma de vida do universo vizinho) e "pré-fenvans" (leva inicial sacrificial).
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -98,3 +88,13 @@ Espécie precursora e experimental do **Projeto TALM** (RC-091): "seres-cobaias"
 * **Fenvã = Fenvans (U26, despacho do Curador 13/09/2026):** RC-769 «Corpos Fenvã» foi fundido aqui por remissiva (grafia «Fenvã» provém de STT da palestra P2026-07-25); a Ampliação P2026-03-21 migrou verbatim para esta ficha, com a fonte no cadastro e na tabela. O pendente de confirmação em fonte publicada acompanha a lápide RC-769 (histórico preservado).
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-064.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
+## Fontes
+| Obra/palestra | Localização | Tipo |
+|---|---|---|
+| P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
+| P2021-01-30 | A Mensagem TALM e os Fios Soltos do Destino (palestra) | — | transcrição automatizada; citação |
+| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
+| ART-2025-08-03 — Dossiê Fenvans (Edson Cella Mendes) | Partes I–III | material do curador |
+| Fontes anteriores da Base | B031, B024 | apoio/remissão |
+| P2026-03-21 | Samudra Manthan A Enigmatica Alquimia de Vishnu (palestra) | — | transcrição automatizada; citação |

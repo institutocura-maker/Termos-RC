@@ -18,11 +18,10 @@ atualizado = "2026-09-13"
 ## Contexto / Origem
 No B087 (psicografia de Jeane Miranda — versão paralela às obras primárias B021): Pandora propõe a engenharia ("proponho que criemos um ser que terá mais dos seus genes do que do meu"); Epimeteu recusa primeiro ("não quero que Zeus pense que um filho meu é sua propriedade") e aceita após o argumento da libertação; o "círculo de luz": "juntámos a nossa força mental e formámos um 'círculo de luz' e, dentro dele, começámos a engendrar – ou a criar – um corpo" (p. 71); Pandora usa ocultamente os seus poderes mentais para urdi-la; o nome: "Pirra, que significa aquela cheia de sabedoria, de justiça e amor" (p. 72); a primeira fala: "Quem sou eu? Por que me criaram?"; a percepção aguda (descobre as manipulações secretas de Pandora com as "poções", p. 83); a divisão de trabalho com Pandora (estimular o macho especial de dia e de noite).
 
-## Etimologia e Grafias
-- **Grafia preferida:** Pirra
-- **Variações:** —
-- **Obs.:** no livro, o nome é traduzido como "aquela cheia de sabedoria, de justiça e amor" (fala de Epimeteu, p. 72); no mito clássico, "pirra" = "a ruiva/vermelha como fogo"
+## Citações-chave
+> "O seu nome é Pirra, que significa aquela cheia de sabedoria, de justiça e amor. Você nasceu através de nós. Somos Epimeteu, da linhagem dos titãs, e Pandora, que antes foi filha de Zeus e, agora, é um ser biológico humanoide. Você foi urdida para manter a minha linhagem mais um tempo sobre a Terra." — B087, p. 72 (Epimeteu)
 
+> "— Recebo-o como o meu criador, acima de tudo, e o aceito como meu pai, cuidador e protetor. Você tem aqui uma filha. Ensina-me tudo que sabe e eu darei seguimento à linhagem de seres à qual você pertence." — B087, p. 73
 
 ## Ampliação
 ### B088 (A Revolta do Anjo Decaído)
@@ -42,16 +41,14 @@ No B087 (psicografia de Jeane Miranda — versão paralela às obras primárias 
 - **[B089 p. 103 · a teoria da adversidade]** "talvez, estejamos o tempo todo a vivenciar situações de confronto para, de algum modo, ao acharmos soluções que nunca foram pensadas por nós, anexar nos nossos cérebros um novo modo de pensar... **para dar um salto em direção ao desconhecido.**"
 - 0 códigos novos (O-3). **B089 adicionada às fontes** (Devolutiva O-6).
 
-## Fontes
-| Obra (sigla) | Capítulo | Página | Tipo |
-|---|---|---|---|
-| Os Livros da Vida de Pandora 1 (B087) | Caps. 13–15 | pp. 69–86 (PDF): a criação, a missão, a percepção | narrativa psicografada (Pandora) |
-| Tempos Difíceis no Olimpo (B021) | — | — | base do termo (versão primária) |
+## Etimologia e Grafias
+- **Grafia preferida:** Pirra
+- **Variações:** —
+- **Obs.:** no livro, o nome é traduzido como "aquela cheia de sabedoria, de justiça e amor" (fala de Epimeteu, p. 72); no mito clássico, "pirra" = "a ruiva/vermelha como fogo"
 
-## Citações-chave
-> "O seu nome é Pirra, que significa aquela cheia de sabedoria, de justiça e amor. Você nasceu através de nós. Somos Epimeteu, da linhagem dos titãs, e Pandora, que antes foi filha de Zeus e, agora, é um ser biológico humanoide. Você foi urdida para manter a minha linhagem mais um tempo sobre a Terra." — B087, p. 72 (Epimeteu)
 
-> "— Recebo-o como o meu criador, acima de tudo, e o aceito como meu pai, cuidador e protetor. Você tem aqui uma filha. Ensina-me tudo que sabe e eu darei seguimento à linhagem de seres à qual você pertence." — B087, p. 73
+## Seres Associados
+Pandora (RC-086) e Epimeteu (RC-302, os criadores); Prometeu (RC-301, o "tio"); o macho especial (o aluno).
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -64,9 +61,12 @@ No B087 (psicografia de Jeane Miranda — versão paralela às obras primárias 
 | Eva como 3ª Tentativa de Fêmea para Adão (Homem + Mulher da Espécie Sábia) | RC-814 | associado |
 | Patriarcado desde Pandora (Origem no Feminino, Dominação pelo Masculino) | RC-818 | associado |
 
-## Seres Associados
-Pandora (RC-086) e Epimeteu (RC-302, os criadores); Prometeu (RC-301, o "tio"); o macho especial (o aluno).
-
 ## Observações
 **Ficha criada no ciclo B087 (Devolutiva O-2, 2026-08-25)** — termo já constava da tabela-mestra (B021) sem ficha física. **B087 adicionada às fontes** (fonte nova). **Quarentenas (O-7):** mediumística (psicografia — a versão B087 corre paralela à primária B021; divergências registradas, jamais fundidas) + ufológica (ser do universo paralelo — cruzar, não materializar). No B087, Pirra nasce da união Pandora+Epimeteu — o mito clássico e a versão RC primária (RC-298: "Pirra e Deucalião") devem ser conciliados pelo curador em ciclo futuro. 0 códigos novos (O-3).
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** os 2 trechos entre aspas desta ficha **não** resistem à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Todos deixam vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo |
+|---|---|---|---|
+| Os Livros da Vida de Pandora 1 (B087) | Caps. 13–15 | pp. 69–86 (PDF): a criação, a missão, a percepção | narrativa psicografada (Pandora) |
+| Tempos Difíceis no Olimpo (B021) | — | — | base do termo (versão primária) |

@@ -18,10 +18,8 @@ Tese de B002 (cap. 17): **o mal não é uma força autônoma, mas subproduto da 
 ## Contexto / Origem
 O capítulo 17 de B002 desenvolve o tema mostrando a "brutal ditadura" sob a qual vivemos (à exceção de algumas civilizações que superaram a cota doentia do DNA do criador), exercida pelo Senhor Javé "em nome do 'bem'", e aponta que o discernimento de alguns membros da hierarquia já os permite coexistir com seres evoluídos. A reflexão integra o eixo ético da Revelação Cósmica: o mal como consequência da ignorância espiritual — conceito que dialoga com a Revelação Espiritual (Kardec).
 
-## Etimologia e Grafias
-- **Grafia preferida:** O Mal: Subproduto da Ignorância Espiritual
-- **Variações:** mal como ignorância; subproduto da ignorância espiritual
-
+## Citações-chave
+> "O curioso, triste ou ainda ridículo em torno dessa ditadura é que, a exemplo do que se pode perceber na Terra, a opressão do Senhor Javé sobre tudo mais que o envolve no âmbito da sua criação, é pretensamente exercida em nome do 'bem'." — B002, cap. 17
 
 ## Ampliação
 ### B002 (O Drama Espiritual de Javé)
@@ -31,13 +29,13 @@ O capítulo 17 de B002 desenvolve o tema mostrando a "brutal ditadura" sob a qua
 - **[B002 p. 190]** o «surgimento do mal» = «mero subproduto da “longevidade indesejada”», associada aos «temperos psicológicos de um ser que teve de “sobreviver a qualquer custo”».
 - Kardec (p. 191) = **externa**. RC-224 permanece **sem ficha**. Sem fusão com B001. Fonte **B002** já constava na tabela-mestra.
 
-## Fontes
-| Obra (sigla) | Capítulo | Página | Tipo |
-|---|---|---|---|
-| O Drama Espiritual de Javé (B002) | cap. 17 (O Mal: Subproduto da Ignorância Espiritual) | pp. 187–189 (aprox.) | capítulo dedicado |
+## Etimologia e Grafias
+- **Grafia preferida:** O Mal: Subproduto da Ignorância Espiritual
+- **Variações:** mal como ignorância; subproduto da ignorância espiritual
 
-## Citações-chave
-> "O curioso, triste ou ainda ridículo em torno dessa ditadura é que, a exemplo do que se pode perceber na Terra, a opressão do Senhor Javé sobre tudo mais que o envolve no âmbito da sua criação, é pretensamente exercida em nome do 'bem'." — B002, cap. 17
+
+## Seres Associados
+Javé (RC-001); Jesus (RC-072); hierarquia celestial (Aya e Aye, RC-031).
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -51,9 +49,11 @@ O capítulo 17 de B002 desenvolve o tema mostrando a "brutal ditadura" sob a qua
 | Imperativo Categórico da Moral | RC-328 | associado |
 | Abismo da Consciência Cósmica | RC-721 | comparado-a |
 
-## Seres Associados
-Javé (RC-001); Jesus (RC-072); hierarquia celestial (Aya e Aye, RC-031).
-
 ## Observações
 Ficha baseada em B002 (obra primária). Conceito ético central das RC — diferenciar do "mal" das religiões tradicionais. Cruzar com RC-224 (Prevalece o Amor, cap. 19 de B002).
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo |
+|---|---|---|---|
+| O Drama Espiritual de Javé (B002) | cap. 17 (O Mal: Subproduto da Ignorância Espiritual) | pp. 187–189 (aprox.) | capítulo dedicado |

@@ -28,21 +28,10 @@ Com isso:
 
 **Origem do conteúdo da ampliação:** palestra `P2018-12-15 — Terra Atlantis – Aprofundamento` (15/12/2018). Transcrição automatizada, **não conferida com o áudio**; cada aspa foi recortada do `original.txt` pelo índice de âncoras do motor e conferida byte a byte pelo portão B. Nada foi digitado de memória.
 
-## Observações sobre o Estado da Malha
-
-* **Grafia STT:** 'experiência cronom' = Experiência Gron. 983 dos 1.641 biodemos alteraram a fase vibratória junto com a esfera.
-* **Trava aplicável**: nenhuma além das gerais do despacho.
-
 ## Ampliação
 ### P2018-12-15 (Terra Atlantis – Aprofundamento)
 
 - **[a experiência Gron] (U0081)** «Então, aconteceu a experiência cronom envolvendo os biodemos do norte.» — a experiência Gron (RC-062): a operação magnética em que 983 dos 1.641 biodemos alteraram a fase vibratória junto com a esfera, criando Alt'Lam.
-
-## Fontes
-| Obra (sigla) | Título | Página | Tipo |
-|---|---|---|---|
-| P2018-12-15 | Terra Atlantis – Aprofundamento (palestra) | — | transcrição automatizada; citação |
-| B031 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -52,3 +41,14 @@ Com isso:
 | Espheron | RC-058 | **sem aresta** em `RELACOES`; arquivo existe (P5d) |
 | Hiperbórea | RC-068 | **sem aresta** em `RELACOES`; arquivo existe |
 
+
+## Fontes
+| Obra (sigla) | Título | Página | Tipo |
+|---|---|---|---|
+| P2018-12-15 | Terra Atlantis – Aprofundamento (palestra) | — | transcrição automatizada; citação |
+| B031 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
+
+## Observações sobre o Estado da Malha
+
+* **Grafia STT:** 'experiência cronom' = Experiência Gron. 983 dos 1.641 biodemos alteraram a fase vibratória junto com a esfera.
+* **Trava aplicável**: nenhuma além das gerais do despacho.

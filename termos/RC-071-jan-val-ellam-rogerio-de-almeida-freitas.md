@@ -18,11 +18,10 @@ O **codificador e transmissor das Revelações Cósmicas** — o "recebedor" pel
 ## Contexto / Origem
 Autor das obras-primária e complementar que fundamentam a base. Na B031 (a obra fundadora), aparece como **prefaciador AUTORIZADO** (pp. 9–10 — Natal, 07/09/2020) e como centro do ecossistema de difusão ("Outros Canais", pp. 155–158). **QUARENTENA BIOGRÁFICA ATIVA** (decisão da esteira): a ficha registra a persona doutrinária — codificador/transmissor —, jamais a vida pessoal; relatos biográficos (NDE de Petrolina, o Programa do Jô, encarnações atribuídas) entram como leitura/registro, nunca como fato ontológico.
 
-## Etimologia e Grafias
-- **Grafia preferida:** Jan Val Ellam
-- **Variações fundidas neste termo** (verificação de fidelidade B031, 2026-08-26): Val · Val El · Val Ellam · Jan Val Ellam — os nomes pessoais do glossário sem termo dedicado porque **já estavam fundidos aqui**
-- **Nome civil:** Rogério de Almeida Freitas = **RC-095** (termo separado, sem ficha)
-- **Não confundir com:** RC-120 **Val El / Val Ellam** (o ser extraterrestre da Família Val — o vínculo de identidade entre ambos é relato de B060, em quarentena)
+## Citações-chave
+> "Trilha cerebral aqui significa o conjunto dos novos elementos agora colecionados no jogo sináptico dos mais de 80 bilhões de neurônios produzindo cerca de 100 trilhões de estradas neurais no cérebro humano." — B031, prefácio de Ellam (p. 9)
+
+> "Ao meu mestre Jan Val Ellam, que não se intitula e nem quer ser mestre de ninguém, por sua mediunidade, sabedoria e auto sacrifício ao dedicar sua vida à codificação e transmissão dos conhecimentos e das Revelações Cósmicas e Espirituais que chegam através dele." — B031, agradecimentos (p. 8) [leitura da autora — quarentena biográfica]
 
 ## Ampliação
 ### B031 (Painéis Emergentes da Revelação Cósmica)
@@ -40,22 +39,14 @@ Autor das obras-primária e complementar que fundamentam a base. Na B031 (a obra
 - **[P2023-12-03 · JAN VAL ELLAM NA FALA DE 03/12/2023]** «nasce como Enoque.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2021-12-04`); a entrada desta fonte é de **conteúdo**, não de data.
 - **[P2023-12-03 · A CADEIA ELÃ → ENOQUE]** «esse Valan, que foi uma das figuras que o meu espírito personalizou, personificou, lá atrás, ficou vivendo aqui na Terra. E com essas duas questões dos 600 e poucos foram morrendo, mas isso foi na época, exatamente na época em que existiam terras aonde hoje é o polo norte. Foi na época do hiperbório. E lá no Polo Norte, muitas partes de terra que hoje não mais existem Porque todas sucumbiram no problema que iria» (U0004) — D-12: entra **só** a cadeia de encarnações que a fonte atribui ao espírito que a anima (Valan/Elã → Enoque), sem adjetivação confirmatória e sem as frases em que a fonte se coloca como «a última opção» dos três — essas ficam na transcrição, com moldura, e não aqui.
 
-## Fontes
-| Obra (sigla) | Capítulo | Página | Tipo |
-|---|---|---|---|
-| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra) | — | transcrição automatizada; citação |
-| Painéis Emergentes... (B031) | PREFÁCIO DE JAN VAL ELLAM | pp. 9–10 | citação (paratexto autorizado) |
-| Painéis Emergentes... (B031) | Outros Canais de Jan Val Ellam | pp. 155–158 | citação |
-| Painéis Emergentes... (B031) | Agradecimentos | p. 8 | citação (leitura da autora) |
-| Painéis Emergentes... (B031) | Introdução | p. 14 | paráfrase (biográfica — quarentena) |
-| B016 · B006 · B027 · B034 · B036 · B060 | — | — | obras do autor (ver Base) |
-| P2021-12-04 · P2025-06-26 | — | — | palestras (ver apostilas/) |
+## Etimologia e Grafias
+- **Grafia preferida:** Jan Val Ellam
+- **Variações fundidas neste termo** (verificação de fidelidade B031, 2026-08-26): Val · Val El · Val Ellam · Jan Val Ellam — os nomes pessoais do glossário sem termo dedicado porque **já estavam fundidos aqui**
+- **Nome civil:** Rogério de Almeida Freitas = **RC-095** (termo separado, sem ficha)
+- **Não confundir com:** RC-120 **Val El / Val Ellam** (o ser extraterrestre da Família Val — o vínculo de identidade entre ambos é relato de B060, em quarentena)
 
-
-## Citações-chave
-> "Trilha cerebral aqui significa o conjunto dos novos elementos agora colecionados no jogo sináptico dos mais de 80 bilhões de neurônios produzindo cerca de 100 trilhões de estradas neurais no cérebro humano." — B031, prefácio de Ellam (p. 9)
-
-> "Ao meu mestre Jan Val Ellam, que não se intitula e nem quer ser mestre de ninguém, por sua mediunidade, sabedoria e auto sacrifício ao dedicar sua vida à codificação e transmissão dos conhecimentos e das Revelações Cósmicas e Espirituais que chegam através dele." — B031, agradecimentos (p. 8) [leitura da autora — quarentena biográfica]
+## Seres Associados
+Ver Base (os relacionados acima cobrem o círculo direto; a Família Val: RC-109; o Codificador de Zion: RC-252/RC-092).
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -85,12 +76,21 @@ Autor das obras-primária e complementar que fundamentam a base. Na B031 (a obra
 | Inquisição Espiritual (obra anunciada) | RC-617 | ← anunciada-por |
 | Quirino Cornélio (Centurião da Crucificação) | RC-659 | ← encarnação-de |
 
-## Seres Associados
-Ver Base (os relacionados acima cobrem o círculo direto; a Família Val: RC-109; o Codificador de Zion: RC-252/RC-092).
-
 ## Observações
 - **Ficha materializada em 2026-08-26 por ordem do curador** (aditamento pós-Devolutiva B031 — encerra a decisão histórica "não materializar" de B006/B009/B016/B034/B036 para este termo).
 - **Quarentena biográfica permanente**: nome civil (RC-095), NDE de Petrolina 2011, "49 livros + 10 traduzidos" (B075), o Programa do Jô (06/2004), encarnações atribuídas (RC-659 e cross B060) = **registro de leitura, jamais fato ontológico validado**.
 - **Quarentena institucional**: IEEA/IESP/INSTALM, Rádio Atlan, Nova Egrégora = ecossistema de difusão, fora da ontologia primária.
 - B074 p. 215 (Hitler/biodemos): **segue BANIDO** — não reincide nesta ficha.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** os 2 trechos entre aspas desta ficha **não** resistem à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Todos deixam vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo |
+|---|---|---|---|
+| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra) | — | transcrição automatizada; citação |
+| Painéis Emergentes... (B031) | PREFÁCIO DE JAN VAL ELLAM | pp. 9–10 | citação (paratexto autorizado) |
+| Painéis Emergentes... (B031) | Outros Canais de Jan Val Ellam | pp. 155–158 | citação |
+| Painéis Emergentes... (B031) | Agradecimentos | p. 8 | citação (leitura da autora) |
+| Painéis Emergentes... (B031) | Introdução | p. 14 | paráfrase (biográfica — quarentena) |
+| B016 · B006 · B027 · B034 · B036 · B060 | — | — | obras do autor (ver Base) |
+| P2021-12-04 · P2025-06-26 | — | — | palestras (ver apostilas/) |
+

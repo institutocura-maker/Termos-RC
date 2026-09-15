@@ -16,15 +16,18 @@ atualizado = "2026-08-18"
 
 Mensagem enviada **de fora do simulacro** (da espiritualidade / dos fenvans, ligados ao Ginnungagap) para dentro da realidade simulada — uma "garrafa ao mar" cósmica: seres que sabiam que tentariam migrar para a faixa biológica deixaram um registro para si mesmos e para os que viessem, do tipo "Ei, cara, se você tiver lendo essa mensagem, entenda que...". É a âncora narrativa da RC como mensagem de dentro para fora da Matrix (ver RC-761, RC-702).
 
-## Atualização
-### P2023-05-13
+## Citações-chave
 
-- **Escrita pelos fenvans** ("os fenvães") que já estavam dentro de um simulacro, mas sabiam que existiria vida no universo biológico vizinho — "um outro simulacro, ou seja, faixas de realidade dentro de uma grande matrix";
-- **Níveis da mensagem:** "do jeito que uma criança só consegue ler livro infantil, um adulto..." — a mensagem tem diversos níveis de decifração; outra mensagem paralela foi mandada por quem estava na espiritualidade (“Brasira” — STT duvidoso, provável Brahmaloka, `[REVISAR → CHANCELA 10/09/2026 · F039-L5: AGUARDA-ÁUDIO (hapax) — ver nota]`);
-- **Rodrigo (Yel Luzbel, RC-078):** "nessa sala tem alguém que viveu isso que é o senhor Rodrigo" — a descoberta da mensagem na faixa alternativa criada por Yel Luzbel há ~98.000 anos (cronologia interna);
-- **Livro citado:** Ellam diz que conta essa história "no livro Sinal de Lel/Lzen" — curador determinou: registrar provisoriamente como a obra **“O Sinal de Lemur”** (`[REVISAR → CHANCELA 10/09/2026 · F039-L5: AGUARDA-ÁUDIO (título provisório por decisão do curador) — ver nota]` título com o áudio);
-- Relaciona-se à consciência humana como única capaz de decifrar a mensagem (RC-761).
+> "Tem essa mensagem talma que foi escrita pelos fenvães que já estavam dentro de um simulacro, mas que, em sabendo que iria existir vida no universo vizinho biológico, que era um outro simulacro, ou seja, faixas de realidade dentro de uma grande matrix. Essa mensagenzinha veio e no livro Sinal de Lzen eu conto, a pedidos desses seres, como é que esses seres descobriram essa mensagem." — P2023-05-13
 
+
+> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+
+- «E vamos jogar, passar daqui para cá para semear esse universo vizinho com o nosso vírus, porque lá a gente pode tentar produzir um tipo de vida que aqui não existe e essa vida pode produzir evolução, produzir novas sequências genéticas que a gente copie, aproprie e resolva o nosso problema de […]» — *ver:* **Ampliação — P2021-02-28 (Tragédia Anunciada - As Fórmulas…** U0070
+
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-080.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
 
 ## Ampliação
 ### P2024-05-04-R
@@ -60,20 +63,15 @@ Mensagem enviada **de fora do simulacro** (da espiritualidade / dos fenvans, lig
 - **[O projeto Talm: semear o universo com o vírus escolhido] (U0070)** «Esse é o projeto tal, projeto tal.» — o plano de Morrençor (7 bilhões de anos atrás): "E vamos jogar, passar daqui para cá para semear esse universo vizinho com o nosso vírus, porque lá a gente pode tentar produzir um tipo de vida que aqui não existe e essa vida pode produzir evolução, produzir novas sequências genéticas que a gente copie, aproprie e resolva o nosso problema de doença aqui." (U0070: «E vamos jogar, passar daqui para cá para semear esse universo vizinho com o nosso vírus, porque lá a gente pode tentar produzir um tipo de vida que aqui não existe e essa vida pode produzir evolução, produzir novas sequências genéticas que a gente copie, aproprie e resolva o nosso problema de doença aqui.»); STT «projeto tal» (projeto Talm); o vírus mandado é o Nidana (paráfrase U0070; RC-154; RC-871); RC-080.
 
 
-## Fontes
+## Atualização
+### P2023-05-13
 
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2021-02-28 | Tragédia Anunciada - As Fórmulas Mentais do Poder Demo (palestra) | — | transcrição automatizada; citação |
-| P2026-03-21 | Samudra Manthan A Enigmatica Alquimia de Vishnu (palestra) | — | transcrição automatizada; citação |
-| P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
-| P2021-01-30 | A Mensagem TALM e os Fios Soltos do Destino (palestra) | — | transcrição automatizada; citação |
-| B031 / B017 | — | obras publicadas |
-| P2023-05-13 | seções 3.4, 2.3; bloco da mensagem talma | palestra/STT pré-curada |
+- **Escrita pelos fenvans** ("os fenvães") que já estavam dentro de um simulacro, mas sabiam que existiria vida no universo biológico vizinho — "um outro simulacro, ou seja, faixas de realidade dentro de uma grande matrix";
+- **Níveis da mensagem:** "do jeito que uma criança só consegue ler livro infantil, um adulto..." — a mensagem tem diversos níveis de decifração; outra mensagem paralela foi mandada por quem estava na espiritualidade (“Brasira” — STT duvidoso, provável Brahmaloka, `[REVISAR → CHANCELA 10/09/2026 · F039-L5: AGUARDA-ÁUDIO (hapax) — ver nota]`);
+- **Rodrigo (Yel Luzbel, RC-078):** "nessa sala tem alguém que viveu isso que é o senhor Rodrigo" — a descoberta da mensagem na faixa alternativa criada por Yel Luzbel há ~98.000 anos (cronologia interna);
+- **Livro citado:** Ellam diz que conta essa história "no livro Sinal de Lel/Lzen" — curador determinou: registrar provisoriamente como a obra **“O Sinal de Lemur”** (`[REVISAR → CHANCELA 10/09/2026 · F039-L5: AGUARDA-ÁUDIO (título provisório por decisão do curador) — ver nota]` título com o áudio);
+- Relaciona-se à consciência humana como única capaz de decifrar a mensagem (RC-761).
 
-## Citação-chave
-
-> "Tem essa mensagem talma que foi escrita pelos fenvães que já estavam dentro de um simulacro, mas que, em sabendo que iria existir vida no universo vizinho biológico, que era um outro simulacro, ou seja, faixas de realidade dentro de uma grande matrix. Essa mensagenzinha veio e no livro Sinal de Lzen eu conto, a pedidos desses seres, como é que esses seres descobriram essa mensagem." — P2023-05-13
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -90,17 +88,18 @@ Mensagem enviada **de fora do simulacro** (da espiritualidade / dos fenvans, lig
 | Ginnungagap (zona intercessória entre universos; prisão dos fenvans frustrados) | RC-776 | associado |
 | Carga virótica (a materialização da primeira carga mental do criador) | RC-877 | associado |
 
+## Fontes
+
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2021-02-28 | Tragédia Anunciada - As Fórmulas Mentais do Poder Demo (palestra) | — | transcrição automatizada; citação |
+| P2026-03-21 | Samudra Manthan A Enigmatica Alquimia de Vishnu (palestra) | — | transcrição automatizada; citação |
+| P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
+| P2021-01-30 | A Mensagem TALM e os Fios Soltos do Destino (palestra) | — | transcrição automatizada; citação |
+| B031 / B017 | — | obras publicadas |
+| P2023-05-13 | seções 3.4, 2.3; bloco da mensagem talma | palestra/STT pré-curada |
+
 ## Colecionar Incertezas
 
 - “Sinal de Lel/Lzen” → obra **“O Sinal de Lemur”** (decisão do curador, registro provisório — `[REVISAR → CHANCELA 10/09/2026 · F039-L5: AGUARDA-ÁUDIO — ver nota]` com áudio);
 - "Brasira" → provável Brahmaloka (STT) — não cadastrar como termo.
-
-## Citações-chave
-
-> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
-
-- «E vamos jogar, passar daqui para cá para semear esse universo vizinho com o nosso vírus, porque lá a gente pode tentar produzir um tipo de vida que aqui não existe e essa vida pode produzir evolução, produzir novas sequências genéticas que a gente copie, aproprie e resolva o nosso problema de […]» — *ver:* **Ampliação — P2021-02-28 (Tragédia Anunciada - As Fórmulas…** U0070
-
-
-> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-080.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

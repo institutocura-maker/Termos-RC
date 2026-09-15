@@ -18,16 +18,6 @@ Tese (leitura do autor, palestra **P2019-04-14**, U0003/U0005) de que **o DNA do
 ## Contexto / Origem
 Aparece em **P2019-04-14**, U0003 e U0005. Contexto: a palestra explica que os humanos **não são apenas explorados externamente** — os demos **deixaram marcas no DNA** dos humanos. "Os nossos espíritos hoje guardam o reflexo de todas essas necessidades, ou seja, são infectados." As **necessidades biológicas** (comer, transar, defecar) são "reflexos" que o espírito humano herdou dos corpos que habitou. A humanidade precisa **aprender a se libertar** dessas marcas — seja via Mahatma Magant (libertação espiritual) ou via greve de fome (quebra do código).
 
-## Etimologia e Grafias
-- **Grafia preferida:** Código Genético como Marca da Herança Demoníaca
-- **Variações STT capturadas:** "código genético", "sequências genéticas", "DNA", "infecção", "marcas", "elementos sutis"
-- **Idioma de origem:** Português (com termos científicos: DNA, código genético, sequências)
-
-## Fontes
-| Obra (sigla) | Capítulo | Página | Tipo |
-|---|---|---|---|
-| P2019-04-14 — Javé versus Pandora: A Prole sem Face | U0003, U0005 (S3, S5) | — | palestra (fonte primária, STT) |
-
 ## Citações-chave
 > «os nossos espíritos hoje guardam o reflexo de todas essas necessidades, ou seja, são infectados e além disso ainda tão infectados pelas crenças, pela que a gente viu ontem, pelos pacotes de coisas inapropriadas que a gente produziu para se alimentar.» — P2019-04-14, U0003
 
@@ -36,6 +26,18 @@ Aparece em **P2019-04-14**, U0003 e U0005. Contexto: a palestra explica que os h
 > «Toda a sequência da vida que surgiu a partir de Javé, nós um dia vamos ter que criar no seio desse universo um modo de vida que não roube, que não se aproprie, que aprenda a gerar do campo quântico e não do cadáver alenho [alheio].» — P2019-04-14, U0003
 
 > «Através e jejum eu tô fazendo tudo agora, né? O jejum pode ser uma arma maravilhosa pra gente aprender a comer.» — P2019-04-14, U0005
+
+## Etimologia e Grafias
+- **Grafia preferida:** Código Genético como Marca da Herança Demoníaca
+- **Variações STT capturadas:** "código genético", "sequências genéticas", "DNA", "infecção", "marcas", "elementos sutis"
+- **Idioma de origem:** Português (com termos científicos: DNA, código genético, sequências)
+
+## Seres Associados
+- **Javé (RC-001)** — quem iniciou a sequência
+- **Shiva (RC-148)** — quem animalizou via Pachupato
+- **Brahma (RC-037)** — quem co-executa
+- **Mahatma Magant (RC-822)** — quem liberta
+- **Humanos (RC-099)** — quem carrega as marcas
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -49,13 +51,6 @@ Aparece em **P2019-04-14**, U0003 e U0005. Contexto: a palestra explica que os h
 | Mahatma Magant como Libertador da Alimentação Demoníaca | RC-822 | liberta-de |
 | Greve de Fome Genética (Suicídio como Quebra do Código Demoníaco) | RC-824 | desestrutura |
 
-## Seres Associados
-- **Javé (RC-001)** — quem iniciou a sequência
-- **Shiva (RC-148)** — quem animalizou via Pachupato
-- **Brahma (RC-037)** — quem co-executa
-- **Mahatma Magant (RC-822)** — quem liberta
-- **Humanos (RC-099)** — quem carrega as marcas
-
 ## Observações
 - [REVISAR → CHANCELA 2026-09-06 · F041-L5: AGUARDA-ÁUDIO (dívida perdoada até nova evidência na base; STT preservado como falado) — ver nota]: a palestra de 2019-04-14 é a única fonte primária dessa formulação específica.
 - **Quarentena científica**: o conceito **NÃO FUSIONAR com**:
@@ -68,3 +63,8 @@ Aparece em **P2019-04-14**, U0003 e U0005. Contexto: a palestra explica que os h
 
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-825.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** os 4 blocos entre «» desta ficha **não** resistem à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Todos deixam vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo |
+|---|---|---|---|
+| P2019-04-14 — Javé versus Pandora: A Prole sem Face | U0003, U0005 (S3, S5) | — | palestra (fonte primária, STT) |

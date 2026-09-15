@@ -18,10 +18,11 @@ atualizado = "2026-09-12"
 ## Contexto / Origem
 Yel Luzbel é o protagonista negativo-positivo do drama cósmico: sua inquietação (742 mil anos atrás) gerou a pandemia que levou à rebelião e ao isolamento da Terra. Nas RC ele **não é o "diabo"** do cristianismo — é um biodemo rebelde exilado, cuja ação possibilitou o despertar mental. Relaciona-se aos "Anjos Caídos" das literaturas (com diferenciações, ver RC-020).
 
-## Etimologia e Grafias
-- **Grafia preferida:** Lúcifer (canônico); Yel Luzbel (nome biodemo)
-- **Variações:** Portador da Luz; Estrela da Manhã; anjo caído; diabo (concepção deturpada)
-- **Idioma de origem:** latim *lucifer* (portador da luz)
+## Citações-chave
+
+> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+
+- «o coitado do Lucifer, que nunca pretendeu comandar porcaria nenhuma, teve que ser o o comandante, né, porque ele sabia explicar as coisas relativas àquele problema.» — *ver:* **Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por …** U0004
 
 
 ## Ampliação
@@ -89,6 +90,37 @@ Yel Luzbel é o protagonista negativo-positivo do drama cósmico: sua inquietaç
 - **[P2022-03-26 · LUCIFER COMO AUTOR DO AGENTE, COM O NOME DEFORMADO PELO STT]** "Esse eu caído é um vírus antimaterial. Tudo na obra de Javé é podre, porque tudo se desagregou, tudo virou." (U0007) — A fala grafa o nome em quatro formas degradadas (ver dicionário da apostila); nenhuma é promovida. O conteúdo que transita é o ato — *criar um vírus* — e a definição do agente como eu antimaterial.
 ---
 
+## Ampliação
+### P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+
+- **[P2023-12-03 · LÚCIFER (YEL LUZBEL) NA FALA DE 03/12/2023]** «o coitado do Lucifer, que nunca pretendeu comandar porcaria nenhuma, teve que ser o o comandante, né, porque ele sabia explicar as coisas relativas àquele problema.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
+
+---
+
+### P2018-12-16 (Terra Atlantis - Era Sapiens)
+
+- **[a implosão de Lúcifer diante de Jesus] (U0046)** «Não houve a situação de Lúcifer da a implosão de Lúcifer diante do Jesus.» — Lúcifer (RC-078) implodiu diante do Jesus crucificado — 'falta de cuidado' que piorou a revolta de Len Mion (RC-074); Lúcifer recusa-se a ser estudado.
+
+### P2023-08-27 (Len Mion e os Senhores da Terra Alexandre Magno e Qin Shi Huang Di)
+
+- **[Lúcifer reconstituído no corpo físico] (U0006)** «Então, ele foi reconstituído no corpo físico que ele tinha antes como biodemo.» — após a crucificação, o espírito de Jesus recolheu Elusbell (Lúcifer, RC-078), que foi 'reconstituído no corpo físico que ele tinha antes como biodemo' — algo parecido com o que foi feito com Enoque (RC-489), numa forma 'metatrônica' (RC-671).
+
+## Atualização
+### P2022-12-17
+
+- **Fonte:** palestra *O Incompreendido Ano de 2012 e a Falsa Noção do Fim do Mundo* — unidades U0125–U0156.
+- **Contexto acrescentado:** A fala distingue a chegada antiga da Família Val da instalação posterior de Lúcifer/Mastlans na Terra, em torno de 98–100 mil anos, e relaciona esse fato à ancoragem trimurtiana.
+- **Status da evidência:** transcrição automatizada, pré-curada e validada terminologicamente pelo curador; conferir com áudio/obra primária antes de promoção de status.
+---
+---
+---
+
+## Etimologia e Grafias
+- **Grafia preferida:** Lúcifer (canônico); Yel Luzbel (nome biodemo)
+- **Variações:** Portador da Luz; Estrela da Manhã; anjo caído; diabo (concepção deturpada)
+- **Idioma de origem:** latim *lucifer* (portador da luz)
+
+
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
@@ -112,35 +144,3 @@ Yel Luzbel é o protagonista negativo-positivo do drama cósmico: sua inquietaç
 | Ancoragem do Conglomerado Trimurtiano na Terra | RC-575 | ← envolve |
 | Vergonha de Existir | RC-747 | ← relaciona-se-a |
 | Melkor (o filho dissonante) | RC-844 | associado |
-
-## Atualização
-### P2022-12-17
-
-- **Fonte:** palestra *O Incompreendido Ano de 2012 e a Falsa Noção do Fim do Mundo* — unidades U0125–U0156.
-- **Contexto acrescentado:** A fala distingue a chegada antiga da Família Val da instalação posterior de Lúcifer/Mastlans na Terra, em torno de 98–100 mil anos, e relaciona esse fato à ancoragem trimurtiana.
-- **Status da evidência:** transcrição automatizada, pré-curada e validada terminologicamente pelo curador; conferir com áudio/obra primária antes de promoção de status.
----
----
----
-
-## Ampliação
-### P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
-
-- **[P2023-12-03 · LÚCIFER (YEL LUZBEL) NA FALA DE 03/12/2023]** «o coitado do Lucifer, que nunca pretendeu comandar porcaria nenhuma, teve que ser o o comandante, né, porque ele sabia explicar as coisas relativas àquele problema.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
-
----
-
-### P2018-12-16 (Terra Atlantis - Era Sapiens)
-
-- **[a implosão de Lúcifer diante de Jesus] (U0046)** «Não houve a situação de Lúcifer da a implosão de Lúcifer diante do Jesus.» — Lúcifer (RC-078) implodiu diante do Jesus crucificado — 'falta de cuidado' que piorou a revolta de Len Mion (RC-074); Lúcifer recusa-se a ser estudado.
-
-### P2023-08-27 (Len Mion e os Senhores da Terra Alexandre Magno e Qin Shi Huang Di)
-
-- **[Lúcifer reconstituído no corpo físico] (U0006)** «Então, ele foi reconstituído no corpo físico que ele tinha antes como biodemo.» — após a crucificação, o espírito de Jesus recolheu Elusbell (Lúcifer, RC-078), que foi 'reconstituído no corpo físico que ele tinha antes como biodemo' — algo parecido com o que foi feito com Enoque (RC-489), numa forma 'metatrônica' (RC-671).
-
-## Citações-chave
-
-> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
-
-- «o coitado do Lucifer, que nunca pretendeu comandar porcaria nenhuma, teve que ser o o comandante, né, porque ele sabia explicar as coisas relativas àquele problema.» — *ver:* **Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por …** U0004
-

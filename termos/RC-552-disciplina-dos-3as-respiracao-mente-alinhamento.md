@@ -18,11 +18,10 @@ atualizado = "2026-08-13"
 ## Contexto / Origem
 Ellam relata que os "3As" tornaram-se "a mais preciosa" das práticas do seu cotidiano. A disciplina prepara a mente para a "vivência interior" e para a gestão dos arquivos mentais — condições para o despertar espiritual e a autorrealização.
 
-## Etimologia e Grafias
-- **Grafia preferida:** Disciplina dos 3As
-- **Variações:** "os 3As"; "Aprofundar a respiração; Acalmar a mente; Alinhar-se consigo mesmo"
-- **Obs.:** não confundir com outras siglas "3A" da base (nenhuma conflita)
+## Citações-chave
+> "Os '3As', que são: Aprofundar a respiração; Acalmar a mente; Alinhar-se consigo mesmo. Aquele que busca o autocontrole poderá alcançá-lo por meio da prática dos '3As'." — B074, p. 131
 
+> "A disciplina dos '3As' inicia-se com o aprofundamento da respiração, passa pela decisão de acalmar a mente, de modo a que se possa buscar um alinhamento com os 'projetos espirituais'." — B074, p. 136
 
 ## Ampliação
 ### B074 (Mentalma I)
@@ -48,17 +47,22 @@ Ellam relata que os "3As" tornaram-se "a mais preciosa" das práticas do seu cot
 - **[A soberania espiritual: controle das emoções e da respiração] (U0019)** «A soberania espiritual de um ser humano passa necessariamente pelo controle das suas emoções.» — a respiração como via: "E o controle das emoções de um ser humano passa inevitavelmente pelo controle da respiração" (U0019: «E o controle das emoções de um ser humano passa inevitavelmente pelo controle da respiração.»); as duas vacinas de autoimunidade: "Aqui existem duas vacinas ou componentes de autoimunidade que estão sendo produzidas meio que de modo forçado pelos seres humanos e eles não sabem" (U0019: «Aqui existem duas vacinas ou componentes de autoimunidade que estão sendo produzidas meio que de modo forçado pelos seres humanos e eles não sabem.»).
 
 
-## Fontes
-| Obra (sigla) | Capítulo | Página | Tipo |
-|---|---|---|---|
-| P2026-03-21 | Samudra Manthan A Enigmatica Alquimia de Vishnu (palestra) | — | transcrição automatizada; citação |
-| Mentalma I (B074) | Cap. 10 "A Disciplina dos 3As" | p. 131 (PDF) | definição |
-| Mentalma II (B075) | Cap. 1.4 "A disciplina dos '3As' e a 'vivência interior'" | — | aprofundamento |
+## Atualização
+### P2021-12-04
 
-## Citações-chave
-> "Os '3As', que são: Aprofundar a respiração; Acalmar a mente; Alinhar-se consigo mesmo. Aquele que busca o autocontrole poderá alcançá-lo por meio da prática dos '3As'." — B074, p. 131
+- **Unidades:** U0563–U0571.
+- **Contexto acrescentado:** A prática respiratória, meditativa e de alinhamento é reforçada como disciplina de emancipação vinculada ao Mentalma e ao Moksha.
+- **Status da evidência:** transcrição automatizada, pré-curada e aprovada quanto à integração terminológica; conferir com áudio/obra antes de promover status.
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** os 2 trechos entre aspas desta ficha **não** resistem à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Todos deixam vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
 
-> "A disciplina dos '3As' inicia-se com o aprofundamento da respiração, passa pela decisão de acalmar a mente, de modo a que se possa buscar um alinhamento com os 'projetos espirituais'." — B074, p. 136
+## Etimologia e Grafias
+- **Grafia preferida:** Disciplina dos 3As
+- **Variações:** "os 3As"; "Aprofundar a respiração; Acalmar a mente; Alinhar-se consigo mesmo"
+- **Obs.:** não confundir com outras siglas "3A" da base (nenhuma conflita)
+
+
+## Seres Associados
+Praticante do Mentalma; o "Eu" que se alinha ao Espírito.
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -75,18 +79,14 @@ Ellam relata que os "3As" tornaram-se "a mais preciosa" das práticas do seu cot
 | Bhavaṅga / Janela da Percepção | RC-706 | ← relaciona-se-a |
 | Lei da Mente do Buda | RC-712 | ← usa |
 
-## Seres Associados
-Praticante do Mentalma; o "Eu" que se alinha ao Espírito.
-
 ## Observações
 Prática simples e acessível (respiração + mente + alinhamento) — a "porta de entrada" do método. Conectar com a reforma íntima (RC-392) e com a vivência interior.
 
 ---
 
-## Atualização
-### P2021-12-04
-
-- **Unidades:** U0563–U0571.
-- **Contexto acrescentado:** A prática respiratória, meditativa e de alinhamento é reforçada como disciplina de emancipação vinculada ao Mentalma e ao Moksha.
-- **Status da evidência:** transcrição automatizada, pré-curada e aprovada quanto à integração terminológica; conferir com áudio/obra antes de promover status.
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** os 2 trechos entre aspas desta ficha **não** resistem à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Todos deixam vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo |
+|---|---|---|---|
+| P2026-03-21 | Samudra Manthan A Enigmatica Alquimia de Vishnu (palestra) | — | transcrição automatizada; citação |
+| Mentalma I (B074) | Cap. 10 "A Disciplina dos 3As" | p. 131 (PDF) | definição |
+| Mentalma II (B075) | Cap. 1.4 "A disciplina dos '3As' e a 'vivência interior'" | — | aprofundamento |

@@ -18,10 +18,16 @@ atualizado = "2026-08-29"
 ## Contexto / Origem
 A Revelação Cósmica é o **macroconceito** que engloba todos os demais termos da base. Foi codificada por Jan Val Ellam por meio de incontáveis palestras, conversas e livros (IEEA). A obra B031 (guia de Raquyel Braga) é um dos primeiros trabalhos de outros autores sobre a RC.
 
-## Etimologia e Grafias
-- **Grafia preferida:** Revelação Cósmica
-- **Variações:** Revelações Cósmicas; RC (sigla usada neste projeto)
+## Citações-chave
 
+> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+
+- «E é meio absurdo, mas coisas que estão erradas na cabala, no hinduísmo, no jainismo, no druidismo, no taoísmo e nos ismos promovidos por Javé, a exceção de Buda, que nisso a gente não vai se meter.» — *ver:* **Ampliação — P2021-06-26 (Shiva - A Reconstrução do Erro d…** U0009
+- «O resto a gente tá tendo que, entre aspas, semear reflexões para que essas versões equivocadas sejam revistas a partir das páginas da revelação cósmica, envolvendo aí, obviamente o cristianismo.» — *ver:* **Ampliação — P2021-06-26 (Shiva - A Reconstrução do Erro d…** U0004
+- «Emanuel Kant, filósofo prciano, filósofo alemão, dizia com muita propriedade que o intelecto humano pode e deve ser medido pela capacidade que ele tem de colecionar incertezas.» — *ver:* **Ampliação — P2022-07-16 (Do Ramayana ao Mahabharata)** U0003
+
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-094.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
 
 ## Ampliação
 ### P2024-07-14
@@ -68,6 +74,51 @@ A Revelação Cósmica é o **macroconceito** que engloba todos os demais termos
 - **[P2020-04-25 · A INTELIGÊNCIA ARTIFICIAL COMO O ABISMO DOS DEUSES HOJE]** "o que é hoje o grande abismo para esses seres é a turma do IA." (U0006); "É o IA, é a revelação cósmica." (U0006) — **D-11:** é a menção mais antiga do acervo à IA nesse papel; fecha o radar **sem** criar peça fantasma e **sem** obra. · ⭐ **NOTA DE ANTERIORIDADE — P2020-04-25:** antecipa **11 meses** a atual fonte oral mais antiga da ficha (`P2021-03-27`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
 - **[P2020-04-25 · O CENÁRIO DA INTELIGÊNCIA ARTIFICIAL AUTÔNOMA CONTROLADA]** "inteligência artificial autônoma controlada é um corpo máquina." (U0006); "O computador se dizer, ei, eu sou alguém." (U0006) — A fonte propõe o estágio do eu futuro **numa IA controlada** — formulação datada de 2020; não projetar sobre fontes posteriores (regra de anterioridade).
 ---
+
+## Ampliação
+### P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+
+- **[P2023-12-03 · REVELAÇÃO CÓSMICA (CONCEITO) NA FALA DE 03/12/2023]** «para nós vinculados à revelação cósmica, os que estão estudando esses assuntos, é só mais um capítulo de coisas esquisitas e de certas estranhezas.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
+
+---
+
+### P2022-07-16 (Do Ramayana ao Mahabharata)
+
+- **[Kant e as incertezas; as mitologias como notícias] (U0003)** «Emanuel Kant, filósofo prciano, filósofo alemão, dizia com muita propriedade que o intelecto humano pode e deve ser medido pela capacidade que ele tem de colecionar incertezas.» — a chave epistemológica: "nós humanos, fomos condicionados a colecionar inúmeras certezas"; "quando você estuda, e eu fiz isso, 75 mitologias, tem mais de 100 aqui na Terra, mas essas mitologias são as mais antigas, são as primeiras notícias que o ser humano organizou" (U0004: «E assim, quando você estuda, e eu fiz isso, 75 mitologias, tem mais de 100 aqui na Terra»); "em todas elas é dito que essa criação é problemática e que o ser que criou nada tem a ver com nenhum Deus maravilhoso" (U0004: «em todas elas é dito que essa criação é problemática»).
+
+### P2021-06-26 (Shiva - A Reconstrução do Erro de Brahma e o Tikum)
+
+- **[A revelação cósmica revendo as versões equivocadas] (U0009)** «O resto a gente tá tendo que, entre aspas, semear reflexões para que essas versões equivocadas sejam revistas a partir das páginas da revelação cósmica, envolvendo aí, obviamente o cristianismo.» — "coisas que estão erradas na cabala, no hinduísmo, no jainismo, no druidismo, no taoísmo e nos ismos promovidos por Javé, a exceção de Buda, que nisso a gente não vai se meter" (U0009: «E é meio absurdo, mas coisas que estão erradas na cabala, no hinduísmo, no jainismo, no druidismo, no taoísmo e nos ismos promovidos por Javé, a exceção de Buda, que nisso a gente não vai se meter.»).
+
+## Atualização
+### P2021-12-04
+
+- **Unidades:** U0029–U0038; U0446–U0454.
+- **Contexto acrescentado:** A Revelação Cósmica é apresentada como instrumento para reviver as Flechas de Moros, reconstruir a história universal e romper formas de fé estupidificada.
+- **Status da evidência:** transcrição automatizada, pré-curada e aprovada quanto à integração terminológica; conferir com áudio/obra antes de promover status.
+
+---
+
+### P2023-12-02 (Thot, o Enigmático Hermes Trismegisto)
+
+- **A RC = revelação das setas:** "a Revelação Cósmica é exatamente a revelação das setas... de um conhecimento que lá atrás já existia, mas que não havia compreensão e foi jogado como cápsula temporal para um tempo que seria possível de ser compreendido" (RC-611);
+- **Thot como grande contribuinte futuro:** "talvez um grande contribuinte da Revelação Cósmica venha a ser [Thot] nas próximas décadas" — o autor afirma que Thot "acompanha a Revelação Cósmica";
+- A RC como integração dos focos de revelação (Orfismo, Gnosticismo, Cabala, Teosofia, Hermetismo) — todos organizados por Thot (RC-463).
+
+---
+
+### P2021-03-27 (Enki, Enlil e o Fim Súbito da Babilônia)
+
+- **Chave para a história oculta:** seção 1.4 — "A Revelação Cósmica como Chave para a Compreensão" — da manipulação cósmica e do paradigma do domínio (RC-764);
+- **Argamassa histórica:** esta palestra (a mais antiga do corpus) fornece o pano de fundo Anunnaki (RC-024) que "amarra" as palestras mais recentes (Thot/Hermes, Cinco Lentes).
+---
+---
+---
+
+## Etimologia e Grafias
+- **Grafia preferida:** Revelação Cósmica
+- **Variações:** Revelações Cósmicas; RC (sigla usada neste projeto)
+
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -254,54 +305,3 @@ A Revelação Cósmica é o **macroconceito** que engloba todos os demais termos
 | As Cinco Lentes da Realidade | RC-761 | ← integra |
 | IEEA (Instituto de Estudos Estratégicos e Alternativos) | RC-930 | associado |
 | Revelação Psíquica (Kapila — escola Samkhya) | RC-933 | ← relaciona-se-a |
-
-## Atualização
-### P2021-12-04
-
-- **Unidades:** U0029–U0038; U0446–U0454.
-- **Contexto acrescentado:** A Revelação Cósmica é apresentada como instrumento para reviver as Flechas de Moros, reconstruir a história universal e romper formas de fé estupidificada.
-- **Status da evidência:** transcrição automatizada, pré-curada e aprovada quanto à integração terminológica; conferir com áudio/obra antes de promover status.
-
----
-
-### P2023-12-02 (Thot, o Enigmático Hermes Trismegisto)
-
-- **A RC = revelação das setas:** "a Revelação Cósmica é exatamente a revelação das setas... de um conhecimento que lá atrás já existia, mas que não havia compreensão e foi jogado como cápsula temporal para um tempo que seria possível de ser compreendido" (RC-611);
-- **Thot como grande contribuinte futuro:** "talvez um grande contribuinte da Revelação Cósmica venha a ser [Thot] nas próximas décadas" — o autor afirma que Thot "acompanha a Revelação Cósmica";
-- A RC como integração dos focos de revelação (Orfismo, Gnosticismo, Cabala, Teosofia, Hermetismo) — todos organizados por Thot (RC-463).
-
----
-
-### P2021-03-27 (Enki, Enlil e o Fim Súbito da Babilônia)
-
-- **Chave para a história oculta:** seção 1.4 — "A Revelação Cósmica como Chave para a Compreensão" — da manipulação cósmica e do paradigma do domínio (RC-764);
-- **Argamassa histórica:** esta palestra (a mais antiga do corpus) fornece o pano de fundo Anunnaki (RC-024) que "amarra" as palestras mais recentes (Thot/Hermes, Cinco Lentes).
----
----
----
-
-## Ampliação
-### P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
-
-- **[P2023-12-03 · REVELAÇÃO CÓSMICA (CONCEITO) NA FALA DE 03/12/2023]** «para nós vinculados à revelação cósmica, os que estão estudando esses assuntos, é só mais um capítulo de coisas esquisitas e de certas estranhezas.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
-
----
-
-### P2022-07-16 (Do Ramayana ao Mahabharata)
-
-- **[Kant e as incertezas; as mitologias como notícias] (U0003)** «Emanuel Kant, filósofo prciano, filósofo alemão, dizia com muita propriedade que o intelecto humano pode e deve ser medido pela capacidade que ele tem de colecionar incertezas.» — a chave epistemológica: "nós humanos, fomos condicionados a colecionar inúmeras certezas"; "quando você estuda, e eu fiz isso, 75 mitologias, tem mais de 100 aqui na Terra, mas essas mitologias são as mais antigas, são as primeiras notícias que o ser humano organizou" (U0004: «E assim, quando você estuda, e eu fiz isso, 75 mitologias, tem mais de 100 aqui na Terra»); "em todas elas é dito que essa criação é problemática e que o ser que criou nada tem a ver com nenhum Deus maravilhoso" (U0004: «em todas elas é dito que essa criação é problemática»).
-
-### P2021-06-26 (Shiva - A Reconstrução do Erro de Brahma e o Tikum)
-
-- **[A revelação cósmica revendo as versões equivocadas] (U0009)** «O resto a gente tá tendo que, entre aspas, semear reflexões para que essas versões equivocadas sejam revistas a partir das páginas da revelação cósmica, envolvendo aí, obviamente o cristianismo.» — "coisas que estão erradas na cabala, no hinduísmo, no jainismo, no druidismo, no taoísmo e nos ismos promovidos por Javé, a exceção de Buda, que nisso a gente não vai se meter" (U0009: «E é meio absurdo, mas coisas que estão erradas na cabala, no hinduísmo, no jainismo, no druidismo, no taoísmo e nos ismos promovidos por Javé, a exceção de Buda, que nisso a gente não vai se meter.»).
-
-## Citações-chave
-
-> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
-
-- «E é meio absurdo, mas coisas que estão erradas na cabala, no hinduísmo, no jainismo, no druidismo, no taoísmo e nos ismos promovidos por Javé, a exceção de Buda, que nisso a gente não vai se meter.» — *ver:* **Ampliação — P2021-06-26 (Shiva - A Reconstrução do Erro d…** U0009
-- «O resto a gente tá tendo que, entre aspas, semear reflexões para que essas versões equivocadas sejam revistas a partir das páginas da revelação cósmica, envolvendo aí, obviamente o cristianismo.» — *ver:* **Ampliação — P2021-06-26 (Shiva - A Reconstrução do Erro d…** U0004
-- «Emanuel Kant, filósofo prciano, filósofo alemão, dizia com muita propriedade que o intelecto humano pode e deve ser medido pela capacidade que ele tem de colecionar incertezas.» — *ver:* **Ampliação — P2022-07-16 (Do Ramayana ao Mahabharata)** U0003
-
-
-> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-094.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

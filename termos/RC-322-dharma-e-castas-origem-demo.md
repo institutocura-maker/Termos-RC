@@ -26,12 +26,16 @@ O **dharma** e o sistema de **castas** entendidos, na RC, como **instituição p
 
 **Origem do conteúdo da ampliação:** palestra `P2023-10-14 — A Esquecida Honra dos Anunnaki`, megabloco U0020 do `original.txt` (transcrição automatizada, **não conferida com o áudio**). Cada aspa foi recortada byte a byte por `_gerar_ampliacoes_P2023-10-14.py`; nada foi digitado de memória.
 
-## Etimologia e Grafias
+## Citações-chave
 
-- **Canônico da Base:** *dharma*, *varna* (casta), *karma*, *adharma*.
-- **Na fonte oral (P2023-10-14):** «Darma», «dharma», «adharma»; a casta aparece grafada «varna» e, numa linha, **«varma, dma»** — [REVISAR: degradação de STT para *varna* / *dharma*, preservada como está, sem emenda → CHANCELA 2026-09-06 · F039-L3: FONTE AUSENTE DA ARCA — ver nota].
-- **Nome próprio envolvido:** a fonte atribui a introdução do conceito a **Krishna conversando com Arjuna** no *Bagavaguita*, «um dos capítulos do Marabarata» (grafia do bruto para *Mahābhārata*) — ver RC-425 e RC-414.
+> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
 
+- «substituir a única regra da erdo que sai de um ser volta para ele pelo tipo de karma dármico que ele explicou no Bagavaguita, que é um dos capítulos do Marrabarato, quando ele diz para Aruna, Oruna pode matar Já que o mal precisa ter destruído, que eu Cristo, que sou o Senhor supremo, garanto que» — *ver:* **Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por …** U0020
+- «Então enquanto existem essas prisões, porque Quem entendam o arima, que é a coisa mais bela que eu conheço olhando o lado da moeda, são homens e mulheres que nascem pobres, acho a Índia, desde crianças são educados, né, a gente já falou disso aqui, a não cometer o quê?» — *ver:* **Ampliação — P2021-06-26 (Shiva - A Reconstrução do Erro d…** U0013
+- «Existe um problema pendente das castas que é a responsabilidade agora do senor Krishna e do senor Chiva e como saibava propriou a questão na condição humana, ou eles resolvem isso aqui, ou a Terra vai ficar inviabilizada para o programa de reestruturação universal.» — *ver:* **Ampliação — P2021-06-26 (Shiva - A Reconstrução do Erro d…** U0021
+
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-322.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
 
 ## Ampliação
 ### P2023-10-14 (A Esquecida Honra dos Anunnaki)
@@ -68,18 +72,11 @@ O **dharma** e o sistema de **castas** entendidos, na RC, como **instituição p
 - **[O problema pendente das castas] (U0021)** «Existe um problema pendente das castas que é a responsabilidade agora do senor Krishna e do senor Chiva e como saibava propriou a questão na condição humana, ou eles resolvem isso aqui, ou a Terra vai ficar inviabilizada para o programa de reestruturação universal.» — a dupla face da ahimsa (STT "arima"): "o arima, que é a coisa mais bela que eu conheço olhando o lado da moeda, são homens e mulheres que nascem pobres, acho a Índia, desde crianças são educados, né, a gente já falou disso aqui, a não cometer o quê?" (U0013: «Então enquanto existem essas prisões, porque Quem entendam o arima, que é a coisa mais bela que eu conheço olhando o lado da moeda, são homens e mulheres que nascem pobres, acho a Índia, desde crianças são educados, né, a gente já falou disso aqui, a não cometer o quê?»); "a outra face é o controle terrível, que quem quer controlar bilhões de seres humanos condiciona que eles ajam assim" (U0013: «É uma face, mas a outra face é o controle terrível, que quem quer controlar bilhões de seres humanos condiciona que eles ajam assim.»); "Eles vão morrer de fome, mas não matam a vaca para comer, porque eles foram condicionados a agir assim: uma vaca é animal sagrado, um macaco é animal sagrado, tudo é sagrado" (U0013: «Eles vão morrer de fome, mas não matam a vaca para comer, porque eles foram condicionados a agir assim: uma vaca é animal sagrado, um macaco é animal sagrado, tudo é sagrado.»).
 
 
-## Fontes
-| Obra (sigla) | Capítulo | Página | Tipo (citação/paráfrase) |
-|---|---|---|---|
-| P2021-06-26 | Shiva - A Reconstrução do Erro de Brahma e o Tikum (palestra) | — | transcrição automatizada; citação |
-| P2022-07-16 | Do Ramayana ao Mahabharata (palestra) | — | transcrição automatizada; citação |
-| P2022-10-01 | A Wyrd e a Espiritualidade (palestra) | — | transcrição automatizada; citação |
-| P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
-| P2023-02-12 | A Desconexão dos Desígnios Proféticos do Judaísmo, do Cristianismo e do Islamismo (palestra) | — | transcrição automatizada; citação |
-| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra) | — | transcrição automatizada; citação |
-| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra) | — | transcrição automatizada; citação |
-| B023 — *O Dharma e as Castas Hindus* | a preencher | — | paráfrase (registro do cadastro; página a conferir) |
-| P2024-11-30 | palestra | — | paráfrase (vínculo pré-existente do cadastro) |
+## Etimologia e Grafias
+
+- **Canônico da Base:** *dharma*, *varna* (casta), *karma*, *adharma*.
+- **Na fonte oral (P2023-10-14):** «Darma», «dharma», «adharma»; a casta aparece grafada «varna» e, numa linha, **«varma, dma»** — [REVISAR: degradação de STT para *varna* / *dharma*, preservada como está, sem emenda → CHANCELA 2026-09-06 · F039-L3: FONTE AUSENTE DA ARCA — ver nota].
+- **Nome próprio envolvido:** a fonte atribui a introdução do conceito a **Krishna conversando com Arjuna** no *Bagavaguita*, «um dos capítulos do Marabarata» (grafia do bruto para *Mahābhārata*) — ver RC-425 e RC-414.
 
 
 ## Termos Relacionados
@@ -103,13 +100,16 @@ O **dharma** e o sistema de **castas** entendidos, na RC, como **instituição p
 
 **Regra de status:** 🟡 provisório — a ficha existe, está fundamentada em fonte publicada (B023) e em fonte oral do acervo, mas nenhuma das citações foi conferida com o áudio nem com página de obra primária. A aprovação curatorial valida a **modelagem terminológica**, não a veracidade factual das alegações: o que o autor disse está registrado *como dito*.
 
-## Citações-chave
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo (citação/paráfrase) |
+|---|---|---|---|
+| P2021-06-26 | Shiva - A Reconstrução do Erro de Brahma e o Tikum (palestra) | — | transcrição automatizada; citação |
+| P2022-07-16 | Do Ramayana ao Mahabharata (palestra) | — | transcrição automatizada; citação |
+| P2022-10-01 | A Wyrd e a Espiritualidade (palestra) | — | transcrição automatizada; citação |
+| P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
+| P2023-02-12 | A Desconexão dos Desígnios Proféticos do Judaísmo, do Cristianismo e do Islamismo (palestra) | — | transcrição automatizada; citação |
+| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra) | — | transcrição automatizada; citação |
+| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra) | — | transcrição automatizada; citação |
+| B023 — *O Dharma e as Castas Hindus* | a preencher | — | paráfrase (registro do cadastro; página a conferir) |
+| P2024-11-30 | palestra | — | paráfrase (vínculo pré-existente do cadastro) |
 
-> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
-
-- «substituir a única regra da erdo que sai de um ser volta para ele pelo tipo de karma dármico que ele explicou no Bagavaguita, que é um dos capítulos do Marrabarato, quando ele diz para Aruna, Oruna pode matar Já que o mal precisa ter destruído, que eu Cristo, que sou o Senhor supremo, garanto que» — *ver:* **Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por …** U0020
-- «Então enquanto existem essas prisões, porque Quem entendam o arima, que é a coisa mais bela que eu conheço olhando o lado da moeda, são homens e mulheres que nascem pobres, acho a Índia, desde crianças são educados, né, a gente já falou disso aqui, a não cometer o quê?» — *ver:* **Ampliação — P2021-06-26 (Shiva - A Reconstrução do Erro d…** U0013
-- «Existe um problema pendente das castas que é a responsabilidade agora do senor Krishna e do senor Chiva e como saibava propriou a questão na condição humana, ou eles resolvem isso aqui, ou a Terra vai ficar inviabilizada para o programa de reestruturação universal.» — *ver:* **Ampliação — P2021-06-26 (Shiva - A Reconstrução do Erro d…** U0021
-
-
-> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-322.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

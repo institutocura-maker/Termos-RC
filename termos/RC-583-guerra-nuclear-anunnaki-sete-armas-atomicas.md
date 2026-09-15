@@ -18,10 +18,8 @@ Conflito entre clãs Anunnakis com uso de sete armas atômicas atribuídas a Nib
 ## Contexto / Origem
 A guerra envolve Enki, Enlil, Marduk, Anu e Ninurta e teria provocado o enfraquecimento do domínio Anunnaki na Terra.
 
-## Etimologia e Grafias
-- Grafia preferida: Guerra Nuclear Anunnaki. Complemento: Sete Armas Atômicas.
-- **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
-
+## Citações-chave
+> ““Foi quando esses dois clãs produziram a guerra nuclear [...] as sete armas atômicas que vieram de Nibiru para a Terra.”” — P2022-12-17, U0808–U0841
 
 ## Ampliação
 ### P2022-12-17
@@ -49,17 +47,13 @@ A guerra envolve Enki, Enlil, Marduk, Anu e Ninurta e teria provocado o enfraque
 - **[P2023-10-14 · A GUERRA QUE OS TIROU DA TERRA]** "Os anx pararam de fazer jogadas, movimento brusco, desde que eles explodiram as bombas em cima Sodoma e Gomorra e mais as outras cidades do Vale do Sidim." (U0033)
 - **[P2023-10-14 · OS POUROS QUE FICARAM: A GUARDA BAIXA]** "nibiro, mas os anonax eles talvez aprecem chegada deles, porque assim, eh, são são essas decisões que estão sendo tomadas nesse tempo de vida da gente, mas como eu disse, eles não têm concentração de força suficiente aqui para dominar nada." (U0028)
 
-## Fontes
-| Obra/palestra | Localização | Tipo |
-|---|---|---|
-| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
-| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
-| P2022-12-17 — O Incompreendido Ano de 2012 e a Falsa Noção do Fim do Mundo | U0808–U0841 | transcrição automatizada; paráfrase e citação |
+## Etimologia e Grafias
+- Grafia preferida: Guerra Nuclear Anunnaki. Complemento: Sete Armas Atômicas.
+- **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
 
 
-
-## Citações-chave
-> ““Foi quando esses dois clãs produziram a guerra nuclear [...] as sete armas atômicas que vieram de Nibiru para a Terra.”” — P2022-12-17, U0808–U0841
+## Seres Associados
+Enki (Anunnaki; inoculou o gene FOXP2) (RC-486); Enlil (deus sumério, par de Enki) (RC-487); Marduk (= Ra; Anunnaki filho de Enki) (RC-460); Anu (patriarca Anunnaki) (RC-587); Ninurta (RC-588)
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -74,9 +68,6 @@ A guerra envolve Enki, Enlil, Marduk, Anu e Ninurta e teria provocado o enfraque
 | Ninurta | RC-588 | ← envolve |
 | Nibiru | RC-589 | origem-em |
 
-## Seres Associados
-Enki (Anunnaki; inoculou o gene FOXP2) (RC-486); Enlil (deus sumério, par de Enki) (RC-487); Marduk (= Ra; Anunnaki filho de Enki) (RC-460); Anu (patriarca Anunnaki) (RC-587); Ninurta (RC-588)
-
 ## Observações
 Zecharia Sitchin é a referência autoral citada pela fala. Datas e localização devem ser atribuídas ao palestrante.
 
@@ -85,3 +76,12 @@ Zecharia Sitchin é a referência autoral citada pela fala. Datas e localizaçã
 
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-583.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
+## Fontes
+| Obra/palestra | Localização | Tipo |
+|---|---|---|
+| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
+| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
+| P2022-12-17 — O Incompreendido Ano de 2012 e a Falsa Noção do Fim do Mundo | U0808–U0841 | transcrição automatizada; paráfrase e citação |
+
+

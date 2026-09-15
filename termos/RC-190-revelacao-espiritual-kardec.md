@@ -28,27 +28,17 @@ Com isso:
 
 **Origem do conteúdo da ampliação:** palestra `P2012-02-19 — Xadrez Cósmico de Brahma, Vishnu e Shiva` (19/02/2012). Transcrição automatizada, **não conferida com o áudio**; cada aspa foi recortada do `original.txt` pelo índice de âncoras do motor e conferida byte a byte pelo portão B. Nada foi digitado de memória.
 
-## Observações sobre o Estado da Malha
+## Citações-chave
 
-* **Grafia STT:** 'Kardec' (literal). A revelação espírita transmitida pela equipe do Espírito da Verdade.
-* **Trava aplicável**: nenhuma além das gerais do despacho.
+> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+
+- «E já concluindo, quando do advento da revelação espiritual, quando A equipe do Espírito da verdade, na segunda metade do século XIX, apoiado nos esforços de Kardec e outros na França, transmitem ao mundo a revelação espiritual e a turma de Javé que não consegue perceber o que se encontra além das […]» — *ver:* **Ampliação — P2012-02-19 (Xadrez Cósmico de Brahma, Vishnu…** U0005
+
 
 ## Ampliação
 ### P2012-02-19 (Xadrez Cósmico de Brahma, Vishnu e Shiva)
 
 - **[A revelação espiritual e o espanto de Javé] (U0005)** «E já concluindo, quando do advento da revelação espiritual, quando A equipe do Espírito da verdade, na segunda metade do século XIX, apoiado nos esforços de Kardec e outros na França, transmitem ao mundo a revelação espiritual e a turma de Javé que não consegue perceber o que se encontra além das fronteiras da sua criação.» — na segunda metade do século XIX, a equipe do Espírito da Verdade, 'apoiado nos esforços de Kardec' (RC-190), transmitiu a revelação espiritual — e a turma de Javé, que não vê além da criação, não entendeu.
-
-## Fontes
-| Obra (sigla) | Título | Página | Tipo |
-|---|---|---|---|
-| P2012-02-19 | Xadrez Cósmico de Brahma, Vishnu e Shiva (palestra) | — | transcrição automatizada; citação |
-| B044 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
-| B016 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
-| B013 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
-| B048 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
-| B006 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
-| B060 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
-| B042 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -67,9 +57,19 @@ Com isso:
 | Fator Javé (o marco operacional do fim da atuação como médium passivo) | RC-882 | associado |
 | Revelação Psíquica (Kapila — escola Samkhya) | RC-933 | ← relaciona-se-a |
 
-## Citações-chave
+## Fontes
+| Obra (sigla) | Título | Página | Tipo |
+|---|---|---|---|
+| P2012-02-19 | Xadrez Cósmico de Brahma, Vishnu e Shiva (palestra) | — | transcrição automatizada; citação |
+| B044 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
+| B016 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
+| B013 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
+| B048 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
+| B006 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
+| B060 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
+| B042 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
 
-> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+## Observações sobre o Estado da Malha
 
-- «E já concluindo, quando do advento da revelação espiritual, quando A equipe do Espírito da verdade, na segunda metade do século XIX, apoiado nos esforços de Kardec e outros na França, transmitem ao mundo a revelação espiritual e a turma de Javé que não consegue perceber o que se encontra além das […]» — *ver:* **Ampliação — P2012-02-19 (Xadrez Cósmico de Brahma, Vishnu…** U0005
-
+* **Grafia STT:** 'Kardec' (literal). A revelação espírita transmitida pela equipe do Espírito da Verdade.
+* **Trava aplicável**: nenhuma além das gerais do despacho.

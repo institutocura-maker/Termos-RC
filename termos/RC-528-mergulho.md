@@ -34,15 +34,15 @@ O vocabulário importa: na RC, «mergulhar» é o que fazem os Logos e as cocria
 - RC-515 — ver ficha correspondente
 - RC-152 — ver ficha correspondente
 
+## Observações
+Status mantido em ⚪ candidato (como estava no registro-mestre) até revisão cruzada com as obras primárias. Verbete-chave do Volume II (II.6.3).
+
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-528.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
 | B072 | — | registro-mestre (fonte censada) |
 | P2023-07-30 | — | registro-mestre (fonte censada) |
 | P2023-12-03 | — | registro-mestre (fonte censada) |
-
-## Observações
-Status mantido em ⚪ candidato (como estava no registro-mestre) até revisão cruzada com as obras primárias. Verbete-chave do Volume II (II.6.3).
-
-
-> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-528.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

@@ -18,14 +18,14 @@ Termo extraído e aprovado na curadoria de P2025-05-31.
 ## Contexto / Origem
 O Mistério da Árvore da Vida e a Urdidura de Metatron.
 
+## Citações-chave
+Ver transcrição.
+
 ## Etimologia e Grafias
 Forma preferida: Chesed.
 
-## Fontes
-P2025-05-31.
-
-## Citações-chave
-Ver transcrição.
+## Seres Associados
+Consultar Base.
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -34,8 +34,8 @@ Ver transcrição.
 | Geburah | RC-677 | — |
 | Tiferet / Tiphareth | RC-678 | — |
 
-## Seres Associados
-Consultar Base.
-
 ## Observações
 Teologia comparada e alegações científicas permanecem atribuídas ao palestrante.
+
+## Fontes
+P2025-05-31.

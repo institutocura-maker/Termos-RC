@@ -18,10 +18,8 @@ A **Transfiguração de Jesus** (Mateus 17:1-19) reinterpretada nas RC — o cap
 ## Contexto / Origem
 O B011 é dedicado a desvendar o enigma: "a Transfiguração relatada nas páginas do Novo Testamento é apenas mais um dos estranhos eventos que cercaram a vida de Jesus. Porém... o fenômeno por si só já abre todo um conjunto de possibilidades que, se verdadeiros, modificam por completo o entendimento que temos a respeito da personalidade de Jesus". A obra estrutura-se em 3 partes (Livro de Tiago, Livro de João Batista, Livro de Moisés) — os três personagens da Transfiguração bíblica.
 
-## Etimologia e Grafias
-- **Grafia preferida:** O Enigma da Transfiguração
-- **Variações:** Transfiguração de Jesus; alteração vibratória; o encontro com Moisés e Elias
-
+## Citações-chave
+> "A Transfiguração relatada nas páginas do Novo Testamento é apenas mais um dos estranhos eventos que cercaram a vida de Jesus. Porém, diferente dos demais, o fenômeno por si só já abre todo um conjunto de possibilidades que, se verdadeiros, modificam por completo o entendimento que temos a respeito da personalidade de Jesus." — B011, Esclarecimento
 
 ## Ampliação
 ### P2025-05-31
@@ -57,16 +55,13 @@ O B011 é dedicado a desvendar o enigma: "a Transfiguração relatada nas págin
 
 - **[O não-interferir da Transfiguração] (U0005)** «Não interfiram. É comigo até o final.» — no monte da Transfiguração (a nave; "uma nuvem já tinha dominado, ou seja, uma nave"), anjos de Sofia e do criador cobram o cumprimento da agenda milenar; Jesus transfigura o corpo, "se fez igual aos anjos, falou com eles na linguagem de capela que Sofia falava" (U0005: «Aí Jesus transfigurou o corpo humano dele, se fez igual aos anjos, falou com eles na linguagem de capela que Sofia falava.») e responde "Eu estou entendendo muito bem. Eu sei o que estou fazendo. Sei também o que não estou fazendo. Não interfiram. É comigo até o final." — episódio "que eu descrevo no livro o enigma da transfiguração de Jesus" (U0005: «de Jesus que eu descrevo no livro o enigma da transfiguração de Jesus.»).
 
-## Fontes
-| Obra (sigla) | Capítulo | Página | Tipo |
-|---|---|---|---|
-| P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
-| P2023-02-11 | Agente Humano Jesus e os Arcontes (palestra) | — | transcrição automatizada; citação |
-| P2025-05-10 | Mistérios do Apocalipse (palestra) | — | transcrição automatizada; citação |
-| Jesus e o Enigma da Transfiguração (B011) | Livro III, cap. 15 (O Enigma da Transfiguração) | pp. 150–165 (aprox.) | capítulo-título |
+## Etimologia e Grafias
+- **Grafia preferida:** O Enigma da Transfiguração
+- **Variações:** Transfiguração de Jesus; alteração vibratória; o encontro com Moisés e Elias
 
-## Citações-chave
-> "A Transfiguração relatada nas páginas do Novo Testamento é apenas mais um dos estranhos eventos que cercaram a vida de Jesus. Porém, diferente dos demais, o fenômeno por si só já abre todo um conjunto de possibilidades que, se verdadeiros, modificam por completo o entendimento que temos a respeito da personalidade de Jesus." — B011, Esclarecimento
+
+## Seres Associados
+Jesus (RC-072); Moisés e Elias (personagens da Transfiguração); Pedro, Tiago e João (testemunhas).
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -80,9 +75,14 @@ O B011 é dedicado a desvendar o enigma: "a Transfiguração relatada nas págin
 | Hochmah (2ª Sefirah — Sabedoria; = Sophia) | RC-565 | relaciona-se-a |
 | Hochmah (2ª Sefirah — Sabedoria; = Sophia) | RC-565 | ← relaciona-se-a |
 
-## Seres Associados
-Jesus (RC-072); Moisés e Elias (personagens da Transfiguração); Pedro, Tiago e João (testemunhas).
-
 ## Observações
 Ficha baseada em B011 (obra primária). A Transfiguração como "alteração vibratória" conecta o evento bíblico à física espiritual das RC.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo |
+|---|---|---|---|
+| P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
+| P2023-02-11 | Agente Humano Jesus e os Arcontes (palestra) | — | transcrição automatizada; citação |
+| P2025-05-10 | Mistérios do Apocalipse (palestra) | — | transcrição automatizada; citação |
+| Jesus e o Enigma da Transfiguração (B011) | Livro III, cap. 15 (O Enigma da Transfiguração) | pp. 150–165 (aprox.) | capítulo-título |

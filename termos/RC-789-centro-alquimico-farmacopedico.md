@@ -18,21 +18,19 @@ Tese (leitura do autor, palestra **P2025-04-06**, U0004) de que existiram **dois
 ## Contexto / Origem
 Aparece em **P2025-04-06**, U0004. Contexto: depois da destruição de Asgard pelo Ragnarok, Prometeu e Epimeteu recolheram os "restos alquímicos" e operaram o segundo centro nos criatórios — que era **visitado por todas as estirpes** do universo vizinho (centauros, sátiros, etc.) e por humanos da Terra.
 
+## Citações-chave
+> «um centro alquímico e farmacopédico [...] se alguém chegava lá numa fazenda de pimetê, dizia: "Epimet, eu tô com dor, aonde aqui?" Aí ele misturava lá não sei o quê, pessoa tomar, passava dor.» — P2025-04-06, U0004
+
+> «todo um progresso, toda uma história de bilhões de anos da evolução desses códigos alquímicos. Há 300 milhões de anos, oito locas desse universo vizinho [...] foram destruídas.» — P2025-04-06, U0004
+
 ## Etimologia e Grafias
 - **Grafia preferida:** Centro Alquímico-Farmacopédico
 - **Variações STT capturadas:** "centro alquímico", "centro farmacopédico", "criatório de Prometeu", "criatório de Epimeteu"
 - **Idioma de origem:** Português + grego (φαρμακοποιΐα "pharmacopeia")
 
-## Fontes
-| Obra (sigla) | Capítulo | Página | Tipo |
-|---|---|---|---|
-| P2025-04-06 — A Revolução Inacabada de Prometeu e Pandora | U0004 (S4) | — | palestra (fonte primária, STT) |
-| P2023-11-11 — De Pandora a Eva e a Rebelião de Lilith | U0002 (S2) | — | palestra (fonte secundária, contexto) |
-
-## Citações-chave
-> «um centro alquímico e farmacopédico [...] se alguém chegava lá numa fazenda de pimetê, dizia: "Epimet, eu tô com dor, aonde aqui?" Aí ele misturava lá não sei o quê, pessoa tomar, passava dor.» — P2025-04-06, U0004
-
-> «todo um progresso, toda uma história de bilhões de anos da evolução desses códigos alquímicos. Há 300 milhões de anos, oito locas desse universo vizinho [...] foram destruídas.» — P2025-04-06, U0004
+## Seres Associados
+- **Anões de Asgard** (criadores de Kvasir)
+- **Prometeu** (RC-301) e **Epimeteu** (RC-302) — operadores do segundo centro
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -47,10 +45,6 @@ Aparece em **P2025-04-06**, U0004. Contexto: depois da destruição de Asgard pe
 | Revolução Inacabada de Prometeu e Pandora | RC-788 | base-de |
 | Lamúria dos Deuses (Diagnóstico de Prometeu) | RC-791 | associado |
 
-## Seres Associados
-- **Anões de Asgard** (criadores de Kvasir)
-- **Prometeu** (RC-301) e **Epimeteu** (RC-302) — operadores do segundo centro
-
 ## Observações
 - [REVISAR → ENCERRADO 2026-09-06 · F041-L5: RATIFICADO — o cadastro tem primazia; registra-se o processo do autor sem harmonização artificial — ver nota]: o conceito de "centro alquímico" tem paralelo em RC-713 (Taumaturgia Genético-Química) — são **relacionados mas distintos**: RC-713 é a técnica em si; RC-789 é o **lugar/criatório** onde ela operava.
 - Quarentena: leitura do autor; sem fusionar com alquimia hermética tradicional ou com homeopatia acadêmica.
@@ -58,3 +52,9 @@ Aparece em **P2025-04-06**, U0004. Contexto: depois da destruição de Asgard pe
 
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-789.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** os 2 blocos entre «» desta ficha **não** resistem à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Todos deixam vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo |
+|---|---|---|---|
+| P2025-04-06 — A Revolução Inacabada de Prometeu e Pandora | U0004 (S4) | — | palestra (fonte primária, STT) |
+| P2023-11-11 — De Pandora a Eva e a Rebelião de Lilith | U0002 (S2) | — | palestra (fonte secundária, contexto) |

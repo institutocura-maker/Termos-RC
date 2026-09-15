@@ -18,14 +18,14 @@ Termo extraído e aprovado na curadoria de P2025-05-31.
 ## Contexto / Origem
 O Mistério da Árvore da Vida e a Urdidura de Metatron.
 
+## Citações-chave
+Ver transcrição.
+
 ## Etimologia e Grafias
 Forma preferida: Yajna (ritual de sacrifício/fogo).
 
-## Fontes
-P2025-05-31.
-
-## Citações-chave
-Ver transcrição.
+## Seres Associados
+Consultar Base.
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -35,8 +35,8 @@ Ver transcrição.
 | Rakshasas | RC-581 | ← relaciona-se-a |
 | Descendência de Kadru (Nagas, Uragas e Maharagas) | RC-664 | ← relaciona-se-a |
 
-## Seres Associados
-Consultar Base.
-
 ## Observações
 Teologia comparada e alegações científicas permanecem atribuídas ao palestrante.
+
+## Fontes
+P2025-05-31.

@@ -28,11 +28,6 @@ Com isso:
 
 **Origem do conteúdo da ampliação:** palestra `P2022-11-26 — Choque de Realidade – o Perpétuo Espanto dos Donos da Verdade` (26/11/2022). Transcrição automatizada, **não conferida com o áudio**; cada aspa foi recortada do `original.txt` pelo índice de âncoras do motor e conferida byte a byte pelo portão B. Nada foi digitado de memória.
 
-## Observações sobre o Estado da Malha
-
-* **Materialização imediata (devolutiva):** RC-520 (Infecção mental / contágio vibratório) sai da fila e ganha ficha (ficha=False → True) com as pérolas validadas neste ciclo; o curador refere o termo como 'Doença do Criador' — o nome do cadastro permanece o canônico (Infecção mental / contágio vibratório), com a formulação registrada na definição.
-* **Trava aplicável**: nenhuma além das gerais do despacho.
-
 ## Ampliação
 ### P2022-11-26 (Choque de Realidade – o Perpétuo Espanto dos Donos da Verdade)
 
@@ -43,13 +38,6 @@ Com isso:
 ### P2021-04-10 (O Fechamento dos Portais e o Impasse no Exílio Espiritual de Len Mion — Aprofundamento)
 
 - **[Os memes de Lemi: infecções mentais no entrelaçamento quântico] (U0006)** «Porque nesse período eles estavam nessa shamba nessa coisa, nessa realidade simultânea nossa, meio que paralela, mas mesmo de lá os memes, esses essas infecções mentais que esses caras criaram tão profundamente marcado nesse no entrelaçamento quântico do nosso universo e um pouco até no de lá, porque esses seres não dominaram só seres humanos.» — "Lemi e a turma terminaram dominando também alguns demos da geração de Zeus, alguns seres idiotizados da geração dos titães" (glosa sem aspa); "eles vão ter que desfazer. Eles que eu digo pessoalmente, se eles forem exilados, isso não tem como ser feito" (glosa sem aspa).
-
-## Fontes
-| Obra (sigla) | Título | Página | Tipo |
-|---|---|---|---|
-| P2021-04-10 | O Fechamento dos Portais e o Impasse no Exílio Espiritual de Len Mion — Aprofundamento (palestra) | — | transcrição automatizada; citação |
-| P2022-11-26 | Choque de Realidade – o Perpétuo Espanto dos Donos da Verdade (palestra) | — | transcrição automatizada; citação |
-| B072 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -62,3 +50,15 @@ Com isso:
 | Genoma da Dignidade (o código esquecido na criação) | RC-868 | associado |
 | Mentalidade Comum (o contágio do rebanho) | RC-869 | associado |
 
+
+## Fontes
+| Obra (sigla) | Título | Página | Tipo |
+|---|---|---|---|
+| P2021-04-10 | O Fechamento dos Portais e o Impasse no Exílio Espiritual de Len Mion — Aprofundamento (palestra) | — | transcrição automatizada; citação |
+| P2022-11-26 | Choque de Realidade – o Perpétuo Espanto dos Donos da Verdade (palestra) | — | transcrição automatizada; citação |
+| B072 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
+
+## Observações sobre o Estado da Malha
+
+* **Materialização imediata (devolutiva):** RC-520 (Infecção mental / contágio vibratório) sai da fila e ganha ficha (ficha=False → True) com as pérolas validadas neste ciclo; o curador refere o termo como 'Doença do Criador' — o nome do cadastro permanece o canônico (Infecção mental / contágio vibratório), com a formulação registrada na definição.
+* **Trava aplicável**: nenhuma além das gerais do despacho.

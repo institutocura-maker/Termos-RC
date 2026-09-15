@@ -18,10 +18,8 @@ Gênero Adhy é o conjunto de 147 seres da Espiritualidade Laboratorial, distrib
 ## Contexto / Origem
 A palestra fornece a fonte direta mais detalhada da taxonomia: 147 seres, cinco espécies e Pashvnaj como uma espécie de 43. Prabrajna, Mavatna/Vishnu e outros personagens pertencem a ramificações desse gênero.
 
-## Etimologia e Grafias
-- Grafia preferida: Adhy. STT: seres AD, seres Ados, Ades, ISAD, Zad, seres Arte.
-- **Fonte de decisão:** curadoria estrutural C-01 a C-07, 2026-08-14.
-
+## Citações-chave
+> “Esses 147 seres [...] têm cinco tipos de seres [...] cinco espécies formando esse gênero.” — P2021-12-04, U0091–U0096; U0130–U0148; U0200–U0266; U0350–U0374
 
 ## Ampliação
 ### P2020-07-11
@@ -37,14 +35,23 @@ A palestra fornece a fonte direta mais detalhada da taxonomia: 147 seres, cinco 
 - **O fechamento em rede e o "motor" (U0302–U0308; U0461–U0476):** "quase todos eles mergulharam; todos se ferraram; alguns ficaram mesmo inabilitados, outros funcionaram mal, mas funcionaram, tipo Brahma, Vishnu, Shiva"; "a resolução do problema da obra que eles criaram passa por eles resolverem os problemas daqui, mas retomando os antigos padrões de Perpérion... corrigir o equívoco e retomar os velhos padrões que eles tinham antes da queda"; "eles deixaram esse universo refém do modo Adhy como a rede mental dessa coletividade de seres pensava e ainda pensa".
 - **As religiões como "infecção dos AD" (U0475–U0476):** "inclusive as religiões, todas as religiões, com raríssimas exceções, tudo que a gente imagina de religião opressiva e impositiva, vem dos Seres Adhy, vem com essa infecção dos AD" [quarentena teológica — leitura de Ellam].
 
-## Fontes
-| Obra/palestra | Localização | Tipo |
-|---|---|---|
-| P2021-12-04 — Os Archeons de Ereon e os Seres Adhy | U0091–U0096; U0130–U0148; U0200–U0266; U0350–U0374 | transcrição automatizada; pré-curadoria validada |
-| Fontes anteriores da Base | B051, B022 | apoio/remissão |
+## Atualização
+### P2024-05-04
 
-## Citações-chave
-> “Esses 147 seres [...] têm cinco tipos de seres [...] cinco espécies formando esse gênero.” — P2021-12-04, U0091–U0096; U0130–U0148; U0200–U0266; U0350–U0374
+- A palestra reafirma 147 Adhy e 43 Pashvnaj em Perpérion.
+- Divergências e alegações científicas permanecem abertas/atribuídas à palestra.
+
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-411.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
+## Etimologia e Grafias
+- Grafia preferida: Adhy. STT: seres AD, seres Ados, Ades, ISAD, Zad, seres Arte.
+- **Fonte de decisão:** curadoria estrutural C-01 a C-07, 2026-08-14.
+
+
+## Seres Associados
+Ver relações acima e os nós Elm (RC-454), Olm (RC-092), Prabrajna (RC-152), Gênero Adhy (RC-411) e Seres LM (RC-456), conforme aplicável.
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -63,9 +70,6 @@ A palestra fornece a fonte direta mais detalhada da taxonomia: 147 seres, cinco 
 | Autismo Funcional dos Seres da Espiritualidade Superior | RC-605 | ← aplica-se-a |
 | Conclave da Espiritualidade Laboratorial | RC-635 | ← envolve |
 
-## Seres Associados
-Ver relações acima e os nós Elm (RC-454), Olm (RC-092), Prabrajna (RC-152), Gênero Adhy (RC-411) e Seres LM (RC-456), conforme aplicável.
-
 ## Observações
 Correção estrutural aprovada: a antiga relação RC-411 inclui RC-412 apontava para o código errado. O alvo correto é RC-455 Pashvnaj.
 
@@ -73,12 +77,8 @@ Correção estrutural aprovada: a antiga relação RC-411 inclui RC-412 apontava
 
 ---
 
-## Atualização
-### P2024-05-04
-
-- A palestra reafirma 147 Adhy e 43 Pashvnaj em Perpérion.
-- Divergências e alegações científicas permanecem abertas/atribuídas à palestra.
-
-
-> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-411.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+## Fontes
+| Obra/palestra | Localização | Tipo |
+|---|---|---|
+| P2021-12-04 — Os Archeons de Ereon e os Seres Adhy | U0091–U0096; U0130–U0148; U0200–U0266; U0350–U0374 | transcrição automatizada; pré-curadoria validada |
+| Fontes anteriores da Base | B051, B022 | apoio/remissão |

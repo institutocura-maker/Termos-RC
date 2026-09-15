@@ -18,10 +18,8 @@ Organizações siderais de civilizações planetárias evoluídas — descritas 
 ## Contexto / Origem
 As Confederações de Mundos são o pano de fundo político-cósmico do B005: a Terra, por ser uma "espécie de 'terra de ninguém'" (RC-358), estava "passível de receber visitas exploratórias (muitas vezes com fins pouco nobres) de quaisquer civilizações que não estivessem vinculadas às confederações de mundos". A reintegração da Terra ao convívio cósmico implica sua reinserção nesse tecido de confederações.
 
-## Etimologia e Grafias
-- **Grafia preferida:** Confederações de Mundos
-- **Variações:** confederações de civilizações; organizações siderais; confederação galática
-
+## Citações-chave
+> "Sendo, portanto, o nosso planeta uma espécie de 'terra de ninguém' estava passível de receber visitas exploratórias (muitas vezes com fins pouco nobres) de quaisquer civilizações que não estivessem vinculadas às confederações de mundos, sendo essas confederações a maneira, através da qual, diversas civilizações celestiais minimamente evoluídas se aglutinam em torno das regras da convivência cósmica e da ajuda mútua." — B005, cap. 5
 
 ## Ampliação
 ### B005 (Fator Extraterrestre)
@@ -29,13 +27,13 @@ As Confederações de Mundos são o pano de fundo político-cósmico do B005: a 
 - **[B005 p. 45]** cap. 5: a Terra como «terra de ninguém», «passível de receber visitas exploratórias […] de quaisquer civilizações que não estivessem vinculadas às confederações de mundos»; estas são o modo pelo qual «diversas civilizações celestiais minimamente evoluídas se aglutinam em torno das regras da convivência cósmica e da ajuda mútua», «hierarquicamente subordinadas à administração amorosa dos Prepostos da Deidade». RC-358 / RC-206 permanecem **sem ficha**.
 - **[B005 p. 46]** «informações que nos chegam através do "processo mediúnico da revelação"» — «frágil componente humana». **Quarentena mediúnica + ufológica.** Anunnaki / extrativismo = **ufológica — fora da ontologia**. Sem materializar RC-098. Sem fusão com B003. Fonte **B005** já constava na tabela-mestra.
 
-## Fontes
-| Obra (sigla) | Capítulo | Página | Tipo |
-|---|---|---|---|
-| Fator Extraterrestre (B005) | cap. 5 (Situação Política da Terra diante do Cosmos) | pp. 65–80 (aprox.) | conceito central |
+## Etimologia e Grafias
+- **Grafia preferida:** Confederações de Mundos
+- **Variações:** confederações de civilizações; organizações siderais; confederação galática
 
-## Citações-chave
-> "Sendo, portanto, o nosso planeta uma espécie de 'terra de ninguém' estava passível de receber visitas exploratórias (muitas vezes com fins pouco nobres) de quaisquer civilizações que não estivessem vinculadas às confederações de mundos, sendo essas confederações a maneira, através da qual, diversas civilizações celestiais minimamente evoluídas se aglutinam em torno das regras da convivência cósmica e da ajuda mútua." — B005, cap. 5
+
+## Seres Associados
+Prepostos da Deidade (RC-206); civilizações planetárias (RC-098).
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -48,9 +46,11 @@ As Confederações de Mundos são o pano de fundo político-cósmico do B005: a 
 | Fator Extraterrestre (o Elo Perdido) | RC-355 | contexto |
 | Terra de Ninguém (cósmica) | RC-358 | ← é-um |
 
-## Seres Associados
-Prepostos da Deidade (RC-206); civilizações planetárias (RC-098).
-
 ## Observações
 Ficha baseada em B005 (obra primária). As Confederações de Mundos são o "mapa político" do cosmos nas RC — conectam à Reintegração Cósmica e à cidadania cósmica (RC-226).
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo |
+|---|---|---|---|
+| Fator Extraterrestre (B005) | cap. 5 (Situação Política da Terra diante do Cosmos) | pp. 65–80 (aprox.) | conceito central |

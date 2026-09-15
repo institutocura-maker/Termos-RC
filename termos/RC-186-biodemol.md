@@ -28,24 +28,10 @@ Com isso:
 
 **Origem do conteúdo da ampliação:** palestra `P2022-05-07 — Shiva, o Projeto Talm e os Mistérios de Awaylengam` (07/05/2022). Transcrição automatizada, **não conferida com o áudio**; cada aspa foi recortada do `original.txt` pelo índice de âncoras do motor e conferida byte a byte pelo portão B. Nada foi digitado de memória.
 
-## Observações sobre o Estado da Malha
-
-* **Biodemol × biodemo:** a fonte distingue o biodemol (sexualizado) do biodemo (RC-036). A sexualização como ruptura criativa de Shiva é leitura do autor — ver trava.
-* **Trava aplicável**: Moldura Rígida (gênero/sexualidade): a sexualização como ruptura criativa de Shiva é leitura do autor.
-
 ## Ampliação
 ### P2022-05-07 (Shiva, o Projeto Talm e os Mistérios de Awaylengam)
 
 - **[Biodemol — parte biológico, parte demo] (U0003)** «Hoje nós temos aqui na nossa natureza seres eh biodemol, ou seja, parte biológicos, parte demo, mas sexualizados.» — o biodemol como o tipo de ser da natureza atual; sexualização como a ruptura criativa de Shiva.
-
-## Fontes
-| Obra (sigla) | Título | Página | Tipo |
-|---|---|---|---|
-| P2022-05-07 | Shiva, o Projeto Talm e os Mistérios de Awaylengam (palestra) | — | transcrição automatizada; citação |
-| B044 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
-| B017 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
-| B018 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
-| B023 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -57,3 +43,17 @@ Com isso:
 | Entroncamentos Genéticos Intersiderais | RC-323 | associado |
 | Grupos de Entroncamento (1-4) | RC-324 | associado |
 
+
+## Fontes
+| Obra (sigla) | Título | Página | Tipo |
+|---|---|---|---|
+| P2022-05-07 | Shiva, o Projeto Talm e os Mistérios de Awaylengam (palestra) | — | transcrição automatizada; citação |
+| B044 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
+| B017 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
+| B018 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
+| B023 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
+
+## Observações sobre o Estado da Malha
+
+* **Biodemol × biodemo:** a fonte distingue o biodemol (sexualizado) do biodemo (RC-036). A sexualização como ruptura criativa de Shiva é leitura do autor — ver trava.
+* **Trava aplicável**: Moldura Rígida (gênero/sexualidade): a sexualização como ruptura criativa de Shiva é leitura do autor.

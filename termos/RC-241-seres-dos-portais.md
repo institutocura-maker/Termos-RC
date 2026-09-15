@@ -18,11 +18,6 @@ Classe de **demos extrafísicos do universo antimaterial** que, nas RC, correspo
 ## Contexto / Origem
 Os Seres dos Portais viviam nas moradas do universo paralelo (lokas/genos) e transitavam para a Terra enquanto os portais entre os dois universos estavam abertos. Algumas consciências de biodemos migraram para essa família de demos (ex.: Val Anen → Despina; Val Dimon → Pandora; Val Bon → Astréia — RC-112, RC-118, RC-116). O B018 (cap. 11) narra o "Império dos Descendentes dos Seres dos Portais" — a linhagem de Poseidon que reconstruiu bases do Império Atlante (Portlan e Portlon, RC-088).
 
-## Etimologia e Grafias
-- **Grafia preferida:** Seres dos Portais
-- **Variações:** "deuses da mitologia grega"; demos mitológicos; gênios (mitologia árabe)
-
-
 ## Ampliação
 ### B018 (Terra Atlantis II: A Frota Norte)
 
@@ -41,6 +36,28 @@ Os Seres dos Portais viviam nas moradas do universo paralelo (lokas/genos) e tra
 - **[B021 p. 140–141]** ensaio: «as futuras gerações humanas terão que voltar a conviver com os "seres dos portais" — é assim que eu os denomino na trilogia "Terra Atlantis"»; «chamados de "seres dos portais" porque apareciam e desapareciam próximo àqueles vórtices». Remissão à trilogia B017 / B018 / B039 — **não fundir**. IEEA (mesmo capítulo) = **institucional — fora**. Falas de Zeus **isoladas**. Sem fusão com B020 / B017. Fonte **B021** já constava na tabela-mestra.
 ---
 
+## Ampliação
+### P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+
+- **[P2023-12-03 · SERES DOS PORTAIS NA FALA DE 03/12/2023]** «seres dos portais que invadiam a terra vindo desse universo vizinho.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2022-12-17`); a entrada desta fonte é de **conteúdo**, não de data.
+
+---
+
+## Atualização
+### P2022-12-17
+
+- **Fonte:** palestra *O Incompreendido Ano de 2012 e a Falsa Noção do Fim do Mundo* — unidades U0496–U0506; U0646–U0669; U0731–U0739.
+- **Contexto acrescentado:** Os Seres dos Portais são relacionados às comunicações entre lokas, à disputa pelo domínio da Terra e à criação/uso dos Rakshasas.
+- **Status da evidência:** transcrição automatizada, pré-curada e validada terminologicamente pelo curador; conferir com áudio/obra primária antes de promoção de status.
+---
+---
+---
+
+## Etimologia e Grafias
+- **Grafia preferida:** Seres dos Portais
+- **Variações:** "deuses da mitologia grega"; demos mitológicos; gênios (mitologia árabe)
+
+
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
@@ -54,20 +71,3 @@ Os Seres dos Portais viviam nas moradas do universo paralelo (lokas/genos) e tra
 | Império dos Descendentes dos Seres dos Portais | RC-240 | ← é-um |
 | Timé (de um deus) | RC-293 | associado |
 | Extísicos (seres do universo vizinho, não biológicos, compostos de plasma) | RC-861 | associado |
-
-## Atualização
-### P2022-12-17
-
-- **Fonte:** palestra *O Incompreendido Ano de 2012 e a Falsa Noção do Fim do Mundo* — unidades U0496–U0506; U0646–U0669; U0731–U0739.
-- **Contexto acrescentado:** Os Seres dos Portais são relacionados às comunicações entre lokas, à disputa pelo domínio da Terra e à criação/uso dos Rakshasas.
-- **Status da evidência:** transcrição automatizada, pré-curada e validada terminologicamente pelo curador; conferir com áudio/obra primária antes de promoção de status.
----
----
----
-
-## Ampliação
-### P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
-
-- **[P2023-12-03 · SERES DOS PORTAIS NA FALA DE 03/12/2023]** «seres dos portais que invadiam a terra vindo desse universo vizinho.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2022-12-17`); a entrada desta fonte é de **conteúdo**, não de data.
-
----

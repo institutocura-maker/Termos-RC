@@ -16,13 +16,20 @@ atualizado = "2026-09-13"
 
 Na RC, figura correlacionada a **Satã** — ser de alto escalão no drama da criação problemática (RC-167), oponente/par de Javé (RC-001) no psiquismo dos "deuses".
 
-## Atualização
-### P2021-03-27
+## Citações-chave
 
-- **Influência em Marduk:** "a atuação de Len Mion e sua influência em Marduk" (seção 6.2 do Sumário) — contexto do relógio messiânico (RC-765): Marduk (RC-460) tentou assumir a regência da Era de Peixes e "a turma não aceitou";
-- **Psiquismo dos "deuses":** "a problemática do psiquismo de 'deuses' e seres cósmicos" (seção 6.3) — Len Mion entre as figuras com psiquismo problemático;
-- Conecta-se ao drama de Lúcifer/Yel Luzbel (RC-078) e à Rebelião (RC-002) — par de Javé no desfecho cósmico.
+> "Len Mion e sua influência em Marduk... a problemática do psiquismo de 'deuses' e seres cósmicos." — P2021-03-27 (seções 6.2–6.3)
 
+
+> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+
+- «E eh em 2004, Valon disse que iria aprofundar o que ele não fez, porque talvez já não tenha colaborado, num assunto que ao nos anos 90, eh, os espíritos que haviam escrito comigo o livro Reintegração Cósmica haviam tocado, que foi a distinção muito forte entre ebel e Lemi que foi o fato deles […]» — *ver:* **Ampliação — P2018-12-16 (Terra Atlantis - Era Sapiens)** U0003
+- «E a última obra dele foi Hitler, nos termos em que eu descrevo no livro A era Sapiens da trilogia, quando ele feito um encosto em Hitler, porque Hitler é um humano, mas cujo espírito um dia foi da família Mion e muito próximo a ele, Léon, ele dominava totalmente Ritler.» — *ver:* **Ampliação — P2023-08-27 (Len Mion e os Senhores da Terra …** U0005
+- «Ele foi recolhido pela espiritualidade nos anos 90 já esteve para ser exilado umas duas ou três vezes, mas no último instante o exílio dele para por questões que eu não sei entender direito ainda e nem quero, mas para.» — *ver:* **Ampliação — P2023-08-27 (Len Mion e os Senhores da Terra …** U0005
+
+
+> Notas de processo: 2 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-074.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
 
 ## Ampliação
 ### P2024-02-25
@@ -112,26 +119,13 @@ Na RC, figura correlacionada a **Satã** — ser de alto escalão no drama da cr
 - **[Rezar por Len Mion: a oração como fonte quântica] (U0006)** «Tão sem sentido, tão sem valor, tão sem Então, eh, uma vez alguém me perguntou: "Adianta rezar por Lei Mion?"» + «" Adianta, porque a a hora Oração é é é é sempre uma fonte quântica.» — "é uma vacina, vamos assim dizer, que durante algum tempo alguém lhe cede forças para que você fique com anticorpos para poder suportar melhor o que tem que ser feito" (glosa sem aspa); o autor diz que essas figuras recebem pouco dele ("tô meio esgotado"), mas endereça boas vibrações.
 - **[Dar voz a Len Mion? Não é para ouvidos humanos] (U0011)** «Elan Lenon tem condições de dar seu parecer, assim como Bels expressou em livros, não seria interessante dar voz a ele, cara?» — o autor responde que não: "não penso que vá ser útil nem a ele, nem a ninguém"; o discurso dele "tem que ecoar porque é um tempo novo. Ele só agora possui esses elementos, então tem que ser, mas não é ainda para ouvidos humanos, não" (U0012: «Ele só agora possui esses elementos, então tem que ser, mas não é ainda para ouvidos humanos, não.»); comparado a Eulos Bell (que passou quase 2.000 anos sozinho refletindo e ainda é "muito biodem"), o caso de Len Mion é "muito diferente, é muito complicado"; "Lenião tá cheio de verdades e isso não é legal" (glosa sem aspa).
 
-## Fontes
+## Atualização
+### P2021-03-27
 
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2021-04-10 | O Fechamento dos Portais e o Impasse no Exílio Espiritual de Len Mion — Aprofundamento (palestra) | — | transcrição automatizada; citação |
-| P2023-02-11 | Agente Humano Jesus e os Arcontes (palestra) | — | transcrição automatizada; citação |
-| P2023-08-27 | Len Mion e os Senhores da Terra Alexandre Magno e Qin Shi Huang Di (palestra) | — | transcrição automatizada; citação |
-| P2018-12-16 | Terra Atlantis - Era Sapiens (palestra) | — | transcrição automatizada; citação |
-| P2018-12-15 | Terra Atlantis – Aprofundamento (palestra) | — | transcrição automatizada; citação |
-| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
-| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
-| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra/STT) | citação verbatim; paráfrase |
-| P2021-03-27 | seção 6.2–6.3; bloco 9 (relógio messiânico) | palestra/STT pré-curada |
+- **Influência em Marduk:** "a atuação de Len Mion e sua influência em Marduk" (seção 6.2 do Sumário) — contexto do relógio messiânico (RC-765): Marduk (RC-460) tentou assumir a regência da Era de Peixes e "a turma não aceitou";
+- **Psiquismo dos "deuses":** "a problemática do psiquismo de 'deuses' e seres cósmicos" (seção 6.3) — Len Mion entre as figuras com psiquismo problemático;
+- Conecta-se ao drama de Lúcifer/Yel Luzbel (RC-078) e à Rebelião (RC-002) — par de Javé no desfecho cósmico.
 
-
-
-
-## Citação-chave
-
-> "Len Mion e sua influência em Marduk... a problemática do psiquismo de 'deuses' e seres cósmicos." — P2021-03-27 (seções 6.2–6.3)
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -159,14 +153,19 @@ Na RC, figura correlacionada a **Satã** — ser de alto escalão no drama da cr
 
 Papel de Len Mion no relógio messiânico é **leitura do autor** (Teologia Comparada) — sem validação histórica.
 
-## Citações-chave
+## Fontes
 
-> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2021-04-10 | O Fechamento dos Portais e o Impasse no Exílio Espiritual de Len Mion — Aprofundamento (palestra) | — | transcrição automatizada; citação |
+| P2023-02-11 | Agente Humano Jesus e os Arcontes (palestra) | — | transcrição automatizada; citação |
+| P2023-08-27 | Len Mion e os Senhores da Terra Alexandre Magno e Qin Shi Huang Di (palestra) | — | transcrição automatizada; citação |
+| P2018-12-16 | Terra Atlantis - Era Sapiens (palestra) | — | transcrição automatizada; citação |
+| P2018-12-15 | Terra Atlantis – Aprofundamento (palestra) | — | transcrição automatizada; citação |
+| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
+| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
+| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra/STT) | citação verbatim; paráfrase |
+| P2021-03-27 | seção 6.2–6.3; bloco 9 (relógio messiânico) | palestra/STT pré-curada |
 
-- «E eh em 2004, Valon disse que iria aprofundar o que ele não fez, porque talvez já não tenha colaborado, num assunto que ao nos anos 90, eh, os espíritos que haviam escrito comigo o livro Reintegração Cósmica haviam tocado, que foi a distinção muito forte entre ebel e Lemi que foi o fato deles […]» — *ver:* **Ampliação — P2018-12-16 (Terra Atlantis - Era Sapiens)** U0003
-- «E a última obra dele foi Hitler, nos termos em que eu descrevo no livro A era Sapiens da trilogia, quando ele feito um encosto em Hitler, porque Hitler é um humano, mas cujo espírito um dia foi da família Mion e muito próximo a ele, Léon, ele dominava totalmente Ritler.» — *ver:* **Ampliação — P2023-08-27 (Len Mion e os Senhores da Terra …** U0005
-- «Ele foi recolhido pela espiritualidade nos anos 90 já esteve para ser exilado umas duas ou três vezes, mas no último instante o exílio dele para por questões que eu não sei entender direito ainda e nem quero, mas para.» — *ver:* **Ampliação — P2023-08-27 (Len Mion e os Senhores da Terra …** U0005
 
 
-> Notas de processo: 2 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-074.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

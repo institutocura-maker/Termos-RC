@@ -16,14 +16,9 @@ atualizado = "2026-08-18"
 
 Metáfora da trilogia Matrix incorporada por Jan Val Ellam à linguagem da RC: o **processo de deslacre perceptivo** — "algo químico que quando você toma destrava, deslacra o seu cérebro... despolui o modo como o seu cérebro, o seu conectoma funciona" — de modo que o eu se vê pensando usando elementos perturbadores presentes dentro da bolha (a camuflagem da realidade, RC-702). A pílula azul é a conformidade: "o oba-oba" de viver sem questionar.
 
-## Atualização
-### P2023-05-13
+## Citações-chave
 
-- **Múltiplas pílulas vermelhas:** "A pergunta mais chata que precisa ser feita e que Matrix não fez é: quantos tipos de pílula vermelha existem ou são necessárias para que um ser humano... perceba a matrix, perceba os seus alicerces, perceba o programa que está sendo rodado, perceba as falhas dessa Matrix que nos fi..."; a opção de tomar a pílula já está dada ("só pelo fato de nós estarmos aqui, obviamente a nossa opção é tomar a pílula vermelha") — a questão é **quantas** e **quais**;
-- **Doses de susto / reinar sobre o processo:** cada pílula é "uma dose de susto, é uma dose de perturbação"; Ellam cita Jesus — "de tanto susto vai se ajeitando, se acalmando, se equilibrando até que passa a reinar sobre o processo";
-- **Especiação e novas proteínas:** a consciência "Doravante vai ser obrigada a tomar" muitas e inúmeras pílulas — o despertar é contínuo, ligado à produção das novas proteínas (RC-056);
-- **Faixas de realidade:** as pílulas revelam as faixas definidas × improvisadas (ver RC-702).
-
+> "Quantos tipos de pílula vermelha existem ou são necessárias para que um ser humano que esteja inserido no ângulo dessa matrix perceba a matrix, perceba os seus alicerces, perceba o programa que está sendo rodado, perceba as falhas dessa Matrix que nos fez assim?" — P2023-05-13
 
 ## Ampliação
 ### P2026-07-25
@@ -68,17 +63,14 @@ Metáfora da trilogia Matrix incorporada por Jan Val Ellam à linguagem da RC: o
 - **[P2023-06-24 · O ESTACIONAMENTO]** "só a falsa sensação de que a zona de conforto nos dá paz — não dá... é um desconforto, **porque não há evolução, não há potenciais sendo despertos**... mas **o ERRO PRODUZ NOVAS PROTEÍNAS**" (a ponte com RC-056).
 - 0 códigos novos (O-3).
 
-## Fontes
+## Atualização
+### P2023-05-13
 
-| Fonte | Localização | Tipo |
-|---|---|---|
-| B044 | — | obra publicada |
-| P2025-03-15 / P2025-02-15 / P2024-11-30 | — | palestras/STT |
-| P2023-05-13 | seções 2.2–2.3; bloco das múltiplas pílulas | palestra/STT pré-curada |
+- **Múltiplas pílulas vermelhas:** "A pergunta mais chata que precisa ser feita e que Matrix não fez é: quantos tipos de pílula vermelha existem ou são necessárias para que um ser humano... perceba a matrix, perceba os seus alicerces, perceba o programa que está sendo rodado, perceba as falhas dessa Matrix que nos fi..."; a opção de tomar a pílula já está dada ("só pelo fato de nós estarmos aqui, obviamente a nossa opção é tomar a pílula vermelha") — a questão é **quantas** e **quais**;
+- **Doses de susto / reinar sobre o processo:** cada pílula é "uma dose de susto, é uma dose de perturbação"; Ellam cita Jesus — "de tanto susto vai se ajeitando, se acalmando, se equilibrando até que passa a reinar sobre o processo";
+- **Especiação e novas proteínas:** a consciência "Doravante vai ser obrigada a tomar" muitas e inúmeras pílulas — o despertar é contínuo, ligado à produção das novas proteínas (RC-056);
+- **Faixas de realidade:** as pílulas revelam as faixas definidas × improvisadas (ver RC-702).
 
-## Citação-chave
-
-> "Quantos tipos de pílula vermelha existem ou são necessárias para que um ser humano que esteja inserido no ângulo dessa matrix perceba a matrix, perceba os seus alicerces, perceba o programa que está sendo rodado, perceba as falhas dessa Matrix que nos fez assim?" — P2023-05-13
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -99,3 +91,11 @@ Metáfora da trilogia Matrix incorporada por Jan Val Ellam à linguagem da RC: o
 
 Metáfora cinematográfica (filme Matrix) usada pelo autor como linguagem didática — **não é termo técnico** nem valida a hipótese de realidade simulada (quarentena tecnológica).
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
+## Fontes
+
+| Fonte | Localização | Tipo |
+|---|---|---|
+| B044 | — | obra publicada |
+| P2025-03-15 / P2025-02-15 / P2024-11-30 | — | palestras/STT |
+| P2023-05-13 | seções 2.2–2.3; bloco das múltiplas pílulas | palestra/STT pré-curada |

@@ -16,6 +16,20 @@ atualizado = "2026-08-18"
 Critério ético proposto na palestra para avaliar crenças, poderes e ações: quando uma consciência não se preocupa com a dignidade do outro, sua grandeza declarada não elimina o abismo entre poder e consciência.
 
 
+## Citações-chave
+> “Se não tiver preocupação com o aspecto da dignidade, tem alguma coisa errada com essa crença.”
+
+
+
+> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+
+- «Quando um ser humano acende em si mesmo a pulsação da dignidade e quando isso é honesto na pessoa, eles perdem totalmente a condição de se aproximar. daquele ser humano e mexer, porque a pulsação daquele ser humano cria um campo protetor ao redor do ser humano que impede de jáé a qualquer anjo ou […]» — *ver:* **Ampliação — P2024-03-17**
+- «Eis o problema, essa indignidade transformou-se em religião. Que indignidade considerar o ser humano um pecador, um filho do demônio. E a gente aceita isso, pessoal. Nós nos submetemos a toda hora às religiões e a base jurídica para que tal coisa se dê jurídica, teológica, é essa crença.» — *ver:* **Ampliação — P2024-02-04**
+
+
+> Notas de processo: 2 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-722.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
 ## Ampliação
 ### P2026-07-25
 
@@ -57,6 +71,30 @@ Critério ético proposto na palestra para avaliar crenças, poderes e ações: 
 - **[P2024-07-14] A consciência dignificada (U0431–U0451):** "é um eu que já não dá trabalho a ninguém, que cuida de si mesmo e ainda cuida dos outros, sem dono de nenhuma verdade, que abraça budista, maometano, ateu, católico, sem achar um melhor que o outro. Ou seja, é uma consciência desprovida de padrões de intolerância, que acolhe todos no seu coração, mas que mantém a sua chama pessoal lúcida, o tirocínio limpo e a sua atitude emocional superior no campo da compaixão para todos, e é 100% responsável pela sua pulsação espiritual"; "não fique esperando que Jesus, Maomé, Krishna, Deus, ou seja lá quem for, pulse por ele"; "a gente aprende a ser assim é aqui, e leva para lá esse comportamento. Lá não tem como se aprender porcaria nenhuma".
 - **[P2024-07-14] O mérito no caos (U0200–U0280):** "no paraíso você não atinge a perfeição, você já nasce perfeito... Qual o mérito de alguém que nasce no paraíso? Nenhum. Nasceu. É um privilegiado"; "venha para cá, seja obrigado a lidar diariamente com [o caos] e ainda mantenha a luz da sua alma acesa. Para você conseguir isso, aqui você tem que ter mérito. E a dignificação de uma consciência está nesse ponto aqui: não há dignidade em ter nascido no céu perfeito, mas há dignidade em ter nascido no meio da [podridão] e você vai transformando a podridão em beleza existencial pelo seu próprio esforço meritório".
 - **[P2024-07-14] A crítica à culpa (U0650–U0670):** "'ah, não, mas quando eu morrer é que vão me dizer se eu fui digno ou não.' Esse é o retrato da humanidade... 'por minha culpa, minha culpa, minha máxima culpa.' Culpa de quê, pessoal? Mas é assim que a gente foi acostumado, e a gente acha que Deus gosta do humano que faz isso. Gosta, porque é mais fácil ele manipular. Só que não é Deus: são figuras que se fazem passar por Deus".
+
+## Ampliação
+### P2024-03-17
+
+**Fonte:** palestra «A Quem Pertence o Planeta e a Biblioteca Genômica Mais Atualizada do Universo» (17/03/2024).
+
+**Trecho verbatim:** «Quando um ser humano acende em si mesmo a pulsação da dignidade e quando isso é honesto na pessoa, eles perdem totalmente a condição de se aproximar. daquele ser humano e mexer, porque a pulsação daquele ser humano cria um campo protetor ao redor do ser humano que impede de jáé a qualquer anjo ou qualquer ser ou espírito que seja e mexer no que de mais entre aspas importante existe naquele corpo que é o código genético.»
+
+
+### P2024-02-04
+
+**Fonte:** palestra «A Falsa Queda do Ser Humano e a Indignidade Entronizada como Religião» (04/02/2024).
+
+**Trecho verbatim:** «Eis o problema, essa indignidade transformou-se em religião. Que indignidade considerar o ser humano um pecador, um filho do demônio. E a gente aceita isso, pessoal. Nós nos submetemos a toda hora às religiões e a base jurídica para que tal coisa se dê jurídica, teológica, é essa crença.»
+
+## Atualização
+### P2024-09-28 (A Raça Inabalável dos Sethianos Emancipados)
+
+- **Dignidade como tempero genético:** "Faltou a genética ou o tempero da dignidade no genoma humano e... sem o tempero, esse sistema genômico não funciona para o Tikun";
+- **Marco dos setianos:** "pode faltar tudo no genoma deles, menos a sensação de dignidade... sentir-se digno, os setianos, os gnósticos";
+- **Autocobrança:** "é importante não a gente cobrar dos outros... mas cobrar da gente mesmo. 'Putz, eu tô sendo digno, tô tentando ser digno'";
+- **Relação nova:** RC-748 ↔ RC-722 (Genótipo da Gentileza ~ Dignidade).
+
+---
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -120,53 +158,14 @@ Critério ético proposto na palestra para avaliar crenças, poderes e ações: 
 - Abismo da Consciência Cósmica — RC-721;
 - Ponto de Luz Humano — RC-725.
 
+## Observações
+É um princípio ético da obra/palestra, não uma escala clínica ou científica de consciência.
+
+---
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
 | P2024-02-04 | A Falsa Queda do Ser Humano e a Indignidade Entronizada como Religião (palestra) | transcrição automatizada; citação |
 | P2024-03-17 | A Quem Pertence o Planeta e a Biblioteca Genômica Mais Atualizada do Universo (palestra) | transcrição automatizada; citação |
 | P2024-11-09 | U0060–U0075; U0145–U0250; U0715–U0750; U1010–U1070 | palestra/STT |
-
-## Citação-chave
-> “Se não tiver preocupação com o aspecto da dignidade, tem alguma coisa errada com essa crença.”
-
-
-## Ampliação
-### P2024-03-17
-
-**Fonte:** palestra «A Quem Pertence o Planeta e a Biblioteca Genômica Mais Atualizada do Universo» (17/03/2024).
-
-**Trecho verbatim:** «Quando um ser humano acende em si mesmo a pulsação da dignidade e quando isso é honesto na pessoa, eles perdem totalmente a condição de se aproximar. daquele ser humano e mexer, porque a pulsação daquele ser humano cria um campo protetor ao redor do ser humano que impede de jáé a qualquer anjo ou qualquer ser ou espírito que seja e mexer no que de mais entre aspas importante existe naquele corpo que é o código genético.»
-
-
-### P2024-02-04
-
-**Fonte:** palestra «A Falsa Queda do Ser Humano e a Indignidade Entronizada como Religião» (04/02/2024).
-
-**Trecho verbatim:** «Eis o problema, essa indignidade transformou-se em religião. Que indignidade considerar o ser humano um pecador, um filho do demônio. E a gente aceita isso, pessoal. Nós nos submetemos a toda hora às religiões e a base jurídica para que tal coisa se dê jurídica, teológica, é essa crença.»
-
-## Observações
-É um princípio ético da obra/palestra, não uma escala clínica ou científica de consciência.
-
----
-
-## Atualização
-### P2024-09-28 (A Raça Inabalável dos Sethianos Emancipados)
-
-- **Dignidade como tempero genético:** "Faltou a genética ou o tempero da dignidade no genoma humano e... sem o tempero, esse sistema genômico não funciona para o Tikun";
-- **Marco dos setianos:** "pode faltar tudo no genoma deles, menos a sensação de dignidade... sentir-se digno, os setianos, os gnósticos";
-- **Autocobrança:** "é importante não a gente cobrar dos outros... mas cobrar da gente mesmo. 'Putz, eu tô sendo digno, tô tentando ser digno'";
-- **Relação nova:** RC-748 ↔ RC-722 (Genótipo da Gentileza ~ Dignidade).
-
----
-
-## Citações-chave
-
-> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
-
-- «Quando um ser humano acende em si mesmo a pulsação da dignidade e quando isso é honesto na pessoa, eles perdem totalmente a condição de se aproximar. daquele ser humano e mexer, porque a pulsação daquele ser humano cria um campo protetor ao redor do ser humano que impede de jáé a qualquer anjo ou […]» — *ver:* **Ampliação — P2024-03-17**
-- «Eis o problema, essa indignidade transformou-se em religião. Que indignidade considerar o ser humano um pecador, um filho do demônio. E a gente aceita isso, pessoal. Nós nos submetemos a toda hora às religiões e a base jurídica para que tal coisa se dê jurídica, teológica, é essa crença.» — *ver:* **Ampliação — P2024-02-04**
-
-
-> Notas de processo: 2 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-722.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

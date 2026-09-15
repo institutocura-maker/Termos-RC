@@ -18,10 +18,8 @@ atualizado = "2026-09-12"
 ## Contexto / Origem
 A encarnação de Apolônio marca a atuação do Quarto Logos no mundo: sua mensagem (cap. 8) contrasta o modo de Jesus — usar o poder "não para submeter as pessoas, mas sim, para ajudar as mais frágeis" — com o "Deus Bíblico", que havia destinado seu messias para "dominar a humanidade em seu nome, só que pela força". É no capítulo 8 que Ellam registra a **38ª Constatação** (Liberdade Mental como premissa do Quarto Logos).
 
-## Etimologia e Grafias
-- **Grafia preferida:** Apolônio de Tiana
-- **Variações:** Apolônio (filósofo neopitagórico); encarnação do Quarto Logos
-
+## Citações-chave
+> "Costumo olhar para a humanidade com o mesmo padrão de compaixão que dedico a mim mesmo. Padecemos, todos, dos mesmos problemas, de dores semelhantes e de angústias superlativas." — B016, cap. 8
 
 ## Ampliação
 ### B016 (O Quarto Logos)
@@ -44,36 +42,6 @@ A encarnação de Apolônio marca a atuação do Quarto Logos no mundo: sua mens
 - **[P2024-11-03 · O NUCTEMERON — O TESTAMENTO PROFÉTICO (absorvido como estrutura narrativa — a Devolutiva O-3)]** "o nosso amigo, antes de ir embora, ELE RESOLVEU DEIXAR UMA MENSAGEM PROFÉTICA... ELE USOU DOS SÍMBOLOS PAGÃOS DO PAGANISMO para fazer profecias e ele deixou escrito o NUCTEMERON [STT 'No Temeró'], CUJA TRADUÇÃO HOJE EM DIA A TURMA DIZ QUE É 'O DIA QUE DEUS RESPLANDECE NAS TREVAS'. Essa tradução até que vai. MAS A INTENÇÃO DE APOLÔNIO ERA O DIA EM QUE ESSA HISTÓRIA ACABA E INICIA OUTRA... esse Deus aqui é o Javé. É UM DEUS FAJUTO, NÃO É DEUS... isso aqui a gente poderia substituir por O DIA EM QUE EU COMEÇAREI A OCUPAR A MINHA FUNÇÃO DE UM NOVO LOGOS E IREMOS COMEÇAR O AJUSTE NA CONDIÇÃO DA ESPÉCIE QUE SURGIU E TERMINOU SENDO A ESPÉCIE HUMANA"; **AS 12 HORAS** (a decodificação do autor): 1ª "unidos os demônios louvam a Deus" = os anjos clones/demos se submetem à Lila; 2ª "os peixes do zodíaco" = o Projeto Talm e os primeiros pluricelulares; 3ª "as serpentes do caduceu entrelaçam-se três vezes" = as três gunas; 4ª "a alma regressa da visita aos túmulos" = "o que está além da criação começa a atuar"; 5ª "a voz das grandes águas" = Noé/a humanidade limpa; 6ª "o espírito permanece impassível" = o criador se expondo; 7ª "o iniciado estende a mão" = a emancipação; 8ª "as estrelas entre si" = a conspiração amorosa; **9ª "o número que não deve ser revelado" = A VINDA DE SOFIA (RC-005)**; 10ª "a chave do ciclo astronômico" = A REINTEGRAÇÃO DA TERRA; 11ª "as asas dos gênios" = o conhecimento exportado; 12ª "aqui se realiza pelo fogo a obra da luz" = "o fim da criação vai ser carimbado pela força de um ser chamado CHIVA... QUE VAI ENGOLIR A SUJEIRA QUE RESTAR" [RC-102].
 - 0 códigos novos (O-3 — a Devolutiva). Quarentenas: teológica (o "deus fajuto") + histórica (os imperadores) + biomediúnica (as fofocas espirituais).
 
-## Fontes
-| Obra (sigla) | Capítulo | Página | Tipo |
-|---|---|---|---|
-| O Quarto Logos (B016) | cap. 8 (Apolônio de Tiana) | pp. 55–70 (aprox.) | capítulo dedicado |
-| Painéis Emergentes (B031) | Glossário (Quarto Logos) | — | apoio (secundária) |
-
-## Citações-chave
-> "Costumo olhar para a humanidade com o mesmo padrão de compaixão que dedico a mim mesmo. Padecemos, todos, dos mesmos problemas, de dores semelhantes e de angústias superlativas." — B016, cap. 8
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Jan Val Ellam (Rogério de Almeida Freitas) | RC-071 | atual agente |
-| Jesus | RC-072 | contemporâneo |
-| Quarto Logos (Olm / Codificador de Zian) | RC-092 | é-um (encarnação) |
-| Olm (Codificador de Zion/Zian) | RC-252 | é-um |
-| Liberdade Mental (premissa do Quarto Logos) | RC-253 | mensagem |
-| Hermes Trismegisto (= Ningishzidda/Thoth/Quetzalcóatl) | RC-463 | ← relaciona-se-a |
-| Taumaturgia Genético-Química | RC-713 | ← envolve |
-| Escola da Decifração da Realidade (Método Druídico) | RC-755 | relaciona-se-a |
-| Nuctemeron | RC-931 | associado |
-
-## Seres Associados
-Olm (RC-252); Jesus (RC-072); Sophia (RC-009).
-
-## Observações
-Ficha baseada em B016 (obra primária) + B031. O cap. 8 de B016 é narrado na 1ª pessoa de Apolônio — verificar se há outras encarnações do Quarto Logos mencionadas na obra completa.
-
----
-
 ## Atualização
 ### P2021-12-04
 
@@ -93,3 +61,35 @@ Ficha baseada em B016 (obra primária) + B031. O cap. 8 de B016 é narrado na 1�
 
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-259.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
+## Etimologia e Grafias
+- **Grafia preferida:** Apolônio de Tiana
+- **Variações:** Apolônio (filósofo neopitagórico); encarnação do Quarto Logos
+
+
+## Seres Associados
+Olm (RC-252); Jesus (RC-072); Sophia (RC-009).
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Jan Val Ellam (Rogério de Almeida Freitas) | RC-071 | atual agente |
+| Jesus | RC-072 | contemporâneo |
+| Quarto Logos (Olm / Codificador de Zian) | RC-092 | é-um (encarnação) |
+| Olm (Codificador de Zion/Zian) | RC-252 | é-um |
+| Liberdade Mental (premissa do Quarto Logos) | RC-253 | mensagem |
+| Hermes Trismegisto (= Ningishzidda/Thoth/Quetzalcóatl) | RC-463 | ← relaciona-se-a |
+| Taumaturgia Genético-Química | RC-713 | ← envolve |
+| Escola da Decifração da Realidade (Método Druídico) | RC-755 | relaciona-se-a |
+| Nuctemeron | RC-931 | associado |
+
+## Observações
+Ficha baseada em B016 (obra primária) + B031. O cap. 8 de B016 é narrado na 1ª pessoa de Apolônio — verificar se há outras encarnações do Quarto Logos mencionadas na obra completa.
+
+---
+
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo |
+|---|---|---|---|
+| O Quarto Logos (B016) | cap. 8 (Apolônio de Tiana) | pp. 55–70 (aprox.) | capítulo dedicado |
+| Painéis Emergentes (B031) | Glossário (Quarto Logos) | — | apoio (secundária) |

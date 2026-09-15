@@ -16,14 +16,9 @@ atualizado = "2026-08-29"
 
 Entidade cósmica resultante do **processo de especiação humana** (RC-056): a nova expressão de consciência que a humanidade em evolução vertical pode gerar — descrita na RC como o desdobramento futuro do homo terráqueo após a recomposição do criador. Em P2023-05-13, Ellam vincula a origem da Criatura Universal ao processo de especiação (item 9.6 do Sumário Doutrinário: "O Processo de Especiação Humana e a Origem da 'Criatura Universal'") e projeta um mundo de regeneração pós-2050.
 
-## Atualização
-### P2023-05-13
+## Citações-chave
 
-- **Especiação como via:** "isso vai ter que ser feito através de um processo de especiação, porque aqui na terra talvez não dê para ser feito isso" — a Criatura Universal é o produto da elevação de consciência necessária;
-- **Cronologia:** projetada para o horizonte pós-2050, num mundo de regeneração;
-- **DNA homo terráqueo:** a recomposição do criador depende do DNA humano (seção 9.5 do Sumário);
-- Distingue-se do avatar humano atual: não é uma "melhoria" do homo sapiens, mas uma nova expressão conscencial.
-
+> "Isso vai ter que ser feito através de um processo de especiação, porque aqui na terra talvez não dê para ser feito isso. Então, o que fazer? Não há muito a ser feito fora de cada um de nós... e esse é o processo de elevação de consciência que nós precisamos fazer." — P2023-05-13
 
 ## Ampliação
 ### B019 (Nem Deus, nem Javé, nem Darwin)
@@ -67,25 +62,14 @@ Entidade cósmica resultante do **processo de especiação humana** (RC-056): a 
 - **[A fórmula da chave genética] (U0021)** «CFDMO com DNA bio mais o DNA humano com expressão de Pandora mais o DNA humano com expressão de chiva de vigo.» — a equação da criatura universal: "universal dotada chave genética para desligar a criação" (U0021: «universal dotada chave genética para desligar a criação.»); "Se não tiver esses componentes aqui, não desliga, não reconstrói o DNA de Brama" (U0021: «Se não tiver esses componentes aqui, não desliga, não reconstrói o DNA de Brama.»); o código fonte definidor demo como requisito do concerto final: "o concerto final de tudo lá fora requer a participação de um código fonte definidor demo misturado com o DNA biológico como sendo uma molécula" (U0021: «E hoje isso já mais ou menos existe como o ticum, ou seja, o concerto final de tudo lá fora requer a participação de um código fonte definidor demo misturado com o DNA biológico como sendo uma molécula, mas outra molécula de um DNA consciado a espíritos 100% libertos e esclarecidos.»).
 
 
-## Fontes
+## Atualização
+### P2023-05-13
 
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2021-06-26 | Shiva - A Reconstrução do Erro de Brahma e o Tikum (palestra) | — | transcrição automatizada; citação |
-| P2021-02-28 | Tragédia Anunciada - As Fórmulas Mentais do Poder Demo (palestra) | — | transcrição automatizada; citação |
-| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
-| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
-| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra/STT) | citação verbatim; paráfrase |
-| B031 / B024 / B019 | — | obras publicadas |
-| P2026-04-02 | — | palestra/STT |
-| P2023-05-13 | seção 9.6; bloco da especiação | palestra/STT pré-curada |
+- **Especiação como via:** "isso vai ter que ser feito através de um processo de especiação, porque aqui na terra talvez não dê para ser feito isso" — a Criatura Universal é o produto da elevação de consciência necessária;
+- **Cronologia:** projetada para o horizonte pós-2050, num mundo de regeneração;
+- **DNA homo terráqueo:** a recomposição do criador depende do DNA humano (seção 9.5 do Sumário);
+- Distingue-se do avatar humano atual: não é uma "melhoria" do homo sapiens, mas uma nova expressão conscencial.
 
-
-
-
-## Citação-chave
-
-> "Isso vai ter que ser feito através de um processo de especiação, porque aqui na terra talvez não dê para ser feito isso. Então, o que fazer? Não há muito a ser feito fora de cada um de nós... e esse é o processo de elevação de consciência que nós precisamos fazer." — P2023-05-13
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -111,3 +95,19 @@ Entidade cósmica resultante do **processo de especiação humana** (RC-056): a 
 
 Cronologia interna do autor (pós-2050, regeneração) — registro doutrinário, sem datação factual.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
+## Fontes
+
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2021-06-26 | Shiva - A Reconstrução do Erro de Brahma e o Tikum (palestra) | — | transcrição automatizada; citação |
+| P2021-02-28 | Tragédia Anunciada - As Fórmulas Mentais do Poder Demo (palestra) | — | transcrição automatizada; citação |
+| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
+| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
+| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra/STT) | citação verbatim; paráfrase |
+| B031 / B024 / B019 | — | obras publicadas |
+| P2026-04-02 | — | palestra/STT |
+| P2023-05-13 | seção 9.6; bloco da especiação | palestra/STT pré-curada |
+
+
+

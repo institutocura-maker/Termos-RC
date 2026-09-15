@@ -23,10 +23,9 @@ Dois exemplos estruturam a exposição:
 
 O ato vale porque a pessoa reconhece em si uma proposição vivida com integridade, não porque outro a valida.
 
-## Satyagraha e Abhaya
-- **Satyagraha:** resistência pacífica e amorosa em nome da verdade vivida.
-- **Abhaya:** agir sem perguntar o que se ganhará; permanece no glossário, sem novo código neste ciclo.
-
+## Citações-chave
+> "Repito, eh, a minha pergunta eu bastante simples, acredito que do meu tamanho, porém eu gostaria de entender algo que você vem trazendo em algumas palestras falando sobre a questão do ato de verdade de cada um de nós, né? Eu tenho tentado, apesar de bastante complexo, o caminho, não é? fácil. Eh, considero que ainda tem muito a ser desenvolvido. Agora eu gostaria de perguntar o seguinte: a quando você diz que todos nós precisamos a partir da nossa própria decisão, nos expandir, buscar por nós mesmos, sair dessa dessa desse controle? E foi o que figuras como Jesus, como Buda, como tantos outros disseram que conseguiram, mas por eles mesmos. né? E parece que ninguém conseguiu entender essa mensagem, pelo menos a grande maioria." — P2025-07-18
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
 
 ## Ampliação
 ### P2025-02-15
@@ -72,6 +71,7 @@ O ato vale porque a pessoa reconhece em si uma proposição vivida com integrida
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-705.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
 
 
-## Citações-chave
-> "Repito, eh, a minha pergunta eu bastante simples, acredito que do meu tamanho, porém eu gostaria de entender algo que você vem trazendo em algumas palestras falando sobre a questão do ato de verdade de cada um de nós, né? Eu tenho tentado, apesar de bastante complexo, o caminho, não é? fácil. Eh, considero que ainda tem muito a ser desenvolvido. Agora eu gostaria de perguntar o seguinte: a quando você diz que todos nós precisamos a partir da nossa própria decisão, nos expandir, buscar por nós mesmos, sair dessa dessa desse controle? E foi o que figuras como Jesus, como Buda, como tantos outros disseram que conseguiram, mas por eles mesmos. né? E parece que ninguém conseguiu entender essa mensagem, pelo menos a grande maioria." — P2025-07-18
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+## Satyagraha e Abhaya
+- **Satyagraha:** resistência pacífica e amorosa em nome da verdade vivida.
+- **Abhaya:** agir sem perguntar o que se ganhará; permanece no glossário, sem novo código neste ciclo.
+

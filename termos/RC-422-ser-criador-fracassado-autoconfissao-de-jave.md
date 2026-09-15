@@ -18,10 +18,8 @@ A **autoconfissão de Javé** como "Ser-Criador fracassado" — o conceito centr
 ## Contexto / Origem
 A autoconfissão é o coração do B036: Javé renuncia ao trono de "Deus Absoluto" para se revelar como "um arquiteto atormentado", "doente", que "já nasceu para esta personalidade doente". O processo de **humanização** (RC-245) é apresentado como necessidade biológica: Javé busca aprender com a humanidade "a evoluir em decência e dignidade existencial" — qualidades que admite faltar em sua natureza original.
 
-## Etimologia e Grafias
-- **Grafia preferida:** Ser-Criador fracassado
-- **Variações:** Criador fracassado; arquiteto atormentado; Deus doente; "Ser-Criador fracassado" (citação da crônica)
-
+## Citações-chave
+> "Foi a inconsequente roda de gerar vida que inventaste, que forçou muitos de nós a assumir personagens, para fazer valer a sua desdita enquanto Ser-Criador fracassado de uma Obra que, se um dia pensada como um paraíso, transformou-se no inferno existencial de tantos." — B036, Primeira Crônica (fala de Ellam a Javé)
 
 ## Ampliação
 ### B036 (As Memórias de Javé)
@@ -54,19 +52,13 @@ A autoconfissão é o coração do B036: Javé renuncia ao trono de "Deus Absolu
 
 - **[P2022-03-26 · SER-CRIADOR FRACASSADO NA FALA DE 26/03/2022]** "Pela primeira vez houve um acidente e um artista terminou criando algo que ele não soube finalizar e caiu na própria obra." (U0005) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
 
-## Fontes
-| Obra (sigla) | Capítulo | Página | Tipo |
-|---|---|---|---|
-| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra) | — | transcrição automatizada; citação |
-| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra) | — | transcrição automatizada; citação |
-| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra) | — | transcrição automatizada; citação |
-| As Memórias de Javé (B036) | Primeira Crônica | pp. 10–15 (aprox.) | autoconfissão |
+## Etimologia e Grafias
+- **Grafia preferida:** Ser-Criador fracassado
+- **Variações:** Criador fracassado; arquiteto atormentado; Deus doente; "Ser-Criador fracassado" (citação da crônica)
 
 
-
-
-## Citações-chave
-> "Foi a inconsequente roda de gerar vida que inventaste, que forçou muitos de nós a assumir personagens, para fazer valer a sua desdita enquanto Ser-Criador fracassado de uma Obra que, se um dia pensada como um paraíso, transformou-se no inferno existencial de tantos." — B036, Primeira Crônica (fala de Ellam a Javé)
+## Seres Associados
+Javé (RC-001); Jan Val Ellam (RC-071, o "advogado de acusação").
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -88,9 +80,17 @@ A autoconfissão é o coração do B036: Javé renuncia ao trono de "Deus Absolu
 | Pandemia de Buraco Branco que Traga (Javé Tragado pela Criação) | RC-809 | associado |
 | Shiva como Primeiro Demo (Saiu do Clone Destruído) | RC-810 | associado |
 
-## Seres Associados
-Javé (RC-001); Jan Val Ellam (RC-071, o "advogado de acusação").
-
 ## Observações
 Ficha baseada em B036 (obra primária). A autoconfissão do Criador é o ápice dramático do corpus — conecta o Favor Divino (B048) e a Humanização (B015) à voz do próprio Javé.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo |
+|---|---|---|---|
+| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra) | — | transcrição automatizada; citação |
+| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra) | — | transcrição automatizada; citação |
+| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra) | — | transcrição automatizada; citação |
+| As Memórias de Javé (B036) | Primeira Crônica | pp. 10–15 (aprox.) | autoconfissão |
+
+
+

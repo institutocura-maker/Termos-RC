@@ -16,14 +16,6 @@ atualizado = "2026-09-12"
 
 Na Revelação Cósmica de Jan Val Ellam, Pandora é a figura que "destravou lacres" da condição humana (junto com Eva), associada ao despertar da racionalidade e ao gesto de abrir a caixa que guardava o oculto. Identidade-val: **Pandora = Val Dimon (RC-118) = Kalil Kadmon (RC-299) = serpente do Éden (RC-283)**.
 
-## Estrutura interna
-
-- destravou lacres (ver RC-086/RC-283/RC-189);
-- a "caixa de Pandora" como campo de memória coletiva (RC-287);
-- papel na origem da racionalidade humana (com Eva);
-- obra-base: *O Sorriso de Pandora* (B020).
-
-
 ## Ampliação
 ### P2026-07-25
 
@@ -148,39 +140,16 @@ Na Revelação Cósmica de Jan Val Ellam, Pandora é a figura que "destravou lac
 - **[Pandora e o algoritmo de Efesto] (U0008)** «E porque Efestos deu a ela um um algoritmo que permitia ela se metamorfosear, se estabelecer como quisesse.» — a saída da condição demo pela borboleta: "Agora deu larga, largar larga paraa borboleta." (U0008: «Agora deu larga, largar larga paraa borboleta.»); Pandora invadida por marcações dos demos do Olimpo de Zeus (paráfrase U0008); STT «Efestos» (Hefesto); RC-086 Pandora.
 
 
-## Fontes
+## Ampliação
+### P2024-03-17
 
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2021-02-28 | Tragédia Anunciada - As Fórmulas Mentais do Poder Demo (palestra) | — | transcrição automatizada; citação |
-| P2026-03-21 | Samudra Manthan A Enigmatica Alquimia de Vishnu (palestra) | — | transcrição automatizada; citação |
-| P2022-07-16 | Do Ramayana ao Mahabharata (palestra) | — | transcrição automatizada; citação |
-| P2022-09-25 | O Contexto Espiritual da Construção de Brasília (palestra) | — | transcrição automatizada; citação |
-| P2025-06-14 | PALESTRA SOBRE A QUEDA DO CRIADOR-Refatorada (palestra) | — | transcrição automatizada; citação |
-| P2023-08-27 | Len Mion e os Senhores da Terra Alexandre Magno e Qin Shi Huang Di (palestra) | — | transcrição automatizada; citação |
-| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
-| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra/STT) | citação verbatim; paráfrase |
-| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
-| B020 | O Sorriso de Pandora | livro |
-| B031 | Painéis Emergentes | livro |
-| P2025-03-15, P2025-02-16, P2024-11-30, P2024-11-09, P2024-03-03 | palestras | palestra/STT |
-| ART-2026-08-18 | O Quarto Cérebro de Pandora (artigo — Denise F. Silva) | artigo de aluna avançada |
-| P2024-02-03 | O Jainismo e o Druidismo Ancestrais (palestra) | — |
+**Fonte:** palestra «A Quem Pertence o Planeta e a Biblioteca Genômica Mais Atualizada do Universo» (17/03/2024).
+
+**Trecho verbatim:** «Pandora então recebe, a turma tava chateada com Zeus, recebe os melhores genes e Efestos ainda dá para ela um algoritmo que permitia que, movido pela sua vontade, ela, esse ser, se transformasse no que ela quisesse. E como esse ser vivia na fazenda de Epimeteu e lá tinha animais humanos irracionais, do jeito que a gente é apaixonado por cachorro, gato, papagaio, animais de estimação, na época o humanos irracionais eram os animais de estimação dos deuses de Pandora. E ela se apaixonou pelos humanos e um belo dia fez a metamorfose transformou numa humana num mulher.»
 
 
-
-
-## Interpretação secundária (ART-2026-08-18)
-
-Na leitura/interpretação do artigo *O Quarto Cérebro de Pandora* (Denise Ferreira da Silva, aluna avançada de Jan Val Ellam):
-
-- **Pandora não trouxe o mal**: "Ela não trouxe o mal. Ela apenas abriu o que estava oculto, para que pudesse finalmente ser integrado." (O Sorriso de Pandora, cap. 2, citado no artigo);
-- **Pandora como consciência viva**: "Pandora não é personagem. Ela é real. Existiu. Vibra." — um campo simbólico que caminha entre nós;
-- **Mulher Pandórica / Linhagem Pandórica** (personificação poética — absorvida como desdobramento conceitual deste verbete): a mulher que desperta Pandora em si, reabre a caixa com consciência e ternura, e reativa a cura adormecida no campo emocional coletivo;
-- **Pandora como catalisadora vibracional**: expõe o que precisa ser visto, sentido e liberado com presença ética;
-- **Sophia sustenta, Pandora revela** (RC-009).
-
-> **Demarcação de autoria:** as formulações acima são interpretação do artigo ART-2026-08-18 (fonte secundária confiável), não cânon primário direto do Ellam.
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-086.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o bloco citado desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -234,13 +203,44 @@ Na leitura/interpretação do artigo *O Quarto Cérebro de Pandora* (Denise Ferr
 | Patriarcado desde Pandora (Origem no Feminino, Dominação pelo Masculino) | RC-818 | associado |
 | Prole sem Face (Humanos Modificáveis sem Face Definida) | RC-819 | associado |
 
-## Ampliação
-### P2024-03-17
+## Fontes
 
-**Fonte:** palestra «A Quem Pertence o Planeta e a Biblioteca Genômica Mais Atualizada do Universo» (17/03/2024).
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2021-02-28 | Tragédia Anunciada - As Fórmulas Mentais do Poder Demo (palestra) | — | transcrição automatizada; citação |
+| P2026-03-21 | Samudra Manthan A Enigmatica Alquimia de Vishnu (palestra) | — | transcrição automatizada; citação |
+| P2022-07-16 | Do Ramayana ao Mahabharata (palestra) | — | transcrição automatizada; citação |
+| P2022-09-25 | O Contexto Espiritual da Construção de Brasília (palestra) | — | transcrição automatizada; citação |
+| P2025-06-14 | PALESTRA SOBRE A QUEDA DO CRIADOR-Refatorada (palestra) | — | transcrição automatizada; citação |
+| P2023-08-27 | Len Mion e os Senhores da Terra Alexandre Magno e Qin Shi Huang Di (palestra) | — | transcrição automatizada; citação |
+| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
+| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra/STT) | citação verbatim; paráfrase |
+| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
+| B020 | O Sorriso de Pandora | livro |
+| B031 | Painéis Emergentes | livro |
+| P2025-03-15, P2025-02-16, P2024-11-30, P2024-11-09, P2024-03-03 | palestras | palestra/STT |
+| ART-2026-08-18 | O Quarto Cérebro de Pandora (artigo — Denise F. Silva) | artigo de aluna avançada |
+| P2024-02-03 | O Jainismo e o Druidismo Ancestrais (palestra) | — |
 
-**Trecho verbatim:** «Pandora então recebe, a turma tava chateada com Zeus, recebe os melhores genes e Efestos ainda dá para ela um algoritmo que permitia que, movido pela sua vontade, ela, esse ser, se transformasse no que ela quisesse. E como esse ser vivia na fazenda de Epimeteu e lá tinha animais humanos irracionais, do jeito que a gente é apaixonado por cachorro, gato, papagaio, animais de estimação, na época o humanos irracionais eram os animais de estimação dos deuses de Pandora. E ela se apaixonou pelos humanos e um belo dia fez a metamorfose transformou numa humana num mulher.»
 
 
-> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-086.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o bloco citado desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
+## Estrutura interna
+
+- destravou lacres (ver RC-086/RC-283/RC-189);
+- a "caixa de Pandora" como campo de memória coletiva (RC-287);
+- papel na origem da racionalidade humana (com Eva);
+- obra-base: *O Sorriso de Pandora* (B020).
+
+
+## Interpretação secundária (ART-2026-08-18)
+
+Na leitura/interpretação do artigo *O Quarto Cérebro de Pandora* (Denise Ferreira da Silva, aluna avançada de Jan Val Ellam):
+
+- **Pandora não trouxe o mal**: "Ela não trouxe o mal. Ela apenas abriu o que estava oculto, para que pudesse finalmente ser integrado." (O Sorriso de Pandora, cap. 2, citado no artigo);
+- **Pandora como consciência viva**: "Pandora não é personagem. Ela é real. Existiu. Vibra." — um campo simbólico que caminha entre nós;
+- **Mulher Pandórica / Linhagem Pandórica** (personificação poética — absorvida como desdobramento conceitual deste verbete): a mulher que desperta Pandora em si, reabre a caixa com consciência e ternura, e reativa a cura adormecida no campo emocional coletivo;
+- **Pandora como catalisadora vibracional**: expõe o que precisa ser visto, sentido e liberado com presença ética;
+- **Sophia sustenta, Pandora revela** (RC-009).
+
+> **Demarcação de autoria:** as formulações acima são interpretação do artigo ART-2026-08-18 (fonte secundária confiável), não cânon primário direto do Ellam.

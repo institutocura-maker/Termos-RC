@@ -18,10 +18,8 @@ Nome do projeto de **transferência do código de vida ("DNA") do Criador "caíd
 ## Contexto / Origem
 O Projeto Talm é o elo entre o universo demo (antimaterial) e o universo biológico: explica a origem da vida biológica como "transferência de código" do Criador caído. Está associado à **Mensagem Talm** (RC-080), deixada pelos Fenvans para as gerações futuras.
 
-## Etimologia e Grafias
-- **Grafia preferida:** Projeto Talm
-- **Variações:** semeadura da vida biológica; projeto de transferência do código de vida
-
+## Citações-chave
+> "Em outras palavras, foi um projeto edificado pelos 'Senhores da Trimurti' – Brahma, Vishnu e Shiva –, que conseguiu trazer o 'código da vida' do universo antimaterial para o de ordem material e biológica, onde vivemos." — B031, verbete "Projeto Talm"
 
 ## Ampliação
 ### P2025-03-15
@@ -111,19 +109,36 @@ O Projeto Talm é o elo entre o universo demo (antimaterial) e o universo bioló
 - **[Projeto Talm — Morlens o criou] (U0003)** «Nesse contexto, Morençor criou o quê? O tal projeto tal, que a gente vai falar hoje.» — Morlens (STT "Morençor/Morrençou") como o criador do Projeto Talm; ver RC-772.
 - **[Projeto Talm — a data de partida] (U0004)** «O projeto Talm começou a ter lugar por volta de 5.7 bilhões de anos após o surgimento da criação ou observando-se de outro ângulo, cerca de 8.» — o Projeto Talm começou 5,7 bi de anos após a criação (8,1 bi de anos antes do presente); elaboração levou 600 milhões de anos.
 
-## Fontes
-| Obra (sigla) | Capítulo | Página | Tipo |
-|---|---|---|---|
-| P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
-| P2021-01-30 | A Mensagem TALM e os Fios Soltos do Destino (palestra) | — | transcrição automatizada; citação |
-| A Epopeia dos Agentes da Vida Universal (B024) | caps. 12, 16, 17 | pp. 85–96, 113–123 | obra primária (fonte principal) |
-| Painéis Emergentes... (B031) | Glossário de Termos | p. 141 (aprox.) | verbete "Projeto Talm" |
-| Painéis Emergentes... (B031) | Parte II (A Falência da Vida no Universo Paralelo e o Projeto Talm) | — | capítulo do livro |
+## Atualização
+### P2021-12-04
 
-> **Complemento primário B024:** os postulados teóricos do Projeto Talm surgem na **Era da Lila e da Aceitação** (4,3–5,7 bi anos) e a semeadura efetiva começa na **Era da Semeadura Universal** (5,7–7,2 bi anos); a "molécula-mãe" terrestre já era um padrão refinado do **nidana** com a doença de Javé "apagada" em 95–97% (cap. 16). O cap. 12 detalha o projeto e o cap. 17 descreve os primeiros seres gerados.
+- **Unidades:** U0576–U0581.
+- **Contexto acrescentado:** O Projeto Talm é citado como via pela qual a vida do universo vizinho chega a este universo, no contexto de Sophia, Olm e biodemos.
+- **Status da evidência:** transcrição automatizada, pré-curada e aprovada quanto à integração terminológica; conferir com áudio/obra antes de promover status.
 
-## Citações-chave
-> "Em outras palavras, foi um projeto edificado pelos 'Senhores da Trimurti' – Brahma, Vishnu e Shiva –, que conseguiu trazer o 'código da vida' do universo antimaterial para o de ordem material e biológica, onde vivemos." — B031, verbete "Projeto Talm"
+## Reforço
+### P2025-03-15
+
+O Projeto Talm é apresentado como transferência do código plasmático Nidana do universo antimaterial para o universo biológico, onde se converte em DNA e chega à complexidade humana. A cadeia é ligada a Ishvara — RC-691 — e à Evolução da Informação — RC-693.
+
+---
+
+### P2025-07-18 — coordenação atribuída a Morren So
+
+- **[P2025-07-18 · U00012–U00016]** O Projeto Talm é explicitamente mencionado como o programa que trouxe “o código da vida do universo antimaterial para o material”. No arco narrativo, a coordenação é atribuída a **Morren So**.
+- **Cruzamento estrutural:** esta nota deve ser lida junto da ampliação de RC-454 e da descrição dos três Fornos Replicadores em RC-771. Não altera a definição, o status ou a contagem de códigos.
+- **Quarentena:** transferência de código, universo antimaterial/material e microinstantes são linguagem cosmológica do expositor; não são biologia, física ou engenharia demonstradas.
+
+> Notas de processo: 4 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-091.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** os 2 trechos entre aspas desta ficha **não** resistem à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Só 1 dos 2 deixam vestígio no corpus. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
+## Etimologia e Grafias
+- **Grafia preferida:** Projeto Talm
+- **Variações:** semeadura da vida biológica; projeto de transferência do código de vida
+
+
+## Seres Associados
+Brahma (RC-037); Vishnu (RC-135); Shiva (RC-102); Mohen So (RC-081); Fenvans (RC-064).
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -161,33 +176,18 @@ O Projeto Talm é o elo entre o universo demo (antimaterial) e o universo bioló
 | Forno de Awaylengan (forno de Shiva — o primeiro a funcionar) | RC-837 | associado |
 | Satchidanandaghana (super código genômico do Projeto TALM) | RC-838 | associado |
 
-## Seres Associados
-Brahma (RC-037); Vishnu (RC-135); Shiva (RC-102); Mohen So (RC-081); Fenvans (RC-064).
-
 ## Observações
 Ficha baseada no glossário de B031 + capítulo homônimo do livro (Parte II). Extrair do capítulo os detalhes do processo de semeadura e os "fornos replicadores" para enriquecer a ficha.
 
 ---
 
-## Atualização
-### P2021-12-04
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo |
+|---|---|---|---|
+| P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
+| P2021-01-30 | A Mensagem TALM e os Fios Soltos do Destino (palestra) | — | transcrição automatizada; citação |
+| A Epopeia dos Agentes da Vida Universal (B024) | caps. 12, 16, 17 | pp. 85–96, 113–123 | obra primária (fonte principal) |
+| Painéis Emergentes... (B031) | Glossário de Termos | p. 141 (aprox.) | verbete "Projeto Talm" |
+| Painéis Emergentes... (B031) | Parte II (A Falência da Vida no Universo Paralelo e o Projeto Talm) | — | capítulo do livro |
 
-- **Unidades:** U0576–U0581.
-- **Contexto acrescentado:** O Projeto Talm é citado como via pela qual a vida do universo vizinho chega a este universo, no contexto de Sophia, Olm e biodemos.
-- **Status da evidência:** transcrição automatizada, pré-curada e aprovada quanto à integração terminológica; conferir com áudio/obra antes de promover status.
-
-## Reforço
-### P2025-03-15
-
-O Projeto Talm é apresentado como transferência do código plasmático Nidana do universo antimaterial para o universo biológico, onde se converte em DNA e chega à complexidade humana. A cadeia é ligada a Ishvara — RC-691 — e à Evolução da Informação — RC-693.
-
----
-
-### P2025-07-18 — coordenação atribuída a Morren So
-
-- **[P2025-07-18 · U00012–U00016]** O Projeto Talm é explicitamente mencionado como o programa que trouxe “o código da vida do universo antimaterial para o material”. No arco narrativo, a coordenação é atribuída a **Morren So**.
-- **Cruzamento estrutural:** esta nota deve ser lida junto da ampliação de RC-454 e da descrição dos três Fornos Replicadores em RC-771. Não altera a definição, o status ou a contagem de códigos.
-- **Quarentena:** transferência de código, universo antimaterial/material e microinstantes são linguagem cosmológica do expositor; não são biologia, física ou engenharia demonstradas.
-
-> Notas de processo: 4 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-091.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** os 2 trechos entre aspas desta ficha **não** resistem à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Só 1 dos 2 deixam vestígio no corpus. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+> **Complemento primário B024:** os postulados teóricos do Projeto Talm surgem na **Era da Lila e da Aceitação** (4,3–5,7 bi anos) e a semeadura efetiva começa na **Era da Semeadura Universal** (5,7–7,2 bi anos); a "molécula-mãe" terrestre já era um padrão refinado do **nidana** com a doença de Javé "apagada" em 95–97% (cap. 16). O cap. 12 detalha o projeto e o cap. 17 descreve os primeiros seres gerados.

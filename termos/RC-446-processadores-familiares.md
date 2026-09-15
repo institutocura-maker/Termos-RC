@@ -18,11 +18,12 @@ Dispositivos psíquico-tecnológicos que **conectam todos os integrantes de cada
 ## Contexto / Origem
 Nos "Livros de Yel Luzbel", o Processador Familiar é o mecanismo que mantém cada estirpe de Capela unida e administrada: as decisões dos Sábios são transmitidas pelos Processadores, e os membros "emanam marcações" através deles. A ruptura de Yel Luzbel com sua família passa pelo desligamento do Processador Yel — gesto inédito entre os capelinos. A suspeita de que Sophia "engendrou" e controla os Processadores alimenta a paranoia que leva à Revolta Capelina.
 
-## Etimologia e Grafias
-- **Grafia preferida:** Processadores Familiares
-- **Variações:** "Processador Familiar"; "Processador Yel"; "Processadores Familiares de Informações"
-- **Obs.:** na base, já existe o "Processador Val" (RC-089), dispositivo da Família Val — verificar correspondência com os Processadores Familiares das obras primárias
+## Citações-chave
+> "Cada família capelina possuía o seu próprio 'Processador'. A nossa família Yel foi urdida há cerca de 492 milhões de anos... todos mantinham registados em si próprios os genes que nos definiam como família." — B057, p. 15
 
+> "Se eu deixar de ser um integrante da minha 'família' e, portanto, desligar-me do 'Processador' que nos une a todos, não mais existirei como um ser coletivo para este universo?" — B058, p. 67
+
+> "O pormenor é que Sophia, que nos engendrou, também criou todos os nossos 'Processadores'." — B058, p. 68
 
 ## Ampliação
 ### B057 (A Revolta do Anjo Decaído)
@@ -58,6 +59,28 @@ Nos "Livros de Yel Luzbel", o Processador Familiar é o mecanismo que mantém ca
 
 - **[P2023-12-03 · CADA FAMÍLIA, UM PROCESSADOR]** «cada um deles era ligado ao processador da família IEL. E esse processador funciona como campo mórfico, que registra toda a atividade mental de todos os membros da família IEL, devolve para esses membros uma ou outra orientação e os membros, a familiel tem isso que a a gente chama hoje de WhatsApp de rede, né?» (U0004) — Os processadores familiares ganham definição operacional completa: campo mórfico que registra a atividade de todos, devolve orientação e coesa. A fonte diz também que um biodemo **não pode viver** sem ele — a dependência é lei da espécie, não costume.
 
+## Etimologia e Grafias
+- **Grafia preferida:** Processadores Familiares
+- **Variações:** "Processador Familiar"; "Processador Yel"; "Processadores Familiares de Informações"
+- **Obs.:** na base, já existe o "Processador Val" (RC-089), dispositivo da Família Val — verificar correspondência com os Processadores Familiares das obras primárias
+
+
+## Seres Associados
+Yel Luzbel (RC-142, primeiro a se desligar); Sophia (RC-009, criadora); Sábios das famílias capelinas (administradores).
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Sophia (Cristo Cósmico) | RC-009 | criado-por |
+| Biodemos | RC-036 | associa-se-a |
+| Processador Val | RC-089 | análogo |
+| Família Yel | RC-442 | associado-a |
+| Família Mion | RC-443 | associado-a |
+
+## Observações
+Conceito central da narrativa psicografada: os Processadores como instrumento de controle de Sophia sobre os biodemos. Nas obras primárias de Ellam existe o "Processador Val" (RC-089) — sugerido como análogo; verificar nas obras primárias (ex.: B017/B018) a correspondência exata com os "Processadores Familiares".
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** os 3 trechos entre aspas desta ficha **não** resistem à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Todos deixam vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
@@ -70,26 +93,3 @@ Nos "Livros de Yel Luzbel", o Processador Familiar é o mecanismo que mantém ca
 
 
 
-
-## Citações-chave
-> "Cada família capelina possuía o seu próprio 'Processador'. A nossa família Yel foi urdida há cerca de 492 milhões de anos... todos mantinham registados em si próprios os genes que nos definiam como família." — B057, p. 15
-
-> "Se eu deixar de ser um integrante da minha 'família' e, portanto, desligar-me do 'Processador' que nos une a todos, não mais existirei como um ser coletivo para este universo?" — B058, p. 67
-
-> "O pormenor é que Sophia, que nos engendrou, também criou todos os nossos 'Processadores'." — B058, p. 68
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Sophia (Cristo Cósmico) | RC-009 | criado-por |
-| Biodemos | RC-036 | associa-se-a |
-| Processador Val | RC-089 | análogo |
-| Família Yel | RC-442 | associado-a |
-| Família Mion | RC-443 | associado-a |
-
-## Seres Associados
-Yel Luzbel (RC-142, primeiro a se desligar); Sophia (RC-009, criadora); Sábios das famílias capelinas (administradores).
-
-## Observações
-Conceito central da narrativa psicografada: os Processadores como instrumento de controle de Sophia sobre os biodemos. Nas obras primárias de Ellam existe o "Processador Val" (RC-089) — sugerido como análogo; verificar nas obras primárias (ex.: B017/B018) a correspondência exata com os "Processadores Familiares".
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** os 3 trechos entre aspas desta ficha **não** resistem à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Todos deixam vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

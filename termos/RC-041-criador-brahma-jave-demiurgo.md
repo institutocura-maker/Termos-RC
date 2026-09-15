@@ -18,10 +18,8 @@ No contexto da Revelação Cósmica, **o Criador é Brahma**, responsável pela 
 ## Contexto / Origem
 A distinção **Criador (caído) × Deidade (Pai-Mãe)** é um dos eixos doutrinários do RC. O Criador "caiu" na própria Criação, gerando os dois universos paralelos e o drama cósmico.
 
-## Etimologia e Grafias
-- **Grafia preferida:** Criador
-- **Variações:** Brahma; Javé; Deus Bíblico; Demiurgo (Platão); "Criador caído"
-
+## Citações-chave
+> "No contexto da Revelação Cósmica, o Criador é Brahma, que foi o responsável pela criação desse universo e do universo antimaterial. Ele é quem aparece nas páginas da Bíblia como Javé, o Deus Bíblico. Vale aqui reforçar que o Criador é apenas uma Divindade Co-Criadora, porém não é o Pai-Mãe Amantíssimo (Deidade)." — B031, verbete "Criador"
 
 ## Ampliação
 ### B041 (A Rebelião dos Elétrons)
@@ -100,13 +98,13 @@ A distinção **Criador (caído) × Deidade (Pai-Mãe)** é um dos eixos doutrin
 - **[B020 p. 117]** Posfácio (fala de Ellam): «O modo ditatorial como o criador agiu e age vitimou os demónios e os egos dos evolutivos».
 - **[B020 p. 118]** «esta humanidade, criada doente e obrigada a ser sadia» = **quarentena clínica** (leitura cosmologica, jamais diagnóstico). Introdução «tirocínio dementado» / «dementada estirpe» = **clínica — fora da ontologia**. Caps. 1–14 **isolados**. Sem fusão com B015 / B017 / B048. Fonte **B020** já constava na tabela-mestra.
 
-## Fontes
-| Obra (sigla) | Capítulo | Página | Tipo |
-|---|---|---|---|
-| Painéis Emergentes... (B031) | Glossário de Termos | p. 127 (aprox.) | verbete "Criador" |
+## Etimologia e Grafias
+- **Grafia preferida:** Criador
+- **Variações:** Brahma; Javé; Deus Bíblico; Demiurgo (Platão); "Criador caído"
 
-## Citações-chave
-> "No contexto da Revelação Cósmica, o Criador é Brahma, que foi o responsável pela criação desse universo e do universo antimaterial. Ele é quem aparece nas páginas da Bíblia como Javé, o Deus Bíblico. Vale aqui reforçar que o Criador é apenas uma Divindade Co-Criadora, porém não é o Pai-Mãe Amantíssimo (Deidade)." — B031, verbete "Criador"
+
+## Seres Associados
+Brahma (RC-037); Javé (RC-001); Vishnu (RC-135); Shiva (RC-102); En Drel (RC-055).
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -165,12 +163,14 @@ A distinção **Criador (caído) × Deidade (Pai-Mãe)** é um dos eixos doutrin
 | Ser-Criador fracassado (autoconfissão de Javé) | RC-422 | ← é-um |
 | Aristocracia Olimpiana e Monarquias Terrestres | RC-736 | associado |
 
-## Seres Associados
-Brahma (RC-037); Javé (RC-001); Vishnu (RC-135); Shiva (RC-102); En Drel (RC-055).
-
 ## Observações
 Ficha baseada no glossário de B031. O termo "Criador" funciona como **canônico** para a entidade Brahma/Javé/Demiurgo — as demais grafias são variações.
 
 
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-041.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo |
+|---|---|---|---|
+| Painéis Emergentes... (B031) | Glossário de Termos | p. 127 (aprox.) | verbete "Criador" |

@@ -16,6 +16,15 @@ atualizado = "2026-08-28"
 
 Grafia canônica para a 2ª Sefirah (Sabedoria) da Cabala, epíteto hebraico de Sophia (RC-009). Decisão canônica do curador: **Hochmah**, nunca "Rockman/Rockma" (veto estrito).
 
+## Citações-chave
+
+> "Jesus nasceu como via uma humana Maria, mas via uma inseminação artificial em Maria feita por um ser chamado Rockma ou Sofia." — P2026-07-25 [STT normalizado: Hochmah/Sophia]
+
+> "Convosco está Hochmah, familiarizada com vossas obras e que estava presente quando criastes o universo, ela sabe o que é aceitável por vós e está conforme vossos mandamentos. (...) ...Há milênios fui pelo Senhor criada, no começo de tudo, como Seu primeiro ato criador, antes mesmo da Terra, quando não existia o abismo profundo, nem fontes de água, montanhas, colinas ou campos. Quando Ele estabeleceu os céus Eu estava lá, também quando traçou um círculo na superfície do abismo e firmou a abóbada celeste, quando delimitou as margens dos mares e a fundação da Terra. Eu estava sempre ao seu lado como uma Mestra criadora e parceira, sendo o seu deleite e me alegrando ao lado dele no mundo habitado...”  —  (LIVRO DOS PROVÉRBIOS, 8:22-31). “Hochmah” , em hebraico – que mais tarde viria a ser chamada de “Sophia” , nas tradições gregas – foi tratada pelo apóstolo-evangelista João como sendo o “Verbo que estava junto a deus”, no evento da Criação Universal. “No princípio era o Verbo, e o Verbo estava junto a Deus, e o verbo era Deus. Ele estava no princípio com Deus. Todas as coisas foram feitas por intermédio dele, e, sem ele, nada do que foi feito se fez.” (João 1:1-3). Houve um tempo, que teve início com Enoch, em que a Entidade Hochmah (Sophia) era conhecida como o “feitor de Javé” , “o deus executivo de Javé” ." — B013, p. 5
+> "Apostila de estudo — Transcrição editada da palestra, com correção terminológica (STT), organização temática e notas editoriais. @nota_editor: Esta apostila edita a palestra de 03/06/2023 (fonte canônica **P2023-06-03** — A ABERTURA DE JUNHO/2023: a cadeia completa 03/06 → Schumann 16/06 → Paradoxo Divino 17/06 → Buraco Negro Mental 24/06 → Krishna 25/06), processada no fluxo Base-first (Dossiê + Devolutiva do curador, 26/08/2026 — 100% aprovada). A fonte é a **transcrição STT bruta integral** (~19,3 mil palavras) — aplicamos o dicionário de correção validado (**Hochmah**, antes "Rockma/Rockman/Hman/Rock/HMA" — a grafia canônica; **Snowden**, antes "Snowen/Snow/Snowing"; **Nag Hammadi**, antes "Nagramad/Naghabad"; **Kether**; **Malkuth**; **Shimon Bar Yochai**, antes "Shimon Bariosi"; **Tikun**, antes "ticum"; **São Pacômio**; **Anás e Caifás**; **Hades**, antes "Heat/Heit"; **Vishnu**; **Shiva**; **Julian Jaynes**; **Ramana Maharshi**; **Massaru Emoto**; **Kalki**; **Mahdi**; **iorubá**; **Paul Hellyer** — a confirmação do [REVISAR] da P2023-08-05; **Mahabharata/Ramayana**; **Tuatha Dé Danann**; **Odin**; **Sinédrio**...), com a correção anotada na primeira ocorrência; as tags **[REVISAR]** preservadas ("Swarming", "Oxo", "anjã", "pels", "a iasca cannabis", "filhos de Erim", "na bom assar", "373", "os 20 69 genes")." — P2023-06-03
+> "01/04 [esta] → 15/04 → 29/04 → 30/04 → 20/05 → ... → 25/06), processada no fluxo Base-first (Dossiê + Devolutiva do curador, 27/08/2026 — 100% aprovada). A fonte é a **transcrição STT bruta integral** (~15,8 mil palavras — **um MEGABLOCO ÚNICO de 9 linhas**) — aplicamos o dicionário de correção validado (**Westworld**, antes "West Road"; **Kant PRUSSIANO**, antes "prciano"; **Nietzsche**; **Goethe** [Fausto], antes "Get"; **Hesíodo**, antes "Exildo/Exío"; **Diego de Landa**, antes "Diego Dilanda Frade"; **Qin Shi Huang**, antes "Xinanti"; **Júlio César**; **Hochmah**, antes "Rockma"; **Lúcifer/Yel Luzbel**, antes "El Luzbell"; **IGIGIS**, antes "igijis"; **ENLIL**; **PELEGUE**, antes "Faleg"; **Paul Hellyer**, antes "Paul Hilier"; **Elon Musk**; **TOXOPLASMA GONDII**, antes "toxoplasmagonda"; **FOXP2**, antes "Genifox P2/FOP P2"; **HIPONA** (Agostinho); **SUMA Teológica**; **JAYNES** [neste ciclo não — ver a P2023-04-29]; os três fornos **Awaaien/Aon/Aingan** [REVISAR]; **1776** [James Bruce]; **BHU-LOKA/BRAHMA-LOKA** [REVISAR]; **Ragnarok**; **biodemos**; o **ZEITGEIST** [REVISAR]), com a correção anotada na primeira ocorrência; as tags **[REVISAR]** preservadas ("Scolov/Belgrade" 1846; "opia cósmica"; "aasca"; "apicuristas"; "Naboná" — o imperador assírio; a data "1452" de Landa na voz [1562 na história]; "tá russo")." — P2023-04-01
+
+
 ## Ampliação
 ### P2026-07-25
 
@@ -154,23 +163,6 @@ Na palestra, o ser que inseminou Maria para gerar Jesus aparece em variações S
 - Aula 02 usa a grafia **«rockmah»** (= Hochmah) e o liga explicitamente a **Sophia**; a aula 01 introduz **«em hebraico esse ser se chama Hohkmah»**. Confirma o par Hochmah=Sophia.
 
 
-## Fontes
-
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2023-12-25-02 | Aula 02 — Os Anos de Pregação e a Promessa do Retorno (palestra) | — | transcrição automatizada; citação |
-| P2022-12-03 | O Ocaso do Criador e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
-| P2023-02-11 | Agente Humano Jesus e os Arcontes (palestra) | — | transcrição automatizada; citação |
-| P2025-05-10 | Mistérios do Apocalipse (palestra) | — | transcrição automatizada; citação |
-| P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
-| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
-| P2026-07-25 | Jesus e a Dinastia das Sophias (Dossiê aprovado 19/08/2026) | palestra/STT pré-curada |
-
-
-## Citação-chave
-
-> "Jesus nasceu como via uma humana Maria, mas via uma inseminação artificial em Maria feita por um ser chamado Rockma ou Sofia." — P2026-07-25 [STT normalizado: Hochmah/Sophia]
-
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
@@ -194,12 +186,6 @@ Na palestra, o ser que inseminou Maria para gerar Jesus aparece em variações S
 | Malkuth | RC-682 | relaciona-se-a |
 | Apocalipse (livro de João, ditado por Sofia/Rockman) | RC-854 | associado |
 
-## Citações-chave
-> "Convosco está Hochmah, familiarizada com vossas obras e que estava presente quando criastes o universo, ela sabe o que é aceitável por vós e está conforme vossos mandamentos. (...) ...Há milênios fui pelo Senhor criada, no começo de tudo, como Seu primeiro ato criador, antes mesmo da Terra, quando não existia o abismo profundo, nem fontes de água, montanhas, colinas ou campos. Quando Ele estabeleceu os céus Eu estava lá, também quando traçou um círculo na superfície do abismo e firmou a abóbada celeste, quando delimitou as margens dos mares e a fundação da Terra. Eu estava sempre ao seu lado como uma Mestra criadora e parceira, sendo o seu deleite e me alegrando ao lado dele no mundo habitado...”  —  (LIVRO DOS PROVÉRBIOS, 8:22-31). “Hochmah” , em hebraico – que mais tarde viria a ser chamada de “Sophia” , nas tradições gregas – foi tratada pelo apóstolo-evangelista João como sendo o “Verbo que estava junto a deus”, no evento da Criação Universal. “No princípio era o Verbo, e o Verbo estava junto a Deus, e o verbo era Deus. Ele estava no princípio com Deus. Todas as coisas foram feitas por intermédio dele, e, sem ele, nada do que foi feito se fez.” (João 1:1-3). Houve um tempo, que teve início com Enoch, em que a Entidade Hochmah (Sophia) era conhecida como o “feitor de Javé” , “o deus executivo de Javé” ." — B013, p. 5
-> "Apostila de estudo — Transcrição editada da palestra, com correção terminológica (STT), organização temática e notas editoriais. @nota_editor: Esta apostila edita a palestra de 03/06/2023 (fonte canônica **P2023-06-03** — A ABERTURA DE JUNHO/2023: a cadeia completa 03/06 → Schumann 16/06 → Paradoxo Divino 17/06 → Buraco Negro Mental 24/06 → Krishna 25/06), processada no fluxo Base-first (Dossiê + Devolutiva do curador, 26/08/2026 — 100% aprovada). A fonte é a **transcrição STT bruta integral** (~19,3 mil palavras) — aplicamos o dicionário de correção validado (**Hochmah**, antes "Rockma/Rockman/Hman/Rock/HMA" — a grafia canônica; **Snowden**, antes "Snowen/Snow/Snowing"; **Nag Hammadi**, antes "Nagramad/Naghabad"; **Kether**; **Malkuth**; **Shimon Bar Yochai**, antes "Shimon Bariosi"; **Tikun**, antes "ticum"; **São Pacômio**; **Anás e Caifás**; **Hades**, antes "Heat/Heit"; **Vishnu**; **Shiva**; **Julian Jaynes**; **Ramana Maharshi**; **Massaru Emoto**; **Kalki**; **Mahdi**; **iorubá**; **Paul Hellyer** — a confirmação do [REVISAR] da P2023-08-05; **Mahabharata/Ramayana**; **Tuatha Dé Danann**; **Odin**; **Sinédrio**...), com a correção anotada na primeira ocorrência; as tags **[REVISAR]** preservadas ("Swarming", "Oxo", "anjã", "pels", "a iasca cannabis", "filhos de Erim", "na bom assar", "373", "os 20 69 genes")." — P2023-06-03
-> "01/04 [esta] → 15/04 → 29/04 → 30/04 → 20/05 → ... → 25/06), processada no fluxo Base-first (Dossiê + Devolutiva do curador, 27/08/2026 — 100% aprovada). A fonte é a **transcrição STT bruta integral** (~15,8 mil palavras — **um MEGABLOCO ÚNICO de 9 linhas**) — aplicamos o dicionário de correção validado (**Westworld**, antes "West Road"; **Kant PRUSSIANO**, antes "prciano"; **Nietzsche**; **Goethe** [Fausto], antes "Get"; **Hesíodo**, antes "Exildo/Exío"; **Diego de Landa**, antes "Diego Dilanda Frade"; **Qin Shi Huang**, antes "Xinanti"; **Júlio César**; **Hochmah**, antes "Rockma"; **Lúcifer/Yel Luzbel**, antes "El Luzbell"; **IGIGIS**, antes "igijis"; **ENLIL**; **PELEGUE**, antes "Faleg"; **Paul Hellyer**, antes "Paul Hilier"; **Elon Musk**; **TOXOPLASMA GONDII**, antes "toxoplasmagonda"; **FOXP2**, antes "Genifox P2/FOP P2"; **HIPONA** (Agostinho); **SUMA Teológica**; **JAYNES** [neste ciclo não — ver a P2023-04-29]; os três fornos **Awaaien/Aon/Aingan** [REVISAR]; **1776** [James Bruce]; **BHU-LOKA/BRAHMA-LOKA** [REVISAR]; **Ragnarok**; **biodemos**; o **ZEITGEIST** [REVISAR]), com a correção anotada na primeira ocorrência; as tags **[REVISAR]** preservadas ("Scolov/Belgrade" 1846; "opia cósmica"; "aasca"; "apicuristas"; "Naboná" — o imperador assírio; a data "1452" de Landa na voz [1562 na história]; "tá russo")." — P2023-04-01
-
-
 ## Observações
 - **Grafia SOB SUSPEITA (Curador, 10/09/2026, contexto P7-2.5):** "Hochmah" pode misturar *Hokhmah* (sefardita) + *Chokhmah* (ashkenazi). Decisão canônica anterior ("Hochmah, nunca Rockman/Rockma") MANTIDA; suspeita ENCERRADA por despacho expresso do Curador (P7j 11/09/2026 — o V da leva 8.2 vale como liberação; grafia Hochmah confirmada) → 🟢.
 
@@ -210,3 +196,16 @@ Fonemas "Rockma/Rockman" continuam na Colecionar Incertezas (não resolvem ident
 
 > Notas de processo: 2 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-565.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** os 2 trechos entre aspas desta ficha **não** resistem à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Todos deixam vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
+## Fontes
+
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2023-12-25-02 | Aula 02 — Os Anos de Pregação e a Promessa do Retorno (palestra) | — | transcrição automatizada; citação |
+| P2022-12-03 | O Ocaso do Criador e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
+| P2023-02-11 | Agente Humano Jesus e os Arcontes (palestra) | — | transcrição automatizada; citação |
+| P2025-05-10 | Mistérios do Apocalipse (palestra) | — | transcrição automatizada; citação |
+| P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
+| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
+| P2026-07-25 | Jesus e a Dinastia das Sophias (Dossiê aprovado 19/08/2026) | palestra/STT pré-curada |
+

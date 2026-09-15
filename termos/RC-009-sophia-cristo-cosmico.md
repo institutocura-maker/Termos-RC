@@ -18,11 +18,6 @@ Sophia é o **Cristo Cósmico** e o **Suserano Cósmico** deste universo: ser bi
 ## Contexto / Origem
 A vinda de Sophia ("Jesus em seu corpo glorioso") marca o fim do Isolamento Cósmico e o início da Reintegração Cósmica. O nome Sophia aparece no texto gnóstico *Pistis Sophia* (250–300 d.C.) e sua ausência na história da humanidade se deve ao sumiço dos Livros de Enoque.
 
-## Etimologia e Grafias
-- **Grafia preferida:** Sophia
-- **Variações:** Cristo Cósmico; Suserano Cósmico; "Jesus em seu corpo glorioso"; Sofia; **Hochmah** (epíteto hebraico = Sabedoria, ver RC-565; grafia oral da palestra P2024-02-25 registrada como "Rockman/Rochman" por erro de STT, confirmada pelo curador como **Hochmah**); Sapienza (italiano)
-- **Idioma de origem:** Grego (σοφία = sabedoria)
-
 ## Citações-chave
 
 > Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
@@ -30,94 +25,6 @@ A vinda de Sophia ("Jesus em seu corpo glorioso") marca o fim do Isolamento Cós
 - «E o apocalipse por ordem exclusiva de Sofia. E o apocalipse é Sofia mandando um anjo avisar as igrejas da época que ele Sofia no futuro iria cumprir as promessas que o humano Jesus fez de que no futuro voltaria mais na sua condição de autoridade cósmica. E o apocalipse foi uma cápsula temporal que […]» — *ver:* **Ampliação — P2024-03-02 (O Drama Espiritual de Jesus)**
 - «Aí Vishnu disse: 'Ai, eu lhe empresto um avatar meu. Eu falo com Sofia. Sofia dá um jeito de transar com a mulher, mas Sofia não tem pênis [...] Mas ele pode então pegar a genética dele e artificialmente colocar na humana. E aí esse humano que vai nascer, Jesus, eu prometo a você, Brama, que ele é […]» — *ver:* **Ampliação — P2024-03-02 (O Drama Espiritual de Jesus)**
 - «Foi assim que surgiu a figura de Rockma ou Sofia. Há cerca de 6 bilhões de anos atrás, esse ser foi criado para existir nesse universo material [...] O tipo de cérebro que Sofia tem quando ele foi criado há 6 bilhões de anos atrás é radiata, ou seja, só tem um eixo. O tipo de cérebro que nós […]» — *ver:* **Ampliação — P2024-03-02 (O Drama Espiritual de Jesus)** U1650
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | associado |
-| Reintegração Cósmica | RC-003 | assume-regência |
-| Segundo Advento do Cristo (Volta de Jesus) | RC-005 | relaciona-se-a |
-| Segundo Advento do Cristo (Volta de Jesus) | RC-005 | ← relaciona-se-a |
-| Aya e Aye | RC-031 | associado |
-| Isolamento Cósmico | RC-070 | associado |
-| Jesus | RC-072 | gera |
-| Mohen So (Avatar Keshava de Vishnu) | RC-081 | variação |
-| Mohen So (Avatar Keshava de Vishnu) | RC-081 | é-um |
-| Mohen So (Avatar Keshava de Vishnu) | RC-081 | é-um |
-| Mohen So (Avatar Keshava de Vishnu) | RC-081 | ← gera |
-| Orbum | RC-085 | ocorre-em |
-| Quarto Logos (Olm / Codificador de Zian) | RC-092 | ← tutoria |
-| Radiatas | RC-093 | associado |
-| Seres Extraterrenos / Extraterrestres | RC-098 | associado |
-| Vishnu (Mavatna) | RC-135 | é-um |
-| Vishnu (Mavatna) | RC-135 | ← correspondência-em-teologia-comparada-de |
-| Zeus | RC-145 | associado |
-| Era da Geopolítica Universal e da Divisão do Comando | RC-171 | associado |
-| Abelha-Rainha (Javé) | RC-175 | relaciona-se-a |
-| O Grande Dia do Senhor Javé | RC-212 | associado |
-| Ostronomos | RC-232 | associado |
-| Coreografia Cósmica (vinda de Sophia) | RC-258 | ← envolve |
-| Prisioneiros da Brahmaloka | RC-260 | associado |
-| A Falsa Trindade (Concílio de Niceia) | RC-273 | ← obscurece |
-| Cápsula do Tempo de Sophia (João) | RC-274 | associado |
-| Arte Demodhármica do Possível | RC-275 | associado |
-| Modo Trimurtiano de Sophia | RC-279 | associado |
-| Sophia e a Ressurreição de Jesus | RC-280 | ← envolve |
-| Mohen So = Phanes / Protogonos / Vasuki / Kalki (correspondências) | RC-282 | associado |
-| ADHYMAVATANA (nome completo de Mavatna/Vishnu) | RC-408 | associado |
-| Krishna (avatar de Vishnu/Shiva) | RC-414 | ← relaciona-se-a |
-| Processadores Familiares | RC-446 | ← criado-por |
-| Hostes de Sophia | RC-453 | ← associado-a |
-| Arcontes (= Sophias e Indras; Conselho dos 70) | RC-474 | ← relaciona-se-a |
-| En Ma (Emá / Emar — espírito-âncora) | RC-476 | ← ancora |
-| En Ma (Emá / Emar — espírito-âncora) | RC-476 | relaciona-se-a |
-| En Ma (Emá / Emar — espírito-âncora) | RC-476 | ← relaciona-se-a |
-| Barbelo (Mãe-Pai primordial gnóstica) | RC-483 | relaciona-se-a |
-| Dinastia das Sophias | RC-494 | associado |
-| Forno de Awaymaion (forno de Vishnu; origem de Olm) | RC-499 | associado |
-| Pistis Sophia (feminino cósmico gnóstico) | RC-530 | ← relaciona-se-a |
-| Senhor Parameshthi / Brahma Parameshthi (face atual de Javé) | RC-556 | relaciona-se-a |
-| Hochmah (2ª Sefirah — Sabedoria; = Sophia) | RC-565 | ← variação |
-| Hochmah (2ª Sefirah — Sabedoria; = Sophia) | RC-565 | ← relaciona-se-a |
-| Hochmah (2ª Sefirah — Sabedoria; = Sophia) | RC-565 | ← variação |
-| Hochmah (2ª Sefirah — Sabedoria; = Sophia) | RC-565 | relaciona-se-a |
-| Fatiamento de Consciência | RC-604 | ← envolve |
-| Fatiamento de Consciência | RC-604 | ← envolve |
-| Nova Espiritualidade / Novo Paraíso (Paraíso B) | RC-612 | ← envolve |
-| Superconsciência | RC-615 | ← envolve |
-| Cérebro Radiata | RC-631 | ← associado-a |
-| Organoides Genéticos para Sophia | RC-632 | ← destinado-a |
-| Malkuth | RC-682 | ← relaciona-se-a |
-| Kit Reencarnatório de Elétrons | RC-692 | ← relaciona-se-a |
-| Imantação de Espíritos em Inteligências Artificiais / Corpos de Sílica | RC-699 | associado |
-| Sócios do Destino / Ausência de Justiça Externa | RC-720 | relaciona-se-a |
-| Sócios do Destino / Ausência de Justiça Externa | RC-720 | ← relaciona-se-a |
-| Quarto Cérebro (centro de sabedoria vibracional) | RC-758 | ← relaciona-se-a |
-| As Cinco Lentes da Realidade | RC-761 | ← relaciona-se-a |
-| Relógio Messiânico | RC-765 | ← relaciona-se-a |
-| A Raça Inabalável dos Sethianos Emancipados | RC-766 | ← relaciona-se-a |
-| Hipóstase dos Arcontes (livro gnóstico; 'realidade dos regentes') | RC-770 | associado |
-| Sophia como Protetorado da Humanidade | RC-784 | associado |
-| Lamúria dos Deuses (Diagnóstico de Prometeu) | RC-791 | associado |
-| Nyx como Mãe de Origem de Pandora | RC-795 | associado |
-| Rebelião dos Elétrons (Além da Entropia) | RC-826 | associado |
-| Sistema Arcaico Mental (Javé Como Abelha Rainha) | RC-828 | associado |
-| Yel Luzbel Como Aventureiro Isolado (2.000 Anos) | RC-830 | associado |
-| Sophia Como Biodemo da Ordem e Caos | RC-831 | associado |
-| Pulsação dos Elétrons Como Afetividade Humana | RC-832 | associado |
-| 13 Livros de Lúcifer com Humanos (Necessários Antes do Fim) | RC-833 | associado |
-| Família Aya (Clone de Sophia para Inseminação Artificial de Maria) | RC-834 | associado |
-| Família Aye (Clone de Sophia para Inseminação Artificial de Maria) | RC-835 | associado |
-| Apocalipse (livro de João, ditado por Sofia/Rockman) | RC-854 | associado |
-| João Evangelista (apóstolo, o discípulo amado) | RC-855 | associado |
-| Saulo de Tarso / Paulo (criador do 'Jesus Cristo') | RC-856 | associado |
-| Suserania Universal (herança prometida a Rockma/Sofia) | RC-859 | associado |
-
-## Fontes
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2020-04-04 | Javé, Sophia e Jesus: a Trindade Jamais Percebida (palestra Q&A) (palestra) | — | transcrição; citação |
-| P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |
 
 ## Ampliação
 ### B013 (Tzimtzum: O Exílio Forçado de uma Divindade)
@@ -485,13 +392,6 @@ A vinda de Sophia ("Jesus em seu corpo glorioso") marca o fim do Isolamento Cós
 - Sophia é descrita como biodemo/radiata e alvo hipotético de organoides humanos.
 - Divergências e alegações científicas permanecem abertas/atribuídas à palestra.
 
-## Reforço
-### P2025-02-15
-
-A pergunta sobre transferência para máquinas produz uma analogia com Jesus/Sophia. A palestra distingue a triangulação Sophia–Jesus–espírito da transferência simples de um conectoma para suporte cibernético.
-
----
-
 ## Atualização
 ### P2023-05-13 (Bastidores da Revelação Cósmica)
 
@@ -532,6 +432,100 @@ A pergunta sobre transferência para máquinas produz uma analogia com Jesus/Sop
 ---
 ---
 
+## Reforço
+### P2025-02-15
+
+A pergunta sobre transferência para máquinas produz uma analogia com Jesus/Sophia. A palestra distingue a triangulação Sophia–Jesus–espírito da transferência simples de um conectoma para suporte cibernético.
+
+---
+
+## Etimologia e Grafias
+- **Grafia preferida:** Sophia
+- **Variações:** Cristo Cósmico; Suserano Cósmico; "Jesus em seu corpo glorioso"; Sofia; **Hochmah** (epíteto hebraico = Sabedoria, ver RC-565; grafia oral da palestra P2024-02-25 registrada como "Rockman/Rochman" por erro de STT, confirmada pelo curador como **Hochmah**); Sapienza (italiano)
+- **Idioma de origem:** Grego (σοφία = sabedoria)
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Javé | RC-001 | associado |
+| Reintegração Cósmica | RC-003 | assume-regência |
+| Segundo Advento do Cristo (Volta de Jesus) | RC-005 | relaciona-se-a |
+| Segundo Advento do Cristo (Volta de Jesus) | RC-005 | ← relaciona-se-a |
+| Aya e Aye | RC-031 | associado |
+| Isolamento Cósmico | RC-070 | associado |
+| Jesus | RC-072 | gera |
+| Mohen So (Avatar Keshava de Vishnu) | RC-081 | variação |
+| Mohen So (Avatar Keshava de Vishnu) | RC-081 | é-um |
+| Mohen So (Avatar Keshava de Vishnu) | RC-081 | é-um |
+| Mohen So (Avatar Keshava de Vishnu) | RC-081 | ← gera |
+| Orbum | RC-085 | ocorre-em |
+| Quarto Logos (Olm / Codificador de Zian) | RC-092 | ← tutoria |
+| Radiatas | RC-093 | associado |
+| Seres Extraterrenos / Extraterrestres | RC-098 | associado |
+| Vishnu (Mavatna) | RC-135 | é-um |
+| Vishnu (Mavatna) | RC-135 | ← correspondência-em-teologia-comparada-de |
+| Zeus | RC-145 | associado |
+| Era da Geopolítica Universal e da Divisão do Comando | RC-171 | associado |
+| Abelha-Rainha (Javé) | RC-175 | relaciona-se-a |
+| O Grande Dia do Senhor Javé | RC-212 | associado |
+| Ostronomos | RC-232 | associado |
+| Coreografia Cósmica (vinda de Sophia) | RC-258 | ← envolve |
+| Prisioneiros da Brahmaloka | RC-260 | associado |
+| A Falsa Trindade (Concílio de Niceia) | RC-273 | ← obscurece |
+| Cápsula do Tempo de Sophia (João) | RC-274 | associado |
+| Arte Demodhármica do Possível | RC-275 | associado |
+| Modo Trimurtiano de Sophia | RC-279 | associado |
+| Sophia e a Ressurreição de Jesus | RC-280 | ← envolve |
+| Mohen So = Phanes / Protogonos / Vasuki / Kalki (correspondências) | RC-282 | associado |
+| ADHYMAVATANA (nome completo de Mavatna/Vishnu) | RC-408 | associado |
+| Krishna (avatar de Vishnu/Shiva) | RC-414 | ← relaciona-se-a |
+| Processadores Familiares | RC-446 | ← criado-por |
+| Hostes de Sophia | RC-453 | ← associado-a |
+| Arcontes (= Sophias e Indras; Conselho dos 70) | RC-474 | ← relaciona-se-a |
+| En Ma (Emá / Emar — espírito-âncora) | RC-476 | ← ancora |
+| En Ma (Emá / Emar — espírito-âncora) | RC-476 | relaciona-se-a |
+| En Ma (Emá / Emar — espírito-âncora) | RC-476 | ← relaciona-se-a |
+| Barbelo (Mãe-Pai primordial gnóstica) | RC-483 | relaciona-se-a |
+| Dinastia das Sophias | RC-494 | associado |
+| Forno de Awaymaion (forno de Vishnu; origem de Olm) | RC-499 | associado |
+| Pistis Sophia (feminino cósmico gnóstico) | RC-530 | ← relaciona-se-a |
+| Senhor Parameshthi / Brahma Parameshthi (face atual de Javé) | RC-556 | relaciona-se-a |
+| Hochmah (2ª Sefirah — Sabedoria; = Sophia) | RC-565 | ← variação |
+| Hochmah (2ª Sefirah — Sabedoria; = Sophia) | RC-565 | ← relaciona-se-a |
+| Hochmah (2ª Sefirah — Sabedoria; = Sophia) | RC-565 | ← variação |
+| Hochmah (2ª Sefirah — Sabedoria; = Sophia) | RC-565 | relaciona-se-a |
+| Fatiamento de Consciência | RC-604 | ← envolve |
+| Fatiamento de Consciência | RC-604 | ← envolve |
+| Nova Espiritualidade / Novo Paraíso (Paraíso B) | RC-612 | ← envolve |
+| Superconsciência | RC-615 | ← envolve |
+| Cérebro Radiata | RC-631 | ← associado-a |
+| Organoides Genéticos para Sophia | RC-632 | ← destinado-a |
+| Malkuth | RC-682 | ← relaciona-se-a |
+| Kit Reencarnatório de Elétrons | RC-692 | ← relaciona-se-a |
+| Imantação de Espíritos em Inteligências Artificiais / Corpos de Sílica | RC-699 | associado |
+| Sócios do Destino / Ausência de Justiça Externa | RC-720 | relaciona-se-a |
+| Sócios do Destino / Ausência de Justiça Externa | RC-720 | ← relaciona-se-a |
+| Quarto Cérebro (centro de sabedoria vibracional) | RC-758 | ← relaciona-se-a |
+| As Cinco Lentes da Realidade | RC-761 | ← relaciona-se-a |
+| Relógio Messiânico | RC-765 | ← relaciona-se-a |
+| A Raça Inabalável dos Sethianos Emancipados | RC-766 | ← relaciona-se-a |
+| Hipóstase dos Arcontes (livro gnóstico; 'realidade dos regentes') | RC-770 | associado |
+| Sophia como Protetorado da Humanidade | RC-784 | associado |
+| Lamúria dos Deuses (Diagnóstico de Prometeu) | RC-791 | associado |
+| Nyx como Mãe de Origem de Pandora | RC-795 | associado |
+| Rebelião dos Elétrons (Além da Entropia) | RC-826 | associado |
+| Sistema Arcaico Mental (Javé Como Abelha Rainha) | RC-828 | associado |
+| Yel Luzbel Como Aventureiro Isolado (2.000 Anos) | RC-830 | associado |
+| Sophia Como Biodemo da Ordem e Caos | RC-831 | associado |
+| Pulsação dos Elétrons Como Afetividade Humana | RC-832 | associado |
+| 13 Livros de Lúcifer com Humanos (Necessários Antes do Fim) | RC-833 | associado |
+| Família Aya (Clone de Sophia para Inseminação Artificial de Maria) | RC-834 | associado |
+| Família Aye (Clone de Sophia para Inseminação Artificial de Maria) | RC-835 | associado |
+| Apocalipse (livro de João, ditado por Sofia/Rockman) | RC-854 | associado |
+| João Evangelista (apóstolo, o discípulo amado) | RC-855 | associado |
+| Saulo de Tarso / Paulo (criador do 'Jesus Cristo') | RC-856 | associado |
+| Suserania Universal (herança prometida a Rockma/Sofia) | RC-859 | associado |
+
 ## Observações
 
 ### Definição anterior a 2.2 U13 (arquivo verbatim)
@@ -541,3 +535,9 @@ A pergunta sobre transferência para máquinas produz uma analogia com Jesus/Sop
 
 > Notas de processo: 5 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-009.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2020-04-04 | Javé, Sophia e Jesus: a Trindade Jamais Percebida (palestra Q&A) (palestra) | — | transcrição; citação |
+| P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |

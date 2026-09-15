@@ -18,10 +18,8 @@ Estirpe de seres apresentada como criada por agentes do universo antimaterial e 
 ## Contexto / Origem
 A palestra relaciona os Rakshasas aos sacrifícios, ao sangue de mamíferos e ao surgimento de Ravana como ser de grande poder.
 
-## Etimologia e Grafias
-- Grafia preferida: Rakshasas. Singular: Rakshasa. STT: racchaças, rakchaças, raquchaças.
-- **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
-
+## Citações-chave
+> ““Os Rakshasas foram criados como vampiros para passarem pelos portais e atacar os mamíferos.”” — P2022-12-17, U0730–U0741
 
 ## Ampliação
 ### P2025-02-16
@@ -54,13 +52,13 @@ A palestra relaciona os Rakshasas aos sacrifícios, ao sangue de mamíferos e ao
 - **[P2023-04-30 · A MOTIVAÇÃO]** o mistério dos mamíferos que cuidam uns dos outros (o zelo que o sangue amarelado de plasma não tem — a curiosidade que motivou a engenharia; ver a ampliação P2025-02-16).
 - 0 códigos novos (O-3). Quarentena: científica (o sangue), ufológica (os portais).
 
-## Fontes
-| Obra/palestra | Localização | Tipo |
-|---|---|---|
-| P2022-12-17 — O Incompreendido Ano de 2012 e a Falsa Noção do Fim do Mundo | U0730–U0741 | transcrição automatizada; paráfrase e citação |
+## Etimologia e Grafias
+- Grafia preferida: Rakshasas. Singular: Rakshasa. STT: racchaças, rakchaças, raquchaças.
+- **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
 
-## Citações-chave
-> ““Os Rakshasas foram criados como vampiros para passarem pelos portais e atacar os mamíferos.”” — P2022-12-17, U0730–U0741
+
+## Seres Associados
+Ravana (RC-582)
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -80,9 +78,6 @@ A palestra relaciona os Rakshasas aos sacrifícios, ao sangue de mamíferos e ao
 | Kashyapa | RC-700 | ← gera-linhagem-de |
 | Rakshasas | RC-872 | associado |
 
-## Seres Associados
-Ravana (RC-582)
-
 ## Observações
 A transliteração Rakshasas foi aprovada pelo curador.
 
@@ -93,6 +88,11 @@ A transliteração Rakshasas foi aprovada pelo curador.
 
 ### Remissiva C6 (despacho 2.6 — 12/09/2026)
 Homônimo no cadastro: **RC-872** — Rakshasas (verificado). O par RC-872 é entrada verificada mais enxuta; despacho 2.6 decidiu NÃO fundir — cada dossiê segue próprio.
+
+## Fontes
+| Obra/palestra | Localização | Tipo |
+|---|---|---|
+| P2022-12-17 — O Incompreendido Ano de 2012 e a Falsa Noção do Fim do Mundo | U0730–U0741 | transcrição automatizada; paráfrase e citação |
 
 ## Absorção de RC-872 — F045 · 10/09/2026
 

@@ -26,6 +26,9 @@ A palestra distingue taumaturgia de:
 O exemplo principal é a cura de cegueira por Jesus com areia/argila e saliva, interpretada como manipulação químico-genética.
 
 
+## Citações-chave
+> “Aqui exige conhecimento taumatúrgico.”
+
 ## Ampliação
 ### P2025-02-15
 
@@ -69,6 +72,19 @@ O exemplo principal é a cura de cegueira por Jesus com areia/argila e saliva, i
 
 - **[P2023-12-03 · TAUMATURGIA GENÉTICO-QUÍMICA NA FALA DE 03/12/2023]** «várias uniões de DNA foram feitas para convencer o processador V, que é só um computador, a aceitar ser uma espécie de madrinha ou padrinho de todos esses seres o que se conseguiu fazer.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Jesus | RC-072 | envolve |
+| DNA como Projeção Holográfica do Psiquismo do Criador | RC-217 | atua-em |
+| Apolônio de Tiana (encarnação do Quarto Logos) | RC-259 | envolve |
+| Alteração Vibratória (Transfiguração) | RC-367 | relaciona-se-a |
+| Tikun Cósmico (restabelecimento da Criação) | RC-514 | relaciona-se-a |
+| Tikun Cósmico (restabelecimento da Criação) | RC-514 | ← relaciona-se-a |
+| Gestão da Sensação Pessoal | RC-633 | relaciona-se-a |
+| Genes Críticos / Genes Dorminhocos | RC-710 | relaciona-se-a |
+| Lei da Mente do Buda | RC-712 | distingue-se-de |
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
@@ -83,22 +99,6 @@ O exemplo principal é a cura de cegueira por Jesus com areia/argila e saliva, i
 
 
 
-
-## Citações-chave
-> “Aqui exige conhecimento taumatúrgico.”
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Jesus | RC-072 | envolve |
-| DNA como Projeção Holográfica do Psiquismo do Criador | RC-217 | atua-em |
-| Apolônio de Tiana (encarnação do Quarto Logos) | RC-259 | envolve |
-| Alteração Vibratória (Transfiguração) | RC-367 | relaciona-se-a |
-| Tikun Cósmico (restabelecimento da Criação) | RC-514 | relaciona-se-a |
-| Tikun Cósmico (restabelecimento da Criação) | RC-514 | ← relaciona-se-a |
-| Gestão da Sensação Pessoal | RC-633 | relaciona-se-a |
-| Genes Críticos / Genes Dorminhocos | RC-710 | relaciona-se-a |
-| Lei da Mente do Buda | RC-712 | distingue-se-de |
 
 ## Ressalva Biomédica
 Não existe validação biomédica para diagnosticar e corrigir mutações por leitura mental, saliva, areia, intenção ou manipulação de “regiões HR1/HR2”. O termo registra uma concepção RC da palestra e não deve orientar tratamento de saúde.

@@ -18,10 +18,8 @@ Mecanismo vibratório/informativo criado para tornar sofrimento e mensagens perc
 ## Contexto / Origem
 O Portal de Comunicação com o Paraíso foi absorvido nesta ficha por decisão do curador.
 
-## Etimologia e Grafias
-- Grafia preferida: Trincheira Vibratória no Campo Informativo.
-- **Fonte de decisão:** Quadro 9 aprovado pelo curador.
-
+## Citações-chave
+> “Alguns espíritos criaram uma trincheira vibratória no campo informativo [...] até que permitiram um portal de comunicação.” — P2021-12-04, U0487–U0496
 
 ## Ampliação
 ### P2024-07-14
@@ -37,15 +35,13 @@ O Portal de Comunicação com o Paraíso foi absorvido nesta ficha por decisão 
 
 - **[P2023-12-03 · TRINCHEIRA VIBRATÓRIA NO CAMPO INFORMATIVO NA FALA DE 03/12/2023]** «vai vibrar um pouquinho diferente, vai continuar aqui, mas a gente não vê mais a cadeira.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2021-12-04`); a entrada desta fonte é de **conteúdo**, não de data.
 
-## Fontes
-| Obra/palestra | Localização | Tipo |
-|---|---|---|
-| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
-| P2021-12-04 — Os Archeons de Ereon e os Seres Adhy | U0487–U0496 | STT pré-curado e validado |
+## Etimologia e Grafias
+- Grafia preferida: Trincheira Vibratória no Campo Informativo.
+- **Fonte de decisão:** Quadro 9 aprovado pelo curador.
 
 
-## Citações-chave
-> “Alguns espíritos criaram uma trincheira vibratória no campo informativo [...] até que permitiram um portal de comunicação.” — P2021-12-04, U0487–U0496
+## Seres Associados
+Consultar as relações tipadas acima.
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -56,11 +52,15 @@ O Portal de Comunicação com o Paraíso foi absorvido nesta ficha por decisão 
 | Nova Espiritualidade / Novo Paraíso (Paraíso B) | RC-612 | base-de |
 | Colegiados Espirituais Humanizados | RC-745 | associado |
 
-## Seres Associados
-Consultar as relações tipadas acima.
-
 ## Observações
 A linguagem de trincheira/flâmulas é metafórica e deve ser preservada como tal.
 
 **Regra de status:** permanece candidato por depender de transcrição automatizada sem áudio anexado.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
+## Fontes
+| Obra/palestra | Localização | Tipo |
+|---|---|---|
+| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
+| P2021-12-04 — Os Archeons de Ereon e os Seres Adhy | U0487–U0496 | STT pré-curado e validado |
+

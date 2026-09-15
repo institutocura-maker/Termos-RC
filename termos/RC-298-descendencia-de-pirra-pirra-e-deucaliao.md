@@ -18,10 +18,8 @@ A linhagem resultante da união de **Pirra** (filha de Pandora/Kalil Kadmon com 
 ## Contexto / Origem
 A descendência de Pirra representa a **mistura do CFD demo com o DNA humano**: "os mais avançados traços do código-fonte definidor de vida dos demos foi misturado ao DNA humano quando Pandora se viu existindo como mulher, após a sua 'transição de fase'". Pirra "já emergiu como um tipo de demo muito superior aos demais, pois havia herdado também as 'prendas genéticas' dos outros deuses do Olimpo". Deucalião, por sua vez, foi gerado por Prometeu "para contrariar Zeus", com o melhor de seu código genético titã. A linhagem Deucalião+Pirra é a base genética da nova humanidade pós-dilúvio (conectando à tradição grega do dilúvio e a Deucalião como "Noé grego").
 
-## Etimologia e Grafias
-- **Grafia preferida:** Descendência de Pirra
-- **Variações:** Pirra e Deucalião; a linhagem de Pirra; o casal Deucalião/Pirra
-
+## Citações-chave
+> "Assim, Deucalião e Pirra, que eram demos sexuados, tornaram-se o que, para nós, humanos, seria 'marido e mulher'. Eles tiveram vários filhos e filhas que portavam as sequências genéticas mais ricas da 'herança' de Caos nos seus códigos-fonte definidores de vida." — B021, cap. 22
 
 ## Ampliação
 ### B087 (A Revolta do Anjo Decaído)
@@ -59,13 +57,13 @@ A descendência de Pirra representa a **mistura do CFD demo com o DNA humano**: 
 - **[P2023-05-21 · A TENTAIVA DE EXTERMÍNIO]** "Quando Pandora criou o ser humano racional LIVRE, ENKI criou o ser humano racional SUBMISSO [no sentido mental de protocolos]... **QUANDO ZEUS PERCEBEU QUE KADMON [KALIL KADMON] HAVIA SE TRANSFORMADO EM PANDORA... ZEUS MANDOU MATAR TODO MUNDO — NÃO CONSEGUIU.** Aí Prometeu disse: 'Cara, ESSE PESSOAL AÍ É MAIS SAGAZ QUE A GENTE. Olhe a descendência... olha o meu filho Deucalião. Olha a filha de Pandora, Pirra. Olha o que Deucalião e Pirra produziram. Veja a descendência de Astreia...'"
 - 0 códigos novos (O-3).
 
-## Fontes
-| Obra (sigla) | Capítulo | Página | Tipo |
-|---|---|---|---|
-| Tempos Difíceis no Olimpo (B021) | cap. 22 (A Descendência de Pirra) | pp. 120–130 (aprox.) | capítulo dedicado |
+## Etimologia e Grafias
+- **Grafia preferida:** Descendência de Pirra
+- **Variações:** Pirra e Deucalião; a linhagem de Pirra; o casal Deucalião/Pirra
 
-## Citações-chave
-> "Assim, Deucalião e Pirra, que eram demos sexuados, tornaram-se o que, para nós, humanos, seria 'marido e mulher'. Eles tiveram vários filhos e filhas que portavam as sequências genéticas mais ricas da 'herança' de Caos nos seus códigos-fonte definidores de vida." — B021, cap. 22
+
+## Seres Associados
+Pirra (RC-303); Deucalião (RC-304); Pandora (RC-086); Epimeteu (RC-302); Prometeu (RC-301).
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -78,9 +76,11 @@ A descendência de Pirra representa a **mistura do CFD demo com o DNA humano**: 
 | Pirra | RC-303 | ← parte-de |
 | Deucalião | RC-304 | ← parte-de |
 
-## Seres Associados
-Pirra (RC-303); Deucalião (RC-304); Pandora (RC-086); Epimeteu (RC-302); Prometeu (RC-301).
-
 ## Observações
 Ficha baseada em B021 (obra primária). A descendência de Pirra/Deucalião é a ponte genética entre o universo demo e a humanidade — o "fim das linhagens demodhármicas". Cruzar com RC-285 (Opção Inusitada) e RC-184 (Trava-demo).
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo |
+|---|---|---|---|
+| Tempos Difíceis no Olimpo (B021) | cap. 22 (A Descendência de Pirra) | pp. 120–130 (aprox.) | capítulo dedicado |

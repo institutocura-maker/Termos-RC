@@ -23,12 +23,8 @@ Após apropriar-se de conhecimentos associados ao Ragnarok e considerar-se parci
 
 Entre os filhos da mente aparecem Rishis como Marichi, Atri, Angiras, Pulastya, Pulaha e Kratu. A enumeração de sete nomes está incompleta no STT. Kashyapa, descendente de Marichi, torna-se grande hub genealógico. Daksha e Virini estruturam outra linha, ligada às filhas Aditi, Diti e Kadru.
 
-## Absorções
-
-- Filhos da Mente × Filhos do Corpo de Brahma;
-- divisão interna da Geração Regenerada;
-- Sete Rishis, como ampliação de `RC-586`, sem criar códigos individuais neste ciclo.
-
+## Citações-chave
+> “Ele criou então filhos e filhas da sua mente e criou também filhos e filhas do seu corpo.”
 
 ## Ampliação
 ### P2026-07-25
@@ -54,16 +50,6 @@ Entre os filhos da mente aparecem Rishis como Marichi, Atri, Angiras, Pulastya, 
 - **[P2023-10-14 · A LINHAGEM REGENERADA DE BRAHMA, DITA COMO «DE JAVÉ» (anterioridade)]** "Existe uma outra obra chamada Marra Barat, que do começo ao fim fala de uma linhagem regenerada de Braba, ou seja, de Javé." (U0020) — 🆕 anterioridade: P2024-07-13
 - **[P2023-10-14 · OS SETE FILHOS E A CLONAGEM]** "Mas vamos agentar a mesma história de novo, em que diz que a partir de um certo ponto, Brahma teve sete filhos, uma dessas, mas aí não é filho no sentido de de sexo, filho clonado." (U0020)
 - **[P2023-10-14 · A ESCOLHA DA LINHAGEM PARA DOMINAR A TERRA]** "E assim, a partir de um certo momento, quando surgiu na Terra uma figura chamada barata ou barata, Brama disse: «É esse aqui que eu vou querer que a minha descendência de seres híbridos seja criada.» Ainda não era uma Então, os baratas ou barata era o nome de um dos quatro filhos de uma geração que Brama diz que foi especial." (U0020)
-
-## Fontes
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
-| P2025-02-16 | U0387–U0434; U0471–U0483; U0903–U0906 | aula/palestra STT |
-
-
-## Citações-chave
-> “Ele criou então filhos e filhas da sua mente e criou também filhos e filhas do seu corpo.”
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -100,3 +86,17 @@ Entre os filhos da mente aparecem Rishis como Marichi, Atri, Angiras, Pulastya, 
 - `[TEXTO INCOMPLETO]`: o sétimo nome da enumeração dos Rishis não é recuperável com segurança.
 - Correspondências genealógicas são atribuídas à leitura RC do corpus purânico.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
+| P2025-02-16 | U0387–U0434; U0471–U0483; U0903–U0906 | aula/palestra STT |
+
+
+## Absorções
+
+- Filhos da Mente × Filhos do Corpo de Brahma;
+- divisão interna da Geração Regenerada;
+- Sete Rishis, como ampliação de `RC-586`, sem criar códigos individuais neste ciclo.
+

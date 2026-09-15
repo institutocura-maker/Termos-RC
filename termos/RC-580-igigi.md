@@ -18,10 +18,8 @@ Classe de Anunnakis de menor escalão apresentada, na palestra, como rebelde e e
 ## Contexto / Origem
 A hibridização atribuída aos Igigi é situada na segunda era equinocial e ligada à geração de descendentes fora do padrão desejado.
 
-## Etimologia e Grafias
-- Grafia preferida: Igigi. Forma usada na fala: Igigis.
-- **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
-
+## Citações-chave
+> ““Uma certa classe de Anunnaki chamada Igigi fez isso.”” — P2022-12-17, U0707–U0723
 
 ## Ampliação
 ### P2025-05-31
@@ -39,15 +37,21 @@ A hibridização atribuída aos Igigi é situada na segunda era equinocial e lig
 - **[P2023-10-14 · A REVOLTA DOS IGIGI, DATADA POR ESTA FONTE]** "Decorridos 360, 360.000 anos depois da chegada de Alalu, uma um certo tipo de anunque chamado Igii veio pra Terra para trabalhar como sendo os mineradores." (U0005)
 - **[P2023-10-14 · A ESCASSEZ DE MÃO DE OBRA COMO CAUSA DA FABRICAÇÃO]** "Então, poucos anulacques, por mais que chegasse, sempre eram poucos para a quantidade de trabalhos 300.000 anos, 200.000 anos, 100.000 anos e em que uma irmã dele chamada Narsc e um outro irmão chamado Eno que já tinha vindo depois dele." (U0005)
 
-## Fontes
-| Obra/palestra | Localização | Tipo |
-|---|---|---|
-| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
-| P2022-12-17 — O Incompreendido Ano de 2012 e a Falsa Noção do Fim do Mundo | U0707–U0723 | transcrição automatizada; paráfrase e citação |
+## Atualização
+### P2023-12-02 (Thot, o Enigmático Hermes Trismegisto)
+
+- **Tipologia:** "um grupo de 600 anunnaki que tinha uma tipologia muito semelhante à nossa humana e um outro grupo que também se parece conosco, mas que o corpo deles pode receber complemento... eles já nascem com essa genética que o corpo dele já é como se nascesse com lugares para você instalar algumas coisas biônicas... E esses são chamados igigi";
+- **Efetivo:** ~850–900 anunnaki na Terra há ~20.000 anos, "comandados por Enlil"; Enki "era o outro irmão";
+- Os igigi como categoria distinta dos anunnaki de tipologia humana (RC-024).
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
+## Etimologia e Grafias
+- Grafia preferida: Igigi. Forma usada na fala: Igigis.
+- **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
 
 
-## Citações-chave
-> ““Uma certa classe de Anunnaki chamada Igigi fez isso.”” — P2022-12-17, U0707–U0723
+## Seres Associados
+Anunnakis (RC-024); Nefilins (= Anunnaki) (RC-488)
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -61,9 +65,6 @@ A hibridização atribuída aos Igigi é situada na segunda era equinocial e lig
 | Guerra Nuclear Anunnaki (Sete Armas Atômicas) | RC-583 | relaciona-se-a |
 | Intercessão de Enoque pelos Anunnaki | RC-673 | relaciona-se-a |
 
-## Seres Associados
-Anunnakis (RC-024); Nefilins (= Anunnaki) (RC-488)
-
 ## Observações
 Grafia e contexto mesopotâmico validados pelo curador. Status permanece candidato até cruzamento com obra primária/áudio.
 
@@ -71,10 +72,9 @@ Grafia e contexto mesopotâmico validados pelo curador. Status permanece candida
 
 ---
 
-## Atualização
-### P2023-12-02 (Thot, o Enigmático Hermes Trismegisto)
+## Fontes
+| Obra/palestra | Localização | Tipo |
+|---|---|---|
+| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
+| P2022-12-17 — O Incompreendido Ano de 2012 e a Falsa Noção do Fim do Mundo | U0707–U0723 | transcrição automatizada; paráfrase e citação |
 
-- **Tipologia:** "um grupo de 600 anunnaki que tinha uma tipologia muito semelhante à nossa humana e um outro grupo que também se parece conosco, mas que o corpo deles pode receber complemento... eles já nascem com essa genética que o corpo dele já é como se nascesse com lugares para você instalar algumas coisas biônicas... E esses são chamados igigi";
-- **Efetivo:** ~850–900 anunnaki na Terra há ~20.000 anos, "comandados por Enlil"; Enki "era o outro irmão";
-- Os igigi como categoria distinta dos anunnaki de tipologia humana (RC-024).
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

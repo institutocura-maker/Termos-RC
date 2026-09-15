@@ -15,38 +15,18 @@ atualizado = "2026-09-13"
 ## Definição Sintética
 Evento/processo em que as revelações ligadas ao espírito de Moros culminam na Revelação Cósmica, abrindo os Arquivos do Destino e cumprindo a Profecia das Três Flechas.
 
-## Sequência apresentada
-
-- Enoque — arquivos/revelação ancestral;
-- Vyasa/Kapila — revelação psíquica e sínteses indianas;
-- Kardec — Revelação Espiritual;
-- Quirino/Jan Val Ellam — Revelação Cósmica;
-- Orunmilá — atualização humana do destino/Ifá.
-
-A lista é uma arquitetura da palestra; identidades e cronologias devem permanecer atribuídas.
-
-
 ## Ampliação
 ### P2024-11-30
 
 - **Cumprimento da Profecia (P2024-11-30):** "a profecia diz que só quando [Moros] resgatasse as três setas, todo o conjunto de seres dos dois universos iriam entender e saber a história desde o momento zero desta criação até os tempos em que as setas fossem descortinadas, deslacradas, novamente lidas, compreendidas e explicadas"; "esta [espécie humana] apenas faria a leitura crítica e explicaria para todas as demais espécies, cujo entendimento é inferior" — a RC como leitura crítica humana das setas.
 ---
 
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Revelação Cósmica (conceito) | RC-094 | é-evento-de |
-| Revelação Cósmica (conceito) | RC-094 | ← cumpre |
-| Revelação Espiritual (Kardec) | RC-190 | envolve |
-| Elm (Moros — ser LM de Tempérion) | RC-454 | iniciado-por |
-| Elm (Moros — ser LM de Tempérion) | RC-454 | relaciona-se-a |
-| Vyasa | RC-585 | envolve |
-| Flechas / Profecias de Moros | RC-611 | cumpre |
-| Quirino Cornélio (Centurião da Crucificação) | RC-659 | envolve |
-| Orunmilá (Moros de Irém / Orum) | RC-665 | envolve |
-| Arquivos do Destino Universal | RC-714 | ← cumpre-se-em |
-| Arquivos do Destino Universal | RC-714 | abre |
-| Arquivos do Destino Universal | RC-714 | relaciona-se-a |
+## Ampliação
+### P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+
+- **[P2023-12-03 · CUMPRIMENTO DA PROFECIA DE MOROS PELA REVELAÇÃO CÓSMICA NA FALA DE 03/12/2023]** «corresponde só o capítulo 11.» (U0028) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2021-03-27`); a entrada desta fonte é de **conteúdo**, não de data.
+
+---
 
 ## Atualização
 ### P2023-12-02 (Thot, o Enigmático Hermes Trismegisto)
@@ -81,9 +61,29 @@ A lista é uma arquitetura da palestra; identidades e cronologias devem permanec
 ---
 ---
 
-## Ampliação
-### P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Revelação Cósmica (conceito) | RC-094 | é-evento-de |
+| Revelação Cósmica (conceito) | RC-094 | ← cumpre |
+| Revelação Espiritual (Kardec) | RC-190 | envolve |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | iniciado-por |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | relaciona-se-a |
+| Vyasa | RC-585 | envolve |
+| Flechas / Profecias de Moros | RC-611 | cumpre |
+| Quirino Cornélio (Centurião da Crucificação) | RC-659 | envolve |
+| Orunmilá (Moros de Irém / Orum) | RC-665 | envolve |
+| Arquivos do Destino Universal | RC-714 | ← cumpre-se-em |
+| Arquivos do Destino Universal | RC-714 | abre |
+| Arquivos do Destino Universal | RC-714 | relaciona-se-a |
 
-- **[P2023-12-03 · CUMPRIMENTO DA PROFECIA DE MOROS PELA REVELAÇÃO CÓSMICA NA FALA DE 03/12/2023]** «corresponde só o capítulo 11.» (U0028) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2021-03-27`); a entrada desta fonte é de **conteúdo**, não de data.
+## Sequência apresentada
 
----
+- Enoque — arquivos/revelação ancestral;
+- Vyasa/Kapila — revelação psíquica e sínteses indianas;
+- Kardec — Revelação Espiritual;
+- Quirino/Jan Val Ellam — Revelação Cósmica;
+- Orunmilá — atualização humana do destino/Ifá.
+
+A lista é uma arquitetura da palestra; identidades e cronologias devem permanecer atribuídas.
+

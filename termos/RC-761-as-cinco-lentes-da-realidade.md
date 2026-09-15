@@ -16,29 +16,16 @@ atualizado = "2026-08-18"
 
 Estrutura epistemológica central apresentada por Jan Val Ellam na palestra "Bastidores da Revelação Cósmica" (P2023-05-13, Red Cross Irlanda): existem **cinco lentes básicas** pelas quais a humanidade tentou compreender a origem e a natureza da realidade — **mitologia, religião, filosofia, ciência clássica e ciência avançada** — e a **Revelação Cósmica é a soma integrada dessas cinco lentes**, a proposição que agrega todas as respostas parciais num entendimento unificado do drama do criador caído. É o pilar que explica por que a RC não é apenas mitologia, nem apenas religião, nem apenas filosofia ou ciência: ela é a integração de todas.
 
-## As cinco lentes (estrutura interna)
-
-1. **Lente da Mitologia** — "um ser criador problemático gerou o que não devia e terminou caindo na própria criação" (o criador caído; RC-001 Javé, RC-167 Criação Indevida);
-2. **Lente Religiosa** — o **deus teísta**: cria, se mete em tudo, premia e castiga (RC-005/RC-009/RC-072);
-3. **Lente Filosófica** — o **deus deísta**: "um relojoeiro que cria um relógio, coloca para funcionar e se afasta" — reafirmação da religião sob outra roupagem (Einstein/Espinosa citados pelo autor);
-4. **Lente da Ciência Clássica** — o **acaso** como fator criador ("estudar 20 anos... para dizer que a causa de algo tão complexo é o acaso");
-5. **Lente da Ciência Avançada** — **supercomputadores / inteligência artificial** como causa da realidade simulada (convergência com o conceito de Matrix/simulacro; ver RC-702 Camuflagem da Realidade).
-
-**A proposição da RC:** a soma das cinco lentes para uma compreensão integrada. Nenhuma lente isolada resolve; a Revelação Cósmica integra as cinco e acrescenta o fator ausente em todas: a **consciência humana** — única que nem o deus teísta, nem o deísta, nem o acaso, nem o supercomputador possuem, e único fator capaz de resolver o problema do criador caído.
-
 ## Contexto / Origem
 
 Palestra integral dedicada ao tema (P2023-05-13). Ellam a apresenta como "o momento final" em que os seres humanos dizem aos que estão fora da Matrix o que se passa dentro — a RC como mensagem de dentro do simulacro para fora dele (Mensagem Talm, RC-080).
 
-## Fontes
-
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2023-05-13 | seções 1.1–1.4 do Sumário Doutrinário; bloco das cinco lentes | palestra/STT pré-curada |
-
-## Citação-chave
+## Citações-chave
 
 > "Existem cinco lentes básicas através das quais a gente pode olhar pra vida, pra realidade que a gente tá inserido e tentar entender como isso começou... se a gente olhar pela lente da mitologia, todas as mitologias vão dizer: 'Isso começou porque um ser criador problemático gerou o que não devia e terminou caindo na própria criação'... Um deus teísta é aquele que se mete em tudo e premia e castiga todo mundo. Um deus deísta é tipo um relojoeiro que cria um relógio, coloca um relógio para funcionar e se afasta e deixa a coisa rodando... Qual é a quinta lente? É a chamada ciência avançada... Eles dizem que são supercomputadores, inteligência artificial." — P2023-05-13
+
+> "Depois de 30 anos estudando isso sob a perspectiva da condição humana e sob algumas outras perspectivas, existem cinco lentes básicas através das quais a gente pode olhar pra vida, pra realidade que a gente tá inserido e tentar entender como isso começou. Por que que é importante entender como isso começou?" — P2023-05-13
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** os 2 trechos entre aspas desta ficha **não** resistem à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Só 1 dos 2 deixam vestígio no corpus. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -73,6 +60,18 @@ Palestra integral dedicada ao tema (P2023-05-13). Ellam a apresenta como "o mome
 - As cinco lentes são **estrutura epistemológica do autor**, não conclusão acadêmica: a "ciência avançada" citada (supercomputadores/IA) permanece em quarentena tecnológica (leitura do autor, sem validação).
 
 
-## Citações-chave
-> "Depois de 30 anos estudando isso sob a perspectiva da condição humana e sob algumas outras perspectivas, existem cinco lentes básicas através das quais a gente pode olhar pra vida, pra realidade que a gente tá inserido e tentar entender como isso começou. Por que que é importante entender como isso começou?" — P2023-05-13
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** os 2 trechos entre aspas desta ficha **não** resistem à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Só 1 dos 2 deixam vestígio no corpus. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+## Fontes
+
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2023-05-13 | seções 1.1–1.4 do Sumário Doutrinário; bloco das cinco lentes | palestra/STT pré-curada |
+
+## As cinco lentes (estrutura interna)
+
+1. **Lente da Mitologia** — "um ser criador problemático gerou o que não devia e terminou caindo na própria criação" (o criador caído; RC-001 Javé, RC-167 Criação Indevida);
+2. **Lente Religiosa** — o **deus teísta**: cria, se mete em tudo, premia e castiga (RC-005/RC-009/RC-072);
+3. **Lente Filosófica** — o **deus deísta**: "um relojoeiro que cria um relógio, coloca para funcionar e se afasta" — reafirmação da religião sob outra roupagem (Einstein/Espinosa citados pelo autor);
+4. **Lente da Ciência Clássica** — o **acaso** como fator criador ("estudar 20 anos... para dizer que a causa de algo tão complexo é o acaso");
+5. **Lente da Ciência Avançada** — **supercomputadores / inteligência artificial** como causa da realidade simulada (convergência com o conceito de Matrix/simulacro; ver RC-702 Camuflagem da Realidade).
+
+**A proposição da RC:** a soma das cinco lentes para uma compreensão integrada. Nenhuma lente isolada resolve; a Revelação Cósmica integra as cinco e acrescenta o fator ausente em todas: a **consciência humana** — única que nem o deus teísta, nem o deísta, nem o acaso, nem o supercomputador possuem, e único fator capaz de resolver o problema do criador caído.

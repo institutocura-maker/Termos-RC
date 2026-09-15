@@ -15,15 +15,6 @@ atualizado = "2026-08-15"
 ## Definição Sintética
 Último retrato ou estado mental de Prabrajna antes da queda: modelo-limite preservado na memória dos elétrons e usado como referência para a reconstrução futura do Criador.
 
-## Validação da Grafia Canônica
-A forma canônica adotada é **Ishvara**, transliteração corrente do sânscrito `Īśvara`. **Isuara** é preservada como variação oral/portuguesa da palestra.
-
-Formas defeituosas do STT: `Iuara`, `Isvara`, `Ichuara`, `Chuara`, `Xiwara`, `Itibara`, `Ixuara` e `Chuárea`.
-
-Forma da Base:
-
-> **Ishvara (Isuara — Retrato de Prabrajna Antes da Queda)**
-
 ## Contexto / Origem
 Na leitura própria de Jan Val Ellam, Ishvara não é simplesmente equiparado às definições tradicionais de Deus pessoal. É apresentado como a última imagem íntegra de Prabrajna antes de ele ser sugado pela criação e fragmentado entre elétrons e antielétrons.
 
@@ -34,10 +25,10 @@ Esse retrato funcionaria como:
 3. modelo para reconstruir o Criador;
 4. referência para a transformação do Nidana em um estado reconstituído.
 
-## Satchidananda
-O curador fixou **Satchidananda** como a correção das formas severamente deformadas pelo STT: “Nanda Gana”, “satiandagana”, “satinadan”, “SAT da Ananda Gana” e outras.
+## Citações-chave
+> “Ishvara [...] significa o eu do universo, ou o ego do universo, ou o senhor do universo.”
 
-Satchidananda é mantido, neste ciclo, dentro da explicação de Ishvara e da cadeia Nidana–DNA–reconstrução, **sem código independente**.
+> “O último retrato que essa mente tirou de si mesma antes de explodir passou para todos os elétrons.”
 
 ## Ampliação
 ### P2024-06-16 (O Projeto TALM, os Fenvans e os Humanos)
@@ -61,19 +52,6 @@ Satchidananda é mantido, neste ciclo, dentro da explicação de Ishvara e da ca
 - **Epítetos:** "significa o eu do universo, o ego do universo, o senhor do universo, o Deus do universo — você encontra uns 20 epítetos e nenhum deles bate"; "o que de mais próximo se chegou foi o Samkhya que Kapila produziu".
 - **"Hoje a palestra vai falar pela primeira vez abertamente sobre o mistério de Ishvara"** (em Milen Brumana [STT — REVISAR → CHANCELA 10/09/2026 · F039-L5: AGUARDA-ÁUDIO (hapax) — ver nota]).
 - **Verificabilidade:** "isso que você vai explicar é verificável? Não. Por isso vocês apenas vão entender, mas não vão assumir isso como verdade".
-
-## Fontes
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2022-12-03 | O Ocaso do Criador e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
-| P2025-06-14b | A Consciência Humana e a Chave da Decifração Universal (palestra) | — | transcrição automatizada; citação |
-| P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
-| P2025-03-15 | U0282–U0298; U0398–U0419; U0494–U0504; U0577–U0627; U1089–U1093 | palestra/STT — fonte incompleta |
-
-## Citações-chave
-> “Ishvara [...] significa o eu do universo, ou o ego do universo, ou o senhor do universo.”
-
-> “O último retrato que essa mente tirou de si mesma antes de explodir passou para todos os elétrons.”
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -102,3 +80,25 @@ Satchidananda é mantido, neste ciclo, dentro da explicação de Ishvara e da ca
 
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-691.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** os 3 trechos entre aspas desta ficha **não** resistem à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Só 1 dos 3 deixam vestígio no corpus. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2022-12-03 | O Ocaso do Criador e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
+| P2025-06-14b | A Consciência Humana e a Chave da Decifração Universal (palestra) | — | transcrição automatizada; citação |
+| P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
+| P2025-03-15 | U0282–U0298; U0398–U0419; U0494–U0504; U0577–U0627; U1089–U1093 | palestra/STT — fonte incompleta |
+
+## Validação da Grafia Canônica
+A forma canônica adotada é **Ishvara**, transliteração corrente do sânscrito `Īśvara`. **Isuara** é preservada como variação oral/portuguesa da palestra.
+
+Formas defeituosas do STT: `Iuara`, `Isvara`, `Ichuara`, `Chuara`, `Xiwara`, `Itibara`, `Ixuara` e `Chuárea`.
+
+Forma da Base:
+
+> **Ishvara (Isuara — Retrato de Prabrajna Antes da Queda)**
+
+## Satchidananda
+O curador fixou **Satchidananda** como a correção das formas severamente deformadas pelo STT: “Nanda Gana”, “satiandagana”, “satinadan”, “SAT da Ananda Gana” e outras.
+
+Satchidananda é mantido, neste ciclo, dentro da explicação de Ishvara e da cadeia Nidana–DNA–reconstrução, **sem código independente**.

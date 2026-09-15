@@ -18,13 +18,16 @@ Teia germânico-nórdica de destino, causalidade e retorno das informações, or
 ## Contexto / Origem
 P2025-06-26 — 1ª Edição Estagiários do Kaos.
 
-## Etimologia e Grafias
-Forma preferida: **Wyrd / Urd (Teia do Destino)**.
+## Citações-chave
 
-## Fusão WD → Wyrd (decisão do curador, 2026-08-18)
+> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
 
-Após conferência com o vídeo da palestra, o curador confirmou que a forma correta é **somente "Wyrd"**. O termo **RC-560 (WD — computador quântico que organiza a genética) foi fundido neste verbete**: suas fontes (P2024-02-25, P2024-05-04) e relações (RC-559, RC-217, RC-628) foram absorvidas. RC-560 permanece como **remissão histórica** (`RC-560 —variação→ RC-658`), sem nó autônomo. A fusão revoga a orientação anterior de "não fundir sem decisão específica" — decisão agora tomada pelo curador.
+- «os antielétrons do universo vizinho, ou seja, aos pósitrons, porque pósitron, ou seja, antielétron e os elétrons do nosso universo, juntando tudo isso aí corresponderia os neurônios do crânio da mente do criador que caiu e tudo que tinha na sua mente, ou seja, fazendo analogia com o crânio humano e […]» — *ver:* **Ampliação — P2023-07-09 (A Wyrd Quântica, o Processador V…**
+- «Ele junto com a ajuda de Vdo, pois sua descendência via Nix era via eles então criaram uma um genuo, uma loca específica para, entre aspas reter esse mecanismo, esse campo quântico, virou uma espécie de uma loca de muito especial, diferente das outras, porque ali não existiam seres, era uma loca eh […]» — *ver:* **Ampliação — P2022-10-01 (A Wyrd e a Espiritualidade)** U0002
+- «A partir desse ponto em que houve essa organização, todos os seres ficaram associados aos campos de registro comportamental das estirps e o sistema automatizou-se, como eu disse antes, saindo do controle mental operacional de horlog, ainda que os demais seres jamais souberam que a interface então […]» — *ver:* **Ampliação — P2022-10-01 (A Wyrd e a Espiritualidade)** U0002
 
+
+> Notas de processo: 4 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-658.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
 
 ## Ampliação
 ### P2026-07-25
@@ -91,35 +94,6 @@ Após conferência com o vídeo da palestra, o curador confirmou que a forma cor
 - **[P2023-10-14 · O ESTUDO DA WER COMO ÚNICO ACESSO À QUESTÃO DO DESTINO]** "Só o estudo da WER, que é uma teia quântica da mitologia nórdica, no âmbito do entendimento das runas, como elas eram empregadas lá atrás, permitem uma visão profunda sobre essa questão." (U0033)
 ---
 
-## Atualização
-### P2023-12-02 (Thot, o Enigmático Hermes Trismegisto)
-
-- **Contexto Orlog/nornas (P2023-05-13) e Sete Leis (P2023-12-02):** a teia do destino (Wyrd/Urd) ecoa nas **leis de ritmo e causa e efeito** das Sete Leis Herméticas (RC-763) — "o que você pensa, você cria; o que você sente, você atrai" (nova aresta RC-763 ↔ RC-658);
-- **"Hen-Orl" [REVISAR → ENCERRADO 2026-09-06 · F041-L5: RATIFICADO — o cadastro tem primazia; registra-se o processo do autor sem harmonização artificial — ver nota]:** noção citada junto a Moros (RC-454) — possível fonema relacionado a Orlog (registrar em Colecionar Incertezas);
-- Não há alteração da grafia canônica (Wyrd/Urd; RC-560 permanece remissão histórica).
-
----
-
-### P2025-11-29 (A Revelação de Ifá e o Destino dos Seres)
-
-- **Wyrd registrou cada consciência:** "Orunmilá criou esses caminhos possíveis de serem percorridos a partir do que a Wyrd registrou de cada consciência que passou a existir particularizada";
-- **Destino e retorno:** "só retorna o ser cumprindo um determinado destino" — os 256 caminhos (RC-767) como desdobramento da teia;
-- **Reforço da fusão histórica:** "WERT/Werd" [STT = Wyrd] — RC-560 permanece remissão histórica; grafia canônica Wyrd/Urd mantida;
-- Nova aresta RC-665 ↔ RC-658 (Orunmilá ~ Wyrd); RC-760 ↔ RC-658 (Vrittis ~ Wyrd).
-
----
-
-## Reforço
-### P2025-07-18 — sincronicidade, Wyrd/Urd e processadores do destino
-
-- **[P2025-07-18 · U00009–U00012] Sincronicidade profetizável:** o expositor parte de Jung e define sincronicidade como coincidência significativa, relacionando-a a intenção, campos mentais, informação e encruzilhadas. Esta é uma **nota cruzada** com RC-611 e RC-718, não um novo termo ou código.
-- **[P2025-07-18 · U00014–U00016] A teia como organização:** Moros/Orlog é descrito como criador de um processador em que a informação que sai de um ser retorna a ele; o mecanismo é apresentado como organização do fluxo, não como justiça divina. A fala nomeia três processadores/seres com formas STT próximas de `Urdre`, `Vivendre` e `Scud/Schuld`.
-- **Grafia e escopo:** a forma canônica **Wyrd/Urd** permanece. As formas dos componentes são preservadas como variações a revisar e não são automaticamente apagadas ou convertidas em novos seres.
-- **Quarentena:** a relação entre intenção, fóton, matéria e não-localidade é leitura cosmológica do expositor; não é afirmação de física estabelecida.
----
----
----
-
 ## Ampliação
 ### P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
 
@@ -151,6 +125,38 @@ Tudo.» (U0037) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, t
 - **[Elétrons e antielétrons como partes vivas da mente do criador caído]** «os antielétrons do universo vizinho, ou seja, aos pósitrons, porque pósitron, ou seja, antielétron e os elétrons do nosso universo, juntando tudo isso aí corresponderia os neurônios do crânio da mente do criador que caiu e tudo que tinha na sua mente, ou seja, fazendo analogia com o crânio humano e 100 bilhões de neurônios, foi sugado para dentro da criação. O eu dele veio junto. As elétrons do nosso universo e antielétrons desse universo vizinho corresponderiam as partes vivas da mente do criador que se despedaçou quando da sua queda. E como todos esses elementos um dia estiveram reunidos na mente desse criador caído, ainda que agora para esses elementos estivessem aparentemente dispersos e despedaçados num universo e no outro universo, mas cada um deles está indelevelmente ligado aos outros.» — ver RC-162 (Elétron), RC-636 (Duas Pulsações).
 - **[Wyrd — não é karma, não é justiça]** «tem nada a ver com essa questão de karma. Não tem nada a ver no sentido de que Orlog jamais criou aquilo com vistas a algum sentido de karma. Porque o sentido de karma veio surgir muito, muito, muito mais recentemente, ancorado nos mecanismos de ação e reação que são produzidos pela te» — distinção fundamental: Wyrd ≠ karma ≠ justiça divina.
 - **[Dois oceanos de elétrons/antielétrons interligados]** «são dois oceanos de elétron de antielétron, mas cada um ligado e os dois interligados porque pertencem à mesma fonte e memorizam tudo que o que vivenciam» — ver RC-637 (Transferência da Memória dos Antielétrons).
+
+## Atualização
+### P2023-12-02 (Thot, o Enigmático Hermes Trismegisto)
+
+- **Contexto Orlog/nornas (P2023-05-13) e Sete Leis (P2023-12-02):** a teia do destino (Wyrd/Urd) ecoa nas **leis de ritmo e causa e efeito** das Sete Leis Herméticas (RC-763) — "o que você pensa, você cria; o que você sente, você atrai" (nova aresta RC-763 ↔ RC-658);
+- **"Hen-Orl" [REVISAR → ENCERRADO 2026-09-06 · F041-L5: RATIFICADO — o cadastro tem primazia; registra-se o processo do autor sem harmonização artificial — ver nota]:** noção citada junto a Moros (RC-454) — possível fonema relacionado a Orlog (registrar em Colecionar Incertezas);
+- Não há alteração da grafia canônica (Wyrd/Urd; RC-560 permanece remissão histórica).
+
+---
+
+### P2025-11-29 (A Revelação de Ifá e o Destino dos Seres)
+
+- **Wyrd registrou cada consciência:** "Orunmilá criou esses caminhos possíveis de serem percorridos a partir do que a Wyrd registrou de cada consciência que passou a existir particularizada";
+- **Destino e retorno:** "só retorna o ser cumprindo um determinado destino" — os 256 caminhos (RC-767) como desdobramento da teia;
+- **Reforço da fusão histórica:** "WERT/Werd" [STT = Wyrd] — RC-560 permanece remissão histórica; grafia canônica Wyrd/Urd mantida;
+- Nova aresta RC-665 ↔ RC-658 (Orunmilá ~ Wyrd); RC-760 ↔ RC-658 (Vrittis ~ Wyrd).
+
+---
+
+## Reforço
+### P2025-07-18 — sincronicidade, Wyrd/Urd e processadores do destino
+
+- **[P2025-07-18 · U00009–U00012] Sincronicidade profetizável:** o expositor parte de Jung e define sincronicidade como coincidência significativa, relacionando-a a intenção, campos mentais, informação e encruzilhadas. Esta é uma **nota cruzada** com RC-611 e RC-718, não um novo termo ou código.
+- **[P2025-07-18 · U00014–U00016] A teia como organização:** Moros/Orlog é descrito como criador de um processador em que a informação que sai de um ser retorna a ele; o mecanismo é apresentado como organização do fluxo, não como justiça divina. A fala nomeia três processadores/seres com formas STT próximas de `Urdre`, `Vivendre` e `Scud/Schuld`.
+- **Grafia e escopo:** a forma canônica **Wyrd/Urd** permanece. As formas dos componentes são preservadas como variações a revisar e não são automaticamente apagadas ou convertidas em novos seres.
+- **Quarentena:** a relação entre intenção, fóton, matéria e não-localidade é leitura cosmológica do expositor; não é afirmação de física estabelecida.
+---
+---
+---
+
+## Etimologia e Grafias
+Forma preferida: **Wyrd / Urd (Teia do Destino)**.
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -200,13 +206,7 @@ Tudo.» (U0037) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, t
 |---|---|---|
 | P2023-07-09 | A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
 
-## Citações-chave
+## Fusão WD → Wyrd (decisão do curador, 2026-08-18)
 
-> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+Após conferência com o vídeo da palestra, o curador confirmou que a forma correta é **somente "Wyrd"**. O termo **RC-560 (WD — computador quântico que organiza a genética) foi fundido neste verbete**: suas fontes (P2024-02-25, P2024-05-04) e relações (RC-559, RC-217, RC-628) foram absorvidas. RC-560 permanece como **remissão histórica** (`RC-560 —variação→ RC-658`), sem nó autônomo. A fusão revoga a orientação anterior de "não fundir sem decisão específica" — decisão agora tomada pelo curador.
 
-- «os antielétrons do universo vizinho, ou seja, aos pósitrons, porque pósitron, ou seja, antielétron e os elétrons do nosso universo, juntando tudo isso aí corresponderia os neurônios do crânio da mente do criador que caiu e tudo que tinha na sua mente, ou seja, fazendo analogia com o crânio humano e […]» — *ver:* **Ampliação — P2023-07-09 (A Wyrd Quântica, o Processador V…**
-- «Ele junto com a ajuda de Vdo, pois sua descendência via Nix era via eles então criaram uma um genuo, uma loca específica para, entre aspas reter esse mecanismo, esse campo quântico, virou uma espécie de uma loca de muito especial, diferente das outras, porque ali não existiam seres, era uma loca eh […]» — *ver:* **Ampliação — P2022-10-01 (A Wyrd e a Espiritualidade)** U0002
-- «A partir desse ponto em que houve essa organização, todos os seres ficaram associados aos campos de registro comportamental das estirps e o sistema automatizou-se, como eu disse antes, saindo do controle mental operacional de horlog, ainda que os demais seres jamais souberam que a interface então […]» — *ver:* **Ampliação — P2022-10-01 (A Wyrd e a Espiritualidade)** U0002
-
-
-> Notas de processo: 4 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-658.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

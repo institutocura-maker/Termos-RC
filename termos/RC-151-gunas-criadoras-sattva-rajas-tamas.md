@@ -24,11 +24,8 @@ Segundo o entendimento dos arianos-hindus, **Rajas, Sattva e Tamas são as três
 ## Contexto / Origem
 As Gunas explicam a física da Criação "indevida" associada à mitologia hindu: a energia Rajásica de Prabrajna criou os quarks (e, com distúrbios, os elétrons); Mavatna usou a energia Sattva para criar os glúons e organizar a energia Rajas (as quatro forças fundamentais); a energia Tamas de Savna é a desagregadora, que faz tudo nascer com o "germe" da própria morte e presidirá a finalização do universo. Os hindus relacionam Brahma, Vishnu e Shiva às energias Rajas, Sattva e Tamas, respectivamente — os três pilares de criação.
 
-## Etimologia e Grafias
-- **Grafia preferida:** Gunas
-- **Variações:** as três Gunas; energias Rajas, Sattva e Tamas; gunas criadoras
-- **Origem:** sânscrito (guṇa = qualidade/atributo)
-
+## Citações-chave
+> "Portanto, associando os conhecimentos arianos-hindus e científicos, tudo o que é visível no universo corresponde a apenas 5% (energia Rajas, de Prabrajna) de toda a matéria/energia que existe, e que, do restante, 27% corresponde à matéria escura (energia Sattva, de Mavatna) e 68% corresponde à energia escura (energia Tamas, de Savna)." — B024, cap. 3
 
 ## Ampliação
 ### B024 (A Epopeia dos Agentes da Vida Universal)
@@ -60,16 +57,24 @@ As Gunas explicam a física da Criação "indevida" associada à mitologia hindu
 - **[A tamásica impera desde os 9 bilhões de anos] (U0006)** «Então, nos primeiros 9 bilhões de anos da criação do universo, o Big Bang manteve uma velocidade, vamos assim dizer, de expansão.» + «Mas de 9 bilhões de anos para cá começou a ter uma um aumento na velocidade da acelerou, a expansão acelerou e tá tudo se destruindo mais rapidamente.» — "Isso quer dizer que o império da energia básica começou a ser exercido depois de 9 bilhões de anos após o início do universo e nós já estamos a 13.7 13.8"; "das três forças essa é a mais forte"; o carimbo que garante que aquilo acaba é de Sávna (que mergulhou antes de Mavatma, ainda no tempo em que Prabrágina caído se reconstruíra como Brama).
 - **[A força tamásica: a força escura que desagrega] (U0006)** «Ou seja, ela mexe desse nível aí até a força gravitacional mais forte no sentido de ser algo anti gravitacional, ou seja, a força tamática é aquela força escura que faz com que tudo se desagregue.» — mexe nas forças nuclear forte e fraca, nos três quarks que formam prótons e nêutrons; "é uma coisa que você vai ter que lidar com ela até o fim da história desse universo"; ninguém sabe "o que é que essa força vai fazer daqui a 297 milhões de minutos do tempo terreno ou 243 milhões de dias do tempo terreno" (U0006: «e dizer com precisão o que é que essa força vai fazer daqui a 297 milhões de minutos do tempo terreno ou 243 milhões de dias do tempo terreno.»); "Não há ninguém no paraíso" que compreenda todas as implicações dela (U0006: «Não há ninguém no paraíso.»).
 
-## Fontes
-| Obra (sigla) | Capítulo | Página | Tipo |
-|---|---|---|---|
-| P2021-04-10 | O Fechamento dos Portais e o Impasse no Exílio Espiritual de Len Mion — Aprofundamento (palestra) | — | transcrição automatizada; citação |
-| P2012-02-19 | Xadrez Cósmico de Brahma, Vishnu e Shiva (palestra) | — | transcrição automatizada; citação |
-| A Epopeia dos Agentes da Vida Universal (B024) | cap. 3 (As Gunas Criadoras) | pp. 32–36 (aprox.) | capítulo inteiro dedicado |
-| P2024-02-03 | O Jainismo e o Druidismo Ancestrais (palestra) | — | — |
+## Atualização
+### P2024-09-28 (A Raça Inabalável dos Sethianos Emancipados)
 
-## Citações-chave
-> "Portanto, associando os conhecimentos arianos-hindus e científicos, tudo o que é visível no universo corresponde a apenas 5% (energia Rajas, de Prabrajna) de toda a matéria/energia que existe, e que, do restante, 27% corresponde à matéria escura (energia Sattva, de Mavatna) e 68% corresponde à energia escura (energia Tamas, de Savna)." — B024, cap. 3
+- **Força entrópica = força tamásica de Shiva:** "a força tamásica de Shiva é a entropia dessa criação... existe uma lei entrópica que diz que o que cai de entropia num sistema, ninguém consegue mexer nessa equação" (RC-160 — nova aresta RC-160 ↔ RC-151);
+- Shiva como "reciclagem vinculada à entropia cósmica, vinculada à força tamásica" (reforço de P2023-12-02).
+
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-151.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
+## Etimologia e Grafias
+- **Grafia preferida:** Gunas
+- **Variações:** as três Gunas; energias Rajas, Sattva e Tamas; gunas criadoras
+- **Origem:** sânscrito (guṇa = qualidade/atributo)
+
+
+## Seres Associados
+Brahma (RC-037); Vishnu (RC-135); Shiva (RC-102).
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -83,20 +88,15 @@ As Gunas explicam a física da Criação "indevida" associada à mitologia hindu
 | Elétrons (agente básico da vida universal) | RC-162 | criados pela vibração Rajas |
 | Sankalpa (força de vontade e conhecimento que produz milagres) | RC-853 | associado |
 
-## Seres Associados
-Brahma (RC-037); Vishnu (RC-135); Shiva (RC-102).
-
 ## Observações
 Ficha baseada em B024 (obra primária). As porcentagens (5/27/68) vêm do cruzamento com a cosmologia científica; verificar a numeração exata no livro (há passagens com 4% de variação).
 
 ---
 
-## Atualização
-### P2024-09-28 (A Raça Inabalável dos Sethianos Emancipados)
-
-- **Força entrópica = força tamásica de Shiva:** "a força tamásica de Shiva é a entropia dessa criação... existe uma lei entrópica que diz que o que cai de entropia num sistema, ninguém consegue mexer nessa equação" (RC-160 — nova aresta RC-160 ↔ RC-151);
-- Shiva como "reciclagem vinculada à entropia cósmica, vinculada à força tamásica" (reforço de P2023-12-02).
-
-
-> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-151.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo |
+|---|---|---|---|
+| P2021-04-10 | O Fechamento dos Portais e o Impasse no Exílio Espiritual de Len Mion — Aprofundamento (palestra) | — | transcrição automatizada; citação |
+| P2012-02-19 | Xadrez Cósmico de Brahma, Vishnu e Shiva (palestra) | — | transcrição automatizada; citação |
+| A Epopeia dos Agentes da Vida Universal (B024) | cap. 3 (As Gunas Criadoras) | pp. 32–36 (aprox.) | capítulo inteiro dedicado |
+| P2024-02-03 | O Jainismo e o Druidismo Ancestrais (palestra) | — | — |

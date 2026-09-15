@@ -18,9 +18,8 @@ Revelação atribuída a Orunmilá sobre destinos que precisam ser cumpridos pel
 ## Contexto / Origem
 Extraído da live P2025-10-25 — 2ª Edição Estagiários do Kaos.
 
-## Etimologia e Grafias
-- Forma preferida: **Revelação de Ifá e Destinação dos Seres**.
-
+## Citações-chave
+> Ver P2025-10-25.
 
 ## Ampliação
 ### P2026-07-25
@@ -53,54 +52,6 @@ Extraído da live P2025-10-25 — 2ª Edição Estagiários do Kaos.
 
 - **[Ifá e a destinação dos seres] (U0003)** «Ela tem como base 256 caminhos profetizáveis ou caminhos chamados de odus na linguagem iorubá, que foi produzida em torno dessa visão mais profunda.» — a revelação de Ifá (RC-655) tem '256 caminhos profetizáveis' (odus, em iorubá): a destinação dos seres — distinta do profetismo de obediência judaico-cristão.
 
-## Fontes
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2025-05-10 | Mistérios do Apocalipse (palestra) | — | transcrição automatizada; citação |
-| P2025-10-25 | ver dossiê e transcrição | live/STT |
-
-## Citações-chave
-> Ver P2025-10-25.
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Hiperbórea | RC-068 | ← relaciona-se-a |
-| Mentalma | RC-166 | ← relaciona-se-a |
-| Cidadão Cósmico | RC-226 | — |
-| Tirthankaras (Rishabh Dev, Jina Mahavira) | RC-397 | relaciona-se-a |
-| Hermes Trismegisto (= Ningishzidda/Thoth/Quetzalcóatl) | RC-463 | ← relaciona-se-a |
-| Tikun Cósmico (restabelecimento da Criação) | RC-514 | relaciona-se-a |
-| Verdade Posta × Verdade a Construir | RC-657 | ← relaciona-se-a |
-| Wyrd / Urd (Teia do Destino) | RC-658 | atualiza |
-| Wyrd / Urd (Teia do Destino) | RC-658 | atualiza |
-| Wyrd / Urd (Teia do Destino) | RC-658 | atualiza |
-| Wyrd / Urd (Teia do Destino) | RC-658 | atualiza |
-| Wyrd / Urd (Teia do Destino) | RC-658 | atualiza |
-| Orunmilá (Moros de Irém / Orum) | RC-665 | ← relaciona-se-a |
-| Obatalá (correspondência de Javé em Ifá) | RC-666 | ← relaciona-se-a |
-| Obatalá (correspondência de Javé em Ifá) | RC-666 | relaciona-se-a |
-| Ato de Verdade / Satyagraha | RC-705 | relaciona-se-a |
-| Sócios do Destino / Ausência de Justiça Externa | RC-720 | ← explicado-por |
-| Projeto Orunmilá–Olodus | RC-741 | ← produz |
-| Projeto Orunmilá–Olodus | RC-741 | ← relaciona-se-a |
-| Os 256 Caminhos Profetizáveis de Orunmilá | RC-767 | ← relaciona-se-a |
-| Os 256 Caminhos Profetizáveis de Orunmilá | RC-767 | relaciona-se-a |
-| Os 256 Caminhos Profetizáveis de Orunmilá | RC-767 | relaciona-se-a |
-
-## Seres Associados
-Consultar relações na Base.
-
-## Observações
-Termo candidato, sujeito a cruzamento com obras e palestras adicionais.
-
-## Reforço
-### P2024-11-30
-
-Ifá é apresentado como atualização humana de Wyrd por Orunmilá, com 16 Molés/Olodus `[REVISAR → RESOLVIDO 10/09/2026 · F038-L5: “Olodus” (16) é termo canônico (RC-741, Projeto Orunmilá–Olodus); “Molés” = forma STT paralela, preservada — ver nota]` e 256 caminhos. A distinção entre destino obrigatório e destino criado pelo eu é ampliada.
-
----
-
 ## Atualização
 ### P2024-09-28 (A Raça Inabalável dos Sethianos Emancipados)
 
@@ -128,6 +79,13 @@ Ifá é apresentado como atualização humana de Wyrd por Orunmilá, com 16 Mol�
 ---
 
 ## Reforço
+### P2024-11-30
+
+Ifá é apresentado como atualização humana de Wyrd por Orunmilá, com 16 Molés/Olodus `[REVISAR → RESOLVIDO 10/09/2026 · F038-L5: “Olodus” (16) é termo canônico (RC-741, Projeto Orunmilá–Olodus); “Molés” = forma STT paralela, preservada — ver nota]` e 256 caminhos. A distinção entre destino obrigatório e destino criado pelo eu é ampliada.
+
+---
+
+## Reforço
 ### P2025-07-18 — destino obrigatório e liberdade do presente
 
 - **[P2025-07-18 · U00016]** Na atualização atribuída a Orunmilá, a fala descreve a passagem de três processadores para **16 odus/olodus e 256 caminhos previsíveis**, vinculados às origens ancestrais e aos códigos que entrariam no universo biológico. O expositor afirma que determinados caminhos seriam destinos a cumprir, enquanto o ser humano que não gera novas pendências poderia construir outra destinação no presente.
@@ -137,3 +95,45 @@ Ifá é apresentado como atualização humana de Wyrd por Orunmilá, com 16 Mol�
 
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-655.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o bloco citado desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
+## Etimologia e Grafias
+- Forma preferida: **Revelação de Ifá e Destinação dos Seres**.
+
+
+## Seres Associados
+Consultar relações na Base.
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Hiperbórea | RC-068 | ← relaciona-se-a |
+| Mentalma | RC-166 | ← relaciona-se-a |
+| Cidadão Cósmico | RC-226 | — |
+| Tirthankaras (Rishabh Dev, Jina Mahavira) | RC-397 | relaciona-se-a |
+| Hermes Trismegisto (= Ningishzidda/Thoth/Quetzalcóatl) | RC-463 | ← relaciona-se-a |
+| Tikun Cósmico (restabelecimento da Criação) | RC-514 | relaciona-se-a |
+| Verdade Posta × Verdade a Construir | RC-657 | ← relaciona-se-a |
+| Wyrd / Urd (Teia do Destino) | RC-658 | atualiza |
+| Wyrd / Urd (Teia do Destino) | RC-658 | atualiza |
+| Wyrd / Urd (Teia do Destino) | RC-658 | atualiza |
+| Wyrd / Urd (Teia do Destino) | RC-658 | atualiza |
+| Wyrd / Urd (Teia do Destino) | RC-658 | atualiza |
+| Orunmilá (Moros de Irém / Orum) | RC-665 | ← relaciona-se-a |
+| Obatalá (correspondência de Javé em Ifá) | RC-666 | ← relaciona-se-a |
+| Obatalá (correspondência de Javé em Ifá) | RC-666 | relaciona-se-a |
+| Ato de Verdade / Satyagraha | RC-705 | relaciona-se-a |
+| Sócios do Destino / Ausência de Justiça Externa | RC-720 | ← explicado-por |
+| Projeto Orunmilá–Olodus | RC-741 | ← produz |
+| Projeto Orunmilá–Olodus | RC-741 | ← relaciona-se-a |
+| Os 256 Caminhos Profetizáveis de Orunmilá | RC-767 | ← relaciona-se-a |
+| Os 256 Caminhos Profetizáveis de Orunmilá | RC-767 | relaciona-se-a |
+| Os 256 Caminhos Profetizáveis de Orunmilá | RC-767 | relaciona-se-a |
+
+## Observações
+Termo candidato, sujeito a cruzamento com obras e palestras adicionais.
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2025-05-10 | Mistérios do Apocalipse (palestra) | — | transcrição automatizada; citação |
+| P2025-10-25 | ver dossiê e transcrição | live/STT |

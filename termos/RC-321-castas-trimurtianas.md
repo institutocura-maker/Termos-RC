@@ -18,10 +18,8 @@ O sistema de castas conforme revelado em *O Dharma e as Castas Hindus* (B023, ca
 ## Contexto / Origem
 O sistema de castas chegaria aos humanos via descendentes de Gomer (ancestral dos arianos) e a civilização Saraswati, da qual emergiria o reino de Bharata (Índia). As castas arianas (hoje hindus) foram "sempre utilizadas para o refino de certas áreas do genoma demo-homo". A estrutura varna (brâmanes, xátrias, vaixás, sudras) é a expressão terrena desse sistema — ligada à timé/varna dos deuses (B021).
 
-## Etimologia e Grafias
-- **Grafia preferida:** Castas Trimurtianas
-- **Variações:** sistema de castas; castas arianas/hindus; varna (sânscrito); brâmanes/xátrias/vaixás/sudras
-
+## Citações-chave
+> "O sistema de castas surgiu pela primeira vez, na Terra, em dois focos de aglomerados não humanos: um situado entre os povos hiperbóreos, no Norte, e um outro da tradição Kumari Kandan, no sul da Índia, em terras que, naqueles tempos (cerca de 20 mil anos atrás), ligavam o sul do continente indiano com a atual ilha do Sri Lanka." — B023, cap. 4
 
 ## Ampliação
 ### B023 (O Dharma e as Castas Hindus)
@@ -45,18 +43,13 @@ O sistema de castas chegaria aos humanos via descendentes de Gomer (ancestral do
 - **[Varna: talento e casta, palavra sânscrita] (U0051)** «Varna é um tipo de talento. É uma palavra sânscrita que serve para definir talento e casta.» — os demos nascem "totalmente lerdos e não evoluem, ou com um varna, um talento determinado" (paráfrase U0030); o guerreiro demo "tem que ser programado" — xatria (paráfrase U0030); "as fórmulas mentais que pontuaram tais quais modelos de consumo a esquisita evolução demo" (paráfrase U0063); RC-321 Castas Trimurtianas; RC-322 Dharma e Castas.
 
 
-## Fontes
-| Obra (sigla) | Capítulo | Página | Tipo |
-|---|---|---|---|
-| P2021-02-28 | Tragédia Anunciada - As Fórmulas Mentais do Poder Demo (palestra) | — | transcrição automatizada; citação |
-| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra) | — | transcrição automatizada; citação |
-| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra) | — | transcrição automatizada; citação |
-| O Dharma e as Castas Hindus (B023) | caps. 4, 7 | pp. 40–60, 85–100 (aprox.) | capítulo dedicado |
+## Etimologia e Grafias
+- **Grafia preferida:** Castas Trimurtianas
+- **Variações:** sistema de castas; castas arianas/hindus; varna (sânscrito); brâmanes/xátrias/vaixás/sudras
 
 
-
-## Citações-chave
-> "O sistema de castas surgiu pela primeira vez, na Terra, em dois focos de aglomerados não humanos: um situado entre os povos hiperbóreos, no Norte, e um outro da tradição Kumari Kandan, no sul da Índia, em terras que, naqueles tempos (cerca de 20 mil anos atrás), ligavam o sul do continente indiano com a atual ilha do Sri Lanka." — B023, cap. 4
+## Seres Associados
+Trimurti (RC-104); Senhores do Dharma (RC-320); Seres Terrenos (RC-099).
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -75,9 +68,16 @@ O sistema de castas chegaria aos humanos via descendentes de Gomer (ancestral do
 | Disforia de gênio (a confiança ilimitada na pretensa capacidade) | RC-878 | associado |
 | Savant (a genialidade preservada além do autismo num grau; figura útil no final) | RC-885 | associado |
 
-## Seres Associados
-Trimurti (RC-104); Senhores do Dharma (RC-320); Seres Terrenos (RC-099).
-
 ## Observações
 Ficha baseada em B023 (obra primária). As castas como "engenharia genética demo-homo" é uma das teses mais ousadas do corpus. Cruzar com RC-329/RC-330 e RC-327.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo |
+|---|---|---|---|
+| P2021-02-28 | Tragédia Anunciada - As Fórmulas Mentais do Poder Demo (palestra) | — | transcrição automatizada; citação |
+| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra) | — | transcrição automatizada; citação |
+| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra) | — | transcrição automatizada; citação |
+| O Dharma e as Castas Hindus (B023) | caps. 4, 7 | pp. 40–60, 85–100 (aprox.) | capítulo dedicado |
+
+

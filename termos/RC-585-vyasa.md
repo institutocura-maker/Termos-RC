@@ -18,10 +18,8 @@ Sábio associado à transmissão do Mahabharata e às tradições védicas; na p
 ## Contexto / Origem
 Aparece na quarta era equinocial junto aos Rishis, Kshatriyas e Brahmanes.
 
-## Etimologia e Grafias
-- Grafia preferida: Vyasa. STT: Viaza.
-- **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
-
+## Citações-chave
+> ““Antes mesmo de Vyasa surgir [...] o espírito que foi Vyasa [...] estava encarnado antes como Heber.”” — P2022-12-17, U0768–U0775; U0793
 
 ## Ampliação
 ### P2024-02-25
@@ -83,18 +81,19 @@ Aparece na quarta era equinocial junto aos Rishis, Kshatriyas e Brahmanes.
 
 - **[Vyasa — o codificador] (U0003)** «A única pista que a racionalidade que hoje nós humanos temos dispõe para entender essa questão, É exatamente a história por trás da confecção do marrabarata, que é um dos épicos da literatura hindu, quando Krishna do Apaiana, que depois viria a ser conhecido como Viaza, Viaza não é um nome, é um epíteto.» — Vyasa (STT "Viaza") é epíteto: "via" = o codificador (mesmo termo dado a Allan Kardec).
 
-## Fontes
-| Obra/palestra | Localização | Tipo |
-|---|---|---|
-| P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
-| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
-| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
-| P2022-12-17 — O Incompreendido Ano de 2012 e a Falsa Noção do Fim do Mundo | U0768–U0775; U0793 | transcrição automatizada; paráfrase e citação |
+## Reforço
+### vínculo com Moros / P2024-11-30
+
+Vyasa é apresentado como expressão humana/Rishi ligada ao espírito primário de Moros, capaz de traduzir conhecimento para diferentes lokas e produzir versões do Mahabharata, Puranas e Vedas. A relação é `vinculado-ao-espírito`, não identidade simples de nomes.
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
+## Etimologia e Grafias
+- Grafia preferida: Vyasa. STT: Viaza.
+- **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
 
 
-
-## Citações-chave
-> ““Antes mesmo de Vyasa surgir [...] o espírito que foi Vyasa [...] estava encarnado antes como Heber.”” — P2022-12-17, U0768–U0775; U0793
+## Seres Associados
+Heber (patriarca pós-dilúvio) (RC-436); Rishis (RC-586)
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -115,16 +114,17 @@ Aparece na quarta era equinocial junto aos Rishis, Kshatriyas e Brahmanes.
 | Mahabharata | RC-593 | ← associado-a |
 | Cumprimento da Profecia de Moros pela Revelação Cósmica | RC-718 | ← envolve |
 
-## Seres Associados
-Heber (patriarca pós-dilúvio) (RC-436); Rishis (RC-586)
-
 ## Observações
 A relação Heber–Vyasa foi validada contextualmente pelo curador, mas continua candidata por depender da transcrição.
 
 **Regra de status:** permanece ⚪ candidato porque a fonte é STT sem áudio anexado. A aprovação do curador valida a modelagem terminológica, não substitui a futura conferência com áudio ou obra primária.
 
-## Reforço
-### vínculo com Moros / P2024-11-30
+## Fontes
+| Obra/palestra | Localização | Tipo |
+|---|---|---|
+| P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
+| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
+| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
+| P2022-12-17 — O Incompreendido Ano de 2012 e a Falsa Noção do Fim do Mundo | U0768–U0775; U0793 | transcrição automatizada; paráfrase e citação |
 
-Vyasa é apresentado como expressão humana/Rishi ligada ao espírito primário de Moros, capaz de traduzir conhecimento para diferentes lokas e produzir versões do Mahabharata, Puranas e Vedas. A relação é `vinculado-ao-espírito`, não identidade simples de nomes.
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+

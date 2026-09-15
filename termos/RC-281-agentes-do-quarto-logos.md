@@ -36,11 +36,6 @@ Fonte única (B014). O Quarto Logos é o único dos quatro que não mergulhou no
 - RC-256 — ver ficha correspondente
 - RC-071 — ver ficha correspondente
 
-## Fontes
-| Obra/palestra | Localização | Tipo |
-|---|---|---|
-| B014 | — | registro-mestre (fonte censada) |
-
 ## Observações
 Fonte única (B014) — manter sob [REVISAR] até nova evidência. Verbete de apoio à seção III.13.5 (Consciências coletivas e Logos).
 
@@ -48,3 +43,8 @@ Fonte única (B014) — manter sob [REVISAR] até nova evidência. Verbete de ap
 
 
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-281.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
+
+## Fontes
+| Obra/palestra | Localização | Tipo |
+|---|---|---|
+| B014 | — | registro-mestre (fonte censada) |

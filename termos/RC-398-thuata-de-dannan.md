@@ -28,10 +28,13 @@ Com isso:
 
 **Origem do conteúdo da ampliação:** palestra `P2017-10-14 — Da Base Atlan ao Colégio Druídico` (14/10/2017). Transcrição automatizada, **não conferida com o áudio**; cada aspa foi recortada do `original.txt` pelo índice de âncoras do motor e conferida byte a byte pelo portão B. Nada foi digitado de memória.
 
-## Observações sobre o Estado da Malha
+## Citações-chave
 
-* **Grafia STT:** 'toatas de ganã' = Thuata de Dannan. Chegaram queimando os navios; astralizaram-se em fadas/gnomos.
-* **Trava aplicável**: nenhuma além das gerais do despacho.
+> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+
+- «os toatas de Danã, que há 14.000 anos atrás, quando saíram do hiperbório que havia sucumbido a certos cataclismas e chegaram no norte da Escócia, No norte da Irlanda, eles elevaram quatro objetos, entre aspas, sagrados para a cultura dos hiperbórios. O caldeirão do deus de Águeda, a lança do rei […]» — *ver:* **Ampliação — P2022-09-18 (as quatro relíquias; cotejo F030…** U0002
+- «A história da mitologia irlandesa diz que os filhos de já existiam lá, mas que tiveram que conviver com a chegada de povos que não eram humanos, chamado partolanos, nemedianos, formorianos, toatas de ganã.» — *ver:* **Ampliação — P2017-10-14 (Da Base Atlan ao Colégio Druídico)** U0166
+
 
 ## Ampliação
 ### P2017-10-14 (Da Base Atlan ao Colégio Druídico)
@@ -44,14 +47,6 @@ Com isso:
 - **Precisão mitográfica (o STT lido com a bússola F030 — o refatorado NÃO é fonte):** «deus de Águeda» = **caldeirão de Dagda**; «rei Lug» = **lança de Lugh**; «rei doado» = **espada de Nuada**; «pedra falante» = **Pedra do Destino (Fál)**, a pedra que nomeava o rei na sucessão. O estudo de terceiros (F030, Daniela D. Ferro) reproduz as mesmas quatro relíquias na ordem Pedra/lança/espada/caldeirão — convergência registrada; a degradação fonética do STT é corrigida pela própria fala, não pelo doc.
 - **Trava (navalha mantida — decisão homologada em 05/09/2026):** **nenhum código novo** para as relíquias nem para a Pedra de Scone (mesma decisão do ciclo P2022-09-18, reafirmada na devolutiva do F030). Este bloco contextualiza as fichas RC-398/RC-068; não cria verbete, não eleva STATUS.
 - **Datação do episódio:** «há 14.000 anos atrás» (a saída do hiperbório) é a âncora desta ficha — as datas "20 mil"/"15 mil" do refatorado F030 **não foram adotadas** (ledger D-9).
-
-## Fontes
-| Obra (sigla) | Título | Página | Tipo |
-|---|---|---|---|
-| P2017-10-14 | Da Base Atlan ao Colégio Druídico (palestra) | — | transcrição automatizada; citação |
-| P2022-09-18 | (palestra — bloco das relíquias hiperbóreas) | U0002 | transcrição automatizada; citação (vínculo aberto no cotejo F030, 05/09/2026) |
-| B050 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
-| B060 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -66,10 +61,15 @@ Com isso:
 | Milésios (raça da Irlanda) | RC-842 | relaciona-se-a |
 | Cidades Sagradas do Hiperbóreo | RC-932 | arquivado na fila (F031 aplicação; sem ficha) — Fálias/Górias/Mírias/Múrias/Solia/Exólia (P2024-03-17) |
 
-## Citações-chave
+## Fontes
+| Obra (sigla) | Título | Página | Tipo |
+|---|---|---|---|
+| P2017-10-14 | Da Base Atlan ao Colégio Druídico (palestra) | — | transcrição automatizada; citação |
+| P2022-09-18 | (palestra — bloco das relíquias hiperbóreas) | U0002 | transcrição automatizada; citação (vínculo aberto no cotejo F030, 05/09/2026) |
+| B050 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
+| B060 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
 
-> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+## Observações sobre o Estado da Malha
 
-- «os toatas de Danã, que há 14.000 anos atrás, quando saíram do hiperbório que havia sucumbido a certos cataclismas e chegaram no norte da Escócia, No norte da Irlanda, eles elevaram quatro objetos, entre aspas, sagrados para a cultura dos hiperbórios. O caldeirão do deus de Águeda, a lança do rei […]» — *ver:* **Ampliação — P2022-09-18 (as quatro relíquias; cotejo F030…** U0002
-- «A história da mitologia irlandesa diz que os filhos de já existiam lá, mas que tiveram que conviver com a chegada de povos que não eram humanos, chamado partolanos, nemedianos, formorianos, toatas de ganã.» — *ver:* **Ampliação — P2017-10-14 (Da Base Atlan ao Colégio Druídico)** U0166
-
+* **Grafia STT:** 'toatas de ganã' = Thuata de Dannan. Chegaram queimando os navios; astralizaram-se em fadas/gnomos.
+* **Trava aplicável**: nenhuma além das gerais do despacho.

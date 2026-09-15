@@ -28,11 +28,6 @@ Com isso:
 
 **Origem do conteúdo da ampliação:** palestra `P2018-12-15 — Terra Atlantis – Aprofundamento` (15/12/2018). Transcrição automatizada, **não conferida com o áudio**; cada aspa foi recortada do `original.txt` pelo índice de âncoras do motor e conferida byte a byte pelo portão B. Nada foi digitado de memória.
 
-## Observações sobre o Estado da Malha
-
-* **Grafia STT:** 'Aspesian' = Asphezian. Aportou em 'Zan' (Zian), 'um dos planetas em torno… de Capela'.
-* **Trava aplicável**: nenhuma além das gerais do despacho.
-
 ## Ampliação
 ### P2018-12-15 (Terra Atlantis – Aprofundamento)
 
@@ -47,12 +42,6 @@ Com isso:
 - **[B017 — mensagem dos rebeldes]** "A mensagem dos rebeldes forçou-nos também a destruir 'asphezian'."
 - **[Antlar (RC-022)]** rel sem aresta; passagem explícita da conversão do casco em Antlar não localizada em B017/B018 — sem aresta (aguarda evidência). B017/B018 não constam do cadastro de RC-025 (só B031 e P2018-12-15, esta sem pasta no acervo).
 
-## Fontes
-| Obra (sigla) | Título | Página | Tipo |
-|---|---|---|---|
-| P2018-12-15 | Terra Atlantis – Aprofundamento (palestra) | — | transcrição automatizada; citação |
-| B031 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
-
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
@@ -62,3 +51,14 @@ Com isso:
 | Quarto Logos (Olm / Codificador de Zian) | RC-092 | **sem aresta** em `RELACOES`; arquivo existe |
 | Trilogia Queda e Ascensão Espiritual | RC-354 | ← inclui |
 
+
+## Fontes
+| Obra (sigla) | Título | Página | Tipo |
+|---|---|---|---|
+| P2018-12-15 | Terra Atlantis – Aprofundamento (palestra) | — | transcrição automatizada; citação |
+| B031 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
+
+## Observações sobre o Estado da Malha
+
+* **Grafia STT:** 'Aspesian' = Asphezian. Aportou em 'Zan' (Zian), 'um dos planetas em torno… de Capela'.
+* **Trava aplicável**: nenhuma além das gerais do despacho.

@@ -18,10 +18,15 @@ A **entropia** é a medida do grau de **desorganização** de um sistema; a **ne
 ## Contexto / Origem
 A entropia está associada à energia Tamas (Savna/Shiva): é "uma energia desagregadora, a destruidora do universo, que faz com que tudo nasça com o 'germe' da sua própria morte; é um tipo de 'selo de garantia' do final de uma Criação que sequer deveria ter sido iniciada" (B024, cap. 3). O capítulo 14 explica a relação com a memória quântica dos elétrons e o destino final do universo.
 
-## Etimologia e Grafias
-- **Grafia preferida:** Entropia e Negentropia
-- **Variações:** entropia negativa (negentropia); desorganização entrópica
+## Citações-chave
 
+> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+
+- «Aí cerca de 21% de uma tal matéria escura que ninguém consegue detectar o que é, mas se detecta que existe, porque a matéria escura é o que mantém as galáxias funcionando, senão elas já teriam se desorganizado.» — *ver:* **Ampliação — P2023-02-12 (A Desconexão dos Desígnios Profé…** U0087
+- «Isso começou há cerca de 4 bilhões de anos atrás, quando o universo começou a se expandir até uma aceleração, a sua expansão se acelerou como forma de acabar mais cedo.» — *ver:* **Ampliação — P2022-12-03 (O Ocaso do Criador e a Rebelião …** U0020
+
+
+> Notas de processo: 3 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-160.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
 
 ## Ampliação
 ### P2022-09-24 (Sophia, os Arcontes e a Disputa pela Suzerania Universal)
@@ -63,37 +68,6 @@ A entropia está associada à energia Tamas (Savna/Shiva): é "uma energia desag
 - **[P2022-03-26 · ENTROPIA TRANSFERIDA: O RETRATO DE DORIAN GRAY COMO MECÂNICA]** "Nós, os humanos, morremos rápido. A entropia nos ferra logo para deixar os seres demos do universo vizinho viverem. E os biodemos também. E esses seres foram pagando o pato dessa entropia mais rápida." (U0009) — A fonte usa a literatura como modelo **físico** (a entropia vai para o retrato; o retrato é a humanidade). Registrar a comparação como ela é dita, sem transformá-la em alegoria moral.
 ---
 
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Shiva (Savna) | RC-102 | associado |
-| Agentes da Vida Universal | RC-148 | associado |
-| Gunas Criadoras (Sattva, Rajas, Tamas) | RC-151 | relaciona-se-a |
-| Memória Quântica dos Elétrons | RC-161 | associado |
-| Criaturas-ferramenta | RC-164 | associado |
-| Xamanismo Cósmico (comunicação e deslacre) | RC-577 | ← relaciona-se-a |
-| Tempo como Transformação / Permanente Agora | RC-634 | ← relaciona-se-a |
-| Ponto de Luz Humano / Ilha de Negentropia | RC-725 | ← é-ilha-de |
-| Ponto de Luz Humano / Ilha de Negentropia | RC-725 | manifesta-se-em |
-| DNA Insubmisso / Linhagem Pandora–Eva–Noreia | RC-727 | associado |
-| Pulsação Digna (a pulsação alinhada a conceitos supremos) | RC-865 | associado |
-| Transumanismo (o ponto de reencontro: IA humanizada e o novo batimento) | RC-874 | associado |
-| Rara (o ser de energia tamásica criado por Chiva para o sacrifício final; indestrutível) | RC-883 | associado |
-| Campo de Higgs (o campo de força mental de Mavatma que definiu o limite velocidade-da-luz) | RC-886 | associado |
-| Kris Amon (Krysamon NEAD) | RC-934 | associado |
-
-## Atualização
-### P2024-09-28 (A Raça Inabalável dos Sethianos Emancipados) — ABSORÇÃO NT-ST04 (RETRATO DE JAVÉ)
-
-- **"Nós somos o retrato de Javé" (Dorian Grey):** "esses seres do universo vizinho, para manterem vidas longas, quando criaram as vidas biológicas, fizeram com que as vidas biológicas fossem curtas, porque nós somos o retrato de Javé... nós envelhecemos e morremos várias vezes para manter Javé funcionando e todos os seres desse universo terem vidas de bilhões e milhões de anos";
-- **Truque entrópico:** "existe uma lei entrópica que diz que o que cai de entropia num sistema, ninguém consegue mexer nessa equação... 50 kg de entropia têm que cair... eu posso fazer com que 1 kg que ia cair em mim eu jogue para cima de Marcos" — Retrato de Dorian Grey (Oscar Wilde);
-- **Força entrópica = força tamásica de Shiva:** "a força tamásica de Shiva é a entropia dessa criação" (nova aresta RC-160 ↔ RC-151 Gunas);
-- **Fim do truque:** "isso acabou agora... a entropia tá caindo lá. O truque que eles fizeram acabou e por isso que eles estão todos colapsando loucamente";
-- **Entropia e programas encarnatórios:** "interfere nos programas encarnatórios dos espíritos... tem muitos riscos" — conexão com transumanismo (RC-644/092).
----
----
----
-
 ## Ampliação
 ### P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
 
@@ -125,12 +99,38 @@ A entropia está associada à energia Tamas (Savna/Shiva): é "uma energia desag
 
 - **[A entropia: a energia tamásica crescendo até 100%] (U0012)** «Quando ela chegar 100% você acaba tudo. Isso chama-se entropia.» — "eu vou aplicar a minha energia tamásica aqui leve, mas ela vai crescendo, crescendo, crescendo" (U0012: «Ela, então vamos dar um tempo, eu vou aplicar a minha energia tamásica aqui leve, mas ela vai crescendo, crescendo, crescendo.»); "É uma face da opia que garante que tudo aqui vai acabar tudo o quê?" (U0012: «É uma face da opia que garante que tudo aqui vai acabar tudo o quê?» — STT; sem emenda).
 
-## Citações-chave
+## Atualização
+### P2024-09-28 (A Raça Inabalável dos Sethianos Emancipados) — ABSORÇÃO NT-ST04 (RETRATO DE JAVÉ)
 
-> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+- **"Nós somos o retrato de Javé" (Dorian Grey):** "esses seres do universo vizinho, para manterem vidas longas, quando criaram as vidas biológicas, fizeram com que as vidas biológicas fossem curtas, porque nós somos o retrato de Javé... nós envelhecemos e morremos várias vezes para manter Javé funcionando e todos os seres desse universo terem vidas de bilhões e milhões de anos";
+- **Truque entrópico:** "existe uma lei entrópica que diz que o que cai de entropia num sistema, ninguém consegue mexer nessa equação... 50 kg de entropia têm que cair... eu posso fazer com que 1 kg que ia cair em mim eu jogue para cima de Marcos" — Retrato de Dorian Grey (Oscar Wilde);
+- **Força entrópica = força tamásica de Shiva:** "a força tamásica de Shiva é a entropia dessa criação" (nova aresta RC-160 ↔ RC-151 Gunas);
+- **Fim do truque:** "isso acabou agora... a entropia tá caindo lá. O truque que eles fizeram acabou e por isso que eles estão todos colapsando loucamente";
+- **Entropia e programas encarnatórios:** "interfere nos programas encarnatórios dos espíritos... tem muitos riscos" — conexão com transumanismo (RC-644/092).
+---
+---
+---
 
-- «Aí cerca de 21% de uma tal matéria escura que ninguém consegue detectar o que é, mas se detecta que existe, porque a matéria escura é o que mantém as galáxias funcionando, senão elas já teriam se desorganizado.» — *ver:* **Ampliação — P2023-02-12 (A Desconexão dos Desígnios Profé…** U0087
-- «Isso começou há cerca de 4 bilhões de anos atrás, quando o universo começou a se expandir até uma aceleração, a sua expansão se acelerou como forma de acabar mais cedo.» — *ver:* **Ampliação — P2022-12-03 (O Ocaso do Criador e a Rebelião …** U0020
+## Etimologia e Grafias
+- **Grafia preferida:** Entropia e Negentropia
+- **Variações:** entropia negativa (negentropia); desorganização entrópica
 
 
-> Notas de processo: 3 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-160.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Shiva (Savna) | RC-102 | associado |
+| Agentes da Vida Universal | RC-148 | associado |
+| Gunas Criadoras (Sattva, Rajas, Tamas) | RC-151 | relaciona-se-a |
+| Memória Quântica dos Elétrons | RC-161 | associado |
+| Criaturas-ferramenta | RC-164 | associado |
+| Xamanismo Cósmico (comunicação e deslacre) | RC-577 | ← relaciona-se-a |
+| Tempo como Transformação / Permanente Agora | RC-634 | ← relaciona-se-a |
+| Ponto de Luz Humano / Ilha de Negentropia | RC-725 | ← é-ilha-de |
+| Ponto de Luz Humano / Ilha de Negentropia | RC-725 | manifesta-se-em |
+| DNA Insubmisso / Linhagem Pandora–Eva–Noreia | RC-727 | associado |
+| Pulsação Digna (a pulsação alinhada a conceitos supremos) | RC-865 | associado |
+| Transumanismo (o ponto de reencontro: IA humanizada e o novo batimento) | RC-874 | associado |
+| Rara (o ser de energia tamásica criado por Chiva para o sacrifício final; indestrutível) | RC-883 | associado |
+| Campo de Higgs (o campo de força mental de Mavatma que definiu o limite velocidade-da-luz) | RC-886 | associado |
+| Kris Amon (Krysamon NEAD) | RC-934 | associado |

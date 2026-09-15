@@ -33,11 +33,6 @@ Com isso:
 > "As notícias daquela última aparição antes de Sua saída definitiva para a tal morada a qual Ele sempre se referira foi estrategicamente espalhada por entre os diversos núcleos de seguidores do Mestre, aos quais Pedro, André e Tiago — o Justo, irmão de Jesus — acharam por bem avisar. No meio das notícias, seguia a estranha referência que o Mestre fizera a meu irmão, o que levou muitos a pensarem que Jesus retornaria ainda ao tempo de vida de João. Eu mesmo fui um dos que tentou convencê-lo de que o sentido transmitido por Jesus era exatamente aquele, o que a princípio ele não concordou. Por aqueles dias, certo discípulo de Jesus, chamado Moab — um dos mais atuantes, mas cujo nome não ficou registrado nas páginas da história —, procurou-nos, pois José de Arimatéia assim o tinha orientado. Todos nós conhecíamos José de Arimatéia e lhe éramos muito gratos, já que durante todo o tempo em que convivemos com Jesus, pudemos perceber o quanto ele O estimava e como ajudava todos. Nos dias da crucificação, todas as providências de ajuda à família de Jesus e a nós, seus apóstolos, além de a muitos outros núcleos familiares que ficaram literalmente confusos e perdidos com a notícia da crucificação do Mestre, tiveram, na figura singular daquele homem, o foco generoso e prudente de tudo o que foi feito." — B011
 
 
-## Observações sobre o Estado da Malha
-
-* **Grafia STT:** 'José de Arimateia' / 'José deimateia' / 'José deat' = José de Arimatéia. 'Segundo pai' de Jesus; riquíssimo.
-* **Trava aplicável**: nenhuma além das gerais do despacho.
-
 ## Ampliação
 ### P2018-12-16 (Terra Atlantis - Era Sapiens)
 
@@ -48,6 +43,14 @@ Com isso:
 - **«José de Arimateia»** — «A Europa é uma viagem dos tempos em que José de Arimateia financiava. As caravanas...»
 - Aula 03 confirma o papel de **José de Arimateia** como financiador/tutor do Jesus jovem (as caravanas e as viagens) — já registrado na ficha (RC-376).
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Jesus | RC-072 | acompanha |
+| Revelação Cósmica (conceito) | RC-094 | **sem aresta** em `RELACOES`; arquivo existe |
+| Os 20 Anos de Jesus entre os Celtas | RC-373 | **sem aresta** em `RELACOES`; arquivo existe |
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
 ## Fontes
 | Obra (sigla) | Título | Página | Tipo |
 |---|---|---|---|
@@ -56,10 +59,7 @@ Com isso:
 | B043 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
 | B011 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
 
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Jesus | RC-072 | acompanha |
-| Revelação Cósmica (conceito) | RC-094 | **sem aresta** em `RELACOES`; arquivo existe |
-| Os 20 Anos de Jesus entre os Celtas | RC-373 | **sem aresta** em `RELACOES`; arquivo existe |
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+## Observações sobre o Estado da Malha
+
+* **Grafia STT:** 'José de Arimateia' / 'José deimateia' / 'José deat' = José de Arimatéia. 'Segundo pai' de Jesus; riquíssimo.
+* **Trava aplicável**: nenhuma além das gerais do despacho.

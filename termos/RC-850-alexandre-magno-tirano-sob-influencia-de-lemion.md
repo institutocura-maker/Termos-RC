@@ -28,10 +28,14 @@ Com isso:
 
 **Origem do conteúdo da ampliação:** palestra `P2023-08-27 — Len Mion e os Senhores da Terra Alexandre Magno e Qin Shi Huang Di` (27/08/2023). Transcrição automatizada, **não conferida com o áudio**; cada aspa foi recortada do `original.txt` pelo índice de âncoras do motor e conferida byte a byte pelo portão B. Nada foi digitado de memória.
 
-## Observações sobre o Estado da Malha
+## Citações-chave
 
-* **Grafia STT:** 'Alexandre Magno' (literal). O palestrante também o referencia como 'Alexandre' e 'o rapaz' cujo DNA Lemion analisou antes de conceber o projeto de dominar o mundo.
-* **Trava aplicável**: nenhuma além das gerais do despacho.
+> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+
+- «E ele quando viu Alexandre Magno que analisou o DNA do rapaz, pessoal, esse aqui é o melhor DNA humano que até então o nosso amigo Lemion havia visto no sentido de melhor DNA humano paraa lógica dele, não entre no mérito.» — *ver:* **Ampliação — P2023-08-27 (Len Mion e os Senhores da Terra …** U0004
+- «Alexandre Magno, quando tinha 8, 9, 10, 11, 12, 13, 14, 15, 16 anos, até os 16 anos ele foi educado por Aristóteles, mas não foi só ele, ele e mais vários amigos dele, filhos também das principais famílias da Macedônia.» — *ver:* **Ampliação — P2022-09-25 (O Contexto Espiritual da Constru…** U0003
+- «Ele conseguiu unir a cultura ocidental e a cultura oriental, o que de melhor havia na cultura ocidental, produzido pelos filósofos gregos e Alexandre Magno teve como preceptor a figura de Aristóteles.» — *ver:* **Ampliação — P2023-08-27 (Len Mion e os Senhores da Terra …** U0004
+
 
 ## Ampliação
 ### P2023-08-27 (Len Mion e os Senhores da Terra Alexandre Magno e Qin Shi Huang Di)
@@ -45,12 +49,6 @@ Com isso:
 - **[O sonho de Alexandre: novas cidades] (U0005)** «Aí Alexandre morreu, mas ficou faltando outras cidades a serem criadas no sonho desses caras.» — "foi daqui que Alexandre Magno e seus generais saíram para, entre aspas, dominar o mundo no sentido de fincar nesse mundo a cultura helênica, ou seja, que veio de Heleno, a cultura da liberdade, que cada cultura tivesse o que quisesse como Deus"; "Alexandre, seus generais queriam construir o quê? Novas cidades. Para que nessas novas cidades, novas possibilidades e pessoas que estavam cansada da vida viciada dos grandes centros fossem para essas novas cidades... E foi por isso que Alexandre e seus generais criaram a Alexandrópolis, a Alexandria" — "Aí Alexandre morreu, mas ficou faltando outras cidades a serem criadas no sonho desses caras" (o processo segue pelos Templários, Portugal, até Brasília).
 
 
-## Fontes
-| Obra (sigla) | Título | Página | Tipo |
-|---|---|---|---|
-| P2022-09-25 | O Contexto Espiritual da Construção de Brasília (palestra) | — | transcrição automatizada; citação |
-| P2023-08-27 | Len Mion e os Senhores da Terra Alexandre Magno e Qin Shi Huang Di (palestra) | — | transcrição automatizada; citação |
-
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
@@ -60,11 +58,13 @@ Com isso:
 | Bebida dos Deuses (Ambrosia/Amrita/Soma) | RC-466 | **sem aresta** em `RELACOES`; arquivo existe |
 | DNA Insubmisso / Linhagem Pandora–Eva–Noreia | RC-727 | **sem aresta** em `RELACOES`; arquivo existe |
 
-## Citações-chave
+## Fontes
+| Obra (sigla) | Título | Página | Tipo |
+|---|---|---|---|
+| P2022-09-25 | O Contexto Espiritual da Construção de Brasília (palestra) | — | transcrição automatizada; citação |
+| P2023-08-27 | Len Mion e os Senhores da Terra Alexandre Magno e Qin Shi Huang Di (palestra) | — | transcrição automatizada; citação |
 
-> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+## Observações sobre o Estado da Malha
 
-- «E ele quando viu Alexandre Magno que analisou o DNA do rapaz, pessoal, esse aqui é o melhor DNA humano que até então o nosso amigo Lemion havia visto no sentido de melhor DNA humano paraa lógica dele, não entre no mérito.» — *ver:* **Ampliação — P2023-08-27 (Len Mion e os Senhores da Terra …** U0004
-- «Alexandre Magno, quando tinha 8, 9, 10, 11, 12, 13, 14, 15, 16 anos, até os 16 anos ele foi educado por Aristóteles, mas não foi só ele, ele e mais vários amigos dele, filhos também das principais famílias da Macedônia.» — *ver:* **Ampliação — P2022-09-25 (O Contexto Espiritual da Constru…** U0003
-- «Ele conseguiu unir a cultura ocidental e a cultura oriental, o que de melhor havia na cultura ocidental, produzido pelos filósofos gregos e Alexandre Magno teve como preceptor a figura de Aristóteles.» — *ver:* **Ampliação — P2023-08-27 (Len Mion e os Senhores da Terra …** U0004
-
+* **Grafia STT:** 'Alexandre Magno' (literal). O palestrante também o referencia como 'Alexandre' e 'o rapaz' cujo DNA Lemion analisou antes de conceber o projeto de dominar o mundo.
+* **Trava aplicável**: nenhuma além das gerais do despacho.

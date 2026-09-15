@@ -16,14 +16,26 @@ atualizado = "2026-08-20"
 
 Na cosmologia de Ellam, a capacidade filosófica humana — apresentada como "capenga" desde sua fundamentação na época de Aristóteles, convertida em "fé-filosofia" quando os filósofos passaram a justificar a fé pessoal em vez de buscar a verdade.
 
-## Contexto / Origem
-
-[P2024-07-14] A palestra das Consciências Espirituais Dignificadas diagnostica o problema de fundamentação da filosofia/metafísica/ontologia e anuncia o curso "Reflexões quase filosóficas" (primeiro: Schopenhauer e o sofrimento do mundo).
-
 ## Escopo e evidência
 
 - **[P2024-07-14] Unidades:** U0495–U0539.
 - **[P2024-07-14] Proveniência:** palestra de Jan Val Ellam; transcrição STT pré-curada; devolutiva do curador registrada em 2026-08-20 (ficha autorizada).
+
+## Contexto / Origem
+
+[P2024-07-14] A palestra das Consciências Espirituais Dignificadas diagnostica o problema de fundamentação da filosofia/metafísica/ontologia e anuncia o curso "Reflexões quase filosóficas" (primeiro: Schopenhauer e o sofrimento do mundo).
+
+## Citações-chave
+> "Filósofo não devia ter fé. Filósofo deve ser ateu e buscar a verdade livremente."
+
+
+> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+
+- «Nós Somos, apesar de miseráveis, uma das poucas raças no cosmos, com a razão filosófica desperta para o bem e, infelizmente, para o mal, mas com razão filosófica desperta.» — *ver:* **Ampliação — P2012-02-19 (Xadrez Cósmico de Brahma, Vishnu…** U0005
+
+
+> Notas de processo: 2 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-231.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
 
 ## Ampliação
 ### P2024-07-14
@@ -73,26 +85,13 @@ Na cosmologia de Ellam, a capacidade filosófica humana — apresentada como "ca
 - Tikun Cósmico — RC-514;
 - Dignidade como Critério de Consciência — RC-722.
 
+## Observações
+
+**Quarentena filosófica/histórica:** o diagnóstico de Aristóteles e a leitura da história da filosofia são do autor; plataforma "Orbon" [REVISAR — STT → CHANCELA 2026-09-06 · F039-L3: AGUARDA-ÁUDIO (STT preservado como falado) — ver nota].
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
 | P2012-02-19 | Xadrez Cósmico de Brahma, Vishnu e Shiva (palestra) | — | transcrição automatizada; citação |
 | P2024-07-14 | U0495–U0539 | palestra/STT |
 | B033 / B005 / B049 / P2025-03-15 / P2024-11-30 / P2024-11-09 | — | obras/palestras |
-
-## Citação-chave
-> "Filósofo não devia ter fé. Filósofo deve ser ateu e buscar a verdade livremente."
-
-## Observações
-
-**Quarentena filosófica/histórica:** o diagnóstico de Aristóteles e a leitura da história da filosofia são do autor; plataforma "Orbon" [REVISAR — STT → CHANCELA 2026-09-06 · F039-L3: AGUARDA-ÁUDIO (STT preservado como falado) — ver nota].
-
-## Citações-chave
-
-> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
-
-- «Nós Somos, apesar de miseráveis, uma das poucas raças no cosmos, com a razão filosófica desperta para o bem e, infelizmente, para o mal, mas com razão filosófica desperta.» — *ver:* **Ampliação — P2012-02-19 (Xadrez Cósmico de Brahma, Vishnu…** U0005
-
-
-> Notas de processo: 2 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-231.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

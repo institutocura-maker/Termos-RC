@@ -18,10 +18,14 @@ Tese (leitura do autor, palestra **P2023-12-17**, U0002) de que **Sophia (RC-009
 ## Contexto / Origem
 Aparece em **P2023-12-17**, U0002. Contexto: a palestra reconstrói a **geração de Sophia** há ~6 bilhões de anos. Javé aceitou que se criassem **dois seres livres**: Morenu (avatar de Javé) e Sophia (representante da Trimurti no universo biológico). Mas Javé queria estar presente no corpo de Morenu, então compuseram **4 cabeças** — se Morenu descumprisse os termos da Trimurti, os três destruiriam Morenu naquele corpo. Sophia foi engendrado livre. A família **Aya e Aye** (dois tipos de clones) deveria obedecer Sophia no sentido técnico, mas no sentido político estavam ali para destruir Sophia se fizesse algum movimento estranho. Com o tempo, Javé foi esquecendo Sophia e os clones, que foram se livrando do controle mental e observando os "painéis positivos de Sophia" — porque Sophia é um gênio.
 
-## Etimologia e Grafias
-- **Grafia preferida:** Sophia Como Biodemo da Ordem e Caos
-- **Variações STT capturadas:** "Sophia", "Sophia biodemo", "comandante Sophia", "Sophia ordem e caos"
-- **Idioma de origem:** Grego (Σοφία Sophia = "sabedoria") + Português
+## Citações-chave
+> «Sophia tem um quê de demo porque ele é biodemo, é a questão de ordem e caos. Onde tem caos, você tem que pôr ordem. E Sophia existe para pôr ordem no caos desse lado do universo.» — P2023-12-17, U0002
+
+> «Javé aceitou que se criassem dois seres livres nessa história. Um foi Morençor E por isso a estrutura física do corpo de Morrensor teve que compor quatro cabeças porque Javé aceitou, mas queria estar presente também no corpo de Morençô. Porque se a cabeça de Morençor descumprisse os termos da trimurte, os três destruiriam Morençor naquele corpo.» — P2023-12-17, U0002
+
+> «Com o tempo, Jaavé foi enfrentando os problemas do universo vizinho, entrava em conta e esquecendo Sophia e os clones desse universo biológico. E foi assim que esses anjos foram meio que ficando livres da opressão do controle mental do Senhor Javé. E foi assim que esses clones foram observando os painéis positivos de Sophia, porque Sophia é um gênio em muitas coisas, porque ele foi engendrado para ser gênio.» — P2023-12-17, U0002
+
+> «Sophia existe para pôr ordem no caos desse lado do universo. Então ele teve que destruir muita coisa para manter a ordem, teve que destruir muitas civilizações que provocavam mais caos. Então o Sophia se mexe nessa dualidade meio simplória até hoje.» — P2023-12-17, U0002
 
 ## Ampliação
 ### P2025-05-10 (Mistérios do Apocalipse)
@@ -32,23 +36,18 @@ Aparece em **P2023-12-17**, U0002. Contexto: a palestra reconstrói a **geraçã
 
 # (nenhum span retido neste ciclo)
 
-## Fontes
-| Obra (sigla) | Capítulo | Página | Tipo |
-|---|---|---|---|
-| P2025-05-10 | Mistérios do Apocalipse (palestra) | — | transcrição automatizada; citação |
-| P2023-12-17 — Lúcifer e a Rebelião dos Elétrons | U0002 (S2) | — | palestra (fonte primária, STT) |
-| P2023-12-03 — A Rebelião de Lúcifer ainda por ser Finalizada | (todas) | — | palestra (fonte secundária, paralelo) |
-| P2018-10-06 — Humanidade em Disputa | U0002 | — | palestra (fonte secundária, "Jesus é a parte mais bela de Sophia") |
-| P2019-05-11 — Pandora e os Desacertos dos Pactos de Javé | (todas) | — | palestra (fonte secundária, "Sophia declara a humanidade como protetorado cósmico") |
+## Etimologia e Grafias
+- **Grafia preferida:** Sophia Como Biodemo da Ordem e Caos
+- **Variações STT capturadas:** "Sophia", "Sophia biodemo", "comandante Sophia", "Sophia ordem e caos"
+- **Idioma de origem:** Grego (Σοφία Sophia = "sabedoria") + Português
 
-## Citações-chave
-> «Sophia tem um quê de demo porque ele é biodemo, é a questão de ordem e caos. Onde tem caos, você tem que pôr ordem. E Sophia existe para pôr ordem no caos desse lado do universo.» — P2023-12-17, U0002
-
-> «Javé aceitou que se criassem dois seres livres nessa história. Um foi Morençor E por isso a estrutura física do corpo de Morrensor teve que compor quatro cabeças porque Javé aceitou, mas queria estar presente também no corpo de Morençô. Porque se a cabeça de Morençor descumprisse os termos da trimurte, os três destruiriam Morençor naquele corpo.» — P2023-12-17, U0002
-
-> «Com o tempo, Jaavé foi enfrentando os problemas do universo vizinho, entrava em conta e esquecendo Sophia e os clones desse universo biológico. E foi assim que esses anjos foram meio que ficando livres da opressão do controle mental do Senhor Javé. E foi assim que esses clones foram observando os painéis positivos de Sophia, porque Sophia é um gênio em muitas coisas, porque ele foi engendrado para ser gênio.» — P2023-12-17, U0002
-
-> «Sophia existe para pôr ordem no caos desse lado do universo. Então ele teve que destruir muita coisa para manter a ordem, teve que destruir muitas civilizações que provocavam mais caos. Então o Sophia se mexe nessa dualidade meio simplória até hoje.» — P2023-12-17, U0002
+## Seres Associados
+- **Sophia (RC-009)** — o biodemo protagonista
+- **Trimurti (RC-104)** — quem delegou Sophia
+- **Javé (RC-001)** — quem queria controlar Sophia
+- **Morenu (RC-316)** — o avatar paralelo de 4 cabeças
+- **Aya/Aye (RC-369)** — a família de clones
+- **Anjos Glores** — os clones que se livraram do controle
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -65,14 +64,6 @@ Aparece em **P2023-12-17**, U0002. Contexto: a palestra reconstrói a **geraçã
 | Nietzsche como 'Amigo da Intenção de Jesus' | RC-369 | é-família-de |
 | A Rebelião dos Elétrons | RC-378 | associado |
 
-## Seres Associados
-- **Sophia (RC-009)** — o biodemo protagonista
-- **Trimurti (RC-104)** — quem delegou Sophia
-- **Javé (RC-001)** — quem queria controlar Sophia
-- **Morenu (RC-316)** — o avatar paralelo de 4 cabeças
-- **Aya/Aye (RC-369)** — a família de clones
-- **Anjos Glores** — os clones que se livraram do controle
-
 ## Observações
 - [REVISAR → CHANCELA 2026-09-06 · F041-L5: AGUARDA-ÁUDIO (dívida perdoada até nova evidência na base; STT preservado como falado) — ver nota]: a palestra de 2023-12-17 é a principal fonte primária dessa formulação específica (Sophia como biodemo).
 - **Quarentena teológica FORTE**: a leitura do autor **NÃO FUSIONAR com**:
@@ -82,6 +73,15 @@ Aparece em **P2023-12-17**, U0002. Contexto: a palestra reconstrói a **geraçã
 - **Conexão com a P2023-12-03**: é a continuação direta — a P2023-12-17 aprofunda a **dualidade ordem/caos** de Sophia e a relação com a rebelião dos elétrons.
 - **Conexão com a P2018-10-06**: a tese "Jesus é a parte mais bela de Sophia" é complementada aqui — Sophia é a estrutura cósmica, Jesus é a expressão humana dela.
 - **Paralelo acadêmico**: o "biodemo" é paralelo a **metade-angélico, metade-humano** da demonologia cristã — mas com **função positiva** (pôr ordem) em vez de negativa.
+
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo |
+|---|---|---|---|
+| P2025-05-10 | Mistérios do Apocalipse (palestra) | — | transcrição automatizada; citação |
+| P2023-12-17 — Lúcifer e a Rebelião dos Elétrons | U0002 (S2) | — | palestra (fonte primária, STT) |
+| P2023-12-03 — A Rebelião de Lúcifer ainda por ser Finalizada | (todas) | — | palestra (fonte secundária, paralelo) |
+| P2018-10-06 — Humanidade em Disputa | U0002 | — | palestra (fonte secundária, "Jesus é a parte mais bela de Sophia") |
+| P2019-05-11 — Pandora e os Desacertos dos Pactos de Javé | (todas) | — | palestra (fonte secundária, "Sophia declara a humanidade como protetorado cósmico") |
 
 ## Quarentena Terminológica
 

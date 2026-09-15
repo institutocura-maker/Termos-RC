@@ -34,26 +34,10 @@ Com isso:
 > "Assim, nessa ocasião, o caos se estabeleceu em todo o universo antimaterial. Foi quando surgiram as famílias Aya e Aye (na verdade, novas versões de clones antes existentes), já misturadas com a genética dos descendentes de Shai-Va e dos de Brahm-Ma. Mavatma “mergulhou” 4,1 bilhões de anos depois que a Criação teve lugar. Do seu “mergulho”, Vishnu surgiu na sua expressão Adhydaiva . Por 200 milhões de anos, houve uma “influência avassaladora” de Vishnu (da mitologia hindu) ou Eros (da mitologia grega), no universo antimaterial. 5ª) Era da Lila e da Aceitação (4,3 a 5,7 bilhões de anos) A quinta era começa com a institucionalização da Trimurti (o comando da Criação dividido entre Brahma, Vishnu e Shiva), e o estabelecimento da Lila (o “jogo do comando”, baseado em apostas entre os três “Senhores da Trimurti ”), por volta de 4,3 bilhões de anos desde o surgimento destes dois universos. É a era da aceitação, por parte do Senhor Brahma, da “semeadura” do seu “código-fonte definidor de vida”, já manipulado, nas naturezas planetárias do universo material, favoráveis à vida, com vistas à geração de seres menos problemáticos, menos poderosos e menos “adoentados” pela afetação do psiquismo do Criador." — B044
 
 
-## Observações sobre o Estado da Malha
-
-* **Grafia STT:** 'lila' (soletrada 'L I L A'). Intraduzível; = o jogo/leela cósmico entre as três divindades.
-* **Trava aplicável**: nenhuma além das gerais do despacho.
-
 ## Ampliação
 ### P2012-02-19 (Xadrez Cósmico de Brahma, Vishnu e Shiva)
 
 - **[Lila, o jogo cósmico em sânscrito] (U0004)** «Para nós portugueses brasileiros, a palavra parece ser lila.» — Lila (RC-075): o jogo cósmico 'sendo jogado mesmo antes da criação desse universo'; 'a palavra parece ser lila' (L-I-L-A), intraduzível em português.
-
-## Fontes
-| Obra (sigla) | Título | Página | Tipo |
-|---|---|---|---|
-| P2012-02-19 | Xadrez Cósmico de Brahma, Vishnu e Shiva (palestra) | — | transcrição automatizada; citação |
-| B031 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
-| B024 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
-| B044 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
-| B035 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
-| B022 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
-| B023 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -76,3 +60,19 @@ Com isso:
 | Sathya Sai Baba | RC-928 | associado |
 | Prema Sai (Prima Sai / Prem Sai) | RC-929 | associado |
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
+## Fontes
+| Obra (sigla) | Título | Página | Tipo |
+|---|---|---|---|
+| P2012-02-19 | Xadrez Cósmico de Brahma, Vishnu e Shiva (palestra) | — | transcrição automatizada; citação |
+| B031 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
+| B024 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
+| B044 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
+| B035 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
+| B022 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
+| B023 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
+
+## Observações sobre o Estado da Malha
+
+* **Grafia STT:** 'lila' (soletrada 'L I L A'). Intraduzível; = o jogo/leela cósmico entre as três divindades.
+* **Trava aplicável**: nenhuma além das gerais do despacho.

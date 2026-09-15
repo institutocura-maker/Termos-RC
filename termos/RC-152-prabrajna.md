@@ -18,11 +18,8 @@ atualizado = "2026-09-12"
 ## Contexto / Origem
 Prabrajna é central para o capítulo 3 (Gunas): sua energia Rajásica criou os quarks e, em vibração com "distúrbio", os elétrons. Ele "caiu" e ficou "refém" da sua energia Rajas, tornando-se Brahma/Javé na Criação "indevida". Os "agentes da vida" do nível da Espiritualidade Laboratorial (Perpérion) trabalhavam **para libertar Prabrajna, que havia "caído"** (cap. 15).
 
-## Etimologia e Grafias
-- **Grafia preferida:** Prabrajna
-- **Variações:** Prajapati (tradição védica); identidade anterior de Brahma/Javé; "Prabrajna" também grafado como "Prabrajná"
-- **Origem:** sânscrito (pra = antes; brajna ≈ consciência/sabedoria) — conferir etimologia exata
-
+## Citações-chave
+> "Numa dessas estirpes, a que aqui estamos denominando como sendo a da 'condição Adhyatman'... existia um Ser que recebeu o epíteto de Prajapati nas antigas tradições védicas/sânscritas, sendo também conhecido como Prabrajna, de cuja 'Experiência Laboratorial' emergiu um 'Processo de Gestação Mental corrompida', que foi prematuramente expelida, plasmada." — B024, cap. 1
 
 ## Ampliação
 ### P2025-02-16
@@ -102,16 +99,37 @@ Prabrajna é central para o capítulo 3 (Gunas): sua energia Rajásica criou os 
 - **[O erro original de Prabrajna: o primeiro dos dois problemas] (U0009)** «Um é o erro original de um ser chamado para Brag.» — os dois problemas da criação como as duas causas de tudo: "Esses dois problemas são as duas causas mais de tudo que existe, que a gente conhece nesse drama" (U0009: «Esses dois problemas são as duas causas mais de tudo que existe, que a gente conhece nesse drama.»); o erro está lá fora, fora da blindagem, ocorrido antes da revolução do buraco branco: "o espírito dele que ficou no nível da espiritualidade laboratorial de perpério, está lá e o problema está instalado nele" (U0009: «Um fora, tô dizendo fora da blindagem, porque ocorreu antes da revolução do buraco branco que surgiu da mente de Probrágina ou tragar, mas o espírito dele que ficou no nível da espiritualidade laboratorial de perpério, está lá e o problema está instalado nele.»); neutralizado, mas "ainda assim é tremendamente atuante" (U0009: «Mas ainda assim é tremendamente atuante.»); "Surgiram dois universos, ele caiu no de lá" (U0009: «Surgiram dois universos, ele caiu no de lá.»).
 
 
-## Fontes
-| Obra (sigla) | Capítulo | Página | Tipo |
-|---|---|---|---|
-| P2021-06-26 | Shiva - A Reconstrução do Erro de Brahma e o Tikum (palestra) | — | transcrição automatizada; citação |
-| P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
-| A Epopeia dos Agentes da Vida Universal (B024) | caps. 1, 3, 15, 16 | pp. 14–17, 32–36, 109–114 | ocorrências centrais |
-| P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | — |
+## Ampliação
+### P2024-03-02 (O Drama Espiritual de Jesus)
 
-## Citações-chave
-> "Numa dessas estirpes, a que aqui estamos denominando como sendo a da 'condição Adhyatman'... existia um Ser que recebeu o epíteto de Prajapati nas antigas tradições védicas/sânscritas, sendo também conhecido como Prabrajna, de cuja 'Experiência Laboratorial' emergiu um 'Processo de Gestação Mental corrompida', que foi prematuramente expelida, plasmada." — B024, cap. 1
+- **[Prabrajna — o eu projetado, inferior ao eu mergulhado (Mavatna)]:** «Aqui temos, portanto, prestem bem atenção, a parcela átmica, mas abúdica de um ser projetado, que terminou criando um eu ancorado em corpos búdicos e manásicos projetados, personagem chamado Prabrajna no laboratorial.» — «Vishnu é muito mais poderoso do que Prabrajna, e por isso que o eu caído de Prabrajna, que a gente chama de Brama, é muito inferior ao eu caído de Mavatna, que se chama Vishnu, porque aqui houve mergulho, aqui houve uma queda.» — ver RC-503 (Mavatna), RC-001 (Javé).
+
+- **[Prajna — faixa de 0,2% de liberdade criativa na espiritualidade laboratorial]:** «Na espiritualidade laboratorial, a que surgiu uma espécie chamada Pashvnaj, com 43 membros, e o eu desses 43 membros começou a apresentar algo que hoje existe expressão sânscrita chamada prajna, que se for interpretada literalmente diz 'aquele da intuição' [...] Prajna seria aquele da intuição criativa, porque essa brecha, essa faixa de 0,2% estimulava, fazia com que esse eu sentisse vontade de criar.» — ver RC-455 (Pashvnaj).
+
+
+## Atualização
+### P2021-12-04
+
+- **Unidades:** U0212–U0266.
+- **Contexto acrescentado:** Prabrajna é aprofundado como identidade Adhy/Pashvnaj ligada por fatiamento de consciência a Adhymavatana, Brahma, Vishnu e à Criação Indevida.
+- **Status da evidência:** transcrição automatizada, pré-curada e aprovada quanto à integração terminológica; conferir com áudio/obra antes de promover status.
+- **Precisão estrutural posterior:** Prabrajna/Adhyprabrajna pertence ao Gênero Adhy de **Perpérion**; é nesse Archeon que se inicia o problema da Criação Indevida.
+
+---
+
+### P2024-05-04
+
+- Prabrajna é situado em Perpérion como Pashvnaj cujo corpo manásico/eu cai e se fragmenta nos dois universos.
+- Divergências e alegações científicas permanecem abertas/atribuídas à palestra.
+
+## Etimologia e Grafias
+- **Grafia preferida:** Prabrajna
+- **Variações:** Prajapati (tradição védica); identidade anterior de Brahma/Javé; "Prabrajna" também grafado como "Prabrajná"
+- **Origem:** sânscrito (pra = antes; brajna ≈ consciência/sabedoria) — conferir etimologia exata
+
+
+## Seres Associados
+Brahma/Javé (RC-037/RC-001); Mavatna (RC-135); Savna (RC-102).
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -160,36 +178,18 @@ Prabrajna é central para o capítulo 3 (Gunas): sua energia Rajásica criou os 
 | Nada Brahma (tudo é som) | RC-845 | associado |
 | Campo de Higgs (o campo de força mental de Mavatma que definiu o limite velocidade-da-luz) | RC-886 | associado |
 
-## Seres Associados
-Brahma/Javé (RC-037/RC-001); Mavatna (RC-135); Savna (RC-102).
-
 ## Observações
 Ficha baseada em B024 (obra primária). Distinguir com cuidado: **Prabrajna/Prajapati** (antes da queda) vs. **Brahma/Javé** (após a queda) — a mesma Divindade em dois estados.
 
 ---
 
-## Atualização
-### P2021-12-04
-
-- **Unidades:** U0212–U0266.
-- **Contexto acrescentado:** Prabrajna é aprofundado como identidade Adhy/Pashvnaj ligada por fatiamento de consciência a Adhymavatana, Brahma, Vishnu e à Criação Indevida.
-- **Status da evidência:** transcrição automatizada, pré-curada e aprovada quanto à integração terminológica; conferir com áudio/obra antes de promover status.
-- **Precisão estrutural posterior:** Prabrajna/Adhyprabrajna pertence ao Gênero Adhy de **Perpérion**; é nesse Archeon que se inicia o problema da Criação Indevida.
-
----
-
-### P2024-05-04
-
-- Prabrajna é situado em Perpérion como Pashvnaj cujo corpo manásico/eu cai e se fragmenta nos dois universos.
-- Divergências e alegações científicas permanecem abertas/atribuídas à palestra.
-
-## Ampliação
-### P2024-03-02 (O Drama Espiritual de Jesus)
-
-- **[Prabrajna — o eu projetado, inferior ao eu mergulhado (Mavatna)]:** «Aqui temos, portanto, prestem bem atenção, a parcela átmica, mas abúdica de um ser projetado, que terminou criando um eu ancorado em corpos búdicos e manásicos projetados, personagem chamado Prabrajna no laboratorial.» — «Vishnu é muito mais poderoso do que Prabrajna, e por isso que o eu caído de Prabrajna, que a gente chama de Brama, é muito inferior ao eu caído de Mavatna, que se chama Vishnu, porque aqui houve mergulho, aqui houve uma queda.» — ver RC-503 (Mavatna), RC-001 (Javé).
-
-- **[Prajna — faixa de 0,2% de liberdade criativa na espiritualidade laboratorial]:** «Na espiritualidade laboratorial, a que surgiu uma espécie chamada Pashvnaj, com 43 membros, e o eu desses 43 membros começou a apresentar algo que hoje existe expressão sânscrita chamada prajna, que se for interpretada literalmente diz 'aquele da intuição' [...] Prajna seria aquele da intuição criativa, porque essa brecha, essa faixa de 0,2% estimulava, fazia com que esse eu sentisse vontade de criar.» — ver RC-455 (Pashvnaj).
-
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo |
+|---|---|---|---|
+| P2021-06-26 | Shiva - A Reconstrução do Erro de Brahma e o Tikum (palestra) | — | transcrição automatizada; citação |
+| P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
+| A Epopeia dos Agentes da Vida Universal (B024) | caps. 1, 3, 15, 16 | pp. 14–17, 32–36, 109–114 | ocorrências centrais |
+| P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | — |
 
 ## Fontes
 | Fonte | Localização | Tipo |

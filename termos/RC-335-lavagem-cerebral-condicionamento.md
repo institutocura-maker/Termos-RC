@@ -18,10 +18,8 @@ O **condicionamento imposto ao psiquismo humano** pelas crenças e revelações 
 ## Contexto / Origem
 A lavagem cerebral é o mecanismo pelo qual a Teocracia da Doença (RC-334) se mantém: "a 'lavagem cerebral' que se abateu sobre o psiquismo humano... foi e ainda é parte de uma etapa necessária de um processo maior" (Introdução). O condicionamento opera "via codificação do DNA ou mesmo por meio do tipo de educação veiculada na Terra" (cap. 6). O B023 (DHARMA) e o B044 (COLMEIA) complementam: o condicionamento demo/humano é o "modelo colmeia" aplicado ao psiquismo.
 
-## Etimologia e Grafias
-- **Grafia preferida:** Lavagem Cerebral
-- **Variações:** condicionamento; lavagem cerebral imposta; adestramento; "descondicione-se" (imperativo de Ellam)
-
+## Citações-chave
+> "Constatação: Esta humanidade sempre foi mantida sob perene processo de lavagem cerebral, por meio de algumas visões religiosas – não todas – condicionados que fomos a sempre pedir e implorar por misericórdia e perdão divinos, quando os seres que estavam e ainda estão por trás do processo de 'concessão de graças e de bênçãos' nada têm de divinos no atual estágio em que suas personalidades se encontram." — B048, cap. 10
 
 ## Ampliação
 ### B048 (Favor Divino)
@@ -30,14 +28,19 @@ A lavagem cerebral é o mecanismo pelo qual a Teocracia da Doença (RC-334) se m
 - **[B048 p. 14]** “existiram e existem muitas ‘lavagens cerebrais’” que motivam ofertas “em troca de ‘favores divinos’”; não é desse tipo de favor que o livro trata.
 - **[B048 p. 76]** Constatação: “Esta humanidade sempre foi mantida sob perene processo de lavagem cerebral, por meio de algumas visões religiosas — não todas.” Vaticano (p. 7) e fundamentalismo (p. 10) = **política, fora**.
 
-## Fontes
-| Obra (sigla) | Capítulo | Página | Tipo |
-|---|---|---|---|
-| Favor Divino (B048) | Introdução; caps. 6, 10 | pp. 6–8, 45–60, 85–100 (aprox.) | mecanismo central |
-| P2026-08-04 | Podcast Irmãos Dias #272 (aliens e a Bíblia) | — | — |
+## Reforço
+### P2025-02-15
 
-## Citações-chave
-> "Constatação: Esta humanidade sempre foi mantida sob perene processo de lavagem cerebral, por meio de algumas visões religiosas – não todas – condicionados que fomos a sempre pedir e implorar por misericórdia e perdão divinos, quando os seres que estavam e ainda estão por trás do processo de 'concessão de graças e de bênçãos' nada têm de divinos no atual estágio em que suas personalidades se encontram." — B048, cap. 10
+A Camuflagem da Realidade — RC-702 — é sustentada por condicionamentos religiosos, culturais, perceptivos e genéticos. A fala associa crenças repetidas a cadeados e travas, sem que isso constitua diagnóstico clínico.
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
+## Etimologia e Grafias
+- **Grafia preferida:** Lavagem Cerebral
+- **Variações:** condicionamento; lavagem cerebral imposta; adestramento; "descondicione-se" (imperativo de Ellam)
+
+
+## Seres Associados
+Criador/Javé (RC-041/RC-001); Seres Terrenos (RC-099).
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -68,14 +71,11 @@ A lavagem cerebral é o mecanismo pelo qual a Teocracia da Doença (RC-334) se m
 | Patriarcado desde Pandora (Origem no Feminino, Dominação pelo Masculino) | RC-818 | associado |
 | Vechame Existencial (Sangue de Barata = Amor sem Submissão) | RC-823 | associado |
 
-## Seres Associados
-Criador/Javé (RC-041/RC-001); Seres Terrenos (RC-099).
-
 ## Observações
 Ficha baseada em B048 (obra primária) + apoio de B023/B044. A lavagem cerebral é o mecanismo psíquico da dominação — o antídoto é o "descondicionamento" (lema de Ellam no B023). Cruzar com RC-253 e RC-325.
 
-## Reforço
-### P2025-02-15
-
-A Camuflagem da Realidade — RC-702 — é sustentada por condicionamentos religiosos, culturais, perceptivos e genéticos. A fala associa crenças repetidas a cadeados e travas, sem que isso constitua diagnóstico clínico.
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo |
+|---|---|---|---|
+| Favor Divino (B048) | Introdução; caps. 6, 10 | pp. 6–8, 45–60, 85–100 (aprox.) | mecanismo central |
+| P2026-08-04 | Podcast Irmãos Dias #272 (aliens e a Bíblia) | — | — |

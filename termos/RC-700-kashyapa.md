@@ -29,11 +29,8 @@ Kashyapa atua como grande hub genealógico de `P2025-02-16`. A palestra lhe atri
 
 A genealogia é mediada pelas filhas de Daksha e Virini, especialmente Aditi, Diti e Kadru.
 
-## Etimologia e Grafias
-Forma preferida: **Kashyapa**.
-
-Formas de STT: `Casiapa`, `Casiata`, `Casipa`, `Caseat`.
-
+## Citações-chave
+> “Kashyapa é um só ser; Asuras são uma porrada de seres, Devas outra, Prachetas outra.”
 
 ## Ampliação
 ### P2025-02-16
@@ -42,13 +39,11 @@ Formas de STT: `Casiapa`, `Casiata`, `Casipa`, `Caseat`.
 - **As 5 linhagens de descendência:** (1) com Diti → Asuras; (2) indireta → Devas/Olimpianos; (3) → Prachetas (dragonoides; origem dos primeiros cérebros bilatérios); (4) cobras venenosas geradas na loca aquática de Varuna (laboratório; "existe até hoje"); (5) com Aditi → os 12 Adityas (que substituíram os primordiais) → Vivasvan → Yama e Manu → Manavas (humanidade híbrida).
 - **Genoma de Kashyapa "meio controlador";** o de Kadru "está sendo despertado na medida em que os seres humanos se esclarecem".
 
-## Fontes
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2025-02-16 | U0401–U0418; U0475; U0484–U0519; U0675–U0683 | aula/palestra STT |
+## Etimologia e Grafias
+Forma preferida: **Kashyapa**.
 
-## Citações-chave
-> “Kashyapa é um só ser; Asuras são uma porrada de seres, Devas outra, Prachetas outra.”
+Formas de STT: `Casiapa`, `Casiata`, `Casipa`, `Caseat`.
+
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -79,3 +74,8 @@ Formas de STT: `Casiapa`, `Casiata`, `Casipa`, `Caseat`.
 ## Observações
 As relações biológicas/cósmicas são atribuições da leitura RC e não devem ser apresentadas como genealogia histórica ou científica.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2025-02-16 | U0401–U0418; U0475; U0484–U0519; U0675–U0683 | aula/palestra STT |

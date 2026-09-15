@@ -18,9 +18,8 @@ Distinção entre destinos/verdades já postos e uma verdade futura construída 
 ## Contexto / Origem
 Extraído da live P2025-10-25 — 2ª Edição Estagiários do Kaos.
 
-## Etimologia e Grafias
-- Forma preferida: **Verdade Posta × Verdade a Construir**.
-
+## Citações-chave
+> Ver P2025-10-25.
 
 ## Ampliação
 ### P2025-10-25
@@ -38,15 +37,18 @@ Extraído da live P2025-10-25 — 2ª Edição Estagiários do Kaos.
 
 - **[O ser humano decifrador, não colecionador] (U0002)** «O ser humano ele é um decifrador da realidade.» — "o ser humano nunca deveria concluir nada, porque o ser humano ele não é um colecionador de verdades" (U0002: «Mas o ser humano nunca deveria concluir nada, porque o ser humano ele não é um colecionador de verdades.»); "nós nunca vamos saber 100% de verdade de coisa alguma, porque nós não temos a capacidade de fazer essa leitura e ninguém tem" (U0002: «O que melhor nós humanos de viríamos com incluir é que a gente nunca vai saber a verdade de coisíssima nenhuma, porque nós estamos vivendo um tipo de vida que é uma vergonha, que é uma excentricidade do caos, que é uma escrescência, que é algo que não devia acontecer, mas está acontecendo, vem acontecendo, vai acontecer e nós nunca vamos saber 100% de verdade de coisa alguma, porque nós Nós não temos a capacidade de fazer essa leitura e ninguém tem.»); "todas as verdades apodrecidas terão que de fato apodrecer e só apodrecem em sendo distópicamente desativadas, ou seja, não acontecendo, para que aqueles que colecionam as verdades de putz, tava enganado" (U0007: «E como eu disse a vocês no início da palestra, todas as verdades apodrecidas terão que de fato apodrecer e só apodrecem em sendo distópicamente desativadas, ou seja, não acontecendo, para que aqueles que colecionam as verdades de putz, tava enganado.»).
 
-## Fontes
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
-| P2022-11-26 | Choque de Realidade – o Perpétuo Espanto dos Donos da Verdade (palestra) | — | transcrição automatizada; citação |
-| P2025-10-25 | ver dossiê e transcrição | live/STT |
+## Reforço
+### P2025-02-15
 
-## Citações-chave
-> Ver P2025-10-25.
+Certezas indevidas e transtornos cognitivos são tratados como obstáculos à Camuflagem da Realidade. A palestra reafirma que não se deve dar por sabido aquilo que ainda precisa ser verificado. Uso clínico é excluído: trata-se de eixo epistemológico/retórico.
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o bloco citado desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
+## Etimologia e Grafias
+- Forma preferida: **Verdade Posta × Verdade a Construir**.
+
+
+## Seres Associados
+Consultar relações na Base.
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -64,14 +66,12 @@ Extraído da live P2025-10-25 — 2ª Edição Estagiários do Kaos.
 | Genoma da Dignidade (o código esquecido na criação) | RC-868 | associado |
 | Mentalidade Comum (o contágio do rebanho) | RC-869 | associado |
 
-## Seres Associados
-Consultar relações na Base.
-
 ## Observações
 Termo candidato, sujeito a cruzamento com obras e palestras adicionais.
 
-## Reforço
-### P2025-02-15
-
-Certezas indevidas e transtornos cognitivos são tratados como obstáculos à Camuflagem da Realidade. A palestra reafirma que não se deve dar por sabido aquilo que ainda precisa ser verificado. Uso clínico é excluído: trata-se de eixo epistemológico/retórico.
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o bloco citado desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
+| P2022-11-26 | Choque de Realidade – o Perpétuo Espanto dos Donos da Verdade (palestra) | — | transcrição automatizada; citação |
+| P2025-10-25 | ver dossiê e transcrição | live/STT |

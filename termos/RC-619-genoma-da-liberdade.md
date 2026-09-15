@@ -18,11 +18,6 @@ Configuração genômica associada à capacidade humana de formar postura psíqu
 ## Contexto / Origem
 A fala situa sua repercussão recente e relaciona o processo a Pandora, Enki, FOXP2 e à ruptura com a voz dos deuses.
 
-## Etimologia e Grafias
-- Grafia preferida: Genoma da Liberdade. Expressão derivada de “genoma que produz a liberdade”.
-- **Fonte de decisão:** Quadro 9 aprovado pelo curador.
-
-
 ## Ampliação
 ### P2024-07-14
 
@@ -46,6 +41,11 @@ A fala situa sua repercussão recente e relaciona o processo a Pandora, Enki, FO
 - **[P2023-12-03 · GENOMA DA LIBERDADE NA FALA DE 03/12/2023]** «Se coisas daqui forem despertas e vierem a habitar o nosso consciente, a gente vira bicho.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2021-12-04`); a entrada desta fonte é de **conteúdo**, não de data.
 
 ---
+
+
+## Etimologia e Grafias
+- Grafia preferida: Genoma da Liberdade. Expressão derivada de “genoma que produz a liberdade”.
+- **Fonte de decisão:** Quadro 9 aprovado pelo curador.
 
 
 ## Termos Relacionados

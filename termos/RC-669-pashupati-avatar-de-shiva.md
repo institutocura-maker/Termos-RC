@@ -18,9 +18,8 @@ Pashupati — avatar de Shiva ligado à animalidade e ao amortecimento do sofrim
 ## Contexto / Origem
 P2026-02-28.
 
-## Etimologia e Grafias
-Forma validada pelo curador.
-
+## Citações-chave
+Ver transcrição.
 
 ## Ampliação
 ### P2020-07-11
@@ -36,13 +35,19 @@ Forma validada pelo curador.
 
 - **[Pashupati reinava na Índia] (U0014)** «Ele sabia que lá na tradição pro Maricandã na Índia, um outro ser Esse se apresentava chamado Pachipat, que era a expressão de Chico, tava reinando absoluto com os próumanos da época, com os seres humanos da época.» — Pashupati (STT 'Pachipat', RC-669), a expressão de Shiva, reinava absoluto com os 'pró-humanos' da Índia na época de Adão (tradição Maricandã).
 
-## Fontes
-P2018-12-16.
-P2022-05-07.
-P2026-02-28.
+## Atualização
+### P2024-09-28 (A Raça Inabalável dos Sethianos Emancipados) — ABSORÇÃO NT-ST02
 
-## Citações-chave
-Ver transcrição.
+- **Expressão adiágena de Shiva:** "foi quando Shiva criou a expressão adiágena dele como Pashupati para interagir com isso aqui... as misturas todas aí foi uma loucura generalizada. Então Pashupati foi quem tomou desse trabalho, centralizou nele e a partir dele migrou as informações pro universo biológico";
+- **Duas linhagens:** resposta à pergunta da plateia — "a história é mais complicada... são dois tipos de duas linhagens";
+- Nova aresta RC-669 ↔ RC-586 (Pashupati ~ Rishis/Geração Regenerada).
+
+## Etimologia e Grafias
+Forma validada pelo curador.
+
+
+## Seres Associados
+Consultar Base.
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -53,17 +58,12 @@ Ver transcrição.
 | Yoga Ancestral (Origem Cósmica) | RC-670 | desenvolve |
 | Daksha e Virini | RC-701 | ← relaciona-se-a |
 
-## Seres Associados
-Consultar Base.
-
 ## Observações
 Termo candidato.
 
 ---
 
-## Atualização
-### P2024-09-28 (A Raça Inabalável dos Sethianos Emancipados) — ABSORÇÃO NT-ST02
-
-- **Expressão adiágena de Shiva:** "foi quando Shiva criou a expressão adiágena dele como Pashupati para interagir com isso aqui... as misturas todas aí foi uma loucura generalizada. Então Pashupati foi quem tomou desse trabalho, centralizou nele e a partir dele migrou as informações pro universo biológico";
-- **Duas linhagens:** resposta à pergunta da plateia — "a história é mais complicada... são dois tipos de duas linhagens";
-- Nova aresta RC-669 ↔ RC-586 (Pashupati ~ Rishis/Geração Regenerada).
+## Fontes
+P2018-12-16.
+P2022-05-07.
+P2026-02-28.

@@ -18,11 +18,6 @@ A declaração categórica de Javé de que **não possui avatares** — registra
 ## Contexto / Origem
 A declaração confirma e reforça o que o B016 já apontava (apêndice "Prisioneiros da Brahmaloka"): Brahma/Javé, por ter perdido a condição Adhyagia na queda, **jamais conseguiu produzir expressões Adhyajna (avatares)** — ao contrário de Vishnu (Mohen So, Sophia, Jesus) e Shiva (Hara, Krishna, Sai Baba). A diferença ontológica: Javé é "o que é", sem variações avatáricas — sua presença é direta e pesada.
 
-## Etimologia e Grafias
-- **Grafia preferida:** Javé sem avatares
-- **Variações:** "Não tenho isto!" (declaração); Javé sem expressões Adhyajna; singularidade de Javé
-
-
 ## Ampliação
 ### B016 (O Quarto Logos)
 
@@ -39,14 +34,12 @@ A declaração confirma e reforça o que o B016 já apontava (apêndice "Prision
 - Esta é a fonte da fórmula — **não** interpolar em B016. Sem materializar RC-016 / RC-425 a partir desta fonte (RC-016 materializada P5e a partir de outras fontes). Sem fusão com B016.
 ---
 
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | associado |
-| Adhyajna | RC-016 | opõe-se-a |
-| Revelação Cósmica (conceito) | RC-094 | associado |
-| Shiva (Savna) | RC-102 | associado |
-| Vishnu (Mavatna) | RC-135 | associado |
+## Ampliação
+### P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+
+- **[P2023-12-03 · JAVÉ SEM AVATARES ('NÃO TENHO ISTO!') NA FALA DE 03/12/2023]** «Brahma não podia criar avatar porque ele é um ser desalmado.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2022-12-17`); a entrada desta fonte é de **conteúdo**, não de data.
+
+---
 
 ## Atualização
 ### P2022-12-17
@@ -58,12 +51,19 @@ A declaração confirma e reforça o que o B016 já apontava (apêndice "Prision
 ---
 ---
 
-## Ampliação
-### P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+## Etimologia e Grafias
+- **Grafia preferida:** Javé sem avatares
+- **Variações:** "Não tenho isto!" (declaração); Javé sem expressões Adhyajna; singularidade de Javé
 
-- **[P2023-12-03 · JAVÉ SEM AVATARES ('NÃO TENHO ISTO!') NA FALA DE 03/12/2023]** «Brahma não podia criar avatar porque ele é um ser desalmado.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2022-12-17`); a entrada desta fonte é de **conteúdo**, não de data.
 
----
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Javé | RC-001 | associado |
+| Adhyajna | RC-016 | opõe-se-a |
+| Revelação Cósmica (conceito) | RC-094 | associado |
+| Shiva (Savna) | RC-102 | associado |
+| Vishnu (Mavatna) | RC-135 | associado |
 
 ## Observações
 

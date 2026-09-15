@@ -16,12 +16,17 @@ atualizado = "2026-09-12"
 
 O "conserto" da Criação e a recuperação do Criador — conceito da Cabala (Tikun) incorporado à Revelação Cósmica: as criaturas, como agentes da vida (RC-148) e coconstrutores da Obra (RC-545), ajudam a curar o Criador (RC-332) e a consertar a Obra. É o caminho de volta da Reintegração Cósmica (RC-003).
 
-## Estrutura interna
+## Citações-chave
 
-- restabelecimento da Criação; reparo do Criador caído;
-- coconstrutores da Obra (RC-545); Favor Divino (RC-332);
-- Tikun vibracional: a liberação da alma para o próprio reencontro (leitura do artigo ART-2026-08-18).
+> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
 
+- «Eu vou ter que fazer revelações fortes sobre esse tipo de questão, porque somos nós, os humanos, não esse tipo de humano que agora nós somos, mas um um continuação disso aqui que vai tem que resolver todas essas paradas porque simplesmente é zero a construção até agora da parte de quem quer que […]» — *ver:* **Ampliação — P2022-11-26 (Choque de Realidade – o Perpétuo…** U0002
+- «Porque nós, os humanos, somos os únicos capazes de realizar o ticum cabalist. O que é o ticum cabalístico? É o reparo que o DNA do criador precisa sofrer no sentido de nós humanos estamos reparando não só a obra complicada, mas como o corpo do criador que precisa ser reparado, ser ressuscitado.» — *ver:* **Ampliação — P2024-03-17**
+- «Porque mesmo esse ser dizendo ou tentando dizer o que houve com ele, mas a turma que recebia era do orador de Javé, então fazia essas reversões e os próprios cabalistas engrandeceram Keter, que é a primeira sefirá da árvore da vida.» — *ver:* **Ampliação — P2021-06-26 (Shiva - A Reconstrução do Erro d…** U0009
+
+
+> Notas de processo: 2 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-514.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o bloco citado desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
 
 ## Ampliação
 ### P2025-02-15
@@ -113,35 +118,20 @@ O "conserto" da Criação e a recuperação do Criador — conceito da Cabala (T
 - **[O tikum se realiza lá fora, promovido pelas mentes de dentro] (U0009)** «O Ticum ele é realizado lá fora, mas ele é promovido a promoção da sua realização pelas mentes que estão dentro da do abismo de DAF, o abismo de luz.» — o tikum é levar esse ser à condição que ele tinha antes, mas "esse ser faliu, ele não consegue fazer nada" (U0009: «Então o ticum é esse ser para uma condição que ele tinha antes, que seria a resolução, mas esse ser faliu, ele não consegue fazer nada.»); o problema só foi percebido "mais acentuadamente depois dos anos 2005, 6 e 7 aqui do nosso calendário" (U0009: «E só se percebeu esse tipo de problema mais acentuadamente depois dos anos 2005, 6 e 7 aqui do nosso calendário.»).
 
 
-## Fontes
+## Ampliação
+### P2024-03-17
 
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2021-06-26 | Shiva - A Reconstrução do Erro de Brahma e o Tikum (palestra) | — | transcrição automatizada; citação |
-| P2022-09-18 | Os Níveis de Estresse Extremo da Criação (palestra) | — | transcrição automatizada; citação |
-| P2022-11-26 | Choque de Realidade – o Perpétuo Espanto dos Donos da Verdade (palestra) | — | transcrição automatizada; citação |
-| P2022-12-03 | O Ocaso do Criador e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
-| P2023-02-12 | A Desconexão dos Desígnios Proféticos do Judaísmo, do Cristianismo e do Islamismo (palestra) | — | transcrição automatizada; citação |
-| P2023-08-27 | Len Mion e os Senhores da Terra Alexandre Magno e Qin Shi Huang Di (palestra) | — | transcrição automatizada; citação |
-| P2022-05-07 | Shiva, o Projeto Talm e os Mistérios de Awaylengam (palestra) | — | transcrição automatizada; citação |
-| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
-| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
-| B061, B071, B019, B074, B075 | obras | livros |
-| P2022-12-17, P2021-12-04, P2024-05-04, P2025-10-25, P2025-06-26, P2025-02-15, P2024-11-30, P2024-11-09, P2024-07-14 | palestras | palestra/STT |
-| ART-2026-08-18 | O Quarto Cérebro de Pandora (artigo — Denise F. Silva) | artigo de aluna avançada |
+**Fonte:** palestra «A Quem Pertence o Planeta e a Biblioteca Genômica Mais Atualizada do Universo» (17/03/2024).
 
+**Trecho verbatim:** «Porque nós, os humanos, somos os únicos capazes de realizar o ticum cabalist. O que é o ticum cabalístico? É o reparo que o DNA do criador precisa sofrer no sentido de nós humanos estamos reparando não só a obra complicada, mas como o corpo do criador que precisa ser reparado, ser ressuscitado.»
 
+## Atualização
+### P2024-09-28 (A Raça Inabalável dos Sethianos Emancipados)
 
-## Interpretação secundária (ART-2026-08-18)
-
-Na leitura/interpretação do artigo *O Quarto Cérebro de Pandora* (Denise Ferreira da Silva, aluna avançada de Jan Val Ellam):
-
-- **Tikun vibracional**: "a liberação da alma para o seu próprio reencontro, a ativação da memória como potência amorosa de reintegração";
-- **A Tecelã do Tikun** (aplicação prática — absorvida como aprofundamento vibracional deste verbete): a mulher que tece campos com presença, entre Ariadne (fio da saída) e Pandora (selos do não dito); "sua coerência íntima é suficiente para restaurar conexões desfeitas";
-- **A mulher como ponte viva do Tikun**: "a mulher que sustenta Pandora em si não desaparece, ela se transforma em campo vibracional onde o novo Logos respira";
-- **O corpo como geometria viva do Tikun**; "a mulher estelar gira o caos até que ele volte a ser música" (Sophia e os Logos Criadores, cap. 6, citado no artigo).
-
-> **Demarcação de autoria:** as formulações vibracionais (tecelã do Tikun, ponte viva) são interpretação do artigo ART-2026-08-18 (fonte secundária confiável), não cânon primário direto do Ellam.
+- **Reparo da Criação Indevida (RC-167):** "o problema do ser humano é o problema da criação indevida que tá inoculada no ser humano... O tal do Tikun cabalístico, que é a expressão do reparo que a obra precisa e o criador nela caído também precisa";
+- **Só a raça humana, e não toda:** "a raça humana tem a habilidade de fazer isso, mas não é todo ser humano. Tem que ser alguém emancipado e que tenha um padrão genético X na sua assinatura quântica" — os **Sethianos Emancipados (RC-766)**;
+- **Início com o Quarto Logos (RC-092):** "só se começa esse trabalho de Tikun na hora que o Quarto Logos começar a atuar" (nova aresta RC-514 ↔ RC-092);
+- **Sem o tempero da dignidade (RC-722):** "esse sistema genômico não funciona para o Tikun. Por isso que tem que ser a raça inabalável dos Sethianos Emancipados, que esses pode faltar tudo no genoma deles, menos a sensação de dignidade".
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -173,29 +163,39 @@ Na leitura/interpretação do artigo *O Quarto Cérebro de Pandora* (Denise Ferr
 | A Raça Inabalável dos Sethianos Emancipados | RC-766 | ← relaciona-se-a |
 | Ocaso do Criador (a segunda derrocada do criador reconstruído) | RC-863 | associado |
 
-## Atualização
-### P2024-09-28 (A Raça Inabalável dos Sethianos Emancipados)
+## Fontes
 
-- **Reparo da Criação Indevida (RC-167):** "o problema do ser humano é o problema da criação indevida que tá inoculada no ser humano... O tal do Tikun cabalístico, que é a expressão do reparo que a obra precisa e o criador nela caído também precisa";
-- **Só a raça humana, e não toda:** "a raça humana tem a habilidade de fazer isso, mas não é todo ser humano. Tem que ser alguém emancipado e que tenha um padrão genético X na sua assinatura quântica" — os **Sethianos Emancipados (RC-766)**;
-- **Início com o Quarto Logos (RC-092):** "só se começa esse trabalho de Tikun na hora que o Quarto Logos começar a atuar" (nova aresta RC-514 ↔ RC-092);
-- **Sem o tempero da dignidade (RC-722):** "esse sistema genômico não funciona para o Tikun. Por isso que tem que ser a raça inabalável dos Sethianos Emancipados, que esses pode faltar tudo no genoma deles, menos a sensação de dignidade".
-
-## Ampliação
-### P2024-03-17
-
-**Fonte:** palestra «A Quem Pertence o Planeta e a Biblioteca Genômica Mais Atualizada do Universo» (17/03/2024).
-
-**Trecho verbatim:** «Porque nós, os humanos, somos os únicos capazes de realizar o ticum cabalist. O que é o ticum cabalístico? É o reparo que o DNA do criador precisa sofrer no sentido de nós humanos estamos reparando não só a obra complicada, mas como o corpo do criador que precisa ser reparado, ser ressuscitado.»
-
-## Citações-chave
-
-> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
-
-- «Eu vou ter que fazer revelações fortes sobre esse tipo de questão, porque somos nós, os humanos, não esse tipo de humano que agora nós somos, mas um um continuação disso aqui que vai tem que resolver todas essas paradas porque simplesmente é zero a construção até agora da parte de quem quer que […]» — *ver:* **Ampliação — P2022-11-26 (Choque de Realidade – o Perpétuo…** U0002
-- «Porque nós, os humanos, somos os únicos capazes de realizar o ticum cabalist. O que é o ticum cabalístico? É o reparo que o DNA do criador precisa sofrer no sentido de nós humanos estamos reparando não só a obra complicada, mas como o corpo do criador que precisa ser reparado, ser ressuscitado.» — *ver:* **Ampliação — P2024-03-17**
-- «Porque mesmo esse ser dizendo ou tentando dizer o que houve com ele, mas a turma que recebia era do orador de Javé, então fazia essas reversões e os próprios cabalistas engrandeceram Keter, que é a primeira sefirá da árvore da vida.» — *ver:* **Ampliação — P2021-06-26 (Shiva - A Reconstrução do Erro d…** U0009
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2021-06-26 | Shiva - A Reconstrução do Erro de Brahma e o Tikum (palestra) | — | transcrição automatizada; citação |
+| P2022-09-18 | Os Níveis de Estresse Extremo da Criação (palestra) | — | transcrição automatizada; citação |
+| P2022-11-26 | Choque de Realidade – o Perpétuo Espanto dos Donos da Verdade (palestra) | — | transcrição automatizada; citação |
+| P2022-12-03 | O Ocaso do Criador e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
+| P2023-02-12 | A Desconexão dos Desígnios Proféticos do Judaísmo, do Cristianismo e do Islamismo (palestra) | — | transcrição automatizada; citação |
+| P2023-08-27 | Len Mion e os Senhores da Terra Alexandre Magno e Qin Shi Huang Di (palestra) | — | transcrição automatizada; citação |
+| P2022-05-07 | Shiva, o Projeto Talm e os Mistérios de Awaylengam (palestra) | — | transcrição automatizada; citação |
+| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
+| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
+| B061, B071, B019, B074, B075 | obras | livros |
+| P2022-12-17, P2021-12-04, P2024-05-04, P2025-10-25, P2025-06-26, P2025-02-15, P2024-11-30, P2024-11-09, P2024-07-14 | palestras | palestra/STT |
+| ART-2026-08-18 | O Quarto Cérebro de Pandora (artigo — Denise F. Silva) | artigo de aluna avançada |
 
 
-> Notas de processo: 2 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-514.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o bloco citado desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
+## Estrutura interna
+
+- restabelecimento da Criação; reparo do Criador caído;
+- coconstrutores da Obra (RC-545); Favor Divino (RC-332);
+- Tikun vibracional: a liberação da alma para o próprio reencontro (leitura do artigo ART-2026-08-18).
+
+
+## Interpretação secundária (ART-2026-08-18)
+
+Na leitura/interpretação do artigo *O Quarto Cérebro de Pandora* (Denise Ferreira da Silva, aluna avançada de Jan Val Ellam):
+
+- **Tikun vibracional**: "a liberação da alma para o seu próprio reencontro, a ativação da memória como potência amorosa de reintegração";
+- **A Tecelã do Tikun** (aplicação prática — absorvida como aprofundamento vibracional deste verbete): a mulher que tece campos com presença, entre Ariadne (fio da saída) e Pandora (selos do não dito); "sua coerência íntima é suficiente para restaurar conexões desfeitas";
+- **A mulher como ponte viva do Tikun**: "a mulher que sustenta Pandora em si não desaparece, ela se transforma em campo vibracional onde o novo Logos respira";
+- **O corpo como geometria viva do Tikun**; "a mulher estelar gira o caos até que ele volte a ser música" (Sophia e os Logos Criadores, cap. 6, citado no artigo).
+
+> **Demarcação de autoria:** as formulações vibracionais (tecelã do Tikun, ponte viva) são interpretação do artigo ART-2026-08-18 (fonte secundária confiável), não cânon primário direto do Ellam.

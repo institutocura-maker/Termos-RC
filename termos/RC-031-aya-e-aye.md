@@ -28,11 +28,6 @@ Com isso:
 
 **Origem do conteúdo da ampliação:** palestra `P2018-12-16 — Terra Atlantis - Era Sapiens` (16/12/2018). Transcrição automatizada, **não conferida com o áudio**; cada aspa foi recortada do `original.txt` pelo índice de âncoras do motor e conferida byte a byte pelo portão B. Nada foi digitado de memória.
 
-## Observações sobre o Estado da Malha
-
-* **Grafia STT:** 'seres aia' / 'Zaia' / 'Aia' = Aya e Aye. Agentes de Sofia que disputaram Sete com Lemion.
-* **Trava aplicável**: nenhuma além das gerais do despacho.
-
 ## Ampliação
 ### P2018-12-16 (Terra Atlantis - Era Sapiens)
 
@@ -41,14 +36,6 @@ Com isso:
 ### BLOCO 5 — spans retidos pelo caça-âncoras (máscara do STT)
 
 # (nenhum span retido neste ciclo)
-
-## Fontes
-| Obra (sigla) | Título | Página | Tipo |
-|---|---|---|---|
-| P2018-12-16 | Terra Atlantis - Era Sapiens (palestra) | — | transcrição automatizada; citação |
-| B031 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
-| B024 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
-| B044 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -61,3 +48,16 @@ Com isso:
 | Era do Impasse | RC-159 | associado |
 | Horda Colmeia | RC-185 | associado |
 
+
+## Fontes
+| Obra (sigla) | Título | Página | Tipo |
+|---|---|---|---|
+| P2018-12-16 | Terra Atlantis - Era Sapiens (palestra) | — | transcrição automatizada; citação |
+| B031 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
+| B024 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
+| B044 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
+
+## Observações sobre o Estado da Malha
+
+* **Grafia STT:** 'seres aia' / 'Zaia' / 'Aia' = Aya e Aye. Agentes de Sofia que disputaram Sete com Lemion.
+* **Trava aplicável**: nenhuma além das gerais do despacho.

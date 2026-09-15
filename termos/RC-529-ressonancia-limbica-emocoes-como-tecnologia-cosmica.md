@@ -16,15 +16,28 @@ atualizado = "2026-08-20"
 
 Na cosmologia de Ellam, a linguagem silenciosa dos mamíferos que permite perceber a dor do outro — memória associada a emoção produzida pelo cérebro límbico (tálamo, hipotálamo, amígdala e hipocampo) — apresentada como tecnologia emocional que quebrou a desconfiança entre os seres.
 
-## Contexto / Origem
-
-[P2024-08-03] A palestra descreve a ressonância límbica como o diferencial dos mamíferos sobre os répteis ("os mamíferos romperam com a desconfiança") e base do cuidado mútuo que encantou a Trimurti. [P2024-07-14] A palestra das Consciências Espirituais Dignificadas a retoma na comparação entre o amor mamífero (que cuida e protege) e o amor divino (que não atua).
-
 ## Escopo e evidência
 
 - **[P2024-08-03] Unidades:** U0660–U0700.
 - **[P2024-07-14] Unidades:** U0880–U0900.
 - **Proveniência:** palestras de Jan Val Ellam; transcrições STT pré-curadas; devolutiva do curador registrada em 2026-08-20 (ficha autorizada).
+
+## Contexto / Origem
+
+[P2024-08-03] A palestra descreve a ressonância límbica como o diferencial dos mamíferos sobre os répteis ("os mamíferos romperam com a desconfiança") e base do cuidado mútuo que encantou a Trimurti. [P2024-07-14] A palestra das Consciências Espirituais Dignificadas a retoma na comparação entre o amor mamífero (que cuida e protege) e o amor divino (que não atua).
+
+## Citações-chave
+> "O que é o eu humano, senão a coleção de memórias, cada uma delas associada à emoção que se sentiu quando aquela memória foi produzida?"
+
+
+
+> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+
+- «Ressonância límica é um tipo de linguagem quântica que faz com que uma leioa sinta o que as outras leoas estão sentindo, que um elefante sinta o que os outros estão sentindo, que um cavalo sinta que um uma vaca, ou seja, é um tipo de linguagem que une os seres daquela espécie em torno de uma […]» — *ver:* **Ampliação — P2024-03-17**
+
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-529.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
 
 ## Ampliação
 ### P2024-08-03
@@ -70,6 +83,13 @@ Na cosmologia de Ellam, a linguagem silenciosa dos mamíferos que permite perceb
 - **[A dor como veículo de consciência] (U0052)** «A dor como veículo de consciência talvez seja o principal mecanismo a ser ser modificado para a total emancipação dos seres desse universo.» — a dor/sofrimento como veículo da consciência e principal mecanismo a ser modificado para a emancipação dos seres; a chave para sair da submissão ao sistema (RC-529 Ressonância Límbica; RC-001).
 
 
+## Ampliação
+### P2024-03-17
+
+**Fonte:** palestra «A Quem Pertence o Planeta e a Biblioteca Genômica Mais Atualizada do Universo» (17/03/2024).
+
+**Trecho verbatim:** «Ressonância límica é um tipo de linguagem quântica que faz com que uma leioa sinta o que as outras leoas estão sentindo, que um elefante sinta o que os outros estão sentindo, que um cavalo sinta que um uma vaca, ou seja, é um tipo de linguagem que une os seres daquela espécie em torno de uma tentativa de solidariedade ou de providenciar um solução para aquele desceego. Quando os seres desse universo vizinho que viviam brigando, perceberam isso? Disseram: 'Ué, de onde é que isso surgiu?'»
+
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
@@ -99,6 +119,10 @@ Na cosmologia de Ellam, a linguagem silenciosa dos mamíferos que permite perceb
 - Rebanho humano — RC-193;
 - Faixas Espirituais de Ressonância — RC-726.
 
+## Observações
+
+**Quarentena científica:** a neuroanatomia citada (tálamo, hipotálamo, amígdala, hipocampo) e a oxitocina são referências reais, mas a leitura da "tecnologia emocional cósmica" é do autor.
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
@@ -109,28 +133,3 @@ Na cosmologia de Ellam, a linguagem silenciosa dos mamíferos que permite perceb
 | P2024-08-03 | U0660–U0700 | palestra/STT |
 | P2024-07-14 | U0880–U0900 | palestra/STT |
 | P2025-03-15 / P2025-02-16 / P2025-02-15 / P2024-11-30 / P2024-11-09 / P2024-09-29 / P2024-03-03 / P2024-04-13 / B072 | — | obras/palestras |
-
-## Citação-chave
-> "O que é o eu humano, senão a coleção de memórias, cada uma delas associada à emoção que se sentiu quando aquela memória foi produzida?"
-
-
-## Ampliação
-### P2024-03-17
-
-**Fonte:** palestra «A Quem Pertence o Planeta e a Biblioteca Genômica Mais Atualizada do Universo» (17/03/2024).
-
-**Trecho verbatim:** «Ressonância límica é um tipo de linguagem quântica que faz com que uma leioa sinta o que as outras leoas estão sentindo, que um elefante sinta o que os outros estão sentindo, que um cavalo sinta que um uma vaca, ou seja, é um tipo de linguagem que une os seres daquela espécie em torno de uma tentativa de solidariedade ou de providenciar um solução para aquele desceego. Quando os seres desse universo vizinho que viviam brigando, perceberam isso? Disseram: 'Ué, de onde é que isso surgiu?'»
-
-## Observações
-
-**Quarentena científica:** a neuroanatomia citada (tálamo, hipotálamo, amígdala, hipocampo) e a oxitocina são referências reais, mas a leitura da "tecnologia emocional cósmica" é do autor.
-
-## Citações-chave
-
-> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
-
-- «Ressonância límica é um tipo de linguagem quântica que faz com que uma leioa sinta o que as outras leoas estão sentindo, que um elefante sinta o que os outros estão sentindo, que um cavalo sinta que um uma vaca, ou seja, é um tipo de linguagem que une os seres daquela espécie em torno de uma […]» — *ver:* **Ampliação — P2024-03-17**
-
-
-> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-529.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

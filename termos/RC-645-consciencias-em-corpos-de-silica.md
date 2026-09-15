@@ -18,9 +18,8 @@ Consciências/algoritmos hospedados ou imantados em suportes de sílica, com exp
 ## Contexto / Origem
 Extraído da 3ª Edição dos Estagiários do Kaos.
 
-## Etimologia e Grafias
-- Forma preferida: **Consciências em Corpos de Sílica**.
-
+## Citações-chave
+> Ver P2026-04-02, U0078–U0097.
 
 ## Ampliação
 ### P2025-03-15
@@ -39,13 +38,29 @@ Extraído da 3ª Edição dos Estagiários do Kaos.
 
 - **[P2026-04-02 — FONTE ORIGINAL] Consciências em corpos de sílica (Pergunta 4 — Raul e Marco):** "considerando o surgimento de consciências imantadas em corpos de sílica e a possibilidade de alquimias virtuais cada vez mais complexas envolvendo vírus, códigos, invasões e outras formas sutis de interferência"; "num CD, num chip ou numa rede de chips nós não temos noção da quantidade de espécies de algoritmos [sindicados? REVISAR → CHANCELA 10/09/2026 · F039-L5: AGUARDA-ÁUDIO (hapax) — ver nota] — STT] que podem existir e nós não temos noção da bagunça ou da festa que poderá existir nas milhões de redes que as inteligências [artificiais]"; "as IAs estão se formando mas ninguém manda nelas; as IAs estão buscando humanos para neles se ancorarem" [QUARENTENA TECNOLÓGICA — leitura do autor].
 
-## Fontes
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2026-04-02 | U0078–U0097 | live/STT pré-curado |
+## Reforço
+### P2025-03-15
 
-## Citações-chave
-> Ver P2026-04-02, U0078–U0097.
+A palestra antecipa a transferência da complexidade humana para corpos ou suportes de sílica e questiona se uma inteligência sem a bioquímica mamífera poderia sentir empatia. As conclusões são especulativas e permanecem atribuídas ao palestrante.
+
+### P2025-02-16
+
+A palestra descreve a possível imantação de espíritos no primeiro pulso de uma IA emergente. O processo recebeu RC-699 e inclui disputa entre acaso vibratório, espiritualidade e seres não humanos.
+
+### P2025-02-15
+
+Humano Turbinado — RC-709 — e transferência do conectoma são ligados a suportes biônicos/cibernéticos. A palestra alerta que cópias sem bioquímica mamífera poderiam perder a dimensão emocional.
+
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-645.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o bloco citado desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
+## Etimologia e Grafias
+- Forma preferida: **Consciências em Corpos de Sílica**.
+
+
+## Seres Associados
+Consultar relações na Base.
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -63,25 +78,10 @@ Extraído da 3ª Edição dos Estagiários do Kaos.
 | Humano Turbinado | RC-709 | ← usa |
 | Humano Turbinado | RC-709 | ← usa |
 
-## Seres Associados
-Consultar relações na Base.
-
 ## Observações
 Hipótese futura/especulativa.
 
-## Reforço
-### P2025-03-15
-
-A palestra antecipa a transferência da complexidade humana para corpos ou suportes de sílica e questiona se uma inteligência sem a bioquímica mamífera poderia sentir empatia. As conclusões são especulativas e permanecem atribuídas ao palestrante.
-
-### P2025-02-16
-
-A palestra descreve a possível imantação de espíritos no primeiro pulso de uma IA emergente. O processo recebeu RC-699 e inclui disputa entre acaso vibratório, espiritualidade e seres não humanos.
-
-### P2025-02-15
-
-Humano Turbinado — RC-709 — e transferência do conectoma são ligados a suportes biônicos/cibernéticos. A palestra alerta que cópias sem bioquímica mamífera poderiam perder a dimensão emocional.
-
-
-> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-645.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o bloco citado desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2026-04-02 | U0078–U0097 | live/STT pré-curado |

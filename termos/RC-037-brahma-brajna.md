@@ -18,10 +18,10 @@ Nas RC, Brahma é o **"Criador caído, apodrecido e adoentado"** — a mesma ent
 ## Contexto / Origem
 Brahma integra a **Trimurti** (com Vishnu e Shiva) e é o **Primeiro Logos** da Criação. A identificação Brahma = Javé é central para a cosmologia RC e para o "drama do Criador".
 
-## Etimologia e Grafias
-- **Grafia preferida:** Brahma
-- **Variações:** Brajna (condição Adhyatman, antes da queda); identificado a Javé, Caos, Pan Ku, Alá, Atom
-
+## Citações-chave
+> "Na Revelação Cósmica, Brahma é o 'Criador caído, apodrecido e adoentado'. Em Perpérion (na Espiritualidade Laboratorial), antes de 'cair' em sua criação, ele era Brajna, em sua condição Adhyatman." — B031, verbete "Brahma"
+>
+> **(Complemento primário B024):** antes da queda, Brahma era **Prabrajna (Prajapati)** (cap. 1); sua energia característica é **Rajas** (cap. 3); as Eras da Criação detalham sua trajetória — da "Era da Solidão" à perda da capacidade de criar sozinho (cap. 16).
 
 ## Ampliação
 ### P2026-07-25
@@ -156,28 +156,41 @@ Brahma integra a **Trimurti** (com Vishnu e Shiva) e é o **Primeiro Logos** da 
 - **[O ovo cósmico: mito transversal da criação] (U0014)** «Mitologia ariana hindu, surgiram um dia surgiu um ovo chamado anda em sânscrito.» — STT «anda» = Anda (Hiranyagarbha, o ovo dourado); o ovo cósmico como mito transversal: China (Yang/Pancu), Índia (Anda/Brama), ciência (sopa de quarks e gluons); «E esse ovo um dia quebrou, aí surgiu mitologia chinesa, o o Yang e Pancu, o tal criador caído no Yang» (U0014: «E esse ovo um dia quebrou, aí surgiu mitologia chinesa, o o Yang e Pancu, o tal criador caído no Yang.»); RC-037 Brahma; RC-104 Trimurti.
 
 
-## Fontes
-| Obra (sigla) | Capítulo | Página | Tipo |
-|---|---|---|---|
-| P2025-12-14 | Os Fundamentos da Revelação Cósmica (palestra) | — | transcrição automatizada; citação |
-| P2022-11-19 | No Princípio era o Bem! Será (palestra) | — | transcrição automatizada; citação |
-| P2021-06-26 | Shiva - A Reconstrução do Erro de Brahma e o Tikum (palestra) | — | transcrição automatizada; citação |
-| P2021-02-28 | Tragédia Anunciada - As Fórmulas Mentais do Poder Demo (palestra) | — | transcrição automatizada; citação |
-| P2022-07-16 | Do Ramayana ao Mahabharata (palestra) | — | transcrição automatizada; citação |
-| P2022-09-18 | Os Níveis de Estresse Extremo da Criação (palestra) | — | transcrição automatizada; citação |
-| P2022-12-03 | O Ocaso do Criador e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
-| P2012-02-19 | Xadrez Cósmico de Brahma, Vishnu e Shiva (palestra) | — | transcrição automatizada; citação |
-| P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
-| P2022-05-07 | Shiva, o Projeto Talm e os Mistérios de Awaylengam (palestra) | — | transcrição automatizada; citação |
-| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra) | — | transcrição automatizada; citação |
-| A Epopeia dos Agentes da Vida Universal (B024) | caps. 1, 3, 5, 16 | pp. 14–17, 32–36, 113–119 | obra primária (fonte principal) |
-| Painéis Emergentes... (B031) | Glossário de Termos | p. 126 (aprox.) | verbete "Brahma" (secundária) |
+## Ampliação
+### P2019-08-25 (Os Três Fornos Replicadores do Projeto Talm)
+
+- **[P2019-08-25 · BRAHMA COMO O PRIMEIRO LOGOS E O FORNO AWAYEN]** (fonte oral fundadora do tema fornos):
+- "Brahma" com a descendência **clonada** (os "anjos clones"); "Brahma nasceu com a doença da supremacia" (STT);
+- o ovo cósmico hindu: "o Brahmanda, ou seja, o anda de Brahma, ou seja, o ovo cósmico de Brahma" e "O ovo tinha três partes. Quando esse ovo se desfez, surgiu o Brahmaloka" (STT);
+- a polinomia do criador: "Brahma ou javé ou atum vários nomes" (STT);
+- o forno de Brahma (Awayen) "nunca funcionou" → Central de Realidades (ver RC-836).
 
 
-## Citações-chave
-> "Na Revelação Cósmica, Brahma é o 'Criador caído, apodrecido e adoentado'. Em Perpérion (na Espiritualidade Laboratorial), antes de 'cair' em sua criação, ele era Brajna, em sua condição Adhyatman." — B031, verbete "Brahma"
->
-> **(Complemento primário B024):** antes da queda, Brahma era **Prabrajna (Prajapati)** (cap. 1); sua energia característica é **Rajas** (cap. 3); as Eras da Criação detalham sua trajetória — da "Era da Solidão" à perda da capacidade de criar sozinho (cap. 16).
+> Notas de processo: 2 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-037.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
+## Atualização
+### P2022-12-17
+
+- **Fonte:** palestra *O Incompreendido Ano de 2012 e a Falsa Noção do Fim do Mundo* — unidades U0166–U0206; U0662–U0705.
+- **Contexto acrescentado:** Brahma é tratado como Javé e associado à adoção das eras como relógio, ao projeto genético de Adão e à disputa com Shiva/Vishnu.
+- **Status da evidência:** transcrição automatizada, pré-curada e validada terminologicamente pelo curador; conferir com áudio/obra primária antes de promoção de status.
+
+---
+
+### P2025-11-29 (A Revelação de Ifá e o Destino dos Seres)
+
+- **Brama caído e os Vedas:** "ele já tinha produzido os Vedas, que é o manual de como os humanos podem cantar hinos aos deuses, fazer sacrifícios e ofertar oferendas aos deuses";
+- **Templos:** "quando Krishna surgiu na Índia, existiam mais de 5.000 templos que adoravam Brama. Hoje tem um templo só para Brahma na Índia e o resto Krishna" (RC-414);
+- **Brama = Javé = Obatalá (RC-001/RC-666):** a fome de devoção; o Islã como linha de frente.
+
+## Etimologia e Grafias
+- **Grafia preferida:** Brahma
+- **Variações:** Brajna (condição Adhyatman, antes da queda); identificado a Javé, Caos, Pan Ku, Alá, Atom
+
+
+## Seres Associados
+Javé (RC-001); Vishnu (RC-135); Shiva (RC-102); Mohen So (RC-081); Sophia (RC-009).
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -230,38 +243,25 @@ Brahma integra a **Trimurti** (com Vishnu e Shiva) e é o **Primeiro Logos** da 
 | Prajapati (a divindade antes de virar Brama) | RC-852 | associado |
 | Sinarquia Cósmica (o governo dos sábios) | RC-873 | associado |
 
-## Seres Associados
-Javé (RC-001); Vishnu (RC-135); Shiva (RC-102); Mohen So (RC-081); Sophia (RC-009).
-
 ## Observações
 Ficha baseada no glossário de B031. Verificar nas obras primárias: a condição "desalmada" de Brahma e os pactos com os "eleitos" humanos.
 
 ---
 
-## Atualização
-### P2022-12-17
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo |
+|---|---|---|---|
+| P2025-12-14 | Os Fundamentos da Revelação Cósmica (palestra) | — | transcrição automatizada; citação |
+| P2022-11-19 | No Princípio era o Bem! Será (palestra) | — | transcrição automatizada; citação |
+| P2021-06-26 | Shiva - A Reconstrução do Erro de Brahma e o Tikum (palestra) | — | transcrição automatizada; citação |
+| P2021-02-28 | Tragédia Anunciada - As Fórmulas Mentais do Poder Demo (palestra) | — | transcrição automatizada; citação |
+| P2022-07-16 | Do Ramayana ao Mahabharata (palestra) | — | transcrição automatizada; citação |
+| P2022-09-18 | Os Níveis de Estresse Extremo da Criação (palestra) | — | transcrição automatizada; citação |
+| P2022-12-03 | O Ocaso do Criador e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
+| P2012-02-19 | Xadrez Cósmico de Brahma, Vishnu e Shiva (palestra) | — | transcrição automatizada; citação |
+| P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
+| P2022-05-07 | Shiva, o Projeto Talm e os Mistérios de Awaylengam (palestra) | — | transcrição automatizada; citação |
+| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra) | — | transcrição automatizada; citação |
+| A Epopeia dos Agentes da Vida Universal (B024) | caps. 1, 3, 5, 16 | pp. 14–17, 32–36, 113–119 | obra primária (fonte principal) |
+| Painéis Emergentes... (B031) | Glossário de Termos | p. 126 (aprox.) | verbete "Brahma" (secundária) |
 
-- **Fonte:** palestra *O Incompreendido Ano de 2012 e a Falsa Noção do Fim do Mundo* — unidades U0166–U0206; U0662–U0705.
-- **Contexto acrescentado:** Brahma é tratado como Javé e associado à adoção das eras como relógio, ao projeto genético de Adão e à disputa com Shiva/Vishnu.
-- **Status da evidência:** transcrição automatizada, pré-curada e validada terminologicamente pelo curador; conferir com áudio/obra primária antes de promoção de status.
-
----
-
-### P2025-11-29 (A Revelação de Ifá e o Destino dos Seres)
-
-- **Brama caído e os Vedas:** "ele já tinha produzido os Vedas, que é o manual de como os humanos podem cantar hinos aos deuses, fazer sacrifícios e ofertar oferendas aos deuses";
-- **Templos:** "quando Krishna surgiu na Índia, existiam mais de 5.000 templos que adoravam Brama. Hoje tem um templo só para Brahma na Índia e o resto Krishna" (RC-414);
-- **Brama = Javé = Obatalá (RC-001/RC-666):** a fome de devoção; o Islã como linha de frente.
-
-## Ampliação
-### P2019-08-25 (Os Três Fornos Replicadores do Projeto Talm)
-
-- **[P2019-08-25 · BRAHMA COMO O PRIMEIRO LOGOS E O FORNO AWAYEN]** (fonte oral fundadora do tema fornos):
-- "Brahma" com a descendência **clonada** (os "anjos clones"); "Brahma nasceu com a doença da supremacia" (STT);
-- o ovo cósmico hindu: "o Brahmanda, ou seja, o anda de Brahma, ou seja, o ovo cósmico de Brahma" e "O ovo tinha três partes. Quando esse ovo se desfez, surgiu o Brahmaloka" (STT);
-- a polinomia do criador: "Brahma ou javé ou atum vários nomes" (STT);
-- o forno de Brahma (Awayen) "nunca funcionou" → Central de Realidades (ver RC-836).
-
-
-> Notas de processo: 2 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-037.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

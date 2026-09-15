@@ -18,18 +18,15 @@ Família de **374 anjos clones criados por Javé no Brahmaloka**, membros da "cl
 ## Contexto / Origem
 O B015 (cap. 4, "A Geração dos En Drel") detalha a origem: foram **forjados pouco antes da grande conflagração** (a agressão ao Criador que diminuiu seu poder criador). Da primeira geração do Criador restaram **dez seres primordiais ("dez sagrados")**, e um deles — mentor dos En Drel — pediu ao Criador uma geração com as características dos guardiões. "Fomos, então, gerados, mas não a tempo de impedir a agressão endereçada ao Criador." Os En Drel e suas naves eram "um só corpo" nas viagens.
 
+## Citações-chave
+> "Na verdade, fomos forjados um pouco antes da grande conflagração que terminou por diminuir o poder criador do nosso comandante supremo... Da primeira geração foram, portanto, dez os seres primordiais que sobraram e eis que eles existem até esses tempos atuais... Dos dez sagrados, um deles foi o mentor dos En Drel." — B015, cap. 4
+
 ## Etimologia e Grafias
 - **Grafia preferida:** En Drel
 - **Variações:** Família En Drel; membros chamados "endrelnianos" (B015); Zont En Drel (pré-nome dos despertos)
 
-## Fontes
-| Obra (sigla) | Capítulo | Página | Tipo |
-|---|---|---|---|
-| O Guardião do Éden (B015) | cap. 4 (A Geração dos En Drel) | pp. 20–28 (aprox.) | capítulo dedicado |
-| Painéis Emergentes (B031) | Glossário (En Drel) | — | apoio (secundária) |
-
-## Citações-chave
-> "Na verdade, fomos forjados um pouco antes da grande conflagração que terminou por diminuir o poder criador do nosso comandante supremo... Da primeira geração foram, portanto, dez os seres primordiais que sobraram e eis que eles existem até esses tempos atuais... Dos dez sagrados, um deles foi o mentor dos En Drel." — B015, cap. 4
+## Seres Associados
+Javé (RC-001); Zont En Drel 29 (RC-147); Comandante En Drel 1; Criador (RC-041).
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -41,9 +38,12 @@ O B015 (cap. 4, "A Geração dos En Drel") detalha a origem: foram **forjados po
 | Endrelnianos | RC-247 | ← é-um |
 | Individualização Epifenomenológica dos Anjos Clones | RC-651 | associado |
 
-## Seres Associados
-Javé (RC-001); Zont En Drel 29 (RC-147); Comandante En Drel 1; Criador (RC-041).
-
 ## Observações
 Ficha baseada em B015 (obra primária) + B031. A leitura de B015 é essencial para a compreensão da classe En Drel — sua "robotização", o despertar de Zont e a humanização emocional.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo |
+|---|---|---|---|
+| O Guardião do Éden (B015) | cap. 4 (A Geração dos En Drel) | pp. 20–28 (aprox.) | capítulo dedicado |
+| Painéis Emergentes (B031) | Glossário (En Drel) | — | apoio (secundária) |

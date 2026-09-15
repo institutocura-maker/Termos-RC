@@ -18,11 +18,10 @@ atualizado = "2026-08-29"
 ## Contexto / Origem
 Versão primária em B020/B021 (Ellam). No B087 (psicografia de Jeane Miranda — versão paralela): Prometeu cria "criaturas de barro" com materiais "que nem vou descrever" e deixa-as à vista para o irmão Epimeteu aplicar as "poções" (p. 26); "fazia algo e Epimeteu vinha depois e modificava" — o método experimental alternado (p. 25); as "peças" contra Zeus ("ele lhe pregaria uma peça para que Zeus não esquecesse quem era o mais esperto", p. 32); o pacto com Pandora ("Trabalharemos em conjunto com esse propósito? Seremos parceiros de ideal?", p. 44); o "marco evolutivo" ("em cima dos ombros dessa espécie tão grotesca perduram várias possibilidades de 'marco evolutivo' nunca antes visto", p. 58); a eliminação das "fêmeas-testes" ("os fins justificam os meios" — p. 61, com a nota 4: "Prometeu não sabia que essas duas fêmeas tinham sido criadas por Atena"); o pressentimento do castigo (p. 53); a doutrina da reencarnação como única evolução para as estirpes falidas ("não mais existir e, depois, retornar à vida nesta Criação sob uma nova forma corporal, um 'novo modelo de existir'", p. 59).
 
-## Etimologia e Grafias
-- **Grafia preferida:** Prometeu (titã)
-- **Variações:** Prometeu
-- **Obs.:** na nota mitológica da ed. 2022 do B087: Prometeu = "**antevisão**" ("aquele que vê o futuro"); "Segundo Hesíodo, Prometeu desenvolveu um papel crucial na história da humanidade"
+## Citações-chave
+> "Observe, Pandora, que em cima dos ombros dessa espécie tão grotesca perduram várias possibilidades de 'marco evolutivo' nunca antes visto, ou sequer pretendido para criaturas tão frágeis e primitivas como essas que aí vemos." — B087, p. 58
 
+> "O que está por ocorrer, nem você nem ninguém pode impedir. Eu aceito porque não há o que se possa fazer para evitar o que virá a acontecer. Somente quero que você proteja o meu irmão e leve adiante o nosso planeamento em desenvolver o cérebro das 'criaturas de duas pernas'..." — B087, p. 53
 
 ## Ampliação
 ### B088 (A Revolta do Anjo Decaído)
@@ -53,21 +52,14 @@ Versão primária em B020/B021 (Ellam). No B087 (psicografia de Jeane Miranda �
 
 - **[P2023-12-03 · PROMETEU (TITÃ) NA FALA DE 03/12/2023]** «como a rebelião de Prometeu, foi algo que aconteceu nos Demobi, ou seja, várias rebeliões.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2021-05-15`); a entrada desta fonte é de **conteúdo**, não de data.
 
-## Fontes
-| Obra (sigla) | Capítulo | Página | Tipo |
-|---|---|---|---|
-| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra) | — | transcrição automatizada; citação |
-| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra) | — | transcrição automatizada; citação |
-| Os Livros da Vida de Pandora 1 (B087) | Caps. 1–15 | pp. 14–86 (PDF): as criaturas de barro; o pacto; o pressentimento | narrativa psicografada (Pandora) |
-| O Sorriso de Pandora (B020) | — | — | obra primária (versão canônica) |
-| Tempos Difíceis no Olimpo (B021) | — | — | obra primária |
+## Etimologia e Grafias
+- **Grafia preferida:** Prometeu (titã)
+- **Variações:** Prometeu
+- **Obs.:** na nota mitológica da ed. 2022 do B087: Prometeu = "**antevisão**" ("aquele que vê o futuro"); "Segundo Hesíodo, Prometeu desenvolveu um papel crucial na história da humanidade"
 
 
-
-## Citações-chave
-> "Observe, Pandora, que em cima dos ombros dessa espécie tão grotesca perduram várias possibilidades de 'marco evolutivo' nunca antes visto, ou sequer pretendido para criaturas tão frágeis e primitivas como essas que aí vemos." — B087, p. 58
-
-> "O que está por ocorrer, nem você nem ninguém pode impedir. Eu aceito porque não há o que se possa fazer para evitar o que virá a acontecer. Somente quero que você proteja o meu irmão e leve adiante o nosso planeamento em desenvolver o cérebro das 'criaturas de duas pernas'..." — B087, p. 53
+## Seres Associados
+Epimeteu (RC-302, o irmão); Pandora (RC-086, a discípula); Zeus (RC-145); Atena (as "fêmeas-testes" criadas por ela).
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -90,9 +82,17 @@ Versão primária em B020/B021 (Ellam). No B087 (psicografia de Jeane Miranda �
 | Prole sem Face (Humanos Modificáveis sem Face Definida) | RC-819 | associado |
 | Cronos (titã) | RC-841 | associado |
 
-## Seres Associados
-Epimeteu (RC-302, o irmão); Pandora (RC-086, a discípula); Zeus (RC-145); Atena (as "fêmeas-testes" criadas por ela).
-
 ## Observações
 **Ficha criada no ciclo B087 (Devolutiva O-2, 2026-08-25)** — termo já constava da tabela-mestra (B020/B021) sem ficha física. **B087 adicionada às fontes** (fonte nova). **Quarentenas (O-7):** mediumística (psicografia — "leitura do ser"; divergências × B020/B021 registradas, jamais fundidas) + ufológica (titã do universo antimaterial — cruzar, não materializar). O pressentimento do castigo (o Cáucaso do mito) fica em aberto no Livro 1 — o desfecho deve estar no B088. 0 códigos novos (O-3).
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** os 2 trechos entre aspas desta ficha **não** resistem à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Todos deixam vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo |
+|---|---|---|---|
+| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra) | — | transcrição automatizada; citação |
+| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra) | — | transcrição automatizada; citação |
+| Os Livros da Vida de Pandora 1 (B087) | Caps. 1–15 | pp. 14–86 (PDF): as criaturas de barro; o pacto; o pressentimento | narrativa psicografada (Pandora) |
+| O Sorriso de Pandora (B020) | — | — | obra primária (versão canônica) |
+| Tempos Difíceis no Olimpo (B021) | — | — | obra primária |
+
+

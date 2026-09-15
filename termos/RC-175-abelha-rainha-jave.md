@@ -16,12 +16,12 @@ atualizado = "2026-08-28"
 
 Na RC, metáfora do **sistema colmeico de comando** — o modelo em que um comando central ("abelha rainha") dirige uma colônia de operários. Associada a Javé (RC-001) e ao Modelo Colmeia (RC-176).
 
-## Atualização
-### P2021-03-27
+## Citações-chave
 
-- **Sophia como "abelha rainha":** "um monte de civilizações que obedece Sofia, mas obedece porque a Sofia é a abelha rainha, ou seja, é o velho sistema colmeico que funciona entre eles" — o modelo colmeico também se aplica ao séquito de Sophia (RC-009), no contexto do relógio messiânico (RC-765);
-- A metáfora reforça o padrão de domínio (RC-764) e a estrutura de comando cósmico (RC-176).
+> "A Sofia é a abelha rainha, ou seja, é o velho sistema colmeico que funciona entre eles." — P2021-03-27
 
+> "A pergunta que se impõe para análise é: o que o atual nível da condição humana poderia saber sobre a “DRAMÁTICA COLMEIA DESENCANTADA” da qual ela faz parte, ainda que, na atualidade, tanto a “Abelha-rainha” (Javé) quanto os espécimes da mesma (as “criaturas- ferramentas” humanas) se viram desenquadrados em relação à função genética que antes os moviam, levando-se também em conta que o Criador não tem a mais remota consciência do que está havendo com a sua condição pessoal? Que choque foi esse? Antes, a “Abelha-rainha” mandava em tudo e em todos, e as criaturas obedeciam." — B044
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** os 2 trechos entre aspas desta ficha **não** resistem à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Todos deixam vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
 
 ## Ampliação
 ### B044 (A Divina Colmeia)
@@ -47,20 +47,19 @@ Na RC, metáfora do **sistema colmeico de comando** — o modelo em que um coman
 
 - **[Javé e os clones = abelha rainha] (U0012)** «Quando a gente olha para Javé e CLS, é a mesma coisa que você olhar para uma abelha rainha e as abelhas.» — Javé e os clones (RC-175) reproduzem a lógica abelha-rainha↔abelhas: os clones só existem para servir o criador.
 
-## Fontes
+## Atualização
+### P2021-03-27
 
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2018-12-15 | Terra Atlantis – Aprofundamento (palestra) | — | transcrição automatizada; citação |
-| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
-| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra/STT) | citação verbatim; paráfrase |
-| P2021-03-27 | bloco 9 (relógio messiânico — Sofia abelha rainha) | palestra/STT pré-curada |
+- **Sophia como "abelha rainha":** "um monte de civilizações que obedece Sofia, mas obedece porque a Sofia é a abelha rainha, ou seja, é o velho sistema colmeico que funciona entre eles" — o modelo colmeico também se aplica ao séquito de Sophia (RC-009), no contexto do relógio messiânico (RC-765);
+- A metáfora reforça o padrão de domínio (RC-764) e a estrutura de comando cósmico (RC-176).
 
 
+## Atualização
+### P2024-09-28 (A Raça Inabalável dos Sethianos Emancipados)
 
-## Citação-chave
+- **Elohim = colmeia de Javé:** "Elohim era um sistema que funcionava de Javé para os seus anjos clones, do jeito que uma abelha rainha e as suas abelhas operárias compõem uma colmeia... era um grupo de seres com alfa mandando e o resto obedecendo" (RC-004 Elohim — nova aresta RC-004 ↔ RC-175);
+- Reforça o modelo colmeico como estrutura de comando de Javé (contraste com os Sethianos Emancipados, RC-766).
 
-> "A Sofia é a abelha rainha, ou seja, é o velho sistema colmeico que funciona entre eles." — P2021-03-27
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -78,13 +77,13 @@ Metáfora de comando — **leitura do autor**, não zoologia social validada.
 
 ---
 
-## Atualização
-### P2024-09-28 (A Raça Inabalável dos Sethianos Emancipados)
+## Fontes
 
-- **Elohim = colmeia de Javé:** "Elohim era um sistema que funcionava de Javé para os seus anjos clones, do jeito que uma abelha rainha e as suas abelhas operárias compõem uma colmeia... era um grupo de seres com alfa mandando e o resto obedecendo" (RC-004 Elohim — nova aresta RC-004 ↔ RC-175);
-- Reforça o modelo colmeico como estrutura de comando de Javé (contraste com os Sethianos Emancipados, RC-766).
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2018-12-15 | Terra Atlantis – Aprofundamento (palestra) | — | transcrição automatizada; citação |
+| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
+| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra/STT) | citação verbatim; paráfrase |
+| P2021-03-27 | bloco 9 (relógio messiânico — Sofia abelha rainha) | palestra/STT pré-curada |
 
 
-## Citações-chave
-> "A pergunta que se impõe para análise é: o que o atual nível da condição humana poderia saber sobre a “DRAMÁTICA COLMEIA DESENCANTADA” da qual ela faz parte, ainda que, na atualidade, tanto a “Abelha-rainha” (Javé) quanto os espécimes da mesma (as “criaturas- ferramentas” humanas) se viram desenquadrados em relação à função genética que antes os moviam, levando-se também em conta que o Criador não tem a mais remota consciência do que está havendo com a sua condição pessoal? Que choque foi esse? Antes, a “Abelha-rainha” mandava em tudo e em todos, e as criaturas obedeciam." — B044
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** os 2 trechos entre aspas desta ficha **não** resistem à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Todos deixam vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

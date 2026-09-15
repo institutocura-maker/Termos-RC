@@ -25,9 +25,8 @@ O termo é neologismo/emprego próprio da palestra. Também aparece como “gene
 - ativação de potenciais;
 - formação do Humano Turbinado.
 
-## Absorção
-“Mutações Quânticas e Saltos de Espécie” foi absorvido nesta ficha.
-
+## Citações-chave
+> “Genes críticos seriam genes dorminhocos com potencial evolutivo.”
 
 ## Ampliação
 ### P2025-02-15
@@ -51,19 +50,6 @@ O termo é neologismo/emprego próprio da palestra. Também aparece como “gene
 
 - **[Genes críticos — exclusivos dos fenvans] (U0015)** «Só os fevães têm esses genes críticos porque quando eles foram criados para se transformar em qualquer coisa do outro lado do portal, eles tiveram pela primeira vez essa Coisa que os demonos nunca tiveram.» — fonte oral mais antiga do verbete (anterior a P2021-05-15); os fenvans como únicos portadores.
 
-## Fontes
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2021-01-30 | A Mensagem TALM e os Fios Soltos do Destino (palestra) | — | transcrição automatizada; citação |
-| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra/STT) | citação verbatim; paráfrase |
-| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
-| P2025-02-15 | U1646–U1688 | aula/palestra STT |
-
-
-
-## Citações-chave
-> “Genes críticos seriam genes dorminhocos com potencial evolutivo.”
-
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
@@ -85,6 +71,20 @@ O termo é neologismo/emprego próprio da palestra. Também aparece como “gene
 | Taumaturgia Genético-Química | RC-713 | ← relaciona-se-a |
 | Jabutis Genéticos | RC-729 | associado |
 | Invasão Ancestral do Genoma e do Psiquismo Humanos | RC-732 | associado |
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2021-01-30 | A Mensagem TALM e os Fios Soltos do Destino (palestra) | — | transcrição automatizada; citação |
+| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra/STT) | citação verbatim; paráfrase |
+| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
+| P2025-02-15 | U1646–U1688 | aula/palestra STT |
+
+
+
+## Absorção
+“Mutações Quânticas e Saltos de Espécie” foi absorvido nesta ficha.
+
 
 ## Ressalva Científica
 “Genes críticos” não constitui categoria reconhecida da genética. Mensagens mentais não são comprovadas como mecanismo capaz de reescrever genes, produzir levitação ou transformar peixes em aves. Preservar como conceito RC atribuído à palestra.

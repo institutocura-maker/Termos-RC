@@ -18,10 +18,8 @@ Reorganização futura dos níveis espirituais que não seria mero retorno aos p
 ## Contexto / Origem
 É vinculada à estratégia de Tempérion, ao Quarto Logos, Sophia, Reintegração e emancipação humana.
 
-## Etimologia e Grafias
-- Grafia preferida: Nova Espiritualidade / Novo Paraíso. Termo composto aprovado inicialmente.
-- **Fonte de decisão:** Quadro 9 aprovado pelo curador.
-
+## Citações-chave
+> “Um novo Paraíso é necessário, uma nova Espiritualidade é necessária.” — P2021-12-04, U0459–U0467; U0484–U0533; U0604–U0632
 
 ## Ampliação
 ### P2025-03-15
@@ -53,13 +51,43 @@ Reorganização futura dos níveis espirituais que não seria mero retorno aos p
 
 - **[P2021-12-04 — FONTE ORIGINAL] A nova espiritualidade (U0495–U0496; U0523; U0560–U0564):** "essa nova espiritualidade que eu brinco chamando de novo paraíso é a **estratégia de Tempérion sobre a velha estratégia de Perpérion**, de querer fazer mais do mesmo e continuar tudo como sempre foi" (U0495–U0496); "os Seres Adhy que mergulharam só sabem voltar pro ponto em que eles estavam antes dessa criação" (U0523); "um novo paraíso é necessário, uma nova espiritualidade é necessária, novos caminhos que unem essas distinções de como se organizam os lá fora e aqui dentro... esse novo paraíso, essa nova espiritualidade, o nome novo aí é só num certo sentido, porque isso ainda vai ter que se ancorar na energia da matriz primordial do ser a quem chamamos de Deus na sua criação original" (U0560–U0563); "a infecção via as pontes informativas, via os furos que estão começando a aparecer na blindagem... em algum momento vai infeccionar mais e mais a chamada espiritualidade superior" (U0565–U0567).
 
-## Fontes
-| Obra/palestra | Localização | Tipo |
-|---|---|---|
-| P2021-12-04 — Os Archeons de Ereon e os Seres Adhy | U0459–U0467; U0484–U0533; U0604–U0632 | STT pré-curado e validado |
+## Atualização
+### P2024-05-04
 
-## Citações-chave
-> “Um novo Paraíso é necessário, uma nova Espiritualidade é necessária.” — P2021-12-04, U0459–U0467; U0484–U0533; U0604–U0632
+- Paraíso B foi incorporado como variação da Nova Espiritualidade/Novo Paraíso: cidades/ambientes para consciências que não podem retornar ao Paraíso Original.
+- **Fonte:** P2024-05-04.
+
+## Atualização
+### P2023-05-13 (Bastidores da Revelação Cósmica)
+
+- **"Vamos ter que fazer um paraíso B":** "eu fico brincando, dizendo: 'Ei, a gente vai ter que fazer um paraíso B' — porque esses espíritos que lá estão começam a pulsar de uma forma tal que é totalmente diferente dos que lá estão";
+- **Perfil dos espíritos do Paraíso B:** "possuem características espectrais... vibram com dignidade, com altruísmo, com senso de sacrifício por quem ama, com uma série de temperos psíquicos que os super puros, os super belos, os super maravilhosos..." — espíritos que não se encaixam no Paraíso A;
+- **Esperança de evolução contínua:** seção 8.5 — "A Esperança de um 'Paraíso B' e a Evolução Contínua dos Espíritos";
+- Relação com a vinda de Sophia (RC-009) e o drama de Javé (RC-001).
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
+## Reforço
+### P2025-03-15
+
+O Paraíso B é relacionado ao “amor mamífero” ou “amor que cuida”: consciências dignificadas no caos carregariam experiência de proteção e cuidado não desenvolvida do mesmo modo no Paraíso Original.
+
+### P2025-02-15
+
+O amor mamífero e o zelo pelos afetos são apresentados como freio à saída individual do caos e justificativa para um projeto de Paraíso B.
+
+### P2024-11-30
+
+A ressonância límbica leva consciências que já não precisariam encarnar a retornar por solidariedade aos afetos, reforçando a necessidade de um Paraíso B.
+
+---
+
+## Etimologia e Grafias
+- Grafia preferida: Nova Espiritualidade / Novo Paraíso. Termo composto aprovado inicialmente.
+- **Fonte de decisão:** Quadro 9 aprovado pelo curador.
+
+
+## Seres Associados
+Consultar as relações tipadas acima.
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -85,9 +113,6 @@ Reorganização futura dos níveis espirituais que não seria mero retorno aos p
 | Colegiados Espirituais Humanizados | RC-745 | associado |
 | As Cinco Lentes da Realidade | RC-761 | associado |
 
-## Seres Associados
-Consultar as relações tipadas acima.
-
 ## Observações
 Conceito ainda em elaboração; status candidato.
 
@@ -95,32 +120,7 @@ Conceito ainda em elaboração; status candidato.
 
 ---
 
-## Atualização
-### P2024-05-04
-
-- Paraíso B foi incorporado como variação da Nova Espiritualidade/Novo Paraíso: cidades/ambientes para consciências que não podem retornar ao Paraíso Original.
-- **Fonte:** P2024-05-04.
-
-## Reforço
-### P2025-03-15
-
-O Paraíso B é relacionado ao “amor mamífero” ou “amor que cuida”: consciências dignificadas no caos carregariam experiência de proteção e cuidado não desenvolvida do mesmo modo no Paraíso Original.
-
-### P2025-02-15
-
-O amor mamífero e o zelo pelos afetos são apresentados como freio à saída individual do caos e justificativa para um projeto de Paraíso B.
-
-### P2024-11-30
-
-A ressonância límbica leva consciências que já não precisariam encarnar a retornar por solidariedade aos afetos, reforçando a necessidade de um Paraíso B.
-
----
-
-## Atualização
-### P2023-05-13 (Bastidores da Revelação Cósmica)
-
-- **"Vamos ter que fazer um paraíso B":** "eu fico brincando, dizendo: 'Ei, a gente vai ter que fazer um paraíso B' — porque esses espíritos que lá estão começam a pulsar de uma forma tal que é totalmente diferente dos que lá estão";
-- **Perfil dos espíritos do Paraíso B:** "possuem características espectrais... vibram com dignidade, com altruísmo, com senso de sacrifício por quem ama, com uma série de temperos psíquicos que os super puros, os super belos, os super maravilhosos..." — espíritos que não se encaixam no Paraíso A;
-- **Esperança de evolução contínua:** seção 8.5 — "A Esperança de um 'Paraíso B' e a Evolução Contínua dos Espíritos";
-- Relação com a vinda de Sophia (RC-009) e o drama de Javé (RC-001).
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+## Fontes
+| Obra/palestra | Localização | Tipo |
+|---|---|---|
+| P2021-12-04 — Os Archeons de Ereon e os Seres Adhy | U0459–U0467; U0484–U0533; U0604–U0632 | STT pré-curado e validado |

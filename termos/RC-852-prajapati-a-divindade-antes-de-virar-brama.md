@@ -28,13 +28,6 @@ Com isso:
 
 **Origem do conteúdo da ampliação:** palestra `P2012-02-19 — Xadrez Cósmico de Brahma, Vishnu e Shiva` (19/02/2012). Transcrição automatizada, **não conferida com o áudio**; cada aspa foi recortada do `original.txt` pelo índice de âncoras do motor e conferida byte a byte pelo portão B. Nada foi digitado de memória.
 
-## Observações sobre o Estado da Malha
-
-[Aguardando Ditado Livre]
-
-* **Grafia STT:** 'prajapati' / 'para Japati' = Prajapati. O nome que a divindade tinha antes de se tornar prisioneira da própria criação e passar a ser chamada de Brama.
-* **Trava aplicável**: nenhuma além das gerais do despacho.
-
 ## Ampliação
 ### P2012-02-19 (Xadrez Cósmico de Brahma, Vishnu e Shiva)
 
@@ -45,12 +38,6 @@ Com isso:
 
 - **[A hesitação de Brajna na singularidade] (U0012)** «Por milésimos de segundo, Brajna percebeu o erro em seus algoritmos, mas já não era capaz de conter a singularidade.» — Prajapati/Brajna (RC-852) percebeu o erro em seus algoritmos por milésimos de segundo, mas já não conseguia conter a singularidade — o instante que definiu a queda.
 
-## Fontes
-| Obra (sigla) | Título | Página | Tipo |
-|---|---|---|---|
-| P2025-06-14 | PALESTRA SOBRE A QUEDA DO CRIADOR-Refatorada (palestra) | — | transcrição automatizada; citação |
-| P2012-02-19 | Xadrez Cósmico de Brahma, Vishnu e Shiva (palestra) | — | transcrição automatizada; citação |
-
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
@@ -59,3 +46,16 @@ Com isso:
 | Deidade (Pai-Mãe Amantíssimo / Brahman) | RC-047 | **sem aresta** em `RELACOES`; arquivo existe |
 | Pandemia de Buraco Branco que Traga (Javé Tragado pela Criação) | RC-809 | **sem aresta** em `RELACOES`; arquivo existe |
 
+
+## Fontes
+| Obra (sigla) | Título | Página | Tipo |
+|---|---|---|---|
+| P2025-06-14 | PALESTRA SOBRE A QUEDA DO CRIADOR-Refatorada (palestra) | — | transcrição automatizada; citação |
+| P2012-02-19 | Xadrez Cósmico de Brahma, Vishnu e Shiva (palestra) | — | transcrição automatizada; citação |
+
+## Observações sobre o Estado da Malha
+
+[Aguardando Ditado Livre]
+
+* **Grafia STT:** 'prajapati' / 'para Japati' = Prajapati. O nome que a divindade tinha antes de se tornar prisioneira da própria criação e passar a ser chamada de Brama.
+* **Trava aplicável**: nenhuma além das gerais do despacho.

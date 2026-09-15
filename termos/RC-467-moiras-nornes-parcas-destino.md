@@ -16,6 +16,20 @@ atualizado = "2026-09-05"
 
 As fiandeiras do destino na mitologia grega (Moiras), nórdica (Nornes) e romana (Parcas) — na leitura da RC, ligadas ao processador da teia do destino (Wyrd/Urd, RC-658).
 
+## Citações-chave
+
+> Orlog ficou tão pressionado que ele resolveu criar três seres: Urd, Verdandi e Skuld.
+
+
+> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+
+- «decidiu criar o que na mitologia nórdica se chama as normes do feminino ainda que aqui não estejamos falando de nada masculino nem feminino, porque não existia esse padrão que hoje na sexualidade da vida biológica a gente percebe, isso será lá atrás. E esses ou essas normes recebem parte do […]» — *ver:* **Ampliação — P2023-07-09 (A Wyrd Quântica, o Processador V…**
+- «Mas Morus antes de sumir criou três seres que na compreensão da mitologia grega seriam três senhoras, três mulheres chamado moiras, mas não não eram femininos aqueles seres não era sexuado, mas a turma entendeu assim, então ficou assim.» — *ver:* **Ampliação — P2021-01-30 (A Mensagem TALM e os Fios Soltos…** U0033
+
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-467.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o bloco citado desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
 ## Ampliação
 ### P2025-05-31
 
@@ -109,23 +123,10 @@ As fiandeiras do destino na mitologia grega (Moiras), nórdica (Nornes) e romana
 - **[As normes não são figuras femininas] (U0002)** «As próprias normes terminaram eh as normes não são figuras femininas, não é isso?» — as nornes/moiras (RC-467) como o autor as vê: "não são figuras femininas, não é isso? Não é? Pro nosso modo de entender as coisas, as nornes é como se fossem as as moiras. Então a gente acha que é mulher... Mas Não é bem assim não"; elas lidam com as informações captadas pela Wyrd — "E quando Orlog desapareceu, as normes deram continuidade ao que já existia, mas a coisa não andou no sentido de se desenvolver" (U0002: «E quando Orlog desapareceu, as normes deram continuidade ao que já existia, mas a coisa não andou no sentido de se desenvolver.»).
 
 
-## Fontes
+## Ampliação
+### P2023-07-09 (A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons)
 
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2023-07-09 | A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
-| apostila 2024-11-30 (= aula P2024-11-30) | Morus/Moros — arquivos do destino universal, seções 4.x | apostila CONCLUIDA | bloco Súdices/25% (F032 C-ii) |
-| P2022-10-01 | A Wyrd e a Espiritualidade (palestra) | — | transcrição automatizada; citação |
-| P2018-12-15 | Terra Atlantis – Aprofundamento (palestra) | — | transcrição automatizada; citação |
-| P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
-| P2021-01-30 | A Mensagem TALM e os Fios Soltos do Destino (palestra) | — | transcrição automatizada; citação |
-| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
-| P2025-05-31 | O Mistério da Árvore da Vida e a Urdidura de Metatron (re-curadoria; devolutiva M-2/M-4 aprovada 19/08/2026) | palestra/STT pré-curada |
-
-
-## Citação-chave
-
-> Orlog ficou tão pressionado que ele resolveu criar três seres: Urd, Verdandi e Skuld.
+- **[Nornes — criadas por Orlog, receberam parte do conhecimento]** «decidiu criar o que na mitologia nórdica se chama as normes do feminino ainda que aqui não estejamos falando de nada masculino nem feminino, porque não existia esse padrão que hoje na sexualidade da vida biológica a gente percebe, isso será lá atrás. E esses ou essas normes recebem parte do conhecimento de Orlog, ainda que Orlog tenha ficado com maior parte do conhecimento para ele mesmo» — ver RC-658 (Wyrd), RC-454 (Moros/Orlog).
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -156,10 +157,19 @@ Quarentena mitológica — leitura do autor.
 
 ---
 
-## Ampliação
-### P2023-07-09 (A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons)
+## Fontes
 
-- **[Nornes — criadas por Orlog, receberam parte do conhecimento]** «decidiu criar o que na mitologia nórdica se chama as normes do feminino ainda que aqui não estejamos falando de nada masculino nem feminino, porque não existia esse padrão que hoje na sexualidade da vida biológica a gente percebe, isso será lá atrás. E esses ou essas normes recebem parte do conhecimento de Orlog, ainda que Orlog tenha ficado com maior parte do conhecimento para ele mesmo» — ver RC-658 (Wyrd), RC-454 (Moros/Orlog).
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2023-07-09 | A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
+| apostila 2024-11-30 (= aula P2024-11-30) | Morus/Moros — arquivos do destino universal, seções 4.x | apostila CONCLUIDA | bloco Súdices/25% (F032 C-ii) |
+| P2022-10-01 | A Wyrd e a Espiritualidade (palestra) | — | transcrição automatizada; citação |
+| P2018-12-15 | Terra Atlantis – Aprofundamento (palestra) | — | transcrição automatizada; citação |
+| P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
+| P2021-01-30 | A Mensagem TALM e os Fios Soltos do Destino (palestra) | — | transcrição automatizada; citação |
+| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
+| P2025-05-31 | O Mistério da Árvore da Vida e a Urdidura de Metatron (re-curadoria; devolutiva M-2/M-4 aprovada 19/08/2026) | palestra/STT pré-curada |
+
 
 ## Fontes
 | Fonte | Localização | Tipo |
@@ -170,14 +180,3 @@ Quarentena mitológica — leitura do autor.
 
 - **[P2024-11-30 · A TERCEIRA DENOMINAÇÃO, NA FONTE]** «Moros pegou 25% das informações vivas da sua inteligência, criou um ser. 25% criou outro, 25% criou outro e ficou com ele só com 25%. Esses três seres na mitologia grega são chamados de moiras. Na mitologia nórdica são chamadas de nornas ou nornes. Na mitologia são chamado de Súdices.» — a tríade de nomes entra no lema e na ficha; **a própria fonte trunca o idioma** («Na mitologia são chamado de…» — o qualificador caiu no STT): o «sânscrita» que o doc F032 completou **não é adotado como fato**, registrado apenas como leitura provável do compilador (ledger D-10). O mecanismo do 25%×4 (três seres + as três cápsulas/setas retidas) nasce da mesma sentença — ver RC-454, RC-611, RC-658.
 - **[P2024-11-30 · FUNÇÃO]** as três «recebem parte do conhecimento de Orlog» (passado/presente/futuro pendente) — consistente com a seção Urd/Verdandi/Skuld acima.
-
-## Citações-chave
-
-> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
-
-- «decidiu criar o que na mitologia nórdica se chama as normes do feminino ainda que aqui não estejamos falando de nada masculino nem feminino, porque não existia esse padrão que hoje na sexualidade da vida biológica a gente percebe, isso será lá atrás. E esses ou essas normes recebem parte do […]» — *ver:* **Ampliação — P2023-07-09 (A Wyrd Quântica, o Processador V…**
-- «Mas Morus antes de sumir criou três seres que na compreensão da mitologia grega seriam três senhoras, três mulheres chamado moiras, mas não não eram femininos aqueles seres não era sexuado, mas a turma entendeu assim, então ficou assim.» — *ver:* **Ampliação — P2021-01-30 (A Mensagem TALM e os Fios Soltos…** U0033
-
-
-> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-467.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o bloco citado desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

@@ -16,15 +16,16 @@ atualizado = "2026-09-12"
 
 Avatar hindu — na RC, avatar de Vishnu (e correlacionado a Shiva), "pretenso Keshava" (RC-425); na leitura de Thot (P2023-12-02), uma **novidade gerada da junção do DNA de Brahma, Vishnu e Shiva**, que se proclamou superior à Trimurti — "avatar quechada" [STT — ver Colecionar Incertezas].
 
-## Atualização
-### P2023-12-02
+## Citações-chave
 
-- **Avatar de DNA misturado:** "Krishna é uma novidade que foi gerada a partir de uma juntada do DNA de Brama, Vishnu e Shiva... ele é um avatar quechada [STT]";
-- **Proclamação de superioridade:** "Krishna meio que olhou pros três da Trimurti e disse: 'Ei, eu sou maior que vocês'... e os três tiveram que ser devotos, porque Krishna mostrou para eles que tinha mais energia que os três";
-- **Choque de metodologia:** "há um choque de metodologia na maneira como Krishna pretende resolver os problemas acumulados do universo e o que está em curso promovido por Hen-Orl ou Moros" (RC-454);
-- **Devoção criticada (RC-749):** "ser devoto é você não usar a mente, não usar seus potenciais... Krishna foi o único avatar que começou a produzir avatares dele mesmo para engrandecê-lo" (Chaitanya/Hare Krishna; Sai Baba [Sathya Sai Baba] como "continuação" — leitura do autor);
-- **Ogdóade (RC-609):** Krishna como desdobramento da leitura dos oito princípios (nova aresta).
+> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
 
+- «Compreendam quem dominou mesmo a humanidade foi Krishna e seu manual de usuário devocional atuando a partir da Índia. Compreendam quem inventou a devoção aqui na terra foi Krishna há cerca de 4.000 anos atrás. Tudo que veio depois veio com base nisso, em que lá atrás produziu o DNA submisso, mas o […]» — *ver:* **Ampliação — P2024-03-17**
+- «O que é que todo mundo faz na loca de Krishna [Guruloca]? É uma sensação realmente formidável, porque a pulsação de centenas de milhões de espíritos desencarnados pulsando sobre uma mesma batuta tem um poder vibratório impressionante. Mas é um samba de uma nota só. Não provoca mutações no DNA de […]» — *ver:* **Ampliação — P2024-03-02 (O Drama Espiritual de Jesus)**
+- «O espírito de Krishna era de quem? Dois. Esse aqui que está por trás de Vishnu e Brama e o de Shiva, já que Krishna é avatar Keshava dos três. Nas três porções avatáricas genômicas de Krishna existia uma banda podre que era Brama, um eu de Vishnu um pouco mais fraco e um eu de Shiva. E Krishna […]» — *ver:* **Ampliação — P2024-03-02 (O Drama Espiritual de Jesus)**
+
+
+> Notas de processo: 3 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-414.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
 
 ## Ampliação
 ### P2026-07-25
@@ -136,29 +137,6 @@ Avatar hindu — na RC, avatar de Vishnu (e correlacionado a Shiva), "pretenso K
 - **[P2022-03-26 · KRISHNA NA FALA DE 26/03/2022]** "Viaza não é um nome." (U0003) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⭐ **NOTA DE ANTERIORIDADE — P2022-03-26:** antecipa **13 meses** a atual fonte oral mais antiga da ficha (`P2023-04-30`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
 ---
 
-## Colecionar Incertezas — "quachadas/quechada" = Keshava? (pista do curador, 2026-08-18)
-
-O curador conferiu em **documentação confiável** (fora do corpus) e identificou dois usos correlatos: **Krishna (Avatar biodemol Keshava)** e **Mohen So (Avatar Keshava)** — ambos já canônicos na Base (RC-081 "Mohen So (Avatar Keshava de Vishnu)"; RC-425 "Krishna como 'pretenso Keshava'"). **Hipótese forte:** o STT "quachadas/quechada" (P2023-05-13: "quachadas"; P2023-12-02: "avatar quechada") provavelmente distorce **"Keshava"**. Registro mantido em Colecionar Incertezas até revisão do áudio — **nenhum código criado** (VETO ESTRITO preservado).
-
----
-
-## Atualização
-### P2024-09-28 (A Raça Inabalável dos Sethianos Emancipados)
-
-- **Bhagavad Gita e "pôr ordem na desordem":** "o matar em si é aquilo que Krishna explica no Bhagavad Gita. Desde que você faça sem [ódio]..." — contexto da resposta sobre os elétrons de Jesus e o genoma "ordem e desordem" de Sofia (RC-009);
-- Leitura do autor (Teologia Comparada) — não endossa violência.
-
----
-
-### P2025-11-29 (A Revelação de Ifá e o Destino dos Seres)
-
-- **Krishna roubou a devoção de Javé:** "quando Krishna surgiu na Índia, existiam mais de 5.000 templos que adoravam Brama. Hoje tem um templo só para Brahma na Índia e o resto Krishna";
-- **Batalha Islã × Krishna × orixás:** "houve uma batalha do Islã, de Krishna e dos orixás... o que resta hoje é uma gestão de escombros. É tipo Ragnarök 2" — leitura do autor (quarentena histórico-religiosa/geopolítica);
-- Krishna entre os seres que "enlouqueceram a tal ponto que mesmo produzindo figuras maravilhosas... o ato deles se autoafirmarem... não tem importância nenhuma" (P2024-09-28).
----
----
----
-
 ## Ampliação
 ### P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
 
@@ -196,6 +174,40 @@ O curador conferiu em **documentação confiável** (fora do corpus) e identific
 
 - **[Contentamento permanente como doença — Guruloca]:** «O que é que todo mundo faz na loca de Krishna [Guruloca]? É uma sensação realmente formidável, porque a pulsação de centenas de milhões de espíritos desencarnados pulsando sobre uma mesma batuta tem um poder vibratório impressionante. Mas é um samba de uma nota só. Não provoca mutações no DNA de ninguém [...] Esse contentamento permanente não resolve nada.» — ver RC-746 (Dessensibilização).
 
+
+## Ampliação
+### P2024-03-17
+
+**Fonte:** palestra «A Quem Pertence o Planeta e a Biblioteca Genômica Mais Atualizada do Universo» (17/03/2024).
+
+**Trecho verbatim:** «Compreendam quem dominou mesmo a humanidade foi Krishna e seu manual de usuário devocional atuando a partir da Índia. Compreendam quem inventou a devoção aqui na terra foi Krishna há cerca de 4.000 anos atrás. Tudo que veio depois veio com base nisso, em que lá atrás produziu o DNA submisso, mas o devocional que é a lei do submisso, foi Krishna que produziu.»
+
+## Atualização
+### P2023-12-02
+
+- **Avatar de DNA misturado:** "Krishna é uma novidade que foi gerada a partir de uma juntada do DNA de Brama, Vishnu e Shiva... ele é um avatar quechada [STT]";
+- **Proclamação de superioridade:** "Krishna meio que olhou pros três da Trimurti e disse: 'Ei, eu sou maior que vocês'... e os três tiveram que ser devotos, porque Krishna mostrou para eles que tinha mais energia que os três";
+- **Choque de metodologia:** "há um choque de metodologia na maneira como Krishna pretende resolver os problemas acumulados do universo e o que está em curso promovido por Hen-Orl ou Moros" (RC-454);
+- **Devoção criticada (RC-749):** "ser devoto é você não usar a mente, não usar seus potenciais... Krishna foi o único avatar que começou a produzir avatares dele mesmo para engrandecê-lo" (Chaitanya/Hare Krishna; Sai Baba [Sathya Sai Baba] como "continuação" — leitura do autor);
+- **Ogdóade (RC-609):** Krishna como desdobramento da leitura dos oito princípios (nova aresta).
+
+
+## Atualização
+### P2024-09-28 (A Raça Inabalável dos Sethianos Emancipados)
+
+- **Bhagavad Gita e "pôr ordem na desordem":** "o matar em si é aquilo que Krishna explica no Bhagavad Gita. Desde que você faça sem [ódio]..." — contexto da resposta sobre os elétrons de Jesus e o genoma "ordem e desordem" de Sofia (RC-009);
+- Leitura do autor (Teologia Comparada) — não endossa violência.
+
+---
+
+### P2025-11-29 (A Revelação de Ifá e o Destino dos Seres)
+
+- **Krishna roubou a devoção de Javé:** "quando Krishna surgiu na Índia, existiam mais de 5.000 templos que adoravam Brama. Hoje tem um templo só para Brahma na Índia e o resto Krishna";
+- **Batalha Islã × Krishna × orixás:** "houve uma batalha do Islã, de Krishna e dos orixás... o que resta hoje é uma gestão de escombros. É tipo Ragnarök 2" — leitura do autor (quarentena histórico-religiosa/geopolítica);
+- Krishna entre os seres que "enlouqueceram a tal ponto que mesmo produzindo figuras maravilhosas... o ato deles se autoafirmarem... não tem importância nenhuma" (P2024-09-28).
+---
+---
+---
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -240,20 +252,8 @@ O curador conferiu em **documentação confiável** (fora do corpus) e identific
 | P2024-03-17 | A Quem Pertence o Planeta e a Biblioteca Genômica Mais Atualizada do Universo (palestra) | transcrição automatizada; citação |
 | P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |
 
-## Ampliação
-### P2024-03-17
+## Colecionar Incertezas — "quachadas/quechada" = Keshava? (pista do curador, 2026-08-18)
 
-**Fonte:** palestra «A Quem Pertence o Planeta e a Biblioteca Genômica Mais Atualizada do Universo» (17/03/2024).
+O curador conferiu em **documentação confiável** (fora do corpus) e identificou dois usos correlatos: **Krishna (Avatar biodemol Keshava)** e **Mohen So (Avatar Keshava)** — ambos já canônicos na Base (RC-081 "Mohen So (Avatar Keshava de Vishnu)"; RC-425 "Krishna como 'pretenso Keshava'"). **Hipótese forte:** o STT "quachadas/quechada" (P2023-05-13: "quachadas"; P2023-12-02: "avatar quechada") provavelmente distorce **"Keshava"**. Registro mantido em Colecionar Incertezas até revisão do áudio — **nenhum código criado** (VETO ESTRITO preservado).
 
-**Trecho verbatim:** «Compreendam quem dominou mesmo a humanidade foi Krishna e seu manual de usuário devocional atuando a partir da Índia. Compreendam quem inventou a devoção aqui na terra foi Krishna há cerca de 4.000 anos atrás. Tudo que veio depois veio com base nisso, em que lá atrás produziu o DNA submisso, mas o devocional que é a lei do submisso, foi Krishna que produziu.»
-
-## Citações-chave
-
-> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
-
-- «Compreendam quem dominou mesmo a humanidade foi Krishna e seu manual de usuário devocional atuando a partir da Índia. Compreendam quem inventou a devoção aqui na terra foi Krishna há cerca de 4.000 anos atrás. Tudo que veio depois veio com base nisso, em que lá atrás produziu o DNA submisso, mas o […]» — *ver:* **Ampliação — P2024-03-17**
-- «O que é que todo mundo faz na loca de Krishna [Guruloca]? É uma sensação realmente formidável, porque a pulsação de centenas de milhões de espíritos desencarnados pulsando sobre uma mesma batuta tem um poder vibratório impressionante. Mas é um samba de uma nota só. Não provoca mutações no DNA de […]» — *ver:* **Ampliação — P2024-03-02 (O Drama Espiritual de Jesus)**
-- «O espírito de Krishna era de quem? Dois. Esse aqui que está por trás de Vishnu e Brama e o de Shiva, já que Krishna é avatar Keshava dos três. Nas três porções avatáricas genômicas de Krishna existia uma banda podre que era Brama, um eu de Vishnu um pouco mais fraco e um eu de Shiva. E Krishna […]» — *ver:* **Ampliação — P2024-03-02 (O Drama Espiritual de Jesus)**
-
-
-> Notas de processo: 3 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-414.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
+---

@@ -18,11 +18,6 @@ Vestimenta/nível mental posterior ao búdico, no qual surgiria vontade de criar
 ## Contexto / Origem
 A live identifica este nível como origem do ímpeto criativo, após a tomada de consciência possibilitada pelo Corpo Búdico.
 
-## Etimologia e Grafias
-- Grafia preferida: Corpo Manásico / Corpo Mental. STT: manáico.
-- **Fonte da decisão:** Devolutiva-01 + observação direta do curador.
-
-
 ## Ampliação
 ### P2025-05-31
 
@@ -32,16 +27,6 @@ A live identifica este nível como origem do ímpeto criativo, após a tomada de
 ### P2024-07-14
 
 - **[P2024-07-14] O corpo manásico (U0140–U0200):** "se eu sou apegado a conceitos, a verdades, eu marco no meu mental inferior"; "se eu sou esclarecido, lúcido e meu tirocínio é limpo, não é dualista burro, marco no mental superior"; "a possibilidade de dignificação de uma consciência passa pelo que o eu humano consegue, ao longo da vida, trabalhar com o seu corpo búdico superior e o seu corpo manásico superior"; "as disciplinas de meditação budista, as linhas do yoga tradicional, coisas como Mentalma" ensinam a manter o inferior sob controle e despertar os superiores — "se a prática for devocional, ferrou, porque você não vai desenvolver seus potenciais".
----
-
-## Atualização
-### P2023-12-02 (Thot, o Enigmático Hermes Trismegisto)
-
-- **Rá = eu; Amon = corpo despedaçado:** "que é o corpo manásico que para Prabrajna ou para Javé, lá fora antes da criação disso tudo, tinha e que foi fragmentado, aí junto com o eu dele. Rá é o eu, Amon é o corpo despedaçado";
-- **Javé a reconstruir:** "enquanto Javé não for reconstruído e se achar isso ou aquilo... a humanidade vai ser a massa de manobra, onde todos os testes vão ser feitos para que tenham padrões genéticos por trás de todas as sensações existenciais" (nova aresta RC-625 ↔ RC-001);
-- O corpo manásico como suporte do drama da criação indevida (RC-167).
----
----
 ---
 
 ## Ampliação
@@ -54,6 +39,21 @@ A live identifica este nível como origem do ímpeto criativo, após a tomada de
 ### P2024-03-02 (O Drama Espiritual de Jesus)
 
 - **[Corpo manásico despedaçado — queda de Prabrajna]:** «Quando esse rapaz criou algo que não devia, duas coisas desse eu aqui caíram na criação. Esse corpo manásico projetado se espatifou aqui dentro e a sensação desse eu também caiu aqui dentro. O corpo búdico tá em coma.» — ver RC-152 (Prabrajna), RC-623 (Corpo Átmico), RC-624 (Corpo Búdico).
+
+
+## Atualização
+### P2023-12-02 (Thot, o Enigmático Hermes Trismegisto)
+
+- **Rá = eu; Amon = corpo despedaçado:** "que é o corpo manásico que para Prabrajna ou para Javé, lá fora antes da criação disso tudo, tinha e que foi fragmentado, aí junto com o eu dele. Rá é o eu, Amon é o corpo despedaçado";
+- **Javé a reconstruir:** "enquanto Javé não for reconstruído e se achar isso ou aquilo... a humanidade vai ser a massa de manobra, onde todos os testes vão ser feitos para que tenham padrões genéticos por trás de todas as sensações existenciais" (nova aresta RC-625 ↔ RC-001);
+- O corpo manásico como suporte do drama da criação indevida (RC-167).
+---
+---
+---
+
+## Etimologia e Grafias
+- Grafia preferida: Corpo Manásico / Corpo Mental. STT: manáico.
+- **Fonte da decisão:** Devolutiva-01 + observação direta do curador.
 
 
 ## Termos Relacionados

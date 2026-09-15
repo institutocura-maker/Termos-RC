@@ -18,11 +18,6 @@ Expressão recorrente nas RC para designar o **universo gerado pelo erro do Cria
 ## Contexto / Origem
 A Criação "indevida" é o **tema central da Revelação Cósmica**: "houve um erro no momento da criação e o Criador teria 'caído' dentro da mesma, gerando dois universos paralelos" (B031). Em B024, a expressão aparece em quase todos os capítulos, associada à epopeia dos agentes da vida, ao Xadrez Cósmico, à Lila e ao drama da Trimurti.
 
-## Etimologia e Grafias
-- **Grafia preferida:** Criação Indevida
-- **Variações:** Obra indevida; Criação "problemática"; Criação "imperfeita"; Criação "inusitada" (título do cap. 2 de B024)
-
-
 ## Ampliação
 ### P2025-02-16
 
@@ -92,6 +87,45 @@ A Criação "indevida" é o **tema central da Revelação Cósmica**: "houve um 
 - Falas da Trimurti **isoladas**. Sem fusão com B037 / B001 / B024. Fonte **B022** já constava na tabela-mestra.
 ---
 
+## Ampliação
+### P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+
+- **[P2023-12-03 · CRIAÇÃO INDEVIDA (OBRA INDEVIDA) NA FALA DE 03/12/2023]** «esse foi improvisado na hora da queda, mas nenhum dos dois foi finalizado, porque quando ele tava aqui fora, antes dele finalizar esse que ele começou a planejar, ele caiu.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2021-12-04`); a entrada desta fonte é de **conteúdo**, não de data.
+
+---
+
+## Atualização
+### P2021-12-04
+
+- **Unidades:** U0136–U0148; U0200–U0266.
+- **Contexto acrescentado:** A Criação Indevida é ligada ao problema surgido em Perpérion e a um subgrupo Pashvnaj do Gênero Adhy.
+- **Status da evidência:** transcrição automatizada, pré-curada e aprovada quanto à integração terminológica; conferir com áudio/obra antes de promover status.
+- **Precisão estrutural posterior:** o problema da Criação Indevida se inicia em **Perpérion**, Archeon do Gênero Adhy/Pashvnaj e de Prabrajna.
+
+---
+
+### P2024-05-04
+
+- A Criação Indevida é usada como polo criado da Simultaneidade Reversa.
+- Divergências e alegações científicas permanecem abertas/atribuídas à palestra.
+
+---
+
+### P2023-05-13 (Bastidores da Revelação Cósmica)
+
+- **A Obra como simulacro (absorção NT-BR02, decisão do curador):** a Criação Indevida é apresentada como a "matrix"/simulacro em que todos estão inseridos — o universo gerado pelo erro do criador é a bolha da realidade simulada (RC-702 Camuflagem da Realidade);
+- **Podridão inerente:** "a podridão é inerente à criação" e o comportamento de "ladrões e necrófagos" na Matrix — "todo mundo aqui dentro é obrigado a ser deselegante para poder existir, porque essa é a história do criador, esse é o retrato dele";
+- **Humanidade salva-criador:** a função humana é reverter a narrativa — "a humanidade como salva-criador" (seção 4.2);
+- **Faixas de realidade:** as faixas definidas × improvisadas (seção 2.5) como expressões da Obra indevida — a física definida "antes da criação"; faixas improvisadas com "demência plena".
+---
+---
+---
+
+## Etimologia e Grafias
+- **Grafia preferida:** Criação Indevida
+- **Variações:** Obra indevida; Criação "problemática"; Criação "imperfeita"; Criação "inusitada" (título do cap. 2 de B024)
+
+
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
@@ -129,37 +163,3 @@ A Criação "indevida" é o **tema central da Revelação Cósmica**: "houve um 
 | Ressurreição do Cadáver do Criador | RC-638 | associado |
 | Camuflagem da Realidade | RC-702 | ← relaciona-se-a |
 | As Cinco Lentes da Realidade | RC-761 | associado |
-
-## Atualização
-### P2021-12-04
-
-- **Unidades:** U0136–U0148; U0200–U0266.
-- **Contexto acrescentado:** A Criação Indevida é ligada ao problema surgido em Perpérion e a um subgrupo Pashvnaj do Gênero Adhy.
-- **Status da evidência:** transcrição automatizada, pré-curada e aprovada quanto à integração terminológica; conferir com áudio/obra antes de promover status.
-- **Precisão estrutural posterior:** o problema da Criação Indevida se inicia em **Perpérion**, Archeon do Gênero Adhy/Pashvnaj e de Prabrajna.
-
----
-
-### P2024-05-04
-
-- A Criação Indevida é usada como polo criado da Simultaneidade Reversa.
-- Divergências e alegações científicas permanecem abertas/atribuídas à palestra.
-
----
-
-### P2023-05-13 (Bastidores da Revelação Cósmica)
-
-- **A Obra como simulacro (absorção NT-BR02, decisão do curador):** a Criação Indevida é apresentada como a "matrix"/simulacro em que todos estão inseridos — o universo gerado pelo erro do criador é a bolha da realidade simulada (RC-702 Camuflagem da Realidade);
-- **Podridão inerente:** "a podridão é inerente à criação" e o comportamento de "ladrões e necrófagos" na Matrix — "todo mundo aqui dentro é obrigado a ser deselegante para poder existir, porque essa é a história do criador, esse é o retrato dele";
-- **Humanidade salva-criador:** a função humana é reverter a narrativa — "a humanidade como salva-criador" (seção 4.2);
-- **Faixas de realidade:** as faixas definidas × improvisadas (seção 2.5) como expressões da Obra indevida — a física definida "antes da criação"; faixas improvisadas com "demência plena".
----
----
----
-
-## Ampliação
-### P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
-
-- **[P2023-12-03 · CRIAÇÃO INDEVIDA (OBRA INDEVIDA) NA FALA DE 03/12/2023]** «esse foi improvisado na hora da queda, mas nenhum dos dois foi finalizado, porque quando ele tava aqui fora, antes dele finalizar esse que ele começou a planejar, ele caiu.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2021-12-04`); a entrada desta fonte é de **conteúdo**, não de data.
-
----

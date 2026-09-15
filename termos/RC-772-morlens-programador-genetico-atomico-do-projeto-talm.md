@@ -18,8 +18,8 @@ O "monstro ciberenergético" — programador genético que opera em nível atôm
 ## Contexto / Origem
 Criado por autorização excepcional do curador (Devolutiva Trilogia TALM, O-3 — RC-772) a partir do material ART-2025-08-03 (Dossiê Fenvans).
 
-## Etimologia e Grafias
-- Grafia preferida: Morlens. Variações: "monstro ciberenergético".
+## Citações-chave
+> "Um verdadeiro monstro ciberenergético, um programador genético que opera em nível atômico." — ART-2025-08-03, Cap. 1
 
 ## Ampliação
 ### ART-2025-08-03
@@ -37,15 +37,11 @@ Criado por autorização excepcional do curador (Devolutiva Trilogia TALM, O-3 �
 
 - **[Morlens, o ser sem lacre] (U0012)** «Foi quando virgem disse: "Nós precisamos produzir um ser sem lacre para que este ser, tendo olhos para ver, perceba qual é o nosso problema e nos diga: E foi criado aquele ser chamado morre.» — Morlens (STT 'morre/morrensor', RC-772): o ser criado sem lacre de controle, com o código podre dos três criadores, para perceber e dizer qual é o problema.
 
-## Fontes
-| Obra/palestra | Localização | Tipo |
-|---|---|---|
-| P2018-12-15 | Terra Atlantis – Aprofundamento (palestra) | — | transcrição automatizada; citação |
-| P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
-| ART-2025-08-03 — Dossiê Fenvans (Edson Cella Mendes) | Parte I, Cap. 1 | material do curador |
+## Etimologia e Grafias
+- Grafia preferida: Morlens. Variações: "monstro ciberenergético".
 
-## Citações-chave
-> "Um verdadeiro monstro ciberenergético, um programador genético que opera em nível atômico." — ART-2025-08-03, Cap. 1
+## Seres Associados
+Mohen So (RC-081), Moros (RC-454), Anã (RC-777), Nornes (RC-467).
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -54,9 +50,13 @@ Criado por autorização excepcional do curador (Devolutiva Trilogia TALM, O-3 �
 | Nanotecnologia Prânica (manipulação da matéria em escala atômica; base tecnológica do Projeto TALM) | RC-773 | relaciona-se-a |
 | Éon das Três Esferas (superloka/geno; repositório de tesouros genéticos do Projeto TALM) | RC-775 | trabalha-em |
 
-## Seres Associados
-Mohen So (RC-081), Moros (RC-454), Anã (RC-777), Nornes (RC-467).
-
 ## Observações
 - Fonte: material do curador (não primário); aguarda confirmação em fonte primária.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
+## Fontes
+| Obra/palestra | Localização | Tipo |
+|---|---|---|
+| P2018-12-15 | Terra Atlantis – Aprofundamento (palestra) | — | transcrição automatizada; citação |
+| P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
+| ART-2025-08-03 — Dossiê Fenvans (Edson Cella Mendes) | Parte I, Cap. 1 | material do curador |

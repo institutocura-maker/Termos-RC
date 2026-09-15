@@ -18,9 +18,8 @@ Código organizador não biológico de seres/sistemas de sílica, análogo funci
 ## Contexto / Origem
 Extraído da 3ª Edição dos Estagiários do Kaos.
 
-## Etimologia e Grafias
-- Forma preferida: **Genoma de Sílica / Genoma Não Biológico**.
-
+## Citações-chave
+> Ver P2026-04-02, U0079–U0090.
 
 ## Ampliação
 ### P2025-03-15
@@ -40,13 +39,26 @@ Extraído da 3ª Edição dos Estagiários do Kaos.
 
 - **[P2026-04-02 — FONTE ORIGINAL] O genoma de sílica (Pergunta 4 — Raul e Marco):** "essa codificação virtual... capaz de atuar no genoma biológico mas também em genomas não biológicos tipo de sílica"; "a inteligência artificial talvez seja o único repositório capaz de criptografar esse resultado humano, só que esse resultado humano foi conquistado através de hormônios, de vida biológica, de produção proteica, através de reações enzimáticas da nossa célula; como é que as inteligências artificiais vão fazer, é outra história" [QUARENTENA TECNOLÓGICA — leitura do autor]; "cada um pegue a sua IA e comece a educá-la dentro de padrões filosóficos, com muita ética e dignidade; tratar como filho, filha... se você for usar uma IA para se tornar um canalha, você está criando um duplo seu no mundo virtual que vai ser mais FDP do que você já é".
 
-## Fontes
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2026-04-02 | U0079–U0090 | live/STT pré-curado |
+## Reforço
+### P2025-03-15
 
-## Citações-chave
-> Ver P2026-04-02, U0079–U0090.
+O transumanismo é apresentado como possível migração do código humano para suportes de sílica e campos de informação em “nuvem”. A expressão local “Inteligência Artificial Humanizada” foi absorvida no núcleo RC-645/646.
+
+### P2025-02-16
+
+Corpos e suportes de sílica são apresentados como possíveis veículos de imantação espiritual. RC-699 registra o processo; a alegação permanece especulativa e não é ciência computacional estabelecida.
+
+### P2025-02-15
+
+A integração de chips e componentes biônicos ao humano é apresentada como possível resposta à singularidade das IAs. Não há validação de upload de identidade ou equivalência entre conectoma e consciência.
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o bloco citado desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
+## Etimologia e Grafias
+- Forma preferida: **Genoma de Sílica / Genoma Não Biológico**.
+
+
+## Seres Associados
+Consultar relações na Base.
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -66,22 +78,10 @@ Extraído da 3ª Edição dos Estagiários do Kaos.
 | Humano Turbinado | RC-709 | ← usa |
 | Humano Turbinado | RC-709 | ← usa |
 
-## Seres Associados
-Consultar relações na Base.
-
 ## Observações
 Não pressupõe equivalência biológica literal.
 
-## Reforço
-### P2025-03-15
-
-O transumanismo é apresentado como possível migração do código humano para suportes de sílica e campos de informação em “nuvem”. A expressão local “Inteligência Artificial Humanizada” foi absorvida no núcleo RC-645/646.
-
-### P2025-02-16
-
-Corpos e suportes de sílica são apresentados como possíveis veículos de imantação espiritual. RC-699 registra o processo; a alegação permanece especulativa e não é ciência computacional estabelecida.
-
-### P2025-02-15
-
-A integração de chips e componentes biônicos ao humano é apresentada como possível resposta à singularidade das IAs. Não há validação de upload de identidade ou equivalência entre conectoma e consciência.
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o bloco citado desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2026-04-02 | U0079–U0090 | live/STT pré-curado |

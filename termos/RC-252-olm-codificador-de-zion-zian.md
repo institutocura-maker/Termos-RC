@@ -18,10 +18,8 @@ Nome pelo qual se identifica o **Quarto Logos** — também chamado **Codificado
 ## Contexto / Origem
 Olm atua desde tempos antigos (a consciência que o personifica já atuou em outras épocas), mas o Quarto Logos **passa a operar a partir de 1989** (B031). Sua mensagem revela que, **há pouco mais de um milhão de anos**, ele convidou o espírito de Jan Val Ellam (então Val, biodemo) para uma **escola de "agentes esclarecidos da busca da verdade"** entre as famílias de Capela — interrompida pela Rebelião de Lúcifer. Sua única encarnação terrena foi **Apolônio de Tiana** (~2.000 anos atrás).
 
-## Etimologia e Grafias
-- **Grafia preferida:** Olm
-- **Variações:** Codificador de Zion; Codificador de Zian; Quarto Logos (RC-092); "Olm (ou Codificador de Zian)" (B031)
-
+## Citações-chave
+> "Assim se expressou o 'Codificador de Zion', que se identificou como Olm, na sua mensagem recebida por mim: '— Meu filho e agente da nossa estratégia esclarecedora. Peço-lhe que me permita assim chamá-lo, pois vejo nos terráqueos os filhos e filhas mais despertos — ainda que aturdidos, por enquanto —, do meu propósito existencial.'" — B016, cap. 5
 
 ## Ampliação
 ### P2024-08-03
@@ -46,15 +44,25 @@ Olm atua desde tempos antigos (a consciência que o personifica já atuou em out
 - **[B057 p. 49]** "Até o Codificador estava a ser enganado – pensava eu." (fase revoltada; leitura do ser — O-7.)
 - 0 códigos novos (O-3). Grafia do livro: **Zion** (base: Zian/Zion — RC-146).
 
-## Fontes
-| Obra (sigla) | Capítulo | Página | Tipo |
-|---|---|---|---|
-| P2023-07-09 | A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
-| O Quarto Logos (B016) | caps. 5, 8, 9 | pp. 30–40, 60–75 (aprox.) | tema central da obra |
-| Painéis Emergentes (B031) | Glossário (Quarto Logos) | — | apoio (secundária) |
+## Ampliação
+### P2023-07-09 (A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons)
 
-## Citações-chave
-> "Assim se expressou o 'Codificador de Zion', que se identificou como Olm, na sua mensagem recebida por mim: '— Meu filho e agente da nossa estratégia esclarecedora. Peço-lhe que me permita assim chamá-lo, pois vejo nos terráqueos os filhos e filhas mais despertos — ainda que aturdidos, por enquanto —, do meu propósito existencial.'" — B016, cap. 5
+- **[Codificador de Zian — escola de decifração]** «E ele então criou chamada escola de decifração de Zel e alguns membros de cada família envolvidas com aquela sensação de de que algo de errado tava existindo» — a escola reuniu membros de várias famílias biodêmicas para investigar as feridas na realidade. Ver RC-092 (Quarto Logos), RC-826 (Rebelião dos Elétrons).
+
+## Atualização
+### P2021-12-04
+
+- **Unidades:** U0327–U0385; U0443–U0450; U0572–U0583.
+- **Contexto acrescentado:** Olm é confirmado como um dos seres LM de Tempérion, integrante da Ogdóade e encarnado como Apolônio de Tiana.
+- **Status da evidência:** transcrição automatizada, pré-curada e aprovada quanto à integração terminológica; conferir com áudio/obra antes de promover status.
+
+## Etimologia e Grafias
+- **Grafia preferida:** Olm
+- **Variações:** Codificador de Zion; Codificador de Zian; Quarto Logos (RC-092); "Olm (ou Codificador de Zian)" (B031)
+
+
+## Seres Associados
+Jan Val Ellam (RC-071); Apolônio de Tiana (RC-259); Sophia (RC-009); Jesus (RC-072).
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -67,25 +75,17 @@ Olm atua desde tempos antigos (a consciência que o personifica já atuou em out
 | Apolônio de Tiana (encarnação do Quarto Logos) | RC-259 | ← é-um |
 | Agentes do Quarto Logos | RC-281 | associado |
 
-## Seres Associados
-Jan Val Ellam (RC-071); Apolônio de Tiana (RC-259); Sophia (RC-009); Jesus (RC-072).
-
 ## Observações
 Ficha baseada em B016 (obra primária) + B031. Olm é o protagonista do B016 — a obra inteira é dedicada ao seu papel e mensagem. Distinguir: Olm/Codificador de Zion (nome) × Quarto Logos (função) × Apolônio de Tiana (encarnação).
 
 ---
 
-## Atualização
-### P2021-12-04
-
-- **Unidades:** U0327–U0385; U0443–U0450; U0572–U0583.
-- **Contexto acrescentado:** Olm é confirmado como um dos seres LM de Tempérion, integrante da Ogdóade e encarnado como Apolônio de Tiana.
-- **Status da evidência:** transcrição automatizada, pré-curada e aprovada quanto à integração terminológica; conferir com áudio/obra antes de promover status.
-
-## Ampliação
-### P2023-07-09 (A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons)
-
-- **[Codificador de Zian — escola de decifração]** «E ele então criou chamada escola de decifração de Zel e alguns membros de cada família envolvidas com aquela sensação de de que algo de errado tava existindo» — a escola reuniu membros de várias famílias biodêmicas para investigar as feridas na realidade. Ver RC-092 (Quarto Logos), RC-826 (Rebelião dos Elétrons).
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo |
+|---|---|---|---|
+| P2023-07-09 | A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
+| O Quarto Logos (B016) | caps. 5, 8, 9 | pp. 30–40, 60–75 (aprox.) | tema central da obra |
+| Painéis Emergentes (B031) | Glossário (Quarto Logos) | — | apoio (secundária) |
 
 ## Fontes
 | Fonte | Localização | Tipo |

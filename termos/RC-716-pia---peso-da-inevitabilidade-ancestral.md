@@ -15,16 +15,12 @@ atualizado = "2026-08-15"
 ## Definição Sintética
 Medida do peso da condição ancestral presente em cada código particularizado, impondo necessidades e trajetórias para possível neutralização ou ressignificação.
 
-## Fixação da sigla
-A forma canônica aprovada é:
-
-> **PIA — Peso da Inevitabilidade Ancestral**
-
-“Podridão” é a interpretação humana usada na palestra para explicar o conteúdo medido; não integra necessariamente a expansão da sigla. O eBook de IA alterna formas e não decide a questão.
-
 ## Contexto / Origem
 Moros teria calculado o PIA de cada ser e Anank/Anankê `[REVISAR → CHANCELA 10/09/2026 · F039-L5: AGUARDA-ÁUDIO (ver Ananque, RC-777, grafia consagrada; STT nunca renomeado por conveniência) — ver nota]` teria relacionado genoma e necessidades derivadas desse peso. Wyrd organizaria o retorno das informações ao emissor.
 
+
+## Citações-chave
+> “Moros mediu o Peso da Inevitabilidade Ancestral.”
 
 ## Ampliação
 ### P2024-11-30
@@ -38,16 +34,6 @@ Moros teria calculado o PIA de cada ser e Anank/Anankê `[REVISAR → CHANCELA 1
 ### P2018-12-15 (Terra Atlantis – Aprofundamento)
 
 - **[Moros mapeia o padrão de inevitabilidade] (U0012)** «Moros, então, ao perceber o padrão da inevitabilidade ancestral, Ele fez um mapeamento do inquietante padrão da da inevitabilidade dessa estrada.» — Moros percebe o padrão de inevitabilidade ancestral (PIA, RC-716) e faz seu mapeamento sem se deixar enganar pela aparência (o deus cego).
-
-## Fontes
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2018-12-15 | Terra Atlantis – Aprofundamento (palestra) | — | transcrição automatizada; citação |
-| P2021-01-30 | A Mensagem TALM e os Fios Soltos do Destino (palestra) | — | transcrição automatizada; citação |
-| P2024-11-30 | U0470–U0492; U0640–U0688; U0730–U0765; U1400–U1420 | palestra/STT |
-
-## Citações-chave
-> “Moros mediu o Peso da Inevitabilidade Ancestral.”
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -81,3 +67,17 @@ Moros teria calculado o PIA de cada ser e Anank/Anankê `[REVISAR → CHANCELA 1
 
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-716.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** os 2 trechos entre aspas desta ficha **não** resistem à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Nenhum deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2018-12-15 | Terra Atlantis – Aprofundamento (palestra) | — | transcrição automatizada; citação |
+| P2021-01-30 | A Mensagem TALM e os Fios Soltos do Destino (palestra) | — | transcrição automatizada; citação |
+| P2024-11-30 | U0470–U0492; U0640–U0688; U0730–U0765; U1400–U1420 | palestra/STT |
+
+## Fixação da sigla
+A forma canônica aprovada é:
+
+> **PIA — Peso da Inevitabilidade Ancestral**
+
+“Podridão” é a interpretação humana usada na palestra para explicar o conteúdo medido; não integra necessariamente a expansão da sigla. O eBook de IA alterna formas e não decide a questão.

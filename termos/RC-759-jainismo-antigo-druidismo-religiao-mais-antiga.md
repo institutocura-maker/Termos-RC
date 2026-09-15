@@ -16,16 +16,12 @@ atualizado = "2026-08-28"
 
 Na leitura de Jan Val Ellam (P2024-02-03), o **Jainismo é a religião mais antiga da Terra** — e, antes de se chamar jainismo, chamava-se **druidismo**. O nome "druida" sumiu do mapa e só reapareceu na época dos gauleses; o jainismo é o antigo druidismo que migrou para a cultura ariana/dravidiana (Mohenjo-Daro e Harappa, atual Paquistão). É a matriz religiosa e conceitual que abriga a linhagem sacerdotal impecável dos **Tirthankaras (RC-397)**, o **Método Druídico (RC-755)** de decifrar a realidade sem crenças, e a mecânica de **vrittis/cittas (RC-760)**.
 
-## Estrutura interna
+## Citações-chave
 
-- **Jainismo = antigo druidismo** (tronco celta-nórdico migrado para a Índia);
-- característica marcante: **ausência da necessidade de crença em Deus** — "quando o druidismo surgiu, o epíteto Deus nem existia";
-- os jainistas foram os **primeiros humanos a defender a busca do conhecimento como modo de evoluir**;
-- linhagem sacerdotal dos Tirthankaras (24) — a única impecável da história (RC-397);
-- ascetismo, Ahimsa (não violência), karma como substância física, Moksha (RC-618);
-- divisões atuais: Shvetambaras (vestidos de branco) × Digambaras (vestidos de vento);
-- convergência com o Método Druídico (RC-755) e a Escola da Decifração da Realidade.
+> "Se alguém perguntar qual a religião mais antiga da Terra, quem entende de assunto religioso vai dizer: é o jainismo. Não tem outra. Isso aqui é a coisa mais antiga da Terra. Só que o jainismo antes se chamava druidismo." — P2024-02-03
 
+*Ocorrência referenciada apenas estruturalmente (índices/listas) nas obras-fonte processadas até o momento. Aguardando processamento de prosa descritiva.*
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
 
 ## Ampliação
 ### P2021-01-23
@@ -53,18 +49,6 @@ Na leitura de Jan Val Ellam (P2024-02-03), o **Jainismo é a religião mais anti
 - **[P2021-05-15 · OS NOMES DO BLOCO (com [REVISAR → CHANCELA 2026-09-06 · F039-L3: AGUARDA-ÁUDIO (STT preservado como falado) — ver nota])]** "E eram seres humanos livres, de influência maior desse ou daquele personagem, os chamados milesianos, que a gente já falou em outras palestras, que na época viviam ali no norte da Europa, desculpa, norte da Espanha, aonde hoje é o país Vasco, quando os milesianos humanos se encontraram com os seguidores de Inanaistos híbridos, né, estuatas de Danã, o rei deles se chamava noada." (U0003) — [REVISAR: «noada» = Nuada; «neta de amor» é STT corrompido — não decodificar. → CHANCELA 2026-09-06 · F039-L3: AGUARDA-ÁUDIO (STT preservado como falado) — ver nota]
 - **[P2021-05-15 · A CHEGADA E O RECORTE MITOLÓGICO]** "A gente conhece os toatas de Danã porque afinal de contas foi a base da mitologia celta na Irlanda e um pouco a mitologia nórdica, mas como a gente vai ver daqui a pouco, muitas muitos traços dessas notícias passaram a posteridade, mas é uma posteridade que foi morrendo depois, ao longo dos milênios pós-diluvianos, em que essas etnias já não existiam, mas a descendência delas." (U0003)
 
-## Fontes
-
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
-| P2024-02-03 | palestra integral (Jainismo/Druidismo) | palestra/STT pré-curada |
-
-
-## Citação-chave
-
-> "Se alguém perguntar qual a religião mais antiga da Terra, quem entende de assunto religioso vai dizer: é o jainismo. Não tem outra. Isso aqui é a coisa mais antiga da Terra. Só que o jainismo antes se chamava druidismo." — P2024-02-03
-
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
@@ -81,6 +65,21 @@ A afirmação de que o **Jainismo é a religião mais antiga da Terra** e que **
 
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-759.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
 
-## Citações-chave
-*Ocorrência referenciada apenas estruturalmente (índices/listas) nas obras-fonte processadas até o momento. Aguardando processamento de prosa descritiva.*
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+## Fontes
+
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
+| P2024-02-03 | palestra integral (Jainismo/Druidismo) | palestra/STT pré-curada |
+
+
+## Estrutura interna
+
+- **Jainismo = antigo druidismo** (tronco celta-nórdico migrado para a Índia);
+- característica marcante: **ausência da necessidade de crença em Deus** — "quando o druidismo surgiu, o epíteto Deus nem existia";
+- os jainistas foram os **primeiros humanos a defender a busca do conhecimento como modo de evoluir**;
+- linhagem sacerdotal dos Tirthankaras (24) — a única impecável da história (RC-397);
+- ascetismo, Ahimsa (não violência), karma como substância física, Moksha (RC-618);
+- divisões atuais: Shvetambaras (vestidos de branco) × Digambaras (vestidos de vento);
+- convergência com o Método Druídico (RC-755) e a Escola da Decifração da Realidade.
+

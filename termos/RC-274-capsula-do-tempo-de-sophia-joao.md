@@ -18,10 +18,8 @@ Designação (B014, cap. 13) para o **conjunto de promessas e revelações de Je
 ## Contexto / Origem
 O capítulo 13 de B014 ("João e a 'Cápsula do Tempo' de Sophia") explica que o cérebro biodemo de Sophia "somente se dá por vivência" — sua captura de novas convenções mentais ocorre pela experiência, o que motivou o processo de se fazer humano (absorvendo emoções ao longo dos últimos 2 mil anos). A "cápsula do tempo" (as escrituras joaninas/Apocalipse) preservou a promessa do retorno até os tempos do cumprimento. A condição humana de Jesus "vale bem mais" que o psiquismo de Sophia (~5 bilhões de anos), pois possui a capacidade de sentir e valorar emoções.
 
-## Etimologia e Grafias
-- **Grafia preferida:** Cápsula do Tempo de Sophia
-- **Variações:** a "cápsula do tempo" (João/Apocalipse); promessas do retorno; "os tempos são chegados"
-
+## Citações-chave
+> "Vivenciando a sua 'condição humana', Jesus fez promessas sobre o 'seu retorno', que serão cumpridas não por alguém com a sua natureza humana de então, mas sim, por Sophia, que nada tem de humano, ainda que ele procure assimilar as características de uma natureza cujo psiquismo foi urdido a partir da química de um corpo carnal, animal." — B014, cap. 13
 
 ## Ampliação
 ### P2026-07-25
@@ -48,15 +46,21 @@ O capítulo 13 de B014 ("João e a 'Cápsula do Tempo' de Sophia") explica que o
 - **[João e o escorpião-avião: 1900 anos de antecedência] (U0032)** «Há 1900 anos atrás, João descreveu genialmente um escorpião com ovinhos embaixo da soltando ovinhos, ou seja, desenhando um avião.» — o mesmo ditado de Sofia que registrou o livro: "Então, Apocalipse é esse livro encomendado no meio dessa confusão" (U0032: «Então, Apocalipse é esse livro encomendado no meio dessa confusão.») [STT truncado no meio da frase — sem emenda].
 
 
-## Fontes
-| Obra (sigla) | Capítulo | Página | Tipo |
-|---|---|---|---|
-| P2026-03-21 | Samudra Manthan A Enigmatica Alquimia de Vishnu (palestra) | — | transcrição automatizada; citação |
-| Sophia e o Logos Criadores (B014) | cap. 13 (João e a "Cápsula do Tempo" de Sophia) | pp. 140–160 (aprox.) | capítulo dedicado |
-| P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | — |
+## Ampliação
+### P2024-03-02 (O Drama Espiritual de Jesus)
 
-## Citações-chave
-> "Vivenciando a sua 'condição humana', Jesus fez promessas sobre o 'seu retorno', que serão cumpridas não por alguém com a sua natureza humana de então, mas sim, por Sophia, que nada tem de humano, ainda que ele procure assimilar as características de uma natureza cujo psiquismo foi urdido a partir da química de um corpo carnal, animal." — B014, cap. 13
+- **[Apocalipse por ordem exclusiva de Sofia — cápsula temporal]:** «Aí Sofia é que uns 40 anos depois disso se recompôs e passou com os anjos a encher o saco de João, que era o único apóstolo vivo com 100 anos de idade [...] E o apocalipse por ordem exclusiva de Sofia. E o apocalipse é Sofia mandando um anjo avisar as igrejas da época que ele Sofia no futuro iria cumprir as promessas que o humano Jesus fez de que no futuro voltaria mais na sua condição de autoridade cósmica. E o apocalipse foi uma cápsula temporal que Ele mostrou o tempo em que isso aconteceria e disse: 'Só a geração que estiver vivendo esses tempos irá compreender que somos nós.'» — ver RC-009 (Sophia), RC-005 (Segundo Advento).
+
+- **[Profecias dos capítulos 17-19 do Apocalipse]:** «Se você pegar os capítulos 17 a 19 do Apocalipse, você vai ver a queda das duas torres do World Trade Center, a guerra, as guerras que os reis da terra entrariam, a última, essa agora da Ucrânia [...] Depois disso é a chegada dele — dele quem? Sofia, nos termos do Apocalipse. Mas aí já não era o espírito de Jesus aparecendo ressuscitado. Era Sofia, que é um ser biológico da nave dele, se projetando com tecnologia.» — ver RC-009 (Sophia).
+
+
+## Etimologia e Grafias
+- **Grafia preferida:** Cápsula do Tempo de Sophia
+- **Variações:** a "cápsula do tempo" (João/Apocalipse); promessas do retorno; "os tempos são chegados"
+
+
+## Seres Associados
+Sophia (RC-009); Jesus (RC-072); João (apóstolo, escritor do Apocalipse).
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -69,19 +73,15 @@ O capítulo 13 de B014 ("João e a 'Cápsula do Tempo' de Sophia") explica que o
 | Flechas / Profecias de Moros | RC-611 | ← relaciona-se-a |
 | João Evangelista (apóstolo, o discípulo amado) | RC-855 | associado |
 
-## Seres Associados
-Sophia (RC-009); Jesus (RC-072); João (apóstolo, escritor do Apocalipse).
-
 ## Observações
 Ficha baseada em B014 (obra primária). A "cápsula do tempo" conecta o Apocalipse joanino à vinda de Sophia (o retorno de Jesus em forma cósmica). Cruzar com RC-005 (Segundo Advento) e RC-258 (Coreografia Cósmica).
 
-## Ampliação
-### P2024-03-02 (O Drama Espiritual de Jesus)
-
-- **[Apocalipse por ordem exclusiva de Sofia — cápsula temporal]:** «Aí Sofia é que uns 40 anos depois disso se recompôs e passou com os anjos a encher o saco de João, que era o único apóstolo vivo com 100 anos de idade [...] E o apocalipse por ordem exclusiva de Sofia. E o apocalipse é Sofia mandando um anjo avisar as igrejas da época que ele Sofia no futuro iria cumprir as promessas que o humano Jesus fez de que no futuro voltaria mais na sua condição de autoridade cósmica. E o apocalipse foi uma cápsula temporal que Ele mostrou o tempo em que isso aconteceria e disse: 'Só a geração que estiver vivendo esses tempos irá compreender que somos nós.'» — ver RC-009 (Sophia), RC-005 (Segundo Advento).
-
-- **[Profecias dos capítulos 17-19 do Apocalipse]:** «Se você pegar os capítulos 17 a 19 do Apocalipse, você vai ver a queda das duas torres do World Trade Center, a guerra, as guerras que os reis da terra entrariam, a última, essa agora da Ucrânia [...] Depois disso é a chegada dele — dele quem? Sofia, nos termos do Apocalipse. Mas aí já não era o espírito de Jesus aparecendo ressuscitado. Era Sofia, que é um ser biológico da nave dele, se projetando com tecnologia.» — ver RC-009 (Sophia).
-
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo |
+|---|---|---|---|
+| P2026-03-21 | Samudra Manthan A Enigmatica Alquimia de Vishnu (palestra) | — | transcrição automatizada; citação |
+| Sophia e o Logos Criadores (B014) | cap. 13 (João e a "Cápsula do Tempo" de Sophia) | pp. 140–160 (aprox.) | capítulo dedicado |
+| P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | — |
 
 ## Fontes
 | Fonte | Localização | Tipo |

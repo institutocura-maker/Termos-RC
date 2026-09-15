@@ -16,15 +16,17 @@ atualizado = "2026-09-05"
 
 A via **institucional/prática** proposta pela narrativa de Ellam: uma escola — lançada virtualmente a partir desta palestra ("palestra número um") — dedicada à decifração da realidade, resgatando o **método druídico ancestral** (druida = "buscador da verdade", em grego = filosofia). Seu objetivo: que cada ser humano, superando o estrangulamento cognitivo (RC-753), desperte a chave da decifração universal (RC-754) e construa sua própria ciência pessoal (RC-695) de compreensão adulta do sentido da vida.
 
-## Estrutura interna
+## Citações-chave
 
-- lançada como "escola da decifração da realidade" (palestra nº 1);
-- resgate do método druídico: druida = buscador da verdade; filosofia grega como recriação (Tales de Mileto, Pitágoras, Protágoras);
-- distinção vs. hermetismo (corpo fechado de doutrina; não é resgate do método druídico);
-- não é crença: é reflexão e escrutínio; "a verdade não é absoluta";
-- ligada à Revelação Cósmica (RC-094), ao Mentalma (RC-166) e à Ciência Pessoal (RC-695);
-- cada um cria a própria vivência íntima; "não há manual".
+> "Nós estamos lançando daqui a algum tempo algo que se chama escola da decifração da realidade. Essa palestra aqui é a palestra número um da escola."
 
+
+> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+
+- «Explicando melhor, em outras palavras, eram esses os quatro métodos que, com o desenrolar dos acontecimentos inerentes à chamada "Rebelião de Lúcifer", o "Codificador de Zion" foi desenvolvendo com os seus alunos, no sistema de Capela: 1º) A arte da decifração/codificação; 2º) O progresso pela […]» — *ver:* **Ampliação — F031 aplicação (05/09/2026): os QUATRO MÉTODO…**
+- «do seu legado restou uma estranha obra, cujo título é "Nuctemeron", que foi apresentada como se a cada uma das "doze horas" da passagem do tempo da Criação, um anúncio ou uma constatação específica se fazia regist[rado]» — *ver:* **Ampliação — F031 aplicação (05/09/2026): os QUATRO MÉTODO…**
+- «Bloco inserido por despacho do curador (Q-C/Q-D do ciclo F031). Fonte: B016 (*O Quarto Logos*)» — *ver:* **Ampliação — F031 aplicação (05/09/2026): os QUATRO MÉTODO…**
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** os 2 trechos entre aspas desta ficha **não** resistem à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Só 1 dos 2 deixam vestígio no corpus. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
 
 ## Ampliação
 ### P2024-11-03 (Apolônio de Tiana e o Quarto Logos)
@@ -63,27 +65,6 @@ A via **institucional/prática** proposta pela narrativa de Ellam: uma escola �
 - **[P2025-06-14 · IEEA COMO VEÍCULO]** «Para a eficiente disseminação da Revelação Cósmica, Jan Val Ellam criou o Instituto de Estudos Estratégicos e Alternativos (IEEA)» — a sigla em 10+ fichas sem verbete ganha código próprio na fila: **RC-930** (sem ficha; G1 homologado).
 - **[P2025-06-14 · ABHAIYAM, RETRADUÇÃO]** o doc-fonte F031 retransliterou «Abhaiyam» a partir da fala que a Base grafou «Abaiuan» (2023-04-01b, nota na ficha RC-092) — a grafia canônica da Base permanece **Abaiuan**.
 
-## Fontes
-
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
-| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
-| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra/STT) | citação verbatim; paráfrase |
-| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
-| P2025-06-14b | abertura ("estamos lançando... escola da decifração da realidade") e blocos finais (método druídico; Pitágoras) | palestra/STT pré-curada |
-| P2024-02-03 | O Jainismo e o Druidismo Ancestrais (palestra) | — |
-| B016 | O Quarto Logos — bloco «QUATRO MÉTODOS» e Nuctemeron | livro publicado (obra primária) |
-| P2021-06-26 | Shiva — A Reconstrução do Erro de Brahma e o Tikum (palestra/STT) | citação da «quinta» |
-
-
-
-
-
-## Citação-chave
-
-> "Nós estamos lançando daqui a algum tempo algo que se chama escola da decifração da realidade. Essa palestra aqui é a palestra número um da escola."
-
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
@@ -108,11 +89,29 @@ A via **institucional/prática** proposta pela narrativa de Ellam: uma escola �
 ## Observações
 
 A "Escola da Decifração da Realidade" e o "método druídico" são **proposta/projeto de Ellam** (lançamento virtual), não instituição formal nem doutrina validada. As associações históricas (druidas, Tales, Pitágoras, Protágoras) são leitura do autor. O verbete registra a via prática proposta pela narrativa da RC, sem endossar a historicidade das reconstruções.
-## Citações-chave
+## Fontes
 
-> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
+| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
+| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra/STT) | citação verbatim; paráfrase |
+| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
+| P2025-06-14b | abertura ("estamos lançando... escola da decifração da realidade") e blocos finais (método druídico; Pitágoras) | palestra/STT pré-curada |
+| P2024-02-03 | O Jainismo e o Druidismo Ancestrais (palestra) | — |
+| B016 | O Quarto Logos — bloco «QUATRO MÉTODOS» e Nuctemeron | livro publicado (obra primária) |
+| P2021-06-26 | Shiva — A Reconstrução do Erro de Brahma e o Tikum (palestra/STT) | citação da «quinta» |
 
-- «Explicando melhor, em outras palavras, eram esses os quatro métodos que, com o desenrolar dos acontecimentos inerentes à chamada "Rebelião de Lúcifer", o "Codificador de Zion" foi desenvolvendo com os seus alunos, no sistema de Capela: 1º) A arte da decifração/codificação; 2º) O progresso pela […]» — *ver:* **Ampliação — F031 aplicação (05/09/2026): os QUATRO MÉTODO…**
-- «do seu legado restou uma estranha obra, cujo título é "Nuctemeron", que foi apresentada como se a cada uma das "doze horas" da passagem do tempo da Criação, um anúncio ou uma constatação específica se fazia regist[rado]» — *ver:* **Ampliação — F031 aplicação (05/09/2026): os QUATRO MÉTODO…**
-- «Bloco inserido por despacho do curador (Q-C/Q-D do ciclo F031). Fonte: B016 (*O Quarto Logos*)» — *ver:* **Ampliação — F031 aplicação (05/09/2026): os QUATRO MÉTODO…**
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** os 2 trechos entre aspas desta ficha **não** resistem à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Só 1 dos 2 deixam vestígio no corpus. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
+
+
+
+## Estrutura interna
+
+- lançada como "escola da decifração da realidade" (palestra nº 1);
+- resgate do método druídico: druida = buscador da verdade; filosofia grega como recriação (Tales de Mileto, Pitágoras, Protágoras);
+- distinção vs. hermetismo (corpo fechado de doutrina; não é resgate do método druídico);
+- não é crença: é reflexão e escrutínio; "a verdade não é absoluta";
+- ligada à Revelação Cósmica (RC-094), ao Mentalma (RC-166) e à Ciência Pessoal (RC-695);
+- cada um cria a própria vivência íntima; "não há manual".
+

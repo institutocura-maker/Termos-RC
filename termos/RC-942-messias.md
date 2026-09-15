@@ -36,16 +36,16 @@ O termo aparece nas aulas 01–05 do curso F044 (57.179 palavras, fonte primári
 - Segundo Advento do Cristo (Volta de Jesus) — RC-005;
 - Bagagem/segredo — RC-752.
 
-## Fontes
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2023-12-25-01 | Aula 01 — Adolescência e a Juventude de Jesus | transcrição; citação |
-| P2023-12-25-02 | Aula 02 — Os Anos de Pregação e a Promessa do Retorno | transcrição; citação |
-| P2023-12-25-03 | Aula 03 — Dias Difíceis: Crucificação e Ressurreição | transcrição; citação |
-
 ## Observações
 **Quarentena teológica** — Messias/Cristo são categorias das tradições; esta ficha documenta a releitura de Ellam dentro da Revelação Cósmica, não consenso religioso. `relacoes/` blindado (0 arestas novas).
 
 
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-942.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o bloco entre «» desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2023-12-25-01 | Aula 01 — Adolescência e a Juventude de Jesus | transcrição; citação |
+| P2023-12-25-02 | Aula 02 — Os Anos de Pregação e a Promessa do Retorno | transcrição; citação |
+| P2023-12-25-03 | Aula 03 — Dias Difíceis: Crucificação e Ressurreição | transcrição; citação |

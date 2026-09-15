@@ -16,11 +16,19 @@ atualizado = "2026-09-12"
 
 Figura profética do Buda futuro — na RC, correlacionada a Dionísio e a uma forma adiágena de Vishnu; figura do retorno messiânico.
 
-## Atualização
-### P2021-03-27
+## Citações-chave
 
-- **Retorno profetizado:** "todas as religiões e movimentos da antiguidade falam no retorno dos deuses, a vinda do Messias, o retorno de Maitreya, a vinda do Avatar Kalki, a volta de Jesus — essa história toda é continuação da confusão que Marduk fez há 4.000 anos" (relógio messiânico — RC-765);
-- Maitreya entre os "enviados dos céus" do relógio profético (nova aresta RC-765 ↔ RC-481).
+> "O retorno de Maitreya, a vinda do Avatar Kalki, a volta de Jesus... é continuação da confusão que Marduk fez há 4.000 anos." — P2021-03-27
+
+
+> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+
+- «Na hora em que um saibar mantém como homem e espírito apoio ao sistema de castas na Índia, ele está prisioneiro de um uma jaula, de um processo mental que foi gerado lá atrás para organizar seres que eram dementes em classes.» — *ver:* **Ampliação — P2021-06-26 (Shiva - A Reconstrução do Erro d…** U0013
+- «E esse alguém é chamado de a vinda de Madiim, a vinda de do Messias, a segunda vinda de Jesus, eh, a vinda do Avatar Calque, ou seja, a a vinda do Caico para os incas.» — *ver:* **Ampliação — P2025-12-14 (Os Fundamentos da Revelação Cósm…** U0013
+
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-481.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
 
 ## Ampliação
 ### P2021-06-26 (Shiva - A Reconstrução do Erro de Brahma e o Tikum)
@@ -33,17 +41,11 @@ Figura profética do Buda futuro — na RC, correlacionada a Dionísio e a uma f
 - **[A vinda de Madiim: o anúncio de todos os avatares] (U0070)** «E esse alguém é chamado de a vinda de Madiim, a vinda de do Messias, a segunda vinda de Jesus, eh, a vinda do Avatar Calque, ou seja, a a vinda do Caico para os incas.» — STT «Madiim» = Maitreya; «Calque»/«Caico» = Maitreya/Messias nas diferentes tradições; o anúncio unânime de todos os avatares: `algo de fora viria à terra para encerrar esse período maluco` (RC-481 Maitreya; RC-072 segunda vinda).
 
 
-## Fontes
+## Atualização
+### P2021-03-27
 
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2025-12-14 | Os Fundamentos da Revelação Cósmica (palestra) | — | transcrição automatizada; citação |
-| P2021-06-26 | Shiva - A Reconstrução do Erro de Brahma e o Tikum (palestra) | — | transcrição automatizada; citação |
-| P2021-03-27 | bloco 9 (relógio messiânico) | palestra/STT pré-curada |
-
-## Citação-chave
-
-> "O retorno de Maitreya, a vinda do Avatar Kalki, a volta de Jesus... é continuação da confusão que Marduk fez há 4.000 anos." — P2021-03-27
+- **Retorno profetizado:** "todas as religiões e movimentos da antiguidade falam no retorno dos deuses, a vinda do Messias, o retorno de Maitreya, a vinda do Avatar Kalki, a volta de Jesus — essa história toda é continuação da confusão que Marduk fez há 4.000 anos" (relógio messiânico — RC-765);
+- Maitreya entre os "enviados dos céus" do relógio profético (nova aresta RC-765 ↔ RC-481).
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -54,13 +56,10 @@ Figura profética do Buda futuro — na RC, correlacionada a Dionísio e a uma f
 | ADHYMAVATANA (nome completo de Mavatna/Vishnu) | RC-408 | associado |
 | Relógio Messiânico | RC-765 | ← relaciona-se-a |
 
-## Citações-chave
+## Fontes
 
-> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
-
-- «Na hora em que um saibar mantém como homem e espírito apoio ao sistema de castas na Índia, ele está prisioneiro de um uma jaula, de um processo mental que foi gerado lá atrás para organizar seres que eram dementes em classes.» — *ver:* **Ampliação — P2021-06-26 (Shiva - A Reconstrução do Erro d…** U0013
-- «E esse alguém é chamado de a vinda de Madiim, a vinda de do Messias, a segunda vinda de Jesus, eh, a vinda do Avatar Calque, ou seja, a a vinda do Caico para os incas.» — *ver:* **Ampliação — P2025-12-14 (Os Fundamentos da Revelação Cósm…** U0013
-
-
-> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-481.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2025-12-14 | Os Fundamentos da Revelação Cósmica (palestra) | — | transcrição automatizada; citação |
+| P2021-06-26 | Shiva - A Reconstrução do Erro de Brahma e o Tikum (palestra) | — | transcrição automatizada; citação |
+| P2021-03-27 | bloco 9 (relógio messiânico) | palestra/STT pré-curada |

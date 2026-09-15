@@ -18,10 +18,8 @@ Novo modo de expressão da consciência humana associado ao Quarto Cérebro, ao 
 ## Contexto / Origem
 É apresentado como marco de encerramento do ciclo anterior e início de nova convivência cósmica.
 
-## Etimologia e Grafias
-- Grafia preferida: Superconsciência.
-- **Fonte de decisão:** Quadro 9 aprovado pelo curador.
-
+## Citações-chave
+> “Eu chamo isso de Superconsciência.” — P2021-12-04, U0535–U0542
 
 ## Ampliação
 ### P2025-02-16
@@ -45,14 +43,19 @@ Novo modo de expressão da consciência humana associado ao Quarto Cérebro, ao 
 
 - **[Superconsciência — a evolução via karuna] (U0004)** «Aí mesmo que não deixem o corpo dele morrer com a série de inovações, mas o DNA dele não cria novas proteínas no sentido da evolução via caruna, via superconsciência.» — a evolução do DNA via Karuna/superconsciência, não por abdução/transplante.
 
-## Fontes
-| Obra/palestra | Localização | Tipo |
-|---|---|---|
-| P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
-| P2021-12-04 — Os Archeons de Ereon e os Seres Adhy | U0535–U0542 | STT pré-curado e validado |
+## Reforço
+### P2025-02-16
 
-## Citações-chave
-> “Eu chamo isso de Superconsciência.” — P2021-12-04, U0535–U0542
+A consciência superior é condição para o protagonismo humano no Oitavo Dia. Exige libertação de condicionamentos, marco zero de conhecimento e comportamento dignificado, não devoção automática.
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
+## Etimologia e Grafias
+- Grafia preferida: Superconsciência.
+- **Fonte de decisão:** Quadro 9 aprovado pelo curador.
+
+
+## Seres Associados
+Consultar as relações tipadas acima.
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -69,16 +72,13 @@ Novo modo de expressão da consciência humana associado ao Quarto Cérebro, ao 
 | Humano Turbinado | RC-709 | ← relaciona-se-a |
 | Oxitocina (hormônio do bem — base bioquímica da Karuna) | RC-839 | associado |
 
-## Seres Associados
-Consultar as relações tipadas acima.
-
 ## Observações
 Não confundir com usos genéricos do termo em outras doutrinas.
 
 **Regra de status:** permanece candidato por depender de transcrição automatizada sem áudio anexado.
 
-## Reforço
-### P2025-02-16
-
-A consciência superior é condição para o protagonismo humano no Oitavo Dia. Exige libertação de condicionamentos, marco zero de conhecimento e comportamento dignificado, não devoção automática.
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+## Fontes
+| Obra/palestra | Localização | Tipo |
+|---|---|---|
+| P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
+| P2021-12-04 — Os Archeons de Ereon e os Seres Adhy | U0535–U0542 | STT pré-curado e validado |

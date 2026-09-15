@@ -18,10 +18,15 @@ atualizado = "2026-08-29"
 ## Contexto / Origem
 Conceito que amarra os três eixos do pensamento de Ellam — cristianismo, espiritismo kardecista e ufologia — e dá nome ao livro *Reintegração Cósmica* (ed. Navegar/Conhecimento). É a moldura em que o drama de Javé, os exilados e as civilizações extraterrestres se inserem.
 
-## Etimologia e Grafias
-- **Grafia preferida:** Reintegração Cósmica
-- **Variações:** (verificar uso de "reabilitação", "retorno ao circuito cósmico", "cidadania planetária")
+## Citações-chave
 
+> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+
+- «A Reintegração Cósmica da Terra, marcada pelo retorno de Sophia (Cristo Cósmico/Jesus), e a ascensão do Quarto Logos dependem crucialmente da contribuição consciente dos humanos para a recomposição do Criador.» — *ver:* **Ampliação — P2025-06-14 (PALESTRA SOBRE A QUEDA DO CRIADO…** U0063
+- «a Terra somente poderá ser reintegrada à convivência cósmica após o exílio, para outros orbes, dos irmãos terráqueos ainda empedernidos em posturas violentas de desamor e intolerância» — *ver:* **Ampliação — B025 (Caminhos Espirituais)**, p. 108
+
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-003.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
 
 ## Ampliação
 ### P2025-02-15
@@ -109,24 +114,6 @@ Conceito que amarra os três eixos do pensamento de Ellam — cristianismo, espi
 - **[P2022-03-26 · REINTEGRAÇÃO CÓSMICA NA FALA DE 26/03/2022]** "a população de um desses mundos conseguia se recuperar do vírus luciferiano. Aí esse mundo era reintegrado à convivência cósmica e só ficavam 18 mundos inicialmente isolados." (U0029) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2021-05-15`); a entrada desta fonte é de **conteúdo**, não de data.
 ---
 
-## Atualização
-### P2022-12-17
-
-- **Fonte:** palestra *O Incompreendido Ano de 2012 e a Falsa Noção do Fim do Mundo* — unidades U0862–U0881.
-- **Contexto acrescentado:** A Reintegração é apresentada como consequência pendente da chegada/regência de Sophia, capaz de retirar a Terra do isolamento e iniciar o “intercâmbio cósmico”.
-- **Status da evidência:** transcrição automatizada, pré-curada e validada terminologicamente pelo curador; conferir com áudio/obra primária antes de promoção de status.
-
----
-
-### P2021-12-04
-
-- **Unidades:** U0535–U0542; U0604–U0609.
-- **Contexto acrescentado:** A Reintegração é ligada à emergência da Superconsciência, ao Quarto Logos, à vinda de Sophia e à construção da Nova Espiritualidade.
-- **Status da evidência:** transcrição automatizada, pré-curada e aprovada quanto à integração terminológica; conferir com áudio/obra antes de promover status.
----
----
----
-
 ## Ampliação
 ### P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
 
@@ -153,6 +140,29 @@ Conceito que amarra os três eixos do pensamento de Ellam — cristianismo, espi
 
 - **«A reintegração cósmica meio que é refém da vinda de Sofia»**
 - Qualifica a **Reintegração Cósmica** como "meio refém da vinda de Sofia" — a fase clássica (intercâmbio cósmico) só começa oficialmente após a vinda; a extraterrestre já ocorre de forma limitada.
+
+
+## Atualização
+### P2022-12-17
+
+- **Fonte:** palestra *O Incompreendido Ano de 2012 e a Falsa Noção do Fim do Mundo* — unidades U0862–U0881.
+- **Contexto acrescentado:** A Reintegração é apresentada como consequência pendente da chegada/regência de Sophia, capaz de retirar a Terra do isolamento e iniciar o “intercâmbio cósmico”.
+- **Status da evidência:** transcrição automatizada, pré-curada e validada terminologicamente pelo curador; conferir com áudio/obra primária antes de promoção de status.
+
+---
+
+### P2021-12-04
+
+- **Unidades:** U0535–U0542; U0604–U0609.
+- **Contexto acrescentado:** A Reintegração é ligada à emergência da Superconsciência, ao Quarto Logos, à vinda de Sophia e à construção da Nova Espiritualidade.
+- **Status da evidência:** transcrição automatizada, pré-curada e aprovada quanto à integração terminológica; conferir com áudio/obra antes de promover status.
+---
+---
+---
+
+## Etimologia e Grafias
+- **Grafia preferida:** Reintegração Cósmica
+- **Variações:** (verificar uso de "reabilitação", "retorno ao circuito cósmico", "cidadania planetária")
 
 
 ## Termos Relacionados
@@ -195,13 +205,3 @@ Conceito que amarra os três eixos do pensamento de Ellam — cristianismo, espi
 |---|---|---|
 | P2020-04-04 | Javé, Sophia e Jesus: a Trindade Jamais Percebida (palestra Q&A) (palestra) | — | transcrição; citação |
 | P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |
-
-## Citações-chave
-
-> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
-
-- «A Reintegração Cósmica da Terra, marcada pelo retorno de Sophia (Cristo Cósmico/Jesus), e a ascensão do Quarto Logos dependem crucialmente da contribuição consciente dos humanos para a recomposição do Criador.» — *ver:* **Ampliação — P2025-06-14 (PALESTRA SOBRE A QUEDA DO CRIADO…** U0063
-- «a Terra somente poderá ser reintegrada à convivência cósmica após o exílio, para outros orbes, dos irmãos terráqueos ainda empedernidos em posturas violentas de desamor e intolerância» — *ver:* **Ampliação — B025 (Caminhos Espirituais)**, p. 108
-
-
-> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-003.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

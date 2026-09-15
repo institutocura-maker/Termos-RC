@@ -18,9 +18,8 @@ Termo extraído e aprovado na curadoria de P2025-05-31.
 ## Contexto / Origem
 O Mistério da Árvore da Vida e a Urdidura de Metatron.
 
-## Etimologia e Grafias
-Forma preferida: Abel.
-
+## Citações-chave
+Ver transcrição.
 
 ## Ampliação
 ### P2024-02-25
@@ -41,11 +40,12 @@ Forma preferida: Abel.
 - **[Abel nasceu primeiro — e nasceu afeminado] (U0045)** «Em algumas palestras eu tenho dito que quem nasceu primeiro não foi Caim, foi Abel.» — a inversão da linhagem: "Eva havia sido esturpada por uma série de arconos." (U0045: «Eva havia sido esturpada por uma série de arconos.»); "Todos eles tinham DNA de Javé." (U0045: «Todos eles tinham DNA de Javé.»); Abel era o primogênito pela regra da sucessão sacerdotal dos patriarcas, mas nasceu afeminado — e Javé (Sabaov, Senhor das Forças) recusou as oferendas de Caim para provocá-lo a matar Abel e apagar o registro da linhagem afeminada (paráfrase do contexto U0045; RC-684 Abel; RC-490 Caim; livro «Homofatividade, segredo perdido» citado — BLOCO 3).
 
 
-## Fontes
-P2025-05-31.
+## Etimologia e Grafias
+Forma preferida: Abel.
 
-## Citações-chave
-Ver transcrição.
+
+## Seres Associados
+Consultar Base.
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -60,11 +60,11 @@ Ver transcrição.
 | P2023-08-27 | Len Mion e os Senhores da Terra Alexandre Magno e Qin Shi Huang Di (palestra) | — | transcrição automatizada; citação |
 | P2023-08-27 | Len Mion e os Senhores da Terra Alexandre Magno e Qin Shi Huang Di (palestra) | — | transcrição automatizada; citação |
 
-## Seres Associados
-Consultar Base.
-
 ## Observações
 Teologia comparada e alegações científicas permanecem atribuídas ao palestrante.
 
 
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-684.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
+
+## Fontes
+P2025-05-31.

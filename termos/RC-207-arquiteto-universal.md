@@ -18,10 +18,8 @@ Função exercida por uma **divindade menor co-criadora** quando se apresenta, n
 ## Contexto / Origem
 Termo central da trilogia dos Dramas de Javé. O Arquiteto Universal é uma divindade cocriadora (ver RC-054) investida de função criadora, que se faz acompanhar por seres assessores. A queda transforma o arquiteto no "Senhor Javé", o Criador caído. B001 (cap. 3) o descreve como "Arquiteto por Excelência, 'Deus' por Necessidade".
 
-## Etimologia e Grafias
-- **Grafia preferida:** Arquiteto Universal
-- **Variações:** arquiteto universal (função); divindade menor co-criadora; "Arquiteto por Excelência"; identidade prévia: Prabrajna/Prajapati (RC-152)
-
+## Citações-chave
+> "Em um desses rincões, e dentro das etapas existenciais pelas quais passam os seres ali inseridos, era chegado o momento de mais uma divindade menor co-criadora apresentar-se para exercer a função de arquiteto universal." — B001, cap. 1
 
 ## Ampliação
 ### B001 (O Drama Cósmico de Javé)
@@ -36,14 +34,13 @@ Termo central da trilogia dos Dramas de Javé. O Arquiteto Universal é uma divi
 - **[B002 p. 6]** «nada há de glamour no seu atual modo de existir»; «aos olhos terrenos, ele sempre nos parecerá um ser poderoso com traços da divindade perdida».
 - **[B002 p. 6]** «há cerca de 13,7 bilhões de anos» = **quarentena científica**. RC-216 **não materializada** (O-2). Sem fundir a função pré-queda com o Javé pós-queda. Sem fusão com B001 / B033. Fonte **B002** já constava na tabela-mestra.
 
-## Fontes
-| Obra (sigla) | Capítulo | Página | Tipo |
-|---|---|---|---|
-| O Drama Cósmico de Javé (B001) | caps. 1, 3 | pp. 13–15, 41 (aprox.) | função antes da queda |
-| O Drama Espiritual de Javé (B002) | cap. 1 (A Queda de um Arquiteto Universal) | pp. 6–7 (aprox.) | capítulo dedicado |
+## Etimologia e Grafias
+- **Grafia preferida:** Arquiteto Universal
+- **Variações:** arquiteto universal (função); divindade menor co-criadora; "Arquiteto por Excelência"; identidade prévia: Prabrajna/Prajapati (RC-152)
 
-## Citações-chave
-> "Em um desses rincões, e dentro das etapas existenciais pelas quais passam os seres ali inseridos, era chegado o momento de mais uma divindade menor co-criadora apresentar-se para exercer a função de arquiteto universal." — B001, cap. 1
+
+## Seres Associados
+Prabrajna/Prajapati (RC-152); Javé (RC-001); Deidade (RC-047); Divindades Excelsas (RC-206).
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -58,9 +55,12 @@ Termo central da trilogia dos Dramas de Javé. O Arquiteto Universal é uma divi
 | Consórcio de Mundos (Arquitetos Universais) | RC-538 | ← relaciona-se-a |
 | Arquitetos Universais (coletivo cocriador) | RC-539 | associado |
 
-## Seres Associados
-Prabrajna/Prajapati (RC-152); Javé (RC-001); Deidade (RC-047); Divindades Excelsas (RC-206).
-
 ## Observações
 Ficha baseada em B001/B002 (obras primárias). Distinguir com cuidado: **Arquiteto Universal** (função pré-queda) × **Senhor Javé** (condição pós-queda) × **Prabrajna/Prajapati** (nome pré-queda).
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo |
+|---|---|---|---|
+| O Drama Cósmico de Javé (B001) | caps. 1, 3 | pp. 13–15, 41 (aprox.) | função antes da queda |
+| O Drama Espiritual de Javé (B002) | cap. 1 (A Queda de um Arquiteto Universal) | pp. 6–7 (aprox.) | capítulo dedicado |

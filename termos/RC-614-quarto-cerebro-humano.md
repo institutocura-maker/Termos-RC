@@ -18,10 +18,8 @@ Emergência futura de nova capacidade humana, atrelada a novo modo de expressão
 ## Contexto / Origem
 A palestra remete a explicações anteriores e o associa diretamente à Superconsciência.
 
-## Etimologia e Grafias
-- Grafia preferida: Quarto Cérebro Humano.
-- **Fonte de decisão:** Quadro 9 aprovado pelo curador.
-
+## Citações-chave
+> “Emergência do quarto cérebro do ser humano, atrelada a um novo modo [...] de consciência.” — P2021-12-04, U0534–U0538
 
 ## Ampliação
 ### P2024-02-25
@@ -55,19 +53,19 @@ A palestra remete a explicações anteriores e o associa diretamente à Supercon
 
 - **[P2022-03-26 · QUARTO CÉREBRO HUMANO NA FALA DE 26/03/2022]** "é que surgiu o cérebro bilatério, hemisfério, dois hemisférios que permite a racionalidade humana ter emoções, ter isso e aquilo." (U0005) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
 
-## Fontes
-| Obra/palestra | Localização | Tipo |
-|---|---|---|
-| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
-| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra/STT) | citação verbatim; paráfrase |
-| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
-| P2021-12-04 — Os Archeons de Ereon e os Seres Adhy | U0534–U0538 | STT pré-curado e validado |
+## Reforço
+### P2025-02-16
+
+O Quarto Cérebro não é descrito como nova peça anatômica, mas como nova maneira de o eu articular os níveis reptiliano, límbico e primata já existentes. É requisito do Oitavo Dia da Criação e liga-se à Ciência Pessoal.
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
+## Etimologia e Grafias
+- Grafia preferida: Quarto Cérebro Humano.
+- **Fonte de decisão:** Quadro 9 aprovado pelo curador.
 
 
-
-
-## Citações-chave
-> “Emergência do quarto cérebro do ser humano, atrelada a um novo modo [...] de consciência.” — P2021-12-04, U0534–U0538
+## Seres Associados
+Consultar as relações tipadas acima.
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -89,16 +87,18 @@ A palestra remete a explicações anteriores e o associa diretamente à Supercon
 | Genes Críticos / Genes Dorminhocos | RC-710 | associado |
 | Quarto Cérebro (centro de sabedoria vibracional) | RC-758 | relaciona-se-a |
 
-## Seres Associados
-Consultar as relações tipadas acima.
-
 ## Observações
 Definição incompleta nesta fonte; requer cruzamento futuro.
 
 **Regra de status:** permanece candidato por depender de transcrição automatizada sem áudio anexado.
 
-## Reforço
-### P2025-02-16
+## Fontes
+| Obra/palestra | Localização | Tipo |
+|---|---|---|
+| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
+| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra/STT) | citação verbatim; paráfrase |
+| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
+| P2021-12-04 — Os Archeons de Ereon e os Seres Adhy | U0534–U0538 | STT pré-curado e validado |
 
-O Quarto Cérebro não é descrito como nova peça anatômica, mas como nova maneira de o eu articular os níveis reptiliano, límbico e primata já existentes. É requisito do Oitavo Dia da Criação e liga-se à Ciência Pessoal.
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
+

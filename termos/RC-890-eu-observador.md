@@ -18,11 +18,6 @@ O Eu Observador é a modalidade de consciência que não age no primeiro impulso
 ## Contexto / Origem
 Conceito desenvolvido na palestra «A Quem Pertence o Planeta e a Biblioteca Genômica Mais Atualizada do Universo» (P2024-03-17). Ellam distingue duas modalidades de consciência humana: o eu observador (que mantém autonomia decisória) e o eu usufruidor (que foi capturado pela emoção devocional inoculada por seres externos, vivendo em êxtase permanente enquanto o mundo ao redor se desfaz).
 
-## Etimologia e Grafias
-- **Grafia preferida:** Eu Observador
-- **Variações:** alguém observador; observador interno
-- **Idioma de origem:** Português
-
 ## Ampliação
 ### P2024-03-17
 
@@ -31,6 +26,11 @@ Conceito desenvolvido na palestra «A Quem Pertence o Planeta e a Biblioteca Gen
 **Trecho verbatim:** «Ser um alguém observador é aquele que não age no primeiro impulso, deixa tudo passar e apenas observa e decide o que fazer mais por ele mesmo e não levado pelas influências que movem os lobos do nosso cérebro.»
 
 **Trecho verbatim 2 (contraste com o eu usufruidor):** «E a emoção mais estranha que esses seres inocularam na gente é a expectativa de receber bênçãos, milagres, favores divinos a cada momento. E por isso a gente vive rezando, vive. Aí com isso, você não é mais aquele observador, você é aquele que usufrui o tempo inteiro de uma emoção. O mundo ao seu redor continua existindo. Você tá totalmente em êxtase com Deus. Seus filhos se ferrando, os vizinhos se ferrando, o mundo em que você vive ferrado.»
+
+## Etimologia e Grafias
+- **Grafia preferida:** Eu Observador
+- **Variações:** alguém observador; observador interno
+- **Idioma de origem:** Português
 
 ## Termos Relacionados
 - RC-749 (Vício Devocional) — o eu usufruidor como captura pela emoção devocional

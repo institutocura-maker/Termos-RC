@@ -48,16 +48,16 @@ aspa fica datada aqui, e a eventual revisão do verbete nas obras continua pende
 `original.txt` — transcrição automatizada, **não conferida com o áudio**. Cada aspa foi recortada byte a byte por
 `_gerar_ampliacoes_P2023-12-03.py` sobre o caça-âncoras `_aspas_P2023-12-03.py`; nada foi digitado de memória.
 
-## Etimologia e Grafias
+## Citações-chave
 
-- **Canônico da Base:** *CFD (Código Fonte Definidor)* — a sigla é do cadastro e das obras; **a sigla não é dita**:
-  no `original.txt` de 2023 a forma `CFD` tem **0 ocorrências**, e o que se ouve é a expressão por extenso
-  (`código fonte definidor`, 2×, sempre seguida de `do criador`).
-- **Na fonte oral (P2023-12-03):** o STT grafa `padroes arquétipos` e degrada o nome de Javé para `Javer` na
-  segunda ocorrência. `[REVISAR → CHANCELA 10/09/2026 · F039-L5: FORMAS PRESERVADAS COMO VIERAM (decisão registrada) — ver nota]` — as formas entram como vieram, sem emenda.
-- **Vetado** (devolutiva de 29/08/2026, D-4/D-5): nenhuma máscara do STT entra nesta ficha, e a frase que associa o
-  CFD ao «criador» não é lida como negação de Deus — a cláusula «desloca o título de Deus do criador da obra» mora
-  em `RC-001`/`RC-042`/`RC-742`, onde o despacho a exigiu.
+> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+
+- «Mas cada ser humano traz em si, no seu genômico, todas as marcas dessa história e o eu humano é o batedor do seu próprio genoma e nós somos o próprio Samudra Mantã ambulante, produzindo ou as mesmas proteínas o tempo inteiro, tendo os mesmos comportamentos, ou alguns seres humanos conseguem […]» — *ver:* **Ampliação — P2026-03-21 (Samudra Manthan A Enigmatica Alq…** U0008
+- «Só quando os cvães ou elfos foram criados é que essa coisa de ter líquido dentro do corpo de plasma deles ou um tipo de líquido que ainda não é água, surgiu permitindo que o que a mente pensasse ficasse gravado na saliva, na porção líquida.» — *ver:* **Ampliação — P2026-03-21 (Samudra Manthan A Enigmatica Alq…** U0008
+- «padrões arquétipos do código fonte definidor do criador, que ou isso aqui fica organizado ou jamais esse ser aqui terá paz, terá condição psíquica de trazer para si tudo que dele foi fragmentado.» — *ver:* **Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por …** U0004
+
+
+> Notas de processo: 2 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-040.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
 
 ## Ampliação
 ### P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
@@ -70,20 +70,16 @@ aspa fica datada aqui, e a eventual revisão do verbete nas obras continua pende
 - **[O humano como Samudra Mantã ambulante: o eu batedor do próprio genoma] (U0008)** «Mas cada ser humano traz em si, no seu genômico, todas as marcas dessa história e o eu humano é o batedor do seu próprio genoma e nós somos o próprio Samudra Mantã ambulante, produzindo ou as mesmas proteínas o tempo inteiro, tendo os mesmos comportamentos, ou alguns seres humanos conseguem produzir novos genótipos, novas sequências genéticas.» — todo pensamento é produção de produtos mentais: "Cada sensação que nós humanos temos, cada ideia, cada emoção, cada pensamento, é uma permanente produção de produtos mentais" (U0008: «Cada sensação que nós humanos temos, cada ideia, cada emoção, cada pensamento, é uma permanente produção de produtos mentais.»).
 
 
-## Fontes
-| Obra (sigla) | Capítulo | Página | Tipo (citação/paráfrase) |
-|---|---|---|---|
-| P2026-03-21 | Samudra Manthan A Enigmatica Alquimia de Vishnu (palestra) | — | transcrição automatizada; citação |
-| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra) | — | transcrição automatizada; citação |
-| B031 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
-| B024 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
-| B002 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
-| B033 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
-| B021 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
-| B041 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
-| B040 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
-| B019 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
-| P2022-12-17 · P2021-12-04 · P2024-05-04 · P2024-08-03 | — | — | fontes orais já registradas no cadastro antes deste ciclo |
+## Etimologia e Grafias
+
+- **Canônico da Base:** *CFD (Código Fonte Definidor)* — a sigla é do cadastro e das obras; **a sigla não é dita**:
+  no `original.txt` de 2023 a forma `CFD` tem **0 ocorrências**, e o que se ouve é a expressão por extenso
+  (`código fonte definidor`, 2×, sempre seguida de `do criador`).
+- **Na fonte oral (P2023-12-03):** o STT grafa `padroes arquétipos` e degrada o nome de Javé para `Javer` na
+  segunda ocorrência. `[REVISAR → CHANCELA 10/09/2026 · F039-L5: FORMAS PRESERVADAS COMO VIERAM (decisão registrada) — ver nota]` — as formas entram como vieram, sem emenda.
+- **Vetado** (devolutiva de 29/08/2026, D-4/D-5): nenhuma máscara do STT entra nesta ficha, e a frase que associa o
+  CFD ao «criador» não é lida como negação de Deus — a cláusula «desloca o título de Deus do criador da obra» mora
+  em `RC-001`/`RC-042`/`RC-742`, onde o despacho a exigiu.
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -120,13 +116,17 @@ aspa fica datada aqui, e a eventual revisão do verbete nas obras continua pende
   computacional, não há paralelo com «código-fonte» em engenharia de software. O sentido é o das obras vinculadas
   (definição escrita da vida biológica) mais o que a fala de 2023 acrescenta sobre organização e paz.
 
-## Citações-chave
-
-> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
-
-- «Mas cada ser humano traz em si, no seu genômico, todas as marcas dessa história e o eu humano é o batedor do seu próprio genoma e nós somos o próprio Samudra Mantã ambulante, produzindo ou as mesmas proteínas o tempo inteiro, tendo os mesmos comportamentos, ou alguns seres humanos conseguem […]» — *ver:* **Ampliação — P2026-03-21 (Samudra Manthan A Enigmatica Alq…** U0008
-- «Só quando os cvães ou elfos foram criados é que essa coisa de ter líquido dentro do corpo de plasma deles ou um tipo de líquido que ainda não é água, surgiu permitindo que o que a mente pensasse ficasse gravado na saliva, na porção líquida.» — *ver:* **Ampliação — P2026-03-21 (Samudra Manthan A Enigmatica Alq…** U0008
-- «padrões arquétipos do código fonte definidor do criador, que ou isso aqui fica organizado ou jamais esse ser aqui terá paz, terá condição psíquica de trazer para si tudo que dele foi fragmentado.» — *ver:* **Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por …** U0004
-
-
-> Notas de processo: 2 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-040.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo (citação/paráfrase) |
+|---|---|---|---|
+| P2026-03-21 | Samudra Manthan A Enigmatica Alquimia de Vishnu (palestra) | — | transcrição automatizada; citação |
+| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra) | — | transcrição automatizada; citação |
+| B031 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
+| B024 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
+| B002 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
+| B033 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
+| B021 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
+| B041 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
+| B040 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
+| B019 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
+| P2022-12-17 · P2021-12-04 · P2024-05-04 · P2024-08-03 | — | — | fontes orais já registradas no cadastro antes deste ciclo |

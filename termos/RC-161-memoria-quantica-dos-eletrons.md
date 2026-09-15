@@ -18,10 +18,16 @@ Capacidade **misteriosa e exclusiva dos elétrons** (que as demais micropartícu
 ## Contexto / Origem
 O físico nuclear francês **Jean-Émile Charon** descortinou essa característica enigmática. Nas RC, o elétron serve de **"ponte quântica" entre o Criador 'caído' e as suas criaturas-ferramenta** — tema desenvolvido no livro *A Rebelião dos Elétrons e o Código de Vida do Criador* (B041). No fim do universo, as informações dos elétrons estarão associadas à emergente **Mente Universal**.
 
-## Etimologia e Grafias
-- **Grafia preferida:** Memória Quântica dos Elétrons
-- **Variações:** memória do elétron; elétron como "agente básico da vida universal"; ponte quântica
+## Citações-chave
 
+> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+
+- «Não pode surgir nenhum elétron novo e nenhum dos elétrons que existe pode morrer, porque senão quando for reconstruir o puzzle, ou seja, o quebra-cabeças, que seria formar a mente do criador de novo, nenhuma dessas partezinhas pode faltar, senão não reconstrói nos termos em que foi.» — *ver:* **Ampliação — P2026-03-21 (Samudra Manthan A Enigmatica Alq…** U0012
+- «Mas isso aqui é o espectro de atitudes mentais possíveis aos seres para que eles produzam suas formas, pensamento e formas sentimentos e isso fique marcado em algum lugar, ou seja, nos registros acásicos ou acásticos, que é a memória quântica dos elétrons.» — *ver:* **Ampliação — P2026-03-21 (Samudra Manthan A Enigmatica Alq…** U0013
+- «Os qualihas mentais de Lemi, os coalhas mentais de A, B, C, D, G, os meus e seus, os qual mentais que marcaram os elétrons são eles que têm que lutar.» — *ver:* **Ampliação — P2021-04-10 (O Fechamento dos Portais e o Imp…** U0006
+
+
+> Notas de processo: 2 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-161.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
 
 ## Ampliação
 ### P2025-03-15
@@ -85,6 +91,55 @@ O físico nuclear francês **Jean-Émile Charon** descortinou essa característi
 - **[P2022-03-26 · MEMÓRIA QUÂNTICA DOS ELÉTRONS NA FALA DE 26/03/2022]** "diz o nome inclusive do demo que desse universo vizinho tenta manipular todas as espécies biológicas que surgiram e se organizaram a partir do primeiro vírus que foi aqui introjetado." (U0007) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⭐ **NOTA DE ANTERIORIDADE — P2022-03-26:** antecipa **15 meses** a atual fonte oral mais antiga da ficha (`P2023-06-24`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
 ---
 
+## Ampliação
+### P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+
+- **[P2023-12-03 · MEMÓRIA QUÂNTICA DOS ELÉTRONS NA FALA DE 03/12/2023]** «em elétrons e antielétrons sujos aqui dentro dessa matrix que é composta de duas bandas, um antimaterial, um material.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2022-03-26`); a entrada desta fonte é de **conteúdo**, não de data.
+
+---
+
+### P2017-10-14 (Da Base Atlan ao Colégio Druídico)
+
+- **[o registro cármico como memória dos elétrons] (U0034)** «O registro cástico é a memória dos elétrons que guardam em si toda a experiência que vivenciam.» — o registro cármico (STT `cástico`) é a memória dos elétrons, que guardam e trocam toda a experiência vivida.
+
+### P2022-12-03 (O Ocaso do Criador e a Rebelião dos Elétrons)
+
+- **[O ponto de memorização deletéria] (U0013)** «Os elétrons do nosso universo chegaram a um ponto tal de memorização em si mesmo.» — a carga memorial dos elétrons atingiu o limite: memorizaram tantos elementos deletérios que "começaram a não funcionar direito" — a causa direta do colapso sistêmico (a memória apodrecida dos pósitrons compunha o cérebro do corpo javeano).
+
+### P2026-03-21 (Samudra Manthan A Enigmatica Alquimia de Vishnu)
+
+- **[Os registros acásicos: a memória quântica dos elétrons] (U0013)** «Mas isso aqui é o espectro de atitudes mentais possíveis aos seres para que eles produzam suas formas, pensamento e formas sentimentos e isso fique marcado em algum lugar, ou seja, nos registros acásicos ou acásticos, que é a memória quântica dos elétrons.» — o puzzle da mente do criador: "Não pode surgir nenhum elétron novo e nenhum dos elétrons que existe pode morrer, porque senão quando for reconstruir o puzzle, ou seja, o quebra-cabeças, que seria formar a mente do criador de novo, nenhuma dessas partezinhas pode faltar, senão não reconstrói nos termos em que foi" (U0012: «Não pode surgir nenhum elétron novo e nenhum dos elétrons que existe pode morrer, porque senão quando for reconstruir o puzzle, ou seja, o quebra-cabeças, que seria formar a mente do criador de novo, nenhuma dessas partezinhas pode faltar, senão não reconstrói nos termos em que foi.»).
+
+### P2021-04-10 (O Fechamento dos Portais e o Impasse no Exílio Espiritual de Len Mion — Aprofundamento)
+
+- **[Lemi marcou mais os elétrons que ninguém] (U0006)** «Nunca ninguém marcou ou tanta coisa nos elétrons desse universo como Lemi e os seus nos últimos 20.» — [REVISAR: STT trunca "nos últimos 20.000 anos" → CHANCELA 2026-09-06 · F039-L3: AGUARDA-ÁUDIO (STT preservado como falado) — ver nota]; "ainda que eles não tivessem vinculados a corpos, né? Porque nesse período eles estavam nessa shamba nessa coisa, nessa realidade simultânea nossa, meio que paralela" (glosa sem aspa); "ninguém limpa a sujeira, isso é falso. Os que sujar é que tem que limpar" (glosa sem aspa); os qualias têm que lutar: «Os qualihas mentais de Lemi, os coalhas mentais de A, B, C, D, G, os meus e seus, os qual mentais que marcaram os elétrons são eles que têm que lutar.» (U0006: «Os qualihas mentais de Lemi, os coalhas mentais de A, B, C, D, G, os meus e seus, os qual mentais que marcaram os elétrons são eles que têm que lutar.») — "não tem Deus, nem Jesus, nem Javé, nem Sofia, nem ninguém" para desfazer (glosa sem aspa).
+- **[A assinatura quântica: quem suja, limpa] (U0006)** «Se Roger Maravilha ou Tragédia infectou, marcou um elétron, é Rogerinho, a mesma assinatura quântica dele que no futuro tem que não é outro, não.» — na frase original do autor (com máscara do bruto, que não transita), um outro eu funcionando com os mesmos padrões de lógica terá que desfazer aquilo (glosa sem aspa); o eu fica "memorizado de alguma forma, algoritmizado de alguma forma... escaneado de alguma maneira ou nos elétrons do universo ou nos genomas das espécies ou no genoma especial específico de cada um de nós, que é nossa assinatura quântica" (glosa sem aspa); absorção da devolutiva (Eu efêmero): «O mais efêmero de tudo isso é esse eu da gente, que não é esse corpo, mas que funciona através dele.» (U0006: «O mais efêmero de tudo isso é esse eu da gente, que não é esse corpo, mas que funciona através dele.») — "o espírito é infectado. Esse corpo é infectado pelo DNA infectado do criador. O eu que surge disso, que é o mais efêmero... é capturado pelo espírito" (glosa sem aspa); «Capila disse isso há 2700 anos.» (U0006: «Capila disse isso há 2700 anos.»).
+
+## Atualização
+### P2024-05-04
+
+- A memória dos elétrons/antielétrons é tratada como portadora dos bits do corpo manásico fragmentado.
+- Divergências e alegações científicas permanecem abertas/atribuídas à palestra.
+
+## Atualização
+### P2024-11-09
+A palestra atribui aos elétrons memória de sofrimento, preferências e comunicação instantânea. Essas propriedades pertencem à cosmologia RC; elétrons não são organismos vivos nem escaneiam pensamentos segundo a física estabelecida. A alegação alimentar não é mecanismo biomédico demonstrado.
+---
+---
+---
+
+## Reforço
+### P2025-03-15
+
+A palestra identifica os registros akáshicos com a memória coletiva dos elétrons e distingue a informação recebida pela rede da experiência direta, descrita como mais marcante. A saturação diante das memórias de sofrimento é apresentada como motor da Rebelião dos Elétrons e do Colapso do Caos Organizado.
+
+**Fonte:** P2025-03-15, U0191–U0389 e U1094 — fonte incompleta, encerrada no intervalo. As afirmações físicas permanecem atribuídas ao palestrante.
+
+## Etimologia e Grafias
+- **Grafia preferida:** Memória Quântica dos Elétrons
+- **Variações:** memória do elétron; elétron como "agente básico da vida universal"; ponte quântica
+
+
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
@@ -120,58 +175,3 @@ O físico nuclear francês **Jean-Émile Charon** descortinou essa característi
 | Memória dos Elétrons e Arcanos | RC-829 | associado |
 | Guardadores de Lixo Memorial (os humanos como hospedeiros da sujeira) | RC-866 | associado |
 | Biocosmos emergente (a nova mente biológica global ancorada nos campos mórficos) | RC-879 | associado |
-
-## Atualização
-### P2024-05-04
-
-- A memória dos elétrons/antielétrons é tratada como portadora dos bits do corpo manásico fragmentado.
-- Divergências e alegações científicas permanecem abertas/atribuídas à palestra.
-
-## Reforço
-### P2025-03-15
-
-A palestra identifica os registros akáshicos com a memória coletiva dos elétrons e distingue a informação recebida pela rede da experiência direta, descrita como mais marcante. A saturação diante das memórias de sofrimento é apresentada como motor da Rebelião dos Elétrons e do Colapso do Caos Organizado.
-
-**Fonte:** P2025-03-15, U0191–U0389 e U1094 — fonte incompleta, encerrada no intervalo. As afirmações físicas permanecem atribuídas ao palestrante.
-
-## Atualização
-### P2024-11-09
-A palestra atribui aos elétrons memória de sofrimento, preferências e comunicação instantânea. Essas propriedades pertencem à cosmologia RC; elétrons não são organismos vivos nem escaneiam pensamentos segundo a física estabelecida. A alegação alimentar não é mecanismo biomédico demonstrado.
----
----
----
-
-## Ampliação
-### P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
-
-- **[P2023-12-03 · MEMÓRIA QUÂNTICA DOS ELÉTRONS NA FALA DE 03/12/2023]** «em elétrons e antielétrons sujos aqui dentro dessa matrix que é composta de duas bandas, um antimaterial, um material.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2022-03-26`); a entrada desta fonte é de **conteúdo**, não de data.
-
----
-
-### P2017-10-14 (Da Base Atlan ao Colégio Druídico)
-
-- **[o registro cármico como memória dos elétrons] (U0034)** «O registro cástico é a memória dos elétrons que guardam em si toda a experiência que vivenciam.» — o registro cármico (STT `cástico`) é a memória dos elétrons, que guardam e trocam toda a experiência vivida.
-
-### P2022-12-03 (O Ocaso do Criador e a Rebelião dos Elétrons)
-
-- **[O ponto de memorização deletéria] (U0013)** «Os elétrons do nosso universo chegaram a um ponto tal de memorização em si mesmo.» — a carga memorial dos elétrons atingiu o limite: memorizaram tantos elementos deletérios que "começaram a não funcionar direito" — a causa direta do colapso sistêmico (a memória apodrecida dos pósitrons compunha o cérebro do corpo javeano).
-
-### P2026-03-21 (Samudra Manthan A Enigmatica Alquimia de Vishnu)
-
-- **[Os registros acásicos: a memória quântica dos elétrons] (U0013)** «Mas isso aqui é o espectro de atitudes mentais possíveis aos seres para que eles produzam suas formas, pensamento e formas sentimentos e isso fique marcado em algum lugar, ou seja, nos registros acásicos ou acásticos, que é a memória quântica dos elétrons.» — o puzzle da mente do criador: "Não pode surgir nenhum elétron novo e nenhum dos elétrons que existe pode morrer, porque senão quando for reconstruir o puzzle, ou seja, o quebra-cabeças, que seria formar a mente do criador de novo, nenhuma dessas partezinhas pode faltar, senão não reconstrói nos termos em que foi" (U0012: «Não pode surgir nenhum elétron novo e nenhum dos elétrons que existe pode morrer, porque senão quando for reconstruir o puzzle, ou seja, o quebra-cabeças, que seria formar a mente do criador de novo, nenhuma dessas partezinhas pode faltar, senão não reconstrói nos termos em que foi.»).
-
-### P2021-04-10 (O Fechamento dos Portais e o Impasse no Exílio Espiritual de Len Mion — Aprofundamento)
-
-- **[Lemi marcou mais os elétrons que ninguém] (U0006)** «Nunca ninguém marcou ou tanta coisa nos elétrons desse universo como Lemi e os seus nos últimos 20.» — [REVISAR: STT trunca "nos últimos 20.000 anos" → CHANCELA 2026-09-06 · F039-L3: AGUARDA-ÁUDIO (STT preservado como falado) — ver nota]; "ainda que eles não tivessem vinculados a corpos, né? Porque nesse período eles estavam nessa shamba nessa coisa, nessa realidade simultânea nossa, meio que paralela" (glosa sem aspa); "ninguém limpa a sujeira, isso é falso. Os que sujar é que tem que limpar" (glosa sem aspa); os qualias têm que lutar: «Os qualihas mentais de Lemi, os coalhas mentais de A, B, C, D, G, os meus e seus, os qual mentais que marcaram os elétrons são eles que têm que lutar.» (U0006: «Os qualihas mentais de Lemi, os coalhas mentais de A, B, C, D, G, os meus e seus, os qual mentais que marcaram os elétrons são eles que têm que lutar.») — "não tem Deus, nem Jesus, nem Javé, nem Sofia, nem ninguém" para desfazer (glosa sem aspa).
-- **[A assinatura quântica: quem suja, limpa] (U0006)** «Se Roger Maravilha ou Tragédia infectou, marcou um elétron, é Rogerinho, a mesma assinatura quântica dele que no futuro tem que não é outro, não.» — na frase original do autor (com máscara do bruto, que não transita), um outro eu funcionando com os mesmos padrões de lógica terá que desfazer aquilo (glosa sem aspa); o eu fica "memorizado de alguma forma, algoritmizado de alguma forma... escaneado de alguma maneira ou nos elétrons do universo ou nos genomas das espécies ou no genoma especial específico de cada um de nós, que é nossa assinatura quântica" (glosa sem aspa); absorção da devolutiva (Eu efêmero): «O mais efêmero de tudo isso é esse eu da gente, que não é esse corpo, mas que funciona através dele.» (U0006: «O mais efêmero de tudo isso é esse eu da gente, que não é esse corpo, mas que funciona através dele.») — "o espírito é infectado. Esse corpo é infectado pelo DNA infectado do criador. O eu que surge disso, que é o mais efêmero... é capturado pelo espírito" (glosa sem aspa); «Capila disse isso há 2700 anos.» (U0006: «Capila disse isso há 2700 anos.»).
-
-## Citações-chave
-
-> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
-
-- «Não pode surgir nenhum elétron novo e nenhum dos elétrons que existe pode morrer, porque senão quando for reconstruir o puzzle, ou seja, o quebra-cabeças, que seria formar a mente do criador de novo, nenhuma dessas partezinhas pode faltar, senão não reconstrói nos termos em que foi.» — *ver:* **Ampliação — P2026-03-21 (Samudra Manthan A Enigmatica Alq…** U0012
-- «Mas isso aqui é o espectro de atitudes mentais possíveis aos seres para que eles produzam suas formas, pensamento e formas sentimentos e isso fique marcado em algum lugar, ou seja, nos registros acásicos ou acásticos, que é a memória quântica dos elétrons.» — *ver:* **Ampliação — P2026-03-21 (Samudra Manthan A Enigmatica Alq…** U0013
-- «Os qualihas mentais de Lemi, os coalhas mentais de A, B, C, D, G, os meus e seus, os qual mentais que marcaram os elétrons são eles que têm que lutar.» — *ver:* **Ampliação — P2021-04-10 (O Fechamento dos Portais e o Imp…** U0006
-
-
-> Notas de processo: 2 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-161.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

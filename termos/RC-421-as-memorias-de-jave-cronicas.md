@@ -18,10 +18,8 @@ atualizado = "2026-08-13"
 ## Contexto / Origem
 O livro é a sequência natural de *Cartas a Javé* (B034) e do *Favor Divino* (B048): após permitir que Javé respondesse às cartas de Mônica Camargo, Ellam passou a registrar as comunicações do Criador. A obra revela o **"Ser-Criador fracassado"** (RC-422), o processo de humanização de Javé, a linhagem dos escolhidos (RC-424) e o confronto com Krishna/Keshava (RC-425).
 
-## Etimologia e Grafias
-- **Grafia preferida:** As Memórias de Javé
-- **Variações:** Memórias de Javé; crônicas de Javé; as três partes de crônicas (espontâneas / nem tanto / forçadas)
-
+## Citações-chave
+> "Desde que cedi aos fatos tentando ser honesto comigo mesmo, resolvi, pelo menos, 'escutar' o que aquele Ser... agora me solicita, pois que, antes, tão somente ordenava... restou o seu pedido para que eu lhe ofereça o concurso pessoal a fim de que as 'suas comunicações', para as suas criaturas terráqueas, pudessem ser veiculadas." — B036, Introdução
 
 ## Ampliação
 ### B036 (As Memórias de Javé)
@@ -31,13 +29,13 @@ O livro é a sequência natural de *Cartas a Javé* (B034) e do *Favor Divino* (
 - **[B036 p. 6]** Atlan, 17/01/2014. As crônicas como “matérias do seu ‘curso de humanização’”.
 - **[B036 p. 97]** posfácio: “arte da indiferença emocional” ante as “invasões” — **quarentena biográfica**. Remissão a *Inquisição Filosófica* e *Inquisição Trimurtiana* = **não fundir**. IEEA / Orbum / CIP alheio (p. 111) **fora**.
 
-## Fontes
-| Obra (sigla) | Capítulo | Página | Tipo |
-|---|---|---|---|
-| As Memórias de Javé (B036) | Introdução; Crônicas I–XIII | — | obra integral |
+## Etimologia e Grafias
+- **Grafia preferida:** As Memórias de Javé
+- **Variações:** Memórias de Javé; crônicas de Javé; as três partes de crônicas (espontâneas / nem tanto / forçadas)
 
-## Citações-chave
-> "Desde que cedi aos fatos tentando ser honesto comigo mesmo, resolvi, pelo menos, 'escutar' o que aquele Ser... agora me solicita, pois que, antes, tão somente ordenava... restou o seu pedido para que eu lhe ofereça o concurso pessoal a fim de que as 'suas comunicações', para as suas criaturas terráqueas, pudessem ser veiculadas." — B036, Introdução
+
+## Seres Associados
+Javé (RC-001); Jan Val Ellam (RC-071); Mônica Camargo (RC-420, contexto).
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -51,9 +49,11 @@ O livro é a sequência natural de *Cartas a Javé* (B034) e do *Favor Divino* (
 | Ser-Criador fracassado (autoconfissão de Javé) | RC-422 | é-um (tema) |
 | Advogado de Acusação (Ellam × Javé) | RC-423 | recebida-por |
 
-## Seres Associados
-Javé (RC-001); Jan Val Ellam (RC-071); Mônica Camargo (RC-420, contexto).
-
 ## Observações
 Ficha baseada em B036 (obra primária). As Memórias são a terceira peça do "diálogo direto com Javé" (Favor Divino → Cartas → Memórias). Um resumo estruturado (B036R) foi recebido e incorporado à leitura.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo |
+|---|---|---|---|
+| As Memórias de Javé (B036) | Introdução; Crônicas I–XIII | — | obra integral |

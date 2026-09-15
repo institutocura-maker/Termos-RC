@@ -18,11 +18,8 @@ Também chamados de "demônios" ou "daemon" (cultura grega), são **seres extraf
 ## Contexto / Origem
 Os Demos habitam o universo antimaterial (Brahmaloka) e são a matéria-prima das mitologias humanas (deuses gregos, nórdicos etc.). A "cultura demo" é a cultura dessas moradas do universo paralelo. A classe demo é fundamental para entender a categoria "Seres dos Portais" e os deuses mitológicos.
 
-## Etimologia e Grafias
-- **Grafia preferida:** Demos
-- **Variações:** demônios; daemon; "seres demos"; deuses mitológicos
-- **Idioma de origem:** grego daimon → latim daemon; no RC, "demo" = "demente"
-
+## Citações-chave
+> "Nas obras de Jan Val Ellam, a expressão 'demo' define tão somente os seres que habitam um universo paralelo ao que vivemos, de origem antimaterial, sendo alguns deles, inclusive, chamados de 'deuses', cujos nomes aparecem nas diversas mitologias do passado." — B031, verbete "Demos"
 
 ## Ampliação
 ### B052 (Homoafetividade: O Segredo Perdido do Éden)
@@ -85,24 +82,14 @@ Os Demos habitam o universo antimaterial (Brahmaloka) e são a matéria-prima da
 - Situa os **Demos** na tese: a "história do universo" é a disputa dos seres demo pelos campos mórficos das espécies; os demos são especialistas em criar campos mórficos e novas classes de vírus.
 
 
-## Fontes
-| Obra (sigla) | Capítulo | Página | Tipo |
-|---|---|---|---|
-| P2020-04-04 | Javé, Sophia e Jesus: a Trindade Jamais Percebida (palestra Q&A) (palestra) | — | citação |
-| P2025-06-14 | PALESTRA SOBRE A QUEDA DO CRIADOR-Refatorada (palestra) | — | transcrição automatizada; citação |
-| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra) | — | transcrição automatizada; citação |
-| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra) | — | transcrição automatizada; citação |
-| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra) | — | transcrição automatizada; citação |
-| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra) | — | transcrição automatizada; citação |
-| Painéis Emergentes... (B031) | Glossário de Termos | p. 127-128 (aprox.) | verbete "Demos" |
-| Painéis Emergentes... (B031) | Glossário de Termos | p. 132 (aprox.) | verbete "Deuses" (os dois tipos) |
+## Etimologia e Grafias
+- **Grafia preferida:** Demos
+- **Variações:** demônios; daemon; "seres demos"; deuses mitológicos
+- **Idioma de origem:** grego daimon → latim daemon; no RC, "demo" = "demente"
 
 
-
-
-
-## Citações-chave
-> "Nas obras de Jan Val Ellam, a expressão 'demo' define tão somente os seres que habitam um universo paralelo ao que vivemos, de origem antimaterial, sendo alguns deles, inclusive, chamados de 'deuses', cujos nomes aparecem nas diversas mitologias do passado." — B031, verbete "Demos"
+## Seres Associados
+Zeus (RC-145); Seres dos Portais (mitologia grega/nórdica); Vishnu e Shiva (formas demo geradas pelas consciências Adhydaiva — ver RC-014).
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -134,9 +121,22 @@ Os Demos habitam o universo antimaterial (Brahmaloka) e são a matéria-prima da
 | Aristocracia Olimpiana e Monarquias Terrestres | RC-736 | associado |
 | Dessensibilização da Condição Humana | RC-746 | ← relaciona-se-a |
 
-## Seres Associados
-Zeus (RC-145); Seres dos Portais (mitologia grega/nórdica); Vishnu e Shiva (formas demo geradas pelas consciências Adhydaiva — ver RC-014).
-
 ## Observações
 Ficha baseada no glossário de B031. Verificar nas obras primárias a taxonomia completa: anjos clones → demos → biodemos → seres humanos.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo |
+|---|---|---|---|
+| P2020-04-04 | Javé, Sophia e Jesus: a Trindade Jamais Percebida (palestra Q&A) (palestra) | — | citação |
+| P2025-06-14 | PALESTRA SOBRE A QUEDA DO CRIADOR-Refatorada (palestra) | — | transcrição automatizada; citação |
+| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra) | — | transcrição automatizada; citação |
+| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra) | — | transcrição automatizada; citação |
+| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra) | — | transcrição automatizada; citação |
+| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra) | — | transcrição automatizada; citação |
+| Painéis Emergentes... (B031) | Glossário de Termos | p. 127-128 (aprox.) | verbete "Demos" |
+| Painéis Emergentes... (B031) | Glossário de Termos | p. 132 (aprox.) | verbete "Deuses" (os dois tipos) |
+
+
+
+

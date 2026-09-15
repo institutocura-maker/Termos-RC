@@ -18,9 +18,8 @@ Princípio pelo qual uma consciência criadora e sua criação permanecem ligada
 ## Contexto / Origem
 A palestra cria explicitamente o neologismo e o aplica à queda de Prabrajna, ao colapso de Javé, ao genoma e à responsabilidade cocriadora.
 
-## Etimologia e Grafias
-- Inclui como subtermos: vínculo indissolúvel criador–criação; compasso/descompasso; reversibilidade genética e cocriadora.
-
+## Citações-chave
+> “Entre esta criação e o criador [há] um vínculo energético-vibratório [...] chamado simultaneidade reversa.” — P2024-05-04
 
 ## Ampliação
 ### P2024-05-04-R
@@ -29,13 +28,12 @@ A palestra cria explicitamente o neologismo e o aplica à queda de Prabrajna, ao
 - **[P2024-05-04-R] Kant e a simultaneidade (U1200–U1300):** "a concepção de Kant, em sua Crítica da Razão Pura, de que, para certas sensações se referirem a algo exterior, a representação do espaço já deve estar subjacente no genoma e na mente do ser humano. Isso implica que o universo sensorial, de fato, não existe lá fora, mas no código neuronal de cada ser vivo" [leitura do autor].
 - **[P2024-05-04-R] A não-linearidade (U0200–U0250):** "eventos como a atuação do Terceiro e Quarto Logos e a subsequente Rebelião dos Elétrons ocorrem em momentos distintos da linha do tempo cósmica. No entanto, para a percepção humana, estes eventos podem ser experienciados em uma ordem não-linear, onde os efeitos podem ser percebidos antes de suas causas mais profundas, criando uma aparente simultaneidade".
 
-## Fontes
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2024-05-04 — Prabrajna em Perpérion / Simultaneidade Reversa | U0016–U0159; U0412–U0416; U0596–U0685; U0895–U0953; U1196–U1224 | PDF/transcrição pré-curada |
+## Etimologia e Grafias
+- Inclui como subtermos: vínculo indissolúvel criador–criação; compasso/descompasso; reversibilidade genética e cocriadora.
 
-## Citações-chave
-> “Entre esta criação e o criador [há] um vínculo energético-vibratório [...] chamado simultaneidade reversa.” — P2024-05-04
+
+## Seres Associados
+Consultar relações acima.
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -57,11 +55,13 @@ A palestra cria explicitamente o neologismo e o aplica à queda de Prabrajna, ao
 | Tions | RC-905 | associado |
 | Sonhos como Realidades Paralelas | RC-908 | associado |
 
-## Seres Associados
-Consultar relações acima.
-
 ## Observações
 Neologismo central. Afirmações físicas e biológicas devem ser atribuídas à palestra.
 
 Status candidato por depender de palestra e alegações ainda não cruzadas integralmente com obras primárias.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2024-05-04 — Prabrajna em Perpérion / Simultaneidade Reversa | U0016–U0159; U0412–U0416; U0596–U0685; U0895–U0953; U1196–U1224 | PDF/transcrição pré-curada |

@@ -16,16 +16,12 @@ atualizado = "2026-08-29"
 
 Estrutura epistemológica apresentada por Jan Val Ellam na palestra "Thot, o Enigmático Hermes Trimegisto" (P2023-12-02) como a **escala evolutiva da consciência** que a humanidade percorreu no passado e **terá de percorrer novamente no futuro**: do **sábio** (noção apenas do mundo físico — os **fatos**) ao **mago** (mundo físico + astral — fatos e **leis**) ao **iniciado** (físico + astral + espiritual — fatos, leis e **princípios**). Funciona como **par analítico das Cinco Lentes da Realidade (RC-761)**: enquanto as lentes são as formas de *olhar* a realidade, as escalas são os graus de *percepção/domínio* da realidade.
 
-## Estrutura interna
+## Citações-chave
 
-- **Os Três Mundos** (origem da perspectiva — atribuída a Thot): **mundo físico** (dos fatos), **mundo astral** (das leis), **mundo espiritual** (dos princípios) — "penetrando-se reciprocamente, unidos, mas ao mesmo tempo distintos";
-- **Sábio:** limita-se aos fatos — "o que tem apenas a noção do mundo físico não pode ser mais que um sábio";
-- **Mago:** "aquele cuja noção não passa da sua astralidade, ou seja, de lidar com poderes mentais que se refere aos seres que vivem nesse universo vizinho" — conhece fatos e leis;
-- **Iniciado:** "o senhor dos fatos, das leis e dos princípios" — "o homem que tem noção dos três mundos e os sente em si";
-- **Paradoxo de Thot:** mesmo sendo considerado iniciado por todos, Thot "sempre se autodenominou como sendo um sábio, porque ele tinha noção dos limites" — prudência;
-- **"Três vezes grande" (Trismegisto):** o título grego deriva de "iniciado, mago e sábio" numa só figura;
-- **Futuro:** "nós humanos vamos ter que percorrer essa escala novamente, porque os humanos do futuro vão ter que chegar a graus de iniciação em matérias que a gente nem imagina" — transumanismo, biologia sintética (RC-762 liga-se à emancipação, RC-372).
+> "Na perspectiva dos antigos, nós temos que entender os chamados três mundos... o mundo físico dos fatos, o mundo astral das leis e o mundo espiritual ou dos princípios... O iniciado é o senhor dos fatos, das leis e dos princípios. O mago, sob essa perspectiva, só conhece os fatos e as leis. O sábio limita-se tão somente aos fatos. E assim, Tot sempre se autodenominou como sendo um sábio, porque ele tinha noção dos limites." — P2023-12-02
 
+*Ocorrência referenciada apenas estruturalmente (índices/listas) nas obras-fonte processadas até o momento. Aguardando processamento de prosa descritiva.*
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
 
 ## Ampliação
 ### P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
@@ -35,20 +31,6 @@ Estrutura epistemológica apresentada por Jan Val Ellam na palestra "Thot, o Eni
 ### P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
 
 - **[P2023-12-03 · AS TRÊS ESCALAS DA CONSCIÊNCIA (SÁBIO → MAGO → INICIADO) NA FALA DE 03/12/2023]** «Criando um processador aqui dentro que faça o niroda.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2022-03-26`); a entrada desta fonte é de **conteúdo**, não de data.
-
-## Fontes
-
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
-| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
-| P2023-12-02 | seção 6 do Sumário; bloco dos três mundos/escalas | palestra/STT pré-curada |
-
-
-
-## Citação-chave
-
-> "Na perspectiva dos antigos, nós temos que entender os chamados três mundos... o mundo físico dos fatos, o mundo astral das leis e o mundo espiritual ou dos princípios... O iniciado é o senhor dos fatos, das leis e dos princípios. O mago, sob essa perspectiva, só conhece os fatos e as leis. O sábio limita-se tão somente aos fatos. E assim, Tot sempre se autodenominou como sendo um sábio, porque ele tinha noção dos limites." — P2023-12-02
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -65,6 +47,23 @@ Estrutura epistemológica apresentada por Jan Val Ellam na palestra "Thot, o Eni
 
 Estrutura doutrinária do autor (leitura iniciática de Thot/Hermetismo) — não é classificação acadêmica de psicologia do desenvolvimento. A hierarquia sábio/mago/iniciado é registro da cosmovisão RC, sem validação científica.
 
-## Citações-chave
-*Ocorrência referenciada apenas estruturalmente (índices/listas) nas obras-fonte processadas até o momento. Aguardando processamento de prosa descritiva.*
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+## Fontes
+
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
+| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
+| P2023-12-02 | seção 6 do Sumário; bloco dos três mundos/escalas | palestra/STT pré-curada |
+
+
+
+## Estrutura interna
+
+- **Os Três Mundos** (origem da perspectiva — atribuída a Thot): **mundo físico** (dos fatos), **mundo astral** (das leis), **mundo espiritual** (dos princípios) — "penetrando-se reciprocamente, unidos, mas ao mesmo tempo distintos";
+- **Sábio:** limita-se aos fatos — "o que tem apenas a noção do mundo físico não pode ser mais que um sábio";
+- **Mago:** "aquele cuja noção não passa da sua astralidade, ou seja, de lidar com poderes mentais que se refere aos seres que vivem nesse universo vizinho" — conhece fatos e leis;
+- **Iniciado:** "o senhor dos fatos, das leis e dos princípios" — "o homem que tem noção dos três mundos e os sente em si";
+- **Paradoxo de Thot:** mesmo sendo considerado iniciado por todos, Thot "sempre se autodenominou como sendo um sábio, porque ele tinha noção dos limites" — prudência;
+- **"Três vezes grande" (Trismegisto):** o título grego deriva de "iniciado, mago e sábio" numa só figura;
+- **Futuro:** "nós humanos vamos ter que percorrer essa escala novamente, porque os humanos do futuro vão ter que chegar a graus de iniciação em matérias que a gente nem imagina" — transumanismo, biologia sintética (RC-762 liga-se à emancipação, RC-372).
+

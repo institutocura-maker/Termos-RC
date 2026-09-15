@@ -18,11 +18,6 @@ O Choque de Realidade é a forma pela qual a estupidez humana colecionada ao lon
 ## Contexto / Origem
 Conceito desenvolvido na palestra «A Falsa Queda do Ser Humano e a Indignidade Entronizada como Religião» (P2024-02-04). Ellam explica que a humanidade já engatilhou muitos processos que estão no nível máximo de represamento e vão ter que explodir — ninguém pode impedir essas explosões. O que se pode preparar é o âmbito pessoal, familiar, de uma cidade ou país, dependendo dos governantes, para que se escape e se sobreviva.
 
-## Etimologia e Grafias
-- **Grafia preferida:** Choque de Realidade
-- **Variações:** choque; explosão; despertar forçado
-- **Idioma de origem:** Português
-
 ## Ampliação
 ### P2024-02-04
 
@@ -31,6 +26,11 @@ Conceito desenvolvido na palestra «A Falsa Queda do Ser Humano e a Indignidade 
 **Trecho verbatim:** «Mas assim, os choques de realidade que, infelizmente, a estupidez humana colecionou Aí esses choques vão acontecer como sendo a única forma de bater na cara da estupidez humana pros humanos acordarem os que sobreviverem ela.»
 
 **Trecho verbatim 2:** «O que é que pode ser controlado? Aquilo que os seres vivos produzem. Só que isso não pode mais ser controlado no âmbito da humanidade, que a humanidade já engatilhou muitos processos e todo Eles estão no nível máximo de represamento, então eles vão ter que explodir. Então ninguém pede essas explosões.»
+
+## Etimologia e Grafias
+- **Grafia preferida:** Choque de Realidade
+- **Variações:** choque; explosão; despertar forçado
+- **Idioma de origem:** Português
 
 ## Termos Relacionados
 - RC-892 (Pós-Verdade) — a estupidez humana como produto da pós-verdade
@@ -44,6 +44,12 @@ Conceito desenvolvido na palestra «A Falsa Queda do Ser Humano e a Indignidade 
 | Choque de Realidade (o perpétuo espanto dos donos da verdade) | RC-867 | ← variação |
 | Pós-Verdade | RC-892 | associado |
 | Choque de realidade | RC-936 | associado |
+
+## Observações
+
+### Remissiva C6 (despacho 2.6 — 12/09/2026)
+Homônimo no cadastro: **RC-936** — Choque de realidade (provisório). O par RC-936 é entrada provisória do Anel C do GKA (obra de apoio, fonte SECUNDÁRIA); fundir contaminaria o lastro primário — mantidos separados por decisão de 2.6.
+
 
 ## Fontes
 | Fonte | Localização | Tipo |
@@ -72,8 +78,3 @@ descreve o *efeito* do choque sobre o indivíduo — a desilusão que rompe a zo
 conforto teórico; a definição canônica (acima) descreve a *causa* coletiva — os
 processos já represados que a humanidade mesma engatilhou. Efeito e causa: o
 despertar forçado é o outro nome da explosão.
-## Observações
-
-### Remissiva C6 (despacho 2.6 — 12/09/2026)
-Homônimo no cadastro: **RC-936** — Choque de realidade (provisório). O par RC-936 é entrada provisória do Anel C do GKA (obra de apoio, fonte SECUNDÁRIA); fundir contaminaria o lastro primário — mantidos separados por decisão de 2.6.
-

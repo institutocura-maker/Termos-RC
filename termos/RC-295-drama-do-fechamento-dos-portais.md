@@ -18,46 +18,12 @@ O processo de **fechamento dos portais entre o universo antimaterial e o materia
 ## Contexto / Origem
 O fechamento dos portais é o divisor entre o tempo em que os deuses conviviam diretamente com os humanos (mitologia) e a Era dos Humanos. B021 (cap. 21) detalha o "drama" vivido por Zeus com esse processo: percebendo que não poderia mais dominar diretamente os humanos, "Zeus implantou essa enganação religiosa, utilizando-se do medo e da submissão de homens e mulheres ao 'aconselhamento dos deuses'". O fechamento conecta-se ao Isolamento Cósmico (RC-070) e ao fim dos portais naturais (dez/2012, conforme B024/B031).
 
-## Etimologia e Grafias
-- **Grafia preferida:** Drama do Fechamento dos Portais
-- **Variações:** fechamento dos portais; fim dos portais naturais; o "Drama do Fechamento dos Portais"
-
-
 ## Ampliação
 ### B021 (Tempos Difíceis no Olimpo)
 
 - **[B021 p. 9]** portais «foram se fechando, movidos pela "entropia universal"»; «lacre do destino» (bloqueio total) «no ano de 2012». **Quarentena ufológica / científica** (entropia / 2012 = leitura).
 - **[B021 p. 15–16]** quando as passagens se fecharam, os entes do universo paralelo «tiveram que permanecer apenas do lado de lá».
 - **[B021 p. 127–128]** cap. 21: tema «ausente nos estudos humanos»; «a partir desse evento se acabou o engodo dos deuses». Pitonisas/oráculos = descrição do ensaio; RC-296 permanece **sem ficha**. «Dementes» (p. 128) = **clínica — fora da ontologia**. Falas de Zeus **isoladas**. Sem fusão com B024 / B001. Fonte **B021** já constava na tabela-mestra.
----
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Isolamento Cósmico | RC-070 | associado |
-| Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | associado |
-| Zeus | RC-145 | envolve |
-| Pitonisas e Oráculos (Apolo/Delfos) | RC-296 | resulta-em |
-| Era dos Humanos (Zeus e a) | RC-297 | ← sucede |
-| Ano de 2012 como Divisor de Ciclos | RC-571 | ← relaciona-se-a |
-| Oitavo Dia da Criação | RC-694 | ← relaciona-se-a |
-| Oitavo Dia da Criação | RC-694 | relaciona-se-a |
-| Extísicos (seres do universo vizinho, não biológicos, compostos de plasma) | RC-861 | associado |
-| Choque de Realidade (o perpétuo espanto dos donos da verdade) | RC-867 | associado |
-
-## Atualização
-### P2022-12-17
-
-- **Fonte:** palestra *O Incompreendido Ano de 2012 e a Falsa Noção do Fim do Mundo* — unidades U0496–U0502; U0855–U0863.
-- **Contexto acrescentado:** O fechamento dos portais é descrito como gradual durante a última era e como parte do contexto ainda não inteiramente concluído em 2012.
-- **Status da evidência:** transcrição automatizada, pré-curada e validada terminologicamente pelo curador; conferir com áudio/obra primária antes de promoção de status.
-
-## Reforço
-### P2025-02-16
-
-O fechamento dos portais naturais em 2012 é atribuído à entropia e ao encerramento de ciclo da precessão equinocial. A fala menciona portais tecnológicos posteriores; o STT oscila entre 2002 e 2012, devendo permanecer `[REVISAR DATA → ENCERRADO 2026-09-05 · F037-L1: ver nota ao fim da ficha]`.
----
----
 ---
 
 ## Ampliação
@@ -93,3 +59,37 @@ O fechamento dos portais naturais em 2012 é atribuído à entropia e ao encerra
 
 
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-295.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
+
+## Atualização
+### P2022-12-17
+
+- **Fonte:** palestra *O Incompreendido Ano de 2012 e a Falsa Noção do Fim do Mundo* — unidades U0496–U0502; U0855–U0863.
+- **Contexto acrescentado:** O fechamento dos portais é descrito como gradual durante a última era e como parte do contexto ainda não inteiramente concluído em 2012.
+- **Status da evidência:** transcrição automatizada, pré-curada e validada terminologicamente pelo curador; conferir com áudio/obra primária antes de promoção de status.
+
+## Reforço
+### P2025-02-16
+
+O fechamento dos portais naturais em 2012 é atribuído à entropia e ao encerramento de ciclo da precessão equinocial. A fala menciona portais tecnológicos posteriores; o STT oscila entre 2002 e 2012, devendo permanecer `[REVISAR DATA → ENCERRADO 2026-09-05 · F037-L1: ver nota ao fim da ficha]`.
+---
+---
+---
+
+## Etimologia e Grafias
+- **Grafia preferida:** Drama do Fechamento dos Portais
+- **Variações:** fechamento dos portais; fim dos portais naturais; o "Drama do Fechamento dos Portais"
+
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Isolamento Cósmico | RC-070 | associado |
+| Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | associado |
+| Zeus | RC-145 | envolve |
+| Pitonisas e Oráculos (Apolo/Delfos) | RC-296 | resulta-em |
+| Era dos Humanos (Zeus e a) | RC-297 | ← sucede |
+| Ano de 2012 como Divisor de Ciclos | RC-571 | ← relaciona-se-a |
+| Oitavo Dia da Criação | RC-694 | ← relaciona-se-a |
+| Oitavo Dia da Criação | RC-694 | relaciona-se-a |
+| Extísicos (seres do universo vizinho, não biológicos, compostos de plasma) | RC-861 | associado |
+| Choque de Realidade (o perpétuo espanto dos donos da verdade) | RC-867 | associado |

@@ -3819,3 +3819,48 @@ conferido contra o HEAD: 0 alterações.
 
 ### Estado
 `A4 ⏳ tranche 1 ✅ e 2 (parcial) ✅ · 178 assinaturas · 2b/3/4 bloqueadas por (a) (b) (d)`
+
+---
+
+## U89 — A4 tranches 3 e 4: 178 → 150 assinaturas · conflito novo (e) com a ordem do driver
+
+**Despacho do Curador:** resolve os conflitos da U88 — (a) `Citação-chave` →
+`Citações-chave`, (c) grafia do *driver* `Contexto / Origem`, (d)
+`Seres Associados` mantida como secção canónica separada, (b) ordem mestre de
+10 posições. Autoriza tranches 3 e 4.
+
+### 1. Tranche 3 — variantes inequívocas
+`Citação-chave`/`Citações-chave (RC)` → `Citações-chave` (108) ·
+`Observações Científicas*` → `Observações` (10) · `Glossário interno / …` →
+`Glossário interno` (9). **128 renomeações · 66 fusões.** Ficaram de fora, por
+serem dispositivos editoriais próprios: `Observações sobre o Estado da Malha`
+(60) · `Estrutura interna` (26) · `Cautela editorial` (10) ·
+`Quarentena Terminológica` (10) · `6. Histórico Curatorial e Auditoria` (6) e
+65 títulos com ≤3 ocorrências.
+
+### 2. CONFLITO NOVO (e) — a ordem mestre contradiz a do driver
+A ordem mestre diverge da emitida pelo *driver* em **6 das 7 secções** comuns
+(`Escopo` 2→1, `Contexto` 1→3, `Citações-chave` 5→4, `Termos Relacionados`
+3→8, `Observações` 6→9, `Fontes` 4→10). **Prova empírica:** a RC‑022,
+reordenada pela ordem mestre numa cópia do repositório, foi **regenerada** ao
+correr `materializar_lote.py --sobrescrever` — a idempotência perde-se.
+
+**Decisão:** tranche 4 aplicada **só às 673 fichas sem lote** (637
+efectivamente reordenadas); as 147 com lote conservam a ordem do *driver*.
+Unificação plena exigiria alterar o *driver* e regenerar as 147 — submetido.
+
+### 3. Tranche 4 — ordenação estável
+Secções fora do vocabulário canónico vão para o fim, guardando a ordem
+relativa (196 secções). Nenhuma linha de corpo alterada.
+
+### 4. Validação
+Suíte **21/21 OK** · Portão B **778/778** · **35/35 lotes idempotentes** ·
+verificador 946/820/1887 · **0 fichas com conteúdo alterado** (conferido
+secção a secção contra o HEAD) · duplicados estáveis em 122 · espelhos
+reconstruídos.
+
+### 5. Estado de A4
+`471 → 188 (U87) → 178 (U88) → 150 (U89)`.
+Pendente: as 147 fichas com lote [conflito (e)] · 70 títulos / 196 ocorrências
+de dispositivos editoriais próprios (decisão editorial de os manter) · 122
+duplicados pré-existentes (fora de escopo).

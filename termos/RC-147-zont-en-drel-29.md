@@ -18,11 +18,10 @@ atualizado = "2026-08-28"
 ## Contexto / Origem
 No B015, Zont narra: (1) o primeiro contato com os "Viajores" (há ~48 mil anos, no "mundo das águas"); (2) a geração dos En Drel e os "dez sagrados"; (3) sua função de guardião do Éden terrestre — um dos "laboratórios" do Criador; (4) a expulsão dos Viajores (~2.600 anos atrás, por decreto do Criador, executada por ele); (5) sua **humanização emocional** — "os En Drel não foram programados para sentir, e eu havia sentido algo" — ao se envolver emocionalmente com um humano, provocando monitoramento do Criador e do Comandante En Drel.
 
-## Etimologia e Grafias
-- **Grafia preferida:** Zont En Drel 29
-- **Variações:** Zont En Drel; "o guardião do Éden"; guardião universal (apresentação)
-- **Obs.:** em B015, refere-se aos irmãos como "endrelnianos" (RC-247)
-
+## Citações-chave
+> "Os que começaram a despertar as suas consciências individuais assumiam um pré-nome, como era o caso de Zont En Drel. Os demais que ainda permaneciam com as suas consciências espirituais obscurecidas pela imantação realizada em 'corpos-máquinas', eram acionados apenas pelo comando dos seus códigos numéricos." — B015, cap. 1
+>
+> "A questão era a de que os En Drel não foram programados para sentir, e eu havia sentido algo." — B015, cap. 17
 
 ## Ampliação
 ### P2023-07-30 (A Leitura Adulta da Realidade)
@@ -41,19 +40,14 @@ No B015, Zont narra: (1) o primeiro contato com os "Viajores" (há ~48 mil anos,
 
 - **[Zont En Drel — humanizado do DNA do autor] (U0006)** «Um desses seres e alguém que se apresentou a mim como senos tendrel, o livro Guardião do Éden, eu escrevia sobre esse ser.» — Zont En Drel (STT "senos tendrel") desbloqueou o controle de Javé e se humaniza a partir do DNA do autor.
 
-## Fontes
-| Obra (sigla) | Capítulo | Página | Tipo |
-|---|---|---|---|
-| P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
-| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra) | — | transcrição automatizada; citação |
-| O Guardião do Éden (B015) | caps. 1–17 (todo o livro) | — | narrador-protagonista |
-| Painéis Emergentes (B031) | Glossário (Zont En Drel 29; En Drel) | — | apoio (secundária) |
+## Etimologia e Grafias
+- **Grafia preferida:** Zont En Drel 29
+- **Variações:** Zont En Drel; "o guardião do Éden"; guardião universal (apresentação)
+- **Obs.:** em B015, refere-se aos irmãos como "endrelnianos" (RC-247)
 
 
-## Citações-chave
-> "Os que começaram a despertar as suas consciências individuais assumiam um pré-nome, como era o caso de Zont En Drel. Os demais que ainda permaneciam com as suas consciências espirituais obscurecidas pela imantação realizada em 'corpos-máquinas', eram acionados apenas pelo comando dos seus códigos numéricos." — B015, cap. 1
->
-> "A questão era a de que os En Drel não foram programados para sentir, e eu havia sentido algo." — B015, cap. 17
+## Seres Associados
+Javé (RC-001); Criador (RC-041); Comandante En Drel 1; Adão e Eva (RC-189); Jesus (RC-072).
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -71,9 +65,15 @@ No B015, Zont narra: (1) o primeiro contato com os "Viajores" (há ~48 mil anos,
 | Individualização Epifenomenológica dos Anjos Clones | RC-651 | ← envolve |
 | Últimas Ordens de Javé aos Clones | RC-652 | ← envolve |
 
-## Seres Associados
-Javé (RC-001); Criador (RC-041); Comandante En Drel 1; Adão e Eva (RC-189); Jesus (RC-072).
-
 ## Observações
 Ficha baseada em B015 (obra primária) + B031. Zont En Drel 29 é um dos personagens mais importantes do corpus — "Inteligência Artificial Autônoma" que desperta para a consciência e as emoções. O livro B015 é integralmente sua narrativa.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo |
+|---|---|---|---|
+| P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
+| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra) | — | transcrição automatizada; citação |
+| O Guardião do Éden (B015) | caps. 1–17 (todo o livro) | — | narrador-protagonista |
+| Painéis Emergentes (B031) | Glossário (Zont En Drel 29; En Drel) | — | apoio (secundária) |
+

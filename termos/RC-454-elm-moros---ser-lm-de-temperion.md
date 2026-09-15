@@ -18,12 +18,10 @@ atualizado = "2026-09-05"
 ## Contexto / Origem
 No mapeamento de B060, os **5 eons da Espiritualidade Laboratorial** são: Prabajna (Javé), Mavatina (Vishnu), Savna (Shiva) — do gênero **Pashvnaj** de Perperion — e **Elm (Moros)** e **Olm (Quarto Logos)**, do gênero **ser LM de Tempérion**. A grande novidade deste verbete é a cadeia avatárica de Elm: **Val El (biodemo da família Val) = Jan Val Ellam**, o próprio codificador da Revelação Cósmica, e **Kardec** — o que coloca Ellam e o Espiritismo numa mesma linhagem eon/avatar.
 
-## Etimologia e Grafias
-- **Grafia preferida:** Elm
-- **⚠️ GRAFIA OFICIAL DO EPÍTETO/VARIAÇÃO FONÉTICA (o ser de 4 cabeças): MORREN SO** — consagrada pela Devolutiva O-4 da P2022-09-24 (antes o STT capturava 'Morençor/Morrensor/Morrençou/Morrenson'; a nomenclatura à moda de Vol, Yel, Xum, Shanlung).
-- **Variações:** Moros (Grega); Aeon (RC); Bhava (Hindu); Chesed (4ª Sefirah); Henet (Egípcia-Ogdoade); Maat (Egípcia); Orlog (Nórdica); Phanis (Orfismo); Sudz (Eslava)
-- **Obs.:** **Tempérion** (RC-472) é um setor paralelo da Espiritualidade Laboratorial — **não** é grafia variante de Perpérion (RC-087). Os eons LM (Elm, Olm) são de Tempérion; os Pashvnaj (Javé, Vishnu, Shiva) são de Perpérion. Distinção de jurisdição (esclarecimento do usuário, 2026-08-13).
+## Citações-chave
+> "Moros — Elm, ser LM de Tempérion, um dos 5 eons da Espiritualidade Laboratorial." — B060, p. 4
 
+> "Avatares: ... Rogério de Almeida Freitas (Jan Val Ellam — codificador da Revelação Cósmica); ... Val El (Biodemo da família Val); ... Kardek (1804 — França — Hippolyte Léon Denizard Rivail, codificador do Espiritismo); ... Heber (Tataraneto de Noé, pai de Faleg e Joctan); ... Kvasir (Nórdica)." — B060, p. 4 (avatares de Elm/Moros)
 
 ## Ampliação
 ### P2026-07-25
@@ -143,21 +141,86 @@ No mapeamento de B060, os **5 eons da Espiritualidade Laboratorial** são: Praba
 - **[Moros/Orlog: a teia que amarra os seres] (U0003)** «O fluxo cármico das velhas terras ou nações da antiguidade.» — a Wyrd/Moros (RC-658/RC-454) como pano de fundo do fluxo cármico: "Esse fluxo cármico veio dessas velhas terras para as novas terras entendidas como sendo ilhas paradisíacas num primeiro momento que foi a Austrália, a América, com um plano específico pros Estados Unidos, um plano específico pro México, um plano específico pro Brasil. Foi assim que a espiritualidade foi traçando os planos"; "Foi um grupo para os Austrália, um grupo paraa América do Norte, um grupo para América Central e a turma menos habilitada veio parar no Brasil. Pense num país sortudo. A terra de Brass virou" (U0006: «Foi um grupo para os Austrália, um grupo paraa América do Norte, um grupo para América Central e a turma menos habilitada veio parar no Brasil.»).
 
 
-## Fontes
-| Obra (sigla) | Capítulo | Página | Tipo |
-|---|---|---|---|
-| P2023-07-09 | A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
-| P2022-09-25 | O Contexto Espiritual da Construção de Brasília (palestra) | — | transcrição automatizada; citação |
-| P2022-10-01 | A Wyrd e a Espiritualidade (palestra) | — | transcrição automatizada; citação |
-| P2018-12-15 | Terra Atlantis – Aprofundamento (palestra) | — | transcrição automatizada; citação |
-| Personagens e Terminologias da RC (B060) | verbete "Moros" | p. 4 (PDF) | equivalências + avatares |
-| P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | — |
-| P2024-02-03 | O Jainismo e o Druidismo Ancestrais (palestra) | — | — |
+## Ampliação
+### P2019-08-25 (Os Três Fornos Replicadores do Projeto Talm)
 
-## Citações-chave
-> "Moros — Elm, ser LM de Tempérion, um dos 5 eons da Espiritualidade Laboratorial." — B060, p. 4
+- **[P2019-08-25 · MOROS COMO O DETENTOR DO PONTO FRACO]** (fonte oral fundadora; grafias embrionárias "Morus/Morre/Morgon"):
+- "a figura que detinha o conhecimento do ponto fraco de todas as três descendências, um ser chamado Moros da mitologia grega" (STT); e "Esse ser sumiu, fez desaparecer o conhecimento que ele tinha" (STT) — a origem da "era do impasse";
+- No Q&A (André): "Moros nunca foi de perpério. Moros, a origem dele é de tempério" (STT) — biomediúnica, só índice rotulado; o deslacre é tratado como história "que por enquanto a gente não pode aprofundar".
 
-> "Avatares: ... Rogério de Almeida Freitas (Jan Val Ellam — codificador da Revelação Cósmica); ... Val El (Biodemo da família Val); ... Kardek (1804 — França — Hippolyte Léon Denizard Rivail, codificador do Espiritismo); ... Heber (Tataraneto de Noé, pai de Faleg e Joctan); ... Kvasir (Nórdica)." — B060, p. 4 (avatares de Elm/Moros)
+### P2024-03-02 (O Drama Espiritual de Jesus)
+
+- **[Moros — filho de Vishnu, renasceu como Kvaser em Yggdrasil]:** «Vishnu conseguiu fazer com que alguns dos seus ex-avatares, dentre os quais Moros, que é um filho de Vishnu, renascesse aqui dentro como Kvaser, um ser múltiplo formado por padrões genéticos dos Aesir e dos Vanir [...] Então, Brama resolveu destruir Yggdrasil. Por isso, o famoso Ragnarok, que aconteceu há 300 milhões de anos, acabou com essas oito locas e com parte do que era o reino de Odin, que era o planeta Marte.» — ver RC-396 (Kvaser), RC-730 (Yggdrasil), RC-395 (Ragnarok).
+
+
+## Ampliação
+### P2023-07-09 (A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons)
+
+- **[Mitologia nórdica — sem interesse de epifania/dominação]** «Mitologia nórdica também não fugiu a esse tipo de esquema, mas fugiu num certo sentido. Porque não havia nenhum nenhum interesse de epifania, ou seja, de revelar poder, ou seja, de revelar alguém que quisesse se impor como Deus, deuzinho, deusão, o que diabo fosse. Não, nunca houve isso» — ver RC-730 (Yggdrasil), RC-658 (Wyrd).
+- **[Orlog percebeu a podridão ancestral]** «Orlog percebeu lá atrás. Por que que ele percebeu isso? Porque a família do Tempério trabalhava com essa arte que hoje a gente chama de decifração. Se não fosse isso, ele jamais teria tido olhos para ver. E aqui de novo, a gente lembra que quando a mente da gente é secra para as possibilidades, nossos olhos também são cegos para as oportunidades. E Orlog só aproveitou a oportunidade de perceber a podridão nele próprio e em tudo mais ao seu redor. Qualquer ser vivo aqui dentro era composto por podridão» — ver RC-496 (Ereon).
+- **[Orlog jogou flechas/arquivos quânticos para o futuro]** «Antes de sumir, ele pegou o conhecimento dele, olha bem o que eu vou dizer, arrancou, extraiu dos seus protocolos mentais esses conhecimentos e criou a arquivos quânticos, semelhantes ao erro e jogou paraa frente» — ver RC-611 (Flechas de Moros), RC-730 (Yggdrasil).
+
+## Atualização
+### P2022-12-17
+
+- **Fonte:** palestra *O Incompreendido Ano de 2012 e a Falsa Noção do Fim do Mundo* — unidades U0884–U0885.
+- **Contexto acrescentado:** O projeto executado por Moros, em articulação com o Quarto Logos e Sophia, é apresentado como o projeto que sobrevive ao colapso dos demais projetos trimurtianos.
+- **Status da evidência:** transcrição automatizada, pré-curada e validada terminologicamente pelo curador; conferir com áudio/obra primária antes de promoção de status.
+
+---
+
+### P2021-12-04
+
+- **Unidades:** U0327–U0337; U0375–U0385; U0443–U0447.
+- **Contexto:** Elm é confirmado como um dos seres LM ligados a Tempérion, um dos dois membros recuperáveis do grupo que permaneceu em relação direta com os Adhy. A estratégia/flechas de Moros é associada à reabertura da história universal.
+- **Decisão:** grafias Elm/Olm validadas pelo curador; os outros três LM do grupo permanecem sem nome.
+
+---
+
+## Atualização
+### P2023-05-13 (Bastidores da Revelação Cósmica)
+
+- **Orlog / teia do destino:** Ellam situa a administração do destino na linhagem de **Orlog** (STT "Orlock" — corrigido, confirmado pelo curador) e das **nornas**, sobre a teia do destino ("teia do Earth" → Urd/Wyrd, RC-658);
+- **Teia quântica (RC-559):** "essa teia quântica, que seria o tear da vida" — as nornas administram a teia da qual Elm participa (nova aresta RC-559 ↔ RC-454, fonte P2023-05-13);
+- Mantém-se a distinção canônica: **Elm/Moros ≠ En Ma**; é ser LM de Tempérion (não distanciar de Perpérion ≠ Tempérion).
+
+---
+
+### P2023-12-02 (Thot, o Enigmático Hermes Trismegisto)
+
+- **Processo em curso:** "o processo que está em curso promovido por Hen-Orl ou Moros" (`[REVISAR → CHANCELA 10/09/2026 · F039-L5: AGUARDA-ÁUDIO (paralelo em RC-749; hipótese Orlog/Hen-Orl registrada) — ver nota]` — provável Orlog/Hen-Orl?) — contexto da ogdóade (RC-609): Rem e Renete como o único processo ativo, "a exemplo do de Shiva é impecável no sentido de funcionalidade";
+- **Setas/cápsulas do tempo (RC-611):** "um processo que iniciou com o Moros, lá atrás, de detectar o padrão de podridão na genética dos seres" — disparou cápsulas do tempo; "as setas estão sendo encontradas nesse tempo de vida da gente";
+- **Choque com Krishna (RC-414):** "há um choque de metodologia na maneira como Krishna pretende resolver os problemas acumulados do universo e o que está em curso promovido por Hen-Orl ou Moros";
+- Mantém-se a distinção canônica: Elm/Moros é ser LM de Tempérion.
+
+---
+
+### P2025-11-29 (A Revelação de Ifá e o Destino dos Seres)
+
+- **Disputa Trimurti × Moros:** "surgiu uma disputa absurda entre a Trimurti, Brama, Vishnu, Shiva e seus descendentes e um ser chamado Moros, que nunca disputou nada com ninguém, nunca quis nada para ele, apenas foi um alguém que foi ajudando como pôde";
+- **"morresom/moruself" [STT]:** "um ser chamado Moros... conseguiram codificar sobre a forma de gene no tempo em que a vida veio pro universo biológico, mas destruíram isso no Hainarok [Ragnarök RC-395], porque isso estava fora do controle deles";
+- **Orunmilá = Moros de Orum:** "Orunmilá, que Orilá, ou seja, Moros de Orum" (RC-665);
+- **"Os orixás foi a última fase dessa questão"** — a destinação dos seres (RC-767) como o desfecho da disputa.
+
+---
+
+## Reforço
+### P2025-07-18 — Morren So, o Talm e os fornos
+
+- **[P2025-07-18 · U00012–U00016]** O expositor apresenta Morren So como ser criado “sem lacres, sem travas”, com o código dos três, capaz de observar a doença distribuída no criador e pensar na transferência/ressignificação dos códigos. A fala o liga ao **Projeto Talm** e à organização de vida nos dois universos.
+- **Grafia STT:** `Morençou`, `Morrensor`, `Morençor` e formas próximas; aplicar **Morren So**, a grafia vigente já registrada nesta ficha, sem abrir ficha autônoma.
+- **Cruzamento estrutural aprovado:** relacionar a narrativa às notas de RC-091 (Projeto Talm) e RC-771 (Fornos Replicadores). A palestra também vincula a samudra manthana, o amrita e a participação de Vishnu; estes elementos permanecem notas narrativas e não novos nós.
+- **Quarentena:** “avatar do código dos três”, “legista” e gênese cosmológica são alegações do expositor e devem permanecer rotulados como leitura RC.
+
+## Etimologia e Grafias
+- **Grafia preferida:** Elm
+- **⚠️ GRAFIA OFICIAL DO EPÍTETO/VARIAÇÃO FONÉTICA (o ser de 4 cabeças): MORREN SO** — consagrada pela Devolutiva O-4 da P2022-09-24 (antes o STT capturava 'Morençor/Morrensor/Morrençou/Morrenson'; a nomenclatura à moda de Vol, Yel, Xum, Shanlung).
+- **Variações:** Moros (Grega); Aeon (RC); Bhava (Hindu); Chesed (4ª Sefirah); Henet (Egípcia-Ogdoade); Maat (Egípcia); Orlog (Nórdica); Phanis (Orfismo); Sudz (Eslava)
+- **Obs.:** **Tempérion** (RC-472) é um setor paralelo da Espiritualidade Laboratorial — **não** é grafia variante de Perpérion (RC-087). Os eons LM (Elm, Olm) são de Tempérion; os Pashvnaj (Javé, Vishnu, Shiva) são de Perpérion. Distinção de jurisdição (esclarecimento do usuário, 2026-08-13).
+
+
+## Seres Associados
+Val El / Jan Val Ellam (RC-071); Kardec; Olm (RC-092, colega eon); Prabajna/Javé (RC-001), Mavatina/Vishnu, Savna/Shiva (eons companheiros).
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -238,9 +301,6 @@ No mapeamento de B060, os **5 eons da Espiritualidade Laboratorial** são: Praba
 | Midana (o código original primordial semeado no universo biológico) | RC-871 | associado |
 | Revelação Psíquica (Kapila — escola Samkhya) | RC-933 | associado |
 
-## Seres Associados
-Val El / Jan Val Ellam (RC-071); Kardec; Olm (RC-092, colega eon); Prabajna/Javé (RC-001), Mavatina/Vishnu, Savna/Shiva (eons companheiros).
-
 ## Observações
 - **Dúvida ortográfica ABERTA (Curador, 10/09/2026, P6aj):** alunos da RC grafam "Ealm"; Base grafa "Elm (Moros)". Áudios não dirimem — aguardar evidência escrita (telas de apresentação das palestras de Ellam). Termo excluído da leva 🟢 até a confirmação; fica 🟠.
 **Informação sensível:** a cadeia "Elm → Val El → Jan Val Ellam" e "Elm → Kardec" vem de material de aluno (B060) e precisa de confirmação nas obras primárias antes de subir de status. O documento também lista avatares como Enoch, Jacó, Kapila, Boécio, Vyasa, Metraton, Niccolo Polo e o "Aluno de Platão" — registrados no `leitura-B060.md`. Cruzar com RC-412 (Emissários Humanos) e RC-424 (Linhagem dos Escolhidos).
@@ -254,22 +314,26 @@ Val El / Jan Val Ellam (RC-071); Kardec; Olm (RC-092, colega eon); Prabajna/Jav�
 > Notas de processo: 4 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-454.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** os 2 trechos entre aspas desta ficha **não** resistem à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Só 1 dos 2 deixam vestígio no corpus. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
 
-## Atualização
-### P2022-12-17
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo |
+|---|---|---|---|
+| P2023-07-09 | A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
+| P2022-09-25 | O Contexto Espiritual da Construção de Brasília (palestra) | — | transcrição automatizada; citação |
+| P2022-10-01 | A Wyrd e a Espiritualidade (palestra) | — | transcrição automatizada; citação |
+| P2018-12-15 | Terra Atlantis – Aprofundamento (palestra) | — | transcrição automatizada; citação |
+| Personagens e Terminologias da RC (B060) | verbete "Moros" | p. 4 (PDF) | equivalências + avatares |
+| P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | — |
+| P2024-02-03 | O Jainismo e o Druidismo Ancestrais (palestra) | — | — |
 
-- **Fonte:** palestra *O Incompreendido Ano de 2012 e a Falsa Noção do Fim do Mundo* — unidades U0884–U0885.
-- **Contexto acrescentado:** O projeto executado por Moros, em articulação com o Quarto Logos e Sophia, é apresentado como o projeto que sobrevive ao colapso dos demais projetos trimurtianos.
-- **Status da evidência:** transcrição automatizada, pré-curada e validada terminologicamente pelo curador; conferir com áudio/obra primária antes de promoção de status.
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |
 
----
-
-### P2021-12-04
-
-- **Unidades:** U0327–U0337; U0375–U0385; U0443–U0447.
-- **Contexto:** Elm é confirmado como um dos seres LM ligados a Tempérion, um dos dois membros recuperáveis do grupo que permaneceu em relação direta com os Adhy. A estratégia/flechas de Moros é associada à reabertura da história universal.
-- **Decisão:** grafias Elm/Olm validadas pelo curador; os outros três LM do grupo permanecem sem nome.
-
----
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2023-07-09 | A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
 
 ## Correção canônica — Devolutiva-01 / P2026-07-30
 
@@ -305,67 +369,3 @@ O eBook *Moros — O Livro* não é fonte canônica. Não incorporar: `Ealm`, Ph
 **Fonte:** P2024-11-30, especialmente U0346–U0573, U0765–U0845 e U1169–U1340.
 
 ---
-
-## Atualização
-### P2023-05-13 (Bastidores da Revelação Cósmica)
-
-- **Orlog / teia do destino:** Ellam situa a administração do destino na linhagem de **Orlog** (STT "Orlock" — corrigido, confirmado pelo curador) e das **nornas**, sobre a teia do destino ("teia do Earth" → Urd/Wyrd, RC-658);
-- **Teia quântica (RC-559):** "essa teia quântica, que seria o tear da vida" — as nornas administram a teia da qual Elm participa (nova aresta RC-559 ↔ RC-454, fonte P2023-05-13);
-- Mantém-se a distinção canônica: **Elm/Moros ≠ En Ma**; é ser LM de Tempérion (não distanciar de Perpérion ≠ Tempérion).
-
----
-
-### P2023-12-02 (Thot, o Enigmático Hermes Trismegisto)
-
-- **Processo em curso:** "o processo que está em curso promovido por Hen-Orl ou Moros" (`[REVISAR → CHANCELA 10/09/2026 · F039-L5: AGUARDA-ÁUDIO (paralelo em RC-749; hipótese Orlog/Hen-Orl registrada) — ver nota]` — provável Orlog/Hen-Orl?) — contexto da ogdóade (RC-609): Rem e Renete como o único processo ativo, "a exemplo do de Shiva é impecável no sentido de funcionalidade";
-- **Setas/cápsulas do tempo (RC-611):** "um processo que iniciou com o Moros, lá atrás, de detectar o padrão de podridão na genética dos seres" — disparou cápsulas do tempo; "as setas estão sendo encontradas nesse tempo de vida da gente";
-- **Choque com Krishna (RC-414):** "há um choque de metodologia na maneira como Krishna pretende resolver os problemas acumulados do universo e o que está em curso promovido por Hen-Orl ou Moros";
-- Mantém-se a distinção canônica: Elm/Moros é ser LM de Tempérion.
-
----
-
-### P2025-11-29 (A Revelação de Ifá e o Destino dos Seres)
-
-- **Disputa Trimurti × Moros:** "surgiu uma disputa absurda entre a Trimurti, Brama, Vishnu, Shiva e seus descendentes e um ser chamado Moros, que nunca disputou nada com ninguém, nunca quis nada para ele, apenas foi um alguém que foi ajudando como pôde";
-- **"morresom/moruself" [STT]:** "um ser chamado Moros... conseguiram codificar sobre a forma de gene no tempo em que a vida veio pro universo biológico, mas destruíram isso no Hainarok [Ragnarök RC-395], porque isso estava fora do controle deles";
-- **Orunmilá = Moros de Orum:** "Orunmilá, que Orilá, ou seja, Moros de Orum" (RC-665);
-- **"Os orixás foi a última fase dessa questão"** — a destinação dos seres (RC-767) como o desfecho da disputa.
-
----
-
-## Reforço
-### P2025-07-18 — Morren So, o Talm e os fornos
-
-- **[P2025-07-18 · U00012–U00016]** O expositor apresenta Morren So como ser criado “sem lacres, sem travas”, com o código dos três, capaz de observar a doença distribuída no criador e pensar na transferência/ressignificação dos códigos. A fala o liga ao **Projeto Talm** e à organização de vida nos dois universos.
-- **Grafia STT:** `Morençou`, `Morrensor`, `Morençor` e formas próximas; aplicar **Morren So**, a grafia vigente já registrada nesta ficha, sem abrir ficha autônoma.
-- **Cruzamento estrutural aprovado:** relacionar a narrativa às notas de RC-091 (Projeto Talm) e RC-771 (Fornos Replicadores). A palestra também vincula a samudra manthana, o amrita e a participação de Vishnu; estes elementos permanecem notas narrativas e não novos nós.
-- **Quarentena:** “avatar do código dos três”, “legista” e gênese cosmológica são alegações do expositor e devem permanecer rotulados como leitura RC.
-
-## Ampliação
-### P2019-08-25 (Os Três Fornos Replicadores do Projeto Talm)
-
-- **[P2019-08-25 · MOROS COMO O DETENTOR DO PONTO FRACO]** (fonte oral fundadora; grafias embrionárias "Morus/Morre/Morgon"):
-- "a figura que detinha o conhecimento do ponto fraco de todas as três descendências, um ser chamado Moros da mitologia grega" (STT); e "Esse ser sumiu, fez desaparecer o conhecimento que ele tinha" (STT) — a origem da "era do impasse";
-- No Q&A (André): "Moros nunca foi de perpério. Moros, a origem dele é de tempério" (STT) — biomediúnica, só índice rotulado; o deslacre é tratado como história "que por enquanto a gente não pode aprofundar".
-
-### P2024-03-02 (O Drama Espiritual de Jesus)
-
-- **[Moros — filho de Vishnu, renasceu como Kvaser em Yggdrasil]:** «Vishnu conseguiu fazer com que alguns dos seus ex-avatares, dentre os quais Moros, que é um filho de Vishnu, renascesse aqui dentro como Kvaser, um ser múltiplo formado por padrões genéticos dos Aesir e dos Vanir [...] Então, Brama resolveu destruir Yggdrasil. Por isso, o famoso Ragnarok, que aconteceu há 300 milhões de anos, acabou com essas oito locas e com parte do que era o reino de Odin, que era o planeta Marte.» — ver RC-396 (Kvaser), RC-730 (Yggdrasil), RC-395 (Ragnarok).
-
-
-## Fontes
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |
-
-## Ampliação
-### P2023-07-09 (A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons)
-
-- **[Mitologia nórdica — sem interesse de epifania/dominação]** «Mitologia nórdica também não fugiu a esse tipo de esquema, mas fugiu num certo sentido. Porque não havia nenhum nenhum interesse de epifania, ou seja, de revelar poder, ou seja, de revelar alguém que quisesse se impor como Deus, deuzinho, deusão, o que diabo fosse. Não, nunca houve isso» — ver RC-730 (Yggdrasil), RC-658 (Wyrd).
-- **[Orlog percebeu a podridão ancestral]** «Orlog percebeu lá atrás. Por que que ele percebeu isso? Porque a família do Tempério trabalhava com essa arte que hoje a gente chama de decifração. Se não fosse isso, ele jamais teria tido olhos para ver. E aqui de novo, a gente lembra que quando a mente da gente é secra para as possibilidades, nossos olhos também são cegos para as oportunidades. E Orlog só aproveitou a oportunidade de perceber a podridão nele próprio e em tudo mais ao seu redor. Qualquer ser vivo aqui dentro era composto por podridão» — ver RC-496 (Ereon).
-- **[Orlog jogou flechas/arquivos quânticos para o futuro]** «Antes de sumir, ele pegou o conhecimento dele, olha bem o que eu vou dizer, arrancou, extraiu dos seus protocolos mentais esses conhecimentos e criou a arquivos quânticos, semelhantes ao erro e jogou paraa frente» — ver RC-611 (Flechas de Moros), RC-730 (Yggdrasil).
-
-## Fontes
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2023-07-09 | A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |

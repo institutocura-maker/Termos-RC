@@ -17,6 +17,10 @@ atualizado = "2026-08-19"
 Conjunto de pulsações que as sinapses cerebrais produzem a cada instante, marcando pensamentos e sentimentos que caracterizam a sensação de eu de uma pessoa. No passado, 'no tempo em que a entropia permitia que as memórias permanecessem pujantes por mais tempo dentro do conectoma humano', algumas figuras sabiam o que é um eu; hoje quase ninguém sabe.
 
 
+## Citações-chave
+
+> "O que é o conectoma humano? É o conjunto de pulsações que as sinapses cerebrais a cada instante produzem, marcando, produzindo pensamentos, sentimentos que passam a caracterizar a sensação de eu daquela pessoa."
+
 ## Ampliação
 ### P2025-02-15
 
@@ -66,18 +70,6 @@ Conjunto de pulsações que as sinapses cerebrais produzem a cada instante, marc
 - **[86 bilhões de neurônios e 100 trilhões de teias quânticas] (U0008)** «O nosso corpo são 86 bilhões de neurônios aqui no cérebro cada neurônio tem um axônio, tem dendritos que se unem, formam camadas ou caminhos neurais.» — "São mais de 100 trilhões de teias quânticas entre esses neurônios e que as runas eh no sentido mais profundo do termo eh registram tudo que se passa de consciências de fora que tentam mexer aqui e o eu da gente surge como consequência disso, mas o eu da gente quando tá no comando faz o cérebro pensar e devolve para quem tiver ligado." (U0008: «São mais de 100 trilhões de teias quânticas entre esses neurônios e que as runas eh no sentido mais profundo do termo eh registram tudo que se passa de consciências de fora que tentam mexer aqui e o eu da gente surge como consequência disso, mas o eu da gente quando tá no comando faz o cérebro pensar e devolve para quem tiver ligado.»); o processo de duas mãos (paráfrase U0008); RC-557 Conectoma.
 
 
-## Fontes
-
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2021-02-28 | Tragédia Anunciada - As Fórmulas Mentais do Poder Demo (palestra) | — | transcrição automatizada; citação |
-| P2023-08-27 | Len Mion e os Senhores da Terra Alexandre Magno e Qin Shi Huang Di (palestra) | — | transcrição automatizada; citação |
-| P2024-02-25 | As Faces de Javé — O Senhor Parameshthi (re-curadoria; dossiê aprovado 19/08/2026) | palestra/STT pré-curada |
-
-## Citação-chave
-
-> "O que é o conectoma humano? É o conjunto de pulsações que as sinapses cerebrais a cada instante produzem, marcando, produzindo pensamentos, sentimentos que passam a caracterizar a sensação de eu daquela pessoa."
-
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
@@ -105,3 +97,11 @@ Quarentena científica (neurologia) — leitura do autor.
 
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-557.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
+## Fontes
+
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2021-02-28 | Tragédia Anunciada - As Fórmulas Mentais do Poder Demo (palestra) | — | transcrição automatizada; citação |
+| P2023-08-27 | Len Mion e os Senhores da Terra Alexandre Magno e Qin Shi Huang Di (palestra) | — | transcrição automatizada; citação |
+| P2024-02-25 | As Faces de Javé — O Senhor Parameshthi (re-curadoria; dossiê aprovado 19/08/2026) | palestra/STT pré-curada |

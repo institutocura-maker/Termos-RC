@@ -18,9 +18,8 @@ Prática de dirigir respiração, atitude mental e química corporal para produz
 ## Contexto / Origem
 É apresentada como aplicação humana capaz de reduzir o descompasso da Simultaneidade Reversa.
 
-## Etimologia e Grafias
-- Grafia: Gestão da Sensação Pessoal.
-
+## Citações-chave
+> “Quando você se torna mestre das suas próprias sensações, essa é a maior alquimia.” — P2024-05-04
 
 ## Ampliação
 ### P2025-02-16
@@ -43,15 +42,22 @@ Prática de dirigir respiração, atitude mental e química corporal para produz
 
 - **[P2022-03-26 · GESTÃO DA SENSAÇÃO PESSOAL NA FALA DE 26/03/2022]** "você desperta o seu eu mais oculto, que age no segundo impulso, e aí você sente os impulsos, as vontades, os ímpetos, as inclinações, mas o seu eu vai dando o seu ritmo." (U0049) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⭐ **NOTA DE ANTERIORIDADE — P2022-03-26:** antecipa **25 meses** a atual fonte oral mais antiga da ficha (`P2024-05-04`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
 
-## Fontes
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
-| P2024-05-04 — Prabrajna em Perpérion / Simultaneidade Reversa | U0734–U0771 | PDF/transcrição pré-curada |
+## Atualização
+### P2024-11-09
+A sensação predominante do eu é apresentada como critério de associação a Faixas Espirituais de Ressonância — RC-726. É formulação doutrinária, não mecanismo físico demonstrado.
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
+## Reforço
+### Três Faíscas / P2024-11-30
+
+Observar o primeiro impulso, respirar e agir a partir de camada mais profunda permite ao eu humano gerir a faísca genômica e despertar a faísca do Eu Profundo, conforme RC-719.
+
+## Etimologia e Grafias
+- Grafia: Gestão da Sensação Pessoal.
 
 
-## Citações-chave
-> “Quando você se torna mestre das suas próprias sensações, essa é a maior alquimia.” — P2024-05-04
+## Seres Associados
+Consultar relações acima.
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -73,20 +79,14 @@ Prática de dirigir respiração, atitude mental e química corporal para produz
 | Faixas Espirituais de Ressonância | RC-726 | ← destinação-gerida-por |
 | Colegiados Espirituais Humanizados | RC-745 | associado |
 
-## Seres Associados
-Consultar relações acima.
-
 ## Observações
 Relacionar a Mentalma e aos 3As.
 
 Status candidato por depender de palestra e alegações ainda não cruzadas integralmente com obras primárias.
 
-## Reforço
-### Três Faíscas / P2024-11-30
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
+| P2024-05-04 — Prabrajna em Perpérion / Simultaneidade Reversa | U0734–U0771 | PDF/transcrição pré-curada |
 
-Observar o primeiro impulso, respirar e agir a partir de camada mais profunda permite ao eu humano gerir a faísca genômica e despertar a faísca do Eu Profundo, conforme RC-719.
-
-## Atualização
-### P2024-11-09
-A sensação predominante do eu é apresentada como critério de associação a Faixas Espirituais de Ressonância — RC-726. É formulação doutrinária, não mecanismo físico demonstrado.
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

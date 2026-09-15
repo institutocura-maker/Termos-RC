@@ -16,14 +16,22 @@ atualizado = "2026-08-28"
 
 Titã irmão de Prometeu que, na cosmologia de Jan Val Ellam, teria sido o grande manipulador das misturas xamânicas e o responsável pelo desbloqueio dos códigos que levaram à formatação final do ser humano — descrito como "genial para muitas coisas" e, ao mesmo tempo, "meio demente" em outras.
 
-## Contexto / Origem
-
-[P2024-08-03] A palestra o apresenta como "a figura mais louca que eu conheço em toda essa história" e "a mais responsável pelo fato do ser humano ser do jeito que é hoje" — em contraste com Prometeu ("sábio", "sagaz").
-
 ## Escopo e evidência
 
 - **[P2024-08-03] Unidades:** U1480–U1525; U1662.
 - **[P2024-08-03] Proveniência:** palestra de Jan Val Ellam; transcrição STT pré-curada; devolutiva do curador registrada em 2026-08-20 (ficha autorizada).
+
+## Contexto / Origem
+
+[P2024-08-03] A palestra o apresenta como "a figura mais louca que eu conheço em toda essa história" e "a mais responsável pelo fato do ser humano ser do jeito que é hoje" — em contraste com Prometeu ("sábio", "sagaz").
+
+## Citações-chave
+> "Prometeu era sábio, Epimeteu era leso... mas é genial para muitas coisas."
+
+> "Segundo o que mais tarde ele me relataria, algumas fêmeas de outras espécies da natureza terrestre não haviam se dado muito bem com nenhuma das suas poções, e que as experiências ocorridas implicara mesmo em problemas para os seus aparelhos reprodutivos.  Naqueles dias encontrava -me nos meus estágios pela Terra, quando Epimeteu solicitou-me para tomar  conta dos seus  animais de estimação, pois ele pretendia afastar-se para regiões mais ao sul, na tentativa de capturar novos exemplares para as suas experiências. Em tempo terrestre, passei aproximadamente quatro anos e meio a cuidar dos humanos e das outras espécies que viviam em torno de Epimeteu. Afeiçoei-me a todos de um modo que me pareceu estranho. Sentimentos jamais tidos pelos meus pares fluíam do meu íntimo de modo que me surpreendia por completo. Nos meus poucos descansos, p assei a acordar com  sensações que antes jamais me ocorriam, pois o sono dos meus pares não produzia o que mais tarde viria a conhecer, já na condição de humana, como sendo sonho.  A sensação mais interessante que me perseguia por um bom tempo era a de que algo de diferente acontecia no meu sonho,  e que a minha expressão facial sempre impassível — este é um dos problemas do genoma das estirpes demo — apresentava um outro aspeto quando havia a sensação de ter sonhado com os “bichinhos” de Epimeteu." — B020
+> "No tempo em que o “Rei do Olimpo” agiu sozinho, ele chegou a desenvolver diversas medidas – sendo muitas das suas estratégias mal formuladas –, visando tentar estabelecer bases não só no universo antimaterial vizinho, mas, principalmente, do lado deste universo material. Nessa época, Epimeteu, irmão de Prometeu, foi quem mais havia, dentre todos os titãs e olimpianos, conseguido se estabelecer na Terra em termos de “áreas” (“fazendas-laboratórios”). Se, por um lado, Prometeu era um “cientista-filósofo” algo “dementado” e cuja sagacidade era conhecida pelos demais, por outro, Epimeteu era tido como um “cientista amalucado”, porque era em ente extremamente hábil em fazer experiências no campo da intelectualidade, mas inábil no sentido de ter alguma prudência, ou de apresentar um psiquismo equilibrado, posto que o seu grau de “demência” era muito forte. Num tempo ainda bem anterior ao que a humanidade veio a existir, Zeus quis se estabelecer na Terra. Primeiro, ele resolveu “pegar carona” (aproveitar-se de) no que Epimeteu já havia conseguido realizar. Por quê? Porque nas “fazendas” de Epimeteu havia várias espécies de animais da nossa fauna terrestre, que ele usava para fazer pesquisas e procriação." — B021
+> "Depois de algum tempo de con vivência com Prometeu, ele revelou -me que esse projeto em que eles trabalhavam, na verdade, consistia numa tentativa de  criar uma nova geração de titãs, para que esses, depois de “melhorados”, pudessem tornar-se os seus descendentes diretos, de modo que nã o morresse nele ou no irmão, a genética herdada dos seus criadores. Entretanto, os seres criados por Prometeu e Epimeteu a partir do barro não eram titãs, mas sim, de uma estirpe inferior a essa. A minha irmã voltou para o Olimpo, e eu continuei a observar aqueles seres que, cada vez mais, me fascinavam. Queria estar com eles o tempo todo! Nisso, passei a ficar mais próxima de Epimeteu, e queria descobrir como ele fazia as suas “poções”, quais eram os ingredientes usados para prepará -las e como fazê -las. Todavia, apesar de Epimeteu viver constantemente “fora da realidade”, ele não  as “manipulava” enquanto eu estivesse junto dele. Ele mantinha as suas  “misturas mágicas” em grandes potes, de onde retirava pequenas porções , e as administrava aos seus “a nimais de estimação”, para ver o que acontecia. A cada dia, eu ficava mais obcecada em observar os resultados das  “poções” que Epimeteu usava. Um dia, chegando à casa dos irmãos titãs, peguei , às escondidas, um pouco de uma das “poções” que estava guardada. Eu provei,  tomando-a." — B087
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** os 2 trechos entre aspas desta ficha **não** resistem à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Todos deixam vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
 
 ## Ampliação
 ### P2024-08-03
@@ -94,17 +102,6 @@ Titã irmão de Prometeu que, na cosmologia de Jan Val Ellam, teria sido o grand
 - Pandora — RC-086;
 - Xamanismo Cósmico — RC-577.
 
-## Fontes
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
-| P2024-08-03 | U1480–U1525; U1662 | palestra/STT |
-| P2025-02-16 / P2024-11-09 / P2025-06-14b / B020 / B021 | — | obras/palestras |
-
-
-## Citação-chave
-> "Prometeu era sábio, Epimeteu era leso... mas é genial para muitas coisas."
-
 ## Observações
 
 Leitura mitológica do autor; plantas com "+500 moléculas complexas" e a origem do xamanismo são cosmologia de Ellam, não botânica ou história validada.
@@ -113,8 +110,10 @@ Leitura mitológica do autor; plantas com "+500 moléculas complexas" e a origem
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-302.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
 
 
-## Citações-chave
-> "Segundo o que mais tarde ele me relataria, algumas fêmeas de outras espécies da natureza terrestre não haviam se dado muito bem com nenhuma das suas poções, e que as experiências ocorridas implicara mesmo em problemas para os seus aparelhos reprodutivos.  Naqueles dias encontrava -me nos meus estágios pela Terra, quando Epimeteu solicitou-me para tomar  conta dos seus  animais de estimação, pois ele pretendia afastar-se para regiões mais ao sul, na tentativa de capturar novos exemplares para as suas experiências. Em tempo terrestre, passei aproximadamente quatro anos e meio a cuidar dos humanos e das outras espécies que viviam em torno de Epimeteu. Afeiçoei-me a todos de um modo que me pareceu estranho. Sentimentos jamais tidos pelos meus pares fluíam do meu íntimo de modo que me surpreendia por completo. Nos meus poucos descansos, p assei a acordar com  sensações que antes jamais me ocorriam, pois o sono dos meus pares não produzia o que mais tarde viria a conhecer, já na condição de humana, como sendo sonho.  A sensação mais interessante que me perseguia por um bom tempo era a de que algo de diferente acontecia no meu sonho,  e que a minha expressão facial sempre impassível — este é um dos problemas do genoma das estirpes demo — apresentava um outro aspeto quando havia a sensação de ter sonhado com os “bichinhos” de Epimeteu." — B020
-> "No tempo em que o “Rei do Olimpo” agiu sozinho, ele chegou a desenvolver diversas medidas – sendo muitas das suas estratégias mal formuladas –, visando tentar estabelecer bases não só no universo antimaterial vizinho, mas, principalmente, do lado deste universo material. Nessa época, Epimeteu, irmão de Prometeu, foi quem mais havia, dentre todos os titãs e olimpianos, conseguido se estabelecer na Terra em termos de “áreas” (“fazendas-laboratórios”). Se, por um lado, Prometeu era um “cientista-filósofo” algo “dementado” e cuja sagacidade era conhecida pelos demais, por outro, Epimeteu era tido como um “cientista amalucado”, porque era em ente extremamente hábil em fazer experiências no campo da intelectualidade, mas inábil no sentido de ter alguma prudência, ou de apresentar um psiquismo equilibrado, posto que o seu grau de “demência” era muito forte. Num tempo ainda bem anterior ao que a humanidade veio a existir, Zeus quis se estabelecer na Terra. Primeiro, ele resolveu “pegar carona” (aproveitar-se de) no que Epimeteu já havia conseguido realizar. Por quê? Porque nas “fazendas” de Epimeteu havia várias espécies de animais da nossa fauna terrestre, que ele usava para fazer pesquisas e procriação." — B021
-> "Depois de algum tempo de con vivência com Prometeu, ele revelou -me que esse projeto em que eles trabalhavam, na verdade, consistia numa tentativa de  criar uma nova geração de titãs, para que esses, depois de “melhorados”, pudessem tornar-se os seus descendentes diretos, de modo que nã o morresse nele ou no irmão, a genética herdada dos seus criadores. Entretanto, os seres criados por Prometeu e Epimeteu a partir do barro não eram titãs, mas sim, de uma estirpe inferior a essa. A minha irmã voltou para o Olimpo, e eu continuei a observar aqueles seres que, cada vez mais, me fascinavam. Queria estar com eles o tempo todo! Nisso, passei a ficar mais próxima de Epimeteu, e queria descobrir como ele fazia as suas “poções”, quais eram os ingredientes usados para prepará -las e como fazê -las. Todavia, apesar de Epimeteu viver constantemente “fora da realidade”, ele não  as “manipulava” enquanto eu estivesse junto dele. Ele mantinha as suas  “misturas mágicas” em grandes potes, de onde retirava pequenas porções , e as administrava aos seus “a nimais de estimação”, para ver o que acontecia. A cada dia, eu ficava mais obcecada em observar os resultados das  “poções” que Epimeteu usava. Um dia, chegando à casa dos irmãos titãs, peguei , às escondidas, um pouco de uma das “poções” que estava guardada. Eu provei,  tomando-a." — B087
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** os 2 trechos entre aspas desta ficha **não** resistem à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Todos deixam vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
+| P2024-08-03 | U1480–U1525; U1662 | palestra/STT |
+| P2025-02-16 / P2024-11-09 / P2025-06-14b / B020 / B021 | — | obras/palestras |
+

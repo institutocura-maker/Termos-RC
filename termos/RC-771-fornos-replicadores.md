@@ -20,10 +20,6 @@ Naves ou estações gigantescas de semeadura de vida biológica, construídas pe
 - **nó-guarda-chuva criado por autorização excepcional do curador (Devolutiva ART-2025-08-01, O-3):** a Navalha de Ockham foi excepcionada por tratar-se de nó estrutural vital, agrupando os três fornos sob um mesmo eixo sistêmico;
 - material de referência: **ART-2025-08-01** (dossiê do curador "Fornos Replicadores – Awayen, Awaylengan e Awaymaion", baseado estritamente em Ellam).
 
-## Etimologia e Grafias
-- Grafia preferida: Fornos Replicadores. Variações: fornos geradores de vida; Centrais de Realidades; laboratórios dimensionais.
-- STT: "forno de Alamaior" = Awaymaion (RC-499) — resolução confirmada pelo ART-2025-08-01.
-
 ## Ampliação
 ### ART-2025-08-01
 
@@ -54,16 +50,6 @@ Naves ou estações gigantescas de semeadura de vida biológica, construídas pe
 ### P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
 
 - **[P2022-03-26 · FORNOS REPLICADORES NA FALA DE 26/03/2022]** "fornos de replicação de vida nesse universo foram criados três Aen, a maon, a Lingan, um nunca funcionou." (U0005) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2021-05-15`); a entrada desta fonte é de **conteúdo**, não de data.
----
-
-## Reforço
-### P2025-07-18 — nomes e atribuições preservados
-
-- **[P2025-07-18 · U00014–U00016]** A fala retoma os três fornos como **Awayen, Awaymaion e Awaylengan**, associados respectivamente a Brahma, Vishnu e Shiva, e liga a transferência/organização da vida ao Projeto Talm e a Morren So.
-- **Cruzamento estrutural aprovado:** preservar a leitura em conjunto com RC-454 e RC-091, sem criar fichas para os componentes e sem alterar a malha.
-- **Quarentena:** fornos, plasma, cérebro radiato e transferência interuniversal permanecem em registro ufológico/cosmológico do autor, não em literalidade científica.
----
----
 ---
 
 ## Ampliação
@@ -104,6 +90,20 @@ Naves ou estações gigantescas de semeadura de vida biológica, construídas pe
 
 **Trecho verbatim:** «Aí eles disseram: 'A gente também que é isso pra gente'. Mas eles não podiam fazer isso. Isso o quê? Se alimentar diretamente, eles tinham que se adaptar à aquilo. Foi quando os sacrifícios foram gerados para que a turma que vivia do lado de cá queimasse em churrasco os animais e os efluvios e bá iam sendo passados para lá.»
 
+
+## Reforço
+### P2025-07-18 — nomes e atribuições preservados
+
+- **[P2025-07-18 · U00014–U00016]** A fala retoma os três fornos como **Awayen, Awaymaion e Awaylengan**, associados respectivamente a Brahma, Vishnu e Shiva, e liga a transferência/organização da vida ao Projeto Talm e a Morren So.
+- **Cruzamento estrutural aprovado:** preservar a leitura em conjunto com RC-454 e RC-091, sem criar fichas para os componentes e sem alterar a malha.
+- **Quarentena:** fornos, plasma, cérebro radiato e transferência interuniversal permanecem em registro ufológico/cosmológico do autor, não em literalidade científica.
+---
+---
+---
+
+## Etimologia e Grafias
+- Grafia preferida: Fornos Replicadores. Variações: fornos geradores de vida; Centrais de Realidades; laboratórios dimensionais.
+- STT: "forno de Alamaior" = Awaymaion (RC-499) — resolução confirmada pelo ART-2025-08-01.
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |

@@ -18,22 +18,23 @@ Tese (leitura do autor, palestra **P2023-12-17**, U0005) de que **Lúcifer (RC-0
 ## Contexto / Origem
 Aparece em **P2023-12-17**, U0005. Contexto: a palestra encerra com a proposta de **13 livros de Lúcifer com humanos** como um dos gestos mais importantes da era do colapso. O autor vê a si mesmo como **um dos 9 humanos** que Lúcifer está usando para escrever esses livros — a **revelação cósmica** é parte desse processo. "Independente de eu publicar livro ou não, apenas contraindo, é um problemaço. Nós estamos vivendo a época do colapso do caos que conseguiu se organizar, porque o caos se organizou de tal forma que impede o progresso do próprio caos."
 
-## Etimologia e Grafias
-- **Grafia preferida:** 13 Livros de Lúcifer com Humanos (Necessários Antes do Fim)
-- **Variações STT capturadas:** "13 livros", "9 livros", "Lúcifer com humanos", "rebelião de Lúcifer"
-- **Idioma de origem:** Português
-
-## Fontes
-| Obra (sigla) | Capítulo | Página | Tipo |
-|---|---|---|---|
-| P2023-12-17 — Lúcifer e a Rebelião dos Elétrons | U0005 (S5) | — | palestra (fonte primária, STT) |
-
 ## Citações-chave
 > «Lúcifer poderia sim ajudar bastante os cientistas da Terra, porque o olhar dele pro abismo de um é científico. A mente de Lúcio é totalmente científica, não é como a minha, não é como a de vocês. Mas assim, enquanto houver barreiras que nos separam, é um Deus nos acuda. É cada um por si no lugar que tá e todos se ferrando, porque somos todos parceiros de um só destino.» — P2023-12-17, U0005
 
 > «Então, seria muito bom que Lúcifer, antes de se desfazer, escrever 13 livros com humanos sobre a rebelião de Lúcifer. Os nove livros que eu tô escrevendo é o início desse processo, só que até agora eu publiquei um e publiquei por causa de Maria Helena que eu não teria nem tido o saco de organizar os assuntos de tão complexo é o assunto.» — P2023-12-17, U0005
 
 > «Mas independente de eu publicar livro ou não, apenas contraindo, é um problemaço. Nós estamos vivendo a época do colapso do caos que conseguiu se organizar, porque o caos se organizou de tal forma que impede o progresso do próprio caos.» — P2023-12-17, U0005
+
+## Etimologia e Grafias
+- **Grafia preferida:** 13 Livros de Lúcifer com Humanos (Necessários Antes do Fim)
+- **Variações STT capturadas:** "13 livros", "9 livros", "Lúcifer com humanos", "rebelião de Lúcifer"
+- **Idioma de origem:** Português
+
+## Seres Associados
+- **Lúcifer (RC-002)** — quem escreve com humanos
+- **O autor (Rogério)** — quem está escrevendo 9 livros (publicou 1 com Maria Helena)
+- **Maria Helena** — coautora do primeiro livro
+- **Humanos (RC-099)** — coautores dos 13 livros
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -47,12 +48,6 @@ Aparece em **P2023-12-17**, U0005. Contexto: a palestra encerra com a proposta d
 | Revelação Cósmica | B001 | é-obra-de |
 | Reintegração Cósmica | B018 | é-obra-de |
 
-## Seres Associados
-- **Lúcifer (RC-002)** — quem escreve com humanos
-- **O autor (Rogério)** — quem está escrevendo 9 livros (publicou 1 com Maria Helena)
-- **Maria Helena** — coautora do primeiro livro
-- **Humanos (RC-099)** — coautores dos 13 livros
-
 ## Observações
 - **Retenção curatorial (P6 10/09/2026 + P7i 11/09/2026)**: excluído da chancela da leva 5.4 por decisão expressa do Curador nas duas fases (`except1` no P6; `mantem` no P7i). Mantém-se 🟠 Em análise: fonte única STT (P2023-12-17, U0005) + quarentena autobiográfica FORTE (plano dos 9/13 livros). Reavaliar apenas com nova evidência ou despacho curatorial explícito.
 - [REVISAR → CHANCELA 2026-09-06 · F041-L5: AGUARDA-ÁUDIO (dívida perdoada até nova evidência na base; STT preservado como falado) — ver nota]: a palestra de 2023-12-17 é a única fonte primária dessa formulação específica (13 livros de Lúcifer com humanos).
@@ -60,6 +55,11 @@ Aparece em **P2023-12-17**, U0005. Contexto: a palestra encerra com a proposta d
 - **Conexão com a P2023-12-03**: a P2023-12-03 trata da "rebelião de Lúcifer ainda por ser finalizada" — os 13 livros são a forma de **finalizar a rebelião** (pelo menos parcialmente).
 - **Conexão com a P2025-04-06 (Revolução Inacabada)**: o **"fogo pode ser reacendido"** da P2025-04-06 é o mesmo gesto dos 13 livros — a revolução inacabada de Prometeu e Pandora se completa via os 13 livros de Lúcifer.
 - **Conexão com a revelação cósmica**: a "revelação cósmica" do autor (livro B001) é um dos 9 livros que ele menciona — a palestra confirma o **plano autobiográfico** de longo prazo do autor.
+
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo |
+|---|---|---|---|
+| P2023-12-17 — Lúcifer e a Rebelião dos Elétrons | U0005 (S5) | — | palestra (fonte primária, STT) |
 
 ## Quarentena Terminológica
 

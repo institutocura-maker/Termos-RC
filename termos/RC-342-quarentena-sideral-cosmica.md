@@ -18,11 +18,8 @@ A **quarentena sideral/cósmica** é o isolamento imposto à Terra (e aos demais
 ## Contexto / Origem
 A quarentena foi decretada "a fim de que a loucura do orgulho de Lúcifer não perturbasse a paz de espírito daqueles que nos mundos que permaneceram ao lado do Mestre... foi decretada uma espécie de quarentena que isolava pelo tempo que fosse necessário os mundos rebeldes do intercâmbio cósmico". "O conjunto dos mundos rebelados passou a ser uma espécie de **ilha cósmica**" (RC-353). A quarentena termina com a **Reintegração Cósmica** (RC-003), preparada pela **Transição Planetária** (RC-344). É o termo da 1ª fase do pensamento de Ellam (1999) para o conceito depois consolidado como Isolamento Cósmico.
 
-## Etimologia e Grafias
-- **Grafia preferida:** Quarentena Sideral / Cósmica
-- **Variações:** quarentena sideral; quarentena cósmica; isolamento da Terra; ilha cósmica (mundos rebelados)
-- **Obs.:** termo da trilogia "Queda e Ascensão Espiritual" (1999–2000); equivalente ao Isolamento Cósmico (RC-070) das obras posteriores.
-
+## Citações-chave
+> "Resultado: uma quarentena sideral, significando o isolamento da Terra da integração fraterna na comunidade galática, e o retardo evolutivo de incontável número de individualidades." — B003, abertura
 
 ## Ampliação
 ### P2024-07-13
@@ -42,15 +39,14 @@ A quarentena foi decretada "a fim de que a loucura do orgulho de Lúcifer não p
 - **[B003 p. 9]** Introdução (voz de Ellam): a Terra deve ficar livre «da quarentena cósmica que lhe foi imposta para que os eflúvios nocivos que nele habitam não influenciassem outros mundos».
 - **[B003 p. 3 / p. 8]** «ilha cósmica» no paratexto assinado — RC-353 permanece **sem ficha**. Corpo ditado (incl. cap. «Fim da Quarentena Cósmica») **isolado**. Sem reancorar a sinopse p. 2. Sem fusão com B025 / B026 / B042. Fonte **B003** já constava na tabela-mestra.
 
-## Fontes
-| Obra (sigla) | Capítulo | Página | Tipo |
-|---|---|---|---|
-| Reintegração Cósmica (B003) | abertura; parte III (Fim da Quarentena Cósmica) | — | termo central |
-| Caminhos Espirituais (B025) | O Terceiro Milênio | — | referências |
-| Carma e Compromisso (B026) | Projeto Terra | — | referências |
+## Etimologia e Grafias
+- **Grafia preferida:** Quarentena Sideral / Cósmica
+- **Variações:** quarentena sideral; quarentena cósmica; isolamento da Terra; ilha cósmica (mundos rebelados)
+- **Obs.:** termo da trilogia "Queda e Ascensão Espiritual" (1999–2000); equivalente ao Isolamento Cósmico (RC-070) das obras posteriores.
 
-## Citações-chave
-> "Resultado: uma quarentena sideral, significando o isolamento da Terra da integração fraterna na comunidade galática, e o retardo evolutivo de incontável número de individualidades." — B003, abertura
+
+## Seres Associados
+Lúcifer (RC-078); Jesus (RC-072); Exilados de Capela (RC-007).
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -70,9 +66,13 @@ A quarentena foi decretada "a fim de que a loucura do orgulho de Lúcifer não p
 | Ilha Cósmica (mundos rebelados) | RC-353 | ← é-um |
 | Blindagem cósmica (= quarentena terrestre) | RC-510 | ← variação |
 
-## Seres Associados
-Lúcifer (RC-078); Jesus (RC-072); Exilados de Capela (RC-007).
-
 ## Observações
 Ficha baseada na trilogia B003/B025/B026 (obras primárias). A Quarentena Sideral é o nome da 1ª fase para o Isolamento Cósmico — registra a evolução terminológica do corpus. Cruzar com RC-070 e RC-003.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo |
+|---|---|---|---|
+| Reintegração Cósmica (B003) | abertura; parte III (Fim da Quarentena Cósmica) | — | termo central |
+| Caminhos Espirituais (B025) | O Terceiro Milênio | — | referências |
+| Carma e Compromisso (B026) | Projeto Terra | — | referências |

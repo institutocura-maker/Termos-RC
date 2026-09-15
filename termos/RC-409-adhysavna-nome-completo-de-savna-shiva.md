@@ -18,11 +18,8 @@ atualizado = "2026-09-12"
 ## Contexto / Origem
 O diagrama (B051) apresenta os três "nomes completos" Adhy da Trimurti. A cadeia de Shiva registrada: ADHYSAVNA → Shiva → **Hara** (avatar), **Krishna** (avatar), **Sai Baba** (última expressão Adhyajna, conforme B016). O B024 (cap. 16) já menciona Hara como o avatar de Savna que absorverá as "cinzas" do universo no fim.
 
-## Etimologia e Grafias
-- **Grafia preferida:** ADHYSAVNA
-- **Variações:** Adhy-Savna; Savna (forma usada no corpus); Shiva (expressão Adhydaiva)
-- **Origem:** composto RC (Adhy + Savna)
-
+## Citações-chave
+> (Diagrama) "ADHYSAVNA → Shiva (mergulhado) → Hara / Krishna / Sai Baba" — B051
 
 ## Ampliação
 ### P2024-05-04-R
@@ -44,15 +41,25 @@ O diagrama (B051) apresenta os três "nomes completos" Adhy da Trimurti. A cadei
 
 - **[ADHYSAVNA — o espírito adiágia] (U0003)** «É um espírito adiágia.» — a condição adyágena (adiágia) do espírito por trás de Shiva/Savna, que veio ao sacrifício; o STT grafa "adiágia" para o canônico "adyágena".
 
-## Fontes
-| Obra (sigla) | Capítulo | Página | Tipo |
-|---|---|---|---|
-| P2022-05-07 | Shiva, o Projeto Talm e os Mistérios de Awaylengam (palestra) | — | transcrição automatizada; citação |
-| Diagrama Geral de Ligações (B051) | diagrama (nó central) | — | ligação visual |
-| A Epopeia dos Agentes da Vida (B024) | caps. 5, 16 | — | apoio (primária) |
+## Atualização
+### P2021-12-04
 
-## Citações-chave
-> (Diagrama) "ADHYSAVNA → Shiva (mergulhado) → Hara / Krishna / Sai Baba" — B051
+- **Unidades:** U0237–U0243.
+- **Contexto acrescentado:** Shiva/Savna aparece como clone rebelde na cadeia de desdobramentos Adhy; o trecho exige futura conferência com áudio/obra.
+- **Status da evidência:** transcrição automatizada, pré-curada e aprovada quanto à integração terminológica; conferir com áudio/obra antes de promover status.
+
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-409.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
+## Etimologia e Grafias
+- **Grafia preferida:** ADHYSAVNA
+- **Variações:** Adhy-Savna; Savna (forma usada no corpus); Shiva (expressão Adhydaiva)
+- **Origem:** composto RC (Adhy + Savna)
+
+
+## Seres Associados
+Shiva (RC-102); Hara (RC-413); Krishna (RC-414); Sai Baba (avatar).
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -66,21 +73,14 @@ O diagrama (B051) apresenta os três "nomes completos" Adhy da Trimurti. A cadei
 | Parvathi (consorte de Shiva, Tridevi) | RC-459 | ← relaciona-se-a |
 | Sai Baba | (relacionado) | última expressão |
 
-## Seres Associados
-Shiva (RC-102); Hara (RC-413); Krishna (RC-414); Sai Baba (avatar).
-
 ## Observações
 Ficha baseada no B051 (obra complementar revisada). O nome completo confirma a condição Adhy de Shiva — cruzar com RC-102 e RC-413.
 
 ---
 
-## Atualização
-### P2021-12-04
-
-- **Unidades:** U0237–U0243.
-- **Contexto acrescentado:** Shiva/Savna aparece como clone rebelde na cadeia de desdobramentos Adhy; o trecho exige futura conferência com áudio/obra.
-- **Status da evidência:** transcrição automatizada, pré-curada e aprovada quanto à integração terminológica; conferir com áudio/obra antes de promover status.
-
-
-> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-409.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo |
+|---|---|---|---|
+| P2022-05-07 | Shiva, o Projeto Talm e os Mistérios de Awaylengam (palestra) | — | transcrição automatizada; citação |
+| Diagrama Geral de Ligações (B051) | diagrama (nó central) | — | ligação visual |
+| A Epopeia dos Agentes da Vida (B024) | caps. 5, 16 | — | apoio (primária) |

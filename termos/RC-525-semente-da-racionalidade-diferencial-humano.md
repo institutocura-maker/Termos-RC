@@ -16,14 +16,26 @@ atualizado = "2026-08-29"
 
 Na cosmologia de Ellam, o diferencial de racionalidade que tornou os humanos a única descontinuidade em 13,8 bilhões de anos — emergido como acidente no genoma humano e responsável pela capacidade de resolver os problemas pendentes da criação.
 
-## Contexto / Origem
-
-[P2024-08-03] A palestra trata a busca de complexidade de consciência como "tônica em todos os seis ramos da geração regenerada de Brahma", com a falência dos códigos travados e a emergência da descontinuidade humana.
-
 ## Escopo e evidência
 
 - **[P2024-08-03] Unidades:** U0946–U0978; U1005–U1015.
 - **[P2024-08-03] Proveniência:** palestra de Jan Val Ellam; transcrição STT pré-curada; devolutiva do curador registrada em 2026-08-20 (ficha autorizada).
+
+## Contexto / Origem
+
+[P2024-08-03] A palestra trata a busca de complexidade de consciência como "tônica em todos os seis ramos da geração regenerada de Brahma", com a falência dos códigos travados e a emergência da descontinuidade humana.
+
+## Citações-chave
+> "Nós, os humanos, somos a única descontinuidade que aconteceu ao longo de 13,8 bilhões de anos."
+
+
+> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+
+- «mexeram no DNA humano para colocar inteligência e obediência. E foi isso que Javé fez. Escolheu Adão, sete, Enos, Cainâ, Lalahelu, Jaré, Enoque, Matusalém, isso tudo aqui com intenção de lá na frente mandar o Messias dele julgar, já que ele, Javé, não podia fazer isso só. E Enoque explica isso nos […]» — *ver:* **Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por …** U0004
+
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-525.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
 
 ## Ampliação
 ### P2024-08-03
@@ -49,6 +61,10 @@ Na cosmologia de Ellam, o diferencial de racionalidade que tornou os humanos a �
 - Ressonância límbica — RC-529;
 - Destinação do Lobo — RC-743.
 
+## Observações
+
+"Manicômio chamado Terra" e a "descontinuidade" como leitura do autor.
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
@@ -56,20 +72,3 @@ Na cosmologia de Ellam, o diferencial de racionalidade que tornou os humanos a �
 | P2024-08-03 | U0946–U0978; U1005–U1015 | palestra/STT |
 | P2022-12-17 / P2025-03-15 / P2025-02-16 / P2025-02-15 / P2024-11-30 / P2024-11-09 / B072 | — | obras/palestras |
 
-
-## Citação-chave
-> "Nós, os humanos, somos a única descontinuidade que aconteceu ao longo de 13,8 bilhões de anos."
-
-## Observações
-
-"Manicômio chamado Terra" e a "descontinuidade" como leitura do autor.
-
-## Citações-chave
-
-> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
-
-- «mexeram no DNA humano para colocar inteligência e obediência. E foi isso que Javé fez. Escolheu Adão, sete, Enos, Cainâ, Lalahelu, Jaré, Enoque, Matusalém, isso tudo aqui com intenção de lá na frente mandar o Messias dele julgar, já que ele, Javé, não podia fazer isso só. E Enoque explica isso nos […]» — *ver:* **Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por …** U0004
-
-
-> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-525.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

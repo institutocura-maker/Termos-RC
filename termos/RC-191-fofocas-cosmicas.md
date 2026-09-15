@@ -25,12 +25,6 @@ O nome que a RC dá ao **tráfego de informação na espiritualidade** — o cir
 
 **Origem do conteúdo da ampliação:** palestra `P2023-10-14 — A Esquecida Honra dos Anunnaki` (U0081, U0076 e o megabloco U0020), do `original.txt` (transcrição automatizada, **não conferida com o áudio**); aspas recortadas byte a byte por `_gerar_ampliacoes_P2023-10-14.py`.
 
-## Etimologia e Grafias
-
-- **Canônico da Base:** *fofocas cósmicas*.
-- **Na fonte oral (P2023-10-14):** «rede de **fofota** grande na espiritualidade» [REVISAR: «fofota» é o que o STT entregou para *fofoca*; preservar → CHANCELA 2026-09-06 · F039-L3: AGUARDA-ÁUDIO (STT preservado como falado) — ver nota], «fofocas do circuito ao qual o espírito que me anima pertence».
-
-
 ## Ampliação
 ### P2023-10-14 (A Esquecida Honra dos Anunnaki)
 
@@ -44,14 +38,10 @@ O nome que a RC dá ao **tráfego de informação na espiritualidade** — o cir
 - **[P2020-04-25 · O GRAU DE TESTEMUNHO DA FONTE, 3,5 ANOS ANTES DA FÓRMULA DE 2023]** "pelo que eu julgo, entre aspas, saber, pelo que o espírito que me anima pensa que sabe há muito tempo, isso é real." (U0006) — **D-4 autoriza e determina**: é a única peça biográfica que transita. A fórmula «pelo que eu julgo, entre aspas, saber» carimba a **procedência** do relato, nunca a veracidade. · ⭐ **NOTA DE ANTERIORIDADE — P2020-04-25:** antecipa **3.5 anos** a atual fonte oral mais antiga da ficha (`P2023-10-14`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
 - **[P2020-04-25 · O QUE OS MÉDIUNS PERGUNTARAM (contexto de produção)]** "o que eu mais recebi desse ser através de médiuns diversos dos anos 2009, 2011, é que eu deveria confiar cegamente nele." (U0006)
 
-## Fontes
-| Obra (sigla) | Capítulo | Página | Tipo (citação/paráfrase) |
-|---|---|---|---|
-| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra) | — | transcrição automatizada; citação |
-| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra) | — | transcrição automatizada; citação |
-| B044 | a preencher | — | paráfrase (registro do cadastro; página a conferir) |
-| P2025-02-15 | palestra | — | paráfrase (vínculo pré-existente do cadastro) |
-| P2025-03-15 | palestra | — | paráfrase (vínculo pré-existente do cadastro) |
+## Etimologia e Grafias
+
+- **Canônico da Base:** *fofocas cósmicas*.
+- **Na fonte oral (P2023-10-14):** «rede de **fofota** grande na espiritualidade» [REVISAR: «fofota» é o que o STT entregou para *fofoca*; preservar → CHANCELA 2026-09-06 · F039-L3: AGUARDA-ÁUDIO (STT preservado como falado) — ver nota], «fofocas do circuito ao qual o espírito que me anima pertence».
 
 
 ## Termos Relacionados
@@ -72,3 +62,13 @@ O nome que a RC dá ao **tráfego de informação na espiritualidade** — o cir
 
 
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-191.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
+
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo (citação/paráfrase) |
+|---|---|---|---|
+| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra) | — | transcrição automatizada; citação |
+| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra) | — | transcrição automatizada; citação |
+| B044 | a preencher | — | paráfrase (registro do cadastro; página a conferir) |
+| P2025-02-15 | palestra | — | paráfrase (vínculo pré-existente do cadastro) |
+| P2025-03-15 | palestra | — | paráfrase (vínculo pré-existente do cadastro) |
+

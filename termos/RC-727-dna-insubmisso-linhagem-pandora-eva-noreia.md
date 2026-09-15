@@ -138,15 +138,6 @@ Na genealogia comparada de Jan Val Ellam, linhagem de códigos humanos insubmiss
 - **[P2022-03-26 · DNA INSUBMISSO NA FALA DE 26/03/2022]** "cujo genoma está bichado, infectado, pela necessidade de sobreviver a qualquer custo, pela necessidade de prevalecer o forte sobre o fraco." (U0003) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-18`); a entrada desta fonte é de **conteúdo**, não de data.
 ---
 
-## Selo temporal — P2025-07-18 — divergência Pandora / Eva–Adão
-
-- **[P2025-07-18]** A palestra registra **Pandora em aproximadamente 49.000 anos** e **Eva/Adão em aproximadamente 22–23.000 anos**.
-- **Regra de preservação:** esta é uma marca temporal da fonte P2025-07-18. Não se faz média, correção ou fusão retroativa com os registros anteriores da linhagem. As cronologias permanecem divergentes até nova decisão curatorial.
-- `oró` permanece **[REVISAR → ENCERRADO 2026-09-06 · F041-L5: RATIFICADO — o cadastro tem primazia; registra-se o processo do autor sem harmonização artificial — ver nota]**; não há decodificação ou cadastro derivado desta ocorrência.
----
----
----
-
 ## Ampliação
 ### P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
 
@@ -204,3 +195,12 @@ Na genealogia comparada de Jan Val Ellam, linhagem de códigos humanos insubmiss
 | DNA Neutralizado (código neutralizado de podridão do criador) | RC-864 | associado |
 
 > Notas de processo: 2 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-727.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
+
+## Selo temporal — P2025-07-18 — divergência Pandora / Eva–Adão
+
+- **[P2025-07-18]** A palestra registra **Pandora em aproximadamente 49.000 anos** e **Eva/Adão em aproximadamente 22–23.000 anos**.
+- **Regra de preservação:** esta é uma marca temporal da fonte P2025-07-18. Não se faz média, correção ou fusão retroativa com os registros anteriores da linhagem. As cronologias permanecem divergentes até nova decisão curatorial.
+- `oró` permanece **[REVISAR → ENCERRADO 2026-09-06 · F041-L5: RATIFICADO — o cadastro tem primazia; registra-se o processo do autor sem harmonização artificial — ver nota]**; não há decodificação ou cadastro derivado desta ocorrência.
+---
+---
+---

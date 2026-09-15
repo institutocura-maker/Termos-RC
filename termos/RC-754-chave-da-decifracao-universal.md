@@ -16,23 +16,7 @@ atualizado = "2026-08-17"
 
 Tema-título da palestra de 14/06/2025: a **finalidade/propósito evolutivo** da condição humana — a consciência humana guarda em si a chave capaz de abrir os mistérios da decifração universal (origem do universo, da vida, da vida inteligente e o porquê da existência). Ellam a situa como herança da mente de Ishvara/Prabrajna (a "cópia da chave" guardada antes da queda), escondida na consciência humana e acessível quando o eu supera o estrangulamento cognitivo (RC-753).
 
-## Estrutura interna
-
-- "a chave da decifração universal está escondida na consciência humana" (capa da palestra, arte de Cris Amon);
-- herança da mente de Ishvara (RC-691) — "cópia da chave que existia na mente de Ishvara";
-- acessível via eu profundo (RC-553), imaginário e ciência pessoal (RC-695);
-- supera o estrangulamento cognitivo/neural (RC-753);
-- relacionada ao método druídico de buscar a verdade (RC-755);
-- eixo da Escola da Decifração da Realidade (RC-755) e da Revelação Cósmica (RC-094);
-- Pitágoras ("os humanos podem discernir o erro e descobrir a verdade") e Protágoras ("o homem é a medida de todas as coisas") como anunciadores.
-
-## Fontes
-
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2025-06-14b | abertura e blocos finais (chave; Pitágoras/Protágoras; escola da decifração) | palestra/STT pré-curada |
-
-## Citação-chave
+## Citações-chave
 
 > "De fato, a chave da decifração universal está escondida na consciência humana. Aquela capa da palestra, que tem o cérebro e a chave lá dentro... retrata muito bem esse aspecto da questão."
 
@@ -57,3 +41,19 @@ Tema-título da palestra de 14/06/2025: a **finalidade/propósito evolutivo** da
 
 [Aguardando Ditado Livre]
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
+## Fontes
+
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2025-06-14b | abertura e blocos finais (chave; Pitágoras/Protágoras; escola da decifração) | palestra/STT pré-curada |
+
+## Estrutura interna
+
+- "a chave da decifração universal está escondida na consciência humana" (capa da palestra, arte de Cris Amon);
+- herança da mente de Ishvara (RC-691) — "cópia da chave que existia na mente de Ishvara";
+- acessível via eu profundo (RC-553), imaginário e ciência pessoal (RC-695);
+- supera o estrangulamento cognitivo/neural (RC-753);
+- relacionada ao método druídico de buscar a verdade (RC-755);
+- eixo da Escola da Decifração da Realidade (RC-755) e da Revelação Cósmica (RC-094);
+- Pitágoras ("os humanos podem discernir o erro e descobrir a verdade") e Protágoras ("o homem é a medida de todas as coisas") como anunciadores.

@@ -18,10 +18,8 @@ Mundo ou astro associado aos Anunnakis e apresentado como origem das sete armas 
 ## Contexto / Origem
 Aparece no relato da guerra entre os clãs de Enki e Enlil.
 
-## Etimologia e Grafias
-- Grafia preferida: Nibiru. STT: Dibiru.
-- **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
-
+## Citações-chave
+> ““As sete armas atômicas que vieram de Nibiru para a Terra.”” — P2022-12-17, U0819–U0821
 
 ## Ampliação
 ### P2022-12-17
@@ -52,36 +50,6 @@ Aparece no relato da guerra entre os clãs de Enki e Enlil.
 - **[P2023-10-14 · 2012: O LACRAMENTO DOS PORTAIS POR ENTROPIA CÓSMICA]** "Mas nos últimos três 1000 anos, esses portais começaram a fechar e no ano 2012 eles se lacraram devido a entropia cósmica." (U0041); "Em 2012 isso foi lacrado." (U0041) — ⭐⭐⭐ ⚠️ **Divergência de objeto, selada com a data da fonte**: aqui 2012 é o lacramento dos **portais**; a Base trata 2012 como recuo de consciência humana. Nenhuma das duas leituras substitui a outra.
 - **[P2023-10-14 · O SOL COMO VIA DE TRÂNSITO (e não como «o portal»)]** "Quando os caras perceberam isso, eles passaram a usar as estrelas como sendo um tipo de portal natural." (U0041); "E essa invasão tá se dando pelo sol, mas também já está se dando portais." (U0046) — A formulação «o portal é o Sol», aventada na leitura inicial, **não existe na fonte** (retirada documentada em camada-0 §23).
 
-## Fontes
-| Obra/palestra | Localização | Tipo |
-|---|---|---|
-| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
-| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
-| P2022-12-17 — O Incompreendido Ano de 2012 e a Falsa Noção do Fim do Mundo | U0819–U0821 | transcrição automatizada; paráfrase e citação |
-
-
-
-## Citações-chave
-> ““As sete armas atômicas que vieram de Nibiru para a Terra.”” — P2022-12-17, U0819–U0821
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Anunnaki | RC-024 | associado-a |
-| Marduk (= Ra; Anunnaki filho de Enki) | RC-460 | relaciona-se-a |
-| Guerra Nuclear Anunnaki (Sete Armas Atômicas) | RC-583 | ← origem-em |
-| Ninurta | RC-588 | relaciona-se-a |
-
-## Seres Associados
-Anunnakis (RC-024); Marduk (= Ra; Anunnaki filho de Enki) (RC-460); Ninurta (RC-588)
-
-## Observações
-O vocabulário controlado já citava Nibiru como exemplo a confirmar, mas não havia código.
-
-**Regra de status:** permanece ⚪ candidato porque a fonte é STT sem áudio anexado. A aprovação do curador valida a modelagem terminológica, não substitui a futura conferência com áudio ou obra primária.
-
----
-
 ## Atualização
 ### P2023-12-02 (Thot, o Enigmático Hermes Trismegisto)
 
@@ -101,3 +69,35 @@ O vocabulário controlado já citava Nibiru como exemplo a confirmar, mas não h
 
 > Notas de processo: 2 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-589.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
+## Etimologia e Grafias
+- Grafia preferida: Nibiru. STT: Dibiru.
+- **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
+
+
+## Seres Associados
+Anunnakis (RC-024); Marduk (= Ra; Anunnaki filho de Enki) (RC-460); Ninurta (RC-588)
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Anunnaki | RC-024 | associado-a |
+| Marduk (= Ra; Anunnaki filho de Enki) | RC-460 | relaciona-se-a |
+| Guerra Nuclear Anunnaki (Sete Armas Atômicas) | RC-583 | ← origem-em |
+| Ninurta | RC-588 | relaciona-se-a |
+
+## Observações
+O vocabulário controlado já citava Nibiru como exemplo a confirmar, mas não havia código.
+
+**Regra de status:** permanece ⚪ candidato porque a fonte é STT sem áudio anexado. A aprovação do curador valida a modelagem terminológica, não substitui a futura conferência com áudio ou obra primária.
+
+---
+
+## Fontes
+| Obra/palestra | Localização | Tipo |
+|---|---|---|
+| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
+| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
+| P2022-12-17 — O Incompreendido Ano de 2012 e a Falsa Noção do Fim do Mundo | U0819–U0821 | transcrição automatizada; paráfrase e citação |
+
+

@@ -36,14 +36,14 @@ O verbete funciona como entrada filológica: é pela multiplicidade de nomes que
 - RC-001 — ver ficha correspondente
 - RC-094 — ver ficha correspondente
 
-## Fontes
-| Obra/palestra | Localização | Tipo |
-|---|---|---|
-| B023 | — | registro-mestre (fonte censada) |
-| B060 | — | registro-mestre (fonte censada) |
-
 ## Observações
 Verbete de filologia (Volume I, seção I.3 — a linguagem da RC). A equivalência entre nomes de tradições distintas é leitura comparada de Ellam.
 
 
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-331.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
+
+## Fontes
+| Obra/palestra | Localização | Tipo |
+|---|---|---|
+| B023 | — | registro-mestre (fonte censada) |
+| B060 | — | registro-mestre (fonte censada) |

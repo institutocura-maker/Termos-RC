@@ -16,6 +16,17 @@ atualizado = "2026-08-19"
 
 Definição central da palestra: 'a sensação particular que você sente a cada instante' — a única definição aceitável para o sentido do eu. O eu humano é descrito como 'um programa quântico que funciona entre esses dois polos: a mente espiritual eterna e o cérebro transitório que nasce e morre'; o eu não morre nunca. Metáfora do rádio: o eu não está dentro do corpo. O genoma foi programado para não deixar o eu refletir sobre as sensações que sente.
 
+## Citações-chave
+
+> "Vocês sabem qual é a única definição aceitável para o sentido do eu de cada um de nós? Anotem na mente de vocês: é a sensação particular que você sente a cada instante."
+
+
+> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+
+- «Não, não tem a ver com dignidade, dignidade. Você pode até ser inquieto, ser desequilibrado, mas se você fodesse com seu padrão de integridade pessoal, você consegue modificar o genoma no padrão que é necessário para isso. Não é só equilíbrio, ser bonzinho; tem que ter ousadia, dignidade.» — *ver:* **Ampliação — P2024-03-02 (O Drama Espiritual de Jesus)**
+- «Eu queria perguntar sobre a componente humana que você falou que precisaria ainda ser desenvolvida para ajudar Jesus. Tem a ver com essa pacificação mental que a gente precisa?» — *ver:* **Ampliação — P2024-03-02 (O Drama Espiritual de Jesus)**
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
 ## Ampliação
 ### P2024-02-25 (ficha criada na re-curadoria)
 
@@ -29,15 +40,11 @@ Definição central da palestra: 'a sensação particular que você sente a cada
 
 - **Sensação de eu (P2025-02-15):** "o que cada um de nós pensa ser, o que cada um de nós acha que é... isso é só um estágio, é só uma etapa no processo de uma obra que foi iniciada"; "ser um ser humano não é isso que nós estamos certos".
 
-## Fontes
+## Ampliação
+### P2024-03-02 (O Drama Espiritual de Jesus)
 
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2024-02-25 | As Faces de Javé — O Senhor Parameshthi (re-curadoria; dossiê aprovado 19/08/2026) | palestra/STT pré-curada |
+- **[Componente humana 7-8% — dignidade, não equilíbrio]:** «Eu queria perguntar sobre a componente humana que você falou que precisaria ainda ser desenvolvida para ajudar Jesus. Tem a ver com essa pacificação mental que a gente precisa?» — «Não, não tem a ver com dignidade, dignidade. Você pode até ser inquieto, ser desequilibrado, mas se você fodesse com seu padrão de integridade pessoal, você consegue modificar o genoma no padrão que é necessário para isso. Não é só equilíbrio, ser bonzinho; tem que ter ousadia, dignidade.» — ver RC-722 (Dignidade), RC-072 (Jesus).
 
-## Citação-chave
-
-> "Vocês sabem qual é a única definição aceitável para o sentido do eu de cada um de nós? Anotem na mente de vocês: é a sensação particular que você sente a cada instante."
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -62,20 +69,13 @@ Conceito central também em P2024-11-09 (Abismo da Consciência) e P2025-02-15.
 
 ---
 
-## Ampliação
-### P2024-03-02 (O Drama Espiritual de Jesus)
+## Fontes
 
-- **[Componente humana 7-8% — dignidade, não equilíbrio]:** «Eu queria perguntar sobre a componente humana que você falou que precisaria ainda ser desenvolvida para ajudar Jesus. Tem a ver com essa pacificação mental que a gente precisa?» — «Não, não tem a ver com dignidade, dignidade. Você pode até ser inquieto, ser desequilibrado, mas se você fodesse com seu padrão de integridade pessoal, você consegue modificar o genoma no padrão que é necessário para isso. Não é só equilíbrio, ser bonzinho; tem que ter ousadia, dignidade.» — ver RC-722 (Dignidade), RC-072 (Jesus).
-
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2024-02-25 | As Faces de Javé — O Senhor Parameshthi (re-curadoria; dossiê aprovado 19/08/2026) | palestra/STT pré-curada |
 
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
 | P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |
-## Citações-chave
-
-> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
-
-- «Não, não tem a ver com dignidade, dignidade. Você pode até ser inquieto, ser desequilibrado, mas se você fodesse com seu padrão de integridade pessoal, você consegue modificar o genoma no padrão que é necessário para isso. Não é só equilíbrio, ser bonzinho; tem que ter ousadia, dignidade.» — *ver:* **Ampliação — P2024-03-02 (O Drama Espiritual de Jesus)**
-- «Eu queria perguntar sobre a componente humana que você falou que precisaria ainda ser desenvolvida para ajudar Jesus. Tem a ver com essa pacificação mental que a gente precisa?» — *ver:* **Ampliação — P2024-03-02 (O Drama Espiritual de Jesus)**
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

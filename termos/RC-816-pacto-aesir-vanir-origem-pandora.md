@@ -20,25 +20,23 @@ Aparece em **P2018-05-20**, U0002. Contexto: o autor faz um **salto de 5 bilhõe
 
 A palestra **NÃO FUSIONA o Kvasir da mitologia nórdica clássica com o "princípio de Pandora"** — o autor usa o Kvasir como **analogia mítica** para mostrar que a ideia de "criar o melhor de todos a partir de uma tigela" é **uma estrutura mítica recorrente** que se repete em Pandora (Zeus + Têmis).
 
-## Etimologia e Grafias
-- **Grafia preferida:** Pacto Aesir-Vanir como Origem Nórdica da Ideia de Pandora
-- **Variações STT capturadas:** "Aesir", "Vanir", "Fria", "Kvasir", "tigela", "saliva"
-- **Idioma de origem:** Nórdico antigo (Æsir, Vanir, Kvasir) + Português
-
-## Fontes
-| Obra (sigla) | Capítulo | Página | Tipo |
-|---|---|---|---|
-| P2018-05-20 — De Pandora a Eva e o Culto a Lilith | U0002 (S2) | — | palestra (fonte primária, STT) |
-| P2017-05-14 — O Desvio de Rota de Pandora e o Quarto Logos Universal | U0005 (S5) | — | palestra (fonte primária, STT) |
-| Edda Poética (Hávamál) | — | — | obra canônica (fonte secundária, contraste) |
-| Edda em Prosa (Snorri Sturluson) | — | — | obra canônica (fonte secundária, contraste) |
-
 ## Citações-chave
 > «contra a mitologia nórdica que Odim chamou a família e Vanir para uma reunião [...] Todos suspiram na famosa tigela. E foi na saída disso que fria ao olhar para a tigela [...] disse: 'Que pena que nós vamos deixar o melhor de nós para trás.'» — P2018-05-20, U0002
 
 > «eu acho que se a gente transformar isso aqui num ser, ele não virá com a força de todos nós somados. Ele virá com a inteligência, com as boas intenções da [...] o ser já nasceria com o melhor de todos nós.» — P2018-05-20, U0002
 
 > «Esse clone [que se tornou Kvasir] criou um plano de Chiv [Shiva] e agredir o Brandon [Brama] para ver se ele parava de criar mais e mais monstros, ele terminou espalhando-se tanto que surgiu monstro de todo o tipo que a gente tinha de foi quando Javé pela primeira vez percebeu que ele não controlava tudo.» — P2017-05-14, U0002 (paralelo)
+
+## Etimologia e Grafias
+- **Grafia preferida:** Pacto Aesir-Vanir como Origem Nórdica da Ideia de Pandora
+- **Variações STT capturadas:** "Aesir", "Vanir", "Fria", "Kvasir", "tigela", "saliva"
+- **Idioma de origem:** Nórdico antigo (Æsir, Vanir, Kvasir) + Português
+
+## Seres Associados
+- **Fria** (RC-085) — a propositora
+- **Odin** (RC-489) — o convocador
+- **Kvasir** (RC-396) — o resultado
+- **Aesir e Vanir** — as duas etnias
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -53,12 +51,6 @@ A palestra **NÃO FUSIONA o Kvasir da mitologia nórdica clássica com o "princ�
 | Shiva como Primeiro Demo (Saiu do Clone Destruído) | RC-810 | é-consequência-de |
 | Temis (Têmis) como Mãe-de-Pandora (Co-clonadora) | RC-815 | é-equivalente-grego |
 
-## Seres Associados
-- **Fria** (RC-085) — a propositora
-- **Odin** (RC-489) — o convocador
-- **Kvasir** (RC-396) — o resultado
-- **Aesir e Vanir** — as duas etnias
-
 ## Observações
 - **Quarentena mitológica FORTE**: a leitura do autor **NÃO FUSIONAR com** mitologia nórdica acadêmica. Na mitologia nórdica clássica (Edda Poética, Edda em Prosa), Kvasir é **uma pessoa** (a mais sábia de todas), **não um princípio**. O autor usa Kvasir como **analogia mítica** para Pandora.
 - [REVISAR → CHANCELA 2026-09-06 · F041-L5: AGUARDA-ÁUDIO (dívida perdoada até nova evidência na base; STT preservado como falado) — ver nota]: a palestra de 2018-05-20 é a única fonte primária dessa formulação específica (Kvasir como origem da ideia de Pandora).
@@ -68,3 +60,11 @@ A palestra **NÃO FUSIONA o Kvasir da mitologia nórdica clássica com o "princ�
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-816.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
 - 🧭 **Correcção de atribuição (A6, U85, 14/09/2026):** o 3.º bloco de «Citações-chave» desta ficha tem 47 palavras conferidas em **P2017-05-14** («O Desvio de Rota de Pandora e o Quarto Logos Universal»), obra que não constava das fontes declaradas. A sigla foi acrescentada ao cadastro, ao frontmatter e à tabela de Fontes. A ficha já registava, nas observações, a conexão com essa palestra.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** os 3 blocos entre «» desta ficha **não** resistem à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Todos deixam vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo |
+|---|---|---|---|
+| P2018-05-20 — De Pandora a Eva e o Culto a Lilith | U0002 (S2) | — | palestra (fonte primária, STT) |
+| P2017-05-14 — O Desvio de Rota de Pandora e o Quarto Logos Universal | U0005 (S5) | — | palestra (fonte primária, STT) |
+| Edda Poética (Hávamál) | — | — | obra canônica (fonte secundária, contraste) |
+| Edda em Prosa (Snorri Sturluson) | — | — | obra canônica (fonte secundária, contraste) |

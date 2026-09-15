@@ -28,21 +28,17 @@ Com isso:
 
 **Origem do conteúdo da ampliação:** palestra `P2017-10-14 — Da Base Atlan ao Colégio Druídico` (14/10/2017). Transcrição automatizada, **não conferida com o áudio**; cada aspa foi recortada do `original.txt` pelo índice de âncoras do motor e conferida byte a byte pelo portão B. Nada foi digitado de memória.
 
-## Observações sobre o Estado da Malha
+## Citações-chave
 
-* **Grafia STT:** 'Sileno'/'Silênio' = Sileno. O episódio no contexto do rei Midas (U0021).
-* **Trava aplicável**: nenhuma além das gerais do despacho.
+> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+
+- «E demos não tem senso crítico muito mas um dos, entre aspas de que seguiam o deus deiono uma figura chamada Sileno na época do rei Midas, estamos falando aqui há cerca de 3 4000 anos atrás, na época do rei Midas, que foi mais recente inclusive que isso, Midas ele tinha muito muito defeito, ele era […]» — *ver:* **Ampliação — P2017-10-14 (Da Base Atlan ao Colégio Druídico)** U0021
+
 
 ## Ampliação
 ### P2017-10-14 (Da Base Atlan ao Colégio Druídico)
 
 - **[Sileno e o rei Midas] (U0021)** «E demos não tem senso crítico muito mas um dos, entre aspas de que seguiam o deus deiono uma figura chamada Sileno na época do rei Midas, estamos falando aqui há cerca de 3 4000 anos atrás, na época do rei Midas, que foi mais recente inclusive que isso, Midas ele tinha muito muito defeito, ele era muito ganancioso, mas ele era um cara que queria saber o porquê das coisas.» — Sileno (STT `Sileno`/`Silênio`), o demo sábio capturado por Midas; a observação de Sileno sobre jamais ter nascido (ver RC-228).
-
-## Fontes
-| Obra (sigla) | Título | Página | Tipo |
-|---|---|---|---|
-| P2017-10-14 | Da Base Atlan ao Colégio Druídico (palestra) | — | transcrição automatizada; citação |
-| B033 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -51,9 +47,13 @@ Com isso:
 | Seres Terrenos (Homo Sapiens) | RC-099 | **sem aresta** em `RELACOES`; **sem arquivo** |
 | Opção Terra | RC-227 | **sem aresta** em `RELACOES`; **sem arquivo** |
 
-## Citações-chave
+## Fontes
+| Obra (sigla) | Título | Página | Tipo |
+|---|---|---|---|
+| P2017-10-14 | Da Base Atlan ao Colégio Druídico (palestra) | — | transcrição automatizada; citação |
+| B033 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
 
-> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+## Observações sobre o Estado da Malha
 
-- «E demos não tem senso crítico muito mas um dos, entre aspas de que seguiam o deus deiono uma figura chamada Sileno na época do rei Midas, estamos falando aqui há cerca de 3 4000 anos atrás, na época do rei Midas, que foi mais recente inclusive que isso, Midas ele tinha muito muito defeito, ele era […]» — *ver:* **Ampliação — P2017-10-14 (Da Base Atlan ao Colégio Druídico)** U0021
-
+* **Grafia STT:** 'Sileno'/'Silênio' = Sileno. O episódio no contexto do rei Midas (U0021).
+* **Trava aplicável**: nenhuma além das gerais do despacho.

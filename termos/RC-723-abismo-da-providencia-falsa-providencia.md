@@ -15,9 +15,9 @@ atualizado = "2026-08-16"
 ## Definição Sintética
 Crítica, na palestra, à distância entre a crença numa providência cuidadora e a ausência de intervenção externa comprovável diante do sofrimento. A resposta proposta desloca o eixo para solidariedade, ação humana e ajuda limitada entre seres.
 
-## Formulação oral absorvida
-“Majestosa inutilidade” é preservada apenas como expressão oral de Jan Val Ellam para a pureza extrema que sustentaria a existência sem intervir no caos. Não é adotada como dogma editorial.
-
+## Citações-chave
+> "Dito isso, o título da palestra, 'o abismo da consciência cósmica', já vai dizendo que é um problema muito sério, aonde não divirjas de nenhum tipo de problema. Mas, infelizmente, há um abismo na consciência cósmica, há um abismo na consciência espiritual, há um abismo na consciência humana. Abismos existem em todos os níveis de consciência, devido ao problema que nós estamos vivendo. Problema esse que nunca foi decifrado, mas foi inventada toda uma narrativa falsa que nos cegou durante muito tempo. E isso, durante milênios, fez com que seres humanos transitórios, temporais, seres espirituais eternos, ou seja lá como queiramos chamar, e outros tipos de seres, todos nós embarcássemos numa situação de demência, de protorracionalidade, de irracionalidade, de uma quase racionalidade."" — P2024-11-09
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
 
 ## Ampliação
 ### P2024-11-09
@@ -58,15 +58,15 @@ Crítica, na palestra, à distância entre a crença numa providência cuidadora
 - Autismo Funcional dos Seres Superiores — RC-605;
 - Abismo da Consciência — RC-721.
 
+## Observações
+A ficha registra a posição filosófico-cosmológica da palestra. Não afirma como fato que não exista providência, divindade ou experiência espiritual.
+
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
 | P2024-11-09 | U0526–U0615; U0800–U0895; U1000–U1070 | palestra/STT |
 
-## Observações
-A ficha registra a posição filosófico-cosmológica da palestra. Não afirma como fato que não exista providência, divindade ou experiência espiritual.
+## Formulação oral absorvida
+“Majestosa inutilidade” é preservada apenas como expressão oral de Jan Val Ellam para a pureza extrema que sustentaria a existência sem intervir no caos. Não é adotada como dogma editorial.
 
-
-## Citações-chave
-> "Dito isso, o título da palestra, 'o abismo da consciência cósmica', já vai dizendo que é um problema muito sério, aonde não divirjas de nenhum tipo de problema. Mas, infelizmente, há um abismo na consciência cósmica, há um abismo na consciência espiritual, há um abismo na consciência humana. Abismos existem em todos os níveis de consciência, devido ao problema que nós estamos vivendo. Problema esse que nunca foi decifrado, mas foi inventada toda uma narrativa falsa que nos cegou durante muito tempo. E isso, durante milênios, fez com que seres humanos transitórios, temporais, seres espirituais eternos, ou seja lá como queiramos chamar, e outros tipos de seres, todos nós embarcássemos numa situação de demência, de protorracionalidade, de irracionalidade, de uma quase racionalidade."" — P2024-11-09
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

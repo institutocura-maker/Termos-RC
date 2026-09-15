@@ -18,9 +18,8 @@ Instruções finais atribuídas a Javé para que clones observem estudantes da R
 ## Contexto / Origem
 Extraído da live P2025-10-25 — 2ª Edição Estagiários do Kaos.
 
-## Etimologia e Grafias
-- Forma preferida: **Últimas Ordens de Javé aos Clones**.
-
+## Citações-chave
+> Ver P2025-10-25.
 
 ## Ampliação
 ### P2025-10-25
@@ -31,14 +30,12 @@ Extraído da live P2025-10-25 — 2ª Edição Estagiários do Kaos.
 
 - **[Últimas Ordens de Javé aos Clones — a ressignificação] (U0006)** «Então os anjos clones o criador continuam cumprindo as últimas ordens recebidas de Brama e o novo projeto que o novo projeto é isso aqui que a gente precisa criar, já que o projeto Talm parou, precisa ser ressignificado lá na frente.» — os clones cumprem as últimas ordens de Brahma; o novo projeto precisa harmonizar-se com elas.
 
-## Fontes
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
-| P2025-10-25 | ver dossiê e transcrição | live/STT |
+## Etimologia e Grafias
+- Forma preferida: **Últimas Ordens de Javé aos Clones**.
 
-## Citações-chave
-> Ver P2025-10-25.
+
+## Seres Associados
+Consultar relações na Base.
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -48,9 +45,12 @@ Extraído da live P2025-10-25 — 2ª Edição Estagiários do Kaos.
 | Revelação Cósmica (conceito) | RC-094 | — |
 | Zont En Drel 29 | RC-147 | envolve |
 
-## Seres Associados
-Consultar relações na Base.
-
 ## Observações
 Termo candidato, sujeito a cruzamento com obras e palestras adicionais.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o bloco citado desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
+| P2025-10-25 | ver dossiê e transcrição | live/STT |

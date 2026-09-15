@@ -25,11 +25,6 @@ A **linhagem genética "preparada desde 'seu Adão'"** por Javé — revelada na
 ## Contexto / Origem
 O B036 detalha a linhagem como engenharia genética divina: Javé admite ter "manipulado ferramentas corporais para tentar consertar o que chama de 'equívoco impetuoso' de sua Criação original". O sucesso biológico de Jacó "criou a necessidade de líderes que transformassem essa linhagem em uma força política" (José, Moisés, Maomé — e a decepção com Jesus). A Linhagem dos Escolhidos conecta-se à Linhagem dos Patriarcas Hebreus (RC-270, B013) e ao Favor Divino.
 
-## Etimologia e Grafias
-- **Grafia preferida:** Linhagem dos Escolhidos
-- **Variações:** o Projeto Humano; a linhagem preparada desde Adão; os escolhidos de Javé
-
-
 ## Ampliação
 ### P2025-02-16
 
@@ -66,6 +61,31 @@ O B036 detalha a linhagem como engenharia genética divina: Javé admite ter "ma
 - **[P2023-10-14 · A LISTA DOS PATRIARCAS, COM O CORTE PRÓPRIO DA FONTE]** "Aí Adão termina produzindo um terceiro filho chamado Sete, que produz outro chamado Enos, Cainan, Malalarel, Jaré, Deno Matusalém, Lanec, Noé, Sena, Faxado, Salé, blá blá blá blá blá blá, Abraão, Isaque, Jacó, blá blá blá blá blá." (U0015); "Essa pergunta Adão, sete, Enos, Cainã, Malalar, Jaré, Denoque, Matusalém, Lam, ou seja, todo Os escolhios de Javé se fazem." (U0033) — ⚠️ Duas listas patriarcais na mesma fonte, com cortes diferentes (U0015 × U0033): divergência de STT, **não** de doutrina — registrar sem harmonizar.
 ---
 
+## Ampliação
+### P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+
+- **[P2023-12-03 · LINHAGEM DOS ESCOLHIDOS (ADÃO, ENOCH, ABRAÃO, JACÓ) NA FALA DE 03/12/2023]** «Escolheu Adão, sete, Enos, Cainâ, Lalahelu, Jaré, Enoque, Matusalém, isso tudo aqui com intenção de lá na frente mandar o Messias dele julgar, já que ele, Javé, não podia fazer isso só.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-05-09`); a entrada desta fonte é de **conteúdo**, não de data.
+
+---
+
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-424.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
+
+## Atualização
+### P2022-12-17
+
+- **Fonte:** palestra *O Incompreendido Ano de 2012 e a Falsa Noção do Fim do Mundo* — unidades U0677–U0726.
+- **Contexto acrescentado:** A palestra amplia a sequência genealógica do projeto de Javé por Adão, Seth, Enos, Cainã, Mahalalel, Jared e Enoque; registra também o papel de Noreia e a retirada de Enoque para o universo antimaterial.
+- **Status da evidência:** transcrição automatizada, pré-curada e validada terminologicamente pelo curador; conferir com áudio/obra primária antes de promoção de status.
+---
+---
+---
+
+## Etimologia e Grafias
+- **Grafia preferida:** Linhagem dos Escolhidos
+- **Variações:** o Projeto Humano; a linhagem preparada desde Adão; os escolhidos de Javé
+
+
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
@@ -85,23 +105,3 @@ O B036 detalha a linhagem como engenharia genética divina: Javé admite ter "ma
 | Tormento dos Eleitos de Javé | RC-685 | associado |
 | Moisés e o Êxodo (leitura RC) | RC-750 | ← relaciona-se-a |
 | Elo Adâmico (o gene que Javé pôs em Adão) | RC-857 | associado |
-
-## Atualização
-### P2022-12-17
-
-- **Fonte:** palestra *O Incompreendido Ano de 2012 e a Falsa Noção do Fim do Mundo* — unidades U0677–U0726.
-- **Contexto acrescentado:** A palestra amplia a sequência genealógica do projeto de Javé por Adão, Seth, Enos, Cainã, Mahalalel, Jared e Enoque; registra também o papel de Noreia e a retirada de Enoque para o universo antimaterial.
-- **Status da evidência:** transcrição automatizada, pré-curada e validada terminologicamente pelo curador; conferir com áudio/obra primária antes de promoção de status.
----
----
----
-
-## Ampliação
-### P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
-
-- **[P2023-12-03 · LINHAGEM DOS ESCOLHIDOS (ADÃO, ENOCH, ABRAÃO, JACÓ) NA FALA DE 03/12/2023]** «Escolheu Adão, sete, Enos, Cainâ, Lalahelu, Jaré, Enoque, Matusalém, isso tudo aqui com intenção de lá na frente mandar o Messias dele julgar, já que ele, Javé, não podia fazer isso só.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-05-09`); a entrada desta fonte é de **conteúdo**, não de data.
-
----
-
-
-> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-424.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

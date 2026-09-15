@@ -18,9 +18,8 @@ Ser composto pelas três forças da Trimurti e uma cabeça livre, associado a Mo
 ## Contexto / Origem
 Extraído da live P2025-10-25 — 2ª Edição Estagiários do Kaos.
 
-## Etimologia e Grafias
-- Forma preferida: **Singularidade de Quatro Cabeças**.
-
+## Citações-chave
+> Ver P2025-10-25.
 
 ## Ampliação
 ### P2025-10-25
@@ -38,15 +37,21 @@ Extraído da live P2025-10-25 — 2ª Edição Estagiários do Kaos.
 
 - **[P2023-12-03 · SINGULARIDADE DE QUATRO CABEÇAS NA FALA DE 03/12/2023]** «duas cabeças, três cabeças, sexualidade, blá blá blá.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2023-09-09`); a entrada desta fonte é de **conteúdo**, não de data.
 
-## Fontes
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
-| P2025-10-25 | ver dossiê e transcrição | live/STT |
+## Reforço
+### P2024-11-30
+
+A criação de Mohen So é descrita como combinação genética/mental da Trimurti em um corpo com quatro componentes/cabeças, incluindo uma parte sem lacres. A formulação permanece cosmologia da palestra.
 
 
-## Citações-chave
-> Ver P2025-10-25.
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-649.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o bloco citado desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
+## Etimologia e Grafias
+- Forma preferida: **Singularidade de Quatro Cabeças**.
+
+
+## Seres Associados
+Consultar relações na Base.
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -57,17 +62,12 @@ Extraído da live P2025-10-25 — 2ª Edição Estagiários do Kaos.
 | Mohen So = Phanes / Protogonos / Vasuki / Kalki (correspondências) | RC-282 | — |
 | Elm (Moros — ser LM de Tempérion) | RC-454 | vinculado-ao-espírito |
 
-## Seres Associados
-Consultar relações na Base.
-
 ## Observações
 Termo candidato, sujeito a cruzamento com obras e palestras adicionais.
 
-## Reforço
-### P2024-11-30
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
+| P2025-10-25 | ver dossiê e transcrição | live/STT |
 
-A criação de Mohen So é descrita como combinação genética/mental da Trimurti em um corpo com quatro componentes/cabeças, incluindo uma parte sem lacres. A formulação permanece cosmologia da palestra.
-
-
-> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-649.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o bloco citado desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

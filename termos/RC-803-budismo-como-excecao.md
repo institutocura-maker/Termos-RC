@@ -18,18 +18,17 @@ Tese (leitura do autor, palestra **P2018-02-24**, U0005) de que **o budismo (Gau
 ## Contexto / Origem
 Aparece em **P2018-02-24**, U0005. Contexto: depois de listar as religiões como instrumentos de dominação, o autor faz a única exceção: o budismo. "Só sobrou budismo que foi transformado devagarinho também em religião, quando jamais falou de Deus."
 
+## Citações-chave
+> «Eu só consigo colocar Gautama e o grande Galan, religiões opressivas e dominadoras. Exatamente. Judaísmo, bromanismo, cristianismo. dividido em catolicismo, protestantismo, espiritismo, islamismo. Tudo isso aqui tem a cara de por trás, inclusive espiritismo. Por mais que ele tenha estranhado, mas o verme, no germe da poluição, veio através de espíritos de ex-católicos e ex-protestantes que soldados espíritas trouxeram. Esse é o quadro da opressão em cima da humanidade. Esse é o quadro da tentativa de libertação. E o cristianismo ferrou com isso aqui, como Nietz, ferrou com esses valores, transformou a beleza grega em pecado. Só sobrou budismo que foi transformado devagarinho também em religião, quando jamais falou de Deus.» — P2018-02-24, U0005
+
 ## Etimologia e Grafias
 - **Grafia preferida:** Budismo como Exceção (Sem Deus)
 - **Variações STT capturadas:** "budismo", "Buda", "Gautama", "Grande Galan" (= Buda Gautama)
 - **Idioma de origem:** Sânscrito/Pali (बुद्ध "Buddha" = "o desperto") + Português
 
-## Fontes
-| Obra (sigla) | Capítulo | Página | Tipo |
-|---|---|---|---|
-| P2018-02-24 — Pandora e a Estratégia dos Avatares | U0005 (S5) | — | palestra (fonte primária, STT) |
-
-## Citações-chave
-> «Eu só consigo colocar Gautama e o grande Galan, religiões opressivas e dominadoras. Exatamente. Judaísmo, bromanismo, cristianismo. dividido em catolicismo, protestantismo, espiritismo, islamismo. Tudo isso aqui tem a cara de por trás, inclusive espiritismo. Por mais que ele tenha estranhado, mas o verme, no germe da poluição, veio através de espíritos de ex-católicos e ex-protestantes que soldados espíritas trouxeram. Esse é o quadro da opressão em cima da humanidade. Esse é o quadro da tentativa de libertação. E o cristianismo ferrou com isso aqui, como Nietz, ferrou com esses valores, transformou a beleza grega em pecado. Só sobrou budismo que foi transformado devagarinho também em religião, quando jamais falou de Deus.» — P2018-02-24, U0005
+## Seres Associados
+- **Buda/Gautama** (~séc. V-IV AC)
+- **"Grande Galan"** (provavelmente outra referência a Buda Gautama — STT incerto)
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -41,10 +40,6 @@ Aparece em **P2018-02-24**, U0005. Contexto: depois de listar as religiões como
 | Espiritismo com Germe da Poluição Católica/Protestante | RC-805 | opõe-se-a |
 | Budismo / Gautama | RC-803 | qualifica |
 
-## Seres Associados
-- **Buda/Gautama** (~séc. V-IV AC)
-- **"Grande Galan"** (provavelmente outra referência a Buda Gautama — STT incerto)
-
 ## Observações
 - **Quarentena sobre o budismo**: a afirmação de que o budismo "jamais falou de Deus" é leitura do autor — **NÃO FUSIONAR com tradição budista tibetana** (que tem divindades como Avalokiteshvara, Tara), nem com o budismo theravada (que tem devas, bramas), nem com o budismo zen (que tem figuras como Buda, bodhisattvas, etc.).
 - O "Grande Galan" provavelmente é STT corruptela de "Gautama, o Grande" — verificar.
@@ -53,3 +48,8 @@ Aparece em **P2018-02-24**, U0005. Contexto: depois de listar as religiões como
 
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-803.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o bloco entre «» desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo |
+|---|---|---|---|
+| P2018-02-24 — Pandora e a Estratégia dos Avatares | U0005 (S5) | — | palestra (fonte primária, STT) |

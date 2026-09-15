@@ -16,6 +16,10 @@ atualizado = "2026-08-19"
 
 Kumari Kandam — o continente lemuriano do sul da Índia (tradição tâmil), citado na RC como o território onde Shiva estabeleceu seu quartel general.
 
+## Citações-chave
+
+> Quando esse processo começou, Shiva resolveu criar o seu quartel general na Terra para dominar a raça humana... e assim ele criou expressões avatáricas ou adhyajnas de si mesmo.
+
 ## Ampliação
 ### P2025-05-31
 
@@ -31,16 +35,6 @@ Kumari Kandam — o continente lemuriano do sul da Índia (tradição tâmil), c
 
 - **[B023 p. 43]** um dos dois focos das castas: «tradição Kumari Kandan, no sul da Índia», terras que ~20 mil anos atrás ligavam o sul do continente ao atual Sri Lanka e depois foram cobertas pelo oceano.
 - Grafia do livro: **Kandan**. A ficha já registra Kandam (palestras). **Não fundir** as grafias; convívio marcado. Quarentena cronológica/arqueológica. Sem materializar RC-330. Sem fusão com B021. Fonte **B023** já constava na tabela-mestra.
-
-## Fontes
-
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2025-05-31 | O Mistério da Árvore da Vida e a Urdidura de Metatron (re-curadoria; devolutiva M-2/M-4 aprovada 19/08/2026) | palestra/STT pré-curada |
-
-## Citação-chave
-
-> Quando esse processo começou, Shiva resolveu criar o seu quartel general na Terra para dominar a raça humana... e assim ele criou expressões avatáricas ou adhyajnas de si mesmo.
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -62,3 +56,9 @@ Quarentena cronológica/arqueológica — leitura do autor.
 
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-329.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o bloco citado desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
+## Fontes
+
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2025-05-31 | O Mistério da Árvore da Vida e a Urdidura de Metatron (re-curadoria; devolutiva M-2/M-4 aprovada 19/08/2026) | palestra/STT pré-curada |

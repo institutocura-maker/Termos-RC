@@ -18,11 +18,8 @@ Período de inquietações de **Yel Luzbel (Lúcifer)** iniciado há **742 mil a
 ## Contexto / Origem
 É o grande evento de ruptura do corpus RC: explica a origem dos Exilados de Capela, o isolamento da Terra e a necessidade da Reintegração Cósmica. Conecta-se à doutrina cristã dos anjos decaídos e ao drama de Javé.
 
-## Etimologia e Grafias
-- **Grafia preferida:** Rebelião de Lúcifer
-- **Variações:** Queda de Lúcifer; Rebelião dos Anjos (denominação tradicional)
-- **Obs.:** na narrativa RC, a rebelião é de biodemos (Yel Luzbel, da Família Yel), não de "anjos" no sentido tradicional
-
+## Citações-chave
+> "Período de inquietações de Yel Luzbel (Lúcifer) que se iniciou há 742 mil anos no Sistema de Capela, gerando uma espécie de vírus que contaminou mais de 213 bilhões de seres, causando uma pandemia generalizada." — B031, verbete "Rebelião de Lúcifer"
 
 ## Ampliação
 ### P2024-07-13
@@ -146,25 +143,27 @@ Período de inquietações de **Yel Luzbel (Lúcifer)** iniciado há **742 mil a
 - **[Nunca houve rebelião de Lúcifer no universo vizinho] (U0030)** «Nunca houve uma rebelião de Lúcifer no universo vizinho de destravar, de deslacrar as teias da consciência, as teias da mente.» — "Só existiu no universo biológico e na classe biodia." (U0030: «Só existiu no universo biológico e na classe biodia.»); isso não é gratuito — "é para provocar a evolução do Sofia" (paráfrase U0030); Odim nasceu predestinado (Morrensor preparou a genética de Buri/B/Odim) enquanto Luisbell foi "no sabor da aventura" (paráfrase U0030; RC-769; RC-282); RC-002.
 
 
-## Fontes
-| Obra (sigla) | Capítulo | Página | Tipo |
-|---|---|---|---|
-| P2021-02-28 | Tragédia Anunciada - As Fórmulas Mentais do Poder Demo (palestra) | — | transcrição automatizada; citação |
-| P2023-02-11 | Agente Humano Jesus e os Arcontes (palestra) | — | transcrição automatizada; citação |
-| P2023-08-27 | Len Mion e os Senhores da Terra Alexandre Magno e Qin Shi Huang Di (palestra) | — | transcrição automatizada; citação |
-| P2022-05-07 | Shiva, o Projeto Talm e os Mistérios de Awaylengam (palestra) | — | transcrição automatizada; citação |
-| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra) | — | transcrição automatizada; citação |
-| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra) | — | transcrição automatizada; citação |
-| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra) | — | transcrição automatizada; citação |
-| Painéis Emergentes... (B031) | Glossário de Termos | p. 140 (aprox.) | verbete "Rebelião de Lúcifer" |
-| Painéis Emergentes... (B031) | Cronologia Aproximada dos Eventos | — | a conferir |
-| A Sétima Trombeta do Apocalipse (B004) | a preencher | — | pendente (obra primária) |
+## Ampliação
+### P2019-08-25 (Os Três Fornos Replicadores do Projeto Talm)
+
+- **[P2019-08-25 · A REBELIÃO DE LÚCIFER E O LACRE DA FAMÍLIA YEL]** (fonte oral fundadora):
+
+- "Só que a coisa foi Lúcifer quando rompeu, destravou o lacre da família Yel, ele acabou com essa história toda" (STT) — o destrave do lacre da família Yel (RC-834/RC-835);
+- O sistema "Javé = abelha rainha / anjos-clones = operárias" (livro *Divina Colmeia*) é o modelo que Lúcifer quebrou (ver RC-828);
+- "bilhões de anos acumulados de experiência existencial lúcifer com movimento de consciência" — o modo de pensar que deu origem ao humano.
 
 
+> Notas de processo: 4 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-002.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
+## Etimologia e Grafias
+- **Grafia preferida:** Rebelião de Lúcifer
+- **Variações:** Queda de Lúcifer; Rebelião dos Anjos (denominação tradicional)
+- **Obs.:** na narrativa RC, a rebelião é de biodemos (Yel Luzbel, da Família Yel), não de "anjos" no sentido tradicional
 
 
-## Citações-chave
-> "Período de inquietações de Yel Luzbel (Lúcifer) que se iniciou há 742 mil anos no Sistema de Capela, gerando uma espécie de vírus que contaminou mais de 213 bilhões de seres, causando uma pandemia generalizada." — B031, verbete "Rebelião de Lúcifer"
+## Seres Associados
+Yel Luzbel (RC-078); Len Mion (RC-074); Família Yel (RC-136); Família Val (RC-109); Sophia (RC-009, impôs o isolamento).
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -193,22 +192,23 @@ Período de inquietações de **Yel Luzbel (Lúcifer)** iniciado há **742 mil a
 | 13 Livros de Lúcifer com Humanos (Necessários Antes do Fim) | RC-833 | associado |
 | Melkor (o filho dissonante) | RC-844 | associado |
 
-## Seres Associados
-Yel Luzbel (RC-078); Len Mion (RC-074); Família Yel (RC-136); Família Val (RC-109); Sophia (RC-009, impôs o isolamento).
-
 ## Observações
 A cronologia (742 mil / 687 mil / 619 mil anos) vem do glossário de B031 e **precisa ser confirmada** na Cronologia Aproximada do próprio livro e nas obras primárias de Ellam. Verificar também o papel de Jesus na narrativa.
 
 
-## Ampliação
-### P2019-08-25 (Os Três Fornos Replicadores do Projeto Talm)
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo |
+|---|---|---|---|
+| P2021-02-28 | Tragédia Anunciada - As Fórmulas Mentais do Poder Demo (palestra) | — | transcrição automatizada; citação |
+| P2023-02-11 | Agente Humano Jesus e os Arcontes (palestra) | — | transcrição automatizada; citação |
+| P2023-08-27 | Len Mion e os Senhores da Terra Alexandre Magno e Qin Shi Huang Di (palestra) | — | transcrição automatizada; citação |
+| P2022-05-07 | Shiva, o Projeto Talm e os Mistérios de Awaylengam (palestra) | — | transcrição automatizada; citação |
+| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra) | — | transcrição automatizada; citação |
+| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra) | — | transcrição automatizada; citação |
+| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra) | — | transcrição automatizada; citação |
+| Painéis Emergentes... (B031) | Glossário de Termos | p. 140 (aprox.) | verbete "Rebelião de Lúcifer" |
+| Painéis Emergentes... (B031) | Cronologia Aproximada dos Eventos | — | a conferir |
+| A Sétima Trombeta do Apocalipse (B004) | a preencher | — | pendente (obra primária) |
 
-- **[P2019-08-25 · A REBELIÃO DE LÚCIFER E O LACRE DA FAMÍLIA YEL]** (fonte oral fundadora):
-
-- "Só que a coisa foi Lúcifer quando rompeu, destravou o lacre da família Yel, ele acabou com essa história toda" (STT) — o destrave do lacre da família Yel (RC-834/RC-835);
-- O sistema "Javé = abelha rainha / anjos-clones = operárias" (livro *Divina Colmeia*) é o modelo que Lúcifer quebrou (ver RC-828);
-- "bilhões de anos acumulados de experiência existencial lúcifer com movimento de consciência" — o modo de pensar que deu origem ao humano.
 
 
-> Notas de processo: 4 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-002.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

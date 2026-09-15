@@ -18,10 +18,8 @@ Espírito ou consciência-âncora que guarda múltiplos centros de consciência/
 ## Contexto / Origem
 A Devolutiva fixou a forma En Ma. As formas antigas Emá e Emar são preservadas como variações históricas para rastreabilidade.
 
-## Etimologia e Grafias
-- Grafia preferida: En Ma. Variações: Emá; Emar; EMÁ. Não confundir com Elm (RC-454).
-- **Fonte da decisão:** Devolutiva-01 + observação direta do curador.
-
+## Citações-chave
+> “Em Ma é apresentado como o espírito que ancora quatro centros de consciência: Javé, Sophia, Jesus e Vishnu.” — P2026-07-30, U0058–U0084
 
 ## Ampliação
 ### P2026-07-25
@@ -36,13 +34,20 @@ A Devolutiva fixou a forma En Ma. As formas antigas Emá e Emar são preservadas
 
 - **[P2026-07-30 — FONTE ORIGINAL] En Ma e os quatro centros (Pergunta 4):** "En Ma é apresentado como o espírito que ancora quatro centros de consciência ainda ativos: Javé, Sofia, Jesus e Visno; Evidência afirma que esses quatro eus precisam continuar existindo até que se ajustem e se sobreponham formando uma única consciência"; "sabemos que houve o colapso consciencial de Javé e de Vishnu"; "o colapso e a desconstituição significam apenas a perda da antiga forma de funcionamento mantendo esses centros ativos dentro de En Ma, ou representam o início de uma finalização mais profunda dessas personalidades?" — a resposta: "ninguém sabe responder à expressão final... há uma noção de incompatibilidade horrorosa: reunir num só ser algo que a consciência desse ser não consegue reunir todas essas partes como sendo uma só coisa"; "o resgate não é de Javé, de Prabrajna, desse espírito: Prabrajna, Javé, seja Vishnu, seja quem for, são apenas eus desse ser, que ele não consegue aplicar a coalescência no sentido de alinhá-los todos"; "se no final En Ma vai ser Emar ou se ele vai ter que passar por algum processo e recriar todo um contexto de um caos 2.0"; "existe um grupo de seres que quer saber a qualquer custo a vulnerabilidade em torno dessa questão de En Ma, que envolve Javé, Jesus e Sofia"; "essa vulnerabilidade alguns eus mentais que trabalham nessa coisa sabem, mas não falam, não expressam"; "a possível resposta a isso envolve um segredo de estado desses seres que eu não posso [revelar]" [QUARENTENA BIOGRÁFICA — relato pessoal/segredo].
 
-## Fontes
-| Obra/palestra | Localização | Tipo |
-|---|---|---|
-| P2026-07-30 — 4ª Edição Estagiários do Kaos | U0058–U0084 | STT pré-curado / devolutiva |
+## Atualização
+### P2024-05-04
 
-## Citações-chave
-> “Em Ma é apresentado como o espírito que ancora quatro centros de consciência: Javé, Sophia, Jesus e Vishnu.” — P2026-07-30, U0058–U0084
+- En Ma é aprofundado como espírito-âncora que sustenta Jesus, Sophia, Javé e Vishnu.
+- Divergências e alegações científicas permanecem abertas/atribuídas à palestra.
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
+## Etimologia e Grafias
+- Grafia preferida: En Ma. Variações: Emá; Emar; EMÁ. Não confundir com Elm (RC-454).
+- **Fonte da decisão:** Devolutiva-01 + observação direta do curador.
+
+
+## Seres Associados
+Consultar relações acima.
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -65,9 +70,6 @@ A Devolutiva fixou a forma En Ma. As formas antigas Emá e Emar são preservadas
 | Simultaneidade Reversa | RC-628 | ← repercute-em |
 | Instabilidade da Eternidade | RC-648 | ← envolve |
 
-## Seres Associados
-Consultar relações acima.
-
 ## Observações
 Mesclado no código existente RC-476 para evitar duplicação. A relação com Ensá permanece candidata e depende de outras fontes.
 
@@ -75,9 +77,7 @@ Mesclado no código existente RC-476 para evitar duplicação. A relação com E
 
 ---
 
-## Atualização
-### P2024-05-04
-
-- En Ma é aprofundado como espírito-âncora que sustenta Jesus, Sophia, Javé e Vishnu.
-- Divergências e alegações científicas permanecem abertas/atribuídas à palestra.
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+## Fontes
+| Obra/palestra | Localização | Tipo |
+|---|---|---|
+| P2026-07-30 — 4ª Edição Estagiários do Kaos | U0058–U0084 | STT pré-curado / devolutiva |

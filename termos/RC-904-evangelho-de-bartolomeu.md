@@ -20,6 +20,12 @@ Evangelho de Bartolomeu — conceito desenvolvido na palestra «A Teia da Vida e
 **Fonte:** palestra «A Teia da Vida e o Circuito Oculto dos Deuses» (13/01/2024).
 **Trecho verbatim:** «Bartolomeu produziu um chamado evangelho apócrifo»
 
+## Ampliação
+### P2023-12-25-03 (Aula 03 — Dias Difíceis: Crucificação e Ressurreição)
+
+- **«conversando com Judas Dídimo Tomé, que além de apóstolo de Jesus, era também irmão dele»**
+- Aula 03 situa a revelação pós-ressurreição a **apóstolos + mulheres** (Tomé, Filipe, Bartolomeu, Madalena) — contexto do Evangelho de Bartolomeu (RC-904).
+
 ## Termos Relacionados
 - RC-072
 - RC-479
@@ -31,9 +37,3 @@ Evangelho de Bartolomeu — conceito desenvolvido na palestra «A Teia da Vida e
 | Maria Madalena | RC-943 | associado |
 | Pedro (apóstolo) | RC-945 | associado |
 
-
-## Ampliação
-### P2023-12-25-03 (Aula 03 — Dias Difíceis: Crucificação e Ressurreição)
-
-- **«conversando com Judas Dídimo Tomé, que além de apóstolo de Jesus, era também irmão dele»**
-- Aula 03 situa a revelação pós-ressurreição a **apóstolos + mulheres** (Tomé, Filipe, Bartolomeu, Madalena) — contexto do Evangelho de Bartolomeu (RC-904).

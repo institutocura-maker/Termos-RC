@@ -18,10 +18,8 @@ Capítulo 11 de *Terra Atlantis III: A Era Sapiens* (B039) que narra o **impacto
 ## Contexto / Origem
 O evento marca o ponto de virada da Era Sapiens: após a crucificação, ocorre a **saída de Yel Luzbel dos ambientes em torno do planeta**, o que faz com que **Len Mion assuma o comando do restante da rebelião** — procurando atrapalhar qualquer interesse de Sophia ou do "deus dos judeus". Na sinopse do livro 3: "Após a crucificação, ocorre a saída de Yel Luzbel dos ambientes em torno do planeta, o que faz com que Len Mion assuma o comando do restante da rebelião."
 
-## Etimologia e Grafias
-- **Grafia preferida:** O Calvário de um Inocente
-- **Variações:** Calvário de um Inocente; a crucificação de Jesus (evento subjacente)
-
+## Citações-chave
+> "Yel Luzbel retirou-se atordoado e, a partir daquele momento, não mais voltou ao convívio dos seus pares, que passaram a procurá-lo desesperadamente. Desde aquele instante, Lúcifer isolou-se, e não mais comandou a sua falange ou o que dela restava. A base Atlan voltou a ser o seu 'refúgio'." — B039, cap. 11
 
 ## Ampliação
 ### B011 (Jesus e o Enigma da Transfiguração)
@@ -31,14 +29,13 @@ O evento marca o ponto de virada da Era Sapiens: após a crucificação, ocorre 
 - **[B011 p. 163–164]** o posfácio declara omissão sobre opções que "teriam tido o condão de ter modificado o rumo dos acontecimentos" — permanece **[NÃO REVELADO]**; não completar.
 - Naves, Sidarta, Zoroastro (p. 154) e IEEA/Orbum: **quarentena**; fora desta ficha.
 
-## Fontes
-| Obra (sigla) | Capítulo | Página | Tipo |
-|---|---|---|---|
-| Terra Atlantis III (B039) | cap. 11 (O Calvário de um Inocente) | pp. 89–112 (aprox.) | capítulo dedicado |
-| Terra Atlantis III (B039) | Sinopse | p. 2 | resumo |
+## Etimologia e Grafias
+- **Grafia preferida:** O Calvário de um Inocente
+- **Variações:** Calvário de um Inocente; a crucificação de Jesus (evento subjacente)
 
-## Citações-chave
-> "Yel Luzbel retirou-se atordoado e, a partir daquele momento, não mais voltou ao convívio dos seus pares, que passaram a procurá-lo desesperadamente. Desde aquele instante, Lúcifer isolou-se, e não mais comandou a sua falange ou o que dela restava. A base Atlan voltou a ser o seu 'refúgio'." — B039, cap. 11
+
+## Seres Associados
+Jesus (RC-072); Yel Luzbel/Lúcifer (RC-142/RC-078); Len Mion/Satã (RC-074); Sophia (RC-009).
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -52,9 +49,12 @@ O evento marca o ponto de virada da Era Sapiens: após a crucificação, ocorre 
 | Hitler (figura histórica no RC) | RC-239 | desdobramento |
 | O Fator Judas | RC-365 | ← relaciona-se-a |
 
-## Seres Associados
-Jesus (RC-072); Yel Luzbel/Lúcifer (RC-142/RC-078); Len Mion/Satã (RC-074); Sophia (RC-009).
-
 ## Observações
 Ficha baseada em B039 (obra primária). O evento conecta a trilogia Terra Atlantis ao Drama Terreno de Javé e ao papel de Judas (ver RC-138 Yel Am/Yel Liam). Verificar detalhes do capítulo 11 completo.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo |
+|---|---|---|---|
+| Terra Atlantis III (B039) | cap. 11 (O Calvário de um Inocente) | pp. 89–112 (aprox.) | capítulo dedicado |
+| Terra Atlantis III (B039) | Sinopse | p. 2 | resumo |

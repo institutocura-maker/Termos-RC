@@ -28,20 +28,10 @@ Com isso:
 
 **Origem do conteúdo da ampliação:** palestra `P2022-09-25 — O Contexto Espiritual da Construção de Brasília` (25/09/2022). Transcrição automatizada, **não conferida com o áudio**; cada aspa foi recortada do `original.txt` pelo índice de âncoras do motor e conferida byte a byte pelo portão B. Nada foi digitado de memória.
 
-## Observações sobre o Estado da Malha
-
-* **Materializada (devolutiva):** saiu da fila aberta — ficha criada nesta devolutiva (ficha=False → True) com a pérola validada deste ciclo: o chão mais antigo (Planalto Central, 3,2 bi anos) e a molécula mãe (3,8 bi anos) — o cenário da semeadura do código original primordial no universo biológico.
-* **Trava aplicável**: nenhuma além das gerais do despacho.
-
 ## Ampliação
 ### P2022-09-25 (O Contexto Espiritual da Construção de Brasília)
 
 - **[O chão mais antigo e a molécula mãe] (U0003)** «A Terra tem 4 bilhões 600 milhões de anos, mas durante os seus primeiros 800 milhões de anos, a Terra era uma bola encandescente de lava.» — o cenário da semeadura: "há 3.8 bilhões de anos atrás, surgiu água e nessa água surgiu uma gota de ácido com o DNA de todos os corpos de seres vivos que hoje existem na Terra" — "essa primeira molécula mãe... é quando a vida sai do código químico para sua expressão físicobiológica"; ressonância com a RC-871 (Midana — o código original primordial semeado no universo biológico) e com a RC-282 (Protogonos/Morrens).
-
-## Fontes
-| Obra (sigla) | Título | Página | Tipo |
-|---|---|---|---|
-| P2022-09-25 | O Contexto Espiritual da Construção de Brasília (palestra) | — | transcrição automatizada; citação |
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -54,3 +44,13 @@ Com isso:
 | Especiação Humana — Levas Genéticas | RC-783 | **sem aresta** em `RELACOES`; arquivo existe |
 | Carga virótica (a materialização da primeira carga mental do criador) | RC-877 | associado |
 
+
+## Fontes
+| Obra (sigla) | Título | Página | Tipo |
+|---|---|---|---|
+| P2022-09-25 | O Contexto Espiritual da Construção de Brasília (palestra) | — | transcrição automatizada; citação |
+
+## Observações sobre o Estado da Malha
+
+* **Materializada (devolutiva):** saiu da fila aberta — ficha criada nesta devolutiva (ficha=False → True) com a pérola validada deste ciclo: o chão mais antigo (Planalto Central, 3,2 bi anos) e a molécula mãe (3,8 bi anos) — o cenário da semeadura do código original primordial no universo biológico.
+* **Trava aplicável**: nenhuma além das gerais do despacho.

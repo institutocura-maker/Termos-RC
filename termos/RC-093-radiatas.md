@@ -28,12 +28,6 @@ Com isso:
 
 **Origem do conteúdo da ampliação:** palestra `P2023-12-03 — A Rebelião de Lúcifer ainda por ser Finalizada` (03/12/2023, na sala). Transcrição automatizada, **não conferida com o áudio**; cada aspa foi recortada do `original.txt` pelo índice de âncoras do motor e conferida byte a byte pelo portão B. Nada foi digitado de memória.
 
-## Observações sobre o Estado da Malha
-
-* **[REVISAR → ENCERRADO 2026-09-06 · F041-L5: RATIFICADO — o cadastro tem primazia; registra-se o processo do autor sem harmonização artificial — ver nota] — adjetivo, não diagnóstico.** A fonte nega o funcionamento de certa função nesse modelo; isso não é lido como afirmação médica da Base. O par com `RC-035` é de oposição de modelos, e a oposição não virou aresta.
-* D-7 sem código novo: a obsolescência anatômica não ganhou verbete próprio, e este não foi reescrito para acomodá-la.
-* **Trava aplicável**: D-7 · D-4 · veto de trânsito por nomear classe de seres.
-
 ## Ampliação
 ### P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
 
@@ -47,14 +41,6 @@ Com isso:
 
 - **[Radiatas: um eixo só] (U0003)** «Radiata, quando eu falo radiata, que só tem um eixo.» — a mente radiata (RC-093/RC-631) 'só tem um eixo' — humanos são bilatérios (duas câmaras), os biodemos só têm um; por isso os demos têm poucos talentos.
 
-## Fontes
-| Obra (sigla) | Título | Página | Tipo |
-|---|---|---|---|
-| P2023-08-27 | Len Mion e os Senhores da Terra Alexandre Magno e Qin Shi Huang Di (palestra) | — | transcrição automatizada; citação |
-| P2022-05-07 | Shiva, o Projeto Talm e os Mistérios de Awaylengam (palestra) | — | transcrição automatizada; citação |
-| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra) | — | transcrição automatizada; citação |
-| B031 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
-
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
@@ -67,3 +53,17 @@ Com isso:
 | Fornos Replicadores (naves/estações de semeadura de vida do Projeto Talm; Awayen, Awaylengan e Awaymaion) | RC-771 | ← relaciona-se-a |
 | Forno de Awaylengan (forno de Shiva — o primeiro a funcionar) | RC-837 | associado |
 
+
+## Fontes
+| Obra (sigla) | Título | Página | Tipo |
+|---|---|---|---|
+| P2023-08-27 | Len Mion e os Senhores da Terra Alexandre Magno e Qin Shi Huang Di (palestra) | — | transcrição automatizada; citação |
+| P2022-05-07 | Shiva, o Projeto Talm e os Mistérios de Awaylengam (palestra) | — | transcrição automatizada; citação |
+| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra) | — | transcrição automatizada; citação |
+| B031 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
+
+## Observações sobre o Estado da Malha
+
+* **[REVISAR → ENCERRADO 2026-09-06 · F041-L5: RATIFICADO — o cadastro tem primazia; registra-se o processo do autor sem harmonização artificial — ver nota] — adjetivo, não diagnóstico.** A fonte nega o funcionamento de certa função nesse modelo; isso não é lido como afirmação médica da Base. O par com `RC-035` é de oposição de modelos, e a oposição não virou aresta.
+* D-7 sem código novo: a obsolescência anatômica não ganhou verbete próprio, e este não foi reescrito para acomodá-la.
+* **Trava aplicável**: D-7 · D-4 · veto de trânsito por nomear classe de seres.

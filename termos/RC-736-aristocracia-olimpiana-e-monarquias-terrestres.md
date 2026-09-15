@@ -16,48 +16,14 @@ atualizado = "2026-08-29"
 
 [P2024-09-29] Na cosmologia de Jan Val Ellam, modelo em que seres de gerações divinas ou demo ampliariam prestígio e poder mediante presença genética em linhagens humanas, com monarquias, clãs e genealogias como manifestações terrestres desse processo.
 
-## Contexto / Origem
-
-[P2024-09-29] Absorve NT-AM02: os dois projetos que Ellam atribui a Javé/Brahma no fim do ciclo dos portais — Amaterasu–Kami e Orunmilá–Olodus — ficam como ramos internos deste modelo.
-
 ## Escopo e evidência
 
 - **[P2024-09-29] Unidades:** U0227–U0254; U0285–U0338; U0368–U0448; U0481–U0499; U0688–U0761; U0909–U0924.
 - **[P2024-09-29] Proveniência:** palestra de Jan Val Ellam; transcrição STT pré-curada e devolutiva oficial do curador.
 
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | atribuído-a |
-| Brahma (Brajna) | RC-037 | relaciona-se-a / ver grafo |
-| Criador (Brahma/Javé/Demiurgo) | RC-041 | relaciona-se-a / ver grafo |
-| Demos | RC-049 | relaciona-se-a / ver grafo |
-| Zeus | RC-145 | relaciona-se-a / ver grafo |
-| Big Data Cósmico | RC-194 | relaciona-se-a / ver grafo |
-| Linhagens Preferenciais do Criador | RC-202 | relaciona-se-a / ver grafo |
-| Império dos Descendentes dos Seres dos Portais | RC-240 | manifesta-se-em |
-| Dominação (premissa dos Três Primeiros Logos) | RC-254 | relaciona-se-a / ver grafo |
-| Linhagens Humanas: Preferidas e Preteridas | RC-269 | opera-por |
-| Timé (de um deus) | RC-293 | relaciona-se-a |
-| Entroncamentos Genéticos Intersiderais | RC-323 | relaciona-se-a / ver grafo |
-| Genética Totalitária | RC-325 | relaciona-se-a / ver grafo |
-| Indra (título de arconte) | RC-480 | relaciona-se-a / ver grafo |
-| Laboratório Genético Terra (linhagens monitoradas) | RC-531 | relaciona-se-a |
-| Mão Invisível Multiforme / Conselho das Nagas | RC-697 | relaciona-se-a / ver grafo |
-| Dignidade como Critério de Consciência | RC-722 | relaciona-se-a |
-| Projeto Amaterasu–Kami no Japão | RC-737 | inclui |
-| Amaterasu (Teologia Comparada de Ellam) | RC-738 | relaciona-se-a |
-| Amaterasu (Teologia Comparada de Ellam) | RC-738 | ← relaciona-se-a |
-| Susanoo (Teologia Comparada de Ellam) | RC-739 | relaciona-se-a |
-| Projeto Orunmilá–Olodus | RC-741 | inclui |
+## Contexto / Origem
 
-## Glossário interno / absorções
-
-- **[P2024-09-29]** Dois projetos recentes: seção interna absorvida de NT-AM02; não possui código autônomo.
-
-## Cautela editorial
-
-[P2024-09-29] Alegação extraordinária genética e histórica restrita à interpretação de Ellam. Descendência divina, marcadores genéticos e continuidade monárquica não são apresentados como genealogia ou genética validada.
+[P2024-09-29] Absorve NT-AM02: os dois projetos que Ellam atribui a Javé/Brahma no fim do ciclo dos portais — Amaterasu–Kami e Orunmilá–Olodus — ficam como ramos internos deste modelo.
 
 ## Ampliação
 ### P2024-09-29
@@ -113,3 +79,37 @@ atualizado = "2026-08-29"
 ---
 
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-736.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Javé | RC-001 | atribuído-a |
+| Brahma (Brajna) | RC-037 | relaciona-se-a / ver grafo |
+| Criador (Brahma/Javé/Demiurgo) | RC-041 | relaciona-se-a / ver grafo |
+| Demos | RC-049 | relaciona-se-a / ver grafo |
+| Zeus | RC-145 | relaciona-se-a / ver grafo |
+| Big Data Cósmico | RC-194 | relaciona-se-a / ver grafo |
+| Linhagens Preferenciais do Criador | RC-202 | relaciona-se-a / ver grafo |
+| Império dos Descendentes dos Seres dos Portais | RC-240 | manifesta-se-em |
+| Dominação (premissa dos Três Primeiros Logos) | RC-254 | relaciona-se-a / ver grafo |
+| Linhagens Humanas: Preferidas e Preteridas | RC-269 | opera-por |
+| Timé (de um deus) | RC-293 | relaciona-se-a |
+| Entroncamentos Genéticos Intersiderais | RC-323 | relaciona-se-a / ver grafo |
+| Genética Totalitária | RC-325 | relaciona-se-a / ver grafo |
+| Indra (título de arconte) | RC-480 | relaciona-se-a / ver grafo |
+| Laboratório Genético Terra (linhagens monitoradas) | RC-531 | relaciona-se-a |
+| Mão Invisível Multiforme / Conselho das Nagas | RC-697 | relaciona-se-a / ver grafo |
+| Dignidade como Critério de Consciência | RC-722 | relaciona-se-a |
+| Projeto Amaterasu–Kami no Japão | RC-737 | inclui |
+| Amaterasu (Teologia Comparada de Ellam) | RC-738 | relaciona-se-a |
+| Amaterasu (Teologia Comparada de Ellam) | RC-738 | ← relaciona-se-a |
+| Susanoo (Teologia Comparada de Ellam) | RC-739 | relaciona-se-a |
+| Projeto Orunmilá–Olodus | RC-741 | inclui |
+
+## Glossário interno
+
+- **[P2024-09-29]** Dois projetos recentes: seção interna absorvida de NT-AM02; não possui código autônomo.
+
+## Cautela editorial
+
+[P2024-09-29] Alegação extraordinária genética e histórica restrita à interpretação de Ellam. Descendência divina, marcadores genéticos e continuidade monárquica não são apresentados como genealogia ou genética validada.

@@ -16,19 +16,15 @@ atualizado = "2026-08-16"
 
 Episódio mítico hindu no qual Devas e Asuras cooperam no batimento do oceano de leite para obter Amrita e outras entidades ou artefatos. Na leitura comparada da palestra, o episódio também figura como modelo de cooperação forçada, regeneração e criação de um vínculo entre realidades.
 
-## Elementos preservados
+## Citações-chave
 
-- Devas e Asuras em lados opostos;
-- serpente usada como corda do batimento;
-- intervenção de Vishnu;
-- produção de Amrita;
-- conexão com a regeneração de Brahma e a organização posterior de linhagens;
-- reaplicação do motivo na instituição do Axis Mundi terrestre.
+> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
 
-## Pontos não harmonizados
+- «Então, o samudra mantã, ele não é só uma metáfora de um fato que na realidade aconteceu, mas se a gente quiser se lembrar da metáfora e se lembrar que o nosso interior é o oceano que precisa ser batido pelo Eu da gente, essa talvez seja a melhor metáfora que reste dessa palestra.» — *ver:* **Ampliação — P2026-03-21 (Samudra Manthan A Enigmatica Alq…** U0019
+- «Então, samudra mantã, os hindus chamam de o batimento de um oceano de leite do Qual o senhor virgino retirou maravilhas chamado ratas, joias de uma alquimia que produziu várias coisas e isso em tese mudou outras tantas coisas.» — *ver:* **Ampliação — P2026-03-21 (Samudra Manthan A Enigmatica Alq…** U0008
 
-O STT alterna ou deforma nomes e funções. A identificação exata da serpente, o papel de Kurma/Vishnu e a enumeração completa dos produtos do batimento permanecem `[REVISAR → CHANCELA 10/09/2026 · F040-L5: INCOMPLETUDE REGISTRADA (não completado por fontes externas) — ver nota]`; não foram completados por fontes externas dentro da transcrição.
 
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-734.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
 
 ## Ampliação
 ### P2023-04-30 (O Senhor Krishna e as Expressões do Ser)
@@ -41,12 +37,12 @@ O STT alterna ou deforma nomes e funções. A identificação exata da serpente,
 - **[O batimento do oceano de leite: joias de uma alquimia] (U0008)** «Então, samudra mantã, os hindus chamam de o batimento de um oceano de leite do Qual o senhor virgino retirou maravilhas chamado ratas, joias de uma alquimia que produziu várias coisas e isso em tese mudou outras tantas coisas.» — o evento como transferência de produtos mentais entre locas: "Samudra Mantã é do que transferência de produtos mentais entre locas" (U0013: «Samudra Mantã é do que transferência de produtos mentais entre locas.»); a leitura interior: "o samudra mantã, ele não é só uma metáfora de um fato que na realidade aconteceu, mas se a gente quiser se lembrar da metáfora e se lembrar que o nosso interior é o oceano que precisa ser batido pelo Eu da gente, essa talvez seja a melhor metáfora que reste dessa palestra" (U0019: «Então, o samudra mantã, ele não é só uma metáfora de um fato que na realidade aconteceu, mas se a gente quiser se lembrar da metáfora e se lembrar que o nosso interior é o oceano que precisa ser batido pelo Eu da gente, essa talvez seja a melhor metáfora que reste dessa palestra.»).
 
 
-## Fontes
+## Ampliação
+### P2024-08-03
 
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2026-03-21 | Samudra Manthan A Enigmatica Alquimia de Vishnu (palestra) | — | transcrição automatizada; citação |
-| P2024-11-02 | U0681–U0724; U1018–U1037 | palestra/STT pré-curada |
+- **[P2024-08-03] AE-FD05 — U0324–U0334; U0637–U0640:** Registra Samudra Manthana como resposta narrativa à dor/falência das descendências e amrita como alívio escasso, segundo Ellam. A relação já vigente entre os registros não é duplicada semanticamente.
+- **[P2024-08-03] O recurso desesperado (U0324–U0333):** Brama e descendentes "perceberam que estavam falidos... doía tudo e ninguém conseguia produzir nada de remédio"; "no hinduísmo surge a notícia do samudra manthã, que foi algo desesperador": uma super serpente batendo num líquido do universo vizinho "do jeito que você bate no leite para fazer manteiga"; daí surgiu o amrita, "um tipo de elixir que aplacava a dor de todas as espécies"; "assim que esse pouco de remédio surgiu, todas essas espécies começaram a brigar porque o remédio não dava para todo mundo".
+- **[P2024-08-03] A escada dos produtos (U0637–U0650):** "o motivo das guerras descritas nas mitologias é a disputa por essas novidades"; o amrita foi um dos produtos; "o último produto e ainda disputadíssimo é o sangue humano"; "pra turma mais sofisticada, o último produto é o eu humano" — o eu que ri da própria desgraça, faz poesia, é altruísta, "despreza todas as regras de conduta que Brama impôs à evolução".
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -73,19 +69,23 @@ O STT alterna ou deforma nomes e funções. A identificação exata da serpente,
 
 O episódio pertence à mitologia e às tradições religiosas hindus. As equivalências com Titãs, deuses gregos, sistemas nórdicos, portais ou processos cósmicos constituem **Teologia Comparada de Ellam**, não consenso da história das religiões. Nenhum efeito farmacológico ou biológico de Amrita é afirmado.
 
-## Ampliação
-### P2024-08-03
+## Fontes
 
-- **[P2024-08-03] AE-FD05 — U0324–U0334; U0637–U0640:** Registra Samudra Manthana como resposta narrativa à dor/falência das descendências e amrita como alívio escasso, segundo Ellam. A relação já vigente entre os registros não é duplicada semanticamente.
-- **[P2024-08-03] O recurso desesperado (U0324–U0333):** Brama e descendentes "perceberam que estavam falidos... doía tudo e ninguém conseguia produzir nada de remédio"; "no hinduísmo surge a notícia do samudra manthã, que foi algo desesperador": uma super serpente batendo num líquido do universo vizinho "do jeito que você bate no leite para fazer manteiga"; daí surgiu o amrita, "um tipo de elixir que aplacava a dor de todas as espécies"; "assim que esse pouco de remédio surgiu, todas essas espécies começaram a brigar porque o remédio não dava para todo mundo".
-- **[P2024-08-03] A escada dos produtos (U0637–U0650):** "o motivo das guerras descritas nas mitologias é a disputa por essas novidades"; o amrita foi um dos produtos; "o último produto e ainda disputadíssimo é o sangue humano"; "pra turma mais sofisticada, o último produto é o eu humano" — o eu que ri da própria desgraça, faz poesia, é altruísta, "despreza todas as regras de conduta que Brama impôs à evolução".
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2026-03-21 | Samudra Manthan A Enigmatica Alquimia de Vishnu (palestra) | — | transcrição automatizada; citação |
+| P2024-11-02 | U0681–U0724; U1018–U1037 | palestra/STT pré-curada |
 
-## Citações-chave
+## Elementos preservados
 
-> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+- Devas e Asuras em lados opostos;
+- serpente usada como corda do batimento;
+- intervenção de Vishnu;
+- produção de Amrita;
+- conexão com a regeneração de Brahma e a organização posterior de linhagens;
+- reaplicação do motivo na instituição do Axis Mundi terrestre.
 
-- «Então, o samudra mantã, ele não é só uma metáfora de um fato que na realidade aconteceu, mas se a gente quiser se lembrar da metáfora e se lembrar que o nosso interior é o oceano que precisa ser batido pelo Eu da gente, essa talvez seja a melhor metáfora que reste dessa palestra.» — *ver:* **Ampliação — P2026-03-21 (Samudra Manthan A Enigmatica Alq…** U0019
-- «Então, samudra mantã, os hindus chamam de o batimento de um oceano de leite do Qual o senhor virgino retirou maravilhas chamado ratas, joias de uma alquimia que produziu várias coisas e isso em tese mudou outras tantas coisas.» — *ver:* **Ampliação — P2026-03-21 (Samudra Manthan A Enigmatica Alq…** U0008
+## Pontos não harmonizados
 
+O STT alterna ou deforma nomes e funções. A identificação exata da serpente, o papel de Kurma/Vishnu e a enumeração completa dos produtos do batimento permanecem `[REVISAR → CHANCELA 10/09/2026 · F040-L5: INCOMPLETUDE REGISTRADA (não completado por fontes externas) — ver nota]`; não foram completados por fontes externas dentro da transcrição.
 
-> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-734.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

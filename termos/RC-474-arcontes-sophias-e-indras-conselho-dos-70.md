@@ -16,13 +16,9 @@ atualizado = "2026-09-12"
 
 Na RC, colegiado de seres = "Sophias e Indras; Conselho dos 70" — linhagem de regentes ligada ao drama da criação (RC-167) e aos desdobramentos da vinda de Sophia (RC-009).
 
-## Atualização
-### P2023-12-02
+## Citações-chave
 
-- **Arcontes = descendentes:** "Arcontes são os descendentes dessas figuras aí, principalmente os seis da Tridevi e da Trimurti" [STT parcial — `[REVISAR → CHANCELA 10/09/2026 · F039-L5: AGUARDA-ÁUDIO (transcrição parcial assumida; sem normalização) — ver nota]`];
-- **Intriga sobre a herança:** "a vinda de Sophia é uma promessa que Jesus ou humano fez, mas dentro de um contexto geopolítico de intriga entre os arcontes, ver quem deles herdava o fal..." [frase truncada] — a vinda de Sophia (RC-009) situada em disputa arconte;
-- "vários outros arcontes não querem que nenhum desses dois assuma nada" (Cristo/Sophia vs. o processo em curso) — confusão registrada pelo autor.
-
+> "A vinda de Sofia aqui é uma promessa que Jesus ou humano fez, mas dentro de um contexto geopolítico de intriga entre os arcontes, ver quem deles herdava..." — P2023-12-02
 
 ## Ampliação
 ### P2026-07-25
@@ -102,28 +98,24 @@ Na RC, colegiado de seres = "Sophias e Indras; Conselho dos 70" — linhagem de 
 - **[A geopolítica cósmica e a sucessão de avatares] (U0069)** «Então assim, o segundo ponto da revelação cósmica Não em importância, mas que se um ser humano quiser compreender os próximos acontecimentos da geopolítica que envolve a Terra, fatalmente vai ter que estudar bastante sobre Enoque, sobre a figura de Metatron, sobre a geopolítica cósmica e sobre essa história de que ao longo das páginas da evolução humana sempre tem anúncio de avatares vindo à Terra e esses avatares chegam aqui e produzem revelações.» — a geopolítica cósmica como segundo ponto da revelação cósmica: Enoque, Metatron, a sucessão de avatares na Terra cumprindo a agenda de Javé; RC-474 Arcontes; RC-001.
 
 
-## Fontes
+## Ampliação
+### P2024-02-04
 
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2025-12-14 | Os Fundamentos da Revelação Cósmica (palestra) | — | transcrição automatizada; citação |
-| P2022-09-17 | A Hipóstase dos Arcontes (palestra) | — | transcrição automatizada; citação |
-| P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
-| P2022-11-26 | Choque de Realidade – o Perpétuo Espanto dos Donos da Verdade (palestra) | — | transcrição automatizada; citação |
-| P2023-02-11 | Agente Humano Jesus e os Arcontes (palestra) | — | transcrição automatizada; citação |
-| P2025-05-10 | Mistérios do Apocalipse (palestra) | — | transcrição automatizada; citação |
-| P2022-05-07 | Shiva, o Projeto Talm e os Mistérios de Awaylengam (palestra) | — | transcrição automatizada; citação |
-| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
-| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
-| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
-| P2023-12-02 | bloco final (arcontes/intriga; Sofia) | palestra/STT pré-curada |
+**Fonte:** palestra «A Falsa Queda do Ser Humano e a Indignidade Entronizada como Religião» (04/02/2024).
+
+**Trecho verbatim:** «Os arcontos quando perceberam que os humanos tinham essa coisa de bondade, eles caram que é isso? Que é isso? Que é isso? E quiseram destruir isso nos humanos, porque isso eleva a vibração dos humanos a um padrão que foge ao controle do big data, ou seja, da maneira como os clones e os arcontes acompanham o próprio genoma humano.»
 
 
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-474.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
 
+## Atualização
+### P2023-12-02
 
-## Citação-chave
+- **Arcontes = descendentes:** "Arcontes são os descendentes dessas figuras aí, principalmente os seis da Tridevi e da Trimurti" [STT parcial — `[REVISAR → CHANCELA 10/09/2026 · F039-L5: AGUARDA-ÁUDIO (transcrição parcial assumida; sem normalização) — ver nota]`];
+- **Intriga sobre a herança:** "a vinda de Sophia é uma promessa que Jesus ou humano fez, mas dentro de um contexto geopolítico de intriga entre os arcontes, ver quem deles herdava o fal..." [frase truncada] — a vinda de Sophia (RC-009) situada em disputa arconte;
+- "vários outros arcontes não querem que nenhum desses dois assuma nada" (Cristo/Sophia vs. o processo em curso) — confusão registrada pelo autor.
 
-> "A vinda de Sofia aqui é uma promessa que Jesus ou humano fez, mas dentro de um contexto geopolítico de intriga entre os arcontes, ver quem deles herdava..." — P2023-12-02
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -161,13 +153,21 @@ Na RC, colegiado de seres = "Sophias e Indras; Conselho dos 70" — linhagem de 
 
 Trecho truncado na transcrição — `[frase truncada]`. Contexto geopolítico arconte é leitura do autor (quarentena geopolítica).
 
-## Ampliação
-### P2024-02-04
+## Fontes
 
-**Fonte:** palestra «A Falsa Queda do Ser Humano e a Indignidade Entronizada como Religião» (04/02/2024).
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2025-12-14 | Os Fundamentos da Revelação Cósmica (palestra) | — | transcrição automatizada; citação |
+| P2022-09-17 | A Hipóstase dos Arcontes (palestra) | — | transcrição automatizada; citação |
+| P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
+| P2022-11-26 | Choque de Realidade – o Perpétuo Espanto dos Donos da Verdade (palestra) | — | transcrição automatizada; citação |
+| P2023-02-11 | Agente Humano Jesus e os Arcontes (palestra) | — | transcrição automatizada; citação |
+| P2025-05-10 | Mistérios do Apocalipse (palestra) | — | transcrição automatizada; citação |
+| P2022-05-07 | Shiva, o Projeto Talm e os Mistérios de Awaylengam (palestra) | — | transcrição automatizada; citação |
+| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
+| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
+| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
+| P2023-12-02 | bloco final (arcontes/intriga; Sofia) | palestra/STT pré-curada |
 
-**Trecho verbatim:** «Os arcontos quando perceberam que os humanos tinham essa coisa de bondade, eles caram que é isso? Que é isso? Que é isso? E quiseram destruir isso nos humanos, porque isso eleva a vibração dos humanos a um padrão que foge ao controle do big data, ou seja, da maneira como os clones e os arcontes acompanham o próprio genoma humano.»
 
 
-> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-474.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

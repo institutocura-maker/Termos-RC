@@ -25,13 +25,6 @@ atualizado = "2026-08-29"
 
 **Origem do conteúdo da ampliação:** palestra `P2023-10-14 — A Esquecida Honra dos Anunnaki`, megabloco U0020 do `original.txt` (transcrição automatizada, **não conferida com o áudio**); aspas recortadas byte a byte por `_gerar_ampliacoes_P2023-10-14.py`.
 
-## Etimologia e Grafias
-
-- **Canônico da Base:** *Keshava* (epíteto de Vishnu/Krishna).
-- **Na fonte oral (P2023-10-14):** «**quechava**» — fusão de STT do pronome com o nome («porque era um avatar quechava»); na fonte de 02/12/2023 (RC-414), «quechada». [REVISAR: as duas grafias são do bruto; **não** se unificam nem se corrigem em silêncio. → ENCERRADO 2026-09-06 · F039-L3 (D-a): quechava/quechada = STT de Keshava — ver nota]
-- **Outras formas da mesma linha de leitura:** «Krishno», «Krisno» (variantes de *Krishna* no bloco de U0020). A ficha materializada **não renomeia nada**: o canônico do cadastro é preservado e as formas entram como variantes datadas.
-
-
 ## Ampliação
 ### P2023-10-14 (A Esquecida Honra dos Anunnaki)
 
@@ -41,14 +34,11 @@ atualizado = "2026-08-29"
 
 - **[P2023-12-03 · KRISHNA COMO 'PRETENSO KESHAVA' NA FALA DE 03/12/2023]** «um avatar da sua categoria não era para sofrer o escândalo de uma maldição.» (U0007) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2023-10-14`); a entrada desta fonte é de **conteúdo**, não de data.
 
-## Fontes
-| Obra (sigla) | Capítulo | Página | Tipo (citação/paráfrase) |
-|---|---|---|---|
-| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra) | — | transcrição automatizada; citação |
-| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra) | — | transcrição automatizada; citação |
-| B036 | a preencher | — | paráfrase (registro do cadastro; página a conferir) |
-| P2024-11-30 | palestra | — | paráfrase (vínculo pré-existente do cadastro) |
-| P2025-02-16 | palestra | — | paráfrase (vínculo pré-existente do cadastro) |
+## Etimologia e Grafias
+
+- **Canônico da Base:** *Keshava* (epíteto de Vishnu/Krishna).
+- **Na fonte oral (P2023-10-14):** «**quechava**» — fusão de STT do pronome com o nome («porque era um avatar quechava»); na fonte de 02/12/2023 (RC-414), «quechada». [REVISAR: as duas grafias são do bruto; **não** se unificam nem se corrigem em silêncio. → ENCERRADO 2026-09-06 · F039-L3 (D-a): quechava/quechada = STT de Keshava — ver nota]
+- **Outras formas da mesma linha de leitura:** «Krishno», «Krisno» (variantes de *Krishna* no bloco de U0020). A ficha materializada **não renomeia nada**: o canônico do cadastro é preservado e as formas entram como variantes datadas.
 
 
 ## Termos Relacionados
@@ -76,3 +66,13 @@ atualizado = "2026-08-29"
 
 
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-425.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
+
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo (citação/paráfrase) |
+|---|---|---|---|
+| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra) | — | transcrição automatizada; citação |
+| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra) | — | transcrição automatizada; citação |
+| B036 | a preencher | — | paráfrase (registro do cadastro; página a conferir) |
+| P2024-11-30 | palestra | — | paráfrase (vínculo pré-existente do cadastro) |
+| P2025-02-16 | palestra | — | paráfrase (vínculo pré-existente do cadastro) |
+

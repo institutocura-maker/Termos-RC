@@ -18,9 +18,8 @@ Termo extraído e aprovado na curadoria de P2025-05-31.
 ## Contexto / Origem
 O Mistério da Árvore da Vida e a Urdidura de Metatron.
 
-## Etimologia e Grafias
-Forma preferida: Malkuth.
-
+## Citações-chave
+Ver transcrição.
 
 ## Ampliação
 ### P2025-05-31
@@ -55,15 +54,12 @@ Forma preferida: Malkuth.
 
 - **[P2023-12-03 · MALKUTH NA FALA DE 03/12/2023]** «a 10ma sefirado, quem é? É Sofia ou Rockban, que já existe, mas a exceção deste aqui, a exceção deste aqui e deste aqui, o resto não quer que ela seja os continue a ser o suzerano desse universo.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2023-04-15`); a entrada desta fonte é de **conteúdo**, não de data.
 
-## Fontes
-P2025-05-31.
-| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
-| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
+## Etimologia e Grafias
+Forma preferida: Malkuth.
 
 
-
-## Citações-chave
-Ver transcrição.
+## Seres Associados
+Consultar Base.
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -77,11 +73,15 @@ Ver transcrição.
 | Hochmah (2ª Sefirah — Sabedoria; = Sophia) | RC-565 | ← relaciona-se-a |
 | Yesod | RC-681 | — |
 
-## Seres Associados
-Consultar Base.
-
 ## Observações
 Teologia comparada e alegações científicas permanecem atribuídas ao palestrante.
 
 
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-682.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
+
+## Fontes
+P2025-05-31.
+| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
+| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
+
+

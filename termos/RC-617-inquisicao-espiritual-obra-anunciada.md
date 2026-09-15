@@ -18,10 +18,8 @@ Livro anunciado por Jan Val Ellam, destinado a tratar do Roseral do Alto e dos p
 ## Contexto / Origem
 Em 2021, o autor dizia tentar concluí-lo e não saber se conseguiria publicá-lo nessa vida.
 
-## Etimologia e Grafias
-- Grafia preferida: Inquisição Espiritual. Classificação: obra anunciada/em elaboração.
-- **Fonte de decisão:** Quadro 9 aprovado pelo curador.
-
+## Citações-chave
+> “Estou tentando concluir um livro que vai se chamar Inquisição Espiritual.” — P2021-12-04, U0610–U0632
 
 ## Ampliação
 ### P2021-12-04
@@ -40,16 +38,13 @@ Em 2021, o autor dizia tentar concluí-lo e não saber se conseguiria publicá-l
 - **[O livro Inquisição Trimurtiana e o retrogradar] (U0063)** «Eu nunca contei isso no livro Inquisição Trimurtiana, porque eu não tinha como contar na época e nem tenho como contar hoje falando um pouco nessa pal para ficar paraa posteridade e lá na frente a gente poder entender melhor.» — STT «Triburtiano» no corpo da palestra (sem emenda); o contexto: a conclusão do grupo espiritual de que é necessário retrogradar: "Vocês precisam, alguns de vocês, retrogradar, ou seja, voltar a condição dela, a gente isso tá sendo verificado." (U0063: «Vocês precisam, alguns de vocês, retrogradar, ou seja, voltar a condição dela, a gente isso tá sendo verificado.»); RC-617 Inquisição Espiritual (obra anunciada).
 
 
-## Fontes
-| Obra/palestra | Localização | Tipo |
-|---|---|---|
-| P2021-02-28 | Tragédia Anunciada - As Fórmulas Mentais do Poder Demo (palestra) | — | transcrição automatizada; citação |
-| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
-| P2021-12-04 — Os Archeons de Ereon e os Seres Adhy | U0610–U0632 | STT pré-curado e validado |
+## Etimologia e Grafias
+- Grafia preferida: Inquisição Espiritual. Classificação: obra anunciada/em elaboração.
+- **Fonte de decisão:** Quadro 9 aprovado pelo curador.
 
 
-## Citações-chave
-> “Estou tentando concluir um livro que vai se chamar Inquisição Espiritual.” — P2021-12-04, U0610–U0632
+## Seres Associados
+Consultar as relações tipadas acima.
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -58,11 +53,16 @@ Em 2021, o autor dizia tentar concluí-lo e não saber se conseguiria publicá-l
 | Nova Espiritualidade / Novo Paraíso (Paraíso B) | RC-612 | tema-de |
 | Roseral do Alto | RC-616 | ← tema-de |
 
-## Seres Associados
-Consultar as relações tipadas acima.
-
 ## Observações
 Registrado também como B079. Não há confirmação de publicação, editora ou título definitivo.
 
 **Regra de status:** permanece candidato por depender de transcrição automatizada sem áudio anexado.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
+## Fontes
+| Obra/palestra | Localização | Tipo |
+|---|---|---|
+| P2021-02-28 | Tragédia Anunciada - As Fórmulas Mentais do Poder Demo (palestra) | — | transcrição automatizada; citação |
+| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
+| P2021-12-04 — Os Archeons de Ereon e os Seres Adhy | U0610–U0632 | STT pré-curado e validado |
+

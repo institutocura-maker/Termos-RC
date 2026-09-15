@@ -18,11 +18,10 @@ atualizado = "2026-08-29"
 ## Contexto / Origem
 Termo do universo da Revelação Cósmica (presente nas obras primárias de Ellam e no glossário Raquyel, B031). No B057, a estirpe aparece na SINTESE da contracapa: o desassossego de Yel Luzbel foi "até então **nunca sentida pela estirpe dos biodemos**", espalhando-se "como uma espécie de 'vírus mental' para outros 'anjos' que apresentavam um tipo de mente coletiva" — e as perguntas dele "foram o estopim de conflitos e **modificações no genoma de alguns biodemos** que terminaram classificados como 'rebelados' pelas hostes celestiais que os exilaram daquele circuito cósmico". Os capelinos são **Biocoletivos** (RC-445): coletivos de biodemos. As famílias Yel (RC-442) e Mion (RC-443) são "coletivos de biodemos de Capela" (relações registradas em B058).
 
-## Etimologia e Grafias
-- **Grafia preferida:** Biodemos
-- **Variações:** "estirpe dos biodemos" (B057); biodemos (plural)
-- **Obs.:** não confundir com **Demos** (RC-049) — categoria/estirpe distinta na malha
+## Citações-chave
+> "Essa postura, até então **nunca sentida pela estirpe dos biodemos**, logo se espalhou como uma espécie de 'vírus mental' para outros 'anjos' que apresentavam um tipo de mente coletiva." — B057, SINTESE, p. 1
 
+> "A inquietação então sentida e as perguntas feitas, até então jamais respondidas, foram o estopim de conflitos e **modificações no genoma de alguns biodemos** que terminaram classificados como 'rebelados' pelas hostes celestiais que os exilaram daquele circuito cósmico." — B057, SINTESE, p. 1
 
 ## Ampliação
 ### B058 (A Revolta do Anjo Decaído)
@@ -100,31 +99,14 @@ Termo do universo da Revelação Cósmica (presente nas obras primárias de Ella
 - **[O ancestral das estrelas] (U0003)** «E esse ser chamado I Brasil terminou sendo com o tempo, tido como um Deus pelos seres humanos.» — Iel Brasil: "foi um dos poucos que foi tido como sendo digno de ser louvado pelos demais como um ancestral das estrelas, pois esse era um dos seus epítetos" — "uma espécie de semideus"; "ele passou a ser conhecido também como ser ancestral que distribuía benesso, benéces para a mente e benéces para o coração, ou seja, para o espírito. Seu nome mesclou-se com o próprio epíteto e mais tarde ele foi chamado de Deus Bres" (U0003: «Seu nome mesclou-se com o próprio epíteto e mais tarde ele foi chamado de Deus Bres.»).
 
 
-## Fontes
-| Obra (sigla) | Capítulo | Página | Tipo |
-|---|---|---|---|
-| P2022-09-25 | O Contexto Espiritual da Construção de Brasília (palestra) | — | transcrição automatizada; citação |
-| P2022-10-01 | A Wyrd e a Espiritualidade (palestra) | — | transcrição automatizada; citação |
-| P2023-08-27 | Len Mion e os Senhores da Terra Alexandre Magno e Qin Shi Huang Di (palestra) | — | transcrição automatizada; citação |
-| P2017-10-14 | Da Base Atlan ao Colégio Druídico (palestra) | — | transcrição automatizada; citação |
-| P2021-01-30 | A Mensagem TALM e os Fios Soltos do Destino (palestra) | — | transcrição automatizada; citação |
-| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra) | — | transcrição automatizada; citação |
-| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra) | — | transcrição automatizada; citação |
-| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra) | — | transcrição automatizada; citação |
-| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra) | — | transcrição automatizada; citação |
-| A Revolta do Anjo Decaído (B057) | SINTESE (contracapa) | p. 1 (PDF) | narrativa psicografada (Yel Luzbel/Jeane Miranda) |
-| A Revolta do Anjo Decaído (B057) | Caps. 1–2 | pp. 15–21 (PDF) | estirpe capelina; famílias; programação genética |
-| O Início da Revolta Capelina (B058) | — | — | famílias = coletivos de biodemos |
-| Glossário Raquyel (B031) e obras primárias (B001, B017–B018, B023, B039, B044, B050) | — | — | base do termo |
+## Etimologia e Grafias
+- **Grafia preferida:** Biodemos
+- **Variações:** "estirpe dos biodemos" (B057); biodemos (plural)
+- **Obs.:** não confundir com **Demos** (RC-049) — categoria/estirpe distinta na malha
 
 
-
-
-
-## Citações-chave
-> "Essa postura, até então **nunca sentida pela estirpe dos biodemos**, logo se espalhou como uma espécie de 'vírus mental' para outros 'anjos' que apresentavam um tipo de mente coletiva." — B057, SINTESE, p. 1
-
-> "A inquietação então sentida e as perguntas feitas, até então jamais respondidas, foram o estopim de conflitos e **modificações no genoma de alguns biodemos** que terminaram classificados como 'rebelados' pelas hostes celestiais que os exilaram daquele circuito cósmico." — B057, SINTESE, p. 1
+## Seres Associados
+Yel Luzbel (RC-078/RC-142, o primeiro a mutar); Sophia (RC-009, criador das famílias capelinas); Len Mion (RC-074).
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -162,12 +144,30 @@ Termo do universo da Revelação Cósmica (presente nas obras primárias de Ella
 | Forno de Awaymaion (forno de Vishnu; origem de Olm) | RC-499 | associado |
 | Cérebro Radiata | RC-631 | associado |
 
-## Seres Associados
-Yel Luzbel (RC-078/RC-142, o primeiro a mutar); Sophia (RC-009, criador das famílias capelinas); Len Mion (RC-074).
-
 ## Observações
 **Ficha criada no ciclo B057 (Devolutiva O-2, 2026-08-25)** — termo já constava da tabela-mestra (fontes B031 e demais obras) sem ficha física. **Quarentena ufológica (O-7):** estirpe extraterrestre de Capela — cruzar com as obras primárias de Ellam, não materializar como fato; a narrativa de B057 é psicografia (voz isolada de Yel Luzbel). 0 códigos novos (O-3).
 
 
 > Notas de processo: 4 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-036.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** os 2 trechos entre aspas desta ficha **não** resistem à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Só 1 dos 2 deixam vestígio no corpus. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo |
+|---|---|---|---|
+| P2022-09-25 | O Contexto Espiritual da Construção de Brasília (palestra) | — | transcrição automatizada; citação |
+| P2022-10-01 | A Wyrd e a Espiritualidade (palestra) | — | transcrição automatizada; citação |
+| P2023-08-27 | Len Mion e os Senhores da Terra Alexandre Magno e Qin Shi Huang Di (palestra) | — | transcrição automatizada; citação |
+| P2017-10-14 | Da Base Atlan ao Colégio Druídico (palestra) | — | transcrição automatizada; citação |
+| P2021-01-30 | A Mensagem TALM e os Fios Soltos do Destino (palestra) | — | transcrição automatizada; citação |
+| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra) | — | transcrição automatizada; citação |
+| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra) | — | transcrição automatizada; citação |
+| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra) | — | transcrição automatizada; citação |
+| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra) | — | transcrição automatizada; citação |
+| A Revolta do Anjo Decaído (B057) | SINTESE (contracapa) | p. 1 (PDF) | narrativa psicografada (Yel Luzbel/Jeane Miranda) |
+| A Revolta do Anjo Decaído (B057) | Caps. 1–2 | pp. 15–21 (PDF) | estirpe capelina; famílias; programação genética |
+| O Início da Revolta Capelina (B058) | — | — | famílias = coletivos de biodemos |
+| Glossário Raquyel (B031) e obras primárias (B001, B017–B018, B023, B039, B044, B050) | — | — | base do termo |
+
+
+
+

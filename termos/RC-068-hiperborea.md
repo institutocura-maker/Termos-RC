@@ -16,14 +16,9 @@ atualizado = "2026-09-12"
 
 Na RC, o **"Norte Sagrado"** — a região mítica do extremo norte (também **Norte Divino**, RC-083) para onde convergia a geografia sagrada da antiguidade: "toda a história da Terra é voltada pro chamado norte sagrado, não era pro sul".
 
-## Atualização
-### P2025-11-29 (A Revelação de Ifá)
+## Citações-chave
 
-- **1ª etapa da Revelação de Ifá:** "essa história começou na Hiperbórea, no Oriente Médio e foi bater no ocidente da África" — a primeira etapa (~11–14 mil anos atrás) se perdeu; os fatos anteriores a ~14.000 anos se perderam;
-- **Portais e geografia sagrada:** "os deuses do Olimpo saíam do Olimpo para ir para as cidades da Hiperbórea... porque lá era bom demais... o point, o lugar chique era essa Hiperbórea. Quando a Hiperbórea afundou, os descendentes desceram para a Irlanda, Escócia, Sibéria, Alasca";
-- **Portais do Orum** abriam-se preferencialmente para o norte (RC-454/RC-665) — novas arestas RC-068 ↔ RC-655, RC-068 ↔ RC-454;
-- Cronologia e geografia são **leitura do autor** (cronologia interna).
-
+> "Toda a história da Terra é voltada pro chamado norte sagrado, não era pro sul... era o norte sagrado por causa da Hiperbórea... o point, o lugar chique era essa Hiperbórea." — P2025-11-29
 
 ## Ampliação
 ### P2021-05-15 (As Etnias Hiperbóreas e os Anunnakis)
@@ -68,25 +63,14 @@ Na RC, o **"Norte Sagrado"** — a região mítica do extremo norte (também **N
 - **[os quatro objetos sagrados levados do hiperbório] (U0002 · chars 876–1113)** «os toatas de Danã, que há 14.000 anos atrás, quando saíram do hiperbório que havia sucumbido a certos cataclismas e chegaram no norte da Escócia, No norte da Irlanda, eles elevaram quatro objetos, entre aspas, sagrados para a cultura dos hiperbórios. O caldeirão do deus de Águeda, a lança do rei Lug, a espada do rei doado e o pedra falante.» — o espólio é **hiperbóreo por origem**: as quatro relíquias (Caldeirão de Dagda · Lança de Lugh · Espada de Nuada · Pedra do Destino/Fál, com a precisão mitográfica lida pela bússola F030 — detalhe na ficha RC-398) partem com os Tuatha quando o Norte afunda e fundam a "tradição que deu origem à mitologia céltica". A datação do episódio — **«há 14.000 anos atrás»** — casa com a entrada já registrada nesta ficha («a ida da Irlanda foi quando as terras hiperbolianas se ferraram 14.000 anos atrás», P2017-10-14) e com «~11–14 mil anos» (P2025-11-29); as datas "20 mil" (corpo) e "15 mil" (slide) do refatorado F030 **não foram adotadas** (ledger D-9).
 - **Trava (navalha mantida — decisão homologada em 05/09/2026):** nenhum código novo para as relíquias/Pedra de Scone; F030 não é fonte de citação.
 
-## Fontes
+## Atualização
+### P2025-11-29 (A Revelação de Ifá)
 
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2022-09-25 | O Contexto Espiritual da Construção de Brasília (palestra) | — | transcrição automatizada; citação |
-| P2022-10-01 | A Wyrd e a Espiritualidade (palestra) | — | transcrição automatizada; citação |
-| P2018-12-16 | Terra Atlantis - Era Sapiens (palestra) | — | transcrição automatizada; citação |
-| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
-| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
-| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
-| P2025-11-29 | bloco 5 (6 etapas); pergunta portais (norte sagrado) | palestra/STT pré-curada |
-| P2022-09-18 | bloco das relíquias hiperbóreas (U0002) | U0002 | transcrição automatizada; citação (vínculo aberto no cotejo F030, 05/09/2026) |
+- **1ª etapa da Revelação de Ifá:** "essa história começou na Hiperbórea, no Oriente Médio e foi bater no ocidente da África" — a primeira etapa (~11–14 mil anos atrás) se perdeu; os fatos anteriores a ~14.000 anos se perderam;
+- **Portais e geografia sagrada:** "os deuses do Olimpo saíam do Olimpo para ir para as cidades da Hiperbórea... porque lá era bom demais... o point, o lugar chique era essa Hiperbórea. Quando a Hiperbórea afundou, os descendentes desceram para a Irlanda, Escócia, Sibéria, Alasca";
+- **Portais do Orum** abriam-se preferencialmente para o norte (RC-454/RC-665) — novas arestas RC-068 ↔ RC-655, RC-068 ↔ RC-454;
+- Cronologia e geografia são **leitura do autor** (cronologia interna).
 
-
-
-
-## Citação-chave
-
-> "Toda a história da Terra é voltada pro chamado norte sagrado, não era pro sul... era o norte sagrado por causa da Hiperbórea... o point, o lugar chique era essa Hiperbórea." — P2025-11-29
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -108,3 +92,19 @@ Na RC, o **"Norte Sagrado"** — a região mítica do extremo norte (também **N
 
 Hiperbórea como "norte sagrado" é **leitura do autor** (cronologia interna + mitologia comparada) — sem validação histórica/arqueológica.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
+## Fontes
+
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2022-09-25 | O Contexto Espiritual da Construção de Brasília (palestra) | — | transcrição automatizada; citação |
+| P2022-10-01 | A Wyrd e a Espiritualidade (palestra) | — | transcrição automatizada; citação |
+| P2018-12-16 | Terra Atlantis - Era Sapiens (palestra) | — | transcrição automatizada; citação |
+| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
+| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
+| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
+| P2025-11-29 | bloco 5 (6 etapas); pergunta portais (norte sagrado) | palestra/STT pré-curada |
+| P2022-09-18 | bloco das relíquias hiperbóreas (U0002) | U0002 | transcrição automatizada; citação (vínculo aberto no cotejo F030, 05/09/2026) |
+
+
+

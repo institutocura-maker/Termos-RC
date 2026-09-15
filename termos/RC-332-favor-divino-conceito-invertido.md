@@ -18,11 +18,8 @@ O "favor divino" **invertido** — a tese central de *Favor Divino* (B048): os h
 ## Contexto / Origem
 A sinopse de B048 pergunta: "Afinal, existem favores divinos? E se tudo for ao contrário do que fomos acostumados a pensar?" O livro mostra que a "lavagem cerebral" que produziu a percepção dos "favores de Deus" "foi e ainda é parte de uma etapa necessária de um processo maior". O capítulo 10 (O Reconhecimento que nunca veio) conclui: "o Senhor Javé e toda a sua hierarquia deveriam ser gratos... porque somos nós quem promovemos o progresso necessário à redenção de todos eles e, em especial, a do próprio criador. Mas, aqui na Terra, é tudo ao contrário!"
 
-## Etimologia e Grafias
-- **Grafia preferida:** Favor Divino
-- **Variações:** o favor divino invertido; favor dos humanos ao Criador; "o favor divino" (provocação)
-- **Obs.:** o termo RC-063 (Favor Divino, título da obra) e RC-332 (conceito) se complementam — a ficha RC-063 trata do título/obra; esta trata do conceito.
-
+## Citações-chave
+> "O 'favor divino' que aqui utilizo tem como objetivo apenas o de provocar o entendimento do leitor. Afinal, como o meu ou de qualquer outro terráqueo que inevitavelmente sofre a 'lavagem cerebral' imposta pelas crenças vindas do passado equivocado, é mero produto de uma visão distorcida que foi promovida pelas 'revelações' ofertadas ao mundo." — B048, cap. 8
 
 ## Ampliação
 ### P2025-03-15
@@ -58,17 +55,25 @@ A sinopse de B048 pergunta: "Afinal, existem favores divinos? E se tudo for ao c
 - **[O espírito que tomou conta de uma parte podre] (U0004)** «que o espírito que anima hoje Rogério já animou vários outros eus entre Rogério e o primeiro momento em que ele pegou uma um código apodrecido do Criador para tomar conta é o favor divino.» — cada espírito, há bilhões de anos, pegou uma partezinha podre do criador e ficou responsável por ela "como se fosse uma célula das trilhões de células do corpo" — "é uma das faces do favor divino", o favor que esses espíritos fazem ao ser que não entende o próprio "câncer espiritual".
 
 
-## Fontes
-| Obra (sigla) | Capítulo | Página | Tipo |
-|---|---|---|---|
-| P2022-12-03 | O Ocaso do Criador e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
-| P2023-02-12 | A Desconexão dos Desígnios Proféticos do Judaísmo, do Cristianismo e do Islamismo (palestra) | — | transcrição automatizada; citação |
-| Favor Divino (B048) | caps. 8, 10 | pp. 60–75, 85–100 (aprox.) | tese central |
-| Painéis Emergentes (B031) | Glossário (Favor Divino) | — | apoio (secundária) |
-| P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | — |
+## Ampliação
+### P2024-03-02 (O Drama Espiritual de Jesus)
 
-## Citações-chave
-> "O 'favor divino' que aqui utilizo tem como objetivo apenas o de provocar o entendimento do leitor. Afinal, como o meu ou de qualquer outro terráqueo que inevitavelmente sofre a 'lavagem cerebral' imposta pelas crenças vindas do passado equivocado, é mero produto de uma visão distorcida que foi promovida pelas 'revelações' ofertadas ao mundo." — B048, cap. 8
+- **[Favor Divino — a humanidade como "salva-criador"]:** «A estatura moral humana superior à dos seres perfeitos» — «Mas aí chega Rogério Lia, cheia de defeitos, com um rastro de um monte de besteira, mas com estatura moral muito acima da Deus, porque eles foram criados perfeitos, não tem mérito nenhum pelos que são, mas nós mergulhamos no caos, nos sujamos, nos ferramos, fizemos o que no livro que eu produzi chamado favor divino, os nossos espíritos nos obrigaram a isso aqui e nós fizemos e ainda somos dignos.» — ver RC-063 (Favor Divino), RC-072 (Jesus).
+
+
+## Reforço
+### PIA / P2024-11-30
+
+O Favor Divino é ligado ao PIA: espíritos assumem cotas da condição informacional do Criador e os eus encarnados trabalham mutações/ressignificações que repercutiriam no todo.
+
+## Etimologia e Grafias
+- **Grafia preferida:** Favor Divino
+- **Variações:** o favor divino invertido; favor dos humanos ao Criador; "o favor divino" (provocação)
+- **Obs.:** o termo RC-063 (Favor Divino, título da obra) e RC-332 (conceito) se complementam — a ficha RC-063 trata do título/obra; esta trata do conceito.
+
+
+## Seres Associados
+Criador/Javé (RC-041/RC-001); Seres Terrenos (RC-099); Deidade (RC-047).
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -93,22 +98,17 @@ A sinopse de B048 pergunta: "Afinal, existem favores divinos? E se tudo for ao c
 | Bagagem Espiritual Intransferível | RC-751 | associado |
 | Agenda Espiritual | RC-752 | ← relaciona-se-a |
 
-## Seres Associados
-Criador/Javé (RC-041/RC-001); Seres Terrenos (RC-099); Deidade (RC-047).
-
 ## Observações
 Ficha baseada em B048 (obra primária) + B031. O Favor Divino é o conceito ético central do "drama": a humanidade como instrumento de cura do Criador. Cruzar com RC-063, RC-245 (Humanização do Criador) e RC-217 (DNA como projeção).
 
-## Reforço
-### PIA / P2024-11-30
-
-O Favor Divino é ligado ao PIA: espíritos assumem cotas da condição informacional do Criador e os eus encarnados trabalham mutações/ressignificações que repercutiriam no todo.
-
-## Ampliação
-### P2024-03-02 (O Drama Espiritual de Jesus)
-
-- **[Favor Divino — a humanidade como "salva-criador"]:** «A estatura moral humana superior à dos seres perfeitos» — «Mas aí chega Rogério Lia, cheia de defeitos, com um rastro de um monte de besteira, mas com estatura moral muito acima da Deus, porque eles foram criados perfeitos, não tem mérito nenhum pelos que são, mas nós mergulhamos no caos, nos sujamos, nos ferramos, fizemos o que no livro que eu produzi chamado favor divino, os nossos espíritos nos obrigaram a isso aqui e nós fizemos e ainda somos dignos.» — ver RC-063 (Favor Divino), RC-072 (Jesus).
-
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo |
+|---|---|---|---|
+| P2022-12-03 | O Ocaso do Criador e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
+| P2023-02-12 | A Desconexão dos Desígnios Proféticos do Judaísmo, do Cristianismo e do Islamismo (palestra) | — | transcrição automatizada; citação |
+| Favor Divino (B048) | caps. 8, 10 | pp. 60–75, 85–100 (aprox.) | tese central |
+| Painéis Emergentes (B031) | Glossário (Favor Divino) | — | apoio (secundária) |
+| P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | — |
 
 ## Fontes
 | Fonte | Localização | Tipo |

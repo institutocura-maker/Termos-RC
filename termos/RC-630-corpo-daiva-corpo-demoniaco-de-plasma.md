@@ -18,9 +18,8 @@ Veículo plasmático produzido no mergulho no universo antimaterial, associado �
 ## Contexto / Origem
 É descrito em Vishnu/Mohen So e contraposto aos corpos biológicos; inclui plasma, duplo etéreo e condições de manifestação.
 
-## Etimologia e Grafias
-- Grafia: Corpo Daiva / Corpo Demoníaco de Plasma.
-
+## Citações-chave
+> “Quem mergulha na criação antimaterial cria um corpo daiva, um corpo demoníaco de plasma.” — P2024-05-04
 
 ## Ampliação
 ### P2026-07-25
@@ -30,13 +29,12 @@ Veículo plasmático produzido no mergulho no universo antimaterial, associado �
 - **Daiva ≠ diabólico:** "não são diabólicos, são demoníacos no sentido de que seus corpos se metamorfoseiam".
 - **Formas de Javé (RC-001):** ígneo → daiva → Fenvã (RC-769) → biológicas (cuscuta, cefalópodes, dragonoide, humano).
 
-## Fontes
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2024-05-04 — Prabrajna em Perpérion / Simultaneidade Reversa | U0500–U0516; U1184–U1185 | PDF/transcrição pré-curada |
+## Etimologia e Grafias
+- Grafia: Corpo Daiva / Corpo Demoníaco de Plasma.
 
-## Citações-chave
-> “Quem mergulha na criação antimaterial cria um corpo daiva, um corpo demoníaco de plasma.” — P2024-05-04
+
+## Seres Associados
+Consultar relações acima.
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -53,11 +51,13 @@ Veículo plasmático produzido no mergulho no universo antimaterial, associado �
 | Extísicos (seres do universo vizinho, não biológicos, compostos de plasma) | RC-861 | associado |
 | Fórmulas Mentais (o código dos demos, contraposto ao DNA humano) | RC-870 | associado |
 
-## Seres Associados
-Consultar relações acima.
-
 ## Observações
 “Demoníaco” segue o uso RC relativo a demos, não o sentido moral religioso.
 
 Status candidato por depender de palestra e alegações ainda não cruzadas integralmente com obras primárias.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2024-05-04 — Prabrajna em Perpérion / Simultaneidade Reversa | U0500–U0516; U1184–U1185 | PDF/transcrição pré-curada |

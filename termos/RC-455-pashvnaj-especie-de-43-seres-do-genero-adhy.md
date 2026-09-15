@@ -18,10 +18,8 @@ Pashvnaj é uma das cinco espécies do Gênero Adhy. A palestra atribui à espé
 ## Contexto / Origem
 O problema que culminou na Criação Indevida é ligado a um pequeno subgrupo Pashvnaj de Perpérion. Prabrajna e Mavatna/Vishnu são associados a essa linhagem taxonômica.
 
-## Etimologia e Grafias
-- Grafia preferida: Pashvnaj. Variações de STT: vinage, fa vinagem, pasivagem. Grafia ainda deve ser conferida em áudio/obra primária.
-- **Fonte de decisão:** curadoria estrutural C-01 a C-07, 2026-08-14.
-
+## Citações-chave
+> “A espécie Pashvnaj, com 43 figuras, compõe essa rede.” — P2021-12-04, U0136–U0148; U0244–U0266
 
 ## Ampliação
 ### P2024-05-04-R
@@ -40,14 +38,20 @@ O problema que culminou na Criação Indevida é ligado a um pequeno subgrupo Pa
 
 - **[P2021-12-04 — FONTE ORIGINAL] Pashvnaj (U0158; U0290–U0295; U0279):** "a espécie Pashvnaj [STT 'vinage'] com 43 figuras que compõe essa rede" (U0158); "um pequeno subgrupo da espécie Pashvnaj [STT 'vinagem'] tivesse chegado a produzir uma reunião que não deveriam ter feito ou, segundo a perspectiva de lá, teria que ser feita... seria a última tentativa de ver se aquela independência da parte da mente de [Adhy] Prabrajna não iria adiante" (U0290–U0291); "há uma ponte entre esse espírito lá, entre o ser Adhy e a espécie Pashvnaj na condição laboratorial e uma ponte ligando tudo isso com todo o caos" (U0279).
 
-## Fontes
-| Obra/palestra | Localização | Tipo |
-|---|---|---|
-| P2021-12-04 — Os Archeons de Ereon e os Seres Adhy | U0136–U0148; U0244–U0266 | transcrição automatizada; pré-curadoria validada |
-| Fontes anteriores da Base | B060 | apoio/remissão |
+## Atualização
+### P2024-05-04
 
-## Citações-chave
-> “A espécie Pashvnaj, com 43 figuras, compõe essa rede.” — P2021-12-04, U0136–U0148; U0244–U0266
+- A espécie Pashvnaj é detalhada: 43 seres, circuito interno de 14 e vinte e poucas almas devido ao fatiamento.
+- Divergências e alegações científicas permanecem abertas/atribuídas à palestra.
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
+## Etimologia e Grafias
+- Grafia preferida: Pashvnaj. Variações de STT: vinage, fa vinagem, pasivagem. Grafia ainda deve ser conferida em áudio/obra primária.
+- **Fonte de decisão:** curadoria estrutural C-01 a C-07, 2026-08-14.
+
+
+## Seres Associados
+Ver relações acima e os nós Elm (RC-454), Olm (RC-092), Prabrajna (RC-152), Gênero Adhy (RC-411) e Seres LM (RC-456), conforme aplicável.
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -66,9 +70,6 @@ O problema que culminou na Criação Indevida é ligado a um pequeno subgrupo Pa
 | Reunião Operativa Mental dos 43 Pashvnaj | RC-629 | ← envolve |
 | Agar como 2ª Tentativa Fracassada de Fêmea para Adão | RC-817 | associado |
 
-## Seres Associados
-Ver relações acima e os nós Elm (RC-454), Olm (RC-092), Prabrajna (RC-152), Gênero Adhy (RC-411) e Seres LM (RC-456), conforme aplicável.
-
 ## Observações
 Correção C-05/C-06: Pashvnaj não é o gênero inteiro. É espécie de 43 dentro do Gênero Adhy de 147 seres e cinco espécies.
 
@@ -76,9 +77,8 @@ Correção C-05/C-06: Pashvnaj não é o gênero inteiro. É espécie de 43 dent
 
 ---
 
-## Atualização
-### P2024-05-04
-
-- A espécie Pashvnaj é detalhada: 43 seres, circuito interno de 14 e vinte e poucas almas devido ao fatiamento.
-- Divergências e alegações científicas permanecem abertas/atribuídas à palestra.
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+## Fontes
+| Obra/palestra | Localização | Tipo |
+|---|---|---|
+| P2021-12-04 — Os Archeons de Ereon e os Seres Adhy | U0136–U0148; U0244–U0266 | transcrição automatizada; pré-curadoria validada |
+| Fontes anteriores da Base | B060 | apoio/remissão |

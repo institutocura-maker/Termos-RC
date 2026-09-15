@@ -18,10 +18,8 @@ atualizado = "2026-08-29"
 ## Contexto / Origem
 É colocado na quarta era equinocial da cronologia apresentada.
 
-## Etimologia e Grafias
-- Grafia preferida: Mahabharata. STT: Marabarata, Marbarat, rabarata.
-- **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
-
+## Citações-chave
+> ““Vyasa e uma série de Rishis terminam promovendo a revelação do Mahabharata.”” — P2022-12-17, U0768–U0775; U0793
 
 ## Ampliação
 ### P2021-01-23
@@ -64,22 +62,13 @@ atualizado = "2026-08-29"
 
 - **[Mahabharata — as versões] (U0003)** «Só que na hora em que foi confeccionada uma rabarata em termos de organização estrutural, Viaza diz: "É, a história do Marrabarata eu tive que compor em algumas versões distintas, porque para os gandar que moram em determinada morada celeste, eu tive que fazer um compêndio de 3.» — o Mahabharata (STT "Marrabarata/rabarata") em versões distintas: 3,2 mi de versos (gandharvas), 1 mi (Devas), 100 mil (humanos, a versão conhecida).
 
-## Fontes
-| Obra/palestra | Localização | Tipo |
-|---|---|---|
-| P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
-| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
-| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
-| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
-| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
-| P2022-12-17 — O Incompreendido Ano de 2012 e a Falsa Noção do Fim do Mundo | U0768–U0775; U0793 | transcrição automatizada; paráfrase e citação |
+## Etimologia e Grafias
+- Grafia preferida: Mahabharata. STT: Marabarata, Marbarat, rabarata.
+- **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
 
 
-
-
-
-## Citações-chave
-> ““Vyasa e uma série de Rishis terminam promovendo a revelação do Mahabharata.”” — P2022-12-17, U0768–U0775; U0793
+## Seres Associados
+Vyasa (RC-585); Rishis (RC-586); Rama (avatar de Vishnu) (RC-584)
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -93,9 +82,6 @@ atualizado = "2026-08-29"
 | Rishis | RC-586 | ← relaciona-se-a |
 | Rishis | RC-586 | envolve |
 
-## Seres Associados
-Vyasa (RC-585); Rishis (RC-586); Rama (avatar de Vishnu) (RC-584)
-
 ## Observações
 Grafia e relevância no núcleo védico foram validadas pelo curador.
 
@@ -104,3 +90,17 @@ Grafia e relevância no núcleo védico foram validadas pelo curador.
 
 > Notas de processo: 2 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-593.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
+## Fontes
+| Obra/palestra | Localização | Tipo |
+|---|---|---|
+| P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
+| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
+| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
+| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
+| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
+| P2022-12-17 — O Incompreendido Ano de 2012 e a Falsa Noção do Fim do Mundo | U0768–U0775; U0793 | transcrição automatizada; paráfrase e citação |
+
+
+
+

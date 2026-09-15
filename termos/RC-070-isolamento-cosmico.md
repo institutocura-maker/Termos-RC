@@ -18,11 +18,6 @@ atualizado = "2026-08-29"
 ## Contexto / Origem
 O Isolamento Cósmico é o **fim do período da Rebelião de Lúcifer** e a condição que explica a ausência de contato oficial com ETs. Sua superação inicia a Reintegração Cósmica da Terra.
 
-## Etimologia e Grafias
-- **Grafia preferida:** Isolamento Cósmico
-- **Variações:** isolamento do orbe terrestre; exílio cósmico
-
-
 ## Ampliação
 ### P2024-07-13
 
@@ -79,6 +74,40 @@ O Isolamento Cósmico é o **fim do período da Rebelião de Lúcifer** e a cond
 - **[P2022-03-26 · ISOLAMENTO CÓSMICO NA FALA DE 26/03/2022]** "Na época ficaram isolados 19 mundos. A Terra era só um desses mundos." (U0009) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
 ---
 
+## Ampliação
+### P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+
+- **[P2023-12-03 · ISOLAMENTO CÓSMICO NA FALA DE 03/12/2023]** «distribuíram nesses 19 mundos situados em vários sistemas.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
+
+---
+
+### P2024-03-17
+
+**Fonte:** palestra «A Quem Pertence o Planeta e a Biblioteca Genômica Mais Atualizada do Universo» (17/03/2024).
+
+**Trecho verbatim:** «Agora, a invasão extraterrestre de fato está vendo é terrível, ainda nem começou e isso pode se dar em dias futuros de forma amigável ou de uma forma muito desagradável. Tudo isso porque Sofia não cumpre o que se chama palavra que ele mesmo deu devido às confusões que rola com Krishna, com Zeus, aí é palhaçada que não tem fim.»
+
+### P2024-02-04
+
+**Fonte:** palestra «A Falsa Queda do Ser Humano e a Indignidade Entronizada como Religião» (04/02/2024).
+
+**Trecho verbatim:** «Por quê? Porque todas as forças que convergem pra disputa da Suzirania Universal disputam agora o que se passa na Terra, já que a Terra terminou sendo Point, o centro de convergência, de encontro de toda essa porcalhada. Jesus, Maomé, Cristo, blá blá blá. Não foram para outros mundos, só nasceram aqui na Terra, porque a Terra foi transformada num espécie de point interdimensional e os DNA dos humanos é o mais novo DNA surgido no âmbito dessa obra de 13.8 bilhões.»
+
+## Atualização
+### P2022-12-17
+
+- **Fonte:** palestra *O Incompreendido Ano de 2012 e a Falsa Noção do Fim do Mundo* — unidades U0862–U0881.
+- **Contexto acrescentado:** O Isolamento Cósmico é descrito como condição que deverá terminar com a chegada de Sophia e a Reintegração da Terra.
+- **Status da evidência:** transcrição automatizada, pré-curada e validada terminologicamente pelo curador; conferir com áudio/obra primária antes de promoção de status.
+---
+---
+---
+
+## Etimologia e Grafias
+- **Grafia preferida:** Isolamento Cósmico
+- **Variações:** isolamento do orbe terrestre; exílio cósmico
+
+
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
@@ -103,32 +132,3 @@ O Isolamento Cósmico é o **fim do período da Rebelião de Lúcifer** e a cond
 | Qualia como Processamento Humano | RC-894 | associado |
 | Point Interdimensional | RC-896 | associado |
 | Choque de Realidade | RC-898 | associado |
-
-## Atualização
-### P2022-12-17
-
-- **Fonte:** palestra *O Incompreendido Ano de 2012 e a Falsa Noção do Fim do Mundo* — unidades U0862–U0881.
-- **Contexto acrescentado:** O Isolamento Cósmico é descrito como condição que deverá terminar com a chegada de Sophia e a Reintegração da Terra.
-- **Status da evidência:** transcrição automatizada, pré-curada e validada terminologicamente pelo curador; conferir com áudio/obra primária antes de promoção de status.
----
----
----
-
-## Ampliação
-### P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
-
-- **[P2023-12-03 · ISOLAMENTO CÓSMICO NA FALA DE 03/12/2023]** «distribuíram nesses 19 mundos situados em vários sistemas.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
-
----
-
-### P2024-03-17
-
-**Fonte:** palestra «A Quem Pertence o Planeta e a Biblioteca Genômica Mais Atualizada do Universo» (17/03/2024).
-
-**Trecho verbatim:** «Agora, a invasão extraterrestre de fato está vendo é terrível, ainda nem começou e isso pode se dar em dias futuros de forma amigável ou de uma forma muito desagradável. Tudo isso porque Sofia não cumpre o que se chama palavra que ele mesmo deu devido às confusões que rola com Krishna, com Zeus, aí é palhaçada que não tem fim.»
-
-### P2024-02-04
-
-**Fonte:** palestra «A Falsa Queda do Ser Humano e a Indignidade Entronizada como Religião» (04/02/2024).
-
-**Trecho verbatim:** «Por quê? Porque todas as forças que convergem pra disputa da Suzirania Universal disputam agora o que se passa na Terra, já que a Terra terminou sendo Point, o centro de convergência, de encontro de toda essa porcalhada. Jesus, Maomé, Cristo, blá blá blá. Não foram para outros mundos, só nasceram aqui na Terra, porque a Terra foi transformada num espécie de point interdimensional e os DNA dos humanos é o mais novo DNA surgido no âmbito dessa obra de 13.8 bilhões.»

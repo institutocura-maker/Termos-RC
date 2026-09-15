@@ -18,10 +18,8 @@ Texto sagrado zoroástrico citado na palestra como fonte da narrativa de Yima e 
 ## Contexto / Origem
 Aparece no diálogo com as eras culturais de Rudolf Steiner e com a cronologia de cataclismos do final da era glacial.
 
-## Etimologia e Grafias
-- Grafia preferida: Avesta. STT: AESTA, a vesta.
-- **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
-
+## Citações-chave
+> ““O Avesta [...] tem certas passagens [...] que falam de Yima.”” — P2022-12-17, U0612–U0616
 
 ## Ampliação
 ### P2022-12-17
@@ -35,13 +33,13 @@ Aparece no diálogo com as eras culturais de Rudolf Steiner e com a cronologia d
 - **[P2023-05-20 · ZOROASTRO PROCUROU ROGÉRIO]** ⚠️ [quarentena biomediúnica] "**EU TIVE O PRIVILÉGIO UMA VEZ DE TER SIDO PROCURADO POR ELE**... nada do que ele me pediu eu consegui fazer, porque ele queria exatamente... ENVOLVER NO OCIDENTE AS INTERPRETAÇÕES DE ZEND AVESTA, ATUALIZAR. Eu até disse que ia fazer, MAS NUNCA FIZ NADA E NÃO VOU FAZER MESMO. Não sei se outro alguém fará."
 - 0 códigos novos (O-3).
 
-## Fontes
-| Obra/palestra | Localização | Tipo |
-|---|---|---|
-| P2022-12-17 — O Incompreendido Ano de 2012 e a Falsa Noção do Fim do Mundo | U0612–U0616 | transcrição automatizada; paráfrase e citação |
+## Etimologia e Grafias
+- Grafia preferida: Avesta. STT: AESTA, a vesta.
+- **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
 
-## Citações-chave
-> ““O Avesta [...] tem certas passagens [...] que falam de Yima.”” — P2022-12-17, U0612–U0616
+
+## Seres Associados
+Yima (RC-590)
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -52,11 +50,13 @@ Aparece no diálogo com as eras culturais de Rudolf Steiner e com a cronologia d
 | Yima | RC-590 | inclui |
 | Atualização das Revelações Anteriores | RC-656 | associado |
 
-## Seres Associados
-Yima (RC-590)
-
 ## Observações
 Cadastro acrescentado por validação explícita do curador, que reconheceu o texto como parte do núcleo de conexões zoroástricas usado por Ellam.
 
 **Regra de status:** permanece ⚪ candidato porque a fonte é STT sem áudio anexado. A aprovação do curador valida a modelagem terminológica, não substitui a futura conferência com áudio ou obra primária.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
+## Fontes
+| Obra/palestra | Localização | Tipo |
+|---|---|---|
+| P2022-12-17 — O Incompreendido Ano de 2012 e a Falsa Noção do Fim do Mundo | U0612–U0616 | transcrição automatizada; paráfrase e citação |

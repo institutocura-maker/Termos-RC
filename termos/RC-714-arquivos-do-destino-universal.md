@@ -18,21 +18,6 @@ Conjunto de arquivos contendo Informações Vivas relativas à origem, peso ance
 ## Contexto / Origem
 Moros teria criado os arquivos após diagnosticar o PIA e perceber que seu conhecimento seria usado pela Trimurti para dominação e guerra. Os registros foram criptografados para decifração futura por mentes ligadas à codificação original.
 
-## Estrutura
-
-- Informações Vivas — RC-715;
-- PIA — RC-716;
-- processador Wyrd/Urd — RC-658;
-- Moiras/Nornes — RC-467;
-- três cápsulas/flechas — RC-611;
-- abertura progressiva por revelações;
-- cumprimento pela Revelação Cósmica — RC-718.
-
-## Fontes
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2024-11-30 | U0050–U0064; U0283–U0320; U0571–U0573; U0831–U0845; U1326–U1335 | palestra/STT |
-
 ## Citações-chave
 > “Moros atirou três arquivos atemporais para um futuro incerto.”
 
@@ -64,3 +49,18 @@ Moros teria criado os arquivos após diagnosticar o PIA e perceber que seu conhe
 - Tarô, Runas e I Ching aparecem no eBook de IA, mas não foram validados nesta fonte.
 - O eBook não é fonte canônica.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2024-11-30 | U0050–U0064; U0283–U0320; U0571–U0573; U0831–U0845; U1326–U1335 | palestra/STT |
+
+## Estrutura
+
+- Informações Vivas — RC-715;
+- PIA — RC-716;
+- processador Wyrd/Urd — RC-658;
+- Moiras/Nornes — RC-467;
+- três cápsulas/flechas — RC-611;
+- abertura progressiva por revelações;
+- cumprimento pela Revelação Cósmica — RC-718.

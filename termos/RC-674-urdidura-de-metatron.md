@@ -18,9 +18,8 @@ Termo extraído e aprovado na curadoria de P2025-05-31.
 ## Contexto / Origem
 O Mistério da Árvore da Vida e a Urdidura de Metatron.
 
-## Etimologia e Grafias
-Forma preferida: Urdidura de Metatron.
-
+## Citações-chave
+Ver transcrição.
 
 ## Ampliação
 ### P2026-07-25
@@ -34,11 +33,12 @@ Forma preferida: Urdidura de Metatron.
 - **Cartório do genoma:** "o genoma de Enoque serviu como cartório para o registro de uma aposta feita entre os três seres".
 - **Fio de novelo:** a urdidura de Enoque como "fio de novelo meio esculhambado" das revelações progressivas; "Enoque explicou ao mundo a agenda dos últimos 15.000 anos... tudo isso faz parte de um processo urdido lá atrás. Só acaba com a chegada de Malkuth/Hochmah/Sophia.
 
-## Fontes
-P2025-05-31.
+## Etimologia e Grafias
+Forma preferida: Urdidura de Metatron.
 
-## Citações-chave
-Ver transcrição.
+
+## Seres Associados
+Consultar Base.
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -55,8 +55,8 @@ Ver transcrição.
 | Metatron | RC-671 | ← relaciona-se-a |
 | Metatron | RC-671 | relaciona-se-a |
 
-## Seres Associados
-Consultar Base.
-
 ## Observações
 Teologia comparada e alegações científicas permanecem atribuídas ao palestrante.
+
+## Fontes
+P2025-05-31.

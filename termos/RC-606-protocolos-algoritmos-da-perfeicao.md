@@ -18,10 +18,8 @@ Padrões originais que manteriam os seres paradisíacos dentro da perfeição, s
 ## Contexto / Origem
 A saída desses protocolos permitiria a incompletude, a criatividade e os riscos das faixas derivadas.
 
-## Etimologia e Grafias
-- Grafia preferida: Protocolos / Algoritmos da Perfeição.
-- **Fonte de decisão:** Quadro 9 aprovado pelo curador.
-
+## Citações-chave
+> “Diferentes daquela que era protocolada pelos algoritmos da perfeição.” — P2021-12-04, U0045–U0048; U0153–U0176; U0185; U0376–U0378
 
 ## Ampliação
 ### P2023-04-01b (O Quarto Logos e seus Agentes)
@@ -30,14 +28,19 @@ A saída desses protocolos permitiria a incompletude, a criatividade e os riscos
 - **[P2023-04-01b · A DISNEILÂNDIA]** "em outros universos construídos a partir do paraíso espiritual incriado, NINGUÉM NASCE E MORRE, TODO MUNDO ENTRA E SAI... VOCÊ NÃO PERDE A NOÇÃO DE QUEM VOCÊ É. ISSO É DIGNO" [o contraste com a erraticidade improvisada deste universo].
 - 0 códigos novos (O-3). Quarentena: a narrativa como fofoca/metafísica da RC.
 
-## Fontes
-| Obra/palestra | Localização | Tipo |
-|---|---|---|
-| P2021-12-04 — Os Archeons de Ereon e os Seres Adhy | U0045–U0048; U0153–U0176; U0185; U0376–U0378 | STT pré-curado e validado |
-| P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — |
+## Ampliação
+### P2024-03-02 (O Drama Espiritual de Jesus)
 
-## Citações-chave
-> “Diferentes daquela que era protocolada pelos algoritmos da perfeição.” — P2021-12-04, U0045–U0048; U0153–U0176; U0185; U0376–U0378
+- **[Protocolos da Completude/Perfeição — eu imutável do paraíso]:** «Lá só existem almas e o eu dessa alma é um eu diferente do nosso. O eu dessa alma é um eu extremamente doce, extremamente puro, belo [...] a gente pode chamar de perfeito, de completo. São chamados protocolos da completude que funcionam aí, ou os protocolos da perfeição.» — «Esse eu aqui é imutável. Ele não sabe ser um eu diferente desse. Nós humanos temos sensações de raiva, de medo, de felicidade, de desgosto, de orgasmo, de alegria, de terror [...] O eu do paraíso, ele é operado pela perfeição do paraíso. Ele não pode ser diferente. Ele é imutável.» — ver RC-204 (Realidade Maior/Paraíso Original).
+
+
+## Etimologia e Grafias
+- Grafia preferida: Protocolos / Algoritmos da Perfeição.
+- **Fonte de decisão:** Quadro 9 aprovado pelo curador.
+
+
+## Seres Associados
+Consultar as relações tipadas acima.
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -54,19 +57,16 @@ A saída desses protocolos permitiria a incompletude, a criatividade e os riscos
 | Corpo Manásico / Corpo Mental | RC-625 | associado |
 | Instabilidade da Eternidade | RC-648 | associado |
 
-## Seres Associados
-Consultar as relações tipadas acima.
-
 ## Observações
 Relacionar a Liberdade Mental como contraponto, sem simplificar a cosmologia.
 
 **Regra de status:** permanece candidato por depender de transcrição automatizada sem áudio anexado.
 
-## Ampliação
-### P2024-03-02 (O Drama Espiritual de Jesus)
-
-- **[Protocolos da Completude/Perfeição — eu imutável do paraíso]:** «Lá só existem almas e o eu dessa alma é um eu diferente do nosso. O eu dessa alma é um eu extremamente doce, extremamente puro, belo [...] a gente pode chamar de perfeito, de completo. São chamados protocolos da completude que funcionam aí, ou os protocolos da perfeição.» — «Esse eu aqui é imutável. Ele não sabe ser um eu diferente desse. Nós humanos temos sensações de raiva, de medo, de felicidade, de desgosto, de orgasmo, de alegria, de terror [...] O eu do paraíso, ele é operado pela perfeição do paraíso. Ele não pode ser diferente. Ele é imutável.» — ver RC-204 (Realidade Maior/Paraíso Original).
-
+## Fontes
+| Obra/palestra | Localização | Tipo |
+|---|---|---|
+| P2021-12-04 — Os Archeons de Ereon e os Seres Adhy | U0045–U0048; U0153–U0176; U0185; U0376–U0378 | STT pré-curado e validado |
+| P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — |
 
 ## Fontes
 | Fonte | Localização | Tipo |

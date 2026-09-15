@@ -15,14 +15,8 @@ atualizado = "2026-08-15"
 ## Definição Sintética
 Arquitetura tripla da condição humana: faísca divina que sustenta, faísca genômica que movimenta por necessidades e faísca do eu humano que pode despertar o Eu Profundo e agir além do primeiro impulso.
 
-## As três faíscas
-
-1. **Faísca divina:** Corpo Átmico, inviolável, sustenta a consciência;
-2. **Faísca genômica:** código herdado da condição do Criador, movimenta necessidades e primeiro impulso;
-3. **Faísca do eu humano:** autoconsciência capaz de observar, escolher e despertar o Eu Profundo.
-
-A fala admite faíscas adicionais construídas na vida interior, mas sem taxonomia fechada.
-
+## Citações-chave
+> “Tem uma terceira faísca, que é o seu eu humano, que quer despertar o Eu Profundo.”
 
 ## Ampliação
 ### P2024-11-30
@@ -35,14 +29,6 @@ A fala admite faíscas adicionais construídas na vida interior, mas sem taxonom
 ### P2024-07-14
 
 - **[P2024-07-14] A semente e a ponte (U0905–U0925):** "Deus, esse ser perfeito, ele deu a semente dele para estruturar a constituição septenária de cada ser individualizado; ele pulsa o tempo inteiro. Mas, se o eu desse cérebro não perceber, se o eu transitório não perceber a fragrância desse ser, que está lá no seu íntimo, ele vai continuar existindo, mas o seu eu nunca vai estabelecer uma ponte com ele"; "primeiro você precisa compreender, identificar isso aqui, ser o seu eu, o gestor de todos os arquivos disso aqui. Esse eu humano tem que se tornar um svami [STT: 'suami'], ou seja, alguém unificado com o eu espiritual produzido pelos corpos búdico e manásico"; "o eu do espírito e o eu humano funcionam como dois polos... ou sendo parceiros de um processo. As religiões não sabem bulhufas a respeito disso. Só as disciplinas de meditação budista, as linhas do yoga tradicional, coisas como Mentalma".
-
-## Fontes
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2024-11-30 | U1445–U1500 | perguntas e respostas/STT |
-
-## Citações-chave
-> “Tem uma terceira faísca, que é o seu eu humano, que quer despertar o Eu Profundo.”
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -65,3 +51,17 @@ A fala admite faíscas adicionais construídas na vida interior, mas sem taxonom
 ## Observações
 A arquitetura é doutrinária e não modelo reconhecido da neurociência ou genética.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2024-11-30 | U1445–U1500 | perguntas e respostas/STT |
+
+## As três faíscas
+
+1. **Faísca divina:** Corpo Átmico, inviolável, sustenta a consciência;
+2. **Faísca genômica:** código herdado da condição do Criador, movimenta necessidades e primeiro impulso;
+3. **Faísca do eu humano:** autoconsciência capaz de observar, escolher e despertar o Eu Profundo.
+
+A fala admite faíscas adicionais construídas na vida interior, mas sem taxonomia fechada.
+

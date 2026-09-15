@@ -18,10 +18,8 @@ Nova configuração genética surgida nos núcleos edênicos: os pequenos grupos
 ## Contexto / Origem
 A Genética da Confiança é o contraponto do **Germe da Desconfiança** (RC-244): "a dificuldade insuperável — que perdurou por cerca de 3 bilhões de anos desde o surgimento da molécula-mãe no planeta — dos seres unicelulares terrestres se reunirem para formar um corpo pluricelular, tem a ver exatamente com o germe da desconfiança herdado do modo de ser do Criador". A genética da confiança é o que tornou possível a cooperação celular, a vida pluricelular e, mais tarde, o amor humano — instrumento de redenção do Criador.
 
-## Etimologia e Grafias
-- **Grafia preferida:** Genética da Confiança
-- **Variações:** efeito confiança; configuração genética da confiança; genética do amor
-
+## Citações-chave
+> "Esses pequenos grupos de humanos, que aqui estou chamando de laboratórios, eram extremamente ricos em termos da nova configuração da genética da confiança, base do que os terráqueos entendem como atração, desejo e amor." — B015, cap. 10
 
 ## Ampliação
 ### B040 (Homo Sapiens: da Guerra ao Esporte)
@@ -30,13 +28,13 @@ A Genética da Confiança é o contraponto do **Germe da Desconfiança** (RC-244
 - **[B040 p. 18–19]** hormônio da confiança (oxitocina) e “genes da gentileza” tornam possível “direcionar a sua força para a prática esportiva saudável.” **Quarentena científica** (oxitocina/OXTR = citação, não validação).
 - **[B040 p. 40]** a espécie passa da “desconfiança absoluta” à confiança na hierarquia (exército) — marco psicológico, não ontologia militar. Sem fusão com B015. RC-244 permanece **sem ficha**. Fonte **B040** acrescentada na tabela-mestra.
 
-## Fontes
-| Obra (sigla) | Capítulo | Página | Tipo |
-|---|---|---|---|
-| O Guardião do Éden (B015) | cap. 10 (O Éden do Criador) | pp. 60–70 (aprox.) | conceito central |
+## Etimologia e Grafias
+- **Grafia preferida:** Genética da Confiança
+- **Variações:** efeito confiança; configuração genética da confiança; genética do amor
 
-## Citações-chave
-> "Esses pequenos grupos de humanos, que aqui estou chamando de laboratórios, eram extremamente ricos em termos da nova configuração da genética da confiança, base do que os terráqueos entendem como atração, desejo e amor." — B015, cap. 10
+
+## Seres Associados
+Seres Terrenos (RC-099); Criador (RC-041); Adão e Eva (RC-189).
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -51,9 +49,11 @@ A Genética da Confiança é o contraponto do **Germe da Desconfiança** (RC-244
 | Ressonância límbica (emoções como tecnologia cósmica) | RC-529 | associado |
 | Vacina do Amor (ancoragem de Jesus no CFD) | RC-532 | associado |
 
-## Seres Associados
-Seres Terrenos (RC-099); Criador (RC-041); Adão e Eva (RC-189).
-
 ## Observações
 Ficha baseada em B015 (obra primária). Conceito-chave para entender a especificidade humana nas RC: o amor/confiança como "novidade genética" que supera o padrão do Criador. Cruzar com RC-244 e com o "Favor Divino" (RC-063).
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo |
+|---|---|---|---|
+| O Guardião do Éden (B015) | cap. 10 (O Éden do Criador) | pp. 60–70 (aprox.) | conceito central |

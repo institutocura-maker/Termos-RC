@@ -16,13 +16,11 @@ atualizado = "2026-09-07"
 
 Na RC, os seres gerados pela Criação Indevida (RC-167) como **instrumentos do criador** — "ferramentas" vivas usadas por estirpe/espécie, sem consideração individual. A humanidade é a criatura-ferramenta por excelência de Javé.
 
-## Atualização
-### P2021-03-27
+## Citações-chave
 
-- **Javé e as criaturas-ferramenta:** "Javé sempre usou desgraçadamente as suas criaturas-ferramenta por estirpe, por espécie, sem a menor preocupação" (bloco 1 — contexto do "ao vencedor as batatas", RC-764);
-- **Humanos como batatas:** a metáfora do paradigma do domínio — humanos são as "batatas" consumidas pelo vencedor (RC-764);
-- A humanidade como criatura-ferramenta útil quando "dominada" — lucidez/tirocínio útil aos deuses que a dominavam.
+> "Javé sempre usou desgraçadamente as suas criaturas-ferramenta por estirpe, por espécie, sem a menor preocupação." — P2021-03-27
 
+*Ocorrência referenciada apenas estruturalmente (índices/listas) nas obras-fonte processadas até o momento. Aguardando processamento de prosa descritiva.*
 
 ## Ampliação
 ### P2025-05-31
@@ -48,15 +46,22 @@ Na RC, os seres gerados pela Criação Indevida (RC-167) como **instrumentos do 
 - **[B035 p. 15]** as criaturas, «por serem meras extensões e ferramentas dele, receberiam as suas ordens, e agiriam no sentido de alimentá-lo com as atitudes por ele ordenadas».
 - Sem materializar RC-019. Sem fusão com B019 / B024. Fonte **B035** já constava na tabela-mestra.
 
-## Fontes
+## Atualização
+### P2021-03-27
 
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2021-03-27 | bloco 1 (Quincas Borba/batatas); bloco 6 (Javé e Abraão) | palestra/STT pré-curada |
+- **Javé e as criaturas-ferramenta:** "Javé sempre usou desgraçadamente as suas criaturas-ferramenta por estirpe, por espécie, sem a menor preocupação" (bloco 1 — contexto do "ao vencedor as batatas", RC-764);
+- **Humanos como batatas:** a metáfora do paradigma do domínio — humanos são as "batatas" consumidas pelo vencedor (RC-764);
+- A humanidade como criatura-ferramenta útil quando "dominada" — lucidez/tirocínio útil aos deuses que a dominavam.
 
-## Citação-chave
 
-> "Javé sempre usou desgraçadamente as suas criaturas-ferramenta por estirpe, por espécie, sem a menor preocupação." — P2021-03-27
+## Atualização
+### P2025-11-29 (A Revelação de Ifá e o Destino dos Seres)
+
+- **Nós como manipulação de códigos:** "eles foram manipulando códigos e nós somos a manipulação de códigos que lá atrás um ser chamado Moros... conseguiram codificar sobre a forma de gene no tempo em que a vida veio pro universo biológico" (RC-454);
+- A humanidade como "cobaia" de experiências: "o espírito é um instrumento, é um agente também, é uma cobaia de experiências que ele vai reunindo na sua mente eterna" (contexto RC-767).
+
+
+---
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -75,14 +80,17 @@ Na RC, os seres gerados pela Criação Indevida (RC-167) como **instrumentos do 
 | Agenda Espiritual | RC-752 | ← relaciona-se-a |
 | Ao Vencedor as Batatas (paradigma do domínio) | RC-764 | ← relaciona-se-a |
 
-## Atualização
-### P2025-11-29 (A Revelação de Ifá e o Destino dos Seres)
+## Observações
 
-- **Nós como manipulação de códigos:** "eles foram manipulando códigos e nós somos a manipulação de códigos que lá atrás um ser chamado Moros... conseguiram codificar sobre a forma de gene no tempo em que a vida veio pro universo biológico" (RC-454);
-- A humanidade como "cobaia" de experiências: "o espírito é um instrumento, é um agente também, é uma cobaia de experiências que ele vai reunindo na sua mente eterna" (contexto RC-767).
+### Remissiva C6 (despacho 2.6 — 12/09/2026)
+Homônimo no cadastro: **RC-449** — Criaturas-ferramenta (verificado). Mesmo nome e categoria; dossiês independentes com faces próprias (6.293c × 3.838c, similaridade 0.42).
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
 
+## Fontes
 
----
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2021-03-27 | bloco 1 (Quincas Borba/batatas); bloco 6 (Javé e Abraão) | palestra/STT pré-curada |
 
 ## Absorção de RC-449 — F045 · 07/09/2026
 
@@ -120,11 +128,3 @@ verbete fica preservado abaixo.
   instante... ele dá a vida dele por alguém que ele ama. Ponto. Ninguém nesses 13,8
   bilhões de anos consegue fazer isso no paraíso» — o diferencial humano como
   ferramenta de ressignificação.
-## Citações-chave
-*Ocorrência referenciada apenas estruturalmente (índices/listas) nas obras-fonte processadas até o momento. Aguardando processamento de prosa descritiva.*
-
-## Observações
-
-### Remissiva C6 (despacho 2.6 — 12/09/2026)
-Homônimo no cadastro: **RC-449** — Criaturas-ferramenta (verificado). Mesmo nome e categoria; dossiês independentes com faces próprias (6.293c × 3.838c, similaridade 0.42).
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

@@ -38,6 +38,15 @@ A ficha de RC-310 registra o uso em «Inquisição Trimurtiana» (B022, Introdu�
 - RC-094 — ver ficha correspondente
 - RC-604 — ver ficha correspondente
 
+## Observações
+Verbete-ponte entre a filologia (Volume I) e a cadeia do Criador (Volume III). A Base mantém as três grafias em códigos distintos de propósito: são entradas diferentes da mesma identidade, e é isso que o estudante precisa ver.
+
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-410.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
+
+
+[Aguardando Ditado Livre]
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
@@ -47,12 +56,3 @@ A ficha de RC-310 registra o uso em «Inquisição Trimurtiana» (B022, Introdu�
 | P2024-05-04 | — | registro-mestre (fonte censada) |
 | P2025-02-16 | — | registro-mestre (fonte censada) |
 | P2024-11-30 | — | registro-mestre (fonte censada) |
-
-## Observações
-Verbete-ponte entre a filologia (Volume I) e a cadeia do Criador (Volume III). A Base mantém as três grafias em códigos distintos de propósito: são entradas diferentes da mesma identidade, e é isso que o estudante precisa ver.
-
-
-> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-410.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
-
-
-[Aguardando Ditado Livre]

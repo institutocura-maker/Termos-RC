@@ -28,10 +28,12 @@ Com isso:
 
 **Origem do conteúdo da ampliação:** palestra `P2017-10-14 — Da Base Atlan ao Colégio Druídico` (14/10/2017). Transcrição automatizada, **não conferida com o áudio**; cada aspa foi recortada do `original.txt` pelo índice de âncoras do motor e conferida byte a byte pelo portão B. Nada foi digitado de memória.
 
-## Observações sobre o Estado da Malha
+## Citações-chave
 
-* **Grafia STT:** 'milesanos' = Milésios. Herdaram o conhecimento druídico e fundaram as origens do Colégio.
-* **Trava aplicável**: nenhuma além das gerais do despacho.
+> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+
+- «Então, o conhecimento que eles trouxeram quando os milesanos herdavam o conhecimento deste terreno, eles meio que chamaram isso de conhecimento de inclusezianos lá na Irlanda e depois lá na Escócia e depois descendo da Grantã, que fundaram as primeiras origens do colégio do cuja tese estranhamente […]» — *ver:* **Ampliação — P2017-10-14 (Da Base Atlan ao Colégio Druídico)** U0141
+
 
 ## Ampliação
 ### P2017-10-14 (Da Base Atlan ao Colégio Druídico)
@@ -42,11 +44,6 @@ Com isso:
 
 # (nenhum span retido neste ciclo)
 
-## Fontes
-| Obra (sigla) | Título | Página | Tipo |
-|---|---|---|---|
-| P2017-10-14 | Da Base Atlan ao Colégio Druídico (palestra) | — | transcrição automatizada; citação |
-
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
@@ -54,9 +51,12 @@ Com isso:
 | Colegiado Druídico | RC-403 | relaciona-se-a |
 | Escola da Decifração da Realidade (Método Druídico) | RC-755 | **sem aresta** em `RELACOES`; arquivo existe |
 
-## Citações-chave
+## Fontes
+| Obra (sigla) | Título | Página | Tipo |
+|---|---|---|---|
+| P2017-10-14 | Da Base Atlan ao Colégio Druídico (palestra) | — | transcrição automatizada; citação |
 
-> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+## Observações sobre o Estado da Malha
 
-- «Então, o conhecimento que eles trouxeram quando os milesanos herdavam o conhecimento deste terreno, eles meio que chamaram isso de conhecimento de inclusezianos lá na Irlanda e depois lá na Escócia e depois descendo da Grantã, que fundaram as primeiras origens do colégio do cuja tese estranhamente […]» — *ver:* **Ampliação — P2017-10-14 (Da Base Atlan ao Colégio Druídico)** U0141
-
+* **Grafia STT:** 'milesanos' = Milésios. Herdaram o conhecimento druídico e fundaram as origens do Colégio.
+* **Trava aplicável**: nenhuma além das gerais do despacho.

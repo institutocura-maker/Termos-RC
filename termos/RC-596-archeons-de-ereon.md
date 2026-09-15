@@ -18,10 +18,8 @@ Conjunto dos cinco níveis/subníveis da Espiritualidade Laboratorial reunidos n
 ## Contexto / Origem
 A palestra os descreve como padrões dimensionais com grupos de seres e estilos criadores próprios.
 
-## Etimologia e Grafias
-- Grafia preferida: Archeons de Ereon. STT: arquelos, arquieron, arcãos, arcos.
-- **Fonte de decisão:** Quadro 9 aprovado pelo curador.
-
+## Citações-chave
+> “São cinco Archeons [...] padrões de realidade no âmbito da Espiritualidade Laboratorial.” — P2021-12-04, U0039–U0051; U0313–U0323; U0355–U0358
 
 ## Ampliação
 ### P2021-12-04
@@ -37,15 +35,13 @@ A palestra os descreve como padrões dimensionais com grupos de seres e estilos 
 - **[P2022-03-26 · ARCHEONS DE EREON NA FALA DE 26/03/2022]** "tem planetas em Oreon que tem cinco tipos de sexo rolando lá." (U0005) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2021-12-04`); a entrada desta fonte é de **conteúdo**, não de data.
 - **[P2022-03-26 · O QUE OS ARCHEONS TÊM DE SEXO E O QUE ISSO FAZ DA REBELIÃO]** "A possibilidade de transmitir doença, porque lá vai surgir essa coisa chamada sexualidade. Aqui não tem, é tudo por clonagem. Seres eram criados aqui. Como não é mais um tirando de si para criar outro, agora são dois unindo suas células para gerar outro. Essa opção aqui permite que a doença do criador seja repassada num grau menor, já que na clonagem ela vai total pro outro." (U0005); "Aqui há 2 bilhões 500 milhões de anos atrás outros seres já eram produzidos. E esses seres eram animalizados, eram sensórios, ou seja, tinham sensação de todo tipo e eram sexualizados, eles eram polarizados." (U0005) — A fala liga a polarização sexual à possibilidade de transmitir doença — a chave para ler `RC-596` sem exotismo: o sexo entra como **via de infecção** no argumento sanitário.
 
-## Fontes
-| Obra/palestra | Localização | Tipo |
-|---|---|---|
-| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
-| P2021-12-04 — Os Archeons de Ereon e os Seres Adhy | U0039–U0051; U0313–U0323; U0355–U0358 | STT pré-curado e validado |
+## Etimologia e Grafias
+- Grafia preferida: Archeons de Ereon. STT: arquelos, arquieron, arcãos, arcos.
+- **Fonte de decisão:** Quadro 9 aprovado pelo curador.
 
 
-## Citações-chave
-> “São cinco Archeons [...] padrões de realidade no âmbito da Espiritualidade Laboratorial.” — P2021-12-04, U0039–U0051; U0313–U0323; U0355–U0358
+## Seres Associados
+Consultar as relações tipadas acima.
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -61,11 +57,15 @@ A palestra os descreve como padrões dimensionais com grupos de seres e estilos 
 | Mermérion | RC-599 | inclui |
 | Mermérion | RC-599 | ← é-um |
 
-## Seres Associados
-Consultar as relações tipadas acima.
-
 ## Observações
 Termo coletivo aprovado. Ereon permanece em RC-496 como região correspondente.
 
 **Regra de status:** permanece candidato por depender de transcrição automatizada sem áudio anexado.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
+## Fontes
+| Obra/palestra | Localização | Tipo |
+|---|---|---|
+| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
+| P2021-12-04 — Os Archeons de Ereon e os Seres Adhy | U0039–U0051; U0313–U0323; U0355–U0358 | STT pré-curado e validado |
+

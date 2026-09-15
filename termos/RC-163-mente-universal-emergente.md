@@ -18,6 +18,10 @@ A «Mente Universal» (também chamada Biocosmos): a mente coletiva que emerge d
 ## Contexto / Origem
 O conceito fecha o arco da apostila «A Queda»: a crise culmina na construção do Paraíso B (RC-612) — a nova espiritualidade que incorpora o aprendizado do caos — e na formação da Mente Universal Emergente (RC-163). As criaturas-ferramenta (RC-164) são, na leitura de Ellam, as produtoras das informações que permitem a «emergência de uma Mente-una».
 
+## Citações-chave
+> "O elétron “marca” em si mesmo tudo o que ele “vivencia” e não é demais lembrar que esse “agente básico da vida universal” é o único que existe desde o primeiro momento da Criação, e existirá também como tal até não mais existirem elementos químicos, quando a energia Tamásica presidir a finalização das forças nucleares fraca e forte, que comandam a formação dos átomos. Nessa ocasião, a desorganização entrópica será total, resultando no fim do universo, e as informações dos elétrons estarão associadas à emergente “Mente Universal” que, a esse tempo, estará se libertando da “desgraça” promovida pelo seu “Eu caído”! No livro “ A Rebelião dos Elétrons e o Código da Vida do Criado r”, analiso essa e outras questões. O físico nuclear francês Jean-Émile Charon foi quem descortinou a característica enigmática dos elétrons, de “memorizar” as suas vivências. Ainda assim, o que os cientistas sabem sobre esse assunto parece não os estimular a um maior aprofundamento da questão – é como se soubessem do fato, mas sem conseguir entender o seu significado profundo." — B024
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
 ## Etimologia e Grafias
 - Grafia preferida: Mente Universal (Emergente)
 - Variações: Mente Universal; Biocosmos; Mente-una
@@ -46,6 +50,13 @@ O conceito fecha o arco da apostila «A Queda»: a crise culmina na construção
 - RC-725 — ver ficha correspondente
 - RC-879 — ver ficha correspondente
 
+## Observações
+Destino final do Volume V da Enciclopédia (V.22.4). Quarentena cosmológica: não há correspondência com qualquer conceito da física ou da neurociência acadêmicas.
+
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-163.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
+
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
@@ -59,14 +70,3 @@ O conceito fecha o arco da apostila «A Queda»: a crise culmina na construção
 | P2025-06-14b | — | registro-mestre (fonte censada) |
 | P2023-11-19 | — | registro-mestre (fonte censada) |
 | P2023-12-03 | — | registro-mestre (fonte censada) |
-
-## Observações
-Destino final do Volume V da Enciclopédia (V.22.4). Quarentena cosmológica: não há correspondência com qualquer conceito da física ou da neurociência acadêmicas.
-
-
-> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-163.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
-
-
-## Citações-chave
-> "O elétron “marca” em si mesmo tudo o que ele “vivencia” e não é demais lembrar que esse “agente básico da vida universal” é o único que existe desde o primeiro momento da Criação, e existirá também como tal até não mais existirem elementos químicos, quando a energia Tamásica presidir a finalização das forças nucleares fraca e forte, que comandam a formação dos átomos. Nessa ocasião, a desorganização entrópica será total, resultando no fim do universo, e as informações dos elétrons estarão associadas à emergente “Mente Universal” que, a esse tempo, estará se libertando da “desgraça” promovida pelo seu “Eu caído”! No livro “ A Rebelião dos Elétrons e o Código da Vida do Criado r”, analiso essa e outras questões. O físico nuclear francês Jean-Émile Charon foi quem descortinou a característica enigmática dos elétrons, de “memorizar” as suas vivências. Ainda assim, o que os cientistas sabem sobre esse assunto parece não os estimular a um maior aprofundamento da questão – é como se soubessem do fato, mas sem conseguir entender o seu significado profundo." — B024
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

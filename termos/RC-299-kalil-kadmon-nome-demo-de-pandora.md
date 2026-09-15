@@ -16,14 +16,26 @@ atualizado = "2026-08-28"
 
 Nome demo de Pandora anterior à sua humanização: na cosmologia de Ellam, a cadeia Kalil Kadmon → Adam Kadmon → Pandora narra os passos da dignificação que culminou no "sorriso de Pandora".
 
-## Contexto / Origem
-
-[P2024-08-03] A palestra relata: "ele antes era um ser que se chamava Kalil Kadmon [STT: “Cali Calon”]” — grafia fonética mantida em `[REVISAR → RESOLVIDO 10/09/2026 · F038-L5: PAR FORMA/STT PARALELO em RC-086 (sem flag); grafia preservada — ver nota]` até conferência de áudio.
-
 ## Escopo e evidência
 
 - **[P2024-08-03] Unidades:** U1414–U1419.
 - **[P2024-08-03] Proveniência:** palestra de Jan Val Ellam; transcrição STT pré-curada; devolutiva do curador registrada em 2026-08-20 (ficha autorizada).
+
+## Contexto / Origem
+
+[P2024-08-03] A palestra relata: "ele antes era um ser que se chamava Kalil Kadmon [STT: “Cali Calon”]” — grafia fonética mantida em `[REVISAR → RESOLVIDO 10/09/2026 · F038-L5: PAR FORMA/STT PARALELO em RC-086 (sem flag); grafia preservada — ver nota]` até conferência de áudio.
+
+## Citações-chave
+> "Uma sensação de dignidade surgiu pela primeira vez com o sorriso de Pandora."
+
+
+> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+
+- «000 anos atrás, quando nessa época os homo sapiens eram só animais de estimação dos deuses desses arcontos, quando um deles chamado Car Cadmon fez uma metamorfose definitiva, se transformou numa fêmea dos humanos que existiam na fazenda de Epimeteu.» — *ver:* **Ampliação — P2022-09-17 (A Hipóstase dos Arcontes)** U0003
+
+
+> Notas de processo: 3 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-299.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
 
 ## Ampliação
 ### P2024-08-03
@@ -77,6 +89,10 @@ Nome demo de Pandora anterior à sua humanização: na cosmologia de Ellam, a ca
 - Ekatma (Adam Kadmon — Homem Primordial) — RC-506;
 - Opção Inusitada de Pandora — RC-285.
 
+## Observações
+
+Grafia "Cali Calon" [REVISAR — STT → CHANCELA 2026-09-06 · F039-L3: AGUARDA-ÁUDIO (STT preservado como falado) — ver nota]; a identificação com Kalil Kadmon segue a ficha de B021 (O Sorriso de Pandora).
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
@@ -85,20 +101,3 @@ Nome demo de Pandora anterior à sua humanização: na cosmologia de Ellam, a ca
 | P2024-08-03 | U1414–U1419 | palestra/STT |
 | B021 | — | obra |
 
-
-## Citação-chave
-> "Uma sensação de dignidade surgiu pela primeira vez com o sorriso de Pandora."
-
-## Observações
-
-Grafia "Cali Calon" [REVISAR — STT → CHANCELA 2026-09-06 · F039-L3: AGUARDA-ÁUDIO (STT preservado como falado) — ver nota]; a identificação com Kalil Kadmon segue a ficha de B021 (O Sorriso de Pandora).
-
-## Citações-chave
-
-> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
-
-- «000 anos atrás, quando nessa época os homo sapiens eram só animais de estimação dos deuses desses arcontos, quando um deles chamado Car Cadmon fez uma metamorfose definitiva, se transformou numa fêmea dos humanos que existiam na fazenda de Epimeteu.» — *ver:* **Ampliação — P2022-09-17 (A Hipóstase dos Arcontes)** U0003
-
-
-> Notas de processo: 3 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-299.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

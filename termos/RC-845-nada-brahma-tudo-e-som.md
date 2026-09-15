@@ -28,22 +28,10 @@ Com isso:
 
 **Origem do conteúdo da ampliação:** palestra `P2018-12-15 — Terra Atlantis – Aprofundamento` (15/12/2018). Transcrição automatizada, **não conferida com o áudio**; cada aspa foi recortada do `original.txt` pelo índice de âncoras do motor e conferida byte a byte pelo portão B. Nada foi digitado de memória.
 
-## Observações sobre o Estado da Malha
-
-[Aguardando Ditado Livre]
-
-* **Grafia STT:** 'nada brama' = Nada Brahma (tudo é som).
-* **Trava aplicável**: nenhuma além das gerais do despacho.
-
 ## Ampliação
 ### P2018-12-15 (Terra Atlantis – Aprofundamento)
 
 - **[Nada Brahma: tudo é som] (U0004)** «Nada brama em sânscrito quer dizer tudo é só.» — Nada Brahma (sânscrito 'tudo é som'): a cosmogonia como vibração (teoria das cordas) — a 'música da criação' que precede a matéria.
-
-## Fontes
-| Obra (sigla) | Título | Página | Tipo |
-|---|---|---|---|
-| P2018-12-15 | Terra Atlantis – Aprofundamento (palestra) | — | transcrição automatizada; citação |
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -52,3 +40,15 @@ Com isso:
 | Prabrajna | RC-152 | **sem aresta** em `RELACOES`; arquivo existe |
 | Nidana (ovo cósmico) | RC-154 | **sem aresta** em `RELACOES`; arquivo existe |
 
+
+## Fontes
+| Obra (sigla) | Título | Página | Tipo |
+|---|---|---|---|
+| P2018-12-15 | Terra Atlantis – Aprofundamento (palestra) | — | transcrição automatizada; citação |
+
+## Observações sobre o Estado da Malha
+
+[Aguardando Ditado Livre]
+
+* **Grafia STT:** 'nada brama' = Nada Brahma (tudo é som).
+* **Trava aplicável**: nenhuma além das gerais do despacho.

@@ -18,10 +18,8 @@ atualizado = "2026-08-13"
 ## Contexto / Origem
 A obra materializa o diálogo direto Criador × criatura: Mônica abre a Carta 1 ("Caro Sr. Javé. Inicialmente gostaria de pedir-lhe permissão para tratá-lo por você... essa conversa franca e amorosa como se aprende que deveria ser a conversa entre pai e filha") e Javé responde em 1ª pessoa ("Acostumem-se e compreendam: **sou eu que vivo em vocês!**"). O livro confirma e aprofunda o Favor Divino (RC-332), a Vida do CFD no Ser Humano (RC-382) e o conceito do humano como "terminal nervoso do criador" (RC-418).
 
-## Etimologia e Grafias
-- **Grafia preferida:** Cartas a Javé
-- **Variações:** as cartas ao Criador; o diálogo com Javé; cartas e respostas
-
+## Citações-chave
+> "Somente depois de elaboradas as cartas... é que o destinatário das mesmas — Senhor Javé — resolveu respondê-las, precisando, para tanto, de um intermediário que a reproduzisse para os olhos terrenos. Surgiu, assim, um livro que, se por um lado, surpreende e instiga pelas dúvidas nunca antes elaboradas, ao mesmo tempo encanta e perturba pelas respostas jamais apresentadas." — B034, Sinopse
 
 ## Ampliação
 ### B034 (Cartas a Javé)
@@ -31,13 +29,13 @@ A obra materializa o diálogo direto Criador × criatura: Mônica abre a Carta 1
 - **[B034 p. 6]** prefácio de Mônica: escreveu enquanto lia B002 e B033 — **voz da missivista, isolada**; **não fundir** com B002 / B033.
 - **[B034 p. 67–68]** posfácios: Mônica descreve um Javé “autêntico” (não o do AT nem o de Jesus) — **não ontologizar**. Ellam reluta em intermediar; “não confio nele” — **quarentena biográfica**. IEEA / Orbum / entrevista **fora**.
 
-## Fontes
-| Obra (sigla) | Capítulo | Página | Tipo |
-|---|---|---|---|
-| Cartas a Javé (B034) | Cartas 1–16; Resposta de Javé (Partes 1–2) | — | obra integral |
+## Etimologia e Grafias
+- **Grafia preferida:** Cartas a Javé
+- **Variações:** as cartas ao Criador; o diálogo com Javé; cartas e respostas
 
-## Citações-chave
-> "Somente depois de elaboradas as cartas... é que o destinatário das mesmas — Senhor Javé — resolveu respondê-las, precisando, para tanto, de um intermediário que a reproduzisse para os olhos terrenos. Surgiu, assim, um livro que, se por um lado, surpreende e instiga pelas dúvidas nunca antes elaboradas, ao mesmo tempo encanta e perturba pelas respostas jamais apresentadas." — B034, Sinopse
+
+## Seres Associados
+Javé (RC-001); Mônica Camargo (RC-420); Jan Val Ellam (RC-071, intermediário).
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -52,12 +50,14 @@ A obra materializa o diálogo direto Criador × criatura: Mônica abre a Carta 1
 | Mônica Camargo (autora das cartas) | RC-420 | escrita-por |
 | As Memórias de Javé (crônicas) | RC-421 | associado |
 
-## Seres Associados
-Javé (RC-001); Mônica Camargo (RC-420); Jan Val Ellam (RC-071, intermediário).
-
 ## Observações
 Ficha baseada em B034 (obra primária, 2014). O livro é único no corpus: **Javé fala em 1ª pessoa** — fonte primária valiosíssima para a psicologia do Criador. Nota técnica: o PDF tem 94 págs; páginas 1 (capa) e 72 sem texto (extração das demais OK).
 
 
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-416.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo |
+|---|---|---|---|
+| Cartas a Javé (B034) | Cartas 1–16; Resposta de Javé (Partes 1–2) | — | obra integral |

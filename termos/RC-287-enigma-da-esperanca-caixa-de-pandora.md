@@ -16,12 +16,9 @@ atualizado = "2026-08-28"
 
 Na Revelação Cósmica de Jan Val Ellam, a "Caixa de Pandora" — associada ao gesto de Pandora (RC-086) — é lida como o enigma da esperança: o que foi aberto não libera males, mas revela o oculto que precisa ser integrado. Obra-base: *O Sorriso de Pandora* (B020).
 
-## Estrutura interna
-
-- a caixa como campo de memória coletiva;
-- o "erro foi negar o que havia nela", não abri-la;
-- ligação com Pandora (RC-086) e com a origem da racionalidade humana.
-
+## Citações-chave
+> "47 A Opção Inusitada de Pandora ........................................................................ 47 Capítulo 7 ............................................................................................................... 53 Enfim, um Sorriso .............................................................................................. 53 Capítulo 8 ............................................................................................................... 59 Enigma da Esperança ........................................................................................ 59 Capítulo 9 ............................................................................................................... 65 Adão e Eva Bíblicos ............................................................................................ 65 Capítulo 10 ............................................................................................................. 77 Livre da Maldição .............................................................................................." — B020
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** os 2 trechos entre aspas desta ficha **não** resistem à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Só 1 dos 2 deixam vestígio no corpus. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
 
 ## Ampliação
 ### B087 (A Revolta do Anjo Decaído)
@@ -50,6 +47,17 @@ Na Revelação Cósmica de Jan Val Ellam, a "Caixa de Pandora" — associada ao 
 
 - **[P2022-03-26 · ENIGMA DA ESPERANÇA (CAIXA DE PANDORA) NA FALA DE 26/03/2022]** "O tempero é o do inconformismo esclarecido, mas não exigindo do outro, exigindo da gente mesmo o processo de reforma íntima que a espiritualidade tanto insiste que não tem caminho B, só tem caminho A, reforma íntima." (U0029) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Pandora | RC-086 | associado-a |
+| Pandora | RC-086 | ← relaciona-se-a |
+| Seres Terrenos (Homo Sapiens) | RC-099 | associado |
+| Zeus | RC-145 | associado |
+| En Ma (Emá / Emar — espírito-âncora) | RC-476 | (contexto) |
+| Tikun Cósmico (restabelecimento da Criação) | RC-514 | relaciona-se-a |
+
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
@@ -59,6 +67,13 @@ Na Revelação Cósmica de Jan Val Ellam, a "Caixa de Pandora" — associada ao 
 | B020 | O Sorriso de Pandora | livro |
 | ART-2026-08-18 | O Quarto Cérebro de Pandora (artigo — Denise F. Silva) | artigo de aluna avançada |
 
+
+
+## Estrutura interna
+
+- a caixa como campo de memória coletiva;
+- o "erro foi negar o que havia nela", não abri-la;
+- ligação com Pandora (RC-086) e com a origem da racionalidade humana.
 
 
 ## Interpretação secundária (ART-2026-08-18)
@@ -71,18 +86,3 @@ Na leitura/interpretação do artigo *O Quarto Cérebro de Pandora* (Denise Ferr
 - "O erro não foi abrir a caixa. O erro foi negar o que havia nela." (O Sorriso de Pandora, cap. 2, citado no artigo).
 
 > **Demarcação de autoria:** a releitura vibracional (caixa como DNA espiritual) é interpretação do artigo ART-2026-08-18 (fonte secundária confiável), enriquecendo este verbete sem alterar o núcleo canônico.
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Pandora | RC-086 | associado-a |
-| Pandora | RC-086 | ← relaciona-se-a |
-| Seres Terrenos (Homo Sapiens) | RC-099 | associado |
-| Zeus | RC-145 | associado |
-| En Ma (Emá / Emar — espírito-âncora) | RC-476 | (contexto) |
-| Tikun Cósmico (restabelecimento da Criação) | RC-514 | relaciona-se-a |
-
-
-## Citações-chave
-> "47 A Opção Inusitada de Pandora ........................................................................ 47 Capítulo 7 ............................................................................................................... 53 Enfim, um Sorriso .............................................................................................. 53 Capítulo 8 ............................................................................................................... 59 Enigma da Esperança ........................................................................................ 59 Capítulo 9 ............................................................................................................... 65 Adão e Eva Bíblicos ............................................................................................ 65 Capítulo 10 ............................................................................................................. 77 Livre da Maldição .............................................................................................." — B020
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** os 2 trechos entre aspas desta ficha **não** resistem à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Só 1 dos 2 deixam vestígio no corpus. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

@@ -16,12 +16,11 @@ atualizado = "2026-09-12"
 
 Na RC, o **Homem Primordial cósmico** (Adam Kadmon) — distinto do Adão bíblico da Terra; protótipo associado aos "demos hesitantes" e ao processo pré-criação.
 
-## Atualização
-### P2024-09-28
+## Citações-chave
 
-- **Adão cósmico ≠ Adão da Terra:** "aquilo que no futuro viria ser o primeiro protótipo de um Adão Cadmon [Kadmon], que não tem nada a ver com o Adão aqui da Terra, foi um Adão cósmico" (resposta à pergunta de Rogério sobre o demo hesitante);
-- **Demos hesitantes:** "o que liga os chamados demos hesitantes... essa história ainda falta elementos poder me referir a ela” — `[REVISAR → CHANCELA 10/09/2026 · F040-L5: INCERTEZA COLECIONADA (demos hesitantes; sem ontologia) — ver nota]` (Colecionar Incertezas);
-- Contexto: o autor declara não ter ainda elementos para aprofundar a relação (pergunta de Maria Helena sobre o campo morfogenético da humanidade).
+> "Aquilo que no futuro viria ser o primeiro protótipo de um Adão Cadmon, que não tem nada a ver com o Adão aqui da Terra, foi um Adão cósmico." — P2024-09-28
+
+> "E isso está presente em cada consciência particularizada, porque é o tal do corpo átmico presente em cada ser. Por isso que a gente usa aquela expressão: namastê." — P2024-09-28
 
 
 ## Ampliação
@@ -38,17 +37,13 @@ Na RC, o **Homem Primordial cósmico** (Adam Kadmon) — distinto do Adão bíbl
 
 - **[P2023-12-03 · EKATMA (ADAM KADMON — HOMEM PRIMORDIAL) NA FALA DE 03/12/2023]** «Adão Cadimão ancestral.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2023-09-09`); a entrada desta fonte é de **conteúdo**, não de data.
 
-## Fontes
+## Atualização
+### P2024-09-28
 
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
-| P2024-09-28 | pergunta Rogério/Maria Helena (demos hesitantes; Adão Cadmon) | palestra/STT pré-curada |
+- **Adão cósmico ≠ Adão da Terra:** "aquilo que no futuro viria ser o primeiro protótipo de um Adão Cadmon [Kadmon], que não tem nada a ver com o Adão aqui da Terra, foi um Adão cósmico" (resposta à pergunta de Rogério sobre o demo hesitante);
+- **Demos hesitantes:** "o que liga os chamados demos hesitantes... essa história ainda falta elementos poder me referir a ela” — `[REVISAR → CHANCELA 10/09/2026 · F040-L5: INCERTEZA COLECIONADA (demos hesitantes; sem ontologia) — ver nota]` (Colecionar Incertezas);
+- Contexto: o autor declara não ter ainda elementos para aprofundar a relação (pergunta de Maria Helena sobre o campo morfogenético da humanidade).
 
-
-## Citação-chave
-
-> "Aquilo que no futuro viria ser o primeiro protótipo de um Adão Cadmon, que não tem nada a ver com o Adão aqui da Terra, foi um Adão cósmico." — P2024-09-28
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -57,10 +52,6 @@ Na RC, o **Homem Primordial cósmico** (Adam Kadmon) — distinto do Adão bíbl
 | Planos de Existência da Cabala (Atziluth, Briah, Yetzirah, Assiah) | RC-264 | associado |
 | A Raça Inabalável dos Sethianos Emancipados | RC-766 | relaciona-se-a |
 
-## Citações-chave
-> "E isso está presente em cada consciência particularizada, porque é o tal do corpo átmico presente em cada ser. Por isso que a gente usa aquela expressão: namastê." — P2024-09-28
-
-
 ## Observações
 
 Menção breve na palestra (resposta à plateia). A relação com “demos hesitantes” permanece `[REVISAR → CHANCELA 10/09/2026 · F039-L5: AGUARDA-ÁUDIO (sem ontologia até verificação) — ver nota]` — sem ontologia até verificação do áudio.
@@ -68,3 +59,11 @@ Menção breve na palestra (resposta à plateia). A relação com “demos hesit
 
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-506.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** os 2 trechos entre aspas desta ficha **não** resistem à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Todos deixam vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
+## Fontes
+
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
+| P2024-09-28 | pergunta Rogério/Maria Helena (demos hesitantes; Adão Cadmon) | palestra/STT pré-curada |
+

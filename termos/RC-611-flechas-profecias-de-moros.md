@@ -18,10 +18,8 @@ Avisos atribuídos a Moros, destinados a serem revividos quando a revelação ps
 ## Contexto / Origem
 A palestra os apresenta como face emblemática da estratégia dos Seres LM/Quarto Logos.
 
-## Etimologia e Grafias
-- Grafia preferida: Flechas de Moros. Variação: Profecias de Moros.
-- **Fonte de decisão:** Quadro 9 aprovado pelo curador.
-
+## Citações-chave
+> “As flechas de Moros, as profecias de Moros [...] um aviso deixado para se compreender no futuro.” — P2021-12-04, U0443–U0447
 
 ## Ampliação
 ### P2021-12-04
@@ -40,13 +38,44 @@ A palestra os apresenta como face emblemática da estratégia dos Seres LM/Quart
 - **[P2021-07-24 · A FUNDAÇÃO DE 2021 · O LINK VITAL COM EDIMBURGO — A REDIREÇÃO DE ANANQUE]** **A PRAÇA DE EDIMBURGO**: "sei que EM EDIMBURGO, LÁ NA PRAÇA DE EDIMBURGO, FOI QUANDO ELA [ANANQUE] VOLTOU A SE DIZER: ENTENDI. O TRABALHO VAI SER COM SOFIA" [⚠️⚠️⚠️ a geografia sagrada das flechas de Moros — a MESMA praça de Edimburgo como o cenário da redireção de Ananque!]; **O CONTEXTO**: "ela sempre imaginou que AS NECESSIDADES TODAS QUE ELA TINHA COLECIONADO ERA PARA RECONDUZIR A RESSUCITAÇÃO DOS TRÊS SENHORES DA TRIMURTI A UM NÍVEL DE NÃO DOENÇA, porque os três estavam adoentados... Mas quando Vishnu disse que ia se desfazer, e se desfez... ela pensou que o trabalho dela tinha só sobrado" [a crise registrada como índice fenomênico — os processos depressivos RETIDOS, a O-7]; **A LOCALIZAÇÃO DE MOROS**: "na época ELA NÃO TINHA LOCALIZADO EM ROGÉRIO AINDA A FIGURA DE MOROS... MAS SÓ DEPOIS DE ESCÓCIA E DE CROÁCIA QUE ELA PERCEBEU" [⚠️ a Escócia/Edimburgo e a Croácia como a geografia da localização do avatar de Moros — o elo com a cadeia de Rochester/RC-454]; + o elo com as Nornes ("junto com as moiras OU NORNES" — a RC-777/RC-467); "quando a Trimurti se desfez" [a implosão — o elo com a RC-104].
 - 0 códigos novos (O-3). Quarentena: biomediúnica (a crise de Ananque retida como índice).
 
-## Fontes
-| Obra/palestra | Localização | Tipo |
-|---|---|---|
-| P2021-12-04 — Os Archeons de Ereon e os Seres Adhy | U0443–U0447 | STT pré-curado e validado |
+## Atualização
+### P2023-12-02 (Thot, o Enigmático Hermes Trimegisto) — SETAS DO TEMPO
 
-## Citações-chave
-> “As flechas de Moros, as profecias de Moros [...] um aviso deixado para se compreender no futuro.” — P2021-12-04, U0443–U0447
+- **Cápsulas do tempo de Moros:** "um processo que iniciou com o Moros, lá atrás, de detectar o padrão de podridão na genética dos seres. E ele disparou cápsulas do tempo com o conhecimento que ele tinha na época, mas que não era possível ser codificado para um tempo em que isso fosse possível";
+- **As setas encontradas agora:** "prometeu que quando as setas fossem, entre aspas, religadas, fossem acionadas novas entradas pela mesma mente que gerou isso... finalmente, pela primeira vez, seria contada a história da criação do momento zero... E essas setas estão sendo encontradas nesse tempo de vida da gente";
+- **A RC = revelação das setas:** "a Revelação Cósmica é exatamente a revelação das setas... de um conhecimento que lá atrás já existia, mas que não havia compreensão e foi jogado como cápsula temporal para um tempo que seria possível de ser compreendido";
+- **Cápsula do Tempo (RC-274):** paralelo com a Cápsula do Tempo de Sophia (João) — nova aresta RC-611 ↔ RC-274;
+- "isso tudo é sujo" — o processo tem origem no desespero (leitura do autor).
+
+---
+
+## Reforço
+### Arquivos do Destino / P2024-11-30
+
+As três flechas são cápsulas atemporais que transportam RC-714 — Arquivos do Destino Universal. A palestra apresenta duas emissões: ocultamento original por Moros e repetição por Kvasir antes do Ragnarok. O cumprimento pela Revelação Cósmica recebeu RC-718.
+
+Edimburgo, Split e Naimisharanya permanecem localizações atribuídas à palestra, com cronologia em revisão.
+
+---
+
+## Reforço
+### P2025-07-18 — separação das Flechas e do sinal do James Webb
+
+- **[P2025-07-18 · U00017–U00022]** Na pergunta de Silvia, o suposto sinal de abril é comparado a uma possível flecha de Moros. A resposta separa os dois: as **setas/flechas de Moros** são descritas como portadoras de “arquivos problemáticos e soluções algorítmicas para certos problemas” e como ligadas ao “peso da inevitabilidade”; já o sinal é qualificado na fala como algo que “parece ser uma notícia boa”. O expositor conclui: **“As setas de Moros são complicadas”** e não confirma que o sinal seja uma flecha.
+- **Decisão editorial aplicada:** manter RC-611 exclusivamente no arco Flechas/Profecias de Moros. O suposto sinal do James Webb permanece fora da ontologia, exclusivamente no radar externo de fontes e sob quarentena científica.
+- **Quarentena:** a comparação é uma pergunta da plateia e uma resposta autoral; não é identificação física, astronômica ou ontológica do sinal.
+
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-611.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
+## Etimologia e Grafias
+- Grafia preferida: Flechas de Moros. Variação: Profecias de Moros.
+- **Fonte de decisão:** Quadro 9 aprovado pelo curador.
+
+
+## Seres Associados
+Consultar as relações tipadas acima.
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -67,41 +96,12 @@ A palestra os apresenta como face emblemática da estratégia dos Seres LM/Quart
 | Momento Zero de Pandora | RC-779 | associado |
 | Desígnios Proféticos (profecia como instrumento de domínio e sua desconexão) | RC-858 | associado |
 
-## Seres Associados
-Consultar as relações tipadas acima.
-
 ## Observações
 Relacionar a Elm/Moros e ao Quarto Logos.
 
 **Regra de status:** permanece candidato por depender de transcrição automatizada sem áudio anexado.
 
-## Reforço
-### Arquivos do Destino / P2024-11-30
-
-As três flechas são cápsulas atemporais que transportam RC-714 — Arquivos do Destino Universal. A palestra apresenta duas emissões: ocultamento original por Moros e repetição por Kvasir antes do Ragnarok. O cumprimento pela Revelação Cósmica recebeu RC-718.
-
-Edimburgo, Split e Naimisharanya permanecem localizações atribuídas à palestra, com cronologia em revisão.
-
----
-
-## Atualização
-### P2023-12-02 (Thot, o Enigmático Hermes Trimegisto) — SETAS DO TEMPO
-
-- **Cápsulas do tempo de Moros:** "um processo que iniciou com o Moros, lá atrás, de detectar o padrão de podridão na genética dos seres. E ele disparou cápsulas do tempo com o conhecimento que ele tinha na época, mas que não era possível ser codificado para um tempo em que isso fosse possível";
-- **As setas encontradas agora:** "prometeu que quando as setas fossem, entre aspas, religadas, fossem acionadas novas entradas pela mesma mente que gerou isso... finalmente, pela primeira vez, seria contada a história da criação do momento zero... E essas setas estão sendo encontradas nesse tempo de vida da gente";
-- **A RC = revelação das setas:** "a Revelação Cósmica é exatamente a revelação das setas... de um conhecimento que lá atrás já existia, mas que não havia compreensão e foi jogado como cápsula temporal para um tempo que seria possível de ser compreendido";
-- **Cápsula do Tempo (RC-274):** paralelo com a Cápsula do Tempo de Sophia (João) — nova aresta RC-611 ↔ RC-274;
-- "isso tudo é sujo" — o processo tem origem no desespero (leitura do autor).
-
----
-
-## Reforço
-### P2025-07-18 — separação das Flechas e do sinal do James Webb
-
-- **[P2025-07-18 · U00017–U00022]** Na pergunta de Silvia, o suposto sinal de abril é comparado a uma possível flecha de Moros. A resposta separa os dois: as **setas/flechas de Moros** são descritas como portadoras de “arquivos problemáticos e soluções algorítmicas para certos problemas” e como ligadas ao “peso da inevitabilidade”; já o sinal é qualificado na fala como algo que “parece ser uma notícia boa”. O expositor conclui: **“As setas de Moros são complicadas”** e não confirma que o sinal seja uma flecha.
-- **Decisão editorial aplicada:** manter RC-611 exclusivamente no arco Flechas/Profecias de Moros. O suposto sinal do James Webb permanece fora da ontologia, exclusivamente no radar externo de fontes e sob quarentena científica.
-- **Quarentena:** a comparação é uma pergunta da plateia e uma resposta autoral; não é identificação física, astronômica ou ontológica do sinal.
-
-
-> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-611.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+## Fontes
+| Obra/palestra | Localização | Tipo |
+|---|---|---|
+| P2021-12-04 — Os Archeons de Ereon e os Seres Adhy | U0443–U0447 | STT pré-curado e validado |

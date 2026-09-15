@@ -18,9 +18,8 @@ Avatar de Vishnu cuja condição é relacionada ao agravamento do descompasso e 
 ## Contexto / Origem
 A palestra descreve confronto de Shiva com Narasimha sem intenção de destruí-lo, pois isso afetaria Vishnu.
 
-## Etimologia e Grafias
-- Grafia: Narasimha. STT: Nara Sima, Nacima, Naraimra.
-
+## Citações-chave
+> “Shiva [...] foi desafiar Narasimha para ver se durante a luta se lembrava que era Vishnu.” — P2024-05-04
 
 ## Ampliação
 ### P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
@@ -30,32 +29,6 @@ A palestra descreve confronto de Shiva com Narasimha sem intenção de destruí-
 ### P2022-05-07 (Shiva, o Projeto Talm e os Mistérios de Awaylengam)
 
 - **[Narasimha — avatar de Vishnu, cabeça de leão] (U0003)** «Estranho, mas é parte de baixo humana, cabeça de leão.» — Narasimha (STT "Nara/Naraimsa") como avatar de Vishnu; contraposto ao Sharabha de Shiva (ver radar).
-
-## Fontes
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2022-05-07 | Shiva, o Projeto Talm e os Mistérios de Awaylengam (palestra) | — | transcrição automatizada; citação |
-| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
-| P2024-05-04 — Prabrajna em Perpérion / Simultaneidade Reversa | U1144–U1164 | PDF/transcrição pré-curada |
-
-
-## Citações-chave
-> “Shiva [...] foi desafiar Narasimha para ver se durante a luta se lembrava que era Vishnu.” — P2024-05-04
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Shiva (Savna) | RC-102 | confronta |
-| Vishnu (Mavatna) | RC-135 | é-um |
-| Krishna (avatar de Vishnu/Shiva) | RC-414 | relaciona-se-a |
-
-## Seres Associados
-Consultar relações acima.
-
-## Observações
-Candidato mitológico; cruzar com obras sobre Vishnu/Shiva.
-
-Status candidato por depender de palestra e alegações ainda não cruzadas integralmente com obras primárias.
 
 ## Ampliação
 ### P2024-03-02 (O Drama Espiritual de Jesus)
@@ -67,6 +40,33 @@ Status candidato por depender de palestra e alegações ainda não cruzadas inte
 - **[Sharabha — avatar de Shiva mais forte que Narasimha]:** «A fúria que ele usou para destruir Hiranyakashipu foi tal que ele não conseguia deixar de ser Narasimha e saiu matando todo mundo. Aí os devas enlouquecidos pediram ajuda a Shiva, e Shiva criou um avatar chamado Sharabha, mais forte que Narasimha, para enfrentá-lo.» — «Mas na hora da briga ele dizia: 'Virno, acorde, acorde. É você, assim, irmã? Aqui sou eu. Chiva em xaraba. Eu só criei xaraba para impedir você de continuar matando todo mundo e para ver se eu consigo lhe acordar.'» — ver RC-102 (Shiva), RC-135 (Vishnu).
 
 - **[Narasimha e o início dos problemas de Jesus]:** «Jesus nem existia, mas começou a se ferrar na época em que Vishnu foi Narasimha. Ou seja, o espírito que viria a ser de Jesus, quando esse espírito foi Narasimha, ferrou com tudo para frente [...] O tempo que o espírito que viria ser Jesus ficou sendo Narasimha, ferrou nesse espírito, mais ainda a condição búdica e manásica dele.» — ver RC-072 (Jesus).
+
+
+## Etimologia e Grafias
+- Grafia: Narasimha. STT: Nara Sima, Nacima, Naraimra.
+
+
+## Seres Associados
+Consultar relações acima.
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Shiva (Savna) | RC-102 | confronta |
+| Vishnu (Mavatna) | RC-135 | é-um |
+| Krishna (avatar de Vishnu/Shiva) | RC-414 | relaciona-se-a |
+
+## Observações
+Candidato mitológico; cruzar com obras sobre Vishnu/Shiva.
+
+Status candidato por depender de palestra e alegações ainda não cruzadas integralmente com obras primárias.
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2022-05-07 | Shiva, o Projeto Talm e os Mistérios de Awaylengam (palestra) | — | transcrição automatizada; citação |
+| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
+| P2024-05-04 — Prabrajna em Perpérion / Simultaneidade Reversa | U1144–U1164 | PDF/transcrição pré-curada |
 
 
 ## Fontes

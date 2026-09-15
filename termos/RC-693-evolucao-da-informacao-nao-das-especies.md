@@ -26,11 +26,8 @@ Tese conclusiva de `P2025-03-15`. A palestra distingue:
 
 O princípio organiza a relação entre Memória Quântica dos Elétrons, Nidana, DNA, Projeto Talm, transumanismo, Colapso do Caos Organizado e reconstrução de Ishvara.
 
-## Etimologia e Grafias
-Forma preferida: **Evolução da Informação, não das Espécies**.
-
-A vírgula preserva a oposição formulada na fala: “não são as espécies que evoluem, mas sim a informação”.
-
+## Citações-chave
+> “Não são as espécies que evoluem, mas sim a informação nelas disposta como sendo os seus genomas.”
 
 ## Ampliação
 ### P2025-03-15
@@ -44,13 +41,11 @@ A vírgula preserva a oposição formulada na fala: “não são as espécies qu
 
 - **[P2024-07-13] As memórias não são nossas (U1560–U1620):** "papai e mamãe transam... um óvulo é fecundado por um espermatozoide que traz uma porrada de informações memoriais do passado, desses seres. Mas nesse óvulo fecundado vai surgir um novo cérebro de um novo ser, mas as memórias todas já vão estar dispostas no zigoto... então nós já nascemos com as memórias dadas pelos nossos ancestrais"; a analogia de Westworld: "primeiro o dono do parque enchia um androide de memórias, depois soltava algoritmos com fios livres para o androide poder improvisar... depois colocava uma memória encobridora para dar razão de existência... só depois disso eles dão identidade"; "qual a diferença da série Westworld pra vida humana? Nenhuma. As memórias que a gente carrega desde o início não são nossas: são dos nossos ancestrais, dos nossos ascendentes, são dos pais, avós, bisavós. A coisa já começa sem ética nenhuma".
 
-## Fontes
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2025-03-15 | U0903–U0967; U1106–U1115; U1155–U1160; U1181–U1183 | palestra/STT — fonte incompleta |
+## Etimologia e Grafias
+Forma preferida: **Evolução da Informação, não das Espécies**.
 
-## Citações-chave
-> “Não são as espécies que evoluem, mas sim a informação nelas disposta como sendo os seus genomas.”
+A vírgula preserva a oposição formulada na fala: “não são as espécies que evoluem, mas sim a informação”.
+
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -74,8 +69,13 @@ A vírgula preserva a oposição formulada na fala: “não são as espécies qu
 | Genes Críticos / Genes Dorminhocos | RC-710 | ← relaciona-se-a |
 | Informações Vivas | RC-715 | ← relaciona-se-a |
 
-## Observações Científicas e Editoriais
+## Observações
 - O termo registra uma proposição doutrinária da palestra, não uma reformulação aceita da teoria evolutiva.
 - Números de genes, proteínas e percentuais de DNA não codificante citados na fala exigem notas científicas.
 - A transcrição termina antes da conclusão anunciada; a formulação foi preservada apenas no limite da fonte recebida.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2025-03-15 | U0903–U0967; U1106–U1115; U1155–U1160; U1181–U1183 | palestra/STT — fonte incompleta |

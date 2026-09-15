@@ -17,6 +17,14 @@ atualizado = "2026-08-29"
 Na leitura de Jan Val Ellam, o conjunto de registros/informações associado ao "juízo final" — o acervo de dados da criação que serviria de base para uma avaliação final dos seres. Ligado ao Big Data do Criador (RC-194) e ao Livro do Criador (RC-201).
 
 
+## Citações-chave
+
+> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+
+- «nós existimos para guardar essas informações, mas a cada vez que esse cérebro que morre, o espírito que anima esse corpo, escaneia as informações para passar para um outro cérebro e enquanto esse jogo durar, vai ser assim, mas no final tem que se tirar tudo e o resto tem que tá limpo para esse essa […]» — *ver:* **Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por …** U0038
+- «Porque o desmascaramento que já foi feito em torno do juízo final simplesmente impediu esse processo maluco que foi vacinado lá atrás por Enoque a pedido de Javé.» — *ver:* **Ampliação — P2021-04-10 (O Fechamento dos Portais e o Imp…** U0016
+
+
 ## Ampliação
 ### P2020-05-09 (Sophia e o Juízo Final)
 
@@ -38,6 +46,12 @@ Na leitura de Jan Val Ellam, o conjunto de registros/informações associado ao 
 - **[O juízo final desmascarado: a agenda de Enoque] (U0006)** «Porque o desmascaramento que já foi feito em torno do juízo final simplesmente impediu esse processo maluco que foi vacinado lá atrás por Enoque a pedido de Javé.» — "Enoque foi quem comunicou o mundo dos 18.000 anos antes de Jesus que o ser, que se dizia Deus dessa criação estava marcando um juízo final" (U0006: «Pois que Enoque foi quem comunicou o mundo dos 18.000 anos antes de Jesus que o ser, que se dizia Deus dessa criação estava marcando um juízo final.»); "Aí não tem juízo. Final coisa alguma"; o processo do exílio começou em 1989 por decisão do espírito de Jesus: "esse momento aqui na terra de exílios espiritual, de separação do joio do trigo, eh, teria iniciado em 1989" (U0006: «esse momento aqui na terra de exílios espiritual, de separação do joio do trigo, eh, teria iniciado em 1989.») e "só se concluiria lá perto do ano 2048, 49,50" (U0006: «E esse processo iniciado em 1989 só se concluiria lá perto do ano 2048, 49,50 e esse processo iria demorar p pa pá p pa p p pá.») — mas "não tá funcionando mais".
 - **[O joio e o trigo de Jesus: exequível, paralisado] (U0006)** «A separação do joio e do trigo que o homem Jesus, o humano Jesus sobrepôs ao conceito de juízo final.» — "Esse sim é exequível, mas tá paralisado devido a essa loucura toda"; a aferição de mérito e demérito é "a única forma justa que a gente tem aqui" — mas "não é julgamento, é uma ferição pontual, circunstancial" (a turma de 50 alunos: "35 e 15 só quer atrapalhar"); "nenhum julgamento agora é honesto, não existe isso. Tá todo mundo fazendo favor divino" (glosa sem aspa).
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Big Data Cósmico | RC-194 | relaciona-se-a |
+| O Livro do Criador | RC-201 | ← associado-a |
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
@@ -54,17 +68,3 @@ Na leitura de Jan Val Ellam, o conjunto de registros/informações associado ao 
 Em P2025-06-14b, Ellam afirma: **"A justiça divina não existe. Deus não julga ninguém. Deus não castiga nem premia ninguém... não pensemos que Ifá é justiça divina, como o espiritismo afirma."**
 
 Há uma **aparente contradição retórica** com a existência deste verbete ("Base de Dados do Juízo Final"): o registro mantém ambos os polos em **Colecionar Incertezas** — o conceito de "juízo final" como acervo/processo da criação vs. a negação de "justiça divina" como mecanismo de premiação/castigo. A interpretação do autor parece distinguir **organização/registro de dados** (que existe) de **justiça punitiva pessoal** (que ele nega). Compatibilização completa fica sob curadoria.
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Big Data Cósmico | RC-194 | relaciona-se-a |
-| O Livro do Criador | RC-201 | ← associado-a |
-
-## Citações-chave
-
-> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
-
-- «nós existimos para guardar essas informações, mas a cada vez que esse cérebro que morre, o espírito que anima esse corpo, escaneia as informações para passar para um outro cérebro e enquanto esse jogo durar, vai ser assim, mas no final tem que se tirar tudo e o resto tem que tá limpo para esse essa […]» — *ver:* **Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por …** U0038
-- «Porque o desmascaramento que já foi feito em torno do juízo final simplesmente impediu esse processo maluco que foi vacinado lá atrás por Enoque a pedido de Javé.» — *ver:* **Ampliação — P2021-04-10 (O Fechamento dos Portais e o Imp…** U0016
-

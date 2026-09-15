@@ -18,6 +18,9 @@ Zona intercessória entre o universo material e o antimaterial, onde estão apri
 ## Contexto / Origem
 Criado por autorização excepcional do curador (Devolutiva Trilogia TALM, O-3 — RC-776) a partir do ART-2025-08-03; o termo já era citado em RC-080 (Mensagem Talm) sem código próprio.
 
+## Citações-chave
+> "Essa zona intercessória é conhecida na mitologia nórdica como Ginnungagap. Eles são, na essência, 'heróis frustrados'." — ART-2025-08-03, Cap. 3
+
 ## Ampliação
 ### ART-2025-08-03
 
@@ -41,16 +44,6 @@ Criado por autorização excepcional do curador (Devolutiva Trilogia TALM, O-3 �
 
 - **[Ginnungagap — a interseção entre os universos] (U0006)** «E foi surgindo essa interseção aqui, que na mitologia nórdica é chamada de ginungagap.» — o Ginnungagap (STT "ginungagap/Gimung Gagap") como a interseção entre o universo material e o antimaterial; residência dos Fenvans.
 
-## Fontes
-| Obra/palestra | Localização | Tipo |
-|---|---|---|
-| P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
-| P2021-01-30 | A Mensagem TALM e os Fios Soltos do Destino (palestra) | — | transcrição automatizada; citação |
-| ART-2025-08-03 — Dossiê Fenvans (Edson Cella Mendes) | Parte I, Cap. 3 | material do curador |
-
-## Citações-chave
-> "Essa zona intercessória é conhecida na mitologia nórdica como Ginnungagap. Eles são, na essência, 'heróis frustrados'." — ART-2025-08-03, Cap. 3
-
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
@@ -62,3 +55,10 @@ Criado por autorização excepcional do curador (Devolutiva Trilogia TALM, O-3 �
 - Termo da mitologia nórdica reapropriado pela RC (mesmo padrão de Wyrd/Urd, RC-658);
 - Fonte: material do curador (não primário).
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
+## Fontes
+| Obra/palestra | Localização | Tipo |
+|---|---|---|
+| P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
+| P2021-01-30 | A Mensagem TALM e os Fios Soltos do Destino (palestra) | — | transcrição automatizada; citação |
+| ART-2025-08-03 — Dossiê Fenvans (Edson Cella Mendes) | Parte I, Cap. 3 | material do curador |

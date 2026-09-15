@@ -18,10 +18,8 @@ A tese central de *Homo Sapiens: da Guerra ao Esporte* (B040): **o esporte como 
 ## Contexto / Origem
 O B040 (2014, assinado com o nome civil Rogério de Almeida Freitas) argumenta que o "código que responde pelo jeito de ser de cada espécie" tem genoma derivado da **molécula-mãe** — e o "modo de ser" desconfiado e destrutivo "veio do primeiro DNA", que já surgiu "com essa tendência doentia". Os futuros homo sapiens "tiveram que evoluir para poder praticar esportes sem matar os adversários". O esporte seria a forma evoluída de resolver conflitos sem aniquilação.
 
-## Etimologia e Grafias
-- **Grafia preferida:** Esporte como evolução da Guerra
-- **Variações:** da guerra ao esporte; esporte × guerra; a transição guerreiro-atleta
-
+## Citações-chave
+> "o 'código que responde pelo jeito de ser de cada espécie' da Terra, tem o seu genoma derivado da molécula-mãe... o 'porquê dele ter surgido já com essa tendência doentia é aspecto que somente ressalta como os futuros homo sapiens tiveram que evoluir para poder praticar esportes sem matar os 'adversários', antes, durante ou depois da peleja. Eis o tema principal das reflexões presentes neste livro." — B040, Introdução
 
 ## Ampliação
 ### B040 (Homo Sapiens: da Guerra ao Esporte)
@@ -32,13 +30,13 @@ O B040 (2014, assinado com o nome civil Rogério de Almeida Freitas) argumenta q
 - **[B040 p. 41]** espírito olímpico (séc. VIII a.C. / Kampilia no Mahabharata): a espécie “conseguiu apropriar a genética de praticar contendas sem trucidar o oponente, aprendendo, inclusive, a perder com honra.”
 - **[B040 p. 66–70]** síntese: da molécula-mãe à trégua de Olímpia; “Faça amor, não faça guerra… e não esqueça de praticar esportes.” RC-431 / RC-432 permanecem **sem ficha**. Sem fusão com B015 / B019. Orbum **fora**.
 
-## Fontes
-| Obra (sigla) | Capítulo | Página | Tipo |
-|---|---|---|---|
-| Homo Sapiens: da Guerra ao Esporte (B040) | Introdução e corpo | — | tese central |
+## Etimologia e Grafias
+- **Grafia preferida:** Esporte como evolução da Guerra
+- **Variações:** da guerra ao esporte; esporte × guerra; a transição guerreiro-atleta
 
-## Citações-chave
-> "o 'código que responde pelo jeito de ser de cada espécie' da Terra, tem o seu genoma derivado da molécula-mãe... o 'porquê dele ter surgido já com essa tendência doentia é aspecto que somente ressalta como os futuros homo sapiens tiveram que evoluir para poder praticar esportes sem matar os 'adversários', antes, durante ou depois da peleja. Eis o tema principal das reflexões presentes neste livro." — B040, Introdução
+
+## Seres Associados
+Seres Terrenos (RC-099); Criador (RC-041, origem do DNA doentio).
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -50,9 +48,11 @@ O B040 (2014, assinado com o nome civil Rogério de Almeida Freitas) argumenta q
 | Guerreiro ao Atleta (transição) | RC-431 | é-um |
 | Agressividade canalizada (DNA doentio) | RC-432 | canaliza |
 
-## Seres Associados
-Seres Terrenos (RC-099); Criador (RC-041, origem do DNA doentio).
-
 ## Observações
 Ficha baseada em B040 (obra primária, assinada com nome civil). Obra-ponte entre evolução biológica e comportamento social — conecta a agressividade do DNA (B041/B024) à civilização.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo |
+|---|---|---|---|
+| Homo Sapiens: da Guerra ao Esporte (B040) | Introdução e corpo | — | tese central |

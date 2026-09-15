@@ -18,9 +18,8 @@ Termo extraído e aprovado na curadoria de P2025-05-31.
 ## Contexto / Origem
 O Mistério da Árvore da Vida e a Urdidura de Metatron.
 
-## Etimologia e Grafias
-Forma preferida: Metatron.
-
+## Citações-chave
+Ver transcrição.
 
 ## Ampliação
 ### P2026-07-25
@@ -82,13 +81,12 @@ Forma preferida: Metatron.
 - **[Enoque/Metatron no universo vizinho] (U0069)** «Viveu aqui 60 e poucos anos, mas viveu mais uns bões, bota 500, 600 anos no mínimo, mas dizem que foi inclusive alguns milênios como metatron nesse universo vizinho, ainda que ele fosse Enoque dentro de um e ficou conhecido como um tipo de mercado, como sendo um anjo de Javé.» — Enoque que viveu milênios como Metatron no universo vizinho; STT «mercado» = Metatron (degeneração do STT); «anjo de Javé» (RC-671 Metatron; RC-489 Enoque; RC-001).
 
 
-## Fontes
-P2025-05-31.
-| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
+## Etimologia e Grafias
+Forma preferida: Metatron.
 
 
-## Citações-chave
-Ver transcrição.
+## Seres Associados
+Consultar Base.
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -112,11 +110,13 @@ Ver transcrição.
 | P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
 | P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
 
-## Seres Associados
-Consultar Base.
-
 ## Observações
 Teologia comparada e alegações científicas permanecem atribuídas ao palestrante.
 
 
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-671.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
+
+## Fontes
+P2025-05-31.
+| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
+

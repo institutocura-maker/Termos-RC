@@ -18,9 +18,8 @@ Reconstrução progressiva dos restos fragmentados de Prabrajna/Javé por meio d
 ## Contexto / Origem
 A ficha absorve “cadáver triturado” e “bits quânticos”: informações do corpo manásico fragmentado na memória das partículas.
 
-## Etimologia e Grafias
-- Grafia: Ressurreição do Cadáver do Criador.
-
+## Citações-chave
+> “A ressurreição [...] passa pelos elétrons [...] se reconstruírem nos moldes do antigo corpo.” — P2024-05-04
 
 ## Ampliação
 ### P2025-03-15
@@ -54,17 +53,22 @@ A ficha absorve “cadáver triturado” e “bits quânticos”: informações 
 
 - **[P2023-12-03 · RESSURREIÇÃO DO CADÁVER DO CRIADOR NA FALA DE 03/12/2023]** «essa operação tem que estar numa massa crítica X para poder dar suporte à recreação do corpo do criador e o eu dele novamente ser instalado.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2022-03-26`); a entrada desta fonte é de **conteúdo**, não de data.
 
-## Fontes
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
-| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
-| P2024-05-04 — Prabrajna em Perpérion / Simultaneidade Reversa | U0983–U1118; U1165–U1195 | PDF/transcrição pré-curada |
+## Reforço
+### P2025-02-16
+
+Cada humano é tratado como parte do quebra-cabeça genético necessário à reconstrução do Criador. A Mente Universal e o Oitavo Dia são ligados ao encerramento futuro da criação indevida.
+
+### P2025-02-15
+
+Primado da Informação, Tikun e ação do humano não local são associados ao reparo da obra e reconstrução do Criador. O processo permanece cosmologia RC.
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
+## Etimologia e Grafias
+- Grafia: Ressurreição do Cadáver do Criador.
 
 
-
-## Citações-chave
-> “A ressurreição [...] passa pelos elétrons [...] se reconstruírem nos moldes do antigo corpo.” — P2024-05-04
+## Seres Associados
+Consultar relações acima.
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -88,20 +92,16 @@ A ficha absorve “cadáver triturado” e “bits quânticos”: informações 
 | Especiação Humana — Levas Genéticas | RC-783 | associado |
 | Sophia como Protetorado da Humanidade | RC-784 | associado |
 
-## Seres Associados
-Consultar relações acima.
-
 ## Observações
 Expressão própria e sensível; relacionar ao Tikun e à Fragmentação.
 
 Status candidato por depender de palestra e alegações ainda não cruzadas integralmente com obras primárias.
 
-## Reforço
-### P2025-02-16
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
+| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
+| P2024-05-04 — Prabrajna em Perpérion / Simultaneidade Reversa | U0983–U1118; U1165–U1195 | PDF/transcrição pré-curada |
 
-Cada humano é tratado como parte do quebra-cabeça genético necessário à reconstrução do Criador. A Mente Universal e o Oitavo Dia são ligados ao encerramento futuro da criação indevida.
 
-### P2025-02-15
-
-Primado da Informação, Tikun e ação do humano não local são associados ao reparo da obra e reconstrução do Criador. O processo permanece cosmologia RC.
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

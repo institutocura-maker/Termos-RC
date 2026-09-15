@@ -16,16 +16,19 @@ atualizado = "2026-08-16"
 
 Na leitura comparada de Jan Val Ellam, Yggdrasil designa um conglomerado de nove mundos: oito locas do universo antimaterial articuladas com Marte/Midgard, no universo material, periodicamente conectadas pela Bifrost.
 
-## Estrutura interna
+## Citações-chave
 
-- oito locas do universo vizinho;
-- Marte/Midgard como nono mundo e ponto material;
-- Bifrost como ponte periódica;
-- Odin e sua genealogia como administradores do conglomerado na narrativa;
-- alquimia associada a Kvasir, Odin, Frigg/Freya e anões;
-- Ragnarok como colapso do sistema e destruição de Marte;
-- substituição posterior do eixo por um Axis Mundi terrestre.
+> “Marte [...] passou a fazer parte desse conglomerado de realidades composto por nove mundos, sendo oito do universo vizinho e um do nosso universo.”
 
+
+> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+
+- «Quando Mohen So começou a criar um novo tipo de demo nesse universo chamado Fenvam, ele criou um ser chamado Buri. Esse ser nasceu com duas coisas que não existiam: os órgãos sexuais masculino e feminino. Um ser andrógino [...] Buri e sua descendência, Bor e depois Odin, organizaram um conglomerado […]» — *ver:* **Ampliação — P2024-03-02 (O Drama Espiritual de Jesus)**
+- «As correntes de asgardianos que não estão claramente distinguíveis nas mitologias nórdicas, mas eles aparecem por trás dos padrões da mitologia nórdica. Eles, essas correntes, foi quem mais trouxe, produziu esse fluxo de informações entre Marte e Terra.» — *ver:* **Ampliação — P2024-03-17**
+
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-730.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
 
 ## Ampliação
 ### P2024-08-03
@@ -38,17 +41,23 @@ Na leitura comparada de Jan Val Ellam, Yggdrasil designa um conglomerado de nove
 - **[P2024-07-13] Yggdrasil e as setas (U0390–U0450):** "essa besteira que eu acabei de dizer aqui para vocês: a rebelião dos titãs, a decisão de Cronos, o surgimento de Yggdrasil [STT: 'Yodim Brasil'], as setas que Kvasir [STT: 'Kvase'] lá de Asgard lançou para Midgard — mas não foi para Midgard Marte, foi para Midgard, porque a Terra passou a ser chamada então de Midgard. É por isso que nós estamos aqui. É por isso que houve isolamento da Terra. Começou com essa história, só que ninguém sabe disso"; "os Asgardianos, os Aesir e os Vanir, são duas estirpes que surgiram nesse universo vizinho super modernos... quem assistiu o filme Senhor dos Anéis: são tipo aqueles elfos que aparecem lá, só que meio diferente em alguns padrões".
 - **[P2024-07-13] A terra, o point das fofocas (U0450–U0470):** "a Terra era o point de todas as fofocas, de quem tinha algum padrão de discernimento para fazer a fofoca, porque a maioria das civilizações que existiam aqui são todas insetoides, dragonoides, funcionam na base da obediência a um ser alfa. E não existem indivíduos aqui: existem colônias comandadas por um ser, e são milhões de colônias extraterrestres comandadas por um ser, e essa turma tá viva".
 
-## Fontes
+## Ampliação
+### P2024-03-02 (O Drama Espiritual de Jesus)
 
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2023-07-09 | A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
-| P2024-11-02 | U0141–U0208; U0230–U0302; U0618–U0630; U1029 | palestra/STT pré-curada |
-| P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — |
+- **[Buri — ser andrógino criado por Mohen So, progenitor de Odin]:** «Quando Mohen So começou a criar um novo tipo de demo nesse universo chamado Fenvam, ele criou um ser chamado Buri. Esse ser nasceu com duas coisas que não existiam: os órgãos sexuais masculino e feminino. Um ser andrógino [...] Buri e sua descendência, Bor e depois Odin, organizaram um conglomerado de oito realidades desse universo e mais uma realidade do nosso universo físico. Essas nove realidades passaram a formar o reino de Yggdrasil.» — ver RC-064 (Fenvans), RC-282 (Mohen So).
 
-## Citação-chave
 
-> “Marte [...] passou a fazer parte desse conglomerado de realidades composto por nove mundos, sendo oito do universo vizinho e um do nosso universo.”
+## Ampliação
+### P2023-07-09 (A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons)
+
+- **[Odin — buscava as flechas de Orlog/Moros]** «Odim surgiu com um senso único. Qual senso? Tenta descobrir a verdade, coisa que não existia em nenhum outro ser desse, a não ser em roda por nós» — ver RC-454 (Moros/Orlog), RC-396 (Kvaser).
+
+## Ampliação
+### P2024-03-17
+
+**Fonte:** palestra «A Quem Pertence o Planeta e a Biblioteca Genômica Mais Atualizada do Universo» (17/03/2024).
+
+**Trecho verbatim:** «As correntes de asgardianos que não estão claramente distinguíveis nas mitologias nórdicas, mas eles aparecem por trás dos padrões da mitologia nórdica. Eles, essas correntes, foi quem mais trouxe, produziu esse fluxo de informações entre Marte e Terra.»
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -71,11 +80,13 @@ Na leitura comparada de Jan Val Ellam, Yggdrasil designa um conglomerado de nove
 
 A identificação de Yggdrasil com um sistema interdimensional centrado em Marte é **Teologia Comparada de Ellam**, não consenso da mitologia nórdica, da história das religiões, da astronomia ou da arqueologia. A fala pode sobrepor tradições nórdicas, célticas, hindus e a literatura de Tolkien; identidades duvidosas permanecem `[REVISAR → CHANCELA 10/09/2026 · F040-L5: SEM EQUIVALÊNCIA CANÔNICA (decisão registrada) — ver nota]` e não geram equivalência canônica.
 
-## Ampliação
-### P2024-03-02 (O Drama Espiritual de Jesus)
+## Fontes
 
-- **[Buri — ser andrógino criado por Mohen So, progenitor de Odin]:** «Quando Mohen So começou a criar um novo tipo de demo nesse universo chamado Fenvam, ele criou um ser chamado Buri. Esse ser nasceu com duas coisas que não existiam: os órgãos sexuais masculino e feminino. Um ser andrógino [...] Buri e sua descendência, Bor e depois Odin, organizaram um conglomerado de oito realidades desse universo e mais uma realidade do nosso universo físico. Essas nove realidades passaram a formar o reino de Yggdrasil.» — ver RC-064 (Fenvans), RC-282 (Mohen So).
-
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2023-07-09 | A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
+| P2024-11-02 | U0141–U0208; U0230–U0302; U0618–U0630; U1029 | palestra/STT pré-curada |
+| P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — |
 
 ## Fontes
 | Fonte | Localização | Tipo |
@@ -83,30 +94,18 @@ A identificação de Yggdrasil com um sistema interdimensional centrado em Marte
 | P2024-03-17 | A Quem Pertence o Planeta e a Biblioteca Genômica Mais Atualizada do Universo (palestra) | transcrição automatizada; citação |
 | P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |
 
-## Ampliação
-### P2023-07-09 (A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons)
-
-- **[Odin — buscava as flechas de Orlog/Moros]** «Odim surgiu com um senso único. Qual senso? Tenta descobrir a verdade, coisa que não existia em nenhum outro ser desse, a não ser em roda por nós» — ver RC-454 (Moros/Orlog), RC-396 (Kvaser).
-
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
 | P2023-07-09 | A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
 
-## Ampliação
-### P2024-03-17
+## Estrutura interna
 
-**Fonte:** palestra «A Quem Pertence o Planeta e a Biblioteca Genômica Mais Atualizada do Universo» (17/03/2024).
+- oito locas do universo vizinho;
+- Marte/Midgard como nono mundo e ponto material;
+- Bifrost como ponte periódica;
+- Odin e sua genealogia como administradores do conglomerado na narrativa;
+- alquimia associada a Kvasir, Odin, Frigg/Freya e anões;
+- Ragnarok como colapso do sistema e destruição de Marte;
+- substituição posterior do eixo por um Axis Mundi terrestre.
 
-**Trecho verbatim:** «As correntes de asgardianos que não estão claramente distinguíveis nas mitologias nórdicas, mas eles aparecem por trás dos padrões da mitologia nórdica. Eles, essas correntes, foi quem mais trouxe, produziu esse fluxo de informações entre Marte e Terra.»
-
-## Citações-chave
-
-> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
-
-- «Quando Mohen So começou a criar um novo tipo de demo nesse universo chamado Fenvam, ele criou um ser chamado Buri. Esse ser nasceu com duas coisas que não existiam: os órgãos sexuais masculino e feminino. Um ser andrógino [...] Buri e sua descendência, Bor e depois Odin, organizaram um conglomerado […]» — *ver:* **Ampliação — P2024-03-02 (O Drama Espiritual de Jesus)**
-- «As correntes de asgardianos que não estão claramente distinguíveis nas mitologias nórdicas, mas eles aparecem por trás dos padrões da mitologia nórdica. Eles, essas correntes, foi quem mais trouxe, produziu esse fluxo de informações entre Marte e Terra.» — *ver:* **Ampliação — P2024-03-17**
-
-
-> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-730.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

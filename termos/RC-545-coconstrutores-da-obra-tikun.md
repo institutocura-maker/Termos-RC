@@ -16,14 +16,20 @@ atualizado = "2026-08-28"
 
 Na cosmologia de Ellam, os humanos que se habilitam — via conhecimento, limpeza e sensação de dignidade — a participar da correção do código doente do criador (tikun), construindo no próprio genoma o "app" necessário e formando a massa crítica que resolve o problema.
 
-## Contexto / Origem
-
-[P2024-07-14] A palestra das Consciências Espirituais Dignificadas descreve o pequeno grupo de espíritos lúcidos e a equipe de seres esclarecidos que atuarão "via os seus eus humanos" na criação do primeiro colegiado de consciências dignificadas.
-
 ## Escopo e evidência
 
 - **[P2024-07-14] Unidades:** U0570–U0590; U0660–U0670.
 - **[P2024-07-14] Proveniência:** palestra de Jan Val Ellam; transcrição STT pré-curada; devolutiva do curador registrada em 2026-08-20 (ficha autorizada).
+
+## Contexto / Origem
+
+[P2024-07-14] A palestra das Consciências Espirituais Dignificadas descreve o pequeno grupo de espíritos lúcidos e a equipe de seres esclarecidos que atuarão "via os seus eus humanos" na criação do primeiro colegiado de consciências dignificadas.
+
+## Citações-chave
+> "Nós temos 18.000 anos para fazer isso. Se sobrevivermos enquanto experiência biológica."
+
+*Ocorrência referenciada apenas estruturalmente (índices/listas) nas obras-fonte processadas até o momento. Aguardando processamento de prosa descritiva.*
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
 
 ## Ampliação
 ### P2024-07-14
@@ -66,6 +72,13 @@ Na cosmologia de Ellam, os humanos que se habilitam — via conhecimento, limpez
 - Dignidade como Critério de Consciência — RC-722;
 - Gestão da Sensação Pessoal — RC-633.
 
+## Observações
+
+"18.000 anos" (Colecionar Incertezas — reforça P2024-08-03); a metáfora da luz emprestada como leitura do autor.
+
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-545.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
@@ -75,17 +88,3 @@ Na cosmologia de Ellam, os humanos que se habilitam — via conhecimento, limpez
 | B019 / P2025-02-16 / P2024-11-30 / ART-2026-08-18 | — | obras |
 
 
-
-## Citação-chave
-> "Nós temos 18.000 anos para fazer isso. Se sobrevivermos enquanto experiência biológica."
-
-## Observações
-
-"18.000 anos" (Colecionar Incertezas — reforça P2024-08-03); a metáfora da luz emprestada como leitura do autor.
-
-
-> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-545.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
-
-## Citações-chave
-*Ocorrência referenciada apenas estruturalmente (índices/listas) nas obras-fonte processadas até o momento. Aguardando processamento de prosa descritiva.*
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

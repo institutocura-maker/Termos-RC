@@ -12,6 +12,13 @@ atualizado = "2026-09-12"
 +++
 # Mavátma / Mavatna / Mavat (Vishnu em condição Adhyatman) — RC-503
 
+## Citações-chave
+
+> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+
+- «Vishnu é muito mais poderoso do que Prabrajna, e por isso que o eu caído de Prabrajna, que a gente chama de Brama, é muito inferior ao eu caído de Mavatna, que se chama Vishnu, porque aqui houve mergulho, aqui houve uma queda.» — *ver:* **Ampliação — P2024-03-02 (O Drama Espiritual de Jesus)**
+
+
 ## Ampliação
 ### P2024-03-02 (O Drama Espiritual de Jesus)
 
@@ -29,9 +36,3 @@ atualizado = "2026-09-12"
 | Fonte | Localização | Tipo |
 |---|---|---|
 | P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |
-## Citações-chave
-
-> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
-
-- «Vishnu é muito mais poderoso do que Prabrajna, e por isso que o eu caído de Prabrajna, que a gente chama de Brama, é muito inferior ao eu caído de Mavatna, que se chama Vishnu, porque aqui houve mergulho, aqui houve uma queda.» — *ver:* **Ampliação — P2024-03-02 (O Drama Espiritual de Jesus)**
-

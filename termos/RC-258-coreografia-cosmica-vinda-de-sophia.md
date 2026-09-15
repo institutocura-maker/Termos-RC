@@ -28,21 +28,10 @@ Com isso:
 
 **Origem do conteúdo da ampliação:** palestra `P2025-05-10 — Mistérios do Apocalipse` (10/05/2025). Transcrição automatizada, **não conferida com o áudio**; cada aspa foi recortada do `original.txt` pelo índice de âncoras do motor e conferida byte a byte pelo portão B. Nada foi digitado de memória.
 
-## Observações sobre o Estado da Malha
-
-* **Grafia STT:** 'Coreografia Cósmica' (nome do termo, não do bruto). A vinda de Sofia está ancorada em P2025-05-10 (a nave de 2.000 km) e em fontes anteriores (B016, P2024-07-13).
-* **Trava aplicável**: nenhuma além das gerais do despacho.
-
 ## Ampliação
 ### P2025-05-10 (Mistérios do Apocalipse)
 
 - **[A Nova Jerusalém, nave de 2.000 km] (U0010)** «O anjo e João mediram então a cidade com a vara e deu 12.000 estádios.» — a 'Nova Jerusalém' (RC-258) é a nave de Sofia: '12.000 estádios' = cerca de 2.000 km, metade da lua cheia — estacionada à distância lunar, fora do alcance de mísseis.
-
-## Fontes
-| Obra (sigla) | Título | Página | Tipo |
-|---|---|---|---|
-| P2025-05-10 | Mistérios do Apocalipse (palestra) | — | transcrição automatizada; citação |
-| B016 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -53,3 +42,14 @@ Com isso:
 | Isolamento Cósmico | RC-070 | **sem aresta** em `RELACOES`; arquivo existe |
 | Apocalipse (livro de João, ditado por Sofia/Rockman) | RC-854 | associado |
 
+
+## Fontes
+| Obra (sigla) | Título | Página | Tipo |
+|---|---|---|---|
+| P2025-05-10 | Mistérios do Apocalipse (palestra) | — | transcrição automatizada; citação |
+| B016 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
+
+## Observações sobre o Estado da Malha
+
+* **Grafia STT:** 'Coreografia Cósmica' (nome do termo, não do bruto). A vinda de Sofia está ancorada em P2025-05-10 (a nave de 2.000 km) e em fontes anteriores (B016, P2024-07-13).
+* **Trava aplicável**: nenhuma além das gerais do despacho.

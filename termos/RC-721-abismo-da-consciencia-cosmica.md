@@ -15,14 +15,11 @@ atualizado = "2026-08-16"
 ## Definição Sintética
 Na formulação de Jan Val Ellam, é a distância entre poder ou conhecimento e a capacidade de reconhecer, compreender e agir diante do sofrimento, da indignidade e do caos. O conceito é aplicado, na palestra, a consciências humanas, espirituais, cósmicas e paradisíacas.
 
-## Estrutura interna
+## Citações-chave
+> “Há um abismo na consciência cósmica, há um abismo na consciência espiritual, há um abismo na consciência humana.”
 
-- faces do abismo na consciência humana e espiritual;
-- face da Providência, detalhada em RC-723;
-- pureza extrema e incapacidade de reconhecer o caos;
-- críticas a Javé, Krishna, Jesus, Sai Baba e instituições, sempre atribuídas ao palestrante;
-- relação com o Buraco Negro Mental/Consciencial — RC-717.
-
+> "Dito isso, o título da palestra, 'o abismo da consciência cósmica', já vai dizendo que é um problema muito sério, aonde não divirjas de nenhum tipo de problema. Mas, infelizmente, há um abismo na consciência cósmica, há um abismo na consciência espiritual, há um abismo na consciência humana. Abismos existem em todos os níveis de consciência, devido ao problema que nós estamos vivendo. Problema esse que nunca foi decifrado, mas foi inventada toda uma narrativa falsa que nos cegou durante muito tempo. E isso, durante milênios, fez com que seres humanos transitórios, temporais, seres espirituais eternos, ou seja lá como queiramos chamar, e outros tipos de seres, todos nós embarcássemos numa situação de demência, de protorracionalidade, de irracionalidade, de uma quase racionalidade."" — P2024-11-09
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** os 2 trechos entre aspas desta ficha **não** resistem à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Só 1 dos 2 deixam vestígio no corpus. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
 
 ## Ampliação
 ### P2024-11-09
@@ -38,14 +35,6 @@ Na formulação de Jan Val Ellam, é a distância entre poder ou conhecimento e 
 - **A perda da linguagem comum:** "se nós não tivermos as palavras adequadas para nos referirmos aos significados que sejam comuns à nossa forma de pensar, a racionalidade humana deixa de existir"; "o movimento woke tá cretinizando de vez com a humanidade" [quarentena política]; o exemplo de Trump/posse (narrativa × fotos) [quarentena política].
 - **Freud:** "aquilo que aparentemente transcende não transcende pro céu, é só imagem humana; a transcendência é falsa, porque é só uma questão de imaginação nossa" [quarentena].
 - **Independência intelectual:** "para você fazer leitura honesta dos fatos, você precisa de independência intelectual, você precisa de liberdade mental"; "ficar cativo da preferência e prisioneiro do significado... e tornar-se intolerante, o nome disso é transtorno psíquico".
-
-## Fontes
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2024-11-09 | U0001–U0068; U0125–U0140; U0180–U0259; U0350–U0360; U0800–U1075 | palestra/STT |
-
-## Citação-chave
-> “Há um abismo na consciência cósmica, há um abismo na consciência espiritual, há um abismo na consciência humana.”
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -69,6 +58,16 @@ Na formulação de Jan Val Ellam, é a distância entre poder ou conhecimento e 
 Conceito interno da cosmologia e crítica filosófica de Ellam. Não é diagnóstico psicológico, psiquiátrico ou neurocientífico. As “faces dos poderosos” são juízos atribuídos ao palestrante, não consenso histórico ou religioso.
 
 
-## Citações-chave
-> "Dito isso, o título da palestra, 'o abismo da consciência cósmica', já vai dizendo que é um problema muito sério, aonde não divirjas de nenhum tipo de problema. Mas, infelizmente, há um abismo na consciência cósmica, há um abismo na consciência espiritual, há um abismo na consciência humana. Abismos existem em todos os níveis de consciência, devido ao problema que nós estamos vivendo. Problema esse que nunca foi decifrado, mas foi inventada toda uma narrativa falsa que nos cegou durante muito tempo. E isso, durante milênios, fez com que seres humanos transitórios, temporais, seres espirituais eternos, ou seja lá como queiramos chamar, e outros tipos de seres, todos nós embarcássemos numa situação de demência, de protorracionalidade, de irracionalidade, de uma quase racionalidade."" — P2024-11-09
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** os 2 trechos entre aspas desta ficha **não** resistem à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Só 1 dos 2 deixam vestígio no corpus. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2024-11-09 | U0001–U0068; U0125–U0140; U0180–U0259; U0350–U0360; U0800–U1075 | palestra/STT |
+
+## Estrutura interna
+
+- faces do abismo na consciência humana e espiritual;
+- face da Providência, detalhada em RC-723;
+- pureza extrema e incapacidade de reconhecer o caos;
+- críticas a Javé, Krishna, Jesus, Sai Baba e instituições, sempre atribuídas ao palestrante;
+- relação com o Buraco Negro Mental/Consciencial — RC-717.
+

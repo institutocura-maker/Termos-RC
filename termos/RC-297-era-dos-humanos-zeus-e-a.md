@@ -18,10 +18,8 @@ A **"Era dos Humanos"** é o período em que a espécie humana emergiu como prot
 ## Contexto / Origem
 A Era dos Humanos sucede o fechamento dos portais: sem acesso direto, os deuses tentaram controlar a humanidade por oráculos, pitonisas e pelas artes trágicas gregas (Píndaro, Apolodoro, Sófocles, Eurípedes) — "todo esse conjunto de notícias que Zeus quis transmitir à humanidade, buscando mostrar o quanto ele era importante". A Era dos Humanos também é o cenário da **dissolução da Tríade (2015–2017)**: com o universo demo se desestruturando ("estão perdendo sua casa"), Zeus busca construir um "projeto de migração" dos demos para o nosso universo — movimento inverso ao de Yel Luzbel há ~50 mil anos.
 
-## Etimologia e Grafias
-- **Grafia preferida:** Era dos Humanos
-- **Variações:** Zeus e a Impensável "Era dos Humanos"; a era em que os humanos imperam
-
+## Citações-chave
+> "Ele invadiu, sim, a 'Era dos Humanos', mas as religiões que posteriormente foram surgindo transformaram o seu esforço em nada, numa mera criação literária. Entretanto, foi desse modo que Zeus tentou lidar com a 'Era dos Humanos', sendo o seu objetivo o de ser tido como o 'deus dos humanos', o 'pai dos humanos'." — B021, cap. 23
 
 ## Ampliação
 ### B087 (A Revolta do Anjo Decaído)
@@ -40,13 +38,20 @@ A Era dos Humanos sucede o fechamento dos portais: sem acesso direto, os deuses 
 - **[B088 p. 90 · a profecia de Témis]** "o início da criação de **uma nova espécie de seres que poderão pensar e falar e que, num futuro ainda distante, serão chamados de humanos**."
 - 0 códigos novos (O-3). **B088 adicionada às fontes** (Devolutiva O-6).
 
-## Fontes
-| Obra (sigla) | Capítulo | Página | Tipo |
-|---|---|---|---|
-| Tempos Difíceis no Olimpo (B021) | cap. 23 (Zeus e a Impensável "Era dos Humanos") | pp. 130–145 (aprox.) | capítulo dedicado |
+## Atualização
+### P2025-11-29 (A Revelação de Ifá e o Destino dos Seres)
 
-## Citações-chave
-> "Ele invadiu, sim, a 'Era dos Humanos', mas as religiões que posteriormente foram surgindo transformaram o seu esforço em nada, numa mera criação literária. Entretanto, foi desse modo que Zeus tentou lidar com a 'Era dos Humanos', sendo o seu objetivo o de ser tido como o 'deus dos humanos', o 'pai dos humanos'." — B021, cap. 23
+- **Contexto da destinação:** "os humanos são a última espécie e a espécie que vai definir o futuro universal" — a Era dos Humanos como o palco da ressignificação das vrittis (RC-760) e dos 256 caminhos (RC-767);
+- "Em nascendo na condição humana, 256 possibilidades eles terão" (todos os seres que precisam cumprir destinos).
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
+## Etimologia e Grafias
+- **Grafia preferida:** Era dos Humanos
+- **Variações:** Zeus e a Impensável "Era dos Humanos"; a era em que os humanos imperam
+
+
+## Seres Associados
+Zeus (RC-145); humanos (RC-099); demos (RC-049); Caos/Javé (RC-284).
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -59,17 +64,12 @@ A Era dos Humanos sucede o fechamento dos portais: sem acesso direto, os deuses 
 | Drama do Fechamento dos Portais | RC-295 | sucede |
 | Dissolução da Tríade (2015–2017) | RC-300 | contexto |
 
-## Seres Associados
-Zeus (RC-145); humanos (RC-099); demos (RC-049); Caos/Javé (RC-284).
-
 ## Observações
 Ficha baseada em B021 (obra primária). A Era dos Humanos é o desfecho do "Tempos Difíceis no Olimpo": os deuses tornam-se mitos e a humanidade emerge. Cruzar com RC-238 (Era Sapiens) e RC-300.
 
 ---
 
-## Atualização
-### P2025-11-29 (A Revelação de Ifá e o Destino dos Seres)
-
-- **Contexto da destinação:** "os humanos são a última espécie e a espécie que vai definir o futuro universal" — a Era dos Humanos como o palco da ressignificação das vrittis (RC-760) e dos 256 caminhos (RC-767);
-- "Em nascendo na condição humana, 256 possibilidades eles terão" (todos os seres que precisam cumprir destinos).
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo |
+|---|---|---|---|
+| Tempos Difíceis no Olimpo (B021) | cap. 23 (Zeus e a Impensável "Era dos Humanos") | pp. 130–145 (aprox.) | capítulo dedicado |

@@ -18,10 +18,8 @@ A revelação central de *Homoafetividade: O Segredo Perdido do Éden* (B052): *
 ## Contexto / Origem
 A tese: a desconfiança (doença do DNA do Criador) impedia a união dos seres; a força de atração sexual surgiu como **mecanismo de coesão** — "o gosto ou preferência pelos indivíduos do mesmo sexo surgiu nesse ponto da evolução", antes de a questão "macho e fêmea" se estabelecer. Quando as polaridades foram edificadas, "já existia a força daquela atração marcada em muitos seres e, para eles, pouco ou nada importava se o corpo que agora possuíam era de macho ou de fêmea". A **homoafetividade** (RC-434) é o resquício dessa força original.
 
-## Etimologia e Grafias
-- **Grafia preferida:** Força de Atração Sexual (anterior à polaridade)
-- **Variações:** força de atração; força sexual original; a força que antecede macho/fêmea
-
+## Citações-chave
+> "A força que move os humanos ao sexo é anterior a tudo o que existe sob a perspectiva das organizações das formas animalizadas." — B052 (fala atribuída a um ser da estirpe de Heber)
 
 ## Ampliação
 ### P2024-08-03
@@ -37,13 +35,13 @@ A tese: a desconfiança (doença do DNA do Criador) impedia a união dos seres; 
 - **[B052 p. 233]** nos pluricelulares a sexualidade surge "como subproduto de uma força desconhecida cuja meta era a de gerar um 'movimento de consciência' diametralmente oposto ao que mantinha os organismos desgraçadamente desconfiados".
 - Voz de Despina (narradora) ≠ ontologia automática. **Quarentena clínica** na leitura de preferência sexual.
 
-## Fontes
-| Obra (sigla) | Capítulo | Página | Tipo |
-|---|---|---|---|
-| Homoafetividade (B052) | Narrativas (trecho da força sexual) | — | revelação central |
+## Etimologia e Grafias
+- **Grafia preferida:** Força de Atração Sexual (anterior à polaridade)
+- **Variações:** força de atração; força sexual original; a força que antecede macho/fêmea
 
-## Citações-chave
-> "A força que move os humanos ao sexo é anterior a tudo o que existe sob a perspectiva das organizações das formas animalizadas." — B052 (fala atribuída a um ser da estirpe de Heber)
+
+## Seres Associados
+Demos da geração do Olimpo (RC-049); Despina (ser que narra); Heber (RC-436) e Joctan (RC-437), testemunhas.
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -58,9 +56,11 @@ A tese: a desconfiança (doença do DNA do Criador) impedia a união dos seres; 
 | Mistérios Dionisíacos | RC-441 | ← associado-a |
 | Sangue como Cópia da Seiva | RC-689 | associado |
 
-## Seres Associados
-Demos da geração do Olimpo (RC-049); Despina (ser que narra); Heber (RC-436) e Joctan (RC-437), testemunhas.
-
 ## Observações
 Ficha baseada em B052 (obra primária, 2016). Tese ousada: a atração sexual como mecanismo de coesão anterior à polaridade — explica a homoafetividade como herança demo original. Cruzar com RC-433/434/435.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo |
+|---|---|---|---|
+| Homoafetividade (B052) | Narrativas (trecho da força sexual) | — | revelação central |

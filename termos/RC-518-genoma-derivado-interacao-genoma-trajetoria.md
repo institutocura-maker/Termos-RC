@@ -16,6 +16,10 @@ atualizado = "2026-08-19"
 
 Conceito da RC sobre a interação genoma × trajetória do eu. Na palestra P2026-07-25, o genoma humano é apresentado como "a grande joia" da criação de 13,8 bilhões de anos — não o corpo, mas **o que um eu faz do seu genoma**: a construção interior (padrões de genética pessoal, como Jesus e Sidarta Gautama) como preciosidade disputada pelos conselhos.
 
+## Citações-chave
+
+> "Não é o ser humano que é a joia. É o que um eu de um ser humano faz do seu genoma." — P2026-07-25
+
 ## Ampliação
 ### P2026-07-25 (Genoma como Joia absorvido)
 
@@ -31,16 +35,6 @@ Devolutiva do curador (19/08/2026): "Genoma Humano como Joia" absorvido aqui (e 
 ### P2025-03-15
 
 - **Genoma/epigenoma (P2025-03-15):** "o eu da gente trabalha só esses genes que produzem proteína... 25.869 genes [STT — REVISAR → CHANCELA 10/09/2026 · F039-L5: NÚMERO COMO FALADO (B5; paralelo em RC-710, mesma fala) — ver nota]"; "o eu de um ser humano, as sensações que sente, se referem ao uso que ele faz da produção proteica"; Freud: forças ocultas no inconsciente; "o inconsciente é separado do consciente por uma barreira".
-
-## Fontes
-
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2026-07-25 | Jesus e a Dinastia das Sophias (Dossiê aprovado 19/08/2026) | palestra/STT pré-curada |
-
-## Citação-chave
-
-> "Não é o ser humano que é a joia. É o que um eu de um ser humano faz do seu genoma." — P2026-07-25
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -66,3 +60,9 @@ Quarentena científica — leitura do autor.
 
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-518.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
+## Fontes
+
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2026-07-25 | Jesus e a Dinastia das Sophias (Dossiê aprovado 19/08/2026) | palestra/STT pré-curada |

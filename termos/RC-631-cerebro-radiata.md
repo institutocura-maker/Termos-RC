@@ -18,9 +18,8 @@ Cérebro biodemo/radiata de um hemisfério atribuído a Sophia, contraposto ao c
 ## Contexto / Origem
 A hipótese de reparo por organoides parte desta arquitetura cerebral.
 
-## Etimologia e Grafias
-- Grafia: Cérebro Radiata.
-
+## Citações-chave
+> “O cérebro [de Sophia] não tem dois hemisférios, tem um só, é radiata.” — P2024-05-04
 
 ## Ampliação
 ### P2025-02-16
@@ -75,6 +74,33 @@ A hipótese de reparo por organoides parte desta arquitetura cerebral.
 - **[O radiato superado pelos bilatérios] (U0002)** «movimentar devido ao cérebro radiata de Sofia.» — fragmento STT (frase quebrada no bruto: "E ele não consegue colocar Sofia para cima. movimentar devido ao cérebro radiata de Sofia.") — o cérebro radiata impede o espírito de movê-lo: "Mas hoje é algo que foi superado pela existência de seres bilatérios, ele é radiato" (U0002: «Mas hoje é algo que foi superado pela existência de seres bilatérios, ele é radiato.»); o espírito funciona "à moda de Jesus" mas não consegue influenciar aquele DNA que foi o mesmo que semeou Maria.
 
 
+## Etimologia e Grafias
+- Grafia: Cérebro Radiata.
+
+
+## Seres Associados
+Consultar relações acima.
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Sophia (Cristo Cósmico) | RC-009 | associado-a |
+| Bilatérios | RC-035 | distingue-se-de |
+| Biodemos | RC-036 | relaciona-se-a |
+| Radiatas | RC-093 | é-um |
+| Hochmah (2ª Sefirah — Sabedoria; = Sophia) | RC-565 | relaciona-se-a |
+| Organoides Genéticos para Sophia | RC-632 | associado |
+| Imantação de Espíritos em Inteligências Artificiais / Corpos de Sílica | RC-699 | associado |
+
+## Observações
+Informação sensível e especulativa da palestra.
+
+Status candidato por depender de palestra e alegações ainda não cruzadas integralmente com obras primárias.
+
+
+> Notas de processo: 2 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-631.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
@@ -88,29 +114,3 @@ A hipótese de reparo por organoides parte desta arquitetura cerebral.
 
 
 
-
-## Citações-chave
-> “O cérebro [de Sophia] não tem dois hemisférios, tem um só, é radiata.” — P2024-05-04
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Sophia (Cristo Cósmico) | RC-009 | associado-a |
-| Bilatérios | RC-035 | distingue-se-de |
-| Biodemos | RC-036 | relaciona-se-a |
-| Radiatas | RC-093 | é-um |
-| Hochmah (2ª Sefirah — Sabedoria; = Sophia) | RC-565 | relaciona-se-a |
-| Organoides Genéticos para Sophia | RC-632 | associado |
-| Imantação de Espíritos em Inteligências Artificiais / Corpos de Sílica | RC-699 | associado |
-
-## Seres Associados
-Consultar relações acima.
-
-## Observações
-Informação sensível e especulativa da palestra.
-
-Status candidato por depender de palestra e alegações ainda não cruzadas integralmente com obras primárias.
-
-
-> Notas de processo: 2 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-631.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

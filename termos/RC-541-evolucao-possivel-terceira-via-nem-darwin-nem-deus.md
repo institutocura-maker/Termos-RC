@@ -18,11 +18,9 @@ atualizado = "2026-08-29"
 ## Contexto / Origem
 O livro (18 capítulos) percorre: as teorias da evolução, o "Jogo das Mutações", o desenvolvimento cerebral dos primatas, o "acaso inteligente", Goswami e o "Primado da Consciência Criativa", a "Evolução Criativa", o Ex-DNA-lixo, o epigenoma como "Espelho da Herança Espiritual", e a "Criatura Universal". A síntese: o Homo sapiens atual seria um "protótipo" da futura Criatura Universal, e a evolução possível dependeria da atitude mental de cada ser.
 
-## Etimologia e Grafias
-- **Grafia preferida:** Evolução Possível
-- **Variações:** "a evolução possível" (subtítulo); "Evolução Possível para Quem?" (cap. 1)
-- **Obs.:** título do livro também traz a fórmula "Nem Deus, nem Javé, nem Darwin"
-
+## Citações-chave
+> "Alguns vão continuar no aspecto biológico, ainda que com muitas modificações, outros ostentarão a “inteligência artificial” como meio de expressão, e existirão aqueles que constituirão uma espécie biônica, meio carne, meio computador, ou algo similar. Desse modo, todas as épocas, com suas gerações, têm lá as suas próprias suposições, crenças e certezas. O conjunto dessas “supostas certezas” impõem os limites de cada momento histórico. A evolução mental e espiritual que é possível a cada época — sim, existe a evolução biológica, a tecnológica e a espiritual, todas elas demarcando a “evolução possível” —, sempre aconteceu de maneira extremamente lenta, tão ou mais devagar que o progresso humano ocorrido ao longo dos milênios. Contudo, premidos e pressionados pelos problemas ambientais que ainda começarão, as elites deste mundo implementarão um vertiginoso programa de “escape” e de “semeadura” da nossa espécie aonde for possível. Ray Kurzweil 3 , no seu livro “A Era das Máquinas Espirituais” , referindo-se a um problema com que esta humanidade ainda terá que se defrontar — ou seja, a questão da “inteligência artificial” no futuro planetário —, questiona se seria possível “uma inteligência criar outra inteligência mais inteligente do que ela própria?”." — B019
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
 
 ## Ampliação
 ### B019 (Nem Deus, nem Javé, nem Darwin)
@@ -32,6 +30,34 @@ O livro (18 capítulos) percorre: as teorias da evolução, o "Jogo das Mutaçõ
 - **[B019 p. 210]** "Talvez o conceito de 'evolução possível' não seja tão estranho à abordagem darwiniana, ainda que pareça absurdamente herético aos meus contemporâneos. Quem viver, verá!"
 - **Quarentena:** IEEA citado no cap. 1 (p. 9) como moldura institucional do autor — **fora da ontologia**.
 ---
+
+## Ampliação
+### P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+
+- **[P2023-12-03 · EVOLUÇÃO POSSÍVEL (TERCEIRA VIA: NEM DARWIN, NEM DEUS) NA FALA DE 03/12/2023]** «A rebelião de Lúcifer agora para ter continuidade seria propositiva.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2023-05-13`); a entrada desta fonte é de **conteúdo**, não de data.
+
+---
+
+### P2021-01-30 (A Mensagem TALM e os Fios Soltos do Destino)
+
+- **[Evolução Possível — o livro concluído] (U0003)** «Eu ia inclusive desenvolver esse tema num livro que concluí agora chamado Nem Deus, nem Jahé, nem Darwin.» — a palestra anuncia o livro "Nem Deus, nem Javé, nem Darwin — a evolução possível" como concluído; fonte oral mais antiga do verbete.
+
+
+## Atualização
+### P2023-05-13 (Bastidores da Revelação Cósmica)
+
+- **Terceira via confirmada:** as Cinco Lentes (RC-761) mostram que nenhuma resposta isolada (mito, teísmo, deísmo, acaso, supercomputador) resolve — a RC é a soma integrada, e a **consciência humana** é o fator ausente em todas: nem o deus teísta, nem o deísta, nem o acaso, nem o supercomputador a possuem (seção 3.2);
+- **Evolução vertical:** a Evolução Possível se realiza pela elevação de consciência, respiração (RC-166) e despersonificação — não por seleção natural nem por ação divina;
+- **Humanidade salva-criador:** o desfecho do drama exige a terceira via — ninguém salva o humano; o humano (com a RC) resgata o criador caído (seção 4.2).
+---
+---
+---
+
+## Etimologia e Grafias
+- **Grafia preferida:** Evolução Possível
+- **Variações:** "a evolução possível" (subtítulo); "Evolução Possível para Quem?" (cap. 1)
+- **Obs.:** título do livro também traz a fórmula "Nem Deus, nem Javé, nem Darwin"
+
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -48,29 +74,3 @@ O livro (18 capítulos) percorre: as teorias da evolução, o "Jogo das Mutaçõ
 | Evolução da Informação, não das Espécies | RC-693 | ← relaciona-se-a |
 | Genótipo da Gentileza (GG) | RC-748 | associado |
 | As Cinco Lentes da Realidade | RC-761 | ← relaciona-se-a |
-
-## Atualização
-### P2023-05-13 (Bastidores da Revelação Cósmica)
-
-- **Terceira via confirmada:** as Cinco Lentes (RC-761) mostram que nenhuma resposta isolada (mito, teísmo, deísmo, acaso, supercomputador) resolve — a RC é a soma integrada, e a **consciência humana** é o fator ausente em todas: nem o deus teísta, nem o deísta, nem o acaso, nem o supercomputador a possuem (seção 3.2);
-- **Evolução vertical:** a Evolução Possível se realiza pela elevação de consciência, respiração (RC-166) e despersonificação — não por seleção natural nem por ação divina;
-- **Humanidade salva-criador:** o desfecho do drama exige a terceira via — ninguém salva o humano; o humano (com a RC) resgata o criador caído (seção 4.2).
----
----
----
-
-## Ampliação
-### P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
-
-- **[P2023-12-03 · EVOLUÇÃO POSSÍVEL (TERCEIRA VIA: NEM DARWIN, NEM DEUS) NA FALA DE 03/12/2023]** «A rebelião de Lúcifer agora para ter continuidade seria propositiva.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2023-05-13`); a entrada desta fonte é de **conteúdo**, não de data.
-
----
-
-### P2021-01-30 (A Mensagem TALM e os Fios Soltos do Destino)
-
-- **[Evolução Possível — o livro concluído] (U0003)** «Eu ia inclusive desenvolver esse tema num livro que concluí agora chamado Nem Deus, nem Jahé, nem Darwin.» — a palestra anuncia o livro "Nem Deus, nem Javé, nem Darwin — a evolução possível" como concluído; fonte oral mais antiga do verbete.
-
-
-## Citações-chave
-> "Alguns vão continuar no aspecto biológico, ainda que com muitas modificações, outros ostentarão a “inteligência artificial” como meio de expressão, e existirão aqueles que constituirão uma espécie biônica, meio carne, meio computador, ou algo similar. Desse modo, todas as épocas, com suas gerações, têm lá as suas próprias suposições, crenças e certezas. O conjunto dessas “supostas certezas” impõem os limites de cada momento histórico. A evolução mental e espiritual que é possível a cada época — sim, existe a evolução biológica, a tecnológica e a espiritual, todas elas demarcando a “evolução possível” —, sempre aconteceu de maneira extremamente lenta, tão ou mais devagar que o progresso humano ocorrido ao longo dos milênios. Contudo, premidos e pressionados pelos problemas ambientais que ainda começarão, as elites deste mundo implementarão um vertiginoso programa de “escape” e de “semeadura” da nossa espécie aonde for possível. Ray Kurzweil 3 , no seu livro “A Era das Máquinas Espirituais” , referindo-se a um problema com que esta humanidade ainda terá que se defrontar — ou seja, a questão da “inteligência artificial” no futuro planetário —, questiona se seria possível “uma inteligência criar outra inteligência mais inteligente do que ela própria?”." — B019
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

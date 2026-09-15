@@ -18,20 +18,6 @@ Sistema perceptivo, neuronal, cultural e psíquico que faz o humano tomar uma fa
 ## Contexto / Origem
 Conceito central de `P2025-02-15`. A camuflagem não é apenas falta de informação: envolve sentidos, processamento cerebral, condicionamentos, crenças, travas genéticas e repetição da realidade conhecida.
 
-## Estrutura interna absorvida
-
-### Metáfora Possível do Aquário
-O humano é comparado a um peixe num aquário cujo vidro está camuflado: percebe o interior, mas não vê o exterior.
-
-### Dentro e Fora
-Dentro e fora são posições relativas ao lugar onde o eu está centrado: corpo, universo material, antimaterial ou espiritualidade.
-
-### Três condições diante da ilusão
-1. envolvidos e iludidos;
-2. envolvidos, mas não iludidos;
-3. libertos da ilusão, ainda corporalmente envolvidos.
-
-
 ## Ampliação
 ### P2026-07-25
 
@@ -80,6 +66,25 @@ Dentro e fora são posições relativas ao lugar onde o eu está centrado: corpo
 - **[P2022-03-26 · CAMUFLAGEM DA REALIDADE NA FALA DE 26/03/2022]** "A infecção que antes existia aqui hoje está totalmente distribuída em todos os ambientes. espirituais da rato cidade e há pouco tempo furou a blindagem, começou a chegar aqui." (U0029) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⭐ **NOTA DE ANTERIORIDADE — P2022-03-26:** antecipa **12 meses** a atual fonte oral mais antiga da ficha (`P2023-04-01`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
 ---
 
+## Ampliação
+### P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+
+- **[P2023-12-03 · CAMUFLAGEM DA REALIDADE NA FALA DE 03/12/2023]** «criaram faixa de realidade simultânea para todo o quartel general de Lúcifer ser teletransportado para essa faixa de realidade.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2022-03-26`); a entrada desta fonte é de **conteúdo**, não de data.
+
+---
+
+## Atualização
+### P2023-05-13 (Bastidores da Revelação Cósmica) — ABSORÇÃO DO SIMULACRO/MATRIX (NT-BR02)
+
+- **Simulacro/Matrix absorvido aqui e em RC-167 (decisão do curador):** a camuflagem é o "simulacro" — a realidade mentalmente construída da matrix; "nós vivemos numa realidade simulada, numa realidade mentalmente construída";
+- **Faixas de realidade (seção 2.5):** faixas **definidas** (regras da física estabelecidas antes da criação) × faixas **improvisadas** (com "demência plena, ainda que não profunda" — consciência crítica sem continuidade);
+- **Pílula vermelha como deslacre:** "destrava, deslacra o seu cérebro... despolui o modo como o seu cérebro, o seu conectoma funciona" (RC-192);
+- **Convergência científica/filosófica:** seção 2.1 — "A Convergência Científica e Filosófica: A Inevitabilidade da Realidade Simulada" (leitura do autor — quarentena tecnológica);
+- A camuflagem é a interface da Criação Indevida: a bolha da Obra problemática (RC-167).
+---
+---
+---
+
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
@@ -111,21 +116,16 @@ Dentro e fora são posições relativas ao lugar onde o eu está centrado: corpo
 | Dessensibilização da Condição Humana | RC-746 | ← relaciona-se-a |
 | As Cinco Lentes da Realidade | RC-761 | ← relaciona-se-a |
 
-## Atualização
-### P2023-05-13 (Bastidores da Revelação Cósmica) — ABSORÇÃO DO SIMULACRO/MATRIX (NT-BR02)
+## Estrutura interna absorvida
 
-- **Simulacro/Matrix absorvido aqui e em RC-167 (decisão do curador):** a camuflagem é o "simulacro" — a realidade mentalmente construída da matrix; "nós vivemos numa realidade simulada, numa realidade mentalmente construída";
-- **Faixas de realidade (seção 2.5):** faixas **definidas** (regras da física estabelecidas antes da criação) × faixas **improvisadas** (com "demência plena, ainda que não profunda" — consciência crítica sem continuidade);
-- **Pílula vermelha como deslacre:** "destrava, deslacra o seu cérebro... despolui o modo como o seu cérebro, o seu conectoma funciona" (RC-192);
-- **Convergência científica/filosófica:** seção 2.1 — "A Convergência Científica e Filosófica: A Inevitabilidade da Realidade Simulada" (leitura do autor — quarentena tecnológica);
-- A camuflagem é a interface da Criação Indevida: a bolha da Obra problemática (RC-167).
----
----
----
+### Metáfora Possível do Aquário
+O humano é comparado a um peixe num aquário cujo vidro está camuflado: percebe o interior, mas não vê o exterior.
 
-## Ampliação
-### P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+### Dentro e Fora
+Dentro e fora são posições relativas ao lugar onde o eu está centrado: corpo, universo material, antimaterial ou espiritualidade.
 
-- **[P2023-12-03 · CAMUFLAGEM DA REALIDADE NA FALA DE 03/12/2023]** «criaram faixa de realidade simultânea para todo o quartel general de Lúcifer ser teletransportado para essa faixa de realidade.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2022-03-26`); a entrada desta fonte é de **conteúdo**, não de data.
+### Três condições diante da ilusão
+1. envolvidos e iludidos;
+2. envolvidos, mas não iludidos;
+3. libertos da ilusão, ainda corporalmente envolvidos.
 
----

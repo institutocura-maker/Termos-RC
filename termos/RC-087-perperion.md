@@ -18,10 +18,8 @@ Perpérion é um dos cinco Archeons de Ereon e o setor da Espiritualidade Labora
 ## Contexto / Origem
 A palestra o apresenta junto a Antérion, Danérion, Mermérion e Tempérion. É o domínio do Gênero Adhy, da espécie Pashvnaj e de Prabrajna/Adhyprabrajna — o foco em que se inicia o problema da Criação Indevida. Os seres LM Elm e Olm não se originam aqui: vêm de Tempérion para observar a imponderabilidade, interagem em Perpérion e acabam mergulhando no processo.
 
-## Etimologia e Grafias
-- Grafia preferida: Perpérion. Variações de STT: Perpério, Perfério, Perpéria, Perpérian. Não confundir com Tempérion.
-- **Fonte de decisão:** curadoria estrutural C-01 a C-07, 2026-08-14.
-
+## Citações-chave
+> “A turma de Perpérion foi a que mais ousou [...] trabalhando criações com seres independentes e codependentes.” — P2021-12-04, U0042–U0051; U0200–U0268; U0294–U0337
 
 ## Ampliação
 ### P2024-05-04-R
@@ -37,14 +35,13 @@ A palestra o apresenta junto a Antérion, Danérion, Mermérion e Tempérion. É
 - **[P2023-07-30 · o trem fantasma]** "esse trem paradisíaco que unia [as figuras]... **o CIRCUITO DA PERFEIÇÃO — isso aqui parou com o problema de Prabrajna**... durante a escrita [do livro inédito], Javé começava a ter RECORDAÇÕES... **era um processo de humanização de Javé.**"
 - 0 códigos novos (O-3). [A nota: a versão de Javé — "empurrado, traído" — no bloco RC-528.]
 
-## Fontes
-| Obra/palestra | Localização | Tipo |
-|---|---|---|
-| P2021-12-04 — Os Archeons de Ereon e os Seres Adhy | U0042–U0051; U0200–U0268; U0294–U0337 | transcrição automatizada; pré-curadoria validada |
-| Fontes anteriores da Base | B031, B024, B013, B060 | apoio/remissão |
+## Etimologia e Grafias
+- Grafia preferida: Perpérion. Variações de STT: Perpério, Perfério, Perpéria, Perpérian. Não confundir com Tempérion.
+- **Fonte de decisão:** curadoria estrutural C-01 a C-07, 2026-08-14.
 
-## Citações-chave
-> “A turma de Perpérion foi a que mais ousou [...] trabalhando criações com seres independentes e codependentes.” — P2021-12-04, U0042–U0051; U0200–U0268; U0294–U0337
+
+## Seres Associados
+Ver relações acima e os nós Elm (RC-454), Olm (RC-092), Prabrajna (RC-152), Gênero Adhy (RC-411) e Seres LM (RC-456), conforme aplicável.
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -75,11 +72,14 @@ A palestra o apresenta junto a Antérion, Danérion, Mermérion e Tempérion. É
 | Mermérion | RC-599 | associado |
 | Cinco Seres LM de Tempérion | RC-607 | ← enviado-a |
 
-## Seres Associados
-Ver relações acima e os nós Elm (RC-454), Olm (RC-092), Prabrajna (RC-152), Gênero Adhy (RC-411) e Seres LM (RC-456), conforme aplicável.
-
 ## Observações
 A decisão C-02 confirmou que “Impérial” (RC-497) é erro histórico de STT para Perpérion.
 
 **Regra de evidência:** as correções ontológicas foram aprovadas pelo curador, mas a fonte continua sendo STT sem áudio anexado.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
+## Fontes
+| Obra/palestra | Localização | Tipo |
+|---|---|---|
+| P2021-12-04 — Os Archeons de Ereon e os Seres Adhy | U0042–U0051; U0200–U0268; U0294–U0337 | transcrição automatizada; pré-curadoria validada |
+| Fontes anteriores da Base | B031, B024, B013, B060 | apoio/remissão |

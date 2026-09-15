@@ -18,6 +18,9 @@ Nome demo de Pandora (RC-086): a identidade de Pandora antes da humanização, n
 ## Contexto / Origem
 A ficha de Pandora (RC-086) registra a identidade-val, e a de Kalil Kadmon (RC-299) narra a cadeia de dignificação que culmina no «sorriso de Pandora». O fechamento do triângulo documental vem de B020 (Pandora = Val Dimon) e B060 (Kalil Kadmon = Val Dimon), já averbados em relacoes/.
 
+## Citações-chave
+> "Foram os 9 Val que começaram a operar fora das naves, e que morreram logo na primeira experiência há aproximadamente há 599 mil anos atrás. Estes passaram a ser chamados de “Os 9 Val dos Corpos Perdidos”. Também foram chamados de Val Dimensionados, pois “estranhamente” as suas consciências passaram a habitar uma nova dimensão a qual chamaram de Val-Ha. Passaram a se comunicar com os demais da Família Val através do Processador Val. Os 9 Val dos Corpos Perdidos ou Dimensionados eram: Val Sean, Val Sion, Val Den, Val Dimon, Val Bon, Val Antien, Val Anen, Val Am e Val Aten. Val Ean: Biodemo da Família Val. Foi dotado de senso prático, de visão estratégica singular e de grande conhecimento na área da navegação aérea. Val El ou Val Ellam: Biodemo da Família Val que teve (e tem) papel preponderante nos desdobramentos da história da Revelação Cósmica. Foi urgido no Sistema de Capela, dentro de uma das 3 naves da Família Val (Espherian, Asphezian e Espheron), há aproximadamente 230 milhões de anos. Vivia com os demais 735 membros de sua família, mais especificamente no planeta Zian, onde os 736 indivíduos se dedicavam à arte da codificação cósmica." — B031, p. 11
+
 ## Etimologia e Grafias
 - Grafia preferida: Val Dimon
 - Variações: Val Dimon (biodemo) → Pandora (humanizada)
@@ -37,13 +40,6 @@ A ficha de Pandora (RC-086) registra a identidade-val, e a de Kalil Kadmon (RC-2
 - RC-086 — ver ficha correspondente
 - RC-299 — ver ficha correspondente
 
-## Fontes
-| Obra/palestra | Localização | Tipo |
-|---|---|---|
-| B031 | — | registro-mestre (fonte censada) |
-| B020 | — | registro-mestre (fonte censada) |
-| B060 | — | registro-mestre (fonte censada) |
-
 ## Observações
 Verbete exigido pela seção IV.17.4 da Enciclopédia (Pandora, o Éden e as hibridações). As identidades sobrepostas de Pandora são uma das «identidades que se confundem» que o percurso top-down manda destravar no N2.
 
@@ -51,8 +47,12 @@ Verbete exigido pela seção IV.17.4 da Enciclopédia (Pandora, o Éden e as hib
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-118.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
 
 
-## Citações-chave
-> "Foram os 9 Val que começaram a operar fora das naves, e que morreram logo na primeira experiência há aproximadamente há 599 mil anos atrás. Estes passaram a ser chamados de “Os 9 Val dos Corpos Perdidos”. Também foram chamados de Val Dimensionados, pois “estranhamente” as suas consciências passaram a habitar uma nova dimensão a qual chamaram de Val-Ha. Passaram a se comunicar com os demais da Família Val através do Processador Val. Os 9 Val dos Corpos Perdidos ou Dimensionados eram: Val Sean, Val Sion, Val Den, Val Dimon, Val Bon, Val Antien, Val Anen, Val Am e Val Aten. Val Ean: Biodemo da Família Val. Foi dotado de senso prático, de visão estratégica singular e de grande conhecimento na área da navegação aérea. Val El ou Val Ellam: Biodemo da Família Val que teve (e tem) papel preponderante nos desdobramentos da história da Revelação Cósmica. Foi urgido no Sistema de Capela, dentro de uma das 3 naves da Família Val (Espherian, Asphezian e Espheron), há aproximadamente 230 milhões de anos. Vivia com os demais 735 membros de sua família, mais especificamente no planeta Zian, onde os 736 indivíduos se dedicavam à arte da codificação cósmica." — B031, p. 11
+## Fontes
+| Obra/palestra | Localização | Tipo |
+|---|---|---|
+| B031 | — | registro-mestre (fonte censada) |
+| B020 | — | registro-mestre (fonte censada) |
+| B060 | — | registro-mestre (fonte censada) |
 
 ## 6. Histórico Curatorial e Auditoria
 

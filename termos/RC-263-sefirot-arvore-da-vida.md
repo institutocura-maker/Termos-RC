@@ -18,11 +18,8 @@ A **"Árvore da Vida"** é um dos símbolos cabalísticos fundamentais — um "d
 ## Contexto / Origem
 Na leitura de B013, a Cabala surgiu como **reação de Javé ao gnosticismo** (séc. II d.C.): Javé "decidiu ofertar, ao conhecimento judeu, uma descrição sobre a extensão do seu 'império além-mundo'" utilizando "a metáfora do que passou a ser conhecido como a 'Árvore da Vida' e as 'Sefiroth'". As três principais Sefirot ("Emanações ou Manifestações Fenomênicas de Deus") foram projetadas a partir de Atziluth.
 
-## Etimologia e Grafias
-- **Grafia preferida:** Sefirot / Árvore da Vida
-- **Variações:** Sefiroth; Árvore da Vida; dez Emanações da Divindade; Doutrina das Emanações das Sefiroth
-- **Idioma de origem:** hebraico (ספירות = emanações/números)
-
+## Citações-chave
+> "Para muitos, a 'Árvore da Vida' – um dos símbolos cabalísticos fundamentais – é um diagrama da emanação do universo a partir do 'Uno', a 'Unidade Deificada' escondida por trás de tudo que existe nesta Criação. Outros a veem como sendo um plano para permitir ao homem a escalada das dez 'Sefiroth' que compõem a 'Árvore da Vida', e representam as dez 'Emanações da Divindade'." — B013, cap. 6
 
 ## Ampliação
 ### P2025-05-31
@@ -62,18 +59,14 @@ Na leitura de B013, a Cabala surgiu como **reação de Javé ao gnosticismo** (s
 
 - **[Sefirot — as 10 emanações] (U0006)** «Mas se você pegar as 10firá, o da Cabalá ou da Cabala, você vai ver que nove das personificações ou emanações da divindade existem aqui que Ter, que é brah o primeiro, biná que é shoka, que é visno.» — as 10 Sefirot (STT "10firá"): nove personificações existem aqui; Hochmah = Malkuth (a décima).
 
-## Fontes
-| Obra (sigla) | Capítulo | Página | Tipo |
-|---|---|---|---|
-| P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
-| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra) | — | transcrição automatizada; citação |
-| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra) | — | transcrição automatizada; citação |
-| Tzimtzum (B013) | cap. 6 (Os Planos de Existência da Cabala) | pp. 75–85 (aprox.) | conceito central |
+## Etimologia e Grafias
+- **Grafia preferida:** Sefirot / Árvore da Vida
+- **Variações:** Sefiroth; Árvore da Vida; dez Emanações da Divindade; Doutrina das Emanações das Sefiroth
+- **Idioma de origem:** hebraico (ספירות = emanações/números)
 
 
-
-## Citações-chave
-> "Para muitos, a 'Árvore da Vida' – um dos símbolos cabalísticos fundamentais – é um diagrama da emanação do universo a partir do 'Uno', a 'Unidade Deificada' escondida por trás de tudo que existe nesta Criação. Outros a veem como sendo um plano para permitir ao homem a escalada das dez 'Sefiroth' que compõem a 'Árvore da Vida', e representam as dez 'Emanações da Divindade'." — B013, cap. 6
+## Seres Associados
+Kether/Javé (RC-261); Deidade (RC-047).
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -101,12 +94,19 @@ Na leitura de B013, a Cabala surgiu como **reação de Javé ao gnosticismo** (s
 | Malkuth | RC-682 | ← é-um |
 | Malkuth | RC-682 | ← relaciona-se-a |
 
-## Seres Associados
-Kether/Javé (RC-261); Deidade (RC-047).
-
 ## Observações
 Ficha baseada em B013 (obra primária). As Sefirot conectam a Cabala à cosmologia RC: são o "mapa" do império além-mundo de Javé. Cruzar com RC-264 (os quatro universos associados às Sefirot).
 
 
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-263.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo |
+|---|---|---|---|
+| P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
+| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra) | — | transcrição automatizada; citação |
+| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra) | — | transcrição automatizada; citação |
+| Tzimtzum (B013) | cap. 6 (Os Planos de Existência da Cabala) | pp. 75–85 (aprox.) | conceito central |
+
+

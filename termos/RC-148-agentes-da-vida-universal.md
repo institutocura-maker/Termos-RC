@@ -18,11 +18,8 @@ São os **seres vivos que expressam o fenômeno da vida** no universo: "sem os s
 ## Contexto / Origem
 Termo-título da obra primária *A Epopeia dos Agentes da Vida Universal* (B024, 2019). O livro narra a história por trás dos "Agentes" de um "Jogo" — o **Xadrez Cósmico** — executado por Divindades (a Trimurti), tomando as espécies da vida universal como suas "equipes". Inclui anjos-clones, demos, biodemos, fenvans e as espécies biológicas do universo material.
 
-## Etimologia e Grafias
-- **Grafia preferida:** Agentes da Vida Universal
-- **Variações:** agentes da vida; agentes da informação cósmica; agentes básicos da vida universal (os elétrons, por extensão)
-- **Obs.:** a "epopeia" refere-se à saga das consciências espirituais (mônadas) ao longo da Criação "indevida"
-
+## Citações-chave
+> "A 'epopeia dos agentes da vida universal' começou quando o caos e o tormento se manifestaram nesta Criação. O grande problema é que não há nada que exista em lugar algum da Criação 'indevida', dos níveis de Perpérion ou da Espiritualidade Superior, que possa existir sem que haja uma 'mônada espiritual' dando estrutura a esse corpo, seja uma pedra, uma planta, um animal ou mesmo um robô." — B024, cap. 15
 
 ## Ampliação
 ### P2025-05-31
@@ -43,14 +40,14 @@ Termo-título da obra primária *A Epopeia dos Agentes da Vida Universal* (B024,
 - **[B024 p. 81]** há ~6 bilhões de anos o processo de criar seres vivos se redirecionou do antimaterial para o material: os “Agentes da Vida Universal” passaram a intensificá-lo no Bhuloka, com o “Projeto Talm”.
 - **[B024 p. 108–111]** divisão de competências da Trimurti sobre os agentes: Brahma doa o CFDP; Vishnu dá o “modelo consciencial”; Shiva organiza/destrói formas e semeia o conhecimento que liberta do *samsara*. A epopeia “começou quando o caos e o tormento se manifestaram nesta Criação” (p. 109). Cada agente é “peça importante e única” (p. 111). RC-100 permanece **sem ficha** (RC-012/013 materializadas P5/P5c; RC-019 já tem ficha).
 
-## Fontes
-| Obra (sigla) | Capítulo | Página | Tipo |
-|---|---|---|---|
-| A Epopeia dos Agentes da Vida Universal (B024) | Sinopse; caps. 15, 16, 17 | pp. 5, 109–123 (aprox.) | conceito central da obra |
-| Painéis Emergentes... (B031) | Glossário (Seres Extrafísicos etc.) | — | apoio (fonte secundária) |
+## Etimologia e Grafias
+- **Grafia preferida:** Agentes da Vida Universal
+- **Variações:** agentes da vida; agentes da informação cósmica; agentes básicos da vida universal (os elétrons, por extensão)
+- **Obs.:** a "epopeia" refere-se à saga das consciências espirituais (mônadas) ao longo da Criação "indevida"
 
-## Citações-chave
-> "A 'epopeia dos agentes da vida universal' começou quando o caos e o tormento se manifestaram nesta Criação. O grande problema é que não há nada que exista em lugar algum da Criação 'indevida', dos níveis de Perpérion ou da Espiritualidade Superior, que possa existir sem que haja uma 'mônada espiritual' dando estrutura a esse corpo, seja uma pedra, uma planta, um animal ou mesmo um robô." — B024, cap. 15
+
+## Seres Associados
+Anjos clones (RC-019); Demos (RC-049); Biodemos (RC-036); Fenvans (RC-064); Seres Terrenos (RC-099).
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -75,9 +72,12 @@ Termo-título da obra primária *A Epopeia dos Agentes da Vida Universal* (B024,
 | Código Genético como Marca da Herança Demoníaca | RC-825 | associado |
 | Era do Colapso do Caos Organizado | RC-827 | associado |
 
-## Seres Associados
-Anjos clones (RC-019); Demos (RC-049); Biodemos (RC-036); Fenvans (RC-064); Seres Terrenos (RC-099).
-
 ## Observações
 Ficha baseada na leitura de B024 (obra primária). Verificar nos capítulos 15–17 os detalhes do "programa existencial" e o papel das mônadas na estruturação dos corpos.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo |
+|---|---|---|---|
+| A Epopeia dos Agentes da Vida Universal (B024) | Sinopse; caps. 15, 16, 17 | pp. 5, 109–123 (aprox.) | conceito central da obra |
+| Painéis Emergentes... (B031) | Glossário (Seres Extrafísicos etc.) | — | apoio (fonte secundária) |

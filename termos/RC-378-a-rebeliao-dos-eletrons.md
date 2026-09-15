@@ -18,10 +18,8 @@ A "rebelião dos elétrons" é o **movimento inconsciente de rebelião íntima n
 ## Contexto / Origem
 A obra B041 (2018) desenvolve o tema: os elétrons, "sujados" pela violência imperativa das espécies predadoras, começaram a "marcar caos, horror e tragédia" nos seus circuitos quânticos; a rebelião inconsciente (cap. 17) provoca desdobramentos tanto no ordenamento quanto no caos. O cap. 22 revela o sentido profundo: para Javé, a rebelião é "a oportunidade de salvação do que resta da sua consciência". A **ressonância mórfica** (Sheldrake) entre antielétrons e elétrons foi o "principal agente" da rebelião.
 
-## Etimologia e Grafias
-- **Grafia preferida:** A Rebelião dos Elétrons
-- **Variações:** rebelião inconsciente no âmbito dos elétrons; rebelião íntima dos elétrons; a "rebelião" (aspas na obra)
-
+## Citações-chave
+> "A 'rebelião dos elétrons' foi e é o único padrão modificador do Código de Vida Pessoal do Criador (ou seja, do CFDP), daí o título do presente livro. A 'rebelião dos elétrons' é a única maneira possível deles ajudarem o Criador 'caído', pois em vez de Javé comandar os elétrons – que são suas partes desagregadas –, eles atuarão sobre ele, só que comandados pelas mentes das 'criaturas-ferramentas' geradas para esse fim." — B041, cap. 22
 
 ## Ampliação
 ### P2025-03-15
@@ -86,24 +84,26 @@ A obra B041 (2018) desenvolve o tema: os elétrons, "sujados" pela violência im
 
 - **[A rebelião dos elétrons e o DNA] (U0014)** «se você age feito um Reptil, porque você já tem cérebro reptiliano lá dentro, você termina despertando aqui alguma coisa.» — o despertar do DNA lixo (a rebelião como recusa de reproduzir o que está marcado): "no DNA, nos 28.869 genes humanos, só 2, 3% tá ativo, o resto é lixo" (U0014: «No DNA, nos 28.869 genes humanos, só 2, 3% tá ativo»); "tudo que veio dele, de todos esses seres que não presta, tá no DNA da gente. Só que fechado" (U0014: «Mas tudo que veio dele, de todos esses seres que não presta, tá no DNA da gente. Só que fechado»).
 
-## Fontes
-| Obra (sigla) | Capítulo | Página | Tipo |
-|---|---|---|---|
-| P2022-07-16 | Do Ramayana ao Mahabharata (palestra) | — | transcrição automatizada; citação |
-| P2022-12-03 | O Ocaso do Criador e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
-| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra) | — | transcrição automatizada; citação |
-| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra) | — | transcrição automatizada; citação |
-| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra) | — | transcrição automatizada; citação |
-| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra) | — | transcrição automatizada; citação |
-| A Rebelião dos Elétrons (B041) | caps. 17, 21, 22 | pp. 130–150, 165–184 (aprox.) | tema-título |
-| A Epopeia dos Agentes da Vida (B024) | cap. 13 (Mistério dos Elétrons) | — | apoio |
+## Reforço
+### P2025-03-15
+
+A rebelião é aprofundada como **saturação memorial e desobediência dos elétrons**: eles deixariam de aceitar a repetição de padrões de dor e passariam a colapsar arquiteturas do caos organizado. O “Princípio de Schopenhauer” — dor da presa superior ao prazer do predador — foi absorvido nesta ficha, sem código próprio.
+
+A hipótese sobre reprodução, orientação sexual e identidade de gênero permanece isolada como divergência não consensual; não altera silenciosamente RC-434.
+
+**Fonte:** P2025-03-15, U0116–U0120, U0311–U0384, U0723–U0789 e U1148–U1155 — fonte incompleta.
 
 
+> Notas de processo: 2 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-378.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
+## Etimologia e Grafias
+- **Grafia preferida:** A Rebelião dos Elétrons
+- **Variações:** rebelião inconsciente no âmbito dos elétrons; rebelião íntima dos elétrons; a "rebelião" (aspas na obra)
 
 
-
-## Citações-chave
-> "A 'rebelião dos elétrons' foi e é o único padrão modificador do Código de Vida Pessoal do Criador (ou seja, do CFDP), daí o título do presente livro. A 'rebelião dos elétrons' é a única maneira possível deles ajudarem o Criador 'caído', pois em vez de Javé comandar os elétrons – que são suas partes desagregadas –, eles atuarão sobre ele, só que comandados pelas mentes das 'criaturas-ferramentas' geradas para esse fim." — B041, cap. 22
+## Seres Associados
+Javé (RC-001); Criador (RC-041); Seres Terrenos (RC-099, "criaturas-ferramentas").
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -142,21 +142,21 @@ A obra B041 (2018) desenvolve o tema: os elétrons, "sujados" pela violência im
 | Ocaso do Criador (a segunda derrocada do criador reconstruído) | RC-863 | associado |
 | Guardadores de Lixo Memorial (os humanos como hospedeiros da sujeira) | RC-866 | associado |
 
-## Seres Associados
-Javé (RC-001); Criador (RC-041); Seres Terrenos (RC-099, "criaturas-ferramentas").
-
 ## Observações
 Ficha baseada em B041 (obra primária) + B024. A Rebelião dos Elétrons é o conceito-título da obra — conecta a física quântica ao drama de Javé (a rebelião como "salvação" do Criador).
 
-## Reforço
-### P2025-03-15
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo |
+|---|---|---|---|
+| P2022-07-16 | Do Ramayana ao Mahabharata (palestra) | — | transcrição automatizada; citação |
+| P2022-12-03 | O Ocaso do Criador e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
+| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra) | — | transcrição automatizada; citação |
+| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra) | — | transcrição automatizada; citação |
+| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra) | — | transcrição automatizada; citação |
+| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra) | — | transcrição automatizada; citação |
+| A Rebelião dos Elétrons (B041) | caps. 17, 21, 22 | pp. 130–150, 165–184 (aprox.) | tema-título |
+| A Epopeia dos Agentes da Vida (B024) | cap. 13 (Mistério dos Elétrons) | — | apoio |
 
-A rebelião é aprofundada como **saturação memorial e desobediência dos elétrons**: eles deixariam de aceitar a repetição de padrões de dor e passariam a colapsar arquiteturas do caos organizado. O “Princípio de Schopenhauer” — dor da presa superior ao prazer do predador — foi absorvido nesta ficha, sem código próprio.
-
-A hipótese sobre reprodução, orientação sexual e identidade de gênero permanece isolada como divergência não consensual; não altera silenciosamente RC-434.
-
-**Fonte:** P2025-03-15, U0116–U0120, U0311–U0384, U0723–U0789 e U1148–U1155 — fonte incompleta.
 
 
-> Notas de processo: 2 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-378.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+

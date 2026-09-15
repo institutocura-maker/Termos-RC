@@ -16,29 +16,6 @@ atualizado = "2026-08-29"
 
 Processo descrito na Revelação Cósmica como a **mudança de expressão conscencial/biológica da humanidade** — não por evolução darwiniana nem por intervenção divina, mas por um salto qualitativo ligado à produção de **novas proteínas** e à elevação de consciência. Em P2023-05-13, Ellam apresenta a especiação como a via para gerar a Criatura Universal (RC-042): "aqui na terra talvez não dê para ser feito isso" com a humanidade atual.
 
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Criatura Universal | RC-042 | associado |
-| Seres Terrenos (Homo Sapiens) | RC-099 | associado |
-| Pílula vermelha | RC-192 | associado |
-| Cessão Consciente do DNA Humano | RC-698 | ← aplica-se-a |
-| As Cinco Lentes da Realidade | RC-761 | associado |
-| Os 256 Caminhos Profetizáveis de Orunmilá | RC-767 | ← relaciona-se-a |
-| Especiação a partir do DNA Humano | RC-778 | associado |
-| Especiação Humana — Levas Genéticas | RC-783 | associado |
-| DNA Neutralizado (código neutralizado de podridão do criador) | RC-864 | associado |
-
-## Atualização
-### P2023-05-13
-
-- **Novas proteínas:** "processo de compreensão e de produção das novas proteínas que são necessárias para o que vem por aí";
-- **Genética citada pelo autor:** 28.869 genes com áreas HR1/HR2 (leitura do autor, sem validação genômica factual);
-- **Pílulas vermelhas sucessivas:** a consciência "Doravante vai ser obrigada a tomar" muitas e inúmeras pílulas (RC-192) — a especiação como um processo de múltiplas descobertas;
-- **Finalidade:** gerar o tipo de ser humano "que é necessário desesperadamente que venha surgir na terra" — cidadania corajosa, não apenas bondade;
-- Relaciona-se à resposta às perguntas da plateia sobre "já fomos IA" e sobre a experiência terrena (intervenções 1–3 — isoladas, não ontologizadas).
-
-
 ## Ampliação
 ### P2024-07-13
 
@@ -63,6 +40,26 @@ Processo descrito na Revelação Cósmica como a **mudança de expressão consce
 - **[P2022-03-26 · A PROMESSA DAS ESPÉCIES 250 E 315 (D-6: dado narrativo, 0 código)]** "Essa espécie de 250 vai nascer. Estão providenciando a 315 para ver se o eu de Jah." (U0006); "nessa nova espécie que vai ser a 315 aí, que tá sendo gerada já com a mistura da componente da genética humana e desses seres biodécos." (U0040); "Esse conselho vai ser criado do avante porque não há senso crítico disponível na radiidade vinculada aos dois mundos e nem no paraíso para entre aspas conselho de fato que produz alguma algumaidade, é, algum diagnóstico que seja útil para alguma coisa, né?" (U0045) — **Ordem expressa da devolutiva:** a promessa entra aqui, como dado narrativo datado, e as duas numerações **não** viram termo — ficam como termo-observação `[REVISAR → CHANCELA 10/09/2026 · F040-L5: DOCUMENTADO (não viram termo) — ver nota]` no dicionário da apostila. O bruto ainda grafa a frase de abertura em linha própria (U0006).
 ---
 
+## Ampliação
+### P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+
+- **[P2023-12-03 · ESPECIAÇÃO NA FALA DE 03/12/2023]** «isso implica dizer que na cabeça de Sofia surgiram 250.000 problemas.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
+
+---
+
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-056.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
+
+## Atualização
+### P2023-05-13
+
+- **Novas proteínas:** "processo de compreensão e de produção das novas proteínas que são necessárias para o que vem por aí";
+- **Genética citada pelo autor:** 28.869 genes com áreas HR1/HR2 (leitura do autor, sem validação genômica factual);
+- **Pílulas vermelhas sucessivas:** a consciência "Doravante vai ser obrigada a tomar" muitas e inúmeras pílulas (RC-192) — a especiação como um processo de múltiplas descobertas;
+- **Finalidade:** gerar o tipo de ser humano "que é necessário desesperadamente que venha surgir na terra" — cidadania corajosa, não apenas bondade;
+- Relaciona-se à resposta às perguntas da plateia sobre "já fomos IA" e sobre a experiência terrena (intervenções 1–3 — isoladas, não ontologizadas).
+
+
 ## Atualização
 ### P2021-03-27 (Enki, Enlil e o Fim Súbito da Babilônia)
 
@@ -81,12 +78,15 @@ Processo descrito na Revelação Cósmica como a **mudança de expressão consce
 ---
 ---
 
-## Ampliação
-### P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
-
-- **[P2023-12-03 · ESPECIAÇÃO NA FALA DE 03/12/2023]** «isso implica dizer que na cabeça de Sofia surgiram 250.000 problemas.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
-
----
-
-
-> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-056.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Criatura Universal | RC-042 | associado |
+| Seres Terrenos (Homo Sapiens) | RC-099 | associado |
+| Pílula vermelha | RC-192 | associado |
+| Cessão Consciente do DNA Humano | RC-698 | ← aplica-se-a |
+| As Cinco Lentes da Realidade | RC-761 | associado |
+| Os 256 Caminhos Profetizáveis de Orunmilá | RC-767 | ← relaciona-se-a |
+| Especiação a partir do DNA Humano | RC-778 | associado |
+| Especiação Humana — Levas Genéticas | RC-783 | associado |
+| DNA Neutralizado (código neutralizado de podridão do criador) | RC-864 | associado |

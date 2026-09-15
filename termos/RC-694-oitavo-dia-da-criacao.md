@@ -26,12 +26,10 @@ A palestra distingue três possibilidades:
 
 Apenas a terceira possibilidade é descrita como auspiciosa. Ela requer ciência pessoal, Quarto Cérebro, consciência superior, cessão consciente do DNA e possível especiação/exportação de núcleos humanos.
 
-## Absorções
+## Citações-chave
+> “Esse novo tempo desse oitavo dia da criação vai acontecer de todo jeito.”
 
-- Três Cenários do Oitavo Dia;
-- Rotatividade do Poder Local e Herança Humana da Terra;
-- dimensão temporal do Novo Ser Humano, sem duplicar `RC-544`.
-
+> “Este é o oitavo dia da criação. Ou o humano executa ou não terá.”
 
 ## Ampliação
 ### P2025-02-16
@@ -46,16 +44,6 @@ Apenas a terceira possibilidade é descrita como auspiciosa. Ela requer ciência
 
 - **[P2023-06-17 · O OITAVO DIA — A FONTE ANTECIPADA (jun/2023, ~2 anos antes da P2025-02-16)]** **ANTONINE MEER** [STT — [REVISAR → CHANCELA 2026-09-06 · F039-L3: AGUARDA-ÁUDIO (STT preservado como falado) — ver nota]; a escritora canadense], a quem um repórter fez uma pergunta irônica: "**É, meus livros até podem não ser conhecidos, mas eu escrevo porque EU ME CONSIDERO A ARTESÃ DO OITAVO DIA DA CRIAÇÃO** — as religiões dizem que Deus trabalhou um dia, dois, três, no sétimo ele descansou. **EU ACHO QUE ELE NÃO FEZ TUDO. Então eu trabalho nesse oitavo dia.** Antes, até o sétimo dia, **esse pássaro que tá cantando ali na árvore — ESSE CANTO NÃO EXISTIA, não foi Deus que [fez]. Esse pássaro É UM ARTESÃO TAMBÉM DO OITAVO DIA. COMO EU SOU. TODOS NÓS SOMOS ARTESÃOS DESSE OITAVO DIA DA CRIAÇÃO. ESSA CRIAÇÃO É INCOMPLETA**" — o oitavo dia como a cocriação contínua (RC-545): "nós somos recriadores, nós somos cocriadores... há um princípio sempre renovador em cada processo de pulsação".
 - 0 códigos novos (O-3). A antecipação: o conceito lavrado na P2025-02-16 já pulsava em jun/2023.
-
-## Fontes
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2025-02-16 | U0260–U0266; U0807–U0843; U0859–U0914; U1117–U1118 | aula/palestra STT |
-
-## Citações-chave
-> “Esse novo tempo desse oitavo dia da criação vai acontecer de todo jeito.”
-
-> “Este é o oitavo dia da criação. Ou o humano executa ou não terá.”
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -96,3 +84,15 @@ Apenas a terceira possibilidade é descrita como auspiciosa. Ela requer ciência
 
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-694.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** os 2 trechos entre aspas desta ficha **não** resistem à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Só 1 dos 2 deixam vestígio no corpus. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2025-02-16 | U0260–U0266; U0807–U0843; U0859–U0914; U1117–U1118 | aula/palestra STT |
+
+## Absorções
+
+- Três Cenários do Oitavo Dia;
+- Rotatividade do Poder Local e Herança Humana da Terra;
+- dimensão temporal do Novo Ser Humano, sem duplicar `RC-544`.
+

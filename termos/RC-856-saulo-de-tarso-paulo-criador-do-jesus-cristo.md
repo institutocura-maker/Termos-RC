@@ -28,13 +28,6 @@ Com isso:
 
 **Origem do conteúdo da ampliação:** palestra `P2025-05-10 — Mistérios do Apocalipse` (10/05/2025). Transcrição automatizada, **não conferida com o áudio**; cada aspa foi recortada do `original.txt` pelo índice de âncoras do motor e conferida byte a byte pelo portão B. Nada foi digitado de memória.
 
-## Observações sobre o Estado da Malha
-
-[Aguardando Ditado Livre]
-
-* **Grafia STT:** 'Saulo de Tarso' / 'Saulo de Társ' / 'Paulo' (literal). Perseguidor convertido; nunca conheceu Jesus em vida — só as 'fofocas' do Sinédrio e o relato de Ananias.
-* **Trava aplicável**: nenhuma além das gerais do despacho.
-
 ## Ampliação
 ### P2025-05-10 (Mistérios do Apocalipse)
 
@@ -46,15 +39,22 @@ Com isso:
 - **[Paulo nunca conheceu Jesus] (U0034)** «que conta a versão oficial sobre Jesus, a que Paulo transmitiu, mas Paulo nem conheceu Jesus.» — a Igreja Católica do século 4 escolheu a versão de Paulo (o "Jesus Cristo", herói da Marvel) e destruiu as demais; Paulo, que nunca conheceu Jesus, inventou o Cristo das versões oficiais.
 
 
-## Fontes
-| Obra (sigla) | Título | Página | Tipo |
-|---|---|---|---|
-| P2023-02-11 | Agente Humano Jesus e os Arcontes (palestra) | — | transcrição automatizada; citação |
-| P2025-05-10 | Mistérios do Apocalipse (palestra) | — | transcrição automatizada; citação |
-
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
 | Segundo Advento do Cristo (Volta de Jesus) | RC-005 | **sem aresta** em `RELACOES`; arquivo existe |
 | Sophia (Cristo Cósmico) | RC-009 | **sem aresta** em `RELACOES`; arquivo existe |
 
+
+## Fontes
+| Obra (sigla) | Título | Página | Tipo |
+|---|---|---|---|
+| P2023-02-11 | Agente Humano Jesus e os Arcontes (palestra) | — | transcrição automatizada; citação |
+| P2025-05-10 | Mistérios do Apocalipse (palestra) | — | transcrição automatizada; citação |
+
+## Observações sobre o Estado da Malha
+
+[Aguardando Ditado Livre]
+
+* **Grafia STT:** 'Saulo de Tarso' / 'Saulo de Társ' / 'Paulo' (literal). Perseguidor convertido; nunca conheceu Jesus em vida — só as 'fofocas' do Sinédrio e o relato de Ananias.
+* **Trava aplicável**: nenhuma além das gerais do despacho.

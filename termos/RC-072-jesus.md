@@ -23,106 +23,6 @@ Figura central do drama da RC: na leitura de Jan Val Ellam, Jesus é a expressã
 - «E somos todos nós cativos dessa infecção, já que todos fomos acostumados a pedir, a pedir, a querer receber sempre, a esperar milagres, a esperar bênçãos, a blá blá blá, a blá blá blá, o tal pedi e vos será dado, que Jesus em tese falou lá atrás, é um erro terrível, porque esta frase, e aí eu […]» — *ver:* **Ampliação — P2025-12-14 (Os Fundamentos da Revelação Cósm…** U0007
 - «Existe uma falha nessa história que ninguém nunca escreveu [...] O problema todo reside porque Jesus apropriou os discípulos de São João Batista como sendo os seus primeiros apóstolos [...] houve uma transferência de uma pureza defendida pelos essênios, que ferrou com Jesus até o último segundo em […]» — *ver:* **Ampliação — P2024-03-02 (O Drama Espiritual de Jesus)**
 
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | relaciona-se-a |
-| Segundo Advento do Cristo (Volta de Jesus) | RC-005 | associado |
-| Sophia (Cristo Cósmico) | RC-009 | ← gera |
-| Adhyajna | RC-016 | associado |
-| Criador (Brahma/Javé/Demiurgo) | RC-041 | associado |
-| Quarto Logos (Olm / Codificador de Zian) | RC-092 | associado |
-| Val Elliah | RC-121 | associado |
-| Val Ellieh | RC-122 | associado |
-| Yel Am / Yel Liam | RC-138 | associado |
-| Yel Liam | RC-140 | associado |
-| Pílula vermelha | RC-192 | associado |
-| Agente do Mais Alto | RC-214 | associado |
-| Agente Secreto do Bem | RC-219 | ← variação |
-| Prevalece o Amor | RC-224 | associado |
-| Gestão Cósmica | RC-225 | ← divide-com |
-| O Calvário de um Inocente | RC-236 | ← envolve |
-| Apolônio de Tiana (encarnação do Quarto Logos) | RC-259 | associado |
-| Gnosticismo (contraponto à Cabala) | RC-268 | relaciona-se-a |
-| A Falsa Trindade (Concílio de Niceia) | RC-273 | relaciona-se-a |
-| Cápsula do Tempo de Sophia (João) | RC-274 | ← revelada-a |
-| Sophia e a Ressurreição de Jesus | RC-280 | ← envolve |
-| Eros = Vishnu / Tártaro = Shiva (correspondências) | RC-286 | relaciona-se-a |
-| Eros = Vishnu / Tártaro = Shiva (correspondências) | RC-286 | ← relaciona-se-a |
-| Cuidado com o 'Ide e Pregai' | RC-290 | associado |
-| Timé (de um deus) | RC-293 | relaciona-se-a |
-| Timé (de um deus) | RC-293 | ← relaciona-se-a |
-| Jesus, o Capelino | RC-350 | ← é-um |
-| A Segunda Grande Vinda | RC-352 | associado |
-| A Missão do Mestre | RC-364 | ← envolve |
-| O Fator Judas | RC-365 | associado |
-| O Enigma da Transfiguração | RC-366 | ← envolve |
-| Alteração Vibratória (Transfiguração) | RC-367 | associado |
-| Assessoria Cósmica (equipes espirituais de Jesus) | RC-368 | ← assessora |
-| Nietzsche como 'Amigo da Intenção de Jesus' | RC-369 | ← parceria-de |
-| A Fé de Jesus e a Razão de Nietzsche | RC-371 | associado |
-| Os 20 Anos de Jesus entre os Celtas | RC-373 | ← envolve |
-| Mordon (o Druida da Montanha) | RC-374 | associado |
-| José de Arimatéia (no corpus RC) | RC-376 | ← acompanha |
-| Diálogos de Sócrates, Platão e Aristóteles (nos Céus da Grécia) | RC-406 | ← envolve |
-| ADHYMAVATANA (nome completo de Mavatna/Vishnu) | RC-408 | associado |
-| Emissários Humanos (Enoch, Abraão, Moisés, Jesus) | RC-412 | associado |
-| Arcontes (= Sophias e Indras; Conselho dos 70) | RC-474 | relaciona-se-a |
-| En Ma (Emá / Emar — espírito-âncora) | RC-476 | ← ancora |
-| En Ma (Emá / Emar — espírito-âncora) | RC-476 | ← relaciona-se-a |
-| Belial (arconte; 'Satã' do livro de Jó) | RC-479 | relaciona-se-a |
-| Vacina do Amor (ancoragem de Jesus no CFD) | RC-532 | ← relaciona-se-a |
-| Senhor Parameshthi / Brahma Parameshthi (face atual de Javé) | RC-556 | relaciona-se-a |
-| Hochmah (2ª Sefirah — Sabedoria; = Sophia) | RC-565 | relaciona-se-a |
-| Hochmah (2ª Sefirah — Sabedoria; = Sophia) | RC-565 | relaciona-se-a |
-| Vyasa | RC-585 | ← relaciona-se-a |
-| Vyasa | RC-585 | relaciona-se-a |
-| Era de Peixes | RC-592 | ← envolve |
-| Linhagem de Seth | RC-594 | ← relaciona-se-a |
-| Fatiamento de Consciência | RC-604 | ← envolve |
-| Fatiamento de Consciência | RC-604 | ← envolve |
-| Evangelho de Judas | RC-647 | relaciona-se-a |
-| Quirino Cornélio (Centurião da Crucificação) | RC-659 | ← envolve |
-| Pegadinha de Javé | RC-660 | associado |
-| Tormento dos Eleitos de Javé | RC-685 | ← relaciona-se-a |
-| Taumaturgia Genético-Química | RC-713 | ← envolve |
-| Dignidade como Critério de Consciência | RC-722 | serve-de-modelo-para |
-| Dignidade como Critério de Consciência | RC-722 | relaciona-se-a |
-| As Cinco Lentes da Realidade | RC-761 | associado |
-| A Raça Inabalável dos Sethianos Emancipados | RC-766 | ← relaciona-se-a |
-| Hipóstase dos Arcontes (livro gnóstico; 'realidade dos regentes') | RC-770 | ← relaciona-se-a |
-| Estratégia dos Avatares (Moisés/Krishna/Saibaba/Jesus/Maomé) | RC-797 | associado |
-| Mudança de Estratégia das Trevas (Centralizar → Espalhar) | RC-798 | associado |
-| Pandora como Oposição à Estratégia dos Avatares | RC-799 | associado |
-| Jesus como Último Avatar (Não Mata) | RC-800 | associado |
-| Saibaba como Precursor de Jesus | RC-801 | associado |
-| Versão Oficial como Construção dos Seguidores | RC-804 | associado |
-| Yel Luzbel Como Aventureiro Isolado (2.000 Anos) | RC-830 | associado |
-| Sophia Como Biodemo da Ordem e Caos | RC-831 | associado |
-| Família Aya (Clone de Sophia para Inseminação Artificial de Maria) | RC-834 | associado |
-| Família Aye (Clone de Sophia para Inseminação Artificial de Maria) | RC-835 | associado |
-| Nova Aliança (a proposta de Jesus contra a velha aliança dos pactos de Javé) | RC-860 | associado |
-| Essênios (seita judaica puritana; criadores de João Batista) | RC-862 | associado |
-| Pós-Verdade | RC-892 | associado |
-| Bondade Humana | RC-895 | associado |
-| Tártaro Reides | RC-902 | associado |
-| Evangelho de Bartolomeu | RC-904 | associado |
-| Tonteltã | RC-907 | associado |
-| Messias | RC-942 | associado |
-| Maria Madalena | RC-943 | associado |
-| João Batista | RC-944 | associado |
-| Pedro (apóstolo) | RC-945 | associado |
-| Pôncio Pilatos / Caifás / Sinédrio | RC-946 | associado |
-
-## Fontes
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2020-04-04 | Javé, Sophia e Jesus: a Trindade Jamais Percebida (palestra Q&A) (palestra) | — | transcrição; citação |
-| P2023-12-25-02 | Aula 02 — Os Anos de Pregação e a Promessa do Retorno (palestra) | — | transcrição automatizada; citação |
-| P2023-12-25-01 | Aula 01 — Adolescência e a Juventude de Jesus (palestra) | — | transcrição automatizada; citação |
-| P2024-02-04 | A Falsa Queda do Ser Humano e a Indignidade Entronizada como Religião (palestra) | transcrição automatizada; citação |
-| P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |
-
 ## Ampliação
 ### B001 (O Drama Cósmico de Javé)
 
@@ -506,3 +406,103 @@ Figura central do drama da RC: na leitura de Jan Val Ellam, Jesus é a expressã
 
 
 > Notas de processo: 2 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-072.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Javé | RC-001 | relaciona-se-a |
+| Segundo Advento do Cristo (Volta de Jesus) | RC-005 | associado |
+| Sophia (Cristo Cósmico) | RC-009 | ← gera |
+| Adhyajna | RC-016 | associado |
+| Criador (Brahma/Javé/Demiurgo) | RC-041 | associado |
+| Quarto Logos (Olm / Codificador de Zian) | RC-092 | associado |
+| Val Elliah | RC-121 | associado |
+| Val Ellieh | RC-122 | associado |
+| Yel Am / Yel Liam | RC-138 | associado |
+| Yel Liam | RC-140 | associado |
+| Pílula vermelha | RC-192 | associado |
+| Agente do Mais Alto | RC-214 | associado |
+| Agente Secreto do Bem | RC-219 | ← variação |
+| Prevalece o Amor | RC-224 | associado |
+| Gestão Cósmica | RC-225 | ← divide-com |
+| O Calvário de um Inocente | RC-236 | ← envolve |
+| Apolônio de Tiana (encarnação do Quarto Logos) | RC-259 | associado |
+| Gnosticismo (contraponto à Cabala) | RC-268 | relaciona-se-a |
+| A Falsa Trindade (Concílio de Niceia) | RC-273 | relaciona-se-a |
+| Cápsula do Tempo de Sophia (João) | RC-274 | ← revelada-a |
+| Sophia e a Ressurreição de Jesus | RC-280 | ← envolve |
+| Eros = Vishnu / Tártaro = Shiva (correspondências) | RC-286 | relaciona-se-a |
+| Eros = Vishnu / Tártaro = Shiva (correspondências) | RC-286 | ← relaciona-se-a |
+| Cuidado com o 'Ide e Pregai' | RC-290 | associado |
+| Timé (de um deus) | RC-293 | relaciona-se-a |
+| Timé (de um deus) | RC-293 | ← relaciona-se-a |
+| Jesus, o Capelino | RC-350 | ← é-um |
+| A Segunda Grande Vinda | RC-352 | associado |
+| A Missão do Mestre | RC-364 | ← envolve |
+| O Fator Judas | RC-365 | associado |
+| O Enigma da Transfiguração | RC-366 | ← envolve |
+| Alteração Vibratória (Transfiguração) | RC-367 | associado |
+| Assessoria Cósmica (equipes espirituais de Jesus) | RC-368 | ← assessora |
+| Nietzsche como 'Amigo da Intenção de Jesus' | RC-369 | ← parceria-de |
+| A Fé de Jesus e a Razão de Nietzsche | RC-371 | associado |
+| Os 20 Anos de Jesus entre os Celtas | RC-373 | ← envolve |
+| Mordon (o Druida da Montanha) | RC-374 | associado |
+| José de Arimatéia (no corpus RC) | RC-376 | ← acompanha |
+| Diálogos de Sócrates, Platão e Aristóteles (nos Céus da Grécia) | RC-406 | ← envolve |
+| ADHYMAVATANA (nome completo de Mavatna/Vishnu) | RC-408 | associado |
+| Emissários Humanos (Enoch, Abraão, Moisés, Jesus) | RC-412 | associado |
+| Arcontes (= Sophias e Indras; Conselho dos 70) | RC-474 | relaciona-se-a |
+| En Ma (Emá / Emar — espírito-âncora) | RC-476 | ← ancora |
+| En Ma (Emá / Emar — espírito-âncora) | RC-476 | ← relaciona-se-a |
+| Belial (arconte; 'Satã' do livro de Jó) | RC-479 | relaciona-se-a |
+| Vacina do Amor (ancoragem de Jesus no CFD) | RC-532 | ← relaciona-se-a |
+| Senhor Parameshthi / Brahma Parameshthi (face atual de Javé) | RC-556 | relaciona-se-a |
+| Hochmah (2ª Sefirah — Sabedoria; = Sophia) | RC-565 | relaciona-se-a |
+| Hochmah (2ª Sefirah — Sabedoria; = Sophia) | RC-565 | relaciona-se-a |
+| Vyasa | RC-585 | ← relaciona-se-a |
+| Vyasa | RC-585 | relaciona-se-a |
+| Era de Peixes | RC-592 | ← envolve |
+| Linhagem de Seth | RC-594 | ← relaciona-se-a |
+| Fatiamento de Consciência | RC-604 | ← envolve |
+| Fatiamento de Consciência | RC-604 | ← envolve |
+| Evangelho de Judas | RC-647 | relaciona-se-a |
+| Quirino Cornélio (Centurião da Crucificação) | RC-659 | ← envolve |
+| Pegadinha de Javé | RC-660 | associado |
+| Tormento dos Eleitos de Javé | RC-685 | ← relaciona-se-a |
+| Taumaturgia Genético-Química | RC-713 | ← envolve |
+| Dignidade como Critério de Consciência | RC-722 | serve-de-modelo-para |
+| Dignidade como Critério de Consciência | RC-722 | relaciona-se-a |
+| As Cinco Lentes da Realidade | RC-761 | associado |
+| A Raça Inabalável dos Sethianos Emancipados | RC-766 | ← relaciona-se-a |
+| Hipóstase dos Arcontes (livro gnóstico; 'realidade dos regentes') | RC-770 | ← relaciona-se-a |
+| Estratégia dos Avatares (Moisés/Krishna/Saibaba/Jesus/Maomé) | RC-797 | associado |
+| Mudança de Estratégia das Trevas (Centralizar → Espalhar) | RC-798 | associado |
+| Pandora como Oposição à Estratégia dos Avatares | RC-799 | associado |
+| Jesus como Último Avatar (Não Mata) | RC-800 | associado |
+| Saibaba como Precursor de Jesus | RC-801 | associado |
+| Versão Oficial como Construção dos Seguidores | RC-804 | associado |
+| Yel Luzbel Como Aventureiro Isolado (2.000 Anos) | RC-830 | associado |
+| Sophia Como Biodemo da Ordem e Caos | RC-831 | associado |
+| Família Aya (Clone de Sophia para Inseminação Artificial de Maria) | RC-834 | associado |
+| Família Aye (Clone de Sophia para Inseminação Artificial de Maria) | RC-835 | associado |
+| Nova Aliança (a proposta de Jesus contra a velha aliança dos pactos de Javé) | RC-860 | associado |
+| Essênios (seita judaica puritana; criadores de João Batista) | RC-862 | associado |
+| Pós-Verdade | RC-892 | associado |
+| Bondade Humana | RC-895 | associado |
+| Tártaro Reides | RC-902 | associado |
+| Evangelho de Bartolomeu | RC-904 | associado |
+| Tonteltã | RC-907 | associado |
+| Messias | RC-942 | associado |
+| Maria Madalena | RC-943 | associado |
+| João Batista | RC-944 | associado |
+| Pedro (apóstolo) | RC-945 | associado |
+| Pôncio Pilatos / Caifás / Sinédrio | RC-946 | associado |
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2020-04-04 | Javé, Sophia e Jesus: a Trindade Jamais Percebida (palestra Q&A) (palestra) | — | transcrição; citação |
+| P2023-12-25-02 | Aula 02 — Os Anos de Pregação e a Promessa do Retorno (palestra) | — | transcrição automatizada; citação |
+| P2023-12-25-01 | Aula 01 — Adolescência e a Juventude de Jesus (palestra) | — | transcrição automatizada; citação |
+| P2024-02-04 | A Falsa Queda do Ser Humano e a Indignidade Entronizada como Religião (palestra) | transcrição automatizada; citação |
+| P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |

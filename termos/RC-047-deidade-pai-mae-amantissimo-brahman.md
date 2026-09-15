@@ -18,10 +18,8 @@ Seria o **Pai-Mãe Amantíssimo**, o **Ser Supremo** que deu origem a toda a Mat
 ## Contexto / Origem
 A Deidade é o topo da hierarquia ontológica das RC: **Deidade (Pai-Mãe) → Divindades Co-criadoras → Criador caído (Brahma/Javé)**. Esta distinção é essencial para não confundir Javé com Deus.
 
-## Etimologia e Grafias
-- **Grafia preferida:** Deidade
-- **Variações:** Pai-Mãe Amantíssimo; Ser Supremo; Brahman; Deus Incognoscível; Fonte
-
+## Citações-chave
+> "Seria o Pai-Mãe Amantíssimo, o Ser Supremo que deu origem a toda a Matriz Divina. Seria o 'Brahman' (e não Brahma) da tradição Hindu." — B031, verbete "Deidade"
 
 ## Ampliação
 ### B048 (Favor Divino)
@@ -97,17 +95,24 @@ A Deidade é o topo da hierarquia ontológica das RC: **Deidade (Pai-Mãe) → D
 
 # (nenhum span retido neste ciclo)
 
-## Fontes
-| Obra (sigla) | Capítulo | Página | Tipo |
-|---|---|---|---|
-| P2012-02-19 | Xadrez Cósmico de Brahma, Vishnu e Shiva (palestra) | — | transcrição automatizada; citação |
-| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra) | — | transcrição automatizada; citação |
-| Painéis Emergentes... (B031) | Glossário de Termos | p. 127 (aprox.) | verbete "Deidade" |
-| Painéis Emergentes... (B031) | Glossário de Termos | p. 131 (aprox.) | verbete "Deus" (Deus Incognoscível) |
+## Atualização
+### P2024-09-28 (A Raça Inabalável dos Sethianos Emancipados)
+
+- **Pleroma e o "pai-mãe amantíssimo":** "existe pleroma como sendo paraíso... algo já era pré-existente, já existia de todo sempre criado. E lá tem um ser, pai-mãe amantíssimo, também criado";
+- **Semente da deidade:** "ele deu de si a semente da sua deidade. E isso está presente em cada consciência particularizada, porque é o tal do corpo átmico presente em cada ser" (RC-623);
+- **Encomenda dos setianos (RC-766):** "seriam uma encomenda, um sonho desse Deus que é imanente a tudo, mas que não se movimenta, porque ele por ele mesmo não se mete".
 
 
-## Citações-chave
-> "Seria o Pai-Mãe Amantíssimo, o Ser Supremo que deu origem a toda a Matriz Divina. Seria o 'Brahman' (e não Brahma) da tradição Hindu." — B031, verbete "Deidade"
+> Notas de processo: 2 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-047.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
+## Etimologia e Grafias
+- **Grafia preferida:** Deidade
+- **Variações:** Pai-Mãe Amantíssimo; Ser Supremo; Brahman; Deus Incognoscível; Fonte
+
+
+## Seres Associados
+Divindades Co-criadoras (RC-054); Adhy (RC-011); Adhyagia (RC-012).
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -137,21 +142,16 @@ A Deidade é o topo da hierarquia ontológica das RC: **Deidade (Pai-Mãe) → D
 | Prajapati (a divindade antes de virar Brama) | RC-852 | associado |
 | Kris Amon (Krysamon NEAD) | RC-934 | associado |
 
-## Seres Associados
-Divindades Co-criadoras (RC-054); Adhy (RC-011); Adhyagia (RC-012).
-
 ## Observações
 Ficha baseada no glossário de B031. Verificar nas obras primárias o tratamento da Deidade/Deus Incognoscível (termo central da teologia RC).
 
 ---
 
-## Atualização
-### P2024-09-28 (A Raça Inabalável dos Sethianos Emancipados)
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo |
+|---|---|---|---|
+| P2012-02-19 | Xadrez Cósmico de Brahma, Vishnu e Shiva (palestra) | — | transcrição automatizada; citação |
+| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra) | — | transcrição automatizada; citação |
+| Painéis Emergentes... (B031) | Glossário de Termos | p. 127 (aprox.) | verbete "Deidade" |
+| Painéis Emergentes... (B031) | Glossário de Termos | p. 131 (aprox.) | verbete "Deus" (Deus Incognoscível) |
 
-- **Pleroma e o "pai-mãe amantíssimo":** "existe pleroma como sendo paraíso... algo já era pré-existente, já existia de todo sempre criado. E lá tem um ser, pai-mãe amantíssimo, também criado";
-- **Semente da deidade:** "ele deu de si a semente da sua deidade. E isso está presente em cada consciência particularizada, porque é o tal do corpo átmico presente em cada ser" (RC-623);
-- **Encomenda dos setianos (RC-766):** "seriam uma encomenda, um sonho desse Deus que é imanente a tudo, mas que não se movimenta, porque ele por ele mesmo não se mete".
-
-
-> Notas de processo: 2 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-047.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

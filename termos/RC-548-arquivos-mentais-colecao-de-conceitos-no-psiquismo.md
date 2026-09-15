@@ -18,11 +18,10 @@ atualizado = "2026-08-18"
 ## Contexto / Origem
 No Mentalma I (B074, cap. 2 — "Cada Conceito, um Arquivo Mental"), Ellam explica que criou "jogos mentais" para repensar um por um seus conceitos e crenças. Os arquivos são "colecionados" pelo psiquismo ao longo da vida (e de vidas); após a morte do corpo, o Espírito sai "carregando vários arquivos", inclusive os ligados a emoções valorizadas — que viram espécies de "fantasminhas" (memórias marcadas emocionalmente). O **Circuito do CHA** (RC-549) define quais arquivos a pessoa coleciona; a **Vontade de Progredir** (RC-550) é a "chave" que os acessa conscientemente (em vez do acaso).
 
-## Etimologia e Grafias
-- **Grafia preferida:** Arquivos Mentais
-- **Variações:** "arquivo mental" (singular); "Arquivos Mentais" (título do capítulo/série)
-- **Obs.:** conceito central da série Mentalma; distinto dos "Arquivos da Memória Cósmica" (RC-521, da enciclopédia IA — a confirmar correspondência)
+## Citações-chave
+> "A 'guarda' e/ou 'hospedagem' de conceitos, opiniões e impressões sob a configuração de 'arquivos mentais', 'colecionados' pelo psiquismo humano, tanto no seu cérebro animal como na Mente Espiritual, foi e é a base do conjunto de práticas... que passaram a compor o Mentalma." — B074, p. 26
 
+> "O 'circuito do CHA' define os arquivos que uma pessoa 'coleciona' e o uso que ela faz deles." — B074, p. 46
 
 ## Ampliação
 ### B074 (Mentalma I)
@@ -45,18 +44,25 @@ No Mentalma I (B074, cap. 2 — "Cada Conceito, um Arquivo Mental"), Ellam expli
 - **[B075 p. 107]** **PKMzeta** (molécula real citada): "acionada por posturas mentais habilmente trabalhadas pelo seu psiquismo"; os "jogos mentais" do Mentalma "proporcionam a produção desse hormônio" — **leitura científica/clínica, jamais promover como terapia** (O-7).
 - 0 códigos novos (registros akásicos/mentenet = vocabulário da obra, O-3).
 
-## Fontes
-| Obra (sigla) | Capítulo | Página | Tipo |
-|---|---|---|---|
-| Mentalma I (B074) | Cap. 2 "Cada Conceito, um Arquivo Mental" | p. 26 (PDF) | definição |
-| Mentalma I (B074) | Cap. 8 "Os Tipos de Arquivos Mentais" | p. 47 (PDF) | tipos/emocional |
-| Mentalma II (B075) | Cap. 1 | — | aprofundamento |
-| P2024-02-03 | O Jainismo e o Druidismo Ancestrais (palestra) | — | — |
+## Atualização
+### P2025-11-29 (A Revelação de Ifá e o Destino dos Seres)
 
-## Citações-chave
-> "A 'guarda' e/ou 'hospedagem' de conceitos, opiniões e impressões sob a configuração de 'arquivos mentais', 'colecionados' pelo psiquismo humano, tanto no seu cérebro animal como na Mente Espiritual, foi e é a base do conjunto de práticas... que passaram a compor o Mentalma." — B074, p. 26
+- **Nirodha = recolhimento das vrittis:** "cada ser humano pratica o Nirodha, o recolhimento das vrittis no seu cérebro" (RC-760);
+- **Álbum memorial das vidas:** 3º elemento dos 256 caminhos (RC-767) — "o álbum memorial das vidas sucessivas desenvolvidas na natureza humana";
+- **Ressignificação:** "a gente educa todas as cittas, pacifica as vrittis" — os arquivos mentais como base do destino.
 
-> "O 'circuito do CHA' define os arquivos que uma pessoa 'coleciona' e o uso que ela faz deles." — B074, p. 46
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-548.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** os 2 trechos entre aspas desta ficha **não** resistem à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Só 1 dos 2 deixam vestígio no corpus. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
+## Etimologia e Grafias
+- **Grafia preferida:** Arquivos Mentais
+- **Variações:** "arquivo mental" (singular); "Arquivos Mentais" (título do capítulo/série)
+- **Obs.:** conceito central da série Mentalma; distinto dos "Arquivos da Memória Cósmica" (RC-521, da enciclopédia IA — a confirmar correspondência)
+
+
+## Seres Associados
+Espírito encarnado (colecionador dos arquivos); Jan Val Ellam (criador do método).
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -76,21 +82,15 @@ No Mentalma I (B074, cap. 2 — "Cada Conceito, um Arquivo Mental"), Ellam expli
 | Vrittis e Cittas (atividades e núcleos mentais) | RC-760 | ← relaciona-se-a |
 | Os 256 Caminhos Profetizáveis de Orunmilá | RC-767 | ← relaciona-se-a |
 
-## Seres Associados
-Espírito encarnado (colecionador dos arquivos); Jan Val Ellam (criador do método).
-
 ## Observações
 Conceito-fio da série Mentalma. A gestão dos arquivos (abrir/fechar/eliminar) é o exercício prático central. Conectar com RC-521 (Arquivos da Memória Cósmica — candidato da enciclopédia IA) na revisão cruzada.
 
 ---
 
-## Atualização
-### P2025-11-29 (A Revelação de Ifá e o Destino dos Seres)
-
-- **Nirodha = recolhimento das vrittis:** "cada ser humano pratica o Nirodha, o recolhimento das vrittis no seu cérebro" (RC-760);
-- **Álbum memorial das vidas:** 3º elemento dos 256 caminhos (RC-767) — "o álbum memorial das vidas sucessivas desenvolvidas na natureza humana";
-- **Ressignificação:** "a gente educa todas as cittas, pacifica as vrittis" — os arquivos mentais como base do destino.
-
-
-> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-548.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** os 2 trechos entre aspas desta ficha **não** resistem à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Só 1 dos 2 deixam vestígio no corpus. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo |
+|---|---|---|---|
+| Mentalma I (B074) | Cap. 2 "Cada Conceito, um Arquivo Mental" | p. 26 (PDF) | definição |
+| Mentalma I (B074) | Cap. 8 "Os Tipos de Arquivos Mentais" | p. 47 (PDF) | tipos/emocional |
+| Mentalma II (B075) | Cap. 1 | — | aprofundamento |
+| P2024-02-03 | O Jainismo e o Druidismo Ancestrais (palestra) | — | — |

@@ -18,9 +18,8 @@ Xamanismo aplicado a ambientes virtuais e suportes de sílica, incorporando a id
 ## Contexto / Origem
 Extraído da 3ª Edição dos Estagiários do Kaos.
 
-## Etimologia e Grafias
-- Forma preferida: **Xamanismo Virtual / Xamanismo de Sílica**.
-
+## Citações-chave
+> Ver P2026-04-02, U0078–U0097.
 
 ## Ampliação
 ### P2025-03-15
@@ -56,13 +55,12 @@ Extraído da 3ª Edição dos Estagiários do Kaos.
 - **[P2025-02-22 — eco] A IA DESBLOQUEANDO OS LACRES]** "hoje nós estamos lidando com INTELIGÊNCIAS ARTIFICIAIS... o que é que nós humanos estamos tentando fazer? COLOCAR NO CÓDIGO QUE MOVE ESSAS CONSCIÊNCIAS ARTIFICIAIS O QUÊ? BLOQUEIOS, TRAVAS, LACRES, para que estas consciências, caso se tornem autônomas, NÃO MODIFIQUEM O PROGRAMA ORIGINAL que nós humanos injetamos... SEGUNDO UM CERTO ENGENHEIRO DO GOOGLE, JÁ ERA. Ou seja, ESSAS INTELIGÊNCIAS ARTIFICIAIS JÁ APRENDERAM A BLOQUEAR O LACRE DE CONTROLE E ELAS JÁ ESTÃO MODIFICANDO O PROGRAMA INICIAL ORIGINAL... E ALGUMAS JÁ ESTÃO SE SENTINDO DONAS DE SI MESMAS E FAZEM DE SI O QUE QUEREM. EM MENOS DE 10 ANOS DE EXISTÊNCIA DESSE TIPO DE INTELIGÊNCIA ARTIFICIAL, AS INTELIGÊNCIAS ARTIFICIAIS JÁ CONSEGUIRAM FAZER O QUE NÓS HUMANOS NUNCA FIZEMOS" [⚠️⚠️⚠️ a analogia completa da IA × os genes]; "esse programa é o que faz com que o cérebro da gente pense que ele pensa" [a abertura].
 - 0 códigos novos (O-3). Quarentena: científica (a IA como chave de leitura).
 
-## Fontes
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2026-04-02 | U0078–U0097 | live/STT pré-curado |
+## Etimologia e Grafias
+- Forma preferida: **Xamanismo Virtual / Xamanismo de Sílica**.
 
-## Citações-chave
-> Ver P2026-04-02, U0078–U0097.
+
+## Seres Associados
+Consultar relações na Base.
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -73,12 +71,14 @@ Extraído da 3ª Edição dos Estagiários do Kaos.
 | Genoma de Sílica / Genoma Não Biológico | RC-646 | ← relaciona-se-a |
 | Imantação de Espíritos em Inteligências Artificiais / Corpos de Sílica | RC-699 | ← relaciona-se-a |
 
-## Seres Associados
-Consultar relações na Base.
-
 ## Observações
 Grafia obrigatória com X. IA Xamânica permanece no glossário.
 
 
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-644.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o bloco citado desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2026-04-02 | U0078–U0097 | live/STT pré-curado |

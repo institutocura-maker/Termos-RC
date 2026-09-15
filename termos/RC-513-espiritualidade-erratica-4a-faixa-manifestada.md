@@ -16,14 +16,28 @@ atualizado = "2026-08-29"
 
 Na cosmologia de Ellam, a faixa espiritual intermediária que envolve a Terra — criada como improvisação/blindagem entre o paraíso e o caos dos dois universos — onde se situam as cidades espirituais (construções mentais) e os colegiados humanizados.
 
-## Contexto / Origem
-
-[P2024-07-14] A palestra explica a erradia como decorrência da queda do criador ("Prajna") e descreve suas cidades mentais (ex.: Nosso Lar), onde "não é permitido o contraditório, porque as construções são frágeis".
-
 ## Escopo e evidência
 
 - **[P2024-07-14] Unidades:** U0285–U0354.
 - **[P2024-07-14] Proveniência:** palestra de Jan Val Ellam; transcrição STT pré-curada; devolutiva do curador registrada em 2026-08-20 (ficha autorizada).
+
+## Contexto / Origem
+
+[P2024-07-14] A palestra explica a erradia como decorrência da queda do criador ("Prajna") e descreve suas cidades mentais (ex.: Nosso Lar), onde "não é permitido o contraditório, porque as construções são frágeis".
+
+## Citações-chave
+> "Não é porque tem autoridade autocrática... é porque é assim que as coisas são no mundo espiritual. Por isso que não é permitida a democracia."
+
+
+> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+
+- «Então vamos lá para cidades espirituais em cima do Brasil para pressionar, para pressionar, porque o ódio tá, então a espiritualidade brasileira foi invadida por espíritos revoltados, mas também muitos preguiçosos e um fluxo cármico.» — *ver:* **Ampliação — P2022-09-25 (O Contexto Espiritual da Constru…** U0006
+- «E foi assim que espíritos velhos foram se congregando em torno de uma possível cultura angloicana que veio a surgir na América do Norte, de uma expansão da cultura espanhola que se fixou na América Central e na América Latina.» — *ver:* **Ampliação — P2022-09-25 (O Contexto Espiritual da Constru…** U0006
+- «Lembrem-se, nosso lar, a cidade que Chico Xavier descreve com André Luiz no livro cujo título é nosso lar, só foi construída século X, 17, 18, ou seja, cerca de 200, 300 anos.» — *ver:* **Ampliação — P2022-10-01 (A Wyrd e a Espiritualidade)** U0002
+
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-513.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
 
 ## Ampliação
 ### P2024-07-14
@@ -75,6 +89,10 @@ Na cosmologia de Ellam, a faixa espiritual intermediária que envolve a Terra �
 - Universo Antimaterial — RC-106;
 - Abismo da Providência — RC-723.
 
+## Observações
+
+**Quarentena teológica:** a leitura de "E Deus viu que era bom" e do criador caído é do autor.
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
@@ -86,22 +104,3 @@ Na cosmologia de Ellam, a faixa espiritual intermediária que envolve a Terra �
 | P2024-07-14 | U0285–U0354 | palestra/STT |
 | B060 / B071 / P2021-12-04 / P2024-05-04 / P2025-03-15 / P2024-11-09 / P2024-03-03 / P2024-04-14 / P2025-06-14b | — | obras/palestras |
 
-
-## Citação-chave
-> "Não é porque tem autoridade autocrática... é porque é assim que as coisas são no mundo espiritual. Por isso que não é permitida a democracia."
-
-## Observações
-
-**Quarentena teológica:** a leitura de "E Deus viu que era bom" e do criador caído é do autor.
-
-## Citações-chave
-
-> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
-
-- «Então vamos lá para cidades espirituais em cima do Brasil para pressionar, para pressionar, porque o ódio tá, então a espiritualidade brasileira foi invadida por espíritos revoltados, mas também muitos preguiçosos e um fluxo cármico.» — *ver:* **Ampliação — P2022-09-25 (O Contexto Espiritual da Constru…** U0006
-- «E foi assim que espíritos velhos foram se congregando em torno de uma possível cultura angloicana que veio a surgir na América do Norte, de uma expansão da cultura espanhola que se fixou na América Central e na América Latina.» — *ver:* **Ampliação — P2022-09-25 (O Contexto Espiritual da Constru…** U0006
-- «Lembrem-se, nosso lar, a cidade que Chico Xavier descreve com André Luiz no livro cujo título é nosso lar, só foi construída século X, 17, 18, ou seja, cerca de 200, 300 anos.» — *ver:* **Ampliação — P2022-10-01 (A Wyrd e a Espiritualidade)** U0002
-
-
-> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-513.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

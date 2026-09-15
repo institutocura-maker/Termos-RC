@@ -18,10 +18,8 @@ O **papel estratégico de Judas** na missão de Jesus — o capítulo 2 do Livro
 ## Contexto / Origem
 O B011 (Jesus e o Enigma da Transfiguração) narra os fatos do período final da vida de Jesus pela voz de Tiago, Elias e Moisés (Livro de Tiago o Maior). O "Fator Judas" conecta-se ao "Calvário de um Inocente" (RC-236, B039) e à perspectiva de Yel Luzbel/Len Mion sobre a crucificação.
 
-## Etimologia e Grafias
-- **Grafia preferida:** O Fator Judas
-- **Variações:** Fator Judas; o papel de Judas; Judas Iscariotes (= Yel Am/Yel Liam, RC-138)
-
+## Citações-chave
+> *(A inserir — transcrição literal do cap. 2 do B011 na revisão.)* — B011, Livro I, cap. 2
 
 ## Ampliação
 ### B011 (Jesus e o Enigma da Transfiguração)
@@ -42,18 +40,23 @@ O B011 (Jesus e o Enigma da Transfiguração) narra os fatos do período final d
 
 - **[O sinal verde de Judas] (U0005)** «disse: "Cara, já que você vai ter que fazer, faça logo.» — na última ceia, Jesus anuncia a traição e olha para Judas: "já que você vai ter que fazer, faça logo" — "Judas se levantou crente que tinha recebido um sinal verde de Jesus para criar tal situação em que na hora H"; a leitura do autor: Judas não traiu por maldade — "Judas só enxergava o que ele queria enxergar... ele tá dizendo que não é, que não vai fazer isso"; "Judas se suicidou porque viu que Jesus não ia fazer nada" (U0006: «Judas se suicidou porque viu que Jesus não ia fazer nada.»); o Messias recusado: "Judas, eu sou o Messias" (U0005: «Judas, eu sou o Messias.») — "mas eu não serei o tipo de Messias que vocês esperam" (prosa).
 
-## Fontes
-| Obra (sigla) | Capítulo | Página | Tipo |
-|---|---|---|---|
-| P2023-07-09 | A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
-| P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
-| P2025-05-10 | Mistérios do Apocalipse (palestra) | — | transcrição automatizada; citação |
-| P2018-12-16 | Terra Atlantis - Era Sapiens (palestra) | — | transcrição automatizada; citação |
-| Jesus e o Enigma da Transfiguração (B011) | Livro I, cap. 2 (O Fator Judas) | pp. 15–25 (aprox.) | capítulo dedicado |
-| Painéis Emergentes (B031) | Glossário (Yel Liam) | — | apoio (secundária) |
+## Ampliação
+### P2023-07-09 (A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons)
 
-## Citações-chave
-> *(A inserir — transcrição literal do cap. 2 do B011 na revisão.)* — B011, Livro I, cap. 2
+- **[Eulian — espírito que encarnou como Judas Iscariotes]** «Esse o espírito de Eulian encarnaria depois como apóstolo de Jesus, Judas, aquele, exatamente aquele que o traiu» — Eulian era membro da família Val; seu espírito encarnou posteriormente como Judas. Ver RC-109 (Família Val), RC-072 (Jesus).
+
+## Atualização
+### P2026-04-02
+
+A live amplia o Fator Judas com uma reabilitação histórica de Judas e referência ao Evangelho de Judas (RC-647), mantendo essa leitura como interpretação atribuída ao palestrante.
+
+## Etimologia e Grafias
+- **Grafia preferida:** O Fator Judas
+- **Variações:** Fator Judas; o papel de Judas; Judas Iscariotes (= Yel Am/Yel Liam, RC-138)
+
+
+## Seres Associados
+Judas (Yel Am/Yel Liam, RC-138); Jesus (RC-072); Tiago (narrador).
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -66,21 +69,18 @@ O B011 (Jesus e o Enigma da Transfiguração) narra os fatos do período final d
 | O Enigma da Transfiguração | RC-366 | contexto |
 | Evangelho de Judas | RC-647 | ← tema-de |
 
-## Seres Associados
-Judas (Yel Am/Yel Liam, RC-138); Jesus (RC-072); Tiago (narrador).
-
-## Atualização
-### P2026-04-02
-
-A live amplia o Fator Judas com uma reabilitação histórica de Judas e referência ao Evangelho de Judas (RC-647), mantendo essa leitura como interpretação atribuída ao palestrante.
-
 ## Observações
 Ficha baseada em B011 (obra primária) + B031. O Fator Judas conecta a trilogia Terra Atlantis (B039) ao drama da crucificação. Transcrição literal pendente na revisão.
 
-## Ampliação
-### P2023-07-09 (A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons)
-
-- **[Eulian — espírito que encarnou como Judas Iscariotes]** «Esse o espírito de Eulian encarnaria depois como apóstolo de Jesus, Judas, aquele, exatamente aquele que o traiu» — Eulian era membro da família Val; seu espírito encarnou posteriormente como Judas. Ver RC-109 (Família Val), RC-072 (Jesus).
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo |
+|---|---|---|---|
+| P2023-07-09 | A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
+| P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
+| P2025-05-10 | Mistérios do Apocalipse (palestra) | — | transcrição automatizada; citação |
+| P2018-12-16 | Terra Atlantis - Era Sapiens (palestra) | — | transcrição automatizada; citação |
+| Jesus e o Enigma da Transfiguração (B011) | Livro I, cap. 2 (O Fator Judas) | pp. 15–25 (aprox.) | capítulo dedicado |
+| Painéis Emergentes (B031) | Glossário (Yel Liam) | — | apoio (secundária) |
 
 ## Fontes
 | Fonte | Localização | Tipo |

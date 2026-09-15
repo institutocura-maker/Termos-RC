@@ -25,11 +25,16 @@ A **ressonância mórfica** na RC não é apenas o mecanismo de herança de háb
 
 **Origem do conteúdo da ampliação:** palestra `P2023-10-14 — A Esquecida Honra dos Anunnaki` (U0047 e região do megabloco U0033), do `original.txt` (transcrição automatizada, **não conferida com o áudio**); aspas recortadas byte a byte por `_gerar_ampliacoes_P2023-10-14.py`.
 
-## Etimologia e Grafias
+## Citações-chave
 
-- **Canônico da Base:** *ressonância mórfica* (de *mor*, campo mórfico); distinto de **ressonância límbica** (RC-529), que a malha lhe liga por `relaciona-se-a` a partir de B072.
-- **Na fonte oral (P2023-10-14):** «campos mórficos» — a fonte usa o **plural de campo** e não pronuncia «Sheldrake» nesta palestra; o vínculo bibliográfico com o autor fica onde já está no cadastro (B041 e suas notas), **sem** retroprojeção.
+> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
 
+- «Então sim, a constelação familiar é um instrumento maravilhoso, tem a ver com a tragédia grega, é a própria tragédia grega sendo encenada dentro de mecanismos que estão sendo aplicados por terapeutas, com isso tudo é muito agora, não é todo tipo de prática de constelação familiar que produz de […]» — *ver:* **Ampliação — P2021-02-28 (Tragédia Anunciada - As Fórmulas…** U0078
+- «Talvez a a a própria Solange Matilde que faz a questão da constelação e eu tô fazendo um curso de de constelação também e vejo que quando finaliza a constelação eh dá a sensação que é o que a gente quando a gente acessa o campo mórfico daquela situação familiar ali, a constelação se desenrol se […]» — *ver:* **Ampliação — P2021-02-28 (Tragédia Anunciada - As Fórmulas…** U0031
+- «o tempo inteiro, enquanto a espécie esteja existindo, quando a espécie é extinta e não tem mais nenhum membro enviando via ponte quântica do seu DNA com o campo quântico o seu comportamento, porque esse corpo morreu, o campo mórfico daquela espécie tende a também colapsar e deixa desistir.» — *ver:* **Ampliação — P2022-09-18 (Os Níveis de Estresse Extremo da…** U0031
+
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-381.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
 
 ## Ampliação
 ### P2023-10-14 (A Esquecida Honra dos Anunnaki)
@@ -81,28 +86,10 @@ A **ressonância mórfica** na RC não é apenas o mecanismo de herança de háb
 - **[Constelação familiar e o campo mórfico: desentrelaçamento quântico] (U0073)** «Talvez a a a própria Solange Matilde que faz a questão da constelação e eu tô fazendo um curso de de constelação também e vejo que quando finaliza a constelação eh dá a sensação que é o que a gente quando a gente acessa o campo mórfico daquela situação familiar ali, a constelação se desenrol se desenrola um um um desentrelaçamento quântico ali e as de alguma forma aquela situação apazígua.» — a resposta do autor: "Então sim, a constelação familiar é um instrumento maravilhoso, tem a ver com a tragédia grega, é a própria tragédia grega sendo encenada dentro de mecanismos que estão sendo aplicados por terapeutas, com isso tudo é muito agora, não é todo tipo de prática de constelação familiar que produz de constelação que produz necessariamente bons resultados, porque aí depende de uma série de circunstâncias, desde quem está no comando os atores, o propósito daquilo, tá?" (U0078: «Então sim, a constelação familiar é um instrumento maravilhoso, tem a ver com a tragédia grega, é a própria tragédia grega sendo encenada dentro de mecanismos que estão sendo aplicados por terapeutas, com isso tudo é muito agora, não é todo tipo de prática de constelação familiar que produz de constelação que produz necessariamente bons resultados, porque aí depende de uma série de circunstâncias, desde quem está no comando os atores, o propósito daquilo, tá?»); Bert Hellinger (STT «Bert Heringer») e Rupert Sheldrake (STT «Rubert Sheldrake») citados (paráfrase U0073); RC-381 Ressonância Mórfica.
 
 
-## Fontes
-| Obra (sigla) | Capítulo | Página | Tipo (citação/paráfrase) |
-|---|---|---|---|
-| P2021-02-28 | Tragédia Anunciada - As Fórmulas Mentais do Poder Demo (palestra) | — | transcrição automatizada; citação |
-| P2022-09-18 | Os Níveis de Estresse Extremo da Criação (palestra) | — | transcrição automatizada; citação |
-| P2022-10-01 | A Wyrd e a Espiritualidade (palestra) | — | transcrição automatizada; citação |
-| P2022-12-03 | O Ocaso do Criador e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
-| P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
-| P2022-05-07 | Shiva, o Projeto Talm e os Mistérios de Awaylengam (palestra) | — | transcrição automatizada; citação |
-| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra) | — | transcrição automatizada; citação |
-| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra) | — | transcrição automatizada; citação |
-| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra) | — | transcrição automatizada; citação |
-| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra) | — | transcrição automatizada; citação |
-| B041 | a preencher | — | paráfrase (registro do cadastro; página a conferir) |
-| P2024-04-14 | palestra | — | paráfrase (vínculo pré-existente do cadastro) |
-| P2024-09-29 | palestra | — | paráfrase (vínculo pré-existente do cadastro) |
-| P2024-11-09 | palestra | — | paráfrase (vínculo pré-existente do cadastro) |
-| P2024-11-30 | palestra | — | paráfrase (vínculo pré-existente do cadastro) |
-| P2025-02-15 | palestra | — | paráfrase (vínculo pré-existente do cadastro) |
-| P2025-03-15 | palestra | — | paráfrase (vínculo pré-existente do cadastro) |
+## Etimologia e Grafias
 
-
+- **Canônico da Base:** *ressonância mórfica* (de *mor*, campo mórfico); distinto de **ressonância límbica** (RC-529), que a malha lhe liga por `relaciona-se-a` a partir de B072.
+- **Na fonte oral (P2023-10-14):** «campos mórficos» — a fonte usa o **plural de campo** e não pronuncia «Sheldrake» nesta palestra; o vínculo bibliográfico com o autor fica onde já está no cadastro (B041 e suas notas), **sem** retroprojeção.
 
 
 ## Termos Relacionados
@@ -130,13 +117,26 @@ A **ressonância mórfica** na RC não é apenas o mecanismo de herança de háb
 
 **Regra de status:** 🟡 provisório — a ficha existe e está fundamentada em fonte publicada (B041) e em fontes orais do acervo; nenhuma citação foi conferida com o áudio. A aprovação curatorial valida a **modelagem terminológica**, não a veracidade factual das alegações.
 
-## Citações-chave
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo (citação/paráfrase) |
+|---|---|---|---|
+| P2021-02-28 | Tragédia Anunciada - As Fórmulas Mentais do Poder Demo (palestra) | — | transcrição automatizada; citação |
+| P2022-09-18 | Os Níveis de Estresse Extremo da Criação (palestra) | — | transcrição automatizada; citação |
+| P2022-10-01 | A Wyrd e a Espiritualidade (palestra) | — | transcrição automatizada; citação |
+| P2022-12-03 | O Ocaso do Criador e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
+| P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
+| P2022-05-07 | Shiva, o Projeto Talm e os Mistérios de Awaylengam (palestra) | — | transcrição automatizada; citação |
+| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra) | — | transcrição automatizada; citação |
+| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra) | — | transcrição automatizada; citação |
+| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra) | — | transcrição automatizada; citação |
+| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra) | — | transcrição automatizada; citação |
+| B041 | a preencher | — | paráfrase (registro do cadastro; página a conferir) |
+| P2024-04-14 | palestra | — | paráfrase (vínculo pré-existente do cadastro) |
+| P2024-09-29 | palestra | — | paráfrase (vínculo pré-existente do cadastro) |
+| P2024-11-09 | palestra | — | paráfrase (vínculo pré-existente do cadastro) |
+| P2024-11-30 | palestra | — | paráfrase (vínculo pré-existente do cadastro) |
+| P2025-02-15 | palestra | — | paráfrase (vínculo pré-existente do cadastro) |
+| P2025-03-15 | palestra | — | paráfrase (vínculo pré-existente do cadastro) |
 
-> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
-
-- «Então sim, a constelação familiar é um instrumento maravilhoso, tem a ver com a tragédia grega, é a própria tragédia grega sendo encenada dentro de mecanismos que estão sendo aplicados por terapeutas, com isso tudo é muito agora, não é todo tipo de prática de constelação familiar que produz de […]» — *ver:* **Ampliação — P2021-02-28 (Tragédia Anunciada - As Fórmulas…** U0078
-- «Talvez a a a própria Solange Matilde que faz a questão da constelação e eu tô fazendo um curso de de constelação também e vejo que quando finaliza a constelação eh dá a sensação que é o que a gente quando a gente acessa o campo mórfico daquela situação familiar ali, a constelação se desenrol se […]» — *ver:* **Ampliação — P2021-02-28 (Tragédia Anunciada - As Fórmulas…** U0031
-- «o tempo inteiro, enquanto a espécie esteja existindo, quando a espécie é extinta e não tem mais nenhum membro enviando via ponte quântica do seu DNA com o campo quântico o seu comportamento, porque esse corpo morreu, o campo mórfico daquela espécie tende a também colapsar e deixa desistir.» — *ver:* **Ampliação — P2022-09-18 (Os Níveis de Estresse Extremo da…** U0031
 
 
-> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-381.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

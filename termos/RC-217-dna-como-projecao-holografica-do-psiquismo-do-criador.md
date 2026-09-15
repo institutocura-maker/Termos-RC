@@ -18,10 +18,16 @@ Constatação central de B002: **o que entendemos na Terra como molécula de DNA
 ## Contexto / Origem
 O conceito conecta a física do DNA à cosmologia RC: cada ser carrega o "código" do Criador caído — daí a "doença" hereditária (os Reflexos da Doença, RC-230) e a ideia de que o DNA é o CFD em versão físico-química-biológica (RC-040/RC-153). É o fundamento do "Favor Divino" (os seres ajudam a curar o Criador através do DNA) e da genética espiritual.
 
-## Etimologia e Grafias
-- **Grafia preferida:** DNA como Projeção Holográfica do Psiquismo do Criador
-- **Variações:** DNA = projeção holográfica; molécula de DNA como representação química do psiquismo de Javé
+## Citações-chave
 
+> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+
+- «O sentido holográfico do universo, um dos das faces dessa compreensão, mostra que o todo está contido em uma de suas partes. Quando um detetive entra numa sala onde houve um assassinato e ele pega um fio de cabelo e por esse fio de cabelo ele descobre o DNA, uma célula ali por exemplo, e pelo DNA […]» — *ver:* **Ampliação — P2024-03-17** U0070
+- «O que entendemos na Terra como molécula de DNA, na verdade é uma espécie de projeção holográfica do padrão mental e emocional do Senhor Javé. Em outras palavras, é uma representação química do seu psiquismo.» — *ver:* **Ampliação — B002 (O Drama Espiritual de Javé)**, p. 7
+- «Essas PEPS do criador agora exist entes no universo biológico foram sendo encriptografadas e transformadas nos atuais genes sob a forma do DNA que conhecemos, o que modernizou sobre maneira unidana.» — *ver:* **Ampliação — P2024-06-16 (O Projeto TALM, os Fenvans e os …** U0006
+
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-217.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
 
 ## Ampliação
 ### B019 (Nem Deus, nem Javé, nem Darwin)
@@ -76,6 +82,56 @@ O conceito conecta a física do DNA à cosmologia RC: cada ser carrega o "códig
 - 0 códigos novos (O-3). Quarentena: clínica (a linguagem da "doença" como metáfora).
 ---
 
+## Ampliação
+### P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+
+- **[P2023-12-03 · DNA COMO PROJEÇÃO HOLOGRÁFICA DO PSIQUISMO DO CRIADOR NA FALA DE 03/12/2023]** «Isso tá tudo no nosso DNA desativado.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2021-12-04`); a entrada desta fonte é de **conteúdo**, não de data.
+
+---
+
+### P2024-06-16 (O Projeto TALM, os Fenvans e os Humanos)
+
+- **[DNA holográfico — as PEPS do criador] (U0006)** «Essas PEPS do criador agora exist entes no universo biológico foram sendo encriptografadas e transformadas nos atuais genes sob a forma do DNA que conhecemos, o que modernizou sobre maneira unidana.» — as PEPS (pulsações eletromagnéticas particularizadas) do criador, codificadas como Nidana, viraram genes/DNA.
+
+### P2021-02-28 (Tragédia Anunciada - As Fórmulas Mentais do Poder Demo)
+
+- **[Holografia: cada parte contém a fórmula do todo] (U0070)** «O que é que significa holografia?» — a definição: o todo traduzido em cada parte (paráfrase U0070); o DNA em cada célula: "Em cada célula, em cada cromossomo, tá o meu código de 28." (U0070: «Em cada célula, em cada cromossomo, tá o meu código de 28.» — STT corta o número; sem emenda); cada vírus é holograficamente a face do criador — "o que acontece com um acontece com todos" (paráfrase U0070); RC-217 DNA como Projeção Holográfica.
+
+
+### P2024-03-17
+
+**Fonte:** palestra «A Quem Pertence o Planeta e a Biblioteca Genômica Mais Atualizada do Universo» (17/03/2024).
+
+**Trecho verbatim:** «O sentido holográfico do universo, um dos das faces dessa compreensão, mostra que o todo está contido em uma de suas partes. Quando um detetive entra numa sala onde houve um assassinato e ele pega um fio de cabelo e por esse fio de cabelo ele descobre o DNA, uma célula ali por exemplo, e pelo DNA ele descobre o dono daquele cabelo. É porque o todo daquela pessoa está representado em uma célulazinha de um cabelo que caiu da cabeça dele lá na hora do assassinato.»
+
+## Atualização
+### P2022-12-17
+
+- **Fonte:** palestra *O Incompreendido Ano de 2012 e a Falsa Noção do Fim do Mundo* — unidades U0666–U0676; U0937–U0946.
+- **Contexto acrescentado:** A palestra reforça o DNA humano como campo de intervenção do Criador e afirma que a improvisação humana produziria novas proteínas capazes de participar do Tikun no DNA.
+- **Status da evidência:** transcrição automatizada, pré-curada e validada terminologicamente pelo curador; conferir com áudio/obra primária antes de promoção de status.
+
+---
+
+### P2021-12-04
+
+- **Unidades:** U0244–U0263; U0504–U0508; U0593–U0601.
+- **Contexto acrescentado:** O genoma/código é apresentado como ponte entre níveis e identidades, enriquecido pela experiência humana e relacionado ao Genoma da Liberdade.
+- **Status da evidência:** transcrição automatizada, pré-curada e aprovada quanto à integração terminológica; conferir com áudio/obra antes de promover status.
+
+## Reforço
+### P2025-03-15
+
+A palestra descreve a cadeia Nidana → DNA biológico → reorganização futura da informação do Criador. Afirmações sobre quantidade de genes, DNA não codificante e atualização de gametas exigem ressalva científica.
+---
+---
+---
+
+## Etimologia e Grafias
+- **Grafia preferida:** DNA como Projeção Holográfica do Psiquismo do Criador
+- **Variações:** DNA = projeção holográfica; molécula de DNA como representação química do psiquismo de Javé
+
+
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
@@ -123,59 +179,3 @@ O conceito conecta a física do DNA à cosmologia RC: cada ser carrega o "códig
 | Biblioteca Genômica Humana | RC-889 | associado |
 | Ismos como Limitação Genômica | RC-891 | associado |
 | Qualia como Processamento Humano | RC-894 | associado |
-
-## Atualização
-### P2022-12-17
-
-- **Fonte:** palestra *O Incompreendido Ano de 2012 e a Falsa Noção do Fim do Mundo* — unidades U0666–U0676; U0937–U0946.
-- **Contexto acrescentado:** A palestra reforça o DNA humano como campo de intervenção do Criador e afirma que a improvisação humana produziria novas proteínas capazes de participar do Tikun no DNA.
-- **Status da evidência:** transcrição automatizada, pré-curada e validada terminologicamente pelo curador; conferir com áudio/obra primária antes de promoção de status.
-
----
-
-### P2021-12-04
-
-- **Unidades:** U0244–U0263; U0504–U0508; U0593–U0601.
-- **Contexto acrescentado:** O genoma/código é apresentado como ponte entre níveis e identidades, enriquecido pela experiência humana e relacionado ao Genoma da Liberdade.
-- **Status da evidência:** transcrição automatizada, pré-curada e aprovada quanto à integração terminológica; conferir com áudio/obra antes de promover status.
-
-## Reforço
-### P2025-03-15
-
-A palestra descreve a cadeia Nidana → DNA biológico → reorganização futura da informação do Criador. Afirmações sobre quantidade de genes, DNA não codificante e atualização de gametas exigem ressalva científica.
----
----
----
-
-## Ampliação
-### P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
-
-- **[P2023-12-03 · DNA COMO PROJEÇÃO HOLOGRÁFICA DO PSIQUISMO DO CRIADOR NA FALA DE 03/12/2023]** «Isso tá tudo no nosso DNA desativado.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2021-12-04`); a entrada desta fonte é de **conteúdo**, não de data.
-
----
-
-### P2024-06-16 (O Projeto TALM, os Fenvans e os Humanos)
-
-- **[DNA holográfico — as PEPS do criador] (U0006)** «Essas PEPS do criador agora exist entes no universo biológico foram sendo encriptografadas e transformadas nos atuais genes sob a forma do DNA que conhecemos, o que modernizou sobre maneira unidana.» — as PEPS (pulsações eletromagnéticas particularizadas) do criador, codificadas como Nidana, viraram genes/DNA.
-
-### P2021-02-28 (Tragédia Anunciada - As Fórmulas Mentais do Poder Demo)
-
-- **[Holografia: cada parte contém a fórmula do todo] (U0070)** «O que é que significa holografia?» — a definição: o todo traduzido em cada parte (paráfrase U0070); o DNA em cada célula: "Em cada célula, em cada cromossomo, tá o meu código de 28." (U0070: «Em cada célula, em cada cromossomo, tá o meu código de 28.» — STT corta o número; sem emenda); cada vírus é holograficamente a face do criador — "o que acontece com um acontece com todos" (paráfrase U0070); RC-217 DNA como Projeção Holográfica.
-
-
-### P2024-03-17
-
-**Fonte:** palestra «A Quem Pertence o Planeta e a Biblioteca Genômica Mais Atualizada do Universo» (17/03/2024).
-
-**Trecho verbatim:** «O sentido holográfico do universo, um dos das faces dessa compreensão, mostra que o todo está contido em uma de suas partes. Quando um detetive entra numa sala onde houve um assassinato e ele pega um fio de cabelo e por esse fio de cabelo ele descobre o DNA, uma célula ali por exemplo, e pelo DNA ele descobre o dono daquele cabelo. É porque o todo daquela pessoa está representado em uma célulazinha de um cabelo que caiu da cabeça dele lá na hora do assassinato.»
-
-## Citações-chave
-
-> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
-
-- «O sentido holográfico do universo, um dos das faces dessa compreensão, mostra que o todo está contido em uma de suas partes. Quando um detetive entra numa sala onde houve um assassinato e ele pega um fio de cabelo e por esse fio de cabelo ele descobre o DNA, uma célula ali por exemplo, e pelo DNA […]» — *ver:* **Ampliação — P2024-03-17** U0070
-- «O que entendemos na Terra como molécula de DNA, na verdade é uma espécie de projeção holográfica do padrão mental e emocional do Senhor Javé. Em outras palavras, é uma representação química do seu psiquismo.» — *ver:* **Ampliação — B002 (O Drama Espiritual de Javé)**, p. 7
-- «Essas PEPS do criador agora exist entes no universo biológico foram sendo encriptografadas e transformadas nos atuais genes sob a forma do DNA que conhecemos, o que modernizou sobre maneira unidana.» — *ver:* **Ampliação — P2024-06-16 (O Projeto TALM, os Fenvans e os …** U0006
-
-
-> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-217.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

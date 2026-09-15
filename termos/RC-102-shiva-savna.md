@@ -16,13 +16,20 @@ atualizado = "2026-08-28"
 
 Um dos três da Trimurti (RC-104) — na RC, **Savna** (RC-409 ADHYSAVNA); princípio de reciclagem vinculado à entropia cósmica e à força tamásica (RC-151 Gunas).
 
-## Atualização
-### P2025-11-29 (A Revelação de Ifá)
+## Citações-chave
 
-- **Força tamásica = entropia:** "a força tamásica de Shiva é a entropia dessa criação" (reforço de P2021-03-27/P2023-12-02) — Shiva como reciclagem que "funciona até o fim";
-- **Na leitura da Ogdóade (P2023-12-02):** Shiva/Parvati funcionam (reciclagem, entropia, força tamasica, "circuito fechado");
-- Contexto: Shiva entre os seres da Trimurti que disputam com Moros o destino dos seres (RC-454; ver RC-767).
+> "A força tamásica de Shiva é a entropia dessa criação... existe uma lei entrópica que diz que o que cai de entropia num sistema, ninguém consegue mexer nessa equação." — P2025-11-29
 
+
+> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+
+- «E ele uma vez me disse que quando ele me fez chegar nas minhas mãos um pequeno opúsculo que ele escreveu através de seguidor dele da antiguidade que se chama Chiva Samita, seus escritos de Chiva e que ele soltou lá uma frase dizendo: "Nessa criação todos sofrem o tempo todo, tudo é sofrimento".» — *ver:* **Ampliação — P2021-04-10 (O Fechamento dos Portais e o Imp…** U0006
+- «Então assim, vendo o tamanho do circo, eu não acho que Xiv seja um um dono de circo, entendendo por isso as mais de 1000 expressões adiágenas que ele criou a partir dele mesmo, ele perdeu o controle, ele não consegue e não tem plano B nenhum em ação» — *ver:* **Ampliação — P2021-04-10 (O Fechamento dos Portais e o Imp…** U0006
+- «Então assim, Shiv, ele me disse que ele criou Krishna e Saibaba porque estes olhavam pros seres humanos com o carinho, a ternura que ele enquanto Shiva à moda desses três tipos de consciência, ele não conseguia olhar, né?» — *ver:* **Ampliação — P2021-04-10 (O Fechamento dos Portais e o Imp…** U0006
+
+
+> Notas de processo: 5 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-102.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
 
 ## Ampliação
 ### P2021-01-23
@@ -170,30 +177,22 @@ Um dos três da Trimurti (RC-104) — na RC, **Savna** (RC-409 ADHYSAVNA); princ
 - **[O sétimo céu: Maloca, comando dado a Chiva] (U0046)** «E Sofia e Zou o ergueram e lhe deram o comando do sétimo céu, que é o Maloca, Sofia e Zou, estamos falando aqui de VNO e Shiva, para que ele pudesse regerno e o caos.» — o anjo-clone (Zou, BLOCO 2) bate no anjo, transforma-se em Chiva e recebe o sétimo céu — "E ele é chamado Senhor das forças ou sabaof, já que ele está acima das forças do caos" (U0046: «E ele é chamado Senhor das forças ou sabaof, já que ele está acima das forças do caos.»); o oitavo céu, acima do sétimo, é o Bramaloca (paráfrase U0046; RC-102 Shiva/Savna; RC-038 Brahmaloka; STT «Maloca»).
 
 
-## Fontes
+## Ampliação
+### P2019-08-25 (Os Três Fornos Replicadores do Projeto Talm)
 
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2022-09-17 | A Hipóstase dos Arcontes (palestra) | — | transcrição automatizada; citação |
-| P2021-06-26 | Shiva - A Reconstrução do Erro de Brahma e o Tikum (palestra) | — | transcrição automatizada; citação |
-| P2021-04-10 | O Fechamento dos Portais e o Impasse no Exílio Espiritual de Len Mion — Aprofundamento (palestra) | — | transcrição automatizada; citação |
-| P2026-03-21 | Samudra Manthan A Enigmatica Alquimia de Vishnu (palestra) | — | transcrição automatizada; citação |
-| P2022-07-16 | Do Ramayana ao Mahabharata (palestra) | — | transcrição automatizada; citação |
-| P2022-12-03 | O Ocaso do Criador e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
-| P2012-02-19 | Xadrez Cósmico de Brahma, Vishnu e Shiva (palestra) | — | transcrição automatizada; citação |
-| P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
-| P2022-05-07 | Shiva, o Projeto Talm e os Mistérios de Awaylengam (palestra) | — | transcrição automatizada; citação |
-| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
-| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
-| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
-| P2025-11-29 | bloco 2 (Trimurti × Moros; força tamásica) | palestra/STT pré-curada |
+- **[P2019-08-25 · SHIVA COMO SEGUNDO LOGOS E O FORNO AWAYLENGAN]** (fonte oral fundadora):
 
+- "Shiva é o pai dos demos, foi o primeiro demo a surgir"; a "linhagem dele surgiu do fogo" — "o fogo é produto de uma derrota";
+- O forno de Shiva (Awaylengan) foi "o primeiro forno a funcionar"; dele a **animalidade** e a **emoção/sensação** (ver RC-837);
+- A morada de Shiva no Himalaia (a "Aingan" / base cósmica) — quarentena ufológica.
 
+## Atualização
+### P2025-11-29 (A Revelação de Ifá)
 
+- **Força tamásica = entropia:** "a força tamásica de Shiva é a entropia dessa criação" (reforço de P2021-03-27/P2023-12-02) — Shiva como reciclagem que "funciona até o fim";
+- **Na leitura da Ogdóade (P2023-12-02):** Shiva/Parvati funcionam (reciclagem, entropia, força tamasica, "circuito fechado");
+- Contexto: Shiva entre os seres da Trimurti que disputam com Moros o destino dos seres (RC-454; ver RC-767).
 
-## Citação-chave
-
-> "A força tamásica de Shiva é a entropia dessa criação... existe uma lei entrópica que diz que o que cai de entropia num sistema, ninguém consegue mexer nessa equação." — P2025-11-29
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -250,23 +249,23 @@ Um dos três da Trimurti (RC-104) — na RC, **Savna** (RC-409 ADHYSAVNA); princ
 Papel de Shiva na entropia é **leitura do autor** (cosmovisão RC) — não é hinduísmo acadêmico validado.
 
 
-## Ampliação
-### P2019-08-25 (Os Três Fornos Replicadores do Projeto Talm)
+## Fontes
 
-- **[P2019-08-25 · SHIVA COMO SEGUNDO LOGOS E O FORNO AWAYLENGAN]** (fonte oral fundadora):
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2022-09-17 | A Hipóstase dos Arcontes (palestra) | — | transcrição automatizada; citação |
+| P2021-06-26 | Shiva - A Reconstrução do Erro de Brahma e o Tikum (palestra) | — | transcrição automatizada; citação |
+| P2021-04-10 | O Fechamento dos Portais e o Impasse no Exílio Espiritual de Len Mion — Aprofundamento (palestra) | — | transcrição automatizada; citação |
+| P2026-03-21 | Samudra Manthan A Enigmatica Alquimia de Vishnu (palestra) | — | transcrição automatizada; citação |
+| P2022-07-16 | Do Ramayana ao Mahabharata (palestra) | — | transcrição automatizada; citação |
+| P2022-12-03 | O Ocaso do Criador e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
+| P2012-02-19 | Xadrez Cósmico de Brahma, Vishnu e Shiva (palestra) | — | transcrição automatizada; citação |
+| P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
+| P2022-05-07 | Shiva, o Projeto Talm e os Mistérios de Awaylengam (palestra) | — | transcrição automatizada; citação |
+| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
+| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
+| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
+| P2025-11-29 | bloco 2 (Trimurti × Moros; força tamásica) | palestra/STT pré-curada |
 
-- "Shiva é o pai dos demos, foi o primeiro demo a surgir"; a "linhagem dele surgiu do fogo" — "o fogo é produto de uma derrota";
-- O forno de Shiva (Awaylengan) foi "o primeiro forno a funcionar"; dele a **animalidade** e a **emoção/sensação** (ver RC-837);
-- A morada de Shiva no Himalaia (a "Aingan" / base cósmica) — quarentena ufológica.
-
-## Citações-chave
-
-> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
-
-- «E ele uma vez me disse que quando ele me fez chegar nas minhas mãos um pequeno opúsculo que ele escreveu através de seguidor dele da antiguidade que se chama Chiva Samita, seus escritos de Chiva e que ele soltou lá uma frase dizendo: "Nessa criação todos sofrem o tempo todo, tudo é sofrimento".» — *ver:* **Ampliação — P2021-04-10 (O Fechamento dos Portais e o Imp…** U0006
-- «Então assim, vendo o tamanho do circo, eu não acho que Xiv seja um um dono de circo, entendendo por isso as mais de 1000 expressões adiágenas que ele criou a partir dele mesmo, ele perdeu o controle, ele não consegue e não tem plano B nenhum em ação» — *ver:* **Ampliação — P2021-04-10 (O Fechamento dos Portais e o Imp…** U0006
-- «Então assim, Shiv, ele me disse que ele criou Krishna e Saibaba porque estes olhavam pros seres humanos com o carinho, a ternura que ele enquanto Shiva à moda desses três tipos de consciência, ele não conseguia olhar, né?» — *ver:* **Ampliação — P2021-04-10 (O Fechamento dos Portais e o Imp…** U0006
 
 
-> Notas de processo: 5 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-102.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

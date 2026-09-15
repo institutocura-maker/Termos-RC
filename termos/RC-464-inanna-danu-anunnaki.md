@@ -26,14 +26,11 @@ Figura do panteão anunnaki registrada na Base como **Inanna = Danu**: neta de *
 
 **Origem do conteúdo:** bloco 1–2 da palestra `P2021-05-15 — As Etnias Hiperbóreas e os Anunnakis` (U0003) e a resposta ao ouvinte em U0007/U0009. Transcrição automatizada, pré-curada; **não conferida com o áudio**.
 
-## Etimologia e Grafias
+## Citações-chave
 
-- **Na obra primária (B060):** *Inanna* (= *Danu*).
-- **Na fonte oral (P2021-05-15):** «Inana», «inan», «Nana», «Danana», «Danã», «toatas»/«tuatas» (= *tuatha*, "seguidores").
-- **Grafia preferida na Base:** Inanna. As formas acima são registradas como variantes de STT, **sem** normalização forçada.
-- **⚠️ [REVISAR → ENCERRADO 2026-09-05 · F038-L2 (equivalência cravada por despacho Q-D/D1): ver nota]:** «ISAR», apresentado como "segundo nome mais importante de Inana" ≈ ISHTAR — decisão de grafar a equivalência continua pendente do Curador; nada foi renomeado.
-- **Direção da equivalência (divergência selada, não fundida):** em B060, Inanna é a deusa **a quem** Danu corresponde; nesta fonte oral, **Danana é o nome do grupo** ("a deusa Danana é a deusa Inana, ou seja, os toatas de Danan, na verdade são os toatas de Inan"), isto é, *Danu* designa a **seguidora/seguidor de Inana** — não o inverso. As duas leituras ficam seladas com suas fontes; a ficha não decide entre elas.
+> “"E eu tô fazendo essa volta toda só para dizer que a deusa Danana é a deusa inana, ou seja, os toatas de Danan, na verdade são os toatas de inan, ou seja, toatas quer dizer seguidores."” — P2021-05-15, U0003
 
+> “"Anu tinha uma neta chamada Inana."” — P2021-05-15, U0003
 
 ## Ampliação
 ### P2021-05-15 (As Etnias Hiperbóreas e os Anunnakis)
@@ -51,20 +48,18 @@ Figura do panteão anunnaki registrada na Base como **Inanna = Danu**: neta de *
 
 - **[P2023-12-03 · INANNA (= DANU; ANUNNAKI) NA FALA DE 03/12/2023]** «a lenda dos Turatas de Danã, que ali chegaram das cidades de Hiperbório, ainda existe na base da mitologia.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2021-05-15`); a entrada desta fonte é de **conteúdo**, não de data.
 
-## Fontes
-| Obra (sigla) | Capítulo | Página | Tipo (citação/paráfrase) |
-|---|---|---|---|
-| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra) | — | transcrição automatizada; citação |
-| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra) | — | transcrição automatizada; citação |
-| B060 — (obra primária da linhagem anunnaki) | a preencher | — | paráfrase (registro do cadastro; página a conferir) |
+## Etimologia e Grafias
+
+- **Na obra primária (B060):** *Inanna* (= *Danu*).
+- **Na fonte oral (P2021-05-15):** «Inana», «inan», «Nana», «Danana», «Danã», «toatas»/«tuatas» (= *tuatha*, "seguidores").
+- **Grafia preferida na Base:** Inanna. As formas acima são registradas como variantes de STT, **sem** normalização forçada.
+- **⚠️ [REVISAR → ENCERRADO 2026-09-05 · F038-L2 (equivalência cravada por despacho Q-D/D1): ver nota]:** «ISAR», apresentado como "segundo nome mais importante de Inana" ≈ ISHTAR — decisão de grafar a equivalência continua pendente do Curador; nada foi renomeado.
+- **Direção da equivalência (divergência selada, não fundida):** em B060, Inanna é a deusa **a quem** Danu corresponde; nesta fonte oral, **Danana é o nome do grupo** ("a deusa Danana é a deusa Inana, ou seja, os toatas de Danan, na verdade são os toatas de Inan"), isto é, *Danu* designa a **seguidora/seguidor de Inana** — não o inverso. As duas leituras ficam seladas com suas fontes; a ficha não decide entre elas.
 
 
+## Seres Associados
 
-## Citações-chave
-
-> “"E eu tô fazendo essa volta toda só para dizer que a deusa Danana é a deusa inana, ou seja, os toatas de Danan, na verdade são os toatas de inan, ou seja, toatas quer dizer seguidores."” — P2021-05-15, U0003
-
-> “"Anu tinha uma neta chamada Inana."” — P2021-05-15, U0003
+Anu (RC-587 — avô e, nesta fonte, amante); Enki (RC-486) e Enlil (RC-487) — os "dois principais filhos de Anu" com quem a fonte contrasta Inana; Anunnakis (RC-024); Biodemos (RC-036) e Hiperbórea (RC-068) — o quadro étnico em que a vinda periódica se dá.
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -72,10 +67,6 @@ Figura do panteão anunnaki registrada na Base como **Inanna = Danu**: neta de *
 | Anunnaki | RC-024 | é-um |
 | Thuata de Dannan | RC-398 | relaciona-se-a |
 | Culto a Lilith (Transformação em Deusa Lil Babilônica) | RC-813 | associado |
-
-## Seres Associados
-
-Anu (RC-587 — avô e, nesta fonte, amante); Enki (RC-486) e Enlil (RC-487) — os "dois principais filhos de Anu" com quem a fonte contrasta Inana; Anunnakis (RC-024); Biodemos (RC-036) e Hiperbórea (RC-068) — o quadro étnico em que a vinda periódica se dá.
 
 ## Observações
 
@@ -90,3 +81,12 @@ Anu (RC-587 — avô e, nesta fonte, amante); Enki (RC-486) e Enlil (RC-487) —
 
 > Notas de processo: 2 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-464.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** os 2 trechos entre aspas desta ficha **não** resistem à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Só 1 dos 2 deixam vestígio no corpus. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo (citação/paráfrase) |
+|---|---|---|---|
+| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra) | — | transcrição automatizada; citação |
+| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra) | — | transcrição automatizada; citação |
+| B060 — (obra primária da linhagem anunnaki) | a preencher | — | paráfrase (registro do cadastro; página a conferir) |
+
+

@@ -25,12 +25,6 @@ O mecanismo pelo qual a **agressividade** da espécie, em vez de eliminada, é *
 
 **Origem do conteúdo da ampliação:** palestra `P2023-10-14 — A Esquecida Honra dos Anunnaki`, megabloco U0033 do `original.txt` (transcrição automatizada, **não conferida com o áudio**); aspas recortadas byte a byte por `_gerar_ampliacoes_P2023-10-14.py`.
 
-## Etimologia e Grafias
-
-- **Canônico da Base:** *agressividade canalizada*; *DNA doentio* (expressão do cadastro — mantida como está, sem «suavização»).
-- **Na fonte oral (P2023-10-14):** «NAC» [REVISAR: sigla não decifrada na fonte — hipoteticamente *nível de avanço consciência*? **não conjeturar**, a Base não fixa → CHANCELA 2026-09-06 · F039-L3: AGUARDA-ÁUDIO (STT preservado como falado) — ver nota], «se enfeem» (= *se empenham/efem*, STT), «purança/pureza de sangue».
-
-
 ## Ampliação
 ### P2023-10-14 (A Esquecida Honra dos Anunnaki)
 
@@ -41,14 +35,10 @@ O mecanismo pelo qual a **agressividade** da espécie, em vez de eliminada, é *
 
 - **[P2023-12-03 · AGRESSIVIDADE CANALIZADA (DNA DOENTIO) NA FALA DE 03/12/2023]** «Ninguém tinha tinha algoritmo de raiva, de tristeza, de agressão.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2023-10-14`); a entrada desta fonte é de **conteúdo**, não de data.
 
-## Fontes
-| Obra (sigla) | Capítulo | Página | Tipo (citação/paráfrase) |
-|---|---|---|---|
-| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra) | — | transcrição automatizada; citação |
-| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra) | — | transcrição automatizada; citação |
-| B040 — *Homo Sapiens: da Guerra ao Esporte* | a preencher | — | paráfrase (registro do cadastro; página a conferir) |
-| B052 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
-| P2024-11-30 | palestra | — | paráfrase (vínculo pré-existente do cadastro) |
+## Etimologia e Grafias
+
+- **Canônico da Base:** *agressividade canalizada*; *DNA doentio* (expressão do cadastro — mantida como está, sem «suavização»).
+- **Na fonte oral (P2023-10-14):** «NAC» [REVISAR: sigla não decifrada na fonte — hipoteticamente *nível de avanço consciência*? **não conjeturar**, a Base não fixa → CHANCELA 2026-09-06 · F039-L3: AGUARDA-ÁUDIO (STT preservado como falado) — ver nota], «se enfeem» (= *se empenham/efem*, STT), «purança/pureza de sangue».
 
 
 ## Termos Relacionados
@@ -73,3 +63,13 @@ O mecanismo pelo qual a **agressividade** da espécie, em vez de eliminada, é *
 
 
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-432.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
+
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo (citação/paráfrase) |
+|---|---|---|---|
+| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra) | — | transcrição automatizada; citação |
+| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra) | — | transcrição automatizada; citação |
+| B040 — *Homo Sapiens: da Guerra ao Esporte* | a preencher | — | paráfrase (registro do cadastro; página a conferir) |
+| B052 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
+| P2024-11-30 | palestra | — | paráfrase (vínculo pré-existente do cadastro) |
+

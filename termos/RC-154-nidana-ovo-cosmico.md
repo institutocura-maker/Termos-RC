@@ -28,10 +28,6 @@ Com isso:
 
 **Origem do conteúdo da ampliação:** palestra `P2024-06-16 — O Projeto TALM, os Fenvans e os Humanos` (16/06/2024). Transcrição automatizada, **não conferida com o áudio**; cada aspa foi recortada do `original.txt` pelo índice de âncoras do motor e conferida byte a byte pelo portão B. Nada foi digitado de memória.
 
-## Observações sobre o Estado da Malha
-
-* **Trava aplicável**: nenhuma além das gerais do despacho.
-
 ## Ampliação
 ### P2024-06-16 (O Projeto TALM, os Fenvans e os Humanos)
 
@@ -45,14 +41,6 @@ Com isso:
 
 - **[O código de Dana (Nidana): semeado, deu origem à vida biológica] (U0013)** «Então esse código de Dana é o que veio do Bramaloca e foi semeado no nosso universo, dando origem à vida biológica.» — o código holográfico registrado em cada um: "Devido a questão holográfica, tá lá registrado o código, fonte, definidor, ou seja, o DNA de cada um deles" (U0008: «Devido a questão holográfica, tá lá registrado o código, fonte, definidor, ou seja, o DNA de cada um deles.»); a disputa pela célula: "Em termos de vida biológica, cada célula do nosso corpo, cada célula do nosso corpo tem ao redor dela cerca de 36 espécies de vírus protozoários, bactérias, tentando disputar aquela célula para ser a sua casa" (U0012: «Em termos de vida biológica, cada célula do nosso corpo, cada célula do nosso corpo tem ao redor dela cerca de 36 espécies de vírus protozoários, bactérias, tentando disputar aquela célula para ser a sua casa.»).
 
-
-## Fontes
-| Obra (sigla) | Título | Página | Tipo |
-|---|---|---|---|
-| P2026-03-21 | Samudra Manthan A Enigmatica Alquimia de Vishnu (palestra) | — | transcrição automatizada; citação |
-| P2018-12-15 | Terra Atlantis – Aprofundamento (palestra) | — | transcrição automatizada; citação |
-| P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
-| B024 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -71,3 +59,15 @@ Com isso:
 | Nada Brahma (tudo é som) | RC-845 | associado |
 | Carga virótica (a materialização da primeira carga mental do criador) | RC-877 | associado |
 
+
+## Fontes
+| Obra (sigla) | Título | Página | Tipo |
+|---|---|---|---|
+| P2026-03-21 | Samudra Manthan A Enigmatica Alquimia de Vishnu (palestra) | — | transcrição automatizada; citação |
+| P2018-12-15 | Terra Atlantis – Aprofundamento (palestra) | — | transcrição automatizada; citação |
+| P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
+| B024 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
+
+## Observações sobre o Estado da Malha
+
+* **Trava aplicável**: nenhuma além das gerais do despacho.

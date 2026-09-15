@@ -28,12 +28,6 @@ Com isso:
 
 **Origem do conteúdo da ampliação:** palestra `P2023-12-03 — A Rebelião de Lúcifer ainda por ser Finalizada` (03/12/2023, na sala). Transcrição automatizada, **não conferida com o áudio**; cada aspa foi recortada do `original.txt` pelo índice de âncoras do motor e conferida byte a byte pelo portão B. Nada foi digitado de memória.
 
-## Observações sobre o Estado da Malha
-
-* **D-6.** Nenhuma aresta nova com `RC-005` nem com qualquer verbete de governo: as arestas listadas abaixo são todas pré-existentes do cadastro.
-* posse é tratada como metáfora no glossário do ciclo, não como evento administrativo desta cosmologia; a ficha não decide a questão.
-* **Trava aplicável**: D-6 (posse revogada, sem relação de fundamento).
-
 ## Ampliação
 ### P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
 
@@ -50,14 +44,6 @@ Com isso:
 - Aula 03 dá a **versão político-jurídica da ressurreição** (suborno do centurião por José de Arimatéia; Pilatos pressionado por Caifás/Anás) e a **revelação pós-ressurreição** intermediada por **Madalena** — expande o eixo Sophia/Ressurreição.
 
 
-## Fontes
-| Obra (sigla) | Título | Página | Tipo |
-|---|---|---|---|
-| P2023-12-25-03 | Aula 03 — Dias Difíceis: Crucificação e Ressurreição (curso) | — | citação verbatim |
-| P2025-05-10 | Mistérios do Apocalipse (palestra) | — | transcrição automatizada; citação |
-| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra) | — | transcrição automatizada; citação |
-| B014 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
-
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
@@ -70,3 +56,17 @@ Com isso:
 | Maria Madalena | RC-943 | associado |
 | Pôncio Pilatos / Caifás / Sinédrio | RC-946 | associado |
 
+
+## Fontes
+| Obra (sigla) | Título | Página | Tipo |
+|---|---|---|---|
+| P2023-12-25-03 | Aula 03 — Dias Difíceis: Crucificação e Ressurreição (curso) | — | citação verbatim |
+| P2025-05-10 | Mistérios do Apocalipse (palestra) | — | transcrição automatizada; citação |
+| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra) | — | transcrição automatizada; citação |
+| B014 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
+
+## Observações sobre o Estado da Malha
+
+* **D-6.** Nenhuma aresta nova com `RC-005` nem com qualquer verbete de governo: as arestas listadas abaixo são todas pré-existentes do cadastro.
+* posse é tratada como metáfora no glossário do ciclo, não como evento administrativo desta cosmologia; a ficha não decide a questão.
+* **Trava aplicável**: D-6 (posse revogada, sem relação de fundamento).

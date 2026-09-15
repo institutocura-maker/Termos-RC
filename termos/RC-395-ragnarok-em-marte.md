@@ -18,10 +18,16 @@ Evento registrado no **Guia das Eras Universais (Mapa)** (B050): **"Ragnarok em 
 ## Contexto / Origem
 O B050 situa o Ragnarok no contexto das eras: junto a "Kvasir e Freya em busca dos Titãs banidos por Cronos (450–290 milhões a.p.)" e a "Morte de Kvasir (290–280 milhões a.p.)". Conecta a mitologia nórdica (Aesir/Vanir) à história demo do universo — os "deuses" nórdicos como seres demos que teriam perecido numa catástrofe marciana.
 
-## Etimologia e Grafias
-- **Grafia preferida:** Ragnarok em Marte
-- **Variações:** Ragnarök; o crepúsculo dos deuses (nórdico); explosão que acabou com a atmosfera de Marte
+## Citações-chave
 
+> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+
+- «As correntes de asgardianos que não estão claramente distinguíveis nas mitologias nórdicas, mas eles aparecem por trás dos padrões da mitologia nórdica. Eles, essas correntes, foi quem mais trouxe, produziu esse fluxo de informações entre Marte e Terra. Mas quando a gente fala Marte e Terra, a […]» — *ver:* **Ampliação — P2024-03-17**
+- «O rainarok aconteceu não é porque A brigou com B, brigou com C, brigou com D, é porque a trimurte queria destruir aquilo tudo para destruir, foi um momento de loucura da Trimurto, destruir as joias ou as setas de moros de ordem que acabar com aquela história, porque era todo mundo atrás daquilo» — *ver:* **Ampliação — P2023-07-09 (A Wyrd Quântica, o Processador V…**
+- «Vazer, o tal ser que surgiu na vasilha cheia de saliva, quando ele viu que o Rainarox ia acontecer, quando ele viu que os mísseis, vamos falar assim, estavam chegando e Asgard, ele pegou os segredos alquímicos e atirou, soltou três setas para fora do Bramaloca na direção de Marte.» — *ver:* **Ampliação — P2026-03-21 (Samudra Manthan A Enigmatica Alq…** U0013
+
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-395.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
 
 ## Ampliação
 ### P2025-05-31
@@ -93,33 +99,6 @@ O B050 situa o Ragnarok no contexto das eras: junto a "Kvasir e Freya em busca d
 - **[P2023-10-14 · A SOBRE-VIDA COMO «SOBRA DE UM PROBLEMA»]** "Tudo indica, tudo indica que esses seres que nós chamamos hoje anonax, eles sejam uma sobra de um problema ocorrido a cerca de 300 milhões de anos atrás, precisa abrir há 300 milhões de anos atrás, quando aconteceu o chamado nórdico." (U0003)
 ---
 
-## Atualização
-### P2022-12-17
-
-- **Fonte:** palestra *O Incompreendido Ano de 2012 e a Falsa Noção do Fim do Mundo* — unidades U0133–U0134.
-- **Contexto acrescentado:** Ragnarok é relacionado a uma ancoragem antiga em Marte e à Bifrost; a correção do STT “Rainha” para Ragnarok foi validada pelo curador.
-- **Status da evidência:** transcrição automatizada, pré-curada e validada terminologicamente pelo curador; conferir com áudio/obra primária antes de promoção de status.
-
-## Reforço
-### P2025-02-16
-
-Após o Ragnarok em Marte, o Axis Mundi teria sido transferido para Naimisharanya na Terra. Midgard, Bifrost, Yggdrasil, Odin e a geografia dos nove mundos são usados como mapa comparativo. A função de Naimisharanya é cosmologia da palestra.
-
-### Kvasir e as Flechas / P2024-11-30
-
-Antes da destruição de Marte, Kvasir teria repetido o gesto de Moros e enviado três arquivos ao universo material. A palestra relaciona o evento à Brahmastra e às localizações Edimburgo, Split e Naimisharanya. Alegações de xenônio/John Brandenburg permanecem controversas.
-
----
-
-## Atualização
-### P2025-11-29 (A Revelação de Ifá e o Destino dos Seres)
-
-- **"Hainarok" [STT = Ragnarök]:** "eles destruíram isso no Hainarok, porque isso estava fora do controle deles e eles queriam voltar a ter o controle sobre o destino dos seres" — Moros codificou genes e o código foi destruído no Ragnarök (RC-454);
-- "É tipo Ragnarök 2" — a "gestão de escombros" da batalha Islã × Krishna × orixás (leitura do autor; quarentena).
----
----
----
-
 ## Ampliação
 ### P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
 
@@ -143,6 +122,50 @@ Antes da destruição de Marte, Kvasir teria repetido o gesto de Moros e enviado
 ### P2024-03-02 (O Drama Espiritual de Jesus)
 
 - **[Ragnarok — destruição de Yggdrasil há ~300 milhões de anos]:** «Então, Brama resolveu destruir Yggdrasil. Por isso, o famoso Ragnarok, que aconteceu há 300 milhões de anos, acabou com essas oito locas e com parte do que era o reino de Odin, que era o planeta Marte.» — ver RC-730 (Yggdrasil), RC-396 (Kvaser), RC-454 (Moros).
+
+
+## Ampliação
+### P2023-07-09 (A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons)
+
+- **[Ragnarok — motivado pela Trimurti querendo destruir as flechas de Orlog/Moros]** «O rainarok aconteceu não é porque A brigou com B, brigou com C, brigou com D, é porque a trimurte queria destruir aquilo tudo para destruir, foi um momento de loucura da Trimurto, destruir as joias ou as setas de moros de ordem que acabar com aquela história, porque era todo mundo atrás daquilo» — ver RC-730 (Yggdrasil), RC-454 (Moros), RC-396 (Kvaser).
+
+## Ampliação
+### P2024-03-17
+
+**Fonte:** palestra «A Quem Pertence o Planeta e a Biblioteca Genômica Mais Atualizada do Universo» (17/03/2024).
+
+**Trecho verbatim:** «As correntes de asgardianos que não estão claramente distinguíveis nas mitologias nórdicas, mas eles aparecem por trás dos padrões da mitologia nórdica. Eles, essas correntes, foi quem mais trouxe, produziu esse fluxo de informações entre Marte e Terra. Mas quando a gente fala Marte e Terra, a gente tem que entender duas coisas por trás de Marte. Antes de 500.000 anos, os seres élficos de Asgar e de outros níveis. De 500.000 anos para cá, esses seres e os anunax.»
+
+## Atualização
+### P2022-12-17
+
+- **Fonte:** palestra *O Incompreendido Ano de 2012 e a Falsa Noção do Fim do Mundo* — unidades U0133–U0134.
+- **Contexto acrescentado:** Ragnarok é relacionado a uma ancoragem antiga em Marte e à Bifrost; a correção do STT “Rainha” para Ragnarok foi validada pelo curador.
+- **Status da evidência:** transcrição automatizada, pré-curada e validada terminologicamente pelo curador; conferir com áudio/obra primária antes de promoção de status.
+
+## Atualização
+### P2025-11-29 (A Revelação de Ifá e o Destino dos Seres)
+
+- **"Hainarok" [STT = Ragnarök]:** "eles destruíram isso no Hainarok, porque isso estava fora do controle deles e eles queriam voltar a ter o controle sobre o destino dos seres" — Moros codificou genes e o código foi destruído no Ragnarök (RC-454);
+- "É tipo Ragnarök 2" — a "gestão de escombros" da batalha Islã × Krishna × orixás (leitura do autor; quarentena).
+---
+---
+---
+
+## Reforço
+### P2025-02-16
+
+Após o Ragnarok em Marte, o Axis Mundi teria sido transferido para Naimisharanya na Terra. Midgard, Bifrost, Yggdrasil, Odin e a geografia dos nove mundos são usados como mapa comparativo. A função de Naimisharanya é cosmologia da palestra.
+
+### Kvasir e as Flechas / P2024-11-30
+
+Antes da destruição de Marte, Kvasir teria repetido o gesto de Moros e enviado três arquivos ao universo material. A palestra relaciona o evento à Brahmastra e às localizações Edimburgo, Split e Naimisharanya. Alegações de xenônio/John Brandenburg permanecem controversas.
+
+---
+
+## Etimologia e Grafias
+- **Grafia preferida:** Ragnarok em Marte
+- **Variações:** Ragnarök; o crepúsculo dos deuses (nórdico); explosão que acabou com a atmosfera de Marte
 
 
 ## Termos Relacionados
@@ -177,30 +200,7 @@ Antes da destruição de Marte, Kvasir teria repetido o gesto de Moros e enviado
 | P2023-07-09 | A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
 | P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |
 
-## Ampliação
-### P2023-07-09 (A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons)
-
-- **[Ragnarok — motivado pela Trimurti querendo destruir as flechas de Orlog/Moros]** «O rainarok aconteceu não é porque A brigou com B, brigou com C, brigou com D, é porque a trimurte queria destruir aquilo tudo para destruir, foi um momento de loucura da Trimurto, destruir as joias ou as setas de moros de ordem que acabar com aquela história, porque era todo mundo atrás daquilo» — ver RC-730 (Yggdrasil), RC-454 (Moros), RC-396 (Kvaser).
-
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
 | P2023-07-09 | A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
-
-## Ampliação
-### P2024-03-17
-
-**Fonte:** palestra «A Quem Pertence o Planeta e a Biblioteca Genômica Mais Atualizada do Universo» (17/03/2024).
-
-**Trecho verbatim:** «As correntes de asgardianos que não estão claramente distinguíveis nas mitologias nórdicas, mas eles aparecem por trás dos padrões da mitologia nórdica. Eles, essas correntes, foi quem mais trouxe, produziu esse fluxo de informações entre Marte e Terra. Mas quando a gente fala Marte e Terra, a gente tem que entender duas coisas por trás de Marte. Antes de 500.000 anos, os seres élficos de Asgar e de outros níveis. De 500.000 anos para cá, esses seres e os anunax.»
-
-## Citações-chave
-
-> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
-
-- «As correntes de asgardianos que não estão claramente distinguíveis nas mitologias nórdicas, mas eles aparecem por trás dos padrões da mitologia nórdica. Eles, essas correntes, foi quem mais trouxe, produziu esse fluxo de informações entre Marte e Terra. Mas quando a gente fala Marte e Terra, a […]» — *ver:* **Ampliação — P2024-03-17**
-- «O rainarok aconteceu não é porque A brigou com B, brigou com C, brigou com D, é porque a trimurte queria destruir aquilo tudo para destruir, foi um momento de loucura da Trimurto, destruir as joias ou as setas de moros de ordem que acabar com aquela história, porque era todo mundo atrás daquilo» — *ver:* **Ampliação — P2023-07-09 (A Wyrd Quântica, o Processador V…**
-- «Vazer, o tal ser que surgiu na vasilha cheia de saliva, quando ele viu que o Rainarox ia acontecer, quando ele viu que os mísseis, vamos falar assim, estavam chegando e Asgard, ele pegou os segredos alquímicos e atirou, soltou três setas para fora do Bramaloca na direção de Marte.» — *ver:* **Ampliação — P2026-03-21 (Samudra Manthan A Enigmatica Alq…** U0013
-
-
-> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-395.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

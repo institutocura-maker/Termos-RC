@@ -25,9 +25,8 @@ A fala distingue:
 
 Quando o corpo morre, o corpo sutil e o eu seriam apropriados pelo espírito. Em nova encarnação, essa estrutura seria ligada ao zigoto e forneceria o receituário inicial, que o novo eu pode repetir ou transformar.
 
-## Samskaras e Vasanas
-Mantidos como subtermos de glossário: impressões, hábitos e tendências transportadas entre existências.
-
+## Citações-chave
+> “Existe um corpo sutil, reencarnante, que um espírito particularizado utiliza em cada vida.”
 
 ## Ampliação
 ### P2025-02-15
@@ -41,13 +40,10 @@ Mantidos como subtermos de glossário: impressões, hábitos e tendências trans
 
 - **[P2024-07-14] O cordão e o desdobramento (U0080–U0126):** "o seu corpo tá aqui na Terra, o seu espírito já está nesse lugar. E o que acontece é que, quando esse corpo morre, um cordão entre os dois se desfaz. Aí esse cordão é levado pelo espírito de volta para ele. Na ponta desse cordão vai o seu eu viajando"; "quando nós estamos vivos, o nosso eu se desloca junto com a sensação de deslocamento desse corpo. O que é um truque, porque o nosso eu não precisa do deslocamento do corpo para que ele de fato se desloque. Mas se você mesmo acha que você só se desloca se seu corpo se deslocar, o seu eu jamais irá se deslocar sozinho. Desdobramento. Porque, se pra sua mente aquela possibilidade é impossível, pro seu eu a oportunidade de fazer isso nunca vai existir. Então, é assim que o eu humano é aprisionado na sensação de que ele está aqui dentro".
 
-## Fontes
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2025-02-15 | U0357–U0439; U0820–U0860; U1034–U1040 | aula/palestra STT |
-
-## Citações-chave
-> “Existe um corpo sutil, reencarnante, que um espírito particularizado utiliza em cada vida.”
+## Atualização
+### P2024-11-09
+O Corpo Sutil Reencarnante é relacionado à destinação por ressonância/sensação nas faixas espirituais — RC-726. A relação permanece no plano doutrinário da palestra.
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -78,7 +74,11 @@ Mantidos como subtermos de glossário: impressões, hábitos e tendências trans
 ## Observações
 Não equiparar automaticamente a perispírito, alma ou corpo astral de outras doutrinas. A definição é específica da palestra.
 
-## Atualização
-### P2024-11-09
-O Corpo Sutil Reencarnante é relacionado à destinação por ressonância/sensação nas faixas espirituais — RC-726. A relação permanece no plano doutrinário da palestra.
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2025-02-15 | U0357–U0439; U0820–U0860; U1034–U1040 | aula/palestra STT |
+
+## Samskaras e Vasanas
+Mantidos como subtermos de glossário: impressões, hábitos e tendências transportadas entre existências.
+

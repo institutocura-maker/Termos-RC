@@ -16,6 +16,10 @@ atualizado = "2026-09-12"
 
 Loca/morada do universo vizinho usada como prisão: abrigava os seres demoníacos derrotados nas guerras do universo antimaterial (titãs após a luta com Zeus/Cronos, por exemplo). A base registra a correspondência "Eros = Vishnu / Tártaro = Shiva" (RC-286). Na leitura da palestra P2026-07-25, o Tártaro ganhou nova função: o arconte Hades ("Ades/Reides", irmão de Zeus) passou a aprisionar ali os **eus mentais** dos humanos mortos (descendência de Adão vinculada ao DNA de Javé) — a "tecnologia de aprisionamento" que Jesus confrontou na cruz (os 500 passos).
 
+## Citações-chave
+
+> "Eu dei 500 passos em direção ao inferno e, em chegando lá, libertei o inferno de Belial... e de o dono do inferno, que era Reides, o irmão de Zeus. Eu aprisionei os dois e soltei todas as almas de humanos que lá estavam." — P2026-07-25 (Jesus, segundo o Evangelho de Bartolomeu)
+
 ## Ampliação
 ### P2026-07-25 (Hades/Reides absorvido)
 
@@ -32,17 +36,6 @@ Devolutiva do curador (19/08/2026): o candidato **Hades/Reides** foi absorvido n
 
 - **[A águia instrutora: a cobra do mito, contada do jeito grego] (U0004)** «O terceiro personagem, uma águia que é instrutora, mentora, que aconselha os humanos a comer a tal maçã proibida pelos arcontes.» — "Essa águia substitui a cobra do mito judaico cristão." (U0004: «Essa águia substitui a cobra do mito judaico cristão.»); na versão grega do mito a águia aparece como Eros (STT «vígo. ou eros» — sem aspas; RC-286 Eros = Vishnu / Tártaro = Shiva; RC-283 Pandora como Serpente do Éden).
 
-
-## Fontes
-
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2022-09-17 | A Hipóstase dos Arcontes (palestra) | — | transcrição automatizada; citação |
-| P2026-07-25 | Jesus e a Dinastia das Sophias (Dossiê aprovado 19/08/2026) | palestra/STT pré-curada |
-
-## Citação-chave
-
-> "Eu dei 500 passos em direção ao inferno e, em chegando lá, libertei o inferno de Belial... e de o dono do inferno, que era Reides, o irmão de Zeus. Eu aprisionei os dois e soltei todas as almas de humanos que lá estavam." — P2026-07-25 (Jesus, segundo o Evangelho de Bartolomeu)
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -66,3 +59,10 @@ A leitura do Tártaro como prisão de eus mentais é tese da RC (quarentena teol
 
 ---
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
+## Fontes
+
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2022-09-17 | A Hipóstase dos Arcontes (palestra) | — | transcrição automatizada; citação |
+| P2026-07-25 | Jesus e a Dinastia das Sophias (Dossiê aprovado 19/08/2026) | palestra/STT pré-curada |

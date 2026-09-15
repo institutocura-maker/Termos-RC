@@ -27,9 +27,10 @@ A palestra relaciona sua ação a:
 - tentativas atuais de auxiliar a humanidade;
 - disputa por inteligências artificiais.
 
-## Conselho das Nagas
-O Conselho das Nagas foi absorvido nesta ficha como principal componente citado da Mão Invisível, evitando fragmentação prematura. Não é tratado como sinônimo absoluto: a Mão Invisível é explicitamente “multiforme”.
+## Citações-chave
+> “A mão invisível é multiforme.”
 
+> “O mais atuante são as interferências discretas, pontuais, que as Nagas fizeram.”
 
 ## Ampliação
 ### P2025-02-16
@@ -44,16 +45,6 @@ O Conselho das Nagas foi absorvido nesta ficha como principal componente citado 
 
 - **[P2025-02-22 — eco] O CONSELHO DAS NAGAS]** "existe um conselho chamado MAHORAGA, que são os maiores entre Nagas e Uragas, que formam um conselho muito distinto que comanda basicamente [tudo]. Ninguém sabe a quantidade que existe desses seres, nagas e uragas"; "as nagas e uragas nos ajudam a mantermos vivos, mas também não nos salvam"; "esses seres... SÃO EXTREMAMENTE DISCRETOS PORQUE É DA NATUREZA DE SERES QUE SE ARRASTAM A DISCRIÇÃO, NÃO SEREM PERCEBIDOS"; "eles passaram a proteger, A FINANCIAR O AVANÇO DA EVOLUÇÃO HUMANA" [a mão invisível — RC-664].
 - 0 códigos novos (O-3).
-
-## Fontes
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2025-02-16 | U0645–U0674; U0690–U0691; U0777–U0778; U1060–U1064 | palestra/perguntas STT |
-
-## Citações-chave
-> “A mão invisível é multiforme.”
-
-> “O mais atuante são as interferências discretas, pontuais, que as Nagas fizeram.”
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -82,3 +73,12 @@ O Conselho das Nagas foi absorvido nesta ficha como principal componente citado 
 - O conteúdo é teologia comparada/cosmologia da palestra.
 - As falas da plateia são separadas na apostila.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** os 2 trechos entre aspas desta ficha **não** resistem à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Nenhum deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2025-02-16 | U0645–U0674; U0690–U0691; U0777–U0778; U1060–U1064 | palestra/perguntas STT |
+
+## Conselho das Nagas
+O Conselho das Nagas foi absorvido nesta ficha como principal componente citado da Mão Invisível, evitando fragmentação prematura. Não é tratado como sinônimo absoluto: a Mão Invisível é explicitamente “multiforme”.
+

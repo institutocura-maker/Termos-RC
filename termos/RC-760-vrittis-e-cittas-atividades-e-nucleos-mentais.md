@@ -16,16 +16,12 @@ atualizado = "2026-08-18"
 
 Mecânica técnica de funcionamento psíquico apresentada por Jan Val Ellam (P2024-02-03), baseada nos Yoga Sutras de Patanjali: a mente humana é uma **assembleia de cittas** (núcleos mentais, em sânscrito "chitta") que disputam permanentemente o controle do eu; as **vrittis** (atividades mentais, "vritti") são as unidades de informação que alimentam esses núcleos. O **citta sagrado** é o conjunto de protocolos mentais que, acionado pela vontade do ser humano (método druídico), permite operar o eu sem crenças — a chave para decifrar a realidade.
 
-## Estrutura interna
+## Citações-chave
 
-- **vrittis:** atividades mentais codificadas (bits/memes) espalhadas pelo universo;
-- **cittas:** núcleos mentais formados pelo agrupamento de vrittis na cabeça de cada ser — "cada transtorno, cada pânico, cada preferência é um citta que reina";
-- **assembleia de cittas:** disputam o controle do eu humano;
-- **citta sagrado** (Patanjali): o núcleo mental divino que, acionado pela vontade, desperta o processo suprahumano — base do Método Druídico (RC-755);
-- **Nirodha:** o recolhimento das vrittis para reciclagem (RC-548 Arquivos Mentais);
-- **DNA humano como "recolhedor"** das vrittis; o eu administra e devolve à memória dos elétrons;
-- relação com karma/teia quântica (RC-559) e protocolo mental (RC-517).
+> "Segundo Patanjali, a mente humana é uma assembleia de cittas que disputam permanentemente o controle do eu daquele ser humano... Isso aqui é a vontade de sobrevivência que loucamente Javé criou para ele mesmo quando ele caiu." — P2024-02-03
 
+*Ocorrência referenciada apenas estruturalmente (índices/listas) nas obras-fonte processadas até o momento. Aguardando processamento de prosa descritiva.*
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
 
 ## Ampliação
 ### P2025-05-31
@@ -68,16 +64,18 @@ Mecânica técnica de funcionamento psíquico apresentada por Jan Val Ellam (P20
 - **[Kapila e o Sankhya: o jogo de tattvas] (U0113)** «Capila, quando escreveu Sankia, descreveu toda a formação universal como sendo um jogo de tátivas.» — Kapila/Samkhya descreve a formação universal como jogo de tattvas (algoritmos dos cittas) — a leitura de Ellam que ancora o Nirodha ao método druídico.
 
 
-## Fontes
+## Atualização
+### P2025-11-29 (A Revelação de Ifá e o Destino dos Seres)
 
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2025-06-14b | A Consciência Humana e a Chave da Decifração Universal (palestra) | — | transcrição automatizada; citação |
-| P2024-02-03 | blocos centrais (assembleia de cittas; citta sagrado; vrittis) | palestra/STT pré-curada |
+- **Detalhamento completo de Patanjali:** "cada ser humano pratica o Nirodha, o recolhimento das vrittis no seu cérebro... elas vão se reunindo em núcleos mentais distintos que na obra de Patanjali ele é chamado de cittas";
+- **Humanos como "guardadores de vrittis":** "cada ser humano no seu cérebro é um guardador das famosas vrittis que são as atividades doentias do criador caído... a antiga mente do criador foi transferida pra mente de cada ser humano";
+- **Cittas disputam o eu:** "essas cittas pulsam o tempo inteiro no nosso cérebro e disputam a posse do nosso eu"; exemplo do "vício em Coca-Cola" (cita da Coca-Cola);
+- **Ressignificação:** "nós podemos fazer isso se nós construirmos sensações superiores no nosso psiquismo associada a ritmos respiratórios profundos e se meditarmos calmamente... a gente educa todas as cittas, pacifica as vrittis";
+- **Só o humano consegue:** "só quem tem no seu cérebro os protocolos mentais da condição humana pode recolher essas vrittis ressignificá-las" (RC-517; RC-767);
+- Nova aresta RC-760 ↔ RC-658 (Vrittis ~ Wyrd — os 256 caminhos).
 
-## Citação-chave
 
-> "Segundo Patanjali, a mente humana é uma assembleia de cittas que disputam permanentemente o controle do eu daquele ser humano... Isso aqui é a vontade de sobrevivência que loucamente Javé criou para ele mesmo quando ele caiu." — P2024-02-03
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-760.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -96,19 +94,20 @@ A afirmação de que "cada transtorno mental é um citta que reina" é **metáfo
 
 ---
 
-## Atualização
-### P2025-11-29 (A Revelação de Ifá e o Destino dos Seres)
+## Fontes
 
-- **Detalhamento completo de Patanjali:** "cada ser humano pratica o Nirodha, o recolhimento das vrittis no seu cérebro... elas vão se reunindo em núcleos mentais distintos que na obra de Patanjali ele é chamado de cittas";
-- **Humanos como "guardadores de vrittis":** "cada ser humano no seu cérebro é um guardador das famosas vrittis que são as atividades doentias do criador caído... a antiga mente do criador foi transferida pra mente de cada ser humano";
-- **Cittas disputam o eu:** "essas cittas pulsam o tempo inteiro no nosso cérebro e disputam a posse do nosso eu"; exemplo do "vício em Coca-Cola" (cita da Coca-Cola);
-- **Ressignificação:** "nós podemos fazer isso se nós construirmos sensações superiores no nosso psiquismo associada a ritmos respiratórios profundos e se meditarmos calmamente... a gente educa todas as cittas, pacifica as vrittis";
-- **Só o humano consegue:** "só quem tem no seu cérebro os protocolos mentais da condição humana pode recolher essas vrittis ressignificá-las" (RC-517; RC-767);
-- Nova aresta RC-760 ↔ RC-658 (Vrittis ~ Wyrd — os 256 caminhos).
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2025-06-14b | A Consciência Humana e a Chave da Decifração Universal (palestra) | — | transcrição automatizada; citação |
+| P2024-02-03 | blocos centrais (assembleia de cittas; citta sagrado; vrittis) | palestra/STT pré-curada |
 
+## Estrutura interna
 
-> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-760.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
+- **vrittis:** atividades mentais codificadas (bits/memes) espalhadas pelo universo;
+- **cittas:** núcleos mentais formados pelo agrupamento de vrittis na cabeça de cada ser — "cada transtorno, cada pânico, cada preferência é um citta que reina";
+- **assembleia de cittas:** disputam o controle do eu humano;
+- **citta sagrado** (Patanjali): o núcleo mental divino que, acionado pela vontade, desperta o processo suprahumano — base do Método Druídico (RC-755);
+- **Nirodha:** o recolhimento das vrittis para reciclagem (RC-548 Arquivos Mentais);
+- **DNA humano como "recolhedor"** das vrittis; o eu administra e devolve à memória dos elétrons;
+- relação com karma/teia quântica (RC-559) e protocolo mental (RC-517).
 
-## Citações-chave
-*Ocorrência referenciada apenas estruturalmente (índices/listas) nas obras-fonte processadas até o momento. Aguardando processamento de prosa descritiva.*
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

@@ -35,12 +35,6 @@ A Base aproxima este verbete de dois outros: a Simbiose Quântica (RC-195), a in
 - RC-195 — ver ficha correspondente
 - RC-176 — ver ficha correspondente
 
-## Fontes
-| Obra/palestra | Localização | Tipo |
-|---|---|---|
-| B035 | — | registro-mestre (fonte censada) |
-| B001 | — | registro-mestre (fonte censada) |
-
 ## Observações
 Nó ético e dramático do Volume III da Enciclopédia (III.9.4). A imagem do «refém» é leitura de Ellam, não categoria teológica das religiões.
 
@@ -49,3 +43,9 @@ Nó ético e dramático do Volume III da Enciclopédia (III.9.4). A imagem do «
 
 
 [Aguardando Ditado Livre]
+
+## Fontes
+| Obra/palestra | Localização | Tipo |
+|---|---|---|
+| B035 | — | registro-mestre (fonte censada) |
+| B001 | — | registro-mestre (fonte censada) |

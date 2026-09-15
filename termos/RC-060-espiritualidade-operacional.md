@@ -40,6 +40,12 @@ Na sequência descrita por Ellam, a experiência da incompletude exigiu sucessiv
 - RC-059 — ver ficha correspondente
 - RC-100 — ver ficha correspondente
 
+## Observações
+Materialização de âncora estrutural: sem este verbete, a sequência «Superior → Operacional → Laboratorial» — repetida em praticamente toda a cosmografia — ficava sem o elo do meio.
+
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-060.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
@@ -56,9 +62,3 @@ Na sequência descrita por Ellam, a experiência da incompletude exigiu sucessiv
 | P2023-06-17 | — | registro-mestre (fonte censada) |
 | P2023-12-03 | — | registro-mestre (fonte censada) |
 | P2020-04-04 | — | registro-mestre (fonte censada) |
-
-## Observações
-Materialização de âncora estrutural: sem este verbete, a sequência «Superior → Operacional → Laboratorial» — repetida em praticamente toda a cosmografia — ficava sem o elo do meio.
-
-
-> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-060.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

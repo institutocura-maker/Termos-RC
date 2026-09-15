@@ -28,11 +28,6 @@ Com isso:
 
 **Origem do conteúdo da ampliação:** palestra `P2023-12-03 — A Rebelião de Lúcifer ainda por ser Finalizada` (03/12/2023, na sala). Transcrição automatizada, **não conferida com o áudio**; cada aspa foi recortada do `original.txt` pelo índice de âncoras do motor e conferida byte a byte pelo portão B. Nada foi digitado de memória.
 
-## Observações sobre o Estado da Malha
-
-* **[REVISAR → ENCERRADO 2026-09-06 · F040-L4: RATIFICADO — divergência registrada, não costurada — ver nota] — uso da fala × categoria do cadastro.** A frase de 03/12/2023 trata bilatério como atributo de cérebro; o cadastro o lista como classe de seres. A divergência é registrada, não costurada, e nenhuma ficha de anatomia foi tocada (D-7: obsolescência anatômica mora em `RC-631`/`RC-632`).
-* **Trava aplicável**: D-7 (anatomia sem código novo) · D-4 (nenhuma máscara transita) · veto de trânsito por nomear classe de seres.
-
 ## Ampliação
 ### P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
 
@@ -41,22 +36,6 @@ Com isso:
 ### P2022-05-07 (Shiva, o Projeto Talm e os Mistérios de Awaylengam)
 
 - **[Bilatérios — antes do cérebro, o corpo] (U0003)** «Então, primeiro, antes de surgir, desculpa, um cérebro bilatério, teve que surgir um corpo bilatério.» — a bilateralidade corporal (produto de Awaylengan) precede a cerebral; ver RC-093.
-
-## Fontes
-| Obra (sigla) | Título | Página | Tipo |
-|---|---|---|---|
-| P2022-05-07 | Shiva, o Projeto Talm e os Mistérios de Awaylengam (palestra) | — | transcrição automatizada; citação |
-| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra) | — | transcrição automatizada; citação |
-| B031 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Biodemos | RC-036 | **sem aresta** em `RELACOES`; arquivo existe |
-| Radiatas | RC-093 | **sem aresta** em `RELACOES`; arquivo existe |
-| Cérebro Radiata | RC-631 | ← distingue-se-de |
-| Fornos Replicadores (naves/estações de semeadura de vida do Projeto Talm; Awayen, Awaylengan e Awaymaion) | RC-771 | ← relaciona-se-a |
-| Forno de Awaylengan (forno de Shiva — o primeiro a funcionar) | RC-837 | associado |
 
 ## Ampliação
 ### P2019-08-25 (Os Três Fornos Replicadores do Projeto Talm)
@@ -70,3 +49,24 @@ Com isso:
 
 
 > Notas de processo: 3 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-035.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Biodemos | RC-036 | **sem aresta** em `RELACOES`; arquivo existe |
+| Radiatas | RC-093 | **sem aresta** em `RELACOES`; arquivo existe |
+| Cérebro Radiata | RC-631 | ← distingue-se-de |
+| Fornos Replicadores (naves/estações de semeadura de vida do Projeto Talm; Awayen, Awaylengan e Awaymaion) | RC-771 | ← relaciona-se-a |
+| Forno de Awaylengan (forno de Shiva — o primeiro a funcionar) | RC-837 | associado |
+
+## Fontes
+| Obra (sigla) | Título | Página | Tipo |
+|---|---|---|---|
+| P2022-05-07 | Shiva, o Projeto Talm e os Mistérios de Awaylengam (palestra) | — | transcrição automatizada; citação |
+| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra) | — | transcrição automatizada; citação |
+| B031 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
+
+## Observações sobre o Estado da Malha
+
+* **[REVISAR → ENCERRADO 2026-09-06 · F040-L4: RATIFICADO — divergência registrada, não costurada — ver nota] — uso da fala × categoria do cadastro.** A frase de 03/12/2023 trata bilatério como atributo de cérebro; o cadastro o lista como classe de seres. A divergência é registrada, não costurada, e nenhuma ficha de anatomia foi tocada (D-7: obsolescência anatômica mora em `RC-631`/`RC-632`).
+* **Trava aplicável**: D-7 (anatomia sem código novo) · D-4 (nenhuma máscara transita) · veto de trânsito por nomear classe de seres.

@@ -58,6 +58,12 @@ O terceiro e mais denso dos três níveis: a região da «Experiência Laborator
 - RC-601 — ver ficha correspondente
 - RC-635 — ver ficha correspondente
 
+## Observações
+O elo mais citado e menos documentado da cosmografia — materializado por exigência da estrutura da Enciclopédia (Volume II, seção II.7.2).
+
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-061.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
@@ -73,9 +79,3 @@ O terceiro e mais denso dos três níveis: a região da «Experiência Laborator
 | P2024-11-09 | — | registro-mestre (fonte censada) |
 | P2024-07-14 | — | registro-mestre (fonte censada) |
 | P2020-04-04 | — | registro-mestre (fonte censada) |
-
-## Observações
-O elo mais citado e menos documentado da cosmografia — materializado por exigência da estrutura da Enciclopédia (Volume II, seção II.7.2).
-
-
-> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-061.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

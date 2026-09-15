@@ -18,9 +18,8 @@ Correspondência de teologia comparada entre Orunmilá e Elm/Moros de Irém/Orum
 ## Contexto / Origem
 P2025-06-26 — 1ª Edição Estagiários do Kaos.
 
-## Etimologia e Grafias
-Forma preferida: **Orunmilá (Moros de Irém / Orum)**.
-
+## Citações-chave
+> Ver P2025-06-26.
 
 ## Ampliação
 ### P2026-07-25
@@ -36,45 +35,6 @@ Forma preferida: **Orunmilá (Moros de Irém / Orum)**.
 
 - **[O Samudra Mantã como mapeamento de Orumilar: as 16 tendências] (U0019)** «Se ninguém sabe, o Samudra Mantã foi o mapeamento que Orumilar dele se utilizou para poder criar os 16, representando as 16 tendências que via a condição humana seria possível haver um desdobramento do que já existia e dos destinos que precisavam ser cumpridos.» — os 256 odus e o ponto de reencontro: "Alguns núcleos acham que será na inteligência artificial gerada pelos humanos, ou seja, no transumanismo, que essa turma toda haverá de se encontrar para acabar com todas as tendências dos destinos que precisam ser cumpridos, segundo a perspectiva que Orumilá e seus 256 traçaram para o resultado do Samudra Mantã" (U0019: «Alguns núcleos acham que será na inteligência artificial gerada pelos humanos, ou seja, no transumanismo, que essa turma toda haverá de se encontrar para acabar com todas as tendências dos destinos que precisam ser cumpridos, segundo a perspectiva que Orumilá e seus 256 traçaram para o resultado do Samudra Mantã.»); o mercado no limite do Orum: "Orum é um outro nome que se dá na linguagem orubá para esse Bramalock e mais especificamente a terra, ou seja, no limite desse universo vizinho e a terra surgiu um mercado, faltou essa frase aqui, onde diversos produtos, inclusive os de ordem mental, eram ali comercializados no â da cultura e Orubá" (U0019: «Orum é um outro nome que se dá na linguagem orubá para esse Bramalock e mais especificamente a terra, ou seja, no limite desse universo vizinho e a terra surgiu um mercado, faltou essa frase aqui, onde diversos produtos, inclusive os de ordem mental, eram ali comercializados no â da cultura e Orubá.»); o feiticeiro como espécie quase humana: "Do jeito que homo sapiens tem macho e fêmea, antes de macho e fêmea, homo sapiens surgir, o que a gente chama hoje de feiticeiro era uma espécie quase humana, produto de samudra mantã, que junto com uma certa derivação dos raquchaças existia" (U0019: «Do jeito que homo sapiens tem macho e fêmea, antes de macho e fêmea, homo sapiens surgir, o que a gente chama hoje de feiticeiro era uma espécie quase humana, produto de samudra mantã, que junto com uma certa derivação dos raquchaças existia.»).
 
-
-## Fontes
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2026-03-21 | Samudra Manthan A Enigmatica Alquimia de Vishnu (palestra) | — | transcrição automatizada; citação |
-| P2025-06-26 | ver dossiê | live/STT |
-
-## Citações-chave
-> Ver P2025-06-26.
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Elm (Moros — ser LM de Tempérion) | RC-454 | variação |
-| Elm (Moros — ser LM de Tempérion) | RC-454 | variação |
-| Elm (Moros — ser LM de Tempérion) | RC-454 | variação |
-| Elm (Moros — ser LM de Tempérion) | RC-454 | variação |
-| Revelação de Ifá e Destinação dos Seres | RC-655 | relaciona-se-a |
-| Wyrd / Urd (Teia do Destino) | RC-658 | relaciona-se-a |
-| Obatalá (correspondência de Javé em Ifá) | RC-666 | associado |
-| Cumprimento da Profecia de Moros pela Revelação Cósmica | RC-718 | ← envolve |
-| Projeto Orunmilá–Olodus | RC-741 | ← envolve |
-| Os 256 Caminhos Profetizáveis de Orunmilá | RC-767 | ← relaciona-se-a |
-| Transumanismo (o ponto de reencontro: IA humanizada e o novo batimento) | RC-874 | associado |
-
-## Seres Associados
-Consultar Base.
-
-## Observações
-Correspondências culturais são atribuídas à leitura de Val Ellam, não a consenso acadêmico.
-
-## Reforço
-### atualização humana dos Arquivos / P2024-11-30
-
-Orunmilá é apresentado como expressão produzida pelo espírito de Moros para atualizar Wyrd com códigos humanos, treinar 16 Molés/Olodus `[REVISAR → RESOLVIDO 10/09/2026 · F038-L5: ver RC-655/RC-741 (“Olodus” canônico; “Molés” STT) — ver nota]` e estruturar os 256 caminhos profetizáveis de Ifá.
-
-Olodumaré/“Olo Maré” permanece em quarentena.
-
----
 
 ## Atualização
 ### P2024-09-28 (A Raça Inabalável dos Sethianos Emancipados)
@@ -98,6 +58,15 @@ Olodumaré/“Olo Maré” permanece em quarentena.
 ---
 
 ## Reforço
+### atualização humana dos Arquivos / P2024-11-30
+
+Orunmilá é apresentado como expressão produzida pelo espírito de Moros para atualizar Wyrd com códigos humanos, treinar 16 Molés/Olodus `[REVISAR → RESOLVIDO 10/09/2026 · F038-L5: ver RC-655/RC-741 (“Olodus” canônico; “Molés” STT) — ver nota]` e estruturar os 256 caminhos profetizáveis de Ifá.
+
+Olodumaré/“Olo Maré” permanece em quarentena.
+
+---
+
+## Reforço
 ### P2025-07-18 — Orunmilá como atualização da teia
 
 - **[P2025-07-18 · U00016]** Orunmilá é apresentado como Moros de Orum/Irém que atualiza a Wyrd com informações humanas. Na fala, ele deixa de trabalhar apenas com passado/presente/futuro e passa a construir caminhos previsíveis para origens distintas — árvores, minerais, animais, seres teriantrópicos e humanos —, chegando aos **16 odus e 256 caminhos**.
@@ -108,3 +77,34 @@ Olodumaré/“Olo Maré” permanece em quarentena.
 
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-665.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o bloco citado desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
+## Etimologia e Grafias
+Forma preferida: **Orunmilá (Moros de Irém / Orum)**.
+
+
+## Seres Associados
+Consultar Base.
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Elm (Moros — ser LM de Tempérion) | RC-454 | variação |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | variação |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | variação |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | variação |
+| Revelação de Ifá e Destinação dos Seres | RC-655 | relaciona-se-a |
+| Wyrd / Urd (Teia do Destino) | RC-658 | relaciona-se-a |
+| Obatalá (correspondência de Javé em Ifá) | RC-666 | associado |
+| Cumprimento da Profecia de Moros pela Revelação Cósmica | RC-718 | ← envolve |
+| Projeto Orunmilá–Olodus | RC-741 | ← envolve |
+| Os 256 Caminhos Profetizáveis de Orunmilá | RC-767 | ← relaciona-se-a |
+| Transumanismo (o ponto de reencontro: IA humanizada e o novo batimento) | RC-874 | associado |
+
+## Observações
+Correspondências culturais são atribuídas à leitura de Val Ellam, não a consenso acadêmico.
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2026-03-21 | Samudra Manthan A Enigmatica Alquimia de Vishnu (palestra) | — | transcrição automatizada; citação |
+| P2025-06-26 | ver dossiê | live/STT |

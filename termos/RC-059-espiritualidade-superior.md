@@ -45,6 +45,12 @@ A Espiritualidade Superior é o «lado de fora» do universo: o que não é acid
 - RC-012 — ver ficha correspondente
 - RC-100 — ver ficha correspondente
 
+## Observações
+Nível de referência de toda a cosmografia da RC — eixo do Volume II da Enciclopédia e caixa «O FORA» do Mapa de Abstração (N0). A correspondência com Pleroma é leitura comparada, não identidade declarada pelo autor.
+
+
+> Notas de processo: 2 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-059.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
@@ -61,9 +67,3 @@ A Espiritualidade Superior é o «lado de fora» do universo: o que não é acid
 | P2024-11-09 | — | registro-mestre (fonte censada) |
 | P2024-07-14 | — | registro-mestre (fonte censada) |
 | P2020-04-04 | — | registro-mestre (fonte censada) |
-
-## Observações
-Nível de referência de toda a cosmografia da RC — eixo do Volume II da Enciclopédia e caixa «O FORA» do Mapa de Abstração (N0). A correspondência com Pleroma é leitura comparada, não identidade declarada pelo autor.
-
-
-> Notas de processo: 2 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-059.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

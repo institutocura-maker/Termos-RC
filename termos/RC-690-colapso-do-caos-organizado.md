@@ -20,19 +20,10 @@ Conceito central de `P2025-03-15 — A Rebelião dos Elétrons e a Era do Colaps
 
 A palestra situa o colapso das colmeias, desde 2006/2007, e o colapso de corais como manifestações biológicas do processo. Também associa o fenômeno ao colapso do universo antimaterial e à futura transferência de sua carga memorial.
 
-## Distinção Ontológica
-**Não confundir com `RC-415 — Colapso da Matriz Quântica`.**
+## Citações-chave
+> “O caos organizado que a gente conhece hoje, desde o ano 2007 ele começou a colapsar.”
 
-- `RC-690` designa o evento amplo de desestruturação do caos organizado e suas manifestações biológicas, informacionais e cósmicas;
-- `RC-415` conserva sua identidade como colapso da matriz quântica em três níveis.
-
-A relação é de proximidade e distinção, não de sinonímia.
-
-## Etimologia e Grafias
-Forma preferida: **Colapso do Caos Organizado**.
-
-“Caos organizado” é o arranjo temporário formado por dois universos, uma espiritualidade errática e os sistemas biológicos/informacionais que preservam e transformam a memória do Criador caído.
-
+> “Hoje isso tudo está sendo colapsado aos poucos ou repentinamente, depende do que estiver em jogo, pela Rebelião dos Elétrons.”
 
 ## Ampliação
 ### P2025-03-15
@@ -53,16 +44,11 @@ Forma preferida: **Colapso do Caos Organizado**.
 - **[P2024-07-13] Os choques de realidade (U1080–U1130):** "convulsões geológicas e climáticas; percepção da vida extraterrestre do contexto Sophia. Só esses dois aqui já é para bagunçar tudo que tem na Terra"; "as convulsões vão mudar drasticamente as áreas agricultáveis de todo o planeta"; Groenlândia descongelando (Dinamarca; petróleo); "a corrente Golf Stream, que é uma corrente de água quente dentro dos oceanos, já colapsou"; "o oceano vai subir entre 5 a 7 metros e com isso vai acabar quase todas as cidades litorâneas do mundo. Ele já fez isso há 11.000 anos atrás"; "isso não é o fim do mundo. São fins de ciclo"; "não há nada que possa ser feito para impedir o problema. O que a gente pode fazer é minorar os efeitos sobre a gente, sobre a nossa família" [quarentena climática — leitura do autor].
 - **[P2024-07-13] As cidades espirituais colapsando (U1230–U1260):** "as cidades espirituais, lamento dizer, também estão começando a colapsar. Espíritos que antes ficavam no lugarzinho agradável, agora vão operar a partir de lugares desagradáveis"; "os problemas ainda virão no sentido de encarnações complexas"; "espíritos maravilhosos de outros mundos estão vindo encarnar na Terra... quase 90% deles ou mais são autistas" [quarentena clínica]; "a quantidade de humanos homoafetivos vai aumentar loucamente, a questão da reprodução vai diminuir loucamente" [leitura do autor — quarentena]; "os elétrons na posição de rebeldes estão operando na fundamentação da vida".
 
-## Fontes
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2025-03-15 | U0067–U0075; U0189–U0190; U0790–U0853; U1085–U1094; U1148–U1184 | palestra/STT — fonte incompleta |
-| P2024-02-03 | O Jainismo e o Druidismo Ancestrais (palestra) | — |
+## Etimologia e Grafias
+Forma preferida: **Colapso do Caos Organizado**.
 
-## Citações-chave
-> “O caos organizado que a gente conhece hoje, desde o ano 2007 ele começou a colapsar.”
+“Caos organizado” é o arranjo temporário formado por dois universos, uma espiritualidade errática e os sistemas biológicos/informacionais que preservam e transformam a memória do Criador caído.
 
-> “Hoje isso tudo está sendo colapsado aos poucos ou repentinamente, depende do que estiver em jogo, pela Rebelião dos Elétrons.”
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -95,9 +81,23 @@ Forma preferida: **Colapso do Caos Organizado**.
 | Ponto de Luz Humano / Ilha de Negentropia | RC-725 | ← relaciona-se-a |
 | Fenômenos Denunciadores do Fim | RC-203 / RC-314 | relaciona-se-a |
 
-## Observações Científicas e Editoriais
+## Observações
 - A ligação causal entre a Rebelião dos Elétrons e colapsos biológicos é cosmologia da palestra, não consenso científico.
 - *Colony Collapse Disorder* é tratado cientificamente como fenômeno multifatorial.
 - A fonte recebida termina no intervalo; a exposição posterior não está disponível.
 - Não interpolar a conclusão ausente.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** os 2 trechos entre aspas desta ficha **não** resistem à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Todos deixam vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2025-03-15 | U0067–U0075; U0189–U0190; U0790–U0853; U1085–U1094; U1148–U1184 | palestra/STT — fonte incompleta |
+| P2024-02-03 | O Jainismo e o Druidismo Ancestrais (palestra) | — |
+
+## Distinção Ontológica
+**Não confundir com `RC-415 — Colapso da Matriz Quântica`.**
+
+- `RC-690` designa o evento amplo de desestruturação do caos organizado e suas manifestações biológicas, informacionais e cósmicas;
+- `RC-415` conserva sua identidade como colapso da matriz quântica em três níveis.
+
+A relação é de proximidade e distinção, não de sinonímia.

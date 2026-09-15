@@ -28,20 +28,10 @@ Com isso:
 
 **Origem do conteúdo da ampliação:** palestra `P2018-12-15 — Terra Atlantis – Aprofundamento` (15/12/2018). Transcrição automatizada, **não conferida com o áudio**; cada aspa foi recortada do `original.txt` pelo índice de âncoras do motor e conferida byte a byte pelo portão B. Nada foi digitado de memória.
 
-## Observações sobre o Estado da Malha
-
-* **Grafia STT:** 'Melcor' = Melkor, o filho que apresentou dissonância na criação.
-* **Trava aplicável**: nenhuma além das gerais do despacho.
-
 ## Ampliação
 ### P2018-12-15 (Terra Atlantis – Aprofundamento)
 
 - **[Melkor, o filho dissonante] (U0004)** «Aí ele notou que um dos filhos chamado Melcor não conseguia chegar na mesma harmonia ressonante e ele apresentou uma dissonância.» — Melkor (STT 'Melcor'), o filho de Eru que não alcançou a harmonia ressonante e introduziu a dissonância na criação — analogia ao vírus/rompimento do lacre de Lúcifer (RC-002).
-
-## Fontes
-| Obra (sigla) | Título | Página | Tipo |
-|---|---|---|---|
-| P2018-12-15 | Terra Atlantis – Aprofundamento (palestra) | — | transcrição automatizada; citação |
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -51,3 +41,13 @@ Com isso:
 | PIA — Peso da Inevitabilidade Ancestral | RC-716 | **sem aresta** em `RELACOES`; arquivo existe |
 | Eru Ilúvatar (criador no Silmarillion) | RC-843 | **sem aresta** em `RELACOES`; **sem arquivo** |
 
+
+## Fontes
+| Obra (sigla) | Título | Página | Tipo |
+|---|---|---|---|
+| P2018-12-15 | Terra Atlantis – Aprofundamento (palestra) | — | transcrição automatizada; citação |
+
+## Observações sobre o Estado da Malha
+
+* **Grafia STT:** 'Melcor' = Melkor, o filho que apresentou dissonância na criação.
+* **Trava aplicável**: nenhuma além das gerais do despacho.

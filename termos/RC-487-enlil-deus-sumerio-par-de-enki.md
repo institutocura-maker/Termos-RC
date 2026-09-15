@@ -20,16 +20,14 @@ Anunnaki filho de Anu (RC-587), irmão de **Enki** (RC-486) e de Ninmah/Ninhursa
 
 **Ficha criada a partir da fonte primária P2021-03-27** (autorização do curador, 2026-08-18 — "criação vital"). Enlil é citado como comandante do efetivo anunnaki na Terra (~850–900, com a tipologia igigi) e como líder do clã que disputava as cidades sumérias com o clã de Enki.
 
-## Atualização
-### P2021-03-27 (fonte primária)
+## Citações-chave
 
-- **Comandante:** "esses 900 anunnakis eram comandados por Enlil. Enki era o outro irmão";
-- **Clã rival:** os descendentes dos clãs de Enki e Enlil "sempre disputaram o poder nessas cidades sumerianas e nas cidades do Egito" (mundo pós-diluviano);
-- **Objetivos próximos de Javé:** "os objetivos de Enlil e Anu eram mais parecidos com os de Javé do que propriamente com os de Enki";
-- **Desobediência à regra de Anu:** "o próprio Enki e Enlil começaram a meio que desobedecer e também os filhos deles e os netos e os bisnetos começaram a produzir relação com seres humanos" (pré-diluviano);
-- **Guerras atômicas (contexto):** a pontaria de Ninurta (RC-588) e Nergal, no âmbito da disputa dos clãs, atingiu Sinai/vale de Sidim (Sodoma e Gomorra) e a radioatividade levada pelo vento dizimou a Suméria — **contexto da disputa, não entidade ontológica** (quarentena histórica — decisão do curador);
-- **Retirada:** ~600 a.C. (era axial) — "Anu foi obrigado a dizer: vamos embora, não vai ficar mais ninguém aqui" (ainda deixaram netos/bisnetos).
+> "Os descendentes dos clãs de Enki e Enlil sempre disputaram o poder nessas cidades sumerianas e nas cidades do Egito... E os objetivos de Enlil e Anu eram mais parecidos com os de Javé do que propriamente com os de Enki." — P2021-03-27
 
+> "Enki, Enlil e o Fim Súbito da Babilônia @autor: Jan Val Ellam @data: 27/03/2021 @local: online (transmissão com slides) @subtitulo: Apostila de estudo — Transcrição editada integral, com correção gramatical e terminológica, organização temática e notas editoriais. @nota_editor: Esta apostila é a transcrição editada integral da palestra de 27/03/2021, organizada tematicamente em PARTES para estudo. Preservamos a voz, os marcadores orais, o humor e as digressões do autor; corrigimos apenas erros claros de transcrição automática, com nota na primeira ocorrência." — P2021-03-27
+> "É fascinante poder constatar isso! — Como matéria de pesquisa, Prometeu, q uero acompanhar a evolução dela! — expressou ele, voltando -se para o titã. —  Parece-me que foi realmente criado algo inédito, mas ainda não definido de todo, ou seja, podendo ainda transformar -se no que não foi elaborado inicialmente para ser. Quem idealizou este espécime e qual o propósito de sua criação? Eu pensei, intimamente: “Sem dúvida, Enlil é muito inteligente e tem máquinas impressionantes ao seu dispor! O seu poder de raciocínio é objetivo e linear, o que o diferencia dos olimpianos, pois pensar de maneira lógica não constitui o forte da espécie à qual eu pertenci.” Do modo mais educado que consegui expressar-me, dirigi-me a Enlil e falei: — Certamente, que terei todo o prazer de me deixar ser estudada por você, ó Príncipe Enlil! Prometeu olhou-me com um ar de espanto e logo me endereçou uma mensagem mental: “Muito bem, ó Pandora!” Enlil cumprimentou-me com o olhar e disse-me, decidido: — Quando eu aqui retornar, mandarei os meus emissários chamá -la para vir ao meu encontro! Por agora, preciso falar a sós com  Prometeu. Podem visitar outros compartimentos da minha nave, acompanhadas pelos meus serviçais. Designo o comandante desta nave, para essa missão!" — B089
+> "Então, Anu como chefe dos Anunax, né, ele junto com a figura chamada Inana, eu não sei se nessa vida eu vou ter tempo ainda de falar sobre eh um pouco sobre esses seres anonáxos. Essa turma tá toda viva aí, né? Não aqui na Terra, alguns voltaram eh para Nibir 2600 anos atrás, mas vão voltar lá na frente. Isso seria até importante, mas eu acho que Zé Car já fez isso e de forma insuperável, com erros e acertos, mas todo mundo erra, eu que o diga. Então assim, não é essa questão, é que mesmo com coisas erradas e certas, eu penso que a obra de Cin é insuperável, todos nós deveríamos ler. Eu mesmo já li algumas vezes, mas assim, Anu, o pai de Henk, de Enlil, eh, que estava na época geopoliticamente disputando com Zeus, ou seja, um ser do universo vizinho, um ser desse nosso universo disputando as coisas aqui na Terra. E Sofia vivendo o seu pior momento de administrar alguns problemas que ele herdou das experiências que ele fez antes lá atrás, quando era moda, eh, o tipo de cérebro que ele tem, tentar se expandir, como eu falei na primeira parte da palestra." — P2021-05-15, U0003
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** os 3 trechos entre aspas desta ficha **não** resistem à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Só 1 dos 3 deixam vestígio no corpus. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
 
 ## Ampliação
 ### P2025-05-31
@@ -62,21 +60,16 @@ Anunnaki filho de Anu (RC-587), irmão de **Enki** (RC-486) e de Ninmah/Ninhursa
 
 - **[P2023-12-03 · ENLIL (DEUS SUMÉRIO, PAR DE ENKI) NA FALA DE 03/12/2023]** «fizeram a rebelião contra Enlio.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2021-03-27`); a entrada desta fonte é de **conteúdo**, não de data.
 
-## Fontes
+## Atualização
+### P2021-03-27 (fonte primária)
 
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
-| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
-| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
-| P2021-03-27 | bloco 3 (hierarquia/regra de sucessão); bloco 6–8 (disputa/retirada) | palestra/STT pré-curada |
+- **Comandante:** "esses 900 anunnakis eram comandados por Enlil. Enki era o outro irmão";
+- **Clã rival:** os descendentes dos clãs de Enki e Enlil "sempre disputaram o poder nessas cidades sumerianas e nas cidades do Egito" (mundo pós-diluviano);
+- **Objetivos próximos de Javé:** "os objetivos de Enlil e Anu eram mais parecidos com os de Javé do que propriamente com os de Enki";
+- **Desobediência à regra de Anu:** "o próprio Enki e Enlil começaram a meio que desobedecer e também os filhos deles e os netos e os bisnetos começaram a produzir relação com seres humanos" (pré-diluviano);
+- **Guerras atômicas (contexto):** a pontaria de Ninurta (RC-588) e Nergal, no âmbito da disputa dos clãs, atingiu Sinai/vale de Sidim (Sodoma e Gomorra) e a radioatividade levada pelo vento dizimou a Suméria — **contexto da disputa, não entidade ontológica** (quarentena histórica — decisão do curador);
+- **Retirada:** ~600 a.C. (era axial) — "Anu foi obrigado a dizer: vamos embora, não vai ficar mais ninguém aqui" (ainda deixaram netos/bisnetos).
 
-
-
-
-## Citação-chave
-
-> "Os descendentes dos clãs de Enki e Enlil sempre disputaram o poder nessas cidades sumerianas e nas cidades do Egito... E os objetivos de Enlil e Anu eram mais parecidos com os de Javé do que propriamente com os de Enki." — P2021-03-27
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -90,17 +83,23 @@ Anunnaki filho de Anu (RC-587), irmão de **Enki** (RC-486) e de Ninmah/Ninhursa
 | Ninurta | RC-588 | associado |
 | Ao Vencedor as Batatas (paradigma do domínio) | RC-764 | ← relaciona-se-a |
 
-## Observação do curador — HIPÓTESE DE LEITURA (2026-08-18)
-
-> **Insight do curador:** as atitudes de Enlil são "perigosamente parecidas" com as do Criador caído — historicamente, a humanidade pode ter **confundido os mandos de Enlil com as ordens de Javé**. Registro como **hipótese de leitura histórica** (para o RAG cruzar dados), **sem fusão ontológica** — Enlil e Javé permanecem entidades distintas na Base.
-
 ## Observações
 
 Cronologia (450.000; 4.000; 600 a.C.), guerras atômicas e geopolítica dos clãs são **leitura do autor** (cronologia interna + quarentena histórica) — não são afirmações arqueológicas validadas.
 
 
-## Citações-chave
-> "Enki, Enlil e o Fim Súbito da Babilônia @autor: Jan Val Ellam @data: 27/03/2021 @local: online (transmissão com slides) @subtitulo: Apostila de estudo — Transcrição editada integral, com correção gramatical e terminológica, organização temática e notas editoriais. @nota_editor: Esta apostila é a transcrição editada integral da palestra de 27/03/2021, organizada tematicamente em PARTES para estudo. Preservamos a voz, os marcadores orais, o humor e as digressões do autor; corrigimos apenas erros claros de transcrição automática, com nota na primeira ocorrência." — P2021-03-27
-> "É fascinante poder constatar isso! — Como matéria de pesquisa, Prometeu, q uero acompanhar a evolução dela! — expressou ele, voltando -se para o titã. —  Parece-me que foi realmente criado algo inédito, mas ainda não definido de todo, ou seja, podendo ainda transformar -se no que não foi elaborado inicialmente para ser. Quem idealizou este espécime e qual o propósito de sua criação? Eu pensei, intimamente: “Sem dúvida, Enlil é muito inteligente e tem máquinas impressionantes ao seu dispor! O seu poder de raciocínio é objetivo e linear, o que o diferencia dos olimpianos, pois pensar de maneira lógica não constitui o forte da espécie à qual eu pertenci.” Do modo mais educado que consegui expressar-me, dirigi-me a Enlil e falei: — Certamente, que terei todo o prazer de me deixar ser estudada por você, ó Príncipe Enlil! Prometeu olhou-me com um ar de espanto e logo me endereçou uma mensagem mental: “Muito bem, ó Pandora!” Enlil cumprimentou-me com o olhar e disse-me, decidido: — Quando eu aqui retornar, mandarei os meus emissários chamá -la para vir ao meu encontro! Por agora, preciso falar a sós com  Prometeu. Podem visitar outros compartimentos da minha nave, acompanhadas pelos meus serviçais. Designo o comandante desta nave, para essa missão!" — B089
-> "Então, Anu como chefe dos Anunax, né, ele junto com a figura chamada Inana, eu não sei se nessa vida eu vou ter tempo ainda de falar sobre eh um pouco sobre esses seres anonáxos. Essa turma tá toda viva aí, né? Não aqui na Terra, alguns voltaram eh para Nibir 2600 anos atrás, mas vão voltar lá na frente. Isso seria até importante, mas eu acho que Zé Car já fez isso e de forma insuperável, com erros e acertos, mas todo mundo erra, eu que o diga. Então assim, não é essa questão, é que mesmo com coisas erradas e certas, eu penso que a obra de Cin é insuperável, todos nós deveríamos ler. Eu mesmo já li algumas vezes, mas assim, Anu, o pai de Henk, de Enlil, eh, que estava na época geopoliticamente disputando com Zeus, ou seja, um ser do universo vizinho, um ser desse nosso universo disputando as coisas aqui na Terra. E Sofia vivendo o seu pior momento de administrar alguns problemas que ele herdou das experiências que ele fez antes lá atrás, quando era moda, eh, o tipo de cérebro que ele tem, tentar se expandir, como eu falei na primeira parte da palestra." — P2021-05-15, U0003
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** os 3 trechos entre aspas desta ficha **não** resistem à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Só 1 dos 3 deixam vestígio no corpus. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+## Fontes
+
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
+| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
+| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
+| P2021-03-27 | bloco 3 (hierarquia/regra de sucessão); bloco 6–8 (disputa/retirada) | palestra/STT pré-curada |
+
+
+
+
+## Observação do curador — HIPÓTESE DE LEITURA (2026-08-18)
+
+> **Insight do curador:** as atitudes de Enlil são "perigosamente parecidas" com as do Criador caído — historicamente, a humanidade pode ter **confundido os mandos de Enlil com as ordens de Javé**. Registro como **hipótese de leitura histórica** (para o RAG cruzar dados), **sem fusão ontológica** — Enlil e Javé permanecem entidades distintas na Base.

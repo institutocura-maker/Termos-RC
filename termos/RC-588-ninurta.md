@@ -18,10 +18,8 @@ Anunnaki relacionado à localização e ao uso das sete armas atômicas no confl
 ## Contexto / Origem
 É citado junto a Marduk, Anu e Nibiru na narrativa da guerra nuclear Anunnaki.
 
-## Etimologia e Grafias
-- Grafia preferida: Ninurta.
-- **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
-
+## Citações-chave
+> ““Marduk e Ninurta [...] sabiam onde estavam [as sete armas].”” — P2022-12-17, U0819–U0821
 
 ## Ampliação
 ### P2022-12-17
@@ -33,15 +31,21 @@ Anunnaki relacionado à localização e ao uso das sete armas atômicas no confl
 
 - **[P2023-10-14 · NINURTA E A RECUSA DA CHEFIA]** "Quando chegou a vez de Marduque assumir, 2200 anos antes de Cristo, a chefia ou comando Anuna aqui na terra, Ninurta, filho de Eli, disse: «Não, os dois foram pro pau.»" (U0018) — ⚠️ A grafia «Eli» para Enlil é do STT; o par Marduk–Ninurta é o da fonte, não uma dedução.
 
-## Fontes
-| Obra/palestra | Localização | Tipo |
-|---|---|---|
-| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
-| P2022-12-17 — O Incompreendido Ano de 2012 e a Falsa Noção do Fim do Mundo | U0819–U0821 | transcrição automatizada; paráfrase e citação |
+## Atualização
+### P2021-03-27 (Enki, Enlil e o Fim Súbito da Babilônia)
+
+- **Pontaria das bombas:** "de acordo com a pontaria de Ninurta e a outra de acordo com a pontaria de Nergal" — as explosões na Península do Sinai/vale de Sidim (Sodoma e Gomorra) no âmbito da disputa dos clãs (RC-486/487);
+- **Contexto:** "Ninurta e Nergal jogaram as tais bombas para tentar impedir a supremacia de Marduk";
+- **Quarentena histórica:** os detalhes (vitrificações, Sodoma/Gomorra, Mohenjo-Daro) são **contexto da disputa**, não entidades ontológicas (decisão do curador — RC-024/486/487 absorvem o desfecho).
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
+## Etimologia e Grafias
+- Grafia preferida: Ninurta.
+- **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
 
 
-## Citações-chave
-> ““Marduk e Ninurta [...] sabiam onde estavam [as sete armas].”” — P2022-12-17, U0819–U0821
+## Seres Associados
+Anunnakis (RC-024); Enlil (deus sumério, par de Enki) (RC-487); Anu (patriarca Anunnaki) (RC-587)
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -53,9 +57,6 @@ Anunnaki relacionado à localização e ao uso das sete armas atômicas no confl
 | Anu (patriarca Anunnaki) | RC-587 | relaciona-se-a |
 | Nibiru | RC-589 | associado |
 
-## Seres Associados
-Anunnakis (RC-024); Enlil (deus sumério, par de Enki) (RC-487); Anu (patriarca Anunnaki) (RC-587)
-
 ## Observações
 Menção breve; manter como candidato até cruzamento com outras fontes do corpus.
 
@@ -63,10 +64,9 @@ Menção breve; manter como candidato até cruzamento com outras fontes do corpu
 
 ---
 
-## Atualização
-### P2021-03-27 (Enki, Enlil e o Fim Súbito da Babilônia)
+## Fontes
+| Obra/palestra | Localização | Tipo |
+|---|---|---|
+| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
+| P2022-12-17 — O Incompreendido Ano de 2012 e a Falsa Noção do Fim do Mundo | U0819–U0821 | transcrição automatizada; paráfrase e citação |
 
-- **Pontaria das bombas:** "de acordo com a pontaria de Ninurta e a outra de acordo com a pontaria de Nergal" — as explosões na Península do Sinai/vale de Sidim (Sodoma e Gomorra) no âmbito da disputa dos clãs (RC-486/487);
-- **Contexto:** "Ninurta e Nergal jogaram as tais bombas para tentar impedir a supremacia de Marduk";
-- **Quarentena histórica:** os detalhes (vitrificações, Sodoma/Gomorra, Mohenjo-Daro) são **contexto da disputa**, não entidades ontológicas (decisão do curador — RC-024/486/487 absorvem o desfecho).
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

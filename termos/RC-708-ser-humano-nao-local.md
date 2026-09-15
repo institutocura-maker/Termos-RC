@@ -21,6 +21,9 @@ A não-localidade humana é descrita como efeito de uma realidade interconectada
 O termo não se refere a deslocamento físico instantâneo, mas a atuação do eu por pensamentos, sentimentos e informações.
 
 
+## Citações-chave
+> “O ser humano é não local. Ele não precisa estar no lugar para atuar naquele lugar.”
+
 ## Ampliação
 ### P2025-02-15
 
@@ -33,13 +36,10 @@ O termo não se refere a deslocamento físico instantâneo, mas a atuação do e
 
 - **Não local (P2024-11-09):** "se tiver uma barata voando lá em Coimbra, os elétrons do corpo dessa barata estão em contato com todos os elétrons do universo, inclusive do nosso corpo... instantaneamente ela chega. O eu da gente não sabe, porque a gente não recolhe esse padrão de informação, mas a gente é influenciado por ele".
 
-## Fontes
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2025-02-15 | U1335–U1365; U1380–U1445; U1689–U1700 | aula/palestra STT |
-
-## Citações-chave
-> “O ser humano é não local. Ele não precisa estar no lugar para atuar naquele lugar.”
+## Atualização
+### P2024-11-09
+A fala aplica a não localidade a pontes afetivas e a “pacotes terapêuticos” mentais. **Ressalva clínica forte:** não há validação terapêutica reconhecida para esse mecanismo; não deve ser oferecido como tratamento nem substituir cuidado profissional.
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -67,10 +67,10 @@ O termo não se refere a deslocamento físico instantâneo, mas a atuação do e
 | Primado da Informação | RC-707 | usa |
 | Estrangulamento Cognitivo / Neural | RC-753 | ← relaciona-se-a |
 
-## Observações Científicas
+## Observações
 Emaranhamento quântico não permite concluir que pensamentos humanos transmitam mensagens controladas instantaneamente. A definição permanece atribuída à palestra.
 
-## Atualização
-### P2024-11-09
-A fala aplica a não localidade a pontes afetivas e a “pacotes terapêuticos” mentais. **Ressalva clínica forte:** não há validação terapêutica reconhecida para esse mecanismo; não deve ser oferecido como tratamento nem substituir cuidado profissional.
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2025-02-15 | U1335–U1365; U1380–U1445; U1689–U1700 | aula/palestra STT |

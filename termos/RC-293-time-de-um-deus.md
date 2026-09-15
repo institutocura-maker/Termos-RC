@@ -18,11 +18,8 @@ atualizado = "2026-08-12"
 ## Contexto / Origem
 Quanto mais cidades "conquistadas", preces e sacrifícios um deus recebia, "maior seria a sua timé". Qualquer influência dirigida ao "domínio" de um deus era uma ofensa à sua timé — "aspecto que sempre sobrava para Zeus... no que concerne a ter que definir uma solução para os incontáveis e intermináveis problemas... que sempre convergiam para as 'Assembleias do Olimpo'". A timé é o que motiva as disputas entre deuses e humanos (e entre os próprios deuses).
 
-## Etimologia e Grafias
-- **Grafia preferida:** Timé
-- **Variações:** timi; honra/domínio de um deus; equivalente sânscrito: varna
-- **Idioma de origem:** grego (τιμή = honra, valor, prerrogativa)
-
+## Citações-chave
+> "Para um deus, quanto mais cidades 'conquistadas', preces de prestígios recebidas, como também sacrifícios endereçados a ele, maior seria a sua timé. A pior desgraça de 'domínio' a ser sentida pelos deuses... o que de mais tenebroso pode acontecer a um deus é ter a sua honra atingida devido à perda da sua timé." — B021, cap. 1
 
 ## Ampliação
 ### P2026-07-25
@@ -48,13 +45,14 @@ Quanto mais cidades "conquistadas", preces e sacrifícios um deus recebia, "maio
 - **[P2023-05-21 · AS DEFECÇÕES E A DISTINÇÃO ASTREIA × ASTÉRIA]** "devido aos problemas ocorridos ao longo dos últimos 50.000 anos, as defecções em torno de Zeus... Pandora, Epimeteu, Prometeu, Astreia, Despina, Dionísio, Centauros e Sátiros passaram a criticar a gestão de Zeus... **ZEUS NUNCA QUIS SER ISSO — os titães derrotados por ele e os próprios irmãos é que pediram para ele ser o gestor**" + a correção genealógica: "**a Astreia é confundida com a outra figura chamada ASTÉRIA, que é uma titã, MAS NÃO é filha de Zeus e Têmis**... a Astéria se transformou numa CODORNIZ que se transformou numa ilha [DELOS], porque Zeus a perseguia [para possuí-la]... **A ASTÉRIA CONSEGUIU FUGIR DE ZEUS, MAS A ASTREIA NÃO CONSEGUIU FUGIR DE APOLO**" [as constelações de LIBRA; a ilha que "voava sobre o mar", tipo a ilha de São Brandão].
 - 0 códigos novos (O-3).
 
-## Fontes
-| Obra (sigla) | Capítulo | Página | Tipo |
-|---|---|---|---|
-| Tempos Difíceis no Olimpo (B021) | caps. 1, 22 | pp. 10–20, 120–130 (aprox.) | conceito central |
+## Etimologia e Grafias
+- **Grafia preferida:** Timé
+- **Variações:** timi; honra/domínio de um deus; equivalente sânscrito: varna
+- **Idioma de origem:** grego (τιμή = honra, valor, prerrogativa)
 
-## Citações-chave
-> "Para um deus, quanto mais cidades 'conquistadas', preces de prestígios recebidas, como também sacrifícios endereçados a ele, maior seria a sua timé. A pior desgraça de 'domínio' a ser sentida pelos deuses... o que de mais tenebroso pode acontecer a um deus é ter a sua honra atingida devido à perda da sua timé." — B021, cap. 1
+
+## Seres Associados
+Zeus (RC-145); deuses do Olimpo (RC-241/RC-049).
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -74,9 +72,11 @@ Quanto mais cidades "conquistadas", preces e sacrifícios um deus recebia, "maio
 | Urdidura de Metatron | RC-674 | associado |
 | Aristocracia Olimpiana e Monarquias Terrestres | RC-736 | ← relaciona-se-a |
 
-## Seres Associados
-Zeus (RC-145); deuses do Olimpo (RC-241/RC-049).
-
 ## Observações
 Ficha baseada em B021 (obra primária). A timé explica a "política" do Olimpo nas RC — a honra como função do domínio/morada (geno). Cruzar com RC-292 e RC-077 (Lokas/genos).
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo |
+|---|---|---|---|
+| Tempos Difíceis no Olimpo (B021) | caps. 1, 22 | pp. 10–20, 120–130 (aprox.) | conceito central |

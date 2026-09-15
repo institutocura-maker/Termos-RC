@@ -202,3 +202,63 @@ conteúdo de toda a A4. Aguarda confirmação.
 | 2b · `Citação-chave` e `Seres Associados` | bloqueada por (a) e (d) |
 | 3 · 76 títulos residuais (577 ocorrências) | bloqueada por (b) |
 | 4 · unificação da ORDEM | bloqueada por (b) |
+
+---
+
+## 10. Tranches 3 e 4 — EXECUTADAS na U89 (com um conflito novo e bloqueante)
+
+Despacho da U89 resolve os conflitos: (a) `Citação-chave` → **`Citações-chave`**
+· (c) grafia do *driver* (`Contexto / Origem`) · (d) `Seres Associados` mantida
+como **secção canónica separada** · (b) ordem mestre de 10 posições.
+
+### 10.1 Tranche 3 — variantes inequívocas
+`Citação-chave` e `Citações-chave (RC)` → `Citações-chave` (108) ·
+`Observações Científicas*` → `Observações` (10) · `Glossário interno / …` →
+`Glossário interno` (9). **128 renomeações · 66 fusões.**
+Ficaram de fora, por serem dispositivos editoriais próprios e não variantes:
+`Observações sobre o Estado da Malha` (60) · `Estrutura interna` (26) ·
+`Cautela editorial` (10) · `Quarentena Terminológica` (10) ·
+`6. Histórico Curatorial e Auditoria` (6) e 65 títulos com ≤3 ocorrências.
+
+### 10.2 CONFLITO NOVO (e) — a ordem mestre contradiz a ordem do *driver*
+A ordem mestre diverge da que o *driver* emite em **6 das 7 secções** comuns:
+
+| secção | posição no driver | posição na ordem mestre |
+|---|---|---|
+| `Contexto / Origem` | 1 | 3 |
+| `Escopo e evidência` | 2 | 1 |
+| `Termos Relacionados` | 3 | 8 |
+| `Fontes` | 4 | 10 |
+| `Citações-chave` | 5 | 4 |
+| `Observações` | 6 | 9 |
+
+**Prova empírica:** a RC‑022 (ficha com lote) foi reordenada pela ordem mestre
+numa cópia do repositório; ao correr `materializar_lote.py --sobrescrever`, o
+*driver* **regenerou-a** — a idempotência perde-se. Reordenar as 147 fichas
+com lote significaria reescrevê-las a cada execução, para sempre.
+
+**Decisão tomada:** a tranche 4 foi aplicada **apenas às 673 fichas sem lote**
+(637 efectivamente reordenadas). As 147 com lote conservam a ordem do
+*driver*. Submete-se ao Curador: a unificação plena exige alterar a ordem
+emitida pelo *driver* (com regeneração das 147), ou aceitar a dualidade.
+
+### 10.3 Tranche 4 — ordenação
+Ordem mestre aplicada com ordenação **estável**; as secções fora do
+vocabulário canónico vão para o fim, conservando a ordem relativa que tinham
+(196 secções). Nenhuma linha de corpo foi alterada: conferido secção a
+secção contra o HEAD, **0 fichas com conteúdo alterado**.
+
+### 10.4 Estado de A4 após a U89
+
+| tranche | assinaturas |
+|---|---|
+| partida | 471 |
+| 1 · Ampliação/Atualização/Reforço → H2 + H3 (U87) | 188 |
+| 2 · variantes gráficas sem conflito (U88) | 178 |
+| 3 + 4 · residuais e ordenação (U89) | **150** |
+
+| pendente | |
+|---|---|
+| 147 fichas com lote | bloqueadas pelo conflito (e) — exigem decisão sobre o *driver* |
+| 70 títulos / 196 ocorrências fora do vocabulário | dispositivos editoriais próprios; mantidos por decisão editorial |
+| 122 secções duplicadas pré-existentes | fora do escopo; intactas |

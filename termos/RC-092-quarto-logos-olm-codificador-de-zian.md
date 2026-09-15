@@ -18,10 +18,16 @@ O Quarto Logos se chama **"Olm"**, mais conhecido como o **Codificador de Zian (
 ## Contexto / Origem
 A partir de 1989 passou a operar o Quarto Logos, substituindo os 3 primeiros Logos (que foram operativos até então). É tema do livro *O Quarto Logus* (2017) e conecta-se à nova fase da humanidade.
 
-## Etimologia e Grafias
-- **Grafia preferida:** Quarto Logos
-- **Variações:** Olm; Codificador de Zian (Zion); Quarto Logus (grafia do título do livro de Ellam)
+## Citações-chave
 
+> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+
+- «Mas é nesse ponto que surge o quarto logos, como sendo a grande novidade que convidará os humanos não a exercer o império de uma força mental estupidificada ou cretinizada por esse passado de equívoco dos três primeiros logos, mas sim como alguém que vai promover sua própria evolução através da ex […]» — *ver:* **Ampliação — P2021-01-30 (A Mensagem TALM e os Fios Soltos…** U0003
+- «A locomotiva já partiu, ou seja, o planejamento do quarto logos e a especiação humana e o que ela poderá produzir já foi planejada, já tá sendo planejada e alguns espíritos não conseguem se inscrever nesse processo, mesmo não sendo espíritos que serão exilados.» — *ver:* **Ampliação — P2022-11-20 (A Incompreendida Nova Aliança pr…** U0014
+- «Mas esse espírito de Chiva A condição adi patrocinado todo esse processo, como também ele é que foi dando as dicas para o espírito de que é poder surgir junto com Sofia no concerto já da vida biológica para poder ir até o fim.» — *ver:* **Ampliação — P2021-06-26 (Shiva - A Reconstrução do Erro d…** U0020
+
+
+> Notas de processo: 4 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-092.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
 
 ## Ampliação
 ### P2024-08-03
@@ -167,51 +173,6 @@ A partir de 1989 passou a operar o Quarto Logos, substituindo os 3 primeiros Log
 - **[P2022-03-26 · QUARTO LOGOS (OLM) NA FALA DE 26/03/2022]** "tinham detectado cerca de 250.000 problemas que eles precisavam criar seres para resolver esses quase 250.000 problemas." (U0005) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-18`); a entrada desta fonte é de **conteúdo**, não de data.
 ---
 
-## Atualização
-### P2021-12-04
-
-- **Unidades:** U0327–U0337; U0375–U0385; U0443–U0450; U0572–U0583.
-- **Contexto:** Olm é confirmado como ser LM de Tempérion, relacionado à estratégia do Quarto Logos e à encarnação como Apolônio de Tiana, contemporânea de Jesus.
-- **Decisão:** grafias **Olm/Elm** validadas pelo curador; os outros três LM do grupo permanecem sem nome.
-- **Correção posterior:** Olm e Elm são seres LM originários de **Tempérion**. Foram enviados a **Perpérion** para observar a imponderabilidade e os problemas locais; ali interagiram diretamente e terminaram mergulhando no processo. `Ealm` foi deprecado em favor de **Elm**.
-
----
-
-### P2023-05-13 (Bastidores da Revelação Cósmica)
-
-- **Ascensão após a desconstituição da Trimúrti:** seção 7.1 — "A Ascensão do Quarto Logos (Olm/Codificador de Zion) após a Desconstituição da Trimúrti";
-- **Diferença dos três Logos anteriores:** seção 7.2;
-- **Objetivo:** gerar **cocriadores esclarecidos, independentes e harmonizados** (seção 7.3); "romper com crenças estéreis e promover a compreensão esclarecida" (seção 7.4);
-- **Sem estruturas religiosas:** seção 7.5 — "A Ausência de Estruturas Religiosas para o Quarto Logos";
-- O Quarto Logos é a lente do futuro nas Cinco Lentes (RC-761): a etapa pós-falência da Lila.
-
----
-
-### P2023-12-02 (Thot, o Enigmático Hermes Trismegisto)
-
-- **"Reserva H":** "ficou um ser na reserva H, que é o ser a quem a gente chama de Quarto Logos. Eu tive que escrever um livro só para isso, para dizer: ó, esse cara vai começar a atuar depois do início da espécie homo sapiens";
-- **Dos oito processos:** "dos oito processos divinos lá atrás não tem nada de divino, isso tudo foi desespero puro. Sete começaram a funcionar, um ficou de reserva. Dos sete, basicamente quatro falharam";
-- **Conexão com Thot/Hermes:** a tradição hermética como veículo do conhecimento do Codificador (afinidade de função — escriba/codificador);
-- Contexto das Flechas de Moros (RC-611): a RC como revelação das setas, da qual o Quarto Logos é agente.
-
----
-
-### P2021-03-27 (Enki, Enlil e o Fim Súbito da Babilônia)
-
-- **Papel na superação do padrão predatório:** seção 7.4 — "A Revelação Cósmica e o Papel do Quarto Logos" — junto à singularidade da consciência humana (seção 7.3);
-- Contexto: a superação do padrão "ao vencedor as batatas" (RC-764) como tarefa da nova etapa.
-
----
-
-### P2024-09-28 (A Raça Inabalável dos Sethianos Emancipados)
-
-- **Início do Tikun:** "só se começa esse trabalho de Tikun na hora que o Quarto Logos começar a atuar" (RC-514 Tikun — nova aresta RC-514 ↔ RC-092);
-- **Cocriadores parceiros:** "consciências humanas habilitadas à realização do Tikun e possíveis de serem cocriadoras parceiras do Quarto Logos frente a esse mistério" — os Sethianos Emancipados (RC-766);
-- **Transumanismo:** "fazer uso da consciência de alguns para o transumanismo como maneira de realizar o Tikun deverá ser comum no futuro".
----
----
----
-
 ## Ampliação
 ### P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
 
@@ -263,6 +224,56 @@ A partir de 1989 passou a operar o Quarto Logos, substituindo os 3 primeiros Log
 ### P2024-03-02 (O Drama Espiritual de Jesus)
 
 - **[Quarto Logos — Reintegração Cósmica]:** «O fechamento dos portais e o fim da era da Trimúrti [...] A Reintegração Cósmica: rumo a uma nova convivência.» — ver RC-003 (Reintegração Cósmica), RC-070 (Isolamento Cósmico).
+
+
+## Atualização
+### P2021-12-04
+
+- **Unidades:** U0327–U0337; U0375–U0385; U0443–U0450; U0572–U0583.
+- **Contexto:** Olm é confirmado como ser LM de Tempérion, relacionado à estratégia do Quarto Logos e à encarnação como Apolônio de Tiana, contemporânea de Jesus.
+- **Decisão:** grafias **Olm/Elm** validadas pelo curador; os outros três LM do grupo permanecem sem nome.
+- **Correção posterior:** Olm e Elm são seres LM originários de **Tempérion**. Foram enviados a **Perpérion** para observar a imponderabilidade e os problemas locais; ali interagiram diretamente e terminaram mergulhando no processo. `Ealm` foi deprecado em favor de **Elm**.
+
+---
+
+### P2023-05-13 (Bastidores da Revelação Cósmica)
+
+- **Ascensão após a desconstituição da Trimúrti:** seção 7.1 — "A Ascensão do Quarto Logos (Olm/Codificador de Zion) após a Desconstituição da Trimúrti";
+- **Diferença dos três Logos anteriores:** seção 7.2;
+- **Objetivo:** gerar **cocriadores esclarecidos, independentes e harmonizados** (seção 7.3); "romper com crenças estéreis e promover a compreensão esclarecida" (seção 7.4);
+- **Sem estruturas religiosas:** seção 7.5 — "A Ausência de Estruturas Religiosas para o Quarto Logos";
+- O Quarto Logos é a lente do futuro nas Cinco Lentes (RC-761): a etapa pós-falência da Lila.
+
+---
+
+### P2023-12-02 (Thot, o Enigmático Hermes Trismegisto)
+
+- **"Reserva H":** "ficou um ser na reserva H, que é o ser a quem a gente chama de Quarto Logos. Eu tive que escrever um livro só para isso, para dizer: ó, esse cara vai começar a atuar depois do início da espécie homo sapiens";
+- **Dos oito processos:** "dos oito processos divinos lá atrás não tem nada de divino, isso tudo foi desespero puro. Sete começaram a funcionar, um ficou de reserva. Dos sete, basicamente quatro falharam";
+- **Conexão com Thot/Hermes:** a tradição hermética como veículo do conhecimento do Codificador (afinidade de função — escriba/codificador);
+- Contexto das Flechas de Moros (RC-611): a RC como revelação das setas, da qual o Quarto Logos é agente.
+
+---
+
+### P2021-03-27 (Enki, Enlil e o Fim Súbito da Babilônia)
+
+- **Papel na superação do padrão predatório:** seção 7.4 — "A Revelação Cósmica e o Papel do Quarto Logos" — junto à singularidade da consciência humana (seção 7.3);
+- Contexto: a superação do padrão "ao vencedor as batatas" (RC-764) como tarefa da nova etapa.
+
+---
+
+### P2024-09-28 (A Raça Inabalável dos Sethianos Emancipados)
+
+- **Início do Tikun:** "só se começa esse trabalho de Tikun na hora que o Quarto Logos começar a atuar" (RC-514 Tikun — nova aresta RC-514 ↔ RC-092);
+- **Cocriadores parceiros:** "consciências humanas habilitadas à realização do Tikun e possíveis de serem cocriadoras parceiras do Quarto Logos frente a esse mistério" — os Sethianos Emancipados (RC-766);
+- **Transumanismo:** "fazer uso da consciência de alguns para o transumanismo como maneira de realizar o Tikun deverá ser comum no futuro".
+---
+---
+---
+
+## Etimologia e Grafias
+- **Grafia preferida:** Quarto Logos
+- **Variações:** Olm; Codificador de Zian (Zion); Quarto Logus (grafia do título do livro de Ellam)
 
 
 ## Termos Relacionados
@@ -318,14 +329,3 @@ A partir de 1989 passou a operar o Quarto Logos, substituindo os 3 primeiros Log
 | Fonte | Localização | Tipo |
 |---|---|---|
 | P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |
-
-## Citações-chave
-
-> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
-
-- «Mas é nesse ponto que surge o quarto logos, como sendo a grande novidade que convidará os humanos não a exercer o império de uma força mental estupidificada ou cretinizada por esse passado de equívoco dos três primeiros logos, mas sim como alguém que vai promover sua própria evolução através da ex […]» — *ver:* **Ampliação — P2021-01-30 (A Mensagem TALM e os Fios Soltos…** U0003
-- «A locomotiva já partiu, ou seja, o planejamento do quarto logos e a especiação humana e o que ela poderá produzir já foi planejada, já tá sendo planejada e alguns espíritos não conseguem se inscrever nesse processo, mesmo não sendo espíritos que serão exilados.» — *ver:* **Ampliação — P2022-11-20 (A Incompreendida Nova Aliança pr…** U0014
-- «Mas esse espírito de Chiva A condição adi patrocinado todo esse processo, como também ele é que foi dando as dicas para o espírito de que é poder surgir junto com Sofia no concerto já da vida biológica para poder ir até o fim.» — *ver:* **Ampliação — P2021-06-26 (Shiva - A Reconstrução do Erro d…** U0020
-
-
-> Notas de processo: 4 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-092.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

@@ -18,11 +18,8 @@ atualizado = "2026-08-13"
 ## Contexto / Origem
 No Mentalma I (B074, itens 7.2 e 13.1 — "A 'primeira versão' do psiquismo humano e a 'doença do dehatma buddhi'") e no Mentalma II (B075, cap. 1.1 — "A educação humana e a 'doença do dehatma buddhi'"), o conceito descreve o psiquismo preso à "primeira versão" — reprodução acrítica da corrente mental coletiva e das ideias impostas pela educação/crenças. O Mentalma visa emancipar o psiquismo dessa condição.
 
-## Etimologia e Grafias
-- **Grafia preferida:** Dehatma Buddhi
-- **Variações:** "doença do dehatma buddhi"; "dehatma buddhi" (sânscrito)
-- **Composição:** deha (corpo) + atma (alma) + buddhi (mente/inteligência)
-
+## Citações-chave
+> "A maioria dos seres humanos se porta como um 'dehatma buddhi', apresentando esse tipo de doença psíquica. Muito mais fácil do que aceitar essa questão é uma pessoa acreditar numa série de ideias que lhe foram impostas." — B074/B075
 
 ## Ampliação
 ### B074 (Mentalma I)
@@ -48,15 +45,14 @@ No Mentalma I (B074, itens 7.2 e 13.1 — "A 'primeira versão' do psiquismo hum
 
 - **[Dehatma Buddhi, o engano com o corpo] (U0004)** «Derratman Bud também uma outra palavra que diz daquele ser humano que se confunde com o seu próprio corpo ou com sua própria personalidade e pensa que ele é isso que os outros pensam que eles são.» — Dehatma Buddhi (RC-551, STT 'Derratman Bud'): a palavra sânscrita para 'aquele ser humano que se confunde com o seu próprio corpo ou com sua própria personalidade'.
 
-## Fontes
-| Obra (sigla) | Capítulo | Página | Tipo |
-|---|---|---|---|
-| P2012-02-19 | Xadrez Cósmico de Brahma, Vishnu e Shiva (palestra) | — | transcrição automatizada; citação |
-| Mentalma I (B074) | Caps. 7.2, 13.1 | — | definição da doença |
-| Mentalma II (B075) | Cap. 1.1 "A educação humana e a 'doença do dehatma buddhi'" | — | aprofundamento |
+## Etimologia e Grafias
+- **Grafia preferida:** Dehatma Buddhi
+- **Variações:** "doença do dehatma buddhi"; "dehatma buddhi" (sânscrito)
+- **Composição:** deha (corpo) + atma (alma) + buddhi (mente/inteligência)
 
-## Citações-chave
-> "A maioria dos seres humanos se porta como um 'dehatma buddhi', apresentando esse tipo de doença psíquica. Muito mais fácil do que aceitar essa questão é uma pessoa acreditar numa série de ideias que lhe foram impostas." — B074/B075
+
+## Seres Associados
+Ser humano comum ("dehatma buddhi"); praticante do Mentalma (em emancipação).
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -68,9 +64,13 @@ No Mentalma I (B074, itens 7.2 e 13.1 — "A 'primeira versão' do psiquismo hum
 | Série Mentalma (5 livros + curso) | RC-555 | associado |
 | Camuflagem da Realidade | RC-702 | ← relaciona-se-a |
 
-## Seres Associados
-Ser humano comum ("dehatma buddhi"); praticante do Mentalma (em emancipação).
-
 ## Observações
 Termo do vocabulário sânscrito reinterpretado pelo Mentalma. Conectar com RC-392 (Reforma Íntima) e com o conceito de "primeira versão do psiquismo" (também citado no Mentalma V).
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo |
+|---|---|---|---|
+| P2012-02-19 | Xadrez Cósmico de Brahma, Vishnu e Shiva (palestra) | — | transcrição automatizada; citação |
+| Mentalma I (B074) | Caps. 7.2, 13.1 | — | definição da doença |
+| Mentalma II (B075) | Cap. 1.1 "A educação humana e a 'doença do dehatma buddhi'" | — | aprofundamento |

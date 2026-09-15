@@ -18,31 +18,10 @@ Termo extraído e aprovado na curadoria de P2025-05-31.
 ## Contexto / Origem
 O Mistério da Árvore da Vida e a Urdidura de Metatron.
 
-## Etimologia e Grafias
-Forma preferida: Intercessão de Enoque pelos Anunnaki.
-
-
 ## Ampliação
 ### P2023-10-14 (A Esquecida Honra dos Anunnaki)
 
 - **[P2023-10-14 · A INTERCESSÃO NARRADA EM 14/10/2023 (anterioridade)]** "Ou seja, lá atrás, quando Javé mandou Enoque ser levado até o seu hábitat para ele dizer a Enoque a agenda que Enoque ao voltar a conviver com os humanos e viria dizer aos humanos, ainda que Enoque depois disso fosse viver definitivamente no universo vizinho." (U0033) — 🆕 anterioridade: P2023-12-02 — esta fonte é **7 semanas** anterior.
----
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Anunnaki | RC-024 | envolve |
-| Enoque (sétimo patriarca; levado por Javé) | RC-489 | associado |
-| Igigi | RC-580 | ← relaciona-se-a |
-| Metatron | RC-671 | associado |
-
-## Atualização
-### P2023-12-02 (Thot, o Enigmático Hermes Trismegisto)
-
-- **Thot trabalhou com Enoque:** "conviveu e trabalhou com os anjos de Javé... com o Adão bíblico, com Enoque" — contexto da intercessão de Enoque pelos anunnaki (RC-673) e da ponte Thot/anunnaki × Javé (RC-001);
-- A palestra de amanhã (03/12/2023 — Rebelião de Lúcifer) retomaria essas relações (registro de contexto).
----
----
 ---
 
 ## Ampliação
@@ -54,3 +33,24 @@ Forma preferida: Intercessão de Enoque pelos Anunnaki.
 
 
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-673.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
+
+## Atualização
+### P2023-12-02 (Thot, o Enigmático Hermes Trismegisto)
+
+- **Thot trabalhou com Enoque:** "conviveu e trabalhou com os anjos de Javé... com o Adão bíblico, com Enoque" — contexto da intercessão de Enoque pelos anunnaki (RC-673) e da ponte Thot/anunnaki × Javé (RC-001);
+- A palestra de amanhã (03/12/2023 — Rebelião de Lúcifer) retomaria essas relações (registro de contexto).
+---
+---
+---
+
+## Etimologia e Grafias
+Forma preferida: Intercessão de Enoque pelos Anunnaki.
+
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Anunnaki | RC-024 | envolve |
+| Enoque (sétimo patriarca; levado por Javé) | RC-489 | associado |
+| Igigi | RC-580 | ← relaciona-se-a |
+| Metatron | RC-671 | associado |

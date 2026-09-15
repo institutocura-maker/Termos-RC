@@ -18,8 +18,8 @@ Yoga Ancestral — tecnologia criada por Shiva no universo paralelo para gerir r
 ## Contexto / Origem
 P2026-02-28.
 
-## Etimologia e Grafias
-Forma validada pelo curador.
+## Citações-chave
+Ver transcrição.
 
 ## Ampliação
 ### P2026-03-21 (Samudra Manthan A Enigmatica Alquimia de Vishnu)
@@ -27,12 +27,16 @@ Forma validada pelo curador.
 - **[A origem esquecida do yoga: desdobramento dos ratnas do Samudra] (U0013)** «Foi nesse contexto da história da desconhecida vida demoníaca que o yoga foi sendo lentamente formulado como uma espécie de desdobramento dos ratas surgidos no samudre mantã.» — o livro do autor: "O livro que eu lancei chamado Chiv, origem esquecida do yoga, é uma etapa bem posterior ao samudo" (U0013: «O livro que eu lancei chamado Chiv, origem esquecida do yoga, é uma etapa bem posterior ao samudo.»).
 
 
-## Fontes
-P2026-03-21.
-P2026-02-28.
+## Reforço
+### P2025-02-16
 
-## Citações-chave
-Ver transcrição.
+A origem cósmica do Yoga é relacionada aos Rishis, a Shiva, ao Som da Flauta e a uma possível intuição do Conselho das Nagas. Patanjali é apresentado como filho/expressão humanizada de Ananta. As equivalências permanecem atribuídas à palestra.
+
+## Etimologia e Grafias
+Forma validada pelo curador.
+
+## Seres Associados
+Consultar Base.
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -46,13 +50,9 @@ Ver transcrição.
 | Pashupati (avatar de Shiva) | RC-669 | ← desenvolve |
 | Mão Invisível Multiforme / Conselho das Nagas | RC-697 | ← relaciona-se-a |
 
-## Seres Associados
-Consultar Base.
-
 ## Observações
 Termo candidato.
 
-## Reforço
-### P2025-02-16
-
-A origem cósmica do Yoga é relacionada aos Rishis, a Shiva, ao Som da Flauta e a uma possível intuição do Conselho das Nagas. Patanjali é apresentado como filho/expressão humanizada de Ananta. As equivalências permanecem atribuídas à palestra.
+## Fontes
+P2026-03-21.
+P2026-02-28.

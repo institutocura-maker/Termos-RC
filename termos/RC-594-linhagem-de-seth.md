@@ -18,10 +18,8 @@ Linhagem genealógica derivada de Seth, terceiro filho de Adão e Eva, preparada
 ## Contexto / Origem
 A palestra situa Seth entre Caim e os patriarcas Enos, Cainã, Jared e Enoque, descrevendo sua relação crítica com o projeto de Javé.
 
-## Etimologia e Grafias
-- Grafia preferida: Linhagem de Seth. Variação do nome individual: Set/Seth.
-- **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
-
+## Citações-chave
+> ““Depois surge Seth, um terceiro filho [...] [que] não quis seguir o mesmo amor por Javé que Adão tinha.”” — P2022-12-17, U0677–U0704; U0716–U0726
 
 ## Ampliação
 ### P2022-12-17
@@ -41,16 +39,24 @@ A palestra situa Seth entre Caim e os patriarcas Enos, Cainã, Jared e Enoque, d
 
 - **[Sete herdou a assinatura quântica] (U0017)** «Então, Set, terceiro filho de Adão e Eva, foi aquele que herdou a genética, a assinatura quântica.» — Sete, terceiro filho de Adão e Eva, herdou a assinatura quântica que Javé retirou de si e deu a Adão.
 
-## Fontes
-| Obra/palestra | Localização | Tipo |
-|---|---|---|
-| P2023-02-12 | A Desconexão dos Desígnios Proféticos do Judaísmo, do Cristianismo e do Islamismo (palestra) | — | transcrição automatizada; citação |
-| P2023-08-27 | Len Mion e os Senhores da Terra Alexandre Magno e Qin Shi Huang Di (palestra) | — | transcrição automatizada; citação |
-| P2018-12-16 | Terra Atlantis - Era Sapiens (palestra) | — | transcrição automatizada; citação |
-| P2022-12-17 — O Incompreendido Ano de 2012 e a Falsa Noção do Fim do Mundo | U0677–U0704; U0716–U0726 | transcrição automatizada; paráfrase e citação |
+## Atualização
+### P2024-09-28 (A Raça Inabalável dos Sethianos Emancipados)
 
-## Citações-chave
-> ““Depois surge Seth, um terceiro filho [...] [que] não quis seguir o mesmo amor por Javé que Adão tinha.”” — P2022-12-17, U0677–U0704; U0716–U0726
+- **Seth recusou louvar Javé:** "Seth disse: 'Eu não vou louvar esse ser chamado Javé'. Tanto é que a própria Bíblia diz que nem foi Adão, nem Seth, mas Enos foi o primeiro a honrar";
+- **Linhagem espiritual:** a "mesma turma" que encarnou na época de Seth encarnou na época de Jesus (gnósticos) — e hoje forma a **Raça Inabalável dos Sethianos Emancipados (RC-766)**;
+- **Habilitados ao Tikun (RC-514):** os setianos "que não venderam as suas dignidades" (RC-722) se habilitam ao reparo da criação (novas arestas RC-594 ↔ RC-072, RC-594 ↔ RC-514).
+
+
+> Notas de processo: 2 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-594.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
+## Etimologia e Grafias
+- Grafia preferida: Linhagem de Seth. Variação do nome individual: Set/Seth.
+- **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
+
+
+## Seres Associados
+Noreia (Norea) (RC-579); Enoque (sétimo patriarca; levado por Javé) (RC-489); Caim (leitura RC: segundo a nascer) (RC-490)
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -66,9 +72,6 @@ A palestra situa Seth entre Caim e os patriarcas Enos, Cainã, Jared e Enoque, d
 | A Raça Inabalável dos Sethianos Emancipados | RC-766 | ← relaciona-se-a |
 | Elo Adâmico (o gene que Javé pôs em Adão) | RC-857 | associado |
 
-## Seres Associados
-Noreia (Norea) (RC-579); Enoque (sétimo patriarca; levado por Javé) (RC-489); Caim (leitura RC: segundo a nascer) (RC-490)
-
 ## Observações
 Modelagem coletiva escolhida pelo curador para simplificar a ontologia e preparar a conexão com Sethianos Emancipados.
 
@@ -76,13 +79,10 @@ Modelagem coletiva escolhida pelo curador para simplificar a ontologia e prepara
 
 ---
 
-## Atualização
-### P2024-09-28 (A Raça Inabalável dos Sethianos Emancipados)
-
-- **Seth recusou louvar Javé:** "Seth disse: 'Eu não vou louvar esse ser chamado Javé'. Tanto é que a própria Bíblia diz que nem foi Adão, nem Seth, mas Enos foi o primeiro a honrar";
-- **Linhagem espiritual:** a "mesma turma" que encarnou na época de Seth encarnou na época de Jesus (gnósticos) — e hoje forma a **Raça Inabalável dos Sethianos Emancipados (RC-766)**;
-- **Habilitados ao Tikun (RC-514):** os setianos "que não venderam as suas dignidades" (RC-722) se habilitam ao reparo da criação (novas arestas RC-594 ↔ RC-072, RC-594 ↔ RC-514).
-
-
-> Notas de processo: 2 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-594.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+## Fontes
+| Obra/palestra | Localização | Tipo |
+|---|---|---|
+| P2023-02-12 | A Desconexão dos Desígnios Proféticos do Judaísmo, do Cristianismo e do Islamismo (palestra) | — | transcrição automatizada; citação |
+| P2023-08-27 | Len Mion e os Senhores da Terra Alexandre Magno e Qin Shi Huang Di (palestra) | — | transcrição automatizada; citação |
+| P2018-12-16 | Terra Atlantis - Era Sapiens (palestra) | — | transcrição automatizada; citação |
+| P2022-12-17 — O Incompreendido Ano de 2012 e a Falsa Noção do Fim do Mundo | U0677–U0704; U0716–U0726 | transcrição automatizada; paráfrase e citação |

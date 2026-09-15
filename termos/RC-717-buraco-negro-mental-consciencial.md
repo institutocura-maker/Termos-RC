@@ -15,15 +15,8 @@ atualizado = "2026-08-18"
 ## Definição Sintética
 Neologismo analógico para colapso/implosão de corpo e eu consciencial que produziria estrutura parasitária ou campo de aprisionamento informacional.
 
-## Ressalva de escopo
-**Não é buraco negro astrofísico, conceito de neurociência ou aplicação reconhecida das equações de Schwarzschild.** A relação é metafórica/cosmológica.
-
-## Primeiro caso descrito
-O corpo de Javé teria colapsado em 2021, gerando o primeiro Buraco Negro Mental e deixando seu eu em condição parasitária.
-
-## Risco de Krishna
-A hipótese de Krishna tornar-se um segundo Buraco Negro Mental foi absorvida nesta ficha exclusivamente como risco/prognóstico, não como evento consumado.
-
+## Citações-chave
+> “Surgiu o primeiro buraco negro mental no âmbito dessa criação.”
 
 ## Ampliação
 ### P2024-11-30
@@ -64,14 +57,31 @@ A hipótese de Krishna tornar-se um segundo Buraco Negro Mental foi absorvida ne
 - **[P2023-06-17 · AS CARGAS FRACAS]** "os elétrons de seres humanos [simples] assim são **elétrons que têm CARGAS FRACAS**... a turma açucarada vai para onde o açúcar não dá [a nada]" [a resposta a Simone sobre os "espíritos açucarados/sugados" — STT] (ver RC-161).
 - 0 códigos novos (O-3).
 
-## Fontes
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2024-11-30 | U0221–U0278; U0318–U0330; U1300–U1340; U1920–U1950 | palestra/STT |
-| P2026-08-04 | Podcast Irmãos Dias #272 (aliens e a Bíblia) | — |
+## Atualização
+### P2024-11-09
+A implosão de Javé em 2021 e a aceleração do colapso do universo vizinho são retomadas como narrativa cosmológica. Buraco Negro Mental/Consciencial não é conceito astrofísico ou diagnóstico clínico.
 
-## Citações-chave
-> “Surgiu o primeiro buraco negro mental no âmbito dessa criação.”
+---
+
+### P2023-05-13 (Bastidores da Revelação Cósmica)
+
+- **Demência ancestral:** seção 3.5 — "O Espírito de Javé e a Condição de 'Demência Ancestral' do Criador" — a demência do criador como raiz do Buraco Negro Mental (RC-001);
+- **Demência plena das faixas improvisadas:** "A demência é plena, ainda que não profunda, porque os seres têm algum nível de consciência crítica, mas não conseguem fechar o entendimento... a consciência deles não tem como ter continuidade, porque o próprio habitat onde eles vivem não tem a continuidade que o nosso aqui tem";
+- **Coma de Javé:** os ciclos de "coma" (seções 4.4, 9.1) — o colapso não é citado diretamente aqui (2021 em outras palestras) — `[REVISAR → CHANCELA 10/09/2026 · F037-L5: AGUARDA-EVIDÊNCIA (ausência documentada) — ver nota]`;
+- A consciência humana crítica como fator que rompe a demência ancestral (RC-761).
+
+---
+
+## Reforço
+### P2025-07-18 — alegação do colapso de Javé
+
+- **[P2025-07-18 · U00007/U00016 e Q&A U00023–U00025]** O expositor retoma a alegação de que o corpo de Javé teria colapsado em 2021 e que seu “eu” teria permanecido em condição parasitária. A expressão **buraco negro mental consciencial** é explicada por analogia com implosão, ego e retenção de informação.
+- **Decisão editorial aplicada:** absorver como **alegação**, sem literalidade astrofísica, neurológica ou clínica. O status do verbete não muda.
+- **Quarentena:** separar este uso do sinal do James Webb e de buracos negros astronômicos; não usar para diagnosticar pessoas nem para afirmar uma descoberta científica.
+
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-717.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -98,28 +108,18 @@ A hipótese de Krishna tornar-se um segundo Buraco Negro Mental foi absorvida ne
 - Destruição das Moiras e futuro de Javé permanecem em quarentena.
 - Não usar o termo para diagnosticar pessoas ou condições clínicas.
 
-## Atualização
-### P2024-11-09
-A implosão de Javé em 2021 e a aceleração do colapso do universo vizinho são retomadas como narrativa cosmológica. Buraco Negro Mental/Consciencial não é conceito astrofísico ou diagnóstico clínico.
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2024-11-30 | U0221–U0278; U0318–U0330; U1300–U1340; U1920–U1950 | palestra/STT |
+| P2026-08-04 | Podcast Irmãos Dias #272 (aliens e a Bíblia) | — |
 
----
+## Ressalva de escopo
+**Não é buraco negro astrofísico, conceito de neurociência ou aplicação reconhecida das equações de Schwarzschild.** A relação é metafórica/cosmológica.
 
-### P2023-05-13 (Bastidores da Revelação Cósmica)
+## Primeiro caso descrito
+O corpo de Javé teria colapsado em 2021, gerando o primeiro Buraco Negro Mental e deixando seu eu em condição parasitária.
 
-- **Demência ancestral:** seção 3.5 — "O Espírito de Javé e a Condição de 'Demência Ancestral' do Criador" — a demência do criador como raiz do Buraco Negro Mental (RC-001);
-- **Demência plena das faixas improvisadas:** "A demência é plena, ainda que não profunda, porque os seres têm algum nível de consciência crítica, mas não conseguem fechar o entendimento... a consciência deles não tem como ter continuidade, porque o próprio habitat onde eles vivem não tem a continuidade que o nosso aqui tem";
-- **Coma de Javé:** os ciclos de "coma" (seções 4.4, 9.1) — o colapso não é citado diretamente aqui (2021 em outras palestras) — `[REVISAR → CHANCELA 10/09/2026 · F037-L5: AGUARDA-EVIDÊNCIA (ausência documentada) — ver nota]`;
-- A consciência humana crítica como fator que rompe a demência ancestral (RC-761).
+## Risco de Krishna
+A hipótese de Krishna tornar-se um segundo Buraco Negro Mental foi absorvida nesta ficha exclusivamente como risco/prognóstico, não como evento consumado.
 
----
-
-## Reforço
-### P2025-07-18 — alegação do colapso de Javé
-
-- **[P2025-07-18 · U00007/U00016 e Q&A U00023–U00025]** O expositor retoma a alegação de que o corpo de Javé teria colapsado em 2021 e que seu “eu” teria permanecido em condição parasitária. A expressão **buraco negro mental consciencial** é explicada por analogia com implosão, ego e retenção de informação.
-- **Decisão editorial aplicada:** absorver como **alegação**, sem literalidade astrofísica, neurológica ou clínica. O status do verbete não muda.
-- **Quarentena:** separar este uso do sinal do James Webb e de buracos negros astronômicos; não usar para diagnosticar pessoas nem para afirmar uma descoberta científica.
-
-
-> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-717.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

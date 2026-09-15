@@ -18,11 +18,10 @@ atualizado = "2026-08-13"
 ## Contexto / Origem
 Ellam contrapõe o "circuito do CHA" à "vontade de progredir": quem não desperta a vontade de progredir torna-se "personagem ou 'vítima' do circuito da vida", indo "para onde as ondas desse tormentoso oceano o levarem" (B074, p. 46). O circuito pode se repetir (manutenção) ou se renovar (evolução) conforme a resposta da atitude pessoal. É a "chave" dos arquivos mentais: se não é a vontade de progredir que os acessa, o aparente acaso da vida os abre.
 
-## Etimologia e Grafias
-- **Grafia preferida:** Circuito do CHA
-- **Variações:** "circuito do CHA"; "império das circunstâncias"
-- **Expansão da sigla:** Circunstâncias da vida; Herança espiritual (hábitos e habilidades); Atitude mental/espiritual
+## Citações-chave
+> "Vivenciar o 'circuito do CHA' se refere ao fato das 'circunstâncias da vida' ou os seus aparentes acasos despertarem a 'herança' dos hábitos e habilidades do Espírito encarnado... Assim, a sigla 'CHA' foi elaborada a partir das letras iniciais das expressões: Circunstâncias da vida; 'Herança espiritual' (hábitos e habilidades espirituais); Atitude mental/espiritual." — B074, p. 46
 
+> "Caso a 'vontade de progredir' se encontre ausente no psiquismo pessoal... somente lhe resta se tornar um personagem ou 'vítima' do circuito da vida, que eu denomino de 'circuito do CHA' ou o 'império das circunstâncias'." — B074, p. 46
 
 ## Ampliação
 ### B074 (Mentalma I)
@@ -33,15 +32,14 @@ Ellam contrapõe o "circuito do CHA" à "vontade de progredir": quem não desper
 - **[B074 p. 158]** o karma (Kapila: "questão de ressonância, e não de fatalidade") = "a lei da ação e reação, de causa e efeito que rege os caminhos do 'circuito do CHA'" = "o resgate de um 'banco de arquivos' produzidos pelas nossas atitudes mentais".
 - 0 códigos novos.
 
-## Fontes
-| Obra (sigla) | Capítulo | Página | Tipo |
-|---|---|---|---|
-| Mentalma I (B074) | Cap. 3 "A 'Chave' dos Arquivos Mentais e o 'Circuito do CHA'" | pp. 43, 46–47 (PDF) | definição e expansão |
+## Etimologia e Grafias
+- **Grafia preferida:** Circuito do CHA
+- **Variações:** "circuito do CHA"; "império das circunstâncias"
+- **Expansão da sigla:** Circunstâncias da vida; Herança espiritual (hábitos e habilidades); Atitude mental/espiritual
 
-## Citações-chave
-> "Vivenciar o 'circuito do CHA' se refere ao fato das 'circunstâncias da vida' ou os seus aparentes acasos despertarem a 'herança' dos hábitos e habilidades do Espírito encarnado... Assim, a sigla 'CHA' foi elaborada a partir das letras iniciais das expressões: Circunstâncias da vida; 'Herança espiritual' (hábitos e habilidades espirituais); Atitude mental/espiritual." — B074, p. 46
 
-> "Caso a 'vontade de progredir' se encontre ausente no psiquismo pessoal... somente lhe resta se tornar um personagem ou 'vítima' do circuito da vida, que eu denomino de 'circuito do CHA' ou o 'império das circunstâncias'." — B074, p. 46
+## Seres Associados
+Espírito encarnado; "Eu piloto automático" (o que vive o circuito).
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -50,9 +48,11 @@ Ellam contrapõe o "circuito do CHA" à "vontade de progredir": quem não desper
 | Arquivos Mentais (coleção de conceitos no psiquismo) | RC-548 | relaciona-se-a |
 | Vontade de Progredir (chave dos arquivos mentais) | RC-550 | relaciona-se-a |
 
-## Seres Associados
-Espírito encarnado; "Eu piloto automático" (o que vive o circuito).
-
 ## Observações
 Conceito psicológico-espiritual do Mentalma I. Não confundir com outras siglas "CHA" da base (a busca retornou RC-266/295/485 apenas por coincidência de caracteres). Aplicável à gestão psíquica do cotidiano e à reforma íntima.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** os 2 trechos entre aspas desta ficha **não** resistem à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Nenhum deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo |
+|---|---|---|---|
+| Mentalma I (B074) | Cap. 3 "A 'Chave' dos Arquivos Mentais e o 'Circuito do CHA'" | pp. 43, 46–47 (PDF) | definição e expansão |

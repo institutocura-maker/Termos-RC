@@ -28,11 +28,6 @@ Com isso:
 
 **Origem do conteúdo da ampliação:** palestra `P2022-11-20 — A Incompreendida Nova Aliança proposta por Jesus` (20/11/2022). Transcrição automatizada, **não conferida com o áudio**; cada aspa foi recortada do `original.txt` pelo índice de âncoras do motor e conferida byte a byte pelo portão B. Nada foi digitado de memória.
 
-## Observações sobre o Estado da Malha
-
-* **Código novo em fila aberta (devolutiva):** Fórmulas Mentais promovido a código (RC-870) — conceito estrutural (código dos demos vs DNA destravado); criado no cadastro (ficha=False) e MATERIALIZADO neste ciclo (ficha=False → True) com as formulações validadas da fonte.
-* **Trava aplicável**: nenhuma além das gerais do despacho.
-
 ## Ampliação
 ### P2022-11-20 (A Incompreendida Nova Aliança proposta por Jesus)
 
@@ -52,13 +47,6 @@ Com isso:
 
 - **[O eu efêmero: a única parte limpa capaz de atuar no caos] (U0006)** «E a Aqui eu vou dizer a a coisa mais maluca que eu já fui obrigado a concluir de mim para mim mesmo, nesse caos podre que a gente vive, só aquilo que é efêmero consegue atuar nele e sobre ele, ou seja, sobre o caos, de modo a produzir algo positivo.» — absorção da devolutiva (Eu efêmero, SEM código novo): o espírito é eterno, o corpo é transitório e "mais efêmero ainda é o eu que surge a partir da tentativa dessa consciência espiritual vibrar através desse cérebro" (glosa sem aspa); "sendo um eu que é efêmero, que pode evoluir, que entre aspas é a única parte limpa dessa história, já que os nossos espíritos não é esse corpo... é tão puro que não sabe lidar com isso" (glosa sem aspa); as mentes formidáveis poderão vir "se utilizando dessa lógica, desse algoritmo criado pelo jeito humano produtivo de ser" (glosa sem aspa).
 
-## Fontes
-| Obra (sigla) | Título | Página | Tipo |
-|---|---|---|---|
-| P2021-04-10 | O Fechamento dos Portais e o Impasse no Exílio Espiritual de Len Mion — Aprofundamento (palestra) | — | transcrição automatizada; citação |
-| P2021-02-28 | Tragédia Anunciada - As Fórmulas Mentais do Poder Demo (palestra) | — | transcrição automatizada; citação |
-| P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
-
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
@@ -74,3 +62,15 @@ Com isso:
 | O Tal (Tao) (a via de ressignificação que faz da podridão da criação alimento) | RC-881 | associado |
 | Savant (a genialidade preservada além do autismo num grau; figura útil no final) | RC-885 | associado |
 
+
+## Fontes
+| Obra (sigla) | Título | Página | Tipo |
+|---|---|---|---|
+| P2021-04-10 | O Fechamento dos Portais e o Impasse no Exílio Espiritual de Len Mion — Aprofundamento (palestra) | — | transcrição automatizada; citação |
+| P2021-02-28 | Tragédia Anunciada - As Fórmulas Mentais do Poder Demo (palestra) | — | transcrição automatizada; citação |
+| P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
+
+## Observações sobre o Estado da Malha
+
+* **Código novo em fila aberta (devolutiva):** Fórmulas Mentais promovido a código (RC-870) — conceito estrutural (código dos demos vs DNA destravado); criado no cadastro (ficha=False) e MATERIALIZADO neste ciclo (ficha=False → True) com as formulações validadas da fonte.
+* **Trava aplicável**: nenhuma além das gerais do despacho.

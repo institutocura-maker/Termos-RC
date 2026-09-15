@@ -40,11 +40,6 @@ Registrado com uma única fonte (B031), o verbete tem valor sobretudo prosopogr�
 - RC-068 — ver ficha correspondente
 - RC-083 — ver ficha correspondente
 
-## Fontes
-| Obra/palestra | Localização | Tipo |
-|---|---|---|
-| B031 | — | registro-mestre (fonte censada) |
-
 ## Observações
 Fonte única (B031) — manter sob [REVISAR] até nova evidência. Verbete de aparato, necessário à seção I.1.1 da Enciclopédia (o autor e a sua voz).
 
@@ -52,3 +47,8 @@ Fonte única (B031) — manter sob [REVISAR] até nova evidência. Verbete de ap
 
 
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-120.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
+
+## Fontes
+| Obra/palestra | Localização | Tipo |
+|---|---|---|
+| B031 | — | registro-mestre (fonte censada) |

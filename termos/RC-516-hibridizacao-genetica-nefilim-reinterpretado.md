@@ -16,15 +16,9 @@ atualizado = "2026-08-29"
 
 Na RC, a **mistura genética entre anunnaki (RC-024) e humanos** — reinterpretação dos Nefilins (RC-488) como produto de hibridização, não como "anjos caídos" da teologia clássica.
 
-## Atualização
-### P2021-03-27
+## Citações-chave
 
-- **Desobediência à regra de Anu:** "Anu havia dito para eles não fazerem isso [transar com humanos]... Só que eles fizeram" — primeiras linhagens anunnaki;
-- **Produto:** "terminou gerando uma série de linhagens de aparentemente seres humanos, mas também tinham gigantes, figuras deformadas";
-- **Ordem de extermínio:** Javé/Zeus/Anu ordenaram matar a turma híbrida — "de confusão na Terra bastava os seres humanos";
-- **Contexto de escassez:** "um gigante comia o que um ser humano comia em 30 dias... não tinha comida para todo mundo";
-- **Sangue anunnaki nas vilas:** "a quantidade de lugarejos... que tinha o sangue anunnaki da primeira investida deles antes do dilúvio, mas também no período pós-diluviano".
-
+> "Os primeiros anunnaki que desobedeceram Anu e transaram com mulheres humanas... isso aconteceu num tempo pré-diluviano. Essa turma terminou gerando uma série de linhagens de aparentemente seres humanos, mas também tinham gigantes, figuras deformadas." — P2021-03-27
 
 ## Ampliação
 ### P2021-05-15 (As Etnias Hiperbóreas e os Anunnakis)
@@ -54,25 +48,15 @@ Na RC, a **mistura genética entre anunnaki (RC-024) e humanos** — reinterpret
 
 - **[P2023-12-03 · HIBRIDIZAÇÃO GENÉTICA (NEFILIM REINTERPRETADO) NA FALA DE 03/12/2023]** «dois tipos de seres da terra.» (U0009) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
 
-## Fontes
+## Atualização
+### P2021-03-27
 
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
-| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
-| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra/STT) | citação verbatim; paráfrase |
-| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
-| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
-| P2021-03-27 | bloco 3 (dinastias — desobediência); bloco 5 (dilúvio) | palestra/STT pré-curada |
+- **Desobediência à regra de Anu:** "Anu havia dito para eles não fazerem isso [transar com humanos]... Só que eles fizeram" — primeiras linhagens anunnaki;
+- **Produto:** "terminou gerando uma série de linhagens de aparentemente seres humanos, mas também tinham gigantes, figuras deformadas";
+- **Ordem de extermínio:** Javé/Zeus/Anu ordenaram matar a turma híbrida — "de confusão na Terra bastava os seres humanos";
+- **Contexto de escassez:** "um gigante comia o que um ser humano comia em 30 dias... não tinha comida para todo mundo";
+- **Sangue anunnaki nas vilas:** "a quantidade de lugarejos... que tinha o sangue anunnaki da primeira investida deles antes do dilúvio, mas também no período pós-diluviano".
 
-
-
-
-
-
-## Citação-chave
-
-> "Os primeiros anunnaki que desobedeceram Anu e transaram com mulheres humanas... isso aconteceu num tempo pré-diluviano. Essa turma terminou gerando uma série de linhagens de aparentemente seres humanos, mas também tinham gigantes, figuras deformadas." — P2021-03-27
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -89,3 +73,19 @@ Reinterpretação dos Nefilins como hibridização é **leitura do autor** — n
 
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-516.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
+## Fontes
+
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
+| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
+| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra/STT) | citação verbatim; paráfrase |
+| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
+| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
+| P2021-03-27 | bloco 3 (dinastias — desobediência); bloco 5 (dilúvio) | palestra/STT pré-curada |
+
+
+
+
+

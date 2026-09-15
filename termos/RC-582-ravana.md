@@ -18,10 +18,8 @@ Rakshasa apresentado como ser extremamente poderoso, antagonista de Rama no cont
 ## Contexto / Origem
 Na cronologia da palestra, Ravana pertence à segunda era equinocial e sua força é vinculada ao consumo de sangue de mamíferos.
 
-## Etimologia e Grafias
-- Grafia preferida: Ravana.
-- **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
-
+## Citações-chave
+> ““Ravana, que era um Rakshasa, se tornasse o ser mais forte dos dois universos.”” — P2022-12-17, U0740–U0746; U0770
 
 ## Ampliação
 ### P2026-07-25
@@ -68,15 +66,13 @@ Na cronologia da palestra, Ravana pertence à segunda era equinocial e sua forç
 - **[Rakchaças: o chefe deles, Ravana, desafia Zeus/Indra] (U0041)** «" E apareceu um chefe deles, dos rakchaças, um tal de Ravana, e o cara tem poder para a Zeus disse: "Vou desafiá-lo".» — STT «rakchaças» (Rakchasas; RC-872 em fila aberta — ver BLOCO 2): "Aí Zeus, chamado na mitologia ariana de de Indra, desafiou Ravana" (U0041: «Aí Zeus, chamado na mitologia ariana de de Indra, desafiou Ravana.»); a surra de Ravana em Indra está descrita no Ramaian (STT «Ramaian»; Ramayana) — paráfrase U0041; RC-582 Ravana.
 
 
-## Fontes
-| Obra/palestra | Localização | Tipo |
-|---|---|---|
-| P2022-09-17 | A Hipóstase dos Arcontes (palestra) | — | transcrição automatizada; citação |
-| P2021-02-28 | Tragédia Anunciada - As Fórmulas Mentais do Poder Demo (palestra) | — | transcrição automatizada; citação |
-| P2022-12-17 — O Incompreendido Ano de 2012 e a Falsa Noção do Fim do Mundo | U0740–U0746; U0770 | transcrição automatizada; paráfrase e citação |
+## Etimologia e Grafias
+- Grafia preferida: Ravana.
+- **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
 
-## Citações-chave
-> ““Ravana, que era um Rakshasa, se tornasse o ser mais forte dos dois universos.”” — P2022-12-17, U0740–U0746; U0770
+
+## Seres Associados
+Rakshasas (RC-581); Rama (avatar de Vishnu) (RC-584)
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -92,11 +88,15 @@ Na cronologia da palestra, Ravana pertence à segunda era equinocial e sua forç
 | Rama (avatar de Vishnu) | RC-584 | ← relaciona-se-a |
 | Mahabharata | RC-593 | relaciona-se-a |
 
-## Seres Associados
-Rakshasas (RC-581); Rama (avatar de Vishnu) (RC-584)
-
 ## Observações
 A formulação reflete o conteúdo da palestra e não deve ser universalizada para outras tradições.
 
 **Regra de status:** permanece ⚪ candidato porque a fonte é STT sem áudio anexado. A aprovação do curador valida a modelagem terminológica, não substitui a futura conferência com áudio ou obra primária.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
+## Fontes
+| Obra/palestra | Localização | Tipo |
+|---|---|---|
+| P2022-09-17 | A Hipóstase dos Arcontes (palestra) | — | transcrição automatizada; citação |
+| P2021-02-28 | Tragédia Anunciada - As Fórmulas Mentais do Poder Demo (palestra) | — | transcrição automatizada; citação |
+| P2022-12-17 — O Incompreendido Ano de 2012 e a Falsa Noção do Fim do Mundo | U0740–U0746; U0770 | transcrição automatizada; paráfrase e citação |

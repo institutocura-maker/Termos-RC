@@ -16,12 +16,20 @@ atualizado = "2026-09-12"
 
 Sétimo patriarca bíblico, levado por Javé — na RC, figura-chave da intercessão pelos Anunnakis (RC-673) e dos 366 manuscritos (RC-672).
 
-## Atualização
-### P2023-12-02
+## Citações-chave
 
-- **Thot trabalhou com Enoque:** "além disso, conviveu e trabalhou com os anjos de Javé. Eu vou falar um pouco disso amanhã, com o Adão bíblico, com Enoque" — Thot (RC-463) ao lado de anjos de Javé, Adão e Enoque (nova aresta RC-463 ↔ RC-489);
-- Contexto: a palestra de amanhã (03/12/2023 — Rebelião de Lúcifer) retomaria essas relações.
+> "Além disso, conviveu e trabalhou com os anjos de Javé... com o Adão bíblico, com Enoque." — P2023-12-02 (sobre Thot)
 
+
+> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+
+- «Quando tudo deu errado, Brama usou Enoque [...] Aí Vishnu disse: 'Ai, eu lhe empresto um avatar meu. Eu falo com Sofia. Sofia dá um jeito de transar com a mulher, mas Sofia não tem pênis [...] Mas ele pode então pegar a genética dele e artificialmente colocar na humana.'» — *ver:* **Ampliação — P2024-03-02 (O Drama Espiritual de Jesus)**
+- «Depois eu compreendi o equívoco dos próprios espíritos a afirmarem isso, porque o próprio Jesus não estava afirmando, ele estava só reafirmando a velha agenda que Enoque apresentou o seres humanos.» — *ver:* **Ampliação — P2022-10-01 (A Wyrd e a Espiritualidade)** U0007
+- «Porque Enoque foi o primeiro ser humano a apresentar ao mundo a agenda geopolítica do tal ser chamado Javé e da sucessiva aparição de avatares na Terra, cumprindo essa agenda de Javé.» — *ver:* **Ampliação — P2025-12-14 (Os Fundamentos da Revelação Cósm…** U0069
+
+
+> Notas de processo: 3 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-489.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
 
 ## Ampliação
 ### P2026-07-25
@@ -112,25 +120,18 @@ Sétimo patriarca bíblico, levado por Javé — na RC, figura-chave da interces
 - **[Jerônimo e a remoção do livro de Enoque] (U0070)** «Esse grupo comandado por Jerônimo, eles tiram o livro de Enoque.» — a queima de arquivo: Jerônimo e o grupo que removeu o livro de Enoque do cânone; «O livro de Enoque sumiu» (U0070: «O livro de Enoque sumiu.»); em 1846 em Belgrado o professor Scolov descobriu restos de outro livro de Enoque (U0070: «E em 1846, na em Belgrad, O professor Scolov descobriu restos de um outro livro de Enoque.»); STT «Belgrad» = Belgrado; RC-489; RC-672 Manuscritos de Enoque; RC-273 religião institucional.
 
 
-## Fontes
+## Ampliação
+### P2024-03-02 (O Drama Espiritual de Jesus)
 
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2025-12-14 | Os Fundamentos da Revelação Cósmica (palestra) | — | transcrição automatizada; citação |
-| P2022-07-16 | Do Ramayana ao Mahabharata (palestra) | — | transcrição automatizada; citação |
-| P2022-10-01 | A Wyrd e a Espiritualidade (palestra) | — | transcrição automatizada; citação |
-| P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
-| P2018-12-16 | Terra Atlantis - Era Sapiens (palestra) | — | transcrição automatizada; citação |
-| P2017-10-14 | Da Base Atlan ao Colégio Druídico (palestra) | — | transcrição automatizada; citação |
-| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
-| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
-| P2023-12-02 | bloco final (Thot e anjos de Javé/Adão/Enoque) | palestra/STT pré-curada |
+- **[Enoque — usado por Brama na inseminação de Maria]:** «Quando tudo deu errado, Brama usou Enoque [...] Aí Vishnu disse: 'Ai, eu lhe empresto um avatar meu. Eu falo com Sofia. Sofia dá um jeito de transar com a mulher, mas Sofia não tem pênis [...] Mas ele pode então pegar a genética dele e artificialmente colocar na humana.'» — ver RC-072 (Jesus), RC-009 (Sophia).
 
 
+## Atualização
+### P2023-12-02
 
-## Citação-chave
+- **Thot trabalhou com Enoque:** "além disso, conviveu e trabalhou com os anjos de Javé. Eu vou falar um pouco disso amanhã, com o Adão bíblico, com Enoque" — Thot (RC-463) ao lado de anjos de Javé, Adão e Enoque (nova aresta RC-463 ↔ RC-489);
+- Contexto: a palestra de amanhã (03/12/2023 — Rebelião de Lúcifer) retomaria essas relações.
 
-> "Além disso, conviveu e trabalhou com os anjos de Javé... com o Adão bíblico, com Enoque." — P2023-12-02 (sobre Thot)
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -151,25 +152,23 @@ Sétimo patriarca bíblico, levado por Javé — na RC, figura-chave da interces
 | Culto a Lilith (Transformação em Deusa Lil Babilônica) | RC-813 | associado |
 | Pacto Aesir-Vanir como Origem Nórdica da Ideia de Pandora | RC-816 | associado |
 
-## Ampliação
-### P2024-03-02 (O Drama Espiritual de Jesus)
+## Fontes
 
-- **[Enoque — usado por Brama na inseminação de Maria]:** «Quando tudo deu errado, Brama usou Enoque [...] Aí Vishnu disse: 'Ai, eu lhe empresto um avatar meu. Eu falo com Sofia. Sofia dá um jeito de transar com a mulher, mas Sofia não tem pênis [...] Mas ele pode então pegar a genética dele e artificialmente colocar na humana.'» — ver RC-072 (Jesus), RC-009 (Sophia).
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2025-12-14 | Os Fundamentos da Revelação Cósmica (palestra) | — | transcrição automatizada; citação |
+| P2022-07-16 | Do Ramayana ao Mahabharata (palestra) | — | transcrição automatizada; citação |
+| P2022-10-01 | A Wyrd e a Espiritualidade (palestra) | — | transcrição automatizada; citação |
+| P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
+| P2018-12-16 | Terra Atlantis - Era Sapiens (palestra) | — | transcrição automatizada; citação |
+| P2017-10-14 | Da Base Atlan ao Colégio Druídico (palestra) | — | transcrição automatizada; citação |
+| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
+| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
+| P2023-12-02 | bloco final (Thot e anjos de Javé/Adão/Enoque) | palestra/STT pré-curada |
+
 
 
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
 | P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |
-
-## Citações-chave
-
-> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
-
-- «Quando tudo deu errado, Brama usou Enoque [...] Aí Vishnu disse: 'Ai, eu lhe empresto um avatar meu. Eu falo com Sofia. Sofia dá um jeito de transar com a mulher, mas Sofia não tem pênis [...] Mas ele pode então pegar a genética dele e artificialmente colocar na humana.'» — *ver:* **Ampliação — P2024-03-02 (O Drama Espiritual de Jesus)**
-- «Depois eu compreendi o equívoco dos próprios espíritos a afirmarem isso, porque o próprio Jesus não estava afirmando, ele estava só reafirmando a velha agenda que Enoque apresentou o seres humanos.» — *ver:* **Ampliação — P2022-10-01 (A Wyrd e a Espiritualidade)** U0007
-- «Porque Enoque foi o primeiro ser humano a apresentar ao mundo a agenda geopolítica do tal ser chamado Javé e da sucessiva aparição de avatares na Terra, cumprindo essa agenda de Javé.» — *ver:* **Ampliação — P2025-12-14 (Os Fundamentos da Revelação Cósm…** U0069
-
-
-> Notas de processo: 3 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-489.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

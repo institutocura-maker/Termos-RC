@@ -18,10 +18,8 @@ Analogia usada pelo palestrante para descrever seres quase perfeitos que funcion
 ## Contexto / Origem
 A analogia é aplicada a seres do Paraíso, da Operacional e da Laboratorial, com graus distintos de funcionalidade.
 
-## Etimologia e Grafias
-- Expressão preferida: Autismo Funcional dos Seres da Espiritualidade Superior.
-- **Fonte de decisão:** Quadro 9 aprovado pelo curador.
-
+## Citações-chave
+> “Seria o autismo funcional [...] ele desempenha absolutamente a função da sua vida, funcionando em rede.” — P2021-12-04, U0108–U0147; U0296–U0301; U0375–U0415; U0487–U0505
 
 ## Ampliação
 ### P2021-12-04
@@ -40,15 +38,23 @@ A analogia é aplicada a seres do Paraíso, da Operacional e da Laboratorial, co
 - **[P2022-03-26 · AUTISMO FUNCIONAL DOS SERES DA ESPIRITUALIDADE SUPERIOR NA FALA DE 26/03/2022]** "Essa turma que surgiu aqui perverteu-se. Brama, viza. Cronos, Zeus e Companhia Limitada, usando as expressões da mitologia grega." (U0009) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2021-09-04`); a entrada desta fonte é de **conteúdo**, não de data.
 - **[P2022-03-26 · O AUTISMO FUNCIONAL: A CATEGORIA QUE A FALA CRIA PARA O PARAÍSO]** "esses seres são tão puros que às vezes a malícia no genoma deles Não tem como entrar. E eles nascem, mas são ingênuos, lentos, babacoides. O mundo engana-os e são espíritos de um estirpe." (U0020); "no meio dos humanos racionais tem o quê?" (U0009) — **Enquadramento de D-3 (obrigatório em todo uso):** o termo é usado pela fonte como categoria cosmológica — ausência de malícia, não diagnóstico. A fala **nega** que isto descreva pessoas; qualquer reemprego em contexto humano está vedado por decisão do Curador.
 
-## Fontes
-| Obra/palestra | Localização | Tipo |
-|---|---|---|
-| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
-| P2021-12-04 — Os Archeons de Ereon e os Seres Adhy | U0108–U0147; U0296–U0301; U0375–U0415; U0487–U0505 | STT pré-curado e validado |
+## Atualização
+### P2024-05-04
+
+- A analogia do autismo reaparece associada a seres recém-mergulhados; exigir ressalva clínica rigorosa.
+- Divergências e alegações científicas permanecem abertas/atribuídas à palestra.
+
+### P2024-11-09
+A palestra usa “pureza extrema” e “autismo funcional” como metáforas cosmológicas para a alegada incapacidade de seres superiores reconhecerem o caos. **Blindagem clínica:** isso não descreve o transtorno do espectro autista, não estabelece etiologia e não pode ser aplicado a pessoas autistas. A afirmação sobre primeiras encarnações foi bloqueada sem código.
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
+## Etimologia e Grafias
+- Expressão preferida: Autismo Funcional dos Seres da Espiritualidade Superior.
+- **Fonte de decisão:** Quadro 9 aprovado pelo curador.
 
 
-## Citações-chave
-> “Seria o autismo funcional [...] ele desempenha absolutamente a função da sua vida, funcionando em rede.” — P2021-12-04, U0108–U0147; U0296–U0301; U0375–U0415; U0487–U0505
+## Seres Associados
+Consultar as relações tipadas acima.
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -64,9 +70,6 @@ A analogia é aplicada a seres do Paraíso, da Operacional e da Laboratorial, co
 | Abismo da Providência / Falsa Providência | RC-723 | relaciona-se-a |
 | Disforia de gênio (a confiança ilimitada na pretensa capacidade) | RC-878 | associado |
 
-## Seres Associados
-Consultar as relações tipadas acima.
-
 ## Observações
 RESSALVA OBRIGATÓRIA: analogia especulativa do palestrante; não equivale a diagnóstico clínico nem a juízo sobre pessoas autistas.
 
@@ -74,12 +77,9 @@ RESSALVA OBRIGATÓRIA: analogia especulativa do palestrante; não equivale a dia
 
 ---
 
-## Atualização
-### P2024-05-04
+## Fontes
+| Obra/palestra | Localização | Tipo |
+|---|---|---|
+| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
+| P2021-12-04 — Os Archeons de Ereon e os Seres Adhy | U0108–U0147; U0296–U0301; U0375–U0415; U0487–U0505 | STT pré-curado e validado |
 
-- A analogia do autismo reaparece associada a seres recém-mergulhados; exigir ressalva clínica rigorosa.
-- Divergências e alegações científicas permanecem abertas/atribuídas à palestra.
-
-### P2024-11-09
-A palestra usa “pureza extrema” e “autismo funcional” como metáforas cosmológicas para a alegada incapacidade de seres superiores reconhecerem o caos. **Blindagem clínica:** isso não descreve o transtorno do espectro autista, não estabelece etiologia e não pode ser aplicado a pessoas autistas. A afirmação sobre primeiras encarnações foi bloqueada sem código.
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
