@@ -16,14 +16,32 @@ atualizado = "2026-08-16"
 
 [P2024-09-29] Amaterasu, divindade xintoísta, é identificada por Ellam com Atena e situada por ele como agente do projeto japonês.
 
+## Etimologia e Grafias
+### Glossário interno
+
+- **[P2024-09-29]** Atena/Palas: correspondência interna da Teologia Comparada de Ellam; sem fusão ontológica geral entre tradições.
+
+## Contexto / Origem
+
+[P2024-09-29] A correspondência Atena=Amaterasu e a participação no projeto são registradas somente como Teologia Comparada de Ellam.
+
 ## Escopo e evidência
 
 - **[P2024-09-29] Unidades:** U0439–U0440; U0613–U0618; U0690–U0708; U0741–U0757.
 - **[P2024-09-29] Proveniência:** palestra de Jan Val Ellam; transcrição STT pré-curada e devolutiva oficial do curador.
 
-## Contexto / Origem
-
-[P2024-09-29] A correspondência Atena=Amaterasu e a participação no projeto são registradas somente como Teologia Comparada de Ellam.
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Zeus | RC-145 | relaciona-se-a / ver grafo |
+| Linhagens Humanas: Preferidas e Preteridas | RC-269 | relaciona-se-a / ver grafo |
+| Aristocracia Olimpiana e Monarquias Terrestres | RC-736 | ← relaciona-se-a |
+| Aristocracia Olimpiana e Monarquias Terrestres | RC-736 | relaciona-se-a |
+| Projeto Amaterasu–Kami no Japão | RC-737 | ← envolve |
+| Projeto Amaterasu–Kami no Japão | RC-737 | ← relaciona-se-a |
+| Susanoo (Teologia Comparada de Ellam) | RC-739 | relaciona-se-a |
+| Susanoo (Teologia Comparada de Ellam) | RC-739 | ← relaciona-se-a |
+| Kami (Projeto Japonês) | RC-740 | relaciona-se-a / ver grafo |
 
 ## Citações-chave
 > "E Amaterasu, que é Atena, que é, entre aspas, filha de Zeus. E Atena é tida como deusa virgem. E o pior: de fato, assim ela permaneceu, porque tudo o que ela fez foi por manipulação genética. Então, a pureza do sangue dos descendentes da casa real japonesa tem a pretensão de ser, entre aspas, a pureza da deusa Amaterasu."" — P2024-09-29
@@ -41,23 +59,7 @@ atualizado = "2026-08-16"
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-738.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
 
 
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Zeus | RC-145 | relaciona-se-a / ver grafo |
-| Linhagens Humanas: Preferidas e Preteridas | RC-269 | relaciona-se-a / ver grafo |
-| Aristocracia Olimpiana e Monarquias Terrestres | RC-736 | ← relaciona-se-a |
-| Aristocracia Olimpiana e Monarquias Terrestres | RC-736 | relaciona-se-a |
-| Projeto Amaterasu–Kami no Japão | RC-737 | ← envolve |
-| Projeto Amaterasu–Kami no Japão | RC-737 | ← relaciona-se-a |
-| Susanoo (Teologia Comparada de Ellam) | RC-739 | relaciona-se-a |
-| Susanoo (Teologia Comparada de Ellam) | RC-739 | ← relaciona-se-a |
-| Kami (Projeto Japonês) | RC-740 | relaciona-se-a / ver grafo |
-
-## Glossário interno
-
-- **[P2024-09-29]** Atena/Palas: correspondência interna da Teologia Comparada de Ellam; sem fusão ontológica geral entre tradições.
-
-## Cautela editorial
+## Observações
+### Cautela editorial
 
 [P2024-09-29] A equivalência não é consenso histórico, filológico ou religioso. Alegações sobre manipulação genética e descendência imperial permanecem atribuídas a Ellam.

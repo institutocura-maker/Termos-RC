@@ -15,6 +15,38 @@ atualizado = "2026-08-16"
 ## Definição Sintética
 Na formulação de Jan Val Ellam, é a distância entre poder ou conhecimento e a capacidade de reconhecer, compreender e agir diante do sofrimento, da indignidade e do caos. O conceito é aplicado, na palestra, a consciências humanas, espirituais, cósmicas e paradisíacas.
 
+### Estrutura interna
+
+- faces do abismo na consciência humana e espiritual;
+- face da Providência, detalhada em RC-723;
+- pureza extrema e incapacidade de reconhecer o caos;
+- críticas a Javé, Krishna, Jesus, Sai Baba e instituições, sempre atribuídas ao palestrante;
+- relação com o Buraco Negro Mental/Consciencial — RC-717.
+
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| O Mal: Subproduto da Ignorância Espiritual | RC-223 | ← comparado-a |
+| Liberdade Mental (premissa do Quarto Logos) | RC-253 | relaciona-se-a |
+| Decência cósmica (ética ellâmica) | RC-508 | associado |
+| Demência do Criador (fases da condição de Javé) | RC-526 | ← relaciona-se-a |
+| Autismo Funcional dos Seres da Espiritualidade Superior | RC-605 | relaciona-se-a |
+| Autismo Funcional dos Seres da Espiritualidade Superior | RC-605 | ← relaciona-se-a |
+| Humanos: Últimos e Primeiros | RC-654 | observado-de-dentro-por |
+| Humanos: Últimos e Primeiros | RC-654 | ← observa-de-dentro |
+| Buraco Negro Mental / Consciencial | RC-717 | relaciona-se-a |
+| Sócios do Destino / Ausência de Justiça Externa | RC-720 | relaciona-se-a |
+| Dignidade como Critério de Consciência | RC-722 | avaliado-por |
+| Dignidade como Critério de Consciência | RC-722 | relaciona-se-a |
+| Abismo da Providência / Falsa Providência | RC-723 | manifesta-se-em |
+| Abismo da Providência / Falsa Providência | RC-723 | relaciona-se-a |
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2024-11-09 | U0001–U0068; U0125–U0140; U0180–U0259; U0350–U0360; U0800–U1075 | palestra/STT |
+
 ## Citações-chave
 > “Há um abismo na consciência cósmica, há um abismo na consciência espiritual, há um abismo na consciência humana.”
 
@@ -36,38 +68,6 @@ Na formulação de Jan Val Ellam, é a distância entre poder ou conhecimento e 
 - **Freud:** "aquilo que aparentemente transcende não transcende pro céu, é só imagem humana; a transcendência é falsa, porque é só uma questão de imaginação nossa" [quarentena].
 - **Independência intelectual:** "para você fazer leitura honesta dos fatos, você precisa de independência intelectual, você precisa de liberdade mental"; "ficar cativo da preferência e prisioneiro do significado... e tornar-se intolerante, o nome disso é transtorno psíquico".
 
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| O Mal: Subproduto da Ignorância Espiritual | RC-223 | ← comparado-a |
-| Liberdade Mental (premissa do Quarto Logos) | RC-253 | relaciona-se-a |
-| Decência cósmica (ética ellâmica) | RC-508 | associado |
-| Demência do Criador (fases da condição de Javé) | RC-526 | ← relaciona-se-a |
-| Autismo Funcional dos Seres da Espiritualidade Superior | RC-605 | relaciona-se-a |
-| Autismo Funcional dos Seres da Espiritualidade Superior | RC-605 | ← relaciona-se-a |
-| Humanos: Últimos e Primeiros | RC-654 | observado-de-dentro-por |
-| Humanos: Últimos e Primeiros | RC-654 | ← observa-de-dentro |
-| Buraco Negro Mental / Consciencial | RC-717 | relaciona-se-a |
-| Sócios do Destino / Ausência de Justiça Externa | RC-720 | relaciona-se-a |
-| Dignidade como Critério de Consciência | RC-722 | avaliado-por |
-| Dignidade como Critério de Consciência | RC-722 | relaciona-se-a |
-| Abismo da Providência / Falsa Providência | RC-723 | manifesta-se-em |
-| Abismo da Providência / Falsa Providência | RC-723 | relaciona-se-a |
-
 ## Observações
 Conceito interno da cosmologia e crítica filosófica de Ellam. Não é diagnóstico psicológico, psiquiátrico ou neurocientífico. As “faces dos poderosos” são juízos atribuídos ao palestrante, não consenso histórico ou religioso.
-
-
-## Fontes
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2024-11-09 | U0001–U0068; U0125–U0140; U0180–U0259; U0350–U0360; U0800–U1075 | palestra/STT |
-
-## Estrutura interna
-
-- faces do abismo na consciência humana e espiritual;
-- face da Providência, detalhada em RC-723;
-- pureza extrema e incapacidade de reconhecer o caos;
-- críticas a Javé, Krishna, Jesus, Sai Baba e instituições, sempre atribuídas ao palestrante;
-- relação com o Buraco Negro Mental/Consciencial — RC-717.
 

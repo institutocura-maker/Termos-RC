@@ -15,8 +15,44 @@ atualizado = "2026-08-14"
 ## Definição Sintética
 Pulsação dos elétrons do universo material e dos antielétrons do universo antimaterial, unidas numa resultante simultânea que repercute no espírito criador.
 
+## Etimologia e Grafias
+- Grafia: Duas Pulsações da Criação.
+
+
 ## Contexto / Origem
 A palestra compara a qualidade moral/psíquica das pulsações de seres biológicos e demos.
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | ocorre-em |
+| Universo Material (Bhuloka) | RC-107 | ocorre-em |
+| Memória Quântica dos Elétrons | RC-161 | envolve |
+| Memória Quântica dos Elétrons | RC-161 | ← relaciona-se-a |
+| Memória Quântica dos Elétrons | RC-161 | relaciona-se-a |
+| Memória Quântica dos Elétrons | RC-161 | relaciona-se-a |
+| Elétrons (agente básico da vida universal) | RC-162 | envolve |
+| Simultaneidade Reversa | RC-628 | relaciona-se-a |
+| Transferência da Memória dos Antielétrons | RC-637 | associado |
+| Ishvara (Isuara — Retrato de Prabrajna Antes da Queda) | RC-691 | relaciona-se-a |
+| Kit Reencarnatório de Elétrons | RC-692 | ← relaciona-se-a |
+| Ser Humano Não Local | RC-708 | ← relaciona-se-a |
+| Atos performativos (as frases que fazem coisas com palavras) | RC-876 | associado |
+| Biocosmos emergente (a nova mente biológica global ancorada nos campos mórficos) | RC-879 | associado |
+
+## Seres Associados
+Consultar relações acima.
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2021-06-26 | Shiva - A Reconstrução do Erro de Brahma e o Tikum (palestra) | — | transcrição automatizada; citação |
+| P2021-02-28 | Tragédia Anunciada - As Fórmulas Mentais do Poder Demo (palestra) | — | transcrição automatizada; citação |
+| P2022-07-16 | Do Ramayana ao Mahabharata (palestra) | — | transcrição automatizada; citação |
+| P2022-09-18 | Os Níveis de Estresse Extremo da Criação (palestra) | — | transcrição automatizada; citação |
+| P2022-10-01 | A Wyrd e a Espiritualidade (palestra) | — | transcrição automatizada; citação |
+| P2022-12-03 | O Ocaso do Criador e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
+| P2024-05-04 — Prabrajna em Perpérion / Simultaneidade Reversa | U0913–U0947 | PDF/transcrição pré-curada |
 
 ## Citações-chave
 > “Existem duas pulsações [...] uma dos elétrons e uma dos antielétrons.” — P2024-05-04
@@ -67,31 +103,6 @@ A palestra compara a qualidade moral/psíquica das pulsações de seres biológi
 - **[O campo de higumig: Mavatma freou as partículas superluminais] (U0012)** «Aí esse sermavatma aplicou um campo de força mental que hoje a gente chama como campo de higumig Foi o campo que pegou essas energias superluminaismente pra brágne e diminuiu a velocidade delas.» — a física da criação: "a energia sátiva foi que organizou os quarks para que baterem um no outro com os bosons gluon colando três quarques um prótono, três quarqu nêutron" (U0012: «Então Mavatma foi que fez esse movimento, a energia sátiva foi que organizou os quarks para que baterem um no outro com os bosons gluon colando três quarques um prótono, três quarqu nêutron.»); "A força eletro a fraca que traz um elétron, um lepton para se juntar o núcleo atômico" (U0012: «A força eletro a fraca que traz um elétron, um lepton para se juntar o núcleo atômico.»); "o limite do nosso espaço tempo é a velocidade da luz e acima disso aqui são a as partículas hiper" (U0012: «Por isso que o limite do nosso espaço tempo é a velocidade da luz e acima disso aqui são a as partículas hiper, né?»); "essa mente mavat mesmo lá de fora e meio combalida fez isso tudo" (U0012: «Ou seja, essa mente mavat mesmo lá de fora e meio combalida fez isso tudo.»).
 
 
-## Etimologia e Grafias
-- Grafia: Duas Pulsações da Criação.
-
-
-## Seres Associados
-Consultar relações acima.
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | ocorre-em |
-| Universo Material (Bhuloka) | RC-107 | ocorre-em |
-| Memória Quântica dos Elétrons | RC-161 | envolve |
-| Memória Quântica dos Elétrons | RC-161 | ← relaciona-se-a |
-| Memória Quântica dos Elétrons | RC-161 | relaciona-se-a |
-| Memória Quântica dos Elétrons | RC-161 | relaciona-se-a |
-| Elétrons (agente básico da vida universal) | RC-162 | envolve |
-| Simultaneidade Reversa | RC-628 | relaciona-se-a |
-| Transferência da Memória dos Antielétrons | RC-637 | associado |
-| Ishvara (Isuara — Retrato de Prabrajna Antes da Queda) | RC-691 | relaciona-se-a |
-| Kit Reencarnatório de Elétrons | RC-692 | ← relaciona-se-a |
-| Ser Humano Não Local | RC-708 | ← relaciona-se-a |
-| Atos performativos (as frases que fazem coisas com palavras) | RC-876 | associado |
-| Biocosmos emergente (a nova mente biológica global ancorada nos campos mórficos) | RC-879 | associado |
-
 ## Observações
 Postulado da palestra, não consenso científico.
 
@@ -100,14 +111,3 @@ Status candidato por depender de palestra e alegações ainda não cruzadas inte
 
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-636.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
-
-## Fontes
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2021-06-26 | Shiva - A Reconstrução do Erro de Brahma e o Tikum (palestra) | — | transcrição automatizada; citação |
-| P2021-02-28 | Tragédia Anunciada - As Fórmulas Mentais do Poder Demo (palestra) | — | transcrição automatizada; citação |
-| P2022-07-16 | Do Ramayana ao Mahabharata (palestra) | — | transcrição automatizada; citação |
-| P2022-09-18 | Os Níveis de Estresse Extremo da Criação (palestra) | — | transcrição automatizada; citação |
-| P2022-10-01 | A Wyrd e a Espiritualidade (palestra) | — | transcrição automatizada; citação |
-| P2022-12-03 | O Ocaso do Criador e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
-| P2024-05-04 — Prabrajna em Perpérion / Simultaneidade Reversa | U0913–U0947 | PDF/transcrição pré-curada |

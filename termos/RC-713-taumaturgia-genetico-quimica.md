@@ -26,6 +26,34 @@ A palestra distingue taumaturgia de:
 O exemplo principal é a cura de cegueira por Jesus com areia/argila e saliva, interpretada como manipulação químico-genética.
 
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Jesus | RC-072 | envolve |
+| DNA como Projeção Holográfica do Psiquismo do Criador | RC-217 | atua-em |
+| Apolônio de Tiana (encarnação do Quarto Logos) | RC-259 | envolve |
+| Alteração Vibratória (Transfiguração) | RC-367 | relaciona-se-a |
+| Tikun Cósmico (restabelecimento da Criação) | RC-514 | relaciona-se-a |
+| Tikun Cósmico (restabelecimento da Criação) | RC-514 | ← relaciona-se-a |
+| Gestão da Sensação Pessoal | RC-633 | relaciona-se-a |
+| Genes Críticos / Genes Dorminhocos | RC-710 | relaciona-se-a |
+| Lei da Mente do Buda | RC-712 | distingue-se-de |
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
+| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
+| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra/STT) | citação verbatim; paráfrase |
+| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
+| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
+| P2025-02-15 | U0737–U0770 | aula/palestra STT |
+
+
+
+
+
+
 ## Citações-chave
 > “Aqui exige conhecimento taumatúrgico.”
 
@@ -72,34 +100,7 @@ O exemplo principal é a cura de cegueira por Jesus com areia/argila e saliva, i
 
 - **[P2023-12-03 · TAUMATURGIA GENÉTICO-QUÍMICA NA FALA DE 03/12/2023]** «várias uniões de DNA foram feitas para convencer o processador V, que é só um computador, a aceitar ser uma espécie de madrinha ou padrinho de todos esses seres o que se conseguiu fazer.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
 
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Jesus | RC-072 | envolve |
-| DNA como Projeção Holográfica do Psiquismo do Criador | RC-217 | atua-em |
-| Apolônio de Tiana (encarnação do Quarto Logos) | RC-259 | envolve |
-| Alteração Vibratória (Transfiguração) | RC-367 | relaciona-se-a |
-| Tikun Cósmico (restabelecimento da Criação) | RC-514 | relaciona-se-a |
-| Tikun Cósmico (restabelecimento da Criação) | RC-514 | ← relaciona-se-a |
-| Gestão da Sensação Pessoal | RC-633 | relaciona-se-a |
-| Genes Críticos / Genes Dorminhocos | RC-710 | relaciona-se-a |
-| Lei da Mente do Buda | RC-712 | distingue-se-de |
-
-## Fontes
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
-| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
-| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra/STT) | citação verbatim; paráfrase |
-| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
-| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
-| P2025-02-15 | U0737–U0770 | aula/palestra STT |
-
-
-
-
-
-
-## Ressalva Biomédica
+## Observações
+### Ressalva Biomédica
 Não existe validação biomédica para diagnosticar e corrigir mutações por leitura mental, saliva, areia, intenção ou manipulação de “regiões HR1/HR2”. O termo registra uma concepção RC da palestra e não deve orientar tratamento de saúde.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

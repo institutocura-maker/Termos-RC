@@ -15,8 +15,38 @@ atualizado = "2026-08-15"
 ## Definição Sintética
 Distinção entre destinos/verdades já postos e uma verdade futura construída por consciências livres.
 
+## Etimologia e Grafias
+- Forma preferida: **Verdade Posta × Verdade a Construir**.
+
+
 ## Contexto / Origem
 Extraído da live P2025-10-25 — 2ª Edição Estagiários do Kaos.
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Liberdade Mental (premissa do Quarto Logos) | RC-253 | — |
+| Imperativo Categórico da Moral | RC-328 | — |
+| Lavagem Cerebral (condicionamento) | RC-335 | opõe-se-a |
+| Protocolo da Busca | RC-566 | relaciona-se-a |
+| Revelação de Ifá e Destinação dos Seres | RC-655 | relaciona-se-a |
+| Ciência Pessoal / Doutrina da Própria Personalidade | RC-695 | ← relaciona-se-a |
+| Camuflagem da Realidade | RC-702 | ← relaciona-se-a |
+| Camuflagem da Realidade | RC-702 | relaciona-se-a |
+| Postulados Quânticos como Manual Operativo | RC-703 | associado |
+| Choque de Realidade (o perpétuo espanto dos donos da verdade) | RC-867 | associado |
+| Genoma da Dignidade (o código esquecido na criação) | RC-868 | associado |
+| Mentalidade Comum (o contágio do rebanho) | RC-869 | associado |
+
+## Seres Associados
+Consultar relações na Base.
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
+| P2022-11-26 | Choque de Realidade – o Perpétuo Espanto dos Donos da Verdade (palestra) | — | transcrição automatizada; citação |
+| P2025-10-25 | ver dossiê e transcrição | live/STT |
 
 ## Citações-chave
 > Ver P2025-10-25.
@@ -43,35 +73,5 @@ Extraído da live P2025-10-25 — 2ª Edição Estagiários do Kaos.
 Certezas indevidas e transtornos cognitivos são tratados como obstáculos à Camuflagem da Realidade. A palestra reafirma que não se deve dar por sabido aquilo que ainda precisa ser verificado. Uso clínico é excluído: trata-se de eixo epistemológico/retórico.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o bloco citado desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
 
-## Etimologia e Grafias
-- Forma preferida: **Verdade Posta × Verdade a Construir**.
-
-
-## Seres Associados
-Consultar relações na Base.
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Liberdade Mental (premissa do Quarto Logos) | RC-253 | — |
-| Imperativo Categórico da Moral | RC-328 | — |
-| Lavagem Cerebral (condicionamento) | RC-335 | opõe-se-a |
-| Protocolo da Busca | RC-566 | relaciona-se-a |
-| Revelação de Ifá e Destinação dos Seres | RC-655 | relaciona-se-a |
-| Ciência Pessoal / Doutrina da Própria Personalidade | RC-695 | ← relaciona-se-a |
-| Camuflagem da Realidade | RC-702 | ← relaciona-se-a |
-| Camuflagem da Realidade | RC-702 | relaciona-se-a |
-| Postulados Quânticos como Manual Operativo | RC-703 | associado |
-| Choque de Realidade (o perpétuo espanto dos donos da verdade) | RC-867 | associado |
-| Genoma da Dignidade (o código esquecido na criação) | RC-868 | associado |
-| Mentalidade Comum (o contágio do rebanho) | RC-869 | associado |
-
 ## Observações
 Termo candidato, sujeito a cruzamento com obras e palestras adicionais.
-
-## Fontes
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
-| P2022-11-26 | Choque de Realidade – o Perpétuo Espanto dos Donos da Verdade (palestra) | — | transcrição automatizada; citação |
-| P2025-10-25 | ver dossiê e transcrição | live/STT |

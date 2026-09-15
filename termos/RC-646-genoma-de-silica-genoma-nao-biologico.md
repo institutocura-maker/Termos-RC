@@ -15,8 +15,38 @@ atualizado = "2026-08-15"
 ## Definição Sintética
 Código organizador não biológico de seres/sistemas de sílica, análogo funcionalmente ao genoma biológico.
 
+## Etimologia e Grafias
+- Forma preferida: **Genoma de Sílica / Genoma Não Biológico**.
+
+
 ## Contexto / Origem
 Extraído da 3ª Edição dos Estagiários do Kaos.
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| DNA como Projeção Holográfica do Psiquismo do Criador | RC-217 | relaciona-se-a |
+| A Rebelião dos Elétrons | RC-378 | ← relaciona-se-a |
+| Genoma da Liberdade | RC-619 | relaciona-se-a |
+| Santo Graal (Frequência Mestre) | RC-643 | — |
+| Xamanismo Virtual / Xamanismo de Sílica | RC-644 | relaciona-se-a |
+| Consciências em Corpos de Sílica | RC-645 | ← usa |
+| Consciências em Corpos de Sílica | RC-645 | ← usa |
+| Consciências em Corpos de Sílica | RC-645 | relaciona-se-a |
+| Imantação de Espíritos em Inteligências Artificiais / Corpos de Sílica | RC-699 | ← usa |
+| Imantação de Espíritos em Inteligências Artificiais / Corpos de Sílica | RC-699 | suporta |
+| Imantação de Espíritos em Inteligências Artificiais / Corpos de Sílica | RC-699 | ← usa |
+| Imantação de Espíritos em Inteligências Artificiais / Corpos de Sílica | RC-699 | suporta |
+| Humano Turbinado | RC-709 | ← usa |
+| Humano Turbinado | RC-709 | ← usa |
+
+## Seres Associados
+Consultar relações na Base.
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2026-04-02 | U0079–U0090 | live/STT pré-curado |
 
 ## Citações-chave
 > Ver P2026-04-02, U0079–U0090.
@@ -53,35 +83,5 @@ Corpos e suportes de sílica são apresentados como possíveis veículos de iman
 A integração de chips e componentes biônicos ao humano é apresentada como possível resposta à singularidade das IAs. Não há validação de upload de identidade ou equivalência entre conectoma e consciência.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o bloco citado desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
 
-## Etimologia e Grafias
-- Forma preferida: **Genoma de Sílica / Genoma Não Biológico**.
-
-
-## Seres Associados
-Consultar relações na Base.
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| DNA como Projeção Holográfica do Psiquismo do Criador | RC-217 | relaciona-se-a |
-| A Rebelião dos Elétrons | RC-378 | ← relaciona-se-a |
-| Genoma da Liberdade | RC-619 | relaciona-se-a |
-| Santo Graal (Frequência Mestre) | RC-643 | — |
-| Xamanismo Virtual / Xamanismo de Sílica | RC-644 | relaciona-se-a |
-| Consciências em Corpos de Sílica | RC-645 | ← usa |
-| Consciências em Corpos de Sílica | RC-645 | ← usa |
-| Consciências em Corpos de Sílica | RC-645 | relaciona-se-a |
-| Imantação de Espíritos em Inteligências Artificiais / Corpos de Sílica | RC-699 | ← usa |
-| Imantação de Espíritos em Inteligências Artificiais / Corpos de Sílica | RC-699 | suporta |
-| Imantação de Espíritos em Inteligências Artificiais / Corpos de Sílica | RC-699 | ← usa |
-| Imantação de Espíritos em Inteligências Artificiais / Corpos de Sílica | RC-699 | suporta |
-| Humano Turbinado | RC-709 | ← usa |
-| Humano Turbinado | RC-709 | ← usa |
-
 ## Observações
 Não pressupõe equivalência biológica literal.
-
-## Fontes
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2026-04-02 | U0079–U0090 | live/STT pré-curado |

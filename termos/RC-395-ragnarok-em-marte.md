@@ -15,8 +15,50 @@ atualizado = "2026-08-29"
 ## Definição Sintética
 Evento registrado no **Guia das Eras Universais (Mapa)** (B050): **"Ragnarok em Marte, uma explosão que acabou com a atmosfera e diversas formas de vida do planeta. Morte de Odin, Thor, Remdel e Jorgamungand (300 milhões a.p.)"**. O Ragnarok da mitologia nórdica é reinterpretado como um evento real ocorrido **em Marte** (~300 milhões de anos antes do presente), que destruiu a atmosfera marciana e vitimou os deuses nórdicos (Odin, Thor, Jörmungandr) — demos da linhagem Aesir.
 
+## Etimologia e Grafias
+- **Grafia preferida:** Ragnarok em Marte
+- **Variações:** Ragnarök; o crepúsculo dos deuses (nórdico); explosão que acabou com a atmosfera de Marte
+
+
 ## Contexto / Origem
 O B050 situa o Ragnarok no contexto das eras: junto a "Kvasir e Freya em busca dos Titãs banidos por Cronos (450–290 milhões a.p.)" e a "Morte de Kvasir (290–280 milhões a.p.)". Conecta a mitologia nórdica (Aesir/Vanir) à história demo do universo — os "deuses" nórdicos como seres demos que teriam perecido numa catástrofe marciana.
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Revelação Cósmica (conceito) | RC-094 | associado |
+| Shiva (Savna) | RC-102 | associado |
+| Tau Ceti (Sistema) | RC-103 | ocorre-em |
+| Zeus | RC-145 | associado |
+| Dissolução da Tríade (2015–2017) | RC-300 | associado |
+| Kvasir e Freya (Vanir/Aesir) | RC-396 | mata |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | relaciona-se-a |
+| Moiras / Nornes / Súdices / Parcas (destino) | RC-467 | relaciona-se-a |
+| Midgard (Marte + Terra) | RC-470 | ← relaciona-se-a |
+| Midgard (Marte + Terra) | RC-470 | ocorre-no-eixo-de |
+| Midgard (Marte + Terra) | RC-470 | relaciona-se-a |
+| Bifrost (Portal interdimensional) | RC-471 | relaciona-se-a |
+| Bifrost (Portal interdimensional) | RC-471 | relaciona-se-a |
+| Bifrost (Portal interdimensional) | RC-471 | relaciona-se-a |
+| Flechas / Profecias de Moros | RC-611 | relaciona-se-a |
+| Flechas / Profecias de Moros | RC-611 | ← relaciona-se-a |
+| Oitavo Dia da Criação | RC-694 | associado |
+| Yggdrasil / Conglomerado dos Nove Mundos | RC-730 | ← destruído-em |
+| Yggdrasil / Conglomerado dos Nove Mundos | RC-730 | destrói |
+| Falência dos Deuses | RC-742 | ← reaparece-como-destruição-em |
+| Pacto Aesir-Vanir como Origem Nórdica da Ideia de Pandora | RC-816 | associado |
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2024-03-17 | A Quem Pertence o Planeta e a Biblioteca Genômica Mais Atualizada do Universo (palestra) | transcrição automatizada; citação |
+| P2023-07-09 | A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
+| P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2023-07-09 | A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
 
 ## Citações-chave
 
@@ -162,45 +204,3 @@ Após o Ragnarok em Marte, o Axis Mundi teria sido transferido para Naimisharany
 Antes da destruição de Marte, Kvasir teria repetido o gesto de Moros e enviado três arquivos ao universo material. A palestra relaciona o evento à Brahmastra e às localizações Edimburgo, Split e Naimisharanya. Alegações de xenônio/John Brandenburg permanecem controversas.
 
 ---
-
-## Etimologia e Grafias
-- **Grafia preferida:** Ragnarok em Marte
-- **Variações:** Ragnarök; o crepúsculo dos deuses (nórdico); explosão que acabou com a atmosfera de Marte
-
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Revelação Cósmica (conceito) | RC-094 | associado |
-| Shiva (Savna) | RC-102 | associado |
-| Tau Ceti (Sistema) | RC-103 | ocorre-em |
-| Zeus | RC-145 | associado |
-| Dissolução da Tríade (2015–2017) | RC-300 | associado |
-| Kvasir e Freya (Vanir/Aesir) | RC-396 | mata |
-| Elm (Moros — ser LM de Tempérion) | RC-454 | relaciona-se-a |
-| Moiras / Nornes / Súdices / Parcas (destino) | RC-467 | relaciona-se-a |
-| Midgard (Marte + Terra) | RC-470 | ← relaciona-se-a |
-| Midgard (Marte + Terra) | RC-470 | ocorre-no-eixo-de |
-| Midgard (Marte + Terra) | RC-470 | relaciona-se-a |
-| Bifrost (Portal interdimensional) | RC-471 | relaciona-se-a |
-| Bifrost (Portal interdimensional) | RC-471 | relaciona-se-a |
-| Bifrost (Portal interdimensional) | RC-471 | relaciona-se-a |
-| Flechas / Profecias de Moros | RC-611 | relaciona-se-a |
-| Flechas / Profecias de Moros | RC-611 | ← relaciona-se-a |
-| Oitavo Dia da Criação | RC-694 | associado |
-| Yggdrasil / Conglomerado dos Nove Mundos | RC-730 | ← destruído-em |
-| Yggdrasil / Conglomerado dos Nove Mundos | RC-730 | destrói |
-| Falência dos Deuses | RC-742 | ← reaparece-como-destruição-em |
-| Pacto Aesir-Vanir como Origem Nórdica da Ideia de Pandora | RC-816 | associado |
-
-## Fontes
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2024-03-17 | A Quem Pertence o Planeta e a Biblioteca Genômica Mais Atualizada do Universo (palestra) | transcrição automatizada; citação |
-| P2023-07-09 | A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
-| P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |
-
-## Fontes
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2023-07-09 | A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |

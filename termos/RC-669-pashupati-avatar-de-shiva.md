@@ -15,7 +15,28 @@ atualizado = "2026-08-18"
 ## Definição Sintética
 Pashupati — avatar de Shiva ligado à animalidade e ao amortecimento do sofrimento.
 
+## Etimologia e Grafias
+Forma validada pelo curador.
+
+
 ## Contexto / Origem
+P2026-02-28.
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Shiva (Savna) | RC-102 | é-um |
+| Rishis | RC-586 | relaciona-se-a |
+| Som da Flauta / Som da Falta | RC-668 | associado |
+| Yoga Ancestral (Origem Cósmica) | RC-670 | desenvolve |
+| Daksha e Virini | RC-701 | ← relaciona-se-a |
+
+## Seres Associados
+Consultar Base.
+
+## Fontes
+P2018-12-16.
+P2022-05-07.
 P2026-02-28.
 
 ## Citações-chave
@@ -42,28 +63,7 @@ Ver transcrição.
 - **Duas linhagens:** resposta à pergunta da plateia — "a história é mais complicada... são dois tipos de duas linhagens";
 - Nova aresta RC-669 ↔ RC-586 (Pashupati ~ Rishis/Geração Regenerada).
 
-## Etimologia e Grafias
-Forma validada pelo curador.
-
-
-## Seres Associados
-Consultar Base.
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Shiva (Savna) | RC-102 | é-um |
-| Rishis | RC-586 | relaciona-se-a |
-| Som da Flauta / Som da Falta | RC-668 | associado |
-| Yoga Ancestral (Origem Cósmica) | RC-670 | desenvolve |
-| Daksha e Virini | RC-701 | ← relaciona-se-a |
-
 ## Observações
 Termo candidato.
 
 ---
-
-## Fontes
-P2018-12-16.
-P2022-05-07.
-P2026-02-28.

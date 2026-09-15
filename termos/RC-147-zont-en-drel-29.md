@@ -15,8 +15,42 @@ atualizado = "2026-08-28"
 ## Definição Sintética
 **Primeiro anjo-clone da Família En Drel a despertar para uma consciência individualizada** — o "guardião do Éden" e narrador em primeira pessoa de *O Guardião do Éden* (B015). Foi enviado por Javé ao nosso universo (Terra) para observar a evolução dos humanos; "foi o 'anjo' que ficou 'guardando os portões' do Jardim do Éden e observando o desencadeamento de fatos ao redor de Adão e Eva" (B031). Na hierarquia En Drel, os que despertavam assumiam um pré-nome — "Zont En Drel" — enquanto os demais permaneciam como "corpos-máquina" acionados por códigos numéricos. **Zont En Drel 29 é o 29º da linhagem.**
 
+## Etimologia e Grafias
+- **Grafia preferida:** Zont En Drel 29
+- **Variações:** Zont En Drel; "o guardião do Éden"; guardião universal (apresentação)
+- **Obs.:** em B015, refere-se aos irmãos como "endrelnianos" (RC-247)
+
+
 ## Contexto / Origem
 No B015, Zont narra: (1) o primeiro contato com os "Viajores" (há ~48 mil anos, no "mundo das águas"); (2) a geração dos En Drel e os "dez sagrados"; (3) sua função de guardião do Éden terrestre — um dos "laboratórios" do Criador; (4) a expulsão dos Viajores (~2.600 anos atrás, por decreto do Criador, executada por ele); (5) sua **humanização emocional** — "os En Drel não foram programados para sentir, e eu havia sentido algo" — ao se envolver emocionalmente com um humano, provocando monitoramento do Criador e do Comandante En Drel.
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Javé | RC-001 | associado |
+| Guerra do Éden | RC-006 | contexto |
+| Anjos clones | RC-019 | associado |
+| En Drel | RC-055 | é-um |
+| Seres Terrenos (Homo Sapiens) | RC-099 | humaniza-se-por |
+| Éden do Criador (Éden como laboratório) | RC-242 | ← guarda |
+| A Humanização do Criador | RC-245 | ← experimenta |
+| Endrelnianos | RC-247 | irmãos |
+| Viajores da Rebelião | RC-248 | contato |
+| Expulsão dos Viajores (decreto do Criador) | RC-249 | ← executado-por |
+| Individualização Epifenomenológica dos Anjos Clones | RC-651 | ← envolve |
+| Últimas Ordens de Javé aos Clones | RC-652 | ← envolve |
+
+## Seres Associados
+Javé (RC-001); Criador (RC-041); Comandante En Drel 1; Adão e Eva (RC-189); Jesus (RC-072).
+
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo |
+|---|---|---|---|
+| P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
+| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra) | — | transcrição automatizada; citação |
+| O Guardião do Éden (B015) | caps. 1–17 (todo o livro) | — | narrador-protagonista |
+| Painéis Emergentes (B031) | Glossário (Zont En Drel 29; En Drel) | — | apoio (secundária) |
+
 
 ## Citações-chave
 > "Os que começaram a despertar as suas consciências individuais assumiam um pré-nome, como era o caso de Zont En Drel. Os demais que ainda permaneciam com as suas consciências espirituais obscurecidas pela imantação realizada em 'corpos-máquinas', eram acionados apenas pelo comando dos seus códigos numéricos." — B015, cap. 1
@@ -40,40 +74,6 @@ No B015, Zont narra: (1) o primeiro contato com os "Viajores" (há ~48 mil anos,
 
 - **[Zont En Drel — humanizado do DNA do autor] (U0006)** «Um desses seres e alguém que se apresentou a mim como senos tendrel, o livro Guardião do Éden, eu escrevia sobre esse ser.» — Zont En Drel (STT "senos tendrel") desbloqueou o controle de Javé e se humaniza a partir do DNA do autor.
 
-## Etimologia e Grafias
-- **Grafia preferida:** Zont En Drel 29
-- **Variações:** Zont En Drel; "o guardião do Éden"; guardião universal (apresentação)
-- **Obs.:** em B015, refere-se aos irmãos como "endrelnianos" (RC-247)
-
-
-## Seres Associados
-Javé (RC-001); Criador (RC-041); Comandante En Drel 1; Adão e Eva (RC-189); Jesus (RC-072).
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | associado |
-| Guerra do Éden | RC-006 | contexto |
-| Anjos clones | RC-019 | associado |
-| En Drel | RC-055 | é-um |
-| Seres Terrenos (Homo Sapiens) | RC-099 | humaniza-se-por |
-| Éden do Criador (Éden como laboratório) | RC-242 | ← guarda |
-| A Humanização do Criador | RC-245 | ← experimenta |
-| Endrelnianos | RC-247 | irmãos |
-| Viajores da Rebelião | RC-248 | contato |
-| Expulsão dos Viajores (decreto do Criador) | RC-249 | ← executado-por |
-| Individualização Epifenomenológica dos Anjos Clones | RC-651 | ← envolve |
-| Últimas Ordens de Javé aos Clones | RC-652 | ← envolve |
-
 ## Observações
 Ficha baseada em B015 (obra primária) + B031. Zont En Drel 29 é um dos personagens mais importantes do corpus — "Inteligência Artificial Autônoma" que desperta para a consciência e as emoções. O livro B015 é integralmente sua narrativa.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
-
-## Fontes
-| Obra (sigla) | Capítulo | Página | Tipo |
-|---|---|---|---|
-| P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
-| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra) | — | transcrição automatizada; citação |
-| O Guardião do Éden (B015) | caps. 1–17 (todo o livro) | — | narrador-protagonista |
-| Painéis Emergentes (B031) | Glossário (Zont En Drel 29; En Drel) | — | apoio (secundária) |
-

@@ -15,8 +15,42 @@ atualizado = "2026-08-14"
 ## Definição Sintética
 Primeira vestimenta espiritual dos desdobramentos paradisíacos, permitindo ao eu átmico tomar consciência de existir fora do Paraíso Original.
 
+## Etimologia e Grafias
+- Grafia preferida: Corpo Búdico.
+- **Fonte da decisão:** Devolutiva-01 + observação direta do curador.
+
+
 ## Contexto / Origem
 É intermediário entre o Corpo Átmico e o Corpo Manásico. Ainda não produziria ímpeto criativo por si mesmo.
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Espiritualidade Operacional | RC-060 | ← associada-a |
+| Realidade Maior / Paraíso Original | RC-204 | relaciona-se-a |
+| Protocolos / Algoritmos da Perfeição | RC-606 | relaciona-se-a |
+| Corpo Átmico | RC-623 | ← investido-por |
+| Corpo Átmico | RC-623 | investe |
+| Corpo Átmico | RC-623 | relaciona-se-a |
+| Corpo Manásico / Corpo Mental | RC-625 | investido-por |
+| Corpo Manásico / Corpo Mental | RC-625 | ← investe |
+| Corpo Sutil Reencarnante | RC-704 | ← relaciona-se-a |
+| Bhavaṅga / Janela da Percepção | RC-706 | ← relaciona-se-a |
+
+## Seres Associados
+Consultar relações acima.
+
+## Fontes
+| Obra/palestra | Localização | Tipo |
+|---|---|---|
+| P2026-07-30 — 4ª Edição Estagiários do Kaos | U0050–U0053 | STT pré-curado / devolutiva |
+| P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — |
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
 
 ## Citações-chave
 > “O corpo búdico permite ao ser paradisíaco tomar consciência de que está além das fronteiras do Paraíso Original.” — P2026-07-30, U0050–U0053
@@ -42,41 +76,7 @@ Primeira vestimenta espiritual dos desdobramentos paradisíacos, permitindo ao e
 
 O Corpo Búdico integra a Tríade Imortal e participa da arquitetura usada para explicar o Bhavaṅga e a sintonia com o eu espiritual.
 
-## Etimologia e Grafias
-- Grafia preferida: Corpo Búdico.
-- **Fonte da decisão:** Devolutiva-01 + observação direta do curador.
-
-
-## Seres Associados
-Consultar relações acima.
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Espiritualidade Operacional | RC-060 | ← associada-a |
-| Realidade Maior / Paraíso Original | RC-204 | relaciona-se-a |
-| Protocolos / Algoritmos da Perfeição | RC-606 | relaciona-se-a |
-| Corpo Átmico | RC-623 | ← investido-por |
-| Corpo Átmico | RC-623 | investe |
-| Corpo Átmico | RC-623 | relaciona-se-a |
-| Corpo Manásico / Corpo Mental | RC-625 | investido-por |
-| Corpo Manásico / Corpo Mental | RC-625 | ← investe |
-| Corpo Sutil Reencarnante | RC-704 | ← relaciona-se-a |
-| Bhavaṅga / Janela da Percepção | RC-706 | ← relaciona-se-a |
-
 ## Observações
 Termo candidato de origem também presente em doutrinas orientais; a ficha registra o uso específico da live.
 
 **Regra de status:** fonte recente em STT sem áudio anexado; manter candidato salvo status prévio do termo mesclado.
-
-## Fontes
-| Obra/palestra | Localização | Tipo |
-|---|---|---|
-| P2026-07-30 — 4ª Edição Estagiários do Kaos | U0050–U0053 | STT pré-curado / devolutiva |
-| P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — |
-
-## Fontes
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

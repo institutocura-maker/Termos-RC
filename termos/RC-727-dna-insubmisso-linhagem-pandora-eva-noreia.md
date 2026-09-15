@@ -16,6 +16,30 @@ atualizado = "2026-08-29"
 Na genealogia comparada de Jan Val Ellam, linhagem de códigos humanos insubmissos ao controle dos deuses, associada a Pandora, Eva e Noreia e contraposta a códigos de submissão atribuídos à linhagem de Adão.
 
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Pandora | RC-086 | inclui |
+| Entropia e Negentropia | RC-160 | associado |
+| Eva (figura) | RC-189 | inclui |
+| Pandora como Serpente do Éden | RC-283 | relaciona-se-a |
+| Genética Totalitária | RC-325 | opõe-se-a |
+| Genética Totalitária | RC-325 | ← opõe-se-a |
+| Enki (Anunnaki; inoculou o gene FOXP2) | RC-486 | atribuída-em-teologia-comparada-a |
+| Semente da racionalidade (diferencial humano) | RC-525 | ← manifesta-descontinuidade-em |
+| Noreia (Norea) | RC-579 | inclui |
+| Noreia (Norea) | RC-579 | ← relaciona-se-a |
+| Genoma da Liberdade | RC-619 | relaciona-se-a |
+| Ponto de Luz Humano / Ilha de Negentropia | RC-725 | associado |
+| Humanos como Cobaias dos Deuses | RC-802 | associado |
+| Padrão de Consciência Genético por Espécie | RC-807 | associado |
+| Código Genético como Marca da Herança Demoníaca | RC-825 | associado |
+| Alexandre Magno (tirano sob influência de Lemion) | RC-850 | associado |
+| Elo Adâmico (o gene que Javé pôs em Adão) | RC-857 | associado |
+| DNA Neutralizado (código neutralizado de podridão do criador) | RC-864 | associado |
+
+> Notas de processo: 2 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-727.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
+
 ## Ampliação
 ### P2026-07-25
 
@@ -172,31 +196,8 @@ Na genealogia comparada de Jan Val Ellam, linhagem de códigos humanos insubmiss
 - **[Os humanos: inocentes úteis] (U0004)** «Do jeito que cachorrinho e gato hoje são nossos animais de estimação, nesse passado, os humanos funcionavam mais assim, como inocentes úteis, usados por forças mais poderosas, mais espertas, que tinham seus objetivos.» — "o mal existia no sentido de que nós, os humanos, nessa época éramos mais animais de estimação de outros seres" (U0004: «os humanos, nessa época éramos mais animais de estimação de outros seres»).
 
 
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Pandora | RC-086 | inclui |
-| Entropia e Negentropia | RC-160 | associado |
-| Eva (figura) | RC-189 | inclui |
-| Pandora como Serpente do Éden | RC-283 | relaciona-se-a |
-| Genética Totalitária | RC-325 | opõe-se-a |
-| Genética Totalitária | RC-325 | ← opõe-se-a |
-| Enki (Anunnaki; inoculou o gene FOXP2) | RC-486 | atribuída-em-teologia-comparada-a |
-| Semente da racionalidade (diferencial humano) | RC-525 | ← manifesta-descontinuidade-em |
-| Noreia (Norea) | RC-579 | inclui |
-| Noreia (Norea) | RC-579 | ← relaciona-se-a |
-| Genoma da Liberdade | RC-619 | relaciona-se-a |
-| Ponto de Luz Humano / Ilha de Negentropia | RC-725 | associado |
-| Humanos como Cobaias dos Deuses | RC-802 | associado |
-| Padrão de Consciência Genético por Espécie | RC-807 | associado |
-| Código Genético como Marca da Herança Demoníaca | RC-825 | associado |
-| Alexandre Magno (tirano sob influência de Lemion) | RC-850 | associado |
-| Elo Adâmico (o gene que Javé pôs em Adão) | RC-857 | associado |
-| DNA Neutralizado (código neutralizado de podridão do criador) | RC-864 | associado |
-
-> Notas de processo: 2 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-727.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
-
-## Selo temporal — P2025-07-18 — divergência Pandora / Eva–Adão
+## Observações
+### Selo temporal — P2025-07-18 — divergência Pandora / Eva–Adão
 
 - **[P2025-07-18]** A palestra registra **Pandora em aproximadamente 49.000 anos** e **Eva/Adão em aproximadamente 22–23.000 anos**.
 - **Regra de preservação:** esta é uma marca temporal da fonte P2025-07-18. Não se faz média, correção ou fusão retroativa com os registros anteriores da linhagem. As cronologias permanecem divergentes até nova decisão curatorial.

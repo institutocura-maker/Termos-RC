@@ -17,6 +17,26 @@ atualizado = "2026-08-29"
 Livro gnóstico (séculos I–III d.C.), também chamado "A Realidade dos Regentes", considerado pelos estudiosos uma exegese gnóstica dos seis primeiros capítulos do Gênesis. Uma cópia em copta foi encontrada em 1945 na Biblioteca de Nag Hammadi. Apresentado como discurso de revelação entre um anjo (provavelmente Sophia, que produziu Jesus) e um interrogador. Para Ellam, é o livro que melhor descreve o conselho dos arcontes, com seus oito personagens principais: Samael/Saklas/Ialdabaoth/Sabaoth (= Javé); a mulher espiritual que estimula Adão e engana os soberanos; a águia mentora (a "serpente" do Éden); Noreia, filha de Eva; o anjo Eleleth, que revela a Noreia a origem e o destino do poder dos arcontes; Pistis Sophia (epíteto do criador antes da queda = Prabrajna); Moros (o único que sabe o destino dos arcontes); e a teia do destino (Wyrd/Moiras/Nornas).
 
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Sophia (Cristo Cósmico) | RC-009 | associado |
+| Jesus | RC-072 | relaciona-se-a |
+| Prabrajna | RC-152 | relaciona-se-a |
+| Sophia e a Ressurreição de Jesus | RC-280 | associado |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | relaciona-se-a |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | ← relaciona-se-a |
+| Arcontes (= Sophias e Indras; Conselho dos 70) | RC-474 | relaciona-se-a |
+| Arcontes (= Sophias e Indras; Conselho dos 70) | RC-474 | ← relaciona-se-a |
+| Ialdabaoth (= Javé/Samael/Saklas/Sabaoth) | RC-482 | relaciona-se-a |
+| Dinastia das Sophias | RC-494 | associado |
+| Pistis Sophia (feminino cósmico gnóstico) | RC-530 | relaciona-se-a |
+| Noreia (Norea) | RC-579 | relaciona-se-a |
+| Wyrd / Urd (Teia do Destino) | RC-658 | relaciona-se-a |
+| Nag Hammadi (a biblioteca egípcia onde em 1945 foi encontrada a cópia copta da Hipóstase dos Arcontes — STT «Naghama»; marco físico e histórico da recuperação da revelação gnóstica original) | RC-887 | ← relaciona-se-a |
+| Nag Hammadi (a biblioteca egípcia onde em 1945 foi encontrada a cópia copta da Hipóstase dos Arcontes — STT «Naghama»; marco físico e histórico da recuperação da revelação gnóstica original) | RC-887 | relaciona-se-a |
+
+
 ## Citações-chave
 
 > Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
@@ -58,23 +78,3 @@ Livro gnóstico (séculos I–III d.C.), também chamado "A Realidade dos Regent
 ### P2022-11-19 (No Princípio era o Bem! Será)
 
 - **[A Humildade de João: o Verbo acima do Criador] (U0033)** «Então tudo que foi feito foi feito pelo verbo criador, porque sem esse verbo, nada do que foi feito teria sido feito sozinho pelo criador.» — João humilhou publicamente o Deus dos judeus: sem o Verbo (Jesus), nada do que o Criador fez teria sido feito sozinho; o mesmo processo de Brama/Vishnu na mitologia hindu — «Brama é o criador, mas quem de fato ajeitou tudo foi Virgo» (Vishnu) (RC-770 Hipóstase; RC-072 Jesus; RC-104 Trimurti).
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Sophia (Cristo Cósmico) | RC-009 | associado |
-| Jesus | RC-072 | relaciona-se-a |
-| Prabrajna | RC-152 | relaciona-se-a |
-| Sophia e a Ressurreição de Jesus | RC-280 | associado |
-| Elm (Moros — ser LM de Tempérion) | RC-454 | relaciona-se-a |
-| Elm (Moros — ser LM de Tempérion) | RC-454 | ← relaciona-se-a |
-| Arcontes (= Sophias e Indras; Conselho dos 70) | RC-474 | relaciona-se-a |
-| Arcontes (= Sophias e Indras; Conselho dos 70) | RC-474 | ← relaciona-se-a |
-| Ialdabaoth (= Javé/Samael/Saklas/Sabaoth) | RC-482 | relaciona-se-a |
-| Dinastia das Sophias | RC-494 | associado |
-| Pistis Sophia (feminino cósmico gnóstico) | RC-530 | relaciona-se-a |
-| Noreia (Norea) | RC-579 | relaciona-se-a |
-| Wyrd / Urd (Teia do Destino) | RC-658 | relaciona-se-a |
-| Nag Hammadi (a biblioteca egípcia onde em 1945 foi encontrada a cópia copta da Hipóstase dos Arcontes — STT «Naghama»; marco físico e histórico da recuperação da revelação gnóstica original) | RC-887 | ← relaciona-se-a |
-| Nag Hammadi (a biblioteca egípcia onde em 1945 foi encontrada a cópia copta da Hipóstase dos Arcontes — STT «Naghama»; marco físico e histórico da recuperação da revelação gnóstica original) | RC-887 | relaciona-se-a |
-

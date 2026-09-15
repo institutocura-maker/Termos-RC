@@ -28,18 +28,6 @@ Com isso:
 
 **Origem do conteúdo da ampliação:** palestra `P2025-05-10 — Mistérios do Apocalipse` (10/05/2025). Transcrição automatizada, **não conferida com o áudio**; cada aspa foi recortada do `original.txt` pelo índice de âncoras do motor e conferida byte a byte pelo portão B. Nada foi digitado de memória.
 
-## Citações-chave
-
-> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
-
-- «Mas na época que Jesus nasceu, existia uma coletâine em grego chamado Septoaginta, que era composta não de 46 livros como Antigo Testamento, mas de 47, porque o livro de Enoque fazia parte.» — *ver:* **Ampliação — P2025-05-10 (Mistérios do Apocalipse)** U0003
-
-
-## Ampliação
-### P2025-05-10 (Mistérios do Apocalipse)
-
-- **[A Septuaginta e o livro de Enoque] (U0003)** «Mas na época que Jesus nasceu, existia uma coletâine em grego chamado Septoaginta, que era composta não de 46 livros como Antigo Testamento, mas de 47, porque o livro de Enoque fazia parte.» — a Septuaginta (RC-096) tinha 47 livros — não 46 — 'porque o livro de Enoque fazia parte'; Jesus lia em hebraico/aramaico.
-
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
@@ -54,7 +42,20 @@ Com isso:
 | P2025-05-10 | Mistérios do Apocalipse (palestra) | — | transcrição automatizada; citação |
 | B031 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
 
-## Observações sobre o Estado da Malha
+## Citações-chave
+
+> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+
+- «Mas na época que Jesus nasceu, existia uma coletâine em grego chamado Septoaginta, que era composta não de 46 livros como Antigo Testamento, mas de 47, porque o livro de Enoque fazia parte.» — *ver:* **Ampliação — P2025-05-10 (Mistérios do Apocalipse)** U0003
+
+
+## Ampliação
+### P2025-05-10 (Mistérios do Apocalipse)
+
+- **[A Septuaginta e o livro de Enoque] (U0003)** «Mas na época que Jesus nasceu, existia uma coletâine em grego chamado Septoaginta, que era composta não de 46 livros como Antigo Testamento, mas de 47, porque o livro de Enoque fazia parte.» — a Septuaginta (RC-096) tinha 47 livros — não 46 — 'porque o livro de Enoque fazia parte'; Jesus lia em hebraico/aramaico.
+
+## Observações
+### Observações sobre o Estado da Malha
 
 * **Grafia STT:** 'Septoaginta' = Septuaginta. 47 livros (46 + Enoque); 'vulgata' = Bíblia em latim do séc. da era cristã, 73 livros.
 * **Trava aplicável**: nenhuma além das gerais do despacho.

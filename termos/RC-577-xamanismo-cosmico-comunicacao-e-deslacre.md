@@ -15,8 +15,44 @@ atualizado = "2026-08-18"
 ## Definição Sintética
 No uso da palestra, protocolo antigo de comunicação entre o universo antimaterial e humanos, envolvendo plantas capazes de alterar padrões de consciência considerados lacrados.
 
+## Etimologia e Grafias
+- Grafia preferida: Xamanismo Cósmico. STT: chamanismo, ch humanismo.
+- **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
+
+
 ## Contexto / Origem
 É situado nos últimos 52 mil anos e relacionado, na fala, à manipulação de raízes e ao surgimento do gene FOXP2.
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Entropia e Negentropia | RC-160 | relaciona-se-a |
+| Foz Côa / FOXP2 (símbolos) | RC-400 | relaciona-se-a |
+| Deslacre (rompimento dos lacres psíquicos) | RC-448 | relaciona-se-a |
+| Semente da racionalidade (diferencial humano) | RC-525 | relaciona-se-a |
+| Travas e lacres (mecanismos de controle do despertar) | RC-563 | relaciona-se-a |
+| Xamanismo Virtual / Xamanismo de Sílica | RC-644 | ← deriva-de |
+| Descendência de Kadru (Nagas, Uragas e Maharagas) | RC-664 | ← relaciona-se-a |
+| Descendência de Kadru (Nagas, Uragas e Maharagas) | RC-664 | relaciona-se-a |
+| Plantas de Moléculas Complexas | RC-686 | ← relaciona-se-a |
+| Farmacopeia Ancestral Extraterrestre | RC-687 | relaciona-se-a |
+| Farmacopeia Ancestral Extraterrestre | RC-687 | ← relaciona-se-a |
+| Farmacopeia Ancestral Extraterrestre | RC-687 | relaciona-se-a |
+| Farmacopeia Ancestral Extraterrestre | RC-687 | relaciona-se-a |
+| Farmacopeia Ancestral Extraterrestre | RC-687 | ← relaciona-se-a |
+| Yajna (ritual de sacrifício/fogo) | RC-688 | associado |
+| Sangue como Cópia da Seiva | RC-689 | associado |
+| Mão Invisível Multiforme / Conselho das Nagas | RC-697 | ← relaciona-se-a |
+| Quinaras / Centauros (Seres Reais que Hoje Nascem Humanos) | RC-790 | associado |
+
+## Seres Associados
+—
+
+## Fontes
+| Obra/palestra | Localização | Tipo |
+|---|---|---|
+| P2022-12-17 — O Incompreendido Ano de 2012 e a Falsa Noção do Fim do Mundo | U0550–U0557; U0730 | transcrição automatizada; paráfrase e citação |
+| P2026-08-04 | Podcast Irmãos Dias #272 (aliens e a Bíblia) | — |
 
 ## Citações-chave
 > ““Há duas eras equinociais [...] que a gente tenta desenvolver uma forma de comunicação desse universo com os humanos. E o xamanismo foi isso.”” — P2022-12-17, U0550–U0557; U0730
@@ -59,43 +95,7 @@ A palestra relaciona cannabis e outras plantas à expansão de consciência e ao
 
 ---
 
-## Etimologia e Grafias
-- Grafia preferida: Xamanismo Cósmico. STT: chamanismo, ch humanismo.
-- **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
-
-
-## Seres Associados
-—
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Entropia e Negentropia | RC-160 | relaciona-se-a |
-| Foz Côa / FOXP2 (símbolos) | RC-400 | relaciona-se-a |
-| Deslacre (rompimento dos lacres psíquicos) | RC-448 | relaciona-se-a |
-| Semente da racionalidade (diferencial humano) | RC-525 | relaciona-se-a |
-| Travas e lacres (mecanismos de controle do despertar) | RC-563 | relaciona-se-a |
-| Xamanismo Virtual / Xamanismo de Sílica | RC-644 | ← deriva-de |
-| Descendência de Kadru (Nagas, Uragas e Maharagas) | RC-664 | ← relaciona-se-a |
-| Descendência de Kadru (Nagas, Uragas e Maharagas) | RC-664 | relaciona-se-a |
-| Plantas de Moléculas Complexas | RC-686 | ← relaciona-se-a |
-| Farmacopeia Ancestral Extraterrestre | RC-687 | relaciona-se-a |
-| Farmacopeia Ancestral Extraterrestre | RC-687 | ← relaciona-se-a |
-| Farmacopeia Ancestral Extraterrestre | RC-687 | relaciona-se-a |
-| Farmacopeia Ancestral Extraterrestre | RC-687 | relaciona-se-a |
-| Farmacopeia Ancestral Extraterrestre | RC-687 | ← relaciona-se-a |
-| Yajna (ritual de sacrifício/fogo) | RC-688 | associado |
-| Sangue como Cópia da Seiva | RC-689 | associado |
-| Mão Invisível Multiforme / Conselho das Nagas | RC-697 | ← relaciona-se-a |
-| Quinaras / Centauros (Seres Reais que Hoje Nascem Humanos) | RC-790 | associado |
-
 ## Observações
 Distinguir o uso próprio das RC do xamanismo em sentido antropológico geral.
 
 **Regra de status:** permanece ⚪ candidato porque a fonte é STT sem áudio anexado. A aprovação do curador valida a modelagem terminológica, não substitui a futura conferência com áudio ou obra primária.
-
-## Fontes
-| Obra/palestra | Localização | Tipo |
-|---|---|---|
-| P2022-12-17 — O Incompreendido Ano de 2012 e a Falsa Noção do Fim do Mundo | U0550–U0557; U0730 | transcrição automatizada; paráfrase e citação |
-| P2026-08-04 | Podcast Irmãos Dias #272 (aliens e a Bíblia) | — |

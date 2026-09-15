@@ -16,6 +16,30 @@ atualizado = "2026-08-28"
 
 Na RC, deus mesopotâmico identificado como anunnaki filho de Enki, equivalente ao egípcio **Ra** — contexto do panteão anunnaki divinizado no Egito (Enéade, RC-627).
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Javé | RC-001 | ← relaciona-se-a |
+| Anunnaki | RC-024 | é-um |
+| Len Mion (Satã) | RC-074 | relaciona-se-a |
+| Ra-Atom / Og-mi (nomes do Criador) | RC-331 | associado |
+| Guerra Nuclear Anunnaki (Sete Armas Atômicas) | RC-583 | ← envolve |
+| Nibiru | RC-589 | associado |
+| Era de Peixes | RC-592 | relaciona-se-a |
+| Corpo Manásico / Corpo Mental | RC-625 | relaciona-se-a |
+| Enéade de Heliópolis | RC-627 | relaciona-se-a |
+| Relógio Messiânico | RC-765 | ← relaciona-se-a |
+
+## Fontes
+
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
+| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
+| P2023-12-02 | bloco Rá/Amon/corpo manásico; bloco da Enéade | palestra/STT pré-curada |
+
+
+
 ## Citações-chave
 
 > "Rá é o eu, Amon é o corpo despedaçado. Enquanto Javé não for reconstruído... a humanidade vai ser a massa de manobra, onde todos os testes vão ser feitos para que tenham padrões genéticos por trás de todas as sensações existenciais." — P2023-12-02
@@ -57,28 +81,4 @@ Na RC, deus mesopotâmico identificado como anunnaki filho de Enki, equivalente 
 
 
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-460.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
-
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | ← relaciona-se-a |
-| Anunnaki | RC-024 | é-um |
-| Len Mion (Satã) | RC-074 | relaciona-se-a |
-| Ra-Atom / Og-mi (nomes do Criador) | RC-331 | associado |
-| Guerra Nuclear Anunnaki (Sete Armas Atômicas) | RC-583 | ← envolve |
-| Nibiru | RC-589 | associado |
-| Era de Peixes | RC-592 | relaciona-se-a |
-| Corpo Manásico / Corpo Mental | RC-625 | relaciona-se-a |
-| Enéade de Heliópolis | RC-627 | relaciona-se-a |
-| Relógio Messiânico | RC-765 | ← relaciona-se-a |
-
-## Fontes
-
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
-| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
-| P2023-12-02 | bloco Rá/Amon/corpo manásico; bloco da Enéade | palestra/STT pré-curada |
-
 

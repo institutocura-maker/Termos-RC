@@ -16,14 +16,36 @@ atualizado = "2026-08-29"
 
 Na cosmologia de Ellam, o diferencial de racionalidade que tornou os humanos a única descontinuidade em 13,8 bilhões de anos — emergido como acidente no genoma humano e responsável pela capacidade de resolver os problemas pendentes da criação.
 
+## Contexto / Origem
+
+[P2024-08-03] A palestra trata a busca de complexidade de consciência como "tônica em todos os seis ramos da geração regenerada de Brahma", com a falência dos códigos travados e a emergência da descontinuidade humana.
+
 ## Escopo e evidência
 
 - **[P2024-08-03] Unidades:** U0946–U0978; U1005–U1015.
 - **[P2024-08-03] Proveniência:** palestra de Jan Val Ellam; transcrição STT pré-curada; devolutiva do curador registrada em 2026-08-20 (ficha autorizada).
 
-## Contexto / Origem
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Seres Terrenos (Homo Sapiens) | RC-099 | associado |
+| Foz Côa / FOXP2 (símbolos) | RC-400 | relaciona-se-a |
+| Xamanismo Cósmico (comunicação e deslacre) | RC-577 | associado |
+| DNA Insubmisso / Linhagem Pandora–Eva–Noreia | RC-727 | manifesta-descontinuidade-em |
+| Destinação do Lobo | RC-743 | ← é-comparada-à-emergência-de |
 
-[P2024-08-03] A palestra trata a busca de complexidade de consciência como "tônica em todos os seis ramos da geração regenerada de Brahma", com a falência dos códigos travados e a emergência da descontinuidade humana.
+
+- DNA Insubmisso / Linhagem Pandora–Eva–Noreia — RC-727;
+- Ressonância límbica — RC-529;
+- Destinação do Lobo — RC-743.
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
+| P2024-08-03 | U0946–U0978; U1005–U1015 | palestra/STT |
+| P2022-12-17 / P2025-03-15 / P2025-02-16 / P2025-02-15 / P2024-11-30 / P2024-11-09 / B072 | — | obras/palestras |
+
 
 ## Citações-chave
 > "Nós, os humanos, somos a única descontinuidade que aconteceu ao longo de 13,8 bilhões de anos."
@@ -47,28 +69,6 @@ Na cosmologia de Ellam, o diferencial de racionalidade que tornou os humanos a �
 
 - **[P2023-12-03 · O QUE FOI COLOCADO NO DNA HUMANO]** «mexeram no DNA humano para colocar inteligência e obediência. E foi isso que Javé fez. Escolheu Adão, sete, Enos, Cainâ, Lalahelu, Jaré, Enoque, Matusalém, isso tudo aqui com intenção de lá na frente mandar o Messias dele julgar, já que ele, Javé, não podia fazer isso só. E Enoque explica isso nos livros que sobrou. Mas qual o problema? O problema é que existia vários seres já criados com função de autoridade» (U0004) — A semente da racionalidade recebe a autoria anunnaki segundo a fonte, com o par que a incomoda (inteligência **e obediência**). Entrada datada, sem harmonizar com as formulações das obras.
 
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Seres Terrenos (Homo Sapiens) | RC-099 | associado |
-| Foz Côa / FOXP2 (símbolos) | RC-400 | relaciona-se-a |
-| Xamanismo Cósmico (comunicação e deslacre) | RC-577 | associado |
-| DNA Insubmisso / Linhagem Pandora–Eva–Noreia | RC-727 | manifesta-descontinuidade-em |
-| Destinação do Lobo | RC-743 | ← é-comparada-à-emergência-de |
-
-
-- DNA Insubmisso / Linhagem Pandora–Eva–Noreia — RC-727;
-- Ressonância límbica — RC-529;
-- Destinação do Lobo — RC-743.
-
 ## Observações
 
 "Manicômio chamado Terra" e a "descontinuidade" como leitura do autor.
-
-## Fontes
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
-| P2024-08-03 | U0946–U0978; U1005–U1015 | palestra/STT |
-| P2022-12-17 / P2025-03-15 / P2025-02-16 / P2025-02-15 / P2024-11-30 / P2024-11-09 / B072 | — | obras/palestras |
-

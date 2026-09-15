@@ -15,8 +15,34 @@ atualizado = "2026-08-28"
 ## Definição Sintética
 Patriarca Anunnaki apresentado como pai de Enki e Enlil e autoridade na lógica dinástica Anunnaki.
 
+## Etimologia e Grafias
+- Grafia preferida: Anu.
+- **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
+
+
 ## Contexto / Origem
 Aparece na disputa entre clãs e na reação ao uso das armas atômicas que teriam vindo de Nibiru.
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Anunnaki | RC-024 | é-um |
+| Enki (Anunnaki; inoculou o gene FOXP2) | RC-486 | pai-de |
+| Enlil (deus sumério, par de Enki) | RC-487 | pai-de |
+| Guerra Nuclear Anunnaki (Sete Armas Atômicas) | RC-583 | ← envolve |
+| Ninurta | RC-588 | associado |
+
+## Seres Associados
+Anunnakis (RC-024); Enki (Anunnaki; inoculou o gene FOXP2) (RC-486); Enlil (deus sumério, par de Enki) (RC-487)
+
+## Fontes
+| Obra/palestra | Localização | Tipo |
+|---|---|---|
+| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
+| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
+| P2022-12-17 — O Incompreendido Ano de 2012 e a Falsa Noção do Fim do Mundo | U0808–U0820; U0836–U0839 | transcrição automatizada; paráfrase e citação |
+
+
 
 ## Citações-chave
 > ““Anu, que é o pai de Enki e Enlil.”” — P2022-12-17, U0808–U0820; U0836–U0839
@@ -61,35 +87,9 @@ Aparece na disputa entre clãs e na reação ao uso das armas atômicas que teri
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-587.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
 
-## Etimologia e Grafias
-- Grafia preferida: Anu.
-- **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
-
-
-## Seres Associados
-Anunnakis (RC-024); Enki (Anunnaki; inoculou o gene FOXP2) (RC-486); Enlil (deus sumério, par de Enki) (RC-487)
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Anunnaki | RC-024 | é-um |
-| Enki (Anunnaki; inoculou o gene FOXP2) | RC-486 | pai-de |
-| Enlil (deus sumério, par de Enki) | RC-487 | pai-de |
-| Guerra Nuclear Anunnaki (Sete Armas Atômicas) | RC-583 | ← envolve |
-| Ninurta | RC-588 | associado |
-
 ## Observações
 A Base já individualiza outros Anunnakis; este cadastro preserva a mesma granularidade.
 
 **Regra de status:** permanece ⚪ candidato porque a fonte é STT sem áudio anexado. A aprovação do curador valida a modelagem terminológica, não substitui a futura conferência com áudio ou obra primária.
 
 ---
-
-## Fontes
-| Obra/palestra | Localização | Tipo |
-|---|---|---|
-| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
-| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
-| P2022-12-17 — O Incompreendido Ano de 2012 e a Falsa Noção do Fim do Mundo | U0808–U0820; U0836–U0839 | transcrição automatizada; paráfrase e citação |
-
-

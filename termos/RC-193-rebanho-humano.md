@@ -16,14 +16,36 @@ atualizado = "2026-08-20"
 
 Na cosmologia de Ellam, o conjunto dos humanos que se comportam dentro do mesmo padrão de produção proteica — a massa que se horizontaliza em práticas repetitivas (rezas, cultos) sem evolução vertical de consciência; espelhado por um "perigosíssimo rebanho espiritual" desencarnado.
 
+## Contexto / Origem
+
+[P2024-07-14] A palestra das Consciências Espirituais Dignificadas define o rebanho humano por "padrão de produção proteica" ("todo dia fazem as mesmas coisas... mesmo padrão de proteína e nunca muda") e o distingue do rebanho espiritual que fala de Deus sem ser digno.
+
 ## Escopo e evidência
 
 - **[P2024-07-14] Unidades:** U0025–U0050.
 - **[P2024-07-14] Proveniência:** palestra de Jan Val Ellam; transcrição STT pré-curada; devolutiva do curador registrada em 2026-08-20 (ficha autorizada).
 
-## Contexto / Origem
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Seres Terrenos (Homo Sapiens) | RC-099 | associado |
+| Colmeia Universal | RC-174 | associado |
+| Modelo Colmeia (Sistema/Controle Colmeia) | RC-176 | associado |
+| Big Data da Terra | RC-197 | associado |
+| Colegiados Espirituais Humanizados | RC-745 | repercute-em |
 
-[P2024-07-14] A palestra das Consciências Espirituais Dignificadas define o rebanho humano por "padrão de produção proteica" ("todo dia fazem as mesmas coisas... mesmo padrão de proteína e nunca muda") e o distingue do rebanho espiritual que fala de Deus sem ser digno.
+
+- Colegiados Espirituais Humanizados — RC-745;
+- Dominação Psíquica pela Devoção — RC-733.
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2023-12-25-04 | Aula 04 — O Nascimento do Cristianismo (palestra) | — | transcrição automatizada; citação |
+| EXT-2024-01-04 | Glossário Krys Amon (obra de apoio) | — | fonte secundária; paráfrase/definição |
+| P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
+| P2024-07-14 | U0025–U0050 | palestra/STT |
+| B044 | — | obra |
 
 ## Citações-chave
 > "Existe um rebanho físico altamente manipulado pelas macroforças que dominam a cultura dos encarnados, mas há um rebanho espiritual totalmente fragmentado."
@@ -42,19 +64,6 @@ Na cosmologia de Ellam, o conjunto dos humanos que se comportam dentro do mesmo 
 - **«rebanho humano»** — «esse é o pior retrato do rebanho humano da atualidade».
 - Aula 04 usa «rebanho humano» no contexto do julgamento da humanidade (mundo administrado), corroborando RC-193.
 
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Seres Terrenos (Homo Sapiens) | RC-099 | associado |
-| Colmeia Universal | RC-174 | associado |
-| Modelo Colmeia (Sistema/Controle Colmeia) | RC-176 | associado |
-| Big Data da Terra | RC-197 | associado |
-| Colegiados Espirituais Humanizados | RC-745 | repercute-em |
-
-
-- Colegiados Espirituais Humanizados — RC-745;
-- Dominação Psíquica pela Devoção — RC-733.
-
 ## Observações
 
 Leitura do autor; **quarentena teológica** — as classificações religiosas não são consenso das tradições.
@@ -62,12 +71,3 @@ Leitura do autor; **quarentena teológica** — as classificações religiosas n
 
 > Notas de processo: 2 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-193.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
-
-## Fontes
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2023-12-25-04 | Aula 04 — O Nascimento do Cristianismo (palestra) | — | transcrição automatizada; citação |
-| EXT-2024-01-04 | Glossário Krys Amon (obra de apoio) | — | fonte secundária; paráfrase/definição |
-| P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
-| P2024-07-14 | U0025–U0050 | palestra/STT |
-| B044 | — | obra |

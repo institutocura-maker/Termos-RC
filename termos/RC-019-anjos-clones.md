@@ -28,11 +28,6 @@ Com isso:
 
 **Origem do conteúdo da ampliação:** palestra `P2024-06-16 — O Projeto TALM, os Fenvans e os Humanos` (16/06/2024). Transcrição automatizada, **não conferida com o áudio**; cada aspa foi recortada do `original.txt` pelo índice de âncoras do motor e conferida byte a byte pelo portão B. Nada foi digitado de memória.
 
-## Ampliação
-### P2024-06-16 (O Projeto TALM, os Fenvans e os Humanos)
-
-- **[Anjos clones — 100% fiéis] (U0006)** «Esses clones eles nunca param de operar e eles são 100, não é 99, são 100% fiéis as ordens que Jahé ou Brama deu para eles.» — os anjos clones (Miguel, Rafael, Uriel, Gabriel) nunca param e são 100% fiéis às ordens de Brahma/Javé.
-
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
@@ -70,6 +65,12 @@ Com isso:
 | B002 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
 | B015 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
 
-## Observações sobre o Estado da Malha
+## Ampliação
+### P2024-06-16 (O Projeto TALM, os Fenvans e os Humanos)
+
+- **[Anjos clones — 100% fiéis] (U0006)** «Esses clones eles nunca param de operar e eles são 100, não é 99, são 100% fiéis as ordens que Jahé ou Brama deu para eles.» — os anjos clones (Miguel, Rafael, Uriel, Gabriel) nunca param e são 100% fiéis às ordens de Brahma/Javé.
+
+## Observações
+### Observações sobre o Estado da Malha
 
 * **Trava aplicável**: leitura do autor (a angelologia católica como 'romantismo'; anjo não cuida de humano) — dito, não doutrina.

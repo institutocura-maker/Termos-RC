@@ -15,8 +15,45 @@ atualizado = "2026-08-29"
 ## Definição Sintética
 São os seres das **famílias biodemicas exilados do Sistema de Capela para a Terra**. Chegaram de duas formas: **em naves**, fugindo dos confrontos nos mundos de Capela, e **como espíritos desencarnados**, devido à afinidade vibratória — passando a reencarnar no nosso planeta. O termo "Exilados de Capela" só surgiu no Séc. XX, no livro *A Caminho da Luz* (Chico Xavier/Emmanuel). A gênese da história espiritual da Terra teria começado com esses espíritos (B031).
 
+## Etimologia e Grafias
+- **Grafia preferida:** Exilados de Capela
+- **Variações:** Anjos caídos (equivalência parcial, ver RC-020); Espíritos exilados de Capela
+
+
 ## Contexto / Origem
 Resultado direto da Rebelião de Lúcifer e do consequente Isolamento Cósmico. Nas RC, os Exilados de Capela correspondem ao que outras literaturas chamam de "Anjos Caídos" — com a ressalva de que, na narrativa de Ellam, são **seres biodemos extraterrestres** (entre eles Lúcifer/Yel Luzbel), não "anjos" no sentido tradicional.
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Javé | RC-001 | associado |
+| Rebelião de Lúcifer | RC-002 | origem |
+| Reintegração Cósmica | RC-003 | destino |
+| Anjos caídos | RC-020 | equivalência parcial |
+| Capela (Sistema) | RC-039 | origem-em |
+| Isolamento Cósmico | RC-070 | contexto |
+| Lúcifer (Yel Luzbel) | RC-078 | inclui |
+| Ulsh | RC-105 | é-um (família específica) |
+| Roteiro do Exílio | RC-348 | associado |
+| Exílios Interplanetários | RC-349 | associado |
+| Jesus, o Capelino | RC-350 | associado |
+| Revolta Capelina | RC-450 | associado |
+
+## Seres Associados
+Yel Luzbel (RC-078); Len Mion (RC-074); famílias Val (RC-109), Yel (RC-136), Mion, Cromon, Shanlung; Família Ulsh (RC-105).
+
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo |
+|---|---|---|---|
+| P2021-04-10 | O Fechamento dos Portais e o Impasse no Exílio Espiritual de Len Mion — Aprofundamento (palestra) | — | transcrição automatizada; citação |
+| P2012-02-19 | Xadrez Cósmico de Brahma, Vishnu e Shiva (palestra) | — | transcrição automatizada; citação |
+| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra) | — | transcrição automatizada; citação |
+| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra) | — | transcrição automatizada; citação |
+| Painéis Emergentes... (B031) | Glossário de Termos | p. 129 (aprox.) | verbete "Exilados de Capela" |
+| Painéis Emergentes... (B031) | Glossário de Termos | p. 124 (aprox.) | verbete "Anjos caídos" (diferenciação) |
+| Reintegração Cósmica (B003) | a preencher | — | pendente (obra primária) |
+
+
 
 ## Citações-chave
 > "Na Revelação Cósmica, os Exilados de Capela são os seres biodemos extraterrestres (entre eles Lúcifer - Yel Luzbel), que vieram para a Terra em face do isolamento cósmico." — B031, verbete "Anjos caídos"
@@ -65,46 +102,9 @@ Resultado direto da Rebelião de Lúcifer e do consequente Isolamento Cósmico. 
 - **[Nunca houve exílio planetário na história do universo] (U0006)** «Sabe qual é a resposta? Nunca. Nunca houve isso.» — "o que ocorreu no nosso universo são problemas parecidos com o que aconteceu em Capela, mas eh subproduto de pandemia, confusões, de destruição"; "jamais algum mundo no nosso universo biológico passou por exílio espiritual, nos termos em que Nós ingenuamente pensávamos"; a separação do joio e do trigo na Terra seria o primeiro tipo de atitude nesse sentido desde que a criação começou.
 - **[A Caminho da Luz: a primeira notícia de exílio planetário] (U0006)** «Porque quando em 1000 eh 96, o livro tá da luz de Chico Xavier e Emanuel foi produzido ali naquele livro maravilhoso, pela primeira vez aparece em termos de literatura espiritual espírita, a notícia de um exílio planetária.» — [REVISAR: STT grafa "em 1000 eh 96" = 1996 → CHANCELA 2026-09-06 · F039-L3: FONTE AUSENTE DA ARCA — ver nota]; capítulo 4 de A Caminho da Luz: o exílio de Capela (mundo que girava em torno da estrela de Capela, na constelação do Cocheiro, norte astronômico); Kardec já tinha dado a base em A Gênese, capítulo 11 (queda dos anjos); Edgard Armond escreveu "Exilados e Capela" em homenagem ao capítulo (STT "Edgarmon" — grafia canônica: Edgard Armond).
 
-## Etimologia e Grafias
-- **Grafia preferida:** Exilados de Capela
-- **Variações:** Anjos caídos (equivalência parcial, ver RC-020); Espíritos exilados de Capela
-
-
-## Seres Associados
-Yel Luzbel (RC-078); Len Mion (RC-074); famílias Val (RC-109), Yel (RC-136), Mion, Cromon, Shanlung; Família Ulsh (RC-105).
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | associado |
-| Rebelião de Lúcifer | RC-002 | origem |
-| Reintegração Cósmica | RC-003 | destino |
-| Anjos caídos | RC-020 | equivalência parcial |
-| Capela (Sistema) | RC-039 | origem-em |
-| Isolamento Cósmico | RC-070 | contexto |
-| Lúcifer (Yel Luzbel) | RC-078 | inclui |
-| Ulsh | RC-105 | é-um (família específica) |
-| Roteiro do Exílio | RC-348 | associado |
-| Exílios Interplanetários | RC-349 | associado |
-| Jesus, o Capelino | RC-350 | associado |
-| Revolta Capelina | RC-450 | associado |
-
 ## Observações
 Verificar nas obras primárias: a relação com a doutrina espírita dos "exilados de Capela" e a lista completa das famílias envolvidas.
 
 
 > Notas de processo: 2 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-007.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
-
-## Fontes
-| Obra (sigla) | Capítulo | Página | Tipo |
-|---|---|---|---|
-| P2021-04-10 | O Fechamento dos Portais e o Impasse no Exílio Espiritual de Len Mion — Aprofundamento (palestra) | — | transcrição automatizada; citação |
-| P2012-02-19 | Xadrez Cósmico de Brahma, Vishnu e Shiva (palestra) | — | transcrição automatizada; citação |
-| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra) | — | transcrição automatizada; citação |
-| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra) | — | transcrição automatizada; citação |
-| Painéis Emergentes... (B031) | Glossário de Termos | p. 129 (aprox.) | verbete "Exilados de Capela" |
-| Painéis Emergentes... (B031) | Glossário de Termos | p. 124 (aprox.) | verbete "Anjos caídos" (diferenciação) |
-| Reintegração Cósmica (B003) | a preencher | — | pendente (obra primária) |
-
-

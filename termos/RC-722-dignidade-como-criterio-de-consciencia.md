@@ -16,6 +16,75 @@ atualizado = "2026-08-18"
 Critério ético proposto na palestra para avaliar crenças, poderes e ações: quando uma consciência não se preocupa com a dignidade do outro, sua grandeza declarada não elimina o abismo entre poder e consciência.
 
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Jesus | RC-072 | ← serve-de-modelo-para |
+| Jesus | RC-072 | ← relaciona-se-a |
+| Pílula vermelha | RC-192 | relaciona-se-a |
+| Imperativo Categórico da Moral | RC-328 | relaciona-se-a |
+| Diálogos de Sócrates, Platão e Aristóteles (nos Céus da Grécia) | RC-406 | relaciona-se-a |
+| Diálogos de Sócrates, Platão e Aristóteles (nos Céus da Grécia) | RC-406 | relaciona-se-a |
+| Krishna (avatar de Vishnu/Shiva) | RC-414 | ← relaciona-se-a |
+| Krishna como 'pretenso Keshava' | RC-425 | ← relaciona-se-a |
+| Decência cósmica (ética ellâmica) | RC-508 | relaciona-se-a |
+| Protagonismo consciencial | RC-509 | orienta |
+| Tikun Cósmico (restabelecimento da Criação) | RC-514 | necessário-a |
+| Gestão da Sensação Pessoal | RC-633 | depende-de |
+| Agenda do Desespero dos Espíritos | RC-662 | ← confronta |
+| Ato de Verdade / Satyagraha | RC-705 | realizada-por |
+| Ato de Verdade / Satyagraha | RC-705 | ← realiza |
+| Abismo da Consciência Cósmica | RC-721 | ← avaliado-por |
+| Abismo da Consciência Cósmica | RC-721 | ← relaciona-se-a |
+| Ponto de Luz Humano / Ilha de Negentropia | RC-725 | ← relaciona-se-a |
+| Abraço aos Fantasmas / Integridade sem Combate | RC-735 | ← relaciona-se-a |
+| Aristocracia Olimpiana e Monarquias Terrestres | RC-736 | ← relaciona-se-a |
+| Colegiados Espirituais Humanizados | RC-745 | ← avaliado-por |
+| Vergonha de Existir | RC-747 | associado |
+| Genótipo da Gentileza (GG) | RC-748 | ← relaciona-se-a |
+| A Raça Inabalável dos Sethianos Emancipados | RC-766 | ← relaciona-se-a |
+| Biblioteca Genômica Humana | RC-889 | associado |
+| Eu Observador | RC-890 | associado |
+| Ismos como Limitação Genômica | RC-891 | associado |
+| Pós-Verdade | RC-892 | associado |
+| Pecado Original como Narrativa Cruel | RC-893 | associado |
+| Bondade Humana | RC-895 | associado |
+| Código Filosófico Pessoal | RC-897 | associado |
+| Choque de Realidade | RC-898 | associado |
+| Deus Não Se Incomoda com o Sofrimento | RC-909 | associado |
+| O Bem Feito Apenas por Humanos | RC-910 | associado |
+| DNA com 2 Hélices Ligadas | RC-911 | associado |
+| Aparições Marianas | RC-912 | associado |
+| Delírio Coletivo | RC-913 | associado |
+| Frodo e Sam | RC-914 | associado |
+| Westworld como Metáfora | RC-915 | associado |
+| O Banquete Metafórico | RC-916 | associado |
+| Reciclador das Informações Universais | RC-917 | associado |
+| Entropia e Sujeira Original | RC-918 | associado |
+| Vrites | RC-919 | associado |
+| Tátivas | RC-920 | associado |
+| Niroda | RC-921 | associado |
+| Egrégora e Campo Quântico | RC-922 | associado |
+| Programas Encarnatórios | RC-923 | associado |
+| Loop Mental | RC-924 | associado |
+| Espírito como Ator | RC-925 | associado |
+| Lixo de Informações Apodrecidas | RC-926 | associado |
+
+
+- Decência Cósmica — RC-508;
+- Imperativo Categórico — RC-328;
+- Ato de Verdade — RC-705;
+- Protagonismo Consciencial — RC-509;
+- Abismo da Consciência Cósmica — RC-721;
+- Ponto de Luz Humano — RC-725.
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2024-02-04 | A Falsa Queda do Ser Humano e a Indignidade Entronizada como Religião (palestra) | transcrição automatizada; citação |
+| P2024-03-17 | A Quem Pertence o Planeta e a Biblioteca Genômica Mais Atualizada do Universo (palestra) | transcrição automatizada; citação |
+| P2024-11-09 | U0060–U0075; U0145–U0250; U0715–U0750; U1010–U1070 | palestra/STT |
+
 ## Citações-chave
 > “Se não tiver preocupação com o aspecto da dignidade, tem alguma coisa errada com essa crença.”
 
@@ -96,76 +165,7 @@ Critério ético proposto na palestra para avaliar crenças, poderes e ações: 
 
 ---
 
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Jesus | RC-072 | ← serve-de-modelo-para |
-| Jesus | RC-072 | ← relaciona-se-a |
-| Pílula vermelha | RC-192 | relaciona-se-a |
-| Imperativo Categórico da Moral | RC-328 | relaciona-se-a |
-| Diálogos de Sócrates, Platão e Aristóteles (nos Céus da Grécia) | RC-406 | relaciona-se-a |
-| Diálogos de Sócrates, Platão e Aristóteles (nos Céus da Grécia) | RC-406 | relaciona-se-a |
-| Krishna (avatar de Vishnu/Shiva) | RC-414 | ← relaciona-se-a |
-| Krishna como 'pretenso Keshava' | RC-425 | ← relaciona-se-a |
-| Decência cósmica (ética ellâmica) | RC-508 | relaciona-se-a |
-| Protagonismo consciencial | RC-509 | orienta |
-| Tikun Cósmico (restabelecimento da Criação) | RC-514 | necessário-a |
-| Gestão da Sensação Pessoal | RC-633 | depende-de |
-| Agenda do Desespero dos Espíritos | RC-662 | ← confronta |
-| Ato de Verdade / Satyagraha | RC-705 | realizada-por |
-| Ato de Verdade / Satyagraha | RC-705 | ← realiza |
-| Abismo da Consciência Cósmica | RC-721 | ← avaliado-por |
-| Abismo da Consciência Cósmica | RC-721 | ← relaciona-se-a |
-| Ponto de Luz Humano / Ilha de Negentropia | RC-725 | ← relaciona-se-a |
-| Abraço aos Fantasmas / Integridade sem Combate | RC-735 | ← relaciona-se-a |
-| Aristocracia Olimpiana e Monarquias Terrestres | RC-736 | ← relaciona-se-a |
-| Colegiados Espirituais Humanizados | RC-745 | ← avaliado-por |
-| Vergonha de Existir | RC-747 | associado |
-| Genótipo da Gentileza (GG) | RC-748 | ← relaciona-se-a |
-| A Raça Inabalável dos Sethianos Emancipados | RC-766 | ← relaciona-se-a |
-| Biblioteca Genômica Humana | RC-889 | associado |
-| Eu Observador | RC-890 | associado |
-| Ismos como Limitação Genômica | RC-891 | associado |
-| Pós-Verdade | RC-892 | associado |
-| Pecado Original como Narrativa Cruel | RC-893 | associado |
-| Bondade Humana | RC-895 | associado |
-| Código Filosófico Pessoal | RC-897 | associado |
-| Choque de Realidade | RC-898 | associado |
-| Deus Não Se Incomoda com o Sofrimento | RC-909 | associado |
-| O Bem Feito Apenas por Humanos | RC-910 | associado |
-| DNA com 2 Hélices Ligadas | RC-911 | associado |
-| Aparições Marianas | RC-912 | associado |
-| Delírio Coletivo | RC-913 | associado |
-| Frodo e Sam | RC-914 | associado |
-| Westworld como Metáfora | RC-915 | associado |
-| O Banquete Metafórico | RC-916 | associado |
-| Reciclador das Informações Universais | RC-917 | associado |
-| Entropia e Sujeira Original | RC-918 | associado |
-| Vrites | RC-919 | associado |
-| Tátivas | RC-920 | associado |
-| Niroda | RC-921 | associado |
-| Egrégora e Campo Quântico | RC-922 | associado |
-| Programas Encarnatórios | RC-923 | associado |
-| Loop Mental | RC-924 | associado |
-| Espírito como Ator | RC-925 | associado |
-| Lixo de Informações Apodrecidas | RC-926 | associado |
-
-
-- Decência Cósmica — RC-508;
-- Imperativo Categórico — RC-328;
-- Ato de Verdade — RC-705;
-- Protagonismo Consciencial — RC-509;
-- Abismo da Consciência Cósmica — RC-721;
-- Ponto de Luz Humano — RC-725.
-
 ## Observações
 É um princípio ético da obra/palestra, não uma escala clínica ou científica de consciência.
 
 ---
-
-## Fontes
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2024-02-04 | A Falsa Queda do Ser Humano e a Indignidade Entronizada como Religião (palestra) | transcrição automatizada; citação |
-| P2024-03-17 | A Quem Pertence o Planeta e a Biblioteca Genômica Mais Atualizada do Universo (palestra) | transcrição automatizada; citação |
-| P2024-11-09 | U0060–U0075; U0145–U0250; U0715–U0750; U1010–U1070 | palestra/STT |

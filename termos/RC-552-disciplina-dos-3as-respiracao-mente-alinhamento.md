@@ -15,8 +15,39 @@ atualizado = "2026-08-13"
 ## Definição Sintética
 **Disciplina dos 3As** é uma prática central do **Mentalma** (B074, cap. 10; B075, cap. 1.4): os "3As" são **A**profundar a respiração; **A**calmar a mente; **A**lignar-se consigo mesmo. É descrita como "um tipo de 'antídoto pessoal' para o nervosismo" e como o caminho do autocontrole: "Aquele que busca o autocontrole poderá alcançá-lo por meio da prática dos '3As'". A disciplina inicia com o aprofundamento da respiração, passa pela decisão de acalmar a mente e busca o alinhamento com os "projetos espirituais" do ser/Espírito.
 
+## Etimologia e Grafias
+- **Grafia preferida:** Disciplina dos 3As
+- **Variações:** "os 3As"; "Aprofundar a respiração; Acalmar a mente; Alinhar-se consigo mesmo"
+- **Obs.:** não confundir com outras siglas "3A" da base (nenhuma conflita)
+
+
 ## Contexto / Origem
 Ellam relata que os "3As" tornaram-se "a mais preciosa" das práticas do seu cotidiano. A disciplina prepara a mente para a "vivência interior" e para a gestão dos arquivos mentais — condições para o despertar espiritual e a autorrealização.
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Mentalma | RC-166 | relaciona-se-a |
+| Eu Profundo (nível espiritual do Eu) | RC-553 | relaciona-se-a |
+| Gestão Psíquica e Memórias Complexas (Mentalma II) | RC-554 | relaciona-se-a |
+| Série Mentalma (5 livros + curso) | RC-555 | associado |
+| Moksha | RC-618 | associado |
+| Gestão da Sensação Pessoal | RC-633 | ← usa |
+| Ciência Pessoal / Doutrina da Própria Personalidade | RC-695 | ← usa |
+| Postulados Quânticos como Manual Operativo | RC-703 | associado |
+| Bhavaṅga / Janela da Percepção | RC-706 | ← usa |
+| Bhavaṅga / Janela da Percepção | RC-706 | ← relaciona-se-a |
+| Lei da Mente do Buda | RC-712 | ← usa |
+
+## Seres Associados
+Praticante do Mentalma; o "Eu" que se alinha ao Espírito.
+
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo |
+|---|---|---|---|
+| P2026-03-21 | Samudra Manthan A Enigmatica Alquimia de Vishnu (palestra) | — | transcrição automatizada; citação |
+| Mentalma I (B074) | Cap. 10 "A Disciplina dos 3As" | p. 131 (PDF) | definição |
+| Mentalma II (B075) | Cap. 1.4 "A disciplina dos '3As' e a 'vivência interior'" | — | aprofundamento |
 
 ## Citações-chave
 > "Os '3As', que são: Aprofundar a respiração; Acalmar a mente; Alinhar-se consigo mesmo. Aquele que busca o autocontrole poderá alcançá-lo por meio da prática dos '3As'." — B074, p. 131
@@ -55,38 +86,7 @@ Ellam relata que os "3As" tornaram-se "a mais preciosa" das práticas do seu cot
 - **Status da evidência:** transcrição automatizada, pré-curada e aprovada quanto à integração terminológica; conferir com áudio/obra antes de promover status.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** os 2 trechos entre aspas desta ficha **não** resistem à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Todos deixam vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
 
-## Etimologia e Grafias
-- **Grafia preferida:** Disciplina dos 3As
-- **Variações:** "os 3As"; "Aprofundar a respiração; Acalmar a mente; Alinhar-se consigo mesmo"
-- **Obs.:** não confundir com outras siglas "3A" da base (nenhuma conflita)
-
-
-## Seres Associados
-Praticante do Mentalma; o "Eu" que se alinha ao Espírito.
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Mentalma | RC-166 | relaciona-se-a |
-| Eu Profundo (nível espiritual do Eu) | RC-553 | relaciona-se-a |
-| Gestão Psíquica e Memórias Complexas (Mentalma II) | RC-554 | relaciona-se-a |
-| Série Mentalma (5 livros + curso) | RC-555 | associado |
-| Moksha | RC-618 | associado |
-| Gestão da Sensação Pessoal | RC-633 | ← usa |
-| Ciência Pessoal / Doutrina da Própria Personalidade | RC-695 | ← usa |
-| Postulados Quânticos como Manual Operativo | RC-703 | associado |
-| Bhavaṅga / Janela da Percepção | RC-706 | ← usa |
-| Bhavaṅga / Janela da Percepção | RC-706 | ← relaciona-se-a |
-| Lei da Mente do Buda | RC-712 | ← usa |
-
 ## Observações
 Prática simples e acessível (respiração + mente + alinhamento) — a "porta de entrada" do método. Conectar com a reforma íntima (RC-392) e com a vivência interior.
 
 ---
-
-## Fontes
-| Obra (sigla) | Capítulo | Página | Tipo |
-|---|---|---|---|
-| P2026-03-21 | Samudra Manthan A Enigmatica Alquimia de Vishnu (palestra) | — | transcrição automatizada; citação |
-| Mentalma I (B074) | Cap. 10 "A Disciplina dos 3As" | p. 131 (PDF) | definição |
-| Mentalma II (B075) | Cap. 1.4 "A disciplina dos '3As' e a 'vivência interior'" | — | aprofundamento |

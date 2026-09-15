@@ -15,8 +15,63 @@ atualizado = "2026-08-29"
 ## Definição Sintética
 Também chamados de "demônios" ou "daemon" (cultura grega), são **seres extrafísicos e dementes** (demo = "demente") criados a partir do **DNA ou CFD (Código Fonte Definidor) do Criador**, após a classe dos anjos clones. Apesar da conotação negativa de "demônio", os demos do Brahmaloka (universo antimaterial) são apenas uma **classificação de seres** que se metamorfoseiam devido à condição molecular instável — não sendo nem bons nem maus (ou podendo ser ambos), como os anjos. Alguns são chamados de "deuses" nas mitologias (B031).
 
+## Etimologia e Grafias
+- **Grafia preferida:** Demos
+- **Variações:** demônios; daemon; "seres demos"; deuses mitológicos
+- **Idioma de origem:** grego daimon → latim daemon; no RC, "demo" = "demente"
+
+
 ## Contexto / Origem
 Os Demos habitam o universo antimaterial (Brahmaloka) e são a matéria-prima das mitologias humanas (deuses gregos, nórdicos etc.). A "cultura demo" é a cultura dessas moradas do universo paralelo. A classe demo é fundamental para entender a categoria "Seres dos Portais" e os deuses mitológicos.
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Adhybutha | RC-015 | associado |
+| Anjos clones | RC-019 | opõe-se-a (outra classe) |
+| Antlar | RC-022 | associado |
+| Biodemos | RC-036 | associado |
+| Brahmaloka | RC-038 | ocorre-em |
+| Cultura Demo | RC-044 | tema-relacionado |
+| Daemon | RC-045 | etimologia |
+| Demônios | RC-050 | variação (conceito histórico) |
+| Deuses (os dois tipos) | RC-053 | inclui |
+| Seres Extrafísicos | RC-097 | é-um |
+| Cultura Demodhármica | RC-183 | associado |
+| Trava-demo | RC-184 | associado |
+| Teurgistas | RC-235 | associado |
+| Seres dos Portais | RC-241 | ← é-um |
+| Decifra-me ou Devoro (hábito demo) | RC-316 | ← hábito-de |
+| Dharma e Castas (origem demo) | RC-322 | ← aplica-se-a |
+| Kvasir e Freya (Vanir/Aesir) | RC-396 | associado |
+| Thuata de Dannan | RC-398 | ← é-um |
+| Halos de Poder (demos) | RC-402 | ← estabiliza |
+| Força de Atração Sexual (anterior à polaridade) | RC-433 | ← surgiu-em |
+| Homoafetividade (resquício da força original) | RC-434 | associado |
+| Mistérios Dionisíacos | RC-441 | associado |
+| Bebida dos Deuses (Ambrosia/Amrita/Soma) | RC-466 | associado |
+| Corpo Daiva / Corpo Demoníaco de Plasma | RC-630 | associado |
+| Aristocracia Olimpiana e Monarquias Terrestres | RC-736 | associado |
+| Dessensibilização da Condição Humana | RC-746 | ← relaciona-se-a |
+
+## Seres Associados
+Zeus (RC-145); Seres dos Portais (mitologia grega/nórdica); Vishnu e Shiva (formas demo geradas pelas consciências Adhydaiva — ver RC-014).
+
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo |
+|---|---|---|---|
+| P2020-04-04 | Javé, Sophia e Jesus: a Trindade Jamais Percebida (palestra Q&A) (palestra) | — | citação |
+| P2025-06-14 | PALESTRA SOBRE A QUEDA DO CRIADOR-Refatorada (palestra) | — | transcrição automatizada; citação |
+| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra) | — | transcrição automatizada; citação |
+| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra) | — | transcrição automatizada; citação |
+| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra) | — | transcrição automatizada; citação |
+| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra) | — | transcrição automatizada; citação |
+| Painéis Emergentes... (B031) | Glossário de Termos | p. 127-128 (aprox.) | verbete "Demos" |
+| Painéis Emergentes... (B031) | Glossário de Termos | p. 132 (aprox.) | verbete "Deuses" (os dois tipos) |
+
+
+
+
 
 ## Citações-chave
 > "Nas obras de Jan Val Ellam, a expressão 'demo' define tão somente os seres que habitam um universo paralelo ao que vivemos, de origem antimaterial, sendo alguns deles, inclusive, chamados de 'deuses', cujos nomes aparecem nas diversas mitologias do passado." — B031, verbete "Demos"
@@ -82,61 +137,6 @@ Os Demos habitam o universo antimaterial (Brahmaloka) e são a matéria-prima da
 - Situa os **Demos** na tese: a "história do universo" é a disputa dos seres demo pelos campos mórficos das espécies; os demos são especialistas em criar campos mórficos e novas classes de vírus.
 
 
-## Etimologia e Grafias
-- **Grafia preferida:** Demos
-- **Variações:** demônios; daemon; "seres demos"; deuses mitológicos
-- **Idioma de origem:** grego daimon → latim daemon; no RC, "demo" = "demente"
-
-
-## Seres Associados
-Zeus (RC-145); Seres dos Portais (mitologia grega/nórdica); Vishnu e Shiva (formas demo geradas pelas consciências Adhydaiva — ver RC-014).
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Adhybutha | RC-015 | associado |
-| Anjos clones | RC-019 | opõe-se-a (outra classe) |
-| Antlar | RC-022 | associado |
-| Biodemos | RC-036 | associado |
-| Brahmaloka | RC-038 | ocorre-em |
-| Cultura Demo | RC-044 | tema-relacionado |
-| Daemon | RC-045 | etimologia |
-| Demônios | RC-050 | variação (conceito histórico) |
-| Deuses (os dois tipos) | RC-053 | inclui |
-| Seres Extrafísicos | RC-097 | é-um |
-| Cultura Demodhármica | RC-183 | associado |
-| Trava-demo | RC-184 | associado |
-| Teurgistas | RC-235 | associado |
-| Seres dos Portais | RC-241 | ← é-um |
-| Decifra-me ou Devoro (hábito demo) | RC-316 | ← hábito-de |
-| Dharma e Castas (origem demo) | RC-322 | ← aplica-se-a |
-| Kvasir e Freya (Vanir/Aesir) | RC-396 | associado |
-| Thuata de Dannan | RC-398 | ← é-um |
-| Halos de Poder (demos) | RC-402 | ← estabiliza |
-| Força de Atração Sexual (anterior à polaridade) | RC-433 | ← surgiu-em |
-| Homoafetividade (resquício da força original) | RC-434 | associado |
-| Mistérios Dionisíacos | RC-441 | associado |
-| Bebida dos Deuses (Ambrosia/Amrita/Soma) | RC-466 | associado |
-| Corpo Daiva / Corpo Demoníaco de Plasma | RC-630 | associado |
-| Aristocracia Olimpiana e Monarquias Terrestres | RC-736 | associado |
-| Dessensibilização da Condição Humana | RC-746 | ← relaciona-se-a |
-
 ## Observações
 Ficha baseada no glossário de B031. Verificar nas obras primárias a taxonomia completa: anjos clones → demos → biodemos → seres humanos.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
-
-## Fontes
-| Obra (sigla) | Capítulo | Página | Tipo |
-|---|---|---|---|
-| P2020-04-04 | Javé, Sophia e Jesus: a Trindade Jamais Percebida (palestra Q&A) (palestra) | — | citação |
-| P2025-06-14 | PALESTRA SOBRE A QUEDA DO CRIADOR-Refatorada (palestra) | — | transcrição automatizada; citação |
-| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra) | — | transcrição automatizada; citação |
-| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra) | — | transcrição automatizada; citação |
-| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra) | — | transcrição automatizada; citação |
-| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra) | — | transcrição automatizada; citação |
-| Painéis Emergentes... (B031) | Glossário de Termos | p. 127-128 (aprox.) | verbete "Demos" |
-| Painéis Emergentes... (B031) | Glossário de Termos | p. 132 (aprox.) | verbete "Deuses" (os dois tipos) |
-
-
-
-

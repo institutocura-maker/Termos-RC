@@ -15,33 +15,12 @@ atualizado = "2026-08-15"
 ## Definição Sintética
 Humanidade como última espécie surgida e primeira capaz de compreender, dignificar e reparar o caos.
 
-## Contexto / Origem
-Extraído da live P2025-10-25 — 2ª Edição Estagiários do Kaos.
-
-## Citações-chave
-> Ver P2025-10-25.
-
-## Ampliação
-### P2025-10-25
-
-- **[P2025-10-25 — FONTE ORIGINAL] Humanos: últimos e primeiros (Pergunta 4 — José Val):** "nesses 13,8 bilhões de anos os primeiros que surgiram se ferraram; depois os que surgiram se ferraram; os que foram surgindo foram se ferrando menos; os mais recentes já foram bem menos ferrados pelo destino do que os para trás"; "quem nasce por último nesse universo termina sendo o menos doente, o menos estúpido, o menos cretino, o menos demente, mas o menos poderoso"; "essa história de 'os últimos serão primeiros', se a gente entender no âmbito dessa metáfora... os humanos foram os últimos a nascer nesses 13,8 bilhões de anos"; "se nós os humanos somos os últimos, mas pegando carona no que Jesus falou, nós somos os primeiros seres capazes ou com capacidade de realizar o Tikun, o reparo tanto na obra quanto no concerto; o resto para trás não serve para nada ou serve para atrapalhar os humanos"; "nós humanos somos os últimos a surgir e somos os primeiros a ter grandeza de alma para entender o tamanho da merda na qual a gente tá metido"; "nós somos os últimos e os únicos ou primeiros a ter condição espiritual de lidar com a matéria apodrecida chamada caos"; "nós conseguimos sorrir da própria desgraça... nós conseguimos sonhar, imaginar"; "o eu humano esclarecido é uma coisa nova, é uma coisa última a surgir"; "nós humanos podemos e devemos, por nós mesmos, decidir o que fazer".
-
-## Reforço
-### P2025-03-15
-
-A humanidade é descrita como a espécie mais recente, “menos podre” e melhor organização alcançada pelo caos. Seu diferencial seria ressignificar informações herdadas, agir heroicamente e participar da Evolução da Informação, não das Espécies — RC-693.
-
-### Resgatabilidade Humana / P2024-11-30
-
-Mesmo um humano monstruoso pode agir heroicamente por alguém amado. Essa abertura, ligada ao amor mamífero e à linguagem capaz de produzir sabedoria, torna a humanidade resgatável e central à reorganização das Informações Vivas.
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o bloco citado desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
-
 ## Etimologia e Grafias
 - Forma preferida: **Humanos: Últimos e Primeiros**.
 
 
-## Seres Associados
-Consultar relações na Base.
+## Contexto / Origem
+Extraído da live P2025-10-25 — 2ª Edição Estagiários do Kaos.
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -63,10 +42,31 @@ Consultar relações na Base.
 | Abismo da Consciência Cósmica | RC-721 | ← observado-de-dentro-por |
 | Abismo da Consciência Cósmica | RC-721 | observa-de-dentro |
 
-## Observações
-Termo candidato, sujeito a cruzamento com obras e palestras adicionais.
+## Seres Associados
+Consultar relações na Base.
 
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
 | P2025-10-25 | ver dossiê e transcrição | live/STT |
+
+## Citações-chave
+> Ver P2025-10-25.
+
+## Ampliação
+### P2025-10-25
+
+- **[P2025-10-25 — FONTE ORIGINAL] Humanos: últimos e primeiros (Pergunta 4 — José Val):** "nesses 13,8 bilhões de anos os primeiros que surgiram se ferraram; depois os que surgiram se ferraram; os que foram surgindo foram se ferrando menos; os mais recentes já foram bem menos ferrados pelo destino do que os para trás"; "quem nasce por último nesse universo termina sendo o menos doente, o menos estúpido, o menos cretino, o menos demente, mas o menos poderoso"; "essa história de 'os últimos serão primeiros', se a gente entender no âmbito dessa metáfora... os humanos foram os últimos a nascer nesses 13,8 bilhões de anos"; "se nós os humanos somos os últimos, mas pegando carona no que Jesus falou, nós somos os primeiros seres capazes ou com capacidade de realizar o Tikun, o reparo tanto na obra quanto no concerto; o resto para trás não serve para nada ou serve para atrapalhar os humanos"; "nós humanos somos os últimos a surgir e somos os primeiros a ter grandeza de alma para entender o tamanho da merda na qual a gente tá metido"; "nós somos os últimos e os únicos ou primeiros a ter condição espiritual de lidar com a matéria apodrecida chamada caos"; "nós conseguimos sorrir da própria desgraça... nós conseguimos sonhar, imaginar"; "o eu humano esclarecido é uma coisa nova, é uma coisa última a surgir"; "nós humanos podemos e devemos, por nós mesmos, decidir o que fazer".
+
+## Reforço
+### P2025-03-15
+
+A humanidade é descrita como a espécie mais recente, “menos podre” e melhor organização alcançada pelo caos. Seu diferencial seria ressignificar informações herdadas, agir heroicamente e participar da Evolução da Informação, não das Espécies — RC-693.
+
+### Resgatabilidade Humana / P2024-11-30
+
+Mesmo um humano monstruoso pode agir heroicamente por alguém amado. Essa abertura, ligada ao amor mamífero e à linguagem capaz de produzir sabedoria, torna a humanidade resgatável e central à reorganização das Informações Vivas.
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o bloco citado desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
+## Observações
+Termo candidato, sujeito a cruzamento com obras e palestras adicionais.

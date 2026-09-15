@@ -15,8 +15,29 @@ atualizado = "2026-08-15"
 ## Definição Sintética
 Corrente de pontos luminosos que acendem luz própria no fundo do caos.
 
+## Etimologia e Grafias
+Forma preferida: **Áurea Catena**.
+
+
 ## Contexto / Origem
 P2025-06-26 — 1ª Edição Estagiários do Kaos.
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Revelação Cósmica (conceito) | RC-094 | — |
+| Mentalma | RC-166 | — |
+| Flechas / Profecias de Moros | RC-611 | relaciona-se-a |
+| Descendência de Kadru (Nagas, Uragas e Maharagas) | RC-664 | associado |
+| Mão Invisível Multiforme / Conselho das Nagas | RC-697 | ← relaciona-se-a |
+
+## Seres Associados
+Consultar Base.
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2025-06-26 | ver dossiê | live/STT |
 
 ## Citações-chave
 > Ver P2025-06-26.
@@ -39,27 +60,6 @@ P2025-06-26 — 1ª Edição Estagiários do Kaos.
 - **[P2024-11-03 · A OITAVA HORA — A CONSPIRAÇÃO AMOROSA]** "as estrelas entre si. A alma dos sóis responde ao suspiro das flores. A corrente da harmonia faz todos os seres da natureza harmonizar entre si... INÍCIO DA REVELAÇÃO CÓSMICA NOS SEUS PRIMEIROS ESTÁGIOS... A CHAMADA CONSPIRAÇÃO AMOROSA, no sentido de que AS ESTRELAS CONVERSAM ENTRE SI, OU SEJA, SERES DE DIVERSOS NÍVEIS ESTÃO CONVERSANDO ENTRE SI a partir dos temas que a revelação cósmica está resgatando porque estavam perdidos... LUZES FORAM ACESAS, ALMAS FORAM RESPONDENDO AO CHORO DA VIDA BIOLÓGICA E ASSIM SURGIU UMA CORRENTE DE HARMONIA QUE TENTA CRIAR A CHAMADA AURA CATENA [ÁUREA CATENA], QUE É A CORRENTE DE LUZ QUE ENVOLVE VÁRIOS SERES QUE ESTÃO EM VÁRIOS NÍVEIS... MAS MESMO VOCÊ ESTANDO NO CÉU, NO PURGATÓRIO, NO INFERNO, NO PRIMEIRO, OITAVO, 10º ANDAR, COMEÇA... A CATENA PASSA POR TODOS OS LUGARES. **DESDE QUE VOCÊ SE ASSOCIE À CORRENTE, VOCÊ TÁ NELA**" [⚠️⚠️ a definição completa da Áurea Catena na voz de 2024].
 - 0 códigos novos (O-3).
 
-## Etimologia e Grafias
-Forma preferida: **Áurea Catena**.
-
-
-## Seres Associados
-Consultar Base.
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Revelação Cósmica (conceito) | RC-094 | — |
-| Mentalma | RC-166 | — |
-| Flechas / Profecias de Moros | RC-611 | relaciona-se-a |
-| Descendência de Kadru (Nagas, Uragas e Maharagas) | RC-664 | associado |
-| Mão Invisível Multiforme / Conselho das Nagas | RC-697 | ← relaciona-se-a |
-
 ## Observações
 Correspondências culturais são atribuídas à leitura de Val Ellam, não a consenso acadêmico.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o bloco citado desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
-
-## Fontes
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2025-06-26 | ver dossiê | live/STT |

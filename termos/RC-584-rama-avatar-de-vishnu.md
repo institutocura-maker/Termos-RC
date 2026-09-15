@@ -15,8 +15,33 @@ atualizado = "2026-08-14"
 ## Definição Sintética
 Avatar de Vishnu apresentado como antagonista de Ravana e personagem central do Ramayana.
 
+## Etimologia e Grafias
+- Grafia preferida: Rama. Sita permanece no glossário local neste ciclo.
+- **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
+
+
 ## Contexto / Origem
 A palestra situa Rama na segunda era equinocial e o relaciona à reorganização de Kshatriyas e Brahmanes.
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Vishnu (Mavatna) | RC-135 | é-um |
+| Krishna (avatar de Vishnu/Shiva) | RC-414 | ← relaciona-se-a |
+| Ravana | RC-582 | ← opõe-se-a |
+| Ravana | RC-582 | opõe-se-a |
+| Ravana | RC-582 | relaciona-se-a |
+| Mahabharata | RC-593 | relaciona-se-a |
+| Geração Regenerada de Brahma | RC-696 | ← relaciona-se-a |
+
+## Seres Associados
+Vishnu (Mavatna) (RC-135); Ravana (RC-582)
+
+## Fontes
+| Obra/palestra | Localização | Tipo |
+|---|---|---|
+| P2022-05-07 | Shiva, o Projeto Talm e os Mistérios de Awaylengam (palestra) | — | transcrição automatizada; citação |
+| P2022-12-17 — O Incompreendido Ano de 2012 e a Falsa Noção do Fim do Mundo | U0744–U0747; U0770–U0773 | transcrição automatizada; paráfrase e citação |
 
 ## Citações-chave
 > ““Um avatar de Vishnu chamado Rama [...] vindo enfrentar Ravana.”” — P2022-12-17, U0744–U0747; U0770–U0773
@@ -56,33 +81,8 @@ A palestra situa Rama na segunda era equinocial e o relaciona à reorganização
 
 - **[Rama — para liquidar os rakshasas] (U0003)** «Se Rama, segundo Ramayanda, surgiu para liquidar os arraquchaças.» — Rama (avatar executivo, temperamento de Shiva) surgiu para liquidar os rakshasas; ver RC-581/RC-582.
 
-## Etimologia e Grafias
-- Grafia preferida: Rama. Sita permanece no glossário local neste ciclo.
-- **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
-
-
-## Seres Associados
-Vishnu (Mavatna) (RC-135); Ravana (RC-582)
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Vishnu (Mavatna) | RC-135 | é-um |
-| Krishna (avatar de Vishnu/Shiva) | RC-414 | ← relaciona-se-a |
-| Ravana | RC-582 | ← opõe-se-a |
-| Ravana | RC-582 | opõe-se-a |
-| Ravana | RC-582 | relaciona-se-a |
-| Mahabharata | RC-593 | relaciona-se-a |
-| Geração Regenerada de Brahma | RC-696 | ← relaciona-se-a |
-
 ## Observações
 Termo de apoio aprovado para a Base devido à centralidade nas conexões védicas das RC.
 
 **Regra de status:** permanece ⚪ candidato porque a fonte é STT sem áudio anexado. A aprovação do curador valida a modelagem terminológica, não substitui a futura conferência com áudio ou obra primária.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
-
-## Fontes
-| Obra/palestra | Localização | Tipo |
-|---|---|---|
-| P2022-05-07 | Shiva, o Projeto Talm e os Mistérios de Awaylengam (palestra) | — | transcrição automatizada; citação |
-| P2022-12-17 — O Incompreendido Ano de 2012 e a Falsa Noção do Fim do Mundo | U0744–U0747; U0770–U0773 | transcrição automatizada; paráfrase e citação |

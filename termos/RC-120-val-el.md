@@ -15,13 +15,13 @@ atualizado = "2026-09-07"
 ## Definição Sintética
 Nome composto «Val El / Val Ellam»: a forma pela qual o codificador das Revelações Cósmicas, Jan Val Ellam (RC-071), é designado na economia interna da própria obra — o nome civil acrescido do prefixo «Val», que na RC identifica a família biodêmica Val (RC-109).
 
-## Contexto / Origem
-Registrado com uma única fonte (B031), o verbete tem valor sobretudo prosopográfico e de aparato: é o ponto de encontro entre o autor empírico (RC-071) e a sua caracterização dentro da narrativa cósmica. As relações apontam para a família Val (RC-109), para o próprio Jan Val Ellam (RC-071) e para os códigos RC-140, RC-068 e RC-083.
-
 ## Etimologia e Grafias
 - Grafia preferida: Val El / Val Ellam
 - Variações: Val El; Val Ellam
 - Família: Val (RC-109) · Autor: Jan Val Ellam (RC-071)
+
+## Contexto / Origem
+Registrado com uma única fonte (B031), o verbete tem valor sobretudo prosopográfico e de aparato: é o ponto de encontro entre o autor empírico (RC-071) e a sua caracterização dentro da narrativa cósmica. As relações apontam para a família Val (RC-109), para o próprio Jan Val Ellam (RC-071) e para os códigos RC-140, RC-068 e RC-083.
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -40,6 +40,11 @@ Registrado com uma única fonte (B031), o verbete tem valor sobretudo prosopogr�
 - RC-068 — ver ficha correspondente
 - RC-083 — ver ficha correspondente
 
+## Fontes
+| Obra/palestra | Localização | Tipo |
+|---|---|---|
+| B031 | — | registro-mestre (fonte censada) |
+
 ## Observações
 Fonte única (B031) — manter sob [REVISAR] até nova evidência. Verbete de aparato, necessário à seção I.1.1 da Enciclopédia (o autor e a sua voz).
 
@@ -47,8 +52,3 @@ Fonte única (B031) — manter sob [REVISAR] até nova evidência. Verbete de ap
 
 
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-120.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
-
-## Fontes
-| Obra/palestra | Localização | Tipo |
-|---|---|---|
-| B031 | — | registro-mestre (fonte censada) |

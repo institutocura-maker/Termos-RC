@@ -15,8 +15,36 @@ atualizado = "2026-08-25"
 ## Definição Sintética
 **Antares** é o sistema estelar (supergigante vermelha da constelação de Scorpius/Escorpião) citado nos "Livros de Yel Luzbel" como o **primeiro destino da turnê de Yel Luzbel e da Família Mion** na divulgação das questões sobre o Criador — e, na cronologia do Livro 1, um dos sistemas atingidos pela Revolta: a rebelião "resultou na morte de seres de várias espécies desse Sistema Solar e **de outros, como o de Antares**, e na destruição de civilizações e de mundos" (B057, p. 19).
 
+## Etimologia e Grafias
+- **Grafia preferida:** Antares (Sistema)
+- **Variações:** "Antares"; constelação de Scorpius/Escorpião (nota)
+- **Obs.:** a nota astronômica vem da ed. 2022 (adaptador) — **quarentena institucional** (fonte externa, não voz da obra)
+
+
 ## Contexto / Origem
 No Livro 2 (B058), após a declaração da Revolta Capelina, Len Mion revela o plano: "O plano consiste em **irmos primeiro a Antares** e, de lá, visitarmos os outros planetas que também já o estão a aguardar" (p. 34). No capítulo 9, Yel Luzbel palestra em "um mundo do sistema de Antares" diante de milhões de biodemos — onde confirma o fenômeno da "massa energética". A nota de rodapé da p. 37 (ed. 2022, do adaptador — fonte Wikipédia) identifica a estrela: "supergigante vermelha na constelação de Scorpius. É a 162ª estrela mais brilhante do céu noturno."
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Rebelião de Lúcifer | RC-002 | envolve (sistemas atingidos pela Revolta — B057) |
+| Alt´Lam | RC-017 | relaciona-se-a (relação prévia na malha) |
+| Capela (Sistema) | RC-039 | relaciona-se-a |
+| Gron Mion | RC-067 | associado |
+| Tau Ceti (Sistema) | RC-103 | relaciona-se-a (destinos da turnê) |
+
+## Seres Associados
+Yel Luzbel (RC-078); Len Mion (RC-074); as "famílias" biodemos de Antares (audiência do cap. 9).
+
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo |
+|---|---|---|---|
+| P2022-05-07 | Shiva, o Projeto Talm e os Mistérios de Awaylengam (palestra) | — | transcrição automatizada; citação |
+| O Início da Revolta Capelina (B058) | Cap. 7 | p. 34 (PDF): o plano de Len Mion | narrativa psicografada (Yel Luzbel) |
+| O Início da Revolta Capelina (B058) | Cap. 9 | pp. 42–45 (PDF): a palestra em Antares | narrativa psicografada |
+| O Início da Revolta Capelina (B058) | Cap. 8 | nota p. 37 (PDF): identificação astronômica (fonte Wikipédia — adaptador) | nota da edição 2022 |
+| A Revolta do Anjo Decaído (B057) | Cap. 1 | p. 19 (PDF): vítimas da Revolta "e de outros, como o de Antares" | narrativa psicografada |
+| Glossário Raquyel (B031) | — | — | base do termo |
 
 ## Citações-chave
 > "O plano consiste em irmos primeiro a Antares e, de lá, visitarmos os outros planetas que também já o estão a aguardar." — B058, p. 34 (Len Mion)
@@ -33,34 +61,6 @@ No Livro 2 (B058), após a declaração da Revolta Capelina, Len Mion revela o p
 
 - **[Antares — foco da rebelião de Lúcifer] (U0003)** «Eu sempre falei assim: "Ah, a rebelião de Lúcifero em algum momento se concentrou em Antares.» — a rebelião concentrada na região de Antares, onde a turma de Awaylengan tentou apaziguar os biodemos e se infectou com o vírus de Lúcifer.
 
-## Etimologia e Grafias
-- **Grafia preferida:** Antares (Sistema)
-- **Variações:** "Antares"; constelação de Scorpius/Escorpião (nota)
-- **Obs.:** a nota astronômica vem da ed. 2022 (adaptador) — **quarentena institucional** (fonte externa, não voz da obra)
-
-
-## Seres Associados
-Yel Luzbel (RC-078); Len Mion (RC-074); as "famílias" biodemos de Antares (audiência do cap. 9).
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Rebelião de Lúcifer | RC-002 | envolve (sistemas atingidos pela Revolta — B057) |
-| Alt´Lam | RC-017 | relaciona-se-a (relação prévia na malha) |
-| Capela (Sistema) | RC-039 | relaciona-se-a |
-| Gron Mion | RC-067 | associado |
-| Tau Ceti (Sistema) | RC-103 | relaciona-se-a (destinos da turnê) |
-
 ## Observações
 **Ficha criada no ciclo B058 (Devolutiva O-2, 2026-08-25)** — termo já constava da tabela-mestra (B031/B058 nas fontes) sem ficha física. **Quarentena ufológica (O-7):** sistema estelar real citado na narrativa psicografada — cruzar, não materializar como fato; a nota astronômica é do adaptador da ed. 2022 (Wikipédia — quarentena institucional). 0 códigos novos (O-3).
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** os 2 trechos entre aspas desta ficha **não** resistem à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Todos deixam vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
-
-## Fontes
-| Obra (sigla) | Capítulo | Página | Tipo |
-|---|---|---|---|
-| P2022-05-07 | Shiva, o Projeto Talm e os Mistérios de Awaylengam (palestra) | — | transcrição automatizada; citação |
-| O Início da Revolta Capelina (B058) | Cap. 7 | p. 34 (PDF): o plano de Len Mion | narrativa psicografada (Yel Luzbel) |
-| O Início da Revolta Capelina (B058) | Cap. 9 | pp. 42–45 (PDF): a palestra em Antares | narrativa psicografada |
-| O Início da Revolta Capelina (B058) | Cap. 8 | nota p. 37 (PDF): identificação astronômica (fonte Wikipédia — adaptador) | nota da edição 2022 |
-| A Revolta do Anjo Decaído (B057) | Cap. 1 | p. 19 (PDF): vítimas da Revolta "e de outros, como o de Antares" | narrativa psicografada |
-| Glossário Raquyel (B031) | — | — | base do termo |

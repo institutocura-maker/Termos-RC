@@ -16,6 +16,35 @@ atualizado = "2026-08-18"
 
 Mecânica técnica de funcionamento psíquico apresentada por Jan Val Ellam (P2024-02-03), baseada nos Yoga Sutras de Patanjali: a mente humana é uma **assembleia de cittas** (núcleos mentais, em sânscrito "chitta") que disputam permanentemente o controle do eu; as **vrittis** (atividades mentais, "vritti") são as unidades de informação que alimentam esses núcleos. O **citta sagrado** é o conjunto de protocolos mentais que, acionado pela vontade do ser humano (método druídico), permite operar o eu sem crenças — a chave para decifrar a realidade.
 
+### Estrutura interna
+
+- **vrittis:** atividades mentais codificadas (bits/memes) espalhadas pelo universo;
+- **cittas:** núcleos mentais formados pelo agrupamento de vrittis na cabeça de cada ser — "cada transtorno, cada pânico, cada preferência é um citta que reina";
+- **assembleia de cittas:** disputam o controle do eu humano;
+- **citta sagrado** (Patanjali): o núcleo mental divino que, acionado pela vontade, desperta o processo suprahumano — base do Método Druídico (RC-755);
+- **Nirodha:** o recolhimento das vrittis para reciclagem (RC-548 Arquivos Mentais);
+- **DNA humano como "recolhedor"** das vrittis; o eu administra e devolve à memória dos elétrons;
+- relação com karma/teia quântica (RC-559) e protocolo mental (RC-517).
+
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Protocolo Mental (padrões organizadores da mente) | RC-517 | relaciona-se-a |
+| Arquivos Mentais (coleção de conceitos no psiquismo) | RC-548 | relaciona-se-a |
+| Teia quântica (o que sai de um ser volta para ele) | RC-559 | relaciona-se-a |
+| Wyrd / Urd (Teia do Destino) | RC-658 | relaciona-se-a |
+| Escola da Decifração da Realidade (Método Druídico) | RC-755 | relaciona-se-a |
+| Jainismo (antigo Druidismo — religião mais antiga) | RC-759 | ← relaciona-se-a |
+| Os 256 Caminhos Profetizáveis de Orunmilá | RC-767 | ← relaciona-se-a |
+
+## Fontes
+
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2025-06-14b | A Consciência Humana e a Chave da Decifração Universal (palestra) | — | transcrição automatizada; citação |
+| P2024-02-03 | blocos centrais (assembleia de cittas; citta sagrado; vrittis) | palestra/STT pré-curada |
+
 ## Citações-chave
 
 > "Segundo Patanjali, a mente humana é uma assembleia de cittas que disputam permanentemente o controle do eu daquele ser humano... Isso aqui é a vontade de sobrevivência que loucamente Javé criou para ele mesmo quando ele caiu." — P2024-02-03
@@ -77,37 +106,8 @@ Mecânica técnica de funcionamento psíquico apresentada por Jan Val Ellam (P20
 
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-760.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
 
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Protocolo Mental (padrões organizadores da mente) | RC-517 | relaciona-se-a |
-| Arquivos Mentais (coleção de conceitos no psiquismo) | RC-548 | relaciona-se-a |
-| Teia quântica (o que sai de um ser volta para ele) | RC-559 | relaciona-se-a |
-| Wyrd / Urd (Teia do Destino) | RC-658 | relaciona-se-a |
-| Escola da Decifração da Realidade (Método Druídico) | RC-755 | relaciona-se-a |
-| Jainismo (antigo Druidismo — religião mais antiga) | RC-759 | ← relaciona-se-a |
-| Os 256 Caminhos Profetizáveis de Orunmilá | RC-767 | ← relaciona-se-a |
-
 ## Observações
 
 A afirmação de que "cada transtorno mental é um citta que reina" é **metáfora do autor**, não terminologia clínica. Vrittis/cittas/citta sagrado são **conceitos próprios da RC**, derivados dos Yoga Sutras de Patanjali, sem validação neurocientífica. A "vontade de sobrevivência de Javé" retransmitida a cada citta é leitura cosmológica do autor.
 
 ---
-
-## Fontes
-
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2025-06-14b | A Consciência Humana e a Chave da Decifração Universal (palestra) | — | transcrição automatizada; citação |
-| P2024-02-03 | blocos centrais (assembleia de cittas; citta sagrado; vrittis) | palestra/STT pré-curada |
-
-## Estrutura interna
-
-- **vrittis:** atividades mentais codificadas (bits/memes) espalhadas pelo universo;
-- **cittas:** núcleos mentais formados pelo agrupamento de vrittis na cabeça de cada ser — "cada transtorno, cada pânico, cada preferência é um citta que reina";
-- **assembleia de cittas:** disputam o controle do eu humano;
-- **citta sagrado** (Patanjali): o núcleo mental divino que, acionado pela vontade, desperta o processo suprahumano — base do Método Druídico (RC-755);
-- **Nirodha:** o recolhimento das vrittis para reciclagem (RC-548 Arquivos Mentais);
-- **DNA humano como "recolhedor"** das vrittis; o eu administra e devolve à memória dos elétrons;
-- relação com karma/teia quântica (RC-559) e protocolo mental (RC-517).
-

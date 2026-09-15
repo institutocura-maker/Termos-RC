@@ -15,8 +15,38 @@ atualizado = "2026-08-29"
 ## Definição Sintética
 É o isolamento imposto aos **19 planetas** que participaram da Rebelião de Lúcifer há aproximadamente **750 mil anos**, iniciada no Sistema de Capela. A Terra serviu de refúgio para exilados (que vieram em naves e reencarnaram por afinidade vibracional — os Exilados de Capela). **Atualmente, a Terra é o único planeta que ainda se encontra isolado cosmicamente**, sem "contato oficial" com outras civilizações extraterrenas. O isolamento terminará quando **Sophia, o Cristo Cósmico e Suserano deste universo, aparecer nos céus com suas naves** e fizer o primeiro contato extraterreno oficial — a promessa de Jesus de que voltaria (B031).
 
+## Etimologia e Grafias
+- **Grafia preferida:** Isolamento Cósmico
+- **Variações:** isolamento do orbe terrestre; exílio cósmico
+
+
 ## Contexto / Origem
 O Isolamento Cósmico é o **fim do período da Rebelião de Lúcifer** e a condição que explica a ausência de contato oficial com ETs. Sua superação inicia a Reintegração Cósmica da Terra.
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Rebelião de Lúcifer | RC-002 | ← resulta-em |
+| Reintegração Cósmica | RC-003 | associado |
+| Segundo Advento do Cristo (Volta de Jesus) | RC-005 | termina-com |
+| Exilados de Capela | RC-007 | associado |
+| Sophia (Cristo Cósmico) | RC-009 | associado |
+| Lúcifer (Yel Luzbel) | RC-078 | associado |
+| Ulsh | RC-105 | associado |
+| Yel Luzbel | RC-142 | associado |
+| Cidadão Cósmico | RC-226 | associado |
+| Coreografia Cósmica (vinda de Sophia) | RC-258 | associado |
+| Os 270 Mundos (profecia do Zohar) | RC-265 | associado |
+| Drama do Fechamento dos Portais | RC-295 | associado |
+| Fenômenos Denunciadores do Fim | RC-314 | associado |
+| Quarentena Sideral / Cósmica | RC-342 | ← variação |
+| Ilha Cósmica (mundos rebelados) | RC-353 | associado |
+| Terra de Ninguém (cósmica) | RC-358 | associado |
+| Blindagem cósmica (= quarentena terrestre) | RC-510 | ← variação |
+| Biblioteca Genômica Humana | RC-889 | associado |
+| Qualia como Processamento Humano | RC-894 | associado |
+| Point Interdimensional | RC-896 | associado |
+| Choque de Realidade | RC-898 | associado |
 
 ## Ampliação
 ### P2024-07-13
@@ -102,33 +132,3 @@ O Isolamento Cósmico é o **fim do período da Rebelião de Lúcifer** e a cond
 ---
 ---
 ---
-
-## Etimologia e Grafias
-- **Grafia preferida:** Isolamento Cósmico
-- **Variações:** isolamento do orbe terrestre; exílio cósmico
-
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Rebelião de Lúcifer | RC-002 | ← resulta-em |
-| Reintegração Cósmica | RC-003 | associado |
-| Segundo Advento do Cristo (Volta de Jesus) | RC-005 | termina-com |
-| Exilados de Capela | RC-007 | associado |
-| Sophia (Cristo Cósmico) | RC-009 | associado |
-| Lúcifer (Yel Luzbel) | RC-078 | associado |
-| Ulsh | RC-105 | associado |
-| Yel Luzbel | RC-142 | associado |
-| Cidadão Cósmico | RC-226 | associado |
-| Coreografia Cósmica (vinda de Sophia) | RC-258 | associado |
-| Os 270 Mundos (profecia do Zohar) | RC-265 | associado |
-| Drama do Fechamento dos Portais | RC-295 | associado |
-| Fenômenos Denunciadores do Fim | RC-314 | associado |
-| Quarentena Sideral / Cósmica | RC-342 | ← variação |
-| Ilha Cósmica (mundos rebelados) | RC-353 | associado |
-| Terra de Ninguém (cósmica) | RC-358 | associado |
-| Blindagem cósmica (= quarentena terrestre) | RC-510 | ← variação |
-| Biblioteca Genômica Humana | RC-889 | associado |
-| Qualia como Processamento Humano | RC-894 | associado |
-| Point Interdimensional | RC-896 | associado |
-| Choque de Realidade | RC-898 | associado |

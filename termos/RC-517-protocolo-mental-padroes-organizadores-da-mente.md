@@ -16,6 +16,33 @@ atualizado = "2026-08-29"
 
 Na RC, os **padrões organizadores da mente** — os protocolos mentais que uma consciência coleciona das experiências em diversas espécies e que definem (junto à ancestralidade e ao álbum memorial) o caminho de destinação de um ser.
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| DNA como Projeção Holográfica do Psiquismo do Criador | RC-217 | associado |
+| Deslacre (rompimento dos lacres psíquicos) | RC-448 | associado |
+| Mêntion (estruturas da mente extrafísica) | RC-511 | relaciona-se-a |
+| Arquivos da Memória Cósmica | RC-521 | associado |
+| Arquivos Mentais (coleção de conceitos no psiquismo) | RC-548 | relaciona-se-a |
+| Corpo Manásico / Corpo Mental | RC-625 | associado |
+| Camuflagem da Realidade | RC-702 | associado |
+| Universo de Egrégoras Emocionais | RC-711 | ← usa |
+| Lei da Mente do Buda | RC-712 | ← usa |
+| Vrittis e Cittas (atividades e núcleos mentais) | RC-760 | ← relaciona-se-a |
+| Os 256 Caminhos Profetizáveis de Orunmilá | RC-767 | ← relaciona-se-a |
+
+## Fontes
+
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
+| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
+| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
+| P2025-11-29 | bloco 2 (256 caminhos); bloco 8 (vrittis/protocolos) | palestra/STT pré-curada |
+
+
+
+
 ## Citações-chave
 
 > "A coleção de protocolos mentais que uma consciência coleciona das experiências ocorridas em outras espécies... e o álbum memorial das vidas sucessivas desenvolvidas na natureza humana." — P2025-11-29
@@ -43,34 +70,7 @@ Na RC, os **padrões organizadores da mente** — os protocolos mentais que uma 
 - Contexto: os protocolos mentais como base técnica do destino (RC-767) e do Tikun (RC-514).
 
 
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| DNA como Projeção Holográfica do Psiquismo do Criador | RC-217 | associado |
-| Deslacre (rompimento dos lacres psíquicos) | RC-448 | associado |
-| Mêntion (estruturas da mente extrafísica) | RC-511 | relaciona-se-a |
-| Arquivos da Memória Cósmica | RC-521 | associado |
-| Arquivos Mentais (coleção de conceitos no psiquismo) | RC-548 | relaciona-se-a |
-| Corpo Manásico / Corpo Mental | RC-625 | associado |
-| Camuflagem da Realidade | RC-702 | associado |
-| Universo de Egrégoras Emocionais | RC-711 | ← usa |
-| Lei da Mente do Buda | RC-712 | ← usa |
-| Vrittis e Cittas (atividades e núcleos mentais) | RC-760 | ← relaciona-se-a |
-| Os 256 Caminhos Profetizáveis de Orunmilá | RC-767 | ← relaciona-se-a |
-
 ## Observações
 
 Protocolos mentais como mecanismo de destino é **leitura do autor** (cosmovisão RC) — não é psicologia/neurociência validada.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
-
-## Fontes
-
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
-| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
-| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
-| P2025-11-29 | bloco 2 (256 caminhos); bloco 8 (vrittis/protocolos) | palestra/STT pré-curada |
-
-
-

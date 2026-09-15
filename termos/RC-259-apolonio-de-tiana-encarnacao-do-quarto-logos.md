@@ -15,8 +15,35 @@ atualizado = "2026-09-12"
 ## Definição Sintética
 **Única encarnação terrena conhecida do Quarto Logos (Olm)**, ocorrida há aproximadamente 2.000 anos, contemporânea de Jesus Cristo (B031). Em B016, o capítulo 8 ("Apolônio de Tiana") é narrado na voz dessa personalidade: "Costumo olhar para a humanidade com o mesmo padrão de compaixão que dedico a mim mesmo. Padecemos, todos, dos mesmos problemas, de dores semelhantes e de angústias superlativas." Apolônio de Tiana foi um filósofo neopitagórico histórico (séc. I d.C.), reinterpretado nas RC como a encarnação do Quarto Logos.
 
+## Etimologia e Grafias
+- **Grafia preferida:** Apolônio de Tiana
+- **Variações:** Apolônio (filósofo neopitagórico); encarnação do Quarto Logos
+
+
 ## Contexto / Origem
 A encarnação de Apolônio marca a atuação do Quarto Logos no mundo: sua mensagem (cap. 8) contrasta o modo de Jesus — usar o poder "não para submeter as pessoas, mas sim, para ajudar as mais frágeis" — com o "Deus Bíblico", que havia destinado seu messias para "dominar a humanidade em seu nome, só que pela força". É no capítulo 8 que Ellam registra a **38ª Constatação** (Liberdade Mental como premissa do Quarto Logos).
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Jan Val Ellam (Rogério de Almeida Freitas) | RC-071 | atual agente |
+| Jesus | RC-072 | contemporâneo |
+| Quarto Logos (Olm / Codificador de Zian) | RC-092 | é-um (encarnação) |
+| Olm (Codificador de Zion/Zian) | RC-252 | é-um |
+| Liberdade Mental (premissa do Quarto Logos) | RC-253 | mensagem |
+| Hermes Trismegisto (= Ningishzidda/Thoth/Quetzalcóatl) | RC-463 | ← relaciona-se-a |
+| Taumaturgia Genético-Química | RC-713 | ← envolve |
+| Escola da Decifração da Realidade (Método Druídico) | RC-755 | relaciona-se-a |
+| Nuctemeron | RC-931 | associado |
+
+## Seres Associados
+Olm (RC-252); Jesus (RC-072); Sophia (RC-009).
+
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo |
+|---|---|---|---|
+| O Quarto Logos (B016) | cap. 8 (Apolônio de Tiana) | pp. 55–70 (aprox.) | capítulo dedicado |
+| Painéis Emergentes (B031) | Glossário (Quarto Logos) | — | apoio (secundária) |
 
 ## Citações-chave
 > "Costumo olhar para a humanidade com o mesmo padrão de compaixão que dedico a mim mesmo. Padecemos, todos, dos mesmos problemas, de dores semelhantes e de angústias superlativas." — B016, cap. 8
@@ -62,34 +89,7 @@ A encarnação de Apolônio marca a atuação do Quarto Logos no mundo: sua mens
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-259.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
 
-## Etimologia e Grafias
-- **Grafia preferida:** Apolônio de Tiana
-- **Variações:** Apolônio (filósofo neopitagórico); encarnação do Quarto Logos
-
-
-## Seres Associados
-Olm (RC-252); Jesus (RC-072); Sophia (RC-009).
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Jan Val Ellam (Rogério de Almeida Freitas) | RC-071 | atual agente |
-| Jesus | RC-072 | contemporâneo |
-| Quarto Logos (Olm / Codificador de Zian) | RC-092 | é-um (encarnação) |
-| Olm (Codificador de Zion/Zian) | RC-252 | é-um |
-| Liberdade Mental (premissa do Quarto Logos) | RC-253 | mensagem |
-| Hermes Trismegisto (= Ningishzidda/Thoth/Quetzalcóatl) | RC-463 | ← relaciona-se-a |
-| Taumaturgia Genético-Química | RC-713 | ← envolve |
-| Escola da Decifração da Realidade (Método Druídico) | RC-755 | relaciona-se-a |
-| Nuctemeron | RC-931 | associado |
-
 ## Observações
 Ficha baseada em B016 (obra primária) + B031. O cap. 8 de B016 é narrado na 1ª pessoa de Apolônio — verificar se há outras encarnações do Quarto Logos mencionadas na obra completa.
 
 ---
-
-## Fontes
-| Obra (sigla) | Capítulo | Página | Tipo |
-|---|---|---|---|
-| O Quarto Logos (B016) | cap. 8 (Apolônio de Tiana) | pp. 55–70 (aprox.) | capítulo dedicado |
-| Painéis Emergentes (B031) | Glossário (Quarto Logos) | — | apoio (secundária) |

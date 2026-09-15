@@ -28,6 +28,18 @@ Com isso:
 
 **Origem do conteúdo da ampliação:** palestra `P2025-05-10 — Mistérios do Apocalipse` (10/05/2025). Transcrição automatizada, **não conferida com o áudio**; cada aspa foi recortada do `original.txt` pelo índice de âncoras do motor e conferida byte a byte pelo portão B. Nada foi digitado de memória.
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Sophia (Cristo Cósmico) | RC-009 | **sem aresta** em `RELACOES`; arquivo existe |
+| Cápsula do Tempo de Sophia (João) | RC-274 | **sem aresta** em `RELACOES`; arquivo existe |
+| Apocalipse (livro de João, ditado por Sofia/Rockman) | RC-854 | **sem aresta** em `RELACOES`; arquivo existe |
+
+## Fontes
+| Obra (sigla) | Título | Página | Tipo |
+|---|---|---|---|
+| P2025-05-10 | Mistérios do Apocalipse (palestra) | — | transcrição automatizada; citação |
+
 ## Citações-chave
 
 > Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
@@ -41,19 +53,8 @@ Com isso:
 - **[João, o apóstolo menino] (U0003)** «Então, o apóstolo João de Jesus é Era um rapazote de 16 anos no meio de um grupo de coroas, todo mundo com 30 anos, ou seja, no meio de um grupo de velhos.» — João (RC-855) era 'um rapazote de 16 anos' entre apóstolos de ~30; Jesus o manteve junto para que não virasse 'empregado' dos outros.
 - **[O discípulo que testemunhou tudo] (U0003)** «Foi o único Quando Jesus foi preso, o único apóstolo que não fugiu com medo também de ser preso foi ele.» — João foi 'o único apóstolo que não fugiu' na prisão de Jesus — testemunhou tudo, daí ser tratado como o 'discípulo amado'.
 
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Sophia (Cristo Cósmico) | RC-009 | **sem aresta** em `RELACOES`; arquivo existe |
-| Cápsula do Tempo de Sophia (João) | RC-274 | **sem aresta** em `RELACOES`; arquivo existe |
-| Apocalipse (livro de João, ditado por Sofia/Rockman) | RC-854 | **sem aresta** em `RELACOES`; arquivo existe |
-
-## Fontes
-| Obra (sigla) | Título | Página | Tipo |
-|---|---|---|---|
-| P2025-05-10 | Mistérios do Apocalipse (palestra) | — | transcrição automatizada; citação |
-
-## Observações sobre o Estado da Malha
+## Observações
+### Observações sobre o Estado da Malha
 
 * **Grafia STT:** 'João' (literal). = 'o discípulo amado'; irmão de Tiago; o apóstolo menino que Jesus manteve junto de si.
 * **Trava aplicável**: nenhuma além das gerais do despacho.

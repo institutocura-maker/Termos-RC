@@ -15,8 +15,42 @@ atualizado = "2026-09-12"
 ## Definição Sintética
 Espírito ou consciência-âncora que guarda múltiplos centros de consciência/eus, entre eles Javé, Sophia, Jesus e Vishnu, enfrentando dificuldade para produzir coalescência entre eles.
 
+## Etimologia e Grafias
+- Grafia preferida: En Ma. Variações: Emá; Emar; EMÁ. Não confundir com Elm (RC-454).
+- **Fonte da decisão:** Devolutiva-01 + observação direta do curador.
+
+
 ## Contexto / Origem
 A Devolutiva fixou a forma En Ma. As formas antigas Emá e Emar são preservadas como variações históricas para rastreabilidade.
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Javé | RC-001 | relaciona-se-a |
+| Javé | RC-001 | ancora |
+| Javé | RC-001 | relaciona-se-a |
+| Sophia (Cristo Cósmico) | RC-009 | ancora |
+| Sophia (Cristo Cósmico) | RC-009 | ← relaciona-se-a |
+| Sophia (Cristo Cósmico) | RC-009 | relaciona-se-a |
+| Brahma (Brajna) | RC-037 | relaciona-se-a |
+| Jesus | RC-072 | ancora |
+| Jesus | RC-072 | relaciona-se-a |
+| Vishnu (Mavatna) | RC-135 | ancora |
+| Enigma da Esperança (Caixa de Pandora) | RC-287 | associado |
+| Deva / Aurora (A Grande Deusa) | RC-475 | associado |
+| Ensá (espírito primordial companheiro de En Ma) | RC-477 | relaciona-se-a |
+| Dinastia das Sophias | RC-494 | associado |
+| Eu Coalescente | RC-620 | ← aplica-se-a |
+| Simultaneidade Reversa | RC-628 | ← repercute-em |
+| Instabilidade da Eternidade | RC-648 | ← envolve |
+
+## Seres Associados
+Consultar relações acima.
+
+## Fontes
+| Obra/palestra | Localização | Tipo |
+|---|---|---|
+| P2026-07-30 — 4ª Edição Estagiários do Kaos | U0058–U0084 | STT pré-curado / devolutiva |
 
 ## Citações-chave
 > “Em Ma é apresentado como o espírito que ancora quatro centros de consciência: Javé, Sophia, Jesus e Vishnu.” — P2026-07-30, U0058–U0084
@@ -41,43 +75,9 @@ A Devolutiva fixou a forma En Ma. As formas antigas Emá e Emar são preservadas
 - Divergências e alegações científicas permanecem abertas/atribuídas à palestra.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
 
-## Etimologia e Grafias
-- Grafia preferida: En Ma. Variações: Emá; Emar; EMÁ. Não confundir com Elm (RC-454).
-- **Fonte da decisão:** Devolutiva-01 + observação direta do curador.
-
-
-## Seres Associados
-Consultar relações acima.
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | relaciona-se-a |
-| Javé | RC-001 | ancora |
-| Javé | RC-001 | relaciona-se-a |
-| Sophia (Cristo Cósmico) | RC-009 | ancora |
-| Sophia (Cristo Cósmico) | RC-009 | ← relaciona-se-a |
-| Sophia (Cristo Cósmico) | RC-009 | relaciona-se-a |
-| Brahma (Brajna) | RC-037 | relaciona-se-a |
-| Jesus | RC-072 | ancora |
-| Jesus | RC-072 | relaciona-se-a |
-| Vishnu (Mavatna) | RC-135 | ancora |
-| Enigma da Esperança (Caixa de Pandora) | RC-287 | associado |
-| Deva / Aurora (A Grande Deusa) | RC-475 | associado |
-| Ensá (espírito primordial companheiro de En Ma) | RC-477 | relaciona-se-a |
-| Dinastia das Sophias | RC-494 | associado |
-| Eu Coalescente | RC-620 | ← aplica-se-a |
-| Simultaneidade Reversa | RC-628 | ← repercute-em |
-| Instabilidade da Eternidade | RC-648 | ← envolve |
-
 ## Observações
 Mesclado no código existente RC-476 para evitar duplicação. A relação com Ensá permanece candidata e depende de outras fontes.
 
 **Regra de status:** fonte recente em STT sem áudio anexado; manter candidato salvo status prévio do termo mesclado.
 
 ---
-
-## Fontes
-| Obra/palestra | Localização | Tipo |
-|---|---|---|
-| P2026-07-30 — 4ª Edição Estagiários do Kaos | U0058–U0084 | STT pré-curado / devolutiva |

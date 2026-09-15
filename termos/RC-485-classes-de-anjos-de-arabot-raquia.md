@@ -16,6 +16,21 @@ atualizado = "2026-09-12"
 
 As diversas classes de anjos clones de Javé que povoam Arabot-Ráquia (RC-495): serafins flamejantes, querubins, ofanins, galgalim, chayot, chashmalim — "os anjos de Javé não são de um só tipo". Anjos são "robôs" de Javé (clones robotizados); ninguém aceita anjo sentado no conselho dos arcontes — só seres demoníacos.
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Javé | RC-001 | relaciona-se-a |
+| Anjos ministradores (Usá, Azá, Aziel) | RC-484 | associado |
+| Enoque (sétimo patriarca; levado por Javé) | RC-489 | ← relaciona-se-a |
+| Arabot-Ráquia (ambiente de Javé; = Araboth) | RC-495 | ← relaciona-se-a |
+| Metatron | RC-671 | ← relaciona-se-a |
+
+## Fontes
+
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2026-07-25 | Jesus e a Dinastia das Sophias (Dossiê aprovado 19/08/2026) | palestra/STT pré-curada |
+
 ## Citações-chave
 
 > "Os anjos de Javé não são de um só tipo, é de vários tipos." — P2026-07-25
@@ -29,15 +44,6 @@ As diversas classes de anjos clones de Javé que povoam Arabot-Ráquia (RC-495):
 - **Rabino Ismael:** levado aos céus (época de Enoque/Metatron); descreve os seis salões + sétimo onde acampa a Shekinah; príncipes da Merkabah, serafins, águias da Merkabah, ofanins, galgalim, chayot, chananiim.
 - **Anjo "Português" [REVISAR → CHANCELA 2026-09-06 · F039-L3: AGUARDA-ÁUDIO (STT preservado como falado) — ver nota]:** anjo responsável pela "Ofiúsa" (terra das serpentes, Galícia/norte da Espanha; rainha e rei serpentes — seres teriantrópicos); questionou a presença de Enoque-Metatron; STT provavelmente deformou o nome original. Desafiado por Javé ("Quem é você para entrar e falar na minha presença?").
 
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | relaciona-se-a |
-| Anjos ministradores (Usá, Azá, Aziel) | RC-484 | associado |
-| Enoque (sétimo patriarca; levado por Javé) | RC-489 | ← relaciona-se-a |
-| Arabot-Ráquia (ambiente de Javé; = Araboth) | RC-495 | ← relaciona-se-a |
-| Metatron | RC-671 | ← relaciona-se-a |
-
 ## Observações
 
 STT a normalizar com nota: Usá/Azá/Aziel (Uzza/Azza/Azael), mercabá (Merkabah), Rquia (Ráquia), chequar (Shekinah).
@@ -47,9 +53,3 @@ STT a normalizar com nota: Usá/Azá/Aziel (Uzza/Azza/Azael), mercabá (Merkabah
 
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-485.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
-
-## Fontes
-
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2026-07-25 | Jesus e a Dinastia das Sophias (Dossiê aprovado 19/08/2026) | palestra/STT pré-curada |

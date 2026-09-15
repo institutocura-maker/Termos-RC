@@ -15,8 +15,44 @@ atualizado = "2026-08-12"
 ## Definição Sintética
 A "Colmeia Universal" é a **forma-modelo** de como **Javé — o criador universal — se relaciona com suas criaturas** (B044, Sinopse): uma organização piramidal em que o Criador ocupa o topo ("Abelha-Rainha") e todas as demais criaturas existem para servi-lo — como operárias de uma colmeia. A expressão descreve tanto o **modelo de relação** (a "mente coletiva" sob controle de Javé, o "modelo colmeia") quanto a **estrutura total da Criação**, composta por seus **dois "Grandes Favos"**: o universo material (planejado) e o universo antimaterial (improvisado na queda).
 
+## Etimologia e Grafias
+- **Grafia preferida:** Colmeia Universal
+- **Variações:** Colmeia (geral); Colmeia Trimurtina (a colmeia original do universo demo); a "Colmeia" de Javé
+
+
 ## Contexto / Origem
 Termo-título da obra *A Divina Colmeia: A Trimurti Desencantada* (B044, 2019), que é "a descrição da 'forma-modelo' jamais compreendida de como Javé se relaciona com suas criaturas". A metáfora da colmeia percorre toda a obra: Javé = abelha-rainha; anjos-clones, demos, biodemos e seres biológicos = operárias; os dois universos = favos. O livro mostra a "aposentadoria" de Javé da função de abelha-rainha e o cenário final em que as "abelhas-rainhas aprenderão também a servir a propósitos nobres".
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Javé | RC-001 | criador |
+| Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | parte-de (favo improvisado) |
+| Universo Material (Bhuloka) | RC-107 | parte-de (favo planejado) |
+| Abelha-Rainha (Javé) | RC-175 | integrante (topo) |
+| Modelo Colmeia (Sistema/Controle Colmeia) | RC-176 | é-um (o modelo de relação) |
+| Colmeia do Éden | RC-177 | associado |
+| Dois Grandes Favos | RC-178 | ← parte-de |
+| Plano Colmeia (para o Universo Biológico) | RC-179 | desdobramento biológico |
+| Fator Colmeia | RC-180 | relaciona-se-a |
+| Pluribus Unum | RC-181 | associado |
+| Unus Pluribum | RC-182 | associado |
+| Horda Colmeia | RC-185 | associado |
+| Rebanho humano | RC-193 | associado |
+| Ocaso do Criador (a segunda derrocada do criador reconstruído) | RC-863 | associado |
+
+## Seres Associados
+Javé/Brahma (RC-001/RC-037); anjos-clones (RC-019); demos (RC-049); biodemos (RC-036); seres biológicos (RC-099).
+
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo |
+|---|---|---|---|
+| P2022-09-18 | Os Níveis de Estresse Extremo da Criação (palestra) | — | transcrição automatizada; citação |
+| P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
+| P2022-11-26 | Choque de Realidade – o Perpétuo Espanto dos Donos da Verdade (palestra) | — | transcrição automatizada; citação |
+| P2022-12-03 | O Ocaso do Criador e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
+| P2023-02-12 | A Desconexão dos Desígnios Proféticos do Judaísmo, do Cristianismo e do Islamismo (palestra) | — | transcrição automatizada; citação |
+| A Divina Colmeia (B044) | Sinopse; caps. 3, 13, 14, 15 | pp. 5, 30–42, 96–110 | conceito central da obra |
 
 ## Citações-chave
 > "A Divina Colmeia se apresenta como sendo a descrição da 'forma-modelo' jamais compreendida de como Javé — o criador universal — se relaciona com suas criaturas." — B044, Sinopse
@@ -56,42 +92,6 @@ Termo-título da obra *A Divina Colmeia: A Trimurti Desencantada* (B044, 2019), 
 - **[As abelhas foram as primeiras a dizer] (U0006)** «Só que no nosso universo, de vez em quando, algo vai começar a colapsar e as abelhas foram as primeiras a dizer: "Ei, tá russo, os elétrons que nos dão suporte, não.» — o sistema colmeico como primeiro sistema estruturado a somatizar: "quem primeiro somatizou a bronca foi o sistema colmico do lado biológico" (U0012: «Quem primeiro somatizou a bronca foi o sistema colmico do lado biológico»); "o colapso geral começou lá, mas o colapso dos sistemas estruturados como uma espécie foi a Calmeia"; "o sistema colméico que funciona numa colmeia é o mesmo que funciona entre Jahé e os anjos... esses sistemas estão interligados"; o aviso ignorado: "a natureza terrestre na hora em que as abelhas começaram a colapsar várias colônias, aquilo era um aviso para Jé" (U0012: «a natureza terrestre na hora em que as abelhas começaram a colapsar várias colônias, aquilo era um aviso para Jé»).
 - **[O sistema colmeico sucumbiu de vez] (U0012)** «O sistema colméico entre Jahé e os anjos foi se degradando entre os anos 2019 e 2020 sucumbiu de vez.» — a degradação: "ainda que em 2016, 17, 18 já se sentia a fraqueza total do sistema operativo desses anjos colonos"; "primeiro colapsam os sistemas, depois os entes que geram sistemas" (U0031: «Primeiro colapsam os sistemas, depois os entes que geram sistemas»); a colmeia real como circuito: "E o que nós entendemos como comé é na verdade um circuito eletromagnético consciencial funcionando e a gente não percebe, a gente só vê a Calmeia" (U0002: «E o que nós entendemos como comé é na verdade um circuito eletromagnético consciencial funcionando e a gente não percebe, a gente só vê a Calmeia»).
 
-## Etimologia e Grafias
-- **Grafia preferida:** Colmeia Universal
-- **Variações:** Colmeia (geral); Colmeia Trimurtina (a colmeia original do universo demo); a "Colmeia" de Javé
-
-
-## Seres Associados
-Javé/Brahma (RC-001/RC-037); anjos-clones (RC-019); demos (RC-049); biodemos (RC-036); seres biológicos (RC-099).
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | criador |
-| Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | parte-de (favo improvisado) |
-| Universo Material (Bhuloka) | RC-107 | parte-de (favo planejado) |
-| Abelha-Rainha (Javé) | RC-175 | integrante (topo) |
-| Modelo Colmeia (Sistema/Controle Colmeia) | RC-176 | é-um (o modelo de relação) |
-| Colmeia do Éden | RC-177 | associado |
-| Dois Grandes Favos | RC-178 | ← parte-de |
-| Plano Colmeia (para o Universo Biológico) | RC-179 | desdobramento biológico |
-| Fator Colmeia | RC-180 | relaciona-se-a |
-| Pluribus Unum | RC-181 | associado |
-| Unus Pluribum | RC-182 | associado |
-| Horda Colmeia | RC-185 | associado |
-| Rebanho humano | RC-193 | associado |
-| Ocaso do Criador (a segunda derrocada do criador reconstruído) | RC-863 | associado |
-
 ## Observações
 Ficha baseada em B044 (obra primária). A Colmeia Universal conecta a estrutura ontológica das RC (Javé como abelha-rainha) ao modelo de controle ("modelo colmeia") e à geografia cósmica (os dois favos = os dois universos). Verificar nos cap. 13–15 o desfecho do modelo e o "Fator Colmeia".
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
-
-## Fontes
-| Obra (sigla) | Capítulo | Página | Tipo |
-|---|---|---|---|
-| P2022-09-18 | Os Níveis de Estresse Extremo da Criação (palestra) | — | transcrição automatizada; citação |
-| P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
-| P2022-11-26 | Choque de Realidade – o Perpétuo Espanto dos Donos da Verdade (palestra) | — | transcrição automatizada; citação |
-| P2022-12-03 | O Ocaso do Criador e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
-| P2023-02-12 | A Desconexão dos Desígnios Proféticos do Judaísmo, do Cristianismo e do Islamismo (palestra) | — | transcrição automatizada; citação |
-| A Divina Colmeia (B044) | Sinopse; caps. 3, 13, 14, 15 | pp. 5, 30–42, 96–110 | conceito central da obra |

@@ -16,6 +16,42 @@ atualizado = "2026-08-29"
 
 Entidade cósmica resultante do **processo de especiação humana** (RC-056): a nova expressão de consciência que a humanidade em evolução vertical pode gerar — descrita na RC como o desdobramento futuro do homo terráqueo após a recomposição do criador. Em P2023-05-13, Ellam vincula a origem da Criatura Universal ao processo de especiação (item 9.6 do Sumário Doutrinário: "O Processo de Especiação Humana e a Origem da 'Criatura Universal'") e projeta um mundo de regeneração pós-2050.
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Javé | RC-001 | relaciona-se-a (recomposição do criador) |
+| Especiação | RC-056 | relaciona-se-a |
+| Seres Terrenos (Homo Sapiens) | RC-099 | associado |
+| Universo Material (Bhuloka) | RC-107 | associado |
+| Mente Universal (Emergente) | RC-163 | associado |
+| Era da Criatura Universal | RC-172 | associado |
+| Era das Supercivilizações | RC-173 | associado |
+| Consórcio de Mundos (Arquitetos Universais) | RC-538 | ← relaciona-se-a |
+| Arquitetos Universais (coletivo cocriador) | RC-539 | associado |
+| Evolução Possível (terceira via: nem Darwin, nem deus) | RC-541 | ← relaciona-se-a |
+| Novo Homo sapiens (evolução que terá de vir) | RC-544 | ← relaciona-se-a |
+| Coconstrutores da Obra (tikun) | RC-545 | associado |
+| Consciências em Corpos de Sílica | RC-645 | ← relaciona-se-a |
+| Humanos: Últimos e Primeiros | RC-654 | associado |
+| As Cinco Lentes da Realidade | RC-761 | ← relaciona-se-a |
+| Biocosmos emergente (a nova mente biológica global ancorada nos campos mórficos) | RC-879 | associado |
+
+## Fontes
+
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2021-06-26 | Shiva - A Reconstrução do Erro de Brahma e o Tikum (palestra) | — | transcrição automatizada; citação |
+| P2021-02-28 | Tragédia Anunciada - As Fórmulas Mentais do Poder Demo (palestra) | — | transcrição automatizada; citação |
+| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
+| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
+| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra/STT) | citação verbatim; paráfrase |
+| B031 / B024 / B019 | — | obras publicadas |
+| P2026-04-02 | — | palestra/STT |
+| P2023-05-13 | seção 9.6; bloco da especiação | palestra/STT pré-curada |
+
+
+
+
 ## Citações-chave
 
 > "Isso vai ter que ser feito através de um processo de especiação, porque aqui na terra talvez não dê para ser feito isso. Então, o que fazer? Não há muito a ser feito fora de cada um de nós... e esse é o processo de elevação de consciência que nós precisamos fazer." — P2023-05-13
@@ -71,43 +107,7 @@ Entidade cósmica resultante do **processo de especiação humana** (RC-056): a 
 - Distingue-se do avatar humano atual: não é uma "melhoria" do homo sapiens, mas uma nova expressão conscencial.
 
 
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | relaciona-se-a (recomposição do criador) |
-| Especiação | RC-056 | relaciona-se-a |
-| Seres Terrenos (Homo Sapiens) | RC-099 | associado |
-| Universo Material (Bhuloka) | RC-107 | associado |
-| Mente Universal (Emergente) | RC-163 | associado |
-| Era da Criatura Universal | RC-172 | associado |
-| Era das Supercivilizações | RC-173 | associado |
-| Consórcio de Mundos (Arquitetos Universais) | RC-538 | ← relaciona-se-a |
-| Arquitetos Universais (coletivo cocriador) | RC-539 | associado |
-| Evolução Possível (terceira via: nem Darwin, nem deus) | RC-541 | ← relaciona-se-a |
-| Novo Homo sapiens (evolução que terá de vir) | RC-544 | ← relaciona-se-a |
-| Coconstrutores da Obra (tikun) | RC-545 | associado |
-| Consciências em Corpos de Sílica | RC-645 | ← relaciona-se-a |
-| Humanos: Últimos e Primeiros | RC-654 | associado |
-| As Cinco Lentes da Realidade | RC-761 | ← relaciona-se-a |
-| Biocosmos emergente (a nova mente biológica global ancorada nos campos mórficos) | RC-879 | associado |
-
 ## Observações
 
 Cronologia interna do autor (pós-2050, regeneração) — registro doutrinário, sem datação factual.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
-
-## Fontes
-
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2021-06-26 | Shiva - A Reconstrução do Erro de Brahma e o Tikum (palestra) | — | transcrição automatizada; citação |
-| P2021-02-28 | Tragédia Anunciada - As Fórmulas Mentais do Poder Demo (palestra) | — | transcrição automatizada; citação |
-| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
-| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
-| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra/STT) | citação verbatim; paráfrase |
-| B031 / B024 / B019 | — | obras publicadas |
-| P2026-04-02 | — | palestra/STT |
-| P2023-05-13 | seção 9.6; bloco da especiação | palestra/STT pré-curada |
-
-
-

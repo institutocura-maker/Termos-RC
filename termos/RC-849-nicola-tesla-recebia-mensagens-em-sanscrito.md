@@ -28,11 +28,6 @@ Com isso:
 
 **Origem do conteúdo da ampliação:** palestra `P2018-12-16 — Terra Atlantis - Era Sapiens` (16/12/2018). Transcrição automatizada, **não conferida com o áudio**; cada aspa foi recortada do `original.txt` pelo índice de âncoras do motor e conferida byte a byte pelo portão B. Nada foi digitado de memória.
 
-## Ampliação
-### P2018-12-16 (Terra Atlantis - Era Sapiens)
-
-- **[Nicola Tesla e as mensagens em sânscrito] (U0059)** «Vejam bem, Nicola Tesla nesse período recebia mensagens em sânscrito.» — Nicola Tesla (figura histórica) recebia mensagens em sânscrito e as reproduzia — no mesmo circuito mediúnico de Maria Orsic (RC-846); morreu em 1943.
-
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
@@ -46,7 +41,13 @@ Com isso:
 |---|---|---|---|
 | P2018-12-16 | Terra Atlantis - Era Sapiens (palestra) | — | transcrição automatizada; citação |
 
-## Observações sobre o Estado da Malha
+## Ampliação
+### P2018-12-16 (Terra Atlantis - Era Sapiens)
+
+- **[Nicola Tesla e as mensagens em sânscrito] (U0059)** «Vejam bem, Nicola Tesla nesse período recebia mensagens em sânscrito.» — Nicola Tesla (figura histórica) recebia mensagens em sânscrito e as reproduzia — no mesmo circuito mediúnico de Maria Orsic (RC-846); morreu em 1943.
+
+## Observações
+### Observações sobre o Estado da Malha
 
 [Aguardando Ditado Livre]
 

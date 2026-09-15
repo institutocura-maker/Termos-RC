@@ -28,15 +28,6 @@ Com isso:
 
 **Origem do conteúdo da ampliação:** palestra `P2018-12-16 — Terra Atlantis - Era Sapiens` (16/12/2018). Transcrição automatizada, **não conferida com o áudio**; cada aspa foi recortada do `original.txt` pelo índice de âncoras do motor e conferida byte a byte pelo portão B. Nada foi digitado de memória.
 
-## Ampliação
-### P2018-12-16 (Terra Atlantis - Era Sapiens)
-
-- **[os seres Aia disputam Sete] (U0014)** «Aí quando ele percebeu o terceiro filho de Adão e Eva chamado Sete, quando ele percebeu que Sete era muito superior a Adão, a Caim, a Abel, e olhava com certa reserva o tipo de influência que os seres aia queriam jogar em cima dele, ele, o Lemô, se aproximou de S.» — os seres Aia (Aya e Aye, RC-031) queriam influenciar Sete; Lemion disputou Sete com o Zaia (Aia), cada um em nome de seu lado.
-
-### BLOCO 5 — spans retidos pelo caça-âncoras (máscara do STT)
-
-# (nenhum span retido neste ciclo)
-
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
@@ -57,7 +48,17 @@ Com isso:
 | B024 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
 | B044 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
 
-## Observações sobre o Estado da Malha
+## Ampliação
+### P2018-12-16 (Terra Atlantis - Era Sapiens)
+
+- **[os seres Aia disputam Sete] (U0014)** «Aí quando ele percebeu o terceiro filho de Adão e Eva chamado Sete, quando ele percebeu que Sete era muito superior a Adão, a Caim, a Abel, e olhava com certa reserva o tipo de influência que os seres aia queriam jogar em cima dele, ele, o Lemô, se aproximou de S.» — os seres Aia (Aya e Aye, RC-031) queriam influenciar Sete; Lemion disputou Sete com o Zaia (Aia), cada um em nome de seu lado.
+
+### BLOCO 5 — spans retidos pelo caça-âncoras (máscara do STT)
+
+# (nenhum span retido neste ciclo)
+
+## Observações
+### Observações sobre o Estado da Malha
 
 * **Grafia STT:** 'seres aia' / 'Zaia' / 'Aia' = Aya e Aye. Agentes de Sofia que disputaram Sete com Lemion.
 * **Trava aplicável**: nenhuma além das gerais do despacho.

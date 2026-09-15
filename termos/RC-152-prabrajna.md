@@ -15,8 +15,78 @@ atualizado = "2026-09-12"
 ## Definição Sintética
 **Prabrajna** (também chamado **Prajapati** nas antigas tradições védicas/sânscritas) é o Ser da condição **Adhyatman** de cuja "Experiência Laboratorial" emergiu um "Processo de Gestação Mental corrompida", prematuramente expelida/plasmada (B024, cap. 1). Ele é o **Criador antes da queda** — a identidade prévia de **Brahma/Javé** na Espiritualidade Laboratorial (Perpérion). A Criação de Prabrajna — ou Prajapati — é o nome dado ao universo gerado, e sua energia característica é **Rajas**.
 
+## Etimologia e Grafias
+- **Grafia preferida:** Prabrajna
+- **Variações:** Prajapati (tradição védica); identidade anterior de Brahma/Javé; "Prabrajna" também grafado como "Prabrajná"
+- **Origem:** sânscrito (pra = antes; brajna ≈ consciência/sabedoria) — conferir etimologia exata
+
+
 ## Contexto / Origem
 Prabrajna é central para o capítulo 3 (Gunas): sua energia Rajásica criou os quarks e, em vibração com "distúrbio", os elétrons. Ele "caiu" e ficou "refém" da sua energia Rajas, tornando-se Brahma/Javé na Criação "indevida". Os "agentes da vida" do nível da Espiritualidade Laboratorial (Perpérion) trabalhavam **para libertar Prabrajna, que havia "caído"** (cap. 15).
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Adhyatman | RC-013 | condição espiritual |
+| Brahma (Brajna) | RC-037 | ← variação |
+| Criador (Brahma/Javé/Demiurgo) | RC-041 | é-um |
+| Perpérion | RC-087 | ← relaciona-se-a |
+| Perpérion | RC-087 | ← abriga |
+| Revelação Cósmica (conceito) | RC-094 | associado |
+| Shiva (Savna) | RC-102 | ← variação |
+| Vishnu (Mavatna) | RC-135 | ← variação |
+| Xadrez Cósmico | RC-150 | iniciador |
+| Gunas Criadoras (Sattva, Rajas, Tamas) | RC-151 | energia Rajas |
+| Era da Solidão | RC-156 | associado |
+| Criação Indevida (Obra indevida) | RC-167 | inicia |
+| Criação Indevida (Obra indevida) | RC-167 | relaciona-se-a |
+| Criação Indevida (Obra indevida) | RC-167 | ← relaciona-se-a |
+| Criação Indevida (Obra indevida) | RC-167 | relaciona-se-a |
+| Arquiteto Universal | RC-207 | associado |
+| Adhyshprabrajna (Adhy que caiu) | RC-310 | ← variação |
+| Fragmentação do Poder Mental da Divindade | RC-387 | associado |
+| ADHYPRABRAJNA (grafia do diagrama) | RC-410 | associado |
+| Pashvnaj (espécie de 43 seres do Gênero Adhy) | RC-455 | ← relaciona-se-a |
+| Ein Sof (Prabrajna na Cabala) | RC-468 | ← sinônimo |
+| Ialdabaoth (= Javé/Samael/Saklas/Sabaoth) | RC-482 | associado |
+| Adyabradagna / Adabradagna (= Brahma/Javé) | RC-505 | ← variação |
+| Acidente cosmogônico (queda de Prabrajna) | RC-515 | associado |
+| Mergulho (designação ellâmica da queda) | RC-528 | associado |
+| Pistis Sophia (feminino cósmico gnóstico) | RC-530 | ← relaciona-se-a |
+| Pistis Sophia (feminino cósmico gnóstico) | RC-530 | relaciona-se-a |
+| Pistis Sophia (feminino cósmico gnóstico) | RC-530 | ← relaciona-se-a |
+| Teia quântica (o que sai de um ser volta para ele) | RC-559 | relaciona-se-a |
+| Fatiamento de Consciência | RC-604 | ← relaciona-se-a |
+| Fatiamento de Consciência | RC-604 | relaciona-se-a |
+| Simultaneidade Reversa | RC-628 | ← vincula |
+| Reunião Operativa Mental dos 43 Pashvnaj | RC-629 | ← envolve |
+| Ressurreição do Cadáver do Criador | RC-638 | ← reconstrói |
+| Ishvara (Isuara — Retrato de Prabrajna Antes da Queda) | RC-691 | ← retrata-antes-da-queda |
+| Ishvara (Isuara — Retrato de Prabrajna Antes da Queda) | RC-691 | retratado-em |
+| Ishvara (Isuara — Retrato de Prabrajna Antes da Queda) | RC-691 | ← relaciona-se-a |
+| Primado da Informação | RC-707 | ← relaciona-se-a |
+| Buraco Negro Mental / Consciencial | RC-717 | ← relaciona-se-a |
+| Hipóstase dos Arcontes (livro gnóstico; 'realidade dos regentes') | RC-770 | ← relaciona-se-a |
+| Eru Ilúvatar (criador no Silmarillion) | RC-843 | associado |
+| Nada Brahma (tudo é som) | RC-845 | associado |
+| Campo de Higgs (o campo de força mental de Mavatma que definiu o limite velocidade-da-luz) | RC-886 | associado |
+
+## Seres Associados
+Brahma/Javé (RC-037/RC-001); Mavatna (RC-135); Savna (RC-102).
+
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo |
+|---|---|---|---|
+| P2021-06-26 | Shiva - A Reconstrução do Erro de Brahma e o Tikum (palestra) | — | transcrição automatizada; citação |
+| P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
+| A Epopeia dos Agentes da Vida Universal (B024) | caps. 1, 3, 15, 16 | pp. 14–17, 32–36, 109–114 | ocorrências centrais |
+| P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | — |
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
 
 ## Citações-chave
 > "Numa dessas estirpes, a que aqui estamos denominando como sendo a da 'condição Adhyatman'... existia um Ser que recebeu o epíteto de Prajapati nas antigas tradições védicas/sânscritas, sendo também conhecido como Prabrajna, de cuja 'Experiência Laboratorial' emergiu um 'Processo de Gestação Mental corrompida', que foi prematuramente expelida, plasmada." — B024, cap. 1
@@ -122,77 +192,7 @@ Prabrajna é central para o capítulo 3 (Gunas): sua energia Rajásica criou os 
 - Prabrajna é situado em Perpérion como Pashvnaj cujo corpo manásico/eu cai e se fragmenta nos dois universos.
 - Divergências e alegações científicas permanecem abertas/atribuídas à palestra.
 
-## Etimologia e Grafias
-- **Grafia preferida:** Prabrajna
-- **Variações:** Prajapati (tradição védica); identidade anterior de Brahma/Javé; "Prabrajna" também grafado como "Prabrajná"
-- **Origem:** sânscrito (pra = antes; brajna ≈ consciência/sabedoria) — conferir etimologia exata
-
-
-## Seres Associados
-Brahma/Javé (RC-037/RC-001); Mavatna (RC-135); Savna (RC-102).
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Adhyatman | RC-013 | condição espiritual |
-| Brahma (Brajna) | RC-037 | ← variação |
-| Criador (Brahma/Javé/Demiurgo) | RC-041 | é-um |
-| Perpérion | RC-087 | ← relaciona-se-a |
-| Perpérion | RC-087 | ← abriga |
-| Revelação Cósmica (conceito) | RC-094 | associado |
-| Shiva (Savna) | RC-102 | ← variação |
-| Vishnu (Mavatna) | RC-135 | ← variação |
-| Xadrez Cósmico | RC-150 | iniciador |
-| Gunas Criadoras (Sattva, Rajas, Tamas) | RC-151 | energia Rajas |
-| Era da Solidão | RC-156 | associado |
-| Criação Indevida (Obra indevida) | RC-167 | inicia |
-| Criação Indevida (Obra indevida) | RC-167 | relaciona-se-a |
-| Criação Indevida (Obra indevida) | RC-167 | ← relaciona-se-a |
-| Criação Indevida (Obra indevida) | RC-167 | relaciona-se-a |
-| Arquiteto Universal | RC-207 | associado |
-| Adhyshprabrajna (Adhy que caiu) | RC-310 | ← variação |
-| Fragmentação do Poder Mental da Divindade | RC-387 | associado |
-| ADHYPRABRAJNA (grafia do diagrama) | RC-410 | associado |
-| Pashvnaj (espécie de 43 seres do Gênero Adhy) | RC-455 | ← relaciona-se-a |
-| Ein Sof (Prabrajna na Cabala) | RC-468 | ← sinônimo |
-| Ialdabaoth (= Javé/Samael/Saklas/Sabaoth) | RC-482 | associado |
-| Adyabradagna / Adabradagna (= Brahma/Javé) | RC-505 | ← variação |
-| Acidente cosmogônico (queda de Prabrajna) | RC-515 | associado |
-| Mergulho (designação ellâmica da queda) | RC-528 | associado |
-| Pistis Sophia (feminino cósmico gnóstico) | RC-530 | ← relaciona-se-a |
-| Pistis Sophia (feminino cósmico gnóstico) | RC-530 | relaciona-se-a |
-| Pistis Sophia (feminino cósmico gnóstico) | RC-530 | ← relaciona-se-a |
-| Teia quântica (o que sai de um ser volta para ele) | RC-559 | relaciona-se-a |
-| Fatiamento de Consciência | RC-604 | ← relaciona-se-a |
-| Fatiamento de Consciência | RC-604 | relaciona-se-a |
-| Simultaneidade Reversa | RC-628 | ← vincula |
-| Reunião Operativa Mental dos 43 Pashvnaj | RC-629 | ← envolve |
-| Ressurreição do Cadáver do Criador | RC-638 | ← reconstrói |
-| Ishvara (Isuara — Retrato de Prabrajna Antes da Queda) | RC-691 | ← retrata-antes-da-queda |
-| Ishvara (Isuara — Retrato de Prabrajna Antes da Queda) | RC-691 | retratado-em |
-| Ishvara (Isuara — Retrato de Prabrajna Antes da Queda) | RC-691 | ← relaciona-se-a |
-| Primado da Informação | RC-707 | ← relaciona-se-a |
-| Buraco Negro Mental / Consciencial | RC-717 | ← relaciona-se-a |
-| Hipóstase dos Arcontes (livro gnóstico; 'realidade dos regentes') | RC-770 | ← relaciona-se-a |
-| Eru Ilúvatar (criador no Silmarillion) | RC-843 | associado |
-| Nada Brahma (tudo é som) | RC-845 | associado |
-| Campo de Higgs (o campo de força mental de Mavatma que definiu o limite velocidade-da-luz) | RC-886 | associado |
-
 ## Observações
 Ficha baseada em B024 (obra primária). Distinguir com cuidado: **Prabrajna/Prajapati** (antes da queda) vs. **Brahma/Javé** (após a queda) — a mesma Divindade em dois estados.
 
 ---
-
-## Fontes
-| Obra (sigla) | Capítulo | Página | Tipo |
-|---|---|---|---|
-| P2021-06-26 | Shiva - A Reconstrução do Erro de Brahma e o Tikum (palestra) | — | transcrição automatizada; citação |
-| P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
-| A Epopeia dos Agentes da Vida Universal (B024) | caps. 1, 3, 15, 16 | pp. 14–17, 32–36, 109–114 | ocorrências centrais |
-| P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | — |
-
-## Fontes
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

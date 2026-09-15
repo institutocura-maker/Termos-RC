@@ -15,6 +15,34 @@ atualizado = "2026-09-13"
 ## Definição Sintética
 Evento/processo em que as revelações ligadas ao espírito de Moros culminam na Revelação Cósmica, abrindo os Arquivos do Destino e cumprindo a Profecia das Três Flechas.
 
+## Contexto / Origem
+### Sequência apresentada
+
+- Enoque — arquivos/revelação ancestral;
+- Vyasa/Kapila — revelação psíquica e sínteses indianas;
+- Kardec — Revelação Espiritual;
+- Quirino/Jan Val Ellam — Revelação Cósmica;
+- Orunmilá — atualização humana do destino/Ifá.
+
+A lista é uma arquitetura da palestra; identidades e cronologias devem permanecer atribuídas.
+
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Revelação Cósmica (conceito) | RC-094 | é-evento-de |
+| Revelação Cósmica (conceito) | RC-094 | ← cumpre |
+| Revelação Espiritual (Kardec) | RC-190 | envolve |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | iniciado-por |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | relaciona-se-a |
+| Vyasa | RC-585 | envolve |
+| Flechas / Profecias de Moros | RC-611 | cumpre |
+| Quirino Cornélio (Centurião da Crucificação) | RC-659 | envolve |
+| Orunmilá (Moros de Irém / Orum) | RC-665 | envolve |
+| Arquivos do Destino Universal | RC-714 | ← cumpre-se-em |
+| Arquivos do Destino Universal | RC-714 | abre |
+| Arquivos do Destino Universal | RC-714 | relaciona-se-a |
+
 ## Ampliação
 ### P2024-11-30
 
@@ -60,30 +88,3 @@ Evento/processo em que as revelações ligadas ao espírito de Moros culminam na
 ---
 ---
 ---
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Revelação Cósmica (conceito) | RC-094 | é-evento-de |
-| Revelação Cósmica (conceito) | RC-094 | ← cumpre |
-| Revelação Espiritual (Kardec) | RC-190 | envolve |
-| Elm (Moros — ser LM de Tempérion) | RC-454 | iniciado-por |
-| Elm (Moros — ser LM de Tempérion) | RC-454 | relaciona-se-a |
-| Vyasa | RC-585 | envolve |
-| Flechas / Profecias de Moros | RC-611 | cumpre |
-| Quirino Cornélio (Centurião da Crucificação) | RC-659 | envolve |
-| Orunmilá (Moros de Irém / Orum) | RC-665 | envolve |
-| Arquivos do Destino Universal | RC-714 | ← cumpre-se-em |
-| Arquivos do Destino Universal | RC-714 | abre |
-| Arquivos do Destino Universal | RC-714 | relaciona-se-a |
-
-## Sequência apresentada
-
-- Enoque — arquivos/revelação ancestral;
-- Vyasa/Kapila — revelação psíquica e sínteses indianas;
-- Kardec — Revelação Espiritual;
-- Quirino/Jan Val Ellam — Revelação Cósmica;
-- Orunmilá — atualização humana do destino/Ifá.
-
-A lista é uma arquitetura da palestra; identidades e cronologias devem permanecer atribuídas.
-

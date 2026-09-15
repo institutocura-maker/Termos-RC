@@ -16,14 +16,37 @@ atualizado = "2026-08-28"
 
 Nome demo de Pandora anterior à sua humanização: na cosmologia de Ellam, a cadeia Kalil Kadmon → Adam Kadmon → Pandora narra os passos da dignificação que culminou no "sorriso de Pandora".
 
+## Contexto / Origem
+
+[P2024-08-03] A palestra relata: "ele antes era um ser que se chamava Kalil Kadmon [STT: “Cali Calon”]” — grafia fonética mantida em `[REVISAR → RESOLVIDO 10/09/2026 · F038-L5: PAR FORMA/STT PARALELO em RC-086 (sem flag); grafia preservada — ver nota]` até conferência de áudio.
+
 ## Escopo e evidência
 
 - **[P2024-08-03] Unidades:** U1414–U1419.
 - **[P2024-08-03] Proveniência:** palestra de Jan Val Ellam; transcrição STT pré-curada; devolutiva do curador registrada em 2026-08-20 (ficha autorizada).
 
-## Contexto / Origem
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Pandora | RC-086 | variação |
+| Val Dimon | RC-118 | variação |
+| Zeus | RC-145 | associado |
+| Descendência de Pirra (Pirra e Deucalião) | RC-298 | associado |
+| Desvio de Rota de Pandora (Contra o Plano de Zeus) | RC-806 | associado |
 
-[P2024-08-03] A palestra relata: "ele antes era um ser que se chamava Kalil Kadmon [STT: “Cali Calon”]” — grafia fonética mantida em `[REVISAR → RESOLVIDO 10/09/2026 · F038-L5: PAR FORMA/STT PARALELO em RC-086 (sem flag); grafia preservada — ver nota]` até conferência de áudio.
+
+- Pandora — RC-086;
+- Ekatma (Adam Kadmon — Homem Primordial) — RC-506;
+- Opção Inusitada de Pandora — RC-285.
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2022-09-17 | A Hipóstase dos Arcontes (palestra) | — | transcrição automatizada; citação |
+| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
+| P2024-08-03 | U1414–U1419 | palestra/STT |
+| B021 | — | obra |
+
 
 ## Citações-chave
 > "Uma sensação de dignidade surgiu pela primeira vez com o sorriso de Pandora."
@@ -75,29 +98,6 @@ Nome demo de Pandora anterior à sua humanização: na cosmologia de Ellam, a ca
 - **[Car Cadmon: a metamorfose que originou Pandora] (U0035)** «000 anos atrás, quando nessa época os homo sapiens eram só animais de estimação dos deuses desses arcontos, quando um deles chamado Car Cadmon fez uma metamorfose definitiva, se transformou numa fêmea dos humanos que existiam na fazenda de Epimeteu.» — há cerca de 48.000 anos (número no BLOCO 3; o span inicia em "000 anos" porque o STT retoma a contagem); «Car Cadmon»/«Caliil Cadmon» = Kalil Kadmon, o nome demo de Pandora (RC-299): a inoculação dos vírus encomendada por Zeus para se vingar de Prometeu, com Pandora levando o "presente funesto" (paráfrase do contexto U0035; RC-086 Pandora; RC-301 Prometeu).
 
 
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Pandora | RC-086 | variação |
-| Val Dimon | RC-118 | variação |
-| Zeus | RC-145 | associado |
-| Descendência de Pirra (Pirra e Deucalião) | RC-298 | associado |
-| Desvio de Rota de Pandora (Contra o Plano de Zeus) | RC-806 | associado |
-
-
-- Pandora — RC-086;
-- Ekatma (Adam Kadmon — Homem Primordial) — RC-506;
-- Opção Inusitada de Pandora — RC-285.
-
 ## Observações
 
 Grafia "Cali Calon" [REVISAR — STT → CHANCELA 2026-09-06 · F039-L3: AGUARDA-ÁUDIO (STT preservado como falado) — ver nota]; a identificação com Kalil Kadmon segue a ficha de B021 (O Sorriso de Pandora).
-
-## Fontes
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2022-09-17 | A Hipóstase dos Arcontes (palestra) | — | transcrição automatizada; citação |
-| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
-| P2024-08-03 | U1414–U1419 | palestra/STT |
-| B021 | — | obra |
-

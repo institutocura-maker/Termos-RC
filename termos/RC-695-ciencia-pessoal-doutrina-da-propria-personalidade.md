@@ -28,6 +28,35 @@ Não significa isolamento intelectual nem recusa de estudo. Implica:
 - desenvolver disciplina compatível com a própria personalidade.
 
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Mentalma | RC-166 | ← relaciona-se-a |
+| Liberdade Mental (premissa do Quarto Logos) | RC-253 | relaciona-se-a |
+| Protagonismo consciencial | RC-509 | realiza |
+| Novo Homo sapiens (evolução que terá de vir) | RC-544 | associado |
+| Disciplina dos 3As (respiração, mente, alinhamento) | RC-552 | usa |
+| Quarto Cérebro Humano | RC-614 | relaciona-se-a |
+| Superconsciência | RC-615 | relaciona-se-a |
+| Gestão da Sensação Pessoal | RC-633 | relaciona-se-a |
+| Verdade Posta × Verdade a Construir | RC-657 | relaciona-se-a |
+| Oitavo Dia da Criação | RC-694 | ← envolve |
+| Oitavo Dia da Criação | RC-694 | realiza |
+| Postulados Quânticos como Manual Operativo | RC-703 | ← orienta |
+| Ato de Verdade / Satyagraha | RC-705 | ← orienta |
+| Lei da Mente do Buda | RC-712 | ← orienta |
+| Agenda Espiritual | RC-752 | ← relaciona-se-a |
+| Chave da Decifração Universal | RC-754 | ← relaciona-se-a |
+| Escola da Decifração da Realidade (Método Druídico) | RC-755 | ← relaciona-se-a |
+| As Cinco Lentes da Realidade | RC-761 | associado |
+| As Três Escalas da Consciência (Sábio → Mago → Iniciado) | RC-762 | ← relaciona-se-a |
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2025-06-14b | A Consciência Humana e a Chave da Decifração Universal (palestra) | — | transcrição automatizada; citação |
+| P2025-02-16 | U0878–U0889; U0998–U1006; U1020–U1039 | aula/palestra STT |
+
 ## Citações-chave
 > “Cada um de nós precisa também de regras específicas.”
 
@@ -54,36 +83,7 @@ Não significa isolamento intelectual nem recusa de estudo. Implica:
 - Relação nova: Ciência Pessoal ↔ Mentalma (RC-166) — o esforço respiratório como ferramenta do laboratório íntimo (aresta P2023-05-13).
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** os 2 trechos entre aspas desta ficha **não** resistem à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Todos deixam vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
 
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Mentalma | RC-166 | ← relaciona-se-a |
-| Liberdade Mental (premissa do Quarto Logos) | RC-253 | relaciona-se-a |
-| Protagonismo consciencial | RC-509 | realiza |
-| Novo Homo sapiens (evolução que terá de vir) | RC-544 | associado |
-| Disciplina dos 3As (respiração, mente, alinhamento) | RC-552 | usa |
-| Quarto Cérebro Humano | RC-614 | relaciona-se-a |
-| Superconsciência | RC-615 | relaciona-se-a |
-| Gestão da Sensação Pessoal | RC-633 | relaciona-se-a |
-| Verdade Posta × Verdade a Construir | RC-657 | relaciona-se-a |
-| Oitavo Dia da Criação | RC-694 | ← envolve |
-| Oitavo Dia da Criação | RC-694 | realiza |
-| Postulados Quânticos como Manual Operativo | RC-703 | ← orienta |
-| Ato de Verdade / Satyagraha | RC-705 | ← orienta |
-| Lei da Mente do Buda | RC-712 | ← orienta |
-| Agenda Espiritual | RC-752 | ← relaciona-se-a |
-| Chave da Decifração Universal | RC-754 | ← relaciona-se-a |
-| Escola da Decifração da Realidade (Método Druídico) | RC-755 | ← relaciona-se-a |
-| As Cinco Lentes da Realidade | RC-761 | associado |
-| As Três Escalas da Consciência (Sábio → Mago → Iniciado) | RC-762 | ← relaciona-se-a |
-
 ## Observações
 Não transformar Ciência Pessoal em doutrina padronizada e coletiva: a singularidade é constitutiva do conceito.
 
 ---
-
-## Fontes
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2025-06-14b | A Consciência Humana e a Chave da Decifração Universal (palestra) | — | transcrição automatizada; citação |
-| P2025-02-16 | U0878–U0889; U0998–U1006; U1020–U1039 | aula/palestra STT |

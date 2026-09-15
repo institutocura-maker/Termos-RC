@@ -15,6 +15,10 @@ atualizado = "2026-08-15"
 ## Definição Sintética
 Princípio segundo o qual o DNA humano somente preservaria validade funcional em corpos de outras espécies se cedido conscientemente por seu portador humano.
 
+## Etimologia e Grafias
+Forma canônica: **cessão**, ato de ceder. Corrigir o STT `sessão consciencial` para **cessão consciencial**.
+
+
 ## Contexto / Origem
 A palestra distingue a cessão consciente de extração forçada, roubo ou abdução. O material genético retirado sem anuência seria rejeitado ou perderia funcionalidade quando transferido a outra espécie.
 
@@ -25,6 +29,32 @@ A cessão é vinculada a:
 - especiação e exportação de novos núcleos humanos;
 - Oitavo Dia da Criação;
 - responsabilidade cocriadora.
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Especiação | RC-056 | aplica-se-a |
+| DNA como Projeção Holográfica do Psiquismo do Criador | RC-217 | aplica-se-a |
+| Abduções e Reparo Espiritual | RC-359 | distingue-se-de |
+| Abduções e Reparo Espiritual | RC-359 | relaciona-se-a |
+| Novo Homo sapiens (evolução que terá de vir) | RC-544 | relaciona-se-a |
+| Coconstrutores da Obra (tikun) | RC-545 | relaciona-se-a |
+| Humanos: Últimos e Primeiros | RC-654 | associado |
+| Descendência de Kadru (Nagas, Uragas e Maharagas) | RC-664 | relaciona-se-a |
+| Evolução da Informação, não das Espécies | RC-693 | relaciona-se-a |
+| Oitavo Dia da Criação | RC-694 | ← envolve |
+| Oitavo Dia da Criação | RC-694 | integra |
+| Mão Invisível Multiforme / Conselho das Nagas | RC-697 | ← relaciona-se-a |
+| Imantação de Espíritos em Inteligências Artificiais / Corpos de Sílica | RC-699 | relaciona-se-a |
+| Genes Críticos / Genes Dorminhocos | RC-710 | ← relaciona-se-a |
+| Genes Críticos / Genes Dorminhocos | RC-710 | relaciona-se-a |
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2025-05-10 | Mistérios do Apocalipse (palestra) | — | transcrição automatizada; citação |
+| P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
+| P2025-02-16 | U0781–U0786 | aula/palestra STT |
 
 ## Citações-chave
 > “Esse DNA humano tem que ser cedido de maneira consciente.”
@@ -49,35 +79,5 @@ A cessão é vinculada a:
 A fala afirma que, entre 2018 e 2021, seres teriam percebido que material humano roubado não funcionava, enquanto a cessão voluntária preservaria funcionalidade. Representantes de outras linhagens estariam nascendo como humanos para combinar genomas e experiência. A proposição permanece sem base biomédica.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
 
-## Etimologia e Grafias
-Forma canônica: **cessão**, ato de ceder. Corrigir o STT `sessão consciencial` para **cessão consciencial**.
-
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Especiação | RC-056 | aplica-se-a |
-| DNA como Projeção Holográfica do Psiquismo do Criador | RC-217 | aplica-se-a |
-| Abduções e Reparo Espiritual | RC-359 | distingue-se-de |
-| Abduções e Reparo Espiritual | RC-359 | relaciona-se-a |
-| Novo Homo sapiens (evolução que terá de vir) | RC-544 | relaciona-se-a |
-| Coconstrutores da Obra (tikun) | RC-545 | relaciona-se-a |
-| Humanos: Últimos e Primeiros | RC-654 | associado |
-| Descendência de Kadru (Nagas, Uragas e Maharagas) | RC-664 | relaciona-se-a |
-| Evolução da Informação, não das Espécies | RC-693 | relaciona-se-a |
-| Oitavo Dia da Criação | RC-694 | ← envolve |
-| Oitavo Dia da Criação | RC-694 | integra |
-| Mão Invisível Multiforme / Conselho das Nagas | RC-697 | ← relaciona-se-a |
-| Imantação de Espíritos em Inteligências Artificiais / Corpos de Sílica | RC-699 | relaciona-se-a |
-| Genes Críticos / Genes Dorminhocos | RC-710 | ← relaciona-se-a |
-| Genes Críticos / Genes Dorminhocos | RC-710 | relaciona-se-a |
-
 ## Observações
 Não existe base genética ou biomédica conhecida para a exigência de anuência consciencial na funcionalidade do DNA transplantado. Manter a proposição atribuída ao palestrante.
-
-## Fontes
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2025-05-10 | Mistérios do Apocalipse (palestra) | — | transcrição automatizada; citação |
-| P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
-| P2025-02-16 | U0781–U0786 | aula/palestra STT |

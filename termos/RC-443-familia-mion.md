@@ -15,8 +15,42 @@ atualizado = "2026-08-29"
 ## Definição Sintética
 Estirpe capelina à qual pertencem **Len Mion (Satã)** e **Gron Mion**, descrita nos "Livros de Yel Luzbel" (Jeane Miranda) como **mais antiga que a Família Yel** e protagonista no contato com os demais **Biocoletivos** do universo. Sob a liderança do "Primeiro em Comando", a Família Mion convoca conclaves, pressiona por respostas de Sophia e acolhe Yel Luzbel quando este se desliga da própria família — tornando-se o núcleo do movimento que antecedeu a **Revolta Capelina**.
 
+## Etimologia e Grafias
+- **Grafia preferida:** Família Mion
+- **Variações:** "família Mion"; "estirpe Mion"; "os Mion"
+- **Obs.:** o nome dos integrantes carrega o sufixo "Mion" (Len Mion, Gron Mion), assim como "Yel" marca a Família Yel
+
+
 ## Contexto / Origem
 Na narrativa psicografada, enquanto os sábios da Família Yel aguardam resposta de Sophia às questões do Primeiro Pesquisador Yel Luzbel, a Família Mion decide agir por conta própria e contatar os demais Biocoletivos. Len Mion é o elo entre Yel Luzbel e a "causa": pressiona, confronta e, ao final do Livro 2, revela a suspeita de que Sophia acessava os Processadores Familiares — o que radicaliza Yel Luzbel.
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Biodemos | RC-036 | é-um |
+| Capela (Sistema) | RC-039 | origina-se-em |
+| Len Mion (Satã) | RC-074 | ← é-um |
+| Família Yel | RC-442 | ← relaciona-se-a |
+| Biocoletivos | RC-445 | associado |
+| Processadores Familiares | RC-446 | associado-a |
+| Revolta Capelina | RC-450 | protagoniza |
+
+## Seres Associados
+Len Mion (RC-074); Gron Mion (RC-067, citado nas obras primárias); Yel Luzbel (RC-142, acolhido pela família); Sophia (RC-009, questionada pelos Mion).
+
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo |
+|---|---|---|---|
+| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra) | — | transcrição automatizada; citação |
+| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra) | — | transcrição automatizada; citação |
+| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra) | — | transcrição automatizada; citação |
+| A Revolta do Anjo Decaído (B057) | Cap. 1 | p. 15 (PDF) | "nascidos coletivamente" (contraste com os Yel) |
+| O Início da Revolta Capelina (B058) | — | p. 1 (sinopse) | decide contatar os Biocoletivos |
+| O Início da Revolta Capelina (B058) | Cap. 2 | p. 14–15 (PDF) | conclave da família; confrontar Sophia e Hostes |
+| O Início da Revolta Capelina (B058) | Cap. 15 | p. 66–68 (PDF) | Primeiro em Comando; processo de desligamento |
+
+
+
 
 ## Citações-chave
 > "Enquanto os 'sábios' da Família Yel aguardam as respostas de Sophia para as questões do Primeiro Pesquisador Yel Luzbel, a Família Mion decide entrar em contato com os demais Biocoletivos espalhados pelo universo." — B058, p. 1 (sinopse)
@@ -69,40 +103,6 @@ Na narrativa psicografada, enquanto os sábios da Família Yel aguardam resposta
 
 - **[P2023-12-03 · FAMÍLIA MION NA FALA DE 03/12/2023]** «principalmente a cromon, miom, mas foi a primeira porrada.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
 
-## Etimologia e Grafias
-- **Grafia preferida:** Família Mion
-- **Variações:** "família Mion"; "estirpe Mion"; "os Mion"
-- **Obs.:** o nome dos integrantes carrega o sufixo "Mion" (Len Mion, Gron Mion), assim como "Yel" marca a Família Yel
-
-
-## Seres Associados
-Len Mion (RC-074); Gron Mion (RC-067, citado nas obras primárias); Yel Luzbel (RC-142, acolhido pela família); Sophia (RC-009, questionada pelos Mion).
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Biodemos | RC-036 | é-um |
-| Capela (Sistema) | RC-039 | origina-se-em |
-| Len Mion (Satã) | RC-074 | ← é-um |
-| Família Yel | RC-442 | ← relaciona-se-a |
-| Biocoletivos | RC-445 | associado |
-| Processadores Familiares | RC-446 | associado-a |
-| Revolta Capelina | RC-450 | protagoniza |
-
 ## Observações
 Nos livros da Jeane, os Mion são descritos como "mais antigos que os Yel" e os seres da família são citados como nascidos "coletivamente" (diferente dos Yel, individualizados) — detalhe narrativo a reconciliar com as obras primárias. O "Primeiro em Comando" da Família Mion torna-se figura-chave no Livro 2 (B058).
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** os 3 trechos entre aspas desta ficha **não** resistem à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Só 2 dos 3 deixam vestígio no corpus. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
-
-## Fontes
-| Obra (sigla) | Capítulo | Página | Tipo |
-|---|---|---|---|
-| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra) | — | transcrição automatizada; citação |
-| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra) | — | transcrição automatizada; citação |
-| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra) | — | transcrição automatizada; citação |
-| A Revolta do Anjo Decaído (B057) | Cap. 1 | p. 15 (PDF) | "nascidos coletivamente" (contraste com os Yel) |
-| O Início da Revolta Capelina (B058) | — | p. 1 (sinopse) | decide contatar os Biocoletivos |
-| O Início da Revolta Capelina (B058) | Cap. 2 | p. 14–15 (PDF) | conclave da família; confrontar Sophia e Hostes |
-| O Início da Revolta Capelina (B058) | Cap. 15 | p. 66–68 (PDF) | Primeiro em Comando; processo de desligamento |
-
-
-

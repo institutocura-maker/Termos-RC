@@ -15,8 +15,47 @@ atualizado = "2026-08-28"
 ## Definição Sintética
 Emergência futura de nova capacidade humana, atrelada a novo modo de expressão da consciência.
 
+## Etimologia e Grafias
+- Grafia preferida: Quarto Cérebro Humano.
+- **Fonte de decisão:** Quadro 9 aprovado pelo curador.
+
+
 ## Contexto / Origem
 A palestra remete a explicações anteriores e o associa diretamente à Superconsciência.
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Foz Côa / FOXP2 (símbolos) | RC-400 | relaciona-se-a |
+| Novo Homo sapiens (evolução que terá de vir) | RC-544 | relaciona-se-a |
+| Conectoma humano (pulsações sinápticas e a sensação de eu) | RC-557 | associado |
+| Sensação de eu (a sensação particular a cada instante) | RC-558 | ← relaciona-se-a |
+| Fios soltos (improviso humano × robô) | RC-564 | ← relaciona-se-a |
+| Superconsciência | RC-615 | produz |
+| Superconsciência | RC-615 | ← resulta-de |
+| Genoma da Liberdade | RC-619 | ← relaciona-se-a |
+| Oitavo Dia da Criação | RC-694 | ← requer |
+| Oitavo Dia da Criação | RC-694 | necessário-a |
+| Oitavo Dia da Criação | RC-694 | ← relaciona-se-a |
+| Oitavo Dia da Criação | RC-694 | relaciona-se-a |
+| Ciência Pessoal / Doutrina da Própria Personalidade | RC-695 | ← relaciona-se-a |
+| Humano Turbinado | RC-709 | ← relaciona-se-a |
+| Genes Críticos / Genes Dorminhocos | RC-710 | associado |
+| Quarto Cérebro (centro de sabedoria vibracional) | RC-758 | relaciona-se-a |
+
+## Seres Associados
+Consultar as relações tipadas acima.
+
+## Fontes
+| Obra/palestra | Localização | Tipo |
+|---|---|---|
+| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
+| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra/STT) | citação verbatim; paráfrase |
+| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
+| P2021-12-04 — Os Archeons de Ereon e os Seres Adhy | U0534–U0538 | STT pré-curado e validado |
+
+
+
 
 ## Citações-chave
 > “Emergência do quarto cérebro do ser humano, atrelada a um novo modo [...] de consciência.” — P2021-12-04, U0534–U0538
@@ -59,46 +98,7 @@ A palestra remete a explicações anteriores e o associa diretamente à Supercon
 O Quarto Cérebro não é descrito como nova peça anatômica, mas como nova maneira de o eu articular os níveis reptiliano, límbico e primata já existentes. É requisito do Oitavo Dia da Criação e liga-se à Ciência Pessoal.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
 
-## Etimologia e Grafias
-- Grafia preferida: Quarto Cérebro Humano.
-- **Fonte de decisão:** Quadro 9 aprovado pelo curador.
-
-
-## Seres Associados
-Consultar as relações tipadas acima.
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Foz Côa / FOXP2 (símbolos) | RC-400 | relaciona-se-a |
-| Novo Homo sapiens (evolução que terá de vir) | RC-544 | relaciona-se-a |
-| Conectoma humano (pulsações sinápticas e a sensação de eu) | RC-557 | associado |
-| Sensação de eu (a sensação particular a cada instante) | RC-558 | ← relaciona-se-a |
-| Fios soltos (improviso humano × robô) | RC-564 | ← relaciona-se-a |
-| Superconsciência | RC-615 | produz |
-| Superconsciência | RC-615 | ← resulta-de |
-| Genoma da Liberdade | RC-619 | ← relaciona-se-a |
-| Oitavo Dia da Criação | RC-694 | ← requer |
-| Oitavo Dia da Criação | RC-694 | necessário-a |
-| Oitavo Dia da Criação | RC-694 | ← relaciona-se-a |
-| Oitavo Dia da Criação | RC-694 | relaciona-se-a |
-| Ciência Pessoal / Doutrina da Própria Personalidade | RC-695 | ← relaciona-se-a |
-| Humano Turbinado | RC-709 | ← relaciona-se-a |
-| Genes Críticos / Genes Dorminhocos | RC-710 | associado |
-| Quarto Cérebro (centro de sabedoria vibracional) | RC-758 | relaciona-se-a |
-
 ## Observações
 Definição incompleta nesta fonte; requer cruzamento futuro.
 
 **Regra de status:** permanece candidato por depender de transcrição automatizada sem áudio anexado.
-
-## Fontes
-| Obra/palestra | Localização | Tipo |
-|---|---|---|
-| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
-| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra/STT) | citação verbatim; paráfrase |
-| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
-| P2021-12-04 — Os Archeons de Ereon e os Seres Adhy | U0534–U0538 | STT pré-curado e validado |
-
-
-

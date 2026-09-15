@@ -15,8 +15,22 @@ atualizado = "2026-08-29"
 ## Definição Sintética
 A declaração categórica de Javé de que **não possui avatares** — registrada nas *Memórias de Javé* (B036) e sintetizada no resumo (B036R): os descendentes da Trimurti (Vishnu, Shiva) "manifestam-se através de variações pessoais conhecidas como avatares"; Javé, porém, "**declara categoricamente: 'Não tenho isto!'**. Ele afirma ser o que é, sem variações avatáricas, o que torna sua presença direta, pesada e desprovida da 'delicadeza' dos avatares de seus sócios."
 
+## Etimologia e Grafias
+- **Grafia preferida:** Javé sem avatares
+- **Variações:** "Não tenho isto!" (declaração); Javé sem expressões Adhyajna; singularidade de Javé
+
+
 ## Contexto / Origem
 A declaração confirma e reforça o que o B016 já apontava (apêndice "Prisioneiros da Brahmaloka"): Brahma/Javé, por ter perdido a condição Adhyagia na queda, **jamais conseguiu produzir expressões Adhyajna (avatares)** — ao contrário de Vishnu (Mohen So, Sophia, Jesus) e Shiva (Hara, Krishna, Sai Baba). A diferença ontológica: Javé é "o que é", sem variações avatáricas — sua presença é direta e pesada.
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Javé | RC-001 | associado |
+| Adhyajna | RC-016 | opõe-se-a |
+| Revelação Cósmica (conceito) | RC-094 | associado |
+| Shiva (Savna) | RC-102 | associado |
+| Vishnu (Mavatna) | RC-135 | associado |
 
 ## Ampliação
 ### B016 (O Quarto Logos)
@@ -50,20 +64,6 @@ A declaração confirma e reforça o que o B016 já apontava (apêndice "Prision
 ---
 ---
 ---
-
-## Etimologia e Grafias
-- **Grafia preferida:** Javé sem avatares
-- **Variações:** "Não tenho isto!" (declaração); Javé sem expressões Adhyajna; singularidade de Javé
-
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | associado |
-| Adhyajna | RC-016 | opõe-se-a |
-| Revelação Cósmica (conceito) | RC-094 | associado |
-| Shiva (Savna) | RC-102 | associado |
-| Vishnu (Mavatna) | RC-135 | associado |
 
 ## Observações
 

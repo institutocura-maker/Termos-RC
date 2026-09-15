@@ -28,15 +28,6 @@ Com isso:
 
 **Origem do conteúdo da ampliação:** palestra `P2012-02-19 — Xadrez Cósmico de Brahma, Vishnu e Shiva` (19/02/2012). Transcrição automatizada, **não conferida com o áudio**; cada aspa foi recortada do `original.txt` pelo índice de âncoras do motor e conferida byte a byte pelo portão B. Nada foi digitado de memória.
 
-## Ampliação
-### P2012-02-19 (Xadrez Cósmico de Brahma, Vishnu e Shiva)
-
-- **[A doença, não o atraso] (U0005)** «Não é porque ele seja atrasado, é porque a sua natureza é doentia.» — Javé (RC-526) não é 'atrasado' — 'a sua natureza é doentia'; não é falta de evolução, é uma condição de doença que o impede de ver o que está além da sua criação.
-
-### P2025-06-14 (PALESTRA SOBRE A QUEDA DO CRIADOR-Refatorada)
-
-- **[O Criador desalmado] (U0022)** «O Criador Javé é "desalmado, sem capacidade de imaginação ou criatividade", o que limita seu progresso pessoal.» — Javé é 'desalmado, sem capacidade de imaginação ou criatividade' — o que limita seu progresso e o torna refém do progresso de suas criaturas (RC-526).
-
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
@@ -55,7 +46,17 @@ Com isso:
 | P2012-02-19 | Xadrez Cósmico de Brahma, Vishnu e Shiva (palestra) | — | transcrição automatizada; citação |
 | B072 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
 
-## Observações sobre o Estado da Malha
+## Ampliação
+### P2012-02-19 (Xadrez Cósmico de Brahma, Vishnu e Shiva)
+
+- **[A doença, não o atraso] (U0005)** «Não é porque ele seja atrasado, é porque a sua natureza é doentia.» — Javé (RC-526) não é 'atrasado' — 'a sua natureza é doentia'; não é falta de evolução, é uma condição de doença que o impede de ver o que está além da sua criação.
+
+### P2025-06-14 (PALESTRA SOBRE A QUEDA DO CRIADOR-Refatorada)
+
+- **[O Criador desalmado] (U0022)** «O Criador Javé é "desalmado, sem capacidade de imaginação ou criatividade", o que limita seu progresso pessoal.» — Javé é 'desalmado, sem capacidade de imaginação ou criatividade' — o que limita seu progresso e o torna refém do progresso de suas criaturas (RC-526).
+
+## Observações
+### Observações sobre o Estado da Malha
 
 * **Grafia STT:** 'doença' / 'natureza é doentia' / 'impulso mental incontrolável'. A condição de Javé é doença, não atraso evolutivo.
 * **Trava aplicável**: nenhuma além das gerais do despacho.

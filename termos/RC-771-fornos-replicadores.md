@@ -15,10 +15,31 @@ atualizado = "2026-09-12"
 ## Definição Sintética
 Naves ou estações gigantescas de semeadura de vida biológica, construídas pela Trimurti para viabilizar o **Projeto Talm** (RC-091): **Awayen** (de Brahma/Javé), **Awaylengan** (de Shiva) e **Awaymaion** (de Vishnu — RC-499). Também chamados de "laboratórios dimensionais" ou "Centrais de Realidades". Criados para produzir seres capazes de atravessar e viver num universo com leis de Física e Química diferentes, onde antimatéria e matéria não se anulassem.
 
+## Etimologia e Grafias
+- Grafia preferida: Fornos Replicadores. Variações: fornos geradores de vida; Centrais de Realidades; laboratórios dimensionais.
+- STT: "forno de Alamaior" = Awaymaion (RC-499) — resolução confirmada pelo ART-2025-08-01.
+
 ## Contexto / Origem
 - Base já conhecia os três fornos via ampliação P2024-05-04-R em RC-091 e o candidato RC-499 (Forno de Awaymaion);
 - **nó-guarda-chuva criado por autorização excepcional do curador (Devolutiva ART-2025-08-01, O-3):** a Navalha de Ockham foi excepcionada por tratar-se de nó estrutural vital, agrupando os três fornos sob um mesmo eixo sistêmico;
 - material de referência: **ART-2025-08-01** (dossiê do curador "Fornos Replicadores – Awayen, Awaylengan e Awaymaion", baseado estritamente em Ellam).
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Bilatérios | RC-035 | relaciona-se-a |
+| Fenvans | RC-064 | relaciona-se-a |
+| Projeto Talm | RC-091 | relaciona-se-a |
+| Quarto Logos (Olm / Codificador de Zian) | RC-092 | relaciona-se-a |
+| Radiatas | RC-093 | relaciona-se-a |
+| Val Tam | RC-132 | relaciona-se-a |
+| Forno de Awaymaion (forno de Vishnu; origem de Olm) | RC-499 | inclui |
+| Éon das Três Esferas (superloka/geno; repositório de tesouros genéticos do Projeto TALM) | RC-775 | ← inclui |
+| Forno de Awayen (forno de Brahma/Javé → Central de Realidades) | RC-836 | associado |
+| Forno de Awaylengan (forno de Shiva — o primeiro a funcionar) | RC-837 | associado |
+| Bondade Humana | RC-895 | associado |
+
+> Notas de processo: 2 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-771.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
 
 ## Ampliação
 ### ART-2025-08-01
@@ -100,24 +121,3 @@ Naves ou estações gigantescas de semeadura de vida biológica, construídas pe
 ---
 ---
 ---
-
-## Etimologia e Grafias
-- Grafia preferida: Fornos Replicadores. Variações: fornos geradores de vida; Centrais de Realidades; laboratórios dimensionais.
-- STT: "forno de Alamaior" = Awaymaion (RC-499) — resolução confirmada pelo ART-2025-08-01.
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Bilatérios | RC-035 | relaciona-se-a |
-| Fenvans | RC-064 | relaciona-se-a |
-| Projeto Talm | RC-091 | relaciona-se-a |
-| Quarto Logos (Olm / Codificador de Zian) | RC-092 | relaciona-se-a |
-| Radiatas | RC-093 | relaciona-se-a |
-| Val Tam | RC-132 | relaciona-se-a |
-| Forno de Awaymaion (forno de Vishnu; origem de Olm) | RC-499 | inclui |
-| Éon das Três Esferas (superloka/geno; repositório de tesouros genéticos do Projeto TALM) | RC-775 | ← inclui |
-| Forno de Awayen (forno de Brahma/Javé → Central de Realidades) | RC-836 | associado |
-| Forno de Awaylengan (forno de Shiva — o primeiro a funcionar) | RC-837 | associado |
-| Bondade Humana | RC-895 | associado |
-
-> Notas de processo: 2 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-771.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

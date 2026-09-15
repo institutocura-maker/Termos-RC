@@ -15,8 +15,38 @@ atualizado = "2026-08-13"
 ## Definição Sintética
 **"Espelho da Herança Espiritual" no Epigenoma Humano** é a tese do cap. 16 de *Nem Deus, nem Javé, nem Darwin* (B019): a ciência da **epigenética** (regulação da expressão genética sem alterar o DNA) seria o "espelho" em que se refletiria a herança espiritual/consciencial do ser — um mecanismo biológico que acolheria as marcas das trajetórias espirituais, conectando a biologia ao psiquismo.
 
+## Etimologia e Grafias
+- **Grafia preferida:** Espelho da Herança Espiritual no Epigenoma
+- **Variações:** "Espelho da Herança Espiritual" no Epigenoma Humano (cap. 16); epigenética
+- **Obs.:** conceito que cruza ciência (epigenoma) e doutrina RC (herança espiritual/consciencial)
+
+
 ## Contexto / Origem
 No cap. 16, Ellam apresenta a epigenética como "uma nova e importante Ciência" que traz "mais desconforto e perguntas inquietantes do que as tão esperadas respostas". O conceito dialoga com RC-217 (DNA como projeção holográfica do psiquismo do Criador), com o Ex-DNA-lixo (RC-542) e com o CFD (RC-040). A herança espiritual se expressaria no epigenoma humano, permitindo a "evolução possível" guiada pela consciência.
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| CFD (Código Fonte Definidor) | RC-040 | relaciona-se-a |
+| DNA como Projeção Holográfica do Psiquismo do Criador | RC-217 | relaciona-se-a |
+| Ex-DNA-lixo (DNA não codificante reinterpretado) | RC-542 | relaciona-se-a |
+| Novo Homo sapiens (evolução que terá de vir) | RC-544 | relaciona-se-a |
+| Coconstrutores da Obra (tikun) | RC-545 | associado |
+| Organoides Genéticos para Sophia | RC-632 | ← relaciona-se-a |
+| Kit Reencarnatório de Elétrons | RC-692 | ← relaciona-se-a |
+| Corpo Sutil Reencarnante | RC-704 | ← relaciona-se-a |
+| Genes Críticos / Genes Dorminhocos | RC-710 | ← acionado-por |
+| Jabutis Genéticos | RC-729 | ← relaciona-se-a |
+| Invasão Ancestral do Genoma e do Psiquismo Humanos | RC-732 | ← relaciona-se-a |
+| Genótipo da Gentileza (GG) | RC-748 | ← relaciona-se-a |
+
+## Seres Associados
+Homo sapiens (RC-099); Criador (cujo psiquismo se projeta no DNA — RC-217).
+
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo |
+|---|---|---|---|
+| Nem Deus, nem Javé, nem Darwin (B019) | Cap. 16 | p. 186 (PDF) | tese central do capítulo |
 
 ## Citações-chave
 > "O 'Espelho da Herança Espiritual' no Epigenoma Humano. Há pouco tempo, surgiu uma nova e importante Ciência... porque ela traz mais desconforto e perguntas inquietantes do que, propriamente, as tão esperadas respostas." — B019, p. 186
@@ -47,39 +77,9 @@ No cap. 16, Ellam apresenta a epigenética como "uma nova e importante Ciência"
 - **[P2023-04-01b · A LEI DA MENTE DE BUDA]** "se um ser humano conseguir produzir A LINGUAGEM DO SEU CÉREBRO ALINHADA COM A LINGUAGEM DO CÉREBRO EMOCIONAL E TIVER UMA INTENÇÃO CLARA do que ele quer... SE ISSO ESTIVER CLARAMENTE BEM DELINEADO NO RNA MENSAGEIRO DO SEU CORPO, FATALMENTE ISSO SE TORNA UMA REALIDADE SUA. RESUMINDO: É A LEI DA MENTE DE BUDA. O QUE VOCÊ PENSA, VOCÊ CRIA; O QUE VOCÊ SENTE, VOCÊ ATRAI; O QUE VOCÊ [ASPIRA A VIR A SER], TORNA-SE REALIDADE" [a convergência com A LEI DO BUDA CORRIGIDA da P2023-07-05 ("o que você ASPIRA A SER" — não "deseja"): registradas SEM fusão]; + o DNA adormecido: "os nossos 28.869 genes, A MAIORIA TUDO AQUI É PODRE. POR ISSO QUE ESTÃO DESATIVADOS, para que nós, humanos, possamos ter a racionalidade que temos".
 - 0 códigos novos (O-3). Quarentena: clínica/científica MÁXIMA (a Devolutiva O-7 — "exclusivamente como conceitos metafísicos do Mentalma").
 
-## Etimologia e Grafias
-- **Grafia preferida:** Espelho da Herança Espiritual no Epigenoma
-- **Variações:** "Espelho da Herança Espiritual" no Epigenoma Humano (cap. 16); epigenética
-- **Obs.:** conceito que cruza ciência (epigenoma) e doutrina RC (herança espiritual/consciencial)
-
-
-## Seres Associados
-Homo sapiens (RC-099); Criador (cujo psiquismo se projeta no DNA — RC-217).
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| CFD (Código Fonte Definidor) | RC-040 | relaciona-se-a |
-| DNA como Projeção Holográfica do Psiquismo do Criador | RC-217 | relaciona-se-a |
-| Ex-DNA-lixo (DNA não codificante reinterpretado) | RC-542 | relaciona-se-a |
-| Novo Homo sapiens (evolução que terá de vir) | RC-544 | relaciona-se-a |
-| Coconstrutores da Obra (tikun) | RC-545 | associado |
-| Organoides Genéticos para Sophia | RC-632 | ← relaciona-se-a |
-| Kit Reencarnatório de Elétrons | RC-692 | ← relaciona-se-a |
-| Corpo Sutil Reencarnante | RC-704 | ← relaciona-se-a |
-| Genes Críticos / Genes Dorminhocos | RC-710 | ← acionado-por |
-| Jabutis Genéticos | RC-729 | ← relaciona-se-a |
-| Invasão Ancestral do Genoma e do Psiquismo Humanos | RC-732 | ← relaciona-se-a |
-| Genótipo da Gentileza (GG) | RC-748 | ← relaciona-se-a |
-
 ## Observações
 Tese científica+espiritual do B019 (2021). Conectar com RC-518 (Genoma Derivado) e RC-519 (Herança Cósmica) — candidatos da enciclopédia IA (B072) que este termo primário pode promover quando a revisão cruzar.
 
 
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-543.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
-
-## Fontes
-| Obra (sigla) | Capítulo | Página | Tipo |
-|---|---|---|---|
-| Nem Deus, nem Javé, nem Darwin (B019) | Cap. 16 | p. 186 (PDF) | tese central do capítulo |

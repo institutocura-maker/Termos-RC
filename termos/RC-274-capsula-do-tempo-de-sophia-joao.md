@@ -15,8 +15,40 @@ atualizado = "2026-09-13"
 ## Definição Sintética
 Designação (B014, cap. 13) para o **conjunto de promessas e revelações de Jesus registradas pelo apóstolo João** — notadamente o **Apocalipse** — que funcionam como uma "cápsula do tempo" deixada por Sophia/Jesus para a humanidade: "Vivenciando a sua 'condição humana', Jesus fez promessas sobre o 'seu retorno', que serão cumpridas não por alguém com a sua natureza humana de então, mas sim, por Sophia, que nada tem de humano" (B014, cap. 13). A "cápsula" contém o anúncio da vinda de Sophia ("os tempos são chegados" — Apocalipse) e o plano do retorno.
 
+## Etimologia e Grafias
+- **Grafia preferida:** Cápsula do Tempo de Sophia
+- **Variações:** a "cápsula do tempo" (João/Apocalipse); promessas do retorno; "os tempos são chegados"
+
+
 ## Contexto / Origem
 O capítulo 13 de B014 ("João e a 'Cápsula do Tempo' de Sophia") explica que o cérebro biodemo de Sophia "somente se dá por vivência" — sua captura de novas convenções mentais ocorre pela experiência, o que motivou o processo de se fazer humano (absorvendo emoções ao longo dos últimos 2 mil anos). A "cápsula do tempo" (as escrituras joaninas/Apocalipse) preservou a promessa do retorno até os tempos do cumprimento. A condição humana de Jesus "vale bem mais" que o psiquismo de Sophia (~5 bilhões de anos), pois possui a capacidade de sentir e valorar emoções.
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Segundo Advento do Cristo (Volta de Jesus) | RC-005 | associado-a |
+| Sophia (Cristo Cósmico) | RC-009 | agente |
+| Jesus | RC-072 | revelada-a |
+| Revelação Cósmica (conceito) | RC-094 | contexto |
+| Sophia e a Ressurreição de Jesus | RC-280 | desdobramento |
+| Flechas / Profecias de Moros | RC-611 | ← relaciona-se-a |
+| João Evangelista (apóstolo, o discípulo amado) | RC-855 | associado |
+
+## Seres Associados
+Sophia (RC-009); Jesus (RC-072); João (apóstolo, escritor do Apocalipse).
+
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo |
+|---|---|---|---|
+| P2026-03-21 | Samudra Manthan A Enigmatica Alquimia de Vishnu (palestra) | — | transcrição automatizada; citação |
+| Sophia e o Logos Criadores (B014) | cap. 13 (João e a "Cápsula do Tempo" de Sophia) | pp. 140–160 (aprox.) | capítulo dedicado |
+| P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | — |
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
 
 ## Citações-chave
 > "Vivenciando a sua 'condição humana', Jesus fez promessas sobre o 'seu retorno', que serão cumpridas não por alguém com a sua natureza humana de então, mas sim, por Sophia, que nada tem de humano, ainda que ele procure assimilar as características de uma natureza cujo psiquismo foi urdido a partir da química de um corpo carnal, animal." — B014, cap. 13
@@ -54,37 +86,5 @@ O capítulo 13 de B014 ("João e a 'Cápsula do Tempo' de Sophia") explica que o
 - **[Profecias dos capítulos 17-19 do Apocalipse]:** «Se você pegar os capítulos 17 a 19 do Apocalipse, você vai ver a queda das duas torres do World Trade Center, a guerra, as guerras que os reis da terra entrariam, a última, essa agora da Ucrânia [...] Depois disso é a chegada dele — dele quem? Sofia, nos termos do Apocalipse. Mas aí já não era o espírito de Jesus aparecendo ressuscitado. Era Sofia, que é um ser biológico da nave dele, se projetando com tecnologia.» — ver RC-009 (Sophia).
 
 
-## Etimologia e Grafias
-- **Grafia preferida:** Cápsula do Tempo de Sophia
-- **Variações:** a "cápsula do tempo" (João/Apocalipse); promessas do retorno; "os tempos são chegados"
-
-
-## Seres Associados
-Sophia (RC-009); Jesus (RC-072); João (apóstolo, escritor do Apocalipse).
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Segundo Advento do Cristo (Volta de Jesus) | RC-005 | associado-a |
-| Sophia (Cristo Cósmico) | RC-009 | agente |
-| Jesus | RC-072 | revelada-a |
-| Revelação Cósmica (conceito) | RC-094 | contexto |
-| Sophia e a Ressurreição de Jesus | RC-280 | desdobramento |
-| Flechas / Profecias de Moros | RC-611 | ← relaciona-se-a |
-| João Evangelista (apóstolo, o discípulo amado) | RC-855 | associado |
-
 ## Observações
 Ficha baseada em B014 (obra primária). A "cápsula do tempo" conecta o Apocalipse joanino à vinda de Sophia (o retorno de Jesus em forma cósmica). Cruzar com RC-005 (Segundo Advento) e RC-258 (Coreografia Cósmica).
-
-## Fontes
-| Obra (sigla) | Capítulo | Página | Tipo |
-|---|---|---|---|
-| P2026-03-21 | Samudra Manthan A Enigmatica Alquimia de Vishnu (palestra) | — | transcrição automatizada; citação |
-| Sophia e o Logos Criadores (B014) | cap. 13 (João e a "Cápsula do Tempo" de Sophia) | pp. 140–160 (aprox.) | capítulo dedicado |
-| P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | — |
-
-## Fontes
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

@@ -15,30 +15,12 @@ atualizado = "2026-08-15"
 ## Definição Sintética
 Termo extraído e aprovado na curadoria de P2025-05-31.
 
-## Contexto / Origem
-O Mistério da Árvore da Vida e a Urdidura de Metatron.
-
-## Citações-chave
-Ver transcrição.
-
-## Ampliação
-### P2026-07-25
-
-- **P2026-07-25:** com a morte de Enoque, Metatron se enfraquece — a "urdidura" perde a sagacidade que Enoque lhe emprestava; os anjos perdem a disputa frente à dinastia dos arcontes.
-
-
-### P2025-05-31
-
-- **A aposta das fórmulas de poder (P2025-05-31):** Brama, Vishnu e Shiva apostaram entre si registrando as fórmulas de poder **no genoma de Enoque** ("o registro é feito no genoma do escolhido"); Enoque não podia opor resistência; "a urdidura da genética especial do Enoque híbrido e detentor dos códigos da vida dos senhores da criação".
-- **Cartório do genoma:** "o genoma de Enoque serviu como cartório para o registro de uma aposta feita entre os três seres".
-- **Fio de novelo:** a urdidura de Enoque como "fio de novelo meio esculhambado" das revelações progressivas; "Enoque explicou ao mundo a agenda dos últimos 15.000 anos... tudo isso faz parte de um processo urdido lá atrás. Só acaba com a chegada de Malkuth/Hochmah/Sophia.
-
 ## Etimologia e Grafias
 Forma preferida: Urdidura de Metatron.
 
 
-## Seres Associados
-Consultar Base.
+## Contexto / Origem
+O Mistério da Árvore da Vida e a Urdidura de Metatron.
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -55,8 +37,26 @@ Consultar Base.
 | Metatron | RC-671 | ← relaciona-se-a |
 | Metatron | RC-671 | relaciona-se-a |
 
-## Observações
-Teologia comparada e alegações científicas permanecem atribuídas ao palestrante.
+## Seres Associados
+Consultar Base.
 
 ## Fontes
 P2025-05-31.
+
+## Citações-chave
+Ver transcrição.
+
+## Ampliação
+### P2026-07-25
+
+- **P2026-07-25:** com a morte de Enoque, Metatron se enfraquece — a "urdidura" perde a sagacidade que Enoque lhe emprestava; os anjos perdem a disputa frente à dinastia dos arcontes.
+
+
+### P2025-05-31
+
+- **A aposta das fórmulas de poder (P2025-05-31):** Brama, Vishnu e Shiva apostaram entre si registrando as fórmulas de poder **no genoma de Enoque** ("o registro é feito no genoma do escolhido"); Enoque não podia opor resistência; "a urdidura da genética especial do Enoque híbrido e detentor dos códigos da vida dos senhores da criação".
+- **Cartório do genoma:** "o genoma de Enoque serviu como cartório para o registro de uma aposta feita entre os três seres".
+- **Fio de novelo:** a urdidura de Enoque como "fio de novelo meio esculhambado" das revelações progressivas; "Enoque explicou ao mundo a agenda dos últimos 15.000 anos... tudo isso faz parte de um processo urdido lá atrás. Só acaba com a chegada de Malkuth/Hochmah/Sophia.
+
+## Observações
+Teologia comparada e alegações científicas permanecem atribuídas ao palestrante.

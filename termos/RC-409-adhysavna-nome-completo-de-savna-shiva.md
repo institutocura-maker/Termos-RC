@@ -15,8 +15,36 @@ atualizado = "2026-09-12"
 ## Definição Sintética
 **ADHYSAVNA** é o nome completo da condição Adhy de **Savna** (→ Shiva), conforme o Diagrama Geral de Ligações (B051): a cadeia "ADHYSAVNA → Shiva (mergulhado) → Hara / Krishna / Sai Baba". Confirma que Savna é um ser do **gênero Adhy** (RC-011), na condição **Adhyatman** (RC-013) antes do mergulho, que passou a compor a Trimurti como expressão **Adhydaiva** (RC-014) — cujas expressões avatáricas incluem Hara, Krishna e Sai Baba.
 
+## Etimologia e Grafias
+- **Grafia preferida:** ADHYSAVNA
+- **Variações:** Adhy-Savna; Savna (forma usada no corpus); Shiva (expressão Adhydaiva)
+- **Origem:** composto RC (Adhy + Savna)
+
+
 ## Contexto / Origem
 O diagrama (B051) apresenta os três "nomes completos" Adhy da Trimurti. A cadeia de Shiva registrada: ADHYSAVNA → Shiva → **Hara** (avatar), **Krishna** (avatar), **Sai Baba** (última expressão Adhyajna, conforme B016). O B024 (cap. 16) já menciona Hara como o avatar de Savna que absorverá as "cinzas" do universo no fim.
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Adhyatman | RC-013 | condição prévia |
+| Adhydaiva | RC-014 | expressão |
+| Revelação Cósmica (conceito) | RC-094 | associado |
+| Shiva (Savna) | RC-102 | variação |
+| Hara (avatar de Shiva) | RC-413 | é-um (avatar) |
+| Krishna (avatar de Vishnu/Shiva) | RC-414 | é-um (avatar) |
+| Parvathi (consorte de Shiva, Tridevi) | RC-459 | ← relaciona-se-a |
+| Sai Baba | (relacionado) | última expressão |
+
+## Seres Associados
+Shiva (RC-102); Hara (RC-413); Krishna (RC-414); Sai Baba (avatar).
+
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo |
+|---|---|---|---|
+| P2022-05-07 | Shiva, o Projeto Talm e os Mistérios de Awaylengam (palestra) | — | transcrição automatizada; citação |
+| Diagrama Geral de Ligações (B051) | diagrama (nó central) | — | ligação visual |
+| A Epopeia dos Agentes da Vida (B024) | caps. 5, 16 | — | apoio (primária) |
 
 ## Citações-chave
 > (Diagrama) "ADHYSAVNA → Shiva (mergulhado) → Hara / Krishna / Sai Baba" — B051
@@ -52,35 +80,7 @@ O diagrama (B051) apresenta os três "nomes completos" Adhy da Trimurti. A cadei
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-409.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
 
-## Etimologia e Grafias
-- **Grafia preferida:** ADHYSAVNA
-- **Variações:** Adhy-Savna; Savna (forma usada no corpus); Shiva (expressão Adhydaiva)
-- **Origem:** composto RC (Adhy + Savna)
-
-
-## Seres Associados
-Shiva (RC-102); Hara (RC-413); Krishna (RC-414); Sai Baba (avatar).
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Adhyatman | RC-013 | condição prévia |
-| Adhydaiva | RC-014 | expressão |
-| Revelação Cósmica (conceito) | RC-094 | associado |
-| Shiva (Savna) | RC-102 | variação |
-| Hara (avatar de Shiva) | RC-413 | é-um (avatar) |
-| Krishna (avatar de Vishnu/Shiva) | RC-414 | é-um (avatar) |
-| Parvathi (consorte de Shiva, Tridevi) | RC-459 | ← relaciona-se-a |
-| Sai Baba | (relacionado) | última expressão |
-
 ## Observações
 Ficha baseada no B051 (obra complementar revisada). O nome completo confirma a condição Adhy de Shiva — cruzar com RC-102 e RC-413.
 
 ---
-
-## Fontes
-| Obra (sigla) | Capítulo | Página | Tipo |
-|---|---|---|---|
-| P2022-05-07 | Shiva, o Projeto Talm e os Mistérios de Awaylengam (palestra) | — | transcrição automatizada; citação |
-| Diagrama Geral de Ligações (B051) | diagrama (nó central) | — | ligação visual |
-| A Epopeia dos Agentes da Vida (B024) | caps. 5, 16 | — | apoio (primária) |

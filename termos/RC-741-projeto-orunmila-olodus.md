@@ -16,14 +16,33 @@ atualizado = "2026-09-13"
 
 [P2024-09-29] Na interpretação de Ellam, adequação da rede Wyrd/Urd à condição humana por Orunmilá/Moros e dezesseis Olodus/Imolês, a pedido de Brahma/Javé, resultando nos 256 caminhos de Ifá.
 
+## Etimologia e Grafias
+### Glossário interno
+
+- **[P2024-09-29]** Olodus/Imolês e Orixás como desdobramento: itens internos em geladeira ontológica (NT-AM09/10), sem códigos e sem relações próprias.
+
+## Contexto / Origem
+
+[P2024-09-29] Olodus/Imolês e Orixás como seu alegado desdobramento ficam subordinados ao projeto, fora da ontologia autônoma. A palestra também menciona o computador WD, que permanece distinto da rede Wyrd/Urd.
+
 ## Escopo e evidência
 
 - **[P2024-09-29] Unidades:** U0436–U0448; U0813–U0865; U0889–U0921; U1013–U1029.
 - **[P2024-09-29] Proveniência:** palestra de Jan Val Ellam; transcrição STT pré-curada e devolutiva oficial do curador.
 
-## Contexto / Origem
-
-[P2024-09-29] Olodus/Imolês e Orixás como seu alegado desdobramento ficam subordinados ao projeto, fora da ontologia autônoma. A palestra também menciona o computador WD, que permanece distinto da rede Wyrd/Urd.
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Javé | RC-001 | relaciona-se-a / ver grafo |
+| Brahma (Brajna) | RC-037 | relaciona-se-a / ver grafo |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | relaciona-se-a / ver grafo |
+| WD (variação de STT = Wyrd/Urd — fundido em RC-658) | RC-560 | relaciona-se-a / ver grafo |
+| Revelação de Ifá e Destinação dos Seres | RC-655 | produz |
+| Revelação de Ifá e Destinação dos Seres | RC-655 | relaciona-se-a |
+| Wyrd / Urd (Teia do Destino) | RC-658 | relaciona-se-a / ver grafo |
+| Orunmilá (Moros de Irém / Orum) | RC-665 | envolve |
+| Obatalá (correspondência de Javé em Ifá) | RC-666 | relaciona-se-a |
+| Aristocracia Olimpiana e Monarquias Terrestres | RC-736 | ← inclui |
 
 ## Ampliação
 ### P2024-09-29
@@ -53,24 +72,7 @@ atualizado = "2026-09-13"
 
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-741.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
 
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | relaciona-se-a / ver grafo |
-| Brahma (Brajna) | RC-037 | relaciona-se-a / ver grafo |
-| Elm (Moros — ser LM de Tempérion) | RC-454 | relaciona-se-a / ver grafo |
-| WD (variação de STT = Wyrd/Urd — fundido em RC-658) | RC-560 | relaciona-se-a / ver grafo |
-| Revelação de Ifá e Destinação dos Seres | RC-655 | produz |
-| Revelação de Ifá e Destinação dos Seres | RC-655 | relaciona-se-a |
-| Wyrd / Urd (Teia do Destino) | RC-658 | relaciona-se-a / ver grafo |
-| Orunmilá (Moros de Irém / Orum) | RC-665 | envolve |
-| Obatalá (correspondência de Javé em Ifá) | RC-666 | relaciona-se-a |
-| Aristocracia Olimpiana e Monarquias Terrestres | RC-736 | ← inclui |
-
-## Glossário interno
-
-- **[P2024-09-29]** Olodus/Imolês e Orixás como desdobramento: itens internos em geladeira ontológica (NT-AM09/10), sem códigos e sem relações próprias.
-
-## Cautela editorial
+## Observações
+### Cautela editorial
 
 [P2024-09-29] Leitura religiosa e cultural não consensual, sempre atribuída a Ellam. Wyrd/Urd é teia/rede de destino; RC-560 WD é computador quântico/genético. Não fundir. Moros/Elm não é Mohen So/Phanes.

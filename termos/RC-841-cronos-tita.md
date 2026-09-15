@@ -28,15 +28,6 @@ Com isso:
 
 **Origem do conteúdo da ampliação:** palestra `P2017-10-14 — Da Base Atlan ao Colégio Druídico` (14/10/2017). Transcrição automatizada, **não conferida com o áudio**; cada aspa foi recortada do `original.txt` pelo índice de âncoras do motor e conferida byte a byte pelo portão B. Nada foi digitado de memória.
 
-## Ampliação
-### P2017-10-14 (Da Base Atlan ao Colégio Druídico)
-
-- **[Cronos e a geração dos Titãs] (U0135)** «Depois da geração de Uranus surge a geração de cronos chamada de Titã.» — Cronos (STT `cronos`), filho de Uranos, é a geração dos Titãs; Zeus (RC-145) é seu filho e usurpou-lhe o poder.
-
-### P2025-06-14 (PALESTRA SOBRE A QUEDA DO CRIADOR-Refatorada)
-
-- **[Cronos castra Urano] (U0079)** «Cronos, um dos filhos de Urano, castrou-o para cessar sua prole e, ele próprio, começou a devorar seus filhos com Reia.» — Cronos (RC-841), um dos filhos de Urano, 'castrou-o para cessar sua prole e, ele próprio, começou a devorar seus filhos com Reia'.
-
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
@@ -52,7 +43,17 @@ Com isso:
 | P2025-06-14 | PALESTRA SOBRE A QUEDA DO CRIADOR-Refatorada (palestra) | — | transcrição automatizada; citação |
 | P2017-10-14 | Da Base Atlan ao Colégio Druídico (palestra) | — | transcrição automatizada; citação |
 
-## Observações sobre o Estado da Malha
+## Ampliação
+### P2017-10-14 (Da Base Atlan ao Colégio Druídico)
+
+- **[Cronos e a geração dos Titãs] (U0135)** «Depois da geração de Uranus surge a geração de cronos chamada de Titã.» — Cronos (STT `cronos`), filho de Uranos, é a geração dos Titãs; Zeus (RC-145) é seu filho e usurpou-lhe o poder.
+
+### P2025-06-14 (PALESTRA SOBRE A QUEDA DO CRIADOR-Refatorada)
+
+- **[Cronos castra Urano] (U0079)** «Cronos, um dos filhos de Urano, castrou-o para cessar sua prole e, ele próprio, começou a devorar seus filhos com Reia.» — Cronos (RC-841), um dos filhos de Urano, 'castrou-o para cessar sua prole e, ele próprio, começou a devorar seus filhos com Reia'.
+
+## Observações
+### Observações sobre o Estado da Malha
 
 * **Grafia STT:** 'cronos' = Cronos. Genealogia Uranos → Cronos (Titãs) → Zeus (Olimpianos).
 * **Trava aplicável**: nenhuma além das gerais do despacho.

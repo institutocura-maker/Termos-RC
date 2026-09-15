@@ -16,6 +16,29 @@ atualizado = "2026-08-18"
 
 Metáfora da trilogia Matrix incorporada por Jan Val Ellam à linguagem da RC: o **processo de deslacre perceptivo** — "algo químico que quando você toma destrava, deslacra o seu cérebro... despolui o modo como o seu cérebro, o seu conectoma funciona" — de modo que o eu se vê pensando usando elementos perturbadores presentes dentro da bolha (a camuflagem da realidade, RC-702). A pílula azul é a conformidade: "o oba-oba" de viver sem questionar.
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Especiação | RC-056 | relaciona-se-a |
+| Jan Val Ellam (Rogério de Almeida Freitas) | RC-071 | associado |
+| Jesus | RC-072 | relaciona-se-a (reinar sobre o processo) |
+| Revelação Cósmica (conceito) | RC-094 | associado-a |
+| Revelação Cósmica (conceito) | RC-094 | relaciona-se-a |
+| A Rebelião dos Elétrons | RC-378 | relaciona-se-a |
+| Camuflagem da Realidade | RC-702 | ← relaciona-se-a |
+| Camuflagem da Realidade | RC-702 | relaciona-se-a |
+| Camuflagem da Realidade | RC-702 | relaciona-se-a |
+| Dignidade como Critério de Consciência | RC-722 | ← relaciona-se-a |
+| As Cinco Lentes da Realidade | RC-761 | ← relaciona-se-a |
+
+## Fontes
+
+| Fonte | Localização | Tipo |
+|---|---|---|
+| B044 | — | obra publicada |
+| P2025-03-15 / P2025-02-15 / P2024-11-30 | — | palestras/STT |
+| P2023-05-13 | seções 2.2–2.3; bloco das múltiplas pílulas | palestra/STT pré-curada |
+
 ## Citações-chave
 
 > "Quantos tipos de pílula vermelha existem ou são necessárias para que um ser humano que esteja inserido no ângulo dessa matrix perceba a matrix, perceba os seus alicerces, perceba o programa que está sendo rodado, perceba as falhas dessa Matrix que nos fez assim?" — P2023-05-13
@@ -72,30 +95,7 @@ Metáfora da trilogia Matrix incorporada por Jan Val Ellam à linguagem da RC: o
 - **Faixas de realidade:** as pílulas revelam as faixas definidas × improvisadas (ver RC-702).
 
 
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Especiação | RC-056 | relaciona-se-a |
-| Jan Val Ellam (Rogério de Almeida Freitas) | RC-071 | associado |
-| Jesus | RC-072 | relaciona-se-a (reinar sobre o processo) |
-| Revelação Cósmica (conceito) | RC-094 | associado-a |
-| Revelação Cósmica (conceito) | RC-094 | relaciona-se-a |
-| A Rebelião dos Elétrons | RC-378 | relaciona-se-a |
-| Camuflagem da Realidade | RC-702 | ← relaciona-se-a |
-| Camuflagem da Realidade | RC-702 | relaciona-se-a |
-| Camuflagem da Realidade | RC-702 | relaciona-se-a |
-| Dignidade como Critério de Consciência | RC-722 | ← relaciona-se-a |
-| As Cinco Lentes da Realidade | RC-761 | ← relaciona-se-a |
-
 ## Observações
 
 Metáfora cinematográfica (filme Matrix) usada pelo autor como linguagem didática — **não é termo técnico** nem valida a hipótese de realidade simulada (quarentena tecnológica).
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
-
-## Fontes
-
-| Fonte | Localização | Tipo |
-|---|---|---|
-| B044 | — | obra publicada |
-| P2025-03-15 / P2025-02-15 / P2024-11-30 | — | palestras/STT |
-| P2023-05-13 | seções 2.2–2.3; bloco das múltiplas pílulas | palestra/STT pré-curada |

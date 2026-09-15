@@ -15,8 +15,30 @@ atualizado = "2026-08-29"
 ## Definição Sintética
 Nível original da perfeição e da unidade, descrito como habitat dos Seres Originais do Paraíso e como matriz anterior à Espiritualidade Operacional e à Espiritualidade Laboratorial.
 
+## Etimologia e Grafias
+- **Grafia preferida:** Realidade Maior / Paraíso Original.
+- **Variações:** nível paradisíaco; Paraíso; matriz original.
+- **Termo externo local:** Ilha Estacionária do Paraíso, de *O Livro de Urântia*, mantido apenas como remissão/glossário.
+
+
 ## Contexto / Origem
 B001 registra a Realidade Maior. P2021-12-04 a descreve como Paraíso Original ou nível paradisíaco: uma única família de seres, anterior à diferenciação em redes, gêneros e espécies. Movimentos de consciência desse nível teriam originado a incompletude operacional.
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Deidade (Pai-Mãe Amantíssimo / Brahman) | RC-047 | associado |
+| Deus / Deus Incognoscível | RC-052 | associado |
+| Espiritualidade Superior | RC-059 | associado |
+| Pai Supremo (Amantíssimo) | RC-205 | associado |
+| Matriz Modeladora / Matriz de Cocriação | RC-210 | ← depende-de |
+| Seres Originais do Paraíso | RC-600 | ← ocorre-em |
+| Seres Originais do Paraíso | RC-600 | variação |
+| Círculo / Circuito da Perfeição | RC-603 | associado |
+| Protocolos / Algoritmos da Perfeição | RC-606 | associado |
+| Corpo Átmico | RC-623 | associado |
+| Corpo Búdico | RC-624 | associado |
+| Corpo Manásico / Corpo Mental | RC-625 | associado |
 
 ## Ampliação
 ### B001 (O Drama Cósmico de Javé)
@@ -41,25 +63,3 @@ B001 registra a Realidade Maior. P2021-12-04 a descreve como Paraíso Original o
 ---
 ---
 ---
-
-## Etimologia e Grafias
-- **Grafia preferida:** Realidade Maior / Paraíso Original.
-- **Variações:** nível paradisíaco; Paraíso; matriz original.
-- **Termo externo local:** Ilha Estacionária do Paraíso, de *O Livro de Urântia*, mantido apenas como remissão/glossário.
-
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Deidade (Pai-Mãe Amantíssimo / Brahman) | RC-047 | associado |
-| Deus / Deus Incognoscível | RC-052 | associado |
-| Espiritualidade Superior | RC-059 | associado |
-| Pai Supremo (Amantíssimo) | RC-205 | associado |
-| Matriz Modeladora / Matriz de Cocriação | RC-210 | ← depende-de |
-| Seres Originais do Paraíso | RC-600 | ← ocorre-em |
-| Seres Originais do Paraíso | RC-600 | variação |
-| Círculo / Circuito da Perfeição | RC-603 | associado |
-| Protocolos / Algoritmos da Perfeição | RC-606 | associado |
-| Corpo Átmico | RC-623 | associado |
-| Corpo Búdico | RC-624 | associado |
-| Corpo Manásico / Corpo Mental | RC-625 | associado |

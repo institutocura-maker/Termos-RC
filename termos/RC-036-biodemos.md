@@ -15,8 +15,74 @@ atualizado = "2026-08-29"
 ## Definição Sintética
 **Biodemos** é a estirpe extraterrestre de Capela da qual procedem os capelinos — os seres das famílias criadas por Sophia (Yel, Mion, Cromon, Shanlung, Val etc.), caracterizados por corpos longevos "sujeitos a fenecer", mentes coletivas ligadas por **Processadores Familiares** (RC-446) e programação genética predeterminada. É o "gênero" do qual as famílias capelinas são espécies.
 
+## Etimologia e Grafias
+- **Grafia preferida:** Biodemos
+- **Variações:** "estirpe dos biodemos" (B057); biodemos (plural)
+- **Obs.:** não confundir com **Demos** (RC-049) — categoria/estirpe distinta na malha
+
+
 ## Contexto / Origem
 Termo do universo da Revelação Cósmica (presente nas obras primárias de Ellam e no glossário Raquyel, B031). No B057, a estirpe aparece na SINTESE da contracapa: o desassossego de Yel Luzbel foi "até então **nunca sentida pela estirpe dos biodemos**", espalhando-se "como uma espécie de 'vírus mental' para outros 'anjos' que apresentavam um tipo de mente coletiva" — e as perguntas dele "foram o estopim de conflitos e **modificações no genoma de alguns biodemos** que terminaram classificados como 'rebelados' pelas hostes celestiais que os exilaram daquele circuito cósmico". Os capelinos são **Biocoletivos** (RC-445): coletivos de biodemos. As famílias Yel (RC-442) e Mion (RC-443) são "coletivos de biodemos de Capela" (relações registradas em B058).
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Bilatérios | RC-035 | associado |
+| Criador (Brahma/Javé/Demiurgo) | RC-041 | criado-por |
+| Dan | RC-046 | relaciona-se-a (mundo-nave de urdidura dos capelinos) |
+| Demos | RC-049 | relaciona-se-a (estirpe afim na malha) |
+| Processador Val | RC-089 | associado |
+| Seres Extraterrenos / Extraterrestres | RC-098 | é-um (categoria) |
+| Ulsh | RC-105 | associado |
+| Val (Família Val) | RC-109 | ← parte-de |
+| Yel (Família Yel) | RC-136 | ← parte-de |
+| Criaturas-ferramenta | RC-164 | associado |
+| Plano Colmeia (para o Universo Biológico) | RC-179 | associado |
+| Biodemol | RC-186 | ← é-um |
+| Insectoides | RC-187 | associado |
+| Fofocas cósmicas | RC-191 | associado |
+| Vida de Padrão Dependente | RC-209 | associado |
+| Ostronomos | RC-232 | associado |
+| Marca Val (A Estratégia do Possível) | RC-233 | associado |
+| A Jaula de Cada Espécie | RC-277 | associado |
+| Entroncamentos Genéticos Intersiderais | RC-323 | associado |
+| Grupos de Entroncamento (1-4) | RC-324 | associado |
+| Família Demolle (biodemos) | RC-401 | ← é-um |
+| Família Yel | RC-442 | ← é-um |
+| Família Mion | RC-443 | ← é-um |
+| Família Cromon | RC-444 | ← é-um |
+| Biocoletivos | RC-445 | ← variação |
+| Processadores Familiares | RC-446 | associado |
+| Deslacre (rompimento dos lacres psíquicos) | RC-448 | associado |
+| Criaturas-ferramenta | RC-449 | ← relaciona-se-a |
+| Hostes de Sophia | RC-453 | associado |
+| Família Shanlung (13 membros em Alt'Lam Gron) | RC-491 | ← é-um |
+| Forno de Awaymaion (forno de Vishnu; origem de Olm) | RC-499 | associado |
+| Cérebro Radiata | RC-631 | associado |
+
+## Seres Associados
+Yel Luzbel (RC-078/RC-142, o primeiro a mutar); Sophia (RC-009, criador das famílias capelinas); Len Mion (RC-074).
+
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo |
+|---|---|---|---|
+| P2022-09-25 | O Contexto Espiritual da Construção de Brasília (palestra) | — | transcrição automatizada; citação |
+| P2022-10-01 | A Wyrd e a Espiritualidade (palestra) | — | transcrição automatizada; citação |
+| P2023-08-27 | Len Mion e os Senhores da Terra Alexandre Magno e Qin Shi Huang Di (palestra) | — | transcrição automatizada; citação |
+| P2017-10-14 | Da Base Atlan ao Colégio Druídico (palestra) | — | transcrição automatizada; citação |
+| P2021-01-30 | A Mensagem TALM e os Fios Soltos do Destino (palestra) | — | transcrição automatizada; citação |
+| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra) | — | transcrição automatizada; citação |
+| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra) | — | transcrição automatizada; citação |
+| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra) | — | transcrição automatizada; citação |
+| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra) | — | transcrição automatizada; citação |
+| A Revolta do Anjo Decaído (B057) | SINTESE (contracapa) | p. 1 (PDF) | narrativa psicografada (Yel Luzbel/Jeane Miranda) |
+| A Revolta do Anjo Decaído (B057) | Caps. 1–2 | pp. 15–21 (PDF) | estirpe capelina; famílias; programação genética |
+| O Início da Revolta Capelina (B058) | — | — | famílias = coletivos de biodemos |
+| Glossário Raquyel (B031) e obras primárias (B001, B017–B018, B023, B039, B044, B050) | — | — | base do termo |
+
+
+
+
 
 ## Citações-chave
 > "Essa postura, até então **nunca sentida pela estirpe dos biodemos**, logo se espalhou como uma espécie de 'vírus mental' para outros 'anjos' que apresentavam um tipo de mente coletiva." — B057, SINTESE, p. 1
@@ -99,75 +165,9 @@ Termo do universo da Revelação Cósmica (presente nas obras primárias de Ella
 - **[O ancestral das estrelas] (U0003)** «E esse ser chamado I Brasil terminou sendo com o tempo, tido como um Deus pelos seres humanos.» — Iel Brasil: "foi um dos poucos que foi tido como sendo digno de ser louvado pelos demais como um ancestral das estrelas, pois esse era um dos seus epítetos" — "uma espécie de semideus"; "ele passou a ser conhecido também como ser ancestral que distribuía benesso, benéces para a mente e benéces para o coração, ou seja, para o espírito. Seu nome mesclou-se com o próprio epíteto e mais tarde ele foi chamado de Deus Bres" (U0003: «Seu nome mesclou-se com o próprio epíteto e mais tarde ele foi chamado de Deus Bres.»).
 
 
-## Etimologia e Grafias
-- **Grafia preferida:** Biodemos
-- **Variações:** "estirpe dos biodemos" (B057); biodemos (plural)
-- **Obs.:** não confundir com **Demos** (RC-049) — categoria/estirpe distinta na malha
-
-
-## Seres Associados
-Yel Luzbel (RC-078/RC-142, o primeiro a mutar); Sophia (RC-009, criador das famílias capelinas); Len Mion (RC-074).
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Bilatérios | RC-035 | associado |
-| Criador (Brahma/Javé/Demiurgo) | RC-041 | criado-por |
-| Dan | RC-046 | relaciona-se-a (mundo-nave de urdidura dos capelinos) |
-| Demos | RC-049 | relaciona-se-a (estirpe afim na malha) |
-| Processador Val | RC-089 | associado |
-| Seres Extraterrenos / Extraterrestres | RC-098 | é-um (categoria) |
-| Ulsh | RC-105 | associado |
-| Val (Família Val) | RC-109 | ← parte-de |
-| Yel (Família Yel) | RC-136 | ← parte-de |
-| Criaturas-ferramenta | RC-164 | associado |
-| Plano Colmeia (para o Universo Biológico) | RC-179 | associado |
-| Biodemol | RC-186 | ← é-um |
-| Insectoides | RC-187 | associado |
-| Fofocas cósmicas | RC-191 | associado |
-| Vida de Padrão Dependente | RC-209 | associado |
-| Ostronomos | RC-232 | associado |
-| Marca Val (A Estratégia do Possível) | RC-233 | associado |
-| A Jaula de Cada Espécie | RC-277 | associado |
-| Entroncamentos Genéticos Intersiderais | RC-323 | associado |
-| Grupos de Entroncamento (1-4) | RC-324 | associado |
-| Família Demolle (biodemos) | RC-401 | ← é-um |
-| Família Yel | RC-442 | ← é-um |
-| Família Mion | RC-443 | ← é-um |
-| Família Cromon | RC-444 | ← é-um |
-| Biocoletivos | RC-445 | ← variação |
-| Processadores Familiares | RC-446 | associado |
-| Deslacre (rompimento dos lacres psíquicos) | RC-448 | associado |
-| Criaturas-ferramenta | RC-449 | ← relaciona-se-a |
-| Hostes de Sophia | RC-453 | associado |
-| Família Shanlung (13 membros em Alt'Lam Gron) | RC-491 | ← é-um |
-| Forno de Awaymaion (forno de Vishnu; origem de Olm) | RC-499 | associado |
-| Cérebro Radiata | RC-631 | associado |
-
 ## Observações
 **Ficha criada no ciclo B057 (Devolutiva O-2, 2026-08-25)** — termo já constava da tabela-mestra (fontes B031 e demais obras) sem ficha física. **Quarentena ufológica (O-7):** estirpe extraterrestre de Capela — cruzar com as obras primárias de Ellam, não materializar como fato; a narrativa de B057 é psicografia (voz isolada de Yel Luzbel). 0 códigos novos (O-3).
 
 
 > Notas de processo: 4 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-036.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** os 2 trechos entre aspas desta ficha **não** resistem à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Só 1 dos 2 deixam vestígio no corpus. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
-
-## Fontes
-| Obra (sigla) | Capítulo | Página | Tipo |
-|---|---|---|---|
-| P2022-09-25 | O Contexto Espiritual da Construção de Brasília (palestra) | — | transcrição automatizada; citação |
-| P2022-10-01 | A Wyrd e a Espiritualidade (palestra) | — | transcrição automatizada; citação |
-| P2023-08-27 | Len Mion e os Senhores da Terra Alexandre Magno e Qin Shi Huang Di (palestra) | — | transcrição automatizada; citação |
-| P2017-10-14 | Da Base Atlan ao Colégio Druídico (palestra) | — | transcrição automatizada; citação |
-| P2021-01-30 | A Mensagem TALM e os Fios Soltos do Destino (palestra) | — | transcrição automatizada; citação |
-| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra) | — | transcrição automatizada; citação |
-| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra) | — | transcrição automatizada; citação |
-| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra) | — | transcrição automatizada; citação |
-| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra) | — | transcrição automatizada; citação |
-| A Revolta do Anjo Decaído (B057) | SINTESE (contracapa) | p. 1 (PDF) | narrativa psicografada (Yel Luzbel/Jeane Miranda) |
-| A Revolta do Anjo Decaído (B057) | Caps. 1–2 | pp. 15–21 (PDF) | estirpe capelina; famílias; programação genética |
-| O Início da Revolta Capelina (B058) | — | — | famílias = coletivos de biodemos |
-| Glossário Raquyel (B031) e obras primárias (B001, B017–B018, B023, B039, B044, B050) | — | — | base do termo |
-
-
-
-

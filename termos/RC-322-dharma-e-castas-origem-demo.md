@@ -16,6 +16,13 @@ atualizado = "2026-08-29"
 
 O **dharma** e o sistema de **castas** entendidos, na RC, como **instituição pedagógica dirigida aos híbridos (demos) e não à humanidade**: B023 (*O Dharma e as Castas Hindus*) abre a chave de leitura, e a oralidade do acervo a desenvolveu — o dharma teria sido criado para **gerar honra** entre seres híbridos «que não tinham honra», de modo que «cumprir a obrigação da sua casta» era o dever que suspendia o karma. **RC-319 (Fator Dharma)** é o parente que a malha liga a esta ficha por `é-um`; o **adharma** é o avesso operativo (agir fora do dever de casta).
 
+## Etimologia e Grafias
+
+- **Canônico da Base:** *dharma*, *varna* (casta), *karma*, *adharma*.
+- **Na fonte oral (P2023-10-14):** «Darma», «dharma», «adharma»; a casta aparece grafada «varna» e, numa linha, **«varma, dma»** — [REVISAR: degradação de STT para *varna* / *dharma*, preservada como está, sem emenda → CHANCELA 2026-09-06 · F039-L3: FONTE AUSENTE DA ARCA — ver nota].
+- **Nome próprio envolvido:** a fonte atribui a introdução do conceito a **Krishna conversando com Arjuna** no *Bagavaguita*, «um dos capítulos do Marabarata» (grafia do bruto para *Mahābhārata*) — ver RC-425 e RC-414.
+
+
 ## Contexto / Origem
 
 **Materialização (não é criação).** O código RC-322 vivia só no cadastro — linha `("RC-322", "Dharma e Castas (origem demo)", TER_SAN[0], TER_SAN[1], P, ['B023', 'P2024-11-30'], 'RC-319; RC-321; RC-049; RC-094; RC-586', False)` — sem arquivo em `termos/`. A **Devolutiva do Curador de 28/08/2026 (item 11)** autorizou a materialização a partir da fonte oral de **14/10/2023** (`P2023-10-14`), que é o depoimento mais antigo do acervo a expor o bloco por inteiro. Com isso:
@@ -25,6 +32,32 @@ O **dharma** e o sistema de **castas** entendidos, na RC, como **instituição p
 - as **1.856 relações permanecem intactas**: esta ficha reproduz as arestas que já existiam no cadastro e **não** cria novas; os acréscimos de leitura ficam em `## Observações`.
 
 **Origem do conteúdo da ampliação:** palestra `P2023-10-14 — A Esquecida Honra dos Anunnaki`, megabloco U0020 do `original.txt` (transcrição automatizada, **não conferida com o áudio**). Cada aspa foi recortada byte a byte por `_gerar_ampliacoes_P2023-10-14.py`; nada foi digitado de memória.
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Demos | RC-049 | aplica-se-a |
+| Revelação Cósmica (conceito) | RC-094 | associado |
+| Fator Dharma | RC-319 | ← é-um |
+| Senhores do Dharma (= Senhores da Lila / Trimurti) | RC-320 | associado |
+| Castas Trimurtianas | RC-321 | associado |
+| Rakshasas | RC-581 | associado |
+| Rishis | RC-586 | associado |
+| Sinarquia Cósmica (o governo dos sábios) | RC-873 | associado |
+
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo (citação/paráfrase) |
+|---|---|---|---|
+| P2021-06-26 | Shiva - A Reconstrução do Erro de Brahma e o Tikum (palestra) | — | transcrição automatizada; citação |
+| P2022-07-16 | Do Ramayana ao Mahabharata (palestra) | — | transcrição automatizada; citação |
+| P2022-10-01 | A Wyrd e a Espiritualidade (palestra) | — | transcrição automatizada; citação |
+| P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
+| P2023-02-12 | A Desconexão dos Desígnios Proféticos do Judaísmo, do Cristianismo e do Islamismo (palestra) | — | transcrição automatizada; citação |
+| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra) | — | transcrição automatizada; citação |
+| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra) | — | transcrição automatizada; citação |
+| B023 — *O Dharma e as Castas Hindus* | a preencher | — | paráfrase (registro do cadastro; página a conferir) |
+| P2024-11-30 | palestra | — | paráfrase (vínculo pré-existente do cadastro) |
+
 
 ## Citações-chave
 
@@ -72,25 +105,6 @@ O **dharma** e o sistema de **castas** entendidos, na RC, como **instituição p
 - **[O problema pendente das castas] (U0021)** «Existe um problema pendente das castas que é a responsabilidade agora do senor Krishna e do senor Chiva e como saibava propriou a questão na condição humana, ou eles resolvem isso aqui, ou a Terra vai ficar inviabilizada para o programa de reestruturação universal.» — a dupla face da ahimsa (STT "arima"): "o arima, que é a coisa mais bela que eu conheço olhando o lado da moeda, são homens e mulheres que nascem pobres, acho a Índia, desde crianças são educados, né, a gente já falou disso aqui, a não cometer o quê?" (U0013: «Então enquanto existem essas prisões, porque Quem entendam o arima, que é a coisa mais bela que eu conheço olhando o lado da moeda, são homens e mulheres que nascem pobres, acho a Índia, desde crianças são educados, né, a gente já falou disso aqui, a não cometer o quê?»); "a outra face é o controle terrível, que quem quer controlar bilhões de seres humanos condiciona que eles ajam assim" (U0013: «É uma face, mas a outra face é o controle terrível, que quem quer controlar bilhões de seres humanos condiciona que eles ajam assim.»); "Eles vão morrer de fome, mas não matam a vaca para comer, porque eles foram condicionados a agir assim: uma vaca é animal sagrado, um macaco é animal sagrado, tudo é sagrado" (U0013: «Eles vão morrer de fome, mas não matam a vaca para comer, porque eles foram condicionados a agir assim: uma vaca é animal sagrado, um macaco é animal sagrado, tudo é sagrado.»).
 
 
-## Etimologia e Grafias
-
-- **Canônico da Base:** *dharma*, *varna* (casta), *karma*, *adharma*.
-- **Na fonte oral (P2023-10-14):** «Darma», «dharma», «adharma»; a casta aparece grafada «varna» e, numa linha, **«varma, dma»** — [REVISAR: degradação de STT para *varna* / *dharma*, preservada como está, sem emenda → CHANCELA 2026-09-06 · F039-L3: FONTE AUSENTE DA ARCA — ver nota].
-- **Nome próprio envolvido:** a fonte atribui a introdução do conceito a **Krishna conversando com Arjuna** no *Bagavaguita*, «um dos capítulos do Marabarata» (grafia do bruto para *Mahābhārata*) — ver RC-425 e RC-414.
-
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Demos | RC-049 | aplica-se-a |
-| Revelação Cósmica (conceito) | RC-094 | associado |
-| Fator Dharma | RC-319 | ← é-um |
-| Senhores do Dharma (= Senhores da Lila / Trimurti) | RC-320 | associado |
-| Castas Trimurtianas | RC-321 | associado |
-| Rakshasas | RC-581 | associado |
-| Rishis | RC-586 | associado |
-| Sinarquia Cósmica (o governo dos sábios) | RC-873 | associado |
-
 ## Observações
 
 1. **Direção do enunciado (o que a ficha não deve perder):** o dharma **não** é, nesta leitura, uma doutrina humana; é um dispositivo de educação de honra aplicado a **seres híbridos**, e a humanidade o **herdou por transmissão mal endereçada**. A consequência terminológica: quem define o termo é o seu **destinatário original**, não o uso hindu posterior.
@@ -99,17 +113,3 @@ O **dharma** e o sistema de **castas** entendidos, na RC, como **instituição p
 4. **Cifras e datas seladas com a fonte:** nenhuma cronologia do bloco do dharma foi harmonizada com outras fichas; cada afirmação vale **na data de 14/10/2023**.
 
 **Regra de status:** 🟡 provisório — a ficha existe, está fundamentada em fonte publicada (B023) e em fonte oral do acervo, mas nenhuma das citações foi conferida com o áudio nem com página de obra primária. A aprovação curatorial valida a **modelagem terminológica**, não a veracidade factual das alegações: o que o autor disse está registrado *como dito*.
-
-## Fontes
-| Obra (sigla) | Capítulo | Página | Tipo (citação/paráfrase) |
-|---|---|---|---|
-| P2021-06-26 | Shiva - A Reconstrução do Erro de Brahma e o Tikum (palestra) | — | transcrição automatizada; citação |
-| P2022-07-16 | Do Ramayana ao Mahabharata (palestra) | — | transcrição automatizada; citação |
-| P2022-10-01 | A Wyrd e a Espiritualidade (palestra) | — | transcrição automatizada; citação |
-| P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
-| P2023-02-12 | A Desconexão dos Desígnios Proféticos do Judaísmo, do Cristianismo e do Islamismo (palestra) | — | transcrição automatizada; citação |
-| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra) | — | transcrição automatizada; citação |
-| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra) | — | transcrição automatizada; citação |
-| B023 — *O Dharma e as Castas Hindus* | a preencher | — | paráfrase (registro do cadastro; página a conferir) |
-| P2024-11-30 | palestra | — | paráfrase (vínculo pré-existente do cadastro) |
-

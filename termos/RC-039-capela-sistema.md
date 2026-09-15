@@ -15,8 +15,45 @@ atualizado = "2026-08-29"
 ## Definição Sintética
 **Capela** é o sistema estelar (Alfa Aurigae, constelação do Cocheiro/Auriga — um arranjo de **quatro estrelas: duas gigantes amarelas e duas anãs vermelhas**) de onde procedem os capelinos, os biodemos das famílias criadas por Sophia. Abriga **Dan** (RC-046), o mundo-nave do nascimento de Yel Luzbel, e **Orbum** (RC-085), a sede da governadoria dos Administradores deste universo — "todo o sistema de Capela, com os seus diversos mundos, é, na realidade, a sede governamental da parte da galáxia onde vivemos".
 
+## Etimologia e Grafias
+- **Grafia preferida:** Capela (Sistema)
+- **Variações:** "sistema solar de Capela"; "sistema de Capela" (B057); Alfa Aurigae (nota p. 10)
+- **Obs.:** no universo RC, "Capela" designa o sistema (não um planeta); o mundo de nascimento de Yel Luzbel é **Dan** (RC-046)
+
+
 ## Contexto / Origem
 Sistema central da cosmologia capelina na Revelação Cósmica (obras primárias B003/B025 e glossário B031). No B057, Capela é o palco da Revolta (RC-002): "Nasci no longínquo sistema solar de Capela" (p. 15); a rebelião foi "deflagrada há uns 687 mil anos, **em Capela**, contra Sophia e as suas hostes" (p. 19). A nota de p. 10 identifica a estrela na astronomia terrena; a nota de p. 25 (extraída de *Carma e Compromisso*, B026) descreve a função governamental do sistema; a nota de p. 14 define os capelinos ("seres extraterrestres, de vários tipos, oriundos do sistema de Capela... Fonte: Trilogia 'Terra Atlantis', de Jan Val Ellam" — B017/B018/B039).
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Rebelião de Lúcifer | RC-002 | ocorre-em (a Revolta deflagrada em Capela) |
+| Exilados de Capela | RC-007 | ← origem-em |
+| Antares (Sistema) | RC-021 | associado |
+| Dan | RC-046 | ocorre-em (mundo-nave de urdidura) |
+| Orbum | RC-085 | ocorre-em (sede governamental do sistema) |
+| Tau Ceti (Sistema) | RC-103 | associado |
+| Val (Família Val) | RC-109 | origina (as famílias de biodemos) |
+| Zian (Zion) | RC-146 | relaciona-se-a (planeta do Codificador) |
+| Land's End (Sinal de Land's End) | RC-237 | associado |
+| Jesus, o Capelino | RC-350 | associado |
+| Mestres de Capela | RC-351 | associado |
+| Família Yel | RC-442 | associado |
+| Família Mion | RC-443 | associado |
+
+## Seres Associados
+Sophia (RC-009, "Pai dos Capelinos" e Comandante); Yel Luzbel (RC-078); Len Mion (RC-074); Olm/Codificador de Zion (RC-092/RC-252); Val El (RC-071/B060).
+
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo |
+|---|---|---|---|
+| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra) | — | transcrição automatizada; citação |
+| A Revolta do Anjo Decaído (B057) | Nota da Autora | nota p. 10 (PDF): quatro estrelas; constelação do Cocheiro | identificação astronômica |
+| A Revolta do Anjo Decaído (B057) | Cap. 1 | nota p. 14 (PDF): definição de capelino (fonte: Terra Atlantis) | definição |
+| A Revolta do Anjo Decaído (B057) | Caps. 1–3 | pp. 15–19, 26–27 (PDF): nascimento; Revolta; famílias | narrativa psicografada |
+| A Revolta do Anjo Decaído (B057) | Cap. 2 | nota p. 25 (PDF): Orbum = sede governamental (extraída de B026) | definição |
+| Reintegração Cósmica (B003); Caminhos Espirituais (B025); O Início da Revolta Capelina (B058) | — | — | base do termo |
+
 
 ## Citações-chave
 > "Alfa Aurigae ou Capela é, na verdade **um arranjo de quatro estrelas – duas gigantes amarelas e duas anãs vermelhas –**, e pertence à constelação de Auriga ou constelação do Cocheiro." — B057, nota, p. 10
@@ -41,43 +78,6 @@ Sistema central da cosmologia capelina na Revelação Cósmica (obras primárias
 
 - **[P2023-12-03 · CAPELA (SISTEMA) NA FALA DE 03/12/2023]** «cuja estrela nós aqui chamamos de capela, mas é um sistema de mundos da nossa galáxia.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2023-04-01`); a entrada desta fonte é de **conteúdo**, não de data.
 
-## Etimologia e Grafias
-- **Grafia preferida:** Capela (Sistema)
-- **Variações:** "sistema solar de Capela"; "sistema de Capela" (B057); Alfa Aurigae (nota p. 10)
-- **Obs.:** no universo RC, "Capela" designa o sistema (não um planeta); o mundo de nascimento de Yel Luzbel é **Dan** (RC-046)
-
-
-## Seres Associados
-Sophia (RC-009, "Pai dos Capelinos" e Comandante); Yel Luzbel (RC-078); Len Mion (RC-074); Olm/Codificador de Zion (RC-092/RC-252); Val El (RC-071/B060).
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Rebelião de Lúcifer | RC-002 | ocorre-em (a Revolta deflagrada em Capela) |
-| Exilados de Capela | RC-007 | ← origem-em |
-| Antares (Sistema) | RC-021 | associado |
-| Dan | RC-046 | ocorre-em (mundo-nave de urdidura) |
-| Orbum | RC-085 | ocorre-em (sede governamental do sistema) |
-| Tau Ceti (Sistema) | RC-103 | associado |
-| Val (Família Val) | RC-109 | origina (as famílias de biodemos) |
-| Zian (Zion) | RC-146 | relaciona-se-a (planeta do Codificador) |
-| Land's End (Sinal de Land's End) | RC-237 | associado |
-| Jesus, o Capelino | RC-350 | associado |
-| Mestres de Capela | RC-351 | associado |
-| Família Yel | RC-442 | associado |
-| Família Mion | RC-443 | associado |
-
 ## Observações
 **Ficha criada no ciclo B057 (Devolutiva O-2, 2026-08-25)** — termo já constava da tabela-mestra (com B057 nas fontes desde ciclo anterior) sem ficha física. **Quarentena ufológica (O-7):** sistema extraterrestre — cruzar com as obras primárias, não materializar como fato. Cronologia interna de B057 (Revolta há 687 mil anos; famílias capelinas de 900 a 230 milhões de anos) = narrativa psicografada; divergência de datas registrada em RC-002. 0 códigos novos (O-3).
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** os 2 trechos entre aspas desta ficha **não** resistem à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Todos deixam vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
-
-## Fontes
-| Obra (sigla) | Capítulo | Página | Tipo |
-|---|---|---|---|
-| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra) | — | transcrição automatizada; citação |
-| A Revolta do Anjo Decaído (B057) | Nota da Autora | nota p. 10 (PDF): quatro estrelas; constelação do Cocheiro | identificação astronômica |
-| A Revolta do Anjo Decaído (B057) | Cap. 1 | nota p. 14 (PDF): definição de capelino (fonte: Terra Atlantis) | definição |
-| A Revolta do Anjo Decaído (B057) | Caps. 1–3 | pp. 15–19, 26–27 (PDF): nascimento; Revolta; famílias | narrativa psicografada |
-| A Revolta do Anjo Decaído (B057) | Cap. 2 | nota p. 25 (PDF): Orbum = sede governamental (extraída de B026) | definição |
-| Reintegração Cósmica (B003); Caminhos Espirituais (B025); O Início da Revolta Capelina (B058) | — | — | base do termo |
-

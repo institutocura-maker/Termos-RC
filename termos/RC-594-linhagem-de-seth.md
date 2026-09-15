@@ -15,8 +15,38 @@ atualizado = "2026-08-18"
 ## Definição Sintética
 Linhagem genealógica derivada de Seth, terceiro filho de Adão e Eva, preparada na ontologia para conexão futura com os Sethianos Emancipados.
 
+## Etimologia e Grafias
+- Grafia preferida: Linhagem de Seth. Variação do nome individual: Set/Seth.
+- **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
+
+
 ## Contexto / Origem
 A palestra situa Seth entre Caim e os patriarcas Enos, Cainã, Jared e Enoque, descrevendo sua relação crítica com o projeto de Javé.
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Jesus | RC-072 | relaciona-se-a |
+| Linhagem dos Escolhidos (Adão, Enoch, Abraão, Jacó) | RC-424 | relaciona-se-a |
+| Enoque (sétimo patriarca; levado por Javé) | RC-489 | relaciona-se-a |
+| Caim (leitura RC: segundo a nascer) | RC-490 | relaciona-se-a |
+| Tikun Cósmico (restabelecimento da Criação) | RC-514 | relaciona-se-a |
+| Noreia (Norea) | RC-579 | ← parte-de |
+| Noreia (Norea) | RC-579 | inclui |
+| Abel | RC-684 | associado |
+| A Raça Inabalável dos Sethianos Emancipados | RC-766 | ← relaciona-se-a |
+| Elo Adâmico (o gene que Javé pôs em Adão) | RC-857 | associado |
+
+## Seres Associados
+Noreia (Norea) (RC-579); Enoque (sétimo patriarca; levado por Javé) (RC-489); Caim (leitura RC: segundo a nascer) (RC-490)
+
+## Fontes
+| Obra/palestra | Localização | Tipo |
+|---|---|---|
+| P2023-02-12 | A Desconexão dos Desígnios Proféticos do Judaísmo, do Cristianismo e do Islamismo (palestra) | — | transcrição automatizada; citação |
+| P2023-08-27 | Len Mion e os Senhores da Terra Alexandre Magno e Qin Shi Huang Di (palestra) | — | transcrição automatizada; citação |
+| P2018-12-16 | Terra Atlantis - Era Sapiens (palestra) | — | transcrição automatizada; citação |
+| P2022-12-17 — O Incompreendido Ano de 2012 e a Falsa Noção do Fim do Mundo | U0677–U0704; U0716–U0726 | transcrição automatizada; paráfrase e citação |
 
 ## Citações-chave
 > ““Depois surge Seth, um terceiro filho [...] [que] não quis seguir o mesmo amor por Javé que Adão tinha.”” — P2022-12-17, U0677–U0704; U0716–U0726
@@ -50,39 +80,9 @@ A palestra situa Seth entre Caim e os patriarcas Enos, Cainã, Jared e Enoque, d
 > Notas de processo: 2 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-594.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
 
-## Etimologia e Grafias
-- Grafia preferida: Linhagem de Seth. Variação do nome individual: Set/Seth.
-- **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
-
-
-## Seres Associados
-Noreia (Norea) (RC-579); Enoque (sétimo patriarca; levado por Javé) (RC-489); Caim (leitura RC: segundo a nascer) (RC-490)
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Jesus | RC-072 | relaciona-se-a |
-| Linhagem dos Escolhidos (Adão, Enoch, Abraão, Jacó) | RC-424 | relaciona-se-a |
-| Enoque (sétimo patriarca; levado por Javé) | RC-489 | relaciona-se-a |
-| Caim (leitura RC: segundo a nascer) | RC-490 | relaciona-se-a |
-| Tikun Cósmico (restabelecimento da Criação) | RC-514 | relaciona-se-a |
-| Noreia (Norea) | RC-579 | ← parte-de |
-| Noreia (Norea) | RC-579 | inclui |
-| Abel | RC-684 | associado |
-| A Raça Inabalável dos Sethianos Emancipados | RC-766 | ← relaciona-se-a |
-| Elo Adâmico (o gene que Javé pôs em Adão) | RC-857 | associado |
-
 ## Observações
 Modelagem coletiva escolhida pelo curador para simplificar a ontologia e preparar a conexão com Sethianos Emancipados.
 
 **Regra de status:** permanece ⚪ candidato porque a fonte é STT sem áudio anexado. A aprovação do curador valida a modelagem terminológica, não substitui a futura conferência com áudio ou obra primária.
 
 ---
-
-## Fontes
-| Obra/palestra | Localização | Tipo |
-|---|---|---|
-| P2023-02-12 | A Desconexão dos Desígnios Proféticos do Judaísmo, do Cristianismo e do Islamismo (palestra) | — | transcrição automatizada; citação |
-| P2023-08-27 | Len Mion e os Senhores da Terra Alexandre Magno e Qin Shi Huang Di (palestra) | — | transcrição automatizada; citação |
-| P2018-12-16 | Terra Atlantis - Era Sapiens (palestra) | — | transcrição automatizada; citação |
-| P2022-12-17 — O Incompreendido Ano de 2012 e a Falsa Noção do Fim do Mundo | U0677–U0704; U0716–U0726 | transcrição automatizada; paráfrase e citação |

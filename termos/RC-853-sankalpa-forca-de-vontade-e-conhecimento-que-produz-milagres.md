@@ -28,6 +28,17 @@ Com isso:
 
 **Origem do conteúdo da ampliação:** palestra `P2012-02-19 — Xadrez Cósmico de Brahma, Vishnu e Shiva` (19/02/2012). Transcrição automatizada, **não conferida com o áudio**; cada aspa foi recortada do `original.txt` pelo índice de âncoras do motor e conferida byte a byte pelo portão B. Nada foi digitado de memória.
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Lila | RC-075 | **sem aresta** em `RELACOES`; **sem arquivo** |
+| Gunas Criadoras (Sattva, Rajas, Tamas) | RC-151 | **sem aresta** em `RELACOES`; arquivo existe |
+
+## Fontes
+| Obra (sigla) | Título | Página | Tipo |
+|---|---|---|---|
+| P2012-02-19 | Xadrez Cósmico de Brahma, Vishnu e Shiva (palestra) | — | transcrição automatizada; citação |
+
 ## Citações-chave
 
 > Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
@@ -40,18 +51,8 @@ Com isso:
 
 - **[Sankalpa, a palavra de trinta significados] (U0004)** «Aquele que tem a força de vontade e o conhecimento íntimos e já abriu os compartimentos da alma para produzir aparentes milagres, toda essa frase, o sânscrito tem só uma palavra que significa sancalpa e essa palavra significa umas 30 palavras em português para dar o significado.» — Sankalpa (STT 'sancalpa'): a palavra sânscrita que condensa a força de vontade e o conhecimento íntimos de quem 'já abriu os compartimentos da alma para produzir aparentes milagres'.
 
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Lila | RC-075 | **sem aresta** em `RELACOES`; **sem arquivo** |
-| Gunas Criadoras (Sattva, Rajas, Tamas) | RC-151 | **sem aresta** em `RELACOES`; arquivo existe |
-
-## Fontes
-| Obra (sigla) | Título | Página | Tipo |
-|---|---|---|---|
-| P2012-02-19 | Xadrez Cósmico de Brahma, Vishnu e Shiva (palestra) | — | transcrição automatizada; citação |
-
-## Observações sobre o Estado da Malha
+## Observações
+### Observações sobre o Estado da Malha
 
 * **Grafia STT:** 'sancalpa' = Sankalpa. O sânscrito condensa em uma palavra o que exige ~30 palavras em português.
 * **Trava aplicável**: nenhuma além das gerais do despacho.

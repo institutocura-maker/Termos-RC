@@ -15,8 +15,29 @@ atualizado = "2026-08-27"
 ## Definição Sintética
 Ser que estudou as "necessidades" que surgiriam dos "códigos podres" no psiquismo dos seres, em paralelo ao mapeamento de **Moros** (RC-454); sua análise (sem relação lógica, pois a lógica ainda não era disseminada) fundamentou a criação das **Nornes** (RC-467) para operacionalizar os resultados. Suas sequências estão entre os "tesouros genéticos" do **Éon das Três Esferas** (RC-775). **GRAFIA OFICIAL CONSAGRADA: ANANQUE** (a Devolutiva O-4 da P2021-07-24 — o [REVISAR] "Anã" resolvido pela fonte primária; ver a Ampliação P2021-07-24).
 
+## Etimologia e Grafias
+- **Grafia oficial: ANANQUE** (consagrada pela Devolutiva O-4 da P2021-07-24 — a deusa grega da necessidade/inevitabilidade, mãe das Moiras na tradição órfica).
+- Variações STT capturadas na P2021-07-24 (todas corrigidas para Ananque): "Anunque/Anak/Ank/Nan/Nã/An/ANEC/ANAC/NC".
+- Grafia antiga superada: "Anã" (o [REVISAR] da criação da ficha, 2026-08-21 — resolvido).
+
 ## Contexto / Origem
 Criado por autorização excepcional do curador (Devolutiva Trilogia TALM, O-3 — RC-777) a partir do ART-2025-08-03, com a tag **[REVISAR → CHANCELA 2026-09-06 · F039-L3: AGUARDA-ÁUDIO (STT preservado como falado) — ver nota]** para futura checagem ortográfica/fonética com a fonte primária (grafia do nome não confirmada). ✅ **RESOLVIDO NA P2021-07-24 (24/07/2021)**: a fonte primária falou o nome ao vivo — "Só uma pessoa nesse universo ou na criação inteira sabe, é a [ANANQUE]" — e a Devolutiva O-4 consagrou a grafia **ANANQUE** (corrigindo as alucinações STT "Anunque/Anak/ANAC/Nan").
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Elm (Moros — ser LM de Tempérion) | RC-454 | relaciona-se-a |
+| Moiras / Nornes / Súdices / Parcas (destino) | RC-467 | relaciona-se-a |
+| PIA — Peso da Inevitabilidade Ancestral | RC-716 | relaciona-se-a |
+| Éon das Três Esferas (superloka/geno; repositório de tesouros genéticos do Projeto TALM) | RC-775 | relaciona-se-a |
+
+## Fontes
+| Obra/palestra | Localização | Tipo |
+|---|---|---|
+| P2022-10-01 | A Wyrd e a Espiritualidade (palestra) | — | transcrição automatizada; citação |
+| P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
+| ART-2025-08-03 — Dossiê Fenvans (Edson Cella Mendes) | Parte I, Cap. 2 | material do curador |
+| P2021-07-24 — Sophia, Ananque e as Necessidades Cósmicas (Jan Val Ellam) | integral | palestra (a fonte primária da grafia) |
 
 ## Citações-chave
 > "Anã, por sua vez, estudou as 'necessidades' que surgiriam desses 'códigos podres' no psiquismo dos seres." — ART-2025-08-03, Cap. 2
@@ -50,19 +71,6 @@ Criado por autorização excepcional do curador (Devolutiva Trilogia TALM, O-3 �
 - **[Friga complementa o trabalho de Orlog] (U0002)** «Friga surgiu como sendo uma figura que complementou o trabalho de Orlog.» — Frigga (nórdica) = Ananke (grega, STT "Ank") na leitura do autor: "Na mitologia grega, a gente estaria falando aqui de Ank, só que na mitologia grega o aspecto an fica mais impessoal. Na mitologia Friga já é necessariamente um ser de polaridade feminino, né, associado a Odim"; Friga estudou "cada código, cada pia, ou seja, peso da infecção ancestral em cada ser" — "o tipo de necessidade que fatalmente aquele tipo de código de infecção ancestral iria apresentar no temperamento do ser. E Friga e as normes estudaram bastante isso" — ressonância com a RC-777 (Ananque, base das Nornes).
 
 
-## Etimologia e Grafias
-- **Grafia oficial: ANANQUE** (consagrada pela Devolutiva O-4 da P2021-07-24 — a deusa grega da necessidade/inevitabilidade, mãe das Moiras na tradição órfica).
-- Variações STT capturadas na P2021-07-24 (todas corrigidas para Ananque): "Anunque/Anak/Ank/Nan/Nã/An/ANEC/ANAC/NC".
-- Grafia antiga superada: "Anã" (o [REVISAR] da criação da ficha, 2026-08-21 — resolvido).
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Elm (Moros — ser LM de Tempérion) | RC-454 | relaciona-se-a |
-| Moiras / Nornes / Súdices / Parcas (destino) | RC-467 | relaciona-se-a |
-| PIA — Peso da Inevitabilidade Ancestral | RC-716 | relaciona-se-a |
-| Éon das Três Esferas (superloka/geno; repositório de tesouros genéticos do Projeto TALM) | RC-775 | relaciona-se-a |
-
 ## Observações
 - ~~[REVISAR — grafia/fonética]: nome provisório; aguarda confirmação em fonte primária (palestra/livro)~~ — **RESOLVIDO (2026-08-27): grafia consagrada ANANQUE pela Devolutiva O-4 da P2021-07-24**;
 - Fontes: material do curador (ART-2025-08-03) + **a palestra P2021-07-24 (a fonte primária)**.
@@ -70,11 +78,3 @@ Criado por autorização excepcional do curador (Devolutiva Trilogia TALM, O-3 �
 
 > Notas de processo: 2 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-777.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** os 2 trechos entre aspas desta ficha **não** resistem à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Todos deixam vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
-
-## Fontes
-| Obra/palestra | Localização | Tipo |
-|---|---|---|
-| P2022-10-01 | A Wyrd e a Espiritualidade (palestra) | — | transcrição automatizada; citação |
-| P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
-| ART-2025-08-03 — Dossiê Fenvans (Edson Cella Mendes) | Parte I, Cap. 2 | material do curador |
-| P2021-07-24 — Sophia, Ananque e as Necessidades Cósmicas (Jan Val Ellam) | integral | palestra (a fonte primária da grafia) |

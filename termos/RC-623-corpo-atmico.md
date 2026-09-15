@@ -15,8 +15,47 @@ atualizado = "2026-08-18"
 ## Definição Sintética
 Condição ou veículo espiritual original que recebe sucessivamente as vestimentas búdica e manásica nos desdobramentos do Paraíso.
 
+## Etimologia e Grafias
+- Grafia preferida: Corpo Átmico. STT: corpo átimo. Distinguir de Adhyatman RC-013.
+- **Fonte da decisão:** Devolutiva-01 + observação direta do curador.
+
+
 ## Contexto / Origem
 Na live, o Corpo Átmico permanece ligado à condição original, enquanto o Corpo Búdico permite consciência de externalidade e o Manásico permite ímpeto criativo.
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Adhyatman | RC-013 | relaciona-se-a |
+| Espiritualidade Superior | RC-059 | ← associada-a |
+| Realidade Maior / Paraíso Original | RC-204 | relaciona-se-a |
+| Mohen So = Phanes / Protogonos / Vasuki / Kalki (correspondências) | RC-282 | relaciona-se-a |
+| Fatiamento de Consciência | RC-604 | relaciona-se-a |
+| Fatiamento de Consciência | RC-604 | ← relaciona-se-a |
+| Protocolos / Algoritmos da Perfeição | RC-606 | associado |
+| Corpo Búdico | RC-624 | investido-por |
+| Corpo Búdico | RC-624 | ← investe |
+| Corpo Búdico | RC-624 | ← relaciona-se-a |
+| Corpo Manásico / Corpo Mental | RC-625 | ← relaciona-se-a |
+| Corpo Daiva / Corpo Demoníaco de Plasma | RC-630 | associado |
+| Corpo Sutil Reencarnante | RC-704 | ← relaciona-se-a |
+| Bhavaṅga / Janela da Percepção | RC-706 | ← relaciona-se-a |
+| Três Faíscas da Consciência Humana | RC-719 | ← inclui |
+
+## Seres Associados
+Consultar relações acima.
+
+## Fontes
+| Obra/palestra | Localização | Tipo |
+|---|---|---|
+| P2026-07-30 — 4ª Edição Estagiários do Kaos | U0049–U0054 | STT pré-curado / devolutiva |
+| P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — |
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
 
 ## Citações-chave
 > “O corpo átmico [é] investido do corpo búdico.” — P2026-07-30, U0049–U0054
@@ -57,48 +96,9 @@ O Corpo Átmico integra a Tríade Imortal e é relacionado ao Corpo Sutil Reenca
 
 ---
 
-## Etimologia e Grafias
-- Grafia preferida: Corpo Átmico. STT: corpo átimo. Distinguir de Adhyatman RC-013.
-- **Fonte da decisão:** Devolutiva-01 + observação direta do curador.
-
-
-## Seres Associados
-Consultar relações acima.
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Adhyatman | RC-013 | relaciona-se-a |
-| Espiritualidade Superior | RC-059 | ← associada-a |
-| Realidade Maior / Paraíso Original | RC-204 | relaciona-se-a |
-| Mohen So = Phanes / Protogonos / Vasuki / Kalki (correspondências) | RC-282 | relaciona-se-a |
-| Fatiamento de Consciência | RC-604 | relaciona-se-a |
-| Fatiamento de Consciência | RC-604 | ← relaciona-se-a |
-| Protocolos / Algoritmos da Perfeição | RC-606 | associado |
-| Corpo Búdico | RC-624 | investido-por |
-| Corpo Búdico | RC-624 | ← investe |
-| Corpo Búdico | RC-624 | ← relaciona-se-a |
-| Corpo Manásico / Corpo Mental | RC-625 | ← relaciona-se-a |
-| Corpo Daiva / Corpo Demoníaco de Plasma | RC-630 | associado |
-| Corpo Sutil Reencarnante | RC-704 | ← relaciona-se-a |
-| Bhavaṅga / Janela da Percepção | RC-706 | ← relaciona-se-a |
-| Três Faíscas da Consciência Humana | RC-719 | ← inclui |
-
 ## Observações
 Os três corpos receberam códigos separados por possuírem funções distintas.
 
 **Regra de status:** fonte recente em STT sem áudio anexado; manter candidato salvo status prévio do termo mesclado.
 
 ---
-
-## Fontes
-| Obra/palestra | Localização | Tipo |
-|---|---|---|
-| P2026-07-30 — 4ª Edição Estagiários do Kaos | U0049–U0054 | STT pré-curado / devolutiva |
-| P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — |
-
-## Fontes
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

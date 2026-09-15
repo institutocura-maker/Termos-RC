@@ -15,6 +15,47 @@ atualizado = "2026-08-29"
 ## Definição Sintética
 Humano que, por vontade, serenidade e decência, produziria um foco de resistência à entropia informacional. Na linguagem da palestra, esse foco é um “ponto de luz” ou uma “ilha de negentropia”.
 
+### Estrutura interna
+
+- ação consciente em vez de expectativa de providência externa;
+- profissão de fé filosófica, absorvida em RC-705;
+- alimentação simbólica da Mente Universal — RC-163;
+- ilhas da insubmissão, absorvidas em conjunto com RC-727;
+- resistência ao Colapso do Caos Organizado — RC-690.
+
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Entropia e Negentropia | RC-160 | é-ilha-de |
+| Entropia e Negentropia | RC-160 | ← manifesta-se-em |
+| Mente Universal (Emergente) | RC-163 | alimenta |
+| Mente Universal (Emergente) | RC-163 | ← alimentada-por |
+| Decência cósmica (ética ellâmica) | RC-508 | realiza |
+| Protagonismo consciencial | RC-509 | associado |
+| Colapso do Caos Organizado | RC-690 | resiste-a |
+| Colapso do Caos Organizado | RC-690 | ← resistido-por |
+| Colapso do Caos Organizado | RC-690 | relaciona-se-a |
+| Ato de Verdade / Satyagraha | RC-705 | realizada-por |
+| Ato de Verdade / Satyagraha | RC-705 | ← realiza |
+| Sócios do Destino / Ausência de Justiça Externa | RC-720 | ← relaciona-se-a |
+| Dignidade como Critério de Consciência | RC-722 | relaciona-se-a |
+| DNA Insubmisso / Linhagem Pandora–Eva–Noreia | RC-727 | associado |
+| Abraço aos Fantasmas / Integridade sem Combate | RC-735 | ← relaciona-se-a |
+| Pulsação Digna (a pulsação alinhada a conceitos supremos) | RC-865 | associado |
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2021-06-26 | Shiva - A Reconstrução do Erro de Brahma e o Tikum (palestra) | — | transcrição automatizada; citação |
+| P2022-07-16 | Do Ramayana ao Mahabharata (palestra) | — | transcrição automatizada; citação |
+| P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
+| P2022-11-26 | Choque de Realidade – o Perpétuo Espanto dos Donos da Verdade (palestra) | — | transcrição automatizada; citação |
+| P2022-12-03 | O Ocaso do Criador e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
+| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
+| P2024-11-09 | U0715–U0750; U1050–U1070; U1260–U1270 | palestra/STT |
+
+
 ## Citações-chave
 
 > Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
@@ -105,45 +146,5 @@ Humano que, por vontade, serenidade e decência, produziria um foco de resistên
 - **[A yoga do sono e do sonho: a mesma consciência nos três estados] (U0012)** «É, nós temos uma consciência, segundo o budismo que transita, a gente vai ver isso amanhã, da consciência de vigília para consciência do sonho, paraa consciência do sono.» — "Mas é a mesma consciência trabalhando o tempo inteiro" (U0012: «Mas é a mesma consciência trabalhando o tempo inteiro.»); a antiguidade do conhecimento: "há 17.000 anos que esse conhecimento tá disponível pros ancestrais e os tibetanos, que é a chamada yoga do sono e do sonho" (U0038: «Voltando pro caso A, há 17.000 anos que esse conhecimento tá disponível pros ancestrais e os tibetanos, que é a chamada yoga do sono e do sonho.»); "a yoga do sono e do sonho da vigília dos tibetanos é a melhor forma de você compreender as sequências do seu eu" (U0038: «Mas é assim, a yoga do sono e do sonho da vigília dos tibetanos é a melhor forma de você compreender as sequências do seu eu.»).
 
 
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Entropia e Negentropia | RC-160 | é-ilha-de |
-| Entropia e Negentropia | RC-160 | ← manifesta-se-em |
-| Mente Universal (Emergente) | RC-163 | alimenta |
-| Mente Universal (Emergente) | RC-163 | ← alimentada-por |
-| Decência cósmica (ética ellâmica) | RC-508 | realiza |
-| Protagonismo consciencial | RC-509 | associado |
-| Colapso do Caos Organizado | RC-690 | resiste-a |
-| Colapso do Caos Organizado | RC-690 | ← resistido-por |
-| Colapso do Caos Organizado | RC-690 | relaciona-se-a |
-| Ato de Verdade / Satyagraha | RC-705 | realizada-por |
-| Ato de Verdade / Satyagraha | RC-705 | ← realiza |
-| Sócios do Destino / Ausência de Justiça Externa | RC-720 | ← relaciona-se-a |
-| Dignidade como Critério de Consciência | RC-722 | relaciona-se-a |
-| DNA Insubmisso / Linhagem Pandora–Eva–Noreia | RC-727 | associado |
-| Abraço aos Fantasmas / Integridade sem Combate | RC-735 | ← relaciona-se-a |
-| Pulsação Digna (a pulsação alinhada a conceitos supremos) | RC-865 | associado |
-
 ## Observações
 As afirmações sobre voltagem celular, aura de 18 metros, elétrons e massa crítica não são tratadas como ciência estabelecida. Números conjunturais não integram a definição canônica.
-## Fontes
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2021-06-26 | Shiva - A Reconstrução do Erro de Brahma e o Tikum (palestra) | — | transcrição automatizada; citação |
-| P2022-07-16 | Do Ramayana ao Mahabharata (palestra) | — | transcrição automatizada; citação |
-| P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
-| P2022-11-26 | Choque de Realidade – o Perpétuo Espanto dos Donos da Verdade (palestra) | — | transcrição automatizada; citação |
-| P2022-12-03 | O Ocaso do Criador e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
-| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
-| P2024-11-09 | U0715–U0750; U1050–U1070; U1260–U1270 | palestra/STT |
-
-
-## Estrutura interna
-
-- ação consciente em vez de expectativa de providência externa;
-- profissão de fé filosófica, absorvida em RC-705;
-- alimentação simbólica da Mente Universal — RC-163;
-- ilhas da insubmissão, absorvidas em conjunto com RC-727;
-- resistência ao Colapso do Caos Organizado — RC-690.
-

@@ -15,8 +15,41 @@ atualizado = "2026-08-28"
 ## Definição Sintética
 Revelação central de *O Sorriso de Pandora* (B020, cap. 9): **Pandora fez o papel da serpente do Jardim do Éden** — não uma serpente literal, mas a figura que afrontou o Criador para proteger a humanidade: "Aqui fiz o papel da serpente pois, enquanto mulher, mas com o meu poder mental demoníaco ainda acionado, afrontei Caos e os seus anjos como forma de proteger a minha semeadura entre os humanos." Ao agir assim, impediu que o Criador adestrasse o casal do Éden e, em seguida, eliminasse seus descendentes.
 
+## Etimologia e Grafias
+- **Grafia preferida:** Pandora como Serpente do Éden
+- **Variações:** a serpente do Éden = Pandora; papel da serpente; a "serpente" da tradição bíblica
+
+
 ## Contexto / Origem
 No B020, Pandora narra em 1ª pessoa: cerca de 30 mil anos após sua "humanização", o Criador (Caos/Javé) fez sua morada "estacionar" numa região do planeta — o futuro Jardim do Éden — e tomou como prisioneiros "um casal pertencente a um dos núcleos humanos". Pandora interveio como "serpente": sua influência genética e seu deslacre já haviam sido semeados entre os humanos, e ela afrontou o plano de dominação do Criador. O "Adão bíblico" e a "Eva bíblica" são distintos dos primeiros humanos de estimação de Epimeteu.
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Pandora | RC-086 | ← é-um |
+| Trava-demo | RC-184 | contexto |
+| Eva (figura) | RC-189 | protege |
+| Éden do Criador (Éden como laboratório) | RC-242 | local |
+| Linhagem dos Patriarcas Hebreus | RC-270 | associado |
+| Caos = Brahma = Javé (correspondência) | RC-284 | afronta |
+| Opção Inusitada de Pandora (humanização) | RC-285 | precede |
+| O Vício de Epimeteu | RC-289 | associado |
+| Descendência de Kadru (Nagas, Uragas e Maharagas) | RC-664 | ← influencia |
+| Mão Invisível Multiforme / Conselho das Nagas | RC-697 | associado |
+| Daksha e Virini | RC-701 | relaciona-se-a |
+| DNA Insubmisso / Linhagem Pandora–Eva–Noreia | RC-727 | ← relaciona-se-a |
+
+## Seres Associados
+Pandora (RC-086); Caos/Javé (RC-284/RC-001); Adão e Eva bíblicos (RC-189); anjos do Criador.
+
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo |
+|---|---|---|---|
+| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra) | — | transcrição automatizada; citação |
+| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra) | — | transcrição automatizada; citação |
+| O Sorriso de Pandora (B020) | cap. 9 (Adão e Eva Bíblicos) | pp. 65–76 (aprox.) | revelação central |
+
+
 
 ## Citações-chave
 > "Aqui fiz o papel da serpente pois, enquanto mulher, mas com o meu poder mental demoníaco ainda acionado, afrontei Caos e os seus anjos como forma de proteger a minha semeadura entre os humanos." — B020, cap. 9
@@ -50,40 +83,7 @@ No B020, Pandora narra em 1ª pessoa: cerca de 30 mil anos após sua "humanizaç
 - **Status da evidência:** transcrição automatizada, pré-curada e validada terminologicamente pelo curador; conferir com áudio/obra primária antes de promoção de status.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
 
-## Etimologia e Grafias
-- **Grafia preferida:** Pandora como Serpente do Éden
-- **Variações:** a serpente do Éden = Pandora; papel da serpente; a "serpente" da tradição bíblica
-
-
-## Seres Associados
-Pandora (RC-086); Caos/Javé (RC-284/RC-001); Adão e Eva bíblicos (RC-189); anjos do Criador.
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Pandora | RC-086 | ← é-um |
-| Trava-demo | RC-184 | contexto |
-| Eva (figura) | RC-189 | protege |
-| Éden do Criador (Éden como laboratório) | RC-242 | local |
-| Linhagem dos Patriarcas Hebreus | RC-270 | associado |
-| Caos = Brahma = Javé (correspondência) | RC-284 | afronta |
-| Opção Inusitada de Pandora (humanização) | RC-285 | precede |
-| O Vício de Epimeteu | RC-289 | associado |
-| Descendência de Kadru (Nagas, Uragas e Maharagas) | RC-664 | ← influencia |
-| Mão Invisível Multiforme / Conselho das Nagas | RC-697 | associado |
-| Daksha e Virini | RC-701 | relaciona-se-a |
-| DNA Insubmisso / Linhagem Pandora–Eva–Noreia | RC-727 | ← relaciona-se-a |
-
 ## Observações
 Ficha baseada em B020 (obra primária). A reinterpretação da serpente bíblica como Pandora é um dos achados mais impactantes do corpus — conecta a mitologia grega à narrativa do Éden. Cruzar com RC-242 (Éden como laboratório) e RC-285.
 
 ---
-
-## Fontes
-| Obra (sigla) | Capítulo | Página | Tipo |
-|---|---|---|---|
-| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra) | — | transcrição automatizada; citação |
-| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra) | — | transcrição automatizada; citação |
-| O Sorriso de Pandora (B020) | cap. 9 (Adão e Eva Bíblicos) | pp. 65–76 (aprox.) | revelação central |
-
-

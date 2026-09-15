@@ -16,6 +16,24 @@ atualizado = "2026-08-19"
 
 O Zohar (Livro do Esplendor) é atribuído pela tradição ao rabino Shimon bar Yochai (séc. II d.C.) — na leitura da RC, o rabino teria recebido de Javé (via anjos) a Otz Chim e informações sobre a Cabalá.
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Javé | RC-001 | relaciona-se-a |
+| Tzimtzum | RC-008 | associado |
+| Kether (Javé na Cabala) | RC-261 | revelado-por |
+| Sefirot / Árvore da Vida | RC-263 | ← relaciona-se-a |
+| Sefirot / Árvore da Vida | RC-263 | relaciona-se-a |
+| Os 270 Mundos (profecia do Zohar) | RC-265 | ← profecias-em |
+| Isaac Luria e o conceito do Tzimtzum | RC-267 | relaciona-se-a |
+| Gnosticismo (contraponto à Cabala) | RC-268 | associado |
+
+## Fontes
+
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2025-05-31 | O Mistério da Árvore da Vida e a Urdidura de Metatron (re-curadoria; devolutiva M-2/M-4 aprovada 19/08/2026) | palestra/STT pré-curada |
+
 ## Citações-chave
 
 > Javé precisava criar um sistema que servisse de contraponto à derrota dele pelo fato de Jesus ter ressuscitado.
@@ -38,27 +56,9 @@ O Zohar (Livro do Esplendor) é atribuído pela tradição ao rabino Shimon bar 
 - **[B013 p. 136]** a Cabala, “trabalho expositivo mais bem elaborado pela Assessoria do Criador” nos últimos dois mil anos, destinava-se também ao “público-alvo dos 270 mundos referidos pelo ‘Sepher ha-Zohar’”; resultou, no entanto, em “manual de fé”.
 - **Quarentena histórico-religiosa:** atribuição do Zohar a Shimon (séc. II) é leitura de Ellam. Gnosticismo já em RC-268 — sem código novo.
 
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | relaciona-se-a |
-| Tzimtzum | RC-008 | associado |
-| Kether (Javé na Cabala) | RC-261 | revelado-por |
-| Sefirot / Árvore da Vida | RC-263 | ← relaciona-se-a |
-| Sefirot / Árvore da Vida | RC-263 | relaciona-se-a |
-| Os 270 Mundos (profecia do Zohar) | RC-265 | ← profecias-em |
-| Isaac Luria e o conceito do Tzimtzum | RC-267 | relaciona-se-a |
-| Gnosticismo (contraponto à Cabala) | RC-268 | associado |
-
 ## Observações
 
 Quarentena teológica — leitura do autor; STT Bariokai normalizado.
 
 ---
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** os 2 trechos entre aspas desta ficha **não** resistem à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Todos deixam vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
-
-## Fontes
-
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2025-05-31 | O Mistério da Árvore da Vida e a Urdidura de Metatron (re-curadoria; devolutiva M-2/M-4 aprovada 19/08/2026) | palestra/STT pré-curada |

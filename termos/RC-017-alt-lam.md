@@ -28,11 +28,6 @@ Com isso:
 
 **Origem do conteúdo da ampliação:** palestra `P2017-10-14 — Da Base Atlan ao Colégio Druídico` (14/10/2017). Transcrição automatizada, **não conferida com o áudio**; cada aspa foi recortada do `original.txt` pelo índice de âncoras do motor e conferida byte a byte pelo portão B. Nada foi digitado de memória.
 
-## Ampliação
-### P2017-10-14 (Da Base Atlan ao Colégio Druídico)
-
-- **[a base Atlan sob Natal] (U0008)** «Então eles começaram a me mostrar que ali aonde hoje ela tá, mas principalmente no perímetro dos 2 km, existia durante muito tempo uma chamada base Atla.» — a base Atlan existiu no perímetro de ~2 km onde hoje é a cidade de Natal (anagrama de Atlan); ver RC-018 Alt´Lam Gron.
-
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
@@ -48,7 +43,13 @@ Com isso:
 | P2017-10-14 | Da Base Atlan ao Colégio Druídico (palestra) | — | transcrição automatizada; citação |
 | B031 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
 
-## Observações sobre o Estado da Malha
+## Ampliação
+### P2017-10-14 (Da Base Atlan ao Colégio Druídico)
+
+- **[a base Atlan sob Natal] (U0008)** «Então eles começaram a me mostrar que ali aonde hoje ela tá, mas principalmente no perímetro dos 2 km, existia durante muito tempo uma chamada base Atla.» — a base Atlan existiu no perímetro de ~2 km onde hoje é a cidade de Natal (anagrama de Atlan); ver RC-018 Alt´Lam Gron.
+
+## Observações
+### Observações sobre o Estado da Malha
 
 * **Grafia STT:** 'base Atla' = Alt´Lam. A base sob o perímetro de ~2 km onde hoje é Natal; ver RC-018 Alt´Lam Gron.
 * **Trava aplicável**: nenhuma além das gerais do despacho.

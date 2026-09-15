@@ -15,18 +15,12 @@ atualizado = "2026-08-14"
 ## Definição Sintética
 Separação do fenômeno da vida em camadas, faixas e departamentos vibratórios parcialmente isolados.
 
-## Contexto / Origem
-A departamentalização permitiria experiências intramuros, limitando a exportação direta do que é vivenciado em cada nível.
-
-## Citações-chave
-> “Chamada departamentalização da vida [...] intramuros vibratórios.” — P2021-12-04, U0027; U0045–U0048; U0102–U0108
-
 ## Etimologia e Grafias
 - Expressão literal: Departamentalização da Vida.
 - **Fonte de decisão:** Quadro 9 aprovado pelo curador.
 
-## Seres Associados
-Consultar as relações tipadas acima.
+## Contexto / Origem
+A departamentalização permitiria experiências intramuros, limitando a exportação direta do que é vivenciado em cada nível.
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -38,13 +32,19 @@ Consultar as relações tipadas acima.
 | Blindagens Interdimensionais (Intramuros Vibratórios) | RC-602 | produz |
 | Blindagens Interdimensionais (Intramuros Vibratórios) | RC-602 | ← parte-de |
 
-## Observações
-Relaciona-se às três grandes faixas e às blindagens interdimensionais.
-
-**Regra de status:** permanece candidato por depender de transcrição automatizada sem áudio anexado.
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+## Seres Associados
+Consultar as relações tipadas acima.
 
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
 | P2021-12-04 — Os Archeons de Ereon e os Seres Adhy | U0027; U0045–U0048; U0102–U0108 | STT pré-curado e validado |
+
+## Citações-chave
+> “Chamada departamentalização da vida [...] intramuros vibratórios.” — P2021-12-04, U0027; U0045–U0048; U0102–U0108
+
+## Observações
+Relaciona-se às três grandes faixas e às blindagens interdimensionais.
+
+**Regra de status:** permanece candidato por depender de transcrição automatizada sem áudio anexado.
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

@@ -262,3 +262,133 @@ secção contra o HEAD, **0 fichas com conteúdo alterado**.
 | 147 fichas com lote | bloqueadas pelo conflito (e) — exigem decisão sobre o *driver* |
 | 70 títulos / 196 ocorrências fora do vocabulário | dispositivos editoriais próprios; mantidos por decisão editorial |
 | 122 secções duplicadas pré-existentes | fora do escopo; intactas |
+
+---
+
+## 11. Tranches 3b e 4b — EXECUTADAS na U90 (unificação concluída)
+
+**Decisões do Curador:** (e-1) **adoptar a ordem do *driver* como ordem
+mestre** — unificação total sem tocar no código; (e-2) os 70 títulos
+editoriais **descem a H3 sob a secção-mãe**, sem perder o rótulo.
+
+### 11.1 Nova ordem mestre (a do driver, mais as 5 secções extra)
+
+1. `Definição Sintética` · 2. `Etimologia e Grafias` · 3. `Contexto / Origem` ·
+4. `Escopo e evidência` · 5. `Termos Relacionados` · 6. `Seres Associados` ·
+7. `Fontes` · 8. `Citações-chave` · 9. `Ampliação` · 10. `Atualização` ·
+11. `Reforço` · 12. `Observações`
+
+As 7 secções que o *driver* emite ocupam as posições 0, 2, 3, 4, 6, 7 e 11 —
+**estritamente crescentes**, pelo que a ordem do driver fica integralmente
+preservada. Consequência: as 147 fichas com lote **já estavam** nesta ordem, e
+a reordenação é-lhes uma operação nula.
+
+### 11.2 Resultado
+
+| | |
+|---|---|
+| fichas afectadas | 673 (as 147 com lote intactas) |
+| títulos editoriais → H3 | 191 |
+| secções-mãe criadas | 103 |
+| **assinaturas** | **150 → 102** |
+| fichas fora da ordem mestre | **0** |
+| H2 fora do vocabulário | **1** (`6. Histórico Curatorial e Auditoria`, nas 5 fichas com lote) |
+| duplicados H2 | 122 (os pré-existentes, intactos) |
+| conteúdo alterado | **0** |
+
+### 11.3 Mapa editorial → secção-mãe (para auditoria)
+
+| título editorial | ocorrências | secção-mãe |
+|---|---:|---|
+| Observações sobre o Estado da Malha | 60 | `Observações` |
+| Estrutura interna | 26 | `Definição Sintética` |
+| Cautela editorial | 10 | `Observações` |
+| Quarentena Terminológica | 10 | `Observações` |
+| Glossário interno | 9 | `Etimologia e Grafias` |
+| 6. Histórico Curatorial e Auditoria | 6 | `Observações` |
+| Interpretação secundária (ART-2026-08-18) | 3 | `Observações` |
+| Remissão | 3 | `Termos Relacionados` |
+| Absorções | 3 | `Etimologia e Grafias` |
+| Contexto biográfico — NATIVO/EXTERNO (não é doutrina RC) | 3 | `Contexto / Origem` |
+| Leitura interpretativa — [NÃO ANCORADA / QUARENTENA] | 3 | `Observações` |
+| Registro histórico (título original) | 2 | `Observações` |
+| Distinção Adhyagia × Adhyagya | 1 | `Definição Sintética` |
+| Colecionar Incertezas | 1 | `Contexto / Origem` |
+| As 10 Eras | 1 | `Definição Sintética` |
+| Absorção de RC-449 — F045 · 07/09/2026 | 1 | `Etimologia e Grafias` |
+| Ressalva reflexiva (registrada em 2026-08-17, a pedido do curador) | 1 | `Observações` |
+| Higiene ontológica — P2024-11-30 e eBook de IA | 1 | `Observações` |
+| Absorção de RC-203 (F045 · 07/09/2026) | 1 | `Etimologia e Grafias` |
+| Colecionar Incertezas — "quachadas/quechada" = Keshava? (pista do curador, 2026-08-18) | 1 | `Observações` |
+| Distinção ratificada — P2025-03-15 | 1 | `Definição Sintética` |
+| Divergência preservada — P2025-03-15 | 1 | `Observações` |
+| Correção canônica — Devolutiva-01 / P2026-07-30 | 1 | `Observações` |
+| Grande Hub de Moros — P2024-11-30 | 1 | `Contexto / Origem` |
+| Súdices — F032 aplicação (05/09/2026, C-ii) | 1 | `Contexto / Origem` |
+| Observação do curador — HIPÓTESE DE LEITURA (2026-08-18) | 1 | `Observações` |
+| Absorção de RC-872 — F045 · 10/09/2026 | 1 | `Etimologia e Grafias` |
+| Fusão WD → Wyrd (decisão do curador, 2026-08-18) | 1 | `Observações` |
+| Subtermos absorvidos | 1 | `Etimologia e Grafias` |
+| Eventos e atuações atribuídos | 1 | `Contexto / Origem` |
+| Kadru na Terra | 1 | `Contexto / Origem` |
+| Itens travados em revisão | 1 | `Observações` |
+| Distinção Ontológica | 1 | `Definição Sintética` |
+| Validação da Grafia Canônica | 1 | `Etimologia e Grafias` |
+| Satchidananda | 1 | `Contexto / Origem` |
+| Conselho das Nagas | 1 | `Contexto / Origem` |
+| Estrutura interna absorvida | 1 | `Definição Sintética` |
+| Samskaras e Vasanas | 1 | `Contexto / Origem` |
+| Satyagraha e Abhaya | 1 | `Contexto / Origem` |
+| Processo descrito | 1 | `Contexto / Origem` |
+| Absorção | 1 | `Etimologia e Grafias` |
+| Ressalva Científica | 1 | `Observações` |
+| Distinções internas | 1 | `Definição Sintética` |
+| Escopo rigoroso | 1 | `Definição Sintética` |
+| Ressalva Biomédica | 1 | `Observações` |
+| Estrutura | 1 | `Definição Sintética` |
+| Escalas descritas | 1 | `Contexto / Origem` |
+| Fixação da sigla | 1 | `Definição Sintética` |
+| Ressalva de escopo | 1 | `Observações` |
+| Primeiro caso descrito | 1 | `Contexto / Origem` |
+| Risco de Krishna | 1 | `Observações` |
+| Sequência apresentada | 1 | `Contexto / Origem` |
+| As três faíscas | 1 | `Definição Sintética` |
+| Formulação oral absorvida | 1 | `Definição Sintética` |
+| Selo temporal — P2025-07-18 — divergência Pandora / Eva–Adão | 1 | `Observações` |
+| Origem da imagem | 1 | `Contexto / Origem` |
+| Instâncias internas de glossário | 1 | `Etimologia e Grafias` |
+| Escopo autorizado | 1 | `Definição Sintética` |
+| Exclusão clínica vinculante | 1 | `Observações` |
+| Qualificadores internos absorvidos | 1 | `Etimologia e Grafias` |
+| Elementos preservados | 1 | `Definição Sintética` |
+| Pontos não harmonizados | 1 | `Observações` |
+| Princípios | 1 | `Definição Sintética` |
+| Variante e escopo | 1 | `Definição Sintética` |
+| Limites obrigatórios | 1 | `Observações` |
+| As cinco lentes (estrutura interna) | 1 | `Definição Sintética` |
+| Estrutura interna (as "badaladas") | 1 | `Definição Sintética` |
+| Estrutura interna (3 elementos definidores) | 1 | `Definição Sintética` |
+| Absorção de RC-936 — F045 · 07/09/2026 | 1 | `Etimologia e Grafias` |
+| Grafias (decisão canônica 03/09/2026) | 1 | `Etimologia e Grafias` |
+
+Distribuição: {'Observações': 110, 'Definição Sintética': 44, 'Contexto / Origem': 17, 'Termos Relacionados': 3, 'Etimologia e Grafias': 22}
+
+### 11.4 Salvaguardas — três erros meus, todos apanhados pelos testes
+1. Fundir duplicados **pré-existentes** (as duas `## Fontes` da RC‑089) →
+   tabelas de 5 e 4 colunas concatenadas; o **T7** detectou 17 fichas.
+2. Asserção mal formulada («nenhuma secção nova») disparou na RC‑010, que
+   ganha uma `Observações` legítima (0 → 1). Corrigida para «nenhum
+   **duplicado** novo».
+3. Um editorial pode criar a secção-mãe **antes** de a ficha ter a sua
+   própria; a secção real funde-se então no *placeholder*, mas nunca num
+   duplicado pré-existente.
+
+### 11.5 Estado final de A4
+
+`471 → 188 (U87) → 178 (U88) → 150 (U89) → 102 (U90)`
+
+A4 está **ENCERRADA** no seu objecto taxonómico: vocabulário canónico de 12
+títulos, ordem mestre única, zero fichas fora dela. Permanece apenas
+`6. Histórico Curatorial e Auditoria` (5 fichas com lote), que depende de
+decisão sobre o *driver*.
+

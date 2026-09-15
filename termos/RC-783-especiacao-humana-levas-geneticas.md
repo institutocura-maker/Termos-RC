@@ -15,8 +15,41 @@ atualizado = "2026-08-30"
 ## Definição Sintética
 Tese (leitura do autor, palestra **P2019-05-11 — Pandora e os Desacertos dos Pactos de Javé**, U0005) de que a **especiação humana** vai começar a ocorrer **agora** (palestra de 2019) com a geração de **1, 2, 3 levas de padrão genético humano para outros mundos** — não como "a melhor genética", mas como "a genética que puder ir". A especiação é, portanto, **seleção por viabilidade**, não por excelência. Ver RC-778 (Especiação a partir do DNA Humano) para o conceito-mãe, e RC-056 (Especiação) para a categoria mais ampla.
 
+## Etimologia e Grafias
+- **Grafia preferida:** Especiação Humana — Levas Genéticas
+- **Variações STT capturadas:** "levas genéticas", "1, 2, 3 levas", "padrão genético humano"
+- **Idioma de origem:** Português + latim científico
+
 ## Contexto / Origem
 Aparece em **P2019-05-11**, U0005 (Q&A), em resposta à pergunta sobre "seres demos que encarnam na nova espécie". A tese: talvez se espere 1, 2, 3 levas genéticas até que se forme uma subespécie humana **livre de corrupção, livre de doença** — que será a **raça-raiz da nova mente espiritual**, a fonte das **novas marcações no elétron**.
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Especiação | RC-056 | parte-de |
+| Seres Terrenos (Homo Sapiens) | RC-099 | aplica-se-a |
+| Ressurreição do Cadáver do Criador | RC-638 | associado |
+| Especiação a partir do DNA Humano | RC-778 | sinônimo-parcial |
+| Sophia como Protetorado da Humanidade | RC-784 | contextualizado-por |
+| DNA Neutralizado (código neutralizado de podridão do criador) | RC-864 | associado |
+| Midana (o código original primordial semeado no universo biológico) | RC-871 | associado |
+| Civilizações Insetoides (12 bi anos) | (RC-638) | opõe-se-a |
+
+## Seres Associados
+- **Sophia / Sofia** (RC-009) — quem vai gerenciar a especiação
+- **Civilizações insetoides** (RC-638) — as civilizações "modelo colméia" que estão fadadas ao colapso
+
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo |
+|---|---|---|---|
+| P2021-06-26 | Shiva - A Reconstrução do Erro de Brahma e o Tikum (palestra) | — | transcrição automatizada; citação |
+| P2022-07-16 | Do Ramayana ao Mahabharata (palestra) | — | transcrição automatizada; citação |
+| P2022-09-18 | Os Níveis de Estresse Extremo da Criação (palestra) | — | transcrição automatizada; citação |
+| P2022-09-25 | O Contexto Espiritual da Construção de Brasília (palestra) | — | transcrição automatizada; citação |
+| P2022-10-01 | A Wyrd e a Espiritualidade (palestra) | — | transcrição automatizada; citação |
+| P2022-11-26 | Choque de Realidade – o Perpétuo Espanto dos Donos da Verdade (palestra) | — | transcrição automatizada; citação |
+| P2022-12-03 | O Ocaso do Criador e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
+| P2019-05-11 — Pandora e os Desacertos dos Pactos de Javé | U0005 (S5) | — | palestra (fonte primária, STT) |
 
 ## Citações-chave
 > «Na especiação da espécie humana, que vai começar a ocorrer agora, a genética que vai não é a melhor, é a que puder ir. Então, talvez se espere uma, duas, três levas de padrão genético para outros mundos.» — P2019-05-11, U0005
@@ -59,27 +92,6 @@ Aparece em **P2019-05-11**, U0005 (Q&A), em resposta à pergunta sobre "seres de
 - **[A Bemisia tabaci: nós somos a mosca branca] (U0021)** «Nós humanos somos os benésia tabate da história.» — a incorporação do gene vegetal há 35 milhões de anos: "Os cientistas foram ver Essa espécie, há cerca de 35 milhões de anos atrás, ela conseguia, ela queria comer aquelas plantinhas" (U0021: «Os cientistas foram ver Essa espécie, há cerca de 35 milhões de anos atrás, ela conseguia, ela queria comer aquelas plantinhas.»); "As plantinhas produziam toxin, expressões tóxicas, mas essa espécie conseguiu desenvolver um barato de apropriar a sequência genética desse veneno no seu corpo para assim poder comer e não mais se envenenar com aquilo que estava comendo" (U0021: «As plantinhas produziam toxin, expressões tóxicas, mas essa espécie conseguiu desenvolver um barato de apropriar a sequência genética desse veneno no seu corpo para assim poder comer e não mais se envenenar com aquilo que estava comendo.»); "trata-se do primeiro caso registrado pela ciência de transferência de genes entre plantas e animais" (U0021: «Ou seja, trata-se do primeiro caso registrado pela ciência de transferência de genes entre plantas e animais.»); "Nós, seres humanos, somos a primeira transferência de gene entre demos e uma outra espécie que funcionou" (U0021: «Nós, seres humanos, somos a primeira transferência de gene entre demos e uma outra espécie que funcionou.»).
 
 
-## Etimologia e Grafias
-- **Grafia preferida:** Especiação Humana — Levas Genéticas
-- **Variações STT capturadas:** "levas genéticas", "1, 2, 3 levas", "padrão genético humano"
-- **Idioma de origem:** Português + latim científico
-
-## Seres Associados
-- **Sophia / Sofia** (RC-009) — quem vai gerenciar a especiação
-- **Civilizações insetoides** (RC-638) — as civilizações "modelo colméia" que estão fadadas ao colapso
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Especiação | RC-056 | parte-de |
-| Seres Terrenos (Homo Sapiens) | RC-099 | aplica-se-a |
-| Ressurreição do Cadáver do Criador | RC-638 | associado |
-| Especiação a partir do DNA Humano | RC-778 | sinônimo-parcial |
-| Sophia como Protetorado da Humanidade | RC-784 | contextualizado-por |
-| DNA Neutralizado (código neutralizado de podridão do criador) | RC-864 | associado |
-| Midana (o código original primordial semeado no universo biológico) | RC-871 | associado |
-| Civilizações Insetoides (12 bi anos) | (RC-638) | opõe-se-a |
-
 ## Observações
 - [REVISAR → CHANCELA 2026-09-06 · F041-L5: AGUARDA-ÁUDIO (dívida perdoada até nova evidência na base; STT preservado como falado) — ver nota]: a palestra de 2019-05-11 é a única fonte primária da formulação "1, 2, 3 levas" específica; pode haver paralelos em outras palestras mais recentes.
 - Quarentena: leitura do autor; sem fusão com teoria evolutiva darwiniana ou com engenharia genética acadêmica.
@@ -87,15 +99,3 @@ Aparece em **P2019-05-11**, U0005 (Q&A), em resposta à pergunta sobre "seres de
 
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-783.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** os 2 blocos entre «» desta ficha **não** resistem à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Todos deixam vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
-
-## Fontes
-| Obra (sigla) | Capítulo | Página | Tipo |
-|---|---|---|---|
-| P2021-06-26 | Shiva - A Reconstrução do Erro de Brahma e o Tikum (palestra) | — | transcrição automatizada; citação |
-| P2022-07-16 | Do Ramayana ao Mahabharata (palestra) | — | transcrição automatizada; citação |
-| P2022-09-18 | Os Níveis de Estresse Extremo da Criação (palestra) | — | transcrição automatizada; citação |
-| P2022-09-25 | O Contexto Espiritual da Construção de Brasília (palestra) | — | transcrição automatizada; citação |
-| P2022-10-01 | A Wyrd e a Espiritualidade (palestra) | — | transcrição automatizada; citação |
-| P2022-11-26 | Choque de Realidade – o Perpétuo Espanto dos Donos da Verdade (palestra) | — | transcrição automatizada; citação |
-| P2022-12-03 | O Ocaso do Criador e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
-| P2019-05-11 — Pandora e os Desacertos dos Pactos de Javé | U0005 (S5) | — | palestra (fonte primária, STT) |

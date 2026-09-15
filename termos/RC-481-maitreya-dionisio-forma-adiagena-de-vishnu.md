@@ -16,6 +16,23 @@ atualizado = "2026-09-12"
 
 Figura profética do Buda futuro — na RC, correlacionada a Dionísio e a uma forma adiágena de Vishnu; figura do retorno messiânico.
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Quarto Logos (Olm / Codificador de Zian) | RC-092 | encarnação-posterior-de |
+| Mohen So = Phanes / Protogonos / Vasuki / Kalki (correspondências) | RC-282 | relaciona-se-a |
+| Apolo | RC-306 | associado |
+| ADHYMAVATANA (nome completo de Mavatna/Vishnu) | RC-408 | associado |
+| Relógio Messiânico | RC-765 | ← relaciona-se-a |
+
+## Fontes
+
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2025-12-14 | Os Fundamentos da Revelação Cósmica (palestra) | — | transcrição automatizada; citação |
+| P2021-06-26 | Shiva - A Reconstrução do Erro de Brahma e o Tikum (palestra) | — | transcrição automatizada; citação |
+| P2021-03-27 | bloco 9 (relógio messiânico) | palestra/STT pré-curada |
+
 ## Citações-chave
 
 > "O retorno de Maitreya, a vinda do Avatar Kalki, a volta de Jesus... é continuação da confusão que Marduk fez há 4.000 anos." — P2021-03-27
@@ -46,20 +63,3 @@ Figura profética do Buda futuro — na RC, correlacionada a Dionísio e a uma f
 
 - **Retorno profetizado:** "todas as religiões e movimentos da antiguidade falam no retorno dos deuses, a vinda do Messias, o retorno de Maitreya, a vinda do Avatar Kalki, a volta de Jesus — essa história toda é continuação da confusão que Marduk fez há 4.000 anos" (relógio messiânico — RC-765);
 - Maitreya entre os "enviados dos céus" do relógio profético (nova aresta RC-765 ↔ RC-481).
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Quarto Logos (Olm / Codificador de Zian) | RC-092 | encarnação-posterior-de |
-| Mohen So = Phanes / Protogonos / Vasuki / Kalki (correspondências) | RC-282 | relaciona-se-a |
-| Apolo | RC-306 | associado |
-| ADHYMAVATANA (nome completo de Mavatna/Vishnu) | RC-408 | associado |
-| Relógio Messiânico | RC-765 | ← relaciona-se-a |
-
-## Fontes
-
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2025-12-14 | Os Fundamentos da Revelação Cósmica (palestra) | — | transcrição automatizada; citação |
-| P2021-06-26 | Shiva - A Reconstrução do Erro de Brahma e o Tikum (palestra) | — | transcrição automatizada; citação |
-| P2021-03-27 | bloco 9 (relógio messiânico) | palestra/STT pré-curada |

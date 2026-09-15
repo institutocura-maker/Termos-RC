@@ -16,6 +16,35 @@ atualizado = "2026-09-12"
 
 Anunnaki filho de Anu, irmão de Enlil — na RC, responsável pela inoculação do gene FOXP2 na linhagem humana; **pai de Thot/Ninjizida** (RC-463).
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Anunnaki | RC-024 | é-um |
+| Genética Totalitária | RC-325 | atribuído-em-teologia-comparada-a |
+| Foz Côa / FOXP2 (símbolos) | RC-400 | relaciona-se-a |
+| Ninmah (Anunnaki geneticista) | RC-461 | ← relaciona-se-a |
+| Hermes Trismegisto (= Ningishzidda/Thoth/Quetzalcóatl) | RC-463 | ← relaciona-se-a |
+| Enlil (deus sumério, par de Enki) | RC-487 | relaciona-se-a |
+| Guerra Nuclear Anunnaki (Sete Armas Atômicas) | RC-583 | ← envolve |
+| Anu (patriarca Anunnaki) | RC-587 | ← pai-de |
+| DNA Insubmisso / Linhagem Pandora–Eva–Noreia | RC-727 | ← atribuída-em-teologia-comparada-a |
+| Genótipo da Gentileza (GG) | RC-748 | ← relaciona-se-a |
+| Ao Vencedor as Batatas (paradigma do domínio) | RC-764 | ← relaciona-se-a |
+| Qin Shi Huang Di (imperador chinês sob influência de Lemion) | RC-851 | associado |
+
+## Fontes
+
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2023-08-27 | Len Mion e os Senhores da Terra Alexandre Magno e Qin Shi Huang Di (palestra) | — | transcrição automatizada; citação |
+| P2018-12-16 | Terra Atlantis - Era Sapiens (palestra) | — | transcrição automatizada; citação |
+| P2017-10-14 | Da Base Atlan ao Colégio Druídico (palestra) | — | transcrição automatizada; citação |
+| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
+| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
+| P2023-12-02 | bloco da história anunnaki | palestra/STT pré-curada |
+
+
+
 ## Citações-chave
 
 > "Ele é um anunnaki terráqueo... ele é filho de Enki." — P2023-12-02 (sobre Thot/Ninjizida)
@@ -112,32 +141,3 @@ Anunnaki filho de Anu, irmão de Enlil — na RC, responsável pela inoculação
 - **Torre de Babel como projeto de Enki:** seção 4.4 do Sumário — "A Torre de Babel: Um Projeto Cultural e de Poder de Enki";
 - **Objetivos:** os de Enlil/Anu eram "mais parecidos com os de Javé" do que os de Enki (nova aresta RC-486 ↔ RC-487);
 - **Guerras atômicas (contexto da disputa):** a pontaria de Ninurta/Nergal, no âmbito dos clãs, atingiu Sinai/vale de Sidim (Sodoma e Gomorra) e a radioatividade dizimou a Suméria — **contexto, não ontologia** (quarentena histórica).
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Anunnaki | RC-024 | é-um |
-| Genética Totalitária | RC-325 | atribuído-em-teologia-comparada-a |
-| Foz Côa / FOXP2 (símbolos) | RC-400 | relaciona-se-a |
-| Ninmah (Anunnaki geneticista) | RC-461 | ← relaciona-se-a |
-| Hermes Trismegisto (= Ningishzidda/Thoth/Quetzalcóatl) | RC-463 | ← relaciona-se-a |
-| Enlil (deus sumério, par de Enki) | RC-487 | relaciona-se-a |
-| Guerra Nuclear Anunnaki (Sete Armas Atômicas) | RC-583 | ← envolve |
-| Anu (patriarca Anunnaki) | RC-587 | ← pai-de |
-| DNA Insubmisso / Linhagem Pandora–Eva–Noreia | RC-727 | ← atribuída-em-teologia-comparada-a |
-| Genótipo da Gentileza (GG) | RC-748 | ← relaciona-se-a |
-| Ao Vencedor as Batatas (paradigma do domínio) | RC-764 | ← relaciona-se-a |
-| Qin Shi Huang Di (imperador chinês sob influência de Lemion) | RC-851 | associado |
-
-## Fontes
-
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2023-08-27 | Len Mion e os Senhores da Terra Alexandre Magno e Qin Shi Huang Di (palestra) | — | transcrição automatizada; citação |
-| P2018-12-16 | Terra Atlantis - Era Sapiens (palestra) | — | transcrição automatizada; citação |
-| P2017-10-14 | Da Base Atlan ao Colégio Druídico (palestra) | — | transcrição automatizada; citação |
-| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
-| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
-| P2023-12-02 | bloco da história anunnaki | palestra/STT pré-curada |
-
-

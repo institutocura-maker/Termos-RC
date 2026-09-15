@@ -15,8 +15,57 @@ atualizado = "2026-08-28"
 ## Definição Sintética
 **Mentalma** é o **método de yoga mental e de emancipação psíquica** criado por Jan Val Ellam para o cotidiano — uma "disciplina de Yoga" que substitui as práticas físicas (asanas) por **"jogos mentais"** baseados em questionamentos sobre os próprios conceitos, crenças e "verdades pessoais". O nome deriva de *Mente* + *Atma* (alma/espírito). É o método central da série paralela às Revelações Cósmicas (5 livros + curso), intimamente ligada ao corpus RC.
 
+## Etimologia e Grafias
+- **Grafia preferida:** Mentalma
+- **Variações:** "Mentalma" (nome do método e da série); o usuário refere-se à série também como "METALMA"
+- **Obs.:** o livro I define como "a minha disciplina de Yoga, que criei para o meu cotidiano, com o intuito de viver melhor a vida"
+
+
 ## Contexto / Origem
 Criado ao longo dos anos pelo próprio Ellam ("fui transformando as minhas atuações em fator de emancipação pessoal... que resultaram no Mentalma"), o método questiona as "certezas sinápticas" do cérebro e visa: autoconhecimento, autocontrole, elevação da compreensão e **emancipação do psiquismo**. As práticas incluem a gestão dos **Arquivos Mentais** (RC-548), o **Circuito do CHA** (RC-549), a **Vontade de Progredir** (RC-550), a **Disciplina dos 3As** (RC-552) e o aprofundamento no **Eu Profundo** (RC-553).
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Jan Val Ellam (Rogério de Almeida Freitas) | RC-071 | associado |
+| Arquivos Mentais (coleção de conceitos no psiquismo) | RC-548 | ← é-um |
+| Circuito do CHA (Circunstâncias+Herança+Atitude) | RC-549 | relaciona-se-a |
+| Vontade de Progredir (chave dos arquivos mentais) | RC-550 | relaciona-se-a |
+| Dehatma Buddhi (doença psíquica da mente identificada com o corpo) | RC-551 | ← relaciona-se-a |
+| Disciplina dos 3As (respiração, mente, alinhamento) | RC-552 | ← relaciona-se-a |
+| Eu Profundo (nível espiritual do Eu) | RC-553 | ← relaciona-se-a |
+| Gestão Psíquica e Memórias Complexas (Mentalma II) | RC-554 | ← é-um |
+| Série Mentalma (5 livros + curso) | RC-555 | ← relaciona-se-a |
+| Conectoma humano (pulsações sinápticas e a sensação de eu) | RC-557 | ← relaciona-se-a |
+| Sensação de eu (a sensação particular a cada instante) | RC-558 | ← relaciona-se-a |
+| Protocolo da Busca | RC-566 | orienta |
+| Moksha | RC-618 | ← relaciona-se-a |
+| Gestão da Sensação Pessoal | RC-633 | ← relaciona-se-a |
+| Revelação de Ifá e Destinação dos Seres | RC-655 | relaciona-se-a |
+| Áurea Catena | RC-663 | associado |
+| Ciência Pessoal / Doutrina da Própria Personalidade | RC-695 | relaciona-se-a |
+| Bhavaṅga / Janela da Percepção | RC-706 | ← relaciona-se-a |
+| Abraço aos Fantasmas / Integridade sem Combate | RC-735 | associado |
+| Estrangulamento Cognitivo / Neural | RC-753 | ← relaciona-se-a |
+| Escola da Decifração da Realidade (Método Druídico) | RC-755 | ← relaciona-se-a |
+| As Cinco Lentes da Realidade | RC-761 | ← relaciona-se-a |
+| Mentalidade Comum (o contágio do rebanho) | RC-869 | associado |
+
+## Seres Associados
+Jan Val Ellam (RC-071, criador).
+
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo |
+|---|---|---|---|
+| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra) | — | transcrição automatizada; citação |
+| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra) | — | transcrição automatizada; citação |
+| A Epopeia dos Agentes da Vida Universal (B024) | — | — | menção (fonte original) |
+| Mentalma I (B074) | Advertência; Cap. 1–2 | pp. 11–12, 26 (PDF) | definição do método |
+| Mentalma II (B075) | Cap. 1 | — | aprofundamento |
+| P2026-08-04 | Podcast Irmãos Dias #272 (aliens e a Bíblia) | — | — |
+| ART-2026-08-18 | O Quarto Cérebro de Pandora (artigo — Denise F. Silva) | — | — |
+
+
 
 ## Citações-chave
 > "Criei o Mentalma como sendo o meu método de nada reafirmar, questionando todas as minhas 'certezas sinápticas'... O Mentalma questiona e recria, assegurando novas possibilidades." — B074, p. 11
@@ -138,56 +187,7 @@ Criado ao longo dos anos pelo próprio Ellam ("fui transformando as minhas atua�
 - Relação nova: Mentalma ↔ Ciência Pessoal (RC-695) — o laboratório íntimo do esforço psíquico (aresta P2023-05-13).
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** os 3 trechos entre aspas desta ficha **não** resistem à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Todos deixam vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
 
-## Etimologia e Grafias
-- **Grafia preferida:** Mentalma
-- **Variações:** "Mentalma" (nome do método e da série); o usuário refere-se à série também como "METALMA"
-- **Obs.:** o livro I define como "a minha disciplina de Yoga, que criei para o meu cotidiano, com o intuito de viver melhor a vida"
-
-
-## Seres Associados
-Jan Val Ellam (RC-071, criador).
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Jan Val Ellam (Rogério de Almeida Freitas) | RC-071 | associado |
-| Arquivos Mentais (coleção de conceitos no psiquismo) | RC-548 | ← é-um |
-| Circuito do CHA (Circunstâncias+Herança+Atitude) | RC-549 | relaciona-se-a |
-| Vontade de Progredir (chave dos arquivos mentais) | RC-550 | relaciona-se-a |
-| Dehatma Buddhi (doença psíquica da mente identificada com o corpo) | RC-551 | ← relaciona-se-a |
-| Disciplina dos 3As (respiração, mente, alinhamento) | RC-552 | ← relaciona-se-a |
-| Eu Profundo (nível espiritual do Eu) | RC-553 | ← relaciona-se-a |
-| Gestão Psíquica e Memórias Complexas (Mentalma II) | RC-554 | ← é-um |
-| Série Mentalma (5 livros + curso) | RC-555 | ← relaciona-se-a |
-| Conectoma humano (pulsações sinápticas e a sensação de eu) | RC-557 | ← relaciona-se-a |
-| Sensação de eu (a sensação particular a cada instante) | RC-558 | ← relaciona-se-a |
-| Protocolo da Busca | RC-566 | orienta |
-| Moksha | RC-618 | ← relaciona-se-a |
-| Gestão da Sensação Pessoal | RC-633 | ← relaciona-se-a |
-| Revelação de Ifá e Destinação dos Seres | RC-655 | relaciona-se-a |
-| Áurea Catena | RC-663 | associado |
-| Ciência Pessoal / Doutrina da Própria Personalidade | RC-695 | relaciona-se-a |
-| Bhavaṅga / Janela da Percepção | RC-706 | ← relaciona-se-a |
-| Abraço aos Fantasmas / Integridade sem Combate | RC-735 | associado |
-| Estrangulamento Cognitivo / Neural | RC-753 | ← relaciona-se-a |
-| Escola da Decifração da Realidade (Método Druídico) | RC-755 | ← relaciona-se-a |
-| As Cinco Lentes da Realidade | RC-761 | ← relaciona-se-a |
-| Mentalidade Comum (o contágio do rebanho) | RC-869 | associado |
-
 ## Observações
 A série Mentalma é **paralela mas intimamente ligada** às RC (fonte B024 já citava o termo). O usuário informou que a série tem 5 livros + 1 curso; o Mentalma I menciona volumes até o VII (VI: Qualia e o Laboratório Mental; VII: O Eu como Computador Quântico) — planejados/em andamento. Método com exercícios mentais numerados (1º, 2º, 3º...).
 
 ---
-
-## Fontes
-| Obra (sigla) | Capítulo | Página | Tipo |
-|---|---|---|---|
-| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra) | — | transcrição automatizada; citação |
-| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra) | — | transcrição automatizada; citação |
-| A Epopeia dos Agentes da Vida Universal (B024) | — | — | menção (fonte original) |
-| Mentalma I (B074) | Advertência; Cap. 1–2 | pp. 11–12, 26 (PDF) | definição do método |
-| Mentalma II (B075) | Cap. 1 | — | aprofundamento |
-| P2026-08-04 | Podcast Irmãos Dias #272 (aliens e a Bíblia) | — | — |
-| ART-2026-08-18 | O Quarto Cérebro de Pandora (artigo — Denise F. Silva) | — | — |
-
-

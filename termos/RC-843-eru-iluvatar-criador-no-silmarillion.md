@@ -28,11 +28,6 @@ Com isso:
 
 **Origem do conteúdo da ampliação:** palestra `P2018-12-15 — Terra Atlantis – Aprofundamento` (15/12/2018). Transcrição automatizada, **não conferida com o áudio**; cada aspa foi recortada do `original.txt` pelo índice de âncoras do motor e conferida byte a byte pelo portão B. Nada foi digitado de memória.
 
-## Ampliação
-### P2018-12-15 (Terra Atlantis – Aprofundamento)
-
-- **[Eru Ilúvatar, o criador no Silmarillion] (U0004)** «Mar e ele apresenta nesse livro a estranha figura de Heru, o criador, que na linguagem élfica se chamava iluvatar, então o nome éu iluvatar.» — Eru Ilúvatar (STT 'Heru/éu iluvatar'), o criador na obra de Tolkien, = Prabrajna (RC-152)/Brahma antes da queda; a Ainulindalê (música da criação) = Nada Brahma.
-
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
@@ -49,7 +44,13 @@ Com isso:
 |---|---|---|---|
 | P2018-12-15 | Terra Atlantis – Aprofundamento (palestra) | — | transcrição automatizada; citação |
 
-## Observações sobre o Estado da Malha
+## Ampliação
+### P2018-12-15 (Terra Atlantis – Aprofundamento)
+
+- **[Eru Ilúvatar, o criador no Silmarillion] (U0004)** «Mar e ele apresenta nesse livro a estranha figura de Heru, o criador, que na linguagem élfica se chamava iluvatar, então o nome éu iluvatar.» — Eru Ilúvatar (STT 'Heru/éu iluvatar'), o criador na obra de Tolkien, = Prabrajna (RC-152)/Brahma antes da queda; a Ainulindalê (música da criação) = Nada Brahma.
+
+## Observações
+### Observações sobre o Estado da Malha
 
 [Aguardando Ditado Livre]
 

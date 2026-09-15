@@ -16,14 +16,24 @@ atualizado = "2026-08-16"
 
 [P2024-08-03] Na cosmologia de Ellam, condição de seres ou processos criados e não finalizados que persistiriam em sofrimento, adormecimento, cópias ou loops de realidades paralelas.
 
+## Etimologia e Grafias
+### Glossário interno
+
+- **[P2024-08-03]** Pendência não equivale automaticamente a diagnóstico espiritual, clínico ou psicológico e não autoriza inferências sobre pessoas.
+
+## Contexto / Origem
+
+[P2024-08-03] O registro delimita a condição de pendência, enquanto RC-108 permanece o cenário dimensional. Fala de plateia foi preservada como pergunta e não constitui por si evidência ontológica.
+
 ## Escopo e evidência
 
 - **[P2024-08-03] Unidades:** U0108–U0122; U0185–U0233; U0618–U0621; U0863–U0870.
 - **[P2024-08-03] Proveniência:** palestra de Jan Val Ellam; transcrição STT pré-curada; devolutiva oficial do curador registrada em 2026-08-16.
 
-## Contexto / Origem
-
-[P2024-08-03] O registro delimita a condição de pendência, enquanto RC-108 permanece o cenário dimensional. Fala de plateia foi preservada como pergunta e não constitui por si evidência ontológica.
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Universo Paralelo | RC-108 | persiste-em |
 
 ## Ampliação
 ### P2024-08-03
@@ -37,15 +47,7 @@ atualizado = "2026-08-16"
 
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-744.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
 
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Universo Paralelo | RC-108 | persiste-em |
-
-## Glossário interno
-
-- **[P2024-08-03]** Pendência não equivale automaticamente a diagnóstico espiritual, clínico ou psicológico e não autoriza inferências sobre pessoas.
-
-## Cautela editorial
+## Observações
+### Cautela editorial
 
 [P2024-08-03] Realidades paralelas, cópias e universo antimaterial são cosmologia atribuída a Ellam; não são apresentados como consenso científico estabelecido.

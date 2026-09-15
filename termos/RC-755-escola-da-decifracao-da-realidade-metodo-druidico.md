@@ -16,6 +16,54 @@ atualizado = "2026-09-05"
 
 A via **institucional/prática** proposta pela narrativa de Ellam: uma escola — lançada virtualmente a partir desta palestra ("palestra número um") — dedicada à decifração da realidade, resgatando o **método druídico ancestral** (druida = "buscador da verdade", em grego = filosofia). Seu objetivo: que cada ser humano, superando o estrangulamento cognitivo (RC-753), desperte a chave da decifração universal (RC-754) e construa sua própria ciência pessoal (RC-695) de compreensão adulta do sentido da vida.
 
+### Estrutura interna
+
+- lançada como "escola da decifração da realidade" (palestra nº 1);
+- resgate do método druídico: druida = buscador da verdade; filosofia grega como recriação (Tales de Mileto, Pitágoras, Protágoras);
+- distinção vs. hermetismo (corpo fechado de doutrina; não é resgate do método druídico);
+- não é crença: é reflexão e escrutínio; "a verdade não é absoluta";
+- ligada à Revelação Cósmica (RC-094), ao Mentalma (RC-166) e à Ciência Pessoal (RC-695);
+- cada um cria a própria vivência íntima; "não há manual".
+
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Quarto Logos (Olm / Codificador de Zian) | RC-092 | ← relaciona-se-a |
+| Revelação Cósmica (conceito) | RC-094 | relaciona-se-a |
+| Zian (Zion) | RC-146 | ocorre-em |
+| Mentalma | RC-166 | relaciona-se-a |
+| Apolônio de Tiana (encarnação do Quarto Logos) | RC-259 | ← relaciona-se-a |
+| Tirthankaras (Rishabh Dev, Jina Mahavira) | RC-397 | ← relaciona-se-a |
+| Thuata de Dannan | RC-398 | ← relaciona-se-a |
+| Colegiado Druídico | RC-403 | ← relaciona-se-a |
+| Ciência Pessoal / Doutrina da Própria Personalidade | RC-695 | relaciona-se-a |
+| Chave da Decifração Universal | RC-754 | ← relaciona-se-a |
+| Chave da Decifração Universal | RC-754 | relaciona-se-a |
+| Jainismo (antigo Druidismo — religião mais antiga) | RC-759 | ← relaciona-se-a |
+| Vrittis e Cittas (atividades e núcleos mentais) | RC-760 | ← relaciona-se-a |
+| Milésios (raça da Irlanda) | RC-842 | associado |
+| Biocosmos emergente (a nova mente biológica global ancorada nos campos mórficos) | RC-879 | variação («a quinta… escola da decifração») |
+| IEEA (Instituto de Estudos Estratégicos e Alternativos) | RC-930 | veículo de disseminação (fila, sem ficha) |
+| Nuctemeron | RC-931 | repertório (fila, sem ficha) |
+
+## Fontes
+
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
+| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
+| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra/STT) | citação verbatim; paráfrase |
+| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
+| P2025-06-14b | abertura ("estamos lançando... escola da decifração da realidade") e blocos finais (método druídico; Pitágoras) | palestra/STT pré-curada |
+| P2024-02-03 | O Jainismo e o Druidismo Ancestrais (palestra) | — |
+| B016 | O Quarto Logos — bloco «QUATRO MÉTODOS» e Nuctemeron | livro publicado (obra primária) |
+| P2021-06-26 | Shiva — A Reconstrução do Erro de Brahma e o Tikum (palestra/STT) | citação da «quinta» |
+
+
+
+
+
 ## Citações-chave
 
 > "Nós estamos lançando daqui a algum tempo algo que se chama escola da decifração da realidade. Essa palestra aqui é a palestra número um da escola."
@@ -65,53 +113,6 @@ A via **institucional/prática** proposta pela narrativa de Ellam: uma escola �
 - **[P2025-06-14 · IEEA COMO VEÍCULO]** «Para a eficiente disseminação da Revelação Cósmica, Jan Val Ellam criou o Instituto de Estudos Estratégicos e Alternativos (IEEA)» — a sigla em 10+ fichas sem verbete ganha código próprio na fila: **RC-930** (sem ficha; G1 homologado).
 - **[P2025-06-14 · ABHAIYAM, RETRADUÇÃO]** o doc-fonte F031 retransliterou «Abhaiyam» a partir da fala que a Base grafou «Abaiuan» (2023-04-01b, nota na ficha RC-092) — a grafia canônica da Base permanece **Abaiuan**.
 
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Quarto Logos (Olm / Codificador de Zian) | RC-092 | ← relaciona-se-a |
-| Revelação Cósmica (conceito) | RC-094 | relaciona-se-a |
-| Zian (Zion) | RC-146 | ocorre-em |
-| Mentalma | RC-166 | relaciona-se-a |
-| Apolônio de Tiana (encarnação do Quarto Logos) | RC-259 | ← relaciona-se-a |
-| Tirthankaras (Rishabh Dev, Jina Mahavira) | RC-397 | ← relaciona-se-a |
-| Thuata de Dannan | RC-398 | ← relaciona-se-a |
-| Colegiado Druídico | RC-403 | ← relaciona-se-a |
-| Ciência Pessoal / Doutrina da Própria Personalidade | RC-695 | relaciona-se-a |
-| Chave da Decifração Universal | RC-754 | ← relaciona-se-a |
-| Chave da Decifração Universal | RC-754 | relaciona-se-a |
-| Jainismo (antigo Druidismo — religião mais antiga) | RC-759 | ← relaciona-se-a |
-| Vrittis e Cittas (atividades e núcleos mentais) | RC-760 | ← relaciona-se-a |
-| Milésios (raça da Irlanda) | RC-842 | associado |
-| Biocosmos emergente (a nova mente biológica global ancorada nos campos mórficos) | RC-879 | variação («a quinta… escola da decifração») |
-| IEEA (Instituto de Estudos Estratégicos e Alternativos) | RC-930 | veículo de disseminação (fila, sem ficha) |
-| Nuctemeron | RC-931 | repertório (fila, sem ficha) |
-
 ## Observações
 
 A "Escola da Decifração da Realidade" e o "método druídico" são **proposta/projeto de Ellam** (lançamento virtual), não instituição formal nem doutrina validada. As associações históricas (druidas, Tales, Pitágoras, Protágoras) são leitura do autor. O verbete registra a via prática proposta pela narrativa da RC, sem endossar a historicidade das reconstruções.
-## Fontes
-
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
-| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
-| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra/STT) | citação verbatim; paráfrase |
-| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
-| P2025-06-14b | abertura ("estamos lançando... escola da decifração da realidade") e blocos finais (método druídico; Pitágoras) | palestra/STT pré-curada |
-| P2024-02-03 | O Jainismo e o Druidismo Ancestrais (palestra) | — |
-| B016 | O Quarto Logos — bloco «QUATRO MÉTODOS» e Nuctemeron | livro publicado (obra primária) |
-| P2021-06-26 | Shiva — A Reconstrução do Erro de Brahma e o Tikum (palestra/STT) | citação da «quinta» |
-
-
-
-
-
-## Estrutura interna
-
-- lançada como "escola da decifração da realidade" (palestra nº 1);
-- resgate do método druídico: druida = buscador da verdade; filosofia grega como recriação (Tales de Mileto, Pitágoras, Protágoras);
-- distinção vs. hermetismo (corpo fechado de doutrina; não é resgate do método druídico);
-- não é crença: é reflexão e escrutínio; "a verdade não é absoluta";
-- ligada à Revelação Cósmica (RC-094), ao Mentalma (RC-166) e à Ciência Pessoal (RC-695);
-- cada um cria a própria vivência íntima; "não há manual".
-

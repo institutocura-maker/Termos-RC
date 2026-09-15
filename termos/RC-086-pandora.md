@@ -16,6 +16,88 @@ atualizado = "2026-09-12"
 
 Na Revelação Cósmica de Jan Val Ellam, Pandora é a figura que "destravou lacres" da condição humana (junto com Eva), associada ao despertar da racionalidade e ao gesto de abrir a caixa que guardava o oculto. Identidade-val: **Pandora = Val Dimon (RC-118) = Kalil Kadmon (RC-299) = serpente do Éden (RC-283)**.
 
+### Estrutura interna
+
+- destravou lacres (ver RC-086/RC-283/RC-189);
+- a "caixa de Pandora" como campo de memória coletiva (RC-287);
+- papel na origem da racionalidade humana (com Eva);
+- obra-base: *O Sorriso de Pandora* (B020).
+
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Deidade (Pai-Mãe Amantíssimo / Brahman) | RC-047 | associado |
+| Deuses (os dois tipos) | RC-053 | associado |
+| Lúcifer (Yel Luzbel) | RC-078 | ← associado-a |
+| Val Dimon | RC-118 | variação |
+| Yel Luzbel | RC-142 | associado |
+| Zeus | RC-145 | associado |
+| Trava-demo | RC-184 | rompe |
+| Eva (figura) | RC-189 | relaciona-se-a |
+| Seres dos Portais | RC-241 | associado |
+| Pandora como Serpente do Éden | RC-283 | é-um |
+| Opção Inusitada de Pandora (humanização) | RC-285 | associado |
+| Eros = Vishnu / Tártaro = Shiva (correspondências) | RC-286 | relaciona-se-a |
+| Enigma da Esperança (Caixa de Pandora) | RC-287 | ← associado-a |
+| Enigma da Esperança (Caixa de Pandora) | RC-287 | relaciona-se-a |
+| Os Anais de uma Cultura Perdida | RC-288 | associado |
+| O Vício de Epimeteu | RC-289 | ← envolve |
+| Cuidado com o 'Ide e Pregai' | RC-290 | associado |
+| Fim do Silêncio de Pandora | RC-291 | associado |
+| Descendência de Pirra (Pirra e Deucalião) | RC-298 | ← origina-de |
+| Kalil Kadmon (nome demo de Pandora) | RC-299 | ← variação |
+| Prometeu (titã) | RC-301 | associado |
+| Epimeteu (titã) | RC-302 | associado |
+| Pirra | RC-303 | associado |
+| Hefesto | RC-307 | ← cria |
+| Tikun Cósmico (restabelecimento da Criação) | RC-514 | associado |
+| Travas e lacres (mecanismos de controle do despertar) | RC-563 | ← relaciona-se-a |
+| DNA Insubmisso / Linhagem Pandora–Eva–Noreia | RC-727 | ← inclui |
+| Quarto Cérebro (centro de sabedoria vibracional) | RC-758 | ← relaciona-se-a |
+| Especiação a partir do DNA Humano | RC-778 | associado |
+| Momento Zero de Pandora | RC-779 | associado |
+| Pandora como Heroína Controversa | RC-780 | associado |
+| Sequência Formativa da Racionalidade Humana | RC-785 | associado |
+| Revolução Inacabada de Prometeu e Pandora | RC-788 | associado |
+| Fogo que se Apaga (Fogo de Prometeu Hoje) | RC-792 | associado |
+| Conceito Abaiano (Fazer Sem Esperar Receber) | RC-793 | associado |
+| Lilith como Rakshasa (Espécie Não-Humana) | RC-794 | associado |
+| Nyx como Mãe de Origem de Pandora | RC-795 | associado |
+| Judaísmo como Destruidor do Mito de Pandora/Lilith | RC-796 | associado |
+| Pandora como Oposição à Estratégia dos Avatares | RC-799 | associado |
+| Desvio de Rota de Pandora (Contra o Plano de Zeus) | RC-806 | associado |
+| Padrão de Consciência Genético por Espécie | RC-807 | associado |
+| Prometeu como Saca-Nica dos Olímpicos | RC-812 | associado |
+| Eva como 3ª Tentativa de Fêmea para Adão (Homem + Mulher da Espécie Sábia) | RC-814 | associado |
+| Temis (Têmis) como Mãe-de-Pandora (Co-clonadora) | RC-815 | associado |
+| Pacto Aesir-Vanir como Origem Nórdica da Ideia de Pandora | RC-816 | associado |
+| Agar como 2ª Tentativa Fracassada de Fêmea para Adão | RC-817 | associado |
+| Patriarcado desde Pandora (Origem no Feminino, Dominação pelo Masculino) | RC-818 | associado |
+| Prole sem Face (Humanos Modificáveis sem Face Definida) | RC-819 | associado |
+
+## Fontes
+
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2021-02-28 | Tragédia Anunciada - As Fórmulas Mentais do Poder Demo (palestra) | — | transcrição automatizada; citação |
+| P2026-03-21 | Samudra Manthan A Enigmatica Alquimia de Vishnu (palestra) | — | transcrição automatizada; citação |
+| P2022-07-16 | Do Ramayana ao Mahabharata (palestra) | — | transcrição automatizada; citação |
+| P2022-09-25 | O Contexto Espiritual da Construção de Brasília (palestra) | — | transcrição automatizada; citação |
+| P2025-06-14 | PALESTRA SOBRE A QUEDA DO CRIADOR-Refatorada (palestra) | — | transcrição automatizada; citação |
+| P2023-08-27 | Len Mion e os Senhores da Terra Alexandre Magno e Qin Shi Huang Di (palestra) | — | transcrição automatizada; citação |
+| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
+| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra/STT) | citação verbatim; paráfrase |
+| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
+| B020 | O Sorriso de Pandora | livro |
+| B031 | Painéis Emergentes | livro |
+| P2025-03-15, P2025-02-16, P2024-11-30, P2024-11-09, P2024-03-03 | palestras | palestra/STT |
+| ART-2026-08-18 | O Quarto Cérebro de Pandora (artigo — Denise F. Silva) | artigo de aluna avançada |
+| P2024-02-03 | O Jainismo e o Druidismo Ancestrais (palestra) | — |
+
+
+
+
 ## Ampliação
 ### P2026-07-25
 
@@ -151,89 +233,8 @@ Na Revelação Cósmica de Jan Val Ellam, Pandora é a figura que "destravou lac
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-086.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o bloco citado desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
 
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Deidade (Pai-Mãe Amantíssimo / Brahman) | RC-047 | associado |
-| Deuses (os dois tipos) | RC-053 | associado |
-| Lúcifer (Yel Luzbel) | RC-078 | ← associado-a |
-| Val Dimon | RC-118 | variação |
-| Yel Luzbel | RC-142 | associado |
-| Zeus | RC-145 | associado |
-| Trava-demo | RC-184 | rompe |
-| Eva (figura) | RC-189 | relaciona-se-a |
-| Seres dos Portais | RC-241 | associado |
-| Pandora como Serpente do Éden | RC-283 | é-um |
-| Opção Inusitada de Pandora (humanização) | RC-285 | associado |
-| Eros = Vishnu / Tártaro = Shiva (correspondências) | RC-286 | relaciona-se-a |
-| Enigma da Esperança (Caixa de Pandora) | RC-287 | ← associado-a |
-| Enigma da Esperança (Caixa de Pandora) | RC-287 | relaciona-se-a |
-| Os Anais de uma Cultura Perdida | RC-288 | associado |
-| O Vício de Epimeteu | RC-289 | ← envolve |
-| Cuidado com o 'Ide e Pregai' | RC-290 | associado |
-| Fim do Silêncio de Pandora | RC-291 | associado |
-| Descendência de Pirra (Pirra e Deucalião) | RC-298 | ← origina-de |
-| Kalil Kadmon (nome demo de Pandora) | RC-299 | ← variação |
-| Prometeu (titã) | RC-301 | associado |
-| Epimeteu (titã) | RC-302 | associado |
-| Pirra | RC-303 | associado |
-| Hefesto | RC-307 | ← cria |
-| Tikun Cósmico (restabelecimento da Criação) | RC-514 | associado |
-| Travas e lacres (mecanismos de controle do despertar) | RC-563 | ← relaciona-se-a |
-| DNA Insubmisso / Linhagem Pandora–Eva–Noreia | RC-727 | ← inclui |
-| Quarto Cérebro (centro de sabedoria vibracional) | RC-758 | ← relaciona-se-a |
-| Especiação a partir do DNA Humano | RC-778 | associado |
-| Momento Zero de Pandora | RC-779 | associado |
-| Pandora como Heroína Controversa | RC-780 | associado |
-| Sequência Formativa da Racionalidade Humana | RC-785 | associado |
-| Revolução Inacabada de Prometeu e Pandora | RC-788 | associado |
-| Fogo que se Apaga (Fogo de Prometeu Hoje) | RC-792 | associado |
-| Conceito Abaiano (Fazer Sem Esperar Receber) | RC-793 | associado |
-| Lilith como Rakshasa (Espécie Não-Humana) | RC-794 | associado |
-| Nyx como Mãe de Origem de Pandora | RC-795 | associado |
-| Judaísmo como Destruidor do Mito de Pandora/Lilith | RC-796 | associado |
-| Pandora como Oposição à Estratégia dos Avatares | RC-799 | associado |
-| Desvio de Rota de Pandora (Contra o Plano de Zeus) | RC-806 | associado |
-| Padrão de Consciência Genético por Espécie | RC-807 | associado |
-| Prometeu como Saca-Nica dos Olímpicos | RC-812 | associado |
-| Eva como 3ª Tentativa de Fêmea para Adão (Homem + Mulher da Espécie Sábia) | RC-814 | associado |
-| Temis (Têmis) como Mãe-de-Pandora (Co-clonadora) | RC-815 | associado |
-| Pacto Aesir-Vanir como Origem Nórdica da Ideia de Pandora | RC-816 | associado |
-| Agar como 2ª Tentativa Fracassada de Fêmea para Adão | RC-817 | associado |
-| Patriarcado desde Pandora (Origem no Feminino, Dominação pelo Masculino) | RC-818 | associado |
-| Prole sem Face (Humanos Modificáveis sem Face Definida) | RC-819 | associado |
-
-## Fontes
-
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2021-02-28 | Tragédia Anunciada - As Fórmulas Mentais do Poder Demo (palestra) | — | transcrição automatizada; citação |
-| P2026-03-21 | Samudra Manthan A Enigmatica Alquimia de Vishnu (palestra) | — | transcrição automatizada; citação |
-| P2022-07-16 | Do Ramayana ao Mahabharata (palestra) | — | transcrição automatizada; citação |
-| P2022-09-25 | O Contexto Espiritual da Construção de Brasília (palestra) | — | transcrição automatizada; citação |
-| P2025-06-14 | PALESTRA SOBRE A QUEDA DO CRIADOR-Refatorada (palestra) | — | transcrição automatizada; citação |
-| P2023-08-27 | Len Mion e os Senhores da Terra Alexandre Magno e Qin Shi Huang Di (palestra) | — | transcrição automatizada; citação |
-| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
-| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra/STT) | citação verbatim; paráfrase |
-| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
-| B020 | O Sorriso de Pandora | livro |
-| B031 | Painéis Emergentes | livro |
-| P2025-03-15, P2025-02-16, P2024-11-30, P2024-11-09, P2024-03-03 | palestras | palestra/STT |
-| ART-2026-08-18 | O Quarto Cérebro de Pandora (artigo — Denise F. Silva) | artigo de aluna avançada |
-| P2024-02-03 | O Jainismo e o Druidismo Ancestrais (palestra) | — |
-
-
-
-
-## Estrutura interna
-
-- destravou lacres (ver RC-086/RC-283/RC-189);
-- a "caixa de Pandora" como campo de memória coletiva (RC-287);
-- papel na origem da racionalidade humana (com Eva);
-- obra-base: *O Sorriso de Pandora* (B020).
-
-
-## Interpretação secundária (ART-2026-08-18)
+## Observações
+### Interpretação secundária (ART-2026-08-18)
 
 Na leitura/interpretação do artigo *O Quarto Cérebro de Pandora* (Denise Ferreira da Silva, aluna avançada de Jan Val Ellam):
 

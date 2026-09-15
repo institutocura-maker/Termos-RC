@@ -15,8 +15,30 @@ atualizado = "2026-08-15"
 ## Definição Sintética
 Identidade atribuída ao espírito de Jan Val Ellam como centurião executor da crucificação de Jesus.
 
+## Etimologia e Grafias
+Forma preferida: **Quirino Cornélio (Centurião da Crucificação)**.
+
+
 ## Contexto / Origem
 P2025-06-26 — 1ª Edição Estagiários do Kaos.
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Javé | RC-001 | — |
+| Jan Val Ellam (Rogério de Almeida Freitas) | RC-071 | encarnação-de |
+| Jesus | RC-072 | envolve |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | vinculado-ao-espírito |
+| Pegadinha de Javé | RC-660 | ← envolve |
+| Cumprimento da Profecia de Moros pela Revelação Cósmica | RC-718 | ← envolve |
+
+## Seres Associados
+Consultar Base.
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2025-06-26 | ver dossiê | live/STT |
 
 ## Citações-chave
 > Ver P2025-06-26.
@@ -32,27 +54,5 @@ P2025-06-26 — 1ª Edição Estagiários do Kaos.
 O centurião da crucificação é apresentado como encarnação ligada ao espírito de Moros. A tentativa de gerar ressentimento entre ele e Jesus teria sido neutralizada pela aparição pacificadora de Jesus após a ressurreição.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o bloco citado desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
 
-## Etimologia e Grafias
-Forma preferida: **Quirino Cornélio (Centurião da Crucificação)**.
-
-
-## Seres Associados
-Consultar Base.
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | — |
-| Jan Val Ellam (Rogério de Almeida Freitas) | RC-071 | encarnação-de |
-| Jesus | RC-072 | envolve |
-| Elm (Moros — ser LM de Tempérion) | RC-454 | vinculado-ao-espírito |
-| Pegadinha de Javé | RC-660 | ← envolve |
-| Cumprimento da Profecia de Moros pela Revelação Cósmica | RC-718 | ← envolve |
-
 ## Observações
 Correspondências culturais são atribuídas à leitura de Val Ellam, não a consenso acadêmico.
-
-## Fontes
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2025-06-26 | ver dossiê | live/STT |

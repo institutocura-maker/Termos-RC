@@ -16,6 +16,38 @@ atualizado = "2026-09-12"
 
 Na RC, o **"Norte Sagrado"** — a região mítica do extremo norte (também **Norte Divino**, RC-083) para onde convergia a geografia sagrada da antiguidade: "toda a história da Terra é voltada pro chamado norte sagrado, não era pro sul".
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Experiência Gron | RC-062 | associado |
+| Jan Val Ellam (Rogério de Almeida Freitas) | RC-071 | associado |
+| Norte Divino | RC-083 | ← sinônimo |
+| Val El / Val Ellam | RC-120 | associado |
+| Castas Trimurtianas | RC-321 | ← origina-em |
+| Entroncamentos Genéticos Intersiderais | RC-323 | associado |
+| Thuata de Dannan | RC-398 | associado |
+| Os Magos do Norte | RC-439 | ← associado-a |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | relaciona-se-a |
+| Revelação de Ifá e Destinação dos Seres | RC-655 | relaciona-se-a |
+| Pacto Aesir-Vanir como Origem Nórdica da Ideia de Pandora | RC-816 | associado |
+| Cidades Sagradas do Hiperbóreo | RC-932 | arquivado na fila (F031 aplicação; sem ficha) |
+
+## Fontes
+
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2022-09-25 | O Contexto Espiritual da Construção de Brasília (palestra) | — | transcrição automatizada; citação |
+| P2022-10-01 | A Wyrd e a Espiritualidade (palestra) | — | transcrição automatizada; citação |
+| P2018-12-16 | Terra Atlantis - Era Sapiens (palestra) | — | transcrição automatizada; citação |
+| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
+| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
+| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
+| P2025-11-29 | bloco 5 (6 etapas); pergunta portais (norte sagrado) | palestra/STT pré-curada |
+| P2022-09-18 | bloco das relíquias hiperbóreas (U0002) | U0002 | transcrição automatizada; citação (vínculo aberto no cotejo F030, 05/09/2026) |
+
+
+
+
 ## Citações-chave
 
 > "Toda a história da Terra é voltada pro chamado norte sagrado, não era pro sul... era o norte sagrado por causa da Hiperbórea... o point, o lugar chique era essa Hiperbórea." — P2025-11-29
@@ -72,39 +104,7 @@ Na RC, o **"Norte Sagrado"** — a região mítica do extremo norte (também **N
 - Cronologia e geografia são **leitura do autor** (cronologia interna).
 
 
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Experiência Gron | RC-062 | associado |
-| Jan Val Ellam (Rogério de Almeida Freitas) | RC-071 | associado |
-| Norte Divino | RC-083 | ← sinônimo |
-| Val El / Val Ellam | RC-120 | associado |
-| Castas Trimurtianas | RC-321 | ← origina-em |
-| Entroncamentos Genéticos Intersiderais | RC-323 | associado |
-| Thuata de Dannan | RC-398 | associado |
-| Os Magos do Norte | RC-439 | ← associado-a |
-| Elm (Moros — ser LM de Tempérion) | RC-454 | relaciona-se-a |
-| Revelação de Ifá e Destinação dos Seres | RC-655 | relaciona-se-a |
-| Pacto Aesir-Vanir como Origem Nórdica da Ideia de Pandora | RC-816 | associado |
-| Cidades Sagradas do Hiperbóreo | RC-932 | arquivado na fila (F031 aplicação; sem ficha) |
-
 ## Observações
 
 Hiperbórea como "norte sagrado" é **leitura do autor** (cronologia interna + mitologia comparada) — sem validação histórica/arqueológica.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
-
-## Fontes
-
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2022-09-25 | O Contexto Espiritual da Construção de Brasília (palestra) | — | transcrição automatizada; citação |
-| P2022-10-01 | A Wyrd e a Espiritualidade (palestra) | — | transcrição automatizada; citação |
-| P2018-12-16 | Terra Atlantis - Era Sapiens (palestra) | — | transcrição automatizada; citação |
-| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
-| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
-| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
-| P2025-11-29 | bloco 5 (6 etapas); pergunta portais (norte sagrado) | palestra/STT pré-curada |
-| P2022-09-18 | bloco das relíquias hiperbóreas (U0002) | U0002 | transcrição automatizada; citação (vínculo aberto no cotejo F030, 05/09/2026) |
-
-
-

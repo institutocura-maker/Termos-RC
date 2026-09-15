@@ -28,11 +28,6 @@ Com isso:
 
 **Origem do conteúdo da ampliação:** palestra `P2018-12-15 — Terra Atlantis – Aprofundamento` (15/12/2018). Transcrição automatizada, **não conferida com o áudio**; cada aspa foi recortada do `original.txt` pelo índice de âncoras do motor e conferida byte a byte pelo portão B. Nada foi digitado de memória.
 
-## Ampliação
-### P2018-12-15 (Terra Atlantis – Aprofundamento)
-
-- **[Shamb-Aha = forno Awaymaion] (U0146)** «Mas Shambaá é uma vibra, é uma realidade alternativa.» — refina RC-101: Shamb-Aha é o forno replicador Awaymaion (RC-499/RC-771) disfarçado de realidade, no mesmo molde em que Alt'Lam (RC-018) é a esfera disfarçada — especificação (não contradição) do que 'Shamba' é na P2017-10-14.
-
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
@@ -56,7 +51,13 @@ Com isso:
 | B018 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
 | B039 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
 
-## Observações sobre o Estado da Malha
+## Ampliação
+### P2018-12-15 (Terra Atlantis – Aprofundamento)
+
+- **[Shamb-Aha = forno Awaymaion] (U0146)** «Mas Shambaá é uma vibra, é uma realidade alternativa.» — refina RC-101: Shamb-Aha é o forno replicador Awaymaion (RC-499/RC-771) disfarçado de realidade, no mesmo molde em que Alt'Lam (RC-018) é a esfera disfarçada — especificação (não contradição) do que 'Shamba' é na P2017-10-14.
+
+## Observações
+### Observações sobre o Estado da Malha
 
 * **Grafia STT:** 'Shambaá' / 'Chambarrá' = Shamb-Aha.
 * **Decisão do Curador (devolutiva P2018-12-15):** Shamb-Aha = forno Awaymaion (RC-499) disfarçado de realidade — equivalência registrada como aresta 'manifesta-se-em' RC-499.

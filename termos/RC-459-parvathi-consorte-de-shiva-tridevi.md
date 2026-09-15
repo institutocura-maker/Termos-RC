@@ -28,18 +28,6 @@ Com isso:
 
 **Origem do conteúdo da ampliação:** palestra `P2022-05-07 — Shiva, o Projeto Talm e os Mistérios de Awaylengam` (07/05/2022). Transcrição automatizada, **não conferida com o áudio**; cada aspa foi recortada do `original.txt` pelo índice de âncoras do motor e conferida byte a byte pelo portão B. Nada foi digitado de memória.
 
-## Citações-chave
-
-> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
-
-- «Sat ficou tão triste com o pai que resolveu entrar numa fogueira e o corpo dela híbrido, humanizado, se desfez, seu espírito saiu e mais tarde eh assumiria a função de Paraki, ou seja, outra esposa de Chico.» — *ver:* **Ampliação — P2022-05-07 (Shiva, o Projeto Talm e os Misté…** U0003
-
-
-## Ampliação
-### P2022-05-07 (Shiva, o Projeto Talm e os Mistérios de Awaylengam)
-
-- **[Parvathi — Sati na fogueira, depois Parvati] (U0003)** «Sat ficou tão triste com o pai que resolveu entrar numa fogueira e o corpo dela híbrido, humanizado, se desfez, seu espírito saiu e mais tarde eh assumiria a função de Paraki, ou seja, outra esposa de Chico.» — Sati (STT "SAT"), a primeira esposa de Shiva, imola-se e retorna como Parvati (STT "Paraki").
-
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
@@ -56,7 +44,20 @@ Com isso:
 | P2022-05-07 | Shiva, o Projeto Talm e os Mistérios de Awaylengam (palestra) | — | transcrição automatizada; citação |
 | B060 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
 
-## Observações sobre o Estado da Malha
+## Citações-chave
+
+> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+
+- «Sat ficou tão triste com o pai que resolveu entrar numa fogueira e o corpo dela híbrido, humanizado, se desfez, seu espírito saiu e mais tarde eh assumiria a função de Paraki, ou seja, outra esposa de Chico.» — *ver:* **Ampliação — P2022-05-07 (Shiva, o Projeto Talm e os Misté…** U0003
+
+
+## Ampliação
+### P2022-05-07 (Shiva, o Projeto Talm e os Mistérios de Awaylengam)
+
+- **[Parvathi — Sati na fogueira, depois Parvati] (U0003)** «Sat ficou tão triste com o pai que resolveu entrar numa fogueira e o corpo dela híbrido, humanizado, se desfez, seu espírito saiu e mais tarde eh assumiria a função de Paraki, ou seja, outra esposa de Chico.» — Sati (STT "SAT"), a primeira esposa de Shiva, imola-se e retorna como Parvati (STT "Paraki").
+
+## Observações
+### Observações sobre o Estado da Malha
 
 * **Sati → Parvati:** a fonte narra a imolação de Sati e o retorno como Parvati (STT 'Paraki'). A grafia canônica Parvathi (RC-459) cobre a figura; Sati é candidata a termo novo (radar).
 * **Trava aplicável**: nenhuma além das gerais do despacho.

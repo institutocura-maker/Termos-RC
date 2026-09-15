@@ -16,6 +16,30 @@ atualizado = "2026-08-29"
 
 Na RC, a **mistura genética entre anunnaki (RC-024) e humanos** — reinterpretação dos Nefilins (RC-488) como produto de hibridização, não como "anjos caídos" da teologia clássica.
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Anunnaki | RC-024 | relaciona-se-a |
+| Entroncamentos Genéticos Intersiderais | RC-323 | relaciona-se-a |
+| Nefilins (= Anunnaki) | RC-488 | relaciona-se-a |
+| Igigi | RC-580 | ← envolve |
+
+## Fontes
+
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
+| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
+| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra/STT) | citação verbatim; paráfrase |
+| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
+| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
+| P2021-03-27 | bloco 3 (dinastias — desobediência); bloco 5 (dilúvio) | palestra/STT pré-curada |
+
+
+
+
+
+
 ## Citações-chave
 
 > "Os primeiros anunnaki que desobedeceram Anu e transaram com mulheres humanas... isso aconteceu num tempo pré-diluviano. Essa turma terminou gerando uma série de linhagens de aparentemente seres humanos, mas também tinham gigantes, figuras deformadas." — P2021-03-27
@@ -58,14 +82,6 @@ Na RC, a **mistura genética entre anunnaki (RC-024) e humanos** — reinterpret
 - **Sangue anunnaki nas vilas:** "a quantidade de lugarejos... que tinha o sangue anunnaki da primeira investida deles antes do dilúvio, mas também no período pós-diluviano".
 
 
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Anunnaki | RC-024 | relaciona-se-a |
-| Entroncamentos Genéticos Intersiderais | RC-323 | relaciona-se-a |
-| Nefilins (= Anunnaki) | RC-488 | relaciona-se-a |
-| Igigi | RC-580 | ← envolve |
-
 ## Observações
 
 Reinterpretação dos Nefilins como hibridização é **leitura do autor** — não é genética validada nem exegese bíblica acadêmica.
@@ -73,19 +89,3 @@ Reinterpretação dos Nefilins como hibridização é **leitura do autor** — n
 
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-516.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
-
-## Fontes
-
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
-| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
-| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra/STT) | citação verbatim; paráfrase |
-| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
-| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
-| P2021-03-27 | bloco 3 (dinastias — desobediência); bloco 5 (dilúvio) | palestra/STT pré-curada |
-
-
-
-
-

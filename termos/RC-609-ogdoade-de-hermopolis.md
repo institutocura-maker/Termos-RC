@@ -15,8 +15,32 @@ atualizado = "2026-08-18"
 ## Definição Sintética
 Conjunto de oito figuras da tradição egípcia de Hermópolis correlacionado na palestra a seis seres Adhy da Trimurti/Tridevi e dois seres LM.
 
+## Etimologia e Grafias
+- Grafia preferida: Ogdóade de Hermópolis. STT: Ogat.
+- **Fonte de decisão:** Quadro 9 aprovado pelo curador.
+
+
 ## Contexto / Origem
 Elm e Olm seriam os dois LM presentes na correlação; os demais correspondem à Trimurti e à Tridevi.
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Quarto Logos (Olm / Codificador de Zian) | RC-092 | inclui |
+| Trimurti | RC-104 | inclui |
+| Krishna (avatar de Vishnu/Shiva) | RC-414 | relaciona-se-a |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | inclui |
+| Tridevi | RC-610 | inclui |
+| Universo TÊNET | RC-626 | ← relaciona-se-a |
+| Enéade de Heliópolis | RC-627 | ← compara-se-a |
+
+## Seres Associados
+Consultar as relações tipadas acima.
+
+## Fontes
+| Obra/palestra | Localização | Tipo |
+|---|---|---|
+| P2021-12-04 — Os Archeons de Ereon e os Seres Adhy | U0382–U0384 | STT pré-curado e validado |
 
 ## Citações-chave
 > “Na mitologia egípcia de Hermópolis [...] o nome das oito figuras [...] junto com os seis que vieram a compor a Trimurti e a Tridevi.” — P2021-12-04, U0382–U0384
@@ -59,33 +83,9 @@ Elm e Olm seriam os dois LM presentes na correlação; os demais correspondem à
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-609.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
 
-## Etimologia e Grafias
-- Grafia preferida: Ogdóade de Hermópolis. STT: Ogat.
-- **Fonte de decisão:** Quadro 9 aprovado pelo curador.
-
-
-## Seres Associados
-Consultar as relações tipadas acima.
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Quarto Logos (Olm / Codificador de Zian) | RC-092 | inclui |
-| Trimurti | RC-104 | inclui |
-| Krishna (avatar de Vishnu/Shiva) | RC-414 | relaciona-se-a |
-| Elm (Moros — ser LM de Tempérion) | RC-454 | inclui |
-| Tridevi | RC-610 | inclui |
-| Universo TÊNET | RC-626 | ← relaciona-se-a |
-| Enéade de Heliópolis | RC-627 | ← compara-se-a |
-
 ## Observações
 Correspondência específica das RC, não apresentação geral da egiptologia.
 
 **Regra de status:** permanece candidato por depender de transcrição automatizada sem áudio anexado.
 
 ---
-
-## Fontes
-| Obra/palestra | Localização | Tipo |
-|---|---|---|
-| P2021-12-04 — Os Archeons de Ereon e os Seres Adhy | U0382–U0384 | STT pré-curado e validado |

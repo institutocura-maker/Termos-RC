@@ -15,8 +15,36 @@ atualizado = "2026-08-28"
 ## Definição Sintética
 Avatar de Vishnu cuja condição é relacionada ao agravamento do descompasso e à tentativa de Shiva de fazê-lo recordar sua identidade.
 
+## Etimologia e Grafias
+- Grafia: Narasimha. STT: Nara Sima, Nacima, Naraimra.
+
+
 ## Contexto / Origem
 A palestra descreve confronto de Shiva com Narasimha sem intenção de destruí-lo, pois isso afetaria Vishnu.
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Shiva (Savna) | RC-102 | confronta |
+| Vishnu (Mavatna) | RC-135 | é-um |
+| Krishna (avatar de Vishnu/Shiva) | RC-414 | relaciona-se-a |
+
+## Seres Associados
+Consultar relações acima.
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2022-05-07 | Shiva, o Projeto Talm e os Mistérios de Awaylengam (palestra) | — | transcrição automatizada; citação |
+| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
+| P2024-05-04 — Prabrajna em Perpérion / Simultaneidade Reversa | U1144–U1164 | PDF/transcrição pré-curada |
+
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
 
 ## Citações-chave
 > “Shiva [...] foi desafiar Narasimha para ver se durante a luta se lembrava que era Vishnu.” — P2024-05-04
@@ -42,35 +70,7 @@ A palestra descreve confronto de Shiva com Narasimha sem intenção de destruí-
 - **[Narasimha e o início dos problemas de Jesus]:** «Jesus nem existia, mas começou a se ferrar na época em que Vishnu foi Narasimha. Ou seja, o espírito que viria a ser de Jesus, quando esse espírito foi Narasimha, ferrou com tudo para frente [...] O tempo que o espírito que viria ser Jesus ficou sendo Narasimha, ferrou nesse espírito, mais ainda a condição búdica e manásica dele.» — ver RC-072 (Jesus).
 
 
-## Etimologia e Grafias
-- Grafia: Narasimha. STT: Nara Sima, Nacima, Naraimra.
-
-
-## Seres Associados
-Consultar relações acima.
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Shiva (Savna) | RC-102 | confronta |
-| Vishnu (Mavatna) | RC-135 | é-um |
-| Krishna (avatar de Vishnu/Shiva) | RC-414 | relaciona-se-a |
-
 ## Observações
 Candidato mitológico; cruzar com obras sobre Vishnu/Shiva.
 
 Status candidato por depender de palestra e alegações ainda não cruzadas integralmente com obras primárias.
-
-## Fontes
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2022-05-07 | Shiva, o Projeto Talm e os Mistérios de Awaylengam (palestra) | — | transcrição automatizada; citação |
-| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
-| P2024-05-04 — Prabrajna em Perpérion / Simultaneidade Reversa | U1144–U1164 | PDF/transcrição pré-curada |
-
-
-## Fontes
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

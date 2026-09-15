@@ -15,8 +15,45 @@ atualizado = "2026-08-28"
 ## Definição Sintética
 Sábio associado à transmissão do Mahabharata e às tradições védicas; na palestra, seu espírito é identificado como anteriormente encarnado em Heber.
 
+## Etimologia e Grafias
+- Grafia preferida: Vyasa. STT: Viaza.
+- **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
+
+
 ## Contexto / Origem
 Aparece na quarta era equinocial junto aos Rishis, Kshatriyas e Brahmanes.
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Jesus | RC-072 | relaciona-se-a |
+| Jesus | RC-072 | ← relaciona-se-a |
+| Krishna (avatar de Vishnu/Shiva) | RC-414 | relaciona-se-a |
+| Krishna (avatar de Vishnu/Shiva) | RC-414 | relaciona-se-a |
+| Heber (patriarca pós-dilúvio) | RC-436 | encarnação-posterior-de |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | vinculado-ao-espírito |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | relaciona-se-a |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | ← relaciona-se-a |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | relaciona-se-a |
+| Senhor Parameshthi / Brahma Parameshthi (face atual de Javé) | RC-556 | ← relaciona-se-a |
+| Senhor Parameshthi / Brahma Parameshthi (face atual de Javé) | RC-556 | relaciona-se-a |
+| Rishis | RC-586 | ← relaciona-se-a |
+| Mahabharata | RC-593 | relaciona-se-a |
+| Mahabharata | RC-593 | ← associado-a |
+| Cumprimento da Profecia de Moros pela Revelação Cósmica | RC-718 | ← envolve |
+
+## Seres Associados
+Heber (patriarca pós-dilúvio) (RC-436); Rishis (RC-586)
+
+## Fontes
+| Obra/palestra | Localização | Tipo |
+|---|---|---|
+| P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
+| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
+| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
+| P2022-12-17 — O Incompreendido Ano de 2012 e a Falsa Noção do Fim do Mundo | U0768–U0775; U0793 | transcrição automatizada; paráfrase e citação |
+
+
 
 ## Citações-chave
 > ““Antes mesmo de Vyasa surgir [...] o espírito que foi Vyasa [...] estava encarnado antes como Heber.”” — P2022-12-17, U0768–U0775; U0793
@@ -87,44 +124,7 @@ Aparece na quarta era equinocial junto aos Rishis, Kshatriyas e Brahmanes.
 Vyasa é apresentado como expressão humana/Rishi ligada ao espírito primário de Moros, capaz de traduzir conhecimento para diferentes lokas e produzir versões do Mahabharata, Puranas e Vedas. A relação é `vinculado-ao-espírito`, não identidade simples de nomes.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
 
-## Etimologia e Grafias
-- Grafia preferida: Vyasa. STT: Viaza.
-- **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
-
-
-## Seres Associados
-Heber (patriarca pós-dilúvio) (RC-436); Rishis (RC-586)
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Jesus | RC-072 | relaciona-se-a |
-| Jesus | RC-072 | ← relaciona-se-a |
-| Krishna (avatar de Vishnu/Shiva) | RC-414 | relaciona-se-a |
-| Krishna (avatar de Vishnu/Shiva) | RC-414 | relaciona-se-a |
-| Heber (patriarca pós-dilúvio) | RC-436 | encarnação-posterior-de |
-| Elm (Moros — ser LM de Tempérion) | RC-454 | vinculado-ao-espírito |
-| Elm (Moros — ser LM de Tempérion) | RC-454 | relaciona-se-a |
-| Elm (Moros — ser LM de Tempérion) | RC-454 | ← relaciona-se-a |
-| Elm (Moros — ser LM de Tempérion) | RC-454 | relaciona-se-a |
-| Senhor Parameshthi / Brahma Parameshthi (face atual de Javé) | RC-556 | ← relaciona-se-a |
-| Senhor Parameshthi / Brahma Parameshthi (face atual de Javé) | RC-556 | relaciona-se-a |
-| Rishis | RC-586 | ← relaciona-se-a |
-| Mahabharata | RC-593 | relaciona-se-a |
-| Mahabharata | RC-593 | ← associado-a |
-| Cumprimento da Profecia de Moros pela Revelação Cósmica | RC-718 | ← envolve |
-
 ## Observações
 A relação Heber–Vyasa foi validada contextualmente pelo curador, mas continua candidata por depender da transcrição.
 
 **Regra de status:** permanece ⚪ candidato porque a fonte é STT sem áudio anexado. A aprovação do curador valida a modelagem terminológica, não substitui a futura conferência com áudio ou obra primária.
-
-## Fontes
-| Obra/palestra | Localização | Tipo |
-|---|---|---|
-| P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
-| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
-| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
-| P2022-12-17 — O Incompreendido Ano de 2012 e a Falsa Noção do Fim do Mundo | U0768–U0775; U0793 | transcrição automatizada; paráfrase e citação |
-
-

@@ -15,8 +15,36 @@ atualizado = "2026-08-14"
 ## Definição Sintética
 Tríade feminina formada por Sarasvati, Lakshimi e Parvathi, correlacionada à Trimurti e à Ogdóade.
 
+## Etimologia e Grafias
+- Grafia preferida: Tridevi. STT: trideve.
+- **Fonte de decisão:** Quadro 9 aprovado pelo curador.
+
+
 ## Contexto / Origem
 A Base já individualizava as três integrantes; este código consolida o coletivo.
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Trimurti | RC-104 | relaciona-se-a |
+| Trimurti | RC-104 | relaciona-se-a |
+| Sarasvati (consorte de Brahma, Tridevi) | RC-457 | inclui |
+| Sarasvati (consorte de Brahma, Tridevi) | RC-457 | inclui |
+| Lakshimi (consorte de Vishnu, Tridevi) | RC-458 | inclui |
+| Lakshimi (consorte de Vishnu, Tridevi) | RC-458 | inclui |
+| Parvathi (consorte de Shiva, Tridevi) | RC-459 | inclui |
+| Parvathi (consorte de Shiva, Tridevi) | RC-459 | inclui |
+| Deva / Aurora (A Grande Deusa) | RC-475 | ← gera |
+| Ogdóade de Hermópolis | RC-609 | ← inclui |
+| Nyx | RC-621 | associado |
+
+## Seres Associados
+Consultar as relações tipadas acima.
+
+## Fontes
+| Obra/palestra | Localização | Tipo |
+|---|---|---|
+| P2021-12-04 — Os Archeons de Ereon e os Seres Adhy | U0382–U0384; reforço em B060 | STT pré-curado e validado |
 
 ## Citações-chave
 > “Seis [seres] que vieram a compor a Trimurti e a Tridevi.” — P2021-12-04, U0382–U0384; reforço em B060
@@ -39,37 +67,9 @@ A Base já individualizava as três integrantes; este código consolida o coleti
 - **Status:** live em STT sem áudio anexado; manter divergências abertas.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
 
-## Etimologia e Grafias
-- Grafia preferida: Tridevi. STT: trideve.
-- **Fonte de decisão:** Quadro 9 aprovado pelo curador.
-
-
-## Seres Associados
-Consultar as relações tipadas acima.
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Trimurti | RC-104 | relaciona-se-a |
-| Trimurti | RC-104 | relaciona-se-a |
-| Sarasvati (consorte de Brahma, Tridevi) | RC-457 | inclui |
-| Sarasvati (consorte de Brahma, Tridevi) | RC-457 | inclui |
-| Lakshimi (consorte de Vishnu, Tridevi) | RC-458 | inclui |
-| Lakshimi (consorte de Vishnu, Tridevi) | RC-458 | inclui |
-| Parvathi (consorte de Shiva, Tridevi) | RC-459 | inclui |
-| Parvathi (consorte de Shiva, Tridevi) | RC-459 | inclui |
-| Deva / Aurora (A Grande Deusa) | RC-475 | ← gera |
-| Ogdóade de Hermópolis | RC-609 | ← inclui |
-| Nyx | RC-621 | associado |
-
 ## Observações
 Coletivo aprovado pelo curador.
 
 **Regra de status:** permanece candidato por depender de transcrição automatizada sem áudio anexado.
 
 ---
-
-## Fontes
-| Obra/palestra | Localização | Tipo |
-|---|---|---|
-| P2021-12-04 — Os Archeons de Ereon e os Seres Adhy | U0382–U0384; reforço em B060 | STT pré-curado e validado |

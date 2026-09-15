@@ -16,6 +16,44 @@ atualizado = "2026-09-12"
 
 Na RC, os "deuses" da antiga Suméria: seres biológicos de **Nibiru** (RC-589) presentes na Terra há ~450.000 anos, organizados sob um imperador (**Anu**, RC-587) e comandantes (**Enki** RC-486, **Enlil** RC-487, **Ninmah** RC-461), incluindo a tipologia dos **Igigi** (RC-580). "Donos da terra" segundo a própria lógica anunnaki, perderam espaço mas mantêm "título" de propriedade.
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Anjos caídos | RC-020 | associado |
+| Deuses (os dois tipos) | RC-053 | associado |
+| Mensagem Talm | RC-080 | associado |
+| Nephilins | RC-082 | associado |
+| Seres Extrafísicos | RC-097 | associado |
+| Seres Extraterrenos / Extraterrestres | RC-098 | associado |
+| Val Geon | RC-126 | associado |
+| Val Pen | RC-129 | associado |
+| Viajores | RC-134 | associado |
+| Ostronomos | RC-232 | ← associado-a |
+| Mundo das Águas | RC-250 | associado |
+| Entroncamentos Genéticos Intersiderais | RC-323 | ← envolve |
+| Grupos de Entroncamento (1-4) | RC-324 | associado |
+| Marduk (= Ra; Anunnaki filho de Enki) | RC-460 | ← é-um |
+| Ninmah (Anunnaki geneticista) | RC-461 | ← é-um |
+| Oannes (filho de Ostronomos) | RC-462 | associado |
+| Hermes Trismegisto (= Ningishzidda/Thoth/Quetzalcóatl) | RC-463 | ← relaciona-se-a |
+| Inanna (= Danu; Anunnaki) | RC-464 | associado |
+| Enki (Anunnaki; inoculou o gene FOXP2) | RC-486 | ← é-um |
+| Enlil (deus sumério, par de Enki) | RC-487 | ← é-um |
+| Nefilins (= Anunnaki) | RC-488 | ← variação |
+| Nefilins (= Anunnaki) | RC-488 | ← sinônimo |
+| Hibridização genética (Nefilim reinterpretado) | RC-516 | associado |
+| Laboratório Genético Terra (linhagens monitoradas) | RC-531 | associado |
+| Usinas geodésicas de Gizé (engenharia de Thoth) | RC-534 | associado |
+| Igigi | RC-580 | ← é-um |
+| Igigi | RC-580 | ← relaciona-se-a |
+| Igigi | RC-580 | relaciona-se-a |
+| Guerra Nuclear Anunnaki (Sete Armas Atômicas) | RC-583 | associado |
+| Anu (patriarca Anunnaki) | RC-587 | ← é-um |
+| Ninurta | RC-588 | ← é-um |
+| Nibiru | RC-589 | ← associado-a |
+| Intercessão de Enoque pelos Anunnaki | RC-673 | ← envolve |
+| Ao Vencedor as Batatas (paradigma do domínio) | RC-764 | ← relaciona-se-a |
+
 ## Citações-chave
 > "Poucos dos grupos extraterrenos que compuseram, direta ou indiretamente, o processo de colonização do passado planetário, não jogaram essas artimanhas sujas sobre os humanos, pois que jamais pretenderam coisa alguma no campo da dominação, como era o caso dos seres biodemos do Norte, ex-rebeldes – que haviam se envolvido com a “Rebelião de Lúcifer” –, e dos seres sirianos do Oriente, que são anfíbios. As demais forças presentes no planeta, porém, de tudo fizeram para condicionar os humanos, sendo os anunnaki e os seres dos portais os mais lamentáveis exemplos disso, ainda que, sob a ótica dos acontecimentos cósmicos daqueles dias, seja “compreensível” o que, então, teve lugar. As culturas, tanto dos anunnaki como dos seres dos portais, foram impostas sem maiores critérios aos humanos e, dentre esses, os primeiros que procuraram organizar a herança de tantas notícias, o fizeram de modo a considerar os tais seres como “deuses”, e os humanos como “propriedades” dos feudos e clãs de então. Quando as castas na Índia se inseriram nesse contexto , a fidelidade existente no conceito do dharma foi, aos poucos, sendo utilizado como postura moral elogiável e necessária para os humanos se dedicarem às “causas dos deuses” ." — B023
 > "Sei que demorei mais do que pude preveni-las, porém só retornei quando tive a certeza de que não seria seguido. — Conte-nos, ó Epimeteu, afinal, o que está a acontecer? — perguntei, ansiosa. — Não aguentamos mais de tanta curiosidade! O Olimpo atacou ou não a nave dos Anunnaki? — Sim, ó Pandora, e o ataque foi chefiado por Ares e Atenas — informou o titã. — Enlil teve de sair rapidamente, pois não pôde enfrentar a fúria de Ares por muito tempo. O príncipe Anunnaki conseguiu decolar dos ambientes terrenos com a sua nave, mas tenho a certeza de que ele muito pensará antes de aqui retornar, posto que teve de escapar daqui, em fuga! Quanto aos Anunnaki que ficaram frente a frente com Ares, nenhum deles sobreviveu. Devo admitir que é uma cena apavorante ver o “Deus da Guerra” em ação, diante da fúria sanguinária que ele demonstra ao atacar. Ele não hesita, nem por um instante, em destruir seja o que for! — Enlil não teve muita escolha — relatou Epimeteu. — Revidou como pôde com as suas armas, porém nada conseguiu fazer para defender os que estavam fora da nave ou dentro do buraco escavado. Todos foram abatidos por Ares. Na verdade, acredito que Enlil e o comandante salvaram -se, pois assim que começou o ataque, o príncipe encontrava-se dentro da nave que rapidamente levantou voo." — B089
@@ -146,41 +184,3 @@ Na RC, os "deuses" da antiga Suméria: seres biológicos de **Nibiru** (RC-589) 
 ---
 ---
 ---
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Anjos caídos | RC-020 | associado |
-| Deuses (os dois tipos) | RC-053 | associado |
-| Mensagem Talm | RC-080 | associado |
-| Nephilins | RC-082 | associado |
-| Seres Extrafísicos | RC-097 | associado |
-| Seres Extraterrenos / Extraterrestres | RC-098 | associado |
-| Val Geon | RC-126 | associado |
-| Val Pen | RC-129 | associado |
-| Viajores | RC-134 | associado |
-| Ostronomos | RC-232 | ← associado-a |
-| Mundo das Águas | RC-250 | associado |
-| Entroncamentos Genéticos Intersiderais | RC-323 | ← envolve |
-| Grupos de Entroncamento (1-4) | RC-324 | associado |
-| Marduk (= Ra; Anunnaki filho de Enki) | RC-460 | ← é-um |
-| Ninmah (Anunnaki geneticista) | RC-461 | ← é-um |
-| Oannes (filho de Ostronomos) | RC-462 | associado |
-| Hermes Trismegisto (= Ningishzidda/Thoth/Quetzalcóatl) | RC-463 | ← relaciona-se-a |
-| Inanna (= Danu; Anunnaki) | RC-464 | associado |
-| Enki (Anunnaki; inoculou o gene FOXP2) | RC-486 | ← é-um |
-| Enlil (deus sumério, par de Enki) | RC-487 | ← é-um |
-| Nefilins (= Anunnaki) | RC-488 | ← variação |
-| Nefilins (= Anunnaki) | RC-488 | ← sinônimo |
-| Hibridização genética (Nefilim reinterpretado) | RC-516 | associado |
-| Laboratório Genético Terra (linhagens monitoradas) | RC-531 | associado |
-| Usinas geodésicas de Gizé (engenharia de Thoth) | RC-534 | associado |
-| Igigi | RC-580 | ← é-um |
-| Igigi | RC-580 | ← relaciona-se-a |
-| Igigi | RC-580 | relaciona-se-a |
-| Guerra Nuclear Anunnaki (Sete Armas Atômicas) | RC-583 | associado |
-| Anu (patriarca Anunnaki) | RC-587 | ← é-um |
-| Ninurta | RC-588 | ← é-um |
-| Nibiru | RC-589 | ← associado-a |
-| Intercessão de Enoque pelos Anunnaki | RC-673 | ← envolve |
-| Ao Vencedor as Batatas (paradigma do domínio) | RC-764 | ← relaciona-se-a |

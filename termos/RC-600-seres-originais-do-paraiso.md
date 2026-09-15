@@ -15,8 +15,36 @@ atualizado = "2026-08-28"
 ## Definição Sintética
 Família/espécie primordial do Paraíso Original, anterior à diferenciação em gêneros e espécies dos níveis Operacional e Laboratorial.
 
+## Etimologia e Grafias
+- Grafia preferida: Seres Originais do Paraíso. Variação: família original.
+- **Fonte de decisão:** Quadro 9 aprovado pelo curador.
+
+
 ## Contexto / Origem
 Seus movimentos de consciência teriam gerado porções da incompletude e, posteriormente, níveis laboratoriais.
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Deidade (Pai-Mãe Amantíssimo / Brahman) | RC-047 | relaciona-se-a |
+| Espiritualidade Operacional | RC-060 | cria |
+| Realidade Maior / Paraíso Original | RC-204 | ocorre-em |
+| Realidade Maior / Paraíso Original | RC-204 | ← variação |
+| Círculo / Circuito da Perfeição | RC-603 | participa-de |
+| Círculo / Circuito da Perfeição | RC-603 | ← envolve |
+| Autismo Funcional dos Seres da Espiritualidade Superior | RC-605 | ← aplica-se-a |
+| Protocolos / Algoritmos da Perfeição | RC-606 | ← rege |
+| Trincheira Vibratória no Campo Informativo | RC-613 | ← comunica-com |
+
+## Seres Associados
+Consultar as relações tipadas acima.
+
+## Fontes
+| Obra/palestra | Localização | Tipo |
+|---|---|---|
+| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
+| P2021-12-04 — Os Archeons de Ereon e os Seres Adhy | U0022–U0026; U0055–U0063; U0072–U0086 | STT pré-curado e validado |
+
 
 ## Citações-chave
 > “No Paraíso não existiam duas classes de seres. Sempre foi somente uma.” — P2021-12-04, U0022–U0026; U0055–U0063; U0072–U0086
@@ -46,37 +74,9 @@ Seus movimentos de consciência teriam gerado porções da incompletude e, poste
 - **Status:** live em STT sem áudio anexado; manter divergências abertas.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
 
-## Etimologia e Grafias
-- Grafia preferida: Seres Originais do Paraíso. Variação: família original.
-- **Fonte de decisão:** Quadro 9 aprovado pelo curador.
-
-
-## Seres Associados
-Consultar as relações tipadas acima.
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Deidade (Pai-Mãe Amantíssimo / Brahman) | RC-047 | relaciona-se-a |
-| Espiritualidade Operacional | RC-060 | cria |
-| Realidade Maior / Paraíso Original | RC-204 | ocorre-em |
-| Realidade Maior / Paraíso Original | RC-204 | ← variação |
-| Círculo / Circuito da Perfeição | RC-603 | participa-de |
-| Círculo / Circuito da Perfeição | RC-603 | ← envolve |
-| Autismo Funcional dos Seres da Espiritualidade Superior | RC-605 | ← aplica-se-a |
-| Protocolos / Algoritmos da Perfeição | RC-606 | ← rege |
-| Trincheira Vibratória no Campo Informativo | RC-613 | ← comunica-com |
-
 ## Observações
 Paraíso Original foi mesclado em RC-204 Realidade Maior / Paraíso Original.
 
 **Regra de status:** permanece candidato por depender de transcrição automatizada sem áudio anexado.
 
 ---
-
-## Fontes
-| Obra/palestra | Localização | Tipo |
-|---|---|---|
-| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
-| P2021-12-04 — Os Archeons de Ereon e os Seres Adhy | U0022–U0026; U0055–U0063; U0072–U0086 | STT pré-curado e validado |
-

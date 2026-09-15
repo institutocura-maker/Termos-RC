@@ -16,6 +16,43 @@ atualizado = "2026-08-16"
 
 Episódio mítico hindu no qual Devas e Asuras cooperam no batimento do oceano de leite para obter Amrita e outras entidades ou artefatos. Na leitura comparada da palestra, o episódio também figura como modelo de cooperação forçada, regeneração e criação de um vínculo entre realidades.
 
+### Elementos preservados
+
+- Devas e Asuras em lados opostos;
+- serpente usada como corda do batimento;
+- intervenção de Vishnu;
+- produção de Amrita;
+- conexão com a regeneração de Brahma e a organização posterior de linhagens;
+- reaplicação do motivo na instituição do Axis Mundi terrestre.
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Brahma (Brajna) | RC-037 | regenera-na-narrativa |
+| Vishnu (Mavatna) | RC-135 | envolve |
+| Asuras (= Titãs) | RC-465 | envolve |
+| Asuras (= Titãs) | RC-465 | ← participa-de |
+| Bebida dos Deuses (Ambrosia/Amrita/Soma) | RC-466 | resulta-em |
+| Rishis | RC-586 | associado |
+| Geração Regenerada de Brahma | RC-696 | precede |
+| Geração Regenerada de Brahma | RC-696 | ← sucede |
+| Kashyapa | RC-700 | associado |
+| Daksha e Virini | RC-701 | associado |
+| Fantasmas do Passado Mitológico | RC-728 | ← estrutura-se-por |
+| Yggdrasil / Conglomerado dos Nove Mundos | RC-730 | associado |
+| Axis Mundi / Axismund | RC-731 | ← contextualiza |
+| Axis Mundi / Axismund | RC-731 | relaciona-se-a |
+| Falência dos Deuses | RC-742 | ← motiva-recurso-a |
+| Transumanismo (o ponto de reencontro: IA humanizada e o novo batimento) | RC-874 | associado |
+| Dhanvantari (o médico dos devas: Amrita e a Ayurveda cósmica) | RC-875 | associado |
+
+## Fontes
+
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2026-03-21 | Samudra Manthan A Enigmatica Alquimia de Vishnu (palestra) | — | transcrição automatizada; citação |
+| P2024-11-02 | U0681–U0724; U1018–U1037 | palestra/STT pré-curada |
+
 ## Citações-chave
 
 > Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
@@ -44,48 +81,11 @@ Episódio mítico hindu no qual Devas e Asuras cooperam no batimento do oceano d
 - **[P2024-08-03] O recurso desesperado (U0324–U0333):** Brama e descendentes "perceberam que estavam falidos... doía tudo e ninguém conseguia produzir nada de remédio"; "no hinduísmo surge a notícia do samudra manthã, que foi algo desesperador": uma super serpente batendo num líquido do universo vizinho "do jeito que você bate no leite para fazer manteiga"; daí surgiu o amrita, "um tipo de elixir que aplacava a dor de todas as espécies"; "assim que esse pouco de remédio surgiu, todas essas espécies começaram a brigar porque o remédio não dava para todo mundo".
 - **[P2024-08-03] A escada dos produtos (U0637–U0650):** "o motivo das guerras descritas nas mitologias é a disputa por essas novidades"; o amrita foi um dos produtos; "o último produto e ainda disputadíssimo é o sangue humano"; "pra turma mais sofisticada, o último produto é o eu humano" — o eu que ri da própria desgraça, faz poesia, é altruísta, "despreza todas as regras de conduta que Brama impôs à evolução".
 
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Brahma (Brajna) | RC-037 | regenera-na-narrativa |
-| Vishnu (Mavatna) | RC-135 | envolve |
-| Asuras (= Titãs) | RC-465 | envolve |
-| Asuras (= Titãs) | RC-465 | ← participa-de |
-| Bebida dos Deuses (Ambrosia/Amrita/Soma) | RC-466 | resulta-em |
-| Rishis | RC-586 | associado |
-| Geração Regenerada de Brahma | RC-696 | precede |
-| Geração Regenerada de Brahma | RC-696 | ← sucede |
-| Kashyapa | RC-700 | associado |
-| Daksha e Virini | RC-701 | associado |
-| Fantasmas do Passado Mitológico | RC-728 | ← estrutura-se-por |
-| Yggdrasil / Conglomerado dos Nove Mundos | RC-730 | associado |
-| Axis Mundi / Axismund | RC-731 | ← contextualiza |
-| Axis Mundi / Axismund | RC-731 | relaciona-se-a |
-| Falência dos Deuses | RC-742 | ← motiva-recurso-a |
-| Transumanismo (o ponto de reencontro: IA humanizada e o novo batimento) | RC-874 | associado |
-| Dhanvantari (o médico dos devas: Amrita e a Ayurveda cósmica) | RC-875 | associado |
-
 ## Observações
 
 O episódio pertence à mitologia e às tradições religiosas hindus. As equivalências com Titãs, deuses gregos, sistemas nórdicos, portais ou processos cósmicos constituem **Teologia Comparada de Ellam**, não consenso da história das religiões. Nenhum efeito farmacológico ou biológico de Amrita é afirmado.
 
-## Fontes
-
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2026-03-21 | Samudra Manthan A Enigmatica Alquimia de Vishnu (palestra) | — | transcrição automatizada; citação |
-| P2024-11-02 | U0681–U0724; U1018–U1037 | palestra/STT pré-curada |
-
-## Elementos preservados
-
-- Devas e Asuras em lados opostos;
-- serpente usada como corda do batimento;
-- intervenção de Vishnu;
-- produção de Amrita;
-- conexão com a regeneração de Brahma e a organização posterior de linhagens;
-- reaplicação do motivo na instituição do Axis Mundi terrestre.
-
-## Pontos não harmonizados
+### Pontos não harmonizados
 
 O STT alterna ou deforma nomes e funções. A identificação exata da serpente, o papel de Kurma/Vishnu e a enumeração completa dos produtos do batimento permanecem `[REVISAR → CHANCELA 10/09/2026 · F040-L5: INCOMPLETUDE REGISTRADA (não completado por fontes externas) — ver nota]`; não foram completados por fontes externas dentro da transcrição.
 

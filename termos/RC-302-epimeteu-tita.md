@@ -16,14 +16,47 @@ atualizado = "2026-08-28"
 
 Titã irmão de Prometeu que, na cosmologia de Jan Val Ellam, teria sido o grande manipulador das misturas xamânicas e o responsável pelo desbloqueio dos códigos que levaram à formatação final do ser humano — descrito como "genial para muitas coisas" e, ao mesmo tempo, "meio demente" em outras.
 
+## Contexto / Origem
+
+[P2024-08-03] A palestra o apresenta como "a figura mais louca que eu conheço em toda essa história" e "a mais responsável pelo fato do ser humano ser do jeito que é hoje" — em contraste com Prometeu ("sábio", "sagaz").
+
 ## Escopo e evidência
 
 - **[P2024-08-03] Unidades:** U1480–U1525; U1662.
 - **[P2024-08-03] Proveniência:** palestra de Jan Val Ellam; transcrição STT pré-curada; devolutiva do curador registrada em 2026-08-20 (ficha autorizada).
 
-## Contexto / Origem
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Pandora | RC-086 | associado |
+| Zeus | RC-145 | associado |
+| Descendência de Pirra (Pirra e Deucalião) | RC-298 | associado |
+| Prometeu (titã) | RC-301 | é-um |
+| Pirra | RC-303 | associado |
+| Asuras (= Titãs) | RC-465 | é-um |
+| Revolução Inacabada de Prometeu e Pandora | RC-788 | associado |
+| Centro Alquímico-Farmacopédico | RC-789 | associado |
+| Quinaras / Centauros (Seres Reais que Hoje Nascem Humanos) | RC-790 | associado |
+| Lamúria dos Deuses (Diagnóstico de Prometeu) | RC-791 | associado |
+| Desvio de Rota de Pandora (Contra o Plano de Zeus) | RC-806 | associado |
+| Prometeu como Saca-Nica dos Olímpicos | RC-812 | associado |
+| Eva como 3ª Tentativa de Fêmea para Adão (Homem + Mulher da Espécie Sábia) | RC-814 | associado |
+| Agar como 2ª Tentativa Fracassada de Fêmea para Adão | RC-817 | associado |
+| Prole sem Face (Humanos Modificáveis sem Face Definida) | RC-819 | associado |
 
-[P2024-08-03] A palestra o apresenta como "a figura mais louca que eu conheço em toda essa história" e "a mais responsável pelo fato do ser humano ser do jeito que é hoje" — em contraste com Prometeu ("sábio", "sagaz").
+
+- Prometeu (titã) — RC-301 (irmão);
+- O Vício de Epimeteu — RC-289;
+- Pandora — RC-086;
+- Xamanismo Cósmico — RC-577.
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
+| P2024-08-03 | U1480–U1525; U1662 | palestra/STT |
+| P2025-02-16 / P2024-11-09 / P2025-06-14b / B020 / B021 | — | obras/palestras |
+
 
 ## Citações-chave
 > "Prometeu era sábio, Epimeteu era leso... mas é genial para muitas coisas."
@@ -77,43 +110,10 @@ Titã irmão de Prometeu que, na cosmologia de Jan Val Ellam, teria sido o grand
 
 - **[P2021-05-15 · AS BEBERAGENS DE EPIMETEU COMO BANCO DE SEQUÊNCIAS]** "E como no organismo de Pandora já tinha várias beberagens repetidas das poções de epimeteu, nos quais existia sequência dos animais humanos que ele trabalhava." (U0006); "Ela trouxe o que os humanos de então tinham conseguido até o momento em que Epimeteu recolheu o DNA deles e os transformou em poção deberagem." (U0006)
 
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Pandora | RC-086 | associado |
-| Zeus | RC-145 | associado |
-| Descendência de Pirra (Pirra e Deucalião) | RC-298 | associado |
-| Prometeu (titã) | RC-301 | é-um |
-| Pirra | RC-303 | associado |
-| Asuras (= Titãs) | RC-465 | é-um |
-| Revolução Inacabada de Prometeu e Pandora | RC-788 | associado |
-| Centro Alquímico-Farmacopédico | RC-789 | associado |
-| Quinaras / Centauros (Seres Reais que Hoje Nascem Humanos) | RC-790 | associado |
-| Lamúria dos Deuses (Diagnóstico de Prometeu) | RC-791 | associado |
-| Desvio de Rota de Pandora (Contra o Plano de Zeus) | RC-806 | associado |
-| Prometeu como Saca-Nica dos Olímpicos | RC-812 | associado |
-| Eva como 3ª Tentativa de Fêmea para Adão (Homem + Mulher da Espécie Sábia) | RC-814 | associado |
-| Agar como 2ª Tentativa Fracassada de Fêmea para Adão | RC-817 | associado |
-| Prole sem Face (Humanos Modificáveis sem Face Definida) | RC-819 | associado |
-
-
-- Prometeu (titã) — RC-301 (irmão);
-- O Vício de Epimeteu — RC-289;
-- Pandora — RC-086;
-- Xamanismo Cósmico — RC-577.
-
 ## Observações
 
 Leitura mitológica do autor; plantas com "+500 moléculas complexas" e a origem do xamanismo são cosmologia de Ellam, não botânica ou história validada.
 
 
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-302.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
-
-
-## Fontes
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
-| P2024-08-03 | U1480–U1525; U1662 | palestra/STT |
-| P2025-02-16 / P2024-11-09 / P2025-06-14b / B020 / B021 | — | obras/palestras |
 

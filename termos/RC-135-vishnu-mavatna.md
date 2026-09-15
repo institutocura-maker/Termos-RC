@@ -28,38 +28,6 @@ Com isso:
 
 **Origem do conteúdo da ampliação:** palestra `P2022-05-07 — Shiva, o Projeto Talm e os Mistérios de Awaylengam` (07/05/2022). Transcrição automatizada, **não conferida com o áudio**; cada aspa foi recortada do `original.txt` pelo índice de âncoras do motor e conferida byte a byte pelo portão B. Nada foi digitado de memória.
 
-## Citações-chave
-
-> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
-
-- «Os seguidores de Vishnu dizem que a primeira encarnação dele foi Matsya, como peixe, na época do grande dilúvio, para salvar informações que estavam reproduzidas em pedras, em manuscritos [...] Isso não é, entre aspas, real, mas de fato, pelas fofocas na espiritualidade, o senhor Vishnu no tempo […]» — *ver:* **Ampliação — P2024-03-02 (O Drama Espiritual de Jesus)**
-- «Vishnu se fez um javali e matou o demônio Hiranyaksha, que era filho de Shiva e Brama, da mistura do DNA dos demos [...] Brama disse: 'Quais os animais que você que é antídoto contra eles?' A citou todos os animais que ele se lembrou, mas ele esqueceu javali.» — *ver:* **Ampliação — P2024-03-02 (O Drama Espiritual de Jesus)**
-- «A segunda encarnação avatárica de Vishnu é esse nome chamado Kurma, que significa em sânscrito tartaruga [...] Vishnu recebeu uma comunidade de deuses na sua loca chamada Vaikuntha.» — *ver:* **Ampliação — P2024-03-02 (O Drama Espiritual de Jesus)**
-
-
-## Ampliação
-### P2022-05-07 (Shiva, o Projeto Talm e os Mistérios de Awaylengam)
-
-- **[Vishnu — trabalhando sobre o código de Brahma] (U0003)** «Mas Chiva e Vído trabalharam sempre em cima.» — Chiva e Vishnu sempre trabalharam sobre o código de Brahma, sem grandes ousadias, até o Projeto Talm.
-
-### P2024-06-16 (O Projeto TALM, os Fenvans e os Humanos)
-
-- **[Vishnu — o terceiro logos] (U0006)** «Aí tem o terceiro logos que pôs tudo isso para evoluir, que foi virgino quando a força da sexualidade, fazendo com que a oxitocina surgisse.» — Vishnu (STT "virgino/virgno") como o 3º logos: pôs a vida a evoluir pela sexualidade, fazendo surgir a oxitocina.
-
-### P2012-02-19 (Xadrez Cósmico de Brahma, Vishnu e Shiva)
-
-- **[Vishnu, o preservador] (U0005)** «E é por isso que Vno é conhecido na tradição hindu como o preservador.» — Vishnu (RC-135, STT 'Vno/Virgno/Virgino') é conhecido na tradição hindu como 'o preservador': cabe a ele o modelo de criação possível no caos primeiro.
-
-## Ampliação
-### P2024-03-02 (O Drama Espiritual de Jesus)
-
-- **[Matsya (peixe) — primeira "encarnação" de Vishnu para salvar informações do dilúvio]:** «Os seguidores de Vishnu dizem que a primeira encarnação dele foi Matsya, como peixe, na época do grande dilúvio, para salvar informações que estavam reproduzidas em pedras, em manuscritos [...] Isso não é, entre aspas, real, mas de fato, pelas fofocas na espiritualidade, o senhor Vishnu no tempo fez isso: criar alguém, um peixe, devido ao dilúvio.» — ver RC-757 (Vaishnavismo).
-
-- **[Kurma (tartaruga) — segunda "encarnação", recebeu deuses na loca Vaikuntha]:** «A segunda encarnação avatárica de Vishnu é esse nome chamado Kurma, que significa em sânscrito tartaruga [...] Vishnu recebeu uma comunidade de deuses na sua loca chamada Vaikuntha.» — «Tem uma loca X composta por algo parecido com o que hoje a gente chama de leite. E se esse leite fosse batido [...] da efervescência dos elementos químicos surgiria algo.» — ver RC-734 (Samudra Manthana).
-
-- **[Varaha (javali) — matou Hiranyaksha]:** «Vishnu se fez um javali e matou o demônio Hiranyaksha, que era filho de Shiva e Brama, da mistura do DNA dos demos [...] Brama disse: 'Quais os animais que você que é antídoto contra eles?' A citou todos os animais que ele se lembrou, mas ele esqueceu javali.» — ver RC-642 (Narasimha).
-
-
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
@@ -121,7 +89,40 @@ Com isso:
 | Fonte | Localização | Tipo |
 |---|---|---|
 | P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |
-## Observações sobre o Estado da Malha
+## Citações-chave
+
+> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+
+- «Os seguidores de Vishnu dizem que a primeira encarnação dele foi Matsya, como peixe, na época do grande dilúvio, para salvar informações que estavam reproduzidas em pedras, em manuscritos [...] Isso não é, entre aspas, real, mas de fato, pelas fofocas na espiritualidade, o senhor Vishnu no tempo […]» — *ver:* **Ampliação — P2024-03-02 (O Drama Espiritual de Jesus)**
+- «Vishnu se fez um javali e matou o demônio Hiranyaksha, que era filho de Shiva e Brama, da mistura do DNA dos demos [...] Brama disse: 'Quais os animais que você que é antídoto contra eles?' A citou todos os animais que ele se lembrou, mas ele esqueceu javali.» — *ver:* **Ampliação — P2024-03-02 (O Drama Espiritual de Jesus)**
+- «A segunda encarnação avatárica de Vishnu é esse nome chamado Kurma, que significa em sânscrito tartaruga [...] Vishnu recebeu uma comunidade de deuses na sua loca chamada Vaikuntha.» — *ver:* **Ampliação — P2024-03-02 (O Drama Espiritual de Jesus)**
+
+
+## Ampliação
+### P2022-05-07 (Shiva, o Projeto Talm e os Mistérios de Awaylengam)
+
+- **[Vishnu — trabalhando sobre o código de Brahma] (U0003)** «Mas Chiva e Vído trabalharam sempre em cima.» — Chiva e Vishnu sempre trabalharam sobre o código de Brahma, sem grandes ousadias, até o Projeto Talm.
+
+### P2024-06-16 (O Projeto TALM, os Fenvans e os Humanos)
+
+- **[Vishnu — o terceiro logos] (U0006)** «Aí tem o terceiro logos que pôs tudo isso para evoluir, que foi virgino quando a força da sexualidade, fazendo com que a oxitocina surgisse.» — Vishnu (STT "virgino/virgno") como o 3º logos: pôs a vida a evoluir pela sexualidade, fazendo surgir a oxitocina.
+
+### P2012-02-19 (Xadrez Cósmico de Brahma, Vishnu e Shiva)
+
+- **[Vishnu, o preservador] (U0005)** «E é por isso que Vno é conhecido na tradição hindu como o preservador.» — Vishnu (RC-135, STT 'Vno/Virgno/Virgino') é conhecido na tradição hindu como 'o preservador': cabe a ele o modelo de criação possível no caos primeiro.
+
+## Ampliação
+### P2024-03-02 (O Drama Espiritual de Jesus)
+
+- **[Matsya (peixe) — primeira "encarnação" de Vishnu para salvar informações do dilúvio]:** «Os seguidores de Vishnu dizem que a primeira encarnação dele foi Matsya, como peixe, na época do grande dilúvio, para salvar informações que estavam reproduzidas em pedras, em manuscritos [...] Isso não é, entre aspas, real, mas de fato, pelas fofocas na espiritualidade, o senhor Vishnu no tempo fez isso: criar alguém, um peixe, devido ao dilúvio.» — ver RC-757 (Vaishnavismo).
+
+- **[Kurma (tartaruga) — segunda "encarnação", recebeu deuses na loca Vaikuntha]:** «A segunda encarnação avatárica de Vishnu é esse nome chamado Kurma, que significa em sânscrito tartaruga [...] Vishnu recebeu uma comunidade de deuses na sua loca chamada Vaikuntha.» — «Tem uma loca X composta por algo parecido com o que hoje a gente chama de leite. E se esse leite fosse batido [...] da efervescência dos elementos químicos surgiria algo.» — ver RC-734 (Samudra Manthana).
+
+- **[Varaha (javali) — matou Hiranyaksha]:** «Vishnu se fez um javali e matou o demônio Hiranyaksha, que era filho de Shiva e Brama, da mistura do DNA dos demos [...] Brama disse: 'Quais os animais que você que é antídoto contra eles?' A citou todos os animais que ele se lembrou, mas ele esqueceu javali.» — ver RC-642 (Narasimha).
+
+
+## Observações
+### Observações sobre o Estado da Malha
 
 * **Grafia STT:** 'Vído' = Vishnu, 'Chiva' = Shiva. 'Trabalharam sempre em cima' = sobre o código de Brahma, até a 'carreira solo' do Projeto Talm.
 * **Trava aplicável**: nenhuma além das gerais do despacho.

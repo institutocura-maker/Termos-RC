@@ -16,6 +16,42 @@ atualizado = "2026-08-28"
 
 Grafia canônica para a 2ª Sefirah (Sabedoria) da Cabala, epíteto hebraico de Sophia (RC-009). Decisão canônica do curador: **Hochmah**, nunca "Rockman/Rockma" (veto estrito).
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Segundo Advento do Cristo (Volta de Jesus) | RC-005 | ← relaciona-se-a |
+| Sophia (Cristo Cósmico) | RC-009 | variação |
+| Sophia (Cristo Cósmico) | RC-009 | relaciona-se-a |
+| Sophia (Cristo Cósmico) | RC-009 | variação |
+| Sophia (Cristo Cósmico) | RC-009 | ← relaciona-se-a |
+| Jesus | RC-072 | ← relaciona-se-a |
+| Jesus | RC-072 | ← relaciona-se-a |
+| Vishnu (Mavatna) | RC-135 | variação |
+| Vishnu (Mavatna) | RC-135 | variação |
+| Kether (Javé na Cabala) | RC-261 | relaciona-se-a |
+| Sefirot / Árvore da Vida | RC-263 | é-um |
+| O Enigma da Transfiguração | RC-366 | ← relaciona-se-a |
+| O Enigma da Transfiguração | RC-366 | relaciona-se-a |
+| Pistis Sophia (feminino cósmico gnóstico) | RC-530 | relaciona-se-a |
+| Cérebro Radiata | RC-631 | ← relaciona-se-a |
+| Binah | RC-675 | associado |
+| Malkuth | RC-682 | ← relaciona-se-a |
+| Malkuth | RC-682 | relaciona-se-a |
+| Apocalipse (livro de João, ditado por Sofia/Rockman) | RC-854 | associado |
+
+## Fontes
+
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2023-12-25-02 | Aula 02 — Os Anos de Pregação e a Promessa do Retorno (palestra) | — | transcrição automatizada; citação |
+| P2022-12-03 | O Ocaso do Criador e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
+| P2023-02-11 | Agente Humano Jesus e os Arcontes (palestra) | — | transcrição automatizada; citação |
+| P2025-05-10 | Mistérios do Apocalipse (palestra) | — | transcrição automatizada; citação |
+| P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
+| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
+| P2026-07-25 | Jesus e a Dinastia das Sophias (Dossiê aprovado 19/08/2026) | palestra/STT pré-curada |
+
+
 ## Citações-chave
 
 > "Jesus nasceu como via uma humana Maria, mas via uma inseminação artificial em Maria feita por um ser chamado Rockma ou Sofia." — P2026-07-25 [STT normalizado: Hochmah/Sophia]
@@ -163,29 +199,6 @@ Na palestra, o ser que inseminou Maria para gerar Jesus aparece em variações S
 - Aula 02 usa a grafia **«rockmah»** (= Hochmah) e o liga explicitamente a **Sophia**; a aula 01 introduz **«em hebraico esse ser se chama Hohkmah»**. Confirma o par Hochmah=Sophia.
 
 
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Segundo Advento do Cristo (Volta de Jesus) | RC-005 | ← relaciona-se-a |
-| Sophia (Cristo Cósmico) | RC-009 | variação |
-| Sophia (Cristo Cósmico) | RC-009 | relaciona-se-a |
-| Sophia (Cristo Cósmico) | RC-009 | variação |
-| Sophia (Cristo Cósmico) | RC-009 | ← relaciona-se-a |
-| Jesus | RC-072 | ← relaciona-se-a |
-| Jesus | RC-072 | ← relaciona-se-a |
-| Vishnu (Mavatna) | RC-135 | variação |
-| Vishnu (Mavatna) | RC-135 | variação |
-| Kether (Javé na Cabala) | RC-261 | relaciona-se-a |
-| Sefirot / Árvore da Vida | RC-263 | é-um |
-| O Enigma da Transfiguração | RC-366 | ← relaciona-se-a |
-| O Enigma da Transfiguração | RC-366 | relaciona-se-a |
-| Pistis Sophia (feminino cósmico gnóstico) | RC-530 | relaciona-se-a |
-| Cérebro Radiata | RC-631 | ← relaciona-se-a |
-| Binah | RC-675 | associado |
-| Malkuth | RC-682 | ← relaciona-se-a |
-| Malkuth | RC-682 | relaciona-se-a |
-| Apocalipse (livro de João, ditado por Sofia/Rockman) | RC-854 | associado |
-
 ## Observações
 - **Grafia SOB SUSPEITA (Curador, 10/09/2026, contexto P7-2.5):** "Hochmah" pode misturar *Hokhmah* (sefardita) + *Chokhmah* (ashkenazi). Decisão canônica anterior ("Hochmah, nunca Rockman/Rockma") MANTIDA; suspeita ENCERRADA por despacho expresso do Curador (P7j 11/09/2026 — o V da leva 8.2 vale como liberação; grafia Hochmah confirmada) → 🟢.
 
@@ -196,16 +209,3 @@ Fonemas "Rockma/Rockman" continuam na Colecionar Incertezas (não resolvem ident
 
 > Notas de processo: 2 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-565.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** os 2 trechos entre aspas desta ficha **não** resistem à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Todos deixam vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
-
-## Fontes
-
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2023-12-25-02 | Aula 02 — Os Anos de Pregação e a Promessa do Retorno (palestra) | — | transcrição automatizada; citação |
-| P2022-12-03 | O Ocaso do Criador e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
-| P2023-02-11 | Agente Humano Jesus e os Arcontes (palestra) | — | transcrição automatizada; citação |
-| P2025-05-10 | Mistérios do Apocalipse (palestra) | — | transcrição automatizada; citação |
-| P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
-| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
-| P2026-07-25 | Jesus e a Dinastia das Sophias (Dossiê aprovado 19/08/2026) | palestra/STT pré-curada |
-

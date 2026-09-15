@@ -15,8 +15,30 @@ atualizado = "2026-08-15"
 ## Definição Sintética
 Texto gnóstico que apresenta Judas sob leitura distinta da tradição canônica e o relaciona à gnose e Barbelo.
 
+## Etimologia e Grafias
+- Forma preferida: **Evangelho de Judas**.
+
+
 ## Contexto / Origem
 Extraído da 3ª Edição dos Estagiários do Kaos.
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Jesus | RC-072 | ← relaciona-se-a |
+| Yel Am / Yel Liam | RC-138 | envolve |
+| Gnosticismo (contraponto à Cabala) | RC-268 | relaciona-se-a |
+| O Fator Judas | RC-365 | tema-de |
+| Barbelo (Mãe-Pai primordial gnóstica) | RC-483 | relaciona-se-a |
+
+## Seres Associados
+Consultar relações na Base.
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2023-12-25-03 | Aula 03 — Dias Difíceis: Crucificação e Ressurreição (palestra) | — | transcrição automatizada; citação |
+| P2026-04-02 | U0114–U0117 | live/STT pré-curado |
 
 ## Citações-chave
 > Ver P2026-04-02, U0114–U0117.
@@ -37,28 +59,6 @@ Extraído da 3ª Edição dos Estagiários do Kaos.
 - Aula 03 cita **Judas Dídimo Tomé** (irmão de Jesus) como destinatário da revelação — contexto do Evangelho de Judas/Tomé; reforça RC-647.
 
 
-## Etimologia e Grafias
-- Forma preferida: **Evangelho de Judas**.
-
-
-## Seres Associados
-Consultar relações na Base.
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Jesus | RC-072 | ← relaciona-se-a |
-| Yel Am / Yel Liam | RC-138 | envolve |
-| Gnosticismo (contraponto à Cabala) | RC-268 | relaciona-se-a |
-| O Fator Judas | RC-365 | tema-de |
-| Barbelo (Mãe-Pai primordial gnóstica) | RC-483 | relaciona-se-a |
-
 ## Observações
 A historicidade e a interpretação são atribuídas à palestra.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o bloco citado desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
-
-## Fontes
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2023-12-25-03 | Aula 03 — Dias Difíceis: Crucificação e Ressurreição (palestra) | — | transcrição automatizada; citação |
-| P2026-04-02 | U0114–U0117 | live/STT pré-curado |

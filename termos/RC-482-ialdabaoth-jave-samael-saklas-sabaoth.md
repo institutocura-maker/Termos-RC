@@ -16,6 +16,22 @@ atualizado = "2026-09-12"
 
 Epíteto gnóstico de Javé (o demiurgo): "Samael, o soberano cego; Saklas, o ignorante; Ialdabaoth, o blasfemador contra o divino; Sabaoth" — todos nomes do mesmo ser na leitura da RC (na Hipóstase dos Arcontes, RC-770). Na palestra P2026-07-25, o autor enumera esses epítetos ao apresentar os personagens do livro gnóstico.
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Javé | RC-001 | sinônimo |
+| Prabrajna | RC-152 | relaciona-se-a |
+| Arcontes (= Sophias e Indras; Conselho dos 70) | RC-474 | associado |
+| Pistis Sophia (feminino cósmico gnóstico) | RC-530 | relaciona-se-a |
+| Hipóstase dos Arcontes (livro gnóstico; 'realidade dos regentes') | RC-770 | ← relaciona-se-a |
+
+## Fontes
+
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2022-09-17 | A Hipóstase dos Arcontes (palestra) | — | transcrição automatizada; citação |
+| P2026-07-25 | Jesus e a Dinastia das Sophias (Dossiê aprovado 19/08/2026) | palestra/STT pré-curada |
+
 ## Citações-chave
 
 > "Samael, o soberano cego, também chamado de Sácala, o ignorante, e de Aldabaof, que é o blasfemador contra o divino, e de Sabaov... tudo isso é sinônimo pro nome de Javé." — P2026-07-25
@@ -39,23 +55,8 @@ A palestra confirma e amplia os epítetos: Samael/Sáclas/Aldabaof/Sabaof (STT d
 - **[O criador caído: parido pela nuvem como feto abortado] (U0046)** «E o que ela havia criado foi parido pela nuvem como um feto abortado, ou seja, o criador reconstruído, ou seja, Javé reconstruído, Samael reconstruído, é um feto.» — a origem do ser caído segundo o livro: o que Piste Sofia criou sem o tutor saiu como feto abortado — "E aquilo assumiu uma forma plástica modelada através da matéria e se tornou uma besta arrogante" (U0046: «E aquilo assumiu uma forma plástica modelada através da matéria e se tornou uma besta arrogante.»); andrógino, criou para si "sete filhos andrógenos" (paráfrase; U0046 — sem aspa adicional); RC-482.
 
 
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | sinônimo |
-| Prabrajna | RC-152 | relaciona-se-a |
-| Arcontes (= Sophias e Indras; Conselho dos 70) | RC-474 | associado |
-| Pistis Sophia (feminino cósmico gnóstico) | RC-530 | relaciona-se-a |
-| Hipóstase dos Arcontes (livro gnóstico; 'realidade dos regentes') | RC-770 | ← relaciona-se-a |
-
 ## Observações
 
 Grafias STT registradas: Aldabaof, Aldabaofelo, Sácala/Sáclas, Sabaov/Sabaof — normalizar para as canônicas (Ialdabaoth, Saklas, Sabaoth).
 
 ---
-## Fontes
-
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2022-09-17 | A Hipóstase dos Arcontes (palestra) | — | transcrição automatizada; citação |
-| P2026-07-25 | Jesus e a Dinastia das Sophias (Dossiê aprovado 19/08/2026) | palestra/STT pré-curada |

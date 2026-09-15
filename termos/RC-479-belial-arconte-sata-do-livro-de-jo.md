@@ -16,6 +16,19 @@ atualizado = "2026-09-13"
 
 Arconte do conselho ("Satã" no Livro de Jó): começou como anjo clone de Javé, tomou "fórmulas de poder mental" e transitou da condição de anjo para ser demoníaco (metamorfoseável) — um dos poucos a conseguir o trânsito; tornou-se arconte. Na leitura da RC, é o protagonista (com Javé) da aposta do Livro de Jó e um dos dois arcontes aprisionados por Jesus no Tártaro (junto com Hades/Reides).
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Jesus | RC-072 | ← relaciona-se-a |
+| Len Mion (Satã) | RC-074 | associado |
+| Arcontes (= Sophias e Indras; Conselho dos 70) | RC-474 | relaciona-se-a |
+| Domínios de Morfeu | RC-901 | associado |
+| Tártaro Reides | RC-902 | associado |
+| Umbrais | RC-903 | associado |
+| Evangelho de Bartolomeu | RC-904 | associado |
+| Eros = Vishnu / Tártaro = Shiva (correspondências) | RC-286 | associado |
+
+
 ## Ampliação
 ### P2026-07-25
 
@@ -49,16 +62,3 @@ Arconte do conselho ("Satã" no Livro de Jó): começou como anjo clone de Javé
 ### P2022-11-20 (A Incompreendida Nova Aliança proposta por Jesus)
 
 - **[O Satã do livro de Jó é Belial] (U0003)** «Só que não é Satanás, é Belial.» — no livro de Jó, o "Satanás" da linguagem bíblica é Belial: "Aí entre eles, Estava Satanás, segundo a linguagem da Bíblia, mas o nome correto seria Belial" (U0003: «Aí entre eles, Estava Satanás, segundo a linguagem da Bíblia, mas o nome correto seria Belial.»); Javé reunia os ministros e Belial era um deles; "Do jeito que Javé fez com Belial ou Satã no livro de Jó, ele fez com Caim" (U0007: «Do jeito que Javé fez com Belial ou Satã no livro de Jó, ele fez com Caim.») — a aposta sobre Jó como padrão repetido com Caim; "fez com um coitado de um ser humano o que nem o diabo faria se existisse" (prosa).
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Jesus | RC-072 | ← relaciona-se-a |
-| Len Mion (Satã) | RC-074 | associado |
-| Arcontes (= Sophias e Indras; Conselho dos 70) | RC-474 | relaciona-se-a |
-| Domínios de Morfeu | RC-901 | associado |
-| Tártaro Reides | RC-902 | associado |
-| Umbrais | RC-903 | associado |
-| Evangelho de Bartolomeu | RC-904 | associado |
-| Eros = Vishnu / Tártaro = Shiva (correspondências) | RC-286 | associado |
-

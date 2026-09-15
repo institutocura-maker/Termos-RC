@@ -16,6 +16,77 @@ atualizado = "2026-08-28"
 
 Um dos três da Trimurti (RC-104) — na RC, **Savna** (RC-409 ADHYSAVNA); princípio de reciclagem vinculado à entropia cósmica e à força tamásica (RC-151 Gunas).
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Adhydaiva | RC-014 | associado |
+| Adhyajna | RC-016 | associado |
+| Brahma (Brajna) | RC-037 | associado |
+| Keshava | RC-073 | associado |
+| Lila | RC-075 | associado |
+| Logos / Logos Criadores | RC-076 | associado |
+| Projeto Talm | RC-091 | associado |
+| Trimurti | RC-104 | parte-de |
+| Vishnu (Mavatna) | RC-135 | associado |
+| Gunas Criadoras (Sattva, Rajas, Tamas) | RC-151 | ← associado-a |
+| Prabrajna | RC-152 | variação |
+| Era da Punição | RC-158 | associado |
+| Entropia e Negentropia | RC-160 | relaciona-se-a |
+| Conspiração do Desespero | RC-220 | associado |
+| Eros = Vishnu / Tártaro = Shiva (correspondências) | RC-286 | ← variação |
+| Dissolução da Tríade (2015–2017) | RC-300 | associado |
+| Adhyagya (formas espirituais Adhy) | RC-311 | ← responde-por |
+| A Estranha Autorrealização de Shiva | RC-318 | ← envolve |
+| Kumari Kandan (tradição) | RC-329 | associado-a |
+| Kumari Kandan (tradição) | RC-329 | ← relaciona-se-a |
+| Ragnarok em Marte | RC-395 | associado |
+| ADHYSAVNA (nome completo de Savna/Shiva) | RC-409 | ← variação |
+| Hara (avatar de Shiva) | RC-413 | ← é-um |
+| Krishna (avatar de Vishnu/Shiva) | RC-414 | associado |
+| Javé sem avatares ('Não tenho isto!') | RC-426 | associado |
+| Pashvnaj (espécie de 43 seres do Gênero Adhy) | RC-455 | ← relaciona-se-a |
+| Ancoragem do Conglomerado Trimurtiano na Terra | RC-575 | associado |
+| Rakshasas | RC-581 | associado |
+| Fatiamento de Consciência | RC-604 | ← envolve |
+| Narasimha (avatar de Vishnu) | RC-642 | ← confronta |
+| Som da Flauta / Som da Falta | RC-668 | ← percebido-por |
+| Pashupati (avatar de Shiva) | RC-669 | ← é-um |
+| Yoga Ancestral (Origem Cósmica) | RC-670 | ← criado-por |
+| Binah | RC-675 | ← correspondência-em-teologia-comparada-de |
+| Ganesha (exceção à metamorfose; cabeça de elefante) | RC-756 | ← relaciona-se-a |
+| Pactos de Javé (Brama / Vishnu / Shiva) | RC-781 | associado |
+| Estratégia dos Avatares (Moisés/Krishna/Saibaba/Jesus/Maomé) | RC-797 | associado |
+| Mudança de Estratégia das Trevas (Centralizar → Espalhar) | RC-798 | associado |
+| Saibaba como Precursor de Jesus | RC-801 | associado |
+| Forno de Awaylengan (forno de Shiva — o primeiro a funcionar) | RC-837 | associado |
+| Eru Ilúvatar (criador no Silmarillion) | RC-843 | associado |
+| Rara (o ser de energia tamásica criado por Chiva para o sacrifício final; indestrutível) | RC-883 | associado |
+| Sai Baba de Shirdi (Shirdi Sai Baba) | RC-927 | ← encarnação-de |
+| Sathya Sai Baba | RC-928 | ← encarnação-de |
+| Prema Sai (Prima Sai / Prem Sai) | RC-929 | ← encarnação-de |
+| Kris Amon (Krysamon NEAD) | RC-934 | associado |
+
+## Fontes
+
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2022-09-17 | A Hipóstase dos Arcontes (palestra) | — | transcrição automatizada; citação |
+| P2021-06-26 | Shiva - A Reconstrução do Erro de Brahma e o Tikum (palestra) | — | transcrição automatizada; citação |
+| P2021-04-10 | O Fechamento dos Portais e o Impasse no Exílio Espiritual de Len Mion — Aprofundamento (palestra) | — | transcrição automatizada; citação |
+| P2026-03-21 | Samudra Manthan A Enigmatica Alquimia de Vishnu (palestra) | — | transcrição automatizada; citação |
+| P2022-07-16 | Do Ramayana ao Mahabharata (palestra) | — | transcrição automatizada; citação |
+| P2022-12-03 | O Ocaso do Criador e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
+| P2012-02-19 | Xadrez Cósmico de Brahma, Vishnu e Shiva (palestra) | — | transcrição automatizada; citação |
+| P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
+| P2022-05-07 | Shiva, o Projeto Talm e os Mistérios de Awaylengam (palestra) | — | transcrição automatizada; citação |
+| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
+| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
+| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
+| P2025-11-29 | bloco 2 (Trimurti × Moros; força tamásica) | palestra/STT pré-curada |
+
+
+
+
 ## Citações-chave
 
 > "A força tamásica de Shiva é a entropia dessa criação... existe uma lei entrópica que diz que o que cai de entropia num sistema, ninguém consegue mexer nessa equação." — P2025-11-29
@@ -194,78 +265,7 @@ Um dos três da Trimurti (RC-104) — na RC, **Savna** (RC-409 ADHYSAVNA); princ
 - Contexto: Shiva entre os seres da Trimurti que disputam com Moros o destino dos seres (RC-454; ver RC-767).
 
 
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Adhydaiva | RC-014 | associado |
-| Adhyajna | RC-016 | associado |
-| Brahma (Brajna) | RC-037 | associado |
-| Keshava | RC-073 | associado |
-| Lila | RC-075 | associado |
-| Logos / Logos Criadores | RC-076 | associado |
-| Projeto Talm | RC-091 | associado |
-| Trimurti | RC-104 | parte-de |
-| Vishnu (Mavatna) | RC-135 | associado |
-| Gunas Criadoras (Sattva, Rajas, Tamas) | RC-151 | ← associado-a |
-| Prabrajna | RC-152 | variação |
-| Era da Punição | RC-158 | associado |
-| Entropia e Negentropia | RC-160 | relaciona-se-a |
-| Conspiração do Desespero | RC-220 | associado |
-| Eros = Vishnu / Tártaro = Shiva (correspondências) | RC-286 | ← variação |
-| Dissolução da Tríade (2015–2017) | RC-300 | associado |
-| Adhyagya (formas espirituais Adhy) | RC-311 | ← responde-por |
-| A Estranha Autorrealização de Shiva | RC-318 | ← envolve |
-| Kumari Kandan (tradição) | RC-329 | associado-a |
-| Kumari Kandan (tradição) | RC-329 | ← relaciona-se-a |
-| Ragnarok em Marte | RC-395 | associado |
-| ADHYSAVNA (nome completo de Savna/Shiva) | RC-409 | ← variação |
-| Hara (avatar de Shiva) | RC-413 | ← é-um |
-| Krishna (avatar de Vishnu/Shiva) | RC-414 | associado |
-| Javé sem avatares ('Não tenho isto!') | RC-426 | associado |
-| Pashvnaj (espécie de 43 seres do Gênero Adhy) | RC-455 | ← relaciona-se-a |
-| Ancoragem do Conglomerado Trimurtiano na Terra | RC-575 | associado |
-| Rakshasas | RC-581 | associado |
-| Fatiamento de Consciência | RC-604 | ← envolve |
-| Narasimha (avatar de Vishnu) | RC-642 | ← confronta |
-| Som da Flauta / Som da Falta | RC-668 | ← percebido-por |
-| Pashupati (avatar de Shiva) | RC-669 | ← é-um |
-| Yoga Ancestral (Origem Cósmica) | RC-670 | ← criado-por |
-| Binah | RC-675 | ← correspondência-em-teologia-comparada-de |
-| Ganesha (exceção à metamorfose; cabeça de elefante) | RC-756 | ← relaciona-se-a |
-| Pactos de Javé (Brama / Vishnu / Shiva) | RC-781 | associado |
-| Estratégia dos Avatares (Moisés/Krishna/Saibaba/Jesus/Maomé) | RC-797 | associado |
-| Mudança de Estratégia das Trevas (Centralizar → Espalhar) | RC-798 | associado |
-| Saibaba como Precursor de Jesus | RC-801 | associado |
-| Forno de Awaylengan (forno de Shiva — o primeiro a funcionar) | RC-837 | associado |
-| Eru Ilúvatar (criador no Silmarillion) | RC-843 | associado |
-| Rara (o ser de energia tamásica criado por Chiva para o sacrifício final; indestrutível) | RC-883 | associado |
-| Sai Baba de Shirdi (Shirdi Sai Baba) | RC-927 | ← encarnação-de |
-| Sathya Sai Baba | RC-928 | ← encarnação-de |
-| Prema Sai (Prima Sai / Prem Sai) | RC-929 | ← encarnação-de |
-| Kris Amon (Krysamon NEAD) | RC-934 | associado |
-
 ## Observações
 
 Papel de Shiva na entropia é **leitura do autor** (cosmovisão RC) — não é hinduísmo acadêmico validado.
-
-
-## Fontes
-
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2022-09-17 | A Hipóstase dos Arcontes (palestra) | — | transcrição automatizada; citação |
-| P2021-06-26 | Shiva - A Reconstrução do Erro de Brahma e o Tikum (palestra) | — | transcrição automatizada; citação |
-| P2021-04-10 | O Fechamento dos Portais e o Impasse no Exílio Espiritual de Len Mion — Aprofundamento (palestra) | — | transcrição automatizada; citação |
-| P2026-03-21 | Samudra Manthan A Enigmatica Alquimia de Vishnu (palestra) | — | transcrição automatizada; citação |
-| P2022-07-16 | Do Ramayana ao Mahabharata (palestra) | — | transcrição automatizada; citação |
-| P2022-12-03 | O Ocaso do Criador e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
-| P2012-02-19 | Xadrez Cósmico de Brahma, Vishnu e Shiva (palestra) | — | transcrição automatizada; citação |
-| P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
-| P2022-05-07 | Shiva, o Projeto Talm e os Mistérios de Awaylengam (palestra) | — | transcrição automatizada; citação |
-| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
-| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
-| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
-| P2025-11-29 | bloco 2 (Trimurti × Moros; força tamásica) | palestra/STT pré-curada |
-
-
 

@@ -28,11 +28,6 @@ Com isso:
 
 **Origem do conteúdo da ampliação:** palestra `P2024-06-16 — O Projeto TALM, os Fenvans e os Humanos` (16/06/2024). Transcrição automatizada, **não conferida com o áudio**; cada aspa foi recortada do `original.txt` pelo índice de âncoras do motor e conferida byte a byte pelo portão B. Nada foi digitado de memória.
 
-## Ampliação
-### P2024-06-16 (O Projeto TALM, os Fenvans e os Humanos)
-
-- **[Supercomputador Cósmico — a planilha de Moros] (U0003)** «Moros criou uma planilha, vamos assim dizer, em um computador quântico para ser medido o peso da podridão ancestral em criptografado sob a forma de código fonte definidor que defini o corpo de cada ser individualizado.» — Moros (STT "Moros/Morus") mediu o peso da podridão ancestral no código-fonte definidor.
-
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
@@ -52,7 +47,13 @@ Com isso:
 | P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
 | B073 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
 
-## Observações sobre o Estado da Malha
+## Ampliação
+### P2024-06-16 (O Projeto TALM, os Fenvans e os Humanos)
+
+- **[Supercomputador Cósmico — a planilha de Moros] (U0003)** «Moros criou uma planilha, vamos assim dizer, em um computador quântico para ser medido o peso da podridão ancestral em criptografado sob a forma de código fonte definidor que defini o corpo de cada ser individualizado.» — Moros (STT "Moros/Morus") mediu o peso da podridão ancestral no código-fonte definidor.
+
+## Observações
+### Observações sobre o Estado da Malha
 
 * **Grafia STT:** 'Moros/Morus/Moras' = Moros. Nesta fonte é o 'Supercomputador Cósmico' (RC-533), a planilha quântica que mede a podridão ancestral; distinto de Moros como ente (RC-454).
 * **Trava aplicável**: nenhuma além das gerais do despacho.

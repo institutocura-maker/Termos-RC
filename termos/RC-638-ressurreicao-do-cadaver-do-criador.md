@@ -15,8 +15,46 @@ atualizado = "2026-08-29"
 ## Definição Sintética
 Reconstrução progressiva dos restos fragmentados de Prabrajna/Javé por meio de elétrons, antielétrons, formas microbianas e evolução das espécies.
 
+## Etimologia e Grafias
+- Grafia: Ressurreição do Cadáver do Criador.
+
+
 ## Contexto / Origem
 A ficha absorve “cadáver triturado” e “bits quânticos”: informações do corpo manásico fragmentado na memória das partículas.
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Anjos clones | RC-019 | ← sustentam |
+| Prabrajna | RC-152 | reconstrói |
+| Memória Quântica dos Elétrons | RC-161 | envolve |
+| Criação Indevida (Obra indevida) | RC-167 | associado |
+| A Rebelião dos Elétrons | RC-378 | relaciona-se-a |
+| Fragmentação do Poder Mental da Divindade | RC-387 | envolve |
+| Tikun Cósmico (restabelecimento da Criação) | RC-514 | relaciona-se-a |
+| Protozoários Antimateriais / Antiprotozoários | RC-639 | ← é-fase-de |
+| Transições de Fase / Face da Criação | RC-640 | associado |
+| Face Microbiana do Criador | RC-641 | ← é-fase-de |
+| Ishvara (Isuara — Retrato de Prabrajna Antes da Queda) | RC-691 | ← serve-de-modelo-para |
+| Ishvara (Isuara — Retrato de Prabrajna Antes da Queda) | RC-691 | tem-como-modelo |
+| Ishvara (Isuara — Retrato de Prabrajna Antes da Queda) | RC-691 | relaciona-se-a |
+| Oitavo Dia da Criação | RC-694 | associado |
+| Buraco Negro Mental / Consciencial | RC-717 | ← envolve |
+| Buraco Negro Mental / Consciencial | RC-717 | ← relaciona-se-a |
+| Especiação Humana — Levas Genéticas | RC-783 | associado |
+| Sophia como Protetorado da Humanidade | RC-784 | associado |
+
+## Seres Associados
+Consultar relações acima.
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
+| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
+| P2024-05-04 — Prabrajna em Perpérion / Simultaneidade Reversa | U0983–U1118; U1165–U1195 | PDF/transcrição pré-curada |
+
+
 
 ## Citações-chave
 > “A ressurreição [...] passa pelos elétrons [...] se reconstruírem nos moldes do antigo corpo.” — P2024-05-04
@@ -63,45 +101,7 @@ Cada humano é tratado como parte do quebra-cabeça genético necessário à rec
 Primado da Informação, Tikun e ação do humano não local são associados ao reparo da obra e reconstrução do Criador. O processo permanece cosmologia RC.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
 
-## Etimologia e Grafias
-- Grafia: Ressurreição do Cadáver do Criador.
-
-
-## Seres Associados
-Consultar relações acima.
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Anjos clones | RC-019 | ← sustentam |
-| Prabrajna | RC-152 | reconstrói |
-| Memória Quântica dos Elétrons | RC-161 | envolve |
-| Criação Indevida (Obra indevida) | RC-167 | associado |
-| A Rebelião dos Elétrons | RC-378 | relaciona-se-a |
-| Fragmentação do Poder Mental da Divindade | RC-387 | envolve |
-| Tikun Cósmico (restabelecimento da Criação) | RC-514 | relaciona-se-a |
-| Protozoários Antimateriais / Antiprotozoários | RC-639 | ← é-fase-de |
-| Transições de Fase / Face da Criação | RC-640 | associado |
-| Face Microbiana do Criador | RC-641 | ← é-fase-de |
-| Ishvara (Isuara — Retrato de Prabrajna Antes da Queda) | RC-691 | ← serve-de-modelo-para |
-| Ishvara (Isuara — Retrato de Prabrajna Antes da Queda) | RC-691 | tem-como-modelo |
-| Ishvara (Isuara — Retrato de Prabrajna Antes da Queda) | RC-691 | relaciona-se-a |
-| Oitavo Dia da Criação | RC-694 | associado |
-| Buraco Negro Mental / Consciencial | RC-717 | ← envolve |
-| Buraco Negro Mental / Consciencial | RC-717 | ← relaciona-se-a |
-| Especiação Humana — Levas Genéticas | RC-783 | associado |
-| Sophia como Protetorado da Humanidade | RC-784 | associado |
-
 ## Observações
 Expressão própria e sensível; relacionar ao Tikun e à Fragmentação.
 
 Status candidato por depender de palestra e alegações ainda não cruzadas integralmente com obras primárias.
-
-## Fontes
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
-| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
-| P2024-05-04 — Prabrajna em Perpérion / Simultaneidade Reversa | U0983–U1118; U1165–U1195 | PDF/transcrição pré-curada |
-
-

@@ -15,17 +15,11 @@ atualizado = "2026-08-15"
 ## Definição Sintética
 Termo extraído e aprovado na curadoria de P2025-05-31.
 
-## Contexto / Origem
-O Mistério da Árvore da Vida e a Urdidura de Metatron.
-
-## Citações-chave
-Ver transcrição.
-
 ## Etimologia e Grafias
 Forma preferida: Sangue como Cópia da Seiva.
 
-## Seres Associados
-Consultar Base.
+## Contexto / Origem
+O Mistério da Árvore da Vida e a Urdidura de Metatron.
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -34,8 +28,14 @@ Consultar Base.
 | Xamanismo Cósmico (comunicação e deslacre) | RC-577 | — |
 | Plantas de Moléculas Complexas | RC-686 | — |
 
-## Observações
-Teologia comparada e alegações científicas permanecem atribuídas ao palestrante.
+## Seres Associados
+Consultar Base.
 
 ## Fontes
 P2025-05-31.
+
+## Citações-chave
+Ver transcrição.
+
+## Observações
+Teologia comparada e alegações científicas permanecem atribuídas ao palestrante.

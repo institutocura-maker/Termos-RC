@@ -16,6 +16,12 @@ atualizado = "2026-08-29"
 
 A **ressonância mórfica** na RC não é apenas o mecanismo de herança de hábitos de Sheldrake tomado de empréstimo: é o **agente operacional da rebelião** (RC-378) e o **veículo por que campos de informação entre universos vizinhos se comunicam** — aquilo que permite que padrões mentais circulem entre o nosso universo e o universo de antimatéria. Nesta chave, a ressonância mórfica é **tecnologia de captura**: quem opera o campo opera os que nele estão sintonizados.
 
+## Etimologia e Grafias
+
+- **Canônico da Base:** *ressonância mórfica* (de *mor*, campo mórfico); distinto de **ressonância límbica** (RC-529), que a malha lhe liga por `relaciona-se-a` a partir de B072.
+- **Na fonte oral (P2023-10-14):** «campos mórficos» — a fonte usa o **plural de campo** e não pronuncia «Sheldrake» nesta palestra; o vínculo bibliográfico com o autor fica onde já está no cadastro (B041 e suas notas), **sem** retroprojeção.
+
+
 ## Contexto / Origem
 
 **Materialização (não é criação).** O código RC-381 vivia só no cadastro — linha `("RC-381", "Ressonância Mórfica (agente da rebelião)", COS_LEI[0], COS_LEI[1], P, ['B041', 'P2025-03-15', 'P2025-02-15', 'P2024-11-30', 'P2024-11-09', 'P2024-09-29', 'P2024-04-14'], 'RC-378; RC-162; RC-106; RC-094; RC-711; RC-724', False)` — sem arquivo em `termos/`, embora fosse uma das fichas mais procuradas do cadastro (seis fontes orais). A **Devolutiva do Curador de 28/08/2026 (item 11)** autorizou a materialização, e a fonte que a fundamenta — `P2023-10-14`, **14/10/2023** — é **anterior a todas** as fontes orais cadastradas nesta linha: a ficha passa, portanto, a ter primeira fonte-palestra com **ganho de anterioridade** (a nota corresponde a um caso que se repete em RC-008, RC-262 e RC-272). Com isso:
@@ -24,6 +30,45 @@ A **ressonância mórfica** na RC não é apenas o mecanismo de herança de háb
 - **777 termos** (nenhum código novo) e **1.856 relações** (nenhuma aresta criada — as cinco abaixo são as que já existiam no cadastro).
 
 **Origem do conteúdo da ampliação:** palestra `P2023-10-14 — A Esquecida Honra dos Anunnaki` (U0047 e região do megabloco U0033), do `original.txt` (transcrição automatizada, **não conferida com o áudio**); aspas recortadas byte a byte por `_gerar_ampliacoes_P2023-10-14.py`.
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Revelação Cósmica (conceito) | RC-094 | associado |
+| Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | vincula |
+| Elétrons (agente básico da vida universal) | RC-162 | associado |
+| A Rebelião dos Elétrons | RC-378 | ← envolve |
+| Infecção mental / contágio vibratório | RC-520 | associado |
+| Parasitismo energético (obsessão ampliada) | RC-522 | associado |
+| Vampirismo consciencial | RC-523 | associado |
+| Ressonância límbica (emoções como tecnologia cósmica) | RC-529 | ← relaciona-se-a |
+| Universo de Egrégoras Emocionais | RC-711 | relaciona-se-a |
+| Formas-Pensamento e Formas-Sentimento | RC-724 | ← relaciona-se-a |
+| Biocosmos emergente (a nova mente biológica global ancorada nos campos mórficos) | RC-879 | associado |
+
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo (citação/paráfrase) |
+|---|---|---|---|
+| P2021-02-28 | Tragédia Anunciada - As Fórmulas Mentais do Poder Demo (palestra) | — | transcrição automatizada; citação |
+| P2022-09-18 | Os Níveis de Estresse Extremo da Criação (palestra) | — | transcrição automatizada; citação |
+| P2022-10-01 | A Wyrd e a Espiritualidade (palestra) | — | transcrição automatizada; citação |
+| P2022-12-03 | O Ocaso do Criador e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
+| P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
+| P2022-05-07 | Shiva, o Projeto Talm e os Mistérios de Awaylengam (palestra) | — | transcrição automatizada; citação |
+| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra) | — | transcrição automatizada; citação |
+| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra) | — | transcrição automatizada; citação |
+| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra) | — | transcrição automatizada; citação |
+| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra) | — | transcrição automatizada; citação |
+| B041 | a preencher | — | paráfrase (registro do cadastro; página a conferir) |
+| P2024-04-14 | palestra | — | paráfrase (vínculo pré-existente do cadastro) |
+| P2024-09-29 | palestra | — | paráfrase (vínculo pré-existente do cadastro) |
+| P2024-11-09 | palestra | — | paráfrase (vínculo pré-existente do cadastro) |
+| P2024-11-30 | palestra | — | paráfrase (vínculo pré-existente do cadastro) |
+| P2025-02-15 | palestra | — | paráfrase (vínculo pré-existente do cadastro) |
+| P2025-03-15 | palestra | — | paráfrase (vínculo pré-existente do cadastro) |
+
+
+
 
 ## Citações-chave
 
@@ -86,27 +131,6 @@ A **ressonância mórfica** na RC não é apenas o mecanismo de herança de háb
 - **[Constelação familiar e o campo mórfico: desentrelaçamento quântico] (U0073)** «Talvez a a a própria Solange Matilde que faz a questão da constelação e eu tô fazendo um curso de de constelação também e vejo que quando finaliza a constelação eh dá a sensação que é o que a gente quando a gente acessa o campo mórfico daquela situação familiar ali, a constelação se desenrol se desenrola um um um desentrelaçamento quântico ali e as de alguma forma aquela situação apazígua.» — a resposta do autor: "Então sim, a constelação familiar é um instrumento maravilhoso, tem a ver com a tragédia grega, é a própria tragédia grega sendo encenada dentro de mecanismos que estão sendo aplicados por terapeutas, com isso tudo é muito agora, não é todo tipo de prática de constelação familiar que produz de constelação que produz necessariamente bons resultados, porque aí depende de uma série de circunstâncias, desde quem está no comando os atores, o propósito daquilo, tá?" (U0078: «Então sim, a constelação familiar é um instrumento maravilhoso, tem a ver com a tragédia grega, é a própria tragédia grega sendo encenada dentro de mecanismos que estão sendo aplicados por terapeutas, com isso tudo é muito agora, não é todo tipo de prática de constelação familiar que produz de constelação que produz necessariamente bons resultados, porque aí depende de uma série de circunstâncias, desde quem está no comando os atores, o propósito daquilo, tá?»); Bert Hellinger (STT «Bert Heringer») e Rupert Sheldrake (STT «Rubert Sheldrake») citados (paráfrase U0073); RC-381 Ressonância Mórfica.
 
 
-## Etimologia e Grafias
-
-- **Canônico da Base:** *ressonância mórfica* (de *mor*, campo mórfico); distinto de **ressonância límbica** (RC-529), que a malha lhe liga por `relaciona-se-a` a partir de B072.
-- **Na fonte oral (P2023-10-14):** «campos mórficos» — a fonte usa o **plural de campo** e não pronuncia «Sheldrake» nesta palestra; o vínculo bibliográfico com o autor fica onde já está no cadastro (B041 e suas notas), **sem** retroprojeção.
-
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Revelação Cósmica (conceito) | RC-094 | associado |
-| Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | vincula |
-| Elétrons (agente básico da vida universal) | RC-162 | associado |
-| A Rebelião dos Elétrons | RC-378 | ← envolve |
-| Infecção mental / contágio vibratório | RC-520 | associado |
-| Parasitismo energético (obsessão ampliada) | RC-522 | associado |
-| Vampirismo consciencial | RC-523 | associado |
-| Ressonância límbica (emoções como tecnologia cósmica) | RC-529 | ← relaciona-se-a |
-| Universo de Egrégoras Emocionais | RC-711 | relaciona-se-a |
-| Formas-Pensamento e Formas-Sentimento | RC-724 | ← relaciona-se-a |
-| Biocosmos emergente (a nova mente biológica global ancorada nos campos mórficos) | RC-879 | associado |
-
 ## Observações
 
 1. **Ganho desta fonte, em uma frase:** a ressonância mórfica deixa de ser só *herança de padrões* e passa a ser **instrumento de operação de seres de outro universo** («campos mórficos que são usados por seres desse universo vizinho») — com corolário direto na tese do roubo do senso crítico (ver RC-745/RC-742). A ficha registra essa função **como dita em 14/10/2023**.
@@ -116,27 +140,3 @@ A **ressonância mórfica** na RC não é apenas o mecanismo de herança de háb
 5. **Vínculos de leitura desta fonte** (sem nova aresta): RC-106, RC-378, RC-024, RC-745, RC-742, RC-529.
 
 **Regra de status:** 🟡 provisório — a ficha existe e está fundamentada em fonte publicada (B041) e em fontes orais do acervo; nenhuma citação foi conferida com o áudio. A aprovação curatorial valida a **modelagem terminológica**, não a veracidade factual das alegações.
-
-## Fontes
-| Obra (sigla) | Capítulo | Página | Tipo (citação/paráfrase) |
-|---|---|---|---|
-| P2021-02-28 | Tragédia Anunciada - As Fórmulas Mentais do Poder Demo (palestra) | — | transcrição automatizada; citação |
-| P2022-09-18 | Os Níveis de Estresse Extremo da Criação (palestra) | — | transcrição automatizada; citação |
-| P2022-10-01 | A Wyrd e a Espiritualidade (palestra) | — | transcrição automatizada; citação |
-| P2022-12-03 | O Ocaso do Criador e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
-| P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
-| P2022-05-07 | Shiva, o Projeto Talm e os Mistérios de Awaylengam (palestra) | — | transcrição automatizada; citação |
-| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra) | — | transcrição automatizada; citação |
-| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra) | — | transcrição automatizada; citação |
-| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra) | — | transcrição automatizada; citação |
-| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra) | — | transcrição automatizada; citação |
-| B041 | a preencher | — | paráfrase (registro do cadastro; página a conferir) |
-| P2024-04-14 | palestra | — | paráfrase (vínculo pré-existente do cadastro) |
-| P2024-09-29 | palestra | — | paráfrase (vínculo pré-existente do cadastro) |
-| P2024-11-09 | palestra | — | paráfrase (vínculo pré-existente do cadastro) |
-| P2024-11-30 | palestra | — | paráfrase (vínculo pré-existente do cadastro) |
-| P2025-02-15 | palestra | — | paráfrase (vínculo pré-existente do cadastro) |
-| P2025-03-15 | palestra | — | paráfrase (vínculo pré-existente do cadastro) |
-
-
-

@@ -15,8 +15,37 @@ atualizado = "2026-08-28"
 ## Definição Sintética
 Analogia usada pelo palestrante para descrever seres quase perfeitos que funcionam plenamente em rede, mas teriam dificuldade para compreender caos, malícia e sofrimento fora dos protocolos originais.
 
+## Etimologia e Grafias
+- Expressão preferida: Autismo Funcional dos Seres da Espiritualidade Superior.
+- **Fonte de decisão:** Quadro 9 aprovado pelo curador.
+
+
 ## Contexto / Origem
 A analogia é aplicada a seres do Paraíso, da Operacional e da Laboratorial, com graus distintos de funcionalidade.
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Gênero Adhy (147 seres, 5 espécies) | RC-411 | aplica-se-a |
+| Ser LM (gênero de Tempérion) | RC-456 | aplica-se-a |
+| Seres Originais do Paraíso | RC-600 | aplica-se-a |
+| Protocolos / Algoritmos da Perfeição | RC-606 | relaciona-se-a |
+| Conclave da Espiritualidade Laboratorial | RC-635 | associado |
+| Abismo da Consciência Cósmica | RC-721 | ← relaciona-se-a |
+| Abismo da Consciência Cósmica | RC-721 | relaciona-se-a |
+| Abismo da Providência / Falsa Providência | RC-723 | ← relaciona-se-a |
+| Abismo da Providência / Falsa Providência | RC-723 | relaciona-se-a |
+| Disforia de gênio (a confiança ilimitada na pretensa capacidade) | RC-878 | associado |
+
+## Seres Associados
+Consultar as relações tipadas acima.
+
+## Fontes
+| Obra/palestra | Localização | Tipo |
+|---|---|---|
+| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
+| P2021-12-04 — Os Archeons de Ereon e os Seres Adhy | U0108–U0147; U0296–U0301; U0375–U0415; U0487–U0505 | STT pré-curado e validado |
+
 
 ## Citações-chave
 > “Seria o autismo funcional [...] ele desempenha absolutamente a função da sua vida, funcionando em rede.” — P2021-12-04, U0108–U0147; U0296–U0301; U0375–U0415; U0487–U0505
@@ -48,38 +77,9 @@ A analogia é aplicada a seres do Paraíso, da Operacional e da Laboratorial, co
 A palestra usa “pureza extrema” e “autismo funcional” como metáforas cosmológicas para a alegada incapacidade de seres superiores reconhecerem o caos. **Blindagem clínica:** isso não descreve o transtorno do espectro autista, não estabelece etiologia e não pode ser aplicado a pessoas autistas. A afirmação sobre primeiras encarnações foi bloqueada sem código.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
 
-## Etimologia e Grafias
-- Expressão preferida: Autismo Funcional dos Seres da Espiritualidade Superior.
-- **Fonte de decisão:** Quadro 9 aprovado pelo curador.
-
-
-## Seres Associados
-Consultar as relações tipadas acima.
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Gênero Adhy (147 seres, 5 espécies) | RC-411 | aplica-se-a |
-| Ser LM (gênero de Tempérion) | RC-456 | aplica-se-a |
-| Seres Originais do Paraíso | RC-600 | aplica-se-a |
-| Protocolos / Algoritmos da Perfeição | RC-606 | relaciona-se-a |
-| Conclave da Espiritualidade Laboratorial | RC-635 | associado |
-| Abismo da Consciência Cósmica | RC-721 | ← relaciona-se-a |
-| Abismo da Consciência Cósmica | RC-721 | relaciona-se-a |
-| Abismo da Providência / Falsa Providência | RC-723 | ← relaciona-se-a |
-| Abismo da Providência / Falsa Providência | RC-723 | relaciona-se-a |
-| Disforia de gênio (a confiança ilimitada na pretensa capacidade) | RC-878 | associado |
-
 ## Observações
 RESSALVA OBRIGATÓRIA: analogia especulativa do palestrante; não equivale a diagnóstico clínico nem a juízo sobre pessoas autistas.
 
 **Regra de status:** permanece candidato por depender de transcrição automatizada sem áudio anexado.
 
 ---
-
-## Fontes
-| Obra/palestra | Localização | Tipo |
-|---|---|---|
-| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
-| P2021-12-04 — Os Archeons de Ereon e os Seres Adhy | U0108–U0147; U0296–U0301; U0375–U0415; U0487–U0505 | STT pré-curado e validado |
-

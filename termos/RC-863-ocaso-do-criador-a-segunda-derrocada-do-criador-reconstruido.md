@@ -28,11 +28,6 @@ Com isso:
 
 **Origem do conteúdo da ampliação:** palestra `P2022-09-18 — Os Níveis de Estresse Extremo da Criação` (18/09/2022). Transcrição automatizada, **não conferida com o áudio**; cada aspa foi recortada do `original.txt` pelo índice de âncoras do motor e conferida byte a byte pelo portão B. Nada foi digitado de memória.
 
-## Ampliação
-### P2022-09-18 (Os Níveis de Estresse Extremo da Criação)
-
-- **[O ocaso de Javé acompanhado pelas abelhas] (U0012)** «Mas eu pude acompanhar o ocaso de Javer junto com a colônia das abelhas.» — a fila aberta (RC-863 Ocaso do Criador, ficha=False): "quando as abelhas ferraram, Jaé começou a se" (U0012, span truncado no bruto; sem emenda); "minha vida foi de 2007 até 2018 desse jeito. Mas eu pude acompanhar o ocaso de Javer junto com a colônia das abelhas"; "se para algo se viu esses anos, foi para perceber isso, que aquele ser, se aquele ser foi Javé, aconteceu exatamente o caso do corpo dele, ou seja, o colapso, e o eu dele foi desativado"; "isso aqui, pessoal, é o sinal da distopia, da tentativa de Jahé de em se reconstruindo a partir da própria podridão de arranjar uma condição de redenção para ele. Deu errado" (U0012: «Simplesmente deu errado»); "e o que é que vai acontecer no caso dos seres humanos? O corpo do ser humano apodrece, colapsa, deixa desistir, enquanto o eu do ser humano é transferido para onde pro espírito, mas jamais desativado" (U0048: «mas jamais desativado»).
-
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
@@ -48,7 +43,13 @@ Com isso:
 |---|---|---|---|
 | P2022-09-18 | Os Níveis de Estresse Extremo da Criação (palestra) | — | transcrição automatizada; citação |
 
-## Observações sobre o Estado da Malha
+## Ampliação
+### P2022-09-18 (Os Níveis de Estresse Extremo da Criação)
+
+- **[O ocaso de Javé acompanhado pelas abelhas] (U0012)** «Mas eu pude acompanhar o ocaso de Javer junto com a colônia das abelhas.» — a fila aberta (RC-863 Ocaso do Criador, ficha=False): "quando as abelhas ferraram, Jaé começou a se" (U0012, span truncado no bruto; sem emenda); "minha vida foi de 2007 até 2018 desse jeito. Mas eu pude acompanhar o ocaso de Javer junto com a colônia das abelhas"; "se para algo se viu esses anos, foi para perceber isso, que aquele ser, se aquele ser foi Javé, aconteceu exatamente o caso do corpo dele, ou seja, o colapso, e o eu dele foi desativado"; "isso aqui, pessoal, é o sinal da distopia, da tentativa de Jahé de em se reconstruindo a partir da própria podridão de arranjar uma condição de redenção para ele. Deu errado" (U0012: «Simplesmente deu errado»); "e o que é que vai acontecer no caso dos seres humanos? O corpo do ser humano apodrece, colapsa, deixa desistir, enquanto o eu do ser humano é transferido para onde pro espírito, mas jamais desativado" (U0048: «mas jamais desativado»).
+
+## Observações
+### Observações sobre o Estado da Malha
 
 * **Materializada (devolutiva):** saiu da fila aberta — ficha criada nesta devolutiva (ficha=False → True) com a pérola validada deste ciclo: o relato em primeira pessoa do ocaso de Javé acompanhado pela colônia das abelhas, o colapso do código fonte definidor e o eu ancorado no DNA humano.
 * **Trava aplicável**: nenhuma além das gerais do despacho.

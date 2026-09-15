@@ -28,18 +28,6 @@ Com isso:
 
 **Origem do conteúdo da ampliação:** palestra `P2022-05-07 — Shiva, o Projeto Talm e os Mistérios de Awaylengam` (07/05/2022). Transcrição automatizada, **não conferida com o áudio**; cada aspa foi recortada do `original.txt` pelo índice de âncoras do motor e conferida byte a byte pelo portão B. Nada foi digitado de memória.
 
-## Citações-chave
-
-> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
-
-- «Esse outro ser chamado rara, que é entendido como sendo ser de obscuridade que dissolve o universo, ele vai se desconstituir só no final das coisas, eh, lá junto com o as forças de Ailingan, que é Eh, o forno criador de Chiva no universo de cá e junto com a base de tudo que foi criado e que não tem […]» — *ver:* **Ampliação — P2022-05-07 (Shiva, o Projeto Talm e os Misté…** U0003
-
-
-## Ampliação
-### P2022-05-07 (Shiva, o Projeto Talm e os Mistérios de Awaylengam)
-
-- **[Hara — o ser de obscuridade que dissolve o universo] (U0003)** «Esse outro ser chamado rara, que é entendido como sendo ser de obscuridade que dissolve o universo, ele vai se desconstituir só no final das coisas, eh, lá junto com o as forças de Ailingan, que é Eh, o forno criador de Chiva no universo de cá e junto com a base de tudo que foi criado e que não tem serventia, porque Rara vai se desconstituir junto com o final do universo.» — Hara/Rudra (STT "rara") desconstitui-se junto com o forno de Awaylengan e o fim do universo.
-
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
@@ -55,7 +43,20 @@ Com isso:
 | B051 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
 | B024 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
 
-## Observações sobre o Estado da Malha
+## Citações-chave
+
+> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+
+- «Esse outro ser chamado rara, que é entendido como sendo ser de obscuridade que dissolve o universo, ele vai se desconstituir só no final das coisas, eh, lá junto com o as forças de Ailingan, que é Eh, o forno criador de Chiva no universo de cá e junto com a base de tudo que foi criado e que não tem […]» — *ver:* **Ampliação — P2022-05-07 (Shiva, o Projeto Talm e os Misté…** U0003
+
+
+## Ampliação
+### P2022-05-07 (Shiva, o Projeto Talm e os Mistérios de Awaylengam)
+
+- **[Hara — o ser de obscuridade que dissolve o universo] (U0003)** «Esse outro ser chamado rara, que é entendido como sendo ser de obscuridade que dissolve o universo, ele vai se desconstituir só no final das coisas, eh, lá junto com o as forças de Ailingan, que é Eh, o forno criador de Chiva no universo de cá e junto com a base de tudo que foi criado e que não tem serventia, porque Rara vai se desconstituir junto com o final do universo.» — Hara/Rudra (STT "rara") desconstitui-se junto com o forno de Awaylengan e o fim do universo.
+
+## Observações
+### Observações sobre o Estado da Malha
 
 * **Hara/Rudra:** o STT grafa 'rara'. O ser de obscuridade que dissolve o universo desconstitui-se junto com o forno de Awaylengan.
 * **Trava aplicável**: nenhuma além das gerais do despacho.

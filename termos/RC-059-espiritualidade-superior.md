@@ -15,13 +15,13 @@ atualizado = "2026-09-07"
 ## Definição Sintética
 O nível mais alto dos três em que a Revelação Cósmica divide a realidade não caída: o «todo» que contém tudo — inclusive a Criação Indevida, que nela existe como uma «cabeça de alfinete» blindada. É a condição dos Seres Originais (RC-600), que vivem sob os Protocolos / Algoritmos da Perfeição (RC-606), sem tempo, sem distância e sem mérito. Corresponde, na leitura de Ellam, ao «Paraíso» e ao que a tradição gnóstica chamou de Pleroma.
 
-## Contexto / Origem
-A Espiritualidade Superior é o «lado de fora» do universo: o que não é acidente, não caiu e não precisa de conserto. É dela que partem as mônadas que estruturam os seres da criação caída — «a Espiritualidade Superior, vendo o drama do Criador caído, deu de si mônadas para estruturar os clones que Brahma criava». A Departamentalização da Vida (RC-601) e os corpos búdico (RC-060) e manásico (RC-061) são desdobramentos experimentais a partir deste nível. Distingue-se do Deus Incognoscível / Deidade (RC-052), que não é um nível e sim a Fonte.
-
 ## Etimologia e Grafias
 - Grafia preferida: Espiritualidade Superior
 - Variações: o Todo; o Paraíso; Pleroma (correspondência aproximada, [REVISAR → CHANCELA 10/09/2026 · F040-L5: APROXIMAÇÃO DECLARADA E MANTIDA — ver nota])
 - Uso na Base: nível 1 de 3 (Superior → Operacional → Laboratorial)
+
+## Contexto / Origem
+A Espiritualidade Superior é o «lado de fora» do universo: o que não é acidente, não caiu e não precisa de conserto. É dela que partem as mônadas que estruturam os seres da criação caída — «a Espiritualidade Superior, vendo o drama do Criador caído, deu de si mônadas para estruturar os clones que Brahma criava». A Departamentalização da Vida (RC-601) e os corpos búdico (RC-060) e manásico (RC-061) são desdobramentos experimentais a partir deste nível. Distingue-se do Deus Incognoscível / Deidade (RC-052), que não é um nível e sim a Fonte.
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -45,12 +45,6 @@ A Espiritualidade Superior é o «lado de fora» do universo: o que não é acid
 - RC-012 — ver ficha correspondente
 - RC-100 — ver ficha correspondente
 
-## Observações
-Nível de referência de toda a cosmografia da RC — eixo do Volume II da Enciclopédia e caixa «O FORA» do Mapa de Abstração (N0). A correspondência com Pleroma é leitura comparada, não identidade declarada pelo autor.
-
-
-> Notas de processo: 2 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-059.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
-
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
@@ -67,3 +61,9 @@ Nível de referência de toda a cosmografia da RC — eixo do Volume II da Encic
 | P2024-11-09 | — | registro-mestre (fonte censada) |
 | P2024-07-14 | — | registro-mestre (fonte censada) |
 | P2020-04-04 | — | registro-mestre (fonte censada) |
+
+## Observações
+Nível de referência de toda a cosmografia da RC — eixo do Volume II da Enciclopédia e caixa «O FORA» do Mapa de Abstração (N0). A correspondência com Pleroma é leitura comparada, não identidade declarada pelo autor.
+
+
+> Notas de processo: 2 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-059.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

@@ -15,8 +15,61 @@ atualizado = "2026-08-29"
 ## Definição Sintética
 Período de inquietações de **Yel Luzbel (Lúcifer)** iniciado há **742 mil anos** no Sistema de Capela, que gerou um "vírus" que contaminou mais de **213 bilhões de seres** (pandemia generalizada). Essa pandemia levou a uma rebelião por volta de **687 mil anos**, culminando no **isolamento cósmico** de seres em **19 planetas** há aproximadamente **619 mil anos** (B031). (Definição do glossário de B031; cronologia a confirmar nas obras primárias.)
 
+## Etimologia e Grafias
+- **Grafia preferida:** Rebelião de Lúcifer
+- **Variações:** Queda de Lúcifer; Rebelião dos Anjos (denominação tradicional)
+- **Obs.:** na narrativa RC, a rebelião é de biodemos (Yel Luzbel, da Família Yel), não de "anjos" no sentido tradicional
+
+
 ## Contexto / Origem
 É o grande evento de ruptura do corpus RC: explica a origem dos Exilados de Capela, o isolamento da Terra e a necessidade da Reintegração Cósmica. Conecta-se à doutrina cristã dos anjos decaídos e ao drama de Javé.
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Javé | RC-001 | envolve |
+| Reintegração Cósmica | RC-003 | encerra-se-com |
+| Exilados de Capela | RC-007 | gera |
+| Antares (Sistema) | RC-021 | ocorre-em (parte) |
+| Capela (Sistema) | RC-039 | inicia-em |
+| Isolamento Cósmico | RC-070 | resulta-em |
+| Len Mion (Satã) | RC-074 | associado |
+| Lúcifer (Yel Luzbel) | RC-078 | ← inicia |
+| Mastlans Phisosferas / Luciferianas | RC-079 | associado |
+| Yel Luzbel | RC-142 | associado |
+| Viajores da Rebelião | RC-248 | associado |
+| Quarentena Sideral / Cósmica | RC-342 | ← impõe-se-a |
+| Sentimento Luciferiano | RC-345 | associado |
+| Exílios Interplanetários | RC-349 | ← origina-em |
+| Ilha Cósmica (mundos rebelados) | RC-353 | associado |
+| Cartas a Javé (obra e diálogo) | RC-416 | ← baseada-em |
+| Revolta Capelina | RC-450 | ← relaciona-se-a |
+| Era da Solidão de Javé (500 Milhões de Anos) | RC-808 | associado |
+| Rebelião dos Elétrons (Além da Entropia) | RC-826 | associado |
+| Yel Luzbel Como Aventureiro Isolado (2.000 Anos) | RC-830 | associado |
+| Sophia Como Biodemo da Ordem e Caos | RC-831 | associado |
+| 13 Livros de Lúcifer com Humanos (Necessários Antes do Fim) | RC-833 | associado |
+| Melkor (o filho dissonante) | RC-844 | associado |
+
+## Seres Associados
+Yel Luzbel (RC-078); Len Mion (RC-074); Família Yel (RC-136); Família Val (RC-109); Sophia (RC-009, impôs o isolamento).
+
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo |
+|---|---|---|---|
+| P2021-02-28 | Tragédia Anunciada - As Fórmulas Mentais do Poder Demo (palestra) | — | transcrição automatizada; citação |
+| P2023-02-11 | Agente Humano Jesus e os Arcontes (palestra) | — | transcrição automatizada; citação |
+| P2023-08-27 | Len Mion e os Senhores da Terra Alexandre Magno e Qin Shi Huang Di (palestra) | — | transcrição automatizada; citação |
+| P2022-05-07 | Shiva, o Projeto Talm e os Mistérios de Awaylengam (palestra) | — | transcrição automatizada; citação |
+| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra) | — | transcrição automatizada; citação |
+| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra) | — | transcrição automatizada; citação |
+| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra) | — | transcrição automatizada; citação |
+| Painéis Emergentes... (B031) | Glossário de Termos | p. 140 (aprox.) | verbete "Rebelião de Lúcifer" |
+| Painéis Emergentes... (B031) | Cronologia Aproximada dos Eventos | — | a conferir |
+| A Sétima Trombeta do Apocalipse (B004) | a preencher | — | pendente (obra primária) |
+
+
+
 
 ## Citações-chave
 > "Período de inquietações de Yel Luzbel (Lúcifer) que se iniciou há 742 mil anos no Sistema de Capela, gerando uma espécie de vírus que contaminou mais de 213 bilhões de seres, causando uma pandemia generalizada." — B031, verbete "Rebelião de Lúcifer"
@@ -156,59 +209,6 @@ Período de inquietações de **Yel Luzbel (Lúcifer)** iniciado há **742 mil a
 > Notas de processo: 4 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-002.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
 
-## Etimologia e Grafias
-- **Grafia preferida:** Rebelião de Lúcifer
-- **Variações:** Queda de Lúcifer; Rebelião dos Anjos (denominação tradicional)
-- **Obs.:** na narrativa RC, a rebelião é de biodemos (Yel Luzbel, da Família Yel), não de "anjos" no sentido tradicional
-
-
-## Seres Associados
-Yel Luzbel (RC-078); Len Mion (RC-074); Família Yel (RC-136); Família Val (RC-109); Sophia (RC-009, impôs o isolamento).
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | envolve |
-| Reintegração Cósmica | RC-003 | encerra-se-com |
-| Exilados de Capela | RC-007 | gera |
-| Antares (Sistema) | RC-021 | ocorre-em (parte) |
-| Capela (Sistema) | RC-039 | inicia-em |
-| Isolamento Cósmico | RC-070 | resulta-em |
-| Len Mion (Satã) | RC-074 | associado |
-| Lúcifer (Yel Luzbel) | RC-078 | ← inicia |
-| Mastlans Phisosferas / Luciferianas | RC-079 | associado |
-| Yel Luzbel | RC-142 | associado |
-| Viajores da Rebelião | RC-248 | associado |
-| Quarentena Sideral / Cósmica | RC-342 | ← impõe-se-a |
-| Sentimento Luciferiano | RC-345 | associado |
-| Exílios Interplanetários | RC-349 | ← origina-em |
-| Ilha Cósmica (mundos rebelados) | RC-353 | associado |
-| Cartas a Javé (obra e diálogo) | RC-416 | ← baseada-em |
-| Revolta Capelina | RC-450 | ← relaciona-se-a |
-| Era da Solidão de Javé (500 Milhões de Anos) | RC-808 | associado |
-| Rebelião dos Elétrons (Além da Entropia) | RC-826 | associado |
-| Yel Luzbel Como Aventureiro Isolado (2.000 Anos) | RC-830 | associado |
-| Sophia Como Biodemo da Ordem e Caos | RC-831 | associado |
-| 13 Livros de Lúcifer com Humanos (Necessários Antes do Fim) | RC-833 | associado |
-| Melkor (o filho dissonante) | RC-844 | associado |
-
 ## Observações
 A cronologia (742 mil / 687 mil / 619 mil anos) vem do glossário de B031 e **precisa ser confirmada** na Cronologia Aproximada do próprio livro e nas obras primárias de Ellam. Verificar também o papel de Jesus na narrativa.
-
-
-## Fontes
-| Obra (sigla) | Capítulo | Página | Tipo |
-|---|---|---|---|
-| P2021-02-28 | Tragédia Anunciada - As Fórmulas Mentais do Poder Demo (palestra) | — | transcrição automatizada; citação |
-| P2023-02-11 | Agente Humano Jesus e os Arcontes (palestra) | — | transcrição automatizada; citação |
-| P2023-08-27 | Len Mion e os Senhores da Terra Alexandre Magno e Qin Shi Huang Di (palestra) | — | transcrição automatizada; citação |
-| P2022-05-07 | Shiva, o Projeto Talm e os Mistérios de Awaylengam (palestra) | — | transcrição automatizada; citação |
-| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra) | — | transcrição automatizada; citação |
-| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra) | — | transcrição automatizada; citação |
-| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra) | — | transcrição automatizada; citação |
-| Painéis Emergentes... (B031) | Glossário de Termos | p. 140 (aprox.) | verbete "Rebelião de Lúcifer" |
-| Painéis Emergentes... (B031) | Cronologia Aproximada dos Eventos | — | a conferir |
-| A Sétima Trombeta do Apocalipse (B004) | a preencher | — | pendente (obra primária) |
-
-
 

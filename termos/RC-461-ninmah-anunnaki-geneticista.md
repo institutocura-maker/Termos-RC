@@ -16,6 +16,24 @@ atualizado = "2026-08-28"
 
 Anunnaki geneticista, irmã de Enki (RC-486) e Enlil (RC-487) — também chamada **Ninhursag**; craque na **manipulação genética** das linhagens.
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Anunnaki | RC-024 | é-um |
+| Viajores | RC-134 | associado |
+| Enki (Anunnaki; inoculou o gene FOXP2) | RC-486 | relaciona-se-a |
+| Enlil (deus sumério, par de Enki) | RC-487 | irmã-de |
+
+## Fontes
+
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
+| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
+| P2021-03-27 | bloco 10 (geopolítica cósmica); pergunta Ricardo Andrade | palestra/STT pré-curada |
+
+
+
 ## Citações-chave
 
 > "Marduk e essa irmã deles, Ninhursag... é craque na manipulação genética, mas ela foi embora. Mas a linhagem dela ficou e é uma linhagem que não foi traduzida nas páginas das tábuas sumérias." — P2021-03-27
@@ -43,25 +61,7 @@ Anunnaki geneticista, irmã de Enki (RC-486) e Enlil (RC-487) — também chamad
 - A "turma da irmã" é descrita como "a mais agradável" da história anunnaki (resposta à pergunta de Ricardo Andrade).
 
 
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Anunnaki | RC-024 | é-um |
-| Viajores | RC-134 | associado |
-| Enki (Anunnaki; inoculou o gene FOXP2) | RC-486 | relaciona-se-a |
-| Enlil (deus sumério, par de Enki) | RC-487 | irmã-de |
-
 ## Observações
 
 Base secreta nos EUA, derretimento de silos na Guerra Fria e habitat em mares/águas são **inferências narrativas do autor** (quarentena ufopolítica) — a Arca não as chancela como fatos.
-
-
-## Fontes
-
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
-| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
-| P2021-03-27 | bloco 10 (geopolítica cósmica); pergunta Ricardo Andrade | palestra/STT pré-curada |
-
 

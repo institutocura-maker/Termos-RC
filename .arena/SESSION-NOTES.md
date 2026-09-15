@@ -3864,3 +3864,44 @@ reconstruídos.
 Pendente: as 147 fichas com lote [conflito (e)] · 70 títulos / 196 ocorrências
 de dispositivos editoriais próprios (decisão editorial de os manter) · 122
 duplicados pré-existentes (fora de escopo).
+
+---
+
+## U90 — A4 ENCERRADA: 150 → 102 assinaturas · vocabulário de 12 títulos, ordem mestre única
+
+**Despacho do Curador:** (e‑1) adoptar a ordem do *driver* como ordem mestre —
+unificação total sem tocar no código; (e‑2) os 70 títulos editoriais descem a
+H3 sob a secção‑mãe.
+
+### 1. Nova ordem mestre
+`Definição Sintética` · `Etimologia e Grafias` · `Contexto / Origem` ·
+`Escopo e evidência` · `Termos Relacionados` · `Seres Associados` · `Fontes` ·
+`Citações-chave` · `Ampliação` · `Atualização` · `Reforço` · `Observações`.
+As 7 secções do *driver* ocupam as posições 0, 2, 3, 4, 6, 7 e 11 —
+**estritamente crescentes** —, pelo que a ordem do driver fica preservada e as
+147 fichas com lote **já estavam** nesta ordem (reordenação nula para elas).
+
+### 2. Resultado
+673 fichas afectadas (as 147 intactas) · **191 títulos editoriais → H3** ·
+103 secções‑mãe criadas · **assinaturas 150 → 102** · **0 fichas fora da ordem
+mestre** · 1 único H2 fora do vocabulário (`6. Histórico Curatorial e
+Auditoria`, nas 5 fichas com lote) · duplicados estáveis em 122 ·
+**0 conteúdo alterado**.
+
+### 3. Três erros meus, todos apanhados pelos testes
+1. Fundir duplicados **pré-existentes** (as duas `## Fontes` da RC‑089) →
+   tabelas de 5 e 4 colunas concatenadas; o **T7** detectou 17 fichas.
+2. Asserção mal formulada («nenhuma secção nova») disparou na RC‑010, que
+   ganha uma `Observações` legítima (0 → 1). Corrigida para «nenhum
+   duplicado novo».
+3. Um editorial pode criar a secção‑mãe antes de a ficha ter a sua própria; a
+   secção real funde‑se no *placeholder*, nunca num duplicado pré‑existente.
+
+### 4. Validação
+Suíte **21/21 OK** · Portão B **778/778** · **35/35 lotes idempotentes** ·
+verificador 946/820/1887 · conteúdo conferido contra o HEAD: **0 fichas com
+conteúdo alterado** · espelhos reconstruídos 946/820/1887/104.
+
+### 5. Estado
+`A1 ✅ · A2 ✅ · A3 ✅ · A4 ✅ ENCERRADA · A5 ⏳ reextração · A6 ✅ · A7 ✅ · A8 ✅`
+`471 → 188 (U87) → 178 (U88) → 150 (U89) → 102 (U90)`

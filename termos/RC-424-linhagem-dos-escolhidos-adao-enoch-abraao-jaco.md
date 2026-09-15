@@ -22,8 +22,33 @@ A **linhagem genética "preparada desde 'seu Adão'"** por Javé — revelada na
 | **Abraão** | O homem do pacto definitivo; fundação da Torah; base jurídica e política da relação de Javé com a humanidade |
 | **Jacó** | O detentor da "genética preciosa"; distribuiu a versão preferencial do DNA de Javé para forjar uma posteridade que dominasse a complexidade da Terra |
 
+## Etimologia e Grafias
+- **Grafia preferida:** Linhagem dos Escolhidos
+- **Variações:** o Projeto Humano; a linhagem preparada desde Adão; os escolhidos de Javé
+
+
 ## Contexto / Origem
 O B036 detalha a linhagem como engenharia genética divina: Javé admite ter "manipulado ferramentas corporais para tentar consertar o que chama de 'equívoco impetuoso' de sua Criação original". O sucesso biológico de Jacó "criou a necessidade de líderes que transformassem essa linhagem em uma força política" (José, Moisés, Maomé — e a decepção com Jesus). A Linhagem dos Escolhidos conecta-se à Linhagem dos Patriarcas Hebreus (RC-270, B013) e ao Favor Divino.
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Javé | RC-001 | associado |
+| CFD (Código Fonte Definidor) | RC-040 | ← inserido-em |
+| Revelação Cósmica (conceito) | RC-094 | associado |
+| DNA como Projeção Holográfica do Psiquismo do Criador | RC-217 | associado |
+| Linhagem dos Patriarcas Hebreus | RC-270 | é-um |
+| Joctan e Faleg (filhos de Heber) | RC-437 | ← relaciona-se-a |
+| Enoque (sétimo patriarca; levado por Javé) | RC-489 | associado |
+| Caim (leitura RC: segundo a nascer) | RC-490 | associado |
+| Noreia (Norea) | RC-579 | associado |
+| Linhagem de Seth | RC-594 | ← relaciona-se-a |
+| Melquizedec | RC-650 | ← relaciona-se-a |
+| Torá / Pentateuco | RC-683 | associado |
+| Abel | RC-684 | associado |
+| Tormento dos Eleitos de Javé | RC-685 | associado |
+| Moisés e o Êxodo (leitura RC) | RC-750 | ← relaciona-se-a |
+| Elo Adâmico (o gene que Javé pôs em Adão) | RC-857 | associado |
 
 ## Ampliação
 ### P2025-02-16
@@ -80,28 +105,3 @@ O B036 detalha a linhagem como engenharia genética divina: Javé admite ter "ma
 ---
 ---
 ---
-
-## Etimologia e Grafias
-- **Grafia preferida:** Linhagem dos Escolhidos
-- **Variações:** o Projeto Humano; a linhagem preparada desde Adão; os escolhidos de Javé
-
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | associado |
-| CFD (Código Fonte Definidor) | RC-040 | ← inserido-em |
-| Revelação Cósmica (conceito) | RC-094 | associado |
-| DNA como Projeção Holográfica do Psiquismo do Criador | RC-217 | associado |
-| Linhagem dos Patriarcas Hebreus | RC-270 | é-um |
-| Joctan e Faleg (filhos de Heber) | RC-437 | ← relaciona-se-a |
-| Enoque (sétimo patriarca; levado por Javé) | RC-489 | associado |
-| Caim (leitura RC: segundo a nascer) | RC-490 | associado |
-| Noreia (Norea) | RC-579 | associado |
-| Linhagem de Seth | RC-594 | ← relaciona-se-a |
-| Melquizedec | RC-650 | ← relaciona-se-a |
-| Torá / Pentateuco | RC-683 | associado |
-| Abel | RC-684 | associado |
-| Tormento dos Eleitos de Javé | RC-685 | associado |
-| Moisés e o Êxodo (leitura RC) | RC-750 | ← relaciona-se-a |
-| Elo Adâmico (o gene que Javé pôs em Adão) | RC-857 | associado |

@@ -16,6 +16,29 @@ atualizado = "2026-09-12"
 
 Na RC, os **Nefilins** da tradição bíblica (Gênesis 6) identificados com os **Anunnaki** (RC-024) — os "vigilantes"/híbridos da desobediência pré-diluviana.
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Elohim | RC-004 | ← relaciona-se-a |
+| Anunnaki | RC-024 | variação |
+| Anunnaki | RC-024 | sinônimo |
+| Kumari Kandan (tradição) | RC-329 | associado |
+| Hibridização genética (Nefilim reinterpretado) | RC-516 | ← relaciona-se-a |
+| Igigi | RC-580 | ← relaciona-se-a |
+| Igigi | RC-580 | relaciona-se-a |
+| Ao Vencedor as Batatas (paradigma do domínio) | RC-764 | ← relaciona-se-a |
+
+## Fontes
+
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2022-09-17 | A Hipóstase dos Arcontes (palestra) | — | transcrição automatizada; citação |
+| P2018-12-16 | Terra Atlantis - Era Sapiens (palestra) | — | transcrição automatizada; citação |
+| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
+| P2021-03-27 | bloco 3 (dinastias — anaquins/enacins); bloco 5 (dilúvio) | palestra/STT pré-curada |
+| B061 / P2026-08-04 | — | anteriores |
+
+
 ## Citações-chave
 
 > "A Bíblia fala de cidades que eram dos povos chamados anaquins, enacins, e na linguagem bíblica essas duas expressões, anaquins e enacins, é a mesma coisa que Anunnaki e Nefilim." — P2021-03-27
@@ -71,31 +94,8 @@ Na RC, os **Nefilins** da tradição bíblica (Gênesis 6) identificados com os 
 - **Distinção com Elohim (RC-004):** "não tem nada a ver com os Elohins" — raça extraterrestre na Terra na época do Éden;
 - Nova aresta RC-004 ↔ RC-488 (Elohim ~ Nefelins) — desambiguação confirmada pelo curador.
 
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Elohim | RC-004 | ← relaciona-se-a |
-| Anunnaki | RC-024 | variação |
-| Anunnaki | RC-024 | sinônimo |
-| Kumari Kandan (tradição) | RC-329 | associado |
-| Hibridização genética (Nefilim reinterpretado) | RC-516 | ← relaciona-se-a |
-| Igigi | RC-580 | ← relaciona-se-a |
-| Igigi | RC-580 | relaciona-se-a |
-| Ao Vencedor as Batatas (paradigma do domínio) | RC-764 | ← relaciona-se-a |
-
 ## Observações
 
 Correlação anaquins/enacins = Anunnaki/Nefilins é **leitura do autor** (Teologia Comparada/ufológica) — não é exegese bíblica validada.
 
 ---
-
-## Fontes
-
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2022-09-17 | A Hipóstase dos Arcontes (palestra) | — | transcrição automatizada; citação |
-| P2018-12-16 | Terra Atlantis - Era Sapiens (palestra) | — | transcrição automatizada; citação |
-| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
-| P2021-03-27 | bloco 3 (dinastias — anaquins/enacins); bloco 5 (dilúvio) | palestra/STT pré-curada |
-| B061 / P2026-08-04 | — | anteriores |
-

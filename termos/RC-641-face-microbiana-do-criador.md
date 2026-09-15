@@ -15,23 +15,12 @@ atualizado = "2026-08-28"
 ## Definição Sintética
 Primeira expressão viva/reconstruída do Criador sob formas virais e microbianas.
 
-## Contexto / Origem
-Vincula-se à obra B064 A Ordenação do Caos e às transições de fase.
-
-## Citações-chave
-> “A primeira forma de vida [...] foi a vida microbiana.” — P2024-05-04
-
-## Ampliação
-### P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
-
-- **[P2022-03-26 · FACE MICROBIANA DO CRIADOR NA FALA DE 26/03/2022]** "Daqui a um mês sai um livro chamado Além da Ordenação do Caos, a face virótica do Criador, em que nesse livro eu vou explicar a fundo algumas questões Eu não vou falar aqui na palestra porque eu vou ter que falar sobre o problema de Javé." (U0020) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⭐ **NOTA DE ANTERIORIDADE — P2022-03-26:** antecipa **25 meses** a atual fonte oral mais antiga da ficha (`P2024-05-04`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
-
 ## Etimologia e Grafias
 - Grafia: Face Microbiana do Criador.
 
 
-## Seres Associados
-Consultar relações acima.
+## Contexto / Origem
+Vincula-se à obra B064 A Ordenação do Caos e às transições de fase.
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -42,11 +31,8 @@ Consultar relações acima.
 | Transições de Fase / Face da Criação | RC-640 | ← inclui |
 | Autofagia do Criador | RC-667 | associado |
 
-## Observações
-Título oral “Além da Ordenação do Caos” diverge de B064; manter B064 canônico.
-
-Status candidato por depender de palestra e alegações ainda não cruzadas integralmente com obras primárias.
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+## Seres Associados
+Consultar relações acima.
 
 ## Fontes
 | Fonte | Localização | Tipo |
@@ -54,3 +40,17 @@ Status candidato por depender de palestra e alegações ainda não cruzadas inte
 | P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
 | P2024-05-04 — Prabrajna em Perpérion / Simultaneidade Reversa | U1171–U1195 | PDF/transcrição pré-curada |
 
+
+## Citações-chave
+> “A primeira forma de vida [...] foi a vida microbiana.” — P2024-05-04
+
+## Ampliação
+### P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
+
+- **[P2022-03-26 · FACE MICROBIANA DO CRIADOR NA FALA DE 26/03/2022]** "Daqui a um mês sai um livro chamado Além da Ordenação do Caos, a face virótica do Criador, em que nesse livro eu vou explicar a fundo algumas questões Eu não vou falar aqui na palestra porque eu vou ter que falar sobre o problema de Javé." (U0020) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⭐ **NOTA DE ANTERIORIDADE — P2022-03-26:** antecipa **25 meses** a atual fonte oral mais antiga da ficha (`P2024-05-04`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
+
+## Observações
+Título oral “Além da Ordenação do Caos” diverge de B064; manter B064 canônico.
+
+Status candidato por depender de palestra e alegações ainda não cruzadas integralmente com obras primárias.
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

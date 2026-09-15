@@ -21,8 +21,37 @@ Segundo o entendimento dos arianos-hindus, **Rajas, Sattva e Tamas são as três
 | **Sattva** | Mavatna (Vishnu) | matéria escura | ~27% |
 | **Tamas** | Savna (Shiva) | energia escura | ~68% |
 
+## Etimologia e Grafias
+- **Grafia preferida:** Gunas
+- **Variações:** as três Gunas; energias Rajas, Sattva e Tamas; gunas criadoras
+- **Origem:** sânscrito (guṇa = qualidade/atributo)
+
+
 ## Contexto / Origem
 As Gunas explicam a física da Criação "indevida" associada à mitologia hindu: a energia Rajásica de Prabrajna criou os quarks (e, com distúrbios, os elétrons); Mavatna usou a energia Sattva para criar os glúons e organizar a energia Rajas (as quatro forças fundamentais); a energia Tamas de Savna é a desagregadora, que faz tudo nascer com o "germe" da própria morte e presidirá a finalização do universo. Os hindus relacionam Brahma, Vishnu e Shiva às energias Rajas, Sattva e Tamas, respectivamente — os três pilares de criação.
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Brahma (Brajna) | RC-037 | associado-a |
+| Shiva (Savna) | RC-102 | associado-a |
+| Trimurti | RC-104 | corresponde-a |
+| Vishnu (Mavatna) | RC-135 | associado-a |
+| Prabrajna | RC-152 | energia Rajas |
+| Entropia e Negentropia | RC-160 | ← relaciona-se-a |
+| Elétrons (agente básico da vida universal) | RC-162 | criados pela vibração Rajas |
+| Sankalpa (força de vontade e conhecimento que produz milagres) | RC-853 | associado |
+
+## Seres Associados
+Brahma (RC-037); Vishnu (RC-135); Shiva (RC-102).
+
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo |
+|---|---|---|---|
+| P2021-04-10 | O Fechamento dos Portais e o Impasse no Exílio Espiritual de Len Mion — Aprofundamento (palestra) | — | transcrição automatizada; citação |
+| P2012-02-19 | Xadrez Cósmico de Brahma, Vishnu e Shiva (palestra) | — | transcrição automatizada; citação |
+| A Epopeia dos Agentes da Vida Universal (B024) | cap. 3 (As Gunas Criadoras) | pp. 32–36 (aprox.) | capítulo inteiro dedicado |
+| P2024-02-03 | O Jainismo e o Druidismo Ancestrais (palestra) | — | — |
 
 ## Citações-chave
 > "Portanto, associando os conhecimentos arianos-hindus e científicos, tudo o que é visível no universo corresponde a apenas 5% (energia Rajas, de Prabrajna) de toda a matéria/energia que existe, e que, do restante, 27% corresponde à matéria escura (energia Sattva, de Mavatna) e 68% corresponde à energia escura (energia Tamas, de Savna)." — B024, cap. 3
@@ -67,36 +96,7 @@ As Gunas explicam a física da Criação "indevida" associada à mitologia hindu
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-151.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
 
-## Etimologia e Grafias
-- **Grafia preferida:** Gunas
-- **Variações:** as três Gunas; energias Rajas, Sattva e Tamas; gunas criadoras
-- **Origem:** sânscrito (guṇa = qualidade/atributo)
-
-
-## Seres Associados
-Brahma (RC-037); Vishnu (RC-135); Shiva (RC-102).
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Brahma (Brajna) | RC-037 | associado-a |
-| Shiva (Savna) | RC-102 | associado-a |
-| Trimurti | RC-104 | corresponde-a |
-| Vishnu (Mavatna) | RC-135 | associado-a |
-| Prabrajna | RC-152 | energia Rajas |
-| Entropia e Negentropia | RC-160 | ← relaciona-se-a |
-| Elétrons (agente básico da vida universal) | RC-162 | criados pela vibração Rajas |
-| Sankalpa (força de vontade e conhecimento que produz milagres) | RC-853 | associado |
-
 ## Observações
 Ficha baseada em B024 (obra primária). As porcentagens (5/27/68) vêm do cruzamento com a cosmologia científica; verificar a numeração exata no livro (há passagens com 4% de variação).
 
 ---
-
-## Fontes
-| Obra (sigla) | Capítulo | Página | Tipo |
-|---|---|---|---|
-| P2021-04-10 | O Fechamento dos Portais e o Impasse no Exílio Espiritual de Len Mion — Aprofundamento (palestra) | — | transcrição automatizada; citação |
-| P2012-02-19 | Xadrez Cósmico de Brahma, Vishnu e Shiva (palestra) | — | transcrição automatizada; citação |
-| A Epopeia dos Agentes da Vida Universal (B024) | cap. 3 (As Gunas Criadoras) | pp. 32–36 (aprox.) | capítulo inteiro dedicado |
-| P2024-02-03 | O Jainismo e o Druidismo Ancestrais (palestra) | — | — |

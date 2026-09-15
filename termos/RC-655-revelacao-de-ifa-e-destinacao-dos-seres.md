@@ -15,8 +15,47 @@ atualizado = "2026-08-18"
 ## Definição Sintética
 Revelação atribuída a Orunmilá sobre destinos que precisam ser cumpridos pelos seres.
 
+## Etimologia e Grafias
+- Forma preferida: **Revelação de Ifá e Destinação dos Seres**.
+
+
 ## Contexto / Origem
 Extraído da live P2025-10-25 — 2ª Edição Estagiários do Kaos.
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Hiperbórea | RC-068 | ← relaciona-se-a |
+| Mentalma | RC-166 | ← relaciona-se-a |
+| Cidadão Cósmico | RC-226 | — |
+| Tirthankaras (Rishabh Dev, Jina Mahavira) | RC-397 | relaciona-se-a |
+| Hermes Trismegisto (= Ningishzidda/Thoth/Quetzalcóatl) | RC-463 | ← relaciona-se-a |
+| Tikun Cósmico (restabelecimento da Criação) | RC-514 | relaciona-se-a |
+| Verdade Posta × Verdade a Construir | RC-657 | ← relaciona-se-a |
+| Wyrd / Urd (Teia do Destino) | RC-658 | atualiza |
+| Wyrd / Urd (Teia do Destino) | RC-658 | atualiza |
+| Wyrd / Urd (Teia do Destino) | RC-658 | atualiza |
+| Wyrd / Urd (Teia do Destino) | RC-658 | atualiza |
+| Wyrd / Urd (Teia do Destino) | RC-658 | atualiza |
+| Orunmilá (Moros de Irém / Orum) | RC-665 | ← relaciona-se-a |
+| Obatalá (correspondência de Javé em Ifá) | RC-666 | ← relaciona-se-a |
+| Obatalá (correspondência de Javé em Ifá) | RC-666 | relaciona-se-a |
+| Ato de Verdade / Satyagraha | RC-705 | relaciona-se-a |
+| Sócios do Destino / Ausência de Justiça Externa | RC-720 | ← explicado-por |
+| Projeto Orunmilá–Olodus | RC-741 | ← produz |
+| Projeto Orunmilá–Olodus | RC-741 | ← relaciona-se-a |
+| Os 256 Caminhos Profetizáveis de Orunmilá | RC-767 | ← relaciona-se-a |
+| Os 256 Caminhos Profetizáveis de Orunmilá | RC-767 | relaciona-se-a |
+| Os 256 Caminhos Profetizáveis de Orunmilá | RC-767 | relaciona-se-a |
+
+## Seres Associados
+Consultar relações na Base.
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2025-05-10 | Mistérios do Apocalipse (palestra) | — | transcrição automatizada; citação |
+| P2025-10-25 | ver dossiê e transcrição | live/STT |
 
 ## Citações-chave
 > Ver P2025-10-25.
@@ -96,44 +135,5 @@ Ifá é apresentado como atualização humana de Wyrd por Orunmilá, com 16 Mol�
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-655.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o bloco citado desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
 
-## Etimologia e Grafias
-- Forma preferida: **Revelação de Ifá e Destinação dos Seres**.
-
-
-## Seres Associados
-Consultar relações na Base.
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Hiperbórea | RC-068 | ← relaciona-se-a |
-| Mentalma | RC-166 | ← relaciona-se-a |
-| Cidadão Cósmico | RC-226 | — |
-| Tirthankaras (Rishabh Dev, Jina Mahavira) | RC-397 | relaciona-se-a |
-| Hermes Trismegisto (= Ningishzidda/Thoth/Quetzalcóatl) | RC-463 | ← relaciona-se-a |
-| Tikun Cósmico (restabelecimento da Criação) | RC-514 | relaciona-se-a |
-| Verdade Posta × Verdade a Construir | RC-657 | ← relaciona-se-a |
-| Wyrd / Urd (Teia do Destino) | RC-658 | atualiza |
-| Wyrd / Urd (Teia do Destino) | RC-658 | atualiza |
-| Wyrd / Urd (Teia do Destino) | RC-658 | atualiza |
-| Wyrd / Urd (Teia do Destino) | RC-658 | atualiza |
-| Wyrd / Urd (Teia do Destino) | RC-658 | atualiza |
-| Orunmilá (Moros de Irém / Orum) | RC-665 | ← relaciona-se-a |
-| Obatalá (correspondência de Javé em Ifá) | RC-666 | ← relaciona-se-a |
-| Obatalá (correspondência de Javé em Ifá) | RC-666 | relaciona-se-a |
-| Ato de Verdade / Satyagraha | RC-705 | relaciona-se-a |
-| Sócios do Destino / Ausência de Justiça Externa | RC-720 | ← explicado-por |
-| Projeto Orunmilá–Olodus | RC-741 | ← produz |
-| Projeto Orunmilá–Olodus | RC-741 | ← relaciona-se-a |
-| Os 256 Caminhos Profetizáveis de Orunmilá | RC-767 | ← relaciona-se-a |
-| Os 256 Caminhos Profetizáveis de Orunmilá | RC-767 | relaciona-se-a |
-| Os 256 Caminhos Profetizáveis de Orunmilá | RC-767 | relaciona-se-a |
-
 ## Observações
 Termo candidato, sujeito a cruzamento com obras e palestras adicionais.
-
-## Fontes
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2025-05-10 | Mistérios do Apocalipse (palestra) | — | transcrição automatizada; citação |
-| P2025-10-25 | ver dossiê e transcrição | live/STT |

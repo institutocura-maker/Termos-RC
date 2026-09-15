@@ -28,28 +28,6 @@ Com isso:
 
 **Origem do conteúdo da ampliação:** palestra `P2017-10-14 — Da Base Atlan ao Colégio Druídico` (14/10/2017). Transcrição automatizada, **não conferida com o áudio**; cada aspa foi recortada do `original.txt` pelo índice de âncoras do motor e conferida byte a byte pelo portão B. Nada foi digitado de memória.
 
-## Ampliação
-### P2017-10-14 (Da Base Atlan ao Colégio Druídico)
-
-- **[a família Val e a rebelião] (U0008)** «Família V não fez parte da deflagração do processo.» — a família Val (STT `Vol`/`V`) não participou da deflagração da rebelião; as quatro famílias envolvidas foram Iel, Cromon, Mion e Chamon.
-
-### P2018-12-15 (Terra Atlantis – Aprofundamento)
-
-- **[Val, a última família biodêmica] (U0023)** «A última foi a Vol que foi criada h cerca de 230 milhões de anos.» — a família Val (RC-109): a última das ~250.000 espécies biodêmicas, criada há ~230 M anos na nave Asphezian (RC-025).
-
-## Ampliação
-### P2023-07-09 (A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons)
-
-- **[Valel + Eulian = mix genético — origem do nome Val]** «enciava e Liamo junto comel terminaram fazendo um mix do código genérico dos dois em termos mais recentes, em que o nome de Val ficou Val, porque Valel pegou de Lian na parte final e o nome de Eulian» — ver RC-089 (Processador Val), RC-365 (Fator Judas).
-- **[Família Val — criados um por um, cada um como cobaia]** «os VS foram criados um por um, porque cada um trazia em si uma receita de cobaia que possivelmente poderia ser usada. em padrões de humanoides futuros sexuais» — ver RC-089 (Processador Val).
-
-## Ampliação
-### P2024-03-17
-
-**Fonte:** palestra «A Quem Pertence o Planeta e a Biblioteca Genômica Mais Atualizada do Universo» (17/03/2024).
-
-**Trecho verbatim:** «A militarização do ser humano veio dos elfos. E os gregos, quando perceberam que eles colocavam pelotão para ir pra guerra, na hora da guerra a turma fugia. O que é que os gregos fizeram? Colocavam no mesmo pelotão os membros da mesma família para assim evitar de um filho fugir deixando o pai lá ou ao contrário.»
-
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
@@ -103,7 +81,30 @@ Com isso:
 | P2024-03-17 | A Quem Pertence o Planeta e a Biblioteca Genômica Mais Atualizada do Universo (palestra) | transcrição automatizada; citação |
 | P2023-07-09 | A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
 
-## Observações sobre o Estado da Malha
+## Ampliação
+### P2017-10-14 (Da Base Atlan ao Colégio Druídico)
+
+- **[a família Val e a rebelião] (U0008)** «Família V não fez parte da deflagração do processo.» — a família Val (STT `Vol`/`V`) não participou da deflagração da rebelião; as quatro famílias envolvidas foram Iel, Cromon, Mion e Chamon.
+
+### P2018-12-15 (Terra Atlantis – Aprofundamento)
+
+- **[Val, a última família biodêmica] (U0023)** «A última foi a Vol que foi criada h cerca de 230 milhões de anos.» — a família Val (RC-109): a última das ~250.000 espécies biodêmicas, criada há ~230 M anos na nave Asphezian (RC-025).
+
+## Ampliação
+### P2023-07-09 (A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons)
+
+- **[Valel + Eulian = mix genético — origem do nome Val]** «enciava e Liamo junto comel terminaram fazendo um mix do código genérico dos dois em termos mais recentes, em que o nome de Val ficou Val, porque Valel pegou de Lian na parte final e o nome de Eulian» — ver RC-089 (Processador Val), RC-365 (Fator Judas).
+- **[Família Val — criados um por um, cada um como cobaia]** «os VS foram criados um por um, porque cada um trazia em si uma receita de cobaia que possivelmente poderia ser usada. em padrões de humanoides futuros sexuais» — ver RC-089 (Processador Val).
+
+## Ampliação
+### P2024-03-17
+
+**Fonte:** palestra «A Quem Pertence o Planeta e a Biblioteca Genômica Mais Atualizada do Universo» (17/03/2024).
+
+**Trecho verbatim:** «A militarização do ser humano veio dos elfos. E os gregos, quando perceberam que eles colocavam pelotão para ir pra guerra, na hora da guerra a turma fugia. O que é que os gregos fizeram? Colocavam no mesmo pelotão os membros da mesma família para assim evitar de um filho fugir deixando o pai lá ou ao contrário.»
+
+## Observações
+### Observações sobre o Estado da Malha
 
 * **Grafia STT:** 'Vol' / 'Família V' = Val. As quatro famílias da deflagração: Iel, Cromon, Mion e Chamon.
 * **Trava aplicável**: quarentena social — a leitura 'elitista' do percentual de biodemos na humanidade e dos 'mais habilitados' que levam a tocha da vida (linha U0149): dito, não endossado.

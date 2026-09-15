@@ -23,8 +23,33 @@ A estrutura da realidade espiritual em **3 níveis de colapso da Matriz Quântic
 
 O diagrama posiciona a **Espiritualidade Superior** (Deidade e Espíritos Superiores) acima do 1º nível, e, abaixo da Criação Indevida, os dois universos (Antimaterial e Material). O conceito conecta a estrutura dos níveis espirituais à **Criação Indevida** como o 3º "colapso" — a queda do Criador.
 
+### Distinção ratificada — P2025-03-15
+
+O curador determinou que **RC-415 não seja fundido com RC-690 — Colapso do Caos Organizado**. RC-690 é o evento amplo de desestruturação biológica, informacional e cósmica; RC-415 conserva a especificidade do colapso da matriz quântica em três níveis.
+---
+---
+---
+
+## Etimologia e Grafias
+- **Grafia preferida:** Colapso da Matriz Quântica
+- **Variações:** colapso quântico; níveis do colapso da Matriz Quântica (1º/2º/3º)
+
+
 ## Contexto / Origem
 O diagrama B051 organiza verticalmente a cosmologia: Espiritualidade Superior → Espiritualidade Operativa (1º colapso) → Espiritualidade Laboratorial (2º colapso) → Criação Indevida (3º colapso) → Universos Antimaterial/Material. Essa estrutura confirma e complementa o mapeamento da Cabala (B013: Atziluth/Briah/Yetzirah/Assiah) e as Espiritualidades do corpus (RC-059/060/061).
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Espiritualidade Superior | RC-059 | inclui |
+| Espiritualidade Operacional | RC-060 | inclui |
+| Espiritualidade Laboratorial | RC-061 | inclui |
+| Revelação Cósmica (conceito) | RC-094 | associado |
+| Criação Indevida (Obra indevida) | RC-167 | resulta-em |
+| Blindagens Interdimensionais (Intramuros Vibratórios) | RC-602 | ← relaciona-se-a |
+| Blindagens Interdimensionais (Intramuros Vibratórios) | RC-602 | ← relaciona-se-a |
+| Colapso do Caos Organizado | RC-690 | ← distingue-se-de |
+| Colapso do Caos Organizado | RC-690 | distingue-se-de |
 
 ## Ampliação
 ### P2025-03-15
@@ -45,28 +70,3 @@ O diagrama B051 organiza verticalmente a cosmologia: Espiritualidade Superior �
 - **Unidades:** U0045–U0051; U0102–U0108.
 - **Contexto acrescentado:** Os colapsos quânticos são apresentados como origem das faixas da Espiritualidade Laboratorial a partir das porções operacionais.
 - **Status da evidência:** transcrição automatizada, pré-curada e aprovada quanto à integração terminológica; conferir com áudio/obra antes de promover status.
-
-## Etimologia e Grafias
-- **Grafia preferida:** Colapso da Matriz Quântica
-- **Variações:** colapso quântico; níveis do colapso da Matriz Quântica (1º/2º/3º)
-
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Espiritualidade Superior | RC-059 | inclui |
-| Espiritualidade Operacional | RC-060 | inclui |
-| Espiritualidade Laboratorial | RC-061 | inclui |
-| Revelação Cósmica (conceito) | RC-094 | associado |
-| Criação Indevida (Obra indevida) | RC-167 | resulta-em |
-| Blindagens Interdimensionais (Intramuros Vibratórios) | RC-602 | ← relaciona-se-a |
-| Blindagens Interdimensionais (Intramuros Vibratórios) | RC-602 | ← relaciona-se-a |
-| Colapso do Caos Organizado | RC-690 | ← distingue-se-de |
-| Colapso do Caos Organizado | RC-690 | distingue-se-de |
-
-## Distinção ratificada — P2025-03-15
-
-O curador determinou que **RC-415 não seja fundido com RC-690 — Colapso do Caos Organizado**. RC-690 é o evento amplo de desestruturação biológica, informacional e cósmica; RC-415 conserva a especificidade do colapso da matriz quântica em três níveis.
----
----
----

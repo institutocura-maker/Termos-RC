@@ -16,14 +16,43 @@ atualizado = "2026-08-29"
 
 Na cosmologia de Ellam, a faixa espiritual intermediária que envolve a Terra — criada como improvisação/blindagem entre o paraíso e o caos dos dois universos — onde se situam as cidades espirituais (construções mentais) e os colegiados humanizados.
 
+## Contexto / Origem
+
+[P2024-07-14] A palestra explica a erradia como decorrência da queda do criador ("Prajna") e descreve suas cidades mentais (ex.: Nosso Lar), onde "não é permitido o contraditório, porque as construções são frágeis".
+
 ## Escopo e evidência
 
 - **[P2024-07-14] Unidades:** U0285–U0354.
 - **[P2024-07-14] Proveniência:** palestra de Jan Val Ellam; transcrição STT pré-curada; devolutiva do curador registrada em 2026-08-20 (ficha autorizada).
 
-## Contexto / Origem
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Espiritualidade Laboratorial | RC-061 | relaciona-se-a |
+| Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | relaciona-se-a |
+| Universo Material (Bhuloka) | RC-107 | associado |
+| Roseral do Alto | RC-616 | associado |
+| Tempo como Transformação / Permanente Agora | RC-634 | associado |
+| Abismo da Providência / Falsa Providência | RC-723 | ← relaciona-se-a |
+| Faixas Espirituais de Ressonância | RC-726 | ← relaciona-se-a |
+| Colegiados Espirituais Humanizados | RC-745 | associado |
 
-[P2024-07-14] A palestra explica a erradia como decorrência da queda do criador ("Prajna") e descreve suas cidades mentais (ex.: Nosso Lar), onde "não é permitido o contraditório, porque as construções são frágeis".
+
+- Faixas Espirituais de Ressonância — RC-726;
+- Universo Antimaterial — RC-106;
+- Abismo da Providência — RC-723.
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2022-07-16 | Do Ramayana ao Mahabharata (palestra) | — | transcrição automatizada; citação |
+| P2022-09-18 | Os Níveis de Estresse Extremo da Criação (palestra) | — | transcrição automatizada; citação |
+| P2022-09-25 | O Contexto Espiritual da Construção de Brasília (palestra) | — | transcrição automatizada; citação |
+| P2022-10-01 | A Wyrd e a Espiritualidade (palestra) | — | transcrição automatizada; citação |
+| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
+| P2024-07-14 | U0285–U0354 | palestra/STT |
+| B060 / B071 / P2021-12-04 / P2024-05-04 / P2025-03-15 / P2024-11-09 / P2024-03-03 / P2024-04-14 / P2025-06-14b | — | obras/palestras |
+
 
 ## Citações-chave
 > "Não é porque tem autoridade autocrática... é porque é assim que as coisas são no mundo espiritual. Por isso que não é permitida a democracia."
@@ -72,35 +101,6 @@ Na cosmologia de Ellam, a faixa espiritual intermediária que envolve a Terra �
 
 - **[A espiritualidade errática e os níveis espirituais] (U0036)** «os espíritos que flu nesse processo pertence a essa condição.» — a pergunta sobre os níveis: "a maioria dos espíritos que flu nesse processo pertence a essa condição. Porém existia sim e existe sim nessa sala tem um outro espírito que já existia por aqui antes de para Brasna fazer essa besteira e hoje tem corpos aqui" (U0036: «Porém existia sim e existe sim nessa sala tem um outro espírito que já existia por aqui antes de para Brasna fazer essa besteira»); "Kardec chamava isso aqui de erra cidade" (U0036: «Kardec chamava isso aqui de erra cidade»); "os índios que já viviam lá foram se encontrando em níveis espirituais vinculados à Terra e construíram nosso lar" (U0036: «os índios que já viviam lá foram se encontrando em níveis espirituais vinculados à Terra e construíram nosso lar»).
 
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Espiritualidade Laboratorial | RC-061 | relaciona-se-a |
-| Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | relaciona-se-a |
-| Universo Material (Bhuloka) | RC-107 | associado |
-| Roseral do Alto | RC-616 | associado |
-| Tempo como Transformação / Permanente Agora | RC-634 | associado |
-| Abismo da Providência / Falsa Providência | RC-723 | ← relaciona-se-a |
-| Faixas Espirituais de Ressonância | RC-726 | ← relaciona-se-a |
-| Colegiados Espirituais Humanizados | RC-745 | associado |
-
-
-- Faixas Espirituais de Ressonância — RC-726;
-- Universo Antimaterial — RC-106;
-- Abismo da Providência — RC-723.
-
 ## Observações
 
 **Quarentena teológica:** a leitura de "E Deus viu que era bom" e do criador caído é do autor.
-
-## Fontes
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2022-07-16 | Do Ramayana ao Mahabharata (palestra) | — | transcrição automatizada; citação |
-| P2022-09-18 | Os Níveis de Estresse Extremo da Criação (palestra) | — | transcrição automatizada; citação |
-| P2022-09-25 | O Contexto Espiritual da Construção de Brasília (palestra) | — | transcrição automatizada; citação |
-| P2022-10-01 | A Wyrd e a Espiritualidade (palestra) | — | transcrição automatizada; citação |
-| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
-| P2024-07-14 | U0285–U0354 | palestra/STT |
-| B060 / B071 / P2021-12-04 / P2024-05-04 / P2025-03-15 / P2024-11-09 / P2024-03-03 / P2024-04-14 / P2025-06-14b | — | obras/palestras |
-

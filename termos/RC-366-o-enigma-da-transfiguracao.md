@@ -15,8 +15,36 @@ atualizado = "2026-08-12"
 ## Definição Sintética
 A **Transfiguração de Jesus** (Mateus 17:1-19) reinterpretada nas RC — o capítulo 15 do B011 (Livro de Moisés): o evento em que Jesus se transfigurou diante de Pedro, Tiago e João, com Moisés e Elias, é explicado como uma **alteração vibratória** (RC-367) — a manifestação temporária de sua condição espiritual superior. O B011 narra o fenômeno pela perspectiva da equipe espiritual que assessorava Jesus ("Assessoria Cósmica", RC-368): "antes de nascer para o mundo terreno, nosso Mestre havia deixado clara Sua diretriz para todas as hostes que O assessoravam".
 
+## Etimologia e Grafias
+- **Grafia preferida:** O Enigma da Transfiguração
+- **Variações:** Transfiguração de Jesus; alteração vibratória; o encontro com Moisés e Elias
+
+
 ## Contexto / Origem
 O B011 é dedicado a desvendar o enigma: "a Transfiguração relatada nas páginas do Novo Testamento é apenas mais um dos estranhos eventos que cercaram a vida de Jesus. Porém... o fenômeno por si só já abre todo um conjunto de possibilidades que, se verdadeiros, modificam por completo o entendimento que temos a respeito da personalidade de Jesus". A obra estrutura-se em 3 partes (Livro de Tiago, Livro de João Batista, Livro de Moisés) — os três personagens da Transfiguração bíblica.
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Jesus | RC-072 | envolve |
+| Revelação Cósmica (conceito) | RC-094 | associado |
+| Agente do Mais Alto | RC-214 | relaciona-se-a |
+| O Fator Judas | RC-365 | associado |
+| Alteração Vibratória (Transfiguração) | RC-367 | é-um |
+| Assessoria Cósmica (equipes espirituais de Jesus) | RC-368 | contexto |
+| Hochmah (2ª Sefirah — Sabedoria; = Sophia) | RC-565 | relaciona-se-a |
+| Hochmah (2ª Sefirah — Sabedoria; = Sophia) | RC-565 | ← relaciona-se-a |
+
+## Seres Associados
+Jesus (RC-072); Moisés e Elias (personagens da Transfiguração); Pedro, Tiago e João (testemunhas).
+
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo |
+|---|---|---|---|
+| P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
+| P2023-02-11 | Agente Humano Jesus e os Arcontes (palestra) | — | transcrição automatizada; citação |
+| P2025-05-10 | Mistérios do Apocalipse (palestra) | — | transcrição automatizada; citação |
+| Jesus e o Enigma da Transfiguração (B011) | Livro III, cap. 15 (O Enigma da Transfiguração) | pp. 150–165 (aprox.) | capítulo-título |
 
 ## Citações-chave
 > "A Transfiguração relatada nas páginas do Novo Testamento é apenas mais um dos estranhos eventos que cercaram a vida de Jesus. Porém, diferente dos demais, o fenômeno por si só já abre todo um conjunto de possibilidades que, se verdadeiros, modificam por completo o entendimento que temos a respeito da personalidade de Jesus." — B011, Esclarecimento
@@ -55,34 +83,6 @@ O B011 é dedicado a desvendar o enigma: "a Transfiguração relatada nas págin
 
 - **[O não-interferir da Transfiguração] (U0005)** «Não interfiram. É comigo até o final.» — no monte da Transfiguração (a nave; "uma nuvem já tinha dominado, ou seja, uma nave"), anjos de Sofia e do criador cobram o cumprimento da agenda milenar; Jesus transfigura o corpo, "se fez igual aos anjos, falou com eles na linguagem de capela que Sofia falava" (U0005: «Aí Jesus transfigurou o corpo humano dele, se fez igual aos anjos, falou com eles na linguagem de capela que Sofia falava.») e responde "Eu estou entendendo muito bem. Eu sei o que estou fazendo. Sei também o que não estou fazendo. Não interfiram. É comigo até o final." — episódio "que eu descrevo no livro o enigma da transfiguração de Jesus" (U0005: «de Jesus que eu descrevo no livro o enigma da transfiguração de Jesus.»).
 
-## Etimologia e Grafias
-- **Grafia preferida:** O Enigma da Transfiguração
-- **Variações:** Transfiguração de Jesus; alteração vibratória; o encontro com Moisés e Elias
-
-
-## Seres Associados
-Jesus (RC-072); Moisés e Elias (personagens da Transfiguração); Pedro, Tiago e João (testemunhas).
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Jesus | RC-072 | envolve |
-| Revelação Cósmica (conceito) | RC-094 | associado |
-| Agente do Mais Alto | RC-214 | relaciona-se-a |
-| O Fator Judas | RC-365 | associado |
-| Alteração Vibratória (Transfiguração) | RC-367 | é-um |
-| Assessoria Cósmica (equipes espirituais de Jesus) | RC-368 | contexto |
-| Hochmah (2ª Sefirah — Sabedoria; = Sophia) | RC-565 | relaciona-se-a |
-| Hochmah (2ª Sefirah — Sabedoria; = Sophia) | RC-565 | ← relaciona-se-a |
-
 ## Observações
 Ficha baseada em B011 (obra primária). A Transfiguração como "alteração vibratória" conecta o evento bíblico à física espiritual das RC.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
-
-## Fontes
-| Obra (sigla) | Capítulo | Página | Tipo |
-|---|---|---|---|
-| P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
-| P2023-02-11 | Agente Humano Jesus e os Arcontes (palestra) | — | transcrição automatizada; citação |
-| P2025-05-10 | Mistérios do Apocalipse (palestra) | — | transcrição automatizada; citação |
-| Jesus e o Enigma da Transfiguração (B011) | Livro III, cap. 15 (O Enigma da Transfiguração) | pp. 150–165 (aprox.) | capítulo-título |

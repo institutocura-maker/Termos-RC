@@ -16,6 +16,12 @@ atualizado = "2026-08-29"
 
 Nas obras primárias, o **Processador Val** é o dispositivo que sustenta a **família Val** como coletivo — o análogo direto dos "Processadores Familiares" capelinos de `RC-446`, pelo qual cada estirpe armazena, transmite e coesa a mente do grupo. Esta ficha existia **só no cadastro** (`dados_termos.py`) desde a migração: não havia arquivo, e por isso não havia definição. Passa a tê-la, e a definição é a que a fonte oral de **26/03/2022** entrega: na palestra, o Processador é o **órgão remanescente** de um sistema colmeico em quarentena — o único que sobrou das famílias rebeldes, **fabricado por mistura genética** para absorvê-las, hospedado numa nave que virou cidade.
 
+## Etimologia e Grafias
+
+- **Canônico da Base:** *Processador Val* (família Val). ⚠️ A **família** aparece na fala de 2022 grafa pelo STT como `Vol` (6×), `vol` (4×), `voz` (2×), `V.` — o nome da família **não** é unificável a partir do TXT, e a forma canônica da Base permanece a das obras.
+- **Na fonte oral (P2022-03-26):** o objeto é dito como *o processador da família Vol* e a nave que o hospeda como *Esferon* [REVISAR: nome novo, uma ocorrência → CHANCELA 2026-09-06 · F039-L3: AGUARDA-ÁUDIO (STT preservado como falado) — ver nota] — ver o dicionário STT no apêndice da apostila do ciclo.
+- **Vetado como grafia canônica** (devolutiva de 28/08/2026, D-4): nenhuma das degradações do STT promotione nome novo, e nenhuma máscara (`t*****`) transita para esta ficha.
+
 ## Contexto / Origem
 
 **Materialização (não é criação).** O código RC-089 vivia só no cadastro — linha `("RC-089", "Processador Val", Tecnologias & Artefatos, 5.1 Naves / Tecnologia extraterrestre…, `B031`, `B017`, `B018`, `B039`, `P2026-04-02`, `P2020-04-25`, 'RC-109; RC-018; RC-080; RC-141', False)` — sem arquivo em `termos/`. A **Devolutiva do Curador de 28/08/2026 (D-9)** autorizou a virada `ficha=False → ficha=True** a partir da fonte oral `P2022-03-26`, "uma vez que a palestra entrega a gênese técnica do objeto como mistura genética e sobrevivente". É a **única** materialização deste ciclo: `RC-444 Família Cromon` foi nominalmente mantida em `ficha=False`.
@@ -30,6 +36,40 @@ Com isso:
 **Tensão a não escondar (D-10, sem harmonização):** `RC-446` registra que, na narrativa psicografada, *"Sophia, que nos engendrou, também criou todos os nossos 'Processadores'"* (B058, p. 68). A fala de 26/03/2022 dá **outra gênese** ao processador da família Vol: mistura genética feita **para absorver** as famílias rebeldes, depois de a revolta acontecer. As duas formulações coexistem na Base, cada uma com sua fonte e data; nenhuma é corrigida pela outra, e `RC-446` **não** foi editada por este ciclo.
 
 **Origem do conteúdo da ampliação:** palestra `P2022-03-26 — A Rebelião de Lúcifer e a Depressão Mental dos Seres` (São Paulo, 26/03/2022), bloco U0034 (com apoio em U0008) do `original.txt` — transcrição automatizada, **não conferida com o áudio**. Cada aspa foi recortada byte a byte por `_gerar_ampliacoes_P2022-03-26.py` sobre o caça-âncoras `_aspas_P2022-03-26.py`; nada foi digitado de memória.
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Alt´Lam Gron | RC-018 | associado |
+| Biodemos | RC-036 | — (citação desta fala, não aresta) |
+| Mensagem Talm | RC-080 | associado |
+| Val (Família Val) | RC-109 | listado no cadastro sem aresta |
+| Yel Lupon | RC-141 | associado |
+| Processadores Familiares | RC-446 | análogo (aresta registrada na ficha RC-446; **não** há aresta em `RELACOES` para RC-089) |
+
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo (citação/paráfrase) |
+|---|---|---|---|
+| P2023-07-09 | A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
+| P2018-12-15 | Terra Atlantis – Aprofundamento (palestra) | — | transcrição automatizada; citação |
+| P2017-10-14 | Da Base Atlan ao Colégio Druídico (palestra) | — | transcrição automatizada; citação |
+| P2021-01-30 | A Mensagem TALM e os Fios Soltos do Destino (palestra) | — | transcrição automatizada; citação |
+| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra) | — | transcrição automatizada; citação |
+| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra) | — | transcrição automatizada; citação |
+| B031 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
+| B017 — Terra Atlantis: A Montagem Bíblica | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
+| B018 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
+| B039 — Terra Atlantis: A Era Sapiens | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
+| P2020-04-25 · P2026-04-02 | — | — | fontes orais já registradas no cadastro antes deste ciclo |
+
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2023-07-09 | A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
+
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-089.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
 
 ## Ampliação
 ### P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
@@ -61,46 +101,6 @@ Com isso:
 - **[Conexão Processador Val ↔ Wyrd via espírito de Orlog]** «a mesma mente de Kivas, mesma mente de Orlot ao do universo de Z, ligou-se, criou um tran tran tran aí qualquer uma espécie de Frost particular, uma ponte quântica» — ver RC-658 (Wyrd), RC-454 (Moros/Orlog).
 - **[Processador Val astralizado — existe até hoje]** «isso foi astralizado, ficou esse processador existe até hoje, protegido dentro de um sistema de astralização» — ver RC-109 (Família Val).
 
-## Etimologia e Grafias
-
-- **Canônico da Base:** *Processador Val* (família Val). ⚠️ A **família** aparece na fala de 2022 grafa pelo STT como `Vol` (6×), `vol` (4×), `voz` (2×), `V.` — o nome da família **não** é unificável a partir do TXT, e a forma canônica da Base permanece a das obras.
-- **Na fonte oral (P2022-03-26):** o objeto é dito como *o processador da família Vol* e a nave que o hospeda como *Esferon* [REVISAR: nome novo, uma ocorrência → CHANCELA 2026-09-06 · F039-L3: AGUARDA-ÁUDIO (STT preservado como falado) — ver nota] — ver o dicionário STT no apêndice da apostila do ciclo.
-- **Vetado como grafia canônica** (devolutiva de 28/08/2026, D-4): nenhuma das degradações do STT promotione nome novo, e nenhuma máscara (`t*****`) transita para esta ficha.
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Alt´Lam Gron | RC-018 | associado |
-| Biodemos | RC-036 | — (citação desta fala, não aresta) |
-| Mensagem Talm | RC-080 | associado |
-| Val (Família Val) | RC-109 | listado no cadastro sem aresta |
-| Yel Lupon | RC-141 | associado |
-| Processadores Familiares | RC-446 | análogo (aresta registrada na ficha RC-446; **não** há aresta em `RELACOES` para RC-089) |
-
 ## Observações
 
 A pergunta que `RC-446` deixava aberta — *"verificar nas obras primárias (ex.: B017/B018) a correspondência exata com os Processadores Familiares"* — **não** é respondida por esta ficha: a fala de 2022 não descreve um dispositivo capelino de coesão familiar neutra, e sim um **órgão de absorção** criado depois da revolta. Registrar a diferença é o serviço desta ficha; responder à pergunta de `RC-446` continua pendente e é decisão curatorial.
-
-## Fontes
-| Obra (sigla) | Capítulo | Página | Tipo (citação/paráfrase) |
-|---|---|---|---|
-| P2023-07-09 | A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
-| P2018-12-15 | Terra Atlantis – Aprofundamento (palestra) | — | transcrição automatizada; citação |
-| P2017-10-14 | Da Base Atlan ao Colégio Druídico (palestra) | — | transcrição automatizada; citação |
-| P2021-01-30 | A Mensagem TALM e os Fios Soltos do Destino (palestra) | — | transcrição automatizada; citação |
-| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra) | — | transcrição automatizada; citação |
-| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra) | — | transcrição automatizada; citação |
-| B031 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
-| B017 — Terra Atlantis: A Montagem Bíblica | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
-| B018 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
-| B039 — Terra Atlantis: A Era Sapiens | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
-| P2020-04-25 · P2026-04-02 | — | — | fontes orais já registradas no cadastro antes deste ciclo |
-
-
-## Fontes
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2023-07-09 | A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
-
-
-> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-089.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

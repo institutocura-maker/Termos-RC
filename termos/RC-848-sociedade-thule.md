@@ -28,18 +28,6 @@ Com isso:
 
 **Origem do conteúdo da ampliação:** palestra `P2018-12-16 — Terra Atlantis - Era Sapiens` (16/12/2018). Transcrição automatizada, **não conferida com o áudio**; cada aspa foi recortada do `original.txt` pelo índice de âncoras do motor e conferida byte a byte pelo portão B. Nada foi digitado de memória.
 
-## Citações-chave
-
-> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
-
-- «Comecei a comprar ali um inglês português que existia sobre Hitler, mas eu percebi a influência esotérica, entre aspas, da sociedade Turno, da sociedade frio, que a gente vai falar daqui a pouco, sobre sobre Rita, porque Valeno também tinha falado isso, mas eu não tinha ainda descoberto as coisas […]» — *ver:* **Ampliação — P2018-12-16 (Terra Atlantis - Era Sapiens)** U0003
-
-
-## Ampliação
-### P2018-12-16 (Terra Atlantis - Era Sapiens)
-
-- **[Sociedade Thule, a 'sociedade Turno'] (U0003)** «Comecei a comprar ali um inglês português que existia sobre Hitler, mas eu percebi a influência esotérica, entre aspas, da sociedade Turno, da sociedade frio, que a gente vai falar daqui a pouco, sobre sobre Rita, porque Valeno também tinha falado isso, mas eu não tinha ainda descoberto as coisas como eu gostaria para ter certeza se eu não tava distorcendo as coisas que o Mal tinha dito.» — Sociedade Thule (STT 'Turno/Tudo'): a influência esotérica de Rudolf von Sebottendorf (1918), que estudava a 'Turciade' e o governo oculto desde os hiperbóreos; Himmler comandava o castelo de Wewelsburg como laboratório paranormal.
-
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
@@ -52,7 +40,20 @@ Com isso:
 |---|---|---|---|
 | P2018-12-16 | Terra Atlantis - Era Sapiens (palestra) | — | transcrição automatizada; citação |
 
-## Observações sobre o Estado da Malha
+## Citações-chave
+
+> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+
+- «Comecei a comprar ali um inglês português que existia sobre Hitler, mas eu percebi a influência esotérica, entre aspas, da sociedade Turno, da sociedade frio, que a gente vai falar daqui a pouco, sobre sobre Rita, porque Valeno também tinha falado isso, mas eu não tinha ainda descoberto as coisas […]» — *ver:* **Ampliação — P2018-12-16 (Terra Atlantis - Era Sapiens)** U0003
+
+
+## Ampliação
+### P2018-12-16 (Terra Atlantis - Era Sapiens)
+
+- **[Sociedade Thule, a 'sociedade Turno'] (U0003)** «Comecei a comprar ali um inglês português que existia sobre Hitler, mas eu percebi a influência esotérica, entre aspas, da sociedade Turno, da sociedade frio, que a gente vai falar daqui a pouco, sobre sobre Rita, porque Valeno também tinha falado isso, mas eu não tinha ainda descoberto as coisas como eu gostaria para ter certeza se eu não tava distorcendo as coisas que o Mal tinha dito.» — Sociedade Thule (STT 'Turno/Tudo'): a influência esotérica de Rudolf von Sebottendorf (1918), que estudava a 'Turciade' e o governo oculto desde os hiperbóreos; Himmler comandava o castelo de Wewelsburg como laboratório paranormal.
+
+## Observações
+### Observações sobre o Estado da Malha
 
 * **Grafia STT:** 'sociedade Turno' / 'sociedade Tudo' = Sociedade Thule. Influência esotérica de Rudolf von Sebottendorf (1918); a 'Turciade' e o governo oculto.
 * **Trava aplicável**: nenhuma além das gerais do despacho.

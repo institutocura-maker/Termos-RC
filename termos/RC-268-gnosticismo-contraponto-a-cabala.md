@@ -16,6 +16,27 @@ atualizado = "2026-08-18"
 
 Corrente esotérica cujas fontes são os **evangelhos gnósticos** — na RC, um dos **focos de revelação** que Thot "organizou lá atrás", contraponto à Cabala (RC-261/262/264/468).
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Jesus | RC-072 | ← relaciona-se-a |
+| Revelação Espiritual (Kardec) | RC-190 | associado |
+| Kether (Javé na Cabala) | RC-261 | opõe-se-a |
+| Sefirot / Árvore da Vida | RC-263 | associado |
+| Sepher ha-Zohar (e Shimon Bar Yochai) | RC-266 | associado |
+| Hermes Trismegisto (= Ningishzidda/Thoth/Quetzalcóatl) | RC-463 | ← relaciona-se-a |
+| Barbelo (Mãe-Pai primordial gnóstica) | RC-483 | relaciona-se-a |
+| Evangelho de Judas | RC-647 | ← relaciona-se-a |
+| As Sete Leis Herméticas | RC-763 | relaciona-se-a |
+| Cabala | RC-261/262/264/468 | contraponto-a |
+
+## Fontes
+
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2025-05-10 | Mistérios do Apocalipse (palestra) | — | transcrição automatizada; citação |
+| P2023-12-02 | bloco dos focos de revelação | palestra/STT pré-curada |
+
 ## Citações-chave
 
 > "Se eu pegar o Orfismo ou o Gnosticismo ou a Cabala ou a Teosofia ou o hermetismo, Thot está por trás de cada um deles, porque ele falou, ele organizou tudo isso lá atrás." — P2023-12-02
@@ -43,24 +64,3 @@ Corrente esotérica cujas fontes são os **evangelhos gnósticos** — na RC, um
 - **Gnósticos setianos/barbelos (RC-766):** os discípulos helenizados (100 discípulos); Maria Madalena entre eles — "a mesma turma que tava encarnada na época de Seth encarnou na época de Jesus";
 - **Línguas:** "esses livros começaram a ser produzidos em aramaico e em grego. Por isso que essas expressões arconte, gnose... foram se tornando presentes nos livros chamados hoje de gnósticos" (nova aresta RC-268 ↔ RC-483 Barbelo).
 
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Jesus | RC-072 | ← relaciona-se-a |
-| Revelação Espiritual (Kardec) | RC-190 | associado |
-| Kether (Javé na Cabala) | RC-261 | opõe-se-a |
-| Sefirot / Árvore da Vida | RC-263 | associado |
-| Sepher ha-Zohar (e Shimon Bar Yochai) | RC-266 | associado |
-| Hermes Trismegisto (= Ningishzidda/Thoth/Quetzalcóatl) | RC-463 | ← relaciona-se-a |
-| Barbelo (Mãe-Pai primordial gnóstica) | RC-483 | relaciona-se-a |
-| Evangelho de Judas | RC-647 | ← relaciona-se-a |
-| As Sete Leis Herméticas | RC-763 | relaciona-se-a |
-| Cabala | RC-261/262/264/468 | contraponto-a |
-
-## Fontes
-
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2025-05-10 | Mistérios do Apocalipse (palestra) | — | transcrição automatizada; citação |
-| P2023-12-02 | bloco dos focos de revelação | palestra/STT pré-curada |

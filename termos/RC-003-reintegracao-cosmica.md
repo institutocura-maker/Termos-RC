@@ -15,8 +15,54 @@ atualizado = "2026-08-29"
 ## Definição Sintética
 É a reintegração que a Terra sofrerá **após a vinda de Sophia** (o retorno de Jesus): o planeta será reintegrado ao **Circuito Cósmico**, retomando contato com seres de outros planetas e saindo do exílio imposto pelo próprio Sophia após a Rebelião de Lúcifer. Difere-se da Revelação Cósmica (é **um dos fatos marcantes** dentro dela). Para as gerações futuras, num âmbito maior, integrará também os seres do universo paralelo ao nosso universo (B031).
 
+## Etimologia e Grafias
+- **Grafia preferida:** Reintegração Cósmica
+- **Variações:** (verificar uso de "reabilitação", "retorno ao circuito cósmico", "cidadania planetária")
+
+
 ## Contexto / Origem
 Conceito que amarra os três eixos do pensamento de Ellam — cristianismo, espiritismo kardecista e ufologia — e dá nome ao livro *Reintegração Cósmica* (ed. Navegar/Conhecimento). É a moldura em que o drama de Javé, os exilados e as civilizações extraterrestres se inserem.
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Javé | RC-001 | associado |
+| Rebelião de Lúcifer | RC-002 | associado |
+| Segundo Advento do Cristo (Volta de Jesus) | RC-005 | ← inicia |
+| Exilados de Capela | RC-007 | associado |
+| Sophia (Cristo Cósmico) | RC-009 | ← assume-regência |
+| Isolamento Cósmico | RC-070 | associado |
+| Revelação Cósmica (conceito) | RC-094 | associado |
+| Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | envolve |
+| Cidadão Cósmico | RC-226 | ← relaciona-se-a |
+| Coreografia Cósmica (vinda de Sophia) | RC-258 | envolve |
+| Os 270 Mundos (profecia do Zohar) | RC-265 | associado |
+| Quarentena Sideral / Cósmica | RC-342 | ← encerra-com |
+| Quarentena Sideral / Cósmica | RC-342 | ← encerra-com |
+| Transição Planetária | RC-344 | ← antecede |
+| Transição Planetária | RC-344 | relaciona-se-a |
+| Trilogia Queda e Ascensão Espiritual | RC-354 | ← inclui |
+| Confederações de Mundos | RC-357 | associado |
+| Sentido Gradualístico das Leis da Evolução Cósmica | RC-404 | ← explica |
+| Alvorecer de Aquário | RC-405 | ← antecede |
+| Diálogos de Sócrates, Platão e Aristóteles (nos Céus da Grécia) | RC-406 | associado |
+| Reencarnação iminente da grande leva de espíritos | RC-407 | associado |
+| Tikun Cósmico (restabelecimento da Criação) | RC-514 | ← relaciona-se-a |
+| Era do Conhecimento e da Espiritualização | RC-536 | ← relaciona-se-a |
+| Ano de 2012 como Divisor de Ciclos | RC-571 | ← antecede |
+| Nova Espiritualidade / Novo Paraíso (Paraíso B) | RC-612 | ← relaciona-se-a |
+| Superconsciência | RC-615 | ← relaciona-se-a |
+| Destino das Mônadas após o Tikun | RC-653 | associado |
+| Colapso do Caos Organizado | RC-690 | ocorre-em |
+| Oitavo Dia da Criação | RC-694 | ← relaciona-se-a |
+| Camuflagem da Realidade | RC-702 | rompe |
+| Mahatma Magant como Libertador da Alimentação Demoníaca | RC-822 | associado |
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2020-04-04 | Javé, Sophia e Jesus: a Trindade Jamais Percebida (palestra Q&A) (palestra) | — | transcrição; citação |
+| P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |
 
 ## Citações-chave
 
@@ -159,49 +205,3 @@ Conceito que amarra os três eixos do pensamento de Ellam — cristianismo, espi
 ---
 ---
 ---
-
-## Etimologia e Grafias
-- **Grafia preferida:** Reintegração Cósmica
-- **Variações:** (verificar uso de "reabilitação", "retorno ao circuito cósmico", "cidadania planetária")
-
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | associado |
-| Rebelião de Lúcifer | RC-002 | associado |
-| Segundo Advento do Cristo (Volta de Jesus) | RC-005 | ← inicia |
-| Exilados de Capela | RC-007 | associado |
-| Sophia (Cristo Cósmico) | RC-009 | ← assume-regência |
-| Isolamento Cósmico | RC-070 | associado |
-| Revelação Cósmica (conceito) | RC-094 | associado |
-| Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | envolve |
-| Cidadão Cósmico | RC-226 | ← relaciona-se-a |
-| Coreografia Cósmica (vinda de Sophia) | RC-258 | envolve |
-| Os 270 Mundos (profecia do Zohar) | RC-265 | associado |
-| Quarentena Sideral / Cósmica | RC-342 | ← encerra-com |
-| Quarentena Sideral / Cósmica | RC-342 | ← encerra-com |
-| Transição Planetária | RC-344 | ← antecede |
-| Transição Planetária | RC-344 | relaciona-se-a |
-| Trilogia Queda e Ascensão Espiritual | RC-354 | ← inclui |
-| Confederações de Mundos | RC-357 | associado |
-| Sentido Gradualístico das Leis da Evolução Cósmica | RC-404 | ← explica |
-| Alvorecer de Aquário | RC-405 | ← antecede |
-| Diálogos de Sócrates, Platão e Aristóteles (nos Céus da Grécia) | RC-406 | associado |
-| Reencarnação iminente da grande leva de espíritos | RC-407 | associado |
-| Tikun Cósmico (restabelecimento da Criação) | RC-514 | ← relaciona-se-a |
-| Era do Conhecimento e da Espiritualização | RC-536 | ← relaciona-se-a |
-| Ano de 2012 como Divisor de Ciclos | RC-571 | ← antecede |
-| Nova Espiritualidade / Novo Paraíso (Paraíso B) | RC-612 | ← relaciona-se-a |
-| Superconsciência | RC-615 | ← relaciona-se-a |
-| Destino das Mônadas após o Tikun | RC-653 | associado |
-| Colapso do Caos Organizado | RC-690 | ocorre-em |
-| Oitavo Dia da Criação | RC-694 | ← relaciona-se-a |
-| Camuflagem da Realidade | RC-702 | rompe |
-| Mahatma Magant como Libertador da Alimentação Demoníaca | RC-822 | associado |
-
-## Fontes
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2020-04-04 | Javé, Sophia e Jesus: a Trindade Jamais Percebida (palestra Q&A) (palestra) | — | transcrição; citação |
-| P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |

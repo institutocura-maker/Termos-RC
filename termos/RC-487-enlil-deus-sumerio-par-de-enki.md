@@ -20,6 +20,30 @@ Anunnaki filho de Anu (RC-587), irmão de **Enki** (RC-486) e de Ninmah/Ninhursa
 
 **Ficha criada a partir da fonte primária P2021-03-27** (autorização do curador, 2026-08-18 — "criação vital"). Enlil é citado como comandante do efetivo anunnaki na Terra (~850–900, com a tipologia igigi) e como líder do clã que disputava as cidades sumérias com o clã de Enki.
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Javé | RC-001 | relaciona-se-a |
+| Anunnaki | RC-024 | é-um |
+| Ninmah (Anunnaki geneticista) | RC-461 | irmão-de |
+| Enki (Anunnaki; inoculou o gene FOXP2) | RC-486 | ← relaciona-se-a |
+| Guerra Nuclear Anunnaki (Sete Armas Atômicas) | RC-583 | ← envolve |
+| Anu (patriarca Anunnaki) | RC-587 | ← pai-de |
+| Ninurta | RC-588 | associado |
+| Ao Vencedor as Batatas (paradigma do domínio) | RC-764 | ← relaciona-se-a |
+
+## Fontes
+
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
+| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
+| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
+| P2021-03-27 | bloco 3 (hierarquia/regra de sucessão); bloco 6–8 (disputa/retirada) | palestra/STT pré-curada |
+
+
+
+
 ## Citações-chave
 
 > "Os descendentes dos clãs de Enki e Enlil sempre disputaram o poder nessas cidades sumerianas e nas cidades do Egito... E os objetivos de Enlil e Anu eram mais parecidos com os de Javé do que propriamente com os de Enki." — P2021-03-27
@@ -71,35 +95,11 @@ Anunnaki filho de Anu (RC-587), irmão de **Enki** (RC-486) e de Ninmah/Ninhursa
 - **Retirada:** ~600 a.C. (era axial) — "Anu foi obrigado a dizer: vamos embora, não vai ficar mais ninguém aqui" (ainda deixaram netos/bisnetos).
 
 
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | relaciona-se-a |
-| Anunnaki | RC-024 | é-um |
-| Ninmah (Anunnaki geneticista) | RC-461 | irmão-de |
-| Enki (Anunnaki; inoculou o gene FOXP2) | RC-486 | ← relaciona-se-a |
-| Guerra Nuclear Anunnaki (Sete Armas Atômicas) | RC-583 | ← envolve |
-| Anu (patriarca Anunnaki) | RC-587 | ← pai-de |
-| Ninurta | RC-588 | associado |
-| Ao Vencedor as Batatas (paradigma do domínio) | RC-764 | ← relaciona-se-a |
-
 ## Observações
 
 Cronologia (450.000; 4.000; 600 a.C.), guerras atômicas e geopolítica dos clãs são **leitura do autor** (cronologia interna + quarentena histórica) — não são afirmações arqueológicas validadas.
 
 
-## Fontes
-
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
-| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
-| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
-| P2021-03-27 | bloco 3 (hierarquia/regra de sucessão); bloco 6–8 (disputa/retirada) | palestra/STT pré-curada |
-
-
-
-
-## Observação do curador — HIPÓTESE DE LEITURA (2026-08-18)
+### Observação do curador — HIPÓTESE DE LEITURA (2026-08-18)
 
 > **Insight do curador:** as atitudes de Enlil são "perigosamente parecidas" com as do Criador caído — historicamente, a humanidade pode ter **confundido os mandos de Enlil com as ordens de Javé**. Registro como **hipótese de leitura histórica** (para o RAG cruzar dados), **sem fusão ontológica** — Enlil e Javé permanecem entidades distintas na Base.

@@ -17,6 +17,43 @@ atualizado = "2026-08-28"
 Metáfora do crupier/cassino aplicada ao genoma: assim como um baralho tem 52 cartas divididas em 4 naipes, o genoma humano tem 28.869 genes que compõem o 'baralho' criado pelos seres do universo vizinho (Brahma, Vishnu, Shiva). 'Cada código desse produz uma microsensação.' O crupier (o eu do criador) percebeu que não controla o resultado do jogo.
 
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| CFD (Código Fonte Definidor) | RC-040 | relaciona-se-a |
+| DNA como Projeção Holográfica do Psiquismo do Criador | RC-217 | relaciona-se-a |
+| Sensação de eu (a sensação particular a cada instante) | RC-558 | relaciona-se-a |
+| Teia quântica (o que sai de um ser volta para ele) | RC-559 | associado |
+| Satchidanandaghana (super código genômico do Projeto TALM) | RC-838 | associado |
+| DNA Neutralizado (código neutralizado de podridão do criador) | RC-864 | associado |
+| Pulsação Digna (a pulsação alinhada a conceitos supremos) | RC-865 | associado |
+| Genoma da Dignidade (o código esquecido na criação) | RC-868 | associado |
+| Fórmulas Mentais (o código dos demos, contraposto ao DNA humano) | RC-870 | associado |
+| Midana (o código original primordial semeado no universo biológico) | RC-871 | associado |
+| Carga virótica (a materialização da primeira carga mental do criador) | RC-877 | associado |
+| Bemisia tabaci / Mosca branca (a praga que incorporou um gene vegetal; metáfora do humano que domou o gene demo) | RC-884 | associado |
+| Savant (a genialidade preservada além do autismo num grau; figura útil no final) | RC-885 | associado |
+
+## Fontes
+
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2025-12-14 | Os Fundamentos da Revelação Cósmica (palestra) | — | transcrição automatizada; citação |
+| P2022-11-19 | No Princípio era o Bem! Será (palestra) | — | transcrição automatizada; citação |
+| P2022-09-17 | A Hipóstase dos Arcontes (palestra) | — | transcrição automatizada; citação |
+| P2021-06-26 | Shiva - A Reconstrução do Erro de Brahma e o Tikum (palestra) | — | transcrição automatizada; citação |
+| P2021-02-28 | Tragédia Anunciada - As Fórmulas Mentais do Poder Demo (palestra) | — | transcrição automatizada; citação |
+| P2022-07-16 | Do Ramayana ao Mahabharata (palestra) | — | transcrição automatizada; citação |
+| P2022-09-18 | Os Níveis de Estresse Extremo da Criação (palestra) | — | transcrição automatizada; citação |
+| P2022-11-26 | Choque de Realidade – o Perpétuo Espanto dos Donos da Verdade (palestra) | — | transcrição automatizada; citação |
+| P2022-12-03 | O Ocaso do Criador e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
+| P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
+| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
+| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
+| P2024-02-25 | As Faces de Javé — O Senhor Parameshthi (re-curadoria; dossiê aprovado 19/08/2026) | palestra/STT pré-curada |
+
+
+
 ## Citações-chave
 
 > "Os nossos 28.869 genes que compõem o genoma de cada um de nós é o baralho que esses seres criaram nessa época. Cada código desse produz uma microsensação."
@@ -81,46 +118,9 @@ Metáfora do crupier/cassino aplicada ao genoma: assim como um baralho tem 52 ca
 - **[A flutuação quântica como partículas informadas] (U0088)** «pululam em torno da cabeça de um ser humano como sendo flutuação quântica sobre a forma de energia se transformando em partículas informadas.» — a flutuação quântica como energia que se transforma em partículas informadas ao redor da cabeça humana; a interface entre o universo quântico e a consciência biológica (RC-562 Baralho Genético; RC-400).
 
 
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| CFD (Código Fonte Definidor) | RC-040 | relaciona-se-a |
-| DNA como Projeção Holográfica do Psiquismo do Criador | RC-217 | relaciona-se-a |
-| Sensação de eu (a sensação particular a cada instante) | RC-558 | relaciona-se-a |
-| Teia quântica (o que sai de um ser volta para ele) | RC-559 | associado |
-| Satchidanandaghana (super código genômico do Projeto TALM) | RC-838 | associado |
-| DNA Neutralizado (código neutralizado de podridão do criador) | RC-864 | associado |
-| Pulsação Digna (a pulsação alinhada a conceitos supremos) | RC-865 | associado |
-| Genoma da Dignidade (o código esquecido na criação) | RC-868 | associado |
-| Fórmulas Mentais (o código dos demos, contraposto ao DNA humano) | RC-870 | associado |
-| Midana (o código original primordial semeado no universo biológico) | RC-871 | associado |
-| Carga virótica (a materialização da primeira carga mental do criador) | RC-877 | associado |
-| Bemisia tabaci / Mosca branca (a praga que incorporou um gene vegetal; metáfora do humano que domou o gene demo) | RC-884 | associado |
-| Savant (a genialidade preservada além do autismo num grau; figura útil no final) | RC-885 | associado |
-
 ## Observações
 
 Quarentena científica (número de genes é conjuntural).
 
 ---
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
-
-## Fontes
-
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2025-12-14 | Os Fundamentos da Revelação Cósmica (palestra) | — | transcrição automatizada; citação |
-| P2022-11-19 | No Princípio era o Bem! Será (palestra) | — | transcrição automatizada; citação |
-| P2022-09-17 | A Hipóstase dos Arcontes (palestra) | — | transcrição automatizada; citação |
-| P2021-06-26 | Shiva - A Reconstrução do Erro de Brahma e o Tikum (palestra) | — | transcrição automatizada; citação |
-| P2021-02-28 | Tragédia Anunciada - As Fórmulas Mentais do Poder Demo (palestra) | — | transcrição automatizada; citação |
-| P2022-07-16 | Do Ramayana ao Mahabharata (palestra) | — | transcrição automatizada; citação |
-| P2022-09-18 | Os Níveis de Estresse Extremo da Criação (palestra) | — | transcrição automatizada; citação |
-| P2022-11-26 | Choque de Realidade – o Perpétuo Espanto dos Donos da Verdade (palestra) | — | transcrição automatizada; citação |
-| P2022-12-03 | O Ocaso do Criador e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
-| P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
-| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
-| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
-| P2024-02-25 | As Faces de Javé — O Senhor Parameshthi (re-curadoria; dossiê aprovado 19/08/2026) | palestra/STT pré-curada |
-
-

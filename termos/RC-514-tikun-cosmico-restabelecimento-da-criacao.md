@@ -16,6 +16,62 @@ atualizado = "2026-09-12"
 
 O "conserto" da Criação e a recuperação do Criador — conceito da Cabala (Tikun) incorporado à Revelação Cósmica: as criaturas, como agentes da vida (RC-148) e coconstrutores da Obra (RC-545), ajudam a curar o Criador (RC-332) e a consertar a Obra. É o caminho de volta da Reintegração Cósmica (RC-003).
 
+### Estrutura interna
+
+- restabelecimento da Criação; reparo do Criador caído;
+- coconstrutores da Obra (RC-545); Favor Divino (RC-332);
+- Tikun vibracional: a liberação da alma para o próprio reencontro (leitura do artigo ART-2026-08-18).
+
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Reintegração Cósmica | RC-003 | relaciona-se-a |
+| Pandora | RC-086 | relaciona-se-a |
+| Quarto Logos (Olm / Codificador de Zian) | RC-092 | relaciona-se-a |
+| Criação Indevida (Obra indevida) | RC-167 | associado |
+| DNA como Projeção Holográfica do Psiquismo do Criador | RC-217 | atua-em |
+| Razão Filosófica dos Terráqueos | RC-231 | usa |
+| Enigma da Esperança (Caixa de Pandora) | RC-287 | associado |
+| Favor Divino (conceito invertido) | RC-332 | relaciona-se-a |
+| Coconstrutores da Obra (tikun) | RC-545 | ← relaciona-se-a |
+| Coconstrutores da Obra (tikun) | RC-545 | relaciona-se-a |
+| Fios soltos (improviso humano × robô) | RC-564 | ← relaciona-se-a |
+| Linhagem de Seth | RC-594 | ← relaciona-se-a |
+| Moksha | RC-618 | ← relaciona-se-a |
+| Ressurreição do Cadáver do Criador | RC-638 | ← relaciona-se-a |
+| Santo Graal (Frequência Mestre) | RC-643 | ← relaciona-se-a |
+| Destino das Mônadas após o Tikun | RC-653 | ← sucede |
+| Destino das Mônadas após o Tikun | RC-653 | ← sucede |
+| Revelação de Ifá e Destinação dos Seres | RC-655 | ← relaciona-se-a |
+| Primado da Informação | RC-707 | ← usado-por |
+| Primado da Informação | RC-707 | usa |
+| Taumaturgia Genético-Química | RC-713 | ← relaciona-se-a |
+| Taumaturgia Genético-Química | RC-713 | relaciona-se-a |
+| Dignidade como Critério de Consciência | RC-722 | ← necessário-a |
+| Quarto Cérebro (centro de sabedoria vibracional) | RC-758 | ← relaciona-se-a |
+| A Raça Inabalável dos Sethianos Emancipados | RC-766 | ← relaciona-se-a |
+| Ocaso do Criador (a segunda derrocada do criador reconstruído) | RC-863 | associado |
+
+## Fontes
+
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2021-06-26 | Shiva - A Reconstrução do Erro de Brahma e o Tikum (palestra) | — | transcrição automatizada; citação |
+| P2022-09-18 | Os Níveis de Estresse Extremo da Criação (palestra) | — | transcrição automatizada; citação |
+| P2022-11-26 | Choque de Realidade – o Perpétuo Espanto dos Donos da Verdade (palestra) | — | transcrição automatizada; citação |
+| P2022-12-03 | O Ocaso do Criador e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
+| P2023-02-12 | A Desconexão dos Desígnios Proféticos do Judaísmo, do Cristianismo e do Islamismo (palestra) | — | transcrição automatizada; citação |
+| P2023-08-27 | Len Mion e os Senhores da Terra Alexandre Magno e Qin Shi Huang Di (palestra) | — | transcrição automatizada; citação |
+| P2022-05-07 | Shiva, o Projeto Talm e os Mistérios de Awaylengam (palestra) | — | transcrição automatizada; citação |
+| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
+| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
+| B061, B071, B019, B074, B075 | obras | livros |
+| P2022-12-17, P2021-12-04, P2024-05-04, P2025-10-25, P2025-06-26, P2025-02-15, P2024-11-30, P2024-11-09, P2024-07-14 | palestras | palestra/STT |
+| ART-2026-08-18 | O Quarto Cérebro de Pandora (artigo — Denise F. Silva) | artigo de aluna avançada |
+
+
+
 ## Citações-chave
 
 > Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
@@ -133,63 +189,8 @@ O "conserto" da Criação e a recuperação do Criador — conceito da Cabala (T
 - **Início com o Quarto Logos (RC-092):** "só se começa esse trabalho de Tikun na hora que o Quarto Logos começar a atuar" (nova aresta RC-514 ↔ RC-092);
 - **Sem o tempero da dignidade (RC-722):** "esse sistema genômico não funciona para o Tikun. Por isso que tem que ser a raça inabalável dos Sethianos Emancipados, que esses pode faltar tudo no genoma deles, menos a sensação de dignidade".
 
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Reintegração Cósmica | RC-003 | relaciona-se-a |
-| Pandora | RC-086 | relaciona-se-a |
-| Quarto Logos (Olm / Codificador de Zian) | RC-092 | relaciona-se-a |
-| Criação Indevida (Obra indevida) | RC-167 | associado |
-| DNA como Projeção Holográfica do Psiquismo do Criador | RC-217 | atua-em |
-| Razão Filosófica dos Terráqueos | RC-231 | usa |
-| Enigma da Esperança (Caixa de Pandora) | RC-287 | associado |
-| Favor Divino (conceito invertido) | RC-332 | relaciona-se-a |
-| Coconstrutores da Obra (tikun) | RC-545 | ← relaciona-se-a |
-| Coconstrutores da Obra (tikun) | RC-545 | relaciona-se-a |
-| Fios soltos (improviso humano × robô) | RC-564 | ← relaciona-se-a |
-| Linhagem de Seth | RC-594 | ← relaciona-se-a |
-| Moksha | RC-618 | ← relaciona-se-a |
-| Ressurreição do Cadáver do Criador | RC-638 | ← relaciona-se-a |
-| Santo Graal (Frequência Mestre) | RC-643 | ← relaciona-se-a |
-| Destino das Mônadas após o Tikun | RC-653 | ← sucede |
-| Destino das Mônadas após o Tikun | RC-653 | ← sucede |
-| Revelação de Ifá e Destinação dos Seres | RC-655 | ← relaciona-se-a |
-| Primado da Informação | RC-707 | ← usado-por |
-| Primado da Informação | RC-707 | usa |
-| Taumaturgia Genético-Química | RC-713 | ← relaciona-se-a |
-| Taumaturgia Genético-Química | RC-713 | relaciona-se-a |
-| Dignidade como Critério de Consciência | RC-722 | ← necessário-a |
-| Quarto Cérebro (centro de sabedoria vibracional) | RC-758 | ← relaciona-se-a |
-| A Raça Inabalável dos Sethianos Emancipados | RC-766 | ← relaciona-se-a |
-| Ocaso do Criador (a segunda derrocada do criador reconstruído) | RC-863 | associado |
-
-## Fontes
-
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2021-06-26 | Shiva - A Reconstrução do Erro de Brahma e o Tikum (palestra) | — | transcrição automatizada; citação |
-| P2022-09-18 | Os Níveis de Estresse Extremo da Criação (palestra) | — | transcrição automatizada; citação |
-| P2022-11-26 | Choque de Realidade – o Perpétuo Espanto dos Donos da Verdade (palestra) | — | transcrição automatizada; citação |
-| P2022-12-03 | O Ocaso do Criador e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
-| P2023-02-12 | A Desconexão dos Desígnios Proféticos do Judaísmo, do Cristianismo e do Islamismo (palestra) | — | transcrição automatizada; citação |
-| P2023-08-27 | Len Mion e os Senhores da Terra Alexandre Magno e Qin Shi Huang Di (palestra) | — | transcrição automatizada; citação |
-| P2022-05-07 | Shiva, o Projeto Talm e os Mistérios de Awaylengam (palestra) | — | transcrição automatizada; citação |
-| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
-| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
-| B061, B071, B019, B074, B075 | obras | livros |
-| P2022-12-17, P2021-12-04, P2024-05-04, P2025-10-25, P2025-06-26, P2025-02-15, P2024-11-30, P2024-11-09, P2024-07-14 | palestras | palestra/STT |
-| ART-2026-08-18 | O Quarto Cérebro de Pandora (artigo — Denise F. Silva) | artigo de aluna avançada |
-
-
-
-## Estrutura interna
-
-- restabelecimento da Criação; reparo do Criador caído;
-- coconstrutores da Obra (RC-545); Favor Divino (RC-332);
-- Tikun vibracional: a liberação da alma para o próprio reencontro (leitura do artigo ART-2026-08-18).
-
-
-## Interpretação secundária (ART-2026-08-18)
+## Observações
+### Interpretação secundária (ART-2026-08-18)
 
 Na leitura/interpretação do artigo *O Quarto Cérebro de Pandora* (Denise Ferreira da Silva, aluna avançada de Jan Val Ellam):
 

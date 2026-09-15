@@ -15,8 +15,78 @@ atualizado = "2026-08-12"
 ## Definição Sintética
 No contexto da Revelação Cósmica, **o Criador é Brahma**, responsável pela criação deste universo e do universo antimaterial; é quem aparece na Bíblia como **Javé**, o Deus Bíblico. O Criador é apenas uma **Divindade Co-Criadora** — **não é** o Pai-Mãe Amantíssimo (Deidade), apesar de a maioria confundi-los. Platão o chamava de **Demiurgo** (B031).
 
+## Etimologia e Grafias
+- **Grafia preferida:** Criador
+- **Variações:** Brahma; Javé; Deus Bíblico; Demiurgo (Platão); "Criador caído"
+
+
 ## Contexto / Origem
 A distinção **Criador (caído) × Deidade (Pai-Mãe)** é um dos eixos doutrinários do RC. O Criador "caiu" na própria Criação, gerando os dois universos paralelos e o drama cósmico.
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Javé | RC-001 | ← sinônimo |
+| Tzimtzum | RC-008 | associado |
+| Anjos clones | RC-019 | criado-por (agente) |
+| Biodemos | RC-036 | ← criado-por |
+| Brahma (Brajna) | RC-037 | sinônimo |
+| Brahmaloka | RC-038 | associado |
+| CFD (Código Fonte Definidor) | RC-040 | associado |
+| Deidade (Pai-Mãe Amantíssimo / Brahman) | RC-047 | opõe-se-a (distinção) |
+| Demiurgo | RC-048 | sinônimo |
+| Deus / Deus Incognoscível | RC-052 | distingue-se |
+| Favor Divino | RC-063 | tema-relacionado |
+| Jesus | RC-072 | associado |
+| Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | associado |
+| Prabrajna | RC-152 | associado |
+| Criação Indevida (Obra indevida) | RC-167 | associado |
+| Simbiose Quântica | RC-195 | associado |
+| Criador refém das próprias criaturas | RC-196 | ← é-um |
+| Arquiteto Universal | RC-207 | ← variação |
+| Criador de Padrões Dependentes | RC-208 | associado |
+| Queda do Arquiteto Universal | RC-216 | associado |
+| DNA como Projeção Holográfica do Psiquismo do Criador | RC-217 | associado |
+| Sustentação Espiritual do Universo | RC-221 | associado |
+| O Mal: Subproduto da Ignorância Espiritual | RC-223 | associado |
+| Éden do Criador (Éden como laboratório) | RC-242 | associado |
+| Genética da Confiança | RC-243 | associado |
+| Germe da Desconfiança | RC-244 | ← herdado-de |
+| A Humanização do Criador | RC-245 | associado |
+| Dez Sagrados (primeira geração do Criador) | RC-246 | associado |
+| Laboratórios do Criador | RC-251 | associado |
+| Prisioneiros da Brahmaloka | RC-260 | ← inclui |
+| Pactos do Criador (troca de informações) | RC-271 | associado |
+| Laço Temporal de Kether/Javé | RC-272 | associado |
+| Sacralização do Absurdo | RC-276 | associado |
+| Caos = Brahma = Javé (correspondência) | RC-284 | associado |
+| Adhyshprabrajna (Adhy que caiu) | RC-310 | associado |
+| Favor Divino (conceito invertido) | RC-332 | ← inverte |
+| Teocracia da Doença de uma Divindade | RC-334 | ← é-um |
+| Lavagem Cerebral (condicionamento) | RC-335 | ← aplica-se-a |
+| Ética da Sobrevivência de Javé | RC-336 | ← é-um |
+| Humanos: uma simples Experiência Biológica | RC-337 | associado |
+| O Reconhecimento que nunca veio | RC-338 | associado |
+| A Difícil Cobrança sobre os Humanos | RC-339 | associado |
+| Atores de uma Peça Incompreensível | RC-340 | associado |
+| Jeová (grafia da trilogia) | RC-346 | associado |
+| A Criação de Ídolos para a Humanidade | RC-370 | associado |
+| A Rebelião dos Elétrons | RC-378 | associado |
+| A Vida do CFD de Javé no Ser Humano | RC-382 | associado |
+| Roteiro do Absurdo Implantado na Criação | RC-383 | associado |
+| Memórias para Javé | RC-386 | associado |
+| Fragmentação do Poder Mental da Divindade | RC-387 | associado |
+| Terminal Nervoso do Criador (humano) | RC-418 | ← comunica-com |
+| Ser-Criador fracassado (autoconfissão de Javé) | RC-422 | ← é-um |
+| Aristocracia Olimpiana e Monarquias Terrestres | RC-736 | associado |
+
+## Seres Associados
+Brahma (RC-037); Javé (RC-001); Vishnu (RC-135); Shiva (RC-102); En Drel (RC-055).
+
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo |
+|---|---|---|---|
+| Painéis Emergentes... (B031) | Glossário de Termos | p. 127 (aprox.) | verbete "Criador" |
 
 ## Citações-chave
 > "No contexto da Revelação Cósmica, o Criador é Brahma, que foi o responsável pela criação desse universo e do universo antimaterial. Ele é quem aparece nas páginas da Bíblia como Javé, o Deus Bíblico. Vale aqui reforçar que o Criador é apenas uma Divindade Co-Criadora, porém não é o Pai-Mãe Amantíssimo (Deidade)." — B031, verbete "Criador"
@@ -98,79 +168,9 @@ A distinção **Criador (caído) × Deidade (Pai-Mãe)** é um dos eixos doutrin
 - **[B020 p. 117]** Posfácio (fala de Ellam): «O modo ditatorial como o criador agiu e age vitimou os demónios e os egos dos evolutivos».
 - **[B020 p. 118]** «esta humanidade, criada doente e obrigada a ser sadia» = **quarentena clínica** (leitura cosmologica, jamais diagnóstico). Introdução «tirocínio dementado» / «dementada estirpe» = **clínica — fora da ontologia**. Caps. 1–14 **isolados**. Sem fusão com B015 / B017 / B048. Fonte **B020** já constava na tabela-mestra.
 
-## Etimologia e Grafias
-- **Grafia preferida:** Criador
-- **Variações:** Brahma; Javé; Deus Bíblico; Demiurgo (Platão); "Criador caído"
-
-
-## Seres Associados
-Brahma (RC-037); Javé (RC-001); Vishnu (RC-135); Shiva (RC-102); En Drel (RC-055).
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | ← sinônimo |
-| Tzimtzum | RC-008 | associado |
-| Anjos clones | RC-019 | criado-por (agente) |
-| Biodemos | RC-036 | ← criado-por |
-| Brahma (Brajna) | RC-037 | sinônimo |
-| Brahmaloka | RC-038 | associado |
-| CFD (Código Fonte Definidor) | RC-040 | associado |
-| Deidade (Pai-Mãe Amantíssimo / Brahman) | RC-047 | opõe-se-a (distinção) |
-| Demiurgo | RC-048 | sinônimo |
-| Deus / Deus Incognoscível | RC-052 | distingue-se |
-| Favor Divino | RC-063 | tema-relacionado |
-| Jesus | RC-072 | associado |
-| Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | associado |
-| Prabrajna | RC-152 | associado |
-| Criação Indevida (Obra indevida) | RC-167 | associado |
-| Simbiose Quântica | RC-195 | associado |
-| Criador refém das próprias criaturas | RC-196 | ← é-um |
-| Arquiteto Universal | RC-207 | ← variação |
-| Criador de Padrões Dependentes | RC-208 | associado |
-| Queda do Arquiteto Universal | RC-216 | associado |
-| DNA como Projeção Holográfica do Psiquismo do Criador | RC-217 | associado |
-| Sustentação Espiritual do Universo | RC-221 | associado |
-| O Mal: Subproduto da Ignorância Espiritual | RC-223 | associado |
-| Éden do Criador (Éden como laboratório) | RC-242 | associado |
-| Genética da Confiança | RC-243 | associado |
-| Germe da Desconfiança | RC-244 | ← herdado-de |
-| A Humanização do Criador | RC-245 | associado |
-| Dez Sagrados (primeira geração do Criador) | RC-246 | associado |
-| Laboratórios do Criador | RC-251 | associado |
-| Prisioneiros da Brahmaloka | RC-260 | ← inclui |
-| Pactos do Criador (troca de informações) | RC-271 | associado |
-| Laço Temporal de Kether/Javé | RC-272 | associado |
-| Sacralização do Absurdo | RC-276 | associado |
-| Caos = Brahma = Javé (correspondência) | RC-284 | associado |
-| Adhyshprabrajna (Adhy que caiu) | RC-310 | associado |
-| Favor Divino (conceito invertido) | RC-332 | ← inverte |
-| Teocracia da Doença de uma Divindade | RC-334 | ← é-um |
-| Lavagem Cerebral (condicionamento) | RC-335 | ← aplica-se-a |
-| Ética da Sobrevivência de Javé | RC-336 | ← é-um |
-| Humanos: uma simples Experiência Biológica | RC-337 | associado |
-| O Reconhecimento que nunca veio | RC-338 | associado |
-| A Difícil Cobrança sobre os Humanos | RC-339 | associado |
-| Atores de uma Peça Incompreensível | RC-340 | associado |
-| Jeová (grafia da trilogia) | RC-346 | associado |
-| A Criação de Ídolos para a Humanidade | RC-370 | associado |
-| A Rebelião dos Elétrons | RC-378 | associado |
-| A Vida do CFD de Javé no Ser Humano | RC-382 | associado |
-| Roteiro do Absurdo Implantado na Criação | RC-383 | associado |
-| Memórias para Javé | RC-386 | associado |
-| Fragmentação do Poder Mental da Divindade | RC-387 | associado |
-| Terminal Nervoso do Criador (humano) | RC-418 | ← comunica-com |
-| Ser-Criador fracassado (autoconfissão de Javé) | RC-422 | ← é-um |
-| Aristocracia Olimpiana e Monarquias Terrestres | RC-736 | associado |
-
 ## Observações
 Ficha baseada no glossário de B031. O termo "Criador" funciona como **canônico** para a entidade Brahma/Javé/Demiurgo — as demais grafias são variações.
 
 
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-041.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
-
-## Fontes
-| Obra (sigla) | Capítulo | Página | Tipo |
-|---|---|---|---|
-| Painéis Emergentes... (B031) | Glossário de Termos | p. 127 (aprox.) | verbete "Criador" |

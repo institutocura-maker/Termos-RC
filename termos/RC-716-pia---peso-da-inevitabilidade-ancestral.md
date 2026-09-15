@@ -15,25 +15,16 @@ atualizado = "2026-08-15"
 ## Definição Sintética
 Medida do peso da condição ancestral presente em cada código particularizado, impondo necessidades e trajetórias para possível neutralização ou ressignificação.
 
+### Fixação da sigla
+A forma canônica aprovada é:
+
+> **PIA — Peso da Inevitabilidade Ancestral**
+
+“Podridão” é a interpretação humana usada na palestra para explicar o conteúdo medido; não integra necessariamente a expansão da sigla. O eBook de IA alterna formas e não decide a questão.
+
 ## Contexto / Origem
 Moros teria calculado o PIA de cada ser e Anank/Anankê `[REVISAR → CHANCELA 10/09/2026 · F039-L5: AGUARDA-ÁUDIO (ver Ananque, RC-777, grafia consagrada; STT nunca renomeado por conveniência) — ver nota]` teria relacionado genoma e necessidades derivadas desse peso. Wyrd organizaria o retorno das informações ao emissor.
 
-
-## Citações-chave
-> “Moros mediu o Peso da Inevitabilidade Ancestral.”
-
-## Ampliação
-### P2024-11-30
-
-- **PIA (P2024-11-30):** "Ananké, depois de milhões de anos, conseguiu criar a relação das necessidades típicas daquele tipo de peso inevitável, de podridão ancestral, que cada ser sentia"; a última Moira (Skuld) "iria trabalhar na confecção das possíveis soluções para a necessidade daquele tipo de código podre, o que implicava dizer que o dono desse código, se soubesse do que essa moira sabia, saberia do futuro, já que inevitavelmente aquele eu particularizado seria levado por uma força que o obrigaria a percorrer um caminho existencial de maneira a resolver ou neutralizar as informações vivas que pulsavam dentro dele".
-
-### P2021-01-30 (A Mensagem TALM e os Fios Soltos do Destino)
-
-- **[PIA — o peso da infecção ancestral] (U0015)** «Então quando o nosso amigo Morrensor lá atrás pegou o manual de Moros e começou a estudar cada parte podre de cada microparte, a condição podre de cada microparte daquele corpo de Javer, quando se eh morrem só e entender o peso da infecção ancestral, da podridão ancestral que morre somido, todos os fvães, o destino de um servilismo a a necessidade de Jah, de recompor Javé, né?» — fonte oral mais antiga do verbete (antes de P2024-11-30); o peso da infecção ancestral medido por Moros.
-
-### P2018-12-15 (Terra Atlantis – Aprofundamento)
-
-- **[Moros mapeia o padrão de inevitabilidade] (U0012)** «Moros, então, ao perceber o padrão da inevitabilidade ancestral, Ele fez um mapeamento do inquietante padrão da da inevitabilidade dessa estrada.» — Moros percebe o padrão de inevitabilidade ancestral (PIA, RC-716) e faz seu mapeamento sem se deixar enganar pela aparência (o deus cego).
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
@@ -60,14 +51,6 @@ Moros teria calculado o PIA de cada ser e Anank/Anankê `[REVISAR → CHANCELA 1
 | Ananque (estudou as necessidades dos códigos podres, com Moros; base das Nornes) | RC-777 | ← relaciona-se-a |
 | Melkor (o filho dissonante) | RC-844 | associado |
 
-## Observações
-- Anankê permanece em quarentena.
-- PIA não é medida científica reconhecida.
-
-
-> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-716.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** os 2 trechos entre aspas desta ficha **não** resistem à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Nenhum deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
-
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
@@ -75,9 +58,26 @@ Moros teria calculado o PIA de cada ser e Anank/Anankê `[REVISAR → CHANCELA 1
 | P2021-01-30 | A Mensagem TALM e os Fios Soltos do Destino (palestra) | — | transcrição automatizada; citação |
 | P2024-11-30 | U0470–U0492; U0640–U0688; U0730–U0765; U1400–U1420 | palestra/STT |
 
-## Fixação da sigla
-A forma canônica aprovada é:
+## Citações-chave
+> “Moros mediu o Peso da Inevitabilidade Ancestral.”
 
-> **PIA — Peso da Inevitabilidade Ancestral**
+## Ampliação
+### P2024-11-30
 
-“Podridão” é a interpretação humana usada na palestra para explicar o conteúdo medido; não integra necessariamente a expansão da sigla. O eBook de IA alterna formas e não decide a questão.
+- **PIA (P2024-11-30):** "Ananké, depois de milhões de anos, conseguiu criar a relação das necessidades típicas daquele tipo de peso inevitável, de podridão ancestral, que cada ser sentia"; a última Moira (Skuld) "iria trabalhar na confecção das possíveis soluções para a necessidade daquele tipo de código podre, o que implicava dizer que o dono desse código, se soubesse do que essa moira sabia, saberia do futuro, já que inevitavelmente aquele eu particularizado seria levado por uma força que o obrigaria a percorrer um caminho existencial de maneira a resolver ou neutralizar as informações vivas que pulsavam dentro dele".
+
+### P2021-01-30 (A Mensagem TALM e os Fios Soltos do Destino)
+
+- **[PIA — o peso da infecção ancestral] (U0015)** «Então quando o nosso amigo Morrensor lá atrás pegou o manual de Moros e começou a estudar cada parte podre de cada microparte, a condição podre de cada microparte daquele corpo de Javer, quando se eh morrem só e entender o peso da infecção ancestral, da podridão ancestral que morre somido, todos os fvães, o destino de um servilismo a a necessidade de Jah, de recompor Javé, né?» — fonte oral mais antiga do verbete (antes de P2024-11-30); o peso da infecção ancestral medido por Moros.
+
+### P2018-12-15 (Terra Atlantis – Aprofundamento)
+
+- **[Moros mapeia o padrão de inevitabilidade] (U0012)** «Moros, então, ao perceber o padrão da inevitabilidade ancestral, Ele fez um mapeamento do inquietante padrão da da inevitabilidade dessa estrada.» — Moros percebe o padrão de inevitabilidade ancestral (PIA, RC-716) e faz seu mapeamento sem se deixar enganar pela aparência (o deus cego).
+
+## Observações
+- Anankê permanece em quarentena.
+- PIA não é medida científica reconhecida.
+
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-716.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** os 2 trechos entre aspas desta ficha **não** resistem à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Nenhum deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

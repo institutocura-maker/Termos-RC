@@ -15,8 +15,38 @@ atualizado = "2026-09-12"
 ## Definição Sintética
 **Lúcifer** é o nome terreno pelo qual **Yel Luzbel** passou a ser conhecido: biodemo da **Família Yel**, criado no Sistema de Capela, que **deu início à Rebelião de Lúcifer** nos Sistemas de Capela e Antares e depois se exilou na Terra. São Jerônimo atribuiu "Lúcifer" ao anjo caído ao traduzir a Vulgata (séc. IV d.C.); a palavra significa literalmente **"O Portador da Luz"** (B031). Sua importância nas RC é sem precedentes para o **"deslacre" mental** dos biodemos que se rebelaram — abrindo caminho para a liberdade humana em relação ao domínio "colméico" do Criador.
 
+## Etimologia e Grafias
+- **Grafia preferida:** Lúcifer (canônico); Yel Luzbel (nome biodemo)
+- **Variações:** Portador da Luz; Estrela da Manhã; anjo caído; diabo (concepção deturpada)
+- **Idioma de origem:** latim *lucifer* (portador da luz)
+
+
 ## Contexto / Origem
 Yel Luzbel é o protagonista negativo-positivo do drama cósmico: sua inquietação (742 mil anos atrás) gerou a pandemia que levou à rebelião e ao isolamento da Terra. Nas RC ele **não é o "diabo"** do cristianismo — é um biodemo rebelde exilado, cuja ação possibilitou o despertar mental. Relaciona-se aos "Anjos Caídos" das literaturas (com diferenciações, ver RC-020).
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Rebelião de Lúcifer | RC-002 | inicia |
+| Exilados de Capela | RC-007 | associado |
+| Anjos caídos | RC-020 | associado |
+| Demônios | RC-050 | associado |
+| Isolamento Cósmico | RC-070 | associado |
+| Mensagem Talm | RC-080 | ← relaciona-se-a |
+| Pandora | RC-086 | associado-a |
+| Seres Extraterrenos / Extraterrestres | RC-098 | associado |
+| Yel (Família Yel) | RC-136 | associado |
+| Yel Luzbel | RC-142 | variação |
+| Trava-demo | RC-184 | associado |
+| Biodemol | RC-186 | associado |
+| O Calvário de um Inocente | RC-236 | ← afeta |
+| Hitler (figura histórica no RC) | RC-239 | associado |
+| Viajores da Rebelião | RC-248 | associado |
+| Sentimento Luciferiano | RC-345 | associado |
+| Jeová (grafia da trilogia) | RC-346 | associado |
+| Ancoragem do Conglomerado Trimurtiano na Terra | RC-575 | ← envolve |
+| Vergonha de Existir | RC-747 | ← relaciona-se-a |
+| Melkor (o filho dissonante) | RC-844 | associado |
 
 ## Citações-chave
 
@@ -114,33 +144,3 @@ Yel Luzbel é o protagonista negativo-positivo do drama cósmico: sua inquietaç
 ---
 ---
 ---
-
-## Etimologia e Grafias
-- **Grafia preferida:** Lúcifer (canônico); Yel Luzbel (nome biodemo)
-- **Variações:** Portador da Luz; Estrela da Manhã; anjo caído; diabo (concepção deturpada)
-- **Idioma de origem:** latim *lucifer* (portador da luz)
-
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Rebelião de Lúcifer | RC-002 | inicia |
-| Exilados de Capela | RC-007 | associado |
-| Anjos caídos | RC-020 | associado |
-| Demônios | RC-050 | associado |
-| Isolamento Cósmico | RC-070 | associado |
-| Mensagem Talm | RC-080 | ← relaciona-se-a |
-| Pandora | RC-086 | associado-a |
-| Seres Extraterrenos / Extraterrestres | RC-098 | associado |
-| Yel (Família Yel) | RC-136 | associado |
-| Yel Luzbel | RC-142 | variação |
-| Trava-demo | RC-184 | associado |
-| Biodemol | RC-186 | associado |
-| O Calvário de um Inocente | RC-236 | ← afeta |
-| Hitler (figura histórica no RC) | RC-239 | associado |
-| Viajores da Rebelião | RC-248 | associado |
-| Sentimento Luciferiano | RC-345 | associado |
-| Jeová (grafia da trilogia) | RC-346 | associado |
-| Ancoragem do Conglomerado Trimurtiano na Terra | RC-575 | ← envolve |
-| Vergonha de Existir | RC-747 | ← relaciona-se-a |
-| Melkor (o filho dissonante) | RC-844 | associado |

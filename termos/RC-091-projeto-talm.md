@@ -15,8 +15,63 @@ atualizado = "2026-08-12"
 ## Definição Sintética
 Nome do projeto de **transferência do código de vida ("DNA") do Criador "caído"** do Brahmaloka (universo antimaterial, onde vivem os demos) para o **Bhuloka** (universo material, onde vivem os seres biológicos de "vida curta"). Foi edificado pelos **"Senhores da Trimurti"** — Brahma, Vishnu e Shiva —, conseguindo trazer o "código da vida" do universo antimaterial para o material (B031). Também chamado de **semeadura da vida biológica** no nosso universo, executado através do avatar **Mohen So** (RC-081), que recebeu o CFD dos três Logos.
 
+## Etimologia e Grafias
+- **Grafia preferida:** Projeto Talm
+- **Variações:** semeadura da vida biológica; projeto de transferência do código de vida
+
+
 ## Contexto / Origem
 O Projeto Talm é o elo entre o universo demo (antimaterial) e o universo biológico: explica a origem da vida biológica como "transferência de código" do Criador caído. Está associado à **Mensagem Talm** (RC-080), deixada pelos Fenvans para as gerações futuras.
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Brahma (Brajna) | RC-037 | associado |
+| CFD (Código Fonte Definidor) | RC-040 | objeto (código transferido) |
+| Fenvans | RC-064 | mensageiros |
+| Mensagem Talm | RC-080 | associado-a |
+| Mohen So (Avatar Keshava de Vishnu) | RC-081 | ← propõe |
+| Mohen So (Avatar Keshava de Vishnu) | RC-081 | proposto-por |
+| Mohen So (Avatar Keshava de Vishnu) | RC-081 | ← propõe |
+| Shiva (Savna) | RC-102 | associado |
+| Trimurti | RC-104 | envolve |
+| Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | origem |
+| Universo Material (Bhuloka) | RC-107 | destino |
+| Vishnu (Mavatna) | RC-135 | associado |
+| CFDP (Código-fonte Definidor Pessoal / Código de Vida Pessoal do Criador) | RC-153 | associado |
+| Nidana (ovo cósmico) | RC-154 | ← produzido-por |
+| Nidana (ovo cósmico) | RC-154 | transforma |
+| Nidana (ovo cósmico) | RC-154 | relaciona-se-a |
+| Eras da Criação (10 eras) | RC-155 | associado |
+| Era da Semeadura Universal | RC-169 | ocorre-em |
+| Era do Refinamento da Semeadura Biológica Universal | RC-170 | associado |
+| Plano Colmeia (para o Universo Biológico) | RC-179 | ← associado-a |
+| Insectoides | RC-187 | associado |
+| Opção Terra | RC-227 | associado |
+| Mohen So = Phanes / Protogonos / Vasuki / Kalki (correspondências) | RC-282 | ← relaciona-se-a |
+| Mohen So = Phanes / Protogonos / Vasuki / Kalki (correspondências) | RC-282 | relaciona-se-a |
+| Fornos Replicadores (naves/estações de semeadura de vida do Projeto Talm; Awayen, Awaylengan e Awaymaion) | RC-771 | ← relaciona-se-a |
+| Morlens (programador genético atômico do Projeto TALM; 'monstro ciberenergético') | RC-772 | associado |
+| Nanotecnologia Prânica (manipulação da matéria em escala atômica; base tecnológica do Projeto TALM) | RC-773 | associado |
+| PEP — Pulso Eletromagnético Particularizado (transferência de nanopontos da genética entre universos) | RC-774 | associado |
+| Éon das Três Esferas (superloka/geno; repositório de tesouros genéticos do Projeto TALM) | RC-775 | associado |
+| Forno de Awayen (forno de Brahma/Javé → Central de Realidades) | RC-836 | associado |
+| Forno de Awaylengan (forno de Shiva — o primeiro a funcionar) | RC-837 | associado |
+| Satchidanandaghana (super código genômico do Projeto TALM) | RC-838 | associado |
+
+## Seres Associados
+Brahma (RC-037); Vishnu (RC-135); Shiva (RC-102); Mohen So (RC-081); Fenvans (RC-064).
+
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo |
+|---|---|---|---|
+| P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
+| P2021-01-30 | A Mensagem TALM e os Fios Soltos do Destino (palestra) | — | transcrição automatizada; citação |
+| A Epopeia dos Agentes da Vida Universal (B024) | caps. 12, 16, 17 | pp. 85–96, 113–123 | obra primária (fonte principal) |
+| Painéis Emergentes... (B031) | Glossário de Termos | p. 141 (aprox.) | verbete "Projeto Talm" |
+| Painéis Emergentes... (B031) | Parte II (A Falência da Vida no Universo Paralelo e o Projeto Talm) | — | capítulo do livro |
+
+> **Complemento primário B024:** os postulados teóricos do Projeto Talm surgem na **Era da Lila e da Aceitação** (4,3–5,7 bi anos) e a semeadura efetiva começa na **Era da Semeadura Universal** (5,7–7,2 bi anos); a "molécula-mãe" terrestre já era um padrão refinado do **nidana** com a doença de Javé "apagada" em 95–97% (cap. 16). O cap. 12 detalha o projeto e o cap. 17 descreve os primeiros seres gerados.
 
 ## Citações-chave
 > "Em outras palavras, foi um projeto edificado pelos 'Senhores da Trimurti' – Brahma, Vishnu e Shiva –, que conseguiu trazer o 'código da vida' do universo antimaterial para o de ordem material e biológica, onde vivemos." — B031, verbete "Projeto Talm"
@@ -132,62 +187,7 @@ O Projeto Talm é apresentado como transferência do código plasmático Nidana 
 > Notas de processo: 4 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-091.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** os 2 trechos entre aspas desta ficha **não** resistem à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Só 1 dos 2 deixam vestígio no corpus. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
 
-## Etimologia e Grafias
-- **Grafia preferida:** Projeto Talm
-- **Variações:** semeadura da vida biológica; projeto de transferência do código de vida
-
-
-## Seres Associados
-Brahma (RC-037); Vishnu (RC-135); Shiva (RC-102); Mohen So (RC-081); Fenvans (RC-064).
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Brahma (Brajna) | RC-037 | associado |
-| CFD (Código Fonte Definidor) | RC-040 | objeto (código transferido) |
-| Fenvans | RC-064 | mensageiros |
-| Mensagem Talm | RC-080 | associado-a |
-| Mohen So (Avatar Keshava de Vishnu) | RC-081 | ← propõe |
-| Mohen So (Avatar Keshava de Vishnu) | RC-081 | proposto-por |
-| Mohen So (Avatar Keshava de Vishnu) | RC-081 | ← propõe |
-| Shiva (Savna) | RC-102 | associado |
-| Trimurti | RC-104 | envolve |
-| Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | origem |
-| Universo Material (Bhuloka) | RC-107 | destino |
-| Vishnu (Mavatna) | RC-135 | associado |
-| CFDP (Código-fonte Definidor Pessoal / Código de Vida Pessoal do Criador) | RC-153 | associado |
-| Nidana (ovo cósmico) | RC-154 | ← produzido-por |
-| Nidana (ovo cósmico) | RC-154 | transforma |
-| Nidana (ovo cósmico) | RC-154 | relaciona-se-a |
-| Eras da Criação (10 eras) | RC-155 | associado |
-| Era da Semeadura Universal | RC-169 | ocorre-em |
-| Era do Refinamento da Semeadura Biológica Universal | RC-170 | associado |
-| Plano Colmeia (para o Universo Biológico) | RC-179 | ← associado-a |
-| Insectoides | RC-187 | associado |
-| Opção Terra | RC-227 | associado |
-| Mohen So = Phanes / Protogonos / Vasuki / Kalki (correspondências) | RC-282 | ← relaciona-se-a |
-| Mohen So = Phanes / Protogonos / Vasuki / Kalki (correspondências) | RC-282 | relaciona-se-a |
-| Fornos Replicadores (naves/estações de semeadura de vida do Projeto Talm; Awayen, Awaylengan e Awaymaion) | RC-771 | ← relaciona-se-a |
-| Morlens (programador genético atômico do Projeto TALM; 'monstro ciberenergético') | RC-772 | associado |
-| Nanotecnologia Prânica (manipulação da matéria em escala atômica; base tecnológica do Projeto TALM) | RC-773 | associado |
-| PEP — Pulso Eletromagnético Particularizado (transferência de nanopontos da genética entre universos) | RC-774 | associado |
-| Éon das Três Esferas (superloka/geno; repositório de tesouros genéticos do Projeto TALM) | RC-775 | associado |
-| Forno de Awayen (forno de Brahma/Javé → Central de Realidades) | RC-836 | associado |
-| Forno de Awaylengan (forno de Shiva — o primeiro a funcionar) | RC-837 | associado |
-| Satchidanandaghana (super código genômico do Projeto TALM) | RC-838 | associado |
-
 ## Observações
 Ficha baseada no glossário de B031 + capítulo homônimo do livro (Parte II). Extrair do capítulo os detalhes do processo de semeadura e os "fornos replicadores" para enriquecer a ficha.
 
 ---
-
-## Fontes
-| Obra (sigla) | Capítulo | Página | Tipo |
-|---|---|---|---|
-| P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
-| P2021-01-30 | A Mensagem TALM e os Fios Soltos do Destino (palestra) | — | transcrição automatizada; citação |
-| A Epopeia dos Agentes da Vida Universal (B024) | caps. 12, 16, 17 | pp. 85–96, 113–123 | obra primária (fonte principal) |
-| Painéis Emergentes... (B031) | Glossário de Termos | p. 141 (aprox.) | verbete "Projeto Talm" |
-| Painéis Emergentes... (B031) | Parte II (A Falência da Vida no Universo Paralelo e o Projeto Talm) | — | capítulo do livro |
-
-> **Complemento primário B024:** os postulados teóricos do Projeto Talm surgem na **Era da Lila e da Aceitação** (4,3–5,7 bi anos) e a semeadura efetiva começa na **Era da Semeadura Universal** (5,7–7,2 bi anos); a "molécula-mãe" terrestre já era um padrão refinado do **nidana** com a doença de Javé "apagada" em 95–97% (cap. 16). O cap. 12 detalha o projeto e o cap. 17 descreve os primeiros seres gerados.

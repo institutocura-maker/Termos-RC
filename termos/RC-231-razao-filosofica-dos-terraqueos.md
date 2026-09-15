@@ -16,14 +16,45 @@ atualizado = "2026-08-20"
 
 Na cosmologia de Ellam, a capacidade filosófica humana — apresentada como "capenga" desde sua fundamentação na época de Aristóteles, convertida em "fé-filosofia" quando os filósofos passaram a justificar a fé pessoal em vez de buscar a verdade.
 
+## Contexto / Origem
+
+[P2024-07-14] A palestra das Consciências Espirituais Dignificadas diagnostica o problema de fundamentação da filosofia/metafísica/ontologia e anuncia o curso "Reflexões quase filosóficas" (primeiro: Schopenhauer e o sofrimento do mundo).
+
 ## Escopo e evidência
 
 - **[P2024-07-14] Unidades:** U0495–U0539.
 - **[P2024-07-14] Proveniência:** palestra de Jan Val Ellam; transcrição STT pré-curada; devolutiva do curador registrada em 2026-08-20 (ficha autorizada).
 
-## Contexto / Origem
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Javé | RC-001 | associado |
+| Revelação Cósmica (conceito) | RC-094 | associado |
+| Seres Terrenos (Homo Sapiens) | RC-099 | associado |
+| Cidadão Cósmico | RC-226 | associado |
+| A Humanização do Criador | RC-245 | associado |
+| Olhar Adulto | RC-278 | associado |
+| Imperativo Categórico da Moral | RC-328 | associado |
+| Antropocentrismo (crítica) | RC-361 | ← opõe-se-a |
+| A Fé de Jesus e a Razão de Nietzsche | RC-371 | associado |
+| O Ser Humano Emancipado | RC-372 | associado |
+| Javé alimenta-se do senso crítico humano | RC-429 | ← alimenta-se-de |
+| Tikun Cósmico (restabelecimento da Criação) | RC-514 | ← usa |
+| Protocolo da Busca | RC-566 | ← relaciona-se-a |
+| Pandora como Heroína Controversa | RC-780 | associado |
+| Racionalidade Humana Trucidada | RC-786 | associado |
 
-[P2024-07-14] A palestra das Consciências Espirituais Dignificadas diagnostica o problema de fundamentação da filosofia/metafísica/ontologia e anuncia o curso "Reflexões quase filosóficas" (primeiro: Schopenhauer e o sofrimento do mundo).
+
+- Revelação Cósmica (conceito) — RC-094;
+- Tikun Cósmico — RC-514;
+- Dignidade como Critério de Consciência — RC-722.
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2012-02-19 | Xadrez Cósmico de Brahma, Vishnu e Shiva (palestra) | — | transcrição automatizada; citação |
+| P2024-07-14 | U0495–U0539 | palestra/STT |
+| B033 / B005 / B049 / P2025-03-15 / P2024-11-30 / P2024-11-09 | — | obras/palestras |
 
 ## Citações-chave
 > "Filósofo não devia ter fé. Filósofo deve ser ateu e buscar a verdade livremente."
@@ -61,37 +92,6 @@ Na cosmologia de Ellam, a capacidade filosófica humana — apresentada como "ca
 
 - **[A razão filosófica, dádiva do homo sapiens] (U0005)** «Nós Somos, apesar de miseráveis, uma das poucas raças no cosmos, com a razão filosófica desperta para o bem e, infelizmente, para o mal, mas com razão filosófica desperta.» — somos 'uma das poucas raças no cosmos, com a razão filosófica desperta' (RC-231) — para o bem e para o mal, algo que as civilizações cósmicas valorizam imensamente.
 
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | associado |
-| Revelação Cósmica (conceito) | RC-094 | associado |
-| Seres Terrenos (Homo Sapiens) | RC-099 | associado |
-| Cidadão Cósmico | RC-226 | associado |
-| A Humanização do Criador | RC-245 | associado |
-| Olhar Adulto | RC-278 | associado |
-| Imperativo Categórico da Moral | RC-328 | associado |
-| Antropocentrismo (crítica) | RC-361 | ← opõe-se-a |
-| A Fé de Jesus e a Razão de Nietzsche | RC-371 | associado |
-| O Ser Humano Emancipado | RC-372 | associado |
-| Javé alimenta-se do senso crítico humano | RC-429 | ← alimenta-se-de |
-| Tikun Cósmico (restabelecimento da Criação) | RC-514 | ← usa |
-| Protocolo da Busca | RC-566 | ← relaciona-se-a |
-| Pandora como Heroína Controversa | RC-780 | associado |
-| Racionalidade Humana Trucidada | RC-786 | associado |
-
-
-- Revelação Cósmica (conceito) — RC-094;
-- Tikun Cósmico — RC-514;
-- Dignidade como Critério de Consciência — RC-722.
-
 ## Observações
 
 **Quarentena filosófica/histórica:** o diagnóstico de Aristóteles e a leitura da história da filosofia são do autor; plataforma "Orbon" [REVISAR — STT → CHANCELA 2026-09-06 · F039-L3: AGUARDA-ÁUDIO (STT preservado como falado) — ver nota].
-
-## Fontes
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2012-02-19 | Xadrez Cósmico de Brahma, Vishnu e Shiva (palestra) | — | transcrição automatizada; citação |
-| P2024-07-14 | U0495–U0539 | palestra/STT |
-| B033 / B005 / B049 / P2025-03-15 / P2024-11-30 / P2024-11-09 | — | obras/palestras |

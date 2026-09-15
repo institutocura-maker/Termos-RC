@@ -16,6 +16,49 @@ atualizado = "2026-09-12"
 
 Avatar hindu — na RC, avatar de Vishnu (e correlacionado a Shiva), "pretenso Keshava" (RC-425); na leitura de Thot (P2023-12-02), uma **novidade gerada da junção do DNA de Brahma, Vishnu e Shiva**, que se proclamou superior à Trimurti — "avatar quechada" [STT — ver Colecionar Incertezas].
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Sophia (Cristo Cósmico) | RC-009 | relaciona-se-a |
+| Adhyajna | RC-016 | relaciona-se-a |
+| Keshava | RC-073 | relaciona-se-a |
+| Revelação Cósmica (conceito) | RC-094 | associado |
+| Shiva (Savna) | RC-102 | associado |
+| Trimurti | RC-104 | ← relaciona-se-a |
+| Vishnu (Mavatna) | RC-135 | é-um |
+| Cultura Demodhármica | RC-183 | associado |
+| Kumari Kandan (tradição) | RC-329 | ← relaciona-se-a |
+| ADHYSAVNA (nome completo de Savna/Shiva) | RC-409 | associado |
+| Krishna como 'pretenso Keshava' | RC-425 | ← variação |
+| Krishna como 'pretenso Keshava' | RC-425 | relaciona-se-a |
+| Arcontes (= Sophias e Indras; Conselho dos 70) | RC-474 | ← relaciona-se-a |
+| Rakshasas | RC-581 | associado |
+| Ravana | RC-582 | ← relaciona-se-a |
+| Ravana | RC-582 | relaciona-se-a |
+| Rama (avatar de Vishnu) | RC-584 | relaciona-se-a |
+| Vyasa | RC-585 | ← relaciona-se-a |
+| Vyasa | RC-585 | ← relaciona-se-a |
+| Ogdóade de Hermópolis | RC-609 | ← relaciona-se-a |
+| Narasimha (avatar de Vishnu) | RC-642 | associado |
+| Wyrd / Urd (Teia do Destino) | RC-658 | ← relaciona-se-a |
+| Oitavo Dia da Criação | RC-694 | ← relaciona-se-a |
+| Oitavo Dia da Criação | RC-694 | relaciona-se-a |
+| Arquivos do Destino Universal | RC-714 | associado |
+| Buraco Negro Mental / Consciencial | RC-717 | risco-de |
+| Dignidade como Critério de Consciência | RC-722 | relaciona-se-a |
+| Vício Devocional | RC-749 | relaciona-se-a |
+| Ganesha (exceção à metamorfose; cabeça de elefante) | RC-756 | ← relaciona-se-a |
+| Vaishnavismo (vixenuísmo — tradição hindu de adoração a Vishnu/Krishna) | RC-757 | ← relaciona-se-a |
+| Vaishnavismo (vixenuísmo — tradição hindu de adoração a Vishnu/Krishna) | RC-757 | relaciona-se-a |
+| Alexandre Magno (tirano sob influência de Lemion) | RC-850 | associado |
+| Sinarquia Cósmica (o governo dos sábios) | RC-873 | associado |
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2024-03-17 | A Quem Pertence o Planeta e a Biblioteca Genômica Mais Atualizada do Universo (palestra) | transcrição automatizada; citação |
+| P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |
+
 ## Citações-chave
 
 > Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
@@ -209,50 +252,8 @@ Avatar hindu — na RC, avatar de Vishnu (e correlacionado a Shiva), "pretenso K
 ---
 ---
 
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Sophia (Cristo Cósmico) | RC-009 | relaciona-se-a |
-| Adhyajna | RC-016 | relaciona-se-a |
-| Keshava | RC-073 | relaciona-se-a |
-| Revelação Cósmica (conceito) | RC-094 | associado |
-| Shiva (Savna) | RC-102 | associado |
-| Trimurti | RC-104 | ← relaciona-se-a |
-| Vishnu (Mavatna) | RC-135 | é-um |
-| Cultura Demodhármica | RC-183 | associado |
-| Kumari Kandan (tradição) | RC-329 | ← relaciona-se-a |
-| ADHYSAVNA (nome completo de Savna/Shiva) | RC-409 | associado |
-| Krishna como 'pretenso Keshava' | RC-425 | ← variação |
-| Krishna como 'pretenso Keshava' | RC-425 | relaciona-se-a |
-| Arcontes (= Sophias e Indras; Conselho dos 70) | RC-474 | ← relaciona-se-a |
-| Rakshasas | RC-581 | associado |
-| Ravana | RC-582 | ← relaciona-se-a |
-| Ravana | RC-582 | relaciona-se-a |
-| Rama (avatar de Vishnu) | RC-584 | relaciona-se-a |
-| Vyasa | RC-585 | ← relaciona-se-a |
-| Vyasa | RC-585 | ← relaciona-se-a |
-| Ogdóade de Hermópolis | RC-609 | ← relaciona-se-a |
-| Narasimha (avatar de Vishnu) | RC-642 | associado |
-| Wyrd / Urd (Teia do Destino) | RC-658 | ← relaciona-se-a |
-| Oitavo Dia da Criação | RC-694 | ← relaciona-se-a |
-| Oitavo Dia da Criação | RC-694 | relaciona-se-a |
-| Arquivos do Destino Universal | RC-714 | associado |
-| Buraco Negro Mental / Consciencial | RC-717 | risco-de |
-| Dignidade como Critério de Consciência | RC-722 | relaciona-se-a |
-| Vício Devocional | RC-749 | relaciona-se-a |
-| Ganesha (exceção à metamorfose; cabeça de elefante) | RC-756 | ← relaciona-se-a |
-| Vaishnavismo (vixenuísmo — tradição hindu de adoração a Vishnu/Krishna) | RC-757 | ← relaciona-se-a |
-| Vaishnavismo (vixenuísmo — tradição hindu de adoração a Vishnu/Krishna) | RC-757 | relaciona-se-a |
-| Alexandre Magno (tirano sob influência de Lemion) | RC-850 | associado |
-| Sinarquia Cósmica (o governo dos sábios) | RC-873 | associado |
-
-## Fontes
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2024-03-17 | A Quem Pertence o Planeta e a Biblioteca Genômica Mais Atualizada do Universo (palestra) | transcrição automatizada; citação |
-| P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |
-
-## Colecionar Incertezas — "quachadas/quechada" = Keshava? (pista do curador, 2026-08-18)
+## Observações
+### Colecionar Incertezas — "quachadas/quechada" = Keshava? (pista do curador, 2026-08-18)
 
 O curador conferiu em **documentação confiável** (fora do corpus) e identificou dois usos correlatos: **Krishna (Avatar biodemol Keshava)** e **Mohen So (Avatar Keshava)** — ambos já canônicos na Base (RC-081 "Mohen So (Avatar Keshava de Vishnu)"; RC-425 "Krishna como 'pretenso Keshava'"). **Hipótese forte:** o STT "quachadas/quechada" (P2023-05-13: "quachadas"; P2023-12-02: "avatar quechada") provavelmente distorce **"Keshava"**. Registro mantido em Colecionar Incertezas até revisão do áudio — **nenhum código criado** (VETO ESTRITO preservado).
 

@@ -15,8 +15,41 @@ atualizado = "2026-09-12"
 ## Definição Sintética
 **ADHYMAVATANA** é o nome completo da condição Adhy de **Mavatna** (→ Vishnu), conforme o Diagrama Geral de Ligações (B051): a cadeia "ADHYMAVATANA → Vishnu (mergulhado) → Mohen So → Sophia → Jesus". Confirma que Mavatna é um ser do **gênero Adhy** (RC-011), na condição **Adhyatman** (RC-013) antes do mergulho, que passou a compor a Trimurti como expressão **Adhydaiva** (RC-014) — e cujas expressões Adhyajna geram Mohen So → Sophia → Jesus.
 
+## Etimologia e Grafias
+- **Grafia preferida:** ADHYMAVATANA
+- **Variações:** Adhy-Mavatana; Mavatna (forma usada no corpus); Vishnu (expressão Adhydaiva)
+- **Origem:** composto RC (Adhy + Mavatna)
+
+
 ## Contexto / Origem
 O diagrama (B051) apresenta os três "nomes completos" Adhy da Trimurti: **ADHYPRABRAJNA** (→ Brahma), **ADHYMAVATANA** (→ Vishnu) e **ADHYSAVNA** (→ Shiva) — paralelos a Adhyshprabrajna (RC-310, do B022). A cadeia de Vishnu registrada: ADHYMAVATANA → Vishnu → **Mohen So** → **Sophia** → **Jesus** — confirmando a linha do B014 (Sophia = avatar indireto de Vishnu via Mohen So).
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Sophia (Cristo Cósmico) | RC-009 | gera (cadeia) |
+| Adhyatman | RC-013 | condição prévia |
+| Adhydaiva | RC-014 | expressão |
+| Jesus | RC-072 | gera (cadeia) |
+| Mohen So (Avatar Keshava de Vishnu) | RC-081 | gera |
+| Revelação Cósmica (conceito) | RC-094 | associado |
+| Vishnu (Mavatna) | RC-135 | variação |
+| Pashvnaj (espécie de 43 seres do Gênero Adhy) | RC-455 | ← relaciona-se-a |
+| Lakshimi (consorte de Vishnu, Tridevi) | RC-458 | ← relaciona-se-a |
+| Maitreya (Dionísio; forma adiágena de Vishnu) | RC-481 | associado |
+| Forno de Awaymaion (forno de Vishnu; origem de Olm) | RC-499 | associado |
+| Mavátma / Mavatna / Mavat (Vishnu em condição Adhyatman) | RC-503 | ← variação |
+| Adyadvaivatma / Adimavatma (= Vishnu) | RC-504 | ← variação |
+| Fatiamento de Consciência | RC-604 | ← envolve |
+
+## Seres Associados
+Vishnu (RC-135); Mohen So (RC-081); Sophia (RC-009); Jesus (RC-072).
+
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo |
+|---|---|---|---|
+| Diagrama Geral de Ligações (B051) | diagrama (nó central) | — | ligação visual |
+| A Epopeia dos Agentes da Vida (B024) | caps. 8, 16 | — | apoio (primária) |
 
 ## Citações-chave
 > (Diagrama) "ADHYMAVATANA → Vishnu (mergulhado) → Mohen So → Sophia → Jesus" — B051
@@ -57,40 +90,7 @@ O diagrama (B051) apresenta os três "nomes completos" Adhy da Trimurti: **ADHYP
 - **Status da evidência:** transcrição automatizada, pré-curada e aprovada quanto à integração terminológica; conferir com áudio/obra antes de promover status.
 
 
-## Etimologia e Grafias
-- **Grafia preferida:** ADHYMAVATANA
-- **Variações:** Adhy-Mavatana; Mavatna (forma usada no corpus); Vishnu (expressão Adhydaiva)
-- **Origem:** composto RC (Adhy + Mavatna)
-
-
-## Seres Associados
-Vishnu (RC-135); Mohen So (RC-081); Sophia (RC-009); Jesus (RC-072).
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Sophia (Cristo Cósmico) | RC-009 | gera (cadeia) |
-| Adhyatman | RC-013 | condição prévia |
-| Adhydaiva | RC-014 | expressão |
-| Jesus | RC-072 | gera (cadeia) |
-| Mohen So (Avatar Keshava de Vishnu) | RC-081 | gera |
-| Revelação Cósmica (conceito) | RC-094 | associado |
-| Vishnu (Mavatna) | RC-135 | variação |
-| Pashvnaj (espécie de 43 seres do Gênero Adhy) | RC-455 | ← relaciona-se-a |
-| Lakshimi (consorte de Vishnu, Tridevi) | RC-458 | ← relaciona-se-a |
-| Maitreya (Dionísio; forma adiágena de Vishnu) | RC-481 | associado |
-| Forno de Awaymaion (forno de Vishnu; origem de Olm) | RC-499 | associado |
-| Mavátma / Mavatna / Mavat (Vishnu em condição Adhyatman) | RC-503 | ← variação |
-| Adyadvaivatma / Adimavatma (= Vishnu) | RC-504 | ← variação |
-| Fatiamento de Consciência | RC-604 | ← envolve |
-
 ## Observações
 Ficha baseada no B051 (obra complementar de alunos, revisada pelo usuário). O nome completo confirma e padroniza a grafia da condição Adhy de Vishnu — cruzar com RC-135 e RC-081.
 
 ---
-
-## Fontes
-| Obra (sigla) | Capítulo | Página | Tipo |
-|---|---|---|---|
-| Diagrama Geral de Ligações (B051) | diagrama (nó central) | — | ligação visual |
-| A Epopeia dos Agentes da Vida (B024) | caps. 8, 16 | — | apoio (primária) |

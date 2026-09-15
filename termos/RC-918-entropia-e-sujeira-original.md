@@ -15,11 +15,6 @@ atualizado = "2026-09-13"
 ## Definição Sintética
 Entropia e Sujeira Original — conceito desenvolvido na palestra «O Reciclador das Informações Universais a Limpeza da Criação» (P2023-11-18).
 
-## Ampliação
-### P2023-11-18
-**Fonte:** palestra «O Reciclador das Informações Universais a Limpeza da Criação» (18/11/2023).
-**Trecho verbatim:** «A cada dia que passa na história dessa criação, a entropia aumenta. Essa força entrópica, ela dificulta a construção de coisas novas, ela dificulta a estruturação do que está sendo estruturado.»
-
 ## Termos Relacionados
 - RC-722 (Dignidade)
 - RC-901 (Domínios de Morfeu)
@@ -28,3 +23,8 @@ Entropia e Sujeira Original — conceito desenvolvido na palestra «O Reciclador
 | Dignidade como Critério de Consciência | RC-722 | associado |
 | Domínios de Morfeu | RC-901 | associado |
 
+
+## Ampliação
+### P2023-11-18
+**Fonte:** palestra «O Reciclador das Informações Universais a Limpeza da Criação» (18/11/2023).
+**Trecho verbatim:** «A cada dia que passa na história dessa criação, a entropia aumenta. Essa força entrópica, ela dificulta a construção de coisas novas, ela dificulta a estruturação do que está sendo estruturado.»

@@ -15,8 +15,40 @@ atualizado = "2026-08-18"
 ## Definição Sintética
 Coletivo de sábios associado, na palestra, à revelação do Mahabharata e à reorganização da tradição védica.
 
+## Etimologia e Grafias
+- Grafia preferida: Rishis. STT: riches.
+- **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
+
 ## Contexto / Origem
 São situados na quarta era equinocial, em conexão com Vyasa, Kshatriyas e Brahmanes.
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Castas Trimurtianas | RC-321 | relaciona-se-a |
+| Dharma e Castas (origem demo) | RC-322 | relaciona-se-a |
+| Vyasa | RC-585 | relaciona-se-a |
+| Mahabharata | RC-593 | relaciona-se-a |
+| Mahabharata | RC-593 | ← envolve |
+| Pashupati (avatar de Shiva) | RC-669 | ← relaciona-se-a |
+| Geração Regenerada de Brahma | RC-696 | ← inclui |
+| Geração Regenerada de Brahma | RC-696 | parte-de |
+| Geração Regenerada de Brahma | RC-696 | integra |
+| Geração Regenerada de Brahma | RC-696 | ← inclui |
+| Kashyapa | RC-700 | ← relaciona-se-a |
+| Kashyapa | RC-700 | ← descende-de-membro-de |
+| Daksha e Virini | RC-701 | ← relaciona-se-a |
+| Samudra Manthana / Batimento do Oceano de Leite | RC-734 | associado |
+| O Tal (Tao) (a via de ressignificação que faz da podridão da criação alimento) | RC-881 | associado |
+
+## Seres Associados
+Vyasa (RC-585)
+
+## Fontes
+| Obra/palestra | Localização | Tipo |
+|---|---|---|
+| P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
+| P2022-12-17 — O Incompreendido Ano de 2012 e a Falsa Noção do Fim do Mundo | U0768–U0774 | transcrição automatizada; paráfrase e citação |
 
 ## Citações-chave
 > ““Vyasa e uma série de Rishis terminam promovendo a revelação do Mahabharata.”” — P2022-12-17, U0768–U0774
@@ -45,39 +77,7 @@ Relações novas: RC-696 Geração Regenerada e RC-700 Kashyapa.
 
 ---
 
-## Etimologia e Grafias
-- Grafia preferida: Rishis. STT: riches.
-- **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
-
-## Seres Associados
-Vyasa (RC-585)
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Castas Trimurtianas | RC-321 | relaciona-se-a |
-| Dharma e Castas (origem demo) | RC-322 | relaciona-se-a |
-| Vyasa | RC-585 | relaciona-se-a |
-| Mahabharata | RC-593 | relaciona-se-a |
-| Mahabharata | RC-593 | ← envolve |
-| Pashupati (avatar de Shiva) | RC-669 | ← relaciona-se-a |
-| Geração Regenerada de Brahma | RC-696 | ← inclui |
-| Geração Regenerada de Brahma | RC-696 | parte-de |
-| Geração Regenerada de Brahma | RC-696 | integra |
-| Geração Regenerada de Brahma | RC-696 | ← inclui |
-| Kashyapa | RC-700 | ← relaciona-se-a |
-| Kashyapa | RC-700 | ← descende-de-membro-de |
-| Daksha e Virini | RC-701 | ← relaciona-se-a |
-| Samudra Manthana / Batimento do Oceano de Leite | RC-734 | associado |
-| O Tal (Tao) (a via de ressignificação que faz da podridão da criação alimento) | RC-881 | associado |
-
 ## Observações
 Grafia e inserção no núcleo védico foram validadas pelo curador.
 
 **Regra de status:** permanece ⚪ candidato porque a fonte é STT sem áudio anexado. A aprovação do curador valida a modelagem terminológica, não substitui a futura conferência com áudio ou obra primária.
-
-## Fontes
-| Obra/palestra | Localização | Tipo |
-|---|---|---|
-| P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
-| P2022-12-17 — O Incompreendido Ano de 2012 e a Falsa Noção do Fim do Mundo | U0768–U0774 | transcrição automatizada; paráfrase e citação |

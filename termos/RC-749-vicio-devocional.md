@@ -16,6 +16,46 @@ atualizado = "2026-08-18"
 
 Mecanismo cármico/ético central da Revelação Cósmica: o condicionamento devocional imposto por Javé e marcado no DNA humano, que torna bilhões de pessoas cativas da fé devocional (adoração, espera de milagres, submissão) — independentemente da religião (judaísmo, cristianismo, islã, hinduísmo; até o budismo tornou-se devocional). Ellam estima em palestra que "quase 7 bilhões" de seres humanos estariam nessa condição.
 
+### Estrutura interna
+
+- imposto por Javé ao longo dos desígnios (RC-001);
+- marcado no DNA humano (coordenação dos anjos clones — RC-019; big data do criador — RC-194);
+- irmão gêmeo do **Contentamento Permanente** (absorvido em RC-746) e do condicionamento religioso (RC-335);
+- ligado à dessensibilização da condição humana (RC-746): a devoção impede o incômodo e a ação crítica;
+- poucos "livres" (ateus e não-fundamentalistas); quem "já descobriu a verdade" estaria preso numa "gaiola de ilusão";
+- desdobramento: criação de califado mundial (âncora sunita) e manutenção da geopolítica.
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Javé | RC-001 | relaciona-se-a |
+| Anjos clones | RC-019 | relaciona-se-a |
+| Big Data Cósmico | RC-194 | relaciona-se-a |
+| Lavagem Cerebral (condicionamento) | RC-335 | relaciona-se-a |
+| Krishna (avatar de Vishnu/Shiva) | RC-414 | ← relaciona-se-a |
+| Obatalá (correspondência de Javé em Ifá) | RC-666 | ← relaciona-se-a |
+| Dessensibilização da Condição Humana | RC-746 | relaciona-se-a |
+| Kleśas (cinco entraves mentais ao progresso humano) | RC-840 | associado |
+| Eu Observador | RC-890 | associado |
+| Pós-Verdade | RC-892 | associado |
+| Pecado Original como Narrativa Cruel | RC-893 | associado |
+| Código Filosófico Pessoal | RC-897 | associado |
+| Deus Não Se Incomoda com o Sofrimento | RC-909 | associado |
+| O Bem Feito Apenas por Humanos | RC-910 | associado |
+| DNA com 2 Hélices Ligadas | RC-911 | associado |
+| Aparições Marianas | RC-912 | associado |
+| Delírio Coletivo | RC-913 | associado |
+| Frodo e Sam | RC-914 | associado |
+| Westworld como Metáfora | RC-915 | associado |
+| O Banquete Metafórico | RC-916 | associado |
+
+## Fontes
+
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
+| P2024-04-13 | bloco final (vício devocional; 7 bilhões; big data; anjos clones) | palestra/STT pré-curada |
+
 ## Citações-chave
 
 > "Quase 7 bilhões e cacetada de milhões de seres humanos, todos são cativos do vício devocional que a imposição de Javé marcou no DNA humano."
@@ -66,48 +106,8 @@ Mecanismo cármico/ético central da Revelação Cósmica: o condicionamento dev
 - **O Islã como linha de devoção:** "os muçulmanos diariamente se voltam para a Meca e me endereçam ondas de devoção";
 - Reforça a crítica à devoção (P2023-12-02 — Krishna/Chaitanya) e o contraste com os Sethianos Emancipados (RC-766).
 
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | relaciona-se-a |
-| Anjos clones | RC-019 | relaciona-se-a |
-| Big Data Cósmico | RC-194 | relaciona-se-a |
-| Lavagem Cerebral (condicionamento) | RC-335 | relaciona-se-a |
-| Krishna (avatar de Vishnu/Shiva) | RC-414 | ← relaciona-se-a |
-| Obatalá (correspondência de Javé em Ifá) | RC-666 | ← relaciona-se-a |
-| Dessensibilização da Condição Humana | RC-746 | relaciona-se-a |
-| Kleśas (cinco entraves mentais ao progresso humano) | RC-840 | associado |
-| Eu Observador | RC-890 | associado |
-| Pós-Verdade | RC-892 | associado |
-| Pecado Original como Narrativa Cruel | RC-893 | associado |
-| Código Filosófico Pessoal | RC-897 | associado |
-| Deus Não Se Incomoda com o Sofrimento | RC-909 | associado |
-| O Bem Feito Apenas por Humanos | RC-910 | associado |
-| DNA com 2 Hélices Ligadas | RC-911 | associado |
-| Aparições Marianas | RC-912 | associado |
-| Delírio Coletivo | RC-913 | associado |
-| Frodo e Sam | RC-914 | associado |
-| Westworld como Metáfora | RC-915 | associado |
-| O Banquete Metafórico | RC-916 | associado |
-
 ## Observações
 
 O número de "7 bilhões" e a universalidade do mecanismo são **afirmação de Ellam**, não estatística validada. "Marcado no DNA" é uso metafórico-próprio da RC, não descoberta genética. O verbete descreve a leitura crítica do autor sobre a devoção religiosa; não constitui juízo sobre religiões como instituições históricas nem endossa generalizações.
 
 ---
-
-## Fontes
-
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
-| P2024-04-13 | bloco final (vício devocional; 7 bilhões; big data; anjos clones) | palestra/STT pré-curada |
-
-## Estrutura interna
-
-- imposto por Javé ao longo dos desígnios (RC-001);
-- marcado no DNA humano (coordenação dos anjos clones — RC-019; big data do criador — RC-194);
-- irmão gêmeo do **Contentamento Permanente** (absorvido em RC-746) e do condicionamento religioso (RC-335);
-- ligado à dessensibilização da condição humana (RC-746): a devoção impede o incômodo e a ação crítica;
-- poucos "livres" (ateus e não-fundamentalistas); quem "já descobriu a verdade" estaria preso numa "gaiola de ilusão";
-- desdobramento: criação de califado mundial (âncora sunita) e manutenção da geopolítica.

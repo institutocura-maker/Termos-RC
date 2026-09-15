@@ -28,6 +28,20 @@ Com isso:
 
 **Origem do conteúdo da ampliação:** palestra `P2012-02-19 — Xadrez Cósmico de Brahma, Vishnu e Shiva` (19/02/2012). Transcrição automatizada, **não conferida com o áudio**; cada aspa foi recortada do `original.txt` pelo índice de âncoras do motor e conferida byte a byte pelo portão B. Nada foi digitado de memória.
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| CFD (Código Fonte Definidor) | RC-040 | associado |
+| Seres Terrenos (Homo Sapiens) | RC-099 | **sem aresta** em `RELACOES`; **sem arquivo** |
+| DNA como Projeção Holográfica do Psiquismo do Criador | RC-217 | **sem aresta** em `RELACOES`; arquivo existe |
+
+## Fontes
+| Obra (sigla) | Título | Página | Tipo |
+|---|---|---|---|
+| P2025-06-14 | PALESTRA SOBRE A QUEDA DO CRIADOR-Refatorada (palestra) | — | transcrição automatizada; citação |
+| P2012-02-19 | Xadrez Cósmico de Brahma, Vishnu e Shiva (palestra) | — | transcrição automatizada; citação |
+| B033 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
+
 ## Citações-chave
 
 > Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
@@ -45,21 +59,8 @@ Com isso:
 
 - **[A doença herdada no DNA] (U0177)** «Essa "doença" é caracterizada por impulsos de sobrevivência a qualquer custo, predatismo, multiplicação do algoritmo definidor e a lei do mais forte sobre o mais fraco.» — a 'doença' de Javé é caracterizada por 'impulsos de sobrevivência a qualquer custo, predatismo, multiplicação do algoritmo definidor e a lei do mais forte' (RC-230).
 
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| CFD (Código Fonte Definidor) | RC-040 | associado |
-| Seres Terrenos (Homo Sapiens) | RC-099 | **sem aresta** em `RELACOES`; **sem arquivo** |
-| DNA como Projeção Holográfica do Psiquismo do Criador | RC-217 | **sem aresta** em `RELACOES`; arquivo existe |
-
-## Fontes
-| Obra (sigla) | Título | Página | Tipo |
-|---|---|---|---|
-| P2025-06-14 | PALESTRA SOBRE A QUEDA DO CRIADOR-Refatorada (palestra) | — | transcrição automatizada; citação |
-| P2012-02-19 | Xadrez Cósmico de Brahma, Vishnu e Shiva (palestra) | — | transcrição automatizada; citação |
-| B033 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
-
-## Observações sobre o Estado da Malha
+## Observações
+### Observações sobre o Estado da Malha
 
 * **Grafia STT:** 'DNA lixo' / 'só está 3% ativado'. Os 97% de DNA 'lixo' dão folga aos espíritos para despertarem.
 * **Trava aplicável**: nenhuma além das gerais do despacho.

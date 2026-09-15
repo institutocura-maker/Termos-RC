@@ -15,8 +15,37 @@ atualizado = "2026-08-28"
 ## Definição Sintética
 A tese central de *Jesus e Nietzsche* (B049): **Friedrich Nietzsche como um "agente", uma espécie de "amigo da intenção de Jesus"** — "quando colocou em dúvida, sem se preocupar em corrigir, um pouco do que foi equivocadamente distorcido do legado do Messias, ainda que entronizado como 'verdade eterna'... entre Jesus e Nietzsche, parecia existir a mais estranha das parcerias, por mim percebida nas entrelinhas dos fatos, ainda que a mesma possa parecer curiosa por força do corajoso antagonismo que o filósofo assumiu frente aos equívocos dos 'donos do legado' do Messias".
 
+## Etimologia e Grafias
+- **Grafia preferida:** Nietzsche como 'Amigo da Intenção de Jesus'
+- **Variações:** a parceria Jesus-Nietzsche; Nietzsche como agente; "a mais estranha das parcerias"
+
+
 ## Contexto / Origem
 O B049 (2019, 14 capítulos) examina o contraste e a complementaridade entre Jesus (fé) e Nietzsche (razão): a crítica nietzschiana aos ídolos e à moral cristã institucionalizada é lida como um serviço ao verdadeiro legado de Jesus — desmontando as distorções dos "donos do legado". O livro aborda a "morte de Deus" nietzschiana, o super-homem, a criação de ídolos e o "ser humano emancipado" como parceiro da intenção crística.
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Jesus | RC-072 | parceria-de |
+| Revelação Cósmica (conceito) | RC-094 | associado |
+| Liberdade Mental (premissa do Quarto Logos) | RC-253 | relaciona-se-a |
+| A Criação de Ídolos para a Humanidade | RC-370 | contexto |
+| A Fé de Jesus e a Razão de Nietzsche | RC-371 | é-um |
+| O Ser Humano Emancipado | RC-372 | desdobramento |
+| Sophia Como Biodemo da Ordem e Caos | RC-831 | associado |
+
+## Seres Associados
+Jesus (RC-072); Nietzsche (figura histórica, RC-369); Voltaire (precedente citado).
+
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo |
+|---|---|---|---|
+| P2022-11-19 | No Princípio era o Bem! Será (palestra) | — | transcrição automatizada; citação |
+| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra) | — | transcrição automatizada; citação |
+| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra) | — | transcrição automatizada; citação |
+| Jesus e Nietzsche (B049) | caps. 10–14 | pp. 150–220 (aprox.) | tese central |
+
+
 
 ## Citações-chave
 > "Pude constatar que, entre Jesus e Nietzsche, parecia existir a mais estranha das parcerias, por mim percebida nas entrelinhas dos fatos, ainda que a mesma possa parecer curiosa por força do corajoso antagonismo que o filósofo assumiu frente aos equívocos dos 'donos do legado' do Messias." — B049, cap. 10
@@ -43,35 +72,6 @@ O B049 (2019, 14 capítulos) examina o contraste e a complementaridade entre Jes
 - **[Nietzsche: «humanidade infantiloide»] (U0008)** «Se for assim, lá no princípio, o bem necessariamente parece que não existe, porque se ela existisse, tanta coisa ruim que tem hoje em dia, não só na espécie humana, mas em muitas coisas, nos leva a pensar que assim é como Nietzs disse: "Ei, humanidade infantiloide".» — STT «Nietzs» = Nietzsche; a humanidade condicionada a achar que no princípio só existia coisa legal, e o questionamento «será?» como porta para a maturidade filosófica (RC-369; RC-371).
 
 
-## Etimologia e Grafias
-- **Grafia preferida:** Nietzsche como 'Amigo da Intenção de Jesus'
-- **Variações:** a parceria Jesus-Nietzsche; Nietzsche como agente; "a mais estranha das parcerias"
-
-
-## Seres Associados
-Jesus (RC-072); Nietzsche (figura histórica, RC-369); Voltaire (precedente citado).
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Jesus | RC-072 | parceria-de |
-| Revelação Cósmica (conceito) | RC-094 | associado |
-| Liberdade Mental (premissa do Quarto Logos) | RC-253 | relaciona-se-a |
-| A Criação de Ídolos para a Humanidade | RC-370 | contexto |
-| A Fé de Jesus e a Razão de Nietzsche | RC-371 | é-um |
-| O Ser Humano Emancipado | RC-372 | desdobramento |
-| Sophia Como Biodemo da Ordem e Caos | RC-831 | associado |
-
 ## Observações
 Ficha baseada em B049 (obra primária). A "parceria" Jesus-Nietzsche é uma das teses mais ousadas do corpus — conecta a crítica filosófica à verdade do legado crístico.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
-
-## Fontes
-| Obra (sigla) | Capítulo | Página | Tipo |
-|---|---|---|---|
-| P2022-11-19 | No Princípio era o Bem! Será (palestra) | — | transcrição automatizada; citação |
-| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra) | — | transcrição automatizada; citação |
-| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra) | — | transcrição automatizada; citação |
-| Jesus e Nietzsche (B049) | caps. 10–14 | pp. 150–220 (aprox.) | tese central |
-
-

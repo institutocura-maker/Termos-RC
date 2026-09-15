@@ -15,8 +15,42 @@ atualizado = "2026-08-28"
 ## Definição Sintética
 Prática de dirigir respiração, atitude mental e química corporal para produzir conscientemente a sensação em que o eu deseja existir.
 
+## Etimologia e Grafias
+- Grafia: Gestão da Sensação Pessoal.
+
+
 ## Contexto / Origem
 É apresentada como aplicação humana capaz de reduzir o descompasso da Simultaneidade Reversa.
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Mentalma | RC-166 | relaciona-se-a |
+| DNA como Projeção Holográfica do Psiquismo do Criador | RC-217 | relaciona-se-a |
+| Disciplina dos 3As (respiração, mente, alinhamento) | RC-552 | usa |
+| Genoma da Liberdade | RC-619 | relaciona-se-a |
+| Ciência Pessoal / Doutrina da Própria Personalidade | RC-695 | ← relaciona-se-a |
+| Postulados Quânticos como Manual Operativo | RC-703 | ← usa |
+| Bhavaṅga / Janela da Percepção | RC-706 | ← relaciona-se-a |
+| Lei da Mente do Buda | RC-712 | ← orienta |
+| Taumaturgia Genético-Química | RC-713 | ← relaciona-se-a |
+| Três Faíscas da Consciência Humana | RC-719 | ← gerida-por |
+| Três Faíscas da Consciência Humana | RC-719 | gere |
+| Dignidade como Critério de Consciência | RC-722 | ← depende-de |
+| Faixas Espirituais de Ressonância | RC-726 | ← destinação-gerida-por |
+| Faixas Espirituais de Ressonância | RC-726 | orienta-destinação-em |
+| Faixas Espirituais de Ressonância | RC-726 | ← destinação-gerida-por |
+| Colegiados Espirituais Humanizados | RC-745 | associado |
+
+## Seres Associados
+Consultar relações acima.
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
+| P2024-05-04 — Prabrajna em Perpérion / Simultaneidade Reversa | U0734–U0771 | PDF/transcrição pré-curada |
+
 
 ## Citações-chave
 > “Quando você se torna mestre das suas próprias sensações, essa é a maior alquimia.” — P2024-05-04
@@ -52,41 +86,7 @@ A sensação predominante do eu é apresentada como critério de associação a 
 
 Observar o primeiro impulso, respirar e agir a partir de camada mais profunda permite ao eu humano gerir a faísca genômica e despertar a faísca do Eu Profundo, conforme RC-719.
 
-## Etimologia e Grafias
-- Grafia: Gestão da Sensação Pessoal.
-
-
-## Seres Associados
-Consultar relações acima.
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Mentalma | RC-166 | relaciona-se-a |
-| DNA como Projeção Holográfica do Psiquismo do Criador | RC-217 | relaciona-se-a |
-| Disciplina dos 3As (respiração, mente, alinhamento) | RC-552 | usa |
-| Genoma da Liberdade | RC-619 | relaciona-se-a |
-| Ciência Pessoal / Doutrina da Própria Personalidade | RC-695 | ← relaciona-se-a |
-| Postulados Quânticos como Manual Operativo | RC-703 | ← usa |
-| Bhavaṅga / Janela da Percepção | RC-706 | ← relaciona-se-a |
-| Lei da Mente do Buda | RC-712 | ← orienta |
-| Taumaturgia Genético-Química | RC-713 | ← relaciona-se-a |
-| Três Faíscas da Consciência Humana | RC-719 | ← gerida-por |
-| Três Faíscas da Consciência Humana | RC-719 | gere |
-| Dignidade como Critério de Consciência | RC-722 | ← depende-de |
-| Faixas Espirituais de Ressonância | RC-726 | ← destinação-gerida-por |
-| Faixas Espirituais de Ressonância | RC-726 | orienta-destinação-em |
-| Faixas Espirituais de Ressonância | RC-726 | ← destinação-gerida-por |
-| Colegiados Espirituais Humanizados | RC-745 | associado |
-
 ## Observações
 Relacionar a Mentalma e aos 3As.
 
 Status candidato por depender de palestra e alegações ainda não cruzadas integralmente com obras primárias.
-
-## Fontes
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
-| P2024-05-04 — Prabrajna em Perpérion / Simultaneidade Reversa | U0734–U0771 | PDF/transcrição pré-curada |
-

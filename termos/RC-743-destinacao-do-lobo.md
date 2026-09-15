@@ -16,14 +16,25 @@ atualizado = "2026-08-16"
 
 [P2024-08-03] Na leitura teleológica de Ellam, destinação atribuída ao lobo como convergência de sociabilidade, cuidado mútuo e proteção de vulneráveis dentro de um projeto zoológico cosmológico.
 
+## Etimologia e Grafias
+### Glossário interno
+
+- **[P2024-08-03]** Pularra/Prara/Pharara/Porularra/Pulra [REVISAR → CHANCELA 2026-09-06 · F039-L3: AGUARDA-ÁUDIO (STT preservado como falado) — ver nota]: forma não normalizada; R-FD05 permanece pendente até conferência de áudio.
+
+## Contexto / Origem
+
+[P2024-08-03] A palestra compara esse modelo à emergência da condição humana, mas também trata a humanidade como descontinuidade. A atribuição do projeto ao nome Pularra permanece dependente de áudio e não foi convertida em relação canônica.
+
 ## Escopo e evidência
 
 - **[P2024-08-03] Unidades:** U0803–U0945; U1075–U1087; U1376–U1439.
 - **[P2024-08-03] Proveniência:** palestra de Jan Val Ellam; transcrição STT pré-curada; devolutiva oficial do curador registrada em 2026-08-16.
 
-## Contexto / Origem
-
-[P2024-08-03] A palestra compara esse modelo à emergência da condição humana, mas também trata a humanidade como descontinuidade. A atribuição do projeto ao nome Pularra permanece dependente de áudio e não foi convertida em relação canônica.
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Semente da racionalidade (diferencial humano) | RC-525 | é-comparada-à-emergência-de |
+| Ressonância límbica (emoções como tecnologia cósmica) | RC-529 | expressa-sociabilidade-por |
 
 ## Citações-chave
 > "Vamos falar sobre a falência dos deuses e a destinação do lobo. O que é que significa falência dos deuses? O que é que significa destinação do lobo? Por que é que diabos o nome da palestra é esse aqui? Essas duas senhoras me pediram para falar nisso. O nome da palestra é porque elas duas me pediram. Mas tem tudo a ver. Inclusive eu já havia feito uma abordagem antes sobre a questão do lobo em uma certa palestra que eu fiz, e apenas agora eu vou aprofundar e introduzir uma série de temas que na época eu não tive coragem de fazer."" — P2024-08-03
@@ -46,16 +57,7 @@ atualizado = "2026-08-16"
 > Notas de processo: 2 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-743.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
 
 
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Semente da racionalidade (diferencial humano) | RC-525 | é-comparada-à-emergência-de |
-| Ressonância límbica (emoções como tecnologia cósmica) | RC-529 | expressa-sociabilidade-por |
-
-## Glossário interno
-
-- **[P2024-08-03]** Pularra/Prara/Pharara/Porularra/Pulra [REVISAR → CHANCELA 2026-09-06 · F039-L3: AGUARDA-ÁUDIO (STT preservado como falado) — ver nota]: forma não normalizada; R-FD05 permanece pendente até conferência de áudio.
-
-## Cautela editorial
+## Observações
+### Cautela editorial
 
 [P2024-08-03] Não confundir a interpretação de Ellam com etologia ou evolução validadas. A legenda viral da alcateia é falsa; carne crua não é apresentada editorialmente como ativadora de memória lupina; alegações clínicas foram excluídas.

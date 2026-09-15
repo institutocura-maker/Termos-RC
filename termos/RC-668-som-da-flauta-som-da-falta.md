@@ -15,7 +15,26 @@ atualizado = "2026-08-15"
 ## Definição Sintética
 Som da Flauta/Som da Falta — frequência percebida por Shiva na pacificação da Naga.
 
+## Etimologia e Grafias
+Forma validada pelo curador.
+
 ## Contexto / Origem
+P2026-02-28.
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Shiva (Savna) | RC-102 | percebido-por |
+| Descendência de Kadru (Nagas, Uragas e Maharagas) | RC-664 | ← relaciona-se-a |
+| Descendência de Kadru (Nagas, Uragas e Maharagas) | RC-664 | relaciona-se-a |
+| Pashupati (avatar de Shiva) | RC-669 | associado |
+| Yoga Ancestral (Origem Cósmica) | RC-670 | origina |
+| Mão Invisível Multiforme / Conselho das Nagas | RC-697 | associado |
+
+## Seres Associados
+Consultar Base.
+
+## Fontes
 P2026-02-28.
 
 ## Citações-chave
@@ -29,24 +48,5 @@ O episódio da Naga pacificada pelo som da flauta é retomado. A palestra acresc
 
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-668.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
 
-## Etimologia e Grafias
-Forma validada pelo curador.
-
-## Seres Associados
-Consultar Base.
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Shiva (Savna) | RC-102 | percebido-por |
-| Descendência de Kadru (Nagas, Uragas e Maharagas) | RC-664 | ← relaciona-se-a |
-| Descendência de Kadru (Nagas, Uragas e Maharagas) | RC-664 | relaciona-se-a |
-| Pashupati (avatar de Shiva) | RC-669 | associado |
-| Yoga Ancestral (Origem Cósmica) | RC-670 | origina |
-| Mão Invisível Multiforme / Conselho das Nagas | RC-697 | associado |
-
 ## Observações
 Termo candidato.
-
-## Fontes
-P2026-02-28.

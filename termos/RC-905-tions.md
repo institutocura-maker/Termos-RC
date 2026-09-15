@@ -15,11 +15,6 @@ atualizado = "2026-09-13"
 ## Definição Sintética
 Tions — conceito desenvolvido na palestra «A Teia da Vida e o Circuito Oculto dos Deuses» (P2024-01-13).
 
-## Ampliação
-### P2024-01-13
-**Fonte:** palestra «A Teia da Vida e o Circuito Oculto dos Deuses» (13/01/2024).
-**Trecho verbatim:** «Tions, que são partículas que se movimentam numa perspectiva superluminal, ou seja, acima da velocidade da luz»
-
 ## Termos Relacionados
 - RC-559
 - RC-628
@@ -28,3 +23,8 @@ Tions — conceito desenvolvido na palestra «A Teia da Vida e o Circuito Oculto
 | Teia quântica (o que sai de um ser volta para ele) | RC-559 | associado |
 | Simultaneidade Reversa | RC-628 | associado |
 
+
+## Ampliação
+### P2024-01-13
+**Fonte:** palestra «A Teia da Vida e o Circuito Oculto dos Deuses» (13/01/2024).
+**Trecho verbatim:** «Tions, que são partículas que se movimentam numa perspectiva superluminal, ou seja, acima da velocidade da luz»

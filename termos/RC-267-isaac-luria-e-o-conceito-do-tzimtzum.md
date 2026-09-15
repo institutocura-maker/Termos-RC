@@ -16,6 +16,21 @@ atualizado = "2026-08-19"
 
 Isaac Luria (séc. XVI, Safed) — cabalista que sistematizou o conceito do Tzimtzum (contração divina) e a Cabala lurianica.
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Tzimtzum | RC-008 | relaciona-se-a |
+| Kether (Javé na Cabala) | RC-261 | associado |
+| Daath (a Criação na Cabala) | RC-262 | associado |
+| Sefirot / Árvore da Vida | RC-263 | ← relaciona-se-a |
+| Sepher ha-Zohar (e Shimon Bar Yochai) | RC-266 | relaciona-se-a |
+
+## Fontes
+
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2025-05-31 | O Mistério da Árvore da Vida e a Urdidura de Metatron (re-curadoria; devolutiva M-2/M-4 aprovada 19/08/2026) | palestra/STT pré-curada |
+
 ## Citações-chave
 
 > Com a melhor das intenções criaram 100 interpretações e passaram a chamar isso de árvore da vida.
@@ -36,15 +51,6 @@ Isaac Luria (séc. XVI, Safed) — cabalista que sistematizou o conceito do Tzim
 - **[B013 p. 30–31]** citação lurianica da contração; Daniel Matt sobre vasos que se estilhaçam e “tikun” como “reparo” — **não** acrescentar B013 a RC-514 sem autorização; fica só o contexto de Luria.
 - **Quarentena teológica / histórico-religiosa:** Luria (Safed, séc. XVI) e o Zohar — narrativa do autor, não biografia acadêmica. Sem ficha nova.
 
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Tzimtzum | RC-008 | relaciona-se-a |
-| Kether (Javé na Cabala) | RC-261 | associado |
-| Daath (a Criação na Cabala) | RC-262 | associado |
-| Sefirot / Árvore da Vida | RC-263 | ← relaciona-se-a |
-| Sepher ha-Zohar (e Shimon Bar Yochai) | RC-266 | relaciona-se-a |
-
 ## Observações
 
 [Aguardando Ditado Livre]
@@ -53,9 +59,3 @@ Quarentena teológica — leitura do autor.
 
 ---
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o bloco citado desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
-
-## Fontes
-
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2025-05-31 | O Mistério da Árvore da Vida e a Urdidura de Metatron (re-curadoria; devolutiva M-2/M-4 aprovada 19/08/2026) | palestra/STT pré-curada |

@@ -16,6 +16,53 @@ atualizado = "2026-08-16"
 
 Na leitura comparada de Jan Val Ellam, Yggdrasil designa um conglomerado de nove mundos: oito locas do universo antimaterial articuladas com Marte/Midgard, no universo material, periodicamente conectadas pela Bifrost.
 
+### Estrutura interna
+
+- oito locas do universo vizinho;
+- Marte/Midgard como nono mundo e ponto material;
+- Bifrost como ponte periódica;
+- Odin e sua genealogia como administradores do conglomerado na narrativa;
+- alquimia associada a Kvasir, Odin, Frigg/Freya e anões;
+- Ragnarok como colapso do sistema e destruição de Marte;
+- substituição posterior do eixo por um Axis Mundi terrestre.
+
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Senhores do Dharma (= Senhores da Lila / Trimurti) | RC-320 | associado |
+| Ragnarok em Marte | RC-395 | destruído-em |
+| Ragnarok em Marte | RC-395 | ← destrói |
+| Midgard (Marte + Terra) | RC-470 | inclui |
+| Midgard (Marte + Terra) | RC-470 | ← integra |
+| Bifrost (Portal interdimensional) | RC-471 | conecta-se-por |
+| Bifrost (Portal interdimensional) | RC-471 | ← conecta |
+| Fantasmas do Passado Mitológico | RC-728 | ← estrutura-se-por |
+| Axis Mundi / Axismund | RC-731 | sucedido-por |
+| Axis Mundi / Axismund | RC-731 | ← sucede |
+| Samudra Manthana / Batimento do Oceano de Leite | RC-734 | associado |
+| Centro Alquímico-Farmacopédico | RC-789 | associado |
+| Lamúria dos Deuses (Diagnóstico de Prometeu) | RC-791 | associado |
+
+## Fontes
+
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2023-07-09 | A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
+| P2024-11-02 | U0141–U0208; U0230–U0302; U0618–U0630; U1029 | palestra/STT pré-curada |
+| P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — |
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2024-03-17 | A Quem Pertence o Planeta e a Biblioteca Genômica Mais Atualizada do Universo (palestra) | transcrição automatizada; citação |
+| P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2023-07-09 | A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
+
 ## Citações-chave
 
 > “Marte [...] passou a fazer parte desse conglomerado de realidades composto por nove mundos, sendo oito do universo vizinho e um do nosso universo.”
@@ -59,53 +106,6 @@ Na leitura comparada de Jan Val Ellam, Yggdrasil designa um conglomerado de nove
 
 **Trecho verbatim:** «As correntes de asgardianos que não estão claramente distinguíveis nas mitologias nórdicas, mas eles aparecem por trás dos padrões da mitologia nórdica. Eles, essas correntes, foi quem mais trouxe, produziu esse fluxo de informações entre Marte e Terra.»
 
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Senhores do Dharma (= Senhores da Lila / Trimurti) | RC-320 | associado |
-| Ragnarok em Marte | RC-395 | destruído-em |
-| Ragnarok em Marte | RC-395 | ← destrói |
-| Midgard (Marte + Terra) | RC-470 | inclui |
-| Midgard (Marte + Terra) | RC-470 | ← integra |
-| Bifrost (Portal interdimensional) | RC-471 | conecta-se-por |
-| Bifrost (Portal interdimensional) | RC-471 | ← conecta |
-| Fantasmas do Passado Mitológico | RC-728 | ← estrutura-se-por |
-| Axis Mundi / Axismund | RC-731 | sucedido-por |
-| Axis Mundi / Axismund | RC-731 | ← sucede |
-| Samudra Manthana / Batimento do Oceano de Leite | RC-734 | associado |
-| Centro Alquímico-Farmacopédico | RC-789 | associado |
-| Lamúria dos Deuses (Diagnóstico de Prometeu) | RC-791 | associado |
-
 ## Observações
 
 A identificação de Yggdrasil com um sistema interdimensional centrado em Marte é **Teologia Comparada de Ellam**, não consenso da mitologia nórdica, da história das religiões, da astronomia ou da arqueologia. A fala pode sobrepor tradições nórdicas, célticas, hindus e a literatura de Tolkien; identidades duvidosas permanecem `[REVISAR → CHANCELA 10/09/2026 · F040-L5: SEM EQUIVALÊNCIA CANÔNICA (decisão registrada) — ver nota]` e não geram equivalência canônica.
-
-## Fontes
-
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2023-07-09 | A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
-| P2024-11-02 | U0141–U0208; U0230–U0302; U0618–U0630; U1029 | palestra/STT pré-curada |
-| P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — |
-
-## Fontes
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2024-03-17 | A Quem Pertence o Planeta e a Biblioteca Genômica Mais Atualizada do Universo (palestra) | transcrição automatizada; citação |
-| P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |
-
-## Fontes
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2023-07-09 | A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
-
-## Estrutura interna
-
-- oito locas do universo vizinho;
-- Marte/Midgard como nono mundo e ponto material;
-- Bifrost como ponte periódica;
-- Odin e sua genealogia como administradores do conglomerado na narrativa;
-- alquimia associada a Kvasir, Odin, Frigg/Freya e anões;
-- Ragnarok como colapso do sistema e destruição de Marte;
-- substituição posterior do eixo por um Axis Mundi terrestre.
-

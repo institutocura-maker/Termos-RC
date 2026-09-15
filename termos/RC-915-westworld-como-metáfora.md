@@ -15,11 +15,6 @@ atualizado = "2026-09-13"
 ## Definição Sintética
 Westworld como Metáfora — conceito desenvolvido na palestra «Delírio Humano a Insensatez Espiritual da Busca Religiosa» (P2023-10-15).
 
-## Ampliação
-### P2023-10-15
-**Fonte:** palestra «Delírio Humano a Insensatez Espiritual da Busca Religiosa» (15/10/2023).
-**Trecho verbatim:** «Através de metáforas como a série Westworld, a obra sugere que somos seres condicionados por memórias e algoritmos biológicos, agindo por impulsos em vez de exercermos um verdadeiro livre-arbítrio.»
-
 ## Termos Relacionados
 - RC-722 (Dignidade)
 - RC-749 (Vício Devocional)
@@ -28,3 +23,8 @@ Westworld como Metáfora — conceito desenvolvido na palestra «Delírio Humano
 | Dignidade como Critério de Consciência | RC-722 | associado |
 | Vício Devocional | RC-749 | associado |
 
+
+## Ampliação
+### P2023-10-15
+**Fonte:** palestra «Delírio Humano a Insensatez Espiritual da Busca Religiosa» (15/10/2023).
+**Trecho verbatim:** «Através de metáforas como a série Westworld, a obra sugere que somos seres condicionados por memórias e algoritmos biológicos, agindo por impulsos em vez de exercermos um verdadeiro livre-arbítrio.»

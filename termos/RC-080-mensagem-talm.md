@@ -16,6 +16,38 @@ atualizado = "2026-08-18"
 
 Mensagem enviada **de fora do simulacro** (da espiritualidade / dos fenvans, ligados ao Ginnungagap) para dentro da realidade simulada — uma "garrafa ao mar" cósmica: seres que sabiam que tentariam migrar para a faixa biológica deixaram um registro para si mesmos e para os que viessem, do tipo "Ei, cara, se você tiver lendo essa mensagem, entenda que...". É a âncora narrativa da RC como mensagem de dentro para fora da Matrix (ver RC-761, RC-702).
 
+## Contexto / Origem
+### Colecionar Incertezas
+
+- “Sinal de Lel/Lzen” → obra **“O Sinal de Lemur”** (decisão do curador, registro provisório — `[REVISAR → CHANCELA 10/09/2026 · F039-L5: AGUARDA-ÁUDIO — ver nota]` com áudio);
+- "Brasira" → provável Brahmaloka (STT) — não cadastrar como termo.
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Anunnaki | RC-024 | associado |
+| Fenvans | RC-064 | associado |
+| Lúcifer (Yel Luzbel) | RC-078 | relaciona-se-a |
+| Processador Val | RC-089 | associado |
+| Projeto Talm | RC-091 | associado |
+| Yel Lupon | RC-141 | associado |
+| Karuna | RC-165 | associado |
+| Camuflagem da Realidade | RC-702 | relaciona-se-a |
+| As Cinco Lentes da Realidade | RC-761 | ← relaciona-se-a |
+| Ginnungagap (zona intercessória entre universos; prisão dos fenvans frustrados) | RC-776 | associado |
+| Carga virótica (a materialização da primeira carga mental do criador) | RC-877 | associado |
+
+## Fontes
+
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2021-02-28 | Tragédia Anunciada - As Fórmulas Mentais do Poder Demo (palestra) | — | transcrição automatizada; citação |
+| P2026-03-21 | Samudra Manthan A Enigmatica Alquimia de Vishnu (palestra) | — | transcrição automatizada; citação |
+| P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
+| P2021-01-30 | A Mensagem TALM e os Fios Soltos do Destino (palestra) | — | transcrição automatizada; citação |
+| B031 / B017 | — | obras publicadas |
+| P2023-05-13 | seções 3.4, 2.3; bloco da mensagem talma | palestra/STT pré-curada |
+
 ## Citações-chave
 
 > "Tem essa mensagem talma que foi escrita pelos fenvães que já estavam dentro de um simulacro, mas que, em sabendo que iria existir vida no universo vizinho biológico, que era um outro simulacro, ou seja, faixas de realidade dentro de uma grande matrix. Essa mensagenzinha veio e no livro Sinal de Lzen eu conto, a pedidos desses seres, como é que esses seres descobriram essa mensagem." — P2023-05-13
@@ -72,34 +104,3 @@ Mensagem enviada **de fora do simulacro** (da espiritualidade / dos fenvans, lig
 - **Livro citado:** Ellam diz que conta essa história "no livro Sinal de Lel/Lzen" — curador determinou: registrar provisoriamente como a obra **“O Sinal de Lemur”** (`[REVISAR → CHANCELA 10/09/2026 · F039-L5: AGUARDA-ÁUDIO (título provisório por decisão do curador) — ver nota]` título com o áudio);
 - Relaciona-se à consciência humana como única capaz de decifrar a mensagem (RC-761).
 
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Anunnaki | RC-024 | associado |
-| Fenvans | RC-064 | associado |
-| Lúcifer (Yel Luzbel) | RC-078 | relaciona-se-a |
-| Processador Val | RC-089 | associado |
-| Projeto Talm | RC-091 | associado |
-| Yel Lupon | RC-141 | associado |
-| Karuna | RC-165 | associado |
-| Camuflagem da Realidade | RC-702 | relaciona-se-a |
-| As Cinco Lentes da Realidade | RC-761 | ← relaciona-se-a |
-| Ginnungagap (zona intercessória entre universos; prisão dos fenvans frustrados) | RC-776 | associado |
-| Carga virótica (a materialização da primeira carga mental do criador) | RC-877 | associado |
-
-## Fontes
-
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2021-02-28 | Tragédia Anunciada - As Fórmulas Mentais do Poder Demo (palestra) | — | transcrição automatizada; citação |
-| P2026-03-21 | Samudra Manthan A Enigmatica Alquimia de Vishnu (palestra) | — | transcrição automatizada; citação |
-| P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
-| P2021-01-30 | A Mensagem TALM e os Fios Soltos do Destino (palestra) | — | transcrição automatizada; citação |
-| B031 / B017 | — | obras publicadas |
-| P2023-05-13 | seções 3.4, 2.3; bloco da mensagem talma | palestra/STT pré-curada |
-
-## Colecionar Incertezas
-
-- “Sinal de Lel/Lzen” → obra **“O Sinal de Lemur”** (decisão do curador, registro provisório — `[REVISAR → CHANCELA 10/09/2026 · F039-L5: AGUARDA-ÁUDIO — ver nota]` com áudio);
-- "Brasira" → provável Brahmaloka (STT) — não cadastrar como termo.

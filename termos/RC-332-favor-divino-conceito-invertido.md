@@ -15,8 +15,55 @@ atualizado = "2026-08-12"
 ## Definição Sintética
 O "favor divino" **invertido** — a tese central de *Favor Divino* (B048): os humanos é que fazem um favor ao Criador, **assumindo cotas particularizadas de sua doença** (B031/glossário: "os espíritos que animam os nossos corpos nessa Criação indevida fazem um 'favor divino' a Javé (o Demiurgo) por assumirem cotas particularizadas de sua 'doença'... Através do nosso DNA e de nossas 'vivências na carne' ajudamos a curar esse Ser adoentado"). Em B048, Ellam explica que o termo é uma "provocação": "O 'favor divino' que aqui utilizo tem como objetivo apenas o de provocar o entendimento do leitor", pois a visão distorcida foi promovida pelas "revelações" do próprio Javé.
 
+## Etimologia e Grafias
+- **Grafia preferida:** Favor Divino
+- **Variações:** o favor divino invertido; favor dos humanos ao Criador; "o favor divino" (provocação)
+- **Obs.:** o termo RC-063 (Favor Divino, título da obra) e RC-332 (conceito) se complementam — a ficha RC-063 trata do título/obra; esta trata do conceito.
+
+
 ## Contexto / Origem
 A sinopse de B048 pergunta: "Afinal, existem favores divinos? E se tudo for ao contrário do que fomos acostumados a pensar?" O livro mostra que a "lavagem cerebral" que produziu a percepção dos "favores de Deus" "foi e ainda é parte de uma etapa necessária de um processo maior". O capítulo 10 (O Reconhecimento que nunca veio) conclui: "o Senhor Javé e toda a sua hierarquia deveriam ser gratos... porque somos nós quem promovemos o progresso necessário à redenção de todos eles e, em especial, a do próprio criador. Mas, aqui na Terra, é tudo ao contrário!"
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Criador (Brahma/Javé/Demiurgo) | RC-041 | inverte |
+| Favor Divino | RC-063 | variação |
+| Revelação Cósmica (conceito) | RC-094 | associado |
+| Seres Terrenos (Homo Sapiens) | RC-099 | doadores |
+| Democracia do Amor da Deidade | RC-333 | contraponto |
+| Teocracia da Doença de uma Divindade | RC-334 | contexto |
+| O Reconhecimento que nunca veio | RC-338 | ← relaciona-se-a |
+| Ferramentas do Favor Divino (religiões e pensadores) | RC-341 | associado |
+| A Vida do CFD de Javé no Ser Humano | RC-382 | ← relaciona-se-a |
+| Proposta de um Humano Terrestre aos Elétrons | RC-384 | associado |
+| Sou eu que vivo em vocês (Javé) | RC-419 | ← relaciona-se-a |
+| As Memórias de Javé (crônicas) | RC-421 | ← precede |
+| Ser-Criador fracassado (autoconfissão de Javé) | RC-422 | associado |
+| Tikun Cósmico (restabelecimento da Criação) | RC-514 | associado |
+| Ressonância límbica (emoções como tecnologia cósmica) | RC-529 | relaciona-se-a |
+| PIA — Peso da Inevitabilidade Ancestral | RC-716 | ← relaciona-se-a |
+| PIA — Peso da Inevitabilidade Ancestral | RC-716 | relaciona-se-a |
+| Bagagem Espiritual Intransferível | RC-751 | associado |
+| Agenda Espiritual | RC-752 | ← relaciona-se-a |
+
+## Seres Associados
+Criador/Javé (RC-041/RC-001); Seres Terrenos (RC-099); Deidade (RC-047).
+
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo |
+|---|---|---|---|
+| P2022-12-03 | O Ocaso do Criador e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
+| P2023-02-12 | A Desconexão dos Desígnios Proféticos do Judaísmo, do Cristianismo e do Islamismo (palestra) | — | transcrição automatizada; citação |
+| Favor Divino (B048) | caps. 8, 10 | pp. 60–75, 85–100 (aprox.) | tese central |
+| Painéis Emergentes (B031) | Glossário (Favor Divino) | — | apoio (secundária) |
+| P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | — |
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
 
 ## Citações-chave
 > "O 'favor divino' que aqui utilizo tem como objetivo apenas o de provocar o entendimento do leitor. Afinal, como o meu ou de qualquer outro terráqueo que inevitavelmente sofre a 'lavagem cerebral' imposta pelas crenças vindas do passado equivocado, é mero produto de uma visão distorcida que foi promovida pelas 'revelações' ofertadas ao mundo." — B048, cap. 8
@@ -66,52 +113,5 @@ A sinopse de B048 pergunta: "Afinal, existem favores divinos? E se tudo for ao c
 
 O Favor Divino é ligado ao PIA: espíritos assumem cotas da condição informacional do Criador e os eus encarnados trabalham mutações/ressignificações que repercutiriam no todo.
 
-## Etimologia e Grafias
-- **Grafia preferida:** Favor Divino
-- **Variações:** o favor divino invertido; favor dos humanos ao Criador; "o favor divino" (provocação)
-- **Obs.:** o termo RC-063 (Favor Divino, título da obra) e RC-332 (conceito) se complementam — a ficha RC-063 trata do título/obra; esta trata do conceito.
-
-
-## Seres Associados
-Criador/Javé (RC-041/RC-001); Seres Terrenos (RC-099); Deidade (RC-047).
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Criador (Brahma/Javé/Demiurgo) | RC-041 | inverte |
-| Favor Divino | RC-063 | variação |
-| Revelação Cósmica (conceito) | RC-094 | associado |
-| Seres Terrenos (Homo Sapiens) | RC-099 | doadores |
-| Democracia do Amor da Deidade | RC-333 | contraponto |
-| Teocracia da Doença de uma Divindade | RC-334 | contexto |
-| O Reconhecimento que nunca veio | RC-338 | ← relaciona-se-a |
-| Ferramentas do Favor Divino (religiões e pensadores) | RC-341 | associado |
-| A Vida do CFD de Javé no Ser Humano | RC-382 | ← relaciona-se-a |
-| Proposta de um Humano Terrestre aos Elétrons | RC-384 | associado |
-| Sou eu que vivo em vocês (Javé) | RC-419 | ← relaciona-se-a |
-| As Memórias de Javé (crônicas) | RC-421 | ← precede |
-| Ser-Criador fracassado (autoconfissão de Javé) | RC-422 | associado |
-| Tikun Cósmico (restabelecimento da Criação) | RC-514 | associado |
-| Ressonância límbica (emoções como tecnologia cósmica) | RC-529 | relaciona-se-a |
-| PIA — Peso da Inevitabilidade Ancestral | RC-716 | ← relaciona-se-a |
-| PIA — Peso da Inevitabilidade Ancestral | RC-716 | relaciona-se-a |
-| Bagagem Espiritual Intransferível | RC-751 | associado |
-| Agenda Espiritual | RC-752 | ← relaciona-se-a |
-
 ## Observações
 Ficha baseada em B048 (obra primária) + B031. O Favor Divino é o conceito ético central do "drama": a humanidade como instrumento de cura do Criador. Cruzar com RC-063, RC-245 (Humanização do Criador) e RC-217 (DNA como projeção).
-
-## Fontes
-| Obra (sigla) | Capítulo | Página | Tipo |
-|---|---|---|---|
-| P2022-12-03 | O Ocaso do Criador e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
-| P2023-02-12 | A Desconexão dos Desígnios Proféticos do Judaísmo, do Cristianismo e do Islamismo (palestra) | — | transcrição automatizada; citação |
-| Favor Divino (B048) | caps. 8, 10 | pp. 60–75, 85–100 (aprox.) | tese central |
-| Painéis Emergentes (B031) | Glossário (Favor Divino) | — | apoio (secundária) |
-| P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | — |
-
-## Fontes
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

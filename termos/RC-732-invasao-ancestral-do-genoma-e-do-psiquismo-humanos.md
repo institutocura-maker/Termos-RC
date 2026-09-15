@@ -16,6 +16,36 @@ atualizado = "2026-08-17"
 
 Na cosmologia de Jan Val Ellam, hipótese narrativa segundo a qual códigos, “partes” ou seres ligados ao passado universal teriam sido transferidos ou acoplados à condição humana e poderiam influenciar impulsos, formas, destinos e redes psíquicas.
 
+### Escopo autorizado
+
+- códigos ancestrais no genoma e no psiquismo, sempre como alegação da fala;
+- Jabutis Genéticos como metáfora correlata;
+- dimensões individuais e coletivas de condicionamento;
+- relação com devoção, dependência e autonomia;
+- resposta ética de reconhecimento sem combate.
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Mente Coletiva / Redes Psíquicas Coletivas | RC-188 | associado |
+| DNA como Projeção Holográfica do Psiquismo do Criador | RC-217 | atua-sobre |
+| Lavagem Cerebral (condicionamento) | RC-335 | relaciona-se-a |
+| Genoma Derivado (interação genoma × trajetória) | RC-518 | relaciona-se-a |
+| Ex-DNA-lixo (DNA não codificante reinterpretado) | RC-542 | ← relaciona-se-a |
+| Espelho da Herança Espiritual no Epigenoma | RC-543 | relaciona-se-a |
+| Transferência da Memória dos Antielétrons | RC-637 | associado |
+| Genes Críticos / Genes Dorminhocos | RC-710 | associado |
+| Fantasmas do Passado Mitológico | RC-728 | ← estrutura-se-por |
+| Jabutis Genéticos | RC-729 | ← contextualiza |
+| Jabutis Genéticos | RC-729 | manifesta-se-no-discurso-como |
+| Dominação Psíquica pela Devoção | RC-733 | favorece |
+
+## Fontes
+
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2024-11-02 | U0358–U0430; U0816–U0895; U1312–U1358 | palestra/STT pré-curada |
+
 ## Citações-chave
 > "Houve um tempo quando os portais entre o Brahmaloka e o Bhuloka se encontravam naturalmente abertos, em que certa classe de demos da estirpe ancestral manipulou a genética de uma das espécies ancestrais do gênero canis, a cerca de 4,5 milhões de anos atrás. Nessa época, essa espécie de ancestral do lobo era chamada de Eucion. E o Eucion era o ancestral comum de lobos, coiotes e chacais. Esses nossos amigos lobos vagavam selvagens por cerca de 8 milhões de anos, até encontrarem os humanos, há cerca de 10.000 anos atrás." — P2024-08-03
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
@@ -52,41 +82,11 @@ Na cosmologia de Jan Val Ellam, hipótese narrativa segundo a qual códigos, “
 - **[P2024-07-13]** Não converter metáfora, profecia ou alegação cosmológica em causalidade espiritual, diagnóstico, mecanismo genético, orientação terapêutica ou ciência demonstrada.
 
 
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Mente Coletiva / Redes Psíquicas Coletivas | RC-188 | associado |
-| DNA como Projeção Holográfica do Psiquismo do Criador | RC-217 | atua-sobre |
-| Lavagem Cerebral (condicionamento) | RC-335 | relaciona-se-a |
-| Genoma Derivado (interação genoma × trajetória) | RC-518 | relaciona-se-a |
-| Ex-DNA-lixo (DNA não codificante reinterpretado) | RC-542 | ← relaciona-se-a |
-| Espelho da Herança Espiritual no Epigenoma | RC-543 | relaciona-se-a |
-| Transferência da Memória dos Antielétrons | RC-637 | associado |
-| Genes Críticos / Genes Dorminhocos | RC-710 | associado |
-| Fantasmas do Passado Mitológico | RC-728 | ← estrutura-se-por |
-| Jabutis Genéticos | RC-729 | ← contextualiza |
-| Jabutis Genéticos | RC-729 | manifesta-se-no-discurso-como |
-| Dominação Psíquica pela Devoção | RC-733 | favorece |
-
 ## Observações
 
 Esta é uma categoria interna da cosmologia de Ellam, **não um mecanismo reconhecido pela genética, psiquiatria, neurologia ou psicologia**. Não autoriza diagnosticar ninguém, atribuir sintomas a entidades, suspender tratamentos, substituir avaliação profissional nem estabelecer causalidade espiritual para condições médicas. Relatos de crianças e famílias permanecem na apostila por integralidade documental, com separação da plateia e nota crítica, mas fora da ontologia clínica.
 
-## Fontes
-
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2024-11-02 | U0358–U0430; U0816–U0895; U1312–U1358 | palestra/STT pré-curada |
-
-## Escopo autorizado
-
-- códigos ancestrais no genoma e no psiquismo, sempre como alegação da fala;
-- Jabutis Genéticos como metáfora correlata;
-- dimensões individuais e coletivas de condicionamento;
-- relação com devoção, dependência e autonomia;
-- resposta ética de reconhecimento sem combate.
-
-## Exclusão clínica vinculante
+### Exclusão clínica vinculante
 
 NT-FP21 permanece bloqueado. Este verbete **não** abrange teriantropia/licantropia associada a crianças, famílias, autismo, diagnósticos ou causalidades espirituais clínicas.
 

@@ -15,8 +15,48 @@ atualizado = "2026-08-28"
 ## Definição Sintética
 É o análogo cósmico do "big data" terreno: o **supercontrole informacional** exercido pelo Criador (Javé) e sua "plêiade" de anjos-clones sobre **todas as sequências genéticas de qualquer ser vivo** da Criação. Esse grupo de seres "monitora e tem acesso privilegiado — de modo vergonhoso frente aos valores humanos no campo da ética — a absolutamente todas as sequências genéticas de qualquer ser vivo, e disso se aproveita para delas retirar o que supõem ser o contributo pessoal de cada 'criatura-ferramenta'" (B035, cap. 2). Não há "big data" terreno que se aproxime da riqueza de informação de que dispõem, apesar de estarem presos em uma dimensão subjacente à nossa.
 
+## Etimologia e Grafias
+- **Grafia preferida:** Big Data Cósmico
+- **Variações:** "big data" do Criador; supercontrole informacional; monitoramento genético cósmico
+
+
 ## Contexto / Origem
 Tema-título da obra *O Big Data do Criador* (B035): a ideia de que o Criador, após a queda, tornou-se um "ditador" que precisa monitorar cada parte da sua Criação para manter o controle do todo — o "plano de fundo mental-operacional do jogo que acontece por trás do tipo de vida que levamos". A tecnologia dos anjos-clones acompanha "as entradas e saídas" das sequências de DNA que identificam como pertencentes a "mentes individualizadas" — percebendo a continuidade de uma "mesma expressão mental" por trás de uma pessoa que "morreu" e "renasce" (reencarnação).
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Javé | RC-001 | instrumento-de |
+| Anjos clones | RC-019 | operadores |
+| Simbiose Quântica | RC-195 | relaciona-se-a |
+| Big Data da Terra | RC-197 | ← analogia-de |
+| Rédeas Genéticas | RC-198 | associado |
+| Assinatura da Alma | RC-199 | associado |
+| Base de Dados do Juízo Final | RC-200 | associado-a |
+| O Livro do Criador | RC-201 | desdobramento |
+| Linhagens Preferenciais do Criador | RC-202 | associado |
+| Linhagens Humanas: Preferidas e Preteridas | RC-269 | mapeia |
+| Primado da Informação | RC-707 | ← organiza |
+| Universo de Egrégoras Emocionais | RC-711 | ← relaciona-se-a |
+| Formas-Pensamento e Formas-Sentimento | RC-724 | ← relaciona-se-a |
+| Aristocracia Olimpiana e Monarquias Terrestres | RC-736 | associado |
+| Vício Devocional | RC-749 | ← relaciona-se-a |
+| Desígnios Proféticos (profecia como instrumento de domínio e sua desconexão) | RC-858 | associado |
+
+## Seres Associados
+Javé (RC-001); anjos-clones (RC-019); criaturas-ferramenta (RC-164).
+
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo |
+|---|---|---|---|
+| P2023-02-12 | A Desconexão dos Desígnios Proféticos do Judaísmo, do Cristianismo e do Islamismo (palestra) | — | transcrição automatizada; citação |
+| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra) | — | transcrição automatizada; citação |
+| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra) | — | transcrição automatizada; citação |
+| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra) | — | transcrição automatizada; citação |
+| O Big Data do Criador (B035) | cap. 2 (O Big Data Cósmico) | amostra (pp. 8–13 do PDF) | conteúdo presente na amostra |
+
+
+
 
 ## Citações-chave
 > "Não há 'big data' terreno que possa se aproximar da riqueza de informação de que esses seres dispõem, apesar do fato de se encontrarem presos em uma dimensão de realidade subjacente àquela em que vivem os seres deste universo." — B035, cap. 2
@@ -55,45 +95,5 @@ Tema-título da obra *O Big Data do Criador* (B035): a ideia de que o Criador, a
 O Primado da Informação — RC-707 — amplia a arquitetura informacional: informação organiza energia, matéria, espaço e tempo. O Cosmos Holográfico e o Universo Computacional são mapas auxiliares, não teorias científicas unificadas.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
 
-## Etimologia e Grafias
-- **Grafia preferida:** Big Data Cósmico
-- **Variações:** "big data" do Criador; supercontrole informacional; monitoramento genético cósmico
-
-
-## Seres Associados
-Javé (RC-001); anjos-clones (RC-019); criaturas-ferramenta (RC-164).
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | instrumento-de |
-| Anjos clones | RC-019 | operadores |
-| Simbiose Quântica | RC-195 | relaciona-se-a |
-| Big Data da Terra | RC-197 | ← analogia-de |
-| Rédeas Genéticas | RC-198 | associado |
-| Assinatura da Alma | RC-199 | associado |
-| Base de Dados do Juízo Final | RC-200 | associado-a |
-| O Livro do Criador | RC-201 | desdobramento |
-| Linhagens Preferenciais do Criador | RC-202 | associado |
-| Linhagens Humanas: Preferidas e Preteridas | RC-269 | mapeia |
-| Primado da Informação | RC-707 | ← organiza |
-| Universo de Egrégoras Emocionais | RC-711 | ← relaciona-se-a |
-| Formas-Pensamento e Formas-Sentimento | RC-724 | ← relaciona-se-a |
-| Aristocracia Olimpiana e Monarquias Terrestres | RC-736 | associado |
-| Vício Devocional | RC-749 | ← relaciona-se-a |
-| Desígnios Proféticos (profecia como instrumento de domínio e sua desconexão) | RC-858 | associado |
-
 ## Observações
 Ficha baseada na **amostra** de B035 (Introdução + caps. 1–2). O cap. 2 é cortado no meio na amostra — a definição completa e os caps. 3–12 (Rédeas Genéticas, Assinatura da Alma, Base de Dados do Juízo Final, O Livro do Criador, etc.) aguardam a obra completa. **Solicitar ao usuário o PDF integral.**
-
-## Fontes
-| Obra (sigla) | Capítulo | Página | Tipo |
-|---|---|---|---|
-| P2023-02-12 | A Desconexão dos Desígnios Proféticos do Judaísmo, do Cristianismo e do Islamismo (palestra) | — | transcrição automatizada; citação |
-| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra) | — | transcrição automatizada; citação |
-| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra) | — | transcrição automatizada; citação |
-| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra) | — | transcrição automatizada; citação |
-| O Big Data do Criador (B035) | cap. 2 (O Big Data Cósmico) | amostra (pp. 8–13 do PDF) | conteúdo presente na amostra |
-
-
-

@@ -15,8 +15,36 @@ atualizado = "2026-08-18"
 ## Definição Sintética
 Correspondência de teologia comparada entre Orunmilá e Elm/Moros de Irém/Orum.
 
+## Etimologia e Grafias
+Forma preferida: **Orunmilá (Moros de Irém / Orum)**.
+
+
 ## Contexto / Origem
 P2025-06-26 — 1ª Edição Estagiários do Kaos.
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Elm (Moros — ser LM de Tempérion) | RC-454 | variação |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | variação |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | variação |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | variação |
+| Revelação de Ifá e Destinação dos Seres | RC-655 | relaciona-se-a |
+| Wyrd / Urd (Teia do Destino) | RC-658 | relaciona-se-a |
+| Obatalá (correspondência de Javé em Ifá) | RC-666 | associado |
+| Cumprimento da Profecia de Moros pela Revelação Cósmica | RC-718 | ← envolve |
+| Projeto Orunmilá–Olodus | RC-741 | ← envolve |
+| Os 256 Caminhos Profetizáveis de Orunmilá | RC-767 | ← relaciona-se-a |
+| Transumanismo (o ponto de reencontro: IA humanizada e o novo batimento) | RC-874 | associado |
+
+## Seres Associados
+Consultar Base.
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2026-03-21 | Samudra Manthan A Enigmatica Alquimia de Vishnu (palestra) | — | transcrição automatizada; citação |
+| P2025-06-26 | ver dossiê | live/STT |
 
 ## Citações-chave
 > Ver P2025-06-26.
@@ -78,33 +106,5 @@ Olodumaré/“Olo Maré” permanece em quarentena.
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-665.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o bloco citado desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
 
-## Etimologia e Grafias
-Forma preferida: **Orunmilá (Moros de Irém / Orum)**.
-
-
-## Seres Associados
-Consultar Base.
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Elm (Moros — ser LM de Tempérion) | RC-454 | variação |
-| Elm (Moros — ser LM de Tempérion) | RC-454 | variação |
-| Elm (Moros — ser LM de Tempérion) | RC-454 | variação |
-| Elm (Moros — ser LM de Tempérion) | RC-454 | variação |
-| Revelação de Ifá e Destinação dos Seres | RC-655 | relaciona-se-a |
-| Wyrd / Urd (Teia do Destino) | RC-658 | relaciona-se-a |
-| Obatalá (correspondência de Javé em Ifá) | RC-666 | associado |
-| Cumprimento da Profecia de Moros pela Revelação Cósmica | RC-718 | ← envolve |
-| Projeto Orunmilá–Olodus | RC-741 | ← envolve |
-| Os 256 Caminhos Profetizáveis de Orunmilá | RC-767 | ← relaciona-se-a |
-| Transumanismo (o ponto de reencontro: IA humanizada e o novo batimento) | RC-874 | associado |
-
 ## Observações
 Correspondências culturais são atribuídas à leitura de Val Ellam, não a consenso acadêmico.
-
-## Fontes
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2026-03-21 | Samudra Manthan A Enigmatica Alquimia de Vishnu (palestra) | — | transcrição automatizada; citação |
-| P2025-06-26 | ver dossiê | live/STT |

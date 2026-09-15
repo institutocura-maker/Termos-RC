@@ -16,6 +16,45 @@ atualizado = "2026-09-13"
 
 Na RC, figura correlacionada a **Satã** — ser de alto escalão no drama da criação problemática (RC-167), oponente/par de Javé (RC-001) no psiquismo dos "deuses".
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Javé | RC-001 | relaciona-se-a |
+| Rebelião de Lúcifer | RC-002 | associado |
+| Astralização dos Biodemos | RC-026 | associado |
+| Gron Mion | RC-067 | associado |
+| Shamb-Aha | RC-101 | associado |
+| Yel Luzbel | RC-142 | associado |
+| O Calvário de um Inocente | RC-236 | associado |
+| Hitler (figura histórica no RC) | RC-239 | ← dominado-por |
+| Eros = Vishnu / Tártaro = Shiva (correspondências) | RC-286 | ← relaciona-se-a |
+| Família Mion | RC-443 | é-um |
+| Marduk (= Ra; Anunnaki filho de Enki) | RC-460 | ← relaciona-se-a |
+| Belial (arconte; 'Satã' do livro de Jó) | RC-479 | associado |
+| Senhor Parameshthi / Brahma Parameshthi (face atual de Javé) | RC-556 | ← relaciona-se-a |
+| Relógio Messiânico | RC-765 | ← relaciona-se-a |
+| Maria Orsic (médium da Sociedade Vril) | RC-846 | associado |
+| Nicola Tesla (recebia mensagens em sânscrito) | RC-849 | associado |
+| Alexandre Magno (tirano sob influência de Lemion) | RC-850 | associado |
+| Qin Shi Huang Di (imperador chinês sob influência de Lemion) | RC-851 | associado |
+
+## Fontes
+
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2021-04-10 | O Fechamento dos Portais e o Impasse no Exílio Espiritual de Len Mion — Aprofundamento (palestra) | — | transcrição automatizada; citação |
+| P2023-02-11 | Agente Humano Jesus e os Arcontes (palestra) | — | transcrição automatizada; citação |
+| P2023-08-27 | Len Mion e os Senhores da Terra Alexandre Magno e Qin Shi Huang Di (palestra) | — | transcrição automatizada; citação |
+| P2018-12-16 | Terra Atlantis - Era Sapiens (palestra) | — | transcrição automatizada; citação |
+| P2018-12-15 | Terra Atlantis – Aprofundamento (palestra) | — | transcrição automatizada; citação |
+| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
+| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
+| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra/STT) | citação verbatim; paráfrase |
+| P2021-03-27 | seção 6.2–6.3; bloco 9 (relógio messiânico) | palestra/STT pré-curada |
+
+
+
+
 ## Citações-chave
 
 > "Len Mion e sua influência em Marduk... a problemática do psiquismo de 'deuses' e seres cósmicos." — P2021-03-27 (seções 6.2–6.3)
@@ -127,45 +166,6 @@ Na RC, figura correlacionada a **Satã** — ser de alto escalão no drama da cr
 - Conecta-se ao drama de Lúcifer/Yel Luzbel (RC-078) e à Rebelião (RC-002) — par de Javé no desfecho cósmico.
 
 
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | relaciona-se-a |
-| Rebelião de Lúcifer | RC-002 | associado |
-| Astralização dos Biodemos | RC-026 | associado |
-| Gron Mion | RC-067 | associado |
-| Shamb-Aha | RC-101 | associado |
-| Yel Luzbel | RC-142 | associado |
-| O Calvário de um Inocente | RC-236 | associado |
-| Hitler (figura histórica no RC) | RC-239 | ← dominado-por |
-| Eros = Vishnu / Tártaro = Shiva (correspondências) | RC-286 | ← relaciona-se-a |
-| Família Mion | RC-443 | é-um |
-| Marduk (= Ra; Anunnaki filho de Enki) | RC-460 | ← relaciona-se-a |
-| Belial (arconte; 'Satã' do livro de Jó) | RC-479 | associado |
-| Senhor Parameshthi / Brahma Parameshthi (face atual de Javé) | RC-556 | ← relaciona-se-a |
-| Relógio Messiânico | RC-765 | ← relaciona-se-a |
-| Maria Orsic (médium da Sociedade Vril) | RC-846 | associado |
-| Nicola Tesla (recebia mensagens em sânscrito) | RC-849 | associado |
-| Alexandre Magno (tirano sob influência de Lemion) | RC-850 | associado |
-| Qin Shi Huang Di (imperador chinês sob influência de Lemion) | RC-851 | associado |
-
 ## Observações
 
 Papel de Len Mion no relógio messiânico é **leitura do autor** (Teologia Comparada) — sem validação histórica.
-
-## Fontes
-
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2021-04-10 | O Fechamento dos Portais e o Impasse no Exílio Espiritual de Len Mion — Aprofundamento (palestra) | — | transcrição automatizada; citação |
-| P2023-02-11 | Agente Humano Jesus e os Arcontes (palestra) | — | transcrição automatizada; citação |
-| P2023-08-27 | Len Mion e os Senhores da Terra Alexandre Magno e Qin Shi Huang Di (palestra) | — | transcrição automatizada; citação |
-| P2018-12-16 | Terra Atlantis - Era Sapiens (palestra) | — | transcrição automatizada; citação |
-| P2018-12-15 | Terra Atlantis – Aprofundamento (palestra) | — | transcrição automatizada; citação |
-| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
-| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
-| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra/STT) | citação verbatim; paráfrase |
-| P2021-03-27 | seção 6.2–6.3; bloco 9 (relógio messiânico) | palestra/STT pré-curada |
-
-
-

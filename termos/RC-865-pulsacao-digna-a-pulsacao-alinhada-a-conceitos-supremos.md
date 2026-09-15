@@ -28,6 +28,20 @@ Com isso:
 
 **Origem do conteúdo da ampliação:** palestra `P2022-11-20 — A Incompreendida Nova Aliança proposta por Jesus` (20/11/2022). Transcrição automatizada, **não conferida com o áudio**; cada aspa foi recortada do `original.txt` pelo índice de âncoras do motor e conferida byte a byte pelo portão B. Nada foi digitado de memória.
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Entropia e Negentropia | RC-160 | **sem aresta** em `RELACOES`; arquivo existe |
+| Baralho genético (metáfora dos 28.869 genes) | RC-562 | **sem aresta** em `RELACOES`; arquivo existe |
+| Ponto de Luz Humano / Ilha de Negentropia | RC-725 | **sem aresta** em `RELACOES`; arquivo existe |
+| Pulsação dos Elétrons Como Afetividade Humana | RC-832 | **sem aresta** em `RELACOES`; arquivo existe |
+
+## Fontes
+| Obra (sigla) | Título | Página | Tipo |
+|---|---|---|---|
+| P2022-09-18 | Os Níveis de Estresse Extremo da Criação (palestra) | — | transcrição automatizada; citação |
+| P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
+
 ## Citações-chave
 
 > Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
@@ -45,21 +59,8 @@ Com isso:
 
 - **[Pulsar com dignidade: o assunto para frente] (U0048)** «Como é que se pulsa com dignidade?» — a única via de limpeza da memória dos elétrons: "o eu humano parece ser o único, pelo menos até agora... capaz de limpar a memória dos elétrons e nela edificar os padrões conceituais supremos necessária a redenção de todos" (U0048: «Mas assim, o eu humano parece ser o único, pelo menos até agora»); "um eu de um jacaré não faz isso. O eu de um macaquinho não faz isso, o eu de um cachorrinho não faz isso. O eu de um anunque não faz isso. Eu só o eu humano" (U0048: «Eu só o eu humano»); "somente a partir desse ponto os elétrons que estão naquele corpo de um eu que pulsa com dignidade a cada pulsação da vida"; "é possível que a raça humana um dia chegue nesse ponto? A raça humana não. Mas alguns humanos sim" (U0048: «A raça humana não. Mas alguns humanos sim»); a massa crítica: "basta que uma parte dele resolva, que o campo mórfico dos elétricos devolve para" (span truncado no bruto em "devolve para"; sem emenda).
 
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Entropia e Negentropia | RC-160 | **sem aresta** em `RELACOES`; arquivo existe |
-| Baralho genético (metáfora dos 28.869 genes) | RC-562 | **sem aresta** em `RELACOES`; arquivo existe |
-| Ponto de Luz Humano / Ilha de Negentropia | RC-725 | **sem aresta** em `RELACOES`; arquivo existe |
-| Pulsação dos Elétrons Como Afetividade Humana | RC-832 | **sem aresta** em `RELACOES`; arquivo existe |
-
-## Fontes
-| Obra (sigla) | Título | Página | Tipo |
-|---|---|---|---|
-| P2022-09-18 | Os Níveis de Estresse Extremo da Criação (palestra) | — | transcrição automatizada; citação |
-| P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
-
-## Observações sobre o Estado da Malha
+## Observações
+### Observações sobre o Estado da Malha
 
 * **Materialização imediata (devolutiva):** RC-865 (Pulsação Digna) sai da fila aberta e ganha ficha (ficha=False → True) com a pérola validada neste ciclo (a onda que inibe os seres).
 * **Trava aplicável**: nenhuma além das gerais do despacho.

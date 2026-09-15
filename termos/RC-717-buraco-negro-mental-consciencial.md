@@ -15,6 +15,37 @@ atualizado = "2026-08-18"
 ## Definição Sintética
 Neologismo analógico para colapso/implosão de corpo e eu consciencial que produziria estrutura parasitária ou campo de aprisionamento informacional.
 
+## Contexto / Origem
+### Primeiro caso descrito
+O corpo de Javé teria colapsado em 2021, gerando o primeiro Buraco Negro Mental e deixando seu eu em condição parasitária.
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Javé | RC-001 | primeiro-caso |
+| Javé | RC-001 | relaciona-se-a |
+| Prabrajna | RC-152 | relaciona-se-a |
+| Lavagem Cerebral (condicionamento) | RC-335 | ← relaciona-se-a |
+| Krishna (avatar de Vishnu/Shiva) | RC-414 | ← risco-de |
+| Krishna como 'pretenso Keshava' | RC-425 | relaciona-se-a |
+| Pistis Sophia (feminino cósmico gnóstico) | RC-530 | relaciona-se-a |
+| Teia quântica (o que sai de um ser volta para ele) | RC-559 | relaciona-se-a |
+| Ressurreição do Cadáver do Criador | RC-638 | envolve |
+| Ressurreição do Cadáver do Criador | RC-638 | relaciona-se-a |
+| Colapso do Caos Organizado | RC-690 | é-fenômeno-de |
+| Arquivos do Destino Universal | RC-714 | relaciona-se-a |
+| Informações Vivas | RC-715 | ← pode-colapsar-em |
+| Informações Vivas | RC-715 | envolve |
+| PIA — Peso da Inevitabilidade Ancestral | RC-716 | relaciona-se-a |
+| Abismo da Consciência Cósmica | RC-721 | ← relaciona-se-a |
+| As Cinco Lentes da Realidade | RC-761 | associado |
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2024-11-30 | U0221–U0278; U0318–U0330; U1300–U1340; U1920–U1950 | palestra/STT |
+| P2026-08-04 | Podcast Irmãos Dias #272 (aliens e a Bíblia) | — |
+
 ## Citações-chave
 > “Surgiu o primeiro buraco negro mental no âmbito dessa criação.”
 
@@ -83,43 +114,13 @@ A implosão de Javé em 2021 e a aceleração do colapso do universo vizinho sã
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-717.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
 
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | primeiro-caso |
-| Javé | RC-001 | relaciona-se-a |
-| Prabrajna | RC-152 | relaciona-se-a |
-| Lavagem Cerebral (condicionamento) | RC-335 | ← relaciona-se-a |
-| Krishna (avatar de Vishnu/Shiva) | RC-414 | ← risco-de |
-| Krishna como 'pretenso Keshava' | RC-425 | relaciona-se-a |
-| Pistis Sophia (feminino cósmico gnóstico) | RC-530 | relaciona-se-a |
-| Teia quântica (o que sai de um ser volta para ele) | RC-559 | relaciona-se-a |
-| Ressurreição do Cadáver do Criador | RC-638 | envolve |
-| Ressurreição do Cadáver do Criador | RC-638 | relaciona-se-a |
-| Colapso do Caos Organizado | RC-690 | é-fenômeno-de |
-| Arquivos do Destino Universal | RC-714 | relaciona-se-a |
-| Informações Vivas | RC-715 | ← pode-colapsar-em |
-| Informações Vivas | RC-715 | envolve |
-| PIA — Peso da Inevitabilidade Ancestral | RC-716 | relaciona-se-a |
-| Abismo da Consciência Cósmica | RC-721 | ← relaciona-se-a |
-| As Cinco Lentes da Realidade | RC-761 | associado |
-
 ## Observações
 - Destruição das Moiras e futuro de Javé permanecem em quarentena.
 - Não usar o termo para diagnosticar pessoas ou condições clínicas.
 
-## Fontes
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2024-11-30 | U0221–U0278; U0318–U0330; U1300–U1340; U1920–U1950 | palestra/STT |
-| P2026-08-04 | Podcast Irmãos Dias #272 (aliens e a Bíblia) | — |
-
-## Ressalva de escopo
+### Ressalva de escopo
 **Não é buraco negro astrofísico, conceito de neurociência ou aplicação reconhecida das equações de Schwarzschild.** A relação é metafórica/cosmológica.
 
-## Primeiro caso descrito
-O corpo de Javé teria colapsado em 2021, gerando o primeiro Buraco Negro Mental e deixando seu eu em condição parasitária.
-
-## Risco de Krishna
+### Risco de Krishna
 A hipótese de Krishna tornar-se um segundo Buraco Negro Mental foi absorvida nesta ficha exclusivamente como risco/prognóstico, não como evento consumado.
 

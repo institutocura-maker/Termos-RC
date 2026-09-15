@@ -18,11 +18,6 @@ As Bolhas Psíquicas são realidades paralelas simultâneas geradas pelo sofrime
 ## Contexto / Origem
 Conceito desenvolvido na palestra «A Teia da Vida e o Circuito Oculto dos Deuses» (P2024-01-13). Ellam propõe que a humanidade vive em uma realidade simulada onde o sofrimento e os vícios emocionais geram essas bolhas psíquicas que aprisionam a consciência.
 
-## Ampliação
-### P2024-01-13
-**Fonte:** palestra «A Teia da Vida e o Circuito Oculto dos Deuses» (13/01/2024).
-**Trecho verbatim:** «O autor propõe que a humanidade vive em uma realidade simulada, onde o sofrimento e os vícios emocionais geram bolhas psíquicas e realidades paralelas simultâneas que aprisionam a consciência.»
-
 ## Termos Relacionados
 - RC-559 (Teia Quântica) — o sistema que organiza as bolhas
 - RC-628 (Simultaneidade Reversa) — a simultaneidade das realidades
@@ -36,3 +31,8 @@ Conceito desenvolvido na palestra «A Teia da Vida e o Circuito Oculto dos Deuse
 | Umbrais | RC-903 | associado |
 | Yoga Tibetana dos Sonhos | RC-906 | associado |
 
+
+## Ampliação
+### P2024-01-13
+**Fonte:** palestra «A Teia da Vida e o Circuito Oculto dos Deuses» (13/01/2024).
+**Trecho verbatim:** «O autor propõe que a humanidade vive em uma realidade simulada, onde o sofrimento e os vícios emocionais geram bolhas psíquicas e realidades paralelas simultâneas que aprisionam a consciência.»

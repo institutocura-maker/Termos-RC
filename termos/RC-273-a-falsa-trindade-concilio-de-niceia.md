@@ -15,8 +15,39 @@ atualizado = "2026-08-18"
 ## Definição Sintética
 Designação dada por Jan Val Ellam (B014, cap. 17) à **formulação da "Santíssima Trindade" pelo Concílio de Niceia (ano 325)**, que **obscureceu o personagem Sophia** na cultura cristã: "Sophia ficou mais 'espantado' ainda ao acompanhar a formulação da ideia da 'Santíssima Trindade', produzida pelo 'Concílio de Niceia', no ano 325." A 36ª Constatação registra: "A partir do 'Concílio de Niceia', o personagem Sophia, que sempre foi amplamente divulgado na cultura hebraica e na dos cristãos helenizados, começou..." (a ser obscurecido).
 
+## Etimologia e Grafias
+- **Grafia preferida:** A Falsa Trindade
+- **Variações:** Santíssima Trindade (nome tradicional); Concílio de Niceia (325); "Falsa Trindade" (termo de Ellam)
+
+
 ## Contexto / Origem
 O capítulo 17 de B014 parte da constatação de que Sophia, "apesar de investido da função de 'Autoridade Universal', paradoxalmente, não dispõe dessa aptidão de entendimento" (razão filosófica) — e que o "homem Jesus" nasceu sob duas "componentes ditatoriais": o teor profético do código genético recebido de Sophia e o patrulhamento do Criador sobre sua condição humana. Jesus, com poder mental suficiente para não se deixar crucificar, "fez questão de não utilizá-los... e se deixou ser humilhado como maneira de tentar enternecer o mais 'frio' e 'perverso'... que é o 'Senhor Javé'". A Falsa Trindade (Pai/Filho/Espírito Santo) substituiu a real tríade cósmica (Javé, Sophia/Jesus, e a dinâmica dos Logos).
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Javé | RC-001 | "Pai" da trindade |
+| Sophia (Cristo Cósmico) | RC-009 | obscurece |
+| Jesus | RC-072 | ← relaciona-se-a |
+| Revelação Cósmica (conceito) | RC-094 | contexto |
+| Septuaginta | RC-096 | ← relaciona-se-a |
+| Trimurti | RC-104 | distorce (paralelo hindu) |
+| Racionalidade Humana Trucidada | RC-786 | associado |
+| Pôncio Pilatos / Caifás / Sinédrio | RC-946 | associado |
+
+## Seres Associados
+Sophia (RC-009); Jesus (RC-072); Javé (RC-001).
+
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo |
+|---|---|---|---|
+| P2023-12-25-04 | Aula 04 — O Nascimento do Cristianismo (curso) | — | citação verbatim |
+| P2025-12-14 | Os Fundamentos da Revelação Cósmica (palestra) | — | transcrição automatizada; citação |
+| P2022-11-19 | No Princípio era o Bem! Será (palestra) | — | transcrição automatizada; citação |
+| P2022-09-17 | A Hipóstase dos Arcontes (palestra) | — | transcrição automatizada; citação |
+| P2012-02-19 | Xadrez Cósmico de Brahma, Vishnu e Shiva (palestra) | — | transcrição automatizada; citação |
+| Sophia e o Logos Criadores (B014) | cap. 17 (A Falsa Trindade) | pp. 190–205 (aprox.) | capítulo dedicado |
+| P2026-08-04 | Podcast Irmãos Dias #272 (aliens e a Bíblia) | — | — |
 
 ## Citações-chave
 > "Sophia ficou mais 'espantado' ainda ao acompanhar a formulação da ideia da 'Santíssima Trindade', produzida pelo 'Concílio de Niceia', no ano 325. 36ª Constatação: A partir do 'Concílio de Niceia', o personagem Sophia, que sempre foi amplamente divulgado na cultura hebraica e na dos cristãos helenizados, começou..." — B014, cap. 17
@@ -73,38 +104,7 @@ O capítulo 17 de B014 parte da constatação de que Sophia, "apesar de investid
 - Nova aresta RC-072 ↔ RC-273 (Jesus ~ Falsa Trindade).
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
 
-## Etimologia e Grafias
-- **Grafia preferida:** A Falsa Trindade
-- **Variações:** Santíssima Trindade (nome tradicional); Concílio de Niceia (325); "Falsa Trindade" (termo de Ellam)
-
-
-## Seres Associados
-Sophia (RC-009); Jesus (RC-072); Javé (RC-001).
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | "Pai" da trindade |
-| Sophia (Cristo Cósmico) | RC-009 | obscurece |
-| Jesus | RC-072 | ← relaciona-se-a |
-| Revelação Cósmica (conceito) | RC-094 | contexto |
-| Septuaginta | RC-096 | ← relaciona-se-a |
-| Trimurti | RC-104 | distorce (paralelo hindu) |
-| Racionalidade Humana Trucidada | RC-786 | associado |
-| Pôncio Pilatos / Caifás / Sinédrio | RC-946 | associado |
-
 ## Observações
 Ficha baseada em B014 (obra primária). A "Falsa Trindade" é o contraponto cristão da "Falsa Trimurti" (as três formas Adhydaiva doentes) — a trindade teológica substituiu a figura de Sophia, que Ellam resgata como Cristo Cósmico. Cruzar com RC-104 (Trimurti) e RC-009 (Sophia).
 
 ---
-
-## Fontes
-| Obra (sigla) | Capítulo | Página | Tipo |
-|---|---|---|---|
-| P2023-12-25-04 | Aula 04 — O Nascimento do Cristianismo (curso) | — | citação verbatim |
-| P2025-12-14 | Os Fundamentos da Revelação Cósmica (palestra) | — | transcrição automatizada; citação |
-| P2022-11-19 | No Princípio era o Bem! Será (palestra) | — | transcrição automatizada; citação |
-| P2022-09-17 | A Hipóstase dos Arcontes (palestra) | — | transcrição automatizada; citação |
-| P2012-02-19 | Xadrez Cósmico de Brahma, Vishnu e Shiva (palestra) | — | transcrição automatizada; citação |
-| Sophia e o Logos Criadores (B014) | cap. 17 (A Falsa Trindade) | pp. 190–205 (aprox.) | capítulo dedicado |
-| P2026-08-04 | Podcast Irmãos Dias #272 (aliens e a Bíblia) | — | — |

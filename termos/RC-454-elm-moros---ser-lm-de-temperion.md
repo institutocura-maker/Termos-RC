@@ -15,8 +15,146 @@ atualizado = "2026-09-05"
 ## Definição Sintética
 **Elm** é, segundo o material de apoio de aluno de Ellam (B060), um **ser LM de Tempérion**, um dos **5 eons da Espiritualidade Laboratorial** — equivalente grego **Moros** (personificação do destino/sorte). É descrito como um eon cujos **avatares** incluem **Val El (Jan Val Ellam)**, **Kardec** (codificador do Espiritismo), **Heber** (patriarca bíblico), **Kvasir** (nórdico), Enoch, Jacó, Kapila, Boécio e Vyasa, entre outros. (Fonte secundária — a confirmar nas obras primárias de Ellam.)
 
+## Etimologia e Grafias
+- **Grafia preferida:** Elm
+- **⚠️ GRAFIA OFICIAL DO EPÍTETO/VARIAÇÃO FONÉTICA (o ser de 4 cabeças): MORREN SO** — consagrada pela Devolutiva O-4 da P2022-09-24 (antes o STT capturava 'Morençor/Morrensor/Morrençou/Morrenson'; a nomenclatura à moda de Vol, Yel, Xum, Shanlung).
+- **Variações:** Moros (Grega); Aeon (RC); Bhava (Hindu); Chesed (4ª Sefirah); Henet (Egípcia-Ogdoade); Maat (Egípcia); Orlog (Nórdica); Phanis (Orfismo); Sudz (Eslava)
+- **Obs.:** **Tempérion** (RC-472) é um setor paralelo da Espiritualidade Laboratorial — **não** é grafia variante de Perpérion (RC-087). Os eons LM (Elm, Olm) são de Tempérion; os Pashvnaj (Javé, Vishnu, Shiva) são de Perpérion. Distinção de jurisdição (esclarecimento do usuário, 2026-08-13).
+
+
 ## Contexto / Origem
 No mapeamento de B060, os **5 eons da Espiritualidade Laboratorial** são: Prabajna (Javé), Mavatina (Vishnu), Savna (Shiva) — do gênero **Pashvnaj** de Perperion — e **Elm (Moros)** e **Olm (Quarto Logos)**, do gênero **ser LM de Tempérion**. A grande novidade deste verbete é a cadeia avatárica de Elm: **Val El (biodemo da família Val) = Jan Val Ellam**, o próprio codificador da Revelação Cósmica, e **Kardec** — o que coloca Ellam e o Espiritismo numa mesma linhagem eon/avatar.
+
+### Grande Hub de Moros — P2024-11-30
+
+### Ontologia canônica preservada
+
+**Elm/Moros é ser LM originário de Tempérion, enviado a Perpérion para observar a imponderabilidade e depois mergulhado no processo.** Leituras do STT que alterem essa origem são rejeitadas. `Ealm` do eBook de IA também é rejeitado.
+
+### Funções ampliadas
+
+- primeiro diagnosticador da condição informacional;
+- mapeador do PIA — RC-716;
+- criador dos Arquivos do Destino — RC-714;
+- criador do processador Wyrd/Urd — RC-658;
+- criador das Moiras/Nornes — RC-467;
+- emissor das cápsulas/flechas — RC-611;
+- iniciador do processo cumprido em RC-718.
+
+### Vínculos de expressão/encarnação
+
+A palestra liga ao espírito primário de Moros: Kvasir (RC-396), Vyasa (RC-585), Quirino Cornélio (RC-659) e Orunmilá (RC-665). Preservar a diferença entre espírito, eu/encarnação e correspondência cultural.
+
+### Higiene do eBook
+
+O eBook *Moros — O Livro* não é fonte canônica. Não incorporar: `Ealm`, Phanes=Moros, Chesed=Moros ou aliases não rastreados.
+
+**Fonte:** P2024-11-30, especialmente U0346–U0573, U0765–U0845 e U1169–U1340.
+
+---
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Espiritualidade Laboratorial | RC-061 | origina-se-em (eon) |
+| Hiperbórea | RC-068 | ← relaciona-se-a |
+| Jan Val Ellam (Rogério de Almeida Freitas) | RC-071 | relaciona-se-a |
+| Mohen So (Avatar Keshava de Vishnu) | RC-081 | ← vinculado-ao-espírito |
+| Mohen So (Avatar Keshava de Vishnu) | RC-081 | ← vinculado-ao-espírito |
+| Mohen So (Avatar Keshava de Vishnu) | RC-081 | ← distingue-se-de |
+| Perpérion | RC-087 | enviado-a |
+| Quarto Logos (Olm / Codificador de Zian) | RC-092 | é-um (mesmo gênero) |
+| Criação Indevida (Obra indevida) | RC-167 | mergulha-em |
+| Revelação Espiritual (Kardec) | RC-190 | relaciona-se-a |
+| Mohen So = Phanes / Protogonos / Vasuki / Kalki (correspondências) | RC-282 | ← relaciona-se-a |
+| Mohen So = Phanes / Protogonos / Vasuki / Kalki (correspondências) | RC-282 | ← distingue-se-de |
+| Ragnarok em Marte | RC-395 | ← relaciona-se-a |
+| Kvasir e Freya (Vanir/Aesir) | RC-396 | relaciona-se-a |
+| Kvasir e Freya (Vanir/Aesir) | RC-396 | ← vinculado-ao-espírito |
+| Heber (patriarca pós-dilúvio) | RC-436 | relaciona-se-a |
+| Ser LM (gênero de Tempérion) | RC-456 | é-um |
+| Ser LM (gênero de Tempérion) | RC-456 | é-um |
+| Moiras / Nornes / Súdices / Parcas (destino) | RC-467 | cria |
+| Moiras / Nornes / Súdices / Parcas (destino) | RC-467 | ← criado-por |
+| Moiras / Nornes / Súdices / Parcas (destino) | RC-467 | relaciona-se-a |
+| Moiras / Nornes / Súdices / Parcas (destino) | RC-467 | ← relaciona-se-a |
+| Moiras / Nornes / Súdices / Parcas (destino) | RC-467 | relaciona-se-a |
+| Moiras / Nornes / Súdices / Parcas (destino) | RC-467 | ← relaciona-se-a |
+| Tempérion (Archeon de Ereon; setor dos seres LM) | RC-472 | ocorre-em |
+| Tempérion (Archeon de Ereon; setor dos seres LM) | RC-472 | origem-em |
+| Supercomputador Cósmico (Moros — destino) | RC-533 | ← relaciona-se-a |
+| Teia quântica (o que sai de um ser volta para ele) | RC-559 | ← relaciona-se-a |
+| WD (variação de STT = Wyrd/Urd — fundido em RC-658) | RC-560 | ← relaciona-se-a |
+| Vyasa | RC-585 | ← vinculado-ao-espírito |
+| Vyasa | RC-585 | ← relaciona-se-a |
+| Vyasa | RC-585 | relaciona-se-a |
+| Vyasa | RC-585 | ← relaciona-se-a |
+| Fatiamento de Consciência | RC-604 | ← envolve |
+| Cinco Seres LM de Tempérion | RC-607 | ← inclui |
+| Imponderabilidade (campo de estudo dos Seres LM) | RC-608 | observa |
+| Ogdóade de Hermópolis | RC-609 | ← inclui |
+| Flechas / Profecias de Moros | RC-611 | ← proferida-por |
+| Flechas / Profecias de Moros | RC-611 | ← originada-em |
+| Nova Espiritualidade / Novo Paraíso (Paraíso B) | RC-612 | ← relaciona-se-a |
+| Eu Coalescente | RC-620 | associado |
+| Nyx | RC-621 | ← gera |
+| Singularidade de Quatro Cabeças | RC-649 | ← vinculado-ao-espírito |
+| Wyrd / Urd (Teia do Destino) | RC-658 | ← organizada-por |
+| Wyrd / Urd (Teia do Destino) | RC-658 | cria |
+| Wyrd / Urd (Teia do Destino) | RC-658 | ← criado-por |
+| Wyrd / Urd (Teia do Destino) | RC-658 | ← relaciona-se-a |
+| Wyrd / Urd (Teia do Destino) | RC-658 | ← relaciona-se-a |
+| Wyrd / Urd (Teia do Destino) | RC-658 | relaciona-se-a |
+| Wyrd / Urd (Teia do Destino) | RC-658 | ← relaciona-se-a |
+| Quirino Cornélio (Centurião da Crucificação) | RC-659 | ← vinculado-ao-espírito |
+| Orunmilá (Moros de Irém / Orum) | RC-665 | ← variação |
+| Orunmilá (Moros de Irém / Orum) | RC-665 | ← variação |
+| Orunmilá (Moros de Irém / Orum) | RC-665 | ← variação |
+| Orunmilá (Moros de Irém / Orum) | RC-665 | ← variação |
+| Metatron | RC-671 | ← relaciona-se-a |
+| Urdidura de Metatron | RC-674 | ← relaciona-se-a |
+| Arquivos do Destino Universal | RC-714 | ← criado-por |
+| Arquivos do Destino Universal | RC-714 | cria |
+| Informações Vivas | RC-715 | relaciona-se-a |
+| PIA — Peso da Inevitabilidade Ancestral | RC-716 | ← mapeado-por |
+| PIA — Peso da Inevitabilidade Ancestral | RC-716 | mapeia |
+| Cumprimento da Profecia de Moros pela Revelação Cósmica | RC-718 | ← iniciado-por |
+| Cumprimento da Profecia de Moros pela Revelação Cósmica | RC-718 | ← relaciona-se-a |
+| Kami (Projeto Japonês) | RC-740 | ← relaciona-se-a |
+| Projeto Orunmilá–Olodus | RC-741 | associado |
+| As Cinco Lentes da Realidade | RC-761 | associado |
+| Os 256 Caminhos Profetizáveis de Orunmilá | RC-767 | ← relaciona-se-a |
+| Hipóstase dos Arcontes (livro gnóstico; 'realidade dos regentes') | RC-770 | ← relaciona-se-a |
+| Hipóstase dos Arcontes (livro gnóstico; 'realidade dos regentes') | RC-770 | relaciona-se-a |
+| Éon das Três Esferas (superloka/geno; repositório de tesouros genéticos do Projeto TALM) | RC-775 | ← relaciona-se-a |
+| Ananque (estudou as necessidades dos códigos podres, com Moros; base das Nornes) | RC-777 | ← relaciona-se-a |
+| Nyx como Mãe de Origem de Pandora | RC-795 | associado |
+| Midana (o código original primordial semeado no universo biológico) | RC-871 | associado |
+| Revelação Psíquica (Kapila — escola Samkhya) | RC-933 | associado |
+
+## Seres Associados
+Val El / Jan Val Ellam (RC-071); Kardec; Olm (RC-092, colega eon); Prabajna/Javé (RC-001), Mavatina/Vishnu, Savna/Shiva (eons companheiros).
+
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo |
+|---|---|---|---|
+| P2023-07-09 | A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
+| P2022-09-25 | O Contexto Espiritual da Construção de Brasília (palestra) | — | transcrição automatizada; citação |
+| P2022-10-01 | A Wyrd e a Espiritualidade (palestra) | — | transcrição automatizada; citação |
+| P2018-12-15 | Terra Atlantis – Aprofundamento (palestra) | — | transcrição automatizada; citação |
+| Personagens e Terminologias da RC (B060) | verbete "Moros" | p. 4 (PDF) | equivalências + avatares |
+| P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | — |
+| P2024-02-03 | O Jainismo e o Druidismo Ancestrais (palestra) | — | — |
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2023-07-09 | A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
 
 ## Citações-chave
 > "Moros — Elm, ser LM de Tempérion, um dos 5 eons da Espiritualidade Laboratorial." — B060, p. 4
@@ -212,95 +350,6 @@ No mapeamento de B060, os **5 eons da Espiritualidade Laboratorial** são: Praba
 - **Cruzamento estrutural aprovado:** relacionar a narrativa às notas de RC-091 (Projeto Talm) e RC-771 (Fornos Replicadores). A palestra também vincula a samudra manthana, o amrita e a participação de Vishnu; estes elementos permanecem notas narrativas e não novos nós.
 - **Quarentena:** “avatar do código dos três”, “legista” e gênese cosmológica são alegações do expositor e devem permanecer rotulados como leitura RC.
 
-## Etimologia e Grafias
-- **Grafia preferida:** Elm
-- **⚠️ GRAFIA OFICIAL DO EPÍTETO/VARIAÇÃO FONÉTICA (o ser de 4 cabeças): MORREN SO** — consagrada pela Devolutiva O-4 da P2022-09-24 (antes o STT capturava 'Morençor/Morrensor/Morrençou/Morrenson'; a nomenclatura à moda de Vol, Yel, Xum, Shanlung).
-- **Variações:** Moros (Grega); Aeon (RC); Bhava (Hindu); Chesed (4ª Sefirah); Henet (Egípcia-Ogdoade); Maat (Egípcia); Orlog (Nórdica); Phanis (Orfismo); Sudz (Eslava)
-- **Obs.:** **Tempérion** (RC-472) é um setor paralelo da Espiritualidade Laboratorial — **não** é grafia variante de Perpérion (RC-087). Os eons LM (Elm, Olm) são de Tempérion; os Pashvnaj (Javé, Vishnu, Shiva) são de Perpérion. Distinção de jurisdição (esclarecimento do usuário, 2026-08-13).
-
-
-## Seres Associados
-Val El / Jan Val Ellam (RC-071); Kardec; Olm (RC-092, colega eon); Prabajna/Javé (RC-001), Mavatina/Vishnu, Savna/Shiva (eons companheiros).
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Espiritualidade Laboratorial | RC-061 | origina-se-em (eon) |
-| Hiperbórea | RC-068 | ← relaciona-se-a |
-| Jan Val Ellam (Rogério de Almeida Freitas) | RC-071 | relaciona-se-a |
-| Mohen So (Avatar Keshava de Vishnu) | RC-081 | ← vinculado-ao-espírito |
-| Mohen So (Avatar Keshava de Vishnu) | RC-081 | ← vinculado-ao-espírito |
-| Mohen So (Avatar Keshava de Vishnu) | RC-081 | ← distingue-se-de |
-| Perpérion | RC-087 | enviado-a |
-| Quarto Logos (Olm / Codificador de Zian) | RC-092 | é-um (mesmo gênero) |
-| Criação Indevida (Obra indevida) | RC-167 | mergulha-em |
-| Revelação Espiritual (Kardec) | RC-190 | relaciona-se-a |
-| Mohen So = Phanes / Protogonos / Vasuki / Kalki (correspondências) | RC-282 | ← relaciona-se-a |
-| Mohen So = Phanes / Protogonos / Vasuki / Kalki (correspondências) | RC-282 | ← distingue-se-de |
-| Ragnarok em Marte | RC-395 | ← relaciona-se-a |
-| Kvasir e Freya (Vanir/Aesir) | RC-396 | relaciona-se-a |
-| Kvasir e Freya (Vanir/Aesir) | RC-396 | ← vinculado-ao-espírito |
-| Heber (patriarca pós-dilúvio) | RC-436 | relaciona-se-a |
-| Ser LM (gênero de Tempérion) | RC-456 | é-um |
-| Ser LM (gênero de Tempérion) | RC-456 | é-um |
-| Moiras / Nornes / Súdices / Parcas (destino) | RC-467 | cria |
-| Moiras / Nornes / Súdices / Parcas (destino) | RC-467 | ← criado-por |
-| Moiras / Nornes / Súdices / Parcas (destino) | RC-467 | relaciona-se-a |
-| Moiras / Nornes / Súdices / Parcas (destino) | RC-467 | ← relaciona-se-a |
-| Moiras / Nornes / Súdices / Parcas (destino) | RC-467 | relaciona-se-a |
-| Moiras / Nornes / Súdices / Parcas (destino) | RC-467 | ← relaciona-se-a |
-| Tempérion (Archeon de Ereon; setor dos seres LM) | RC-472 | ocorre-em |
-| Tempérion (Archeon de Ereon; setor dos seres LM) | RC-472 | origem-em |
-| Supercomputador Cósmico (Moros — destino) | RC-533 | ← relaciona-se-a |
-| Teia quântica (o que sai de um ser volta para ele) | RC-559 | ← relaciona-se-a |
-| WD (variação de STT = Wyrd/Urd — fundido em RC-658) | RC-560 | ← relaciona-se-a |
-| Vyasa | RC-585 | ← vinculado-ao-espírito |
-| Vyasa | RC-585 | ← relaciona-se-a |
-| Vyasa | RC-585 | relaciona-se-a |
-| Vyasa | RC-585 | ← relaciona-se-a |
-| Fatiamento de Consciência | RC-604 | ← envolve |
-| Cinco Seres LM de Tempérion | RC-607 | ← inclui |
-| Imponderabilidade (campo de estudo dos Seres LM) | RC-608 | observa |
-| Ogdóade de Hermópolis | RC-609 | ← inclui |
-| Flechas / Profecias de Moros | RC-611 | ← proferida-por |
-| Flechas / Profecias de Moros | RC-611 | ← originada-em |
-| Nova Espiritualidade / Novo Paraíso (Paraíso B) | RC-612 | ← relaciona-se-a |
-| Eu Coalescente | RC-620 | associado |
-| Nyx | RC-621 | ← gera |
-| Singularidade de Quatro Cabeças | RC-649 | ← vinculado-ao-espírito |
-| Wyrd / Urd (Teia do Destino) | RC-658 | ← organizada-por |
-| Wyrd / Urd (Teia do Destino) | RC-658 | cria |
-| Wyrd / Urd (Teia do Destino) | RC-658 | ← criado-por |
-| Wyrd / Urd (Teia do Destino) | RC-658 | ← relaciona-se-a |
-| Wyrd / Urd (Teia do Destino) | RC-658 | ← relaciona-se-a |
-| Wyrd / Urd (Teia do Destino) | RC-658 | relaciona-se-a |
-| Wyrd / Urd (Teia do Destino) | RC-658 | ← relaciona-se-a |
-| Quirino Cornélio (Centurião da Crucificação) | RC-659 | ← vinculado-ao-espírito |
-| Orunmilá (Moros de Irém / Orum) | RC-665 | ← variação |
-| Orunmilá (Moros de Irém / Orum) | RC-665 | ← variação |
-| Orunmilá (Moros de Irém / Orum) | RC-665 | ← variação |
-| Orunmilá (Moros de Irém / Orum) | RC-665 | ← variação |
-| Metatron | RC-671 | ← relaciona-se-a |
-| Urdidura de Metatron | RC-674 | ← relaciona-se-a |
-| Arquivos do Destino Universal | RC-714 | ← criado-por |
-| Arquivos do Destino Universal | RC-714 | cria |
-| Informações Vivas | RC-715 | relaciona-se-a |
-| PIA — Peso da Inevitabilidade Ancestral | RC-716 | ← mapeado-por |
-| PIA — Peso da Inevitabilidade Ancestral | RC-716 | mapeia |
-| Cumprimento da Profecia de Moros pela Revelação Cósmica | RC-718 | ← iniciado-por |
-| Cumprimento da Profecia de Moros pela Revelação Cósmica | RC-718 | ← relaciona-se-a |
-| Kami (Projeto Japonês) | RC-740 | ← relaciona-se-a |
-| Projeto Orunmilá–Olodus | RC-741 | associado |
-| As Cinco Lentes da Realidade | RC-761 | associado |
-| Os 256 Caminhos Profetizáveis de Orunmilá | RC-767 | ← relaciona-se-a |
-| Hipóstase dos Arcontes (livro gnóstico; 'realidade dos regentes') | RC-770 | ← relaciona-se-a |
-| Hipóstase dos Arcontes (livro gnóstico; 'realidade dos regentes') | RC-770 | relaciona-se-a |
-| Éon das Três Esferas (superloka/geno; repositório de tesouros genéticos do Projeto TALM) | RC-775 | ← relaciona-se-a |
-| Ananque (estudou as necessidades dos códigos podres, com Moros; base das Nornes) | RC-777 | ← relaciona-se-a |
-| Nyx como Mãe de Origem de Pandora | RC-795 | associado |
-| Midana (o código original primordial semeado no universo biológico) | RC-871 | associado |
-| Revelação Psíquica (Kapila — escola Samkhya) | RC-933 | associado |
-
 ## Observações
 - **Dúvida ortográfica ABERTA (Curador, 10/09/2026, P6aj):** alunos da RC grafam "Ealm"; Base grafa "Elm (Moros)". Áudios não dirimem — aguardar evidência escrita (telas de apresentação das palestras de Ellam). Termo excluído da leva 🟢 até a confirmação; fica 🟠.
 **Informação sensível:** a cadeia "Elm → Val El → Jan Val Ellam" e "Elm → Kardec" vem de material de aluno (B060) e precisa de confirmação nas obras primárias antes de subir de status. O documento também lista avatares como Enoch, Jacó, Kapila, Boécio, Vyasa, Metraton, Niccolo Polo e o "Aluno de Platão" — registrados no `leitura-B060.md`. Cruzar com RC-412 (Emissários Humanos) e RC-424 (Linhagem dos Escolhidos).
@@ -314,58 +363,9 @@ Val El / Jan Val Ellam (RC-071); Kardec; Olm (RC-092, colega eon); Prabajna/Jav�
 > Notas de processo: 4 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-454.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** os 2 trechos entre aspas desta ficha **não** resistem à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Só 1 dos 2 deixam vestígio no corpus. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
 
-## Fontes
-| Obra (sigla) | Capítulo | Página | Tipo |
-|---|---|---|---|
-| P2023-07-09 | A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
-| P2022-09-25 | O Contexto Espiritual da Construção de Brasília (palestra) | — | transcrição automatizada; citação |
-| P2022-10-01 | A Wyrd e a Espiritualidade (palestra) | — | transcrição automatizada; citação |
-| P2018-12-15 | Terra Atlantis – Aprofundamento (palestra) | — | transcrição automatizada; citação |
-| Personagens e Terminologias da RC (B060) | verbete "Moros" | p. 4 (PDF) | equivalências + avatares |
-| P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | — |
-| P2024-02-03 | O Jainismo e o Druidismo Ancestrais (palestra) | — | — |
-
-## Fontes
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |
-
-## Fontes
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2023-07-09 | A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
-
-## Correção canônica — Devolutiva-01 / P2026-07-30
+### Correção canônica — Devolutiva-01 / P2026-07-30
 
 - **Grafia corrigida pelo curador:** `Ealm` → **Elm**.
 - **Dupla canônica:** **Olm e Elm**.
 - **Origem e trajetória corretas:** Elm e Olm são seres LM originários de **Tempérion** (RC-472). Saíram de Tempérion e foram a **Perpérion** (RC-087) para observar a imponderabilidade e o problema da Criação Indevida; ali interagiram diretamente e terminaram mergulhando no processo.
 - A grafia antiga `Ealm` permanece apenas em backups e fontes históricas, nunca como forma preferida.
-
-## Grande Hub de Moros — P2024-11-30
-
-### Ontologia canônica preservada
-
-**Elm/Moros é ser LM originário de Tempérion, enviado a Perpérion para observar a imponderabilidade e depois mergulhado no processo.** Leituras do STT que alterem essa origem são rejeitadas. `Ealm` do eBook de IA também é rejeitado.
-
-### Funções ampliadas
-
-- primeiro diagnosticador da condição informacional;
-- mapeador do PIA — RC-716;
-- criador dos Arquivos do Destino — RC-714;
-- criador do processador Wyrd/Urd — RC-658;
-- criador das Moiras/Nornes — RC-467;
-- emissor das cápsulas/flechas — RC-611;
-- iniciador do processo cumprido em RC-718.
-
-### Vínculos de expressão/encarnação
-
-A palestra liga ao espírito primário de Moros: Kvasir (RC-396), Vyasa (RC-585), Quirino Cornélio (RC-659) e Orunmilá (RC-665). Preservar a diferença entre espírito, eu/encarnação e correspondência cultural.
-
-### Higiene do eBook
-
-O eBook *Moros — O Livro* não é fonte canônica. Não incorporar: `Ealm`, Phanes=Moros, Chesed=Moros ou aliases não rastreados.
-
-**Fonte:** P2024-11-30, especialmente U0346–U0573, U0765–U0845 e U1169–U1340.
-
----

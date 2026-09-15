@@ -15,8 +15,49 @@ atualizado = "2026-08-29"
 ## Definição Sintética
 Projeção de múltiplos eus ou identidades sustentados por um mesmo espírito ancestral em diferentes níveis, corpos ou avatares.
 
+## Etimologia e Grafias
+- Grafia preferida: Fatiamento de Consciência. Variações: consciência fatiada; espírito fatiado.
+- **Fonte de decisão:** Quadro 9 aprovado pelo curador.
+
+
 ## Contexto / Origem
 A palestra usa o conceito para conectar Adhyprabrajna, Adhymavatana, Brahma, Vishnu, Sophia, Jesus, Elm e Olm.
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Javé | RC-001 | envolve |
+| Sophia (Cristo Cósmico) | RC-009 | envolve |
+| Sophia (Cristo Cósmico) | RC-009 | envolve |
+| Brahma (Brajna) | RC-037 | envolve |
+| Jesus | RC-072 | envolve |
+| Jesus | RC-072 | envolve |
+| Quarto Logos (Olm / Codificador de Zian) | RC-092 | envolve |
+| Shiva (Savna) | RC-102 | envolve |
+| Prabrajna | RC-152 | relaciona-se-a |
+| Prabrajna | RC-152 | ← relaciona-se-a |
+| DNA como Projeção Holográfica do Psiquismo do Criador | RC-217 | associado |
+| ADHYMAVATANA (nome completo de Mavatna/Vishnu) | RC-408 | envolve |
+| ADHYPRABRAJNA (grafia do diagrama) | RC-410 | envolve |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | envolve |
+| Mavátma / Mavatna / Mavat (Vishnu em condição Adhyatman) | RC-503 | relaciona-se-a |
+| Eu Coalescente | RC-620 | ← integra |
+| Corpo Átmico | RC-623 | ← relaciona-se-a |
+| Corpo Átmico | RC-623 | relaciona-se-a |
+| Instabilidade da Eternidade | RC-648 | ← envolve |
+| Agenda do Desespero dos Espíritos | RC-662 | associado |
+| Falência dos Deuses | RC-742 | ← resulta-de |
+| Ganesha (exceção à metamorfose; cabeça de elefante) | RC-756 | ← relaciona-se-a |
+| As Cinco Lentes da Realidade | RC-761 | ← relaciona-se-a |
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2020-04-04 | Javé, Sophia e Jesus: a Trindade Jamais Percebida (palestra Q&A) (palestra) | — | transcrição; citação |
+| P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |
+
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-604.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
 
 ## Ampliação
 ### P2025-05-31
@@ -117,44 +158,3 @@ A palestra usa o conceito para conectar Adhyprabrajna, Adhymavatana, Brahma, Vis
 Na resposta final, Shiva é apresentado como expressão de um espírito, enquanto Brahma e Vishnu corresponderiam a duas expressões ligadas a outro espírito por fatiamento. O trecho é fortemente degradado pelo STT e deve usar apenas grafias já canônicas.
 
 ---
-
-## Etimologia e Grafias
-- Grafia preferida: Fatiamento de Consciência. Variações: consciência fatiada; espírito fatiado.
-- **Fonte de decisão:** Quadro 9 aprovado pelo curador.
-
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | envolve |
-| Sophia (Cristo Cósmico) | RC-009 | envolve |
-| Sophia (Cristo Cósmico) | RC-009 | envolve |
-| Brahma (Brajna) | RC-037 | envolve |
-| Jesus | RC-072 | envolve |
-| Jesus | RC-072 | envolve |
-| Quarto Logos (Olm / Codificador de Zian) | RC-092 | envolve |
-| Shiva (Savna) | RC-102 | envolve |
-| Prabrajna | RC-152 | relaciona-se-a |
-| Prabrajna | RC-152 | ← relaciona-se-a |
-| DNA como Projeção Holográfica do Psiquismo do Criador | RC-217 | associado |
-| ADHYMAVATANA (nome completo de Mavatna/Vishnu) | RC-408 | envolve |
-| ADHYPRABRAJNA (grafia do diagrama) | RC-410 | envolve |
-| Elm (Moros — ser LM de Tempérion) | RC-454 | envolve |
-| Mavátma / Mavatna / Mavat (Vishnu em condição Adhyatman) | RC-503 | relaciona-se-a |
-| Eu Coalescente | RC-620 | ← integra |
-| Corpo Átmico | RC-623 | ← relaciona-se-a |
-| Corpo Átmico | RC-623 | relaciona-se-a |
-| Instabilidade da Eternidade | RC-648 | ← envolve |
-| Agenda do Desespero dos Espíritos | RC-662 | associado |
-| Falência dos Deuses | RC-742 | ← resulta-de |
-| Ganesha (exceção à metamorfose; cabeça de elefante) | RC-756 | ← relaciona-se-a |
-| As Cinco Lentes da Realidade | RC-761 | ← relaciona-se-a |
-
-## Fontes
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2020-04-04 | Javé, Sophia e Jesus: a Trindade Jamais Percebida (palestra Q&A) (palestra) | — | transcrição; citação |
-| P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |
-
-
-> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-604.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

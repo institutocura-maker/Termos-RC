@@ -12,6 +12,31 @@ atualizado = "2026-09-12"
 +++
 # Kvasir e Freya (Vanir/Aesir) — RC-396
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Demos | RC-049 | associado |
+| Revelação Cósmica (conceito) | RC-094 | associado |
+| Ragnarok em Marte | RC-395 | ← mata |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | ← relaciona-se-a |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | vinculado-ao-espírito |
+| Flechas / Profecias de Moros | RC-611 | associado |
+| Centro Alquímico-Farmacopédico | RC-789 | associado |
+| Temis (Têmis) como Mãe-de-Pandora (Co-clonadora) | RC-815 | associado |
+| Pacto Aesir-Vanir como Origem Nórdica da Ideia de Pandora | RC-816 | associado |
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2024-03-17 | A Quem Pertence o Planeta e a Biblioteca Genômica Mais Atualizada do Universo (palestra) | transcrição automatizada; citação |
+| P2023-07-09 | A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
+| P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2023-07-09 | A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
+
 ## Citações-chave
 
 > Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
@@ -39,27 +64,3 @@ atualizado = "2026-09-12"
 **Fonte:** palestra «A Quem Pertence o Planeta e a Biblioteca Genômica Mais Atualizada do Universo» (17/03/2024).
 
 **Trecho verbatim:** «Qual foi a maior mistura de gene já ocorrida na história dessa criação? É essa que eu acabei de contar. Ela foi a base de todos os principais acontecimentos que vieram a ter lugar em certas faixas habitáveis dos dois universos ao longo dos últimos 600 milhões de anos. E o que foi isso? Essa mistura de Gênes surgiu devido ao pacto ocorrido entre o Zair e o Zuaniir em Asgar.»
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Demos | RC-049 | associado |
-| Revelação Cósmica (conceito) | RC-094 | associado |
-| Ragnarok em Marte | RC-395 | ← mata |
-| Elm (Moros — ser LM de Tempérion) | RC-454 | ← relaciona-se-a |
-| Elm (Moros — ser LM de Tempérion) | RC-454 | vinculado-ao-espírito |
-| Flechas / Profecias de Moros | RC-611 | associado |
-| Centro Alquímico-Farmacopédico | RC-789 | associado |
-| Temis (Têmis) como Mãe-de-Pandora (Co-clonadora) | RC-815 | associado |
-| Pacto Aesir-Vanir como Origem Nórdica da Ideia de Pandora | RC-816 | associado |
-
-## Fontes
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2024-03-17 | A Quem Pertence o Planeta e a Biblioteca Genômica Mais Atualizada do Universo (palestra) | transcrição automatizada; citação |
-| P2023-07-09 | A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
-| P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |
-
-## Fontes
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2023-07-09 | A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |

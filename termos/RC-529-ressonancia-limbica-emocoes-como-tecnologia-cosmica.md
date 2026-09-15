@@ -16,15 +16,55 @@ atualizado = "2026-08-20"
 
 Na cosmologia de Ellam, a linguagem silenciosa dos mamíferos que permite perceber a dor do outro — memória associada a emoção produzida pelo cérebro límbico (tálamo, hipotálamo, amígdala e hipocampo) — apresentada como tecnologia emocional que quebrou a desconfiança entre os seres.
 
+## Contexto / Origem
+
+[P2024-08-03] A palestra descreve a ressonância límbica como o diferencial dos mamíferos sobre os répteis ("os mamíferos romperam com a desconfiança") e base do cuidado mútuo que encantou a Trimurti. [P2024-07-14] A palestra das Consciências Espirituais Dignificadas a retoma na comparação entre o amor mamífero (que cuida e protege) e o amor divino (que não atua).
+
 ## Escopo e evidência
 
 - **[P2024-08-03] Unidades:** U0660–U0700.
 - **[P2024-07-14] Unidades:** U0880–U0900.
 - **Proveniência:** palestras de Jan Val Ellam; transcrições STT pré-curadas; devolutiva do curador registrada em 2026-08-20 (ficha autorizada).
 
-## Contexto / Origem
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Seres Terrenos (Homo Sapiens) | RC-099 | associado |
+| Genética da Confiança | RC-243 | associado |
+| Favor Divino (conceito invertido) | RC-332 | ← relaciona-se-a |
+| Ressonância Mórfica (agente da rebelião) | RC-381 | relaciona-se-a |
+| Nova Espiritualidade / Novo Paraíso (Paraíso B) | RC-612 | relaciona-se-a |
+| Nova Espiritualidade / Novo Paraíso (Paraíso B) | RC-612 | relaciona-se-a |
+| Nova Espiritualidade / Novo Paraíso (Paraíso B) | RC-612 | ← relaciona-se-a |
+| Moksha | RC-618 | relaciona-se-a |
+| Ser Humano Não Local | RC-708 | ← relaciona-se-a |
+| Ser Humano Não Local | RC-708 | sustenta-ponte-não-local |
+| Humano Turbinado | RC-709 | associado |
+| Universo de Egrégoras Emocionais | RC-711 | ← condensa |
+| Três Faíscas da Consciência Humana | RC-719 | ← relaciona-se-a |
+| Três Faíscas da Consciência Humana | RC-719 | relaciona-se-a |
+| Sócios do Destino / Ausência de Justiça Externa | RC-720 | ← relaciona-se-a |
+| Faixas Espirituais de Ressonância | RC-726 | ← relaciona-se-a |
+| Destinação do Lobo | RC-743 | ← expressa-sociabilidade-por |
+| Dessensibilização da Condição Humana | RC-746 | ← relaciona-se-a |
+| Eu Observador | RC-890 | associado |
 
-[P2024-08-03] A palestra descreve a ressonância límbica como o diferencial dos mamíferos sobre os répteis ("os mamíferos romperam com a desconfiança") e base do cuidado mútuo que encantou a Trimurti. [P2024-07-14] A palestra das Consciências Espirituais Dignificadas a retoma na comparação entre o amor mamífero (que cuida e protege) e o amor divino (que não atua).
+
+- Gestão da Sensação Pessoal — RC-633;
+- Destinação do Lobo — RC-743;
+- Rebanho humano — RC-193;
+- Faixas Espirituais de Ressonância — RC-726.
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2024-03-17 | A Quem Pertence o Planeta e a Biblioteca Genômica Mais Atualizada do Universo (palestra) | transcrição automatizada; citação |
+| P2025-12-14 | Os Fundamentos da Revelação Cósmica (palestra) | — | transcrição automatizada; citação |
+| P2022-11-19 | No Princípio era o Bem! Será (palestra) | — | transcrição automatizada; citação |
+| P2022-09-17 | A Hipóstase dos Arcontes (palestra) | — | transcrição automatizada; citação |
+| P2024-08-03 | U0660–U0700 | palestra/STT |
+| P2024-07-14 | U0880–U0900 | palestra/STT |
+| P2025-03-15 / P2025-02-16 / P2025-02-15 / P2024-11-30 / P2024-11-09 / P2024-09-29 / P2024-03-03 / P2024-04-13 / B072 | — | obras/palestras |
 
 ## Citações-chave
 > "O que é o eu humano, senão a coleção de memórias, cada uma delas associada à emoção que se sentiu quando aquela memória foi produzida?"
@@ -90,46 +130,6 @@ Na cosmologia de Ellam, a linguagem silenciosa dos mamíferos que permite perceb
 
 **Trecho verbatim:** «Ressonância límica é um tipo de linguagem quântica que faz com que uma leioa sinta o que as outras leoas estão sentindo, que um elefante sinta o que os outros estão sentindo, que um cavalo sinta que um uma vaca, ou seja, é um tipo de linguagem que une os seres daquela espécie em torno de uma tentativa de solidariedade ou de providenciar um solução para aquele desceego. Quando os seres desse universo vizinho que viviam brigando, perceberam isso? Disseram: 'Ué, de onde é que isso surgiu?'»
 
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Seres Terrenos (Homo Sapiens) | RC-099 | associado |
-| Genética da Confiança | RC-243 | associado |
-| Favor Divino (conceito invertido) | RC-332 | ← relaciona-se-a |
-| Ressonância Mórfica (agente da rebelião) | RC-381 | relaciona-se-a |
-| Nova Espiritualidade / Novo Paraíso (Paraíso B) | RC-612 | relaciona-se-a |
-| Nova Espiritualidade / Novo Paraíso (Paraíso B) | RC-612 | relaciona-se-a |
-| Nova Espiritualidade / Novo Paraíso (Paraíso B) | RC-612 | ← relaciona-se-a |
-| Moksha | RC-618 | relaciona-se-a |
-| Ser Humano Não Local | RC-708 | ← relaciona-se-a |
-| Ser Humano Não Local | RC-708 | sustenta-ponte-não-local |
-| Humano Turbinado | RC-709 | associado |
-| Universo de Egrégoras Emocionais | RC-711 | ← condensa |
-| Três Faíscas da Consciência Humana | RC-719 | ← relaciona-se-a |
-| Três Faíscas da Consciência Humana | RC-719 | relaciona-se-a |
-| Sócios do Destino / Ausência de Justiça Externa | RC-720 | ← relaciona-se-a |
-| Faixas Espirituais de Ressonância | RC-726 | ← relaciona-se-a |
-| Destinação do Lobo | RC-743 | ← expressa-sociabilidade-por |
-| Dessensibilização da Condição Humana | RC-746 | ← relaciona-se-a |
-| Eu Observador | RC-890 | associado |
-
-
-- Gestão da Sensação Pessoal — RC-633;
-- Destinação do Lobo — RC-743;
-- Rebanho humano — RC-193;
-- Faixas Espirituais de Ressonância — RC-726.
-
 ## Observações
 
 **Quarentena científica:** a neuroanatomia citada (tálamo, hipotálamo, amígdala, hipocampo) e a oxitocina são referências reais, mas a leitura da "tecnologia emocional cósmica" é do autor.
-
-## Fontes
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2024-03-17 | A Quem Pertence o Planeta e a Biblioteca Genômica Mais Atualizada do Universo (palestra) | transcrição automatizada; citação |
-| P2025-12-14 | Os Fundamentos da Revelação Cósmica (palestra) | — | transcrição automatizada; citação |
-| P2022-11-19 | No Princípio era o Bem! Será (palestra) | — | transcrição automatizada; citação |
-| P2022-09-17 | A Hipóstase dos Arcontes (palestra) | — | transcrição automatizada; citação |
-| P2024-08-03 | U0660–U0700 | palestra/STT |
-| P2024-07-14 | U0880–U0900 | palestra/STT |
-| P2025-03-15 / P2025-02-16 / P2025-02-15 / P2024-11-30 / P2024-11-09 / P2024-09-29 / P2024-03-03 / P2024-04-13 / B072 | — | obras/palestras |

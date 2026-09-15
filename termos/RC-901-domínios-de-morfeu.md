@@ -15,11 +15,6 @@ atualizado = "2026-09-13"
 ## Definição Sintética
 Domínios de Morfeu — conceito desenvolvido na palestra «A Teia da Vida e o Circuito Oculto dos Deuses» (P2024-01-13).
 
-## Ampliação
-### P2024-01-13
-**Fonte:** palestra «A Teia da Vida e o Circuito Oculto dos Deuses» (13/01/2024).
-**Trecho verbatim:** «Quais são os domínios de Morfeu? Boa parte das faixas de realidades produzidas pelos lupos mentais dos humanos»
-
 ## Termos Relacionados
 - RC-479
 - RC-899
@@ -38,3 +33,8 @@ Domínios de Morfeu — conceito desenvolvido na palestra «A Teia da Vida e o C
 | Espírito como Ator | RC-925 | associado |
 | Lixo de Informações Apodrecidas | RC-926 | associado |
 
+
+## Ampliação
+### P2024-01-13
+**Fonte:** palestra «A Teia da Vida e o Circuito Oculto dos Deuses» (13/01/2024).
+**Trecho verbatim:** «Quais são os domínios de Morfeu? Boa parte das faixas de realidades produzidas pelos lupos mentais dos humanos»

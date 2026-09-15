@@ -16,6 +16,24 @@ atualizado = "2026-09-05"
 
 Filhos de Heber (RC-436), patriarcas pós-diluvianos da linhagem hebraica — **Faleg** é o elo da linhagem de Sem/Abraão na genealogia bíblica da RC.
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Javé | RC-001 | relaciona-se-a |
+| Revelação Cósmica (conceito) | RC-094 | associado |
+| Linhagem dos Patriarcas Hebreus | RC-270 | associado |
+| Linhagem dos Escolhidos (Adão, Enoch, Abraão, Jacó) | RC-424 | relaciona-se-a |
+| Heber (patriarca pós-dilúvio) | RC-436 | é-um |
+| Senhor Parameshthi / Brahma Parameshthi (face atual de Javé) | RC-556 | ← relaciona-se-a |
+| Faces de Javé (sucessivas manifestações do Criador) | RC-561 | associado |
+| Melquizedec | RC-650 | associado |
+
+## Fontes
+
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2021-03-27 | bloco 7 (Javé e Abraão — maldição de Faleg) | palestra/STT pré-curada |
+
 ## Citações-chave
 
 > "Javé teve uma raiva tão grande de Faleg e depois de uns descendentes de Gômer que ele jogou uma maldição que transformava o DNA de tudo que era mulheres em um tipo de DNA estéril." — P2021-03-27
@@ -54,23 +72,6 @@ Filhos de Heber (RC-436), patriarcas pós-diluvianos da linhagem hebraica — **
 - A maldição sobre Faleg/Gômer é **leitura do autor** (Teologia Comparada) — não é relato histórico validado.
 
 
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | relaciona-se-a |
-| Revelação Cósmica (conceito) | RC-094 | associado |
-| Linhagem dos Patriarcas Hebreus | RC-270 | associado |
-| Linhagem dos Escolhidos (Adão, Enoch, Abraão, Jacó) | RC-424 | relaciona-se-a |
-| Heber (patriarca pós-dilúvio) | RC-436 | é-um |
-| Senhor Parameshthi / Brahma Parameshthi (face atual de Javé) | RC-556 | ← relaciona-se-a |
-| Faces de Javé (sucessivas manifestações do Criador) | RC-561 | associado |
-| Melquizedec | RC-650 | associado |
-
 ## Observações
 
 Maldição de Faleg e Abraão/Sara irmãos são **leitura do autor** (quarentena histórico-religiosa/Teologia Comparada).
-## Fontes
-
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2021-03-27 | bloco 7 (Javé e Abraão — maldição de Faleg) | palestra/STT pré-curada |

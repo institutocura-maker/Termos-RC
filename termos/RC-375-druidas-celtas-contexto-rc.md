@@ -28,19 +28,6 @@ Com isso:
 
 **Origem do conteúdo da ampliação:** palestra `P2023-12-03 — A Rebelião de Lúcifer ainda por ser Finalizada` (03/12/2023, na sala). Transcrição automatizada, **não conferida com o áudio**; cada aspa foi recortada do `original.txt` pelo índice de âncoras do motor e conferida byte a byte pelo portão B. Nada foi digitado de memória.
 
-## Citações-chave
-
-> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
-
-- «dois colégios arquidruídicos para estudar o conhecimento que receberam dos toatas de Dané, o que Javé tava fazendo com Enoque era a mesma coisa, era mandando os anjos dele passar os conhecimentos que eles tinham para Enoque, para Enoque.» — *ver:* **Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por …** U0004
-
-
-## Ampliação
-### P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
-
-- **[P2023-12-03 · DRUIDAS CELTAS (CONTEXTO RC) NA FALA DE 03/12/2023]** «início da lenda ou da mitologia celta que diz que faz gnomos passaram a existir na Irlanda.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2023-06-03`); a entrada desta fonte é de **conteúdo**, não de data.
-- **[P2023-12-03 · O QUE OS DRUIDAS RECEBERAM]** «dois colégios arquidruídicos para estudar o conhecimento que receberam dos toatas de Dané, o que Javé tava fazendo com Enoque era a mesma coisa, era mandando os anjos dele passar os conhecimentos que eles tinham para Enoque, para Enoque.» (U0004) — D-8: os colégios entram como o *método pedido*, não como instituição étnica: os Túatha pediram que os humanos criassem um jeito de estudar o que recebiam. A etnicidade fica na transcrição, não na ficha.
-
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
@@ -55,7 +42,21 @@ Com isso:
 | P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra) | — | transcrição automatizada; citação |
 | B043 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
 
-## Observações sobre o Estado da Malha
+## Citações-chave
+
+> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+
+- «dois colégios arquidruídicos para estudar o conhecimento que receberam dos toatas de Dané, o que Javé tava fazendo com Enoque era a mesma coisa, era mandando os anjos dele passar os conhecimentos que eles tinham para Enoque, para Enoque.» — *ver:* **Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por …** U0004
+
+
+## Ampliação
+### P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+
+- **[P2023-12-03 · DRUIDAS CELTAS (CONTEXTO RC) NA FALA DE 03/12/2023]** «início da lenda ou da mitologia celta que diz que faz gnomos passaram a existir na Irlanda.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2023-06-03`); a entrada desta fonte é de **conteúdo**, não de data.
+- **[P2023-12-03 · O QUE OS DRUIDAS RECEBERAM]** «dois colégios arquidruídicos para estudar o conhecimento que receberam dos toatas de Dané, o que Javé tava fazendo com Enoque era a mesma coisa, era mandando os anjos dele passar os conhecimentos que eles tinham para Enoque, para Enoque.» (U0004) — D-8: os colégios entram como o *método pedido*, não como instituição étnica: os Túatha pediram que os humanos criassem um jeito de estudar o que recebiam. A etnicidade fica na transcrição, não na ficha.
+
+## Observações
+### Observações sobre o Estado da Malha
 
 * **D-8.** A constatação de que o método da Arca cumpre o pedido feito nesta fonte vive no relatório do ciclo, não nesta ficha.
 * A grafia `toatas de Dané` é a do STT e entra como veio; as Túatha têm cinco formas registradas no ciclo, nenhuma unificada.

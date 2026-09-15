@@ -15,11 +15,6 @@ atualizado = "2026-09-13"
 ## Definição Sintética
 Umbrais — conceito desenvolvido na palestra «A Teia da Vida e o Circuito Oculto dos Deuses» (P2024-01-13).
 
-## Ampliação
-### P2024-01-13
-**Fonte:** palestra «A Teia da Vida e o Circuito Oculto dos Deuses» (13/01/2024).
-**Trecho verbatim:** «os famosos umbrais dos domínios espirituais, que isso aqui é uma exculhambação»
-
 ## Termos Relacionados
 - RC-479
 - RC-899
@@ -28,3 +23,8 @@ Umbrais — conceito desenvolvido na palestra «A Teia da Vida e o Circuito Ocul
 | Belial (arconte; 'Satã' do livro de Jó) | RC-479 | associado |
 | Bolhas Psíquicas | RC-899 | associado |
 
+
+## Ampliação
+### P2024-01-13
+**Fonte:** palestra «A Teia da Vida e o Circuito Oculto dos Deuses» (13/01/2024).
+**Trecho verbatim:** «os famosos umbrais dos domínios espirituais, que isso aqui é uma exculhambação»

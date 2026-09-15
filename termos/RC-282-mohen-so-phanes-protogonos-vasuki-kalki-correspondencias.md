@@ -15,8 +15,62 @@ atualizado = "2026-09-12"
 ## Definição Sintética
 Conjunto de correspondências mitológicas de Mohen So, Avatar Keshava de Vishnu, incluindo Phanes e Protogonos no orfismo.
 
+## Etimologia e Grafias
+- Mohen So — forma RC;
+- Phanes / Protogonos — formas órficas;
+- Vasuki / Kalki — correspondências hindus registradas anteriormente.
+
+
 ## Contexto / Origem
 P2026-04-02 confirma que a forma transcrita Morren So corresponde a Mohen So e não deve gerar termo autônomo.
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Sophia (Cristo Cósmico) | RC-009 | associado |
+| Mohen So (Avatar Keshava de Vishnu) | RC-081 | ← variação |
+| Mohen So (Avatar Keshava de Vishnu) | RC-081 | ← variação |
+| Mohen So (Avatar Keshava de Vishnu) | RC-081 | correspondência-em-teologia-comparada-de |
+| Mohen So (Avatar Keshava de Vishnu) | RC-081 | correspondência-em-teologia-comparada-de |
+| Projeto Talm | RC-091 | relaciona-se-a |
+| Projeto Talm | RC-091 | ← relaciona-se-a |
+| Revelação Cósmica (conceito) | RC-094 | associado |
+| Trimurti | RC-104 | relaciona-se-a |
+| Vishnu (Mavatna) | RC-135 | associado-a |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | relaciona-se-a |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | distingue-se-de |
+| Maitreya (Dionísio; forma adiágena de Vishnu) | RC-481 | associado |
+| Corpo Átmico | RC-623 | ← relaciona-se-a |
+| Singularidade de Quatro Cabeças | RC-649 | associado |
+| Relógio Messiânico | RC-765 | ← relaciona-se-a |
+| Corpos Fenvã (terceira forma de vida do universo vizinho) | RC-769 | relaciona-se-a |
+| Midana (o código original primordial semeado no universo biológico) | RC-871 | associado |
+| Dhanvantari (o médico dos devas: Amrita e a Ayurveda cósmica) | RC-875 | associado |
+
+## Seres Associados
+Mohen So, Vishnu, Elm/Moros.
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2021-06-26 | Shiva - A Reconstrução do Erro de Brahma e o Tikum (palestra) | — | transcrição automatizada; citação |
+| P2026-03-21 | Samudra Manthan A Enigmatica Alquimia de Vishnu (palestra) | — | transcrição automatizada; citação |
+| P2022-07-16 | Do Ramayana ao Mahabharata (palestra) | — | transcrição automatizada; citação |
+| P2022-09-25 | O Contexto Espiritual da Construção de Brasília (palestra) | — | transcrição automatizada; citação |
+| P2022-10-01 | A Wyrd e a Espiritualidade (palestra) | — | transcrição automatizada; citação |
+| B014/B060/B061 | correspondências | fontes anteriores |
+| P2026-04-02 | U0045–U0054 | live/STT pré-curado |
+| P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — |
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |
+| P2024-11-30 | Moros – Arquivos do Destino Universal (palestra) | — | apostila, ll.194–200 |
+
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-282.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o bloco citado desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
 
 ## Citações-chave
 > Ver P2026-04-02, U0045–U0054.
@@ -98,64 +152,10 @@ P2026-04-02 confirma que a forma transcrita Morren So corresponde a Mohen So e n
 - **Avatar Kalki profetizado:** "a vinda do Avatar Kalki" entre os retornos profetizados pelas religiões — "essa história toda é continuação da confusão que Marduk fez há 4.000 anos" (RC-765);
 - Mohen So = Phanes/Protogonos = Kalki (correspondências) no rol do relógio messiânico (nova aresta RC-765 ↔ RC-282).
 
-## Etimologia e Grafias
-- Mohen So — forma RC;
-- Phanes / Protogonos — formas órficas;
-- Vasuki / Kalki — correspondências hindus registradas anteriormente.
-
-
-## Seres Associados
-Mohen So, Vishnu, Elm/Moros.
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Sophia (Cristo Cósmico) | RC-009 | associado |
-| Mohen So (Avatar Keshava de Vishnu) | RC-081 | ← variação |
-| Mohen So (Avatar Keshava de Vishnu) | RC-081 | ← variação |
-| Mohen So (Avatar Keshava de Vishnu) | RC-081 | correspondência-em-teologia-comparada-de |
-| Mohen So (Avatar Keshava de Vishnu) | RC-081 | correspondência-em-teologia-comparada-de |
-| Projeto Talm | RC-091 | relaciona-se-a |
-| Projeto Talm | RC-091 | ← relaciona-se-a |
-| Revelação Cósmica (conceito) | RC-094 | associado |
-| Trimurti | RC-104 | relaciona-se-a |
-| Vishnu (Mavatna) | RC-135 | associado-a |
-| Elm (Moros — ser LM de Tempérion) | RC-454 | relaciona-se-a |
-| Elm (Moros — ser LM de Tempérion) | RC-454 | distingue-se-de |
-| Maitreya (Dionísio; forma adiágena de Vishnu) | RC-481 | associado |
-| Corpo Átmico | RC-623 | ← relaciona-se-a |
-| Singularidade de Quatro Cabeças | RC-649 | associado |
-| Relógio Messiânico | RC-765 | ← relaciona-se-a |
-| Corpos Fenvã (terceira forma de vida do universo vizinho) | RC-769 | relaciona-se-a |
-| Midana (o código original primordial semeado no universo biológico) | RC-871 | associado |
-| Dhanvantari (o médico dos devas: Amrita e a Ayurveda cósmica) | RC-875 | associado |
-
 ## Observações
 Morren So/Morrençor é erro de STT e deve ser normalizado para Mohen So.
 
-## Fontes
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2021-06-26 | Shiva - A Reconstrução do Erro de Brahma e o Tikum (palestra) | — | transcrição automatizada; citação |
-| P2026-03-21 | Samudra Manthan A Enigmatica Alquimia de Vishnu (palestra) | — | transcrição automatizada; citação |
-| P2022-07-16 | Do Ramayana ao Mahabharata (palestra) | — | transcrição automatizada; citação |
-| P2022-09-25 | O Contexto Espiritual da Construção de Brasília (palestra) | — | transcrição automatizada; citação |
-| P2022-10-01 | A Wyrd e a Espiritualidade (palestra) | — | transcrição automatizada; citação |
-| B014/B060/B061 | correspondências | fontes anteriores |
-| P2026-04-02 | U0045–U0054 | live/STT pré-curado |
-| P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — |
-
-## Fontes
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |
-| P2024-11-30 | Moros – Arquivos do Destino Universal (palestra) | — | apostila, ll.194–200 |
-
-
-> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-282.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o bloco citado desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
-
-## Higiene ontológica — P2024-11-30 e eBook de IA
+### Higiene ontológica — P2024-11-30 e eBook de IA
 
 O eBook *Moros — O Livro* lista `Phanis/Phanes` como manifestação de Moros. Essa fusão contradiz RC-282, que mantém Mohen So = Phanes/Protogonos. A formulação do eBook é rejeitada como identidade canônica.
 

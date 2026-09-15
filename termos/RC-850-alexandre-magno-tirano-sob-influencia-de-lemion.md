@@ -28,6 +28,21 @@ Com isso:
 
 **Origem do conteúdo da ampliação:** palestra `P2023-08-27 — Len Mion e os Senhores da Terra Alexandre Magno e Qin Shi Huang Di` (27/08/2023). Transcrição automatizada, **não conferida com o áudio**; cada aspa foi recortada do `original.txt` pelo índice de âncoras do motor e conferida byte a byte pelo portão B. Nada foi digitado de memória.
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Len Mion (Satã) | RC-074 | **sem aresta** em `RELACOES`; arquivo existe |
+| Diálogos de Sócrates, Platão e Aristóteles (nos Céus da Grécia) | RC-406 | **sem aresta** em `RELACOES`; **sem arquivo** |
+| Krishna (avatar de Vishnu/Shiva) | RC-414 | **sem aresta** em `RELACOES`; arquivo existe |
+| Bebida dos Deuses (Ambrosia/Amrita/Soma) | RC-466 | **sem aresta** em `RELACOES`; arquivo existe |
+| DNA Insubmisso / Linhagem Pandora–Eva–Noreia | RC-727 | **sem aresta** em `RELACOES`; arquivo existe |
+
+## Fontes
+| Obra (sigla) | Título | Página | Tipo |
+|---|---|---|---|
+| P2022-09-25 | O Contexto Espiritual da Construção de Brasília (palestra) | — | transcrição automatizada; citação |
+| P2023-08-27 | Len Mion e os Senhores da Terra Alexandre Magno e Qin Shi Huang Di (palestra) | — | transcrição automatizada; citação |
+
 ## Citações-chave
 
 > Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
@@ -49,22 +64,8 @@ Com isso:
 - **[O sonho de Alexandre: novas cidades] (U0005)** «Aí Alexandre morreu, mas ficou faltando outras cidades a serem criadas no sonho desses caras.» — "foi daqui que Alexandre Magno e seus generais saíram para, entre aspas, dominar o mundo no sentido de fincar nesse mundo a cultura helênica, ou seja, que veio de Heleno, a cultura da liberdade, que cada cultura tivesse o que quisesse como Deus"; "Alexandre, seus generais queriam construir o quê? Novas cidades. Para que nessas novas cidades, novas possibilidades e pessoas que estavam cansada da vida viciada dos grandes centros fossem para essas novas cidades... E foi por isso que Alexandre e seus generais criaram a Alexandrópolis, a Alexandria" — "Aí Alexandre morreu, mas ficou faltando outras cidades a serem criadas no sonho desses caras" (o processo segue pelos Templários, Portugal, até Brasília).
 
 
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Len Mion (Satã) | RC-074 | **sem aresta** em `RELACOES`; arquivo existe |
-| Diálogos de Sócrates, Platão e Aristóteles (nos Céus da Grécia) | RC-406 | **sem aresta** em `RELACOES`; **sem arquivo** |
-| Krishna (avatar de Vishnu/Shiva) | RC-414 | **sem aresta** em `RELACOES`; arquivo existe |
-| Bebida dos Deuses (Ambrosia/Amrita/Soma) | RC-466 | **sem aresta** em `RELACOES`; arquivo existe |
-| DNA Insubmisso / Linhagem Pandora–Eva–Noreia | RC-727 | **sem aresta** em `RELACOES`; arquivo existe |
-
-## Fontes
-| Obra (sigla) | Título | Página | Tipo |
-|---|---|---|---|
-| P2022-09-25 | O Contexto Espiritual da Construção de Brasília (palestra) | — | transcrição automatizada; citação |
-| P2023-08-27 | Len Mion e os Senhores da Terra Alexandre Magno e Qin Shi Huang Di (palestra) | — | transcrição automatizada; citação |
-
-## Observações sobre o Estado da Malha
+## Observações
+### Observações sobre o Estado da Malha
 
 * **Grafia STT:** 'Alexandre Magno' (literal). O palestrante também o referencia como 'Alexandre' e 'o rapaz' cujo DNA Lemion analisou antes de conceber o projeto de dominar o mundo.
 * **Trava aplicável**: nenhuma além das gerais do despacho.

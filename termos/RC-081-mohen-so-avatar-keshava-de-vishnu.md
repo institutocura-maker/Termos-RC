@@ -15,8 +15,43 @@ atualizado = "2026-09-12"
 ## Definição Sintética
 Mohen So é Avatar Keshava de Vishnu, identificado nas correspondências RC como Phanes/Protogonos e vinculado ao espírito de Elm/Moros.
 
+## Etimologia e Grafias
+- **Preferida:** Mohen So.
+- **Erros/variações STT:** Morren So, Morrençor, Moren So.
+- **Correspondências:** Phanes, Protogonos, Vasuki, Kalki.
+
+
 ## Contexto / Origem
 A live P2026-04-02 normaliza os ruídos Morren So/Morrençor como Mohen So e o relaciona à singularidade órfica e ao espírito de Elm.
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Sophia (Cristo Cósmico) | RC-009 | ← variação |
+| Sophia (Cristo Cósmico) | RC-009 | ← é-um |
+| Sophia (Cristo Cósmico) | RC-009 | ← é-um |
+| Sophia (Cristo Cósmico) | RC-009 | gera |
+| CFD (Código Fonte Definidor) | RC-040 | associado |
+| Fenvans | RC-064 | gera |
+| Fenvans | RC-064 | ← relaciona-se-a |
+| Keshava | RC-073 | é-um |
+| Projeto Talm | RC-091 | propõe |
+| Projeto Talm | RC-091 | ← proposto-por |
+| Projeto Talm | RC-091 | propõe |
+| Vishnu (Mavatna) | RC-135 | é-um |
+| Vishnu (Mavatna) | RC-135 | é-um |
+| Mohen So = Phanes / Protogonos / Vasuki / Kalki (correspondências) | RC-282 | variação |
+| Mohen So = Phanes / Protogonos / Vasuki / Kalki (correspondências) | RC-282 | variação |
+| Mohen So = Phanes / Protogonos / Vasuki / Kalki (correspondências) | RC-282 | ← correspondência-em-teologia-comparada-de |
+| Mohen So = Phanes / Protogonos / Vasuki / Kalki (correspondências) | RC-282 | ← correspondência-em-teologia-comparada-de |
+| ADHYMAVATANA (nome completo de Mavatna/Vishnu) | RC-408 | ← gera |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | vinculado-ao-espírito |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | vinculado-ao-espírito |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | distingue-se-de |
+| Singularidade de Quatro Cabeças | RC-649 | ← envolve |
+| Nanotecnologia Prânica (manipulação da matéria em escala atômica; base tecnológica do Projeto TALM) | RC-773 | associado |
+| PEP — Pulso Eletromagnético Particularizado (transferência de nanopontos da genética entre universos) | RC-774 | associado |
+| Éon das Três Esferas (superloka/geno; repositório de tesouros genéticos do Projeto TALM) | RC-775 | associado |
 
 ## Citações-chave
 
@@ -111,38 +146,3 @@ A live P2026-04-02 normaliza os ruídos Morren So/Morrençor como Mohen So e o r
 - Corrobora RC-282 (Mohen So = Phanes/Protogonos).
 
 ---
-
-## Etimologia e Grafias
-- **Preferida:** Mohen So.
-- **Erros/variações STT:** Morren So, Morrençor, Moren So.
-- **Correspondências:** Phanes, Protogonos, Vasuki, Kalki.
-
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Sophia (Cristo Cósmico) | RC-009 | ← variação |
-| Sophia (Cristo Cósmico) | RC-009 | ← é-um |
-| Sophia (Cristo Cósmico) | RC-009 | ← é-um |
-| Sophia (Cristo Cósmico) | RC-009 | gera |
-| CFD (Código Fonte Definidor) | RC-040 | associado |
-| Fenvans | RC-064 | gera |
-| Fenvans | RC-064 | ← relaciona-se-a |
-| Keshava | RC-073 | é-um |
-| Projeto Talm | RC-091 | propõe |
-| Projeto Talm | RC-091 | ← proposto-por |
-| Projeto Talm | RC-091 | propõe |
-| Vishnu (Mavatna) | RC-135 | é-um |
-| Vishnu (Mavatna) | RC-135 | é-um |
-| Mohen So = Phanes / Protogonos / Vasuki / Kalki (correspondências) | RC-282 | variação |
-| Mohen So = Phanes / Protogonos / Vasuki / Kalki (correspondências) | RC-282 | variação |
-| Mohen So = Phanes / Protogonos / Vasuki / Kalki (correspondências) | RC-282 | ← correspondência-em-teologia-comparada-de |
-| Mohen So = Phanes / Protogonos / Vasuki / Kalki (correspondências) | RC-282 | ← correspondência-em-teologia-comparada-de |
-| ADHYMAVATANA (nome completo de Mavatna/Vishnu) | RC-408 | ← gera |
-| Elm (Moros — ser LM de Tempérion) | RC-454 | vinculado-ao-espírito |
-| Elm (Moros — ser LM de Tempérion) | RC-454 | vinculado-ao-espírito |
-| Elm (Moros — ser LM de Tempérion) | RC-454 | distingue-se-de |
-| Singularidade de Quatro Cabeças | RC-649 | ← envolve |
-| Nanotecnologia Prânica (manipulação da matéria em escala atômica; base tecnológica do Projeto TALM) | RC-773 | associado |
-| PEP — Pulso Eletromagnético Particularizado (transferência de nanopontos da genética entre universos) | RC-774 | associado |
-| Éon das Três Esferas (superloka/geno; repositório de tesouros genéticos do Projeto TALM) | RC-775 | associado |

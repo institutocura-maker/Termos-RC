@@ -15,8 +15,34 @@ atualizado = "2026-08-29"
 ## Definição Sintética
 Termo extraído e aprovado na curadoria de P2025-05-31.
 
+## Etimologia e Grafias
+Forma preferida: Malkuth.
+
+
 ## Contexto / Origem
 O Mistério da Árvore da Vida e a Urdidura de Metatron.
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Sophia (Cristo Cósmico) | RC-009 | relaciona-se-a |
+| Universo Material (Bhuloka) | RC-107 | — |
+| Sefirot / Árvore da Vida | RC-263 | é-um |
+| Sefirot / Árvore da Vida | RC-263 | relaciona-se-a |
+| Planos de Existência da Cabala (Atziluth, Briah, Yetzirah, Assiah) | RC-264 | ← relaciona-se-a |
+| Hochmah (2ª Sefirah — Sabedoria; = Sophia) | RC-565 | relaciona-se-a |
+| Hochmah (2ª Sefirah — Sabedoria; = Sophia) | RC-565 | ← relaciona-se-a |
+| Yesod | RC-681 | — |
+
+## Seres Associados
+Consultar Base.
+
+## Fontes
+P2025-05-31.
+| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
+| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
+
+
 
 ## Citações-chave
 Ver transcrição.
@@ -54,34 +80,8 @@ Ver transcrição.
 
 - **[P2023-12-03 · MALKUTH NA FALA DE 03/12/2023]** «a 10ma sefirado, quem é? É Sofia ou Rockban, que já existe, mas a exceção deste aqui, a exceção deste aqui e deste aqui, o resto não quer que ela seja os continue a ser o suzerano desse universo.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2023-04-15`); a entrada desta fonte é de **conteúdo**, não de data.
 
-## Etimologia e Grafias
-Forma preferida: Malkuth.
-
-
-## Seres Associados
-Consultar Base.
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Sophia (Cristo Cósmico) | RC-009 | relaciona-se-a |
-| Universo Material (Bhuloka) | RC-107 | — |
-| Sefirot / Árvore da Vida | RC-263 | é-um |
-| Sefirot / Árvore da Vida | RC-263 | relaciona-se-a |
-| Planos de Existência da Cabala (Atziluth, Briah, Yetzirah, Assiah) | RC-264 | ← relaciona-se-a |
-| Hochmah (2ª Sefirah — Sabedoria; = Sophia) | RC-565 | relaciona-se-a |
-| Hochmah (2ª Sefirah — Sabedoria; = Sophia) | RC-565 | ← relaciona-se-a |
-| Yesod | RC-681 | — |
-
 ## Observações
 Teologia comparada e alegações científicas permanecem atribuídas ao palestrante.
 
 
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-682.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
-
-## Fontes
-P2025-05-31.
-| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
-| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
-
-

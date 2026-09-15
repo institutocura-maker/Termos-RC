@@ -15,8 +15,36 @@ atualizado = "2026-08-18"
 ## Definição Sintética
 **Hermes Trismegisto** ("Hermes, o três vezes grande") é a figura sincrética greco-egípcia que, no material de apoio de aluno de Ellam (B060), agrega **quatro grandes manifestações**: **Ningishzidda** (Anunnaki, filho de Enki), **Tehuti/Thoth** (Egípcia), **Quetzalcóatl** (Asteca) e **Viracocha** (Inca). A equivalência reforça o pano de fundo "Anunnaki por trás das mitologias" da Revelação Cósmica e se conecta à figura de **Apolônio de Tiana** (encarnação do Quarto Logos, RC-259).
 
+## Etimologia e Grafias
+- **Grafia preferida:** Hermes Trismegisto
+- **Variações:** Hermes Trismegistus (Latim); Mercúrio Trismegisto
+- **Equivalências (B060):** Ningishzidda (Anunnaki, filho de Enki); Tehuti ou Thoth (Egípcia); Quetzalcóatl (Asteca); Viracocha (Inca)
+
 ## Contexto / Origem
 No verbete de B060, Hermes Trismegisto é listado como um personagem com múltiplas "imantações/encarnações" nas mitologias — padrão típico do corpus RC, em que deuses e heróis antigos são manifestações (avatares) de seres da Espiritualidade Laboratorial (Pashvnaj/LM, eons). Ningishzidda (filho de Enki) e Thoth como escriba dos deuses conectam-se ao Quarto Logos / Codificador de Zian (RC-092/RC-252) — hermetismo, alquimia e tradição esotérica como veículos desse conhecimento.
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Anunnaki | RC-024 | relaciona-se-a |
+| Quarto Logos (Olm / Codificador de Zian) | RC-092 | relaciona-se-a (tradição hermética) |
+| Apolônio de Tiana (encarnação do Quarto Logos) | RC-259 | relaciona-se-a |
+| Gnosticismo (contraponto à Cabala) | RC-268 | relaciona-se-a |
+| Enki (Anunnaki; inoculou o gene FOXP2) | RC-486 | relaciona-se-a |
+| Enoque (sétimo patriarca; levado por Javé) | RC-489 | relaciona-se-a |
+| Usinas geodésicas de Gizé (engenharia de Thoth) | RC-534 | ← relaciona-se-a |
+| Revelação de Ifá e Destinação dos Seres | RC-655 | relaciona-se-a |
+| As Três Escalas da Consciência (Sábio → Mago → Iniciado) | RC-762 | ← relaciona-se-a |
+| As Sete Leis Herméticas | RC-763 | ← relaciona-se-a |
+
+## Seres Associados
+Ningishzidda/Thoth (Anunnaki/egípcio); Quetzalcóatl; Viracocha; Apolônio de Tiana (RC-259); Olm/Quarto Logos (RC-092, por afinidade de função).
+
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo |
+|---|---|---|---|
+| P2022-09-17 | A Hipóstase dos Arcontes (palestra) | — | transcrição automatizada; citação |
+| Personagens e Terminologias da RC (B060) | verbete "Hermes Trismegisto" | p. 2 (PDF) | equivalências |
 
 ## Citações-chave
 > "Hermes Trismegisto — Hermes Trismegisto (Grega); Ningishzidda (Anunnaki, filho de Enki); Quetzalcóatl (Asteca); Tehuti ou Thoth (Egípcia); Viracocha (Inca)." — B060, p. 2
@@ -57,35 +85,7 @@ Descrições biográficas (140–150 mil anos; nascimento; descendência) são *
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-463.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
 
-## Etimologia e Grafias
-- **Grafia preferida:** Hermes Trismegisto
-- **Variações:** Hermes Trismegistus (Latim); Mercúrio Trismegisto
-- **Equivalências (B060):** Ningishzidda (Anunnaki, filho de Enki); Tehuti ou Thoth (Egípcia); Quetzalcóatl (Asteca); Viracocha (Inca)
-
-## Seres Associados
-Ningishzidda/Thoth (Anunnaki/egípcio); Quetzalcóatl; Viracocha; Apolônio de Tiana (RC-259); Olm/Quarto Logos (RC-092, por afinidade de função).
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Anunnaki | RC-024 | relaciona-se-a |
-| Quarto Logos (Olm / Codificador de Zian) | RC-092 | relaciona-se-a (tradição hermética) |
-| Apolônio de Tiana (encarnação do Quarto Logos) | RC-259 | relaciona-se-a |
-| Gnosticismo (contraponto à Cabala) | RC-268 | relaciona-se-a |
-| Enki (Anunnaki; inoculou o gene FOXP2) | RC-486 | relaciona-se-a |
-| Enoque (sétimo patriarca; levado por Javé) | RC-489 | relaciona-se-a |
-| Usinas geodésicas de Gizé (engenharia de Thoth) | RC-534 | ← relaciona-se-a |
-| Revelação de Ifá e Destinação dos Seres | RC-655 | relaciona-se-a |
-| As Três Escalas da Consciência (Sábio → Mago → Iniciado) | RC-762 | ← relaciona-se-a |
-| As Sete Leis Herméticas | RC-763 | ← relaciona-se-a |
-
 ## Observações
 Fonte secundária (material de aluno, B060). A conexão Hermes Trismegisto ↔ Quarto Logos é uma **hipótese de trabalho** (afinidade de função: escriba/codificador) — verificar nas obras primárias. Inanna/Danu (RC-464) segue o mesmo padrão de equivalência mitológica do documento.
 
 ---
-
-## Fontes
-| Obra (sigla) | Capítulo | Página | Tipo |
-|---|---|---|---|
-| P2022-09-17 | A Hipóstase dos Arcontes (palestra) | — | transcrição automatizada; citação |
-| Personagens e Terminologias da RC (B060) | verbete "Hermes Trismegisto" | p. 2 (PDF) | equivalências |

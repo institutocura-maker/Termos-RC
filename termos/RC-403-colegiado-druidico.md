@@ -28,11 +28,6 @@ Com isso:
 
 **Origem do conteúdo da ampliação:** palestra `P2017-10-14 — Da Base Atlan ao Colégio Druídico` (14/10/2017). Transcrição automatizada, **não conferida com o áudio**; cada aspa foi recortada do `original.txt` pelo índice de âncoras do motor e conferida byte a byte pelo portão B. Nada foi digitado de memória.
 
-## Ampliação
-### P2017-10-14 (Da Base Atlan ao Colégio Druídico)
-
-- **[a escola druídica recriada na Terra] (U0007)** «Os biodemos são bons na tentativa de entender o como as coisas são feitas, por seres humanos, nós, seres humanos, vamos então assim, a escola druídica, entre aspas, que nem sei se esse nome vai persistir, se pretende recriar aqui na terra livro de toda a sujeira dos conceitos viciados de religião, de dogmatismo, de ideologia, seja o que for, nada mais é do que a continuidade dessa história.» — a escola druídica (futuro Colégio Druídico) é a continuidade da escola fundada em Capela pelo Codificador; ver RC-755.
-
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
@@ -51,7 +46,13 @@ Com isso:
 | B050 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
 | B052 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
 
-## Observações sobre o Estado da Malha
+## Ampliação
+### P2017-10-14 (Da Base Atlan ao Colégio Druídico)
+
+- **[a escola druídica recriada na Terra] (U0007)** «Os biodemos são bons na tentativa de entender o como as coisas são feitas, por seres humanos, nós, seres humanos, vamos então assim, a escola druídica, entre aspas, que nem sei se esse nome vai persistir, se pretende recriar aqui na terra livro de toda a sujeira dos conceitos viciados de religião, de dogmatismo, de ideologia, seja o que for, nada mais é do que a continuidade dessa história.» — a escola druídica (futuro Colégio Druídico) é a continuidade da escola fundada em Capela pelo Codificador; ver RC-755.
+
+## Observações
+### Observações sobre o Estado da Malha
 
 * **Grafia STT:** 'colégio do I' / 'escola druídica' = Colégio Druídico. Nesta fonte é a continuidade terrena da escola de Capela (RC-092).
 * **Trava aplicável**: nenhuma além das gerais do despacho.

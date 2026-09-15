@@ -15,8 +15,38 @@ atualizado = "2026-08-31"
 ## Definição Sintética
 Tese (leitura do autor, palestra **P2023-12-17**, U0003) de que o **sistema mais antigo de organização da vida** é o **sistema arcaico mental** — descrito no livro "Divina Ceia" (B037) — onde **Javé (RC-001) = abelha rainha**, **os clones = abelhas operárias**. É uma "estrutura morfogenética" de 300 milhões de anos, baseada em **hierarquia e controle mental** (Javé controla os clones). Os elétrons (RC-162) estão **colapsando esse sistema arcaico** porque ele é o mais antigo e "são no sentido arcano as maneiras mais antigas como a vida se organizou". Ver RC-001 (Javé), RC-009 (Sophia), RC-162 (Elétron), RC-162 (Plasma), RC-826 (Rebelião dos Elétrons), RC-829 (Memória dos Elétrons).
 
+## Etimologia e Grafias
+- **Grafia preferida:** Sistema Arcaico Mental (Javé Como Abelha Rainha)
+- **Variações STT capturadas:** "sistema arcaico", "sistema arcaico mental", "Javé abelha rainha", "clones abelhas operárias", "calmeias" (= colmeias?), "comérico" (= cooperativo?)
+- **Idioma de origem:** Português
+
 ## Contexto / Origem
 Aparece em **P2023-12-17**, U0003. Contexto: a palestra explica por que os elétrons estão colapsando colmeias e corais. "As calmeias [colmeias] trazem si o velho sistema comérico [cooperativo] mental que eu explorei no livro chamada Divina Céia, que é o sistema arcaico, mental. mais antigo porque surgiu com Javé e os clones. **Javé era abelha rainha, os clones, as abelhas operárias.** Mas aí surgiram essas formas de vida superiores a essa. Mas na hora em que a vida veio com seu código pro nosso universo, quem veio foi essa daqui, porque Javé queria que todo mundo aqui fosse abelhinha e ele mandasse." Os elétrons têm isso memorizado nos pósitrons e nos elétrons — e estão colapsando o sistema mais antigo.
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Javé | RC-001 | é-rainha-de |
+| Sophia (Cristo Cósmico) | RC-009 | é-análoga-a |
+| Elétrons (agente básico da vida universal) | RC-162 | colapsa |
+| Elétrons (agente básico da vida universal) | RC-162 | é-estado-de |
+| A Rebelião dos Elétrons | RC-378 | associado |
+| Rebelião dos Elétrons (Além da Entropia) | RC-826 | é-mecanismo-de |
+| Memória dos Elétrons e Arcanos | RC-829 | é-contexto-de |
+| Corais | (fato biológico) | colapsa |
+| Abelhas/Colmeias | (fato biológico) | colapsa |
+
+## Seres Associados
+- **Javé (RC-001)** — a abelha rainha
+- **Os clones (anjos glores)** — as abelhas operárias
+- **Os elétrons (RC-162)** — quem colapsa o sistema
+- **As abelhas/corais (colmeias)** — quem está colapsando (biológico)
+
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo |
+|---|---|---|---|
+| P2023-12-17 — Lúcifer e a Rebelião dos Elétrons | U0003 (S3) | — | palestra (fonte primária, STT) |
+| B037 — Divina Ceia | — | — | obra do autor (citada na palestra) |
 
 ## Citações-chave
 > «As calmeias [colmeias] trazem si o velho sistema comérico [cooperativo] mental que eu explorei no livro chamada Divina Céia, que é o sistema arcaico, mental. mais antigo porque surgiu com Javé e os clones. Javé era abelha rainha, os clones, as abelhas operárias.» — P2023-12-17, U0003
@@ -35,43 +65,13 @@ Aparece em **P2023-12-17**, U0003. Contexto: a palestra explica por que os elét
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-828.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** os 2 blocos entre «» desta ficha **não** resistem à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Todos deixam vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
 
-## Etimologia e Grafias
-- **Grafia preferida:** Sistema Arcaico Mental (Javé Como Abelha Rainha)
-- **Variações STT capturadas:** "sistema arcaico", "sistema arcaico mental", "Javé abelha rainha", "clones abelhas operárias", "calmeias" (= colmeias?), "comérico" (= cooperativo?)
-- **Idioma de origem:** Português
-
-## Seres Associados
-- **Javé (RC-001)** — a abelha rainha
-- **Os clones (anjos glores)** — as abelhas operárias
-- **Os elétrons (RC-162)** — quem colapsa o sistema
-- **As abelhas/corais (colmeias)** — quem está colapsando (biológico)
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | é-rainha-de |
-| Sophia (Cristo Cósmico) | RC-009 | é-análoga-a |
-| Elétrons (agente básico da vida universal) | RC-162 | colapsa |
-| Elétrons (agente básico da vida universal) | RC-162 | é-estado-de |
-| A Rebelião dos Elétrons | RC-378 | associado |
-| Rebelião dos Elétrons (Além da Entropia) | RC-826 | é-mecanismo-de |
-| Memória dos Elétrons e Arcanos | RC-829 | é-contexto-de |
-| Corais | (fato biológico) | colapsa |
-| Abelhas/Colmeias | (fato biológico) | colapsa |
-
 ## Observações
 - [REVISAR → CHANCELA 2026-09-06 · F041-L5: AGUARDA-ÁUDIO (dívida perdoada até nova evidência na base; STT preservado como falado) — ver nota]: a palestra de 2023-12-17 é a única fonte primária dessa formulação específica (sistema arcaico mental com Javé = abelha rainha).
 - **Conexão com B037 (Divina Ceia)**: o autor descreve o sistema arcaico em detalhes no livro **Divina Ceia** — a palestra cita a obra explicitamente.
 - **Paralelo com biologia**: as **colmeias** são realmente uma das formas de vida mais antigas (300 milhões de anos). Os **corais** são ainda mais antigos (500+ milhões de anos). O autor está re-inscrevendo esses fatos biológicos dentro de sua cosmogonia.
 - **Conexão com a "doença do criador" (P2017-05-14)**: a hierarquia Javé-abelhas-operárias é a manifestação mais antiga do **controle mental** de Javé — paralelo à RC-002 (Rebelião de Lúcifer) e à RC-001 (Javé como ser criador fracassado).
 
-## Fontes
-| Obra (sigla) | Capítulo | Página | Tipo |
-|---|---|---|---|
-| P2023-12-17 — Lúcifer e a Rebelião dos Elétrons | U0003 (S3) | — | palestra (fonte primária, STT) |
-| B037 — Divina Ceia | — | — | obra do autor (citada na palestra) |
-
-## Quarentena Terminológica
+### Quarentena Terminológica
 
 Esta ficha usa exclusivamente as **grafias canônicas** do repositório:
 

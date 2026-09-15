@@ -15,8 +15,42 @@ atualizado = "2026-08-28"
 ## Definição Sintética
 Termo extraído e aprovado na curadoria de P2025-05-31.
 
+## Etimologia e Grafias
+Forma preferida: Metatron.
+
+
 ## Contexto / Origem
 O Mistério da Árvore da Vida e a Urdidura de Metatron.
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Javé | RC-001 | — |
+| Sefirot / Árvore da Vida | RC-263 | — |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | relaciona-se-a |
+| Classes de anjos de Arabot-Ráquia (ofanim, serafins, galgaulim, chashmalim) | RC-485 | relaciona-se-a |
+| Enoque (sétimo patriarca; levado por Javé) | RC-489 | variação-posterior-de |
+| Enoque (sétimo patriarca; levado por Javé) | RC-489 | ← relaciona-se-a |
+| Os 366 Manuscritos de Enoque | RC-672 | — |
+| Intercessão de Enoque pelos Anunnaki | RC-673 | — |
+| Urdidura de Metatron | RC-674 | produz |
+| Urdidura de Metatron | RC-674 | relaciona-se-a |
+| Urdidura de Metatron | RC-674 | ← relaciona-se-a |
+| P2025-12-14 | Os Fundamentos da Revelação Cósmica (palestra) | — | transcrição automatizada; citação |
+| P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
+| P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
+| P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
+| P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
+| P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
+| P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
+
+## Seres Associados
+Consultar Base.
+
+## Fontes
+P2025-05-31.
+| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
+
 
 ## Citações-chave
 Ver transcrição.
@@ -81,42 +115,8 @@ Ver transcrição.
 - **[Enoque/Metatron no universo vizinho] (U0069)** «Viveu aqui 60 e poucos anos, mas viveu mais uns bões, bota 500, 600 anos no mínimo, mas dizem que foi inclusive alguns milênios como metatron nesse universo vizinho, ainda que ele fosse Enoque dentro de um e ficou conhecido como um tipo de mercado, como sendo um anjo de Javé.» — Enoque que viveu milênios como Metatron no universo vizinho; STT «mercado» = Metatron (degeneração do STT); «anjo de Javé» (RC-671 Metatron; RC-489 Enoque; RC-001).
 
 
-## Etimologia e Grafias
-Forma preferida: Metatron.
-
-
-## Seres Associados
-Consultar Base.
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | — |
-| Sefirot / Árvore da Vida | RC-263 | — |
-| Elm (Moros — ser LM de Tempérion) | RC-454 | relaciona-se-a |
-| Classes de anjos de Arabot-Ráquia (ofanim, serafins, galgaulim, chashmalim) | RC-485 | relaciona-se-a |
-| Enoque (sétimo patriarca; levado por Javé) | RC-489 | variação-posterior-de |
-| Enoque (sétimo patriarca; levado por Javé) | RC-489 | ← relaciona-se-a |
-| Os 366 Manuscritos de Enoque | RC-672 | — |
-| Intercessão de Enoque pelos Anunnaki | RC-673 | — |
-| Urdidura de Metatron | RC-674 | produz |
-| Urdidura de Metatron | RC-674 | relaciona-se-a |
-| Urdidura de Metatron | RC-674 | ← relaciona-se-a |
-| P2025-12-14 | Os Fundamentos da Revelação Cósmica (palestra) | — | transcrição automatizada; citação |
-| P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
-| P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
-| P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
-| P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
-| P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
-| P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
-
 ## Observações
 Teologia comparada e alegações científicas permanecem atribuídas ao palestrante.
 
 
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-671.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
-
-## Fontes
-P2025-05-31.
-| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
-

@@ -15,8 +15,32 @@ atualizado = "2026-08-18"
 ## Definição Sintética
 A **"Era dos Humanos"** é o período em que a espécie humana emergiu como protagonista da Terra, deslocando os deuses demo — tema do capítulo 23 de B021 ("Zeus e a Impensável 'Era dos Humanos'"). Zeus "invadiu, sim, a 'Era dos Humanos', mas as religiões que posteriormente foram surgindo transformaram o seu esforço em nada, numa mera criação literária... foi desse modo que Zeus tentou lidar com a 'Era dos Humanos', sendo o seu objetivo o de ser tido como o 'deus dos humanos', o 'pai dos humanos'. Em vez disso, passou a ser considerado lenda, um mito."
 
+## Etimologia e Grafias
+- **Grafia preferida:** Era dos Humanos
+- **Variações:** Zeus e a Impensável "Era dos Humanos"; a era em que os humanos imperam
+
+
 ## Contexto / Origem
 A Era dos Humanos sucede o fechamento dos portais: sem acesso direto, os deuses tentaram controlar a humanidade por oráculos, pitonisas e pelas artes trágicas gregas (Píndaro, Apolodoro, Sófocles, Eurípedes) — "todo esse conjunto de notícias que Zeus quis transmitir à humanidade, buscando mostrar o quanto ele era importante". A Era dos Humanos também é o cenário da **dissolução da Tríade (2015–2017)**: com o universo demo se desestruturando ("estão perdendo sua casa"), Zeus busca construir um "projeto de migração" dos demos para o nosso universo — movimento inverso ao de Yel Luzbel há ~50 mil anos.
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Revelação Cósmica (conceito) | RC-094 | associado |
+| Seres Terrenos (Homo Sapiens) | RC-099 | protagonistas |
+| Zeus | RC-145 | envolve |
+| Era Sapiens | RC-238 | paralelo |
+| Telos (de um deus) | RC-292 | missão de Zeus |
+| Drama do Fechamento dos Portais | RC-295 | sucede |
+| Dissolução da Tríade (2015–2017) | RC-300 | contexto |
+
+## Seres Associados
+Zeus (RC-145); humanos (RC-099); demos (RC-049); Caos/Javé (RC-284).
+
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo |
+|---|---|---|---|
+| Tempos Difíceis no Olimpo (B021) | cap. 23 (Zeus e a Impensável "Era dos Humanos") | pp. 130–145 (aprox.) | capítulo dedicado |
 
 ## Citações-chave
 > "Ele invadiu, sim, a 'Era dos Humanos', mas as religiões que posteriormente foram surgindo transformaram o seu esforço em nada, numa mera criação literária. Entretanto, foi desse modo que Zeus tentou lidar com a 'Era dos Humanos', sendo o seu objetivo o de ser tido como o 'deus dos humanos', o 'pai dos humanos'." — B021, cap. 23
@@ -45,31 +69,7 @@ A Era dos Humanos sucede o fechamento dos portais: sem acesso direto, os deuses 
 - "Em nascendo na condição humana, 256 possibilidades eles terão" (todos os seres que precisam cumprir destinos).
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
 
-## Etimologia e Grafias
-- **Grafia preferida:** Era dos Humanos
-- **Variações:** Zeus e a Impensável "Era dos Humanos"; a era em que os humanos imperam
-
-
-## Seres Associados
-Zeus (RC-145); humanos (RC-099); demos (RC-049); Caos/Javé (RC-284).
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Revelação Cósmica (conceito) | RC-094 | associado |
-| Seres Terrenos (Homo Sapiens) | RC-099 | protagonistas |
-| Zeus | RC-145 | envolve |
-| Era Sapiens | RC-238 | paralelo |
-| Telos (de um deus) | RC-292 | missão de Zeus |
-| Drama do Fechamento dos Portais | RC-295 | sucede |
-| Dissolução da Tríade (2015–2017) | RC-300 | contexto |
-
 ## Observações
 Ficha baseada em B021 (obra primária). A Era dos Humanos é o desfecho do "Tempos Difíceis no Olimpo": os deuses tornam-se mitos e a humanidade emerge. Cruzar com RC-238 (Era Sapiens) e RC-300.
 
 ---
-
-## Fontes
-| Obra (sigla) | Capítulo | Página | Tipo |
-|---|---|---|---|
-| Tempos Difíceis no Olimpo (B021) | cap. 23 (Zeus e a Impensável "Era dos Humanos") | pp. 130–145 (aprox.) | capítulo dedicado |

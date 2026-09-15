@@ -29,6 +29,24 @@ atualizado = "2026-09-13"
 
 Segundo verbete "Criaturas-ferramenta" da Base (paralelo ao RC-164): os seres vivos usados como **instrumentos** pelos criadores/deuses — a humanidade entre eles. Na RC, o uso por estirpe/espécie, "sem a menor preocupação", é marca do padrão de domínio (RC-764).
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Javé | RC-001 | relaciona-se-a |
+| Biodemos | RC-036 | relaciona-se-a |
+| Agentes da Vida Universal | RC-148 | relaciona-se-a |
+| Criaturas-ferramenta | RC-164 | variação |
+| Demência do Criador (fases da condição de Javé) | RC-526 | associado |
+| Travas e lacres (mecanismos de controle do despertar) | RC-563 | ← relaciona-se-a |
+| Ao Vencedor as Batatas (paradigma do domínio) | RC-764 | ← relaciona-se-a |
+
+## Fontes
+
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2021-03-27 | bloco 1 (Quincas Borba/batatas); bloco 6 (Javé e Abraão) | palestra/STT pré-curada |
+| B057 / B058 / P2025-03-15 | — | anteriores |
+
 ## Citações-chave
 
 > "Javé sempre usou desgraçadamente as suas criaturas-ferramenta por estirpe, por espécie, sem a menor preocupação." — P2021-03-27
@@ -59,26 +77,8 @@ Segundo verbete "Criaturas-ferramenta" da Base (paralelo ao RC-164): os seres vi
 - Sinônimo funcional de RC-164 (Criaturas-ferramenta) — ambas alimentadas pela mesma fonte P2021-03-27.
 
 
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | relaciona-se-a |
-| Biodemos | RC-036 | relaciona-se-a |
-| Agentes da Vida Universal | RC-148 | relaciona-se-a |
-| Criaturas-ferramenta | RC-164 | variação |
-| Demência do Criador (fases da condição de Javé) | RC-526 | associado |
-| Travas e lacres (mecanismos de controle do despertar) | RC-563 | ← relaciona-se-a |
-| Ao Vencedor as Batatas (paradigma do domínio) | RC-764 | ← relaciona-se-a |
-
 ## Observações
 
 ### Remissiva C6 (despacho 2.6 — 12/09/2026)
 Homônimo no cadastro: **RC-164** — Criaturas-ferramenta (verificado). Mesmo nome e categoria; dossiês independentes com faces próprias (6.293c × 3.838c, similaridade 0.42).
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** os 2 blocos entre «» desta ficha **não** resistem à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Só 1 dos 2 deixam vestígio no corpus. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
-
-## Fontes
-
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2021-03-27 | bloco 1 (Quincas Borba/batatas); bloco 6 (Javé e Abraão) | palestra/STT pré-curada |
-| B057 / B058 / P2025-03-15 | — | anteriores |

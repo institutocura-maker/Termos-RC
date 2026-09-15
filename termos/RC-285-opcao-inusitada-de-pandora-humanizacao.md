@@ -15,8 +15,37 @@ atualizado = "2026-08-28"
 ## Definição Sintética
 O momento em que Pandora **decidiu se humanizar de vez**, usando "a opção mental que Hefesto havia deixado pendente no meu código genético pessoal" (B020, cap. 6): "Foi quando decidi humanizar-me de vez e fiz uso da opção mental que Hefesto havia deixado pendente no meu código genético pessoal... tentei, ao meu modo, pacificar a minha mente para que o meu 'movimento de consciência', profundamente estabelecido na minha vontade, pudesse..." (a "transferência de fase" demo → homo, mencionada em B031). É o correlato do deslacre mental: Pandora libertou-se da "trava-demo" e tornou-se a **primeira mulher humana racional**.
 
+## Etimologia e Grafias
+- **Grafia preferida:** Opção Inusitada de Pandora
+- **Variações:** opção mental de Hefesto; humanização de Pandora; transferência de fase demo → homo; "primeira mulher humana racional"
+
+
 ## Contexto / Origem
 A Opção Inusitada é o eixo do B020: criada pelos deuses como "demônio feito mulher" (armadilha para a humanidade), Pandora contrariou as expectativas — "Aos poucos, ela mesma foi quem construiu o seu psiquismo de primeira mulher-humana, contrariando por completo as expectativas dos deuses do Olimpo". O capítulo 6 narra o momento da escolha; o capítulo 7 ("Enfim, um Sorriso") mostra o desfecho. Sua humanização permitiu o "deslacre mental" dos humanos (paralelo ao deslacre de Yel Luzbel).
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Pandora | RC-086 | sujeito |
+| Val Dimon | RC-118 | identidade anterior |
+| Trava-demo | RC-184 | rompe |
+| Éden do Criador (Éden como laboratório) | RC-242 | contexto posterior |
+| Pandora como Serpente do Éden | RC-283 | desdobramento |
+| Hefesto | RC-307 | associado |
+| Momento Zero de Pandora | RC-779 | associado |
+| Sequência Formativa da Racionalidade Humana | RC-785 | associado |
+| Desvio de Rota de Pandora (Contra o Plano de Zeus) | RC-806 | associado |
+
+## Seres Associados
+Pandora (RC-086); Hefesto (deus que deixou a "opção mental"); Zeus (RC-145); Epimeteu (RC-289).
+
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo |
+|---|---|---|---|
+| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra) | — | transcrição automatizada; citação |
+| O Sorriso de Pandora (B020) | cap. 6 (A Opção Inusitada de Pandora) | pp. 47–52 (aprox.) | capítulo dedicado |
+| Painéis Emergentes (B031) | Glossário (Pandora) | — | apoio (secundária) |
+
 
 ## Citações-chave
 > "Foi quando decidi humanizar-me de vez e fiz uso da opção mental que Hefesto havia deixado pendente no meu código genético pessoal." — B020, cap. 6
@@ -58,36 +87,7 @@ A Opção Inusitada é o eixo do B020: criada pelos deuses como "demônio feito 
 - **Status da evidência:** transcrição automatizada, pré-curada e aprovada quanto à integração terminológica; conferir com áudio/obra antes de promover status.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
 
-## Etimologia e Grafias
-- **Grafia preferida:** Opção Inusitada de Pandora
-- **Variações:** opção mental de Hefesto; humanização de Pandora; transferência de fase demo → homo; "primeira mulher humana racional"
-
-
-## Seres Associados
-Pandora (RC-086); Hefesto (deus que deixou a "opção mental"); Zeus (RC-145); Epimeteu (RC-289).
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Pandora | RC-086 | sujeito |
-| Val Dimon | RC-118 | identidade anterior |
-| Trava-demo | RC-184 | rompe |
-| Éden do Criador (Éden como laboratório) | RC-242 | contexto posterior |
-| Pandora como Serpente do Éden | RC-283 | desdobramento |
-| Hefesto | RC-307 | associado |
-| Momento Zero de Pandora | RC-779 | associado |
-| Sequência Formativa da Racionalidade Humana | RC-785 | associado |
-| Desvio de Rota de Pandora (Contra o Plano de Zeus) | RC-806 | associado |
-
 ## Observações
 Ficha baseada em B020 (obra primária) + B031. A Opção Inusitada é o momento fundador da "humanidade racional" feminina nas RC — o deslacre complementar ao de Yel Luzbel. Cruzar com RC-184 e RC-118.
 
 ---
-
-## Fontes
-| Obra (sigla) | Capítulo | Página | Tipo |
-|---|---|---|---|
-| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra) | — | transcrição automatizada; citação |
-| O Sorriso de Pandora (B020) | cap. 6 (A Opção Inusitada de Pandora) | pp. 47–52 (aprox.) | capítulo dedicado |
-| Painéis Emergentes (B031) | Glossário (Pandora) | — | apoio (secundária) |
-

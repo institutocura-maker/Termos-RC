@@ -28,11 +28,6 @@ Com isso:
 
 **Origem do conteúdo da ampliação:** palestra `P2022-09-25 — O Contexto Espiritual da Construção de Brasília` (25/09/2022). Transcrição automatizada, **não conferida com o áudio**; cada aspa foi recortada do `original.txt` pelo índice de âncoras do motor e conferida byte a byte pelo portão B. Nada foi digitado de memória.
 
-## Ampliação
-### P2022-09-25 (O Contexto Espiritual da Construção de Brasília)
-
-- **[A base Atlan e os vetores para Brasília] (U0003)** «E houve um ensaio de se começar a estudar esse problema na base Atlan, quando tudo meio que foi a pique, quando houve a necessidade da turma do norte de se astralizar nessa cidadela chamada.» — a base Atlan (RC-028, fila aberta): "Essa base hoje tá coberta pelo mar. E essa base ela não é uma construção só. Elas são várias construções que envolvem desde o Ceará até o início da Bahia... Isso foi construído ao longo de 100.000 anos. Foi aqui que Luúcifer pousou há 98.000 anos atrás uma de suas marchlans luciferianas" (U0003: «Foi aqui que Luúcifer pousou há 98.000 anos atrás uma de suas marchlans luciferianas.»); "há 23.000 anos que a terra começou a esquentar... o mar era uns 20, 30, 40 km lá. Ou seja, tudo aquilo era terra e era nesse lugar aonde a base foi construída. Mas o mar hoje cobriu tudo isso, mas tá tudo lá"; a foto de 1996 de Margarete Elias da Silva no museu de Machu Picchu ("base Atlon" no Nordeste) e os vetores que "chegam exatamente aonde foi construído Brasília, porque tem a ver com uma certa ligação de quem ia pousar e vinha de nave, pegava esse sentido até chegar nos mistérios de Macho Picho".
-
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
@@ -55,7 +50,13 @@ Com isso:
 | B039 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
 | B006 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
 
-## Observações sobre o Estado da Malha
+## Ampliação
+### P2022-09-25 (O Contexto Espiritual da Construção de Brasília)
+
+- **[A base Atlan e os vetores para Brasília] (U0003)** «E houve um ensaio de se começar a estudar esse problema na base Atlan, quando tudo meio que foi a pique, quando houve a necessidade da turma do norte de se astralizar nessa cidadela chamada.» — a base Atlan (RC-028, fila aberta): "Essa base hoje tá coberta pelo mar. E essa base ela não é uma construção só. Elas são várias construções que envolvem desde o Ceará até o início da Bahia... Isso foi construído ao longo de 100.000 anos. Foi aqui que Luúcifer pousou há 98.000 anos atrás uma de suas marchlans luciferianas" (U0003: «Foi aqui que Luúcifer pousou há 98.000 anos atrás uma de suas marchlans luciferianas.»); "há 23.000 anos que a terra começou a esquentar... o mar era uns 20, 30, 40 km lá. Ou seja, tudo aquilo era terra e era nesse lugar aonde a base foi construída. Mas o mar hoje cobriu tudo isso, mas tá tudo lá"; a foto de 1996 de Margarete Elias da Silva no museu de Machu Picchu ("base Atlon" no Nordeste) e os vetores que "chegam exatamente aonde foi construído Brasília, porque tem a ver com uma certa ligação de quem ia pousar e vinha de nave, pegava esse sentido até chegar nos mistérios de Macho Picho".
+
+## Observações
+### Observações sobre o Estado da Malha
 
 * **Materializada (devolutiva):** saiu da fila aberta — ficha criada nesta devolutiva (ficha=False → True) com a pérola validada deste ciclo: a base Atlan, onde Lúcifer pousou há 98.000 anos, submersa do Ceará à Bahia, e os vetores que apontam para onde Brasília foi construída.
 * **Trava aplicável**: nenhuma além das gerais do despacho.

@@ -15,8 +15,43 @@ atualizado = "2026-08-18"
 ## Definição Sintética
 **Arquivos Mentais** são a configuração sob a qual o psiquismo humano "guarda/hospeda" conceitos, opiniões, crenças, "verdades pessoais" e impressões — tanto no **cérebro animal** quanto na **Mente Espiritual**. Cada conceito/crença é tratado como um "arquivo" que pode ser **aberto, fechado, eliminado ou colecionado**. A gestão desses arquivos é o coração do **Mentalma** (RC-166): o método ensina a quem "coleciona" os arquivos, como são adquiridos, onde ficam guardados, como são abertos e como são fechados/eliminados.
 
+## Etimologia e Grafias
+- **Grafia preferida:** Arquivos Mentais
+- **Variações:** "arquivo mental" (singular); "Arquivos Mentais" (título do capítulo/série)
+- **Obs.:** conceito central da série Mentalma; distinto dos "Arquivos da Memória Cósmica" (RC-521, da enciclopédia IA — a confirmar correspondência)
+
+
 ## Contexto / Origem
 No Mentalma I (B074, cap. 2 — "Cada Conceito, um Arquivo Mental"), Ellam explica que criou "jogos mentais" para repensar um por um seus conceitos e crenças. Os arquivos são "colecionados" pelo psiquismo ao longo da vida (e de vidas); após a morte do corpo, o Espírito sai "carregando vários arquivos", inclusive os ligados a emoções valorizadas — que viram espécies de "fantasminhas" (memórias marcadas emocionalmente). O **Circuito do CHA** (RC-549) define quais arquivos a pessoa coleciona; a **Vontade de Progredir** (RC-550) é a "chave" que os acessa conscientemente (em vez do acaso).
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Mentalma | RC-166 | é-um |
+| Protocolo Mental (padrões organizadores da mente) | RC-517 | relaciona-se-a |
+| Circuito do CHA (Circunstâncias+Herança+Atitude) | RC-549 | ← relaciona-se-a |
+| Vontade de Progredir (chave dos arquivos mentais) | RC-550 | ← relaciona-se-a |
+| Dehatma Buddhi (doença psíquica da mente identificada com o corpo) | RC-551 | relaciona-se-a |
+| Gestão Psíquica e Memórias Complexas (Mentalma II) | RC-554 | associado |
+| Série Mentalma (5 livros + curso) | RC-555 | associado |
+| Corpo Sutil Reencarnante | RC-704 | ← transporta |
+| Universo de Egrégoras Emocionais | RC-711 | ← usa |
+| Formas-Pensamento e Formas-Sentimento | RC-724 | ← registradas-em |
+| Dominação Psíquica pela Devoção | RC-733 | associado |
+| Bagagem Espiritual Intransferível | RC-751 | ← relaciona-se-a |
+| Vrittis e Cittas (atividades e núcleos mentais) | RC-760 | ← relaciona-se-a |
+| Os 256 Caminhos Profetizáveis de Orunmilá | RC-767 | ← relaciona-se-a |
+
+## Seres Associados
+Espírito encarnado (colecionador dos arquivos); Jan Val Ellam (criador do método).
+
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo |
+|---|---|---|---|
+| Mentalma I (B074) | Cap. 2 "Cada Conceito, um Arquivo Mental" | p. 26 (PDF) | definição |
+| Mentalma I (B074) | Cap. 8 "Os Tipos de Arquivos Mentais" | p. 47 (PDF) | tipos/emocional |
+| Mentalma II (B075) | Cap. 1 | — | aprofundamento |
+| P2024-02-03 | O Jainismo e o Druidismo Ancestrais (palestra) | — | — |
 
 ## Citações-chave
 > "A 'guarda' e/ou 'hospedagem' de conceitos, opiniões e impressões sob a configuração de 'arquivos mentais', 'colecionados' pelo psiquismo humano, tanto no seu cérebro animal como na Mente Espiritual, foi e é a base do conjunto de práticas... que passaram a compor o Mentalma." — B074, p. 26
@@ -55,42 +90,7 @@ No Mentalma I (B074, cap. 2 — "Cada Conceito, um Arquivo Mental"), Ellam expli
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-548.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** os 2 trechos entre aspas desta ficha **não** resistem à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Só 1 dos 2 deixam vestígio no corpus. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
 
-## Etimologia e Grafias
-- **Grafia preferida:** Arquivos Mentais
-- **Variações:** "arquivo mental" (singular); "Arquivos Mentais" (título do capítulo/série)
-- **Obs.:** conceito central da série Mentalma; distinto dos "Arquivos da Memória Cósmica" (RC-521, da enciclopédia IA — a confirmar correspondência)
-
-
-## Seres Associados
-Espírito encarnado (colecionador dos arquivos); Jan Val Ellam (criador do método).
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Mentalma | RC-166 | é-um |
-| Protocolo Mental (padrões organizadores da mente) | RC-517 | relaciona-se-a |
-| Circuito do CHA (Circunstâncias+Herança+Atitude) | RC-549 | ← relaciona-se-a |
-| Vontade de Progredir (chave dos arquivos mentais) | RC-550 | ← relaciona-se-a |
-| Dehatma Buddhi (doença psíquica da mente identificada com o corpo) | RC-551 | relaciona-se-a |
-| Gestão Psíquica e Memórias Complexas (Mentalma II) | RC-554 | associado |
-| Série Mentalma (5 livros + curso) | RC-555 | associado |
-| Corpo Sutil Reencarnante | RC-704 | ← transporta |
-| Universo de Egrégoras Emocionais | RC-711 | ← usa |
-| Formas-Pensamento e Formas-Sentimento | RC-724 | ← registradas-em |
-| Dominação Psíquica pela Devoção | RC-733 | associado |
-| Bagagem Espiritual Intransferível | RC-751 | ← relaciona-se-a |
-| Vrittis e Cittas (atividades e núcleos mentais) | RC-760 | ← relaciona-se-a |
-| Os 256 Caminhos Profetizáveis de Orunmilá | RC-767 | ← relaciona-se-a |
-
 ## Observações
 Conceito-fio da série Mentalma. A gestão dos arquivos (abrir/fechar/eliminar) é o exercício prático central. Conectar com RC-521 (Arquivos da Memória Cósmica — candidato da enciclopédia IA) na revisão cruzada.
 
 ---
-
-## Fontes
-| Obra (sigla) | Capítulo | Página | Tipo |
-|---|---|---|---|
-| Mentalma I (B074) | Cap. 2 "Cada Conceito, um Arquivo Mental" | p. 26 (PDF) | definição |
-| Mentalma I (B074) | Cap. 8 "Os Tipos de Arquivos Mentais" | p. 47 (PDF) | tipos/emocional |
-| Mentalma II (B075) | Cap. 1 | — | aprofundamento |
-| P2024-02-03 | O Jainismo e o Druidismo Ancestrais (palestra) | — | — |

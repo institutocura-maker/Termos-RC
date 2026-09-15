@@ -15,8 +15,46 @@ atualizado = "2026-08-12"
 ## Definição Sintética
 Consciência espiritual **particularizada** — também denominada "espírito" ou "alma". Não há nada que exista na Criação "indevida" (de Perpérion à Espiritualidade Superior) sem uma mônada espiritual estruturando o corpo, seja uma pedra, planta, animal ou robô (B024, cap. 15). A Espiritualidade Superior, vendo o drama do Criador caído, **deu de si mônadas** para estruturar os clones que Brahma criava; os seres Adhyatman de Perpérion desenvolveram tecnologia espiritual para retirar de si mônadas e imantá-las nos seres criados por Brahma.
 
+## Etimologia e Grafias
+- **Grafia preferida:** Mônada
+- **Variações:** mônada espiritual; alma; espírito; consciência espiritual particularizada; protoconsciência particularizada
+- **Origem:** do grego *monas* (unidade) — usado por Leibniz; nas RC equivale ao espírito/alma individual
+
+
 ## Contexto / Origem
 A doutrina espírita explica que todos os espíritos foram criados simples e ignorantes e evoluem conforme os mundos onde cada mônada se situa — "até se tornar hominal" (racionalização). As mônadas originalmente imantadas a vegetais e animais irracionais encontram-se hoje, em muitos casos, encarnadas na condição humana. A mônada espiritual distingue-se dos **Seres Extrafísicos** (anjos clones, demos), que nada têm a ver com as consciências espirituais particularizadas.
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Adhyagia | RC-012 | variação (alma pura) |
+| Adhyatman | RC-013 | condição |
+| Seres Extrafísicos | RC-097 | distingue-se |
+| Seres Espirituais | RC-100 | é-um |
+| Agentes da Vida Universal | RC-148 | ← é-um |
+| Assinatura da Alma | RC-199 | associado |
+| Kundalini (no contexto RC) | RC-211 | associado |
+| Filhos das Estrelas | RC-222 | ← associado-a |
+| Democracia do Amor da Deidade | RC-333 | é-um |
+| Círculo / Circuito da Perfeição | RC-603 | ← produz |
+| Destino das Mônadas após o Tikun | RC-653 | ← envolve |
+| Quinaras / Centauros (Seres Reais que Hoje Nascem Humanos) | RC-790 | associado |
+| Lamúria dos Deuses (Diagnóstico de Prometeu) | RC-791 | associado |
+| Fogo que se Apaga (Fogo de Prometeu Hoje) | RC-792 | associado |
+| Desvio de Rota de Pandora (Contra o Plano de Zeus) | RC-806 | associado |
+| Shiva como Primeiro Demo (Saiu do Clone Destruído) | RC-810 | associado |
+| Prometeu como Saca-Nica dos Olímpicos | RC-812 | associado |
+| Temis (Têmis) como Mãe-de-Pandora (Co-clonadora) | RC-815 | associado |
+| Prole sem Face (Humanos Modificáveis sem Face Definida) | RC-819 | associado |
+
+## Seres Associados
+Espiritualidade Superior (RC-059); Seres Adhyatman (RC-013).
+
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo |
+|---|---|---|---|
+| A Epopeia dos Agentes da Vida Universal (B024) | caps. 9, 15 | pp. 61, 109–110 (aprox.) | definições e contexto |
+| Painéis Emergentes... (B031) | Glossário (Seres Espirituais) | — | apoio (secundária) |
 
 ## Citações-chave
 > "Nesse tempo longínquo da história universal... os seres Adhyatman (de Perpérion, na Espiritualidade Laboratorial) desenvolveram uma tecnologia espiritual na qual retiraram de si mônadas, para imantá-las nos seres que Brahma criava." — B024, cap. 15
@@ -44,45 +82,7 @@ A doutrina espírita explica que todos os espíritos foram criados simples e ign
 - **Status da evidência:** transcrição automatizada, pré-curada e aprovada quanto à integração terminológica; conferir com áudio/obra antes de promover status.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
 
-## Etimologia e Grafias
-- **Grafia preferida:** Mônada
-- **Variações:** mônada espiritual; alma; espírito; consciência espiritual particularizada; protoconsciência particularizada
-- **Origem:** do grego *monas* (unidade) — usado por Leibniz; nas RC equivale ao espírito/alma individual
-
-
-## Seres Associados
-Espiritualidade Superior (RC-059); Seres Adhyatman (RC-013).
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Adhyagia | RC-012 | variação (alma pura) |
-| Adhyatman | RC-013 | condição |
-| Seres Extrafísicos | RC-097 | distingue-se |
-| Seres Espirituais | RC-100 | é-um |
-| Agentes da Vida Universal | RC-148 | ← é-um |
-| Assinatura da Alma | RC-199 | associado |
-| Kundalini (no contexto RC) | RC-211 | associado |
-| Filhos das Estrelas | RC-222 | ← associado-a |
-| Democracia do Amor da Deidade | RC-333 | é-um |
-| Círculo / Circuito da Perfeição | RC-603 | ← produz |
-| Destino das Mônadas após o Tikun | RC-653 | ← envolve |
-| Quinaras / Centauros (Seres Reais que Hoje Nascem Humanos) | RC-790 | associado |
-| Lamúria dos Deuses (Diagnóstico de Prometeu) | RC-791 | associado |
-| Fogo que se Apaga (Fogo de Prometeu Hoje) | RC-792 | associado |
-| Desvio de Rota de Pandora (Contra o Plano de Zeus) | RC-806 | associado |
-| Shiva como Primeiro Demo (Saiu do Clone Destruído) | RC-810 | associado |
-| Prometeu como Saca-Nica dos Olímpicos | RC-812 | associado |
-| Temis (Têmis) como Mãe-de-Pandora (Co-clonadora) | RC-815 | associado |
-| Prole sem Face (Humanos Modificáveis sem Face Definida) | RC-819 | associado |
-
 ## Observações
 Ficha baseada na leitura de B024. Verificar nos capítulos 9 ("Estruturação das lokas") e 15 o detalhamento do processo de "imantação" de mônadas.
 
 ---
-
-## Fontes
-| Obra (sigla) | Capítulo | Página | Tipo |
-|---|---|---|---|
-| A Epopeia dos Agentes da Vida Universal (B024) | caps. 9, 15 | pp. 61, 109–110 (aprox.) | definições e contexto |
-| Painéis Emergentes... (B031) | Glossário (Seres Espirituais) | — | apoio (secundária) |

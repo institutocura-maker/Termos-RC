@@ -15,8 +15,67 @@ atualizado = "2026-09-05"
 ## Definição Sintética
 O Quarto Logos se chama **"Olm"**, mais conhecido como o **Codificador de Zian (ou Zion)**. "Mergulhou" de Perpérion diretamente para o nosso universo biológico (Bhuloka) — foi o **único dos quatro Logos que não mergulhou no universo antimaterial** (Brahmaloka), podendo criar um **CFD próprio**, livre da programação gerada pelo Primeiro Logos. Surgiu no forno de Vishnu (Awaymaion) e depois apareceu na nave Asphezian no Sistema de Capela, dando assessoria a Sophia. **Não é um Ser Criador**: sua função é gerar **cocriadores esclarecidos, independentes e harmonizados** com os princípios nobres da existência. Teve uma única encarnação terrena como **Apolônio de Tiana** (~2.000 anos atrás), contemporâneo de Jesus (B031).
 
+## Etimologia e Grafias
+- **Grafia preferida:** Quarto Logos
+- **Variações:** Olm; Codificador de Zian (Zion); Quarto Logus (grafia do título do livro de Ellam)
+
+
 ## Contexto / Origem
 A partir de 1989 passou a operar o Quarto Logos, substituindo os 3 primeiros Logos (que foram operativos até então). É tema do livro *O Quarto Logus* (2017) e conecta-se à nova fase da humanidade.
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Sophia (Cristo Cósmico) | RC-009 | tutoria |
+| Asphezian | RC-025 | associado |
+| Jesus | RC-072 | associado |
+| Logos / Logos Criadores | RC-076 | associado |
+| Orbum | RC-085 | associado |
+| Perpérion | RC-087 | enviado-a |
+| Val Gevi | RC-125 | associado |
+| Zian (Zion) | RC-146 | associado |
+| Criação Indevida (Obra indevida) | RC-167 | mergulha-em |
+| Era da Geopolítica Universal e da Divisão do Comando | RC-171 | associado |
+| Olm (Codificador de Zion/Zian) | RC-252 | ← variação |
+| Liberdade Mental (premissa do Quarto Logos) | RC-253 | associado |
+| Espiritismo como Expressão do Quarto Logos | RC-257 | associado |
+| Apolônio de Tiana (encarnação do Quarto Logos) | RC-259 | associado |
+| Agentes do Quarto Logos | RC-281 | ← é-um |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | associado |
+| Ser LM (gênero de Tempérion) | RC-456 | é-um |
+| Ser LM (gênero de Tempérion) | RC-456 | é-um |
+| Hermes Trismegisto (= Ningishzidda/Thoth/Quetzalcóatl) | RC-463 | associado |
+| Tempérion (Archeon de Ereon; setor dos seres LM) | RC-472 | ocorre-em |
+| Tempérion (Archeon de Ereon; setor dos seres LM) | RC-472 | origem-em |
+| Maitreya (Dionísio; forma adiágena de Vishnu) | RC-481 | ← encarnação-posterior-de |
+| Forno de Awaymaion (forno de Vishnu; origem de Olm) | RC-499 | origem-em |
+| Tikun Cósmico (restabelecimento da Criação) | RC-514 | ← relaciona-se-a |
+| Fatiamento de Consciência | RC-604 | ← envolve |
+| Cinco Seres LM de Tempérion | RC-607 | ← inclui |
+| Imponderabilidade (campo de estudo dos Seres LM) | RC-608 | observa |
+| Ogdóade de Hermópolis | RC-609 | ← inclui |
+| Flechas / Profecias de Moros | RC-611 | ← envolve |
+| Nova Espiritualidade / Novo Paraíso (Paraíso B) | RC-612 | ← envolve |
+| Superconsciência | RC-615 | ← envolve |
+| Singularidade de Quatro Cabeças | RC-649 | associado |
+| Mão Invisível Multiforme / Conselho das Nagas | RC-697 | ← relaciona-se-a |
+| Escola da Decifração da Realidade (Método Druídico) | RC-755 | relaciona-se-a |
+| Quarto Cérebro (centro de sabedoria vibracional) | RC-758 | ← manifesta-se-em |
+| As Cinco Lentes da Realidade | RC-761 | ← relaciona-se-a |
+| As Três Escalas da Consciência (Sábio → Mago → Iniciado) | RC-762 | ← relaciona-se-a |
+| A Raça Inabalável dos Sethianos Emancipados | RC-766 | ← relaciona-se-a |
+| Fornos Replicadores (naves/estações de semeadura de vida do Projeto Talm; Awayen, Awaylengan e Awaymaion) | RC-771 | ← relaciona-se-a |
+| Nyx como Mãe de Origem de Pandora | RC-795 | associado |
+| Eru Ilúvatar (criador no Silmarillion) | RC-843 | associado |
+| O Tal (Tao) (a via de ressignificação que faz da podridão da criação alimento) | RC-881 | associado |
+| IEEA (Instituto de Estudos Estratégicos e Alternativos) | RC-930 | associado |
+| Nuctemeron | RC-931 | associado |
+| Revelação Psíquica (Kapila — escola Samkhya) | RC-933 | associado |
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |
 
 ## Citações-chave
 
@@ -270,62 +329,3 @@ A partir de 1989 passou a operar o Quarto Logos, substituindo os 3 primeiros Log
 ---
 ---
 ---
-
-## Etimologia e Grafias
-- **Grafia preferida:** Quarto Logos
-- **Variações:** Olm; Codificador de Zian (Zion); Quarto Logus (grafia do título do livro de Ellam)
-
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Sophia (Cristo Cósmico) | RC-009 | tutoria |
-| Asphezian | RC-025 | associado |
-| Jesus | RC-072 | associado |
-| Logos / Logos Criadores | RC-076 | associado |
-| Orbum | RC-085 | associado |
-| Perpérion | RC-087 | enviado-a |
-| Val Gevi | RC-125 | associado |
-| Zian (Zion) | RC-146 | associado |
-| Criação Indevida (Obra indevida) | RC-167 | mergulha-em |
-| Era da Geopolítica Universal e da Divisão do Comando | RC-171 | associado |
-| Olm (Codificador de Zion/Zian) | RC-252 | ← variação |
-| Liberdade Mental (premissa do Quarto Logos) | RC-253 | associado |
-| Espiritismo como Expressão do Quarto Logos | RC-257 | associado |
-| Apolônio de Tiana (encarnação do Quarto Logos) | RC-259 | associado |
-| Agentes do Quarto Logos | RC-281 | ← é-um |
-| Elm (Moros — ser LM de Tempérion) | RC-454 | associado |
-| Ser LM (gênero de Tempérion) | RC-456 | é-um |
-| Ser LM (gênero de Tempérion) | RC-456 | é-um |
-| Hermes Trismegisto (= Ningishzidda/Thoth/Quetzalcóatl) | RC-463 | associado |
-| Tempérion (Archeon de Ereon; setor dos seres LM) | RC-472 | ocorre-em |
-| Tempérion (Archeon de Ereon; setor dos seres LM) | RC-472 | origem-em |
-| Maitreya (Dionísio; forma adiágena de Vishnu) | RC-481 | ← encarnação-posterior-de |
-| Forno de Awaymaion (forno de Vishnu; origem de Olm) | RC-499 | origem-em |
-| Tikun Cósmico (restabelecimento da Criação) | RC-514 | ← relaciona-se-a |
-| Fatiamento de Consciência | RC-604 | ← envolve |
-| Cinco Seres LM de Tempérion | RC-607 | ← inclui |
-| Imponderabilidade (campo de estudo dos Seres LM) | RC-608 | observa |
-| Ogdóade de Hermópolis | RC-609 | ← inclui |
-| Flechas / Profecias de Moros | RC-611 | ← envolve |
-| Nova Espiritualidade / Novo Paraíso (Paraíso B) | RC-612 | ← envolve |
-| Superconsciência | RC-615 | ← envolve |
-| Singularidade de Quatro Cabeças | RC-649 | associado |
-| Mão Invisível Multiforme / Conselho das Nagas | RC-697 | ← relaciona-se-a |
-| Escola da Decifração da Realidade (Método Druídico) | RC-755 | relaciona-se-a |
-| Quarto Cérebro (centro de sabedoria vibracional) | RC-758 | ← manifesta-se-em |
-| As Cinco Lentes da Realidade | RC-761 | ← relaciona-se-a |
-| As Três Escalas da Consciência (Sábio → Mago → Iniciado) | RC-762 | ← relaciona-se-a |
-| A Raça Inabalável dos Sethianos Emancipados | RC-766 | ← relaciona-se-a |
-| Fornos Replicadores (naves/estações de semeadura de vida do Projeto Talm; Awayen, Awaylengan e Awaymaion) | RC-771 | ← relaciona-se-a |
-| Nyx como Mãe de Origem de Pandora | RC-795 | associado |
-| Eru Ilúvatar (criador no Silmarillion) | RC-843 | associado |
-| O Tal (Tao) (a via de ressignificação que faz da podridão da criação alimento) | RC-881 | associado |
-| IEEA (Instituto de Estudos Estratégicos e Alternativos) | RC-930 | associado |
-| Nuctemeron | RC-931 | associado |
-| Revelação Psíquica (Kapila — escola Samkhya) | RC-933 | associado |
-
-## Fontes
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |

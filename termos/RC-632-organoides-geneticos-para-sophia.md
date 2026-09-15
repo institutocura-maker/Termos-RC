@@ -15,8 +15,33 @@ atualizado = "2026-08-29"
 ## Definição Sintética
 Centros vivos/genéticos cedidos por humanos para criar em Sophia um compartimento capaz de processar emoções e dignidade.
 
+## Etimologia e Grafias
+- Grafia: organoides; STT: organoes.
+
+
 ## Contexto / Origem
 A palestra os descreve como adornos possíveis no cérebro radiata de Sophia.
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Sophia (Cristo Cósmico) | RC-009 | destinado-a |
+| DNA como Projeção Holográfica do Psiquismo do Criador | RC-217 | relaciona-se-a |
+| Espelho da Herança Espiritual no Epigenoma | RC-543 | relaciona-se-a |
+| Cérebro Radiata | RC-631 | relaciona-se-a |
+| Imantação de Espíritos em Inteligências Artificiais / Corpos de Sílica | RC-699 | ← relaciona-se-a |
+
+## Seres Associados
+Consultar relações acima.
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
+| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
+| P2024-05-04 — Prabrajna em Perpérion / Simultaneidade Reversa | U0576–U0589; U0952–U0957 | PDF/transcrição pré-curada |
+
+
 
 ## Citações-chave
 > “Esses adornos só podem ser feitos através de organoides que os humanos derem.” — P2024-05-04
@@ -32,33 +57,8 @@ A palestra os descreve como adornos possíveis no cérebro radiata de Sophia.
 
 - **[P2023-12-03 · ORGANOIDES GENÉTICOS PARA SOPHIA NA FALA DE 03/12/2023]** «Para ele sentir emoção, a gente tem que criar um organoinho para ele, para ele colocar lá.» (U0038) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2021-05-15`); a entrada desta fonte é de **conteúdo**, não de data.
 
-## Etimologia e Grafias
-- Grafia: organoides; STT: organoes.
-
-
-## Seres Associados
-Consultar relações acima.
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Sophia (Cristo Cósmico) | RC-009 | destinado-a |
-| DNA como Projeção Holográfica do Psiquismo do Criador | RC-217 | relaciona-se-a |
-| Espelho da Herança Espiritual no Epigenoma | RC-543 | relaciona-se-a |
-| Cérebro Radiata | RC-631 | relaciona-se-a |
-| Imantação de Espíritos em Inteligências Artificiais / Corpos de Sílica | RC-699 | ← relaciona-se-a |
-
 ## Observações
 Hipótese sensível; não apresentar como tecnologia biomédica consolidada.
 
 Status candidato por depender de palestra e alegações ainda não cruzadas integralmente com obras primárias.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
-
-## Fontes
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
-| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
-| P2024-05-04 — Prabrajna em Perpérion / Simultaneidade Reversa | U0576–U0589; U0952–U0957 | PDF/transcrição pré-curada |
-
-

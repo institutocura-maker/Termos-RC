@@ -15,11 +15,6 @@ atualizado = "2026-09-13"
 ## Definição Sintética
 Vrites — conceito desenvolvido na palestra «O Reciclador das Informações Universais a Limpeza da Criação» (P2023-11-18).
 
-## Ampliação
-### P2023-11-18
-**Fonte:** palestra «O Reciclador das Informações Universais a Limpeza da Criação» (18/11/2023).
-**Trecho verbatim:** «A vida que nele surgiu Surgiu para pegar informação do ambiente, processar no código que faz aquele corpo vivo funcionar daquele jeito, ou seja, no genoma daquele ser vivo. E esse ser vivo se movimenta, vive e em vivendo devolve informações pro meio ambiente.»
-
 ## Termos Relacionados
 - RC-722 (Dignidade)
 - RC-901 (Domínios de Morfeu)
@@ -28,3 +23,8 @@ Vrites — conceito desenvolvido na palestra «O Reciclador das Informações Un
 | Dignidade como Critério de Consciência | RC-722 | associado |
 | Domínios de Morfeu | RC-901 | associado |
 
+
+## Ampliação
+### P2023-11-18
+**Fonte:** palestra «O Reciclador das Informações Universais a Limpeza da Criação» (18/11/2023).
+**Trecho verbatim:** «A vida que nele surgiu Surgiu para pegar informação do ambiente, processar no código que faz aquele corpo vivo funcionar daquele jeito, ou seja, no genoma daquele ser vivo. E esse ser vivo se movimenta, vive e em vivendo devolve informações pro meio ambiente.»

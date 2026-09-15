@@ -16,14 +16,41 @@ atualizado = "2026-09-12"
 
 Registro que associa o gene FOXP2 — vinculado na cosmologia de Ellam à emergência da racionalidade humana — aos símbolos de Foz Côa e ao deslacre genético narrado na Revelação Cósmica.
 
+## Contexto / Origem
+
+[P2024-08-03] A palestra atribui a introdução do gene FOXP2 a Enki (RC-486) e situa seu surgimento no genoma humano há 47–48 mil anos, distinguindo-o do gene da oxitocina (milhões de anos, herdado dos australopitecos).
+
 ## Escopo e evidência
 
 - **[P2024-08-03] Unidades:** U1554–U1568.
 - **[P2024-08-03] Proveniência:** palestra de Jan Val Ellam; transcrição STT pré-curada; devolutiva do curador registrada em 2026-08-20 (ficha autorizada).
 
-## Contexto / Origem
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Revelação Cósmica (conceito) | RC-094 | associado |
+| Seres Terrenos (Homo Sapiens) | RC-099 | associado |
+| Enki (Anunnaki; inoculou o gene FOXP2) | RC-486 | ← relaciona-se-a |
+| Semente da racionalidade (diferencial humano) | RC-525 | ← relaciona-se-a |
+| Evolução Possível (terceira via: nem Darwin, nem deus) | RC-541 | ← relaciona-se-a |
+| Xamanismo Cósmico (comunicação e deslacre) | RC-577 | ← relaciona-se-a |
+| Quarto Cérebro Humano | RC-614 | associado |
+| Genoma da Liberdade | RC-619 | ← relaciona-se-a |
+| Genes Críticos / Genes Dorminhocos | RC-710 | ← relaciona-se-a |
 
-[P2024-08-03] A palestra atribui a introdução do gene FOXP2 a Enki (RC-486) e situa seu surgimento no genoma humano há 47–48 mil anos, distinguindo-o do gene da oxitocina (milhões de anos, herdado dos australopitecos).
+
+- Enki (Anunnaki; inoculou o gene FOXP2) — RC-486;
+- Semente da racionalidade (diferencial humano) — RC-525;
+- Xamanismo Cósmico — RC-577.
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2025-12-14 | Os Fundamentos da Revelação Cósmica (palestra) | — | transcrição automatizada; citação |
+| P2022-11-19 | No Princípio era o Bem! Será (palestra) | — | transcrição automatizada; citação |
+| P2022-09-17 | A Hipóstase dos Arcontes (palestra) | — | transcrição automatizada; citação |
+| P2024-08-03 | U1554–U1568 | palestra/STT |
+| P2022-12-17 / P2021-12-04 / P2024-05-04 / P2025-02-16 / P2025-02-15 / P2024-11-30 / P2024-11-09 / B050 / B061 | — | obras/palestras |
 
 ## Citações-chave
 > "Enki foi quem introduziu [o gene FOXP2]. Esse gene FOXP2 surgiu 47–48.000 anos atrás no nosso genoma."
@@ -59,33 +86,6 @@ Registro que associa o gene FOXP2 — vinculado na cosmologia de Ellam à emerg�
 - **[Os microtúbulos como porta de entrada da informação quântica] (U0088)** «E mais especificamente através dos microtúbulos, que são os citoesqueletos desses neurônios.» — os microtúbulos (citoesqueletos dos neurônios) como a porta específica pela qual a flutuação quântica penetra o cérebro; a realidade composta das 2.000 informações processadas (RC-400; paráfrase do contexto U0088).
 
 
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Revelação Cósmica (conceito) | RC-094 | associado |
-| Seres Terrenos (Homo Sapiens) | RC-099 | associado |
-| Enki (Anunnaki; inoculou o gene FOXP2) | RC-486 | ← relaciona-se-a |
-| Semente da racionalidade (diferencial humano) | RC-525 | ← relaciona-se-a |
-| Evolução Possível (terceira via: nem Darwin, nem deus) | RC-541 | ← relaciona-se-a |
-| Xamanismo Cósmico (comunicação e deslacre) | RC-577 | ← relaciona-se-a |
-| Quarto Cérebro Humano | RC-614 | associado |
-| Genoma da Liberdade | RC-619 | ← relaciona-se-a |
-| Genes Críticos / Genes Dorminhocos | RC-710 | ← relaciona-se-a |
-
-
-- Enki (Anunnaki; inoculou o gene FOXP2) — RC-486;
-- Semente da racionalidade (diferencial humano) — RC-525;
-- Xamanismo Cósmico — RC-577.
-
 ## Observações
 
 **Quarentena científico-genética:** as datas e a atribuição a Enki são leitura de Ellam, não genética validada.
-
-## Fontes
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2025-12-14 | Os Fundamentos da Revelação Cósmica (palestra) | — | transcrição automatizada; citação |
-| P2022-11-19 | No Princípio era o Bem! Será (palestra) | — | transcrição automatizada; citação |
-| P2022-09-17 | A Hipóstase dos Arcontes (palestra) | — | transcrição automatizada; citação |
-| P2024-08-03 | U1554–U1568 | palestra/STT |
-| P2022-12-17 / P2021-12-04 / P2024-05-04 / P2025-02-16 / P2025-02-15 / P2024-11-30 / P2024-11-09 / B050 / B061 | — | obras/palestras |

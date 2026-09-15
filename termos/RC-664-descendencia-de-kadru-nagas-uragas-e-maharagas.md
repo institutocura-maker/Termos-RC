@@ -15,6 +15,28 @@ atualizado = "2026-08-15"
 ## Definição Sintética
 Grande linhagem atribuída a Kadru, reunindo Nagas, Uragas e Maharagas e suas ramificações em clãs, reinos, espécies protorracionais, tradições humanas e intervenções na história da Terra.
 
+## Etimologia e Grafias
+### Subtermos absorvidos
+
+### Nagas
+Seres serpentinos pensantes ou protorracionais, frequentemente descritos com combinações serpentinas e humanas. A fala atribui-lhes:
+
+- grande capacidade de organização;
+- trânsito entre universos e mundos;
+- formação de sábios e conselhos;
+- múltiplos clãs, reis, rainhas e imperadores;
+- influência em experiências humanas e genéticas;
+- proximidade maior com a racionalidade humana do que outras espécies protorracionais.
+
+### Uragas
+Linhagens reptilianas primordiais, distintas dos Nagas, mas ligadas à mesma descendência de Kadru. A fala distingue Uragas do universo antimaterial de seres reptilianos biológicos posteriores.
+
+### Maharagas
+Linhagem ou classe superior entre os Uragas. Formas STT: `maroragas`, `marroragas`. A Base preserva **Maharagas** como forma canônica.
+
+### Reino Naga/Uraga
+Absorvido nesta ficha por decisão do curador. É apresentado como primeiro reino organizado de seres protorracionais a atravessar os portais, estabelecer-se na Terra e manter atuação em diferentes épocas.
+
 ## Contexto / Origem
 A entrada foi criada em `P2025-06-26` e ampliada maciçamente após a devolutiva oficial de `P2025-02-16`.
 
@@ -26,6 +48,65 @@ Na genealogia da palestra:
 4. Daksha e Virini geram filhas ligadas às linhagens de Kashyapa;
 5. Kadru participa da geração de Nagas e Uragas;
 6. entre os Uragas surge a linhagem superior chamada Maharagas.
+
+### Eventos e atuações atribuídos
+
+- passagem do universo vizinho para a Terra;
+- estabelecimento de reinos e clãs;
+- proteção/financiamento de Pandora e experiências de Epimeteu;
+- influência sobre Eva e a Serpente do Éden;
+- proteção de Noreia;
+- ligação com Patanjali/Ananta;
+- participação indireta na origem do Yoga;
+- proteção de Siddhartha Gautama por Muchalinda;
+- estímulo atribuído ao uso xamânico de plantas e moléculas complexas;
+- participação na Mão Invisível Multiforme;
+- disputa pelo destino do DNA humano e do Oitavo Dia.
+
+### Kadru na Terra
+A palestra conserva duas formulações:
+
+- Kadru teria sido **exilada** para a Terra;
+- Kadru teria **vindo/encarnado** entre humanos.
+
+Seus descendentes teriam atravessado os portais para procurá-la. As duas possibilidades permanecem abertas.
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Pandora como Serpente do Éden | RC-283 | influencia |
+| Tirthankaras (Rishabh Dev, Jina Mahavira) | RC-397 | relaciona-se-a |
+| Xamanismo Cósmico (comunicação e deslacre) | RC-577 | relaciona-se-a |
+| Xamanismo Cósmico (comunicação e deslacre) | RC-577 | ← relaciona-se-a |
+| Áurea Catena | RC-663 | relaciona-se-a |
+| Som da Flauta / Som da Falta | RC-668 | relaciona-se-a |
+| Som da Flauta / Som da Falta | RC-668 | ← relaciona-se-a |
+| Yoga Ancestral (Origem Cósmica) | RC-670 | relaciona-se-a |
+| Yoga Ancestral (Origem Cósmica) | RC-670 | ← relaciona-se-a |
+| Farmacopeia Ancestral Extraterrestre | RC-687 | relaciona-se-a |
+| Farmacopeia Ancestral Extraterrestre | RC-687 | ← relaciona-se-a |
+| Yajna (ritual de sacrifício/fogo) | RC-688 | relaciona-se-a |
+| Geração Regenerada de Brahma | RC-696 | ← relaciona-se-a |
+| Geração Regenerada de Brahma | RC-696 | parte-de |
+| Mão Invisível Multiforme / Conselho das Nagas | RC-697 | ← inclui |
+| Mão Invisível Multiforme / Conselho das Nagas | RC-697 | atua-por |
+| Mão Invisível Multiforme / Conselho das Nagas | RC-697 | ← relaciona-se-a |
+| Mão Invisível Multiforme / Conselho das Nagas | RC-697 | relaciona-se-a |
+| Cessão Consciente do DNA Humano | RC-698 | ← relaciona-se-a |
+| Kashyapa | RC-700 | ← gera-linhagem-de |
+| Kashyapa | RC-700 | descende-de |
+| Kashyapa | RC-700 | ← relaciona-se-a |
+| Kashyapa | RC-700 | relaciona-se-a |
+| Daksha e Virini | RC-701 | ← gera-linhagem-de |
+| Daksha e Virini | RC-701 | descende-de |
+| Daksha e Virini | RC-701 | ← relaciona-se-a |
+| Kami (Projeto Japonês) | RC-740 | ← relaciona-se-a |
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2025-06-26 | ver dossiê da 1ª Edição dos Estagiários do Kaos | live/STT |
+| P2025-02-16 | U0509–U0610; U0645–U0705; U0752–U0803 | aula/palestra STT |
 
 ## Citações-chave
 > “Kadru, com a sua genética, criou dois tipos de seres: Nagas e Uragas.”
@@ -59,37 +140,6 @@ Na genealogia da palestra:
 - **[P2025-02-22 · O CONSELHO MAHORAGA E MUCALINDA]** "existe um conselho chamado MAHORAGA, que são os maiores entre Nagas e Uragas, que formam um conselho muito distinto que comanda basicamente [tudo]"; **MUCALINDA**: "essa mucalinda, além de árvore, ERA UM PORTAL, dizem os jainistas. E esse portal, O REI SERPENTE MUCALINDA É QUE TOMAVA CONTA... quando isso ia acontecendo [a iluminação], DOIS DEMÔNIOS ENVIADOS PELA TRIMURTI — MARA, O DEUS DA MORTE... E CAMA, O DEUS DO DESEJO... UMA SUPER SERPENTE SAI DA ÁRVORE, DÁ SETE VOLTAS NO CORPO DA ÁRVORE JUNTO NO CORPO DE SIDARTA GAUTAMA, EXPULSA OS DOIS SERES, ENTRA EM GUERRA COM OS DOIS DEMÔNIOS para deixarem o espaço neutro para o humano decidir. E depois que ele consegue expulsar os dois demos, AÍ SIDARTA GAUTAMA ATINGE O NIRVANA. AÍ ESSA COBRA SE RECOLHE MORRENDO DE FELICIDADE E COMUNICA AO REINADO DOS NAGAS E URAGAS: 'CONSEGUIMOS! O FILHO DO HUMANO CONSEGUIU. OS HUMANOS SÃO AGORA O QUE QUISEREM E PUDEREM SER'" [⚠️⚠️⚠️ o épico serpentino da iluminação do Buda].
 - 0 códigos novos (O-3). Quarentena: ufológica (os portais; os anunnakis "com trajes de escafandro" — rotulada).
 
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Pandora como Serpente do Éden | RC-283 | influencia |
-| Tirthankaras (Rishabh Dev, Jina Mahavira) | RC-397 | relaciona-se-a |
-| Xamanismo Cósmico (comunicação e deslacre) | RC-577 | relaciona-se-a |
-| Xamanismo Cósmico (comunicação e deslacre) | RC-577 | ← relaciona-se-a |
-| Áurea Catena | RC-663 | relaciona-se-a |
-| Som da Flauta / Som da Falta | RC-668 | relaciona-se-a |
-| Som da Flauta / Som da Falta | RC-668 | ← relaciona-se-a |
-| Yoga Ancestral (Origem Cósmica) | RC-670 | relaciona-se-a |
-| Yoga Ancestral (Origem Cósmica) | RC-670 | ← relaciona-se-a |
-| Farmacopeia Ancestral Extraterrestre | RC-687 | relaciona-se-a |
-| Farmacopeia Ancestral Extraterrestre | RC-687 | ← relaciona-se-a |
-| Yajna (ritual de sacrifício/fogo) | RC-688 | relaciona-se-a |
-| Geração Regenerada de Brahma | RC-696 | ← relaciona-se-a |
-| Geração Regenerada de Brahma | RC-696 | parte-de |
-| Mão Invisível Multiforme / Conselho das Nagas | RC-697 | ← inclui |
-| Mão Invisível Multiforme / Conselho das Nagas | RC-697 | atua-por |
-| Mão Invisível Multiforme / Conselho das Nagas | RC-697 | ← relaciona-se-a |
-| Mão Invisível Multiforme / Conselho das Nagas | RC-697 | relaciona-se-a |
-| Cessão Consciente do DNA Humano | RC-698 | ← relaciona-se-a |
-| Kashyapa | RC-700 | ← gera-linhagem-de |
-| Kashyapa | RC-700 | descende-de |
-| Kashyapa | RC-700 | ← relaciona-se-a |
-| Kashyapa | RC-700 | relaciona-se-a |
-| Daksha e Virini | RC-701 | ← gera-linhagem-de |
-| Daksha e Virini | RC-701 | descende-de |
-| Daksha e Virini | RC-701 | ← relaciona-se-a |
-| Kami (Projeto Japonês) | RC-740 | ← relaciona-se-a |
-
 ## Observações
 - Tradições hindu, budista, jainista e iconográfica reconhecem Nagas em sentidos próprios; isso não valida automaticamente a ontologia física da palestra.
 - Imagens serpentinas em experiências com enteógenos não comprovam contato objetivo com Nagas.
@@ -100,56 +150,7 @@ Na genealogia da palestra:
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-664.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** os 2 trechos entre aspas desta ficha **não** resistem à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Nenhum deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
 
-## Fontes
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2025-06-26 | ver dossiê da 1ª Edição dos Estagiários do Kaos | live/STT |
-| P2025-02-16 | U0509–U0610; U0645–U0705; U0752–U0803 | aula/palestra STT |
-
-## Subtermos absorvidos
-
-### Nagas
-Seres serpentinos pensantes ou protorracionais, frequentemente descritos com combinações serpentinas e humanas. A fala atribui-lhes:
-
-- grande capacidade de organização;
-- trânsito entre universos e mundos;
-- formação de sábios e conselhos;
-- múltiplos clãs, reis, rainhas e imperadores;
-- influência em experiências humanas e genéticas;
-- proximidade maior com a racionalidade humana do que outras espécies protorracionais.
-
-### Uragas
-Linhagens reptilianas primordiais, distintas dos Nagas, mas ligadas à mesma descendência de Kadru. A fala distingue Uragas do universo antimaterial de seres reptilianos biológicos posteriores.
-
-### Maharagas
-Linhagem ou classe superior entre os Uragas. Formas STT: `maroragas`, `marroragas`. A Base preserva **Maharagas** como forma canônica.
-
-### Reino Naga/Uraga
-Absorvido nesta ficha por decisão do curador. É apresentado como primeiro reino organizado de seres protorracionais a atravessar os portais, estabelecer-se na Terra e manter atuação em diferentes épocas.
-
-## Eventos e atuações atribuídos
-
-- passagem do universo vizinho para a Terra;
-- estabelecimento de reinos e clãs;
-- proteção/financiamento de Pandora e experiências de Epimeteu;
-- influência sobre Eva e a Serpente do Éden;
-- proteção de Noreia;
-- ligação com Patanjali/Ananta;
-- participação indireta na origem do Yoga;
-- proteção de Siddhartha Gautama por Muchalinda;
-- estímulo atribuído ao uso xamânico de plantas e moléculas complexas;
-- participação na Mão Invisível Multiforme;
-- disputa pelo destino do DNA humano e do Oitavo Dia.
-
-## Kadru na Terra
-A palestra conserva duas formulações:
-
-- Kadru teria sido **exilada** para a Terra;
-- Kadru teria **vindo/encarnado** entre humanos.
-
-Seus descendentes teriam atravessado os portais para procurá-la. As duas possibilidades permanecem abertas.
-
-## Itens travados em revisão
+### Itens travados em revisão
 
 ### Kadru × Satyabhama
 A forma STT `Satia` é provavelmente Satyabhama, esposa de Krishna. A identidade Kadru–Satyabhama não está validada e **não foi incorporada como relação canônica**.

@@ -16,6 +16,36 @@ atualizado = "2026-09-13"
 
 A promessa da volta de Jesus (Segunda Vinda) — na leitura da RC, ligada à profecia de Enoque e à vinda de Hochmah/Sophia (Malkuth) como suzerano.
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Reintegração Cósmica | RC-003 | inicia |
+| Sophia (Cristo Cósmico) | RC-009 | ← relaciona-se-a |
+| Sophia (Cristo Cósmico) | RC-009 | relaciona-se-a |
+| Isolamento Cósmico | RC-070 | ← termina-com |
+| Jesus | RC-072 | associado |
+| O Grande Dia do Senhor Javé | RC-212 | associado |
+| Coreografia Cósmica (vinda de Sophia) | RC-258 | associado |
+| Cápsula do Tempo de Sophia (João) | RC-274 | ← associado-a |
+| Arte Demodhármica do Possível | RC-275 | associado |
+| Transição Planetária | RC-344 | associado |
+| A Segunda Grande Vinda | RC-352 | ← variação |
+| A Missão do Mestre | RC-364 | associado |
+| Hochmah (2ª Sefirah — Sabedoria; = Sophia) | RC-565 | relaciona-se-a |
+| Urdidura de Metatron | RC-674 | relaciona-se-a |
+| Apocalipse (livro de João, ditado por Sofia/Rockman) | RC-854 | associado |
+| Saulo de Tarso / Paulo (criador do 'Jesus Cristo') | RC-856 | associado |
+| Messias | RC-942 | associado |
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2023-12-25-02 | Aula 02 — Os Anos de Pregação e a Promessa do Retorno (palestra) | — | transcrição automatizada; citação |
+| P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |
+
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-005.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
+
 ## Ampliação
 ### P2025-05-31
 
@@ -188,33 +218,3 @@ A promessa da volta de Jesus (Segunda Vinda) — na leitura da RC, ligada à pro
 - **«Retorno»**
 - O título da própria aula 02 («…e a Promessa do Retorno») e o verbatim da apostila ecoam o **Segundo Advento** — o prometido retorno na condição do Cristo Cósmico.
 
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Reintegração Cósmica | RC-003 | inicia |
-| Sophia (Cristo Cósmico) | RC-009 | ← relaciona-se-a |
-| Sophia (Cristo Cósmico) | RC-009 | relaciona-se-a |
-| Isolamento Cósmico | RC-070 | ← termina-com |
-| Jesus | RC-072 | associado |
-| O Grande Dia do Senhor Javé | RC-212 | associado |
-| Coreografia Cósmica (vinda de Sophia) | RC-258 | associado |
-| Cápsula do Tempo de Sophia (João) | RC-274 | ← associado-a |
-| Arte Demodhármica do Possível | RC-275 | associado |
-| Transição Planetária | RC-344 | associado |
-| A Segunda Grande Vinda | RC-352 | ← variação |
-| A Missão do Mestre | RC-364 | associado |
-| Hochmah (2ª Sefirah — Sabedoria; = Sophia) | RC-565 | relaciona-se-a |
-| Urdidura de Metatron | RC-674 | relaciona-se-a |
-| Apocalipse (livro de João, ditado por Sofia/Rockman) | RC-854 | associado |
-| Saulo de Tarso / Paulo (criador do 'Jesus Cristo') | RC-856 | associado |
-| Messias | RC-942 | associado |
-
-## Fontes
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2023-12-25-02 | Aula 02 — Os Anos de Pregação e a Promessa do Retorno (palestra) | — | transcrição automatizada; citação |
-| P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |
-
-
-> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-005.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

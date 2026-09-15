@@ -16,6 +16,46 @@ atualizado = "2026-09-12"
 
 Sétimo patriarca bíblico, levado por Javé — na RC, figura-chave da intercessão pelos Anunnakis (RC-673) e dos 366 manuscritos (RC-672).
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Linhagem dos Escolhidos (Adão, Enoch, Abraão, Jacó) | RC-424 | associado |
+| Hermes Trismegisto (= Ningishzidda/Thoth/Quetzalcóatl) | RC-463 | ← relaciona-se-a |
+| Classes de anjos de Arabot-Ráquia (ofanim, serafins, galgaulim, chashmalim) | RC-485 | relaciona-se-a |
+| Caim (leitura RC: segundo a nascer) | RC-490 | associado |
+| Arabot-Ráquia (ambiente de Javé; = Araboth) | RC-495 | associado |
+| Linhagem de Seth | RC-594 | ← relaciona-se-a |
+| Metatron | RC-671 | ← variação-posterior-de |
+| Metatron | RC-671 | relaciona-se-a |
+| Os 366 Manuscritos de Enoque | RC-672 | ← escrito-por |
+| Os 366 Manuscritos de Enoque | RC-672 | relaciona-se-a |
+| Os 366 Manuscritos de Enoque | RC-672 | ← relaciona-se-a |
+| Os 366 Manuscritos de Enoque | RC-672 | relaciona-se-a |
+| Intercessão de Enoque pelos Anunnaki | RC-673 | relaciona-se-a |
+| Culto a Lilith (Transformação em Deusa Lil Babilônica) | RC-813 | associado |
+| Pacto Aesir-Vanir como Origem Nórdica da Ideia de Pandora | RC-816 | associado |
+
+## Fontes
+
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2025-12-14 | Os Fundamentos da Revelação Cósmica (palestra) | — | transcrição automatizada; citação |
+| P2022-07-16 | Do Ramayana ao Mahabharata (palestra) | — | transcrição automatizada; citação |
+| P2022-10-01 | A Wyrd e a Espiritualidade (palestra) | — | transcrição automatizada; citação |
+| P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
+| P2018-12-16 | Terra Atlantis - Era Sapiens (palestra) | — | transcrição automatizada; citação |
+| P2017-10-14 | Da Base Atlan ao Colégio Druídico (palestra) | — | transcrição automatizada; citação |
+| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
+| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
+| P2023-12-02 | bloco final (Thot e anjos de Javé/Adão/Enoque) | palestra/STT pré-curada |
+
+
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |
+
 ## Citações-chave
 
 > "Além disso, conviveu e trabalhou com os anjos de Javé... com o Adão bíblico, com Enoque." — P2023-12-02 (sobre Thot)
@@ -132,43 +172,3 @@ Sétimo patriarca bíblico, levado por Javé — na RC, figura-chave da interces
 - **Thot trabalhou com Enoque:** "além disso, conviveu e trabalhou com os anjos de Javé. Eu vou falar um pouco disso amanhã, com o Adão bíblico, com Enoque" — Thot (RC-463) ao lado de anjos de Javé, Adão e Enoque (nova aresta RC-463 ↔ RC-489);
 - Contexto: a palestra de amanhã (03/12/2023 — Rebelião de Lúcifer) retomaria essas relações.
 
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Linhagem dos Escolhidos (Adão, Enoch, Abraão, Jacó) | RC-424 | associado |
-| Hermes Trismegisto (= Ningishzidda/Thoth/Quetzalcóatl) | RC-463 | ← relaciona-se-a |
-| Classes de anjos de Arabot-Ráquia (ofanim, serafins, galgaulim, chashmalim) | RC-485 | relaciona-se-a |
-| Caim (leitura RC: segundo a nascer) | RC-490 | associado |
-| Arabot-Ráquia (ambiente de Javé; = Araboth) | RC-495 | associado |
-| Linhagem de Seth | RC-594 | ← relaciona-se-a |
-| Metatron | RC-671 | ← variação-posterior-de |
-| Metatron | RC-671 | relaciona-se-a |
-| Os 366 Manuscritos de Enoque | RC-672 | ← escrito-por |
-| Os 366 Manuscritos de Enoque | RC-672 | relaciona-se-a |
-| Os 366 Manuscritos de Enoque | RC-672 | ← relaciona-se-a |
-| Os 366 Manuscritos de Enoque | RC-672 | relaciona-se-a |
-| Intercessão de Enoque pelos Anunnaki | RC-673 | relaciona-se-a |
-| Culto a Lilith (Transformação em Deusa Lil Babilônica) | RC-813 | associado |
-| Pacto Aesir-Vanir como Origem Nórdica da Ideia de Pandora | RC-816 | associado |
-
-## Fontes
-
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2025-12-14 | Os Fundamentos da Revelação Cósmica (palestra) | — | transcrição automatizada; citação |
-| P2022-07-16 | Do Ramayana ao Mahabharata (palestra) | — | transcrição automatizada; citação |
-| P2022-10-01 | A Wyrd e a Espiritualidade (palestra) | — | transcrição automatizada; citação |
-| P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
-| P2018-12-16 | Terra Atlantis - Era Sapiens (palestra) | — | transcrição automatizada; citação |
-| P2017-10-14 | Da Base Atlan ao Colégio Druídico (palestra) | — | transcrição automatizada; citação |
-| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
-| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
-| P2023-12-02 | bloco final (Thot e anjos de Javé/Adão/Enoque) | palestra/STT pré-curada |
-
-
-
-## Fontes
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |

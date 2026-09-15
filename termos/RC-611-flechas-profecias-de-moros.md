@@ -15,8 +15,40 @@ atualizado = "2026-08-18"
 ## Definição Sintética
 Avisos atribuídos a Moros, destinados a serem revividos quando a revelação psíquica, espiritual e cósmica permitisse recontar a história universal.
 
+## Etimologia e Grafias
+- Grafia preferida: Flechas de Moros. Variação: Profecias de Moros.
+- **Fonte de decisão:** Quadro 9 aprovado pelo curador.
+
+
 ## Contexto / Origem
 A palestra os apresenta como face emblemática da estratégia dos Seres LM/Quarto Logos.
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Quarto Logos (Olm / Codificador de Zian) | RC-092 | envolve |
+| Revelação Cósmica (conceito) | RC-094 | relaciona-se-a |
+| Cápsula do Tempo de Sophia (João) | RC-274 | relaciona-se-a |
+| Ragnarok em Marte | RC-395 | ← relaciona-se-a |
+| Ragnarok em Marte | RC-395 | relaciona-se-a |
+| Kvasir e Freya (Vanir/Aesir) | RC-396 | associado |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | proferida-por |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | originada-em |
+| Nova Espiritualidade / Novo Paraíso (Paraíso B) | RC-612 | relaciona-se-a |
+| Áurea Catena | RC-663 | ← relaciona-se-a |
+| Arquivos do Destino Universal | RC-714 | ← transportado-por |
+| Arquivos do Destino Universal | RC-714 | transporta |
+| Cumprimento da Profecia de Moros pela Revelação Cósmica | RC-718 | ← cumpre |
+| Momento Zero de Pandora | RC-779 | associado |
+| Desígnios Proféticos (profecia como instrumento de domínio e sua desconexão) | RC-858 | associado |
+
+## Seres Associados
+Consultar as relações tipadas acima.
+
+## Fontes
+| Obra/palestra | Localização | Tipo |
+|---|---|---|
+| P2021-12-04 — Os Archeons de Ereon e os Seres Adhy | U0443–U0447 | STT pré-curado e validado |
 
 ## Citações-chave
 > “As flechas de Moros, as profecias de Moros [...] um aviso deixado para se compreender no futuro.” — P2021-12-04, U0443–U0447
@@ -69,39 +101,7 @@ Edimburgo, Split e Naimisharanya permanecem localizações atribuídas à palest
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-611.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
 
-## Etimologia e Grafias
-- Grafia preferida: Flechas de Moros. Variação: Profecias de Moros.
-- **Fonte de decisão:** Quadro 9 aprovado pelo curador.
-
-
-## Seres Associados
-Consultar as relações tipadas acima.
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Quarto Logos (Olm / Codificador de Zian) | RC-092 | envolve |
-| Revelação Cósmica (conceito) | RC-094 | relaciona-se-a |
-| Cápsula do Tempo de Sophia (João) | RC-274 | relaciona-se-a |
-| Ragnarok em Marte | RC-395 | ← relaciona-se-a |
-| Ragnarok em Marte | RC-395 | relaciona-se-a |
-| Kvasir e Freya (Vanir/Aesir) | RC-396 | associado |
-| Elm (Moros — ser LM de Tempérion) | RC-454 | proferida-por |
-| Elm (Moros — ser LM de Tempérion) | RC-454 | originada-em |
-| Nova Espiritualidade / Novo Paraíso (Paraíso B) | RC-612 | relaciona-se-a |
-| Áurea Catena | RC-663 | ← relaciona-se-a |
-| Arquivos do Destino Universal | RC-714 | ← transportado-por |
-| Arquivos do Destino Universal | RC-714 | transporta |
-| Cumprimento da Profecia de Moros pela Revelação Cósmica | RC-718 | ← cumpre |
-| Momento Zero de Pandora | RC-779 | associado |
-| Desígnios Proféticos (profecia como instrumento de domínio e sua desconexão) | RC-858 | associado |
-
 ## Observações
 Relacionar a Elm/Moros e ao Quarto Logos.
 
 **Regra de status:** permanece candidato por depender de transcrição automatizada sem áudio anexado.
-
-## Fontes
-| Obra/palestra | Localização | Tipo |
-|---|---|---|
-| P2021-12-04 — Os Archeons de Ereon e os Seres Adhy | U0443–U0447 | STT pré-curado e validado |

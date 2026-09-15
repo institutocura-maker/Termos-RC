@@ -15,8 +15,51 @@ atualizado = "2026-08-14"
 ## Definição Sintética
 Estirpe de seres apresentada como criada por agentes do universo antimaterial e empregada em ataques vampíricos a mamíferos através dos portais.
 
+## Etimologia e Grafias
+- Grafia preferida: Rakshasas. Singular: Rakshasa. STT: racchaças, rakchaças, raquchaças.
+- **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
+
+
+### Absorção de RC-872 — F045 · 10/09/2026
+
+O código **RC-872** («Rakchasas (estirpe dos sugadores de sangue)», fonte única P2022-07-16) era
+variante transliterada (ch × sh) deste ente: "estirpe programada no DNA para sugar o sangue
+dos mamíferos" — a mesma definição ("criados para chupar sangue de mamíferos"; "criados como
+vampiros"). Fontes e referências unificadas aqui (6 fontes; RC-322/RC-102/RC-414 incorporados).
+Remissiva em RC-872. Despacho do Curador, 10/09/2026 (caso Rxaça = Rakshasa).
+
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-581.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
 ## Contexto / Origem
 A palestra relaciona os Rakshasas aos sacrifícios, ao sangue de mamíferos e ao surgimento de Ravana como ser de grande poder.
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Shiva (Savna) | RC-102 | associado |
+| Trimurti | RC-104 | relaciona-se-a |
+| Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | relaciona-se-a |
+| Dharma e Castas (origem demo) | RC-322 | associado |
+| Krishna (avatar de Vishnu/Shiva) | RC-414 | associado |
+| Parasitismo energético (obsessão ampliada) | RC-522 | relaciona-se-a |
+| Vampirismo consciencial | RC-523 | relaciona-se-a |
+| Ravana | RC-582 | inclui |
+| Ravana | RC-582 | ← é-um |
+| Ravana | RC-582 | ← relaciona-se-a |
+| Ravana | RC-582 | relaciona-se-a |
+| Yajna (ritual de sacrifício/fogo) | RC-688 | relaciona-se-a |
+| Kashyapa | RC-700 | ← gera-linhagem-de |
+| Rakshasas | RC-872 | associado |
+
+## Seres Associados
+Ravana (RC-582)
+
+## Fontes
+| Obra/palestra | Localização | Tipo |
+|---|---|---|
+| P2022-12-17 — O Incompreendido Ano de 2012 e a Falsa Noção do Fim do Mundo | U0730–U0741 | transcrição automatizada; paráfrase e citação |
 
 ## Citações-chave
 > ““Os Rakshasas foram criados como vampiros para passarem pelos portais e atacar os mamíferos.”” — P2022-12-17, U0730–U0741
@@ -52,32 +95,6 @@ A palestra relaciona os Rakshasas aos sacrifícios, ao sangue de mamíferos e ao
 - **[P2023-04-30 · A MOTIVAÇÃO]** o mistério dos mamíferos que cuidam uns dos outros (o zelo que o sangue amarelado de plasma não tem — a curiosidade que motivou a engenharia; ver a ampliação P2025-02-16).
 - 0 códigos novos (O-3). Quarentena: científica (o sangue), ufológica (os portais).
 
-## Etimologia e Grafias
-- Grafia preferida: Rakshasas. Singular: Rakshasa. STT: racchaças, rakchaças, raquchaças.
-- **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
-
-
-## Seres Associados
-Ravana (RC-582)
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Shiva (Savna) | RC-102 | associado |
-| Trimurti | RC-104 | relaciona-se-a |
-| Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | relaciona-se-a |
-| Dharma e Castas (origem demo) | RC-322 | associado |
-| Krishna (avatar de Vishnu/Shiva) | RC-414 | associado |
-| Parasitismo energético (obsessão ampliada) | RC-522 | relaciona-se-a |
-| Vampirismo consciencial | RC-523 | relaciona-se-a |
-| Ravana | RC-582 | inclui |
-| Ravana | RC-582 | ← é-um |
-| Ravana | RC-582 | ← relaciona-se-a |
-| Ravana | RC-582 | relaciona-se-a |
-| Yajna (ritual de sacrifício/fogo) | RC-688 | relaciona-se-a |
-| Kashyapa | RC-700 | ← gera-linhagem-de |
-| Rakshasas | RC-872 | associado |
-
 ## Observações
 A transliteração Rakshasas foi aprovada pelo curador.
 
@@ -88,20 +105,3 @@ A transliteração Rakshasas foi aprovada pelo curador.
 
 ### Remissiva C6 (despacho 2.6 — 12/09/2026)
 Homônimo no cadastro: **RC-872** — Rakshasas (verificado). O par RC-872 é entrada verificada mais enxuta; despacho 2.6 decidiu NÃO fundir — cada dossiê segue próprio.
-
-## Fontes
-| Obra/palestra | Localização | Tipo |
-|---|---|---|
-| P2022-12-17 — O Incompreendido Ano de 2012 e a Falsa Noção do Fim do Mundo | U0730–U0741 | transcrição automatizada; paráfrase e citação |
-
-## Absorção de RC-872 — F045 · 10/09/2026
-
-O código **RC-872** («Rakchasas (estirpe dos sugadores de sangue)», fonte única P2022-07-16) era
-variante transliterada (ch × sh) deste ente: "estirpe programada no DNA para sugar o sangue
-dos mamíferos" — a mesma definição ("criados para chupar sangue de mamíferos"; "criados como
-vampiros"). Fontes e referências unificadas aqui (6 fontes; RC-322/RC-102/RC-414 incorporados).
-Remissiva em RC-872. Despacho do Curador, 10/09/2026 (caso Rxaça = Rakshasa).
-
-
-> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-581.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

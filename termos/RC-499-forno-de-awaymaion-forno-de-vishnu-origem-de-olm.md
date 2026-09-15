@@ -15,9 +15,41 @@ atualizado = "2026-09-12"
 ## Definição Sintética
 Forno replicador de vida do **Projeto Talm** (RC-091) sob o controle de **Vishnu** (Terceiro Logos). Descrito como "nave ou estação gigantesca" em formato de **charuto gigante**, localizada na Via Láctea. Responsável pela emergência do gênero existencial **biodemo** (RC-036) — seres **radiata** (RC-093) mais racionalizados, frios e lógicos, com poucas emoções. Dele surgiram **Sophia** (RC-009) e outros avatares de Vishnu; o **Quarto Logos Olm** (RC-092) surgiu "a partir" do forno e depois apareceu na nave **Asphezian** (RC-025) no Sistema de Capela.
 
+## Etimologia e Grafias
+- Grafia preferida: Awaymaion. STT: "Alamaior"/"Almaior" (RC-500 — erro de STT, remissão para cá).
+
 ## Contexto / Origem
 - Candidato ⚪ desde a mineração de B061 (sem ficha física);
 - **promovido a 🟡 com ficha física** pela Devolutiva ART-2025-08-01 (O-2/O-4): o STT "forno de **Alamaior**" (P2021-12-04, U0621) foi confirmado como corrupção fonética de **Awaymaion** — o contexto da fala ("produzir espécies... os biodemos") bate exatamente com a função do forno de Vishnu.
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Sophia (Cristo Cósmico) | RC-009 | relaciona-se-a |
+| Biodemos | RC-036 | produz |
+| Quarto Logos (Olm / Codificador de Zian) | RC-092 | ← origem-em |
+| Radiatas | RC-093 | produz |
+| Shamb-Aha | RC-101 | ← manifesta-se-em |
+| ADHYMAVATANA (nome completo de Mavatna/Vishnu) | RC-408 | relaciona-se-a |
+| Almaior / Alamaior — erro histórico de STT (ver Forno de Awaymaion RC-499) | RC-500 | ← erro-stt-de |
+| Fornos Replicadores (naves/estações de semeadura de vida do Projeto Talm; Awayen, Awaylengan e Awaymaion) | RC-771 | ← inclui |
+| Forno de Awayen (forno de Brahma/Javé → Central de Realidades) | RC-836 | associado |
+| Forno de Awaylengan (forno de Shiva — o primeiro a funcionar) | RC-837 | associado |
+
+## Seres Associados
+Vishnu (RC-408/135), Sophia (RC-009), Olm (RC-092), Mohen So (RC-081), Val Tam (RC-132 — via RC-771).
+
+## Fontes
+| Obra/palestra | Localização | Tipo |
+|---|---|---|
+| P2022-05-07 | Shiva, o Projeto Talm e os Mistérios de Awaylengam (palestra) | — | transcrição automatizada; citação |
+| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
+| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
+| ART-2025-08-01 — Fornos Replicadores (Edson Cella Mendes) | Parte III (integral) | material do curador |
+| P2021-12-04 — Os Archeons de Ereon e os Seres Adhy | U0621 (STT 'Alamaior') | STT pré-curado |
+| Fontes anteriores da Base | B061 | apoio/remissão |
+
+
 
 ## Citações-chave
 > "Produzir espécies através do forno de Awaymaion [STT 'Alamaior'], os biodemos." — P2021-12-04, U0621 (resolução confirmada pelo ART-2025-08-01)
@@ -62,41 +94,9 @@ Forno replicador de vida do **Projeto Talm** (RC-091) sob o controle de **Vishnu
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-499.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
 
-## Etimologia e Grafias
-- Grafia preferida: Awaymaion. STT: "Alamaior"/"Almaior" (RC-500 — erro de STT, remissão para cá).
-
-## Seres Associados
-Vishnu (RC-408/135), Sophia (RC-009), Olm (RC-092), Mohen So (RC-081), Val Tam (RC-132 — via RC-771).
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Sophia (Cristo Cósmico) | RC-009 | relaciona-se-a |
-| Biodemos | RC-036 | produz |
-| Quarto Logos (Olm / Codificador de Zian) | RC-092 | ← origem-em |
-| Radiatas | RC-093 | produz |
-| Shamb-Aha | RC-101 | ← manifesta-se-em |
-| ADHYMAVATANA (nome completo de Mavatna/Vishnu) | RC-408 | relaciona-se-a |
-| Almaior / Alamaior — erro histórico de STT (ver Forno de Awaymaion RC-499) | RC-500 | ← erro-stt-de |
-| Fornos Replicadores (naves/estações de semeadura de vida do Projeto Talm; Awayen, Awaylengan e Awaymaion) | RC-771 | ← inclui |
-| Forno de Awayen (forno de Brahma/Javé → Central de Realidades) | RC-836 | associado |
-| Forno de Awaylengan (forno de Shiva — o primeiro a funcionar) | RC-837 | associado |
-
 ## Observações
 - **Natureza da fonte:** ART-2025-08-01 é material do curador baseado em Ellam (não primário); confirmado por 2 fontes independentes (B061/P2021-12-04 + ART);
 - **Quarentenas:** taxonomia radiata/bilatério = leitura da RC; data do cérebro bilatério [REVISAR — B050 → CHANCELA 2026-09-05 · F037-L1: TENSÃO INSOLÚVEL —].
 
 **Regra de status:** 🟡 provisório — promovido por Devolutiva ART-2025-08-01; aguarda confirmação em fonte primária para definitivo.
-
-
-## Fontes
-| Obra/palestra | Localização | Tipo |
-|---|---|---|
-| P2022-05-07 | Shiva, o Projeto Talm e os Mistérios de Awaylengam (palestra) | — | transcrição automatizada; citação |
-| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
-| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
-| ART-2025-08-01 — Fornos Replicadores (Edson Cella Mendes) | Parte III (integral) | material do curador |
-| P2021-12-04 — Os Archeons de Ereon e os Seres Adhy | U0621 (STT 'Alamaior') | STT pré-curado |
-| Fontes anteriores da Base | B061 | apoio/remissão |
-
 

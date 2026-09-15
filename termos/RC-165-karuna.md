@@ -19,6 +19,25 @@ atualizado = "2026-08-21"
 - Termo já existia na tabela-mestra (mineração B061; sem ficha física);
 - **ficha materializada** por autorização da Devolutiva Trilogia TALM (O-7): "a Consciência Karuna ganhou peso narrativo suficiente no desfecho da trilogia como a 'resposta silenciosa'".
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Fenvans | RC-064 | relaciona-se-a |
+| Lila | RC-075 | associado |
+| Mensagem Talm | RC-080 | relaciona-se-a |
+| Agentes da Vida Universal | RC-148 | associado |
+| Xadrez Cósmico | RC-150 | associado |
+| Nova Espiritualidade / Novo Paraíso (Paraíso B) | RC-612 | relaciona-se-a |
+| Oxitocina (hormônio do bem — base bioquímica da Karuna) | RC-839 | associado |
+| Kleśas (cinco entraves mentais ao progresso humano) | RC-840 | associado |
+
+## Fontes
+| Obra/palestra | Localização | Tipo |
+|---|---|---|
+| P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
+| ART-2025-08-03 — Dossiê Fenvans (Edson Cella Mendes) | Parte III, Cap. 7 | material do curador |
+| Fontes anteriores da Base | B061 | apoio/remissão |
+
 ## Citações-chave
 > "A resposta silenciosa: como a Consciência Karuna e o 'novo eu' de Javé podem redimi-los indiretamente." — ART-2025-08-03, Cap. 7
 
@@ -39,27 +58,8 @@ atualizado = "2026-08-21"
 
 - **[Karuna — a construção psíquica mais avançada] (U0006)** «Então, caruna é a construção psíquica mais avançada que nós humanos podemos construir em nós mesmos, no sentido emocional, no sentido psíquico, não no sentido intelectual.» — Karuna (compaixão) como o ápice da construção psíquica humana; surgiu com o cérebro límbico dos mamíferos.
 
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Fenvans | RC-064 | relaciona-se-a |
-| Lila | RC-075 | associado |
-| Mensagem Talm | RC-080 | relaciona-se-a |
-| Agentes da Vida Universal | RC-148 | associado |
-| Xadrez Cósmico | RC-150 | associado |
-| Nova Espiritualidade / Novo Paraíso (Paraíso B) | RC-612 | relaciona-se-a |
-| Oxitocina (hormônio do bem — base bioquímica da Karuna) | RC-839 | associado |
-| Kleśas (cinco entraves mentais ao progresso humano) | RC-840 | associado |
-
 ## Observações
 - Karuna (compaixão) — raiz sânscrita; reapropriação da RC (não é budismo acadêmico);
 - QUARENTENA CLÍNICA: "DNA lixo 95–97%", "religar o DNA" — leitura do autor, jamais dado validado;
 - Ficha materializada por Devolutiva O-7 (Trilogia TALM).
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
-
-## Fontes
-| Obra/palestra | Localização | Tipo |
-|---|---|---|
-| P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
-| ART-2025-08-03 — Dossiê Fenvans (Edson Cella Mendes) | Parte III, Cap. 7 | material do curador |
-| Fontes anteriores da Base | B061 | apoio/remissão |

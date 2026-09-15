@@ -16,6 +16,27 @@ atualizado = "2026-08-28"
 
 Na RC, metáfora do **sistema colmeico de comando** — o modelo em que um comando central ("abelha rainha") dirige uma colônia de operários. Associada a Javé (RC-001) e ao Modelo Colmeia (RC-176).
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Javé | RC-001 | variação |
+| Elohim | RC-004 | ← relaciona-se-a |
+| Sophia (Cristo Cósmico) | RC-009 | ← relaciona-se-a |
+| Colmeia Universal | RC-174 | associado |
+| Modelo Colmeia (Sistema/Controle Colmeia) | RC-176 | relaciona-se-a |
+| Relógio Messiânico | RC-765 | relaciona-se-a |
+
+## Fontes
+
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2018-12-15 | Terra Atlantis – Aprofundamento (palestra) | — | transcrição automatizada; citação |
+| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
+| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra/STT) | citação verbatim; paráfrase |
+| P2021-03-27 | bloco 9 (relógio messiânico — Sofia abelha rainha) | palestra/STT pré-curada |
+
+
+
 ## Citações-chave
 
 > "A Sofia é a abelha rainha, ou seja, é o velho sistema colmeico que funciona entre eles." — P2021-03-27
@@ -61,29 +82,8 @@ Na RC, metáfora do **sistema colmeico de comando** — o modelo em que um coman
 - Reforça o modelo colmeico como estrutura de comando de Javé (contraste com os Sethianos Emancipados, RC-766).
 
 
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | variação |
-| Elohim | RC-004 | ← relaciona-se-a |
-| Sophia (Cristo Cósmico) | RC-009 | ← relaciona-se-a |
-| Colmeia Universal | RC-174 | associado |
-| Modelo Colmeia (Sistema/Controle Colmeia) | RC-176 | relaciona-se-a |
-| Relógio Messiânico | RC-765 | relaciona-se-a |
-
 ## Observações
 
 Metáfora de comando — **leitura do autor**, não zoologia social validada.
 
 ---
-
-## Fontes
-
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2018-12-15 | Terra Atlantis – Aprofundamento (palestra) | — | transcrição automatizada; citação |
-| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
-| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra/STT) | citação verbatim; paráfrase |
-| P2021-03-27 | bloco 9 (relógio messiânico — Sofia abelha rainha) | palestra/STT pré-curada |
-
-

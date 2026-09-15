@@ -15,8 +15,30 @@ atualizado = "2026-08-15"
 ## Definição Sintética
 Autofagia do Criador — condição de Brahma recém-reconstruído alimentando-se de si mesmo.
 
+## Etimologia e Grafias
+Forma validada pelo curador.
+
 ## Contexto / Origem
 P2026-02-28.
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Javé | RC-001 | condição-de |
+| Demência do Criador (fases da condição de Javé) | RC-526 | associado |
+| Simultaneidade Reversa | RC-628 | associado |
+| Face Microbiana do Criador | RC-641 | associado |
+
+## Seres Associados
+Consultar Base.
+
+## Fontes
+P2026-02-28.
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |
 
 ## Citações-chave
 Ver transcrição.
@@ -29,27 +51,5 @@ Ver transcrição.
 - **[Vício em jogo — artimanha de Vishnu e Shiva para manter Brama ativo]:** «Vocês sabem qual a artimanha que eles dois [Vishnu e Shiva] usaram para manter Brama o tempo todo ativo? Provocar nele desafios através de apostas. O vício em jogo vem dos deuses, porque era a forma de manter todo mundo acordado e tentar fixar um dos padrões de metamorfose durante aquele jogo.» — ver RC-001 (Javé), RC-135 (Vishnu), RC-102 (Shiva).
 
 
-## Etimologia e Grafias
-Forma validada pelo curador.
-
-## Seres Associados
-Consultar Base.
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | condição-de |
-| Demência do Criador (fases da condição de Javé) | RC-526 | associado |
-| Simultaneidade Reversa | RC-628 | associado |
-| Face Microbiana do Criador | RC-641 | associado |
-
 ## Observações
 Termo candidato.
-
-## Fontes
-P2026-02-28.
-
-## Fontes
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |

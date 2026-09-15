@@ -15,8 +15,35 @@ atualizado = "2026-08-14"
 ## Definição Sintética
 Hipótese de que a memória dos antielétrons do universo antimaterial em colapso migra para a memória dos elétrons do universo biológico.
 
+## Etimologia e Grafias
+- Grafia: Transferência da Memória dos Antielétrons.
+
+
 ## Contexto / Origem
 A transferência concentraria a informação dos dois universos nos elétrons restantes.
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | origem-em |
+| Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | transfere-para |
+| Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | origem-em |
+| Universo Material (Bhuloka) | RC-107 | transfere-para |
+| Universo Material (Bhuloka) | RC-107 | descreve-transferência-de |
+| Memória Quântica dos Elétrons | RC-161 | transfere-para |
+| Memória Quântica dos Elétrons | RC-161 | ← relaciona-se-a |
+| Duas Pulsações da Criação (elétrons e antielétrons) | RC-636 | relaciona-se-a |
+| Colapso do Caos Organizado | RC-690 | ← envolve |
+| Colapso do Caos Organizado | RC-690 | ← envolve |
+| Invasão Ancestral do Genoma e do Psiquismo Humanos | RC-732 | associado |
+
+## Seres Associados
+Consultar relações acima.
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2024-05-04 — Prabrajna em Perpérion / Simultaneidade Reversa | U0944–U0951 | PDF/transcrição pré-curada |
 
 ## Citações-chave
 > “A memória deles toda [...] já está vindo para a memória dos elétrons.” — P2024-05-04
@@ -38,34 +65,7 @@ A palestra afirma que a memória dos antielétrons do universo antimaterial em c
 
 **Fonte:** P2025-03-15, U0803–U0815 e U0851–U0858 — cosmologia atribuída ao palestrante; fonte incompleta.
 
-## Etimologia e Grafias
-- Grafia: Transferência da Memória dos Antielétrons.
-
-
-## Seres Associados
-Consultar relações acima.
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | origem-em |
-| Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | transfere-para |
-| Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | origem-em |
-| Universo Material (Bhuloka) | RC-107 | transfere-para |
-| Universo Material (Bhuloka) | RC-107 | descreve-transferência-de |
-| Memória Quântica dos Elétrons | RC-161 | transfere-para |
-| Memória Quântica dos Elétrons | RC-161 | ← relaciona-se-a |
-| Duas Pulsações da Criação (elétrons e antielétrons) | RC-636 | relaciona-se-a |
-| Colapso do Caos Organizado | RC-690 | ← envolve |
-| Colapso do Caos Organizado | RC-690 | ← envolve |
-| Invasão Ancestral do Genoma e do Psiquismo Humanos | RC-732 | associado |
-
 ## Observações
 Atribuição obrigatória à palestra.
 
 Status candidato por depender de palestra e alegações ainda não cruzadas integralmente com obras primárias.
-
-## Fontes
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2024-05-04 — Prabrajna em Perpérion / Simultaneidade Reversa | U0944–U0951 | PDF/transcrição pré-curada |

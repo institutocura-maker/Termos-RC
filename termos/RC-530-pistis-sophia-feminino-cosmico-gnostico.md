@@ -16,6 +16,27 @@ atualizado = "2026-08-29"
 
 Epíteto gnóstico do ser criador na sua condição paradisíaca, **antes da queda**: na leitura da RC, Pistis Sophia = o ser que a base registra como Prabrajna (RC-152); depois da queda, o mesmo ser se reconstruiu como o "monstro" Ialdabaoth/Javé (RC-482). Não é nome próprio — é "um tipo de Sofia".
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Sophia (Cristo Cósmico) | RC-009 | relaciona-se-a |
+| Prabrajna | RC-152 | relaciona-se-a |
+| Prabrajna | RC-152 | ← relaciona-se-a |
+| Prabrajna | RC-152 | relaciona-se-a |
+| Ialdabaoth (= Javé/Samael/Saklas/Sabaoth) | RC-482 | associado |
+| Barbelo (Mãe-Pai primordial gnóstica) | RC-483 | relaciona-se-a |
+| Dinastia das Sophias | RC-494 | associado |
+| Hochmah (2ª Sefirah — Sabedoria; = Sophia) | RC-565 | associado |
+| Buraco Negro Mental / Consciencial | RC-717 | ← relaciona-se-a |
+| Hipóstase dos Arcontes (livro gnóstico; 'realidade dos regentes') | RC-770 | ← relaciona-se-a |
+| Nag Hammadi (a biblioteca egípcia onde em 1945 foi encontrada a cópia copta da Hipóstase dos Arcontes — STT «Naghama»; marco físico e histórico da recuperação da revelação gnóstica original) | RC-887 | ← relaciona-se-a |
+| Nag Hammadi (a biblioteca egípcia onde em 1945 foi encontrada a cópia copta da Hipóstase dos Arcontes — STT «Naghama»; marco físico e histórico da recuperação da revelação gnóstica original) | RC-887 | relaciona-se-a |
+| Elelev / Eleleth (o grande anjo da revelação gnóstica que respondeu à busca de Noreia, indicando a incorruptibilidade Sofia/Pistes no interior dos domínios ilimitados) | RC-888 | ← relaciona-se-a |
+| Elelev / Eleleth (o grande anjo da revelação gnóstica que respondeu à busca de Noreia, indicando a incorruptibilidade Sofia/Pistes no interior dos domínios ilimitados) | RC-888 | relaciona-se-a |
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-530.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
+
+
 ## Citações-chave
 > "Cristo/Christ → **KRISHNA** (a troca sistemática no trecho final do Q&A — corrigida contextualmente) · Chiva/Chiv/Chilo → **SHIVA** · Virgno/Virgem/Vno/Víg/VNE → **VISHNU** · prabrágina/probragen/para Brágena → **PARA BRAJNA** (a pessoa 2!) · mavatna/uma vátima/Mavátimma/Ovatna → **MAHAVATMA** (a pessoa 3!) · Morrençor/Morrenson/Morus/Moro Zed → **MOROS** · protogonos/protagonos → **PROTOGONOS** · funis/Fanis/Fan → **PHANES** (o modelo!) · Rockma/HMA/Shockma → **CHOKMAH/Hochmah** · Kter/Queter/Caté → **KETER** · Biná → **BINAH** · Jah/Jahé/Jahvo/Jahima → **JAVÉ** · tikum/ticum → **TIKUN** · projeto Talmer → **PROJETO TALM** · Danny Krueger → **DUNNING-KRUGER** · Elan Mosque → **ELON MUSK** · Dartagalama → **SIDDHARTA GAUTAMA** · Pist Sofia → **PISTIS SOPHIA** · Nix ebo → **NYX E ÉREBO** · Anank → **ANANKE** · horlogue → **ORLOG** · Parachara → **PARASHARA** · gravidianos → **DRAVIDIANOS** · Monte Python → **MONTY PYTHON** · Oscar Wild → **OSCAR WILDE** · povo → **POLVO** · cefalópate/eucefalópate → **CEFALÓPODE/EUCEFALÓPODE** · charfurdar → **chafurdar** · brama loca/buloca → **BRAHMA-LOKA/BHU-LOKA** [REVISAR] · rakas/RX → **RAKSHASAS** · rabarata → **MAHABHARATA** · Viaza/Viaja → **VYASA** · "o zist da condição humana" → **ZEITGEIST** [REVISAR] · adibuta/adyuta → **ADIBUTA** [REVISAR — a expressão da transferência]." — P2023-04-15
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
@@ -55,25 +76,4 @@ Na Hipóstase dos Arcontes (RC-770): "Javé é Pistis Sophia... caída. Mas ante
 ### P2022-11-19 (No Princípio era o Bem! Será)
 
 - **[O Mentalma como ferramenta de auto-observação] (U0057)** «Mas o mentalma que eu criei foi para eu não fazer isso, para eu não me repetir nunca.» — o Mentalma (livro/ferramenta de Ellam) como instrumento para o humano perceber suas idiotices e provocar mutações no próprio DNA; a auto-observação como via de mudança epigenética (RC-530; RC-562).
-
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Sophia (Cristo Cósmico) | RC-009 | relaciona-se-a |
-| Prabrajna | RC-152 | relaciona-se-a |
-| Prabrajna | RC-152 | ← relaciona-se-a |
-| Prabrajna | RC-152 | relaciona-se-a |
-| Ialdabaoth (= Javé/Samael/Saklas/Sabaoth) | RC-482 | associado |
-| Barbelo (Mãe-Pai primordial gnóstica) | RC-483 | relaciona-se-a |
-| Dinastia das Sophias | RC-494 | associado |
-| Hochmah (2ª Sefirah — Sabedoria; = Sophia) | RC-565 | associado |
-| Buraco Negro Mental / Consciencial | RC-717 | ← relaciona-se-a |
-| Hipóstase dos Arcontes (livro gnóstico; 'realidade dos regentes') | RC-770 | ← relaciona-se-a |
-| Nag Hammadi (a biblioteca egípcia onde em 1945 foi encontrada a cópia copta da Hipóstase dos Arcontes — STT «Naghama»; marco físico e histórico da recuperação da revelação gnóstica original) | RC-887 | ← relaciona-se-a |
-| Nag Hammadi (a biblioteca egípcia onde em 1945 foi encontrada a cópia copta da Hipóstase dos Arcontes — STT «Naghama»; marco físico e histórico da recuperação da revelação gnóstica original) | RC-887 | relaciona-se-a |
-| Elelev / Eleleth (o grande anjo da revelação gnóstica que respondeu à busca de Noreia, indicando a incorruptibilidade Sofia/Pistes no interior dos domínios ilimitados) | RC-888 | ← relaciona-se-a |
-| Elelev / Eleleth (o grande anjo da revelação gnóstica que respondeu à busca de Noreia, indicando a incorruptibilidade Sofia/Pistes no interior dos domínios ilimitados) | RC-888 | relaciona-se-a |
-
-> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-530.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
 

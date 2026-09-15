@@ -15,8 +15,39 @@ atualizado = "2026-08-15"
 ## Definição Sintética
 Fórmula doutrinária da palestra segundo a qual o que se pensa é criado, o que se sente é atraído e aquilo que se aspira modifica o genoma e orienta a autotransformação.
 
+### Escopo rigoroso
+
+- não é lei científica;
+- não é citação textual do Buda validada neste projeto;
+- não comprova cura genética, levitação ou caminhada sobre água;
+- registra a formulação doutrinária usada por Ellam.
+
+
 ## Contexto / Origem
 A lei é vinculada ao diálogo interior, aos RNA mensageiros, à prática mental, ao campo akáshico e à capacidade de o eu enviar novas informações durante a recomposição da realidade.
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Protocolo Mental (padrões organizadores da mente) | RC-517 | usa |
+| Disciplina dos 3As (respiração, mente, alinhamento) | RC-552 | usa |
+| Travas e lacres (mecanismos de controle do despertar) | RC-563 | ← relaciona-se-a |
+| Moksha | RC-618 | relaciona-se-a |
+| Genoma da Liberdade | RC-619 | atua-em |
+| Gestão da Sensação Pessoal | RC-633 | orienta |
+| Ishvara (Isuara — Retrato de Prabrajna Antes da Queda) | RC-691 | ← relaciona-se-a |
+| Ciência Pessoal / Doutrina da Própria Personalidade | RC-695 | orienta |
+| Postulados Quânticos como Manual Operativo | RC-703 | ← relaciona-se-a |
+| Postulados Quânticos como Manual Operativo | RC-703 | relaciona-se-a |
+| Humano Turbinado | RC-709 | ← relaciona-se-a |
+| Genes Críticos / Genes Dorminhocos | RC-710 | ← relaciona-se-a |
+| Genes Críticos / Genes Dorminhocos | RC-710 | relaciona-se-a |
+| Taumaturgia Genético-Química | RC-713 | ← distingue-se-de |
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2025-02-15 | U0830–U0883 | aula/palestra STT |
 
 ## Citações-chave
 > “O que você pensa, você cria; o que você sente, você atrai; aquilo que aspira, o seu genoma se modifica.”
@@ -39,40 +70,9 @@ A lei é vinculada ao diálogo interior, aos RNA mensageiros, à prática mental
 - **Diálogo interior (Mentalma):** "no Mentalma a gente fala da importância do diálogo constante interior: usar o seu discurso para dizer às suas células o que você quer ser".
 - **Transtorno cognitivo × religião:** "transtorno cognitivo é quando você acredita em algo que não é verdade, mas que lhe é agradável... Os ateus dizem: quando uma pessoa sozinha fica fazendo maluquice, a gente diz que fulano tá delirando. Quando várias deliram juntas, o nome disso é religião" [quarentena — leitura do autor].
 
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Protocolo Mental (padrões organizadores da mente) | RC-517 | usa |
-| Disciplina dos 3As (respiração, mente, alinhamento) | RC-552 | usa |
-| Travas e lacres (mecanismos de controle do despertar) | RC-563 | ← relaciona-se-a |
-| Moksha | RC-618 | relaciona-se-a |
-| Genoma da Liberdade | RC-619 | atua-em |
-| Gestão da Sensação Pessoal | RC-633 | orienta |
-| Ishvara (Isuara — Retrato de Prabrajna Antes da Queda) | RC-691 | ← relaciona-se-a |
-| Ciência Pessoal / Doutrina da Própria Personalidade | RC-695 | orienta |
-| Postulados Quânticos como Manual Operativo | RC-703 | ← relaciona-se-a |
-| Postulados Quânticos como Manual Operativo | RC-703 | relaciona-se-a |
-| Humano Turbinado | RC-709 | ← relaciona-se-a |
-| Genes Críticos / Genes Dorminhocos | RC-710 | ← relaciona-se-a |
-| Genes Críticos / Genes Dorminhocos | RC-710 | relaciona-se-a |
-| Taumaturgia Genético-Química | RC-713 | ← distingue-se-de |
-
 ## Observações
 Preservar a atribuição “Lei da Mente do Buda” como nome usado na palestra, sem validar autoria histórica budista.
 
 
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-712.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
-
-## Fontes
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2025-02-15 | U0830–U0883 | aula/palestra STT |
-
-## Escopo rigoroso
-
-- não é lei científica;
-- não é citação textual do Buda validada neste projeto;
-- não comprova cura genética, levitação ou caminhada sobre água;
-- registra a formulação doutrinária usada por Ellam.
-

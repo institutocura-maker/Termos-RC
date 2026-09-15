@@ -28,11 +28,6 @@ Com isso:
 
 **Origem do conteúdo da ampliação:** palestra `P2018-12-15 — Terra Atlantis – Aprofundamento` (15/12/2018). Transcrição automatizada, **não conferida com o áudio**; cada aspa foi recortada do `original.txt` pelo índice de âncoras do motor e conferida byte a byte pelo portão B. Nada foi digitado de memória.
 
-## Ampliação
-### P2018-12-15 (Terra Atlantis – Aprofundamento)
-
-- **[a nave esfera camuflada de ilha] (U0003)** «Porque hoje a única nave que sobrou das diversas que chegaram aqui na Terra vindas do Advento da rebelião de Lúcia.» — Terra Atlantis (RC-010): a única nave que sobrou da rebelião de Lúcifer camuflada como ilha — origem dos mitos do paraíso, da idade de ouro e dos campos elísios.
-
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
@@ -53,7 +48,13 @@ Com isso:
 |---|---|---|---|
 | P2018-12-15 | Terra Atlantis – Aprofundamento (palestra) | — | transcrição automatizada; citação |
 
-## Observações sobre o Estado da Malha
+## Ampliação
+### P2018-12-15 (Terra Atlantis – Aprofundamento)
+
+- **[a nave esfera camuflada de ilha] (U0003)** «Porque hoje a única nave que sobrou das diversas que chegaram aqui na Terra vindas do Advento da rebelião de Lúcia.» — Terra Atlantis (RC-010): a única nave que sobrou da rebelião de Lúcifer camuflada como ilha — origem dos mitos do paraíso, da idade de ouro e dos campos elísios.
+
+## Observações
+### Observações sobre o Estado da Malha
 
 * **Grafia STT:** 'a única nave que sobrou' / 'está camuflada como se fosse uma ilha' = Terra Atlantis. A nave esfera disfarçada de ilha/paraíso terrestre.
 * **Trava aplicável**: nenhuma além das gerais do despacho.

@@ -21,6 +21,28 @@ Na cosmologia comparada de Jan Val Ellam, Midgard é associado primeiro a Marte,
 A palestra descreve Marte como o nono mundo material conectado a oito locas do universo vizinho. Após o Ragnarok, o eixo de contato teria sido deslocado para a Terra. O par “Marte + Terra” registra essa transferência funcional, não uma identidade astronômica entre os planetas.
 
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Universo Material (Bhuloka) | RC-107 | localiza-se-em |
+| Terra de Ninguém (cósmica) | RC-358 | associado |
+| Ragnarok em Marte | RC-395 | relaciona-se-a |
+| Ragnarok em Marte | RC-395 | ← ocorre-no-eixo-de |
+| Ragnarok em Marte | RC-395 | ← relaciona-se-a |
+| Bifrost (Portal interdimensional) | RC-471 | relaciona-se-a |
+| Yggdrasil / Conglomerado dos Nove Mundos | RC-730 | ← inclui |
+| Yggdrasil / Conglomerado dos Nove Mundos | RC-730 | integra |
+| Axis Mundi / Axismund | RC-731 | ← ancora |
+
+## Fontes
+
+| Fonte | Localização | Tipo |
+|---|---|---|
+| B060 | correspondência anterior | fonte publicada |
+| P2025-02-16 | Axis Mundi e Marte/Terra | palestra/STT |
+| P2024-11-30 | Ragnarok e arquivos | palestra/STT |
+| P2024-11-02 | U0172–U0208; U0260–U0302; U0618–U0630 | palestra/STT pré-curada |
+
 ## Citações-chave
 > "Só quando essa Bifrost era estabelecida, seres dessas comunidades podiam viajar de uma para outra, inclusive vir para a Terra. É isso que a mitologia nórdica descreve. Eles iam para a Terra — mas assim, eles iam para Marte. A mitologia nórdica fala Midgard. Aí a gente joga a Terra como sendo Midgard, mas na época era Marte. Por quê? Porque Marte era o Axis Mundi. Isso acabou. O Axis Mundi passou a ser Naimisha, na Índia." — P2025-02-16
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
@@ -47,28 +69,6 @@ A palestra descreve Marte como o nono mundo material conectado a oito locas do u
 - **[P2024-08-03] AE-FD06 — U0375–U0388; U0400–U0404:** Acrescenta Ragnarok como destruição do conglomerado de nove mundos, com Marte/Midgard e portais, somente na interpretação cosmológica de Ellam. Qualquer apoio em John Brandenburg ou hipótese marciana permanece controverso.
 
 
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Universo Material (Bhuloka) | RC-107 | localiza-se-em |
-| Terra de Ninguém (cósmica) | RC-358 | associado |
-| Ragnarok em Marte | RC-395 | relaciona-se-a |
-| Ragnarok em Marte | RC-395 | ← ocorre-no-eixo-de |
-| Ragnarok em Marte | RC-395 | ← relaciona-se-a |
-| Bifrost (Portal interdimensional) | RC-471 | relaciona-se-a |
-| Yggdrasil / Conglomerado dos Nove Mundos | RC-730 | ← inclui |
-| Yggdrasil / Conglomerado dos Nove Mundos | RC-730 | integra |
-| Axis Mundi / Axismund | RC-731 | ← ancora |
-
 ## Observações
 
 A identificação de Midgard com Marte/Terra e a transferência de um eixo cósmico são **Teologia Comparada de Ellam**, não astronomia, arqueologia ou interpretação consensual da mitologia nórdica. Alegações de guerra nuclear marciana ou destruição artificial de Marte não são tratadas como fatos demonstrados.
-
-## Fontes
-
-| Fonte | Localização | Tipo |
-|---|---|---|
-| B060 | correspondência anterior | fonte publicada |
-| P2025-02-16 | Axis Mundi e Marte/Terra | palestra/STT |
-| P2024-11-30 | Ragnarok e arquivos | palestra/STT |
-| P2024-11-02 | U0172–U0208; U0260–U0302; U0618–U0630 | palestra/STT pré-curada |

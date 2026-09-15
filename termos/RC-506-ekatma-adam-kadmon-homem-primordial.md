@@ -16,6 +16,21 @@ atualizado = "2026-09-12"
 
 Na RC, o **Homem Primordial cósmico** (Adam Kadmon) — distinto do Adão bíblico da Terra; protótipo associado aos "demos hesitantes" e ao processo pré-criação.
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Adhyatman | RC-013 | associado |
+| Planos de Existência da Cabala (Atziluth, Briah, Yetzirah, Assiah) | RC-264 | associado |
+| A Raça Inabalável dos Sethianos Emancipados | RC-766 | relaciona-se-a |
+
+## Fontes
+
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
+| P2024-09-28 | pergunta Rogério/Maria Helena (demos hesitantes; Adão Cadmon) | palestra/STT pré-curada |
+
+
 ## Citações-chave
 
 > "Aquilo que no futuro viria ser o primeiro protótipo de um Adão Cadmon, que não tem nada a ver com o Adão aqui da Terra, foi um Adão cósmico." — P2024-09-28
@@ -45,13 +60,6 @@ Na RC, o **Homem Primordial cósmico** (Adam Kadmon) — distinto do Adão bíbl
 - Contexto: o autor declara não ter ainda elementos para aprofundar a relação (pergunta de Maria Helena sobre o campo morfogenético da humanidade).
 
 
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Adhyatman | RC-013 | associado |
-| Planos de Existência da Cabala (Atziluth, Briah, Yetzirah, Assiah) | RC-264 | associado |
-| A Raça Inabalável dos Sethianos Emancipados | RC-766 | relaciona-se-a |
-
 ## Observações
 
 Menção breve na palestra (resposta à plateia). A relação com “demos hesitantes” permanece `[REVISAR → CHANCELA 10/09/2026 · F039-L5: AGUARDA-ÁUDIO (sem ontologia até verificação) — ver nota]` — sem ontologia até verificação do áudio.
@@ -59,11 +67,3 @@ Menção breve na palestra (resposta à plateia). A relação com “demos hesit
 
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-506.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** os 2 trechos entre aspas desta ficha **não** resistem à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Todos deixam vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
-
-## Fontes
-
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
-| P2024-09-28 | pergunta Rogério/Maria Helena (demos hesitantes; Adão Cadmon) | palestra/STT pré-curada |
-

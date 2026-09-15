@@ -16,14 +16,27 @@ atualizado = "2026-08-29"
 
 [P2024-08-03] Na cosmologia de Jan Val Ellam, estado de colapso em que criadores, suas descendências e mecanismos de gestão deixam de resolver sofrimento e continuidade das criaturas, motivando novas tentativas de ovo e código-fonte.
 
+## Etimologia e Grafias
+### Glossário interno
+
+- **[P2024-08-03]** TC-FD06: a fonte menciona Orlog/ovo nórdico e termina em “teia chamada [frase truncada]”. A lacuna não foi preenchida com Wyrd/Urd nem com qualquer outro nome.
+
+## Contexto / Origem
+
+[P2024-08-03] O conceito reúne o diagnóstico de falência aplicado à Trimurti, o recurso ao Samudra Manthana e a repetição do colapso na narrativa do Ragnarok. Não é um juízo histórico sobre religiões.
+
 ## Escopo e evidência
 
 - **[P2024-08-03] Unidades:** U0184; U0324–U0405.
 - **[P2024-08-03] Proveniência:** palestra de Jan Val Ellam; transcrição STT pré-curada; devolutiva oficial do curador registrada em 2026-08-16.
 
-## Contexto / Origem
-
-[P2024-08-03] O conceito reúne o diagnóstico de falência aplicado à Trimurti, o recurso ao Samudra Manthana e a repetição do colapso na narrativa do Ragnarok. Não é um juízo histórico sobre religiões.
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| CFD (Código Fonte Definidor) | RC-040 | é-falência-de |
+| Ragnarok em Marte | RC-395 | reaparece-como-destruição-em |
+| Fatiamento de Consciência | RC-604 | resulta-de |
+| Samudra Manthana / Batimento do Oceano de Leite | RC-734 | motiva-recurso-a |
 
 ## Ampliação
 ### P2024-07-14
@@ -82,18 +95,7 @@ atualizado = "2026-08-29"
 
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-742.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
 
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| CFD (Código Fonte Definidor) | RC-040 | é-falência-de |
-| Ragnarok em Marte | RC-395 | reaparece-como-destruição-em |
-| Fatiamento de Consciência | RC-604 | resulta-de |
-| Samudra Manthana / Batimento do Oceano de Leite | RC-734 | motiva-recurso-a |
-
-## Glossário interno
-
-- **[P2024-08-03]** TC-FD06: a fonte menciona Orlog/ovo nórdico e termina em “teia chamada [frase truncada]”. A lacuna não foi preenchida com Wyrd/Urd nem com qualquer outro nome.
-
-## Cautela editorial
+## Observações
+### Cautela editorial
 
 [P2024-08-03] Códigos, genética e ovos cósmicos são linguagem da cosmologia de Ellam. Não constituem genética, física, história das religiões ou ciência validada.

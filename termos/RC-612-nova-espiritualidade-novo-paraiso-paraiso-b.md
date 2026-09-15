@@ -15,8 +15,45 @@ atualizado = "2026-08-18"
 ## Definição Sintética
 Reorganização futura dos níveis espirituais que não seria mero retorno aos padrões antigos, mas integração do aprendizado produzido no caos e na experiência humana.
 
+## Etimologia e Grafias
+- Grafia preferida: Nova Espiritualidade / Novo Paraíso. Termo composto aprovado inicialmente.
+- **Fonte de decisão:** Quadro 9 aprovado pelo curador.
+
+
 ## Contexto / Origem
 É vinculada à estratégia de Tempérion, ao Quarto Logos, Sophia, Reintegração e emancipação humana.
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Reintegração Cósmica | RC-003 | relaciona-se-a |
+| Sophia (Cristo Cósmico) | RC-009 | envolve |
+| Quarto Logos (Olm / Codificador de Zian) | RC-092 | envolve |
+| Karuna | RC-165 | associado |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | relaciona-se-a |
+| Tempérion (Archeon de Ereon; setor dos seres LM) | RC-472 | relaciona-se-a |
+| Ressonância límbica (emoções como tecnologia cósmica) | RC-529 | ← relaciona-se-a |
+| Ressonância límbica (emoções como tecnologia cósmica) | RC-529 | ← relaciona-se-a |
+| Ressonância límbica (emoções como tecnologia cósmica) | RC-529 | relaciona-se-a |
+| Imponderabilidade (campo de estudo dos Seres LM) | RC-608 | ← orienta |
+| Flechas / Profecias de Moros | RC-611 | associado |
+| Trincheira Vibratória no Campo Informativo | RC-613 | ← relaciona-se-a |
+| Trincheira Vibratória no Campo Informativo | RC-613 | ← base-de |
+| Roseral do Alto | RC-616 | ← relaciona-se-a |
+| Inquisição Espiritual (obra anunciada) | RC-617 | ← tema-de |
+| Conclave da Espiritualidade Laboratorial | RC-635 | ← relaciona-se-a |
+| Humano Turbinado | RC-709 | associado |
+| Três Faíscas da Consciência Humana | RC-719 | associado |
+| Colegiados Espirituais Humanizados | RC-745 | associado |
+| As Cinco Lentes da Realidade | RC-761 | associado |
+
+## Seres Associados
+Consultar as relações tipadas acima.
+
+## Fontes
+| Obra/palestra | Localização | Tipo |
+|---|---|---|
+| P2021-12-04 — Os Archeons de Ereon e os Seres Adhy | U0459–U0467; U0484–U0533; U0604–U0632 | STT pré-curado e validado |
 
 ## Citações-chave
 > “Um novo Paraíso é necessário, uma nova Espiritualidade é necessária.” — P2021-12-04, U0459–U0467; U0484–U0533; U0604–U0632
@@ -81,46 +118,9 @@ A ressonância límbica leva consciências que já não precisariam encarnar a r
 
 ---
 
-## Etimologia e Grafias
-- Grafia preferida: Nova Espiritualidade / Novo Paraíso. Termo composto aprovado inicialmente.
-- **Fonte de decisão:** Quadro 9 aprovado pelo curador.
-
-
-## Seres Associados
-Consultar as relações tipadas acima.
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Reintegração Cósmica | RC-003 | relaciona-se-a |
-| Sophia (Cristo Cósmico) | RC-009 | envolve |
-| Quarto Logos (Olm / Codificador de Zian) | RC-092 | envolve |
-| Karuna | RC-165 | associado |
-| Elm (Moros — ser LM de Tempérion) | RC-454 | relaciona-se-a |
-| Tempérion (Archeon de Ereon; setor dos seres LM) | RC-472 | relaciona-se-a |
-| Ressonância límbica (emoções como tecnologia cósmica) | RC-529 | ← relaciona-se-a |
-| Ressonância límbica (emoções como tecnologia cósmica) | RC-529 | ← relaciona-se-a |
-| Ressonância límbica (emoções como tecnologia cósmica) | RC-529 | relaciona-se-a |
-| Imponderabilidade (campo de estudo dos Seres LM) | RC-608 | ← orienta |
-| Flechas / Profecias de Moros | RC-611 | associado |
-| Trincheira Vibratória no Campo Informativo | RC-613 | ← relaciona-se-a |
-| Trincheira Vibratória no Campo Informativo | RC-613 | ← base-de |
-| Roseral do Alto | RC-616 | ← relaciona-se-a |
-| Inquisição Espiritual (obra anunciada) | RC-617 | ← tema-de |
-| Conclave da Espiritualidade Laboratorial | RC-635 | ← relaciona-se-a |
-| Humano Turbinado | RC-709 | associado |
-| Três Faíscas da Consciência Humana | RC-719 | associado |
-| Colegiados Espirituais Humanizados | RC-745 | associado |
-| As Cinco Lentes da Realidade | RC-761 | associado |
-
 ## Observações
 Conceito ainda em elaboração; status candidato.
 
 **Regra de status:** permanece candidato por depender de transcrição automatizada sem áudio anexado.
 
 ---
-
-## Fontes
-| Obra/palestra | Localização | Tipo |
-|---|---|---|
-| P2021-12-04 — Os Archeons de Ereon e os Seres Adhy | U0459–U0467; U0484–U0533; U0604–U0632 | STT pré-curado e validado |

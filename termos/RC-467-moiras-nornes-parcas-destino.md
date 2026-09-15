@@ -16,6 +16,54 @@ atualizado = "2026-09-05"
 
 As fiandeiras do destino na mitologia grega (Moiras), nórdica (Nornes) e romana (Parcas) — na leitura da RC, ligadas ao processador da teia do destino (Wyrd/Urd, RC-658).
 
+## Contexto / Origem
+### Súdices — F032 aplicação (05/09/2026, C-ii)
+
+- **[P2024-11-30 · A TERCEIRA DENOMINAÇÃO, NA FONTE]** «Moros pegou 25% das informações vivas da sua inteligência, criou um ser. 25% criou outro, 25% criou outro e ficou com ele só com 25%. Esses três seres na mitologia grega são chamados de moiras. Na mitologia nórdica são chamadas de nornas ou nornes. Na mitologia são chamado de Súdices.» — a tríade de nomes entra no lema e na ficha; **a própria fonte trunca o idioma** («Na mitologia são chamado de…» — o qualificador caiu no STT): o «sânscrita» que o doc F032 completou **não é adotado como fato**, registrado apenas como leitura provável do compilador (ledger D-10). O mecanismo do 25%×4 (três seres + as três cápsulas/setas retidas) nasce da mesma sentença — ver RC-454, RC-611, RC-658.
+- **[P2024-11-30 · FUNÇÃO]** as três «recebem parte do conhecimento de Orlog» (passado/presente/futuro pendente) — consistente com a seção Urd/Verdandi/Skuld acima.
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Zeus | RC-145 | associado |
+| Dissolução da Tríade (2015–2017) | RC-300 | associado |
+| Ragnarok em Marte | RC-395 | ← relaciona-se-a |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | ← cria |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | criado-por |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | ← relaciona-se-a |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | relaciona-se-a |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | ← relaciona-se-a |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | relaciona-se-a |
+| Supercomputador Cósmico (Moros — destino) | RC-533 | associado |
+| Teia quântica (o que sai de um ser volta para ele) | RC-559 | ← relaciona-se-a |
+| Wyrd / Urd (Teia do Destino) | RC-658 | ← relaciona-se-a |
+| Wyrd / Urd (Teia do Destino) | RC-658 | operam-em |
+| Wyrd / Urd (Teia do Destino) | RC-658 | relaciona-se-a |
+| Wyrd / Urd (Teia do Destino) | RC-658 | relaciona-se-a |
+| Arquivos do Destino Universal | RC-714 | associado |
+| PIA — Peso da Inevitabilidade Ancestral | RC-716 | relaciona-se-a |
+| Éon das Três Esferas (superloka/geno; repositório de tesouros genéticos do Projeto TALM) | RC-775 | ← relaciona-se-a |
+| Ananque (estudou as necessidades dos códigos podres, com Moros; base das Nornes) | RC-777 | ← relaciona-se-a |
+
+## Fontes
+
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2023-07-09 | A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
+| apostila 2024-11-30 (= aula P2024-11-30) | Morus/Moros — arquivos do destino universal, seções 4.x | apostila CONCLUIDA | bloco Súdices/25% (F032 C-ii) |
+| P2022-10-01 | A Wyrd e a Espiritualidade (palestra) | — | transcrição automatizada; citação |
+| P2018-12-15 | Terra Atlantis – Aprofundamento (palestra) | — | transcrição automatizada; citação |
+| P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
+| P2021-01-30 | A Mensagem TALM e os Fios Soltos do Destino (palestra) | — | transcrição automatizada; citação |
+| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
+| P2025-05-31 | O Mistério da Árvore da Vida e a Urdidura de Metatron (re-curadoria; devolutiva M-2/M-4 aprovada 19/08/2026) | palestra/STT pré-curada |
+
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2023-07-09 | A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
+
 ## Citações-chave
 
 > Orlog ficou tão pressionado que ele resolveu criar três seres: Urd, Verdandi e Skuld.
@@ -128,55 +176,8 @@ As fiandeiras do destino na mitologia grega (Moiras), nórdica (Nornes) e romana
 
 - **[Nornes — criadas por Orlog, receberam parte do conhecimento]** «decidiu criar o que na mitologia nórdica se chama as normes do feminino ainda que aqui não estejamos falando de nada masculino nem feminino, porque não existia esse padrão que hoje na sexualidade da vida biológica a gente percebe, isso será lá atrás. E esses ou essas normes recebem parte do conhecimento de Orlog, ainda que Orlog tenha ficado com maior parte do conhecimento para ele mesmo» — ver RC-658 (Wyrd), RC-454 (Moros/Orlog).
 
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Zeus | RC-145 | associado |
-| Dissolução da Tríade (2015–2017) | RC-300 | associado |
-| Ragnarok em Marte | RC-395 | ← relaciona-se-a |
-| Elm (Moros — ser LM de Tempérion) | RC-454 | ← cria |
-| Elm (Moros — ser LM de Tempérion) | RC-454 | criado-por |
-| Elm (Moros — ser LM de Tempérion) | RC-454 | ← relaciona-se-a |
-| Elm (Moros — ser LM de Tempérion) | RC-454 | relaciona-se-a |
-| Elm (Moros — ser LM de Tempérion) | RC-454 | ← relaciona-se-a |
-| Elm (Moros — ser LM de Tempérion) | RC-454 | relaciona-se-a |
-| Supercomputador Cósmico (Moros — destino) | RC-533 | associado |
-| Teia quântica (o que sai de um ser volta para ele) | RC-559 | ← relaciona-se-a |
-| Wyrd / Urd (Teia do Destino) | RC-658 | ← relaciona-se-a |
-| Wyrd / Urd (Teia do Destino) | RC-658 | operam-em |
-| Wyrd / Urd (Teia do Destino) | RC-658 | relaciona-se-a |
-| Wyrd / Urd (Teia do Destino) | RC-658 | relaciona-se-a |
-| Arquivos do Destino Universal | RC-714 | associado |
-| PIA — Peso da Inevitabilidade Ancestral | RC-716 | relaciona-se-a |
-| Éon das Três Esferas (superloka/geno; repositório de tesouros genéticos do Projeto TALM) | RC-775 | ← relaciona-se-a |
-| Ananque (estudou as necessidades dos códigos podres, com Moros; base das Nornes) | RC-777 | ← relaciona-se-a |
-
 ## Observações
 
 Quarentena mitológica — leitura do autor.
 
 ---
-
-## Fontes
-
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2023-07-09 | A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
-| apostila 2024-11-30 (= aula P2024-11-30) | Morus/Moros — arquivos do destino universal, seções 4.x | apostila CONCLUIDA | bloco Súdices/25% (F032 C-ii) |
-| P2022-10-01 | A Wyrd e a Espiritualidade (palestra) | — | transcrição automatizada; citação |
-| P2018-12-15 | Terra Atlantis – Aprofundamento (palestra) | — | transcrição automatizada; citação |
-| P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
-| P2021-01-30 | A Mensagem TALM e os Fios Soltos do Destino (palestra) | — | transcrição automatizada; citação |
-| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
-| P2025-05-31 | O Mistério da Árvore da Vida e a Urdidura de Metatron (re-curadoria; devolutiva M-2/M-4 aprovada 19/08/2026) | palestra/STT pré-curada |
-
-
-## Fontes
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2023-07-09 | A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
-
-## Súdices — F032 aplicação (05/09/2026, C-ii)
-
-- **[P2024-11-30 · A TERCEIRA DENOMINAÇÃO, NA FONTE]** «Moros pegou 25% das informações vivas da sua inteligência, criou um ser. 25% criou outro, 25% criou outro e ficou com ele só com 25%. Esses três seres na mitologia grega são chamados de moiras. Na mitologia nórdica são chamadas de nornas ou nornes. Na mitologia são chamado de Súdices.» — a tríade de nomes entra no lema e na ficha; **a própria fonte trunca o idioma** («Na mitologia são chamado de…» — o qualificador caiu no STT): o «sânscrita» que o doc F032 completou **não é adotado como fato**, registrado apenas como leitura provável do compilador (ledger D-10). O mecanismo do 25%×4 (três seres + as três cápsulas/setas retidas) nasce da mesma sentença — ver RC-454, RC-611, RC-658.
-- **[P2024-11-30 · FUNÇÃO]** as três «recebem parte do conhecimento de Orlog» (passado/presente/futuro pendente) — consistente com a seção Urd/Verdandi/Skuld acima.

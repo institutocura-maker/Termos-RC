@@ -28,18 +28,6 @@ Com isso:
 
 **Origem do conteúdo da ampliação:** palestra `P2018-12-16 — Terra Atlantis - Era Sapiens` (16/12/2018). Transcrição automatizada, **não conferida com o áudio**; cada aspa foi recortada do `original.txt` pelo índice de âncoras do motor e conferida byte a byte pelo portão B. Nada foi digitado de memória.
 
-## Citações-chave
-
-> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
-
-- «Em 1921 e 22, encontramos Hitler sentado junto com Maria Orsic, médium, vidente, psicógrafo e os que recebia mensagens em línguas que nenhum deles entendia.» — *ver:* **Ampliação — P2018-12-16 (Terra Atlantis - Era Sapiens)** U0059
-
-
-## Ampliação
-### P2018-12-16 (Terra Atlantis - Era Sapiens)
-
-- **[Maria Orsic, a médium da Sociedade Vril] (U0059)** «Em 1921 e 22, encontramos Hitler sentado junto com Maria Orsic, médium, vidente, psicógrafo e os que recebia mensagens em línguas que nenhum deles entendia.» — Maria Orsic (STT 'Maria Orstic/Rossique'), médium vidente da Sociedade Vril (RC-847); com as 'Ringles' recebia mensagens em línguas antigas (sumério-acadiano) que repassavam a 'ciência perdida' — Lemion (RC-074) operava por trás dessa raça, municiando o salto tecnológico nazista.
-
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
@@ -53,7 +41,20 @@ Com isso:
 |---|---|---|---|
 | P2018-12-16 | Terra Atlantis - Era Sapiens (palestra) | — | transcrição automatizada; citação |
 
-## Observações sobre o Estado da Malha
+## Citações-chave
+
+> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+
+- «Em 1921 e 22, encontramos Hitler sentado junto com Maria Orsic, médium, vidente, psicógrafo e os que recebia mensagens em línguas que nenhum deles entendia.» — *ver:* **Ampliação — P2018-12-16 (Terra Atlantis - Era Sapiens)** U0059
+
+
+## Ampliação
+### P2018-12-16 (Terra Atlantis - Era Sapiens)
+
+- **[Maria Orsic, a médium da Sociedade Vril] (U0059)** «Em 1921 e 22, encontramos Hitler sentado junto com Maria Orsic, médium, vidente, psicógrafo e os que recebia mensagens em línguas que nenhum deles entendia.» — Maria Orsic (STT 'Maria Orstic/Rossique'), médium vidente da Sociedade Vril (RC-847); com as 'Ringles' recebia mensagens em línguas antigas (sumério-acadiano) que repassavam a 'ciência perdida' — Lemion (RC-074) operava por trás dessa raça, municiando o salto tecnológico nazista.
+
+## Observações
+### Observações sobre o Estado da Malha
 
 * **Grafia STT:** 'Maria Orstic' / 'Maria Rossique' = Maria Orsic. Médium vidente da Sociedade Vril; com as 'Ringles' recebia mensagens em línguas antigas (sumério-acadiano).
 * **Trava aplicável**: nenhuma além das gerais do despacho.

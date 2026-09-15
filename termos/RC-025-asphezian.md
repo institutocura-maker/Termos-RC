@@ -28,20 +28,6 @@ Com isso:
 
 **Origem do conteúdo da ampliação:** palestra `P2018-12-15 — Terra Atlantis – Aprofundamento` (15/12/2018). Transcrição automatizada, **não conferida com o áudio**; cada aspa foi recortada do `original.txt` pelo índice de âncoras do motor e conferida byte a byte pelo portão B. Nada foi digitado de memória.
 
-## Ampliação
-### P2018-12-15 (Terra Atlantis – Aprofundamento)
-
-- **[Aspesian aportou em Zian/Capela] (U0023)** «Essa na Tuto, ou seja, Aspesian, havia portado no planeta Zan, que é um dos planetas em torno que se chama de Capela, h cerca de 270 milhões de anos, trazendo um pequeno número de seres que se representantes do preposto universal que edificaram aquela nave com vistas a objetivos que não poderiam ser naquela época compreendidos.» — Asphezian (STT 'Aspesian', RC-025): a nave que aportou no planeta Zan (Capela) há ~270 M anos, onde depois os Vol foram engendrados em casulos.
-
-### Trilogia Terra Atlantis (B017/B018/B031)
-
-- **[B017 — a tríade do Veneto]** há ~620 mil anos, a Família Val pousou com as três naves onde hoje é o Veneto: "Primeiro pousou 'espherian', a maior das três; depois 'asphezian', a mais requintada e poderosa e, cerca de quase seis milénios depois, a menor e mais adaptada para todo tipo de missão."
-- **[B017 — 63 km]** "Asphezian, que detinha cerca de quatro vezes o diâmetro de 'espheron', portanto, com cerca de 63 km, normalmente estacionava sobre as águas de lagos ou mesmo de mares e oceanos."
-- **[B018 — sucateamento]** "a difícil decisão em torno da inevitabilidade de sucatear primeiro a nave 'Espherian' e, se necessário, 'Asphezian' em seguida, para construir bases sediadas no planeta. A nave 'Espheron' permaneceria atuante."
-- **[B018 — desconstrução]** "pôr em prática a decisão tomada há milénios de desconstruir totalmente 'Aspheziam' [sic]"; Espheron foi poupada e virou casa móvel na Experiência Gron.
-- **[B017 — mensagem dos rebeldes]** "A mensagem dos rebeldes forçou-nos também a destruir 'asphezian'."
-- **[Antlar (RC-022)]** rel sem aresta; passagem explícita da conversão do casco em Antlar não localizada em B017/B018 — sem aresta (aguarda evidência). B017/B018 não constam do cadastro de RC-025 (só B031 e P2018-12-15, esta sem pasta no acervo).
-
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
@@ -58,7 +44,22 @@ Com isso:
 | P2018-12-15 | Terra Atlantis – Aprofundamento (palestra) | — | transcrição automatizada; citação |
 | B031 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
 
-## Observações sobre o Estado da Malha
+## Ampliação
+### P2018-12-15 (Terra Atlantis – Aprofundamento)
+
+- **[Aspesian aportou em Zian/Capela] (U0023)** «Essa na Tuto, ou seja, Aspesian, havia portado no planeta Zan, que é um dos planetas em torno que se chama de Capela, h cerca de 270 milhões de anos, trazendo um pequeno número de seres que se representantes do preposto universal que edificaram aquela nave com vistas a objetivos que não poderiam ser naquela época compreendidos.» — Asphezian (STT 'Aspesian', RC-025): a nave que aportou no planeta Zan (Capela) há ~270 M anos, onde depois os Vol foram engendrados em casulos.
+
+### Trilogia Terra Atlantis (B017/B018/B031)
+
+- **[B017 — a tríade do Veneto]** há ~620 mil anos, a Família Val pousou com as três naves onde hoje é o Veneto: "Primeiro pousou 'espherian', a maior das três; depois 'asphezian', a mais requintada e poderosa e, cerca de quase seis milénios depois, a menor e mais adaptada para todo tipo de missão."
+- **[B017 — 63 km]** "Asphezian, que detinha cerca de quatro vezes o diâmetro de 'espheron', portanto, com cerca de 63 km, normalmente estacionava sobre as águas de lagos ou mesmo de mares e oceanos."
+- **[B018 — sucateamento]** "a difícil decisão em torno da inevitabilidade de sucatear primeiro a nave 'Espherian' e, se necessário, 'Asphezian' em seguida, para construir bases sediadas no planeta. A nave 'Espheron' permaneceria atuante."
+- **[B018 — desconstrução]** "pôr em prática a decisão tomada há milénios de desconstruir totalmente 'Aspheziam' [sic]"; Espheron foi poupada e virou casa móvel na Experiência Gron.
+- **[B017 — mensagem dos rebeldes]** "A mensagem dos rebeldes forçou-nos também a destruir 'asphezian'."
+- **[Antlar (RC-022)]** rel sem aresta; passagem explícita da conversão do casco em Antlar não localizada em B017/B018 — sem aresta (aguarda evidência). B017/B018 não constam do cadastro de RC-025 (só B031 e P2018-12-15, esta sem pasta no acervo).
+
+## Observações
+### Observações sobre o Estado da Malha
 
 * **Grafia STT:** 'Aspesian' = Asphezian. Aportou em 'Zan' (Zian), 'um dos planetas em torno… de Capela'.
 * **Trava aplicável**: nenhuma além das gerais do despacho.

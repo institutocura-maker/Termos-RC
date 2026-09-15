@@ -15,8 +15,43 @@ atualizado = "2026-08-12"
 ## Definição Sintética
 O **papel estratégico de Judas** na missão de Jesus — o capítulo 2 do Livro de Tiago (B011): o "fator Judas" designa a função de Judas Iscariotes no drama da crucificação, reinterpretada nas RC (cf. RC-138: Judas = Yel Am/Yel Liam, o biodemo que fundiu o código genético com Val El). Nas RC, Judas não "traiu" por maldade: não suportou a surpresa da morte de Jesus (conhecia seus poderes e esperava que os usasse) e tirou a própria vida.
 
+## Etimologia e Grafias
+- **Grafia preferida:** O Fator Judas
+- **Variações:** Fator Judas; o papel de Judas; Judas Iscariotes (= Yel Am/Yel Liam, RC-138)
+
+
 ## Contexto / Origem
 O B011 (Jesus e o Enigma da Transfiguração) narra os fatos do período final da vida de Jesus pela voz de Tiago, Elias e Moisés (Livro de Tiago o Maior). O "Fator Judas" conecta-se ao "Calvário de um Inocente" (RC-236, B039) e à perspectiva de Yel Luzbel/Len Mion sobre a crucificação.
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Jesus | RC-072 | envolve |
+| Revelação Cósmica (conceito) | RC-094 | associado |
+| Yel Am / Yel Liam | RC-138 | envolve |
+| Yel Am / Yel Liam | RC-138 | reabilita |
+| O Calvário de um Inocente | RC-236 | relaciona-se-a |
+| O Enigma da Transfiguração | RC-366 | contexto |
+| Evangelho de Judas | RC-647 | ← tema-de |
+
+## Seres Associados
+Judas (Yel Am/Yel Liam, RC-138); Jesus (RC-072); Tiago (narrador).
+
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo |
+|---|---|---|---|
+| P2023-07-09 | A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
+| P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
+| P2025-05-10 | Mistérios do Apocalipse (palestra) | — | transcrição automatizada; citação |
+| P2018-12-16 | Terra Atlantis - Era Sapiens (palestra) | — | transcrição automatizada; citação |
+| Jesus e o Enigma da Transfiguração (B011) | Livro I, cap. 2 (O Fator Judas) | pp. 15–25 (aprox.) | capítulo dedicado |
+| Painéis Emergentes (B031) | Glossário (Yel Liam) | — | apoio (secundária) |
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2023-07-09 | A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o bloco citado desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
 
 ## Citações-chave
 > *(A inserir — transcrição literal do cap. 2 do B011 na revisão.)* — B011, Livro I, cap. 2
@@ -50,40 +85,5 @@ O B011 (Jesus e o Enigma da Transfiguração) narra os fatos do período final d
 
 A live amplia o Fator Judas com uma reabilitação histórica de Judas e referência ao Evangelho de Judas (RC-647), mantendo essa leitura como interpretação atribuída ao palestrante.
 
-## Etimologia e Grafias
-- **Grafia preferida:** O Fator Judas
-- **Variações:** Fator Judas; o papel de Judas; Judas Iscariotes (= Yel Am/Yel Liam, RC-138)
-
-
-## Seres Associados
-Judas (Yel Am/Yel Liam, RC-138); Jesus (RC-072); Tiago (narrador).
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Jesus | RC-072 | envolve |
-| Revelação Cósmica (conceito) | RC-094 | associado |
-| Yel Am / Yel Liam | RC-138 | envolve |
-| Yel Am / Yel Liam | RC-138 | reabilita |
-| O Calvário de um Inocente | RC-236 | relaciona-se-a |
-| O Enigma da Transfiguração | RC-366 | contexto |
-| Evangelho de Judas | RC-647 | ← tema-de |
-
 ## Observações
 Ficha baseada em B011 (obra primária) + B031. O Fator Judas conecta a trilogia Terra Atlantis (B039) ao drama da crucificação. Transcrição literal pendente na revisão.
-
-## Fontes
-| Obra (sigla) | Capítulo | Página | Tipo |
-|---|---|---|---|
-| P2023-07-09 | A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
-| P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
-| P2025-05-10 | Mistérios do Apocalipse (palestra) | — | transcrição automatizada; citação |
-| P2018-12-16 | Terra Atlantis - Era Sapiens (palestra) | — | transcrição automatizada; citação |
-| Jesus e o Enigma da Transfiguração (B011) | Livro I, cap. 2 (O Fator Judas) | pp. 15–25 (aprox.) | capítulo dedicado |
-| Painéis Emergentes (B031) | Glossário (Yel Liam) | — | apoio (secundária) |
-
-## Fontes
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2023-07-09 | A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o bloco citado desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

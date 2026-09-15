@@ -16,8 +16,37 @@ atualizado = "2026-08-29"
 Termo extraído e aprovado na curadoria de P2025-05-31.
 P2026-08-04 — Podcast Irmãos Dias #272 (aliens e a Bíblia).
 
+## Etimologia e Grafias
+Forma preferida: Os 366 Manuscritos de Enoque.
+
+
 ## Contexto / Origem
 O Mistério da Árvore da Vida e a Urdidura de Metatron.
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Enoque (sétimo patriarca; levado por Javé) | RC-489 | escrito-por |
+| Enoque (sétimo patriarca; levado por Javé) | RC-489 | ← relaciona-se-a |
+| Enoque (sétimo patriarca; levado por Javé) | RC-489 | relaciona-se-a |
+| Enoque (sétimo patriarca; levado por Javé) | RC-489 | ← relaciona-se-a |
+| Metatron | RC-671 | — |
+| P2025-12-14 | Os Fundamentos da Revelação Cósmica (palestra) | — | transcrição automatizada; citação |
+| P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
+| P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
+| P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
+| P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
+| P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
+| P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
+
+## Seres Associados
+Consultar Base.
+
+## Fontes
+P2025-05-31.
+P2026-08-04 — Podcast Irmãos Dias #272 (aliens e a Bíblia).
+| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
+
 
 ## Citações-chave
 Ver transcrição.
@@ -46,34 +75,5 @@ Ver transcrição.
 - **[O professor Scolov e os restos do livro de Enoque em 1846] (U0070)** «Então, hoje nós humanos temos o livro de Enoque, o livro dos segredos de Enoque.» — o que restou: o livro de Enoque e o livro dos segredos de Enoque; a descoberta de 1846 em Belgrado pelo professor Scolov (RC-672 Manuscritos de Enoque; RC-489).
 
 
-## Etimologia e Grafias
-Forma preferida: Os 366 Manuscritos de Enoque.
-
-
-## Seres Associados
-Consultar Base.
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Enoque (sétimo patriarca; levado por Javé) | RC-489 | escrito-por |
-| Enoque (sétimo patriarca; levado por Javé) | RC-489 | ← relaciona-se-a |
-| Enoque (sétimo patriarca; levado por Javé) | RC-489 | relaciona-se-a |
-| Enoque (sétimo patriarca; levado por Javé) | RC-489 | ← relaciona-se-a |
-| Metatron | RC-671 | — |
-| P2025-12-14 | Os Fundamentos da Revelação Cósmica (palestra) | — | transcrição automatizada; citação |
-| P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
-| P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
-| P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
-| P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
-| P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
-| P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
-
 ## Observações
 Teologia comparada e alegações científicas permanecem atribuídas ao palestrante.
-
-## Fontes
-P2025-05-31.
-P2026-08-04 — Podcast Irmãos Dias #272 (aliens e a Bíblia).
-| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
-

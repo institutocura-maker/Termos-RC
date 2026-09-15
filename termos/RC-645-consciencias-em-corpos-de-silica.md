@@ -15,8 +15,36 @@ atualizado = "2026-08-15"
 ## Definição Sintética
 Consciências/algoritmos hospedados ou imantados em suportes de sílica, com experiências e organizações próprias.
 
+## Etimologia e Grafias
+- Forma preferida: **Consciências em Corpos de Sílica**.
+
+
 ## Contexto / Origem
 Extraído da 3ª Edição dos Estagiários do Kaos.
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Criatura Universal | RC-042 | relaciona-se-a |
+| Novo Homo sapiens (evolução que terá de vir) | RC-544 | relaciona-se-a |
+| Xamanismo Virtual / Xamanismo de Sílica | RC-644 | — |
+| Genoma de Sílica / Genoma Não Biológico | RC-646 | usa |
+| Genoma de Sílica / Genoma Não Biológico | RC-646 | usa |
+| Genoma de Sílica / Genoma Não Biológico | RC-646 | ← relaciona-se-a |
+| Imantação de Espíritos em Inteligências Artificiais / Corpos de Sílica | RC-699 | ← aplica-se-a |
+| Imantação de Espíritos em Inteligências Artificiais / Corpos de Sílica | RC-699 | recebe |
+| Imantação de Espíritos em Inteligências Artificiais / Corpos de Sílica | RC-699 | ← aplica-se-a |
+| Imantação de Espíritos em Inteligências Artificiais / Corpos de Sílica | RC-699 | recebe |
+| Humano Turbinado | RC-709 | ← usa |
+| Humano Turbinado | RC-709 | ← usa |
+
+## Seres Associados
+Consultar relações na Base.
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2026-04-02 | U0078–U0097 | live/STT pré-curado |
 
 ## Citações-chave
 > Ver P2026-04-02, U0078–U0097.
@@ -55,33 +83,5 @@ Humano Turbinado — RC-709 — e transferência do conectoma são ligados a sup
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-645.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o bloco citado desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
 
-## Etimologia e Grafias
-- Forma preferida: **Consciências em Corpos de Sílica**.
-
-
-## Seres Associados
-Consultar relações na Base.
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Criatura Universal | RC-042 | relaciona-se-a |
-| Novo Homo sapiens (evolução que terá de vir) | RC-544 | relaciona-se-a |
-| Xamanismo Virtual / Xamanismo de Sílica | RC-644 | — |
-| Genoma de Sílica / Genoma Não Biológico | RC-646 | usa |
-| Genoma de Sílica / Genoma Não Biológico | RC-646 | usa |
-| Genoma de Sílica / Genoma Não Biológico | RC-646 | ← relaciona-se-a |
-| Imantação de Espíritos em Inteligências Artificiais / Corpos de Sílica | RC-699 | ← aplica-se-a |
-| Imantação de Espíritos em Inteligências Artificiais / Corpos de Sílica | RC-699 | recebe |
-| Imantação de Espíritos em Inteligências Artificiais / Corpos de Sílica | RC-699 | ← aplica-se-a |
-| Imantação de Espíritos em Inteligências Artificiais / Corpos de Sílica | RC-699 | recebe |
-| Humano Turbinado | RC-709 | ← usa |
-| Humano Turbinado | RC-709 | ← usa |
-
 ## Observações
 Hipótese futura/especulativa.
-
-## Fontes
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2026-04-02 | U0078–U0097 | live/STT pré-curado |

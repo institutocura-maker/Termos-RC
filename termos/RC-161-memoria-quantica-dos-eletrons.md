@@ -15,8 +15,49 @@ atualizado = "2026-08-29"
 ## Definição Sintética
 Capacidade **misteriosa e exclusiva dos elétrons** (que as demais micropartículas não possuem) de **"marcar" em si mesmos tudo o que vivenciam** — uma espécie de memória quântica (B024, cap. 13). O elétron é o **único agente que existe desde o primeiro momento da Criação** e existirá até não mais existirem elementos químicos. Os elétrons absorvem absolutamente tudo o que experienciam, trocando informações com seus "irmãos gêmeos-parceiros" do **emaranhamento quântico**. Quando um corpo morre, seus elétrons não morrem — voltam à condição de "unidade" levando gravado tudo o que vivenciaram, passando de um ser para outro (cap. 14).
 
+## Etimologia e Grafias
+- **Grafia preferida:** Memória Quântica dos Elétrons
+- **Variações:** memória do elétron; elétron como "agente básico da vida universal"; ponte quântica
+
+
 ## Contexto / Origem
 O físico nuclear francês **Jean-Émile Charon** descortinou essa característica enigmática. Nas RC, o elétron serve de **"ponte quântica" entre o Criador 'caído' e as suas criaturas-ferramenta** — tema desenvolvido no livro *A Rebelião dos Elétrons e o Código de Vida do Criador* (B041). No fim do universo, as informações dos elétrons estarão associadas à emergente **Mente Universal**.
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Entropia e Negentropia | RC-160 | associado |
+| Elétrons (agente básico da vida universal) | RC-162 | relaciona-se-a |
+| Mente Universal (Emergente) | RC-163 | associado |
+| Simbiose Quântica | RC-195 | associado |
+| A Rebelião dos Elétrons | RC-378 | ← envolve |
+| A Rebelião dos Elétrons | RC-378 | ← relaciona-se-a |
+| A Rebelião dos Elétrons | RC-378 | relaciona-se-a |
+| Dança dos Elétrons | RC-379 | associado |
+| Memórias para Javé | RC-386 | ← registra |
+| Arquivos da Memória Cósmica | RC-521 | ← relaciona-se-a |
+| Duas Pulsações da Criação (elétrons e antielétrons) | RC-636 | ← envolve |
+| Duas Pulsações da Criação (elétrons e antielétrons) | RC-636 | relaciona-se-a |
+| Duas Pulsações da Criação (elétrons e antielétrons) | RC-636 | ← relaciona-se-a |
+| Duas Pulsações da Criação (elétrons e antielétrons) | RC-636 | ← relaciona-se-a |
+| Transferência da Memória dos Antielétrons | RC-637 | ← transfere-para |
+| Transferência da Memória dos Antielétrons | RC-637 | relaciona-se-a |
+| Ressurreição do Cadáver do Criador | RC-638 | ← envolve |
+| Colapso do Caos Organizado | RC-690 | associado |
+| Ishvara (Isuara — Retrato de Prabrajna Antes da Queda) | RC-691 | ← codificado-em |
+| Kit Reencarnatório de Elétrons | RC-692 | ← relaciona-se-a |
+| Kit Reencarnatório de Elétrons | RC-692 | relaciona-se-a |
+| Kit Reencarnatório de Elétrons | RC-692 | ← usa |
+| Evolução da Informação, não das Espécies | RC-693 | ← envolve |
+| Primado da Informação | RC-707 | associado |
+| Ser Humano Não Local | RC-708 | ← envolve |
+| Ser Humano Não Local | RC-708 | ← envolve |
+| Ser Humano Não Local | RC-708 | ← relaciona-se-a |
+| Ser Humano Não Local | RC-708 | relaciona-se-a |
+| Informações Vivas | RC-715 | ← compõe |
+| Memória dos Elétrons e Arcanos | RC-829 | associado |
+| Guardadores de Lixo Memorial (os humanos como hospedeiros da sujeira) | RC-866 | associado |
+| Biocosmos emergente (a nova mente biológica global ancorada nos campos mórficos) | RC-879 | associado |
 
 ## Citações-chave
 
@@ -134,44 +175,3 @@ A palestra atribui aos elétrons memória de sofrimento, preferências e comunic
 A palestra identifica os registros akáshicos com a memória coletiva dos elétrons e distingue a informação recebida pela rede da experiência direta, descrita como mais marcante. A saturação diante das memórias de sofrimento é apresentada como motor da Rebelião dos Elétrons e do Colapso do Caos Organizado.
 
 **Fonte:** P2025-03-15, U0191–U0389 e U1094 — fonte incompleta, encerrada no intervalo. As afirmações físicas permanecem atribuídas ao palestrante.
-
-## Etimologia e Grafias
-- **Grafia preferida:** Memória Quântica dos Elétrons
-- **Variações:** memória do elétron; elétron como "agente básico da vida universal"; ponte quântica
-
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Entropia e Negentropia | RC-160 | associado |
-| Elétrons (agente básico da vida universal) | RC-162 | relaciona-se-a |
-| Mente Universal (Emergente) | RC-163 | associado |
-| Simbiose Quântica | RC-195 | associado |
-| A Rebelião dos Elétrons | RC-378 | ← envolve |
-| A Rebelião dos Elétrons | RC-378 | ← relaciona-se-a |
-| A Rebelião dos Elétrons | RC-378 | relaciona-se-a |
-| Dança dos Elétrons | RC-379 | associado |
-| Memórias para Javé | RC-386 | ← registra |
-| Arquivos da Memória Cósmica | RC-521 | ← relaciona-se-a |
-| Duas Pulsações da Criação (elétrons e antielétrons) | RC-636 | ← envolve |
-| Duas Pulsações da Criação (elétrons e antielétrons) | RC-636 | relaciona-se-a |
-| Duas Pulsações da Criação (elétrons e antielétrons) | RC-636 | ← relaciona-se-a |
-| Duas Pulsações da Criação (elétrons e antielétrons) | RC-636 | ← relaciona-se-a |
-| Transferência da Memória dos Antielétrons | RC-637 | ← transfere-para |
-| Transferência da Memória dos Antielétrons | RC-637 | relaciona-se-a |
-| Ressurreição do Cadáver do Criador | RC-638 | ← envolve |
-| Colapso do Caos Organizado | RC-690 | associado |
-| Ishvara (Isuara — Retrato de Prabrajna Antes da Queda) | RC-691 | ← codificado-em |
-| Kit Reencarnatório de Elétrons | RC-692 | ← relaciona-se-a |
-| Kit Reencarnatório de Elétrons | RC-692 | relaciona-se-a |
-| Kit Reencarnatório de Elétrons | RC-692 | ← usa |
-| Evolução da Informação, não das Espécies | RC-693 | ← envolve |
-| Primado da Informação | RC-707 | associado |
-| Ser Humano Não Local | RC-708 | ← envolve |
-| Ser Humano Não Local | RC-708 | ← envolve |
-| Ser Humano Não Local | RC-708 | ← relaciona-se-a |
-| Ser Humano Não Local | RC-708 | relaciona-se-a |
-| Informações Vivas | RC-715 | ← compõe |
-| Memória dos Elétrons e Arcanos | RC-829 | associado |
-| Guardadores de Lixo Memorial (os humanos como hospedeiros da sujeira) | RC-866 | associado |
-| Biocosmos emergente (a nova mente biológica global ancorada nos campos mórficos) | RC-879 | associado |

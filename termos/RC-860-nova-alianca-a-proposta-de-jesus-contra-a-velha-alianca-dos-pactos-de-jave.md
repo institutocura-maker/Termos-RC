@@ -28,6 +28,19 @@ Com isso:
 
 **Origem do conteúdo da ampliação:** palestra `P2022-11-20 — A Incompreendida Nova Aliança proposta por Jesus` (20/11/2022). Transcrição automatizada, **não conferida com o áudio**; cada aspa foi recortada do `original.txt` pelo índice de âncoras do motor e conferida byte a byte pelo portão B. Nada foi digitado de memória.
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Javé | RC-001 | **sem aresta** em `RELACOES`; arquivo existe |
+| Jesus | RC-072 | **sem aresta** em `RELACOES`; arquivo existe |
+| Pactos de Javé (Brama / Vishnu / Shiva) | RC-781 | **sem aresta** em `RELACOES`; arquivo existe |
+| Desígnios Proféticos (profecia como instrumento de domínio e sua desconexão) | RC-858 | **sem aresta** em `RELACOES`; arquivo existe |
+
+## Fontes
+| Obra (sigla) | Título | Página | Tipo |
+|---|---|---|---|
+| P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
+
 ## Citações-chave
 
 > Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
@@ -43,20 +56,8 @@ Com isso:
 - **[A nova aliança como questão de limite] (U0007)** «A nova aliança que Jesus propôs não é uma ideia de um gênio, foi uma questão de limite humano.» — a tese central da palestra: a nova aliança não nasceu de genialidade — "foi uma questão de limite humano": "isso aqui não dá certo. Então vamos propor uma coisa nova"; "a repetição da velha fórmula da velha aliança... Jesus tentou obedecer, mas também não deu".
 - **[A compreensão antes da aceitação] (U0007)** «A nova aliança de Jesus que Jesus propôs entre os seres humanos e Javé, primeiro precisa ser compreendida pelos seres humanos para que depois Javé aceite.» — a ordem da nova aliança: primeiro os humanos compreendem, depois Javé aceita — "ele tentou o contrário e não deu. Jahé jamais se aceitou isso e foi desativado sem aceitar"; ressonância direta com a fila aberta RC-860 (esta é a palestra-título do termo).
 
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | **sem aresta** em `RELACOES`; arquivo existe |
-| Jesus | RC-072 | **sem aresta** em `RELACOES`; arquivo existe |
-| Pactos de Javé (Brama / Vishnu / Shiva) | RC-781 | **sem aresta** em `RELACOES`; arquivo existe |
-| Desígnios Proféticos (profecia como instrumento de domínio e sua desconexão) | RC-858 | **sem aresta** em `RELACOES`; arquivo existe |
-
-## Fontes
-| Obra (sigla) | Título | Página | Tipo |
-|---|---|---|---|
-| P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
-
-## Observações sobre o Estado da Malha
+## Observações
+### Observações sobre o Estado da Malha
 
 * **Materialização imediata (devolutiva):** RC-860 (Nova Aliança) sai da fila aberta e ganha ficha (ficha=False → True) com as 3 pérolas validadas neste ciclo — esta é a palestra-título do termo.
 * **Trava aplicável**: nenhuma além das gerais do despacho.

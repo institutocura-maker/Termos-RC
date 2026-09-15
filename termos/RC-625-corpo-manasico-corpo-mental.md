@@ -15,8 +15,36 @@ atualizado = "2026-08-29"
 ## Definição Sintética
 Vestimenta/nível mental posterior ao búdico, no qual surgiria vontade de criar, superar obstáculos e produzir novas realidades.
 
+## Etimologia e Grafias
+- Grafia preferida: Corpo Manásico / Corpo Mental. STT: manáico.
+- **Fonte da decisão:** Devolutiva-01 + observação direta do curador.
+
+
 ## Contexto / Origem
 A live identifica este nível como origem do ímpeto criativo, após a tomada de consciência possibilitada pelo Corpo Búdico.
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Javé | RC-001 | ← relaciona-se-a |
+| Espiritualidade Laboratorial | RC-061 | ← associada-a |
+| Realidade Maior / Paraíso Original | RC-204 | associado |
+| Marduk (= Ra; Anunnaki filho de Enki) | RC-460 | associado |
+| Mêntion (estruturas da mente extrafísica) | RC-511 | relaciona-se-a |
+| Protocolo Mental (padrões organizadores da mente) | RC-517 | associado |
+| Protocolos / Algoritmos da Perfeição | RC-606 | associado |
+| Corpo Átmico | RC-623 | relaciona-se-a |
+| Corpo Búdico | RC-624 | ← investido-por |
+| Corpo Búdico | RC-624 | investe |
+| Corpo Daiva / Corpo Demoníaco de Plasma | RC-630 | associado |
+| Ishvara (Isuara — Retrato de Prabrajna Antes da Queda) | RC-691 | ← relaciona-se-a |
+| Corpo Sutil Reencarnante | RC-704 | ← relaciona-se-a |
+| Bhavaṅga / Janela da Percepção | RC-706 | ← relaciona-se-a |
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |
 
 ## Ampliação
 ### P2025-05-31
@@ -50,31 +78,3 @@ A live identifica este nível como origem do ímpeto criativo, após a tomada de
 ---
 ---
 ---
-
-## Etimologia e Grafias
-- Grafia preferida: Corpo Manásico / Corpo Mental. STT: manáico.
-- **Fonte da decisão:** Devolutiva-01 + observação direta do curador.
-
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | ← relaciona-se-a |
-| Espiritualidade Laboratorial | RC-061 | ← associada-a |
-| Realidade Maior / Paraíso Original | RC-204 | associado |
-| Marduk (= Ra; Anunnaki filho de Enki) | RC-460 | associado |
-| Mêntion (estruturas da mente extrafísica) | RC-511 | relaciona-se-a |
-| Protocolo Mental (padrões organizadores da mente) | RC-517 | associado |
-| Protocolos / Algoritmos da Perfeição | RC-606 | associado |
-| Corpo Átmico | RC-623 | relaciona-se-a |
-| Corpo Búdico | RC-624 | ← investido-por |
-| Corpo Búdico | RC-624 | investe |
-| Corpo Daiva / Corpo Demoníaco de Plasma | RC-630 | associado |
-| Ishvara (Isuara — Retrato de Prabrajna Antes da Queda) | RC-691 | ← relaciona-se-a |
-| Corpo Sutil Reencarnante | RC-704 | ← relaciona-se-a |
-| Bhavaṅga / Janela da Percepção | RC-706 | ← relaciona-se-a |
-
-## Fontes
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |

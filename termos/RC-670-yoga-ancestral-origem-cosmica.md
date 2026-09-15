@@ -15,7 +15,29 @@ atualizado = "2026-08-15"
 ## Definição Sintética
 Yoga Ancestral — tecnologia criada por Shiva no universo paralelo para gerir reversibilidade e dor.
 
+## Etimologia e Grafias
+Forma validada pelo curador.
+
 ## Contexto / Origem
+P2026-02-28.
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Shiva (Savna) | RC-102 | criado-por |
+| Kundalini (no contexto RC) | RC-211 | associado |
+| Simultaneidade Reversa | RC-628 | relaciona-se-a |
+| Descendência de Kadru (Nagas, Uragas e Maharagas) | RC-664 | ← relaciona-se-a |
+| Descendência de Kadru (Nagas, Uragas e Maharagas) | RC-664 | relaciona-se-a |
+| Som da Flauta / Som da Falta | RC-668 | ← origina |
+| Pashupati (avatar de Shiva) | RC-669 | ← desenvolve |
+| Mão Invisível Multiforme / Conselho das Nagas | RC-697 | ← relaciona-se-a |
+
+## Seres Associados
+Consultar Base.
+
+## Fontes
+P2026-03-21.
 P2026-02-28.
 
 ## Citações-chave
@@ -32,27 +54,5 @@ Ver transcrição.
 
 A origem cósmica do Yoga é relacionada aos Rishis, a Shiva, ao Som da Flauta e a uma possível intuição do Conselho das Nagas. Patanjali é apresentado como filho/expressão humanizada de Ananta. As equivalências permanecem atribuídas à palestra.
 
-## Etimologia e Grafias
-Forma validada pelo curador.
-
-## Seres Associados
-Consultar Base.
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Shiva (Savna) | RC-102 | criado-por |
-| Kundalini (no contexto RC) | RC-211 | associado |
-| Simultaneidade Reversa | RC-628 | relaciona-se-a |
-| Descendência de Kadru (Nagas, Uragas e Maharagas) | RC-664 | ← relaciona-se-a |
-| Descendência de Kadru (Nagas, Uragas e Maharagas) | RC-664 | relaciona-se-a |
-| Som da Flauta / Som da Falta | RC-668 | ← origina |
-| Pashupati (avatar de Shiva) | RC-669 | ← desenvolve |
-| Mão Invisível Multiforme / Conselho das Nagas | RC-697 | ← relaciona-se-a |
-
 ## Observações
 Termo candidato.
-
-## Fontes
-P2026-03-21.
-P2026-02-28.

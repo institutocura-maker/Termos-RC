@@ -28,22 +28,6 @@ Com isso:
 
 **Origem do conteúdo da ampliação:** palestra `P2023-12-03 — A Rebelião de Lúcifer ainda por ser Finalizada` (03/12/2023, na sala). Transcrição automatizada, **não conferida com o áudio**; cada aspa foi recortada do `original.txt` pelo índice de âncoras do motor e conferida byte a byte pelo portão B. Nada foi digitado de memória.
 
-## Ampliação
-### P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
-
-- **[P2023-12-03 · O QUE ELE EXPLICOU DEPOIS]** «ele explicou como Jesus ressuscitado, o porquê de não agir, porque não queria entrar em guerra com os arcontes do universo vizinho, que não queriam deixar que ele, Jesus, o ressuscitado, assumisse a vestimenta de verdadeiro herdeiro da trimurte e seu suzerano desse universo, como ele foi engendrado para ser.» (U0004) — A ressurreição é lida como resposta à inação: Sofia explica, como ressuscitado, por que não assume. Entrada com aspa e endereço; nenhuma relação nova com RC-005 além da que o cadastro já tinha.
-
-### P2025-05-10 (Mistérios do Apocalipse)
-
-- **[Ressurreição: termo inadequado] (U0003)** «Porque ele precisava sumir com o corpo defunto para devolver os elétrons na forma do código para Rockman, que havia emprestado esse geno.» — 'ressuscitar' é termo inadequado (RC-280): o corpo defunto sumiu para 'devolver os elétrons na forma do código para Rockman', que havia emprestado o genoma.
-
-### P2023-12-25-03 (Aula 03 — Dias Difíceis: Crucificação e Ressurreição)
-
-- **«Pôncio Pilatos queria logo produzir para ninguém acreditar que Jesus ressuscitou»**
-- **«Jesus o Vivo, o Ressuscitado que através de Madalena, criou uma outra revelação totalmente diferente»**
-- Aula 03 dá a **versão político-jurídica da ressurreição** (suborno do centurião por José de Arimatéia; Pilatos pressionado por Caifás/Anás) e a **revelação pós-ressurreição** intermediada por **Madalena** — expande o eixo Sophia/Ressurreição.
-
-
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
@@ -65,7 +49,24 @@ Com isso:
 | P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra) | — | transcrição automatizada; citação |
 | B014 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
 
-## Observações sobre o Estado da Malha
+## Ampliação
+### P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+
+- **[P2023-12-03 · O QUE ELE EXPLICOU DEPOIS]** «ele explicou como Jesus ressuscitado, o porquê de não agir, porque não queria entrar em guerra com os arcontes do universo vizinho, que não queriam deixar que ele, Jesus, o ressuscitado, assumisse a vestimenta de verdadeiro herdeiro da trimurte e seu suzerano desse universo, como ele foi engendrado para ser.» (U0004) — A ressurreição é lida como resposta à inação: Sofia explica, como ressuscitado, por que não assume. Entrada com aspa e endereço; nenhuma relação nova com RC-005 além da que o cadastro já tinha.
+
+### P2025-05-10 (Mistérios do Apocalipse)
+
+- **[Ressurreição: termo inadequado] (U0003)** «Porque ele precisava sumir com o corpo defunto para devolver os elétrons na forma do código para Rockman, que havia emprestado esse geno.» — 'ressuscitar' é termo inadequado (RC-280): o corpo defunto sumiu para 'devolver os elétrons na forma do código para Rockman', que havia emprestado o genoma.
+
+### P2023-12-25-03 (Aula 03 — Dias Difíceis: Crucificação e Ressurreição)
+
+- **«Pôncio Pilatos queria logo produzir para ninguém acreditar que Jesus ressuscitou»**
+- **«Jesus o Vivo, o Ressuscitado que através de Madalena, criou uma outra revelação totalmente diferente»**
+- Aula 03 dá a **versão político-jurídica da ressurreição** (suborno do centurião por José de Arimatéia; Pilatos pressionado por Caifás/Anás) e a **revelação pós-ressurreição** intermediada por **Madalena** — expande o eixo Sophia/Ressurreição.
+
+
+## Observações
+### Observações sobre o Estado da Malha
 
 * **D-6.** Nenhuma aresta nova com `RC-005` nem com qualquer verbete de governo: as arestas listadas abaixo são todas pré-existentes do cadastro.
 * posse é tratada como metáfora no glossário do ciclo, não como evento administrativo desta cosmologia; a ficha não decide a questão.

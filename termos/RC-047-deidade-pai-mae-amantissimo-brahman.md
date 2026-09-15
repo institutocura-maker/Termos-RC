@@ -15,8 +15,53 @@ atualizado = "2026-08-28"
 ## Definição Sintética
 Seria o **Pai-Mãe Amantíssimo**, o **Ser Supremo** que deu origem a toda a Matriz Divina — o "**Brahman**" (e não Brahma) da tradição hindu. É a **Deidade Suprema**, a **Fonte de tudo o que há**, superior e acima de qualquer Divindade; nas RC também referida como **Deus Incognoscível** (que é "só amor") (B031).
 
+## Etimologia e Grafias
+- **Grafia preferida:** Deidade
+- **Variações:** Pai-Mãe Amantíssimo; Ser Supremo; Brahman; Deus Incognoscível; Fonte
+
+
 ## Contexto / Origem
 A Deidade é o topo da hierarquia ontológica das RC: **Deidade (Pai-Mãe) → Divindades Co-criadoras → Criador caído (Brahma/Javé)**. Esta distinção é essencial para não confundir Javé com Deus.
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Adhy | RC-011 | criado-por (origem) |
+| Adhyagia | RC-012 | associado |
+| Astréia | RC-027 | associado |
+| Criador (Brahma/Javé/Demiurgo) | RC-041 | distingue-se |
+| Despina | RC-051 | associado |
+| Deus / Deus Incognoscível | RC-052 | sinônimo (Deus Incognoscível) |
+| Deuses (os dois tipos) | RC-053 | associado |
+| Divindades (Co-criadoras) | RC-054 | é-um (origem) |
+| Espiritualidade Superior | RC-059 | relaciona-se-a |
+| Pandora | RC-086 | associado |
+| Portlan e Portlon | RC-088 | associado |
+| Yel Breasil | RC-139 | associado |
+| Zeus | RC-145 | associado |
+| Realidade Maior / Paraíso Original | RC-204 | associado |
+| Pai Supremo (Amantíssimo) | RC-205 | personifica-em |
+| Divindades Excelsas | RC-206 | associado |
+| Matriz Modeladora / Matriz de Cocriação | RC-210 | associado |
+| Caos = Brahma = Javé (correspondência) | RC-284 | associado |
+| Democracia do Amor da Deidade | RC-333 | ← é-um |
+| Barbelo (Mãe-Pai primordial gnóstica) | RC-483 | associado |
+| Seres Originais do Paraíso | RC-600 | associado |
+| Destino das Mônadas após o Tikun | RC-653 | associado |
+| Prajapati (a divindade antes de virar Brama) | RC-852 | associado |
+| Kris Amon (Krysamon NEAD) | RC-934 | associado |
+
+## Seres Associados
+Divindades Co-criadoras (RC-054); Adhy (RC-011); Adhyagia (RC-012).
+
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo |
+|---|---|---|---|
+| P2012-02-19 | Xadrez Cósmico de Brahma, Vishnu e Shiva (palestra) | — | transcrição automatizada; citação |
+| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra) | — | transcrição automatizada; citação |
+| Painéis Emergentes... (B031) | Glossário de Termos | p. 127 (aprox.) | verbete "Deidade" |
+| Painéis Emergentes... (B031) | Glossário de Termos | p. 131 (aprox.) | verbete "Deus" (Deus Incognoscível) |
+
 
 ## Citações-chave
 > "Seria o Pai-Mãe Amantíssimo, o Ser Supremo que deu origem a toda a Matriz Divina. Seria o 'Brahman' (e não Brahma) da tradição Hindu." — B031, verbete "Deidade"
@@ -106,52 +151,7 @@ A Deidade é o topo da hierarquia ontológica das RC: **Deidade (Pai-Mãe) → D
 > Notas de processo: 2 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-047.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
 
-## Etimologia e Grafias
-- **Grafia preferida:** Deidade
-- **Variações:** Pai-Mãe Amantíssimo; Ser Supremo; Brahman; Deus Incognoscível; Fonte
-
-
-## Seres Associados
-Divindades Co-criadoras (RC-054); Adhy (RC-011); Adhyagia (RC-012).
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Adhy | RC-011 | criado-por (origem) |
-| Adhyagia | RC-012 | associado |
-| Astréia | RC-027 | associado |
-| Criador (Brahma/Javé/Demiurgo) | RC-041 | distingue-se |
-| Despina | RC-051 | associado |
-| Deus / Deus Incognoscível | RC-052 | sinônimo (Deus Incognoscível) |
-| Deuses (os dois tipos) | RC-053 | associado |
-| Divindades (Co-criadoras) | RC-054 | é-um (origem) |
-| Espiritualidade Superior | RC-059 | relaciona-se-a |
-| Pandora | RC-086 | associado |
-| Portlan e Portlon | RC-088 | associado |
-| Yel Breasil | RC-139 | associado |
-| Zeus | RC-145 | associado |
-| Realidade Maior / Paraíso Original | RC-204 | associado |
-| Pai Supremo (Amantíssimo) | RC-205 | personifica-em |
-| Divindades Excelsas | RC-206 | associado |
-| Matriz Modeladora / Matriz de Cocriação | RC-210 | associado |
-| Caos = Brahma = Javé (correspondência) | RC-284 | associado |
-| Democracia do Amor da Deidade | RC-333 | ← é-um |
-| Barbelo (Mãe-Pai primordial gnóstica) | RC-483 | associado |
-| Seres Originais do Paraíso | RC-600 | associado |
-| Destino das Mônadas após o Tikun | RC-653 | associado |
-| Prajapati (a divindade antes de virar Brama) | RC-852 | associado |
-| Kris Amon (Krysamon NEAD) | RC-934 | associado |
-
 ## Observações
 Ficha baseada no glossário de B031. Verificar nas obras primárias o tratamento da Deidade/Deus Incognoscível (termo central da teologia RC).
 
 ---
-
-## Fontes
-| Obra (sigla) | Capítulo | Página | Tipo |
-|---|---|---|---|
-| P2012-02-19 | Xadrez Cósmico de Brahma, Vishnu e Shiva (palestra) | — | transcrição automatizada; citação |
-| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra) | — | transcrição automatizada; citação |
-| Painéis Emergentes... (B031) | Glossário de Termos | p. 127 (aprox.) | verbete "Deidade" |
-| Painéis Emergentes... (B031) | Glossário de Termos | p. 131 (aprox.) | verbete "Deus" (Deus Incognoscível) |
-

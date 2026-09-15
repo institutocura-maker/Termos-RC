@@ -18,6 +18,19 @@ Mecanismo central de transferência de "nanopontos da genética" do universo ant
 ## Contexto / Origem
 Criado por autorização excepcional do curador (Devolutiva Trilogia TALM, O-3 — RC-774) a partir do ART-2025-08-03.
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Mohen So (Avatar Keshava de Vishnu) | RC-081 | relaciona-se-a |
+| Projeto Talm | RC-091 | relaciona-se-a |
+| Nidana (ovo cósmico) | RC-154 | transfere-para |
+| Nanotecnologia Prânica (manipulação da matéria em escala atômica; base tecnológica do Projeto TALM) | RC-773 | ← usada-em |
+
+## Fontes
+| Obra/palestra | Localização | Tipo |
+|---|---|---|
+| ART-2025-08-03 — Dossiê Fenvans (Edson Cella Mendes) | Parte I, Cap. 1 | material do curador |
+
 ## Citações-chave
 > "O Pulso Eletromagnético Particularizado, ou PEP, é o mecanismo central e engenhoso que tornou possível a transferência da vida do universo antimaterial para o nosso universo material." — ART-2025-08-03, Cap. 1
 
@@ -29,19 +42,6 @@ Criado por autorização excepcional do curador (Devolutiva Trilogia TALM, O-3 �
 - "a operacionalização do Projeto TALM no universo físico, e a consequente viabilidade do PEP, só puderam ter início com o surgimento da terceira geração de estrelas, que tornou disponíveis os elementos químicos mais pesados (ferro, níquel, cálcio, magnésio e carbono)";
 - "a primeira replicação do 'nidana' no universo material ocorreu dentro de um 'casulo', um pequeno 'artefato autorreplicador' construído com esses elementos químicos".
 
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Mohen So (Avatar Keshava de Vishnu) | RC-081 | relaciona-se-a |
-| Projeto Talm | RC-091 | relaciona-se-a |
-| Nidana (ovo cósmico) | RC-154 | transfere-para |
-| Nanotecnologia Prânica (manipulação da matéria em escala atômica; base tecnológica do Projeto TALM) | RC-773 | ← usada-em |
-
 ## Observações
 - Fonte: material do curador (não primário); mecânica detalhada aguarda confirmação em fonte primária.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
-
-## Fontes
-| Obra/palestra | Localização | Tipo |
-|---|---|---|
-| ART-2025-08-03 — Dossiê Fenvans (Edson Cella Mendes) | Parte I, Cap. 1 | material do curador |

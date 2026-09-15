@@ -15,8 +15,44 @@ atualizado = "2026-08-29"
 ## Definição Sintética
 Estirpe capelina da qual **Yel Luzbel (Lúcifer)** é integrante — a mais mencionada na narrativa psicografada de Jeane Miranda ("Os Livros de Yel Luzbel"). Segundo B057, a família Yel foi urdida há cerca de **492 milhões de anos** e era composta por **5.545 seres**, todos ligados entre si pelo **"Processador Yel"**. Yel Luzbel exercia o cargo de **Primeiro Pesquisador** da família. (Cronologia e números: narrativa psicografada — a confirmar nas obras primárias de Ellam.)
 
+## Etimologia e Grafias
+- **Grafia preferida:** Família Yel
+- **Variações:** "família Yel"; estirpe Yel; "famílias capelinas" (conjunto)
+- **Obs.:** não confundir com a **Família Val** (RC-109) nem com a **Família Mion** (RC-443), outras estirpes de Capela
+
+
 ## Contexto / Origem
 Nos livros de Jeane Miranda, as famílias capelinas são **Biocoletivos** (coletivos de biodemos) criados por Sophia para administrar a Obra do Criador. A Família Yel é descrita como "uma das espécies do género capelino", com seres que nascem individualizados mas permanecem ligados pelo Processador familiar. É da inquietação de Yel Luzbel, seu Primeiro Pesquisador, que nasce o processo da Revolta Capelina.
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Biodemos | RC-036 | é-um |
+| Capela (Sistema) | RC-039 | origina-se-em |
+| Yel Luzbel | RC-142 | ← é-um |
+| Família Mion | RC-443 | relaciona-se-a |
+| Biocoletivos | RC-445 | associado |
+| Processadores Familiares | RC-446 | ← associado-a |
+| Primeiro Pesquisador (cargo capelino) | RC-447 | associado |
+| Revolta Capelina | RC-450 | envolvida-em |
+| Membros da Família Yel (Luziel, Adrax, Breasil, Lupon) | RC-492 | associado |
+
+## Seres Associados
+Yel Luzbel (RC-142); Len Mion (RC-074, estirpe rival); Sophia (RC-009, criadora dos biodemos); Olm / Mestre Codificador de Zion (RC-252, interlocutor).
+
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo |
+|---|---|---|---|
+| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra) | — | transcrição automatizada; citação |
+| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra) | — | transcrição automatizada; citação |
+| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra) | — | transcrição automatizada; citação |
+| A Revolta do Anjo Decaído (B057) | Cap. 1 | p. 15 (PDF) | narrativa psicografada (Yel Luzbel) |
+| A Revolta do Anjo Decaído (B057) | Cap. 1 | p. 15 (PDF) | urdida há ~492 milhões de anos; 5.545 seres |
+| O Início da Revolta Capelina (B058) | — | p. 1 (sinopse) | família aguarda resposta de Sophia |
+| O Início da Revolta Capelina (B058) | Cap. 15 | p. 67–68 (PDF) | desligamento do Processador Yel |
+
+
+
 
 ## Citações-chave
 > "Cada um de nós, da família Yel – uma das espécies do género capelino –, nasceu individualmente, com a sua particularidade e característica. Entretanto, mesmo sendo seres individualizados, éramos ligados uns aos outros por um mecanismo que ficou conhecido como o nosso 'Processador'." — B057, p. 15
@@ -77,45 +113,9 @@ Nos livros de Jeane Miranda, as famílias capelinas são **Biocoletivos** (colet
 - **[P2023-12-03 · FAMÍLIA YEL NA FALA DE 03/12/2023]** «deu guarida informação de Lúcifera, como se dissesse isso tem procedência. Instantaneamente, toda a família IEL se contaminou pelo vírus que surgiu, não é? O vírus não só surge aqui na terra, não suja. Vocês não tm noção do problema. Aí isso começou a se espalhar pelos outros processadores das» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
 - **[P2023-12-03 · A FAMÍLIA QUE VIU E FOI CONTAMINADA]** «A família Iel, que foi uma família criada para resolver um problema específico, um dos seus membros chamado Elusbell olhou, viu que tinha um problema ali, um defeito na criação, um problema no genoma, uma coisa que não funcionava dos termos em que a cultura comum disso aqui imaginava que seria e disse: "Ai, temos um problema." Quando ele disse isso, toda a cultura biodêmica ficou, ó.» (U0004) — A Iel deixa de ser lista de membros e passa a ter função no relato: criada para resolver um problema específico, foi dela o primeiro membro a perceber o defeito na criação — e dela o primeiro processador a dar guarida.
 
-## Etimologia e Grafias
-- **Grafia preferida:** Família Yel
-- **Variações:** "família Yel"; estirpe Yel; "famílias capelinas" (conjunto)
-- **Obs.:** não confundir com a **Família Val** (RC-109) nem com a **Família Mion** (RC-443), outras estirpes de Capela
-
-
-## Seres Associados
-Yel Luzbel (RC-142); Len Mion (RC-074, estirpe rival); Sophia (RC-009, criadora dos biodemos); Olm / Mestre Codificador de Zion (RC-252, interlocutor).
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Biodemos | RC-036 | é-um |
-| Capela (Sistema) | RC-039 | origina-se-em |
-| Yel Luzbel | RC-142 | ← é-um |
-| Família Mion | RC-443 | relaciona-se-a |
-| Biocoletivos | RC-445 | associado |
-| Processadores Familiares | RC-446 | ← associado-a |
-| Primeiro Pesquisador (cargo capelino) | RC-447 | associado |
-| Revolta Capelina | RC-450 | envolvida-em |
-| Membros da Família Yel (Luziel, Adrax, Breasil, Lupon) | RC-492 | associado |
-
 ## Observações
 A narrativa psicografada descreve os Yel como "individualizados" — nuance que difere do quadro geral da RC (capelinos como seres de mente coletiva); registrar como ponto de atenção (item README) para reconciliar com as obras primárias de Ellam. Dado cronológico: 492 milhões de anos e 5.545 integrantes vêm exclusivamente de B057 (fonte secundária psicografada).
 
 
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-442.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** os 2 trechos entre aspas desta ficha **não** resistem à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Todos deixam vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
-
-## Fontes
-| Obra (sigla) | Capítulo | Página | Tipo |
-|---|---|---|---|
-| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra) | — | transcrição automatizada; citação |
-| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra) | — | transcrição automatizada; citação |
-| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra) | — | transcrição automatizada; citação |
-| A Revolta do Anjo Decaído (B057) | Cap. 1 | p. 15 (PDF) | narrativa psicografada (Yel Luzbel) |
-| A Revolta do Anjo Decaído (B057) | Cap. 1 | p. 15 (PDF) | urdida há ~492 milhões de anos; 5.545 seres |
-| O Início da Revolta Capelina (B058) | — | p. 1 (sinopse) | família aguarda resposta de Sophia |
-| O Início da Revolta Capelina (B058) | Cap. 15 | p. 67–68 (PDF) | desligamento do Processador Yel |
-
-
-
