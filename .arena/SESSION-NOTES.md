@@ -3351,3 +3351,32 @@ binários** (docx 1 964 460 → 2 066 963 B · xlsx 305 976 → 311 012 B).
 O canônico não foi reexportado: a dívida era dos espelhos, não da Base.
 
 **Frentes: 1 ✅ · 2 ⏳ · 3 ⏳**
+
+
+## U79 — Encerramento · FRENTE 1.5: normalização atómica da B049
+
+⚠️ **4.ª regressão do git, contida pelo duplo cinturão (U48, U61, U67, U79).**
+HEAD voltou ao commit BASE da branch (0a640cf, U40); o remoto tinha 57da368.
+**Operação abortada antes de qualquer escrita.** Disco íntegro; só a ref
+regrediu. `reset --mixed FETCH_HEAD` + restauro do SESSION-NOTES (que
+reaparecera trocado pelo de OUTRA branch). Zero perdas.
+
+**Raio de acção medido antes de disparar:** das 767 citações da Base, só a
+RC-372 cita a B049 (10 fragmentos). As outras 10 fichas só a declaram.
+
+**Regra (3 passos, só artefatos provados):** TAB → espaço · colapsar runs de
+2+ espaços · podar pontas. Prova do passo 2: ZERO linhas com 2+ espaços antes.
+
+**Resultado:** 70 994 TABs → 0 · 7 886 linhas · contagem de linhas preservada
+(8 959). sha256 9e647924… → bf76ac9f…
+
+⚠️ **Segundo artefato, NÃO tocado:** espaços DENTRO de palavras (L106 «Reflex
+ão Neces s á ria» = «Reflexão Necessária»). Fora do despacho; exige confronto
+com o impresso.
+
+RC-372 reemitida pelo Portão B: 10 citações reextraídas e reconferidas,
+8 491 → 8 774 B, 0 TABs. Corrigida uma afirmação obsoleta da U75 nas notas.
+
+Suíte 21/21 · verificador OK (767 citações, 33 obras) · espelhos reconstruídos.
+
+**Frentes: 1 ✅ · 1.5 ✅ · 2 ⏳ · 3 ⏳**

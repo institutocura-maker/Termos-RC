@@ -5,7 +5,7 @@
  "rota": "R1",
  "criterio": "família B do censo v3 (referência homologada) — bloco de fonte única da B049 (Jesus e Nietzsche), 1 código (RC‑372), por despacho do Curador (via expressa; VIA (a): 1 obra = 1 lote). Ancoragem pela obra que OCORRE, não pela declarada (critério U57: RC‑372 declara também P2026‑07‑30 e P2025‑02‑15). O censo é ACHADOR, não CERCA (§6 do despacho do censo).",
  "v_revogado": true,
- "nota_fonte": "⚠️ **ARTEFATO DE FICHEIRO — TABULAÇÕES NO LUGAR DE ESPAÇOS, E A DECISÃO QUE O PORTÃO IMPÔS.** Nesta obra, **7 886 das 8 959 linhas** trazem o carácter TAB (U+0009) onde o livro impresso tem ESPAÇO: `O\\tSer\\tHumano\\tEmancipado`. É substituição operada pela extracção digital, **não** grafia da obra. **O PORTÃO B recusou a primeira redacção**, que citava a forma impressa com espaços — e recusou com razão: ele compara byte a byte. Pela U50, a normalização serve só para LOCALIZAR; o texto citado preserva os caracteres do ficheiro. E normalizar o `original.txt` agora seria higienização no meio da esteira, vedado pela U58. **Decisão:** a ficha cita os bytes exactos do ficheiro (com as tabulações), e **registra o artefato**, para que não se leia a tabulação como grafia do livro. A normalização desta obra fica proposta para a fase de Encerramento (frente 2 — higienização). **Voz:** a obra é escrita na primeira pessoa do autor («penso que», L3242; «tenho me perguntado», L3248).",
+ "nota_fonte": "⚠️ **ARTEFATO DE FICHEIRO — TABULAÇÕES: ENCERRADO POR DESPACHO (Frente 1.5, U79).** Quando esta ficha nasceu (U75), **7 886 das 8 959 linhas** da B049 traziam TAB (U+0009) onde o livro impresso tem ESPAÇO: `O\\tSer\\tHumano\\tEmancipado`. O **PORTÃO B RECUSOU** a primeira redacção, que citava a forma impressa — e recusou com razão: ele compara byte a byte. Pela U50 a normalização serve só para LOCALIZAR, e pela U58 a esteira de extração não se interrompe para higienizar; registrou-se então o artefato e citaram-se os bytes do ficheiro. O Curador **homologou a normalização (U76)** e determinou que corresse como **OPERAÇÃO ATÓMICA E ISOLADA**, fora da higienização global de metadados. **Executada em 14/09/2026** sobre `livros/CONCLUIDOS/B049_jesus_e_nietzsche/original.txt`: **70 994 TABs → 0**, em 7 886 linhas; contagem de linhas preservada (8 959); runs de 2+ espaços colapsadas (nenhuma pré-existia — prova de que só podiam vir de TAB); 707 linhas podadas nas pontas. **As 10 citações desta ficha foram reextraídas do ficheiro normalizado e passaram de novo pelo Portão B.** ⚠️ **NÃO FOI TOCADO O SEGUNDO ARTEFATO DA OBRA:** a extracção também inseriu ESPAÇOS DENTRO DE PALAVRAS — «**Reflex ão Neces s á ria**» (L106, título «Reflexão Necessária»). Não estava no despacho, e saná-lo exigiria confronto com o impresso; fica registrado para frente própria. **Voz:** a obra é escrita na primeira pessoa do autor («penso que», L3242; «tenho me perguntado», L3248).",
  "fichas": [
   {
    "cod": "RC-372",
@@ -16,7 +16,7 @@
      "B049",
      65,
      [
-      "O\tSer\tHumano\tEmancipado"
+      "O Ser Humano Emancipado"
      ],
      "o título no SUMÁRIO (entrada «9.», L64)"
     ],
@@ -24,7 +24,7 @@
      "B049",
      7918,
      [
-      "9.\tO\tSer\tHumano\tEmancipado"
+      "9. O Ser Humano Emancipado"
      ],
      "o título na secção de NOTAS (n.º 9; seguido de «1», L7919)"
     ],
@@ -32,7 +32,7 @@
      "B049",
      3731,
      [
-      "Este\té\to\tser\thumano\temancipado,\tlivre,\taquele\tque\tpensa,\to\tque\tnão\tmais\tse"
+      "Este é o ser humano emancipado, livre, aquele que pensa, o que não mais se"
      ],
      "A DEFINIÇÃO (1/3)"
     ],
@@ -40,7 +40,7 @@
      "B049",
      3732,
      [
-      "encontra\tcondicionado\tpelas\t“sombras\tda\tcaverna”,\tpelo\tmito\tda\tcrença\tem\tum"
+      "encontra condicionado pelas “sombras da caverna”, pelo mito da crença em um"
      ],
      "A DEFINIÇÃO (2/3)"
     ],
@@ -48,7 +48,7 @@
      "B049",
      3733,
      [
-      "“deus\testranho\te\ttresloucado”,\ta\tquem\ttodos\tdevem\ttemer\tsob\tpena\tde\tserem"
+      "“deus estranho e tresloucado”, a quem todos devem temer sob pena de serem"
      ],
      "A DEFINIÇÃO (3/3; continua em L3734 «É escravidão pura!»)"
     ],
@@ -56,7 +56,7 @@
      "B049",
      3726,
      [
-      "“prisioneiro”\tque\tescapa,\té\to\tfilósofo"
+      "“prisioneiro” que escapa, é o filósofo"
      ],
      "o antecedente platónico (início em L3725)"
     ],
@@ -64,7 +64,7 @@
      "B049",
      3729,
      [
-      "mesmo\té\tum\tato\tde\tiluminação\te\tde\tlibertação,\tque\tpassa\tsempre\tpela\teducação"
+      "mesmo é um ato de iluminação e de libertação, que passa sempre pela educação"
      ],
      "conhecer-se a si mesmo (início em L3728; continua em L3730)"
     ],
@@ -72,7 +72,7 @@
      "B049",
      3241,
      [
-      "Mais\tque\to\t“homem\tde\tSchopenhauer”\tou\tmesmo\to\t“super-homem\tde"
+      "Mais que o “homem de Schopenhauer” ou mesmo o “super-homem de"
      ],
      "A DISTINÇÃO (1/2)"
     ],
@@ -80,7 +80,7 @@
      "B049",
      3242,
      [
-      "Nietzsche”,\tpenso\tque\tsurgirá,\tainda,\tum\tmodelo\tde\tser\thumano\tesclarecido,"
+      "Nietzsche”, penso que surgirá, ainda, um modelo de ser humano esclarecido,"
      ],
      "A DISTINÇÃO (2/2; continua em L3243-L3246)"
     ],
@@ -88,7 +88,7 @@
      "B049",
      3243,
      [
-      "equilibrado\te,\tacima\tde\ttudo,\temancipado\t–\tque\testabelecerá\to\túnico\tmodo\tde\tse"
+      "equilibrado e, acima de tudo, emancipado – que estabelecerá o único modo de se"
      ],
      "o modelo vindouro (continua em L3244-L3246)"
     ]
@@ -97,7 +97,7 @@
     "⭐ **A obra DEFINE o termo, e a ficha a deixa defini‑lo:** «**Este** é o ser humano emancipado, **livre, aquele que pensa**, o que **não mais se encontra condicionado pelas “sombras da caverna”**, pelo mito da crença em um “deus estranho e tresloucado”, a quem todos devem temer sob pena de serem castigados. **É escravidão pura!**» (L3731–L3734). Não é paráfrase do motor: é a sentença da fonte, e vem no **capítulo que o termo intitula**.",
     "⭐ **O antecedente imediato é a leitura platónica da caverna — registrado como antecedente, não como equação.** «Sócrates explicou a Glauco que a “caverna” é o mundo perceptível, onde vivemos; as “sombras” são as coisas as quais damos importância […] as “amarras” ou “grilhões” são os nossos **tabus e preconceitos**; o “instrumento” que quebra os “grilhões”, é a **reflexão**; e o “prisioneiro” que escapa, é o **filósofo**» (L3721–L3727); e «o filósofo também diz a Glauco que **conhecer a si mesmo** é um ato de iluminação e de libertação, que passa sempre pela **educação do indivíduo**» (L3728–L3730). A ficha registra o encadeamento e o «Este» que o retoma — sem converter a sequência em identidade formal que a fonte não enuncia nesses termos (disciplina da RC‑233, U68).",
     "⭐ **A ABSTENÇÃO CENTRAL: NÃO É O SUPER‑HOMEM.** A obra distingue expressamente: «**Mais que** o “homem de Schopenhauer” ou mesmo o “**super-homem de Nietzsche**”, penso que surgirá, ainda, um modelo de ser humano **esclarecido, equilibrado e, acima de tudo, emancipado** – que estabelecerá o único modo de se viver dignamente – em relação aos “grilhões” genéticos e psíquicos que “enjaulam” […] o precioso “eu” advindo da natureza humana» (L3241–L3246). O «**mais que**» é da fonte. A ficha **não funde** o ser humano emancipado com o «super-homem»/«além-homem» (Übermensch), que o mesmo capítulo descreve separadamente, com o «amor pelo destino» (L3742–L3757).",
-    "⚠️ **Artefato de ficheiro — tabulações no lugar de espaços, registrado com a decisão tomada.** Nesta obra, **7 886 das 8 959 linhas** trazem TAB (U+0009) onde o impresso tem espaço: `O\\tSer\\tHumano\\tEmancipado`. É substituição da extracção, não grafia do livro. **A ficha cita a forma impressa** (com espaços), por entender que a tabulação é aparelho de transcrição (critério U61) — o mesmo raciocínio que nos fez registrar «SEM SABER» na B011 sem alterar a citação (U74). **A citação não ganha folga com isso:** cada fragmento é verbatim intra‑linha e foi localizado sem folga pelo `norm2`.",
+    "⚠️ **Artefato das tabulações — ENCERRADO (Frente 1.5, U79).** Quando a ficha nasceu (U75), **7 886 das 8 959 linhas** traziam TAB onde o impresso tem espaço, e o **PORTÃO B RECUSOU** a redacção com espaços — com razão, pois compara byte a byte; a ficha passou a citar os bytes do ficheiro e a registrar o artefato. O Curador homologou a normalização (U76) e mandou executá-la como **operação atómica, separada da higienização global de metadados**. **Em 14/09/2026 o `original.txt` foi normalizado: 70 994 TABs → 0**, em 7 886 linhas, com a contagem de linhas preservada. As **10 citações** foram reextraídas do ficheiro normalizado, reconferidas byte a byte e reemitidas — é a forma que agora se lê acima, sem tabulações. **O SEGUNDO ARTEFATO NÃO FOI TOCADO:** a extracção também inseriu espaços DENTRO de palavras («**Reflex ão Neces s á ria**», L106); não estava no despacho e saná-lo pede confronto com o impresso. Fica registrado.",
     "**O mapa da caverna, registrado como leitura da obra (não como doutrina do cadastro):** caverna = mundo perceptível · sombras = as coisas a que damos importância · amarras/grilhões = tabus e preconceitos · instrumento = reflexão · prisioneiro que escapa = filósofo (L3721–L3727).",
     "**A voz é a do autor, em primeira pessoa:** «penso que surgirá» (L3242), «tenho me perguntado» (L3248), «Desse modo, penso que a “busca da verdade” está vitimada…» (L1169). Registrado como tal.",
     "**Ancoragem (U57):** RC‑372 declara B049, P2026‑07‑30 e P2025‑02‑15; a evidência ocorre **na B049**, e é nela que a ficha se sustenta. Nenhum conteúdo das palestras foi importado.",
