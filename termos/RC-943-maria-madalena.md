@@ -23,11 +23,11 @@ Figura humana do círculo de Jesus; no F044, a **transmissora da terceira fase d
 ## Contexto / Origem
 Termo central nas aulas 03 e 05 (fonte primária F044). Verbatim-chave (Aula 03) — a terceira fase:
 
-> «agora Jesus iniciava uma terceira fase, quando ele chamou Maria Madalena e pediu para ela chamar mais quatro mulheres de Jerusalém e alguns apóstolos, porque ele, Jesus, iria ditar uma nova revelação, agora que estava como ressuscitado...»
+> «agora Jesus iniciava uma terceira fase, quando ele chamou Maria Madalena e pediu para ela chamar mais quatro mulheres de Jerusalém e alguns apóstolos, porque ele, Jesus, iria ditar uma nova revelação, agora que estava como ressuscitado,» — P2023-12-25-03 · `original.txt` L15 · reanexado à fonte na U101 (A5); o trecho legado não trazia aparelho de linha nem era verificável byte a byte.
 
 E (Aula 03), sobre a escolha da Igreja contra a revelação por Madalena:
 
-> «Jesus o Vivo, o Ressuscitado que através de Madalena, criou uma outra revelação totalmente diferente... A igreja preferiu a versão que Paulo criou. Paulo não conheceu Jesus...»
+> «Jesus o Vivo, o Ressuscitado que através de Madalena, criou uma outra revelação totalmente diferente,» » […] « «A igreja preferiu a versão que Paulo criou. Paulo não conheceu Jesus,» — P2023-12-25-03 · `original.txt` L9 · reconstrução aprovada pelo Curador na U101; 11 palavras da fonte omitidas — » […] « assinala o fosso, ao passo que » … « assinala apenas quebra de hard-wrap.
 
 Na Aula 05, «a verdadeira face de Maria Madalena» é desdobrada (papel de apóstola-reveladora, contraposta à face construída pelo cristianismo paulino).
 

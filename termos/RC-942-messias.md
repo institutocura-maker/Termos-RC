@@ -23,7 +23,7 @@ O «enviado» / ungido profetizado no Antigo Testamento, que viria «super poder
 ## Contexto / Origem
 O termo aparece nas aulas 01–05 do curso F044 (57.179 palavras, fonte primária), sendo o conceito central que costura a narrativa: o Messias profetizado há «400 anos de silêncio profético»; a hesitação de Jesus; a promessa do retorno; o deslocamento para o Jesus «Cristo» (ungido) do cristianismo emergente. Verbatim-chave (Aula 01):
 
-> «o homem Jesus não seria o avatar de Javé, seria o Messias, seria o enviado, seria aquele que viria super poderoso em nome de Javé, resolver o tema principal e mais tarde foi transposto para as páginas da Bíblia, que tema era esse? Um Criador...»
+> «o homem Jesus não seria o avatar de Javé, seria o Messias, seria o enviado, seria aquele que viria super poderoso em nome de Javé, resolver o tema principal e mais tarde foi transposto para as páginas da Bíblia, que tema era esse» » […] « «Um Criador,» — P2023-12-25-01 · `original.txt` L4 · reconstrução aprovada pelo Curador na U101; 1 palavra da fonte omitida — » […] « assinala o fosso, ao passo que » … « assinala apenas quebra de hard-wrap.
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |

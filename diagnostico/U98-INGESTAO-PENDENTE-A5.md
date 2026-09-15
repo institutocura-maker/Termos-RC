@@ -203,3 +203,48 @@ e passam a ser aparelháveis; 6 ficam por síntese (cobertura < 80 %).
 
 Pendências restantes desta lista: `B051` (7), `B071` (2), `B072` (2), `B064` (1),
 `ART-2026-08-18` (6) — sem qualquer ficheiro no repositório.
+
+---
+
+## 7. Adendo U101 — 11 citações aparelhadas (com reemissão de verbetes)
+
+Aplicadas as 11 reconstruções que fechavam a 95–100 % contra as aulas agora ingeridas.
+Comportas todas respeitadas: **A** (cada fragmento conferido byte a byte pelo Portão B),
+**B** (idempotência), **E** (vão ≤ 300), **G** (só obras que o Portão B resolve).
+
+| Ficha | Linha | Obra | L_fonte | Frag | Omitidas |
+|---|---|---|---|---|---|
+| RC-862 | 21 | P2023-12-25-01 | L5 | 1 | 0 |
+| RC-887 | 21 | P2023-12-25-04 | L9 | 2 | 1 |
+| RC-942 | 26 | P2023-12-25-01 | L4 | 3 | 1 |
+| RC-943 | 26 | P2023-12-25-03 | L15 | 1 | 0 |
+| RC-943 | 30 | P2023-12-25-03 | L9 | 2 | 11 |
+| RC-944 | 26 | P2023-12-25-01 | L5 | 1 | 0 |
+| RC-944 | 30 | P2023-12-25-02 | L6 | 1 | 0 |
+| RC-945 | 26 | P2023-12-25-03 | L13 | 1 | 0 |
+| RC-946 | 30 | P2023-12-25-03 | L9 | 4 | 12 |
+| RC-946 | 34 | P2023-12-25-03 | L10 | 2 | 5 |
+| RC-946 | 38 | P2023-12-25-04 | L10 | 1 | 0 |
+
+**Verificação final:** 11 citações · 19 trechos do corpo · 0 ausentes na fonte.
+
+### 7.1 Reemissão de verbetes (doutrina U87)
+
+Alteradas fichas ⇒ 3 verbetes reemitidos no mesmo commit (4 ocorrências):
+`V3.11.04-RC942-messias` · `V3.14.02-RC944-joao-batista` · `V5.23.01-RC887-nag-hammadi` (×2).
+O reemissor da U101 **não** funde nada com ` … `: transporta o corpo da citação tal como a
+ficha o traz, preservando `» … «` (hard-wrap) e `» […] «` (fosso aprovado) — ao contrário do
+`reemitir_verbetes_a5.py` da U92, que apagaria essa distinção.
+
+### 7.2 Lição de verificação — `fetch` sem refspec
+
+Durante a U100, um `git fetch origin` (sem refspec) devolveu `4ee46c9`, um commit **órfão**
+com 241 578 deleções face ao nosso trabalho. Não era regressão: o repositório tem dezenas de
+branches de sessão e o `fetch` sem refspec recolhe a branch **por omissão** — que não é a
+nossa. O protocolo correcto é sempre `git fetch origin arena/01a09ca0-termos-rc`.
+
+### 7.3 Lição de verificação — extrair trechos entre guillemets
+
+Ao conferir citações com `» […] « «texto»`, o regex `«([^»]+)»` captura o guillemet do
+marcador (deixa o trecho a começar por `«`, que não existe na fonte). O correcto é
+`«([^«»]+)»`.

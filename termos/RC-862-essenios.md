@@ -18,7 +18,7 @@ Seita judaica puritana do século I (ambiente do deserto, Qumran), descrita no a
 ## Contexto / Origem
 Materialização autorizada pelo despacho F044 (Anel C, 06/09/2026). O termo já constava do registro como `ficha=False` (fontes P2023-02-11; P2023-12-25-01), sem ficha própria; agora passa a `ficha=True`. Verbatim-chave (Aula 01, P2023-12-25-01) — a criação de João Batista:
 
-> «José casou com Maria, Isabel e Zacarias tiveram um filho e se filho foi criado pelos Essênios, conhecia todas as escrituras do povo judeu, o nome dele era João, tornou se um profeta todo poderoso...»
+> «José casou com Maria, Isabel e Zacarias tiveram um filho e se filho foi criado pelos Essênios, conhecia todas as escrituras do povo judeu, o nome dele era João, tornou se um profeta todo poderoso,» — P2023-12-25-01 · `original.txt` L5 · reanexado à fonte na U101 (A5); o trecho legado não trazia aparelho de linha nem era verificável byte a byte.
 
 É o meio ascético-profético que, no F044, transmite a João Batista o conhecimento das escrituras e a expectativa messiânica. Relação direta com **RC-944 João Batista** (criado neste Anel C) e com **RC-072 Jesus**.
 

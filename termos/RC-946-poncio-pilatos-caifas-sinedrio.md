@@ -27,15 +27,15 @@ No curso, «Sinédrio judaico» é apontado como redundância/pleonasmo: o Siné
 ## Contexto / Origem
 Pilatos domina a Aula 03 (versão político-jurídica: Barrabás, a turba, o centurião subornado por José de Arimateia); Caifás/Anás e o julgamento aparecem também na Aula 04. Verbatim-chave (Aula 03):
 
-> «Ah! Jesus foi crucificado porque... o Sinédrio judaico... é uma redundância, um pleonasmo porque o Sinédrio só existe no judaísmo... Foi Pôncio Pilatos.»
+> «Ah» » […] « «Jesus foi crucificado porque» » […] « «o» » […] « «Sinédrio judaico é uma redundância, um pleonasmo porque o Sinédrio só existe no judaísmo,» » […] « «Foi Pôncio Pilatos.» — P2023-12-25-03 · `original.txt` L9 · reconstrução aprovada pelo Curador na U101; 12 palavras da fonte omitidas — » […] « assinala o fosso, ao passo que » … « assinala apenas quebra de hard-wrap.
 
 E (Aula 03), sobre o pós-mortem e a culpa:
 
-> «quando Caifás e Anás descobrem isso, vão para cima de Pilatos. Pilatos abre imediatamente uma verificação ou acusação em cima do centurião... O centurião apareceu como sendo alguém que teria sido subornado por José de Arimatéi...»
+> «quando Caifás e Anás descobrem isso, vão para cima de Pilatos. Pilatos abre imediatamente uma verificação ou acusação em cima do centurião,» » […] « «O centurião apareceu como sendo alguém que teria sido subornado por José de» — P2023-12-25-03 · `original.txt` L10 · reconstrução aprovada pelo Curador na U101; 5 palavras da fonte omitidas — » […] « assinala o fosso, ao passo que » … « assinala apenas quebra de hard-wrap.
 
 E (Aula 04), sobre a releitura romana:
 
-> «Pôncio Pilatos, que representavam os romanos lá na crucificação, não queria crucificar Jesus. Ele tentou. Ele colocou Barrabás para dar uma opção para a turba decidir.»
+> «Pôncio Pilatos, que representavam os romanos lá na crucificação, não queria crucificar Jesus. Ele tentou. Ele colocou Barrabás para dar uma opção para a turba decidir.» — P2023-12-25-04 · `original.txt` L10 · reanexado à fonte na U101 (A5); o trecho legado não trazia aparelho de linha nem era verificável byte a byte.
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |

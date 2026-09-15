@@ -18,7 +18,7 @@ A biblioteca egípcia (Nag Hammadi) descoberta em 1945, onde foi encontrada a c�
 ## Contexto / Origem
 Materialização autorizada pelo despacho F044 (Anel C, 06/09/2026). O termo já constava do registro como `ficha=False` (fontes P2022-09-17; P2023-12-25-04), sem ficha própria; agora passa a `ficha=True`. Verbatim-chave (Aula 04, P2023-12-25-04) — a ocultação dos códices gnósticos:
 
-> «Quando eles souberam que legiões de tropas romanas estavam destruindo livros hereges, eles então esconderam, no século IV provavelmente no ano de 374, esconderam vários códices de papiros em uma certa caverna, uma região na época chamada Nag Hammadi, e que ainda continua sendo chamada assim... os livros gnósticos foram todos cancelados, e estes em língua copta foram escondidos.»
+> «Quando eles souberam que legiões de tropas romanas estavam destruindo livros hereges, eles então esconderam, no século IV  provavelmente no ano de 374, esconderam vários códices de papiros em uma certa caverna, uma região na época chamada Nag Hammadi, e que ainda continua sendo chamada assim.» » […] « «os livros gnósticos foram todos cancelados, e estes em língua copta foram escondidos.» — P2023-12-25-04 · `original.txt` L9 · reconstrução aprovada pelo Curador na U101; 1 palavra da fonte omitida — » […] « assinala o fosso, ao passo que » … « assinala apenas quebra de hard-wrap.
 
 O curso usa Nag Hammadi como **marco físico-histórico da recuperação da revelação gnóstica original** — a face «revelada» do Jesus ressuscitado (via Madalena), em contraste com a face paulina que a Igreja adotou.
 

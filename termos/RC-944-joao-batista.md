@@ -23,11 +23,11 @@ Profeta judeu do círculo dos **Essênios** (RC-862), que encerra «400 anos de 
 ## Contexto / Origem
 Aparece nas aulas 01 e 02 (fonte primária F044). Verbatim-chave (Aula 01):
 
-> «Depois de 400 anos de silêncio profético, João Batista começou a dizer que o Messias iria aparecer no tempo da vida dele, que era naquele tempo que aquele Messias profetizado na faixa de 2000 anos, finalmente tinha chegado o momento.»
+> «Depois de 400 anos de silêncio profético, João Batista começou a dizer que o Messias, iria aparecer no tempo da vida dele, que era naquele tempo que aquele Messias profetizado na faixa de 2000 anos, finalmente tinha chegado o momento.» — P2023-12-25-01 · `original.txt` L5 · reanexado à fonte na U101 (A5); o trecho legado não trazia aparelho de linha nem era verificável byte a byte.
 
 E (Aula 02), sobre o batismo como necessidade:
 
-> «ele poderia ter iniciado seu ministério público, sem passar pelas mãos de João Batista... pelo batismo de João Batista. Existiam outras maneiras.»
+> «ele poderia ter iniciado seu ministério público, sem passar pelas mãos de João Batista pelo batismo de João Batista. Existiam outras maneiras.» — P2023-12-25-02 · `original.txt` L6 · reanexado à fonte na U101 (A5); o trecho legado não trazia aparelho de linha nem era verificável byte a byte.
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
