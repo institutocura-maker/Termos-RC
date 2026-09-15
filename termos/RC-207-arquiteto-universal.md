@@ -62,3 +62,4 @@ Prabrajna/Prajapati (RC-152); Javé (RC-001); Deidade (RC-047); Divindades Excel
 
 ## Observações
 Ficha baseada em B001/B002 (obras primárias). Distinguir com cuidado: **Arquiteto Universal** (função pré-queda) × **Senhor Javé** (condição pós-queda) × **Prabrajna/Prajapati** (nome pré-queda).
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

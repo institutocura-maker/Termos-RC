@@ -55,3 +55,4 @@ Campo de energias extrafísicas formado no plano astral a partir das emoções e
 ## Observações
 
 Ficha materializada na escala do Apêndice C (P5c, 10/09/2026): código 🟡 provisório, sem colisão de uso no corpus. O gloss "Egrégora dos Elétrons Rebeldes" já era usado pela ficha RC-711. B075 (Mentalma II) não retornou ocorrências em busca textual — mantido como fonte registrada.
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** os 2 trechos entre aspas desta ficha **não** resistem à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Todos deixam vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

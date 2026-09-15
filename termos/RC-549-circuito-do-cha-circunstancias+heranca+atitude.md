@@ -54,3 +54,4 @@ Espírito encarnado; "Eu piloto automático" (o que vive o circuito).
 
 ## Observações
 Conceito psicológico-espiritual do Mentalma I. Não confundir com outras siglas "CHA" da base (a busca retornou RC-266/295/485 apenas por coincidência de caracteres). Aplicável à gestão psíquica do cotidiano e à reforma íntima.
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** os 2 trechos entre aspas desta ficha **não** resistem à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Nenhum deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

@@ -59,3 +59,4 @@ Seres extraterrestres (RC-098); anjos decaídos (RC-020); Jesus (RC-072).
 
 ## Observações
 Ficha baseada em B005 (obra primária). O Fator Extraterrestre é o conceito que conecta a ufologia à cosmologia RC — o "elo perdido" da origem humana.
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

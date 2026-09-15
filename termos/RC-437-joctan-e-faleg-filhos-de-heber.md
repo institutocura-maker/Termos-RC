@@ -72,4 +72,4 @@ Maldição de Faleg e Abraão/Sara irmãos são **leitura do autor** (quarentena
 > Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
 
 - «O mensageiro levou também a instrução dada por Heber de que ele, desde que possível, fosse em direção ao norte, para verificar as notícias recebidas pelo Conselho dos Anciãos sobre a vida que lá se desenvolvia.» — *ver:* **Ampliação — B052 (Homoafetividade: O Segredo Perdido do É…**, p. 111
-
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

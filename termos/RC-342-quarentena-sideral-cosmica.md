@@ -74,3 +74,4 @@ Lúcifer (RC-078); Jesus (RC-072); Exilados de Capela (RC-007).
 
 ## Observações
 Ficha baseada na trilogia B003/B025/B026 (obras primárias). A Quarentena Sideral é o nome da 1ª fase para o Isolamento Cósmico — registra a evolução terminológica do corpus. Cruzar com RC-070 e RC-003.
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

@@ -104,3 +104,4 @@ Len Mion (RC-074); Gron Mion (RC-067, citado nas obras primárias); Yel Luzbel (
 
 ## Observações
 Nos livros da Jeane, os Mion são descritos como "mais antigos que os Yel" e os seres da família são citados como nascidos "coletivamente" (diferente dos Yel, individualizados) — detalhe narrativo a reconciliar com as obras primárias. O "Primeiro em Comando" da Família Mion torna-se figura-chave no Livro 2 (B058).
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** os 3 trechos entre aspas desta ficha **não** resistem à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Só 2 dos 3 deixam vestígio no corpus. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

@@ -47,3 +47,4 @@ Olm / Mestre Codificador de Zion (RC-092/RC-252); Sophia (RC-009, com quem o Cod
 
 ## Observações
 **Ficha criada no ciclo B057 (Devolutiva O-2, 2026-08-25)** — termo já constava da tabela-mestra (B031/B057/B061 nas fontes) sem ficha física. Grafia absorvida (O-4): B057 escreve **Zion**; a base mantém **Zian (Zion)** como canônico. **Quarentena ufológica (O-7):** cruzar, não materializar como fato. 0 códigos novos (O-3).
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

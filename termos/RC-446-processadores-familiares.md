@@ -91,3 +91,4 @@ Yel Luzbel (RC-142, primeiro a se desligar); Sophia (RC-009, criadora); Sábios 
 
 ## Observações
 Conceito central da narrativa psicografada: os Processadores como instrumento de controle de Sophia sobre os biodemos. Nas obras primárias de Ellam existe o "Processador Val" (RC-089) — sugerido como análogo; verificar nas obras primárias (ex.: B017/B018) a correspondência exata com os "Processadores Familiares".
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** os 3 trechos entre aspas desta ficha **não** resistem à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Todos deixam vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

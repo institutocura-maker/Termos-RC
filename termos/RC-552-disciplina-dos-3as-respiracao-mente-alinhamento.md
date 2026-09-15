@@ -87,3 +87,4 @@ Prática simples e acessível (respiração + mente + alinhamento) — a "porta 
 - **Unidades:** U0563–U0571.
 - **Contexto acrescentado:** A prática respiratória, meditativa e de alinhamento é reforçada como disciplina de emancipação vinculada ao Mentalma e ao Moksha.
 - **Status da evidência:** transcrição automatizada, pré-curada e aprovada quanto à integração terminológica; conferir com áudio/obra antes de promover status.
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** os 2 trechos entre aspas desta ficha **não** resistem à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Todos deixam vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

@@ -46,5 +46,4 @@ Os ciclos de fluxo que varrem o sistema e alteram o curso da evolução terrestr
 
 - O heading da seção na p. 120 está degradado no STT da fonte («Efeitos da Mar é Cósmica»); o título limpo «Efeitos da Maré Cósmica» consta do sumário — grafia canônica mantida.
 - A frase citada é epígrafe de Heráclito reproduzida pelo autor; o parágrafo do autor é hard-wrapped e fratura a sentença, sem sentença intra-linha própria disponível para citação — aguardar nova conferência quando houver extração em parágrafo.
-
-
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o bloco entre «» desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

@@ -62,3 +62,4 @@ Demos da geração do Olimpo (RC-049); Despina (ser que narra); Heber (RC-436) e
 
 ## Observações
 Ficha baseada em B052 (obra primária, 2016). Tese ousada: a atração sexual como mecanismo de coesão anterior à polaridade — explica a homoafetividade como herança demo original. Cruzar com RC-433/434/435.
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

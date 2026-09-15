@@ -78,3 +78,4 @@ Kether/Javé (RC-261); Deidade (RC-047); Criador (RC-041).
 
 ## Observações
 Ficha baseada em B013 (obra primária). Este é um dos mapeamentos mais valiosos do corpus: a Cabala inteira (Atziluth→Assiah) corresponde exatamente às camadas das RC (Espiritualidade Superior → Perpérion → Brahmaloka → Bhuloka). Registrar como referência de equivalência entre tradições.
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

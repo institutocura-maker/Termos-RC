@@ -102,3 +102,4 @@ Cada humano é tratado como parte do quebra-cabeça genético necessário à rec
 ## Reforço — P2025-02-15
 
 Primado da Informação, Tikun e ação do humano não local são associados ao reparo da obra e reconstrução do Criador. O processo permanece cosmologia RC.
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

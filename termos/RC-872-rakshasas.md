@@ -40,4 +40,4 @@ atualizado = "2026-09-13"
 
 ### Remissiva C6 (despacho 2.6 — 12/09/2026)
 Homônimo no cadastro: **RC-581** — Rakshasas (verificado). Esta ficha é a entrada enxuta do par; o dossiê maior é RC-581. Despacho 2.6: manter sem fusão.
-
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o bloco entre «» desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

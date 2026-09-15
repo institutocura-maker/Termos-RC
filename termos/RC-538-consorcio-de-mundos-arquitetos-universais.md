@@ -53,3 +53,4 @@ Arquitetos Universais (RC-539); Arquiteto Universal (RC-207); Criatura Universal
 
 ## Observações
 Termo citado na sinopse e desenvolvido ao longo do B019 (obra primária, 2021). Conectar com a "Era da Criatura Universal" (RC-172) e com o Projeto Terra (RC-347) na revisão cruzada.
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

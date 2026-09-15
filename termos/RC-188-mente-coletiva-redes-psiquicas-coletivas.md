@@ -92,3 +92,4 @@ Seres Originais do Paraíso (RC-600); Gênero Adhy (RC-411); Seres LM (RC-456).
 
 ## Observações
 A fusão NT-E10 → RC-188 foi aprovada pelo curador. Não reduzir toda rede psíquica coletiva a mecanismo autoritário: o controle Colmeia é uma aplicação específica, não a definição integral do conceito.
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

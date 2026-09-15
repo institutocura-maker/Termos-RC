@@ -54,3 +54,4 @@ Seres Terrenos (RC-099); Criador (RC-041, origem do DNA doentio).
 
 ## Observações
 Ficha baseada em B040 (obra primária, assinada com nome civil). Obra-ponte entre evolução biológica e comportamento social — conecta a agressividade do DNA (B041/B024) à civilização.
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

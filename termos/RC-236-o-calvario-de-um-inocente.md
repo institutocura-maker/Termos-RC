@@ -56,3 +56,4 @@ Jesus (RC-072); Yel Luzbel/Lúcifer (RC-142/RC-078); Len Mion/Satã (RC-074); So
 
 ## Observações
 Ficha baseada em B039 (obra primária). O evento conecta a trilogia Terra Atlantis ao Drama Terreno de Javé e ao papel de Judas (ver RC-138 Yel Am/Yel Liam). Verificar detalhes do capítulo 11 completo.
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

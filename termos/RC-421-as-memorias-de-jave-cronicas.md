@@ -55,3 +55,4 @@ Javé (RC-001); Jan Val Ellam (RC-071); Mônica Camargo (RC-420, contexto).
 
 ## Observações
 Ficha baseada em B036 (obra primária). As Memórias são a terceira peça do "diálogo direto com Javé" (Favor Divino → Cartas → Memórias). Um resumo estruturado (B036R) foi recebido e incorporado à leitura.
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

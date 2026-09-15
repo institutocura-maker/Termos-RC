@@ -63,3 +63,4 @@ Yel Luzbel (RC-142); Len Mion (RC-074); Sophia (RC-009, questionada); o "Primeir
 
 ## Observações
 Evento descrito por fonte **secundária psicografada** (Jeane Miranda). Conectar a cronologia da Rebelião de Lúcifer (RC-002: 742 mil / 687 mil / 619 mil anos, B031) com a narrativa dos Livros de Yel Luzbel — pendente de reconciliação nas obras primárias de Ellam. O Livro 3 (B059) cobre os "sinais de guerra" que precedem o combate final.
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** os 2 trechos entre aspas desta ficha **não** resistem à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Todos deixam vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

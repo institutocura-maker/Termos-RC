@@ -58,4 +58,4 @@ Grafias STT registradas: Aldabaof, Aldabaofelo, Sácala/Sáclas, Sabaov/Sabaof �
 
 - «É o soberano cego, que também é chamado de Sacla, o ignorante, também de Aldabaof, o blasfemador contra o divino, também de Sabaof, mas Mas esse é o mesmo ser conhecido como Javé Brab.» — *ver:* **Ampliação — P2022-09-17 (A Hipóstase dos Arcontes)** U0004
 - «E o que ela havia criado foi parido pela nuvem como um feto abortado, ou seja, o criador reconstruído, ou seja, Javé reconstruído, Samael reconstruído, é um feto.» — *ver:* **Ampliação — P2022-09-17 (A Hipóstase dos Arcontes)** U0046
-
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

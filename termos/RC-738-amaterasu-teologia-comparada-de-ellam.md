@@ -59,3 +59,4 @@ atualizado = "2026-08-16"
 
 ## Citações-chave
 > "E Amaterasu, que é Atena, que é, entre aspas, filha de Zeus. E Atena é tida como deusa virgem. E o pior: de fato, assim ela permaneceu, porque tudo o que ela fez foi por manipulação genética. Então, a pureza do sangue dos descendentes da casa real japonesa tem a pretensão de ser, entre aspas, a pureza da deusa Amaterasu."" — P2024-09-29
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

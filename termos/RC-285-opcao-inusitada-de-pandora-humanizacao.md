@@ -88,3 +88,4 @@ Ficha baseada em B020 (obra primária) + B031. A Opção Inusitada é o momento 
 - **Unidades:** U0593–U0598.
 - **Contexto acrescentado:** O movimento de consciência de Pandora é relacionado ao surgimento da racionalidade humana e à ruptura progressiva com a voz dos deuses.
 - **Status da evidência:** transcrição automatizada, pré-curada e aprovada quanto à integração terminológica; conferir com áudio/obra antes de promover status.
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

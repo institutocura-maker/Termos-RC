@@ -52,3 +52,4 @@ Prepostos da Deidade (RC-206); civilizações planetárias (RC-098).
 
 ## Observações
 Ficha baseada em B005 (obra primária). As Confederações de Mundos são o "mapa político" do cosmos nas RC — conectam à Reintegração Cósmica e à cidadania cósmica (RC-226).
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

@@ -89,3 +89,4 @@ A fala usa “o mesmo kit de elétrons”. “Reencarnatório” explicita edito
 ## Reforço — P2025-02-15
 
 Na explicação sobre Jesus e Sophia, a ressurreição é descrita como devolução de um kit de elétrons emprestado por um corpo biodemo, enquanto o eu de Jesus seria apropriado pelo espírito ligado a Sophia. A arquitetura é específica e não deve ser generalizada.
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

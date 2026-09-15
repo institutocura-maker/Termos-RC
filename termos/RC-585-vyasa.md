@@ -125,3 +125,4 @@ A relação Heber–Vyasa foi validada contextualmente pelo curador, mas continu
 ## Reforço — vínculo com Moros / P2024-11-30
 
 Vyasa é apresentado como expressão humana/Rishi ligada ao espírito primário de Moros, capaz de traduzir conhecimento para diferentes lokas e produzir versões do Mahabharata, Puranas e Vedas. A relação é `vinculado-ao-espírito`, não identidade simples de nomes.
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

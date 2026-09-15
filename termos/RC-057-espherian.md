@@ -40,3 +40,4 @@ A maior das três grandes naves com que a Família Val (736 membros) aportou na 
 ## Observações
 
 Ficha materializada na escala do Apêndice C (P5d — Frota Val, 10/09/2026): código 🟡 provisório, sem colisão de uso no corpus. O cadastro lista como fonte apenas B031 — as primárias B017/B018/B039 foram extraídas nesta materialização e ainda não constam do cadastro.
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

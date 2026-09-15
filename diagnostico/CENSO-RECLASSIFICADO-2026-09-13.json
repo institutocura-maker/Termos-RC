@@ -8,6 +8,7 @@
    "B015"
   ],
   "chave": "guerra do eden",
+  "fam": "E.não-achado-no-corpus",
   "alias_v1": "",
   "fam_v1": "E.não-achado-no-corpus",
   "fam_v2": "E.não-achado-no-corpus",
@@ -29,6 +30,7 @@
    "B031"
   ],
   "chave": "antlar",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "B.prosa-citável-na-fonte-declarada",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -73,6 +75,7 @@
    "B031"
   ],
   "chave": "antlartes",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "D.só-estrutural(listas/sumários/hard-wrap)",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -106,6 +109,7 @@
    "B031"
   ],
   "chave": "astralizacao dos biodemos",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "D.só-estrutural(listas/sumários/hard-wrap)",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -152,6 +156,7 @@
    "P2023-05-21"
   ],
   "chave": "astreia",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "B.prosa-citável-na-fonte-declarada",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -207,6 +212,7 @@
    "B031"
   ],
   "chave": "atlans",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "D.só-estrutural(listas/sumários/hard-wrap)",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -240,6 +246,7 @@
    "B031"
   ],
   "chave": "atlantes",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "B.prosa-citável-na-fonte-declarada",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -275,6 +282,7 @@
    "B018"
   ],
   "chave": "benem",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "B.prosa-citável-na-fonte-declarada",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -330,6 +338,7 @@
    "B031"
   ],
   "chave": "conselho dos cinco",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "D.só-estrutural(listas/sumários/hard-wrap)",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -386,6 +395,7 @@
    "B044"
   ],
   "chave": "cultura demo",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "B.prosa-citável-na-fonte-declarada",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -441,6 +451,7 @@
    "B031"
   ],
   "chave": "daemon",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "B.prosa-citável-na-fonte-declarada",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -496,6 +507,7 @@
    "B031"
   ],
   "chave": "demiurgo",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "B.prosa-citável-na-fonte-declarada",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -552,6 +564,7 @@
    "P2025-06-26"
   ],
   "chave": "demonios",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "B.prosa-citável-na-fonte-declarada",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -609,6 +622,7 @@
    "B089"
   ],
   "chave": "despina",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "B.prosa-citável-na-fonte-declarada",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -667,6 +681,7 @@
    "P2024-11-09"
   ],
   "chave": "deuses",
+  "fam": "F.nome-ambíguo",
   "alias_v1": "",
   "fam_v1": "F.nome-ambíguo",
   "fam_v2": "F.nome-ambíguo",
@@ -723,6 +738,7 @@
    "B024"
   ],
   "chave": "divindades",
+  "fam": "F.nome-ambíguo",
   "alias_v1": "",
   "fam_v1": "F.nome-ambíguo",
   "fam_v2": "F.nome-ambíguo",
@@ -780,6 +796,7 @@
    "B018"
   ],
   "chave": "frota norte",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "B.prosa-citável-na-fonte-declarada",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -835,6 +852,7 @@
    "B031"
   ],
   "chave": "genos",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "B.prosa-citável-na-fonte-declarada",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -890,6 +908,7 @@
    "B031"
   ],
   "chave": "gron mion",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "D.só-estrutural(listas/sumários/hard-wrap)",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -945,6 +964,7 @@
    "B031"
   ],
   "chave": "ion crom",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "B.prosa-citável-na-fonte-declarada",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -979,6 +999,7 @@
    "P2026-04-02"
   ],
   "chave": "keshava",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "B.prosa-citável-na-fonte-declarada",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -1035,6 +1056,7 @@
    "B014"
   ],
   "chave": "logos",
+  "fam": "F.nome-ambíguo",
   "alias_v1": "",
   "fam_v1": "F.nome-ambíguo",
   "fam_v2": "F.nome-ambíguo",
@@ -1092,6 +1114,7 @@
    "B060"
   ],
   "chave": "lokas",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "B.prosa-citável-na-fonte-declarada",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -1150,6 +1173,7 @@
    "B023"
   ],
   "chave": "nephilins",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "B.prosa-citável-na-fonte-declarada",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -1205,6 +1229,7 @@
    "B031"
   ],
   "chave": "norte divino",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "D.só-estrutural(listas/sumários/hard-wrap)",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -1261,6 +1286,7 @@
    "P2024-11-09"
   ],
   "chave": "orbe",
+  "fam": "F.nome-ambíguo",
   "alias_v1": "",
   "fam_v1": "F.nome-ambíguo",
   "fam_v2": "F.nome-ambíguo",
@@ -1319,6 +1345,7 @@
    "P2020-08-08"
   ],
   "chave": "orbum",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "B.prosa-citável-na-fonte-declarada",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -1374,6 +1401,7 @@
    "B031"
   ],
   "chave": "portlan e portlon",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "D.só-estrutural(listas/sumários/hard-wrap)",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -1409,6 +1437,7 @@
    "B026"
   ],
   "chave": "projeto planeta azul",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "B.prosa-citável-na-fonte-declarada",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -1464,6 +1493,7 @@
    "B031"
   ],
   "chave": "rogerio de almeida freitas",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "B.prosa-citável-na-fonte-declarada",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -1509,6 +1539,7 @@
    "P2020-04-04"
   ],
   "chave": "seres extrafisicos",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "B.prosa-citável-na-fonte-declarada",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -1571,6 +1602,7 @@
    "P2024-11-09"
   ],
   "chave": "seres espirituais",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "B.prosa-citável-na-fonte-declarada",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -1626,6 +1658,7 @@
    "B031"
   ],
   "chave": "ulsh",
+  "fam": "F.nome-ambíguo",
   "alias_v1": "",
   "fam_v1": "F.nome-ambíguo",
   "fam_v2": "F.nome-ambíguo",
@@ -1674,6 +1707,7 @@
    "P2024-08-03"
   ],
   "chave": "universo paralelo",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "B.prosa-citável-na-fonte-declarada",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -1729,6 +1763,7 @@
    "B031"
   ],
   "chave": "val am",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "D.só-estrutural(listas/sumários/hard-wrap)",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -1784,6 +1819,7 @@
    "B031"
   ],
   "chave": "val amon",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "D.só-estrutural(listas/sumários/hard-wrap)",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -1840,6 +1876,7 @@
    "B060"
   ],
   "chave": "val anen",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "B.prosa-citável-na-fonte-declarada",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -1895,6 +1932,7 @@
    "B031"
   ],
   "chave": "val anon",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "D.só-estrutural(listas/sumários/hard-wrap)",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -1939,6 +1977,7 @@
    "B031"
   ],
   "chave": "val antien",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "D.só-estrutural(listas/sumários/hard-wrap)",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -1994,6 +2033,7 @@
    "B031"
   ],
   "chave": "val aten",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "D.só-estrutural(listas/sumários/hard-wrap)",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -2050,6 +2090,7 @@
    "B060"
   ],
   "chave": "val bon",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "B.prosa-citável-na-fonte-declarada",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -2105,6 +2146,7 @@
    "B031"
   ],
   "chave": "val den",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "D.só-estrutural(listas/sumários/hard-wrap)",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -2160,6 +2202,7 @@
    "B031"
   ],
   "chave": "val ean",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "D.só-estrutural(listas/sumários/hard-wrap)",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -2193,6 +2236,7 @@
    "B031"
   ],
   "chave": "val elliah",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "D.só-estrutural(listas/sumários/hard-wrap)",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -2226,6 +2270,7 @@
    "B031"
   ],
   "chave": "val ellieh",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "D.só-estrutural(listas/sumários/hard-wrap)",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -2262,6 +2307,7 @@
    "B039"
   ],
   "chave": "val eno",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "B.prosa-citável-na-fonte-declarada",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -2317,6 +2363,7 @@
    "B031"
   ],
   "chave": "val eon",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "D.só-estrutural(listas/sumários/hard-wrap)",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -2350,6 +2397,7 @@
    "B031"
   ],
   "chave": "val gevi",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "D.só-estrutural(listas/sumários/hard-wrap)",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -2383,6 +2431,7 @@
    "B031"
   ],
   "chave": "val geon",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "D.só-estrutural(listas/sumários/hard-wrap)",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -2427,6 +2476,7 @@
    "B031"
   ],
   "chave": "val-ha",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "B.prosa-citável-na-fonte-declarada",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -2482,6 +2532,7 @@
    "B031"
   ],
   "chave": "val ilon",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "D.só-estrutural(listas/sumários/hard-wrap)",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -2527,6 +2578,7 @@
    "B060"
   ],
   "chave": "val pen",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "D.só-estrutural(listas/sumários/hard-wrap)",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -2582,6 +2634,7 @@
    "B031"
   ],
   "chave": "val sean",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "D.só-estrutural(listas/sumários/hard-wrap)",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -2637,6 +2690,7 @@
    "B031"
   ],
   "chave": "val sion",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "D.só-estrutural(listas/sumários/hard-wrap)",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -2692,6 +2746,7 @@
    "B031"
   ],
   "chave": "val dos corpos perdidos",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "B.prosa-citável-na-fonte-declarada",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -2748,6 +2803,7 @@
    "B015"
   ],
   "chave": "viajores",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "B.prosa-citável-na-fonte-declarada",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -2805,6 +2861,7 @@
    "P2023-12-03"
   ],
   "chave": "yel",
+  "fam": "F.nome-ambíguo",
   "alias_v1": "",
   "fam_v1": "F.nome-ambíguo",
   "fam_v2": "F.nome-ambíguo",
@@ -2860,6 +2917,7 @@
    "B031"
   ],
   "chave": "yel adrax",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "D.só-estrutural(listas/sumários/hard-wrap)",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -2908,6 +2966,7 @@
    "P2025-10-25"
   ],
   "chave": "yel am",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "D.só-estrutural(listas/sumários/hard-wrap)",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -2963,6 +3022,7 @@
    "B031"
   ],
   "chave": "yel breasil",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "D.só-estrutural(listas/sumários/hard-wrap)",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -2996,6 +3056,7 @@
    "B031"
   ],
   "chave": "yel liam",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "D.só-estrutural(listas/sumários/hard-wrap)",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -3040,6 +3101,7 @@
    "B031"
   ],
   "chave": "yel lupon",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "B.prosa-citável-na-fonte-declarada",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -3095,6 +3157,7 @@
    "B031"
   ],
   "chave": "yel luziel",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "D.só-estrutural(listas/sumários/hard-wrap)",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -3150,6 +3213,7 @@
    "B031"
   ],
   "chave": "zeitgeist",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "B.prosa-citável-na-fonte-declarada",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -3194,6 +3258,7 @@
    "B024"
   ],
   "chave": "era da solidao",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "B.prosa-citável-na-fonte-declarada",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -3227,6 +3292,7 @@
    "B024"
   ],
   "chave": "era da geracao",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "B.prosa-citável-na-fonte-declarada",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -3260,6 +3326,7 @@
    "B024"
   ],
   "chave": "era da punicao",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "B.prosa-citável-na-fonte-declarada",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -3293,6 +3360,7 @@
    "B024"
   ],
   "chave": "era do impasse",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "B.prosa-citável-na-fonte-declarada",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -3337,6 +3405,7 @@
    "B024"
   ],
   "chave": "era da lila e da aceitacao",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "B.prosa-citável-na-fonte-declarada",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -3370,6 +3439,7 @@
    "B024"
   ],
   "chave": "era da semeadura universal",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "B.prosa-citável-na-fonte-declarada",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -3403,6 +3473,7 @@
    "B024"
   ],
   "chave": "era do refinamento da semeadura biologica universal",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "C.prosa-fora-das-fontes-declaradas",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -3436,6 +3507,7 @@
    "B024"
   ],
   "chave": "era da geopolitica universal e da divisao do comando",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "E.não-achado-no-corpus",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -3470,6 +3542,7 @@
    "B019"
   ],
   "chave": "era da criatura universal",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "D.só-estrutural(listas/sumários/hard-wrap)",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -3503,6 +3576,7 @@
    "B024"
   ],
   "chave": "era das supercivilizacoes",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "B.prosa-citável-na-fonte-declarada",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -3537,6 +3611,7 @@
    "B015"
   ],
   "chave": "colmeia do eden",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "D.só-estrutural(listas/sumários/hard-wrap)",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -3581,6 +3656,7 @@
    "B044"
   ],
   "chave": "dois grandes favos",
+  "fam": "E.não-achado-no-corpus",
   "alias_v1": "",
   "fam_v1": "E.não-achado-no-corpus",
   "fam_v2": "E.não-achado-no-corpus",
@@ -3603,6 +3679,7 @@
    "P2024-11-30"
   ],
   "chave": "fator colmeia",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "B.prosa-citável-na-fonte-declarada",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -3658,6 +3735,7 @@
    "B044"
   ],
   "chave": "pluribus unum",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "D.só-estrutural(listas/sumários/hard-wrap)",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -3713,6 +3791,7 @@
    "B044"
   ],
   "chave": "unus pluribum",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "D.só-estrutural(listas/sumários/hard-wrap)",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -3769,6 +3848,7 @@
    "B014"
   ],
   "chave": "cultura demodharmica",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "B.prosa-citável-na-fonte-declarada",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -3825,6 +3905,7 @@
    "B020"
   ],
   "chave": "trava-demo",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "B.prosa-citável-na-fonte-declarada",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -3858,6 +3939,7 @@
    "B044"
   ],
   "chave": "horda colmeia",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "D.só-estrutural(listas/sumários/hard-wrap)",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -3891,6 +3973,7 @@
    "B044"
   ],
   "chave": "insectoides",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "D.só-estrutural(listas/sumários/hard-wrap)",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -3936,6 +4019,7 @@
    "P2024-09-29"
   ],
   "chave": "big data da terra",
+  "fam": "E.não-achado-no-corpus",
   "alias_v1": "",
   "fam_v1": "D.só-estrutural(listas/sumários/hard-wrap)",
   "fam_v2": "E.não-achado-no-corpus",
@@ -3958,6 +4042,7 @@
    "P2024-09-29"
   ],
   "chave": "redeas geneticas",
+  "fam": "E.não-achado-no-corpus",
   "alias_v1": "",
   "fam_v1": "D.só-estrutural(listas/sumários/hard-wrap)",
   "fam_v2": "E.não-achado-no-corpus",
@@ -3980,6 +4065,7 @@
    "P2025-03-15"
   ],
   "chave": "assinatura da alma",
+  "fam": "E.não-achado-no-corpus",
   "alias_v1": "",
   "fam_v1": "D.só-estrutural(listas/sumários/hard-wrap)",
   "fam_v2": "E.não-achado-no-corpus",
@@ -4001,6 +4087,7 @@
    "B035"
   ],
   "chave": "livro do criador",
+  "fam": "E.não-achado-no-corpus",
   "alias_v1": "",
   "fam_v1": "D.só-estrutural(listas/sumários/hard-wrap)",
   "fam_v2": "E.não-achado-no-corpus",
@@ -4023,6 +4110,7 @@
    "P2024-09-29"
   ],
   "chave": "linhagens preferenciais do criador",
+  "fam": "E.não-achado-no-corpus",
   "alias_v1": "",
   "fam_v1": "D.só-estrutural(listas/sumários/hard-wrap)",
   "fam_v2": "E.não-achado-no-corpus",
@@ -4045,6 +4133,7 @@
    "P2025-03-15"
   ],
   "chave": "fenomenos denunciadores do fim",
+  "fam": "A.alias-variação",
   "alias_v1": "RC-314",
   "fam_v1": "A.alias-variação",
   "fam_v2": "A.alias-variação",
@@ -4070,6 +4159,7 @@
    "P2024-11-09"
   ],
   "chave": "pai supremo",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "D.só-estrutural(listas/sumários/hard-wrap)",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -4125,6 +4215,7 @@
    "B001"
   ],
   "chave": "divindades excelsas",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "D.só-estrutural(listas/sumários/hard-wrap)",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -4182,6 +4273,7 @@
    "P2024-05-04"
   ],
   "chave": "criador de padroes dependentes",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "D.só-estrutural(listas/sumários/hard-wrap)",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -4239,6 +4331,7 @@
    "P2024-05-04"
   ],
   "chave": "vida de padrao dependente",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "D.só-estrutural(listas/sumários/hard-wrap)",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -4277,6 +4370,7 @@
    "P2024-11-03"
   ],
   "chave": "kundalini",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "B.prosa-citável-na-fonte-declarada",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -4332,6 +4426,7 @@
    "B001"
   ],
   "chave": "grande dia do senhor jave",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "D.só-estrutural(listas/sumários/hard-wrap)",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -4387,6 +4482,7 @@
    "B001"
   ],
   "chave": "centro de comando paralelo",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "E.não-achado-no-corpus",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -4422,6 +4518,7 @@
    "B042"
   ],
   "chave": "agente do mais alto",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "D.só-estrutural(listas/sumários/hard-wrap)",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -4478,6 +4575,7 @@
    "B042"
   ],
   "chave": "emissarios da espiritualidade maior",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "D.só-estrutural(listas/sumários/hard-wrap)",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -4534,6 +4632,7 @@
    "B019"
   ],
   "chave": "queda do arquiteto universal",
+  "fam": "C.prosa-fora-das-fontes-declaradas",
   "alias_v1": "",
   "fam_v1": "C.prosa-fora-das-fontes-declaradas",
   "fam_v2": "C.prosa-fora-das-fontes-declaradas",
@@ -4609,6 +4708,7 @@
    "B002"
   ],
   "chave": "agente secreto do bem",
+  "fam": "A.alias-variação",
   "alias_v1": "RC-072",
   "fam_v1": "A.alias-variação",
   "fam_v2": "A.alias-variação",
@@ -4664,6 +4764,7 @@
    "B002"
   ],
   "chave": "conspiracao do desespero",
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
   "alias_v1": "",
   "fam_v1": "D.só-estrutural(listas/sumários/hard-wrap)",
   "fam_v2": "D.só-estrutural(listas/sumários/hard-wrap)",
@@ -4708,6 +4809,7 @@
    "B002"
   ],
   "chave": "sustentacao espiritual do universo",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "D.só-estrutural(listas/sumários/hard-wrap)",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -4752,6 +4854,7 @@
    "B002"
   ],
   "chave": "filhos das estrelas",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "D.só-estrutural(listas/sumários/hard-wrap)",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -4808,6 +4911,7 @@
    "P2025-03-15"
   ],
   "chave": "prevalece o amor",
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
   "alias_v1": "",
   "fam_v1": "D.só-estrutural(listas/sumários/hard-wrap)",
   "fam_v2": "D.só-estrutural(listas/sumários/hard-wrap)",
@@ -4852,6 +4956,7 @@
    "B033"
   ],
   "chave": "opcao terra",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "D.só-estrutural(listas/sumários/hard-wrap)",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -4907,6 +5012,7 @@
    "B033"
   ],
   "chave": "logica de jave e a origem da humanidade",
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
   "alias_v1": "",
   "fam_v1": "D.só-estrutural(listas/sumários/hard-wrap)",
   "fam_v2": "D.só-estrutural(listas/sumários/hard-wrap)",
@@ -4951,6 +5057,7 @@
    "B017"
   ],
   "chave": "marca val",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "B.prosa-citável-na-fonte-declarada",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -4995,6 +5102,7 @@
    "B018"
   ],
   "chave": "cidades voadoras",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "B.prosa-citável-na-fonte-declarada",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -5050,6 +5158,7 @@
    "B039"
   ],
   "chave": "teurgistas",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "B.prosa-citável-na-fonte-declarada",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -5105,6 +5214,7 @@
    "B017"
   ],
   "chave": "land's end",
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
   "alias_v1": "",
   "fam_v1": "C.prosa-fora-das-fontes-declaradas",
   "fam_v2": "D.só-estrutural(listas/sumários/hard-wrap)",
@@ -5127,6 +5237,7 @@
    "P2024-09-29"
   ],
   "chave": "imperio dos descendentes dos seres dos portais",
+  "fam": "E.não-achado-no-corpus",
   "alias_v1": "",
   "fam_v1": "E.não-achado-no-corpus",
   "fam_v2": "E.não-achado-no-corpus",
@@ -5148,6 +5259,7 @@
    "B015"
   ],
   "chave": "germe da desconfianca",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "D.só-estrutural(listas/sumários/hard-wrap)",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -5181,6 +5293,7 @@
    "B015"
   ],
   "chave": "dez sagrados",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "D.só-estrutural(listas/sumários/hard-wrap)",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -5214,6 +5327,7 @@
    "B015"
   ],
   "chave": "endrelnianos",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "D.só-estrutural(listas/sumários/hard-wrap)",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -5269,6 +5383,7 @@
    "B015"
   ],
   "chave": "viajores da rebeliao",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "D.só-estrutural(listas/sumários/hard-wrap)",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -5302,6 +5417,7 @@
    "B015"
   ],
   "chave": "expulsao dos viajores",
+  "fam": "E.não-achado-no-corpus",
   "alias_v1": "",
   "fam_v1": "E.não-achado-no-corpus",
   "fam_v2": "E.não-achado-no-corpus",
@@ -5323,6 +5439,7 @@
    "B015"
   ],
   "chave": "mundo das aguas",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "D.só-estrutural(listas/sumários/hard-wrap)",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -5379,6 +5496,7 @@
    "P2024-09-29"
   ],
   "chave": "laboratorios do criador",
+  "fam": "E.não-achado-no-corpus",
   "alias_v1": "",
   "fam_v1": "E.não-achado-no-corpus",
   "fam_v2": "E.não-achado-no-corpus",
@@ -5401,6 +5519,7 @@
    "P2024-09-29"
   ],
   "chave": "dominacao",
+  "fam": "F.nome-ambíguo",
   "alias_v1": "",
   "fam_v1": "F.nome-ambíguo",
   "fam_v2": "F.nome-ambíguo",
@@ -5456,6 +5575,7 @@
    "B016"
   ],
   "chave": "mensagem do codificador de zion",
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
   "alias_v1": "",
   "fam_v1": "D.só-estrutural(listas/sumários/hard-wrap)",
   "fam_v2": "D.só-estrutural(listas/sumários/hard-wrap)",
@@ -5501,6 +5621,7 @@
    "P2021-12-04"
   ],
   "chave": "escola dos agentes esclarecidos da busca da verdade",
+  "fam": "E.não-achado-no-corpus",
   "alias_v1": "",
   "fam_v1": "E.não-achado-no-corpus",
   "fam_v2": "E.não-achado-no-corpus",
@@ -5523,6 +5644,7 @@
    "P2024-09-29"
   ],
   "chave": "linhagens humanas: preferidas e preteridas",
+  "fam": "E.não-achado-no-corpus",
   "alias_v1": "",
   "fam_v1": "E.não-achado-no-corpus",
   "fam_v2": "E.não-achado-no-corpus",
@@ -5546,6 +5668,7 @@
    "B052"
   ],
   "chave": "linhagem dos patriarcas hebreus",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "D.só-estrutural(listas/sumários/hard-wrap)",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -5603,6 +5726,7 @@
    "P2024-04-13"
   ],
   "chave": "pactos do criador",
+  "fam": "E.não-achado-no-corpus",
   "alias_v1": "",
   "fam_v1": "D.só-estrutural(listas/sumários/hard-wrap)",
   "fam_v2": "E.não-achado-no-corpus",
@@ -5625,6 +5749,7 @@
    "P2023-10-14"
   ],
   "chave": "laco temporal de kether/jave",
+  "fam": "E.não-achado-no-corpus",
   "alias_v1": "",
   "fam_v1": "C.prosa-fora-das-fontes-declaradas",
   "fam_v2": "E.não-achado-no-corpus",
@@ -5646,6 +5771,7 @@
    "B014"
   ],
   "chave": "arte demodharmica do possivel",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "E.não-achado-no-corpus",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -5679,6 +5805,7 @@
    "B014"
   ],
   "chave": "sacralizacao do absurdo",
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
   "alias_v1": "",
   "fam_v1": "D.só-estrutural(listas/sumários/hard-wrap)",
   "fam_v2": "D.só-estrutural(listas/sumários/hard-wrap)",
@@ -5734,6 +5861,7 @@
    "B014"
   ],
   "chave": "jaula de cada especie",
+  "fam": "E.não-achado-no-corpus",
   "alias_v1": "",
   "fam_v1": "E.não-achado-no-corpus",
   "fam_v2": "E.não-achado-no-corpus",
@@ -5755,6 +5883,7 @@
    "B014"
   ],
   "chave": "olhar adulto",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "B.prosa-citável-na-fonte-declarada",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -5810,6 +5939,7 @@
    "B014"
   ],
   "chave": "modo trimurtiano de sophia",
+  "fam": "E.não-achado-no-corpus",
   "alias_v1": "",
   "fam_v1": "E.não-achado-no-corpus",
   "fam_v2": "E.não-achado-no-corpus",
@@ -5831,6 +5961,7 @@
    "B020"
   ],
   "chave": "anais de uma cultura perdida",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "B.prosa-citável-na-fonte-declarada",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -5875,6 +6006,7 @@
    "B020"
   ],
   "chave": "vicio de epimeteu",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "B.prosa-citável-na-fonte-declarada",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -5919,6 +6051,7 @@
    "B020"
   ],
   "chave": "cuidado com o 'ide e pregai'",
+  "fam": "E.não-achado-no-corpus",
   "alias_v1": "",
   "fam_v1": "E.não-achado-no-corpus",
   "fam_v2": "E.não-achado-no-corpus",
@@ -5941,6 +6074,7 @@
    "P2020-04-25"
   ],
   "chave": "fim do silencio de pandora",
+  "fam": "E.não-achado-no-corpus",
   "alias_v1": "",
   "fam_v1": "E.não-achado-no-corpus",
   "fam_v2": "E.não-achado-no-corpus",
@@ -5964,6 +6098,7 @@
    "P2023-05-21"
   ],
   "chave": "pitonisas e oraculos",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "C.prosa-fora-das-fontes-declaradas",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -6000,6 +6135,7 @@
    "P2024-11-30"
   ],
   "chave": "dissolucao da triade",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "D.só-estrutural(listas/sumários/hard-wrap)",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -6034,6 +6170,7 @@
    "P2024-11-09"
   ],
   "chave": "deucaliao",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "B.prosa-citável-na-fonte-declarada",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -6094,6 +6231,7 @@
    "P2020-04-04"
   ],
   "chave": "apolo",
+  "fam": "F.nome-ambíguo",
   "alias_v1": "",
   "fam_v1": "F.nome-ambíguo",
   "fam_v2": "F.nome-ambíguo",
@@ -6149,6 +6287,7 @@
    "B022"
   ],
   "chave": "ordem dos indecifraveis",
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
   "alias_v1": "",
   "fam_v1": "D.só-estrutural(listas/sumários/hard-wrap)",
   "fam_v2": "D.só-estrutural(listas/sumários/hard-wrap)",
@@ -6182,6 +6321,7 @@
    "B022"
   ],
   "chave": "tempo de apostasia",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "B.prosa-citável-na-fonte-declarada",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -6240,6 +6380,7 @@
    "P2023-12-03"
   ],
   "chave": "fim da lila",
+  "fam": "C.prosa-fora-das-fontes-declaradas",
   "alias_v1": "",
   "fam_v1": "B.prosa-citável-na-fonte-declarada",
   "fam_v2": "C.prosa-fora-das-fontes-declaradas",
@@ -6277,6 +6418,7 @@
    "P2025-06-14b"
   ],
   "chave": "decifra-me ou devoro",
+  "fam": "E.não-achado-no-corpus",
   "alias_v1": "",
   "fam_v1": "E.não-achado-no-corpus",
   "fam_v2": "E.não-achado-no-corpus",
@@ -6298,6 +6440,7 @@
    "B022"
   ],
   "chave": "esgotamento e solidao",
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
   "alias_v1": "",
   "fam_v1": "B.prosa-citável-na-fonte-declarada",
   "fam_v2": "D.só-estrutural(listas/sumários/hard-wrap)",
@@ -6331,6 +6474,7 @@
    "B022"
   ],
   "chave": "estranha autorrealizacao de shiva",
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
   "alias_v1": "",
   "fam_v1": "D.só-estrutural(listas/sumários/hard-wrap)",
   "fam_v2": "D.só-estrutural(listas/sumários/hard-wrap)",
@@ -6364,6 +6508,7 @@
    "B023"
   ],
   "chave": "grupos de entroncamento",
+  "fam": "E.não-achado-no-corpus",
   "alias_v1": "",
   "fam_v1": "E.não-achado-no-corpus",
   "fam_v2": "E.não-achado-no-corpus",
@@ -6387,6 +6532,7 @@
    "P2024-04-13"
   ],
   "chave": "povos escolhidos",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "C.prosa-fora-das-fontes-declaradas",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -6420,6 +6566,7 @@
    "B023"
   ],
   "chave": "homo hierarchicus",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "D.só-estrutural(listas/sumários/hard-wrap)",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -6475,6 +6622,7 @@
    "B023"
   ],
   "chave": "civilizacao saraswati",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "D.só-estrutural(listas/sumários/hard-wrap)",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -6531,6 +6679,7 @@
    "P2024-11-30"
   ],
   "chave": "etica da sobrevivencia de jave",
+  "fam": "E.não-achado-no-corpus",
   "alias_v1": "",
   "fam_v1": "E.não-achado-no-corpus",
   "fam_v2": "E.não-achado-no-corpus",
@@ -6553,6 +6702,7 @@
    "P2024-11-30"
   ],
   "chave": "humanos: uma simples experiencia biologica",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "D.só-estrutural(listas/sumários/hard-wrap)",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -6597,6 +6747,7 @@
    "B048"
   ],
   "chave": "reconhecimento que nunca veio",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "D.só-estrutural(listas/sumários/hard-wrap)",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -6652,6 +6803,7 @@
    "B048"
   ],
   "chave": "dificil cobranca sobre os humanos",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "D.só-estrutural(listas/sumários/hard-wrap)",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -6707,6 +6859,7 @@
    "B048"
   ],
   "chave": "atores de uma peca incompreensivel",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "D.só-estrutural(listas/sumários/hard-wrap)",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -6764,6 +6917,7 @@
    "P2024-09-29"
   ],
   "chave": "ferramentas do favor divino",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "B.prosa-citável-na-fonte-declarada",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -6820,6 +6974,7 @@
    "B026"
   ],
   "chave": "portal cosmico",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "B.prosa-citável-na-fonte-declarada",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -6875,6 +7030,7 @@
    "B003"
   ],
   "chave": "sentimento luciferiano",
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
   "alias_v1": "",
   "fam_v1": "D.só-estrutural(listas/sumários/hard-wrap)",
   "fam_v2": "D.só-estrutural(listas/sumários/hard-wrap)",
@@ -6910,6 +7066,7 @@
    "P2024-11-30"
   ],
   "chave": "projeto terra",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "D.só-estrutural(listas/sumários/hard-wrap)",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -6965,6 +7122,7 @@
    "B026"
   ],
   "chave": "roteiro do exilio",
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
   "alias_v1": "",
   "fam_v1": "D.só-estrutural(listas/sumários/hard-wrap)",
   "fam_v2": "D.só-estrutural(listas/sumários/hard-wrap)",
@@ -7009,6 +7167,7 @@
    "B003"
   ],
   "chave": "exilios interplanetarios",
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
   "alias_v1": "",
   "fam_v1": "D.só-estrutural(listas/sumários/hard-wrap)",
   "fam_v2": "D.só-estrutural(listas/sumários/hard-wrap)",
@@ -7053,6 +7212,7 @@
    "B025"
   ],
   "chave": "jesus, o capelino",
+  "fam": "E.não-achado-no-corpus",
   "alias_v1": "",
   "fam_v1": "E.não-achado-no-corpus",
   "fam_v2": "E.não-achado-no-corpus",
@@ -7074,6 +7234,7 @@
    "B025"
   ],
   "chave": "mestres de capela",
+  "fam": "C.prosa-fora-das-fontes-declaradas",
   "alias_v1": "",
   "fam_v1": "D.só-estrutural(listas/sumários/hard-wrap)",
   "fam_v2": "C.prosa-fora-das-fontes-declaradas",
@@ -7120,6 +7281,7 @@
    "B025"
   ],
   "chave": "segunda grande vinda",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "RC-005",
   "fam_v1": "D.só-estrutural(listas/sumários/hard-wrap)",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -7175,6 +7337,7 @@
    "B003"
   ],
   "chave": "ilha cosmica",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "D.só-estrutural(listas/sumários/hard-wrap)",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -7232,6 +7395,7 @@
    "B026"
   ],
   "chave": "trilogia queda e ascensao espiritual",
+  "fam": "C.prosa-fora-das-fontes-declaradas",
   "alias_v1": "",
   "fam_v1": "D.só-estrutural(listas/sumários/hard-wrap)",
   "fam_v2": "C.prosa-fora-das-fontes-declaradas",
@@ -7267,6 +7431,7 @@
    "B005"
   ],
   "chave": "fonte da vida",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "B.prosa-citável-na-fonte-declarada",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -7311,6 +7476,7 @@
    "B005"
   ],
   "chave": "terra de ninguem",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "D.só-estrutural(listas/sumários/hard-wrap)",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -7344,6 +7510,7 @@
    "B005"
   ],
   "chave": "atmosferizar a lua ou marte",
+  "fam": "E.não-achado-no-corpus",
   "alias_v1": "",
   "fam_v1": "E.não-achado-no-corpus",
   "fam_v2": "E.não-achado-no-corpus",
@@ -7365,6 +7532,7 @@
    "B005"
   ],
   "chave": "antropocentrismo",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "B.prosa-citável-na-fonte-declarada",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -7420,6 +7588,7 @@
    "B005"
   ],
   "chave": "apego aos conceitos terrenos",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "D.só-estrutural(listas/sumários/hard-wrap)",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -7453,6 +7622,7 @@
    "B005"
   ],
   "chave": "otica e etica cosmicas",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "D.só-estrutural(listas/sumários/hard-wrap)",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -7498,6 +7668,7 @@
    "B042"
   ],
   "chave": "missao do mestre",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "D.só-estrutural(listas/sumários/hard-wrap)",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -7554,6 +7725,7 @@
    "P2025-02-15"
   ],
   "chave": "assessoria cosmica",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "D.só-estrutural(listas/sumários/hard-wrap)",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -7609,6 +7781,7 @@
    "B049"
   ],
   "chave": "criacao de idolos para a humanidade",
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
   "alias_v1": "",
   "fam_v1": "E.não-achado-no-corpus",
   "fam_v2": "D.só-estrutural(listas/sumários/hard-wrap)",
@@ -7655,6 +7828,7 @@
    "P2025-02-15"
   ],
   "chave": "ser humano emancipado",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "C.prosa-fora-das-fontes-declaradas",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -7710,6 +7884,7 @@
    "B043"
   ],
   "chave": "mordon",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "B.prosa-citável-na-fonte-declarada",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -7765,6 +7940,7 @@
    "B043"
   ],
   "chave": "brendiver e dolman",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "E.não-achado-no-corpus",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -7798,6 +7974,7 @@
    "B041"
   ],
   "chave": "imanencia e transcendencia",
+  "fam": "C.prosa-fora-das-fontes-declaradas",
   "alias_v1": "",
   "fam_v1": "B.prosa-citável-na-fonte-declarada",
   "fam_v2": "C.prosa-fora-das-fontes-declaradas",
@@ -7833,6 +8010,7 @@
    "B041"
   ],
   "chave": "roteiro do absurdo implantado na criacao",
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
   "alias_v1": "",
   "fam_v1": "D.só-estrutural(listas/sumários/hard-wrap)",
   "fam_v2": "D.só-estrutural(listas/sumários/hard-wrap)",
@@ -7866,6 +8044,7 @@
    "B041"
   ],
   "chave": "proposta de um humano terrestre aos eletrons",
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
   "alias_v1": "",
   "fam_v1": "D.só-estrutural(listas/sumários/hard-wrap)",
   "fam_v2": "D.só-estrutural(listas/sumários/hard-wrap)",
@@ -7900,6 +8079,7 @@
    "P2024-09-29"
   ],
   "chave": "memorias para jave",
+  "fam": "E.não-achado-no-corpus",
   "alias_v1": "",
   "fam_v1": "E.não-achado-no-corpus",
   "fam_v2": "E.não-achado-no-corpus",
@@ -7928,6 +8108,7 @@
    "P2023-12-03"
   ],
   "chave": "fragmentacao do poder mental da divindade",
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
   "alias_v1": "",
   "fam_v1": "D.só-estrutural(listas/sumários/hard-wrap)",
   "fam_v2": "D.só-estrutural(listas/sumários/hard-wrap)",
@@ -7961,6 +8142,7 @@
    "B006"
   ],
   "chave": "casa de lucas",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "D.só-estrutural(listas/sumários/hard-wrap)",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -8005,6 +8187,7 @@
    "B006"
   ],
   "chave": "espiritos comunicantes do grupo atlan",
+  "fam": "E.não-achado-no-corpus",
   "alias_v1": "",
   "fam_v1": "E.não-achado-no-corpus",
   "fam_v2": "E.não-achado-no-corpus",
@@ -8026,6 +8209,7 @@
    "B006"
   ],
   "chave": "mesmice espiritual",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "D.só-estrutural(listas/sumários/hard-wrap)",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -8073,6 +8257,7 @@
    "P2025-03-15"
   ],
   "chave": "reforma intima",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "B.prosa-citável-na-fonte-declarada",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -8128,6 +8313,7 @@
    "B006"
   ],
   "chave": "eneas",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "B.prosa-citável-na-fonte-declarada",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -8183,6 +8369,7 @@
    "B006"
   ],
   "chave": "mandreya ramataiana",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "D.só-estrutural(listas/sumários/hard-wrap)",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -8241,6 +8428,7 @@
    "P2024-02-03"
   ],
   "chave": "tirthankaras",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "B.prosa-citável-na-fonte-declarada",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -8285,6 +8473,7 @@
    "B050"
   ],
   "chave": "dwarka",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "B.prosa-citável-na-fonte-declarada",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -8319,6 +8508,7 @@
    "P2021-05-15"
   ],
   "chave": "familia demolle",
+  "fam": "E.não-achado-no-corpus",
   "alias_v1": "",
   "fam_v1": "C.prosa-fora-das-fontes-declaradas",
   "fam_v2": "E.não-achado-no-corpus",
@@ -8340,6 +8530,7 @@
    "B050"
   ],
   "chave": "halos de poder",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "B.prosa-citável-na-fonte-declarada",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -8374,6 +8565,7 @@
    "P2022-12-17"
   ],
   "chave": "alvorecer de aquario",
+  "fam": "E.não-achado-no-corpus",
   "alias_v1": "",
   "fam_v1": "D.só-estrutural(listas/sumários/hard-wrap)",
   "fam_v2": "E.não-achado-no-corpus",
@@ -8397,6 +8589,7 @@
    "P2022-11-19"
   ],
   "chave": "dialogos de socrates, platao e aristoteles",
+  "fam": "E.não-achado-no-corpus",
   "alias_v1": "",
   "fam_v1": "C.prosa-fora-das-fontes-declaradas",
   "fam_v2": "E.não-achado-no-corpus",
@@ -8418,6 +8611,7 @@
    "B027"
   ],
   "chave": "reencarnacao iminente da grande leva de espiritos",
+  "fam": "E.não-achado-no-corpus",
   "alias_v1": "",
   "fam_v1": "E.não-achado-no-corpus",
   "fam_v2": "E.não-achado-no-corpus",
@@ -8440,6 +8634,7 @@
    "B060"
   ],
   "chave": "emissarios humanos",
+  "fam": "E.não-achado-no-corpus",
   "alias_v1": "",
   "fam_v1": "E.não-achado-no-corpus",
   "fam_v2": "E.não-achado-no-corpus",
@@ -8464,6 +8659,7 @@
    "P2025-02-15"
   ],
   "chave": "terminal nervoso do criador",
+  "fam": "E.não-achado-no-corpus",
   "alias_v1": "",
   "fam_v1": "C.prosa-fora-das-fontes-declaradas",
   "fam_v2": "E.não-achado-no-corpus",
@@ -8486,6 +8682,7 @@
    "P2024-11-30"
   ],
   "chave": "sou eu que vivo em voces",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "D.só-estrutural(listas/sumários/hard-wrap)",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -8519,6 +8716,7 @@
    "B034"
   ],
   "chave": "monica camargo",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "B.prosa-citável-na-fonte-declarada",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -8574,6 +8772,7 @@
    "B036"
   ],
   "chave": "advogado de acusacao",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "B.prosa-citável-na-fonte-declarada",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -8618,6 +8817,7 @@
    "B036"
   ],
   "chave": "criatura-teste",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "D.só-estrutural(listas/sumários/hard-wrap)",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -8653,6 +8853,7 @@
    "P2024-09-29"
   ],
   "chave": "tempo-limite",
+  "fam": "C.prosa-fora-das-fontes-declaradas",
   "alias_v1": "",
   "fam_v1": "D.só-estrutural(listas/sumários/hard-wrap)",
   "fam_v2": "C.prosa-fora-das-fontes-declaradas",
@@ -8691,6 +8892,7 @@
    "P2024-09-29"
   ],
   "chave": "jave alimenta-se do senso critico humano",
+  "fam": "E.não-achado-no-corpus",
   "alias_v1": "",
   "fam_v1": "E.não-achado-no-corpus",
   "fam_v2": "E.não-achado-no-corpus",
@@ -8712,6 +8914,7 @@
    "B040"
   ],
   "chave": "guerreiro ao atleta",
+  "fam": "E.não-achado-no-corpus",
   "alias_v1": "",
   "fam_v1": "E.não-achado-no-corpus",
   "fam_v2": "E.não-achado-no-corpus",
@@ -8734,6 +8937,7 @@
    "P2024-03-03"
   ],
   "chave": "segredo perdido do eden",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "B.prosa-citável-na-fonte-declarada",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -8790,6 +8994,7 @@
    "P2024-11-30"
   ],
   "chave": "tubal",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "B.prosa-citável-na-fonte-declarada",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -8845,6 +9050,7 @@
    "B052"
   ],
   "chave": "magos do norte",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "D.só-estrutural(listas/sumários/hard-wrap)",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -8900,6 +9106,7 @@
    "B052"
   ],
   "chave": "sina dos portadores",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "D.só-estrutural(listas/sumários/hard-wrap)",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -8944,6 +9151,7 @@
    "B052"
   ],
   "chave": "misterios dionisiacos",
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
   "alias_v1": "",
   "fam_v1": "D.só-estrutural(listas/sumários/hard-wrap)",
   "fam_v2": "D.só-estrutural(listas/sumários/hard-wrap)",
@@ -8982,6 +9190,7 @@
    "P2023-12-03"
   ],
   "chave": "familia cromon",
+  "fam": "C.prosa-fora-das-fontes-declaradas",
   "alias_v1": "",
   "fam_v1": "C.prosa-fora-das-fontes-declaradas",
   "fam_v2": "C.prosa-fora-das-fontes-declaradas",
@@ -9041,6 +9250,7 @@
    "P2024-07-14"
   ],
   "chave": "sarasvati",
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
   "alias_v1": "",
   "fam_v1": "B.prosa-citável-na-fonte-declarada",
   "fam_v2": "D.só-estrutural(listas/sumários/hard-wrap)",
@@ -9087,6 +9297,7 @@
    "P2024-07-14"
   ],
   "chave": "lakshimi",
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
   "alias_v1": "",
   "fam_v1": "D.só-estrutural(listas/sumários/hard-wrap)",
   "fam_v2": "D.só-estrutural(listas/sumários/hard-wrap)",
@@ -9131,6 +9342,7 @@
    "B060"
   ],
   "chave": "oannes",
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
   "alias_v1": "",
   "fam_v1": "D.só-estrutural(listas/sumários/hard-wrap)",
   "fam_v2": "D.só-estrutural(listas/sumários/hard-wrap)",
@@ -9164,6 +9376,7 @@
    "B060"
   ],
   "chave": "ein sof",
+  "fam": "C.prosa-fora-das-fontes-declaradas",
   "alias_v1": "",
   "fam_v1": "D.só-estrutural(listas/sumários/hard-wrap)",
   "fam_v2": "C.prosa-fora-das-fontes-declaradas",
@@ -9199,6 +9412,7 @@
    "B060"
   ],
   "chave": "khorsis",
+  "fam": "C.prosa-fora-das-fontes-declaradas",
   "alias_v1": "",
   "fam_v1": "D.só-estrutural(listas/sumários/hard-wrap)",
   "fam_v2": "C.prosa-fora-das-fontes-declaradas",
@@ -9232,6 +9446,7 @@
   "status": "candidato",
   "fontes": [],
   "chave": "lemperion e terperion",
+  "fam": "E.não-achado-no-corpus",
   "alias_v1": "",
   "fam_v1": "E.não-achado-no-corpus",
   "fam_v2": "E.não-achado-no-corpus",
@@ -9251,6 +9466,7 @@
   "status": "candidato",
   "fontes": [],
   "chave": "chequinha",
+  "fam": "E.não-achado-no-corpus",
   "alias_v1": "",
   "fam_v1": "E.não-achado-no-corpus",
   "fam_v2": "E.não-achado-no-corpus",
@@ -9270,6 +9486,7 @@
   "status": "candidato",
   "fontes": [],
   "chave": "anjos ministradores",
+  "fam": "C.prosa-fora-das-fontes-declaradas",
   "alias_v1": "",
   "fam_v1": "C.prosa-fora-das-fontes-declaradas",
   "fam_v2": "C.prosa-fora-das-fontes-declaradas",
@@ -9306,6 +9523,7 @@
    "P2020-04-25"
   ],
   "chave": "familia shanlung",
+  "fam": "C.prosa-fora-das-fontes-declaradas",
   "alias_v1": "",
   "fam_v1": "C.prosa-fora-das-fontes-declaradas",
   "fam_v2": "C.prosa-fora-das-fontes-declaradas",
@@ -9339,6 +9557,7 @@
   "status": "candidato",
   "fontes": [],
   "chave": "membros da familia yel",
+  "fam": "C.prosa-fora-das-fontes-declaradas",
   "alias_v1": "",
   "fam_v1": "C.prosa-fora-das-fontes-declaradas",
   "fam_v2": "C.prosa-fora-das-fontes-declaradas",
@@ -9401,6 +9620,7 @@
   "status": "candidato",
   "fontes": [],
   "chave": "9 val dos corpos perdidos",
+  "fam": "C.prosa-fora-das-fontes-declaradas",
   "alias_v1": "",
   "fam_v1": "D.só-estrutural(listas/sumários/hard-wrap)",
   "fam_v2": "C.prosa-fora-das-fontes-declaradas",
@@ -9457,6 +9677,7 @@
   "status": "candidato",
   "fontes": [],
   "chave": "conselho dos cinco",
+  "fam": "C.prosa-fora-das-fontes-declaradas",
   "alias_v1": "",
   "fam_v1": "D.só-estrutural(listas/sumários/hard-wrap)",
   "fam_v2": "C.prosa-fora-das-fontes-declaradas",
@@ -9513,6 +9734,7 @@
   "status": "candidato",
   "fontes": [],
   "chave": "val aten",
+  "fam": "C.prosa-fora-das-fontes-declaradas",
   "alias_v1": "",
   "fam_v1": "D.só-estrutural(listas/sumários/hard-wrap)",
   "fam_v2": "C.prosa-fora-das-fontes-declaradas",
@@ -9573,6 +9795,7 @@
    "P2024-11-30"
   ],
   "chave": "adyadvaivatma",
+  "fam": "A.alias-variação",
   "alias_v1": "RC-408",
   "fam_v1": "A.alias-variação",
   "fam_v2": "A.alias-variação",
@@ -9594,6 +9817,7 @@
    "P2024-11-30"
   ],
   "chave": "adyabradagna",
+  "fam": "A.alias-variação",
   "alias_v1": "RC-152",
   "fam_v1": "A.alias-variação",
   "fam_v2": "A.alias-variação",
@@ -9615,6 +9839,7 @@
    "B071"
   ],
   "chave": "holodominio",
+  "fam": "E.não-achado-no-corpus",
   "alias_v1": "",
   "fam_v1": "E.não-achado-no-corpus",
   "fam_v2": "E.não-achado-no-corpus",
@@ -9642,6 +9867,7 @@
    "P2023-12-03"
   ],
   "chave": "decencia cosmica",
+  "fam": "E.não-achado-no-corpus",
   "alias_v1": "",
   "fam_v1": "C.prosa-fora-das-fontes-declaradas",
   "fam_v2": "E.não-achado-no-corpus",
@@ -9668,6 +9894,7 @@
    "P2024-09-29"
   ],
   "chave": "protagonismo consciencial",
+  "fam": "E.não-achado-no-corpus",
   "alias_v1": "",
   "fam_v1": "C.prosa-fora-das-fontes-declaradas",
   "fam_v2": "E.não-achado-no-corpus",
@@ -9689,6 +9916,7 @@
    "B071"
   ],
   "chave": "blindagem cosmica",
+  "fam": "A.alias-variação",
   "alias_v1": "RC-342",
   "fam_v1": "A.alias-variação",
   "fam_v2": "A.alias-variação",
@@ -9715,6 +9943,7 @@
    "P2026-04-02"
   ],
   "chave": "mention",
+  "fam": "E.não-achado-no-corpus",
   "alias_v1": "",
   "fam_v1": "E.não-achado-no-corpus",
   "fam_v2": "E.não-achado-no-corpus",
@@ -9737,6 +9966,7 @@
    "ART-2026-08-18"
   ],
   "chave": "amnesia espiritual",
+  "fam": "E.não-achado-no-corpus",
   "alias_v1": "",
   "fam_v1": "C.prosa-fora-das-fontes-declaradas",
   "fam_v2": "E.não-achado-no-corpus",
@@ -9758,6 +9988,7 @@
    "B071"
   ],
   "chave": "acidente cosmogonico",
+  "fam": "A.alias-variação",
   "alias_v1": "RC-167",
   "fam_v1": "A.alias-variação",
   "fam_v2": "A.alias-variação",
@@ -9782,6 +10013,7 @@
    "P2024-11-30"
   ],
   "chave": "heranca cosmica",
+  "fam": "C.prosa-fora-das-fontes-declaradas",
   "alias_v1": "",
   "fam_v1": "C.prosa-fora-das-fontes-declaradas",
   "fam_v2": "C.prosa-fora-das-fontes-declaradas",
@@ -9820,6 +10052,7 @@
    "P2024-11-30"
   ],
   "chave": "arquivos da memoria cosmica",
+  "fam": "E.não-achado-no-corpus",
   "alias_v1": "",
   "fam_v1": "C.prosa-fora-das-fontes-declaradas",
   "fam_v2": "E.não-achado-no-corpus",
@@ -9842,6 +10075,7 @@
    "P2022-12-17"
   ],
   "chave": "parasitismo energetico",
+  "fam": "E.não-achado-no-corpus",
   "alias_v1": "",
   "fam_v1": "E.não-achado-no-corpus",
   "fam_v2": "E.não-achado-no-corpus",
@@ -9865,6 +10099,7 @@
    "P2025-02-15"
   ],
   "chave": "vampirismo consciencial",
+  "fam": "E.não-achado-no-corpus",
   "alias_v1": "",
   "fam_v1": "E.não-achado-no-corpus",
   "fam_v2": "E.não-achado-no-corpus",
@@ -9889,6 +10124,7 @@
    "P2024-11-30"
   ],
   "chave": "coleta de informacoes",
+  "fam": "E.não-achado-no-corpus",
   "alias_v1": "",
   "fam_v1": "E.não-achado-no-corpus",
   "fam_v2": "E.não-achado-no-corpus",
@@ -9913,6 +10149,7 @@
    "P2024-11-30"
   ],
   "chave": "antimundo",
+  "fam": "E.não-achado-no-corpus",
   "alias_v1": "RC-106",
   "fam_v1": "C.prosa-fora-das-fontes-declaradas",
   "fam_v2": "E.não-achado-no-corpus",
@@ -9935,6 +10172,7 @@
    "P2024-09-29"
   ],
   "chave": "laboratorio genetico terra",
+  "fam": "E.não-achado-no-corpus",
   "alias_v1": "",
   "fam_v1": "E.não-achado-no-corpus",
   "fam_v2": "E.não-achado-no-corpus",
@@ -9956,6 +10194,7 @@
    "B073"
   ],
   "chave": "vacina do amor",
+  "fam": "E.não-achado-no-corpus",
   "alias_v1": "",
   "fam_v1": "E.não-achado-no-corpus",
   "fam_v2": "E.não-achado-no-corpus",
@@ -9977,6 +10216,7 @@
    "B019"
   ],
   "chave": "arquitetos universais",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "D.só-estrutural(listas/sumários/hard-wrap)",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -10025,6 +10265,7 @@
    "P2021-03-13"
   ],
   "chave": "molecula-mae",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "B.prosa-citável-na-fonte-declarada",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -10083,6 +10324,7 @@
    "P2024-11-30"
   ],
   "chave": "ex-dna-lixo",
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
   "alias_v1": "",
   "fam_v1": "B.prosa-citável-na-fonte-declarada",
   "fam_v2": "D.só-estrutural(listas/sumários/hard-wrap)",
@@ -10120,6 +10362,7 @@
    "P2023-12-03"
   ],
   "chave": "primado da consciencia criativa",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "B.prosa-citável-na-fonte-declarada",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -10153,6 +10396,7 @@
    "B019"
   ],
   "chave": "evolucao criativa",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "B.prosa-citável-na-fonte-declarada",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -10208,6 +10452,7 @@
    "P2024-06-16"
   ],
   "chave": "satchidanandaghana",
+  "fam": "E.não-achado-no-corpus",
   "alias_v1": "",
   "fam_v1": "E.não-achado-no-corpus",
   "fam_v2": "E.não-achado-no-corpus",
@@ -10229,6 +10474,7 @@
    "P2024-06-16"
   ],
   "chave": "oxitocina",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "C.prosa-fora-das-fontes-declaradas",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -10262,6 +10508,7 @@
    "P2024-06-16"
   ],
   "chave": "klesas",
+  "fam": "E.não-achado-no-corpus",
   "alias_v1": "",
   "fam_v1": "E.não-achado-no-corpus",
   "fam_v2": "E.não-achado-no-corpus",
@@ -10284,6 +10531,7 @@
    "P2023-02-11"
   ],
   "chave": "elo adamico",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "C.prosa-fora-das-fontes-declaradas",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -10317,6 +10565,7 @@
    "P2023-02-11"
   ],
   "chave": "extisicos",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "C.prosa-fora-das-fontes-declaradas",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -10350,6 +10599,7 @@
    "P2022-12-03"
   ],
   "chave": "dna neutralizado",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "C.prosa-fora-das-fontes-declaradas",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -10383,6 +10633,7 @@
    "P2022-12-03"
   ],
   "chave": "guardadores de lixo memorial",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "C.prosa-fora-das-fontes-declaradas",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -10416,6 +10667,7 @@
    "P2022-11-26"
   ],
   "chave": "choque de realidade",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "RC-898",
   "fam_v1": "C.prosa-fora-das-fontes-declaradas",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -10449,6 +10701,7 @@
    "P2022-11-26"
   ],
   "chave": "genoma da dignidade",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "C.prosa-fora-das-fontes-declaradas",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -10482,6 +10735,7 @@
    "P2022-11-26"
   ],
   "chave": "mentalidade comum",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "C.prosa-fora-das-fontes-declaradas",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -10515,6 +10769,7 @@
    "P2022-07-16"
   ],
   "chave": "sinarquia cosmica",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "C.prosa-fora-das-fontes-declaradas",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -10548,6 +10803,7 @@
    "P2026-03-21"
   ],
   "chave": "transumanismo",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "C.prosa-fora-das-fontes-declaradas",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -10581,6 +10837,7 @@
    "P2026-03-21"
   ],
   "chave": "dhanvantari",
+  "fam": "E.não-achado-no-corpus",
   "alias_v1": "",
   "fam_v1": "C.prosa-fora-das-fontes-declaradas",
   "fam_v2": "E.não-achado-no-corpus",
@@ -10602,6 +10859,7 @@
    "P2021-02-28"
   ],
   "chave": "atos performativos",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "C.prosa-fora-das-fontes-declaradas",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -10635,6 +10893,7 @@
    "P2021-02-28"
   ],
   "chave": "carga virotica",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "C.prosa-fora-das-fontes-declaradas",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -10668,6 +10927,7 @@
    "P2021-02-28"
   ],
   "chave": "disforia de genio",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "C.prosa-fora-das-fontes-declaradas",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -10701,6 +10961,7 @@
    "P2021-02-28"
   ],
   "chave": "biocosmos emergente",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "C.prosa-fora-das-fontes-declaradas",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -10734,6 +10995,7 @@
    "P2021-02-28"
   ],
   "chave": "maestria existencial",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "C.prosa-fora-das-fontes-declaradas",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -10767,6 +11029,7 @@
    "P2021-04-10"
   ],
   "chave": "tal",
+  "fam": "F.nome-ambíguo",
   "alias_v1": "",
   "fam_v1": "F.nome-ambíguo",
   "fam_v2": "F.nome-ambíguo",
@@ -10800,6 +11063,7 @@
    "P2021-04-10"
   ],
   "chave": "fator jave",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "C.prosa-fora-das-fontes-declaradas",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -10833,6 +11097,7 @@
    "P2021-06-26"
   ],
   "chave": "rara",
+  "fam": "F.nome-ambíguo",
   "alias_v1": "",
   "fam_v1": "F.nome-ambíguo",
   "fam_v2": "F.nome-ambíguo",
@@ -10866,6 +11131,7 @@
    "P2021-06-26"
   ],
   "chave": "bemisia tabaci",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "C.prosa-fora-das-fontes-declaradas",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -10899,6 +11165,7 @@
    "P2021-06-26"
   ],
   "chave": "savant",
+  "fam": "E.não-achado-no-corpus",
   "alias_v1": "",
   "fam_v1": "C.prosa-fora-das-fontes-declaradas",
   "fam_v2": "E.não-achado-no-corpus",
@@ -10920,6 +11187,7 @@
    "P2021-06-26"
   ],
   "chave": "campo de higgs",
+  "fam": "C.prosa-fora-das-fontes-declaradas",
   "alias_v1": "",
   "fam_v1": "E.não-achado-no-corpus",
   "fam_v2": "C.prosa-fora-das-fontes-declaradas",
@@ -10955,6 +11223,7 @@
    "P2022-09-17"
   ],
   "chave": "elelev",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "C.prosa-fora-das-fontes-declaradas",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -10990,6 +11259,7 @@
    "P2024-11-30"
   ],
   "chave": "ieea",
+  "fam": "F.nome-ambíguo",
   "alias_v1": "",
   "fam_v1": "F.nome-ambíguo",
   "fam_v2": "F.nome-ambíguo",
@@ -11046,6 +11316,7 @@
    "P2024-11-03"
   ],
   "chave": "nuctemeron",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "B.prosa-citável-na-fonte-declarada",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",
@@ -11102,6 +11373,7 @@
    "P2018-12-15"
   ],
   "chave": "cidades sagradas do hiperboreo",
+  "fam": "E.não-achado-no-corpus",
   "alias_v1": "",
   "fam_v1": "E.não-achado-no-corpus",
   "fam_v2": "E.não-achado-no-corpus",
@@ -11125,6 +11397,7 @@
    "P2024-08-03"
   ],
   "chave": "revelacao psiquica",
+  "fam": "B.prosa-citável-na-fonte-declarada",
   "alias_v1": "",
   "fam_v1": "C.prosa-fora-das-fontes-declaradas",
   "fam_v2": "B.prosa-citável-na-fonte-declarada",

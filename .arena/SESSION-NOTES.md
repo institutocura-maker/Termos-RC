@@ -3653,3 +3653,43 @@ Sem âncora byte a byte, a correcção honesta é **registar**, não inventar:
 - «Primeira obra que casa» gerou **20 falsos A6** — ordem de iteração não é prova de autoria.
 - Offsets de texto **sem acento** aplicados a linhas **com acento** → números de linha inválidos. Construir **dois** índices, um por variante.
 - Exigir janela longa **e** unicidade é restritivo de mais: 65 «não localizáveis» onde há 52.
+
+---
+
+## U86 — Fecho da quarentena A5 (478 fichas) · selo de A8 por dados · arquivamento de A7
+
+**Despacho do Curador:** estender a quarentena epistemológica às fichas descobertas, com redacção graduada; selar A8 na camada de dados; arquivar A7; reclassificar a RC‑118 como dívida A5.
+
+### 1. A8 — selado por dados, *driver* intocado
+- `CENSO-RECLASSIFICADO`: 273 entradas com `fam_v2` e **0 com `fam`** → a linha 278 (`c.get("fam_v2", c["fam"])`) avalia o *default* ansiosamente e levantaria `KeyError` no dia em que o V3 não fosse encontrado primeiro pelo `break`.
+- Selo: inserção **textual** de `"fam": "<fam_v2>"` entre `chave` e `alias_v1` nas 273 entradas — o `json.dump` reindentaria o ficheiro inteiro (lição da U84).
+- Prova: os três censos com `fam` em 273/273; a compreensão da linha 278 executada sobre cada um → OK. **+273 linhas, 0 suprimidas.**
+
+### 2. A5 — censo definitivo e quarentena a 100%
+- Censo exaustivo: **663 blocos legados em 481 fichas** (333 notas de processo e *placeholders* da migração 2.4 excluídos).
+- Classes: EXATO 3 · AMBÍGUO 2 · PARCIAL 21 · **NULO 637**. Não‑verbatim: **658 blocos em 478 fichas**.
+- Dos 637 nulos: **418 ancorados** (≥5 palavras contínuas no corpus) · **219 sem vestígio**.
+- Grau de promessa verbatim: **A** (com «») 76 · **B** (com `"…"`/`“…”`) 371 · **C** (sem marcas) 31.
+- **Quarentena aplicada a 478/478.** As 39 notas da U85 foram reemitidas com contagens corrigidas — 28 estavam desactualizadas.
+- Intersecção com as 147 fichas com lote: **NULA** → nenhuma nota pode ser apagada por regeneração.
+
+### 3. A7
+- **RC‑296 ARQUIVADA.** Não existe no cadastro nem em `termos/`. `pitonisas e oraculos` ocorre **1 única vez** no corpus, em **P2023‑05‑21 L20** — confirmação independente do achado da U54 (lote 11, B021). O congelamento é **política da série P** (U53/U54/U55), não lacuna de dados. Condição de reabertura registada, não autorizada.
+- **RC‑118 RECLASSIFICADA como dívida A5.** 1 bloco de 201 palavras, NULO mas **ancorado**; 0 citações R1; nenhum lote a materializa. Recebeu quarentena (grau B).
+- Despacho lavrado: `diagnostico/A7-RC296-RC118-2026-09-14.md`.
+
+### 4. Validação
+- Portão B **778/778** na linha declarada, 0 falhas — inalterado, e reconfirmado na cópia regenerada.
+- Suíte **21/21** · [T15] 820/820 frontmatter == cadastro.
+- **35/35 lotes idempotentes · 0 regerados · 0 falhas.**
+- Espelhos reconstruídos: 946/820/1887/104.
+- **Diff de 482 ficheiros.** Em `termos/`: 478 fichas, **+478** (uma nota cada) e **−54**, das quais 39 são as notas U85 substituídas e **15 são linhas em branco no fim de 13 fichas**, efeito colateral mecânico da anexação. Nenhum conteúdo tocado.
+
+### 5. Correcções que fiz a mim próprio nesta unidade
+- O «232 fichas com «»» da recon estava **errado**: eu próprio despira as aspas ao normalizar o trecho. Recontagem sobre o bloco **bruto**: 76 (grau A).
+- A amostra de 80 blocos dizia 86% ancorados; o censo exaustivo diz **65,6%** (418/637). Amostra pequena — o censo prevalece.
+- O filtro «só secções de Citações» excluía blocos legítimos em `Contexto / Origem` (caso RC‑862). O censo final não filtra por secção.
+- São **478** fichas, não 472 — este último vinha do censo filtrado.
+
+### Estado das arestas
+`A1 ✅ · A2 ✅ · A3 ✅ · A4 ⏳ · A5 ⏳ quarentena 100% (reextração diferida: 658 blocos) · A6 ✅ · A7 ✅ ENCERRADA · A8 ✅ SELADA`

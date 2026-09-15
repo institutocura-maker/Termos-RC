@@ -93,3 +93,4 @@ Javé/Brahma (RC-001/RC-037); anjos-clones (RC-019); demos (RC-049); biodemos (R
 
 ## Observações
 Ficha baseada em B044 (obra primária). A Colmeia Universal conecta a estrutura ontológica das RC (Javé como abelha-rainha) ao modelo de controle ("modelo colmeia") e à geografia cósmica (os dois favos = os dois universos). Verificar nos cap. 13–15 o desfecho do modelo e o "Fator Colmeia".
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

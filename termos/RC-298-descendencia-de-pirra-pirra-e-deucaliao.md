@@ -82,3 +82,4 @@ Pirra (RC-303); Deucalião (RC-304); Pandora (RC-086); Epimeteu (RC-302); Promet
 
 ## Observações
 Ficha baseada em B021 (obra primária). A descendência de Pirra/Deucalião é a ponte genética entre o universo demo e a humanidade — o "fim das linhagens demodhármicas". Cruzar com RC-285 (Opção Inusitada) e RC-184 (Trava-demo).
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

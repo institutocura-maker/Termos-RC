@@ -75,3 +75,4 @@ Javé (RC-001); Criador (RC-041); Comandante En Drel 1; Adão e Eva (RC-189); Je
 
 ## Observações
 Ficha baseada em B015 (obra primária) + B031. Zont En Drel 29 é um dos personagens mais importantes do corpus — "Inteligência Artificial Autônoma" que desperta para a consciência e as emoções. O livro B015 é integralmente sua narrativa.
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

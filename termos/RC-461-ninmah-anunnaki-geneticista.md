@@ -63,3 +63,4 @@ Base secreta nos EUA, derretimento de silos na Guerra Fria e habitat em mares/á
 
 ## Citações-chave
 > "Esses 900 anunnakis eram comandados por Enlil. Enki era o outro irmão... Se a gente for para trás na história, há cerca de 450.000 anos os anunnaki chegaram aqui... Anu ou An, o imperador de Nibiru, mandou os dois filhos dele para cá — na verdade três: Enki, Enlil e uma irmã chamada Ninmah."" — P2021-03-27
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** os 2 trechos entre aspas desta ficha **não** resistem à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Só 1 dos 2 deixam vestígio no corpus. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

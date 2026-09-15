@@ -60,3 +60,4 @@ Redes Psíquicas Coletivas foram absorvidas por RC-188 e relacionadas a este ter
 
 - O Círculo da Perfeição é descrito como mecanismo de circulação entre níveis paradisíacos.
 - Divergências e alegações científicas permanecem abertas/atribuídas à palestra.
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

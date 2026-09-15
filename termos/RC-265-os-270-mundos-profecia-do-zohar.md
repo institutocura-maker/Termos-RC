@@ -68,3 +68,4 @@ Kether/Javé (RC-261); Shimon Bar Yochai (RC-266); Jan Val Ellam (RC-071, mensag
 
 ## Observações
 Ficha baseada em B013 (obra primária). A profecia dos 270 mundos é o "público-alvo" cósmico da Revelação Cósmica — conecta a obra de Ellam à profecia cabalística do mensageiro do Juízo Final.
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

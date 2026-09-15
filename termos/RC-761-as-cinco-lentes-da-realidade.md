@@ -75,3 +75,4 @@ Palestra integral dedicada ao tema (P2023-05-13). Ellam a apresenta como "o mome
 
 ## Citações-chave
 > "Depois de 30 anos estudando isso sob a perspectiva da condição humana e sob algumas outras perspectivas, existem cinco lentes básicas através das quais a gente pode olhar pra vida, pra realidade que a gente tá inserido e tentar entender como isso começou. Por que que é importante entender como isso começou?" — P2023-05-13
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** os 2 trechos entre aspas desta ficha **não** resistem à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Só 1 dos 2 deixam vestígio no corpus. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

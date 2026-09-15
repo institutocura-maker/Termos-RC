@@ -44,3 +44,4 @@ Ver relações acima e os nós Elm (RC-454), Olm (RC-092), Prabrajna (RC-152), G
 Código imutável e nunca reutilizável. Não usar Impérial como entidade válida em novos textos; manter somente como erro STT histórico.
 
 **Regra de evidência:** as correções ontológicas foram aprovadas pelo curador, mas a fonte continua sendo STT sem áudio anexado.
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

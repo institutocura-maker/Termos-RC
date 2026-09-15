@@ -79,3 +79,4 @@ Trimurti (RC-104); Senhores do Dharma (RC-320); Seres Terrenos (RC-099).
 
 ## Observações
 Ficha baseada em B023 (obra primária). As castas como "engenharia genética demo-homo" é uma das teses mais ousadas do corpus. Cruzar com RC-329/RC-330 e RC-327.
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

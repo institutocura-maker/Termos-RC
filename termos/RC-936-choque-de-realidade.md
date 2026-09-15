@@ -53,3 +53,4 @@ Aberta pelo F043-T3 (despacho de 06/09/2026, §2): expansão limitada aos termos
 Homônimo no cadastro: **RC-898** — Choque de Realidade (em análise). Ficha do Anel C (GKA, EXT-2024-01-04): não fundir com RC-898 (precedente dos anéis); remissiva declarada em 2.6.
 
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-936.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o bloco entre «» desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

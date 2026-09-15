@@ -52,3 +52,4 @@ Olm (RC-252); Allan Kardec (espírito codificador); Jan Val Ellam (RC-071).
 
 ## Observações
 Ficha baseada em B016 (obra primária). Conceito que reposiciona o espiritismo dentro da cosmologia RC: planejado como veículo de esclarecimento do Quarto Logos, "abraçado" pelo Terceiro. Cruzar com RC-190 (Revelação Espiritual) e RC-223 (O Mal: Subproduto da Ignorância).
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

@@ -77,3 +77,4 @@ A vírgula preserva a oposição formulada na fala: “não são as espécies qu
 - O termo registra uma proposição doutrinária da palestra, não uma reformulação aceita da teoria evolutiva.
 - Números de genes, proteínas e percentuais de DNA não codificante citados na fala exigem notas científicas.
 - A transcrição termina antes da conclusão anunciada; a formulação foi preservada apenas no limite da fonte recebida.
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

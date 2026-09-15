@@ -54,3 +54,4 @@ Brahma (RC-037); Vishnu (RC-135); Shiva (RC-102); Jesus (RC-072); Sophia (RC-009
 
 ## Observações
 Ficha baseada em B033 (obra primária). A Gestão Cósmica conecta a trilogia dos Dramas às Eras da Criação (B024) e à "divisão de comando". B033 menciona o livro inconcluso "Xadrez Cósmico" que abordaria esses temas — verificar se há relação com RC-150.
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

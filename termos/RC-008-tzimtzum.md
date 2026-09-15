@@ -75,3 +75,4 @@ Kether/Javé (RC-261/RC-001); Criador (RC-041).
 
 ## Observações
 Ficha baseada em B013 (obra primária). O Tzimtzum é a ponte entre a Cabala e a cosmologia RC: a "contração" de Luria = implosão do Corpo Mental do Criador (a queda). Termo foi promovido de candidato (⚪) para provisório (🟡) com a chegada do B013.
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

@@ -101,3 +101,4 @@ O exemplo principal é a cura de cegueira por Jesus com areia/argila e saliva, i
 
 ## Ressalva Biomédica
 Não existe validação biomédica para diagnosticar e corrigir mutações por leitura mental, saliva, areia, intenção ou manipulação de “regiões HR1/HR2”. O termo registra uma concepção RC da palestra e não deve orientar tratamento de saúde.
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

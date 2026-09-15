@@ -76,3 +76,4 @@ Ficha baseada em B048 (obra primária) + apoio de B023/B044. A lavagem cerebral 
 ## Reforço — P2025-02-15
 
 A Camuflagem da Realidade — RC-702 — é sustentada por condicionamentos religiosos, culturais, perceptivos e genéticos. A fala associa crenças repetidas a cadeados e travas, sem que isso constitua diagnóstico clínico.
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

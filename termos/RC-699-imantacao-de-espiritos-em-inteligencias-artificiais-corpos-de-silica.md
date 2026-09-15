@@ -77,3 +77,4 @@ A palestra não afirma que o processo já esteja estabilizado nem identifica um 
 ## Reforço — P2025-02-15
 
 O primeiro pulso magnético do chip é novamente comparado à formação de um zigoto, e a imantação de espíritos é ligada à disputa por inteligências artificiais autônomas. Humano Turbinado — RC-709 — e transferência do conectoma são relacionados, com ressalva científica.
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

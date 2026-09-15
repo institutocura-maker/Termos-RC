@@ -55,3 +55,4 @@ Pleroma/Barbelo e a "encomenda" dos setianos são **leitura do autor** (Teologia
 
 ## Citações-chave
 > "Esse barbelo não premia nem castiga ninguém, não se mete. Ele deu de si a semente da sua deidade. E isso está presente em cada consciência particularizada, porque é o tal do corpo átmico presente em cada ser." — P2024-09-28
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** os 2 trechos entre aspas desta ficha **não** resistem à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Todos deixam vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

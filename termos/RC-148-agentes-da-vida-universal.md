@@ -79,3 +79,4 @@ Anjos clones (RC-019); Demos (RC-049); Biodemos (RC-036); Fenvans (RC-064); Sere
 
 ## Observações
 Ficha baseada na leitura de B024 (obra primária). Verificar nos capítulos 15–17 os detalhes do "programa existencial" e o papel das mônadas na estruturação dos corpos.
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
