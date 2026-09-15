@@ -5,7 +5,7 @@ nome = "Vida de Padrão Dependente"
 categoria = "Conceitos Cosmológicos"
 subcategoria = "2.2 Leis e princípios cósmicos"
 status = "provisório"
-fontes = ["B001", "B002", "P2024-05-04"]
+fontes = ["B001", "B002"]
 via = "P6-evidência"
 confianca_fonte = "média"
 atualizado = "2026-09-13"
@@ -22,7 +22,7 @@ Expressão que a B002 (*O Drama Espiritual de Javé*) emprega e explica: a vida 
 
 ## Escopo e evidência
 
-- Fontes declaradas no cadastro: B001, B002, P2024-05-04.
+- Fontes declaradas no cadastro: B001, B002.
 - Arestas em `RELACOES`: 0 — a tabela abaixo soma a essas as do espelho do cadastro (3 no total). Nada aberto, fechado ou reetiquetado nesta ficha.
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
@@ -58,5 +58,6 @@ Expressão que a B002 (*O Drama Espiritual de Javé*) emprega e explica: a vida 
 
 - **A expressão exacta não ocorre na B001** (primeira fonte declarada). A B001 trabalha a mesma noção com outra formulação — «criações de padrões dependentes», «especialidade do Senhor Javé» (L9302), «lógica de divindade criadora de padrões dependentes» (L3285). A família B do censo assentou-se na B002, também declarada no cadastro; a ficha cita as duas e **não** funde as formulações.
 - Confrontar com **Criador de Padrões Dependentes** (RC-208), cuja noção a B002 diz retomar expressamente («Apenas para lembrar aos que já leram o “Drama Cósmico de Javé”», B002 L5368–L5369).
+- 🧹 **Higienização do campo `fontes` — Frente 2 do encerramento (U80, 14/09/2026).** Regime **SUBSTITUTIVO** por despacho do Curador: a autoridade final é a evidência textual. Foram expurgadas as fontes declaradas sem **nenhuma** evidência: **P2024-05-04**. A verificação foi em quatro camadas — (1) nenhuma ocorrência literal da chave na obra (censo v3, busca em **blocos recompostos**, que resolve o *hard-wrap*); (2) nenhuma citação desta ficha nessa obra; (3) nenhuma ocorrência distintiva da matéria (nem variante gráfica, nem epíteto, nem forma parcial do nome); (4) nenhuma aresta de `RELACOES` com essa fonte. A declaração original fica preservada aqui para rastreabilidade: **B001, B002, P2024-05-04**.
 - **Fratura de hard-wrap:** a edição digital das fontes quebra as sentenças em linhas curtas. Cada fragmento entre «» é verbatim **intra-linha**, conferido byte a byte contra o `original.txt` da obra declarada; quando uma sentença ou um título foi partido, as suas partes aparecem como fragmentos distintos, com as linhas indicadas. **A B001 tem artefatos próprios de diagramação, preservados sem normalização:** espaço antes de sinal de pontuação («Deidade , esta»), espaço interno em palavras («T erra», «V al Ellam», «P ararelo») e o título do capítulo no **rodapé** da página, partido em duas ou três linhas — ver as Observações de RC-212, RC-213, RC-214 e RC-215.
 - **Status de nascença:** 🟡 **provisório** — a presunção de V por fonte de livro, que chancelou os lotes 1 e 2, foi **REVOGADA pelo Curador para os lotes 3 em diante** (`diagnostico/DESPACHO-ROTAS-POS-V2-2026-09-13.md`): o instrumento que a lastreava estava submedido e estender a presunção sobre base comprometida comprometeria a Base. Sem V não há 🟢: a ficha nasce provisória e segue para leva de chancela, com as citações já extraídas e conferidas.

@@ -5,7 +5,7 @@ nome = "Yel Am / Yel Liam"
 categoria = "Seres & Entidades"
 subcategoria = "1.3 Extraterrestres / Raças cósmicas"
 status = "provisório"
-fontes = ["B031", "B011", "B060", "P2026-04-02", "P2025-10-25"]
+fontes = ["B031", "B011", "B060", "P2026-04-02"]
 via = "P6-evidência"
 confianca_fonte = "média"
 atualizado = "2026-09-13"
@@ -22,7 +22,7 @@ Biodemo da Família Yel que fazia parte do Conselho dos Cinco da Frota Norte em 
 
 ## Escopo e evidência
 
-- Fontes declaradas no cadastro: B031, B011, B060, P2026-04-02, P2025-10-25.
+- Fontes declaradas no cadastro: B031, B011, B060, P2026-04-02.
 - Arestas em `RELACOES`: 4 — a tabela abaixo soma a essas as do espelho do cadastro (7 no total). Nada aberto, fechado ou reetiquetado nesta ficha.
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
@@ -55,6 +55,7 @@ Biodemo da Família Yel que fazia parte do Conselho dos Cinco da Frota Norte em 
 
 - **Duas entradas para o mesmo biodemo:** RC-138 versa sobre «Yel Am» (antes da fusão) e RC-140 sobre «Yel Liam» (depois). Os dois verbetes do glossário da B031 são complementares e descrevem o mesmo ser; a duplicidade é da Base e fica registrada, não resolvida.
 - A Família Yel é descrita no mesmo glossário como composta por 5.420 membros, criados há aproximadamente 492 milhões de anos no Sistema de Capela, com base no planeta Dan — B031 L4052–L4057.
+- 🧹 **Higienização do campo `fontes` — Frente 2 do encerramento (U80, 14/09/2026).** Regime **SUBSTITUTIVO** por despacho do Curador: a autoridade final é a evidência textual. Foram expurgadas as fontes declaradas sem **nenhuma** evidência: **P2025-10-25**. A verificação foi em quatro camadas — (1) nenhuma ocorrência literal da chave na obra (censo v3, busca em **blocos recompostos**, que resolve o *hard-wrap*); (2) nenhuma citação desta ficha nessa obra; (3) nenhuma ocorrência distintiva da matéria (nem variante gráfica, nem epíteto, nem forma parcial do nome); (4) nenhuma aresta de `RELACOES` com essa fonte. A declaração original fica preservada aqui para rastreabilidade: **B031, B011, B060, P2026-04-02, P2025-10-25**.
 - **Fratura de hard-wrap:** a edição digital das fontes quebra as sentenças em linhas curtas. Cada fragmento entre «» é verbatim **intra-linha**, conferido byte a byte contra o `original.txt` da obra declarada; quando uma sentença foi partida, o seu início e o seu fecho aparecem como fragmentos distintos, com as linhas indicadas.
 - **Status de nascença:** 🟡 **provisório** — a presunção de V por fonte de livro, que chancelou os lotes 1 e 2, foi **REVOGADA pelo Curador para os lotes 3 em diante** (`diagnostico/DESPACHO-ROTAS-POS-V2-2026-09-13.md`): o instrumento que a lastreava estava submedido e estender a presunção sobre base comprometida comprometeria a Base. Sem V não há 🟢: a ficha nasce provisória e segue para leva de chancela, com as citações já extraídas e conferidas.
 

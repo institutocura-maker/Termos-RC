@@ -3380,3 +3380,78 @@ RC-372 reemitida pelo Portão B: 10 citações reextraídas e reconferidas,
 Suíte 21/21 · verificador OK (767 citações, 33 obras) · espelhos reconstruídos.
 
 **Frentes: 1 ✅ · 1.5 ✅ · 2 ⏳ · 3 ⏳**
+
+
+## U80 — Encerramento · FRENTE 2: higienização de `fontes` (regime substitutivo)
+
+**Despacho U80, 3 balizas:** (1) só se expurga fonte com ZERO evidência — a
+pluralidade legítima fica; (2) palestra como fonte exclusiva CONFIRMADA, com
+mudança da natureza do verbete e o erro do cadastro indo para observações;
+(3) **reemitir as fichas afectadas AGORA, dentro da Frente 2** (atomicidade).
+
+**Abertura limpa** (f4b6d50, HEAD == remoto, 0 pendentes). Nenhuma regressão.
+
+**1. O inventário U57 NÃO É FIÁVEL.** Declara «sem ocorrência» para pares que
+têm ocorrência provada: B060/Astréia · B017+B018/Benem · B042+B057/Orbum ·
+B075/Kundalini · B026/«planeta azul» · B052/linhagem · B042+B011/«o Mais Alto»
+· B022+P2024-11-30/Tríade · P2024-11-03/«Kundaline» · B019/«Criatura Universal».
+Causa: o censo v3 guarda só 3 blocos por código (U65: censo é ACHADOR, não
+cerca). **O inventário passa a valer como mapa de CANDIDATOS.** Toda decisão
+exigiu varredura própria, por DOIS métodos independentes (linha a linha ×
+blocos recompostos via `tem_bloco`), que concordaram em todos os zeros.
+
+**2. Método em 4 camadas:** (a) chave literal em blocos recompostos;
+(b) nenhuma citação da ficha naquela obra; (c) nenhuma ocorrência distintiva da
+matéria (variante gráfica, epíteto, forma parcial) — a co-ocorrência simples
+foi ABANDONADA por gerar falsos positivos em blocos gigantes, substituída por
+proximidade ≤ 6 palavras + «se a ficha cita, há evidência» + leitura manual;
+(d) nenhuma aresta em RELACOES com aquela fonte.
+
+**3. REGRA NOVA (a manter): aresta em RELACOES com fonte F é EVIDÊNCIA de F.**
+Seis expurgos planeados caíram por isto; RC-184 −B020 caiu pela aresta
+`RC-285 rompe RC-184 B020`. Guarda: `assert` de 0 conflitos antes de pacthar.
+
+**4. Resultado: 12 siglas expurgadas em 10 códigos.** RC-077 −B060 ·
+RC-082 −B017 (B023 fica: aresta RC-323) · RC-085 −P2020-08-08 ·
+RC-100 −P2024-11-30 (P2025-03-15 e P2025-02-16 ficam: arestas RC-692/RC-699) ·
+RC-138 −P2025-10-25 (P2026-04-02 fica: arestas RC-647/RC-365) · RC-177 −B015 ·
+RC-208 −P2024-05-04 · RC-209 −P2024-05-04 · RC-211 −B074 e −P2023-07-05
+(B075 e P2024-11-03 ficam) · RC-347 −B019 e −P2024-11-30.
+**RC-296 CONGELADA (série P, U54).**
+
+**Baliza 2 aplicada: NENHUM verbete mudou de natureza** — todos os 10
+conservam pelo menos uma obra; nenhum ficou só com palestra.
+
+**5. Reemissão (Baliza 3): 10/10 fichas no mesmo commit.** 6 por lote
+(RC-082 · RC-138 · RC-177 · RC-208 · RC-209 · RC-347), com as restantes fichas
+dos lotes 4/5/6/7/29 saindo `idêntico (nada a reescrever)`. 4 à mão
+(RC-077 · RC-085 · RC-100 · RC-211) — duas linhas geradas do cadastro
+(frontmatter por `motor.fm_toml`; linha declarada pelo formatador do driver).
+**Rastro em 10/10** nas Observações, com a declaração original preservada;
+consta do docx (10/10).
+
+**Dois lotes NÃO reexecutáveis (erros de driver, nenhum corrigido no driver):**
+U42-LOTE1 → `AssertionError RC-108` (aplicar_V dessincronizado do cadastro);
+U44-LOTE2 → `KeyError: 'fam'` (formato antigo). **O dessincronizado é o JSON,
+nunca o driver.** Nenhuma asserção do materializar_lote.py foi afrouxada.
+
+**Dois erros meus, corrigidos:** (a) matcher de fecho de array `   ]` não
+casa quando há vírgula (`   ],`) — a nota da RC-138 foi parar ao `historico`;
+(b) restauro por iteração (`git checkout HEAD` a cada ficha) apagou a nota da
+RC-208 ao processar a RC-209. Corrigido agrupando por ficheiro. Prova final:
+HEAD vs novo, removida a nota, `ant == nov` nos 5 JSONs, com colocação
+verificada por código (último de `obs`, `historico` intacto). Ruído evitado —
+as notas foram reinseridas no estilo original (3 linhas por nota, em vez de
+~900 de reindentação do `json.dump`).
+
+**Invariantes:** suíte 21/21 · T13 820 · T14 0 · T15 820/0 · verificador
+946/820/1887 · espelhos reconstruídos (xlsx 820/820, docx 820) · paridade
+820/820 frontmatter e 149/149 bullets · 10/10 com rastro.
+
+**Para a Frente 3:** as 820 fichas têm **471 layouts distintos**; só 169 têm
+a secção «Escopo e evidência» (144 no canónico R1). Condição pré-existente,
+com o frontmatter de todas em sincronia — sem falsa declaração em jogo.
+
+Certidão: `diagnostico/CERTIDAO-U80-ENCERRAMENTO-FRENTE2-2026-09-14.md`
+
+**Frentes: 1 ✅ · 1.5 ✅ · 2 ✅ · 3 ⏳**

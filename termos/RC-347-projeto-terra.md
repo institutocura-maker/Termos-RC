@@ -5,7 +5,7 @@ nome = "Projeto Terra"
 categoria = "Eventos & Eras"
 subcategoria = "7.5 Missões / Expedições / Encontros"
 status = "provisório"
-fontes = ["B026", "B019", "P2024-11-30"]
+fontes = ["B026"]
 via = "P6-evidência"
 confianca_fonte = "média"
 atualizado = "2026-09-13"
@@ -22,7 +22,7 @@ Na B026 (*Carma e Compromisso*, Livro III da Trilogia «Queda e Ascensão Espiri
 
 ## Escopo e evidência
 
-- Fontes declaradas no cadastro: B026, B019, P2024-11-30.
+- Fontes declaradas no cadastro: B026.
 - Arestas em `RELACOES`: 1 — a tabela abaixo soma a essas as do espelho do cadastro (4 no total). Nada aberto, fechado ou reetiquetado nesta ficha.
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
@@ -67,5 +67,6 @@ Na B026 (*Carma e Compromisso*, Livro III da Trilogia «Queda e Ascensão Espiri
 - **O critério e a cautela, registrados como critério e cautela da obra:** «Não cabe a nós uma análise mais apurada dessa fenomenologia, pois corremos o risco de i ncorrer em julgamento equivocado» (L210–L211); «a t ónica seja o **Amor**, por se tratar de uma **lei universal**» (L212–L213); e a nota sobre o meio espírita: «sabemos das dificuldades que muitos enfrentam, no momento em que novas informações não encontram reflexo nos ensinamentos deixados por Allan Kardec» (L215–L217).
 - **Ancoragem (U57):** RC‑347 declara B026, B019 e P2024‑11‑30; a evidência do censo ocorre **na B026**, e é nela que a ficha se sustenta. Nenhum conteúdo de B019 ou da palestra foi importado.
 - ⚠️ **Alcance da leitura (§6):** os blocos do censo eram «L194‑200», «L59‑59» e «L130‑131». O **título da secção no corpo** (L186) ficava fora deles e foi alcançado por leitura estendida na mesma obra, por ser a ocorrência canónica. Oitavo uso consecutivo do §6.
+- 🧹 **Higienização do campo `fontes` — Frente 2 do encerramento (U80, 14/09/2026).** Regime **SUBSTITUTIVO** por despacho do Curador: a autoridade final é a evidência textual. Foram expurgadas as fontes declaradas sem **nenhuma** evidência: **B019, P2024-11-30**. A verificação foi em quatro camadas — (1) nenhuma ocorrência literal da chave na obra (censo v3, busca em **blocos recompostos**, que resolve o *hard-wrap*); (2) nenhuma citação desta ficha nessa obra; (3) nenhuma ocorrência distintiva da matéria (nem variante gráfica, nem epíteto, nem forma parcial do nome); (4) nenhuma aresta de `RELACOES` com essa fonte. A declaração original fica preservada aqui para rastreabilidade: **B026, B019, P2024-11-30**.
 - **Fratura de hard-wrap:** a edição digital das fontes quebra as sentenças em linhas curtas. Cada fragmento entre «» é verbatim **intra-linha**, conferido byte a byte contra o `original.txt` da obra declarada; quando uma sentença foi partida, o seu início e o seu fecho aparecem como fragmentos distintos, com as linhas indicadas. A sentença íntegra só será citável após o refinamento **R2** (reconstrução de parágrafos), previsto no dossiê do gap.
 - **Status de nascença:** 🟡 **provisório** — a presunção de V por fonte de livro, que chancelou os lotes 1 e 2, foi **REVOGADA pelo Curador para os lotes 3 em diante** (`diagnostico/DESPACHO-ROTAS-POS-V2-2026-09-13.md`): o instrumento que a lastreava estava submedido e estender a presunção sobre base comprometida comprometeria a Base. Sem V não há 🟢: a ficha nasce provisória e segue para leva de chancela, com as citações já extraídas e conferidas.

@@ -5,7 +5,7 @@ nome = "Seres Espirituais"
 categoria = "Seres & Entidades"
 subcategoria = "1.8 Consciências coletivas / Logos"
 status = "verificado"
-fontes = ["B031", "B024", "B006", "P2025-03-15", "P2025-02-16", "P2025-02-15", "P2024-11-30", "P2024-11-09"]
+fontes = ["B031", "B024", "B006", "P2025-03-15", "P2025-02-16", "P2025-02-15", "P2024-11-09"]
 via = "P6-evidência"
 confianca_fonte = "alta"
 atualizado = "2026-09-13"
@@ -22,7 +22,7 @@ Categoria que B031 reparte em dois regimes. De um lado, os seres espirituais que
 
 ## Escopo e evidência
 
-- Fontes declaradas no cadastro: B031, B024, B006, P2025-03-15, P2025-02-16, P2025-02-15, P2024-11-30, P2024-11-09.
+- Fontes declaradas no cadastro: B031, B024, B006, P2025-03-15, P2025-02-16, P2025-02-15, P2024-11-09.
 - Arestas em `RELACOES`: 4 — a tabela abaixo soma a essas as do espelho do cadastro (18 no total). Nada aberto, fechado ou reetiquetado nesta ficha.
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
@@ -72,3 +72,5 @@ Categoria que B031 reparte em dois regimes. De um lado, os seres espirituais que
 - B024 e B006 constam do cadastro como fontes e a busca de 13/09/2026 localizou nelas ocorrências do sintagma, mas sempre em outro emprego («irmãos espirituais», «guias espirituais», «obras espirituais») — nenhuma delas define o termo, e por isso não foram usadas como citação-chave.
 - **Fratura de hard-wrap:** a edição digital das fontes quebra as sentenças em linhas curtas (B031 = 92 chars na maior linha · B021 = 106 · B026 = 109 · B003 = 111). Cada fragmento entre «» é verbatim **intra-linha**, conferido byte a byte contra o `original.txt` da obra declarada; quando uma sentença foi partida, o seu início e o seu fecho aparecem como fragmentos distintos, com as linhas indicadas. A sentença íntegra só será citável após o refinamento **R2** (reconstrução de parágrafos), previsto no dossiê do gap.
 - Ficha nascida com o **V já chancelado** pelo Curador nas levas P7m/n/o e aplicado nesta unidade (a trava §7 «sem ficha → bloqueia» deixa de incidir): `chancela/HOLD.csv` baixado com desfecho.
+
+- 🧹 **Higienização do campo `fontes` — Frente 2 do encerramento (U80, 14/09/2026).** Regime **SUBSTITUTIVO** por despacho do Curador: a autoridade final é a evidência textual. Foram expurgadas as fontes declaradas sem **nenhuma** evidência: **P2024-11-30**. A verificação foi em quatro camadas — (1) nenhuma ocorrência literal da chave na obra (censo v3, busca em **blocos recompostos**, que resolve o *hard-wrap*); (2) nenhuma citação desta ficha nessa obra; (3) nenhuma ocorrência distintiva da matéria (nem variante gráfica, nem epíteto, nem forma parcial do nome); (4) nenhuma aresta de `RELACOES` com essa fonte. A declaração original fica preservada aqui para rastreabilidade: **B031, B024, B006, P2025-03-15, P2025-02-16, P2025-02-15, P2024-11-30, P2024-11-09**.

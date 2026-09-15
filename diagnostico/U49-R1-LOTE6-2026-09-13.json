@@ -71,7 +71,8 @@
    ],
    "obs": [
     "**A expressão só ocorre duas vezes na obra, ambas em posição estrutural:** a entrada do SUMÁRIO (L46) e o índice de Notas Explicativas (L5542). No corpo, o título do capítulo 2 está em **caixa alta espaçada** (L727), forma que a busca normalizada não alcança — é o mesmo tipo de artefato de medição que motivou o censo v2, agora em nova variante.",
-    "A ficha, portanto, apoia-se em: (i) o título verbatim nas duas posições estruturais e no corpo; (ii) a prosa do próprio capítulo (L772–L781), que é onde o tema se desenvolve."
+    "A ficha, portanto, apoia-se em: (i) o título verbatim nas duas posições estruturais e no corpo; (ii) a prosa do próprio capítulo (L772–L781), que é onde o tema se desenvolve.",
+    "🧹 **Higienização do campo `fontes` — Frente 2 do encerramento (U80, 14/09/2026).** Regime **SUBSTITUTIVO** por despacho do Curador: a autoridade final é a evidência textual. Foram expurgadas as fontes declaradas sem **nenhuma** evidência: **B015**. A verificação foi em quatro camadas — (1) nenhuma ocorrência literal da chave na obra (censo v3, busca em **blocos recompostos**, que resolve o *hard-wrap*); (2) nenhuma citação desta ficha nessa obra; (3) nenhuma ocorrência distintiva da matéria (nem variante gráfica, nem epíteto, nem forma parcial do nome); (4) nenhuma aresta de `RELACOES` com essa fonte. A declaração original fica preservada aqui para rastreabilidade: **B044, B015**."
    ]
   },
   {

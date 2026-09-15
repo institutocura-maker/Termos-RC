@@ -5,7 +5,7 @@ nome = "Orbum"
 categoria = "Lokas & Geografias"
 subcategoria = "3.1 Planetas / Sistemas estelares"
 status = "verificado"
-fontes = ["B031", "B042", "B057", "P2020-08-08"]
+fontes = ["B031", "B042", "B057"]
 via = "P6-evidência"
 confianca_fonte = "alta"
 atualizado = "2026-09-13"
@@ -22,7 +22,7 @@ Planeta do Sistema de Capela — um magnífico sol cuja luz gasta cerca de 42 an
 
 ## Escopo e evidência
 
-- Fontes declaradas no cadastro: B031, B042, B057, P2020-08-08.
+- Fontes declaradas no cadastro: B031, B042, B057.
 - Arestas em `RELACOES`: 2 — a tabela abaixo soma a essas as do espelho do cadastro (7 no total). Nada aberto, fechado ou reetiquetado nesta ficha.
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
@@ -57,3 +57,5 @@ Planeta do Sistema de Capela — um magnífico sol cuja luz gasta cerca de 42 an
 - B042 consta do cadastro como fonte e a busca de 13/09/2026 não localizou nele o nome do planeta com grafia canônica — nenhuma citação foi extraída dessa obra.
 - **Fratura de hard-wrap:** a edição digital das fontes quebra as sentenças em linhas curtas. Cada fragmento entre «» é verbatim **intra-linha**, conferido byte a byte contra o `original.txt` da obra declarada; quando uma sentença foi partida, o seu início e o seu fecho aparecem como fragmentos distintos, com as linhas indicadas. A sentença íntegra só será citável após o refinamento **R2** (reconstrução de parágrafos), previsto no dossiê do gap.
 - **V aplicado (U43, 13/09/2026):** despacho do Curador — «pode aplicar_V em todos os termos» deste lote e dos próximos, com a regra de **presunção de V por fonte de livro** (`diagnostico/DESPACHO-V-POR-FONTE-DE-LIVRO-2026-09-13.md`). O 🟢 é aqui **presuntivo**: vem do lastro em obra publicada (fonte `B###` declarada), não de revisão termo a termo — reversível a qualquer tempo. Uso do código conferido em toda a Base: nenhuma colisão Base×fichas viva nos 8.
+
+- 🧹 **Higienização do campo `fontes` — Frente 2 do encerramento (U80, 14/09/2026).** Regime **SUBSTITUTIVO** por despacho do Curador: a autoridade final é a evidência textual. Foram expurgadas as fontes declaradas sem **nenhuma** evidência: **P2020-08-08**. A verificação foi em quatro camadas — (1) nenhuma ocorrência literal da chave na obra (censo v3, busca em **blocos recompostos**, que resolve o *hard-wrap*); (2) nenhuma citação desta ficha nessa obra; (3) nenhuma ocorrência distintiva da matéria (nem variante gráfica, nem epíteto, nem forma parcial do nome); (4) nenhuma aresta de `RELACOES` com essa fonte. A declaração original fica preservada aqui para rastreabilidade: **B031, B042, B057, P2020-08-08**.

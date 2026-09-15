@@ -832,7 +832,8 @@
    ],
    "obs": [
     "**Duas entradas para o mesmo biodemo:** RC-138 versa sobre «Yel Am» (antes da fusão) e RC-140 sobre «Yel Liam» (depois). Os dois verbetes do glossário da B031 são complementares e descrevem o mesmo ser; a duplicidade é da Base e fica registrada, não resolvida.",
-    "A Família Yel é descrita no mesmo glossário como composta por 5.420 membros, criados há aproximadamente 492 milhões de anos no Sistema de Capela, com base no planeta Dan — B031 L4052–L4057."
+    "A Família Yel é descrita no mesmo glossário como composta por 5.420 membros, criados há aproximadamente 492 milhões de anos no Sistema de Capela, com base no planeta Dan — B031 L4052–L4057.",
+    "🧹 **Higienização do campo `fontes` — Frente 2 do encerramento (U80, 14/09/2026).** Regime **SUBSTITUTIVO** por despacho do Curador: a autoridade final é a evidência textual. Foram expurgadas as fontes declaradas sem **nenhuma** evidência: **P2025-10-25**. A verificação foi em quatro camadas — (1) nenhuma ocorrência literal da chave na obra (censo v3, busca em **blocos recompostos**, que resolve o *hard-wrap*); (2) nenhuma citação desta ficha nessa obra; (3) nenhuma ocorrência distintiva da matéria (nem variante gráfica, nem epíteto, nem forma parcial do nome); (4) nenhuma aresta de `RELACOES` com essa fonte. A declaração original fica preservada aqui para rastreabilidade: **B031, B011, B060, P2026-04-02, P2025-10-25**."
    ],
    "historico": [
     "- **Cross-reference (despacho de 13/09/2026):** RC-138 e RC-140 **não se fundem**. Ambos os códigos são preservados porque representam estados ontológicos e temporais distintos do mesmo biodemo: RC-138 = **Yel Am**, antes da fusão do código genético com Val El; RC-140 = **Yel Liam**, depois dela. **Evolução: RC-138 → RC-140.**",

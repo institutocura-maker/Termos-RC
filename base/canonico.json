@@ -2354,8 +2354,7 @@
    "status": "verificado",
    "fontes": [
     "B031",
-    "B021",
-    "B060"
+    "B021"
    ],
    "relacionados": [
     "RC-038",
@@ -2499,7 +2498,6 @@
    "status": "provisório",
    "fontes": [
     "B031",
-    "B017",
     "B018",
     "B023"
    ],
@@ -2557,8 +2555,7 @@
    "fontes": [
     "B031",
     "B042",
-    "B057",
-    "P2020-08-08"
+    "B057"
    ],
    "relacionados": [
     "RC-009",
@@ -3068,7 +3065,6 @@
     "P2025-03-15",
     "P2025-02-16",
     "P2025-02-15",
-    "P2024-11-30",
     "P2024-11-09"
    ],
    "relacionados": [
@@ -4003,8 +3999,7 @@
     "B031",
     "B011",
     "B060",
-    "P2026-04-02",
-    "P2025-10-25"
+    "P2026-04-02"
    ],
    "relacionados": [
     "RC-136",
@@ -5034,8 +5029,7 @@
    "subcategoria": "3.3 Localidades terrestres",
    "status": "provisório",
    "fontes": [
-    "B044",
-    "B015"
+    "B044"
    ],
    "relacionados": [
     "RC-174",
@@ -5725,8 +5719,7 @@
    "status": "provisório",
    "fontes": [
     "B001",
-    "B002",
-    "P2024-05-04"
+    "B002"
    ],
    "relacionados": [
     "RC-041",
@@ -5746,8 +5739,7 @@
    "status": "provisório",
    "fontes": [
     "B001",
-    "B002",
-    "P2024-05-04"
+    "B002"
    ],
    "relacionados": [
     "RC-208",
@@ -5790,10 +5782,8 @@
    "status": "verificado",
    "fontes": [
     "B001",
-    "B074",
     "B075",
     "P2024-05-04",
-    "P2023-07-05",
     "P2024-11-03"
    ],
    "relacionados": [
@@ -8924,9 +8914,7 @@
    "subcategoria": "7.5 Missões / Expedições / Encontros",
    "status": "provisório",
    "fontes": [
-    "B026",
-    "B019",
-    "P2024-11-30"
+    "B026"
    ],
    "relacionados": [
     "RC-090",

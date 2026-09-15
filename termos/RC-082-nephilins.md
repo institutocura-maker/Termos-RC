@@ -5,7 +5,7 @@ nome = "Nephilins"
 categoria = "Seres & Entidades"
 subcategoria = "1.3 Extraterrestres / Raças cósmicas"
 status = "provisório"
-fontes = ["B031", "B017", "B018", "B023"]
+fontes = ["B031", "B018", "B023"]
 via = "P6-evidência"
 confianca_fonte = "média"
 atualizado = "2026-09-13"
@@ -22,7 +22,7 @@ Termo derivado do hebraico naphal («ele caiu»), que ocorre duas vezes na Bíbl
 
 ## Escopo e evidência
 
-- Fontes declaradas no cadastro: B031, B017, B018, B023.
+- Fontes declaradas no cadastro: B031, B018, B023.
 - Arestas em `RELACOES`: 1 — a tabela abaixo soma a essas as do espelho do cadastro (7 no total). Nada aberto, fechado ou reetiquetado nesta ficha.
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
@@ -59,5 +59,6 @@ Termo derivado do hebraico naphal («ele caiu»), que ocorre duas vezes na Bíbl
 
 - A obra associa explicitamente os Nephilins aos **Anunnakis** do planeta Nibiru (B031 L3110–L3112).
 - O verbete menciona ainda Erich von Däniken e Zecharia Sitchin como autores cujas referências a gigantes e Anunnakis apontam para os Nephilins (B031 L3629–L3631) — registrado como existente na fonte, sem adopção do juízo.
+- 🧹 **Higienização do campo `fontes` — Frente 2 do encerramento (U80, 14/09/2026).** Regime **SUBSTITUTIVO** por despacho do Curador: a autoridade final é a evidência textual. Foram expurgadas as fontes declaradas sem **nenhuma** evidência: **B017**. A verificação foi em quatro camadas — (1) nenhuma ocorrência literal da chave na obra (censo v3, busca em **blocos recompostos**, que resolve o *hard-wrap*); (2) nenhuma citação desta ficha nessa obra; (3) nenhuma ocorrência distintiva da matéria (nem variante gráfica, nem epíteto, nem forma parcial do nome); (4) nenhuma aresta de `RELACOES` com essa fonte. A declaração original fica preservada aqui para rastreabilidade: **B031, B017, B018, B023**.
 - **Fratura de hard-wrap:** a edição digital das fontes quebra as sentenças em linhas curtas. Cada fragmento entre «» é verbatim **intra-linha**, conferido byte a byte contra o `original.txt` da obra declarada; quando uma sentença foi partida, o seu início e o seu fecho aparecem como fragmentos distintos, com as linhas indicadas.
 - **Status de nascença:** 🟡 **provisório** — a presunção de V por fonte de livro, que chancelou os lotes 1 e 2, foi **REVOGADA pelo Curador para os lotes 3 em diante** (`diagnostico/DESPACHO-ROTAS-POS-V2-2026-09-13.md`): o instrumento que a lastreava estava submedido e estender a presunção sobre base comprometida comprometeria a Base. Sem V não há 🟢: a ficha nasce provisória e segue para leva de chancela, com as citações já extraídas e conferidas.

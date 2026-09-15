@@ -5,7 +5,7 @@ nome = "Kundalini (no contexto RC)"
 categoria = "Conceitos Cosmológicos"
 subcategoria = "2.4 Espiritualidade / Doutrina"
 status = "verificado"
-fontes = ["B001", "B074", "B075", "P2024-05-04", "P2023-07-05", "P2024-11-03"]
+fontes = ["B001", "B075", "P2024-05-04", "P2024-11-03"]
 via = "P6-evidência"
 confianca_fonte = "alta"
 atualizado = "2026-09-13"
@@ -22,7 +22,7 @@ Na leitura das Revelações Cósmicas, o «potencial sagrado da energia espiritu
 
 ## Escopo e evidência
 
-- Fontes declaradas no cadastro: B001, B074, B075, P2024-05-04, P2023-07-05, P2024-11-03.
+- Fontes declaradas no cadastro: B001, B075, P2024-05-04, P2024-11-03.
 - Arestas em `RELACOES`: 0 — a tabela abaixo soma a essas as do espelho do cadastro (3 no total). Nada aberto, fechado ou reetiquetado nesta ficha.
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
@@ -55,3 +55,5 @@ Na leitura das Revelações Cósmicas, o «potencial sagrado da energia espiritu
 - B074 e B075 constam do cadastro como fontes e a busca de 13/09/2026 localizou nelas o termo, mas empregado no sentido vital/prânico corrente (ao lado de «Prana» e «Ki»), diverso do sentido cosmológico que B001 e a pregação oral lhe dão — por isso não foram usadas como citação-chave.
 - **Fratura de hard-wrap:** a edição digital das fontes quebra as sentenças em linhas curtas. Cada fragmento entre «» é verbatim **intra-linha**, conferido byte a byte contra o `original.txt` da obra declarada; quando uma sentença foi partida, o seu início e o seu fecho aparecem como fragmentos distintos, com as linhas indicadas. A sentença íntegra só será citável após o refinamento **R2** (reconstrução de parágrafos), previsto no dossiê do gap.
 - **V presuntivo (fonte de livro):** despacho do Curador de 13/09/2026 — `diagnostico/DESPACHO-V-POR-FONTE-DE-LIVRO-2026-09-13.md`. O 🟢 vem do lastro em obra publicada (fonte `B###` declarada) + citação verbatim conferida byte a byte, **não** de revisão termo a termo; as guardas E1–E5 foram verificadas antes da escrita. Reversível a qualquer tempo, e identificado na Base por `via = P6-evidência` + `confianca_fonte = alta`.
+
+- 🧹 **Higienização do campo `fontes` — Frente 2 do encerramento (U80, 14/09/2026).** Regime **SUBSTITUTIVO** por despacho do Curador: a autoridade final é a evidência textual. Foram expurgadas as fontes declaradas sem **nenhuma** evidência: **B074, P2023-07-05**. A verificação foi em quatro camadas — (1) nenhuma ocorrência literal da chave na obra (censo v3, busca em **blocos recompostos**, que resolve o *hard-wrap*); (2) nenhuma citação desta ficha nessa obra; (3) nenhuma ocorrência distintiva da matéria (nem variante gráfica, nem epíteto, nem forma parcial do nome); (4) nenhuma aresta de `RELACOES` com essa fonte. A declaração original fica preservada aqui para rastreabilidade: **B001, B074, B075, P2024-05-04, P2023-07-05, P2024-11-03**.

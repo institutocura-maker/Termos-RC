@@ -5,7 +5,7 @@ nome = "Colmeia do Éden"
 categoria = "Lokas & Geografias"
 subcategoria = "3.3 Localidades terrestres"
 status = "provisório"
-fontes = ["B044", "B015"]
+fontes = ["B044"]
 via = "P6-evidência"
 confianca_fonte = "média"
 atualizado = "2026-09-13"
@@ -22,7 +22,7 @@ Capítulo 2 de B044 (*A Divina Colmeia*). A obra desenvolve o tema perguntando-s
 
 ## Escopo e evidência
 
-- Fontes declaradas no cadastro: B044, B015.
+- Fontes declaradas no cadastro: B044.
 - Arestas em `RELACOES`: 0 — a tabela abaixo soma a essas as do espelho do cadastro (4 no total). Nada aberto, fechado ou reetiquetado nesta ficha.
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
@@ -60,5 +60,6 @@ Capítulo 2 de B044 (*A Divina Colmeia*). A obra desenvolve o tema perguntando-s
 
 - **A expressão só ocorre duas vezes na obra, ambas em posição estrutural:** a entrada do SUMÁRIO (L46) e o índice de Notas Explicativas (L5542). No corpo, o título do capítulo 2 está em **caixa alta espaçada** (L727), forma que a busca normalizada não alcança — é o mesmo tipo de artefato de medição que motivou o censo v2, agora em nova variante.
 - A ficha, portanto, apoia-se em: (i) o título verbatim nas duas posições estruturais e no corpo; (ii) a prosa do próprio capítulo (L772–L781), que é onde o tema se desenvolve.
+- 🧹 **Higienização do campo `fontes` — Frente 2 do encerramento (U80, 14/09/2026).** Regime **SUBSTITUTIVO** por despacho do Curador: a autoridade final é a evidência textual. Foram expurgadas as fontes declaradas sem **nenhuma** evidência: **B015**. A verificação foi em quatro camadas — (1) nenhuma ocorrência literal da chave na obra (censo v3, busca em **blocos recompostos**, que resolve o *hard-wrap*); (2) nenhuma citação desta ficha nessa obra; (3) nenhuma ocorrência distintiva da matéria (nem variante gráfica, nem epíteto, nem forma parcial do nome); (4) nenhuma aresta de `RELACOES` com essa fonte. A declaração original fica preservada aqui para rastreabilidade: **B044, B015**.
 - **Fratura de hard-wrap:** a edição digital das fontes quebra as sentenças em linhas curtas. Cada fragmento entre «» é verbatim **intra-linha**, conferido byte a byte contra o `original.txt` da obra declarada; quando uma sentença foi partida, o seu início e o seu fecho aparecem como fragmentos distintos, com as linhas indicadas. Nesta obra, os títulos de capítulo são ainda grafados em **caixa alta espaçada** no corpo (por exemplo, L727), o que os torna invisíveis à busca normalizada — ver as Observações destas fichas.
 - **Status de nascença:** 🟡 **provisório** — a presunção de V por fonte de livro, que chancelou os lotes 1 e 2, foi **REVOGADA pelo Curador para os lotes 3 em diante** (`diagnostico/DESPACHO-ROTAS-POS-V2-2026-09-13.md`): o instrumento que a lastreava estava submedido e estender a presunção sobre base comprometida comprometeria a Base. Sem V não há 🟢: a ficha nasce provisória e segue para leva de chancela, com as citações já extraídas e conferidas.
