@@ -16,7 +16,7 @@ atualizado = "2026-08-16"
 
 Ponto ou região de contato entre universos ou faixas de realidade, descrito por Jan Val Ellam como “casa do botão”: lugar em que dois planos se encaixariam e seres poderiam atravessar de um para outro. Na narrativa, Marte teria sido o eixo de Yggdrasil e um novo Axis Mundi teria sido estabelecido na Terra.
 
-## Etimologia e grafias
+## Etimologia e Grafias
 
 - **Forma de referência:** Axis Mundi;
 - **forma oral/RC:** Axismund;
@@ -55,7 +55,7 @@ As localizações e funções acima pertencem à cosmologia da fala e não estab
 | Samudra Manthana / Batimento do Oceano de Leite | RC-734 | contextualiza |
 | Samudra Manthana / Batimento do Oceano de Leite | RC-734 | ← relaciona-se-a |
 
-## Blindagem histórica, religiosa e geográfica
+## Observações
 
 O verbete registra a interpretação cosmológica de Ellam. Não afirma a existência empírica de portais nem transforma Naimisharanya, Goloka ou Vaikuntha em locais físicos comprovados. Correspondências entre cosmologias nórdica e hindu são **Teologia Comparada de Ellam**.
 

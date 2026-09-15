@@ -18,7 +18,7 @@ Yoga Ancestral — tecnologia criada por Shiva no universo paralelo para gerir r
 ## Contexto / Origem
 P2026-02-28.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 Forma validada pelo curador.
 
 ## Ampliação

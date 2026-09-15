@@ -18,7 +18,7 @@ Ser LM designa um gênero de seres de Tempérion dedicado à observação da imp
 ## Contexto / Origem
 A palestra descreve um grupo de cinco LM enviado a Perpérion. A maioria retornaria, enquanto dois — recuperáveis como Elm e Olm — permaneceriam em relação direta com os Adhy e mergulhariam em momentos distintos.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - Grafia preferida: Ser LM / seres LM. STT: seres LN. O significado expandido da sigla não é fornecido; não interpolar.
 - **Fonte de decisão:** curadoria estrutural C-01 a C-07, 2026-08-14.
 

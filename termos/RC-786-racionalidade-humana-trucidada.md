@@ -18,7 +18,7 @@ Tese (leitura do autor, palestra **P2023-11-11 — De Pandora a Eva e a Rebeliã
 ## Contexto / Origem
 Aparece em **P2023-11-11**, U0004, em conexão com a **Sequência Formativa** (RC-785) — depois que a racionalidade foi produzida, foi destruída. Contexto histórico: o **século IV** (com o fim da educação greco-romana via trívio/quadrívio de Marciano Capela) e o **século V** (com o assassinato de Boécio) são os pontos de virada.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Racionalidade Humana Trucidada
 - **Variações STT capturadas:** "racionalidade humana foi trucidada", "racionalidade destruída", "racionalidade pisada"
 - **Idioma de origem:** Português + latim (trucidare = "matar trucidadamente")

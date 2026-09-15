@@ -18,7 +18,7 @@ atualizado = "2026-08-25"
 ## Contexto / Origem
 Caps. 10–12 do B058: a recepção cerimoniosa ("Não é nosso costume ouvir indivíduos que não fazem parte do sistema académico, entretanto..."); a "sabatina"; o veredito do Grão-mestre: "Uma vez que **não conseguimos refutar as argumentações** que nos foram apresentadas, tentámos achar incoerências nas premissas... mas não alcançámos esse intento" (p. 54); "jamais tivemos contato direto com o Criador deste universo! Sempre foi Sophia ou alguém da sua Hierarquia que nos manteve informados" (p. 55); o ofício a Sophia (p. 55). **Nota 2 da p. 37 (ed. 2022): "Não confundir a 'Universidade' de Tau Ceti com a escola administrada pelo Codificador de Zion, citada no primeiro livro desta coleção"** — distinção canônica com RC-146.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Universidade de Tau Ceti
 - **Variações:** "a famosa 'Universidade'" (B058); "'Universidade' de Tau Ceti"; "Conselho de Sábios da Grande Fraternidade Tau Ceti"
 - **Obs.:** distinta da **escola do planeta Zion** (RC-146, B057 — nota 2 da p. 37)

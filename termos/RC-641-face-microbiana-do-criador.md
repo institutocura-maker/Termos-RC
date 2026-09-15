@@ -18,7 +18,7 @@ Primeira expressão viva/reconstruída do Criador sob formas virais e microbiana
 ## Contexto / Origem
 Vincula-se à obra B064 A Ordenação do Caos e às transições de fase.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - Grafia: Face Microbiana do Criador.
 
 

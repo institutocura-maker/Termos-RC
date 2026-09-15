@@ -18,7 +18,7 @@ A **autoconfissão de Javé** como "Ser-Criador fracassado" — o conceito centr
 ## Contexto / Origem
 A autoconfissão é o coração do B036: Javé renuncia ao trono de "Deus Absoluto" para se revelar como "um arquiteto atormentado", "doente", que "já nasceu para esta personalidade doente". O processo de **humanização** (RC-245) é apresentado como necessidade biológica: Javé busca aprender com a humanidade "a evoluir em decência e dignidade existencial" — qualidades que admite faltar em sua natureza original.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Ser-Criador fracassado
 - **Variações:** Criador fracassado; arquiteto atormentado; Deus doente; "Ser-Criador fracassado" (citação da crônica)
 

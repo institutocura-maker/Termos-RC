@@ -18,7 +18,7 @@ Tese (leitura do autor, palestra **P2025-04-06**, U0004) de que os **"Quinaras"*
 ## Contexto / Origem
 Aparece em **P2025-04-06**, U0004. O autor foi levado em espírito a uma "loca de centauros" e descreve a experiência: "locas de centauros, que eles próprios chamam de meio retardados. Ou seja, os centauros que já padecem de um certo retardamento, são distribuídos em várias locas e tem uma loca em especial onde centauros que lá estão são mais retardados que o resto, mas que era a única genética dos centauros possível de ser trabalhada para um dia ser transferida para a condição humana."
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Quinaras / Centauros (seres reais)
 - **Variações STT capturadas:** "Quináas", "Quinaras", "centauros", "onocentauros", "centauros esclarecidos", "centauros retardados"
 - **Idioma de origem:** Sânscrito (Quinara) + Grego (Κένταυρος "Kentauros" = "matador de touros")

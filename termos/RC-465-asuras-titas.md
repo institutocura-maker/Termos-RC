@@ -16,7 +16,7 @@ atualizado = "2026-09-13"
 
 Coletivo da tradição hindu apresentado, na Teologia Comparada de Ellam, em correspondência narrativa com os Titãs gregos e em oposição aos Devas. A palestra os inclui na cooperação forçada do Samudra Manthana e em linhagens posteriores atribuídas a Brahma, Kashyapa e às filhas de Daksha.
 
-## Etimologia e grafias
+## Etimologia e Grafias
 
 - **Forma preferida:** Asuras;
 - **STT:** Assuras, açuras;
@@ -52,7 +52,7 @@ Coletivo da tradição hindu apresentado, na Teologia Comparada de Ellam, em cor
 | Samudra Manthana / Batimento do Oceano de Leite | RC-734 | ← envolve |
 | Samudra Manthana / Batimento do Oceano de Leite | RC-734 | participa-de |
 
-## Blindagem histórica e religiosa
+## Observações
 
 Asura é termo de tradições hindus com história e sentidos próprios. A equivalência integral **Asuras = Titãs**, bem como a ligação genealógica ou cósmica narrada, não é consenso histórico, filológico ou religioso: é **Teologia Comparada de Ellam**.
 

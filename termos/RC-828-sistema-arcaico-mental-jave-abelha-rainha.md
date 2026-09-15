@@ -18,7 +18,7 @@ Tese (leitura do autor, palestra **P2023-12-17**, U0003) de que o **sistema mais
 ## Contexto / Origem
 Aparece em **P2023-12-17**, U0003. Contexto: a palestra explica por que os elétrons estão colapsando colmeias e corais. "As calmeias [colmeias] trazem si o velho sistema comérico [cooperativo] mental que eu explorei no livro chamada Divina Céia, que é o sistema arcaico, mental. mais antigo porque surgiu com Javé e os clones. **Javé era abelha rainha, os clones, as abelhas operárias.** Mas aí surgiram essas formas de vida superiores a essa. Mas na hora em que a vida veio com seu código pro nosso universo, quem veio foi essa daqui, porque Javé queria que todo mundo aqui fosse abelhinha e ele mandasse." Os elétrons têm isso memorizado nos pósitrons e nos elétrons — e estão colapsando o sistema mais antigo.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Sistema Arcaico Mental (Javé Como Abelha Rainha)
 - **Variações STT capturadas:** "sistema arcaico", "sistema arcaico mental", "Javé abelha rainha", "clones abelhas operárias", "calmeias" (= colmeias?), "comérico" (= cooperativo?)
 - **Idioma de origem:** Português

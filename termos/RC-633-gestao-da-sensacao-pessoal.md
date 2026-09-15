@@ -18,7 +18,7 @@ Prática de dirigir respiração, atitude mental e química corporal para produz
 ## Contexto / Origem
 É apresentada como aplicação humana capaz de reduzir o descompasso da Simultaneidade Reversa.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - Grafia: Gestão da Sensação Pessoal.
 
 

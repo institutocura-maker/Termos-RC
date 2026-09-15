@@ -20,10 +20,9 @@ Vrites — conceito desenvolvido na palestra «O Reciclador das Informações Un
 **Fonte:** palestra «O Reciclador das Informações Universais a Limpeza da Criação» (18/11/2023).
 **Trecho verbatim:** «A vida que nele surgiu Surgiu para pegar informação do ambiente, processar no código que faz aquele corpo vivo funcionar daquele jeito, ou seja, no genoma daquele ser vivo. E esse ser vivo se movimenta, vive e em vivendo devolve informações pro meio ambiente.»
 
-## Relações
+## Termos Relacionados
 - RC-722 (Dignidade)
 - RC-901 (Domínios de Morfeu)
-## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
 | Dignidade como Critério de Consciência | RC-722 | associado |

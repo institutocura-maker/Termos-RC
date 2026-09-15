@@ -66,7 +66,7 @@ Filhos de Heber (RC-436), patriarcas pós-diluvianos da linhagem hebraica — **
 | Faces de Javé (sucessivas manifestações do Criador) | RC-561 | associado |
 | Melquizedec | RC-650 | associado |
 
-## Blindagem
+## Observações
 
 Maldição de Faleg e Abraão/Sara irmãos são **leitura do autor** (quarentena histórico-religiosa/Teologia Comparada).
 ## Citações-chave

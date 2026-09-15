@@ -18,7 +18,7 @@ Reconstrução progressiva dos restos fragmentados de Prabrajna/Javé por meio d
 ## Contexto / Origem
 A ficha absorve “cadáver triturado” e “bits quânticos”: informações do corpo manásico fragmentado na memória das partículas.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - Grafia: Ressurreição do Cadáver do Criador.
 
 

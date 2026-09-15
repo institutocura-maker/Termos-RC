@@ -18,7 +18,7 @@ Concepção de tempo como transformação, necessidade e entropia; a consciênci
 ## Contexto / Origem
 A fala distingue tempo astronômico de transformação e afirma atemporalidade dos níveis espirituais.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - Grafia: Tempo como Transformação / Permanente Agora.
 
 ## Ampliação

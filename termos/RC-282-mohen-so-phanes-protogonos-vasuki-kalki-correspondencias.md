@@ -18,7 +18,7 @@ Conjunto de correspondências mitológicas de Mohen So, Avatar Keshava de Vishnu
 ## Contexto / Origem
 P2026-04-02 confirma que a forma transcrita Morren So corresponde a Mohen So e não deve gerar termo autônomo.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - Mohen So — forma RC;
 - Phanes / Protogonos — formas órficas;
 - Vasuki / Kalki — correspondências hindus registradas anteriormente.

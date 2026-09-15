@@ -18,7 +18,7 @@ Autofagia do Criador — condição de Brahma recém-reconstruído alimentando-s
 ## Contexto / Origem
 P2026-02-28.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 Forma validada pelo curador.
 
 ## Fontes

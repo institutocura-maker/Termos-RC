@@ -18,7 +18,7 @@ Risco de extinção ou fracasso da experiência humana, explicitamente distingui
 ## Contexto / Origem
 A palestra o apresenta como possibilidade real ligada à corrupção de seres criativos, à guerra e à incapacidade humana de superar padrões anteriores.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - Grafia preferida: Fim do Experimento Humano.
 - **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
 

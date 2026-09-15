@@ -18,7 +18,7 @@ Tese (leitura do autor, palestra **P2018-05-20**, U0004) de que **o patriarcalis
 ## Contexto / Origem
 Aparece em **P2018-05-20**, U0004. Contexto: a palestra reconstrói a história do patriarcalismo como uma **continuidade desde Pandora**. O autor critica Javé por "usar expedientes" para privilegiar o masculino: "ele sempre optavam por privilegiar o lado masculino ferrando feminino, desde a coordenação dele para[it] que era uma feminina para toda a procreação deit. Então Javé ele usou desses expedientes o tempo inteiro." O resultado é a **humanidade atual, "totalmente mediocrizada"** pela dominação masculina desde o início.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Patriarcado desde Pandora (Origem no Feminino, Dominação pelo Masculino)
 - **Variações STT capturadas:** "patriarcalismo", "patriarcado", "ferrando feminino", "desfraudada", "mediocrizada"
 - **Idioma de origem:** Português

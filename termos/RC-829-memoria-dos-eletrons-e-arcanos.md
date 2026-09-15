@@ -18,7 +18,7 @@ Tese (leitura do autor, palestra **P2023-12-17**, U0003/U0004) de que os **elét
 ## Contexto / Origem
 Aparece em **P2023-12-17**, U0003 e U0004. Contexto: a palestra apresenta a **memória dos elétrons** como o **arquivo mais antigo da criação** — mais antigo que qualquer ser, mais antigo que Javé, mais antigo que Sophia. "Os elétrons eles estão trabalhando com as formas arcanas no âmbito do inconsciente dos elétrons." O autor cita **Charon** (físico nuclear francês) como o descobridor da memória dos elétrons nos anos 70. Cita também **Jung** ("inconsciente coletivo aprovado matematicamente") como paralelo acadêmico.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Memória dos Elétrons e Arcanos
 - **Variações STT capturadas:** "memória dos elétrons", "arcanos", "inconsciente dos elétrons", "memória dos antielétrons", "pósitrons"
 - **Idioma de origem:** Português (com termos acadêmicos: "inconsciente coletivo", "memória quântica")

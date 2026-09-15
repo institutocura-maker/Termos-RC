@@ -18,7 +18,7 @@ Período de inquietações de **Yel Luzbel (Lúcifer)** iniciado há **742 mil a
 ## Contexto / Origem
 É o grande evento de ruptura do corpus RC: explica a origem dos Exilados de Capela, o isolamento da Terra e a necessidade da Reintegração Cósmica. Conecta-se à doutrina cristã dos anjos decaídos e ao drama de Javé.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Rebelião de Lúcifer
 - **Variações:** Queda de Lúcifer; Rebelião dos Anjos (denominação tradicional)
 - **Obs.:** na narrativa RC, a rebelião é de biodemos (Yel Luzbel, da Família Yel), não de "anjos" no sentido tradicional

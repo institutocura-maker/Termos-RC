@@ -155,7 +155,7 @@ Na RC, figura correlacionada a **Satã** — ser de alto escalão no drama da cr
 | Alexandre Magno (tirano sob influência de Lemion) | RC-850 | associado |
 | Qin Shi Huang Di (imperador chinês sob influência de Lemion) | RC-851 | associado |
 
-## Blindagem
+## Observações
 
 Papel de Len Mion no relógio messiânico é **leitura do autor** (Teologia Comparada) — sem validação histórica.
 

@@ -18,7 +18,7 @@ Nível original da perfeição e da unidade, descrito como habitat dos Seres Ori
 ## Contexto / Origem
 B001 registra a Realidade Maior. P2021-12-04 a descreve como Paraíso Original ou nível paradisíaco: uma única família de seres, anterior à diferenciação em redes, gêneros e espécies. Movimentos de consciência desse nível teriam originado a incompletude operacional.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Realidade Maior / Paraíso Original.
 - **Variações:** nível paradisíaco; Paraíso; matriz original.
 - **Termo externo local:** Ilha Estacionária do Paraíso, de *O Livro de Urântia*, mantido apenas como remissão/glossário.

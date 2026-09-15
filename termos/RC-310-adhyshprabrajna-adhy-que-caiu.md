@@ -18,7 +18,7 @@ Nome mais completo do Criador antes da queda, encontrado em *Inquisição Trimur
 ## Contexto / Origem
 O nome Adhyshprabrajna (Adhy + Prabrajna) revela a linhagem completa: um ser do **gênero Adhy** (RC-011), em condição **Adhyatman** (RC-013), cujo nome pré-queda era **Prabrajna** (RC-152) — e que após a queda tornou-se Brahma/Javé/Alá em forma Adhydaiva. É a variante mais completa da cadeia Adhyshprabrajna → Prabrajna → Brahma/Javé. A Introdução do B022 também registra as formas **Adhyagya** (espíritos) que respondem por Vishnu e Shiva.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Adhyshprabrajna
 - **Variações:** Adhy-Prabrajna; Prabrajna (forma curta); identidade anterior de Brahma/Javé/Alá
 - **Origem:** sânscrito/composto RC (Adhy + Prabrajna)

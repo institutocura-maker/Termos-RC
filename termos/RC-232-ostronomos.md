@@ -18,7 +18,7 @@ Espécie extraterrestre (raça intermediária) que aparece na trilogia Terra Atl
 ## Contexto / Origem
 Os Ostronomos são uma das "espécies de fora" que monitoravam a Terra nos tempos da chegada dos exilados. O estudo coletivo do código genético de ambas as famílias (Ostronomos e Val) revelou "uma longa e precisa parte do DNA comum às duas espécies, apesar do facto de a nossa ser assexuada". A interação com os Ostronomos (3 anos) é narrada em B031 (via Val Geon, Val Pen, Val Ilon) e aprofundada em B017/B018.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Ostronomos
 - **Variações:** Família de Ostronomos; seres Sirianos (anfíbios inteligentes) — verificar equivalência exata
 

@@ -20,10 +20,9 @@ Umbrais — conceito desenvolvido na palestra «A Teia da Vida e o Circuito Ocul
 **Fonte:** palestra «A Teia da Vida e o Circuito Oculto dos Deuses» (13/01/2024).
 **Trecho verbatim:** «os famosos umbrais dos domínios espirituais, que isso aqui é uma exculhambação»
 
-## Relações
+## Termos Relacionados
 - RC-479
 - RC-899
-## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
 | Belial (arconte; 'Satã' do livro de Jó) | RC-479 | associado |

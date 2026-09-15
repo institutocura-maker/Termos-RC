@@ -18,7 +18,7 @@ Nome pelo qual se identifica o **Quarto Logos** — também chamado **Codificado
 ## Contexto / Origem
 Olm atua desde tempos antigos (a consciência que o personifica já atuou em outras épocas), mas o Quarto Logos **passa a operar a partir de 1989** (B031). Sua mensagem revela que, **há pouco mais de um milhão de anos**, ele convidou o espírito de Jan Val Ellam (então Val, biodemo) para uma **escola de "agentes esclarecidos da busca da verdade"** entre as famílias de Capela — interrompida pela Rebelião de Lúcifer. Sua única encarnação terrena foi **Apolônio de Tiana** (~2.000 anos atrás).
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Olm
 - **Variações:** Codificador de Zion; Codificador de Zian; Quarto Logos (RC-092); "Olm (ou Codificador de Zian)" (B031)
 

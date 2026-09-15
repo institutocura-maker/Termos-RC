@@ -18,7 +18,7 @@ Sophia é o **Cristo Cósmico** e o **Suserano Cósmico** deste universo: ser bi
 ## Contexto / Origem
 A vinda de Sophia ("Jesus em seu corpo glorioso") marca o fim do Isolamento Cósmico e o início da Reintegração Cósmica. O nome Sophia aparece no texto gnóstico *Pistis Sophia* (250–300 d.C.) e sua ausência na história da humanidade se deve ao sumiço dos Livros de Enoque.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Sophia
 - **Variações:** Cristo Cósmico; Suserano Cósmico; "Jesus em seu corpo glorioso"; Sofia; **Hochmah** (epíteto hebraico = Sabedoria, ver RC-565; grafia oral da palestra P2024-02-25 registrada como "Rockman/Rochman" por erro de STT, confirmada pelo curador como **Hochmah**); Sapienza (italiano)
 - **Idioma de origem:** Grego (σοφία = sabedoria)

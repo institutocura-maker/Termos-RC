@@ -18,7 +18,7 @@ Questão sobre preservação da individualidade das mônadas e seu destino após
 ## Contexto / Origem
 Extraído da live P2025-10-25 — 2ª Edição Estagiários do Kaos.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - Forma preferida: **Destino das Mônadas após o Tikun**.
 
 

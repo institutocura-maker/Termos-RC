@@ -50,7 +50,7 @@ Na cosmologia de Jan Val Ellam (P2024-03-02), Ganesha é a divindade hindu descr
 | Parvathi (consorte de Shiva, Tridevi) | RC-459 | relaciona-se-a |
 | Fatiamento de Consciência | RC-604 | relaciona-se-a |
 
-## Blindagem epistemológica
+## Observações
 
 A história de Ganesha, a loca de elefantes racionais e o livro de Ellam sobre o tema são **leitura do autor / mitologia hindu reinterpretada**, não fato histórico-científico. A distinção "exceção à metamorfose" pertence à cosmologia interna da RC. O verbete registra a interpretação de Ellam sem endossar a historicidade do mito.
 

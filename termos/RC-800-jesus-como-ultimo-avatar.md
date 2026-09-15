@@ -18,7 +18,7 @@ Tese (leitura do autor, palestra **P2018-02-24**, U0004/U0005) de que **Jesus (R
 ## Contexto / Origem
 Aparece em **P2018-02-24**, U0004 e U0005. Contexto: depois que as trevas espalharam o mal em todos os corações humanos (RC-798), Saibaba e Jesus foram os avatares que **não destruíram o mal centralizado** (porque ele já estava em todos), mas propuseram a **luta íntima**. Jesus "sabia" que Javé queria que ele matasse, usasse os poderes — mas ele se recusou.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Jesus como Último Avatar (Não Mata)
 - **Variações STT capturadas:** "último avatar", "Jesus resolveu não matar", "luta íntima do bem e do mal"
 - **Idioma de origem:** Português

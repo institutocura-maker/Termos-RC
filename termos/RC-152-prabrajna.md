@@ -18,7 +18,7 @@ atualizado = "2026-09-12"
 ## Contexto / Origem
 Prabrajna é central para o capítulo 3 (Gunas): sua energia Rajásica criou os quarks e, em vibração com "distúrbio", os elétrons. Ele "caiu" e ficou "refém" da sua energia Rajas, tornando-se Brahma/Javé na Criação "indevida". Os "agentes da vida" do nível da Espiritualidade Laboratorial (Perpérion) trabalhavam **para libertar Prabrajna, que havia "caído"** (cap. 15).
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Prabrajna
 - **Variações:** Prajapati (tradição védica); identidade anterior de Brahma/Javé; "Prabrajna" também grafado como "Prabrajná"
 - **Origem:** sânscrito (pra = antes; brajna ≈ consciência/sabedoria) — conferir etimologia exata

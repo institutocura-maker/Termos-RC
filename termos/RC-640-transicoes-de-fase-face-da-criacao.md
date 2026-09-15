@@ -18,7 +18,7 @@ Fases/faces sucessivas pelas quais os restos do Criador assumem formas microbian
 ## Contexto / Origem
 A fala anuncia palestra futura específica sobre as transferências de fase.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - Grafia: Transições de Fase / Face da Criação.
 
 

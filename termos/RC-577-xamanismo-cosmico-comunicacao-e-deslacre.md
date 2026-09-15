@@ -18,7 +18,7 @@ No uso da palestra, protocolo antigo de comunicação entre o universo antimater
 ## Contexto / Origem
 É situado nos últimos 52 mil anos e relacionado, na fala, à manipulação de raízes e ao surgimento do gene FOXP2.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - Grafia preferida: Xamanismo Cósmico. STT: chamanismo, ch humanismo.
 - **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
 

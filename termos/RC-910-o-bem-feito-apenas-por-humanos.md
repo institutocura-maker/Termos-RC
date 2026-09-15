@@ -20,10 +20,9 @@ O Bem Feito Apenas por Humanos — conceito desenvolvido na palestra «Delírio 
 **Fonte:** palestra «Delírio Humano a Insensatez Espiritual da Busca Religiosa» (15/10/2023).
 **Trecho verbatim:** «O bem que existe é o bem que o ser humano ou um cavalo ou um cachorro ou um mamífero fez. Fora isso, não há nenhum bem registrado na história humana que tenha sido feito por qualquer outro tipo de intervenção na vida humana.»
 
-## Relações
+## Termos Relacionados
 - RC-722 (Dignidade)
 - RC-749 (Vício Devocional)
-## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
 | Dignidade como Critério de Consciência | RC-722 | associado |

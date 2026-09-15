@@ -18,7 +18,7 @@ A Biblioteca Genômica Humana é o conceito que descreve o DNA humano como um la
 ## Contexto / Origem
 Conceito central da palestra «A Quem Pertence o Planeta e a Biblioteca Genômica Mais Atualizada do Universo» (P2024-03-17). Ellam descreve como civilizações de outros universos enxergam a humanidade não como indivíduos, mas como códigos genéticos — um laboratório vivo de experimentação. A pirataria cósmica ocorre quando essas civilizações tentam acessar e manipular o DNA humano para seus próprios fins.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Biblioteca Genômica Humana
 - **Variações:** laboratório genômico; laboratório cósmico; pirataria genômica
 - **Idioma de origem:** Português
@@ -32,13 +32,12 @@ Conceito central da palestra «A Quem Pertence o Planeta e a Biblioteca Genômic
 
 **Trecho verbatim 2:** «Compreendam que a única coisa viva que existe Desde a queda do eu do criador até hoje, é o código dele espalhado nesses dois universos, existindo sob diversas faces. E quando a inteligência ela passa por isso que a gente chama de falência existencial, a única alternativa que ela tem é tomar o código da ela falido, criar outras inteligências e dotar essas outras inteligências do código dela falido para que essas inteligências vivam e em experienciando alguma evolução, resolvem para o ser que não pode por ele mesmo promover modificações no seu código, promovem essas modificações.»
 
-## Relações
+## Termos Relacionados
 - RC-001 (Javé) — o criador cujo código falido foi espalhado
 - RC-217 (DNA como Projeção Holográfica) — cada célula contém o todo
 - RC-070 (Isolamento Cósmico) — a pirataria genômica como invasão
 - RC-722 (Dignidade) — a pulsação da dignidade protege o código genético
 
-## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
 | Javé | RC-001 | associado |

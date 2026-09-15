@@ -18,7 +18,7 @@ Tese (leitura do autor, palestra **P2019-05-11 — Pandora e os Desacertos dos P
 ## Contexto / Origem
 Aparece em **P2019-05-11**, U0004. Contexto: depois de bilhões de anos de conflito, os três seres (Brama/Javé com os anjos glores, Shiva com sua descendência, Vishnu com a sua descendência) **nunca conseguiram prevalecer uns sobre os outros**, então fizeram pactos — o único tipo de "lógica" possível para o modo demo. A humanidade é o resultado desastroso desses pactos.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Pactos de Javé (Brama / Vishnu / Shiva)
 - **Variações STT capturadas:** "pacto entre Javé, Vishnu e Shiva", "aliança entre os três", "pactos desastrosos"
 - **Idioma de origem:** Português + sânscrito (Trimurti: Brama, Vishnu, Shiva)

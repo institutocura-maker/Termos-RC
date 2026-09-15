@@ -18,7 +18,7 @@ Metáfora conceitual para as escalas temporais pelas quais seres não humanos ob
 ## Contexto / Origem
 A palestra identifica duas janelas principais: a escala equinocial e a zodiacal. Elas serviriam à leitura de pactos, regências e conflitos de longa duração.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - Grafia preferida: Janelas Cósmicas. Complemento desambiguador: métricas temporais.
 - **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
 

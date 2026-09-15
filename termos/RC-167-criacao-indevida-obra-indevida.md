@@ -18,7 +18,7 @@ Expressão recorrente nas RC para designar o **universo gerado pelo erro do Cria
 ## Contexto / Origem
 A Criação "indevida" é o **tema central da Revelação Cósmica**: "houve um erro no momento da criação e o Criador teria 'caído' dentro da mesma, gerando dois universos paralelos" (B031). Em B024, a expressão aparece em quase todos os capítulos, associada à epopeia dos agentes da vida, ao Xadrez Cósmico, à Lila e ao drama da Trimurti.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Criação Indevida
 - **Variações:** Obra indevida; Criação "problemática"; Criação "imperfeita"; Criação "inusitada" (título do cap. 2 de B024)
 

@@ -18,7 +18,7 @@ Processo pelo qual anjos clones desenvolvem senso de identidade e iniciativa ap�
 ## Contexto / Origem
 Extraído da live P2025-10-25 — 2ª Edição Estagiários do Kaos.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - Forma preferida: **Individualização Epifenomenológica dos Anjos Clones**.
 
 

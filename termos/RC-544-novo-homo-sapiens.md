@@ -18,7 +18,7 @@ Tese (leitura do autor, B019 cap. 12 + P2025-02-16/P2025-02-15) de que a humanid
 ## Contexto / Origem
 Formulação canônica em B019 — Nem Deus, nem Javé, nem Darwin (Conectar, 2021), cap. 12 "A Evolução que Terá de Vir: o Novo Homo sapiens" (pp. 135–141): do lobo que virou cão (Canis lupus → 2 mil raças) à subespécie lunar, marciana e das naves ("possivelmente, não terão pernas, mas quatro braços"). Desdobrada em P2025-02-16 (o novo ser humano como condição do Oitavo Dia) e P2025-02-15 (a "raça humana turbinada" contra o domínio dos computadores).
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Novo Homo sapiens (evolução que terá de vir)
 - **Variações capturadas:** "novo tipo de ser humano", "novo ser humano", "raça humana turbinada", "nova humanidade"
 - **Idioma de origem:** Português + latim científico

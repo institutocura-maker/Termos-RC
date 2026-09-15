@@ -18,7 +18,7 @@ Estruturas coletivas de informação e consciência que organizam famílias, gê
 ## Contexto / Origem
 Em B044, a mente coletiva aparecia sobretudo como instrumento do Modelo Colmeia. P2021-12-04 amplia o conceito: nos níveis Operacional e Laboratorial, grupos de seres funcionam em redes fechadas, com a consciência coletiva prevalecendo sobre a individualidade.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Mente Coletiva / Redes Psíquicas Coletivas.
 - **Variações:** redes operativas; rede mental coletiva; circuitos fechados de informação.
 

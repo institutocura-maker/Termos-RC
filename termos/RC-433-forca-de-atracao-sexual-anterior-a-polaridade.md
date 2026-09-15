@@ -18,7 +18,7 @@ A revelação central de *Homoafetividade: O Segredo Perdido do Éden* (B052): *
 ## Contexto / Origem
 A tese: a desconfiança (doença do DNA do Criador) impedia a união dos seres; a força de atração sexual surgiu como **mecanismo de coesão** — "o gosto ou preferência pelos indivíduos do mesmo sexo surgiu nesse ponto da evolução", antes de a questão "macho e fêmea" se estabelecer. Quando as polaridades foram edificadas, "já existia a força daquela atração marcada em muitos seres e, para eles, pouco ou nada importava se o corpo que agora possuíam era de macho ou de fêmea". A **homoafetividade** (RC-434) é o resquício dessa força original.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Força de Atração Sexual (anterior à polaridade)
 - **Variações:** força de atração; força sexual original; a força que antecede macho/fêmea
 

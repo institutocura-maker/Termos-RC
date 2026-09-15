@@ -20,10 +20,9 @@ Tions — conceito desenvolvido na palestra «A Teia da Vida e o Circuito Oculto
 **Fonte:** palestra «A Teia da Vida e o Circuito Oculto dos Deuses» (13/01/2024).
 **Trecho verbatim:** «Tions, que são partículas que se movimentam numa perspectiva superluminal, ou seja, acima da velocidade da luz»
 
-## Relações
+## Termos Relacionados
 - RC-559
 - RC-628
-## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
 | Teia quântica (o que sai de um ser volta para ele) | RC-559 | associado |

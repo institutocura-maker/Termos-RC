@@ -18,7 +18,7 @@ Campo de estudo dos Seres LM dedicado ao imprevisível, ao ainda não realizado 
 ## Contexto / Origem
 A estratégia de Tempérion teria transformado o setor em lugar de observação dos três grandes âmbitos espirituais e de criações derivadas.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - Grafia preferida: Imponderabilidade. Complemento: campo de estudo dos Seres LM.
 - **Fonte de decisão:** Quadro 9 aprovado pelo curador.
 

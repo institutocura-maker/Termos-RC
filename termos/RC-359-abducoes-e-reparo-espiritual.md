@@ -18,7 +18,7 @@ A interpretação das **abduções** (1960–1990) no contexto das RC — o cap�
 ## Contexto / Origem
 Ellam pesquisou casos de abdução no interior do Nordeste (Paraíba, Rio Grande do Norte e Ceará) no final dos anos 70, junto ao pesquisador norte-americano **Bob Pratt** (autor de "UFO Danger Zone"). O capítulo reflete sobre o "possível 'porquê' daquela estranha série de ocorrências" e a função de reparo espiritual por trás dos aparentes abusos.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Abduções e Reparo Espiritual
 - **Variações:** abduções; sequestros extraterrestres; reparo espiritual
 

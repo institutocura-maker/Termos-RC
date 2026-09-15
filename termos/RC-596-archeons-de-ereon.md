@@ -18,7 +18,7 @@ Conjunto dos cinco níveis/subníveis da Espiritualidade Laboratorial reunidos n
 ## Contexto / Origem
 A palestra os descreve como padrões dimensionais com grupos de seres e estilos criadores próprios.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - Grafia preferida: Archeons de Ereon. STT: arquelos, arquieron, arcãos, arcos.
 - **Fonte de decisão:** Quadro 9 aprovado pelo curador.
 

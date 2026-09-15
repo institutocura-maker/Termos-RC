@@ -18,7 +18,7 @@ atualizado = "2026-08-29"
 ## Contexto / Origem
 A Revelação Cósmica é o **macroconceito** que engloba todos os demais termos da base. Foi codificada por Jan Val Ellam por meio de incontáveis palestras, conversas e livros (IEEA). A obra B031 (guia de Raquyel Braga) é um dos primeiros trabalhos de outros autores sobre a RC.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Revelação Cósmica
 - **Variações:** Revelações Cósmicas; RC (sigla usada neste projeto)
 

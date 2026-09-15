@@ -18,7 +18,7 @@ Avisos atribuídos a Moros, destinados a serem revividos quando a revelação ps
 ## Contexto / Origem
 A palestra os apresenta como face emblemática da estratégia dos Seres LM/Quarto Logos.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - Grafia preferida: Flechas de Moros. Variação: Profecias de Moros.
 - **Fonte de decisão:** Quadro 9 aprovado pelo curador.
 

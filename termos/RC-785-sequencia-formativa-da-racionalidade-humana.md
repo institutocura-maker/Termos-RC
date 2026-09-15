@@ -24,7 +24,7 @@ Aparece em **P2023-11-11**, U0002 (Prometeu/Epimeteu), U0003 (Pandora/metamorfos
 - **RC-189** (Eva) — a submissa-com-potencial
 - **RC-579** (Noreia) — a continuadora
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Sequência Formativa da Racionalidade Humana
 - **Variações STT capturadas:** "Pandora, Lilif, Irra, Eva, Noreia", "cadeia de mulheres que produziram a racionalidade"
 - **Idioma de origem:** Português

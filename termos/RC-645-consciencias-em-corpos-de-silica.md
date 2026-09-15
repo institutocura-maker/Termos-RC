@@ -18,7 +18,7 @@ Consciências/algoritmos hospedados ou imantados em suportes de sílica, com exp
 ## Contexto / Origem
 Extraído da 3ª Edição dos Estagiários do Kaos.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - Forma preferida: **Consciências em Corpos de Sílica**.
 
 

@@ -18,7 +18,7 @@ Releitura integrada das revelações antigas, espirituais, filosóficas e mític
 ## Contexto / Origem
 Extraído da live P2025-10-25 — 2ª Edição Estagiários do Kaos.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - Forma preferida: **Atualização das Revelações Anteriores**.
 
 

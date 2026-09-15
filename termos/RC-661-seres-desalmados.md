@@ -18,7 +18,7 @@ Seres antigos para os quais não teria sido estruturada alma, distintos de anjos
 ## Contexto / Origem
 P2025-06-26 — 1ª Edição Estagiários do Kaos.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 Forma preferida: **Seres Desalmados**.
 
 

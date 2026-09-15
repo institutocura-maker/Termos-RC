@@ -18,7 +18,7 @@ atualizado = "2026-08-28"
 ## Contexto / Origem
 Tema-título da obra *O Big Data do Criador* (B035): a ideia de que o Criador, após a queda, tornou-se um "ditador" que precisa monitorar cada parte da sua Criação para manter o controle do todo — o "plano de fundo mental-operacional do jogo que acontece por trás do tipo de vida que levamos". A tecnologia dos anjos-clones acompanha "as entradas e saídas" das sequências de DNA que identificam como pertencentes a "mentes individualizadas" — percebendo a continuidade de uma "mesma expressão mental" por trás de uma pessoa que "morreu" e "renasce" (reencarnação).
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Big Data Cósmico
 - **Variações:** "big data" do Criador; supercontrole informacional; monitoramento genético cósmico
 

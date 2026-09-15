@@ -61,6 +61,11 @@ Na cosmologia de Ellam, os humanos que se habilitam — via conhecimento, limpez
 | Humanos: Últimos e Primeiros | RC-654 | associado |
 | Cessão Consciente do DNA Humano | RC-698 | ← relaciona-se-a |
 
+
+- Tikun Cósmico — RC-514;
+- Dignidade como Critério de Consciência — RC-722;
+- Gestão da Sensação Pessoal — RC-633.
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
@@ -74,13 +79,7 @@ Na cosmologia de Ellam, os humanos que se habilitam — via conhecimento, limpez
 ## Citação-chave
 > "Nós temos 18.000 anos para fazer isso. Se sobrevivermos enquanto experiência biológica."
 
-## Relações centrais
-
-- Tikun Cósmico — RC-514;
-- Dignidade como Critério de Consciência — RC-722;
-- Gestão da Sensação Pessoal — RC-633.
-
-## Observação
+## Observações
 
 "18.000 anos" (Colecionar Incertezas — reforça P2024-08-03); a metáfora da luz emprestada como leitura do autor.
 

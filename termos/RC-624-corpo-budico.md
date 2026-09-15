@@ -18,7 +18,7 @@ Primeira vestimenta espiritual dos desdobramentos paradisíacos, permitindo ao e
 ## Contexto / Origem
 É intermediário entre o Corpo Átmico e o Corpo Manásico. Ainda não produziria ímpeto criativo por si mesmo.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - Grafia preferida: Corpo Búdico.
 - **Fonte da decisão:** Devolutiva-01 + observação direta do curador.
 

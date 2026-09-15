@@ -18,7 +18,7 @@ Também chamados de "demônios" ou "daemon" (cultura grega), são **seres extraf
 ## Contexto / Origem
 Os Demos habitam o universo antimaterial (Brahmaloka) e são a matéria-prima das mitologias humanas (deuses gregos, nórdicos etc.). A "cultura demo" é a cultura dessas moradas do universo paralelo. A classe demo é fundamental para entender a categoria "Seres dos Portais" e os deuses mitológicos.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Demos
 - **Variações:** demônios; daemon; "seres demos"; deuses mitológicos
 - **Idioma de origem:** grego daimon → latim daemon; no RC, "demo" = "demente"

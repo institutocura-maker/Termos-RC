@@ -59,7 +59,7 @@ A palestra descreve Marte como o nono mundo material conectado a oito locas do u
 | Yggdrasil / Conglomerado dos Nove Mundos | RC-730 | integra |
 | Axis Mundi / Axismund | RC-731 | ← ancora |
 
-## Blindagem científica e comparativa
+## Observações
 
 A identificação de Midgard com Marte/Terra e a transferência de um eixo cósmico são **Teologia Comparada de Ellam**, não astronomia, arqueologia ou interpretação consensual da mitologia nórdica. Alegações de guerra nuclear marciana ou destruição artificial de Marte não são tratadas como fatos demonstrados.
 

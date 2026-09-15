@@ -20,10 +20,9 @@ Espírito como Ator — conceito desenvolvido na palestra «O Reciclador das Inf
 **Fonte:** palestra «O Reciclador das Informações Universais a Limpeza da Criação» (18/11/2023).
 **Trecho verbatim:** «Na medida em que um ator faz várias novelas e vai aprendendo com os personagens, o nosso espírito faz várias vidas e vai aprendendo também com seus personagens. Mas ele é alguém distinto do personagem.»
 
-## Relações
+## Termos Relacionados
 - RC-722 (Dignidade)
 - RC-901 (Domínios de Morfeu)
-## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
 | Dignidade como Critério de Consciência | RC-722 | associado |

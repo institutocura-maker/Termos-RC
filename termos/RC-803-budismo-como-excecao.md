@@ -18,7 +18,7 @@ Tese (leitura do autor, palestra **P2018-02-24**, U0005) de que **o budismo (Gau
 ## Contexto / Origem
 Aparece em **P2018-02-24**, U0005. Contexto: depois de listar as religiões como instrumentos de dominação, o autor faz a única exceção: o budismo. "Só sobrou budismo que foi transformado devagarinho também em religião, quando jamais falou de Deus."
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Budismo como Exceção (Sem Deus)
 - **Variações STT capturadas:** "budismo", "Buda", "Gautama", "Grande Galan" (= Buda Gautama)
 - **Idioma de origem:** Sânscrito/Pali (बुद्ध "Buddha" = "o desperto") + Português

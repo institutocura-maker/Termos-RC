@@ -53,7 +53,7 @@ Formulação central de Jan Val Ellam (tema-título da palestra de 03/03/2024) s
 | Genótipo da Gentileza (GG) | RC-748 | relaciona-se-a |
 | Vício Devocional | RC-749 | ← relaciona-se-a |
 
-## Blindagem epistemológica
+## Observações
 
 "Dessensibilização" aqui é **uso próprio de Ellam** em sentido cósmico/ético, distinto do uso clínico (imunoterapia hipossensibilizante) e psicológico (terapia de fobias) que o próprio autor menciona. O verbete não afirma como fato científico as alegações genéticas (genes desligados), clínicas (transtornos) ou paleogenéticas. Causa e origem (Criador caído, vetores demo/biodemo) pertencem à cosmologia de Ellam, não a consenso histórico-científico.
 

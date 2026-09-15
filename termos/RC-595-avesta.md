@@ -18,7 +18,7 @@ Texto sagrado zoroástrico citado na palestra como fonte da narrativa de Yima e 
 ## Contexto / Origem
 Aparece no diálogo com as eras culturais de Rudolf Steiner e com a cronologia de cataclismos do final da era glacial.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - Grafia preferida: Avesta. STT: AESTA, a vesta.
 - **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
 

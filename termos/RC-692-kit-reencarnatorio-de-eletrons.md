@@ -27,7 +27,7 @@ O termo cria uma ponte entre:
 - assinatura da alma;
 - recusa dos elétrons a repetir configurações intensamente predatórias.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 Forma preferida: **Kit Reencarnatório de Elétrons**.
 
 A fala usa “o mesmo kit de elétrons”. “Reencarnatório” explicita editorialmente a função descrita sem alterar o conteúdo.

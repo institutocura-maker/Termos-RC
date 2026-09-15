@@ -18,7 +18,7 @@ Estirpe de seres apresentada como criada por agentes do universo antimaterial e 
 ## Contexto / Origem
 A palestra relaciona os Rakshasas aos sacrifícios, ao sangue de mamíferos e ao surgimento de Ravana como ser de grande poder.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - Grafia preferida: Rakshasas. Singular: Rakshasa. STT: racchaças, rakchaças, raquchaças.
 - **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
 

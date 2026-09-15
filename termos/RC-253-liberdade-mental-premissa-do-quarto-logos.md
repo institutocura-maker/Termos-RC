@@ -18,7 +18,7 @@ A **premissa fundamental do Quarto Logos** — em ruptura com a premissa dos tr�
 ## Contexto / Origem
 A 38ª Constatação de B016 contrasta as duas premissas: os três primeiros Logos "trabalharam a partir da premissa básica e comum da dominação"; o Quarto Logos estabelece outra: "fora da 'liberdade mental' não parece existir 'salvação', assim dito no que se refere ao aspecto caótico e aprisionador desta Obra indevida". O conceito conecta-se à Genética da Confiança (RC-243), ao deslacre (RC-184) e à Razão Filosófica dos Terráqueos (RC-231): a liberdade mental é o que os humanos precisam exercer — "a crença em que 'Deus cuida de nós' solapa qualquer possibilidade de crivo lógico da parte da razão humana".
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Liberdade Mental
 - **Variações:** liberdade de pensamento; crivo lógico da razão; livre-arbítrio (aproximação)
 

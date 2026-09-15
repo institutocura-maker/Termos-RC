@@ -24,7 +24,7 @@ Daksha é apresentado como ser gerado a partir do corpo regenerado de Brahma. Vi
 
 As duas contagens são preservadas, não harmonizadas.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 Formas preferidas: **Daksha** e **Virini**.
 
 Formas STT: `Daxha`, `Daxa`, `Dakar`, `Virine`.

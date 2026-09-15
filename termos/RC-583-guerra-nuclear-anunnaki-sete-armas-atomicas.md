@@ -18,7 +18,7 @@ Conflito entre clãs Anunnakis com uso de sete armas atômicas atribuídas a Nib
 ## Contexto / Origem
 A guerra envolve Enki, Enlil, Marduk, Anu e Ninurta e teria provocado o enfraquecimento do domínio Anunnaki na Terra.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - Grafia preferida: Guerra Nuclear Anunnaki. Complemento: Sete Armas Atômicas.
 - **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
 

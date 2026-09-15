@@ -18,7 +18,7 @@ atualizado = "2026-08-18"
 ## Contexto / Origem
 No verbete de B060, Hermes Trismegisto é listado como um personagem com múltiplas "imantações/encarnações" nas mitologias — padrão típico do corpus RC, em que deuses e heróis antigos são manifestações (avatares) de seres da Espiritualidade Laboratorial (Pashvnaj/LM, eons). Ningishzidda (filho de Enki) e Thoth como escriba dos deuses conectam-se ao Quarto Logos / Codificador de Zian (RC-092/RC-252) — hermetismo, alquimia e tradição esotérica como veículos desse conhecimento.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Hermes Trismegisto
 - **Variações:** Hermes Trismegistus (Latim); Mercúrio Trismegisto
 - **Equivalências (B060):** Ningishzidda (Anunnaki, filho de Enki); Tehuti ou Thoth (Egípcia); Quetzalcóatl (Asteca); Viracocha (Inca)

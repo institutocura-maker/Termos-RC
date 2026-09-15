@@ -18,7 +18,7 @@ Fórmula ou frequência mestre capaz, segundo a live, de atuar sobre genomas bio
 ## Contexto / Origem
 Extraído da 3ª Edição dos Estagiários do Kaos.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - Forma preferida: **Santo Graal (Frequência Mestre)**.
 
 

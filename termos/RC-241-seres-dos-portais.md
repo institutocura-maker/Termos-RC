@@ -18,7 +18,7 @@ Classe de **demos extrafísicos do universo antimaterial** que, nas RC, correspo
 ## Contexto / Origem
 Os Seres dos Portais viviam nas moradas do universo paralelo (lokas/genos) e transitavam para a Terra enquanto os portais entre os dois universos estavam abertos. Algumas consciências de biodemos migraram para essa família de demos (ex.: Val Anen → Despina; Val Dimon → Pandora; Val Bon → Astréia — RC-112, RC-118, RC-116). O B018 (cap. 11) narra o "Império dos Descendentes dos Seres dos Portais" — a linhagem de Poseidon que reconstruiu bases do Império Atlante (Portlan e Portlon, RC-088).
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Seres dos Portais
 - **Variações:** "deuses da mitologia grega"; demos mitológicos; gênios (mitologia árabe)
 

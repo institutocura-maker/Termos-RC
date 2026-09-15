@@ -18,7 +18,7 @@ Impérial é uma leitura histórica defeituosa de STT preservada apenas para ras
 ## Contexto / Origem
 A entrada nasceu da mineração de B061. A enumeração direta da palestra sustenta cinco Archeons — Antérion, Danérion, Mermérion, Perpérion e Tempérion — e não um sexto chamado Impérial.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - Forma deprecada: Impérial. Forma correta/remissão: Perpérion — RC-087.
 - **Fonte de decisão:** curadoria estrutural C-01 a C-07, 2026-08-14.
 

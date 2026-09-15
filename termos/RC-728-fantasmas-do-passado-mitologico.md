@@ -49,7 +49,7 @@ Formulação central de Jan Val Ellam segundo a qual heranças não resolvidas d
 | Samudra Manthana / Batimento do Oceano de Leite | RC-734 | estrutura-se-por |
 | Abraço aos Fantasmas / Integridade sem Combate | RC-735 | estrutura-se-por |
 
-## Blindagem epistemológica
+## Observações
 
 “Fantasmas” é metáfora interna da cosmologia e da ética de Ellam. O verbete não afirma como fato histórico, biológico ou clínico as genealogias, intervenções genéticas, portais, entidades ou causalidades narradas. Correspondências interculturais são **Teologia Comparada de Ellam**.
 

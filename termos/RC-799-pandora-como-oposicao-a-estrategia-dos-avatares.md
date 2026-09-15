@@ -18,7 +18,7 @@ Tese (leitura do autor, palestra **P2018-02-24**, U0002/U0005) de que **Pandora 
 ## Contexto / Origem
 Aparece em **P2018-02-24**, U0002 e U0005. Contexto: Pandora é apresentada como contraponto à estratégia dos avatares — ela **corta os vínculos** que fazem dos humanos "animais domésticos" dos deuses, enquanto os avatares **tentam recriar/criar** esses vínculos (especialmente Jesus, com Javé).
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Pandora como Oposição à Estratégia dos Avatares
 - **Variações STT capturadas:** "Pandora bate duro", "Pandora se opõe", "Pandora corta os vínculos"
 - **Idioma de origem:** Português

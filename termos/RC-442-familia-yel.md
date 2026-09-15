@@ -18,7 +18,7 @@ Estirpe capelina da qual **Yel Luzbel (Lúcifer)** é integrante — a mais menc
 ## Contexto / Origem
 Nos livros de Jeane Miranda, as famílias capelinas são **Biocoletivos** (coletivos de biodemos) criados por Sophia para administrar a Obra do Criador. A Família Yel é descrita como "uma das espécies do género capelino", com seres que nascem individualizados mas permanecem ligados pelo Processador familiar. É da inquietação de Yel Luzbel, seu Primeiro Pesquisador, que nasce o processo da Revolta Capelina.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Família Yel
 - **Variações:** "família Yel"; estirpe Yel; "famílias capelinas" (conjunto)
 - **Obs.:** não confundir com a **Família Val** (RC-109) nem com a **Família Mion** (RC-443), outras estirpes de Capela

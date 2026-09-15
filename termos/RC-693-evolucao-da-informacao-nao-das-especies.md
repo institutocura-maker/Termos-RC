@@ -26,7 +26,7 @@ Tese conclusiva de `P2025-03-15`. A palestra distingue:
 
 O princípio organiza a relação entre Memória Quântica dos Elétrons, Nidana, DNA, Projeto Talm, transumanismo, Colapso do Caos Organizado e reconstrução de Ishvara.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 Forma preferida: **Evolução da Informação, não das Espécies**.
 
 A vírgula preserva a oposição formulada na fala: “não são as espécies que evoluem, mas sim a informação”.

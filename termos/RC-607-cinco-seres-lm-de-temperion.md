@@ -18,7 +18,7 @@ Grupo de cinco seres do gênero LM, originário de Tempérion e enviado a Perpé
 ## Contexto / Origem
 Dois integrantes são recuperáveis como Elm e Olm; os outros três não são nomeados.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - Grafia preferida: Cinco Seres LM de Tempérion. STT: seres LN.
 - **Fonte de decisão:** Quadro 9 aprovado pelo curador.
 

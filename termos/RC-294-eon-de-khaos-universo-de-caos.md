@@ -18,7 +18,7 @@ O **"Universo de Caos"** — o conjunto dos genos (moradas) do universo antimate
 ## Contexto / Origem
 O "Eon de Khaos" é o nome grego para o universo antimaterial (Brahmaloka) visto pelos olimpianos: o conjunto de moradas (genos/eons) onde vivem os demos e deuses. Cada demo edificou seu geno usando a "energia mental" de Caos (a força Rajas de Brahma) — mas não construíram os "pilares" (bases), o que leva à decadência do universo demo descrita em B021 (a "casa caindo sobre suas cabeças").
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Eon de Khaos
 - **Variações:** Universo de Caos; Eon de Khaos (grafia grega); genos/eons (moradas)
 - **Idioma de origem:** grego (αιών = era/mundo; khaos = caos)

@@ -18,7 +18,7 @@ Tempérion é um dos cinco Archeons de Ereon e o setor da Espiritualidade Labora
 ## Contexto / Origem
 Na palestra, Tempérion contrasta com Perpérion: os LM desenvolveram estratégia de observação e imponderabilidade, enquanto Perpérion concentrou as experiências Adhy ligadas à Criação Indevida.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - Grafia preferida: Tempérion. Variações históricas/STT: Tempérium, Tempério. Não é variação de Perpérion.
 - **Fonte de decisão:** curadoria estrutural C-01 a C-07, 2026-08-14.
 

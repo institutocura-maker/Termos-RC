@@ -18,7 +18,7 @@ Tese (leitura do autor, palestra **P2023-11-11 — De Pandora a Eva e a Rebeliã
 ## Contexto / Origem
 Aparece em **P2023-11-11**, U0004 e U0005 (Q&A). Contexto: o autor foi perguntado sobre Noreia e Lilith, e **se recusou a aprofundar**, explicando que há "loops mentais" que essas figuras criaram, e que "quando alguém faz uma palestra sobre isso, é uma confusão que rola entre eles". A analogia é o filme/livro **"Coração de Tinta" (Inkheart)** — onde ler um livro faz os personagens ganharem vida.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Egrégora de Lilith / Noreia (Loop Mental Vivo)
 - **Variações STT capturadas:** "loops mentais", "cópias de consciências", "egrégora viva", "loop mental vivo"
 - **Idioma de origem:** Português + grego antigo (egrégora = "vigília", "insônia" → termo técnico-esotérico moderno)

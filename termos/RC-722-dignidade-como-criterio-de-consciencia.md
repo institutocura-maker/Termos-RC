@@ -112,6 +112,14 @@ Critério ético proposto na palestra para avaliar crenças, poderes e ações: 
 | Espírito como Ator | RC-925 | associado |
 | Lixo de Informações Apodrecidas | RC-926 | associado |
 
+
+- Decência Cósmica — RC-508;
+- Imperativo Categórico — RC-328;
+- Ato de Verdade — RC-705;
+- Protagonismo Consciencial — RC-509;
+- Abismo da Consciência Cósmica — RC-721;
+- Ponto de Luz Humano — RC-725.
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
@@ -137,16 +145,7 @@ Critério ético proposto na palestra para avaliar crenças, poderes e ações: 
 
 **Trecho verbatim:** «Eis o problema, essa indignidade transformou-se em religião. Que indignidade considerar o ser humano um pecador, um filho do demônio. E a gente aceita isso, pessoal. Nós nos submetemos a toda hora às religiões e a base jurídica para que tal coisa se dê jurídica, teológica, é essa crença.»
 
-## Relações centrais
-
-- Decência Cósmica — RC-508;
-- Imperativo Categórico — RC-328;
-- Ato de Verdade — RC-705;
-- Protagonismo Consciencial — RC-509;
-- Abismo da Consciência Cósmica — RC-721;
-- Ponto de Luz Humano — RC-725.
-
-## Observação
+## Observações
 É um princípio ético da obra/palestra, não uma escala clínica ou científica de consciência.
 
 ---

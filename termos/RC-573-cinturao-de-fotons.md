@@ -18,7 +18,7 @@ Campo de fótons atribuído, na palestra, ao sistema de Alcíone e atravessado p
 ## Contexto / Origem
 É relacionado a 2012, à entrada na Era de Aquário e a possíveis efeitos vibratórios e bioquímicos na Terra e nos seres humanos.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - Grafia preferida: Cinturão de Fótons. STT: cinturão de fotos; cinturão dos sótos.
 - **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
 

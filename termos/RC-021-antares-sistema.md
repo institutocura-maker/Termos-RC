@@ -18,7 +18,7 @@ atualizado = "2026-08-25"
 ## Contexto / Origem
 No Livro 2 (B058), após a declaração da Revolta Capelina, Len Mion revela o plano: "O plano consiste em **irmos primeiro a Antares** e, de lá, visitarmos os outros planetas que também já o estão a aguardar" (p. 34). No capítulo 9, Yel Luzbel palestra em "um mundo do sistema de Antares" diante de milhões de biodemos — onde confirma o fenômeno da "massa energética". A nota de rodapé da p. 37 (ed. 2022, do adaptador — fonte Wikipédia) identifica a estrela: "supergigante vermelha na constelação de Scorpius. É a 162ª estrela mais brilhante do céu noturno."
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Antares (Sistema)
 - **Variações:** "Antares"; constelação de Scorpius/Escorpião (nota)
 - **Obs.:** a nota astronômica vem da ed. 2022 (adaptador) — **quarentena institucional** (fonte externa, não voz da obra)

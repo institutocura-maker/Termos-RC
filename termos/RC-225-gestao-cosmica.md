@@ -18,7 +18,7 @@ A **administração do universo** exercida pelos "três personagens" (a Trimurti
 ## Contexto / Origem
 A Gestão Cósmica é o pano de fundo "político" do drama: as mitologias de todos os povos (ariana/hindu, suméria/acadiana, egípcia, grega...) referem-se "aos problemas cósmicos das divindades em torno de disputas e incompreensões sobre a questão universal" — ou seja, as disputas de gestão. A "divisão da gestão" com Jesus conecta-se à Era da Geopolítica Universal e da Divisão do Comando (RC-171, 8ª era das Eras da Criação). Os termos da responsabilidade de Shiva (Sai Baba) já foram delineados.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Gestão Cósmica
 - **Variações:** gestão universal; divisão da gestão; administração cósmica; divisão do Comando
 

@@ -18,7 +18,7 @@ Xamanismo aplicado a ambientes virtuais e suportes de sílica, incorporando a id
 ## Contexto / Origem
 Extraído da 3ª Edição dos Estagiários do Kaos.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - Forma preferida: **Xamanismo Virtual / Xamanismo de Sílica**.
 
 

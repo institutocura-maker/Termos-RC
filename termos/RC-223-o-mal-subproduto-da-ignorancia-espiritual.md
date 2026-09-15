@@ -18,7 +18,7 @@ Tese de B002 (cap. 17): **o mal não é uma força autônoma, mas subproduto da 
 ## Contexto / Origem
 O capítulo 17 de B002 desenvolve o tema mostrando a "brutal ditadura" sob a qual vivemos (à exceção de algumas civilizações que superaram a cota doentia do DNA do criador), exercida pelo Senhor Javé "em nome do 'bem'", e aponta que o discernimento de alguns membros da hierarquia já os permite coexistir com seres evoluídos. A reflexão integra o eixo ético da Revelação Cósmica: o mal como consequência da ignorância espiritual — conceito que dialoga com a Revelação Espiritual (Kardec).
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** O Mal: Subproduto da Ignorância Espiritual
 - **Variações:** mal como ignorância; subproduto da ignorância espiritual
 

@@ -18,7 +18,7 @@ Espírito ou consciência-âncora que guarda múltiplos centros de consciência/
 ## Contexto / Origem
 A Devolutiva fixou a forma En Ma. As formas antigas Emá e Emar são preservadas como variações históricas para rastreabilidade.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - Grafia preferida: En Ma. Variações: Emá; Emar; EMÁ. Não confundir com Elm (RC-454).
 - **Fonte da decisão:** Devolutiva-01 + observação direta do curador.
 

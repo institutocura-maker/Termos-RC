@@ -18,7 +18,7 @@ Tese (leitura do autor, palestra **P2025-04-06**, U0006) de que **Lilith (RC-308
 ## Contexto / Origem
 Aparece em **P2025-04-06**, U0006, em resposta à pergunta sobre Nyx. Contexto: "Lilif é alguém que surgiu aqui para apoiar a Pandora. Só que Lilif não é humana, é Rxassa. E Lilif é monstruosa. A Pandora não fazia mal a ninguém."
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Lilith como Rakshasa (Espécie Não-Humana)
 - **Variações STT capturadas:** "Rxassa", "Rchaça", "Rxaças", "rachaças", "Lilif", "Lili"
 - **Idioma de origem:** Sânscrito rākṣasa (clássico); "Rxaça/Rxassa/rachaça/raxchaça" são degradação STT — ver Resolução 10/09/2026 em Observações

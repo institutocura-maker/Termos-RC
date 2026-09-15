@@ -18,7 +18,7 @@ Tese (leitura do autor, palestra **P2025-04-06**, U0006) de que o **judaísmo** 
 ## Contexto / Origem
 Aparece em **P2025-04-06**, U0006, na conclusão da palestra. Contexto: depois de Pandora desistir e morrer "mal", o autor identifica o **judaísmo** como o **ponto de virada** que destruiu o mito. "a gente entende como religião surgiu o judaísmo [...] e foi destruindo todas essas questões e transformando a história de Eva nessa confusão toda, sumindo com as notícias para tirar o mito de Lilif, o mito de Pandora."
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Judaísmo como Destruidor do Mito de Pandora/Lilith
 - **Variações STT capturadas:** "judaísmo", "escolas religiosas impositivas", "religiões impositivas"
 - **Idioma de origem:** Português

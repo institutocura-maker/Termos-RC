@@ -25,7 +25,7 @@ atualizado = "2026-08-31"
 - **Mencionada em:** RC-009 (Sophia — B031), P2023-12-17 (Lúcifer e a Rebelião dos Elétrons, U0002), RC-793 (Conceito Abaiano), RC-802 (Humanos como Cobaias dos Deuses).
 - **Aparece em P2023-12-17 (U0002):** "Como Sofia foi criado livre e pra vida biológico, Javé aceitou, mas desde que a família Aya e Aye, que são dois tipos de clones, conseguissem também engendrar membros deles ou conseguissem passar e, entre aspas, ficar ao lado de Sophia ou obedecendo Sophia no sentido técnico, mas no sentido político. Como Sofia foi criado livre, esses seres, esses anjos clones, na verdade estavam ali para caso Sophia fizesse algum movimento estranho, seria destruído."
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** **Aye** (canônica, em RC-009 e B031)
 - **Variações:** Aie (corruptela frequente em transcrições — corrigida em 2026-08-31)
 - **Idioma de origem:** Sânscrito (āye = imperativo de "vir") ou Egípcio antigo (Aye = deidade lunar)

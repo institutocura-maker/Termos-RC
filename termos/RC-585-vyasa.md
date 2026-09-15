@@ -18,7 +18,7 @@ Sábio associado à transmissão do Mahabharata e às tradições védicas; na p
 ## Contexto / Origem
 Aparece na quarta era equinocial junto aos Rishis, Kshatriyas e Brahmanes.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - Grafia preferida: Vyasa. STT: Viaza.
 - **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
 

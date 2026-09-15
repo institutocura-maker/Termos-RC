@@ -18,7 +18,7 @@ O **condicionamento imposto ao psiquismo humano** pelas crenças e revelações 
 ## Contexto / Origem
 A lavagem cerebral é o mecanismo pelo qual a Teocracia da Doença (RC-334) se mantém: "a 'lavagem cerebral' que se abateu sobre o psiquismo humano... foi e ainda é parte de uma etapa necessária de um processo maior" (Introdução). O condicionamento opera "via codificação do DNA ou mesmo por meio do tipo de educação veiculada na Terra" (cap. 6). O B023 (DHARMA) e o B044 (COLMEIA) complementam: o condicionamento demo/humano é o "modelo colmeia" aplicado ao psiquismo.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Lavagem Cerebral
 - **Variações:** condicionamento; lavagem cerebral imposta; adestramento; "descondicione-se" (imperativo de Ellam)
 

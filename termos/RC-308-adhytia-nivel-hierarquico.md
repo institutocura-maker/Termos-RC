@@ -18,7 +18,7 @@ Nível hierárquico superior de seres mencionado em *Inquisição Trimurtiana* (
 ## Contexto / Origem
 Os Adhytia aparecem episodicamente nos registros da mitologia hindu (os Adityas), mas sem referências dignas de nota no academicismo. No B022, um deles se posiciona à frente, saudando Brahma e os "Senhores da Lila", e se volta ao humano com "profundo desprezo": "Só mesmo um pesado sacrifício, que estes três seres se autoimpuseram, para suportar a sua indecorosa decifração". Eles representam a linhagem decadente dos descendentes da Trimurti que tentarão preservar o poder após o fim dos três.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Adhytia
 - **Variações:** Adityas (mitologia hindu — verificar relação); linhagem dos descendentes da Trimurti
 - **Obs.:** distinguir de Adhy (gênero espiritual, RC-011) — Adhytia é a linhagem descendente

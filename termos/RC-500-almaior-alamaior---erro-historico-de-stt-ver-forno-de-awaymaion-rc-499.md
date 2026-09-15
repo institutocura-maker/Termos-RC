@@ -19,7 +19,7 @@ atualizado = "2026-09-12"
 - A entrada nasceu da mineração de B061 e do STT da P2021-12-04 ("produzir espécies através do forno de Alamaior [REVISAR → CHANCELA 2026-09-06 · F039-L3: AGUARDA-ÁUDIO (STT preservado como falado) — ver nota], os biodemos");
 - **correção aprovada pela Devolutiva ART-2025-08-01 (O-4):** o material do curador "Fornos Replicadores" confirmou que o STT "Alamaior" = **Awaymaion** — o contexto da fala (biodemos) bate exatamente com a função do forno de Vishnu. Transformada em ficha de remissão direta para RC-499.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - Forma deprecada: Almaior / Alamaior. Forma correta/remissão: Awaymaion — RC-499.
 - **Fonte de decisão:** Devolutiva ART-2025-08-01, O-4 (2026-08-21).
 

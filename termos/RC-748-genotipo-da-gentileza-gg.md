@@ -66,7 +66,7 @@ Na leitura de Jan Val Ellam, um genótipo (GG) associado à gentileza, que teria
 | A Raça Inabalável dos Sethianos Emancipados | RC-766 | ← relaciona-se-a |
 | Oxitocina (hormônio do bem — base bioquímica da Karuna) | RC-839 | associado |
 
-## Blindagem epistemológica — RESSAIVA OBRIGATÓRIA
+## Observações
 
 As datas paleogenéticas (fósseis de 15.000 e 11.000 anos, áreas HR1/HR2) e o mecanismo (ideia → RNA → DNA) são **cronologia interna de Ellam** e **não constituem validação fóssil ou genética externa**. O verbete não afirma como fato científico a existência do "genótipo da gentileza" nem o mecanismo lamarckiano proposto. É registro da leitura cosmológica-ética do autor.
 

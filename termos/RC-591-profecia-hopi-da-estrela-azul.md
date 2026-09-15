@@ -18,7 +18,7 @@ Tradição atribuída aos Hopis segundo a qual uma Estrela Azul marcaria transi�
 ## Contexto / Origem
 É citada na resposta final sobre se toda passagem de era exige calamidade.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - Grafia preferida: Profecia Hopi da Estrela Azul. STT: ropes, hopes.
 - **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
 

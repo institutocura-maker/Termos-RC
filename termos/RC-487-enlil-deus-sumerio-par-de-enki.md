@@ -94,7 +94,7 @@ Anunnaki filho de Anu (RC-587), irmão de **Enki** (RC-486) e de Ninmah/Ninhursa
 
 > **Insight do curador:** as atitudes de Enlil são "perigosamente parecidas" com as do Criador caído — historicamente, a humanidade pode ter **confundido os mandos de Enlil com as ordens de Javé**. Registro como **hipótese de leitura histórica** (para o RAG cruzar dados), **sem fusão ontológica** — Enlil e Javé permanecem entidades distintas na Base.
 
-## Blindagem epistemológica
+## Observações
 
 Cronologia (450.000; 4.000; 600 a.C.), guerras atômicas e geopolítica dos clãs são **leitura do autor** (cronologia interna + quarentena histórica) — não são afirmações arqueológicas validadas.
 

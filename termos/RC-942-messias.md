@@ -20,7 +20,7 @@ O termo aparece nas aulas 01–05 do curso F044 (57.179 palavras, fonte primári
 
 > «o homem Jesus não seria o avatar de Javé, seria o Messias, seria o enviado, seria aquele que viria super poderoso em nome de Javé, resolver o tema principal e mais tarde foi transposto para as páginas da Bíblia, que tema era esse? Um Criador...»
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Messias
 - **Variações / grafias alternativas:** O Ungido; Cristo (ekv. grego «Christos»)
 - **Idioma de origem:** hebraico «mashiach» → grego «christós» (ungido)
@@ -32,6 +32,10 @@ O termo aparece nas aulas 01–05 do curso F044 (57.179 palavras, fonte primári
 | Jesus | RC-072 | associado |
 | Agenda Espiritual | RC-752 | associado |
 
+- Jesus — RC-072;
+- Segundo Advento do Cristo (Volta de Jesus) — RC-005;
+- Bagagem/segredo — RC-752.
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
@@ -39,12 +43,7 @@ O termo aparece nas aulas 01–05 do curso F044 (57.179 palavras, fonte primári
 | P2023-12-25-02 | Aula 02 — Os Anos de Pregação e a Promessa do Retorno | transcrição; citação |
 | P2023-12-25-03 | Aula 03 — Dias Difíceis: Crucificação e Ressurreição | transcrição; citação |
 
-## Relações centrais
-- Jesus — RC-072;
-- Segundo Advento do Cristo (Volta de Jesus) — RC-005;
-- Bagagem/segredo — RC-752.
-
-## Observação
+## Observações
 **Quarentena teológica** — Messias/Cristo são categorias das tradições; esta ficha documenta a releitura de Ellam dentro da Revelação Cósmica, não consenso religioso. `relacoes/` blindado (0 arestas novas).
 
 

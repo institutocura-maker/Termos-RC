@@ -18,7 +18,7 @@ Família de **374 anjos clones criados por Javé no Brahmaloka**, membros da "cl
 ## Contexto / Origem
 O B015 (cap. 4, "A Geração dos En Drel") detalha a origem: foram **forjados pouco antes da grande conflagração** (a agressão ao Criador que diminuiu seu poder criador). Da primeira geração do Criador restaram **dez seres primordiais ("dez sagrados")**, e um deles — mentor dos En Drel — pediu ao Criador uma geração com as características dos guardiões. "Fomos, então, gerados, mas não a tempo de impedir a agressão endereçada ao Criador." Os En Drel e suas naves eram "um só corpo" nas viagens.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** En Drel
 - **Variações:** Família En Drel; membros chamados "endrelnianos" (B015); Zont En Drel (pré-nome dos despertos)
 

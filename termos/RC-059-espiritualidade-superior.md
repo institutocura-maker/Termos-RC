@@ -18,7 +18,7 @@ O nível mais alto dos três em que a Revelação Cósmica divide a realidade n�
 ## Contexto / Origem
 A Espiritualidade Superior é o «lado de fora» do universo: o que não é acidente, não caiu e não precisa de conserto. É dela que partem as mônadas que estruturam os seres da criação caída — «a Espiritualidade Superior, vendo o drama do Criador caído, deu de si mônadas para estruturar os clones que Brahma criava». A Departamentalização da Vida (RC-601) e os corpos búdico (RC-060) e manásico (RC-061) são desdobramentos experimentais a partir deste nível. Distingue-se do Deus Incognoscível / Deidade (RC-052), que não é um nível e sim a Fonte.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - Grafia preferida: Espiritualidade Superior
 - Variações: o Todo; o Paraíso; Pleroma (correspondência aproximada, [REVISAR → CHANCELA 10/09/2026 · F040-L5: APROXIMAÇÃO DECLARADA E MANTIDA — ver nota])
 - Uso na Base: nível 1 de 3 (Superior → Operacional → Laboratorial)
@@ -41,6 +41,10 @@ A Espiritualidade Superior é o «lado de fora» do universo: o que não é acid
 | Departamentalização da Vida | RC-601 | ← envolve |
 | Corpo Átmico | RC-623 | associada-a |
 
+- RC-052 — ver ficha correspondente
+- RC-012 — ver ficha correspondente
+- RC-100 — ver ficha correspondente
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
@@ -58,12 +62,7 @@ A Espiritualidade Superior é o «lado de fora» do universo: o que não é acid
 | P2024-07-14 | — | registro-mestre (fonte censada) |
 | P2020-04-04 | — | registro-mestre (fonte censada) |
 
-## Relações centrais
-- RC-052 — ver ficha correspondente
-- RC-012 — ver ficha correspondente
-- RC-100 — ver ficha correspondente
-
-## Observação
+## Observações
 Nível de referência de toda a cosmografia da RC — eixo do Volume II da Enciclopédia e caixa «O FORA» do Mapa de Abstração (N0). A correspondência com Pleroma é leitura comparada, não identidade declarada pelo autor.
 
 

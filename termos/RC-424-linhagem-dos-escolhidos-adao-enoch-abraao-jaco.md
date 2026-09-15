@@ -25,7 +25,7 @@ A **linhagem genética "preparada desde 'seu Adão'"** por Javé — revelada na
 ## Contexto / Origem
 O B036 detalha a linhagem como engenharia genética divina: Javé admite ter "manipulado ferramentas corporais para tentar consertar o que chama de 'equívoco impetuoso' de sua Criação original". O sucesso biológico de Jacó "criou a necessidade de líderes que transformassem essa linhagem em uma força política" (José, Moisés, Maomé — e a decepção com Jesus). A Linhagem dos Escolhidos conecta-se à Linhagem dos Patriarcas Hebreus (RC-270, B013) e ao Favor Divino.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Linhagem dos Escolhidos
 - **Variações:** o Projeto Humano; a linhagem preparada desde Adão; os escolhidos de Javé
 

@@ -35,20 +35,19 @@ Estruturas mentais e emocionais que, segundo a explicação da palestra, seriam 
 | Universo de Egrégoras Emocionais | RC-711 | armazenado-em |
 | Dominação Psíquica pela Devoção | RC-733 | associado |
 
-## Fontes
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2024-11-09 | U0448–U0485 | palestra/STT; pergunta intercalada |
-| ART-2026-08-18 | O Quarto Cérebro de Pandora (artigo — Denise F. Silva) | — |
-
-## Relações centrais
 
 - Arquivos Mentais — RC-548;
 - Universo de Egrégoras Emocionais — RC-711;
 - Ressonância Mórfica — RC-381;
 - Big Data Cósmico — RC-194.
 
-## Blindagem epistemológica
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2024-11-09 | U0448–U0485 | palestra/STT; pergunta intercalada |
+| ART-2026-08-18 | O Quarto Cérebro de Pandora (artigo — Denise F. Silva) | — |
+
+## Observações
 “Campos mórficos”, egrégoras e armazenamento não são aqui apresentados como mecanismos neurocientíficos ou físicos validados. A expressão “Rede Neural de Consciência Planetária” permanece `[REVISAR → CHANCELA 10/09/2026 · F040-L5: ESCOPO DECIDIDO (não absorvida nesta ficha) — ver nota] STT/ESCOPO` e não foi absorvida nesta ficha.
 
 

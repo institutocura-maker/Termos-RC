@@ -36,16 +36,15 @@ O curso usa Nag Hammadi como **marco físico-histórico da recuperação da reve
 | Hipóstase dos Arcontes (livro gnóstico; 'realidade dos regentes') | RC-770 | relaciona-se-a |
 | Hipóstase dos Arcontes (livro gnóstico; 'realidade dos regentes') | RC-770 | ← relaciona-se-a |
 
+- Hipóstase dos Arcontes — RC-770;
+- Gnose / revelação gnóstica — RC-474;
+- Bibliotecas / escrita — RC-530.
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
 | P2022-09-17 | (obra/palestra sobre a revelação gnóstica) | — |
 | P2023-12-25-04 | Aula 04 — O Nascimento do Cristianismo | transcrição |
-
-## Relações centrais
-- Hipóstase dos Arcontes — RC-770;
-- Gnose / revelação gnóstica — RC-474;
-- Bibliotecas / escrita — RC-530.
 
 ## Citações-chave
 

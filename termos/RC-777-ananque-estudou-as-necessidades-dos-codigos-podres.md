@@ -18,7 +18,7 @@ Ser que estudou as "necessidades" que surgiriam dos "códigos podres" no psiquis
 ## Contexto / Origem
 Criado por autorização excepcional do curador (Devolutiva Trilogia TALM, O-3 — RC-777) a partir do ART-2025-08-03, com a tag **[REVISAR → CHANCELA 2026-09-06 · F039-L3: AGUARDA-ÁUDIO (STT preservado como falado) — ver nota]** para futura checagem ortográfica/fonética com a fonte primária (grafia do nome não confirmada). ✅ **RESOLVIDO NA P2021-07-24 (24/07/2021)**: a fonte primária falou o nome ao vivo — "Só uma pessoa nesse universo ou na criação inteira sabe, é a [ANANQUE]" — e a Devolutiva O-4 consagrou a grafia **ANANQUE** (corrigindo as alucinações STT "Anunque/Anak/ANAC/Nan").
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia oficial: ANANQUE** (consagrada pela Devolutiva O-4 da P2021-07-24 — a deusa grega da necessidade/inevitabilidade, mãe das Moiras na tradição órfica).
 - Variações STT capturadas na P2021-07-24 (todas corrigidas para Ananque): "Anunque/Anak/Ank/Nan/Nã/An/ANEC/ANAC/NC".
 - Grafia antiga superada: "Anã" (o [REVISAR] da criação da ficha, 2026-08-21 — resolvido).

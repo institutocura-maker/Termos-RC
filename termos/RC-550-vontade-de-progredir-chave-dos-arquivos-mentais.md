@@ -18,7 +18,7 @@ atualizado = "2026-08-25"
 ## Contexto / Origem
 No Mentalma I (B074, cap. 3.1 — "A 'Chave' da 'Vontade de Progredir'"), Ellam define-a como "o próprio Espírito tentando influenciar o seu 'ego terreno', no sentido de tentar fazê-lo cumprir seus objetivos maiores", vinda da "Consciência Profunda Espiritual", via "ego educado". O lema adotado por Ellam é de Sai Baba: "A Vontade é a essência do ser ou ele próprio em ação". A 1ª Constatação (p. 21) a vincula à "compreensão esclarecida": "surge quando a pessoa muda a sua maneira habitual de conduzir o seu pensamento diante das situações, e não consiste em uma compreensão baseada meramente na crença ou na fé, mas sim, na investigação constante da verdade". A 5ª Constatação (p. 45): "A melhor maneira de se lidar com arquivos mentais 'colecionados' é tendo a 'vontade e a compreensão esclarecidas'".
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Vontade de Progredir
 - **Variações:** "chave da soberania espiritual"; expressões afins (vocabulário da obra, sem código próprio): "Vontade Maior", "Vontade do Ser", "vontade mental do ser", "Vontade soberana pessoal"
 - **Idioma de origem / etimologia:** expressão criada por Ellam (B074); lastro nas tradições orientais (lema de Sai Baba)

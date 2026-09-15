@@ -18,7 +18,7 @@ Tese (leitura do autor, palestra **P2018-02-24**, U0001/U0005) de que **as "vers
 ## Contexto / Origem
 Aparece em **P2018-02-24**, U0001 (abertura) e U0005 (encerramento). Contexto: o autor abre a palestra dizendo que "as versões oficiais" são "produzidas, escritas, dirigidas, revisadas, modificadas, adequadas pelos seguidores" — e fecha dizendo que "o cristianismo ferrou com isso aqui, como Nietz, ferrou com esses valores, transformou a beleza grega em pecado".
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Versão Oficial como Construção dos Seguidores
 - **Variações STT capturadas:** "versão oficial", "crenças baratas, infantilizadas, pouco refletidas"
 - **Idioma de origem:** Português

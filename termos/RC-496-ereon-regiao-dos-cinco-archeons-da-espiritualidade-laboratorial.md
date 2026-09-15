@@ -18,7 +18,7 @@ Ereon é a região/conjunto da Espiritualidade Laboratorial formado por cinco Ar
 ## Contexto / Origem
 O título da palestra foi adotado como autoridade para a grafia. Os Archeons são descritos como níveis ou subníveis dimensionais, cada qual com famílias e padrões criadores próprios.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - Grafia preferida: Ereon. Variação histórica: Eeron. STT: héreo.
 - **Fonte de decisão:** curadoria estrutural C-01 a C-07, 2026-08-14.
 

@@ -25,7 +25,7 @@ A **ressonância mórfica** na RC não é apenas o mecanismo de herança de háb
 
 **Origem do conteúdo da ampliação:** palestra `P2023-10-14 — A Esquecida Honra dos Anunnaki` (U0047 e região do megabloco U0033), do `original.txt` (transcrição automatizada, **não conferida com o áudio**); aspas recortadas byte a byte por `_gerar_ampliacoes_P2023-10-14.py`.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 
 - **Canônico da Base:** *ressonância mórfica* (de *mor*, campo mórfico); distinto de **ressonância límbica** (RC-529), que a malha lhe liga por `relaciona-se-a` a partir de B072.
 - **Na fonte oral (P2023-10-14):** «campos mórficos» — a fonte usa o **plural de campo** e não pronuncia «Sheldrake» nesta palestra; o vínculo bibliográfico com o autor fica onde já está no cadastro (B041 e suas notas), **sem** retroprojeção.

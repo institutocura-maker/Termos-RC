@@ -32,15 +32,14 @@ Materialização autorizada pelo despacho F044 (Anel C, 06/09/2026). O termo já
 | Jesus | RC-072 | associado |
 | João Batista | RC-944 | associado |
 
+- João Batista — RC-944;
+- Jesus — RC-072.
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
 | P2023-02-11 | (obra/palestra) | — |
 | P2023-12-25-01 | Aula 01 — Adolescência e a Juventude de Jesus | transcrição |
-
-## Relações centrais
-- João Batista — RC-944;
-- Jesus — RC-072.
 
 ## Citações-chave
 

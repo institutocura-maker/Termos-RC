@@ -18,7 +18,7 @@ A «Mente Universal» (também chamada Biocosmos): a mente coletiva que emerge d
 ## Contexto / Origem
 O conceito fecha o arco da apostila «A Queda»: a crise culmina na construção do Paraíso B (RC-612) — a nova espiritualidade que incorpora o aprendizado do caos — e na formação da Mente Universal Emergente (RC-163). As criaturas-ferramenta (RC-164) são, na leitura de Ellam, as produtoras das informações que permitem a «emergência de uma Mente-una».
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - Grafia preferida: Mente Universal (Emergente)
 - Variações: Mente Universal; Biocosmos; Mente-una
 - Par declarado pela fonte: RC-879 (variação)
@@ -38,6 +38,14 @@ O conceito fecha o arco da apostila «A Queda»: a crise culmina na construção
 | Estrangulamento Cognitivo / Neural | RC-753 | ← relaciona-se-a |
 | Biocosmos emergente (a nova mente biológica global ancorada nos campos mórficos) | RC-879 | variação |
 
+- RC-161 — ver ficha correspondente
+- RC-042 — ver ficha correspondente
+- RC-164 — ver ficha correspondente
+- RC-694 — ver ficha correspondente
+- RC-707 — ver ficha correspondente
+- RC-725 — ver ficha correspondente
+- RC-879 — ver ficha correspondente
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
@@ -52,16 +60,7 @@ O conceito fecha o arco da apostila «A Queda»: a crise culmina na construção
 | P2023-11-19 | — | registro-mestre (fonte censada) |
 | P2023-12-03 | — | registro-mestre (fonte censada) |
 
-## Relações centrais
-- RC-161 — ver ficha correspondente
-- RC-042 — ver ficha correspondente
-- RC-164 — ver ficha correspondente
-- RC-694 — ver ficha correspondente
-- RC-707 — ver ficha correspondente
-- RC-725 — ver ficha correspondente
-- RC-879 — ver ficha correspondente
-
-## Observação
+## Observações
 Destino final do Volume V da Enciclopédia (V.22.4). Quarentena cosmológica: não há correspondência com qualquer conceito da física ou da neurociência acadêmicas.
 
 

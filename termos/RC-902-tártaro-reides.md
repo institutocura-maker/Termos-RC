@@ -20,10 +20,9 @@ Tártaro Reides — conceito desenvolvido na palestra «A Teia da Vida e o Circu
 **Fonte:** palestra «A Teia da Vida e o Circuito Oculto dos Deuses» (13/01/2024).
 **Trecho verbatim:** «o próprio tártaro, que é o domínio de Reides ou aquele irmão de Zeus que aparece nas mitologias»
 
-## Relações
+## Termos Relacionados
 - RC-479
 - RC-072
-## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
 | Jesus | RC-072 | associado |

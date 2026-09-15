@@ -18,7 +18,7 @@ Tese (leitura do autor, palestra **P2019-04-14**, U0003) de que **os demos se al
 ## Contexto / Origem
 Aparece em **P2019-04-14**, U0003. Contexto: a palestra explica **por que os humanos são explorados** — os demos precisam do "perfume" que os humanos produzem (e que eles não conseguem gerar sozinhos). "Os nossos espíritos hoje guardam o reflexo de todas essas necessidades, ou seja, são infectados." O processo é **triangular**: Trimurti → Soca → humanos. A humanidade é o **elo final** da extração.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Alimentação por Perfume dos Humanos (Demos se Alimentam de DNA)
 - **Variações STT capturadas:** "perfume", "sequências genéticas", "elementos sutis", "alimentos", "código genético"
 - **Idioma de origem:** Português

@@ -18,7 +18,7 @@ Tese (leitura do autor, palestra **P2017-05-14 — O Desvio de Rota de Pandora e
 ## Contexto / Origem
 Aparece em **P2017-05-14**, U0005. Contexto: a palestra reconstrói a história da criação de Pandora como "presente funesto" de Zeus, mas com um twist: o plano de Zeus **falha** porque os 12 do Olimpo inocularam o **melhor** (não o pior) e Pandora se apaixona pelos humanos. Este é o início da racionalidade humana — anterior a Adão.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Desvio de Rota de Pandora (Contra o Plano de Zeus)
 - **Variações STT capturadas:** "desvio de rota", "deslacre", "presente funesto", "presente surpresa"
 - **Idioma de origem:** Português

@@ -48,6 +48,10 @@ Na cosmologia de Ellam, o conjunto dos humanos que se comportam dentro do mesmo 
 | Big Data da Terra | RC-197 | associado |
 | Colegiados Espirituais Humanizados | RC-745 | repercute-em |
 
+
+- Colegiados Espirituais Humanizados — RC-745;
+- Dominação Psíquica pela Devoção — RC-733.
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
@@ -60,12 +64,7 @@ Na cosmologia de Ellam, o conjunto dos humanos que se comportam dentro do mesmo 
 ## Citação-chave
 > "Existe um rebanho físico altamente manipulado pelas macroforças que dominam a cultura dos encarnados, mas há um rebanho espiritual totalmente fragmentado."
 
-## Relações centrais
-
-- Colegiados Espirituais Humanizados — RC-745;
-- Dominação Psíquica pela Devoção — RC-733.
-
-## Observação
+## Observações
 
 Leitura do autor; **quarentena teológica** — as classificações religiosas não são consenso das tradições.
 

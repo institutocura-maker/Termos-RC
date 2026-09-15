@@ -18,7 +18,7 @@ Libertação da roda reencarnacional por superação da ignorância e emancipaç
 ## Contexto / Origem
 É associado a Kapila, disciplina meditativa, Mentalma e busca de saída das redes religiosas opressivas.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - Grafia preferida: Moksha. STT: moxa, Mcha.
 - **Fonte de decisão:** Quadro 9 aprovado pelo curador.
 

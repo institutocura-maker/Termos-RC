@@ -18,7 +18,7 @@ Pulsação dos elétrons do universo material e dos antielétrons do universo an
 ## Contexto / Origem
 A palestra compara a qualidade moral/psíquica das pulsações de seres biológicos e demos.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - Grafia: Duas Pulsações da Criação.
 
 

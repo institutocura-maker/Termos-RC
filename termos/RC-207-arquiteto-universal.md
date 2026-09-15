@@ -18,7 +18,7 @@ Função exercida por uma **divindade menor co-criadora** quando se apresenta, n
 ## Contexto / Origem
 Termo central da trilogia dos Dramas de Javé. O Arquiteto Universal é uma divindade cocriadora (ver RC-054) investida de função criadora, que se faz acompanhar por seres assessores. A queda transforma o arquiteto no "Senhor Javé", o Criador caído. B001 (cap. 3) o descreve como "Arquiteto por Excelência, 'Deus' por Necessidade".
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Arquiteto Universal
 - **Variações:** arquiteto universal (função); divindade menor co-criadora; "Arquiteto por Excelência"; identidade prévia: Prabrajna/Prajapati (RC-152)
 

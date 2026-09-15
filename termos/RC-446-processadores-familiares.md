@@ -18,7 +18,7 @@ Dispositivos psíquico-tecnológicos que **conectam todos os integrantes de cada
 ## Contexto / Origem
 Nos "Livros de Yel Luzbel", o Processador Familiar é o mecanismo que mantém cada estirpe de Capela unida e administrada: as decisões dos Sábios são transmitidas pelos Processadores, e os membros "emanam marcações" através deles. A ruptura de Yel Luzbel com sua família passa pelo desligamento do Processador Yel — gesto inédito entre os capelinos. A suspeita de que Sophia "engendrou" e controla os Processadores alimenta a paranoia que leva à Revolta Capelina.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Processadores Familiares
 - **Variações:** "Processador Familiar"; "Processador Yel"; "Processadores Familiares de Informações"
 - **Obs.:** na base, já existe o "Processador Val" (RC-089), dispositivo da Família Val — verificar correspondência com os Processadores Familiares das obras primárias

@@ -46,7 +46,7 @@ atualizado = "2026-08-18"
 | Enlil (deus sumério, par de Enki) | RC-487 | relaciona-se-a |
 | Nefilins (= Anunnaki) | RC-488 | relaciona-se-a |
 
-## Blindagem epistemológica
+## Observações
 
 Metáfora literária (Quincas Borba) adotada pelo autor como chave de leitura histórica — **registro doutrinário**, não teoria sociológica validada. A menção a "psicopatas" é **metáfora**, não terminologia clínica (quarentena clínica).
 

@@ -18,7 +18,7 @@ Grande Deusa de polaridade feminina, identificada como Deva/Aurora e apresentada
 ## Contexto / Origem
 A live amplia a antiga ficha: Deva/Aurora não seria simplesmente a primeira entidade feminina, mas uma figura surgida do Princípio da Externalização; posteriormente criaria três avatares que compõem a Tridevi.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - Grafia preferida: Deva / Aurora. Epíteto: A Grande Deusa. STT: deve.
 - **Fonte da decisão:** Devolutiva-01 + observação direta do curador.
 

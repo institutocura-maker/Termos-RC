@@ -18,7 +18,7 @@ Anunnaki relacionado à localização e ao uso das sete armas atômicas no confl
 ## Contexto / Origem
 É citado junto a Marduk, Anu e Nibiru na narrativa da guerra nuclear Anunnaki.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - Grafia preferida: Ninurta.
 - **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
 

@@ -18,7 +18,7 @@ Primeiro dos três Archeons mais antigos nomeados na palestra, associado a ampla
 ## Contexto / Origem
 Danérion teria trabalhado e desenvolvido as artes criativas provenientes de Antérion.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - Grafia canônica fixada pelo curador: Antérion. Variações STT: Anterium, Antério, Antteré, ané.
 - **Fonte de decisão:** Quadro 9 aprovado pelo curador.
 

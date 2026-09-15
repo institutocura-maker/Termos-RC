@@ -18,7 +18,7 @@ Hipótese de que a memória dos antielétrons do universo antimaterial em colaps
 ## Contexto / Origem
 A transferência concentraria a informação dos dois universos nos elétrons restantes.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - Grafia: Transferência da Memória dos Antielétrons.
 
 

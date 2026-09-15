@@ -18,7 +18,7 @@ A **Transfiguração de Jesus** (Mateus 17:1-19) reinterpretada nas RC — o cap
 ## Contexto / Origem
 O B011 é dedicado a desvendar o enigma: "a Transfiguração relatada nas páginas do Novo Testamento é apenas mais um dos estranhos eventos que cercaram a vida de Jesus. Porém... o fenômeno por si só já abre todo um conjunto de possibilidades que, se verdadeiros, modificam por completo o entendimento que temos a respeito da personalidade de Jesus". A obra estrutura-se em 3 partes (Livro de Tiago, Livro de João Batista, Livro de Moisés) — os três personagens da Transfiguração bíblica.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** O Enigma da Transfiguração
 - **Variações:** Transfiguração de Jesus; alteração vibratória; o encontro com Moisés e Elias
 

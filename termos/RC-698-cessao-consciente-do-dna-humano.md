@@ -26,7 +26,7 @@ A cessão é vinculada a:
 - Oitavo Dia da Criação;
 - responsabilidade cocriadora.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 Forma canônica: **cessão**, ato de ceder. Corrigir o STT `sessão consciencial` para **cessão consciencial**.
 
 

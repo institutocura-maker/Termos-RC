@@ -18,7 +18,7 @@ Gênero Adhy é o conjunto de 147 seres da Espiritualidade Laboratorial, distrib
 ## Contexto / Origem
 A palestra fornece a fonte direta mais detalhada da taxonomia: 147 seres, cinco espécies e Pashvnaj como uma espécie de 43. Prabrajna, Mavatna/Vishnu e outros personagens pertencem a ramificações desse gênero.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - Grafia preferida: Adhy. STT: seres AD, seres Ados, Ades, ISAD, Zad, seres Arte.
 - **Fonte de decisão:** curadoria estrutural C-01 a C-07, 2026-08-14.
 

@@ -18,7 +18,7 @@ A grafia **"Jeová"** — usada na trilogia "Queda e Ascensão Espiritual" (B003
 ## Contexto / Origem
 A trilogia é a primeira fase do pensamento de Ellam (1999–2000), em que o vocabulário ainda usava "Jeová" (73 ocorrências no PDF) — antes da consolidação de "Javé" e das correspondências Caos/Brahma/Javé (RC-284) nas obras posteriores (a partir de 2007). O termo registra a evolução terminológica do corpus: **Jeová → Javé → Caos/Brahma/Javé**.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Jeová
 - **Variações:** Jeová = Javé (obras posteriores); Jeová = Caos/Brahma/Javé (RC-284)
 - **Idioma de origem:** hebraico (YHWH), forma portuguesa "Jeová"

@@ -18,7 +18,7 @@ atualizado = "2026-08-29"
 ## Contexto / Origem
 O Isolamento Cósmico é o **fim do período da Rebelião de Lúcifer** e a condição que explica a ausência de contato oficial com ETs. Sua superação inicia a Reintegração Cósmica da Terra.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Isolamento Cósmico
 - **Variações:** isolamento do orbe terrestre; exílio cósmico
 

@@ -18,7 +18,7 @@ Correspondência de teologia comparada entre Orunmilá e Elm/Moros de Irém/Orum
 ## Contexto / Origem
 P2025-06-26 — 1ª Edição Estagiários do Kaos.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 Forma preferida: **Orunmilá (Moros de Irém / Orum)**.
 
 

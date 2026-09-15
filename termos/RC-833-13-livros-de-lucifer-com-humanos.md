@@ -18,7 +18,7 @@ Tese (leitura do autor, palestra **P2023-12-17**, U0005) de que **Lúcifer (RC-0
 ## Contexto / Origem
 Aparece em **P2023-12-17**, U0005. Contexto: a palestra encerra com a proposta de **13 livros de Lúcifer com humanos** como um dos gestos mais importantes da era do colapso. O autor vê a si mesmo como **um dos 9 humanos** que Lúcifer está usando para escrever esses livros — a **revelação cósmica** é parte desse processo. "Independente de eu publicar livro ou não, apenas contraindo, é um problemaço. Nós estamos vivendo a época do colapso do caos que conseguiu se organizar, porque o caos se organizou de tal forma que impede o progresso do próprio caos."
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** 13 Livros de Lúcifer com Humanos (Necessários Antes do Fim)
 - **Variações STT capturadas:** "13 livros", "9 livros", "Lúcifer com humanos", "rebelião de Lúcifer"
 - **Idioma de origem:** Português

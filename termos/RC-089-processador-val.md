@@ -31,7 +31,7 @@ Com isso:
 
 **Origem do conteúdo da ampliação:** palestra `P2022-03-26 — A Rebelião de Lúcifer e a Depressão Mental dos Seres` (São Paulo, 26/03/2022), bloco U0034 (com apoio em U0008) do `original.txt` — transcrição automatizada, **não conferida com o áudio**. Cada aspa foi recortada byte a byte por `_gerar_ampliacoes_P2022-03-26.py` sobre o caça-âncoras `_aspas_P2022-03-26.py`; nada foi digitado de memória.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 
 - **Canônico da Base:** *Processador Val* (família Val). ⚠️ A **família** aparece na fala de 2022 grafa pelo STT como `Vol` (6×), `vol` (4×), `voz` (2×), `V.` — o nome da família **não** é unificável a partir do TXT, e a forma canônica da Base permanece a das obras.
 - **Na fonte oral (P2022-03-26):** o objeto é dito como *o processador da família Vol* e a nave que o hospeda como *Esferon* [REVISAR: nome novo, uma ocorrência → CHANCELA 2026-09-06 · F039-L3: AGUARDA-ÁUDIO (STT preservado como falado) — ver nota] — ver o dicionário STT no apêndice da apostila do ciclo.

@@ -18,7 +18,7 @@ Universo que se formou **ao mesmo tempo** que o nosso universo material e onde *
 ## Contexto / Origem
 O Universo Antimaterial é um dos dois produtos do "erro da criação" (a queda do Criador). É o cenário de grande parte da mitologia humana, reinterpretada como "cultura demo". Os portais entre os dois universos estiveram abertos por milhões de anos e depois foram fechados.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Universo Antimaterial
 - **Variações:** Universo Paralelo (sinônimo); Brahmaloka (termo sânscrito); universo demo
 

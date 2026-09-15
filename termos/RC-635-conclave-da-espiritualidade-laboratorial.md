@@ -18,7 +18,7 @@ Reunião prolongada de famílias da Espiritualidade Laboratorial após o colapso
 ## Contexto / Origem
 A fala situa o conclave em curso há cerca de quatro anos, no ritmo próprio dos seres superiores.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - Grafia: Conclave da Espiritualidade Laboratorial.
 
 

@@ -20,10 +20,9 @@ Sonhos como Realidades Paralelas — conceito desenvolvido na palestra «A Teia 
 **Fonte:** palestra «A Teia da Vida e o Circuito Oculto dos Deuses» (13/01/2024).
 **Trecho verbatim:** «desdobramentos que o eu da gente espiritual ou encarnado faz em outros níveis de realidade independentes, mas simultâneas e paralelas»
 
-## Relações
+## Termos Relacionados
 - RC-557
 - RC-628
-## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
 | Conectoma humano (pulsações sinápticas e a sensação de eu) | RC-557 | associado |

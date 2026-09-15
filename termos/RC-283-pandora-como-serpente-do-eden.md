@@ -18,7 +18,7 @@ Revelação central de *O Sorriso de Pandora* (B020, cap. 9): **Pandora fez o pa
 ## Contexto / Origem
 No B020, Pandora narra em 1ª pessoa: cerca de 30 mil anos após sua "humanização", o Criador (Caos/Javé) fez sua morada "estacionar" numa região do planeta — o futuro Jardim do Éden — e tomou como prisioneiros "um casal pertencente a um dos núcleos humanos". Pandora interveio como "serpente": sua influência genética e seu deslacre já haviam sido semeados entre os humanos, e ela afrontou o plano de dominação do Criador. O "Adão bíblico" e a "Eva bíblica" são distintos dos primeiros humanos de estimação de Epimeteu.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Pandora como Serpente do Éden
 - **Variações:** a serpente do Éden = Pandora; papel da serpente; a "serpente" da tradição bíblica
 

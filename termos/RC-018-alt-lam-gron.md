@@ -50,7 +50,7 @@ editada por este ciclo.
 `original.txt` — transcrição automatizada, **não conferida com o áudio**. Cada aspa foi recortada byte a byte por
 `_gerar_ampliacoes_P2023-12-03.py` sobre o caça-âncoras `_aspas_P2023-12-03.py`; nada foi digitado de memória.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 
 - **Canônico da Base:** *Alt´Lam Gron* — com **acento agudo** (`´`, U+00B4), não crase, não cedilha: é a grafia do
   cadastro e ela preside o nome da ficha.

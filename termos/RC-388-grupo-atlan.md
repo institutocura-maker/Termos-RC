@@ -18,7 +18,7 @@ O **Grupo Atlan** é o grupo de estudos mediúnicos do qual Jan Val Ellam partic
 ## Contexto / Origem
 O Esclarecimento do B006 narra a origem: "No início, era a Casa de Lucas. Centro Espírita administrado por um grupo de amigos... Com a evolução dos trabalhos, seres cósmicos de naipe vibratório algo diferente... se fizeram presentes e, com isso, alguns mitos e limites do movimento espírita foram por nós ultrapassados... procuramos um outro espaço, mudando, a partir de então, a denominação — tanto do nosso grupo como do nosso recanto de estudo — para Atlan." O Grupo Atlan é o ambiente onde as mensagens de "Nos Bastidores da Luz" (e outras obras) foram recebidas — e o nome "Atlan" conecta-se à base luciferiana Atlan (RC-028) e à assinatura de Ellam ("Atlan, data").
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Grupo Atlan
 - **Variações:** Atlan (grupo de estudos); Casa de Lucas (nome anterior); Grupo Atlan (IEEA)
 

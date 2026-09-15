@@ -18,7 +18,7 @@ Tese (leitura do autor, palestra **P2019-05-11 — Pandora e os Desacertos dos P
 ## Contexto / Origem
 Aparece em **P2019-05-11**, U0005 (Q&A), em resposta à pergunta sobre "seres demos que encarnam na nova espécie". A tese: talvez se espere 1, 2, 3 levas genéticas até que se forme uma subespécie humana **livre de corrupção, livre de doença** — que será a **raça-raiz da nova mente espiritual**, a fonte das **novas marcações no elétron**.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Especiação Humana — Levas Genéticas
 - **Variações STT capturadas:** "levas genéticas", "1, 2, 3 levas", "padrão genético humano"
 - **Idioma de origem:** Português + latim científico

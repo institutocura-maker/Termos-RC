@@ -18,7 +18,7 @@ São os seres das **famílias biodemicas exilados do Sistema de Capela para a Te
 ## Contexto / Origem
 Resultado direto da Rebelião de Lúcifer e do consequente Isolamento Cósmico. Nas RC, os Exilados de Capela correspondem ao que outras literaturas chamam de "Anjos Caídos" — com a ressalva de que, na narrativa de Ellam, são **seres biodemos extraterrestres** (entre eles Lúcifer/Yel Luzbel), não "anjos" no sentido tradicional.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Exilados de Capela
 - **Variações:** Anjos caídos (equivalência parcial, ver RC-020); Espíritos exilados de Capela
 

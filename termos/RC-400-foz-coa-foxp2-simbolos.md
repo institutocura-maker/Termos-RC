@@ -60,6 +60,11 @@ Registro que associa o gene FOXP2 — vinculado na cosmologia de Ellam à emerg�
 | Genoma da Liberdade | RC-619 | ← relaciona-se-a |
 | Genes Críticos / Genes Dorminhocos | RC-710 | ← relaciona-se-a |
 
+
+- Enki (Anunnaki; inoculou o gene FOXP2) — RC-486;
+- Semente da racionalidade (diferencial humano) — RC-525;
+- Xamanismo Cósmico — RC-577.
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
@@ -72,13 +77,7 @@ Registro que associa o gene FOXP2 — vinculado na cosmologia de Ellam à emerg�
 ## Citação-chave
 > "Enki foi quem introduziu [o gene FOXP2]. Esse gene FOXP2 surgiu 47–48.000 anos atrás no nosso genoma."
 
-## Relações centrais
-
-- Enki (Anunnaki; inoculou o gene FOXP2) — RC-486;
-- Semente da racionalidade (diferencial humano) — RC-525;
-- Xamanismo Cósmico — RC-577.
-
-## Observação
+## Observações
 
 **Quarentena científico-genética:** as datas e a atribuição a Enki são leitura de Ellam, não genética validada.
 

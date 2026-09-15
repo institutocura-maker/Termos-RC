@@ -18,7 +18,7 @@ Tese (leitura do autor, palestra **P2019-05-11 — Pandora e os Desacertos dos P
 ## Contexto / Origem
 Aparece em **P2019-05-11**, U0001 (abertura — Pandora escreve livros), U0002 (espírito de Pandora), U0004 (pactos desastrosos). É peça-chave do **tema Pandora × Pactos de Javé** (RC-086/RC-001) e contraponto à **Sequência Formativa** (RC-785) — Pandora é a pioneira da cadeia, mas sua ação tem custo.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Pandora como Heroína Controversa
 - **Variações STT capturadas:** "heroína", "heroína controversa", "Pandora destravou mas extrapolou"
 - **Idioma de origem:** Português

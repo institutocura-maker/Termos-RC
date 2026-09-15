@@ -18,7 +18,7 @@ Encontro mental dos 43 Pashvnaj para examinar o projeto de Prabrajna e lidar com
 ## Contexto / Origem
 A fala descreve um circuito interno de 14 e uma corrente secundária; esse detalhamento foi absorvido nesta ficha.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - Grafia: Reunião Operativa Mental dos 43 Pashvnaj. Subtermo: Circuito dos 14.
 
 

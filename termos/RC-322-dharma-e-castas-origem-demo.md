@@ -26,7 +26,7 @@ O **dharma** e o sistema de **castas** entendidos, na RC, como **instituição p
 
 **Origem do conteúdo da ampliação:** palestra `P2023-10-14 — A Esquecida Honra dos Anunnaki`, megabloco U0020 do `original.txt` (transcrição automatizada, **não conferida com o áudio**). Cada aspa foi recortada byte a byte por `_gerar_ampliacoes_P2023-10-14.py`; nada foi digitado de memória.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 
 - **Canônico da Base:** *dharma*, *varna* (casta), *karma*, *adharma*.
 - **Na fonte oral (P2023-10-14):** «Darma», «dharma», «adharma»; a casta aparece grafada «varna» e, numa linha, **«varma, dma»** — [REVISAR: degradação de STT para *varna* / *dharma*, preservada como está, sem emenda → CHANCELA 2026-09-06 · F039-L3: FONTE AUSENTE DA ARCA — ver nota].

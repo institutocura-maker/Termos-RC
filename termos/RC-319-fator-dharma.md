@@ -18,7 +18,7 @@ O **dharma** como fator revelado em *O Dharma e as Castas Hindus* (B023, cap. 2)
 ## Contexto / Origem
 O Fator Dharma é a chave interpretativa do B023: o sistema de dharma/castas foi criado para **"demônios feito gente"** (a classe demo em transição), não para humanos. Na cultura demodhármica, "a simples questão da aplicação ou não dos critérios do dharma como dever moral definiria tudo o mais". O karma (em sânscrito) advém "do não cumprimento do dharma".
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Fator Dharma
 - **Variações:** dharma (termo sânscrito); dever sagrado; dharma como dever moral; cultura demodhármica (relacionado)
 - **Idioma de origem:** sânscrito (dharma = lei/dever)

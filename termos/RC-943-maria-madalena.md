@@ -26,7 +26,7 @@ E (Aula 03), sobre a escolha da Igreja contra a revelação por Madalena:
 
 Na Aula 05, «a verdadeira face de Maria Madalena» é desdobrada (papel de apóstola-reveladora, contraposta à face construída pelo cristianismo paulino).
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Maria Madalena
 - **Variações / grafias alternativas:** Madalena
 - **Idioma de origem:** — (pessoa; «Madalena» = de Magdala)
@@ -38,18 +38,17 @@ Na Aula 05, «a verdadeira face de Maria Madalena» é desdobrada (papel de apó
 | Sophia e a Ressurreição de Jesus | RC-280 | associado |
 | Evangelho de Bartolomeu | RC-904 | associado |
 
+- Jesus — RC-072;
+- Paulo/Saulo (revelação paulina) — RC-280;
+- Apóstolos — RC-904.
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
 | P2023-12-25-03 | Aula 03 — Dias Difíceis: Crucificação e Ressurreição | transcrição; citação |
 | P2023-12-25-05 | Aula 05 — A Verdadeira Face de Maria Madalena | transcrição; citação |
 
-## Relações centrais
-- Jesus — RC-072;
-- Paulo/Saulo (revelação paulina) — RC-280;
-- Apóstolos — RC-904.
-
-## Observação
+## Observações
 **Quarentena teológica** — a figura de Madalena (apóstola, evidenciadora, «portadora da revelação») é leitura de Ellam, divergente da tradição cristã consolidada. `relacoes/` blindado (0 arestas novas).
 
 ## Citações-chave

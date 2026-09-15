@@ -18,7 +18,7 @@ Divindade da geração anterior à Grande Deusa, apresentada como origem de uma 
 ## Contexto / Origem
 A live usa Nyx para distinguir sua descendência da genealogia posterior da Tridevi.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - Grafia preferida: Nyx. STT: NX; Nick.
 - **Fonte da decisão:** Devolutiva-01 + observação direta do curador.
 

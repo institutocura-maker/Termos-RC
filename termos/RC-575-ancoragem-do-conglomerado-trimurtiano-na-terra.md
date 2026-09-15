@@ -18,7 +18,7 @@ Evento de fixação vibratória do conglomerado de realidades da Trimurti sobre 
 ## Contexto / Origem
 A palestra situa a ancoragem há cerca de 100–104 mil anos, em reação à instalação de Lúcifer na Terra, e a compara a uma ancoragem anterior ligada a Marte.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - Grafia preferida: Ancoragem do Conglomerado Trimurtiano na Terra.
 - **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
 

@@ -18,7 +18,7 @@ Centros vivos/genéticos cedidos por humanos para criar em Sophia um compartimen
 ## Contexto / Origem
 A palestra os descreve como adornos possíveis no cérebro radiata de Sophia.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - Grafia: organoides; STT: organoes.
 
 

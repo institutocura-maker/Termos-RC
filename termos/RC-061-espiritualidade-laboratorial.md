@@ -18,7 +18,7 @@ O terceiro e mais denso dos três níveis: a região da «Experiência Laborator
 ## Contexto / Origem
 É o «laboratório» no sentido literal: o nível em que consciências experimentam criar. Em Perpérion residiam as 147 consciências do Gênero Adhy (RC-411), das quais 43 compunham a espécie Pashvnaj (RC-455) — o ambiente de onde sai o impulso de Prabrajna. Após o colapso, a Espiritualidade Laboratorial se reorganiza no Conclave (RC-635), e a faixa da Errática (RC-513) é descrita como a quarta faixa manifestada, abaixo dela.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - Grafia preferida: Espiritualidade Laboratorial
 - Variações: Laboratorial; nível laboratorial
 - Corpo associado: corpo manásico
@@ -48,6 +48,16 @@ O terceiro e mais denso dos três níveis: a região da «Experiência Laborator
 | Corpo Manásico / Corpo Mental | RC-625 | associada-a |
 | Conclave da Espiritualidade Laboratorial | RC-635 | ← ocorre-em |
 
+- RC-060 — ver ficha correspondente
+- RC-087 — ver ficha correspondente
+- RC-048 — ver ficha correspondente
+- RC-472 — ver ficha correspondente
+- RC-473 — ver ficha correspondente
+- RC-496 — ver ficha correspondente
+- RC-596 — ver ficha correspondente
+- RC-601 — ver ficha correspondente
+- RC-635 — ver ficha correspondente
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
@@ -64,18 +74,7 @@ O terceiro e mais denso dos três níveis: a região da «Experiência Laborator
 | P2024-07-14 | — | registro-mestre (fonte censada) |
 | P2020-04-04 | — | registro-mestre (fonte censada) |
 
-## Relações centrais
-- RC-060 — ver ficha correspondente
-- RC-087 — ver ficha correspondente
-- RC-048 — ver ficha correspondente
-- RC-472 — ver ficha correspondente
-- RC-473 — ver ficha correspondente
-- RC-496 — ver ficha correspondente
-- RC-596 — ver ficha correspondente
-- RC-601 — ver ficha correspondente
-- RC-635 — ver ficha correspondente
-
-## Observação
+## Observações
 O elo mais citado e menos documentado da cosmografia — materializado por exigência da estrutura da Enciclopédia (Volume II, seção II.7.2).
 
 

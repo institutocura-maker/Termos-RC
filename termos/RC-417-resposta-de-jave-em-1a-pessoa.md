@@ -18,7 +18,7 @@ As **respostas de Javé em primeira pessoa** — a parte mais singular de *Carta
 ## Contexto / Origem
 A Resposta de Javé é a **única fala extensa do Criador em 1ª pessoa** no corpus: "Não estava nos meus desígnios, nessa altura, comunicar-me com os humanos da Terra por meio de respostas às suas cartas... Digo 'minhas' porque efetivamente são minhas, pois fazem parte de mim, do que eu sou! Não há nada na minha criação que não seja parte do meu 'eu'." Javé também afirma: "Do que não limitei foi que surgiram as espécies com possibilidade de liberdade mental, sobre o que tenho procurado pacificar as minhas forças... Arrependo-me, mas nada me resta a fazer pois não posso destruir aos que amo."
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Resposta de Javé
 - **Variações:** a resposta do Criador; Resposta de Javé - Parte 1 e Parte 2; "sou eu que vivo em vocês" (frase-chave)
 

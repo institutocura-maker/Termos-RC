@@ -18,7 +18,7 @@ Tese (leitura do autor, palestra **P2018-05-20**, U0003) de que **Agar** é a **
 ## Contexto / Origem
 Aparece em **P2018-05-20**, U0003. Contexto: a palestra reconstrói a **sequência de 3 tentativas** que Javé fez para encontrar uma fêmea para Adão. Depois de Lilith fracassar (humilhar os anjos, fugir do curral), Javé tenta **Agar** — uma "mulher da espécie sábia" (humana já racional). Agar veio "da transada original da nossa mãe Pandora com os animais humanos" — ou seja, **Agar é descendente de Pandora**. Mas Adão é "de uma linhagem mais fraca" (segundo a própria Lilit, ao tentar dissuadir Agar) e a combinação **não funcionou**. Só a 3ª tentativa (Eva) funcionou.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Agar como 2ª Tentativa Fracassada de Fêmea para Adão
 - **Variações STT capturadas:** "Agar", "A gar", "Agar a segunda"
 - **Idioma de origem:** Hebraico (הָגָר Hagār = "a que foge") + Português

@@ -18,7 +18,7 @@ Configuração genômica associada à capacidade humana de formar postura psíqu
 ## Contexto / Origem
 A fala situa sua repercussão recente e relaciona o processo a Pandora, Enki, FOXP2 e à ruptura com a voz dos deuses.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - Grafia preferida: Genoma da Liberdade. Expressão derivada de “genoma que produz a liberdade”.
 - **Fonte de decisão:** Quadro 9 aprovado pelo curador.
 

@@ -18,7 +18,7 @@ Linhagem genealógica derivada de Seth, terceiro filho de Adão e Eva, preparada
 ## Contexto / Origem
 A palestra situa Seth entre Caim e os patriarcas Enos, Cainã, Jared e Enoque, descrevendo sua relação crítica com o projeto de Javé.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - Grafia preferida: Linhagem de Seth. Variação do nome individual: Set/Seth.
 - **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
 

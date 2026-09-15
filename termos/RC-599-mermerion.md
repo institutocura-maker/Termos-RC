@@ -18,7 +18,7 @@ Um dos cinco Archeons de Ereon, associado a criações complexas e a múltiplos 
 ## Contexto / Origem
 É apresentado depois de Antérion e Danérion e antes de Perpérion/Tempérion.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - Grafia canônica: Mermérion. STT: Mermerium, Mermérium, Mermério.
 - **Fonte de decisão:** Quadro 9 aprovado pelo curador.
 

@@ -18,7 +18,7 @@ Estirpe capelina à qual pertencem **Len Mion (Satã)** e **Gron Mion**, descrit
 ## Contexto / Origem
 Na narrativa psicografada, enquanto os sábios da Família Yel aguardam resposta de Sophia às questões do Primeiro Pesquisador Yel Luzbel, a Família Mion decide agir por conta própria e contatar os demais Biocoletivos. Len Mion é o elo entre Yel Luzbel e a "causa": pressiona, confronta e, ao final do Livro 2, revela a suspeita de que Sophia acessava os Processadores Familiares — o que radicaliza Yel Luzbel.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Família Mion
 - **Variações:** "família Mion"; "estirpe Mion"; "os Mion"
 - **Obs.:** o nome dos integrantes carrega o sufixo "Mion" (Len Mion, Gron Mion), assim como "Yel" marca a Família Yel

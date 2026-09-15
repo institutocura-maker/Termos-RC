@@ -18,7 +18,7 @@ Tese (leitura do autor, palestra **P2018-02-24 — Pandora e a Estratégia dos A
 ## Contexto / Origem
 Aparece em **P2018-02-24**, a palestra **mais antiga** do tema Pandora (Fev/2018). Contexto: depois que os avatares destruíram o mal centralizado 2 vezes (Moisés, Krishna), as trevas resolveram **espalhar o mal em todos os corações humanos** — o que obrigaria os avatares seguintes a propor a luta íntima (Saibaba, Jesus).
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Estratégia dos Avatares
 - **Variações STT capturadas:** "avatares", "agentes de dominação", "instrumentos de dominação"
 - **Idioma de origem:** Sânscrito (अवतार "avatāra" = "descida", encarnação divina) + Português

@@ -18,7 +18,7 @@ A **liberdade total concedida pela Deidade** às suas criaturas — o polo opost
 ## Contexto / Origem
 A Democracia do Amor é o atributo da Deidade ("Esta é somente amor"): "Quem é somente amor... é incapaz de agir de modo a, por exemplo, impor ou limitar a atitude de quem quer que seja". "O que dele é emanado são **mônadas amorosas, ingênuas e incapacitadas de não amarem**". O gesto de amor da Deidade "em lugar nenhum é visto como um 'favor', pois que somente é um dos aspectos reveladores do Seu ministério amoroso".
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Democracia do Amor da Deidade
 - **Variações:** democracia do amor; ministério amoroso da Deidade; amor incondicional da Deidade
 

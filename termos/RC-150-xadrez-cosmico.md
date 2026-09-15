@@ -18,7 +18,7 @@ Denominação dada por Jan Val Ellam ao **"Jogo" executado por algumas Divindade
 ## Contexto / Origem
 A metáfora do xadrez estrutura toda a narrativa de B024: a "Epopeia da Consciência Espiritual" por trás dos Agentes do Jogo. A religião substituiu a história hindu e a fé sepultou a investigação sobre esse passado — "a 'Caverna de Platão' jamais estivera tão povoada de seres humanos, enquanto, lá fora, o tal 'Jogo' continuava a acontecer, visto por 'Outros Olhos'" (B024, Introdução).
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Xadrez Cósmico
 - **Variações:** o "Jogo"; o jogo de samsara (no cap. 15, referência ao renascimento)
 

@@ -18,7 +18,7 @@ Conjunto de oito figuras da tradição egípcia de Hermópolis correlacionado na
 ## Contexto / Origem
 Elm e Olm seriam os dois LM presentes na correlação; os demais correspondem à Trimurti e à Tridevi.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - Grafia preferida: Ogdóade de Hermópolis. STT: Ogat.
 - **Fonte de decisão:** Quadro 9 aprovado pelo curador.
 

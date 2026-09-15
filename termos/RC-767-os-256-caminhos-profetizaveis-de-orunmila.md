@@ -56,7 +56,7 @@ atualizado = "2026-08-18"
 | Orunmilá (Moros de Irém / Orum) | RC-665 | relaciona-se-a |
 | Vrittis e Cittas (atividades e núcleos mentais) | RC-760 | relaciona-se-a |
 
-## Blindagem epistemológica
+## Observações
 
 Estrutura técnica da destinação é **leitura do autor** (cronologia interna + Teologia Comparada iorubá) — não é doutrina Ifá tradicional validada. Os 256 caminhos são registro da cosmovisão RC.
 

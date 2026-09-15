@@ -18,7 +18,7 @@ atualizado = "2026-08-25"
 ## Contexto / Origem
 Capítulos 10–12 do B058: "o 'Grão-mestre' daquela 'Universidade', ou seja, **o 'Primeiro Mestre' entre eles**, dirigiu-se a mim, respeitosamente!" (p. 47); o endereço cerimonioso — "Integrante Yel Luzbel, 'Primeiro Pesquisador' pertencente à 'família Yel', do planeta Dan, do sistema de Capela" (p. 47); a advertência metodológica — "tudo o que você expressar, **será analisado, cientificamente**, por mim e pelos outros Mestres aqui presentes" (p. 47); o veredito (pp. 54–56): "não conseguimos refutar as argumentações"; "As suas premissas foram irrefutáveis, mas **não as consideraremos como certas ou verdadeiras até ouvirmos as explicações do próprio Sophia**" (p. 56); o elogio final: "Você tem uma mente brilhante!" (p. 56).
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Grão-mestre (Sábios de Tau Ceti)
 - **Variações:** "Grão-mestre" (grafia alternante com "Grão-Mestre" no próprio livro); "o 'Primeiro Mestre' entre eles"
 - **Obs.:** cargo/instituição, não nome próprio — o ser não é nominado na narrativa

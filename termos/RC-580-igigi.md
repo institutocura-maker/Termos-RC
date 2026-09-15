@@ -18,7 +18,7 @@ Classe de Anunnakis de menor escalão apresentada, na palestra, como rebelde e e
 ## Contexto / Origem
 A hibridização atribuída aos Igigi é situada na segunda era equinocial e ligada à geração de descendentes fora do padrão desejado.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - Grafia preferida: Igigi. Forma usada na fala: Igigis.
 - **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
 

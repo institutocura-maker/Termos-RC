@@ -18,7 +18,7 @@ Evento registrado no **Guia das Eras Universais (Mapa)** (B050): **"Ragnarok em 
 ## Contexto / Origem
 O B050 situa o Ragnarok no contexto das eras: junto a "Kvasir e Freya em busca dos Titãs banidos por Cronos (450–290 milhões a.p.)" e a "Morte de Kvasir (290–280 milhões a.p.)". Conecta a mitologia nórdica (Aesir/Vanir) à história demo do universo — os "deuses" nórdicos como seres demos que teriam perecido numa catástrofe marciana.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Ragnarok em Marte
 - **Variações:** Ragnarök; o crepúsculo dos deuses (nórdico); explosão que acabou com a atmosfera de Marte
 

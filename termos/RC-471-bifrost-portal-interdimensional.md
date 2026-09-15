@@ -16,7 +16,7 @@ atualizado = "2026-08-16"
 
 Na cosmologia comparada de Jan Val Ellam, Bifrost é uma ponte periódica entre as oito locas de Yggdrasil e Marte/Midgard, permitindo a passagem de seres entre o universo antimaterial e o universo material.
 
-## Etimologia e grafias
+## Etimologia e Grafias
 
 - **Forma preferida:** Bifrost;
 - **variações:** Bifröst;
@@ -58,7 +58,7 @@ Na cosmologia comparada de Jan Val Ellam, Bifrost é uma ponte periódica entre 
 | Yggdrasil / Conglomerado dos Nove Mundos | RC-730 | conecta |
 | Axis Mundi / Axismund | RC-731 | ← conecta-se-por |
 
-## Blindagem científica e histórica
+## Observações
 
 O portal interdimensional é elemento da cosmologia de Ellam. Não há afirmação de comprovação física da Bifrost. Sua leitura como tecnologia de trânsito entre universos é **Teologia Comparada de Ellam**, não consenso da mitologia nórdica nem resultado estabelecido da física.
 

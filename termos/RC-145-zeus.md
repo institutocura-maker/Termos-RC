@@ -18,7 +18,7 @@ atualizado = "2026-08-29"
 ## Contexto / Origem
 Presente em B031 (glossário Raquyel) e nas obras primárias B020 *O Sorriso de Pandora* e B021 *Tempos Difíceis no Olimpo* (versão canônica de Ellam). No B087 (psicografia de Jeane Miranda — versão paralela), Zeus domina o Olimpo pela "lei do mais forte": "Ele podia e fazia o que queria, e usava quem ele quisesse para qualquer fim" (p. 16); "parecido com o Criador dos dois universos desta Obra" (p. 20 — o paralelo explícito com o Criador); ordena aos doze deuses os "dons funestos" que transformam Pandora ("Quero que cada um de vocês escolha um 'dom funesto'... transformando-o num corpo com aparência feminina", p. 33); entrega a caixa-armadilha ("todo o bom pai deve, no casamento da sua filha, dar-lhe uma prenda", p. 51). A guerra contra os titãs e o aprisionamento no tártaro: p. 57–58 (notas p. 61).
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Zeus
 - **Variações:** "deus do Olimpo"; "chefe dos deuses" (nota — Hesíodo, "Teogonia"; "Hinos Homéricos")
 - **Obs.:** na nota mitológica da ed. 2022 do B087: "o 'deus dos céus', que mantêm a ordem e a justiça"

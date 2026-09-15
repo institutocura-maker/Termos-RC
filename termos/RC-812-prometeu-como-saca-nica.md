@@ -18,7 +18,7 @@ Tese (leitura do autor, palestra **P2017-05-14**, U0004) de que **Prometeu (RC-3
 ## Contexto / Origem
 Aparece em **P2017-05-14**, U0004. Contexto: a relação Prometeu-Zeus é de "rinha" — Prometeu, sendo "mais inteligente que Zeus", sacaneia os olímpicos sistematicamente. Zeus "não podia fazer nada com ele, porque Zeus precisava de Prometeu, porque só prometeu entre os titães e efestos entre os sabiam construir as coisas, sabiam resolver certos problemas, eram os dois cientistas". **O "presente funesto" (Pandora) foi a vingança de Zeus contra Prometeu** — mas acabou desviando a rota.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Prometeu como Saca-Nica dos Olímpicos
 - **Variações STT capturadas:** "sacanear", "piada", "saca-nica", "rinha entre os titãs"
 - **Idioma de origem:** Português

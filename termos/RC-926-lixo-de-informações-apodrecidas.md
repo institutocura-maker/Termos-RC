@@ -20,10 +20,9 @@ Lixo de Informações Apodrecidas — conceito desenvolvido na palestra «O Reci
 **Fonte:** palestra «O Reciclador das Informações Universais a Limpeza da Criação» (18/11/2023).
 **Trecho verbatim:** «A gente poderia dizer o fosso ou o lixo de informações apodrecidas, um dia caídas da espiritualidade em um ambiente e todas essas informações precisam ser recicladas para que esse ambiente se limpe.»
 
-## Relações
+## Termos Relacionados
 - RC-722 (Dignidade)
 - RC-901 (Domínios de Morfeu)
-## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
 | Dignidade como Critério de Consciência | RC-722 | associado |

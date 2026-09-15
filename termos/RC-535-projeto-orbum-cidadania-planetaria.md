@@ -18,7 +18,7 @@ atualizado = "2026-09-05"
 ## Contexto / Origem
 O Manifesto do Projeto Orbum (B042, pp. 226–228) convida à "filiação espiritual" à ideia da cidadania planetária, com o site www.orbum.org. É a expressão prática/ética da Revelação Cósmica: a consciência de que somos cidadãos cósmicos exercendo uma cidadania planetária, e que a reintegração da Terra à convivência com as demais civilizações passa pelo despertar dessa consciência.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Projeto Orbum
 - **Variações:** Orbum; Cidadania Planetária (movimento); Declaração dos Princípios da Cidadania Planetária (manifesto)
 - **Obs.:** não confundir com o planeta **Orbum** (RC-085) — o Projeto é o movimento derivado

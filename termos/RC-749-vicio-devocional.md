@@ -65,7 +65,7 @@ Mecanismo cármico/ético central da Revelação Cósmica: o condicionamento dev
 | Westworld como Metáfora | RC-915 | associado |
 | O Banquete Metafórico | RC-916 | associado |
 
-## Blindagem epistemológica
+## Observações
 
 O número de "7 bilhões" e a universalidade do mecanismo são **afirmação de Ellam**, não estatística validada. "Marcado no DNA" é uso metafórico-próprio da RC, não descoberta genética. O verbete descreve a leitura crítica do autor sobre a devoção religiosa; não constitui juízo sobre religiões como instituições históricas nem endossa generalizações.
 

@@ -18,7 +18,7 @@ Tese (leitura do autor, **mediúnica literal de Pandora**, palestra **P2025-04-0
 ## Contexto / Origem
 Aparece em **P2025-04-06**, U0005. **Fonte mediúnica literal**: o autor cita uma mensagem de Pandora dita através dele. Contexto: depois de diagnosticar a "lamúria dos deuses" (RC-791), Prometeu cria o "fogo" (racionalidade + dignidade + inconformismo) e o entrega à humanidade via Pandora. Mas as religiões impositivas (RC-105) reescreveram a história e o fogo se apagou.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Fogo que se Apaga (Fogo de Prometeu Hoje)
 - **Variações STT capturadas:** "fogo", "fogo que não se observa mais", "fogo que se apagou", "acender o fogo"
 - **Idioma de origem:** Português + grego (πῦρ "pyr" = "fogo" + μῦθος "mythos" = mito de Prometeu)

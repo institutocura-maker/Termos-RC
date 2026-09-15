@@ -18,7 +18,7 @@ Texto gnóstico que apresenta Judas sob leitura distinta da tradição canônica
 ## Contexto / Origem
 Extraído da 3ª Edição dos Estagiários do Kaos.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - Forma preferida: **Evangelho de Judas**.
 
 

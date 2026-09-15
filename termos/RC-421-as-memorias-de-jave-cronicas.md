@@ -18,7 +18,7 @@ atualizado = "2026-08-13"
 ## Contexto / Origem
 O livro é a sequência natural de *Cartas a Javé* (B034) e do *Favor Divino* (B048): após permitir que Javé respondesse às cartas de Mônica Camargo, Ellam passou a registrar as comunicações do Criador. A obra revela o **"Ser-Criador fracassado"** (RC-422), o processo de humanização de Javé, a linhagem dos escolhidos (RC-424) e o confronto com Krishna/Keshava (RC-425).
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** As Memórias de Javé
 - **Variações:** Memórias de Javé; crônicas de Javé; as três partes de crônicas (espontâneas / nem tanto / forçadas)
 

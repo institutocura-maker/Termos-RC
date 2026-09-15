@@ -18,7 +18,7 @@ O "monstro ciberenergético" — programador genético que opera em nível atôm
 ## Contexto / Origem
 Criado por autorização excepcional do curador (Devolutiva Trilogia TALM, O-3 — RC-772) a partir do material ART-2025-08-03 (Dossiê Fenvans).
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - Grafia preferida: Morlens. Variações: "monstro ciberenergético".
 
 ## Ampliação

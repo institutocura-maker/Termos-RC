@@ -18,7 +18,7 @@ Tese (leitura do autor, palestra **P2019-04-14**, U0003) de que **Mahatma Magant
 ## Contexto / Origem
 Aparece em **P2019-04-14**, U0003. Contexto: a palestra explica que a **libertação** da humanidade da alimentação demoníaca está sendo liderada por **Mahatma Magant** — "o espírito do Mahatma Magant está à frente desse processo na espiritualidade". A libertação envolve **aprender a gerar do campo quântico** (e não do cadáver alheio) — "um dia a gente tem que criar no seio desse universo um modo de vida que não roube, que não se aproprie, que aprenda a gerar do campo quântico e não do cadáver alheio". O nome é uma **corruptela STT** — provavelmente "Mahatma" + "Gandhi" misturados, ou "Magant" como forma própria do autor.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Mahatma Magant como Libertador da Alimentação Demoníaca
 - **Variações STT capturadas:** "Mahatma Magant", "Magant", "Mahatma"
 - **Idioma de origem:** Sânscrito (Mahatma = "Grande Alma") + Português

@@ -18,7 +18,7 @@ O Quarto Logos se chama **"Olm"**, mais conhecido como o **Codificador de Zian (
 ## Contexto / Origem
 A partir de 1989 passou a operar o Quarto Logos, substituindo os 3 primeiros Logos (que foram operativos até então). É tema do livro *O Quarto Logus* (2017) e conecta-se à nova fase da humanidade.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Quarto Logos
 - **Variações:** Olm; Codificador de Zian (Zion); Quarto Logus (grafia do título do livro de Ellam)
 

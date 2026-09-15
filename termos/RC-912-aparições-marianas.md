@@ -20,10 +20,9 @@ Aparições Marianas — conceito desenvolvido na palestra «Delírio Humano a I
 **Fonte:** palestra «Delírio Humano a Insensatez Espiritual da Busca Religiosa» (15/10/2023).
 **Trecho verbatim:** «A participação de Maria em todas as aparições marianas até hoje é zero. Tudo isso é produzido por uma série de outras questões.»
 
-## Relações
+## Termos Relacionados
 - RC-722 (Dignidade)
 - RC-749 (Vício Devocional)
-## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
 | Dignidade como Critério de Consciência | RC-722 | associado |

@@ -18,7 +18,7 @@ atualizado = "2026-08-13"
 ## Contexto / Origem
 No cap. 16, Ellam apresenta a epigenética como "uma nova e importante Ciência" que traz "mais desconforto e perguntas inquietantes do que as tão esperadas respostas". O conceito dialoga com RC-217 (DNA como projeção holográfica do psiquismo do Criador), com o Ex-DNA-lixo (RC-542) e com o CFD (RC-040). A herança espiritual se expressaria no epigenoma humano, permitindo a "evolução possível" guiada pela consciência.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Espelho da Herança Espiritual no Epigenoma
 - **Variações:** "Espelho da Herança Espiritual" no Epigenoma Humano (cap. 16); epigenética
 - **Obs.:** conceito que cruza ciência (epigenoma) e doutrina RC (herança espiritual/consciencial)

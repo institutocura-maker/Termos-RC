@@ -18,7 +18,7 @@ Revelação de Olm (B016, cap. 5): **"O espiritismo, adrede engendrado para ser 
 ## Contexto / Origem
 A afirmação integra a "Mensagem do Codificador de Zion": "Se antes a intenção era a codificação de uma disciplina esclarecedora... e a busca da verdade, pela necessidade da decifração do contexto problemático no qual todos estamos inseridos, não pode ser substituída pela fé, que deveria ser tão somente um estágio na evolução desta humanidade". No cap. 2 (Reconceituar), Ellam explica que o "espírito de Kardec" está "procurando fazer a parte que lhe cabe, que é a de reconceituar certas questões da 'Revelação Espiritual'" para adequá-la às novas percepções.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Espiritismo como Expressão do Quarto Logos
 - **Variações:** espiritismo = expressão do Quarto Logos; o espiritismo e o Quarto Logos; "espírito de Kardec" (reconceituação)
 

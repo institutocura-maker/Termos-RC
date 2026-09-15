@@ -18,7 +18,7 @@ Emergência futura de nova capacidade humana, atrelada a novo modo de expressão
 ## Contexto / Origem
 A palestra remete a explicações anteriores e o associa diretamente à Superconsciência.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - Grafia preferida: Quarto Cérebro Humano.
 - **Fonte de decisão:** Quadro 9 aprovado pelo curador.
 

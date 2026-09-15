@@ -18,7 +18,7 @@ Tese (leitura do autor, palestra **P2017-05-14**, U0001) de que **cada espécie 
 ## Contexto / Origem
 Aparece em **P2017-05-14**, U0001 (abertura). Contexto: o autor abre a palestra explicando o conceito de "padrão de consciência" por espécie como base para entender o "desvio" de Pandora — que **rompe o lacre** da programação.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Padrão de Consciência Genético por Espécie
 - **Variações STT capturadas:** "padrão de consciência", "programação genética", "lacre genético"
 - **Idioma de origem:** Português

@@ -18,7 +18,7 @@ atualizado = "2026-09-12"
 ## Contexto / Origem
 O diagrama (B051) apresenta os três "nomes completos" Adhy da Trimurti: **ADHYPRABRAJNA** (→ Brahma), **ADHYMAVATANA** (→ Vishnu) e **ADHYSAVNA** (→ Shiva) — paralelos a Adhyshprabrajna (RC-310, do B022). A cadeia de Vishnu registrada: ADHYMAVATANA → Vishnu → **Mohen So** → **Sophia** → **Jesus** — confirmando a linha do B014 (Sophia = avatar indireto de Vishnu via Mohen So).
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** ADHYMAVATANA
 - **Variações:** Adhy-Mavatana; Mavatna (forma usada no corpus); Vishnu (expressão Adhydaiva)
 - **Origem:** composto RC (Adhy + Mavatna)

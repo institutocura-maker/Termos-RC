@@ -18,7 +18,7 @@ A **"Árvore da Vida"** é um dos símbolos cabalísticos fundamentais — um "d
 ## Contexto / Origem
 Na leitura de B013, a Cabala surgiu como **reação de Javé ao gnosticismo** (séc. II d.C.): Javé "decidiu ofertar, ao conhecimento judeu, uma descrição sobre a extensão do seu 'império além-mundo'" utilizando "a metáfora do que passou a ser conhecido como a 'Árvore da Vida' e as 'Sefiroth'". As três principais Sefirot ("Emanações ou Manifestações Fenomênicas de Deus") foram projetadas a partir de Atziluth.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Sefirot / Árvore da Vida
 - **Variações:** Sefiroth; Árvore da Vida; dez Emanações da Divindade; Doutrina das Emanações das Sefiroth
 - **Idioma de origem:** hebraico (ספירות = emanações/números)

@@ -50,12 +50,6 @@ Crítica, na palestra, à distância entre a crença numa providência cuidadora
 | Abismo da Consciência Cósmica | RC-721 | ← manifesta-se-em |
 | Abismo da Consciência Cósmica | RC-721 | ← relaciona-se-a |
 
-## Fontes
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2024-11-09 | U0526–U0615; U0800–U0895; U1000–U1070 | palestra/STT |
-
-## Relações centrais
 
 - Deus / Deus Incognoscível — RC-052;
 - Pai Supremo — RC-205;
@@ -64,7 +58,12 @@ Crítica, na palestra, à distância entre a crença numa providência cuidadora
 - Autismo Funcional dos Seres Superiores — RC-605;
 - Abismo da Consciência — RC-721.
 
-## Blindagem epistemológica
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2024-11-09 | U0526–U0615; U0800–U0895; U1000–U1070 | palestra/STT |
+
+## Observações
 A ficha registra a posição filosófico-cosmológica da palestra. Não afirma como fato que não exista providência, divindade ou experiência espiritual.
 
 

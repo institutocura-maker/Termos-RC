@@ -48,7 +48,7 @@ Conjunto basilar de **sete princípios** que, na cosmovisão apresentada por Jan
 | Postulados Quânticos como Manual Operativo | RC-703 | relaciona-se-a |
 | As Três Escalas da Consciência (Sábio → Mago → Iniciado) | RC-762 | relaciona-se-a |
 
-## Blindagem epistemológica — QUARENTENA
+## Observações
 
 - As sete leis são **compilação atribuída a Thot** no hermetismo — registro doutrinário da RC, não leis físicas validadas;
 - A associação com a física quântica é **leitura do autor** (quarentena científica);

@@ -18,7 +18,7 @@ Primeiras formas de vida plasmática do universo antimaterial, derivadas da orga
 ## Contexto / Origem
 São apresentadas como primeira face ressuscitada de Javé no universo vizinho.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - Grafia: Protozoários Antimateriais / Antiprotozoários.
 
 

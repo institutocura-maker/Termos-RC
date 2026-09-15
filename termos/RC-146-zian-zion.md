@@ -18,7 +18,7 @@ atualizado = "2026-09-12"
 ## Contexto / Origem
 Termo do universo capelino da RC (glossário B031; também B061). No B057, o planeta aparece sempre na grafia **Zion**: o Codificador é "o Mestre Codificador de Zion" que "tinha vindo com Sophia para este nosso lado do universo" (p. 27); a nota de fim do capítulo 3 (p. 30) descreve a escola. A grafia "Zian" consta da tabela-mestra como variante canônica do mesmo planeta (RC-092 traz "Codificador de Zian" no nome).
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Zian (Zion)
 - **Variações:** **Zion** (grafia usada em todo o B057); "planeta Zion"
 - **Obs.:** RC-092 (Quarto Logos / Olm / Codificador de Zian) e RC-252 (Olm, Codificador de Zion/Zian) são os seres; RC-146 é o **planeta/escola**

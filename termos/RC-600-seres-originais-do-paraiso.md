@@ -18,7 +18,7 @@ Família/espécie primordial do Paraíso Original, anterior à diferenciação e
 ## Contexto / Origem
 Seus movimentos de consciência teriam gerado porções da incompletude e, posteriormente, níveis laboratoriais.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - Grafia preferida: Seres Originais do Paraíso. Variação: família original.
 - **Fonte de decisão:** Quadro 9 aprovado pelo curador.
 

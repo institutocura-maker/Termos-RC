@@ -18,7 +18,7 @@ Postura cognitiva e espiritual em que o ser humano não apenas percebe e reage, 
 ## Contexto / Origem
 A palestra abre distinguindo quem busca e percebe de quem apenas recebe concepções prontas. O “protocolo da busca” funciona como chave epistemológica para a leitura de 2012 e de toda informação religiosa ou cósmica.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - Grafia preferida: Protocolo da Busca. Expressão própria usada literalmente na palestra.
 - **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
 

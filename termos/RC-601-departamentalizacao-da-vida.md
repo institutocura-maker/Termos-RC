@@ -18,7 +18,7 @@ Separação do fenômeno da vida em camadas, faixas e departamentos vibratórios
 ## Contexto / Origem
 A departamentalização permitiria experiências intramuros, limitando a exportação direta do que é vivenciado em cada nível.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - Expressão literal: Departamentalização da Vida.
 - **Fonte de decisão:** Quadro 9 aprovado pelo curador.
 

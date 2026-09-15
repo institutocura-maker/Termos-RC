@@ -82,7 +82,7 @@ Na RC, a **mistura genética entre anunnaki (RC-024) e humanos** — reinterpret
 | Nefilins (= Anunnaki) | RC-488 | relaciona-se-a |
 | Igigi | RC-580 | ← envolve |
 
-## Blindagem
+## Observações
 
 Reinterpretação dos Nefilins como hibridização é **leitura do autor** — não é genética validada nem exegese bíblica acadêmica.
 

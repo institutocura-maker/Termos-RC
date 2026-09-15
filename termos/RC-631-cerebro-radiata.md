@@ -18,7 +18,7 @@ Cérebro biodemo/radiata de um hemisfério atribuído a Sophia, contraposto ao c
 ## Contexto / Origem
 A hipótese de reparo por organoides parte desta arquitetura cerebral.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - Grafia: Cérebro Radiata.
 
 

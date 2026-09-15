@@ -18,7 +18,7 @@ atualizado = "2026-08-29"
 ## Contexto / Origem
 Termo do universo capelino da RC (glossário B031; presente também em B058). No B057: "Nasci no longínquo sistema solar de Capela. **Fui urdido numa grande nave-laboratório, como os demais membros das famílias de capelinos que também existiam por lá**" (p. 15); e "levei-as para o conhecimento dos **seres que administravam o mundo chamado 'Dan', no qual eu nasci**, e todos levaram um grande susto e não conseguiram responder-me a nenhuma delas" (p. 27). A urdidura em nave-laboratório (em vez de nascimento planetário comum) é traço distintivo da narrativa psicografada.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Dan
 - **Variações:** "mundo chamado 'Dan'" (B057)
 - **Obs.:** não confundir com **Danu** (mitologia celta) nem com outros "Dan" da malha — aqui é o mundo capelino de urdidura

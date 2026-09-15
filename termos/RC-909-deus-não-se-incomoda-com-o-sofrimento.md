@@ -20,10 +20,9 @@ Deus Não Se Incomoda com o Sofrimento — conceito desenvolvido na palestra «D
 **Fonte:** palestra «Delírio Humano a Insensatez Espiritual da Busca Religiosa» (15/10/2023).
 **Trecho verbatim:** «A trágica pergunta é: por que que Deus não se incomoda com sofrimento dos seres de Deus?»
 
-## Relações
+## Termos Relacionados
 - RC-722 (Dignidade)
 - RC-749 (Vício Devocional)
-## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
 | Dignidade como Critério de Consciência | RC-722 | associado |

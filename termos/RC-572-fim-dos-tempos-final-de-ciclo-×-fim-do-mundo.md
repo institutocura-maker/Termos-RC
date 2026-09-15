@@ -18,7 +18,7 @@ Distinção entre o encerramento de uma época, ciclo ou regime temporal e a des
 ## Contexto / Origem
 A palestra critica a transformação de calendários cíclicos e tradições antigas em anúncios modernos de fim do mundo.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - Grafia preferida: Fim dos Tempos / Final de Ciclo × Fim do Mundo.
 - **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
 

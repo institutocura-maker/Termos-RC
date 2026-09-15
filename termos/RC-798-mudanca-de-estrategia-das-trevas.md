@@ -18,7 +18,7 @@ Tese (leitura do autor, palestra **P2018-02-24**, U0004) de que **depois de 2 de
 ## Contexto / Origem
 Aparece em **P2018-02-24**, U0004. Contexto: a "estratégia antiga" das trevas era centralizar o mal em impérios/famílias. Depois de 2 avatares bem-sucedidos (Moisés, Krishna), a estratégia **inverteu** — o mal foi espalhado em todos os corações humanos, de modo que "se a luz quisesse destruir aquele DNA, aquela semente do mal, teria que destruir toda a humanidade".
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Mudança de Estratégia das Trevas (Centralizar → Espalhar)
 - **Variações STT capturadas:** "mudança de estratégia", "espalharam o mal", "centralizar o poder"
 - **Idioma de origem:** Português

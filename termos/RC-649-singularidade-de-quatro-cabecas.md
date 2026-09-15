@@ -18,7 +18,7 @@ Ser composto pelas três forças da Trimurti e uma cabeça livre, associado a Mo
 ## Contexto / Origem
 Extraído da live P2025-10-25 — 2ª Edição Estagiários do Kaos.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - Forma preferida: **Singularidade de Quatro Cabeças**.
 
 

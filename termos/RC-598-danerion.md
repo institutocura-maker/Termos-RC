@@ -18,7 +18,7 @@ Um dos cinco Archeons de Ereon, ligado ao desenvolvimento das artes criativas de
 ## Contexto / Origem
 Aparece na sequência Antérion–Danérion–Mermérion, anterior ao surgimento de Perpérion e Tempérion.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - Grafia canônica: Danérion. STT: Danerium, Danério, Danéon, Danon.
 - **Fonte de decisão:** Quadro 9 aprovado pelo curador.
 

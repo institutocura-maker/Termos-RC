@@ -18,7 +18,7 @@ Formas espirituais dos seres Adhy mencionadas em *Inquisição Trimurtiana* (B02
 ## Contexto / Origem
 Na Introdução do B022, Ellam conversa com as formas Adhyagya de Vishnu e Shiva, que o instruem sobre a Criação Bipartida, a queda de Adhyshprabrajna e o drama da Trimurti. O termo conecta-se à taxonomia Adhy: Adhyagia (RC-012, condição da alma pura), Adhyatman (RC-013, corpo causal), Adhydaiva (RC-014, formas caídas), Adhyajna (RC-016, avatares) — e agora **Adhyagya** como as formas espirituais/consciências que respondem pelas expressões Adhydaiva.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Adhyagya
 - **Variações:** formas Adhyagya; espíritos Adhy (formas espirituais); distingue-se de Adhyagia (RC-012): condição × formas (P5c)
 - **Origem:** composto RC (Adhy + agya/agia)

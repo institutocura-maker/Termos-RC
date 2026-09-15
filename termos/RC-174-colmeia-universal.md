@@ -18,7 +18,7 @@ A "Colmeia Universal" é a **forma-modelo** de como **Javé — o criador univer
 ## Contexto / Origem
 Termo-título da obra *A Divina Colmeia: A Trimurti Desencantada* (B044, 2019), que é "a descrição da 'forma-modelo' jamais compreendida de como Javé se relaciona com suas criaturas". A metáfora da colmeia percorre toda a obra: Javé = abelha-rainha; anjos-clones, demos, biodemos e seres biológicos = operárias; os dois universos = favos. O livro mostra a "aposentadoria" de Javé da função de abelha-rainha e o cenário final em que as "abelhas-rainhas aprenderão também a servir a propósitos nobres".
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Colmeia Universal
 - **Variações:** Colmeia (geral); Colmeia Trimurtina (a colmeia original do universo demo); a "Colmeia" de Javé
 

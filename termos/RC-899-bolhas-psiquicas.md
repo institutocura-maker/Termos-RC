@@ -23,11 +23,10 @@ Conceito desenvolvido na palestra «A Teia da Vida e o Circuito Oculto dos Deuse
 **Fonte:** palestra «A Teia da Vida e o Circuito Oculto dos Deuses» (13/01/2024).
 **Trecho verbatim:** «O autor propõe que a humanidade vive em uma realidade simulada, onde o sofrimento e os vícios emocionais geram bolhas psíquicas e realidades paralelas simultâneas que aprisionam a consciência.»
 
-## Relações
+## Termos Relacionados
 - RC-559 (Teia Quântica) — o sistema que organiza as bolhas
 - RC-628 (Simultaneidade Reversa) — a simultaneidade das realidades
 - RC-557 (Conectoma) — os padrões mentais que geram as bolhas
-## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
 | Conectoma humano (pulsações sinápticas e a sensação de eu) | RC-557 | associado |

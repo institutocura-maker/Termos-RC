@@ -18,7 +18,7 @@ Coletivo de entidades criadoras de origem hebraica, reinterpretado nas Revelaç�
 ## Contexto / Origem
 Termo do Antigo Testamento (plural de *Eloah*) reapropriado pela literatura ufológica e espiritualista. No corpus de Ellam, aparece associado aos Elohim da tradição — a relação exata com Javé e com a criação da humanidade precisa ser confirmada nas fontes.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Elohim
 - **Variações:** Elohins (verificar)
 - **Idioma de origem:** Hebraico (אֱלֹהִים)

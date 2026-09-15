@@ -72,7 +72,7 @@ Na RC, metáfora do **sistema colmeico de comando** — o modelo em que um coman
 | Modelo Colmeia (Sistema/Controle Colmeia) | RC-176 | relaciona-se-a |
 | Relógio Messiânico | RC-765 | relaciona-se-a |
 
-## Blindagem
+## Observações
 
 Metáfora de comando — **leitura do autor**, não zoologia social validada.
 

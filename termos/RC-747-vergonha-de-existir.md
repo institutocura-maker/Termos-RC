@@ -42,7 +42,7 @@ Conceito ético-evolutivo interno da Revelação Cósmica: um **genótipo** (na 
 | Dignidade como Critério de Consciência | RC-722 | relaciona-se-a |
 | Dessensibilização da Condição Humana | RC-746 | ← relaciona-se-a |
 
-## Blindagem epistemológica
+## Observações
 
 "Genótipo" e "vergonha de existir" são **uso metafórico-próprio de Ellam**, não conceito da genética científica. O registro descreve a ética interna do autor (freio contra indignidade); não constitui diagnóstico, autoavaliação clínica nem prescrição. O incômodo é apresentado pelo autor como pessoal e intransferível, não como modelo a ser imitado ("não faça isso não, porque dói para cacete").
 

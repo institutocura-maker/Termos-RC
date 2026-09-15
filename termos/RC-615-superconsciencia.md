@@ -18,7 +18,7 @@ Novo modo de expressão da consciência humana associado ao Quarto Cérebro, ao 
 ## Contexto / Origem
 É apresentado como marco de encerramento do ciclo anterior e início de nova convivência cósmica.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - Grafia preferida: Superconsciência.
 - **Fonte de decisão:** Quadro 9 aprovado pelo curador.
 

@@ -18,7 +18,7 @@ Revelação atribuída a Orunmilá sobre destinos que precisam ser cumpridos pel
 ## Contexto / Origem
 Extraído da live P2025-10-25 — 2ª Edição Estagiários do Kaos.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - Forma preferida: **Revelação de Ifá e Destinação dos Seres**.
 
 

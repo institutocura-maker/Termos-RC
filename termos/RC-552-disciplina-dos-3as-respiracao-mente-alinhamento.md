@@ -18,7 +18,7 @@ atualizado = "2026-08-13"
 ## Contexto / Origem
 Ellam relata que os "3As" tornaram-se "a mais preciosa" das práticas do seu cotidiano. A disciplina prepara a mente para a "vivência interior" e para a gestão dos arquivos mentais — condições para o despertar espiritual e a autorrealização.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Disciplina dos 3As
 - **Variações:** "os 3As"; "Aprofundar a respiração; Acalmar a mente; Alinhar-se consigo mesmo"
 - **Obs.:** não confundir com outras siglas "3A" da base (nenhuma conflita)

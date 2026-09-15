@@ -18,7 +18,7 @@ Consciência espiritual **particularizada** — também denominada "espírito" o
 ## Contexto / Origem
 A doutrina espírita explica que todos os espíritos foram criados simples e ignorantes e evoluem conforme os mundos onde cada mônada se situa — "até se tornar hominal" (racionalização). As mônadas originalmente imantadas a vegetais e animais irracionais encontram-se hoje, em muitos casos, encarnadas na condição humana. A mônada espiritual distingue-se dos **Seres Extrafísicos** (anjos clones, demos), que nada têm a ver com as consciências espirituais particularizadas.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Mônada
 - **Variações:** mônada espiritual; alma; espírito; consciência espiritual particularizada; protoconsciência particularizada
 - **Origem:** do grego *monas* (unidade) — usado por Leibniz; nas RC equivale ao espírito/alma individual

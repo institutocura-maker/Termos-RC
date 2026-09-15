@@ -18,7 +18,7 @@ atualizado = "2026-08-12"
 ## Contexto / Origem
 Um dos dois universos paralelos resultantes da queda do Criador. É o cenário dos seres biológicos: biodemos, extraterrestres biológicos e seres terrenos (humanos).
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Universo Material
 - **Variações:** Bhuloka (sânscrito); nosso universo; universo biológico
 

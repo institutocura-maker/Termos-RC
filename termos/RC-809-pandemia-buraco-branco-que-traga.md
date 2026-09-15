@@ -18,7 +18,7 @@ Tese (leitura do autor, palestra **P2017-05-14**, U0002) de que **Javé (RC-001)
 ## Contexto / Origem
 Aparece em **P2017-05-14**, U0002. Contexto: depois de criar os dois universos (matéria + antimatéria), Javé (RC-001) usou sua "cundaline [kundalini] pessoal" e "prana" para moldar o universo — mas **o universo criado começou a tragar Javé de volta** (como um buraco negro traga matéria). O "corpo mental" de Javé caiu, e ele passou 500 milhões de anos se reconstruindo.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Pandemia de Buraco Branco que Traga (Javé Tragado pela Criação)
 - **Variações STT capturadas:** "buraco branco", "buraco negro", "tragado", "criação tragou"
 - **Idioma de origem:** Português (com termos astrofísicos: buraco negro, buraco branco)

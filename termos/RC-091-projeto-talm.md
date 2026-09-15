@@ -18,7 +18,7 @@ Nome do projeto de **transferência do código de vida ("DNA") do Criador "caíd
 ## Contexto / Origem
 O Projeto Talm é o elo entre o universo demo (antimaterial) e o universo biológico: explica a origem da vida biológica como "transferência de código" do Criador caído. Está associado à **Mensagem Talm** (RC-080), deixada pelos Fenvans para as gerações futuras.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Projeto Talm
 - **Variações:** semeadura da vida biológica; projeto de transferência do código de vida
 

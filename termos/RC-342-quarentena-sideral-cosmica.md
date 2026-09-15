@@ -18,7 +18,7 @@ A **quarentena sideral/cósmica** é o isolamento imposto à Terra (e aos demais
 ## Contexto / Origem
 A quarentena foi decretada "a fim de que a loucura do orgulho de Lúcifer não perturbasse a paz de espírito daqueles que nos mundos que permaneceram ao lado do Mestre... foi decretada uma espécie de quarentena que isolava pelo tempo que fosse necessário os mundos rebeldes do intercâmbio cósmico". "O conjunto dos mundos rebelados passou a ser uma espécie de **ilha cósmica**" (RC-353). A quarentena termina com a **Reintegração Cósmica** (RC-003), preparada pela **Transição Planetária** (RC-344). É o termo da 1ª fase do pensamento de Ellam (1999) para o conceito depois consolidado como Isolamento Cósmico.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Quarentena Sideral / Cósmica
 - **Variações:** quarentena sideral; quarentena cósmica; isolamento da Terra; ilha cósmica (mundos rebelados)
 - **Obs.:** termo da trilogia "Queda e Ascensão Espiritual" (1999–2000); equivalente ao Isolamento Cósmico (RC-070) das obras posteriores.

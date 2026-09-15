@@ -19,7 +19,7 @@ Forno replicador de vida do **Projeto Talm** (RC-091) sob o controle de **Vishnu
 - Candidato ⚪ desde a mineração de B061 (sem ficha física);
 - **promovido a 🟡 com ficha física** pela Devolutiva ART-2025-08-01 (O-2/O-4): o STT "forno de **Alamaior**" (P2021-12-04, U0621) foi confirmado como corrupção fonética de **Awaymaion** — o contexto da fala ("produzir espécies... os biodemos") bate exatamente com a função do forno de Vishnu.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - Grafia preferida: Awaymaion. STT: "Alamaior"/"Almaior" (RC-500 — erro de STT, remissão para cá).
 
 ## Ampliação

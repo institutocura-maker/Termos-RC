@@ -18,7 +18,7 @@ Teia germânico-nórdica de destino, causalidade e retorno das informações, or
 ## Contexto / Origem
 P2025-06-26 — 1ª Edição Estagiários do Kaos.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 Forma preferida: **Wyrd / Urd (Teia do Destino)**.
 
 ## Fusão WD → Wyrd (decisão do curador, 2026-08-18)

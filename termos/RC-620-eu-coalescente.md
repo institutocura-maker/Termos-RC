@@ -18,7 +18,7 @@ Tipo de Eu Mental dignificado que possui autoridade moral e vibratória para sin
 ## Contexto / Origem
 É apresentado como solução teórica para personalidades passadas mal resolvidas. Não é idêntico ao eu espiritual nem ao eu humano transitório; integra os efeitos do fatiamento de consciência.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - Grafia preferida: Eu Coalescente. Processo associado: coalescência dos eus, absorvido nesta ficha.
 - **Fonte da decisão:** Devolutiva-01 + observação direta do curador.
 

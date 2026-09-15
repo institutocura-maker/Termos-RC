@@ -21,7 +21,7 @@ Aparece em **P2018-10-06**, U0004, no contexto da **sequência formativa** (Pand
 - **RC-785** (Sequência Formativa da Racionalidade Humana) — a cadeia completa
 - **RC-611** (Flechas/Profecias de Moros) — paralelo do "momento zero da criação" em sentido mais amplo
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Momento Zero de Pandora
 - **Variações STT capturadas:** "ponto zero", "inflexão cósmica", "destrave"
 - **Idioma de origem:** Português + "momento zero" como terminologia técnica (Big Bang, momento zero)

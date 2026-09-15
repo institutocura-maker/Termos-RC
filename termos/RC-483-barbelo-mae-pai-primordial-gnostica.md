@@ -46,7 +46,7 @@ Na gnose, a **Mãe-Pai primordial** — no material RC, a Deidade imanente do Pl
 | Evangelho de Judas | RC-647 | ← relaciona-se-a |
 | A Raça Inabalável dos Sethianos Emancipados | RC-766 | ← relaciona-se-a |
 
-## Blindagem
+## Observações
 
 Pleroma/Barbelo e a "encomenda" dos setianos são **leitura do autor** (Teologia Comparada/gnose) — não é teologia validada.
 

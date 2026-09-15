@@ -20,7 +20,7 @@ Aparece na Aula 03 (fonte primária F044). Verbatim-chave:
 
 > «No dia em que Jesus foi preso pela turma do Sinédrio, era para prender toda a turma de Jesus. Pedro negou várias vezes. Foi quando Jesus percebeu que aqueles 11 apóstolos que ele havia escolhido lá da Galileia, porque o 12º, era Judas da Judeia...»
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Pedro
 - **Variações / grafias alternativas:** Pedro (apóstolo)
 - **Idioma de origem:** — (pessoa; grego «Petros» = pedra)
@@ -31,16 +31,15 @@ Aparece na Aula 03 (fonte primária F044). Verbatim-chave:
 | Jesus | RC-072 | associado |
 | Evangelho de Bartolomeu | RC-904 | associado |
 
+- Jesus — RC-072;
+- Apóstolos — RC-904.
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
 | P2023-12-25-03 | Aula 03 — Dias Difíceis: Crucificação e Ressurreição | transcrição; citação |
 
-## Relações centrais
-- Jesus — RC-072;
-- Apóstolos — RC-904.
-
-## Observação
+## Observações
 **Quarentena teológica** — a leitura da negação e do raio da perseguição é de Ellam. `relacoes/` blindado (0 arestas novas).
 
 ## Citações-chave

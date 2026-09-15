@@ -105,7 +105,7 @@ A via **institucional/prática** proposta pela narrativa de Ellam: uma escola �
 | IEEA (Instituto de Estudos Estratégicos e Alternativos) | RC-930 | veículo de disseminação (fila, sem ficha) |
 | Nuctemeron | RC-931 | repertório (fila, sem ficha) |
 
-## Blindagem epistemológica
+## Observações
 
 A "Escola da Decifração da Realidade" e o "método druídico" são **proposta/projeto de Ellam** (lançamento virtual), não instituição formal nem doutrina validada. As associações históricas (druidas, Tales, Pitágoras, Protágoras) são leitura do autor. O verbete registra a via prática proposta pela narrativa da RC, sem endossar a historicidade das reconstruções.
 ## Citações-chave

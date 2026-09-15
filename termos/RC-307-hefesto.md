@@ -18,7 +18,7 @@ atualizado = "2026-08-28"
 ## Contexto / Origem
 No B087 (psicografia de Jeane Miranda — versão paralela às obras primárias B020/B021): chamado por Zeus para "fazer o 'encerramento' daquelas 'prendas'" (p. 35); a mensagem mental: "ele obedeceria à ordem de Zeus, porém **deixaria que eu decidisse, em algum momento, se, de facto, gostaria de tornar-me um ser biológico humanoide, e quem decidiria isso seria eu e não Zeus. Esse foi o 'presente' que Hefesto me deu!**" (pp. 35–36); o último da fila na "Assembleia" (depois de Atena, a penúltima); coautor da caixa: "Zeus, **com a ajuda de Hefesto**, fez essa 'caixa' recheada com 'magias'" (p. 55). A nota mitológica da ed. 2022 (p. 36): "Hefesto foi responsável, entre outras obras, pelo escudo usado por Zeus, em sua batalha contra os titãs. Ele atuava como 'ferreiro dos deuses'."
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Hefesto
 - **Variações:** "Hefesto" (nota mitológica); deus do fogo e das habilidades técnicas (no mito clássico retomado na p. 13)
 - **Obs.:** no mito clássico (fonte Chalita, p. 13), Hefesto é quem **cria** a mulher perfeita a mando de Zeus — no B087, ele "encerra" a transformação de Pandora e a protege (a subversão do volume)

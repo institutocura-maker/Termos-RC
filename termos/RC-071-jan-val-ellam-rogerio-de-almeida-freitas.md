@@ -18,7 +18,7 @@ O **codificador e transmissor das Revelações Cósmicas** — o "recebedor" pel
 ## Contexto / Origem
 Autor das obras-primária e complementar que fundamentam a base. Na B031 (a obra fundadora), aparece como **prefaciador AUTORIZADO** (pp. 9–10 — Natal, 07/09/2020) e como centro do ecossistema de difusão ("Outros Canais", pp. 155–158). **QUARENTENA BIOGRÁFICA ATIVA** (decisão da esteira): a ficha registra a persona doutrinária — codificador/transmissor —, jamais a vida pessoal; relatos biográficos (NDE de Petrolina, o Programa do Jô, encarnações atribuídas) entram como leitura/registro, nunca como fato ontológico.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Jan Val Ellam
 - **Variações fundidas neste termo** (verificação de fidelidade B031, 2026-08-26): Val · Val El · Val Ellam · Jan Val Ellam — os nomes pessoais do glossário sem termo dedicado porque **já estavam fundidos aqui**
 - **Nome civil:** Rogério de Almeida Freitas = **RC-095** (termo separado, sem ficha)

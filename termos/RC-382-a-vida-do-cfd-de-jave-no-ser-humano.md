@@ -18,7 +18,7 @@ atualizado = "2026-08-12"
 ## Contexto / Origem
 O capítulo 10 de B041 conecta o CFD (RC-040) ao Favor Divino (RC-332): os humanos carregam o código de vida do Criador e, paradoxalmente, vivem suas próprias vidas transitórias enquanto contribuem para a "vida reconstrutiva" do Cocriador "caído". Ellam "briga" filosoficamente com Brahma, Vishnu e Shiva, dizendo que "eles 'faliram' e transferiram para nós uma responsabilidade que não é nossa" — as Divindades criaram criaturas-ferramentas e, depois, o livre-arbítrio para que espíritos "simples e ignorantes" pudessem se tornar "criaturas esclarecidas e potencialmente amorosas".
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** A Vida do CFD de Javé no Ser Humano
 - **Variações:** o CFD vivendo em nós; "a vida nos vive"; o código de vida do Criador no humano
 

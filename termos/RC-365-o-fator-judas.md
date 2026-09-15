@@ -18,7 +18,7 @@ O **papel estratégico de Judas** na missão de Jesus — o capítulo 2 do Livro
 ## Contexto / Origem
 O B011 (Jesus e o Enigma da Transfiguração) narra os fatos do período final da vida de Jesus pela voz de Tiago, Elias e Moisés (Livro de Tiago o Maior). O "Fator Judas" conecta-se ao "Calvário de um Inocente" (RC-236, B039) e à perspectiva de Yel Luzbel/Len Mion sobre a crucificação.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** O Fator Judas
 - **Variações:** Fator Judas; o papel de Judas; Judas Iscariotes (= Yel Am/Yel Liam, RC-138)
 

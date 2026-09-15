@@ -19,7 +19,7 @@ P2026-08-04 — Podcast Irmãos Dias #272 (aliens e a Bíblia).
 ## Contexto / Origem
 O Mistério da Árvore da Vida e a Urdidura de Metatron.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 Forma preferida: Os 366 Manuscritos de Enoque.
 
 

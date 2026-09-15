@@ -18,7 +18,7 @@ Tese (leitura do autor, palestra **P2019-05-11 — Pandora e os Desacertos dos P
 ## Contexto / Origem
 Aparece em **P2019-05-11**, U0005 (Q&A). Contexto: das 900 milhões de civilizações do cosmos, apenas uma minoria é capaz de construir "formação complexa" no campo da razão filosófica, emocional, do amor — e essa é a humanidade. **Sophia declara a humanidade como protetorado e manda embora "tudo que é pirata"**.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Sophia como Protetorado da Humanidade
 - **Variações STT capturadas:** "protetorado", "nossa protetorado", "Sofia declara humanidade como protetorado"
 - **Idioma de origem:** Português

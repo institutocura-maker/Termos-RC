@@ -18,7 +18,7 @@ Princípio pelo qual uma consciência criadora e sua criação permanecem ligada
 ## Contexto / Origem
 A palestra cria explicitamente o neologismo e o aplica à queda de Prabrajna, ao colapso de Javé, ao genoma e à responsabilidade cocriadora.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - Inclui como subtermos: vínculo indissolúvel criador–criação; compasso/descompasso; reversibilidade genética e cocriadora.
 
 

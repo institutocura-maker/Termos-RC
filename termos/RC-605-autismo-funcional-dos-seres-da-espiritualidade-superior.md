@@ -18,7 +18,7 @@ Analogia usada pelo palestrante para descrever seres quase perfeitos que funcion
 ## Contexto / Origem
 A analogia é aplicada a seres do Paraíso, da Operacional e da Laboratorial, com graus distintos de funcionalidade.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - Expressão preferida: Autismo Funcional dos Seres da Espiritualidade Superior.
 - **Fonte de decisão:** Quadro 9 aprovado pelo curador.
 

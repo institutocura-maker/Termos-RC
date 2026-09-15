@@ -18,7 +18,7 @@ A espécie humana na leitura da Revelação Cósmica: o ser terreno atual (Homo 
 ## Contexto / Origem
 O termo é o «nós» da narrativa: aparece em 21 fontes do censo, o que o torna um dos nós mais densos da Base. A RC trata o humano simultaneamente como criatura-ferramenta (RC-164) da Criação Indevida e como o agente do Tikun — a criatura capaz de produzir, com a sua própria experiência no caos, as informações que faltam ao Criador para se recompor. O Fim do Experimento Humano (RC-578) é o risco que paira sobre a espécie.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - Grafia preferida: Seres Terrenos
 - Variações: Homo sapiens; humano; humanidade terrestre
 - Uso na Base: 1.6 Figuras humanas (espécie, não indivíduo)
@@ -127,6 +127,11 @@ O termo é o «nós» da narrativa: aparece em 21 fontes do censo, o que o torna
 | Pulsação dos Elétrons Como Afetividade Humana | RC-832 | associado |
 | 13 Livros de Lúcifer com Humanos (Necessários Antes do Fim) | RC-833 | associado |
 
+- RC-042 — ver ficha correspondente
+- RC-056 — ver ficha correspondente
+- RC-107 — ver ficha correspondente
+- RC-578 — ver ficha correspondente
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
@@ -151,13 +156,7 @@ O termo é o «nós» da narrativa: aparece em 21 fontes do censo, o que o torna
 | P2024-11-30 | — | registro-mestre (fonte censada) |
 | P2024-11-09 | — | registro-mestre (fonte censada) |
 
-## Relações centrais
-- RC-042 — ver ficha correspondente
-- RC-056 — ver ficha correspondente
-- RC-107 — ver ficha correspondente
-- RC-578 — ver ficha correspondente
-
-## Observação
+## Observações
 Materialização de âncora estrutural do Volume IV (Antropogênese). Quarentena: a antropogênese da RC é leitura de Ellam e não substitui nem a biologia evolutiva nem a teologia das religiões.
 
 

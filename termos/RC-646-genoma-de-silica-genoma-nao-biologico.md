@@ -18,7 +18,7 @@ Código organizador não biológico de seres/sistemas de sílica, análogo funci
 ## Contexto / Origem
 Extraído da 3ª Edição dos Estagiários do Kaos.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - Forma preferida: **Genoma de Sílica / Genoma Não Biológico**.
 
 

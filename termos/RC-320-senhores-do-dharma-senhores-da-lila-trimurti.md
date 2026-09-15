@@ -18,7 +18,7 @@ Designação dos **seres da Trimurti (Brahma, Vishnu, Shiva) como os "Senhores d
 ## Contexto / Origem
 A equivalência Senhores do Dharma = Senhores da Lila = Trimurti consolida a leitura das RC: o dharma e a Lila são as duas faces do "jogo" de dominação dos três deuses. O B023 revela que o dharma/castas era "uma estranha disciplina existencial que havia sido criada para impor certa contrição de ordem educativa às diversas classes de 'demônios feito gente'".
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Senhores do Dharma
 - **Variações:** Senhores da Lila; Senhores da Trimurti; os três "deuses" do dharma
 - **Idioma de origem:** sânscrito (dharma) + português

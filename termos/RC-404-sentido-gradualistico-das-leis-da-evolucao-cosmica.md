@@ -18,7 +18,7 @@ O "Sentido Gradualístico das Leis da Evolução Cósmica" — anunciado no cap.
 ## Contexto / Origem
 O aviso espiritual que inaugura o B027 estabelece o programa: "Se é dado a cada tempo e lugar somente o que é permitido e possível ser percebido pela mentalidade da época, o aspecto maior há de ser sempre algo modificado para que se enquadre dentro do que pode ser percebido em outra circunstância." O Sentido Gradualístico é a base filosófica da **Reintegração Cósmica** (RC-003): preparar gradualmente o entendimento humano para o retorno ao convívio cósmico.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Sentido Gradualístico das Leis da Evolução Cósmica
 - **Variações:** Sentido Gradualístico; leis da evolução cósmica; gradualismo cósmico
 

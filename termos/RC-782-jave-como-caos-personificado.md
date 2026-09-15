@@ -18,7 +18,7 @@ Tese (leitura do autor, palestra **P2019-05-11 — Pandora e os Desacertos dos P
 ## Contexto / Origem
 Aparece em **P2019-05-11**, U0003, no contexto do **ovo cósmico de Brahman** que se partiu em Bramaloca (morada do deus) e Buloca (vidas biológicas rápidas). O ser que caiu na própria obra recebeu o epíteto de "caos" — não por desordem, mas por ser **a quintessência do pior**.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Javé como Caos Personificado
 - **Variações STT capturadas:** "caos", "Javé é o caos", "caos personificado"
 - **Idioma de origem:** Grego antigo (Χάος "chaos" = "abismo", "vazio", mas também epíteto pejorativo) + Hebreu (YHWH "Javé")

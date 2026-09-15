@@ -26,7 +26,7 @@ Figura do panteão anunnaki registrada na Base como **Inanna = Danu**: neta de *
 
 **Origem do conteúdo:** bloco 1–2 da palestra `P2021-05-15 — As Etnias Hiperbóreas e os Anunnakis` (U0003) e a resposta ao ouvinte em U0007/U0009. Transcrição automatizada, pré-curada; **não conferida com o áudio**.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 
 - **Na obra primária (B060):** *Inanna* (= *Danu*).
 - **Na fonte oral (P2021-05-15):** «Inana», «inan», «Nana», «Danana», «Danã», «toatas»/«tuatas» (= *tuatha*, "seguidores").

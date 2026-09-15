@@ -67,7 +67,7 @@ Na leitura comparada de Jan Val Ellam, Yggdrasil designa um conglomerado de nove
 | Centro Alquímico-Farmacopédico | RC-789 | associado |
 | Lamúria dos Deuses (Diagnóstico de Prometeu) | RC-791 | associado |
 
-## Blindagem histórica e comparativa
+## Observações
 
 A identificação de Yggdrasil com um sistema interdimensional centrado em Marte é **Teologia Comparada de Ellam**, não consenso da mitologia nórdica, da história das religiões, da astronomia ou da arqueologia. A fala pode sobrepor tradições nórdicas, célticas, hindus e a literatura de Tolkien; identidades duvidosas permanecem `[REVISAR → CHANCELA 10/09/2026 · F040-L5: SEM EQUIVALÊNCIA CANÔNICA (decisão registrada) — ver nota]` e não geram equivalência canônica.
 

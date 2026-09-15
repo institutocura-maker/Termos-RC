@@ -18,7 +18,7 @@ Processo pelo qual **o Criador (Brahma/Javé) vem aprendendo a coexistir com aqu
 ## Contexto / Origem
 A Humanização do Criador é o tema do capítulo 17 de B015 e o arco dramático central das RC: o Criador caído, "refém" da própria criação, começa a se modificar pela convivência com os humanos — cuja genética da confiança e razão filosófica o afetam. O processo também se expressa no envolvimento emocional de Zont En Drel 29 (os En Drel "não foram programados para sentir, e eu havia sentido algo"), que desencadeia reações em toda a rede e no próprio Criador.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** A Humanização do Criador
 - **Variações:** processo de humanização do Criador; humanização de Javé
 

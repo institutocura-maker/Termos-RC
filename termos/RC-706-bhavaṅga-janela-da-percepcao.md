@@ -15,7 +15,7 @@ atualizado = "2026-08-15"
 ## Definição Sintética
 Janela perceptiva que atravessaria a Camuflagem da Realidade, permitindo ao eu perceber níveis situados além da faixa sensorial ordinária ou ser percebido por consciências desses níveis.
 
-## Grafia e escopo budista
+## Etimologia e Grafias
 Forma preferida: **Bhavaṅga**; forma simplificada: **Bhavanga**. O termo pertence ao vocabulário budista e possui sentidos técnicos próprios. A “janela da percepção” é o emprego particular da palestra, não definição exaustiva do budismo.
 
 Formas STT: `bavanga`, `bafanga`.

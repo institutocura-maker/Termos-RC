@@ -18,7 +18,7 @@ Rei-sacerdote híbrido ou não humano que funda Salém e legitima Javé diante d
 ## Contexto / Origem
 Extraído da live P2025-10-25 — 2ª Edição Estagiários do Kaos.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - Forma preferida: **Melquizedec**.
 
 

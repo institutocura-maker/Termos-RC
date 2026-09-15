@@ -18,7 +18,7 @@ atualizado = "2026-09-12"
 ## Contexto / Origem
 A encarnação de Apolônio marca a atuação do Quarto Logos no mundo: sua mensagem (cap. 8) contrasta o modo de Jesus — usar o poder "não para submeter as pessoas, mas sim, para ajudar as mais frágeis" — com o "Deus Bíblico", que havia destinado seu messias para "dominar a humanidade em seu nome, só que pela força". É no capítulo 8 que Ellam registra a **38ª Constatação** (Liberdade Mental como premissa do Quarto Logos).
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Apolônio de Tiana
 - **Variações:** Apolônio (filósofo neopitagórico); encarnação do Quarto Logos
 

@@ -22,7 +22,7 @@ Aparece em **P2018-05-20**, U0002. Contexto: a palestra reconstrói a origem da 
 
 A Temis da palestra **NÃO É a Titã grega clássica** (Têmis grega = filha de Urano e Gaia, personificação da justiça divina, mãe das Horas e das Moiras). É uma **entidade específica da geração de Zeus** que "co-clona" Pandora.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Temis (Têmis) como Mãe-de-Pandora (Co-clonadora)
 - **Variações STT capturadas:** "Temes", "tênis", "Temis"
 - **Idioma de origem:** Grego (Θέμις Thémis = "lei divina, justiça") + Português

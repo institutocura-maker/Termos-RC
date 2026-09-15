@@ -18,7 +18,7 @@ Uso antiético de eus humanos por espíritos para resolver pendências de agenda
 ## Contexto / Origem
 P2025-06-26 — 1ª Edição Estagiários do Kaos.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 Forma preferida: **Agenda do Desespero dos Espíritos**.
 
 ## Fontes

@@ -18,7 +18,7 @@ Termo cunhado por Jan Val Ellam em *O Big Data do Criador* (B035, cap. 2) para d
 ## Contexto / Origem
 Consequência direta da queda do Criador: como todas as criaturas dividem "o mesmo tijolo básico, que é o gene do criador replicado em todas as suas criaturas", tudo o que acontece a uma parte afeta o todo — "cedo ou tarde, todos passam a ser afetados pelo resultado dos problemas e das conquistas individuais e coletivas". A simbiose quântica explica por que o Criador **é refém das suas próprias criaturas**: enquanto estas apropriam lentamente suas novas configurações genéticas, o processo no criador "é instantâneo, violento (para ele) e incontornável".
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Simbiose Quântica
 - **Variações:** simbiose cósmica; interconectividade não-localizada (física quântica)
 

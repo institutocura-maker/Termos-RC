@@ -44,6 +44,11 @@ Na cosmologia de Ellam, o diferencial de racionalidade que tornou os humanos a �
 | DNA Insubmisso / Linhagem Pandora–Eva–Noreia | RC-727 | manifesta-descontinuidade-em |
 | Destinação do Lobo | RC-743 | ← é-comparada-à-emergência-de |
 
+
+- DNA Insubmisso / Linhagem Pandora–Eva–Noreia — RC-727;
+- Ressonância límbica — RC-529;
+- Destinação do Lobo — RC-743.
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
@@ -55,13 +60,7 @@ Na cosmologia de Ellam, o diferencial de racionalidade que tornou os humanos a �
 ## Citação-chave
 > "Nós, os humanos, somos a única descontinuidade que aconteceu ao longo de 13,8 bilhões de anos."
 
-## Relações centrais
-
-- DNA Insubmisso / Linhagem Pandora–Eva–Noreia — RC-727;
-- Ressonância límbica — RC-529;
-- Destinação do Lobo — RC-743.
-
-## Observação
+## Observações
 
 "Manicômio chamado Terra" e a "descontinuidade" como leitura do autor.
 

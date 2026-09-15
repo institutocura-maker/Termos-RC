@@ -18,7 +18,7 @@ A estratégia do Criador de **escolher um povo da Terra para, por meio dele, dom
 ## Contexto / Origem
 A Genética Totalitária conecta-se à escolha dos **três segmentos étnicos** (ariano, judeu e árabe) com "genética própria" como "palco e, ao mesmo tempo, exército terráqueo" das intenções do Criador. O traço cultural de "povo escolhido" foi repassado a outros povos (tribos hebreias de Héber → Judá → judeus). A "exclusividade" teve origem "no critério organizacional das castas arianas, hoje chamadas de hindus, que sempre foram utilizadas para o refino de certas áreas do genoma demo-homo".
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Genética Totalitária
 - **Variações:** estratégia de dominação genética; povos escolhidos; "povo escolhido" (traço cultural)
 

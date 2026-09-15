@@ -18,7 +18,7 @@ Ciclo astronômico de aproximadamente 25.920 anos usado, na palestra, como métr
 ## Contexto / Origem
 É a moldura temporal principal da exposição. O palestrante o relaciona ao movimento do eixo terrestre e afirma que seres do universo antimaterial o adotaram como relógio.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - Grafia preferida: Ciclo de Precessão Equinocial. Variação: Precessão dos Equinócios. STT: préção, prceção, prestação, pressionão equinocial.
 - **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
 

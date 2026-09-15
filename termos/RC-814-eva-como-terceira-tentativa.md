@@ -18,7 +18,7 @@ Tese (leitura do autor, palestra **P2018-05-20**, U0003) de que **Eva é a 3ª t
 ## Contexto / Origem
 Aparece em **P2018-05-20**, U0003. Contexto: depois de Lilith fracassar (fugir do curral) e Agar fracassar ("Adão é de uma linhagem mais fraca"), Javé tenta uma 3ª combinação: **homem com mulher da espécie sábia** (ambos humanos racionais). **Funcionou** — "nós estamos aqui hoje porque isso aí funcionou". Mas funcionou "no sentido de produzir novos seres e funcionou durante muito tempo no sentido da humanidade ser dominada por Jahé".
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Eva como 3ª Tentativa de Fêmea para Adão (Homem + Mulher da Espécie Sábia)
 - **Variações STT capturadas:** "Eva", "alternativa homo", "homem com mulher da espécie sábia"
 - **Idioma de origem:** Português (com termo bíblico: "Eva" = חוה Chavvah "vivente")

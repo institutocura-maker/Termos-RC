@@ -18,7 +18,7 @@ Designação dada por Jan Val Ellam (B014, cap. 17) à **formulação da "Santí
 ## Contexto / Origem
 O capítulo 17 de B014 parte da constatação de que Sophia, "apesar de investido da função de 'Autoridade Universal', paradoxalmente, não dispõe dessa aptidão de entendimento" (razão filosófica) — e que o "homem Jesus" nasceu sob duas "componentes ditatoriais": o teor profético do código genético recebido de Sophia e o patrulhamento do Criador sobre sua condição humana. Jesus, com poder mental suficiente para não se deixar crucificar, "fez questão de não utilizá-los... e se deixou ser humilhado como maneira de tentar enternecer o mais 'frio' e 'perverso'... que é o 'Senhor Javé'". A Falsa Trindade (Pai/Filho/Espírito Santo) substituiu a real tríade cósmica (Javé, Sophia/Jesus, e a dinâmica dos Logos).
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** A Falsa Trindade
 - **Variações:** Santíssima Trindade (nome tradicional); Concílio de Niceia (325); "Falsa Trindade" (termo de Ellam)
 

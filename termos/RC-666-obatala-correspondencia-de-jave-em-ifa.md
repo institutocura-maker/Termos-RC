@@ -18,7 +18,7 @@ Correspondência de teologia comparada entre Obatalá e Javé reconstruído/caí
 ## Contexto / Origem
 P2025-06-26 — 1ª Edição Estagiários do Kaos.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 Forma preferida: **Obatalá (correspondência de Javé em Ifá)**.
 
 

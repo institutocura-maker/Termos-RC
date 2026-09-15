@@ -18,7 +18,7 @@ Tempérium é uma variação histórica/de STT de Tempérion, preservada para ra
 ## Contexto / Origem
 A descrição antiga “os cinco Archeons de Eeron” estava ontologicamente incorreta. A palestra mostra que Tempérion é apenas um dos cinco Archeons e o setor dos seres LM.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - Forma deprecada/remissiva: Tempérium. Forma canônica: Tempérion — RC-472.
 - **Fonte de decisão:** curadoria estrutural C-01 a C-07, 2026-08-14.
 

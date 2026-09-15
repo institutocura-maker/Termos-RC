@@ -18,7 +18,7 @@ O "favor divino" **invertido** — a tese central de *Favor Divino* (B048): os h
 ## Contexto / Origem
 A sinopse de B048 pergunta: "Afinal, existem favores divinos? E se tudo for ao contrário do que fomos acostumados a pensar?" O livro mostra que a "lavagem cerebral" que produziu a percepção dos "favores de Deus" "foi e ainda é parte de uma etapa necessária de um processo maior". O capítulo 10 (O Reconhecimento que nunca veio) conclui: "o Senhor Javé e toda a sua hierarquia deveriam ser gratos... porque somos nós quem promovemos o progresso necessário à redenção de todos eles e, em especial, a do próprio criador. Mas, aqui na Terra, é tudo ao contrário!"
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Favor Divino
 - **Variações:** o favor divino invertido; favor dos humanos ao Criador; "o favor divino" (provocação)
 - **Obs.:** o termo RC-063 (Favor Divino, título da obra) e RC-332 (conceito) se complementam — a ficha RC-063 trata do título/obra; esta trata do conceito.

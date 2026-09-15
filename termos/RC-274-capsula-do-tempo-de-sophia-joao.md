@@ -18,7 +18,7 @@ Designação (B014, cap. 13) para o **conjunto de promessas e revelações de Je
 ## Contexto / Origem
 O capítulo 13 de B014 ("João e a 'Cápsula do Tempo' de Sophia") explica que o cérebro biodemo de Sophia "somente se dá por vivência" — sua captura de novas convenções mentais ocorre pela experiência, o que motivou o processo de se fazer humano (absorvendo emoções ao longo dos últimos 2 mil anos). A "cápsula do tempo" (as escrituras joaninas/Apocalipse) preservou a promessa do retorno até os tempos do cumprimento. A condição humana de Jesus "vale bem mais" que o psiquismo de Sophia (~5 bilhões de anos), pois possui a capacidade de sentir e valorar emoções.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Cápsula do Tempo de Sophia
 - **Variações:** a "cápsula do tempo" (João/Apocalipse); promessas do retorno; "os tempos são chegados"
 

@@ -67,7 +67,7 @@ NT-FP21 permanece bloqueado. Este verbete **não** abrange teriantropia/licantro
 | Jabutis Genéticos | RC-729 | manifesta-se-no-discurso-como |
 | Dominação Psíquica pela Devoção | RC-733 | favorece |
 
-## Blindagem clínica e científica máxima
+## Observações
 
 Esta é uma categoria interna da cosmologia de Ellam, **não um mecanismo reconhecido pela genética, psiquiatria, neurologia ou psicologia**. Não autoriza diagnosticar ninguém, atribuir sintomas a entidades, suspender tratamentos, substituir avaliação profissional nem estabelecer causalidade espiritual para condições médicas. Relatos de crianças e famílias permanecem na apostila por integralidade documental, com separação da plateia e nota crítica, mas fora da ontologia clínica.
 

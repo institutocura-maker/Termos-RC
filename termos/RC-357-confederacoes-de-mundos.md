@@ -18,7 +18,7 @@ Organizações siderais de civilizações planetárias evoluídas — descritas 
 ## Contexto / Origem
 As Confederações de Mundos são o pano de fundo político-cósmico do B005: a Terra, por ser uma "espécie de 'terra de ninguém'" (RC-358), estava "passível de receber visitas exploratórias (muitas vezes com fins pouco nobres) de quaisquer civilizações que não estivessem vinculadas às confederações de mundos". A reintegração da Terra ao convívio cósmico implica sua reinserção nesse tecido de confederações.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Confederações de Mundos
 - **Variações:** confederações de civilizações; organizações siderais; confederação galática
 

@@ -18,7 +18,7 @@ atualizado = "2026-08-25"
 ## Contexto / Origem
 No *Mentalma II* (B075), Ellam aprofunda o método do *Mentalma I* (B074) no terreno da **gestão** (não apenas da coleção) dos arquivos: a "caixa de depósitos" (mente) é comandada pela Vontade (RC-550); o "canal mental" (psiquismo) funciona como o "**conectoma mental**" (extrapolação RC, nota p. 190–191 — ver RC-557); a "memória quântica celular" (17ª Const.) é reprogramada pela "Vontade"; a "agenda espiritual" é o instrumento diário ("Dia Meta 10", p. 165–166). A "pacificação pessoal" (cap. 11) — "a morte diária", o desapego e a prática "Phowa" (a "arte de morrer bem" — **vocabulário da obra, leitura**) — é o estágio terminal da gestão: "rompi com todos os medos e receios" (p. 180).
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Gestão Psíquica e Memórias Complexas
 - **Variações:** "Gestão Psíquica" (capa/curta); expressões afins: "limpeza das memórias", "gestão da 'bagagem espiritual'", "plano de maestria pessoal"
 - **Idioma de origem / etimologia:** português — expressão criada por Ellam (B075)

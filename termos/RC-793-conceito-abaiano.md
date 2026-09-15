@@ -18,7 +18,7 @@ Tese (leitura do autor, palestra **P2025-04-06**, U0005) do **"Conceito Abaiano"
 ## Contexto / Origem
 Aparece em **P2025-04-06**, U0005, no encerramento da palestra. Contexto: depois de Pandora dizer que se apaga, o autor propõe o **caminho humano** de reacender o fogo: o inconformismo inteligente, criativo, sem esperança, mas com sonho e ação. "365 dias por ano" — referência ao ethos baiano de festejar/agir apesar do cansaço.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Conceito Abaiano (Fazer Sem Esperar Receber)
 - **Variações STT capturadas:** "conceito abaiano", "viva sem se perguntar", "faça sem esperar receber"
 - **Idioma de origem:** Português (com raiz provável em sânscrito via Bahia/cultura baiana)

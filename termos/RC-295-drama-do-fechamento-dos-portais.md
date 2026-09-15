@@ -18,7 +18,7 @@ O processo de **fechamento dos portais entre o universo antimaterial e o materia
 ## Contexto / Origem
 O fechamento dos portais é o divisor entre o tempo em que os deuses conviviam diretamente com os humanos (mitologia) e a Era dos Humanos. B021 (cap. 21) detalha o "drama" vivido por Zeus com esse processo: percebendo que não poderia mais dominar diretamente os humanos, "Zeus implantou essa enganação religiosa, utilizando-se do medo e da submissão de homens e mulheres ao 'aconselhamento dos deuses'". O fechamento conecta-se ao Isolamento Cósmico (RC-070) e ao fim dos portais naturais (dez/2012, conforme B024/B031).
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Drama do Fechamento dos Portais
 - **Variações:** fechamento dos portais; fim dos portais naturais; o "Drama do Fechamento dos Portais"
 

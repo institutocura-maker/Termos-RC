@@ -28,7 +28,7 @@ A palestra situa o colapso das colmeias, desde 2006/2007, e o colapso de corais 
 
 A relação é de proximidade e distinção, não de sinonímia.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 Forma preferida: **Colapso do Caos Organizado**.
 
 “Caos organizado” é o arranjo temporário formado por dois universos, uma espiritualidade errática e os sistemas biológicos/informacionais que preservam e transformam a memória do Criador caído.

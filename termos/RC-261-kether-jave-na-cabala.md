@@ -18,7 +18,7 @@ atualizado = "2026-08-29"
 ## Contexto / Origem
 B013 demonstra que Javé "há muito tempo tenta explicar e entender a sua 'situação' por meio da troca de informações com os humanos" — e a Cabala é uma dessas revelações. A figura de Kether/Javé "se encontra 'preso num lapso ou laço temporal' desde a sua 'queda'" (B013, cap. 11, na metáfora do Doutor Estranho/Dormammu). A 1ª Constatação de B013: o judaísmo escolheu um dos três "deuses" do "Triunvirato Universal" como vencedor da disputa pela autoria da Criação — e esse deus escolheu o povo hebreu como instrumento.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Kether
 - **Variações:** Kether/Javé; a Coroa (primeira sefirá); identificado a Javé e Brahma
 - **Idioma de origem:** hebraico (כתר = coroa)

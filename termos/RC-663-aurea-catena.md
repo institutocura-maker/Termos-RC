@@ -18,7 +18,7 @@ Corrente de pontos luminosos que acendem luz própria no fundo do caos.
 ## Contexto / Origem
 P2025-06-26 — 1ª Edição Estagiários do Kaos.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 Forma preferida: **Áurea Catena**.
 
 

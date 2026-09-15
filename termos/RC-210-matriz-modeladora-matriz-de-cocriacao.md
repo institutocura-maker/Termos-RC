@@ -18,7 +18,7 @@ A **"Fonte Primordial Formadora do Todo"** — o padrão estruturante espiritual
 ## Contexto / Origem
 A Matriz Modeladora é o que faltou ao Criador de Padrões Dependentes: o modelo que ele criou "não conseguiu estabelecer ponte de ressonância com a já referida Fonte Primordial Formadora do Todo ou Matriz Modeladora Eterna". O conceito explica por que a Criação "indevida" não conseguiu sustentar-se nos padrões perfeitos da Realidade Maior — porque o arquiteto não soube/ não pôde conectar sua obra à Matriz Modeladora.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Matriz Modeladora
 - **Variações:** Matriz Modeladora Eterna; Fonte Primordial Formadora do Todo; padrão estruturante espiritual
 

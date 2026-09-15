@@ -20,10 +20,9 @@ Egrégora e Campo Quântico — conceito desenvolvido na palestra «O Reciclador
 **Fonte:** palestra «O Reciclador das Informações Universais a Limpeza da Criação» (18/11/2023).
 **Trecho verbatim:** «Nós aqui formamos um egrégora daqui a 5, 10, 15 minutos. Quando todos vocês estiverem prestando atenção e eu falando aqui coisa e tal, né, a gente termina criando um campo quântico.»
 
-## Relações
+## Termos Relacionados
 - RC-722 (Dignidade)
 - RC-901 (Domínios de Morfeu)
-## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
 | Dignidade como Critério de Consciência | RC-722 | associado |

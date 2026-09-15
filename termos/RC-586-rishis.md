@@ -18,7 +18,7 @@ Coletivo de sábios associado, na palestra, à revelação do Mahabharata e à r
 ## Contexto / Origem
 São situados na quarta era equinocial, em conexão com Vyasa, Kshatriyas e Brahmanes.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - Grafia preferida: Rishis. STT: riches.
 - **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
 

@@ -18,7 +18,7 @@ Humanidade como última espécie surgida e primeira capaz de compreender, dignif
 ## Contexto / Origem
 Extraído da live P2025-10-25 — 2ª Edição Estagiários do Kaos.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - Forma preferida: **Humanos: Últimos e Primeiros**.
 
 

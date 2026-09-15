@@ -18,7 +18,7 @@ A **"Era dos Humanos"** é o período em que a espécie humana emergiu como prot
 ## Contexto / Origem
 A Era dos Humanos sucede o fechamento dos portais: sem acesso direto, os deuses tentaram controlar a humanidade por oráculos, pitonisas e pelas artes trágicas gregas (Píndaro, Apolodoro, Sófocles, Eurípedes) — "todo esse conjunto de notícias que Zeus quis transmitir à humanidade, buscando mostrar o quanto ele era importante". A Era dos Humanos também é o cenário da **dissolução da Tríade (2015–2017)**: com o universo demo se desestruturando ("estão perdendo sua casa"), Zeus busca construir um "projeto de migração" dos demos para o nosso universo — movimento inverso ao de Yel Luzbel há ~50 mil anos.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Era dos Humanos
 - **Variações:** Zeus e a Impensável "Era dos Humanos"; a era em que os humanos imperam
 

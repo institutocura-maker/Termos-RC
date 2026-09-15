@@ -18,7 +18,7 @@ atualizado = "2026-08-29"
 ## Contexto / Origem
 Sistema central da cosmologia capelina na Revelação Cósmica (obras primárias B003/B025 e glossário B031). No B057, Capela é o palco da Revolta (RC-002): "Nasci no longínquo sistema solar de Capela" (p. 15); a rebelião foi "deflagrada há uns 687 mil anos, **em Capela**, contra Sophia e as suas hostes" (p. 19). A nota de p. 10 identifica a estrela na astronomia terrena; a nota de p. 25 (extraída de *Carma e Compromisso*, B026) descreve a função governamental do sistema; a nota de p. 14 define os capelinos ("seres extraterrestres, de vários tipos, oriundos do sistema de Capela... Fonte: Trilogia 'Terra Atlantis', de Jan Val Ellam" — B017/B018/B039).
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Capela (Sistema)
 - **Variações:** "sistema solar de Capela"; "sistema de Capela" (B057); Alfa Aurigae (nota p. 10)
 - **Obs.:** no universo RC, "Capela" designa o sistema (não um planeta); o mundo de nascimento de Yel Luzbel é **Dan** (RC-046)

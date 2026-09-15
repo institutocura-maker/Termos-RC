@@ -18,7 +18,7 @@ A designação ellâmica da queda: «mergulho», não «queda». O termo desloca
 ## Contexto / Origem
 O vocabulário importa: na RC, «mergulhar» é o que fazem os Logos e as cocriadoras quando descem aos níveis inferiores (o Quarto Logos, RC-092, «mergulhou» diretamente no universo biológico). A queda de Prabrajna (RC-152) é, nessa chave, o mergulho que deu errado e produziu a Criação Indevida (RC-167) — donde a proximidade com o acidente cosmogônico (RC-515).
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - Grafia preferida: Mergulho (designação ellâmica da queda)
 - Variações: mergulho; a descida
 - Uso oposto: «queda» (a leitura tradicional)
@@ -30,6 +30,10 @@ O vocabulário importa: na RC, «mergulhar» é o que fazem os Logos e as cocria
 | Criação Indevida (Obra indevida) | RC-167 | variação |
 | Acidente cosmogônico (queda de Prabrajna) | RC-515 | associado |
 
+- RC-167 — ver ficha correspondente
+- RC-515 — ver ficha correspondente
+- RC-152 — ver ficha correspondente
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
@@ -37,12 +41,7 @@ O vocabulário importa: na RC, «mergulhar» é o que fazem os Logos e as cocria
 | P2023-07-30 | — | registro-mestre (fonte censada) |
 | P2023-12-03 | — | registro-mestre (fonte censada) |
 
-## Relações centrais
-- RC-167 — ver ficha correspondente
-- RC-515 — ver ficha correspondente
-- RC-152 — ver ficha correspondente
-
-## Observação
+## Observações
 Status mantido em ⚪ candidato (como estava no registro-mestre) até revisão cruzada com as obras primárias. Verbete-chave do Volume II (II.6.3).
 
 

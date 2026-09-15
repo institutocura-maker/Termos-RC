@@ -30,7 +30,7 @@ atualizado = "2026-08-29"
 - Colegiados humanizados não equivalem ao Colegiado do Paraíso, a anjos-clones nem a seres demo não hibridizados.
 - As classificações religiosas são cartografia e Teologia Comparada de Ellam, não ontologia externa nem consenso das tradições.
 
-## Relações centrais
+## Termos Relacionados
 
 | Código | Relação |
 |---|---|
@@ -41,6 +41,19 @@ atualizado = "2026-08-29"
 | RC-513 | mecanismo próximo de ressonância |
 | RC-633 | gestão da sensação e destinação |
 | RC-612 / RC-613 | destino editorial do projeto futuro, sem novo nó |
+
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Rebanho humano | RC-193 | ← repercute-em |
+| Espiritualidade Errática (4ª faixa manifestada) | RC-513 | associado |
+| Nova Espiritualidade / Novo Paraíso (Paraíso B) | RC-612 | associado |
+| Trincheira Vibratória no Campo Informativo | RC-613 | associado |
+| Gestão da Sensação Pessoal | RC-633 | associado |
+| Dignidade como Critério de Consciência | RC-722 | avaliado-por |
+| Faixas Espirituais de Ressonância | RC-726 | organiza-se-em |
+| Dominação Psíquica pela Devoção | RC-733 | ← manifesta-se-em |
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-745.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
 
 ## Cautela editorial
 
@@ -86,17 +99,3 @@ atualizado = "2026-08-29"
 - **[P2023-12-03 · O PEDIDO POR TRÁS DOS COLÉGIOS]** «criem um método para vocês estudarem.» (U0004) — D-8: os colegiados ganham origem narrada: os não-humanos pediram que os humanos **inventassem um método**, com a promessa de aprenderem com o nível de compreensão alcançado. A constatação de que a Arca seria esse método fica no relatório — e é vedada como auto-legitimação na ficha.
 
 ---
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Rebanho humano | RC-193 | ← repercute-em |
-| Espiritualidade Errática (4ª faixa manifestada) | RC-513 | associado |
-| Nova Espiritualidade / Novo Paraíso (Paraíso B) | RC-612 | associado |
-| Trincheira Vibratória no Campo Informativo | RC-613 | associado |
-| Gestão da Sensação Pessoal | RC-633 | associado |
-| Dignidade como Critério de Consciência | RC-722 | avaliado-por |
-| Faixas Espirituais de Ressonância | RC-726 | organiza-se-em |
-| Dominação Psíquica pela Devoção | RC-733 | ← manifesta-se-em |
-
-> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-745.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

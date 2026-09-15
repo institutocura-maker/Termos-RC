@@ -18,7 +18,7 @@ Tese (leitura do autor, palestra **P2018-05-20**, U0004) de que **Lilith (RC-308
 ## Contexto / Origem
 Aparece em **P2018-05-20**, U0004. Contexto: depois que Lilith foge do "curral chamado Javid" de Javé, ela "se fortalece" no Gênero da Descendência. Lá, ela vira **deusa em vários lugares da terra** (Babilônia, "mesa" [= Babel?], entre outros). **O culto a Lil** se torna "mais conhecido" do que o culto a Pandora (que era "discreta") ou Pirra (que era "mais relógica" [religiosa]). O judaísmo-cristianismo, ao criar a narrativa de Gênesis, **apagou Lilith** e a transformou em demônio.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Culto a Lilith (Transformação em Deusa Lil Babilônica)
 - **Variações STT capturadas:** "Lil", "Lil transformou-se em deusa", "Babilônia", "mesa" (= Babel?)
 - **Idioma de origem:** Acádio/Babilônico (Lilitu) + Hebraico (לילית Lilith) + Português

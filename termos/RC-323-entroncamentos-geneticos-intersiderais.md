@@ -25,7 +25,7 @@ Os cruzamentos genéticos entre diferentes cepas (demo, biodemo, biodemol, human
 ## Contexto / Origem
 Os entroncamentos genéticos explicam a composição do genoma humano como "mosaico" de origens intersiderais: "como se mãos invisíveis estivessem manipulando as suas vidas naquele sentido". Conecta-se ao "problema" dos povos híbridos entre os contextos demoníaco e humano, e à história de Hiperbórea, dos nephelim/anunnaki e dos sirianos.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Entroncamentos Genéticos Intersiderais
 - **Variações:** entroncamentos genéticos; cruzamentos intersiderais; grupos de entroncamento (1–4)
 

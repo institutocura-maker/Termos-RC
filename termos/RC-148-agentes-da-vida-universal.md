@@ -18,7 +18,7 @@ São os **seres vivos que expressam o fenômeno da vida** no universo: "sem os s
 ## Contexto / Origem
 Termo-título da obra primária *A Epopeia dos Agentes da Vida Universal* (B024, 2019). O livro narra a história por trás dos "Agentes" de um "Jogo" — o **Xadrez Cósmico** — executado por Divindades (a Trimurti), tomando as espécies da vida universal como suas "equipes". Inclui anjos-clones, demos, biodemos, fenvans e as espécies biológicas do universo material.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Agentes da Vida Universal
 - **Variações:** agentes da vida; agentes da informação cósmica; agentes básicos da vida universal (os elétrons, por extensão)
 - **Obs.:** a "epopeia" refere-se à saga das consciências espirituais (mônadas) ao longo da Criação "indevida"

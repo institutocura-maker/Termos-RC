@@ -18,7 +18,7 @@ Estrutura cerebral do armazenamento temporário da memória (principalmente a de
 ## Contexto / Origem
 Aberta pelo F043-T3 (despacho de 06/09/2026, §2): expansão limitada aos termos do Anel C com ≥5 menções elâmicas no corpus (censo 06/09/2026 em `termos/`). O lastro é a citação esparsa nas fichas; a definição dicionarizada vem da obra de apoio, citada estritamente como **fonte secundária** — a hierarquia das fontes primárias (obras e falas de Jan Val Ellam) permanece intacta.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Hipocampo
 - **Variações / grafias alternativas:** (nenhuma registrada no censo)
 - **Idioma de origem:** anatomia latina (CORNu Ammonis)

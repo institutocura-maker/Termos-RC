@@ -18,7 +18,7 @@ O ser humano **consciente de sua pertença ao circuito cósmico** — aquele que
 ## Contexto / Origem
 O Cidadão Cósmico é o **ideal antropológico das RC**: o humano que desenvolve senso crítico, razão filosófica e consciência da história cósmica (do drama de Javé), superando o condicionamento religioso e a ignorância cultivada. O cap. 9 de B033 ("Apesar do Isolamento, eis o Cidadão Cósmico") é dedicado ao tema — o "quantum vibratório" já se faz presente em cada geração, embora o "amoroso incondicional e maduro" ainda esteja por ser edificado, apesar do esforço de Jesus e Sai Baba.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Cidadão Cósmico
 - **Variações:** cidadania cósmica; cidadão planetário; cidadania planetária (Projeto Orbum)
 

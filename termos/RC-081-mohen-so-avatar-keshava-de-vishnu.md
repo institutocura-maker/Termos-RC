@@ -18,7 +18,7 @@ Mohen So é Avatar Keshava de Vishnu, identificado nas correspondências RC como
 ## Contexto / Origem
 A live P2026-04-02 normaliza os ruídos Morren So/Morrençor como Mohen So e o relaciona à singularidade órfica e ao espírito de Elm.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Preferida:** Mohen So.
 - **Erros/variações STT:** Morren So, Morrençor, Moren So.
 - **Correspondências:** Phanes, Protogonos, Vasuki, Kalki.

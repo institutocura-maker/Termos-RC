@@ -18,7 +18,7 @@ atualizado = "2026-09-12"
 ## Contexto / Origem
 Yel Luzbel é o protagonista negativo-positivo do drama cósmico: sua inquietação (742 mil anos atrás) gerou a pandemia que levou à rebelião e ao isolamento da Terra. Nas RC ele **não é o "diabo"** do cristianismo — é um biodemo rebelde exilado, cuja ação possibilitou o despertar mental. Relaciona-se aos "Anjos Caídos" das literaturas (com diferenciações, ver RC-020).
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Lúcifer (canônico); Yel Luzbel (nome biodemo)
 - **Variações:** Portador da Luz; Estrela da Manhã; anjo caído; diabo (concepção deturpada)
 - **Idioma de origem:** latim *lucifer* (portador da luz)

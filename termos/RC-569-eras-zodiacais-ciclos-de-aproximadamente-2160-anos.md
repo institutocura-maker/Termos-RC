@@ -18,7 +18,7 @@ Doze subdivisões temporais de aproximadamente 2.160 anos que totalizam 25.920 a
 ## Contexto / Origem
 Segundo a palestra, tornaram-se relógio para pactos, apostas, avatares e regências de seres do universo antimaterial e de civilizações extraterrestres.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - Grafia preferida: Eras Zodiacais. Singular: Era Zodiacal.
 - **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
 

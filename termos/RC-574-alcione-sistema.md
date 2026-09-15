@@ -18,7 +18,7 @@ Sistema estelar ao qual a palestra associa o cinturão de fótons e uma alegada 
 ## Contexto / Origem
 Aparece na explicação visual do segundo slide e na interpretação do ano de 2012.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - Grafia preferida: Alcíone. STT: Alce, Alceione, Alciion, Alciô, oceônio, ao senhor.
 - **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
 

@@ -18,7 +18,7 @@ Tese (leitura do autor, palestra **P2019-04-14**, U0004) de que **o "vechame exi
 ## Contexto / Origem
 Aparece em **P2019-04-14**, U0004. Contexto: a palestra denuncia que **"a mão que nos escraviza ainda quer ser beijada e a gente agradece"**. A saída proposta pelo autor **NÃO é revolta** ("É alguém azarado, esse nosso aí") nem **submissão** ("beijar a mão"). É o **"sangue de barata"** — a **indiferença amorosa**, o **vechame existencial**: "olhar para isso tudo e não ter nojo de quem nos pisa, de quem nos escraviza e ainda ajudar mesmo sabendo que está sendo ultra[jado]". É um **conceito ético único** — sem paralelo acadêmico direto.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Vechame Existencial (Sangue de Barata = Amor sem Submissão)
 - **Variações STT capturadas:** "vechame", "vechame existencial", "sangue de barata", "indiferença amorosa"
 - **Idioma de origem:** Português (com termo autoral "vechame" — provavelmente corruptela de "veemente" ou termo próprio)

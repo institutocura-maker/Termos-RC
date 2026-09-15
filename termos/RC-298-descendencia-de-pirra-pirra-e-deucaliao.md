@@ -18,7 +18,7 @@ A linhagem resultante da união de **Pirra** (filha de Pandora/Kalil Kadmon com 
 ## Contexto / Origem
 A descendência de Pirra representa a **mistura do CFD demo com o DNA humano**: "os mais avançados traços do código-fonte definidor de vida dos demos foi misturado ao DNA humano quando Pandora se viu existindo como mulher, após a sua 'transição de fase'". Pirra "já emergiu como um tipo de demo muito superior aos demais, pois havia herdado também as 'prendas genéticas' dos outros deuses do Olimpo". Deucalião, por sua vez, foi gerado por Prometeu "para contrariar Zeus", com o melhor de seu código genético titã. A linhagem Deucalião+Pirra é a base genética da nova humanidade pós-dilúvio (conectando à tradição grega do dilúvio e a Deucalião como "Noé grego").
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Descendência de Pirra
 - **Variações:** Pirra e Deucalião; a linhagem de Pirra; o casal Deucalião/Pirra
 

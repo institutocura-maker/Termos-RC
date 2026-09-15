@@ -18,7 +18,7 @@ Nas RC, o Éden terrestre é **um dos "laboratórios" do Criador** — não um p
 ## Contexto / Origem
 O Éden do Criador (B015, cap. 10) esclarece o propósito dos experimentos edênicos: o Criador procurava "gerar o tipo de vida que poderia ser o seu grande instrumento de redenção". O processo evolutivo da Terra produziu "o mais promissor dentre os diversos laboratórios". Zont En Drel 29 foi o guardião dos "portões" do Éden, observando os fatos ao redor de Adão e Eva. O "Adão e Eva escolhidos" pelo Criador são distintos de outros humanos que personificaram "saltos evolutivos" da espécie.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Éden do Criador
 - **Variações:** Éden terrestre; Jardim do Éden (tradicional); "Éden como laboratório"; núcleos edênicos
 

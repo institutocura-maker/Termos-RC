@@ -18,7 +18,7 @@ atualizado = "2026-08-12"
 ## Contexto / Origem
 O conceito de telos é central para compreender a psicologia dos deuses demo nas RC: cada demo tem um propósito (telos) cuja realização sustenta sua timé (honra/domínio). No B021, o telos de Zeus se torna "inglório" — gerenciar o fim do universo demo e o "projeto de migração" dos demos para o nosso universo (já que "tudo por lá vai se acabar").
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Telos
 - **Variações:** telos de um deus; finalidade/missão de um deus; propósito existencial
 - **Idioma de origem:** grego (τέλος = fim, propósito, finalidade)

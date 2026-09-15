@@ -65,7 +65,7 @@ Palestra integral dedicada ao tema (P2023-05-13). Ellam a apresenta como "o mome
 | Buraco Negro Mental / Consciencial | RC-717 | associado |
 | As Três Escalas da Consciência (Sábio → Mago → Iniciado) | RC-762 | ← relaciona-se-a |
 
-## Blindagem epistemológica — ABSORÇÃO DE NT-BR05 E ANALOGIAS
+## Observações
 
 - **Deus Teísta × Deus Deísta (candidato NT-BR05):** **REJEITADO como termo autônomo** por decisão do curador — são categorias filosóficas humanas padrão. Foram absorvidos **como subtexto das lentes 2 e 3** deste verbete, sem ontologia própria na Base.
 - **Matrix / Simulacro (candidato NT-BR02):** analogia cinematográfica — o conceito mecânico de "simulacro e faixas de realidade" foi absorvido em **RC-702 (Camuflagem da Realidade)** e **RC-167 (Criação Indevida)**, não como termo próprio.

@@ -18,7 +18,7 @@ Barreiras quânticas/vibratórias entre níveis espirituais e criações derivad
 ## Contexto / Origem
 São distintas da Blindagem Cósmica terrestre/quarentena RC-510. A palestra afirma que informações do sofrimento começaram a passar nas entrelinhas dos códigos.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - Grafia preferida: Blindagens Interdimensionais. Variação: intramuros vibratórios.
 - **Fonte de decisão:** Quadro 9 aprovado pelo curador.
 

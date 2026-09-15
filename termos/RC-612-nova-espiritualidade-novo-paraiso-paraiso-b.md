@@ -18,7 +18,7 @@ Reorganização futura dos níveis espirituais que não seria mero retorno aos p
 ## Contexto / Origem
 É vinculada à estratégia de Tempérion, ao Quarto Logos, Sophia, Reintegração e emancipação humana.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - Grafia preferida: Nova Espiritualidade / Novo Paraíso. Termo composto aprovado inicialmente.
 - **Fonte de decisão:** Quadro 9 aprovado pelo curador.
 

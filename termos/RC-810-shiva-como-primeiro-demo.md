@@ -18,7 +18,7 @@ Tese (leitura do autor, palestra **P2017-05-14**, U0002/U0003) de que **Shiva (C
 ## Contexto / Origem
 Aparece em **P2017-05-14**, U0002 e U0003. Contexto: depois que Javé se reconstruiu (RC-808), ele começou a criar clones (anjos glores). Um dos clones — "criou um plano de Chiv [Shiva] e agredir o Brandon [Brama]" — fez Javé parar de criar. Javé então **destruiu o corpo desse clone**, mas o clone "tinha alma" (chamamos de demo) e "saiu com a forma mental". Esse é **Shiva — o primeiro demo da história**.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Shiva como Primeiro Demo
 - **Variações STT capturadas:** "Chiva", "Chimo", "Chiv", "Shiva", "Chiva o primeiro demo"
 - **Idioma de origem:** Sânscrito (शिव "Śiva" = "auspicioso", divindade hindu) + Português

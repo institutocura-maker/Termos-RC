@@ -18,7 +18,7 @@ O Pecado Original como Narrativa Cruel é a caracterização da história de que
 ## Contexto / Origem
 Conceito desenvolvido na palestra «A Falsa Queda do Ser Humano e a Indignidade Entronizada como Religião» (P2024-02-04). Ellam argumenta que a história do pecado original é a base jurídica e teológica para que os humanos se submetam às religiões, aceitando ser tratados como pecadores e filhos do demônio — uma indignidade entronizada como religião.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Pecado Original como Narrativa Cruel
 - **Variações:** queda do paraíso; expulsão do paraíso; narrativa cruel
 - **Idioma de origem:** Português
@@ -32,12 +32,11 @@ Conceito desenvolvido na palestra «A Falsa Queda do Ser Humano e a Indignidade 
 
 **Trecho verbatim 2:** «Eis o problema, essa indignidade transformou-se em religião. Que indignidade considerar o ser humano um pecador, um filho do demônio. E a gente aceita isso, pessoal. Nós nos submetemos a toda hora às religiões e a base jurídica para que tal coisa se dê jurídica, teológica, é essa crença.»
 
-## Relações
+## Termos Relacionados
 - RC-749 (Vício Devocional) — a religião como peso da prestação de contas
 - RC-722 (Dignidade) — a indignidade transformada em religião
 - RC-892 (Pós-Verdade) — a narrativa cruel como falsa verdade
 
-## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
 | Dignidade como Critério de Consciência | RC-722 | associado |

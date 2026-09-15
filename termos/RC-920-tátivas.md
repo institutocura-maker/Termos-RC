@@ -20,10 +20,9 @@ Tátivas — conceito desenvolvido na palestra «O Reciclador das Informações 
 **Fonte:** palestra «O Reciclador das Informações Universais a Limpeza da Criação» (18/11/2023).
 **Trecho verbatim:** «E tátiva é isso aí, é a natureza animal de um eu humano prevalecendo sobre a natureza espiritual do espírito que anima esse ser humano. É o quaternário Ior, cheio de tá tuvas e a pobreza de execução na tríade imortal.»
 
-## Relações
+## Termos Relacionados
 - RC-722 (Dignidade)
 - RC-901 (Domínios de Morfeu)
-## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
 | Dignidade como Critério de Consciência | RC-722 | associado |

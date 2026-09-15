@@ -18,7 +18,7 @@ A **submissão doentia exigida pelo Senhor Javé** das suas criaturas — o polo
 ## Contexto / Origem
 O capítulo 6 de B048 (título completo: "A Democracia do Amor da Deidade x a Teocracia da Doença de uma Divindade") estabelece a antítese fundamental do corpus: **liberdade amorosa (Deidade) × submissão doentia (Javé)**. A teocracia da doença explica a "lavagem cerebral" religiosa, a cobrança de submissão e o "jogo da cobrança" (cap. 9): "Javé nos cobra submissão e subserviência para que seus desígnios possam ser cumpridos... sua vontade somente se movimenta em torno da sua doentia necessidade de sobreviver a qualquer custo".
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Teocracia da Doença de uma Divindade
 - **Variações:** teocracia da doença; ditadura doentia do Criador; regime de submissão de Javé
 

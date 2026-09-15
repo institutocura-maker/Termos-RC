@@ -245,7 +245,7 @@ Um dos três da Trimurti (RC-104) — na RC, **Savna** (RC-409 ADHYSAVNA); princ
 | Prema Sai (Prima Sai / Prem Sai) | RC-929 | ← encarnação-de |
 | Kris Amon (Krysamon NEAD) | RC-934 | associado |
 
-## Blindagem
+## Observações
 
 Papel de Shiva na entropia é **leitura do autor** (cosmovisão RC) — não é hinduísmo acadêmico validado.
 

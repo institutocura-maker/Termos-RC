@@ -18,7 +18,7 @@ Nas RC, Brahma é o **"Criador caído, apodrecido e adoentado"** — a mesma ent
 ## Contexto / Origem
 Brahma integra a **Trimurti** (com Vishnu e Shiva) e é o **Primeiro Logos** da Criação. A identificação Brahma = Javé é central para a cosmologia RC e para o "drama do Criador".
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Brahma
 - **Variações:** Brajna (condição Adhyatman, antes da queda); identificado a Javé, Caos, Pan Ku, Alá, Atom
 

@@ -18,7 +18,7 @@ Tese (leitura do autor, palestra **P2019-04-14**, U0001/U0002) de que **a humani
 ## Contexto / Origem
 Aparece em **P2019-04-14**, U0001 e U0002. Contexto: a palestra abre com a **assimetria fundamental** entre humanos e demos. Os demos são **modificáveis em face** (metamorfoseiam) mas **não modificáveis em psiquismo** (não conseguem "se reformar intimamente"). Os humanos são **modificáveis em psiquismo** (podem "se reformar intimamente") mas **não modificáveis em face** (têm só uma face). Esta assimetria é a **origem da exploração**: os demos precisam dos humanos para **gerar o "perfume"** que eles não conseguem gerar sozinhos.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Prole sem Face (Humanos Modificáveis sem Face Definida)
 - **Variações STT capturadas:** "prole sem face", "progênie sem face", "humanos terracos"
 - **Idioma de origem:** Português

@@ -18,7 +18,7 @@ A "dança dos elétrons" é o processo pelo qual **o universo material se consti
 ## Contexto / Origem
 O cap. 7 de B041 (2018) detalha a dança: quarks e léptons (primeiras partículas), a descoberta de **Charon** (memória quântica infinita dos elétrons), e a comunicação instantânea não-local entre todos os elétrons do universo (Física Quântica). A dança é a base da "rebelião dos elétrons" (RC-378): se o elétron não "mudasse de órbita", nada disso aconteceria.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Dança dos Elétrons
 - **Variações:** jogo dos elétrons; dança dos elétrons (metáfora); transições orbitais (termo científico)
 

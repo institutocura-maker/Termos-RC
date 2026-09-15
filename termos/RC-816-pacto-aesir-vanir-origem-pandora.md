@@ -20,7 +20,7 @@ Aparece em **P2018-05-20**, U0002. Contexto: o autor faz um **salto de 5 bilhõe
 
 A palestra **NÃO FUSIONA o Kvasir da mitologia nórdica clássica com o "princípio de Pandora"** — o autor usa o Kvasir como **analogia mítica** para mostrar que a ideia de "criar o melhor de todos a partir de uma tigela" é **uma estrutura mítica recorrente** que se repete em Pandora (Zeus + Têmis).
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Pacto Aesir-Vanir como Origem Nórdica da Ideia de Pandora
 - **Variações STT capturadas:** "Aesir", "Vanir", "Fria", "Kvasir", "tigela", "saliva"
 - **Idioma de origem:** Nórdico antigo (Æsir, Vanir, Kvasir) + Português

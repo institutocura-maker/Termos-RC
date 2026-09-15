@@ -18,7 +18,7 @@ atualizado = "2026-09-13"
 ## Contexto / Origem
 No B087 (psicografia de Jeane Miranda — versão paralela às obras primárias B021): Pandora propõe a engenharia ("proponho que criemos um ser que terá mais dos seus genes do que do meu"); Epimeteu recusa primeiro ("não quero que Zeus pense que um filho meu é sua propriedade") e aceita após o argumento da libertação; o "círculo de luz": "juntámos a nossa força mental e formámos um 'círculo de luz' e, dentro dele, começámos a engendrar – ou a criar – um corpo" (p. 71); Pandora usa ocultamente os seus poderes mentais para urdi-la; o nome: "Pirra, que significa aquela cheia de sabedoria, de justiça e amor" (p. 72); a primeira fala: "Quem sou eu? Por que me criaram?"; a percepção aguda (descobre as manipulações secretas de Pandora com as "poções", p. 83); a divisão de trabalho com Pandora (estimular o macho especial de dia e de noite).
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Pirra
 - **Variações:** —
 - **Obs.:** no livro, o nome é traduzido como "aquela cheia de sabedoria, de justiça e amor" (fala de Epimeteu, p. 72); no mito clássico, "pirra" = "a ruiva/vermelha como fogo"

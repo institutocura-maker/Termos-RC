@@ -18,7 +18,7 @@ Tese (leitura do autor, palestra **P2019-04-14**, U0005) de que **o suicídio vo
 ## Contexto / Origem
 Aparece em **P2019-04-14**, U0005. Contexto: a palestra apresenta o **gesto extremo** — a **greve de fome genética**. O autor conta sua própria experiência: "Eu não vou mentir a vocês. Eu já fiz isso quando eu percebi no auge do meu susto que eu ia ter, eu ganhei grátis um ser que me estuprava todo santo dia [...] eu digo, vou vou Nada, lona, minha sata garra, eu sei fazer isso." Mas foi salvo: "quando eu vi amigos espirituais do meu lado de joelhos, jogando pedrinhas amorosas para eu abrir os olhos". **A humanidade tem medo** de quando isso se tornar conhecido — "os espíritos mais frágeis poderão fazer isso". O **jejum** (sem chegar à morte) é a versão moderada: "O jejum pode ser uma arma maravilhosa pra gente aprender a comer [...] Alimentação corpória do que pelo prazer da alimentação".
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Greve de Fome Genética (Suicídio como Quebra do Código Demoníaco)
 - **Variações STT capturadas:** "greve de fome", "sata garra", "lona", "jejum"
 - **Idioma de origem:** Português

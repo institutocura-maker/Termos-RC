@@ -18,7 +18,7 @@ Tese (leitura do autor, palestra **P2018-02-24**, U0005) de que **o Espiritismo 
 ## Contexto / Origem
 Aparece em **P2018-02-24**, U0005. Contexto: o autor lista as religiões como instrumentos de dominação e inclui o Espiritismo entre elas, mas com a ressalva: "Por mais que ele tenha estranhado, mas o verme, no germe da poluição, veio através de espíritos de ex-católicos e ex-protestantes que soldados espíritas trouxeram."
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Espiritismo com Germe da Poluição Católica/Protestante
 - **Variações STT capturadas:** "espiritismo", "germe da poluição", "soldados espíritas", "ex-católicos", "ex-protestantes"
 - **Idioma de origem:** Português

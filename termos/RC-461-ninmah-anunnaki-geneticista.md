@@ -58,7 +58,7 @@ Anunnaki geneticista, irmã de Enki (RC-486) e Enlil (RC-487) — também chamad
 | Enki (Anunnaki; inoculou o gene FOXP2) | RC-486 | relaciona-se-a |
 | Enlil (deus sumério, par de Enki) | RC-487 | irmã-de |
 
-## Blindagem
+## Observações
 
 Base secreta nos EUA, derretimento de silos na Guerra Fria e habitat em mares/águas são **inferências narrativas do autor** (quarentena ufopolítica) — a Arca não as chancela como fatos.
 

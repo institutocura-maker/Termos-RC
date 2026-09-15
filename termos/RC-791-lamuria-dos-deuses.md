@@ -18,7 +18,7 @@ Tese (leitura do autor, palestra **P2025-04-06**, U0004) de que a **"lamúria do
 ## Contexto / Origem
 Aparece em **P2025-04-06**, U0004. Contexto: "central de informação. Eu chamo da da lamúria dos deuses. Lamúria é o quê? É um tipo de lamentação interminável, que importuna, mas que a nada leva. Mas era exatamente esse o padrão constante desses deuses. Eles viviam se lamuriando tudo. E quem é que diabos escutava isso aqui? Prometeu e Epimeteu."
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Lamúria dos Deuses (Diagnóstico de Prometeu)
 - **Variações STT capturadas:** "lamúria", "lamúria dos deuses", "lamentação dos deuses"
 - **Idioma de origem:** Português

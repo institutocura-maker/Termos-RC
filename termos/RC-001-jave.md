@@ -18,7 +18,7 @@ Nas RC, Javé é o Deus bíblico do Antigo Testamento — Jeová/Yahweh, Alá, B
 ## Contexto / Origem
 Tema central da obra de Ellam (livros *O Drama Cósmico de Javé*, 2010, e *O Drama Espiritual de Javé*, 2011). O glossário de B031 situa Javé como o Criador do universo material e do universo antimaterial, cuja "queda" na própria Criação gerou os dois universos paralelos.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Javé
 - **Variações:** Senhor Javé; Jeová; Yahweh; YHWH; Deus Bíblico; Brahma (no sistema RC); Criador
 - **Idioma de origem:** Hebraico (tetragrama YHWH)

@@ -18,7 +18,7 @@ atualizado = "2026-08-29"
 ## Contexto / Origem
 É colocado na quarta era equinocial da cronologia apresentada.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - Grafia preferida: Mahabharata. STT: Marabarata, Marbarat, rabarata.
 - **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
 

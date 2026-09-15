@@ -18,7 +18,7 @@ atualizado = "2026-08-12"
 ## Contexto / Origem
 Quanto mais cidades "conquistadas", preces e sacrifícios um deus recebia, "maior seria a sua timé". Qualquer influência dirigida ao "domínio" de um deus era uma ofensa à sua timé — "aspecto que sempre sobrava para Zeus... no que concerne a ter que definir uma solução para os incontáveis e intermináveis problemas... que sempre convergiam para as 'Assembleias do Olimpo'". A timé é o que motiva as disputas entre deuses e humanos (e entre os próprios deuses).
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Timé
 - **Variações:** timi; honra/domínio de um deus; equivalente sânscrito: varna
 - **Idioma de origem:** grego (τιμή = honra, valor, prerrogativa)

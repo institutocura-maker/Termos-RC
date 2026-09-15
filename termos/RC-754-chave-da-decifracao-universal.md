@@ -47,14 +47,13 @@ Tema-título da palestra de 14/06/2025: a **finalidade/propósito evolutivo** da
 | Escola da Decifração da Realidade (Método Druídico) | RC-755 | relaciona-se-a |
 | Escola da Decifração da Realidade (Método Druídico) | RC-755 | ← relaciona-se-a |
 
-## Blindagem epistemológica
+## Observações
 
 "A chave da decifração universal" é **conceito próprio de Ellam**, metaforicamente ancorado na consciência humana; não é objeto físico nem capacidade cientificamente mensurável. As citações de Pitágoras/Protágoras e a cronologia associada são leitura do autor. O verbete descreve o propósito evolutivo na narrativa da RC, sem afirmação factual externa.
 
 
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-754.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
 
-## Observações
 
 [Aguardando Ditado Livre]
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

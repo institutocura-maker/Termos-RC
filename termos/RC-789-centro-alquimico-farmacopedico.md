@@ -18,7 +18,7 @@ Tese (leitura do autor, palestra **P2025-04-06**, U0004) de que existiram **dois
 ## Contexto / Origem
 Aparece em **P2025-04-06**, U0004. Contexto: depois da destruição de Asgard pelo Ragnarok, Prometeu e Epimeteu recolheram os "restos alquímicos" e operaram o segundo centro nos criatórios — que era **visitado por todas as estirpes** do universo vizinho (centauros, sátiros, etc.) e por humanos da Terra.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Centro Alquímico-Farmacopédico
 - **Variações STT capturadas:** "centro alquímico", "centro farmacopédico", "criatório de Prometeu", "criatório de Epimeteu"
 - **Idioma de origem:** Português + grego (φαρμακοποιΐα "pharmacopeia")

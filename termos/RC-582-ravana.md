@@ -18,7 +18,7 @@ Rakshasa apresentado como ser extremamente poderoso, antagonista de Rama no cont
 ## Contexto / Origem
 Na cronologia da palestra, Ravana pertence à segunda era equinocial e sua força é vinculada ao consumo de sangue de mamíferos.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - Grafia preferida: Ravana.
 - **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
 

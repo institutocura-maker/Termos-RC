@@ -18,7 +18,7 @@ Vestimenta/nível mental posterior ao búdico, no qual surgiria vontade de criar
 ## Contexto / Origem
 A live identifica este nível como origem do ímpeto criativo, após a tomada de consciência possibilitada pelo Corpo Búdico.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - Grafia preferida: Corpo Manásico / Corpo Mental. STT: manáico.
 - **Fonte da decisão:** Devolutiva-01 + observação direta do curador.
 

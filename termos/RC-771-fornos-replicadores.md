@@ -20,7 +20,7 @@ Naves ou estações gigantescas de semeadura de vida biológica, construídas pe
 - **nó-guarda-chuva criado por autorização excepcional do curador (Devolutiva ART-2025-08-01, O-3):** a Navalha de Ockham foi excepcionada por tratar-se de nó estrutural vital, agrupando os três fornos sob um mesmo eixo sistêmico;
 - material de referência: **ART-2025-08-01** (dossiê do curador "Fornos Replicadores – Awayen, Awaylengan e Awaymaion", baseado estritamente em Ellam).
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - Grafia preferida: Fornos Replicadores. Variações: fornos geradores de vida; Centrais de Realidades; laboratórios dimensionais.
 - STT: "forno de Alamaior" = Awaymaion (RC-499) — resolução confirmada pelo ART-2025-08-01.
 

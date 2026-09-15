@@ -70,6 +70,11 @@ Na cosmologia de Ellam, a faixa espiritual intermediária que envolve a Terra �
 | Faixas Espirituais de Ressonância | RC-726 | ← relaciona-se-a |
 | Colegiados Espirituais Humanizados | RC-745 | associado |
 
+
+- Faixas Espirituais de Ressonância — RC-726;
+- Universo Antimaterial — RC-106;
+- Abismo da Providência — RC-723.
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
@@ -85,13 +90,7 @@ Na cosmologia de Ellam, a faixa espiritual intermediária que envolve a Terra �
 ## Citação-chave
 > "Não é porque tem autoridade autocrática... é porque é assim que as coisas são no mundo espiritual. Por isso que não é permitida a democracia."
 
-## Relações centrais
-
-- Faixas Espirituais de Ressonância — RC-726;
-- Universo Antimaterial — RC-106;
-- Abismo da Providência — RC-723.
-
-## Observação
+## Observações
 
 **Quarentena teológica:** a leitura de "E Deus viu que era bom" e do criador caído é do autor.
 

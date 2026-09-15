@@ -18,7 +18,7 @@ Ser criado por Vishnu como personificação do desejo despertado nos deuses dian
 ## Contexto / Origem
 Surge após a externalização da cólera: o desejo coletivo dos deuses de levar a Grande Deusa para suas lokas é personificado em Kama.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - Grafia preferida: Kama. STT: cama.
 - **Fonte da decisão:** Devolutiva-01 + observação direta do curador.
 

@@ -18,7 +18,7 @@ Termo extraído e aprovado na curadoria de P2025-05-31.
 ## Contexto / Origem
 O Mistério da Árvore da Vida e a Urdidura de Metatron.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 Forma preferida: Malkuth.
 
 

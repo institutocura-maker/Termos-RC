@@ -18,7 +18,7 @@ No contexto da Revelação Cósmica, **o Criador é Brahma**, responsável pela 
 ## Contexto / Origem
 A distinção **Criador (caído) × Deidade (Pai-Mãe)** é um dos eixos doutrinários do RC. O Criador "caiu" na própria Criação, gerando os dois universos paralelos e o drama cósmico.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Criador
 - **Variações:** Brahma; Javé; Deus Bíblico; Demiurgo (Platão); "Criador caído"
 

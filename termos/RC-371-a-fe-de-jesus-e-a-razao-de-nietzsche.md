@@ -18,7 +18,7 @@ O contraste e o choque entre a **fé de Jesus** e a **razão de Nietzsche** — 
 ## Contexto / Origem
 O B049 explora a dialética fé × razão como complementares: a fé de Jesus (amor, compaixão) e a razão de Nietzsche (crítica, emancipação) trabalham juntas para libertar o ser humano dos condicionamentos ("donos do legado"). O conceito conecta-se à Liberdade Mental (RC-253) e ao Imperativo Categórico da Moral (RC-328): a razão filosófica como freio ao mal.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** A Fé de Jesus e a Razão de Nietzsche
 - **Variações:** fé × razão; o choque fé-razão; a fé de Jesus e a crítica de Nietzsche
 

@@ -25,7 +25,7 @@ Os **quatro universos/níveis dimensionais revelados pela Cabala**, mapeados por
 ## Contexto / Origem
 A Doutrina das Emanações das Sefiroth opera "por sobre" essas quatro dimensões. Na perspectiva terrena atual: "Assiah corresponde ao universo no qual vivemos e Yetzirah, ao universo vizinho, onde se encontra 'refém' o Criador 'caído'". Os cabalistas desconhecem que "as demais tradições esotéricas... sempre conceberam a ideia de que a Criação havia sido obra de três Entidades" — o "deus dos judeus" refere-se a apenas uma delas (a 1ª Constatação de B013).
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Planos de Existência da Cabala
 - **Variações:** quatro universos-mundos; níveis dimensionais da Cabala; Atziluth/Briah/Yetzirah/Assiah (grafias variam: Atzilut, Beriá/Briah, Yetzirá/Yetzirah, Assiá/Assiah)
 

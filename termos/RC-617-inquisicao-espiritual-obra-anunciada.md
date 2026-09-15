@@ -18,7 +18,7 @@ Livro anunciado por Jan Val Ellam, destinado a tratar do Roseral do Alto e dos p
 ## Contexto / Origem
 Em 2021, o autor dizia tentar concluí-lo e não saber se conseguiria publicá-lo nessa vida.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - Grafia preferida: Inquisição Espiritual. Classificação: obra anunciada/em elaboração.
 - **Fonte de decisão:** Quadro 9 aprovado pelo curador.
 

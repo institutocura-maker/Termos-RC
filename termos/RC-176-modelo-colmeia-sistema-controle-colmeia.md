@@ -18,7 +18,7 @@ atualizado = "2026-08-29"
 ## Contexto / Origem
 O modelo colmeia **já vigia entre Javé e os seus anjos-clones no universo antimaterial (Brahmaloka)** e, muito mais tarde, seu código "apodrecido e doente" veio a se tornar a "molécula-mãe" da vida terrestre (cap. 1–2). Com os demos houve flexibilização; com a vida biológica o modelo foi reimposto "atavicamente registrado nos genes"; com o homem, a liberdade passou a ser essencial, impedindo que o modelo colmeia continue funcionando (cap. 11). É o correlato biológico do "controle colmeia" que foi "destravado" pelos humanos (cap. 14).
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Modelo Colmeia
 - **Variações:** sistema colmeia; controle colmeia; "modelo colmeia" (aspas na obra)
 

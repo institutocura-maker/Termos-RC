@@ -18,7 +18,7 @@ Os agentes do Quarto Logos — Olm, o Codificador de Zian (RC-092 / RC-252) — 
 ## Contexto / Origem
 Fonte única (B014). O Quarto Logos é o único dos quatro que não mergulhou no Brahmaloka, podendo por isso criar um CFD próprio — daí a função de «codificador». A Escola dos Agentes Esclarecidos da Busca da Verdade (RC-256) aparece como a instância de formação desses agentes.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - Grafia preferida: Agentes do Quarto Logos
 - Variações: agentes de Olm; esclarecedores
 - Logos: Quarto Logos / Olm (RC-092, RC-252)
@@ -31,18 +31,17 @@ Fonte única (B014). O Quarto Logos é o único dos quatro que não mergulhou no
 | Olm (Codificador de Zion/Zian) | RC-252 | associado |
 | Escola dos Agentes Esclarecidos da Busca da Verdade | RC-256 | associado |
 
-## Fontes
-| Obra/palestra | Localização | Tipo |
-|---|---|---|
-| B014 | — | registro-mestre (fonte censada) |
-
-## Relações centrais
 - RC-092 — ver ficha correspondente
 - RC-252 — ver ficha correspondente
 - RC-256 — ver ficha correspondente
 - RC-071 — ver ficha correspondente
 
-## Observação
+## Fontes
+| Obra/palestra | Localização | Tipo |
+|---|---|---|
+| B014 | — | registro-mestre (fonte censada) |
+
+## Observações
 Fonte única (B014) — manter sob [REVISAR] até nova evidência. Verbete de apoio à seção III.13.5 (Consciências coletivas e Logos).
 
 **[REVISAR]** — fonte única; ampliar com revisão cruzada antes de promover o status.

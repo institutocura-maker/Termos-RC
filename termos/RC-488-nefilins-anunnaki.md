@@ -78,7 +78,7 @@ Na RC, os **Nefilins** da tradição bíblica (Gênesis 6) identificados com os 
 | Igigi | RC-580 | relaciona-se-a |
 | Ao Vencedor as Batatas (paradigma do domínio) | RC-764 | ← relaciona-se-a |
 
-## Blindagem
+## Observações
 
 Correlação anaquins/enacins = Anunnaki/Nefilins é **leitura do autor** (Teologia Comparada/ufológica) — não é exegese bíblica validada.
 

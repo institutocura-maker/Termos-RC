@@ -20,10 +20,9 @@ Domínios de Morfeu — conceito desenvolvido na palestra «A Teia da Vida e o C
 **Fonte:** palestra «A Teia da Vida e o Circuito Oculto dos Deuses» (13/01/2024).
 **Trecho verbatim:** «Quais são os domínios de Morfeu? Boa parte das faixas de realidades produzidas pelos lupos mentais dos humanos»
 
-## Relações
+## Termos Relacionados
 - RC-479
 - RC-899
-## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
 | Belial (arconte; 'Satã' do livro de Jó) | RC-479 | associado |

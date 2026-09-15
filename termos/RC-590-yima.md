@@ -18,7 +18,7 @@ Figura do Avesta associada à construção de abrigos subterrâneos destinados a
 ## Contexto / Origem
 A palestra cita Yima ao tratar das eras e de cidades subterrâneas na região da atual Turquia.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - Grafia preferida: Yima. STT: Ina.
 - **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
 

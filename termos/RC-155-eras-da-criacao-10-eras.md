@@ -33,7 +33,7 @@ Divisão da história da Criação "indevida" de Prabrajna (ou Prajapati) em **s
 ## Contexto / Origem
 As Eras da Criação são o **esqueleto cronológico** da cosmologia RC: organizam todos os eventos (queda do Criador, mergulhos de Savna/Mavatna, Projeto Talm, Rebelião, isolamento da Terra) numa linha única que entrelaça os quatro contextos (Espiritual Superior, Cósmico Demo Antimaterial, Biológico Material Extraterreno e Terreno).
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Eras da Criação
 - **Variações:** eras universais; as dez eras; eras da Criação Universal
 

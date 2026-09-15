@@ -18,7 +18,7 @@ Projeção de múltiplos eus ou identidades sustentados por um mesmo espírito a
 ## Contexto / Origem
 A palestra usa o conceito para conectar Adhyprabrajna, Adhymavatana, Brahma, Vishnu, Sophia, Jesus, Elm e Olm.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - Grafia preferida: Fatiamento de Consciência. Variações: consciência fatiada; espírito fatiado.
 - **Fonte de decisão:** Quadro 9 aprovado pelo curador.
 

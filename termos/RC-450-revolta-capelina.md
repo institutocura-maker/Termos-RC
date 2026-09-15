@@ -18,7 +18,7 @@ Designação usada nos "Livros de Yel Luzbel" (Jeane Miranda) para o processo de
 ## Contexto / Origem
 No Livro 1 (B057), Yel Luzbel levanta suas constatações sobre a Obra do Criador e as três questões a Sophia; o silêncio da "Hierarquia Cósmica" gera desassossego. No Livro 2 (B058), a Família Mion contata os demais Biocoletivos, Yel Luzbel se desliga do Processador Yel e é nomeado "Primeiro em Comando" das famílias rebeladas — o movimento vira uma organização com "líderes e soldados" para combater Sophia. O desfecho (organização bélica) conecta-se diretamente ao Livro 3, "Sinais de Guerra em Capela" (B059, anunciado).
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Revolta Capelina
 - **Variações:** "Revolta de Capela"; "Rebelião dos Anjos Decaídos" (designação terrena); "Rebelião de Lúcifer" (RC-002)
 - **Obs.:** na narrativa psicografada, "revolta capelina" refere-se à fase inicial em Capela; a base registra o evento maior como "Rebelião de Lúcifer" (RC-002)

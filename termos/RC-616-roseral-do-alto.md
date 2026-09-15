@@ -18,7 +18,7 @@ Cidade espiritual situada acima da região montanhosa do norte da Espanha, em di
 ## Contexto / Origem
 É o cenário anunciado do livro Inquisição Espiritual e dos primeiros elementos da Nova Espiritualidade.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - Grafia preferida: Roseral do Alto. STT: Roseraldo Alto.
 - **Fonte de decisão:** Quadro 9 aprovado pelo curador.
 

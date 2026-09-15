@@ -20,10 +20,9 @@ Tonteltã — conceito desenvolvido na palestra «A Teia da Vida e o Circuito Oc
 **Fonte:** palestra «A Teia da Vida e o Circuito Oculto dos Deuses» (13/01/2024).
 **Trecho verbatim:** «Esse ser chamado espírito chamado Tonteltã. Ele se apresentou com essas asas»
 
-## Relações
+## Termos Relacionados
 - RC-072
 - RC-490
-## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
 | Jesus | RC-072 | associado |

@@ -18,7 +18,7 @@ Perpérion é um dos cinco Archeons de Ereon e o setor da Espiritualidade Labora
 ## Contexto / Origem
 A palestra o apresenta junto a Antérion, Danérion, Mermérion e Tempérion. É o domínio do Gênero Adhy, da espécie Pashvnaj e de Prabrajna/Adhyprabrajna — o foco em que se inicia o problema da Criação Indevida. Os seres LM Elm e Olm não se originam aqui: vêm de Tempérion para observar a imponderabilidade, interagem em Perpérion e acabam mergulhando no processo.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - Grafia preferida: Perpérion. Variações de STT: Perpério, Perfério, Perpéria, Perpérian. Não confundir com Tempérion.
 - **Fonte de decisão:** curadoria estrutural C-01 a C-07, 2026-08-14.
 

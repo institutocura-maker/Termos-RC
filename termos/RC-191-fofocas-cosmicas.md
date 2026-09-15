@@ -25,7 +25,7 @@ O nome que a RC dá ao **tráfego de informação na espiritualidade** — o cir
 
 **Origem do conteúdo da ampliação:** palestra `P2023-10-14 — A Esquecida Honra dos Anunnaki` (U0081, U0076 e o megabloco U0020), do `original.txt` (transcrição automatizada, **não conferida com o áudio**); aspas recortadas byte a byte por `_gerar_ampliacoes_P2023-10-14.py`.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 
 - **Canônico da Base:** *fofocas cósmicas*.
 - **Na fonte oral (P2023-10-14):** «rede de **fofota** grande na espiritualidade» [REVISAR: «fofota» é o que o STT entregou para *fofoca*; preservar → CHANCELA 2026-09-06 · F039-L3: AGUARDA-ÁUDIO (STT preservado como falado) — ver nota], «fofocas do circuito ao qual o espírito que me anima pertence».

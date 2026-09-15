@@ -18,7 +18,7 @@ As RC fazem uma distinção fundamental: existe o **Deus Bíblico** — chamado 
 ## Contexto / Origem
 Esta distinção é a chave hermenêutica das RC: separa o "Deus" das religiões (Javé, o Criador problemático) do Princípio Maior incognoscível (Deus/Deidade). Responde diretamente às perguntas "Deus existe? Quem ou o que é Deus?" colocadas na sinopse do guia.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Deus (quando referido ao Incognoscível); Deus Incognoscível
 - **Variações:** Deidade Suprema; Fonte; Princípio Maior; Deus Bíblico (= Javé, não confundir)
 

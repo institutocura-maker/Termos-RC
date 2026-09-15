@@ -18,7 +18,7 @@ Instruções finais atribuídas a Javé para que clones observem estudantes da R
 ## Contexto / Origem
 Extraído da live P2025-10-25 — 2ª Edição Estagiários do Kaos.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - Forma preferida: **Últimas Ordens de Javé aos Clones**.
 
 

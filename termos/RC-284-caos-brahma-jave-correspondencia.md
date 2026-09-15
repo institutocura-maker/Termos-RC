@@ -18,7 +18,7 @@ Correspondência estabelecida em *O Sorriso de Pandora* (B020): **Caos (Mitologi
 ## Contexto / Origem
 Em B020, Pandora narra sua convivência com o criador: "os desígnios de Caos/Javé", "Caos, o criador dos céus e da Terra", "Caos/Brahma/Javé humilhou Jesus, impondo-lhe a crucificação". A mesma cadeia inclui as outras duas divindades: **Eros = Vishnu** e **Tártaro = Shiva** (RC-286). A correspondência é essencial para ler a mitologia grega como fonte da cosmologia RC.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Caos = Brahma = Javé
 - **Variações:** Caos/Brahma/Javé; Caos (Javé); Caos = Brahma = Javé (cadeia completa com Jeová, Alá, Pangu, Atom)
 - **Idioma de origem:** grego (khaos)

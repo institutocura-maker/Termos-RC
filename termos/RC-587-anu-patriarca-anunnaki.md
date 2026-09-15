@@ -18,7 +18,7 @@ Patriarca Anunnaki apresentado como pai de Enki e Enlil e autoridade na lógica 
 ## Contexto / Origem
 Aparece na disputa entre clãs e na reação ao uso das armas atômicas que teriam vindo de Nibiru.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - Grafia preferida: Anu.
 - **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
 

@@ -18,7 +18,7 @@ A "rebelião dos elétrons" é o **movimento inconsciente de rebelião íntima n
 ## Contexto / Origem
 A obra B041 (2018) desenvolve o tema: os elétrons, "sujados" pela violência imperativa das espécies predadoras, começaram a "marcar caos, horror e tragédia" nos seus circuitos quânticos; a rebelião inconsciente (cap. 17) provoca desdobramentos tanto no ordenamento quanto no caos. O cap. 22 revela o sentido profundo: para Javé, a rebelião é "a oportunidade de salvação do que resta da sua consciência". A **ressonância mórfica** (Sheldrake) entre antielétrons e elétrons foi o "principal agente" da rebelião.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** A Rebelião dos Elétrons
 - **Variações:** rebelião inconsciente no âmbito dos elétrons; rebelião íntima dos elétrons; a "rebelião" (aspas na obra)
 

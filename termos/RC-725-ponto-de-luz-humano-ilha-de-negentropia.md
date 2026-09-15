@@ -137,7 +137,7 @@ Humano que, por vontade, serenidade e decência, produziria um foco de resistên
 | P2024-11-09 | U0715–U0750; U1050–U1070; U1260–U1270 | palestra/STT |
 
 
-## Blindagem científica
+## Observações
 As afirmações sobre voltagem celular, aura de 18 metros, elétrons e massa crítica não são tratadas como ciência estabelecida. Números conjunturais não integram a definição canônica.
 ## Citações-chave
 

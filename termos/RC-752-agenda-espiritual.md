@@ -56,7 +56,7 @@ A **expressão prática** da bagagem espiritual: o conjunto de necessidades e pe
 | Messias | RC-942 | associado |
 | João Batista | RC-944 | associado |
 
-## Blindagem epistemológica
+## Observações
 
 "Agenda espiritual", "encomenda de encarnações" e "encriptação no código genético" são **leitura própria de Ellam** sobre a dinâmica espírito/eu, não fato científico nem doutrina espiritual validada. O registro não afirma a realidade mensurável de uma "agenda"; descreve o modelo cosmológico-ético do autor. A fala "a agenda espiritual se acabou nesse tempo" permanece em Colecionar Incertezas (aguardando contexto).
 

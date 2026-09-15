@@ -18,7 +18,7 @@ Pashvnaj é uma das cinco espécies do Gênero Adhy. A palestra atribui à espé
 ## Contexto / Origem
 O problema que culminou na Criação Indevida é ligado a um pequeno subgrupo Pashvnaj de Perpérion. Prabrajna e Mavatna/Vishnu são associados a essa linhagem taxonômica.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - Grafia preferida: Pashvnaj. Variações de STT: vinage, fa vinagem, pasivagem. Grafia ainda deve ser conferida em áudio/obra primária.
 - **Fonte de decisão:** curadoria estrutural C-01 a C-07, 2026-08-14.
 

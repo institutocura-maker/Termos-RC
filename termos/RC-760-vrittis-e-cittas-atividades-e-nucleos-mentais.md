@@ -90,7 +90,7 @@ Mecânica técnica de funcionamento psíquico apresentada por Jan Val Ellam (P20
 | Jainismo (antigo Druidismo — religião mais antiga) | RC-759 | ← relaciona-se-a |
 | Os 256 Caminhos Profetizáveis de Orunmilá | RC-767 | ← relaciona-se-a |
 
-## Blindagem epistemológica — QUARENTENA CLÍNICA
+## Observações
 
 A afirmação de que "cada transtorno mental é um citta que reina" é **metáfora do autor**, não terminologia clínica. Vrittis/cittas/citta sagrado são **conceitos próprios da RC**, derivados dos Yoga Sutras de Patanjali, sem validação neurocientífica. A "vontade de sobrevivência de Javé" retransmitida a cada citta é leitura cosmológica do autor.
 

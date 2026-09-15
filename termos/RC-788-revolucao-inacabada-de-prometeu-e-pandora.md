@@ -18,7 +18,7 @@ Tese (leitura do autor, palestra **P2025-04-06 — A Revolução Inacabada de Pr
 ## Contexto / Origem
 Aparece em **P2025-04-06** — palestra de 2025 que **encerra o tema Pandora** iniciado em P2018-10-06. Contexto: depois de 4 palestras (P2018, P2019, P2023-N, P2023-K), o autor **encerra o ciclo** com a mensagem de que a revolução foi inacabada, mas pode ser reacendida na intimidade de cada humano inconformado.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Revolução Inacabada de Prometeu e Pandora
 - **Variações STT capturadas:** "revolução inacabada", "revolta de Prometeu", "Revolta de Pandora"
 - **Idioma de origem:** Português

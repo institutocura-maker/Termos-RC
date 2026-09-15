@@ -49,7 +49,7 @@ atualizado = "2026-08-18"
 | Dignidade como Critério de Consciência | RC-722 | relaciona-se-a |
 | Genótipo da Gentileza (GG) | RC-748 | relaciona-se-a |
 
-## Blindagem epistemológica
+## Observações
 
 Linhagem espiritual e "encomenda" da Deidade são **leitura do autor** (Teologia Comparada) — não é genealogia histórica validada. O contraste setianos × devocionais reforça a crítica à devoção (RC-749), mantendo a hierarquia da Base.
 

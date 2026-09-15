@@ -18,7 +18,7 @@ atualizado = "2026-08-29"
 ## Contexto / Origem
 Termo do universo da Revelação Cósmica (presente nas obras primárias de Ellam e no glossário Raquyel, B031). No B057, a estirpe aparece na SINTESE da contracapa: o desassossego de Yel Luzbel foi "até então **nunca sentida pela estirpe dos biodemos**", espalhando-se "como uma espécie de 'vírus mental' para outros 'anjos' que apresentavam um tipo de mente coletiva" — e as perguntas dele "foram o estopim de conflitos e **modificações no genoma de alguns biodemos** que terminaram classificados como 'rebelados' pelas hostes celestiais que os exilaram daquele circuito cósmico". Os capelinos são **Biocoletivos** (RC-445): coletivos de biodemos. As famílias Yel (RC-442) e Mion (RC-443) são "coletivos de biodemos de Capela" (relações registradas em B058).
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Biodemos
 - **Variações:** "estirpe dos biodemos" (B057); biodemos (plural)
 - **Obs.:** não confundir com **Demos** (RC-049) — categoria/estirpe distinta na malha

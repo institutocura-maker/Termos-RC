@@ -19,7 +19,7 @@ Espécie precursora e experimental do **Projeto TALM** (RC-091): "seres-cobaias"
 - Termo já presente na base (B031/B024; sem ficha física);
 - **ficha materializada** por autorização da Devolutiva Trilogia TALM (O-2 — "os detalhes dos Fenvans em RC-064").
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - Grafia preferida: Fenvans. STT/variações: "fenvães", "fenvans"; relacionado a Corpos Fenvã (RC-769 — terceira forma de vida do universo vizinho) e "pré-fenvans" (leva inicial sacrificial).
 
 ## Ampliação

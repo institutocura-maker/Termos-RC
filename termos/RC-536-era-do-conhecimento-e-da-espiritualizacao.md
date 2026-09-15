@@ -18,7 +18,7 @@ atualizado = "2026-08-13"
 ## Contexto / Origem
 A abertura das *Crônicas de um Novo Tempo* (B042) situa o livro no contexto da virada de era (crônicas escritas ~1999–2002, mesma fase da trilogia Queda e Ascensão Espiritual). O autor denomina a nova era como a **"do conhecimento e da espiritualização"** — conectada à Revelação Cósmica (RC-094) e à preparação para a Reintegração Cósmica (RC-003).
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Era do Conhecimento e da Espiritualização
 - **Variações:** "nova era do conhecimento e da espiritualização"; "novo tempo" (título da obra)
 - **Obs.:** o título do livro ("Crônicas de um Novo Tempo") ecoa essa denominação

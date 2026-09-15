@@ -55,7 +55,7 @@ Na leitura de Jan Val Ellam (P2025-06-14b), a mecânica limitadora fundamental q
 | Chave da Decifração Universal | RC-754 | relaciona-se-a |
 | Chave da Decifração Universal | RC-754 | ← relaciona-se-a |
 
-## Blindagem epistemológica — QUARENTENA CIENTÍFICA
+## Observações
 
 Os números (400 bi/2.000/10 bits) e a referência à "redução objetiva orquestrada" (Penrose/Hameroff) são **leitura de Ellam / citação de teoria externa não comprovada** — a Base não endossa essas teorias como ciência validada. O verbete registra a mecânica limitadora como modelo cosmológico do autor, não como dado neurocientífico estabelecido.
 ## Citações-chave

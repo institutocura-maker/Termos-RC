@@ -18,7 +18,7 @@ Tese (leitura do autor, palestra **P2017-05-14**, U0002) de que **Javé (RC-001)
 ## Contexto / Origem
 Aparece em **P2017-05-14**, U0002. Contexto: depois que Javé (RC-001) caiu no buraco branco e foi "tragado" pela própria criação, ele passou **500 milhões de anos** se reconstruindo. Quando se reconstruiu, ele estava "totalmente demente e desagregado" — o que originou a "doença do criador" (violência, dominação) e os clones (anjos glores).
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Era da Solidão de Javé (500 Milhões de Anos)
 - **Variações STT capturadas:** "era da solidão", "Japés", "Javé solidão"
 - **Idioma de origem:** Português

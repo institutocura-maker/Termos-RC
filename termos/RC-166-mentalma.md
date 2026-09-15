@@ -18,7 +18,7 @@ atualizado = "2026-08-28"
 ## Contexto / Origem
 Criado ao longo dos anos pelo próprio Ellam ("fui transformando as minhas atuações em fator de emancipação pessoal... que resultaram no Mentalma"), o método questiona as "certezas sinápticas" do cérebro e visa: autoconhecimento, autocontrole, elevação da compreensão e **emancipação do psiquismo**. As práticas incluem a gestão dos **Arquivos Mentais** (RC-548), o **Circuito do CHA** (RC-549), a **Vontade de Progredir** (RC-550), a **Disciplina dos 3As** (RC-552) e o aprofundamento no **Eu Profundo** (RC-553).
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Mentalma
 - **Variações:** "Mentalma" (nome do método e da série); o usuário refere-se à série também como "METALMA"
 - **Obs.:** o livro I define como "a minha disciplina de Yoga, que criei para o meu cotidiano, com o intuito de viver melhor a vida"

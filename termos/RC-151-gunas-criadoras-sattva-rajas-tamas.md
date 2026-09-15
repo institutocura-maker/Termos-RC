@@ -24,7 +24,7 @@ Segundo o entendimento dos arianos-hindus, **Rajas, Sattva e Tamas são as três
 ## Contexto / Origem
 As Gunas explicam a física da Criação "indevida" associada à mitologia hindu: a energia Rajásica de Prabrajna criou os quarks (e, com distúrbios, os elétrons); Mavatna usou a energia Sattva para criar os glúons e organizar a energia Rajas (as quatro forças fundamentais); a energia Tamas de Savna é a desagregadora, que faz tudo nascer com o "germe" da própria morte e presidirá a finalização do universo. Os hindus relacionam Brahma, Vishnu e Shiva às energias Rajas, Sattva e Tamas, respectivamente — os três pilares de criação.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Gunas
 - **Variações:** as três Gunas; energias Rajas, Sattva e Tamas; gunas criadoras
 - **Origem:** sânscrito (guṇa = qualidade/atributo)

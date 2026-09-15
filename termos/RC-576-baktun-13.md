@@ -18,7 +18,7 @@ Marco do calendário maia associado ao ano de 2012 e reinterpretado na palestra 
 ## Contexto / Origem
 Surge na crítica às leituras apocalípticas modernas das estelas maias e à perda do contexto tolteca.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - Grafia preferida: Baktun 13. STT: Bactum 13, bactunes, backtom.
 - **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
 

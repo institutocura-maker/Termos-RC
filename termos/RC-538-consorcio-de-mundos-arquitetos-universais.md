@@ -18,7 +18,7 @@ atualizado = "2026-08-13"
 ## Contexto / Origem
 Na sinopse do B019: "Ao indicar um cenário de evolução possível, o autor ainda revela seus aspectos obscuros, como a existência de um 'Consórcio de Mundos', cujos integrantes, os 'Arquitetos Universais', estão comprometidos com a obtenção da tão esperada 'Criatura Universal'." O conceito conecta-se ao "Arquiteto Universal" (RC-207) e à "Era da Criatura Universal" (RC-172).
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Consórcio de Mundos
 - **Variações:** "Consórcio de Mundos" (B019, sinopse); relacionado a "Arquitetos Universais"
 - **Obs.:** no B019 a expressão aparece na sinopse; no corpo, o autor refere-se a "ambientes espirituais, Arquitetos Universais, Seres Espirituais" (p. 121)

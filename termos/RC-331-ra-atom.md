@@ -18,7 +18,7 @@ Designação do Criador nas obras: «Ra-Atom / Og-mi». Integra a série de nome
 ## Contexto / Origem
 O verbete funciona como entrada filológica: é pela multiplicidade de nomes que a pedagogia top-down destrava a confusão número 1 do iniciante («afinal, Javé e Brahma são a mesma coisa?»). A relação com RC-284 (Caos = Brahma = Javé) e com RC-001 (Javé) está averbada na malha de relações, e o seu enquadramento geral é a Revelação Cósmica (RC-094).
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - Grafia preferida: Ra-Atom / Og-mi
 - Variações: Ra-Atom; Og-mi
 - Série onomástica: Javé · Brahma · Caos · Ialdabaoth · Alá
@@ -32,18 +32,17 @@ O verbete funciona como entrada filológica: é pela multiplicidade de nomes que
 | Genética Totalitária | RC-325 | associado |
 | Marduk (= Ra; Anunnaki filho de Enki) | RC-460 | associado |
 
+- RC-284 — ver ficha correspondente
+- RC-001 — ver ficha correspondente
+- RC-094 — ver ficha correspondente
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
 | B023 | — | registro-mestre (fonte censada) |
 | B060 | — | registro-mestre (fonte censada) |
 
-## Relações centrais
-- RC-284 — ver ficha correspondente
-- RC-001 — ver ficha correspondente
-- RC-094 — ver ficha correspondente
-
-## Observação
+## Observações
 Verbete de filologia (Volume I, seção I.3 — a linguagem da RC). A equivalência entre nomes de tradições distintas é leitura comparada de Ellam.
 
 

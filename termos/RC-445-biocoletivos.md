@@ -18,7 +18,7 @@ atualizado = "2026-09-13"
 ## Contexto / Origem
 No B057 (cap. 2, pp. 21–22), Yel Luzbel explica o gênero capelino por contraste com os olimpianos citados por Pandora (RC-086, nota p. 25): "os olimpianos eram urdidos individualmente e **não são entes coletivos**, enquanto os capelinos, que podem pertencer a grandes ou a pequenas famílias, também possuem corpos individualizados, **porém são coletivos, e não têm uma identidade própria**, como os olimpianos". Ambos os gêneros "fazem parte de 'experiências' similares de um único 'projeto', que visa resolver os 'problemas' do Criador 'caído'". A condição biocoletiva é o que torna o contágio da "inquietação" de Yel Luzbel possível: "se um ser nasce de maneira coletiva... ele não tem como 'escolher, pensar ou sentir' de modo individualizado porque, a partir do momento que ele fizer algo diferente do que a sua família faz... causa 'perturbação' em todos os membros da sua espécie" (p. 22). Em B058, "a Família Mion contata os demais Biocoletivos" (registro da BIBLIO).
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Biocoletivos
 - **Variações:** "entes coletivos" (B057); "biocoletivos" (B058)
 - **Idioma de origem / etimologia:** português — bio- + coletivo (neologismo do universo capelino)

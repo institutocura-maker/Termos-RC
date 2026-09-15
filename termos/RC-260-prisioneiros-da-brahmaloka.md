@@ -18,7 +18,7 @@ Expressão do apêndice homônimo de B016 para designar os **seres da Trimurti �
 ## Contexto / Origem
 O apêndice "Prisioneiros da Brahmaloka" (B016) é uma das fontes mais densas da taxonomia RC: detalha que Savna/Tusavna (Shiva) e Mavatna (Vishnu) — outros seres Adhy da corrente Atman em Perpérion — "mergulharam" na Criação e produziram incontáveis expressões Adhyajna (Shiva: última foi Sai Baba; Vishnu: Sophia como expressão bio-demo e Jesus como forma avatárica). Brahma, prisioneiro, é o único que não consegue. Os irmãos Adhy permaneceram observando "o 'ponto de tamanho menor que uma cabeça de um alfinete'" (a singularidade) que se tornou "fator de estudo" para os seres da Espiritualidade Laboratorial.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Prisioneiros da Brahmaloka
 - **Variações:** presos no universo antimaterial; "morada" de Brahma; prisioneiros da criação
 

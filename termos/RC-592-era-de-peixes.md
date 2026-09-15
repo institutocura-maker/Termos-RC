@@ -18,7 +18,7 @@ Era zodiacal ligada, na palestra, à vida de Jesus e a uma orientação de liber
 ## Contexto / Origem
 É apresentada como antecessora da Era de Aquário e como período em que Jesus se recusou a usar poder para controlar os humanos.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - Grafia preferida: Era de Peixes.
 - **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
 

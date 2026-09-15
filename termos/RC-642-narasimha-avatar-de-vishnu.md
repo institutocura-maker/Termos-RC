@@ -18,7 +18,7 @@ Avatar de Vishnu cuja condição é relacionada ao agravamento do descompasso e 
 ## Contexto / Origem
 A palestra descreve confronto de Shiva com Narasimha sem intenção de destruí-lo, pois isso afetaria Vishnu.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - Grafia: Narasimha. STT: Nara Sima, Nacima, Naraimra.
 
 

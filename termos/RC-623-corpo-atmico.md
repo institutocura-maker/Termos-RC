@@ -18,7 +18,7 @@ Condição ou veículo espiritual original que recebe sucessivamente as vestimen
 ## Contexto / Origem
 Na live, o Corpo Átmico permanece ligado à condição original, enquanto o Corpo Búdico permite consciência de externalidade e o Manásico permite ímpeto criativo.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - Grafia preferida: Corpo Átmico. STT: corpo átimo. Distinguir de Adhyatman RC-013.
 - **Fonte da decisão:** Devolutiva-01 + observação direta do curador.
 

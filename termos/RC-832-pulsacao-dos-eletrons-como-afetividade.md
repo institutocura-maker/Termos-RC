@@ -18,7 +18,7 @@ Tese (leitura do autor, palestra **P2023-12-17**, U0004) de que o **comportament
 ## Contexto / Origem
 Aparece em **P2023-12-17**, U0004. Contexto: a palestra explica como os elétrons estão **reduzindo a reprodução humana** sem matar humanos. "Como no caso humano, masculino e feminino, masculino transa, feminino transa, cria mais seres humanos e mais nós, os elétrons se ferram, porque os humanos inventaram a pior coisa que a gente sente, que é o ódio racionalizado. Então, como é que eu disfaço os humanos? Nós elétrons não podemos matar os humanos, mas como é que a gente pode fazer? É fazer com que a turma no trans mais porque é a única maneira de impedir ou então transcrie. Aí surge como afetividade, surge identidade de gênero, surge, vontade de ficar só, surge, medo de ter relação sexual, surge, aí começa a surgir insegurança, e a humanidade começa a procriar menos."
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Pulsação dos Elétrons Como Afetividade Humana
 - **Variações STT capturadas:** "pulsação dos elétrons", "comportamento biológico", "afetividade", "identidade de gênero", "medo de ter relação sexual", "vontade de ficar só", "insegurança"
 - **Idioma de origem:** Português

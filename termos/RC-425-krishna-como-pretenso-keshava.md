@@ -25,7 +25,7 @@ atualizado = "2026-08-29"
 
 **Origem do conteúdo da ampliação:** palestra `P2023-10-14 — A Esquecida Honra dos Anunnaki`, megabloco U0020 do `original.txt` (transcrição automatizada, **não conferida com o áudio**); aspas recortadas byte a byte por `_gerar_ampliacoes_P2023-10-14.py`.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 
 - **Canônico da Base:** *Keshava* (epíteto de Vishnu/Krishna).
 - **Na fonte oral (P2023-10-14):** «**quechava**» — fusão de STT do pronome com o nome («porque era um avatar quechava»); na fonte de 02/12/2023 (RC-414), «quechada». [REVISAR: as duas grafias são do bruto; **não** se unificam nem se corrigem em silêncio. → ENCERRADO 2026-09-06 · F039-L3 (D-a): quechava/quechada = STT de Keshava — ver nota]

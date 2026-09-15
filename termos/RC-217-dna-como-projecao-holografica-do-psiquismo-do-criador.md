@@ -18,7 +18,7 @@ Constatação central de B002: **o que entendemos na Terra como molécula de DNA
 ## Contexto / Origem
 O conceito conecta a física do DNA à cosmologia RC: cada ser carrega o "código" do Criador caído — daí a "doença" hereditária (os Reflexos da Doença, RC-230) e a ideia de que o DNA é o CFD em versão físico-química-biológica (RC-040/RC-153). É o fundamento do "Favor Divino" (os seres ajudam a curar o Criador através do DNA) e da genética espiritual.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** DNA como Projeção Holográfica do Psiquismo do Criador
 - **Variações:** DNA = projeção holográfica; molécula de DNA como representação química do psiquismo de Javé
 

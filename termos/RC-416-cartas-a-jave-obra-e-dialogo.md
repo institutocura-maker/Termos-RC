@@ -18,7 +18,7 @@ atualizado = "2026-08-13"
 ## Contexto / Origem
 A obra materializa o diálogo direto Criador × criatura: Mônica abre a Carta 1 ("Caro Sr. Javé. Inicialmente gostaria de pedir-lhe permissão para tratá-lo por você... essa conversa franca e amorosa como se aprende que deveria ser a conversa entre pai e filha") e Javé responde em 1ª pessoa ("Acostumem-se e compreendam: **sou eu que vivo em vocês!**"). O livro confirma e aprofunda o Favor Divino (RC-332), a Vida do CFD no Ser Humano (RC-382) e o conceito do humano como "terminal nervoso do criador" (RC-418).
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Cartas a Javé
 - **Variações:** as cartas ao Criador; o diálogo com Javé; cartas e respostas
 

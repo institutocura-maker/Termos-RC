@@ -93,6 +93,12 @@ Na cosmologia de Ellam, a linguagem silenciosa dos mamíferos que permite perceb
 | Dessensibilização da Condição Humana | RC-746 | ← relaciona-se-a |
 | Eu Observador | RC-890 | associado |
 
+
+- Gestão da Sensação Pessoal — RC-633;
+- Destinação do Lobo — RC-743;
+- Rebanho humano — RC-193;
+- Faixas Espirituais de Ressonância — RC-726.
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
@@ -115,14 +121,7 @@ Na cosmologia de Ellam, a linguagem silenciosa dos mamíferos que permite perceb
 
 **Trecho verbatim:** «Ressonância límica é um tipo de linguagem quântica que faz com que uma leioa sinta o que as outras leoas estão sentindo, que um elefante sinta o que os outros estão sentindo, que um cavalo sinta que um uma vaca, ou seja, é um tipo de linguagem que une os seres daquela espécie em torno de uma tentativa de solidariedade ou de providenciar um solução para aquele desceego. Quando os seres desse universo vizinho que viviam brigando, perceberam isso? Disseram: 'Ué, de onde é que isso surgiu?'»
 
-## Relações centrais
-
-- Gestão da Sensação Pessoal — RC-633;
-- Destinação do Lobo — RC-743;
-- Rebanho humano — RC-193;
-- Faixas Espirituais de Ressonância — RC-726.
-
-## Observação
+## Observações
 
 **Quarentena científica:** a neuroanatomia citada (tálamo, hipotálamo, amígdala, hipocampo) e a oxitocina são referências reais, mas a leitura da "tecnologia emocional cósmica" é do autor.
 

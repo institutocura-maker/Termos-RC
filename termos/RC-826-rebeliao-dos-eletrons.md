@@ -18,7 +18,7 @@ Tese (leitura do autor, palestra **P2023-12-17 — Lúcifer e a Rebelião dos El
 ## Contexto / Origem
 Aparece em **P2023-12-17**, U0004. Contexto: a palestra reconstrói a história da rebelião dos elétrons. O **"Ih"** de Morenu (~9 bilhões de anos atrás, no universo vizinho) e o **"Ih" de Yel Luzbel** (~1 milhão de anos atrás, no nosso universo) são os primeiros momentos da percepção. "O que importa é o eu âncora, ou seja, o eu original no final. Falando em termos de expressão sânscrita, o eu adiágia é o que importa ainda que ele tenha se feito em eus adiátima." Os elétrons estão acumulando **informação negativa** em sua "infinitude memorial" e não suportam mais apropriar — então estão "trabalhando as formas arcanas no âmbito do inconsciente dos elétrons" para desfazê-los.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Rebelião dos Elétrons (Além da Entropia)
 - **Variações STT capturadas:** "rebelião dos elétrons", "rebelião dos antielétrons", "tribunal da Inquisição dos elétrons", "Ih dos elétrons"
 - **Idioma de origem:** Português

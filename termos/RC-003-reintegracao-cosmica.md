@@ -18,7 +18,7 @@ atualizado = "2026-08-29"
 ## Contexto / Origem
 Conceito que amarra os três eixos do pensamento de Ellam — cristianismo, espiritismo kardecista e ufologia — e dá nome ao livro *Reintegração Cósmica* (ed. Navegar/Conhecimento). É a moldura em que o drama de Javé, os exilados e as civilizações extraterrestres se inserem.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Reintegração Cósmica
 - **Variações:** (verificar uso de "reabilitação", "retorno ao circuito cósmico", "cidadania planetária")
 

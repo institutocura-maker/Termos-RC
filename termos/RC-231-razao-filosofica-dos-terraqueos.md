@@ -68,6 +68,11 @@ Na cosmologia de Ellam, a capacidade filosófica humana — apresentada como "ca
 | Pandora como Heroína Controversa | RC-780 | associado |
 | Racionalidade Humana Trucidada | RC-786 | associado |
 
+
+- Revelação Cósmica (conceito) — RC-094;
+- Tikun Cósmico — RC-514;
+- Dignidade como Critério de Consciência — RC-722.
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
@@ -78,13 +83,7 @@ Na cosmologia de Ellam, a capacidade filosófica humana — apresentada como "ca
 ## Citação-chave
 > "Filósofo não devia ter fé. Filósofo deve ser ateu e buscar a verdade livremente."
 
-## Relações centrais
-
-- Revelação Cósmica (conceito) — RC-094;
-- Tikun Cósmico — RC-514;
-- Dignidade como Critério de Consciência — RC-722.
-
-## Observação
+## Observações
 
 **Quarentena filosófica/histórica:** o diagnóstico de Aristóteles e a leitura da história da filosofia são do autor; plataforma "Orbon" [REVISAR — STT → CHANCELA 2026-09-06 · F039-L3: AGUARDA-ÁUDIO (STT preservado como falado) — ver nota].
 

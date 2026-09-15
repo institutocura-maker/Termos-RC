@@ -18,7 +18,7 @@ Conjunto de nove deuses da tradição egípcia de Heliópolis, citado como narra
 ## Contexto / Origem
 A comparação mostra que os oito da Ogdóade não representam contagem exaustiva dos seres que mergulharam.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - Grafia preferida: Enéade de Heliópolis. STT: Ened.
 - **Fonte da decisão:** Devolutiva-01 + observação direta do curador.
 

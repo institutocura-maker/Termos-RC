@@ -18,7 +18,7 @@ Padrões originais que manteriam os seres paradisíacos dentro da perfeição, s
 ## Contexto / Origem
 A saída desses protocolos permitiria a incompletude, a criatividade e os riscos das faixas derivadas.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - Grafia preferida: Protocolos / Algoritmos da Perfeição.
 - **Fonte de decisão:** Quadro 9 aprovado pelo curador.
 

@@ -18,7 +18,7 @@ Identidade atribuída ao espírito de Jan Val Ellam como centurião executor da 
 ## Contexto / Origem
 P2025-06-26 — 1ª Edição Estagiários do Kaos.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 Forma preferida: **Quirino Cornélio (Centurião da Crucificação)**.
 
 

@@ -18,7 +18,7 @@ Estratégia atribuída a Javé para constranger e gerar karma entre Quirino Corn
 ## Contexto / Origem
 P2025-06-26 — 1ª Edição Estagiários do Kaos.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 Forma preferida: **Pegadinha de Javé**.
 
 

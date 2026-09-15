@@ -18,7 +18,7 @@ Capacidade **misteriosa e exclusiva dos elétrons** (que as demais micropartícu
 ## Contexto / Origem
 O físico nuclear francês **Jean-Émile Charon** descortinou essa característica enigmática. Nas RC, o elétron serve de **"ponte quântica" entre o Criador 'caído' e as suas criaturas-ferramenta** — tema desenvolvido no livro *A Rebelião dos Elétrons e o Código de Vida do Criador* (B041). No fim do universo, as informações dos elétrons estarão associadas à emergente **Mente Universal**.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Memória Quântica dos Elétrons
 - **Variações:** memória do elétron; elétron como "agente básico da vida universal"; ponte quântica
 

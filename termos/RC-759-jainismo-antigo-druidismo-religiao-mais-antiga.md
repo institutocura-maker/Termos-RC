@@ -74,7 +74,7 @@ Na leitura de Jan Val Ellam (P2024-02-03), o **Jainismo é a religião mais anti
 | Escola da Decifração da Realidade (Método Druídico) | RC-755 | relaciona-se-a |
 | Vrittis e Cittas (atividades e núcleos mentais) | RC-760 | relaciona-se-a |
 
-## Blindagem epistemológica
+## Observações
 
 A afirmação de que o **Jainismo é a religião mais antiga da Terra** e que **jainismo = antigo druidismo** é **leitura de Ellam**, não consenso histórico-religioso (a academia data o Jainismo formal no séc. VI–V a.C., com Mahavira). A associação com o druidismo e com Mohenjo-Daro/Harappa é interpretação do autor. O registro descreve a cosmologia da RC, sem validação histórica externa. A cronologia interna é conflituosa (4–5 mil anos × 2.500 anos × "o mais antigo") — registrada em Colecionar Incertezas.
 

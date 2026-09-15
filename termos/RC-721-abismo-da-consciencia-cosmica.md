@@ -65,7 +65,7 @@ Na formulação de Jan Val Ellam, é a distância entre poder ou conhecimento e 
 | Abismo da Providência / Falsa Providência | RC-723 | manifesta-se-em |
 | Abismo da Providência / Falsa Providência | RC-723 | relaciona-se-a |
 
-## Blindagem epistemológica
+## Observações
 Conceito interno da cosmologia e crítica filosófica de Ellam. Não é diagnóstico psicológico, psiquiátrico ou neurocientífico. As “faces dos poderosos” são juízos atribuídos ao palestrante, não consenso histórico ou religioso.
 
 

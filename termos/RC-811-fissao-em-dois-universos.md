@@ -18,7 +18,7 @@ Tese (leitura do autor, palestra **P2017-05-14**, U0002) de que **a criação de
 ## Contexto / Origem
 Aparece em **P2017-05-14**, U0002. Contexto: o autor explica a cosmogonia de Javé (RC-001) em termos compatíveis com a física moderna (matéria + antimatéria, universo paralelo). A fissão em dois universos aconteceu nos "primeiros microsegundos" do Big Bang.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Fissão em Dois Universos (Matéria + Antimatéria)
 - **Variações STT capturadas:** "universo paralelo", "matéria e antimatéria", "fissão"
 - **Idioma de origem:** Português (com termos científicos: matéria, antimatéria, universo paralelo)

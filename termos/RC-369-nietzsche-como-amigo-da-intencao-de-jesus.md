@@ -18,7 +18,7 @@ A tese central de *Jesus e Nietzsche* (B049): **Friedrich Nietzsche como um "age
 ## Contexto / Origem
 O B049 (2019, 14 capítulos) examina o contraste e a complementaridade entre Jesus (fé) e Nietzsche (razão): a crítica nietzschiana aos ídolos e à moral cristã institucionalizada é lida como um serviço ao verdadeiro legado de Jesus — desmontando as distorções dos "donos do legado". O livro aborda a "morte de Deus" nietzschiana, o super-homem, a criação de ídolos e o "ser humano emancipado" como parceiro da intenção crística.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Nietzsche como 'Amigo da Intenção de Jesus'
 - **Variações:** a parceria Jesus-Nietzsche; Nietzsche como agente; "a mais estranha das parcerias"
 

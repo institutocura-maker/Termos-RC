@@ -18,7 +18,7 @@ Tese (leitura do autor, palestra **P2018-02-24**, U0004) de que **Saibaba** (ava
 ## Contexto / Origem
 Aparece em **P2018-02-24**, U0004. Contexto: depois que as trevas espalharam o mal em todos os corações humanos (RC-798), os avatares precisavam propor a luta íntima do bem e do mal. Saibaba (2000 anos antes de Jesus) foi o primeiro a fazê-lo, segundo o autor.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Saibaba como Precursor de Jesus
 - **Variações STT capturadas:** "Caibá", "Caibá", "Saibaba", "Saibá", "saibá", "prima sai" (STT fonética)
 - **Linhagem encarnatória de Shiva na era moderna:** **Sai Baba de Shirdi** (RC-927) → **Sathya Sai Baba** (RC-928) → **Prema Sai** (RC-929; grafia canônica; "Prima Sai"/"Prem Sai" em STT). A partir de 03/09/2026, cada figura tem **ficha própria** (RC-927/928/929); esta ficha (RC-801) é a umbrella conceitual da linhagem.

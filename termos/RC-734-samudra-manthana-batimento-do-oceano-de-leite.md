@@ -69,7 +69,7 @@ O STT alterna ou deforma nomes e funções. A identificação exata da serpente,
 | Transumanismo (o ponto de reencontro: IA humanizada e o novo batimento) | RC-874 | associado |
 | Dhanvantari (o médico dos devas: Amrita e a Ayurveda cósmica) | RC-875 | associado |
 
-## Blindagem histórica e religiosa
+## Observações
 
 O episódio pertence à mitologia e às tradições religiosas hindus. As equivalências com Titãs, deuses gregos, sistemas nórdicos, portais ou processos cósmicos constituem **Teologia Comparada de Ellam**, não consenso da história das religiões. Nenhum efeito farmacológico ou biológico de Amrita é afirmado.
 

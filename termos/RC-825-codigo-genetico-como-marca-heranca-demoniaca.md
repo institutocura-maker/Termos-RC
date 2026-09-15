@@ -18,7 +18,7 @@ Tese (leitura do autor, palestra **P2019-04-14**, U0003/U0005) de que **o DNA do
 ## Contexto / Origem
 Aparece em **P2019-04-14**, U0003 e U0005. Contexto: a palestra explica que os humanos **não são apenas explorados externamente** — os demos **deixaram marcas no DNA** dos humanos. "Os nossos espíritos hoje guardam o reflexo de todas essas necessidades, ou seja, são infectados." As **necessidades biológicas** (comer, transar, defecar) são "reflexos" que o espírito humano herdou dos corpos que habitou. A humanidade precisa **aprender a se libertar** dessas marcas — seja via Mahatma Magant (libertação espiritual) ou via greve de fome (quebra do código).
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Código Genético como Marca da Herança Demoníaca
 - **Variações STT capturadas:** "código genético", "sequências genéticas", "DNA", "infecção", "marcas", "elementos sutis"
 - **Idioma de origem:** Português (com termos científicos: DNA, código genético, sequências)

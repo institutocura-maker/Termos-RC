@@ -18,7 +18,7 @@ Os **20 anos da juventude de Jesus entre os celtas** — tema do romance espíri
 ## Contexto / Origem
 O B043 (2009, romance espírita psicografado por JVE) narra: o Drama dos Reis Gauleses; a jornada com José de Arimatéia; o encontro com **Mordon** (o druida da montanha); **Brendiver** e **Dolman** (sacerdotisa); Jesus entre os druidas; a influência da Índia (Mordon peregrinara ao Oriente); o retorno ao lar e "os sonhos de um jovem galileu". Complementa o quadro dos "anos perdidos" de Jesus (cf. B043/roteiro: "Narra fatos da desconhecida juventude de Jesus, sua amizade com José de Arimatéia e com seu irmão Thiago").
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Os 20 Anos de Jesus entre os Celtas
 - **Variações:** Jesus e o Druida da Montanha; aos vinte anos entre os celtas; os anos perdidos de Jesus
 

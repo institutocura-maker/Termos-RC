@@ -56,7 +56,7 @@ O **vaishnavismo** (ou vixenuísmo) é uma das principais tradições do hinduí
 | Krishna (avatar de Vishnu/Shiva) | RC-414 | ← relaciona-se-a |
 | Mavátma / Mavatna / Mavat (Vishnu em condição Adhyatman) | RC-503 | relaciona-se-a |
 
-## Blindagem epistemológica
+## Observações
 
 A **definição factual** do vaishnavismo (tradição hindu de adoração a Vishnu/Krishna) é conhecimento histórico-religioso consensual. A **leitura de Ellam** sobre a "distorção dos puranas" pelos vaishnavas é atribuição do autor, não consenso acadêmico — registrada como leitura própria da RC.
 

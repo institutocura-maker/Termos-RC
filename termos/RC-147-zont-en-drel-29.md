@@ -18,7 +18,7 @@ atualizado = "2026-08-28"
 ## Contexto / Origem
 No B015, Zont narra: (1) o primeiro contato com os "Viajores" (há ~48 mil anos, no "mundo das águas"); (2) a geração dos En Drel e os "dez sagrados"; (3) sua função de guardião do Éden terrestre — um dos "laboratórios" do Criador; (4) a expulsão dos Viajores (~2.600 anos atrás, por decreto do Criador, executada por ele); (5) sua **humanização emocional** — "os En Drel não foram programados para sentir, e eu havia sentido algo" — ao se envolver emocionalmente com um humano, provocando monitoramento do Criador e do Comandante En Drel.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Zont En Drel 29
 - **Variações:** Zont En Drel; "o guardião do Éden"; guardião universal (apresentação)
 - **Obs.:** em B015, refere-se aos irmãos como "endrelnianos" (RC-247)

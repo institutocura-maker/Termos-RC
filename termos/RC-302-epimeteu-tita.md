@@ -88,6 +88,12 @@ Titã irmão de Prometeu que, na cosmologia de Jan Val Ellam, teria sido o grand
 | Agar como 2ª Tentativa Fracassada de Fêmea para Adão | RC-817 | associado |
 | Prole sem Face (Humanos Modificáveis sem Face Definida) | RC-819 | associado |
 
+
+- Prometeu (titã) — RC-301 (irmão);
+- O Vício de Epimeteu — RC-289;
+- Pandora — RC-086;
+- Xamanismo Cósmico — RC-577.
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
@@ -99,14 +105,7 @@ Titã irmão de Prometeu que, na cosmologia de Jan Val Ellam, teria sido o grand
 ## Citação-chave
 > "Prometeu era sábio, Epimeteu era leso... mas é genial para muitas coisas."
 
-## Relações centrais
-
-- Prometeu (titã) — RC-301 (irmão);
-- O Vício de Epimeteu — RC-289;
-- Pandora — RC-086;
-- Xamanismo Cósmico — RC-577.
-
-## Observação
+## Observações
 
 Leitura mitológica do autor; plantas com "+500 moléculas complexas" e a origem do xamanismo são cosmologia de Ellam, não botânica ou história validada.
 

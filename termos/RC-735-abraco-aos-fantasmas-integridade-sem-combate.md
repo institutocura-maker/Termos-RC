@@ -47,7 +47,7 @@ Proposta ética de Jan Val Ellam para reconhecer e acolher processos ou seres an
 | Dominação Psíquica pela Devoção | RC-733 | ← enfrentada-por |
 | Livre-arbítrio | RC-938 | relaciona-se-a |
 
-## Blindagem ética e clínica
+## Observações
 
 A formulação é um princípio ético interno da palestra, não protocolo clínico, jurídico ou de segurança. “Abraçar” é metafórico: não exige aproximação física de pessoas, animais ou sistemas potencialmente perigosos e não substitui limites, avaliação profissional, proteção ou emergência quando necessários.
 

@@ -76,7 +76,7 @@ atualizado = "2026-08-29"
 | Eu Profundo (nível espiritual do Eu) | RC-553 | relaciona-se-a |
 | Quarto Cérebro Humano | RC-614 | ← relaciona-se-a |
 
-## Blindagem epistemológica — AUTORIA SECUNDÁRIA
+## Observações
 
 Este verbete foi criado a partir do **artigo de Denise Ferreira da Silva (ART-2026-08-18)**, uma **interpretação avançada** das obras de Jan Val Ellam — **não é cânon primário direto**. O conceito "Quarto Cérebro" está **enraizado na obra primária** (O Quarto Logos, caps. 6–9, citado pelo artigo), o que lhe confere autonomia, mas toda formulação vibracional/iniciática do artigo (afirmações, "selo", "flor estelar") **não é ontologizada** como verbo/nó de IA. A linguagem clínica ("maturidade emocional") é uso iniciático, não terminologia médica.
 

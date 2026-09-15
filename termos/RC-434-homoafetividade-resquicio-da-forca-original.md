@@ -18,7 +18,7 @@ A **homoafetividade** como tema-título do B052: nas RC, a atração entre pesso
 ## Contexto / Origem
 O B052 é uma narrativa em 4 partes (Narrativas Esquecidas / Antigas / Tardias / Explicação Necessária) com personagens pós-dilúvio (Heber, Noé, Joctan, Tubal, Faleg) e a rememoração de um ser da estirpe (Despina). O livro também aponta a dramática questão da **"identidade de gênero"** que "eclode explosivamente" nas novas gerações — "um 'marco temporal limite' de um processo cuja origem e desdobramentos permanecem desconhecidos... mas por pouco tempo!".
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Homoafetividade
 - **Variações:** homoafetividade (título); atração entre iguais; identidade de gênero (tema adjacente)
 

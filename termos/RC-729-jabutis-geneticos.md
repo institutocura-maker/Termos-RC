@@ -52,7 +52,7 @@ A fala retoma a anedota política da tartaruga ou do jabuti encontrado sobre uma
 | Invasão Ancestral do Genoma e do Psiquismo Humanos | RC-732 | contextualiza |
 | Invasão Ancestral do Genoma e do Psiquismo Humanos | RC-732 | ← manifesta-se-no-discurso-como |
 
-## Blindagem científica obrigatória
+## Observações
 
 **Jabutis Genéticos é estritamente uma metáfora/alegação da Revelação Cósmica. Não é um conceito reconhecido pela genética, não demonstra inserção artificial de genes e não substitui explicações de evolução, transferência genética, regulação gênica ou incerteza científica.** Referências orais a `HR1`, FOXP2, MHC, números de genes ou “genes sem rastreio” exigem conferência técnica e não são validadas por este cadastro.
 

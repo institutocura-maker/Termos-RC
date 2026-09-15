@@ -18,7 +18,7 @@ Universo citado no título do encontro de Goiânia como destino conceitual da po
 ## Contexto / Origem
 A live apenas anuncia o tema; não fornece definição suficiente do universo.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - Grafia canônica validada na Devolutiva: TÊNET, em maiúsculas. STT: Tênit.
 - **Fonte da decisão:** Devolutiva-01 + observação direta do curador.
 

@@ -18,7 +18,7 @@ Tese (leitura do autor, palestra **P2023-12-17 — Lúcifer e a Rebelião dos El
 ## Contexto / Origem
 Aparece em **P2023-12-17**, U0005. Contexto: a palestra apresenta o conceito de **"era do colapso do caos organizado"** como o pano de fundo histórico do nosso tempo. **Yel Luzbel** foi quem chamou atenção do autor para isso — "acho que você devia entender que vocês, nós estamos vivendo o início de uma nova era, era do conhecimento, era mas é a era do colapso do caos organizado". O caos conseguiu se organizar e construir vida (corais, colmeias, humanos), mas agora a entropia (já destrói o organizado) está sendo acrescida da **rebelião dos elétrons** — uma força **além da entropia**.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Era do Colapso do Caos Organizado
 - **Variações STT capturadas:** "era do colapso", "era do conhecimento", "colapso do caos organizado", "ilhas de negentropia", "ilhas de geetropia"
 - **Idioma de origem:** Português

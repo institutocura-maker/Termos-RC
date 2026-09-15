@@ -18,7 +18,7 @@ Na taxonomia temporal da palestra, cinco subdivisões de aproximadamente 5.120/5
 ## Contexto / Origem
 As eras equinociais estruturam a retrospectiva dos acontecimentos terrestres: cultos da Trimurti, patriarcas, Igigi, cataclismos, tradições védicas e conflitos Anunnaki.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - Grafia preferida: Eras Equinociais. O palestrante por vezes também chama o ciclo completo de 26 mil anos de “era equinocial”.
 - **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
 

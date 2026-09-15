@@ -24,7 +24,7 @@ E (Aula 02), sobre o batismo como necessidade:
 
 > «ele poderia ter iniciado seu ministério público, sem passar pelas mãos de João Batista... pelo batismo de João Batista. Existiam outras maneiras.»
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** João Batista
 - **Variações / grafias alternativas:** (nenhuma registrada no censo)
 - **Idioma de origem:** — (pessoa; «Batista» = o que batiza)
@@ -36,18 +36,17 @@ E (Aula 02), sobre o batismo como necessidade:
 | Agenda Espiritual | RC-752 | associado |
 | Essênios (seita judaica puritana; criadores de João Batista) | RC-862 | associado |
 
+- Jesus — RC-072;
+- Essênios — RC-862;
+- Bagagem/segredo — RC-752.
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
 | P2023-12-25-01 | Aula 01 — Adolescência e a Juventude de Jesus | transcrição; citação |
 | P2023-12-25-02 | Aula 02 — Os Anos de Pregação e a Promessa do Retorno | transcrição; citação |
 
-## Relações centrais
-- Jesus — RC-072;
-- Essênios — RC-862;
-- Bagagem/segredo — RC-752.
-
-## Observação
+## Observações
 **Quarentena teológica** — a moldura essênia e a leitura da hesitação de Jesus são de Ellam. `relacoes/` blindado (0 arestas novas).
 
 ## Citações-chave

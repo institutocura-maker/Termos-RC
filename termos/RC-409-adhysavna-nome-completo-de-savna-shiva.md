@@ -18,7 +18,7 @@ atualizado = "2026-09-12"
 ## Contexto / Origem
 O diagrama (B051) apresenta os três "nomes completos" Adhy da Trimurti. A cadeia de Shiva registrada: ADHYSAVNA → Shiva → **Hara** (avatar), **Krishna** (avatar), **Sai Baba** (última expressão Adhyajna, conforme B016). O B024 (cap. 16) já menciona Hara como o avatar de Savna que absorverá as "cinzas" do universo no fim.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** ADHYSAVNA
 - **Variações:** Adhy-Savna; Savna (forma usada no corpus); Shiva (expressão Adhydaiva)
 - **Origem:** composto RC (Adhy + Savna)

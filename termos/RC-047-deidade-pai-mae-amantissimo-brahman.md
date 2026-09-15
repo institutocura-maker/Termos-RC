@@ -18,7 +18,7 @@ Seria o **Pai-Mãe Amantíssimo**, o **Ser Supremo** que deu origem a toda a Mat
 ## Contexto / Origem
 A Deidade é o topo da hierarquia ontológica das RC: **Deidade (Pai-Mãe) → Divindades Co-criadoras → Criador caído (Brahma/Javé)**. Esta distinção é essencial para não confundir Javé com Deus.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Deidade
 - **Variações:** Pai-Mãe Amantíssimo; Ser Supremo; Brahman; Deus Incognoscível; Fonte
 

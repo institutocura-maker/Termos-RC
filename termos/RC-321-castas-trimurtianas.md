@@ -18,7 +18,7 @@ O sistema de castas conforme revelado em *O Dharma e as Castas Hindus* (B023, ca
 ## Contexto / Origem
 O sistema de castas chegaria aos humanos via descendentes de Gomer (ancestral dos arianos) e a civilização Saraswati, da qual emergiria o reino de Bharata (Índia). As castas arianas (hoje hindus) foram "sempre utilizadas para o refino de certas áreas do genoma demo-homo". A estrutura varna (brâmanes, xátrias, vaixás, sudras) é a expressão terrena desse sistema — ligada à timé/varna dos deuses (B021).
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Castas Trimurtianas
 - **Variações:** sistema de castas; castas arianas/hindus; varna (sânscrito); brâmanes/xátrias/vaixás/sudras
 

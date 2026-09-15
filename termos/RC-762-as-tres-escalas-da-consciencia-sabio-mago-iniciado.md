@@ -61,7 +61,7 @@ Estrutura epistemológica apresentada por Jan Val Ellam na palestra "Thot, o Eni
 | As Cinco Lentes da Realidade | RC-761 | relaciona-se-a |
 | As Sete Leis Herméticas | RC-763 | ← relaciona-se-a |
 
-## Blindagem epistemológica
+## Observações
 
 Estrutura doutrinária do autor (leitura iniciática de Thot/Hermetismo) — não é classificação acadêmica de psicologia do desenvolvimento. A hierarquia sábio/mago/iniciado é registro da cosmovisão RC, sem validação científica.
 

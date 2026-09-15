@@ -72,6 +72,11 @@ Nome demo de Pandora anterior à sua humanização: na cosmologia de Ellam, a ca
 | Descendência de Pirra (Pirra e Deucalião) | RC-298 | associado |
 | Desvio de Rota de Pandora (Contra o Plano de Zeus) | RC-806 | associado |
 
+
+- Pandora — RC-086;
+- Ekatma (Adam Kadmon — Homem Primordial) — RC-506;
+- Opção Inusitada de Pandora — RC-285.
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
@@ -84,13 +89,7 @@ Nome demo de Pandora anterior à sua humanização: na cosmologia de Ellam, a ca
 ## Citação-chave
 > "Uma sensação de dignidade surgiu pela primeira vez com o sorriso de Pandora."
 
-## Relações centrais
-
-- Pandora — RC-086;
-- Ekatma (Adam Kadmon — Homem Primordial) — RC-506;
-- Opção Inusitada de Pandora — RC-285.
-
-## Observação
+## Observações
 
 Grafia "Cali Calon" [REVISAR — STT → CHANCELA 2026-09-06 · F039-L3: AGUARDA-ÁUDIO (STT preservado como falado) — ver nota]; a identificação com Kalil Kadmon segue a ficha de B021 (O Sorriso de Pandora).
 

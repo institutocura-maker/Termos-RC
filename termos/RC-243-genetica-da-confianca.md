@@ -18,7 +18,7 @@ Nova configuração genética surgida nos núcleos edênicos: os pequenos grupos
 ## Contexto / Origem
 A Genética da Confiança é o contraponto do **Germe da Desconfiança** (RC-244): "a dificuldade insuperável — que perdurou por cerca de 3 bilhões de anos desde o surgimento da molécula-mãe no planeta — dos seres unicelulares terrestres se reunirem para formar um corpo pluricelular, tem a ver exatamente com o germe da desconfiança herdado do modo de ser do Criador". A genética da confiança é o que tornou possível a cooperação celular, a vida pluricelular e, mais tarde, o amor humano — instrumento de redenção do Criador.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Genética da Confiança
 - **Variações:** efeito confiança; configuração genética da confiança; genética do amor
 

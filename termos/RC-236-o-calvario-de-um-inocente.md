@@ -18,7 +18,7 @@ Capítulo 11 de *Terra Atlantis III: A Era Sapiens* (B039) que narra o **impacto
 ## Contexto / Origem
 O evento marca o ponto de virada da Era Sapiens: após a crucificação, ocorre a **saída de Yel Luzbel dos ambientes em torno do planeta**, o que faz com que **Len Mion assuma o comando do restante da rebelião** — procurando atrapalhar qualquer interesse de Sophia ou do "deus dos judeus". Na sinopse do livro 3: "Após a crucificação, ocorre a saída de Yel Luzbel dos ambientes em torno do planeta, o que faz com que Len Mion assuma o comando do restante da rebelião."
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** O Calvário de um Inocente
 - **Variações:** Calvário de um Inocente; a crucificação de Jesus (evento subjacente)
 

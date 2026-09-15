@@ -18,7 +18,7 @@ Tese (leitura do autor, palestra **P2025-04-06**, U0006) de que **Nyx (RC-621)**
 ## Contexto / Origem
 Aparece em **P2025-04-06**, U0006, em resposta à pergunta sobre Nyx e Pandora. Contexto: o plateísta pergunta se há relação entre Nyx e Pandora; o autor confirma a genealogia e adiciona o papel do Quarto Logos (RC-092) e de Moros (RC-454).
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Nyx como Mãe de Origem de Pandora
 - **Variações STT capturadas:** "Nix", "Nyx", "NYX", "descendência de Nix"
 - **Idioma de origem:** Grego antigo (Νύξ "Nyx" = "Noite", personificação da Noite)

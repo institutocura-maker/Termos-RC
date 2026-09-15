@@ -18,7 +18,7 @@ Conceito do rabino **Isaac Luria** (1534–1572) que significa, literalmente, um
 ## Contexto / Origem
 O subtítulo da obra de Ellam é *O Exílio Forçado de uma Divindade — Revelações Antigas da Cabala* (B013). O Tzimtzum é a tentativa cabalística de "transformar uma 'queda' num 'passo de dança'". Todas as principais mitologias da Antiguidade (ariana/hindu, grega, egípcia) afirmam a mesma temática: "um Ser que se pretendeu Criador de Realidades sucumbiu junto com a sua Expressão Mental, ou seja, acabou 'tragado' pelo que, da sua Mente, foi expelido como sendo uma 'Massa de Moldar Realidade'".
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Tzimtzum
 - **Variações:** Tsimtsum; contração de Deus; exílio de Deus dentro da própria Criação; "implosão do Corpo Mental"
 - **Idioma de origem:** hebraico (צמצום = contração)

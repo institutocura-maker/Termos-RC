@@ -18,7 +18,7 @@ Figura gnóstica apresentada como filha de Eva e resistente aos Arcontes, integr
 ## Contexto / Origem
 A menção ocorre durante a reconstrução da primeira era equinocial. O curador confirmou a conexão com o texto gnóstico A Hipóstase dos Arcontes.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - Grafia preferida: Noreia. Variação: Norea.
 - **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
 

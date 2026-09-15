@@ -18,7 +18,7 @@ Tese (leitura do autor, palestra **P2023-12-17**, U0001) de que **Yel Luzbel** �
 ## Contexto / Origem
 Aparece em **P2023-12-17**, U0001. Contexto: a palestra abre com Yel Luzbel como figura emblemática. "Yel Luzbel, que é um ser que está basicamente a dois 1000 anos absolutamente isolado, sem contato com quem quer que seja, porque não quer ter contato com ninguém." Ele desmaiou aos pés da cruz porque **percebeu que o humano Jesus era uma expressão de Sophia** — o que o fez perceber que **Sophia (contra quem ele se rebelara) tinha se encarnado entre os humanos**. Esse foi um momento de colapso para Yel Luzbel, que desde então se isola.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Yel Luzbel Como Aventureiro Isolado (2.000 Anos)
 - **Variações STT capturadas:** "Yel Luzbel", "Yel Luzbel", "Yusbel" (pode ser corruptela de "Lúcifer"?)
 - **Idioma de origem:** Hebraico (יוסבל = "caído em Babel"?) ou corruptela de "Lúcifer" no STT

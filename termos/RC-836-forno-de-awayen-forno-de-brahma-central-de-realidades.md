@@ -19,7 +19,7 @@ Forno replicador de vida do **Projeto Talm** (RC-091) sob o controle de **Brahma
 - **FONTE ORAL FUNDADORA: P2019-08-25** (25/08/2019) — primeira formulação oral registrada do forno de Brahma. Predata em **6 anos** o material do curador ART-2025-08-01 e em **2 anos** a fonte P2021-05-15.
 - Antes desta materialização, Awayen vivia apenas como sub-entrada de **RC-771** (Fornos Replicadores, nó-guarda-chuva). **Materializado como ficha independente por Devolutiva O-3 (2026-08-31)**, por simetria taxonômica com **Awaymaion** (RC-499): os três fornos replicadores passam a ter o mesmo peso no grafo de relações.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida (canônica):** Awayen (consagrada por RC-771/ART-2025-08-01).
 - **Grau oral fundador (P2019-08-25):** "aen" / "a Aen" / "Hawaien" / "Hawai" / "a UAI" / "Oaen" — STT embrionário do canônico.
 - **Variações STT posteriores:** "Awayem" (ART-2025-08-01) — [REVISAR — grafia no material do curador → ENCERRADO 2026-09-06 · F039-L3 (D-b): precedente L2, Awayem sob FONTE AUSENTE DA ARCA — ver nota].

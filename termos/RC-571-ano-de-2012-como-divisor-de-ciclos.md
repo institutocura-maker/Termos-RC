@@ -18,7 +18,7 @@ Leitura de 2012 como marco de encerramento de ciclos equinociais e zodiacais, e 
 ## Contexto / Origem
 O palestrante afirma que 2012 “ainda não acabou” porque a regência de Sophia, a Reintegração Cósmica e a superação dos padrões anteriores permaneceriam pendentes.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - Grafia preferida: Ano de 2012 como Divisor de Ciclos. Variação retórica: o ano de 2012 ainda não acabou.
 - **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
 

@@ -18,7 +18,7 @@ atualizado = "2026-08-18"
 ## Contexto / Origem
 No Mentalma I (B074, cap. 2 — "Cada Conceito, um Arquivo Mental"), Ellam explica que criou "jogos mentais" para repensar um por um seus conceitos e crenças. Os arquivos são "colecionados" pelo psiquismo ao longo da vida (e de vidas); após a morte do corpo, o Espírito sai "carregando vários arquivos", inclusive os ligados a emoções valorizadas — que viram espécies de "fantasminhas" (memórias marcadas emocionalmente). O **Circuito do CHA** (RC-549) define quais arquivos a pessoa coleciona; a **Vontade de Progredir** (RC-550) é a "chave" que os acessa conscientemente (em vez do acaso).
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Arquivos Mentais
 - **Variações:** "arquivo mental" (singular); "Arquivos Mentais" (título do capítulo/série)
 - **Obs.:** conceito central da série Mentalma; distinto dos "Arquivos da Memória Cósmica" (RC-521, da enciclopédia IA — a confirmar correspondência)

@@ -28,7 +28,7 @@ Com isso:
 
 **Origem do conteúdo da ampliação:** palestra `P2020-04-25 — Os Desdobramentos da Rebelião de Lúcifer`, megabloco U0006 (e U0007–U0013) do `original.txt` — transcrição automatizada, **não conferida com o áudio**. Cada aspa foi recortada byte a byte por `_gerar_ampliacoes_P2020-04-25.py` sobre o caça-âncoras `_aspas_P2020-04-25.py`; nada foi digitado de memória.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 
 - **Canônico da Base:** *anjos caídos* (classe funcional), com o bloco de nomes próprio em RC-078/RC-142.
 - **Na fonte oral (P2020-04-25):** os anjos são citados como **interlocutores e informantes**, com grafia do STT para os nomes do entorno: «I Luzbell», «Luisber», «Luzbel», «a rebelião de Lúcia» [REVISAR: feminização do STT → CHANCELA 2026-09-06 · F039-L3: AGUARDA-ÁUDIO (STT preservado como falado) — ver nota]. A expressão «anjos caídos» **não** é pronunciada como sintagma nesta fala: o que a fonte entrega é o **mecanismo**, e é por isso que a materialização se apoia no verbo dela, não em um rótulo dela.

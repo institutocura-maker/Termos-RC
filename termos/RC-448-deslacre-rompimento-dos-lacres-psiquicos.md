@@ -18,7 +18,7 @@ atualizado = "2026-08-25"
 ## Contexto / Origem
 No Livro 1 (B057), Yel Luzbel descreve a origem em si: a "vibração inusitada" causou "mutação no meu código genético" que fez "abrisse certos 'lacres mentais' em mim mesmo" (p. 19). No Livro 2 (B058), o deslacre generaliza-se: a SINTESE registra "depois de um certo **deslacre**, passaram a assinalar as mentes dos considerados **Rebelados de Capela**" (p. 1); Yel nota em si "algum 'bloqueio mental' relativo ao meu modo de proceder se havia **'rompido'**, e pude perceber 'falhas' na realidade" (p. 43); e o "Primeiro em Comando" dos Mion nomeia o grau máximo: "o **alto patamar de 'deslacre' que nós acreditamos que você ostenta**" (p. 73). Na malha, a relação prévia `RC-448 relaciona-se-a RC-142` (B057: "Yel Luzbel foi o 1º a abrir lacres mentais") já registrava o vínculo.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Deslacre (rompimento dos lacres psíquicos)
 - **Variações:** "deslacre" (B058); "lacres mentais" / "lacre mental" (B057); "bloqueio mental" "rompido" (B058, p. 43)
 - **Obs.:** conceito da narrativa psicografada — ver RC-078 (a mutação de Yel Luzbel) e RC-445 (biocoletivos)

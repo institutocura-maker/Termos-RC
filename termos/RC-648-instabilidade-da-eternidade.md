@@ -18,7 +18,7 @@ Fragilização do equilíbrio presumido da eternidade quando eus fatiados adoece
 ## Contexto / Origem
 Extraído da live P2025-10-25 — 2ª Edição Estagiários do Kaos.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - Forma preferida: **Instabilidade da Eternidade**.
 
 

@@ -41,12 +41,6 @@ Ambientes espirituais que, segundo a palestra, seriam sustentados pela ressonân
 | Corpo Sutil Reencarnante | RC-704 | ← relaciona-se-a |
 | Colegiados Espirituais Humanizados | RC-745 | ← organiza-se-em |
 
-## Fontes
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2024-11-09 | U1105–U1160 | palestra/STT; resposta a pergunta |
-
-## Relações centrais
 
 - Orbe — RC-084;
 - Espiritualidade Errática — RC-513;
@@ -55,7 +49,12 @@ Ambientes espirituais que, segundo a palestra, seriam sustentados pela ressonân
 - Corpo Sutil Reencarnante — RC-704;
 - Ressonância Límbica — RC-529.
 
-## Observação
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2024-11-09 | U1105–U1160 | palestra/STT; resposta a pergunta |
+
+## Observações
 É uma descrição doutrinária/espiritual da palestra, não modelo físico de dimensões. A anedota sobre Coca-Cola e hospitais espirituais permanece exemplo oral, não norma ontológica independente.
 
 

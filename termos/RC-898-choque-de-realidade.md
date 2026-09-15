@@ -18,7 +18,7 @@ O Choque de Realidade é a forma pela qual a estupidez humana colecionada ao lon
 ## Contexto / Origem
 Conceito desenvolvido na palestra «A Falsa Queda do Ser Humano e a Indignidade Entronizada como Religião» (P2024-02-04). Ellam explica que a humanidade já engatilhou muitos processos que estão no nível máximo de represamento e vão ter que explodir — ninguém pode impedir essas explosões. O que se pode preparar é o âmbito pessoal, familiar, de uma cidade ou país, dependendo dos governantes, para que se escape e se sobreviva.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Choque de Realidade
 - **Variações:** choque; explosão; despertar forçado
 - **Idioma de origem:** Português
@@ -32,12 +32,11 @@ Conceito desenvolvido na palestra «A Falsa Queda do Ser Humano e a Indignidade 
 
 **Trecho verbatim 2:** «O que é que pode ser controlado? Aquilo que os seres vivos produzem. Só que isso não pode mais ser controlado no âmbito da humanidade, que a humanidade já engatilhou muitos processos e todo Eles estão no nível máximo de represamento, então eles vão ter que explodir. Então ninguém pede essas explosões.»
 
-## Relações
+## Termos Relacionados
 - RC-892 (Pós-Verdade) — a estupidez humana como produto da pós-verdade
 - RC-722 (Dignidade) — o despertar como conquista da dignidade
 - RC-070 (Isolamento Cósmico) — os seres de fora apenas assistindo
 
-## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
 | Isolamento Cósmico | RC-070 | associado |

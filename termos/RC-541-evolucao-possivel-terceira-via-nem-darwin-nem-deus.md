@@ -18,7 +18,7 @@ atualizado = "2026-08-29"
 ## Contexto / Origem
 O livro (18 capítulos) percorre: as teorias da evolução, o "Jogo das Mutações", o desenvolvimento cerebral dos primatas, o "acaso inteligente", Goswami e o "Primado da Consciência Criativa", a "Evolução Criativa", o Ex-DNA-lixo, o epigenoma como "Espelho da Herança Espiritual", e a "Criatura Universal". A síntese: o Homo sapiens atual seria um "protótipo" da futura Criatura Universal, e a evolução possível dependeria da atitude mental de cada ser.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Evolução Possível
 - **Variações:** "a evolução possível" (subtítulo); "Evolução Possível para Quem?" (cap. 1)
 - **Obs.:** título do livro também traz a fórmula "Nem Deus, nem Javé, nem Darwin"

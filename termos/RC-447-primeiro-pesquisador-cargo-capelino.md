@@ -18,7 +18,7 @@ atualizado = "2026-08-25"
 ## Contexto / Origem
 No B057: "Eu, Yel Luzbel, **um dos primeiros pesquisadores da família Yel**, fui encarregado de verificar os graus de atuação e de evolução dos seres que faziam parte deste universo" (p. 15); "Eu, Yel Luzbel, **primeiro pesquisador da família Yel**, continuava a trilhar a trajetória que os seres tinham que seguir ou mesmo ultrapassar para poderem conhecer o Criador e a sua Obra" (p. 26). O pesquisador pesquisava "o que a minha família mandava" (p. 18); a alta cúpula jamais se reunia "para receber um 'simples pesquisador', que era o meu caso" (p. 34). No âmbito administrativo de Capela, distinga-se o "primeiro escalão" de Orbum (nota p. 25) — os seres mais evoluídos que formam a assessoria direta dos Administradores.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Primeiro Pesquisador (cargo capelino)
 - **Variações:** "um dos primeiros pesquisadores da família Yel" (B057, p. 15); "primeiro pesquisador da família Yel" (B057, p. 26); "Primeiro Pesquisador" (B058, registro da BIBLIO)
 - **Obs.:** não confundir com o "primeiro escalão" de Orbum (nota p. 25 do B057) — este é o estrato administrativo, não um cargo de pesquisa

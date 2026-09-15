@@ -3769,3 +3769,53 @@ A tranche 2 provoca **colisões** (fichas com `Termos Relacionados` e
 
 ### Estado das arestas
 `A1 ✅ · A2 ✅ · A3 ✅ · A4 ⏳ tranche 1 de 4 feita (471→188) · A5 ⏳ reextração · A6 ✅ · A7 ✅ · A8 ✅`
+
+---
+
+## U88 — A4 tranche 2 (parte sem conflito): 188 → 178 · quatro conflitos do despacho submetidos
+
+**Despacho do Curador:** matriz De/Para para a tranche 2 (com regra de fusão
+em caso de colisão) e ordem canónica para a tranche 4.
+
+### 1. Tranche 2 executada — só as regras sem conflito
+`Relações`/`Relações centrais` → `Termos Relacionados` (71) · `Observação` →
+`Observações` (28) · `Blindagem*` → `Observações` (35) · `Etimologia`/`Grafia`/
+`Nomes` → `Etimologia e Grafias` (406). **495 fichas · 556 renomeações ·
+75 fusões · assinaturas 188 → 178 · zero corpo alterado.**
+
+### 2. A regra de colisão exigiu três tentativas
+A Base tem **122 secções duplicadas pré-existentes** (77 `Ampliação`,
+24 `Fontes`, 18 `Atualização`, 3 `Reforço`) que nenhuma renomeação gerou.
+1. Fundir **qualquer** duplicado → fundiu as duas `## Fontes` da RC‑089,
+   concatenando tabelas de colunagens diferentes; o **T7 apanhou 17 fichas**.
+2. Fundir só quando o título **muda** → falha quando a *primeira* das duas é a
+   renomeada: 39 fichas ficaram com `Termos Relacionados` duplicado.
+3. **Regra correcta:** não fundir o que **já era** duplicado antes da
+   renomeação. Duplicados antes/depois: **122 → 122**.
+
+### 3. Dependência pedagógica confirmada (doutrina da U87)
+V4.18.03‑RC732 citava «Blindagem clínica e científica máxima» — secção‑fronteira
+distintiva da RC‑732, convertida em «Observações». Corrigido no mesmo commit;
+o verbete passa a registar a normalização em vez de perder o marco.
+
+### 4. QUATRO CONFLITOS — não executados, submetidos a despacho
+- **(a) `Citação-chave` → `Escopo e evidência` é erro de categoria:** as 105
+  fichas contêm citações (`> "Os 147 seres que terminaram compondo..."`), não
+  escopo. Alvo coerente: **`Citações-chave`** (652 fichas, emitida pelo driver).
+- **(b) A ordem canónica omite `Fontes` (746 fichas) e `Citações-chave` (652)**,
+  ambas emitidas pelo driver. Sem posições para elas, a tranche 4 não arranca.
+- **(c) `Contexto e Origem` (despacho) ≠ `Contexto / Origem` (driver, 665
+  fichas):** aplicá-la faria as 673 legadas divergirem das 147 — **aumentaria**
+  a fragmentação. Não aplicada. `Etimologia e Grafias` foi adoptada (o driver
+  não a emite).
+- **(d) `Seres Associados` → `Termos Relacionados`:** colide em **393 de 393**
+  fichas; conteúdo é lista de seres com código. Fusão defensável, mas apaga a
+  distinção seres/conceitos e é a maior operação com movimento de A4.
+
+### 5. Validação
+Suíte **21/21 OK** (T5 e T7 incluídos) · Portão B **778/778** ·
+**35/35 lotes idempotentes** · verificador 946/820/1887 · corpo das fichas
+conferido contra o HEAD: 0 alterações.
+
+### Estado
+`A4 ⏳ tranche 1 ✅ e 2 (parcial) ✅ · 178 assinaturas · 2b/3/4 bloqueadas por (a) (b) (d)`

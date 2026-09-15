@@ -18,7 +18,7 @@ Veículo plasmático produzido no mergulho no universo antimaterial, associado �
 ## Contexto / Origem
 É descrito em Vishnu/Mohen So e contraposto aos corpos biológicos; inclui plasma, duplo etéreo e condições de manifestação.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - Grafia: Corpo Daiva / Corpo Demoníaco de Plasma.
 
 

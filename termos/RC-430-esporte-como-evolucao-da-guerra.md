@@ -18,7 +18,7 @@ A tese central de *Homo Sapiens: da Guerra ao Esporte* (B040): **o esporte como 
 ## Contexto / Origem
 O B040 (2014, assinado com o nome civil Rogério de Almeida Freitas) argumenta que o "código que responde pelo jeito de ser de cada espécie" tem genoma derivado da **molécula-mãe** — e o "modo de ser" desconfiado e destrutivo "veio do primeiro DNA", que já surgiu "com essa tendência doentia". Os futuros homo sapiens "tiveram que evoluir para poder praticar esportes sem matar os adversários". O esporte seria a forma evoluída de resolver conflitos sem aniquilação.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Esporte como evolução da Guerra
 - **Variações:** da guerra ao esporte; esporte × guerra; a transição guerreiro-atleta
 

@@ -18,7 +18,7 @@ atualizado = "2026-09-05"
 ## Contexto / Origem
 No mapeamento de B060, os **5 eons da Espiritualidade Laboratorial** são: Prabajna (Javé), Mavatina (Vishnu), Savna (Shiva) — do gênero **Pashvnaj** de Perperion — e **Elm (Moros)** e **Olm (Quarto Logos)**, do gênero **ser LM de Tempérion**. A grande novidade deste verbete é a cadeia avatárica de Elm: **Val El (biodemo da família Val) = Jan Val Ellam**, o próprio codificador da Revelação Cósmica, e **Kardec** — o que coloca Ellam e o Espiritismo numa mesma linhagem eon/avatar.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Elm
 - **⚠️ GRAFIA OFICIAL DO EPÍTETO/VARIAÇÃO FONÉTICA (o ser de 4 cabeças): MORREN SO** — consagrada pela Devolutiva O-4 da P2022-09-24 (antes o STT capturava 'Morençor/Morrensor/Morrençou/Morrenson'; a nomenclatura à moda de Vol, Yel, Xum, Shanlung).
 - **Variações:** Moros (Grega); Aeon (RC); Bhava (Hindu); Chesed (4ª Sefirah); Henet (Egípcia-Ogdoade); Maat (Egípcia); Orlog (Nórdica); Phanis (Orfismo); Sudz (Eslava)
@@ -247,6 +247,13 @@ Val El / Jan Val Ellam (RC-071); Kardec; Olm (RC-092, colega eon); Prabajna/Jav�
 
 ---
 
+
+- **Regra para listas de nomes/avatares deste verbete: preside B060** (p. 4, verbete «# moros», reproduzido acima na íntegra, com os «nome ??» originais preservados). O doc F032 («10 - Moros – O Livro», compilação de IA sobre B060 + apostila P2024-11-30) acrescentou à lista seis identidades **sem nenhuma ocorrência no corpus**: «Amenophis (sacerdote em Tebas)» — B060 grafa «sacerdote do faraó **Mernephta** (nome ??)», faraós distintos; «Quirinius Cornélius, centurião da crucificação» — o corpus nomeia o centurião **Longino** (2020-07-04; 2022-12-17), «Quirinius» 0 hits; «Jan Huss»; «Cidade de Tróia»; «Krsnavapalyana (Vyasa)»; «Ellam Yua (mitologia Yup'ik)» — erudição externa, 0 hits. **Nenhum deles entra** (ledger F032 D-1). O mesmo vale para a lista egípcia dos oito nomes «Nun…Qerhet», que B060 só traz distribuída em aliases de outros verbetes (D-2).
+- **Antiguidade, COM a moldura da fonte** (apostila 2024-11-30 / aula P2024-11-30, verbatim): «isso é no tempo em que eles viveram a 5, 6 bilhões de anos **depois da criação do universo**, ou seja, indo de trás para frente para uns 8 bilhões de anos atrás» — «5–6 bilhões» é contagem **a partir do marco zero da criação**, não idade «há 5–6 bi atrás»; o doc suprimiu a moldura (D-6). Cifras que o doc anexou a Moros sem âncora — «Wyrd engendrada há 9 bilhões» (o «nove bilhões» de B016 é da entropia pós-início) e «Trimúrti faliu há 7 bilhões» (na apostila, 7–8 bi é o período em que a vida existiu só no universo vizinho) — **não pertencem à Base** (D-5/D-7).
+
+> Notas de processo: 4 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-454.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** os 2 trechos entre aspas desta ficha **não** resistem à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Só 1 dos 2 deixam vestígio no corpus. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
 ## Atualização
 ### P2022-12-17
 
@@ -362,11 +369,3 @@ O eBook *Moros — O Livro* não é fonte canônica. Não incorporar: `Ealm`, Ph
 | Fonte | Localização | Tipo |
 |---|---|---|
 | P2023-07-09 | A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
-
-## Blindagem — F032 aplicação (05/09/2026): a lista preside de B060; identidades do compilador ficam de fora
-
-- **Regra para listas de nomes/avatares deste verbete: preside B060** (p. 4, verbete «# moros», reproduzido acima na íntegra, com os «nome ??» originais preservados). O doc F032 («10 - Moros – O Livro», compilação de IA sobre B060 + apostila P2024-11-30) acrescentou à lista seis identidades **sem nenhuma ocorrência no corpus**: «Amenophis (sacerdote em Tebas)» — B060 grafa «sacerdote do faraó **Mernephta** (nome ??)», faraós distintos; «Quirinius Cornélius, centurião da crucificação» — o corpus nomeia o centurião **Longino** (2020-07-04; 2022-12-17), «Quirinius» 0 hits; «Jan Huss»; «Cidade de Tróia»; «Krsnavapalyana (Vyasa)»; «Ellam Yua (mitologia Yup'ik)» — erudição externa, 0 hits. **Nenhum deles entra** (ledger F032 D-1). O mesmo vale para a lista egípcia dos oito nomes «Nun…Qerhet», que B060 só traz distribuída em aliases de outros verbetes (D-2).
-- **Antiguidade, COM a moldura da fonte** (apostila 2024-11-30 / aula P2024-11-30, verbatim): «isso é no tempo em que eles viveram a 5, 6 bilhões de anos **depois da criação do universo**, ou seja, indo de trás para frente para uns 8 bilhões de anos atrás» — «5–6 bilhões» é contagem **a partir do marco zero da criação**, não idade «há 5–6 bi atrás»; o doc suprimiu a moldura (D-6). Cifras que o doc anexou a Moros sem âncora — «Wyrd engendrada há 9 bilhões» (o «nove bilhões» de B016 é da entropia pós-início) e «Trimúrti faliu há 7 bilhões» (na apostila, 7–8 bi é o período em que a vida existiu só no universo vizinho) — **não pertencem à Base** (D-5/D-7).
-
-> Notas de processo: 4 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-454.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** os 2 trechos entre aspas desta ficha **não** resistem à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Só 1 dos 2 deixam vestígio no corpus. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

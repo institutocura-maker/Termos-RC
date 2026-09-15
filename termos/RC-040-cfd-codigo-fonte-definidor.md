@@ -48,7 +48,7 @@ aspa fica datada aqui, e a eventual revisão do verbete nas obras continua pende
 `original.txt` — transcrição automatizada, **não conferida com o áudio**. Cada aspa foi recortada byte a byte por
 `_gerar_ampliacoes_P2023-12-03.py` sobre o caça-âncoras `_aspas_P2023-12-03.py`; nada foi digitado de memória.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 
 - **Canônico da Base:** *CFD (Código Fonte Definidor)* — a sigla é do cadastro e das obras; **a sigla não é dita**:
   no `original.txt` de 2023 a forma `CFD` tem **0 ocorrências**, e o que se ouve é a expressão por extenso

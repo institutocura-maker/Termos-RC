@@ -26,7 +26,7 @@ O diagrama posiciona a **Espiritualidade Superior** (Deidade e Espíritos Superi
 ## Contexto / Origem
 O diagrama B051 organiza verticalmente a cosmologia: Espiritualidade Superior → Espiritualidade Operativa (1º colapso) → Espiritualidade Laboratorial (2º colapso) → Criação Indevida (3º colapso) → Universos Antimaterial/Material. Essa estrutura confirma e complementa o mapeamento da Cabala (B013: Atziluth/Briah/Yetzirah/Assiah) e as Espiritualidades do corpus (RC-059/060/061).
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Colapso da Matriz Quântica
 - **Variações:** colapso quântico; níveis do colapso da Matriz Quântica (1º/2º/3º)
 

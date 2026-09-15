@@ -18,7 +18,7 @@ Capítulo 4 de *Inquisição Trimurtiana* (B022): os **fenômenos que denunciam 
 ## Contexto / Origem
 Os fenômenos denunciadores do fim são o pano de fundo sensorial de todo o B022: o "firmamento em plena convulsão", os "potentíssimos fenômenos" que se sucedem, os campos protetores em torno dos três seres. Eles anunciam o **Tempo de Apostasia** (RC-313), a Dissolução da Tríade (RC-300) e o fim da Lila (RC-315). O termo apareceu primeiramente como título de capítulo no sumário de B035 (O Big Data do Criador), onde foi registrado como candidato — agora confirmado com o conteúdo de B022.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Fenômenos Denunciadores do Fim
 - **Variações:** fenômenos do fim; tormentas magnéticas; fenômenos denunciadores (título de capítulo em B035 e B022)
 

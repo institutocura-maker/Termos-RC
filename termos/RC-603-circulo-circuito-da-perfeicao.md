@@ -18,7 +18,7 @@ Circuito de comunicabilidade e mente coletiva dos Seres Originais, associado à 
 ## Contexto / Origem
 É descrito como padrão máximo de movimento no Paraíso e como matriz da qual grupos projetam seres nos níveis inferiores.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - Grafia preferida: Círculo da Perfeição. Variação: Circuito da Perfeição.
 - **Fonte de decisão:** Quadro 9 aprovado pelo curador.
 

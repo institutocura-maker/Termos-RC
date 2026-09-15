@@ -18,7 +18,7 @@ O **imperativo categórico da moral ou da espiritualização** — a constataç�
 ## Contexto / Origem
 O imperativo categórico marca a mudança provocada pelo modo humano de existir: "o modo humano de existir provocou uma mudança na maneira de como as leis ditas científicas, desta Criação, passaram a atuar no seu contexto quântico". A origem da vida biológica racionalizada "começou a 'cobrar' das organizações complexas pluricelulares... o que, na cultura demo e também na humana, passou a ser entendido como 'karma', advindo do não cumprimento do dharma".
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Imperativo Categórico da Moral
 - **Variações:** imperativo categórico da espiritualização; freio moral; o imperativo da racionalidade humana
 

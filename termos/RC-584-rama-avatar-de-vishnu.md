@@ -18,7 +18,7 @@ Avatar de Vishnu apresentado como antagonista de Ravana e personagem central do 
 ## Contexto / Origem
 A palestra situa Rama na segunda era equinocial e o relaciona à reorganização de Kshatriyas e Brahmanes.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - Grafia preferida: Rama. Sita permanece no glossário local neste ciclo.
 - **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
 

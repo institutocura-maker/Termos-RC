@@ -18,7 +18,7 @@ atualizado = "2026-08-13"
 ## Contexto / Origem
 No Mentalma I (B074, itens 7.2 e 13.1 — "A 'primeira versão' do psiquismo humano e a 'doença do dehatma buddhi'") e no Mentalma II (B075, cap. 1.1 — "A educação humana e a 'doença do dehatma buddhi'"), o conceito descreve o psiquismo preso à "primeira versão" — reprodução acrítica da corrente mental coletiva e das ideias impostas pela educação/crenças. O Mentalma visa emancipar o psiquismo dessa condição.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Dehatma Buddhi
 - **Variações:** "doença do dehatma buddhi"; "dehatma buddhi" (sânscrito)
 - **Composição:** deha (corpo) + atma (alma) + buddhi (mente/inteligência)

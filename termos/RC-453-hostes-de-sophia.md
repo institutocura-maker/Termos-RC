@@ -18,7 +18,7 @@ atualizado = "2026-08-29"
 ## Contexto / Origem
 No Livro 2 (B058), as designações se sucedem: "Sophia e as suas Hostes" (recorrente); "Sophia e os seus Assessores" (pp. 25–26); "as suas 'Hostes de Comando'" (p. 67); "combater Sophia e **as suas Hostes bélicas**!" (p. 74 — o alvo do "Exército" rebelde). A relação canônica da malha (`RC-453 associado-a RC-009`, B058: "Hostes bélicas a serviço de Sophia") já registrava o vínculo. No Livro 1 (B057), as hostes eram o alvo da rebelião ("contra Sophia e as suas hostes", p. 19) e a suposta identidade do Criador na teoria do ser em revolta ("E se Sophia e as suas hostes, na verdade, fossem esse Criador...?", p. 49 — quarentena).
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Hostes de Sophia
 - **Variações:** "as suas Hostes" (B057/B058); "Hostes de Comando" (B058, p. 67); "Hostes bélicas" (B058, p. 74); "Assessores"/"Administradores" de Sophia
 - **Obs.:** coletivo (não ser individual); no RC, as hostes conectam-se à hierarquia administrativa de Orbum (RC-085)

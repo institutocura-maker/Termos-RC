@@ -18,7 +18,7 @@ Foi o **planejamento da transferência do código do psiquismo e da consciência
 ## Contexto / Origem
 O "Plano Colmeia" é o elo entre a Colmeia Universal (RC-174) e o Projeto Talm (RC-091): a estratégia dos "Seres da Trimurti" de recriar, no universo material, a estrutura colmeia que existia no universo demo. O cap. 7 de B044 associa o plano aos **campos mórficos** de Rupert Sheldrake e aos **insectoides** (espécies extraterrestres com forma de insetos) surgidos após a semeadura do código-fonte de vida do Criador.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Plano Colmeia
 - **Variações:** Plano Colmeia I (no CIP, referente ao Universo Biológico); recriação da "Colmeia Trimurtina" em moldes biológicos
 

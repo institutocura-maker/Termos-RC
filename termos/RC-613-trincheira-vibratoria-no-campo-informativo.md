@@ -18,7 +18,7 @@ Mecanismo vibratório/informativo criado para tornar sofrimento e mensagens perc
 ## Contexto / Origem
 O Portal de Comunicação com o Paraíso foi absorvido nesta ficha por decisão do curador.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - Grafia preferida: Trincheira Vibratória no Campo Informativo.
 - **Fonte de decisão:** Quadro 9 aprovado pelo curador.
 

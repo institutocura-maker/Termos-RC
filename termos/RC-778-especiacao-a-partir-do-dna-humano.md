@@ -18,7 +18,7 @@ Tese (leitura do autor, palestra **P2018-10-06 — Humanidade em Disputa a Desce
 ## Contexto / Origem
 Aparece em **P2018-10-06 — Humanidade em Disputa a Descendência de Pandora**, U0004, no contexto da sequência formativa: **Pandora (RC-086) destrava a humanidade → humanidade produz DNA especializado → DNA gera novas espécies em outros mundos**. Conecta-se com a RC-783 (Especiação Humana — Levas Genéticas), que descreve o **processo operacional** (1, 2, 3 levas genéticas). É peça-chave do tema **Pandora × Especiação Cósmica** (RC-086/RC-099).
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Especiação a partir do DNA Humano
 - **Variações STT capturadas:** "especiação", "especiação do DNA", "especiação humana cósmica" (sinônimos contextuais)
 - **Idioma de origem:** Português brasileiro + latim científico (species → "espécie")

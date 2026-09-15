@@ -18,7 +18,7 @@ atualizado = "2026-08-29"
 ## Contexto / Origem
 Versão primária em B020/B021 (Ellam). No B087 (psicografia de Jeane Miranda — versão paralela): Prometeu cria "criaturas de barro" com materiais "que nem vou descrever" e deixa-as à vista para o irmão Epimeteu aplicar as "poções" (p. 26); "fazia algo e Epimeteu vinha depois e modificava" — o método experimental alternado (p. 25); as "peças" contra Zeus ("ele lhe pregaria uma peça para que Zeus não esquecesse quem era o mais esperto", p. 32); o pacto com Pandora ("Trabalharemos em conjunto com esse propósito? Seremos parceiros de ideal?", p. 44); o "marco evolutivo" ("em cima dos ombros dessa espécie tão grotesca perduram várias possibilidades de 'marco evolutivo' nunca antes visto", p. 58); a eliminação das "fêmeas-testes" ("os fins justificam os meios" — p. 61, com a nota 4: "Prometeu não sabia que essas duas fêmeas tinham sido criadas por Atena"); o pressentimento do castigo (p. 53); a doutrina da reencarnação como única evolução para as estirpes falidas ("não mais existir e, depois, retornar à vida nesta Criação sob uma nova forma corporal, um 'novo modelo de existir'", p. 59).
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Prometeu (titã)
 - **Variações:** Prometeu
 - **Obs.:** na nota mitológica da ed. 2022 do B087: Prometeu = "**antevisão**" ("aquele que vê o futuro"); "Segundo Hesíodo, Prometeu desenvolveu um papel crucial na história da humanidade"

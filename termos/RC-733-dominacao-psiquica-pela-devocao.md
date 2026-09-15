@@ -53,7 +53,7 @@ Espíritos bem-intencionados que manteriam modelos devocionais por considerá-lo
 | Abraço aos Fantasmas / Integridade sem Combate | RC-735 | enfrentada-por |
 | Colegiados Espirituais Humanizados | RC-745 | manifesta-se-em |
 
-## Blindagem religiosa, clínica e científica
+## Observações
 
 O verbete registra a crítica e a cosmologia do palestrante; não define toda devoção religiosa como patologia ou dominação. Não constitui diagnóstico psicológico, não comprova alimentação energética por entidades e não valida as alegações genéticas/proteicas da fala. Krishna, Goloka e Vaikuntha são tratados conforme a **Teologia Comparada de Ellam**, não como representação consensual do hinduísmo.
 

@@ -18,7 +18,7 @@ A Bondade Humana é a capacidade única do ser humano de fazer o bem — uma cap
 ## Contexto / Origem
 Conceito desenvolvido na palestra «A Falsa Queda do Ser Humano e a Indignidade Entronizada como Religião» (P2024-02-04). Ellam ilustra com a parábola do Bom Samaritano de Jesus, onde o samaritano (considerado de quinta categoria) é o único que para para ajudar o homem caído na estrada, enquanto o fariseu e o saduceu (sangue azul) passam reto.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Bondade Humana
 - **Variações:** coração bondoso; fazer o bem; próximo
 - **Idioma de origem:** Português
@@ -32,13 +32,12 @@ Conceito desenvolvido na palestra «A Falsa Queda do Ser Humano e a Indignidade 
 
 **Trecho verbatim 2:** «Só quem pode fazer o bem nessa história são os humanos. Anunque não sabe fazer o bem porque ele tem um padrão de demência que o limita. Ele pode não fazer o mal e não faz. Os anarcos atualmente não fazem. Eles se educaram, mas eles não se mov entam no sentido de fazer o bem. Só alguns anunaques humanizados é que já têm esse comportamento.»
 
-## Relações
+## Termos Relacionados
 - RC-474 (Arcontes) — a tentativa de destruir a bondade humana
 - RC-072 (Jesus) — a parábola do Bom Samaritano
 - RC-722 (Dignidade) — a bondade como expressão da dignidade
 - RC-771 (Fornos Replicadores) — o big data dos arcontes
 
-## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
 | Jesus | RC-072 | associado |

@@ -32,7 +32,7 @@ E (Aula 04), sobre a releitura romana:
 
 > «Pôncio Pilatos, que representavam os romanos lá na crucificação, não queria crucificar Jesus. Ele tentou. Ele colocou Barrabás para dar uma opção para a turba decidir.»
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Pôncio Pilatos / Caifás / Sinédrio (verbete agrupado)
 - **Variações / grafias alternativas:** (STT «Anais» = Anás; «Sinédrio» como grafia fixa)
 - **Idioma de origem:** — (pessoa + instituição)
@@ -44,18 +44,17 @@ E (Aula 04), sobre a releitura romana:
 | A Falsa Trindade (Concílio de Niceia) | RC-273 | associado |
 | Sophia e a Ressurreição de Jesus | RC-280 | associado |
 
+- Jesus — RC-072;
+- Paulo/Saulo — RC-280;
+- Julgamento/condenação — RC-273.
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
 | P2023-12-25-03 | Aula 03 — Dias Difíceis: Crucificação e Ressurreição | transcrição; citação |
 | P2023-12-25-04 | Aula 04 — O Nascimento do Cristianismo | transcrição; citação |
 
-## Relações centrais
-- Jesus — RC-072;
-- Paulo/Saulo — RC-280;
-- Julgamento/condenação — RC-273.
-
-## Observação
+## Observações
 **Quarentena teológica** — a atribuição de culpa e a leitura política da Paixão são de Ellam; agrupamento temático por decisão do curador (Ana C). `relacoes/` blindado (0 arestas novas).
 
 ## Citações-chave

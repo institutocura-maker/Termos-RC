@@ -18,7 +18,7 @@ Tese (leitura do autor, palestra **P2019-04-14**, U0003) de que **Soca/Reis/Rit*
 ## Contexto / Origem
 Aparece em **P2019-04-14**, U0003. Contexto: a palestra explica o **mecanismo de extração** do "perfume" dos humanos. **Soca/Reis/Rit** é o **receptor** — "dependendo da mitologia, sempre foi usado por essas figuras, mas ele sempre achou que era ele o [protagonista]". É "um instrumento e ainda é de brama virgem Chiva [Brahma + Shiva] que retiravam dele." Soca **NÃO SABE** que é instrumento — acha que é o protagonista da própria história. **Shiva retira dele** as sequências genéticas; **Brahma** co-executa.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Soca/Reis/Rit como Receptor Universal
 - **Variações STT capturadas:** "Socar", "Soca", "Reis", "Reid", "Rit", "Reit"
 - **Idioma de origem:** Português (com paralelos: Sokar egípcio, Rudra hindu, Reis nórdico)

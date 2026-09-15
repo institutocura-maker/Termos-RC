@@ -18,7 +18,7 @@ A **entropia** é a medida do grau de **desorganização** de um sistema; a **ne
 ## Contexto / Origem
 A entropia está associada à energia Tamas (Savna/Shiva): é "uma energia desagregadora, a destruidora do universo, que faz com que tudo nasça com o 'germe' da sua própria morte; é um tipo de 'selo de garantia' do final de uma Criação que sequer deveria ter sido iniciada" (B024, cap. 3). O capítulo 14 explica a relação com a memória quântica dos elétrons e o destino final do universo.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Entropia e Negentropia
 - **Variações:** entropia negativa (negentropia); desorganização entrópica
 

@@ -18,7 +18,7 @@ atualizado = "2026-08-25"
 ## Contexto / Origem
 No Mentalma I (B074, cap. 11 — "O 'Eu' que Surge da 'Caixa de Depósitos'"), Ellam distingue o "Eu" ancorado em suas potencialidades espirituais do "Eu" ancorado nas questões do cotidiano, e estabelece que "existem vários níveis de 'Consciência' ou de 'Eus Mais Profundos'... há também o 'Eu Superior', o 'Eu Profundo', e o 'Eu Sagrado'" (p. 140). A "Vontade do Eu Profundo" "é quem responde pela administração dos impulsos anteriores ao pensamento" (p. 44). O despertar do "Eu Profundo" é a meta do 1º Exercício Mental (p. 25: "um 'Eu Profundo' poderá emergir com a continuada renovação dessa aspiração espiritual"). Ramana Maharshi é citado como fonte da técnica de se distanciar da "onda mental" para alcançar o "Eu Mais Profundo" (p. 152).
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Eu Profundo
 - **Variações:** "Eu Mais Profundo", "Consciência Profunda Espiritual"; expressões afins (sem código próprio): "Eu Superior", "Eu Sagrado", "Eu Verdadeiro", "Eu mais primário"
 - **Idioma de origem / etimologia:** expressão criada por Ellam (B074); lastro na tradição hindu (o "atman" / "fagulha do Absoluto" no nível Atma)

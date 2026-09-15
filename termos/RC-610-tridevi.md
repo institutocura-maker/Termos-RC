@@ -18,7 +18,7 @@ Tríade feminina formada por Sarasvati, Lakshimi e Parvathi, correlacionada à T
 ## Contexto / Origem
 A Base já individualizava as três integrantes; este código consolida o coletivo.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - Grafia preferida: Tridevi. STT: trideve.
 - **Fonte de decisão:** Quadro 9 aprovado pelo curador.
 

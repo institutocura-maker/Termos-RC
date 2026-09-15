@@ -18,7 +18,7 @@ Distinção entre destinos/verdades já postos e uma verdade futura construída 
 ## Contexto / Origem
 Extraído da live P2025-10-25 — 2ª Edição Estagiários do Kaos.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - Forma preferida: **Verdade Posta × Verdade a Construir**.
 
 

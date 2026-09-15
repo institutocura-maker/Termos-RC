@@ -18,7 +18,7 @@ Profecia registrada no **Sepher ha-Zohar** ("VAYEHI 21, 8B-9A"), revelada a Shim
 ## Contexto / Origem
 A profecia conecta-se ao Juízo Final (na cultura cristã, relacionado ao retorno de Jesus) e à Reintegração Cósmica: os 270 mundos incluem as moradas do universo paralelo "capazes de entenderem minimamente o que está sendo resgatado" + as civilizações deste universo biológico "que também acompanham e aguardam o momento da 'Reintegração Cósmica'". A Cabala foi elaborada "não somente para os terráqueos, mas também e, principalmente, para parte dos tais 270 mundos".
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Os 270 Mundos
 - **Variações:** 270 mundos da Criação; "moradas"/lokas envolvidas; público-alvo do Zohar
 

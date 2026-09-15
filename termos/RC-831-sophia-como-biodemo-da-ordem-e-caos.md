@@ -18,7 +18,7 @@ Tese (leitura do autor, palestra **P2023-12-17**, U0002) de que **Sophia (RC-009
 ## Contexto / Origem
 Aparece em **P2023-12-17**, U0002. Contexto: a palestra reconstrói a **geração de Sophia** há ~6 bilhões de anos. Javé aceitou que se criassem **dois seres livres**: Morenu (avatar de Javé) e Sophia (representante da Trimurti no universo biológico). Mas Javé queria estar presente no corpo de Morenu, então compuseram **4 cabeças** — se Morenu descumprisse os termos da Trimurti, os três destruiriam Morenu naquele corpo. Sophia foi engendrado livre. A família **Aya e Aye** (dois tipos de clones) deveria obedecer Sophia no sentido técnico, mas no sentido político estavam ali para destruir Sophia se fizesse algum movimento estranho. Com o tempo, Javé foi esquecendo Sophia e os clones, que foram se livrando do controle mental e observando os "painéis positivos de Sophia" — porque Sophia é um gênio.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Sophia Como Biodemo da Ordem e Caos
 - **Variações STT capturadas:** "Sophia", "Sophia biodemo", "comandante Sophia", "Sophia ordem e caos"
 - **Idioma de origem:** Grego (Σοφία Sophia = "sabedoria") + Português

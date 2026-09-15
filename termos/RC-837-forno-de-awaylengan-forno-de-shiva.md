@@ -19,7 +19,7 @@ Forno replicador de vida do **Projeto Talm** (RC-091) sob o controle de **Shiva*
 - **FONTE ORAL FUNDADORA: P2019-08-25** (25/08/2019) — primeira formulação oral registrada, com a **grafia oral mais próxima do canônico**: "**Awai Lengan**". Predata em **6 anos** o ART-2025-08-01 e em **2 anos** a P2021-05-15.
 - Antes desta materialização, Awaylengan vivia apenas como sub-entrada de **RC-771**. **Materializado como ficha independente por Devolutiva O-3 (2026-08-31)**, por simetria taxonômica com **Awaymaion** (RC-499).
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida (canônica):** Awaylengan (consagrada por RC-771/ART-2025-08-01).
 - **Grau oral fundador (P2019-08-25):** "**Awai Lengan**" / "Ailingan" / "Lingan" / "Hawai Lingan" — STT embrionário do canônico. É a ocorrência oral mais antiga e mais próxima da grafia consolidada.
 - **Variações STT posteriores:** "Hawaiingan" / "Havaingã" (P2021-05-15); "a Lingan" (P2022-03-26).

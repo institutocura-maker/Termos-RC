@@ -55,7 +55,7 @@ Termo guarda-chuva da palestra de 14/04/2024: o conjunto **intransferível** de 
 | Corpo Sutil Reencarnante | RC-704 | relaciona-se-a |
 | Agenda Espiritual | RC-752 | gera |
 
-## Blindagem epistemológica
+## Observações
 
 "Bagagem espiritual", "conectomas quânticos" e "álbum de figurinhas" são **conceitos próprios da RC**, não entidades mensuráveis. A intransferibilidade e a mecânica cármica descrevem a leitura de Ellam; não constituem doutrina espiritual validada nem prescrição. O registro não afirma a realidade empírica do karma ou das vidas passadas como fato científico.
 

@@ -25,7 +25,7 @@ O mecanismo pelo qual a **agressividade** da espécie, em vez de eliminada, é *
 
 **Origem do conteúdo da ampliação:** palestra `P2023-10-14 — A Esquecida Honra dos Anunnaki`, megabloco U0033 do `original.txt` (transcrição automatizada, **não conferida com o áudio**); aspas recortadas byte a byte por `_gerar_ampliacoes_P2023-10-14.py`.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 
 - **Canônico da Base:** *agressividade canalizada*; *DNA doentio* (expressão do cadastro — mantida como está, sem «suavização»).
 - **Na fonte oral (P2023-10-14):** «NAC» [REVISAR: sigla não decifrada na fonte — hipoteticamente *nível de avanço consciência*? **não conjeturar**, a Base não fixa → CHANCELA 2026-09-06 · F039-L3: AGUARDA-ÁUDIO (STT preservado como falado) — ver nota], «se enfeem» (= *se empenham/efem*, STT), «purança/pureza de sangue».

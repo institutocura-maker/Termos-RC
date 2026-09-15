@@ -18,7 +18,7 @@ Tese (leitura do autor, palestra **P2018-02-24**, U0004/U0005) de que **os human
 ## Contexto / Origem
 Aparece em **P2018-02-24**, U0004 e U0005. Contexto: depois de 2 avatares destruírem o mal centralizado, as trevas espalharam o mal em todos os corações humanos. Jesus, segundo o autor, "tentou avisar" que os humanos são cobaias que receberam o "final de genética da vida dos deuses" — incluindo a doença do criador.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Humanos como Cobaias dos Deuses
 - **Variações STT capturadas:** "cobaias", "cobaias humanas", "final de genética"
 - **Idioma de origem:** Português

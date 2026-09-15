@@ -18,7 +18,7 @@ Nome demo de Pandora (RC-086): a identidade de Pandora antes da humanização, n
 ## Contexto / Origem
 A ficha de Pandora (RC-086) registra a identidade-val, e a de Kalil Kadmon (RC-299) narra a cadeia de dignificação que culmina no «sorriso de Pandora». O fechamento do triângulo documental vem de B020 (Pandora = Val Dimon) e B060 (Kalil Kadmon = Val Dimon), já averbados em relacoes/.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - Grafia preferida: Val Dimon
 - Variações: Val Dimon (biodemo) → Pandora (humanizada)
 - Família: Val (RC-109)
@@ -32,6 +32,11 @@ A ficha de Pandora (RC-086) registra a identidade-val, e a de Kalil Kadmon (RC-2
 | Opção Inusitada de Pandora (humanização) | RC-285 | associado |
 | Kalil Kadmon (nome demo de Pandora) | RC-299 | ← variação |
 
+- RC-133 — ver ficha correspondente
+- RC-109 — ver ficha correspondente
+- RC-086 — ver ficha correspondente
+- RC-299 — ver ficha correspondente
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
@@ -39,13 +44,7 @@ A ficha de Pandora (RC-086) registra a identidade-val, e a de Kalil Kadmon (RC-2
 | B020 | — | registro-mestre (fonte censada) |
 | B060 | — | registro-mestre (fonte censada) |
 
-## Relações centrais
-- RC-133 — ver ficha correspondente
-- RC-109 — ver ficha correspondente
-- RC-086 — ver ficha correspondente
-- RC-299 — ver ficha correspondente
-
-## Observação
+## Observações
 Verbete exigido pela seção IV.17.4 da Enciclopédia (Pandora, o Éden e as hibridações). As identidades sobrepostas de Pandora são uma das «identidades que se confundem» que o percurso top-down manda destravar no N2.
 
 

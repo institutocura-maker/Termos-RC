@@ -29,7 +29,7 @@ Kashyapa atua como grande hub genealógico de `P2025-02-16`. A palestra lhe atri
 
 A genealogia é mediada pelas filhas de Daksha e Virini, especialmente Aditi, Diti e Kadru.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 Forma preferida: **Kashyapa**.
 
 Formas de STT: `Casiapa`, `Casiata`, `Casipa`, `Caseat`.

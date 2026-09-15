@@ -18,7 +18,7 @@ O momento em que Pandora **decidiu se humanizar de vez**, usando "a opção ment
 ## Contexto / Origem
 A Opção Inusitada é o eixo do B020: criada pelos deuses como "demônio feito mulher" (armadilha para a humanidade), Pandora contrariou as expectativas — "Aos poucos, ela mesma foi quem construiu o seu psiquismo de primeira mulher-humana, contrariando por completo as expectativas dos deuses do Olimpo". O capítulo 6 narra o momento da escolha; o capítulo 7 ("Enfim, um Sorriso") mostra o desfecho. Sua humanização permitiu o "deslacre mental" dos humanos (paralelo ao deslacre de Yel Luzbel).
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - **Grafia preferida:** Opção Inusitada de Pandora
 - **Variações:** opção mental de Hefesto; humanização de Pandora; transferência de fase demo → homo; "primeira mulher humana racional"
 

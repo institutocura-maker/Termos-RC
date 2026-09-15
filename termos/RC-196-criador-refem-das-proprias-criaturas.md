@@ -18,7 +18,7 @@ A condição do Criador depois da queda: preso à própria obra, dependente das 
 ## Contexto / Origem
 A Base aproxima este verbete de dois outros: a Simbiose Quântica (RC-195), a interconexão não-local entre todos os seres gerados a partir da energia do criador caído, e o Modelo Colmeia (RC-176), o modo de operação em que todas as criaturas existem para servir a «abelha-rainha». A condição do Criador (RC-041) é, portanto, a de um refém que precisa das suas próprias ferramentas (RC-164) para se reerguer — é esse o motor ético do Tikun.
 
-## Etimologia / Grafias
+## Etimologia e Grafias
 - Grafia preferida: Criador refém das próprias criaturas
 - Variações: criador refém; refém da própria obra
 - Condição conexa: Demência do Criador (RC-526)
@@ -31,23 +31,21 @@ A Base aproxima este verbete de dois outros: a Simbiose Quântica (RC-195), a in
 | Simbiose Quântica | RC-195 | associado |
 | Centro de Comando Paralelo | RC-213 | variação |
 
+- RC-041 — ver ficha correspondente
+- RC-195 — ver ficha correspondente
+- RC-176 — ver ficha correspondente
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
 | B035 | — | registro-mestre (fonte censada) |
 | B001 | — | registro-mestre (fonte censada) |
 
-## Relações centrais
-- RC-041 — ver ficha correspondente
-- RC-195 — ver ficha correspondente
-- RC-176 — ver ficha correspondente
-
-## Observação
+## Observações
 Nó ético e dramático do Volume III da Enciclopédia (III.9.4). A imagem do «refém» é leitura de Ellam, não categoria teológica das religiões.
 
 
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-196.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
 
-## Observações
 
 [Aguardando Ditado Livre]
