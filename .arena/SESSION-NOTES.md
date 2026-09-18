@@ -4234,3 +4234,21 @@ Artefacto: diagnostico/U98-INGESTAO-PENDENTE-A5.md (manifesto para o Curador).
   Livro adota esqueleto de 37 seções + contagem viva. Enciclopédia INTOCADA.
 - ZERO mutação de dados: dados_termos.py continua OK (946/1887). Fase 0 = contrato, não redação.
 - Próximo: FASE 1 — redação dos capítulos em lotes (1º despacho: ordem/lote dos capítulos).
+
+## U105 — Livro · Fase 1 · Lote 1: Abertura + Parte I (caps. 1-4)
+- Despacho do Curador: «inicie já redigindo o lote de abertura (Abertura + Parte I, 1-4)!!!».
+- Redigidos `pedagogico/livro/capitulos/`: 00-abertura.md · 01-o-lado-de-fora.md ·
+  02-a-familia-unica-e-as-leis-de-deus.md · 03-condicao-adiatma-espirito-alfa.md ·
+  04-quem-conta-esta-historia.md (+ README da pasta).
+- MÉTODO: leitura de fichas-âncora (RC-059/060/061/204/600/606/603/601/604/152/071/120/001/037/410)
+  + corpus; paráfrase fiel; 5 caixas «Na voz do autor» VERBATIM.
+- PORTÃO B interno: 5/5 caixas conferidas byte a byte (B001 · P2021-12-04 · P2020-04-04 · B031),
+  0 não-conferidos. STT preservado como dito.
+- LIÇÕES (não repetir): (1) o B001 original tem artefacto de conversão (espaço duplo + marcador
+  de rodapé '¹') — caixa encurtada ao fragmento limpo; (2) P2021-12-04 diz «circuito da FEIÇÃO»
+  (ruído de STT) — preservado com nota, NÃO corrigido; (3) B031 usa aspas CURVAS “trilha cerebral”
+  — reproduzidas com os bytes exatos; (4) não inserir colchetes dentro de aspa verbatim (corrigido).
+- Conceitos confirmados NO CORPUS (não só na proposta): «condição adiátma» e «espírito alfa da
+  criação» em P2020-04-04; fatiamento em P2021-12-04.
+- Validação: dados_termos.py OK (946/1887) · suíte 21/21. 0 códigos novos · 0 arestas · relacoes/ intocado.
+- PRÓXIMO: outros lotes da Parte I (capitulos 5-8) ou Parte II, conforme despacho do Curador.
