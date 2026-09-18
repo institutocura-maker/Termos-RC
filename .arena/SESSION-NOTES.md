@@ -4215,3 +4215,22 @@ Artefacto: diagnostico/U98-INGESTAO-PENDENTE-A5.md (manifesto para o Curador).
   36 capítulos rascunho, pipeline de redação, guardas herdadas, referência única genérica).
 - Natureza: obra de PRODUÇÃO (0 códigos novos, 0 arestas, Base/relacoes/ Enciclopédia intactas).
 - Próximo passo: Fase 0 (contrato editorial + árvore validada + mapa de cobertura).
+
+## U104 — Livro · FASE 0 EXECUTADA (contrato + árvore + mapa de cobertura)
+- Despacho do Curador (18/09): plano aprovado na íntegra; início da Fase 0; PT-BR confirmado;
+  capa/autor = Jan Val Ellam + curadoria Instituto Cura; formato final SÓ DOCX (Fase 3);
+  árvore de capítulos aprovada no ato.
+- Artefactos lavrados em `pedagogico/livro/`:
+  * `README-contrato.md` — contrato editorial (natureza, referência única genérica, voz,
+    guardiões internos, capa/autoria/formato, o que fica de fora, assinatura).
+  * `INDICE-DO-LIVRO.md` — árvore canônica: Abertura (4) + Parte I (8) + Parte II (14) +
+    Parte III (16) + Fecho (6) = 38 capítulos + 10 peças. Exceção estrutural única: cap.4
+    (autor) entra na Parte I por contrato de narrador.
+  * `mapa-cobertura.md` — auditoria interna: 8 áreas × 40 subáreas (37 povoadas, 3 vazias:
+    5.2/6.4/8.3) mapeadas aos capítulos; 37 seções da Enciclopédia todas com correspondente
+    narrativo; ponte com as 7 narrativas top-down.
+- ACHADO CENSAL honesto: índice da Enciclopédia diz «671 fichas / 1.898 rel.»(fechado 07/09);
+  Base viva no ato = 946 / 820 / 1887 (R1 materializou 671→820 depois do índice).
+  Livro adota esqueleto de 37 seções + contagem viva. Enciclopédia INTOCADA.
+- ZERO mutação de dados: dados_termos.py continua OK (946/1887). Fase 0 = contrato, não redação.
+- Próximo: FASE 1 — redação dos capítulos em lotes (1º despacho: ordem/lote dos capítulos).
