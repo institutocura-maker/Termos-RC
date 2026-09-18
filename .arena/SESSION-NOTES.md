@@ -4252,3 +4252,19 @@ Artefacto: diagnostico/U98-INGESTAO-PENDENTE-A5.md (manifesto para o Curador).
   criação» em P2020-04-04; fatiamento em P2021-12-04.
 - Validação: dados_termos.py OK (946/1887) · suíte 21/21. 0 códigos novos · 0 arestas · relacoes/ intocado.
 - PRÓXIMO: outros lotes da Parte I (capitulos 5-8) ou Parte II, conforme despacho do Curador.
+
+## U106 — Livro · Fase 1 · Lote 2: Parte I (caps. 5-8)
+- Despacho do Curador: Lote 1 APROVADO NA ÍNTEGRA; seguir lote 2 (5-8).
+- Redigidos: 05 Prabrajna/projeção · 06 colapso+Demência · 07 Mergulho/criador refém ·
+  08 dois universos + Khaos + CFD. Ameaçam fechar a Parte I (checkpoint da parte no 08).
+- Âncoras lidas: RC-152/410/310/061/087/515/101/526/167/717/196/482/528/176/195/041/514/
+  106/294/040/284/107. 8 caixas «Na voz do autor» novas.
+- PORTÃO B interno: lote 2 = 8/8 conferidas; ACUMULADO livros 1+2 = 13 caixas · 0 falhas.
+- LIÇÕES (não repetir): (1) B041/B031 usam aspas CURVAS “ ” — repor byte exato;
+  (2) B031 tem "Criação" com caixa-alta — manter; (3) P2023-12-03 diz «FRAGMENTADO»,
+  não «fatiado» — nunca reescrever de memória; (4) não pôr «…» meu dentro de aspa verbatim
+  (B041/B031 começam em palavra natural); (5) B022 original tem quebras de PDF no meio das
+  frases — encurtar caixa ao fragmento contínuo.
+- Validação: dados_termos.py OK 946/1887 · suíte 21/21 · 0 códigos novos · relacoes/ intocado.
+- Parte I FECHADA no rascunho (checks de parte I no cap. 8). Próximo: lote 3 = Parte II
+  (caps. 9-22) — aguardando despacho do Curador.

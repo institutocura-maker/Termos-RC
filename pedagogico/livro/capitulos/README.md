@@ -22,15 +22,21 @@
 | 2 | A família única e as Leis de Deus | `02-a-familia-unica-e-as-leis-de-deus.md` | ✅ redigido (lote 1) |
 | 3 | A condição adiátma | `03-condicao-adiatma-espirito-alfa.md` | ✅ redigido (lote 1) |
 | 4 | Quem conta esta história | `04-quem-conta-esta-historia.md` | ✅ redigido (lote 1) |
-| 5–38 | parte II/III + fecho | — | 🕓 aguardando despacho |
+| 5 | O salto que deu errado (Prabrajna) | `05-o-salto-que-deu-errado-prabrajna.md` | ✅ redigido (lote 2) |
+| 6 | A queda (colapso e Demência) | `06-a-queda-colapso-demencia-do-criador.md` | ✅ redigido (lote 2) |
+| 7 | O prisioneiro da própria obra | `07-o-prisioneiro-da-propria-obra.md` | ✅ redigido (lote 2) |
+| 8 | Dois universos e o Khaos | `08-dois-universos-e-o-khaos.md` | ✅ redigido (lote 2) |
+| 9–38 | parte II/III + fecho | — | 🕓 aguardando despacho |
 
-**Lote 1 (em despacho):** Abertura + capítulos 1–4 — entregues na U105 (18/09/2026), aguardando V/X/? do Curador.
+**Lote 1:** Abertura + capítulos 1–4 — ✅ APROVADO NA ÍNTEGRA pelo Curador (V).
+**Lote 2 (em despacho):** capítulos 5–8 (Prabrajna → queda → Mergulho/refém → dois universos/Khaos) — entregues na U106 (18/09/2026), aguardando V/X/? do Curador.
 
-## Auditoria do lote 1 (registro)
+## Auditoria do lote 2 (registro)
 
-- 5 caixas «Na voz do autor» · Portão B interno: **0 não-conferidos** (B001, P2021-12-04, P2020-04-04, B031).
+- 8 caixas «Na voz do autor» novas (5–8) · Portão B interno: **0 não-conferidos** (B041, B031, B022, P2012-02-19, P2020-04-04, P2025-02-15, P2025-06-14, P2023-12-03).
+- Acumulado 1+2: **13 caixas · 0 não-conferidas**.
 - Base intacta: `dados_termos.py` OK (946/1887) · suíte 21/21.
 - 0 códigos novos · 0 arestas novas · `relacoes/` intocado.
-- Ajustes de fidelidade aplicados *antes* do commit (lições registradas no SESSION-NOTES U105):
-  artefatos de conversão do B001 (espaço duplo, marcador `¹`) evitados encurtando a caixa;
-  "circuito da feição" (STT) preservado com nota; aspas curvas do B031 reproduzidas com os bytes exatos.
+- Ajustes de fidelidade aplicados *antes* do commit (lições no SESSION-NOTES U106):
+  aspas curtas “ ” dos originais B041/B031 repostas; "Criação" com caixa-alta no B031;
+  "fragmentado" (não "fatiado") no P2023-12-03; retirados os «…» que eu introduzi dentro de aspas.
