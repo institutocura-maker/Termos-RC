@@ -4194,3 +4194,15 @@ Artefacto: diagnostico/U98-INGESTAO-PENDENTE-A5.md (manifesto para o Curador).
 - Armadilha desactivada: B035 no corpus sem Portão B rebentaria execuções
   automáticas. Comporta G em aplicar_decisao_curador_a5.py: exige obra
   APARELHÁVEL antes de citar. B031 sim · B035 não · B061 fora.
+
+## U102 — Encerramento e selo da Campanha A5 (18/09/2026)
+- Despacho do Curador: «Vamos arquivar e encerrar a campanha A5 e virar a página.»
+- U100/U101 (15/09) fecharam a esteira de reanexação das 5 aulas de «Os Mistérios da
+  Vida de Jesus»: corpus 159→164, 11 citações reanexadas em 7 fichas (RC-862/887/942-946).
+- Encerramento lavrado em `diagnostico/ENCERRAMENTO-CAMPANHA-A5-2026-09-18.md` — selo
+  por números verificados no ato: `dados_termos.py` OK 946/1887 · suíte 21/21 · [T14]/[T15]
+  820/820 · `verificar_verbetes.py` 649 · 8 805 verbatim · 8 247 códigos · 0 falhas.
+- Arestas A1–A8: TODAS ✅. Dívida A5 remanescente TRANSFERIDA (não extinta): reextração
+  (A5-CITACOES-PRE-PORTAO-B), orfanato U95 (221), manifesto U98, RC-194 pendente por decisão.
+- ZERO mutação de dados nesta unidade (encerramento = registro). Base intacta: 946/820/1887.
+- Próxima etapa anunciada: livro de acesso ao estudante, a partir do índice da Enciclopédia.
