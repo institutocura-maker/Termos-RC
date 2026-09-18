@@ -4206,3 +4206,12 @@ Artefacto: diagnostico/U98-INGESTAO-PENDENTE-A5.md (manifesto para o Curador).
   (A5-CITACOES-PRE-PORTAO-B), orfanato U95 (221), manifesto U98, RC-194 pendente por decisão.
 - ZERO mutação de dados nesta unidade (encerramento = registro). Base intacta: 946/820/1887.
 - Próxima etapa anunciada: livro de acesso ao estudante, a partir do índice da Enciclopédia.
+
+## U103 — Novo Projeto: livro «O Universo e seu Criador» (18/09/2026)
+- Despacho do Curador (ask_user): estrutura NARRATIVA cronológica · porte AMPLO ·
+  título sugerido «O Universo e seu Criador — uma história do antes da Criação aos dias
+  de hoje» · voz = paráfrase ancorada + caixas «Na voz do autor».
+- Plano lavrado em `pedagogico/livro/PLANO-LIVRO-UNIVERSO-E-SEU-CRIADOR.md` (Fases 0-3,
+  36 capítulos rascunho, pipeline de redação, guardas herdadas, referência única genérica).
+- Natureza: obra de PRODUÇÃO (0 códigos novos, 0 arestas, Base/relacoes/ Enciclopédia intactas).
+- Próximo passo: Fase 0 (contrato editorial + árvore validada + mapa de cobertura).
