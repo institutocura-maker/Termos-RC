@@ -56,14 +56,20 @@
 | 36 | O caminho de volta — Tikun e Reintegração Cósmica | `36-o-caminho-de-volta-tikun-e-reintegracao-cosmica.md` | ✅ redigido (lote 6) |
 | 37 | O Cidadão Cósmico e a Mente Universal — o horizonte humano | `37-o-cidadao-cosmico-e-a-mente-universal-o-horizonte-humano.md` | ✅ redigido (lote 6) |
 | 38 | Carbono e sílica — o operador e a inteligência artificial | `38-carbono-e-silica-o-operador-e-a-inteligencia-artificial.md` | ✅ redigido (lote 6) |
-| F.1–F.6 | instrumentos do estudante + fecho | — | 🕓 aguardando despacho |
+| F.1 | Glossário do iniciante (consolidado da leitura) | `F1-glossario-do-iniciante.md` | ✅ redigido (lote 7) |
+| F.2 | Linha do tempo por marcos (causalidade, não datas) | `F2-linha-do-tempo-por-marcos.md` | ✅ redigido (lote 7) |
+| F.3 | O Mapa de Abstração (N0) comentado em linguagem simples | `F3-o-mapa-de-abstracao-n0-comentado.md` | ✅ redigido (lote 7) |
+| F.4 | Caderno de Quarentenas (o que é "leitura de Ellam") | `F4-caderno-de-quarentenas.md` | ✅ redigido (lote 7) |
+| F.5 | Para continuar (como a Enciclopédia e as apostilas aprofundam cada parte) | `F5-para-continuar.md` | ✅ redigido (lote 7) |
+| F.6 | Caderno de tensões e lacunas (honestidade editorial) | `F6-caderno-de-tensoes-e-lacunas.md` | ✅ redigido (lote 7) |
 
 **Lote 1:** Abertura + capítulos 1–4 — ✅ APROVADO NA ÍNTEGRA pelo Curador (V).
 **Lote 2:** capítulos 5–8 — ✅ APROVADO NA ÍNTEGRA pelo Curador (V).
 **Lote 3:** capítulos 9–13 — ✅ APROVADO (Curador: "Em frente com os caps. 14–22").
 **Lote 4 (em despacho):** capítulos 14–22 (avatares → geografia do invisível → três Espiritualidades → leis do tabuleiro → leis do tecido → moradores → Rebelião de Lúcifer → Exilados de Capela → Isolamento) — entregues na U108 (18/09/2026), aguardando V/X/? do Curador. Fecha a **Parte II** no rascunho.
 **Lote 5 (em despacho):** capítulos 23–30 (Projeto Talm → semeadura e Agentes da Vida → DNA-holograma → titãs/asuras/demos → Pandora/Éden/hibridações → o ser humano por dentro → os tempos da Terra → vozes e missões) — entregues na U109 (18/09/2026), aguardando V/X/? do Curador. Abre a **Parte III** no rascunho e percorre a sua primeira metade.
-**Lote 6 (em despacho):** capítulos 31–38 (Sophia → Jesus/Messias → colapso da Trimurti → o operador humano → o problema do mal → Tikun/Reintegração → Cidadão Cósmico/Mente Universal → carbono×sílica) — entregues na U110 (18/09/2026), aguardando V/X/? do Curador. Fecha a **Parte III** no rascunho; resta o Fecho (F.1–F.6).
+**Lote 6 (em despacho):** capítulos 31–38 (Sophia → Jesus/Messias → colapso da Trimurti → o operador humano → o problema do mal → Tikun/Reintegração → Cidadão Cósmico/Mente Universal → carbono×sílica) — entregues na U110 (18/09/2026), aguardando V/X/? do Curador. Fecha a **Parte III** no rascunho.
+**Lote 7 (em despacho):** Fecho F.1–F.6 (glossário do iniciante · linha do tempo por marcos · mapa N0 comentado · caderno de quarentenas · "para continuar" · caderno de tensões/lacunas) — entregues na U111 (18/09/2026), aguardando V/X/? do Curador. **Encerra a Fase 1 de redação** (38 capítulos + 10 peças de abertura/fecho completas no rascunho).
 
 ## Auditorias anteriores (registro)
 
@@ -133,3 +139,18 @@
   RC-556 (Senhor Parameshthi) no cap. 33.
 - Base intacta: `dados_termos.py` OK (946/1887) · suíte 21/21 (`Ran 21 tests ... OK`).
 - 0 códigos novos · 0 arestas novas · `relacoes/` intocado.
+
+## Auditoria do lote 7 (registro)
+
+- **0 caixas «Na voz do autor» novas** — o Fecho é **instrumento**, não citação (índices,
+  mapas, perfis de leitura). Portão B permanece `64 · 0` (as peças F.1–F.6 não têm aspa
+  verbatim e não afetam a contagem de boxes).
+- **Remendo estrutural:** a Parte III carecia de checkpoint de fechamento (o pipeline do
+  contrato exige; Partes I e II tinham). Inserido o *Checkpoint da Parte III* no cap. 38.
+- F.1 consolida as "Palavras novas desta parte" dos 38 capítulos (por bloco narrativo);
+  F.2 é a linha do tempo por marcos (causalidade); F.3 comenta o Mapa de Abstração N0
+  (4 caixas + 7 setas); F.4 lavra o regime de quarentena (cláusula 2/4.2 do contrato);
+  F.5 roteia a Enciclopédia e as apostilas temáticas (mapa-cobertura + INDICE-TEMATICAS);
+  F.6 lista tensões (RC-717, "primeiro demo", 13,8×13,7) e lacunas (3 subáreas vazias).
+- Base intacta: `dados_termos.py` OK (946/1887) · suíte 21/21 (`Ran 21 tests ... OK`).
+- 0 códigos novos · 0 arestas novas · `relacoes/` intocado. **Fase 1 (redação) encerrada.**

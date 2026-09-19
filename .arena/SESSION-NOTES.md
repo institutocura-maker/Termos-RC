@@ -4414,3 +4414,24 @@ Artefacto: diagnostico/U98-INGESTAO-PENDENTE-A5.md (manifesto para o Curador).
 - Despacho ao Curador: entregue o Lote 6 (caps. 31-38) — aguardando V/X/?. Próximo lote:
   Fecho (F.1–F.6 — glossário do iniciante, linha do tempo, mapa de abstração, caderno de
   quarentenas, para continuar, caderno de tensões/lacunas), conforme ordem do Curador.
+
+## U111 — Livro · Fase 1 · Lote 7: Fecho (F.1–F.6) — FASE 1 ENCERRADA
+- Despacho do Curador: usuário aprovou e pediu «prossiga com o Lote 7 — o Fecho (F.1–F.6)!!!».
+- AMBIENTE: sem regressão desta vez (HEAD=remoto=d5d6c0a na abertura, árvore limpa). Releitura
+  prévia de PLANO/contrato/INDICE/mapa-cobertura/abertura/INDICE-TEMATICAS/N0.
+- Redigidos 6 arquivos (FECHO): F.1 glossário do iniciante (5 blocos, termos das «Palavras
+  novas» dos 38 caps.) · F.2 linha do tempo por marcos (0–19, causalidade) · F.3 mapa N0
+  comentado (4 caixas + 7 setas + trama em 60s) · F.4 caderno de quarentenas (cláusulas 2/4.2)
+  · F.5 para continuar (apostilas/enciclopédia roteadas por parte) · F.6 tensões/lacunas
+  (RC-717, primeiro demo, 13,8×13,7; 3 subáreas vazias 5.2/6.4/8.3).
+- 0 caixas verbatim novas (é instrumento, não citação): Portão B inalterado em **64/64 · 0**.
+- REMENDO ESTRUTURAL: checkpoints de parte existiam só em I e II; a Parte III carecia do seu →
+  inserido o *Checkpoint da Parte III* no cap. 38 (pipeline item 5 do contrato). Títulos H1
+  dos F.1–F.6 alinhados byte a byte à árvore canônica do INDICE-DO-LIVRO.md (F.5 em especial).
+- Validação: `dados_termos.py` OK 946/1887 · suíte 21/21 (Ran 21 in 13.4s) · 0 códigos novos
+  · `relacoes/` intocado. README atualizado (tabela F.1–F.6 + auditoria do lote 7).
+- **FASE 1 (redação) ENCERRADA no rascunho:** Abertura (A.1–A.4) + Parte I (1–8) + Parte II
+  (9–22) + Parte III (23–38, com checkpoints) + Fecho (F.1–F.6). Árvore completa: 38 capítulos
+  + 10 peças = 48 arquivos (00–38 + F1–F6).
+- Despacho ao Curador: entregue o Lote 7 (Fecho) — aguardando V/X/?. Próximo: Fase 2/3
+  (revisão + compilação DOCX), conforme ordem do Curador.

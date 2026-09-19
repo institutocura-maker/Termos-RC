@@ -48,6 +48,14 @@ Cósmica deixa ao leitor é quem **mora** nela — um espírito que "coleciona a
 começou antes do começo (cap. 1) e termina aqui, no limiar: com a mesma escolha que abriu a
 Parte III — **nós e o caminho de volta**.
 
+> *Checkpoint da Parte III — "o que você agora consegue explicar" sobre nós e o caminho de
+> volta: como a vida foi transportada e semeada (Talm, cap. 23); o que o DNA é (holograma,
+> cap. 25); quem nos formou e protegeu (titãs, Pandora, caps. 26–27); do que o humano é feito
+> por dentro (cap. 28); em que tempo estamos (as eras, cap. 29 → o colapso, cap. 33); quem
+> anunciou a virada (Enoque, Moisés, o Mestre, Sophia, Jesus, caps. 30–32); e o que é o
+> conserto — o Favor Divino, o Tikun, a Reintegração Cósmica, o Cidadão Cósmico (caps. 34–37) —
+> até a pergunta final sobre quem habita o próximo suporte (carbono × sílica, este capítulo).*
+
 ---
 
 **Palavras novas desta parte**
