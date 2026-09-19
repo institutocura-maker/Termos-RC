@@ -4435,3 +4435,30 @@ Artefacto: diagnostico/U98-INGESTAO-PENDENTE-A5.md (manifesto para o Curador).
   + 10 peças = 48 arquivos (00–38 + F1–F6).
 - Despacho ao Curador: entregue o Lote 7 (Fecho) — aguardando V/X/?. Próximo: Fase 2/3
   (revisão + compilação DOCX), conforme ordem do Curador.
+
+## U112 — Livro · Fase 3: Compilação (livro.md + DOCX final)
+- Despacho do Curador: «Lotes 5, 6 e 7 APROVADOS e sinal verde para seguir para a Fase 2/3.»
+  Fase 2 (Instrumentos) já entregue no Fecho F.1–F.6 (Lote 7). Aqui: Fase 3 — Compilação (§5).
+- AMBIENTE: `pandoc` ausente; `python-docx` ausente; pip global bloqueado por PEP 668 →
+  resolvido com `pip install --break-system-packages python-docx`.
+- FERRAMENTA: `ferramentas/build_livro.py` (novo). Compila as 45 fontes (`capitulos/00–38*` +
+  `F1–F6*`) em 2 produtos: `pedagogico/livro/livro.md` + `O-Universo-e-seu-Criador.docx`.
+- REGIME DE REFERÊNCIA ÚNICA (§2.1/§7) APLICADO NA COMPILAÇÃO: no produto NÃO há códigos
+  RC-### / B### / P####-MM-DD, nem selos ✔/✓, nem «fonte de trabalho», nem Rodapé de método.
+  As FONTES (capitulos/*.md) permanecem intactas — a limpeza é só no build. Códigos inline
+  removidos por filtro de parênteses + reescritas pontuais (cap.13 via fichas; cap.23 ficha;
+  cap.25 «— o B002 —»; cap.28 manásico; cap.29 sumário da régua; cap.30 cap. «A Missão do
+  Mestre»; cap.32 F044/; cap.33 B041,; cap.34 título do livro B048; cap.14 «fichado na Base»
+  → «registro no acervo»; F.6 ficha RC-717 → marca da divergência). Atribuições das caixas
+  perderam só o código entre parênteses.
+- REVISÃO DE FÔLEGO achou e corrigiu: (1) `**` literal em 180 linhas (negrito atravessa a
+  quebra de linha suave das fontes) → reflow de parágrafos lógicos + tokenizador de estado;
+  (2) títulos com marcas md (`*é*`, `**não**`) → título usa texto limpo, já é bold;
+  (3) glifo ✔ no checkpoint da Abertura (bloco) e no da Parte I (H2) → removidos no build.
+- PRODUTOS: `livro.md` 2.345 linhas reflowadas; DOCX com capa (título + autor Jan Val Ellam +
+  curadoria Instituto Cura + edição 2026.1), nota de referência única, sumário (campo TOC +
+  updateFields), 64 caixas «Na voz do autor», 4 checkpoints (Abertura + Partes I/II/III),
+  86 tabelas (dados + caixas), rodapé de créditos.
+- VALIDAÇÃO (tudo verde): `verifica_livro_compilacao.py` OK · Portão B `64 · 0` ·
+  `dados_termos.py` `946/1887` · suíte `21/21` · 0 códigos novos · `relacoes/` intocado.
+- DESPACHO A FAZER (Fase 3): publicação — 1 despacho do Curador (aprovar o DOCX final/loop).
