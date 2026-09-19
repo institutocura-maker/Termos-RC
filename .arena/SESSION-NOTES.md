@@ -4462,3 +4462,14 @@ Artefacto: diagnostico/U98-INGESTAO-PENDENTE-A5.md (manifesto para o Curador).
 - VALIDAÇÃO (tudo verde): `verifica_livro_compilacao.py` OK · Portão B `64 · 0` ·
   `dados_termos.py` `946/1887` · suíte `21/21` · 0 códigos novos · `relacoes/` intocado.
 - DESPACHO A FAZER (Fase 3): publicação — 1 despacho do Curador (aprovar o DOCX final/loop).
+
+## U113 — Livro · Fase 3 (complemento): espelho de capa/título
+- §5 prevê «espelho de capa/título» como artefato da Fase 3 — faltava no U112. Entregue agora.
+- `ferramentas/build_livro.py`: nova saída `SAIDA_ESPELHO` + `montar_espelho()` — espelho gerado
+  a partir das MESMAS constantes do DOCX (fonte única: título/subtítulo/autor/curadoria/edição/
+  formato/produto) + árvore da obra espelhando o INDICE-DO-LIVRO.md.
+- Espelho registra as DUAS formas do nome de capa: «Jan Val Ellam» (capa) e «JAN VAL ELLAM»
+  (página de rosto do PDF acadêmico / referências bibliográficas) — conforme convenção do repo.
+- Verificador da compilação estendido (existe/título/subtítulo/autor/curadoria/caixa alta/
+  formato SÓ DOCX/produto). Tudo verde: compilação OK · Portão B 64/0 · base 946/1887 ·
+  suíte 21/21. Fase 3 agora COMPLETA (livro.md + DOCX + espelho).

@@ -24,6 +24,7 @@ RAIZ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DIR_LIVRO = os.path.join(RAIZ, "pedagogico", "livro")
 MD = os.path.join(DIR_LIVRO, "livro.md")
 DOCX = os.path.join(DIR_LIVRO, "O-Universo-e-seu-Criador.docx")
+ESPELHO = os.path.join(DIR_LIVRO, "espelho-capa-titulo.md")
 
 CODE_PAT = re.compile(r"(?:RC-\d{1,3}|B\d{3}|P\d{4}-\d{2}-\d{2}|F\d{3})")
 
@@ -93,6 +94,17 @@ ps = [p.text for p in doc.paragraphs]
 confere("O Universo e seu Criador" in ps[:20], "capa: título")
 confere("Jan Val Ellam" in ps[:20], "capa: autor")
 confere("Curadoria editorial: Instituto Cura" in ps[:20], "capa: curadoria")
+
+# ---------------------------------------------------------------- 4. espelho de capa/título
+confere(os.path.isfile(ESPELHO), "espelho-capa-titulo.md existe", ESPELHO)
+esp = open(ESPELHO, encoding="utf-8").read()
+confere("# O Universo e seu Criador" in esp, "espelho: título")
+confere("Uma história do antes da Criação aos dias de hoje" in esp, "espelho: subtítulo")
+confere("| Autor (matéria) | Jan Val Ellam |" in esp, "espelho: autor")
+confere("| Curadoria editorial | Instituto Cura |" in esp, "espelho: curadoria")
+confere("**JAN VAL ELLAM**" in esp, "espelho: caixa alta para o PDF acadêmico")
+confere(("| Formato | DOCX (único) |" in esp), "espelho: formato SÓ DOCX")
+confere("| Produto | O-Universo-e-seu-Criador.docx |" in esp, "espelho: aponta o DOCX final")
 
 # ---------------------------------------------------------------- relatório
 if falhas:
