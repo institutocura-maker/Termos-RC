@@ -4268,3 +4268,41 @@ Artefacto: diagnostico/U98-INGESTAO-PENDENTE-A5.md (manifesto para o Curador).
 - Validação: dados_termos.py OK 946/1887 · suíte 21/21 · 0 códigos novos · relacoes/ intocado.
 - Parte I FECHADA no rascunho (checks de parte I no cap. 8). Próximo: lote 3 = Parte II
   (caps. 9-22) — aguardando despacho do Curador.
+
+## U107 — Livro · Fase 1 · Lote 3: Parte II (caps. 9-13)
+- Despacho do Curador: Lote 2 APROVADO NA ÍNTEGRA; seguir Lote 3 = Parte II, caps. 9-13
+  (os nomes do Criador [Javé/Brahma/Alá] · o buraco negro mental · a Ressurreição do
+  Cadáver do Criador · a Trimurti · Vishnu e Shiva).
+- **INCIDENTE DE AMBIENTE (repetido):** HEAD local voltou a `41cfedb` (U101, base da branch);
+  worktree tinha os caps. 09-13 como não rastreados. Reparo da casa: `git fetch origin
+  +refs/heads/arena/01a0b65d-termos-rc` → remoto OK em `097ac3f` → `git reset --hard
+  origin/arena/01a0b65d-termos-rc`. Os 5 caps. novos (não rastreados) PRESERVADOS. Nada perdido.
+- Redigidos: 09 nomes do Criador (caixa B031 verbete Javé, 4 linhas hard-wrap recompostas;
+  distinção Criador×Deus via RC-052; Brajna→Brahma via RC-037/RC-310) · 10 buraco negro
+  (caixa P2024-11-30; cronologia 2017/2018/2021 conforme RC-717, divergência não fundida)
+  · 11 Ressurreição do Cadáver (caixa P2024-05-04 estendida até «Criador fragmentado»)
+  · 12 Trimurti (sem caixa nova; equação 3 seres/2 espíritos) · 13 Vishnu e Shiva
+  (3 caixas P2025-02-16; STT «brama, virgem e chiva», «Chiva produziu mais de 1000 avatares»,
+  «não corresponde a três espíritos» preservados com nota).
+- **PORTÃO B DO LIVRO:** escrevi verificador interno ` .arena/verifica_livro_portao_b.py`
+  (mesmo critério dos lotes: colapsar só espaços/quebras — caixa, acento e aspas intactos).
+  Varredura dos 22 boxes em 00-13: cap 09-13 todos [OK].
+  * REPARO DE FIDELIDADE NO LOTE 1 (achado na varredura): cap. 02 capitalizava «Os seres»
+    onde P2021-12-04 grafa «os seres» — corrigido ao byte.
+  * As 2 caixas do cap. 04 (dedicatória Raquel Braga + prefácio Ellam, ambas B031) são
+    associadas ao B031 por mapeamento por-nome no verificador — ambas [OK].
+- STT PRESERVADO como dito (nunca "corrigir" dentro da aspa): «virgem»=Vishnu, «chiva»=
+  Shiva, «brama»=Brahma, «não corresponde a três espíritos» (concordância de fala).
+- LIÇÕES (não repetir): (1) não capitalizar dentro de aspa (cap. 9/10 «surgiu…», «os três
+  seres…» em minúscula — a fonte começa minúscula); (2) não pôr ponto final que a fonte
+  não tem («…mais de 1000 avatares» segue com «e todos os nomes…»); (3) título H1 = árvore
+  canônica (cap. 11/12/13 ajustados); (4) âncora só se existe na Base — troquei RC-344 por
+  RC-081/RC-135 (cap. 13) e RC-565/RC-710 por RC-161/RC-378 (cap. 11); (5) remover “ ” de
+  paráfrase (cap. 13 «umbigo de Vishnu»), para não parecer verbatim.
+- Âncoras lidas/validadas: RC-001/037/052/284/310 (cap. 9) · RC-717/690/001/638 (cap. 10)
+  · RC-638/161/378/717 (cap. 11) · RC-104/408/409/135/102/001/037 (cap. 12) · RC-135/102/
+  104/001/037/638/081 (cap. 13). Todas existem na Base.
+- Validação: `dados_termos.py` OK 946/1887 · suíte 21/21 · 0 códigos novos · `relacoes/`
+  intocado. README dos capítulos atualizado (progresso + auditoria do lote 3).
+- Despacho ao Curador: entregue o Lote 3 (caps. 9-13) — aguardando V/X/?. Próximo lote:
+  caps. 14-22 (resto da Parte II), conforme ordem do Curador.

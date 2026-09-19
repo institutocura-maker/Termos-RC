@@ -28,7 +28,7 @@ o autor diz o que significa "ser do paraíso":
 
 > **Na voz do autor**
 >
-> «Os seres do paraíso não se movimentam. O círculo da perfeição ou o circuito da
+> «os seres do paraíso não se movimentam. O círculo da perfeição ou o circuito da
 > feição é o máximo de movimentação que eles têm e já deveria ser tudo.»
 >
 > — *Os Archeons de Ereon e os Seres Adhy* (P2021-12-04)
