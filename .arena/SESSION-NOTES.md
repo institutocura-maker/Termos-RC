@@ -4473,3 +4473,15 @@ Artefacto: diagnostico/U98-INGESTAO-PENDENTE-A5.md (manifesto para o Curador).
 - Verificador da compilação estendido (existe/título/subtítulo/autor/curadoria/caixa alta/
   formato SÓ DOCX/produto). Tudo verde: compilação OK · Portão B 64/0 · base 946/1887 ·
   suíte 21/21. Fase 3 agora COMPLETA (livro.md + DOCX + espelho).
+
+## U114 — Livro · Fechamento: certidão de conclusão (rascunho)
+- Fase 3 fechada (U112/U113). Fechamento (§5) = certidão de conclusão + selo + registro
+  das lacunas. Redigida `diagnostico/CERTIDAO-LIVRO-UNIVERSO-E-SEU-CRIADOR-2026-09-19.md`.
+- Padrão da casa seguido (CERTIDAO-U81 / DESPACHO-…-SELO-CAMPANHA-R1): abertura com estado
+  do repo; campanha unidade a unidade (U103→U113); contrato cláusula a cláusula; provas da
+  Fase 3 (verificador OK · Portão B 64/0 · 2.345 linhas · 48 H1 · 64 caixas · 4 checkpoints ·
+  campo TOC · docx 120 KB · suíte 21/21 · base 946/1887); lacunas honestas (F.6/§7); envelope
+  ASCII com o selo em aberto.
+- Números só reais (git log --oneline: U103→U113 batem 1:1 com as 11 unidades). Base/termos/
+  relacoes intocados (checado). Repro dutível: build_livro.py idempotente sobre 45 fontes.
+- AGUARDA O VEREDITO: selo é ato do Curador — 1 despacho (aprovar/selar/registrar).
