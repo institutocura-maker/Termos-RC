@@ -31,11 +31,21 @@
 | 11 | A Ressurreição do Cadáver | `11-a-ressurreicao-do-cadaver-do-criador.md` | ✅ redigido (lote 3) |
 | 12 | Quem desceu para ajudar — a Trimurti | `12-a-trimurti.md` | ✅ redigido (lote 3) |
 | 13 | Vishnu e Shiva | `13-vishnu-e-shiva.md` | ✅ redigido (lote 3) |
-| 14–38 | parte II (resto)/III + fecho | — | 🕓 aguardando despacho |
+| 14 | Máscaras do divino — avatares e emanações | `14-mascaras-do-divino-avatares-e-emanacoes.md` | ✅ redigido (lote 4) |
+| 15 | A geografia do invisível | `15-a-geografia-do-invisivel-universos-planos-lokas-e-portais.md` | ✅ redigido (lote 4) |
+| 16 | As três Espiritualidades | `16-as-tres-espiritualidades-superior-operacional-laboratorial.md` | ✅ redigido (lote 4) |
+| 17 | As leis do tabuleiro | `17-as-leis-do-tabuleiro-carma-teia-quantica-simultaneidade.md` | ✅ redigido (lote 4) |
+| 18 | As leis do tecido | `18-as-leis-do-tecido-entropia-negentropia-e-consciencia.md` | ✅ redigido (lote 4) |
+| 19 | Quem habita a Criação | `19-quem-habita-a-criacao-criadores-racas-anjos-e-demos.md` | ✅ redigido (lote 4) |
+| 20 | A Rebelião de Lúcifer | `20-a-rebeliao-de-lucifer-o-que-partiu-a-harmonia.md` | ✅ redigido (lote 4) |
+| 21 | Os Exilados de Capela | `21-os-exilados-de-capela-a-revolta-e-o-exilio.md` | ✅ redigido (lote 4) |
+| 22 | O Isolamento | `22-o-isolamento-quarentena-sideral-e-o-fechamento-dos-portais.md` | ✅ redigido (lote 4) |
+| 23–38 | parte III + fecho | — | 🕓 aguardando despacho |
 
 **Lote 1:** Abertura + capítulos 1–4 — ✅ APROVADO NA ÍNTEGRA pelo Curador (V).
 **Lote 2:** capítulos 5–8 — ✅ APROVADO NA ÍNTEGRA pelo Curador (V).
-**Lote 3 (em despacho):** capítulos 9–13 (os nomes do Criador [Javé/Brahma/Alá] → o buraco negro mental → a Ressurreição do Cadáver → a Trimurti → Vishnu e Shiva) — entregues na U107 (18/09/2026), aguardando V/X/? do Curador.
+**Lote 3:** capítulos 9–13 — ✅ APROVADO (Curador: "Em frente com os caps. 14–22").
+**Lote 4 (em despacho):** capítulos 14–22 (avatares → geografia do invisível → três Espiritualidades → leis do tabuleiro → leis do tecido → moradores → Rebelião de Lúcifer → Exilados de Capela → Isolamento) — entregues na U108 (18/09/2026), aguardando V/X/? do Curador. Fecha a **Parte II** no rascunho.
 
 ## Auditorias anteriores (registro)
 
@@ -53,9 +63,22 @@
   «Chiva produziu mais de 1000 avatares», «não corresponde a três espíritos» — mantidos e
   explicados em nota, nunca "corrigidos" na aspa.
 - As 2 caixas do cap. 04 (dedicatória de Raquel Braga e prefácio de Ellam, ambas B031)
-  conferidas manualmente contra o glossário — o verificador interno não as associa por
-  serem atribuídas por nome (sem sigla).
+  são associadas ao B031 por mapeamento por-nome no verificador interno — ambas [OK].
 - Base intacta: `dados_termos.py` OK (946/1887) · suíte 21/21.
 - 0 códigos novos · 0 arestas novas · `relacoes/` intocado.
 - Divergência de datas do buraco negro mental (2018 no relato de 2023 × 2021 na fala de
   2024) **registrada, não fundida** — espelha a ficha RC-717.
+
+## Auditoria do lote 4 (registro)
+
+- **13 caixas «Na voz do autor» novas** (14×4, 15×2, 16×1, 17×2, 18×1, 19×2, 20×1, 21×1,
+  22×3) · Portão B interno sobre os 36 boxes em 00–22: **0 não-conferidos**
+  (B036, P2018-02-24, B031, P2025-02-16, B024, B023, B019, P2017-05-14, B003, B021).
+- Acumulado 1+2+3+4: **36 caixas · 0 não-conferidas**. Parte II fechada no rascunho.
+- STT preservado como dito: P2018-02-24 (“agendas”, “Mimos”, “deles”), P2017-05-14
+  (“anjos glórios e chi o primeiro demo”) — mantidos e explicados, nunca “corrigidos”.
+- Erros meus corrigidos antes do commit: «delas»→«deles» (P2018-02-24); caixa de B023
+  fechando em dois-pontos (a frase continua na fonte); âncoras RC-517/RC-344 trocadas
+  (não correspondiam ao assunto).
+- Base intacta: `dados_termos.py` OK (946/1887) · suíte 21/21.
+- 0 códigos novos · 0 arestas novas · `relacoes/` intocado.

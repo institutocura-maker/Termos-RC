@@ -4306,3 +4306,36 @@ Artefacto: diagnostico/U98-INGESTAO-PENDENTE-A5.md (manifesto para o Curador).
   intocado. README dos capítulos atualizado (progresso + auditoria do lote 3).
 - Despacho ao Curador: entregue o Lote 3 (caps. 9-13) — aguardando V/X/?. Próximo lote:
   caps. 14-22 (resto da Parte II), conforme ordem do Curador.
+
+## U108 — Livro · Fase 1 · Lote 4: Parte II completa (caps. 14-22)
+- Despacho do Curador: «Beleza ! Em frente com os caps. 14–22 ...» — Lote 3 implicitamente
+  aprovado; ordem de executar o resto da Parte II.
+- Ambiente estável na abertura (HEAD=remoto=4a55c14, árvore limpa) — sem incidente.
+- Redigidos 9 capítulos (Parte II FECHADA no rascunho): 14 avatares/emanações (caixas
+  B036×2 + P2018-02-24×2 — «Não tenho isto!»/«Eu sou o que sou tão somente»/Estratégia e
+  cobaias) · 15 geografia (B031 Universo Paralelo + P2025-02-16 Vyasa) · 16 três
+  Espiritualidades (B031 «nível mais alto») · 17 leis do tabuleiro (B024 Xadrez Cósmico +
+  B023 Senhores do Dharma) · 18 leis do tecido (B024 «momento zero», entropia) · 19
+  moradores (B019 Arquitetos Universais + P2017-05-14 «primeiro demo») · 20 Rebelião de
+  Lúcifer (B031 verbete «Rebelião de Lúcifer: … 213 bilhões…») · 21 Exilados de Capela
+  (B031 «Por volta de uns 742 mil anos…») · 22 Isolamento (B003 quarentena + B021 portais
+  + B031 Isolamento Cósmico) + checkpoint da Parte II no fecho do cap. 22.
+- PORTÃO B DO LIVRO: ` .arena/verifica_livro_portao_b.py` sobre os 36 boxes em 00-22 →
+  **36/36 · 0 falhas** (byte a byte, colapsando só espaços/quebras).
+- STT preservado: P2018-02-24 («agendas», «de Moisés e Mimos», «deles»), P2017-05-14
+  («os anjos glórios e chi o primeiro demo»), B023 artefato de espaçamento («Senhores do
+  Dharma ”» / «Lila ”» — mantido na aspa). Nunca "corrigir" dentro de aspa.
+- ERROS MEUS PRESOS PELO PORTÃO B ANTES DO COMMIT (3): (1) cap. 14 «não eram delas» →
+  fonte grafa «deles»; (2) cap. 17 caixa B023 fechando em ponto final quando a fonte
+  continua com dois-pontos («…desconfiar de uma coisa:»); (3) atribuição com aspas no
+  parêntese quebrando o regex do verificador (cap. 21).
+- REPAROS DE ÂNCORA: RC-517 (Protocolo Mental) indevidamente listada no cap. 19 →
+  substituída; RC-344 já corrigido no lote 3; todas as âncoras de rodapé existem na Base.
+- LIÇÕES (não repetir): verbetes do B031 quebram palavras por translineação («quaren
+  tena», «fra terna») — colapsar quebras ANTES de comparar, mas NUNCA tocar nos espaços
+  internos das palavras na aspa; números de capítulo da RC-155 (13,8 bi) × RC-107/B031
+  (13,7 bi) — usar a do glossário citado, sem fundir.
+- Validação: `dados_termos.py` OK 946/1887 · suíte 21/21 · 0 códigos novos · relacoes/
+  intocado. README dos capítulos atualizado (progresso + auditoria do lote 4).
+- Despacho ao Curador: entregue o Lote 4 (caps. 14-22) — aguardando V/X/?. Próximo lote:
+  Parte III (caps. 23-38), conforme ordem do Curador.
