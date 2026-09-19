@@ -40,12 +40,21 @@
 | 20 | A Rebelião de Lúcifer | `20-a-rebeliao-de-lucifer-o-que-partiu-a-harmonia.md` | ✅ redigido (lote 4) |
 | 21 | Os Exilados de Capela | `21-os-exilados-de-capela-a-revolta-e-o-exilio.md` | ✅ redigido (lote 4) |
 | 22 | O Isolamento | `22-o-isolamento-quarentena-sideral-e-o-fechamento-dos-portais.md` | ✅ redigido (lote 4) |
-| 23–38 | parte III + fecho | — | 🕓 aguardando despacho |
+| 23 | O Projeto Talm — a vida transportada do lado de lá para cá | `23-o-projeto-talm-a-vida-transportada-do-lado-de-la-para-ca.md` | ✅ redigido (lote 5) |
+| 24 | A semeadura e os Agentes da Vida — como chegamos aqui | `24-a-semeadura-e-os-agentes-da-vida-como-chegamos-aqui.md` | ✅ redigido (lote 5) |
+| 25 | O DNA como holograma — a trama do corpo e do espírito | `25-o-dna-como-holograma-a-trama-do-corpo-e-do-espirito.md` | ✅ redigido (lote 5) |
+| 26 | Titãs, asuras e demos — os povos da Terra em formação | `26-titas-asuras-e-demos-os-povos-da-terra-em-formacao.md` | ✅ redigido (lote 5) |
+| 27 | Pandora, o Éden e as hibridações — a "queda" que não foi bem assim | `27-pandora-o-eden-e-as-hibridacoes-a-queda-que-nao-foi-bem-assim.md` | ✅ redigido (lote 5) |
+| 28 | O ser humano por dentro — corpos, mentalma e o aparelho mental | `28-o-ser-humano-por-dentro-corpos-mentalma-e-o-aparelho-mental.md` | ✅ redigido (lote 5) |
+| 29 | Os tempos da Terra — eras, catástrofes e dilúvios | `29-os-tempos-da-terra-eras-catastrofes-e-diluvios.md` | ✅ redigido (lote 5) |
+| 30 | Vozes e missões — profetas, mensageiros e encontros | `30-vozes-e-missoes-profetas-mensageiros-e-encontros.md` | ✅ redigido (lote 5) |
+| 31–38 | parte III (Sophia→Carbono) + fecho | — | 🕓 aguardando despacho |
 
 **Lote 1:** Abertura + capítulos 1–4 — ✅ APROVADO NA ÍNTEGRA pelo Curador (V).
 **Lote 2:** capítulos 5–8 — ✅ APROVADO NA ÍNTEGRA pelo Curador (V).
 **Lote 3:** capítulos 9–13 — ✅ APROVADO (Curador: "Em frente com os caps. 14–22").
 **Lote 4 (em despacho):** capítulos 14–22 (avatares → geografia do invisível → três Espiritualidades → leis do tabuleiro → leis do tecido → moradores → Rebelião de Lúcifer → Exilados de Capela → Isolamento) — entregues na U108 (18/09/2026), aguardando V/X/? do Curador. Fecha a **Parte II** no rascunho.
+**Lote 5 (em despacho):** capítulos 23–30 (Projeto Talm → semeadura e Agentes da Vida → DNA-holograma → titãs/asuras/demos → Pandora/Éden/hibridações → o ser humano por dentro → os tempos da Terra → vozes e missões) — entregues na U109 (18/09/2026), aguardando V/X/? do Curador. Abre a **Parte III** no rascunho e percorre a sua primeira metade.
 
 ## Auditorias anteriores (registro)
 
@@ -81,4 +90,19 @@
   fechando em dois-pontos (a frase continua na fonte); âncoras RC-517/RC-344 trocadas
   (não correspondiam ao assunto).
 - Base intacta: `dados_termos.py` OK (946/1887) · suíte 21/21.
+- 0 códigos novos · 0 arestas novas · `relacoes/` intocado.
+
+## Auditoria do lote 5 (registro)
+
+- **18 caixas «Na voz do autor» novas** (23×2, 24×4, 25×2, 26×2, 27×3, 28×2, 29×1, 30×2) ·
+  Portão B interno sobre os 54 boxes em 00–30: **0 não-conferidos**.
+- Fontes do lote 5: B031, B024, B002, P2024-02-25, B023, B021, B015, B020, B048, B005.
+- Acumulado 1+2+3+4+5: **54 caixas · 0 não-conferidas**. Primeira metade da Parte III fechada no rascunho.
+- Artefatos de fonte preservados byte a byte (não "corrigidos"): B024 «“Projeto Talm” ,» (espaço
+  antes da vírgula), B048 «dehatma-buddhi ,», B020 «humanizar -me de vez». Registrados no corpo
+  dos capítulos 24/28/27 quando a leitura poderia estranhar.
+- Erros meus corrigidos antes do commit: cap. 23 caixas fechavam em pontos onde a fonte tem
+  vírgula/travessão (refeitas à extensão exata da frase); cap. 27 «humanizar-me»→«humanizar -me»;
+  cap. 28 caixa estendida até «...uma alma que me anima.»
+- Base intacta: `dados_termos.py` OK (946/1887) · suíte 21/21 (`Ran 21 tests ... OK`).
 - 0 códigos novos · 0 arestas novas · `relacoes/` intocado.

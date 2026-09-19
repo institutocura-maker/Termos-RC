@@ -4339,3 +4339,42 @@ Artefacto: diagnostico/U98-INGESTAO-PENDENTE-A5.md (manifesto para o Curador).
   intocado. README dos capítulos atualizado (progresso + auditoria do lote 4).
 - Despacho ao Curador: entregue o Lote 4 (caps. 14-22) — aguardando V/X/?. Próximo lote:
   Parte III (caps. 23-38), conforme ordem do Curador.
+
+## U109 — Livro · Fase 1 · Lote 5: Parte III, primeira metade (caps. 23-30)
+- Despacho do Curador: Lote 4 entregue (U108) e usuário seguiu com «continuando ...» → abrir
+  o próximo lote (Parte III).
+- INCIDENTE DE AMBIENTE (3ª recorrência): HEAD local regrediu a `41cfedb` + untracked
+  `diagnostico/ENCERRAMENTO-CAMPANHA-A5-2026-09-18.md` e `pedagogico/livro/`. Reparo:
+  `git fetch` + `git reset --hard origin/arena/01a0b65d-termos-rc` → HEAD `3bc9790`, árvore limpa.
+- Redigidos 8 capítulos (PARTE III aberta no rascunho): 23 Projeto Talm (2 caixas B031 —
+  «Á medida que…»refeita→«A doença do Criador…era o de Brahma.» + verbete «Em outras palavras,
+  foi um projeto edificado…onde vivemos.») · 24 semeadura/Agentes (B024 «Projeto Talm” ,» +
+  «agentes da vida» + «Chegará o momento…sua desdita.» + P2024-02-25 baralho 28.869) ·
+  25 DNA-holograma (B002 «projeção holográfica…» + P2024-02-25 «Cada código…microsensação.») ·
+  26 titãs/asuras/demos (B023 «Como isso se deu? Os dois irmãos titãs, Prometeu e Epimeteu» +
+  B021 escudo invisível) · 27 Pandora/Éden/hibridações (B015 genética da confiança + B020
+  serpente + B020 humanizar) · 28 ser humano por dentro (P2024-02-25 conectoma + B048
+  dehatma buddhi) · 29 os tempos da Terra (B024 «Até este momento…descritas a seguir.» +
+  tabela das 10 eras via RC-155) · 30 vozes e missões (B005 Enoque + B005 Missão do Mestre).
+- PORTÃO B DO LIVRO: 54 boxes em 00-30 → **54/54 · 0 falhas** (byte a byte, só espaços/quebras).
+- ERROS MEUS PRESOS PELO PORTÃO B ANTES DE GRAVAR (5): (1) cap. 23 caixa 1 fechando em ponto
+  onde a fonte só tem vírgula («…menor grau.» → frase completa até «era o de Brahma.»);
+  (2) atribuição `(B031, verbete "Projeto Talm")` quebra o regex de sigla → `(B031)` simples;
+  (3) cap. 24 «Chegará o momento…realize.» — faltava «– e não há mesmo uma outra opção para
+  eles e sua desdita»; (4) cap. 27 «humanizar-me» → fonte grafa «humanizar -me de vez»
+  (artefato de digitação, preservado); (5) cap. 28 «integramente…espirito.» → fonte continua
+  «, e sequer consigo perceber que tenho uma alma que me anima.»; (6) cap. 29 «…dez eras
+  universais.» → fonte segue «, que estão descritas a seguir.».
+- ARTEFATOS DE FONTE PRESERVADOS (nunca "corrigir" na aspa): B024 «“Projeto Talm” ,» (espaço
+  antes da vírgula) · B048 «dehatma-buddhi ,» · B020 «humanizar -me de vez» · B002/B024
+  travessão-forma «–» idem. Registrados no corpo dos caps. quando a leitura estranharia.
+- LIÇÕES (não repetir): P2024-02-25 é transcript de linha única (sem quebras) — buscar
+  substring com colapso prévio; B048 usa hífen espaçado no STT do sânscrito (dehatma-buddhi ,
+  ); B015/B020 têm marcadores «===== [PÁGINA n] =====» no meio de frases — evitar caixa que
+  os atravesse (B015 «Éden…laboratórios» cortado na p.52, usei o trecho B015 «Esses pequenos
+  grupos…» que é contínuo).
+- Validação: `dados_termos.py` OK 946/1887 · suíte 21/21 (`Ran 21 tests in 10.5s OK`) ·
+  0 códigos novos · `relacoes/` intocado. README dos capítulos atualizado (tabela 23-30 +
+  auditoria do lote 5).
+- Despacho ao Curador: entregue o Lote 5 (caps. 23-30) — aguardando V/X/?. Próximo lote:
+  caps. 31-38 (resto da Parte III + Fecho), conforme ordem do Curador.
