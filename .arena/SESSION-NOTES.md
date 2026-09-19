@@ -4378,3 +4378,39 @@ Artefacto: diagnostico/U98-INGESTAO-PENDENTE-A5.md (manifesto para o Curador).
   auditoria do lote 5).
 - Despacho ao Curador: entregue o Lote 5 (caps. 23-30) — aguardando V/X/?. Próximo lote:
   caps. 31-38 (resto da Parte III + Fecho), conforme ordem do Curador.
+
+## U110 — Livro · Fase 1 · Lote 6: Parte III completa (caps. 31-38)
+- Despacho do Curador: usuário seguiu com «continuando ...» após o despacho do Lote 5 → abrir
+  o lote seguinte (Parte III, segunda metade).
+- Ambiente estável na abertura (HEAD=remoto=30df67d, árvore limpa) — sem incidente desta vez.
+- Redigidos 8 capítulos (PARTE III FECHADA no rascunho): 31 Sophia (2 caixas B031 — «E o
+  isolamento cósmico da Terra acabará…primeiro contato extraterreno oficial» + «Em palavras
+  simples, Sophia seria o “pai biológico” de Jesus») · 32 Jesus/Messias (B031 verbete Jesus,
+  encurtado antes do marcador [PÁGINA 138]; Messias ≠ Jesus via RC-942; Saulo/Paulo via
+  RC-856) · 33 colapso da Trimurti (P2024-02-25 «Trimur sucumbe colapsa no ano 2018…sobra
+  disso tudo?» — STT preservado) · 34 operador humano (B031 Favor Divino) · 35 problema do mal
+  (P2024-02-25 «Ah, eu pensei que o que regrava a vida…cumprem essa agenda.») · 36 caminho de
+  volta (B021 telos/tikun + B031 Reintegração Cósmica) · 37 Cidadão Cósmico (B033 «Apesar do
+  isolamento, o cidadão cósmico pretendido surgiu…») · 38 carbono×sílica (P2025-02-16 fluxo
+  encarnatório em corpos de sílica).
+- PORTÃO B DO LIVRO: 64 boxes em 00-38 → **64/64 · 0 falhas** (byte a byte, só espaços/quebras).
+- ERROS MEUS PRESOS ANTES DE GRAVAR (3): (1) cap. 32 caixa atravessava o marcador de página
+  do B031 → encurtada ao trecho contínuo (o resto virou paráfrase); (2) cap. 36 «(tikun)» →
+  fonte grafa «( tikun )» com espaços internos; (3) cap. 38 «imantarem» → fonte grafa
+  «mantarem» (STT) — caixa e nota corrigidas ao byte.
+- REPAROS DE ÂNCORA (não repetir): RC-889 = Biblioteca Genômica Humana (não Parameshthi) →
+  usar RC-556; RC-410 = Adhyaprabraja (não telos) → usar RC-292; RC-271 = só-cadastro,
+  ficha=False → removida do cap. 34. **Regra fixa: âncora só com arquivo físico em termos/.**
+- ARTEFATOS DE FONTE PRESERVADOS na aspa: P2024-02-25 «Trimur», «senhor para mestre» · B021
+  «( tikun )» · P2025-02-16 «mantarem» · «A espiritualidade tentou, mas não conseguiu. se
+  organizar…» (o «. se» é ruído de STT, mantido). Nunca "corrigir" dentro de aspa.
+- LIÇÕES (não repetir): verbetes do B031 contêm «===== [PÁGINA n] =====» no meio de frases —
+  sempre conferir se a caixa atravessa um marcador; P2024-02-25 é transcript de linha única;
+  B021/B024/B033 têm artefatos de espaçamento (dois espaços, «( tikun )») — colapsar quebras
+  antes de comparar mas reproduzir espaços internos na aspa.
+- Validação: `dados_termos.py` OK 946/1887 · suíte 21/21 (`Ran 21 tests in 10.5s OK`) ·
+  0 códigos novos · `relacoes/` intocado. README dos capítulos atualizado (tabela 31-38 +
+  auditoria do lote 6).
+- Despacho ao Curador: entregue o Lote 6 (caps. 31-38) — aguardando V/X/?. Próximo lote:
+  Fecho (F.1–F.6 — glossário do iniciante, linha do tempo, mapa de abstração, caderno de
+  quarentenas, para continuar, caderno de tensões/lacunas), conforme ordem do Curador.

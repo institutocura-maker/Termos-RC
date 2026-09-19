@@ -48,13 +48,22 @@
 | 28 | O ser humano por dentro — corpos, mentalma e o aparelho mental | `28-o-ser-humano-por-dentro-corpos-mentalma-e-o-aparelho-mental.md` | ✅ redigido (lote 5) |
 | 29 | Os tempos da Terra — eras, catástrofes e dilúvios | `29-os-tempos-da-terra-eras-catastrofes-e-diluvios.md` | ✅ redigido (lote 5) |
 | 30 | Vozes e missões — profetas, mensageiros e encontros | `30-vozes-e-missoes-profetas-mensageiros-e-encontros.md` | ✅ redigido (lote 5) |
-| 31–38 | parte III (Sophia→Carbono) + fecho | — | 🕓 aguardando despacho |
+| 31 | Sophia — a face viva da criação (e o que veio antes de Jesus) | `31-sophia-a-face-viva-da-criacao-e-o-que-veio-antes-de-jesus.md` | ✅ redigido (lote 6) |
+| 32 | Jesus — e o Messias que ele não assumiu | `32-jesus-e-o-messias-que-ele-nao-assumiu.md` | ✅ redigido (lote 6) |
+| 33 | O colapso da Trimurti — o divisor de águas | `33-o-colapso-da-trimurti-o-divisor-de-aguas.md` | ✅ redigido (lote 6) |
+| 34 | O operador humano — ética, carma e o Favor Divino | `34-o-operador-humano-etica-carma-e-o-favor-divino.md` | ✅ redigido (lote 6) |
+| 35 | O problema do mal — a justiça que falhou e o que vem no lugar | `35-o-problema-do-mal-a-justica-que-falhou-e-o-que-vem-no-lugar.md` | ✅ redigido (lote 6) |
+| 36 | O caminho de volta — Tikun e Reintegração Cósmica | `36-o-caminho-de-volta-tikun-e-reintegracao-cosmica.md` | ✅ redigido (lote 6) |
+| 37 | O Cidadão Cósmico e a Mente Universal — o horizonte humano | `37-o-cidadao-cosmico-e-a-mente-universal-o-horizonte-humano.md` | ✅ redigido (lote 6) |
+| 38 | Carbono e sílica — o operador e a inteligência artificial | `38-carbono-e-silica-o-operador-e-a-inteligencia-artificial.md` | ✅ redigido (lote 6) |
+| F.1–F.6 | instrumentos do estudante + fecho | — | 🕓 aguardando despacho |
 
 **Lote 1:** Abertura + capítulos 1–4 — ✅ APROVADO NA ÍNTEGRA pelo Curador (V).
 **Lote 2:** capítulos 5–8 — ✅ APROVADO NA ÍNTEGRA pelo Curador (V).
 **Lote 3:** capítulos 9–13 — ✅ APROVADO (Curador: "Em frente com os caps. 14–22").
 **Lote 4 (em despacho):** capítulos 14–22 (avatares → geografia do invisível → três Espiritualidades → leis do tabuleiro → leis do tecido → moradores → Rebelião de Lúcifer → Exilados de Capela → Isolamento) — entregues na U108 (18/09/2026), aguardando V/X/? do Curador. Fecha a **Parte II** no rascunho.
 **Lote 5 (em despacho):** capítulos 23–30 (Projeto Talm → semeadura e Agentes da Vida → DNA-holograma → titãs/asuras/demos → Pandora/Éden/hibridações → o ser humano por dentro → os tempos da Terra → vozes e missões) — entregues na U109 (18/09/2026), aguardando V/X/? do Curador. Abre a **Parte III** no rascunho e percorre a sua primeira metade.
+**Lote 6 (em despacho):** capítulos 31–38 (Sophia → Jesus/Messias → colapso da Trimurti → o operador humano → o problema do mal → Tikun/Reintegração → Cidadão Cósmico/Mente Universal → carbono×sílica) — entregues na U110 (18/09/2026), aguardando V/X/? do Curador. Fecha a **Parte III** no rascunho; resta o Fecho (F.1–F.6).
 
 ## Auditorias anteriores (registro)
 
@@ -104,5 +113,23 @@
 - Erros meus corrigidos antes do commit: cap. 23 caixas fechavam em pontos onde a fonte tem
   vírgula/travessão (refeitas à extensão exata da frase); cap. 27 «humanizar-me»→«humanizar -me»;
   cap. 28 caixa estendida até «...uma alma que me anima.»
+- Base intacta: `dados_termos.py` OK (946/1887) · suíte 21/21 (`Ran 21 tests ... OK`).
+- 0 códigos novos · 0 arestas novas · `relacoes/` intocado.
+
+## Auditoria do lote 6 (registro)
+
+- **10 caixas «Na voz do autor» novas** (31×2, 32×1, 33×1, 34×1, 35×1, 36×2, 37×1, 38×1) ·
+  Portão B interno sobre os 64 boxes em 00–38: **0 não-conferidos**.
+- Fontes do lote 6: B031, B033, B021, P2024-02-25, P2025-02-16.
+- Acumulado 1+2+3+4+5+6: **64 caixas · 0 não-conferidas**. Parte III fechada no rascunho;
+  resta o Fecho (F.1–F.6).
+- Artefatos de fonte preservados byte a byte (não "corrigidos"): P2024-02-25 «Trimur sucumbe
+  colapsa» e «senhor para mestre» (STT da fala, com nota no corpo) · B021 «( tikun )» (espaços
+  internos) · P2025-02-16 «mantarem» (por "imantarem", com nota no corpo).
+- Erros meus corrigidos antes do commit: caixa do cap. 32 atravessava o marcador de página
+  `[PÁGINA 138]` do B031 — encurtada ao trecho contínuo; caixa do cap. 36 «(tikun)» → «( tikun )».
+- Âncoras: ancoradas em fichas com arquivo físico; RC-271 (pactos do Criador) é só-cadastro
+  (`ficha=False`) — removida do rodapé do cap. 34; RC-889 (Biblioteca Genômica) trocada por
+  RC-556 (Senhor Parameshthi) no cap. 33.
 - Base intacta: `dados_termos.py` OK (946/1887) · suíte 21/21 (`Ran 21 tests ... OK`).
 - 0 códigos novos · 0 arestas novas · `relacoes/` intocado.
