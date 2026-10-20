@@ -1,0 +1,58 @@
+{
+  "barreiras": {
+    "apostilas_criadas": 0,
+    "ciclos_criados": 0,
+    "dados_termos_alterado": false,
+    "fichas_criadas": 0,
+    "relacoes_criadas": 0,
+    "termos_criados": 0
+  },
+  "base_terminologica": {
+    "aliases_ambiguos_excluidos": 14,
+    "ocorrencias_exatas_indexadas": 11542,
+    "termos_lidos": 946
+  },
+  "capacidade": {
+    "duracao_total": "245:56:52",
+    "duracao_total_segundos": 885412,
+    "fontes_sem_duracao": [],
+    "lotes_planejados": 24,
+    "max_candidatos_por_lote": 25,
+    "meta_horas_por_lote": 11.0,
+    "teto_horas_por_lote": 12.0
+  },
+  "fase": "0 — registro, validação e triagem; sem mutação da Base",
+  "gerado_em": "2026-10-20",
+  "hashes_entrada_e_base_lida": {
+    "dados_termos.py": "a8cf12e7460a4d9ed14509d64d6df342826064a0590af6b490b3e96f522d558c",
+    "manifesto-derivados-sha256.tsv": "906d8e755d701f1dd4e8a2cedbc7f3a1fc18ef29b2cbe6da821f381c8918c501",
+    "manifesto-fontes-sha256.tsv": "5dc085bd82e511160cae7372dad01097afc6ccb44e62c3862997264e019f4cf8",
+    "rastreio-antes-depois.jsonl": "be67a9649240d0f9830be7f5e90f3e3c2097f1ae215ff1fad83fb107116a554a"
+  },
+  "integridade": {
+    "derivados_conferidos": 309,
+    "derivados_manifestados": 309,
+    "fontes_brutas_abertas": 0,
+    "fontes_manifestadas": 309,
+    "trocas_manifesto": 1306,
+    "trocas_rastreio": 1306
+  },
+  "lote_origem": "stt-lote-2026-10",
+  "mapeamento": {
+    "distribuicao_tema_primario": {
+      "ANUNNAKI_GENETICA": 31,
+      "ATLANTIDA_CIVILIZACOES": 9,
+      "COSMOGONIA_CRIADOR": 39,
+      "EXTRATERRESTRES_TECNOLOGIA": 19,
+      "GERAL_SEM_SINAL_FORTE": 1,
+      "MEDIUNIDADE_ESPIRITUALIDADE": 71,
+      "MITOLOGIAS_ORIENTAIS": 25,
+      "MORTE_REENCARNACAO_ETICA": 15,
+      "REINTEGRACAO_CRISTO": 35,
+      "SOCIEDADE_CONTEMPORANEA": 64
+    },
+    "enderecos_de_linha": 26389,
+    "fontes_com_tema_primario": 309
+  },
+  "politica_de_entrada": "somente normalizados_stt_lote_2026-10; STT bruto não foi aberto"
+}
