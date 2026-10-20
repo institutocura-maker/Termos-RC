@@ -4,7 +4,7 @@
 
 **Lote:** `uploads_recepcao/stt-lote-2026-10/` — 309 transcrições Markdown
 
-**Estado:** proposta para despacho; **nenhum bruto foi alterado** e nenhuma regra desta página foi executada.
+**Estado:** despacho aprovado e executado; as contagens desta página preservam a projeção de despacho. O resultado efetivo está em `diagnostico/RELATORIO-NORMALIZACAO-STT-LOTE-2026-10-20.md`. **Nenhum bruto foi alterado.**
 
 > **Decisão pedida ao Curador:** aprovar, ajustar ou vetar os três blocos de regras abaixo em uma única resposta. Após o despacho, a esteira produzirá somente cópias derivadas identificadas como **transcrição STT normalizada (não verbatim)**, com manifesto SHA-256, registro `antes → depois`, fila de pendências e verificação de idempotência. Os 309 brutos permanecerão byte a byte intactos.
 
@@ -32,8 +32,8 @@ Os números são estimativas de aplicação, não edição já realizada.
 | D1.02 | `UERD`, `Werd`, `erd` → **Wyrd** | 133 / 22 | RC-658 e RC-560 unificam as formas STT da teia sob **Wyrd**; a decisão curatorial registra “somente Wyrd”. Não inclui `Urdre`, que é mantido. |
 | D1.03 | `ticum` → **Tikun** | 38 / 14 | RC-514, inclusive a anotação explícita `ticum/tikum` como STT. |
 | D1.04 | `Javer` → **Javé** | 16 / 13 | RC-001 identifica a forma em falas sobre Javé; RC-040 registra `Javer` como degradação STT do nome. |
-| D1.05 | `Sávina` → **Savna** | 14 / 5 | RC-102 relaciona explicitamente `Sávina` e outras captações STT a **Savna**. |
-| D1.06 | `vaicunta` → **Vaikuntha** | 9 / 6 | RC-414 identifica expressamente `vaicunta` como STT de **Vaikuntha**. |
+| D1.05 | `Sávina` → **Savna** | 14 / 8 | RC-102 relaciona explicitamente `Sávina` e outras captações STT a **Savna**. |
+| D1.06 | `vaicunta` → **Vaikuntha** | 9 / 4 | RC-414 identifica expressamente `vaicunta` como STT de **Vaikuntha**. |
 | D1.07 | `rabarata`, `Marra Barata` → **Mahabharata** | 18 / 14 | RC-593 registra `Marrabarata/rabarata` como STT de **Mahabharata**. |
 | D1.08 | `Morus` → **Moros** | 6 / 4 | RC-454 e RC-533 registram `Moros/Morus` como a mesma forma. Não se aplica a `Morrensor`/correlatos. |
 | D1.09 | `Viaza` → **Vyasa** | 5 / 2 | RC-585 registra expressamente `Viaza` como STT de **Vyasa**. Não inclui o verbo comum `viaja`. |
@@ -41,9 +41,9 @@ Os números são estimativas de aplicação, não edição já realizada.
 | D1.11 | `Horlogue` → **Orlog** | 3 / 2 | RC-658 documenta `horlog` como captação STT de **Orlog**; os três casos do lote estão no mesmo uso onomástico. |
 | D1.12 | `Aia` → **Aya**; `Aie` → **Aye** | 3 / 2 | RC-834 e RC-835 classificam ambas como corruptelas STT e mandam preferir as grafias canônicas. |
 | D1.13 | `Chiva` → **Shiva** | 3 / 3 | RC-102 e RC-135 explicitam `Chiva` como forma STT de **Shiva**. |
-| D1.14 | `Pimeteu` → **Epimeteu** | 3 / 2 | Glossário canônico, linha de **Epimeteu**; alvo ancorado em RC-302. A forma paralela `Efestos` continua bloqueada (ver §4). |
-| D1.15 | `riches` → **Rishis** | 2 / 2 | RC-586: “Grafia preferida: Rishis. STT: riches.” |
-| D1.16 | `Fanis` → **Phanes** | 2 / 1 | RC-565 registra `funis/Fanis` como STT de **Phanes**; RC-282 ancora o termo. |
+| D1.14 | `Pimeteu` → **Epimeteu** | 3 / 3 | Glossário canônico, linha de **Epimeteu**; alvo ancorado em RC-302. A forma paralela `Efestos` continua bloqueada (ver §4). |
+| D1.15 | `riches` → **Rishis** | 2 / 1 | RC-586: “Grafia preferida: Rishis. STT: riches.” |
+| D1.16 | `Fanis` → **Phanes** | 2 / 2 | RC-565 registra `funis/Fanis` como STT de **Phanes**; RC-282 ancora o termo. |
 
 **Impacto incremental de D1:** **327 substituições candidatas** em **81 arquivos** (a soma por linha pode contar o mesmo arquivo mais de uma vez).
 
@@ -94,7 +94,7 @@ Uma única resposta pode autorizar a próxima fase. Exemplos:
 - **`Aprovo D1, D2 exceto D2.03 e D2.06; mantenha D3.`**
 - **`Vetado D1.xx`** ou indicar uma alteração de alvo/regra.
 
-Sem novo despacho, não haverá aplicação de D1/D2. Após o despacho, a execução será única sobre o lote inteiro, sem solicitar confirmação por arquivo.
+**Despacho recebido:** `Aprovo D1 e D2; mantenha D3 preservado.` A execução foi então realizada uma única vez sobre o lote inteiro, sem solicitar confirmação por arquivo; consultar o relatório final para o censo aplicado e os manifestos.
 
 ---
 

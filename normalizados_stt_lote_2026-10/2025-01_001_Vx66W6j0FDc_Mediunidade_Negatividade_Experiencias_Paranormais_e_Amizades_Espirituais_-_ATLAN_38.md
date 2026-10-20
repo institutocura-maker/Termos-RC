@@ -1,0 +1,69 @@
+---
+titulo: "Mediunidade, Negatividade, Experiências Paranormais e Amizades Espirituais   - ATLAN #38"
+data_publicacao_original: "2025-01-02"
+canal_autor: "Jan Val Ellam"
+id_youtube: "Vx66W6j0FDc"
+link_original: "https://www.youtube.com/watch?v=Vx66W6j0FDc"
+arquivo_fonte: "2025-01_001_Vx66W6j0FDc_Mediunidade_Negatividade_Experiencias_Paranormais_e_Amizades_Espirituais_-_ATLAN_38.opus"
+duracao: "00:18:41"
+data_transcricao: "2026-10-17 19:37:26"
+motor_neural: "faster-whisper large-v3 (FP16 / CUDA)"
+descricao: |
+  Acesse o curso Mistérios do Xamismo  👉🏼 https://link.janvalellam.com.br/seminario-de-xamanismo
+  
+  Se você gostou deste conteúdo, deixe seu “Gostei”  e compartilhe com outros buscadores, ajudando a divulgar esses conhecimentos! Considere tornar-se membro do nosso canal e tenha acesso a conteúdo exclusivo e aprofundado.
+  
+  🌍 Mergulhe nos temas abordados e acesse nossos materiais gratuitos e cursos completos através do link: 👉🏼 https://janvalellam.com.br/
+  
+  Fortaleça o nosso trabalho e inscreva-se em nossos canais parceiros! 
+  📺 Canal de cortes: http://youtube.com/@JanValEllamCortes
+  📺 Canal em Espanhol: https://youtube.com/@UC5S685D_bVyjm7fkdmhRxRA 
+  📺 Canal em Inglês: https://youtube.com/@UCIaKoFPFuBMUARXDZTOWJTA
+  📺 Canal Farol Lusitano: https://youtube.com/@FarolLusitano?si=wSpVRFWBo2B9U6cc
+  
+  Outros links importantes:
+  📚 Livros e Agenda:  http://janvalellam.org
+  📸 Instagram: https://instagram.com/janvalellam/
+---
+
+# Mediunidade, Negatividade, Experiências Paranormais e Amizades Espirituais   - ATLAN #38
+
+> **Fonte Original:** [https://www.youtube.com/watch?v=Vx66W6j0FDc](https://www.youtube.com/watch?v=Vx66W6j0FDc) | **Duração:** 00:18:41
+
+Estamos de volta com o programa Atlan Painel, dessa vez falando sobre a importância do animal doméstico em casa. Então, o animal doméstico, isso implica em ter um corpo estranho em casa, né? E no dia a dia comum, na rotina de uma casa, normalmente também tem outras pessoas que não fazem parte da família.
+
+Como essa questão de empregadas domésticas e pessoas de fora, que essas pessoas de fora, elas podem acarretar algum problema para a casa? Sim e não. Eu já vi casos muito complicados de negatividade, como também já vi casos em que a salvação da família é a alma, no caso, literalmente, do empregado doméstico. Ao longo da minha vida, hoje bem menos, pelo fato de me encontrar muito morando em cidades diferentes, no interior da Bahia, etc e tal.
+
+Mas quando eu residia em Natal, de forma fixa, sem muita viagem, eu recebia pedidos de ajuda de amigos para ir na casa deles, porque os filhos estavam vendo coisas estranhas, tinha mudado o comportamento, estava falando diferente, ou seja, problemas de todo tipo. E realmente, ao longo da vida, eu colecionei aí umas dezenas de oportunidades que eu chegava nesses lugares, sem nem saber exatamente para onde estava indo, nem sabia o que me esperava, e então tinha que primeiro entender a situação, Tinha que interagir com os amigos espirituais ali, depois com a turma espiritual negativa que estava lá. E, se fosse possível, fazer algo já naquele momento, no sentido de ajudar.
+
+Às vezes essas coisas são lentas, de uma hora para a outra. Mas, quando era com criança, criança tira a gente do sério.
+
+Quando vem uma criança sofrendo, a gente fica... coração de pai e mãe, então a gente sempre procurava fazer alguma coisa na hora, mas obviamente orientado pelos amigos espirituais, quando tal era possível.
+
+E nessas situações eu pude perceber como às vezes o fato de ter um alguém de fora trabalhando durante o dia e indo embora para dormir em casa o potencial de contribuição energética daquela pessoa para o bem ou mal estar da residência era X mas quando a pessoa dormia em casa aí era X elevado a mil para um lado ou para o outro então eu me lembro muito bem que um caso de amigos amigos não, um caso de um casal que um amigo vem vendo a história deles e eles já estavam desesperados porque um dos filhos que eles tinham já tinha passado psicólogo por tudo já estava tomando remédio porque estava mudando pouco importa, aqui não importa o caso especificamente e eu fui lá com esse amigo a pedido do casal de pais e na primeira vez que eu fui a avó estava presente e a coisa não funcionou por quê? porque a vibração daquela senhora era tão pesada mas tão pesada que não funcionou e eu não podia dizer não podia fazer nada ela estava ali com a melhor intenção, tudo, mas não funcionou. E eu fiquei constrangido, mas eu tive que... A situação da criança era muito séria, envolvia até possível morte, se aquele continuasse.
+
+Eu falei para o meu amigo, eu não estou bem, eu preciso voltar outra noite. Então eu tentei driblar de toda forma, na outra vez que eu fui, foi dois dias depois, eu acho. a senhora não estava e então foi que eu percebi toda uma tragédia espiritual que estava localizada naquela família e estava sobrando para a criança e não tinha que ser daquela forma qual o problema? o problema é que quem estava o desajuste do pai e da mãe da avó é que haviam contribuído totalmente para o problema da criança quem estava segurando a barra era a empregada doméstica, que ela nem dormia lá, aí veja como as coisas são.
+
+O menino começou com problemas, aí na casa da empregada doméstica ocorreu um problema que ela não pôde mais dormir lá, então ela pediu para ficar dormindo lá durante um tempo. Depois a espiritualidade me mostrou, eles tiveram que provocar esse pequeno probleminha lá, mas não foi problema. É como se alguém, um familiar, ficou desempregado numa cidade X e foi morar na casa dela e essa senhora, para facilitar a permanência dessa pessoa lá, pediu para ficar dormindo no emprego durante um tempo. Isso aqui foi providencial para salvar a vida da criança, porque a energia da senhora valia pelo do pai, da mãe e da avó. Ou seja, sem essa senhora, que era só empregada doméstica, a criança teria seguramente tido problemas mais sérios.
+
+Mas aquela senhora, sem ter a menor noção de nada, porque eu a conheci depois, uma empregada doméstica a mais do mundo, mas a fé dela, que era católica, a fé dela em não sei quem que eu já nem me recordo mas ela toda noite que ficou lá antes de dormir ela rezava um terço para os dois meninos da casa e dizia, essa casa está faltando oração essa casa está faltando oração então assim, na maneira dela depois é que eu percebi que ela foi a heroína, o sustentáculo de tudo e não foi só nessa não foi somente nessa situação e nesse contexto que eu vi a importância de alguém de fora que termina ficando na casa. Importância positiva. Por que que eu falei no início que quando um empregado doméstico trabalha durante o dia e vai embora causa Y ou X de contribuição energética e quando dorme X elevado?
+
+Pelo seguinte, durante o dia nós, por mais esquecemos energia, mas a luz do sol destrói o nosso perfume.
+
+Então se você passar o dia inteiro em uma cozinha, em uma sala, em um quarto, durante o dia, o fato de estar de dia, a alma da gente emana um perfume a toda hora. Mas esse perfume durante o dia, por mais que a gente emane, o sol durante o dia destrói os efluvios que saem da nossa alma.
+
+A noite é o contrário. A noite, a ausência do raio solar, ele intensifica, ele torna mais amplo o perfume espiritual de cada um. Então, essa senhora dormia lá, ainda bem que ela dormia, porque a energia dela se via como bálsamo protetor para toda a família. Uma das coisas que os pais dessa criança tiveram que fazer foi aprender a orar antes de dormir. para poder, através da oração, criar um campo protetor vibratório para impedir a entrada de energias negativas. Isso é igual a propriedade fazenda, tem que botar cerca de arame farpado para impedir que figuras entrem. Então o lar da gente é a mesma coisa.
+
+A oração, aí entra a importância da fé ou da limpeza espiritual. uma música, antes de dormir você escutar, as coisas positivas constroem, ainda que você não saiba, mas constroem um campo a própria alma da gente quando se ilumina constrói esse campo mas nesse lar não tinha então quem rezava era empregado ela passou a dormir lá ela só rezava na hora de dormir, não era durante o dia então foi importantíssimo ela dormir lá já em outras situações em que mas aí é bem menor bem menor mesmo em poucos casos eu encontrei a causa do problema das crianças de pessoas que moravam em casa devido ao fato daquela pessoa ter uma prática num nível de espiritismo rasteiro que não é espiritismo mas um padrão mais rasteiro então assim, às vezes isso atrai exatamente o hábito espiritual primitivo dela, mas isso só acontece se na residência não tiver as proteções.
+
+Porque caso tenha, essa figura pode trabalhar a vida inteira aqui. Cada vez que ela vem para a sua casa, ela é ajudada, ela sai se quiser, se complica, mas assim, ela não atrapalha.
+
+Mas se não tiver a proteção, ela pode atrapalhar. não ela, coitadinha, mas a estrutura espiritual que está ligada a ela então assim, se nós soubéssemos não era todo mundo que entrava na nossa casa se nós pudéssemos olhar eu nunca esqueci, eu era criança e meu avô gostava muito de aquário tudo que era bicho meu avô e minha avó, eu e minha irmã e minha mãe meu pai se foi muito cedo eu não sei dizer muita coisa a respeito dele eu tinha 3 anos quando ele desencarnou enquanto o Rogério pouco eu o conheci mas o lado da minha mãe, nós éramos todos assim nós vivíamos no meio dos animais isso foi muito importante e meu avô tem aquário e meu avô tem acabado de comprar um peixe chamado Acará Bandeira era um peixe meio E o peixe chegou, já estava um mês adaptado E nesse tempo, nem todo mundo tinha telefone em Natal E um monte de gente ficava pedindo para ligar lá de casa Meu avô tem uma paciência fantástica Minha avó, menos Aí um belo dia entrou uma senhora para fazer uma ligação Aí olhou para o aquário e disse Que peixe bonito Aí eu notei minha avó se colocando na frente dela Pode usar o telefone o telefone é livre aí não deu outra, quando essa mulher saiu aí minha avó disse, essa mulher tem mal olhado, minha avó era muito católica e tinha escutado isso lá na igreja, a gente morava em frente a matriz, mas não deu outro, no outro dia o peixe estava morto realmente tem essas pessoas que tem essa energia mal olhado, eu não sabia aí minha avó foi me explicar pra não ficar com medo mas assim é muito complicado Então, às vezes uma pessoa dessa entra na sua casa, de um jeito ela sai e você está dentro, se você não estiver protegido. E como esses animais são neutros, a alminha deles, entre aspas, é neutra, a alma de um peixe. Então, se você tiver algo potencialmente forte no seu modo de interagir com as almas ao seu redor, a alma do animal absorve.
+
+Então, se for, entre aspas, um mal-olhado, como o pessoal fala, absorve. E isso serve também para alguns humanos que têm canto neutro. Então, se você lê romances espirituais, você percebe que alguns espíritos em algumas residências, em alguns níveis, eles não abrem as portas. não é todo mundo que entra em nosso lar por exemplo, nosso lar é protegido com muralhas então é uma coisa muito séria não é todo mundo que entra, por quê? porque espiritualmente não há mais disfarce cada um é o que é então se você é um espírito terrivelmente perturbado ou perturbador a espiritualidade verifica se é só perturbado, até ele recebe para lhe ajudar, mas perturbador aí não entra porque ainda não pode ter condições ainda não apresentou condições para ser ajudado então a espiritualidade não deixa entrar, a espiritualidade é esclarecida o cara fica lá fora, na espiritualidade mas em outros ambientes só que aqui na terra, quando um espírito assume um corpo todo mundo vira farinha do mesmo saco ninguém nota a condição espiritual de ninguém então às vezes alguém entra na sua casa e cria problemas hoje em dia nem tanto mas no passado a boa educação, inclusive a bíblia orienta você a receber os estrangeiros bem chega um visitante na sua casa você trata como um rei isso é fantástico, é maravilhoso mas é complicado como nós somos muito parecidos o efeito o atrito não cria problema Às vezes, alguém que vai à sua casa é até muito mais evoluído que você. Então, não é esse o caso. Mas quando acontece de um espírito complicado adentrar a sua casa, e mesmo que você tenha uma certa estrutura de defesa, mas se ele promover um algazarra vibratório, alguma consequência ele gera. Então, melhor seria, não. O melhor seria a gente só introduzir na intimidade vibratória onde a gente vive figuras que têm uma afeição, têm um jogo de afeição.
+
+E ainda assim a gente tem que vigiar bastante, porque não é fácil, não é trivial. O contágio é algo que espiritualmente, e que se ocorre de modo trivial, os cortos da gente, um vírus pula daqui para cá. espiritualmente falando é muito mais rico e complexo ainda a troca, a interação entre dois espíritos do que entre dois corpos mas repito, para encerrar esse assunto como somos farinha do mesmo saco a aventura aqui é total você vê um carnaval desse, todo mundo se agarrando com todo mundo então assim, nós somos os nossos vírus já conhece os vírus dos outros as bactérias, é farinha do mesmo saco Então, hoje em dia, a gente está mergulhado num oceano tão complexo de vibração que nem mal olhado mais pega, porque não consegue penetrar em ambientes mais complexos, em que tem ali muitas ondas vibrando, muitas...
+
+Mas, em tese, seria bom a gente tomar cuidado. Fica aí a tica. Espero que você tenha gostado do conteúdo do nosso vídeo.
+
+E se você chegou até aqui, significa que você tem interesse em aprender mais ainda sobre a revelação cósmica e todos os painéis que fazem parte desse conhecimento. Por isso, gostaria de convidar você a conhecer a comunidade Orgum, a nossa plataforma e aplicativo de ensino com milhares de horas de conteúdo sobre os mais diversos tópicos e assuntos. É só tocar no link que está na descrição deste vídeo para conhecer e se juntar à nossa comunidade de estudos sobre a revelação cósmica.
