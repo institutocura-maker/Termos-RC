@@ -1,0 +1,4 @@
+# Cópias STT derivadas preservam byte a byte a formatação do bruto, salvo as
+# substituições léxicas auditadas pelo normalizador dry-run. Os espaços finais e
+# CRLF existentes são proveniência da fonte, não estilo introduzido neste repo.
+normalizados_stt_dry_run/*.md whitespace=-trailing-space
