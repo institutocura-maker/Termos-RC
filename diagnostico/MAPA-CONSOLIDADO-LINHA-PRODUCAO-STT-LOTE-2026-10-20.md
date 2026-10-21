@@ -37,8 +37,8 @@ derivado usado na produção e o SHA da fonte STT declarada no seu vínculo.
 
 - endereços textuais criados: **26389**;
 - termos canônicos lidos da Base: **946**;
-- aliases ambíguos excluídos do índice automático: **14**;
-- sinais exatos e não ambíguos da Base: **11542**.
+- aliases ambíguos excluídos do índice automático: **8**;
+- sinais exatos e não ambíguos da Base: **11326**.
 
 O endereço `Uxxxxx` é a linha física no derivado. O índice registra apenas uma
 correspondência literal de grafia existente na Base; não é verificação contra

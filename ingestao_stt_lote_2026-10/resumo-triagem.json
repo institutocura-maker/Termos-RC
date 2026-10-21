@@ -8,8 +8,8 @@
     "termos_criados": 0
   },
   "base_terminologica": {
-    "aliases_ambiguos_excluidos": 14,
-    "ocorrencias_exatas_indexadas": 11542,
+    "aliases_ambiguos_excluidos": 8,
+    "ocorrencias_exatas_indexadas": 11326,
     "termos_lidos": 946
   },
   "capacidade": {

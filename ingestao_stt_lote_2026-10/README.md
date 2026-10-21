@@ -15,7 +15,7 @@ brutos em `uploads_recepcao/`.
 - pares fonte declarada ↔ derivado: **309**;
 - duração total informada: **245:56:52**;
 - lotes temáticos planejados: **24**;
-- sinais exatos da Base indexados: **11542**;
+- sinais exatos da Base indexados: **11326**;
 - mutações em `dados_termos.py`, fichas, relações, ciclos e apostilas: **0**.
 
 ## Artefatos

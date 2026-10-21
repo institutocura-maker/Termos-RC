@@ -1,0 +1,311 @@
+{
+  "meta": {
+    "artefato": "Template de despacho curatorial — triagem STT em lote",
+    "lote_id": "STT26-10",
+    "gerado_em": "2026-10-20",
+    "estado": "PENDENTE-CURADOR",
+    "fonte_operacional": "somente derivados normalizados; o STT bruto não foi aberto",
+    "efeito_atual": "nenhum: não cria ciclo nem altera a Base",
+    "instrucoes": [
+      "Decidir o conjunto do lote, não vídeo a vídeo.",
+      "Sinal literal não prova conceito, interpretação nem citação apta.",
+      "AUTORIZAR-COTEJO é apenas permissão para aprofundar a evidência no derivado.",
+      "ABRIR-CICLO exige despacho posterior com âncoras e fonte derivada explícitas; não é efeito deste template."
+    ],
+    "opcoes_por_candidato": [
+      "MANTER-EM-TRIAGEM",
+      "DESCARTAR-DO-LOTE",
+      "AUTORIZAR-COTEJO-AMPLIADO",
+      "RESERVAR-PARA-FUTURO-CICLO"
+    ]
+  },
+  "candidatos": [
+    {
+      "codigo": "RC-072",
+      "nome": "Jesus",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-10-RC-072-001",
+        "STT26-10-RC-072-012",
+        "STT26-10-RC-072-015"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-086",
+      "nome": "Pandora",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-10-RC-086-001",
+        "STT26-10-RC-086-023",
+        "STT26-10-RC-086-030"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-752",
+      "nome": "Agenda Espiritual",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-10-RC-752-001",
+        "STT26-10-RC-752-014",
+        "STT26-10-RC-752-024"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-474",
+      "nome": "Arcontes (= Sophias e Indras; Conselho dos 70)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-10-RC-474-001",
+        "STT26-10-RC-474-008"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-094",
+      "nome": "Revelação Cósmica (conceito)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-10-RC-094-001",
+        "STT26-10-RC-094-002",
+        "STT26-10-RC-094-003"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-397",
+      "nome": "Tirthankaras (Rishabh Dev, Jina Mahavira)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-10-RC-397-001",
+        "STT26-10-RC-397-013"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-623",
+      "nome": "Corpo Átmico",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-10-RC-623-001",
+        "STT26-10-RC-623-005",
+        "STT26-10-RC-623-009"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-009",
+      "nome": "Sophia (Cristo Cósmico)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-10-RC-009-001",
+        "STT26-10-RC-009-002",
+        "STT26-10-RC-009-011"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-019",
+      "nome": "Anjos clones",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-10-RC-019-001"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-092",
+      "nome": "Quarto Logos (Olm / Codificador de Zian)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-10-RC-092-001"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-166",
+      "nome": "Mentalma",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-10-RC-166-001",
+        "STT26-10-RC-166-002",
+        "STT26-10-RC-166-004"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-938",
+      "nome": "Livre-arbítrio",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-10-RC-938-001",
+        "STT26-10-RC-938-002",
+        "STT26-10-RC-938-003"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-292",
+      "nome": "Telos (de um deus)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-10-RC-292-001"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-104",
+      "nome": "Trimurti",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-10-RC-104-001",
+        "STT26-10-RC-104-002"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-028",
+      "nome": "Atlan",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-10-RC-028-001",
+        "STT26-10-RC-028-005"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-759",
+      "nome": "Jainismo (antigo Druidismo — religião mais antiga)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-10-RC-759-001"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-037",
+      "nome": "Brahma (Brajna)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-10-RC-037-001",
+        "STT26-10-RC-037-002",
+        "STT26-10-RC-037-003"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-085",
+      "nome": "Orbum",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-10-RC-085-001",
+        "STT26-10-RC-085-003",
+        "STT26-10-RC-085-004"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-162",
+      "nome": "Elétrons (agente básico da vida universal)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-10-RC-162-001",
+        "STT26-10-RC-162-002",
+        "STT26-10-RC-162-003"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-414",
+      "nome": "Krishna (avatar de Vishnu/Shiva)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-10-RC-414-001",
+        "STT26-10-RC-414-003",
+        "STT26-10-RC-414-004"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-624",
+      "nome": "Corpo Búdico",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-10-RC-624-001",
+        "STT26-10-RC-624-003"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-941",
+      "nome": "Hipocampo",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-10-RC-941-001",
+        "STT26-10-RC-941-003"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-002",
+      "nome": "Rebelião de Lúcifer",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-10-RC-002-001",
+        "STT26-10-RC-002-003"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-301",
+      "nome": "Prometeu (titã)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-10-RC-301-001"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-489",
+      "nome": "Enoque (sétimo patriarca; levado por Javé)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-10-RC-489-001"
+      ],
+      "observacao": ""
+    }
+  ],
+  "despacho_de_lote": {
+    "resultado": "PENDENTE",
+    "candidatos_para_cotejo_ampliado": [],
+    "autorizacao_para_abrir_ciclo": false,
+    "observacao": ""
+  }
+}

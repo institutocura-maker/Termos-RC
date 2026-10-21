@@ -143,10 +143,10 @@ TEMAS: tuple[tuple[str, str, tuple[str, ...]], ...] = (
 # Não são bons descritores de um conceito para busca automática. A exclusão não
 # apaga a palavra da transcrição, apenas impede que ela infle o ranking curatorial.
 ALIAS_COMUNS = {
-    "alma", "amor", "bem", "caos", "corpo", "deus", "dor", "ego", "espírito",
-    "fé", "fim", "força", "forma", "homem", "humano", "luz", "mãe", "mente",
-    "morte", "mundo", "natureza", "pai", "pecado", "pessoa", "povo", "tempo",
-    "terra", "universo", "vida", "verdade", "vontade",
+    "alma", "amor", "bem", "caos", "corpo", "criador", "deus", "deuses", "demos",
+    "demônios", "dor", "ego", "espírito", "fé", "fim", "força", "forma", "homem",
+    "humano", "luz", "mãe", "mente", "morte", "mundo", "natureza", "pai", "pecado",
+    "pessoa", "povo", "tempo", "terra", "universo", "vida", "verdade", "vontade",
 }
 
 # Famílias de capacidade para não deixar caudas artificiais de 1–5 horas.
@@ -461,19 +461,18 @@ def normalizar_chave(texto: str) -> str:
 
 
 def aliases_termo(nome: str) -> set[str]:
-    """Gera grafias de busca conservadoras a partir do nome canônico da Base."""
+    """Gera grafias de busca conservadoras a partir do nome canônico da Base.
+
+    Não há decomposição automática de ``A / B``: ela converteria um rótulo
+    composto, por exemplo ``Quarentena Sideral / Cósmica``, no adjetivo comum
+    ``cósmica``. Equivalências desse tipo precisam de regra explícita posterior,
+    nunca de uma inferência do índice de escala.
+    """
     bruto = " ".join(nome.split())
     candidatos = {bruto}
     sem_parenteses = re.sub(r"\s*\([^)]*\)", "", bruto).strip(" -–—")
     if sem_parenteses:
         candidatos.add(sem_parenteses)
-    # Itens compostos do cadastro podem ter a forma "A / B". Cada parte só
-    # entra se continuar distintiva e não colidir com outro código.
-    for base in list(candidatos):
-        for parte in re.split(r"\s*/\s*|\s+ou\s+", base, flags=re.I):
-            parte = parte.strip(" .,:;-–—")
-            if parte:
-                candidatos.add(parte)
     limpos: set[str] = set()
     for candidato in candidatos:
         chave = normalizar_chave(candidato)
@@ -552,6 +551,7 @@ def registros_linhas_e_termos(
             numero_linha = linha_corpo + deslocamento
             unidade = f"U{numero_linha:05d}"
             texto_limpo = " ".join(texto_linha.split())
+            estrutural = texto_linha.lstrip().startswith(("#", ">", "---"))
             linhas.append(
                 {
                     "ingresso_id": documento.ingresso_id,
@@ -562,6 +562,10 @@ def registros_linhas_e_termos(
                     "sha256_texto_linha": hashlib.sha256(texto_linha.encode("utf-8")).hexdigest(),
                 }
             )
+            # Títulos e chamadas de origem são bons para navegação, mas não
+            # podem promover um candidato somente por nomear o tema do vídeo.
+            if estrutural:
+                continue
             for achado in padrao.finditer(texto_linha):
                 alias = normalizar_chave(achado.group(1))
                 termo = termos_por_alias.get(alias)
