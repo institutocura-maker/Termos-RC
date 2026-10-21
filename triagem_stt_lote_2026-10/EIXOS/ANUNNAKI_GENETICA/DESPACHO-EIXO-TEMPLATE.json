@@ -26,9 +26,9 @@
       "nome": "Anunnaki",
       "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
       "decisao_eixo": "PENDENTE",
-      "fundamento_curatorial": "",
+      "fundamento_curatorial": "Deliberação explícita do Curador: filtro rigoroso de valor doutrinário.",
       "decisao_por_lote": {
-        "STT26-01": "PENDENTE",
+        "STT26-01": "AUTORIZAR-COTEJO-AMPLIADO",
         "STT26-02": "PENDENTE"
       },
       "evidencias_disponiveis": {
@@ -41,16 +41,16 @@
           "STT26-02-RC-024-012"
         ]
       },
-      "observacao": ""
+      "observacao": "Despacho restrito a STT26-01; não se estende automaticamente a outros lotes."
     },
     {
       "codigo": "RC-487",
       "nome": "Enlil (deus sumério, par de Enki)",
       "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
       "decisao_eixo": "PENDENTE",
-      "fundamento_curatorial": "",
+      "fundamento_curatorial": "Deliberação explícita do Curador: filtro rigoroso de valor doutrinário.",
       "decisao_por_lote": {
-        "STT26-01": "PENDENTE",
+        "STT26-01": "AUTORIZAR-COTEJO-AMPLIADO",
         "STT26-02": "PENDENTE"
       },
       "evidencias_disponiveis": {
@@ -63,16 +63,16 @@
           "STT26-02-RC-487-015"
         ]
       },
-      "observacao": ""
+      "observacao": "Despacho restrito a STT26-01; não se estende automaticamente a outros lotes."
     },
     {
       "codigo": "RC-102",
       "nome": "Shiva (Savna)",
       "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
       "decisao_eixo": "PENDENTE",
-      "fundamento_curatorial": "",
+      "fundamento_curatorial": "Deliberação explícita do Curador: filtro rigoroso de valor doutrinário.",
       "decisao_por_lote": {
-        "STT26-01": "PENDENTE",
+        "STT26-01": "AUTORIZAR-COTEJO-AMPLIADO",
         "STT26-02": "PENDENTE"
       },
       "evidencias_disponiveis": {
@@ -87,16 +87,16 @@
           "STT26-02-RC-102-028"
         ]
       },
-      "observacao": ""
+      "observacao": "Despacho restrito a STT26-01; não se estende automaticamente a outros lotes."
     },
     {
       "codigo": "RC-094",
       "nome": "Revelação Cósmica (conceito)",
       "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
       "decisao_eixo": "PENDENTE",
-      "fundamento_curatorial": "",
+      "fundamento_curatorial": "Deliberação explícita do Curador: filtro rigoroso de valor doutrinário.",
       "decisao_por_lote": {
-        "STT26-01": "PENDENTE",
+        "STT26-01": "AUTORIZAR-COTEJO-AMPLIADO",
         "STT26-02": "PENDENTE"
       },
       "evidencias_disponiveis": {
@@ -111,16 +111,16 @@
           "STT26-02-RC-094-007"
         ]
       },
-      "observacao": ""
+      "observacao": "Despacho restrito a STT26-01; não se estende automaticamente a outros lotes."
     },
     {
       "codigo": "RC-086",
       "nome": "Pandora",
       "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
       "decisao_eixo": "PENDENTE",
-      "fundamento_curatorial": "",
+      "fundamento_curatorial": "Deliberação explícita do Curador: filtro rigoroso de valor doutrinário.",
       "decisao_por_lote": {
-        "STT26-01": "PENDENTE",
+        "STT26-01": "AUTORIZAR-COTEJO-AMPLIADO",
         "STT26-02": "PENDENTE"
       },
       "evidencias_disponiveis": {
@@ -135,16 +135,16 @@
           "STT26-02-RC-086-004"
         ]
       },
-      "observacao": ""
+      "observacao": "Despacho restrito a STT26-01; não se estende automaticamente a outros lotes."
     },
     {
       "codigo": "RC-037",
       "nome": "Brahma (Brajna)",
       "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
       "decisao_eixo": "PENDENTE",
-      "fundamento_curatorial": "",
+      "fundamento_curatorial": "Deliberação explícita do Curador: filtro rigoroso de valor doutrinário.",
       "decisao_por_lote": {
-        "STT26-01": "PENDENTE",
+        "STT26-01": "AUTORIZAR-COTEJO-AMPLIADO",
         "STT26-02": "PENDENTE"
       },
       "evidencias_disponiveis": {
@@ -159,7 +159,7 @@
           "STT26-02-RC-037-011"
         ]
       },
-      "observacao": ""
+      "observacao": "Despacho restrito a STT26-01; não se estende automaticamente a outros lotes."
     },
     {
       "codigo": "RC-589",
@@ -184,9 +184,9 @@
       "nome": "Jesus",
       "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
       "decisao_eixo": "PENDENTE",
-      "fundamento_curatorial": "",
+      "fundamento_curatorial": "Deliberação explícita do Curador: filtro rigoroso de valor doutrinário.",
       "decisao_por_lote": {
-        "STT26-01": "PENDENTE",
+        "STT26-01": "DESCARTAR-DO-LOTE",
         "STT26-02": "PENDENTE"
       },
       "evidencias_disponiveis": {
@@ -201,16 +201,16 @@
           "STT26-02-RC-072-009"
         ]
       },
-      "observacao": ""
+      "observacao": "Despacho restrito a STT26-01; não se estende automaticamente a outros lotes."
     },
     {
       "codigo": "RC-036",
       "nome": "Biodemos",
       "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
       "decisao_eixo": "PENDENTE",
-      "fundamento_curatorial": "",
+      "fundamento_curatorial": "Deliberação explícita do Curador: filtro rigoroso de valor doutrinário.",
       "decisao_por_lote": {
-        "STT26-01": "PENDENTE",
+        "STT26-01": "AUTORIZAR-COTEJO-AMPLIADO",
         "STT26-02": "PENDENTE"
       },
       "evidencias_disponiveis": {
@@ -224,16 +224,16 @@
           "STT26-02-RC-036-006"
         ]
       },
-      "observacao": ""
+      "observacao": "Despacho restrito a STT26-01; não se estende automaticamente a outros lotes."
     },
     {
       "codigo": "RC-414",
       "nome": "Krishna (avatar de Vishnu/Shiva)",
       "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
       "decisao_eixo": "PENDENTE",
-      "fundamento_curatorial": "",
+      "fundamento_curatorial": "Deliberação explícita do Curador: filtro rigoroso de valor doutrinário.",
       "decisao_por_lote": {
-        "STT26-01": "PENDENTE",
+        "STT26-01": "AUTORIZAR-COTEJO-AMPLIADO",
         "STT26-02": "PENDENTE"
       },
       "evidencias_disponiveis": {
@@ -244,16 +244,16 @@
           "STT26-02-RC-414-001"
         ]
       },
-      "observacao": ""
+      "observacao": "Despacho restrito a STT26-01; não se estende automaticamente a outros lotes."
     },
     {
       "codigo": "RC-009",
       "nome": "Sophia (Cristo Cósmico)",
       "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
       "decisao_eixo": "PENDENTE",
-      "fundamento_curatorial": "",
+      "fundamento_curatorial": "Deliberação explícita do Curador: filtro rigoroso de valor doutrinário.",
       "decisao_por_lote": {
-        "STT26-01": "PENDENTE",
+        "STT26-01": "AUTORIZAR-COTEJO-AMPLIADO",
         "STT26-02": "PENDENTE"
       },
       "evidencias_disponiveis": {
@@ -266,7 +266,7 @@
           "STT26-02-RC-009-006"
         ]
       },
-      "observacao": ""
+      "observacao": "Despacho restrito a STT26-01; não se estende automaticamente a outros lotes."
     },
     {
       "codigo": "RC-039",
@@ -289,9 +289,9 @@
       "nome": "Enoque (sétimo patriarca; levado por Javé)",
       "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
       "decisao_eixo": "PENDENTE",
-      "fundamento_curatorial": "",
+      "fundamento_curatorial": "Deliberação explícita do Curador: filtro rigoroso de valor doutrinário.",
       "decisao_por_lote": {
-        "STT26-01": "PENDENTE",
+        "STT26-01": "AUTORIZAR-COTEJO-AMPLIADO",
         "STT26-02": "PENDENTE"
       },
       "evidencias_disponiveis": {
@@ -305,16 +305,16 @@
           "STT26-02-RC-489-009"
         ]
       },
-      "observacao": ""
+      "observacao": "Despacho restrito a STT26-01; não se estende automaticamente a outros lotes."
     },
     {
       "codigo": "RC-002",
       "nome": "Rebelião de Lúcifer",
       "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
       "decisao_eixo": "PENDENTE",
-      "fundamento_curatorial": "",
+      "fundamento_curatorial": "Deliberação explícita do Curador: filtro rigoroso de valor doutrinário.",
       "decisao_por_lote": {
-        "STT26-01": "PENDENTE",
+        "STT26-01": "AUTORIZAR-COTEJO-AMPLIADO",
         "STT26-02": "PENDENTE"
       },
       "evidencias_disponiveis": {
@@ -328,7 +328,7 @@
           "STT26-02-RC-002-004"
         ]
       },
-      "observacao": ""
+      "observacao": "Despacho restrito a STT26-01; não se estende automaticamente a outros lotes."
     },
     {
       "codigo": "RC-135",
@@ -353,25 +353,25 @@
       "nome": "Hitler (figura histórica no RC)",
       "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
       "decisao_eixo": "PENDENTE",
-      "fundamento_curatorial": "",
+      "fundamento_curatorial": "Deliberação explícita do Curador: filtro rigoroso de valor doutrinário.",
       "decisao_por_lote": {
-        "STT26-01": "PENDENTE"
+        "STT26-01": "DESCARTAR-DO-LOTE"
       },
       "evidencias_disponiveis": {
         "STT26-01": [
           "STT26-01-RC-239-001"
         ]
       },
-      "observacao": ""
+      "observacao": "Despacho restrito a STT26-01; não se estende automaticamente a outros lotes."
     },
     {
       "codigo": "RC-301",
       "nome": "Prometeu (titã)",
       "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
       "decisao_eixo": "PENDENTE",
-      "fundamento_curatorial": "",
+      "fundamento_curatorial": "Deliberação explícita do Curador: filtro rigoroso de valor doutrinário.",
       "decisao_por_lote": {
-        "STT26-01": "PENDENTE",
+        "STT26-01": "AUTORIZAR-COTEJO-AMPLIADO",
         "STT26-02": "PENDENTE"
       },
       "evidencias_disponiveis": {
@@ -385,16 +385,16 @@
           "STT26-02-RC-301-005"
         ]
       },
-      "observacao": ""
+      "observacao": "Despacho restrito a STT26-01; não se estende automaticamente a outros lotes."
     },
     {
       "codigo": "RC-065",
       "nome": "Frota Norte",
       "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
       "decisao_eixo": "PENDENTE",
-      "fundamento_curatorial": "",
+      "fundamento_curatorial": "Deliberação explícita do Curador: filtro rigoroso de valor doutrinário.",
       "decisao_por_lote": {
-        "STT26-01": "PENDENTE",
+        "STT26-01": "AUTORIZAR-COTEJO-AMPLIADO",
         "STT26-02": "PENDENTE"
       },
       "evidencias_disponiveis": {
@@ -406,7 +406,7 @@
           "STT26-02-RC-065-001"
         ]
       },
-      "observacao": ""
+      "observacao": "Despacho restrito a STT26-01; não se estende automaticamente a outros lotes."
     },
     {
       "codigo": "RC-081",
@@ -430,16 +430,16 @@
       "nome": "Processador Val",
       "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
       "decisao_eixo": "PENDENTE",
-      "fundamento_curatorial": "",
+      "fundamento_curatorial": "Deliberação explícita do Curador: filtro rigoroso de valor doutrinário.",
       "decisao_por_lote": {
-        "STT26-01": "PENDENTE"
+        "STT26-01": "AUTORIZAR-COTEJO-AMPLIADO"
       },
       "evidencias_disponiveis": {
         "STT26-01": [
           "STT26-01-RC-089-001"
         ]
       },
-      "observacao": ""
+      "observacao": "Despacho restrito a STT26-01; não se estende automaticamente a outros lotes."
     },
     {
       "codigo": "RC-104",
@@ -464,9 +464,9 @@
       "nome": "Apolo",
       "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
       "decisao_eixo": "PENDENTE",
-      "fundamento_curatorial": "",
+      "fundamento_curatorial": "Deliberação explícita do Curador: filtro rigoroso de valor doutrinário.",
       "decisao_por_lote": {
-        "STT26-01": "PENDENTE"
+        "STT26-01": "DESCARTAR-DO-LOTE"
       },
       "evidencias_disponiveis": {
         "STT26-01": [
@@ -475,16 +475,16 @@
           "STT26-01-RC-306-004"
         ]
       },
-      "observacao": ""
+      "observacao": "Despacho restrito a STT26-01; não se estende automaticamente a outros lotes."
     },
     {
       "codigo": "RC-841",
       "nome": "Cronos (titã)",
       "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
       "decisao_eixo": "PENDENTE",
-      "fundamento_curatorial": "",
+      "fundamento_curatorial": "Deliberação explícita do Curador: filtro rigoroso de valor doutrinário.",
       "decisao_por_lote": {
-        "STT26-01": "PENDENTE"
+        "STT26-01": "AUTORIZAR-COTEJO-AMPLIADO"
       },
       "evidencias_disponiveis": {
         "STT26-01": [
@@ -492,7 +492,7 @@
           "STT26-01-RC-841-004"
         ]
       },
-      "observacao": ""
+      "observacao": "Despacho restrito a STT26-01; não se estende automaticamente a outros lotes."
     },
     {
       "codigo": "RC-166",
@@ -551,25 +551,25 @@
       "nome": "Mahabharata",
       "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
       "decisao_eixo": "PENDENTE",
-      "fundamento_curatorial": "",
+      "fundamento_curatorial": "Deliberação explícita do Curador: filtro rigoroso de valor doutrinário.",
       "decisao_por_lote": {
-        "STT26-01": "PENDENTE"
+        "STT26-01": "AUTORIZAR-COTEJO-AMPLIADO"
       },
       "evidencias_disponiveis": {
         "STT26-01": [
           "STT26-01-RC-593-001"
         ]
       },
-      "observacao": ""
+      "observacao": "Despacho restrito a STT26-01; não se estende automaticamente a outros lotes."
     },
     {
       "codigo": "RC-059",
       "nome": "Espiritualidade Superior",
       "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
       "decisao_eixo": "PENDENTE",
-      "fundamento_curatorial": "",
+      "fundamento_curatorial": "Deliberação explícita do Curador: filtro rigoroso de valor doutrinário.",
       "decisao_por_lote": {
-        "STT26-01": "PENDENTE"
+        "STT26-01": "DESCARTAR-DO-LOTE"
       },
       "evidencias_disponiveis": {
         "STT26-01": [
@@ -577,23 +577,23 @@
           "STT26-01-RC-059-004"
         ]
       },
-      "observacao": ""
+      "observacao": "Despacho restrito a STT26-01; não se estende automaticamente a outros lotes."
     },
     {
       "codigo": "RC-078",
       "nome": "Lúcifer (Yel Luzbel)",
       "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
       "decisao_eixo": "PENDENTE",
-      "fundamento_curatorial": "",
+      "fundamento_curatorial": "Deliberação explícita do Curador: filtro rigoroso de valor doutrinário.",
       "decisao_por_lote": {
-        "STT26-01": "PENDENTE"
+        "STT26-01": "AUTORIZAR-COTEJO-AMPLIADO"
       },
       "evidencias_disponiveis": {
         "STT26-01": [
           "STT26-01-RC-078-001"
         ]
       },
-      "observacao": ""
+      "observacao": "Despacho restrito a STT26-01; não se estende automaticamente a outros lotes."
     },
     {
       "codigo": "RC-470",
@@ -618,25 +618,25 @@
       "nome": "Big Bang",
       "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
       "decisao_eixo": "PENDENTE",
-      "fundamento_curatorial": "",
+      "fundamento_curatorial": "Deliberação explícita do Curador: filtro rigoroso de valor doutrinário.",
       "decisao_por_lote": {
-        "STT26-01": "PENDENTE"
+        "STT26-01": "AUTORIZAR-COTEJO-AMPLIADO"
       },
       "evidencias_disponiveis": {
         "STT26-01": [
           "STT26-01-RC-034-001"
         ]
       },
-      "observacao": ""
+      "observacao": "Despacho restrito a STT26-01; não se estende automaticamente a outros lotes."
     },
     {
       "codigo": "RC-051",
       "nome": "Despina",
       "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
       "decisao_eixo": "PENDENTE",
-      "fundamento_curatorial": "",
+      "fundamento_curatorial": "Deliberação explícita do Curador: filtro rigoroso de valor doutrinário.",
       "decisao_por_lote": {
-        "STT26-01": "PENDENTE"
+        "STT26-01": "AUTORIZAR-COTEJO-AMPLIADO"
       },
       "evidencias_disponiveis": {
         "STT26-01": [
@@ -644,7 +644,7 @@
           "STT26-01-RC-051-004"
         ]
       },
-      "observacao": ""
+      "observacao": "Despacho restrito a STT26-01; não se estende automaticamente a outros lotes."
     },
     {
       "codigo": "RC-071",
@@ -669,9 +669,9 @@
       "nome": "Rebanho humano",
       "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
       "decisao_eixo": "PENDENTE",
-      "fundamento_curatorial": "",
+      "fundamento_curatorial": "Deliberação explícita do Curador: filtro rigoroso de valor doutrinário.",
       "decisao_por_lote": {
-        "STT26-01": "PENDENTE"
+        "STT26-01": "AUTORIZAR-COTEJO-AMPLIADO"
       },
       "evidencias_disponiveis": {
         "STT26-01": [
@@ -680,7 +680,7 @@
           "STT26-01-RC-193-004"
         ]
       },
-      "observacao": ""
+      "observacao": "Despacho restrito a STT26-01; não se estende automaticamente a outros lotes."
     },
     {
       "codigo": "RC-268",
@@ -703,9 +703,9 @@
       "nome": "Epimeteu (titã)",
       "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
       "decisao_eixo": "PENDENTE",
-      "fundamento_curatorial": "",
+      "fundamento_curatorial": "Deliberação explícita do Curador: filtro rigoroso de valor doutrinário.",
       "decisao_por_lote": {
-        "STT26-01": "PENDENTE"
+        "STT26-01": "AUTORIZAR-COTEJO-AMPLIADO"
       },
       "evidencias_disponiveis": {
         "STT26-01": [
@@ -713,13 +713,15 @@
           "STT26-01-RC-302-002"
         ]
       },
-      "observacao": ""
+      "observacao": "Despacho restrito a STT26-01; não se estende automaticamente a outros lotes."
     }
   ],
   "despacho_de_eixo": {
     "resultado": "PENDENTE",
-    "lotes_autorizados_para_cotejo_ampliado": [],
+    "lotes_autorizados_para_cotejo_ampliado": [
+      "STT26-01"
+    ],
     "autorizacao_para_abrir_ciclo": false,
-    "observacao": ""
+    "observacao": "Despacho parcial: STT26-01 foi deliberado sob filtro rigoroso de valor doutrinário; STT26-02 permanece integralmente PENDENTE. Sem autorização para abrir ciclo."
   }
 }

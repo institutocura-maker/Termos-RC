@@ -30,7 +30,7 @@ import os
 import shutil
 import sys
 import tempfile
-from collections import defaultdict
+from collections import Counter, defaultdict
 from pathlib import Path
 
 
@@ -41,6 +41,13 @@ TRIAGEM = RAIZ / "triagem_stt_lote_2026-10"
 EIXOS = TRIAGEM / "EIXOS"
 MAX_CANDIDATOS_POR_LOTE = 25
 DATA_GERACAO = "2026-10-20"
+DECISOES_PERMITIDAS = (
+    "MANTER-EM-TRIAGEM",
+    "DESCARTAR-DO-LOTE",
+    "AUTORIZAR-COTEJO-AMPLIADO",
+    "RESERVAR-PARA-FUTURO-CICLO",
+)
+DECISOES_VALIDAS = {"PENDENTE", *DECISOES_PERMITIDAS}
 
 
 class FalhaEixo(RuntimeError):
@@ -62,6 +69,23 @@ def ler_json(caminho: Path):
         raise FalhaEixo(f"Artefato ausente: {caminho.relative_to(RAIZ)}") from erro
     except json.JSONDecodeError as erro:
         raise FalhaEixo(f"JSON inválido: {caminho.relative_to(RAIZ)}") from erro
+
+
+def despacho_tem_decisoes(caminho: Path) -> bool:
+    """Informa se o template já recebeu despacho humano e não pode ser refeito."""
+    despacho = ler_json(caminho)
+    for candidato in despacho.get("candidatos", []):
+        if candidato.get("decisao_eixo") != "PENDENTE":
+            return True
+        if any(decisao != "PENDENTE" for decisao in candidato.get("decisao_por_lote", {}).values()):
+            return True
+    registro = despacho.get("despacho_de_eixo", {})
+    return (
+        registro.get("resultado") != "PENDENTE"
+        or bool(registro.get("lotes_autorizados_para_cotejo_ampliado"))
+        or registro.get("autorizacao_para_abrir_ciclo") is True
+        or bool(registro.get("observacao"))
+    )
 
 
 def carregar_eixo(codigo_eixo: str) -> tuple[list[dict], list[dict], dict]:
@@ -210,12 +234,7 @@ def despacho_template(resumo: dict, matriz: list[dict]) -> dict:
                 "os códigos repetidos são vistos juntos sem fundir decisões de lote."
             ),
             "efeito_atual": "nenhum: não cria ciclo e não altera a Base",
-            "opcoes": [
-                "MANTER-EM-TRIAGEM",
-                "DESCARTAR-DO-LOTE",
-                "AUTORIZAR-COTEJO-AMPLIADO",
-                "RESERVAR-PARA-FUTURO-CICLO",
-            ],
+            "opcoes": list(DECISOES_PERMITIDAS),
         },
         "candidatos": [
             {
@@ -314,11 +333,99 @@ específico.
 """
 
 
+def validar_despacho(codigo_eixo: str) -> None:
+    """Valida o despacho humano sem regenerá-lo nem tocar na Base."""
+    lotes, entradas, metadados = carregar_eixo(codigo_eixo)
+    matriz_esperada = matriz_candidatos(entradas)
+    resumo_esperado = resumo_eixo(lotes, entradas, metadados, matriz_esperada)
+    destino = EIXOS / codigo_eixo
+    if not destino.is_dir():
+        raise FalhaEixo(f"Eixo não publicado: {destino.relative_to(RAIZ)}")
+
+    resumo = ler_json(destino / "resumo-eixo.json")
+    matriz = ler_json(destino / "MATRIZ-CANDIDATOS-EIXO.json")
+    despacho = ler_json(destino / "DESPACHO-EIXO-TEMPLATE.json")
+    if resumo != resumo_esperado:
+        raise FalhaEixo("Resumo do eixo diverge das entradas derivadas")
+    if matriz != matriz_esperada:
+        raise FalhaEixo("Matriz do eixo diverge dos dossiês de lote")
+
+    modelo = despacho_template(resumo_esperado, matriz_esperada)
+    if despacho.get("meta") != modelo["meta"]:
+        raise FalhaEixo("Metadados ou opções do despacho divergentes")
+    candidatos = despacho.get("candidatos")
+    if not isinstance(candidatos, list) or len(candidatos) != len(matriz_esperada):
+        raise FalhaEixo("Quantidade de decisões diverge da matriz")
+    por_codigo = {item.get("codigo"): item for item in candidatos}
+    if len(por_codigo) != len(candidatos) or set(por_codigo) != {item["codigo"] for item in matriz_esperada}:
+        raise FalhaEixo("Códigos do despacho não cobrem exatamente a matriz")
+
+    contagens_por_lote: dict[str, Counter] = {lote["lote_id"]: Counter() for lote in lotes}
+    for esperado in matriz_esperada:
+        codigo = esperado["codigo"]
+        candidato = por_codigo[codigo]
+        for campo in ("codigo", "nome", "classificacao_tecnica"):
+            if candidato.get(campo) != modelo["candidatos"][matriz_esperada.index(esperado)][campo]:
+                raise FalhaEixo(f"{codigo}: {campo} diverge da matriz")
+        decisao_eixo = candidato.get("decisao_eixo")
+        if decisao_eixo not in DECISOES_VALIDAS:
+            raise FalhaEixo(f"{codigo}: decisão de eixo inválida")
+        por_lote = candidato.get("decisao_por_lote")
+        lotes_esperados = {item["lote_id"] for item in esperado["lotes"]}
+        if not isinstance(por_lote, dict) or set(por_lote) != lotes_esperados:
+            raise FalhaEixo(f"{codigo}: escopo por lote diverge da matriz")
+        for lote_id, decisao in por_lote.items():
+            if decisao not in DECISOES_VALIDAS:
+                raise FalhaEixo(f"{codigo}/{lote_id}: decisão inválida")
+            contagens_por_lote[lote_id][decisao] += 1
+        evidencias = candidato.get("evidencias_disponiveis")
+        evidencias_esperadas = modelo["candidatos"][matriz_esperada.index(esperado)]["evidencias_disponiveis"]
+        if evidencias != evidencias_esperadas:
+            raise FalhaEixo(f"{codigo}: evidências disponíveis divergentes")
+        if not isinstance(candidato.get("fundamento_curatorial"), str) or not isinstance(candidato.get("observacao"), str):
+            raise FalhaEixo(f"{codigo}: campos curatoriais devem ser textuais")
+
+    registro = despacho.get("despacho_de_eixo")
+    if not isinstance(registro, dict) or set(registro) != {
+        "resultado", "lotes_autorizados_para_cotejo_ampliado", "autorizacao_para_abrir_ciclo", "observacao"
+    }:
+        raise FalhaEixo("Registro final do despacho inválido")
+    if registro["resultado"] != "PENDENTE":
+        raise FalhaEixo("Resultado do eixo deve permanecer PENDENTE sem despacho integral")
+    if registro["autorizacao_para_abrir_ciclo"] is not False:
+        raise FalhaEixo("O despacho não pode autorizar abertura de ciclo")
+    autorizados = registro["lotes_autorizados_para_cotejo_ampliado"]
+    esperados_autorizados = sorted(
+        lote_id
+        for lote_id, contagens in contagens_por_lote.items()
+        if contagens["AUTORIZAR-COTEJO-AMPLIADO"]
+    )
+    if autorizados != esperados_autorizados:
+        raise FalhaEixo("Lotes autorizados para cotejo não correspondem às decisões")
+    if not isinstance(registro["observacao"], str):
+        raise FalhaEixo("Observação final do despacho deve ser textual")
+    if resumo["fontes_brutas_abertas"] != 0 or any(resumo["mutacoes"].values()):
+        raise FalhaEixo("Barreira de não mutação violada")
+
+    detalhes = "; ".join(
+        f"{lote_id}: " + ", ".join(f"{decisao}={quantidade}" for decisao, quantidade in sorted(contagens.items()))
+        for lote_id, contagens in contagens_por_lote.items()
+    )
+    print(
+        f"Despacho do eixo {codigo_eixo} íntegro: {len(candidatos)} códigos, "
+        f"{resumo['fontes']} fontes derivadas, 0 fontes brutas, 0 mutações. {detalhes}"
+    )
+
+
 def publicar(codigo_eixo: str, resumo: dict, matriz: list[dict], force: bool) -> None:
     EIXOS.mkdir(parents=True, exist_ok=True)
     destino = EIXOS / codigo_eixo
     if destino.exists() and not force:
         raise FileExistsError(f"Eixo já publicado: {destino.relative_to(RAIZ)}; use --force para regenerar")
+    if destino.exists() and despacho_tem_decisoes(destino / "DESPACHO-EIXO-TEMPLATE.json"):
+        raise FalhaEixo(
+            f"{codigo_eixo}: despacho humano já preenchido; regeneração bloqueada para preservá-lo"
+        )
     if destino.parent.resolve() != EIXOS.resolve() or not codigo_eixo.replace("_", "").isalnum():
         raise FalhaEixo("Destino de eixo inválido")
     with tempfile.TemporaryDirectory(prefix=f".{codigo_eixo}-", dir=EIXOS) as temporario:
@@ -360,8 +467,18 @@ def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     parser.add_argument("--eixo", required=True, help="código do eixo, p.ex. ANUNNAKI_GENETICA")
     parser.add_argument("--force", action="store_true", help="regenera apenas o eixo informado")
+    parser.add_argument(
+        "--validar-despacho",
+        action="store_true",
+        help="valida despacho humano já preenchido, sem regenerar artefatos",
+    )
     args = parser.parse_args()
     try:
+        if args.validar_despacho:
+            if args.force:
+                raise FalhaEixo("--force não pode ser combinado com --validar-despacho")
+            validar_despacho(args.eixo)
+            return 0
         lotes, entradas, metadados = carregar_eixo(args.eixo)
         matriz = matriz_candidatos(entradas)
         resumo = resumo_eixo(lotes, entradas, metadados, matriz)
