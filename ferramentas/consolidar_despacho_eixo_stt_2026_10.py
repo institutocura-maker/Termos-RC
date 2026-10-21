@@ -390,10 +390,17 @@ def validar_despacho(codigo_eixo: str) -> None:
         "resultado", "lotes_autorizados_para_cotejo_ampliado", "autorizacao_para_abrir_ciclo", "observacao"
     }:
         raise FalhaEixo("Registro final do despacho inválido")
-    if registro["resultado"] != "PENDENTE":
-        raise FalhaEixo("Resultado do eixo deve permanecer PENDENTE sem despacho integral")
-    if registro["autorizacao_para_abrir_ciclo"] is not False:
-        raise FalhaEixo("O despacho não pode autorizar abertura de ciclo")
+    pendencias = sum(contagens["PENDENTE"] for contagens in contagens_por_lote.values())
+    despacho_integral = pendencias == 0
+    resultado_esperado = "CONCLUIDO" if despacho_integral else "PENDENTE"
+    if registro["resultado"] != resultado_esperado:
+        raise FalhaEixo(
+            f"Resultado do eixo deve ser {resultado_esperado} para o conjunto atual de decisões"
+        )
+    if not despacho_integral and registro["autorizacao_para_abrir_ciclo"] is not False:
+        raise FalhaEixo("O eixo parcial não pode autorizar abertura de ciclo")
+    if not isinstance(registro["autorizacao_para_abrir_ciclo"], bool):
+        raise FalhaEixo("Autorização para abertura de ciclo deve ser booleana")
     autorizados = registro["lotes_autorizados_para_cotejo_ampliado"]
     esperados_autorizados = sorted(
         lote_id

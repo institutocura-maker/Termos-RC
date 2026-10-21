@@ -26,10 +26,10 @@
       "nome": "Anunnaki",
       "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
       "decisao_eixo": "PENDENTE",
-      "fundamento_curatorial": "Deliberação explícita do Curador: filtro rigoroso de valor doutrinário.",
+      "fundamento_curatorial": "Deliberação explícita do Curador: filtro de relevância doutrinária; descartes cobrem falso positivo fonético, menção genérica ou vinheta de canal.",
       "decisao_por_lote": {
         "STT26-01": "AUTORIZAR-COTEJO-AMPLIADO",
-        "STT26-02": "PENDENTE"
+        "STT26-02": "AUTORIZAR-COTEJO-AMPLIADO"
       },
       "evidencias_disponiveis": {
         "STT26-01": [
@@ -41,17 +41,17 @@
           "STT26-02-RC-024-012"
         ]
       },
-      "observacao": "Despacho restrito a STT26-01; não se estende automaticamente a outros lotes."
+      "observacao": "Despacho registrado para STT26-02; não funde decisões entre lotes."
     },
     {
       "codigo": "RC-487",
       "nome": "Enlil (deus sumério, par de Enki)",
       "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
       "decisao_eixo": "PENDENTE",
-      "fundamento_curatorial": "Deliberação explícita do Curador: filtro rigoroso de valor doutrinário.",
+      "fundamento_curatorial": "Deliberação explícita do Curador: filtro de relevância doutrinária; descartes cobrem falso positivo fonético, menção genérica ou vinheta de canal.",
       "decisao_por_lote": {
         "STT26-01": "AUTORIZAR-COTEJO-AMPLIADO",
-        "STT26-02": "PENDENTE"
+        "STT26-02": "AUTORIZAR-COTEJO-AMPLIADO"
       },
       "evidencias_disponiveis": {
         "STT26-01": [
@@ -63,17 +63,17 @@
           "STT26-02-RC-487-015"
         ]
       },
-      "observacao": "Despacho restrito a STT26-01; não se estende automaticamente a outros lotes."
+      "observacao": "Despacho registrado para STT26-02; não funde decisões entre lotes."
     },
     {
       "codigo": "RC-102",
       "nome": "Shiva (Savna)",
       "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
       "decisao_eixo": "PENDENTE",
-      "fundamento_curatorial": "Deliberação explícita do Curador: filtro rigoroso de valor doutrinário.",
+      "fundamento_curatorial": "Deliberação explícita do Curador: filtro de relevância doutrinária; descartes cobrem falso positivo fonético, menção genérica ou vinheta de canal.",
       "decisao_por_lote": {
         "STT26-01": "AUTORIZAR-COTEJO-AMPLIADO",
-        "STT26-02": "PENDENTE"
+        "STT26-02": "AUTORIZAR-COTEJO-AMPLIADO"
       },
       "evidencias_disponiveis": {
         "STT26-01": [
@@ -87,17 +87,17 @@
           "STT26-02-RC-102-028"
         ]
       },
-      "observacao": "Despacho restrito a STT26-01; não se estende automaticamente a outros lotes."
+      "observacao": "Despacho registrado para STT26-02; não funde decisões entre lotes."
     },
     {
       "codigo": "RC-094",
       "nome": "Revelação Cósmica (conceito)",
       "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
       "decisao_eixo": "PENDENTE",
-      "fundamento_curatorial": "Deliberação explícita do Curador: filtro rigoroso de valor doutrinário.",
+      "fundamento_curatorial": "Deliberação explícita do Curador: filtro de relevância doutrinária; descartes cobrem falso positivo fonético, menção genérica ou vinheta de canal.",
       "decisao_por_lote": {
         "STT26-01": "AUTORIZAR-COTEJO-AMPLIADO",
-        "STT26-02": "PENDENTE"
+        "STT26-02": "AUTORIZAR-COTEJO-AMPLIADO"
       },
       "evidencias_disponiveis": {
         "STT26-01": [
@@ -111,17 +111,17 @@
           "STT26-02-RC-094-007"
         ]
       },
-      "observacao": "Despacho restrito a STT26-01; não se estende automaticamente a outros lotes."
+      "observacao": "Despacho registrado para STT26-02; não funde decisões entre lotes."
     },
     {
       "codigo": "RC-086",
       "nome": "Pandora",
       "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
       "decisao_eixo": "PENDENTE",
-      "fundamento_curatorial": "Deliberação explícita do Curador: filtro rigoroso de valor doutrinário.",
+      "fundamento_curatorial": "Deliberação explícita do Curador: filtro de relevância doutrinária; descartes cobrem falso positivo fonético, menção genérica ou vinheta de canal.",
       "decisao_por_lote": {
         "STT26-01": "AUTORIZAR-COTEJO-AMPLIADO",
-        "STT26-02": "PENDENTE"
+        "STT26-02": "AUTORIZAR-COTEJO-AMPLIADO"
       },
       "evidencias_disponiveis": {
         "STT26-01": [
@@ -135,17 +135,17 @@
           "STT26-02-RC-086-004"
         ]
       },
-      "observacao": "Despacho restrito a STT26-01; não se estende automaticamente a outros lotes."
+      "observacao": "Despacho registrado para STT26-02; não funde decisões entre lotes."
     },
     {
       "codigo": "RC-037",
       "nome": "Brahma (Brajna)",
       "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
       "decisao_eixo": "PENDENTE",
-      "fundamento_curatorial": "Deliberação explícita do Curador: filtro rigoroso de valor doutrinário.",
+      "fundamento_curatorial": "Deliberação explícita do Curador: filtro de relevância doutrinária; descartes cobrem falso positivo fonético, menção genérica ou vinheta de canal.",
       "decisao_por_lote": {
         "STT26-01": "AUTORIZAR-COTEJO-AMPLIADO",
-        "STT26-02": "PENDENTE"
+        "STT26-02": "AUTORIZAR-COTEJO-AMPLIADO"
       },
       "evidencias_disponiveis": {
         "STT26-01": [
@@ -159,16 +159,16 @@
           "STT26-02-RC-037-011"
         ]
       },
-      "observacao": "Despacho restrito a STT26-01; não se estende automaticamente a outros lotes."
+      "observacao": "Despacho registrado para STT26-02; não funde decisões entre lotes."
     },
     {
       "codigo": "RC-589",
       "nome": "Nibiru",
       "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
       "decisao_eixo": "PENDENTE",
-      "fundamento_curatorial": "",
+      "fundamento_curatorial": "Deliberação explícita do Curador: filtro de relevância doutrinária; descartes cobrem falso positivo fonético, menção genérica ou vinheta de canal.",
       "decisao_por_lote": {
-        "STT26-02": "PENDENTE"
+        "STT26-02": "AUTORIZAR-COTEJO-AMPLIADO"
       },
       "evidencias_disponiveis": {
         "STT26-02": [
@@ -177,17 +177,17 @@
           "STT26-02-RC-589-021"
         ]
       },
-      "observacao": ""
+      "observacao": "Despacho registrado para STT26-02; não funde decisões entre lotes."
     },
     {
       "codigo": "RC-072",
       "nome": "Jesus",
       "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
       "decisao_eixo": "PENDENTE",
-      "fundamento_curatorial": "Deliberação explícita do Curador: filtro rigoroso de valor doutrinário.",
+      "fundamento_curatorial": "Deliberação explícita do Curador: filtro de relevância doutrinária; descartes cobrem falso positivo fonético, menção genérica ou vinheta de canal.",
       "decisao_por_lote": {
         "STT26-01": "DESCARTAR-DO-LOTE",
-        "STT26-02": "PENDENTE"
+        "STT26-02": "DESCARTAR-DO-LOTE"
       },
       "evidencias_disponiveis": {
         "STT26-01": [
@@ -201,17 +201,17 @@
           "STT26-02-RC-072-009"
         ]
       },
-      "observacao": "Despacho restrito a STT26-01; não se estende automaticamente a outros lotes."
+      "observacao": "Despacho registrado para STT26-02; não funde decisões entre lotes."
     },
     {
       "codigo": "RC-036",
       "nome": "Biodemos",
       "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
       "decisao_eixo": "PENDENTE",
-      "fundamento_curatorial": "Deliberação explícita do Curador: filtro rigoroso de valor doutrinário.",
+      "fundamento_curatorial": "Deliberação explícita do Curador: filtro de relevância doutrinária; descartes cobrem falso positivo fonético, menção genérica ou vinheta de canal.",
       "decisao_por_lote": {
         "STT26-01": "AUTORIZAR-COTEJO-AMPLIADO",
-        "STT26-02": "PENDENTE"
+        "STT26-02": "AUTORIZAR-COTEJO-AMPLIADO"
       },
       "evidencias_disponiveis": {
         "STT26-01": [
@@ -224,17 +224,17 @@
           "STT26-02-RC-036-006"
         ]
       },
-      "observacao": "Despacho restrito a STT26-01; não se estende automaticamente a outros lotes."
+      "observacao": "Despacho registrado para STT26-02; não funde decisões entre lotes."
     },
     {
       "codigo": "RC-414",
       "nome": "Krishna (avatar de Vishnu/Shiva)",
       "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
       "decisao_eixo": "PENDENTE",
-      "fundamento_curatorial": "Deliberação explícita do Curador: filtro rigoroso de valor doutrinário.",
+      "fundamento_curatorial": "Deliberação explícita do Curador: filtro de relevância doutrinária; descartes cobrem falso positivo fonético, menção genérica ou vinheta de canal.",
       "decisao_por_lote": {
         "STT26-01": "AUTORIZAR-COTEJO-AMPLIADO",
-        "STT26-02": "PENDENTE"
+        "STT26-02": "AUTORIZAR-COTEJO-AMPLIADO"
       },
       "evidencias_disponiveis": {
         "STT26-01": [
@@ -244,17 +244,17 @@
           "STT26-02-RC-414-001"
         ]
       },
-      "observacao": "Despacho restrito a STT26-01; não se estende automaticamente a outros lotes."
+      "observacao": "Despacho registrado para STT26-02; não funde decisões entre lotes."
     },
     {
       "codigo": "RC-009",
       "nome": "Sophia (Cristo Cósmico)",
       "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
       "decisao_eixo": "PENDENTE",
-      "fundamento_curatorial": "Deliberação explícita do Curador: filtro rigoroso de valor doutrinário.",
+      "fundamento_curatorial": "Deliberação explícita do Curador: filtro de relevância doutrinária; descartes cobrem falso positivo fonético, menção genérica ou vinheta de canal.",
       "decisao_por_lote": {
         "STT26-01": "AUTORIZAR-COTEJO-AMPLIADO",
-        "STT26-02": "PENDENTE"
+        "STT26-02": "AUTORIZAR-COTEJO-AMPLIADO"
       },
       "evidencias_disponiveis": {
         "STT26-01": [
@@ -266,33 +266,33 @@
           "STT26-02-RC-009-006"
         ]
       },
-      "observacao": "Despacho restrito a STT26-01; não se estende automaticamente a outros lotes."
+      "observacao": "Despacho registrado para STT26-02; não funde decisões entre lotes."
     },
     {
       "codigo": "RC-039",
       "nome": "Capela (Sistema)",
       "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
       "decisao_eixo": "PENDENTE",
-      "fundamento_curatorial": "",
+      "fundamento_curatorial": "Deliberação explícita do Curador: filtro de relevância doutrinária; descartes cobrem falso positivo fonético, menção genérica ou vinheta de canal.",
       "decisao_por_lote": {
-        "STT26-02": "PENDENTE"
+        "STT26-02": "AUTORIZAR-COTEJO-AMPLIADO"
       },
       "evidencias_disponiveis": {
         "STT26-02": [
           "STT26-02-RC-039-001"
         ]
       },
-      "observacao": ""
+      "observacao": "Despacho registrado para STT26-02; não funde decisões entre lotes."
     },
     {
       "codigo": "RC-489",
       "nome": "Enoque (sétimo patriarca; levado por Javé)",
       "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
       "decisao_eixo": "PENDENTE",
-      "fundamento_curatorial": "Deliberação explícita do Curador: filtro rigoroso de valor doutrinário.",
+      "fundamento_curatorial": "Deliberação explícita do Curador: filtro de relevância doutrinária; descartes cobrem falso positivo fonético, menção genérica ou vinheta de canal.",
       "decisao_por_lote": {
         "STT26-01": "AUTORIZAR-COTEJO-AMPLIADO",
-        "STT26-02": "PENDENTE"
+        "STT26-02": "AUTORIZAR-COTEJO-AMPLIADO"
       },
       "evidencias_disponiveis": {
         "STT26-01": [
@@ -305,17 +305,17 @@
           "STT26-02-RC-489-009"
         ]
       },
-      "observacao": "Despacho restrito a STT26-01; não se estende automaticamente a outros lotes."
+      "observacao": "Despacho registrado para STT26-02; não funde decisões entre lotes."
     },
     {
       "codigo": "RC-002",
       "nome": "Rebelião de Lúcifer",
       "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
       "decisao_eixo": "PENDENTE",
-      "fundamento_curatorial": "Deliberação explícita do Curador: filtro rigoroso de valor doutrinário.",
+      "fundamento_curatorial": "Deliberação explícita do Curador: filtro de relevância doutrinária; descartes cobrem falso positivo fonético, menção genérica ou vinheta de canal.",
       "decisao_por_lote": {
         "STT26-01": "AUTORIZAR-COTEJO-AMPLIADO",
-        "STT26-02": "PENDENTE"
+        "STT26-02": "AUTORIZAR-COTEJO-AMPLIADO"
       },
       "evidencias_disponiveis": {
         "STT26-01": [
@@ -328,16 +328,16 @@
           "STT26-02-RC-002-004"
         ]
       },
-      "observacao": "Despacho restrito a STT26-01; não se estende automaticamente a outros lotes."
+      "observacao": "Despacho registrado para STT26-02; não funde decisões entre lotes."
     },
     {
       "codigo": "RC-135",
       "nome": "Vishnu (Mavatna)",
       "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
       "decisao_eixo": "PENDENTE",
-      "fundamento_curatorial": "",
+      "fundamento_curatorial": "Deliberação explícita do Curador: filtro de relevância doutrinária; descartes cobrem falso positivo fonético, menção genérica ou vinheta de canal.",
       "decisao_por_lote": {
-        "STT26-02": "PENDENTE"
+        "STT26-02": "AUTORIZAR-COTEJO-AMPLIADO"
       },
       "evidencias_disponiveis": {
         "STT26-02": [
@@ -346,7 +346,7 @@
           "STT26-02-RC-135-012"
         ]
       },
-      "observacao": ""
+      "observacao": "Despacho registrado para STT26-02; não funde decisões entre lotes."
     },
     {
       "codigo": "RC-239",
@@ -369,10 +369,10 @@
       "nome": "Prometeu (titã)",
       "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
       "decisao_eixo": "PENDENTE",
-      "fundamento_curatorial": "Deliberação explícita do Curador: filtro rigoroso de valor doutrinário.",
+      "fundamento_curatorial": "Deliberação explícita do Curador: filtro de relevância doutrinária; descartes cobrem falso positivo fonético, menção genérica ou vinheta de canal.",
       "decisao_por_lote": {
         "STT26-01": "AUTORIZAR-COTEJO-AMPLIADO",
-        "STT26-02": "PENDENTE"
+        "STT26-02": "DESCARTAR-DO-LOTE"
       },
       "evidencias_disponiveis": {
         "STT26-01": [
@@ -385,17 +385,17 @@
           "STT26-02-RC-301-005"
         ]
       },
-      "observacao": "Despacho restrito a STT26-01; não se estende automaticamente a outros lotes."
+      "observacao": "Despacho registrado para STT26-02; não funde decisões entre lotes."
     },
     {
       "codigo": "RC-065",
       "nome": "Frota Norte",
       "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
       "decisao_eixo": "PENDENTE",
-      "fundamento_curatorial": "Deliberação explícita do Curador: filtro rigoroso de valor doutrinário.",
+      "fundamento_curatorial": "Deliberação explícita do Curador: filtro de relevância doutrinária; descartes cobrem falso positivo fonético, menção genérica ou vinheta de canal.",
       "decisao_por_lote": {
         "STT26-01": "AUTORIZAR-COTEJO-AMPLIADO",
-        "STT26-02": "PENDENTE"
+        "STT26-02": "AUTORIZAR-COTEJO-AMPLIADO"
       },
       "evidencias_disponiveis": {
         "STT26-01": [
@@ -406,16 +406,16 @@
           "STT26-02-RC-065-001"
         ]
       },
-      "observacao": "Despacho restrito a STT26-01; não se estende automaticamente a outros lotes."
+      "observacao": "Despacho registrado para STT26-02; não funde decisões entre lotes."
     },
     {
       "codigo": "RC-081",
       "nome": "Mohen So (Avatar Keshava de Vishnu)",
       "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
       "decisao_eixo": "PENDENTE",
-      "fundamento_curatorial": "",
+      "fundamento_curatorial": "Deliberação explícita do Curador: filtro de relevância doutrinária; descartes cobrem falso positivo fonético, menção genérica ou vinheta de canal.",
       "decisao_por_lote": {
-        "STT26-02": "PENDENTE"
+        "STT26-02": "AUTORIZAR-COTEJO-AMPLIADO"
       },
       "evidencias_disponiveis": {
         "STT26-02": [
@@ -423,7 +423,7 @@
           "STT26-02-RC-081-003"
         ]
       },
-      "observacao": ""
+      "observacao": "Despacho registrado para STT26-02; não funde decisões entre lotes."
     },
     {
       "codigo": "RC-089",
@@ -446,9 +446,9 @@
       "nome": "Trimurti",
       "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
       "decisao_eixo": "PENDENTE",
-      "fundamento_curatorial": "",
+      "fundamento_curatorial": "Deliberação explícita do Curador: filtro de relevância doutrinária; descartes cobrem falso positivo fonético, menção genérica ou vinheta de canal.",
       "decisao_por_lote": {
-        "STT26-02": "PENDENTE"
+        "STT26-02": "AUTORIZAR-COTEJO-AMPLIADO"
       },
       "evidencias_disponiveis": {
         "STT26-02": [
@@ -457,7 +457,7 @@
           "STT26-02-RC-104-004"
         ]
       },
-      "observacao": ""
+      "observacao": "Despacho registrado para STT26-02; não funde decisões entre lotes."
     },
     {
       "codigo": "RC-306",
@@ -499,25 +499,25 @@
       "nome": "Mentalma",
       "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
       "decisao_eixo": "PENDENTE",
-      "fundamento_curatorial": "",
+      "fundamento_curatorial": "Deliberação explícita do Curador: filtro de relevância doutrinária; descartes cobrem falso positivo fonético, menção genérica ou vinheta de canal.",
       "decisao_por_lote": {
-        "STT26-02": "PENDENTE"
+        "STT26-02": "AUTORIZAR-COTEJO-AMPLIADO"
       },
       "evidencias_disponiveis": {
         "STT26-02": [
           "STT26-02-RC-166-001"
         ]
       },
-      "observacao": ""
+      "observacao": "Despacho registrado para STT26-02; não funde decisões entre lotes."
     },
     {
       "codigo": "RC-085",
       "nome": "Orbum",
       "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
       "decisao_eixo": "PENDENTE",
-      "fundamento_curatorial": "",
+      "fundamento_curatorial": "Deliberação explícita do Curador: filtro de relevância doutrinária; descartes cobrem falso positivo fonético, menção genérica ou vinheta de canal.",
       "decisao_por_lote": {
-        "STT26-02": "PENDENTE"
+        "STT26-02": "AUTORIZAR-COTEJO-AMPLIADO"
       },
       "evidencias_disponiveis": {
         "STT26-02": [
@@ -526,16 +526,16 @@
           "STT26-02-RC-085-003"
         ]
       },
-      "observacao": ""
+      "observacao": "Despacho registrado para STT26-02; não funde decisões entre lotes."
     },
     {
       "codigo": "RC-108",
       "nome": "Universo Paralelo",
       "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
       "decisao_eixo": "PENDENTE",
-      "fundamento_curatorial": "",
+      "fundamento_curatorial": "Deliberação explícita do Curador: filtro de relevância doutrinária; descartes cobrem falso positivo fonético, menção genérica ou vinheta de canal.",
       "decisao_por_lote": {
-        "STT26-02": "PENDENTE"
+        "STT26-02": "AUTORIZAR-COTEJO-AMPLIADO"
       },
       "evidencias_disponiveis": {
         "STT26-02": [
@@ -544,7 +544,7 @@
           "STT26-02-RC-108-004"
         ]
       },
-      "observacao": ""
+      "observacao": "Despacho registrado para STT26-02; não funde decisões entre lotes."
     },
     {
       "codigo": "RC-593",
@@ -600,9 +600,9 @@
       "nome": "Midgard (Marte + Terra)",
       "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
       "decisao_eixo": "PENDENTE",
-      "fundamento_curatorial": "",
+      "fundamento_curatorial": "Deliberação explícita do Curador: filtro de relevância doutrinária; descartes cobrem falso positivo fonético, menção genérica ou vinheta de canal.",
       "decisao_por_lote": {
-        "STT26-02": "PENDENTE"
+        "STT26-02": "AUTORIZAR-COTEJO-AMPLIADO"
       },
       "evidencias_disponiveis": {
         "STT26-02": [
@@ -611,7 +611,7 @@
           "STT26-02-RC-470-004"
         ]
       },
-      "observacao": ""
+      "observacao": "Despacho registrado para STT26-02; não funde decisões entre lotes."
     },
     {
       "codigo": "RC-034",
@@ -651,9 +651,9 @@
       "nome": "Jan Val Ellam (Rogério de Almeida Freitas)",
       "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
       "decisao_eixo": "PENDENTE",
-      "fundamento_curatorial": "",
+      "fundamento_curatorial": "Deliberação explícita do Curador: filtro de relevância doutrinária; descartes cobrem falso positivo fonético, menção genérica ou vinheta de canal.",
       "decisao_por_lote": {
-        "STT26-02": "PENDENTE"
+        "STT26-02": "DESCARTAR-DO-LOTE"
       },
       "evidencias_disponiveis": {
         "STT26-02": [
@@ -662,7 +662,7 @@
           "STT26-02-RC-071-003"
         ]
       },
-      "observacao": ""
+      "observacao": "Despacho registrado para STT26-02; não funde decisões entre lotes."
     },
     {
       "codigo": "RC-193",
@@ -687,16 +687,16 @@
       "nome": "Gnosticismo (contraponto à Cabala)",
       "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
       "decisao_eixo": "PENDENTE",
-      "fundamento_curatorial": "",
+      "fundamento_curatorial": "Deliberação explícita do Curador: filtro de relevância doutrinária; descartes cobrem falso positivo fonético, menção genérica ou vinheta de canal.",
       "decisao_por_lote": {
-        "STT26-02": "PENDENTE"
+        "STT26-02": "AUTORIZAR-COTEJO-AMPLIADO"
       },
       "evidencias_disponiveis": {
         "STT26-02": [
           "STT26-02-RC-268-001"
         ]
       },
-      "observacao": ""
+      "observacao": "Despacho registrado para STT26-02; não funde decisões entre lotes."
     },
     {
       "codigo": "RC-302",
@@ -717,11 +717,12 @@
     }
   ],
   "despacho_de_eixo": {
-    "resultado": "PENDENTE",
+    "resultado": "CONCLUIDO",
     "lotes_autorizados_para_cotejo_ampliado": [
-      "STT26-01"
+      "STT26-01",
+      "STT26-02"
     ],
-    "autorizacao_para_abrir_ciclo": false,
-    "observacao": "Despacho parcial: STT26-01 foi deliberado sob filtro rigoroso de valor doutrinário; STT26-02 permanece integralmente PENDENTE. Sem autorização para abrir ciclo."
+    "autorizacao_para_abrir_ciclo": true,
+    "observacao": "Despacho integral do eixo: STT26-01 e STT26-02 deliberados sob filtro de relevância doutrinária. Abertura do ciclo para ingestão no Motor autorizada explicitamente pelo Curador; a autorização não substitui os portões do Motor nem autoriza citações não ancoradas."
   }
 }
