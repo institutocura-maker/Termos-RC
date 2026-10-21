@@ -71,7 +71,8 @@ ambos automaticamente.
 
 ## Próxima decisão permitida
 
-O Curador pode registrar `MANTER-EM-TRIAGEM`, `DESCARTAR-DO-EIXO`,
-`AUTORIZAR-COTEJO-AMPLIADO-NO-LOTE` ou `RESERVAR-PARA-FUTURO-CICLO`. A última
-não abre ciclo por si só: qualquer chamada futura ao `motor.py` ainda exige
-fonte derivada, âncoras e despacho específico.
+O Curador pode registrar `MANTER-EM-TRIAGEM`, `DESCARTAR-DO-LOTE`,
+`AUTORIZAR-COTEJO-AMPLIADO` ou `RESERVAR-PARA-FUTURO-CICLO`. As decisões
+permanecem distintas por lote; a última não abre ciclo por si só. Qualquer
+chamada futura ao `motor.py` ainda exige fonte derivada, âncoras e despacho
+específico.

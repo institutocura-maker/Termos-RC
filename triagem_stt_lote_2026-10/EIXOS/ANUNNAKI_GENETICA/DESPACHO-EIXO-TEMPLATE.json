@@ -15,8 +15,8 @@
     "efeito_atual": "nenhum: não cria ciclo e não altera a Base",
     "opcoes": [
       "MANTER-EM-TRIAGEM",
-      "DESCARTAR-DO-EIXO",
-      "AUTORIZAR-COTEJO-AMPLIADO-NO-LOTE",
+      "DESCARTAR-DO-LOTE",
+      "AUTORIZAR-COTEJO-AMPLIADO",
       "RESERVAR-PARA-FUTURO-CICLO"
     ]
   },
