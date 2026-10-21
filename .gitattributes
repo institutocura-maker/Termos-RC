@@ -5,3 +5,6 @@ normalizados_stt_dry_run/*.md whitespace=-trailing-space
 # O lote amplo segue a mesma regra: são cópias derivadas que retêm CRLF e
 # espaços finais dos brutos para preservar a procedência byte a byte.
 normalizados_stt_lote_2026-10/*.md whitespace=-trailing-space
+# O ciclo de eixo conserva os payloads normalizados byte a byte dentro de uma
+# composição selada; CRLF e espaços finais herdados não podem ser reformatados.
+ciclos/STT26-ANUNNAKI_GENETICA/original.txt whitespace=-trailing-space
