@@ -1,0 +1,1203 @@
+{
+  "meta": {
+    "artefato": "Template de despacho curatorial por eixo STT",
+    "eixo": {
+      "codigo": "COSMOGONIA_HISTORIA_COSMICA",
+      "nome": "Cosmogonia, quedas e história cósmica"
+    },
+    "lotes": [
+      "STT26-03",
+      "STT26-04",
+      "STT26-05",
+      "STT26-06"
+    ],
+    "gerado_em": "2026-10-20",
+    "estado": "PENDENTE-CURADOR",
+    "escopo": "Matriz transversal: preserva o teto de 25 candidatos por lote; os códigos repetidos são vistos juntos sem fundir decisões de lote.",
+    "efeito_atual": "nenhum: não cria ciclo e não altera a Base",
+    "opcoes": [
+      "MANTER-EM-TRIAGEM",
+      "DESCARTAR-DO-LOTE",
+      "AUTORIZAR-COTEJO-AMPLIADO",
+      "RESERVAR-PARA-FUTURO-CICLO"
+    ]
+  },
+  "candidatos": [
+    {
+      "codigo": "RC-072",
+      "nome": "Jesus",
+      "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "Deliberação explícita do Curador: filtro de relevância doutrinária; descartes cobrem plataforma de cursos, metáfora genérica ou jargão espiritual amplo.",
+      "decisao_por_lote": {
+        "STT26-03": "DESCARTAR-DO-LOTE",
+        "STT26-04": "PENDENTE",
+        "STT26-05": "PENDENTE",
+        "STT26-06": "PENDENTE"
+      },
+      "evidencias_disponiveis": {
+        "STT26-03": [
+          "STT26-03-RC-072-001",
+          "STT26-03-RC-072-007",
+          "STT26-03-RC-072-010"
+        ],
+        "STT26-04": [
+          "STT26-04-RC-072-001",
+          "STT26-04-RC-072-002",
+          "STT26-04-RC-072-016"
+        ],
+        "STT26-05": [
+          "STT26-05-RC-072-001",
+          "STT26-05-RC-072-002",
+          "STT26-05-RC-072-011"
+        ],
+        "STT26-06": [
+          "STT26-06-RC-072-001",
+          "STT26-06-RC-072-003",
+          "STT26-06-RC-072-007"
+        ]
+      },
+      "observacao": "Despacho restrito a STT26-03; demais lotes do eixo permanecem independentes."
+    },
+    {
+      "codigo": "RC-037",
+      "nome": "Brahma (Brajna)",
+      "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "Deliberação explícita do Curador: filtro de relevância doutrinária; descartes cobrem plataforma de cursos, metáfora genérica ou jargão espiritual amplo.",
+      "decisao_por_lote": {
+        "STT26-03": "AUTORIZAR-COTEJO-AMPLIADO",
+        "STT26-04": "PENDENTE",
+        "STT26-05": "PENDENTE",
+        "STT26-06": "PENDENTE"
+      },
+      "evidencias_disponiveis": {
+        "STT26-03": [
+          "STT26-03-RC-037-001",
+          "STT26-03-RC-037-005",
+          "STT26-03-RC-037-014"
+        ],
+        "STT26-04": [
+          "STT26-04-RC-037-001",
+          "STT26-04-RC-037-010",
+          "STT26-04-RC-037-013"
+        ],
+        "STT26-05": [
+          "STT26-05-RC-037-001",
+          "STT26-05-RC-037-003",
+          "STT26-05-RC-037-021"
+        ],
+        "STT26-06": [
+          "STT26-06-RC-037-001",
+          "STT26-06-RC-037-006",
+          "STT26-06-RC-037-018"
+        ]
+      },
+      "observacao": "Despacho restrito a STT26-03; demais lotes do eixo permanecem independentes."
+    },
+    {
+      "codigo": "RC-102",
+      "nome": "Shiva (Savna)",
+      "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "Deliberação explícita do Curador: filtro de relevância doutrinária; descartes cobrem plataforma de cursos, metáfora genérica ou jargão espiritual amplo.",
+      "decisao_por_lote": {
+        "STT26-03": "AUTORIZAR-COTEJO-AMPLIADO",
+        "STT26-04": "PENDENTE",
+        "STT26-05": "PENDENTE",
+        "STT26-06": "PENDENTE"
+      },
+      "evidencias_disponiveis": {
+        "STT26-03": [
+          "STT26-03-RC-102-001",
+          "STT26-03-RC-102-008",
+          "STT26-03-RC-102-012"
+        ],
+        "STT26-04": [
+          "STT26-04-RC-102-001",
+          "STT26-04-RC-102-011",
+          "STT26-04-RC-102-012"
+        ],
+        "STT26-05": [
+          "STT26-05-RC-102-001",
+          "STT26-05-RC-102-004",
+          "STT26-05-RC-102-008"
+        ],
+        "STT26-06": [
+          "STT26-06-RC-102-001",
+          "STT26-06-RC-102-006",
+          "STT26-06-RC-102-008"
+        ]
+      },
+      "observacao": "Despacho restrito a STT26-03; demais lotes do eixo permanecem independentes."
+    },
+    {
+      "codigo": "RC-009",
+      "nome": "Sophia (Cristo Cósmico)",
+      "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "Deliberação explícita do Curador: filtro de relevância doutrinária; descartes cobrem plataforma de cursos, metáfora genérica ou jargão espiritual amplo.",
+      "decisao_por_lote": {
+        "STT26-03": "AUTORIZAR-COTEJO-AMPLIADO",
+        "STT26-04": "PENDENTE",
+        "STT26-05": "PENDENTE",
+        "STT26-06": "PENDENTE"
+      },
+      "evidencias_disponiveis": {
+        "STT26-03": [
+          "STT26-03-RC-009-001",
+          "STT26-03-RC-009-006",
+          "STT26-03-RC-009-007"
+        ],
+        "STT26-04": [
+          "STT26-04-RC-009-001",
+          "STT26-04-RC-009-016",
+          "STT26-04-RC-009-017"
+        ],
+        "STT26-05": [
+          "STT26-05-RC-009-001",
+          "STT26-05-RC-009-004",
+          "STT26-05-RC-009-008"
+        ],
+        "STT26-06": [
+          "STT26-06-RC-009-001",
+          "STT26-06-RC-009-003",
+          "STT26-06-RC-009-027"
+        ]
+      },
+      "observacao": "Despacho restrito a STT26-03; demais lotes do eixo permanecem independentes."
+    },
+    {
+      "codigo": "RC-414",
+      "nome": "Krishna (avatar de Vishnu/Shiva)",
+      "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "Deliberação explícita do Curador: filtro de relevância doutrinária; descartes cobrem plataforma de cursos, metáfora genérica ou jargão espiritual amplo.",
+      "decisao_por_lote": {
+        "STT26-03": "AUTORIZAR-COTEJO-AMPLIADO",
+        "STT26-04": "PENDENTE",
+        "STT26-05": "PENDENTE",
+        "STT26-06": "PENDENTE"
+      },
+      "evidencias_disponiveis": {
+        "STT26-03": [
+          "STT26-03-RC-414-001",
+          "STT26-03-RC-414-010",
+          "STT26-03-RC-414-018"
+        ],
+        "STT26-04": [
+          "STT26-04-RC-414-001",
+          "STT26-04-RC-414-007",
+          "STT26-04-RC-414-009"
+        ],
+        "STT26-05": [
+          "STT26-05-RC-414-001",
+          "STT26-05-RC-414-015",
+          "STT26-05-RC-414-016"
+        ],
+        "STT26-06": [
+          "STT26-06-RC-414-001",
+          "STT26-06-RC-414-002",
+          "STT26-06-RC-414-004"
+        ]
+      },
+      "observacao": "Despacho restrito a STT26-03; demais lotes do eixo permanecem independentes."
+    },
+    {
+      "codigo": "RC-094",
+      "nome": "Revelação Cósmica (conceito)",
+      "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "Deliberação explícita do Curador: filtro de relevância doutrinária; descartes cobrem plataforma de cursos, metáfora genérica ou jargão espiritual amplo.",
+      "decisao_por_lote": {
+        "STT26-03": "AUTORIZAR-COTEJO-AMPLIADO",
+        "STT26-04": "PENDENTE",
+        "STT26-05": "PENDENTE",
+        "STT26-06": "PENDENTE"
+      },
+      "evidencias_disponiveis": {
+        "STT26-03": [
+          "STT26-03-RC-094-001",
+          "STT26-03-RC-094-002",
+          "STT26-03-RC-094-009"
+        ],
+        "STT26-04": [
+          "STT26-04-RC-094-001",
+          "STT26-04-RC-094-004",
+          "STT26-04-RC-094-006"
+        ],
+        "STT26-05": [
+          "STT26-05-RC-094-001",
+          "STT26-05-RC-094-009",
+          "STT26-05-RC-094-011"
+        ],
+        "STT26-06": [
+          "STT26-06-RC-094-001",
+          "STT26-06-RC-094-002",
+          "STT26-06-RC-094-004"
+        ]
+      },
+      "observacao": "Despacho restrito a STT26-03; demais lotes do eixo permanecem independentes."
+    },
+    {
+      "codigo": "RC-135",
+      "nome": "Vishnu (Mavatna)",
+      "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "Deliberação explícita do Curador: filtro de relevância doutrinária; descartes cobrem plataforma de cursos, metáfora genérica ou jargão espiritual amplo.",
+      "decisao_por_lote": {
+        "STT26-03": "AUTORIZAR-COTEJO-AMPLIADO",
+        "STT26-04": "PENDENTE",
+        "STT26-05": "PENDENTE",
+        "STT26-06": "PENDENTE"
+      },
+      "evidencias_disponiveis": {
+        "STT26-03": [
+          "STT26-03-RC-135-001",
+          "STT26-03-RC-135-009",
+          "STT26-03-RC-135-011"
+        ],
+        "STT26-04": [
+          "STT26-04-RC-135-001",
+          "STT26-04-RC-135-007",
+          "STT26-04-RC-135-011"
+        ],
+        "STT26-05": [
+          "STT26-05-RC-135-001",
+          "STT26-05-RC-135-003",
+          "STT26-05-RC-135-012"
+        ],
+        "STT26-06": [
+          "STT26-06-RC-135-001",
+          "STT26-06-RC-135-008",
+          "STT26-06-RC-135-012"
+        ]
+      },
+      "observacao": "Despacho restrito a STT26-03; demais lotes do eixo permanecem independentes."
+    },
+    {
+      "codigo": "RC-104",
+      "nome": "Trimurti",
+      "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "Deliberação explícita do Curador: filtro de relevância doutrinária; descartes cobrem plataforma de cursos, metáfora genérica ou jargão espiritual amplo.",
+      "decisao_por_lote": {
+        "STT26-03": "AUTORIZAR-COTEJO-AMPLIADO",
+        "STT26-04": "PENDENTE",
+        "STT26-05": "PENDENTE",
+        "STT26-06": "PENDENTE"
+      },
+      "evidencias_disponiveis": {
+        "STT26-03": [
+          "STT26-03-RC-104-001",
+          "STT26-03-RC-104-003",
+          "STT26-03-RC-104-004"
+        ],
+        "STT26-04": [
+          "STT26-04-RC-104-001",
+          "STT26-04-RC-104-009",
+          "STT26-04-RC-104-010"
+        ],
+        "STT26-05": [
+          "STT26-05-RC-104-001",
+          "STT26-05-RC-104-005",
+          "STT26-05-RC-104-012"
+        ],
+        "STT26-06": [
+          "STT26-06-RC-104-001",
+          "STT26-06-RC-104-002",
+          "STT26-06-RC-104-005"
+        ]
+      },
+      "observacao": "Despacho restrito a STT26-03; demais lotes do eixo permanecem independentes."
+    },
+    {
+      "codigo": "RC-086",
+      "nome": "Pandora",
+      "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "Deliberação explícita do Curador: filtro de relevância doutrinária; descartes cobrem plataforma de cursos, metáfora genérica ou jargão espiritual amplo.",
+      "decisao_por_lote": {
+        "STT26-03": "AUTORIZAR-COTEJO-AMPLIADO",
+        "STT26-04": "PENDENTE",
+        "STT26-06": "PENDENTE"
+      },
+      "evidencias_disponiveis": {
+        "STT26-03": [
+          "STT26-03-RC-086-001",
+          "STT26-03-RC-086-002",
+          "STT26-03-RC-086-009"
+        ],
+        "STT26-04": [
+          "STT26-04-RC-086-001",
+          "STT26-04-RC-086-004",
+          "STT26-04-RC-086-006"
+        ],
+        "STT26-06": [
+          "STT26-06-RC-086-001"
+        ]
+      },
+      "observacao": "Despacho restrito a STT26-03; demais lotes do eixo permanecem independentes."
+    },
+    {
+      "codigo": "RC-166",
+      "nome": "Mentalma",
+      "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "Deliberação explícita do Curador: filtro de relevância doutrinária; descartes cobrem plataforma de cursos, metáfora genérica ou jargão espiritual amplo.",
+      "decisao_por_lote": {
+        "STT26-03": "AUTORIZAR-COTEJO-AMPLIADO",
+        "STT26-05": "PENDENTE",
+        "STT26-06": "PENDENTE"
+      },
+      "evidencias_disponiveis": {
+        "STT26-03": [
+          "STT26-03-RC-166-001",
+          "STT26-03-RC-166-006"
+        ],
+        "STT26-05": [
+          "STT26-05-RC-166-001",
+          "STT26-05-RC-166-007"
+        ],
+        "STT26-06": [
+          "STT26-06-RC-166-001",
+          "STT26-06-RC-166-012",
+          "STT26-06-RC-166-014"
+        ]
+      },
+      "observacao": "Despacho restrito a STT26-03; demais lotes do eixo permanecem independentes."
+    },
+    {
+      "codigo": "RC-489",
+      "nome": "Enoque (sétimo patriarca; levado por Javé)",
+      "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "",
+      "decisao_por_lote": {
+        "STT26-04": "PENDENTE",
+        "STT26-05": "PENDENTE"
+      },
+      "evidencias_disponiveis": {
+        "STT26-04": [
+          "STT26-04-RC-489-001",
+          "STT26-04-RC-489-024",
+          "STT26-04-RC-489-028"
+        ],
+        "STT26-05": [
+          "STT26-05-RC-489-001"
+        ]
+      },
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-162",
+      "nome": "Elétrons (agente básico da vida universal)",
+      "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "Deliberação explícita do Curador: filtro de relevância doutrinária; descartes cobrem plataforma de cursos, metáfora genérica ou jargão espiritual amplo.",
+      "decisao_por_lote": {
+        "STT26-03": "AUTORIZAR-COTEJO-AMPLIADO",
+        "STT26-04": "PENDENTE",
+        "STT26-05": "PENDENTE"
+      },
+      "evidencias_disponiveis": {
+        "STT26-03": [
+          "STT26-03-RC-162-001",
+          "STT26-03-RC-162-003",
+          "STT26-03-RC-162-005"
+        ],
+        "STT26-04": [
+          "STT26-04-RC-162-001",
+          "STT26-04-RC-162-012",
+          "STT26-04-RC-162-014"
+        ],
+        "STT26-05": [
+          "STT26-05-RC-162-001",
+          "STT26-05-RC-162-003",
+          "STT26-05-RC-162-004"
+        ]
+      },
+      "observacao": "Despacho restrito a STT26-03; demais lotes do eixo permanecem independentes."
+    },
+    {
+      "codigo": "RC-024",
+      "nome": "Anunnaki",
+      "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "Deliberação explícita do Curador: filtro de relevância doutrinária; descartes cobrem plataforma de cursos, metáfora genérica ou jargão espiritual amplo.",
+      "decisao_por_lote": {
+        "STT26-03": "AUTORIZAR-COTEJO-AMPLIADO",
+        "STT26-04": "PENDENTE",
+        "STT26-05": "PENDENTE",
+        "STT26-06": "PENDENTE"
+      },
+      "evidencias_disponiveis": {
+        "STT26-03": [
+          "STT26-03-RC-024-001"
+        ],
+        "STT26-04": [
+          "STT26-04-RC-024-001",
+          "STT26-04-RC-024-010"
+        ],
+        "STT26-05": [
+          "STT26-05-RC-024-001"
+        ],
+        "STT26-06": [
+          "STT26-06-RC-024-001",
+          "STT26-06-RC-024-005",
+          "STT26-06-RC-024-008"
+        ]
+      },
+      "observacao": "Despacho restrito a STT26-03; demais lotes do eixo permanecem independentes."
+    },
+    {
+      "codigo": "RC-092",
+      "nome": "Quarto Logos (Olm / Codificador de Zian)",
+      "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "Deliberação explícita do Curador: filtro de relevância doutrinária; descartes cobrem plataforma de cursos, metáfora genérica ou jargão espiritual amplo.",
+      "decisao_por_lote": {
+        "STT26-03": "AUTORIZAR-COTEJO-AMPLIADO",
+        "STT26-05": "PENDENTE"
+      },
+      "evidencias_disponiveis": {
+        "STT26-03": [
+          "STT26-03-RC-092-001",
+          "STT26-03-RC-092-002",
+          "STT26-03-RC-092-004"
+        ],
+        "STT26-05": [
+          "STT26-05-RC-092-001",
+          "STT26-05-RC-092-002"
+        ]
+      },
+      "observacao": "Despacho restrito a STT26-03; demais lotes do eixo permanecem independentes."
+    },
+    {
+      "codigo": "RC-942",
+      "nome": "Messias",
+      "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "",
+      "decisao_por_lote": {
+        "STT26-04": "PENDENTE",
+        "STT26-05": "PENDENTE"
+      },
+      "evidencias_disponiveis": {
+        "STT26-04": [
+          "STT26-04-RC-942-001",
+          "STT26-04-RC-942-005",
+          "STT26-04-RC-942-011"
+        ],
+        "STT26-05": [
+          "STT26-05-RC-942-001",
+          "STT26-05-RC-942-004",
+          "STT26-05-RC-942-012"
+        ]
+      },
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-059",
+      "nome": "Espiritualidade Superior",
+      "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "Deliberação explícita do Curador: filtro de relevância doutrinária; descartes cobrem plataforma de cursos, metáfora genérica ou jargão espiritual amplo.",
+      "decisao_por_lote": {
+        "STT26-03": "DESCARTAR-DO-LOTE",
+        "STT26-05": "PENDENTE"
+      },
+      "evidencias_disponiveis": {
+        "STT26-03": [
+          "STT26-03-RC-059-001",
+          "STT26-03-RC-059-015"
+        ],
+        "STT26-05": [
+          "STT26-05-RC-059-001",
+          "STT26-05-RC-059-003"
+        ]
+      },
+      "observacao": "Despacho restrito a STT26-03; demais lotes do eixo permanecem independentes."
+    },
+    {
+      "codigo": "RC-019",
+      "nome": "Anjos clones",
+      "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "Deliberação explícita do Curador: filtro de relevância doutrinária; descartes cobrem plataforma de cursos, metáfora genérica ou jargão espiritual amplo.",
+      "decisao_por_lote": {
+        "STT26-03": "AUTORIZAR-COTEJO-AMPLIADO",
+        "STT26-05": "PENDENTE",
+        "STT26-06": "PENDENTE"
+      },
+      "evidencias_disponiveis": {
+        "STT26-03": [
+          "STT26-03-RC-019-001",
+          "STT26-03-RC-019-006",
+          "STT26-03-RC-019-011"
+        ],
+        "STT26-05": [
+          "STT26-05-RC-019-001",
+          "STT26-05-RC-019-003",
+          "STT26-05-RC-019-004"
+        ],
+        "STT26-06": [
+          "STT26-06-RC-019-001"
+        ]
+      },
+      "observacao": "Despacho restrito a STT26-03; demais lotes do eixo permanecem independentes."
+    },
+    {
+      "codigo": "RC-593",
+      "nome": "Mahabharata",
+      "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "",
+      "decisao_por_lote": {
+        "STT26-04": "PENDENTE"
+      },
+      "evidencias_disponiveis": {
+        "STT26-04": [
+          "STT26-04-RC-593-001",
+          "STT26-04-RC-593-002",
+          "STT26-04-RC-593-003"
+        ]
+      },
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-436",
+      "nome": "Heber (patriarca pós-dilúvio)",
+      "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "",
+      "decisao_por_lote": {
+        "STT26-05": "PENDENTE",
+        "STT26-06": "PENDENTE"
+      },
+      "evidencias_disponiveis": {
+        "STT26-05": [
+          "STT26-05-RC-436-001"
+        ],
+        "STT26-06": [
+          "STT26-06-RC-436-001",
+          "STT26-06-RC-436-011"
+        ]
+      },
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-002",
+      "nome": "Rebelião de Lúcifer",
+      "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "",
+      "decisao_por_lote": {
+        "STT26-04": "PENDENTE",
+        "STT26-06": "PENDENTE"
+      },
+      "evidencias_disponiveis": {
+        "STT26-04": [
+          "STT26-04-RC-002-001"
+        ],
+        "STT26-06": [
+          "STT26-06-RC-002-001",
+          "STT26-06-RC-002-002",
+          "STT26-06-RC-002-006"
+        ]
+      },
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-302",
+      "nome": "Epimeteu (titã)",
+      "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "Deliberação explícita do Curador: filtro de relevância doutrinária; descartes cobrem plataforma de cursos, metáfora genérica ou jargão espiritual amplo.",
+      "decisao_por_lote": {
+        "STT26-03": "AUTORIZAR-COTEJO-AMPLIADO",
+        "STT26-06": "PENDENTE"
+      },
+      "evidencias_disponiveis": {
+        "STT26-03": [
+          "STT26-03-RC-302-001",
+          "STT26-03-RC-302-002"
+        ],
+        "STT26-06": [
+          "STT26-06-RC-302-001",
+          "STT26-06-RC-302-010"
+        ]
+      },
+      "observacao": "Despacho restrito a STT26-03; demais lotes do eixo permanecem independentes."
+    },
+    {
+      "codigo": "RC-036",
+      "nome": "Biodemos",
+      "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "Deliberação explícita do Curador: filtro de relevância doutrinária; descartes cobrem plataforma de cursos, metáfora genérica ou jargão espiritual amplo.",
+      "decisao_por_lote": {
+        "STT26-03": "AUTORIZAR-COTEJO-AMPLIADO",
+        "STT26-04": "PENDENTE"
+      },
+      "evidencias_disponiveis": {
+        "STT26-03": [
+          "STT26-03-RC-036-001",
+          "STT26-03-RC-036-002",
+          "STT26-03-RC-036-003"
+        ],
+        "STT26-04": [
+          "STT26-04-RC-036-001",
+          "STT26-04-RC-036-006"
+        ]
+      },
+      "observacao": "Despacho restrito a STT26-03; demais lotes do eixo permanecem independentes."
+    },
+    {
+      "codigo": "RC-085",
+      "nome": "Orbum",
+      "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "Deliberação explícita do Curador: filtro de relevância doutrinária; descartes cobrem plataforma de cursos, metáfora genérica ou jargão espiritual amplo.",
+      "decisao_por_lote": {
+        "STT26-03": "DESCARTAR-DO-LOTE",
+        "STT26-06": "PENDENTE"
+      },
+      "evidencias_disponiveis": {
+        "STT26-03": [
+          "STT26-03-RC-085-001",
+          "STT26-03-RC-085-003",
+          "STT26-03-RC-085-004"
+        ],
+        "STT26-06": [
+          "STT26-06-RC-085-001",
+          "STT26-06-RC-085-004",
+          "STT26-06-RC-085-005"
+        ]
+      },
+      "observacao": "Despacho restrito a STT26-03; demais lotes do eixo permanecem independentes."
+    },
+    {
+      "codigo": "RC-301",
+      "nome": "Prometeu (titã)",
+      "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "",
+      "decisao_por_lote": {
+        "STT26-04": "PENDENTE",
+        "STT26-06": "PENDENTE"
+      },
+      "evidencias_disponiveis": {
+        "STT26-04": [
+          "STT26-04-RC-301-001",
+          "STT26-04-RC-301-003",
+          "STT26-04-RC-301-004"
+        ],
+        "STT26-06": [
+          "STT26-06-RC-301-001",
+          "STT26-06-RC-301-002",
+          "STT26-06-RC-301-009"
+        ]
+      },
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-487",
+      "nome": "Enlil (deus sumério, par de Enki)",
+      "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "Deliberação explícita do Curador: filtro de relevância doutrinária; descartes cobrem plataforma de cursos, metáfora genérica ou jargão espiritual amplo.",
+      "decisao_por_lote": {
+        "STT26-03": "AUTORIZAR-COTEJO-AMPLIADO",
+        "STT26-04": "PENDENTE"
+      },
+      "evidencias_disponiveis": {
+        "STT26-03": [
+          "STT26-03-RC-487-001"
+        ],
+        "STT26-04": [
+          "STT26-04-RC-487-001"
+        ]
+      },
+      "observacao": "Despacho restrito a STT26-03; demais lotes do eixo permanecem independentes."
+    },
+    {
+      "codigo": "RC-306",
+      "nome": "Apolo",
+      "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "Deliberação explícita do Curador: filtro de relevância doutrinária; descartes cobrem plataforma de cursos, metáfora genérica ou jargão espiritual amplo.",
+      "decisao_por_lote": {
+        "STT26-03": "DESCARTAR-DO-LOTE"
+      },
+      "evidencias_disponiveis": {
+        "STT26-03": [
+          "STT26-03-RC-306-001",
+          "STT26-03-RC-306-003"
+        ]
+      },
+      "observacao": "Despacho restrito a STT26-03; demais lotes do eixo permanecem independentes."
+    },
+    {
+      "codigo": "RC-186",
+      "nome": "Biodemol",
+      "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "Deliberação explícita do Curador: filtro de relevância doutrinária; descartes cobrem plataforma de cursos, metáfora genérica ou jargão espiritual amplo.",
+      "decisao_por_lote": {
+        "STT26-03": "AUTORIZAR-COTEJO-AMPLIADO"
+      },
+      "evidencias_disponiveis": {
+        "STT26-03": [
+          "STT26-03-RC-186-001"
+        ]
+      },
+      "observacao": "Despacho restrito a STT26-03; demais lotes do eixo permanecem independentes."
+    },
+    {
+      "codigo": "RC-671",
+      "nome": "Metatron",
+      "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "",
+      "decisao_por_lote": {
+        "STT26-05": "PENDENTE"
+      },
+      "evidencias_disponiveis": {
+        "STT26-05": [
+          "STT26-05-RC-671-001"
+        ]
+      },
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-254",
+      "nome": "Dominação (premissa dos Três Primeiros Logos)",
+      "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "Deliberação explícita do Curador: filtro de relevância doutrinária; descartes cobrem plataforma de cursos, metáfora genérica ou jargão espiritual amplo.",
+      "decisao_por_lote": {
+        "STT26-03": "AUTORIZAR-COTEJO-AMPLIADO",
+        "STT26-05": "PENDENTE"
+      },
+      "evidencias_disponiveis": {
+        "STT26-03": [
+          "STT26-03-RC-254-001"
+        ],
+        "STT26-05": [
+          "STT26-05-RC-254-001",
+          "STT26-05-RC-254-004"
+        ]
+      },
+      "observacao": "Despacho restrito a STT26-03; demais lotes do eixo permanecem independentes."
+    },
+    {
+      "codigo": "RC-078",
+      "nome": "Lúcifer (Yel Luzbel)",
+      "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "",
+      "decisao_por_lote": {
+        "STT26-04": "PENDENTE"
+      },
+      "evidencias_disponiveis": {
+        "STT26-04": [
+          "STT26-04-RC-078-001",
+          "STT26-04-RC-078-010"
+        ]
+      },
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-344",
+      "nome": "Transição Planetária",
+      "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "Deliberação explícita do Curador: filtro de relevância doutrinária; descartes cobrem plataforma de cursos, metáfora genérica ou jargão espiritual amplo.",
+      "decisao_por_lote": {
+        "STT26-03": "DESCARTAR-DO-LOTE"
+      },
+      "evidencias_disponiveis": {
+        "STT26-03": [
+          "STT26-03-RC-344-001"
+        ]
+      },
+      "observacao": "Despacho restrito a STT26-03; demais lotes do eixo permanecem independentes."
+    },
+    {
+      "codigo": "RC-051",
+      "nome": "Despina",
+      "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "",
+      "decisao_por_lote": {
+        "STT26-06": "PENDENTE"
+      },
+      "evidencias_disponiveis": {
+        "STT26-06": [
+          "STT26-06-RC-051-001"
+        ]
+      },
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-589",
+      "nome": "Nibiru",
+      "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "Deliberação explícita do Curador: filtro de relevância doutrinária; descartes cobrem plataforma de cursos, metáfora genérica ou jargão espiritual amplo.",
+      "decisao_por_lote": {
+        "STT26-03": "AUTORIZAR-COTEJO-AMPLIADO"
+      },
+      "evidencias_disponiveis": {
+        "STT26-03": [
+          "STT26-03-RC-589-001"
+        ]
+      },
+      "observacao": "Despacho restrito a STT26-03; demais lotes do eixo permanecem independentes."
+    },
+    {
+      "codigo": "RC-852",
+      "nome": "Prajapati (a divindade antes de virar Brama)",
+      "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "",
+      "decisao_por_lote": {
+        "STT26-04": "PENDENTE"
+      },
+      "evidencias_disponiveis": {
+        "STT26-04": [
+          "STT26-04-RC-852-001",
+          "STT26-04-RC-852-002",
+          "STT26-04-RC-852-003"
+        ]
+      },
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-108",
+      "nome": "Universo Paralelo",
+      "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "",
+      "decisao_por_lote": {
+        "STT26-04": "PENDENTE"
+      },
+      "evidencias_disponiveis": {
+        "STT26-04": [
+          "STT26-04-RC-108-001",
+          "STT26-04-RC-108-002",
+          "STT26-04-RC-108-005"
+        ]
+      },
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-152",
+      "nome": "Prabrajna",
+      "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "",
+      "decisao_por_lote": {
+        "STT26-04": "PENDENTE"
+      },
+      "evidencias_disponiveis": {
+        "STT26-04": [
+          "STT26-04-RC-152-001",
+          "STT26-04-RC-152-003",
+          "STT26-04-RC-152-004"
+        ]
+      },
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-434",
+      "nome": "Homoafetividade (resquício da força original)",
+      "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "",
+      "decisao_por_lote": {
+        "STT26-06": "PENDENTE"
+      },
+      "evidencias_disponiveis": {
+        "STT26-06": [
+          "STT26-06-RC-434-001"
+        ]
+      },
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-474",
+      "nome": "Arcontes (= Sophias e Indras; Conselho dos 70)",
+      "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "",
+      "decisao_por_lote": {
+        "STT26-05": "PENDENTE"
+      },
+      "evidencias_disponiveis": {
+        "STT26-05": [
+          "STT26-05-RC-474-001",
+          "STT26-05-RC-474-002",
+          "STT26-05-RC-474-006"
+        ]
+      },
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-034",
+      "nome": "Big Bang",
+      "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "",
+      "decisao_por_lote": {
+        "STT26-06": "PENDENTE"
+      },
+      "evidencias_disponiveis": {
+        "STT26-06": [
+          "STT26-06-RC-034-001",
+          "STT26-06-RC-034-002"
+        ]
+      },
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-003",
+      "nome": "Reintegração Cósmica",
+      "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "",
+      "decisao_por_lote": {
+        "STT26-04": "PENDENTE"
+      },
+      "evidencias_disponiveis": {
+        "STT26-04": [
+          "STT26-04-RC-003-001"
+        ]
+      },
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-054",
+      "nome": "Divindades (Co-criadoras)",
+      "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "Deliberação explícita do Curador: filtro de relevância doutrinária; descartes cobrem plataforma de cursos, metáfora genérica ou jargão espiritual amplo.",
+      "decisao_por_lote": {
+        "STT26-03": "DESCARTAR-DO-LOTE"
+      },
+      "evidencias_disponiveis": {
+        "STT26-03": [
+          "STT26-03-RC-054-001"
+        ]
+      },
+      "observacao": "Despacho restrito a STT26-03; demais lotes do eixo permanecem independentes."
+    },
+    {
+      "codigo": "RC-089",
+      "nome": "Processador Val",
+      "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "",
+      "decisao_por_lote": {
+        "STT26-04": "PENDENTE"
+      },
+      "evidencias_disponiveis": {
+        "STT26-04": [
+          "STT26-04-RC-089-001"
+        ]
+      },
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-097",
+      "nome": "Seres Extrafísicos",
+      "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "",
+      "decisao_por_lote": {
+        "STT26-06": "PENDENTE"
+      },
+      "evidencias_disponiveis": {
+        "STT26-06": [
+          "STT26-06-RC-097-001",
+          "STT26-06-RC-097-004"
+        ]
+      },
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-565",
+      "nome": "Hochmah (2ª Sefirah — Sabedoria; = Sophia)",
+      "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "",
+      "decisao_por_lote": {
+        "STT26-06": "PENDENTE"
+      },
+      "evidencias_disponiveis": {
+        "STT26-06": [
+          "STT26-06-RC-565-001",
+          "STT26-06-RC-565-002"
+        ]
+      },
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-666",
+      "nome": "Obatalá (correspondência de Javé em Ifá)",
+      "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "",
+      "decisao_por_lote": {
+        "STT26-05": "PENDENTE"
+      },
+      "evidencias_disponiveis": {
+        "STT26-05": [
+          "STT26-05-RC-666-001",
+          "STT26-05-RC-666-002"
+        ]
+      },
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-843",
+      "nome": "Eru Ilúvatar (criador no Silmarillion)",
+      "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "",
+      "decisao_por_lote": {
+        "STT26-06": "PENDENTE"
+      },
+      "evidencias_disponiveis": {
+        "STT26-06": [
+          "STT26-06-RC-843-001"
+        ]
+      },
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-081",
+      "nome": "Mohen So (Avatar Keshava de Vishnu)",
+      "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "",
+      "decisao_por_lote": {
+        "STT26-05": "PENDENTE"
+      },
+      "evidencias_disponiveis": {
+        "STT26-05": [
+          "STT26-05-RC-081-001"
+        ]
+      },
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-435",
+      "nome": "O Segredo Perdido do Éden",
+      "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "",
+      "decisao_por_lote": {
+        "STT26-06": "PENDENTE"
+      },
+      "evidencias_disponiveis": {
+        "STT26-06": [
+          "STT26-06-RC-435-001"
+        ]
+      },
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-585",
+      "nome": "Vyasa",
+      "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "",
+      "decisao_por_lote": {
+        "STT26-04": "PENDENTE"
+      },
+      "evidencias_disponiveis": {
+        "STT26-04": [
+          "STT26-04-RC-585-001",
+          "STT26-04-RC-585-002"
+        ]
+      },
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-663",
+      "nome": "Áurea Catena",
+      "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "",
+      "decisao_por_lote": {
+        "STT26-05": "PENDENTE"
+      },
+      "evidencias_disponiveis": {
+        "STT26-05": [
+          "STT26-05-RC-663-001"
+        ]
+      },
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-669",
+      "nome": "Pashupati (avatar de Shiva)",
+      "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "",
+      "decisao_por_lote": {
+        "STT26-05": "PENDENTE"
+      },
+      "evidencias_disponiveis": {
+        "STT26-05": [
+          "STT26-05-RC-669-001"
+        ]
+      },
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-704",
+      "nome": "Corpo Sutil Reencarnante",
+      "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "",
+      "decisao_por_lote": {
+        "STT26-05": "PENDENTE"
+      },
+      "evidencias_disponiveis": {
+        "STT26-05": [
+          "STT26-05-RC-704-001"
+        ]
+      },
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-068",
+      "nome": "Hiperbórea",
+      "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "",
+      "decisao_por_lote": {
+        "STT26-06": "PENDENTE"
+      },
+      "evidencias_disponiveis": {
+        "STT26-06": [
+          "STT26-06-RC-068-001",
+          "STT26-06-RC-068-002",
+          "STT26-06-RC-068-003"
+        ]
+      },
+      "observacao": ""
+    }
+  ],
+  "despacho_de_eixo": {
+    "resultado": "PENDENTE",
+    "lotes_autorizados_para_cotejo_ampliado": [
+      "STT26-03"
+    ],
+    "autorizacao_para_abrir_ciclo": false,
+    "observacao": "Despacho parcial: STT26-03 deliberado sob filtro de relevância doutrinária. STT26-04, STT26-05 e STT26-06 permanecem integralmente PENDENTES. Sem autorização para abrir ciclo."
+  }
+}
