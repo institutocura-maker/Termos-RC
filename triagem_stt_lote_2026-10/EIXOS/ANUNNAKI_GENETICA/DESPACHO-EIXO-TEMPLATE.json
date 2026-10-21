@@ -1,0 +1,725 @@
+{
+  "meta": {
+    "artefato": "Template de despacho curatorial por eixo STT",
+    "eixo": {
+      "codigo": "ANUNNAKI_GENETICA",
+      "nome": "Anunnaki, genética e humanidade"
+    },
+    "lotes": [
+      "STT26-01",
+      "STT26-02"
+    ],
+    "gerado_em": "2026-10-20",
+    "estado": "PENDENTE-CURADOR",
+    "escopo": "Matriz transversal: preserva o teto de 25 candidatos por lote; os códigos repetidos são vistos juntos sem fundir decisões de lote.",
+    "efeito_atual": "nenhum: não cria ciclo e não altera a Base",
+    "opcoes": [
+      "MANTER-EM-TRIAGEM",
+      "DESCARTAR-DO-EIXO",
+      "AUTORIZAR-COTEJO-AMPLIADO-NO-LOTE",
+      "RESERVAR-PARA-FUTURO-CICLO"
+    ]
+  },
+  "candidatos": [
+    {
+      "codigo": "RC-024",
+      "nome": "Anunnaki",
+      "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "",
+      "decisao_por_lote": {
+        "STT26-01": "PENDENTE",
+        "STT26-02": "PENDENTE"
+      },
+      "evidencias_disponiveis": {
+        "STT26-01": [
+          "STT26-01-RC-024-001"
+        ],
+        "STT26-02": [
+          "STT26-02-RC-024-001",
+          "STT26-02-RC-024-008",
+          "STT26-02-RC-024-012"
+        ]
+      },
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-487",
+      "nome": "Enlil (deus sumério, par de Enki)",
+      "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "",
+      "decisao_por_lote": {
+        "STT26-01": "PENDENTE",
+        "STT26-02": "PENDENTE"
+      },
+      "evidencias_disponiveis": {
+        "STT26-01": [
+          "STT26-01-RC-487-001"
+        ],
+        "STT26-02": [
+          "STT26-02-RC-487-001",
+          "STT26-02-RC-487-014",
+          "STT26-02-RC-487-015"
+        ]
+      },
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-102",
+      "nome": "Shiva (Savna)",
+      "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "",
+      "decisao_por_lote": {
+        "STT26-01": "PENDENTE",
+        "STT26-02": "PENDENTE"
+      },
+      "evidencias_disponiveis": {
+        "STT26-01": [
+          "STT26-01-RC-102-001",
+          "STT26-01-RC-102-011",
+          "STT26-01-RC-102-012"
+        ],
+        "STT26-02": [
+          "STT26-02-RC-102-001",
+          "STT26-02-RC-102-016",
+          "STT26-02-RC-102-028"
+        ]
+      },
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-094",
+      "nome": "Revelação Cósmica (conceito)",
+      "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "",
+      "decisao_por_lote": {
+        "STT26-01": "PENDENTE",
+        "STT26-02": "PENDENTE"
+      },
+      "evidencias_disponiveis": {
+        "STT26-01": [
+          "STT26-01-RC-094-001",
+          "STT26-01-RC-094-005",
+          "STT26-01-RC-094-007"
+        ],
+        "STT26-02": [
+          "STT26-02-RC-094-001",
+          "STT26-02-RC-094-005",
+          "STT26-02-RC-094-007"
+        ]
+      },
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-086",
+      "nome": "Pandora",
+      "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "",
+      "decisao_por_lote": {
+        "STT26-01": "PENDENTE",
+        "STT26-02": "PENDENTE"
+      },
+      "evidencias_disponiveis": {
+        "STT26-01": [
+          "STT26-01-RC-086-001",
+          "STT26-01-RC-086-005",
+          "STT26-01-RC-086-008"
+        ],
+        "STT26-02": [
+          "STT26-02-RC-086-001",
+          "STT26-02-RC-086-003",
+          "STT26-02-RC-086-004"
+        ]
+      },
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-037",
+      "nome": "Brahma (Brajna)",
+      "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "",
+      "decisao_por_lote": {
+        "STT26-01": "PENDENTE",
+        "STT26-02": "PENDENTE"
+      },
+      "evidencias_disponiveis": {
+        "STT26-01": [
+          "STT26-01-RC-037-001",
+          "STT26-01-RC-037-014",
+          "STT26-01-RC-037-018"
+        ],
+        "STT26-02": [
+          "STT26-02-RC-037-001",
+          "STT26-02-RC-037-002",
+          "STT26-02-RC-037-011"
+        ]
+      },
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-589",
+      "nome": "Nibiru",
+      "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "",
+      "decisao_por_lote": {
+        "STT26-02": "PENDENTE"
+      },
+      "evidencias_disponiveis": {
+        "STT26-02": [
+          "STT26-02-RC-589-001",
+          "STT26-02-RC-589-019",
+          "STT26-02-RC-589-021"
+        ]
+      },
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-072",
+      "nome": "Jesus",
+      "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "",
+      "decisao_por_lote": {
+        "STT26-01": "PENDENTE",
+        "STT26-02": "PENDENTE"
+      },
+      "evidencias_disponiveis": {
+        "STT26-01": [
+          "STT26-01-RC-072-001",
+          "STT26-01-RC-072-008",
+          "STT26-01-RC-072-021"
+        ],
+        "STT26-02": [
+          "STT26-02-RC-072-001",
+          "STT26-02-RC-072-002",
+          "STT26-02-RC-072-009"
+        ]
+      },
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-036",
+      "nome": "Biodemos",
+      "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "",
+      "decisao_por_lote": {
+        "STT26-01": "PENDENTE",
+        "STT26-02": "PENDENTE"
+      },
+      "evidencias_disponiveis": {
+        "STT26-01": [
+          "STT26-01-RC-036-001",
+          "STT26-01-RC-036-019"
+        ],
+        "STT26-02": [
+          "STT26-02-RC-036-001",
+          "STT26-02-RC-036-005",
+          "STT26-02-RC-036-006"
+        ]
+      },
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-414",
+      "nome": "Krishna (avatar de Vishnu/Shiva)",
+      "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "",
+      "decisao_por_lote": {
+        "STT26-01": "PENDENTE",
+        "STT26-02": "PENDENTE"
+      },
+      "evidencias_disponiveis": {
+        "STT26-01": [
+          "STT26-01-RC-414-001"
+        ],
+        "STT26-02": [
+          "STT26-02-RC-414-001"
+        ]
+      },
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-009",
+      "nome": "Sophia (Cristo Cósmico)",
+      "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "",
+      "decisao_por_lote": {
+        "STT26-01": "PENDENTE",
+        "STT26-02": "PENDENTE"
+      },
+      "evidencias_disponiveis": {
+        "STT26-01": [
+          "STT26-01-RC-009-001"
+        ],
+        "STT26-02": [
+          "STT26-02-RC-009-001",
+          "STT26-02-RC-009-002",
+          "STT26-02-RC-009-006"
+        ]
+      },
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-039",
+      "nome": "Capela (Sistema)",
+      "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "",
+      "decisao_por_lote": {
+        "STT26-02": "PENDENTE"
+      },
+      "evidencias_disponiveis": {
+        "STT26-02": [
+          "STT26-02-RC-039-001"
+        ]
+      },
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-489",
+      "nome": "Enoque (sétimo patriarca; levado por Javé)",
+      "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "",
+      "decisao_por_lote": {
+        "STT26-01": "PENDENTE",
+        "STT26-02": "PENDENTE"
+      },
+      "evidencias_disponiveis": {
+        "STT26-01": [
+          "STT26-01-RC-489-001",
+          "STT26-01-RC-489-002"
+        ],
+        "STT26-02": [
+          "STT26-02-RC-489-001",
+          "STT26-02-RC-489-003",
+          "STT26-02-RC-489-009"
+        ]
+      },
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-002",
+      "nome": "Rebelião de Lúcifer",
+      "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "",
+      "decisao_por_lote": {
+        "STT26-01": "PENDENTE",
+        "STT26-02": "PENDENTE"
+      },
+      "evidencias_disponiveis": {
+        "STT26-01": [
+          "STT26-01-RC-002-001",
+          "STT26-01-RC-002-006"
+        ],
+        "STT26-02": [
+          "STT26-02-RC-002-001",
+          "STT26-02-RC-002-003",
+          "STT26-02-RC-002-004"
+        ]
+      },
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-135",
+      "nome": "Vishnu (Mavatna)",
+      "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "",
+      "decisao_por_lote": {
+        "STT26-02": "PENDENTE"
+      },
+      "evidencias_disponiveis": {
+        "STT26-02": [
+          "STT26-02-RC-135-001",
+          "STT26-02-RC-135-004",
+          "STT26-02-RC-135-012"
+        ]
+      },
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-239",
+      "nome": "Hitler (figura histórica no RC)",
+      "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "",
+      "decisao_por_lote": {
+        "STT26-01": "PENDENTE"
+      },
+      "evidencias_disponiveis": {
+        "STT26-01": [
+          "STT26-01-RC-239-001"
+        ]
+      },
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-301",
+      "nome": "Prometeu (titã)",
+      "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "",
+      "decisao_por_lote": {
+        "STT26-01": "PENDENTE",
+        "STT26-02": "PENDENTE"
+      },
+      "evidencias_disponiveis": {
+        "STT26-01": [
+          "STT26-01-RC-301-001",
+          "STT26-01-RC-301-003",
+          "STT26-01-RC-301-004"
+        ],
+        "STT26-02": [
+          "STT26-02-RC-301-001",
+          "STT26-02-RC-301-005"
+        ]
+      },
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-065",
+      "nome": "Frota Norte",
+      "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "",
+      "decisao_por_lote": {
+        "STT26-01": "PENDENTE",
+        "STT26-02": "PENDENTE"
+      },
+      "evidencias_disponiveis": {
+        "STT26-01": [
+          "STT26-01-RC-065-001",
+          "STT26-01-RC-065-003"
+        ],
+        "STT26-02": [
+          "STT26-02-RC-065-001"
+        ]
+      },
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-081",
+      "nome": "Mohen So (Avatar Keshava de Vishnu)",
+      "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "",
+      "decisao_por_lote": {
+        "STT26-02": "PENDENTE"
+      },
+      "evidencias_disponiveis": {
+        "STT26-02": [
+          "STT26-02-RC-081-001",
+          "STT26-02-RC-081-003"
+        ]
+      },
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-089",
+      "nome": "Processador Val",
+      "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "",
+      "decisao_por_lote": {
+        "STT26-01": "PENDENTE"
+      },
+      "evidencias_disponiveis": {
+        "STT26-01": [
+          "STT26-01-RC-089-001"
+        ]
+      },
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-104",
+      "nome": "Trimurti",
+      "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "",
+      "decisao_por_lote": {
+        "STT26-02": "PENDENTE"
+      },
+      "evidencias_disponiveis": {
+        "STT26-02": [
+          "STT26-02-RC-104-001",
+          "STT26-02-RC-104-003",
+          "STT26-02-RC-104-004"
+        ]
+      },
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-306",
+      "nome": "Apolo",
+      "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "",
+      "decisao_por_lote": {
+        "STT26-01": "PENDENTE"
+      },
+      "evidencias_disponiveis": {
+        "STT26-01": [
+          "STT26-01-RC-306-001",
+          "STT26-01-RC-306-003",
+          "STT26-01-RC-306-004"
+        ]
+      },
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-841",
+      "nome": "Cronos (titã)",
+      "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "",
+      "decisao_por_lote": {
+        "STT26-01": "PENDENTE"
+      },
+      "evidencias_disponiveis": {
+        "STT26-01": [
+          "STT26-01-RC-841-001",
+          "STT26-01-RC-841-004"
+        ]
+      },
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-166",
+      "nome": "Mentalma",
+      "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "",
+      "decisao_por_lote": {
+        "STT26-02": "PENDENTE"
+      },
+      "evidencias_disponiveis": {
+        "STT26-02": [
+          "STT26-02-RC-166-001"
+        ]
+      },
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-085",
+      "nome": "Orbum",
+      "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "",
+      "decisao_por_lote": {
+        "STT26-02": "PENDENTE"
+      },
+      "evidencias_disponiveis": {
+        "STT26-02": [
+          "STT26-02-RC-085-001",
+          "STT26-02-RC-085-002",
+          "STT26-02-RC-085-003"
+        ]
+      },
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-108",
+      "nome": "Universo Paralelo",
+      "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "",
+      "decisao_por_lote": {
+        "STT26-02": "PENDENTE"
+      },
+      "evidencias_disponiveis": {
+        "STT26-02": [
+          "STT26-02-RC-108-001",
+          "STT26-02-RC-108-003",
+          "STT26-02-RC-108-004"
+        ]
+      },
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-593",
+      "nome": "Mahabharata",
+      "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "",
+      "decisao_por_lote": {
+        "STT26-01": "PENDENTE"
+      },
+      "evidencias_disponiveis": {
+        "STT26-01": [
+          "STT26-01-RC-593-001"
+        ]
+      },
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-059",
+      "nome": "Espiritualidade Superior",
+      "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "",
+      "decisao_por_lote": {
+        "STT26-01": "PENDENTE"
+      },
+      "evidencias_disponiveis": {
+        "STT26-01": [
+          "STT26-01-RC-059-001",
+          "STT26-01-RC-059-004"
+        ]
+      },
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-078",
+      "nome": "Lúcifer (Yel Luzbel)",
+      "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "",
+      "decisao_por_lote": {
+        "STT26-01": "PENDENTE"
+      },
+      "evidencias_disponiveis": {
+        "STT26-01": [
+          "STT26-01-RC-078-001"
+        ]
+      },
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-470",
+      "nome": "Midgard (Marte + Terra)",
+      "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "",
+      "decisao_por_lote": {
+        "STT26-02": "PENDENTE"
+      },
+      "evidencias_disponiveis": {
+        "STT26-02": [
+          "STT26-02-RC-470-001",
+          "STT26-02-RC-470-003",
+          "STT26-02-RC-470-004"
+        ]
+      },
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-034",
+      "nome": "Big Bang",
+      "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "",
+      "decisao_por_lote": {
+        "STT26-01": "PENDENTE"
+      },
+      "evidencias_disponiveis": {
+        "STT26-01": [
+          "STT26-01-RC-034-001"
+        ]
+      },
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-051",
+      "nome": "Despina",
+      "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "",
+      "decisao_por_lote": {
+        "STT26-01": "PENDENTE"
+      },
+      "evidencias_disponiveis": {
+        "STT26-01": [
+          "STT26-01-RC-051-001",
+          "STT26-01-RC-051-004"
+        ]
+      },
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-071",
+      "nome": "Jan Val Ellam (Rogério de Almeida Freitas)",
+      "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "",
+      "decisao_por_lote": {
+        "STT26-02": "PENDENTE"
+      },
+      "evidencias_disponiveis": {
+        "STT26-02": [
+          "STT26-02-RC-071-001",
+          "STT26-02-RC-071-002",
+          "STT26-02-RC-071-003"
+        ]
+      },
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-193",
+      "nome": "Rebanho humano",
+      "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "",
+      "decisao_por_lote": {
+        "STT26-01": "PENDENTE"
+      },
+      "evidencias_disponiveis": {
+        "STT26-01": [
+          "STT26-01-RC-193-001",
+          "STT26-01-RC-193-003",
+          "STT26-01-RC-193-004"
+        ]
+      },
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-268",
+      "nome": "Gnosticismo (contraponto à Cabala)",
+      "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "",
+      "decisao_por_lote": {
+        "STT26-02": "PENDENTE"
+      },
+      "evidencias_disponiveis": {
+        "STT26-02": [
+          "STT26-02-RC-268-001"
+        ]
+      },
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-302",
+      "nome": "Epimeteu (titã)",
+      "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "",
+      "decisao_por_lote": {
+        "STT26-01": "PENDENTE"
+      },
+      "evidencias_disponiveis": {
+        "STT26-01": [
+          "STT26-01-RC-302-001",
+          "STT26-01-RC-302-002"
+        ]
+      },
+      "observacao": ""
+    }
+  ],
+  "despacho_de_eixo": {
+    "resultado": "PENDENTE",
+    "lotes_autorizados_para_cotejo_ampliado": [],
+    "autorizacao_para_abrir_ciclo": false,
+    "observacao": ""
+  }
+}
