@@ -5,10 +5,10 @@ nome = "Mahabharata"
 categoria = "Tecnologias & Artefatos"
 subcategoria = "5.4 Escrituras / Objetos documentais"
 status = "verificado"
-fontes = ["P2022-12-17", "P2025-02-16", "P2024-11-30", "P2023-06-25", "P2021-05-15", "P2023-10-14", "P2022-03-26", "P2023-12-03", "P2024-06-16"]
+fontes = ["P2022-12-17", "P2025-02-16", "P2024-11-30", "P2023-06-25", "P2021-05-15", "P2023-10-14", "P2022-03-26", "P2023-12-03", "P2024-06-16", "STT26-EXTRATERRESTRES_TECNOLOGIA"]
 via = "P6-evidência"
 confianca_fonte = "média"
-atualizado = "2026-08-29"
+atualizado = "2026-10-22"
 +++
 # Mahabharata — RC-593
 
@@ -38,9 +38,14 @@ atualizado = "2026-08-29"
 ## Seres Associados
 Vyasa (RC-585); Rishis (RC-586); Rama (avatar de Vishnu) (RC-584)
 
+## Ampliação — STT26-EXTRATERRESTRES_TECNOLOGIA (Eixo STT26 — Extraterrestres, tecnologia e cosmos (derivados normalizados))
+
+- **[STT26-07 · Mahabharata]** «Existe um livro chamado Srimad Bhagavantam, escrito por Krishna do Apayano, mais conhecido como Vyasa, em que Vyasa, depois de ter escrito, junto com cerca de 20 companheiros de aventura, os quatro Vedas, os 18 Puranas, o Mahabharata em diversas orações, Vyasa resolveu fazer o seu Mahasamadhi na floresta de Naimisha, na Índia, no norte de Uttar Pradesh, é um estado lá da Índia, no norte, fica na fronteira com Nepal e Himalaia.» (U1974 · chars 298882–299313) — Pérola homologada pelo Curador em 22/10/2026; corte literal conferido pelo Motor antes do pouso na Base.
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
+| STT26-EXTRATERRESTRES_TECNOLOGIA | Eixo STT26 — Extraterrestres, tecnologia e cosmos (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
 | P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
 | P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |

@@ -5,10 +5,10 @@ nome = "Enoque (sétimo patriarca; levado por Javé)"
 categoria = "Seres & Entidades"
 subcategoria = "1.6 Figuras humanas (históricas/míticas)"
 status = "verificado"
-fontes = ["P2022-12-17", "P2024-11-30", "P2024-07-14", "P2024-04-13", "P2026-08-04", "P2024-03-02", "P2023-12-02", "P2023-05-20", "P2020-05-09", "P2021-05-08", "P2024-11-03", "P2023-10-14", "P2023-12-03", "P2017-10-14", "P2018-12-16", "P2022-11-20", "P2022-10-01", "P2022-07-16", "P2025-12-14", "P2023-12-25-01"]
+fontes = ["P2022-12-17", "P2024-11-30", "P2024-07-14", "P2024-04-13", "P2026-08-04", "P2024-03-02", "P2023-12-02", "P2023-05-20", "P2020-05-09", "P2021-05-08", "P2024-11-03", "P2023-10-14", "P2023-12-03", "P2017-10-14", "P2018-12-16", "P2022-11-20", "P2022-10-01", "P2022-07-16", "P2025-12-14", "P2023-12-25-01", "STT26-EXTRATERRESTRES_TECNOLOGIA"]
 via = "P6-evidência"
 confianca_fonte = "média"
-atualizado = "2026-09-12"
+atualizado = "2026-10-22"
 +++
 # Enoque (sétimo patriarca; levado por Javé) — RC-489
 
@@ -35,10 +35,15 @@ Sétimo patriarca bíblico, levado por Javé — na RC, figura-chave da interces
 | Culto a Lilith (Transformação em Deusa Lil Babilônica) | RC-813 | associado |
 | Pacto Aesir-Vanir como Origem Nórdica da Ideia de Pandora | RC-816 | associado |
 
+## Ampliação — STT26-EXTRATERRESTRES_TECNOLOGIA (Eixo STT26 — Extraterrestres, tecnologia e cosmos (derivados normalizados))
+
+- **[STT26-07 · Enoque (sétimo patriarca; levado por Javé)]** «Rogério, alguns textos que abordam a questão da ufologia, quando tratam de questões relacionadas à Bíblia, Chegam a afirmar ou a sugerir que Enoque seria um extraterrestre Isso porque ele viveu mais de 300 anos Ele andou pelos céus e por fim ele subiu aos céus com a equipe de Deus E não retornou, não voltando mais a convivência com os homens Considerando tudo isso, o que você pode explicar sobre esses fatos se possível, confirmando se ele, Enoque, era um extraterrestre ou não.» (U0228 · chars 26197–26678) — Pérola homologada pelo Curador em 22/10/2026; corte literal conferido pelo Motor antes do pouso na Base.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| STT26-EXTRATERRESTRES_TECNOLOGIA | Eixo STT26 — Extraterrestres, tecnologia e cosmos (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | P2025-12-14 | Os Fundamentos da Revelação Cósmica (palestra) | — | transcrição automatizada; citação |
 | P2022-07-16 | Do Ramayana ao Mahabharata (palestra) | — | transcrição automatizada; citação |
 | P2022-10-01 | A Wyrd e a Espiritualidade (palestra) | — | transcrição automatizada; citação |
@@ -171,4 +176,3 @@ Sétimo patriarca bíblico, levado por Javé — na RC, figura-chave da interces
 
 - **Thot trabalhou com Enoque:** "além disso, conviveu e trabalhou com os anjos de Javé. Eu vou falar um pouco disso amanhã, com o Adão bíblico, com Enoque" — Thot (RC-463) ao lado de anjos de Javé, Adão e Enoque (nova aresta RC-463 ↔ RC-489);
 - Contexto: a palestra de amanhã (03/12/2023 — Rebelião de Lúcifer) retomaria essas relações.
-

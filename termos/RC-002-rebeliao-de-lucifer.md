@@ -5,10 +5,10 @@ nome = "Rebelião de Lúcifer"
 categoria = "Eventos & Eras"
 subcategoria = "7.1 Guerras / Rebeliões / Conflitos"
 status = "verificado"
-fontes = ["B031", "B003", "B026", "B057", "B058", "B017", "P2024-03-03", "P2024-04-13", "P2023-04-01", "P2020-09-19", "P2021-07-24", "P2023-04-01b", "P2024-11-03", "P2025-02-22", "P2020-04-25", "P2022-03-26", "P2023-12-03", "P2022-05-07", "P2023-08-27", "P2023-02-11", "P2021-02-28"]
+fontes = ["B031", "B003", "B026", "B057", "B058", "B017", "P2024-03-03", "P2024-04-13", "P2023-04-01", "P2020-09-19", "P2021-07-24", "P2023-04-01b", "P2024-11-03", "P2025-02-22", "P2020-04-25", "P2022-03-26", "P2023-12-03", "P2022-05-07", "P2023-08-27", "P2023-02-11", "P2021-02-28", "STT26-EXTRATERRESTRES_TECNOLOGIA"]
 via = "P6-evidência"
 confianca_fonte = "alta"
-atualizado = "2026-08-29"
+atualizado = "2026-10-22"
 +++
 # Rebelião de Lúcifer — RC-002
 
@@ -54,9 +54,14 @@ Período de inquietações de **Yel Luzbel (Lúcifer)** iniciado há **742 mil a
 ## Seres Associados
 Yel Luzbel (RC-078); Len Mion (RC-074); Família Yel (RC-136); Família Val (RC-109); Sophia (RC-009, impôs o isolamento).
 
+## Ampliação — STT26-EXTRATERRESTRES_TECNOLOGIA (Eixo STT26 — Extraterrestres, tecnologia e cosmos (derivados normalizados))
+
+- **[STT26-07 · Rebelião de Lúcifer]** «No livro Terra Atlantis, que é o que você se referiu, esses seres biodemo que estavam na Terra, a família Vol, a família El, no tempo da rebelião de Lúcifer, não sabiam de nada disso, mas sabiam que eles tinham chegado aqui na Terra em naves.» (U0170 · chars 21832–22074) — Pérola homologada pelo Curador em 22/10/2026; corte literal conferido pelo Motor antes do pouso na Base.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| STT26-EXTRATERRESTRES_TECNOLOGIA | Eixo STT26 — Extraterrestres, tecnologia e cosmos (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
 | P2021-02-28 | Tragédia Anunciada - As Fórmulas Mentais do Poder Demo (palestra) | — | transcrição automatizada; citação |
 | P2023-02-11 | Agente Humano Jesus e os Arcontes (palestra) | — | transcrição automatizada; citação |
 | P2023-08-27 | Len Mion e os Senhores da Terra Alexandre Magno e Qin Shi Huang Di (palestra) | — | transcrição automatizada; citação |
@@ -211,4 +216,3 @@ Yel Luzbel (RC-078); Len Mion (RC-074); Família Yel (RC-136); Família Val (RC-
 
 ## Observações
 A cronologia (742 mil / 687 mil / 619 mil anos) vem do glossário de B031 e **precisa ser confirmada** na Cronologia Aproximada do próprio livro e nas obras primárias de Ellam. Verificar também o papel de Jesus na narrativa.
-

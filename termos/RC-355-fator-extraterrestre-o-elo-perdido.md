@@ -5,10 +5,10 @@ nome = "Fator Extraterrestre (o Elo Perdido)"
 categoria = "Conceitos Cosmológicos"
 subcategoria = "2.5 Propósitos / Destinos"
 status = "verificado"
-fontes = ["B005", "B042"]
+fontes = ["B005", "B042", "STT26-EXTRATERRESTRES_TECNOLOGIA"]
 via = "P6-evidência"
 confianca_fonte = "alta"
-atualizado = "2026-08-12"
+atualizado = "2026-10-22"
 +++
 # Fator Extraterrestre (o Elo Perdido) — RC-355
 
@@ -36,9 +36,14 @@ O capítulo 12 de B005 ("A Busca do Elo Perdido: O Fator Extraterrestre") argume
 ## Seres Associados
 Seres extraterrestres (RC-098); anjos decaídos (RC-020); Jesus (RC-072).
 
+## Ampliação — STT26-EXTRATERRESTRES_TECNOLOGIA (Eixo STT26 — Extraterrestres, tecnologia e cosmos (derivados normalizados))
+
+- **[STT26-07 · Fator Extraterrestre (o Elo Perdido)]** «O livro Fator Extraterrestre, na verdade, ele era bem maior do que o que eu terminei publicando. Ele trazia as minhas experiências, originalmente era assim, que desde os meus 18 anos, quando nós fundamos o CPURN, ou seja, Centro de Estudos de Pesquisas Ufológicas do Rio Grande do Norte, O nome é bem pomposo, é bem interessante, mas era eu e meu Fusquinha e mais uns dois ou três amigos que a gente pesquisava as coisas estranhas, ou seja, a casuística, os eventos com óvnis aqui no interior do Rio Grande do Norte.» (U1560 · chars 239828–240344) — Pérola homologada pelo Curador em 22/10/2026; corte literal conferido pelo Motor antes do pouso na Base.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| STT26-EXTRATERRESTRES_TECNOLOGIA | Eixo STT26 — Extraterrestres, tecnologia e cosmos (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
 | Fator Extraterrestre (B005) | cap. 12 (A Busca do Elo Perdido) | pp. 149–162 (aprox.) | conceito-título |
 
 ## Citações-chave

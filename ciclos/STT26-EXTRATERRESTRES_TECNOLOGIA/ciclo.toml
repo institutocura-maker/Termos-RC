@@ -17,8 +17,8 @@ portoes_ativos = ["A", "B", "C", "D"]
 max_perolas = 25
 exportar_candidatas = false       # true só em ensaio declarado: o portão real é `aprovada`
 
-cobertura = "CICLO DE EIXO — EXTRATERRESTRES_TECNOLOGIA; lotes STT26-07; 19 transcrições STT normalizadas derivadas, consolidadas com manifesto de origem e seladas no original.txt. Abertura autorizada pela Curadoria após despacho integral. O ciclo inicia sem pérolas: cada eventual aspa deverá ser cortada do derivado consolidado e passar nos portões do Motor."
-teto = "cotejo-autorizado; pérolas ainda dependem de âncoras e portões"
+cobertura = "CICLO DE EIXO — EXTRATERRESTRES_TECNOLOGIA; lotes STT26-07; 19 transcrições STT normalizadas derivadas, consolidadas com manifesto de origem e seladas no original.txt. Abertura autorizada pela Curadoria após despacho integral. As 22 candidatas extraídas foram homologadas pelo Curador em 22/10/2026; cada uma permanece sujeita aos portões do Motor antes do pouso na Base."
+teto = "pouso-autorizado; 22 pérolas homologadas ainda passam pelos portões do Motor"
 termos_novos = []
 veto_lexico = ["p****", "m****", "b******", "e******"]
 fichas_que_nomeiam_grupo = []
@@ -28,10 +28,38 @@ arquivos = 0      # fichas criadas por este ciclo
 ficha_true = 0   # viradas no cadastro
 termos = 0       # termos novos: só por pérola aprovada, com linha no §4 do dossiê
 relacoes = 0     # arestas novas: tipada + evidência + selo datado, ou nada
-vinculos = 0    # códigos que passam a carregar a sigla do ciclo na lista de fontes
+vinculos = 22   # as 22 fichas homologadas recebem a sigla do ciclo na lista de fontes
+
+[perolas]
+# Carimbo explícito do Curador, registrado nesta sessão após a revisão contextual do dossiê.
+aprovadas = [
+  "PER-STT26-EXTRATERRESTRES_TECNOLOGIA-001",
+  "PER-STT26-EXTRATERRESTRES_TECNOLOGIA-002",
+  "PER-STT26-EXTRATERRESTRES_TECNOLOGIA-003",
+  "PER-STT26-EXTRATERRESTRES_TECNOLOGIA-004",
+  "PER-STT26-EXTRATERRESTRES_TECNOLOGIA-005",
+  "PER-STT26-EXTRATERRESTRES_TECNOLOGIA-006",
+  "PER-STT26-EXTRATERRESTRES_TECNOLOGIA-007",
+  "PER-STT26-EXTRATERRESTRES_TECNOLOGIA-008",
+  "PER-STT26-EXTRATERRESTRES_TECNOLOGIA-009",
+  "PER-STT26-EXTRATERRESTRES_TECNOLOGIA-010",
+  "PER-STT26-EXTRATERRESTRES_TECNOLOGIA-011",
+  "PER-STT26-EXTRATERRESTRES_TECNOLOGIA-012",
+  "PER-STT26-EXTRATERRESTRES_TECNOLOGIA-013",
+  "PER-STT26-EXTRATERRESTRES_TECNOLOGIA-014",
+  "PER-STT26-EXTRATERRESTRES_TECNOLOGIA-015",
+  "PER-STT26-EXTRATERRESTRES_TECNOLOGIA-016",
+  "PER-STT26-EXTRATERRESTRES_TECNOLOGIA-017",
+  "PER-STT26-EXTRATERRESTRES_TECNOLOGIA-018",
+  "PER-STT26-EXTRATERRESTRES_TECNOLOGIA-019",
+  "PER-STT26-EXTRATERRESTRES_TECNOLOGIA-020",
+  "PER-STT26-EXTRATERRESTRES_TECNOLOGIA-021",
+  "PER-STT26-EXTRATERRESTRES_TECNOLOGIA-022"
+]
+homologacao = "Curador: as 22 candidatas do DOSSIE-RAG_STT26-EXTRATERRESTRES_TECNOLOGIA foram validadas e aprovadas explicitamente em 22/10/2026; autorizado o pouso nas fichas e nos vínculos."
 
 [materializar]
-codigos = []      # fichas a CRIAR (ordem do Curador; só com bloco no pacote)
+codigos = []      # nenhuma criação: as 22 fichas homologadas já existem
 
 [vitorias]
 provas = []         # uma linha por vitória: "RC-xxx = <afirmativa> | prova: <trecho>"
@@ -39,7 +67,32 @@ provas = []         # uma linha por vitória: "RC-xxx = <afirmativa> | prova: <t
 # byte depois de ampliar e o §0 do dossiê só imprime o que passou. Mesa vazia é lícita (nem
 # todo ciclo vence algo novo); linha sem `| prova:` aborta — vitória narrada não é vitória.
 [ampliar]
-codigos = []      # vazio = todos os códigos do pacote que já têm arquivo
+codigos = [
+  "RC-002",
+  "RC-009",
+  "RC-024",
+  "RC-034",
+  "RC-036",
+  "RC-037",
+  "RC-078",
+  "RC-086",
+  "RC-094",
+  "RC-102",
+  "RC-108",
+  "RC-135",
+  "RC-162",
+  "RC-166",
+  "RC-355",
+  "RC-414",
+  "RC-489",
+  "RC-585",
+  "RC-593",
+  "RC-709",
+  "RC-841",
+  "RC-924"
+]      # 22 fichas existentes, homologadas pelo Curador
+# Reaplica o bloco que o próprio Motor havia escrito, agora com o status homologado.
+substituir = true
 
 [tese]
 pontos = []      # prosa SEM «…»: sem apostila, o verbatim não cobre o resumo

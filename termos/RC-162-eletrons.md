@@ -5,10 +5,10 @@ nome = "Elétrons (agente básico da vida universal)"
 categoria = "Processos & Fenômenos"
 subcategoria = "4.4 Fenômenos físicos / energéticos"
 status = "verificado"
-fontes = ["B024", "B041", "P2024-05-04", "P2025-03-15", "P2025-02-16", "P2025-02-15", "P2024-11-30", "P2024-11-09", "P2024-03-03", "P2024-04-14", "P2025-06-14b", "P2023-11-19"]
+fontes = ["B024", "B041", "P2024-05-04", "P2025-03-15", "P2025-02-16", "P2025-02-15", "P2024-11-30", "P2024-11-09", "P2024-03-03", "P2024-04-14", "P2025-06-14b", "P2023-11-19", "STT26-EXTRATERRESTRES_TECNOLOGIA"]
 via = "P6-evidência"
 confianca_fonte = "alta"
-atualizado = "2026-09-13"
+atualizado = "2026-10-22"
 +++
 # Elétrons (agente básico da vida universal) — RC-162
 
@@ -43,10 +43,15 @@ O "agente básico da vida universal": o único que existe desde o primeiro momen
 | Sophia Como Biodemo da Ordem e Caos | RC-831 | associado |
 | Pulsação dos Elétrons Como Afetividade Humana | RC-832 | associado |
 
+## Ampliação — STT26-EXTRATERRESTRES_TECNOLOGIA (Eixo STT26 — Extraterrestres, tecnologia e cosmos (derivados normalizados))
+
+- **[STT26-07 · Elétrons (agente básico da vida universal)]** «Aí nós temos que entender que um físico nuclear francês, nos anos 70 do século passado, Charron, ele percebeu algo inusitado que das partículas mais fundamentais que compõem a matéria o elétron, no caso tinha uma capacidade de memorizar por ele mesmo todas as informações que aconteciam no âmbito desse universo e aí, portanto como todos os elétrons são sempre os mesmos Nenhum deles surge novo, nenhum deles morre É isso que a ciência aponta A quantidade de elétrons no início do universo No momento do Big Bang, logo que os elétrons surgiram E agora, em que o universo se expande loucamente Ou assim parece, é a mesma Nada se cria, nada se perde, tudo se transforma E se transforma como?» (U1340 · chars 203001–203690) — Pérola homologada pelo Curador em 22/10/2026; corte literal conferido pelo Motor antes do pouso na Base.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| STT26-EXTRATERRESTRES_TECNOLOGIA | Eixo STT26 — Extraterrestres, tecnologia e cosmos (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | B024 | Epopeia dos Agentes da Vida Universal — "agente básico da vida universal"; memória quântica; fim Tamásico e Mente Universal | livro impresso |
 | B041 | A Rebelião dos Elétrons — Charon e a memória infinita; circuitos; as três realidades "eternas" | livro impresso |
 | P2024-05-04 | Prabrajna em Perpérion — micropartes do Criador; neurônios de Prabrajna; massa crítica; limpeza pelos humanos (leitura de estudo) | palestra (leitura) |

@@ -5,10 +5,10 @@ nome = "Anunnaki"
 categoria = "Seres & Entidades"
 subcategoria = "1.3 Extraterrestres / Raças cósmicas"
 status = "verificado"
-fontes = ["B031", "B017", "B018", "B023", "B015", "P2022-12-17", "P2025-02-16", "P2024-11-30", "P2024-11-09", "P2024-04-13", "P2023-12-02", "P2021-03-27", "B089", "P2023-05-20", "P2023-04-01", "P2024-11-03", "P2021-05-15", "P2023-10-14", "P2023-12-03", "P2022-05-07", "P2017-10-14"]
+fontes = ["B031", "B017", "B018", "B023", "B015", "P2022-12-17", "P2025-02-16", "P2024-11-30", "P2024-11-09", "P2024-04-13", "P2023-12-02", "P2021-03-27", "B089", "P2023-05-20", "P2023-04-01", "P2024-11-03", "P2021-05-15", "P2023-10-14", "P2023-12-03", "P2022-05-07", "P2017-10-14", "STT26-EXTRATERRESTRES_TECNOLOGIA"]
 via = "P6-evidência"
 confianca_fonte = "alta"
-atualizado = "2026-09-12"
+atualizado = "2026-10-22"
 +++
 # Anunnaki — RC-024
 
@@ -184,3 +184,7 @@ Na RC, os "deuses" da antiga Suméria: seres biológicos de **Nibiru** (RC-589) 
 ---
 ---
 ---
+
+## Ampliação — STT26-EXTRATERRESTRES_TECNOLOGIA (Eixo STT26 — Extraterrestres, tecnologia e cosmos (derivados normalizados))
+
+- **[STT26-07 · Anunnaki]** «Então o processo colonizador, seja lá de quem foi, astronomos, o que seja, Anunnaki, tudo começava aqui no norte.» (U0856 · chars 127092–127205) — Pérola homologada pelo Curador em 22/10/2026; corte literal conferido pelo Motor antes do pouso na Base.

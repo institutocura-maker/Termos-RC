@@ -5,10 +5,10 @@ nome = "Humano Turbinado"
 categoria = "Seres & Entidades"
 subcategoria = "1.7 Híbridos / Seres de transição"
 status = "verificado"
-fontes = ["P2025-02-15", "P2024-07-13"]
+fontes = ["P2025-02-15", "P2024-07-13", "STT26-EXTRATERRESTRES_TECNOLOGIA"]
 via = "P6-evidência"
 confianca_fonte = "média"
-atualizado = "2026-08-15"
+atualizado = "2026-10-22"
 +++
 # Humano Turbinado — RC-709
 
@@ -49,9 +49,14 @@ A fala distingue possibilidades:
 | Genes Críticos / Genes Dorminhocos | RC-710 | ← relaciona-se-a |
 | Lei da Mente do Buda | RC-712 | relaciona-se-a |
 
+## Ampliação — STT26-EXTRATERRESTRES_TECNOLOGIA (Eixo STT26 — Extraterrestres, tecnologia e cosmos (derivados normalizados))
+
+- **[STT26-07 · Humano Turbinado]** «Aí Ray Kurzweil diz o quê? É preciso surgir um ser humano turbinado. O que diabos é um ser humano turbinado?» (U0358 · chars 46325–46433) — Pérola homologada pelo Curador em 22/10/2026; corte literal conferido pelo Motor antes do pouso na Base.
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
+| STT26-EXTRATERRESTRES_TECNOLOGIA | Eixo STT26 — Extraterrestres, tecnologia e cosmos (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | P2025-02-15 | U1460–U1515; U1565–U1645 | aula/palestra STT |
 
 ## Citações-chave

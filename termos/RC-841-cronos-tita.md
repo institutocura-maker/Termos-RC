@@ -5,10 +5,10 @@ nome = "Cronos (titã)"
 categoria = "Seres & Entidades"
 subcategoria = "1.5 Decaídos / Exilados / Demônios"
 status = "verificado"
-fontes = ["P2017-10-14", "P2025-06-14"]
+fontes = ["P2017-10-14", "P2025-06-14", "STT26-EXTRATERRESTRES_TECNOLOGIA"]
 via = "P6-evidência"
 confianca_fonte = "média"
-atualizado = "2026-09-13"
+atualizado = "2026-10-22"
 +++
 # Cronos (titã) — RC-841
 
@@ -37,9 +37,14 @@ Com isso:
 | Têmis | RC-305 | **sem aresta** em `RELACOES`; arquivo existe |
 
 
+## Ampliação — STT26-EXTRATERRESTRES_TECNOLOGIA (Eixo STT26 — Extraterrestres, tecnologia e cosmos (derivados normalizados))
+
+- **[STT26-07 · Cronos (titã)]** «Se você estudar mitologia, e é algo que se passou no universo vizinho, surgem os deuses primordiais, que logo são dominados pelos deuses de primeira geração criativa, criativa, que logo são dominados pela geração de Uranus, que depois são dominados pela geração de Cronos, que depois são dominados pela geração de Zeus, usando aqui a mitologia grega.» (U2398 · chars 391275–391625) — Pérola homologada pelo Curador em 22/10/2026; corte literal conferido pelo Motor antes do pouso na Base.
+
 ## Fontes
 | Obra (sigla) | Título | Página | Tipo |
 |---|---|---|---|
+| STT26-EXTRATERRESTRES_TECNOLOGIA | Eixo STT26 — Extraterrestres, tecnologia e cosmos (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
 | P2025-06-14 | PALESTRA SOBRE A QUEDA DO CRIADOR-Refatorada (palestra) | — | transcrição automatizada; citação |
 | P2017-10-14 | Da Base Atlan ao Colégio Druídico (palestra) | — | transcrição automatizada; citação |
 

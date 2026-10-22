@@ -5,10 +5,10 @@ nome = "Mentalma"
 categoria = "Termos Específicos"
 subcategoria = "8.5 Outros idiomas / jargão técnico"
 status = "verificado"
-fontes = ["B024", "B074", "B075", "P2022-12-17", "P2021-12-04", "P2026-07-30", "P2026-04-02", "P2025-06-26", "P2025-03-15", "P2025-02-15", "P2024-11-30", "P2024-11-09", "P2024-04-14", "P2025-06-14b", "P2026-08-04", "ART-2026-08-18", "P2023-05-13", "P2023-07-30", "P2023-07-05", "P2023-04-01", "P2020-04-25", "P2022-03-26"]
+fontes = ["B024", "B074", "B075", "P2022-12-17", "P2021-12-04", "P2026-07-30", "P2026-04-02", "P2025-06-26", "P2025-03-15", "P2025-02-15", "P2024-11-30", "P2024-11-09", "P2024-04-14", "P2025-06-14b", "P2026-08-04", "ART-2026-08-18", "P2023-05-13", "P2023-07-30", "P2023-07-05", "P2023-04-01", "P2020-04-25", "P2022-03-26", "STT26-EXTRATERRESTRES_TECNOLOGIA"]
 via = "P6-evidência"
 confianca_fonte = "alta"
-atualizado = "2026-08-28"
+atualizado = "2026-10-22"
 +++
 # Mentalma — RC-166
 
@@ -54,9 +54,14 @@ Criado ao longo dos anos pelo próprio Ellam ("fui transformando as minhas atua�
 ## Seres Associados
 Jan Val Ellam (RC-071, criador).
 
+## Ampliação — STT26-EXTRATERRESTRES_TECNOLOGIA (Eixo STT26 — Extraterrestres, tecnologia e cosmos (derivados normalizados))
+
+- **[STT26-07 · Mentalma]** «O Mentalma surgiu em decorrência disso que hoje eu chamo de Manual da Busca Filosófica do Sentido da Vida.» (U1408 · chars 216828–216935) — Pérola homologada pelo Curador em 22/10/2026; corte literal conferido pelo Motor antes do pouso na Base.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| STT26-EXTRATERRESTRES_TECNOLOGIA | Eixo STT26 — Extraterrestres, tecnologia e cosmos (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
 | P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra) | — | transcrição automatizada; citação |
 | P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra) | — | transcrição automatizada; citação |
 | A Epopeia dos Agentes da Vida Universal (B024) | — | — | menção (fonte original) |

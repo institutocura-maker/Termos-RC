@@ -224,7 +224,7 @@ class Cfg:
         # A mesma exigência vale DENTRO das mesas: subchave que o motor não lê é regra
         # perdida, e código que não existe no cadastro é ordem órfã nascendo do .toml.
         formas = {"tese": {"pontos"}, "materializar": {"codigos"}, "ampliar": {"codigos", "substituir"},
-                  "vitorias": {"provas"}}
+                  "vitorias": {"provas"}, "perolas": {"aprovadas", "homologacao"}}
         for mesa, permitidas in formas.items():
             residuo = sorted(set(self.tabela(mesa)) - permitidas)
             if residuo:
@@ -397,6 +397,33 @@ class Pacote:
                 if "[P" in b[:80] or b.strip().startswith("**[")]
 
 
+def aprovacoes_declaradas(ids_gerados: set[str], ids_selecionados: set[str],
+                           aprovadas: list, homologacao: str) -> set[str]:
+    """Valida o carimbo curatorial antes de ele liberar RAG ou escrita na Base.
+
+    A aprovação é declarativa no ``[perolas]`` do ciclo: cada ID é produzido
+    deterministamente pelo próprio pacote. Assim, não há aprovação implícita por código,
+    nem um ID de outro ciclo, retido ou fora do caderno que possa atravessar o portão.
+    """
+    if any(not isinstance(item, str) or not item.strip() for item in aprovadas):
+        sys.exit("[perolas] aprovadas precisa conter apenas IDs não vazios de pérolas do ciclo")
+    aprovadas_set = set(aprovadas)
+    if len(aprovadas_set) != len(aprovadas):
+        sys.exit("[perolas] aprovadas contém ID repetido — o carimbo curatorial deve ser unívoco")
+    desconhecidas = sorted(aprovadas_set - ids_gerados)
+    if desconhecidas:
+        sys.exit("[perolas] aprovadas nomeia ID que o pacote não produziu: " + ", ".join(desconhecidas))
+    fora_do_caderno = sorted(aprovadas_set - ids_selecionados)
+    if fora_do_caderno:
+        sys.exit("[perolas] aprovadas tenta liberar pérola fora da seleção do caderno: "
+                 + ", ".join(fora_do_caderno))
+    if aprovadas_set and not homologacao:
+        sys.exit("[perolas] aprovadas exige `homologacao` curatorial explícita")
+    if not aprovadas_set and homologacao:
+        sys.exit("[perolas] tem `homologacao`, mas não declara nenhuma pérola aprovada")
+    return aprovadas_set
+
+
 # ────────────────────────────────────────────────────────────────────────── ciclo
 class Ciclo:
     def __init__(self, sigla: str, raiz: str | None = None):
@@ -452,6 +479,9 @@ class Ciclo:
         self.observacoes = c.tabela("observacoes")
         self.travas = c.tabela("travas")
         self.lacunas = c.tabela("lacunas")
+        perolas = c.tabela("perolas")
+        self.perolas_aprovadas = list(perolas.get("aprovadas", []))
+        self.homologacao_perolas = str(perolas.get("homologacao", "")).strip()
         # `[vitorias]` é mesa com a chave `provas`: cada linha declara O QUE O CICLO CONSEGUIU
         # e onde está a prova (um trecho literal da `## Ampliação — <SIGLA>` da ficha). O dossiê
         # nasce do que foi conferido, nunca do que foi narrado.
@@ -521,7 +551,6 @@ class Ciclo:
         out = sorted(reg.values(), key=lambda r: (-r["pontos"], r["codigo"]))
         for n, r in enumerate(out, 1):
             r["id"] = f"PER-{self.sigla.lstrip('P')}-{n:03d}"
-            r["status"] = "candidata"
             r["selecionada"] = n <= self.max_perolas and r["pontos"] >= 0
             # O despacho quer o MOTIVO da recusa, não só a conta: "fora do teto" é outra
             # coisa que "pontuação negativa", e quem audita o caderno precisa ler a diferença.
@@ -534,6 +563,14 @@ class Ciclo:
                 r["recusa"] = (f"ficou fora do teto de {self.max_perolas} por pontuação "
                                f"({r['pontos']} pt(s), a #{n} do ranque)")
             r["lacuna"] = self.lacunas.get(r["codigo"], "")
+        aprovadas = aprovacoes_declaradas(
+            {r["id"] for r in out},
+            {r["id"] for r in out if r["selecionada"]},
+            self.perolas_aprovadas,
+            self.homologacao_perolas,
+        )
+        for r in out:
+            r["status"] = "aprovada" if r["id"] in aprovadas else "candidata"
         return out
 
     def mencoes(self, txt: str) -> list[str]:
@@ -708,10 +745,11 @@ def ancorario(c: Ciclo) -> None:
     'não transcrevemos tudo' não passa a significar 'não podemos responder se algo se
     perdeu'."""
     sel = c.candidatas()
+    status_por_span = {(r["codigo"], r["aspa"]): r["status"] for r in sel}
     reg = dict(sigla=c.sigla, politica_de_cobertura=c.cobertura,
                fonte=os.path.relpath(c.fonte.caminho, c.raiz), sha256=sha256(c.fonte.caminho),
                bytes=c.fonte.bytes, unidades_com_fala=len(c.fonte.unidades),
-               spans=[], recusa=[])
+               homologacao_perolas=c.homologacao_perolas, spans=[], recusa=[])
     for cod in c.pacote.blocos:
         for bullet in c.pacote.bullets(cod):
             a = ASP.search(bullet)
@@ -719,7 +757,8 @@ def ancorario(c: Ciclo) -> None:
                 continue
             aspa = " ".join(a.group(1).split())
             ok, i, f = c.fonte.verificar(aspa)
-            reg["spans"].append(dict(codigo=cod, u=c.fonte.uaddr(i), chars=[i, f], largura=f - i,
+            reg["spans"].append(dict(codigo=cod, status=status_por_span.get((cod, aspa), "candidata"),
+                                     u=c.fonte.uaddr(i), chars=[i, f], largura=f - i,
                                      verificada=ok, texto=aspa))
     for r in sel:
         if not r["selecionada"]:
@@ -740,7 +779,9 @@ def ancorario(c: Ciclo) -> None:
 
 
 def dossie(c: Ciclo) -> None:
-    sel = [r for r in c.candidatas() if r["selecionada"]]
+    candidatas = c.candidatas()
+    sel = [r for r in candidatas if r["selecionada"]]
+    aprovadas = [r for r in sel if r["status"] == "aprovada"]
     L = [f"# Dossiê RAG — {c.sigla} · {c.titulo}", "",
          "> Gerado pelo Motor Único (`ferramentas/motor.py`) no formato do despacho de 29/08/2026. "
          "Nenhuma aspa digitada à mão: toda citação foi recortada do `original.txt` pelo índice de "
@@ -753,15 +794,21 @@ def dossie(c: Ciclo) -> None:
          f"| Cobertura | {c.cobertura} |",
          f"| Termos tocados | {len(c.pacote.blocos)} códigos, {len([k for k in c.pacote.blocos if k in c.fichas])} com arquivo |",
          f"| Citações verificadas | {len(c.pacote.pares)} |",
-         f"| Caderno | {len(sel)} pérolas de {len(c.candidatas())} candidatas |",
+         f"| Caderno | {len(sel)} pérolas selecionadas de {len(candidatas)} candidatas; {len(aprovadas)} aprovadas |",
+         f"| Homologação curatorial | {c.homologacao_perolas or '—'} |",
          f"| Teto curatorial | {c.teto} |",
          f"| Livro-razão | `ancorario_{c.sigla}.json` |", "",
          *vitorias_para_dossie(c),
          "## 2 · Resumo executivo da tese", ""]
     L += ([f"* {t}" for t in c.tese] or ["* (declarações de tese em `ciclo.toml`, seção ausente)"])
-    L += ["", "## 3 · O Caderno de Pérolas", "",
-          "Toda pérola nasce `candidata`. O corpus RAG só recebe a que tiver carimbo do Curador "
-          "(`aprovada`) — o garimpo é do agente, a escolha é do curador.", ""]
+    status_caderno = (
+        f"Das {len(sel)} pérolas selecionadas, {len(aprovadas)} receberam o carimbo curatorial `aprovada` "
+        "declarado em `[perolas]`; somente estas seguem para o corpus RAG e para o pouso autorizado na Base."
+        if aprovadas else
+        "Toda pérola nasce `candidata`. O corpus RAG só recebe a que tiver carimbo do Curador "
+        "(`aprovada`) — o garimpo é do agente, a escolha é do curador."
+    )
+    L += ["", "## 3 · O Caderno de Pérolas", "", status_caderno, ""]
     for p in sel:
         _, i, f = c.fonte.verificar(p["aspa"])
         L += [f"### {p['id']} · {p['titulo']}", "",
@@ -859,7 +906,7 @@ def materializar(c: Ciclo) -> None:
         rels = [x.strip() for x in (t[6] or "").split(";") if x.strip()]
         com_aresta = [r for r in rels if any(r in (a[0], a[2]) for a in arestas)]
         sem_arquivo = [r for r in rels if r not in c.fichas]
-        obras = [x for x in (t[5] or []) if not str(x).startswith("P")]
+        obras = [x for x in(t[5] or []) if not str(x).startswith("P")]
         secao = c.secao_limpa(cod)
         rebatidas = c.log_rebaixado.get(cod, [])
         L = [f"# {t[1]} — {cod}", "",
@@ -945,7 +992,9 @@ def virar_ficha(c: Ciclo) -> None:
 
 
 def status(c: Ciclo) -> None:
-    sel = [r for r in c.candidatas() if r["selecionada"]]
+    candidatas = c.candidatas()
+    sel = [r for r in candidatas if r["selecionada"]]
+    aprovadas = [r for r in sel if r["status"] == "aprovada"]
     print(f"ciclo {c.sigla} · config {os.path.relpath(c.toml, c.raiz)}")
     print(f"  fonte {os.path.relpath(c.fonte.caminho, c.raiz)}: {c.fonte.bytes:,} B · "
           f"{len(c.fonte.unidades)} unidades com fala".replace(",", "."))
@@ -955,7 +1004,10 @@ def status(c: Ciclo) -> None:
     print(f"  malha: {len(c.pacote.blocos)} codigo(s) a vincular - "
           f"{len([x for x in c.pacote.blocos if x in c.fichas])} fichas a ampliar - "
           f"{len([x for x in c.materializar if x not in c.fichas])} fichas a criar")
-    print(f"  caderno: {len(sel)} pérolas de {len(c.candidatas())} candidatas (teto {c.max_perolas})")
+    print(f"  caderno: {len(sel)} pérolas selecionadas de {len(candidatas)} candidatas · "
+          f"{len(aprovadas)} aprovada(s) (teto {c.max_perolas})")
+    if aprovadas:
+        print(f"  homologação: {c.homologacao_perolas}")
     print(f"  portões ativos {''.join(c.portoes_ativos)} · teto {c.teto} · baseline {c.baseline[:7]}")
     if c.vitorias:
         for cod, af, prova, ok in vitorias_do_ciclo(c):
@@ -1047,6 +1099,12 @@ def novo(txt: str, sigla: str = "") -> None:
             "termos = 0       # termos novos: só por pérola aprovada, com linha no §4 do dossiê",
             "relacoes = 0     # arestas novas: tipada + evidência + selo datado, ou nada",
             "vinculos = 0    # códigos que passam a carregar a sigla do ciclo na lista de fontes",
+            "",
+            "[perolas]",
+            "# IDs que receberam aprovação explícita do Curador; o Motor rejeita IDs repetidos,",
+            "# inexistentes ou fora do caderno selecionado. Sem aprovação, a lista permanece vazia.",
+            "aprovadas = []",
+            "homologacao = \"\"",
             "",
             "[materializar]",
             "codigos = []      # fichas a CRIAR (ordem do Curador; só com bloco no pacote)",
@@ -1157,11 +1215,11 @@ def fatias(c: Ciclo, largura: int = 15000) -> None:
 
 
 # ───────────────────────────────────────────────────────────────────────── selftest
-CASOS_SELFTEST = 9        # a régua é UMA: o `9/9` impresso e o código de saída vêm daqui
+CASOS_SELFTEST = 10       # a régua é UMA: o total impresso e o código de saída vêm daqui
 
 
 def selftest() -> int:
-    """As 9 anomalias canônicas da casa, plantadas numa fonte falsa. Cada portão tem de
+    """As anomalias canônicas da casa, plantadas numa fonte falsa. Cada portão tem de
     pegar a sua. Sem isto, 'menos código por ciclo' significa só 'menos freio'."""
     import tempfile
     print("SELFTEST · anomalias plantadas, todas têm de ser detectadas")
@@ -1240,6 +1298,17 @@ def selftest() -> int:
             "9 · a vitória declarada é conferida na seção da ficha (e um caractere reprova)",
             "`[vitorias]` deixaria o dossiê narrar uma vitória que a ficha não contém — o "
             "produto passaria a valer mais do que a prova")
+        pegou += 1
+        aprovadas = aprovacoes_declaradas({"PER-001", "PER-002"}, {"PER-001"},
+                                          ["PER-001"], "carimbo explícito")
+        try:
+            aprovacoes_declaradas({"PER-001"}, {"PER-001"}, ["PER-999"], "carimbo explícito")
+            id_alheio_barrado = False
+        except SystemExit:
+            id_alheio_barrado = True
+        chk(aprovadas == {"PER-001"} and id_alheio_barrado,
+            "10 · aprovação é declarativa e ID alheio é barrado antes do pouso",
+            "o carimbo curatorial aceitaria ID alheio ou não chegaria ao RAG/Base")
         pegou += 1
     print(f"  selftest: {pegou}/{CASOS_SELFTEST}")
     return pegou
@@ -1332,7 +1401,22 @@ def main() -> None:
 
 # ──────────────────────────── o ciclo leve sobre fichas que já existem, e a malha
 MARCACICLO = "**Materialização (não é criação).**"
-FONTE_LINHA = "| {sigla} | {titulo} (palestra) | — | transcrição automatizada; citação |"
+
+
+def linha_fonte_para_tabela(cabecalho: str, sigla: str, titulo: str) -> str:
+    """Molda a linha da fonte à aridade da tabela já existente na ficha.
+
+    Fichas históricas usam tanto tabelas de três quanto de quatro colunas em
+    ``## Fontes``. A linha do ciclo precisa respeitar o cabeçalho encontrado, sem
+    reformatar as fontes legadas nem produzir uma tabela Markdown malformada.
+    """
+    colunas = cabecalho.count("|") - 1
+    if colunas < 2:
+        raise ValueError(f"cabeçalho de fontes sem colunas suficientes: {cabecalho!r}")
+    campos = [sigla, f"{titulo} (palestra)"]
+    campos.extend("—" for _ in range(max(0, colunas - len(campos) - 1)))
+    campos.append("transcrição automatizada; citação")
+    return "| " + " | ".join(campos) + " |"
 
 
 def inscreve_fonte(txt: str, cod: str, sigla: str) -> tuple[str, str]:
@@ -1365,6 +1449,33 @@ def inscreve_fonte(txt: str, cod: str, sigla: str) -> tuple[str, str]:
     return "\n".join(linhas), mudou
 
 
+def sincronizar_frontmatter(c: Ciclo, codigos: list[str]) -> int:
+    """Espelha no frontmatter o cadastro que acabou de receber o vínculo do ciclo.
+
+    O cadastro é a fonte autoritativa de ``fontes``. Atualizar somente
+    ``dados_termos.py`` deixaria a ficha visualmente ampliada, mas quebraria a
+    paridade TOML ↔ cadastro; por isso a sincronização recompõe o envelope com o
+    mesmo molde ``fm_toml`` e preserva todo o corpo histórico da ficha.
+    """
+    hoje = datetime.date.today().isoformat()
+    sincronizadas = 0
+    for cod in codigos:
+        arq = c.fichas.get(cod)
+        if not arq:
+            continue
+        corpo = open(arq, encoding="utf-8").read()
+        if not corpo.startswith("+++\n"):
+            continue
+        fim = corpo.find("\n+++\n", 4)
+        if fim < 0:
+            sys.exit(f"{cod}: frontmatter não fechado; vínculo não pode desselar a ficha")
+        atualizado = fm_toml(c.base.termos[cod], hoje) + corpo[fim + 5:]
+        if atualizado != corpo:
+            open(arq, "w", encoding="utf-8").write(atualizado)
+            sincronizadas += 1
+    return sincronizadas
+
+
 def vincular(c: Ciclo) -> None:
     """Catálogo é vínculo: sem a sigla na lista de fontes do cadastro, a ampliação existe na
     ficha e não existe na malha — quem procura 'que fontes tocam RC-378' não acharia este
@@ -1380,9 +1491,10 @@ def vincular(c: Ciclo) -> None:
         open(caminho, "w", encoding="utf-8").write(txt)
         c.base = Base(c.raiz, c.sigla)                              # relê: a Base mudou de estado
     c.base = Base(c.raiz, c.sigla)
+    frontmatter = sincronizar_frontmatter(c, sorted(c.pacote.blocos))
     resumo = " · ".join(f"{k}: {v}" for k, v in sorted(estados.items()))
     chk(not estados.get("sem-linha") and not estados.get("sem-lista"),
-        f"vínculos do ciclo na malha — {resumo}",
+        f"vínculos do ciclo na malha — {resumo}; frontmatter sincronizado: {frontmatter}",
         f"não consegui vincular: " + "; ".join(
             f"{n} código(s) {k}" for k, n in estados.items() if k in ("sem-linha", "sem-lista")))
 
@@ -1416,19 +1528,33 @@ def ampliar(c: Ciclo) -> None:
                      else corpo.rstrip() + "\n\n" + secao)
             substituídas += 0
             novas += 0
-        # a tabela de Fontes da ficha também precisa ficar coerente com a seção que entrou
+        # A tabela de Fontes precisa ficar coerente com a seção que entrou. Há fichas
+        # legadas com aridades diferentes; a linha do ciclo é moldada pelo cabeçalho e
+        # também é corrigida idempotentemente se uma execução anterior a escreveu torta.
         secao_fontes = re.search(r"^## Fontes\s*$(.*?)(?=^## |\Z)", corpo, re.M | re.S)
-        if secao_fontes and f"| {c.sigla} |" not in secao_fontes.group(1) and f"{c.sigla}." not in secao_fontes.group(1):
-            i_fontes = corpo.index("## Fontes")
-            j = corpo.find("|---|", i_fontes)
-            if j >= 0:
-                linha = FONTE_LINHA.format(sigla=c.sigla, titulo=c.titulo)
-                k = corpo.index("\n", j)
-                corpo = corpo[:k + 1] + linha + corpo[k:]
-            else:
-                # `## Fontes` sem tabela markdown (prosa): acrescenta a sigla como linha de prosa
+        if secao_fontes:
+            linhas_fontes = [linha for linha in secao_fontes.group(1).splitlines() if linha.startswith("|")]
+            cabecalho = next((linha for linha in linhas_fontes if not re.fullmatch(r"\|[-:| ]+\|", linha)), None)
+            if cabecalho:
+                linha = linha_fonte_para_tabela(cabecalho, c.sigla, c.titulo)
+                padrao = rf"^\|\s*{re.escape(c.sigla)}\s*\|[^\n]*$"
+                if re.search(padrao, corpo, re.M):
+                    corpo = re.sub(padrao, linha, corpo, flags=re.M)
+                else:
+                    i_fontes = corpo.index("## Fontes")
+                    j = corpo.find("|---|", i_fontes)
+                    if j < 0:
+                        sys.exit(f"{cod}: tabela de Fontes sem régua Markdown")
+                    k = corpo.index("\n", j)
+                    corpo = corpo[:k + 1] + linha + "\n" + corpo[k + 1:]
+            elif f"{c.sigla}." not in secao_fontes.group(1):
+                # `## Fontes` sem tabela Markdown (prosa): acrescenta a sigla como prosa.
+                i_fontes = corpo.index("## Fontes")
                 k = corpo.index("\n", i_fontes)
                 corpo = corpo[:k + 1] + f"{c.sigla}.\n" + corpo[k + 1:]
+        # A seção é montada com separadores lógicos; no arquivo final há somente uma
+        # quebra de linha terminal, nunca uma linha em branco residual no EOF.
+        corpo = corpo.rstrip() + "\n"
         open(arq, "w", encoding="utf-8").write(corpo)
         assert f"## Ampliação — {c.sigla}" in corpo, f"{cod}: a seção não entrou na ficha"
         print(f"  · {cod}: seção do ciclo {'substituída (reexecução)' if m else 'inserida'} em "

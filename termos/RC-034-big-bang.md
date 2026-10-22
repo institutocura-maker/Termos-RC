@@ -5,10 +5,10 @@ nome = "Big Bang"
 categoria = "Conceitos Cosmológicos"
 subcategoria = "2.1 Cosmogonia / Criação"
 status = "em análise"
-fontes = ["B031", "B024", "P2025-03-15", "P2025-02-16", "P2025-02-15", "P2024-11-30", "P2024-11-09", "P2023-12-03"]
+fontes = ["B031", "B024", "P2025-03-15", "P2025-02-16", "P2025-02-15", "P2024-11-30", "P2024-11-09", "P2023-12-03", "STT26-EXTRATERRESTRES_TECNOLOGIA"]
 via = "P7-conhecimento"
 confianca_fonte = "baixa"
-atualizado = "2026-09-10"
+atualizado = "2026-10-22"
 +++
 # Big Bang — RC-034
 
@@ -26,10 +26,15 @@ A singularidade que criou o nosso universo — "teoria cosmológica sobre o dese
 | Fissão em Dois Universos (Matéria + Antimatéria) | RC-811 | associado |
 | Era do Colapso do Caos Organizado | RC-827 | associado |
 
+## Ampliação — STT26-EXTRATERRESTRES_TECNOLOGIA (Eixo STT26 — Extraterrestres, tecnologia e cosmos (derivados normalizados))
+
+- **[STT26-07 · Big Bang]** «Só que todas as estrelas que hoje existem surgiram a partir de quê? Do elemento químico hidrogênio, que se juntou em nuvens lá, logo após o Big Bang, que foi o único elemento que surgiu no universo, foi o hidrogênio.» (U0588 · chars 79701–79917) — Pérola homologada pelo Curador em 22/10/2026; corte literal conferido pelo Motor antes do pouso na Base.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| STT26-EXTRATERRESTRES_TECNOLOGIA | Eixo STT26 — Extraterrestres, tecnologia e cosmos (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | B031 | Painéis Emergentes da Revelação Cósmica — verbete "Big Bang: ...Grande Expansão..."; Ovo Cósmico chinês (P'an Ku/Yin/Yang) | livro impresso |
 | B024 | Epopeia dos Agentes da Vida Universal — reunião operativa mental; germinação cancerosa de Prabrajna | livro impresso |
 | P2025-02-16 | O Oitavo Dia da Criação — universos gêmeos; singularidade; autodestruição criadora | palestra/STT |

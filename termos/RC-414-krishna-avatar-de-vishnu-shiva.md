@@ -5,10 +5,10 @@ nome = "Krishna (avatar de Vishnu/Shiva)"
 categoria = "Seres & Entidades"
 subcategoria = "1.3 Extraterrestres / Raças cósmicas"
 status = "verificado"
-fontes = ["B051", "B023", "B036", "P2025-02-16", "P2024-11-30", "P2024-03-02", "P2023-12-02", "P2024-09-28", "P2025-11-29", "P2023-06-25", "P2023-05-20", "P2023-04-30", "P2023-10-14", "P2022-03-26", "P2023-12-03", "P2022-05-07", "P2024-06-16", "P2023-08-27", "P2022-11-26", "P2022-07-16"]
+fontes = ["B051", "B023", "B036", "P2025-02-16", "P2024-11-30", "P2024-03-02", "P2023-12-02", "P2024-09-28", "P2025-11-29", "P2023-06-25", "P2023-05-20", "P2023-04-30", "P2023-10-14", "P2022-03-26", "P2023-12-03", "P2022-05-07", "P2024-06-16", "P2023-08-27", "P2022-11-26", "P2022-07-16", "STT26-EXTRATERRESTRES_TECNOLOGIA"]
 via = "P6-evidência"
 confianca_fonte = "alta"
-atualizado = "2026-09-12"
+atualizado = "2026-10-22"
 +++
 # Krishna (avatar de Vishnu/Shiva) — RC-414
 
@@ -53,9 +53,14 @@ Avatar hindu — na RC, avatar de Vishnu (e correlacionado a Shiva), "pretenso K
 | Alexandre Magno (tirano sob influência de Lemion) | RC-850 | associado |
 | Sinarquia Cósmica (o governo dos sábios) | RC-873 | associado |
 
+## Ampliação — STT26-EXTRATERRESTRES_TECNOLOGIA (Eixo STT26 — Extraterrestres, tecnologia e cosmos (derivados normalizados))
+
+- **[STT26-07 · Krishna (avatar de Vishnu/Shiva)]** «Hoje, os seres que estão definindo essas questões, alguns nunca foram conhecidos da cultura dos encarnados, daqueles que os encarnados conheceram, tem Krishna, essa figura chamada Zeus, Shiva vai embora daqui a pouco, Sophia desse lado, e só.» (U0988 · chars 151519–151762) — Pérola homologada pelo Curador em 22/10/2026; corte literal conferido pelo Motor antes do pouso na Base.
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
+| STT26-EXTRATERRESTRES_TECNOLOGIA | Eixo STT26 — Extraterrestres, tecnologia e cosmos (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | P2024-03-17 | A Quem Pertence o Planeta e a Biblioteca Genômica Mais Atualizada do Universo (palestra) | transcrição automatizada; citação |
 | P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |
 

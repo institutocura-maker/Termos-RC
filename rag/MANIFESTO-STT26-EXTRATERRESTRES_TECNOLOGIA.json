@@ -4,6 +4,161 @@
  "politica": "apenas `status: aprovada` entra no corpus",
  "fonte": "ciclos/STT26-EXTRATERRESTRES_TECNOLOGIA/original.txt",
  "sha256_fonte": "e38588fcbd5897def1e7c4cff4f1a4966b5cf4f344bde3b8205c215b7e42acd0",
- "cards_total": 0,
- "cards": []
+ "cards_total": 22,
+ "cards": [
+  {
+   "id": "PER-STT26-EXTRATERRESTRES_TECNOLOGIA-001",
+   "arquivo": "rag/perolas/PER-STT26-EXTRATERRESTRES_TECNOLOGIA-001.md",
+   "sha256": "3b6c57946646668bbcd8940e49c6aa25046c65272d85a7692259be2bf60a201e",
+   "termo": "RC-002",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-EXTRATERRESTRES_TECNOLOGIA-002",
+   "arquivo": "rag/perolas/PER-STT26-EXTRATERRESTRES_TECNOLOGIA-002.md",
+   "sha256": "a2acceeeea243bbe2cfb1a0f1cf5befdb1f91efbbb30af6d96f192dc5342136c",
+   "termo": "RC-036",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-EXTRATERRESTRES_TECNOLOGIA-003",
+   "arquivo": "rag/perolas/PER-STT26-EXTRATERRESTRES_TECNOLOGIA-003.md",
+   "sha256": "de74c757a63051992fa1334fadc96b1e469c6e08593ffaabde07725c6c34da1f",
+   "termo": "RC-037",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-EXTRATERRESTRES_TECNOLOGIA-004",
+   "arquivo": "rag/perolas/PER-STT26-EXTRATERRESTRES_TECNOLOGIA-004.md",
+   "sha256": "3cfea0c1b1a6fc8f362d48ceec3580072f67e4829facc8fba97dd4cc6550f615",
+   "termo": "RC-162",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-EXTRATERRESTRES_TECNOLOGIA-005",
+   "arquivo": "rag/perolas/PER-STT26-EXTRATERRESTRES_TECNOLOGIA-005.md",
+   "sha256": "cdd33772e80b842ecf224706d5aeb57ae9214e4e4f6e4827f13878b5233b5cf5",
+   "termo": "RC-414",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-EXTRATERRESTRES_TECNOLOGIA-006",
+   "arquivo": "rag/perolas/PER-STT26-EXTRATERRESTRES_TECNOLOGIA-006.md",
+   "sha256": "8be5255b1f99e684c0fc140dca31a0ff75568b28e2d8d73449644aa40c25a701",
+   "termo": "RC-585",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-EXTRATERRESTRES_TECNOLOGIA-007",
+   "arquivo": "rag/perolas/PER-STT26-EXTRATERRESTRES_TECNOLOGIA-007.md",
+   "sha256": "13af118e82493c8295c944f61d4226397d4d8cf68b9471fe6ece43594d1ffa30",
+   "termo": "RC-593",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-EXTRATERRESTRES_TECNOLOGIA-008",
+   "arquivo": "rag/perolas/PER-STT26-EXTRATERRESTRES_TECNOLOGIA-008.md",
+   "sha256": "2377e85d76fbdb9cf863d43def4669422595a6fd4e6982a38cab01e9c971aff9",
+   "termo": "RC-841",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-EXTRATERRESTRES_TECNOLOGIA-009",
+   "arquivo": "rag/perolas/PER-STT26-EXTRATERRESTRES_TECNOLOGIA-009.md",
+   "sha256": "bae1481bb62f7c929ada18326effa241c2d650de8c351c808750b167c43664ec",
+   "termo": "RC-924",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-EXTRATERRESTRES_TECNOLOGIA-010",
+   "arquivo": "rag/perolas/PER-STT26-EXTRATERRESTRES_TECNOLOGIA-010.md",
+   "sha256": "43e02d8156fea3b3cb37fa06950875d538beeef5e09bf8968efdb448ee48f1ee",
+   "termo": "RC-009",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-EXTRATERRESTRES_TECNOLOGIA-011",
+   "arquivo": "rag/perolas/PER-STT26-EXTRATERRESTRES_TECNOLOGIA-011.md",
+   "sha256": "3cf4b49c7dda48765acec3a7b1dd3f64eb1bad6807381ce4088c65b98c111bd0",
+   "termo": "RC-024",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-EXTRATERRESTRES_TECNOLOGIA-012",
+   "arquivo": "rag/perolas/PER-STT26-EXTRATERRESTRES_TECNOLOGIA-012.md",
+   "sha256": "a6057bd78d9f6078bfe38718e174ac26c9c530e792228ed4e86778b011d7639b",
+   "termo": "RC-034",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-EXTRATERRESTRES_TECNOLOGIA-013",
+   "arquivo": "rag/perolas/PER-STT26-EXTRATERRESTRES_TECNOLOGIA-013.md",
+   "sha256": "70c0722b7ac0bf6288ad2171830cd953c08f57f0358314c4036af5b8e37be2ab",
+   "termo": "RC-078",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-EXTRATERRESTRES_TECNOLOGIA-014",
+   "arquivo": "rag/perolas/PER-STT26-EXTRATERRESTRES_TECNOLOGIA-014.md",
+   "sha256": "b5277c87fe7036c6c2d4b87b538b725d36ca64119a0069468cbf783820e4916b",
+   "termo": "RC-086",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-EXTRATERRESTRES_TECNOLOGIA-015",
+   "arquivo": "rag/perolas/PER-STT26-EXTRATERRESTRES_TECNOLOGIA-015.md",
+   "sha256": "c16a6add4998407594364e816c56e4303bd2646099194407ea940c5484475c46",
+   "termo": "RC-094",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-EXTRATERRESTRES_TECNOLOGIA-016",
+   "arquivo": "rag/perolas/PER-STT26-EXTRATERRESTRES_TECNOLOGIA-016.md",
+   "sha256": "1dcee35f93ce12464f2bf18c5ef190fa4c49345a26702249f30dddb738e7ffab",
+   "termo": "RC-102",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-EXTRATERRESTRES_TECNOLOGIA-017",
+   "arquivo": "rag/perolas/PER-STT26-EXTRATERRESTRES_TECNOLOGIA-017.md",
+   "sha256": "68b2dc61364ec7e9de8fa1991df280ca53d7398e7a108c04a51f2c656f9520a8",
+   "termo": "RC-108",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-EXTRATERRESTRES_TECNOLOGIA-018",
+   "arquivo": "rag/perolas/PER-STT26-EXTRATERRESTRES_TECNOLOGIA-018.md",
+   "sha256": "7479d0b677b875fb9fbec5363e0833b7aa23b3e3af0b862c3fba51c4a581a6c3",
+   "termo": "RC-135",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-EXTRATERRESTRES_TECNOLOGIA-019",
+   "arquivo": "rag/perolas/PER-STT26-EXTRATERRESTRES_TECNOLOGIA-019.md",
+   "sha256": "9b40b686ff9df350c83b539bdf88d17ad2c35a7322112892b28e1282478f2766",
+   "termo": "RC-166",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-EXTRATERRESTRES_TECNOLOGIA-020",
+   "arquivo": "rag/perolas/PER-STT26-EXTRATERRESTRES_TECNOLOGIA-020.md",
+   "sha256": "e5192231772b441e4004cdb2bba563dcfb560d4cf98d8e4eaf0d88e7819ea171",
+   "termo": "RC-355",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-EXTRATERRESTRES_TECNOLOGIA-021",
+   "arquivo": "rag/perolas/PER-STT26-EXTRATERRESTRES_TECNOLOGIA-021.md",
+   "sha256": "0f7348562f47647dc80fd1f594f1d501bd69bfb4358525c33cf6aca6d3f90ab4",
+   "termo": "RC-489",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-EXTRATERRESTRES_TECNOLOGIA-022",
+   "arquivo": "rag/perolas/PER-STT26-EXTRATERRESTRES_TECNOLOGIA-022.md",
+   "sha256": "9ce529d223d1f81844429037a8df60d1d704fa1c922246365ba1da414606dc45",
+   "termo": "RC-709",
+   "status": "aprovada"
+  }
+ ]
 }

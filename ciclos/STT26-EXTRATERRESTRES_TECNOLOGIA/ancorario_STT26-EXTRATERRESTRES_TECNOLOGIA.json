@@ -1,13 +1,15 @@
 {
  "sigla": "STT26-EXTRATERRESTRES_TECNOLOGIA",
- "politica_de_cobertura": "CICLO DE EIXO — EXTRATERRESTRES_TECNOLOGIA; lotes STT26-07; 19 transcrições STT normalizadas derivadas, consolidadas com manifesto de origem e seladas no original.txt. Abertura autorizada pela Curadoria após despacho integral. O ciclo inicia sem pérolas: cada eventual aspa deverá ser cortada do derivado consolidado e passar nos portões do Motor.",
+ "politica_de_cobertura": "CICLO DE EIXO — EXTRATERRESTRES_TECNOLOGIA; lotes STT26-07; 19 transcrições STT normalizadas derivadas, consolidadas com manifesto de origem e seladas no original.txt. Abertura autorizada pela Curadoria após despacho integral. As 22 candidatas extraídas foram homologadas pelo Curador em 22/10/2026; cada uma permanece sujeita aos portões do Motor antes do pouso na Base.",
  "fonte": "ciclos/STT26-EXTRATERRESTRES_TECNOLOGIA/original.txt",
  "sha256": "e38588fcbd5897def1e7c4cff4f1a4966b5cf4f344bde3b8205c215b7e42acd0",
  "bytes": 514357,
  "unidades_com_fala": 1534,
+ "homologacao_perolas": "Curador: as 22 candidatas do DOSSIE-RAG_STT26-EXTRATERRESTRES_TECNOLOGIA foram validadas e aprovadas explicitamente em 22/10/2026; autorizado o pouso nas fichas e nos vínculos.",
  "spans": [
   {
    "codigo": "RC-002",
+   "status": "aprovada",
    "u": "U0170",
    "chars": [
     21832,
@@ -19,6 +21,7 @@
   },
   {
    "codigo": "RC-009",
+   "status": "aprovada",
    "u": "U0820",
    "chars": [
     121069,
@@ -30,6 +33,7 @@
   },
   {
    "codigo": "RC-024",
+   "status": "aprovada",
    "u": "U0856",
    "chars": [
     127092,
@@ -41,6 +45,7 @@
   },
   {
    "codigo": "RC-034",
+   "status": "aprovada",
    "u": "U0588",
    "chars": [
     79701,
@@ -52,6 +57,7 @@
   },
   {
    "codigo": "RC-036",
+   "status": "aprovada",
    "u": "U0174",
    "chars": [
     22456,
@@ -63,6 +69,7 @@
   },
   {
    "codigo": "RC-037",
+   "status": "aprovada",
    "u": "U0164",
    "chars": [
     21145,
@@ -74,6 +81,7 @@
   },
   {
    "codigo": "RC-078",
+   "status": "aprovada",
    "u": "U2810",
    "chars": [
     467822,
@@ -85,6 +93,7 @@
   },
   {
    "codigo": "RC-086",
+   "status": "aprovada",
    "u": "U0606",
    "chars": [
     81757,
@@ -96,6 +105,7 @@
   },
   {
    "codigo": "RC-094",
+   "status": "aprovada",
    "u": "U0270",
    "chars": [
     35378,
@@ -107,6 +117,7 @@
   },
   {
    "codigo": "RC-102",
+   "status": "aprovada",
    "u": "U0166",
    "chars": [
     21444,
@@ -118,6 +129,7 @@
   },
   {
    "codigo": "RC-108",
+   "status": "aprovada",
    "u": "U0152",
    "chars": [
     19641,
@@ -129,6 +141,7 @@
   },
   {
    "codigo": "RC-135",
+   "status": "aprovada",
    "u": "U0166",
    "chars": [
     21444,
@@ -140,6 +153,7 @@
   },
   {
    "codigo": "RC-162",
+   "status": "aprovada",
    "u": "U1340",
    "chars": [
     203001,
@@ -151,6 +165,7 @@
   },
   {
    "codigo": "RC-166",
+   "status": "aprovada",
    "u": "U1408",
    "chars": [
     216829,
@@ -162,6 +177,7 @@
   },
   {
    "codigo": "RC-355",
+   "status": "aprovada",
    "u": "U1560",
    "chars": [
     239828,
@@ -173,6 +189,7 @@
   },
   {
    "codigo": "RC-414",
+   "status": "aprovada",
    "u": "U0988",
    "chars": [
     151520,
@@ -184,6 +201,7 @@
   },
   {
    "codigo": "RC-489",
+   "status": "aprovada",
    "u": "U0228",
    "chars": [
     26197,
@@ -195,6 +213,7 @@
   },
   {
    "codigo": "RC-585",
+   "status": "aprovada",
    "u": "U1974",
    "chars": [
     298832,
@@ -206,6 +225,7 @@
   },
   {
    "codigo": "RC-593",
+   "status": "aprovada",
    "u": "U1974",
    "chars": [
     298883,
@@ -217,6 +237,7 @@
   },
   {
    "codigo": "RC-709",
+   "status": "aprovada",
    "u": "U0358",
    "chars": [
     46325,
@@ -228,6 +249,7 @@
   },
   {
    "codigo": "RC-841",
+   "status": "aprovada",
    "u": "U2398",
    "chars": [
     391275,
@@ -239,6 +261,7 @@
   },
   {
    "codigo": "RC-924",
+   "status": "aprovada",
    "u": "U2928",
    "chars": [
     482422,
