@@ -2,6 +2,9 @@
 # substituições léxicas auditadas pelo normalizador dry-run. Os espaços finais e
 # CRLF existentes são proveniência da fonte, não estilo introduzido neste repo.
 normalizados_stt_dry_run/*.md whitespace=-trailing-space
+# A onda incremental é uma nova execução isolada sobre os mesmos seis brutos.
+# Seus derivados conservam integralmente CRLF/espaços herdados da fonte.
+onda_incremental_dry_run/derivados_normalizados/*.md whitespace=-trailing-space
 # O lote amplo segue a mesma regra: são cópias derivadas que retêm CRLF e
 # espaços finais dos brutos para preservar a procedência byte a byte.
 normalizados_stt_lote_2026-10/*.md whitespace=-trailing-space

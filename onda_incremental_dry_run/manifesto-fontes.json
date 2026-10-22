@@ -1,0 +1,123 @@
+{
+  "onda": "onda_incremental_dry_run",
+  "gerado_em": "2026-10-22",
+  "executor": "ferramentas/normalizar_onda_incremental_dry_run.py",
+  "origem": "uploads_recepcao/",
+  "escopo": "seis transcrições brutas seladas do piloto STT",
+  "fontes": [
+    {
+      "arquivo": "2024-07_005_L90vP0VFSTc_Enki_Enlil_e_o_Fim_Subito_da_Babilonia_-_PALESTRA_COMPLETA_Jan_Val_Ellam.md",
+      "caminho_fonte": "uploads_recepcao/2024-07_005_L90vP0VFSTc_Enki_Enlil_e_o_Fim_Subito_da_Babilonia_-_PALESTRA_COMPLETA_Jan_Val_Ellam.md",
+      "bytes_fonte": 140739,
+      "linhas": 511,
+      "sha256_fonte": "335a1b24cdcad1adb707e585c617a50dd277f550310abbbb35c328cf00d33134",
+      "metadados": {
+        "titulo": "Enki, Enlil e o Fim Súbito da Babilônia - PALESTRA COMPLETA (Jan Val Ellam)",
+        "data_publicacao_original": "2024-07-23",
+        "canal_autor": "Jan Val Ellam",
+        "id_youtube": "L90vP0VFSTc",
+        "link_original": "https://www.youtube.com/watch?v=L90vP0VFSTc",
+        "arquivo_fonte": "2024-07_005_L90vP0VFSTc_Enki_Enlil_e_o_Fim_Subito_da_Babilonia_-_PALESTRA_COMPLETA_Jan_Val_Ellam.opus",
+        "duracao": "03:27:17",
+        "data_transcricao": "2026-10-18 10:20:45",
+        "motor_neural": "faster-whisper large-v3 (FP16 / CUDA)",
+        "descricao": "|"
+      }
+    },
+    {
+      "arquivo": "2024-09_003_EbK2RfETyEM_Conspiracao_Demodharmica_-_Krishna_Jesus_e_Sai_Baba_-_PALESTRA_COMPLETA_Jan_Val_Ellam.md",
+      "caminho_fonte": "uploads_recepcao/2024-09_003_EbK2RfETyEM_Conspiracao_Demodharmica_-_Krishna_Jesus_e_Sai_Baba_-_PALESTRA_COMPLETA_Jan_Val_Ellam.md",
+      "bytes_fonte": 143949,
+      "linhas": 883,
+      "sha256_fonte": "d501d087d9113c91ee1cdf21b2ec7c1514252bc0acf69bf5881e988405f274fb",
+      "metadados": {
+        "titulo": "Conspiração Demodharmica: Krishna, Jesus e Sai Baba - PALESTRA COMPLETA (Jan Val Ellam)",
+        "data_publicacao_original": "2024-09-17",
+        "canal_autor": "Jan Val Ellam",
+        "id_youtube": "EbK2RfETyEM",
+        "link_original": "https://www.youtube.com/watch?v=EbK2RfETyEM",
+        "arquivo_fonte": "2024-09_003_EbK2RfETyEM_Conspiracao_Demodharmica_-_Krishna_Jesus_e_Sai_Baba_-_PALESTRA_COMPLETA_Jan_Val_Ellam.opus",
+        "duracao": "03:35:05",
+        "data_transcricao": "2026-10-17 17:53:57",
+        "motor_neural": "faster-whisper large-v3 (FP16 / CUDA)",
+        "descricao": "|"
+      }
+    },
+    {
+      "arquivo": "2025-07_002_lS8Bw-eaFYQ_A_Falencia_dos_Deuses_e_a_Destinacao_do_Lobo_-_PALESTRA_COMPLETA_Jan_Val_Ellam.md",
+      "caminho_fonte": "uploads_recepcao/2025-07_002_lS8Bw-eaFYQ_A_Falencia_dos_Deuses_e_a_Destinacao_do_Lobo_-_PALESTRA_COMPLETA_Jan_Val_Ellam.md",
+      "bytes_fonte": 158969,
+      "linhas": 891,
+      "sha256_fonte": "260115a68f01c5c5d7a7669b8756624d0f0c74af28a47f42b998d6a67ba5b812",
+      "metadados": {
+        "titulo": "A Falência dos Deuses e a Destinação do Lobo - PALESTRA COMPLETA (Jan Val Ellam)",
+        "data_publicacao_original": "2025-07-13",
+        "canal_autor": "Jan Val Ellam",
+        "id_youtube": "lS8Bw-eaFYQ",
+        "link_original": "https://www.youtube.com/watch?v=lS8Bw-eaFYQ",
+        "arquivo_fonte": "2025-07_002_lS8Bw-eaFYQ_A_Falencia_dos_Deuses_e_a_Destinacao_do_Lobo_-_PALESTRA_COMPLETA_Jan_Val_Ellam.opus",
+        "duracao": "03:47:35",
+        "data_transcricao": "2026-10-17 22:54:13",
+        "motor_neural": "faster-whisper large-v3 (FP16 / CUDA)",
+        "descricao": "|"
+      }
+    },
+    {
+      "arquivo": "2025-07_035_JDaxXjYGyu0_Direitos_e_Deveres_Espirituais_VSC_10.md",
+      "caminho_fonte": "uploads_recepcao/2025-07_035_JDaxXjYGyu0_Direitos_e_Deveres_Espirituais_VSC_10.md",
+      "bytes_fonte": 60537,
+      "linhas": 292,
+      "sha256_fonte": "4d6b32ef39504d28291d2e73f458c4af5a7fceaa220a74f037b11092dd4ca649",
+      "metadados": {
+        "titulo": "Direitos e Deveres Espirituais | VSC#10",
+        "data_publicacao_original": "2025-07-30",
+        "canal_autor": "Jan Val Ellam",
+        "id_youtube": "JDaxXjYGyu0",
+        "link_original": "https://www.youtube.com/watch?v=JDaxXjYGyu0",
+        "arquivo_fonte": "2025-07_035_JDaxXjYGyu0_Direitos_e_Deveres_Espirituais_VSC_10.opus",
+        "duracao": "01:25:43",
+        "data_transcricao": "2026-10-17 23:00:59",
+        "motor_neural": "faster-whisper large-v3 (FP16 / CUDA)",
+        "descricao": "|"
+      }
+    },
+    {
+      "arquivo": "2025-09_029_SzZtXArSltg_O_Quarto_Caminho_de_Gurdjieff_VSC_16.md",
+      "caminho_fonte": "uploads_recepcao/2025-09_029_SzZtXArSltg_O_Quarto_Caminho_de_Gurdjieff_VSC_16.md",
+      "bytes_fonte": 60746,
+      "linhas": 343,
+      "sha256_fonte": "8656437f5b36dbb7e12b947584dacb8690d0d96415cfd6312fe87b8825fb3246",
+      "metadados": {
+        "titulo": "O Quarto Caminho de Gurdjieff | VSC#16",
+        "data_publicacao_original": "2025-09-12",
+        "canal_autor": "Jan Val Ellam",
+        "id_youtube": "SzZtXArSltg",
+        "link_original": "https://www.youtube.com/watch?v=SzZtXArSltg",
+        "arquivo_fonte": "2025-09_029_SzZtXArSltg_O_Quarto_Caminho_de_Gurdjieff_VSC_16.opus",
+        "duracao": "01:35:10",
+        "data_transcricao": "2026-10-18 00:49:55",
+        "motor_neural": "faster-whisper large-v3 (FP16 / CUDA)",
+        "descricao": "|"
+      }
+    },
+    {
+      "arquivo": "2026-02_019_E2fBs7aocgU_O_Grande_Caminho_VSC_26.md",
+      "caminho_fonte": "uploads_recepcao/2026-02_019_E2fBs7aocgU_O_Grande_Caminho_VSC_26.md",
+      "bytes_fonte": 61775,
+      "linhas": 358,
+      "sha256_fonte": "9d7e52325e556d5508f930ac4be32967bd3acbf9bfec1ed82f7c3892a323c33f",
+      "metadados": {
+        "titulo": "O Grande Caminho | VSC#26",
+        "data_publicacao_original": "2026-02-04",
+        "canal_autor": "Jan Val Ellam",
+        "id_youtube": "E2fBs7aocgU",
+        "link_original": "https://www.youtube.com/watch?v=E2fBs7aocgU",
+        "arquivo_fonte": "2026-02_019_E2fBs7aocgU_O_Grande_Caminho_VSC_26.opus",
+        "duracao": "01:39:02",
+        "data_transcricao": "2026-10-18 02:43:21",
+        "motor_neural": "faster-whisper large-v3 (FP16 / CUDA)",
+        "descricao": "|"
+      }
+    }
+  ]
+}
