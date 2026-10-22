@@ -33,7 +33,7 @@
       "fundamento_curatorial": "Deliberação explícita do Curador: entidades cósmicas, titãs, eras e mecânicas estruturais da RC seguem ao cotejo; descartes cobrem figura histórica ou contemporânea usada como moldura narrativa e jargão sociológico sem peso cosmológico.",
       "decisao_por_lote": {
         "STT26-19": "DESCARTAR-DO-LOTE",
-        "STT26-20": "PENDENTE",
+        "STT26-20": "DESCARTAR-DO-LOTE",
         "STT26-21": "PENDENTE",
         "STT26-22": "PENDENTE",
         "STT26-23": "PENDENTE",
@@ -71,7 +71,7 @@
           "STT26-24-RC-072-016"
         ]
       },
-      "observacao": "Despacho restrito a STT26-19; demais lotes do eixo permanecem independentes e PENDENTES."
+      "observacao": "Decisões registradas por lote; STT26-21 a STT26-24 permanecem independentes e PENDENTES."
     },
     {
       "codigo": "RC-162",
@@ -81,7 +81,7 @@
       "fundamento_curatorial": "Deliberação explícita do Curador: entidades cósmicas, titãs, eras e mecânicas estruturais da RC seguem ao cotejo; descartes cobrem figura histórica ou contemporânea usada como moldura narrativa e jargão sociológico sem peso cosmológico.",
       "decisao_por_lote": {
         "STT26-19": "AUTORIZAR-COTEJO-AMPLIADO",
-        "STT26-20": "PENDENTE",
+        "STT26-20": "AUTORIZAR-COTEJO-AMPLIADO",
         "STT26-22": "PENDENTE",
         "STT26-23": "PENDENTE",
         "STT26-24": "PENDENTE"
@@ -109,7 +109,7 @@
           "STT26-24-RC-162-002"
         ]
       },
-      "observacao": "Despacho restrito a STT26-19; demais lotes do eixo permanecem independentes e PENDENTES."
+      "observacao": "Decisões registradas por lote; STT26-21 a STT26-24 permanecem independentes e PENDENTES."
     },
     {
       "codigo": "RC-301",
@@ -119,7 +119,7 @@
       "fundamento_curatorial": "Deliberação explícita do Curador: entidades cósmicas, titãs, eras e mecânicas estruturais da RC seguem ao cotejo; descartes cobrem figura histórica ou contemporânea usada como moldura narrativa e jargão sociológico sem peso cosmológico.",
       "decisao_por_lote": {
         "STT26-19": "AUTORIZAR-COTEJO-AMPLIADO",
-        "STT26-20": "PENDENTE",
+        "STT26-20": "AUTORIZAR-COTEJO-AMPLIADO",
         "STT26-21": "PENDENTE",
         "STT26-23": "PENDENTE",
         "STT26-24": "PENDENTE"
@@ -142,7 +142,7 @@
           "STT26-24-RC-301-054"
         ]
       },
-      "observacao": "Despacho restrito a STT26-19; demais lotes do eixo permanecem independentes e PENDENTES."
+      "observacao": "Decisões registradas por lote; STT26-21 a STT26-24 permanecem independentes e PENDENTES."
     },
     {
       "codigo": "RC-037",
@@ -187,9 +187,9 @@
       "nome": "Revelação Cósmica (conceito)",
       "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
       "decisao_eixo": "PENDENTE",
-      "fundamento_curatorial": "",
+      "fundamento_curatorial": "Deliberação explícita do Curador: entidades, processos genéticos e conceitos estruturais exclusivos da RC seguem ao cotejo; descartes cobrem figura histórica ou bíblica, plataforma ou marca, e jargão sociológico ou espiritual genérico.",
       "decisao_por_lote": {
-        "STT26-20": "PENDENTE",
+        "STT26-20": "AUTORIZAR-COTEJO-AMPLIADO",
         "STT26-21": "PENDENTE",
         "STT26-24": "PENDENTE"
       },
@@ -210,7 +210,7 @@
           "STT26-24-RC-094-012"
         ]
       },
-      "observacao": ""
+      "observacao": "Decisões registradas por lote; STT26-21 a STT26-24 permanecem independentes e PENDENTES."
     },
     {
       "codigo": "RC-414",
@@ -259,7 +259,7 @@
       "fundamento_curatorial": "Deliberação explícita do Curador: entidades cósmicas, titãs, eras e mecânicas estruturais da RC seguem ao cotejo; descartes cobrem figura histórica ou contemporânea usada como moldura narrativa e jargão sociológico sem peso cosmológico.",
       "decisao_por_lote": {
         "STT26-19": "AUTORIZAR-COTEJO-AMPLIADO",
-        "STT26-20": "PENDENTE",
+        "STT26-20": "AUTORIZAR-COTEJO-AMPLIADO",
         "STT26-23": "PENDENTE",
         "STT26-24": "PENDENTE"
       },
@@ -282,7 +282,7 @@
           "STT26-24-RC-306-006"
         ]
       },
-      "observacao": "Despacho restrito a STT26-19; demais lotes do eixo permanecem independentes e PENDENTES."
+      "observacao": "Decisões registradas por lote; STT26-21 a STT26-24 permanecem independentes e PENDENTES."
     },
     {
       "codigo": "RC-009",
@@ -331,7 +331,7 @@
       "fundamento_curatorial": "Deliberação explícita do Curador: entidades cósmicas, titãs, eras e mecânicas estruturais da RC seguem ao cotejo; descartes cobrem figura histórica ou contemporânea usada como moldura narrativa e jargão sociológico sem peso cosmológico.",
       "decisao_por_lote": {
         "STT26-19": "AUTORIZAR-COTEJO-AMPLIADO",
-        "STT26-20": "PENDENTE",
+        "STT26-20": "AUTORIZAR-COTEJO-AMPLIADO",
         "STT26-22": "PENDENTE",
         "STT26-24": "PENDENTE"
       },
@@ -353,7 +353,7 @@
           "STT26-24-RC-086-006"
         ]
       },
-      "observacao": "Despacho restrito a STT26-19; demais lotes do eixo permanecem independentes e PENDENTES."
+      "observacao": "Decisões registradas por lote; STT26-21 a STT26-24 permanecem independentes e PENDENTES."
     },
     {
       "codigo": "RC-102",
@@ -396,9 +396,9 @@
       "nome": "Mentalma",
       "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
       "decisao_eixo": "PENDENTE",
-      "fundamento_curatorial": "",
+      "fundamento_curatorial": "Deliberação explícita do Curador: entidades, processos genéticos e conceitos estruturais exclusivos da RC seguem ao cotejo; descartes cobrem figura histórica ou bíblica, plataforma ou marca, e jargão sociológico ou espiritual genérico.",
       "decisao_por_lote": {
-        "STT26-20": "PENDENTE",
+        "STT26-20": "AUTORIZAR-COTEJO-AMPLIADO",
         "STT26-21": "PENDENTE",
         "STT26-22": "PENDENTE",
         "STT26-23": "PENDENTE"
@@ -423,7 +423,7 @@
           "STT26-23-RC-166-006"
         ]
       },
-      "observacao": ""
+      "observacao": "Decisões registradas por lote; STT26-21 a STT26-24 permanecem independentes e PENDENTES."
     },
     {
       "codigo": "RC-474",
@@ -480,7 +480,7 @@
       "fundamento_curatorial": "Deliberação explícita do Curador: entidades cósmicas, titãs, eras e mecânicas estruturais da RC seguem ao cotejo; descartes cobrem figura histórica ou contemporânea usada como moldura narrativa e jargão sociológico sem peso cosmológico.",
       "decisao_por_lote": {
         "STT26-19": "AUTORIZAR-COTEJO-AMPLIADO",
-        "STT26-20": "PENDENTE",
+        "STT26-20": "AUTORIZAR-COTEJO-AMPLIADO",
         "STT26-24": "PENDENTE"
       },
       "evidencias_disponiveis": {
@@ -495,7 +495,7 @@
           "STT26-24-RC-841-005"
         ]
       },
-      "observacao": "Despacho restrito a STT26-19; demais lotes do eixo permanecem independentes e PENDENTES."
+      "observacao": "Decisões registradas por lote; STT26-21 a STT26-24 permanecem independentes e PENDENTES."
     },
     {
       "codigo": "RC-135",
@@ -527,9 +527,9 @@
       "nome": "Biodemos",
       "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
       "decisao_eixo": "PENDENTE",
-      "fundamento_curatorial": "",
+      "fundamento_curatorial": "Deliberação explícita do Curador: entidades, processos genéticos e conceitos estruturais exclusivos da RC seguem ao cotejo; descartes cobrem figura histórica ou bíblica, plataforma ou marca, e jargão sociológico ou espiritual genérico.",
       "decisao_por_lote": {
-        "STT26-20": "PENDENTE",
+        "STT26-20": "AUTORIZAR-COTEJO-AMPLIADO",
         "STT26-22": "PENDENTE",
         "STT26-23": "PENDENTE",
         "STT26-24": "PENDENTE"
@@ -549,7 +549,7 @@
           "STT26-24-RC-036-002"
         ]
       },
-      "observacao": ""
+      "observacao": "Decisões registradas por lote; STT26-21 a STT26-24 permanecem independentes e PENDENTES."
     },
     {
       "codigo": "RC-104",
@@ -617,7 +617,7 @@
       "fundamento_curatorial": "Deliberação explícita do Curador: entidades cósmicas, titãs, eras e mecânicas estruturais da RC seguem ao cotejo; descartes cobrem figura histórica ou contemporânea usada como moldura narrativa e jargão sociológico sem peso cosmológico.",
       "decisao_por_lote": {
         "STT26-19": "AUTORIZAR-COTEJO-AMPLIADO",
-        "STT26-20": "PENDENTE",
+        "STT26-20": "AUTORIZAR-COTEJO-AMPLIADO",
         "STT26-21": "PENDENTE"
       },
       "evidencias_disponiveis": {
@@ -633,7 +633,7 @@
           "STT26-21-RC-056-001"
         ]
       },
-      "observacao": "Despacho restrito a STT26-19; demais lotes do eixo permanecem independentes e PENDENTES."
+      "observacao": "Decisões registradas por lote; STT26-21 a STT26-24 permanecem independentes e PENDENTES."
     },
     {
       "codigo": "RC-193",
@@ -643,7 +643,7 @@
       "fundamento_curatorial": "Deliberação explícita do Curador: entidades cósmicas, titãs, eras e mecânicas estruturais da RC seguem ao cotejo; descartes cobrem figura histórica ou contemporânea usada como moldura narrativa e jargão sociológico sem peso cosmológico.",
       "decisao_por_lote": {
         "STT26-19": "DESCARTAR-DO-LOTE",
-        "STT26-20": "PENDENTE"
+        "STT26-20": "DESCARTAR-DO-LOTE"
       },
       "evidencias_disponiveis": {
         "STT26-19": [
@@ -656,7 +656,7 @@
           "STT26-20-RC-193-007"
         ]
       },
-      "observacao": "Despacho restrito a STT26-19; demais lotes do eixo permanecem independentes e PENDENTES."
+      "observacao": "Decisões registradas por lote; STT26-21 a STT26-24 permanecem independentes e PENDENTES."
     },
     {
       "codigo": "RC-303",
@@ -683,9 +683,9 @@
       "nome": "Atlan",
       "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
       "decisao_eixo": "PENDENTE",
-      "fundamento_curatorial": "",
+      "fundamento_curatorial": "Deliberação explícita do Curador: entidades, processos genéticos e conceitos estruturais exclusivos da RC seguem ao cotejo; descartes cobrem figura histórica ou bíblica, plataforma ou marca, e jargão sociológico ou espiritual genérico.",
       "decisao_por_lote": {
-        "STT26-20": "PENDENTE",
+        "STT26-20": "DESCARTAR-DO-LOTE",
         "STT26-21": "PENDENTE"
       },
       "evidencias_disponiveis": {
@@ -700,16 +700,16 @@
           "STT26-21-RC-028-005"
         ]
       },
-      "observacao": ""
+      "observacao": "Decisões registradas por lote; STT26-21 a STT26-24 permanecem independentes e PENDENTES."
     },
     {
       "codigo": "RC-085",
       "nome": "Orbum",
       "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
       "decisao_eixo": "PENDENTE",
-      "fundamento_curatorial": "",
+      "fundamento_curatorial": "Deliberação explícita do Curador: entidades, processos genéticos e conceitos estruturais exclusivos da RC seguem ao cotejo; descartes cobrem figura histórica ou bíblica, plataforma ou marca, e jargão sociológico ou espiritual genérico.",
       "decisao_por_lote": {
-        "STT26-20": "PENDENTE",
+        "STT26-20": "DESCARTAR-DO-LOTE",
         "STT26-21": "PENDENTE",
         "STT26-23": "PENDENTE"
       },
@@ -727,7 +727,7 @@
           "STT26-23-RC-085-002"
         ]
       },
-      "observacao": ""
+      "observacao": "Decisões registradas por lote; STT26-21 a STT26-24 permanecem independentes e PENDENTES."
     },
     {
       "codigo": "RC-239",
@@ -737,7 +737,7 @@
       "fundamento_curatorial": "Deliberação explícita do Curador: entidades cósmicas, titãs, eras e mecânicas estruturais da RC seguem ao cotejo; descartes cobrem figura histórica ou contemporânea usada como moldura narrativa e jargão sociológico sem peso cosmológico.",
       "decisao_por_lote": {
         "STT26-19": "DESCARTAR-DO-LOTE",
-        "STT26-20": "PENDENTE",
+        "STT26-20": "DESCARTAR-DO-LOTE",
         "STT26-22": "PENDENTE",
         "STT26-24": "PENDENTE"
       },
@@ -758,7 +758,7 @@
           "STT26-24-RC-239-005"
         ]
       },
-      "observacao": "Despacho restrito a STT26-19; demais lotes do eixo permanecem independentes e PENDENTES."
+      "observacao": "Decisões registradas por lote; STT26-21 a STT26-24 permanecem independentes e PENDENTES."
     },
     {
       "codigo": "RC-854",
@@ -873,9 +873,9 @@
       "nome": "Transumanismo (o ponto de reencontro: IA humanizada e o novo batimento)",
       "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
       "decisao_eixo": "PENDENTE",
-      "fundamento_curatorial": "",
+      "fundamento_curatorial": "Deliberação explícita do Curador: entidades, processos genéticos e conceitos estruturais exclusivos da RC seguem ao cotejo; descartes cobrem figura histórica ou bíblica, plataforma ou marca, e jargão sociológico ou espiritual genérico.",
       "decisao_por_lote": {
-        "STT26-20": "PENDENTE",
+        "STT26-20": "AUTORIZAR-COTEJO-AMPLIADO",
         "STT26-21": "PENDENTE"
       },
       "evidencias_disponiveis": {
@@ -888,7 +888,7 @@
           "STT26-21-RC-874-005"
         ]
       },
-      "observacao": ""
+      "observacao": "Decisões registradas por lote; STT26-21 a STT26-24 permanecem independentes e PENDENTES."
     },
     {
       "codigo": "RC-095",
@@ -1036,9 +1036,9 @@
       "nome": "Espiritualidade Superior",
       "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
       "decisao_eixo": "PENDENTE",
-      "fundamento_curatorial": "",
+      "fundamento_curatorial": "Deliberação explícita do Curador: entidades, processos genéticos e conceitos estruturais exclusivos da RC seguem ao cotejo; descartes cobrem figura histórica ou bíblica, plataforma ou marca, e jargão sociológico ou espiritual genérico.",
       "decisao_por_lote": {
-        "STT26-20": "PENDENTE",
+        "STT26-20": "DESCARTAR-DO-LOTE",
         "STT26-23": "PENDENTE"
       },
       "evidencias_disponiveis": {
@@ -1050,7 +1050,7 @@
           "STT26-23-RC-059-004"
         ]
       },
-      "observacao": ""
+      "observacao": "Decisões registradas por lote; STT26-21 a STT26-24 permanecem independentes e PENDENTES."
     },
     {
       "codigo": "RC-190",
@@ -1122,9 +1122,9 @@
       "nome": "Dominação (premissa dos Três Primeiros Logos)",
       "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
       "decisao_eixo": "PENDENTE",
-      "fundamento_curatorial": "",
+      "fundamento_curatorial": "Deliberação explícita do Curador: entidades, processos genéticos e conceitos estruturais exclusivos da RC seguem ao cotejo; descartes cobrem figura histórica ou bíblica, plataforma ou marca, e jargão sociológico ou espiritual genérico.",
       "decisao_por_lote": {
-        "STT26-20": "PENDENTE",
+        "STT26-20": "AUTORIZAR-COTEJO-AMPLIADO",
         "STT26-21": "PENDENTE"
       },
       "evidencias_disponiveis": {
@@ -1135,7 +1135,7 @@
           "STT26-21-RC-254-001"
         ]
       },
-      "observacao": ""
+      "observacao": "Decisões registradas por lote; STT26-21 a STT26-24 permanecem independentes e PENDENTES."
     },
     {
       "codigo": "RC-297",
@@ -1158,9 +1158,9 @@
       "nome": "Egrégora (circuito dos elétrons rebeldes)",
       "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
       "decisao_eixo": "PENDENTE",
-      "fundamento_curatorial": "",
+      "fundamento_curatorial": "Deliberação explícita do Curador: entidades, processos genéticos e conceitos estruturais exclusivos da RC seguem ao cotejo; descartes cobrem figura histórica ou bíblica, plataforma ou marca, e jargão sociológico ou espiritual genérico.",
       "decisao_por_lote": {
-        "STT26-20": "PENDENTE",
+        "STT26-20": "AUTORIZAR-COTEJO-AMPLIADO",
         "STT26-22": "PENDENTE"
       },
       "evidencias_disponiveis": {
@@ -1171,7 +1171,7 @@
           "STT26-22-RC-385-001"
         ]
       },
-      "observacao": ""
+      "observacao": "Decisões registradas por lote; STT26-21 a STT26-24 permanecem independentes e PENDENTES."
     },
     {
       "codigo": "RC-529",
@@ -1227,9 +1227,9 @@
       "nome": "Capela (Sistema)",
       "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
       "decisao_eixo": "PENDENTE",
-      "fundamento_curatorial": "",
+      "fundamento_curatorial": "Deliberação explícita do Curador: entidades, processos genéticos e conceitos estruturais exclusivos da RC seguem ao cotejo; descartes cobrem figura histórica ou bíblica, plataforma ou marca, e jargão sociológico ou espiritual genérico.",
       "decisao_por_lote": {
-        "STT26-20": "PENDENTE",
+        "STT26-20": "AUTORIZAR-COTEJO-AMPLIADO",
         "STT26-23": "PENDENTE"
       },
       "evidencias_disponiveis": {
@@ -1240,7 +1240,7 @@
           "STT26-23-RC-039-001"
         ]
       },
-      "observacao": ""
+      "observacao": "Decisões registradas por lote; STT26-21 a STT26-24 permanecem independentes e PENDENTES."
     },
     {
       "codigo": "RC-152",
@@ -1329,16 +1329,16 @@
       "nome": "Mentalidade Comum (o contágio do rebanho)",
       "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
       "decisao_eixo": "PENDENTE",
-      "fundamento_curatorial": "",
+      "fundamento_curatorial": "Deliberação explícita do Curador: entidades, processos genéticos e conceitos estruturais exclusivos da RC seguem ao cotejo; descartes cobrem figura histórica ou bíblica, plataforma ou marca, e jargão sociológico ou espiritual genérico.",
       "decisao_por_lote": {
-        "STT26-20": "PENDENTE"
+        "STT26-20": "DESCARTAR-DO-LOTE"
       },
       "evidencias_disponiveis": {
         "STT26-20": [
           "STT26-20-RC-869-001"
         ]
       },
-      "observacao": ""
+      "observacao": "Decisões registradas por lote; STT26-21 a STT26-24 permanecem independentes e PENDENTES."
     },
     {
       "codigo": "RC-870",
@@ -1426,16 +1426,16 @@
       "nome": "Cidadão Cósmico",
       "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
       "decisao_eixo": "PENDENTE",
-      "fundamento_curatorial": "",
+      "fundamento_curatorial": "Deliberação explícita do Curador: entidades, processos genéticos e conceitos estruturais exclusivos da RC seguem ao cotejo; descartes cobrem figura histórica ou bíblica, plataforma ou marca, e jargão sociológico ou espiritual genérico.",
       "decisao_por_lote": {
-        "STT26-20": "PENDENTE"
+        "STT26-20": "DESCARTAR-DO-LOTE"
       },
       "evidencias_disponiveis": {
         "STT26-20": [
           "STT26-20-RC-226-001"
         ]
       },
-      "observacao": ""
+      "observacao": "Decisões registradas por lote; STT26-21 a STT26-24 permanecem independentes e PENDENTES."
     },
     {
       "codigo": "RC-487",
@@ -1538,25 +1538,25 @@
       "nome": "Livre-arbítrio",
       "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
       "decisao_eixo": "PENDENTE",
-      "fundamento_curatorial": "",
+      "fundamento_curatorial": "Deliberação explícita do Curador: entidades, processos genéticos e conceitos estruturais exclusivos da RC seguem ao cotejo; descartes cobrem figura histórica ou bíblica, plataforma ou marca, e jargão sociológico ou espiritual genérico.",
       "decisao_por_lote": {
-        "STT26-20": "PENDENTE"
+        "STT26-20": "DESCARTAR-DO-LOTE"
       },
       "evidencias_disponiveis": {
         "STT26-20": [
           "STT26-20-RC-938-001"
         ]
       },
-      "observacao": ""
+      "observacao": "Decisões registradas por lote; STT26-21 a STT26-24 permanecem independentes e PENDENTES."
     },
     {
       "codigo": "RC-945",
       "nome": "Pedro (apóstolo)",
       "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
       "decisao_eixo": "PENDENTE",
-      "fundamento_curatorial": "",
+      "fundamento_curatorial": "Deliberação explícita do Curador: entidades, processos genéticos e conceitos estruturais exclusivos da RC seguem ao cotejo; descartes cobrem figura histórica ou bíblica, plataforma ou marca, e jargão sociológico ou espiritual genérico.",
       "decisao_por_lote": {
-        "STT26-20": "PENDENTE"
+        "STT26-20": "DESCARTAR-DO-LOTE"
       },
       "evidencias_disponiveis": {
         "STT26-20": [
@@ -1564,47 +1564,48 @@
           "STT26-20-RC-945-002"
         ]
       },
-      "observacao": ""
+      "observacao": "Decisões registradas por lote; STT26-21 a STT26-24 permanecem independentes e PENDENTES."
     },
     {
       "codigo": "RC-024",
       "nome": "Anunnaki",
       "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
       "decisao_eixo": "PENDENTE",
-      "fundamento_curatorial": "",
+      "fundamento_curatorial": "Deliberação explícita do Curador: entidades, processos genéticos e conceitos estruturais exclusivos da RC seguem ao cotejo; descartes cobrem figura histórica ou bíblica, plataforma ou marca, e jargão sociológico ou espiritual genérico.",
       "decisao_por_lote": {
-        "STT26-20": "PENDENTE"
+        "STT26-20": "AUTORIZAR-COTEJO-AMPLIADO"
       },
       "evidencias_disponiveis": {
         "STT26-20": [
           "STT26-20-RC-024-001"
         ]
       },
-      "observacao": ""
+      "observacao": "Decisões registradas por lote; STT26-21 a STT26-24 permanecem independentes e PENDENTES."
     },
     {
       "codigo": "RC-061",
       "nome": "Espiritualidade Laboratorial",
       "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
       "decisao_eixo": "PENDENTE",
-      "fundamento_curatorial": "",
+      "fundamento_curatorial": "Deliberação explícita do Curador: entidades, processos genéticos e conceitos estruturais exclusivos da RC seguem ao cotejo; descartes cobrem figura histórica ou bíblica, plataforma ou marca, e jargão sociológico ou espiritual genérico.",
       "decisao_por_lote": {
-        "STT26-20": "PENDENTE"
+        "STT26-20": "AUTORIZAR-COTEJO-AMPLIADO"
       },
       "evidencias_disponiveis": {
         "STT26-20": [
           "STT26-20-RC-061-001"
         ]
       },
-      "observacao": ""
+      "observacao": "Decisões registradas por lote; STT26-21 a STT26-24 permanecem independentes e PENDENTES."
     }
   ],
   "despacho_de_eixo": {
     "resultado": "PENDENTE",
     "lotes_autorizados_para_cotejo_ampliado": [
-      "STT26-19"
+      "STT26-19",
+      "STT26-20"
     ],
     "autorizacao_para_abrir_ciclo": false,
-    "observacao": "Despacho parcial: STT26-19 deliberado sob filtro de relevância doutrinária. STT26-20 a STT26-24 permanecem integralmente PENDENTES. Sem autorização para abrir ciclo."
+    "observacao": "Despacho parcial: STT26-19 e STT26-20 deliberados sob filtro de relevância doutrinária. STT26-21 a STT26-24 permanecem integralmente PENDENTES. Sem autorização para abrir ciclo."
   }
 }
