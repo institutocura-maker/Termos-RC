@@ -14,11 +14,11 @@ sha256_fonte = "41a3a5d96c89a89e361f6415b2adbdff9a9eb398357f92b284c864d8ea475caf
 
 baseline_commit = "c3d214b"   # HEAD de onde o ciclo partiu; o portão D mede DELTA
 portoes_ativos = ["A", "B", "C", "D"]
-max_perolas = 25
+max_perolas = 53  # Curador confirmou o cotejo dos 53 códigos com autorização vigente; 11 descartes permanecem fora.
 exportar_candidatas = false       # true só em ensaio declarado: o portão real é `aprovada`
 
-cobertura = "CICLO DE EIXO — EXPERIENCIA_ESPIRITUAL_ETICA; lotes STT26-08, STT26-09, STT26-10, STT26-11, STT26-12; 86 transcrições STT normalizadas derivadas, consolidadas com manifesto de origem e seladas no original.txt. Abertura autorizada pela Curadoria após despacho integral. O ciclo inicia sem pérolas: cada eventual aspa deverá ser cortada do derivado consolidado e passar nos portões do Motor."
-teto = "cotejo-autorizado; pérolas ainda dependem de âncoras e portões"
+cobertura = "CICLO DE EIXO — EXPERIENCIA_ESPIRITUAL_ETICA; lotes STT26-08, STT26-09, STT26-10, STT26-11, STT26-12; 86 transcrições STT normalizadas derivadas, consolidadas com manifesto de origem e seladas no original.txt. Abertura autorizada pela Curadoria após despacho integral. O cotejo cobre os 53 códigos com AUTORIZAR-COTEJO-AMPLIADO; os 11 códigos exclusivamente descartados permanecem fora do pacote. Cada eventual aspa deverá ser cortada do derivado consolidado e passar nos portões do Motor."
+teto = "cotejo-autorizado para 53 códigos; pérolas ainda dependem de aprovação curatorial e portões"
 termos_novos = []
 veto_lexico = ["p****", "m****", "b******", "e******"]
 fichas_que_nomeiam_grupo = []

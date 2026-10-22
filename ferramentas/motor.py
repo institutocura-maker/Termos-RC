@@ -306,6 +306,28 @@ class Fonte:
         b = self._fim_frase(self.mapa[min(m.end() - 1, len(self.mapa) - 1)])
         return True, a, b
 
+    def intervalo_ingresso(self, ingresso: str) -> tuple[int, int]:
+        """Delimita o payload de um derivado dentro da composição selada do ciclo.
+
+        A mesma fala pode aparecer em dois derivados. Nesse caso, o ingresso já
+        registrado no dossiê de triagem é a desambiguação auditável: a busca segue
+        byte a byte no ``original.txt`` consolidado, mas nunca escolhe silenciosamente
+        entre ocorrências idênticas de fontes diferentes.
+        """
+        cabecalho = re.compile(
+            rf"^===== INÍCIO FONTE \d+ · {re.escape(ingresso)} · [^\n]+ =====\n"
+            r"(?:[^\n]*\n){4}===== CONTEÚDO DERIVADO BYTE-A-BYTE =====\n",
+            re.M,
+        )
+        achados = list(cabecalho.finditer(self.raw))
+        if len(achados) != 1:
+            raise SystemExit(f"INGRESSO {ingresso!r} → {len(achados)} bloco(s) no original consolidado")
+        inicio = achados[0].end()
+        fim = re.search(rf"^===== FIM FONTE \d+ · {re.escape(ingresso)} =====$", self.raw[inicio:], re.M)
+        if not fim:
+            raise SystemExit(f"INGRESSO {ingresso!r}: marcador final ausente no original consolidado")
+        return inicio, inicio + fim.start()
+
     def localizar(self, ancora: str, fim: str | None = None) -> tuple[int, int, str]:
         """Garimpo: âncora frouxa → span exato estendido à fronteira de frase.
         0 ou >1 ocorrência aborta; é assim que o motor se protege da memória alheia."""
@@ -325,7 +347,7 @@ class Fonte:
 
 # ────────────────────────────────────────────────────────────────────────── pacote
 ASP = re.compile("«(.+?)»", re.S)
-UBLOCO = re.compile(r"\((U\d{4})")
+UBLOCO = re.compile(r"\((U\d+)")  # consolidado pode ultrapassar U9999
 
 
 class Pacote:
@@ -1159,26 +1181,34 @@ def novo(txt: str, sigla: str = "") -> None:
           "leitura integral com `fatias`, aspas cortadas com `busca`, portões com `tudo`")
 
 
-def busca(c: Ciclo, termo: str, limite: int = 20) -> None:
+def busca(c: Ciclo, termo: str, limite: int = 20, ingresso: str = "") -> None:
     """Corta a aspa em vez de deixá-la digitada: para cada ocorrência do termo, imprime o
     período verbatim com endereço — o que se cola no pacote é o que o motor acabou de tirar
     do bruto, e o portão B confere outra vez na saída. Nenhuma aspa digitada à mão significa
-    isto, não «prometo transcrever certo»."""
+    isto, não «prometo transcrever certo».
+
+    ``ingresso`` é opcional e só estreita a busca ao payload daquele derivado no mesmo
+    ``original.txt``. Ele resolve duplicata literal entre fontes sem abrir fonte externa.
+    """
     if not termo:
         sys.exit("busca pede a expressão-âncora: --ciclo <SIGLA> busca \"trecho do bruto\"")
     f = c.fonte
-    achados = [m.start() for m in re.finditer(re.escape(termo), f.raw, re.I)]
+    ini, fim = f.intervalo_ingresso(ingresso) if ingresso else (0, len(f.raw))
+    achados = [ini + m.start() for m in re.finditer(re.escape(termo), f.raw[ini:fim], re.I)]
+    escopo = f" no ingresso {ingresso}" if ingresso else ""
     if not achados:
-        sys.exit(f"busca: {termo!r} não ocorre no bruto — âncora inventada é o que a casa mais "
+        sys.exit(f"busca: {termo!r} não ocorre no bruto{escopo} — âncora inventada é o que a casa mais "
                  f"teme; confira a grafia que o STT escreveu (`fatias` mostra o que existe)")
     for n, i in enumerate(achados[:limite], 1):
         a = i
-        while a > 0 and f.raw[a - 1] != "\n" and not FRASE.search(f.raw[a - 1]):
+        while a > ini and f.raw[a - 1] != "\n" and not FRASE.search(f.raw[a - 1]):
             a -= 1
         b = i + len(termo)
-        while b < len(f.raw) and not FRASE.search(f.raw[b - 1]):
+        while b < fim and not FRASE.search(f.raw[b - 1]):
             b += 1
         span = " ".join(f.raw[a:b].split())
+        # A checagem do pacote é global; esta ainda prova que o recorte impresso vem do
+        # trecho delimitado do original quando a mesma fala ocorre em outro ingresso.
         ok, _, _ = f.verificar(span)
         print(f"  [{n}/{len(achados)}] {f.uaddr(a)} · chars {a}-{b} · {len(span)} c · "
               f"{'✓ verifica' if ok else '✗ NÃO VERIFICA'}")
@@ -1319,11 +1349,11 @@ def main() -> None:
     ap = argparse.ArgumentParser(description="Motor Único da esteira leve")
     ap.add_argument("--ciclo", default="")
     ap.add_argument("passo", nargs="?", default="status",
-                    choices=["status", "entrada", "ancorario", "dossier", "rag", "materializar",
+                    choices=["status", "entrada", "verbatim", "delta", "ancorario", "dossier", "rag", "materializar",
                              "virar", "ampliar", "vincular", "portoes", "tudo", "novo", "busca",
                              "fatias", "selftest"])
     ap.add_argument("args", nargs="*", default=[],
-                    help="`novo`: o TXT recebido · `busca`: a expressão-âncora [limite] · "
+                    help="`novo`: o TXT recebido · `busca`: a expressão-âncora [limite] [ingresso_id] · "
                          "`fatias`: largura em chars")
     a = ap.parse_args()
     if a.passo == "novo":
@@ -1347,7 +1377,8 @@ def main() -> None:
         ap.error("--ciclo <SIGLA> é obrigatório (exceto para selftest)")
     c = Ciclo(a.ciclo)
     if a.passo == "busca":
-        busca(c, a.args[0] if a.args else "", int(a.args[1]) if len(a.args) > 1 else 20)
+        busca(c, a.args[0] if a.args else "", int(a.args[1]) if len(a.args) > 1 else 20,
+              a.args[2] if len(a.args) > 2 else "")
         sys.exit(0)
     if a.passo == "fatias":
         fatias(c, int(a.args[0]) if a.args else 15000)
@@ -1357,6 +1388,10 @@ def main() -> None:
             status(c)
         elif a.passo == "entrada":
             portao_A(c)
+        elif a.passo == "verbatim":
+            portao_B(c)
+        elif a.passo == "delta":
+            portao_D(c)
         elif a.passo == "ancorario":
             ancorario(c)
         elif a.passo == "dossier":

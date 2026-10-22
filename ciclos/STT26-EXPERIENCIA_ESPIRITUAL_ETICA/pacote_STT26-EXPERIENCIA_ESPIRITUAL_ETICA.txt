@@ -1,16 +1,241 @@
-# Pacote de ampliação — STT26-EXPERIENCIA_ESPIRITUAL_ETICA · andaime por `motor.py novo`
-# Cada item de BLOCO 1 é UMA aspa cortada do bruto por
-#   motor.py --ciclo STT26-EXPERIENCIA_ESPIRITUAL_ETICA busca "<âncora>"
-# colada como veio, com rótulo entre [colchetes] e glosa depois do travessão. Aspa de
-# glosa que não seja span conferido perde a aspa na materialização — e o motor imprime.
-# BLOCO 2/3/4/5 são as notas do rite: fila sem arquivo, datas, radar e retidos.
+# Pacote de extração e cotejo — STT26-EXPERIENCIA_ESPIRITUAL_ETICA
+#
+# As 53 entradas deste BLOCO 1 são candidatas, não aprovações: o Curador autorizou
+# apenas o cotejo dos códigos que têm ao menos um despacho `AUTORIZAR-COTEJO-AMPLIADO`.
+# Cada aspa foi emitida pelo Motor a partir do `original.txt` selado e será conferida
+# outra vez pelo portão B. Nenhuma ficha, termo, relação, vínculo ou card RAG é criado
+# neste estágio; `[perolas].aprovadas` permanece vazio.
+#
+# Em RC-941 a fala literal se repete no consolidado. A busca do Motor foi limitada ao
+# ingresso `STT-2026-10-113`, já identificado pela evidência autorizada; ela continua
+# sendo busca no mesmo `original.txt`, não leitura de fonte externa.
 
-### BLOCO 1 — o que entra em ficha
+### BLOCO 1 — candidatas para avaliação curatorial (sem homologação)
+
+### RC-002
+
+- **[STT26-09 · Rebelião de Lúcifer]** «O problema é que nós não temos noção disso Mas os espíritos não só foram criados simples e ignorantes, como afirma a doutrina espírita Para evoluir de acordo com a natureza dos mundos a histórias anteriores a isso isso foi dito no século XIX através da revelação espiritual porque era o conceito plausível de ser entendido na época mas existem histórias antigas muito antigas que ainda estão em curso e a rebelião de Lúcifer é só uma das últimas desse contexto e muitas famílias se viram desagregadas por conta da questão da rebelião, e muitos dos seus membros estão aqui na Terra, enquanto outros de uma mesma família estão lá fora.» (U3533 · chars 524400–525033) — Candidata de cotejo; evidência `STT26-09-RC-002-001`, grafia encontrada `rebelião de Lúcifer`; decisão por lote `STT26-09: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+### RC-007
+
+- **[STT26-12 · Exilados de Capela]** «Mas, quando a humanidade foi se multiplicando, chegou a esses 8 bilhões, como você bem disse na pergunta, a partir desse processo, a partir do aumento, e não tinha mais milagre a ser feito, espíritos que estavam em outros orbes, em outros níveis espirituais vinculados a outros planetas desse universo, começaram a vir para cá. Os Exilados de Capela, por exemplo, é um livro formidável.» (U12528 · chars 1894874–1895261) — Candidata de cotejo; evidência `STT26-12-RC-007-001`, grafia encontrada `Exilados de Capela`; decisão por lote `STT26-12: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+### RC-009
+
+- **[STT26-08 · Sophia (Cristo Cósmico)]** «Então, como fica a origem do Espírito de Jesus, se Mavatma estava mergulhado e sujo como Vishnu, e Jesus afirma no Piste Sophia que veio do pleroma.» (U0935 · chars 66644–66793) — Candidata de cotejo; evidência `STT26-08-RC-009-001`, grafia encontrada `Sophia`; decisão por lote `STT26-08: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+### RC-019
+
+- **[STT26-10 · Anjos clones]** «Eu comprei esse livro há uns 20 anos atrás numa viagem fora do Brasil e assim eu comecei a ler esse livro num certo ponto parei porque aquilo é interminável mas aquilo lá demonstrava um padrão de conhecimento que na época eu não sabia onde é que diabos quem escreveu aquilo ali onde é que ele achou tanta informação e só depois eu vim entender que aquilo tinha a ver com sociedades secretas, conhecimento que existe, mas que não é facilmente divulgado, mas enfim. E também tinha um quê de revelação naquela história, mas quando eu comecei a lidar com Javé e os anjos clones dele e que eles me explicaram o tal livro que eu tinha deixado a meio caminho e ainda se encontro, porque eu não Nunca mais olhei para aquilo.» (U7587 · chars 1131563–1132279) — Candidata de cotejo; evidência `STT26-10-RC-019-001`, grafia encontrada `anjos clones`; decisão por lote `STT26-10: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+### RC-028
+
+- **[STT26-09 · Atlan]** «Saudações aos ouvintes da Rádio Atlan. Estamos iniciando mais um programa. Nesse programa nós respondemos as perguntas dos ouvintes. Qual a interferência dos espíritos na vida humana?» (U5351 · chars 770335–770518) — Candidata de cotejo; evidência `STT26-09-RC-028-001`, grafia encontrada `Atlan`; decisão por lote `STT26-09: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+### RC-037
+
+- **[STT26-08 · Brahma (Brajna)]** «E esse é o drama de Javé. Logo no início do Rig Veda, lá nos Vedas, tem uma parte em que Shiva olha para Brahma e diz você não se envergonha do que você fez?» (U0911 · chars 61823–61981) — Candidata de cotejo; evidência `STT26-08-RC-037-001`, grafia encontrada `Brahma`; decisão por lote `STT26-08: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+### RC-047
+
+- **[STT26-08 · Deidade (Pai-Mãe Amantíssimo / Brahman)]** «Porque infelizmente o processo histórico aponta para um condicionamento Para uma lavagem cerebral que foi imposta a essa humanidade Desde os seus primórdios E a história nada tem de agradável Mas isso nada tem a ver com Deus Tem a ver com os tais doutores ou os tais deuses Mas isso é outra história que a gente não vai falar aqui O fato é que, segundo o que os amigos espirituais apontam com absoluta tranquilidade, E assim dizendo, estou tentando afirmar que eles afirmam Que nenhum dos seres que aqui na Terra foram tidos como Deus Nenhum deles de fato é esse ser a quem nós poderíamos chamar de Deus A Deidade O único, o verdadeiro, o incognoscível Nem Jesus, nem Jesus Nem Cristo, nem Cristo Nenhum, nenhum Qual o problema desse assunto ser veiculado na Terra?» (U0146 · chars 9852–10617) — Candidata de cotejo; evidência `STT26-08-RC-047-001`, grafia encontrada `Deidade`; decisão por lote `STT26-08: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+### RC-054
+
+- **[STT26-08 · Divindades (Co-criadoras)]** «Se a gente aqui mal consegue entender o mundo onde nós estamos situados Usamos expressões inadequadas para nos referirmos ou classificarmos isso ou aquilo Como é que a gente pode ter a mínima pretensão de estar tentando falar sobre a deidade, sobre o mistério da deidade, o mistério das divindades.» (U0222 · chars 16147–16445) — Candidata de cotejo; evidência `STT26-08-RC-054-001`, grafia encontrada `divindades`; decisão por lote `STT26-08: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+### RC-061
+
+- **[STT26-08 · Espiritualidade Laboratorial]** «Segundo o que foi explicado, o suposto espírito Adiagia-A na espiritualidade operacional se fatiou após o segundo colapso quântico, espiritualidade laboratorial, projetando um ser hábitos para a Bágina, correto?» (U0927 · chars 65803–66014) — Candidata de cotejo; evidência `STT26-08-RC-061-001`, grafia encontrada `espiritualidade laboratorial`; decisão por lote `STT26-08: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+### RC-086
+
+- **[STT26-08 · Pandora]** «Nós, os humanos de então, os homo sapiens de então, que não eram ainda racionalizados, não tinham o gene FOXP2 circulando no nosso genoma, quando os homo sapiens eram frustum, ou seja, só uma parte do que são hoje, esse era o tipo de ser humano que Javé achava que ia resolver o problema do DNA dele, mas ele dando as ordens. Quando Pandora, no primeiro momento, e Eva, no segundo momento, estragaram com esse procedimento de Javé, Javé se ferrou e, feito um animal ferido pelo orgulho, tudo o que ele fez desde então foi punir o ser humano.» (U1267 · chars 129693–130235) — Candidata de cotejo; evidência `STT26-08-RC-086-001`, grafia encontrada `Pandora`; decisão por lote `STT26-08: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+### RC-092
+
+- **[STT26-09 · Quarto Logos (Olm / Codificador de Zian)]** «E nós somos os agentes da reconstrução dessa mente. isso chama-se postulado 4 e a palestra que a gente vai ver vai tentar demonstrar isso esse é o Quarto Logos?» (U3111 · chars 439349–439509) — Candidata de cotejo; evidência `STT26-09-RC-092-001`, grafia encontrada `Quarto Logos`; decisão por lote `STT26-09: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+### RC-094
+
+- **[STT26-08 · Revelação Cósmica (conceito)]** «O fato de que ninguém consegue entender direito direito, o espírito por trás da figura do ser humano Jesus. Os próprios hinduístas, os próprios estudiosos do hinduísmo também nunca conseguiram fazer nenhuma ponte razoável. A revelação cósmica, se por isso entendermos esses livros e palestras que nós estamos fazendo, é a primeira sistematização minimamente razoável que liga todas as componentes, espaças de um problema, o que deve ser essa apenas a face que vocês devem se recordar, da revelação cósmica no sentido do que ela fala a respeito do Espírito de Jesus.» (U0947 · chars 68314–68880) — Candidata de cotejo; evidência `STT26-08-RC-094-001`, grafia encontrada `revelação cósmica`; decisão por lote `STT26-08: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+### RC-097
+
+- **[STT26-09 · Seres Extrafísicos]** «Alguns poucos a gente pode se meter. Mas, eu estou falando de ataques espirituais, Mas também tem ataques de seres extrafísicos, que são seres desse universo vizinho que estão atacando indiscriminadamente a humanidade para poder se estabelecer aqui na invasão do universo que está tendo.» (U4925 · chars 714772–715059) — Candidata de cotejo; evidência `STT26-09-RC-097-001`, grafia encontrada `seres extrafísicos`; decisão por lote `STT26-09: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+### RC-102
+
+- **[STT26-08 · Shiva (Savna)]** «E esse é o drama de Javé. Logo no início do Rig Veda, lá nos Vedas, tem uma parte em que Shiva olha para Brahma e diz você não se envergonha do que você fez?» (U0911 · chars 61823–61981) — Candidata de cotejo; evidência `STT26-08-RC-102-001`, grafia encontrada `Shiva`; decisão por lote `STT26-08: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+### RC-104
+
+- **[STT26-10 · Trimurti]** «Ela sumiu, ela me disse que ia passar um tempo fazendo um estágio de alguma coisa, não sei exatamente aonde, e em tempos mais recentes, quando já nessa nova formatação dos livros que eu estou produzindo, já conhecendo o problema da Trimurti, a questão de Brahma ou mesmo das mitologias, e Pandora terminou se aproximando, insistindo para escrever.» (U6373 · chars 933248–933595) — Candidata de cotejo; evidência `STT26-10-RC-104-001`, grafia encontrada `Trimurti`; decisão por lote `STT26-10: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+### RC-106
+
+- **[STT26-12 · Universo Antimaterial (Brahmaloka / Universo Paralelo)]** «E assim, eu sei da dificuldade que nós temos em entender o mundo espiritual Não pensemos que mesmo com todo o esforço Lá atrás, o esforço dos humanos em tentar falar do além do mundo terreno Ficou prejudicado porque muita coisa das locas do universo antimaterial vizinho Foi confundido com os ambientes espirituais humanizados Essa tentativa de distinguir ailhos de bugalhos basicamente foi a revelação espiritual produzida por Allan Kardec na segunda metade do século XIX, que apresentou o mundo espiritual, a chamada erraticidade, como sendo algo que envolvia a vida humana.» (U11890 · chars 1776874–1777451) — Candidata de cotejo; evidência `STT26-12-RC-106-001`, grafia encontrada `universo antimaterial`; decisão por lote `STT26-12: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+### RC-108
+
+- **[STT26-09 · Universo Paralelo]** «Como também essa questão extrafísica referente ao universo paralelo, com as suas incontáveis locas e incontáveis estirpes demoníacas e clonadas. Ou seja, nós, seres humanos, estamos, no que se refere à órbita de Jandré, centrados numa espécie de aventura existencial na qual nós fomos gerados doentes, pois que fomos gerados com a doença do Criador inoculada nos nossos corpos, e apesar de termos sido gerados doentes, somos destinados a nos tornarmos livres dessa doença.» (U2977 · chars 413067–413539) — Candidata de cotejo; evidência `STT26-09-RC-108-001`, grafia encontrada `universo paralelo`; decisão por lote `STT26-09: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+### RC-135
+
+- **[STT26-08 · Vishnu (Mavatna)]** «E ao que consta, tanto o ser B, Adi Savna, quanto o ser Adi Mavatma, mergulharam no caos, como Shiva e Vishnu, para ajudar.» (U0933 · chars 66452–66575) — Candidata de cotejo; evidência `STT26-08-RC-135-001`, grafia encontrada `Vishnu`; decisão por lote `STT26-08: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+### RC-148
+
+- **[STT26-11 · Agentes da Vida Universal]** «Olá, vamos falar um pouco sobre o livro A Epopeia dos Agentes da Vida Universal. Esse livro nasceu a partir de uma série de registros e anotações que nós fomos fazendo em torno de um entendimento que até então não havia surgido em outros livros produzidos no âmbito da cultura humana.» (U10483 · chars 1552201–1552485) — Candidata de cotejo; evidência `STT26-11-RC-148-001`, grafia encontrada `Agentes da Vida Universal`; decisão por lote `STT26-11: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+### RC-162
+
+- **[STT26-08 · Elétrons (agente básico da vida universal)]** «Existe sim do jeito que o fogo é o melhor exemplo de como se proteger já que se você acende uma fogueira você vai se aproximando da fogueira pega uma espiga de milho, põe numa vara para fazer ali um milho delicioso mas é com a vara porque se você for com a mão o fogo queima então o fogo ele solta um calor, uma energia que a partir de uma certa distância você para não mais se aproxima dele porque se se aproximar vai se queimar O que cada ser humano emana através da sua pulsação pessoal, e nós vamos falar disso ano que vem no Mental 108, o que sai de cada ser humano, da sua fragrância pessoal, aquilo que é emanado, os seus fluidos, o seu ritmo magnético, e de acordo com todos os arquivos que ele guarda no seu sistema, no seu conectoma, através das sinapses que ligam os neurônios cerebrais, a cada instante a vibração resultante da coleção desses arquivos emana uma onda, a cada microsegundo, todo ser humano está emitindo uma onda de si mesmo e essa onda carrega as informações todas registradas a cada segundo no conectoma para o entrelaçamento quântico dos elétrons, para o campo mórfico da espécie homo sapiens, alimentar os arcanos, alimentar as egrégoras.» (U1309 · chars 138565–139734) — Candidata de cotejo; evidência `STT26-08-RC-162-001`, grafia encontrada `elétrons`; decisão por lote `STT26-08: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+### RC-163
+
+- **[STT26-09 · Mente Universal (Emergente)]** «Os anti-elétrons vão terminar de existir daqui a uns 800 milhões de anos Quando o drama loca lá acabar Aí as consciências que trabalharam esses anti-elétrons Vão guardar nelas e vão pular para cá Aí se junta numa só fase Eu falo assim no caso da mente universal Quando aí os elétrons vão compor então essa mente universal Com a atuação dos seres que vão matar positivamente esses elétrons E os anti-elétrons que estão lá, eles vão.» (U3121 · chars 442390–442821) — Candidata de cotejo; evidência `STT26-09-RC-163-001`, grafia encontrada `mente universal`; decisão por lote `STT26-09: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+### RC-166
+
+- **[STT26-08 · Mentalma]** «Se o ser humano não for um simples reativo, ou alguém que reage ao que surge como sendo seus impulsos, se ele for alguém que consegue dar uma pausa no processo. e é isso que nas palestras do Mentalma 1, 2, 3 em várias palestras a gente vem dizendo meio que de forma muito repetida o ser humano que age no primeiro impulso ele está ferrado porque ele está só repetindo o que o genoma dele programou e já estava programado em cima de hábitos espirituais para trás o ser humano tem que perceber o que o primeiro impulso quer dele, e só depois ele age num segundo impulso, usando o seu livre-arbítrio, porque no mental a gente demonstra como essa primeira pancada que move o nosso cérebro faz com que o cérebro se acende e o eu da gente age.» (U1039 · chars 89155–89892) — Candidata de cotejo; evidência `STT26-08-RC-166-001`, grafia encontrada `Mentalma`; decisão por lote `STT26-08: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+### RC-199
+
+- **[STT26-08 · Assinatura da Alma]** «Então, nesse sentido, há algo que no Mentalma 4 e 5, desculpa, 5 e 6, eu devo aprofundar, se for possível. Mentalma 6, não, carapaz, Mentalma 5, que eu chamo de assinatura da alma.» (U1983 · chars 247168–247348) — Candidata de cotejo; evidência `STT26-08-RC-199-001`, grafia encontrada `assinatura da alma`; decisão por lote `STT26-08: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+### RC-292
+
+- **[STT26-10 · Telos (de um deus)]** «Eles colocam, Nick Bostrom coloca algo que ele chama de telos da tecnologia. Telos, eu uso muito essa palavra nas palestras que eu faço, devido ao fato de que sou estudioso da obra de Exílio, de Homero e de outras figuras que usavam os conceitos gregos mais antigos, cujo significado tem a ver com o mundo da mitologia e uma interface desse mundo com os valores que nós humanos temos hoje.» (U7113 · chars 1045447–1045836) — Candidata de cotejo; evidência `STT26-10-RC-292-001`, grafia encontrada `telos`; decisão por lote `STT26-10: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+### RC-385
+
+- **[STT26-09 · Egrégora (circuito dos elétrons rebeldes)]** «Nesse cenário, talvez a egrégora suja, resultante desgraçadamente sobrevivente ao que foi produzido pela rede universal, venha se transformar numa próxima singularidade, a dar início a uma outra criação, cujos termos e componentes deverão ser muito, muito, mas muito piores, porque os nossos foram somente caóticos.» (U3453 · chars 513426–513741) — Candidata de cotejo; evidência `STT26-09-RC-385-001`, grafia encontrada `egrégora`; decisão por lote `STT26-09: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+### RC-392
+
+- **[STT26-08 · Reforma Íntima (tema do Grupo Atlan)]** «O Gusson era um cara que estava prisioneiro, estava lá no solitário, que havia matado um cara, e Gusson desenvolveu uma técnica de yoga com base nos livros de Hermógenes, e ele passou a ensinar aos demais prisioneiros yoga. Então eu achava muito importante a reforma íntima que Gusson fez nele mesmo, para a gente ensinar o método de Gusson, então por isso que eu nunca imaginei que eu iria colocar o meu método, sempre a gente estimulou de Gusson.» (U1689 · chars 199655–200104) — Candidata de cotejo; evidência `STT26-08-RC-392-001`, grafia encontrada `reforma íntima`; decisão por lote `STT26-08: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+### RC-397
+
+- **[STT26-10 · Tirthankaras (Rishabh Dev, Jina Mahavira)]** «Os Tirthankaras não tentam influenciar ninguém. Ser evoluído não tenta influenciar ninguém. Ser evoluído não quer aplauso de ninguém.» (U7797 · chars 1168554–1168687) — Candidata de cotejo; evidência `STT26-10-RC-397-001`, grafia encontrada `Tirthankaras`; decisão por lote `STT26-10: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+### RC-414
+
+- **[STT26-08 · Krishna (avatar de Vishnu/Shiva)]** «Ou seja, 5 bilhões estão condicionados a achar que só Jesus salva, só Krishna salva, só.» (U0150 · chars 10826–10914) — Candidata de cotejo; evidência `STT26-08-RC-414-001`, grafia encontrada `Krishna`; decisão por lote `STT26-08: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+### RC-474
+
+- **[STT26-09 · Arcontes (= Sophias e Indras; Conselho dos 70)]** «A briga dos arcontes maiores é aqui, ainda que haja também arcontes aqui entre os mais velhos. Mas, por exemplo, entre os mais velhos está a figura de Shiva.» (U5113 · chars 737181–737338) — Candidata de cotejo; evidência `STT26-09-RC-474-001`, grafia encontrada `arcontes`; decisão por lote `STT26-09: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+### RC-489
+
+- **[STT26-10 · Enoque (sétimo patriarca; levado por Javé)]** «Mas como ele sabe que não pode julgar tudo sozinho, ele criou um ser e esse ser vai vir uma vez e depois esse ser vai voltar e aí o julgamento vai acontecer. Foi isso que Enoque anunciou ao mundo.» (U7661 · chars 1146840–1147036) — Candidata de cotejo; evidência `STT26-10-RC-489-001`, grafia encontrada `Enoque`; decisão por lote `STT26-10: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+### RC-513
+
+- **[STT26-11 · Espiritualidade Errática (4ª faixa manifestada)]** «Não existe instituição dentro dessa bolha, dentro desses dois universos e a espiritualidade errática, não tem nada estruturado no sentido do bem.» (U10019 · chars 1490031–1490176) — Candidata de cotejo; evidência `STT26-11-RC-513-001`, grafia encontrada `espiritualidade errática`; decisão por lote `STT26-11: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+### RC-528
+
+- **[STT26-08 · Mergulho (designação ellâmica da queda)]** «Antes de eu passar para a próxima pergunta, a gente tinha combinado aqui que ia contar um segredo que o Elan não pede para o pessoal se inscrever no canal, nem deixar o like então a gente vai pedir aqui quem ainda não nos acompanha e gosta do trabalho e se puder se inscrever no canal vai estar nos apoiando e então já vou aproveitando para passar a palavra para o Rodrigo que vai ler a próxima pergunta mais votada Saudações a todos obrigado aí, reforçando as palavras de Leonardo pelo apoio e vamos à pergunta é a pergunta da Simone Saudações aí Simone, obrigado por mesmo à distância, sempre estar junto conosco nos apoiando sobre a origem do Espírito de Jesus em relação aos supostos fatiamentos e mergulhos ocorridos poderia esclarecer os conceitos de fatiamento, mergulho e projeção utilizados pelos seres hábitos?» (U0925 · chars 64926–65746) — Candidata de cotejo; evidência `STT26-08-RC-528-001`, grafia encontrada `mergulho`; decisão por lote `STT26-08: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+### RC-529
+
+- **[STT26-12 · Ressonância límbica (emoções como tecnologia cósmica)]** «Quais são os frutos da consciência humana? Nós ainda estamos sofisticando o que herdamos dos mamíferos. Porque os mamíferos, através da ressonância límbica, sentem o que o outro sente e se ajudam.» (U13433 · chars 2036310–2036506) — Candidata de cotejo; evidência `STT26-12-RC-529-001`, grafia encontrada `ressonância límbica`; decisão por lote `STT26-12: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+### RC-553
+
+- **[STT26-08 · Eu Profundo (nível espiritual do Eu)]** «Aí fui trabalhando minhas vontades, aí pensei, puxo, eu profundo, ou seja, a minha mente espiritual aflorou no psiquismo de Rogério.» (U0754 · chars 47133–47265) — Candidata de cotejo; evidência `STT26-08-RC-553-001`, grafia encontrada `eu profundo`; decisão por lote `STT26-08: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+### RC-559
+
+- **[STT26-12 · Teia quântica (o que sai de um ser volta para ele)]** «Tudo que sai de qualquer ser, volta para esse ser. Isso foi determinado lá atrás, por um sistema quântico criado por Orlog, se falarmos da mitologia nórdica, referente à teia quântica chamada Word, que obriga que as coisas sejam feitas em bumerangue.» (U13465 · chars 2040917–2041167) — Candidata de cotejo; evidência `STT26-12-RC-559-001`, grafia encontrada `teia quântica`; decisão por lote `STT26-12: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+### RC-565
+
+- **[STT26-12 · Hochmah (2ª Sefirah — Sabedoria; = Sophia)]** «A pergunta do Elie Welton é sobre o tema da volta de Jesus. Ele pergunta aqui se esse negócio da volta de Jesus cósmico, Hochmah, será da forma como você mesmo falou nos livros e nas palestras ou se será como John Nelson Derby falou que seria através de arrebatamento, governo do anticristo e o império do milênio e ele complementa aqui até porque Nelson Derby falou, as igrejas protestantes falam também que Hochmah virá, vai ter o arrebatamento e depois terá a grande tribulação para depois vir o milênio e nisso terá a famosa batalha do Armagedon só para depois Jesus vir com sua nova Jerusalém e aterrissar nos montes das Oliveiras e logo em seguida destruir os que ficaram aqui na Terra?» (U13064 · chars 1977856–1978549) — Candidata de cotejo; evidência `STT26-12-RC-565-001`, grafia encontrada `Hochmah`; decisão por lote `STT26-12: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+### RC-585
+
+- **[STT26-09 · Vyasa]** «Nos últimos 7 mil anos, na verdade nos últimos 5 mil anos, em algum momento dos últimos 5 mil anos, depois do trabalho de Vyasa na codificação do que seria o Mahabharata, e quando do contato entre Vyasa e o senhor Krishna, principalmente no evento da morte de Krishna, em que uma confusa situação de distinguir se Krishna, após a morte do seu corpo demodármico, se o eu dele iria para uma espiritualidade mais requintada, onde humanos já existiam, ou se voltaria para os reinos do universo vizinho, que eram confundidos com um nível de espiritualidade maior.» (U5063 · chars 731094–731653) — Candidata de cotejo; evidência `STT26-09-RC-585-001`, grafia encontrada `Vyasa`; decisão por lote `STT26-09: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+### RC-586
+
+- **[STT26-11 · Rishis]** «Então, houve um tempo ao longo dos últimos 47 mil anos em que alguns rishis, rishis são seres que no Mahabharata, nos Puranas, enfim, na cultura ariana hindu aparece como sendo espécies de figuras que têm certos poderes.» (U10419 · chars 1546513–1546733) — Candidata de cotejo; evidência `STT26-11-RC-586-001`, grafia encontrada `rishis`; decisão por lote `STT26-11: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+### RC-593
+
+- **[STT26-09 · Mahabharata]** «Nos últimos 7 mil anos, na verdade nos últimos 5 mil anos, em algum momento dos últimos 5 mil anos, depois do trabalho de Vyasa na codificação do que seria o Mahabharata, e quando do contato entre Vyasa e o senhor Krishna, principalmente no evento da morte de Krishna, em que uma confusa situação de distinguir se Krishna, após a morte do seu corpo demodármico, se o eu dele iria para uma espiritualidade mais requintada, onde humanos já existiam, ou se voltaria para os reinos do universo vizinho, que eram confundidos com um nível de espiritualidade maior.» (U5063 · chars 731094–731653) — Candidata de cotejo; evidência `STT26-09-RC-593-001`, grafia encontrada `Mahabharata`; decisão por lote `STT26-09: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+### RC-604
+
+- **[STT26-08 · Fatiamento de Consciência]** «Então, Simone diz, o que é fatiamento de consciência? É a arte que os seres que viviam no paraíso desenvolveram para não sair do paraíso e poder ter partes suas existindo em regiões que não eram mais tão paradisíacas, pois havia a possibilidade de existir e vida fora dos padrões que a perfeição impunha em termos dos conceitos que existiam no paraíso.» (U0985 · chars 76841–77193) — Candidata de cotejo; evidência `STT26-08-RC-604-001`, grafia encontrada `fatiamento de consciência`; decisão por lote `STT26-08: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+### RC-623
+
+- **[STT26-09 · Corpo Átmico]** «Depois que esses quatro corpos estão formados no zigoto, quando o zigoto ainda nem é um embrião, ainda nem nasceu, Então, aí surge o nosso espírito, que é a tríade imortal, porque é o corpo átmico, o corpo búdico e o corpo manásico.» (U4871 · chars 708500–708733) — Candidata de cotejo; evidência `STT26-09-RC-623-001`, grafia encontrada `corpo átmico`; decisão por lote `STT26-09: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+### RC-624
+
+- **[STT26-10 · Corpo Búdico]** «Quando uma mente deseja se ausentar do paraíso, e isso aconteceu, essa consciência particularizada tomou desse corpo átmico e investiu daquilo que a gente chama de das duas vestimentas básicas, o chamado corpo búdico, o corpo manásico, ou vestimenta emocional, vestimenta mental, então é o corpo átmico, travestido dessas duas vestimentas para que o eu desse ser possa interagir com coisas que não são perfeitas, com caos, o que seja.» (U6275 · chars 919938–920373) — Candidata de cotejo; evidência `STT26-10-RC-624-001`, grafia encontrada `corpo búdico`; decisão por lote `STT26-10: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+### RC-752
+
+- **[STT26-10 · Agenda Espiritual]** «Existir, portanto, não aqui dentro, mas existir aqui dentro, ou seja, no campo da ação, é ter uma agenda espiritual para cumprir.» (U8267 · chars 1246048–1246177) — Candidata de cotejo; evidência `STT26-10-RC-752-001`, grafia encontrada `agenda espiritual`; decisão por lote `STT26-10: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+### RC-759
+
+- **[STT26-10 · Jainismo (antigo Druidismo — religião mais antiga)]** «É difícil a gente entender isso porque a gente quer ficar velando as figuras que a gente endeusa, que eles fiquem cuidando da gente, que eles velem por a gente, mas os titancaras não fazem nada disso. Eles não fundaram religião, o jainismo surgiu muito tempo depois como expressão da prática da disciplina tapas, que é antecessora do yoga em certo sentido, e o que diabos é a disciplina tapas?» (U7817 · chars 1172095–1172489) — Candidata de cotejo; evidência `STT26-10-RC-759-001`, grafia encontrada `jainismo`; decisão por lote `STT26-10: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+### RC-854
+
+- **[STT26-12 · Apocalipse (livro de João, ditado por Sofia/Rockman)]** «A vinda de Sofia é nos termos em que nós falamos que apenas repete os termos do Apocalipse. Nada eu inventei, nada é novidade.» (U13074 · chars 1980379–1980505) — Candidata de cotejo; evidência `STT26-12-RC-854-001`, grafia encontrada `Apocalipse`; decisão por lote `STT26-12: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+### RC-862
+
+- **[STT26-08 · Essênios (seita judaica puritana; criadores de João Batista)]** «Então, quando alguém começa a ficar desse jeito, é melhor ela comer vidro, chiclete, pedra e areia, é melhor ela encher o corpo dela de besteiras e voltar a ter uma mente que não julgue ninguém. Esse foi o grande problema entre os essênios e Jesus.» (U1339 · chars 145603–145851) — Candidata de cotejo; evidência `STT26-08-RC-862-001`, grafia encontrada `essênios`; decisão por lote `STT26-08: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+### RC-903
+
+- **[STT26-09 · Umbrais]** «O outro aspecto do que a gente chama natural é que a maioria dos espíritos, infelizmente, está nos andares mais baixos e pior, para baixo, tem o subsolo, que são os umbrais, que são.» (U3901 · chars 575160–575343) — Candidata de cotejo; evidência `STT26-09-RC-903-001`, grafia encontrada `umbrais`; decisão por lote `STT26-09: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+### RC-919
+
+- **[STT26-11 · Vrites]** «E de tanto você desenvolver esse eu que está preocupado em dizer a si mesmo o que ele quer fazer com esse corpo, o tipo de ritmo respiratório que ele quer fazer ao longo do dia várias vezes, quando você presta atenção a você mesmo e conversa consigo mesmo pelo uso do discurso interior, aí todos os dendritos do seu neurônio continuam recebendo todas as vrites, mas escutam principalmente a voz do dono deles e aí as vrites entram, O cérebro, às vezes, o códon neuronal já não dá mais tanta atenção às vrites, porque o códon neuronal está ligadão no que o eu dele está falando com ele.» (U9373 · chars 1407583–1408169) — Candidata de cotejo; evidência `STT26-11-RC-919-001`, grafia encontrada `vrites`; decisão por lote `STT26-11: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+### RC-921
+
+- **[STT26-11 · Niroda]** «Que a única solução para essa matrix é surgir uma espécie de antena que capture as vritts, memorize-as, memorizar essas vritts, ressignifiquias, ou seja, faça a ressignificação das vrits e devolva, ou seja, essa antena então irá praticar algo que se chama niroda outra expressão sânscrita que significa recolher Então, o Niroda recolhe na antena as vrits, essas vrits se unem aqui na antena sob a forma de citas, e essa antena, depois de recolher a sujeira da criação em si mesmo, devolve, E entrou, sai, ou seja, devolve para a Matrix a Vrit.» (U9331 · chars 1401481–1402025) — Candidata de cotejo; evidência `STT26-11-RC-921-001`, grafia encontrada `niroda`; decisão por lote `STT26-11: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+### RC-924
+
+- **[STT26-11 · Loop Mental]** «Ele comprou. Essa informação fica registrada, mas não precisa mais aguardar. Ou seja, não há mais loop mental do eu de Rogério em relação à ideia de Hero Shopping.» (U10591 · chars 1566961–1567124) — Candidata de cotejo; evidência `STT26-11-RC-924-001`, grafia encontrada `loop mental`; decisão por lote `STT26-11: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+### RC-938
+
+- **[STT26-08 · Livre-arbítrio]** «Porque se ela interferir, ela está se matando no livre-arbítrio de alguém e isso febre as regras da justiça divina, porque se a cada besteira que Rogério for fazer, a Deidade não deixar que eu faça e age por mim, que mérito meu espírito poderá ter?» (U0422 · chars 25728–25976) — Candidata de cotejo; evidência `STT26-08-RC-938-001`, grafia encontrada `livre-arbítrio`; decisão por lote `STT26-08: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+### RC-940
+
+- **[STT26-11 · Samsara]** «E então a gente vai falar sobre as causas também dessa desventura perpétua chamada samsara, relacionando toda essa questão aos valores da consciência ou a inexistência de valores de uma consciência perdida no samsara.» (U9943 · chars 1477232–1477449) — Candidata de cotejo; evidência `STT26-11-RC-940-001`, grafia encontrada `samsara`; decisão por lote `STT26-11: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+### RC-941
+
+- **[STT26-10 · Hipocampo]** «A mente do mamífero, o cérebro do mamífero, tem hipotálamo, tálamo, a amígdala cerebral e o hipocampo. O mamífero, através do hipocampo, ele memoriza, ele tira o retrato da realidade e a sensação que ele estiver sentindo na hora que ele produz essa memória, essa emoção se associa à memória.» (U6183 · chars 909567–909858) — Candidata de cotejo; evidência `STT26-10-RC-941-001`, grafia encontrada `hipocampo`; decisão por lote `STT26-10: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
 
 ### BLOCO 2 — termos tocados sem arquivo (fila para a cadência do teto)
 
+- Nenhum termo novo nem fila de criação nesta fase de cotejo; o teto permanece em vigor.
+
 ### BLOCO 3 — obras, datas e anterioridade (nada harmonizado: D-9)
+
+- Nenhuma obra, data ou anterioridade é afirmada por este pacote de candidatas.
 
 ### BLOCO 4 — radar datado (promessa só aqui, nunca em ficha: D-11)
 
-### BLOCO 5 — retidos por trava (nada é silenciado; nada destes entra em ficha)
+- Sem radar: a próxima decisão é exclusivamente curatorial, candidata por candidata.
+
+### BLOCO 5 — retidos por despacho (fora do pacote e sem citação)
+
+- Exclusivamente `DESCARTAR-DO-LOTE`, preservados fora das 53 candidatas: `RC-072`, `RC-059`, `RC-190`, `RC-085`, `RC-892`, `RC-193`, `RC-239`, `RC-335`, `RC-144`, `RC-071`, `RC-301`.
