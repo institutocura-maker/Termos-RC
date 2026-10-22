@@ -1448,7 +1448,7 @@
       "STT26-11",
       "STT26-12"
     ],
-    "autorizacao_para_abrir_ciclo": false,
-    "observacao": "Despacho integral concluído para STT26-08 a STT26-12. Cotejo ampliado autorizado para todos os lotes; a abertura de ciclo no Motor permanece pendente de autorização explícita do Curador."
+    "autorizacao_para_abrir_ciclo": true,
+    "observacao": "Despacho integral concluído para STT26-08 a STT26-12. Cotejo ampliado autorizado para todos os lotes; abertura do ciclo no Motor autorizada explicitamente pelo Curador em 22/10/2026, com preparação restrita à consolidação de derivados e delta zero na Base. A autorização não substitui âncoras literais nem os portões do Motor."
   }
 }
