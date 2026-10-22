@@ -33,7 +33,7 @@
       "decisao_por_lote": {
         "STT26-08": "DESCARTAR-DO-LOTE",
         "STT26-09": "DESCARTAR-DO-LOTE",
-        "STT26-10": "PENDENTE",
+        "STT26-10": "DESCARTAR-DO-LOTE",
         "STT26-11": "PENDENTE",
         "STT26-12": "PENDENTE"
       },
@@ -64,7 +64,7 @@
           "STT26-12-RC-072-036"
         ]
       },
-      "observacao": "Decisões registradas por lote; STT26-10 a STT26-12 permanecem independentes e PENDENTES."
+      "observacao": "Decisões registradas por lote; STT26-11 e STT26-12 permanecem independentes e PENDENTES."
     },
     {
       "codigo": "RC-094",
@@ -75,7 +75,7 @@
       "decisao_por_lote": {
         "STT26-08": "AUTORIZAR-COTEJO-AMPLIADO",
         "STT26-09": "AUTORIZAR-COTEJO-AMPLIADO",
-        "STT26-10": "PENDENTE",
+        "STT26-10": "AUTORIZAR-COTEJO-AMPLIADO",
         "STT26-11": "PENDENTE",
         "STT26-12": "PENDENTE"
       },
@@ -106,7 +106,7 @@
           "STT26-12-RC-094-003"
         ]
       },
-      "observacao": "Decisões registradas por lote; STT26-10 a STT26-12 permanecem independentes e PENDENTES."
+      "observacao": "Decisões registradas por lote; STT26-11 e STT26-12 permanecem independentes e PENDENTES."
     },
     {
       "codigo": "RC-162",
@@ -117,7 +117,7 @@
       "decisao_por_lote": {
         "STT26-08": "AUTORIZAR-COTEJO-AMPLIADO",
         "STT26-09": "AUTORIZAR-COTEJO-AMPLIADO",
-        "STT26-10": "PENDENTE",
+        "STT26-10": "AUTORIZAR-COTEJO-AMPLIADO",
         "STT26-11": "PENDENTE",
         "STT26-12": "PENDENTE"
       },
@@ -146,7 +146,7 @@
           "STT26-12-RC-162-008"
         ]
       },
-      "observacao": "Decisões registradas por lote; STT26-10 a STT26-12 permanecem independentes e PENDENTES."
+      "observacao": "Decisões registradas por lote; STT26-11 e STT26-12 permanecem independentes e PENDENTES."
     },
     {
       "codigo": "RC-047",
@@ -208,7 +208,7 @@
       "decisao_por_lote": {
         "STT26-08": "AUTORIZAR-COTEJO-AMPLIADO",
         "STT26-09": "AUTORIZAR-COTEJO-AMPLIADO",
-        "STT26-10": "PENDENTE",
+        "STT26-10": "AUTORIZAR-COTEJO-AMPLIADO",
         "STT26-11": "PENDENTE",
         "STT26-12": "PENDENTE"
       },
@@ -239,7 +239,7 @@
           "STT26-12-RC-166-003"
         ]
       },
-      "observacao": "Decisões registradas por lote; STT26-10 a STT26-12 permanecem independentes e PENDENTES."
+      "observacao": "Decisões registradas por lote; STT26-11 e STT26-12 permanecem independentes e PENDENTES."
     },
     {
       "codigo": "RC-940",
@@ -295,7 +295,7 @@
       "decisao_por_lote": {
         "STT26-08": "AUTORIZAR-COTEJO-AMPLIADO",
         "STT26-09": "AUTORIZAR-COTEJO-AMPLIADO",
-        "STT26-10": "PENDENTE",
+        "STT26-10": "AUTORIZAR-COTEJO-AMPLIADO",
         "STT26-11": "PENDENTE",
         "STT26-12": "PENDENTE"
       },
@@ -323,7 +323,7 @@
           "STT26-12-RC-037-004"
         ]
       },
-      "observacao": "Decisões registradas por lote; STT26-10 a STT26-12 permanecem independentes e PENDENTES."
+      "observacao": "Decisões registradas por lote; STT26-11 e STT26-12 permanecem independentes e PENDENTES."
     },
     {
       "codigo": "RC-086",
@@ -334,7 +334,7 @@
       "decisao_por_lote": {
         "STT26-08": "AUTORIZAR-COTEJO-AMPLIADO",
         "STT26-09": "AUTORIZAR-COTEJO-AMPLIADO",
-        "STT26-10": "PENDENTE",
+        "STT26-10": "AUTORIZAR-COTEJO-AMPLIADO",
         "STT26-12": "PENDENTE"
       },
       "evidencias_disponiveis": {
@@ -355,7 +355,7 @@
           "STT26-12-RC-086-001"
         ]
       },
-      "observacao": "Decisões registradas por lote; STT26-10 a STT26-12 permanecem independentes e PENDENTES."
+      "observacao": "Decisões registradas por lote; STT26-11 e STT26-12 permanecem independentes e PENDENTES."
     },
     {
       "codigo": "RC-938",
@@ -366,7 +366,7 @@
       "decisao_por_lote": {
         "STT26-08": "AUTORIZAR-COTEJO-AMPLIADO",
         "STT26-09": "AUTORIZAR-COTEJO-AMPLIADO",
-        "STT26-10": "PENDENTE"
+        "STT26-10": "AUTORIZAR-COTEJO-AMPLIADO"
       },
       "evidencias_disponiveis": {
         "STT26-08": [
@@ -384,7 +384,7 @@
           "STT26-10-RC-938-003"
         ]
       },
-      "observacao": "Decisões registradas por lote; STT26-10 a STT26-12 permanecem independentes e PENDENTES."
+      "observacao": "Decisões registradas por lote; STT26-11 e STT26-12 permanecem independentes e PENDENTES."
     },
     {
       "codigo": "RC-009",
@@ -395,7 +395,7 @@
       "decisao_por_lote": {
         "STT26-08": "AUTORIZAR-COTEJO-AMPLIADO",
         "STT26-09": "AUTORIZAR-COTEJO-AMPLIADO",
-        "STT26-10": "PENDENTE",
+        "STT26-10": "AUTORIZAR-COTEJO-AMPLIADO",
         "STT26-11": "PENDENTE",
         "STT26-12": "PENDENTE"
       },
@@ -422,7 +422,7 @@
           "STT26-12-RC-009-001"
         ]
       },
-      "observacao": "Decisões registradas por lote; STT26-10 a STT26-12 permanecem independentes e PENDENTES."
+      "observacao": "Decisões registradas por lote; STT26-11 e STT26-12 permanecem independentes e PENDENTES."
     },
     {
       "codigo": "RC-414",
@@ -433,7 +433,7 @@
       "decisao_por_lote": {
         "STT26-08": "AUTORIZAR-COTEJO-AMPLIADO",
         "STT26-09": "AUTORIZAR-COTEJO-AMPLIADO",
-        "STT26-10": "PENDENTE",
+        "STT26-10": "AUTORIZAR-COTEJO-AMPLIADO",
         "STT26-11": "PENDENTE",
         "STT26-12": "PENDENTE"
       },
@@ -463,7 +463,7 @@
           "STT26-12-RC-414-008"
         ]
       },
-      "observacao": "Decisões registradas por lote; STT26-10 a STT26-12 permanecem independentes e PENDENTES."
+      "observacao": "Decisões registradas por lote; STT26-11 e STT26-12 permanecem independentes e PENDENTES."
     },
     {
       "codigo": "RC-028",
@@ -473,7 +473,7 @@
       "fundamento_curatorial": "Deliberações explícitas do Curador: arquitetura cósmica, psiquismo e mecânica de queda; metodologia, consciência e figuras centrais do teatro cósmico seguem ao cotejo. Descartes cobrem jargão social moderno, alegoria, exemplo histórico periférico ou espiritualidade genérica.",
       "decisao_por_lote": {
         "STT26-09": "AUTORIZAR-COTEJO-AMPLIADO",
-        "STT26-10": "PENDENTE",
+        "STT26-10": "AUTORIZAR-COTEJO-AMPLIADO",
         "STT26-11": "PENDENTE",
         "STT26-12": "PENDENTE"
       },
@@ -496,16 +496,16 @@
           "STT26-12-RC-028-005"
         ]
       },
-      "observacao": "Decisões registradas por lote; STT26-10 a STT26-12 permanecem independentes e PENDENTES."
+      "observacao": "Decisões registradas por lote; STT26-11 e STT26-12 permanecem independentes e PENDENTES."
     },
     {
       "codigo": "RC-752",
       "nome": "Agenda Espiritual",
       "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
       "decisao_eixo": "PENDENTE",
-      "fundamento_curatorial": "",
+      "fundamento_curatorial": "Deliberação explícita do Curador: anatomia espiritual, mecânica cósmica e conceitos densos seguem ao cotejo; descartes cobrem analogia, exemplo metodológico ou vinheta institucional.",
       "decisao_por_lote": {
-        "STT26-10": "PENDENTE",
+        "STT26-10": "AUTORIZAR-COTEJO-AMPLIADO",
         "STT26-11": "PENDENTE"
       },
       "evidencias_disponiveis": {
@@ -520,7 +520,7 @@
           "STT26-11-RC-752-006"
         ]
       },
-      "observacao": ""
+      "observacao": "Decisões registradas por lote; STT26-11 e STT26-12 permanecem independentes e PENDENTES."
     },
     {
       "codigo": "RC-474",
@@ -530,7 +530,7 @@
       "fundamento_curatorial": "Deliberações explícitas do Curador: arquitetura cósmica, psiquismo e mecânica de queda; metodologia, consciência e figuras centrais do teatro cósmico seguem ao cotejo. Descartes cobrem jargão social moderno, alegoria, exemplo histórico periférico ou espiritualidade genérica.",
       "decisao_por_lote": {
         "STT26-09": "AUTORIZAR-COTEJO-AMPLIADO",
-        "STT26-10": "PENDENTE",
+        "STT26-10": "AUTORIZAR-COTEJO-AMPLIADO",
         "STT26-11": "PENDENTE",
         "STT26-12": "PENDENTE"
       },
@@ -550,7 +550,7 @@
           "STT26-12-RC-474-002"
         ]
       },
-      "observacao": "Decisões registradas por lote; STT26-10 a STT26-12 permanecem independentes e PENDENTES."
+      "observacao": "Decisões registradas por lote; STT26-11 e STT26-12 permanecem independentes e PENDENTES."
     },
     {
       "codigo": "RC-059",
@@ -593,7 +593,7 @@
       "fundamento_curatorial": "Deliberações explícitas do Curador: arquitetura cósmica, psiquismo e mecânica de queda; metodologia, consciência e figuras centrais do teatro cósmico seguem ao cotejo. Descartes cobrem jargão social moderno, alegoria, exemplo histórico periférico ou espiritualidade genérica.",
       "decisao_por_lote": {
         "STT26-09": "AUTORIZAR-COTEJO-AMPLIADO",
-        "STT26-10": "PENDENTE",
+        "STT26-10": "AUTORIZAR-COTEJO-AMPLIADO",
         "STT26-12": "PENDENTE"
       },
       "evidencias_disponiveis": {
@@ -611,7 +611,7 @@
           "STT26-12-RC-623-003"
         ]
       },
-      "observacao": "Decisões registradas por lote; STT26-10 a STT26-12 permanecem independentes e PENDENTES."
+      "observacao": "Decisões registradas por lote; STT26-11 e STT26-12 permanecem independentes e PENDENTES."
     },
     {
       "codigo": "RC-054",
@@ -664,9 +664,9 @@
       "nome": "Tirthankaras (Rishabh Dev, Jina Mahavira)",
       "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
       "decisao_eixo": "PENDENTE",
-      "fundamento_curatorial": "",
+      "fundamento_curatorial": "Deliberação explícita do Curador: anatomia espiritual, mecânica cósmica e conceitos densos seguem ao cotejo; descartes cobrem analogia, exemplo metodológico ou vinheta institucional.",
       "decisao_por_lote": {
-        "STT26-10": "PENDENTE"
+        "STT26-10": "AUTORIZAR-COTEJO-AMPLIADO"
       },
       "evidencias_disponiveis": {
         "STT26-10": [
@@ -674,7 +674,7 @@
           "STT26-10-RC-397-013"
         ]
       },
-      "observacao": ""
+      "observacao": "Decisões registradas por lote; STT26-11 e STT26-12 permanecem independentes e PENDENTES."
     },
     {
       "codigo": "RC-553",
@@ -703,9 +703,9 @@
       "nome": "Orbum",
       "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
       "decisao_eixo": "PENDENTE",
-      "fundamento_curatorial": "",
+      "fundamento_curatorial": "Deliberação explícita do Curador: anatomia espiritual, mecânica cósmica e conceitos densos seguem ao cotejo; descartes cobrem analogia, exemplo metodológico ou vinheta institucional.",
       "decisao_por_lote": {
-        "STT26-10": "PENDENTE",
+        "STT26-10": "DESCARTAR-DO-LOTE",
         "STT26-11": "PENDENTE",
         "STT26-12": "PENDENTE"
       },
@@ -724,7 +724,7 @@
           "STT26-12-RC-085-003"
         ]
       },
-      "observacao": ""
+      "observacao": "Decisões registradas por lote; STT26-11 e STT26-12 permanecem independentes e PENDENTES."
     },
     {
       "codigo": "RC-092",
@@ -734,7 +734,7 @@
       "fundamento_curatorial": "Deliberações explícitas do Curador: arquitetura cósmica, psiquismo e mecânica de queda; metodologia, consciência e figuras centrais do teatro cósmico seguem ao cotejo. Descartes cobrem jargão social moderno, alegoria, exemplo histórico periférico ou espiritualidade genérica.",
       "decisao_por_lote": {
         "STT26-09": "AUTORIZAR-COTEJO-AMPLIADO",
-        "STT26-10": "PENDENTE"
+        "STT26-10": "AUTORIZAR-COTEJO-AMPLIADO"
       },
       "evidencias_disponiveis": {
         "STT26-09": [
@@ -744,7 +744,7 @@
           "STT26-10-RC-092-001"
         ]
       },
-      "observacao": "Decisões registradas por lote; STT26-10 a STT26-12 permanecem independentes e PENDENTES."
+      "observacao": "Decisões registradas por lote; STT26-11 e STT26-12 permanecem independentes e PENDENTES."
     },
     {
       "codigo": "RC-385",
@@ -772,25 +772,25 @@
       "nome": "Anjos clones",
       "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
       "decisao_eixo": "PENDENTE",
-      "fundamento_curatorial": "",
+      "fundamento_curatorial": "Deliberação explícita do Curador: anatomia espiritual, mecânica cósmica e conceitos densos seguem ao cotejo; descartes cobrem analogia, exemplo metodológico ou vinheta institucional.",
       "decisao_por_lote": {
-        "STT26-10": "PENDENTE"
+        "STT26-10": "AUTORIZAR-COTEJO-AMPLIADO"
       },
       "evidencias_disponiveis": {
         "STT26-10": [
           "STT26-10-RC-019-001"
         ]
       },
-      "observacao": ""
+      "observacao": "Decisões registradas por lote; STT26-11 e STT26-12 permanecem independentes e PENDENTES."
     },
     {
       "codigo": "RC-104",
       "nome": "Trimurti",
       "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
       "decisao_eixo": "PENDENTE",
-      "fundamento_curatorial": "",
+      "fundamento_curatorial": "Deliberação explícita do Curador: anatomia espiritual, mecânica cósmica e conceitos densos seguem ao cotejo; descartes cobrem analogia, exemplo metodológico ou vinheta institucional.",
       "decisao_por_lote": {
-        "STT26-10": "PENDENTE",
+        "STT26-10": "AUTORIZAR-COTEJO-AMPLIADO",
         "STT26-11": "PENDENTE"
       },
       "evidencias_disponiveis": {
@@ -804,23 +804,23 @@
           "STT26-11-RC-104-003"
         ]
       },
-      "observacao": ""
+      "observacao": "Decisões registradas por lote; STT26-11 e STT26-12 permanecem independentes e PENDENTES."
     },
     {
       "codigo": "RC-292",
       "nome": "Telos (de um deus)",
       "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
       "decisao_eixo": "PENDENTE",
-      "fundamento_curatorial": "",
+      "fundamento_curatorial": "Deliberação explícita do Curador: anatomia espiritual, mecânica cósmica e conceitos densos seguem ao cotejo; descartes cobrem analogia, exemplo metodológico ou vinheta institucional.",
       "decisao_por_lote": {
-        "STT26-10": "PENDENTE"
+        "STT26-10": "AUTORIZAR-COTEJO-AMPLIADO"
       },
       "evidencias_disponiveis": {
         "STT26-10": [
           "STT26-10-RC-292-001"
         ]
       },
-      "observacao": ""
+      "observacao": "Decisões registradas por lote; STT26-11 e STT26-12 permanecem independentes e PENDENTES."
     },
     {
       "codigo": "RC-392",
@@ -1059,16 +1059,16 @@
       "nome": "Jainismo (antigo Druidismo — religião mais antiga)",
       "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
       "decisao_eixo": "PENDENTE",
-      "fundamento_curatorial": "",
+      "fundamento_curatorial": "Deliberação explícita do Curador: anatomia espiritual, mecânica cósmica e conceitos densos seguem ao cotejo; descartes cobrem analogia, exemplo metodológico ou vinheta institucional.",
       "decisao_por_lote": {
-        "STT26-10": "PENDENTE"
+        "STT26-10": "AUTORIZAR-COTEJO-AMPLIADO"
       },
       "evidencias_disponiveis": {
         "STT26-10": [
           "STT26-10-RC-759-001"
         ]
       },
-      "observacao": ""
+      "observacao": "Decisões registradas por lote; STT26-11 e STT26-12 permanecem independentes e PENDENTES."
     },
     {
       "codigo": "RC-921",
@@ -1111,7 +1111,7 @@
       "fundamento_curatorial": "Deliberações explícitas do Curador: arquitetura cósmica, psiquismo e mecânica de queda; metodologia, consciência e figuras centrais do teatro cósmico seguem ao cotejo. Descartes cobrem jargão social moderno, alegoria, exemplo histórico periférico ou espiritualidade genérica.",
       "decisao_por_lote": {
         "STT26-09": "AUTORIZAR-COTEJO-AMPLIADO",
-        "STT26-10": "PENDENTE"
+        "STT26-10": "AUTORIZAR-COTEJO-AMPLIADO"
       },
       "evidencias_disponiveis": {
         "STT26-09": [
@@ -1122,7 +1122,7 @@
           "STT26-10-RC-002-003"
         ]
       },
-      "observacao": "Decisões registradas por lote; STT26-10 a STT26-12 permanecem independentes e PENDENTES."
+      "observacao": "Decisões registradas por lote; STT26-11 e STT26-12 permanecem independentes e PENDENTES."
     },
     {
       "codigo": "RC-144",
@@ -1196,9 +1196,9 @@
       "nome": "Corpo Búdico",
       "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
       "decisao_eixo": "PENDENTE",
-      "fundamento_curatorial": "",
+      "fundamento_curatorial": "Deliberação explícita do Curador: anatomia espiritual, mecânica cósmica e conceitos densos seguem ao cotejo; descartes cobrem analogia, exemplo metodológico ou vinheta institucional.",
       "decisao_por_lote": {
-        "STT26-10": "PENDENTE"
+        "STT26-10": "AUTORIZAR-COTEJO-AMPLIADO"
       },
       "evidencias_disponiveis": {
         "STT26-10": [
@@ -1206,7 +1206,7 @@
           "STT26-10-RC-624-003"
         ]
       },
-      "observacao": ""
+      "observacao": "Decisões registradas por lote; STT26-11 e STT26-12 permanecem independentes e PENDENTES."
     },
     {
       "codigo": "RC-854",
@@ -1245,9 +1245,9 @@
       "nome": "Hipocampo",
       "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
       "decisao_eixo": "PENDENTE",
-      "fundamento_curatorial": "",
+      "fundamento_curatorial": "Deliberação explícita do Curador: anatomia espiritual, mecânica cósmica e conceitos densos seguem ao cotejo; descartes cobrem analogia, exemplo metodológico ou vinheta institucional.",
       "decisao_por_lote": {
-        "STT26-10": "PENDENTE"
+        "STT26-10": "AUTORIZAR-COTEJO-AMPLIADO"
       },
       "evidencias_disponiveis": {
         "STT26-10": [
@@ -1255,7 +1255,7 @@
           "STT26-10-RC-941-003"
         ]
       },
-      "observacao": ""
+      "observacao": "Decisões registradas por lote; STT26-11 e STT26-12 permanecem independentes e PENDENTES."
     },
     {
       "codigo": "RC-071",
@@ -1280,32 +1280,32 @@
       "nome": "Prometeu (titã)",
       "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
       "decisao_eixo": "PENDENTE",
-      "fundamento_curatorial": "",
+      "fundamento_curatorial": "Deliberação explícita do Curador: anatomia espiritual, mecânica cósmica e conceitos densos seguem ao cotejo; descartes cobrem analogia, exemplo metodológico ou vinheta institucional.",
       "decisao_por_lote": {
-        "STT26-10": "PENDENTE"
+        "STT26-10": "DESCARTAR-DO-LOTE"
       },
       "evidencias_disponiveis": {
         "STT26-10": [
           "STT26-10-RC-301-001"
         ]
       },
-      "observacao": ""
+      "observacao": "Decisões registradas por lote; STT26-11 e STT26-12 permanecem independentes e PENDENTES."
     },
     {
       "codigo": "RC-489",
       "nome": "Enoque (sétimo patriarca; levado por Javé)",
       "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
       "decisao_eixo": "PENDENTE",
-      "fundamento_curatorial": "",
+      "fundamento_curatorial": "Deliberação explícita do Curador: anatomia espiritual, mecânica cósmica e conceitos densos seguem ao cotejo; descartes cobrem analogia, exemplo metodológico ou vinheta institucional.",
       "decisao_por_lote": {
-        "STT26-10": "PENDENTE"
+        "STT26-10": "AUTORIZAR-COTEJO-AMPLIADO"
       },
       "evidencias_disponiveis": {
         "STT26-10": [
           "STT26-10-RC-489-001"
         ]
       },
-      "observacao": ""
+      "observacao": "Decisões registradas por lote; STT26-11 e STT26-12 permanecem independentes e PENDENTES."
     },
     {
       "codigo": "RC-559",
@@ -1443,9 +1443,10 @@
     "resultado": "PENDENTE",
     "lotes_autorizados_para_cotejo_ampliado": [
       "STT26-08",
-      "STT26-09"
+      "STT26-09",
+      "STT26-10"
     ],
     "autorizacao_para_abrir_ciclo": false,
-    "observacao": "Despacho parcial: STT26-08 e STT26-09 deliberados sob filtro de relevância doutrinária. STT26-10 a STT26-12 permanecem integralmente PENDENTES. Sem autorização para abrir ciclo."
+    "observacao": "Despacho parcial: STT26-08 a STT26-10 deliberados sob filtro de relevância doutrinária. STT26-11 e STT26-12 permanecem integralmente PENDENTES. Sem autorização para abrir ciclo."
   }
 }
