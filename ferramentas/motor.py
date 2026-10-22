@@ -786,7 +786,9 @@ def dossie(c: Ciclo) -> None:
           f"* **Fila aberta**: {len(fila)} código(s) tocado(s) por esta fonte e ainda sem arquivo — "
           "a fila nasce deste produto, e não de memória.", ""]
     destino = os.path.join(c.dir, f"DOSSIE-RAG_{c.sigla}.md")
-    open(destino, "w", encoding="utf-8").write("\n".join(L) + "\n")
+    # A lista termina com um separador lógico; remover apenas esse vazio evita uma linha
+    # em branco no EOF sem alterar os blocos do dossiê.
+    open(destino, "w", encoding="utf-8").write("\n".join(L).rstrip() + "\n")
     print(f"dossiê: {os.path.relpath(destino, c.raiz)} · {len(L)} linhas · {os.path.getsize(destino):,} B"
           .replace(",", "."))
 

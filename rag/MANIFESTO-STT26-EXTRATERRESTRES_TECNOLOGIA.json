@@ -1,0 +1,9 @@
+{
+ "motor": "ferramentas/motor.py",
+ "ciclo": "STT26-EXTRATERRESTRES_TECNOLOGIA",
+ "politica": "apenas `status: aprovada` entra no corpus",
+ "fonte": "ciclos/STT26-EXTRATERRESTRES_TECNOLOGIA/original.txt",
+ "sha256_fonte": "e38588fcbd5897def1e7c4cff4f1a4966b5cf4f344bde3b8205c215b7e42acd0",
+ "cards_total": 0,
+ "cards": []
+}
