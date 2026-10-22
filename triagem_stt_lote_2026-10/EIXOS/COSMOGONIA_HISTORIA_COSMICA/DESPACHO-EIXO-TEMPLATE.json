@@ -28,12 +28,12 @@
       "nome": "Jesus",
       "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
       "decisao_eixo": "PENDENTE",
-      "fundamento_curatorial": "Deliberação explícita do Curador: filtro de relevância doutrinária; descartes cobrem plataforma de cursos, metáfora genérica ou jargão espiritual amplo. | STT26-04: Deliberação explícita do Curador: termos estruturais e divindades hindus/cósmicas seguem ao cotejo; descartes cobrem exemplo metodológico, analogia histórica ou termo genérico periférico. | STT26-05: Deliberação explícita do Curador: filtro de relevância doutrinária; termos estruturais, conceitos densos e divindades seguem ao cotejo, enquanto exemplos metodológicos e espiritualidade genérica são descartados.",
+      "fundamento_curatorial": "Deliberação explícita do Curador: filtro de relevância doutrinária; descartes cobrem plataforma de cursos, metáfora genérica ou jargão espiritual amplo. | STT26-04: Deliberação explícita do Curador: termos estruturais e divindades hindus/cósmicas seguem ao cotejo; descartes cobrem exemplo metodológico, analogia histórica ou termo genérico periférico. | STT26-05: Deliberação explícita do Curador: filtro de relevância doutrinária; termos estruturais, conceitos densos e divindades seguem ao cotejo, enquanto exemplos metodológicos e espiritualidade genérica são descartados. | STT26-06: Deliberação explícita do Curador: termos estruturais e conexões específicas seguem ao cotejo; descartes cobrem vinheta de canal e figuras repetidas como exemplo histórico ou metáfora.",
       "decisao_por_lote": {
         "STT26-03": "DESCARTAR-DO-LOTE",
         "STT26-04": "DESCARTAR-DO-LOTE",
         "STT26-05": "DESCARTAR-DO-LOTE",
-        "STT26-06": "PENDENTE"
+        "STT26-06": "DESCARTAR-DO-LOTE"
       },
       "evidencias_disponiveis": {
         "STT26-03": [
@@ -57,19 +57,19 @@
           "STT26-06-RC-072-007"
         ]
       },
-      "observacao": "Decisões por lote preservadas: STT26-03, STT26-04, STT26-05; sem fusão automática entre lotes."
+      "observacao": "Decisões por lote preservadas: STT26-03, STT26-04, STT26-05, STT26-06; sem fusão automática entre lotes."
     },
     {
       "codigo": "RC-037",
       "nome": "Brahma (Brajna)",
       "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
       "decisao_eixo": "PENDENTE",
-      "fundamento_curatorial": "Deliberação explícita do Curador: filtro de relevância doutrinária; descartes cobrem plataforma de cursos, metáfora genérica ou jargão espiritual amplo. | STT26-04: Deliberação explícita do Curador: termos estruturais e divindades hindus/cósmicas seguem ao cotejo; descartes cobrem exemplo metodológico, analogia histórica ou termo genérico periférico. | STT26-05: Deliberação explícita do Curador: filtro de relevância doutrinária; termos estruturais, conceitos densos e divindades seguem ao cotejo, enquanto exemplos metodológicos e espiritualidade genérica são descartados.",
+      "fundamento_curatorial": "Deliberação explícita do Curador: filtro de relevância doutrinária; descartes cobrem plataforma de cursos, metáfora genérica ou jargão espiritual amplo. | STT26-04: Deliberação explícita do Curador: termos estruturais e divindades hindus/cósmicas seguem ao cotejo; descartes cobrem exemplo metodológico, analogia histórica ou termo genérico periférico. | STT26-05: Deliberação explícita do Curador: filtro de relevância doutrinária; termos estruturais, conceitos densos e divindades seguem ao cotejo, enquanto exemplos metodológicos e espiritualidade genérica são descartados. | STT26-06: Deliberação explícita do Curador: termos estruturais e conexões específicas seguem ao cotejo; descartes cobrem vinheta de canal e figuras repetidas como exemplo histórico ou metáfora.",
       "decisao_por_lote": {
         "STT26-03": "AUTORIZAR-COTEJO-AMPLIADO",
         "STT26-04": "AUTORIZAR-COTEJO-AMPLIADO",
         "STT26-05": "AUTORIZAR-COTEJO-AMPLIADO",
-        "STT26-06": "PENDENTE"
+        "STT26-06": "AUTORIZAR-COTEJO-AMPLIADO"
       },
       "evidencias_disponiveis": {
         "STT26-03": [
@@ -93,19 +93,19 @@
           "STT26-06-RC-037-018"
         ]
       },
-      "observacao": "Decisões por lote preservadas: STT26-03, STT26-04, STT26-05; sem fusão automática entre lotes."
+      "observacao": "Decisões por lote preservadas: STT26-03, STT26-04, STT26-05, STT26-06; sem fusão automática entre lotes."
     },
     {
       "codigo": "RC-102",
       "nome": "Shiva (Savna)",
       "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
       "decisao_eixo": "PENDENTE",
-      "fundamento_curatorial": "Deliberação explícita do Curador: filtro de relevância doutrinária; descartes cobrem plataforma de cursos, metáfora genérica ou jargão espiritual amplo. | STT26-04: Deliberação explícita do Curador: termos estruturais e divindades hindus/cósmicas seguem ao cotejo; descartes cobrem exemplo metodológico, analogia histórica ou termo genérico periférico. | STT26-05: Deliberação explícita do Curador: filtro de relevância doutrinária; termos estruturais, conceitos densos e divindades seguem ao cotejo, enquanto exemplos metodológicos e espiritualidade genérica são descartados.",
+      "fundamento_curatorial": "Deliberação explícita do Curador: filtro de relevância doutrinária; descartes cobrem plataforma de cursos, metáfora genérica ou jargão espiritual amplo. | STT26-04: Deliberação explícita do Curador: termos estruturais e divindades hindus/cósmicas seguem ao cotejo; descartes cobrem exemplo metodológico, analogia histórica ou termo genérico periférico. | STT26-05: Deliberação explícita do Curador: filtro de relevância doutrinária; termos estruturais, conceitos densos e divindades seguem ao cotejo, enquanto exemplos metodológicos e espiritualidade genérica são descartados. | STT26-06: Deliberação explícita do Curador: termos estruturais e conexões específicas seguem ao cotejo; descartes cobrem vinheta de canal e figuras repetidas como exemplo histórico ou metáfora.",
       "decisao_por_lote": {
         "STT26-03": "AUTORIZAR-COTEJO-AMPLIADO",
         "STT26-04": "AUTORIZAR-COTEJO-AMPLIADO",
         "STT26-05": "AUTORIZAR-COTEJO-AMPLIADO",
-        "STT26-06": "PENDENTE"
+        "STT26-06": "AUTORIZAR-COTEJO-AMPLIADO"
       },
       "evidencias_disponiveis": {
         "STT26-03": [
@@ -129,19 +129,19 @@
           "STT26-06-RC-102-008"
         ]
       },
-      "observacao": "Decisões por lote preservadas: STT26-03, STT26-04, STT26-05; sem fusão automática entre lotes."
+      "observacao": "Decisões por lote preservadas: STT26-03, STT26-04, STT26-05, STT26-06; sem fusão automática entre lotes."
     },
     {
       "codigo": "RC-009",
       "nome": "Sophia (Cristo Cósmico)",
       "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
       "decisao_eixo": "PENDENTE",
-      "fundamento_curatorial": "Deliberação explícita do Curador: filtro de relevância doutrinária; descartes cobrem plataforma de cursos, metáfora genérica ou jargão espiritual amplo. | STT26-04: Deliberação explícita do Curador: termos estruturais e divindades hindus/cósmicas seguem ao cotejo; descartes cobrem exemplo metodológico, analogia histórica ou termo genérico periférico. | STT26-05: Deliberação explícita do Curador: filtro de relevância doutrinária; termos estruturais, conceitos densos e divindades seguem ao cotejo, enquanto exemplos metodológicos e espiritualidade genérica são descartados.",
+      "fundamento_curatorial": "Deliberação explícita do Curador: filtro de relevância doutrinária; descartes cobrem plataforma de cursos, metáfora genérica ou jargão espiritual amplo. | STT26-04: Deliberação explícita do Curador: termos estruturais e divindades hindus/cósmicas seguem ao cotejo; descartes cobrem exemplo metodológico, analogia histórica ou termo genérico periférico. | STT26-05: Deliberação explícita do Curador: filtro de relevância doutrinária; termos estruturais, conceitos densos e divindades seguem ao cotejo, enquanto exemplos metodológicos e espiritualidade genérica são descartados. | STT26-06: Deliberação explícita do Curador: termos estruturais e conexões específicas seguem ao cotejo; descartes cobrem vinheta de canal e figuras repetidas como exemplo histórico ou metáfora.",
       "decisao_por_lote": {
         "STT26-03": "AUTORIZAR-COTEJO-AMPLIADO",
         "STT26-04": "AUTORIZAR-COTEJO-AMPLIADO",
         "STT26-05": "AUTORIZAR-COTEJO-AMPLIADO",
-        "STT26-06": "PENDENTE"
+        "STT26-06": "AUTORIZAR-COTEJO-AMPLIADO"
       },
       "evidencias_disponiveis": {
         "STT26-03": [
@@ -165,19 +165,19 @@
           "STT26-06-RC-009-027"
         ]
       },
-      "observacao": "Decisões por lote preservadas: STT26-03, STT26-04, STT26-05; sem fusão automática entre lotes."
+      "observacao": "Decisões por lote preservadas: STT26-03, STT26-04, STT26-05, STT26-06; sem fusão automática entre lotes."
     },
     {
       "codigo": "RC-414",
       "nome": "Krishna (avatar de Vishnu/Shiva)",
       "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
       "decisao_eixo": "PENDENTE",
-      "fundamento_curatorial": "Deliberação explícita do Curador: filtro de relevância doutrinária; descartes cobrem plataforma de cursos, metáfora genérica ou jargão espiritual amplo. | STT26-04: Deliberação explícita do Curador: termos estruturais e divindades hindus/cósmicas seguem ao cotejo; descartes cobrem exemplo metodológico, analogia histórica ou termo genérico periférico. | STT26-05: Deliberação explícita do Curador: filtro de relevância doutrinária; termos estruturais, conceitos densos e divindades seguem ao cotejo, enquanto exemplos metodológicos e espiritualidade genérica são descartados.",
+      "fundamento_curatorial": "Deliberação explícita do Curador: filtro de relevância doutrinária; descartes cobrem plataforma de cursos, metáfora genérica ou jargão espiritual amplo. | STT26-04: Deliberação explícita do Curador: termos estruturais e divindades hindus/cósmicas seguem ao cotejo; descartes cobrem exemplo metodológico, analogia histórica ou termo genérico periférico. | STT26-05: Deliberação explícita do Curador: filtro de relevância doutrinária; termos estruturais, conceitos densos e divindades seguem ao cotejo, enquanto exemplos metodológicos e espiritualidade genérica são descartados. | STT26-06: Deliberação explícita do Curador: termos estruturais e conexões específicas seguem ao cotejo; descartes cobrem vinheta de canal e figuras repetidas como exemplo histórico ou metáfora.",
       "decisao_por_lote": {
         "STT26-03": "AUTORIZAR-COTEJO-AMPLIADO",
         "STT26-04": "AUTORIZAR-COTEJO-AMPLIADO",
         "STT26-05": "AUTORIZAR-COTEJO-AMPLIADO",
-        "STT26-06": "PENDENTE"
+        "STT26-06": "AUTORIZAR-COTEJO-AMPLIADO"
       },
       "evidencias_disponiveis": {
         "STT26-03": [
@@ -201,19 +201,19 @@
           "STT26-06-RC-414-004"
         ]
       },
-      "observacao": "Decisões por lote preservadas: STT26-03, STT26-04, STT26-05; sem fusão automática entre lotes."
+      "observacao": "Decisões por lote preservadas: STT26-03, STT26-04, STT26-05, STT26-06; sem fusão automática entre lotes."
     },
     {
       "codigo": "RC-094",
       "nome": "Revelação Cósmica (conceito)",
       "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
       "decisao_eixo": "PENDENTE",
-      "fundamento_curatorial": "Deliberação explícita do Curador: filtro de relevância doutrinária; descartes cobrem plataforma de cursos, metáfora genérica ou jargão espiritual amplo. | STT26-04: Deliberação explícita do Curador: termos estruturais e divindades hindus/cósmicas seguem ao cotejo; descartes cobrem exemplo metodológico, analogia histórica ou termo genérico periférico. | STT26-05: Deliberação explícita do Curador: filtro de relevância doutrinária; termos estruturais, conceitos densos e divindades seguem ao cotejo, enquanto exemplos metodológicos e espiritualidade genérica são descartados.",
+      "fundamento_curatorial": "Deliberação explícita do Curador: filtro de relevância doutrinária; descartes cobrem plataforma de cursos, metáfora genérica ou jargão espiritual amplo. | STT26-04: Deliberação explícita do Curador: termos estruturais e divindades hindus/cósmicas seguem ao cotejo; descartes cobrem exemplo metodológico, analogia histórica ou termo genérico periférico. | STT26-05: Deliberação explícita do Curador: filtro de relevância doutrinária; termos estruturais, conceitos densos e divindades seguem ao cotejo, enquanto exemplos metodológicos e espiritualidade genérica são descartados. | STT26-06: Deliberação explícita do Curador: termos estruturais e conexões específicas seguem ao cotejo; descartes cobrem vinheta de canal e figuras repetidas como exemplo histórico ou metáfora.",
       "decisao_por_lote": {
         "STT26-03": "AUTORIZAR-COTEJO-AMPLIADO",
         "STT26-04": "AUTORIZAR-COTEJO-AMPLIADO",
         "STT26-05": "AUTORIZAR-COTEJO-AMPLIADO",
-        "STT26-06": "PENDENTE"
+        "STT26-06": "AUTORIZAR-COTEJO-AMPLIADO"
       },
       "evidencias_disponiveis": {
         "STT26-03": [
@@ -237,19 +237,19 @@
           "STT26-06-RC-094-004"
         ]
       },
-      "observacao": "Decisões por lote preservadas: STT26-03, STT26-04, STT26-05; sem fusão automática entre lotes."
+      "observacao": "Decisões por lote preservadas: STT26-03, STT26-04, STT26-05, STT26-06; sem fusão automática entre lotes."
     },
     {
       "codigo": "RC-135",
       "nome": "Vishnu (Mavatna)",
       "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
       "decisao_eixo": "PENDENTE",
-      "fundamento_curatorial": "Deliberação explícita do Curador: filtro de relevância doutrinária; descartes cobrem plataforma de cursos, metáfora genérica ou jargão espiritual amplo. | STT26-04: Deliberação explícita do Curador: termos estruturais e divindades hindus/cósmicas seguem ao cotejo; descartes cobrem exemplo metodológico, analogia histórica ou termo genérico periférico. | STT26-05: Deliberação explícita do Curador: filtro de relevância doutrinária; termos estruturais, conceitos densos e divindades seguem ao cotejo, enquanto exemplos metodológicos e espiritualidade genérica são descartados.",
+      "fundamento_curatorial": "Deliberação explícita do Curador: filtro de relevância doutrinária; descartes cobrem plataforma de cursos, metáfora genérica ou jargão espiritual amplo. | STT26-04: Deliberação explícita do Curador: termos estruturais e divindades hindus/cósmicas seguem ao cotejo; descartes cobrem exemplo metodológico, analogia histórica ou termo genérico periférico. | STT26-05: Deliberação explícita do Curador: filtro de relevância doutrinária; termos estruturais, conceitos densos e divindades seguem ao cotejo, enquanto exemplos metodológicos e espiritualidade genérica são descartados. | STT26-06: Deliberação explícita do Curador: termos estruturais e conexões específicas seguem ao cotejo; descartes cobrem vinheta de canal e figuras repetidas como exemplo histórico ou metáfora.",
       "decisao_por_lote": {
         "STT26-03": "AUTORIZAR-COTEJO-AMPLIADO",
         "STT26-04": "AUTORIZAR-COTEJO-AMPLIADO",
         "STT26-05": "AUTORIZAR-COTEJO-AMPLIADO",
-        "STT26-06": "PENDENTE"
+        "STT26-06": "AUTORIZAR-COTEJO-AMPLIADO"
       },
       "evidencias_disponiveis": {
         "STT26-03": [
@@ -273,19 +273,19 @@
           "STT26-06-RC-135-012"
         ]
       },
-      "observacao": "Decisões por lote preservadas: STT26-03, STT26-04, STT26-05; sem fusão automática entre lotes."
+      "observacao": "Decisões por lote preservadas: STT26-03, STT26-04, STT26-05, STT26-06; sem fusão automática entre lotes."
     },
     {
       "codigo": "RC-104",
       "nome": "Trimurti",
       "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
       "decisao_eixo": "PENDENTE",
-      "fundamento_curatorial": "Deliberação explícita do Curador: filtro de relevância doutrinária; descartes cobrem plataforma de cursos, metáfora genérica ou jargão espiritual amplo. | STT26-04: Deliberação explícita do Curador: termos estruturais e divindades hindus/cósmicas seguem ao cotejo; descartes cobrem exemplo metodológico, analogia histórica ou termo genérico periférico. | STT26-05: Deliberação explícita do Curador: filtro de relevância doutrinária; termos estruturais, conceitos densos e divindades seguem ao cotejo, enquanto exemplos metodológicos e espiritualidade genérica são descartados.",
+      "fundamento_curatorial": "Deliberação explícita do Curador: filtro de relevância doutrinária; descartes cobrem plataforma de cursos, metáfora genérica ou jargão espiritual amplo. | STT26-04: Deliberação explícita do Curador: termos estruturais e divindades hindus/cósmicas seguem ao cotejo; descartes cobrem exemplo metodológico, analogia histórica ou termo genérico periférico. | STT26-05: Deliberação explícita do Curador: filtro de relevância doutrinária; termos estruturais, conceitos densos e divindades seguem ao cotejo, enquanto exemplos metodológicos e espiritualidade genérica são descartados. | STT26-06: Deliberação explícita do Curador: termos estruturais e conexões específicas seguem ao cotejo; descartes cobrem vinheta de canal e figuras repetidas como exemplo histórico ou metáfora.",
       "decisao_por_lote": {
         "STT26-03": "AUTORIZAR-COTEJO-AMPLIADO",
         "STT26-04": "AUTORIZAR-COTEJO-AMPLIADO",
         "STT26-05": "AUTORIZAR-COTEJO-AMPLIADO",
-        "STT26-06": "PENDENTE"
+        "STT26-06": "AUTORIZAR-COTEJO-AMPLIADO"
       },
       "evidencias_disponiveis": {
         "STT26-03": [
@@ -309,18 +309,18 @@
           "STT26-06-RC-104-005"
         ]
       },
-      "observacao": "Decisões por lote preservadas: STT26-03, STT26-04, STT26-05; sem fusão automática entre lotes."
+      "observacao": "Decisões por lote preservadas: STT26-03, STT26-04, STT26-05, STT26-06; sem fusão automática entre lotes."
     },
     {
       "codigo": "RC-086",
       "nome": "Pandora",
       "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
       "decisao_eixo": "PENDENTE",
-      "fundamento_curatorial": "Deliberação explícita do Curador: filtro de relevância doutrinária; descartes cobrem plataforma de cursos, metáfora genérica ou jargão espiritual amplo. | STT26-04: Deliberação explícita do Curador: termos estruturais e divindades hindus/cósmicas seguem ao cotejo; descartes cobrem exemplo metodológico, analogia histórica ou termo genérico periférico.",
+      "fundamento_curatorial": "Deliberação explícita do Curador: filtro de relevância doutrinária; descartes cobrem plataforma de cursos, metáfora genérica ou jargão espiritual amplo. | STT26-04: Deliberação explícita do Curador: termos estruturais e divindades hindus/cósmicas seguem ao cotejo; descartes cobrem exemplo metodológico, analogia histórica ou termo genérico periférico. | STT26-06: Deliberação explícita do Curador: termos estruturais e conexões específicas seguem ao cotejo; descartes cobrem vinheta de canal e figuras repetidas como exemplo histórico ou metáfora.",
       "decisao_por_lote": {
         "STT26-03": "AUTORIZAR-COTEJO-AMPLIADO",
         "STT26-04": "AUTORIZAR-COTEJO-AMPLIADO",
-        "STT26-06": "PENDENTE"
+        "STT26-06": "AUTORIZAR-COTEJO-AMPLIADO"
       },
       "evidencias_disponiveis": {
         "STT26-03": [
@@ -337,18 +337,18 @@
           "STT26-06-RC-086-001"
         ]
       },
-      "observacao": "Decisões por lote preservadas: STT26-03, STT26-04; sem fusão automática entre lotes."
+      "observacao": "Decisões por lote preservadas: STT26-03, STT26-04, STT26-06; sem fusão automática entre lotes."
     },
     {
       "codigo": "RC-166",
       "nome": "Mentalma",
       "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
       "decisao_eixo": "PENDENTE",
-      "fundamento_curatorial": "Deliberação explícita do Curador: filtro de relevância doutrinária; descartes cobrem plataforma de cursos, metáfora genérica ou jargão espiritual amplo. | STT26-05: Deliberação explícita do Curador: filtro de relevância doutrinária; termos estruturais, conceitos densos e divindades seguem ao cotejo, enquanto exemplos metodológicos e espiritualidade genérica são descartados.",
+      "fundamento_curatorial": "Deliberação explícita do Curador: filtro de relevância doutrinária; descartes cobrem plataforma de cursos, metáfora genérica ou jargão espiritual amplo. | STT26-05: Deliberação explícita do Curador: filtro de relevância doutrinária; termos estruturais, conceitos densos e divindades seguem ao cotejo, enquanto exemplos metodológicos e espiritualidade genérica são descartados. | STT26-06: Deliberação explícita do Curador: termos estruturais e conexões específicas seguem ao cotejo; descartes cobrem vinheta de canal e figuras repetidas como exemplo histórico ou metáfora.",
       "decisao_por_lote": {
         "STT26-03": "AUTORIZAR-COTEJO-AMPLIADO",
         "STT26-05": "AUTORIZAR-COTEJO-AMPLIADO",
-        "STT26-06": "PENDENTE"
+        "STT26-06": "AUTORIZAR-COTEJO-AMPLIADO"
       },
       "evidencias_disponiveis": {
         "STT26-03": [
@@ -365,7 +365,7 @@
           "STT26-06-RC-166-014"
         ]
       },
-      "observacao": "Decisões por lote preservadas: STT26-03, STT26-05; sem fusão automática entre lotes."
+      "observacao": "Decisões por lote preservadas: STT26-03, STT26-05, STT26-06; sem fusão automática entre lotes."
     },
     {
       "codigo": "RC-489",
@@ -424,12 +424,12 @@
       "nome": "Anunnaki",
       "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
       "decisao_eixo": "PENDENTE",
-      "fundamento_curatorial": "Deliberação explícita do Curador: filtro de relevância doutrinária; descartes cobrem plataforma de cursos, metáfora genérica ou jargão espiritual amplo. | STT26-04: Deliberação explícita do Curador: termos estruturais e divindades hindus/cósmicas seguem ao cotejo; descartes cobrem exemplo metodológico, analogia histórica ou termo genérico periférico. | STT26-05: Deliberação explícita do Curador: filtro de relevância doutrinária; termos estruturais, conceitos densos e divindades seguem ao cotejo, enquanto exemplos metodológicos e espiritualidade genérica são descartados.",
+      "fundamento_curatorial": "Deliberação explícita do Curador: filtro de relevância doutrinária; descartes cobrem plataforma de cursos, metáfora genérica ou jargão espiritual amplo. | STT26-04: Deliberação explícita do Curador: termos estruturais e divindades hindus/cósmicas seguem ao cotejo; descartes cobrem exemplo metodológico, analogia histórica ou termo genérico periférico. | STT26-05: Deliberação explícita do Curador: filtro de relevância doutrinária; termos estruturais, conceitos densos e divindades seguem ao cotejo, enquanto exemplos metodológicos e espiritualidade genérica são descartados. | STT26-06: Deliberação explícita do Curador: termos estruturais e conexões específicas seguem ao cotejo; descartes cobrem vinheta de canal e figuras repetidas como exemplo histórico ou metáfora.",
       "decisao_por_lote": {
         "STT26-03": "AUTORIZAR-COTEJO-AMPLIADO",
         "STT26-04": "AUTORIZAR-COTEJO-AMPLIADO",
         "STT26-05": "AUTORIZAR-COTEJO-AMPLIADO",
-        "STT26-06": "PENDENTE"
+        "STT26-06": "AUTORIZAR-COTEJO-AMPLIADO"
       },
       "evidencias_disponiveis": {
         "STT26-03": [
@@ -448,7 +448,7 @@
           "STT26-06-RC-024-008"
         ]
       },
-      "observacao": "Decisões por lote preservadas: STT26-03, STT26-04, STT26-05; sem fusão automática entre lotes."
+      "observacao": "Decisões por lote preservadas: STT26-03, STT26-04, STT26-05, STT26-06; sem fusão automática entre lotes."
     },
     {
       "codigo": "RC-092",
@@ -524,11 +524,11 @@
       "nome": "Anjos clones",
       "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
       "decisao_eixo": "PENDENTE",
-      "fundamento_curatorial": "Deliberação explícita do Curador: filtro de relevância doutrinária; descartes cobrem plataforma de cursos, metáfora genérica ou jargão espiritual amplo. | STT26-05: Deliberação explícita do Curador: filtro de relevância doutrinária; termos estruturais, conceitos densos e divindades seguem ao cotejo, enquanto exemplos metodológicos e espiritualidade genérica são descartados.",
+      "fundamento_curatorial": "Deliberação explícita do Curador: filtro de relevância doutrinária; descartes cobrem plataforma de cursos, metáfora genérica ou jargão espiritual amplo. | STT26-05: Deliberação explícita do Curador: filtro de relevância doutrinária; termos estruturais, conceitos densos e divindades seguem ao cotejo, enquanto exemplos metodológicos e espiritualidade genérica são descartados. | STT26-06: Deliberação explícita do Curador: termos estruturais e conexões específicas seguem ao cotejo; descartes cobrem vinheta de canal e figuras repetidas como exemplo histórico ou metáfora.",
       "decisao_por_lote": {
         "STT26-03": "AUTORIZAR-COTEJO-AMPLIADO",
         "STT26-05": "AUTORIZAR-COTEJO-AMPLIADO",
-        "STT26-06": "PENDENTE"
+        "STT26-06": "AUTORIZAR-COTEJO-AMPLIADO"
       },
       "evidencias_disponiveis": {
         "STT26-03": [
@@ -545,7 +545,7 @@
           "STT26-06-RC-019-001"
         ]
       },
-      "observacao": "Decisões por lote preservadas: STT26-03, STT26-05; sem fusão automática entre lotes."
+      "observacao": "Decisões por lote preservadas: STT26-03, STT26-05, STT26-06; sem fusão automática entre lotes."
     },
     {
       "codigo": "RC-593",
@@ -570,10 +570,10 @@
       "nome": "Heber (patriarca pós-dilúvio)",
       "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
       "decisao_eixo": "PENDENTE",
-      "fundamento_curatorial": "Deliberação explícita do Curador: filtro de relevância doutrinária; termos estruturais, conceitos densos e divindades seguem ao cotejo, enquanto exemplos metodológicos e espiritualidade genérica são descartados.",
+      "fundamento_curatorial": "Deliberação explícita do Curador: filtro de relevância doutrinária; termos estruturais, conceitos densos e divindades seguem ao cotejo, enquanto exemplos metodológicos e espiritualidade genérica são descartados. | STT26-06: Deliberação explícita do Curador: termos estruturais e conexões específicas seguem ao cotejo; descartes cobrem vinheta de canal e figuras repetidas como exemplo histórico ou metáfora.",
       "decisao_por_lote": {
         "STT26-05": "AUTORIZAR-COTEJO-AMPLIADO",
-        "STT26-06": "PENDENTE"
+        "STT26-06": "AUTORIZAR-COTEJO-AMPLIADO"
       },
       "evidencias_disponiveis": {
         "STT26-05": [
@@ -584,17 +584,17 @@
           "STT26-06-RC-436-011"
         ]
       },
-      "observacao": "Decisões por lote preservadas: STT26-05; sem fusão automática entre lotes."
+      "observacao": "Decisões por lote preservadas: STT26-05, STT26-06; sem fusão automática entre lotes."
     },
     {
       "codigo": "RC-002",
       "nome": "Rebelião de Lúcifer",
       "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
       "decisao_eixo": "PENDENTE",
-      "fundamento_curatorial": "Deliberação explícita do Curador: termos estruturais e divindades hindus/cósmicas seguem ao cotejo; descartes cobrem exemplo metodológico, analogia histórica ou termo genérico periférico.",
+      "fundamento_curatorial": "Deliberação explícita do Curador: termos estruturais e divindades hindus/cósmicas seguem ao cotejo; descartes cobrem exemplo metodológico, analogia histórica ou termo genérico periférico. | STT26-06: Deliberação explícita do Curador: termos estruturais e conexões específicas seguem ao cotejo; descartes cobrem vinheta de canal e figuras repetidas como exemplo histórico ou metáfora.",
       "decisao_por_lote": {
         "STT26-04": "AUTORIZAR-COTEJO-AMPLIADO",
-        "STT26-06": "PENDENTE"
+        "STT26-06": "AUTORIZAR-COTEJO-AMPLIADO"
       },
       "evidencias_disponiveis": {
         "STT26-04": [
@@ -606,17 +606,17 @@
           "STT26-06-RC-002-006"
         ]
       },
-      "observacao": "Decisões por lote preservadas: STT26-04; sem fusão automática entre lotes."
+      "observacao": "Decisões por lote preservadas: STT26-04, STT26-06; sem fusão automática entre lotes."
     },
     {
       "codigo": "RC-302",
       "nome": "Epimeteu (titã)",
       "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
       "decisao_eixo": "PENDENTE",
-      "fundamento_curatorial": "Deliberação explícita do Curador: filtro de relevância doutrinária; descartes cobrem plataforma de cursos, metáfora genérica ou jargão espiritual amplo.",
+      "fundamento_curatorial": "Deliberação explícita do Curador: filtro de relevância doutrinária; descartes cobrem plataforma de cursos, metáfora genérica ou jargão espiritual amplo. | STT26-06: Deliberação explícita do Curador: termos estruturais e conexões específicas seguem ao cotejo; descartes cobrem vinheta de canal e figuras repetidas como exemplo histórico ou metáfora.",
       "decisao_por_lote": {
         "STT26-03": "AUTORIZAR-COTEJO-AMPLIADO",
-        "STT26-06": "PENDENTE"
+        "STT26-06": "AUTORIZAR-COTEJO-AMPLIADO"
       },
       "evidencias_disponiveis": {
         "STT26-03": [
@@ -628,7 +628,7 @@
           "STT26-06-RC-302-010"
         ]
       },
-      "observacao": "Despacho restrito a STT26-03; demais lotes do eixo permanecem independentes."
+      "observacao": "Decisões por lote preservadas: STT26-03, STT26-06; sem fusão automática entre lotes."
     },
     {
       "codigo": "RC-036",
@@ -658,10 +658,10 @@
       "nome": "Orbum",
       "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
       "decisao_eixo": "PENDENTE",
-      "fundamento_curatorial": "Deliberação explícita do Curador: filtro de relevância doutrinária; descartes cobrem plataforma de cursos, metáfora genérica ou jargão espiritual amplo.",
+      "fundamento_curatorial": "Deliberação explícita do Curador: filtro de relevância doutrinária; descartes cobrem plataforma de cursos, metáfora genérica ou jargão espiritual amplo. | STT26-06: Deliberação explícita do Curador: termos estruturais e conexões específicas seguem ao cotejo; descartes cobrem vinheta de canal e figuras repetidas como exemplo histórico ou metáfora.",
       "decisao_por_lote": {
         "STT26-03": "DESCARTAR-DO-LOTE",
-        "STT26-06": "PENDENTE"
+        "STT26-06": "DESCARTAR-DO-LOTE"
       },
       "evidencias_disponiveis": {
         "STT26-03": [
@@ -675,17 +675,17 @@
           "STT26-06-RC-085-005"
         ]
       },
-      "observacao": "Despacho restrito a STT26-03; demais lotes do eixo permanecem independentes."
+      "observacao": "Decisões por lote preservadas: STT26-03, STT26-06; sem fusão automática entre lotes."
     },
     {
       "codigo": "RC-301",
       "nome": "Prometeu (titã)",
       "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
       "decisao_eixo": "PENDENTE",
-      "fundamento_curatorial": "Deliberação explícita do Curador: termos estruturais e divindades hindus/cósmicas seguem ao cotejo; descartes cobrem exemplo metodológico, analogia histórica ou termo genérico periférico.",
+      "fundamento_curatorial": "Deliberação explícita do Curador: termos estruturais e divindades hindus/cósmicas seguem ao cotejo; descartes cobrem exemplo metodológico, analogia histórica ou termo genérico periférico. | STT26-06: Deliberação explícita do Curador: termos estruturais e conexões específicas seguem ao cotejo; descartes cobrem vinheta de canal e figuras repetidas como exemplo histórico ou metáfora.",
       "decisao_por_lote": {
         "STT26-04": "DESCARTAR-DO-LOTE",
-        "STT26-06": "PENDENTE"
+        "STT26-06": "DESCARTAR-DO-LOTE"
       },
       "evidencias_disponiveis": {
         "STT26-04": [
@@ -699,7 +699,7 @@
           "STT26-06-RC-301-009"
         ]
       },
-      "observacao": "Decisões por lote preservadas: STT26-04; sem fusão automática entre lotes."
+      "observacao": "Decisões por lote preservadas: STT26-04, STT26-06; sem fusão automática entre lotes."
     },
     {
       "codigo": "RC-487",
@@ -829,16 +829,16 @@
       "nome": "Despina",
       "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
       "decisao_eixo": "PENDENTE",
-      "fundamento_curatorial": "",
+      "fundamento_curatorial": "Deliberação explícita do Curador: termos estruturais e conexões específicas seguem ao cotejo; descartes cobrem vinheta de canal e figuras repetidas como exemplo histórico ou metáfora.",
       "decisao_por_lote": {
-        "STT26-06": "PENDENTE"
+        "STT26-06": "AUTORIZAR-COTEJO-AMPLIADO"
       },
       "evidencias_disponiveis": {
         "STT26-06": [
           "STT26-06-RC-051-001"
         ]
       },
-      "observacao": ""
+      "observacao": "Decisões por lote preservadas: STT26-06; sem fusão automática entre lotes."
     },
     {
       "codigo": "RC-589",
@@ -915,16 +915,16 @@
       "nome": "Homoafetividade (resquício da força original)",
       "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
       "decisao_eixo": "PENDENTE",
-      "fundamento_curatorial": "",
+      "fundamento_curatorial": "Deliberação explícita do Curador: termos estruturais e conexões específicas seguem ao cotejo; descartes cobrem vinheta de canal e figuras repetidas como exemplo histórico ou metáfora.",
       "decisao_por_lote": {
-        "STT26-06": "PENDENTE"
+        "STT26-06": "AUTORIZAR-COTEJO-AMPLIADO"
       },
       "evidencias_disponiveis": {
         "STT26-06": [
           "STT26-06-RC-434-001"
         ]
       },
-      "observacao": ""
+      "observacao": "Decisões por lote preservadas: STT26-06; sem fusão automática entre lotes."
     },
     {
       "codigo": "RC-474",
@@ -949,9 +949,9 @@
       "nome": "Big Bang",
       "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
       "decisao_eixo": "PENDENTE",
-      "fundamento_curatorial": "",
+      "fundamento_curatorial": "Deliberação explícita do Curador: termos estruturais e conexões específicas seguem ao cotejo; descartes cobrem vinheta de canal e figuras repetidas como exemplo histórico ou metáfora.",
       "decisao_por_lote": {
-        "STT26-06": "PENDENTE"
+        "STT26-06": "AUTORIZAR-COTEJO-AMPLIADO"
       },
       "evidencias_disponiveis": {
         "STT26-06": [
@@ -959,7 +959,7 @@
           "STT26-06-RC-034-002"
         ]
       },
-      "observacao": ""
+      "observacao": "Decisões por lote preservadas: STT26-06; sem fusão automática entre lotes."
     },
     {
       "codigo": "RC-003",
@@ -1014,9 +1014,9 @@
       "nome": "Seres Extrafísicos",
       "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
       "decisao_eixo": "PENDENTE",
-      "fundamento_curatorial": "",
+      "fundamento_curatorial": "Deliberação explícita do Curador: termos estruturais e conexões específicas seguem ao cotejo; descartes cobrem vinheta de canal e figuras repetidas como exemplo histórico ou metáfora.",
       "decisao_por_lote": {
-        "STT26-06": "PENDENTE"
+        "STT26-06": "AUTORIZAR-COTEJO-AMPLIADO"
       },
       "evidencias_disponiveis": {
         "STT26-06": [
@@ -1024,16 +1024,16 @@
           "STT26-06-RC-097-004"
         ]
       },
-      "observacao": ""
+      "observacao": "Decisões por lote preservadas: STT26-06; sem fusão automática entre lotes."
     },
     {
       "codigo": "RC-565",
       "nome": "Hochmah (2ª Sefirah — Sabedoria; = Sophia)",
       "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
       "decisao_eixo": "PENDENTE",
-      "fundamento_curatorial": "",
+      "fundamento_curatorial": "Deliberação explícita do Curador: termos estruturais e conexões específicas seguem ao cotejo; descartes cobrem vinheta de canal e figuras repetidas como exemplo histórico ou metáfora.",
       "decisao_por_lote": {
-        "STT26-06": "PENDENTE"
+        "STT26-06": "AUTORIZAR-COTEJO-AMPLIADO"
       },
       "evidencias_disponiveis": {
         "STT26-06": [
@@ -1041,7 +1041,7 @@
           "STT26-06-RC-565-002"
         ]
       },
-      "observacao": ""
+      "observacao": "Decisões por lote preservadas: STT26-06; sem fusão automática entre lotes."
     },
     {
       "codigo": "RC-666",
@@ -1065,16 +1065,16 @@
       "nome": "Eru Ilúvatar (criador no Silmarillion)",
       "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
       "decisao_eixo": "PENDENTE",
-      "fundamento_curatorial": "",
+      "fundamento_curatorial": "Deliberação explícita do Curador: termos estruturais e conexões específicas seguem ao cotejo; descartes cobrem vinheta de canal e figuras repetidas como exemplo histórico ou metáfora.",
       "decisao_por_lote": {
-        "STT26-06": "PENDENTE"
+        "STT26-06": "AUTORIZAR-COTEJO-AMPLIADO"
       },
       "evidencias_disponiveis": {
         "STT26-06": [
           "STT26-06-RC-843-001"
         ]
       },
-      "observacao": ""
+      "observacao": "Decisões por lote preservadas: STT26-06; sem fusão automática entre lotes."
     },
     {
       "codigo": "RC-081",
@@ -1097,16 +1097,16 @@
       "nome": "O Segredo Perdido do Éden",
       "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
       "decisao_eixo": "PENDENTE",
-      "fundamento_curatorial": "",
+      "fundamento_curatorial": "Deliberação explícita do Curador: termos estruturais e conexões específicas seguem ao cotejo; descartes cobrem vinheta de canal e figuras repetidas como exemplo histórico ou metáfora.",
       "decisao_por_lote": {
-        "STT26-06": "PENDENTE"
+        "STT26-06": "AUTORIZAR-COTEJO-AMPLIADO"
       },
       "evidencias_disponiveis": {
         "STT26-06": [
           "STT26-06-RC-435-001"
         ]
       },
-      "observacao": ""
+      "observacao": "Decisões por lote preservadas: STT26-06; sem fusão automática entre lotes."
     },
     {
       "codigo": "RC-585",
@@ -1178,9 +1178,9 @@
       "nome": "Hiperbórea",
       "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
       "decisao_eixo": "PENDENTE",
-      "fundamento_curatorial": "",
+      "fundamento_curatorial": "Deliberação explícita do Curador: termos estruturais e conexões específicas seguem ao cotejo; descartes cobrem vinheta de canal e figuras repetidas como exemplo histórico ou metáfora.",
       "decisao_por_lote": {
-        "STT26-06": "PENDENTE"
+        "STT26-06": "AUTORIZAR-COTEJO-AMPLIADO"
       },
       "evidencias_disponiveis": {
         "STT26-06": [
@@ -1189,17 +1189,18 @@
           "STT26-06-RC-068-003"
         ]
       },
-      "observacao": ""
+      "observacao": "Decisões por lote preservadas: STT26-06; sem fusão automática entre lotes."
     }
   ],
   "despacho_de_eixo": {
-    "resultado": "PENDENTE",
+    "resultado": "CONCLUIDO",
     "lotes_autorizados_para_cotejo_ampliado": [
       "STT26-03",
       "STT26-04",
-      "STT26-05"
+      "STT26-05",
+      "STT26-06"
     ],
-    "autorizacao_para_abrir_ciclo": false,
-    "observacao": "Despacho parcial: STT26-03, STT26-04 e STT26-05 deliberados sob filtros de relevância doutrinária. STT26-06 permanece integralmente PENDENTE. Sem autorização para abrir ciclo."
+    "autorizacao_para_abrir_ciclo": true,
+    "observacao": "Despacho integral do eixo: STT26-03 a STT26-06 deliberados. Abertura do ciclo para ingestão no Motor autorizada explicitamente pelo Curador; a autorização não substitui âncoras literais nem os portões do Motor."
   }
 }
