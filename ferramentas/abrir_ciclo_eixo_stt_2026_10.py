@@ -32,7 +32,7 @@ NORMALIZADOS = RAIZ / "normalizados_stt_lote_2026-10"
 TRIAGEM = RAIZ / "triagem_stt_lote_2026-10"
 CICLOS = RAIZ / "ciclos"
 MOTOR = RAIZ / "ferramentas" / "motor.py"
-DATA_ABERTURA = "2026-10-21"
+DATA_ABERTURA = "2026-10-22"
 
 
 class FalhaAbertura(RuntimeError):

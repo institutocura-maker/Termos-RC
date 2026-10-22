@@ -456,7 +456,7 @@
     "lotes_autorizados_para_cotejo_ampliado": [
       "STT26-07"
     ],
-    "autorizacao_para_abrir_ciclo": false,
-    "observacao": "Despacho integral do único lote planejado para este eixo. Cotejo ampliado autorizado; abertura do ciclo no Motor permanece pendente de autorização explícita do Curador."
+    "autorizacao_para_abrir_ciclo": true,
+    "observacao": "Despacho integral do único lote planejado para este eixo. Cotejo ampliado autorizado; abertura do ciclo no Motor autorizada explicitamente pelo Curador após aprovação da auditoria global STT26 em 22/10/2026. A autorização não substitui âncoras literais nem os portões do Motor."
   }
 }
