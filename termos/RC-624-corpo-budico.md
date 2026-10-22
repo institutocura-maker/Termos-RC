@@ -5,7 +5,7 @@ nome = "Corpo Búdico"
 categoria = "Conceitos Cosmológicos"
 subcategoria = "2.3 Dimensões / Planos de existência"
 status = "verificado"
-fontes = ["P2026-07-30", "P2024-05-04", "P2025-02-16", "P2025-02-15", "P2024-11-30", "P2024-11-09", "P2024-07-14", "P2024-03-02", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA"]
+fontes = ["P2026-07-30", "P2024-05-04", "P2025-02-16", "P2025-02-15", "P2024-11-30", "P2024-11-09", "P2024-07-14", "P2024-03-02", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA", "STT26-SOCIEDADE_CONTEMPORANEA"]
 via = "P6-evidência"
 confianca_fonte = "média"
 atualizado = "2026-10-22"
@@ -44,9 +44,15 @@ Consultar relações acima.
 
 - **[STT26-10 · Corpo Búdico]** «Quando uma mente deseja se ausentar do paraíso, e isso aconteceu, essa consciência particularizada tomou desse corpo átmico e investiu daquilo que a gente chama de das duas vestimentas básicas, o chamado corpo búdico, o corpo manásico, ou vestimenta emocional, vestimenta mental, então é o corpo átmico, travestido dessas duas vestimentas para que o eu desse ser possa interagir com coisas que não são perfeitas, com caos, o que seja.» (U6275 · chars 919938–920373) — Candidata de cotejo; evidência `STT26-10-RC-624-001`, grafia encontrada `corpo búdico`; decisão por lote `STT26-10: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
 
+## Ampliação — STT26-SOCIEDADE_CONTEMPORANEA (Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados))
+
+- **[STT26-22 · Corpo Búdico]** «Só que como esse ser manásico é invariável, imutável, ele tem um padrão de perfeição vibratória que não muda, devido ao excesso de pureza que ele tem, ele não sabe conviver com o caos, esse tipo de alma não tem como se imantar um corpo caótico. Então ele se investe de um corpo búdico que permite a tomada de consciência do eu, do ser, vivendo não agora só nas fronteiras do paraíso, mas além das fronteiras do paraíso, que é onde ele poderá entender o caos, o problema que houve e ver o que pode fazer.» (U9372 · chars 1523670–1524174) — Candidata de cotejo; evidência `STT26-22-RC-624-001`, grafia encontrada `corpo búdico`; decisão por lote `STT26-22: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
+| STT26-SOCIEDADE_CONTEMPORANEA | Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | STT26-EXPERIENCIA_ESPIRITUAL_ETICA | Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | P2026-07-30 — 4ª Edição Estagiários do Kaos | U0050–U0053 | STT pré-curado / devolutiva |
 | P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — |

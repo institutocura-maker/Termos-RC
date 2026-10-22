@@ -5,10 +5,10 @@ nome = "Rebelião dos Elétrons (Além da Entropia)"
 categoria = "Processos & Fenômenos"
 subcategoria = "4.4 Fenômenos físicos / energéticos"
 status = "verificado"
-fontes = ["P2023-12-17", "P2023-12-03"]
+fontes = ["P2023-12-17", "P2023-12-03", "STT26-SOCIEDADE_CONTEMPORANEA"]
 via = "P6-evidência"
 confianca_fonte = "média"
-atualizado = "2026-08-31"
+atualizado = "2026-10-22"
 +++
 # Rebelião dos Elétrons (Além da Entropia) — RC-826
 
@@ -43,9 +43,15 @@ Aparece em **P2023-12-17**, U0004. Contexto: a palestra reconstrói a história 
 - **Lúcifer (RC-002)** — o vetor paralelo
 - **Sophia (RC-009)** — quem tem o "olhar científico" sobre a rebelião
 
+## Ampliação — STT26-SOCIEDADE_CONTEMPORANEA (Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados))
+
+- **[STT26-22 · Rebelião dos Elétrons (Além da Entropia)]** «você se sentir sim ou trans no seu corpo isso é algo até independente a questão da homoafetividade é uma opção que você faz, mas a sua identidade você sente você acha que de certa forma isso aí pode ter a ver com o planeta a inteligência do planeta gerando seres híbridos, trabalhando isso aí para que haja menos reprocriação é complicado, num livro que eu escrevi e lancei chamado da rebelião dos elétrons olha isso eu vou numa tese que os espíritos pediram para eu semear a reflexão por aqui que mostra os elétrons que tem memória e absorvem tudo que eles vivenciam e como são os mesmos elétrons desde o início do universo até hoje nada se perde nada se cria, tudo se transforma por que essa regra existe?» (U7702 · chars 1260262–1260970) — Candidata de cotejo; evidência `STT26-22-RC-826-001`, grafia encontrada `rebelião dos elétrons`; decisão por lote `STT26-22: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| STT26-SOCIEDADE_CONTEMPORANEA | Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
 | P2023-07-09 | A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
 | P2023-12-17 — Lúcifer e a Rebelião dos Elétrons | U0004 (S4) | — | palestra (fonte primária, STT) |
 | P2023-12-03 — A Rebelião de Lúcifer ainda por ser Finalizada | (todas) | — | palestra (fonte secundária, paralelo) |

@@ -5,10 +5,10 @@ nome = "Kundalini (no contexto RC)"
 categoria = "Conceitos Cosmológicos"
 subcategoria = "2.4 Espiritualidade / Doutrina"
 status = "verificado"
-fontes = ["B001", "B075", "P2024-05-04", "P2024-11-03"]
+fontes = ["B001", "B075", "P2024-05-04", "P2024-11-03", "STT26-SOCIEDADE_CONTEMPORANEA"]
 via = "P6-evidência"
 confianca_fonte = "alta"
-atualizado = "2026-09-13"
+atualizado = "2026-10-22"
 +++
 # Kundalini (no contexto RC) — RC-211
 
@@ -33,10 +33,16 @@ Na leitura das Revelações Cósmicas, o «potencial sagrado da energia espiritu
 | Matriz Modeladora / Matriz de Cocriação | RC-210 | associado |
 | Yoga Ancestral (Origem Cósmica) | RC-670 | associado |
 
+## Ampliação — STT26-SOCIEDADE_CONTEMPORANEA (Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados))
+
+- **[STT26-21 · Kundalini (no contexto RC)]** «Olá, tudo em paz Rodrigo, meu cumprimento fraternal a todos vocês que se conectam aqui conosco no nosso canal do YouTube. Perfeito, e o assunto hoje é Kundalini e chakras.» (U4920 · chars 832593–832765) — Candidata de cotejo; evidência `STT26-21-RC-211-001`, grafia encontrada `Kundalini`; decisão por lote `STT26-21: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+
 ## Fontes
 
 | Obra (sigla) | Título | Página | Tipo |
 |---|---|---|---|
+| STT26-SOCIEDADE_CONTEMPORANEA | Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
 | B001 | O Drama Cósmico de Javé | p. 187 | livro; citação intra-linha |
 | P2024-05-04 | P2024-05-04 | p. 11 | palestra/STT; citação intra-linha |
 

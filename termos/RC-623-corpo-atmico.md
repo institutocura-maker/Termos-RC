@@ -5,7 +5,7 @@ nome = "Corpo Átmico"
 categoria = "Conceitos Cosmológicos"
 subcategoria = "2.3 Dimensões / Planos de existência"
 status = "verificado"
-fontes = ["P2026-07-30", "P2024-05-04", "P2025-02-16", "P2025-02-15", "P2024-11-30", "P2024-11-09", "P2024-07-14", "P2024-04-14", "P2025-06-14b", "P2024-03-02", "P2024-09-28", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA"]
+fontes = ["P2026-07-30", "P2024-05-04", "P2025-02-16", "P2025-02-15", "P2024-11-30", "P2024-11-09", "P2024-07-14", "P2024-04-14", "P2025-06-14b", "P2024-03-02", "P2024-09-28", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA", "STT26-SOCIEDADE_CONTEMPORANEA"]
 via = "P6-evidência"
 confianca_fonte = "média"
 atualizado = "2026-10-22"
@@ -49,9 +49,15 @@ Consultar relações acima.
 
 - **[STT26-09 · Corpo Átmico]** «Depois que esses quatro corpos estão formados no zigoto, quando o zigoto ainda nem é um embrião, ainda nem nasceu, Então, aí surge o nosso espírito, que é a tríade imortal, porque é o corpo átmico, o corpo búdico e o corpo manásico.» (U4871 · chars 708500–708733) — Candidata de cotejo; evidência `STT26-09-RC-623-001`, grafia encontrada `corpo átmico`; decisão por lote `STT26-09: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
 
+## Ampliação — STT26-SOCIEDADE_CONTEMPORANEA (Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados))
+
+- **[STT26-21 · Corpo Átmico]** «Essa é um tipo de consciência espiritual particularizada, composta de um corpo átmico, que seria a alma, investida por duas vestimentas espirituais, os chamados corpos búdicos e manásicos, ou seja, emocional e mental, de âmbito superior.» (U4952 · chars 836742–836979) — Candidata de cotejo; evidência `STT26-21-RC-623-001`, grafia encontrada `corpo átmico`; decisão por lote `STT26-21: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
+| STT26-SOCIEDADE_CONTEMPORANEA | Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | STT26-EXPERIENCIA_ESPIRITUAL_ETICA | Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | P2026-07-30 — 4ª Edição Estagiários do Kaos | U0049–U0054 | STT pré-curado / devolutiva |
 | P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — |

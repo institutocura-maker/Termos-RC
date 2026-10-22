@@ -5,7 +5,7 @@ nome = "Quarto Logos (Olm / Codificador de Zian)"
 categoria = "Seres & Entidades"
 subcategoria = "1.8 Consciências coletivas / Logos"
 status = "verificado"
-fontes = ["B031", "B016", "B014", "B057", "B060", "P2021-12-04", "P2026-07-30", "P2026-04-02", "P2025-10-25", "P2025-02-16", "P2024-03-02", "ART-2026-08-18", "P2023-05-13", "P2023-12-02", "P2021-03-27", "P2024-09-28", "P2024-08-03", "P2023-11-19", "P2023-04-30", "P2020-04-18", "P2020-07-04", "P2021-03-13", "P2023-04-01b", "P2024-11-03", "P2025-02-22", "P2021-05-15", "P2022-03-26", "P2023-12-03", "P2021-01-30", "P2024-06-16", "P2017-10-14", "P2022-12-03", "P2022-11-20", "P2022-09-18", "P2022-07-16", "P2021-04-10", "P2021-06-26", "P2022-09-17", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA"]
+fontes = ["B031", "B016", "B014", "B057", "B060", "P2021-12-04", "P2026-07-30", "P2026-04-02", "P2025-10-25", "P2025-02-16", "P2024-03-02", "ART-2026-08-18", "P2023-05-13", "P2023-12-02", "P2021-03-27", "P2024-09-28", "P2024-08-03", "P2023-11-19", "P2023-04-30", "P2020-04-18", "P2020-07-04", "P2021-03-13", "P2023-04-01b", "P2024-11-03", "P2025-02-22", "P2021-05-15", "P2022-03-26", "P2023-12-03", "P2021-01-30", "P2024-06-16", "P2017-10-14", "P2022-12-03", "P2022-11-20", "P2022-09-18", "P2022-07-16", "P2021-04-10", "P2021-06-26", "P2022-09-17", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA", "STT26-SOCIEDADE_CONTEMPORANEA"]
 via = "P6-evidência"
 confianca_fonte = "alta"
 atualizado = "2026-10-22"
@@ -76,9 +76,15 @@ A partir de 1989 passou a operar o Quarto Logos, substituindo os 3 primeiros Log
 
 - **[STT26-09 · Quarto Logos (Olm / Codificador de Zian)]** «E nós somos os agentes da reconstrução dessa mente. isso chama-se postulado 4 e a palestra que a gente vai ver vai tentar demonstrar isso esse é o Quarto Logos?» (U3111 · chars 439349–439509) — Candidata de cotejo; evidência `STT26-09-RC-092-001`, grafia encontrada `Quarto Logos`; decisão por lote `STT26-09: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
 
+## Ampliação — STT26-SOCIEDADE_CONTEMPORANEA (Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados))
+
+- **[STT26-19 · Quarto Logos (Olm / Codificador de Zian)]** «Nós humanos, sim. Então, nós, guiados pelo quarto logos, que já compreende tudo isso e puxa meio, de certa forma, puxa esse carro ao céu com todos nós em cima.» (U1253 · chars 190779–190938) — Candidata de cotejo; evidência `STT26-19-RC-092-001`, grafia encontrada `quarto logos`; decisão por lote `STT26-19: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
+| STT26-SOCIEDADE_CONTEMPORANEA | Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | STT26-EXPERIENCIA_ESPIRITUAL_ETICA | Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |
 

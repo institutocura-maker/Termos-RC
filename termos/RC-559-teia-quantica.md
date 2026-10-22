@@ -5,7 +5,7 @@ nome = "Teia quântica (o que sai de um ser volta para ele)"
 categoria = "Conceitos Cosmológicos"
 subcategoria = "2.2 Leis e princípios cósmicos"
 status = "verificado"
-fontes = ["P2024-02-25", "P2024-05-04", "P2025-03-15", "P2025-02-15", "P2024-11-30", "P2024-11-09", "P2024-04-13", "P2024-04-14", "P2024-02-03", "P2023-05-13", "P2025-11-29", "P2023-10-14", "P2023-12-03", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA"]
+fontes = ["P2024-02-25", "P2024-05-04", "P2025-03-15", "P2025-02-15", "P2024-11-30", "P2024-11-09", "P2024-04-13", "P2024-04-14", "P2024-02-03", "P2023-05-13", "P2025-11-29", "P2023-10-14", "P2023-12-03", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA", "STT26-SOCIEDADE_CONTEMPORANEA"]
 via = "P6-evidência"
 confianca_fonte = "média"
 atualizado = "2026-10-22"
@@ -113,3 +113,7 @@ Na RC, o "tear da vida": a malha de interconexão que entrelaça as linhas de vi
 ## Ampliação — STT26-EXPERIENCIA_ESPIRITUAL_ETICA (Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados))
 
 - **[STT26-12 · Teia quântica (o que sai de um ser volta para ele)]** «Tudo que sai de qualquer ser, volta para esse ser. Isso foi determinado lá atrás, por um sistema quântico criado por Orlog, se falarmos da mitologia nórdica, referente à teia quântica chamada Word, que obriga que as coisas sejam feitas em bumerangue.» (U13465 · chars 2040917–2041167) — Candidata de cotejo; evidência `STT26-12-RC-559-001`, grafia encontrada `teia quântica`; decisão por lote `STT26-12: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+## Ampliação — STT26-SOCIEDADE_CONTEMPORANEA (Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados))
+
+- **[STT26-22 · Teia quântica (o que sai de um ser volta para ele)]** «O primeiro que surgiu é contado na mitologia nórdica, que é chamada Wyrd, que é a teia quântica da vida, que fazia com que o que saísse de um ser voltasse para esse mesmo ser.» (U8510 · chars 1385702–1385877) — Candidata de cotejo; evidência `STT26-22-RC-559-001`, grafia encontrada `teia quântica`; decisão por lote `STT26-22: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.

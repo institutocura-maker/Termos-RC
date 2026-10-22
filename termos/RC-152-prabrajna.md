@@ -5,10 +5,10 @@ nome = "Prabrajna"
 categoria = "Seres & Entidades"
 subcategoria = "1.1 Divindades / Criadores"
 status = "verificado"
-fontes = ["B024", "B044", "B001", "B016", "B013", "B022", "B060", "P2021-12-04", "P2026-07-30", "P2024-05-04", "P2025-03-15", "P2024-11-30", "P2024-11-09", "P2024-04-14", "P2025-06-14b", "P2024-03-02", "B089", "P2024-11-03", "P2024-06-16", "P2021-06-26"]
+fontes = ["B024", "B044", "B001", "B016", "B013", "B022", "B060", "P2021-12-04", "P2026-07-30", "P2024-05-04", "P2025-03-15", "P2024-11-30", "P2024-11-09", "P2024-04-14", "P2025-06-14b", "P2024-03-02", "B089", "P2024-11-03", "P2024-06-16", "P2021-06-26", "STT26-SOCIEDADE_CONTEMPORANEA"]
 via = "P6-evidência"
 confianca_fonte = "alta"
-atualizado = "2026-09-12"
+atualizado = "2026-10-22"
 +++
 # Prabrajna — RC-152
 
@@ -74,9 +74,15 @@ Prabrajna é central para o capítulo 3 (Gunas): sua energia Rajásica criou os 
 ## Seres Associados
 Brahma/Javé (RC-037/RC-001); Mavatna (RC-135); Savna (RC-102).
 
+## Ampliação — STT26-SOCIEDADE_CONTEMPORANEA (Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados))
+
+- **[STT26-19 · Prabrajna]** «Bom, ele começa a pergunta dele assim, Se o ser projetado ad prabrajna e o ser mergulhado ad mavatma são versões da mesma consciência espiritual, por que a criação de prabrajna não foi destruída em perpérium ao invés de se resolver de dentro, como é o caso que nós estamos vivendo hoje?» (U1287 · chars 196713–196999) — Candidata de cotejo; evidência `STT26-19-RC-152-001`, grafia encontrada `prabrajna`; decisão por lote `STT26-19: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| STT26-SOCIEDADE_CONTEMPORANEA | Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
 | P2021-06-26 | Shiva - A Reconstrução do Erro de Brahma e o Tikum (palestra) | — | transcrição automatizada; citação |
 | P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
 | A Epopeia dos Agentes da Vida Universal (B024) | caps. 1, 3, 15, 16 | pp. 14–17, 32–36, 109–114 | ocorrências centrais |

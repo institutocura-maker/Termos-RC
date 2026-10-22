@@ -5,10 +5,10 @@ nome = "Especiação"
 categoria = "Processos & Fenômenos"
 subcategoria = "4.1 Processos biológicos / genéticos"
 status = "em análise"
-fontes = ["B031", "P2022-12-17", "P2025-02-16", "P2024-09-29", "P2024-07-13", "P2023-05-13", "P2021-03-27", "P2025-11-29", "P2021-05-15", "P2020-04-25", "P2022-03-26", "P2023-12-03"]
+fontes = ["B031", "P2022-12-17", "P2025-02-16", "P2024-09-29", "P2024-07-13", "P2023-05-13", "P2021-03-27", "P2025-11-29", "P2021-05-15", "P2020-04-25", "P2022-03-26", "P2023-12-03", "STT26-SOCIEDADE_CONTEMPORANEA"]
 via = "P7-conhecimento"
 confianca_fonte = "baixa"
-atualizado = "2026-08-29"
+atualizado = "2026-10-22"
 +++
 # Especiação — RC-056
 
@@ -90,3 +90,7 @@ Processo descrito na Revelação Cósmica como a **mudança de expressão consce
 ---
 ---
 ---
+
+## Ampliação — STT26-SOCIEDADE_CONTEMPORANEA (Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados))
+
+- **[STT26-19 · Especiação]** «E essa única espécie de lobo cinzento, há 10 mil anos atrás, passou por um processo que a biologia chama de especiação.» (U0788 · chars 130508–130627) — Candidata de cotejo; evidência `STT26-19-RC-056-001`, grafia encontrada `especiação`; decisão por lote `STT26-19: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.

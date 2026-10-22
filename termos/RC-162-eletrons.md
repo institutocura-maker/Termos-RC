@@ -5,7 +5,7 @@ nome = "Elétrons (agente básico da vida universal)"
 categoria = "Processos & Fenômenos"
 subcategoria = "4.4 Fenômenos físicos / energéticos"
 status = "verificado"
-fontes = ["B024", "B041", "P2024-05-04", "P2025-03-15", "P2025-02-16", "P2025-02-15", "P2024-11-30", "P2024-11-09", "P2024-03-03", "P2024-04-14", "P2025-06-14b", "P2023-11-19", "STT26-EXTRATERRESTRES_TECNOLOGIA", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA", "STT26-MITOLOGIAS_REINTEGRACAO"]
+fontes = ["B024", "B041", "P2024-05-04", "P2025-03-15", "P2025-02-16", "P2025-02-15", "P2024-11-30", "P2024-11-09", "P2024-03-03", "P2024-04-14", "P2025-06-14b", "P2023-11-19", "STT26-EXTRATERRESTRES_TECNOLOGIA", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA", "STT26-MITOLOGIAS_REINTEGRACAO", "STT26-SOCIEDADE_CONTEMPORANEA"]
 via = "P6-evidência"
 confianca_fonte = "alta"
 atualizado = "2026-10-22"
@@ -56,10 +56,16 @@ O "agente básico da vida universal": o único que existe desde o primeiro momen
 - **[STT26-13 · Elétrons (agente básico da vida universal)]** «Mas o nosso organismo, o cosmos ou o universo no qual a gente vive, o conceito mais moderno dele é que é um organismo vivo que está se reconstruindo ou se construindo a si mesmo por meio do que os elétrons marcam em si mesmos e do modo como eles se organizam e produzem ilhas de negentropia no meio do caos.» (U1648 · chars 267220–267528) — Candidata de cotejo; evidência `STT26-13-RC-162-001`, grafia encontrada `elétrons`; decisão por lote `STT26-13: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
 
 
+## Ampliação — STT26-SOCIEDADE_CONTEMPORANEA (Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados))
+
+- **[STT26-19 · Elétrons (agente básico da vida universal)]** «Sim, o fez. Fez tantas coisas maravilhosas, mas ele meio que ele se rompeu isso aí preocupado mais em devolver os elétrons do que haviam sido emprestados Sophia para seu DNA dele inserido em Maria mas a fazer isso ele não fez tudo que ele poderia ter feito no sentido de construir o espírito dele me parece que enquanto homem Jesus não tinha total consciência parcial consciência em algumas coisas que a gente está dizendo hoje em dia.» (U1331 · chars 204762–205198) — Candidata de cotejo; evidência `STT26-19-RC-162-001`, grafia encontrada `elétrons`; decisão por lote `STT26-19: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| STT26-SOCIEDADE_CONTEMPORANEA | Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | STT26-MITOLOGIAS_REINTEGRACAO | Eixo STT26 — Mitologias, tradições e eixo de reintegração (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | STT26-EXPERIENCIA_ESPIRITUAL_ETICA | Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | STT26-EXTRATERRESTRES_TECNOLOGIA | Eixo STT26 — Extraterrestres, tecnologia e cosmos (derivados normalizados) (palestra) | transcrição automatizada; citação |

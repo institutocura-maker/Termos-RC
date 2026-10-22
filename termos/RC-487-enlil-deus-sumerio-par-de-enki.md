@@ -5,7 +5,7 @@ nome = "Enlil (deus sumério, par de Enki)"
 categoria = "Seres & Entidades"
 subcategoria = "1.3 Extraterrestres / Raças cósmicas"
 status = "verificado"
-fontes = ["P2022-12-17", "P2024-04-13", "P2021-03-27", "B089", "P2021-05-15", "P2023-10-14", "P2023-12-03", "STT26-MITOLOGIAS_REINTEGRACAO"]
+fontes = ["P2022-12-17", "P2024-04-13", "P2021-03-27", "B089", "P2021-05-15", "P2023-10-14", "P2023-12-03", "STT26-MITOLOGIAS_REINTEGRACAO", "STT26-SOCIEDADE_CONTEMPORANEA"]
 via = "P6-evidência"
 confianca_fonte = "alta"
 atualizado = "2026-10-22"
@@ -37,10 +37,16 @@ Anunnaki filho de Anu (RC-587), irmão de **Enki** (RC-486) e de Ninmah/Ninhursa
 - **[STT26-13 · Enlil (deus sumério, par de Enki)]** «Mas é uma revelação formidável. Jean, qual a ligação de Enki e Enlil com Javé? É outra palestra.» (U0692 · chars 145278–145374) — Candidata de cotejo; evidência `STT26-13-RC-487-001`, grafia encontrada `Enlil`; decisão por lote `STT26-13: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
 
 
+## Ampliação — STT26-SOCIEDADE_CONTEMPORANEA (Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados))
+
+- **[STT26-22 · Enlil (deus sumério, par de Enki)]** «Spinoza foi alguém que disse vamos atrás de uma solução para resolver isso aqui ele não foi para a esquerda e direita, em cima e abaixo ele propôs uma religião da razão ou seja, algo filosófico como sendo uma possível solução para esse impasse existencial maravilhoso eu gosto muito de uma passagem quando ele fala que a queda de Adão e Eva na verdade não foi uma queda foi uma ascensão quando eles foram expulsos do paraíso é porque eles não eram mais crianças e acenderam essa queda, virou uma queda para cima, para acender através da semente do conhecimento que hipoteticamente, Lúcifer tenha dado essa essa semente do conhecimento para eles, o que na Bíblia fala que é Lúcifer, mas talvez muito atrás, lá na raiz, tenha sido Enki, o deus Sumério, que queria dar mais conhecimento no genoma humano, e Enlil, o irmão de Enki, chegou pra ele e falou não, mas esse serzinho aí não vai suportar tanto conhecimento, é perigoso, ele não tem capacidade.» (U7796 · chars 1272252–1273202) — Candidata de cotejo; evidência `STT26-22-RC-487-001`, grafia encontrada `Enlil`; decisão por lote `STT26-22: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| STT26-SOCIEDADE_CONTEMPORANEA | Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | STT26-MITOLOGIAS_REINTEGRACAO | Eixo STT26 — Mitologias, tradições e eixo de reintegração (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
 | P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |

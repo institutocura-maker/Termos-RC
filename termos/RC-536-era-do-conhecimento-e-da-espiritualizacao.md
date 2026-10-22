@@ -5,10 +5,10 @@ nome = "Era do Conhecimento e da Espiritualização"
 categoria = "Eventos & Eras"
 subcategoria = "7.2 Eras / Épocas / Ciclos"
 status = "verificado"
-fontes = ["B042", "P2022-12-17"]
+fontes = ["B042", "P2022-12-17", "STT26-SOCIEDADE_CONTEMPORANEA"]
 via = "P6-evidência"
 confianca_fonte = "alta"
-atualizado = "2026-08-13"
+atualizado = "2026-10-22"
 +++
 # Era do Conhecimento e da Espiritualização — RC-536
 
@@ -32,9 +32,15 @@ A abertura das *Crônicas de um Novo Tempo* (B042) situa o livro no contexto da 
 | Transição Planetária | RC-344 | relaciona-se-a |
 | Profecia Hopi da Estrela Azul | RC-591 | ← relaciona-se-a |
 
+## Ampliação — STT26-SOCIEDADE_CONTEMPORANEA (Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados))
+
+- **[STT26-19 · Era do Conhecimento e da Espiritualização]** «Até que um asteroide venha e todo mundo se transforme em ser humano esclarecido, amoroso e com a bandeirinha da Terra, e não mais as bandeirinhas nacionalistas que escondem todo tipo de esquisitice. O fato é que nós vivemos uma nova era, que é a era do conhecimento e da espiritualização, a era em que as crenças descabidas da motivação religiosa ultrapassada não mais terão lugar, pois que todos nós, querendo ou não, simplesmente teremos que saber, e ninguém mais precisará acreditar.» (U0276 · chars 50090–50576) — Candidata de cotejo; evidência `STT26-19-RC-536-001`, grafia encontrada `era do conhecimento e da espiritualização`; decisão por lote `STT26-19: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| STT26-SOCIEDADE_CONTEMPORANEA | Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
 | Crônicas de um Novo Tempo (B042) | Esclarecimento | p. 5 (PDF) | definição do autor |
 
 ## Citações-chave

@@ -5,7 +5,7 @@ nome = "Ressonância límbica (emoções como tecnologia cósmica)"
 categoria = "Processos & Fenômenos"
 subcategoria = "4.2 Fenômenos espirituais / mediúnicos"
 status = "verificado"
-fontes = ["B072", "P2025-03-15", "P2025-02-16", "P2025-02-15", "P2024-11-30", "P2024-11-09", "P2024-09-29", "P2024-08-03", "P2024-07-14", "P2024-03-03", "P2024-04-13", "P2023-04-15", "P2023-04-01", "P2023-04-29", "P2022-09-17", "P2022-11-19", "P2025-12-14", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA"]
+fontes = ["B072", "P2025-03-15", "P2025-02-16", "P2025-02-15", "P2024-11-30", "P2024-11-09", "P2024-09-29", "P2024-08-03", "P2024-07-14", "P2024-03-03", "P2024-04-13", "P2023-04-15", "P2023-04-01", "P2023-04-29", "P2022-09-17", "P2022-11-19", "P2025-12-14", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA", "STT26-SOCIEDADE_CONTEMPORANEA"]
 via = "P6-evidência"
 confianca_fonte = "alta"
 atualizado = "2026-10-22"
@@ -59,9 +59,15 @@ Na cosmologia de Ellam, a linguagem silenciosa dos mamíferos que permite perceb
 
 - **[STT26-12 · Ressonância límbica (emoções como tecnologia cósmica)]** «Quais são os frutos da consciência humana? Nós ainda estamos sofisticando o que herdamos dos mamíferos. Porque os mamíferos, através da ressonância límbica, sentem o que o outro sente e se ajudam.» (U13433 · chars 2036310–2036506) — Candidata de cotejo; evidência `STT26-12-RC-529-001`, grafia encontrada `ressonância límbica`; decisão por lote `STT26-12: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
 
+## Ampliação — STT26-SOCIEDADE_CONTEMPORANEA (Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados))
+
+- **[STT26-24 · Ressonância límbica (emoções como tecnologia cósmica)]** «E nós humanos éramos para estar contribuídos com 200 milhões de proteínas, que significaria um trilhão de novas memórias maravilhosas para os elétrons, mas a gente mal consegue imitar a ressonância límbica dos mamíferos.» (U14220 · chars 2289049–2289269) — Candidata de cotejo; evidência `STT26-24-RC-529-001`, grafia encontrada `ressonância límbica`; decisão por lote `STT26-24: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
+| STT26-SOCIEDADE_CONTEMPORANEA | Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | STT26-EXPERIENCIA_ESPIRITUAL_ETICA | Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | P2024-03-17 | A Quem Pertence o Planeta e a Biblioteca Genômica Mais Atualizada do Universo (palestra) | transcrição automatizada; citação |
 | P2025-12-14 | Os Fundamentos da Revelação Cósmica (palestra) | — | transcrição automatizada; citação |

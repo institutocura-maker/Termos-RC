@@ -5,7 +5,7 @@ nome = "Espiritualidade Laboratorial"
 categoria = "Conceitos Cosmológicos"
 subcategoria = "2.3 Dimensões / Planos de existência"
 status = "em análise"
-fontes = ["B031", "B024", "B013", "B051", "B060", "P2021-12-04", "P2024-05-04", "P2025-02-15", "P2024-11-30", "P2024-11-09", "P2024-07-14", "P2020-04-04", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA"]
+fontes = ["B031", "B024", "B013", "B051", "B060", "P2021-12-04", "P2024-05-04", "P2025-02-15", "P2024-11-30", "P2024-11-09", "P2024-07-14", "P2020-04-04", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA", "STT26-SOCIEDADE_CONTEMPORANEA"]
 via = "P7-conhecimento"
 confianca_fonte = "baixa"
 atualizado = "2026-10-22"
@@ -62,9 +62,15 @@ O terceiro e mais denso dos três níveis: a região da «Experiência Laborator
 
 - **[STT26-08 · Espiritualidade Laboratorial]** «Segundo o que foi explicado, o suposto espírito Adiagia-A na espiritualidade operacional se fatiou após o segundo colapso quântico, espiritualidade laboratorial, projetando um ser hábitos para a Bágina, correto?» (U0927 · chars 65803–66014) — Candidata de cotejo; evidência `STT26-08-RC-061-001`, grafia encontrada `espiritualidade laboratorial`; decisão por lote `STT26-08: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
 
+## Ampliação — STT26-SOCIEDADE_CONTEMPORANEA (Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados))
+
+- **[STT26-20 · Espiritualidade Laboratorial]** «Isso não é coerente, isso também não é razoável. Porque o nosso espírito poderia existir em outras faixas de realidade foram criadas a partir da espiritualidade laboratorial e o que lá se vive sim com o mínimo de decência e dignidade o problema está aqui dentro então nós que estamos aqui dentro no caos nós somos heróis desassociados de um belo enredo que conta essa história porque as histórias que existem nos transformaram em pecadores filhos de um demônio e que nós nem deveríamos existir e tão horríveis nós somos que precisamos do batismo da Igreja Católica para que o nosso eu, quando morrer, não vá para o inferno, vá para o céu.» (U3125 · chars 540524–541162) — Candidata de cotejo; evidência `STT26-20-RC-061-001`, grafia encontrada `espiritualidade laboratorial`; decisão por lote `STT26-20: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
+| STT26-SOCIEDADE_CONTEMPORANEA | Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | STT26-EXPERIENCIA_ESPIRITUAL_ETICA | Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | B031 | — | registro-mestre (fonte censada) |
 | B024 | — | registro-mestre (fonte censada) |

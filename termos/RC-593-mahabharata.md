@@ -5,7 +5,7 @@ nome = "Mahabharata"
 categoria = "Tecnologias & Artefatos"
 subcategoria = "5.4 Escrituras / Objetos documentais"
 status = "verificado"
-fontes = ["P2022-12-17", "P2025-02-16", "P2024-11-30", "P2023-06-25", "P2021-05-15", "P2023-10-14", "P2022-03-26", "P2023-12-03", "P2024-06-16", "STT26-EXTRATERRESTRES_TECNOLOGIA", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA", "STT26-MITOLOGIAS_REINTEGRACAO"]
+fontes = ["P2022-12-17", "P2025-02-16", "P2024-11-30", "P2023-06-25", "P2021-05-15", "P2023-10-14", "P2022-03-26", "P2023-12-03", "P2024-06-16", "STT26-EXTRATERRESTRES_TECNOLOGIA", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA", "STT26-MITOLOGIAS_REINTEGRACAO", "STT26-SOCIEDADE_CONTEMPORANEA"]
 via = "P6-evidência"
 confianca_fonte = "média"
 atualizado = "2026-10-22"
@@ -51,9 +51,15 @@ Vyasa (RC-585); Rishis (RC-586); Rama (avatar de Vishnu) (RC-584)
 - **[STT26-15 · Mahabharata]** «Foi a guerra de Kurukshetra, no norte da Índia, no estado de Uttar Pradesh. E essa guerra de Kurukshetra aqui na Terra envolvia dois ramos de primos descendentes da linhagem dos Barata. O Mahabharata significa a história dos Barata, que era descendência de Barata, irmão de Rama.» (U5680 · chars 863075–863355) — Candidata de cotejo; evidência `STT26-15-RC-593-001`, grafia encontrada `Mahabharata`; decisão por lote `STT26-15: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
 
 
+## Ampliação — STT26-SOCIEDADE_CONTEMPORANEA (Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados))
+
+- **[STT26-21 · Mahabharata]** «O senhor Krishna, que se tornou conhecido a partir das descrições que um outro Krishna do Apayama, mais conhecido como Vyasa, o codificador dos Puranas, do Mahabharata e dos Vedas, Foi Vyasa quem transformou Krishna no ser conhecido que ele é.» (U4942 · chars 834985–835228) — Candidata de cotejo; evidência `STT26-21-RC-593-001`, grafia encontrada `Mahabharata`; decisão por lote `STT26-21: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
+| STT26-SOCIEDADE_CONTEMPORANEA | Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | STT26-MITOLOGIAS_REINTEGRACAO | Eixo STT26 — Mitologias, tradições e eixo de reintegração (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | STT26-EXPERIENCIA_ESPIRITUAL_ETICA | Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | STT26-EXTRATERRESTRES_TECNOLOGIA | Eixo STT26 — Extraterrestres, tecnologia e cosmos (derivados normalizados) (palestra) | transcrição automatizada; citação |

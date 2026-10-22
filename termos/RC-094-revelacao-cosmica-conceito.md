@@ -5,7 +5,7 @@ nome = "Revelação Cósmica (conceito)"
 categoria = "Conceitos Cosmológicos"
 subcategoria = "2.1 Cosmogonia / Criação"
 status = "verificado"
-fontes = ["B031", "B044", "B035", "B013", "B014", "B022", "B023", "B048", "B003", "B005", "B011", "B049", "B043", "B041", "B006", "B050", "B027", "B051", "B034", "B036", "B040", "B052", "B042", "B009", "P2021-12-04", "P2025-10-25", "P2025-06-26", "P2025-02-15", "P2024-11-30", "P2024-11-09", "P2024-07-14", "P2023-12-02", "P2021-03-27", "P2023-10-14", "P2020-04-25", "P2023-12-03", "P2022-07-16", "P2021-06-26", "STT26-EXTRATERRESTRES_TECNOLOGIA", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA", "STT26-MITOLOGIAS_REINTEGRACAO"]
+fontes = ["B031", "B044", "B035", "B013", "B014", "B022", "B023", "B048", "B003", "B005", "B011", "B049", "B043", "B041", "B006", "B050", "B027", "B051", "B034", "B036", "B040", "B052", "B042", "B009", "P2021-12-04", "P2025-10-25", "P2025-06-26", "P2025-02-15", "P2024-11-30", "P2024-11-09", "P2024-07-14", "P2023-12-02", "P2021-03-27", "P2023-10-14", "P2020-04-25", "P2023-12-03", "P2022-07-16", "P2021-06-26", "STT26-EXTRATERRESTRES_TECNOLOGIA", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA", "STT26-MITOLOGIAS_REINTEGRACAO", "STT26-SOCIEDADE_CONTEMPORANEA"]
 via = "P6-evidência"
 confianca_fonte = "alta"
 atualizado = "2026-10-22"
@@ -317,3 +317,7 @@ A Revelação Cósmica é o **macroconceito** que engloba todos os demais termos
 ## Ampliação — STT26-MITOLOGIAS_REINTEGRACAO (Eixo STT26 — Mitologias, tradições e eixo de reintegração (derivados normalizados))
 
 - **[STT26-13 · Revelação Cósmica (conceito)]** «Enoque foi só uma dessas revelações, a primeira que o mundo recebeu nessa perspectiva de análise A vinda de Jesus foi outra A volta de Jesus é outra Houve uma época em que a revelação espiritual foi ofertada ao mundo A volta de Jesus faz parte de um contexto de uma revelação cósmica Uma outra das etapas da promessa que esse Cristo cósmico fez de, sucessivamente, ir entregando às suas ovelhas terrenas aquilo que elas tivessem capacidade de perceber.» (U0174 · chars 41176–41628) — Candidata de cotejo; evidência `STT26-13-RC-094-001`, grafia encontrada `revelação cósmica`; decisão por lote `STT26-13: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+## Ampliação — STT26-SOCIEDADE_CONTEMPORANEA (Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados))
+
+- **[STT26-20 · Revelação Cósmica (conceito)]** «Olá pessoal, boa noite a todos que já estão presentes com nós, eu sou o Gabriel, sou da equipe do Ellam, vou estar conduzindo hoje a live, já deu, já deu, são sete e cinco, vamos começar a chamar aqui os palestrantes que vão estar conosco hoje do nosso evento, segundo encontro nacional da revelação cósmica, que vai acontecer dia 10 e 11.» (U3212 · chars 550093–550432) — Candidata de cotejo; evidência `STT26-20-RC-094-001`, grafia encontrada `revelação cósmica`; decisão por lote `STT26-20: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.

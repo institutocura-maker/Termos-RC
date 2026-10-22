@@ -5,7 +5,7 @@ nome = "Biodemos"
 categoria = "Seres & Entidades"
 subcategoria = "1.3 Extraterrestres / Raças cósmicas"
 status = "verificado"
-fontes = ["B031", "B044", "B001", "B017", "B018", "B039", "B023", "B050", "B057", "B058", "P2024-05-04", "P2024-04-13", "P2020-08-08", "P2021-03-13", "P2021-09-04", "P2021-05-15", "P2020-04-25", "P2022-03-26", "P2023-12-03", "P2021-01-30", "P2017-10-14", "P2023-08-27", "P2022-10-01", "P2022-09-25", "STT26-EXTRATERRESTRES_TECNOLOGIA"]
+fontes = ["B031", "B044", "B001", "B017", "B018", "B039", "B023", "B050", "B057", "B058", "P2024-05-04", "P2024-04-13", "P2020-08-08", "P2021-03-13", "P2021-09-04", "P2021-05-15", "P2020-04-25", "P2022-03-26", "P2023-12-03", "P2021-01-30", "P2017-10-14", "P2023-08-27", "P2022-10-01", "P2022-09-25", "STT26-EXTRATERRESTRES_TECNOLOGIA", "STT26-SOCIEDADE_CONTEMPORANEA"]
 via = "P6-evidência"
 confianca_fonte = "alta"
 atualizado = "2026-10-22"
@@ -67,9 +67,15 @@ Yel Luzbel (RC-078/RC-142, o primeiro a mutar); Sophia (RC-009, criador das fam�
 
 - **[STT26-07 · Biodemos]** «Então esses seres desses portais, segundo a terminologia dos Biodemos, são seres que surgiram nesse universo paralelo ao nosso, que seria a somatória de todos esses.» (U0174 · chars 22456–22621) — Pérola homologada pelo Curador em 22/10/2026; corte literal conferido pelo Motor antes do pouso na Base.
 
+## Ampliação — STT26-SOCIEDADE_CONTEMPORANEA (Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados))
+
+- **[STT26-20 · Biodemos]** «Adoramos caminhar. Entendam, figuras como Sofia, que nasceram em casus, tipo os biodemos, Essa turma foi feita para viver tipo forniga, lá embaixo.» (U4022 · chars 683617–683764) — Candidata de cotejo; evidência `STT26-20-RC-036-001`, grafia encontrada `biodemos`; decisão por lote `STT26-20: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| STT26-SOCIEDADE_CONTEMPORANEA | Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
 | STT26-EXTRATERRESTRES_TECNOLOGIA | Eixo STT26 — Extraterrestres, tecnologia e cosmos (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
 | P2022-09-25 | O Contexto Espiritual da Construção de Brasília (palestra) | — | transcrição automatizada; citação |
 | P2022-10-01 | A Wyrd e a Espiritualidade (palestra) | — | transcrição automatizada; citação |

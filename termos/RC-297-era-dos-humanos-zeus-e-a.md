@@ -5,10 +5,10 @@ nome = "Era dos Humanos (Zeus e a)"
 categoria = "Eventos & Eras"
 subcategoria = "7.2 Eras / Épocas / Ciclos"
 status = "verificado"
-fontes = ["B021", "P2025-11-29", "B087", "B088"]
+fontes = ["B021", "P2025-11-29", "B087", "B088", "STT26-SOCIEDADE_CONTEMPORANEA"]
 via = "P6-evidência"
 confianca_fonte = "alta"
-atualizado = "2026-08-18"
+atualizado = "2026-10-22"
 +++
 # Era dos Humanos (Zeus e a) — RC-297
 
@@ -37,9 +37,15 @@ A Era dos Humanos sucede o fechamento dos portais: sem acesso direto, os deuses 
 ## Seres Associados
 Zeus (RC-145); humanos (RC-099); demos (RC-049); Caos/Javé (RC-284).
 
+## Ampliação — STT26-SOCIEDADE_CONTEMPORANEA (Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados))
+
+- **[STT26-19 · Era dos Humanos (Zeus e a)]** «Enfim, Zeus e a impensável era dos humanos, Zeus hoje coexiste com uma era que ele jamais pensou que existiria, que era a era em que os humanos e eles existem, trancafiados nessas locas aí das quais eles não conseguem sair, e é bom que não saia.» (U2377 · chars 413609–413854) — Candidata de cotejo; evidência `STT26-19-RC-297-001`, grafia encontrada `era dos humanos`; decisão por lote `STT26-19: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| STT26-SOCIEDADE_CONTEMPORANEA | Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
 | Tempos Difíceis no Olimpo (B021) | cap. 23 (Zeus e a Impensável "Era dos Humanos") | pp. 130–145 (aprox.) | capítulo dedicado |
 
 ## Citações-chave

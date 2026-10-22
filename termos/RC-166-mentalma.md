@@ -5,7 +5,7 @@ nome = "Mentalma"
 categoria = "Termos Específicos"
 subcategoria = "8.5 Outros idiomas / jargão técnico"
 status = "verificado"
-fontes = ["B024", "B074", "B075", "P2022-12-17", "P2021-12-04", "P2026-07-30", "P2026-04-02", "P2025-06-26", "P2025-03-15", "P2025-02-15", "P2024-11-30", "P2024-11-09", "P2024-04-14", "P2025-06-14b", "P2026-08-04", "ART-2026-08-18", "P2023-05-13", "P2023-07-30", "P2023-07-05", "P2023-04-01", "P2020-04-25", "P2022-03-26", "STT26-EXTRATERRESTRES_TECNOLOGIA", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA", "STT26-MITOLOGIAS_REINTEGRACAO"]
+fontes = ["B024", "B074", "B075", "P2022-12-17", "P2021-12-04", "P2026-07-30", "P2026-04-02", "P2025-06-26", "P2025-03-15", "P2025-02-15", "P2024-11-30", "P2024-11-09", "P2024-04-14", "P2025-06-14b", "P2026-08-04", "ART-2026-08-18", "P2023-05-13", "P2023-07-30", "P2023-07-05", "P2023-04-01", "P2020-04-25", "P2022-03-26", "STT26-EXTRATERRESTRES_TECNOLOGIA", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA", "STT26-MITOLOGIAS_REINTEGRACAO", "STT26-SOCIEDADE_CONTEMPORANEA"]
 via = "P6-evidência"
 confianca_fonte = "alta"
 atualizado = "2026-10-22"
@@ -67,9 +67,15 @@ Jan Val Ellam (RC-071, criador).
 - **[STT26-14 · Mentalma]** «você vai ler aí, porque eu não tenho agenda aqui eu leio aqui, pode deixar só um minutinho, que eu me enrolei aqui um pouco então, pessoal próximo final de semana dias 20, 21 e 22 vai ter o curso Mentalma Dirigido em Criciúma em julho nos dias 5 e 6 tem dois encontros diálogos com João Valelã são diálogos com tema livre respondendo perguntas da plateia sem slides pré-definidos em Curitiba no dia 12 tem mais um encontro diálogos com João Valelã em Goiânia dia 19 tem a palestra Javé Sophia e as sincronicidades profetizáveis em Agosto no Rio de Janeiro curso Mentalma Dirigido nos dias 8, 9 e 10 e em São Paulo no dia 16 mais um encontro diálogos com o João Valelã As informações estão aqui no site, os links também para adquirir os ingressos.» (U2830 · chars 457233–457980) — Candidata de cotejo; evidência `STT26-14-RC-166-001`, grafia encontrada `Mentalma`; decisão por lote `STT26-14: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
 
 
+## Ampliação — STT26-SOCIEDADE_CONTEMPORANEA (Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados))
+
+- **[STT26-20 · Mentalma]** «Obrigado mais uma vez pela presença de vocês e vamos então encarar o tema de hoje, que é o que o ser humano fez de si mesmo. Antes, porém, Matheus me pediu para falar de mentalma dirigido.» (U2501 · chars 431612–431801) — Candidata de cotejo; evidência `STT26-20-RC-166-001`, grafia encontrada `mentalma`; decisão por lote `STT26-20: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| STT26-SOCIEDADE_CONTEMPORANEA | Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
 | STT26-MITOLOGIAS_REINTEGRACAO | Eixo STT26 — Mitologias, tradições e eixo de reintegração (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
 | STT26-EXPERIENCIA_ESPIRITUAL_ETICA | Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
 | STT26-EXTRATERRESTRES_TECNOLOGIA | Eixo STT26 — Extraterrestres, tecnologia e cosmos (derivados normalizados) (palestra) | — | transcrição automatizada; citação |

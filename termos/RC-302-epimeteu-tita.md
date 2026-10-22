@@ -5,7 +5,7 @@ nome = "Epimeteu (titã)"
 categoria = "Seres & Entidades"
 subcategoria = "1.5 Decaídos / Exilados / Demônios"
 status = "verificado"
-fontes = ["B020", "B021", "P2025-02-16", "P2024-11-09", "P2025-06-14b", "P2024-08-03", "B087", "B088", "B089", "P2021-05-15", "STT26-MITOLOGIAS_REINTEGRACAO"]
+fontes = ["B020", "B021", "P2025-02-16", "P2024-11-09", "P2025-06-14b", "P2024-08-03", "B087", "B088", "B089", "P2021-05-15", "STT26-MITOLOGIAS_REINTEGRACAO", "STT26-SOCIEDADE_CONTEMPORANEA"]
 via = "P6-evidência"
 confianca_fonte = "alta"
 atualizado = "2026-10-22"
@@ -55,9 +55,15 @@ Titã irmão de Prometeu que, na cosmologia de Jan Val Ellam, teria sido o grand
 - **[STT26-17 · Epimeteu (titã)]** «Isso, quem lê a mitologia grega sabe do que eu estou falando, eu só não vou poder explicar aqui. Só que Prometeu tinha um irmão chamado Epimeteu, e Prometeu era muito sabido, Epimeteu era meio lésbico.» (U10793 · chars 1705849–1706051) — Candidata de cotejo; evidência `STT26-17-RC-302-001`, grafia encontrada `Epimeteu`; decisão por lote `STT26-17: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
 
 
+## Ampliação — STT26-SOCIEDADE_CONTEMPORANEA (Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados))
+
+- **[STT26-19 · Epimeteu (titã)]** «Zeus consultou, na época desse problema, os negros pensadores, produtores de ideias e de projetos, soluções, sobre o impasse verificado na reprodução. Na época da constatação do problema, essas figuras aqui costumavam ser Tênis, Prometeu e Epimeteu, ou seja, três titãs.» (U1981 · chars 337174–337444) — Candidata de cotejo; evidência `STT26-19-RC-302-001`, grafia encontrada `Epimeteu`; decisão por lote `STT26-19: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
+| STT26-SOCIEDADE_CONTEMPORANEA | Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | STT26-MITOLOGIAS_REINTEGRACAO | Eixo STT26 — Mitologias, tradições e eixo de reintegração (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
 | P2024-08-03 | U1480–U1525; U1662 | palestra/STT |

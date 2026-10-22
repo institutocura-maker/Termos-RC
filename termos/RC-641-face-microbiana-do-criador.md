@@ -5,10 +5,10 @@ nome = "Face Microbiana do Criador"
 categoria = "Conceitos Cosmológicos"
 subcategoria = "2.1 Cosmogonia / Criação"
 status = "verificado"
-fontes = ["P2024-05-04", "B064", "P2024-11-30", "P2022-03-26"]
+fontes = ["P2024-05-04", "B064", "P2024-11-30", "P2022-03-26", "STT26-SOCIEDADE_CONTEMPORANEA"]
 via = "P6-evidência"
 confianca_fonte = "alta"
-atualizado = "2026-08-28"
+atualizado = "2026-10-22"
 +++
 # Face Microbiana do Criador — RC-641
 
@@ -34,9 +34,15 @@ Vincula-se à obra B064 A Ordenação do Caos e às transições de fase.
 ## Seres Associados
 Consultar relações acima.
 
+## Ampliação — STT26-SOCIEDADE_CONTEMPORANEA (Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados))
+
+- **[STT26-21 · Face Microbiana do Criador]** «Isso faz parte dessa invasão de uma série de figuras microscópicas. O livro que eu escrevi chamado A Ordenação do Caos, A Face Microbiana do Criador, um livro que eu lancei uns dois, três anos atrás, mas acho que é além da ordenação do caos, a face microbiana do Criador, a gente analisa exatamente essas questões de toxoflasma gondii e outras, e lá eu insinuo um pouco desse problema.» (U6376 · chars 1057610–1057995) — Candidata de cotejo; evidência `STT26-21-RC-641-001`, grafia encontrada `Face Microbiana do Criador`; decisão por lote `STT26-21: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
+| STT26-SOCIEDADE_CONTEMPORANEA | Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
 | P2024-05-04 — Prabrajna em Perpérion / Simultaneidade Reversa | U1171–U1195 | PDF/transcrição pré-curada |
 

@@ -5,7 +5,7 @@ nome = "Shiva (Savna)"
 categoria = "Seres & Entidades"
 subcategoria = "1.1 Divindades / Criadores"
 status = "verificado"
-fontes = ["B031", "B024", "B044", "B001", "B033", "B016", "B020", "B021", "B022", "B050", "B051", "B036", "B060", "B037", "P2022-12-17", "P2021-12-04", "P2026-07-30", "P2024-05-04", "P2025-03-15", "P2025-02-16", "P2024-11-30", "P2024-11-09", "P2024-07-14", "P2025-11-29", "P2023-06-24", "P2023-04-15", "P2023-04-29", "P2020-07-04", "P2020-05-09", "P2024-11-03", "P2025-02-22", "P2021-05-15", "P2023-10-14", "P2022-03-26", "P2022-05-07", "P2024-06-16", "P2012-02-19", "P2022-12-03", "P2022-07-16", "P2026-03-21", "P2021-04-10", "P2021-06-26", "P2022-09-17", "P2023-12-25-01", "P2020-04-04", "STT26-EXTRATERRESTRES_TECNOLOGIA", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA", "STT26-MITOLOGIAS_REINTEGRACAO"]
+fontes = ["B031", "B024", "B044", "B001", "B033", "B016", "B020", "B021", "B022", "B050", "B051", "B036", "B060", "B037", "P2022-12-17", "P2021-12-04", "P2026-07-30", "P2024-05-04", "P2025-03-15", "P2025-02-16", "P2024-11-30", "P2024-11-09", "P2024-07-14", "P2025-11-29", "P2023-06-24", "P2023-04-15", "P2023-04-29", "P2020-07-04", "P2020-05-09", "P2024-11-03", "P2025-02-22", "P2021-05-15", "P2023-10-14", "P2022-03-26", "P2022-05-07", "P2024-06-16", "P2012-02-19", "P2022-12-03", "P2022-07-16", "P2026-03-21", "P2021-04-10", "P2021-06-26", "P2022-09-17", "P2023-12-25-01", "P2020-04-04", "STT26-EXTRATERRESTRES_TECNOLOGIA", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA", "STT26-MITOLOGIAS_REINTEGRACAO", "STT26-SOCIEDADE_CONTEMPORANEA"]
 via = "P6-evidência"
 confianca_fonte = "alta"
 atualizado = "2026-10-22"
@@ -79,10 +79,16 @@ Um dos três da Trimurti (RC-104) — na RC, **Savna** (RC-409 ADHYSAVNA); princ
 - **[STT26-13 · Shiva (Savna)]** «Aí, depois que um caiu, os outros dois mergulharam e a briga continuou aqui dentro. E esses três seres, indo agora para a perspectiva hindu-ariana, chamada Brahma, Vishnu e Shiva, sempre brigaram para ver quem dos três havia criado, de fato, a criação antes deles mergulharem, e agora que estavam caídos, quem dos três comandava isso aqui.» (U0590 · chars 132120–132459) — Candidata de cotejo; evidência `STT26-13-RC-102-001`, grafia encontrada `Shiva`; decisão por lote `STT26-13: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
 
 
+## Ampliação — STT26-SOCIEDADE_CONTEMPORANEA (Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados))
+
+- **[STT26-19 · Shiva (Savna)]** «Todos os demais avatares que Vishnu criou foram funcionais, ou seja, resolver certo a função. Quando ele criou Morrenso, junto com Brahma e Shiva, Aí daqui surgiu a criação depois de Sophia e Jesus.» (U1321 · chars 203261–203459) — Candidata de cotejo; evidência `STT26-19-RC-102-001`, grafia encontrada `Shiva`; decisão por lote `STT26-19: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| STT26-SOCIEDADE_CONTEMPORANEA | Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | STT26-MITOLOGIAS_REINTEGRACAO | Eixo STT26 — Mitologias, tradições e eixo de reintegração (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | STT26-EXPERIENCIA_ESPIRITUAL_ETICA | Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | STT26-EXTRATERRESTRES_TECNOLOGIA | Eixo STT26 — Extraterrestres, tecnologia e cosmos (derivados normalizados) (palestra) | transcrição automatizada; citação |

@@ -5,7 +5,7 @@ nome = "Reintegração Cósmica"
 categoria = "Conceitos Cosmológicos"
 subcategoria = "2.5 Propósitos / Destinos"
 status = "verificado"
-fontes = ["B031", "B003", "B025", "B026", "B005", "B027", "B042", "B037", "B009", "B017", "P2022-12-17", "P2021-12-04", "P2024-05-04", "P2025-02-16", "P2024-07-13", "P2024-03-02", "P2021-05-15", "P2022-03-26", "P2023-12-03", "P2025-06-14", "P2023-12-25-03", "P2020-04-04", "STT26-MITOLOGIAS_REINTEGRACAO"]
+fontes = ["B031", "B003", "B025", "B026", "B005", "B027", "B042", "B037", "B009", "B017", "P2022-12-17", "P2021-12-04", "P2024-05-04", "P2025-02-16", "P2024-07-13", "P2024-03-02", "P2021-05-15", "P2022-03-26", "P2023-12-03", "P2025-06-14", "P2023-12-25-03", "P2020-04-04", "STT26-MITOLOGIAS_REINTEGRACAO", "STT26-SOCIEDADE_CONTEMPORANEA"]
 via = "P6-evidência"
 confianca_fonte = "alta"
 atualizado = "2026-10-22"
@@ -63,9 +63,15 @@ Conceito que amarra os três eixos do pensamento de Ellam — cristianismo, espi
 - **[STT26-13 · Reintegração Cósmica]** «Coincidentemente ou não, ele, enquanto Jesus, reafirmou a promessa que o seu espírito havia feito enquanto Cristo cósmico Se esse assunto é bobagem, se não é para ser refletido pelos cristãos, assim é que se Na minha tecnicidade humana, eu tentei refletir sobre o mesmo Eu tentei a fundo Por isso que ao escrever um livro chamado Reintegração Cósmica E aqui já vinha para o símbolo do final da palestra Para a gente conversar depois com mais tranquilidade Se houver tempo ainda O tema do livro Reintegração Cósmica Envolve três questões básicas que a gente precisa entender Uma, o fato da Terra estar isolada Alguém determinou que a Terra ficaria isolada Em que sentido?» (U0188 · chars 43228–43898) — Candidata de cotejo; evidência `STT26-13-RC-003-001`, grafia encontrada `Reintegração Cósmica`; decisão por lote `STT26-13: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
 
 
+## Ampliação — STT26-SOCIEDADE_CONTEMPORANEA (Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados))
+
+- **[STT26-19 · Reintegração Cósmica]** «E depois de algum esforço do nosso grupo, localizamos Rogério de Almeida Freitas e o trouxemos em novembro, dia 16 de novembro de 1998, para fazer uma palestra no Sindicato dos Químicos na Liberdade. A partir desse momento, a partir daqueles ensinamentos e tudo o que acontecia de um livro chamado Reintegração Cósmica, talvez tenha aqui, não sei, para o pessoal ver.» (U0098 · chars 11396–11764) — Candidata de cotejo; evidência `STT26-19-RC-003-001`, grafia encontrada `Reintegração Cósmica`; decisão por lote `STT26-19: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
+| STT26-SOCIEDADE_CONTEMPORANEA | Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | STT26-MITOLOGIAS_REINTEGRACAO | Eixo STT26 — Mitologias, tradições e eixo de reintegração (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | P2020-04-04 | Javé, Sophia e Jesus: a Trindade Jamais Percebida (palestra Q&A) (palestra) | — | transcrição; citação |
 | P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |

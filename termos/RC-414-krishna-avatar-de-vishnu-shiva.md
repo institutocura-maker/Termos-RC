@@ -5,7 +5,7 @@ nome = "Krishna (avatar de Vishnu/Shiva)"
 categoria = "Seres & Entidades"
 subcategoria = "1.3 Extraterrestres / Raças cósmicas"
 status = "verificado"
-fontes = ["B051", "B023", "B036", "P2025-02-16", "P2024-11-30", "P2024-03-02", "P2023-12-02", "P2024-09-28", "P2025-11-29", "P2023-06-25", "P2023-05-20", "P2023-04-30", "P2023-10-14", "P2022-03-26", "P2023-12-03", "P2022-05-07", "P2024-06-16", "P2023-08-27", "P2022-11-26", "P2022-07-16", "STT26-EXTRATERRESTRES_TECNOLOGIA", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA", "STT26-MITOLOGIAS_REINTEGRACAO"]
+fontes = ["B051", "B023", "B036", "P2025-02-16", "P2024-11-30", "P2024-03-02", "P2023-12-02", "P2024-09-28", "P2025-11-29", "P2023-06-25", "P2023-05-20", "P2023-04-30", "P2023-10-14", "P2022-03-26", "P2023-12-03", "P2022-05-07", "P2024-06-16", "P2023-08-27", "P2022-11-26", "P2022-07-16", "STT26-EXTRATERRESTRES_TECNOLOGIA", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA", "STT26-MITOLOGIAS_REINTEGRACAO", "STT26-SOCIEDADE_CONTEMPORANEA"]
 via = "P6-evidência"
 confianca_fonte = "alta"
 atualizado = "2026-10-22"
@@ -66,9 +66,15 @@ Avatar hindu — na RC, avatar de Vishnu (e correlacionado a Shiva), "pretenso K
 - **[STT26-13 · Krishna (avatar de Vishnu/Shiva)]** «Ou seja, a volta de Jesus não vai impactar o planeta no sentido dele parar segundo esses mentores Jesus não pode ficar aqui até porque os nossos pedidos para ele seriam ótimos Jesus a calvície está avançada Jesus, minha unha está encravada Jesus, cure aqui qual novidade que Jesus teria para nos dizer será que já está tudo dito considera Gautama, Zoroastro Jesus, Krishna será que já tudo não foi dito Será que a sua simples presença durante algum tempo Dizendo, pessoal, é só pra dar um beijo em vocês Mas eu não posso fazer nada a vocês É que tem que promover o progresso aí na Terra Não adianta eu fazer assim que ninguém vai se transformar No que não é de uma hora pra outra A transformação de cada um se dá lentamente É a tal reforma íntima Então assim, Jesus não vem aqui pra resolver os nossos problemas É o que eles dizem Jesus prometeu que não nos deixaria órfãos no sentido de perdidos Ele virá e basta a sua presença durante algum tempo Para que nós tenhamos absoluta certeza de que não estamos sós no universo Que a vida é muito mais ampla, bela, cheia de desafios do que a gente imagina De que o amor é de fato o elo que deve nos unir Ou seja, Jesus vai se repetir Então segundo os mentores Numa primeira visita é assim que acontecerá Mas Jesus é um espírito evoluído Porque é que ele precisa de uma nave para se deslocar para cá Ele não precisa Mas nós precisamos que alguém que venha para cá Não chegue voando com a capa de super-homem ou de Batman Tem que vir uma nave porque é assim que as coisas funcionam no nosso espaço-tempo.» (U0226 · chars 54835–56382) — Candidata de cotejo; evidência `STT26-13-RC-414-001`, grafia encontrada `Krishna`; decisão por lote `STT26-13: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
 
 
+## Ampliação — STT26-SOCIEDADE_CONTEMPORANEA (Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados))
+
+- **[STT26-19 · Krishna (avatar de Vishnu/Shiva)]** «Mas esse universo dela, desde que Shiva se assumiu como um reciclador necessário, Shiva destrói, ele é habilitado, habilidoso, ele destrói sem raiva, como o próprio Krishna, uma de suas faces mais recentes, diz que destrói sem contrair karma, porque ele está cumprindo o dharma dele, que é destruir o que não vai mais evoluir e o que está impedindo que pode evoluir e devoluir, então ele precisa destruir.» (U1345 · chars 206739–207145) — Candidata de cotejo; evidência `STT26-19-RC-414-001`, grafia encontrada `Krishna`; decisão por lote `STT26-19: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
+| STT26-SOCIEDADE_CONTEMPORANEA | Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | STT26-MITOLOGIAS_REINTEGRACAO | Eixo STT26 — Mitologias, tradições e eixo de reintegração (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | STT26-EXPERIENCIA_ESPIRITUAL_ETICA | Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | STT26-EXTRATERRESTRES_TECNOLOGIA | Eixo STT26 — Extraterrestres, tecnologia e cosmos (derivados normalizados) (palestra) | transcrição automatizada; citação |

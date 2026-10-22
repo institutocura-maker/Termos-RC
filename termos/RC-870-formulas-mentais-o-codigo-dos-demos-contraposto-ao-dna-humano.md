@@ -5,10 +5,10 @@ nome = "Fórmulas Mentais (o código dos demos, contraposto ao DNA humano)"
 categoria = "Processos & Fenômenos"
 subcategoria = "4.2 Fenômenos espirituais / mediúnicos"
 status = "em análise"
-fontes = ["P2022-11-20", "P2021-02-28", "P2021-04-10"]
+fontes = ["P2022-11-20", "P2021-02-28", "P2021-04-10", "STT26-SOCIEDADE_CONTEMPORANEA"]
 via = "P7-conhecimento"
 confianca_fonte = "baixa"
-atualizado = "2026-09-01"
+atualizado = "2026-10-22"
 +++
 # Fórmulas Mentais (o código dos demos, contraposto ao DNA humano) — RC-870
 
@@ -44,9 +44,15 @@ Com isso:
 | Savant (a genialidade preservada além do autismo num grau; figura útil no final) | RC-885 | associado |
 
 
+## Ampliação — STT26-SOCIEDADE_CONTEMPORANEA (Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados))
+
+- **[STT26-22 · Fórmulas Mentais (o código dos demos, contraposto ao DNA humano)]** «Quando você come muito, a gente estava falando de comer muito, e não cabe mais, mas na hora em que você olha para um pudim, vem aquela vontade terrível e você ainda isso é reptiliano, é o prazer imediato ou seja, você com isso ativa o seu cérebro reptiliano o que implica dizer que muitos de nós de fato somos humanos, mas nem tanto nós somos um corpo humano em ação nem todos estamos na fase sapiens nós somos ainda pré-humanos eu acredito Freud dizia isso que existem forças ocultas no nosso psiquismo forças ocultas são terríveis mas ainda bem que é uma barreira que separa o inconsciente do consciente porque se as sensações dessas forças ocultas invadissem o consciente, o ser humano estaria ferrado, mas ele é vítima ainda dessas fórmulas mentais complicadas que os Upanishads hindus desculpe, o Cleonasmo chamam de sanscaras, formas mentais complicadas que causam o vásalas, ou seja, os automatismos, que é o que a gente está falando aqui de reptilianos.» (U7674 · chars 1253621–1254583) — Candidata de cotejo; evidência `STT26-22-RC-870-001`, grafia encontrada `fórmulas mentais`; decisão por lote `STT26-22: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+
 ## Fontes
 | Obra (sigla) | Título | Página | Tipo |
 |---|---|---|---|
+| STT26-SOCIEDADE_CONTEMPORANEA | Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
 | P2021-04-10 | O Fechamento dos Portais e o Impasse no Exílio Espiritual de Len Mion — Aprofundamento (palestra) | — | transcrição automatizada; citação |
 | P2021-02-28 | Tragédia Anunciada - As Fórmulas Mentais do Poder Demo (palestra) | — | transcrição automatizada; citação |
 | P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |

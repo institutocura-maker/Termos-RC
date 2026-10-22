@@ -5,7 +5,7 @@ nome = "Pandora"
 categoria = "Seres & Entidades"
 subcategoria = "1.7 Híbridos / Seres de transição"
 status = "em análise"
-fontes = ["B031", "B044", "B020", "B021", "P2025-03-15", "P2025-02-16", "P2024-11-30", "P2024-11-09", "ART-2026-08-18", "P2024-02-03", "P2024-08-03", "B087", "B088", "B089", "P2023-04-01b", "P2024-11-03", "P2025-02-22", "P2021-05-15", "P2020-04-25", "P2023-12-03", "P2023-08-27", "P2025-06-14", "P2022-09-25", "P2022-07-16", "P2026-03-21", "P2021-02-28", "STT26-EXTRATERRESTRES_TECNOLOGIA", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA", "STT26-MITOLOGIAS_REINTEGRACAO"]
+fontes = ["B031", "B044", "B020", "B021", "P2025-03-15", "P2025-02-16", "P2024-11-30", "P2024-11-09", "ART-2026-08-18", "P2024-02-03", "P2024-08-03", "B087", "B088", "B089", "P2023-04-01b", "P2024-11-03", "P2025-02-22", "P2021-05-15", "P2020-04-25", "P2023-12-03", "P2023-08-27", "P2025-06-14", "P2022-09-25", "P2022-07-16", "P2026-03-21", "P2021-02-28", "STT26-EXTRATERRESTRES_TECNOLOGIA", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA", "STT26-MITOLOGIAS_REINTEGRACAO", "STT26-SOCIEDADE_CONTEMPORANEA"]
 via = "P7-conhecimento"
 confianca_fonte = "baixa"
 atualizado = "2026-10-22"
@@ -89,10 +89,16 @@ Na Revelação Cósmica de Jan Val Ellam, Pandora é a figura que "destravou lac
 - **[STT26-17 · Pandora]** «Então, assim, existiu uma geração axial, essa turma aqui, estou de novo, esses estranhos filósofos aqui que eu falei, isso aqui é tudo muito antigo, 7, 6, 5, 4, 3 mil anos atrás, e são vários no meio aí eu poderia falar de Enoch dos vários Tirtancaras, dos Jainistas os Vedas tudo isso aí é filosofia pergunta sobre essa linhagem fazer uma pergunta sobre essa linhagem nossa, está com eco aqui o que acontece eu fiquei pensando quando você estava falando de toda a genética que propiciou isso, como como os gregos, que vieram de Heleno, de Pandora, também junto com os druídas.» (U10699 · chars 1693834–1694411) — Candidata de cotejo; evidência `STT26-17-RC-086-001`, grafia encontrada `Pandora`; decisão por lote `STT26-17: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
 
 
+## Ampliação — STT26-SOCIEDADE_CONTEMPORANEA (Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados))
+
+- **[STT26-19 · Pandora]** «Quando eu tomei esse susto E percebi que o que iria acontecer com a humanidade lá na frente Já estava acontecendo comigo Foi quando o Pandora apareceu na história E ou os humanos se esclarecem Para os dias que virão Ou os dias que virão, virão sem que os humanos se esclareçam E tudo vai acontecer independente de esclarecimento ou não como é que você quer precisamos trabalhar e por essas e outras é que eu me permito ser estuprado e desculpem usar um termo pesado por esses seres é por essa necessidade que hoje em dia eles dizem que nós hoje em dia, que eu digo nos últimos 10, 15 anos nós humanos apesar de desse preparo total e a culpa não é nossa porque houve um condicionamento nós somos manipulados As religiões criaram um rebanho que não permite o esclarecimento desagradável surgir.» (U1881 · chars 312669–313461) — Candidata de cotejo; evidência `STT26-19-RC-086-001`, grafia encontrada `Pandora`; decisão por lote `STT26-19: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| STT26-SOCIEDADE_CONTEMPORANEA | Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | STT26-MITOLOGIAS_REINTEGRACAO | Eixo STT26 — Mitologias, tradições e eixo de reintegração (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | STT26-EXPERIENCIA_ESPIRITUAL_ETICA | Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | STT26-EXTRATERRESTRES_TECNOLOGIA | Eixo STT26 — Extraterrestres, tecnologia e cosmos (derivados normalizados) (palestra) | transcrição automatizada; citação |

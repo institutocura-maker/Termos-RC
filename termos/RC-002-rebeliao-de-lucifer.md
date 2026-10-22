@@ -5,7 +5,7 @@ nome = "Rebelião de Lúcifer"
 categoria = "Eventos & Eras"
 subcategoria = "7.1 Guerras / Rebeliões / Conflitos"
 status = "verificado"
-fontes = ["B031", "B003", "B026", "B057", "B058", "B017", "P2024-03-03", "P2024-04-13", "P2023-04-01", "P2020-09-19", "P2021-07-24", "P2023-04-01b", "P2024-11-03", "P2025-02-22", "P2020-04-25", "P2022-03-26", "P2023-12-03", "P2022-05-07", "P2023-08-27", "P2023-02-11", "P2021-02-28", "STT26-EXTRATERRESTRES_TECNOLOGIA", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA", "STT26-MITOLOGIAS_REINTEGRACAO"]
+fontes = ["B031", "B003", "B026", "B057", "B058", "B017", "P2024-03-03", "P2024-04-13", "P2023-04-01", "P2020-09-19", "P2021-07-24", "P2023-04-01b", "P2024-11-03", "P2025-02-22", "P2020-04-25", "P2022-03-26", "P2023-12-03", "P2022-05-07", "P2023-08-27", "P2023-02-11", "P2021-02-28", "STT26-EXTRATERRESTRES_TECNOLOGIA", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA", "STT26-MITOLOGIAS_REINTEGRACAO", "STT26-SOCIEDADE_CONTEMPORANEA"]
 via = "P6-evidência"
 confianca_fonte = "alta"
 atualizado = "2026-10-22"
@@ -67,9 +67,15 @@ Yel Luzbel (RC-078); Len Mion (RC-074); Família Yel (RC-136); Família Val (RC-
 - **[STT26-13 · Rebelião de Lúcifer]** «Eles falam de uma história que aconteceu além das fronteiras terrestres, ou seja, no ambiente extraterrestre, quando então o chamado Cristo cósmico foi obrigado a tomar umas atitudes devido a algo que hoje na tradição esotérica da Terra se chama rebelião de Lúcifer e ou entendida como sendo a queda dos anjos, a doutrina dos anjos caídos que Kardec também aborda no capítulo 11 do livro A Gênese Nesse livro, A Caminho da Luz, Emmanuel e Chico mostram que muito tempo antes de existir ser humano na Terra Esse Cristo cósmico, em medo que parte das suas ovelhas estavam se desgarrando Devido a uma doença que adquiriram e sendo levadas para a Terra Ele prometeu que pessoalmente acompanharia o desenvolvimento dessas ovelhas desgarradas E que para tanto ele estava formulando um programa de revelações sucessivas para essas ovelhas, de acordo com a possibilidade de evolução que essas ovelhas fossem promovendo a si mesmas, ele então, ou seja, o Cristo Cósmico, faria ou daria curso a esse programa de revelações sucessivas.» (U0172 · chars 40149–41174) — Candidata de cotejo; evidência `STT26-13-RC-002-001`, grafia encontrada `rebelião de Lúcifer`; decisão por lote `STT26-13: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
 
 
+## Ampliação — STT26-SOCIEDADE_CONTEMPORANEA (Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados))
+
+- **[STT26-22 · Rebelião de Lúcifer]** «E hoje vamos tentar responder a pergunta do Armando Paulilho Jr. E essa pergunta ele fez após assistir a palestra ao Wyrd Quantica, o Processador Vol e a Rebelião de Lúcifer.» (U8482 · chars 1380412–1380587) — Candidata de cotejo; evidência `STT26-22-RC-002-001`, grafia encontrada `Rebelião de Lúcifer`; decisão por lote `STT26-22: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| STT26-SOCIEDADE_CONTEMPORANEA | Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
 | STT26-MITOLOGIAS_REINTEGRACAO | Eixo STT26 — Mitologias, tradições e eixo de reintegração (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
 | STT26-EXPERIENCIA_ESPIRITUAL_ETICA | Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
 | STT26-EXTRATERRESTRES_TECNOLOGIA | Eixo STT26 — Extraterrestres, tecnologia e cosmos (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
