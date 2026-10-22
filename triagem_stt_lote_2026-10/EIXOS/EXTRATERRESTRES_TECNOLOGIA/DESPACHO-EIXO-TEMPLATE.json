@@ -1,0 +1,462 @@
+{
+  "meta": {
+    "artefato": "Template de despacho curatorial por eixo STT",
+    "eixo": {
+      "codigo": "EXTRATERRESTRES_TECNOLOGIA",
+      "nome": "Extraterrestres, tecnologia e cosmos"
+    },
+    "lotes": [
+      "STT26-07"
+    ],
+    "gerado_em": "2026-10-20",
+    "estado": "PENDENTE-CURADOR",
+    "escopo": "Matriz transversal: preserva o teto de 25 candidatos por lote; os códigos repetidos são vistos juntos sem fundir decisões de lote.",
+    "efeito_atual": "nenhum: não cria ciclo e não altera a Base",
+    "opcoes": [
+      "MANTER-EM-TRIAGEM",
+      "DESCARTAR-DO-LOTE",
+      "AUTORIZAR-COTEJO-AMPLIADO",
+      "RESERVAR-PARA-FUTURO-CICLO"
+    ]
+  },
+  "candidatos": [
+    {
+      "codigo": "RC-037",
+      "nome": "Brahma (Brajna)",
+      "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "Deliberação explícita do Curador: termos estruturais, raças e conceitos técnicos seguem ao cotejo; descartes cobrem analogia histórica, programa espacial citado como exemplo ou vinheta de plataforma.",
+      "decisao_por_lote": {
+        "STT26-07": "AUTORIZAR-COTEJO-AMPLIADO"
+      },
+      "evidencias_disponiveis": {
+        "STT26-07": [
+          "STT26-07-RC-037-001",
+          "STT26-07-RC-037-004",
+          "STT26-07-RC-037-009"
+        ]
+      },
+      "observacao": "Despacho registrado para STT26-07; aguarda autorização explícita de abertura de ciclo."
+    },
+    {
+      "codigo": "RC-094",
+      "nome": "Revelação Cósmica (conceito)",
+      "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "Deliberação explícita do Curador: termos estruturais, raças e conceitos técnicos seguem ao cotejo; descartes cobrem analogia histórica, programa espacial citado como exemplo ou vinheta de plataforma.",
+      "decisao_por_lote": {
+        "STT26-07": "AUTORIZAR-COTEJO-AMPLIADO"
+      },
+      "evidencias_disponiveis": {
+        "STT26-07": [
+          "STT26-07-RC-094-001",
+          "STT26-07-RC-094-003",
+          "STT26-07-RC-094-005"
+        ]
+      },
+      "observacao": "Despacho registrado para STT26-07; aguarda autorização explícita de abertura de ciclo."
+    },
+    {
+      "codigo": "RC-072",
+      "nome": "Jesus",
+      "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "Deliberação explícita do Curador: termos estruturais, raças e conceitos técnicos seguem ao cotejo; descartes cobrem analogia histórica, programa espacial citado como exemplo ou vinheta de plataforma.",
+      "decisao_por_lote": {
+        "STT26-07": "DESCARTAR-DO-LOTE"
+      },
+      "evidencias_disponiveis": {
+        "STT26-07": [
+          "STT26-07-RC-072-001",
+          "STT26-07-RC-072-003",
+          "STT26-07-RC-072-004"
+        ]
+      },
+      "observacao": "Despacho registrado para STT26-07; aguarda autorização explícita de abertura de ciclo."
+    },
+    {
+      "codigo": "RC-585",
+      "nome": "Vyasa",
+      "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "Deliberação explícita do Curador: termos estruturais, raças e conceitos técnicos seguem ao cotejo; descartes cobrem analogia histórica, programa espacial citado como exemplo ou vinheta de plataforma.",
+      "decisao_por_lote": {
+        "STT26-07": "AUTORIZAR-COTEJO-AMPLIADO"
+      },
+      "evidencias_disponiveis": {
+        "STT26-07": [
+          "STT26-07-RC-585-001"
+        ]
+      },
+      "observacao": "Despacho registrado para STT26-07; aguarda autorização explícita de abertura de ciclo."
+    },
+    {
+      "codigo": "RC-102",
+      "nome": "Shiva (Savna)",
+      "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "Deliberação explícita do Curador: termos estruturais, raças e conceitos técnicos seguem ao cotejo; descartes cobrem analogia histórica, programa espacial citado como exemplo ou vinheta de plataforma.",
+      "decisao_por_lote": {
+        "STT26-07": "AUTORIZAR-COTEJO-AMPLIADO"
+      },
+      "evidencias_disponiveis": {
+        "STT26-07": [
+          "STT26-07-RC-102-001",
+          "STT26-07-RC-102-003",
+          "STT26-07-RC-102-014"
+        ]
+      },
+      "observacao": "Despacho registrado para STT26-07; aguarda autorização explícita de abertura de ciclo."
+    },
+    {
+      "codigo": "RC-489",
+      "nome": "Enoque (sétimo patriarca; levado por Javé)",
+      "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "Deliberação explícita do Curador: termos estruturais, raças e conceitos técnicos seguem ao cotejo; descartes cobrem analogia histórica, programa espacial citado como exemplo ou vinheta de plataforma.",
+      "decisao_por_lote": {
+        "STT26-07": "AUTORIZAR-COTEJO-AMPLIADO"
+      },
+      "evidencias_disponiveis": {
+        "STT26-07": [
+          "STT26-07-RC-489-001",
+          "STT26-07-RC-489-016"
+        ]
+      },
+      "observacao": "Despacho registrado para STT26-07; aguarda autorização explícita de abertura de ciclo."
+    },
+    {
+      "codigo": "RC-166",
+      "nome": "Mentalma",
+      "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "Deliberação explícita do Curador: termos estruturais, raças e conceitos técnicos seguem ao cotejo; descartes cobrem analogia histórica, programa espacial citado como exemplo ou vinheta de plataforma.",
+      "decisao_por_lote": {
+        "STT26-07": "AUTORIZAR-COTEJO-AMPLIADO"
+      },
+      "evidencias_disponiveis": {
+        "STT26-07": [
+          "STT26-07-RC-166-001",
+          "STT26-07-RC-166-006",
+          "STT26-07-RC-166-013"
+        ]
+      },
+      "observacao": "Despacho registrado para STT26-07; aguarda autorização explícita de abertura de ciclo."
+    },
+    {
+      "codigo": "RC-355",
+      "nome": "Fator Extraterrestre (o Elo Perdido)",
+      "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "Deliberação explícita do Curador: termos estruturais, raças e conceitos técnicos seguem ao cotejo; descartes cobrem analogia histórica, programa espacial citado como exemplo ou vinheta de plataforma.",
+      "decisao_por_lote": {
+        "STT26-07": "AUTORIZAR-COTEJO-AMPLIADO"
+      },
+      "evidencias_disponiveis": {
+        "STT26-07": [
+          "STT26-07-RC-355-001",
+          "STT26-07-RC-355-008"
+        ]
+      },
+      "observacao": "Despacho registrado para STT26-07; aguarda autorização explícita de abertura de ciclo."
+    },
+    {
+      "codigo": "RC-162",
+      "nome": "Elétrons (agente básico da vida universal)",
+      "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "Deliberação explícita do Curador: termos estruturais, raças e conceitos técnicos seguem ao cotejo; descartes cobrem analogia histórica, programa espacial citado como exemplo ou vinheta de plataforma.",
+      "decisao_por_lote": {
+        "STT26-07": "AUTORIZAR-COTEJO-AMPLIADO"
+      },
+      "evidencias_disponiveis": {
+        "STT26-07": [
+          "STT26-07-RC-162-001",
+          "STT26-07-RC-162-007",
+          "STT26-07-RC-162-008"
+        ]
+      },
+      "observacao": "Despacho registrado para STT26-07; aguarda autorização explícita de abertura de ciclo."
+    },
+    {
+      "codigo": "RC-135",
+      "nome": "Vishnu (Mavatna)",
+      "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "Deliberação explícita do Curador: termos estruturais, raças e conceitos técnicos seguem ao cotejo; descartes cobrem analogia histórica, programa espacial citado como exemplo ou vinheta de plataforma.",
+      "decisao_por_lote": {
+        "STT26-07": "AUTORIZAR-COTEJO-AMPLIADO"
+      },
+      "evidencias_disponiveis": {
+        "STT26-07": [
+          "STT26-07-RC-135-001",
+          "STT26-07-RC-135-003",
+          "STT26-07-RC-135-007"
+        ]
+      },
+      "observacao": "Despacho registrado para STT26-07; aguarda autorização explícita de abertura de ciclo."
+    },
+    {
+      "codigo": "RC-009",
+      "nome": "Sophia (Cristo Cósmico)",
+      "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "Deliberação explícita do Curador: termos estruturais, raças e conceitos técnicos seguem ao cotejo; descartes cobrem analogia histórica, programa espacial citado como exemplo ou vinheta de plataforma.",
+      "decisao_por_lote": {
+        "STT26-07": "AUTORIZAR-COTEJO-AMPLIADO"
+      },
+      "evidencias_disponiveis": {
+        "STT26-07": [
+          "STT26-07-RC-009-001",
+          "STT26-07-RC-009-008"
+        ]
+      },
+      "observacao": "Despacho registrado para STT26-07; aguarda autorização explícita de abertura de ciclo."
+    },
+    {
+      "codigo": "RC-306",
+      "nome": "Apolo",
+      "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "Deliberação explícita do Curador: termos estruturais, raças e conceitos técnicos seguem ao cotejo; descartes cobrem analogia histórica, programa espacial citado como exemplo ou vinheta de plataforma.",
+      "decisao_por_lote": {
+        "STT26-07": "DESCARTAR-DO-LOTE"
+      },
+      "evidencias_disponiveis": {
+        "STT26-07": [
+          "STT26-07-RC-306-001"
+        ]
+      },
+      "observacao": "Despacho registrado para STT26-07; aguarda autorização explícita de abertura de ciclo."
+    },
+    {
+      "codigo": "RC-414",
+      "nome": "Krishna (avatar de Vishnu/Shiva)",
+      "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "Deliberação explícita do Curador: termos estruturais, raças e conceitos técnicos seguem ao cotejo; descartes cobrem analogia histórica, programa espacial citado como exemplo ou vinheta de plataforma.",
+      "decisao_por_lote": {
+        "STT26-07": "AUTORIZAR-COTEJO-AMPLIADO"
+      },
+      "evidencias_disponiveis": {
+        "STT26-07": [
+          "STT26-07-RC-414-001",
+          "STT26-07-RC-414-003"
+        ]
+      },
+      "observacao": "Despacho registrado para STT26-07; aguarda autorização explícita de abertura de ciclo."
+    },
+    {
+      "codigo": "RC-034",
+      "nome": "Big Bang",
+      "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "Deliberação explícita do Curador: termos estruturais, raças e conceitos técnicos seguem ao cotejo; descartes cobrem analogia histórica, programa espacial citado como exemplo ou vinheta de plataforma.",
+      "decisao_por_lote": {
+        "STT26-07": "AUTORIZAR-COTEJO-AMPLIADO"
+      },
+      "evidencias_disponiveis": {
+        "STT26-07": [
+          "STT26-07-RC-034-001",
+          "STT26-07-RC-034-002",
+          "STT26-07-RC-034-003"
+        ]
+      },
+      "observacao": "Despacho registrado para STT26-07; aguarda autorização explícita de abertura de ciclo."
+    },
+    {
+      "codigo": "RC-078",
+      "nome": "Lúcifer (Yel Luzbel)",
+      "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "Deliberação explícita do Curador: termos estruturais, raças e conceitos técnicos seguem ao cotejo; descartes cobrem analogia histórica, programa espacial citado como exemplo ou vinheta de plataforma.",
+      "decisao_por_lote": {
+        "STT26-07": "AUTORIZAR-COTEJO-AMPLIADO"
+      },
+      "evidencias_disponiveis": {
+        "STT26-07": [
+          "STT26-07-RC-078-001"
+        ]
+      },
+      "observacao": "Despacho registrado para STT26-07; aguarda autorização explícita de abertura de ciclo."
+    },
+    {
+      "codigo": "RC-108",
+      "nome": "Universo Paralelo",
+      "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "Deliberação explícita do Curador: termos estruturais, raças e conceitos técnicos seguem ao cotejo; descartes cobrem analogia histórica, programa espacial citado como exemplo ou vinheta de plataforma.",
+      "decisao_por_lote": {
+        "STT26-07": "AUTORIZAR-COTEJO-AMPLIADO"
+      },
+      "evidencias_disponiveis": {
+        "STT26-07": [
+          "STT26-07-RC-108-001",
+          "STT26-07-RC-108-005",
+          "STT26-07-RC-108-006"
+        ]
+      },
+      "observacao": "Despacho registrado para STT26-07; aguarda autorização explícita de abertura de ciclo."
+    },
+    {
+      "codigo": "RC-024",
+      "nome": "Anunnaki",
+      "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "Deliberação explícita do Curador: termos estruturais, raças e conceitos técnicos seguem ao cotejo; descartes cobrem analogia histórica, programa espacial citado como exemplo ou vinheta de plataforma.",
+      "decisao_por_lote": {
+        "STT26-07": "AUTORIZAR-COTEJO-AMPLIADO"
+      },
+      "evidencias_disponiveis": {
+        "STT26-07": [
+          "STT26-07-RC-024-001",
+          "STT26-07-RC-024-004",
+          "STT26-07-RC-024-005"
+        ]
+      },
+      "observacao": "Despacho registrado para STT26-07; aguarda autorização explícita de abertura de ciclo."
+    },
+    {
+      "codigo": "RC-086",
+      "nome": "Pandora",
+      "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "Deliberação explícita do Curador: termos estruturais, raças e conceitos técnicos seguem ao cotejo; descartes cobrem analogia histórica, programa espacial citado como exemplo ou vinheta de plataforma.",
+      "decisao_por_lote": {
+        "STT26-07": "AUTORIZAR-COTEJO-AMPLIADO"
+      },
+      "evidencias_disponiveis": {
+        "STT26-07": [
+          "STT26-07-RC-086-001",
+          "STT26-07-RC-086-004",
+          "STT26-07-RC-086-005"
+        ]
+      },
+      "observacao": "Despacho registrado para STT26-07; aguarda autorização explícita de abertura de ciclo."
+    },
+    {
+      "codigo": "RC-593",
+      "nome": "Mahabharata",
+      "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "Deliberação explícita do Curador: termos estruturais, raças e conceitos técnicos seguem ao cotejo; descartes cobrem analogia histórica, programa espacial citado como exemplo ou vinheta de plataforma.",
+      "decisao_por_lote": {
+        "STT26-07": "AUTORIZAR-COTEJO-AMPLIADO"
+      },
+      "evidencias_disponiveis": {
+        "STT26-07": [
+          "STT26-07-RC-593-001"
+        ]
+      },
+      "observacao": "Despacho registrado para STT26-07; aguarda autorização explícita de abertura de ciclo."
+    },
+    {
+      "codigo": "RC-841",
+      "nome": "Cronos (titã)",
+      "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "Deliberação explícita do Curador: termos estruturais, raças e conceitos técnicos seguem ao cotejo; descartes cobrem analogia histórica, programa espacial citado como exemplo ou vinheta de plataforma.",
+      "decisao_por_lote": {
+        "STT26-07": "AUTORIZAR-COTEJO-AMPLIADO"
+      },
+      "evidencias_disponiveis": {
+        "STT26-07": [
+          "STT26-07-RC-841-001"
+        ]
+      },
+      "observacao": "Despacho registrado para STT26-07; aguarda autorização explícita de abertura de ciclo."
+    },
+    {
+      "codigo": "RC-002",
+      "nome": "Rebelião de Lúcifer",
+      "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "Deliberação explícita do Curador: termos estruturais, raças e conceitos técnicos seguem ao cotejo; descartes cobrem analogia histórica, programa espacial citado como exemplo ou vinheta de plataforma.",
+      "decisao_por_lote": {
+        "STT26-07": "AUTORIZAR-COTEJO-AMPLIADO"
+      },
+      "evidencias_disponiveis": {
+        "STT26-07": [
+          "STT26-07-RC-002-001",
+          "STT26-07-RC-002-002",
+          "STT26-07-RC-002-004"
+        ]
+      },
+      "observacao": "Despacho registrado para STT26-07; aguarda autorização explícita de abertura de ciclo."
+    },
+    {
+      "codigo": "RC-036",
+      "nome": "Biodemos",
+      "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "Deliberação explícita do Curador: termos estruturais, raças e conceitos técnicos seguem ao cotejo; descartes cobrem analogia histórica, programa espacial citado como exemplo ou vinheta de plataforma.",
+      "decisao_por_lote": {
+        "STT26-07": "AUTORIZAR-COTEJO-AMPLIADO"
+      },
+      "evidencias_disponiveis": {
+        "STT26-07": [
+          "STT26-07-RC-036-001",
+          "STT26-07-RC-036-002"
+        ]
+      },
+      "observacao": "Despacho registrado para STT26-07; aguarda autorização explícita de abertura de ciclo."
+    },
+    {
+      "codigo": "RC-924",
+      "nome": "Loop Mental",
+      "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "Deliberação explícita do Curador: termos estruturais, raças e conceitos técnicos seguem ao cotejo; descartes cobrem analogia histórica, programa espacial citado como exemplo ou vinheta de plataforma.",
+      "decisao_por_lote": {
+        "STT26-07": "AUTORIZAR-COTEJO-AMPLIADO"
+      },
+      "evidencias_disponiveis": {
+        "STT26-07": [
+          "STT26-07-RC-924-001"
+        ]
+      },
+      "observacao": "Despacho registrado para STT26-07; aguarda autorização explícita de abertura de ciclo."
+    },
+    {
+      "codigo": "RC-085",
+      "nome": "Orbum",
+      "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "Deliberação explícita do Curador: termos estruturais, raças e conceitos técnicos seguem ao cotejo; descartes cobrem analogia histórica, programa espacial citado como exemplo ou vinheta de plataforma.",
+      "decisao_por_lote": {
+        "STT26-07": "DESCARTAR-DO-LOTE"
+      },
+      "evidencias_disponiveis": {
+        "STT26-07": [
+          "STT26-07-RC-085-001",
+          "STT26-07-RC-085-002"
+        ]
+      },
+      "observacao": "Despacho registrado para STT26-07; aguarda autorização explícita de abertura de ciclo."
+    },
+    {
+      "codigo": "RC-709",
+      "nome": "Humano Turbinado",
+      "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "Deliberação explícita do Curador: termos estruturais, raças e conceitos técnicos seguem ao cotejo; descartes cobrem analogia histórica, programa espacial citado como exemplo ou vinheta de plataforma.",
+      "decisao_por_lote": {
+        "STT26-07": "AUTORIZAR-COTEJO-AMPLIADO"
+      },
+      "evidencias_disponiveis": {
+        "STT26-07": [
+          "STT26-07-RC-709-001"
+        ]
+      },
+      "observacao": "Despacho registrado para STT26-07; aguarda autorização explícita de abertura de ciclo."
+    }
+  ],
+  "despacho_de_eixo": {
+    "resultado": "CONCLUIDO",
+    "lotes_autorizados_para_cotejo_ampliado": [
+      "STT26-07"
+    ],
+    "autorizacao_para_abrir_ciclo": false,
+    "observacao": "Despacho integral do único lote planejado para este eixo. Cotejo ampliado autorizado; abertura do ciclo no Motor permanece pendente de autorização explícita do Curador."
+  }
+}
