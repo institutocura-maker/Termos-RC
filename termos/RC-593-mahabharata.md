@@ -5,7 +5,7 @@ nome = "Mahabharata"
 categoria = "Tecnologias & Artefatos"
 subcategoria = "5.4 Escrituras / Objetos documentais"
 status = "verificado"
-fontes = ["P2022-12-17", "P2025-02-16", "P2024-11-30", "P2023-06-25", "P2021-05-15", "P2023-10-14", "P2022-03-26", "P2023-12-03", "P2024-06-16", "STT26-EXTRATERRESTRES_TECNOLOGIA", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA"]
+fontes = ["P2022-12-17", "P2025-02-16", "P2024-11-30", "P2023-06-25", "P2021-05-15", "P2023-10-14", "P2022-03-26", "P2023-12-03", "P2024-06-16", "STT26-EXTRATERRESTRES_TECNOLOGIA", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA", "STT26-MITOLOGIAS_REINTEGRACAO"]
 via = "P6-evidência"
 confianca_fonte = "média"
 atualizado = "2026-10-22"
@@ -46,9 +46,15 @@ Vyasa (RC-585); Rishis (RC-586); Rama (avatar de Vishnu) (RC-584)
 
 - **[STT26-09 · Mahabharata]** «Nos últimos 7 mil anos, na verdade nos últimos 5 mil anos, em algum momento dos últimos 5 mil anos, depois do trabalho de Vyasa na codificação do que seria o Mahabharata, e quando do contato entre Vyasa e o senhor Krishna, principalmente no evento da morte de Krishna, em que uma confusa situação de distinguir se Krishna, após a morte do seu corpo demodármico, se o eu dele iria para uma espiritualidade mais requintada, onde humanos já existiam, ou se voltaria para os reinos do universo vizinho, que eram confundidos com um nível de espiritualidade maior.» (U5063 · chars 731094–731653) — Candidata de cotejo; evidência `STT26-09-RC-593-001`, grafia encontrada `Mahabharata`; decisão por lote `STT26-09: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
 
+## Ampliação — STT26-MITOLOGIAS_REINTEGRACAO (Eixo STT26 — Mitologias, tradições e eixo de reintegração (derivados normalizados))
+
+- **[STT26-15 · Mahabharata]** «Foi a guerra de Kurukshetra, no norte da Índia, no estado de Uttar Pradesh. E essa guerra de Kurukshetra aqui na Terra envolvia dois ramos de primos descendentes da linhagem dos Barata. O Mahabharata significa a história dos Barata, que era descendência de Barata, irmão de Rama.» (U5680 · chars 863075–863355) — Candidata de cotejo; evidência `STT26-15-RC-593-001`, grafia encontrada `Mahabharata`; decisão por lote `STT26-15: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
+| STT26-MITOLOGIAS_REINTEGRACAO | Eixo STT26 — Mitologias, tradições e eixo de reintegração (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | STT26-EXPERIENCIA_ESPIRITUAL_ETICA | Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | STT26-EXTRATERRESTRES_TECNOLOGIA | Eixo STT26 — Extraterrestres, tecnologia e cosmos (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |

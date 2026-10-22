@@ -5,10 +5,10 @@ nome = "Mohen So (Avatar Keshava de Vishnu)"
 categoria = "Seres & Entidades"
 subcategoria = "1.3 Extraterrestres / Raças cósmicas"
 status = "verificado"
-fontes = ["B031", "B017", "B014", "P2026-04-02", "P2025-10-25", "P2025-08-03", "P2024-11-30", "P2024-11-02", "P2024-08-03", "P2024-04-14", "P2023-12-02", "P2023-06-25", "P2023-12-03", "P2021-01-30"]
+fontes = ["B031", "B017", "B014", "P2026-04-02", "P2025-10-25", "P2025-08-03", "P2024-11-30", "P2024-11-02", "P2024-08-03", "P2024-04-14", "P2023-12-02", "P2023-06-25", "P2023-12-03", "P2021-01-30", "STT26-MITOLOGIAS_REINTEGRACAO"]
 via = "P6-evidência"
 confianca_fonte = "alta"
-atualizado = "2026-09-12"
+atualizado = "2026-10-22"
 +++
 # Mohen So (Avatar Keshava de Vishnu) — RC-081
 
@@ -146,3 +146,7 @@ A live P2026-04-02 normaliza os ruídos Morren So/Morrençor como Mohen So e o r
 - Corrobora RC-282 (Mohen So = Phanes/Protogonos).
 
 ---
+
+## Ampliação — STT26-MITOLOGIAS_REINTEGRACAO (Eixo STT26 — Mitologias, tradições e eixo de reintegração (derivados normalizados))
+
+- **[STT26-15 · Mohen So (Avatar Keshava de Vishnu)]** «Nossa quarta pergunta. Rogério, se possível, nos esclareça esta dúvida. Já sabemos que Mohen So, antes de seu auto-extinguir, com o intuito de ajudar o espírito de Mavatma, transferiu seus conhecimentos, experiências e informações para o ser humano, Jean Val Elan.» (U6539 · chars 996326–996590) — Candidata de cotejo; evidência `STT26-15-RC-081-001`, grafia encontrada `Mohen So`; decisão por lote `STT26-15: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.

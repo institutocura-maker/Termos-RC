@@ -5,7 +5,7 @@ nome = "Tirthankaras (Rishabh Dev, Jina Mahavira)"
 categoria = "Seres & Entidades"
 subcategoria = "1.6 Figuras humanas (históricas/míticas)"
 status = "provisório"
-fontes = ["B050", "P2025-10-25", "P2025-02-16", "P2024-02-03", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA"]
+fontes = ["B050", "P2025-10-25", "P2025-02-16", "P2024-02-03", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA", "STT26-MITOLOGIAS_REINTEGRACAO"]
 via = "P6-evidência"
 confianca_fonte = "média"
 atualizado = "2026-10-22"
@@ -41,10 +41,16 @@ Na B050 (*Guia das Eras Universais · Mapa* — infográfico «Linha do Tempo da
 
 - **[STT26-10 · Tirthankaras (Rishabh Dev, Jina Mahavira)]** «Os Tirthankaras não tentam influenciar ninguém. Ser evoluído não tenta influenciar ninguém. Ser evoluído não quer aplauso de ninguém.» (U7797 · chars 1168554–1168687) — Candidata de cotejo; evidência `STT26-10-RC-397-001`, grafia encontrada `Tirthankaras`; decisão por lote `STT26-10: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
 
+## Ampliação — STT26-MITOLOGIAS_REINTEGRACAO (Eixo STT26 — Mitologias, tradições e eixo de reintegração (derivados normalizados))
+
+- **[STT26-18 · Tirthankaras (Rishabh Dev, Jina Mahavira)]** «O nosso amigo Siddhartha Gautama, quando ele saiu da condição humana, como ele criou, em plena vida humana, uma ponte direta com o que a gente chama de paraíso, níveis espirituais superiores, E foi exatamente por isso que, antes de Siddhartha, antes de Buda, apenas os chamados Tirthankaras, que são figuras consideradas entes muito elevados da mais antiga religião dos hindus, essa religião chama-se Jainismo.» (U13109 · chars 2113087–2113498) — Candidata de cotejo; evidência `STT26-18-RC-397-001`, grafia encontrada `Tirthankaras`; decisão por lote `STT26-18: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+
 ## Fontes
 
 | Obra (sigla) | Título | Página | Tipo |
 |---|---|---|---|
+| STT26-MITOLOGIAS_REINTEGRACAO | Eixo STT26 — Mitologias, tradições e eixo de reintegração (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
 | STT26-EXPERIENCIA_ESPIRITUAL_ETICA | Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
 | B050 | Guia das Eras Universais (Mapa) | — | livro; citação intra-linha |
 

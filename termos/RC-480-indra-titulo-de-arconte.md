@@ -5,10 +5,10 @@ nome = "Indra (título de arconte)"
 categoria = "Seres & Entidades"
 subcategoria = "1.8 Consciências coletivas / Logos"
 status = "verificado"
-fontes = ["P2022-12-17", "P2025-10-25", "P2025-02-16", "P2024-09-29"]
+fontes = ["P2022-12-17", "P2025-10-25", "P2025-02-16", "P2024-09-29", "STT26-MITOLOGIAS_REINTEGRACAO"]
 via = "P6-evidência"
 confianca_fonte = "média"
-atualizado = "2026-09-13"
+atualizado = "2026-10-22"
 +++
 # Indra — RC-480
 
@@ -30,10 +30,16 @@ Título/epíteto, não nome próprio: na leitura da RC, "um Indra é um arconte"
 | Aristocracia Olimpiana e Monarquias Terrestres | RC-736 | associado |
 | Zeus | — | relaciona-se-a |
 
+## Ampliação — STT26-MITOLOGIAS_REINTEGRACAO (Eixo STT26 — Mitologias, tradições e eixo de reintegração (derivados normalizados))
+
+- **[STT26-13 · Indra (título de arconte)]** «Zeus, que na época era o mais forte, que dera surra em todo mundo, na mitologia hindu, Zeus é chamado de Indra, Indra era o mais forte dos deuses, Vishnu, Shiva, todo mundo respeitava a Indra, E Havana começou a esculhambar com o reinado de Indra, ou seja, com o reinado de Zeus.» (U1356 · chars 231107–231386) — Candidata de cotejo; evidência `STT26-13-RC-480-001`, grafia encontrada `Indra`; decisão por lote `STT26-13: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| STT26-MITOLOGIAS_REINTEGRACAO | Eixo STT26 — Mitologias, tradições e eixo de reintegração (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | P2026-07-25 | Jesus e a Dinastia das Sophias (Dossiê aprovado 19/08/2026) | palestra/STT pré-curada |
 
 ## Citações-chave

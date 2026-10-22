@@ -5,10 +5,10 @@ nome = "Bifrost (Portal interdimensional)"
 categoria = "Lokas & Geografias"
 subcategoria = "3.4 Regiões cósmicas / Portais"
 status = "verificado"
-fontes = ["B060", "P2022-12-17", "P2025-02-16", "P2024-11-30", "P2024-11-02", "P2024-08-03", "P2026-03-21"]
+fontes = ["B060", "P2022-12-17", "P2025-02-16", "P2024-11-30", "P2024-11-02", "P2024-08-03", "P2026-03-21", "STT26-MITOLOGIAS_REINTEGRACAO"]
 via = "P6-evidência"
 confianca_fonte = "alta"
-atualizado = "2026-08-16"
+atualizado = "2026-10-22"
 +++
 # Bifrost (Portal interdimensional) — RC-471
 
@@ -37,10 +37,16 @@ Na cosmologia comparada de Jan Val Ellam, Bifrost é uma ponte periódica entre 
 | Yggdrasil / Conglomerado dos Nove Mundos | RC-730 | conecta |
 | Axis Mundi / Axismund | RC-731 | ← conecta-se-por |
 
+## Ampliação — STT26-MITOLOGIAS_REINTEGRACAO (Eixo STT26 — Mitologias, tradições e eixo de reintegração (derivados normalizados))
+
+- **[STT26-16 · Bifrost (Portal interdimensional)]** «As runas deram a Odin a simbologia necessária para ele começar a criar reentendimento, conceitos, significados E assim uma maneira de fazer a leitura da vida A leitura dos fatos e do que acontecia em Yggdrasil surgiu e os outros que estavam fora de Yggdrasil ficaram com inveja do que Odin havia conseguido em Yggdrasil. O desenvolvimento que aconteceu em Yggdrasil fez com que em Marte, já que surgiu algo chamado Bifrost, que é uma ponte quântica, que com o tempo os cientistas de Odin criaram uma passagem que uniformizava os portais desses nove mundos, ou faixas de realidade.» (U10273 · chars 1620725–1621306) — Candidata de cotejo; evidência `STT26-16-RC-471-001`, grafia encontrada `Bifrost`; decisão por lote `STT26-16: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| STT26-MITOLOGIAS_REINTEGRACAO | Eixo STT26 — Mitologias, tradições e eixo de reintegração (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | P2026-03-21 | Samudra Manthan A Enigmatica Alquimia de Vishnu (palestra) | — | transcrição automatizada; citação |
 | B060 | correspondência anterior | fonte publicada |
 | P2022-12-17 | ancoragem/Ragnarok | palestra/STT |

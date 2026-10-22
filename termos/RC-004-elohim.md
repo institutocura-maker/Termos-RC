@@ -5,10 +5,10 @@ nome = "Elohim"
 categoria = "Seres & Entidades"
 subcategoria = "1.2 Coletivos criadores"
 status = "em análise"
-fontes = ["P2024-09-28"]
+fontes = ["P2024-09-28", "STT26-MITOLOGIAS_REINTEGRACAO"]
 via = "P7-conhecimento"
 confianca_fonte = "baixa"
-atualizado = "2026-09-12"
+atualizado = "2026-10-22"
 +++
 # Elohim — RC-004
 
@@ -36,9 +36,15 @@ Termo do Antigo Testamento (plural de *Eloah*) reapropriado pela literatura ufol
 ## Seres Associados
 Javé (RC-001).
 
+## Ampliação — STT26-MITOLOGIAS_REINTEGRACAO (Eixo STT26 — Mitologias, tradições e eixo de reintegração (derivados normalizados))
+
+- **[STT26-16 · Elohim]** «Em manuscritos mais antigos, como os do Mar Morto, ou a própria Septuaginta, que é a versão para o grego feita por 70 sábios dos 47 principais livros hebreus, incluindo os livros de Enoque, mas isso é outra história, informa que Javé de fato tinha dividido as nações da Terra com base no número de filhos de Deus que compõe o Elohim, ou seja, Elohim significa o que?» (U9629 · chars 1512255–1512622) — Candidata de cotejo; evidência `STT26-16-RC-004-001`, grafia encontrada `Elohim`; decisão por lote `STT26-16: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| STT26-MITOLOGIAS_REINTEGRACAO | Eixo STT26 — Mitologias, tradições e eixo de reintegração (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
 | a identificar | — | — | — |
 
 ## Citações-chave

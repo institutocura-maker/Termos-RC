@@ -5,10 +5,10 @@ nome = "Moksha"
 categoria = "Termos Específicos"
 subcategoria = "8.1 Sânscrito / Hinduísmo"
 status = "verificado"
-fontes = ["P2021-12-04", "P2026-07-30", "P2024-02-03"]
+fontes = ["P2021-12-04", "P2026-07-30", "P2024-02-03", "STT26-MITOLOGIAS_REINTEGRACAO"]
 via = "P6-evidência"
 confianca_fonte = "média"
-atualizado = "2026-08-14"
+atualizado = "2026-10-22"
 +++
 # Moksha — RC-618
 
@@ -39,9 +39,15 @@ Libertação da roda reencarnacional por superação da ignorância e emancipaç
 ## Seres Associados
 Consultar as relações tipadas acima.
 
+## Ampliação — STT26-MITOLOGIAS_REINTEGRACAO (Eixo STT26 — Mitologias, tradições e eixo de reintegração (derivados normalizados))
+
+- **[STT26-14 · Moksha]** «Só um instantinho. A tela. Professor, pergunta Ana Flávia Brumo. Seres humanos podem se desvincular do eu superior após o moksha?» (U3226 · chars 523005–523135) — Candidata de cotejo; evidência `STT26-14-RC-618-001`, grafia encontrada `moksha`; decisão por lote `STT26-14: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
+| STT26-MITOLOGIAS_REINTEGRACAO | Eixo STT26 — Mitologias, tradições e eixo de reintegração (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | P2021-12-04 — Os Archeons de Ereon e os Seres Adhy | U0460; U0563–U0571 | STT pré-curado e validado |
 | P2024-02-03 | O Jainismo e o Druidismo Ancestrais (palestra) | — |
 

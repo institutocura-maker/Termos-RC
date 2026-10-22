@@ -5,7 +5,7 @@ nome = "Arcontes (= Sophias e Indras; Conselho dos 70)"
 categoria = "Seres & Entidades"
 subcategoria = "1.2 Coletivos criadores"
 status = "em análise"
-fontes = ["P2022-12-17", "P2025-02-16", "P2024-11-30", "P2026-08-04", "P2023-12-02", "P2023-06-03", "P2022-09-24", "P2025-02-22", "P2023-10-14", "P2022-03-26", "P2023-12-03", "P2022-05-07", "P2025-05-10", "P2023-02-11", "P2022-11-26", "P2022-11-20", "P2022-09-17", "P2025-12-14", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA"]
+fontes = ["P2022-12-17", "P2025-02-16", "P2024-11-30", "P2026-08-04", "P2023-12-02", "P2023-06-03", "P2022-09-24", "P2025-02-22", "P2023-10-14", "P2022-03-26", "P2023-12-03", "P2022-05-07", "P2025-05-10", "P2023-02-11", "P2022-11-26", "P2022-11-20", "P2022-09-17", "P2025-12-14", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA", "STT26-MITOLOGIAS_REINTEGRACAO"]
 via = "P7-conhecimento"
 confianca_fonte = "baixa"
 atualizado = "2026-10-22"
@@ -52,10 +52,16 @@ Na RC, colegiado de seres = "Sophias e Indras; Conselho dos 70" — linhagem de 
 
 - **[STT26-09 · Arcontes (= Sophias e Indras; Conselho dos 70)]** «A briga dos arcontes maiores é aqui, ainda que haja também arcontes aqui entre os mais velhos. Mas, por exemplo, entre os mais velhos está a figura de Shiva.» (U5113 · chars 737181–737338) — Candidata de cotejo; evidência `STT26-09-RC-474-001`, grafia encontrada `arcontes`; decisão por lote `STT26-09: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
 
+## Ampliação — STT26-MITOLOGIAS_REINTEGRACAO (Eixo STT26 — Mitologias, tradições e eixo de reintegração (derivados normalizados))
+
+- **[STT26-13 · Arcontes (= Sophias e Indras; Conselho dos 70)]** «O próximo livro que está saindo, além da ordenação do caos, a face microbiana, é um outro assunto. Mas depois deste, o livro que deve sair é Sofia, os Avatares, Sofia, os Arcontes e a Disputa pela Suzerania Universal, que tem a ver com o Gnosticismo.» (U1600 · chars 260381–260631) — Candidata de cotejo; evidência `STT26-13-RC-474-001`, grafia encontrada `Arcontes`; decisão por lote `STT26-13: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| STT26-MITOLOGIAS_REINTEGRACAO | Eixo STT26 — Mitologias, tradições e eixo de reintegração (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | STT26-EXPERIENCIA_ESPIRITUAL_ETICA | Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | P2025-12-14 | Os Fundamentos da Revelação Cósmica (palestra) | — | transcrição automatizada; citação |
 | P2022-09-17 | A Hipóstase dos Arcontes (palestra) | — | transcrição automatizada; citação |

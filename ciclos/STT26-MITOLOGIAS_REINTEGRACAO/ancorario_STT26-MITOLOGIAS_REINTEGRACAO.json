@@ -5,11 +5,11 @@
  "sha256": "0c61827c99a67a1700bded904200f951eeb3b66aac5ff1ba77f4d07566d04960",
  "bytes": 2546698,
  "unidades_com_fala": 7661,
- "homologacao_perolas": "",
+ "homologacao_perolas": "Aprovação explícita do Curador em 22/10/2026: as 45 candidatas do dossiê foram validadas para pouso na Base.",
  "spans": [
   {
    "codigo": "RC-002",
-   "status": "candidata",
+   "status": "aprovada",
    "u": "U0172",
    "chars": [
     40150,
@@ -21,7 +21,7 @@
   },
   {
    "codigo": "RC-003",
-   "status": "candidata",
+   "status": "aprovada",
    "u": "U0188",
    "chars": [
     43228,
@@ -33,7 +33,7 @@
   },
   {
    "codigo": "RC-004",
-   "status": "candidata",
+   "status": "aprovada",
    "u": "U9629",
    "chars": [
     1512256,
@@ -45,7 +45,7 @@
   },
   {
    "codigo": "RC-007",
-   "status": "candidata",
+   "status": "aprovada",
    "u": "U0232",
    "chars": [
     58999,
@@ -57,7 +57,7 @@
   },
   {
    "codigo": "RC-009",
-   "status": "candidata",
+   "status": "aprovada",
    "u": "U1094",
    "chars": [
     197069,
@@ -69,7 +69,7 @@
   },
   {
    "codigo": "RC-019",
-   "status": "candidata",
+   "status": "aprovada",
    "u": "U14417",
    "chars": [
     2343623,
@@ -81,7 +81,7 @@
   },
   {
    "codigo": "RC-034",
-   "status": "candidata",
+   "status": "aprovada",
    "u": "U8615",
    "chars": [
     1328769,
@@ -93,7 +93,7 @@
   },
   {
    "codigo": "RC-037",
-   "status": "candidata",
+   "status": "aprovada",
    "u": "U0482",
    "chars": [
     116615,
@@ -105,7 +105,7 @@
   },
   {
    "codigo": "RC-039",
-   "status": "candidata",
+   "status": "aprovada",
    "u": "U0418",
    "chars": [
     103287,
@@ -117,7 +117,7 @@
   },
   {
    "codigo": "RC-068",
-   "status": "candidata",
+   "status": "aprovada",
    "u": "U14045",
    "chars": [
     2282989,
@@ -129,7 +129,7 @@
   },
   {
    "codigo": "RC-078",
-   "status": "candidata",
+   "status": "aprovada",
    "u": "U6099",
    "chars": [
     934213,
@@ -141,7 +141,7 @@
   },
   {
    "codigo": "RC-081",
-   "status": "candidata",
+   "status": "aprovada",
    "u": "U6539",
    "chars": [
     996326,
@@ -153,7 +153,7 @@
   },
   {
    "codigo": "RC-086",
-   "status": "candidata",
+   "status": "aprovada",
    "u": "U10699",
    "chars": [
     1693834,
@@ -165,7 +165,7 @@
   },
   {
    "codigo": "RC-094",
-   "status": "candidata",
+   "status": "aprovada",
    "u": "U0174",
    "chars": [
     41176,
@@ -177,7 +177,7 @@
   },
   {
    "codigo": "RC-102",
-   "status": "candidata",
+   "status": "aprovada",
    "u": "U0590",
    "chars": [
     132120,
@@ -189,7 +189,7 @@
   },
   {
    "codigo": "RC-104",
-   "status": "candidata",
+   "status": "aprovada",
    "u": "U0588",
    "chars": [
     131997,
@@ -201,7 +201,7 @@
   },
   {
    "codigo": "RC-106",
-   "status": "candidata",
+   "status": "aprovada",
    "u": "U9421",
    "chars": [
     1478395,
@@ -213,7 +213,7 @@
   },
   {
    "codigo": "RC-135",
-   "status": "candidata",
+   "status": "aprovada",
    "u": "U0590",
    "chars": [
     132120,
@@ -225,7 +225,7 @@
   },
   {
    "codigo": "RC-162",
-   "status": "candidata",
+   "status": "aprovada",
    "u": "U1648",
    "chars": [
     267221,
@@ -237,7 +237,7 @@
   },
   {
    "codigo": "RC-166",
-   "status": "candidata",
+   "status": "aprovada",
    "u": "U2830",
    "chars": [
     457234,
@@ -249,7 +249,7 @@
   },
   {
    "codigo": "RC-301",
-   "status": "candidata",
+   "status": "aprovada",
    "u": "U10649",
    "chars": [
     1685794,
@@ -261,7 +261,7 @@
   },
   {
    "codigo": "RC-302",
-   "status": "candidata",
+   "status": "aprovada",
    "u": "U10793",
    "chars": [
     1705850,
@@ -273,7 +273,7 @@
   },
   {
    "codigo": "RC-306",
-   "status": "candidata",
+   "status": "aprovada",
    "u": "U8917",
    "chars": [
     1389781,
@@ -285,7 +285,7 @@
   },
   {
    "codigo": "RC-397",
-   "status": "candidata",
+   "status": "aprovada",
    "u": "U13109",
    "chars": [
     2113088,
@@ -297,7 +297,7 @@
   },
   {
    "codigo": "RC-414",
-   "status": "candidata",
+   "status": "aprovada",
    "u": "U0226",
    "chars": [
     54835,
@@ -309,7 +309,7 @@
   },
   {
    "codigo": "RC-465",
-   "status": "candidata",
+   "status": "aprovada",
    "u": "U10373",
    "chars": [
     1638959,
@@ -321,7 +321,7 @@
   },
   {
    "codigo": "RC-471",
-   "status": "candidata",
+   "status": "aprovada",
    "u": "U10273",
    "chars": [
     1620726,
@@ -333,7 +333,7 @@
   },
   {
    "codigo": "RC-474",
-   "status": "candidata",
+   "status": "aprovada",
    "u": "U1600",
    "chars": [
     260381,
@@ -345,7 +345,7 @@
   },
   {
    "codigo": "RC-480",
-   "status": "candidata",
+   "status": "aprovada",
    "u": "U1356",
    "chars": [
     231107,
@@ -357,7 +357,7 @@
   },
   {
    "codigo": "RC-481",
-   "status": "candidata",
+   "status": "aprovada",
    "u": "U8297",
    "chars": [
     1278714,
@@ -369,7 +369,7 @@
   },
   {
    "codigo": "RC-487",
-   "status": "candidata",
+   "status": "aprovada",
    "u": "U0692",
    "chars": [
     145278,
@@ -381,7 +381,7 @@
   },
   {
    "codigo": "RC-489",
-   "status": "candidata",
+   "status": "aprovada",
    "u": "U0126",
    "chars": [
     27473,
@@ -393,7 +393,7 @@
   },
   {
    "codigo": "RC-565",
-   "status": "candidata",
+   "status": "aprovada",
    "u": "U3628",
    "chars": [
     574039,
@@ -405,7 +405,7 @@
   },
   {
    "codigo": "RC-585",
-   "status": "candidata",
+   "status": "aprovada",
    "u": "U5686",
    "chars": [
     863627,
@@ -417,7 +417,7 @@
   },
   {
    "codigo": "RC-586",
-   "status": "candidata",
+   "status": "aprovada",
    "u": "U14543",
    "chars": [
     2360623,
@@ -429,7 +429,7 @@
   },
   {
    "codigo": "RC-593",
-   "status": "candidata",
+   "status": "aprovada",
    "u": "U5680",
    "chars": [
     863076,
@@ -441,7 +441,7 @@
   },
   {
    "codigo": "RC-604",
-   "status": "candidata",
+   "status": "aprovada",
    "u": "U6391",
    "chars": [
     970460,
@@ -453,7 +453,7 @@
   },
   {
    "codigo": "RC-618",
-   "status": "candidata",
+   "status": "aprovada",
    "u": "U3226",
    "chars": [
     523006,
@@ -465,7 +465,7 @@
   },
   {
    "codigo": "RC-643",
-   "status": "candidata",
+   "status": "aprovada",
    "u": "U6697",
    "chars": [
     1018713,
@@ -477,7 +477,7 @@
   },
   {
    "codigo": "RC-715",
-   "status": "candidata",
+   "status": "aprovada",
    "u": "U11531",
    "chars": [
     1825521,
@@ -489,7 +489,7 @@
   },
   {
    "codigo": "RC-752",
-   "status": "candidata",
+   "status": "aprovada",
    "u": "U3348",
    "chars": [
     535073,
@@ -501,7 +501,7 @@
   },
   {
    "codigo": "RC-756",
-   "status": "candidata",
+   "status": "aprovada",
    "u": "U9931",
    "chars": [
     1560216,
@@ -513,7 +513,7 @@
   },
   {
    "codigo": "RC-759",
-   "status": "candidata",
+   "status": "aprovada",
    "u": "U10561",
    "chars": [
     1668653,
@@ -525,7 +525,7 @@
   },
   {
    "codigo": "RC-854",
-   "status": "candidata",
+   "status": "aprovada",
    "u": "U0222",
    "chars": [
     51836,
@@ -537,7 +537,7 @@
   },
   {
    "codigo": "RC-940",
-   "status": "candidata",
+   "status": "aprovada",
    "u": "U3234",
    "chars": [
     524365,

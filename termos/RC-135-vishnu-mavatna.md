@@ -5,7 +5,7 @@ nome = "Vishnu (Mavatna)"
 categoria = "Seres & Entidades"
 subcategoria = "1.1 Divindades / Criadores"
 status = "verificado"
-fontes = ["B031", "B024", "B044", "B001", "B033", "B016", "B014", "B020", "B021", "B022", "B051", "B036", "B060", "P2022-12-17", "P2021-12-04", "P2026-07-30", "P2024-05-04", "P2026-04-02", "P2025-03-15", "P2025-02-16", "P2024-11-30", "P2024-11-09", "P2024-08-03", "P2024-07-14", "P2023-04-15", "P2023-04-29", "P2020-05-09", "P2025-02-22", "P2022-05-07", "P2024-06-16", "P2012-02-19", "P2023-12-25-01", "P2020-04-04", "STT26-EXTRATERRESTRES_TECNOLOGIA", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA"]
+fontes = ["B031", "B024", "B044", "B001", "B033", "B016", "B014", "B020", "B021", "B022", "B051", "B036", "B060", "P2022-12-17", "P2021-12-04", "P2026-07-30", "P2024-05-04", "P2026-04-02", "P2025-03-15", "P2025-02-16", "P2024-11-30", "P2024-11-09", "P2024-08-03", "P2024-07-14", "P2023-04-15", "P2023-04-29", "P2020-05-09", "P2025-02-22", "P2022-05-07", "P2024-06-16", "P2012-02-19", "P2023-12-25-01", "P2020-04-04", "STT26-EXTRATERRESTRES_TECNOLOGIA", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA", "STT26-MITOLOGIAS_REINTEGRACAO"]
 via = "P6-evidência"
 confianca_fonte = "alta"
 atualizado = "2026-10-22"
@@ -73,9 +73,15 @@ Com isso:
 
 - **[STT26-08 · Vishnu (Mavatna)]** «E ao que consta, tanto o ser B, Adi Savna, quanto o ser Adi Mavatma, mergulharam no caos, como Shiva e Vishnu, para ajudar.» (U0933 · chars 66452–66575) — Candidata de cotejo; evidência `STT26-08-RC-135-001`, grafia encontrada `Vishnu`; decisão por lote `STT26-08: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
 
+## Ampliação — STT26-MITOLOGIAS_REINTEGRACAO (Eixo STT26 — Mitologias, tradições e eixo de reintegração (derivados normalizados))
+
+- **[STT26-13 · Vishnu (Mavatna)]** «Aí, depois que um caiu, os outros dois mergulharam e a briga continuou aqui dentro. E esses três seres, indo agora para a perspectiva hindu-ariana, chamada Brahma, Vishnu e Shiva, sempre brigaram para ver quem dos três havia criado, de fato, a criação antes deles mergulharem, e agora que estavam caídos, quem dos três comandava isso aqui.» (U0590 · chars 132120–132459) — Candidata de cotejo; evidência `STT26-13-RC-135-001`, grafia encontrada `Vishnu`; decisão por lote `STT26-13: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+
 ## Fontes
 | Obra (sigla) | Título | Página | Tipo |
 |---|---|---|---|
+| STT26-MITOLOGIAS_REINTEGRACAO | Eixo STT26 — Mitologias, tradições e eixo de reintegração (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
 | STT26-EXPERIENCIA_ESPIRITUAL_ETICA | Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
 | STT26-EXTRATERRESTRES_TECNOLOGIA | Eixo STT26 — Extraterrestres, tecnologia e cosmos (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
 | P2012-02-19 | Xadrez Cósmico de Brahma, Vishnu e Shiva (palestra) | — | transcrição automatizada; citação |

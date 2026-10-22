@@ -5,10 +5,10 @@ nome = "Prometeu (titã)"
 categoria = "Seres & Entidades"
 subcategoria = "1.5 Decaídos / Exilados / Demônios"
 status = "verificado"
-fontes = ["B020", "B021", "P2025-02-16", "P2024-11-09", "P2025-06-14b", "B087", "B088", "B089", "P2021-05-15", "P2023-12-03"]
+fontes = ["B020", "B021", "P2025-02-16", "P2024-11-09", "P2025-06-14b", "B087", "B088", "B089", "P2021-05-15", "P2023-12-03", "STT26-MITOLOGIAS_REINTEGRACAO"]
 via = "P6-evidência"
 confianca_fonte = "alta"
-atualizado = "2026-08-29"
+atualizado = "2026-10-22"
 +++
 # Prometeu (titã) — RC-301
 
@@ -48,9 +48,15 @@ Versão primária em B020/B021 (Ellam). No B087 (psicografia de Jeane Miranda �
 ## Seres Associados
 Epimeteu (RC-302, o irmão); Pandora (RC-086, a discípula); Zeus (RC-145); Atena (as "fêmeas-testes" criadas por ela).
 
+## Ampliação — STT26-MITOLOGIAS_REINTEGRACAO (Eixo STT26 — Mitologias, tradições e eixo de reintegração (derivados normalizados))
+
+- **[STT26-17 · Prometeu (titã)]** «Então, assim, eu não vou levar a fundo, porque fica insuportável a quantidade de informações. Mas esse ser chamado Prometeu, que é um ser da mitologia grega, ele tinha uma filosofia própria.» (U10649 · chars 1685794–1685984) — Candidata de cotejo; evidência `STT26-17-RC-301-001`, grafia encontrada `Prometeu`; decisão por lote `STT26-17: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| STT26-MITOLOGIAS_REINTEGRACAO | Eixo STT26 — Mitologias, tradições e eixo de reintegração (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
 | P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra) | — | transcrição automatizada; citação |
 | P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra) | — | transcrição automatizada; citação |
 | Os Livros da Vida de Pandora 1 (B087) | Caps. 1–15 | pp. 14–86 (PDF): as criaturas de barro; o pacto; o pressentimento | narrativa psicografada (Pandora) |

@@ -1,0 +1,325 @@
+{
+ "motor": "ferramentas/motor.py",
+ "ciclo": "STT26-MITOLOGIAS_REINTEGRACAO",
+ "politica": "apenas `status: aprovada` entra no corpus",
+ "fonte": "ciclos/STT26-MITOLOGIAS_REINTEGRACAO/original.txt",
+ "sha256_fonte": "0c61827c99a67a1700bded904200f951eeb3b66aac5ff1ba77f4d07566d04960",
+ "cards_total": 45,
+ "cards": [
+  {
+   "id": "PER-STT26-MITOLOGIAS_REINTEGRACAO-001",
+   "arquivo": "rag/perolas/PER-STT26-MITOLOGIAS_REINTEGRACAO-001.md",
+   "sha256": "6e7747dc4c1f94ad006fbd77183dc7dd3fe3af7a0bc6a7791b588ddbddfcd53a",
+   "termo": "RC-002",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-MITOLOGIAS_REINTEGRACAO-002",
+   "arquivo": "rag/perolas/PER-STT26-MITOLOGIAS_REINTEGRACAO-002.md",
+   "sha256": "6534014c4e97a321fae9970bde73edc4733e90c7b01abe505921f24294a94b76",
+   "termo": "RC-004",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-MITOLOGIAS_REINTEGRACAO-003",
+   "arquivo": "rag/perolas/PER-STT26-MITOLOGIAS_REINTEGRACAO-003.md",
+   "sha256": "8fb49ba5c529432880e98b120d7c443765812e29a48b665488e70f2f8c3998b3",
+   "termo": "RC-009",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-MITOLOGIAS_REINTEGRACAO-004",
+   "arquivo": "rag/perolas/PER-STT26-MITOLOGIAS_REINTEGRACAO-004.md",
+   "sha256": "37c2fad08b54c94a0d57ca37c4a894253c6f40bead9cf5f7d04897f86ee1bd61",
+   "termo": "RC-019",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-MITOLOGIAS_REINTEGRACAO-005",
+   "arquivo": "rag/perolas/PER-STT26-MITOLOGIAS_REINTEGRACAO-005.md",
+   "sha256": "d5e72309b5f5a733d994b24371480aef02fee8b19ff5462be3ca153668826bb7",
+   "termo": "RC-039",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-MITOLOGIAS_REINTEGRACAO-006",
+   "arquivo": "rag/perolas/PER-STT26-MITOLOGIAS_REINTEGRACAO-006.md",
+   "sha256": "19b585eda6be8198b94df03152c37af9c39835f18240ddb3a5562d71e2cb643e",
+   "termo": "RC-094",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-MITOLOGIAS_REINTEGRACAO-007",
+   "arquivo": "rag/perolas/PER-STT26-MITOLOGIAS_REINTEGRACAO-007.md",
+   "sha256": "e3bb5f035c4dca820fc7325d8c1d2f9bd3781b76fd8f354dfff8abfd4948b62f",
+   "termo": "RC-414",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-MITOLOGIAS_REINTEGRACAO-008",
+   "arquivo": "rag/perolas/PER-STT26-MITOLOGIAS_REINTEGRACAO-008.md",
+   "sha256": "8fa1e8cde8207489103f06b320d12c2a6628823a39f3c3f984836499824751b5",
+   "termo": "RC-586",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-MITOLOGIAS_REINTEGRACAO-009",
+   "arquivo": "rag/perolas/PER-STT26-MITOLOGIAS_REINTEGRACAO-009.md",
+   "sha256": "94bbe9dee05fb56600ac94bf045ebe0fbf88c12d1a43ed3c090112fe680bbc09",
+   "termo": "RC-604",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-MITOLOGIAS_REINTEGRACAO-010",
+   "arquivo": "rag/perolas/PER-STT26-MITOLOGIAS_REINTEGRACAO-010.md",
+   "sha256": "5921424c70702148ecf81e9c9c92984e68a25ee2b04c8bd0646150639d2545c2",
+   "termo": "RC-007",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-MITOLOGIAS_REINTEGRACAO-011",
+   "arquivo": "rag/perolas/PER-STT26-MITOLOGIAS_REINTEGRACAO-011.md",
+   "sha256": "cf254582ebc23d14121052fce5b784c259a0e63972dee9b5ce561c9ace8fe223",
+   "termo": "RC-034",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-MITOLOGIAS_REINTEGRACAO-012",
+   "arquivo": "rag/perolas/PER-STT26-MITOLOGIAS_REINTEGRACAO-012.md",
+   "sha256": "5d61643f8b52e3a94f3988b338a770d189218ca854e39852ceb66ba0dc64a72a",
+   "termo": "RC-102",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-MITOLOGIAS_REINTEGRACAO-013",
+   "arquivo": "rag/perolas/PER-STT26-MITOLOGIAS_REINTEGRACAO-013.md",
+   "sha256": "4c520f2daae9ff805ec7b7ee0a728858c03bb5b2745bccc4650684a3ffb68bba",
+   "termo": "RC-135",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-MITOLOGIAS_REINTEGRACAO-014",
+   "arquivo": "rag/perolas/PER-STT26-MITOLOGIAS_REINTEGRACAO-014.md",
+   "sha256": "469bb14a01637caaa7be4211f61b4041a724ee63c8ffa4a670c1d4a5194350c0",
+   "termo": "RC-166",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-MITOLOGIAS_REINTEGRACAO-015",
+   "arquivo": "rag/perolas/PER-STT26-MITOLOGIAS_REINTEGRACAO-015.md",
+   "sha256": "55e52853634da5b685a16c620beed9c91ee24704385dfe70b555b87ce8262b7b",
+   "termo": "RC-302",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-MITOLOGIAS_REINTEGRACAO-016",
+   "arquivo": "rag/perolas/PER-STT26-MITOLOGIAS_REINTEGRACAO-016.md",
+   "sha256": "c13dba157d6859954cd7f13d9e0100614ab4b3b8a383f39cbd2a1f8ac214caf0",
+   "termo": "RC-397",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-MITOLOGIAS_REINTEGRACAO-017",
+   "arquivo": "rag/perolas/PER-STT26-MITOLOGIAS_REINTEGRACAO-017.md",
+   "sha256": "1b35f4c557c670c566d11f03d0f71242f00a25907fcab821f834ce86a995563b",
+   "termo": "RC-465",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-MITOLOGIAS_REINTEGRACAO-018",
+   "arquivo": "rag/perolas/PER-STT26-MITOLOGIAS_REINTEGRACAO-018.md",
+   "sha256": "0c23debcb6dfd92e267a10ed31022e1f33196e12f138aed554ce72db802e1279",
+   "termo": "RC-474",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-MITOLOGIAS_REINTEGRACAO-019",
+   "arquivo": "rag/perolas/PER-STT26-MITOLOGIAS_REINTEGRACAO-019.md",
+   "sha256": "7830a6a4fae9ef48cfc71131c27db6d03cc70761763376cc4c24b9376df4aa4b",
+   "termo": "RC-480",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-MITOLOGIAS_REINTEGRACAO-020",
+   "arquivo": "rag/perolas/PER-STT26-MITOLOGIAS_REINTEGRACAO-020.md",
+   "sha256": "0270a5c281420a42aea98b29c12d4e03827576794a0adfb06bd90caedc7aceac",
+   "termo": "RC-715",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-MITOLOGIAS_REINTEGRACAO-021",
+   "arquivo": "rag/perolas/PER-STT26-MITOLOGIAS_REINTEGRACAO-021.md",
+   "sha256": "af2057be0cc2af9a17afa1ec0df09a00af77a970cbb82c49a50714a423c9efb7",
+   "termo": "RC-756",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-MITOLOGIAS_REINTEGRACAO-022",
+   "arquivo": "rag/perolas/PER-STT26-MITOLOGIAS_REINTEGRACAO-022.md",
+   "sha256": "4c6493fde9f0f4aa6a4a4bf722178e294b806faced2b5a47b1c67d06a8664f01",
+   "termo": "RC-940",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-MITOLOGIAS_REINTEGRACAO-023",
+   "arquivo": "rag/perolas/PER-STT26-MITOLOGIAS_REINTEGRACAO-023.md",
+   "sha256": "c841ac8afb5af5c1eab6bdceae5eda09a5ffa4b50da58cd9916998b77a044f6a",
+   "termo": "RC-003",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-MITOLOGIAS_REINTEGRACAO-024",
+   "arquivo": "rag/perolas/PER-STT26-MITOLOGIAS_REINTEGRACAO-024.md",
+   "sha256": "1fe046240f4bcaf2a9b22e954f56971bf03a5920cc92165b02e67eac98858dd8",
+   "termo": "RC-037",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-MITOLOGIAS_REINTEGRACAO-025",
+   "arquivo": "rag/perolas/PER-STT26-MITOLOGIAS_REINTEGRACAO-025.md",
+   "sha256": "dbe8c5a020fe4bb5a482d56f1b04715d57f97a5081c27a2e699c455ba099dce9",
+   "termo": "RC-068",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-MITOLOGIAS_REINTEGRACAO-026",
+   "arquivo": "rag/perolas/PER-STT26-MITOLOGIAS_REINTEGRACAO-026.md",
+   "sha256": "0e8ea2ba94c1837505a9247e5e415ae3875825a5890251275cb027cc0a37a250",
+   "termo": "RC-078",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-MITOLOGIAS_REINTEGRACAO-027",
+   "arquivo": "rag/perolas/PER-STT26-MITOLOGIAS_REINTEGRACAO-027.md",
+   "sha256": "c802f7601d50fe7cf032fadd782e3fff730917d78e0273531646287dea50257c",
+   "termo": "RC-081",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-MITOLOGIAS_REINTEGRACAO-028",
+   "arquivo": "rag/perolas/PER-STT26-MITOLOGIAS_REINTEGRACAO-028.md",
+   "sha256": "372032e1921e62f872ae332b09ff62f07edf91e4501459b6d587bbfa82b07b21",
+   "termo": "RC-086",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-MITOLOGIAS_REINTEGRACAO-029",
+   "arquivo": "rag/perolas/PER-STT26-MITOLOGIAS_REINTEGRACAO-029.md",
+   "sha256": "e9a54f0c327548ddfc93710d14704fe65b1c781bdcd9ee8b00bbdbaacde6e8d6",
+   "termo": "RC-104",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-MITOLOGIAS_REINTEGRACAO-030",
+   "arquivo": "rag/perolas/PER-STT26-MITOLOGIAS_REINTEGRACAO-030.md",
+   "sha256": "42d3a5256f3e4e6775ada320a4dd265032e91c4b87b7f3389374169bad63e70b",
+   "termo": "RC-106",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-MITOLOGIAS_REINTEGRACAO-031",
+   "arquivo": "rag/perolas/PER-STT26-MITOLOGIAS_REINTEGRACAO-031.md",
+   "sha256": "e86bde8e47594e61762c8bd5b19f329c752b95af318c29ebdcc97c173212ad7d",
+   "termo": "RC-162",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-MITOLOGIAS_REINTEGRACAO-032",
+   "arquivo": "rag/perolas/PER-STT26-MITOLOGIAS_REINTEGRACAO-032.md",
+   "sha256": "d360f3188ec4f33cf8d9a34617e11f9b8f68522b3c16b5f7994328f6c0276da4",
+   "termo": "RC-301",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-MITOLOGIAS_REINTEGRACAO-033",
+   "arquivo": "rag/perolas/PER-STT26-MITOLOGIAS_REINTEGRACAO-033.md",
+   "sha256": "fd0c6f2d95836d4c66c81c39371854304b08cec8beeebd447ed6737e19d87a18",
+   "termo": "RC-306",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-MITOLOGIAS_REINTEGRACAO-034",
+   "arquivo": "rag/perolas/PER-STT26-MITOLOGIAS_REINTEGRACAO-034.md",
+   "sha256": "f8eda73196769e7fca9b96c70f9d6dafcb1e26b13ca86b144cd36803049197bd",
+   "termo": "RC-471",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-MITOLOGIAS_REINTEGRACAO-035",
+   "arquivo": "rag/perolas/PER-STT26-MITOLOGIAS_REINTEGRACAO-035.md",
+   "sha256": "edcbcb6c25ca0d8c4b73ab89dae4517563409f74f16406234d53bff69b499a4f",
+   "termo": "RC-481",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-MITOLOGIAS_REINTEGRACAO-036",
+   "arquivo": "rag/perolas/PER-STT26-MITOLOGIAS_REINTEGRACAO-036.md",
+   "sha256": "3b95c227f5b11d19558b02f9bcd381a024384670f86f8ec7e5b477eddfd3504e",
+   "termo": "RC-489",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-MITOLOGIAS_REINTEGRACAO-037",
+   "arquivo": "rag/perolas/PER-STT26-MITOLOGIAS_REINTEGRACAO-037.md",
+   "sha256": "dec7143a0388d5c34c6beadfb1f7c28bfa35ce283972886089c1d1a7a5a87ba9",
+   "termo": "RC-565",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-MITOLOGIAS_REINTEGRACAO-038",
+   "arquivo": "rag/perolas/PER-STT26-MITOLOGIAS_REINTEGRACAO-038.md",
+   "sha256": "0fb657ef6cccfd83eb423765f7ac994d8f54ad4a7a821c2875c3450b2027ac9b",
+   "termo": "RC-585",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-MITOLOGIAS_REINTEGRACAO-039",
+   "arquivo": "rag/perolas/PER-STT26-MITOLOGIAS_REINTEGRACAO-039.md",
+   "sha256": "d366eb63053f0030ab43ea5a1b0cb62f8dfa6bf83a508a6a1f4b2b85aa6edbcf",
+   "termo": "RC-593",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-MITOLOGIAS_REINTEGRACAO-040",
+   "arquivo": "rag/perolas/PER-STT26-MITOLOGIAS_REINTEGRACAO-040.md",
+   "sha256": "5c96be4db843e16cb33207361cd9a929ba6d4135e111af5b0bc0b3d8941d1f8e",
+   "termo": "RC-618",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-MITOLOGIAS_REINTEGRACAO-041",
+   "arquivo": "rag/perolas/PER-STT26-MITOLOGIAS_REINTEGRACAO-041.md",
+   "sha256": "b6ea7c4c9b57c57ab1647211aa099138aad9534561a208daf3b2f089e4094713",
+   "termo": "RC-643",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-MITOLOGIAS_REINTEGRACAO-042",
+   "arquivo": "rag/perolas/PER-STT26-MITOLOGIAS_REINTEGRACAO-042.md",
+   "sha256": "d84d53c8b35e69709a89b7aece8de28bf29b4898bf094dfdc30a9d616af78a02",
+   "termo": "RC-752",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-MITOLOGIAS_REINTEGRACAO-043",
+   "arquivo": "rag/perolas/PER-STT26-MITOLOGIAS_REINTEGRACAO-043.md",
+   "sha256": "9f67bcffe12e132b162c53bdc709b8340fecfcf8ad3be09f7144cdb69e39c98b",
+   "termo": "RC-759",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-MITOLOGIAS_REINTEGRACAO-044",
+   "arquivo": "rag/perolas/PER-STT26-MITOLOGIAS_REINTEGRACAO-044.md",
+   "sha256": "14d0b06731e854ea805aa4d642a18d441ce4a605ac7d50f98f15085a83881a41",
+   "termo": "RC-854",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-MITOLOGIAS_REINTEGRACAO-045",
+   "arquivo": "rag/perolas/PER-STT26-MITOLOGIAS_REINTEGRACAO-045.md",
+   "sha256": "565f7128951cfbfc6aa22fb2233ce77305f4511ed4ca847eaa5a8310c4a5e539",
+   "termo": "RC-487",
+   "status": "aprovada"
+  }
+ ]
+}

@@ -5,7 +5,7 @@ nome = "Rishis"
 categoria = "Seres & Entidades"
 subcategoria = "1.6 Figuras humanas (históricas/míticas)"
 status = "verificado"
-fontes = ["P2022-12-17", "P2025-02-16", "P2024-11-30", "P2024-11-02", "P2024-08-03", "P2024-09-28", "P2024-06-16", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA"]
+fontes = ["P2022-12-17", "P2025-02-16", "P2024-11-30", "P2024-11-02", "P2024-08-03", "P2024-09-28", "P2024-06-16", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA", "STT26-MITOLOGIAS_REINTEGRACAO"]
 via = "P6-evidência"
 confianca_fonte = "média"
 atualizado = "2026-10-22"
@@ -48,9 +48,15 @@ Vyasa (RC-585)
 
 - **[STT26-11 · Rishis]** «Então, houve um tempo ao longo dos últimos 47 mil anos em que alguns rishis, rishis são seres que no Mahabharata, nos Puranas, enfim, na cultura ariana hindu aparece como sendo espécies de figuras que têm certos poderes.» (U10419 · chars 1546513–1546733) — Candidata de cotejo; evidência `STT26-11-RC-586-001`, grafia encontrada `rishis`; decisão por lote `STT26-11: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
 
+## Ampliação — STT26-MITOLOGIAS_REINTEGRACAO (Eixo STT26 — Mitologias, tradições e eixo de reintegração (derivados normalizados))
+
+- **[STT26-18 · Rishis]** «Só que esse ser, ele em algum momento fez uma relação com outro ser que na mitologia ariana hindu chama-se Kasiapa, filho de Marit, um dos sete rishis sagrados da geração regenerada de Brahma, e Kasiapa criou uma porrada de seres peçonhentos aquáticos que mordiam todo mundo.» (U14543 · chars 2360622–2360898) — Candidata de cotejo; evidência `STT26-18-RC-586-001`, grafia encontrada `rishis`; decisão por lote `STT26-18: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
+| STT26-MITOLOGIAS_REINTEGRACAO | Eixo STT26 — Mitologias, tradições e eixo de reintegração (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | STT26-EXPERIENCIA_ESPIRITUAL_ETICA | Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
 | P2022-12-17 — O Incompreendido Ano de 2012 e a Falsa Noção do Fim do Mundo | U0768–U0774 | transcrição automatizada; paráfrase e citação |

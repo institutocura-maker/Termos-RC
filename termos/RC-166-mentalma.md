@@ -5,7 +5,7 @@ nome = "Mentalma"
 categoria = "Termos Específicos"
 subcategoria = "8.5 Outros idiomas / jargão técnico"
 status = "verificado"
-fontes = ["B024", "B074", "B075", "P2022-12-17", "P2021-12-04", "P2026-07-30", "P2026-04-02", "P2025-06-26", "P2025-03-15", "P2025-02-15", "P2024-11-30", "P2024-11-09", "P2024-04-14", "P2025-06-14b", "P2026-08-04", "ART-2026-08-18", "P2023-05-13", "P2023-07-30", "P2023-07-05", "P2023-04-01", "P2020-04-25", "P2022-03-26", "STT26-EXTRATERRESTRES_TECNOLOGIA", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA"]
+fontes = ["B024", "B074", "B075", "P2022-12-17", "P2021-12-04", "P2026-07-30", "P2026-04-02", "P2025-06-26", "P2025-03-15", "P2025-02-15", "P2024-11-30", "P2024-11-09", "P2024-04-14", "P2025-06-14b", "P2026-08-04", "ART-2026-08-18", "P2023-05-13", "P2023-07-30", "P2023-07-05", "P2023-04-01", "P2020-04-25", "P2022-03-26", "STT26-EXTRATERRESTRES_TECNOLOGIA", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA", "STT26-MITOLOGIAS_REINTEGRACAO"]
 via = "P6-evidência"
 confianca_fonte = "alta"
 atualizado = "2026-10-22"
@@ -62,9 +62,15 @@ Jan Val Ellam (RC-071, criador).
 
 - **[STT26-08 · Mentalma]** «Se o ser humano não for um simples reativo, ou alguém que reage ao que surge como sendo seus impulsos, se ele for alguém que consegue dar uma pausa no processo. e é isso que nas palestras do Mentalma 1, 2, 3 em várias palestras a gente vem dizendo meio que de forma muito repetida o ser humano que age no primeiro impulso ele está ferrado porque ele está só repetindo o que o genoma dele programou e já estava programado em cima de hábitos espirituais para trás o ser humano tem que perceber o que o primeiro impulso quer dele, e só depois ele age num segundo impulso, usando o seu livre-arbítrio, porque no mental a gente demonstra como essa primeira pancada que move o nosso cérebro faz com que o cérebro se acende e o eu da gente age.» (U1039 · chars 89155–89892) — Candidata de cotejo; evidência `STT26-08-RC-166-001`, grafia encontrada `Mentalma`; decisão por lote `STT26-08: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
 
+## Ampliação — STT26-MITOLOGIAS_REINTEGRACAO (Eixo STT26 — Mitologias, tradições e eixo de reintegração (derivados normalizados))
+
+- **[STT26-14 · Mentalma]** «você vai ler aí, porque eu não tenho agenda aqui eu leio aqui, pode deixar só um minutinho, que eu me enrolei aqui um pouco então, pessoal próximo final de semana dias 20, 21 e 22 vai ter o curso Mentalma Dirigido em Criciúma em julho nos dias 5 e 6 tem dois encontros diálogos com João Valelã são diálogos com tema livre respondendo perguntas da plateia sem slides pré-definidos em Curitiba no dia 12 tem mais um encontro diálogos com João Valelã em Goiânia dia 19 tem a palestra Javé Sophia e as sincronicidades profetizáveis em Agosto no Rio de Janeiro curso Mentalma Dirigido nos dias 8, 9 e 10 e em São Paulo no dia 16 mais um encontro diálogos com o João Valelã As informações estão aqui no site, os links também para adquirir os ingressos.» (U2830 · chars 457233–457980) — Candidata de cotejo; evidência `STT26-14-RC-166-001`, grafia encontrada `Mentalma`; decisão por lote `STT26-14: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| STT26-MITOLOGIAS_REINTEGRACAO | Eixo STT26 — Mitologias, tradições e eixo de reintegração (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
 | STT26-EXPERIENCIA_ESPIRITUAL_ETICA | Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
 | STT26-EXTRATERRESTRES_TECNOLOGIA | Eixo STT26 — Extraterrestres, tecnologia e cosmos (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
 | P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra) | — | transcrição automatizada; citação |

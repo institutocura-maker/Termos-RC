@@ -5,10 +5,10 @@ nome = "Epimeteu (titã)"
 categoria = "Seres & Entidades"
 subcategoria = "1.5 Decaídos / Exilados / Demônios"
 status = "verificado"
-fontes = ["B020", "B021", "P2025-02-16", "P2024-11-09", "P2025-06-14b", "P2024-08-03", "B087", "B088", "B089", "P2021-05-15"]
+fontes = ["B020", "B021", "P2025-02-16", "P2024-11-09", "P2025-06-14b", "P2024-08-03", "B087", "B088", "B089", "P2021-05-15", "STT26-MITOLOGIAS_REINTEGRACAO"]
 via = "P6-evidência"
 confianca_fonte = "alta"
-atualizado = "2026-08-28"
+atualizado = "2026-10-22"
 +++
 # Epimeteu (titã) — RC-302
 
@@ -50,9 +50,15 @@ Titã irmão de Prometeu que, na cosmologia de Jan Val Ellam, teria sido o grand
 - Pandora — RC-086;
 - Xamanismo Cósmico — RC-577.
 
+## Ampliação — STT26-MITOLOGIAS_REINTEGRACAO (Eixo STT26 — Mitologias, tradições e eixo de reintegração (derivados normalizados))
+
+- **[STT26-17 · Epimeteu (titã)]** «Isso, quem lê a mitologia grega sabe do que eu estou falando, eu só não vou poder explicar aqui. Só que Prometeu tinha um irmão chamado Epimeteu, e Prometeu era muito sabido, Epimeteu era meio lésbico.» (U10793 · chars 1705849–1706051) — Candidata de cotejo; evidência `STT26-17-RC-302-001`, grafia encontrada `Epimeteu`; decisão por lote `STT26-17: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
+| STT26-MITOLOGIAS_REINTEGRACAO | Eixo STT26 — Mitologias, tradições e eixo de reintegração (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
 | P2024-08-03 | U1480–U1525; U1662 | palestra/STT |
 | P2025-02-16 / P2024-11-09 / P2025-06-14b / B020 / B021 | — | obras/palestras |
@@ -116,4 +122,3 @@ Leitura mitológica do autor; plantas com "+500 moléculas complexas" e a origem
 
 
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-302.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
-

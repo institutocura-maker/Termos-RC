@@ -5,10 +5,10 @@ nome = "Capela (Sistema)"
 categoria = "Lokas & Geografias"
 subcategoria = "3.1 Planetas / Sistemas estelares"
 status = "verificado"
-fontes = ["B031", "B003", "B025", "B057", "B058", "P2023-04-01", "P2023-12-03"]
+fontes = ["B031", "B003", "B025", "B057", "B058", "P2023-04-01", "P2023-12-03", "STT26-MITOLOGIAS_REINTEGRACAO"]
 via = "P6-evidência"
 confianca_fonte = "alta"
-atualizado = "2026-08-29"
+atualizado = "2026-10-22"
 +++
 # Capela (Sistema) — RC-039
 
@@ -44,9 +44,15 @@ Sistema central da cosmologia capelina na Revelação Cósmica (obras primárias
 ## Seres Associados
 Sophia (RC-009, "Pai dos Capelinos" e Comandante); Yel Luzbel (RC-078); Len Mion (RC-074); Olm/Codificador de Zion (RC-092/RC-252); Val El (RC-071/B060).
 
+## Ampliação — STT26-MITOLOGIAS_REINTEGRACAO (Eixo STT26 — Mitologias, tradições e eixo de reintegração (derivados normalizados))
+
+- **[STT26-13 · Capela (Sistema)]** «Primeiro deles, existia um Cristo cósmico que seria a forma cósmica daquele ser humano que nós conhecemos como Jesus, e esse Cristo cósmico já existia bem antes, e numa perspectiva de um problema ocorrido a Iuris, ou seja, além das fronteiras da Terra, num tempo em que sequer os humanos haviam já aqui surgido, Esse Cristo cósmico, ou seja, esse ser, havia se defrontado, palavras de Chico e Emmanuel, em um outro sistema solar, cuja estrela se chamava e se chama capela, com problemas estes que fizeram com que parte dos seres que ali existiam fosse banida e, em sendo esses seres exilados para outros mundos, parte desses seres teriam vindo para a Terra e, por trás desse exílio espiritual ou rebelião de alguns seres, o tema difícil de ser compreendido, a rebelião de Lúcifer, surgiu exatamente desse contexto.» (U0418 · chars 103287–104101) — Candidata de cotejo; evidência `STT26-13-RC-039-001`, grafia encontrada `capela`; decisão por lote `STT26-13: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| STT26-MITOLOGIAS_REINTEGRACAO | Eixo STT26 — Mitologias, tradições e eixo de reintegração (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
 | P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra) | — | transcrição automatizada; citação |
 | A Revolta do Anjo Decaído (B057) | Nota da Autora | nota p. 10 (PDF): quatro estrelas; constelação do Cocheiro | identificação astronômica |
 | A Revolta do Anjo Decaído (B057) | Cap. 1 | nota p. 14 (PDF): definição de capelino (fonte: Terra Atlantis) | definição |

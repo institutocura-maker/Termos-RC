@@ -5,10 +5,10 @@ nome = "Enlil (deus sumério, par de Enki)"
 categoria = "Seres & Entidades"
 subcategoria = "1.3 Extraterrestres / Raças cósmicas"
 status = "verificado"
-fontes = ["P2022-12-17", "P2024-04-13", "P2021-03-27", "B089", "P2021-05-15", "P2023-10-14", "P2023-12-03"]
+fontes = ["P2022-12-17", "P2024-04-13", "P2021-03-27", "B089", "P2021-05-15", "P2023-10-14", "P2023-12-03", "STT26-MITOLOGIAS_REINTEGRACAO"]
 via = "P6-evidência"
 confianca_fonte = "alta"
-atualizado = "2026-09-12"
+atualizado = "2026-10-22"
 +++
 # Enlil (deus sumério, par de Enki) — RC-487
 
@@ -32,10 +32,16 @@ Anunnaki filho de Anu (RC-587), irmão de **Enki** (RC-486) e de Ninmah/Ninhursa
 | Ninurta | RC-588 | associado |
 | Ao Vencedor as Batatas (paradigma do domínio) | RC-764 | ← relaciona-se-a |
 
+## Ampliação — STT26-MITOLOGIAS_REINTEGRACAO (Eixo STT26 — Mitologias, tradições e eixo de reintegração (derivados normalizados))
+
+- **[STT26-13 · Enlil (deus sumério, par de Enki)]** «Mas é uma revelação formidável. Jean, qual a ligação de Enki e Enlil com Javé? É outra palestra.» (U0692 · chars 145278–145374) — Candidata de cotejo; evidência `STT26-13-RC-487-001`, grafia encontrada `Enlil`; decisão por lote `STT26-13: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| STT26-MITOLOGIAS_REINTEGRACAO | Eixo STT26 — Mitologias, tradições e eixo de reintegração (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
 | P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
 | P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |

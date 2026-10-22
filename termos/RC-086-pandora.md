@@ -5,7 +5,7 @@ nome = "Pandora"
 categoria = "Seres & Entidades"
 subcategoria = "1.7 Híbridos / Seres de transição"
 status = "em análise"
-fontes = ["B031", "B044", "B020", "B021", "P2025-03-15", "P2025-02-16", "P2024-11-30", "P2024-11-09", "ART-2026-08-18", "P2024-02-03", "P2024-08-03", "B087", "B088", "B089", "P2023-04-01b", "P2024-11-03", "P2025-02-22", "P2021-05-15", "P2020-04-25", "P2023-12-03", "P2023-08-27", "P2025-06-14", "P2022-09-25", "P2022-07-16", "P2026-03-21", "P2021-02-28", "STT26-EXTRATERRESTRES_TECNOLOGIA", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA"]
+fontes = ["B031", "B044", "B020", "B021", "P2025-03-15", "P2025-02-16", "P2024-11-30", "P2024-11-09", "ART-2026-08-18", "P2024-02-03", "P2024-08-03", "B087", "B088", "B089", "P2023-04-01b", "P2024-11-03", "P2025-02-22", "P2021-05-15", "P2020-04-25", "P2023-12-03", "P2023-08-27", "P2025-06-14", "P2022-09-25", "P2022-07-16", "P2026-03-21", "P2021-02-28", "STT26-EXTRATERRESTRES_TECNOLOGIA", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA", "STT26-MITOLOGIAS_REINTEGRACAO"]
 via = "P7-conhecimento"
 confianca_fonte = "baixa"
 atualizado = "2026-10-22"
@@ -84,10 +84,16 @@ Na Revelação Cósmica de Jan Val Ellam, Pandora é a figura que "destravou lac
 
 - **[STT26-08 · Pandora]** «Nós, os humanos de então, os homo sapiens de então, que não eram ainda racionalizados, não tinham o gene FOXP2 circulando no nosso genoma, quando os homo sapiens eram frustum, ou seja, só uma parte do que são hoje, esse era o tipo de ser humano que Javé achava que ia resolver o problema do DNA dele, mas ele dando as ordens. Quando Pandora, no primeiro momento, e Eva, no segundo momento, estragaram com esse procedimento de Javé, Javé se ferrou e, feito um animal ferido pelo orgulho, tudo o que ele fez desde então foi punir o ser humano.» (U1267 · chars 129693–130235) — Candidata de cotejo; evidência `STT26-08-RC-086-001`, grafia encontrada `Pandora`; decisão por lote `STT26-08: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
 
+## Ampliação — STT26-MITOLOGIAS_REINTEGRACAO (Eixo STT26 — Mitologias, tradições e eixo de reintegração (derivados normalizados))
+
+- **[STT26-17 · Pandora]** «Então, assim, existiu uma geração axial, essa turma aqui, estou de novo, esses estranhos filósofos aqui que eu falei, isso aqui é tudo muito antigo, 7, 6, 5, 4, 3 mil anos atrás, e são vários no meio aí eu poderia falar de Enoch dos vários Tirtancaras, dos Jainistas os Vedas tudo isso aí é filosofia pergunta sobre essa linhagem fazer uma pergunta sobre essa linhagem nossa, está com eco aqui o que acontece eu fiquei pensando quando você estava falando de toda a genética que propiciou isso, como como os gregos, que vieram de Heleno, de Pandora, também junto com os druídas.» (U10699 · chars 1693834–1694411) — Candidata de cotejo; evidência `STT26-17-RC-086-001`, grafia encontrada `Pandora`; decisão por lote `STT26-17: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| STT26-MITOLOGIAS_REINTEGRACAO | Eixo STT26 — Mitologias, tradições e eixo de reintegração (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | STT26-EXPERIENCIA_ESPIRITUAL_ETICA | Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | STT26-EXTRATERRESTRES_TECNOLOGIA | Eixo STT26 — Extraterrestres, tecnologia e cosmos (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | P2021-02-28 | Tragédia Anunciada - As Fórmulas Mentais do Poder Demo (palestra) | — | transcrição automatizada; citação |

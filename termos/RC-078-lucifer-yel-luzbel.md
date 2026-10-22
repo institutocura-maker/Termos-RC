@@ -5,7 +5,7 @@ nome = "Lúcifer (Yel Luzbel)"
 categoria = "Seres & Entidades"
 subcategoria = "1.5 Decaídos / Exilados / Demônios"
 status = "verificado"
-fontes = ["B031", "B017", "B018", "B039", "B015", "B003", "B025", "B026", "B057", "B058", "B060", "P2022-12-17", "P2024-03-03", "P2020-04-25", "P2022-03-26", "P2023-12-03", "P2018-12-16", "P2023-08-27", "STT26-EXTRATERRESTRES_TECNOLOGIA"]
+fontes = ["B031", "B017", "B018", "B039", "B015", "B003", "B025", "B026", "B057", "B058", "B060", "P2022-12-17", "P2024-03-03", "P2020-04-25", "P2022-03-26", "P2023-12-03", "P2018-12-16", "P2023-08-27", "STT26-EXTRATERRESTRES_TECNOLOGIA", "STT26-MITOLOGIAS_REINTEGRACAO"]
 via = "P6-evidência"
 confianca_fonte = "alta"
 atualizado = "2026-10-22"
@@ -148,3 +148,7 @@ Yel Luzbel é o protagonista negativo-positivo do drama cósmico: sua inquietaç
 ## Ampliação — STT26-EXTRATERRESTRES_TECNOLOGIA (Eixo STT26 — Extraterrestres, tecnologia e cosmos (derivados normalizados))
 
 - **[STT26-07 · Lúcifer (Yel Luzbel)]** «Então, a queda de Lúcifer foi, na verdade, uma singularidade, ou seja, a emancipação de uma consciência? E daí ele coloca, será que isso é ruim?» (U2810 · chars 467822–467966) — Pérola homologada pelo Curador em 22/10/2026; corte literal conferido pelo Motor antes do pouso na Base.
+
+## Ampliação — STT26-MITOLOGIAS_REINTEGRACAO (Eixo STT26 — Mitologias, tradições e eixo de reintegração (derivados normalizados))
+
+- **[STT26-15 · Lúcifer (Yel Luzbel)]** «Logo mais à noite a gente está voltando aí para falar de Lúcifer. Mas, assim, seguidores, cuidado aí, seja alguém que se alinhe com suas próprias metas e objetivos, podemos todos caminhar juntos, quando um fica fraco a gente oferece um ombro, mas cada um com suas próprias pernas.» (U6099 · chars 934213–934493) — Candidata de cotejo; evidência `STT26-15-RC-078-001`, grafia encontrada `Lúcifer`; decisão por lote `STT26-15: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.

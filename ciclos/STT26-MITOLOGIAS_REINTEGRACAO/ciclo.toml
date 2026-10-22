@@ -18,26 +18,72 @@ max_perolas = 45  # Curador confirmou o cotejo dos 45 códigos com autorização
 exportar_candidatas = false       # true só em ensaio declarado: o portão real é `aprovada`
 
 cobertura = "CICLO DE EIXO — MITOLOGIAS_REINTEGRACAO; lotes STT26-13, STT26-14, STT26-15, STT26-16, STT26-17, STT26-18; 61 transcrições STT normalizadas derivadas, consolidadas com manifesto de origem e seladas no original.txt. Abertura autorizada pela Curadoria após despacho integral. O cotejo cobre os 45 códigos com AUTORIZAR-COTEJO-AMPLIADO; os 18 códigos exclusivamente descartados permanecem fora do pacote. Cada eventual aspa deverá ser cortada do derivado consolidado e passar nos portões do Motor."
-teto = "cotejo-autorizado para 45 códigos; pérolas ainda dependem de aprovação curatorial e portões"
+teto = "pouso autorizado para as 45 pérolas aprovadas; 18 descartes permanecem fora; nenhum termo ou relação novo"
 termos_novos = []
 veto_lexico = ["p****", "m****", "b******", "e******"]
 fichas_que_nomeiam_grupo = []
 
 [delta_esperado]
-arquivos = 0      # fichas criadas por este ciclo
-ficha_true = 0   # viradas no cadastro
+arquivos = 1      # RC-306 materializada por autorização explícita do Curador
+ficha_true = 1   # RC-306: ficha=False → ficha=True
 termos = 0       # termos novos: só por pérola aprovada, com linha no §4 do dossiê
 relacoes = 0     # arestas novas: tipada + evidência + selo datado, ou nada
-vinculos = 0    # códigos que passam a carregar a sigla do ciclo na lista de fontes
+vinculos = 45   # cada código aprovado passa a carregar a sigla do ciclo na lista de fontes
 
 [perolas]
 # IDs que receberam aprovação explícita do Curador; o Motor rejeita IDs repetidos,
 # inexistentes ou fora do caderno selecionado. Sem aprovação, a lista permanece vazia.
-aprovadas = []
-homologacao = ""
+aprovadas = [
+  "PER-STT26-MITOLOGIAS_REINTEGRACAO-001",
+  "PER-STT26-MITOLOGIAS_REINTEGRACAO-002",
+  "PER-STT26-MITOLOGIAS_REINTEGRACAO-003",
+  "PER-STT26-MITOLOGIAS_REINTEGRACAO-004",
+  "PER-STT26-MITOLOGIAS_REINTEGRACAO-005",
+  "PER-STT26-MITOLOGIAS_REINTEGRACAO-006",
+  "PER-STT26-MITOLOGIAS_REINTEGRACAO-007",
+  "PER-STT26-MITOLOGIAS_REINTEGRACAO-008",
+  "PER-STT26-MITOLOGIAS_REINTEGRACAO-009",
+  "PER-STT26-MITOLOGIAS_REINTEGRACAO-010",
+  "PER-STT26-MITOLOGIAS_REINTEGRACAO-011",
+  "PER-STT26-MITOLOGIAS_REINTEGRACAO-012",
+  "PER-STT26-MITOLOGIAS_REINTEGRACAO-013",
+  "PER-STT26-MITOLOGIAS_REINTEGRACAO-014",
+  "PER-STT26-MITOLOGIAS_REINTEGRACAO-015",
+  "PER-STT26-MITOLOGIAS_REINTEGRACAO-016",
+  "PER-STT26-MITOLOGIAS_REINTEGRACAO-017",
+  "PER-STT26-MITOLOGIAS_REINTEGRACAO-018",
+  "PER-STT26-MITOLOGIAS_REINTEGRACAO-019",
+  "PER-STT26-MITOLOGIAS_REINTEGRACAO-020",
+  "PER-STT26-MITOLOGIAS_REINTEGRACAO-021",
+  "PER-STT26-MITOLOGIAS_REINTEGRACAO-022",
+  "PER-STT26-MITOLOGIAS_REINTEGRACAO-023",
+  "PER-STT26-MITOLOGIAS_REINTEGRACAO-024",
+  "PER-STT26-MITOLOGIAS_REINTEGRACAO-025",
+  "PER-STT26-MITOLOGIAS_REINTEGRACAO-026",
+  "PER-STT26-MITOLOGIAS_REINTEGRACAO-027",
+  "PER-STT26-MITOLOGIAS_REINTEGRACAO-028",
+  "PER-STT26-MITOLOGIAS_REINTEGRACAO-029",
+  "PER-STT26-MITOLOGIAS_REINTEGRACAO-030",
+  "PER-STT26-MITOLOGIAS_REINTEGRACAO-031",
+  "PER-STT26-MITOLOGIAS_REINTEGRACAO-032",
+  "PER-STT26-MITOLOGIAS_REINTEGRACAO-033",
+  "PER-STT26-MITOLOGIAS_REINTEGRACAO-034",
+  "PER-STT26-MITOLOGIAS_REINTEGRACAO-035",
+  "PER-STT26-MITOLOGIAS_REINTEGRACAO-036",
+  "PER-STT26-MITOLOGIAS_REINTEGRACAO-037",
+  "PER-STT26-MITOLOGIAS_REINTEGRACAO-038",
+  "PER-STT26-MITOLOGIAS_REINTEGRACAO-039",
+  "PER-STT26-MITOLOGIAS_REINTEGRACAO-040",
+  "PER-STT26-MITOLOGIAS_REINTEGRACAO-041",
+  "PER-STT26-MITOLOGIAS_REINTEGRACAO-042",
+  "PER-STT26-MITOLOGIAS_REINTEGRACAO-043",
+  "PER-STT26-MITOLOGIAS_REINTEGRACAO-044",
+  "PER-STT26-MITOLOGIAS_REINTEGRACAO-045",
+]
+homologacao = "Aprovação explícita do Curador em 22/10/2026: as 45 candidatas do dossiê foram validadas para pouso na Base."
 
 [materializar]
-codigos = []      # fichas a CRIAR (ordem do Curador; só com bloco no pacote)
+codigos = ["RC-306"]  # ficha ausente cuja materialização foi autorizada pelo Curador
 
 [vitorias]
 provas = []         # uma linha por vitória: "RC-xxx = <afirmativa> | prova: <trecho>"

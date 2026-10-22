@@ -5,7 +5,7 @@ nome = "Universo Antimaterial (Brahmaloka / Universo Paralelo)"
 categoria = "Conceitos Cosmológicos"
 subcategoria = "2.3 Dimensões / Planos de existência"
 status = "verificado"
-fontes = ["B031", "B024", "B044", "B001", "B002", "B016", "B013", "B021", "B041", "B060", "P2022-12-17", "P2024-05-04", "P2025-03-15", "P2025-02-16", "P2025-02-15", "P2024-11-30", "P2024-11-09", "P2024-08-03", "P2024-07-13", "P2023-12-03", "P2025-06-14", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA"]
+fontes = ["B031", "B024", "B044", "B001", "B002", "B016", "B013", "B021", "B041", "B060", "P2022-12-17", "P2024-05-04", "P2025-03-15", "P2025-02-16", "P2025-02-15", "P2024-11-30", "P2024-11-09", "P2024-08-03", "P2024-07-13", "P2023-12-03", "P2025-06-14", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA", "STT26-MITOLOGIAS_REINTEGRACAO"]
 via = "P6-evidência"
 confianca_fonte = "alta"
 atualizado = "2026-10-22"
@@ -116,3 +116,7 @@ O Universo Antimaterial é um dos dois produtos do "erro da criação" (a queda 
 ## Ampliação — STT26-EXPERIENCIA_ESPIRITUAL_ETICA (Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados))
 
 - **[STT26-12 · Universo Antimaterial (Brahmaloka / Universo Paralelo)]** «E assim, eu sei da dificuldade que nós temos em entender o mundo espiritual Não pensemos que mesmo com todo o esforço Lá atrás, o esforço dos humanos em tentar falar do além do mundo terreno Ficou prejudicado porque muita coisa das locas do universo antimaterial vizinho Foi confundido com os ambientes espirituais humanizados Essa tentativa de distinguir ailhos de bugalhos basicamente foi a revelação espiritual produzida por Allan Kardec na segunda metade do século XIX, que apresentou o mundo espiritual, a chamada erraticidade, como sendo algo que envolvia a vida humana.» (U11890 · chars 1776874–1777451) — Candidata de cotejo; evidência `STT26-12-RC-106-001`, grafia encontrada `universo antimaterial`; decisão por lote `STT26-12: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+## Ampliação — STT26-MITOLOGIAS_REINTEGRACAO (Eixo STT26 — Mitologias, tradições e eixo de reintegração (derivados normalizados))
+
+- **[STT26-16 · Universo Antimaterial (Brahmaloka / Universo Paralelo)]** «A gente só pode entender essa questão se a gente for para a revelação de Ifá, produzida por Orun Milá, em que ele fala que em cidades astrais, ou seja, de um universo antimaterial vizinho, tem uma feira e que, nessa feira, a raça das feiticeiras foi a primeira a vender os seus produtos.» (U9421 · chars 1478395–1478682) — Candidata de cotejo; evidência `STT26-16-RC-106-002`, grafia encontrada `universo antimaterial`; decisão por lote `STT26-16: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.

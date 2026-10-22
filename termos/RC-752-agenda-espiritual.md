@@ -5,7 +5,7 @@ nome = "Agenda Espiritual"
 categoria = "Conceitos Cosmológicos"
 subcategoria = "2.5 Propósitos / Destinos"
 status = "verificado"
-fontes = ["P2024-04-14", "P2023-12-25-01", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA"]
+fontes = ["P2024-04-14", "P2023-12-25-01", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA", "STT26-MITOLOGIAS_REINTEGRACAO"]
 via = "P6-evidência"
 confianca_fonte = "média"
 atualizado = "2026-10-22"
@@ -42,10 +42,16 @@ A **expressão prática** da bagagem espiritual: o conjunto de necessidades e pe
 
 - **[STT26-10 · Agenda Espiritual]** «Existir, portanto, não aqui dentro, mas existir aqui dentro, ou seja, no campo da ação, é ter uma agenda espiritual para cumprir.» (U8267 · chars 1246048–1246177) — Candidata de cotejo; evidência `STT26-10-RC-752-001`, grafia encontrada `agenda espiritual`; decisão por lote `STT26-10: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
 
+## Ampliação — STT26-MITOLOGIAS_REINTEGRACAO (Eixo STT26 — Mitologias, tradições e eixo de reintegração (derivados normalizados))
+
+- **[STT26-14 · Agenda Espiritual]** «Então, a agenda espiritual, todos nós nascemos com uma. Essa agenda foi organizada numa super reunião espiritual, teve comes e bebes, foi fácil arranjar pai ou mãe para a gente, ou não teve, isso tudo são crônicas da vida espiritual, que quando a gente, entre aspas, volta a ser um cidadão da espiritualidade, a gente retoma essas memórias e se lembra, mas aqui a gente não se lembra por causa desse impedimento.» (U3348 · chars 535073–535485) — Candidata de cotejo; evidência `STT26-14-RC-752-001`, grafia encontrada `agenda espiritual`; decisão por lote `STT26-14: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| STT26-MITOLOGIAS_REINTEGRACAO | Eixo STT26 — Mitologias, tradições e eixo de reintegração (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | STT26-EXPERIENCIA_ESPIRITUAL_ETICA | Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | P2023-12-25-01 | Aula 01 — Adolescência e a Juventude de Jesus (palestra) | — | transcrição automatizada; citação |
 | P2024-04-14 | blocos centrais ("Existir é ter uma agenda espiritual para cumprir"; encomenda; nova agenda) | palestra/STT pré-curada |

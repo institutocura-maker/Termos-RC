@@ -5,10 +5,10 @@ nome = "Ganesha (exceção à metamorfose; cabeça de elefante)"
 categoria = "Seres & Entidades"
 subcategoria = "1.1 Divindades / Criadores"
 status = "verificado"
-fontes = ["P2024-03-02", "P2021-05-15"]
+fontes = ["P2024-03-02", "P2021-05-15", "STT26-MITOLOGIAS_REINTEGRACAO"]
 via = "P6-evidência"
 confianca_fonte = "média"
-atualizado = "2026-08-28"
+atualizado = "2026-10-22"
 +++
 # Ganesha (exceção à metamorfose; cabeça de elefante) — RC-756
 
@@ -33,10 +33,16 @@ Na cosmologia de Jan Val Ellam (P2024-03-02), Ganesha é a divindade hindu descr
 | Parvathi (consorte de Shiva, Tridevi) | RC-459 | relaciona-se-a |
 | Fatiamento de Consciência | RC-604 | relaciona-se-a |
 
+## Ampliação — STT26-MITOLOGIAS_REINTEGRACAO (Eixo STT26 — Mitologias, tradições e eixo de reintegração (derivados normalizados))
+
+- **[STT26-16 · Ganesha (exceção à metamorfose; cabeça de elefante)]** «O Jaganesha tem nada a ver, outra história. Shiva, um dos deuses da Trindade, da Trimurti, E Parvati seria a sua consorte, no sentido daquilo que os humanos entendem como um casal, coisa que a isso se pareça, ainda que não estejamos falando aqui de questões relacionadas à produção sexual, mas sim à produção via união de gametas, como se fosse in vitro hoje em dia.» (U9931 · chars 1560216–1560582) — Candidata de cotejo; evidência `STT26-16-RC-756-001`, grafia encontrada `Ganesha`; decisão por lote `STT26-16: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| STT26-MITOLOGIAS_REINTEGRACAO | Eixo STT26 — Mitologias, tradições e eixo de reintegração (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
 | P2024-03-02 | blocos centrais (Ganesha; elefantes racionais; exceção à metamorfose) | palestra/STT pré-curada |
 
