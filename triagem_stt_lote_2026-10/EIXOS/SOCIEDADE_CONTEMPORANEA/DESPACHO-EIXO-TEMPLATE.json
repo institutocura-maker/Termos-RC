@@ -37,7 +37,7 @@
         "STT26-21": "DESCARTAR-DO-LOTE",
         "STT26-22": "DESCARTAR-DO-LOTE",
         "STT26-23": "DESCARTAR-DO-LOTE",
-        "STT26-24": "PENDENTE"
+        "STT26-24": "DESCARTAR-DO-LOTE"
       },
       "evidencias_disponiveis": {
         "STT26-19": [
@@ -71,7 +71,7 @@
           "STT26-24-RC-072-016"
         ]
       },
-      "observacao": "Decisões registradas por lote; STT26-24 permanece independente e PENDENTE."
+      "observacao": "Decisões registradas independentemente por lote; despacho do eixo integralmente deliberado."
     },
     {
       "codigo": "RC-162",
@@ -84,7 +84,7 @@
         "STT26-20": "AUTORIZAR-COTEJO-AMPLIADO",
         "STT26-22": "AUTORIZAR-COTEJO-AMPLIADO",
         "STT26-23": "AUTORIZAR-COTEJO-AMPLIADO",
-        "STT26-24": "PENDENTE"
+        "STT26-24": "AUTORIZAR-COTEJO-AMPLIADO"
       },
       "evidencias_disponiveis": {
         "STT26-19": [
@@ -109,7 +109,7 @@
           "STT26-24-RC-162-002"
         ]
       },
-      "observacao": "Decisões registradas por lote; STT26-24 permanece independente e PENDENTE."
+      "observacao": "Decisões registradas independentemente por lote; despacho do eixo integralmente deliberado."
     },
     {
       "codigo": "RC-301",
@@ -122,7 +122,7 @@
         "STT26-20": "AUTORIZAR-COTEJO-AMPLIADO",
         "STT26-21": "AUTORIZAR-COTEJO-AMPLIADO",
         "STT26-23": "AUTORIZAR-COTEJO-AMPLIADO",
-        "STT26-24": "PENDENTE"
+        "STT26-24": "AUTORIZAR-COTEJO-AMPLIADO"
       },
       "evidencias_disponiveis": {
         "STT26-19": [
@@ -142,7 +142,7 @@
           "STT26-24-RC-301-054"
         ]
       },
-      "observacao": "Decisões registradas por lote; STT26-24 permanece independente e PENDENTE."
+      "observacao": "Decisões registradas independentemente por lote; despacho do eixo integralmente deliberado."
     },
     {
       "codigo": "RC-037",
@@ -155,7 +155,7 @@
         "STT26-21": "AUTORIZAR-COTEJO-AMPLIADO",
         "STT26-22": "AUTORIZAR-COTEJO-AMPLIADO",
         "STT26-23": "AUTORIZAR-COTEJO-AMPLIADO",
-        "STT26-24": "PENDENTE"
+        "STT26-24": "AUTORIZAR-COTEJO-AMPLIADO"
       },
       "evidencias_disponiveis": {
         "STT26-19": [
@@ -180,7 +180,7 @@
           "STT26-24-RC-037-013"
         ]
       },
-      "observacao": "Decisões registradas por lote; STT26-24 permanece independente e PENDENTE."
+      "observacao": "Decisões registradas independentemente por lote; despacho do eixo integralmente deliberado."
     },
     {
       "codigo": "RC-094",
@@ -191,7 +191,7 @@
       "decisao_por_lote": {
         "STT26-20": "AUTORIZAR-COTEJO-AMPLIADO",
         "STT26-21": "AUTORIZAR-COTEJO-AMPLIADO",
-        "STT26-24": "PENDENTE"
+        "STT26-24": "AUTORIZAR-COTEJO-AMPLIADO"
       },
       "evidencias_disponiveis": {
         "STT26-20": [
@@ -210,7 +210,7 @@
           "STT26-24-RC-094-012"
         ]
       },
-      "observacao": "Decisões registradas por lote; STT26-22 a STT26-24 permanecem independentes e PENDENTES."
+      "observacao": "Decisões registradas independentemente por lote; despacho do eixo integralmente deliberado."
     },
     {
       "codigo": "RC-414",
@@ -223,7 +223,7 @@
         "STT26-21": "AUTORIZAR-COTEJO-AMPLIADO",
         "STT26-22": "AUTORIZAR-COTEJO-AMPLIADO",
         "STT26-23": "AUTORIZAR-COTEJO-AMPLIADO",
-        "STT26-24": "PENDENTE"
+        "STT26-24": "AUTORIZAR-COTEJO-AMPLIADO"
       },
       "evidencias_disponiveis": {
         "STT26-19": [
@@ -249,7 +249,7 @@
           "STT26-24-RC-414-003"
         ]
       },
-      "observacao": "Decisões registradas por lote; STT26-24 permanece independente e PENDENTE."
+      "observacao": "Decisões registradas independentemente por lote; despacho do eixo integralmente deliberado."
     },
     {
       "codigo": "RC-306",
@@ -261,7 +261,7 @@
         "STT26-19": "AUTORIZAR-COTEJO-AMPLIADO",
         "STT26-20": "AUTORIZAR-COTEJO-AMPLIADO",
         "STT26-23": "AUTORIZAR-COTEJO-AMPLIADO",
-        "STT26-24": "PENDENTE"
+        "STT26-24": "AUTORIZAR-COTEJO-AMPLIADO"
       },
       "evidencias_disponiveis": {
         "STT26-19": [
@@ -282,7 +282,7 @@
           "STT26-24-RC-306-006"
         ]
       },
-      "observacao": "Decisões registradas por lote; STT26-24 permanece independente e PENDENTE."
+      "observacao": "Decisões registradas independentemente por lote; despacho do eixo integralmente deliberado."
     },
     {
       "codigo": "RC-009",
@@ -295,7 +295,7 @@
         "STT26-21": "AUTORIZAR-COTEJO-AMPLIADO",
         "STT26-22": "AUTORIZAR-COTEJO-AMPLIADO",
         "STT26-23": "AUTORIZAR-COTEJO-AMPLIADO",
-        "STT26-24": "PENDENTE"
+        "STT26-24": "AUTORIZAR-COTEJO-AMPLIADO"
       },
       "evidencias_disponiveis": {
         "STT26-19": [
@@ -321,7 +321,7 @@
           "STT26-24-RC-009-005"
         ]
       },
-      "observacao": "Decisões registradas por lote; STT26-24 permanece independente e PENDENTE."
+      "observacao": "Decisões registradas independentemente por lote; despacho do eixo integralmente deliberado."
     },
     {
       "codigo": "RC-086",
@@ -333,7 +333,7 @@
         "STT26-19": "AUTORIZAR-COTEJO-AMPLIADO",
         "STT26-20": "AUTORIZAR-COTEJO-AMPLIADO",
         "STT26-22": "AUTORIZAR-COTEJO-AMPLIADO",
-        "STT26-24": "PENDENTE"
+        "STT26-24": "AUTORIZAR-COTEJO-AMPLIADO"
       },
       "evidencias_disponiveis": {
         "STT26-19": [
@@ -353,7 +353,7 @@
           "STT26-24-RC-086-006"
         ]
       },
-      "observacao": "Decisões registradas por lote; STT26-23 e STT26-24 permanecem independentes e PENDENTES."
+      "observacao": "Decisões registradas independentemente por lote; despacho do eixo integralmente deliberado."
     },
     {
       "codigo": "RC-102",
@@ -366,7 +366,7 @@
         "STT26-21": "AUTORIZAR-COTEJO-AMPLIADO",
         "STT26-22": "AUTORIZAR-COTEJO-AMPLIADO",
         "STT26-23": "AUTORIZAR-COTEJO-AMPLIADO",
-        "STT26-24": "PENDENTE"
+        "STT26-24": "AUTORIZAR-COTEJO-AMPLIADO"
       },
       "evidencias_disponiveis": {
         "STT26-19": [
@@ -389,7 +389,7 @@
           "STT26-24-RC-102-004"
         ]
       },
-      "observacao": "Decisões registradas por lote; STT26-24 permanece independente e PENDENTE."
+      "observacao": "Decisões registradas independentemente por lote; despacho do eixo integralmente deliberado."
     },
     {
       "codigo": "RC-166",
@@ -434,7 +434,7 @@
       "decisao_por_lote": {
         "STT26-21": "AUTORIZAR-COTEJO-AMPLIADO",
         "STT26-23": "AUTORIZAR-COTEJO-AMPLIADO",
-        "STT26-24": "PENDENTE"
+        "STT26-24": "AUTORIZAR-COTEJO-AMPLIADO"
       },
       "evidencias_disponiveis": {
         "STT26-21": [
@@ -450,7 +450,7 @@
           "STT26-24-RC-474-014"
         ]
       },
-      "observacao": "Decisões registradas por lote; STT26-24 permanece independente e PENDENTE."
+      "observacao": "Decisões registradas independentemente por lote; despacho do eixo integralmente deliberado."
     },
     {
       "codigo": "RC-302",
@@ -460,7 +460,7 @@
       "fundamento_curatorial": "Deliberação explícita do Curador: entidades cósmicas, titãs, eras e mecânicas estruturais da RC seguem ao cotejo; descartes cobrem figura histórica ou contemporânea usada como moldura narrativa e jargão sociológico sem peso cosmológico.",
       "decisao_por_lote": {
         "STT26-19": "AUTORIZAR-COTEJO-AMPLIADO",
-        "STT26-24": "PENDENTE"
+        "STT26-24": "AUTORIZAR-COTEJO-AMPLIADO"
       },
       "evidencias_disponiveis": {
         "STT26-19": [
@@ -470,7 +470,7 @@
           "STT26-24-RC-302-001"
         ]
       },
-      "observacao": "Despacho restrito a STT26-19; demais lotes do eixo permanecem independentes e PENDENTES."
+      "observacao": "Decisões registradas independentemente por lote; despacho do eixo integralmente deliberado."
     },
     {
       "codigo": "RC-841",
@@ -481,7 +481,7 @@
       "decisao_por_lote": {
         "STT26-19": "AUTORIZAR-COTEJO-AMPLIADO",
         "STT26-20": "AUTORIZAR-COTEJO-AMPLIADO",
-        "STT26-24": "PENDENTE"
+        "STT26-24": "AUTORIZAR-COTEJO-AMPLIADO"
       },
       "evidencias_disponiveis": {
         "STT26-19": [
@@ -495,7 +495,7 @@
           "STT26-24-RC-841-005"
         ]
       },
-      "observacao": "Decisões registradas por lote; STT26-21 a STT26-24 permanecem independentes e PENDENTES."
+      "observacao": "Decisões registradas independentemente por lote; despacho do eixo integralmente deliberado."
     },
     {
       "codigo": "RC-135",
@@ -532,7 +532,7 @@
         "STT26-20": "AUTORIZAR-COTEJO-AMPLIADO",
         "STT26-22": "AUTORIZAR-COTEJO-AMPLIADO",
         "STT26-23": "AUTORIZAR-COTEJO-AMPLIADO",
-        "STT26-24": "PENDENTE"
+        "STT26-24": "AUTORIZAR-COTEJO-AMPLIADO"
       },
       "evidencias_disponiveis": {
         "STT26-20": [
@@ -549,7 +549,7 @@
           "STT26-24-RC-036-002"
         ]
       },
-      "observacao": "Decisões registradas por lote; STT26-24 permanece independente e PENDENTE."
+      "observacao": "Decisões registradas independentemente por lote; despacho do eixo integralmente deliberado."
     },
     {
       "codigo": "RC-104",
@@ -561,7 +561,7 @@
         "STT26-19": "AUTORIZAR-COTEJO-AMPLIADO",
         "STT26-21": "AUTORIZAR-COTEJO-AMPLIADO",
         "STT26-23": "AUTORIZAR-COTEJO-AMPLIADO",
-        "STT26-24": "PENDENTE"
+        "STT26-24": "AUTORIZAR-COTEJO-AMPLIADO"
       },
       "evidencias_disponiveis": {
         "STT26-19": [
@@ -580,7 +580,7 @@
           "STT26-24-RC-104-003"
         ]
       },
-      "observacao": "Decisões registradas por lote; STT26-24 permanece independente e PENDENTE."
+      "observacao": "Decisões registradas independentemente por lote; despacho do eixo integralmente deliberado."
     },
     {
       "codigo": "RC-593",
@@ -591,7 +591,7 @@
       "decisao_por_lote": {
         "STT26-21": "AUTORIZAR-COTEJO-AMPLIADO",
         "STT26-22": "AUTORIZAR-COTEJO-AMPLIADO",
-        "STT26-24": "PENDENTE"
+        "STT26-24": "AUTORIZAR-COTEJO-AMPLIADO"
       },
       "evidencias_disponiveis": {
         "STT26-21": [
@@ -607,7 +607,7 @@
           "STT26-24-RC-593-004"
         ]
       },
-      "observacao": "Decisões registradas por lote; STT26-23 e STT26-24 permanecem independentes e PENDENTES."
+      "observacao": "Decisões registradas independentemente por lote; despacho do eixo integralmente deliberado."
     },
     {
       "codigo": "RC-056",
@@ -666,7 +666,7 @@
       "fundamento_curatorial": "Deliberação explícita do Curador: entidades cósmicas, titãs, eras e mecânicas estruturais da RC seguem ao cotejo; descartes cobrem figura histórica ou contemporânea usada como moldura narrativa e jargão sociológico sem peso cosmológico.",
       "decisao_por_lote": {
         "STT26-19": "AUTORIZAR-COTEJO-AMPLIADO",
-        "STT26-24": "PENDENTE"
+        "STT26-24": "AUTORIZAR-COTEJO-AMPLIADO"
       },
       "evidencias_disponiveis": {
         "STT26-19": [
@@ -676,7 +676,7 @@
           "STT26-24-RC-303-001"
         ]
       },
-      "observacao": "Despacho restrito a STT26-19; demais lotes do eixo permanecem independentes e PENDENTES."
+      "observacao": "Decisões registradas independentemente por lote; despacho do eixo integralmente deliberado."
     },
     {
       "codigo": "RC-028",
@@ -739,7 +739,7 @@
         "STT26-19": "DESCARTAR-DO-LOTE",
         "STT26-20": "DESCARTAR-DO-LOTE",
         "STT26-22": "DESCARTAR-DO-LOTE",
-        "STT26-24": "PENDENTE"
+        "STT26-24": "DESCARTAR-DO-LOTE"
       },
       "evidencias_disponiveis": {
         "STT26-19": [
@@ -758,7 +758,7 @@
           "STT26-24-RC-239-005"
         ]
       },
-      "observacao": "Decisões registradas por lote; STT26-23 e STT26-24 permanecem independentes e PENDENTES."
+      "observacao": "Decisões registradas independentemente por lote; despacho do eixo integralmente deliberado."
     },
     {
       "codigo": "RC-854",
@@ -768,7 +768,7 @@
       "fundamento_curatorial": "Deliberação explícita do Curador: entidades cósmicas, titãs, eras e mecânicas estruturais da RC seguem ao cotejo; descartes cobrem figura histórica ou contemporânea usada como moldura narrativa e jargão sociológico sem peso cosmológico.",
       "decisao_por_lote": {
         "STT26-19": "AUTORIZAR-COTEJO-AMPLIADO",
-        "STT26-24": "PENDENTE"
+        "STT26-24": "AUTORIZAR-COTEJO-AMPLIADO"
       },
       "evidencias_disponiveis": {
         "STT26-19": [
@@ -778,7 +778,7 @@
           "STT26-24-RC-854-001"
         ]
       },
-      "observacao": "Despacho restrito a STT26-19; demais lotes do eixo permanecem independentes e PENDENTES."
+      "observacao": "Decisões registradas independentemente por lote; despacho do eixo integralmente deliberado."
     },
     {
       "codigo": "RC-002",
@@ -789,7 +789,7 @@
       "decisao_por_lote": {
         "STT26-22": "AUTORIZAR-COTEJO-AMPLIADO",
         "STT26-23": "AUTORIZAR-COTEJO-AMPLIADO",
-        "STT26-24": "PENDENTE"
+        "STT26-24": "AUTORIZAR-COTEJO-AMPLIADO"
       },
       "evidencias_disponiveis": {
         "STT26-22": [
@@ -804,7 +804,7 @@
           "STT26-24-RC-002-003"
         ]
       },
-      "observacao": "Decisões registradas por lote; STT26-24 permanece independente e PENDENTE."
+      "observacao": "Decisões registradas independentemente por lote; despacho do eixo integralmente deliberado."
     },
     {
       "codigo": "RC-623",
@@ -854,7 +854,7 @@
       "fundamento_curatorial": "Deliberação explícita do Curador: entidades, conceitos e artefatos estruturais da RC seguem ao cotejo; descartes cobrem figura histórica de enquadramento, jargão sociológico e termo genérico de outra corrente espiritual.",
       "decisao_por_lote": {
         "STT26-22": "AUTORIZAR-COTEJO-AMPLIADO",
-        "STT26-24": "PENDENTE"
+        "STT26-24": "AUTORIZAR-COTEJO-AMPLIADO"
       },
       "evidencias_disponiveis": {
         "STT26-22": [
@@ -866,7 +866,7 @@
           "STT26-24-RC-078-001"
         ]
       },
-      "observacao": "Decisões registradas por lote; STT26-23 e STT26-24 permanecem independentes e PENDENTES."
+      "observacao": "Decisões registradas independentemente por lote; despacho do eixo integralmente deliberado."
     },
     {
       "codigo": "RC-874",
@@ -981,7 +981,7 @@
       "fundamento_curatorial": "Deliberação explícita do Curador: entidades, conceitos dimensionais e mecânicas da RC seguem ao cotejo; descartes cobrem figura histórica ou descontextualizada, plataforma, título genérico e jargão sociológico ou espiritual.",
       "decisao_por_lote": {
         "STT26-23": "AUTORIZAR-COTEJO-AMPLIADO",
-        "STT26-24": "PENDENTE"
+        "STT26-24": "AUTORIZAR-COTEJO-AMPLIADO"
       },
       "evidencias_disponiveis": {
         "STT26-23": [
@@ -992,23 +992,23 @@
           "STT26-24-RC-035-002"
         ]
       },
-      "observacao": "Decisões registradas por lote; STT26-24 permanece independente e PENDENTE."
+      "observacao": "Decisões registradas independentemente por lote; despacho do eixo integralmente deliberado."
     },
     {
       "codigo": "RC-163",
       "nome": "Mente Universal (Emergente)",
       "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
       "decisao_eixo": "PENDENTE",
-      "fundamento_curatorial": "",
+      "fundamento_curatorial": "Deliberação explícita do Curador: entidades, processos e artefatos estruturais da RC seguem ao cotejo; descartes cobrem figura histórica usada apenas como ilustração ou contexto.",
       "decisao_por_lote": {
-        "STT26-24": "PENDENTE"
+        "STT26-24": "AUTORIZAR-COTEJO-AMPLIADO"
       },
       "evidencias_disponiveis": {
         "STT26-24": [
           "STT26-24-RC-163-001"
         ]
       },
-      "observacao": ""
+      "observacao": "Decisões registradas independentemente por lote; despacho do eixo integralmente deliberado."
     },
     {
       "codigo": "RC-434",
@@ -1074,16 +1074,16 @@
       "nome": "Cérebro Radiata",
       "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
       "decisao_eixo": "PENDENTE",
-      "fundamento_curatorial": "",
+      "fundamento_curatorial": "Deliberação explícita do Curador: entidades, processos e artefatos estruturais da RC seguem ao cotejo; descartes cobrem figura histórica usada apenas como ilustração ou contexto.",
       "decisao_por_lote": {
-        "STT26-24": "PENDENTE"
+        "STT26-24": "AUTORIZAR-COTEJO-AMPLIADO"
       },
       "evidencias_disponiveis": {
         "STT26-24": [
           "STT26-24-RC-631-001"
         ]
       },
-      "observacao": ""
+      "observacao": "Decisões registradas independentemente por lote; despacho do eixo integralmente deliberado."
     },
     {
       "codigo": "RC-850",
@@ -1178,16 +1178,16 @@
       "nome": "Ressonância límbica (emoções como tecnologia cósmica)",
       "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
       "decisao_eixo": "PENDENTE",
-      "fundamento_curatorial": "",
+      "fundamento_curatorial": "Deliberação explícita do Curador: entidades, processos e artefatos estruturais da RC seguem ao cotejo; descartes cobrem figura histórica usada apenas como ilustração ou contexto.",
       "decisao_por_lote": {
-        "STT26-24": "PENDENTE"
+        "STT26-24": "AUTORIZAR-COTEJO-AMPLIADO"
       },
       "evidencias_disponiveis": {
         "STT26-24": [
           "STT26-24-RC-529-001"
         ]
       },
-      "observacao": ""
+      "observacao": "Decisões registradas independentemente por lote; despacho do eixo integralmente deliberado."
     },
     {
       "codigo": "RC-624",
@@ -1600,15 +1600,16 @@
     }
   ],
   "despacho_de_eixo": {
-    "resultado": "PENDENTE",
+    "resultado": "CONCLUIDO",
     "lotes_autorizados_para_cotejo_ampliado": [
       "STT26-19",
       "STT26-20",
       "STT26-21",
       "STT26-22",
-      "STT26-23"
+      "STT26-23",
+      "STT26-24"
     ],
     "autorizacao_para_abrir_ciclo": false,
-    "observacao": "Despacho parcial: STT26-19 a STT26-23 deliberados sob filtro de relevância doutrinária. STT26-24 permanece integralmente PENDENTE. Sem autorização para abrir ciclo."
+    "observacao": "Despacho integral concluído para STT26-19 a STT26-24. Cotejo ampliado autorizado para todos os lotes; a abertura de ciclo no Motor permanece pendente de autorização explícita do Curador."
   }
 }
