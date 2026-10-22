@@ -5,10 +5,10 @@ nome = "Egrégora (circuito dos elétrons rebeldes)"
 categoria = "Conceitos Cosmológicos"
 subcategoria = "2.4 Espiritualidade / Doutrina"
 status = "verificado"
-fontes = ["B041", "B074", "B075", "P2026-07-30", "P2025-03-15", "P2023-06-24", "P2021-05-08"]
+fontes = ["B041", "B074", "B075", "P2026-07-30", "P2025-03-15", "P2023-06-24", "P2021-05-08", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA"]
 via = "P6-evidência"
 confianca_fonte = "alta"
-atualizado = "2026-09-10"
+atualizado = "2026-10-22"
 +++
 # Egrégora (circuito dos elétrons rebeldes) — RC-385
 
@@ -31,10 +31,15 @@ Campo de energias extrafísicas formado no plano astral a partir das emoções e
 | Princípio da Externalização (criação divina sem sexualidade) | RC-768 | ← relaciona-se-a |
 | Egrégora de Lilith / Noreia (Loop Mental Vivo) | RC-787 | associado-a (instância) |
 
+## Ampliação — STT26-EXPERIENCIA_ESPIRITUAL_ETICA (Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados))
+
+- **[STT26-09 · Egrégora (circuito dos elétrons rebeldes)]** «Nesse cenário, talvez a egrégora suja, resultante desgraçadamente sobrevivente ao que foi produzido pela rede universal, venha se transformar numa próxima singularidade, a dar início a uma outra criação, cujos termos e componentes deverão ser muito, muito, mas muito piores, porque os nossos foram somente caóticos.» (U3453 · chars 513426–513741) — Candidata de cotejo; evidência `STT26-09-RC-385-001`, grafia encontrada `egrégora`; decisão por lote `STT26-09: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| STT26-EXPERIENCIA_ESPIRITUAL_ETICA | Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | B041 | A Rebelião dos Elétrons — Nota 21 (definição); p. 84 (Javé vampirizava; inversão); pp. 146–147 (egrégora-circuito dos elétrons rebeldes, na Proposta) | livro impresso |
 | P2023-06-24 | O Buraco Negro Mental e o Estacionamento Coletivo — singularidades pós-2018; vampirização dos corpos conectados | palestra/STT |
 | P2025-03-15 | A Rebelião dos Elétrons e a Era do Colapso — outro inconsciente coletivo, de egrégoras; nota do editor aponta RC-385 | palestra/STT |

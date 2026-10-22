@@ -5,10 +5,10 @@ nome = "Arcontes (= Sophias e Indras; Conselho dos 70)"
 categoria = "Seres & Entidades"
 subcategoria = "1.2 Coletivos criadores"
 status = "em análise"
-fontes = ["P2022-12-17", "P2025-02-16", "P2024-11-30", "P2026-08-04", "P2023-12-02", "P2023-06-03", "P2022-09-24", "P2025-02-22", "P2023-10-14", "P2022-03-26", "P2023-12-03", "P2022-05-07", "P2025-05-10", "P2023-02-11", "P2022-11-26", "P2022-11-20", "P2022-09-17", "P2025-12-14"]
+fontes = ["P2022-12-17", "P2025-02-16", "P2024-11-30", "P2026-08-04", "P2023-12-02", "P2023-06-03", "P2022-09-24", "P2025-02-22", "P2023-10-14", "P2022-03-26", "P2023-12-03", "P2022-05-07", "P2025-05-10", "P2023-02-11", "P2022-11-26", "P2022-11-20", "P2022-09-17", "P2025-12-14", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA"]
 via = "P7-conhecimento"
 confianca_fonte = "baixa"
-atualizado = "2026-09-12"
+atualizado = "2026-10-22"
 +++
 # Arcontes (= Sophias e Indras; Conselho dos 70) — RC-474
 
@@ -48,10 +48,15 @@ Na RC, colegiado de seres = "Sophias e Indras; Conselho dos 70" — linhagem de 
 | Elelev / Eleleth (o grande anjo da revelação gnóstica que respondeu à busca de Noreia, indicando a incorruptibilidade Sofia/Pistes no interior dos domínios ilimitados) | RC-888 | relaciona-se-a |
 | Bondade Humana | RC-895 | associado |
 
+## Ampliação — STT26-EXPERIENCIA_ESPIRITUAL_ETICA (Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados))
+
+- **[STT26-09 · Arcontes (= Sophias e Indras; Conselho dos 70)]** «A briga dos arcontes maiores é aqui, ainda que haja também arcontes aqui entre os mais velhos. Mas, por exemplo, entre os mais velhos está a figura de Shiva.» (U5113 · chars 737181–737338) — Candidata de cotejo; evidência `STT26-09-RC-474-001`, grafia encontrada `arcontes`; decisão por lote `STT26-09: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| STT26-EXPERIENCIA_ESPIRITUAL_ETICA | Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | P2025-12-14 | Os Fundamentos da Revelação Cósmica (palestra) | — | transcrição automatizada; citação |
 | P2022-09-17 | A Hipóstase dos Arcontes (palestra) | — | transcrição automatizada; citação |
 | P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |

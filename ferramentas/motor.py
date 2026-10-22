@@ -52,11 +52,13 @@ import bisect
 import datetime
 import glob
 import hashlib
+import io
 import json
 import os
 import re
 import subprocess
 import sys
+import tokenize
 import unicodedata
 
 try:
@@ -925,8 +927,21 @@ def materializar(c: Ciclo) -> None:
             slug = re.sub(r"-{2,}", "-", re.sub(r"[^A-Za-z0-9]+", "-", fold(t[1].replace("´", " ")))).strip("-")
             arq = os.path.join(c.raiz, "termos", f"{cod}-{slug.lower()}.md")
         arestas = c.base.arestas(cod)
-        rels = [x.strip() for x in (t[6] or "").split(";") if x.strip()]
-        com_aresta = [r for r in rels if any(r in (a[0], a[2]) for a in arestas)]
+        # A tabela da ficha é o espelho bidirecional que T14 confere: relações
+        # declaradas pelo próprio termo, relações declaradas por outro termo e arestas
+        # tipadas. Materializar só a metade "de saída" deixa a ficha nova truncada.
+        diretos = {x.strip() for x in (t[6] or "").split(";") if x.strip()}
+        reversos = {
+            outro_cod for outro_cod, outro in c.base.termos.items()
+            if outro_cod != cod and cod in {x.strip() for x in str(outro[6] or "").split(";")}
+        }
+        por_arestas = {
+            b if a == cod else a
+            for a, _tipo, b, _fonte in arestas if cod in (a, b)
+        }
+        rels = sorted((diretos | reversos | por_arestas) - {cod})
+        com_aresta = [r for r in rels if any(cod in (a[0], a[2]) and r in (a[0], a[2])
+                                              for a in arestas)]
         sem_arquivo = [r for r in rels if r not in c.fichas]
         obras = [x for x in(t[5] or []) if not str(x).startswith("P")]
         secao = c.secao_limpa(cod)
@@ -971,6 +986,10 @@ def materializar(c: Ciclo) -> None:
         assert tomllib.loads(corpo[4:corpo.find("\n+++\n", 4)]).get("codigo") == cod, \
             f"{cod}: frontmatter gerado não round-tripa"
         open(arq, "w", encoding="utf-8").write(corpo)
+        # O ciclo continua vivo após este passo (`tudo` ainda amplia, vira e vincula).
+        # Registrar já a ficha recém-materializada garante que esses passos a incluam,
+        # sobretudo na sincronização do frontmatter depois de `ficha=False → True`.
+        c.fichas[cod] = arq
         assert f"## Ampliação — {c.sigla}" in corpo, f"{cod}: a seção do ciclo não entrou na ficha"
         print(f"  ficha: {os.path.relpath(arq, c.raiz)} · {os.path.getsize(arq):,} B · "
               f"{len(ASP.findall(corpo))} aspa(s)".replace(",", "."))
@@ -1454,6 +1473,42 @@ def linha_fonte_para_tabela(cabecalho: str, sigla: str, titulo: str) -> str:
     return "| " + " | ".join(campos) + " |"
 
 
+def _campo_fontes_da_linha(linha: str) -> tuple[int, int] | None:
+    """Intervalo do sexto campo (lista de fontes) de uma linha de ``TERMOS``.
+
+    Procurar o último ``[]`` da linha parecia suficiente até o cadastro ter comentários
+    com colchetes e fontes vazias: a sigla acabava no comentário, ou nascia ``[, sigla]``.
+    O tokenizador preserva o texto original, mas conta somente vírgulas da tupla externa.
+    """
+    try:
+        tokens = tokenize.generate_tokens(io.StringIO(linha).readline)
+        profundidade, campo, inicio = 0, 0, None
+        for tok in tokens:
+            if tok.type != tokenize.OP:
+                continue
+            op, coluna = tok.string, tok.start[1]
+            if op == "(":
+                profundidade += 1
+                if profundidade == 1:
+                    campo, inicio = 0, tok.end[1]
+            elif op in "[{":
+                profundidade += 1
+            elif op in "]}":
+                profundidade -= 1
+            elif op == ")":
+                if profundidade == 1 and campo == 5 and inicio is not None:
+                    return inicio, coluna
+                profundidade -= 1
+            elif op == "," and profundidade == 1:
+                if campo == 5 and inicio is not None:
+                    return inicio, coluna
+                campo += 1
+                inicio = tok.end[1]
+    except (tokenize.TokenError, IndentationError):
+        return None
+    return None
+
+
 def inscreve_fonte(txt: str, cod: str, sigla: str) -> tuple[str, str]:
     """Acrescenta `sigla` à lista de fontes do termo `cod` no TEXTO do cadastro, e devolve
     (texto, estado). Pura de propósito: é o que permite testar a inserção antes de ela
@@ -1465,20 +1520,30 @@ def inscreve_fonte(txt: str, cod: str, sigla: str) -> tuple[str, str]:
     mudou = "sem-linha"
     linhas = txt.split("\n")
     for n, l in enumerate(linhas):
-        m = re.match(r"^(\s*)\(\s*[\"']" + cod + "[\"']\s*,", l)
-        if not m:
+        if not re.match(r"^\s*\(\s*[\"']" + cod + "[\"']\s*,", l):
             continue
-        abre, fecha = l.rfind("["), l.rfind("]")
-        if abre < 0 or fecha <= abre:
+        intervalo = _campo_fontes_da_linha(l)
+        if not intervalo:
             mudou = "sem-lista"
             break
-        dentro = l[abre:fecha]
-        if re.search(r"[\"']" + sigla + r"[\"']", dentro):
+        inicio, fim = intervalo
+        segmento = l[inicio:fim]
+        lista = segmento.strip()
+        if not (lista.startswith("[") and lista.endswith("]")):
+            mudou = "sem-lista"
+            break
+        if re.search(r"[\"']" + re.escape(sigla) + r"[\"']", lista):
             mudou = "ja-estava"
             break
-        novo = dentro.rstrip()
-        novo = novo + f', "{sigla}"]' + l[fecha + 1:]               # fecha a lista, reabre o resto
-        linhas[n] = l[:abre] + novo
+        if lista == "[]":
+            nova_lista = f'["{sigla}"]'
+        else:
+            nova_lista = lista[:-1].rstrip() + f', "{sigla}"]'
+        # Mantém a indentação/espaço que cerca o campo e nunca toca em comentários ou
+        # nos índices [0]/[1] dos campos anteriores.
+        prefixo = segmento[:len(segmento) - len(segmento.lstrip())]
+        sufixo = segmento[len(segmento.rstrip()):]
+        linhas[n] = l[:inicio] + prefixo + nova_lista + sufixo + l[fim:]
         mudou = "inseriu"
         break
     return "\n".join(linhas), mudou
@@ -1615,6 +1680,7 @@ def _selftest_vincular(tmp: str) -> bool:
         "TERMOS = [",
         '    ("RC-001", "Javé", A[0], A[1], P, ["B031", \'P2020-08-08\'], "RC-017", True),',
         '    (\'RC-002\', "Rebelião", B[0], B[1], P, [\'B031\'], "", False),',
+        '    ("RC-003", "Vazio", C[0], C[1], P, [], "", False),  # [comentário que não é fonte]',
         "]",
         'RELACOES = [',
         '    ("RC-001", "sinônimo", "RC-037", "B031"),',
@@ -1624,8 +1690,10 @@ def _selftest_vincular(tmp: str) -> bool:
     b, e2 = inscreve_fonte(a, "RC-001", "P2023-12-17")
     _, e3 = inscreve_fonte(a, "RC-002", "P2023-12-17")
     _, e4 = inscreve_fonte(a, "RC-999", "P2023-12-17")
-    return (e1, e2, e3, e4) == ("inseriu", "ja-estava", "inseriu", "sem-linha") and a == b \
-        and '("RC-001", "sinônimo", "RC-037", "B031"),' in a
+    vazio, e5 = inscreve_fonte(a, "RC-003", "P2023-12-17")
+    return (e1, e2, e3, e4, e5) == ("inseriu", "ja-estava", "inseriu", "sem-linha", "inseriu") and a == b \
+        and '("RC-001", "sinônimo", "RC-037", "B031"),' in a \
+        and 'P, ["P2023-12-17"], "", False),  # [comentário que não é fonte]' in vazio
 # ──────────────────────────────────── a vitória do ciclo: declarada, e provada na ficha
 LINHA_VITORIA = re.compile(r"^(RC-\d{3})\s*=\s*(.+)$")
 

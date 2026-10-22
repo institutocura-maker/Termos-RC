@@ -5,10 +5,10 @@ nome = "Espiritualidade Laboratorial"
 categoria = "Conceitos Cosmológicos"
 subcategoria = "2.3 Dimensões / Planos de existência"
 status = "em análise"
-fontes = ["B031", "B024", "B013", "B051", "B060", "P2021-12-04", "P2024-05-04", "P2025-02-15", "P2024-11-30", "P2024-11-09", "P2024-07-14", "P2020-04-04"]
+fontes = ["B031", "B024", "B013", "B051", "B060", "P2021-12-04", "P2024-05-04", "P2025-02-15", "P2024-11-30", "P2024-11-09", "P2024-07-14", "P2020-04-04", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA"]
 via = "P7-conhecimento"
 confianca_fonte = "baixa"
-atualizado = "2026-09-07"
+atualizado = "2026-10-22"
 +++
 # Espiritualidade Laboratorial — RC-061
 
@@ -58,9 +58,14 @@ O terceiro e mais denso dos três níveis: a região da «Experiência Laborator
 - RC-601 — ver ficha correspondente
 - RC-635 — ver ficha correspondente
 
+## Ampliação — STT26-EXPERIENCIA_ESPIRITUAL_ETICA (Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados))
+
+- **[STT26-08 · Espiritualidade Laboratorial]** «Segundo o que foi explicado, o suposto espírito Adiagia-A na espiritualidade operacional se fatiou após o segundo colapso quântico, espiritualidade laboratorial, projetando um ser hábitos para a Bágina, correto?» (U0927 · chars 65803–66014) — Candidata de cotejo; evidência `STT26-08-RC-061-001`, grafia encontrada `espiritualidade laboratorial`; decisão por lote `STT26-08: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
+| STT26-EXPERIENCIA_ESPIRITUAL_ETICA | Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | B031 | — | registro-mestre (fonte censada) |
 | B024 | — | registro-mestre (fonte censada) |
 | B013 | — | registro-mestre (fonte censada) |

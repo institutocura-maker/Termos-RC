@@ -5,10 +5,10 @@ nome = "Tirthankaras (Rishabh Dev, Jina Mahavira)"
 categoria = "Seres & Entidades"
 subcategoria = "1.6 Figuras humanas (históricas/míticas)"
 status = "provisório"
-fontes = ["B050", "P2025-10-25", "P2025-02-16", "P2024-02-03"]
+fontes = ["B050", "P2025-10-25", "P2025-02-16", "P2024-02-03", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA"]
 via = "P6-evidência"
 confianca_fonte = "média"
-atualizado = "2026-09-13"
+atualizado = "2026-10-22"
 +++
 # Tirthankaras (Rishabh Dev, Jina Mahavira) — RC-397
 
@@ -37,10 +37,15 @@ Na B050 (*Guia das Eras Universais · Mapa* — infográfico «Linha do Tempo da
 | Escola da Decifração da Realidade (Método Druídico) | RC-755 | relaciona-se-a |
 | Jainismo (antigo Druidismo — religião mais antiga) | RC-759 | ← relaciona-se-a |
 
+## Ampliação — STT26-EXPERIENCIA_ESPIRITUAL_ETICA (Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados))
+
+- **[STT26-10 · Tirthankaras (Rishabh Dev, Jina Mahavira)]** «Os Tirthankaras não tentam influenciar ninguém. Ser evoluído não tenta influenciar ninguém. Ser evoluído não quer aplauso de ninguém.» (U7797 · chars 1168554–1168687) — Candidata de cotejo; evidência `STT26-10-RC-397-001`, grafia encontrada `Tirthankaras`; decisão por lote `STT26-10: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
 ## Fontes
 
 | Obra (sigla) | Título | Página | Tipo |
 |---|---|---|---|
+| STT26-EXPERIENCIA_ESPIRITUAL_ETICA | Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
 | B050 | Guia das Eras Universais (Mapa) | — | livro; citação intra-linha |
 
 ## Citações-chave

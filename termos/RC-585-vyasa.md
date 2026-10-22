@@ -5,7 +5,7 @@ nome = "Vyasa"
 categoria = "Seres & Entidades"
 subcategoria = "1.6 Figuras humanas (históricas/míticas)"
 status = "verificado"
-fontes = ["P2022-12-17", "P2025-02-16", "P2024-11-30", "P2023-06-25", "P2021-05-15", "P2022-03-26", "P2024-06-16", "STT26-EXTRATERRESTRES_TECNOLOGIA"]
+fontes = ["P2022-12-17", "P2025-02-16", "P2024-11-30", "P2023-06-25", "P2021-05-15", "P2022-03-26", "P2024-06-16", "STT26-EXTRATERRESTRES_TECNOLOGIA", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA"]
 via = "P6-evidência"
 confianca_fonte = "média"
 atualizado = "2026-10-22"
@@ -49,9 +49,14 @@ Heber (patriarca pós-dilúvio) (RC-436); Rishis (RC-586)
 
 - **[STT26-07 · Vyasa]** «O que diabos é essa confusa situação de imigração? Existe um livro chamado Srimad Bhagavantam, escrito por Krishna do Apayano, mais conhecido como Vyasa, em que Vyasa, depois de ter escrito, junto com cerca de 20 companheiros de aventura, os quatro Vedas, os 18 Puranas, o Mahabharata em diversas orações, Vyasa resolveu fazer o seu Mahasamadhi na floresta de Naimisha, na Índia, no norte de Uttar Pradesh, é um estado lá da Índia, no norte, fica na fronteira com Nepal e Himalaia.» (U1974 · chars 298831–299313) — Pérola homologada pelo Curador em 22/10/2026; corte literal conferido pelo Motor antes do pouso na Base.
 
+## Ampliação — STT26-EXPERIENCIA_ESPIRITUAL_ETICA (Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados))
+
+- **[STT26-09 · Vyasa]** «Nos últimos 7 mil anos, na verdade nos últimos 5 mil anos, em algum momento dos últimos 5 mil anos, depois do trabalho de Vyasa na codificação do que seria o Mahabharata, e quando do contato entre Vyasa e o senhor Krishna, principalmente no evento da morte de Krishna, em que uma confusa situação de distinguir se Krishna, após a morte do seu corpo demodármico, se o eu dele iria para uma espiritualidade mais requintada, onde humanos já existiam, ou se voltaria para os reinos do universo vizinho, que eram confundidos com um nível de espiritualidade maior.» (U5063 · chars 731094–731653) — Candidata de cotejo; evidência `STT26-09-RC-585-001`, grafia encontrada `Vyasa`; decisão por lote `STT26-09: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
+| STT26-EXPERIENCIA_ESPIRITUAL_ETICA | Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | STT26-EXTRATERRESTRES_TECNOLOGIA | Eixo STT26 — Extraterrestres, tecnologia e cosmos (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
 | P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |

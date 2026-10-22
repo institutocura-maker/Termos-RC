@@ -5,10 +5,10 @@ nome = "Seres Extrafísicos"
 categoria = "Seres & Entidades"
 subcategoria = "1.5 Decaídos / Exilados / Demônios"
 status = "verificado"
-fontes = ["B031", "P2020-04-04"]
+fontes = ["B031", "P2020-04-04", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA"]
 via = "P6-evidência"
 confianca_fonte = "alta"
-atualizado = "2026-09-13"
+atualizado = "2026-10-22"
 +++
 # Seres Extrafísicos — RC-097
 
@@ -39,10 +39,15 @@ Os habitantes do universo paralelo (antimaterial): não são físicos — e muit
 | Teurgistas | RC-235 | associado |
 | Seres dos Portais | RC-241 | associado |
 
+## Ampliação — STT26-EXPERIENCIA_ESPIRITUAL_ETICA (Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados))
+
+- **[STT26-09 · Seres Extrafísicos]** «Alguns poucos a gente pode se meter. Mas, eu estou falando de ataques espirituais, Mas também tem ataques de seres extrafísicos, que são seres desse universo vizinho que estão atacando indiscriminadamente a humanidade para poder se estabelecer aqui na invasão do universo que está tendo.» (U4925 · chars 714772–715059) — Candidata de cotejo; evidência `STT26-09-RC-097-001`, grafia encontrada `seres extrafísicos`; decisão por lote `STT26-09: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
 ## Fontes
 
 | Obra (sigla) | Título | Página | Tipo |
 |---|---|---|---|
+| STT26-EXPERIENCIA_ESPIRITUAL_ETICA | Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
 | B031 | Painéis Emergentes da Revelação Cósmica | p. 29 | livro; citação intra-linha |
 
 ## Citações-chave

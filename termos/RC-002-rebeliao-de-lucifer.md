@@ -5,7 +5,7 @@ nome = "Rebelião de Lúcifer"
 categoria = "Eventos & Eras"
 subcategoria = "7.1 Guerras / Rebeliões / Conflitos"
 status = "verificado"
-fontes = ["B031", "B003", "B026", "B057", "B058", "B017", "P2024-03-03", "P2024-04-13", "P2023-04-01", "P2020-09-19", "P2021-07-24", "P2023-04-01b", "P2024-11-03", "P2025-02-22", "P2020-04-25", "P2022-03-26", "P2023-12-03", "P2022-05-07", "P2023-08-27", "P2023-02-11", "P2021-02-28", "STT26-EXTRATERRESTRES_TECNOLOGIA"]
+fontes = ["B031", "B003", "B026", "B057", "B058", "B017", "P2024-03-03", "P2024-04-13", "P2023-04-01", "P2020-09-19", "P2021-07-24", "P2023-04-01b", "P2024-11-03", "P2025-02-22", "P2020-04-25", "P2022-03-26", "P2023-12-03", "P2022-05-07", "P2023-08-27", "P2023-02-11", "P2021-02-28", "STT26-EXTRATERRESTRES_TECNOLOGIA", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA"]
 via = "P6-evidência"
 confianca_fonte = "alta"
 atualizado = "2026-10-22"
@@ -58,9 +58,14 @@ Yel Luzbel (RC-078); Len Mion (RC-074); Família Yel (RC-136); Família Val (RC-
 
 - **[STT26-07 · Rebelião de Lúcifer]** «No livro Terra Atlantis, que é o que você se referiu, esses seres biodemo que estavam na Terra, a família Vol, a família El, no tempo da rebelião de Lúcifer, não sabiam de nada disso, mas sabiam que eles tinham chegado aqui na Terra em naves.» (U0170 · chars 21832–22074) — Pérola homologada pelo Curador em 22/10/2026; corte literal conferido pelo Motor antes do pouso na Base.
 
+## Ampliação — STT26-EXPERIENCIA_ESPIRITUAL_ETICA (Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados))
+
+- **[STT26-09 · Rebelião de Lúcifer]** «O problema é que nós não temos noção disso Mas os espíritos não só foram criados simples e ignorantes, como afirma a doutrina espírita Para evoluir de acordo com a natureza dos mundos a histórias anteriores a isso isso foi dito no século XIX através da revelação espiritual porque era o conceito plausível de ser entendido na época mas existem histórias antigas muito antigas que ainda estão em curso e a rebelião de Lúcifer é só uma das últimas desse contexto e muitas famílias se viram desagregadas por conta da questão da rebelião, e muitos dos seus membros estão aqui na Terra, enquanto outros de uma mesma família estão lá fora.» (U3533 · chars 524400–525033) — Candidata de cotejo; evidência `STT26-09-RC-002-001`, grafia encontrada `rebelião de Lúcifer`; decisão por lote `STT26-09: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| STT26-EXPERIENCIA_ESPIRITUAL_ETICA | Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
 | STT26-EXTRATERRESTRES_TECNOLOGIA | Eixo STT26 — Extraterrestres, tecnologia e cosmos (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
 | P2021-02-28 | Tragédia Anunciada - As Fórmulas Mentais do Poder Demo (palestra) | — | transcrição automatizada; citação |
 | P2023-02-11 | Agente Humano Jesus e os Arcontes (palestra) | — | transcrição automatizada; citação |

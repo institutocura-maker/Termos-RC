@@ -5,10 +5,10 @@ nome = "Reforma Íntima (tema do Grupo Atlan)"
 categoria = "Conceitos Cosmológicos"
 subcategoria = "2.4 Espiritualidade / Doutrina"
 status = "verificado"
-fontes = ["B006", "B074", "B075", "P2025-03-15"]
+fontes = ["B006", "B074", "B075", "P2025-03-15", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA"]
 via = "P6-evidência"
 confianca_fonte = "alta"
-atualizado = "2026-09-13"
+atualizado = "2026-10-22"
 +++
 # Reforma Íntima (tema do Grupo Atlan) — RC-392
 
@@ -35,10 +35,15 @@ Na pregação do Grupo Atlan recolhida em B006, o processo de correção de si: 
 | Revelação Espiritual (Kardec) | RC-190 | relaciona-se-a |
 | Maestria existencial (o valor repousado no modo como se vive) | RC-880 | associado |
 
+## Ampliação — STT26-EXPERIENCIA_ESPIRITUAL_ETICA (Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados))
+
+- **[STT26-08 · Reforma Íntima (tema do Grupo Atlan)]** «O Gusson era um cara que estava prisioneiro, estava lá no solitário, que havia matado um cara, e Gusson desenvolveu uma técnica de yoga com base nos livros de Hermógenes, e ele passou a ensinar aos demais prisioneiros yoga. Então eu achava muito importante a reforma íntima que Gusson fez nele mesmo, para a gente ensinar o método de Gusson, então por isso que eu nunca imaginei que eu iria colocar o meu método, sempre a gente estimulou de Gusson.» (U1689 · chars 199655–200104) — Candidata de cotejo; evidência `STT26-08-RC-392-001`, grafia encontrada `reforma íntima`; decisão por lote `STT26-08: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
 ## Fontes
 
 | Obra (sigla) | Título | Página | Tipo |
 |---|---|---|---|
+| STT26-EXPERIENCIA_ESPIRITUAL_ETICA | Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
 | B006 | Nos Bastidores da Luz I | p. 28 | livro; citação intra-linha |
 | B075 | Mentalma II: Gestão Psíquica e Memórias Complexas | p. 31 | livro; citação intra-linha |
 | P2025-03-15 | P2025-03-15 | — | palestra/STT; citação intra-linha |

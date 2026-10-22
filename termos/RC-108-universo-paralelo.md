@@ -5,7 +5,7 @@ nome = "Universo Paralelo"
 categoria = "Conceitos Cosmológicos"
 subcategoria = "2.3 Dimensões / Planos de existência"
 status = "verificado"
-fontes = ["B031", "P2025-02-16", "P2024-11-30", "P2024-11-09", "P2024-08-03", "STT26-EXTRATERRESTRES_TECNOLOGIA"]
+fontes = ["B031", "P2025-02-16", "P2024-11-30", "P2024-11-09", "P2024-08-03", "STT26-EXTRATERRESTRES_TECNOLOGIA", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA"]
 via = "P6-evidência"
 confianca_fonte = "alta"
 atualizado = "2026-10-22"
@@ -37,10 +37,15 @@ Segundo o glossário de B031, é o universo paralelo ao nosso, chamado de Univer
 
 - **[STT26-07 · Universo Paralelo]** «Sabe como é que eles chamam isso? Universo paralelo ao nosso. E já estão também apontando a possibilidade dos dois terem nascido juntos, ou seja, naquela singularidade, terem surgido dois universos.» (U0152 · chars 19641–19839) — Pérola homologada pelo Curador em 22/10/2026; corte literal conferido pelo Motor antes do pouso na Base.
 
+## Ampliação — STT26-EXPERIENCIA_ESPIRITUAL_ETICA (Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados))
+
+- **[STT26-09 · Universo Paralelo]** «Como também essa questão extrafísica referente ao universo paralelo, com as suas incontáveis locas e incontáveis estirpes demoníacas e clonadas. Ou seja, nós, seres humanos, estamos, no que se refere à órbita de Jandré, centrados numa espécie de aventura existencial na qual nós fomos gerados doentes, pois que fomos gerados com a doença do Criador inoculada nos nossos corpos, e apesar de termos sido gerados doentes, somos destinados a nos tornarmos livres dessa doença.» (U2977 · chars 413067–413539) — Candidata de cotejo; evidência `STT26-09-RC-108-001`, grafia encontrada `universo paralelo`; decisão por lote `STT26-09: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
 ## Fontes
 
 | Obra (sigla) | Título | Página | Tipo |
 |---|---|---|---|
+| STT26-EXPERIENCIA_ESPIRITUAL_ETICA | Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
 | STT26-EXTRATERRESTRES_TECNOLOGIA | Eixo STT26 — Extraterrestres, tecnologia e cosmos (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
 | B031 | Painéis Emergentes da Revelação Cósmica | p. 147 | livro; citação intra-linha |
 | P2025-02-16 | P2025-02-16 | — | palestra/STT; citação intra-linha |

@@ -5,10 +5,10 @@ nome = "Apocalipse (livro de João, ditado por Sofia/Rockman)"
 categoria = "Tecnologias & Artefatos"
 subcategoria = "5.4 Escrituras / Objetos documentais"
 status = "verificado"
-fontes = ["P2025-05-10", "P2023-02-11", "P2022-11-20", "P2026-03-21", "P2023-12-25-03"]
+fontes = ["P2025-05-10", "P2023-02-11", "P2022-11-20", "P2026-03-21", "P2023-12-25-03", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA"]
 via = "P6-evidência"
 confianca_fonte = "média"
-atualizado = "2026-08-31"
+atualizado = "2026-10-22"
 +++
 # Apocalipse (livro de João, ditado por Sofia/Rockman) — RC-854
 
@@ -37,9 +37,14 @@ Com isso:
 | Hochmah (2ª Sefirah — Sabedoria; = Sophia) | RC-565 | **sem aresta** em `RELACOES`; arquivo existe |
 | João Evangelista (apóstolo, o discípulo amado) | RC-855 | **sem aresta** em `RELACOES`; arquivo existe |
 
+## Ampliação — STT26-EXPERIENCIA_ESPIRITUAL_ETICA (Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados))
+
+- **[STT26-12 · Apocalipse (livro de João, ditado por Sofia/Rockman)]** «A vinda de Sofia é nos termos em que nós falamos que apenas repete os termos do Apocalipse. Nada eu inventei, nada é novidade.» (U13074 · chars 1980379–1980505) — Candidata de cotejo; evidência `STT26-12-RC-854-001`, grafia encontrada `Apocalipse`; decisão por lote `STT26-12: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
 ## Fontes
 | Obra (sigla) | Título | Página | Tipo |
 |---|---|---|---|
+| STT26-EXPERIENCIA_ESPIRITUAL_ETICA | Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
 | P2026-03-21 | Samudra Manthan A Enigmatica Alquimia de Vishnu (palestra) | — | transcrição automatizada; citação |
 | P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
 | P2023-02-11 | Agente Humano Jesus e os Arcontes (palestra) | — | transcrição automatizada; citação |

@@ -5,10 +5,10 @@ nome = "Corpo Búdico"
 categoria = "Conceitos Cosmológicos"
 subcategoria = "2.3 Dimensões / Planos de existência"
 status = "verificado"
-fontes = ["P2026-07-30", "P2024-05-04", "P2025-02-16", "P2025-02-15", "P2024-11-30", "P2024-11-09", "P2024-07-14", "P2024-03-02"]
+fontes = ["P2026-07-30", "P2024-05-04", "P2025-02-16", "P2025-02-15", "P2024-11-30", "P2024-11-09", "P2024-07-14", "P2024-03-02", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA"]
 via = "P6-evidência"
 confianca_fonte = "média"
-atualizado = "2026-08-14"
+atualizado = "2026-10-22"
 +++
 # Corpo Búdico — RC-624
 
@@ -40,9 +40,14 @@ Primeira vestimenta espiritual dos desdobramentos paradisíacos, permitindo ao e
 ## Seres Associados
 Consultar relações acima.
 
+## Ampliação — STT26-EXPERIENCIA_ESPIRITUAL_ETICA (Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados))
+
+- **[STT26-10 · Corpo Búdico]** «Quando uma mente deseja se ausentar do paraíso, e isso aconteceu, essa consciência particularizada tomou desse corpo átmico e investiu daquilo que a gente chama de das duas vestimentas básicas, o chamado corpo búdico, o corpo manásico, ou vestimenta emocional, vestimenta mental, então é o corpo átmico, travestido dessas duas vestimentas para que o eu desse ser possa interagir com coisas que não são perfeitas, com caos, o que seja.» (U6275 · chars 919938–920373) — Candidata de cotejo; evidência `STT26-10-RC-624-001`, grafia encontrada `corpo búdico`; decisão por lote `STT26-10: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
+| STT26-EXPERIENCIA_ESPIRITUAL_ETICA | Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | P2026-07-30 — 4ª Edição Estagiários do Kaos | U0050–U0053 | STT pré-curado / devolutiva |
 | P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — |
 

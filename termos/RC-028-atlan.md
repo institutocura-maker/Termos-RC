@@ -5,10 +5,10 @@ nome = "Atlan"
 categoria = "Lokas & Geografias"
 subcategoria = "3.3 Localidades terrestres"
 status = "em análise"
-fontes = ["B031", "B017", "B018", "B039", "B006", "P2022-09-25"]
+fontes = ["B031", "B017", "B018", "B039", "B006", "P2022-09-25", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA"]
 via = "P7-conhecimento"
 confianca_fonte = "baixa"
-atualizado = "2026-09-01"
+atualizado = "2026-10-22"
 +++
 # Atlan — RC-028
 
@@ -40,9 +40,14 @@ Com isso:
 | Grupo Atlan | RC-388 | ← associado-a |
 
 
+## Ampliação — STT26-EXPERIENCIA_ESPIRITUAL_ETICA (Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados))
+
+- **[STT26-09 · Atlan]** «Saudações aos ouvintes da Rádio Atlan. Estamos iniciando mais um programa. Nesse programa nós respondemos as perguntas dos ouvintes. Qual a interferência dos espíritos na vida humana?» (U5351 · chars 770335–770518) — Candidata de cotejo; evidência `STT26-09-RC-028-001`, grafia encontrada `Atlan`; decisão por lote `STT26-09: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
 ## Fontes
 | Obra (sigla) | Título | Página | Tipo |
 |---|---|---|---|
+| STT26-EXPERIENCIA_ESPIRITUAL_ETICA | Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
 | P2022-09-25 | O Contexto Espiritual da Construção de Brasília (palestra) | — | transcrição automatizada; citação |
 | B031 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
 | B017 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |

@@ -5,10 +5,10 @@ nome = "Anjos clones"
 categoria = "Seres & Entidades"
 subcategoria = "1.4 Anjos / Arcanjos / Querubins"
 status = "em análise"
-fontes = ["B031", "B024", "B044", "B035", "B001", "B002", "B015", "P2025-10-25", "P2025-06-26", "P2025-02-15", "P2024-11-30", "P2024-09-29", "P2024-04-13", "P2023-06-17", "P2020-07-04", "P2020-05-09", "P2021-03-13", "P2024-06-16", "P2020-04-04"]
+fontes = ["B031", "B024", "B044", "B035", "B001", "B002", "B015", "P2025-10-25", "P2025-06-26", "P2025-02-15", "P2024-11-30", "P2024-09-29", "P2024-04-13", "P2023-06-17", "P2020-07-04", "P2020-05-09", "P2021-03-13", "P2024-06-16", "P2020-04-04", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA"]
 via = "P7-conhecimento"
 confianca_fonte = "baixa"
-atualizado = "2026-08-31"
+atualizado = "2026-10-22"
 +++
 # Anjos clones — RC-019
 
@@ -53,9 +53,14 @@ Com isso:
 | Vício Devocional | RC-749 | ← relaciona-se-a |
 
 
+## Ampliação — STT26-EXPERIENCIA_ESPIRITUAL_ETICA (Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados))
+
+- **[STT26-10 · Anjos clones]** «Eu comprei esse livro há uns 20 anos atrás numa viagem fora do Brasil e assim eu comecei a ler esse livro num certo ponto parei porque aquilo é interminável mas aquilo lá demonstrava um padrão de conhecimento que na época eu não sabia onde é que diabos quem escreveu aquilo ali onde é que ele achou tanta informação e só depois eu vim entender que aquilo tinha a ver com sociedades secretas, conhecimento que existe, mas que não é facilmente divulgado, mas enfim. E também tinha um quê de revelação naquela história, mas quando eu comecei a lidar com Javé e os anjos clones dele e que eles me explicaram o tal livro que eu tinha deixado a meio caminho e ainda se encontro, porque eu não Nunca mais olhei para aquilo.» (U7587 · chars 1131563–1132279) — Candidata de cotejo; evidência `STT26-10-RC-019-001`, grafia encontrada `anjos clones`; decisão por lote `STT26-10: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
 ## Fontes
 | Obra (sigla) | Título | Página | Tipo |
 |---|---|---|---|
+| STT26-EXPERIENCIA_ESPIRITUAL_ETICA | Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
 | P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
 | B031 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
 | B024 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |

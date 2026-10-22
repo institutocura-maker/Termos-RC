@@ -5,10 +5,10 @@ nome = "Deidade (Pai-Mãe Amantíssimo / Brahman)"
 categoria = "Seres & Entidades"
 subcategoria = "1.1 Divindades / Criadores"
 status = "verificado"
-fontes = ["B031", "B024", "B001", "B002", "B048", "P2025-03-15", "P2025-02-15", "P2024-11-30", "P2024-11-09", "P2024-09-28", "P2023-06-17", "P2023-04-15", "P2023-04-01", "P2023-04-29", "P2020-04-18", "P2022-03-26", "P2012-02-19"]
+fontes = ["B031", "B024", "B001", "B002", "B048", "P2025-03-15", "P2025-02-15", "P2024-11-30", "P2024-11-09", "P2024-09-28", "P2023-06-17", "P2023-04-15", "P2023-04-01", "P2023-04-29", "P2020-04-18", "P2022-03-26", "P2012-02-19", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA"]
 via = "P6-evidência"
 confianca_fonte = "alta"
-atualizado = "2026-08-28"
+atualizado = "2026-10-22"
 +++
 # Deidade (Pai-Mãe Amantíssimo / Brahman) — RC-047
 
@@ -54,9 +54,14 @@ A Deidade é o topo da hierarquia ontológica das RC: **Deidade (Pai-Mãe) → D
 ## Seres Associados
 Divindades Co-criadoras (RC-054); Adhy (RC-011); Adhyagia (RC-012).
 
+## Ampliação — STT26-EXPERIENCIA_ESPIRITUAL_ETICA (Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados))
+
+- **[STT26-08 · Deidade (Pai-Mãe Amantíssimo / Brahman)]** «Porque infelizmente o processo histórico aponta para um condicionamento Para uma lavagem cerebral que foi imposta a essa humanidade Desde os seus primórdios E a história nada tem de agradável Mas isso nada tem a ver com Deus Tem a ver com os tais doutores ou os tais deuses Mas isso é outra história que a gente não vai falar aqui O fato é que, segundo o que os amigos espirituais apontam com absoluta tranquilidade, E assim dizendo, estou tentando afirmar que eles afirmam Que nenhum dos seres que aqui na Terra foram tidos como Deus Nenhum deles de fato é esse ser a quem nós poderíamos chamar de Deus A Deidade O único, o verdadeiro, o incognoscível Nem Jesus, nem Jesus Nem Cristo, nem Cristo Nenhum, nenhum Qual o problema desse assunto ser veiculado na Terra?» (U0146 · chars 9852–10617) — Candidata de cotejo; evidência `STT26-08-RC-047-001`, grafia encontrada `Deidade`; decisão por lote `STT26-08: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| STT26-EXPERIENCIA_ESPIRITUAL_ETICA | Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
 | P2012-02-19 | Xadrez Cósmico de Brahma, Vishnu e Shiva (palestra) | — | transcrição automatizada; citação |
 | P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra) | — | transcrição automatizada; citação |
 | Painéis Emergentes... (B031) | Glossário de Termos | p. 127 (aprox.) | verbete "Deidade" |

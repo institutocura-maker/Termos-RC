@@ -5,10 +5,10 @@ nome = "Agentes da Vida Universal"
 categoria = "Seres & Entidades"
 subcategoria = "1.8 Consciências coletivas / Logos"
 status = "verificado"
-fontes = ["B031", "B024", "B001", "B002", "B014", "B005", "P2020-04-04"]
+fontes = ["B031", "B024", "B001", "B002", "B014", "B005", "P2020-04-04", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA"]
 via = "P6-evidência"
 confianca_fonte = "alta"
-atualizado = "2026-08-12"
+atualizado = "2026-10-22"
 +++
 # Agentes da Vida Universal — RC-148
 
@@ -50,9 +50,14 @@ Termo-título da obra primária *A Epopeia dos Agentes da Vida Universal* (B024,
 ## Seres Associados
 Anjos clones (RC-019); Demos (RC-049); Biodemos (RC-036); Fenvans (RC-064); Seres Terrenos (RC-099).
 
+## Ampliação — STT26-EXPERIENCIA_ESPIRITUAL_ETICA (Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados))
+
+- **[STT26-11 · Agentes da Vida Universal]** «Olá, vamos falar um pouco sobre o livro A Epopeia dos Agentes da Vida Universal. Esse livro nasceu a partir de uma série de registros e anotações que nós fomos fazendo em torno de um entendimento que até então não havia surgido em outros livros produzidos no âmbito da cultura humana.» (U10483 · chars 1552201–1552485) — Candidata de cotejo; evidência `STT26-11-RC-148-001`, grafia encontrada `Agentes da Vida Universal`; decisão por lote `STT26-11: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| STT26-EXPERIENCIA_ESPIRITUAL_ETICA | Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
 | A Epopeia dos Agentes da Vida Universal (B024) | Sinopse; caps. 15, 16, 17 | pp. 5, 109–123 (aprox.) | conceito central da obra |
 | Painéis Emergentes... (B031) | Glossário (Seres Extrafísicos etc.) | — | apoio (fonte secundária) |
 

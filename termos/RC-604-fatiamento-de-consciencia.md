@@ -5,10 +5,10 @@ nome = "Fatiamento de Consciência"
 categoria = "Processos & Fenômenos"
 subcategoria = "4.2 Fenômenos espirituais / mediúnicos"
 status = "em análise"
-fontes = ["P2021-12-04", "P2026-07-30", "P2024-05-04", "P2025-10-25", "P2025-02-16", "P2024-11-30", "P2024-07-14", "P2024-03-02", "P2023-05-13", "P2020-04-25", "P2022-03-26", "P2023-12-03", "P2020-04-04"]
+fontes = ["P2021-12-04", "P2026-07-30", "P2024-05-04", "P2025-10-25", "P2025-02-16", "P2024-11-30", "P2024-07-14", "P2024-03-02", "P2023-05-13", "P2020-04-25", "P2022-03-26", "P2023-12-03", "P2020-04-04", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA"]
 via = "P7-conhecimento"
 confianca_fonte = "baixa"
-atualizado = "2026-08-29"
+atualizado = "2026-10-22"
 +++
 # Fatiamento de Consciência — RC-604
 
@@ -50,9 +50,14 @@ A palestra usa o conceito para conectar Adhyprabrajna, Adhymavatana, Brahma, Vis
 | Ganesha (exceção à metamorfose; cabeça de elefante) | RC-756 | ← relaciona-se-a |
 | As Cinco Lentes da Realidade | RC-761 | ← relaciona-se-a |
 
+## Ampliação — STT26-EXPERIENCIA_ESPIRITUAL_ETICA (Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados))
+
+- **[STT26-08 · Fatiamento de Consciência]** «Então, Simone diz, o que é fatiamento de consciência? É a arte que os seres que viviam no paraíso desenvolveram para não sair do paraíso e poder ter partes suas existindo em regiões que não eram mais tão paradisíacas, pois havia a possibilidade de existir e vida fora dos padrões que a perfeição impunha em termos dos conceitos que existiam no paraíso.» (U0985 · chars 76841–77193) — Candidata de cotejo; evidência `STT26-08-RC-604-001`, grafia encontrada `fatiamento de consciência`; decisão por lote `STT26-08: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
+| STT26-EXPERIENCIA_ESPIRITUAL_ETICA | Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | P2020-04-04 | Javé, Sophia e Jesus: a Trindade Jamais Percebida (palestra Q&A) (palestra) | — | transcrição; citação |
 | P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |
 

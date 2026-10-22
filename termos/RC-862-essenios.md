@@ -5,10 +5,10 @@ nome = "Essênios (seita judaica puritana; criadores de João Batista)"
 categoria = "Seres & Entidades"
 subcategoria = "1.6 Figuras humanas (históricas/míticas)"
 status = "verificado"
-fontes = ["P2023-02-11", "P2023-12-25-01"]
+fontes = ["P2023-02-11", "P2023-12-25-01", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA"]
 via = "P6-evidência"
 confianca_fonte = "média"
-atualizado = "2026-09-06"
+atualizado = "2026-10-22"
 +++
 # ESSÊNIOS — RC-862
 
@@ -35,9 +35,14 @@ Materialização autorizada pelo despacho F044 (Anel C, 06/09/2026). O termo já
 - João Batista — RC-944;
 - Jesus — RC-072.
 
+## Ampliação — STT26-EXPERIENCIA_ESPIRITUAL_ETICA (Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados))
+
+- **[STT26-08 · Essênios (seita judaica puritana; criadores de João Batista)]** «Então, quando alguém começa a ficar desse jeito, é melhor ela comer vidro, chiclete, pedra e areia, é melhor ela encher o corpo dela de besteiras e voltar a ter uma mente que não julgue ninguém. Esse foi o grande problema entre os essênios e Jesus.» (U1339 · chars 145603–145851) — Candidata de cotejo; evidência `STT26-08-RC-862-001`, grafia encontrada `essênios`; decisão por lote `STT26-08: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
+| STT26-EXPERIENCIA_ESPIRITUAL_ETICA | Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | P2023-02-11 | (obra/palestra) | — |
 | P2023-12-25-01 | Aula 01 — Adolescência e a Juventude de Jesus | transcrição |
 

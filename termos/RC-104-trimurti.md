@@ -1,14 +1,14 @@
 +++
-# frontmatter curatorial (Onda 2.1 piloto) — fonte: registro-mestre
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
 codigo = "RC-104"
 nome = "Trimurti"
 categoria = "Genealogias & Linhagens"
 subcategoria = "6.1 Famílias divinas / Celestiais"
 status = "verificado"
-fontes = ["B031", "B035", "B001", "B033", "B014", "B044", "B024", "B021", "B022", "B023", "B060", "B037", "B017", "B018", "B039", "B020", "P2022-12-17", "P2021-12-04", "P2025-03-15", "P2025-02-16", "P2024-11-30", "P2024-11-09", "P2024-08-03", "P2024-07-14", "P2024-03-02", "P2023-12-02", "P2025-11-29", "P2023-11-19", "P2023-09-09", "P2023-06-03", "P2023-04-15", "P2023-04-01", "P2023-04-29", "P2020-05-09", "P2022-09-24", "P2023-04-01b", "P2024-11-03", "P2025-02-22", "P2021-05-15", "P2023-10-14", "P2022-03-26", "P2023-12-03", "P2022-05-07", "P2024-06-16", "P2022-11-26", "P2022-11-20", "P2022-10-01", "P2022-09-25", "P2022-09-18", "P2022-07-16", "P2026-03-21", "P2021-06-26", "P2022-11-19", "P2025-12-14", "P2023-12-25-01"]
+fontes = ["B031", "B035", "B001", "B033", "B014", "B044", "B024", "B021", "B022", "B023", "B060", "B037", "B017", "B018", "B039", "B020", "P2022-12-17", "P2021-12-04", "P2025-03-15", "P2025-02-16", "P2024-11-30", "P2024-11-09", "P2024-08-03", "P2024-07-14", "P2024-03-02", "P2023-12-02", "P2025-11-29", "P2023-11-19", "P2023-09-09", "P2023-06-03", "P2023-04-15", "P2023-04-01", "P2023-04-29", "P2020-05-09", "P2022-09-24", "P2023-04-01b", "P2024-11-03", "P2025-02-22", "P2021-05-15", "P2023-10-14", "P2022-03-26", "P2023-12-03", "P2022-05-07", "P2024-06-16", "P2022-11-26", "P2022-11-20", "P2022-10-01", "P2022-09-25", "P2022-09-18", "P2022-07-16", "P2026-03-21", "P2021-06-26", "P2022-11-19", "P2025-12-14", "P2023-12-25-01", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA"]
 via = "P6-evidência"
 confianca_fonte = "alta"
-atualizado = "2026-08-29"
+atualizado = "2026-10-22"
 +++
 # Trimurti — RC-104
 
@@ -76,9 +76,14 @@ Tríade hindu de princípios ontológicos de gênese (Brahma, Vishnu, Shiva) —
 | Midana (o código original primordial semeado no universo biológico) | RC-871 | associado |
 | Sinarquia Cósmica (o governo dos sábios) | RC-873 | associado |
 
+## Ampliação — STT26-EXPERIENCIA_ESPIRITUAL_ETICA (Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados))
+
+- **[STT26-10 · Trimurti]** «Ela sumiu, ela me disse que ia passar um tempo fazendo um estágio de alguma coisa, não sei exatamente aonde, e em tempos mais recentes, quando já nessa nova formatação dos livros que eu estou produzindo, já conhecendo o problema da Trimurti, a questão de Brahma ou mesmo das mitologias, e Pandora terminou se aproximando, insistindo para escrever.» (U6373 · chars 933248–933595) — Candidata de cotejo; evidência `STT26-10-RC-104-001`, grafia encontrada `Trimurti`; decisão por lote `STT26-10: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
+| STT26-EXPERIENCIA_ESPIRITUAL_ETICA | Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |
 
 ## Citações-chave
