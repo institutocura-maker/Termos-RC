@@ -183,10 +183,12 @@ def montar_fonte(codigo_eixo: str, lotes: list[dict], fontes: list[dict]) -> tup
 def alterar_ciclo(ciclo_toml: Path, codigo_eixo: str, lotes: list[dict]) -> None:
     """Especializa somente os campos que o Motor reconhece no andaime oficial."""
     texto = ciclo_toml.read_text(encoding="utf-8")
-    titulo = "Eixo STT26 — Anunnaki, genética e humanidade (derivados normalizados)"
+    nome_eixo = lotes[0]["tema_primario"]["nome"]
+    quantidade_fontes = sum(len(lote["fontes"]) for lote in lotes)
+    titulo = f"Eixo STT26 — {nome_eixo} (derivados normalizados)"
     cobertura = (
         f"CICLO DE EIXO — {codigo_eixo}; lotes "
-        f"{', '.join(lote['lote_id'] for lote in lotes)}; 31 transcrições STT normalizadas "
+        f"{', '.join(lote['lote_id'] for lote in lotes)}; {quantidade_fontes} transcrições STT normalizadas "
         "derivadas, consolidadas com manifesto de origem e seladas no original.txt. "
         "Abertura autorizada pela Curadoria após despacho integral. O ciclo inicia sem pérolas: "
         "cada eventual aspa deverá ser cortada do derivado consolidado e passar nos portões do Motor."
