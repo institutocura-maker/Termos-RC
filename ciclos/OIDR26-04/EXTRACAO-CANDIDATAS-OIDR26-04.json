@@ -1,0 +1,444 @@
+{
+  "artefato": "Extração literal e DOSSIE-RAG para avaliação curatorial",
+  "ciclo": "OIDR26-04",
+  "eixo": "EXPERIENCIA_ESPIRITUAL_ETICA",
+  "executor": "ferramentas/extrair_dossie_oidr26_01.py",
+  "autorizacao_extracao": "onda_incremental_dry_run/triagem_curatorial/DESPACHO-CURATORIAL-POUSO-OIDR26-03-E-EXTRACAO-OIDR26-04-2026-10-22.json",
+  "sha256_autorizacao_extracao": "c41632a3622ffc59de9e747d20703f9a03fda150fd1f70210e0e05a464d79e40",
+  "fontes": {
+    "candidatos": "onda_incremental_dry_run/triagem_curatorial/OIDR26-04/candidatos-cotejo.json",
+    "despacho": "onda_incremental_dry_run/triagem_curatorial/OIDR26-04/DESPACHO-CURATORIAL-TEMPLATE.json"
+  },
+  "sha256_fontes": {
+    "candidatos": "87369e44d58258dd024a5b0866e597f10c33958a58d802ac07a6133e504e27bb",
+    "despacho": "656d7147a8790c6f9ba0bdf9d875ab8db8c437368412ce4addfc7a25ca0b824a"
+  },
+  "candidatas": 25,
+  "status": "candidata",
+  "perolas_aprovadas": 0,
+  "exportacao_rag": 0,
+  "materializacao": 0,
+  "mutacao_base": 0,
+  "recortes": [
+    {
+      "codigo": "RC-072",
+      "nome": "Jesus",
+      "evidencia_id": "OIDR26-04-RC-072-001",
+      "ingresso_id": "P4",
+      "unidade_triagem": "U00056",
+      "unidade_motor": "U0070",
+      "grafia": "Jesus",
+      "ancora_literal": "ento que mata todo mundo de nome de Deus, de Jesus, de Maomé, seja o que for",
+      "aspa": "A coisa é tão complexa que só quando a Revolução Francesa, final do século XVIII, explode, pregando igualdade, liberdade, fraternidade, blá, blá, blá, blá, blá, blá, blá, blá, ali ocorreu que a separação do Estado laico da igreja, a igreja não ia mais mandar ninguém morrer, para alguém ser condenado à morte, ou o Estado, com suas leis, definiam isso como Estados Unidos tem pena de morte, blá, blá, blá, ou essa pessoa será apenada de acordo com o que a lei de um país assim ordena, e não de acordo com a loucura de um papa, de um bispo, de um padre, de um irmão, de algum pretense iluminado, de um momento que mata todo mundo de nome de Deus, de Jesus, de Maomé, seja o que for.",
+      "chars": [
+        8304,
+        8986
+      ],
+      "sha256_aspa": "30d409afd13d71d9f5277d0e3b0e6e7762189d51d5a16e0c40ab11358dfdf665"
+    },
+    {
+      "codigo": "RC-166",
+      "nome": "Mentalma",
+      "evidencia_id": "OIDR26-04-RC-166-001",
+      "ingresso_id": "P4",
+      "unidade_triagem": "U00216",
+      "unidade_motor": "U0230",
+      "grafia": "Mentalma",
+      "ancora_literal": "n, aqui está o link, né? Em agosto vai ter o Mentalma dirigido no Rio de Janeiro, aqui está o link",
+      "aspa": "Então, pessoal, lembrando aqui que o curso, quem quiser fazer o curso de yoga, com a participação de Jean Valin, aqui está o link, né? Em agosto vai ter o Mentalma dirigido no Rio de Janeiro, aqui está o link para as últimas vagas, Mas no YouTube, no dia 14, aqui no canal, tem uma live bem especial, que é o Jornada do Mentalma.",
+      "chars": [
+        42467,
+        42797
+      ],
+      "sha256_aspa": "c247679cbe3a48940a13f4372a106172877fed61217b14f594d6b805940caac5"
+    },
+    {
+      "codigo": "RC-239",
+      "nome": "Hitler (figura histórica no RC)",
+      "evidencia_id": "OIDR26-04-RC-239-001",
+      "ingresso_id": "P6",
+      "unidade_triagem": "U00152",
+      "unidade_motor": "U0819",
+      "grafia": "Hitler",
+      "ancora_literal": "Hitler sozinho, quando você conta a quantidade de c",
+      "aspa": "Hitler sozinho, quando você conta a quantidade de cadáveres produzidos pela movimentação da Gestapo, do nazismo, aí você vê, Hitler sozinho não faria isso.",
+      "chars": [
+        142551,
+        142706
+      ],
+      "sha256_aspa": "626387e6e4ee84b56cbe2217a76c26e0bf970cbc1827ba34af8967ce829ceb6f"
+    },
+    {
+      "codigo": "RC-393",
+      "nome": "Enéas (espírito comunicante)",
+      "evidencia_id": "OIDR26-04-RC-393-001",
+      "ingresso_id": "P4",
+      "unidade_triagem": "U00042",
+      "unidade_motor": "U0056",
+      "grafia": "Enéas",
+      "ancora_literal": "que o nosso irmão espiritual, o nome dele é Enéas, não é um espírito conhecido, é alguém que s",
+      "aspa": "É um tema um bocado complexo, mas eu entendi o que o nosso irmão espiritual, o nome dele é Enéas, não é um espírito conhecido, é alguém que sempre me suporta, acompanha a vibratória ao longo desses anos e ele nunca foi alguém que ao longo de suas vidas o seu nome ficou registrado dessa ou daquela maneira, segundo ele a sua atuação discreta, que é a melhor que se pode ter mesmo ao longo da eternidade ele fez e faz um grande observador e ele é um grande observador também das coisas do mundo espiritual pelo que tenho aprendido com ele ao longo desses 35 anos de convivência vamos dizer, amigável, mediúnica e ao longo desses tempos eu tenho refletido sobre uma outra coisa que nós conversamos e outras tantas que ele não conversa comigo mas que eu fico pensando e anos depois, quando eu passo uns cinco anos pensando num assunto, aí ele diz, olha, é sobre isso aí que você tem pensado bastante, eu acho isso, eu acho aquilo.",
+      "chars": [
+        3505,
+        4432
+      ],
+      "sha256_aspa": "622a41260b0ef76aafafb03f34fc4bf34294352541bdc3b7b2b2acf48191994b"
+    },
+    {
+      "codigo": "RC-344",
+      "nome": "Transição Planetária",
+      "evidencia_id": "OIDR26-04-RC-344-001",
+      "ingresso_id": "P4",
+      "unidade_triagem": "U00220",
+      "unidade_motor": "U0234",
+      "grafia": "transição planetária",
+      "ancora_literal": "dia 13, palestra, você está preparado para a transição planetária? Em Florianópolis definimos o dia 28, mais u",
+      "aspa": "E tu, dia 13, palestra, você está preparado para a transição planetária? Em Florianópolis definimos o dia 28, mais um encontro lá em Florianópolis, vai ser diálogos com o Jean Valin, aqui está o link.",
+      "chars": [
+        43129,
+        43329
+      ],
+      "sha256_aspa": "7d89ab7a195d6425b75ec027ad8d50ee06a21eef959e18f66175fee64b19afdf"
+    },
+    {
+      "codigo": "RC-623",
+      "nome": "Corpo Átmico",
+      "evidencia_id": "OIDR26-04-RC-623-001",
+      "ingresso_id": "P5",
+      "unidade_triagem": "U00291",
+      "unidade_motor": "U0606",
+      "grafia": "corpo átmico",
+      "ancora_literal": "Quando os espíritos disseram que aqui era o corpo átmico, a alma, só que a alma, para poder, estando",
+      "aspa": "Quando os espíritos disseram que aqui era o corpo átmico, a alma, só que a alma, para poder, estando no paraíso 100% perfeito, perceber isso do desdobramento do paraíso, ela não conseguiu tomar consciência dessa sensação diferente que se sente para além das fronteiras, o paraíso 100% perfeito.",
+      "chars": [
+        108383,
+        108678
+      ],
+      "sha256_aspa": "fa498beb7b419d2803143cb0a7396fd75286cd324335bd4c8393c0130646c650"
+    },
+    {
+      "codigo": "RC-843",
+      "nome": "Eru Ilúvatar (criador no Silmarillion)",
+      "evidencia_id": "OIDR26-04-RC-843-001",
+      "ingresso_id": "P5",
+      "unidade_triagem": "U00201",
+      "unidade_motor": "U0516",
+      "grafia": "Eru Ilúvatar",
+      "ancora_literal": "o a sua linguagem élfica que ele criou seria Eru Ilúvatar. Como é que o nosso amigo Tolkien conta que",
+      "aspa": "Não sei se vocês sabem, mas a mitologia que existia na Grã-Bretanha, as invasões dos anglos e dos saxões destruíram tudo, a própria mitologia nórdica, celta, escaparam, mas a ilha da Inglaterra ficou sem mitologia, devido às invasões e Tolkien, em pleno século XIX resolveu criar uma mitologia para a língua inglesa da Inglaterra vamos assim dizer e ele então saiu colhendo materiais de outras mitologias e o Silmarillion descreve um criador que ele chama de Ilúvatar e usando a sua linguagem élfica que ele criou seria Eru Ilúvatar. Como é que o nosso amigo Tolkien conta que Eru Ilúvatar criou essa matrix, ou seja, esse universo?",
+      "chars": [
+        90640,
+        91272
+      ],
+      "sha256_aspa": "cb44f2174212d1602d21ee1c81a130916e39881b98813ae424f905530e9802f6"
+    },
+    {
+      "codigo": "RC-037",
+      "nome": "Brahma (Brajna)",
+      "evidencia_id": "OIDR26-04-RC-037-001",
+      "ingresso_id": "P4",
+      "unidade_triagem": "U00226",
+      "unidade_motor": "U0240",
+      "grafia": "Brahma",
+      "ancora_literal": "lhem bem o que eu estou dizendo esses seres, Brahma, Vishnu, Shiva descendentes de Vishnu, Shiva",
+      "aspa": "mas como essas reflexões como essas notícias essas informações iriam desagradar e perturbar isso e aquilo isso e a lógica desses seres não são os espíritos são seres do universo vizinho como muito bem disse a Juscelia são os arcontes os deuses, não estamos falando aqui de espíritos esses seres eles vivem dessa forma medíocre, eles não têm vida própria porque faliram há muito tempo e eles vivem o que as espécies que eles criam conseguem vivenciar olhem bem o que eu estou dizendo esses seres, Brahma, Vishnu, Shiva descendentes de Vishnu, Shiva, Brahma seja lá o nome que a gente quiser dar ou a ótica mitológica que a gente observar esses seres todos Eles são mantidos vivos a partir dos efluvios das espécies que eles criam E a vida deles, como não tem maiores atrativos devido à demência que os marca Essa demência só permite a eles viver de apostas e dos desdobramentos que isso provoca No lento processo de evolução que mal eles conseguem produzir de acordo com os limites impostos pelo grau de demência que lhes marca.",
+      "chars": [
+        44018,
+        45046
+      ],
+      "sha256_aspa": "311967f782c592aada7b2c643046e1e5e46062abd05a5ca8f4e003388aa86648"
+    },
+    {
+      "codigo": "RC-094",
+      "nome": "Revelação Cósmica (conceito)",
+      "evidencia_id": "OIDR26-04-RC-094-001",
+      "ingresso_id": "P4",
+      "unidade_triagem": "U00196",
+      "unidade_motor": "U0210",
+      "grafia": "revelação cósmica",
+      "ancora_literal": "re todas essas premissas que você colocou. A revelação cósmica, se isso aqui que a gente está fazendo pode",
+      "aspa": "Não, Rogério, você pode estar totalmente enganado sobre todas essas premissas que você colocou. A revelação cósmica, se isso aqui que a gente está fazendo pode ser assim chamado, ela não tem o pressuposto de estar certa.",
+      "chars": [
+        37266,
+        37487
+      ],
+      "sha256_aspa": "385e5de7ffe4e359b0cb046bb6d2b50f75fa54dea8f9352bbdb8d2cdadd43c3f"
+    },
+    {
+      "codigo": "RC-102",
+      "nome": "Shiva (Savna)",
+      "evidencia_id": "OIDR26-04-RC-102-001",
+      "ingresso_id": "P4",
+      "unidade_triagem": "U00226",
+      "unidade_motor": "U0240",
+      "grafia": "Shiva",
+      "ancora_literal": "u estou dizendo esses seres, Brahma, Vishnu, Shiva descendentes de Vishnu, Shiva, Brahma seja l",
+      "aspa": "mas como essas reflexões como essas notícias essas informações iriam desagradar e perturbar isso e aquilo isso e a lógica desses seres não são os espíritos são seres do universo vizinho como muito bem disse a Juscelia são os arcontes os deuses, não estamos falando aqui de espíritos esses seres eles vivem dessa forma medíocre, eles não têm vida própria porque faliram há muito tempo e eles vivem o que as espécies que eles criam conseguem vivenciar olhem bem o que eu estou dizendo esses seres, Brahma, Vishnu, Shiva descendentes de Vishnu, Shiva, Brahma seja lá o nome que a gente quiser dar ou a ótica mitológica que a gente observar esses seres todos Eles são mantidos vivos a partir dos efluvios das espécies que eles criam E a vida deles, como não tem maiores atrativos devido à demência que os marca Essa demência só permite a eles viver de apostas e dos desdobramentos que isso provoca No lento processo de evolução que mal eles conseguem produzir de acordo com os limites impostos pelo grau de demência que lhes marca.",
+      "chars": [
+        44018,
+        45046
+      ],
+      "sha256_aspa": "311967f782c592aada7b2c643046e1e5e46062abd05a5ca8f4e003388aa86648"
+    },
+    {
+      "codigo": "RC-135",
+      "nome": "Vishnu (Mavatna)",
+      "evidencia_id": "OIDR26-04-RC-135-001",
+      "ingresso_id": "P4",
+      "unidade_triagem": "U00226",
+      "unidade_motor": "U0240",
+      "grafia": "Vishnu",
+      "ancora_literal": "o que eu estou dizendo esses seres, Brahma, Vishnu, Shiva descendentes de Vishnu, Shiva, Brahma",
+      "aspa": "mas como essas reflexões como essas notícias essas informações iriam desagradar e perturbar isso e aquilo isso e a lógica desses seres não são os espíritos são seres do universo vizinho como muito bem disse a Juscelia são os arcontes os deuses, não estamos falando aqui de espíritos esses seres eles vivem dessa forma medíocre, eles não têm vida própria porque faliram há muito tempo e eles vivem o que as espécies que eles criam conseguem vivenciar olhem bem o que eu estou dizendo esses seres, Brahma, Vishnu, Shiva descendentes de Vishnu, Shiva, Brahma seja lá o nome que a gente quiser dar ou a ótica mitológica que a gente observar esses seres todos Eles são mantidos vivos a partir dos efluvios das espécies que eles criam E a vida deles, como não tem maiores atrativos devido à demência que os marca Essa demência só permite a eles viver de apostas e dos desdobramentos que isso provoca No lento processo de evolução que mal eles conseguem produzir de acordo com os limites impostos pelo grau de demência que lhes marca.",
+      "chars": [
+        44018,
+        45046
+      ],
+      "sha256_aspa": "311967f782c592aada7b2c643046e1e5e46062abd05a5ca8f4e003388aa86648"
+    },
+    {
+      "codigo": "RC-414",
+      "nome": "Krishna (avatar de Vishnu/Shiva)",
+      "evidencia_id": "OIDR26-04-RC-414-001",
+      "ingresso_id": "P6",
+      "unidade_triagem": "U00318",
+      "unidade_motor": "U0985",
+      "grafia": "Krishna",
+      "ancora_literal": "búdico e manásico, é a tríade imortal a qual Krishna se referia no Uttara Gita. Bhagavad Gita é u",
+      "aspa": "E esses espíritos, e o espírito aí é esse composto pelo corpo átmico, búdico e manásico, é a tríade imortal a qual Krishna se referia no Uttara Gita. Bhagavad Gita é um livro, Uttara Gita é um outro livro.",
+      "chars": [
+        170454,
+        170659
+      ],
+      "sha256_aspa": "7016b2870918cbc70824efd6dc905235d142a83f082e01935964f218b6a3eb0f"
+    },
+    {
+      "codigo": "RC-553",
+      "nome": "Eu Profundo (nível espiritual do Eu)",
+      "evidencia_id": "OIDR26-04-RC-553-001",
+      "ingresso_id": "P6",
+      "unidade_triagem": "U00328",
+      "unidade_motor": "U0995",
+      "grafia": "eu profundo",
+      "ancora_literal": "A sensação que sai desse eu cerebral é a do eu profundo do ser humano. Aí, quando esse corpo morre",
+      "aspa": "A sensação que sai desse eu cerebral é a do eu profundo do ser humano. Aí, quando esse corpo morre, o espírito recolhe esse eu aqui elegante, que controlou o eu intracraniano de Rogério.",
+      "chars": [
+        172543,
+        172729
+      ],
+      "sha256_aspa": "c8a95958f4a753d5d185394539cdd332b2704ef6a19413130b634335ca1faaa1"
+    },
+    {
+      "codigo": "RC-585",
+      "nome": "Vyasa",
+      "evidencia_id": "OIDR26-04-RC-585-001",
+      "ingresso_id": "P5",
+      "unidade_triagem": "U00157",
+      "unidade_motor": "U0472",
+      "grafia": "Vyasa",
+      "ancora_literal": "rega. Só que por essa mesma época, na Índia, Vyasa estava produzindo os quatro Vedas, os oito K",
+      "aspa": "Então, essa vinculação do conhecimento, desse grande conhecimento surgido numa época muito antiga, e talvez o nosso amigo Gerdjev seja se referindo a coisas que ocorreram há 4, 5 mil anos antes de Cristo, ou seja, coisas que aconteceram há 6, 7 mil anos atrás, 5 mil anos talvez, isso tudo foi depois colocado no âmbito da cultura grega. Só que por essa mesma época, na Índia, Vyasa estava produzindo os quatro Vedas, os oito Kuranas, o Mahabharata, o Srimad Bhagavatam, Vyasa e outros rishis.",
+      "chars": [
+        82726,
+        83219
+      ],
+      "sha256_aspa": "3d176b69a5430298da024c1f2e12cdbe57c671a61cbd7095087ae5c8e1d398a3"
+    },
+    {
+      "codigo": "RC-624",
+      "nome": "Corpo Búdico",
+      "evidencia_id": "OIDR26-04-RC-624-001",
+      "ingresso_id": "P5",
+      "unidade_triagem": "U00291",
+      "unidade_motor": "U0606",
+      "grafia": "corpo búdico",
+      "ancora_literal": "espiritual, e assim a alma investindo desse corpo búdico pode sentir o que a alma sozinha sem esse co",
+      "aspa": "A alma teve que se investir de uma, desculpe a redundância, vestimenta búdica espiritual, e assim a alma investindo desse corpo búdico pode sentir o que a alma sozinha sem esse corpo não pode.",
+      "chars": [
+        108678,
+        108871
+      ],
+      "sha256_aspa": "ffbe9d9f2a83759f53a36899aaaffd0e56ec6b3829569f8b49b8e97b53ce975e"
+    },
+    {
+      "codigo": "RC-704",
+      "nome": "Corpo Sutil Reencarnante",
+      "evidencia_id": "OIDR26-04-RC-704-001",
+      "ingresso_id": "P4",
+      "unidade_triagem": "U00100",
+      "unidade_motor": "U0114",
+      "grafia": "corpo sutil reencarnante",
+      "ancora_literal": "seja, de um programa quântico instalado num corpo sutil reencarnante desse espírito que estava vinculado a um cor",
+      "aspa": "é assim que acontece em casos de boa morte do corpo o eu continua existindo mas o corpo está lá na terra e agora esse espírito está nessa cidade espiritual o espírito já estava lá o que houve foi só a transferência da sensação do eu ou seja, de um programa quântico instalado num corpo sutil reencarnante desse espírito que estava vinculado a um corpo o físico que acabou de morrer.",
+      "chars": [
+        19191,
+        19574
+      ],
+      "sha256_aspa": "48b10eed10007d8baa119541d9489def02df01f8ba70cb0998e8affcb5ef944a"
+    },
+    {
+      "codigo": "RC-845",
+      "nome": "Nada Brahma (tudo é som)",
+      "evidencia_id": "OIDR26-04-RC-845-001",
+      "ingresso_id": "P5",
+      "unidade_triagem": "U00197",
+      "unidade_motor": "U0512",
+      "grafia": "Nada Brahma",
+      "ancora_literal": "livros que eu mais estudei na vida chama-se Nada Brahma. É um nome sânscrito que nada brahma signifi",
+      "aspa": "Um dos livros que eu mais estudei na vida chama-se Nada Brahma. É um nome sânscrito que nada brahma significa tudo é só.",
+      "chars": [
+        90258,
+        90378
+      ],
+      "sha256_aspa": "122a4d8b0cfadbcbeb099df997c9981de28961b054c14b9968c6f568f357dba0"
+    },
+    {
+      "codigo": "RC-942",
+      "nome": "Messias",
+      "evidencia_id": "OIDR26-04-RC-942-001",
+      "ingresso_id": "P4",
+      "unidade_triagem": "U00272",
+      "unidade_motor": "U0286",
+      "grafia": "Messias",
+      "ancora_literal": "Só que quando Jesus descumpriu os termos do Messias que ele deveria ser, na ordem desses seres",
+      "aspa": "Só que quando Jesus descumpriu os termos do Messias que ele deveria ser, na ordem desses seres, ele descumpriu os termos do rito de passagem de Sofia.",
+      "chars": [
+        54533,
+        54683
+      ],
+      "sha256_aspa": "f4dae8342a856a81a98a54ab7d5d757fba70311df1e22108ddfda4f2aafbf34a"
+    },
+    {
+      "codigo": "RC-024",
+      "nome": "Anunnaki",
+      "evidencia_id": "OIDR26-04-RC-024-001",
+      "ingresso_id": "P5",
+      "unidade_triagem": "U00159",
+      "unidade_motor": "U0474",
+      "grafia": "Anunnaki",
+      "ancora_literal": "visita de quem? De Thoth, ou seja, desse ser Anunnaki, que habitava o Egito e outras regiões ali p",
+      "aspa": "Um belo dia ele recebeu a visita de quem? De Thoth, ou seja, desse ser Anunnaki, que habitava o Egito e outras regiões ali próximas, notadamente as cidades da Suméria.",
+      "chars": [
+        84056,
+        84224
+      ],
+      "sha256_aspa": "0cb655271434ae0ea0415dfa3e16fd9650a2742167a8e21e8dc6f23757612958"
+    },
+    {
+      "codigo": "RC-039",
+      "nome": "Capela (Sistema)",
+      "evidencia_id": "OIDR26-04-RC-039-001",
+      "ingresso_id": "P6",
+      "unidade_triagem": "U00162",
+      "unidade_motor": "U0829",
+      "grafia": "Capela",
+      "ancora_literal": "lexandre, e ali um homem chamado Marciano de Capela resolveu fazer um estudo do cosmos e criou o",
+      "aspa": "Nesse período, essa coisa chamada iluminismo surgiu na Grécia, no âmbito do poderio do Império Macedônico, produzido por Alexandre, e ali um homem chamado Marciano de Capela resolveu fazer um estudo do cosmos e criou ou dividiu o entendimento do cosmos em sete matérias.",
+      "chars": [
+        144317,
+        144587
+      ],
+      "sha256_aspa": "389e51b198fc79d5d1d06cecf811b3ff9cbc5e98d5f34751785c0831c19e53ea"
+    },
+    {
+      "codigo": "RC-059",
+      "nome": "Espiritualidade Superior",
+      "evidencia_id": "OIDR26-04-RC-059-001",
+      "ingresso_id": "P4",
+      "unidade_triagem": "U00050",
+      "unidade_motor": "U0064",
+      "grafia": "espiritualidade superior",
+      "ancora_literal": "do o século, que a gente chama de paraíso, a espiritualidade superior",
+      "aspa": "Os últimos, ou seja, os criados diante dessa extrema confusão que surgiu com a criação indesejável na qual existimos, estes ainda não tiveram tempo espiritual, o conjunto de vidas neles ainda não permitiu que houvesse uma espécie, sim, de evolução da condução espiritual de como os espíritos vivem na erraticidade, ou seja, na espiritualidade, não aquela que existe de todo o século, que a gente chama de paraíso, a espiritualidade superior.",
+      "chars": [
+        5916,
+        6358
+      ],
+      "sha256_aspa": "8bc8b74de64ecd4e5fdfe2998c0633be61d11e562ffb1df0baeb0347447b60f5"
+    },
+    {
+      "codigo": "RC-144",
+      "nome": "Zeitgeist",
+      "evidencia_id": "OIDR26-04-RC-144-001",
+      "ingresso_id": "P4",
+      "unidade_triagem": "U00056",
+      "unidade_motor": "U0070",
+      "grafia": "zeitgeist",
+      "ancora_literal": "E a época dita, entre aspas, o seu zeitgeist, ou seja, o espírito de cada época, e os hum",
+      "aspa": "E a época dita, entre aspas, o seu zeitgeist, ou seja, o espírito de cada época, e os humanos vivem de acordo com esses limites, com essas possibilidades, do jeito que hoje, nós, ano 2025, dia 30 de julho de 2025, nós vivemos com o que contemporaneamente nós conseguimos perceber como sendo aquilo que a gente acredita que é possível, que não é.",
+      "chars": [
+        7460,
+        7805
+      ],
+      "sha256_aspa": "902797edab2183f7d0b26c5fb9c54b1c0946abfd49eedda9eca231ac3e769ca3"
+    },
+    {
+      "codigo": "RC-162",
+      "nome": "Elétrons (agente básico da vida universal)",
+      "evidencia_id": "OIDR26-04-RC-162-001",
+      "ingresso_id": "P4",
+      "unidade_triagem": "U00096",
+      "unidade_motor": "U0110",
+      "grafia": "elétrons",
+      "ancora_literal": "ão da vida, essa matrix que a gente vive, os elétrons, os micróbios, tudo vai escalando complexida",
+      "aspa": "Dever frente às necessidades Que o fato dele ser um espírito inoculado Com um código doentio Esse código provoca no espírito Doenças que refletem as doenças do Criador Que precisam ser curadas Mas o Criador faliu Então ele tem que se valer de criaturas Ferramentas que assumam a doença dele E os espíritos têm que pegar essa doença E repassar para cada novo corpo que nasce dentro de um ambiente onde o código podre do Criador é o tijolo de criação da vida, essa matrix que a gente vive, os elétrons, os micróbios, tudo vai escalando complexidade, mas sempre representando a doença original.",
+      "chars": [
+        17475,
+        18067
+      ],
+      "sha256_aspa": "f79252006d811450a6d11433307b9c2111a9d9620ea306a4516b96cac813cc7d"
+    },
+    {
+      "codigo": "RC-306",
+      "nome": "Apolo",
+      "evidencia_id": "OIDR26-04-RC-306-001",
+      "ingresso_id": "P6",
+      "unidade_triagem": "U00182",
+      "unidade_motor": "U0849",
+      "grafia": "Apolo",
+      "ancora_literal": "nome próprio que traz em si o nome de Deus, Apolo. Teodoro é um nome que traz Teo, ou seja, é",
+      "aspa": "Então, digamos, Apolônio é um tipo de nome próprio que traz em si o nome de Deus, Apolo. Teodoro é um nome que traz Teo, ou seja, é um tipo de ciência que tem essa bifurcação aí.",
+      "chars": [
+        147207,
+        147386
+      ],
+      "sha256_aspa": "79e977ed9b258a7567f82027b5c09c66ce716a44b70572e63b23b21e0ec2bdbf"
+    },
+    {
+      "codigo": "RC-335",
+      "nome": "Lavagem Cerebral (condicionamento)",
+      "evidencia_id": "OIDR26-04-RC-335-001",
+      "ingresso_id": "P4",
+      "unidade_triagem": "U00094",
+      "unidade_motor": "U0108",
+      "grafia": "lavagem cerebral",
+      "ancora_literal": "dentidade dele para tentar se defender dessa lavagem cerebral, Se o espírito é simples e ignorante, você m",
+      "aspa": "Um espírito, se ele já não vem com a identidade dele para tentar se defender dessa lavagem cerebral, Se o espírito é simples e ignorante, você marca nele a sua função existencial.",
+      "chars": [
+        17123,
+        17303
+      ],
+      "sha256_aspa": "03924a9fbdc35c50d62aef892ee0c8cfd3f64bfde0db558cd04e4292cb96758f"
+    }
+  ],
+  "produtos": {
+    "pacote": {
+      "caminho": "ciclos/OIDR26-04/pacote_OIDR26-04.txt",
+      "sha256": "a5092da5887528b00bedc8108d346190a6d28df8c954f170cf26d2910018d2c9"
+    },
+    "ancorario": {
+      "caminho": "ciclos/OIDR26-04/ancorario_OIDR26-04.json",
+      "sha256": "761b894aa9d48787b4aa8f6c91eacfaf5c138e852fda5d57b105cceb766299e6"
+    },
+    "dossie": {
+      "caminho": "ciclos/OIDR26-04/DOSSIE-RAG_OIDR26-04.md",
+      "sha256": "b7e45e67b9e5d8ec4f63b20fd2a8e474afa6941cedfba3d01d1ca7812ed16cb7"
+    }
+  },
+  "portoes_executados_pos_extracao": [
+    "A",
+    "B",
+    "D"
+  ],
+  "portao_c": "validado no ambiente vazio pré-cotejo; requer paridade ficha-pacote somente após autorização de pouso"
+}
