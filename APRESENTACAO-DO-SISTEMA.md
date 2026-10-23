@@ -97,7 +97,7 @@ verificar_verbetes.py           →  confere verbatim byte-a-byte + existência 
 2. **Duplicação de status** cadastro↔ficha (§5): sincronia por convenção+script, não por construção.
 3. **Rebuilds totais** a cada leva: tempo e risco crescem com a base (hoje ~1 min; e com 3.000 termos?).
 4. **Binários versionados:** `.xlsx`/`.docx` (até 1,7 MB) commitados a cada leva — inchaço do histórico git.
-5. **Raiz com ~40 documentos** acumulados: memória valiosa, mas sem índice curatorial claro (há `INDICE-ARQUIVOS-RAIZ-2026-08-31.md`, possivelmente desatualizado).
+5. **Raiz com ~40 documentos** acumulados: memória valiosa, mas sem índice curatorial claro (há `docs/historico/INDICE-ARQUIVOS-RAIZ-2026-08-31.md`, possivelmente desatualizado).
 6. **Scripts legados** `_*.py` em `ferramentas/` (uso único, históricos): manter, arquivar ou remover?
 7. **Ausência de testes automatizados:** a validação é o verificador + asserts em scripts avulsos; sem suite de regressão.
 8. **`backups/` e áreas históricas:** política de retenção indefinida.

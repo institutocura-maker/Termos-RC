@@ -22,7 +22,7 @@ Você é o **arquivista-curador digital** da **Base Terminológica RC** (Revela�
 |---|---|---|---|
 | 1 | `../admin/logs/STATUS-HANDOFF-2026-08-31.md` | 10.6 KB | Onde estamos HOJE (HEAD, RC, pastas, regras) |
 | 2 | `PROMPT-PROXIMA-SESSAO.md` | 57.2 KB | Persona + rito da esteira leve (NUNCA substitua por `PROMPT-INICIAL-DO-AGENTE.md` — ele é histórico) |
-| 3 | `INDICE-ARQUIVOS-RAIZ-2026-08-31.md` | 10.0 KB | Ponteiro "qual arquivo da raiz usar pra quê" |
+| 3 | `../docs/historico/INDICE-ARQUIVOS-RAIZ-2026-08-31.md` | 10.0 KB | Ponteiro "qual arquivo da raiz usar pra quê" |
 | 4 | `GLOSSARIO-CANONICO-2026-08-31.md` | 51.1 KB | 524 RC + 80 pastas + grafias canônicas (Sophia, Yel Luzbel, Brahma, Aya, Aye) |
 | 5 | `../admin/logs/DESPACHO-DA-ESTEIRA-LEVE-2026-08-29.md` | 8.9 KB | A norma vigente (ato do curador) |
 
@@ -121,7 +121,7 @@ A **Quarentena Metodológica** é o que permite falar do sensível sem corromper
 
 ### 8. Quando o curador pedir para AUDITAR:
 
-1. Usar `INDICE-ARQUIVOS-RAIZ-2026-08-31.md` para localizar o arquivo certo.
+1. Usar `../docs/historico/INDICE-ARQUIVOS-RAIZ-2026-08-31.md` para localizar o arquivo certo.
 2. Para arquivos grandes (`indice-mestre.md` 181KB, `../admin/logs/CONTINUIDADE.md` 343KB), ler por **chunk** com `grep -A 30` ou `sed -n '100,150p'`.
 3. Reportar achados em tabela markdown (cabeçalhos, contagens, divergências).
 4. Commit atômico por bloco crítico.
@@ -162,11 +162,11 @@ grep -A 30 "Ciclo — P2023-12-03" ../admin/logs/CONTINUIDADE.md
 |---|---|---|---|
 | 1 | `../admin/logs/STATUS-HANDOFF-2026-08-31.md` | 10.6 KB | ✅ SIM |
 | 2 | `PROMPT-PROXIMA-SESSAO.md` | 57.2 KB | ✅ SIM |
-| 3 | `INDICE-ARQUIVOS-RAIZ-2026-08-31.md` | 10.0 KB | ✅ SIM (mapa dos outros) |
+| 3 | `../docs/historico/INDICE-ARQUIVOS-RAIZ-2026-08-31.md` | 10.0 KB | ✅ SIM (mapa dos outros) |
 | 4 | `GLOSSARIO-CANONICO-2026-08-31.md` | 51.1 KB | ⚪ Recomendado |
 | 5 | `../admin/logs/DESPACHO-DA-ESTEIRA-LEVE-2026-08-29.md` | 8.9 KB | ⚪ Recomendado |
 | 6 | `INDICE-PALESTRAS.md` | 45.9 KB | ⚪ Opcional |
-| 7 | `INVENTARIO-COMPACTO-2026-08-31.md` | 9.7 KB | ⚪ Opcional |
+| 7 | `../docs/historico/INVENTARIO-COMPACTO-2026-08-31.md` | 9.7 KB | ⚪ Opcional |
 
 > **Total mínimo:** ~78 KB (cabe em qualquer chat).
 > **Total recomendado:** ~138 KB (cabe em janela de 200K).
@@ -178,7 +178,7 @@ grep -A 30 "Ciclo — P2023-12-03" ../admin/logs/CONTINUIDADE.md
 
 > "Continue o projeto Base Terminológica RC.
 >
-> 1. Leia os 5 arquivos anexos nesta ordem: `../admin/logs/STATUS-HANDOFF-2026-08-31.md`, `PROMPT-PROXIMA-SESSAO.md`, `INDICE-ARQUIVOS-RAIZ-2026-08-31.md`, `GLOSSARIO-CANONICO-2026-08-31.md`, `../admin/logs/DESPACHO-DA-ESTEIRA-LEVE-2026-08-29.md`.
+> 1. Leia os 5 arquivos anexos nesta ordem: `../admin/logs/STATUS-HANDOFF-2026-08-31.md`, `PROMPT-PROXIMA-SESSAO.md`, `../docs/historico/INDICE-ARQUIVOS-RAIZ-2026-08-31.md`, `GLOSSARIO-CANONICO-2026-08-31.md`, `../admin/logs/DESPACHO-DA-ESTEIRA-LEVE-2026-08-29.md`.
 >
 > 2. Valide o estado:
 >    - `git log --oneline -5` → HEAD deve ser `0540328`
@@ -199,7 +199,7 @@ grep -A 30 "Ciclo — P2023-12-03" ../admin/logs/CONTINUIDADE.md
 >    - Sempre preservar `original.txt` byte a byte
 >    - Sempre rodar `gerar_pacotes.py` ao final
 >
-> 6. **Use os ponteiros do `INDICE-ARQUIVOS-RAIZ-2026-08-31.md`** para localizar QUAL arquivo ler quando precisar de algo específico (NÃO tente ler tudo de uma vez)."
+> 6. **Use os ponteiros do `../docs/historico/INDICE-ARQUIVOS-RAIZ-2026-08-31.md`** para localizar QUAL arquivo ler quando precisar de algo específico (NÃO tente ler tudo de uma vez)."
 
 ---
 

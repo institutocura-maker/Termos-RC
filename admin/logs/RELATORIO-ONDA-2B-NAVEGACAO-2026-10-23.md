@@ -16,7 +16,7 @@ Os três movimentos foram feitos por `git mv`; a raiz passa de 21 para **18 arqu
 
 ## Índice de ponteiros requalificado
 
-`INDICE-ARQUIVOS-RAIZ-2026-08-31.md` foi preservado na raiz como ponte de compatibilidade, mas agora declara explicitamente que:
+`../../docs/historico/INDICE-ARQUIVOS-RAIZ-2026-08-31.md` foi preservado na raiz como ponte de compatibilidade, mas agora declara explicitamente que:
 
 - é um **índice histórico de handoff**, e não inventário literal da raiz;
 - as contagens, tamanhos, HEADs e recomendações datadas permanecem como registro histórico;
@@ -29,7 +29,7 @@ As entradas históricas do próprio índice foram atualizadas para os novos cami
 
 Foram verificadas **12 ocorrências** relativas aos três documentos movidos. Os consumidores abaixo foram atualizados quando a mudança de diretório alterava o caminho relativo; `diagnostico/medir_processo.py` foi conferido como já correto por passar a compartilhar o diretório do diagnóstico:
 
-- `INDICE-ARQUIVOS-RAIZ-2026-08-31.md`;
+- `../../docs/historico/INDICE-ARQUIVOS-RAIZ-2026-08-31.md`;
 - `POLITICA-QUARENTENA-ENTRE-ECOSSISTEMAS.md`;
 - `admin/logs/CONTINUIDADE.md`;
 - `admin/logs/DESPACHO-DA-ESTEIRA-LEVE-2026-08-29.md`;

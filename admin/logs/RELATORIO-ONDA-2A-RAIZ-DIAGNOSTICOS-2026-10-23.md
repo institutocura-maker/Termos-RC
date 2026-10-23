@@ -24,7 +24,7 @@ A raiz passa de 27 para **21 arquivos de projeto** (desconsiderados `.gitignore`
 Foram atualizadas 9 ocorrências em quatro consumidores, sempre com caminho relativo ao arquivo consumidor:
 
 - `APRESENTACAO-DO-SISTEMA.md`
-- `INDICE-ARQUIVOS-RAIZ-2026-08-31.md`
+- `../../docs/historico/INDICE-ARQUIVOS-RAIZ-2026-08-31.md`
 - `admin/logs/DESPACHO-ESTEIRA-CONSOLIDACAO-2026-09-03.md`
 - `livros/README.md`
 

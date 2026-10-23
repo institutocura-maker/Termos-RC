@@ -10,7 +10,7 @@
 
 ## 📍 Navegação estrutural atual (23/10/2026)
 
-Este arquivo permanece na raiz como **ponte de compatibilidade histórica**, mas não é mais um inventário literal da raiz. As rotas explícitas abaixo e nas tabelas foram mantidas no layout atual; contagens, tamanhos, HEADs e recomendações datadas preservam o seu valor histórico, não substituem o estado vigente.
+Este arquivo está em `docs/historico/` como **ponte de compatibilidade histórica**, mas não é mais um inventário literal da raiz. Consulte também `../README.md` para a navegação estrutural atual. As rotas explícitas abaixo e nas tabelas foram mantidas no layout atual; contagens, tamanhos, HEADs e recomendações datadas preservam o seu valor histórico, não substituem o estado vigente.
 
 | Camada | Papel atual | Entradas principais |
 |---|---|---|

@@ -70,6 +70,7 @@ A("- `base-terminologica.xlsx` / `base-terminologica-leitura.docx` — espelhos 
 A("- `APRESENTACAO-DO-SISTEMA.md` — arquitetura para auditores")
 A("- `diagnostico/PLANO-APRIMORAMENTO-KB-2026-09-11.md` — ondas 0–3")
 A("- `admin/logs/STATE-MIRROR.md` — estado operacional entre sessões")
+A("- `docs/README.md` — mapa da documentação e regras de localização")
 A("- `01-ficha-modelo.md`, `02-vocabulario-controlado.md`, "
   "`convencoes-editoriais-rc.md` — padrões editoriais")
 A("")
