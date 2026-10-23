@@ -299,4 +299,4 @@ fechado). A partir daqui, o foco migra para o **garimpo via esteira leve**.
 - `GLOSSARIO-CANONICO-2026-08-31.md` — grafias canônicas × rejeitadas.
 - `convencoes-editoriais-rc.md` — convenções (incl. §13, normalização terminológica).
 - `ciclos/P2023-12-03/RELATORIO-CICLO-LEVE.md` — prova de conceito do rito leve.
-- `DIAGNOSTICO-DO-PROCESSO-2026-08-29.md` — parecer que motivou a reforma.
+- `../../diagnostico/DIAGNOSTICO-DO-PROCESSO-2026-08-29.md` — parecer que motivou a reforma.

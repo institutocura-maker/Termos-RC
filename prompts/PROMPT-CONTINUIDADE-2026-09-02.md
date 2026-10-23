@@ -288,7 +288,7 @@ Termos-RC/
 Se houver dúvidas ou problemas, consulte:
 - `../admin/logs/STATUS-HANDOFF-2026-09-02.md` — resumo da sessão
 - `../admin/logs/CONTINUIDADE.md` — histórico completo (412 KB)
-- `DIAGNOSTICO-DO-PROCESSO-2026-08-29.md` — diagnóstico do processo
+- `../diagnostico/DIAGNOSTICO-DO-PROCESSO-2026-08-29.md` — diagnóstico do processo
 - `../admin/logs/DESPACHO-DA-ESTEIRA-LEVE-2026-08-29.md` — procedimento da esteira leve
 
 ---

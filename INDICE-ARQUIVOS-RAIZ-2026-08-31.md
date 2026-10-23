@@ -1,10 +1,25 @@
-# 📑 ÍNDICE DE ARQUIVOS DA RAIZ — Termos-RC (2026-08-31)
+# 📑 ÍNDICE HISTÓRICO DE PONTEIROS — Termos-RC (origem: 2026-08-31)
 
-> **Documento de handoff — Tabela de ponteiros.** Este é o **"mapa do mapa"**: para cada arquivo `.md`/`.json` da raiz, diz **o que é, quando foi atualizado, e quando o agente novo precisa lê-lo**. Use Ctrl+F no nome do arquivo.
+> **Documento de handoff — tabela de ponteiros.** Este foi o **"mapa do mapa"** dos arquivos então concentrados na raiz: registra o que eram, quando foram atualizados e quando um agente novo precisava lê-los. Use Ctrl+F no nome do arquivo.
 >
-> **Curado por:** Arena.ai Agent Mode (MiniMax-M3) em 2026-08-31.
-> **Branch:** `arena/01a06429-termos-rc` · **HEAD:** `5ba7d54` · **Working tree:** LIMPO (atualizado 2026-09-04).
+> **Curado originalmente por:** Arena.ai Agent Mode (MiniMax-M3) em 2026-08-31.
+> **Contexto histórico:** branch `arena/01a06429-termos-rc` · HEAD `5ba7d54` · working tree limpo em 2026-09-04.
 > **Cabe em qualquer janela de contexto** (~10KB).
+
+---
+
+## 📍 Navegação estrutural atual (23/10/2026)
+
+Este arquivo permanece na raiz como **ponte de compatibilidade histórica**, mas não é mais um inventário literal da raiz. As rotas explícitas abaixo e nas tabelas foram mantidas no layout atual; contagens, tamanhos, HEADs e recomendações datadas preservam o seu valor histórico, não substituem o estado vigente.
+
+| Camada | Papel atual | Entradas principais |
+|---|---|---|
+| **Raiz — interfaces estáveis** | entrada humana, padrões editoriais e espelhos gerados | `README.md`, `indice-mestre.md`, `APRESENTACAO-DO-SISTEMA.md`, `01-ficha-modelo.md`, `02-vocabulario-controlado.md`, `convencoes-editoriais-rc.md`, `GLOSSARIO-CANONICO-2026-08-31.md`, guia e índices operacionais remanescentes |
+| `prompts/` | instruções e bootstrap de sessão | `PROMPT-PROXIMA-SESSAO.md` e demais prompts |
+| `admin/logs/` | handoffs, despachos, checkpoints e espelho operacional | `STATE-MIRROR.md`, `CONTINUIDADE.md`, `STATUS-HANDOFF-*` |
+| `diagnostico/` | diagnósticos, auditorias, avaliações, relatórios e verificações | inclusive os diagnósticos históricos migrados nas ondas 2A e 2B |
+| `docs/historico/` | documentação datada preservada como referência | preparação temática P2020-04-25 |
+| `docs/planos/` | planos estratégicos que não são interface da raiz | plano do corpus de treinamento da IA Local |
 
 ---
 
@@ -23,9 +38,9 @@
 
 ---
 
-## 🟢 GRUPO 1 — VIGENTES (ler quando relevante)
+## 🟢 GRUPO 1 — APONTADOS COMO VIGENTES NO HANDOFF (ler quando relevante)
 
-Estes arquivos são a **fonte de verdade operacional** em 2026-08-31.
+Estes arquivos eram a **fonte de verdade operacional em 2026-08-31**. Para o estado atual, comece pela navegação estrutural acima e por `README.md` / `admin/logs/STATE-MIRROR.md`.
 
 | # | Arquivo | Tam | Última atualização | Quando ler |
 |---|---|---|---|---|
@@ -39,7 +54,7 @@ Estes arquivos são a **fonte de verdade operacional** em 2026-08-31.
 | 7 | **`INDICE-PALESTRAS.md`** | 45.9 KB · 51 linhas | 2026-08-31 (T+0:15) | Quando precisa do estado individual de cada uma das 51 palestras/livros |
 | 8 | **`INVENTARIO-APOSTILAS.json`** | 12.5 KB | 2026-08-31 (T+0:01) | Fonte canônica estruturada (JSON) das 80 pastas CONCLUIDAS |
 | 9 | **`INVENTARIO-COMPACTO-2026-08-31.md`** | 9.7 KB · 139 linhas | 2026-08-31 (T+0:10) | Versão legível (markdown) do `INVENTARIO-APOSTILAS.json` |
-| 10 | **`DIAGNOSTICO-DO-PROCESSO-2026-08-29.md`** | 37.6 KB · 299 linhas | 2026-08-29 (AGENTE 14) | Análise técnica do rito (causas do custo, garantias, reforma) |
+| 10 | **`diagnostico/DIAGNOSTICO-DO-PROCESSO-2026-08-29.md`** | 37.6 KB · 299 linhas | 2026-08-29 (AGENTE 14) | Análise técnica do rito (causas do custo, garantias, reforma) |
 | 11 | **`admin/logs/DESPACHO-DA-ESTEIRA-LEVE-2026-08-29.md`** | 8.9 KB | 2026-08-29 (Curador) | A NORMA vigente da esteira leve (ato normativo do curador) |
 | 12 | **`admin/logs/REGISTRO-ANOMALIA-REBASE-2026-08-31.md`** | 6.6 KB | 2026-08-31 (T+0:50) | Anomalia de rebase documentada HOJE (3 órfãs recuperadas) |
 | 13 | **`README.md`** | 8.6 KB · 137 linhas | 2026-08-17 | Visão geral + comandos de validação (primeira leitura) |
@@ -67,7 +82,7 @@ Estes arquivos se **declaram** desatualizados. Não usar para tomar decisão, ap
 | 24 | **`prompts/PROMPT-INICIAL-DO-AGENTE.md`** | 4.6 KB | **DECLARA-SE HISTÓRICO** (linha 3): "⚠️ não usar — prevalece `prompts/PROMPT-PROXIMA-SESSAO.md`" |
 | 25 | **`admin/logs/CHECKPOINT-SESSAO-2026-08-21.md`** | 12.3 KB | **DECLARA-SE VELHO** (linha 3): "Contagens 1849 relações / HEAD e91552d estão **velhas**. Vigente em 2026-08-25: 777 termos / 1.852 relações · HEAD `3fa96c1`" |
 | 26 | **`admin/logs/STATUS-RESTAURACAO.md`** | 5.4 KB | Status de uma restauração antiga (provavelmente 2026-08-17) |
-| 27 | **`PREPARACAO-DE-TEMA-2020-04-25-YEL-LUZBEL.md`** | 9.3 KB | Preparação específica de uma palestra antiga (não usar como template) |
+| 27 | **`docs/historico/PREPARACAO-DE-TEMA-2020-04-25-YEL-LUZBEL.md`** | 9.3 KB | Preparação específica de uma palestra antiga (não usar como template) |
 
 ---
 
@@ -111,7 +126,7 @@ Estes arquivos **estouram qualquer janela de contexto razoável** e devem ser li
 7. `admin/logs/DESPACHO-DA-ESTEIRA-LEVE-2026-08-29.md` (8.9 KB) — norma da esteira
 
 ### 3ª Turn (se for auditar/reformar — +200KB)
-8. `DIAGNOSTICO-DO-PROCESSO-2026-08-29.md` (37.6 KB) — análise do rito
+8. `diagnostico/DIAGNOSTICO-DO-PROCESSO-2026-08-29.md` (37.6 KB) — análise do rito
 9. `GUIA-MESTRE-RC-APOSTILA-v1.1.md` (29.4 KB) — DNA
 10. `admin/logs/CONTINUIDADE.md` (343.6 KB) — **POR CHUNK** (usar `grep -A 30 "Ciclo — P????-??-??"`)
 
@@ -159,7 +174,8 @@ A raiz também tem:
 - **2026-08-31 (T+0:21)**: Criado em resposta à pergunta do curador sobre `admin/logs/CONTINUIDADE.md` e `prompts/PROMPT-INICIAL-DO-AGENTE.md`. Decideuse criar 1 doc de ponteiros (em vez de mini-resumo de cada um) para preservar o conteúdo original intacto.
 - **2026-09-04 (1)**: Registrado `POLITICA-QUARENTENA-ENTRE-ECOSSISTEMAS.md` como item 20 do GRUPO 1 (VIGENTES); GRUPO 2 renumerado (20–23 → 21–24); total MD/JSON 25 → 26. Branch `arena/01a06429-termos-rc` · HEAD `22eaeef`.
 - **2026-09-04 (2)**: Registrados itens 21–23 do GRUPO 1 (governança da Esteira de Consolidação de 09-03: `DESPACHO-ESTEIRA-CONSOLIDACAO`, `DIAGNOSTICO-BASELINE-KB`, `ANALISE-PROPOSTA-CONSOLIDACAO-E-22-GLOSSARIO`) + nota sobre `consolidacoes/` (F022/F029). GRUPO 2 renumerado (21–24 → 24–27); total MD/JSON 26 → 29. HEAD `5ba7d54`.
-- Commit: (ver `git log` — a fazer)
+- **2026-10-23**: refatoração progressiva da raiz. Este arquivo passa a ser tratado como índice histórico de compatibilidade; as instruções de sessão estão em `prompts/`, registros em `admin/logs/`, diagnósticos em `diagnostico/` e planos em `docs/planos/`. A camada canônica e os diretórios consolidados permaneceram intocados.
+- Commit: ver `git log`.
 
 ---
 

@@ -115,7 +115,7 @@ Após isso: `git status` limpo, HEAD = remoto = `e280bbd`.
 
 - `CONTINUIDADE.md` — histórico completo de todos os ciclos (412 KB)
 - `DESPACHO-DA-ESTEIRA-LEVE-2026-08-29.md` — procedimento da esteira leve
-- `DIAGNOSTICO-DO-PROCESSO-2026-08-29.md` — diagnóstico do processo
+- `../../diagnostico/DIAGNOSTICO-DO-PROCESSO-2026-08-29.md` — diagnóstico do processo
 - `GLOSSARIO-CANONICO-2026-08-31.md` — glossário canônico
 - `GUIA-MESTRE-RC-APOSTILA-v1.1.md` — guia mestre
 

@@ -2,7 +2,7 @@
 
 **Registro normativo da reforma do processo.** Este arquivo é a peça que os próximos ~150
 ciclos leem antes de tocar em qualquer coisa. O parecer crítico do agente está em
-`DIAGNOSTICO-DO-PROCESSO-2026-08-29.md`; a prova de que a reforma funciona, em
+`../../diagnostico/DIAGNOSTICO-DO-PROCESSO-2026-08-29.md`; a prova de que a reforma funciona, em
 `ciclos/P2023-12-03/RELATORIO-CICLO-LEVE.md`.
 
 > ⚠️ **Aviso sobre verbatim, declarado e não resolvido por conta própria.** O despacho foi
