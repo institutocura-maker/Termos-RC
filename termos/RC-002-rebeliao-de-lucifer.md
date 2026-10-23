@@ -5,10 +5,10 @@ nome = "Rebelião de Lúcifer"
 categoria = "Eventos & Eras"
 subcategoria = "7.1 Guerras / Rebeliões / Conflitos"
 status = "verificado"
-fontes = ["B031", "B003", "B026", "B057", "B058", "B017", "P2024-03-03", "P2024-04-13", "P2023-04-01", "P2020-09-19", "P2021-07-24", "P2023-04-01b", "P2024-11-03", "P2025-02-22", "P2020-04-25", "P2022-03-26", "P2023-12-03", "P2022-05-07", "P2023-08-27", "P2023-02-11", "P2021-02-28", "STT26-EXTRATERRESTRES_TECNOLOGIA", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA", "STT26-MITOLOGIAS_REINTEGRACAO", "STT26-SOCIEDADE_CONTEMPORANEA"]
+fontes = ["B031", "B003", "B026", "B057", "B058", "B017", "P2024-03-03", "P2024-04-13", "P2023-04-01", "P2020-09-19", "P2021-07-24", "P2023-04-01b", "P2024-11-03", "P2025-02-22", "P2020-04-25", "P2022-03-26", "P2023-12-03", "P2022-05-07", "P2023-08-27", "P2023-02-11", "P2021-02-28", "STT26-EXTRATERRESTRES_TECNOLOGIA", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA", "STT26-MITOLOGIAS_REINTEGRACAO", "STT26-SOCIEDADE_CONTEMPORANEA", "OIDR26-01"]
 via = "P6-evidência"
 confianca_fonte = "alta"
-atualizado = "2026-10-22"
+atualizado = "2026-10-23"
 +++
 # Rebelião de Lúcifer — RC-002
 
@@ -72,9 +72,15 @@ Yel Luzbel (RC-078); Len Mion (RC-074); Família Yel (RC-136); Família Val (RC-
 - **[STT26-22 · Rebelião de Lúcifer]** «E hoje vamos tentar responder a pergunta do Armando Paulilho Jr. E essa pergunta ele fez após assistir a palestra ao Wyrd Quantica, o Processador Vol e a Rebelião de Lúcifer.» (U8482 · chars 1380412–1380587) — Candidata de cotejo; evidência `STT26-22-RC-002-001`, grafia encontrada `Rebelião de Lúcifer`; decisão por lote `STT26-22: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
 
 
+## Ampliação — OIDR26-01 (Onda incremental dry-run — Anunnaki, genética e humanidade (derivados normalizados))
+
+- **[P1 · Rebelião de Lúcifer]** «E com os Anunnakis não foi diferente. A rebelião de Lúcifer é totalmente biodêmica, mas os desdobramentos dela terminaram envolvendo figuras não biodêmicas, figuras que têm sexualidade, como é o caso dos Anunnakis, figuras de toda uma história meio complexa.» (U0461) — candidata de cotejo ampliado; evidência `OIDR26-01-RC-002-001`, grafia literal `rebelião de Lúcifer`, sem homologação de pérola.
+
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| OIDR26-01 | Onda incremental dry-run — Anunnaki, genética e humanidade (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
 | STT26-SOCIEDADE_CONTEMPORANEA | Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
 | STT26-MITOLOGIAS_REINTEGRACAO | Eixo STT26 — Mitologias, tradições e eixo de reintegração (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
 | STT26-EXPERIENCIA_ESPIRITUAL_ETICA | Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados) (palestra) | — | transcrição automatizada; citação |

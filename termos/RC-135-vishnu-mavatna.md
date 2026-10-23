@@ -5,10 +5,10 @@ nome = "Vishnu (Mavatna)"
 categoria = "Seres & Entidades"
 subcategoria = "1.1 Divindades / Criadores"
 status = "verificado"
-fontes = ["B031", "B024", "B044", "B001", "B033", "B016", "B014", "B020", "B021", "B022", "B051", "B036", "B060", "P2022-12-17", "P2021-12-04", "P2026-07-30", "P2024-05-04", "P2026-04-02", "P2025-03-15", "P2025-02-16", "P2024-11-30", "P2024-11-09", "P2024-08-03", "P2024-07-14", "P2023-04-15", "P2023-04-29", "P2020-05-09", "P2025-02-22", "P2022-05-07", "P2024-06-16", "P2012-02-19", "P2023-12-25-01", "P2020-04-04", "STT26-EXTRATERRESTRES_TECNOLOGIA", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA", "STT26-MITOLOGIAS_REINTEGRACAO", "STT26-SOCIEDADE_CONTEMPORANEA"]
+fontes = ["B031", "B024", "B044", "B001", "B033", "B016", "B014", "B020", "B021", "B022", "B051", "B036", "B060", "P2022-12-17", "P2021-12-04", "P2026-07-30", "P2024-05-04", "P2026-04-02", "P2025-03-15", "P2025-02-16", "P2024-11-30", "P2024-11-09", "P2024-08-03", "P2024-07-14", "P2023-04-15", "P2023-04-29", "P2020-05-09", "P2025-02-22", "P2022-05-07", "P2024-06-16", "P2012-02-19", "P2023-12-25-01", "P2020-04-04", "STT26-EXTRATERRESTRES_TECNOLOGIA", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA", "STT26-MITOLOGIAS_REINTEGRACAO", "STT26-SOCIEDADE_CONTEMPORANEA", "OIDR26-01"]
 via = "P6-evidência"
 confianca_fonte = "alta"
-atualizado = "2026-10-22"
+atualizado = "2026-10-23"
 +++
 # Vishnu (Mavatna) — RC-135
 
@@ -83,9 +83,15 @@ Com isso:
 - **[STT26-19 · Vishnu (Mavatna)]** «A confusão é que o caso do eu, de Javé, desalmado, entre aspas, que ele é, ou ligado de uma forma absolutamente impossível de ser retratado em palavras, com parte do espírito dele, que tem problemas, mas como hoje é administrado pelo ser chamado Jesus, enquanto esse espírito foi somente Vishnu, morre em soro, Sophia, ele não conseguia dar um upgrade nele devido ao fato de ele ter parte dele mesmo com problemas lá atrás devido ao corpo mental ter se apartado, déjà vu.» (U1221 · chars 184228–184700) — Candidata de cotejo; evidência `STT26-19-RC-135-001`, grafia encontrada `Vishnu`; decisão por lote `STT26-19: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
 
 
+## Ampliação — OIDR26-01 (Onda incremental dry-run — Anunnaki, genética e humanidade (derivados normalizados))
+
+- **[P1 · Vishnu (Mavatna)]** «e resolvendo assim a questão de como produzir um avatar humano da linhagem de Vishnu e de Sofia entre os humanos da história da Arca da Aliança que um dia eu vou contar que também tem a ver com essa questão mas vocês nem imaginam em que sentido também é algo que ninguém sabe aqui na Terra e não está escrito em lugar nenhum eles se dedicaram a fazer aquilo no caso dos Anunnakis eles tentaram umas duas ou três alternativas, mas a alternativa que funcionava para Javé, no caso dos Anunnakis, era via o padrão feminino dos Anunnakis.» (U0465) — candidata de cotejo ampliado; evidência `OIDR26-01-RC-135-001`, grafia literal `Vishnu`, sem homologação de pérola.
+
+
 ## Fontes
 | Obra (sigla) | Título | Página | Tipo |
 |---|---|---|---|
+| OIDR26-01 | Onda incremental dry-run — Anunnaki, genética e humanidade (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
 | STT26-SOCIEDADE_CONTEMPORANEA | Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
 | STT26-MITOLOGIAS_REINTEGRACAO | Eixo STT26 — Mitologias, tradições e eixo de reintegração (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
 | STT26-EXPERIENCIA_ESPIRITUAL_ETICA | Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados) (palestra) | — | transcrição automatizada; citação |

@@ -5,10 +5,10 @@ nome = "Brahma (Brajna)"
 categoria = "Seres & Entidades"
 subcategoria = "1.1 Divindades / Criadores"
 status = "verificado"
-fontes = ["B031", "B024", "B044", "B001", "B033", "B013", "B020", "B022", "B060", "B037", "P2022-12-17", "P2026-07-30", "P2025-03-15", "P2025-02-16", "P2025-02-15", "P2024-11-30", "P2024-11-09", "P2024-09-29", "P2024-08-03", "P2024-07-14", "P2025-11-29", "P2023-06-24", "P2023-04-15", "P2023-04-29", "P2021-09-04", "P2022-09-24", "P2024-11-03", "P2025-02-22", "P2023-10-14", "P2022-05-07", "P2024-06-16", "P2012-02-19", "P2022-12-03", "P2022-09-18", "P2022-07-16", "P2021-02-28", "P2021-06-26", "P2022-11-19", "P2025-12-14", "P2023-12-25-01", "STT26-EXTRATERRESTRES_TECNOLOGIA", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA", "STT26-MITOLOGIAS_REINTEGRACAO", "STT26-SOCIEDADE_CONTEMPORANEA"]
+fontes = ["B031", "B024", "B044", "B001", "B033", "B013", "B020", "B022", "B060", "B037", "P2022-12-17", "P2026-07-30", "P2025-03-15", "P2025-02-16", "P2025-02-15", "P2024-11-30", "P2024-11-09", "P2024-09-29", "P2024-08-03", "P2024-07-14", "P2025-11-29", "P2023-06-24", "P2023-04-15", "P2023-04-29", "P2021-09-04", "P2022-09-24", "P2024-11-03", "P2025-02-22", "P2023-10-14", "P2022-05-07", "P2024-06-16", "P2012-02-19", "P2022-12-03", "P2022-09-18", "P2022-07-16", "P2021-02-28", "P2021-06-26", "P2022-11-19", "P2025-12-14", "P2023-12-25-01", "STT26-EXTRATERRESTRES_TECNOLOGIA", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA", "STT26-MITOLOGIAS_REINTEGRACAO", "STT26-SOCIEDADE_CONTEMPORANEA", "OIDR26-01"]
 via = "P6-evidência"
 confianca_fonte = "alta"
-atualizado = "2026-10-22"
+atualizado = "2026-10-23"
 +++
 # Brahma (Brajna) — RC-037
 
@@ -95,9 +95,15 @@ Javé (RC-001); Vishnu (RC-135); Shiva (RC-102); Mohen So (RC-081); Sophia (RC-0
 - **[STT26-19 · Brahma (Brajna)]** «Todos os demais avatares que Vishnu criou foram funcionais, ou seja, resolver certo a função. Quando ele criou Morrenso, junto com Brahma e Shiva, Aí daqui surgiu a criação depois de Sophia e Jesus.» (U1321 · chars 203261–203459) — Candidata de cotejo; evidência `STT26-19-RC-037-001`, grafia encontrada `Brahma`; decisão por lote `STT26-19: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
 
 
+## Ampliação — OIDR26-01 (Onda incremental dry-run — Anunnaki, genética e humanidade (derivados normalizados))
+
+- **[P1 · Brahma (Brajna)]** «Javé pegou essa turma aqui, se apresentou, o nome que deram a ele foi Brahma, então também fracassou aqui. E ele, na altura da Torre de Babel, estava sem nenhuma descendência dele, porque ele tinha jogado fora as duas, e ele queria retomar, e por isso retomou com Abraão, mais na altura da Torre de Babel, já um pouquinho depois.» (U0347) — candidata de cotejo ampliado; evidência `OIDR26-01-RC-037-001`, grafia literal `Brahma`, sem homologação de pérola.
+
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| OIDR26-01 | Onda incremental dry-run — Anunnaki, genética e humanidade (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
 | STT26-SOCIEDADE_CONTEMPORANEA | Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
 | STT26-MITOLOGIAS_REINTEGRACAO | Eixo STT26 — Mitologias, tradições e eixo de reintegração (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
 | STT26-EXPERIENCIA_ESPIRITUAL_ETICA | Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados) (palestra) | — | transcrição automatizada; citação |

@@ -5,10 +5,10 @@ nome = "Viajores"
 categoria = "Termos Específicos"
 subcategoria = "8.5 Outros idiomas / jargão técnico"
 status = "provisório"
-fontes = ["B031", "B015"]
+fontes = ["B031", "B015", "OIDR26-01"]
 via = "P6-evidência"
 confianca_fonte = "média"
-atualizado = "2026-09-13"
+atualizado = "2026-10-23"
 +++
 # Viajores — RC-134
 
@@ -34,10 +34,16 @@ Nome pelo qual os biodemos chamavam os Anunnakis. Na narrativa de B015, «os “
 | Viajores da Rebelião | RC-248 | ← associado-a |
 | Ninmah (Anunnaki geneticista) | RC-461 | associado |
 
+## Ampliação — OIDR26-01 (Onda incremental dry-run — Anunnaki, genética e humanidade (derivados normalizados))
+
+- **[P1 · Viajores]** «O fato é que os Anunnaki já vêm se especiando há um bom tempo. Eles são conhecidos como viajores em outras, exatamente porque eles já não são mais aquilo que na escala de Kardatchev.» (U0277) — candidata de cotejo ampliado; evidência `OIDR26-01-RC-134-001`, grafia literal `viajores`, sem homologação de pérola.
+
+
 ## Fontes
 
 | Obra (sigla) | Título | Página | Tipo |
 |---|---|---|---|
+| OIDR26-01 | Onda incremental dry-run — Anunnaki, genética e humanidade (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
 | B031 | Painéis Emergentes da Revelação Cósmica | p. 151 | livro; citação intra-linha |
 | B015 | O Guardião do Éden | p. 13 | livro; citação intra-linha |
 

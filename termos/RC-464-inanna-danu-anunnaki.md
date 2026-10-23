@@ -5,10 +5,10 @@ nome = "Inanna (= Danu; Anunnaki)"
 categoria = "Seres & Entidades"
 subcategoria = "1.3 Extraterrestres / Raças cósmicas"
 status = "verificado"
-fontes = ["B060", "P2021-05-15", "P2023-12-03"]
+fontes = ["B060", "P2021-05-15", "P2023-12-03", "OIDR26-01"]
 via = "P6-evidência"
 confianca_fonte = "alta"
-atualizado = "2026-08-29"
+atualizado = "2026-10-23"
 +++
 # Inanna (= Danu; Anunnaki) — RC-464
 
@@ -46,9 +46,15 @@ Figura do panteão anunnaki registrada na Base como **Inanna = Danu**: neta de *
 
 Anu (RC-587 — avô e, nesta fonte, amante); Enki (RC-486) e Enlil (RC-487) — os "dois principais filhos de Anu" com quem a fonte contrasta Inana; Anunnakis (RC-024); Biodemos (RC-036) e Hiperbórea (RC-068) — o quadro étnico em que a vinda periódica se dá.
 
+## Ampliação — OIDR26-01 (Onda incremental dry-run — Anunnaki, genética e humanidade (derivados normalizados))
+
+- **[P1 · Inanna (= Danu; Anunnaki)]** «E além disso, Nabu, que era filho de Marduk, neto de Enki, esse é que apoia o mesmo e essas figuras do lado de Enki, a exceção de Nergal, que é o filho que não concordava que o poder viria para o clã deles devia continuar no buco de Enki, essa turma virou um lado X da história e Enlil com o apoio de Nergal que é filho do Enki e mais Nanar, o Tu e o Zuko Karde, que é outro filho dele mas um neto e uma neta cujo nome é Inanna e que ficou conhecida também como Star só essa Anunnaki sozinha ela fez mais confusão do que todos esses Anunnaki machos e no final de toda essa confusão essa figura foi que basicamente ficou com todos os segredos dos Anunnaki na terra devido à confusão que se deu, que envolveu inclusive a tal guerra atômica.» (U0385) — candidata de cotejo ampliado; evidência `OIDR26-01-RC-464-001`, grafia literal `Inanna`, sem homologação de pérola.
+
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo (citação/paráfrase) |
 |---|---|---|---|
+| OIDR26-01 | Onda incremental dry-run — Anunnaki, genética e humanidade (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
 | P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra) | — | transcrição automatizada; citação |
 | P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra) | — | transcrição automatizada; citação |
 | B060 — (obra primária da linhagem anunnaki) | a preencher | — | paráfrase (registro do cadastro; página a conferir) |

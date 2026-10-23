@@ -5,10 +5,10 @@ nome = "Revelação Cósmica (conceito)"
 categoria = "Conceitos Cosmológicos"
 subcategoria = "2.1 Cosmogonia / Criação"
 status = "verificado"
-fontes = ["B031", "B044", "B035", "B013", "B014", "B022", "B023", "B048", "B003", "B005", "B011", "B049", "B043", "B041", "B006", "B050", "B027", "B051", "B034", "B036", "B040", "B052", "B042", "B009", "P2021-12-04", "P2025-10-25", "P2025-06-26", "P2025-02-15", "P2024-11-30", "P2024-11-09", "P2024-07-14", "P2023-12-02", "P2021-03-27", "P2023-10-14", "P2020-04-25", "P2023-12-03", "P2022-07-16", "P2021-06-26", "STT26-EXTRATERRESTRES_TECNOLOGIA", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA", "STT26-MITOLOGIAS_REINTEGRACAO", "STT26-SOCIEDADE_CONTEMPORANEA"]
+fontes = ["B031", "B044", "B035", "B013", "B014", "B022", "B023", "B048", "B003", "B005", "B011", "B049", "B043", "B041", "B006", "B050", "B027", "B051", "B034", "B036", "B040", "B052", "B042", "B009", "P2021-12-04", "P2025-10-25", "P2025-06-26", "P2025-02-15", "P2024-11-30", "P2024-11-09", "P2024-07-14", "P2023-12-02", "P2021-03-27", "P2023-10-14", "P2020-04-25", "P2023-12-03", "P2022-07-16", "P2021-06-26", "STT26-EXTRATERRESTRES_TECNOLOGIA", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA", "STT26-MITOLOGIAS_REINTEGRACAO", "STT26-SOCIEDADE_CONTEMPORANEA", "OIDR26-01"]
 via = "P6-evidência"
 confianca_fonte = "alta"
-atualizado = "2026-10-22"
+atualizado = "2026-10-23"
 +++
 # Revelação Cósmica (conceito) — RC-094
 
@@ -321,3 +321,7 @@ A Revelação Cósmica é o **macroconceito** que engloba todos os demais termos
 ## Ampliação — STT26-SOCIEDADE_CONTEMPORANEA (Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados))
 
 - **[STT26-20 · Revelação Cósmica (conceito)]** «Olá pessoal, boa noite a todos que já estão presentes com nós, eu sou o Gabriel, sou da equipe do Ellam, vou estar conduzindo hoje a live, já deu, já deu, são sete e cinco, vamos começar a chamar aqui os palestrantes que vão estar conosco hoje do nosso evento, segundo encontro nacional da revelação cósmica, que vai acontecer dia 10 e 11.» (U3212 · chars 550093–550432) — Candidata de cotejo; evidência `STT26-20-RC-094-001`, grafia encontrada `revelação cósmica`; decisão por lote `STT26-20: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+## Ampliação — OIDR26-01 (Onda incremental dry-run — Anunnaki, genética e humanidade (derivados normalizados))
+
+- **[P1 · Revelação Cósmica (conceito)]** «Se, hein, quem lia, seja lá quem for à frente do Brasil para ribar, vai fazer algo para ajudar ou atrapalhar, se Sofia decide vir logo ou vai continuar nesse lenga não tem o que fazer é tudo muito esquisito, meu irmão mas assim, somos nós os autores e atores da nossa própria vida somos nós os autores e atrizes da minha própria da nossa própria vida na arquibancada eu não fico eu desço pro palco da vida e ando como posso andar, eu me arrasto como posso e faço isso com uma certa dose de alegria humana, ainda que às vezes me falte até oxigênio seguir adiante mas estamos, como eu disse no início estamos aqui vamos seguir adiante, como der agradeço muito, muito mesmo a todos vocês que me dão força e conexão pra gente continuar a tratar dessas loucuras e vamos ver o que é que nos espera a vida, mas enquanto isso vamos tratar da gente mesmo de produzir o que for possível um beijo, um abraço a todos, o meu muito obrigado, realmente o meu muito obrigado a cada um e a todos vocês e até a próxima oportunidade espero que você tenha gostado do conteúdo do nosso vídeo e se você chegou até aqui significa que você tem interesse em aprender mais ainda sobre a revelação cósmica e todos os painéis que fazem parte desse conhecimento por isso Gostaria de convidar você a conhecer a comunidade Orgum A nossa plataforma e aplicativo de ensino Com milhares de horas de conteúdo sobre os mais diversos tópicos e assuntos É só tocar no link que está na descrição deste vídeo Para conhecer e se juntar a nossa comunidade de estudos sobre a revelação cósmica» (U0525) — candidata de cotejo ampliado; evidência `OIDR26-01-RC-094-001`, grafia literal `revelação cósmica`, sem homologação de pérola.

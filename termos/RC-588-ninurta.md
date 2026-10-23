@@ -5,10 +5,10 @@ nome = "Ninurta"
 categoria = "Seres & Entidades"
 subcategoria = "1.3 Extraterrestres / Raças cósmicas"
 status = "verificado"
-fontes = ["P2022-12-17", "P2021-03-27", "P2023-10-14"]
+fontes = ["P2022-12-17", "P2021-03-27", "P2023-10-14", "OIDR26-01"]
 via = "P6-evidência"
 confianca_fonte = "média"
-atualizado = "2026-08-28"
+atualizado = "2026-10-23"
 +++
 # Ninurta — RC-588
 
@@ -36,9 +36,15 @@ Anunnaki relacionado à localização e ao uso das sete armas atômicas no confl
 ## Seres Associados
 Anunnakis (RC-024); Enlil (deus sumério, par de Enki) (RC-487); Anu (patriarca Anunnaki) (RC-587)
 
+## Ampliação — OIDR26-01 (Onda incremental dry-run — Anunnaki, genética e humanidade (derivados normalizados))
+
+- **[P1 · Ninurta]** «Os dois clãs dos Amunax, o Dienk e o Dienlil, quando Ninurta e Nergal, de outros filhos de Dienlil e Enki, no meio de uma confusão, são autorizados pelo grande conselho dos Amunax a soltar artefato em cima da Península de Sinai, das cidades do Vale de Sidinho, onde estava o Saldão de Gomorra, e como essa confusão chegou e destruiu as cidades sumérias.» (U0243) — candidata de cotejo ampliado; evidência `OIDR26-01-RC-588-001`, grafia literal `Ninurta`, sem homologação de pérola.
+
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
+| OIDR26-01 | Onda incremental dry-run — Anunnaki, genética e humanidade (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
 | P2022-12-17 — O Incompreendido Ano de 2012 e a Falsa Noção do Fim do Mundo | U0819–U0821 | transcrição automatizada; paráfrase e citação |
 

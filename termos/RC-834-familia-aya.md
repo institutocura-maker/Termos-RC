@@ -5,10 +5,10 @@ nome = "Família Aya (Clone de Sophia para Inseminação Artificial de Maria)"
 categoria = "Seres & Entidades"
 subcategoria = "1.5 Decaídos / Exilados / Demônios"
 status = "verificado"
-fontes = ["P2023-12-17", "B031", "P2023-02-11", "P2026-03-21"]
+fontes = ["P2023-12-17", "B031", "P2023-02-11", "P2026-03-21", "OIDR26-01"]
 via = "P6-evidência"
 confianca_fonte = "alta"
-atualizado = "2026-08-31"
+atualizado = "2026-10-23"
 +++
 # Família Aya (Clone de Sophia para Inseminação Artificial de Maria) — RC-834
 
@@ -41,9 +41,15 @@ atualizado = "2026-08-31"
 >
 > Foi criada para corrigir a grafia informal "Aia" que aparecia em algumas palestras (incluindo a P2023-12-17 processada em 2026-08-31), restabelecendo a grafia canônica **"Aya"** que aparece em **RC-009-sophia-cristo-cosmico.md** e em **B031** (livro do autor).
 
+## Ampliação — OIDR26-01 (Onda incremental dry-run — Anunnaki, genética e humanidade (derivados normalizados))
+
+- **[P1 · Família Aya (Clone de Sophia para Inseminação Artificial de Maria)]** «E, do jeito que os anjos de Javé passaram, esses anjos, essas figuras da família Aya e Aya, eles, eu não sei como classificar essa turma, mas todas as dificuldades que Javé teve nesses 13 bilhões de anos, em algum momento quem percebe essas dificuldades são esses anjos, não só da família Aya e Aya, tem outras figuras aí, de outros níveis de decifração matemática que percebem a incongruência de um problema algoritmo de Javé e propõem com outra noção de matemática, resolução para isso ou para aquilo, ainda que eles não interpretem nada do que significam esses números das equações.» (U0461) — candidata de cotejo ampliado; evidência `OIDR26-01-RC-834-001`, grafia literal `família Aya`, sem homologação de pérola.
+
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| OIDR26-01 | Onda incremental dry-run — Anunnaki, genética e humanidade (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
 | P2026-03-21 | Samudra Manthan A Enigmatica Alquimia de Vishnu (palestra) | — | transcrição automatizada; citação |
 | P2023-02-11 | Agente Humano Jesus e os Arcontes (palestra) | — | transcrição automatizada; citação |
 | RC-009 — Sophia (Cristo Cósmico) | — | — | ficha canônica (B031) |

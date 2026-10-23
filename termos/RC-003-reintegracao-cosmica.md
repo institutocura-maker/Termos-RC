@@ -5,10 +5,10 @@ nome = "Reintegração Cósmica"
 categoria = "Conceitos Cosmológicos"
 subcategoria = "2.5 Propósitos / Destinos"
 status = "verificado"
-fontes = ["B031", "B003", "B025", "B026", "B005", "B027", "B042", "B037", "B009", "B017", "P2022-12-17", "P2021-12-04", "P2024-05-04", "P2025-02-16", "P2024-07-13", "P2024-03-02", "P2021-05-15", "P2022-03-26", "P2023-12-03", "P2025-06-14", "P2023-12-25-03", "P2020-04-04", "STT26-MITOLOGIAS_REINTEGRACAO", "STT26-SOCIEDADE_CONTEMPORANEA"]
+fontes = ["B031", "B003", "B025", "B026", "B005", "B027", "B042", "B037", "B009", "B017", "P2022-12-17", "P2021-12-04", "P2024-05-04", "P2025-02-16", "P2024-07-13", "P2024-03-02", "P2021-05-15", "P2022-03-26", "P2023-12-03", "P2025-06-14", "P2023-12-25-03", "P2020-04-04", "STT26-MITOLOGIAS_REINTEGRACAO", "STT26-SOCIEDADE_CONTEMPORANEA", "OIDR26-01"]
 via = "P6-evidência"
 confianca_fonte = "alta"
-atualizado = "2026-10-22"
+atualizado = "2026-10-23"
 +++
 # Reintegração Cósmica — RC-003
 
@@ -68,9 +68,15 @@ Conceito que amarra os três eixos do pensamento de Ellam — cristianismo, espi
 - **[STT26-19 · Reintegração Cósmica]** «E depois de algum esforço do nosso grupo, localizamos Rogério de Almeida Freitas e o trouxemos em novembro, dia 16 de novembro de 1998, para fazer uma palestra no Sindicato dos Químicos na Liberdade. A partir desse momento, a partir daqueles ensinamentos e tudo o que acontecia de um livro chamado Reintegração Cósmica, talvez tenha aqui, não sei, para o pessoal ver.» (U0098 · chars 11396–11764) — Candidata de cotejo; evidência `STT26-19-RC-003-001`, grafia encontrada `Reintegração Cósmica`; decisão por lote `STT26-19: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
 
 
+## Ampliação — OIDR26-01 (Onda incremental dry-run — Anunnaki, genética e humanidade (derivados normalizados))
+
+- **[P1 · Reintegração Cósmica]** «eles pararam de se meter depois que interferiram fortemente no conflito da guerra fria entre Rússia e Estados Unidos e eles derreteram silos de ambos os países eles demonstraram que tinham poder não de ganhar guerra, mas de impedir guerras estúpidas mas ainda assim ninguém sabe se esse poder de impedir guerras estúpidas continua em andamento ou valendo o que eu sei ou imagino saber é que estranhamente eles optaram por fazer um acordo com os Estados Unidos e ocupam um troço embaixo lá, uma das muitas coisas construídas que tem nos Estados Unidos embaixo da Terra mas assim eu não estou querendo dizer com isso que os Estados Unidos, dos países terrestres é o que está mais à frente em termos de contato, conhecimento com seres de fora ainda que Paul Hiller e outros falam que só lá nos Estados Unidos tem quatro raças convivendo em espaços que o governo norte-americano já selecionou e há muito tempo esses seres vivem lá eu não acho que sejam os americanos os russos, na minha opinião é porque a gente não sabe muita coisa porque os russos não tem a divulgação na nossa cultura da mídia que nós temos mas eu suponho que a Rússia a Rússia sempre foi mais mais estratégica ao lidar com essas questões de fora e eu penso que essa turma Anunnaki faria muito mais facilmente acordos com o governo russo ou com o centro de poder russo do que propriamente com os Estados Unidos os Estados Unidos são muito belicosos, os Anunnaki não são mais os Anunnaki estão atrás de tentar ver como é que um planeta que eles achavam que era deles terminou sendo invadido por tanta coisa e no final eles tiveram que largar porque não tinha como deu tudo errado para eles então eles estão tentando fazer parte de um possível conserto pós reintegração cósmica mas eles não tem poder bélico para coisa alguma e penso que essa esquisitice ao que o nosso irmão se referiu na pergunta essa estupidez mesclada a uma ordem grande de cretinismo, de frieza, infelizmente ainda está em curso.» (U0515) — candidata de cotejo ampliado; evidência `OIDR26-01-RC-003-001`, grafia literal `reintegração cósmica`, sem homologação de pérola.
+
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
+| OIDR26-01 | Onda incremental dry-run — Anunnaki, genética e humanidade (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | STT26-SOCIEDADE_CONTEMPORANEA | Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | STT26-MITOLOGIAS_REINTEGRACAO | Eixo STT26 — Mitologias, tradições e eixo de reintegração (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | P2020-04-04 | Javé, Sophia e Jesus: a Trindade Jamais Percebida (palestra Q&A) (palestra) | — | transcrição; citação |

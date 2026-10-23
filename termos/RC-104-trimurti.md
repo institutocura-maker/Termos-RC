@@ -5,10 +5,10 @@ nome = "Trimurti"
 categoria = "Genealogias & Linhagens"
 subcategoria = "6.1 Famílias divinas / Celestiais"
 status = "verificado"
-fontes = ["B031", "B035", "B001", "B033", "B014", "B044", "B024", "B021", "B022", "B023", "B060", "B037", "B017", "B018", "B039", "B020", "P2022-12-17", "P2021-12-04", "P2025-03-15", "P2025-02-16", "P2024-11-30", "P2024-11-09", "P2024-08-03", "P2024-07-14", "P2024-03-02", "P2023-12-02", "P2025-11-29", "P2023-11-19", "P2023-09-09", "P2023-06-03", "P2023-04-15", "P2023-04-01", "P2023-04-29", "P2020-05-09", "P2022-09-24", "P2023-04-01b", "P2024-11-03", "P2025-02-22", "P2021-05-15", "P2023-10-14", "P2022-03-26", "P2023-12-03", "P2022-05-07", "P2024-06-16", "P2022-11-26", "P2022-11-20", "P2022-10-01", "P2022-09-25", "P2022-09-18", "P2022-07-16", "P2026-03-21", "P2021-06-26", "P2022-11-19", "P2025-12-14", "P2023-12-25-01", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA", "STT26-MITOLOGIAS_REINTEGRACAO", "STT26-SOCIEDADE_CONTEMPORANEA"]
+fontes = ["B031", "B035", "B001", "B033", "B014", "B044", "B024", "B021", "B022", "B023", "B060", "B037", "B017", "B018", "B039", "B020", "P2022-12-17", "P2021-12-04", "P2025-03-15", "P2025-02-16", "P2024-11-30", "P2024-11-09", "P2024-08-03", "P2024-07-14", "P2024-03-02", "P2023-12-02", "P2025-11-29", "P2023-11-19", "P2023-09-09", "P2023-06-03", "P2023-04-15", "P2023-04-01", "P2023-04-29", "P2020-05-09", "P2022-09-24", "P2023-04-01b", "P2024-11-03", "P2025-02-22", "P2021-05-15", "P2023-10-14", "P2022-03-26", "P2023-12-03", "P2022-05-07", "P2024-06-16", "P2022-11-26", "P2022-11-20", "P2022-10-01", "P2022-09-25", "P2022-09-18", "P2022-07-16", "P2026-03-21", "P2021-06-26", "P2022-11-19", "P2025-12-14", "P2023-12-25-01", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA", "STT26-MITOLOGIAS_REINTEGRACAO", "STT26-SOCIEDADE_CONTEMPORANEA", "OIDR26-01"]
 via = "P6-evidência"
 confianca_fonte = "alta"
-atualizado = "2026-10-22"
+atualizado = "2026-10-23"
 +++
 # Trimurti — RC-104
 
@@ -90,9 +90,15 @@ Tríade hindu de princípios ontológicos de gênese (Brahma, Vishnu, Shiva) —
 - **[STT26-19 · Trimurti]** «Desfeita a Trimurti, elas se tornarão conhecidas das gerações do futuro pela sua atuação na criação e defesa da humanidade?» (U1337 · chars 205878–206001) — Candidata de cotejo; evidência `STT26-19-RC-104-001`, grafia encontrada `Trimurti`; decisão por lote `STT26-19: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
 
 
+## Ampliação — OIDR26-01 (Onda incremental dry-run — Anunnaki, genética e humanidade (derivados normalizados))
+
+- **[P1 · Trimurti]** «Então era um período em que o conglomerado de realidades, a Trimurti, brigava com a geração de Zeus, que havia derrotado os titãs e que havia posto a própria Trimurti de castigo, vamos assim dizer.» (U0223) — candidata de cotejo ampliado; evidência `OIDR26-01-RC-104-001`, grafia literal `Trimurti`, sem homologação de pérola.
+
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
+| OIDR26-01 | Onda incremental dry-run — Anunnaki, genética e humanidade (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | STT26-SOCIEDADE_CONTEMPORANEA | Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | STT26-MITOLOGIAS_REINTEGRACAO | Eixo STT26 — Mitologias, tradições e eixo de reintegração (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | STT26-EXPERIENCIA_ESPIRITUAL_ETICA | Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados) (palestra) | transcrição automatizada; citação |

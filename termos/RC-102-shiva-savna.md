@@ -5,10 +5,10 @@ nome = "Shiva (Savna)"
 categoria = "Seres & Entidades"
 subcategoria = "1.1 Divindades / Criadores"
 status = "verificado"
-fontes = ["B031", "B024", "B044", "B001", "B033", "B016", "B020", "B021", "B022", "B050", "B051", "B036", "B060", "B037", "P2022-12-17", "P2021-12-04", "P2026-07-30", "P2024-05-04", "P2025-03-15", "P2025-02-16", "P2024-11-30", "P2024-11-09", "P2024-07-14", "P2025-11-29", "P2023-06-24", "P2023-04-15", "P2023-04-29", "P2020-07-04", "P2020-05-09", "P2024-11-03", "P2025-02-22", "P2021-05-15", "P2023-10-14", "P2022-03-26", "P2022-05-07", "P2024-06-16", "P2012-02-19", "P2022-12-03", "P2022-07-16", "P2026-03-21", "P2021-04-10", "P2021-06-26", "P2022-09-17", "P2023-12-25-01", "P2020-04-04", "STT26-EXTRATERRESTRES_TECNOLOGIA", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA", "STT26-MITOLOGIAS_REINTEGRACAO", "STT26-SOCIEDADE_CONTEMPORANEA"]
+fontes = ["B031", "B024", "B044", "B001", "B033", "B016", "B020", "B021", "B022", "B050", "B051", "B036", "B060", "B037", "P2022-12-17", "P2021-12-04", "P2026-07-30", "P2024-05-04", "P2025-03-15", "P2025-02-16", "P2024-11-30", "P2024-11-09", "P2024-07-14", "P2025-11-29", "P2023-06-24", "P2023-04-15", "P2023-04-29", "P2020-07-04", "P2020-05-09", "P2024-11-03", "P2025-02-22", "P2021-05-15", "P2023-10-14", "P2022-03-26", "P2022-05-07", "P2024-06-16", "P2012-02-19", "P2022-12-03", "P2022-07-16", "P2026-03-21", "P2021-04-10", "P2021-06-26", "P2022-09-17", "P2023-12-25-01", "P2020-04-04", "STT26-EXTRATERRESTRES_TECNOLOGIA", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA", "STT26-MITOLOGIAS_REINTEGRACAO", "STT26-SOCIEDADE_CONTEMPORANEA", "OIDR26-01"]
 via = "P6-evidência"
 confianca_fonte = "alta"
-atualizado = "2026-10-22"
+atualizado = "2026-10-23"
 +++
 # Shiva (Savna) — RC-102
 
@@ -84,10 +84,16 @@ Um dos três da Trimurti (RC-104) — na RC, **Savna** (RC-409 ADHYSAVNA); princ
 - **[STT26-19 · Shiva (Savna)]** «Todos os demais avatares que Vishnu criou foram funcionais, ou seja, resolver certo a função. Quando ele criou Morrenso, junto com Brahma e Shiva, Aí daqui surgiu a criação depois de Sophia e Jesus.» (U1321 · chars 203261–203459) — Candidata de cotejo; evidência `STT26-19-RC-102-001`, grafia encontrada `Shiva`; decisão por lote `STT26-19: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
 
 
+## Ampliação — OIDR26-01 (Onda incremental dry-run — Anunnaki, genética e humanidade (derivados normalizados))
+
+- **[P1 · Shiva (Savna)]** «Mesmo no tempo em que eu li o Bhagavad Gita, e ainda não tinha visão minimamente profunda, eu estou falando dos meus tempos de juventude, em que eu li aquilo, os deuses hindus matando uns aos outros com um sorriso na face, Ou seja, a questão de destruir a figura de Shiva. Lá na minha juventude eu olhava um ser destruidor que tinha que destruir para o universo ir em frente.» (U0099) — candidata de cotejo ampliado; evidência `OIDR26-01-RC-102-001`, grafia literal `Shiva`, sem homologação de pérola.
+
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| OIDR26-01 | Onda incremental dry-run — Anunnaki, genética e humanidade (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | STT26-SOCIEDADE_CONTEMPORANEA | Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | STT26-MITOLOGIAS_REINTEGRACAO | Eixo STT26 — Mitologias, tradições e eixo de reintegração (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | STT26-EXPERIENCIA_ESPIRITUAL_ETICA | Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados) (palestra) | transcrição automatizada; citação |

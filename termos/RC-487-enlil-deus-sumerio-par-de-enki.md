@@ -5,10 +5,10 @@ nome = "Enlil (deus sumério, par de Enki)"
 categoria = "Seres & Entidades"
 subcategoria = "1.3 Extraterrestres / Raças cósmicas"
 status = "verificado"
-fontes = ["P2022-12-17", "P2024-04-13", "P2021-03-27", "B089", "P2021-05-15", "P2023-10-14", "P2023-12-03", "STT26-MITOLOGIAS_REINTEGRACAO", "STT26-SOCIEDADE_CONTEMPORANEA"]
+fontes = ["P2022-12-17", "P2024-04-13", "P2021-03-27", "B089", "P2021-05-15", "P2023-10-14", "P2023-12-03", "STT26-MITOLOGIAS_REINTEGRACAO", "STT26-SOCIEDADE_CONTEMPORANEA", "OIDR26-01"]
 via = "P6-evidência"
 confianca_fonte = "alta"
-atualizado = "2026-10-22"
+atualizado = "2026-10-23"
 +++
 # Enlil (deus sumério, par de Enki) — RC-487
 
@@ -42,10 +42,16 @@ Anunnaki filho de Anu (RC-587), irmão de **Enki** (RC-486) e de Ninmah/Ninhursa
 - **[STT26-22 · Enlil (deus sumério, par de Enki)]** «Spinoza foi alguém que disse vamos atrás de uma solução para resolver isso aqui ele não foi para a esquerda e direita, em cima e abaixo ele propôs uma religião da razão ou seja, algo filosófico como sendo uma possível solução para esse impasse existencial maravilhoso eu gosto muito de uma passagem quando ele fala que a queda de Adão e Eva na verdade não foi uma queda foi uma ascensão quando eles foram expulsos do paraíso é porque eles não eram mais crianças e acenderam essa queda, virou uma queda para cima, para acender através da semente do conhecimento que hipoteticamente, Lúcifer tenha dado essa essa semente do conhecimento para eles, o que na Bíblia fala que é Lúcifer, mas talvez muito atrás, lá na raiz, tenha sido Enki, o deus Sumério, que queria dar mais conhecimento no genoma humano, e Enlil, o irmão de Enki, chegou pra ele e falou não, mas esse serzinho aí não vai suportar tanto conhecimento, é perigoso, ele não tem capacidade.» (U7796 · chars 1272252–1273202) — Candidata de cotejo; evidência `STT26-22-RC-487-001`, grafia encontrada `Enlil`; decisão por lote `STT26-22: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
 
 
+## Ampliação — OIDR26-01 (Onda incremental dry-run — Anunnaki, genética e humanidade (derivados normalizados))
+
+- **[P1 · Enlil (deus sumério, par de Enki)]** «De cada X que nascia, a partir do DNA já modificado, dos descendentes de Pandora e dos testes em que Um dos dois principais Anunnakis que residia aqui na Terra realizou por volta de 48 mil anos atrás com seu irmão Enlil e uma irmã sua que era a oficial que promovia essas manipulações, Njifri Sag, mas o nome é complicado, vamos deixar para lá.» (U0149) — candidata de cotejo ampliado; evidência `OIDR26-01-RC-487-001`, grafia literal `Enlil`, sem homologação de pérola.
+
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| OIDR26-01 | Onda incremental dry-run — Anunnaki, genética e humanidade (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | STT26-SOCIEDADE_CONTEMPORANEA | Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | STT26-MITOLOGIAS_REINTEGRACAO | Eixo STT26 — Mitologias, tradições e eixo de reintegração (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |

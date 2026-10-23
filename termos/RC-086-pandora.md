@@ -5,10 +5,10 @@ nome = "Pandora"
 categoria = "Seres & Entidades"
 subcategoria = "1.7 Híbridos / Seres de transição"
 status = "em análise"
-fontes = ["B031", "B044", "B020", "B021", "P2025-03-15", "P2025-02-16", "P2024-11-30", "P2024-11-09", "ART-2026-08-18", "P2024-02-03", "P2024-08-03", "B087", "B088", "B089", "P2023-04-01b", "P2024-11-03", "P2025-02-22", "P2021-05-15", "P2020-04-25", "P2023-12-03", "P2023-08-27", "P2025-06-14", "P2022-09-25", "P2022-07-16", "P2026-03-21", "P2021-02-28", "STT26-EXTRATERRESTRES_TECNOLOGIA", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA", "STT26-MITOLOGIAS_REINTEGRACAO", "STT26-SOCIEDADE_CONTEMPORANEA"]
+fontes = ["B031", "B044", "B020", "B021", "P2025-03-15", "P2025-02-16", "P2024-11-30", "P2024-11-09", "ART-2026-08-18", "P2024-02-03", "P2024-08-03", "B087", "B088", "B089", "P2023-04-01b", "P2024-11-03", "P2025-02-22", "P2021-05-15", "P2020-04-25", "P2023-12-03", "P2023-08-27", "P2025-06-14", "P2022-09-25", "P2022-07-16", "P2026-03-21", "P2021-02-28", "STT26-EXTRATERRESTRES_TECNOLOGIA", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA", "STT26-MITOLOGIAS_REINTEGRACAO", "STT26-SOCIEDADE_CONTEMPORANEA", "OIDR26-01"]
 via = "P7-conhecimento"
 confianca_fonte = "baixa"
-atualizado = "2026-10-22"
+atualizado = "2026-10-23"
 +++
 # Pandora — RC-086
 
@@ -94,10 +94,16 @@ Na Revelação Cósmica de Jan Val Ellam, Pandora é a figura que "destravou lac
 - **[STT26-19 · Pandora]** «Quando eu tomei esse susto E percebi que o que iria acontecer com a humanidade lá na frente Já estava acontecendo comigo Foi quando o Pandora apareceu na história E ou os humanos se esclarecem Para os dias que virão Ou os dias que virão, virão sem que os humanos se esclareçam E tudo vai acontecer independente de esclarecimento ou não como é que você quer precisamos trabalhar e por essas e outras é que eu me permito ser estuprado e desculpem usar um termo pesado por esses seres é por essa necessidade que hoje em dia eles dizem que nós hoje em dia, que eu digo nos últimos 10, 15 anos nós humanos apesar de desse preparo total e a culpa não é nossa porque houve um condicionamento nós somos manipulados As religiões criaram um rebanho que não permite o esclarecimento desagradável surgir.» (U1881 · chars 312669–313461) — Candidata de cotejo; evidência `STT26-19-RC-086-001`, grafia encontrada `Pandora`; decisão por lote `STT26-19: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
 
 
+## Ampliação — OIDR26-01 (Onda incremental dry-run — Anunnaki, genética e humanidade (derivados normalizados))
+
+- **[P1 · Pandora]** «De cada X que nascia, a partir do DNA já modificado, dos descendentes de Pandora e dos testes em que Um dos dois principais Anunnakis que residia aqui na Terra realizou por volta de 48 mil anos atrás com seu irmão Enlil e uma irmã sua que era a oficial que promovia essas manipulações, Njifri Sag, mas o nome é complicado, vamos deixar para lá.» (U0149) — candidata de cotejo ampliado; evidência `OIDR26-01-RC-086-001`, grafia literal `Pandora`, sem homologação de pérola.
+
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| OIDR26-01 | Onda incremental dry-run — Anunnaki, genética e humanidade (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | STT26-SOCIEDADE_CONTEMPORANEA | Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | STT26-MITOLOGIAS_REINTEGRACAO | Eixo STT26 — Mitologias, tradições e eixo de reintegração (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | STT26-EXPERIENCIA_ESPIRITUAL_ETICA | Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados) (palestra) | transcrição automatizada; citação |

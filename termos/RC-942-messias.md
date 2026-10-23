@@ -5,10 +5,10 @@ nome = "Messias"
 categoria = "Termos Específicos"
 subcategoria = "8.4 Grego / Latim"
 status = "em análise"
-fontes = ["P2023-12-25-01", "P2023-12-25-02", "P2023-12-25-03", "P2020-04-04"]
+fontes = ["P2023-12-25-01", "P2023-12-25-02", "P2023-12-25-03", "P2020-04-04", "OIDR26-01"]
 via = "P7-conhecimento"
 confianca_fonte = "baixa"
-atualizado = "2026-09-06"
+atualizado = "2026-10-23"
 +++
 # MESSIAS — RC-942
 
@@ -36,9 +36,15 @@ O termo aparece nas aulas 01–05 do curso F044 (57.179 palavras, fonte primári
 - Segundo Advento do Cristo (Volta de Jesus) — RC-005;
 - Bagagem/segredo — RC-752.
 
+## Ampliação — OIDR26-01 (Onda incremental dry-run — Anunnaki, genética e humanidade (derivados normalizados))
+
+- **[P1 · Messias]** «Eu só consigo aplaudir o homem Jesus, na sua coragem, na sua ousadia, em dizer que não ia fazer aquela sujeira com os seres humanos, não iria se tornar aquele Messias imbecilizado, que o espírito dele entre aspas, programou para que ele fosse, que a genética que Sofia mandou foi o eu humano de Jesus.» (U0443) — candidata de cotejo ampliado; evidência `OIDR26-01-RC-942-001`, grafia literal `Messias`, sem homologação de pérola.
+
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
+| OIDR26-01 | Onda incremental dry-run — Anunnaki, genética e humanidade (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | P2023-12-25-01 | Aula 01 — Adolescência e a Juventude de Jesus | transcrição; citação |
 | P2023-12-25-02 | Aula 02 — Os Anos de Pregação e a Promessa do Retorno | transcrição; citação |
 | P2023-12-25-03 | Aula 03 — Dias Difíceis: Crucificação e Ressurreição | transcrição; citação |
