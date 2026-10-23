@@ -38,7 +38,9 @@ FER = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(FER)
 sys.path.insert(0, FER)
 import dados_termos as d  # noqa: E402
+from caminhos_acervo import caminho_atual  # noqa: E402
 
+LIVROS = os.fspath(caminho_atual("fonte.livros"))
 BASELINE = os.path.join(FER, "test_baseline.json")
 LAPIDES_F045 = {"RC-449", "RC-872", "RC-936"}  # 2.1B: exceção histórica sancionada
 EMOJI = {"candidato": "⚪", "provisório": "🟡", "em análise": "🟠",
@@ -206,8 +208,9 @@ class TestBase(unittest.TestCase):
 
     def test_T8_sem_fantasma(self):
         dirsB, dirsP = set(), set()
-        for base in ("livros/CONCLUIDOS", "livros/AMOSTRAS"):
-            bp = os.path.join(ROOT, base)
+        for base in (os.path.join(LIVROS, "CONCLUIDOS"),
+                     os.path.join(LIVROS, "AMOSTRAS")):
+            bp = base
             if os.path.isdir(bp):
                 for dd in os.listdir(bp):
                     m = re.match(r"(B\d{3})", dd)

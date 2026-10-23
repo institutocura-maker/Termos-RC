@@ -28,6 +28,9 @@ import json
 import os
 import re
 import sys
+from pathlib import Path
+
+from caminhos_acervo import caminho_atual
 
 RAIZ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, os.path.join(RAIZ, "ferramentas"))
@@ -39,6 +42,7 @@ from loader import BIBLIO                                      # noqa: E402
 
 CADASTRO = os.path.join(RAIZ, "ferramentas", "dados_termos.py")
 _CACHE: dict[str, list[str]] = {}
+LIVROS = caminho_atual("fonte.livros")
 
 
 # ────────────────────────────────────────────────────────────────────── corpus
@@ -46,15 +50,16 @@ def caminho_da_obra(sigla: str) -> str:
     """Localiza o `original.txt` da obra pelo seu diretório canônico."""
     if sigla in _CACHE and _CACHE[sigla] is None:
         raise FileNotFoundError(sigla)
-    for base in ("livros/CONCLUIDOS", "apostilas/CONCLUIDAS", "ciclos"):
-        for dd in sorted(os.listdir(os.path.join(RAIZ, base))):
+    for base in (LIVROS / "CONCLUIDOS", Path(RAIZ) / "apostilas" / "CONCLUIDAS",
+                 Path(RAIZ) / "ciclos"):
+        for dd in sorted(os.listdir(base)):
             b = dd.split("_")[0]
             if b[0].isdigit():
                 b = "P" + b
             if b == sigla:
-                p = os.path.join(base, dd, "original.txt")
-                if os.path.exists(os.path.join(RAIZ, p)):
-                    return p
+                p = base / dd / "original.txt"
+                if p.exists():
+                    return os.fspath(p.relative_to(RAIZ))
     _CACHE[sigla] = None
     raise FileNotFoundError(f"sem corpus processado para {sigla}")
 

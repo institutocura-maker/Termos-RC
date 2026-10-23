@@ -31,6 +31,9 @@ import io
 import os
 import re
 import sys
+from pathlib import Path
+
+from caminhos_acervo import caminho_atual
 
 RAIZ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, os.path.join(RAIZ, "ferramentas"))
@@ -40,17 +43,24 @@ import dados_termos as _d                                     # noqa: E402
 
 HOJE = "2026-09-13"
 CADASTRO = os.path.join(RAIZ, "ferramentas", "dados_termos.py")
+LIVROS = caminho_atual("fonte.livros")
+
+
+def livro_concluido(diretorio: str) -> str:
+    """Caminho físico da obra, resolvido pelo mapa central de acervo."""
+    return os.fspath(LIVROS / "CONCLUIDOS" / diretorio / "original.txt")
+
 
 # ────────────────────────────────────────────────────────── corpus e localizadores
 CORPUS = {
-    "B003": "livros/CONCLUIDOS/B003_reintegracao_cosmica/original.txt",
-    "B006": "livros/CONCLUIDOS/B006_nos_bastidores_da_luz_i/original.txt",
-    "B021": "livros/CONCLUIDOS/B021_tempos_dificeis_no_olimpo/original.txt",
-    "B024": "livros/CONCLUIDOS/B024_epopeia_agentes_da_vida_universal/original.txt",
-    "B026": "livros/CONCLUIDOS/B026_carma_e_compromisso/original.txt",
-    "B031": "livros/CONCLUIDOS/B031_paineis_emergentes_da_revelacao_cosmica/original.txt",
-    "B060": "livros/CONCLUIDOS/B060_personagens_e_terminologias/original.txt",
-    "B089": "livros/CONCLUIDOS/B089_pandora_3_anunnaki_disputa_genetica_pandora/original.txt",
+    "B003": livro_concluido("B003_reintegracao_cosmica"),
+    "B006": livro_concluido("B006_nos_bastidores_da_luz_i"),
+    "B021": livro_concluido("B021_tempos_dificeis_no_olimpo"),
+    "B024": livro_concluido("B024_epopeia_agentes_da_vida_universal"),
+    "B026": livro_concluido("B026_carma_e_compromisso"),
+    "B031": livro_concluido("B031_paineis_emergentes_da_revelacao_cosmica"),
+    "B060": livro_concluido("B060_personagens_e_terminologias"),
+    "B089": livro_concluido("B089_pandora_3_anunnaki_disputa_genetica_pandora"),
     "P2020-04-04": "ciclos/P2020-04-04/original.txt",
     "P2023-05-21": "apostilas/CONCLUIDAS/2023-05-21_a_hebdomada_de_apolo_o_ultraje_humano/original.txt",
     "P2024-11-09": "apostilas/CONCLUIDAS/2024-11-09_abismo_consciencia_cosmica/original.txt",
@@ -58,9 +68,15 @@ CORPUS = {
 _CACHE: dict[str, list[str]] = {}
 
 
+def caminho_corpus(sigla: str) -> Path:
+    """Resolve entradas históricas relativas e fontes de livro mapeadas."""
+    caminho = Path(CORPUS[sigla])
+    return caminho if caminho.is_absolute() else Path(RAIZ) / caminho
+
+
 def linhas(sigla: str) -> list[str]:
     if sigla not in _CACHE:
-        with open(os.path.join(RAIZ, CORPUS[sigla]), encoding="utf-8", errors="replace") as fh:
+        with caminho_corpus(sigla).open(encoding="utf-8", errors="replace") as fh:
             _CACHE[sigla] = fh.read().split("\n")
     return _CACHE[sigla]
 
