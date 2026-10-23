@@ -203,7 +203,7 @@ Camadas, da mais dura para a mais mole:
 | `livros/AMOSTRAS/` | B027 e B035 (Sample; obra completa pendente). |
 | `apostilas/CONCLUIDAS/` | 37 palestras/lives (original.txt + apostila.md + DOCX). |
 | `pedagogico/` | 10 apostilas temáticas (todas com DOCX) + 2 tratados (com DOCX) + 2 mapas + índice temático + Guia TALM + Dossiê Fase 0 + matriz de auditoria. |
-| `materiais_externos/` | EXT (terceiros; **não** toca ontologia). |
+| `../fontes/externas/` | EXT (terceiros; **não** toca ontologia). |
 | `uploads_recepcao/` | PDFs que o curador subiu (fonte bruta). |
 | `backups/pacotes/` | MANIFESTO + FICHAS + REGENERAÇÃO (seguro versionado; **manifesto de 2026-08-18 desatualizado** — ver pendências). |
 

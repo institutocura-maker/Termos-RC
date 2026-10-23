@@ -10,10 +10,15 @@ fontes/
 ├── livros/            # obras e amostras; hoje: livros/
 ├── palestras/         # fontes classificadas como palestras
 ├── online/youtube/    # fontes identificadas pelo canal, quando aplicável
-└── externas/          # materiais de terceiros; hoje: materiais_externos/
+└── externas/          # materiais de terceiros; hoje: externas/
 ```
 
 `palestras/` e `online/youtube/` representam eixos diferentes: palestra é tipo editorial; YouTube é canal de origem. Uma fonte pode precisar de ambos os metadados, sem cópia duplicada.
+
+## Estado da migração
+
+- **FON-EXTERNAS** foi migrada em 23/10/2026 para `externas/`, por `git mv`, com os 15 arquivos e a hash agregada conferidos contra o manifesto da Fase 0.
+- As demais rotas desenhadas acima permanecem planejadas; não devem ser usadas como caminhos de runtime até despacho e portões próprios.
 
 ## O que não pertence aqui
 

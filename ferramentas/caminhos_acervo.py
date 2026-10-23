@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 """Mapa único dos caminhos físicos e destinos planejados do acervo.
 
-Fase 0 da organização Fontes/KB: este módulo registra o layout atual sem
-mover dados. Ferramentas novas devem consultar este mapa; a migração de
-consumidores ativos só ocorrerá depois dos manifestos, portões e aprovação
-curatorial próprios.
+A Fase 0 registra a linha de base sem mover dados. Após aprovação curatorial,
+este mapa é a única fonte para a rota atual de cada coleção já migrada.
+Destinos planejados não são consumidos por scripts; uma migração só ocorre
+após manifestos, portões e autorização próprios.
 """
 from __future__ import annotations
 
@@ -18,7 +18,7 @@ RAIZ = Path(__file__).resolve().parent.parent
 CAMINHOS_ATUAIS = MappingProxyType({
     "fonte.livros": Path("livros"),
     "fonte.recepcao": Path("uploads_recepcao"),
-    "fonte.externas": Path("materiais_externos"),
+    "fonte.externas": Path("fontes") / "externas",
     "evidencia.palestras": Path("apostilas"),
     "evidencia.ciclos": Path("ciclos"),
     "evidencia.consolidacoes": Path("consolidacoes"),
@@ -31,7 +31,7 @@ CAMINHOS_ATUAIS = MappingProxyType({
 DESTINOS_PLANEJADOS = MappingProxyType({
     "fonte.livros": Path("fontes") / "livros",
     "fonte.recepcao": Path("fontes") / "recepcao",
-    "fonte.externas": Path("fontes") / "externas",
+    "fonte.externas": None,
     "evidencia.palestras": None,
     "evidencia.ciclos": None,
     "evidencia.consolidacoes": None,

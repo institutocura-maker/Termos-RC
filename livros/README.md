@@ -18,7 +18,7 @@ Se a obra completa de uma amostra subir: ciclo novo em `livros/B0NN_slug/`. **N�
 
 - Palestras e lives → `apostilas/`
 - Materiais do curador (ART) → `apostilas/CONCLUIDAS/` (já é o hábito)
-- Terceiros (EXT) → `materiais_externos/`
+- Terceiros (EXT) → `../fontes/externas/`
 - Glossário Raquyel (B031) → fonte **secundária**; não reprocessar como primária
 
 ## Ciclo em andamento

@@ -41,7 +41,7 @@ Escala atual (11/09/2026): **946 termos · 671 fichas · 1898 relações · 102 
 | `diagnostico/RELATORIO-BASE-TERMINOLOGICA.md` / `GLOSSARIO-CANONICO-2026-08-31.md` | Relatório analítico (672 l.) + glossário canônico (702 l.) | — |
 | `01-ficha-modelo.md`, `02-vocabulario-controlado.md`, `convencoes-editoriais-rc.md` | Padrões editoriais | — |
 | `uploads_recepcao/` | Caixa de entrada de arquivos do Curador (uso transitório; raiz preservada como histórico) | — |
-| `backups/`, `consolidacoes/`, `materiais_externos/`, `rag/`, `diagnostico/` | Áreas auxiliares/históricas | — |
+| `backups/`, `consolidacoes/`, `fontes/externas/`, `rag/`, `diagnostico/` | Áreas auxiliares/históricas | — |
 | `*.md` na raiz (~40 docs) | Despachos, diagnósticos, handoffs, planos — memória operacional acumulada | — |
 
 ## 4. O coração (e a principal preocupação): `ferramentas/dados_termos.py`

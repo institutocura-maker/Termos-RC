@@ -53,7 +53,7 @@
 - VIGÍLIA: sem despacho, não iniciar mutirão/censo/aquisição nova; "um censo furado não autoriza ações autônomas".
 
 ## 3. Fontes externas e obras de apoio (precedente F043)
-- Padrão de ingresso: cópia byte a byte em `materiais_externos/AAAA-MM-DD_slug/` (original.txt + traslado limpo + ficha_ingresso.md EXT-… + analise/PARECER) → **REGISTRO-LIMPEZA nº N** em `backups/` → expurgo do bruto da caixa → ficha-pessoa do autor se não cadastrada (censo estrito antes!).
+- Padrão de ingresso: cópia byte a byte em `../../fontes/externas/AAAA-MM-DD_slug/` (original.txt + traslado limpo + ficha_ingresso.md EXT-… + analise/PARECER) → **REGISTRO-LIMPEZA nº N** em `backups/` → expurgo do bruto da caixa → ficha-pessoa do autor se não cadastrada (censo estrito antes!).
 - **GKA (Glossário Krys Amon, EXT-2024-01-04, autor RC-934) = Obra de Apoio, fonte SECUNDÁRIA, nunca co-autoria.** Anéis A (10) e B (6+costura RC-160) notificados "GKA corrobora"; Anel C = 8 fichas RC-935..942; **Anel D guardado na fonte sem códigos** (Éon, Agam Karan, …). Ficha RC-150 = TENSÃO NÃO-RESOLVÍVEL (guarda histórica, sem edição).
 
 ## 4. Missões encerradas
