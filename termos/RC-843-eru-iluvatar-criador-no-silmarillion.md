@@ -5,10 +5,10 @@ nome = "Eru Ilúvatar (criador no Silmarillion)"
 categoria = "Seres & Entidades"
 subcategoria = "1.1 Divindades / Criadores"
 status = "verificado"
-fontes = ["P2018-12-15"]
+fontes = ["P2018-12-15", "OIDR26-04"]
 via = "P6-evidência"
 confianca_fonte = "média"
-atualizado = "2026-08-31"
+atualizado = "2026-10-23"
 +++
 # Eru Ilúvatar (criador no Silmarillion) — RC-843
 
@@ -39,9 +39,15 @@ Com isso:
 | Melkor (o filho dissonante) | RC-844 | associado |
 
 
+## Ampliação — OIDR26-04 (Onda incremental dry-run — Experiência espiritual e ética evolutiva (derivados normalizados))
+
+- **[P5 · Eru Ilúvatar (criador no Silmarillion)]** «Não sei se vocês sabem, mas a mitologia que existia na Grã-Bretanha, as invasões dos anglos e dos saxões destruíram tudo, a própria mitologia nórdica, celta, escaparam, mas a ilha da Inglaterra ficou sem mitologia, devido às invasões e Tolkien, em pleno século XIX resolveu criar uma mitologia para a língua inglesa da Inglaterra vamos assim dizer e ele então saiu colhendo materiais de outras mitologias e o Silmarillion descreve um criador que ele chama de Ilúvatar e usando a sua linguagem élfica que ele criou seria Eru Ilúvatar. Como é que o nosso amigo Tolkien conta que Eru Ilúvatar criou essa matrix, ou seja, esse universo?» (U0516) — candidata de cotejo ampliado; evidência `OIDR26-04-RC-843-001`, grafia literal `Eru Ilúvatar`, sem homologação de pérola.
+
+
 ## Fontes
 | Obra (sigla) | Título | Página | Tipo |
 |---|---|---|---|
+| OIDR26-04 | Onda incremental dry-run — Experiência espiritual e ética evolutiva (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
 | P2018-12-15 | Terra Atlantis – Aprofundamento (palestra) | — | transcrição automatizada; citação |
 
 ## Ampliação

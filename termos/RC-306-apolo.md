@@ -5,10 +5,10 @@ nome = "Apolo"
 categoria = "Seres & Entidades"
 subcategoria = "1.5 Decaídos / Exilados / Demônios"
 status = "provisório"
-fontes = ["B021", "B060", "P2024-04-13", "P2023-05-21", "P2023-12-03", "P2020-04-04", "STT26-MITOLOGIAS_REINTEGRACAO", "STT26-SOCIEDADE_CONTEMPORANEA"]
+fontes = ["B021", "B060", "P2024-04-13", "P2023-05-21", "P2023-12-03", "P2020-04-04", "STT26-MITOLOGIAS_REINTEGRACAO", "STT26-SOCIEDADE_CONTEMPORANEA", "OIDR26-04"]
 via = "P6-evidência"
 confianca_fonte = "média"
-atualizado = "2026-10-22"
+atualizado = "2026-10-23"
 +++
 # Apolo — RC-306
 
@@ -41,9 +41,15 @@ Com isso:
 - **[STT26-19 · Apolo]** «Então, lá no panteão grego tem um deus chamado Apolo, que é todo organizado, certinho, e todo mundo que segue Apolo tem que obedecer a Apolo, visão de rebanho, ninguém pode sair da visão de rebanho, etc.» (U0454 · chars 80732–80935) — Candidata de cotejo; evidência `STT26-19-RC-306-001`, grafia encontrada `Apolo`; decisão por lote `STT26-19: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
 
 
+## Ampliação — OIDR26-04 (Onda incremental dry-run — Experiência espiritual e ética evolutiva (derivados normalizados))
+
+- **[P6 · Apolo]** «Então, digamos, Apolônio é um tipo de nome próprio que traz em si o nome de Deus, Apolo. Teodoro é um nome que traz Teo, ou seja, é um tipo de ciência que tem essa bifurcação aí.» (U0849) — candidata de cotejo ampliado; evidência `OIDR26-04-RC-306-001`, grafia literal `Apolo`, sem homologação de pérola.
+
+
 ## Fontes
 | Obra (sigla) | Título | Página | Tipo |
 |---|---|---|---|
+| OIDR26-04 | Onda incremental dry-run — Experiência espiritual e ética evolutiva (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
 | STT26-SOCIEDADE_CONTEMPORANEA | Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
 | STT26-MITOLOGIAS_REINTEGRACAO | Eixo STT26 — Mitologias, tradições e eixo de reintegração (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
 | B021 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |

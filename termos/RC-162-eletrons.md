@@ -5,7 +5,7 @@ nome = "Elétrons (agente básico da vida universal)"
 categoria = "Processos & Fenômenos"
 subcategoria = "4.4 Fenômenos físicos / energéticos"
 status = "verificado"
-fontes = ["B024", "B041", "P2024-05-04", "P2025-03-15", "P2025-02-16", "P2025-02-15", "P2024-11-30", "P2024-11-09", "P2024-03-03", "P2024-04-14", "P2025-06-14b", "P2023-11-19", "STT26-EXTRATERRESTRES_TECNOLOGIA", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA", "STT26-MITOLOGIAS_REINTEGRACAO", "STT26-SOCIEDADE_CONTEMPORANEA", "OIDR26-02"]
+fontes = ["B024", "B041", "P2024-05-04", "P2025-03-15", "P2025-02-16", "P2025-02-15", "P2024-11-30", "P2024-11-09", "P2024-03-03", "P2024-04-14", "P2025-06-14b", "P2023-11-19", "STT26-EXTRATERRESTRES_TECNOLOGIA", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA", "STT26-MITOLOGIAS_REINTEGRACAO", "STT26-SOCIEDADE_CONTEMPORANEA", "OIDR26-02", "OIDR26-04"]
 via = "P6-evidência"
 confianca_fonte = "alta"
 atualizado = "2026-10-23"
@@ -66,10 +66,16 @@ O "agente básico da vida universal": o único que existe desde o primeiro momen
 - **[P2 · Elétrons (agente básico da vida universal)]** «Então, em tese, tudo que existe aqui dentro desses dois universos gêmeos que surgiram na hora da queda do Criador existe porque aqui dentro o corpo manásico dele se despedaçou e o que a gente entende como elétrons desse universo e anti-elétrons opósitos no universo vizinho correspondem exatamente ao corpo manásico desse ser despedaçado então o eu dele a sensação do eu manásico dele caiu o corpo monásico em pedaços, surgiu dois universos, foi necessário criar uma erraticidade, ou seja, uma espiritualidade que passou a existir aqui dentro.» (U0481) — candidata de cotejo ampliado; evidência `OIDR26-02-RC-162-001`, grafia literal `elétrons`, sem homologação de pérola.
 
 
+## Ampliação — OIDR26-04 (Onda incremental dry-run — Experiência espiritual e ética evolutiva (derivados normalizados))
+
+- **[P4 · Elétrons (agente básico da vida universal)]** «Dever frente às necessidades Que o fato dele ser um espírito inoculado Com um código doentio Esse código provoca no espírito Doenças que refletem as doenças do Criador Que precisam ser curadas Mas o Criador faliu Então ele tem que se valer de criaturas Ferramentas que assumam a doença dele E os espíritos têm que pegar essa doença E repassar para cada novo corpo que nasce dentro de um ambiente onde o código podre do Criador é o tijolo de criação da vida, essa matrix que a gente vive, os elétrons, os micróbios, tudo vai escalando complexidade, mas sempre representando a doença original.» (U0110) — candidata de cotejo ampliado; evidência `OIDR26-04-RC-162-001`, grafia literal `elétrons`, sem homologação de pérola.
+
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| OIDR26-04 | Onda incremental dry-run — Experiência espiritual e ética evolutiva (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | OIDR26-02 | Onda incremental dry-run — Mitologias, tradições e reintegração (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | STT26-SOCIEDADE_CONTEMPORANEA | Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | STT26-MITOLOGIAS_REINTEGRACAO | Eixo STT26 — Mitologias, tradições e eixo de reintegração (derivados normalizados) (palestra) | transcrição automatizada; citação |

@@ -5,10 +5,10 @@ nome = "Corpo Búdico"
 categoria = "Conceitos Cosmológicos"
 subcategoria = "2.3 Dimensões / Planos de existência"
 status = "verificado"
-fontes = ["P2026-07-30", "P2024-05-04", "P2025-02-16", "P2025-02-15", "P2024-11-30", "P2024-11-09", "P2024-07-14", "P2024-03-02", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA", "STT26-SOCIEDADE_CONTEMPORANEA"]
+fontes = ["P2026-07-30", "P2024-05-04", "P2025-02-16", "P2025-02-15", "P2024-11-30", "P2024-11-09", "P2024-07-14", "P2024-03-02", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA", "STT26-SOCIEDADE_CONTEMPORANEA", "OIDR26-04"]
 via = "P6-evidência"
 confianca_fonte = "média"
-atualizado = "2026-10-22"
+atualizado = "2026-10-23"
 +++
 # Corpo Búdico — RC-624
 
@@ -49,9 +49,15 @@ Consultar relações acima.
 - **[STT26-22 · Corpo Búdico]** «Só que como esse ser manásico é invariável, imutável, ele tem um padrão de perfeição vibratória que não muda, devido ao excesso de pureza que ele tem, ele não sabe conviver com o caos, esse tipo de alma não tem como se imantar um corpo caótico. Então ele se investe de um corpo búdico que permite a tomada de consciência do eu, do ser, vivendo não agora só nas fronteiras do paraíso, mas além das fronteiras do paraíso, que é onde ele poderá entender o caos, o problema que houve e ver o que pode fazer.» (U9372 · chars 1523670–1524174) — Candidata de cotejo; evidência `STT26-22-RC-624-001`, grafia encontrada `corpo búdico`; decisão por lote `STT26-22: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
 
 
+## Ampliação — OIDR26-04 (Onda incremental dry-run — Experiência espiritual e ética evolutiva (derivados normalizados))
+
+- **[P5 · Corpo Búdico]** «A alma teve que se investir de uma, desculpe a redundância, vestimenta búdica espiritual, e assim a alma investindo desse corpo búdico pode sentir o que a alma sozinha sem esse corpo não pode.» (U0606) — candidata de cotejo ampliado; evidência `OIDR26-04-RC-624-001`, grafia literal `corpo búdico`, sem homologação de pérola.
+
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
+| OIDR26-04 | Onda incremental dry-run — Experiência espiritual e ética evolutiva (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | STT26-SOCIEDADE_CONTEMPORANEA | Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | STT26-EXPERIENCIA_ESPIRITUAL_ETICA | Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | P2026-07-30 — 4ª Edição Estagiários do Kaos | U0050–U0053 | STT pré-curado / devolutiva |

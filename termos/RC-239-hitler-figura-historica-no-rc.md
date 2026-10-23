@@ -5,7 +5,7 @@ nome = "Hitler (figura histórica no RC)"
 categoria = "Seres & Entidades"
 subcategoria = "1.6 Figuras humanas (históricas/míticas)"
 status = "verificado"
-fontes = ["B039", "P2018-12-16", "OIDR26-02"]
+fontes = ["B039", "P2018-12-16", "OIDR26-02", "OIDR26-04"]
 via = "P6-evidência"
 confianca_fonte = "alta"
 atualizado = "2026-10-23"
@@ -45,9 +45,15 @@ Com isso:
 - **[P2 · Hitler (figura histórica no RC)]** «Aí Cristian não aceitava, e sempre junto do Papa, tem gente que quer ser mais católico que o Papa, junto de Hitler, tinha malucos que eram mais doidos do que Hitler junto de Bolsonaro e de Lula tem gente que é mais neolista e bolsonarista do que eles próprios sempre no meio da contagem dos cadáveres tem gente mais maluca do que aquele que no seu aquele processo e uma turma ao redor de Cristo nunca aceitou essa história e a coisa continua meio pendente de resolução nesse nível da aristocracia primurtiano, demodármica.» (U0615) — candidata de cotejo ampliado; evidência `OIDR26-02-RC-239-001`, grafia literal `Hitler`, sem homologação de pérola.
 
 
+## Ampliação — OIDR26-04 (Onda incremental dry-run — Experiência espiritual e ética evolutiva (derivados normalizados))
+
+- **[P6 · Hitler (figura histórica no RC)]** «Hitler sozinho, quando você conta a quantidade de cadáveres produzidos pela movimentação da Gestapo, do nazismo, aí você vê, Hitler sozinho não faria isso.» (U0819) — candidata de cotejo ampliado; evidência `OIDR26-04-RC-239-001`, grafia literal `Hitler`, sem homologação de pérola.
+
+
 ## Fontes
 | Obra (sigla) | Título | Página | Tipo |
 |---|---|---|---|
+| OIDR26-04 | Onda incremental dry-run — Experiência espiritual e ética evolutiva (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
 | OIDR26-02 | Onda incremental dry-run — Mitologias, tradições e reintegração (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
 | P2018-12-16 | Terra Atlantis - Era Sapiens (palestra) | — | transcrição automatizada; citação |
 | B039 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |

@@ -5,7 +5,7 @@ nome = "Brahma (Brajna)"
 categoria = "Seres & Entidades"
 subcategoria = "1.1 Divindades / Criadores"
 status = "verificado"
-fontes = ["B031", "B024", "B044", "B001", "B033", "B013", "B020", "B022", "B060", "B037", "P2022-12-17", "P2026-07-30", "P2025-03-15", "P2025-02-16", "P2025-02-15", "P2024-11-30", "P2024-11-09", "P2024-09-29", "P2024-08-03", "P2024-07-14", "P2025-11-29", "P2023-06-24", "P2023-04-15", "P2023-04-29", "P2021-09-04", "P2022-09-24", "P2024-11-03", "P2025-02-22", "P2023-10-14", "P2022-05-07", "P2024-06-16", "P2012-02-19", "P2022-12-03", "P2022-09-18", "P2022-07-16", "P2021-02-28", "P2021-06-26", "P2022-11-19", "P2025-12-14", "P2023-12-25-01", "STT26-EXTRATERRESTRES_TECNOLOGIA", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA", "STT26-MITOLOGIAS_REINTEGRACAO", "STT26-SOCIEDADE_CONTEMPORANEA", "OIDR26-01", "OIDR26-02", "OIDR26-03"]
+fontes = ["B031", "B024", "B044", "B001", "B033", "B013", "B020", "B022", "B060", "B037", "P2022-12-17", "P2026-07-30", "P2025-03-15", "P2025-02-16", "P2025-02-15", "P2024-11-30", "P2024-11-09", "P2024-09-29", "P2024-08-03", "P2024-07-14", "P2025-11-29", "P2023-06-24", "P2023-04-15", "P2023-04-29", "P2021-09-04", "P2022-09-24", "P2024-11-03", "P2025-02-22", "P2023-10-14", "P2022-05-07", "P2024-06-16", "P2012-02-19", "P2022-12-03", "P2022-09-18", "P2022-07-16", "P2021-02-28", "P2021-06-26", "P2022-11-19", "P2025-12-14", "P2023-12-25-01", "STT26-EXTRATERRESTRES_TECNOLOGIA", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA", "STT26-MITOLOGIAS_REINTEGRACAO", "STT26-SOCIEDADE_CONTEMPORANEA", "OIDR26-01", "OIDR26-02", "OIDR26-03", "OIDR26-04"]
 via = "P6-evidência"
 confianca_fonte = "alta"
 atualizado = "2026-10-23"
@@ -110,9 +110,15 @@ Javé (RC-001); Vishnu (RC-135); Shiva (RC-102); Mohen So (RC-081); Sophia (RC-0
 - **[P3 · Brahma (Brajna)]** «E esses seres estão adormecidos há 300 milhões de anos porque o assunto referente a ele se encerrou lá no tempo em que ele foi criado e quem o criou se esqueceu que criou, deixou ele ali no lugar e esse maluco chamado Brahma, ou Javé, como a gente queira chamar, vai para outras estirpes ou espécies que ele vai criando e esquece as que criou e ficam esses seres estacionados, pendentes de resolução existencial.» (U0111) — candidata de cotejo ampliado; evidência `OIDR26-03-RC-037-001`, grafia literal `Brahma`, sem homologação de pérola.
 
 
+## Ampliação — OIDR26-04 (Onda incremental dry-run — Experiência espiritual e ética evolutiva (derivados normalizados))
+
+- **[P4 · Brahma (Brajna)]** «mas como essas reflexões como essas notícias essas informações iriam desagradar e perturbar isso e aquilo isso e a lógica desses seres não são os espíritos são seres do universo vizinho como muito bem disse a Juscelia são os arcontes os deuses, não estamos falando aqui de espíritos esses seres eles vivem dessa forma medíocre, eles não têm vida própria porque faliram há muito tempo e eles vivem o que as espécies que eles criam conseguem vivenciar olhem bem o que eu estou dizendo esses seres, Brahma, Vishnu, Shiva descendentes de Vishnu, Shiva, Brahma seja lá o nome que a gente quiser dar ou a ótica mitológica que a gente observar esses seres todos Eles são mantidos vivos a partir dos efluvios das espécies que eles criam E a vida deles, como não tem maiores atrativos devido à demência que os marca Essa demência só permite a eles viver de apostas e dos desdobramentos que isso provoca No lento processo de evolução que mal eles conseguem produzir de acordo com os limites impostos pelo grau de demência que lhes marca.» (U0240) — candidata de cotejo ampliado; evidência `OIDR26-04-RC-037-001`, grafia literal `Brahma`, sem homologação de pérola.
+
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| OIDR26-04 | Onda incremental dry-run — Experiência espiritual e ética evolutiva (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
 | OIDR26-03 | Onda incremental dry-run — Cosmogonia e história cósmica (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
 | OIDR26-02 | Onda incremental dry-run — Mitologias, tradições e reintegração (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
 | OIDR26-01 | Onda incremental dry-run — Anunnaki, genética e humanidade (derivados normalizados) (palestra) | — | transcrição automatizada; citação |

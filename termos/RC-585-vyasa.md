@@ -5,7 +5,7 @@ nome = "Vyasa"
 categoria = "Seres & Entidades"
 subcategoria = "1.6 Figuras humanas (históricas/míticas)"
 status = "verificado"
-fontes = ["P2022-12-17", "P2025-02-16", "P2024-11-30", "P2023-06-25", "P2021-05-15", "P2022-03-26", "P2024-06-16", "STT26-EXTRATERRESTRES_TECNOLOGIA", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA", "STT26-MITOLOGIAS_REINTEGRACAO", "STT26-SOCIEDADE_CONTEMPORANEA", "OIDR26-03"]
+fontes = ["P2022-12-17", "P2025-02-16", "P2024-11-30", "P2023-06-25", "P2021-05-15", "P2022-03-26", "P2024-06-16", "STT26-EXTRATERRESTRES_TECNOLOGIA", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA", "STT26-MITOLOGIAS_REINTEGRACAO", "STT26-SOCIEDADE_CONTEMPORANEA", "OIDR26-03", "OIDR26-04"]
 via = "P6-evidência"
 confianca_fonte = "média"
 atualizado = "2026-10-23"
@@ -68,9 +68,15 @@ Heber (patriarca pós-dilúvio) (RC-436); Rishis (RC-586)
 - **[P3 · Vyasa]** «Só estou falando de 6, 7 mil anos atrás. Quando Mahabharata foi produzido por Vyasa, a expectativa é que os Yaksas, que os certos estirpes e raksassas, os gandarvas principalmente, os pites, os devas, figuras hiperbórias, híbridas, a que dominassem a Terra.» (U0145) — candidata de cotejo ampliado; evidência `OIDR26-03-RC-585-001`, grafia literal `Vyasa`, sem homologação de pérola.
 
 
+## Ampliação — OIDR26-04 (Onda incremental dry-run — Experiência espiritual e ética evolutiva (derivados normalizados))
+
+- **[P5 · Vyasa]** «Então, essa vinculação do conhecimento, desse grande conhecimento surgido numa época muito antiga, e talvez o nosso amigo Gerdjev seja se referindo a coisas que ocorreram há 4, 5 mil anos antes de Cristo, ou seja, coisas que aconteceram há 6, 7 mil anos atrás, 5 mil anos talvez, isso tudo foi depois colocado no âmbito da cultura grega. Só que por essa mesma época, na Índia, Vyasa estava produzindo os quatro Vedas, os oito Kuranas, o Mahabharata, o Srimad Bhagavatam, Vyasa e outros rishis.» (U0472) — candidata de cotejo ampliado; evidência `OIDR26-04-RC-585-001`, grafia literal `Vyasa`, sem homologação de pérola.
+
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
+| OIDR26-04 | Onda incremental dry-run — Experiência espiritual e ética evolutiva (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | OIDR26-03 | Onda incremental dry-run — Cosmogonia e história cósmica (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | STT26-SOCIEDADE_CONTEMPORANEA | Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | STT26-MITOLOGIAS_REINTEGRACAO | Eixo STT26 — Mitologias, tradições e eixo de reintegração (derivados normalizados) (palestra) | transcrição automatizada; citação |

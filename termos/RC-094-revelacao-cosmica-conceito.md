@@ -5,7 +5,7 @@ nome = "Revelação Cósmica (conceito)"
 categoria = "Conceitos Cosmológicos"
 subcategoria = "2.1 Cosmogonia / Criação"
 status = "verificado"
-fontes = ["B031", "B044", "B035", "B013", "B014", "B022", "B023", "B048", "B003", "B005", "B011", "B049", "B043", "B041", "B006", "B050", "B027", "B051", "B034", "B036", "B040", "B052", "B042", "B009", "P2021-12-04", "P2025-10-25", "P2025-06-26", "P2025-02-15", "P2024-11-30", "P2024-11-09", "P2024-07-14", "P2023-12-02", "P2021-03-27", "P2023-10-14", "P2020-04-25", "P2023-12-03", "P2022-07-16", "P2021-06-26", "STT26-EXTRATERRESTRES_TECNOLOGIA", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA", "STT26-MITOLOGIAS_REINTEGRACAO", "STT26-SOCIEDADE_CONTEMPORANEA", "OIDR26-01", "OIDR26-02", "OIDR26-03"]
+fontes = ["B031", "B044", "B035", "B013", "B014", "B022", "B023", "B048", "B003", "B005", "B011", "B049", "B043", "B041", "B006", "B050", "B027", "B051", "B034", "B036", "B040", "B052", "B042", "B009", "P2021-12-04", "P2025-10-25", "P2025-06-26", "P2025-02-15", "P2024-11-30", "P2024-11-09", "P2024-07-14", "P2023-12-02", "P2021-03-27", "P2023-10-14", "P2020-04-25", "P2023-12-03", "P2022-07-16", "P2021-06-26", "STT26-EXTRATERRESTRES_TECNOLOGIA", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA", "STT26-MITOLOGIAS_REINTEGRACAO", "STT26-SOCIEDADE_CONTEMPORANEA", "OIDR26-01", "OIDR26-02", "OIDR26-03", "OIDR26-04"]
 via = "P6-evidência"
 confianca_fonte = "alta"
 atualizado = "2026-10-23"
@@ -333,3 +333,7 @@ A Revelação Cósmica é o **macroconceito** que engloba todos os demais termos
 ## Ampliação — OIDR26-03 (Onda incremental dry-run — Cosmogonia e história cósmica (derivados normalizados))
 
 - **[P3 · Revelação Cósmica (conceito)]** «O impressionante é que isso já era para ser do conhecimento da ciência terrestre, mas ainda não é. A revelação cósmica, meio que perifericamente, vai falando disso e vai ficar aí.» (U0579) — candidata de cotejo ampliado; evidência `OIDR26-03-RC-094-001`, grafia literal `revelação cósmica`, sem homologação de pérola.
+
+## Ampliação — OIDR26-04 (Onda incremental dry-run — Experiência espiritual e ética evolutiva (derivados normalizados))
+
+- **[P4 · Revelação Cósmica (conceito)]** «Não, Rogério, você pode estar totalmente enganado sobre todas essas premissas que você colocou. A revelação cósmica, se isso aqui que a gente está fazendo pode ser assim chamado, ela não tem o pressuposto de estar certa.» (U0210) — candidata de cotejo ampliado; evidência `OIDR26-04-RC-094-001`, grafia literal `revelação cósmica`, sem homologação de pérola.

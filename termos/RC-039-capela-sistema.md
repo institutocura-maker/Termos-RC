@@ -5,10 +5,10 @@ nome = "Capela (Sistema)"
 categoria = "Lokas & Geografias"
 subcategoria = "3.1 Planetas / Sistemas estelares"
 status = "verificado"
-fontes = ["B031", "B003", "B025", "B057", "B058", "P2023-04-01", "P2023-12-03", "STT26-MITOLOGIAS_REINTEGRACAO", "STT26-SOCIEDADE_CONTEMPORANEA"]
+fontes = ["B031", "B003", "B025", "B057", "B058", "P2023-04-01", "P2023-12-03", "STT26-MITOLOGIAS_REINTEGRACAO", "STT26-SOCIEDADE_CONTEMPORANEA", "OIDR26-04"]
 via = "P6-evidência"
 confianca_fonte = "alta"
-atualizado = "2026-10-22"
+atualizado = "2026-10-23"
 +++
 # Capela (Sistema) — RC-039
 
@@ -54,9 +54,15 @@ Sophia (RC-009, "Pai dos Capelinos" e Comandante); Yel Luzbel (RC-078); Len Mion
 - **[STT26-20 · Capela (Sistema)]** «Essas famílias espirituais estão juntas, pelo menos a última conformação que teve, a última formatação que teve dessas famílias tem a ver com os exílios vindos de capela, aquilo que Chico Xavier descreve no livro A Caminho da Luz, referente à rebelião de Lúcia.» (U4594 · chars 777054–777315) — Candidata de cotejo; evidência `STT26-20-RC-039-001`, grafia encontrada `capela`; decisão por lote `STT26-20: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
 
 
+## Ampliação — OIDR26-04 (Onda incremental dry-run — Experiência espiritual e ética evolutiva (derivados normalizados))
+
+- **[P6 · Capela (Sistema)]** «Nesse período, essa coisa chamada iluminismo surgiu na Grécia, no âmbito do poderio do Império Macedônico, produzido por Alexandre, e ali um homem chamado Marciano de Capela resolveu fazer um estudo do cosmos e criou ou dividiu o entendimento do cosmos em sete matérias.» (U0829) — candidata de cotejo ampliado; evidência `OIDR26-04-RC-039-001`, grafia literal `Capela`, sem homologação de pérola.
+
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| OIDR26-04 | Onda incremental dry-run — Experiência espiritual e ética evolutiva (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
 | STT26-SOCIEDADE_CONTEMPORANEA | Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
 | STT26-MITOLOGIAS_REINTEGRACAO | Eixo STT26 — Mitologias, tradições e eixo de reintegração (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
 | P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra) | — | transcrição automatizada; citação |

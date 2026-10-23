@@ -5,7 +5,7 @@ nome = "Krishna (avatar de Vishnu/Shiva)"
 categoria = "Seres & Entidades"
 subcategoria = "1.3 Extraterrestres / Raças cósmicas"
 status = "verificado"
-fontes = ["B051", "B023", "B036", "P2025-02-16", "P2024-11-30", "P2024-03-02", "P2023-12-02", "P2024-09-28", "P2025-11-29", "P2023-06-25", "P2023-05-20", "P2023-04-30", "P2023-10-14", "P2022-03-26", "P2023-12-03", "P2022-05-07", "P2024-06-16", "P2023-08-27", "P2022-11-26", "P2022-07-16", "STT26-EXTRATERRESTRES_TECNOLOGIA", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA", "STT26-MITOLOGIAS_REINTEGRACAO", "STT26-SOCIEDADE_CONTEMPORANEA", "OIDR26-02", "OIDR26-03"]
+fontes = ["B051", "B023", "B036", "P2025-02-16", "P2024-11-30", "P2024-03-02", "P2023-12-02", "P2024-09-28", "P2025-11-29", "P2023-06-25", "P2023-05-20", "P2023-04-30", "P2023-10-14", "P2022-03-26", "P2023-12-03", "P2022-05-07", "P2024-06-16", "P2023-08-27", "P2022-11-26", "P2022-07-16", "STT26-EXTRATERRESTRES_TECNOLOGIA", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA", "STT26-MITOLOGIAS_REINTEGRACAO", "STT26-SOCIEDADE_CONTEMPORANEA", "OIDR26-02", "OIDR26-03", "OIDR26-04"]
 via = "P6-evidência"
 confianca_fonte = "alta"
 atualizado = "2026-10-23"
@@ -81,9 +81,15 @@ Avatar hindu — na RC, avatar de Vishnu (e correlacionado a Shiva), "pretenso K
 - **[P3 · Krishna (avatar de Vishnu/Shiva)]** «E para a gente compreender isso, a gente vai ter que falar de uma série de pendências existenciais que estão acumuladas há milênios, há milhões, há bilhões de anos, esperando que figuras como Jesus, como Krishna e outros definidores de realidade dos seres terminem as suas situações de gestão para que estas pendências existenciais, e o que diabos é uma pendência existencial?» (U0105) — candidata de cotejo ampliado; evidência `OIDR26-03-RC-414-001`, grafia literal `Krishna`, sem homologação de pérola.
 
 
+## Ampliação — OIDR26-04 (Onda incremental dry-run — Experiência espiritual e ética evolutiva (derivados normalizados))
+
+- **[P6 · Krishna (avatar de Vishnu/Shiva)]** «E esses espíritos, e o espírito aí é esse composto pelo corpo átmico, búdico e manásico, é a tríade imortal a qual Krishna se referia no Uttara Gita. Bhagavad Gita é um livro, Uttara Gita é um outro livro.» (U0985) — candidata de cotejo ampliado; evidência `OIDR26-04-RC-414-001`, grafia literal `Krishna`, sem homologação de pérola.
+
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
+| OIDR26-04 | Onda incremental dry-run — Experiência espiritual e ética evolutiva (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | OIDR26-03 | Onda incremental dry-run — Cosmogonia e história cósmica (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | OIDR26-02 | Onda incremental dry-run — Mitologias, tradições e reintegração (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | STT26-SOCIEDADE_CONTEMPORANEA | Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados) (palestra) | transcrição automatizada; citação |

@@ -1,0 +1,60 @@
+{
+  "artefato": "Encerramento curatorial total — onda_incremental_dry_run",
+  "data": "2026-10-22",
+  "despacho_final": "onda_incremental_dry_run/triagem_curatorial/DESPACHO-CURATORIAL-POUSO-E-ENCERRAMENTO-OIDR26-04-2026-10-22.json",
+  "sha256_despacho_final": "879dd11fec09abb73d38486be8c54905d12aa746ca744ce79b3f2d5fdddf11d3",
+  "lotes": [
+    {
+      "sigla": "OIDR26-01",
+      "eixo": "ANUNNAKI_GENETICA",
+      "perolas_aprovadas": 25,
+      "fichas_ampliadas": 25,
+      "vinculos": 25,
+      "cards_rag_aprovados": 25,
+      "sha256_dossie": "99f4a1c0f73b4c5f741a0050ed393abf2b1b71931d8f44136a4763a80b8ef8d3"
+    },
+    {
+      "sigla": "OIDR26-02",
+      "eixo": "MITOLOGIAS_REINTEGRACAO",
+      "perolas_aprovadas": 25,
+      "fichas_ampliadas": 25,
+      "vinculos": 25,
+      "cards_rag_aprovados": 25,
+      "sha256_dossie": "1e23530ce38dfceb3fb5efb31ddea551f9bd2f789f37d5256a4b71cc46a48566"
+    },
+    {
+      "sigla": "OIDR26-03",
+      "eixo": "COSMOGONIA_HISTORIA_COSMICA",
+      "perolas_aprovadas": 25,
+      "fichas_ampliadas": 25,
+      "vinculos": 25,
+      "cards_rag_aprovados": 25,
+      "sha256_dossie": "8c6b0df048cb77c999682c3070a3809cd56b19b3abfb15d48f5bc80a52b0995b"
+    },
+    {
+      "sigla": "OIDR26-04",
+      "eixo": "EXPERIENCIA_ESPIRITUAL_ETICA",
+      "perolas_aprovadas": 25,
+      "fichas_ampliadas": 25,
+      "vinculos": 25,
+      "cards_rag_aprovados": 25,
+      "sha256_dossie": "1a9429a16612d33d7fa994701fd1a26392ad12ea320cd0c54f0b6963609b7a66"
+    }
+  ],
+  "totais": {
+    "lotes_encerrados": 4,
+    "perolas_aprovadas": 100,
+    "fichas_ampliadas": 100,
+    "fichas_materializadas": 0,
+    "vinculos_inscritos": 100,
+    "cards_rag_aprovados": 100,
+    "termos_novos": 0,
+    "relacoes_novas": 0
+  },
+  "base_final": {
+    "termos": 946,
+    "relacoes": 1887,
+    "fichas": 826
+  },
+  "conclusao": "Onda incremental dry-run curatorialmente encerrada; não restam candidatas nos quatro lotes OIDR26."
+}
