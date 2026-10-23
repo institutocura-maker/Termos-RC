@@ -1,16 +1,113 @@
-# Pacote de ampliação — OIDR26-03 · andaime por `motor.py novo`
-# Cada item de BLOCO 1 é UMA aspa cortada do bruto por
-#   motor.py --ciclo OIDR26-03 busca "<âncora>"
-# colada como veio, com rótulo entre [colchetes] e glosa depois do travessão. Aspa de
-# glosa que não seja span conferido perde a aspa na materialização — e o motor imprime.
-# BLOCO 2/3/4/5 são as notas do rite: fila sem arquivo, datas, radar e retidos.
+# Pacote de cotejo ampliado — OIDR26-03
 
-### BLOCO 1 — o que entra em ficha
+Este pacote foi gerado por `ferramentas/extrair_dossie_oidr26_01.py`. Cada aspa foi
+recortada pelo Motor a partir de âncora literal da evidência normalizada do ingresso P3.
+As vinte e cinco entradas são candidatas: o pacote não declara aprovação, ficha, termo,
+relação, vínculo, materialização ou exportação de card RAG.
 
-### BLOCO 2 — termos tocados sem arquivo (fila para a cadência do teto)
+### BLOCO 1 · Candidatas para avaliação curatorial
 
-### BLOCO 3 — obras, datas e anterioridade (nada harmonizado: D-9)
+### RC-037
 
-### BLOCO 4 — radar datado (promessa só aqui, nunca em ficha: D-11)
+- **[P3 · Brahma (Brajna)]** «E esses seres estão adormecidos há 300 milhões de anos porque o assunto referente a ele se encerrou lá no tempo em que ele foi criado e quem o criou se esqueceu que criou, deixou ele ali no lugar e esse maluco chamado Brahma, ou Javé, como a gente queira chamar, vai para outras estirpes ou espécies que ele vai criando e esquece as que criou e ficam esses seres estacionados, pendentes de resolução existencial.» (U0111) — candidata de cotejo ampliado; evidência `OIDR26-03-RC-037-001`, grafia literal `Brahma`, sem homologação de pérola.
 
-### BLOCO 5 — retidos por trava (nada é silenciado; nada destes entra em ficha)
+### RC-102
+
+- **[P3 · Shiva (Savna)]** «Desse ovo cósmico, cerca de 4, 5 bilhões de anos depois que o universo se formou, nesse universo vizinho, Brahma e seus descendentes, Vishnu e seus descendentes, Shiva e seus descendentes e outras gerações de seres demoníacos, todos eles, cerca de 4, 5, 6 bilhões de anos depois, eles perceberam que estavam falidos.» (U0207) — candidata de cotejo ampliado; evidência `OIDR26-03-RC-102-001`, grafia literal `Shiva`, sem homologação de pérola.
+
+### RC-135
+
+- **[P3 · Vishnu (Mavatna)]** «Desse ovo cósmico, cerca de 4, 5 bilhões de anos depois que o universo se formou, nesse universo vizinho, Brahma e seus descendentes, Vishnu e seus descendentes, Shiva e seus descendentes e outras gerações de seres demoníacos, todos eles, cerca de 4, 5, 6 bilhões de anos depois, eles perceberam que estavam falidos.» (U0207) — candidata de cotejo ampliado; evidência `OIDR26-03-RC-135-001`, grafia literal `Vishnu`, sem homologação de pérola.
+
+### RC-696
+
+- **[P3 · Geração Regenerada de Brahma]** «tudo isso aqui faliu Brahma criou mais uma geração para ver se esta não falia ou não viria a falir ou mais demais então nós vamos estudar agora a geração regenerada de Brahma que surgiu quando o novo código fonte definidor de Brahma foi reajustado já havia sido reajustado aqui Foi reajustado de novo e surgiram essas figuras ali, que a gente vai ver.» (U0247) — candidata de cotejo ampliado; evidência `OIDR26-03-RC-696-001`, grafia literal `geração regenerada de Brahma`, sem homologação de pérola.
+
+### RC-072
+
+- **[P3 · Jesus]** «Eu falei toda essa confusão aqui, mas só para explicar a vocês que há diversos tipos de vidas paralelas que acontecem, e nós temos cópias mentais da gente nessas realidades paralelas, e eu sei que isso é tremendamente louco, mas eu tento dizer isso, porque daqui a algum tempo, se nós voltarmos a nos encontrar, essa coisa chamada sonho, essa coisa chamada vivências esquisitas que nós temos, enquanto estamos levando a nossa vidinha aqui, meio pílula azul, meio pílula vermelha, as coisas vão começar a acontecer de uma forma um pouco mais direta, um pouco mais objetiva, vai ter um pouco de susto nessa história, Mas assim, Jesus uma vez disse que é necessário que essas coisas aconteçam, é necessário que o escândalo venha.» (U0097) — candidata de cotejo ampliado; evidência `OIDR26-03-RC-072-001`, grafia literal `Jesus`, sem homologação de pérola.
+
+### RC-302
+
+- **[P3 · Epimeteu (titã)]** «É a figura mais louca que eu conheço em toda essa história, é alguém viciado, cheirava todas, tomava todas, criou tudo que nós imaginamos como sendo a base do xamanismo, se por isso entendermos, quem misturou, veja só, qualquer árvore que você pegar aí fora, se você for pegar o genoma de qualquer árvore, vai ter cinco, quatro, três moléculas complexas, qualquer grama, qualquer pé de árvore qualquer coisa mas existem umas árvores umas plantas aqui na terra, na biologia terrena que tem mais de 500 moléculas complexas, a terra não faz isso e essas poucas plantas e árvores e arbustos que existem com essa característica é porque alguém fez isso e plantou ou seja, foi manipulado ayahuasca, cannabis e uma série de outras raízes com essas características todas elas têm como ponto comum o fato de possuírem mais de 500 moléculas complexas ou seja, isso não foi criação da evolução biológica no reino vegetal, alguém fez isso, manipulou quem mais fez isso foi a figura chamada Epimeteu que era irmão de Prometeu só que Prometeu era sábio, Epimeteu era maluco Prometeu era sagaz Epimeteu era leso Sabe aquele cientista leso?» (U0765) — candidata de cotejo ampliado; evidência `OIDR26-03-RC-302-001`, grafia literal `Epimeteu`, sem homologação de pérola.
+
+### RC-585
+
+- **[P3 · Vyasa]** «Só estou falando de 6, 7 mil anos atrás. Quando Mahabharata foi produzido por Vyasa, a expectativa é que os Yaksas, que os certos estirpes e raksassas, os gandarvas principalmente, os pites, os devas, figuras hiperbórias, híbridas, a que dominassem a Terra.» (U0145) — candidata de cotejo ampliado; evidência `OIDR26-03-RC-585-001`, grafia literal `Vyasa`, sem homologação de pérola.
+
+### RC-593
+
+- **[P3 · Mahabharata]** «Só estou falando de 6, 7 mil anos atrás. Quando Mahabharata foi produzido por Vyasa, a expectativa é que os Yaksas, que os certos estirpes e raksassas, os gandarvas principalmente, os pites, os devas, figuras hiperbórias, híbridas, a que dominassem a Terra.» (U0145) — candidata de cotejo ampliado; evidência `OIDR26-03-RC-593-001`, grafia literal `Mahabharata`, sem homologação de pérola.
+
+### RC-582
+
+- **[P3 · Ravana]** «Só que não estava funcionando, então um acerta a mão do outro lado e diz, é, está tudo muito bom mas Rama não vai desse jeito nunca brigar com Ravana porque Rama é um ser do bem então vamos criar uma confusão criaram de tal modo que Sita, esposa de Rama foi sacrifada aí Ravana ficou na posse de Sita e Rama vai atrás de Ravana e Rama mata Ravana foi isso os rakshasas foram destruídos não existe rakshasa até hoje mas a maioria foi mas assim nós não temos noção de quanto de vidas foi ceifado só nessa história aqui que representa a criação de um avatar chamado Rama para ele vir à terra para destruir uma espécie rakshasa E assim, os rakshasas na época começaram a, para fugir a fúria da turma de lá, a manipular os seus DNAs e se uniram a ursos, lobos.» (U0441) — candidata de cotejo ampliado; evidência `OIDR26-03-RC-582-001`, grafia literal `Ravana`, sem homologação de pérola.
+
+### RC-081
+
+- **[P3 · Mohen So (Avatar Keshava de Vishnu)]** «Pela primeira vez, esses três seres resolveram criar um ser sem lacre mental, sem trava genética, sem memória encobridora no seu cérebro, se é que diabos eles tinham cérebro nessa altura. E surgiu, então, um ser chamado Mohen So. E esse ser surgiu livre para poder sentir no corpo dele as dores de Brahma, Vishnu e Shiva, e dizer para esses seres o que precisava ser feito.» (U0217) — candidata de cotejo ampliado; evidência `OIDR26-03-RC-081-001`, grafia literal `Mohen So`, sem homologação de pérola.
+
+### RC-086
+
+- **[P3 · Pandora]** «Não tem outra espécie que possa produzir códigos sequenciais no campo da genética Que produzam resolução psíquica para problemas mal resolvidos no âmbito da consciência memorial de cada ser Esse problema se deu em todos os segmentos evolutivos adivindos dessa geração regenerada do Criador, à exceção dos descendentes do marítimo via caseata, de quem descendem os humanos, devido ao destrave que aconteceu em momentos distintos da sua história evolutiva, destrave esse feito especificamente por Pandora, por Lilith, por Eva, por Noreia e alguns descendentes de Pyrrha.» (U0541) — candidata de cotejo ampliado; evidência `OIDR26-03-RC-086-001`, grafia literal `Pandora`, sem homologação de pérola.
+
+### RC-104
+
+- **[P3 · Trimurti]** «Como esses três seres nunca conseguiram matar uns aos outros, eles criaram um triunvirato, uma Trimurti, uma tríade, uma trindade, porque eles eram os mais fortes mas Brahma não conseguia matar Vishnu Vishnu não conseguia matar Shiva, Shiva não conseguia matar Brahma então surgia esse triunvirato assim não é que eles gostassem, se amassem não, é uma representação de uma impossibilidade no campo da gestão, não dava só para um ser chefe tinha que ser os três, então eles fizeram um pacto para parar de se agredir e o resto obedecia a esses três então esses três perceberam duas coisas Todos os seres, ou seja, a descendência de Brahma, de Shiva e de Vishnu e outras descendências desses três seres, todos os seres tinham lacres de controle, travas de controle, todos eles tinham memórias encobridoras que, propositadamente, Brahma, Vishnu e Shiva colocavam nos seres para poder controlá-los.» (U0217) — candidata de cotejo ampliado; evidência `OIDR26-03-RC-104-001`, grafia literal `Trimurti`, sem homologação de pérola.
+
+### RC-414
+
+- **[P3 · Krishna (avatar de Vishnu/Shiva)]** «E para a gente compreender isso, a gente vai ter que falar de uma série de pendências existenciais que estão acumuladas há milênios, há milhões, há bilhões de anos, esperando que figuras como Jesus, como Krishna e outros definidores de realidade dos seres terminem as suas situações de gestão para que estas pendências existenciais, e o que diabos é uma pendência existencial?» (U0105) — candidata de cotejo ampliado; evidência `OIDR26-03-RC-414-001`, grafia literal `Krishna`, sem homologação de pérola.
+
+### RC-743
+
+- **[P3 · Destinação do Lobo]** «Vamos falar sobre a falência dos deuses e a destinação do lobo O que é que significa falência dos deuses?» (U0123) — candidata de cotejo ampliado; evidência `OIDR26-03-RC-743-001`, grafia literal `destinação do lobo`, sem homologação de pérola.
+
+### RC-034
+
+- **[P3 · Big Bang]** «Mas tem um gêmeo a esse, que surgiu também na hora do Big Bang, só que este é composto de matéria e este vizinho de antimatéria.» (U0053) — candidata de cotejo ampliado; evidência `OIDR26-03-RC-034-001`, grafia literal `Big Bang`, sem homologação de pérola.
+
+### RC-094
+
+- **[P3 · Revelação Cósmica (conceito)]** «O impressionante é que isso já era para ser do conhecimento da ciência terrestre, mas ainda não é. A revelação cósmica, meio que perifericamente, vai falando disso e vai ficar aí.» (U0579) — candidata de cotejo ampliado; evidência `OIDR26-03-RC-094-001`, grafia literal `revelação cósmica`, sem homologação de pérola.
+
+### RC-529
+
+- **[P3 · Ressonância límbica (emoções como tecnologia cósmica)]** «Os mamíferos passaram a confiá-los nos outros. E surgiu algo que se chama ressonância límbica, que a ciência humana só recentemente codificou mas tem inclusive no Netflix Sense 8 Sense número 8 tem uma série muito interessante que fala sobre ressonância límbica na condição humana mas o que diabos a ressonância límbica é uma linguagem silenciosa que os cientistas perceberam que os mamíferos conseguem perceber a dor do outro Então, a leoa consegue perceber a dor de outra leoa, uma vaca.» (U0413) — candidata de cotejo ampliado; evidência `OIDR26-03-RC-529-001`, grafia literal `ressonância límbica`, sem homologação de pérola.
+
+### RC-192
+
+- **[P3 · Pílula vermelha]** «Só que é a tal história da pílula azul e da pílula vermelha no filme Matrix.» (U0055) — candidata de cotejo ampliado; evidência `OIDR26-03-RC-192-001`, grafia literal `pílula vermelha`, sem homologação de pérola.
+
+### RC-301
+
+- **[P3 · Prometeu (titã)]** «É a figura mais louca que eu conheço em toda essa história, é alguém viciado, cheirava todas, tomava todas, criou tudo que nós imaginamos como sendo a base do xamanismo, se por isso entendermos, quem misturou, veja só, qualquer árvore que você pegar aí fora, se você for pegar o genoma de qualquer árvore, vai ter cinco, quatro, três moléculas complexas, qualquer grama, qualquer pé de árvore qualquer coisa mas existem umas árvores umas plantas aqui na terra, na biologia terrena que tem mais de 500 moléculas complexas, a terra não faz isso e essas poucas plantas e árvores e arbustos que existem com essa característica é porque alguém fez isso e plantou ou seja, foi manipulado ayahuasca, cannabis e uma série de outras raízes com essas características todas elas têm como ponto comum o fato de possuírem mais de 500 moléculas complexas ou seja, isso não foi criação da evolução biológica no reino vegetal, alguém fez isso, manipulou quem mais fez isso foi a figura chamada Epimeteu que era irmão de Prometeu só que Prometeu era sábio, Epimeteu era maluco Prometeu era sagaz Epimeteu era leso Sabe aquele cientista leso?» (U0765) — candidata de cotejo ampliado; evidência `OIDR26-03-RC-301-001`, grafia literal `Prometeu`, sem homologação de pérola.
+
+### RC-742
+
+- **[P3 · Falência dos Deuses]** «Então, vamos iniciar o nosso bate-papo. Vamos falar sobre a falência dos deuses e a destinação do lobo O que é que significa falência dos deuses?» (U0123) — candidata de cotejo ampliado; evidência `OIDR26-03-RC-742-001`, grafia literal `falência dos deuses`, sem homologação de pérola.
+
+### RC-852
+
+- **[P3 · Prajapati (a divindade antes de virar Brama)]** «aí eu crio o ovo cósmico aqui, coloco os meus 100 bilhões de neurônios aqui dentro e esse ovo cósmico se desgarra de mim, puxa o meu eu o resto do meu corpo desmaia, aí fica esse ovo cósmico com o meu eu preso lá dentro e meus 100 bilhões de neurônios que foram chupados pra cá, esse é o ovo cósmico se um ser pôs esse ovo cósmico o nome dele é prabrágena estão fazendo a analogia, o eu de Prajapati e os 100 bilhões de neurônios da cabeça dele foram chupados para dentro desse ovo e ele, feito uma galinha, desmaiou.» (U0205) — candidata de cotejo ampliado; evidência `OIDR26-03-RC-852-001`, grafia literal `Prajapati`, sem homologação de pérola.
+
+### RC-056
+
+- **[P3 · Especiação]** «Então, assim, todos os cachorrinhos que existem hoje vieram dessa espécie Canis lupus, o nome disso chama-se especiação. há 10 mil anos atrás não tinha cachorro só essa espécie de lobo todos os cachorrinhos que existem hoje é a genética desse lobo que foi especiado só que a condição da sensação do lobo no psiquismo do cachorro está adormecida no seu DNA para que o cachorrinho possa ter uma nova sensação frente ao ser humano que é de balançar o rabo, o cachorrinho ama o homem o lobo, matava Mas se o cachorrinho sentir a sensação do lobo, mesmo ele sendo um cachorrinho, ele age como um lobo.» (U0471) — candidata de cotejo ampliado; evidência `OIDR26-03-RC-056-001`, grafia literal `especiação`, sem homologação de pérola.
+
+### RC-839
+
+- **[P3 · Oxitocina (hormônio do bem — base bioquímica da Karuna)]** «Que gene é esse? É um gene que a gente chama hoje de oxitocina, ou oxitocina.» (U0793) — candidata de cotejo ampliado; evidência `OIDR26-03-RC-839-001`, grafia literal `oxitocina`, sem homologação de pérola.
+
+### RC-033
+
+- **[P3 · Bhuloka]** «Ou seja, quando os mamíferos surgiram, e Vishnu e algumas expressões avatáricas que ele criou propositadamente para mexer na evolução dos seres biológicos, porque ele foi quem criou o projeto que o Mahabharata chama de Bhuloka, ou seja, nossa loca, nosso universo, que em sânscrito quer dizer loca, a gente deve deduzir como universo biológico.» (U0409) — candidata de cotejo ampliado; evidência `OIDR26-03-RC-033-001`, grafia literal `Bhuloka`, sem homologação de pérola.
+
+### RC-059
+
+- **[P3 · Espiritualidade Superior]** «E aí tem essa história da omissão do universo superior, da espiritualidade superior com relação à omissão que eles têm com a gente.» (U0777) — candidata de cotejo ampliado; evidência `OIDR26-03-RC-059-001`, grafia literal `espiritualidade superior`, sem homologação de pérola.
+
+### BLOCO 2 · Limites do despacho
+
+* As vinte e cinco pérolas permanecem no status `candidata` até despacho curatorial posterior.
+* Não há cards RAG aprovados, materialização de fichas, criação de termos/relações ou vínculos de fonte.
