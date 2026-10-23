@@ -1,16 +1,113 @@
-# Pacote de ampliação — OIDR26-02 · andaime por `motor.py novo`
-# Cada item de BLOCO 1 é UMA aspa cortada do bruto por
-#   motor.py --ciclo OIDR26-02 busca "<âncora>"
-# colada como veio, com rótulo entre [colchetes] e glosa depois do travessão. Aspa de
-# glosa que não seja span conferido perde a aspa na materialização — e o motor imprime.
-# BLOCO 2/3/4/5 são as notas do rite: fila sem arquivo, datas, radar e retidos.
+# Pacote de cotejo ampliado — OIDR26-02
 
-### BLOCO 1 — o que entra em ficha
+Este pacote foi gerado por `ferramentas/extrair_dossie_oidr26_01.py`. Cada aspa foi
+recortada pelo Motor a partir de âncora literal da evidência normalizada do ingresso P2.
+As vinte e cinco entradas são candidatas: o pacote não declara aprovação, ficha, termo,
+relação, vínculo, materialização ou exportação de card RAG.
 
-### BLOCO 2 — termos tocados sem arquivo (fila para a cadência do teto)
+### BLOCO 1 · Candidatas para avaliação curatorial
 
-### BLOCO 3 — obras, datas e anterioridade (nada harmonizado: D-9)
+### RC-072
 
-### BLOCO 4 — radar datado (promessa só aqui, nunca em ficha: D-11)
+- **[P2 · Jesus]** «Aí estes avatares nasciam ou surgiam aqui Ou alguns deles nasciam e surgiam nesse universo vizinho Mas vinham para cá porque estes podiam se deslocar para cá Este é o primeiro quadro que a gente tem que compreender Para em seguida podermos falar de Cristo, Jesus, Saibaba E outros desdobramentos de Deus Por quê?» (U0099) — candidata de cotejo ampliado; evidência `OIDR26-02-RC-072-001`, grafia literal `Jesus`, sem homologação de pérola.
 
-### BLOCO 5 — retidos por trava (nada é silenciado; nada destes entra em ficha)
+### RC-037
+
+- **[P2 · Brahma (Brajna)]** «Porque a primeira geração, Khaos, Tarta, Eros, blá, blá, blá, na mitologia grega, vamos chamar agora, usando os termos da mitologia ariana hindu, Brahma, Vishnu, Shiva, esses seres jamais saíram desse universo divino.» (U0095) — candidata de cotejo ampliado; evidência `OIDR26-02-RC-037-001`, grafia literal `Brahma`, sem homologação de pérola.
+
+### RC-102
+
+- **[P2 · Shiva (Savna)]** «Porque a primeira geração, Khaos, Tarta, Eros, blá, blá, blá, na mitologia grega, vamos chamar agora, usando os termos da mitologia ariana hindu, Brahma, Vishnu, Shiva, esses seres jamais saíram desse universo divino.» (U0095) — candidata de cotejo ampliado; evidência `OIDR26-02-RC-102-001`, grafia literal `Shiva`, sem homologação de pérola.
+
+### RC-414
+
+- **[P2 · Krishna (avatar de Vishnu/Shiva)]** «E Arjuna não queria ir para a guerra matar os primos, não queria ir para a guerra matar os mestres que o haviam ensinado a lutar e que agora estavam com os turus, os caudatas, e Arjuna era frigo dos pândalas. E Krishna disse, olha, todos esses conceitos e emoções que você tem, que estão inibindo a sua vontade de ir para a guerra são inferiores à obrigação que você tem.» (U0119) — candidata de cotejo ampliado; evidência `OIDR26-02-RC-414-001`, grafia literal `Krishna`, sem homologação de pérola.
+
+### RC-135
+
+- **[P2 · Vishnu (Mavatna)]** «Porque a primeira geração, Khaos, Tarta, Eros, blá, blá, blá, na mitologia grega, vamos chamar agora, usando os termos da mitologia ariana hindu, Brahma, Vishnu, Shiva, esses seres jamais saíram desse universo divino.» (U0095) — candidata de cotejo ampliado; evidência `OIDR26-02-RC-135-001`, grafia literal `Vishnu`, sem homologação de pérola.
+
+### RC-104
+
+- **[P2 · Trimurti]** «A Trimurti que havia criado Sofia como sendo representante da Trimurti e herdeiro das épocas porque era o único ser condenado à Trimurti título de preposto nesse universo biológico.» (U0381) — candidata de cotejo ampliado; evidência `OIDR26-02-RC-104-001`, grafia literal `Trimurti`, sem homologação de pérola.
+
+### RC-942
+
+- **[P2 · Messias]** «Houve um problema com Enoch, que o plano de Javé de ter um humano que o representasse foi para o espaço, aí Virgium disse, ei, já que através de Enoch, O filho dele, Matusalém Você anunciou ao mundo A sua agenda Dizendo que vai mandar O Messias seu No segmento Populacional descendente De Enoque Que passou a ser Matusalém, Lameque, Noé Shema, Fatsad Salé, blá blá blá Abraão, Isaac, Jacó Maria, Jesus Ou seja, Jesus nasceu nesse desdobramento Aí viram disse, já que o problema com o Enoque você não vai resolver, eu, Vishnu, me ofereço para produzir um avatar seu.» (U0151) — candidata de cotejo ampliado; evidência `OIDR26-02-RC-942-001`, grafia literal `Messias`, sem homologação de pérola.
+
+### RC-094
+
+- **[P2 · Revelação Cósmica (conceito)]** «Saibaba no seu estado atual alinha-se discreta e estratégica aos postulados da revelação cósmica como maneira de encerrar a linhagem de Cristo de maneira pacífica via prima sai, que é o próximo avançado de Cristo, ofertando a sua concordância relativa ao inevitável cumprimento da função de Sofia, assessorada pelo quarto logo, que são as figuras que estão também por trás da mulher.» (U0719) — candidata de cotejo ampliado; evidência `OIDR26-02-RC-094-001`, grafia literal `revelação cósmica`, sem homologação de pérola.
+
+### RC-225
+
+- **[P2 · Gestão Cósmica]** «Cristo começou a emparelhar a gestão cósmica com a presença de seus avatares. Os bolsonaristas acusavam Lula de ter emparelhado o governo com um monte de malucos de esquerda, de índios, da Bolívia, da Colômbia, da Lula.» (U0369) — candidata de cotejo ampliado; evidência `OIDR26-02-RC-225-001`, grafia literal `gestão cósmica`, sem homologação de pérola.
+
+### RC-593
+
+- **[P2 · Mahabharata]** «E é isso que no Bhagavad Gita, um dos capítulos do Mahabharata, o Senhor Cristo explica a Arjuna o conceito de Dharma, porque Arjuna não queria ir para a guerra contra os seus primos, porque antes do Dharma surgir, existia um outro conceito, que a gente vai falar sobre isso, mas quando eu for aprofundar.» (U0119) — candidata de cotejo ampliado; evidência `OIDR26-02-RC-593-001`, grafia literal `Mahabharata`, sem homologação de pérola.
+
+### RC-669
+
+- **[P2 · Pashupati (avatar de Shiva)]** «Então, o senhor Shiva criou um senhor chamado Pashupati. E Pashupati gerou todos os animais que a gente conhece nesse universo vizinho, que depois.» (U0203) — candidata de cotejo ampliado; evidência `OIDR26-02-RC-669-001`, grafia literal `Pashupati`, sem homologação de pérola.
+
+### RC-841
+
+- **[P2 · Cronos (titã)]** «Depois, a mitologia grega diz que surge a geração de cronos, os titãs.» (U0083) — candidata de cotejo ampliado; evidência `OIDR26-02-RC-841-001`, grafia literal `cronos`, sem homologação de pérola.
+
+### RC-254
+
+- **[P2 · Dominação (premissa dos Três Primeiros Logos)]** «Nesse tempo, Shiva resolve fincar a sua trincheira para a dominação da Terra e de certas áreas da Terra e dos seres híbridos que então existiam e dos humanos que eram tratados como animais de estimação desses seres híbridos, os humanos menos espertos, e outros humanos já mais espertos que nessa época existiam, Shiva escolheu o sul da Índia, num tempo em que, para além do continente indiano, descendo, existia o continente da Lemúria, ou a terra de Bhul, ou a tradição Kumari Kandan.» (U0135) — candidata de cotejo ampliado; evidência `OIDR26-02-RC-254-001`, grafia literal `dominação`, sem homologação de pérola.
+
+### RC-301
+
+- **[P2 · Prometeu (titã)]** «Mas Cristo se estabeleceu como o Senhor Supremo e Ele cumpre exatamente tudo o que Ele prometeu.» (U0213) — candidata de cotejo ampliado; evidência `OIDR26-02-RC-301-001`, grafia literal `prometeu`, sem homologação de pérola.
+
+### RC-489
+
+- **[P2 · Enoque (sétimo patriarca; levado por Javé)]** «Houve um problema com Enoch, que o plano de Javé de ter um humano que o representasse foi para o espaço, aí Virgium disse, ei, já que através de Enoch, O filho dele, Matusalém Você anunciou ao mundo A sua agenda Dizendo que vai mandar O Messias seu No segmento Populacional descendente De Enoque Que passou a ser Matusalém, Lameque, Noé Shema, Fatsad Salé, blá blá blá Abraão, Isaac, Jacó Maria, Jesus Ou seja, Jesus nasceu nesse desdobramento Aí viram disse, já que o problema com o Enoque você não vai resolver, eu, Vishnu, me ofereço para produzir um avatar seu.» (U0151) — candidata de cotejo ampliado; evidência `OIDR26-02-RC-489-001`, grafia literal `Enoque`, sem homologação de pérola.
+
+### RC-696
+
+- **[P2 · Geração Regenerada de Brahma]** «O Dharma surgiu para os seres híbridos e para os seres demoníacos desse universo todo, quando um ser chamado Kshivako, descendente de Daksha, descendente de Kasyapa, descendente de Marit, um dos seis rishis da geração regenerada de Brahma, esse ser criou o conceito de Dharma, significando como sendo de honra.» (U0109) — candidata de cotejo ampliado; evidência `OIDR26-02-RC-696-001`, grafia literal `geração regenerada de Brahma`, sem homologação de pérola.
+
+### RC-749
+
+- **[P2 · Vício Devocional]** «Cristo criou no DNA híbrido e humano o vício devocional. Cristo começou a criar uma série de procedimentos.» (U0199) — candidata de cotejo ampliado; evidência `OIDR26-02-RC-749-001`, grafia literal `vício devocional`, sem homologação de pérola.
+
+### RC-061
+
+- **[P2 · Espiritualidade Laboratorial]** «Se eu pudesse brincar, eu diria, se existir uma roda gigante bem grande aqui, qualquer ser que entre nessa roda gigante, mesmo que ela seja muito alta, quando esse ser estiver aqui ele vai continuar sentindo aquele contentamento permanente maravilhoso que é ser perfeito mas se você pegar essa roda gigante e armar nessa espiritualidade tradicional quando ele for entrar nela, quando chegar lá ensina ele, isso aqui cai no paraíso não tem como ele ter protocolos de se isso aqui cair porque lá tudo é 100% perfeito mas aqui as coisas já podem eu estou usando as palavras que eu posso para tentar mostrar a vocês um pouco do que a gente pode compreender sobre isso aí a baianada vem toda pra cá a riobaiã e se a gente tivesse um pouquinho mais de emoção nessa história aí criaram, desde o que já estava criado lá dentro, criaram para mais ainda dentro outro colapso E surgiu a espiritualidade laboratorial.» (U0461) — candidata de cotejo ampliado; evidência `OIDR26-02-RC-061-001`, grafia literal `espiritualidade laboratorial`, sem homologação de pérola.
+
+### RC-106
+
+- **[P2 · Universo Antimaterial (Brahmaloka / Universo Paralelo)]** «E então essa primeira geração de seres que vivem num universo antimaterial, gênero, vizinho, paralelo a este nosso universo material.» (U0075) — candidata de cotejo ampliado; evidência `OIDR26-02-RC-106-001`, grafia literal `universo antimaterial`, sem homologação de pérola.
+
+### RC-162
+
+- **[P2 · Elétrons (agente básico da vida universal)]** «Então, em tese, tudo que existe aqui dentro desses dois universos gêmeos que surgiram na hora da queda do Criador existe porque aqui dentro o corpo manásico dele se despedaçou e o que a gente entende como elétrons desse universo e anti-elétrons opósitos no universo vizinho correspondem exatamente ao corpo manásico desse ser despedaçado então o eu dele a sensação do eu manásico dele caiu o corpo monásico em pedaços, surgiu dois universos, foi necessário criar uma erraticidade, ou seja, uma espiritualidade que passou a existir aqui dentro.» (U0481) — candidata de cotejo ampliado; evidência `OIDR26-02-RC-162-001`, grafia literal `elétrons`, sem homologação de pérola.
+
+### RC-239
+
+- **[P2 · Hitler (figura histórica no RC)]** «Aí Cristian não aceitava, e sempre junto do Papa, tem gente que quer ser mais católico que o Papa, junto de Hitler, tinha malucos que eram mais doidos do que Hitler junto de Bolsonaro e de Lula tem gente que é mais neolista e bolsonarista do que eles próprios sempre no meio da contagem dos cadáveres tem gente mais maluca do que aquele que no seu aquele processo e uma turma ao redor de Cristo nunca aceitou essa história e a coisa continua meio pendente de resolução nesse nível da aristocracia primurtiano, demodármica.» (U0615) — candidata de cotejo ampliado; evidência `OIDR26-02-RC-239-001`, grafia literal `Hitler`, sem homologação de pérola.
+
+### RC-024
+
+- **[P2 · Anunnaki]** «Mas uma mulher que era, entre aspas, obrigada a ter relações com um Anunnaki, um ijiji, um ser de fora, seja lá quem fosse, Zeus, esse ser que nascia dessa relação, parte da herança genética dele era humana, a outra parte não era.» (U0105) — candidata de cotejo ampliado; evidência `OIDR26-02-RC-024-001`, grafia literal `Anunnaki`, sem homologação de pérola.
+
+### RC-034
+
+- **[P2 · Big Bang]** «Os dois surgiram na explosão do Big Bang. A própria ciência, hoje em dia, já atesta, já constata, já afirma a existência de um universo gênio, tanto paralelo onde o tempo lá foi para o outro lado.» (U0077) — candidata de cotejo ampliado; evidência `OIDR26-02-RC-034-001`, grafia literal `Big Bang`, sem homologação de pérola.
+
+### RC-059
+
+- **[P2 · Espiritualidade Superior]** «ou falando de forma diferente, os Espíritos disseram, antes desse universo existir, já existia uma espiritualidade superior, pré-existente, incriada.» (U0437) — candidata de cotejo ampliado; evidência `OIDR26-02-RC-059-001`, grafia literal `espiritualidade superior`, sem homologação de pérola.
+
+### RC-073
+
+- **[P2 · Keshava]** «Os raksasas começaram a dominar todos os quadrantes, e isso uniu esses três seres, e eles resolveram começar a conduzir avatares do tipo Keshava.» (U0173) — candidata de cotejo ampliado; evidência `OIDR26-02-RC-073-001`, grafia literal `Keshava`, sem homologação de pérola.
+
+### BLOCO 2 · Limites do despacho
+
+* As vinte e cinco pérolas permanecem no status `candidata` até despacho curatorial posterior.
+* Não há cards RAG aprovados, materialização de fichas, criação de termos/relações ou vínculos de fonte.
