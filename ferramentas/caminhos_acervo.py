@@ -1,0 +1,62 @@
+#!/usr/bin/env python3
+"""Mapa único dos caminhos físicos e destinos planejados do acervo.
+
+Fase 0 da organização Fontes/KB: este módulo registra o layout atual sem
+mover dados. Ferramentas novas devem consultar este mapa; a migração de
+consumidores ativos só ocorrerá depois dos manifestos, portões e aprovação
+curatorial próprios.
+"""
+from __future__ import annotations
+
+from pathlib import Path
+from types import MappingProxyType
+
+RAIZ = Path(__file__).resolve().parent.parent
+
+# Chaves estáveis de arquitetura. Os caminhos atuais são a verdade de runtime
+# durante a Fase 0; destinos planejados não devem ser consumidos por scripts.
+CAMINHOS_ATUAIS = MappingProxyType({
+    "fonte.livros": Path("livros"),
+    "fonte.recepcao": Path("uploads_recepcao"),
+    "fonte.externas": Path("materiais_externos"),
+    "evidencia.palestras": Path("apostilas"),
+    "evidencia.ciclos": Path("ciclos"),
+    "evidencia.consolidacoes": Path("consolidacoes"),
+    "kb.base": Path("base"),
+    "kb.termos": Path("termos"),
+    "kb.rag": Path("rag"),
+    "kb.registro": Path("ferramentas") / "dados_termos.py",
+})
+
+DESTINOS_PLANEJADOS = MappingProxyType({
+    "fonte.livros": Path("fontes") / "livros",
+    "fonte.recepcao": Path("fontes") / "recepcao",
+    "fonte.externas": Path("fontes") / "externas",
+    "evidencia.palestras": None,
+    "evidencia.ciclos": None,
+    "evidencia.consolidacoes": None,
+    "kb.base": Path("kb") / "base",
+    "kb.termos": Path("kb") / "termos",
+    "kb.rag": Path("kb") / "rag",
+    # dados_termos.py é parte executável do Motor, não arquivo a ser realocado
+    # com os dados nesta arquitetura inicial.
+    "kb.registro": None,
+})
+
+
+def caminho_atual(chave: str, raiz: Path | None = None) -> Path:
+    """Devolve o caminho físico atual de uma camada conhecida."""
+    try:
+        relativo = CAMINHOS_ATUAIS[chave]
+    except KeyError as exc:
+        raise KeyError(f"camada de acervo desconhecida: {chave}") from exc
+    return (raiz or RAIZ) / relativo
+
+
+def destino_planejado(chave: str, raiz: Path | None = None) -> Path | None:
+    """Devolve o destino futuro, sem implicar autorização para migrar."""
+    try:
+        relativo = DESTINOS_PLANEJADOS[chave]
+    except KeyError as exc:
+        raise KeyError(f"camada de acervo desconhecida: {chave}") from exc
+    return None if relativo is None else (raiz or RAIZ) / relativo

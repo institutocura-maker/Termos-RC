@@ -19,6 +19,10 @@
 | [`../diagnostico/`](../diagnostico/) | diagnósticos, auditorias, avaliações, relatórios, verificações e certidões | diagnóstico do processo, auditorias e baseline da KB |
 | [`../prompts/`](../prompts/) | instruções de sistema e continuidade de sessão | prompts completos, iniciais e de continuidade |
 | [`../admin/logs/`](../admin/logs/) | trilha operacional e curatorial | `STATE-MIRROR`, despachos, handoffs e relatórios de organização |
+| [`../fontes/`](../fontes/) | taxonomia e manifestos de pré-migração de fontes | Fase 0; nenhum bruto foi movido ainda |
+| [`../kb/`](../kb/) | taxonomia e manifestos de pré-migração da KB | Fase 0; `base/`, `termos/` e `rag/` continuam nos caminhos atuais |
+
+Ver também o [plano Fontes/KB](planos/PLANO-FONTES-KB-FASE-0-2026-10-23.md).
 
 ## Regra de admissão
 
