@@ -51,23 +51,23 @@ def carregar_colecao(identificador: str) -> dict:
     raise SystemExit(f"coleção desconhecida: {identificador} (conhecidas: {conhecidos})")
 
 
-def aplicar_averbacao(esperado: dict, arquivo: Path) -> tuple[list[dict], int]:
-    """Aplica deltas declarados sem reescrever o manifesto de referência."""
+def aplicar_averbacao(arquivos_base: list[dict], identificador: str, arquivo: Path) -> tuple[list[dict], int]:
+    """Aplica um delta encadeado sem reescrever o manifesto de referência."""
     try:
         doc = json.loads(arquivo.read_text(encoding="utf-8"))
     except FileNotFoundError:
         raise SystemExit(f"averbação ausente: {arquivo}") from None
-    if doc.get("colecao") != esperado["id"]:
-        raise SystemExit(f"averbação de {doc.get('colecao')!r} não pode ser aplicada a {esperado['id']}.")
-    arquivos = [dict(item) for item in esperado["arquivos"]]
+    if doc.get("colecao") != identificador:
+        raise SystemExit(f"averbação de {doc.get('colecao')!r} não pode ser aplicada a {identificador}.")
+    arquivos = [dict(item) for item in arquivos_base]
     por_caminho = {item["caminho_relativo"]: item for item in arquivos}
     alteracoes = doc.get("alteracoes", [])
     if not alteracoes:
         raise SystemExit("averbação sem alterações declaradas.")
     for delta in alteracoes:
         caminho = delta.get("caminho_relativo")
-        anterior = delta.get("fase_0")
-        atual = delta.get("pre_migracao")
+        anterior = delta.get("fase_0", delta.get("anterior"))
+        atual = delta.get("pre_migracao", delta.get("pos_migracao"))
         item = por_caminho.get(caminho)
         if not item or {"bytes": item["bytes"], "sha256": item["sha256"]} != anterior:
             raise SystemExit(f"averbação inválida para {caminho}: não coincide com a Fase 0.")
@@ -76,7 +76,8 @@ def aplicar_averbacao(esperado: dict, arquivo: Path) -> tuple[list[dict], int]:
         item.update(atual)
     arquivos.sort(key=lambda item: item["caminho_relativo"])
     agregado = hash_agregado(arquivos)
-    if agregado != doc.get("sha256_colecao_pre_migracao"):
+    declarado = doc.get("sha256_colecao_resultante", doc.get("sha256_colecao_pre_migracao"))
+    if agregado != declarado:
         raise SystemExit("averbação inválida: hash agregado declarado não confere.")
     return arquivos, len(alteracoes)
 
@@ -96,12 +97,13 @@ def diagnostico_divergencia(atual: list[dict], esperado: list[dict]) -> str:
     return "; ".join(partes) or "divergência não classificada"
 
 
-def verificar(identificador: str, averbacao: Path | None = None) -> None:
+def verificar(identificador: str, averbacoes_paths: list[Path] | None = None) -> None:
     colecao = carregar_colecao(identificador)
     esperado = colecao["arquivos"]
     averbacoes = 0
-    if averbacao:
-        esperado, averbacoes = aplicar_averbacao(colecao, averbacao)
+    for averbacao in averbacoes_paths or []:
+        esperado, quantidade = aplicar_averbacao(esperado, identificador, averbacao)
+        averbacoes += quantidade
     destino = caminho_atual(colecao["chave"])
     if not destino.is_dir():
         raise SystemExit(f"rota atual ausente: {destino.relative_to(RAIZ)}")
@@ -117,7 +119,7 @@ def verificar(identificador: str, averbacao: Path | None = None) -> None:
             f"{diagnostico_divergencia(atual, esperado)})."
         )
     agregado = hash_agregado(atual)
-    agregado_esperado = hash_agregado(esperado) if averbacao else colecao["sha256_colecao"]
+    agregado_esperado = hash_agregado(esperado) if averbacoes_paths else colecao["sha256_colecao"]
     if agregado != agregado_esperado:
         raise SystemExit("INTEGRIDADE INVÁLIDA: hash agregado da coleção diverge.")
     qualificacao = f"; {averbacoes} averbação(ões) aplicada(s)" if averbacoes else ""
@@ -130,7 +132,8 @@ def main() -> None:
     grupo = parser.add_mutually_exclusive_group(required=True)
     grupo.add_argument("--colecao", metavar="ID", help="ID estável do manifesto, como FON-LIVROS")
     grupo.add_argument("--piloto", choices=sorted(PILOTOS), help="atalho compatível para piloto publicado")
-    parser.add_argument("--averbacao", type=Path, help="delta pós-Fase 0 a aplicar explicitamente")
+    parser.add_argument("--averbacao", action="append", default=[], type=Path,
+                        help="delta a aplicar; repita em ordem para uma cadeia de averbações")
     args = parser.parse_args()
     verificar(args.colecao or PILOTOS[args.piloto], args.averbacao)
 

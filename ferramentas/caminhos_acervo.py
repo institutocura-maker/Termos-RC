@@ -16,7 +16,7 @@ RAIZ = Path(__file__).resolve().parent.parent
 # Chaves estáveis de arquitetura. Os caminhos atuais são a verdade de runtime
 # durante a Fase 0; destinos planejados não devem ser consumidos por scripts.
 CAMINHOS_ATUAIS = MappingProxyType({
-    "fonte.livros": Path("livros"),
+    "fonte.livros": Path("fontes") / "livros",
     "fonte.recepcao": Path("uploads_recepcao"),
     "fonte.externas": Path("fontes") / "externas",
     "evidencia.palestras": Path("apostilas"),

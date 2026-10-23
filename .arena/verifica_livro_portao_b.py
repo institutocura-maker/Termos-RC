@@ -21,8 +21,13 @@ import glob
 import os
 import re
 import sys
+from pathlib import Path
 
 RAIZ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+sys.path.insert(0, os.path.join(RAIZ, "ferramentas"))
+from caminhos_acervo import caminho_atual  # noqa: E402
+
+LIVROS = caminho_atual("fonte.livros")
 CAPS = os.path.join(RAIZ, "pedagogico", "livro", "capitulos")
 
 SIGLA_RE = re.compile(r"—\s+\*.*\*\s+\(([^)]+)\)")
@@ -43,16 +48,16 @@ def limpa_box(bloco: str) -> str:
 def corpus() -> dict[str, str]:
     """sigla -> texto colapsado do original.txt."""
     out: dict[str, str] = {}
-    for base in ("livros/CONCLUIDOS", "apostilas/CONCLUIDAS", "ciclos"):
-        for dd in glob.glob(os.path.join(RAIZ, base, "*")):
+    for base in (LIVROS / "CONCLUIDOS", Path(RAIZ) / "apostilas" / "CONCLUIDAS", Path(RAIZ) / "ciclos"):
+        for dd in glob.glob(os.path.join(base, "*")):
             p = os.path.join(dd, "original.txt")
             if not os.path.exists(p):
                 continue
             dname = os.path.basename(dd)
             sigla = dname.split("_")[0]
-            if base == "livros/CONCLUIDOS":
+            if base == LIVROS / "CONCLUIDOS":
                 pass  # B031
-            elif base == "ciclos":
+            elif base == Path(RAIZ) / "ciclos":
                 pass  # P2012-02-19 (já com P)
             else:  # apostilas: diretório 2017-05-14_... → P2017-05-14
                 if sigla.startswith("P"):

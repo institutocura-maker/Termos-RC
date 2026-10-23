@@ -1,13 +1,13 @@
-# Fontes — arquitetura em Fase 0
+# Fontes — arquitetura de fontes
 
-> Esta pasta inicia a organização lógica das fontes. **Nenhum bruto foi movido para cá nesta fase**: os caminhos físicos atuais permanecem autoritativos até uma onda curatorial específica de migração.
+> Esta pasta organiza as fontes por proveniência. As coleções já migradas têm seus caminhos físicos autoritativos nesta árvore; as demais permanecem nos caminhos atuais até uma onda curatorial específica.
 
 ## Taxonomia planejada
 
 ```text
 fontes/
 ├── recepcao/          # futuros brutos recebidos; hoje: uploads_recepcao/
-├── livros/            # obras e amostras; hoje: livros/
+├── livros/            # obras e amostras; rota atual
 ├── palestras/         # fontes classificadas como palestras
 ├── online/youtube/    # fontes identificadas pelo canal, quando aplicável
 └── externas/          # materiais de terceiros; hoje: externas/
@@ -18,6 +18,7 @@ fontes/
 ## Estado da migração
 
 - **FON-EXTERNAS** foi migrada em 23/10/2026 para `externas/`, por `git mv`, com os 15 arquivos e a hash agregada conferidos contra o manifesto da Fase 0.
+- **FON-LIVROS** foi migrada em 23/10/2026 para `livros/`, por `git mv`, com a coleção literal conferida contra a linha Fase 0 + Fase 1B antes da atualização documental limitada desta onda.
 - As demais rotas desenhadas acima permanecem planejadas; não devem ser usadas como caminhos de runtime até despacho e portões próprios.
 
 ## O que não pertence aqui

@@ -1,0 +1,10 @@
+{
+  "formato": "averbacao-manifesto-fontes/v1",
+  "data": "2026-10-23",
+  "colecao": "FON-LIVROS",
+  "manifesto_base": "fontes/manifestos/MANIFESTO-FONTES-FASE-0.json",
+  "averbacao_anterior": "fontes/manifestos/averbacoes/AVERBACAO-FON-LIVROS-FASE-1B.json",
+  "natureza": "correção documental limitada posterior à prova literal do git mv; não altera o manifesto-base",
+  "alteracoes": [{"caminho_relativo":"README.md","anterior":{"bytes":16950,"sha256":"6bda4559fc37ec1949b4906a2622ce799cb047e76250ae29ee53a85b7d8eb50b"},"pos_migracao":{"bytes":16943,"sha256":"1c5da15827a451a47a6368f2d546c204a32366f1556360b97bc76699a9fe3559"}}],
+  "sha256_colecao_resultante": "816ea75b329eab074103de639bd12c0d98a44d72b46ee93e6db7373fe11128c6"
+}
