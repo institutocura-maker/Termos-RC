@@ -1,0 +1,80 @@
+{
+  "artefato": "Manifesto de origem da fonte consolidada — onda incremental dry-run",
+  "gerado_em": "2026-10-22",
+  "ciclo": "OIDR26-01",
+  "eixo": "ANUNNAKI_GENETICA",
+  "ingressos": [
+    "P1"
+  ],
+  "fonte_operacional": "somente onda_incremental_dry_run/derivados_normalizados/",
+  "fontes_brutas_abertas": 0,
+  "autorizacao_de_abertura": {
+    "caminho": "onda_incremental_dry_run/triagem_curatorial/AUTORIZACAO-ABERTURA-DE-CICLOS-2026-10-22.json",
+    "sha256": "56f10574ae72f3a5debce5dbe95383c4c9933a4c62a303116eef00275245ec32",
+    "despacho_cotejo_consolidado": "onda_incremental_dry_run/triagem_curatorial/CONSOLIDADO-DESPACHO-CURATORIAL.json",
+    "sha256_despacho_cotejo_consolidado": "f8a300189130a9c873d8b1f5029631e48792e7d4facd261f991662ce8628a9f7",
+    "candidatos_autorizados_para_cotejo": [
+      "RC-487",
+      "RC-460",
+      "RC-024",
+      "RC-072",
+      "RC-086",
+      "RC-589",
+      "RC-102",
+      "RC-588",
+      "RC-036",
+      "RC-850",
+      "RC-942",
+      "RC-003",
+      "RC-037",
+      "RC-078",
+      "RC-094",
+      "RC-097",
+      "RC-104",
+      "RC-134",
+      "RC-135",
+      "RC-301",
+      "RC-464",
+      "RC-528",
+      "RC-764",
+      "RC-834",
+      "RC-002"
+    ]
+  },
+  "baseline_commit": "e97b7a2",
+  "base_no_inicio": {
+    "sha256_dados_termos": "07f850448b3726a6f05e87649db1d6129ac0225483a5074238b765df3bf1cb3b",
+    "termos": 946,
+    "relacoes": 1887,
+    "ficha_true": 826,
+    "arquivos_ficha": 826
+  },
+  "sha256_original_consolidado": "2dc16e849bd53c8740a136165e7d9446155f8ca400ac8fc3b2ce5603f55b98d6",
+  "fontes": [
+    {
+      "ordem": 1,
+      "ingresso_id": "P1",
+      "arquivo_derivado": "onda_incremental_dry_run/derivados_normalizados/2024-07_005_L90vP0VFSTc_Enki_Enlil_e_o_Fim_Subito_da_Babilonia_-_PALESTRA_COMPLETA_Jan_Val_Ellam.md",
+      "titulo": "Enki, Enlil e o Fim Súbito da Babilônia - PALESTRA COMPLETA (Jan Val Ellam)",
+      "duracao": "03:27:17",
+      "sha256_derivado": "74db4bc550f396607b06e586c3eefdd0ec591a95b05a03cafe230b4fe2b685f2",
+      "bytes_payload": 140746,
+      "inicio_byte_payload": 770,
+      "fim_byte_exclusivo_payload": 141516
+    }
+  ],
+  "delta_esperado": {
+    "arquivos": 0,
+    "ficha_true": 0,
+    "termos": 0,
+    "relacoes": 0,
+    "vinculos": 0
+  },
+  "mutacoes_na_abertura": {
+    "dados_termos_alterado": false,
+    "fichas_criadas": 0,
+    "termos_criados": 0,
+    "relacoes_criadas": 0,
+    "apostilas_criadas": 0
+  }
+}

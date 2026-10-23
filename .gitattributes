@@ -16,3 +16,10 @@ ciclos/STT26-EXTRATERRESTRES_TECNOLOGIA/original.txt whitespace=-trailing-space
 ciclos/STT26-EXPERIENCIA_ESPIRITUAL_ETICA/original.txt whitespace=-trailing-space
 ciclos/STT26-MITOLOGIAS_REINTEGRACAO/original.txt whitespace=-trailing-space
 ciclos/STT26-SOCIEDADE_CONTEMPORANEA/original.txt whitespace=-trailing-space
+# Os quatro ambientes OIDR carregam os derivados selados sem normalizar CRLF
+# ou espaços finais no payload. A exceção é deliberadamente limitada aos
+# originais compostos da onda incremental dry-run.
+ciclos/OIDR26-01/original.txt whitespace=-trailing-space
+ciclos/OIDR26-02/original.txt whitespace=-trailing-space
+ciclos/OIDR26-03/original.txt whitespace=-trailing-space
+ciclos/OIDR26-04/original.txt whitespace=-trailing-space

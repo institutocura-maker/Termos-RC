@@ -1,0 +1,16 @@
+# Pacote de ampliação — OIDR26-02 · andaime por `motor.py novo`
+# Cada item de BLOCO 1 é UMA aspa cortada do bruto por
+#   motor.py --ciclo OIDR26-02 busca "<âncora>"
+# colada como veio, com rótulo entre [colchetes] e glosa depois do travessão. Aspa de
+# glosa que não seja span conferido perde a aspa na materialização — e o motor imprime.
+# BLOCO 2/3/4/5 são as notas do rite: fila sem arquivo, datas, radar e retidos.
+
+### BLOCO 1 — o que entra em ficha
+
+### BLOCO 2 — termos tocados sem arquivo (fila para a cadência do teto)
+
+### BLOCO 3 — obras, datas e anterioridade (nada harmonizado: D-9)
+
+### BLOCO 4 — radar datado (promessa só aqui, nunca em ficha: D-11)
+
+### BLOCO 5 — retidos por trava (nada é silenciado; nada destes entra em ficha)
