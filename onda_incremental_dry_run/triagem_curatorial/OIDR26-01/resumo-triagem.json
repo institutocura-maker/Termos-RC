@@ -1,0 +1,32 @@
+{
+  "candidatos": 25,
+  "duracao_estimada": "3:27:17",
+  "eixo": {
+    "codigo": "ANUNNAKI_GENETICA",
+    "nome": "Anunnaki, genética e humanidade"
+  },
+  "entrada_operacional": "somente onda_incremental_dry_run/derivados_normalizados/ e manifestos da onda",
+  "estado": "AGUARDANDO-DESPACHO-CURATORIAL",
+  "fontes": 1,
+  "fontes_brutas_abertas": 0,
+  "gerado_em": "2026-10-22",
+  "hashes_de_entrada": {
+    "dados_termos.py": "07f850448b3726a6f05e87649db1d6129ac0225483a5074238b765df3bf1cb3b",
+    "manifesto-derivados.json": "4ff704b2b08b10999da7309e996c5a9a7b781253d7ab23299c9c880cc531cb9d",
+    "manifesto-fontes.json": "d5ff1a03afcab21ca22b9597509ad970d6f1fad2ae7fc08ad91bef2b1f68bedf",
+    "rastreio-antes-depois.jsonl": "c3d53e05fd00aaec2565998f813c3d45dd1b681031be5f1f29845b77761a2890"
+  },
+  "lote_id": "OIDR26-01",
+  "max_candidatos": 25,
+  "max_evidencias_representativas_por_candidato": 3,
+  "mutacoes": {
+    "apostilas_criadas": 0,
+    "ciclos_criados": 0,
+    "dados_termos_alterado": false,
+    "fichas_criadas": 0,
+    "relacoes_criadas": 0,
+    "termos_criados": 0
+  },
+  "ocorrencias_literais": 230,
+  "origem_da_alocacao": "despacho curatorial explícito; não inferido automaticamente"
+}

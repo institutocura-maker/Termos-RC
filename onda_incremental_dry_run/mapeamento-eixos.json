@@ -1,0 +1,58 @@
+{
+  "onda": "onda_incremental_dry_run",
+  "gerado_em": "2026-10-22",
+  "executor": "ferramentas/preparar_triagem_onda_incremental_dry_run.py",
+  "fundamento": "alocação explícita do Curador; sem inferência automática",
+  "lotes": [
+    {
+      "lote_id": "OIDR26-01",
+      "eixo": {
+        "codigo": "ANUNNAKI_GENETICA",
+        "nome": "Anunnaki, genética e humanidade"
+      },
+      "ingressos": [
+        "P1"
+      ],
+      "duracao_estimada": "3:27:17",
+      "dossie": "onda_incremental_dry_run/triagem_curatorial/OIDR26-01/DOSSIE-CURATORIAL.md"
+    },
+    {
+      "lote_id": "OIDR26-02",
+      "eixo": {
+        "codigo": "MITOLOGIAS_REINTEGRACAO",
+        "nome": "Mitologias, tradições e reintegração"
+      },
+      "ingressos": [
+        "P2"
+      ],
+      "duracao_estimada": "3:35:05",
+      "dossie": "onda_incremental_dry_run/triagem_curatorial/OIDR26-02/DOSSIE-CURATORIAL.md"
+    },
+    {
+      "lote_id": "OIDR26-03",
+      "eixo": {
+        "codigo": "COSMOGONIA_HISTORIA_COSMICA",
+        "nome": "Cosmogonia e história cósmica"
+      },
+      "ingressos": [
+        "P3"
+      ],
+      "duracao_estimada": "3:47:35",
+      "dossie": "onda_incremental_dry_run/triagem_curatorial/OIDR26-03/DOSSIE-CURATORIAL.md"
+    },
+    {
+      "lote_id": "OIDR26-04",
+      "eixo": {
+        "codigo": "EXPERIENCIA_ESPIRITUAL_ETICA",
+        "nome": "Experiência espiritual e ética evolutiva"
+      },
+      "ingressos": [
+        "P4",
+        "P5",
+        "P6"
+      ],
+      "duracao_estimada": "4:39:55",
+      "dossie": "onda_incremental_dry_run/triagem_curatorial/OIDR26-04/DOSSIE-CURATORIAL.md"
+    }
+  ]
+}

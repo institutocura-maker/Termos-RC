@@ -1,0 +1,281 @@
+{
+  "meta": {
+    "artefato": "Template de despacho curatorial — onda incremental dry-run",
+    "lote_id": "OIDR26-01",
+    "eixo": "ANUNNAKI_GENETICA",
+    "gerado_em": "2026-10-22",
+    "estado": "PENDENTE-CURADOR",
+    "fonte_operacional": "somente derivados normalizados da onda; o STT bruto não foi aberto",
+    "efeito_atual": "nenhum: não cria ciclo nem altera a Base",
+    "instrucoes": [
+      "Decidir o conjunto do eixo/lote, não vídeo a vídeo.",
+      "Sinal literal não prova conceito, interpretação nem citação apta.",
+      "AUTORIZAR-COTEJO-AMPLIADO permite apenas aprofundar evidência no derivado.",
+      "ABRIR-CICLO exige despacho posterior com âncoras e fonte derivada explícitas; não é efeito deste template."
+    ],
+    "opcoes_por_candidato": [
+      "MANTER-EM-TRIAGEM",
+      "DESCARTAR-DO-LOTE",
+      "AUTORIZAR-COTEJO-AMPLIADO",
+      "RESERVAR-PARA-FUTURO-CICLO"
+    ]
+  },
+  "candidatos": [
+    {
+      "codigo": "RC-487",
+      "nome": "Enlil (deus sumério, par de Enki)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "OIDR26-01-RC-487-001"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-460",
+      "nome": "Marduk (= Ra; Anunnaki filho de Enki)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "OIDR26-01-RC-460-001"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-024",
+      "nome": "Anunnaki",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "OIDR26-01-RC-024-001"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-072",
+      "nome": "Jesus",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "OIDR26-01-RC-072-001"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-086",
+      "nome": "Pandora",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "OIDR26-01-RC-086-001"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-589",
+      "nome": "Nibiru",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "OIDR26-01-RC-589-001"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-102",
+      "nome": "Shiva (Savna)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "OIDR26-01-RC-102-001"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-588",
+      "nome": "Ninurta",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "OIDR26-01-RC-588-001"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-036",
+      "nome": "Biodemos",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "OIDR26-01-RC-036-001"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-850",
+      "nome": "Alexandre Magno (tirano sob influência de Lemion)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "OIDR26-01-RC-850-001"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-942",
+      "nome": "Messias",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "OIDR26-01-RC-942-001"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-003",
+      "nome": "Reintegração Cósmica",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "OIDR26-01-RC-003-001"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-037",
+      "nome": "Brahma (Brajna)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "OIDR26-01-RC-037-001"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-078",
+      "nome": "Lúcifer (Yel Luzbel)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "OIDR26-01-RC-078-001"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-094",
+      "nome": "Revelação Cósmica (conceito)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "OIDR26-01-RC-094-001"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-097",
+      "nome": "Seres Extrafísicos",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "OIDR26-01-RC-097-001"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-104",
+      "nome": "Trimurti",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "OIDR26-01-RC-104-001"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-134",
+      "nome": "Viajores",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "OIDR26-01-RC-134-001"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-135",
+      "nome": "Vishnu (Mavatna)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "OIDR26-01-RC-135-001"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-301",
+      "nome": "Prometeu (titã)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "OIDR26-01-RC-301-001"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-464",
+      "nome": "Inanna (= Danu; Anunnaki)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "OIDR26-01-RC-464-001"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-528",
+      "nome": "Mergulho (designação ellâmica da queda)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "OIDR26-01-RC-528-001"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-764",
+      "nome": "Ao Vencedor as Batatas (paradigma do domínio)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "OIDR26-01-RC-764-001"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-834",
+      "nome": "Família Aya (Clone de Sophia para Inseminação Artificial de Maria)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "OIDR26-01-RC-834-001"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-002",
+      "nome": "Rebelião de Lúcifer",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "OIDR26-01-RC-002-001"
+      ],
+      "observacao": ""
+    }
+  ],
+  "despacho_de_lote": {
+    "resultado": "PENDENTE",
+    "candidatos_para_cotejo_ampliado": [],
+    "autorizacao_para_abrir_ciclo": false,
+    "observacao": ""
+  }
+}
