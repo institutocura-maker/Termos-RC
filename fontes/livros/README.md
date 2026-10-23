@@ -6,13 +6,13 @@ Pasta-irmã de `apostilas/`. Aqui entram as **obras primárias de Jan Val Ellam*
 
 | Pasta | Papel |
 |---|---|
-| `livros/B0NN_slug/` | ciclo em andamento (PDF + extract + ficha + analise/) |
-| `livros/AMOSTRAS/` | Sample com Devolutiva da amostra — **não** é obra fechada |
-| `livros/CONCLUIDOS/` | só depois da Devolutiva da **obra integral** |
+| `fontes/livros/B0NN_slug/` | ciclo em andamento (PDF + extract + ficha + analise/) |
+| `fontes/livros/AMOSTRAS/` | Sample com Devolutiva da amostra — **não** é obra fechada |
+| `fontes/livros/CONCLUIDOS/` | só depois da Devolutiva da **obra integral** |
 
-O nome da raiz é **minúsculo** (`livros/`), no padrão de `apostilas/`, `termos/`, `pedagogico/`. `CONCLUIDOS` fica no masculino (livro). `AMOSTRAS` fica no feminino (amostra).
+A rota canônica é `fontes/livros/`; o segmento `livros` permanece **minúsculo**, no padrão de `apostilas/`, `termos/`, `pedagogico/`. `CONCLUIDOS` fica no masculino (livro). `AMOSTRAS` fica no feminino (amostra).
 
-Se a obra completa de uma amostra subir: ciclo novo em `livros/B0NN_slug/`. **Não** promover a pasta de `AMOSTRAS/` para `CONCLUIDOS/`.
+Se a obra completa de uma amostra subir: ciclo novo em `fontes/livros/B0NN_slug/`. **Não** promover a pasta de `AMOSTRAS/` para `CONCLUIDOS/`.
 
 ## O que nunca vai para cá
 
@@ -23,7 +23,7 @@ Se a obra completa de uma amostra subir: ciclo novo em `livros/B0NN_slug/`. **N�
 
 ## Ciclo em andamento
 
-**Nenhum — A FASE DOS LIVROS ESTÁ ENCERRADA** (ordem do curador, 2026-08-26; ver `../diagnostico/VERIFICACAO-DE-COBERTURA-2026-08-26.md`: zero sobras). A fila remanescente é de material que ainda não chegou: B059 *Sinais de Guerra em Capela* SEM PDF (somente físico, ASIN B0GFPWXVSG) — fecha a trilogia de Yel Luzbel; obras completas B027/B035; B076–B078 *Mentalma III–V*; B085/B086/B090 (sem PDF). **A esteira segue para as PALESTRAS E APOSTILAS.**
+**Nenhum — A FASE DOS LIVROS ESTÁ ENCERRADA** (ordem do curador, 2026-08-26; ver `../../diagnostico/VERIFICACAO-DE-COBERTURA-2026-08-26.md`: zero sobras). A fila remanescente é de material que ainda não chegou: B059 *Sinais de Guerra em Capela* SEM PDF (somente físico, ASIN B0GFPWXVSG) — fecha a trilogia de Yel Luzbel; obras completas B027/B035; B076–B078 *Mentalma III–V*; B085/B086/B090 (sem PDF). **A esteira segue para as PALESTRAS E APOSTILAS.**
 
 ## Último ciclo
 
