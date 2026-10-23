@@ -5,7 +5,7 @@ nome = "Trimurti"
 categoria = "Genealogias & Linhagens"
 subcategoria = "6.1 Famílias divinas / Celestiais"
 status = "verificado"
-fontes = ["B031", "B035", "B001", "B033", "B014", "B044", "B024", "B021", "B022", "B023", "B060", "B037", "B017", "B018", "B039", "B020", "P2022-12-17", "P2021-12-04", "P2025-03-15", "P2025-02-16", "P2024-11-30", "P2024-11-09", "P2024-08-03", "P2024-07-14", "P2024-03-02", "P2023-12-02", "P2025-11-29", "P2023-11-19", "P2023-09-09", "P2023-06-03", "P2023-04-15", "P2023-04-01", "P2023-04-29", "P2020-05-09", "P2022-09-24", "P2023-04-01b", "P2024-11-03", "P2025-02-22", "P2021-05-15", "P2023-10-14", "P2022-03-26", "P2023-12-03", "P2022-05-07", "P2024-06-16", "P2022-11-26", "P2022-11-20", "P2022-10-01", "P2022-09-25", "P2022-09-18", "P2022-07-16", "P2026-03-21", "P2021-06-26", "P2022-11-19", "P2025-12-14", "P2023-12-25-01", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA", "STT26-MITOLOGIAS_REINTEGRACAO", "STT26-SOCIEDADE_CONTEMPORANEA", "OIDR26-01", "OIDR26-02"]
+fontes = ["B031", "B035", "B001", "B033", "B014", "B044", "B024", "B021", "B022", "B023", "B060", "B037", "B017", "B018", "B039", "B020", "P2022-12-17", "P2021-12-04", "P2025-03-15", "P2025-02-16", "P2024-11-30", "P2024-11-09", "P2024-08-03", "P2024-07-14", "P2024-03-02", "P2023-12-02", "P2025-11-29", "P2023-11-19", "P2023-09-09", "P2023-06-03", "P2023-04-15", "P2023-04-01", "P2023-04-29", "P2020-05-09", "P2022-09-24", "P2023-04-01b", "P2024-11-03", "P2025-02-22", "P2021-05-15", "P2023-10-14", "P2022-03-26", "P2023-12-03", "P2022-05-07", "P2024-06-16", "P2022-11-26", "P2022-11-20", "P2022-10-01", "P2022-09-25", "P2022-09-18", "P2022-07-16", "P2026-03-21", "P2021-06-26", "P2022-11-19", "P2025-12-14", "P2023-12-25-01", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA", "STT26-MITOLOGIAS_REINTEGRACAO", "STT26-SOCIEDADE_CONTEMPORANEA", "OIDR26-01", "OIDR26-02", "OIDR26-03"]
 via = "P6-evidência"
 confianca_fonte = "alta"
 atualizado = "2026-10-23"
@@ -100,9 +100,15 @@ Tríade hindu de princípios ontológicos de gênese (Brahma, Vishnu, Shiva) —
 - **[P2 · Trimurti]** «A Trimurti que havia criado Sofia como sendo representante da Trimurti e herdeiro das épocas porque era o único ser condenado à Trimurti título de preposto nesse universo biológico.» (U0381) — candidata de cotejo ampliado; evidência `OIDR26-02-RC-104-001`, grafia literal `Trimurti`, sem homologação de pérola.
 
 
+## Ampliação — OIDR26-03 (Onda incremental dry-run — Cosmogonia e história cósmica (derivados normalizados))
+
+- **[P3 · Trimurti]** «Como esses três seres nunca conseguiram matar uns aos outros, eles criaram um triunvirato, uma Trimurti, uma tríade, uma trindade, porque eles eram os mais fortes mas Brahma não conseguia matar Vishnu Vishnu não conseguia matar Shiva, Shiva não conseguia matar Brahma então surgia esse triunvirato assim não é que eles gostassem, se amassem não, é uma representação de uma impossibilidade no campo da gestão, não dava só para um ser chefe tinha que ser os três, então eles fizeram um pacto para parar de se agredir e o resto obedecia a esses três então esses três perceberam duas coisas Todos os seres, ou seja, a descendência de Brahma, de Shiva e de Vishnu e outras descendências desses três seres, todos os seres tinham lacres de controle, travas de controle, todos eles tinham memórias encobridoras que, propositadamente, Brahma, Vishnu e Shiva colocavam nos seres para poder controlá-los.» (U0217) — candidata de cotejo ampliado; evidência `OIDR26-03-RC-104-001`, grafia literal `Trimurti`, sem homologação de pérola.
+
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
+| OIDR26-03 | Onda incremental dry-run — Cosmogonia e história cósmica (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | OIDR26-02 | Onda incremental dry-run — Mitologias, tradições e reintegração (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | OIDR26-01 | Onda incremental dry-run — Anunnaki, genética e humanidade (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | STT26-SOCIEDADE_CONTEMPORANEA | Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados) (palestra) | transcrição automatizada; citação |

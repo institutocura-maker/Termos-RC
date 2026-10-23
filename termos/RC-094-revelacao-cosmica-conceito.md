@@ -5,7 +5,7 @@ nome = "Revelação Cósmica (conceito)"
 categoria = "Conceitos Cosmológicos"
 subcategoria = "2.1 Cosmogonia / Criação"
 status = "verificado"
-fontes = ["B031", "B044", "B035", "B013", "B014", "B022", "B023", "B048", "B003", "B005", "B011", "B049", "B043", "B041", "B006", "B050", "B027", "B051", "B034", "B036", "B040", "B052", "B042", "B009", "P2021-12-04", "P2025-10-25", "P2025-06-26", "P2025-02-15", "P2024-11-30", "P2024-11-09", "P2024-07-14", "P2023-12-02", "P2021-03-27", "P2023-10-14", "P2020-04-25", "P2023-12-03", "P2022-07-16", "P2021-06-26", "STT26-EXTRATERRESTRES_TECNOLOGIA", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA", "STT26-MITOLOGIAS_REINTEGRACAO", "STT26-SOCIEDADE_CONTEMPORANEA", "OIDR26-01", "OIDR26-02"]
+fontes = ["B031", "B044", "B035", "B013", "B014", "B022", "B023", "B048", "B003", "B005", "B011", "B049", "B043", "B041", "B006", "B050", "B027", "B051", "B034", "B036", "B040", "B052", "B042", "B009", "P2021-12-04", "P2025-10-25", "P2025-06-26", "P2025-02-15", "P2024-11-30", "P2024-11-09", "P2024-07-14", "P2023-12-02", "P2021-03-27", "P2023-10-14", "P2020-04-25", "P2023-12-03", "P2022-07-16", "P2021-06-26", "STT26-EXTRATERRESTRES_TECNOLOGIA", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA", "STT26-MITOLOGIAS_REINTEGRACAO", "STT26-SOCIEDADE_CONTEMPORANEA", "OIDR26-01", "OIDR26-02", "OIDR26-03"]
 via = "P6-evidência"
 confianca_fonte = "alta"
 atualizado = "2026-10-23"
@@ -329,3 +329,7 @@ A Revelação Cósmica é o **macroconceito** que engloba todos os demais termos
 ## Ampliação — OIDR26-02 (Onda incremental dry-run — Mitologias, tradições e reintegração (derivados normalizados))
 
 - **[P2 · Revelação Cósmica (conceito)]** «Saibaba no seu estado atual alinha-se discreta e estratégica aos postulados da revelação cósmica como maneira de encerrar a linhagem de Cristo de maneira pacífica via prima sai, que é o próximo avançado de Cristo, ofertando a sua concordância relativa ao inevitável cumprimento da função de Sofia, assessorada pelo quarto logo, que são as figuras que estão também por trás da mulher.» (U0719) — candidata de cotejo ampliado; evidência `OIDR26-02-RC-094-001`, grafia literal `revelação cósmica`, sem homologação de pérola.
+
+## Ampliação — OIDR26-03 (Onda incremental dry-run — Cosmogonia e história cósmica (derivados normalizados))
+
+- **[P3 · Revelação Cósmica (conceito)]** «O impressionante é que isso já era para ser do conhecimento da ciência terrestre, mas ainda não é. A revelação cósmica, meio que perifericamente, vai falando disso e vai ficar aí.» (U0579) — candidata de cotejo ampliado; evidência `OIDR26-03-RC-094-001`, grafia literal `revelação cósmica`, sem homologação de pérola.

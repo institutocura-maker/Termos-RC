@@ -5,10 +5,10 @@ nome = "Epimeteu (titã)"
 categoria = "Seres & Entidades"
 subcategoria = "1.5 Decaídos / Exilados / Demônios"
 status = "verificado"
-fontes = ["B020", "B021", "P2025-02-16", "P2024-11-09", "P2025-06-14b", "P2024-08-03", "B087", "B088", "B089", "P2021-05-15", "STT26-MITOLOGIAS_REINTEGRACAO", "STT26-SOCIEDADE_CONTEMPORANEA"]
+fontes = ["B020", "B021", "P2025-02-16", "P2024-11-09", "P2025-06-14b", "P2024-08-03", "B087", "B088", "B089", "P2021-05-15", "STT26-MITOLOGIAS_REINTEGRACAO", "STT26-SOCIEDADE_CONTEMPORANEA", "OIDR26-03"]
 via = "P6-evidência"
 confianca_fonte = "alta"
-atualizado = "2026-10-22"
+atualizado = "2026-10-23"
 +++
 # Epimeteu (titã) — RC-302
 
@@ -60,9 +60,15 @@ Titã irmão de Prometeu que, na cosmologia de Jan Val Ellam, teria sido o grand
 - **[STT26-19 · Epimeteu (titã)]** «Zeus consultou, na época desse problema, os negros pensadores, produtores de ideias e de projetos, soluções, sobre o impasse verificado na reprodução. Na época da constatação do problema, essas figuras aqui costumavam ser Tênis, Prometeu e Epimeteu, ou seja, três titãs.» (U1981 · chars 337174–337444) — Candidata de cotejo; evidência `STT26-19-RC-302-001`, grafia encontrada `Epimeteu`; decisão por lote `STT26-19: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
 
 
+## Ampliação — OIDR26-03 (Onda incremental dry-run — Cosmogonia e história cósmica (derivados normalizados))
+
+- **[P3 · Epimeteu (titã)]** «É a figura mais louca que eu conheço em toda essa história, é alguém viciado, cheirava todas, tomava todas, criou tudo que nós imaginamos como sendo a base do xamanismo, se por isso entendermos, quem misturou, veja só, qualquer árvore que você pegar aí fora, se você for pegar o genoma de qualquer árvore, vai ter cinco, quatro, três moléculas complexas, qualquer grama, qualquer pé de árvore qualquer coisa mas existem umas árvores umas plantas aqui na terra, na biologia terrena que tem mais de 500 moléculas complexas, a terra não faz isso e essas poucas plantas e árvores e arbustos que existem com essa característica é porque alguém fez isso e plantou ou seja, foi manipulado ayahuasca, cannabis e uma série de outras raízes com essas características todas elas têm como ponto comum o fato de possuírem mais de 500 moléculas complexas ou seja, isso não foi criação da evolução biológica no reino vegetal, alguém fez isso, manipulou quem mais fez isso foi a figura chamada Epimeteu que era irmão de Prometeu só que Prometeu era sábio, Epimeteu era maluco Prometeu era sagaz Epimeteu era leso Sabe aquele cientista leso?» (U0765) — candidata de cotejo ampliado; evidência `OIDR26-03-RC-302-001`, grafia literal `Epimeteu`, sem homologação de pérola.
+
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
+| OIDR26-03 | Onda incremental dry-run — Cosmogonia e história cósmica (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | STT26-SOCIEDADE_CONTEMPORANEA | Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | STT26-MITOLOGIAS_REINTEGRACAO | Eixo STT26 — Mitologias, tradições e eixo de reintegração (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |

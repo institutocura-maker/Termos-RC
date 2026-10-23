@@ -5,10 +5,10 @@ nome = "Vyasa"
 categoria = "Seres & Entidades"
 subcategoria = "1.6 Figuras humanas (históricas/míticas)"
 status = "verificado"
-fontes = ["P2022-12-17", "P2025-02-16", "P2024-11-30", "P2023-06-25", "P2021-05-15", "P2022-03-26", "P2024-06-16", "STT26-EXTRATERRESTRES_TECNOLOGIA", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA", "STT26-MITOLOGIAS_REINTEGRACAO", "STT26-SOCIEDADE_CONTEMPORANEA"]
+fontes = ["P2022-12-17", "P2025-02-16", "P2024-11-30", "P2023-06-25", "P2021-05-15", "P2022-03-26", "P2024-06-16", "STT26-EXTRATERRESTRES_TECNOLOGIA", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA", "STT26-MITOLOGIAS_REINTEGRACAO", "STT26-SOCIEDADE_CONTEMPORANEA", "OIDR26-03"]
 via = "P6-evidência"
 confianca_fonte = "média"
-atualizado = "2026-10-22"
+atualizado = "2026-10-23"
 +++
 # Vyasa — RC-585
 
@@ -63,9 +63,15 @@ Heber (patriarca pós-dilúvio) (RC-436); Rishis (RC-586)
 - **[STT26-21 · Vyasa]** «O senhor Krishna, que se tornou conhecido a partir das descrições que um outro Krishna do Apayama, mais conhecido como Vyasa, o codificador dos Puranas, do Mahabharata e dos Vedas, Foi Vyasa quem transformou Krishna no ser conhecido que ele é.» (U4942 · chars 834985–835228) — Candidata de cotejo; evidência `STT26-21-RC-585-001`, grafia encontrada `Vyasa`; decisão por lote `STT26-21: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
 
 
+## Ampliação — OIDR26-03 (Onda incremental dry-run — Cosmogonia e história cósmica (derivados normalizados))
+
+- **[P3 · Vyasa]** «Só estou falando de 6, 7 mil anos atrás. Quando Mahabharata foi produzido por Vyasa, a expectativa é que os Yaksas, que os certos estirpes e raksassas, os gandarvas principalmente, os pites, os devas, figuras hiperbórias, híbridas, a que dominassem a Terra.» (U0145) — candidata de cotejo ampliado; evidência `OIDR26-03-RC-585-001`, grafia literal `Vyasa`, sem homologação de pérola.
+
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
+| OIDR26-03 | Onda incremental dry-run — Cosmogonia e história cósmica (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | STT26-SOCIEDADE_CONTEMPORANEA | Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | STT26-MITOLOGIAS_REINTEGRACAO | Eixo STT26 — Mitologias, tradições e eixo de reintegração (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | STT26-EXPERIENCIA_ESPIRITUAL_ETICA | Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados) (palestra) | transcrição automatizada; citação |

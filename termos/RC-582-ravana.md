@@ -5,10 +5,10 @@ nome = "Ravana"
 categoria = "Seres & Entidades"
 subcategoria = "1.5 Decaídos / Exilados / Demônios"
 status = "verificado"
-fontes = ["P2022-12-17", "P2025-02-16", "P2024-11-30", "P2024-08-03", "P2023-09-09", "P2023-04-30", "P2021-02-28", "P2022-09-17"]
+fontes = ["P2022-12-17", "P2025-02-16", "P2024-11-30", "P2024-08-03", "P2023-09-09", "P2023-04-30", "P2021-02-28", "P2022-09-17", "OIDR26-03"]
 via = "P6-evidência"
 confianca_fonte = "média"
-atualizado = "2026-08-14"
+atualizado = "2026-10-23"
 +++
 # Ravana — RC-582
 
@@ -40,9 +40,15 @@ Na cronologia da palestra, Ravana pertence à segunda era equinocial e sua forç
 ## Seres Associados
 Rakshasas (RC-581); Rama (avatar de Vishnu) (RC-584)
 
+## Ampliação — OIDR26-03 (Onda incremental dry-run — Cosmogonia e história cósmica (derivados normalizados))
+
+- **[P3 · Ravana]** «Só que não estava funcionando, então um acerta a mão do outro lado e diz, é, está tudo muito bom mas Rama não vai desse jeito nunca brigar com Ravana porque Rama é um ser do bem então vamos criar uma confusão criaram de tal modo que Sita, esposa de Rama foi sacrifada aí Ravana ficou na posse de Sita e Rama vai atrás de Ravana e Rama mata Ravana foi isso os rakshasas foram destruídos não existe rakshasa até hoje mas a maioria foi mas assim nós não temos noção de quanto de vidas foi ceifado só nessa história aqui que representa a criação de um avatar chamado Rama para ele vir à terra para destruir uma espécie rakshasa E assim, os rakshasas na época começaram a, para fugir a fúria da turma de lá, a manipular os seus DNAs e se uniram a ursos, lobos.» (U0441) — candidata de cotejo ampliado; evidência `OIDR26-03-RC-582-001`, grafia literal `Ravana`, sem homologação de pérola.
+
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
+| OIDR26-03 | Onda incremental dry-run — Cosmogonia e história cósmica (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | P2022-09-17 | A Hipóstase dos Arcontes (palestra) | — | transcrição automatizada; citação |
 | P2021-02-28 | Tragédia Anunciada - As Fórmulas Mentais do Poder Demo (palestra) | — | transcrição automatizada; citação |
 | P2022-12-17 — O Incompreendido Ano de 2012 e a Falsa Noção do Fim do Mundo | U0740–U0746; U0770 | transcrição automatizada; paráfrase e citação |

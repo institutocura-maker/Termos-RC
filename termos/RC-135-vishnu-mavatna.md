@@ -5,7 +5,7 @@ nome = "Vishnu (Mavatna)"
 categoria = "Seres & Entidades"
 subcategoria = "1.1 Divindades / Criadores"
 status = "verificado"
-fontes = ["B031", "B024", "B044", "B001", "B033", "B016", "B014", "B020", "B021", "B022", "B051", "B036", "B060", "P2022-12-17", "P2021-12-04", "P2026-07-30", "P2024-05-04", "P2026-04-02", "P2025-03-15", "P2025-02-16", "P2024-11-30", "P2024-11-09", "P2024-08-03", "P2024-07-14", "P2023-04-15", "P2023-04-29", "P2020-05-09", "P2025-02-22", "P2022-05-07", "P2024-06-16", "P2012-02-19", "P2023-12-25-01", "P2020-04-04", "STT26-EXTRATERRESTRES_TECNOLOGIA", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA", "STT26-MITOLOGIAS_REINTEGRACAO", "STT26-SOCIEDADE_CONTEMPORANEA", "OIDR26-01", "OIDR26-02"]
+fontes = ["B031", "B024", "B044", "B001", "B033", "B016", "B014", "B020", "B021", "B022", "B051", "B036", "B060", "P2022-12-17", "P2021-12-04", "P2026-07-30", "P2024-05-04", "P2026-04-02", "P2025-03-15", "P2025-02-16", "P2024-11-30", "P2024-11-09", "P2024-08-03", "P2024-07-14", "P2023-04-15", "P2023-04-29", "P2020-05-09", "P2025-02-22", "P2022-05-07", "P2024-06-16", "P2012-02-19", "P2023-12-25-01", "P2020-04-04", "STT26-EXTRATERRESTRES_TECNOLOGIA", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA", "STT26-MITOLOGIAS_REINTEGRACAO", "STT26-SOCIEDADE_CONTEMPORANEA", "OIDR26-01", "OIDR26-02", "OIDR26-03"]
 via = "P6-evidência"
 confianca_fonte = "alta"
 atualizado = "2026-10-23"
@@ -93,9 +93,15 @@ Com isso:
 - **[P2 · Vishnu (Mavatna)]** «Porque a primeira geração, Khaos, Tarta, Eros, blá, blá, blá, na mitologia grega, vamos chamar agora, usando os termos da mitologia ariana hindu, Brahma, Vishnu, Shiva, esses seres jamais saíram desse universo divino.» (U0095) — candidata de cotejo ampliado; evidência `OIDR26-02-RC-135-001`, grafia literal `Vishnu`, sem homologação de pérola.
 
 
+## Ampliação — OIDR26-03 (Onda incremental dry-run — Cosmogonia e história cósmica (derivados normalizados))
+
+- **[P3 · Vishnu (Mavatna)]** «Desse ovo cósmico, cerca de 4, 5 bilhões de anos depois que o universo se formou, nesse universo vizinho, Brahma e seus descendentes, Vishnu e seus descendentes, Shiva e seus descendentes e outras gerações de seres demoníacos, todos eles, cerca de 4, 5, 6 bilhões de anos depois, eles perceberam que estavam falidos.» (U0207) — candidata de cotejo ampliado; evidência `OIDR26-03-RC-135-001`, grafia literal `Vishnu`, sem homologação de pérola.
+
+
 ## Fontes
 | Obra (sigla) | Título | Página | Tipo |
 |---|---|---|---|
+| OIDR26-03 | Onda incremental dry-run — Cosmogonia e história cósmica (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
 | OIDR26-02 | Onda incremental dry-run — Mitologias, tradições e reintegração (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
 | OIDR26-01 | Onda incremental dry-run — Anunnaki, genética e humanidade (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
 | STT26-SOCIEDADE_CONTEMPORANEA | Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados) (palestra) | — | transcrição automatizada; citação |

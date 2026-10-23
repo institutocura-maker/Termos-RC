@@ -5,7 +5,7 @@ nome = "Pandora"
 categoria = "Seres & Entidades"
 subcategoria = "1.7 Híbridos / Seres de transição"
 status = "em análise"
-fontes = ["B031", "B044", "B020", "B021", "P2025-03-15", "P2025-02-16", "P2024-11-30", "P2024-11-09", "ART-2026-08-18", "P2024-02-03", "P2024-08-03", "B087", "B088", "B089", "P2023-04-01b", "P2024-11-03", "P2025-02-22", "P2021-05-15", "P2020-04-25", "P2023-12-03", "P2023-08-27", "P2025-06-14", "P2022-09-25", "P2022-07-16", "P2026-03-21", "P2021-02-28", "STT26-EXTRATERRESTRES_TECNOLOGIA", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA", "STT26-MITOLOGIAS_REINTEGRACAO", "STT26-SOCIEDADE_CONTEMPORANEA", "OIDR26-01"]
+fontes = ["B031", "B044", "B020", "B021", "P2025-03-15", "P2025-02-16", "P2024-11-30", "P2024-11-09", "ART-2026-08-18", "P2024-02-03", "P2024-08-03", "B087", "B088", "B089", "P2023-04-01b", "P2024-11-03", "P2025-02-22", "P2021-05-15", "P2020-04-25", "P2023-12-03", "P2023-08-27", "P2025-06-14", "P2022-09-25", "P2022-07-16", "P2026-03-21", "P2021-02-28", "STT26-EXTRATERRESTRES_TECNOLOGIA", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA", "STT26-MITOLOGIAS_REINTEGRACAO", "STT26-SOCIEDADE_CONTEMPORANEA", "OIDR26-01", "OIDR26-03"]
 via = "P7-conhecimento"
 confianca_fonte = "baixa"
 atualizado = "2026-10-23"
@@ -99,10 +99,16 @@ Na Revelação Cósmica de Jan Val Ellam, Pandora é a figura que "destravou lac
 - **[P1 · Pandora]** «De cada X que nascia, a partir do DNA já modificado, dos descendentes de Pandora e dos testes em que Um dos dois principais Anunnakis que residia aqui na Terra realizou por volta de 48 mil anos atrás com seu irmão Enlil e uma irmã sua que era a oficial que promovia essas manipulações, Njifri Sag, mas o nome é complicado, vamos deixar para lá.» (U0149) — candidata de cotejo ampliado; evidência `OIDR26-01-RC-086-001`, grafia literal `Pandora`, sem homologação de pérola.
 
 
+## Ampliação — OIDR26-03 (Onda incremental dry-run — Cosmogonia e história cósmica (derivados normalizados))
+
+- **[P3 · Pandora]** «Não tem outra espécie que possa produzir códigos sequenciais no campo da genética Que produzam resolução psíquica para problemas mal resolvidos no âmbito da consciência memorial de cada ser Esse problema se deu em todos os segmentos evolutivos adivindos dessa geração regenerada do Criador, à exceção dos descendentes do marítimo via caseata, de quem descendem os humanos, devido ao destrave que aconteceu em momentos distintos da sua história evolutiva, destrave esse feito especificamente por Pandora, por Lilith, por Eva, por Noreia e alguns descendentes de Pyrrha.» (U0541) — candidata de cotejo ampliado; evidência `OIDR26-03-RC-086-001`, grafia literal `Pandora`, sem homologação de pérola.
+
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| OIDR26-03 | Onda incremental dry-run — Cosmogonia e história cósmica (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | OIDR26-01 | Onda incremental dry-run — Anunnaki, genética e humanidade (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | STT26-SOCIEDADE_CONTEMPORANEA | Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | STT26-MITOLOGIAS_REINTEGRACAO | Eixo STT26 — Mitologias, tradições e eixo de reintegração (derivados normalizados) (palestra) | transcrição automatizada; citação |

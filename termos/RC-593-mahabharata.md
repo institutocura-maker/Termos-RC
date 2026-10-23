@@ -5,7 +5,7 @@ nome = "Mahabharata"
 categoria = "Tecnologias & Artefatos"
 subcategoria = "5.4 Escrituras / Objetos documentais"
 status = "verificado"
-fontes = ["P2022-12-17", "P2025-02-16", "P2024-11-30", "P2023-06-25", "P2021-05-15", "P2023-10-14", "P2022-03-26", "P2023-12-03", "P2024-06-16", "STT26-EXTRATERRESTRES_TECNOLOGIA", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA", "STT26-MITOLOGIAS_REINTEGRACAO", "STT26-SOCIEDADE_CONTEMPORANEA", "OIDR26-02"]
+fontes = ["P2022-12-17", "P2025-02-16", "P2024-11-30", "P2023-06-25", "P2021-05-15", "P2023-10-14", "P2022-03-26", "P2023-12-03", "P2024-06-16", "STT26-EXTRATERRESTRES_TECNOLOGIA", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA", "STT26-MITOLOGIAS_REINTEGRACAO", "STT26-SOCIEDADE_CONTEMPORANEA", "OIDR26-02", "OIDR26-03"]
 via = "P6-evidência"
 confianca_fonte = "média"
 atualizado = "2026-10-23"
@@ -61,9 +61,15 @@ Vyasa (RC-585); Rishis (RC-586); Rama (avatar de Vishnu) (RC-584)
 - **[P2 · Mahabharata]** «E é isso que no Bhagavad Gita, um dos capítulos do Mahabharata, o Senhor Cristo explica a Arjuna o conceito de Dharma, porque Arjuna não queria ir para a guerra contra os seus primos, porque antes do Dharma surgir, existia um outro conceito, que a gente vai falar sobre isso, mas quando eu for aprofundar.» (U0119) — candidata de cotejo ampliado; evidência `OIDR26-02-RC-593-001`, grafia literal `Mahabharata`, sem homologação de pérola.
 
 
+## Ampliação — OIDR26-03 (Onda incremental dry-run — Cosmogonia e história cósmica (derivados normalizados))
+
+- **[P3 · Mahabharata]** «Só estou falando de 6, 7 mil anos atrás. Quando Mahabharata foi produzido por Vyasa, a expectativa é que os Yaksas, que os certos estirpes e raksassas, os gandarvas principalmente, os pites, os devas, figuras hiperbórias, híbridas, a que dominassem a Terra.» (U0145) — candidata de cotejo ampliado; evidência `OIDR26-03-RC-593-001`, grafia literal `Mahabharata`, sem homologação de pérola.
+
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
+| OIDR26-03 | Onda incremental dry-run — Cosmogonia e história cósmica (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | OIDR26-02 | Onda incremental dry-run — Mitologias, tradições e reintegração (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | STT26-SOCIEDADE_CONTEMPORANEA | Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | STT26-MITOLOGIAS_REINTEGRACAO | Eixo STT26 — Mitologias, tradições e eixo de reintegração (derivados normalizados) (palestra) | transcrição automatizada; citação |

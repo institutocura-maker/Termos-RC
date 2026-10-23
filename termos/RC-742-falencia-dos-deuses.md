@@ -5,10 +5,10 @@ nome = "Falência dos Deuses"
 categoria = "Eventos & Eras"
 subcategoria = "7.4 Catástrofes / Dilúvios / Quedas"
 status = "em análise"
-fontes = ["P2024-08-03", "P2024-07-14", "P2024-07-13", "P2021-05-15", "P2023-10-14", "P2020-04-25", "P2022-03-26", "P2023-12-03"]
+fontes = ["P2024-08-03", "P2024-07-14", "P2024-07-13", "P2021-05-15", "P2023-10-14", "P2020-04-25", "P2022-03-26", "P2023-12-03", "OIDR26-03"]
 via = "P7-conhecimento"
 confianca_fonte = "baixa"
-atualizado = "2026-08-29"
+atualizado = "2026-10-23"
 +++
 # Falência dos Deuses — RC-742
 
@@ -99,3 +99,7 @@ atualizado = "2026-08-29"
 ### Cautela editorial
 
 [P2024-08-03] Códigos, genética e ovos cósmicos são linguagem da cosmologia de Ellam. Não constituem genética, física, história das religiões ou ciência validada.
+
+## Ampliação — OIDR26-03 (Onda incremental dry-run — Cosmogonia e história cósmica (derivados normalizados))
+
+- **[P3 · Falência dos Deuses]** «Então, vamos iniciar o nosso bate-papo. Vamos falar sobre a falência dos deuses e a destinação do lobo O que é que significa falência dos deuses?» (U0123) — candidata de cotejo ampliado; evidência `OIDR26-03-RC-742-001`, grafia literal `falência dos deuses`, sem homologação de pérola.

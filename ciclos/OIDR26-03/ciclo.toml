@@ -17,8 +17,8 @@ portoes_ativos = ["A", "B", "C", "D"]
 max_perolas = 25
 exportar_candidatas = false       # true só em ensaio declarado: o portão real é `aprovada`
 
-cobertura = "CICLO INCREMENTAL — OIDR26-03 / COSMOGONIA_HISTORIA_COSMICA; ingressos P3; fonte composta exclusivamente de derivados normalizados e selada por manifesto/offsets. Abertura expressamente autorizada pelo Curador; 25 candidatos seguem para cotejo com âncoras literais e portões do Motor."
-teto = "25 candidatos autorizados para cotejo ampliado; pérolas dependem de recorte e homologação posterior"
+cobertura = "CICLO INCREMENTAL — OIDR26-03 / COSMOGONIA_HISTORIA_COSMICA; ingresso P3; fonte composta exclusivamente de derivado normalizado e selada por manifesto/offsets. As 25 candidatas foram homologadas explicitamente para pouso após Dossiê RAG, com âncoras literais e portões do Motor."
+teto = "pouso autorizado para as 25 pérolas aprovadas; nenhum termo ou relação novo"
 termos_novos = []
 veto_lexico = ["p****", "m****", "b******", "e******"]
 fichas_que_nomeiam_grupo = []
@@ -28,13 +28,39 @@ arquivos = 0      # fichas criadas por este ciclo
 ficha_true = 0   # viradas no cadastro
 termos = 0       # termos novos: só por pérola aprovada, com linha no §4 do dossiê
 relacoes = 0     # arestas novas: tipada + evidência + selo datado, ou nada
-vinculos = 0    # códigos que passam a carregar a sigla do ciclo na lista de fontes
+vinculos = 25   # 25 fichas existentes recebem a sigla do ciclo
 
 [perolas]
 # IDs que receberam aprovação explícita do Curador; o Motor rejeita IDs repetidos,
 # inexistentes ou fora do caderno selecionado. Sem aprovação, a lista permanece vazia.
-aprovadas = []
-homologacao = ""
+aprovadas = [
+  "PER-OIDR26-03-001",
+  "PER-OIDR26-03-002",
+  "PER-OIDR26-03-003",
+  "PER-OIDR26-03-004",
+  "PER-OIDR26-03-005",
+  "PER-OIDR26-03-006",
+  "PER-OIDR26-03-007",
+  "PER-OIDR26-03-008",
+  "PER-OIDR26-03-009",
+  "PER-OIDR26-03-010",
+  "PER-OIDR26-03-011",
+  "PER-OIDR26-03-012",
+  "PER-OIDR26-03-013",
+  "PER-OIDR26-03-014",
+  "PER-OIDR26-03-015",
+  "PER-OIDR26-03-016",
+  "PER-OIDR26-03-017",
+  "PER-OIDR26-03-018",
+  "PER-OIDR26-03-019",
+  "PER-OIDR26-03-020",
+  "PER-OIDR26-03-021",
+  "PER-OIDR26-03-022",
+  "PER-OIDR26-03-023",
+  "PER-OIDR26-03-024",
+  "PER-OIDR26-03-025",
+]
+homologacao = "Aprovação explícita do Curador em 22/10/2026: as 25 candidatas do DOSSIE-RAG_OIDR26-03 foram validadas para pouso na Base."
 
 [materializar]
 codigos = []      # fichas a CRIAR (ordem do Curador; só com bloco no pacote)

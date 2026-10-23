@@ -5,7 +5,7 @@ nome = "Big Bang"
 categoria = "Conceitos Cosmológicos"
 subcategoria = "2.1 Cosmogonia / Criação"
 status = "em análise"
-fontes = ["B031", "B024", "P2025-03-15", "P2025-02-16", "P2025-02-15", "P2024-11-30", "P2024-11-09", "P2023-12-03", "STT26-EXTRATERRESTRES_TECNOLOGIA", "STT26-MITOLOGIAS_REINTEGRACAO", "OIDR26-02"]
+fontes = ["B031", "B024", "P2025-03-15", "P2025-02-16", "P2025-02-15", "P2024-11-30", "P2024-11-09", "P2023-12-03", "STT26-EXTRATERRESTRES_TECNOLOGIA", "STT26-MITOLOGIAS_REINTEGRACAO", "OIDR26-02", "OIDR26-03"]
 via = "P7-conhecimento"
 confianca_fonte = "baixa"
 atualizado = "2026-10-23"
@@ -40,10 +40,16 @@ A singularidade que criou o nosso universo — "teoria cosmológica sobre o dese
 - **[P2 · Big Bang]** «Os dois surgiram na explosão do Big Bang. A própria ciência, hoje em dia, já atesta, já constata, já afirma a existência de um universo gênio, tanto paralelo onde o tempo lá foi para o outro lado.» (U0077) — candidata de cotejo ampliado; evidência `OIDR26-02-RC-034-001`, grafia literal `Big Bang`, sem homologação de pérola.
 
 
+## Ampliação — OIDR26-03 (Onda incremental dry-run — Cosmogonia e história cósmica (derivados normalizados))
+
+- **[P3 · Big Bang]** «Mas tem um gêmeo a esse, que surgiu também na hora do Big Bang, só que este é composto de matéria e este vizinho de antimatéria.» (U0053) — candidata de cotejo ampliado; evidência `OIDR26-03-RC-034-001`, grafia literal `Big Bang`, sem homologação de pérola.
+
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| OIDR26-03 | Onda incremental dry-run — Cosmogonia e história cósmica (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | OIDR26-02 | Onda incremental dry-run — Mitologias, tradições e reintegração (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | STT26-MITOLOGIAS_REINTEGRACAO | Eixo STT26 — Mitologias, tradições e eixo de reintegração (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | STT26-EXTRATERRESTRES_TECNOLOGIA | Eixo STT26 — Extraterrestres, tecnologia e cosmos (derivados normalizados) (palestra) | transcrição automatizada; citação |

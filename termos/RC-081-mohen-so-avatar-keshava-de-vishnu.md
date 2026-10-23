@@ -5,10 +5,10 @@ nome = "Mohen So (Avatar Keshava de Vishnu)"
 categoria = "Seres & Entidades"
 subcategoria = "1.3 Extraterrestres / Raças cósmicas"
 status = "verificado"
-fontes = ["B031", "B017", "B014", "P2026-04-02", "P2025-10-25", "P2025-08-03", "P2024-11-30", "P2024-11-02", "P2024-08-03", "P2024-04-14", "P2023-12-02", "P2023-06-25", "P2023-12-03", "P2021-01-30", "STT26-MITOLOGIAS_REINTEGRACAO", "STT26-SOCIEDADE_CONTEMPORANEA"]
+fontes = ["B031", "B017", "B014", "P2026-04-02", "P2025-10-25", "P2025-08-03", "P2024-11-30", "P2024-11-02", "P2024-08-03", "P2024-04-14", "P2023-12-02", "P2023-06-25", "P2023-12-03", "P2021-01-30", "STT26-MITOLOGIAS_REINTEGRACAO", "STT26-SOCIEDADE_CONTEMPORANEA", "OIDR26-03"]
 via = "P6-evidência"
 confianca_fonte = "alta"
-atualizado = "2026-10-22"
+atualizado = "2026-10-23"
 +++
 # Mohen So (Avatar Keshava de Vishnu) — RC-081
 
@@ -154,3 +154,7 @@ A live P2026-04-02 normaliza os ruídos Morren So/Morrençor como Mohen So e o r
 ## Ampliação — STT26-SOCIEDADE_CONTEMPORANEA (Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados))
 
 - **[STT26-23 · Mohen So (Avatar Keshava de Vishnu)]** «Então, dizendo de forma bem diferente, ainda que eu não possa aprofundar, tudo isso que nós estamos falando aqui é um jogo que existe entre Javé e Shiva, ou melhor, Brahma e Shiva, que na mitologia grega é chamada de Tártaro, Javé é chamado de Caos, os avatares desse rapaz, um tal de um forno chamado Wailingan e as criaturas que surgiram desse forno, porque quando a vida faliu aqui, surgiu um ser chamado Mohen So, que criou um projeto, e esse projeto criou três fornos de replicação de vida biológica dentro desse universo.» (U10332 · chars 1664867–1665395) — Candidata de cotejo; evidência `STT26-23-RC-081-001`, grafia encontrada `Mohen So`; decisão por lote `STT26-23: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+## Ampliação — OIDR26-03 (Onda incremental dry-run — Cosmogonia e história cósmica (derivados normalizados))
+
+- **[P3 · Mohen So (Avatar Keshava de Vishnu)]** «Pela primeira vez, esses três seres resolveram criar um ser sem lacre mental, sem trava genética, sem memória encobridora no seu cérebro, se é que diabos eles tinham cérebro nessa altura. E surgiu, então, um ser chamado Mohen So. E esse ser surgiu livre para poder sentir no corpo dele as dores de Brahma, Vishnu e Shiva, e dizer para esses seres o que precisava ser feito.» (U0217) — candidata de cotejo ampliado; evidência `OIDR26-03-RC-081-001`, grafia literal `Mohen So`, sem homologação de pérola.

@@ -5,10 +5,10 @@ nome = "Oxitocina (hormônio do bem — base bioquímica da Karuna)"
 categoria = "Processos & Fenômenos"
 subcategoria = "4.1 Processos biológicos / genéticos"
 status = "candidato"
-fontes = ["P2024-06-16", "STT26-SOCIEDADE_CONTEMPORANEA"]
+fontes = ["P2024-06-16", "STT26-SOCIEDADE_CONTEMPORANEA", "OIDR26-03"]
 via = "P6-evidência"
 confianca_fonte = "baixa"
-atualizado = "2026-10-22"
+atualizado = "2026-10-23"
 +++
 # Oxitocina (hormônio do bem — base bioquímica da Karuna) — RC-839
 
@@ -36,9 +36,15 @@ Com isso:
 
 - **[STT26-22 · Oxitocina (hormônio do bem — base bioquímica da Karuna)]** «Tem a ver com outro tipo de gene, a oxitocina. O gene FOXP2 é o da racionalidade. Esse aqui que estou falando é o da oxitocina.» (U7992 · chars 1312552–1312679) — Candidata de cotejo; evidência `STT26-22-RC-839-001`, grafia encontrada `oxitocina`; decisão por lote `STT26-22: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
 
+## Ampliação — OIDR26-03 (Onda incremental dry-run — Cosmogonia e história cósmica (derivados normalizados))
+
+- **[P3 · Oxitocina (hormônio do bem — base bioquímica da Karuna)]** «Que gene é esse? É um gene que a gente chama hoje de oxitocina, ou oxitocina.» (U0793) — candidata de cotejo ampliado; evidência `OIDR26-03-RC-839-001`, grafia literal `oxitocina`, sem homologação de pérola.
+
+
 ## Fontes
 | Obra (sigla) | Título | Página | Tipo |
 |---|---|---|---|
+| OIDR26-03 | Onda incremental dry-run — Cosmogonia e história cósmica (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
 | STT26-SOCIEDADE_CONTEMPORANEA | Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
 
 ## Termos Relacionados

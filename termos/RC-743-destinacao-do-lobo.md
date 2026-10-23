@@ -5,10 +5,10 @@ nome = "Destinação do Lobo"
 categoria = "Conceitos Cosmológicos"
 subcategoria = "2.5 Propósitos / Destinos"
 status = "verificado"
-fontes = ["P2024-08-03"]
+fontes = ["P2024-08-03", "OIDR26-03"]
 via = "P6-evidência"
 confianca_fonte = "média"
-atualizado = "2026-08-16"
+atualizado = "2026-10-23"
 +++
 # Destinação do Lobo — RC-743
 
@@ -61,3 +61,7 @@ atualizado = "2026-08-16"
 ### Cautela editorial
 
 [P2024-08-03] Não confundir a interpretação de Ellam com etologia ou evolução validadas. A legenda viral da alcateia é falsa; carne crua não é apresentada editorialmente como ativadora de memória lupina; alegações clínicas foram excluídas.
+
+## Ampliação — OIDR26-03 (Onda incremental dry-run — Cosmogonia e história cósmica (derivados normalizados))
+
+- **[P3 · Destinação do Lobo]** «Vamos falar sobre a falência dos deuses e a destinação do lobo O que é que significa falência dos deuses?» (U0123) — candidata de cotejo ampliado; evidência `OIDR26-03-RC-743-001`, grafia literal `destinação do lobo`, sem homologação de pérola.
