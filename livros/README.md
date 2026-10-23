@@ -23,7 +23,7 @@ Se a obra completa de uma amostra subir: ciclo novo em `livros/B0NN_slug/`. **N�
 
 ## Ciclo em andamento
 
-**Nenhum — A FASE DOS LIVROS ESTÁ ENCERRADA** (ordem do curador, 2026-08-26; ver `VERIFICACAO-DE-COBERTURA-2026-08-26.md`: zero sobras). A fila remanescente é de material que ainda não chegou: B059 *Sinais de Guerra em Capela* SEM PDF (somente físico, ASIN B0GFPWXVSG) — fecha a trilogia de Yel Luzbel; obras completas B027/B035; B076–B078 *Mentalma III–V*; B085/B086/B090 (sem PDF). **A esteira segue para as PALESTRAS E APOSTILAS.**
+**Nenhum — A FASE DOS LIVROS ESTÁ ENCERRADA** (ordem do curador, 2026-08-26; ver `../diagnostico/VERIFICACAO-DE-COBERTURA-2026-08-26.md`: zero sobras). A fila remanescente é de material que ainda não chegou: B059 *Sinais de Guerra em Capela* SEM PDF (somente físico, ASIN B0GFPWXVSG) — fecha a trilogia de Yel Luzbel; obras completas B027/B035; B076–B078 *Mentalma III–V*; B085/B086/B090 (sem PDF). **A esteira segue para as PALESTRAS E APOSTILAS.**
 
 ## Último ciclo
 

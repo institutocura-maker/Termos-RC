@@ -38,7 +38,7 @@ Escala atual (11/09/2026): **946 termos · 671 fichas · 1898 relações · 102 
 | `base-terminologica.xlsx` / `base-terminologica-leitura.docx` / `indice-mestre.md` | Espelhos gerados (leitura humana) | 292 KB / 1,7 MB / 228 KB |
 | `chancela/` | 20 planilhas CSV: templates + retornos de chancela (trilha de auditoria das decisões) | — |
 | `admin/logs/STATE-MIRROR.md` | Resumo de estado em 42 linhas (números oficiais + pendências) | — |
-| `RELATORIO-BASE-TERMINOLOGICA.md` / `GLOSSARIO-CANONICO-2026-08-31.md` | Relatório analítico (672 l.) + glossário canônico (702 l.) | — |
+| `diagnostico/RELATORIO-BASE-TERMINOLOGICA.md` / `GLOSSARIO-CANONICO-2026-08-31.md` | Relatório analítico (672 l.) + glossário canônico (702 l.) | — |
 | `01-ficha-modelo.md`, `02-vocabulario-controlado.md`, `convencoes-editoriais-rc.md` | Padrões editoriais | — |
 | `uploads_recepcao/` | Caixa de entrada de arquivos do Curador (uso transitório; raiz preservada como histórico) | — |
 | `backups/`, `consolidacoes/`, `materiais_externos/`, `rag/`, `diagnostico/` | Áreas auxiliares/históricas | — |
@@ -112,7 +112,7 @@ verificar_verbetes.py           →  confere verbatim byte-a-byte + existência 
 
 ## 11. Roteiro de leitura sugerido (2–3 horas)
 
-1. Este documento → 2. `admin/logs/STATE-MIRROR.md` → 3. cabeçalho + 20 linhas de `ferramentas/dados_termos.py` → 4. uma ficha exemplar (`termos/RC-565-*.md`, `termos/RC-024-*.md`) → 5. `ferramentas/build_xlsx.py` (skim) + `verificar_verbetes.py` (íntegra, 3,8 KB) → 6. `chancela/P7-8.2-hebraico_retorno.csv` (exemplo de decisão) → 7. `RELATORIO-BASE-TERMINOLOGICA.md` (skim) → 8. `POLITICA-QUARENTENA-ENTRE-ECOSSISTEMAS.md`.
+1. Este documento → 2. `admin/logs/STATE-MIRROR.md` → 3. cabeçalho + 20 linhas de `ferramentas/dados_termos.py` → 4. uma ficha exemplar (`termos/RC-565-*.md`, `termos/RC-024-*.md`) → 5. `ferramentas/build_xlsx.py` (skim) + `verificar_verbetes.py` (íntegra, 3,8 KB) → 6. `chancela/P7-8.2-hebraico_retorno.csv` (exemplo de decisão) → 7. `diagnostico/RELATORIO-BASE-TERMINOLOGICA.md` (skim) → 8. `POLITICA-QUARENTENA-ENTRE-ECOSSISTEMAS.md`.
 
 ---
 

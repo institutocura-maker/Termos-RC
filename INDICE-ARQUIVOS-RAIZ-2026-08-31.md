@@ -46,13 +46,13 @@ Estes arquivos são a **fonte de verdade operacional** em 2026-08-31.
 | 14 | **`01-ficha-modelo.md`** | 2.9 KB | 2026 | **SEMPRE** — modelo de ficha canônica (criar/atualizar fichas) |
 | 15 | **`02-vocabulario-controlado.md`** | 4.4 KB | 2026 | Quando precisa da lista de grafias canônicas |
 | 16 | **`convencoes-editoriais-rc.md`** | 4.6 KB | 2026 | **SEMPRE** — regras de estilo editorial (aspas, negrito, verbatim) |
-| 17 | **`VERIFICACAO-DE-COBERTURA-2026-08-26.md`** | 5.2 KB | 2026-08-26 | Como auditar cobertura de uma apostila (portão D) |
+| 17 | **`diagnostico/VERIFICACAO-DE-COBERTURA-2026-08-26.md`** | 5.2 KB | 2026-08-26 | Como auditar cobertura de uma apostila (portão D) |
 | 18 | **`PLANO-MIGRACAO-DE-CHAT.md`** | 6.9 KB | 2026-08-18 | Como migrar entre chats (pré-esteira-leve) |
 | 19 | **`admin/logs/PACOTE-MIGRACAO-CHAT-2026-08-18.md`** | 9.0 KB | 2026-08-18 | Pacote de migração (estado pré-esteira-leve) |
 | 20 | **`POLITICA-QUARENTENA-ENTRE-ECOSSISTEMAS.md`** | 6.7 KB · 111 linhas | 2026-09-04 | **Política transversal** — quarentena absoluta entre a Base RC e tradições correlacionais externas (Jyotish/Ifá/mitologias); eleva a "Nota de confinamento O-4" (RC-092) a política recorrente. Ler quando qualquer proposta tocar fronteira com ecossistema externo |
 | 21 | **`admin/logs/DESPACHO-ESTEIRA-CONSOLIDACAO-2026-09-03.md`** | 5.9 KB | 2026-09-03 | **A NORMA (rascunho)** da Esteira de Consolidação da Base (nova categoria de fonte: material refatorado/revisado). Ler para conduzir ciclos de consolidação (F022/F029) |
-| 22 | **`DIAGNOSTICO-BASELINE-KB-2026-09-03.md`** | 5.4 KB | 2026-09-03 | Linha de base mensurável da KB antes da Esteira de Consolidação (números reprodutíveis via `dados_termos.py`). Ler para dimensionar/monitorar progresso |
-| 23 | **`ANALISE-PROPOSTA-CONSOLIDACAO-E-22-GLOSSARIO-2026-09-03.md`** | 13.9 KB | 2026-09-03 | Análise da proposta de consolidação da KB + confronto com o `22-GLOSSÁRIO.txt`. Ler para entender o método da esteira de consolidação |
+| 22 | **`diagnostico/DIAGNOSTICO-BASELINE-KB-2026-09-03.md`** | 5.4 KB | 2026-09-03 | Linha de base mensurável da KB antes da Esteira de Consolidação (números reprodutíveis via `dados_termos.py`). Ler para dimensionar/monitorar progresso |
+| 23 | **`diagnostico/ANALISE-PROPOSTA-CONSOLIDACAO-E-22-GLOSSARIO-2026-09-03.md`** | 13.9 KB | 2026-09-03 | Análise da proposta de consolidação da KB + confronto com o `22-GLOSSÁRIO.txt`. Ler para entender o método da esteira de consolidação |
 
 > **Nota (2026-09-04):** o diretório **`consolidacoes/`** é o working folder da Esteira de Consolidação (ciclos F022 `22-glossario` e **F029 `29-PERSONAGENS`** — este em andamento no branch `arena/01a06429-termos-rc`; também guarda `ESTEIRA-APOSTILAS/`, `AVALIACAO-PRIORIDADE-ESTEIRA-APOSTILAS-2026-09-03.md`, `FILA-CONSOLIDACAO-APOSTILAS-2026-09-03.md`). Cada ciclo tem `ciclo.toml` (fase/`altera_base`), `mapeamento.md`, `divergencias.md`, `devolutiva.md`, `fonte.txt`.
 

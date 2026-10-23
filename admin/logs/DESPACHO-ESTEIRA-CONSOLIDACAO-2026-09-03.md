@@ -5,7 +5,7 @@
 
 > Este documento operacionaliza a proposta de "revisar e consolidar a KB" usando uma **nova
 > categoria de fonte** (material refatorado/revisado derivado de Ellam). É gêmeo do
-> `DIAGNOSTICO-BASELINE-KB-2026-09-03.md` e do `ANALISE-PROPOSTA-CONSOLIDACAO-E-22-GLOSSARIO-2026-09-03.md`.
+> `../../diagnostico/DIAGNOSTICO-BASELINE-KB-2026-09-03.md` e do `../../diagnostico/ANALISE-PROPOSTA-CONSOLIDACAO-E-22-GLOSSARIO-2026-09-03.md`.
 
 ---
 
