@@ -137,14 +137,14 @@ E dentro dos geradores, o peso do dado: **624 das 4.273 linhas** do ciclo são d
 
 | item | tamanho | crescimento |
 |---|---|---|
-| `CONTINUIDADE.md` | **337.128 B** · 463 blocos · ~728 B por bloco | +1 bloco denso por fase de ciclo |
-| `PROMPT-PROXIMA-SESSAO.md` | **52.856 B** | +1 atualização por sessão (a 10ª foi escrita na última) |
+| `admin/logs/CONTINUIDADE.md` | **337.128 B** · 463 blocos · ~728 B por bloco | +1 bloco denso por fase de ciclo |
+| `prompts/PROMPT-PROXIMA-SESSAO.md` | **52.856 B** | +1 atualização por sessão (a 10ª foi escrita na última) |
 | `INDICE-PALESTRAS.md` (raiz) | **34.794 B** · 38 linhas, uma por ciclo | a linha do ciclo atual passou de ~2,6 kB para ~3,1 kB |
 | `apostilas/INDICE-PALESTRAS.md` | **91.411 B** | congelado (intocável) |
 | GUIA-MESTRE + convenções | **34.052 B** | estável |
 | **leitura obrigatória antes de tocar em qualquer coisa** | **550.241 B** | cresce com o acervo |
 
-**Leitura crítica:** ~550 kB de documentos de governo são lidos a cada abertura de sessão antes do trabalho produtivo. Não é desperdício puro — é o preço de um processo sem memória própria; mas é um preço que sobe a cada ciclo e cuja subida não compra nada. O ponto que dói é o `CONTINUIDADE.md`: diário é ótimo como arquivo e ruim como pré-requisito. Duas opções baratas, sem perda histórica: (a) o cabeçalho vir **o estado** (as 4 primeiras linhas já somam 4,9 kB e respondem ao que a sessão precisa) e o corpo passar a ser lido **por endereço**, não por dever; (b) mover o corpo dos ciclos fechados para `diario/` fatiado, deixando no mestre só o que governa. **Custo:** meia sessão de organização. **Risco:** baixo, se o `git mv` preservar histórico e os índices apontarem para o novo endereço.
+**Leitura crítica:** ~550 kB de documentos de governo são lidos a cada abertura de sessão antes do trabalho produtivo. Não é desperdício puro — é o preço de um processo sem memória própria; mas é um preço que sobe a cada ciclo e cuja subida não compra nada. O ponto que dói é o `admin/logs/CONTINUIDADE.md`: diário é ótimo como arquivo e ruim como pré-requisito. Duas opções baratas, sem perda histórica: (a) o cabeçalho vir **o estado** (as 4 primeiras linhas já somam 4,9 kB e respondem ao que a sessão precisa) e o corpo passar a ser lido **por endereço**, não por dever; (b) mover o corpo dos ciclos fechados para `diario/` fatiado, deixando no mestre só o que governa. **Custo:** meia sessão de organização. **Risco:** baixo, se o `git mv` preservar histórico e os índices apontarem para o novo endereço.
 
 ---
 
@@ -277,7 +277,7 @@ Se ao fim de um ciclo piloto com o processo reformado a linha **cobertura** ou a
 
 ## 11. O desfecho, na mesma data: despacho, motor, e o ciclo zero medido
 
-O despacho veio no mesmo dia e autorizou a reforma nos termos do §10, com quatro atos (teto suspenso com cadência · portão de aprovação da pérola · livro-razão de âncoras obrigatório · migração só das 6 ordens órfãs) e a reabertura de `RELACOES`. O registro normativo vigente está em `DESPACHO-DA-ESTEIRA-LEVE-2026-08-29.md`; o instrumento em `ferramentas/motor.py`; a prova em `ciclos/P2023-12-03/RELATORIO-CICLO-LEVE.md`.
+O despacho veio no mesmo dia e autorizou a reforma nos termos do §10, com quatro atos (teto suspenso com cadência · portão de aprovação da pérola · livro-razão de âncoras obrigatório · migração só das 6 ordens órfãs) e a reabertura de `RELACOES`. O registro normativo vigente está em `admin/logs/DESPACHO-DA-ESTEIRA-LEVE-2026-08-29.md`; o instrumento em `ferramentas/motor.py`; a prova em `ciclos/P2023-12-03/RELATORIO-CICLO-LEVE.md`.
 
 **As três premissas que este documento pôs à prova, agora com número:** (1) *escrever é o gargalo, não ler* — confirmado com folga: o ciclo zero escreveu **140.346 B** contra os **1.133.595 B** do mesmo ciclo no rite pesado, **8,1× menos**, e o ganho cresce a cada ciclo porque o instrumento não é mais reescrito (0 linhas de `.py` por ciclo contra os 13 scripts de `P2023-12-03`); (2) *o portão de verbatim é a única defesa que sobra quando a apostila sai* — confirmado em ambos os sentidos: o motor achou exatamente as 147 citações e, cobrando a mesma régua do pacote, descobriu **uma má-citação real no material engavetado** («coragem nem saco» contra o bruto `nem coragem, nem saco de fazer`) e **uma aspa de glosa que fingia citação** (`RC-189`) — as duas emendadas com carimbo, sem tocar o bruto; (3) *o essencial a preservar cabe em quatro portões* — confirmado, mas com ressalva medida: os portões precisam medir **delta** contra o commit-base, porque o portão D pesado, que fixa estado absoluto, hoje marca `466 ≠ 460` e `465 ≠ 459` em todo ciclo posterior. Um instrumento que apodrece a cada uso vira ruído que o Curador paga.
 

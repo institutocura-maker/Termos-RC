@@ -3270,7 +3270,7 @@ Justificativa: o grau de saída mede quantas relações a ficha *declarou*; o gr
 **Despacho do Curador:** levantamento de pendências → ordem P3→P2→P1.
 
 1. **P3 (errata 807):** README do L99 dizia "22º" — corrigido para **23º** (1 palavra; errata já documentada no L102; o verbete 807 não cita ordinal).
-2. **P2 (espelho de continuidade):** `STATE-MIRROR.md` §6 reescrita (obra completa: 649 verbetes, 652 fichas, fila zerada) + censo §1 650→652.
+2. **P2 (espelho de continuidade):** `../../../admin/logs/STATE-MIRROR.md` §6 reescrita (obra completa: 649 verbetes, 652 fichas, fila zerada) + censo §1 650→652.
 3. **Datas:** correção global 11→10/09 em 58 arquivos (deslize de datação da sessão; os commits sempre foram 10/09) — verificador sem impacto (649/8540/8250/0).
 4. **P1 (espelhos):** 4 builders rodados — `indice-mestre.md` + `base-terminologica.xlsx` (7 abas) + `base-terminologica-leitura.docx` + `INDICE-ENCICLOPEDIA-RC.docx`, todos com 652 fichas. **Bug do builder corrigido:** o `slug(nome)` derivava links que erravam **101/652** arquivos — `ficha_link()` agora resolve o arquivo real via glob → **0 links quebrados**. xlsx conferido por spot-check (544/581/794/872).
 5. Incidente de ambiente: sandbox reverteu o `.git` ao handoff — recuperado via fetch + reset para `c1d85b3`, NOTES restaurado do git, verificador pós-recovery OK. Nada se perdeu.

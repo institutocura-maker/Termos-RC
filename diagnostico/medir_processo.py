@@ -155,13 +155,13 @@ def governanca():
     def sz(*parts):
         return _bytes(os.path.join(RAIZ, *parts))
 
-    cont = os.path.join(RAIZ, "CONTINUIDADE.md")
+    cont = os.path.join(RAIZ, "admin", "logs", "CONTINUIDADE.md")
     txt = open(cont, encoding="utf-8", errors="ignore").read() if os.path.exists(cont) else ""
     blocos = [b for b in txt.split("\n\n") if b.strip()]
     cab = "\n\n".join(blocos[:4])
     arquivos = sorted(glob.glob(os.path.join(RAIZ, "apostilas", "CONCLUIDAS", "*", "apostila.md")))
     return dict(
-        PROMPT_bytes=sz("PROMPT-PROXIMA-SESSAO.md"),
+        PROMPT_bytes=sz("prompts", "PROMPT-PROXIMA-SESSAO.md"),
         CONTINUIDADE_bytes=len(txt.encode()),
         CONTINUIDADE_blocos=len(blocos),
         CONTINUIDADE_bytes_por_bloco=int(len(txt.encode()) / max(1, len(blocos))),
@@ -170,7 +170,7 @@ def governanca():
         INDICE_APOSTILAS_bytes=sz("apostilas", "INDICE-PALESTRAS.md"),
         GUIA_bytes=sz("GUIA-MESTRE-RC-APOSTILA-v1.1.md"),
         CONVENCOES_bytes=sz("convencoes-editoriais-rc.md"),
-        leitura_obrigatoria_bytes=sum([sz("PROMPT-PROXIMA-SESSAO.md"), sz("CONTINUIDADE.md"),
+        leitura_obrigatoria_bytes=sum([sz("prompts", "PROMPT-PROXIMA-SESSAO.md"), sz("admin", "logs", "CONTINUIDADE.md"),
                                       sz("INDICE-PALESTRAS.md"), sz("apostilas", "INDICE-PALESTRAS.md"),
                                       sz("GUIA-MESTRE-RC-APOSTILA-v1.1.md"),
                                       sz("convencoes-editoriais-rc.md")]),

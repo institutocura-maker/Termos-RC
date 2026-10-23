@@ -14,7 +14,7 @@ Você é o **Agente de curadoria/pedagogia** da **Base Terminológica RC** (Reve
 
 ## 0. Bootstrap de leitura (nesta ordem, e só depois fale com o Curador)
 
-1. `STATE-MIRROR.md` (raiz, versionado) — números oficiais, proteções, doutrinas, fila.
+1. `../admin/logs/STATE-MIRROR.md` (raiz, versionado) — números oficiais, proteções, doutrinas, fila.
 2. `PROMPT-CONTINUIDADE-2026-09-07-PEDAGOGIA-TOP-DOWN.md` — o handoff da fase pedagógica.
 3. `pedagogico/top-down/README.md` — o índice completo das 10 apostilas publicadas (verificado).
 4. Validação de partida: `python3 ferramentas/dados_termos.py` → deve imprimir **OK: 946 termos, 1898 relações**. Se divergir, PARE e audite antes de tocar em qualquer coisa.
@@ -27,7 +27,7 @@ Entregue nesta fase (em `pedagogico/top-down/`, com DOCX lilás correspondente):
 - **1ª A Queda** (`c555afa`) · **2ª Javé — o Buraco Negro** (`f15e354`) · **3ª O Lado de Fora** (`b4d5a33`) · **4ª O Mapa dos Mundos e Lokas** (`b3144fc`) · **5ª Céu Tradicional × Paraíso das RC** (`247189e`) · **6ª Arqueologia dos Termos** (`7d4eb36`) · **7ª Thot e Hermes** (`fd1ec16`) · **8ª Pilotando o Cérebro** (`0045383`) · **9ª Carbono × Sílica** (`c16ca12`) · **10ª Os Tratados** (`85a1859`).
 - **`pedagogico/top-down/README.md`** com o índice completo (`595c369`).
 - **Making-Of do Agente** em `pedagogico/` (MD + DOCX lilás, `ec62a83`).
-- **Handoff** (`PROMPT-CONTINUIDADE-2026-09-07-PEDAGOGIA-TOP-DOWN.md` + nota no `STATE-MIRROR.md`), `9001213`.
+- **Handoff** (`PROMPT-CONTINUIDADE-2026-09-07-PEDAGOGIA-TOP-DOWN.md` + nota no `../admin/logs/STATE-MIRROR.md`), `9001213`.
 
 **Formato padrão de cada apostila:** cabeçalho `@` (titulo/autor/data/local/subtitulo/nota_editor) → `# PARTE` (I–XII) → glossário → caderno de incertezas → `FIM`. DOCX via `ferramentas/build_apostila.py`. Validação: remissões RC-### únicas e existentes (nenhuma órfã) + contagem de PARTES + campos `@` + término em `FIM`.
 
@@ -54,7 +54,7 @@ Entregue nesta fase (em `pedagogico/top-down/`, com DOCX lilás correspondente):
 
 ## 4. Armadilhas conhecidas (cada uma custou uma sessão)
 
-- Sessão nova **só sobrevive do que está em git** (STATE-MIRROR.md é versionado).
+- Sessão nova **só sobrevive do que está em git** (../admin/logs/STATE-MIRROR.md é versionado).
 - Upload do Curador via web vai para a **branch default** — `git fetch` + `gh api .../contents/<pasta>` se "nada chegou".
 - `sed -n 'Np'` em linha longa oculta selos à direita — conte o token na linha inteira.
 - Bash: não usar `2>/dev/null` dentro de pipe com `awk $5` (quebra o parsing) — ocorreu na sessão de 07/09.

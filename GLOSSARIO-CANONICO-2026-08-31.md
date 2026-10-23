@@ -692,7 +692,7 @@
 
 ## SEÇÃO 6 — Anomalias Conhecidas
 
-1. **Anomalia de Rebase (2026-08-31):** 41 arquivos em `uploads_recepcao/` são duplicatas (SHA-256 idêntico ao `original.txt` em CONCLUIDAS) que deveriam ter sido deletados pelos commits `c2d838dd` (P2019-05-11) e `c11976e` (P2023-11-11) do curador anterior, mas ficaram em "unreachable" após rebase. **NÃO** deletar (Opção C do usuário — documentar e seguir). Ver `REGISTRO-ANOMALIA-REBASE-2026-08-31.md`.
+1. **Anomalia de Rebase (2026-08-31):** 41 arquivos em `uploads_recepcao/` são duplicatas (SHA-256 idêntico ao `original.txt` em CONCLUIDAS) que deveriam ter sido deletados pelos commits `c2d838dd` (P2019-05-11) e `c11976e` (P2023-11-11) do curador anterior, mas ficaram em "unreachable" após rebase. **NÃO** deletar (Opção C do usuário — documentar e seguir). Ver `admin/logs/REGISTRO-ANOMALIA-REBASE-2026-08-31.md`.
 
 2. **Data STT corrompida:** `2017-14-05` (mês 14 não existe) — canonizada como `2017-05-14`.
 

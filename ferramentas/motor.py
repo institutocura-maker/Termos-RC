@@ -1109,7 +1109,7 @@ def novo(txt: str, sigla: str = "") -> None:
         open(cfg, "w", encoding="utf-8").write("\n".join([
             f"# ciclo.toml — ciclo leve {sigla} · andaime escrito por `motor.py novo`",
             "# ──────────────────────────────────────────────────────────────────────────────",
-            "# Toda curadoria mora AQUI. Regras vigentes: DESPACHO-DA-ESTEIRA-LEVE-2026-08-29.md.",
+            "# Toda curadoria mora AQUI. Regras vigentes: ../../admin/logs/DESPACHO-DA-ESTEIRA-LEVE-2026-08-29.md.",
             "# O que está vazio abaixo é pendência do aplicador, não estado da Base: o portão D",
             "# confere cada número declarado e o livro-razão responde pelo que foi recusado.",
             "",

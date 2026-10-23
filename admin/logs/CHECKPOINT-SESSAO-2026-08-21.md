@@ -1,6 +1,6 @@
 # CHECKPOINT DE SESSÃO — 2026-08-21 (ATUALIZADO)
 
-> **Documento de retomada histórica** (2026-08-21/22). Para o estado vigente, prevalece `PROMPT-PROXIMA-SESSAO.md`.
+> **Documento de retomada histórica** (2026-08-21/22). Para o estado vigente, prevalece `../../prompts/PROMPT-PROXIMA-SESSAO.md`.
 > Contagens abaixo (1849 relações / HEAD e91552d) estão **velhas**. Vigente em 2026-08-25: **777 termos / 1.852 relações** · HEAD **`3fa96c1`** · branch `arena/01a02e74-termos-rc`.
 
 ---
@@ -80,7 +80,7 @@ Uploads: todos processados; movidos para uploads/processados/ (28 arquivos).
 | `pedagogico/GUIA-TRILOGIA-TALM.md` | Narrativa integrada da Trilogia TALM |
 | `pedagogico/TRATADO-ILHA-ESTACIONARIA-ARCA-DE-PERGUNTAS.md` | Tratado 1 |
 | `pedagogico/TRATADO-FIM-DA-JUSTICA-DIVINA-INICIO-DOS-ALGORITMOS.md` | Tratado 2 |
-| `PROMPT-INICIAL-DO-AGENTE.md` / `GUIA-MESTRE-RC-APOSTILA-v1.1.md` | Instruções de operação |
+| `../../prompts/PROMPT-INICIAL-DO-AGENTE.md` / `GUIA-MESTRE-RC-APOSTILA-v1.1.md` | Instruções de operação |
 | `uploads/processados/` | Todos os uploads já processados (28 arquivos, backup local) |
 
 ## 7. REGRAS DE OURO (recordatório rápido)
@@ -103,5 +103,5 @@ Uploads: todos processados; movidos para uploads/processados/ (28 arquivos).
 - **Devolutiva parcial do curador sobre a Apostila Temática "Carbono × Sílica":** o curador compartilhou a apostila com o seu Assistente, que elogiou a blindagem metodológica (PARTE IX isolada EXT-2026-08-05; padrão 3 camadas primária/ART/EXT), o eixo carbono → sílica, a ética do "duplo canalha" e a citação de fechamento. **Aguardando devolutiva formal O-1..O-8.**
 - **Pergunta metodológica do curador (respondida e registrada em CONTINUIDADE.md):** "a Apostila Temática usa informações dos textos originais arquivados ou exclusivamente Termos e Relacionamentos?" → resposta: 3 camadas — (1) esqueleto = 100% malha; (2) carne = fichas ampliadas (originais já destilados e auditados); (3) voz = citações verbatim dos originais arquivados, relidas na hora, com rastreabilidade (palestra + U#### + chunks + RC). Nada de memória.
 - **NOVA FRENTE EM DISCUSSÃO (decisão pendente do curador):** reprocessar os LIVROS (B001–B083) com o fluxo moderno (camadas → unidades → chunks → leituras → dossiê → devolutiva → ampliações → apostila/tratado). Os livros foram tratados na era pré-GitHub, sem esse fluxo. **Opinião da IA registrada:** NÃO fazer repassada total; fazer auditoria de lacunas (Fase 0) → 1 piloto (Fase 1) → escala seletiva (Fase 2). Dados para a decisão: 86 obras = 40 "trabalhada" (livros com PDF processados na era antiga) + 9 "a confirmar" (aguardando PDF) + 2 "amostra recebida" (B027, B035) + 19 "identificada" + 9 "anunciada" (B079–B083) + 4 "minerada" (Enciclopédias/Glossários) + 3 ART "curadoria". B031 é fonte SECUNDÁRIA (Raquyel Braga) — quarentena de camada. **Perguntar ao curador:** (a) o acervo digital dos livros (PDFs/TXTs) está disponível para upload? (b) qual livro ele considera prioritário como piloto? (c) ele quer o dossiê de auditoria de lacunas primeiro?
-- **Erro "The conversation is too long for the model"** ocorreu nesta conversa → retomar em conversa NOVA na Arena (clone já vem pronto). Validar `OK: 777 termos, 1852 relações`. Ler `PROMPT-PROXIMA-SESSAO.md` + este CHECKPOINT + `CONTINUIDADE.md`. **Nunca** colar token. HEAD vigente da esteira (2026-08-25): **`3fa96c1`**.
+- **Erro "The conversation is too long for the model"** ocorreu nesta conversa → retomar em conversa NOVA na Arena (clone já vem pronto). Validar `OK: 777 termos, 1852 relações`. Ler `../../prompts/PROMPT-PROXIMA-SESSAO.md` + este CHECKPOINT + `CONTINUIDADE.md`. **Nunca** colar token. HEAD vigente da esteira (2026-08-25): **`3fa96c1`**.
 - **GitHub (nota histórica 2026-08-22):** commit `7460b76` era o HEAD daquele dia. Não usar como estado atual.

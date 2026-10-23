@@ -54,7 +54,7 @@ Guarida preciosa, Suserano Universal etc.). Veja §3.
 
 ### 3.1 — Tipologias "homo …" (familia consumus/corruptus/nervosus/religiosus)
 **Status: NÃO CONTEMPLADAS — e JÁ ANOTADAS como deliberadamente não materializadas.**
-A CONTINUIDADE.md (ciclo do livro **B040**) registra explicitamente: *"O-3: zero códigos;
+A admin/logs/CONTINUIDADE.md (ciclo do livro **B040**) registra explicitamente: *"O-3: zero códigos;
 RC-040/099/431/432/244/540 não materializadas; **'homo consumus' sem código**"*. Ou seja, as
 tipologias `Homo consumus`, `Homo corruptus`, `Homo nervosus`, `Homo religiosus` da lista **foram
 identificadas no corpus mas deliberadamente NÃO criadas** (decisão O-3/O-4 — material apenas como

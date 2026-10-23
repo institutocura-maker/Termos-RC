@@ -8,7 +8,7 @@
 
 ## 0. Bootstrap de leitura (nesta ordem, e só depois fale com o Curador)
 
-1. `STATE-MIRROR.md` (raiz, versionado) — números oficiais, proteções, doutrinas, fila.
+1. `../admin/logs/STATE-MIRROR.md` (raiz, versionado) — números oficiais, proteções, doutrinas, fila.
 2. `.arena/SESSION-NOTES.md` — diário da era F033→F044.
 3. `ciclos/F044_misterios-da-vida-de-jesus/ficha_ingresso.md` + `ciclo.toml` — o material da missão atual.
 4. `consolidacoes/F043_glossario-krys-amon/` (ciclo concluído; precedente de material externo) e, se precisar de jurisprudência, os dossiês F041/F042.
@@ -51,7 +51,7 @@
 - `sed -n 'Np'` de linha longa oculta selos à direita — conte ocorrências do token na linha inteira.
 - Cadastro em replace: verificar **pós-escrita** por `set(codes)` + `len(TERMOS)`, nunca por «o código existe».
 - Upload do Curador via **web vai para a branch default** (não a main!) — quando «não chegar nada na caixa», `git fetch` + `gh api .../contents/uploads_recepcao` primeiro.
-- Sessão nova **só sobrevive do que está em git**: nada de espelho fora do repositório; STATE-MIRROR.md é versionado agora.
+- Sessão nova **só sobrevive do que está em git**: nada de espelho fora do repositório; ../admin/logs/STATE-MIRROR.md é versionado agora.
 
 ## 4. Primeira resposta ao Curador
 

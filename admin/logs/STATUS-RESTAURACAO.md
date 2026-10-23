@@ -1,6 +1,6 @@
 # STATUS DA RESTAURAÇÃO — Sessão Apostila(6)
 
-> **⚠️ ARQUIVO HISTÓRICO** (marcado na revisão de 2026-08-25 — AGENTE 10). Registro da restauração de 2026-08-19; etapa superada. **Não usar como estado vigente** — prevalece `PROMPT-PROXIMA-SESSAO.md`.
+> **⚠️ ARQUIVO HISTÓRICO** (marcado na revisão de 2026-08-25 — AGENTE 10). Registro da restauração de 2026-08-19; etapa superada. **Não usar como estado vigente** — prevalece `../../prompts/PROMPT-PROXIMA-SESSAO.md`.
 
 **Data de início:** 2026-08-19
 **Origem do backup:** `C:\RC News\IEEA\_BACKUP_\BKP_APOSTILA(5)V5.0_FINAL`

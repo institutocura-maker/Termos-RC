@@ -8,7 +8,7 @@
 
 ## 0. Bootstrap de leitura (nesta ordem, e só depois fale com o Curador)
 
-1. `STATE-MIRROR.md` (raiz, versionado) — números oficiais, proteções, doutrinas, fila.
+1. `../admin/logs/STATE-MIRROR.md` (raiz, versionado) — números oficiais, proteções, doutrinas, fila.
 2. **`PROMPT-CONTINUIDADE-2026-09-07-PEDAGOGIA-TOP-DOWN.md`** (este arquivo) — o estado da fase pedagógica.
 3. `pedagogico/top-down/README.md` — o índice completo das 10 apostilas publicadas (verificado).
 4. Validação de partida: `python3 ferramentas/dados_termos.py` → deve imprimir **OK: 946 termos, 1898 relações**. Se divergir, PARE e audite antes de tocar em qualquer coisa.

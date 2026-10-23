@@ -22,7 +22,7 @@ Método (somente leitura — nada foi alterado):
 1. Comparação termo-a-termo contra `ferramentas/dados_termos.py` e as fichas `termos/RC-*.md`.
 2. Varredura textual em todo o repo por Aesir/Vanir, juramento da saliva, codificação líquida,
    registros acásicos, água-como-computador, etc. → concentração apenas em
-   `CONTINUIDADE.md`, `INDICE-PALESTRAS.md`, `ciclos/P2026-03-21/*` e nas fichas
+   `admin/logs/CONTINUIDADE.md`, `INDICE-PALESTRAS.md`, `ciclos/P2026-03-21/*` e nas fichas
    RC-040, RC-395, RC-730, RC-816, RC-769.
 3. Confronto com a devolutiva do ciclo leve **P2026-03-21** (aplicada em 01/09/2026) para
    verificar se qualquer ampliação/diretriz aqui proposta viola decisão já homologada.

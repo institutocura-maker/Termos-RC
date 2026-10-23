@@ -72,7 +72,7 @@ relações explícitas e grafias canônicas já mapeadas. É dela que o corpus d
 | **Glossário canônico** | `GLOSSARIO-CANONICO-2026-08-31.md` | 524 fichas + 80 pastas + **regras de grafia** (canônica × rejeitada) | mapa de normalização pronto |
 | **Convenções editoriais** | `convencoes-editoriais-rc.md` | regras de edição, hierarquia de referências, §13 (normalização) | governança |
 | **Vocabulário controlado** | `02-vocabulario-controlado.md` | 8 categorias principais × subcategorias | taxonomia do corpus |
-| **Esteira leve** | `DESPACHO-DA-ESTEIRA-LEVE-2026-08-29.md` + `ferramentas/motor.py` (selftest 9/9) | o processo de **garimpo** já pronto: pérolas (status candidata → aprovada), livro-razão de âncoras, arestas tipadas | **o instrumento do garimpo** |
+| **Esteira leve** | `admin/logs/DESPACHO-DA-ESTEIRA-LEVE-2026-08-29.md` + `ferramentas/motor.py` (selftest 9/9) | o processo de **garimpo** já pronto: pérolas (status candidata → aprovada), livro-razão de âncoras, arestas tipadas | **o instrumento do garimpo** |
 | **Ciclos leves já rodados** | `ciclos/P2023-12-03/`, `ciclos/P2023-12-17/` | provas de conceito do rito leve (P2023-12-03 = ciclo zero verde) | referência de formato |
 
 **Conclusão:** o insumo de treinamento já está ~90% pronto e normalizado. O que faltou foi
@@ -277,7 +277,7 @@ fechado). A partir daqui, o foco migra para o **garimpo via esteira leve**.
 
 ## 10 · Próximos passos
 
-1. ✅ **Registrar a decisão** no `CONTINUIDADE.md` e no `PROMPT-PROXIMA-SESSAO.md` (feito).
+1. ✅ **Registrar a decisão** no `admin/logs/CONTINUIDADE.md` e no `prompts/PROMPT-PROXIMA-SESSAO.md` (feito).
 2. ✅ **Fechar as decisões de formato** (§6) e **especificar o schema** (§7) — feito nesta
    sessão; o caminho do corpus está mapeado de ponta a ponta.
 3. **Standby:** aguardar o Curador enviar o próximo TXT (`uploads_recepcao/`). Foco
@@ -293,7 +293,7 @@ fechado). A partir daqui, o foco migra para o **garimpo via esteira leve**.
 
 ## 11 · Referências
 
-- `DESPACHO-DA-ESTEIRA-LEVE-2026-08-29.md` — norma da esteira leve (rito de garimpo).
+- `admin/logs/DESPACHO-DA-ESTEIRA-LEVE-2026-08-29.md` — norma da esteira leve (rito de garimpo).
 - `ferramentas/motor.py` — Motor Único (selftest 9/9).
 - `ferramentas/dados_termos.py` — cadastro autoritativo (777/1.856/102).
 - `GLOSSARIO-CANONICO-2026-08-31.md` — grafias canônicas × rejeitadas.

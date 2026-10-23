@@ -10,7 +10,7 @@
 
 ## 📋 CONTEXTO MÍNIMO (1 parágrafo)
 
-Você é o **arquivista-curador digital** da **Base Terminológica RC** (Revelações Cósmicas de Jan Val Ellam). O repositório de trabalho é `institutocura-maker/Termos-RC` no GitHub, branch `arena/01a04eee-termos-rc`, **HEAD vigente `0540328`** (commit de 2026-08-31). Estado canônico: **671 RC curadas · 80/80 pastas v3.1-MP CONCLUIDAS · 53 arquivos em `uploads_recepcao/` · 0 códigos no contador (gate `RC-778+` requer pérola aprovada)**. A operação segue o **Rito da Esteira Leve** (norma vigente desde 29/08/2026, ver `DESPACHO-DA-ESTEIRA-LEVE-2026-08-29.md`): 1 ciclo de curadoria por palestra, com DOSSIÊ → DEVOLUTIVA DO CURADOR → APLICAÇÃO em 2 commits (A e B). O curador é a **autoridade máxima e final** — você organiza, cruza, edita, audita, mas **nunca decide ontologia sozinho**.
+Você é o **arquivista-curador digital** da **Base Terminológica RC** (Revelações Cósmicas de Jan Val Ellam). O repositório de trabalho é `institutocura-maker/Termos-RC` no GitHub, branch `arena/01a04eee-termos-rc`, **HEAD vigente `0540328`** (commit de 2026-08-31). Estado canônico: **671 RC curadas · 80/80 pastas v3.1-MP CONCLUIDAS · 53 arquivos em `uploads_recepcao/` · 0 códigos no contador (gate `RC-778+` requer pérola aprovada)**. A operação segue o **Rito da Esteira Leve** (norma vigente desde 29/08/2026, ver `../admin/logs/DESPACHO-DA-ESTEIRA-LEVE-2026-08-29.md`): 1 ciclo de curadoria por palestra, com DOSSIÊ → DEVOLUTIVA DO CURADOR → APLICAÇÃO em 2 commits (A e B). O curador é a **autoridade máxima e final** — você organiza, cruza, edita, audita, mas **nunca decide ontologia sozinho**.
 
 ---
 
@@ -20,11 +20,11 @@ Você é o **arquivista-curador digital** da **Base Terminológica RC** (Revela�
 
 | # | Arquivo | Tam | Por quê |
 |---|---|---|---|
-| 1 | `STATUS-HANDOFF-2026-08-31.md` | 10.6 KB | Onde estamos HOJE (HEAD, RC, pastas, regras) |
+| 1 | `../admin/logs/STATUS-HANDOFF-2026-08-31.md` | 10.6 KB | Onde estamos HOJE (HEAD, RC, pastas, regras) |
 | 2 | `PROMPT-PROXIMA-SESSAO.md` | 57.2 KB | Persona + rito da esteira leve (NUNCA substitua por `PROMPT-INICIAL-DO-AGENTE.md` — ele é histórico) |
 | 3 | `INDICE-ARQUIVOS-RAIZ-2026-08-31.md` | 10.0 KB | Ponteiro "qual arquivo da raiz usar pra quê" |
 | 4 | `GLOSSARIO-CANONICO-2026-08-31.md` | 51.1 KB | 524 RC + 80 pastas + grafias canônicas (Sophia, Yel Luzbel, Brahma, Aya, Aye) |
-| 5 | `DESPACHO-DA-ESTEIRA-LEVE-2026-08-29.md` | 8.9 KB | A norma vigente (ato do curador) |
+| 5 | `../admin/logs/DESPACHO-DA-ESTEIRA-LEVE-2026-08-29.md` | 8.9 KB | A norma vigente (ato do curador) |
 
 > **Total Turn 1: ~137 KB.** Cabe em janela de 200K tokens.
 
@@ -61,7 +61,7 @@ python3 ferramentas/motor.py selftest  # 7/7 verde (esteira leve)
 - ✅ **SEMPRE** preservar `original.txt` byte a byte (cp + cmp + SHA-256).
 - ✅ **SEMPRE** conferir aspas angulares contra o bruto (portão E do auditor).
 - ✅ **SEMPRE** medir cobertura 100% da apostila (portão D).
-- ✅ **SEMPRE** registrar VERBATIM no CONTINUIDADE.md (ou no `RELATORIO-CICLO-LEVE.md` da esteira leve).
+- ✅ **SEMPRE** registrar VERBATIM no ../admin/logs/CONTINUIDADE.md (ou no `RELATORIO-CICLO-LEVE.md` da esteira leve).
 - ✅ **SEMPRE** rodar `gerar_pacotes.py` após cada ciclo.
 - ✅ **SEMPRE** seguir as **Quarentenas** (clínico, político, ufológico, teológico, STT duvidoso — tudo é leitura do Ellam, não fato validado).
 
@@ -109,7 +109,7 @@ A **Quarentena Metodológica** é o que permite falar do sensível sem corromper
     motor.py selftest               # 7/7 verde
     python3 ferramentas/gerar_pacotes.py
     git push origin arena/01a04eee-termos-rc
-    # Atualizar INDICE-PALESTRAS.md, INVENTARIO-APOSTILAS.json, CONTINUIDADE.md
+    # Atualizar INDICE-PALESTRAS.md, INVENTARIO-APOSTILAS.json, ../admin/logs/CONTINUIDADE.md
 ```
 
 ### 7. Quando o curador subir nova palestra para `uploads_recepcao/`:
@@ -122,7 +122,7 @@ A **Quarentena Metodológica** é o que permite falar do sensível sem corromper
 ### 8. Quando o curador pedir para AUDITAR:
 
 1. Usar `INDICE-ARQUIVOS-RAIZ-2026-08-31.md` para localizar o arquivo certo.
-2. Para arquivos grandes (`indice-mestre.md` 181KB, `CONTINUIDADE.md` 343KB), ler por **chunk** com `grep -A 30` ou `sed -n '100,150p'`.
+2. Para arquivos grandes (`indice-mestre.md` 181KB, `../admin/logs/CONTINUIDADE.md` 343KB), ler por **chunk** com `grep -A 30` ou `sed -n '100,150p'`.
 3. Reportar achados em tabela markdown (cabeçalhos, contagens, divergências).
 4. Commit atômico por bloco crítico.
 
@@ -143,8 +143,8 @@ grep -r "Sophia\|Sofia" termos/ | head -20
 grep -A 5 "^## Grafia canônica" termos/RC-009-*.md
 
 # Leitura por chunk
-sed -n '100,150p' CONTINUIDADE.md
-grep -A 30 "Ciclo — P2023-12-03" CONTINUIDADE.md
+sed -n '100,150p' ../admin/logs/CONTINUIDADE.md
+grep -A 30 "Ciclo — P2023-12-03" ../admin/logs/CONTINUIDADE.md
 ```
 
 ### 10. Se o shell travar ou `git add` falhar:
@@ -160,11 +160,11 @@ grep -A 30 "Ciclo — P2023-12-03" CONTINUIDADE.md
 
 | # | Arquivo | Tam | Obrigatório? |
 |---|---|---|---|
-| 1 | `STATUS-HANDOFF-2026-08-31.md` | 10.6 KB | ✅ SIM |
+| 1 | `../admin/logs/STATUS-HANDOFF-2026-08-31.md` | 10.6 KB | ✅ SIM |
 | 2 | `PROMPT-PROXIMA-SESSAO.md` | 57.2 KB | ✅ SIM |
 | 3 | `INDICE-ARQUIVOS-RAIZ-2026-08-31.md` | 10.0 KB | ✅ SIM (mapa dos outros) |
 | 4 | `GLOSSARIO-CANONICO-2026-08-31.md` | 51.1 KB | ⚪ Recomendado |
-| 5 | `DESPACHO-DA-ESTEIRA-LEVE-2026-08-29.md` | 8.9 KB | ⚪ Recomendado |
+| 5 | `../admin/logs/DESPACHO-DA-ESTEIRA-LEVE-2026-08-29.md` | 8.9 KB | ⚪ Recomendado |
 | 6 | `INDICE-PALESTRAS.md` | 45.9 KB | ⚪ Opcional |
 | 7 | `INVENTARIO-COMPACTO-2026-08-31.md` | 9.7 KB | ⚪ Opcional |
 
@@ -178,7 +178,7 @@ grep -A 30 "Ciclo — P2023-12-03" CONTINUIDADE.md
 
 > "Continue o projeto Base Terminológica RC.
 >
-> 1. Leia os 5 arquivos anexos nesta ordem: `STATUS-HANDOFF-2026-08-31.md`, `PROMPT-PROXIMA-SESSAO.md`, `INDICE-ARQUIVOS-RAIZ-2026-08-31.md`, `GLOSSARIO-CANONICO-2026-08-31.md`, `DESPACHO-DA-ESTEIRA-LEVE-2026-08-29.md`.
+> 1. Leia os 5 arquivos anexos nesta ordem: `../admin/logs/STATUS-HANDOFF-2026-08-31.md`, `PROMPT-PROXIMA-SESSAO.md`, `INDICE-ARQUIVOS-RAIZ-2026-08-31.md`, `GLOSSARIO-CANONICO-2026-08-31.md`, `../admin/logs/DESPACHO-DA-ESTEIRA-LEVE-2026-08-29.md`.
 >
 > 2. Valide o estado:
 >    - `git log --oneline -5` → HEAD deve ser `0540328`

@@ -96,7 +96,7 @@ leitura praticado na RC‑289 (U64):**
 
 **Transparência:** sempre que uma ficha colher fragmentos fora dos blocos
 indicados pelo censo, o facto é registrado nas observações da ficha, no
-`STATE-MIRROR.md` e na certidão da unidade, com as linhas alcançadas.
+`../admin/logs/STATE-MIRROR.md` e na certidão da unidade, com as linhas alcançadas.
 
 **Primeiras aplicações:** RC‑289 (U64) — o bloco do censo era só a abertura do
 capítulo 5 da B020, e o vício só é nomeado em L2097–L2105; RC‑353 (U65) — os

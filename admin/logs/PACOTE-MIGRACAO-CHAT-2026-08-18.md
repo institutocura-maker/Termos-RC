@@ -1,6 +1,6 @@
 # Pacote de Migração de Chat — Checkpoint 2026-08-18
 
-> **⚠️ ARQUIVO HISTÓRICO** (marcado na revisão de 2026-08-25 — AGENTE 10). Snapshot de 2026-08-18; contagens e pendências desatualizadas. **Não usar como estado vigente** — prevalece `PROMPT-PROXIMA-SESSAO.md`.
+> **⚠️ ARQUIVO HISTÓRICO** (marcado na revisão de 2026-08-25 — AGENTE 10). Snapshot de 2026-08-18; contagens e pendências desatualizadas. **Não usar como estado vigente** — prevalece `../../prompts/PROMPT-PROXIMA-SESSAO.md`.
 
 ## Identidade do projeto
 

@@ -207,7 +207,7 @@ Mapa p/ os 4 níveis atuais preservando compatibilidade (para não quebrar ferra
 ### R5 — Baseline + piloto
 - Baseline já produzido (`DIAGNOSTICO-BASELINE-KB-2026-09-03.md`).
 - Processar o `22-GLOSSÁRIO.txt` como **piloto** completo (mapear → anti-duplicar → divergir →
-  elevar só o seguro), valendo-se do despacho (`DESPACHO-ESTEIRA-CONSOLIDACAO-2026-09-03.md`).
+  elevar só o seguro), valendo-se do despacho (`admin/logs/DESPACHO-ESTEIRA-CONSOLIDACAO-2026-09-03.md`).
 
 ---
 

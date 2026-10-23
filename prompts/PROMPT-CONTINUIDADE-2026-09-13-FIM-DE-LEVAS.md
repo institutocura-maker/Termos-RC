@@ -8,7 +8,7 @@
 
 ## 0. Bootstrap de leitura (nesta ordem, e só depois fale com o Curador)
 
-1. `STATE-MIRROR.md` (raiz, versionado) — números oficiais, proteções, doutrinas, fila. Linha-9 é o resumo autoritativo.
+1. `../admin/logs/STATE-MIRROR.md` (raiz, versionado) — números oficiais, proteções, doutrinas, fila. Linha-9 é o resumo autoritativo.
 2. Este arquivo — o estado da fase P7/gap.
 3. `diagnostico/CENSO-GAP-FICHAS-2026-09-13.md` + `.json` — o dossiê do gap (rota aberta pelo Curador).
 4. Validação de partida: `python3 ferramentas/verificar_verbetes.py` → deve imprimir **Base intacta: 946 termos · 673 fichas · 1887 relacoes**.

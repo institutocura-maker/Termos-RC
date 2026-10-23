@@ -74,14 +74,14 @@ python3 ferramentas/motor.py --ciclo P<SIGLA> rag                 # cards de `ap
 python3 ferramentas/motor.py --ciclo P<SIGLA> tudo                 # os quatro portões no fim, sempre
 ```
 
-**Invioláveis da leveza** (detalhe e motivo em `DESPACHO-DA-ESTEIRA-LEVE-2026-08-29.md`): nenhuma aspa digitada à mão (nem no resumo, que sai em prosa sem «…»); aspas bloqueadas não transitam para ficha de pessoa/paciente/grupo; zero harmonização de números; consertar o gerador, nunca o produto; chave não usada no `.toml` é erro; portões medem delta; fonte intocada (a transcrição integral não é reemitida, mas `original.txt` + hash são a preservação); rodar duas vezes é neutro.
+**Invioláveis da leveza** (detalhe e motivo em `../admin/logs/DESPACHO-DA-ESTEIRA-LEVE-2026-08-29.md`): nenhuma aspa digitada à mão (nem no resumo, que sai em prosa sem «…»); aspas bloqueadas não transitam para ficha de pessoa/paciente/grupo; zero harmonização de números; consertar o gerador, nunca o produto; chave não usada no `.toml` é erro; portões medem delta; fonte intocada (a transcrição integral não é reemitida, mas `original.txt` + hash são a preservação); rodar duas vezes é neutro.
 
 ---
 
 ## Como usar
 
 1. Anexe **este arquivo primeiro** no chat novo.
-2. Em seguida, se precisar de fundo: `CONTINUIDADE.md` (diário; cabeçalho prevalece) → `convencoes-editoriais-rc.md` → `GUIA-MESTRE-RC-APOSTILA-v1.1.md` → arquivos HISTÓRICOS (com banner ⚠️; só como história): `CHECKPOINT-SESSAO-2026-08-21.md` · `PROMPT-INICIAL-DO-AGENTE.md` · `README.md` · `PLANO-MIGRACAO-DE-CHAT.md` · `PACOTE-MIGRACAO-CHAT-2026-08-18.md`.
+2. Em seguida, se precisar de fundo: `../admin/logs/CONTINUIDADE.md` (diário; cabeçalho prevalece) → `convencoes-editoriais-rc.md` → `GUIA-MESTRE-RC-APOSTILA-v1.1.md` → arquivos HISTÓRICOS (com banner ⚠️; só como história): `../admin/logs/CHECKPOINT-SESSAO-2026-08-21.md` · `PROMPT-INICIAL-DO-AGENTE.md` · `README.md` · `PLANO-MIGRACAO-DE-CHAT.md` · `../admin/logs/PACOTE-MIGRACAO-CHAT-2026-08-18.md`.
 3. Diga: *leia `PROMPT-PROXIMA-SESSAO.md`, monte o ambiente e apresente o estado.*
 
 **Este arquivo prevalece** para o estado vigente (ver tabela "Mapa da vigência").
@@ -102,7 +102,7 @@ PRIMEIRA AÇÃO (o ritual de abertura, antes de qualquer edição):
 2. ⚠️ O SANDBOX REVERTE ENTRE TURNOS SEM AVISO: se o tree parecer antigo, refaça fetch + reset ANTES de editar. O store durável é a branch no GitHub. Commit + push A CADA BLOCO CRÍTICO (nunca acumular).
 3. `pip install --break-system-packages markdown openpyxl python-docx pypdf` (os pacotes NÃO persistem entre turnos; às vezes precisa 2×).
 4. `python3 ferramentas/dados_termos.py` → deve retornar exatamente: **OK: 777 termos, 1856 relações — dados válidos.**
-5. Leia `PROMPT-PROXIMA-SESSAO.md` por inteiro (a Persona + o Mapa da vigência + o Patrimônio da KB) e `CONTINUIDADE.md` (o diário; o cabeçalho prevalece).
+5. Leia `PROMPT-PROXIMA-SESSAO.md` por inteiro (a Persona + o Mapa da vigência + o Patrimônio da KB) e `../admin/logs/CONTINUIDADE.md` (o diário; o cabeçalho prevalece).
 6. Resuma o estado e AGUARDE a nomeação do curador. Não abrir PR. Não abrir ciclo sem a palestra/obra nomeada.
 
 O MÉTODO (o ciclo de palestra, o rito completo): o TXT chega em `uploads_recepcao/` → pasta `apostilas/YYYY-MM-DD_slug/` com original.txt (a cópia, byte a byte) + ficha_ingresso.md + analise/ (METADADOS-INGRESSO.json com SHA-256; camadas 0-3; LEITURA-1; DOSSIE-PRE-CURATORIA-TERMINOLOGICA-v1.md com O-1..O-8) → **commit piloto → AGUARDA DEVOLUTIVA** → [devolutiva] DECISAO-DO-CURADOR.md (o registro VERBATIM + a tabela da aplicação) + `_ampliacoes_PYYYY-MM-DD.txt` (blocos `### RC-XXX`) + `_aplicar_ampliacoes_*.py` (o padrão-fonte: os seds de `apostilas/CONCLUIDAS/2023-06-24_o_buraco_negro_mental_e_o_estacionamento_coletivo/analise/`) → os vínculos via regex em `ferramentas/dados_termos.py` (o fim da lista de fontes) → `python3 ferramentas/dados_termos.py` (777/1.856) → regenerar os 3 builders (indice/xlsx/docx) → **commit parte 1/2 + PUSH** → a apostila (o rito clássico: @metadados + PARTES + blockquotes + o Q&A isolado + o Apêndice com o dicionário STT) + o DOCX (o sed do padrão-fonte) + RELATORIO-DE-CICLO + a ficha CONCLUÍDO → `git mv` para `apostilas/CONCLUIDAS/` → a governança (INDICE-PALESTRAS + CONTINUIDADE + PROMPT-PROXIMA-SESSAO, com as contagens) → **commit parte 2/2 + push**. ⚠️ A BIBLIO de `ferramentas/build_xlsx.py`: JAMAIS editar programaticamente (só edit_file, linha a linha). ⚠️ A leitura dos TXTs: SEMPRE Python por faixas de caracteres (nunca `cut -c`, que conta BYTES e quebra o UTF-8).
@@ -124,13 +124,13 @@ Comece agora: valide a base, leia a Persona e o arquivo por inteiro, apresente o
 | `GUIA-MESTRE-RC-APOSTILA-v1.1.md` | Método (dossiê → Devolutiva → ampliação) | **VIGENTE** |
 | `01-ficha-modelo.md` | Ficha Padrão v2 + guia de preenchimento | **VIGENTE** |
 | `02-vocabulario-controlado.md` | Vocabulário controlado (mesmos nomes para a mesma coisa) | **VIGENTE** |
-| `CONTINUIDADE.md` | Diário da jornada (cabeçalho = agora) | **VIGENTE** (diário) |
+| `../admin/logs/CONTINUIDADE.md` | Diário da jornada (cabeçalho = agora) | **VIGENTE** (diário) |
 | `INDICE-PALESTRAS.md` | Índice de palestras (estado reconstruído) | **VIGENTE** (índice vivo) |
-| `CHECKPOINT-SESSAO-2026-08-21.md` | Retomada antiga | HISTÓRICO (banner; sem procedimento com token) |
+| `../admin/logs/CHECKPOINT-SESSAO-2026-08-21.md` | Retomada antiga | HISTÓRICO (banner; sem procedimento com token) |
 | `README.md` | Reconstrução de 2026-08-14 (contagens 760/1.433) | HISTÓRICO (banner) |
-| `STATUS-RESTAURACAO.md` | Restauração de 2026-08-19 | HISTÓRICO (banner) |
+| `../admin/logs/STATUS-RESTAURACAO.md` | Restauração de 2026-08-19 | HISTÓRICO (banner) |
 | `PLANO-MIGRACAO-DE-CHAT.md` | Plano de migração de 2026-08-18 | HISTÓRICO (banner) |
-| `PACOTE-MIGRACAO-CHAT-2026-08-18.md` | Snapshot de 2026-08-18 | HISTÓRICO (banner) |
+| `../admin/logs/PACOTE-MIGRACAO-CHAT-2026-08-18.md` | Snapshot de 2026-08-18 | HISTÓRICO (banner) |
 | `PROMPT-INICIAL-DO-AGENTE.md` | Prompt da sessão original (contagens velhas) | HISTÓRICO (banner) |
 
 Nada foi apagado — os históricos conservam a história; o banner ⚠️ no topo de cada um impede confusão com o vigente.
@@ -190,9 +190,9 @@ Camadas, da mais dura para a mais mole:
 | `GUIA-MESTRE-RC-APOSTILA-v1.1.md` | Método (dossiê → Devolutiva → ampliação). |
 | `01-ficha-modelo.md` | Ficha Padrão v2 + guia de preenchimento (norma da ficha). |
 | `02-vocabulario-controlado.md` | Vocabulário controlado (norma dos nomes). |
-| `CONTINUIDADE.md` | Diário da jornada (longo; cabeçalho = agora). |
+| `../admin/logs/CONTINUIDADE.md` | Diário da jornada (longo; cabeçalho = agora). |
 | `INDICE-PALESTRAS.md` | Índice de palestras (estado reconstruído; atualizado a cada ciclo). |
-| `CHECKPOINT-SESSAO-2026-08-21.md` | Retomada antiga; útil como história. **Não** usar o procedimento de clone com token. |
+| `../admin/logs/CHECKPOINT-SESSAO-2026-08-21.md` | Retomada antiga; útil como história. **Não** usar o procedimento de clone com token. |
 | `PROMPT-INICIAL-DO-AGENTE.md` | Identidade histórica (contagens velhas). |
 
 ### 3. Acervo trabalhado (a jornada)
@@ -213,7 +213,7 @@ Camadas, da mais dura para a mais mole:
 
 ### 5. Arquivos históricos — não confundir com o vigente
 
-`README.md` (contagens 760/1433) · `STATUS-RESTAURACAO.md` · `PLANO-MIGRACAO-DE-CHAT.md` · `PACOTE-MIGRACAO-CHAT-2026-08-18.md` · `PROMPT-INICIAL-DO-AGENTE.md` — todos com banner ⚠️ no topo (revisão 2026-08-25).
+`README.md` (contagens 760/1433) · `../admin/logs/STATUS-RESTAURACAO.md` · `PLANO-MIGRACAO-DE-CHAT.md` · `../admin/logs/PACOTE-MIGRACAO-CHAT-2026-08-18.md` · `PROMPT-INICIAL-DO-AGENTE.md` — todos com banner ⚠️ no topo (revisão 2026-08-25).
 
 ---
 
@@ -252,7 +252,7 @@ Trilogias Dramas / Terra Atlantis / Queda e Ascensão: **ENCERRADAS.**
 
 HEAD: tip da branch `arena/01a05591-termos-rc` (esteira 11). PR **não** aberto.
 
-**FECHAMENTO DA SESSÃO 2026-08-31 (AGENTE 15) — PAUSA NAS APOSTILAS-COMO-CORPUS + REDIRECIONAMENTO PARA O GARIMPO.** O Curador decidiu interromper a geração de apostilas como produto de treinamento da IA Local e focar em **garimpar termos e relações** nas ~150 palestras restantes, via **ESTEIRA LEVE** (`DESPACHO-DA-ESTEIRA-LEVE-2026-08-29.md` + `ferramentas/motor.py`, selftest 9/9). Documento-mestre: **`PLANO-CORPUS-TREINAMENTO-IA-LOCAL.md`**. O ciclo P2019-08-25 («Os Três Fornos Replicadores do Projeto Talm», 81ª apostila) foi fechado antes da virada, com normalização terminológica pós-hoc (norma `convencoes-editoriais-rc.md` §13). **A próxima sessão NÃO deve retomar a geração de apostilas**: deve abrir já no foco de garimpo — ler o PLANO, conferir a fila `uploads_recepcao/` e aguardar o Curador nomear a próxima palestra (os ~150 TXT restantes ainda precisam ser enviados). Contadores: **777 termos · 1.856 relações · 102 obras · 526 fichas · 81 apostilas · 2 ciclos leves (P2023-12-03, P2023-12-17) · 25 pérolas candidatas aguardando carimbo · commit-base `be00a1a`.**
+**FECHAMENTO DA SESSÃO 2026-08-31 (AGENTE 15) — PAUSA NAS APOSTILAS-COMO-CORPUS + REDIRECIONAMENTO PARA O GARIMPO.** O Curador decidiu interromper a geração de apostilas como produto de treinamento da IA Local e focar em **garimpar termos e relações** nas ~150 palestras restantes, via **ESTEIRA LEVE** (`../admin/logs/DESPACHO-DA-ESTEIRA-LEVE-2026-08-29.md` + `ferramentas/motor.py`, selftest 9/9). Documento-mestre: **`PLANO-CORPUS-TREINAMENTO-IA-LOCAL.md`**. O ciclo P2019-08-25 («Os Três Fornos Replicadores do Projeto Talm», 81ª apostila) foi fechado antes da virada, com normalização terminológica pós-hoc (norma `convencoes-editoriais-rc.md` §13). **A próxima sessão NÃO deve retomar a geração de apostilas**: deve abrir já no foco de garimpo — ler o PLANO, conferir a fila `uploads_recepcao/` e aguardar o Curador nomear a próxima palestra (os ~150 TXT restantes ainda precisam ser enviados). Contadores: **777 termos · 1.856 relações · 102 obras · 526 fichas · 81 apostilas · 2 ciclos leves (P2023-12-03, P2023-12-17) · 25 pérolas candidatas aguardando carimbo · commit-base `be00a1a`.**
 
 Pendências de livro (quando o curador quiser): B059 *Sinais de Guerra em Capela* (**sem PDF — somente físico**, ASIN B0GFPWXVSG; fecha a trilogia de Yel Luzbel); obras completas B027 e B035; B076–B078 *Mentalma III–V* (sem PDF); B085 *Hyren-Hyron*, B086 e B090 (sem PDF). O teaser do "ser venerado" (B088) não revelado. Pendências menores: manifest versionado desatualizado (curador decide regenerar); CIP B074 `[REVISAR]`. ~~Eventual materialização da ficha de RC-071~~ **RESOLVIDA (2026-08-26): materializada por ordem do curador.**
 

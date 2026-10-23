@@ -105,7 +105,7 @@ RC-086, RC-189, RC-794, RC-901
 
 ### 5. Documentação de Continuidade
 
-- ✅ `STATUS-HANDOFF-2026-09-02.md` — resumo completo da sessão
+- ✅ `../admin/logs/STATUS-HANDOFF-2026-09-02.md` — resumo completo da sessão
 - ✅ Este arquivo (`PROMPT-CONTINUIDADE-2026-09-02.md`)
 
 ---
@@ -149,7 +149,7 @@ Para economizar janela de contexto, as FASES 2-4 podem ser combinadas em um úni
 ### Antes de Começar
 
 - [ ] Fazer `git pull origin arena/01a0614c-termos-rc`
-- [ ] Verificar `STATUS-HANDOFF-2026-09-02.md` para contexto
+- [ ] Verificar `../admin/logs/STATUS-HANDOFF-2026-09-02.md` para contexto
 - [ ] Verificar `PROMPT-CONTINUIDADE-2026-09-02.md` (este arquivo)
 - [ ] Instalar dependências se necessário: `pip install openpyxl python-docx --break-system-packages`
 
@@ -178,7 +178,7 @@ Para economizar janela de contexto, as FASES 2-4 podem ser combinadas em um úni
 - [ ] Regenerar `base-terminologica.xlsx`: `python3 ferramentas/build_xlsx.py`
 - [ ] Regenerar `base-terminologica-leitura.docx`: `python3 ferramentas/build_word.py`
 - [ ] Commit e push dos arquivos atualizados
-- [ ] Atualizar `STATUS-HANDOFF-2026-09-02.md`
+- [ ] Atualizar `../admin/logs/STATUS-HANDOFF-2026-09-02.md`
 - [ ] Atualizar este arquivo (`PROMPT-CONTINUIDADE-2026-09-02.md`)
 
 ---
@@ -205,7 +205,7 @@ Termos-RC/
 │   └── build_word.py         # Script para gerar DOCX
 ├── base-terminologica.xlsx   # Planilha com 7 abas (926 termos)
 ├── base-terminologica-leitura.docx  # Documento Word (926 termos)
-├── STATUS-HANDOFF-2026-09-02.md     # Resumo da sessão
+├── ../admin/logs/STATUS-HANDOFF-2026-09-02.md     # Resumo da sessão
 └── PROMPT-CONTINUIDADE-2026-09-02.md  # Este arquivo
 ```
 
@@ -258,7 +258,7 @@ Termos-RC/
 ## 🎯 PRÓXIMOS PASSOS SUGERIDOS
 
 1. **Verificar se há mais palestras em `uploads_recepcao/`** para processar
-2. **Atualizar o CONTINUIDADE.md** com os novos ciclos (se necessário)
+2. **Atualizar o ../admin/logs/CONTINUIDADE.md** com os novos ciclos (se necessário)
 3. **Verificar a fila aberta de materialização** (códigos com `ficha=False`)
 4. **Revisar os códigos novos criados** para garantir qualidade
 5. **Atualizar o glossário canônico** se necessário
@@ -286,10 +286,10 @@ Termos-RC/
 ## 📞 CONTATO
 
 Se houver dúvidas ou problemas, consulte:
-- `STATUS-HANDOFF-2026-09-02.md` — resumo da sessão
-- `CONTINUIDADE.md` — histórico completo (412 KB)
+- `../admin/logs/STATUS-HANDOFF-2026-09-02.md` — resumo da sessão
+- `../admin/logs/CONTINUIDADE.md` — histórico completo (412 KB)
 - `DIAGNOSTICO-DO-PROCESSO-2026-08-29.md` — diagnóstico do processo
-- `DESPACHO-DA-ESTEIRA-LEVE-2026-08-29.md` — procedimento da esteira leve
+- `../admin/logs/DESPACHO-DA-ESTEIRA-LEVE-2026-08-29.md` — procedimento da esteira leve
 
 ---
 
