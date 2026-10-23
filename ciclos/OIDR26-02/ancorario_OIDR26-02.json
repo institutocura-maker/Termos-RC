@@ -1,15 +1,15 @@
 {
  "sigla": "OIDR26-02",
- "politica_de_cobertura": "CICLO INCREMENTAL — OIDR26-02 / MITOLOGIAS_REINTEGRACAO; ingressos P2; fonte composta exclusivamente de derivados normalizados e selada por manifesto/offsets. Abertura expressamente autorizada pelo Curador; 25 candidatos seguem para cotejo com âncoras literais e portões do Motor.",
+ "politica_de_cobertura": "CICLO INCREMENTAL — OIDR26-02 / MITOLOGIAS_REINTEGRACAO; ingresso P2; fonte composta exclusivamente de derivado normalizado e selada por manifesto/offsets. As 25 candidatas foram homologadas explicitamente para pouso após Dossiê RAG, com âncoras literais e portões do Motor.",
  "fonte": "ciclos/OIDR26-02/original.txt",
  "sha256": "39ce0ba276dea37093c3c667e8bd6aa0306f86e327e7f4768fa64ee4bbc7913d",
  "bytes": 144796,
  "unidades_com_fala": 449,
- "homologacao_perolas": "",
+ "homologacao_perolas": "Aprovação explícita do Curador em 22/10/2026: as 25 candidatas do DOSSIE-RAG_OIDR26-02 foram validadas para pouso na Base.",
  "spans": [
   {
    "codigo": "RC-072",
-   "status": "candidata",
+   "status": "aprovada",
    "u": "U0099",
    "chars": [
     11354,
@@ -21,7 +21,7 @@
   },
   {
    "codigo": "RC-037",
-   "status": "candidata",
+   "status": "aprovada",
    "u": "U0095",
    "chars": [
     10012,
@@ -33,7 +33,7 @@
   },
   {
    "codigo": "RC-102",
-   "status": "candidata",
+   "status": "aprovada",
    "u": "U0095",
    "chars": [
     10012,
@@ -45,7 +45,7 @@
   },
   {
    "codigo": "RC-414",
-   "status": "candidata",
+   "status": "aprovada",
    "u": "U0119",
    "chars": [
     16343,
@@ -57,7 +57,7 @@
   },
   {
    "codigo": "RC-135",
-   "status": "candidata",
+   "status": "aprovada",
    "u": "U0095",
    "chars": [
     10012,
@@ -69,7 +69,7 @@
   },
   {
    "codigo": "RC-104",
-   "status": "candidata",
+   "status": "aprovada",
    "u": "U0381",
    "chars": [
     53586,
@@ -81,7 +81,7 @@
   },
   {
    "codigo": "RC-942",
-   "status": "candidata",
+   "status": "aprovada",
    "u": "U0151",
    "chars": [
     21680,
@@ -93,7 +93,7 @@
   },
   {
    "codigo": "RC-094",
-   "status": "candidata",
+   "status": "aprovada",
    "u": "U0719",
    "chars": [
     111750,
@@ -105,7 +105,7 @@
   },
   {
    "codigo": "RC-225",
-   "status": "candidata",
+   "status": "aprovada",
    "u": "U0369",
    "chars": [
     51487,
@@ -117,7 +117,7 @@
   },
   {
    "codigo": "RC-593",
-   "status": "candidata",
+   "status": "aprovada",
    "u": "U0119",
    "chars": [
     16037,
@@ -129,7 +129,7 @@
   },
   {
    "codigo": "RC-669",
-   "status": "candidata",
+   "status": "aprovada",
    "u": "U0203",
    "chars": [
     29183,
@@ -141,7 +141,7 @@
   },
   {
    "codigo": "RC-841",
-   "status": "candidata",
+   "status": "aprovada",
    "u": "U0083",
    "chars": [
     8960,
@@ -153,7 +153,7 @@
   },
   {
    "codigo": "RC-254",
-   "status": "candidata",
+   "status": "aprovada",
    "u": "U0135",
    "chars": [
     19020,
@@ -165,7 +165,7 @@
   },
   {
    "codigo": "RC-301",
-   "status": "candidata",
+   "status": "aprovada",
    "u": "U0213",
    "chars": [
     31803,
@@ -177,7 +177,7 @@
   },
   {
    "codigo": "RC-489",
-   "status": "candidata",
+   "status": "aprovada",
    "u": "U0151",
    "chars": [
     21680,
@@ -189,7 +189,7 @@
   },
   {
    "codigo": "RC-696",
-   "status": "candidata",
+   "status": "aprovada",
    "u": "U0109",
    "chars": [
     13661,
@@ -201,7 +201,7 @@
   },
   {
    "codigo": "RC-749",
-   "status": "candidata",
+   "status": "aprovada",
    "u": "U0199",
    "chars": [
     27987,
@@ -213,7 +213,7 @@
   },
   {
    "codigo": "RC-061",
-   "status": "candidata",
+   "status": "aprovada",
    "u": "U0461",
    "chars": [
     67888,
@@ -225,7 +225,7 @@
   },
   {
    "codigo": "RC-106",
-   "status": "candidata",
+   "status": "aprovada",
    "u": "U0075",
    "chars": [
     7840,
@@ -237,7 +237,7 @@
   },
   {
    "codigo": "RC-162",
-   "status": "candidata",
+   "status": "aprovada",
    "u": "U0481",
    "chars": [
     71849,
@@ -249,7 +249,7 @@
   },
   {
    "codigo": "RC-239",
-   "status": "candidata",
+   "status": "aprovada",
    "u": "U0615",
    "chars": [
     94226,
@@ -261,7 +261,7 @@
   },
   {
    "codigo": "RC-024",
-   "status": "candidata",
+   "status": "aprovada",
    "u": "U0105",
    "chars": [
     13219,
@@ -273,7 +273,7 @@
   },
   {
    "codigo": "RC-034",
-   "status": "candidata",
+   "status": "aprovada",
    "u": "U0077",
    "chars": [
     7975,
@@ -285,7 +285,7 @@
   },
   {
    "codigo": "RC-059",
-   "status": "candidata",
+   "status": "aprovada",
    "u": "U0437",
    "chars": [
     63774,
@@ -297,7 +297,7 @@
   },
   {
    "codigo": "RC-073",
-   "status": "candidata",
+   "status": "aprovada",
    "u": "U0173",
    "chars": [
     25066,

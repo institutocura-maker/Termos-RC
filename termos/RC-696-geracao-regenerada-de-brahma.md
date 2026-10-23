@@ -5,10 +5,10 @@ nome = "Geração Regenerada de Brahma"
 categoria = "Genealogias & Linhagens"
 subcategoria = "6.1 Famílias divinas / Celestiais"
 status = "verificado"
-fontes = ["P2025-02-16", "P2024-11-30", "P2024-11-02", "P2024-08-03", "P2024-07-13", "P2023-10-14"]
+fontes = ["P2025-02-16", "P2024-11-30", "P2024-11-02", "P2024-08-03", "P2024-07-13", "P2023-10-14", "OIDR26-02"]
 via = "P6-evidência"
 confianca_fonte = "média"
-atualizado = "2026-08-28"
+atualizado = "2026-10-23"
 +++
 # Geração Regenerada de Brahma — RC-696
 
@@ -62,9 +62,15 @@ Entre os filhos da mente aparecem Rishis como Marichi, Atri, Angiras, Pulastya, 
 | Corpos Fenvã (terceira forma de vida do universo vizinho) | RC-769 | ← relaciona-se-a |
 | Quinaras / Centauros (Seres Reais que Hoje Nascem Humanos) | RC-790 | associado |
 
+## Ampliação — OIDR26-02 (Onda incremental dry-run — Mitologias, tradições e reintegração (derivados normalizados))
+
+- **[P2 · Geração Regenerada de Brahma]** «O Dharma surgiu para os seres híbridos e para os seres demoníacos desse universo todo, quando um ser chamado Kshivako, descendente de Daksha, descendente de Kasyapa, descendente de Marit, um dos seis rishis da geração regenerada de Brahma, esse ser criou o conceito de Dharma, significando como sendo de honra.» (U0109) — candidata de cotejo ampliado; evidência `OIDR26-02-RC-696-001`, grafia literal `geração regenerada de Brahma`, sem homologação de pérola.
+
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
+| OIDR26-02 | Onda incremental dry-run — Mitologias, tradições e reintegração (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
 | P2025-02-16 | U0387–U0434; U0471–U0483; U0903–U0906 | aula/palestra STT |
 

@@ -5,10 +5,10 @@ nome = "Enoque (sétimo patriarca; levado por Javé)"
 categoria = "Seres & Entidades"
 subcategoria = "1.6 Figuras humanas (históricas/míticas)"
 status = "verificado"
-fontes = ["P2022-12-17", "P2024-11-30", "P2024-07-14", "P2024-04-13", "P2026-08-04", "P2024-03-02", "P2023-12-02", "P2023-05-20", "P2020-05-09", "P2021-05-08", "P2024-11-03", "P2023-10-14", "P2023-12-03", "P2017-10-14", "P2018-12-16", "P2022-11-20", "P2022-10-01", "P2022-07-16", "P2025-12-14", "P2023-12-25-01", "STT26-EXTRATERRESTRES_TECNOLOGIA", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA", "STT26-MITOLOGIAS_REINTEGRACAO"]
+fontes = ["P2022-12-17", "P2024-11-30", "P2024-07-14", "P2024-04-13", "P2026-08-04", "P2024-03-02", "P2023-12-02", "P2023-05-20", "P2020-05-09", "P2021-05-08", "P2024-11-03", "P2023-10-14", "P2023-12-03", "P2017-10-14", "P2018-12-16", "P2022-11-20", "P2022-10-01", "P2022-07-16", "P2025-12-14", "P2023-12-25-01", "STT26-EXTRATERRESTRES_TECNOLOGIA", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA", "STT26-MITOLOGIAS_REINTEGRACAO", "OIDR26-02"]
 via = "P6-evidência"
 confianca_fonte = "média"
-atualizado = "2026-10-22"
+atualizado = "2026-10-23"
 +++
 # Enoque (sétimo patriarca; levado por Javé) — RC-489
 
@@ -48,10 +48,16 @@ Sétimo patriarca bíblico, levado por Javé — na RC, figura-chave da interces
 - **[STT26-13 · Enoque (sétimo patriarca; levado por Javé)]** «Mas antes disso, o livro de Enoch era muito conhecido e mais que isso, Mesmo tendo sido expurgado da Vulgata, que é a versão latina da Bíblia Ele ainda continua sendo citado na Bíblia nos livros do Antigo Testamento Mas o fato é que esses dois pedaços de livros que James Bruce encontrou Deles ainda é possível, foi possível A formatação de dois pequenos opúsculos, de dois pequenos livros Um chamado Livro de Enoque e o outro chamado Livro dos Segredos de Enoque.» (U0126 · chars 27472–27937) — Candidata de cotejo; evidência `STT26-13-RC-489-001`, grafia encontrada `Enoque`; decisão por lote `STT26-13: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
 
 
+## Ampliação — OIDR26-02 (Onda incremental dry-run — Mitologias, tradições e reintegração (derivados normalizados))
+
+- **[P2 · Enoque (sétimo patriarca; levado por Javé)]** «Houve um problema com Enoch, que o plano de Javé de ter um humano que o representasse foi para o espaço, aí Virgium disse, ei, já que através de Enoch, O filho dele, Matusalém Você anunciou ao mundo A sua agenda Dizendo que vai mandar O Messias seu No segmento Populacional descendente De Enoque Que passou a ser Matusalém, Lameque, Noé Shema, Fatsad Salé, blá blá blá Abraão, Isaac, Jacó Maria, Jesus Ou seja, Jesus nasceu nesse desdobramento Aí viram disse, já que o problema com o Enoque você não vai resolver, eu, Vishnu, me ofereço para produzir um avatar seu.» (U0151) — candidata de cotejo ampliado; evidência `OIDR26-02-RC-489-001`, grafia literal `Enoque`, sem homologação de pérola.
+
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| OIDR26-02 | Onda incremental dry-run — Mitologias, tradições e reintegração (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | STT26-MITOLOGIAS_REINTEGRACAO | Eixo STT26 — Mitologias, tradições e eixo de reintegração (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | STT26-EXPERIENCIA_ESPIRITUAL_ETICA | Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | STT26-EXTRATERRESTRES_TECNOLOGIA | Eixo STT26 — Extraterrestres, tecnologia e cosmos (derivados normalizados) (palestra) | transcrição automatizada; citação |

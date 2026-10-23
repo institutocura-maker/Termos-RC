@@ -5,10 +5,10 @@ nome = "Cronos (titã)"
 categoria = "Seres & Entidades"
 subcategoria = "1.5 Decaídos / Exilados / Demônios"
 status = "verificado"
-fontes = ["P2017-10-14", "P2025-06-14", "STT26-EXTRATERRESTRES_TECNOLOGIA", "STT26-SOCIEDADE_CONTEMPORANEA"]
+fontes = ["P2017-10-14", "P2025-06-14", "STT26-EXTRATERRESTRES_TECNOLOGIA", "STT26-SOCIEDADE_CONTEMPORANEA", "OIDR26-02"]
 via = "P6-evidência"
 confianca_fonte = "média"
-atualizado = "2026-10-22"
+atualizado = "2026-10-23"
 +++
 # Cronos (titã) — RC-841
 
@@ -46,9 +46,15 @@ Com isso:
 - **[STT26-19 · Cronos (titã)]** «E isso aqui não funcionou, eles criaram uma outra geração de deuses, que na frente esteve Urano, estou usando aqui a terminologia dos gregos, e essa geração de deuses perdurou durante muito tempo, até que uma outra geração, chefiada por Cronos, surge.» (U1905 · chars 320300–320552) — Candidata de cotejo; evidência `STT26-19-RC-841-001`, grafia encontrada `Cronos`; decisão por lote `STT26-19: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
 
 
+## Ampliação — OIDR26-02 (Onda incremental dry-run — Mitologias, tradições e reintegração (derivados normalizados))
+
+- **[P2 · Cronos (titã)]** «Depois, a mitologia grega diz que surge a geração de cronos, os titãs.» (U0083) — candidata de cotejo ampliado; evidência `OIDR26-02-RC-841-001`, grafia literal `cronos`, sem homologação de pérola.
+
+
 ## Fontes
 | Obra (sigla) | Título | Página | Tipo |
 |---|---|---|---|
+| OIDR26-02 | Onda incremental dry-run — Mitologias, tradições e reintegração (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
 | STT26-SOCIEDADE_CONTEMPORANEA | Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
 | STT26-EXTRATERRESTRES_TECNOLOGIA | Eixo STT26 — Extraterrestres, tecnologia e cosmos (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
 | P2025-06-14 | PALESTRA SOBRE A QUEDA DO CRIADOR-Refatorada (palestra) | — | transcrição automatizada; citação |

@@ -5,10 +5,10 @@ nome = "Vício Devocional"
 categoria = "Conceitos Cosmológicos"
 subcategoria = "2.6 Ética / Carma / Compromissos"
 status = "verificado"
-fontes = ["P2024-04-13", "P2023-12-02", "P2025-11-29", "P2024-06-16"]
+fontes = ["P2024-04-13", "P2023-12-02", "P2025-11-29", "P2024-06-16", "OIDR26-02"]
 via = "P6-evidência"
 confianca_fonte = "média"
-atualizado = "2026-08-18"
+atualizado = "2026-10-23"
 +++
 # Vício Devocional — RC-749
 
@@ -49,10 +49,16 @@ Mecanismo cármico/ético central da Revelação Cósmica: o condicionamento dev
 | Westworld como Metáfora | RC-915 | associado |
 | O Banquete Metafórico | RC-916 | associado |
 
+## Ampliação — OIDR26-02 (Onda incremental dry-run — Mitologias, tradições e reintegração (derivados normalizados))
+
+- **[P2 · Vício Devocional]** «Cristo criou no DNA híbrido e humano o vício devocional. Cristo começou a criar uma série de procedimentos.» (U0199) — candidata de cotejo ampliado; evidência `OIDR26-02-RC-749-001`, grafia literal `vício devocional`, sem homologação de pérola.
+
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| OIDR26-02 | Onda incremental dry-run — Mitologias, tradições e reintegração (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
 | P2024-04-13 | bloco final (vício devocional; 7 bilhões; big data; anjos clones) | palestra/STT pré-curada |
 

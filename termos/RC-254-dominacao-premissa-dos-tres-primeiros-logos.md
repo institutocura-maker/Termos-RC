@@ -5,10 +5,10 @@ nome = "Dominação (premissa dos Três Primeiros Logos)"
 categoria = "Conceitos Cosmológicos"
 subcategoria = "2.6 Ética / Carma / Compromissos"
 status = "provisório"
-fontes = ["B016", "P2024-09-29", "STT26-SOCIEDADE_CONTEMPORANEA"]
+fontes = ["B016", "P2024-09-29", "STT26-SOCIEDADE_CONTEMPORANEA", "OIDR26-02"]
 via = "P6-evidência"
 confianca_fonte = "média"
-atualizado = "2026-10-22"
+atualizado = "2026-10-23"
 +++
 # Dominação (premissa dos Três Primeiros Logos) — RC-254
 
@@ -36,9 +36,15 @@ Com isso:
 
 - **[STT26-20 · Dominação (premissa dos Três Primeiros Logos)]** «700 anos atrás, a espiritualidade promoveu o nascimento dessas figuras para criar o divisor de águas, para que a mente bicameral não mais fosse o processo usado para figuras situadas em outros níveis, dominar os seres humanos, e o processo de dominação é esse código neuronal que funciona lá no mais íntimo dos microtúbulos dentro dos neurônios que estão dentro do crânio da gente.» (U2663 · chars 462153–462534) — Candidata de cotejo; evidência `STT26-20-RC-254-001`, grafia encontrada `dominação`; decisão por lote `STT26-20: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
 
+## Ampliação — OIDR26-02 (Onda incremental dry-run — Mitologias, tradições e reintegração (derivados normalizados))
+
+- **[P2 · Dominação (premissa dos Três Primeiros Logos)]** «Nesse tempo, Shiva resolve fincar a sua trincheira para a dominação da Terra e de certas áreas da Terra e dos seres híbridos que então existiam e dos humanos que eram tratados como animais de estimação desses seres híbridos, os humanos menos espertos, e outros humanos já mais espertos que nessa época existiam, Shiva escolheu o sul da Índia, num tempo em que, para além do continente indiano, descendo, existia o continente da Lemúria, ou a terra de Bhul, ou a tradição Kumari Kandan.» (U0135) — candidata de cotejo ampliado; evidência `OIDR26-02-RC-254-001`, grafia literal `dominação`, sem homologação de pérola.
+
+
 ## Fontes
 | Obra (sigla) | Título | Página | Tipo |
 |---|---|---|---|
+| OIDR26-02 | Onda incremental dry-run — Mitologias, tradições e reintegração (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
 | STT26-SOCIEDADE_CONTEMPORANEA | Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
 | B016 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
 

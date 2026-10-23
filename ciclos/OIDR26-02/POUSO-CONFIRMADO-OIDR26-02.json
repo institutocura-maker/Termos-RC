@@ -1,0 +1,95 @@
+{
+  "artefato": "Confirmação de pouso OIDR26-02",
+  "data": "2026-10-22",
+  "ciclo": "OIDR26-02",
+  "eixo": "MITOLOGIAS_REINTEGRACAO",
+  "despacho": "onda_incremental_dry_run/triagem_curatorial/DESPACHO-CURATORIAL-POUSO-OIDR26-02-E-EXTRACAO-OIDR26-03-2026-10-22.json",
+  "sha256_despacho": "abadb8e83e7f52852406dc8db836abb0de190b1d364840fc43eadde48b17d80d",
+  "perolas_aprovadas": 25,
+  "ids": [
+    "PER-OIDR26-02-001",
+    "PER-OIDR26-02-002",
+    "PER-OIDR26-02-003",
+    "PER-OIDR26-02-004",
+    "PER-OIDR26-02-005",
+    "PER-OIDR26-02-006",
+    "PER-OIDR26-02-007",
+    "PER-OIDR26-02-008",
+    "PER-OIDR26-02-009",
+    "PER-OIDR26-02-010",
+    "PER-OIDR26-02-011",
+    "PER-OIDR26-02-012",
+    "PER-OIDR26-02-013",
+    "PER-OIDR26-02-014",
+    "PER-OIDR26-02-015",
+    "PER-OIDR26-02-016",
+    "PER-OIDR26-02-017",
+    "PER-OIDR26-02-018",
+    "PER-OIDR26-02-019",
+    "PER-OIDR26-02-020",
+    "PER-OIDR26-02-021",
+    "PER-OIDR26-02-022",
+    "PER-OIDR26-02-023",
+    "PER-OIDR26-02-024",
+    "PER-OIDR26-02-025"
+  ],
+  "codigos": [
+    "RC-072",
+    "RC-037",
+    "RC-102",
+    "RC-414",
+    "RC-135",
+    "RC-104",
+    "RC-942",
+    "RC-094",
+    "RC-225",
+    "RC-593",
+    "RC-669",
+    "RC-841",
+    "RC-254",
+    "RC-301",
+    "RC-489",
+    "RC-696",
+    "RC-749",
+    "RC-061",
+    "RC-106",
+    "RC-162",
+    "RC-239",
+    "RC-024",
+    "RC-034",
+    "RC-059",
+    "RC-073"
+  ],
+  "fichas_ampliadas": 25,
+  "fichas_materializadas": 0,
+  "vinculos_inscritos": 25,
+  "termos_novos": 0,
+  "relacoes_novas": 0,
+  "cards_rag_aprovados": 25,
+  "contagens_base": {
+    "termos": 946,
+    "relacoes": 1887,
+    "fichas": 826
+  },
+  "produtos": {
+    "dossie_final": {
+      "caminho": "ciclos/OIDR26-02/DOSSIE-RAG_OIDR26-02.md",
+      "sha256": "1e23530ce38dfceb3fb5efb31ddea551f9bd2f789f37d5256a4b71cc46a48566"
+    },
+    "ancorario_final": {
+      "caminho": "ciclos/OIDR26-02/ancorario_OIDR26-02.json",
+      "sha256": "d1eec2b1bc2f2a9ea010a4c82b15d571ab0d4fcfe70770939a37b9e4ef60d80e"
+    },
+    "manifesto_rag": {
+      "caminho": "rag/MANIFESTO-OIDR26-02.json",
+      "sha256": "84779d5d49324c75d826f662bd98dd64cdfd195fdf6d08b3add831834fdde368"
+    }
+  },
+  "portoes": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "regressao": "ferramentas/test_suite.py: 21/21 OK"
+}

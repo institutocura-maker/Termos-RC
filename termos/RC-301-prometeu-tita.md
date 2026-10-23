@@ -5,7 +5,7 @@ nome = "Prometeu (titã)"
 categoria = "Seres & Entidades"
 subcategoria = "1.5 Decaídos / Exilados / Demônios"
 status = "verificado"
-fontes = ["B020", "B021", "P2025-02-16", "P2024-11-09", "P2025-06-14b", "B087", "B088", "B089", "P2021-05-15", "P2023-12-03", "STT26-MITOLOGIAS_REINTEGRACAO", "STT26-SOCIEDADE_CONTEMPORANEA", "OIDR26-01"]
+fontes = ["B020", "B021", "P2025-02-16", "P2024-11-09", "P2025-06-14b", "B087", "B088", "B089", "P2021-05-15", "P2023-12-03", "STT26-MITOLOGIAS_REINTEGRACAO", "STT26-SOCIEDADE_CONTEMPORANEA", "OIDR26-01", "OIDR26-02"]
 via = "P6-evidência"
 confianca_fonte = "alta"
 atualizado = "2026-10-23"
@@ -63,9 +63,15 @@ Epimeteu (RC-302, o irmão); Pandora (RC-086, a discípula); Zeus (RC-145); Aten
 - **[P1 · Prometeu (titã)]** «Quando eu digo que eu só consigo aplaudir o que seres humanos fazem, é porque eu tenho dificuldade de perceber nos eus que não são humanos, Zeus, Prometeu, Henrique, Elio, Javé, Gabriel, seja lá, eu não consigo perceber esse tipo de atitude levada por princípios e propósitos nobres.» (U0443) — candidata de cotejo ampliado; evidência `OIDR26-01-RC-301-001`, grafia literal `Prometeu`, sem homologação de pérola.
 
 
+## Ampliação — OIDR26-02 (Onda incremental dry-run — Mitologias, tradições e reintegração (derivados normalizados))
+
+- **[P2 · Prometeu (titã)]** «Mas Cristo se estabeleceu como o Senhor Supremo e Ele cumpre exatamente tudo o que Ele prometeu.» (U0213) — candidata de cotejo ampliado; evidência `OIDR26-02-RC-301-001`, grafia literal `prometeu`, sem homologação de pérola.
+
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| OIDR26-02 | Onda incremental dry-run — Mitologias, tradições e reintegração (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
 | OIDR26-01 | Onda incremental dry-run — Anunnaki, genética e humanidade (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
 | STT26-SOCIEDADE_CONTEMPORANEA | Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
 | STT26-MITOLOGIAS_REINTEGRACAO | Eixo STT26 — Mitologias, tradições e eixo de reintegração (derivados normalizados) (palestra) | — | transcrição automatizada; citação |

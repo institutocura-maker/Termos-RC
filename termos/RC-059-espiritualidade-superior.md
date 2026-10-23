@@ -5,10 +5,10 @@ nome = "Espiritualidade Superior"
 categoria = "Conceitos Cosmológicos"
 subcategoria = "2.3 Dimensões / Planos de existência"
 status = "em análise"
-fontes = ["B031", "B024", "B013", "B027", "B051", "B060", "P2021-12-04", "P2025-02-16", "P2025-02-15", "P2024-11-30", "P2024-11-09", "P2024-07-14", "P2020-04-04"]
+fontes = ["B031", "B024", "B013", "B027", "B051", "B060", "P2021-12-04", "P2025-02-16", "P2025-02-15", "P2024-11-30", "P2024-11-09", "P2024-07-14", "P2020-04-04", "OIDR26-02"]
 via = "P7-conhecimento"
 confianca_fonte = "baixa"
-atualizado = "2026-09-07"
+atualizado = "2026-10-23"
 +++
 # Espiritualidade Superior — RC-059
 
@@ -45,9 +45,15 @@ A Espiritualidade Superior é o «lado de fora» do universo: o que não é acid
 - RC-012 — ver ficha correspondente
 - RC-100 — ver ficha correspondente
 
+## Ampliação — OIDR26-02 (Onda incremental dry-run — Mitologias, tradições e reintegração (derivados normalizados))
+
+- **[P2 · Espiritualidade Superior]** «ou falando de forma diferente, os Espíritos disseram, antes desse universo existir, já existia uma espiritualidade superior, pré-existente, incriada.» (U0437) — candidata de cotejo ampliado; evidência `OIDR26-02-RC-059-001`, grafia literal `espiritualidade superior`, sem homologação de pérola.
+
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
+| OIDR26-02 | Onda incremental dry-run — Mitologias, tradições e reintegração (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | B031 | — | registro-mestre (fonte censada) |
 | B024 | — | registro-mestre (fonte censada) |
 | B013 | — | registro-mestre (fonte censada) |

@@ -5,10 +5,10 @@ nome = "Mahabharata"
 categoria = "Tecnologias & Artefatos"
 subcategoria = "5.4 Escrituras / Objetos documentais"
 status = "verificado"
-fontes = ["P2022-12-17", "P2025-02-16", "P2024-11-30", "P2023-06-25", "P2021-05-15", "P2023-10-14", "P2022-03-26", "P2023-12-03", "P2024-06-16", "STT26-EXTRATERRESTRES_TECNOLOGIA", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA", "STT26-MITOLOGIAS_REINTEGRACAO", "STT26-SOCIEDADE_CONTEMPORANEA"]
+fontes = ["P2022-12-17", "P2025-02-16", "P2024-11-30", "P2023-06-25", "P2021-05-15", "P2023-10-14", "P2022-03-26", "P2023-12-03", "P2024-06-16", "STT26-EXTRATERRESTRES_TECNOLOGIA", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA", "STT26-MITOLOGIAS_REINTEGRACAO", "STT26-SOCIEDADE_CONTEMPORANEA", "OIDR26-02"]
 via = "P6-evidência"
 confianca_fonte = "média"
-atualizado = "2026-10-22"
+atualizado = "2026-10-23"
 +++
 # Mahabharata — RC-593
 
@@ -56,9 +56,15 @@ Vyasa (RC-585); Rishis (RC-586); Rama (avatar de Vishnu) (RC-584)
 - **[STT26-21 · Mahabharata]** «O senhor Krishna, que se tornou conhecido a partir das descrições que um outro Krishna do Apayama, mais conhecido como Vyasa, o codificador dos Puranas, do Mahabharata e dos Vedas, Foi Vyasa quem transformou Krishna no ser conhecido que ele é.» (U4942 · chars 834985–835228) — Candidata de cotejo; evidência `STT26-21-RC-593-001`, grafia encontrada `Mahabharata`; decisão por lote `STT26-21: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
 
 
+## Ampliação — OIDR26-02 (Onda incremental dry-run — Mitologias, tradições e reintegração (derivados normalizados))
+
+- **[P2 · Mahabharata]** «E é isso que no Bhagavad Gita, um dos capítulos do Mahabharata, o Senhor Cristo explica a Arjuna o conceito de Dharma, porque Arjuna não queria ir para a guerra contra os seus primos, porque antes do Dharma surgir, existia um outro conceito, que a gente vai falar sobre isso, mas quando eu for aprofundar.» (U0119) — candidata de cotejo ampliado; evidência `OIDR26-02-RC-593-001`, grafia literal `Mahabharata`, sem homologação de pérola.
+
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
+| OIDR26-02 | Onda incremental dry-run — Mitologias, tradições e reintegração (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | STT26-SOCIEDADE_CONTEMPORANEA | Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | STT26-MITOLOGIAS_REINTEGRACAO | Eixo STT26 — Mitologias, tradições e eixo de reintegração (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | STT26-EXPERIENCIA_ESPIRITUAL_ETICA | Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados) (palestra) | transcrição automatizada; citação |

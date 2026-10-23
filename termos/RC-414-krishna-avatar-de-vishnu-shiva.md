@@ -5,10 +5,10 @@ nome = "Krishna (avatar de Vishnu/Shiva)"
 categoria = "Seres & Entidades"
 subcategoria = "1.3 Extraterrestres / Raças cósmicas"
 status = "verificado"
-fontes = ["B051", "B023", "B036", "P2025-02-16", "P2024-11-30", "P2024-03-02", "P2023-12-02", "P2024-09-28", "P2025-11-29", "P2023-06-25", "P2023-05-20", "P2023-04-30", "P2023-10-14", "P2022-03-26", "P2023-12-03", "P2022-05-07", "P2024-06-16", "P2023-08-27", "P2022-11-26", "P2022-07-16", "STT26-EXTRATERRESTRES_TECNOLOGIA", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA", "STT26-MITOLOGIAS_REINTEGRACAO", "STT26-SOCIEDADE_CONTEMPORANEA"]
+fontes = ["B051", "B023", "B036", "P2025-02-16", "P2024-11-30", "P2024-03-02", "P2023-12-02", "P2024-09-28", "P2025-11-29", "P2023-06-25", "P2023-05-20", "P2023-04-30", "P2023-10-14", "P2022-03-26", "P2023-12-03", "P2022-05-07", "P2024-06-16", "P2023-08-27", "P2022-11-26", "P2022-07-16", "STT26-EXTRATERRESTRES_TECNOLOGIA", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA", "STT26-MITOLOGIAS_REINTEGRACAO", "STT26-SOCIEDADE_CONTEMPORANEA", "OIDR26-02"]
 via = "P6-evidência"
 confianca_fonte = "alta"
-atualizado = "2026-10-22"
+atualizado = "2026-10-23"
 +++
 # Krishna (avatar de Vishnu/Shiva) — RC-414
 
@@ -71,9 +71,15 @@ Avatar hindu — na RC, avatar de Vishnu (e correlacionado a Shiva), "pretenso K
 - **[STT26-19 · Krishna (avatar de Vishnu/Shiva)]** «Mas esse universo dela, desde que Shiva se assumiu como um reciclador necessário, Shiva destrói, ele é habilitado, habilidoso, ele destrói sem raiva, como o próprio Krishna, uma de suas faces mais recentes, diz que destrói sem contrair karma, porque ele está cumprindo o dharma dele, que é destruir o que não vai mais evoluir e o que está impedindo que pode evoluir e devoluir, então ele precisa destruir.» (U1345 · chars 206739–207145) — Candidata de cotejo; evidência `STT26-19-RC-414-001`, grafia encontrada `Krishna`; decisão por lote `STT26-19: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
 
 
+## Ampliação — OIDR26-02 (Onda incremental dry-run — Mitologias, tradições e reintegração (derivados normalizados))
+
+- **[P2 · Krishna (avatar de Vishnu/Shiva)]** «E Arjuna não queria ir para a guerra matar os primos, não queria ir para a guerra matar os mestres que o haviam ensinado a lutar e que agora estavam com os turus, os caudatas, e Arjuna era frigo dos pândalas. E Krishna disse, olha, todos esses conceitos e emoções que você tem, que estão inibindo a sua vontade de ir para a guerra são inferiores à obrigação que você tem.» (U0119) — candidata de cotejo ampliado; evidência `OIDR26-02-RC-414-001`, grafia literal `Krishna`, sem homologação de pérola.
+
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
+| OIDR26-02 | Onda incremental dry-run — Mitologias, tradições e reintegração (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | STT26-SOCIEDADE_CONTEMPORANEA | Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | STT26-MITOLOGIAS_REINTEGRACAO | Eixo STT26 — Mitologias, tradições e eixo de reintegração (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | STT26-EXPERIENCIA_ESPIRITUAL_ETICA | Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados) (palestra) | transcrição automatizada; citação |

@@ -5,7 +5,7 @@ nome = "Anunnaki"
 categoria = "Seres & Entidades"
 subcategoria = "1.3 Extraterrestres / Raças cósmicas"
 status = "verificado"
-fontes = ["B031", "B017", "B018", "B023", "B015", "P2022-12-17", "P2025-02-16", "P2024-11-30", "P2024-11-09", "P2024-04-13", "P2023-12-02", "P2021-03-27", "B089", "P2023-05-20", "P2023-04-01", "P2024-11-03", "P2021-05-15", "P2023-10-14", "P2023-12-03", "P2022-05-07", "P2017-10-14", "STT26-EXTRATERRESTRES_TECNOLOGIA", "STT26-SOCIEDADE_CONTEMPORANEA", "OIDR26-01"]
+fontes = ["B031", "B017", "B018", "B023", "B015", "P2022-12-17", "P2025-02-16", "P2024-11-30", "P2024-11-09", "P2024-04-13", "P2023-12-02", "P2021-03-27", "B089", "P2023-05-20", "P2023-04-01", "P2024-11-03", "P2021-05-15", "P2023-10-14", "P2023-12-03", "P2022-05-07", "P2017-10-14", "STT26-EXTRATERRESTRES_TECNOLOGIA", "STT26-SOCIEDADE_CONTEMPORANEA", "OIDR26-01", "OIDR26-02"]
 via = "P6-evidência"
 confianca_fonte = "alta"
 atualizado = "2026-10-23"
@@ -196,3 +196,7 @@ Na RC, os "deuses" da antiga Suméria: seres biológicos de **Nibiru** (RC-589) 
 ## Ampliação — OIDR26-01 (Onda incremental dry-run — Anunnaki, genética e humanidade (derivados normalizados))
 
 - **[P1 · Anunnaki]** «Mas Zechariah Sitchin, ele conseguiu, dentre muitos outros méritos impressionantes que ele teve e tem, ele trouxe para o momento presente o assunto que era mais terrível de ser compreendido pelos ocidentais, que é o fato de que a Bíblia fala de um povo que não era terrestre, é um povo que veio de fora, começou a viver na Terra num tempo em que o ser humano estava se desenvolvendo, e esse povo é exatamente chamado Anunnakis. E o que a gente vai falar aqui? A gente vai falar desse tempo em que se reuniu lá atrás os clãs desse povo extraterrestre chamado Anunnaki pela linguagem acadiana pela linguagem sumeriana o termo é Nephilim é uma expressão que não admite sequer plural porque já seria composta e complexa por si mesma Então, se você usar a expressão da linguagem sumeriana, a gente vai chamar esse povo de Néferi.» (U0127) — candidata de cotejo ampliado; evidência `OIDR26-01-RC-024-001`, grafia literal `Anunnaki`, sem homologação de pérola.
+
+## Ampliação — OIDR26-02 (Onda incremental dry-run — Mitologias, tradições e reintegração (derivados normalizados))
+
+- **[P2 · Anunnaki]** «Mas uma mulher que era, entre aspas, obrigada a ter relações com um Anunnaki, um ijiji, um ser de fora, seja lá quem fosse, Zeus, esse ser que nascia dessa relação, parte da herança genética dele era humana, a outra parte não era.» (U0105) — candidata de cotejo ampliado; evidência `OIDR26-02-RC-024-001`, grafia literal `Anunnaki`, sem homologação de pérola.
