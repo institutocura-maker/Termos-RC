@@ -1,0 +1,18 @@
+{
+  "artefato": "Consolidação de despacho curatorial por lote — onda incremental dry-run",
+  "autorizacao_para_abrir_ciclo": false,
+  "autorizados_para_cotejo_ampliado": 25,
+  "candidatos_no_lote": 25,
+  "data_despacho": "2026-10-22",
+  "decisao_aplicada": "AUTORIZAR-COTEJO-AMPLIADO",
+  "descartados": 0,
+  "efeito_na_base": "nenhum",
+  "eixo": {
+    "codigo": "ANUNNAKI_GENETICA",
+    "nome": "Anunnaki, genética e humanidade"
+  },
+  "fontes_brutas_abertas": 0,
+  "lote_id": "OIDR26-01",
+  "proximo_portao": "Aguardar autorização explícita para abertura de ciclo no Motor.",
+  "resultado": "CONCLUIDO"
+}

@@ -1,12 +1,21 @@
 {
   "candidatos": 25,
+  "despacho_curatorial": {
+    "autorizacao_para_abrir_ciclo": false,
+    "autorizados_para_cotejo_ampliado": 25,
+    "data": "2026-10-22",
+    "decisao_aplicada": "AUTORIZAR-COTEJO-AMPLIADO",
+    "descartados": 0,
+    "limite": "Abertura de ciclo e Motor dependem de nova autorização expressa do Curador.",
+    "resultado": "CONCLUIDO"
+  },
   "duracao_estimada": "3:27:17",
   "eixo": {
     "codigo": "ANUNNAKI_GENETICA",
     "nome": "Anunnaki, genética e humanidade"
   },
   "entrada_operacional": "somente onda_incremental_dry_run/derivados_normalizados/ e manifestos da onda",
-  "estado": "AGUARDANDO-DESPACHO-CURATORIAL",
+  "estado": "COTEJO-AMPLIADO-AUTORIZADO; AGUARDANDO-AUTORIZACAO-EXPRESSA-DE-ABERTURA-DE-CICLO",
   "fontes": 1,
   "fontes_brutas_abertas": 0,
   "gerado_em": "2026-10-22",

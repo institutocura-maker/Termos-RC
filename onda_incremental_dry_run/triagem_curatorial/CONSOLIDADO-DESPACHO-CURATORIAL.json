@@ -1,0 +1,106 @@
+{
+  "artefato": "Consolidação de despacho curatorial — onda_incremental_dry_run",
+  "autorizacao": {
+    "abertura_de_ciclo": false,
+    "cotejo_ampliado": true,
+    "motivo": "O despacho recebido autorizou cotejo ampliado, não abertura de ciclo ou materialização.",
+    "motor_py": false
+  },
+  "data_despacho": "2026-10-22",
+  "decisao_aplicada": "AUTORIZAR-COTEJO-AMPLIADO",
+  "executor": "ferramentas/consolidar_despacho_onda_incremental_dry_run.py",
+  "integridade": {
+    "fontes_brutas_abertas": 0,
+    "hashes_da_triagem": {
+      "indice-termos-base.jsonl": "d4c637065141859f868f9c4e00e1f1fb19267477e553fedf81e6fa1788df91e0",
+      "lotes-planejados.json": "1b916924d4f85a19cfea687ded05318afd50b188402e95bc95b11d4410562237",
+      "manifesto-derivados.json": "4ff704b2b08b10999da7309e996c5a9a7b781253d7ab23299c9c880cc531cb9d",
+      "mapa-linhas.jsonl": "85b8c43e498fa77f3c5f2950fdac7b7b0257e84af69294672f13406556a26358",
+      "registro-mestre.jsonl": "8e47a1ca76612afb500b35689320fdb4640c947427d258bc8c72d53edd8f3b9b",
+      "resumo-mapeamento.json": "bff836fc1a4afc3cb5e0498370b2daaa7dd81ca8e15218d3575881141782edf2"
+    },
+    "mutacoes_na_base": 0
+  },
+  "lotes": [
+    {
+      "artefato": "Consolidação de despacho curatorial por lote — onda incremental dry-run",
+      "autorizacao_para_abrir_ciclo": false,
+      "autorizados_para_cotejo_ampliado": 25,
+      "candidatos_no_lote": 25,
+      "data_despacho": "2026-10-22",
+      "decisao_aplicada": "AUTORIZAR-COTEJO-AMPLIADO",
+      "descartados": 0,
+      "efeito_na_base": "nenhum",
+      "eixo": {
+        "codigo": "ANUNNAKI_GENETICA",
+        "nome": "Anunnaki, genética e humanidade"
+      },
+      "fontes_brutas_abertas": 0,
+      "lote_id": "OIDR26-01",
+      "proximo_portao": "Aguardar autorização explícita para abertura de ciclo no Motor.",
+      "resultado": "CONCLUIDO"
+    },
+    {
+      "artefato": "Consolidação de despacho curatorial por lote — onda incremental dry-run",
+      "autorizacao_para_abrir_ciclo": false,
+      "autorizados_para_cotejo_ampliado": 25,
+      "candidatos_no_lote": 25,
+      "data_despacho": "2026-10-22",
+      "decisao_aplicada": "AUTORIZAR-COTEJO-AMPLIADO",
+      "descartados": 0,
+      "efeito_na_base": "nenhum",
+      "eixo": {
+        "codigo": "MITOLOGIAS_REINTEGRACAO",
+        "nome": "Mitologias, tradições e reintegração"
+      },
+      "fontes_brutas_abertas": 0,
+      "lote_id": "OIDR26-02",
+      "proximo_portao": "Aguardar autorização explícita para abertura de ciclo no Motor.",
+      "resultado": "CONCLUIDO"
+    },
+    {
+      "artefato": "Consolidação de despacho curatorial por lote — onda incremental dry-run",
+      "autorizacao_para_abrir_ciclo": false,
+      "autorizados_para_cotejo_ampliado": 25,
+      "candidatos_no_lote": 25,
+      "data_despacho": "2026-10-22",
+      "decisao_aplicada": "AUTORIZAR-COTEJO-AMPLIADO",
+      "descartados": 0,
+      "efeito_na_base": "nenhum",
+      "eixo": {
+        "codigo": "COSMOGONIA_HISTORIA_COSMICA",
+        "nome": "Cosmogonia e história cósmica"
+      },
+      "fontes_brutas_abertas": 0,
+      "lote_id": "OIDR26-03",
+      "proximo_portao": "Aguardar autorização explícita para abertura de ciclo no Motor.",
+      "resultado": "CONCLUIDO"
+    },
+    {
+      "artefato": "Consolidação de despacho curatorial por lote — onda incremental dry-run",
+      "autorizacao_para_abrir_ciclo": false,
+      "autorizados_para_cotejo_ampliado": 25,
+      "candidatos_no_lote": 25,
+      "data_despacho": "2026-10-22",
+      "decisao_aplicada": "AUTORIZAR-COTEJO-AMPLIADO",
+      "descartados": 0,
+      "efeito_na_base": "nenhum",
+      "eixo": {
+        "codigo": "EXPERIENCIA_ESPIRITUAL_ETICA",
+        "nome": "Experiência espiritual e ética evolutiva"
+      },
+      "fontes_brutas_abertas": 0,
+      "lote_id": "OIDR26-04",
+      "proximo_portao": "Aguardar autorização explícita para abertura de ciclo no Motor.",
+      "resultado": "CONCLUIDO"
+    }
+  ],
+  "proximo_portao": "Autorização curatorial explícita para abertura dos ciclos, antes de qualquer uso do Motor.",
+  "resultado": "CONCLUIDO",
+  "totais": {
+    "autorizados_para_cotejo_ampliado": 100,
+    "candidatos": 100,
+    "descartados": 0,
+    "lotes": 4
+  }
+}
