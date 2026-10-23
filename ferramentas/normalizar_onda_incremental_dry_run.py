@@ -31,10 +31,12 @@ from datetime import datetime
 from pathlib import Path
 from typing import Iterable
 
+from caminhos_acervo import caminho_atual
+
 
 RAIZ = Path(__file__).resolve().parent.parent
 ONDA = "onda_incremental_dry_run"
-ENTRADA = RAIZ / "uploads_recepcao"
+ENTRADA = caminho_atual("fonte.recepcao")
 SAIDA = RAIZ / ONDA
 DERIVADOS = SAIDA / "derivados_normalizados"
 TABELA_REGRAS = "diagnostico/TABELA-NORMALIZACAO-STT-2026-10-20.md"

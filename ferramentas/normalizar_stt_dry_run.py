@@ -26,9 +26,11 @@ from collections import Counter, defaultdict
 from dataclasses import dataclass
 from pathlib import Path
 
+from caminhos_acervo import caminho_atual
+
 
 RAIZ = Path(__file__).resolve().parent.parent
-ENTRADA = RAIZ / "uploads_recepcao"
+ENTRADA = caminho_atual("fonte.recepcao")
 SAIDA_PADRAO = RAIZ / "normalizados_stt_dry_run"
 RELATORIO_PADRAO = RAIZ / "diagnostico" / "RELATORIO-NORMALIZACAO-STT-DRY-RUN-2026-10-20.md"
 TABELA = "diagnostico/TABELA-NORMALIZACAO-STT-2026-10-20.md"

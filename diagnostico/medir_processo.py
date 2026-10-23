@@ -26,6 +26,7 @@ import re
 import statistics as st
 import subprocess
 import sys
+from pathlib import Path
 
 # RAIZ resolvida subindo até achar `ferramentas/dados_termos.py`, para que o
 # medidor funcione tanto na raiz quanto de dentro de uma pasta de ciclo.
@@ -38,6 +39,10 @@ def achar_raiz():
     raise SystemExit("raiz não encontrada (ferramentas/dados_termos.py ausente acima de aqui)")
 
 RAIZ = achar_raiz()
+sys.path.insert(0, os.path.join(RAIZ, "ferramentas"))
+from caminhos_acervo import caminho_atual  # noqa: E402
+
+RECEPCAO = os.fspath(caminho_atual("fonte.recepcao", Path(RAIZ)))
 CONC = os.path.join(RAIZ, "apostilas", "CONCLUIDAS")
 SIGLA_RE = re.compile(r"P?(20\d\d)-(\d\d)-(\d\d)")
 GATE_RE = re.compile(r"portao|verificar|cobertura|auditor|aspas|cheque", re.I)
@@ -196,7 +201,7 @@ def cadastro():
         v = ""
     mv = re.search(r"(\d+)\s*termos,\s*(\d+)\s*rela", v)
     fichas = glob.glob(os.path.join(RAIZ, "termos", "*.md"))
-    up = glob.glob(os.path.join(RAIZ, "uploads_recepcao", "*.txt"))
+    up = glob.glob(os.path.join(RECEPCAO, "*.txt"))
     conc = {os.path.basename(p)[:10] for p in glob.glob(os.path.join(CONC, "*"))}
     pend = []
     for f in up:

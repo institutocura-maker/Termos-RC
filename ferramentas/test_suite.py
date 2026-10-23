@@ -25,6 +25,8 @@ Checks:
   T15 molde motor.fm_toml == frontmatter das fichas (P7 retomado — U25)
 """
 import csv
+import hashlib
+import importlib.util
 import glob as _glob
 import io
 import json
@@ -33,6 +35,7 @@ import re
 import subprocess
 import sys
 import unittest
+from pathlib import Path
 
 FER = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(FER)
@@ -418,6 +421,62 @@ class TestParser(unittest.TestCase):
                 assert_template_count(path, 12)
         finally:
             os.unlink(path)
+
+
+RECEPCAO = caminho_atual("fonte.recepcao")
+CONSUMIDORES_RECEPCAO = (
+    ("diagnostico/medir_processo.py", "RECEPCAO", Path()),
+    ("ferramentas/aplicar_decisao_curador_a5.py", "DECISAO", Path("U93-U94-id-decisao.txt")),
+    ("ferramentas/normalizar_onda_incremental_dry_run.py", "ENTRADA", Path()),
+    ("ferramentas/normalizar_stt_dry_run.py", "ENTRADA", Path()),
+    ("ferramentas/normalizar_stt_lote_2026_10.py", "FONTE", Path("stt-lote-2026-10")),
+    ("ferramentas/fase0_ingestao_stt_lote_2026_10.py", "RECEPCAO", Path()),
+)
+
+
+def _carregar_consumidor_recepcao(relativo):
+    """Carrega um consumidor sem executar seu ponto de entrada."""
+    caminho = Path(ROOT) / relativo
+    spec = importlib.util.spec_from_file_location(
+        "teste_recepcao_" + caminho.stem, caminho
+    )
+    modulo = importlib.util.module_from_spec(spec)
+    assert spec.loader is not None
+    # Decoradores como @dataclass consultam sys.modules durante a importação.
+    sys.modules[spec.name] = modulo
+    try:
+        spec.loader.exec_module(modulo)
+    except Exception:
+        sys.modules.pop(spec.name, None)
+        raise
+    return modulo
+
+
+def _identidade_recepcao():
+    """Inventário byte a byte para provar que importar não regrava a recepção."""
+    identidade = {}
+    for arquivo in sorted(RECEPCAO.rglob("*")):
+        if arquivo.is_file():
+            h = hashlib.sha256(arquivo.read_bytes()).hexdigest()
+            identidade[arquivo.relative_to(RECEPCAO).as_posix()] = (arquivo.stat().st_size, h)
+    return identidade
+
+
+class TestRecepcaoR1(unittest.TestCase):
+    def test_T16_consumidores_usam_rota_mapeada(self):
+        self.assertEqual(RECEPCAO, Path(ROOT) / "uploads_recepcao")
+        for relativo, atributo, sufixo in CONSUMIDORES_RECEPCAO:
+            modulo = _carregar_consumidor_recepcao(relativo)
+            self.assertEqual(
+                Path(getattr(modulo, atributo)), RECEPCAO / sufixo,
+                f"{relativo}:{atributo} não resolve pela fonte.recepcao",
+            )
+
+    def test_T17_importar_consumidores_nao_toca_recepcao(self):
+        antes = _identidade_recepcao()
+        for relativo, _, _ in CONSUMIDORES_RECEPCAO:
+            _carregar_consumidor_recepcao(relativo)
+        self.assertEqual(antes, _identidade_recepcao())
 
 
 if __name__ == "__main__":

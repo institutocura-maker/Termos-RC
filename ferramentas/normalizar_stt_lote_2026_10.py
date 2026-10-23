@@ -33,9 +33,11 @@ from dataclasses import dataclass
 from pathlib import Path
 from typing import Iterable
 
+from caminhos_acervo import caminho_atual
+
 
 RAIZ = Path(__file__).resolve().parent.parent
-FONTE = RAIZ / "uploads_recepcao" / "stt-lote-2026-10"
+FONTE = caminho_atual("fonte.recepcao") / "stt-lote-2026-10"
 SAIDA = RAIZ / "normalizados_stt_lote_2026-10"
 RELATORIO = RAIZ / "diagnostico" / "RELATORIO-NORMALIZACAO-STT-LOTE-2026-10-20.md"
 TABELA_INICIAL = "diagnostico/TABELA-NORMALIZACAO-STT-2026-10-20.md"
