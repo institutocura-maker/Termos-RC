@@ -219,7 +219,7 @@ class TestBase(unittest.TestCase):
                     m = re.match(r"(B\d{3})", dd)
                     if m:
                         dirsB.add(m.group(1))
-        for base in ("apostilas/CONCLUIDAS", "ciclos"):
+        for base in ("fontes/apostilas", "ciclos"):
             bp = os.path.join(ROOT, base)
             for dd in os.listdir(bp):
                 m = re.search(r"P?(\d{4}-\d{2}-\d{2})", dd)
@@ -424,6 +424,7 @@ class TestParser(unittest.TestCase):
 
 
 RECEPCAO = caminho_atual("fonte.recepcao")
+APOSTILAS_CONCLUIDAS = caminho_atual("fonte.apostilas_concluidas")
 ROTAS_IMUTAVEIS_R3 = (
     "fonte.recepcao",
     "evidencia.recepcao.logs",
@@ -476,6 +477,8 @@ def _identidade_recepcao():
 class TestRecepcaoR1(unittest.TestCase):
     def test_T16_consumidores_usam_rota_mapeada(self):
         self.assertEqual(RECEPCAO, Path(ROOT) / "uploads_recepcao")
+        self.assertEqual(APOSTILAS_CONCLUIDAS, Path(ROOT) / "fontes" / "apostilas")
+        self.assertFalse((Path(ROOT) / "apostilas" / "CONCLUIDAS").exists())
         for relativo, atributo, chave, sufixo in CONSUMIDORES_RECEPCAO:
             modulo = _carregar_consumidor_recepcao(relativo)
             self.assertEqual(

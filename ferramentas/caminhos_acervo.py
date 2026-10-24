@@ -26,7 +26,9 @@ CAMINHOS_ATUAIS = MappingProxyType({
     "fonte.recepcao.pilotos_historicos": Path("fontes") / "pilotos_historicos",
     "fonte.recepcao.stt_lote_2026_10": Path("fontes") / "stt-lote-2026-10",
     "fonte.externas": Path("fontes") / "externas",
-    "evidencia.palestras": Path("apostilas"),
+    # Cápsulas modulares completas migradas na R4 de FON-APOSTILAS-CONCLUIDAS.
+    "fonte.apostilas_concluidas": Path("fontes") / "apostilas",
+    "evidencia.palestras": Path("fontes") / "apostilas",
     "evidencia.ciclos": Path("ciclos"),
     "evidencia.consolidacoes": Path("consolidacoes"),
     "kb.base": Path("base"),
@@ -45,6 +47,7 @@ DESTINOS_PLANEJADOS = MappingProxyType({
     "fonte.recepcao.pilotos_historicos": None,
     "fonte.recepcao.stt_lote_2026_10": None,
     "fonte.externas": None,
+    "fonte.apostilas_concluidas": None,
     "evidencia.palestras": None,
     "evidencia.ciclos": None,
     "evidencia.consolidacoes": None,

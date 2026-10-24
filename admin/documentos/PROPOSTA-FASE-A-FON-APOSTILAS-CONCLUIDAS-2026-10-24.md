@@ -23,7 +23,7 @@ Os totais usam separador de milhares internacional no inventário de máquina; n
 
 O inventário file-level está em [`../logs/INVENTARIO-PRE-FON-APOSTILAS-CONCLUIDAS-2026-10-24.csv`](../logs/INVENTARIO-PRE-FON-APOSTILAS-CONCLUIDAS-2026-10-24.csv):
 
-- SHA-256 do CSV: `3ca53e15e497b1ed01028aa4c3779a65daa0871ca6618631304ef498914a0b36`;
+- SHA-256 do CSV: `6e367e4cb41cc56dc875ab8ecdb8776e0a9c5f56089d877b25b90d11b881d28b`;
 - hash agregado dos 82 candidatos brutos: `81042108ea7a7b8cbd38aff72f20095ffe9f7557d4b458170e774cabda4e9b3f`;
 - cada linha está em `AGUARDA_DELIBERACAO_CURATORIAL`, sem destino proposto.
 
@@ -59,3 +59,13 @@ Ela é apenas uma proposta de topologia; **não é rota atual, oficial ou autori
 ## Limite desta fase
 
 Esta proposta e seu CSV são exclusivamente de leitura/inventário. Nenhum arquivo de `apostilas/CONCLUIDAS/` foi copiado, movido, removido ou reescrito.
+
+## Decisão curatorial R2 — rota de preservação modular
+
+Em 24/10/2026, o Curador aprovou a **Migração Modular Integral**: os **1.629 arquivos** das 82 cápsulas em `apostilas/CONCLUIDAS/` têm decisão `RETIRAR_APOS_COPIA_VALIDADA` para `/fontes/apostilas/`, com a estrutura relativa de cada cápsula preservada literalmente. A decisão substitui a recomendação preliminar de separar brutos e derivados: cada cápsula passa a ser a unidade indivisível de preservação.
+
+O registro R2 aprovado é `admin/logs/REGISTRO-DELIBERACAO-R2-FON-APOSTILAS-CONCLUIDAS-2026-10-24.csv`; nenhuma cópia, movimentação ou remoção ocorreu com esta atualização. A R3 continua dependente de autorização curatorial específica após a validação deste registro.
+
+## Encerramento R4 — rota modular canônica
+
+Após validação da R3, a R4 removeu exclusivamente as 1.629 origens autorizadas de `apostilas/CONCLUIDAS/`. A coleção canônica passa a ser `fontes/apostilas/`, contendo as 82 cápsulas completas. Dois scripts internos receberam ajuste pós-cópia para resolver a rota nova; a prova byte a byte anterior a esses ajustes permanece no manifesto R3. O detalhamento está em `admin/logs/RELATORIO-LIMPEZA-R4-FON-APOSTILAS-CONCLUIDAS-2026-10-24.md`.

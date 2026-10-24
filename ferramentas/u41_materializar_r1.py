@@ -62,8 +62,8 @@ CORPUS = {
     "B060": livro_concluido("B060_personagens_e_terminologias"),
     "B089": livro_concluido("B089_pandora_3_anunnaki_disputa_genetica_pandora"),
     "P2020-04-04": "ciclos/P2020-04-04/original.txt",
-    "P2023-05-21": "apostilas/CONCLUIDAS/2023-05-21_a_hebdomada_de_apolo_o_ultraje_humano/original.txt",
-    "P2024-11-09": "apostilas/CONCLUIDAS/2024-11-09_abismo_consciencia_cosmica/original.txt",
+    "P2023-05-21": "fontes/apostilas/2023-05-21_a_hebdomada_de_apolo_o_ultraje_humano/original.txt",
+    "P2024-11-09": "fontes/apostilas/2024-11-09_abismo_consciencia_cosmica/original.txt",
 }
 _CACHE: dict[str, list[str]] = {}
 

@@ -5,7 +5,7 @@ Corrige: # PARTE X — (maiúsculo), ## Capítulo N — (títulos), notas do edi
 import re, sys
 from pathlib import Path
 
-RAIZ = Path("/home/user/rc-terminologia/apostilas/CONCLUIDAS")
+RAIZ = Path(__file__).resolve().parents[2]  # fontes/apostilas/
 
 # ---- configuração por apostila ----
 CONFIG = {

@@ -287,9 +287,9 @@ for (a, b, txt, t), (u2, chars, ini, fim, palv, per, nat) in zip(med_anc, META["
     pass
 
 VIZ = {}
-for _d in sorted(glob.glob(os.path.join(RAIZ, "apostilas/CONCLUIDAS/2020-04-25_*")) +
-                 glob.glob(os.path.join(RAIZ, "apostilas/CONCLUIDAS/2022-03-26_*")) +
-                 glob.glob(os.path.join(RAIZ, "apostilas/CONCLUIDAS/2023-12-02_*"))):
+for _d in sorted(glob.glob(os.path.join(RAIZ, "fontes/apostilas/2020-04-25_*")) +
+                 glob.glob(os.path.join(RAIZ, "fontes/apostilas/2022-03-26_*")) +
+                 glob.glob(os.path.join(RAIZ, "fontes/apostilas/2023-12-02_*"))):
     _o = os.path.join(_d, "original.txt")
     if os.path.exists(_o):
         _b = open(_o, "rb").read()

@@ -43,6 +43,7 @@ from loader import BIBLIO                                      # noqa: E402
 CADASTRO = os.path.join(RAIZ, "ferramentas", "dados_termos.py")
 _CACHE: dict[str, list[str]] = {}
 LIVROS = caminho_atual("fonte.livros")
+APOSTILAS_CONCLUIDAS = caminho_atual("fonte.apostilas_concluidas")
 
 
 # ────────────────────────────────────────────────────────────────────── corpus
@@ -50,7 +51,7 @@ def caminho_da_obra(sigla: str) -> str:
     """Localiza o `original.txt` da obra pelo seu diretório canônico."""
     if sigla in _CACHE and _CACHE[sigla] is None:
         raise FileNotFoundError(sigla)
-    for base in (LIVROS / "CONCLUIDOS", Path(RAIZ) / "apostilas" / "CONCLUIDAS",
+    for base in (LIVROS / "CONCLUIDOS", APOSTILAS_CONCLUIDAS,
                  Path(RAIZ) / "ciclos"):
         for dd in sorted(os.listdir(base)):
             b = dd.split("_")[0]

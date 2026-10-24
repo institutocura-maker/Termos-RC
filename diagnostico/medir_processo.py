@@ -43,7 +43,7 @@ sys.path.insert(0, os.path.join(RAIZ, "ferramentas"))
 from caminhos_acervo import caminho_atual  # noqa: E402
 
 RECEPCAO = os.fspath(caminho_atual("fonte.recepcao", Path(RAIZ)))
-CONC = os.path.join(RAIZ, "apostilas", "CONCLUIDAS")
+CONC = os.fspath(caminho_atual("fonte.apostilas_concluidas", Path(RAIZ)))
 SIGLA_RE = re.compile(r"P?(20\d\d)-(\d\d)-(\d\d)")
 GATE_RE = re.compile(r"portao|verificar|cobertura|auditor|aspas|cheque", re.I)
 
@@ -164,7 +164,7 @@ def governanca():
     txt = open(cont, encoding="utf-8", errors="ignore").read() if os.path.exists(cont) else ""
     blocos = [b for b in txt.split("\n\n") if b.strip()]
     cab = "\n\n".join(blocos[:4])
-    arquivos = sorted(glob.glob(os.path.join(RAIZ, "apostilas", "CONCLUIDAS", "*", "apostila.md")))
+    arquivos = sorted(glob.glob(os.path.join(CONC, "*", "apostila.md")))
     return dict(
         PROMPT_bytes=sz("prompts", "PROMPT-PROXIMA-SESSAO.md"),
         CONTINUIDADE_bytes=len(txt.encode()),

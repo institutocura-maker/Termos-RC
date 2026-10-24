@@ -60,6 +60,7 @@ import subprocess
 import sys
 import tokenize
 import unicodedata
+from pathlib import Path
 
 try:
     import tomllib
@@ -70,6 +71,7 @@ except ImportError:                                                     # pragma
 # O motor IMPORTA a regra — não a reimplementa (paridade com T13 garantida por construção).
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from loader import via_de, confianca_de  # noqa: E402
+from caminhos_acervo import caminho_atual  # noqa: E402
 
 # As duas famílias de linha do cadastro. Os dois estilos de aspa convivem no arquivo por
 # herança de ciclos, então a régua autoritativa é `medir_codigo` (executa o texto medido).
@@ -454,8 +456,8 @@ class Ciclo:
         self.raiz = raiz or self._raiz()
         self.sigla = sigla
         candidatos = [os.path.join(self.raiz, "ciclos", sigla, "ciclo.toml")]
-        for raio in ("apostilas", "apostilas/CONCLUIDAS"):
-            candidatos += glob.glob(os.path.join(self.raiz, raio, f"*{sigla.lstrip('P')}*", "ciclo.toml"))
+        apostilas = caminho_atual("fonte.apostilas_concluidas", Path(self.raiz))
+        candidatos += glob.glob(os.path.join(os.fspath(apostilas), f"*{sigla.lstrip('P')}*", "ciclo.toml"))
         self.toml = next((c for c in candidatos if os.path.exists(c)), None)
         if not self.toml:
             sys.exit(f"sem ciclo.toml para {sigla} (procurei em ciclos/{sigla}/ e nas pastas do ciclo)")

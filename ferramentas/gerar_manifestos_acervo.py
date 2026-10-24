@@ -27,7 +27,7 @@ FONTES = (
     ("FON-LIVROS", "fonte.livros", "fonte primária", "obras e amostras de livros"),
     ("FON-RECEPCAO", "fonte.recepcao", "recepção bruta", "caixa de entrada e transcrições recebidas"),
     ("FON-EXTERNAS", "fonte.externas", "fonte externa", "materiais de apoio e fontes de terceiros"),
-    ("EVD-PALESTRAS", "evidencia.palestras", "evidência derivada", "apostilas e cópias seladas de fontes"),
+    ("FON-APOSTILAS-CONCLUIDAS", "fonte.apostilas_concluidas", "cápsulas modulares", "apostilas concluídas: fonte, scripts, metadados e produto final"),
     ("EVD-CICLOS", "evidencia.ciclos", "evidência de processamento", "ciclos, âncoras e cópias de proveniência"),
     ("EVD-CONSOLIDACOES", "evidencia.consolidacoes", "evidência consolidada", "ciclos de consolidação e seus registros"),
 )

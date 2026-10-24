@@ -71,8 +71,8 @@ SAIDA_JSON = os.path.join(RAIZ, "diagnostico", "CENSO-RECLASSIFICADO-2026-09-13.
 SAIDA_MD = os.path.join(RAIZ, "diagnostico", "CENSO-RECLASSIFICADO-2026-09-13.md")
 
 LIVROS = caminho_atual("fonte.livros")
-BASES = (LIVROS / "CONCLUIDOS", Path(RAIZ) / "apostilas" / "CONCLUIDAS",
-         Path(RAIZ) / "ciclos")
+APOSTILAS_CONCLUIDAS = caminho_atual("fonte.apostilas_concluidas")
+BASES = (LIVROS / "CONCLUIDOS", APOSTILAS_CONCLUIDAS, Path(RAIZ) / "ciclos")
 
 # ── AMOSTRAS AUTORIZADAS PARA CITAÇÃO ────────────────────────────────────────
 # (sigla, pasta). Só entram as amostras CUJAS PÁGINAS SÃO CONTÍNUAS A PARTIR DA
