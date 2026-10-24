@@ -20,6 +20,7 @@ fontes/
 - **FON-EXTERNAS** foi migrada em 23/10/2026 para `externas/`, por `git mv`, com os 15 arquivos e a hash agregada conferidos contra o manifesto da Fase 0.
 - **FON-LIVROS** foi migrada em 23/10/2026 para `livros/`, por `git mv`, com a coleção literal conferida contra a linha Fase 0 + Fase 1B antes da atualização documental limitada desta onda.
 - **FON-RECEPÇÃO** foi reconfigurada em 24/10/2026 após deliberação R2 e cópia R3: `uploads_recepcao/` conserva apenas `README.md` e `.gitkeep` como caixa de entrada futura; os registros operacionais estão em `admin/logs/`, o documento administrativo em `admin/documentos/`, o DOCX bruto em `fontes/docx_originais/`, os pilotos históricos em `fontes/pilotos_historicos/` e o lote STT em `fontes/stt-lote-2026-10/`. Essas rotas são canônicas e imutáveis, verificadas por arquivo no manifesto.
+- **FON-APOSTILAS-CONCLUIDAS** está em inventário preparatório, sem migração física: `apostilas/CONCLUIDAS/` mantém os 1.629 artefatos de fonte e transformação; a proposta distingue os 82 brutos candidatos dos derivados e aguarda deliberação de rota por item em `admin/documentos/PROPOSTA-FASE-A-FON-APOSTILAS-CONCLUIDAS-2026-10-24.md`.
 - As demais rotas desenhadas acima permanecem planejadas; não devem ser usadas como caminhos de runtime até despacho e portões próprios.
 
 ## O que não pertence aqui
