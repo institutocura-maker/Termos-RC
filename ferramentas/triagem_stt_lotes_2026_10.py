@@ -4,7 +4,7 @@
 
 Entrada operacional: somente as cópias em ``normalizados_stt_lote_2026-10/``
 e os artefatos produzidos pela Fase 0. O programa nunca abre, lê ou pesquisa
-``uploads_recepcao/``. Também não cria ciclo, ficha, termo, relação ou apostila.
+``fontes/stt-lote-2026-10/``. Também não cria ciclo, ficha, termo, relação ou apostila.
 
 Cada dossiê reúne até 25 candidatos de cotejo já limitados pela Fase 0 e até
 três ocorrências representativas por candidato. As ocorrências são endereços

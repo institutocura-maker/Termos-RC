@@ -3,7 +3,7 @@
 """Abre, a partir de um despacho integral autorizado, o ciclo do Motor para um eixo STT.
 
 A fonte de trabalho é uma composição rastreável de cópias normalizadas. O script não
-abre os STT brutos em ``uploads_recepcao/`` e não cria pérolas, fichas, termos,
+abre os STT brutos em ``fontes/stt-lote-2026-10/`` e não cria pérolas, fichas, termos,
 relações ou vínculos na Base. A abertura é feita pelo comando oficial ``motor.py
 novo``; qualquer ampliação posterior ainda depende de âncoras literais no pacote
 produzido para o ciclo e dos portões do Motor.

@@ -2,7 +2,7 @@
 """Normaliza, de forma auditável, o lote STT de outubro de 2026.
 
 Este executor só escreve em ``normalizados_stt_lote_2026-10/`` e em seus
-artefatos de auditoria. Nunca altera ``uploads_recepcao/stt-lote-2026-10/``.
+artefatos de auditoria. Nunca altera ``fontes/stt-lote-2026-10/``.
 
 Regras executadas:
 - oito regras lexicais aprovadas na tabela inicial;
@@ -15,7 +15,7 @@ Uso:
 
 ``--force`` só pode apagar e regenerar o diretório derivado de nome fechado e
 os relatórios derivados deste lote. Ele não aceita outro destino e não tem
-qualquer operação de escrita dentro de uploads_recepcao/.
+qualquer operação de escrita dentro de fontes/stt-lote-2026-10/.
 """
 
 from __future__ import annotations
@@ -37,7 +37,7 @@ from caminhos_acervo import caminho_atual
 
 
 RAIZ = Path(__file__).resolve().parent.parent
-FONTE = caminho_atual("fonte.recepcao") / "stt-lote-2026-10"
+FONTE = caminho_atual("fonte.recepcao.stt_lote_2026_10")
 SAIDA = RAIZ / "normalizados_stt_lote_2026-10"
 RELATORIO = RAIZ / "diagnostico" / "RELATORIO-NORMALIZACAO-STT-LOTE-2026-10-20.md"
 TABELA_INICIAL = "diagnostico/TABELA-NORMALIZACAO-STT-2026-10-20.md"
@@ -585,7 +585,7 @@ def montar_readme(
 
 > **Natureza:** cópias derivadas e auditáveis; **não são verbatim bruto**.
 >
-> **Fontes imutáveis:** `uploads_recepcao/stt-lote-2026-10/`
+> **Fontes imutáveis:** `fontes/stt-lote-2026-10/`
 >
 > **Executor:** `ferramentas/normalizar_stt_lote_2026_10.py`
 >
@@ -624,7 +624,7 @@ corpo da transcrição recebeu as trocas auditadas abaixo.
 | `preservados-d3.jsonl` | formas bloqueadas/preservadas, sem alteração |
 | `{RELATORIO.relative_to(RAIZ)}` | síntese humana, censo e verificações |
 
-A execução nunca regrava os arquivos em `uploads_recepcao/`. Para repetir a
+A execução nunca regrava os arquivos em `fontes/stt-lote-2026-10/`. Para repetir a
 geração, use o executor com `--force`; ele só remove este diretório derivado e
 os relatórios derivados associados.
 """
@@ -673,7 +673,7 @@ def montar_relatorio(
 
 **Executor:** `ferramentas/normalizar_stt_lote_2026_10.py`
 
-**Fonte:** `uploads_recepcao/stt-lote-2026-10/`
+**Fonte:** `fontes/stt-lote-2026-10/`
 
 **Saída:** `normalizados_stt_lote_2026-10/`
 
@@ -758,7 +758,7 @@ O rastreio integral, não apenas esta amostra, está em
 ## Limites explícitos
 
 - Não houve cotejo com áudio nesta etapa.
-- O bruto STT não foi “corrigido”: ele permanece em `uploads_recepcao/`.
+- O bruto STT não foi “corrigido”: ele permanece em `fontes/stt-lote-2026-10/`.
 - D3 não foi inferido, nem substituído. Casos com baixa segurança seguem
   listados e preservados para eventual despacho futuro.
 """

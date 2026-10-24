@@ -104,14 +104,30 @@ def verificar(identificador: str, averbacoes_paths: list[Path] | None = None) ->
     for averbacao in averbacoes_paths or []:
         esperado, quantidade = aplicar_averbacao(esperado, identificador, averbacao)
         averbacoes += quantidade
-    destino = caminho_atual(colecao["chave"])
-    if not destino.is_dir():
-        raise SystemExit(f"rota atual ausente: {destino.relative_to(RAIZ)}")
-    atual = [{
-        "caminho_relativo": arquivo.relative_to(destino).as_posix(),
-        "bytes": arquivo.stat().st_size,
-        "sha256": sha256_arquivo(arquivo),
-    } for arquivo in sorted((p for p in destino.rglob("*") if p.is_file()), key=lambda p: p.as_posix())]
+    if colecao.get("modo_verificacao") == "distribuida_por_arquivo":
+        # Uma coleção R3 pode ocupar rotas canônicas distintas. Neste modo, os
+        # caminhos do manifesto são relativos à raiz e cada item é verificado
+        # diretamente, sem tratar diretórios administrativos compartilhados como
+        # se fossem exclusivos da coleção.
+        atual = []
+        for esperado_item in colecao["arquivos"]:
+            arquivo = RAIZ / esperado_item["caminho_relativo"]
+            if arquivo.is_file():
+                atual.append({
+                    "caminho_relativo": esperado_item["caminho_relativo"],
+                    "bytes": arquivo.stat().st_size,
+                    "sha256": sha256_arquivo(arquivo),
+                })
+        atual.sort(key=lambda item: item["caminho_relativo"])
+    else:
+        destino = caminho_atual(colecao["chave"])
+        if not destino.is_dir():
+            raise SystemExit(f"rota atual ausente: {destino.relative_to(RAIZ)}")
+        atual = [{
+            "caminho_relativo": arquivo.relative_to(destino).as_posix(),
+            "bytes": arquivo.stat().st_size,
+            "sha256": sha256_arquivo(arquivo),
+        } for arquivo in sorted((p for p in destino.rglob("*") if p.is_file()), key=lambda p: p.as_posix())]
     if atual != esperado:
         raise SystemExit(
             f"INTEGRIDADE INVÁLIDA: {identificador} diverge do manifesto Fase 0 "

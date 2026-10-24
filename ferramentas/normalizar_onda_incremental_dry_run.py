@@ -2,7 +2,7 @@
 """Inventa e normaliza, com proveniência fechada, os seis brutos do piloto STT.
 
 A onda ``onda_incremental_dry_run`` é independente do piloto histórico:
-ela lê exclusivamente os seis brutos de ``uploads_recepcao/`` e escreve todos
+ela lê exclusivamente os seis brutos de ``fontes/pilotos_historicos/`` e escreve todos
 os seus produtos em ``onda_incremental_dry_run/``. Nunca lê, altera, reutiliza
 ou remove produtos em ``normalizados_stt_dry_run/``.
 
@@ -36,14 +36,14 @@ from caminhos_acervo import caminho_atual
 
 RAIZ = Path(__file__).resolve().parent.parent
 ONDA = "onda_incremental_dry_run"
-ENTRADA = caminho_atual("fonte.recepcao")
+ENTRADA = caminho_atual("fonte.recepcao.pilotos_historicos")
 SAIDA = RAIZ / ONDA
 DERIVADOS = SAIDA / "derivados_normalizados"
 TABELA_REGRAS = "diagnostico/TABELA-NORMALIZACAO-STT-2026-10-20.md"
 EXECUTOR = "ferramentas/normalizar_onda_incremental_dry_run.py"
 
 # A seleção e os hashes travam explicitamente o lote que serviu ao piloto.
-# Uma recepção futura em uploads_recepcao/ não pode entrar nesta onda por acaso;
+# Uma recepção futura em fontes/pilotos_historicos/ não pode entrar nesta onda por acaso;
 # tampouco um bruto alterado pode fingir continuidade com o experimento inicial.
 PILOTO_FONTES: dict[str, str] = {
     "2024-07_005_L90vP0VFSTc_Enki_Enlil_e_o_Fim_Subito_da_Babilonia_-_PALESTRA_COMPLETA_Jan_Val_Ellam.md": "335a1b24cdcad1adb707e585c617a50dd277f550310abbbb35c328cf00d33134",
@@ -274,7 +274,7 @@ def inventario_md(resultados: list[dict[str, object]], gerado_em: str) -> str:
 ## Escopo fechado
 
 Foram aceitos exclusivamente os seis arquivos Markdown listados abaixo, todos
-em `uploads_recepcao/`. Cada SHA-256 foi confrontado com a identidade registrada
+em `fontes/pilotos_historicos/`. Cada SHA-256 foi confrontado com a identidade registrada
 para o piloto. A presença de qualquer outro `.md`, ausência de um destes ou
 alteração de um único byte faz o executor abortar antes de produzir derivados.
 
@@ -286,7 +286,7 @@ alteração de um único byte faz o executor abortar antes de produzir derivados
 
 - brutos lidos: **{len(resultados)}**;
 - hashes do piloto confirmados: **{len(resultados)}/{len(resultados)}**;
-- arquivos sob `uploads_recepcao/` alterados pela execução: **0**;
+- arquivos sob `fontes/pilotos_historicos/` alterados pela execução: **0**;
 - o inventário JSON estruturado equivalente é `manifesto-fontes.json`;
 - este diretório não utiliza nem modifica `normalizados_stt_dry_run/`.
 """
@@ -305,7 +305,7 @@ def readme(totais: Counter[str], n_eventos: int, gerado_em: str) -> str:
 
 Esta é uma área de processamento exclusivamente derivada dos seis brutos do
 piloto STT. Ela é fisicamente separada de `normalizados_stt_dry_run/` e não
-altera nenhuma fonte em `uploads_recepcao/`.
+altera nenhuma fonte em `fontes/pilotos_historicos/`.
 
 ## Produtos
 
@@ -355,7 +355,7 @@ def relatorio(resultados: list[dict[str, object]], eventos: list[Evento], gerado
 
 **Data de geração:** {gerado_em}
 **Executor:** `{EXECUTOR}`
-**Entrada:** `uploads_recepcao/` (os seis brutos selados do piloto)
+**Entrada:** `fontes/pilotos_historicos/` (os seis brutos selados do piloto)
 **Saída exclusiva:** `{ONDA}/`
 
 > **CONFIRMADO — normalização concluída com proveniência limpa.**
@@ -372,7 +372,7 @@ def relatorio(resultados: list[dict[str, object]], eventos: list[Evento], gerado
 | Substituições rastreadas | {len(eventos)} |
 | Regras contextuais executadas | 0 |
 | Itens de revisão/preservação executados | 0 |
-| Alterações em `uploads_recepcao/` | **0** |
+| Alterações em `fontes/pilotos_historicos/` | **0** |
 | Frontmatters preservados byte a byte | **6/6** |
 | URLs preservadas | **6/6** |
 | Idempotência do produto | **6/6** |
@@ -489,7 +489,7 @@ def main() -> int:
         "onda": ONDA,
         "gerado_em": gerado_em,
         "executor": EXECUTOR,
-        "origem": "uploads_recepcao/",
+        "origem": "fontes/pilotos_historicos/",
         "escopo": "seis transcrições brutas seladas do piloto STT",
         "fontes": [
             {k: v for k, v in item.items() if k not in {"caminho_derivado", "bytes_derivado", "sha256_derivado", "mudancas"}}

@@ -17,7 +17,14 @@ RAIZ = Path(__file__).resolve().parent.parent
 # durante a Fase 0; destinos planejados não devem ser consumidos por scripts.
 CAMINHOS_ATUAIS = MappingProxyType({
     "fonte.livros": Path("fontes") / "livros",
+    # Caixa de entrada futura: após R3, conserva apenas seu contrato/estrutura.
     "fonte.recepcao": Path("uploads_recepcao"),
+    # Destinos canônicos e imutáveis da reconfiguração curatorial R3.
+    "evidencia.recepcao.logs": Path("admin") / "logs",
+    "evidencia.recepcao.documentos": Path("admin") / "documentos",
+    "fonte.recepcao.docx_originais": Path("fontes") / "docx_originais",
+    "fonte.recepcao.pilotos_historicos": Path("fontes") / "pilotos_historicos",
+    "fonte.recepcao.stt_lote_2026_10": Path("fontes") / "stt-lote-2026-10",
     "fonte.externas": Path("fontes") / "externas",
     "evidencia.palestras": Path("apostilas"),
     "evidencia.ciclos": Path("ciclos"),
@@ -30,7 +37,13 @@ CAMINHOS_ATUAIS = MappingProxyType({
 
 DESTINOS_PLANEJADOS = MappingProxyType({
     "fonte.livros": Path("fontes") / "livros",
+    # A rota de recepção fica como caixa de entrada; os destinos R3 acima já são atuais.
     "fonte.recepcao": Path("fontes") / "recepcao",
+    "evidencia.recepcao.logs": None,
+    "evidencia.recepcao.documentos": None,
+    "fonte.recepcao.docx_originais": None,
+    "fonte.recepcao.pilotos_historicos": None,
+    "fonte.recepcao.stt_lote_2026_10": None,
     "fonte.externas": None,
     "evidencia.palestras": None,
     "evidencia.ciclos": None,

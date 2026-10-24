@@ -5,7 +5,7 @@
 Este programa prepara a fila de produção, mas não a dispara. Sua entrada de
 produção são EXCLUSIVAMENTE as cópias em ``normalizados_stt_lote_2026-10/``.
 Os SHA-256 dos STT brutos são lidos apenas dos manifestos selados pela etapa de
-normalização: nenhum conteúdo em ``uploads_recepcao/`` é aberto, indexado ou
+normalização: nenhum conteúdo em ``fontes/stt-lote-2026-10/`` é aberto, indexado ou
 usado para buscar citações.
 
 Produtos (todos derivados):
@@ -50,7 +50,7 @@ from caminhos_acervo import caminho_atual
 
 
 RAIZ = Path(__file__).resolve().parent.parent
-RECEPCAO = caminho_atual("fonte.recepcao")
+FONTE_STT_BRUTA = caminho_atual("fonte.recepcao.stt_lote_2026_10")
 ENTRADA = RAIZ / "normalizados_stt_lote_2026-10"
 SAIDA = RAIZ / "ingestao_stt_lote_2026-10"
 RELATORIO = RAIZ / "diagnostico" / "MAPA-CONSOLIDADO-LINHA-PRODUCAO-STT-LOTE-2026-10-20.md"
@@ -784,7 +784,7 @@ def registro_mestre(documentos: list[Documento], mapa_tematico: list[dict]) -> l
                 "sha256_derivado": documento.sha256_derivado,
                 "bytes_derivado": documento.bytes,
                 "origem_declarada": {
-                    "arquivo_stt_bruto": (RECEPCAO / "stt-lote-2026-10" / documento.arquivo).relative_to(RAIZ).as_posix(),
+                    "arquivo_stt_bruto": (FONTE_STT_BRUTA / documento.arquivo).relative_to(RAIZ).as_posix(),
                     "sha256_fonte": documento.sha256_fonte_declarado,
                     "verificacao": "manifesto-fonte ↔ manifesto-derivado ↔ hash-atual-do-derivado",
                 },
@@ -864,7 +864,7 @@ def montar_readme(resumo: dict) -> str:
 A entrada operacional é exclusivamente `normalizados_stt_lote_2026-10/`. Os
 caminhos e SHA-256 dos STT brutos aparecem como proveniência declarada pelos
 manifestos da normalização; a Fase 0 não abriu, pesquisou nem transcreveu os
-brutos em `uploads_recepcao/`.
+brutos em `fontes/stt-lote-2026-10/`.
 
 ## Resultado desta geração
 
@@ -929,7 +929,7 @@ def montar_relatorio(resumo: dict, lotes: list[dict]) -> str:
 ## Delimitação operacional
 
 A linha de produção começa unicamente nas **309 cópias derivadas normalizadas**
-em `normalizados_stt_lote_2026-10/`. Os STT em `uploads_recepcao/` não foram
+em `normalizados_stt_lote_2026-10/`. Os STT em `fontes/stt-lote-2026-10/` não foram
 abertos nem pesquisados por este executor; seus nomes e SHA-256 permanecem no
 registro apenas como proveniência declarada nos manifestos que a normalização
 selou. Portanto, esta geração não transforma o bruto em fonte operacional.
@@ -1035,7 +1035,7 @@ def gerar(force: bool) -> None:
         raise FileExistsError(
             f"Saída já existe: {SAIDA.relative_to(RAIZ)}/. Use --force para regenerar somente a Fase 0."
         )
-    if SAIDA.resolve() == ENTRADA.resolve() or SAIDA.resolve() == RECEPCAO.resolve():
+    if SAIDA.resolve() == ENTRADA.resolve() or SAIDA.resolve() == FONTE_STT_BRUTA.resolve():
         raise FalhaFase0("Destino Fase 0 jamais pode ser uma fonte")
 
     # Temp no mesmo filesystem torna a troca final atômica. Uma falha preserva a

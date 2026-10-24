@@ -424,13 +424,21 @@ class TestParser(unittest.TestCase):
 
 
 RECEPCAO = caminho_atual("fonte.recepcao")
+ROTAS_IMUTAVEIS_R3 = (
+    "fonte.recepcao",
+    "evidencia.recepcao.logs",
+    "evidencia.recepcao.documentos",
+    "fonte.recepcao.docx_originais",
+    "fonte.recepcao.pilotos_historicos",
+    "fonte.recepcao.stt_lote_2026_10",
+)
 CONSUMIDORES_RECEPCAO = (
-    ("diagnostico/medir_processo.py", "RECEPCAO", Path()),
-    ("ferramentas/aplicar_decisao_curador_a5.py", "DECISAO", Path("U93-U94-id-decisao.txt")),
-    ("ferramentas/normalizar_onda_incremental_dry_run.py", "ENTRADA", Path()),
-    ("ferramentas/normalizar_stt_dry_run.py", "ENTRADA", Path()),
-    ("ferramentas/normalizar_stt_lote_2026_10.py", "FONTE", Path("stt-lote-2026-10")),
-    ("ferramentas/fase0_ingestao_stt_lote_2026_10.py", "RECEPCAO", Path()),
+    ("diagnostico/medir_processo.py", "RECEPCAO", "fonte.recepcao", Path()),
+    ("ferramentas/aplicar_decisao_curador_a5.py", "DECISAO", "evidencia.recepcao.logs", Path("U93-U94-id-decisao.txt")),
+    ("ferramentas/normalizar_onda_incremental_dry_run.py", "ENTRADA", "fonte.recepcao.pilotos_historicos", Path()),
+    ("ferramentas/normalizar_stt_dry_run.py", "ENTRADA", "fonte.recepcao.pilotos_historicos", Path()),
+    ("ferramentas/normalizar_stt_lote_2026_10.py", "FONTE", "fonte.recepcao.stt_lote_2026_10", Path()),
+    ("ferramentas/fase0_ingestao_stt_lote_2026_10.py", "FONTE_STT_BRUTA", "fonte.recepcao.stt_lote_2026_10", Path()),
 )
 
 
@@ -453,28 +461,31 @@ def _carregar_consumidor_recepcao(relativo):
 
 
 def _identidade_recepcao():
-    """Inventário byte a byte para provar que importar não regrava a recepção."""
+    """Inventário byte a byte das rotas imutáveis da recepção pós-R3."""
     identidade = {}
-    for arquivo in sorted(RECEPCAO.rglob("*")):
-        if arquivo.is_file():
-            h = hashlib.sha256(arquivo.read_bytes()).hexdigest()
-            identidade[arquivo.relative_to(RECEPCAO).as_posix()] = (arquivo.stat().st_size, h)
+    for chave in ROTAS_IMUTAVEIS_R3:
+        raiz = caminho_atual(chave)
+        for arquivo in sorted(raiz.rglob("*")):
+            if arquivo.is_file():
+                h = hashlib.sha256(arquivo.read_bytes()).hexdigest()
+                chave_arquivo = f"{chave}:{arquivo.relative_to(raiz).as_posix()}"
+                identidade[chave_arquivo] = (arquivo.stat().st_size, h)
     return identidade
 
 
 class TestRecepcaoR1(unittest.TestCase):
     def test_T16_consumidores_usam_rota_mapeada(self):
         self.assertEqual(RECEPCAO, Path(ROOT) / "uploads_recepcao")
-        for relativo, atributo, sufixo in CONSUMIDORES_RECEPCAO:
+        for relativo, atributo, chave, sufixo in CONSUMIDORES_RECEPCAO:
             modulo = _carregar_consumidor_recepcao(relativo)
             self.assertEqual(
-                Path(getattr(modulo, atributo)), RECEPCAO / sufixo,
-                f"{relativo}:{atributo} não resolve pela fonte.recepcao",
+                Path(getattr(modulo, atributo)), caminho_atual(chave) / sufixo,
+                f"{relativo}:{atributo} não resolve pela rota canônica {chave}",
             )
 
     def test_T17_importar_consumidores_nao_toca_recepcao(self):
         antes = _identidade_recepcao()
-        for relativo, _, _ in CONSUMIDORES_RECEPCAO:
+        for relativo, _, _, _ in CONSUMIDORES_RECEPCAO:
             _carregar_consumidor_recepcao(relativo)
         self.assertEqual(antes, _identidade_recepcao())
 

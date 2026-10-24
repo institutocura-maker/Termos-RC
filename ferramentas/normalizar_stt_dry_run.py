@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Gera cópias STT normalizadas sem nunca modificar uploads_recepcao/.
+"""Gera cópias STT normalizadas sem nunca modificar fontes/pilotos_historicos/.
 
 Este é deliberadamente um normalizador pequeno e fechado: aplica apenas as oito
 regras AUTOMÁTICA de diagnostico/TABELA-NORMALIZACAO-STT-2026-10-20.md.
@@ -30,7 +30,7 @@ from caminhos_acervo import caminho_atual
 
 
 RAIZ = Path(__file__).resolve().parent.parent
-ENTRADA = caminho_atual("fonte.recepcao")
+ENTRADA = caminho_atual("fonte.recepcao.pilotos_historicos")
 SAIDA_PADRAO = RAIZ / "normalizados_stt_dry_run"
 RELATORIO_PADRAO = RAIZ / "diagnostico" / "RELATORIO-NORMALIZACAO-STT-DRY-RUN-2026-10-20.md"
 TABELA = "diagnostico/TABELA-NORMALIZACAO-STT-2026-10-20.md"
@@ -172,7 +172,7 @@ def montar_readme(saida: Path, arquivos: list[Path], totais: Counter[str]) -> st
 
 > **Gerado por:** `ferramentas/normalizar_stt_dry_run.py`
 >
-> **Fontes brutas:** `uploads_recepcao/` (não modificadas)
+> **Fontes brutas:** `fontes/pilotos_historicos/` (não modificadas)
 >
 > **Tabela de regras:** `{TABELA}`
 
@@ -189,7 +189,7 @@ fronteira de palavra. Nenhuma regra `AUTOMÁTICA-CONTEXTO`, `REVISAR` ou
 
 - {len(arquivos)} cópias Markdown, uma por transcrição bruta;
 - relatório detalhado em `{RELATORIO_PADRAO.relative_to(RAIZ)}`;
-- nenhuma alteração nos arquivos sob `uploads_recepcao/`.
+- nenhuma alteração nos arquivos sob `fontes/pilotos_historicos/`.
 """
 
 
@@ -252,7 +252,7 @@ def montar_relatorio(
 
 ## Escopo e guarda
 
-Foram lidas as seis amostras Markdown de `uploads_recepcao/` e escritas cópias
+Foram lidas as seis amostras Markdown de `fontes/pilotos_historicos/` e escritas cópias
 em `normalizados_stt_dry_run/`. O processo usa apenas as oito regras
 **AUTOMÁTICA** da seção 2.1 da tabela. Ele não aplica `Sophia` por contexto,
 nem qualquer item de `REVISAR` ou `PRESERVAR / PENDENTE`.
@@ -260,7 +260,7 @@ nem qualquer item de `REVISAR` ou `PRESERVAR / PENDENTE`.
 - fontes brutas: **{len(arquivos)}**;
 - cópias derivadas: **{len(arquivos)}**;
 - substituições: **{len(mudancas)}**;
-- alteração em `uploads_recepcao/`: **0**;
+- alteração em `fontes/pilotos_historicos/`: **0**;
 - idempotência das cópias geradas: **conferida**.
 
 ## Censo por regra
@@ -315,7 +315,7 @@ def main() -> int:
 
     arquivos = obter_arquivos_entrada()
     if SAIDA_PADRAO.resolve() == ENTRADA.resolve():
-        raise RuntimeError("Saída não pode coincidir com uploads_recepcao/.")
+        raise RuntimeError("Saída não pode coincidir com fontes/pilotos_historicos/.")
     if SAIDA_PADRAO.exists() and not args.force:
         raise FileExistsError(
             f"Diretório de saída já existe: {SAIDA_PADRAO.relative_to(RAIZ)}/. "

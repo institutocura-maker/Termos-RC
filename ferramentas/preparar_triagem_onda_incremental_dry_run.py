@@ -9,7 +9,7 @@ A alocação é fechada pelo despacho do Curador:
 - P4, P5, P6 -> EXPERIENCIA_ESPIRITUAL_ETICA
 
 A entrada operacional são exclusivamente os seis derivados e manifestos de
-``onda_incremental_dry_run/``. O executor não abre ``uploads_recepcao/`` e não
+``onda_incremental_dry_run/``. O executor não abre ``fontes/pilotos_historicos/`` e não
 cria ciclos, fichas, termos, relações, apostilas ou alterações na Base.
 
 Uso:
@@ -771,7 +771,7 @@ def mapa_markdown(documentos: list[Documento], lotes: list[dict], gerado_em: str
 ## Guardas de escopo
 
 - a leitura operacional usou apenas os seis derivados normalizados e seus manifestos;
-- conteúdos em `uploads_recepcao/` abertos: **0**;
+- conteúdos em `fontes/pilotos_historicos/` abertos: **0**;
 - uso ou escrita no diretório histórico `normalizados_stt_dry_run/`: **0**;
 - ciclos, fichas, termos, relações, apostilas e mutações em `dados_termos.py`: **0**;
 - cada dossiê segue aguardando despacho humano antes de qualquer cotejo ampliado ou abertura de ciclo.
