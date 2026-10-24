@@ -5,10 +5,10 @@ nome = "Ao Vencedor as Batatas (paradigma do domínio)"
 categoria = "Conceitos Cosmológicos"
 subcategoria = "2.6 Ética / Carma / Compromissos"
 status = "verificado"
-fontes = ["P2021-03-27"]
+fontes = ["P2021-03-27", "OIDR26-01"]
 via = "P6-evidência"
 confianca_fonte = "média"
-atualizado = "2026-08-18"
+atualizado = "2026-10-23"
 +++
 # Ao Vencedor as Batatas (paradigma do domínio) — RC-764
 
@@ -36,10 +36,16 @@ atualizado = "2026-08-18"
 | Enlil (deus sumério, par de Enki) | RC-487 | relaciona-se-a |
 | Nefilins (= Anunnaki) | RC-488 | relaciona-se-a |
 
+## Ampliação — OIDR26-01 (Onda incremental dry-run — Anunnaki, genética e humanidade (derivados normalizados))
+
+- **[P1 · Ao Vencedor as Batatas (paradigma do domínio)]** «Então, o livro diz assim, ao perdedor a vergonha, a desonra da derrota e ao vencedor as batatas.» (U0071) — candidata de cotejo ampliado; evidência `OIDR26-01-RC-764-001`, grafia literal `ao vencedor as batatas`, sem homologação de pérola.
+
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| OIDR26-01 | Onda incremental dry-run — Anunnaki, genética e humanidade (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | P2021-03-27 | abertura; bloco 1 (Quincas Borba); bloco 3 (dinastias) | palestra/STT pré-curada |
 
 ## Citações-chave
@@ -52,4 +58,3 @@ atualizado = "2026-08-18"
 ## Observações
 
 Metáfora literária (Quincas Borba) adotada pelo autor como chave de leitura histórica — **registro doutrinário**, não teoria sociológica validada. A menção a "psicopatas" é **metáfora**, não terminologia clínica (quarentena clínica).
-

@@ -5,10 +5,10 @@ nome = "Pashupati (avatar de Shiva)"
 categoria = "Seres & Entidades"
 subcategoria = "1.3 Extraterrestres / Raças cósmicas"
 status = "verificado"
-fontes = ["P2026-02-28", "P2025-02-16", "P2024-09-28", "P2022-05-07", "P2018-12-16"]
+fontes = ["P2026-02-28", "P2025-02-16", "P2024-09-28", "P2022-05-07", "P2018-12-16", "OIDR26-02"]
 via = "P6-evidência"
 confianca_fonte = "média"
-atualizado = "2026-08-18"
+atualizado = "2026-10-23"
 +++
 # Pashupati — RC-669
 
@@ -34,7 +34,13 @@ P2026-02-28.
 ## Seres Associados
 Consultar Base.
 
+## Ampliação — OIDR26-02 (Onda incremental dry-run — Mitologias, tradições e reintegração (derivados normalizados))
+
+- **[P2 · Pashupati (avatar de Shiva)]** «Então, o senhor Shiva criou um senhor chamado Pashupati. E Pashupati gerou todos os animais que a gente conhece nesse universo vizinho, que depois.» (U0203) — candidata de cotejo ampliado; evidência `OIDR26-02-RC-669-001`, grafia literal `Pashupati`, sem homologação de pérola.
+
+
 ## Fontes
+OIDR26-02.
 P2018-12-16.
 P2022-05-07.
 P2026-02-28.

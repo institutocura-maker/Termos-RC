@@ -5,10 +5,10 @@ nome = "Chave da Decifração Universal"
 categoria = "Conceitos Cosmológicos"
 subcategoria = "2.5 Propósitos / Destinos"
 status = "verificado"
-fontes = ["P2025-06-14b"]
+fontes = ["P2025-06-14b", "STT26-SOCIEDADE_CONTEMPORANEA"]
 via = "P6-evidência"
 confianca_fonte = "média"
-atualizado = "2026-08-17"
+atualizado = "2026-10-22"
 +++
 # Chave da Decifração Universal — RC-754
 
@@ -37,10 +37,16 @@ Tema-título da palestra de 14/06/2025: a **finalidade/propósito evolutivo** da
 | Escola da Decifração da Realidade (Método Druídico) | RC-755 | relaciona-se-a |
 | Escola da Decifração da Realidade (Método Druídico) | RC-755 | ← relaciona-se-a |
 
+## Ampliação — STT26-SOCIEDADE_CONTEMPORANEA (Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados))
+
+- **[STT26-21 · Chave da Decifração Universal]** «Próximos dias, 14 e 15, em Florianópolis, estaremos fazendo a palestra sobre a consciência humana e a chave da decifração universal.» (U6306 · chars 1046628–1046760) — Candidata de cotejo; evidência `STT26-21-RC-754-001`, grafia encontrada `chave da decifração universal`; decisão por lote `STT26-21: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| STT26-SOCIEDADE_CONTEMPORANEA | Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | P2025-06-14b | abertura e blocos finais (chave; Pitágoras/Protágoras; escola da decifração) | palestra/STT pré-curada |
 
 ## Citações-chave

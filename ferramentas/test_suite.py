@@ -25,6 +25,8 @@ Checks:
   T15 molde motor.fm_toml == frontmatter das fichas (P7 retomado — U25)
 """
 import csv
+import hashlib
+import importlib.util
 import glob as _glob
 import io
 import json
@@ -33,12 +35,15 @@ import re
 import subprocess
 import sys
 import unittest
+from pathlib import Path
 
 FER = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(FER)
 sys.path.insert(0, FER)
 import dados_termos as d  # noqa: E402
+from caminhos_acervo import caminho_atual  # noqa: E402
 
+LIVROS = os.fspath(caminho_atual("fonte.livros"))
 BASELINE = os.path.join(FER, "test_baseline.json")
 LAPIDES_F045 = {"RC-449", "RC-872", "RC-936"}  # 2.1B: exceção histórica sancionada
 EMOJI = {"candidato": "⚪", "provisório": "🟡", "em análise": "🟠",
@@ -206,14 +211,15 @@ class TestBase(unittest.TestCase):
 
     def test_T8_sem_fantasma(self):
         dirsB, dirsP = set(), set()
-        for base in ("livros/CONCLUIDOS", "livros/AMOSTRAS"):
-            bp = os.path.join(ROOT, base)
+        for base in (os.path.join(LIVROS, "CONCLUIDOS"),
+                     os.path.join(LIVROS, "AMOSTRAS")):
+            bp = base
             if os.path.isdir(bp):
                 for dd in os.listdir(bp):
                     m = re.match(r"(B\d{3})", dd)
                     if m:
                         dirsB.add(m.group(1))
-        for base in ("apostilas/CONCLUIDAS", "ciclos"):
+        for base in ("fontes/apostilas", "ciclos"):
             bp = os.path.join(ROOT, base)
             for dd in os.listdir(bp):
                 m = re.search(r"P?(\d{4}-\d{2}-\d{2})", dd)
@@ -415,6 +421,76 @@ class TestParser(unittest.TestCase):
                 assert_template_count(path, 12)
         finally:
             os.unlink(path)
+
+
+RECEPCAO = caminho_atual("fonte.recepcao")
+APOSTILAS_CONCLUIDAS = caminho_atual("fonte.apostilas_concluidas")
+ROTAS_IMUTAVEIS_R3 = (
+    "fonte.recepcao",
+    "evidencia.recepcao.logs",
+    "evidencia.recepcao.documentos",
+    "fonte.recepcao.docx_originais",
+    "fonte.recepcao.pilotos_historicos",
+    "fonte.recepcao.stt_lote_2026_10",
+)
+CONSUMIDORES_RECEPCAO = (
+    ("diagnostico/medir_processo.py", "RECEPCAO", "fonte.recepcao", Path()),
+    ("ferramentas/aplicar_decisao_curador_a5.py", "DECISAO", "evidencia.recepcao.logs", Path("U93-U94-id-decisao.txt")),
+    ("ferramentas/normalizar_onda_incremental_dry_run.py", "ENTRADA", "fonte.recepcao.pilotos_historicos", Path()),
+    ("ferramentas/normalizar_stt_dry_run.py", "ENTRADA", "fonte.recepcao.pilotos_historicos", Path()),
+    ("ferramentas/normalizar_stt_lote_2026_10.py", "FONTE", "fonte.recepcao.stt_lote_2026_10", Path()),
+    ("ferramentas/fase0_ingestao_stt_lote_2026_10.py", "FONTE_STT_BRUTA", "fonte.recepcao.stt_lote_2026_10", Path()),
+)
+
+
+def _carregar_consumidor_recepcao(relativo):
+    """Carrega um consumidor sem executar seu ponto de entrada."""
+    caminho = Path(ROOT) / relativo
+    spec = importlib.util.spec_from_file_location(
+        "teste_recepcao_" + caminho.stem, caminho
+    )
+    modulo = importlib.util.module_from_spec(spec)
+    assert spec.loader is not None
+    # Decoradores como @dataclass consultam sys.modules durante a importação.
+    sys.modules[spec.name] = modulo
+    try:
+        spec.loader.exec_module(modulo)
+    except Exception:
+        sys.modules.pop(spec.name, None)
+        raise
+    return modulo
+
+
+def _identidade_recepcao():
+    """Inventário byte a byte das rotas imutáveis da recepção pós-R3."""
+    identidade = {}
+    for chave in ROTAS_IMUTAVEIS_R3:
+        raiz = caminho_atual(chave)
+        for arquivo in sorted(raiz.rglob("*")):
+            if arquivo.is_file():
+                h = hashlib.sha256(arquivo.read_bytes()).hexdigest()
+                chave_arquivo = f"{chave}:{arquivo.relative_to(raiz).as_posix()}"
+                identidade[chave_arquivo] = (arquivo.stat().st_size, h)
+    return identidade
+
+
+class TestRecepcaoR1(unittest.TestCase):
+    def test_T16_consumidores_usam_rota_mapeada(self):
+        self.assertEqual(RECEPCAO, Path(ROOT) / "uploads_recepcao")
+        self.assertEqual(APOSTILAS_CONCLUIDAS, Path(ROOT) / "fontes" / "apostilas")
+        self.assertFalse((Path(ROOT) / "apostilas" / "CONCLUIDAS").exists())
+        for relativo, atributo, chave, sufixo in CONSUMIDORES_RECEPCAO:
+            modulo = _carregar_consumidor_recepcao(relativo)
+            self.assertEqual(
+                Path(getattr(modulo, atributo)), caminho_atual(chave) / sufixo,
+                f"{relativo}:{atributo} não resolve pela rota canônica {chave}",
+            )
+
+    def test_T17_importar_consumidores_nao_toca_recepcao(self):
+        antes = _identidade_recepcao()
+        for relativo, _, _, _ in CONSUMIDORES_RECEPCAO:
+            _carregar_consumidor_recepcao(relativo)
+        self.assertEqual(antes, _identidade_recepcao())
 
 
 if __name__ == "__main__":

@@ -5,10 +5,10 @@ nome = "Nag Hammadi (a biblioteca egípcia onde em 1945 foi encontrada a cópia 
 categoria = "Tecnologias & Artefatos"
 subcategoria = "5.4 Escrituras / Objetos documentais"
 status = "verificado"
-fontes = ["P2022-09-17", "P2023-12-25-04"]
+fontes = ["P2022-09-17", "P2023-12-25-04", "STT26-SOCIEDADE_CONTEMPORANEA"]
 via = "P6-evidência"
 confianca_fonte = "média"
-atualizado = "2026-09-06"
+atualizado = "2026-10-22"
 +++
 # NAG HAMMADI — RC-887
 
@@ -40,9 +40,15 @@ O curso usa Nag Hammadi como **marco físico-histórico da recuperação da reve
 - Gnose / revelação gnóstica — RC-474;
 - Bibliotecas / escrita — RC-530.
 
+## Ampliação — STT26-SOCIEDADE_CONTEMPORANEA (Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados))
+
+- **[STT26-22 · Nag Hammadi (a biblioteca egípcia onde em 1945 foi encontrada a cópia copta da Hipóstase dos Arcontes — STT Naghama; marco físico e histórico da recuperação da revelação gnóstica original)]** «Quando souberam que os soldados estavam chegando, eles esconderam lá numa caverna. Essa caverna foi em que, em 1945, em Nag Hammadi, dois beduínos encontraram esses livros.» (U7896 · chars 1295603–1295775) — Candidata de cotejo; evidência `STT26-22-RC-887-001`, grafia encontrada `Nag Hammadi`; decisão por lote `STT26-22: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
+| STT26-SOCIEDADE_CONTEMPORANEA | Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | P2022-09-17 | (obra/palestra sobre a revelação gnóstica) | — |
 | P2023-12-25-04 | Aula 04 — O Nascimento do Cristianismo | transcrição |
 

@@ -1,0 +1,444 @@
+{
+  "artefato": "Extração literal e DOSSIE-RAG para avaliação curatorial",
+  "ciclo": "OIDR26-02",
+  "eixo": "MITOLOGIAS_REINTEGRACAO",
+  "executor": "ferramentas/extrair_dossie_oidr26_01.py",
+  "autorizacao_extracao": "onda_incremental_dry_run/triagem_curatorial/DESPACHO-CURATORIAL-POUSO-OIDR26-01-E-EXTRACAO-OIDR26-02-2026-10-22.json",
+  "sha256_autorizacao_extracao": "7d69d1ee051b120571de7870fdf7ff0c9ea307cae0a6492fb8fdb0c57ab55194",
+  "fontes": {
+    "candidatos": "onda_incremental_dry_run/triagem_curatorial/OIDR26-02/candidatos-cotejo.json",
+    "despacho": "onda_incremental_dry_run/triagem_curatorial/OIDR26-02/DESPACHO-CURATORIAL-TEMPLATE.json"
+  },
+  "sha256_fontes": {
+    "candidatos": "61c23741e0849deb69e2f2199c3e290790c57acc5b34797cdecd812b3abbe174",
+    "despacho": "ad0105c98ce7a40689baaaa28287f5e0ae1116a072ac80ebd99c155108f47818"
+  },
+  "candidatas": 25,
+  "status": "candidata",
+  "perolas_aprovadas": 0,
+  "exportacao_rag": 0,
+  "materializacao": 0,
+  "mutacao_base": 0,
+  "recortes": [
+    {
+      "codigo": "RC-072",
+      "nome": "Jesus",
+      "evidencia_id": "OIDR26-02-RC-072-001",
+      "ingresso_id": "P2",
+      "unidade_triagem": "U00085",
+      "unidade_motor": "U0099",
+      "grafia": "Jesus",
+      "ancora_literal": "er Para em seguida podermos falar de Cristo, Jesus, Saibaba E outros desdobramentos de Deus Por",
+      "aspa": "Aí estes avatares nasciam ou surgiam aqui Ou alguns deles nasciam e surgiam nesse universo vizinho Mas vinham para cá porque estes podiam se deslocar para cá Este é o primeiro quadro que a gente tem que compreender Para em seguida podermos falar de Cristo, Jesus, Saibaba E outros desdobramentos de Deus Por quê?",
+      "chars": [
+        11354,
+        11666
+      ],
+      "sha256_aspa": "e843c649e3da11f49cc4774e153c3225b9202b31073aa730b80f7fa31ac0613c"
+    },
+    {
+      "codigo": "RC-037",
+      "nome": "Brahma (Brajna)",
+      "evidencia_id": "OIDR26-02-RC-037-001",
+      "ingresso_id": "P2",
+      "unidade_triagem": "U00081",
+      "unidade_motor": "U0095",
+      "grafia": "Brahma",
+      "ancora_literal": "usando os termos da mitologia ariana hindu, Brahma, Vishnu, Shiva, esses seres jamais saíram de",
+      "aspa": "Porque a primeira geração, Khaos, Tarta, Eros, blá, blá, blá, na mitologia grega, vamos chamar agora, usando os termos da mitologia ariana hindu, Brahma, Vishnu, Shiva, esses seres jamais saíram desse universo divino.",
+      "chars": [
+        10011,
+        10229
+      ],
+      "sha256_aspa": "81d770f1f9a95d70b4238da38a1a8d46bd781a3ea7dbbd2b527f8f98aeafba44"
+    },
+    {
+      "codigo": "RC-102",
+      "nome": "Shiva (Savna)",
+      "evidencia_id": "OIDR26-02-RC-102-001",
+      "ingresso_id": "P2",
+      "unidade_triagem": "U00081",
+      "unidade_motor": "U0095",
+      "grafia": "Shiva",
+      "ancora_literal": "s da mitologia ariana hindu, Brahma, Vishnu, Shiva, esses seres jamais saíram desse universo di",
+      "aspa": "Porque a primeira geração, Khaos, Tarta, Eros, blá, blá, blá, na mitologia grega, vamos chamar agora, usando os termos da mitologia ariana hindu, Brahma, Vishnu, Shiva, esses seres jamais saíram desse universo divino.",
+      "chars": [
+        10011,
+        10229
+      ],
+      "sha256_aspa": "81d770f1f9a95d70b4238da38a1a8d46bd781a3ea7dbbd2b527f8f98aeafba44"
+    },
+    {
+      "codigo": "RC-414",
+      "nome": "Krishna (avatar de Vishnu/Shiva)",
+      "evidencia_id": "OIDR26-02-RC-414-001",
+      "ingresso_id": "P2",
+      "unidade_triagem": "U00105",
+      "unidade_motor": "U0119",
+      "grafia": "Krishna",
+      "ancora_literal": "caudatas, e Arjuna era frigo dos pândalas. E Krishna disse, olha, todos esses conceitos e emoções",
+      "aspa": "E Arjuna não queria ir para a guerra matar os primos, não queria ir para a guerra matar os mestres que o haviam ensinado a lutar e que agora estavam com os turus, os caudatas, e Arjuna era frigo dos pândalas. E Krishna disse, olha, todos esses conceitos e emoções que você tem, que estão inibindo a sua vontade de ir para a guerra são inferiores à obrigação que você tem.",
+      "chars": [
+        16342,
+        16714
+      ],
+      "sha256_aspa": "b6a216747b5c7be1c40efde314338d15dd844ba614e3313ef67766b0caf4fa90"
+    },
+    {
+      "codigo": "RC-135",
+      "nome": "Vishnu (Mavatna)",
+      "evidencia_id": "OIDR26-02-RC-135-001",
+      "ingresso_id": "P2",
+      "unidade_triagem": "U00081",
+      "unidade_motor": "U0095",
+      "grafia": "Vishnu",
+      "ancora_literal": "os termos da mitologia ariana hindu, Brahma, Vishnu, Shiva, esses seres jamais saíram desse univ",
+      "aspa": "Porque a primeira geração, Khaos, Tarta, Eros, blá, blá, blá, na mitologia grega, vamos chamar agora, usando os termos da mitologia ariana hindu, Brahma, Vishnu, Shiva, esses seres jamais saíram desse universo divino.",
+      "chars": [
+        10011,
+        10229
+      ],
+      "sha256_aspa": "81d770f1f9a95d70b4238da38a1a8d46bd781a3ea7dbbd2b527f8f98aeafba44"
+    },
+    {
+      "codigo": "RC-104",
+      "nome": "Trimurti",
+      "evidencia_id": "OIDR26-02-RC-104-001",
+      "ingresso_id": "P2",
+      "unidade_triagem": "U00367",
+      "unidade_motor": "U0381",
+      "grafia": "Trimurti",
+      "ancora_literal": "A Trimurti que havia criado Sofia como sendo representa",
+      "aspa": "A Trimurti que havia criado Sofia como sendo representante da Trimurti e herdeiro das épocas porque era o único ser condenado à Trimurti título de preposto nesse universo biológico.",
+      "chars": [
+        53586,
+        53767
+      ],
+      "sha256_aspa": "8cc8e0edb73b37d06b00becfcf9d77daeac5e9d7b347d405468ac49f71831fa7"
+    },
+    {
+      "codigo": "RC-942",
+      "nome": "Messias",
+      "evidencia_id": "OIDR26-02-RC-942-001",
+      "ingresso_id": "P2",
+      "unidade_triagem": "U00137",
+      "unidade_motor": "U0151",
+      "grafia": "Messias",
+      "ancora_literal": "mundo A sua agenda Dizendo que vai mandar O Messias seu No segmento Populacional descendente De",
+      "aspa": "Houve um problema com Enoch, que o plano de Javé de ter um humano que o representasse foi para o espaço, aí Virgium disse, ei, já que através de Enoch, O filho dele, Matusalém Você anunciou ao mundo A sua agenda Dizendo que vai mandar O Messias seu No segmento Populacional descendente De Enoque Que passou a ser Matusalém, Lameque, Noé Shema, Fatsad Salé, blá blá blá Abraão, Isaac, Jacó Maria, Jesus Ou seja, Jesus nasceu nesse desdobramento Aí viram disse, já que o problema com o Enoque você não vai resolver, eu, Vishnu, me ofereço para produzir um avatar seu.",
+      "chars": [
+        21680,
+        22245
+      ],
+      "sha256_aspa": "27bb0509890d6e3677cc799c0385b092232f995836c2a8ad95082ef08f7a2258"
+    },
+    {
+      "codigo": "RC-094",
+      "nome": "Revelação Cósmica (conceito)",
+      "evidencia_id": "OIDR26-02-RC-094-001",
+      "ingresso_id": "P2",
+      "unidade_triagem": "U00705",
+      "unidade_motor": "U0719",
+      "grafia": "revelação cósmica",
+      "ancora_literal": "se discreta e estratégica aos postulados da revelação cósmica como maneira de encerrar a linhagem de Crist",
+      "aspa": "Saibaba no seu estado atual alinha-se discreta e estratégica aos postulados da revelação cósmica como maneira de encerrar a linhagem de Cristo de maneira pacífica via prima sai, que é o próximo avançado de Cristo, ofertando a sua concordância relativa ao inevitável cumprimento da função de Sofia, assessorada pelo quarto logo, que são as figuras que estão também por trás da mulher.",
+      "chars": [
+        111749,
+        112133
+      ],
+      "sha256_aspa": "d7aee25c47de22d220107ee063055dcad153c9c752064368a0990d5127b56418"
+    },
+    {
+      "codigo": "RC-225",
+      "nome": "Gestão Cósmica",
+      "evidencia_id": "OIDR26-02-RC-225-001",
+      "ingresso_id": "P2",
+      "unidade_triagem": "U00355",
+      "unidade_motor": "U0369",
+      "grafia": "gestão cósmica",
+      "ancora_literal": "Cristo começou a emparelhar a gestão cósmica com a presença de seus avatares. Os bolsonar",
+      "aspa": "Cristo começou a emparelhar a gestão cósmica com a presença de seus avatares. Os bolsonaristas acusavam Lula de ter emparelhado o governo com um monte de malucos de esquerda, de índios, da Bolívia, da Colômbia, da Lula.",
+      "chars": [
+        51487,
+        51706
+      ],
+      "sha256_aspa": "d84b05b4ad7b871e1883549df8a9fbfae8c4479beb5332aa777e001a0dbf7b85"
+    },
+    {
+      "codigo": "RC-593",
+      "nome": "Mahabharata",
+      "evidencia_id": "OIDR26-02-RC-593-001",
+      "ingresso_id": "P2",
+      "unidade_triagem": "U00105",
+      "unidade_motor": "U0119",
+      "grafia": "Mahabharata",
+      "ancora_literal": "so que no Bhagavad Gita, um dos capítulos do Mahabharata, o Senhor Cristo explica a Arjuna o conceito",
+      "aspa": "E é isso que no Bhagavad Gita, um dos capítulos do Mahabharata, o Senhor Cristo explica a Arjuna o conceito de Dharma, porque Arjuna não queria ir para a guerra contra os seus primos, porque antes do Dharma surgir, existia um outro conceito, que a gente vai falar sobre isso, mas quando eu for aprofundar.",
+      "chars": [
+        16037,
+        16342
+      ],
+      "sha256_aspa": "50797af93cace0ab2879bb8df660231d121c3eda45fe2ba1068b0632748ec534"
+    },
+    {
+      "codigo": "RC-669",
+      "nome": "Pashupati (avatar de Shiva)",
+      "evidencia_id": "OIDR26-02-RC-669-001",
+      "ingresso_id": "P2",
+      "unidade_triagem": "U00189",
+      "unidade_motor": "U0203",
+      "grafia": "Pashupati",
+      "ancora_literal": "ntão, o senhor Shiva criou um senhor chamado Pashupati. E Pashupati gerou todos os animais que a ge",
+      "aspa": "Então, o senhor Shiva criou um senhor chamado Pashupati. E Pashupati gerou todos os animais que a gente conhece nesse universo vizinho, que depois.",
+      "chars": [
+        29183,
+        29330
+      ],
+      "sha256_aspa": "d23f7bfa3d423f16e4cce9f6b67229c0bb10c4cecc25fcd4191b826681f327c8"
+    },
+    {
+      "codigo": "RC-841",
+      "nome": "Cronos (titã)",
+      "evidencia_id": "OIDR26-02-RC-841-001",
+      "ingresso_id": "P2",
+      "unidade_triagem": "U00069",
+      "unidade_motor": "U0083",
+      "grafia": "cronos",
+      "ancora_literal": "a mitologia grega diz que surge a geração de cronos, os titãs",
+      "aspa": "Depois, a mitologia grega diz que surge a geração de cronos, os titãs.",
+      "chars": [
+        8959,
+        9030
+      ],
+      "sha256_aspa": "613c76f04e1d47378bc82562198a32bacd347b4f1180ad0b34f30e7700a74266"
+    },
+    {
+      "codigo": "RC-254",
+      "nome": "Dominação (premissa dos Três Primeiros Logos)",
+      "evidencia_id": "OIDR26-02-RC-254-001",
+      "ingresso_id": "P2",
+      "unidade_triagem": "U00121",
+      "unidade_motor": "U0135",
+      "grafia": "dominação",
+      "ancora_literal": "Shiva resolve fincar a sua trincheira para a dominação da Terra e de certas áreas da Terra e dos se",
+      "aspa": "Nesse tempo, Shiva resolve fincar a sua trincheira para a dominação da Terra e de certas áreas da Terra e dos seres híbridos que então existiam e dos humanos que eram tratados como animais de estimação desses seres híbridos, os humanos menos espertos, e outros humanos já mais espertos que nessa época existiam, Shiva escolheu o sul da Índia, num tempo em que, para além do continente indiano, descendo, existia o continente da Lemúria, ou a terra de Bhul, ou a tradição Kumari Kandan.",
+      "chars": [
+        19019,
+        19505
+      ],
+      "sha256_aspa": "8b701a76328b15900455f05e4b1082255d30a32fbefd7157467a5b84a62037b5"
+    },
+    {
+      "codigo": "RC-301",
+      "nome": "Prometeu (titã)",
+      "evidencia_id": "OIDR26-02-RC-301-001",
+      "ingresso_id": "P2",
+      "unidade_triagem": "U00199",
+      "unidade_motor": "U0213",
+      "grafia": "prometeu",
+      "ancora_literal": "premo e Ele cumpre exatamente tudo o que Ele prometeu",
+      "aspa": "Mas Cristo se estabeleceu como o Senhor Supremo e Ele cumpre exatamente tudo o que Ele prometeu.",
+      "chars": [
+        31802,
+        31899
+      ],
+      "sha256_aspa": "67d0345202bbe477cd7c5bb1b8084e073dfc6f9ff1cae840f4ab15857068f824"
+    },
+    {
+      "codigo": "RC-489",
+      "nome": "Enoque (sétimo patriarca; levado por Javé)",
+      "evidencia_id": "OIDR26-02-RC-489-001",
+      "ingresso_id": "P2",
+      "unidade_triagem": "U00137",
+      "unidade_motor": "U0151",
+      "grafia": "Enoque",
+      "ancora_literal": "seu No segmento Populacional descendente De Enoque Que passou a ser Matusalém, Lameque, Noé She",
+      "aspa": "Houve um problema com Enoch, que o plano de Javé de ter um humano que o representasse foi para o espaço, aí Virgium disse, ei, já que através de Enoch, O filho dele, Matusalém Você anunciou ao mundo A sua agenda Dizendo que vai mandar O Messias seu No segmento Populacional descendente De Enoque Que passou a ser Matusalém, Lameque, Noé Shema, Fatsad Salé, blá blá blá Abraão, Isaac, Jacó Maria, Jesus Ou seja, Jesus nasceu nesse desdobramento Aí viram disse, já que o problema com o Enoque você não vai resolver, eu, Vishnu, me ofereço para produzir um avatar seu.",
+      "chars": [
+        21680,
+        22245
+      ],
+      "sha256_aspa": "27bb0509890d6e3677cc799c0385b092232f995836c2a8ad95082ef08f7a2258"
+    },
+    {
+      "codigo": "RC-696",
+      "nome": "Geração Regenerada de Brahma",
+      "evidencia_id": "OIDR26-02-RC-696-001",
+      "ingresso_id": "P2",
+      "unidade_triagem": "U00095",
+      "unidade_motor": "U0109",
+      "grafia": "geração regenerada de Brahma",
+      "ancora_literal": "descendente de Marit, um dos seis rishis da geração regenerada de Brahma, esse ser criou o conceito de Dharma, signif",
+      "aspa": "O Dharma surgiu para os seres híbridos e para os seres demoníacos desse universo todo, quando um ser chamado Kshivako, descendente de Daksha, descendente de Kasyapa, descendente de Marit, um dos seis rishis da geração regenerada de Brahma, esse ser criou o conceito de Dharma, significando como sendo de honra.",
+      "chars": [
+        13661,
+        13971
+      ],
+      "sha256_aspa": "8b3deb4db1b2c07120fe1c3f27ee4102710b38ff90054adf38c3b9a04a46368f"
+    },
+    {
+      "codigo": "RC-749",
+      "nome": "Vício Devocional",
+      "evidencia_id": "OIDR26-02-RC-749-001",
+      "ingresso_id": "P2",
+      "unidade_triagem": "U00185",
+      "unidade_motor": "U0199",
+      "grafia": "vício devocional",
+      "ancora_literal": "Cristo criou no DNA híbrido e humano o vício devocional. Cristo começou a criar uma série de procedi",
+      "aspa": "Cristo criou no DNA híbrido e humano o vício devocional. Cristo começou a criar uma série de procedimentos.",
+      "chars": [
+        27987,
+        28094
+      ],
+      "sha256_aspa": "83e15a7b2abded647b6eb83fdcab6a4022c06a3d917e4fb28fa0872fa5de036f"
+    },
+    {
+      "codigo": "RC-061",
+      "nome": "Espiritualidade Laboratorial",
+      "evidencia_id": "OIDR26-02-RC-061-001",
+      "ingresso_id": "P2",
+      "unidade_triagem": "U00447",
+      "unidade_motor": "U0461",
+      "grafia": "espiritualidade laboratorial",
+      "ancora_literal": "a mais ainda dentro outro colapso E surgiu a espiritualidade laboratorial",
+      "aspa": "Se eu pudesse brincar, eu diria, se existir uma roda gigante bem grande aqui, qualquer ser que entre nessa roda gigante, mesmo que ela seja muito alta, quando esse ser estiver aqui ele vai continuar sentindo aquele contentamento permanente maravilhoso que é ser perfeito mas se você pegar essa roda gigante e armar nessa espiritualidade tradicional quando ele for entrar nela, quando chegar lá ensina ele, isso aqui cai no paraíso não tem como ele ter protocolos de se isso aqui cair porque lá tudo é 100% perfeito mas aqui as coisas já podem eu estou usando as palavras que eu posso para tentar mostrar a vocês um pouco do que a gente pode compreender sobre isso aí a baianada vem toda pra cá a riobaiã e se a gente tivesse um pouquinho mais de emoção nessa história aí criaram, desde o que já estava criado lá dentro, criaram para mais ainda dentro outro colapso E surgiu a espiritualidade laboratorial.",
+      "chars": [
+        67888,
+        68793
+      ],
+      "sha256_aspa": "a73fc32ae0395a1040e5a071a5c635c1604c000f6226cc65d36ee63afa9f3f3e"
+    },
+    {
+      "codigo": "RC-106",
+      "nome": "Universo Antimaterial (Brahmaloka / Universo Paralelo)",
+      "evidencia_id": "OIDR26-02-RC-106-001",
+      "ingresso_id": "P2",
+      "unidade_triagem": "U00061",
+      "unidade_motor": "U0075",
+      "grafia": "universo antimaterial",
+      "ancora_literal": "essa primeira geração de seres que vivem num universo antimaterial, gênero, vizinho, paralelo a este nosso univ",
+      "aspa": "E então essa primeira geração de seres que vivem num universo antimaterial, gênero, vizinho, paralelo a este nosso universo material.",
+      "chars": [
+        7840,
+        7973
+      ],
+      "sha256_aspa": "7d777fc98043a55e9f63e25aa71549ac687c19825993fd53331e9aa4d8cda84a"
+    },
+    {
+      "codigo": "RC-162",
+      "nome": "Elétrons (agente básico da vida universal)",
+      "evidencia_id": "OIDR26-02-RC-162-001",
+      "ingresso_id": "P2",
+      "unidade_triagem": "U00467",
+      "unidade_motor": "U0481",
+      "grafia": "elétrons",
+      "ancora_literal": "e se despedaçou e o que a gente entende como elétrons desse universo e anti-elétrons opósitos no u",
+      "aspa": "Então, em tese, tudo que existe aqui dentro desses dois universos gêmeos que surgiram na hora da queda do Criador existe porque aqui dentro o corpo manásico dele se despedaçou e o que a gente entende como elétrons desse universo e anti-elétrons opósitos no universo vizinho correspondem exatamente ao corpo manásico desse ser despedaçado então o eu dele a sensação do eu manásico dele caiu o corpo monásico em pedaços, surgiu dois universos, foi necessário criar uma erraticidade, ou seja, uma espiritualidade que passou a existir aqui dentro.",
+      "chars": [
+        71848,
+        72392
+      ],
+      "sha256_aspa": "9ce9d498970981d6754c68dcc787477f2fbd5c70a48d1f1ce9bedde29854ea15"
+    },
+    {
+      "codigo": "RC-239",
+      "nome": "Hitler (figura histórica no RC)",
+      "evidencia_id": "OIDR26-02-RC-239-001",
+      "ingresso_id": "P2",
+      "unidade_triagem": "U00601",
+      "unidade_motor": "U0615",
+      "grafia": "Hitler",
+      "ancora_literal": "quer ser mais católico que o Papa, junto de Hitler, tinha malucos que eram mais doidos do que H",
+      "aspa": "Aí Cristian não aceitava, e sempre junto do Papa, tem gente que quer ser mais católico que o Papa, junto de Hitler, tinha malucos que eram mais doidos do que Hitler junto de Bolsonaro e de Lula tem gente que é mais neolista e bolsonarista do que eles próprios sempre no meio da contagem dos cadáveres tem gente mais maluca do que aquele que no seu aquele processo e uma turma ao redor de Cristo nunca aceitou essa história e a coisa continua meio pendente de resolução nesse nível da aristocracia primurtiano, demodármica.",
+      "chars": [
+        94225,
+        94748
+      ],
+      "sha256_aspa": "078c2984dc904129b4894b8b1309313baa7162c37f7b582c7798055f528e29f6"
+    },
+    {
+      "codigo": "RC-024",
+      "nome": "Anunnaki",
+      "evidencia_id": "OIDR26-02-RC-024-001",
+      "ingresso_id": "P2",
+      "unidade_triagem": "U00091",
+      "unidade_motor": "U0105",
+      "grafia": "Anunnaki",
+      "ancora_literal": "entre aspas, obrigada a ter relações com um Anunnaki, um ijiji, um ser de fora, seja lá quem foss",
+      "aspa": "Mas uma mulher que era, entre aspas, obrigada a ter relações com um Anunnaki, um ijiji, um ser de fora, seja lá quem fosse, Zeus, esse ser que nascia dessa relação, parte da herança genética dele era humana, a outra parte não era.",
+      "chars": [
+        13219,
+        13449
+      ],
+      "sha256_aspa": "529a9bf5a1b6a08663353c200404112fff71ef3e57745c38634457ec65a6d961"
+    },
+    {
+      "codigo": "RC-034",
+      "nome": "Big Bang",
+      "evidencia_id": "OIDR26-02-RC-034-001",
+      "ingresso_id": "P2",
+      "unidade_triagem": "U00063",
+      "unidade_motor": "U0077",
+      "grafia": "Big Bang",
+      "ancora_literal": "Os dois surgiram na explosão do Big Bang. A própria ciência, hoje em dia, já atesta",
+      "aspa": "Os dois surgiram na explosão do Big Bang. A própria ciência, hoje em dia, já atesta, já constata, já afirma a existência de um universo gênio, tanto paralelo onde o tempo lá foi para o outro lado.",
+      "chars": [
+        7975,
+        8171
+      ],
+      "sha256_aspa": "6d6467c9894dda9f78d7db22223a9b084b0ed785bdf60db6d024ef19592c1f9c"
+    },
+    {
+      "codigo": "RC-059",
+      "nome": "Espiritualidade Superior",
+      "evidencia_id": "OIDR26-02-RC-059-001",
+      "ingresso_id": "P2",
+      "unidade_triagem": "U00423",
+      "unidade_motor": "U0437",
+      "grafia": "espiritualidade superior",
+      "ancora_literal": "antes desse universo existir, já existia uma espiritualidade superior, pré-existente, incriada",
+      "aspa": "ou falando de forma diferente, os Espíritos disseram, antes desse universo existir, já existia uma espiritualidade superior, pré-existente, incriada.",
+      "chars": [
+        63773,
+        63923
+      ],
+      "sha256_aspa": "65cffb140b7089d5a2c01be631de8b1daa3616afeb3ed143b146e246b5fda475"
+    },
+    {
+      "codigo": "RC-073",
+      "nome": "Keshava",
+      "evidencia_id": "OIDR26-02-RC-073-001",
+      "ingresso_id": "P2",
+      "unidade_triagem": "U00159",
+      "unidade_motor": "U0173",
+      "grafia": "Keshava",
+      "ancora_literal": "solveram começar a conduzir avatares do tipo Keshava",
+      "aspa": "Os raksasas começaram a dominar todos os quadrantes, e isso uniu esses três seres, e eles resolveram começar a conduzir avatares do tipo Keshava.",
+      "chars": [
+        25066,
+        25211
+      ],
+      "sha256_aspa": "0d2cbc55db139e9107d4ba5356f837e74814da799005953116fc928efba01747"
+    }
+  ],
+  "produtos": {
+    "pacote": {
+      "caminho": "ciclos/OIDR26-02/pacote_OIDR26-02.txt",
+      "sha256": "ef317ffa59ea122df543678fbab07159708590d3a8430464ac779d97ee2bf428"
+    },
+    "ancorario": {
+      "caminho": "ciclos/OIDR26-02/ancorario_OIDR26-02.json",
+      "sha256": "83a4006e0d5e6152c0c72c8fdb99e75891f3e26d2bea99fbd37f531c3a47cfc4"
+    },
+    "dossie": {
+      "caminho": "ciclos/OIDR26-02/DOSSIE-RAG_OIDR26-02.md",
+      "sha256": "448db40ca6fa8f29826c3e563c786e7cd157365672dbfb7e13867bf046308766"
+    }
+  },
+  "portoes_executados_pos_extracao": [
+    "A",
+    "B",
+    "D"
+  ],
+  "portao_c": "validado no ambiente vazio pré-cotejo; requer paridade ficha-pacote somente após autorização de pouso"
+}

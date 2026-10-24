@@ -5,10 +5,10 @@ nome = "Anunnaki"
 categoria = "Seres & Entidades"
 subcategoria = "1.3 Extraterrestres / Raças cósmicas"
 status = "verificado"
-fontes = ["B031", "B017", "B018", "B023", "B015", "P2022-12-17", "P2025-02-16", "P2024-11-30", "P2024-11-09", "P2024-04-13", "P2023-12-02", "P2021-03-27", "B089", "P2023-05-20", "P2023-04-01", "P2024-11-03", "P2021-05-15", "P2023-10-14", "P2023-12-03", "P2022-05-07", "P2017-10-14"]
+fontes = ["B031", "B017", "B018", "B023", "B015", "P2022-12-17", "P2025-02-16", "P2024-11-30", "P2024-11-09", "P2024-04-13", "P2023-12-02", "P2021-03-27", "B089", "P2023-05-20", "P2023-04-01", "P2024-11-03", "P2021-05-15", "P2023-10-14", "P2023-12-03", "P2022-05-07", "P2017-10-14", "STT26-EXTRATERRESTRES_TECNOLOGIA", "STT26-SOCIEDADE_CONTEMPORANEA", "OIDR26-01", "OIDR26-02", "OIDR26-04"]
 via = "P6-evidência"
 confianca_fonte = "alta"
-atualizado = "2026-09-12"
+atualizado = "2026-10-23"
 +++
 # Anunnaki — RC-024
 
@@ -184,3 +184,23 @@ Na RC, os "deuses" da antiga Suméria: seres biológicos de **Nibiru** (RC-589) 
 ---
 ---
 ---
+
+## Ampliação — STT26-EXTRATERRESTRES_TECNOLOGIA (Eixo STT26 — Extraterrestres, tecnologia e cosmos (derivados normalizados))
+
+- **[STT26-07 · Anunnaki]** «Então o processo colonizador, seja lá de quem foi, astronomos, o que seja, Anunnaki, tudo começava aqui no norte.» (U0856 · chars 127092–127205) — Pérola homologada pelo Curador em 22/10/2026; corte literal conferido pelo Motor antes do pouso na Base.
+
+## Ampliação — STT26-SOCIEDADE_CONTEMPORANEA (Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados))
+
+- **[STT26-20 · Anunnaki]** «E qual é a explicação que os sumérios deram nas suas próprias tábuas de argílio? Isso, que foram os Anunnaki que vieram de fora, que disseram a eles, sumérios, que além de Saturno tinha isso, isso e isso.» (U3982 · chars 677522–677726) — Candidata de cotejo; evidência `STT26-20-RC-024-001`, grafia encontrada `Anunnaki`; decisão por lote `STT26-20: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+## Ampliação — OIDR26-01 (Onda incremental dry-run — Anunnaki, genética e humanidade (derivados normalizados))
+
+- **[P1 · Anunnaki]** «Mas Zechariah Sitchin, ele conseguiu, dentre muitos outros méritos impressionantes que ele teve e tem, ele trouxe para o momento presente o assunto que era mais terrível de ser compreendido pelos ocidentais, que é o fato de que a Bíblia fala de um povo que não era terrestre, é um povo que veio de fora, começou a viver na Terra num tempo em que o ser humano estava se desenvolvendo, e esse povo é exatamente chamado Anunnakis. E o que a gente vai falar aqui? A gente vai falar desse tempo em que se reuniu lá atrás os clãs desse povo extraterrestre chamado Anunnaki pela linguagem acadiana pela linguagem sumeriana o termo é Nephilim é uma expressão que não admite sequer plural porque já seria composta e complexa por si mesma Então, se você usar a expressão da linguagem sumeriana, a gente vai chamar esse povo de Néferi.» (U0127) — candidata de cotejo ampliado; evidência `OIDR26-01-RC-024-001`, grafia literal `Anunnaki`, sem homologação de pérola.
+
+## Ampliação — OIDR26-02 (Onda incremental dry-run — Mitologias, tradições e reintegração (derivados normalizados))
+
+- **[P2 · Anunnaki]** «Mas uma mulher que era, entre aspas, obrigada a ter relações com um Anunnaki, um ijiji, um ser de fora, seja lá quem fosse, Zeus, esse ser que nascia dessa relação, parte da herança genética dele era humana, a outra parte não era.» (U0105) — candidata de cotejo ampliado; evidência `OIDR26-02-RC-024-001`, grafia literal `Anunnaki`, sem homologação de pérola.
+
+## Ampliação — OIDR26-04 (Onda incremental dry-run — Experiência espiritual e ética evolutiva (derivados normalizados))
+
+- **[P5 · Anunnaki]** «Um belo dia ele recebeu a visita de quem? De Thoth, ou seja, desse ser Anunnaki, que habitava o Egito e outras regiões ali próximas, notadamente as cidades da Suméria.» (U0474) — candidata de cotejo ampliado; evidência `OIDR26-04-RC-024-001`, grafia literal `Anunnaki`, sem homologação de pérola.

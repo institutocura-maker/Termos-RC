@@ -5,10 +5,10 @@ nome = "Exilados de Capela"
 categoria = "Seres & Entidades"
 subcategoria = "1.5 Decaídos / Exilados / Demônios"
 status = "verificado"
-fontes = ["B031", "B003", "B025", "B026", "B057", "P2023-04-01", "P2020-04-25", "P2023-12-03", "P2012-02-19", "P2021-04-10"]
+fontes = ["B031", "B003", "B025", "B026", "B057", "P2023-04-01", "P2020-04-25", "P2023-12-03", "P2012-02-19", "P2021-04-10", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA", "STT26-MITOLOGIAS_REINTEGRACAO"]
 via = "P6-evidência"
 confianca_fonte = "alta"
-atualizado = "2026-08-29"
+atualizado = "2026-10-22"
 +++
 # Exilados de Capela — RC-007
 
@@ -42,9 +42,20 @@ Resultado direto da Rebelião de Lúcifer e do consequente Isolamento Cósmico. 
 ## Seres Associados
 Yel Luzbel (RC-078); Len Mion (RC-074); famílias Val (RC-109), Yel (RC-136), Mion, Cromon, Shanlung; Família Ulsh (RC-105).
 
+## Ampliação — STT26-EXPERIENCIA_ESPIRITUAL_ETICA (Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados))
+
+- **[STT26-12 · Exilados de Capela]** «Mas, quando a humanidade foi se multiplicando, chegou a esses 8 bilhões, como você bem disse na pergunta, a partir desse processo, a partir do aumento, e não tinha mais milagre a ser feito, espíritos que estavam em outros orbes, em outros níveis espirituais vinculados a outros planetas desse universo, começaram a vir para cá. Os Exilados de Capela, por exemplo, é um livro formidável.» (U12528 · chars 1894874–1895261) — Candidata de cotejo; evidência `STT26-12-RC-007-001`, grafia encontrada `Exilados de Capela`; decisão por lote `STT26-12: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+## Ampliação — STT26-MITOLOGIAS_REINTEGRACAO (Eixo STT26 — Mitologias, tradições e eixo de reintegração (derivados normalizados))
+
+- **[STT26-13 · Exilados de Capela]** «o buraco de minhoc como é que chega a achar nada os multuniversos o buraco de minhoc ele está perguntando sobre multiuniversos buraco de minhoc e quanto Jesus ia gastar de gasolina para chegar aqui basicamente são essas suas perguntas tem uma pergunta que os livros espíritas mais relevantes nos revelam que os exilados de capela os espíritos que encarnaram aqui na terra, que foram exilados de capela deram uma alavancada no progresso do planeta terra e também nos livros científicos a vida dos espíritos da Suméria que são registros históricos nos falam que os alienígenas vieram aqui na terra e fizeram décadas e décadas de convivência com os humanos e eles alteraram o DNA humano para que fosse alavancada a evolução do homem na Terra.» (U0232 · chars 58998–59738) — Candidata de cotejo; evidência `STT26-13-RC-007-001`, grafia encontrada `exilados de capela`; decisão por lote `STT26-13: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| STT26-MITOLOGIAS_REINTEGRACAO | Eixo STT26 — Mitologias, tradições e eixo de reintegração (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
+| STT26-EXPERIENCIA_ESPIRITUAL_ETICA | Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
 | P2021-04-10 | O Fechamento dos Portais e o Impasse no Exílio Espiritual de Len Mion — Aprofundamento (palestra) | — | transcrição automatizada; citação |
 | P2012-02-19 | Xadrez Cósmico de Brahma, Vishnu e Shiva (palestra) | — | transcrição automatizada; citação |
 | P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra) | — | transcrição automatizada; citação |

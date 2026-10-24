@@ -1,14 +1,14 @@
 +++
-# frontmatter curatorial (Onda 2.1 piloto) — fonte: registro-mestre
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
 codigo = "RC-072"
 nome = "Jesus"
 categoria = "Seres & Entidades"
 subcategoria = "1.6 Figuras humanas (históricas/míticas)"
 status = "verificado"
-fontes = ["B031", "B017", "B018", "B039", "B015", "B016", "B014", "B020", "B003", "B025", "B026", "B005", "B011", "B049", "B043", "B009", "B027", "B001", "P2026-07-30", "P2025-06-26", "P2025-02-16", "P2025-02-15", "P2024-11-30", "P2024-11-09", "P2024-07-14", "P2026-08-04", "P2024-03-02", "P2023-05-13", "P2024-09-28", "P2025-11-29", "P2023-08-05", "P2023-06-03", "P2023-04-15", "P2023-04-01", "P2023-04-29", "P2020-07-04", "P2020-05-09", "P2020-09-19", "P2021-05-08", "P2021-07-24", "P2021-09-04", "P2022-09-24", "P2023-04-01b", "P2024-11-03", "P2025-02-22", "P2023-10-14", "P2020-04-25", "P2022-03-26", "P2023-12-03", "P2023-02-11", "P2022-11-26", "P2022-11-20", "P2022-10-01", "P2022-09-18", "P2026-03-21", "P2022-11-19", "P2025-12-14", "P2023-12-25-01", "P2023-12-25-02", "P2020-04-04"]
+fontes = ["B031", "B017", "B018", "B039", "B015", "B016", "B014", "B020", "B003", "B025", "B026", "B005", "B011", "B049", "B043", "B009", "B027", "B001", "P2026-07-30", "P2025-06-26", "P2025-02-16", "P2025-02-15", "P2024-11-30", "P2024-11-09", "P2024-07-14", "P2026-08-04", "P2024-03-02", "P2023-05-13", "P2024-09-28", "P2025-11-29", "P2023-08-05", "P2023-06-03", "P2023-04-15", "P2023-04-01", "P2023-04-29", "P2020-07-04", "P2020-05-09", "P2020-09-19", "P2021-05-08", "P2021-07-24", "P2021-09-04", "P2022-09-24", "P2023-04-01b", "P2024-11-03", "P2025-02-22", "P2023-10-14", "P2020-04-25", "P2022-03-26", "P2023-12-03", "P2023-02-11", "P2022-11-26", "P2022-11-20", "P2022-10-01", "P2022-09-18", "P2026-03-21", "P2022-11-19", "P2025-12-14", "P2023-12-25-01", "P2023-12-25-02", "P2020-04-04", "OIDR26-01", "OIDR26-02", "OIDR26-03", "OIDR26-04"]
 via = "P6-evidência"
 confianca_fonte = "alta"
-atualizado = "2026-08-29"
+atualizado = "2026-10-23"
 +++
 # Jesus — RC-072
 
@@ -106,9 +106,33 @@ Figura central do drama da RC: na leitura de Jan Val Ellam, Jesus é a expressã
 | Pedro (apóstolo) | RC-945 | associado |
 | Pôncio Pilatos / Caifás / Sinédrio | RC-946 | associado |
 
+## Ampliação — OIDR26-01 (Onda incremental dry-run — Anunnaki, genética e humanidade (derivados normalizados))
+
+- **[P1 · Jesus]** «E mais especificamente, há cerca de 4 mil anos atrás, 2 mil anos atrás e agora Porque como a gente vai ver, nesse ramo da história Que tem a ver com a questão de Javé, de Jesus, Sofia, vinda de Sofia Ainda que as coisas não tenham caminhado de uma forma muito clara para os olhos humanos Mas os olhos humanos que se adestram na arte de tentar entender as cores que se situam além da vida humana, mas que tentam entender todo esse processo, que é isso que a gente está fazendo aqui juntos, o pior é que a gente consegue ter um quadro mais abjeto ainda, mais nojento, mais terrível, do que aquele que só a vida humana, por si só, constrói.» (U0103) — candidata de cotejo ampliado; evidência `OIDR26-01-RC-072-001`, grafia literal `Jesus`, sem homologação de pérola.
+
+
+## Ampliação — OIDR26-02 (Onda incremental dry-run — Mitologias, tradições e reintegração (derivados normalizados))
+
+- **[P2 · Jesus]** «Aí estes avatares nasciam ou surgiam aqui Ou alguns deles nasciam e surgiam nesse universo vizinho Mas vinham para cá porque estes podiam se deslocar para cá Este é o primeiro quadro que a gente tem que compreender Para em seguida podermos falar de Cristo, Jesus, Saibaba E outros desdobramentos de Deus Por quê?» (U0099) — candidata de cotejo ampliado; evidência `OIDR26-02-RC-072-001`, grafia literal `Jesus`, sem homologação de pérola.
+
+
+## Ampliação — OIDR26-03 (Onda incremental dry-run — Cosmogonia e história cósmica (derivados normalizados))
+
+- **[P3 · Jesus]** «Eu falei toda essa confusão aqui, mas só para explicar a vocês que há diversos tipos de vidas paralelas que acontecem, e nós temos cópias mentais da gente nessas realidades paralelas, e eu sei que isso é tremendamente louco, mas eu tento dizer isso, porque daqui a algum tempo, se nós voltarmos a nos encontrar, essa coisa chamada sonho, essa coisa chamada vivências esquisitas que nós temos, enquanto estamos levando a nossa vidinha aqui, meio pílula azul, meio pílula vermelha, as coisas vão começar a acontecer de uma forma um pouco mais direta, um pouco mais objetiva, vai ter um pouco de susto nessa história, Mas assim, Jesus uma vez disse que é necessário que essas coisas aconteçam, é necessário que o escândalo venha.» (U0097) — candidata de cotejo ampliado; evidência `OIDR26-03-RC-072-001`, grafia literal `Jesus`, sem homologação de pérola.
+
+
+## Ampliação — OIDR26-04 (Onda incremental dry-run — Experiência espiritual e ética evolutiva (derivados normalizados))
+
+- **[P4 · Jesus]** «A coisa é tão complexa que só quando a Revolução Francesa, final do século XVIII, explode, pregando igualdade, liberdade, fraternidade, blá, blá, blá, blá, blá, blá, blá, blá, ali ocorreu que a separação do Estado laico da igreja, a igreja não ia mais mandar ninguém morrer, para alguém ser condenado à morte, ou o Estado, com suas leis, definiam isso como Estados Unidos tem pena de morte, blá, blá, blá, ou essa pessoa será apenada de acordo com o que a lei de um país assim ordena, e não de acordo com a loucura de um papa, de um bispo, de um padre, de um irmão, de algum pretense iluminado, de um momento que mata todo mundo de nome de Deus, de Jesus, de Maomé, seja o que for.» (U0070) — candidata de cotejo ampliado; evidência `OIDR26-04-RC-072-001`, grafia literal `Jesus`, sem homologação de pérola.
+
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
+| OIDR26-04 | Onda incremental dry-run — Experiência espiritual e ética evolutiva (derivados normalizados) (palestra) | transcrição automatizada; citação |
+| OIDR26-03 | Onda incremental dry-run — Cosmogonia e história cósmica (derivados normalizados) (palestra) | transcrição automatizada; citação |
+| OIDR26-02 | Onda incremental dry-run — Mitologias, tradições e reintegração (derivados normalizados) (palestra) | transcrição automatizada; citação |
+| OIDR26-01 | Onda incremental dry-run — Anunnaki, genética e humanidade (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | P2020-04-04 | Javé, Sophia e Jesus: a Trindade Jamais Percebida (palestra Q&A) (palestra) | — | transcrição; citação |
 | P2023-12-25-02 | Aula 02 — Os Anos de Pregação e a Promessa do Retorno (palestra) | — | transcrição automatizada; citação |
 | P2023-12-25-01 | Aula 01 — Adolescência e a Juventude de Jesus (palestra) | — | transcrição automatizada; citação |

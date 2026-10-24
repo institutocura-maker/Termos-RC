@@ -5,10 +5,10 @@ nome = "Asuras (= Titãs)"
 categoria = "Seres & Entidades"
 subcategoria = "1.5 Decaídos / Exilados / Demônios"
 status = "verificado"
-fontes = ["B060", "P2025-02-16", "P2024-11-30", "P2024-11-02", "P2024-09-29", "P2024-04-13", "B087", "B088"]
+fontes = ["B060", "P2025-02-16", "P2024-11-30", "P2024-11-02", "P2024-09-29", "P2024-04-13", "B087", "B088", "STT26-MITOLOGIAS_REINTEGRACAO"]
 via = "P6-evidência"
 confianca_fonte = "alta"
-atualizado = "2026-09-13"
+atualizado = "2026-10-22"
 +++
 # Asuras (= Titãs) — RC-465
 
@@ -35,10 +35,16 @@ Coletivo da tradição hindu apresentado, na Teologia Comparada de Ellam, em cor
 | Samudra Manthana / Batimento do Oceano de Leite | RC-734 | ← envolve |
 | Samudra Manthana / Batimento do Oceano de Leite | RC-734 | participa-de |
 
+## Ampliação — STT26-MITOLOGIAS_REINTEGRACAO (Eixo STT26 — Mitologias, tradições e eixo de reintegração (derivados normalizados))
+
+- **[STT26-16 · Asuras (= Titãs)]** «E conta não mais a mitologia nórdica. Agora nós vamos falando da mitologia ariana hindu. Conta esta mitologia que Brahma teria chamado os Asuras, que na mitologia grega corresponde aos titãs, e os devas, que na mitologia grega corresponde aos olimpianos, e exigido que eles, da mesma maneira que haviam trabalhado juntos no evento chamado Samudra Mantã, trabalhassem novamente juntos no sentido de descobrir um modo de fixar um contato via portal desse universo vizinho com o planeta Terra, onde as setas de moros que teriam sido endereçadas desde Asgard estavam agora escondidas, segundo essa história.» (U10373 · chars 1638959–1639562) — Candidata de cotejo; evidência `STT26-16-RC-465-001`, grafia encontrada `Asuras`; decisão por lote `STT26-16: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| STT26-MITOLOGIAS_REINTEGRACAO | Eixo STT26 — Mitologias, tradições e eixo de reintegração (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | B060/B061 | correspondências anteriores | fontes publicadas |
 | P2025-02-16 | genealogias | palestra/STT |
 | P2024-11-30 | paralelos mitológicos | palestra/STT |

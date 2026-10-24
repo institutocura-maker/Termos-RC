@@ -5,10 +5,10 @@ nome = "Gestão Cósmica"
 categoria = "Conceitos Cosmológicos"
 subcategoria = "2.2 Leis e princípios cósmicos"
 status = "verificado"
-fontes = ["B033"]
+fontes = ["B033", "OIDR26-02"]
 via = "P6-evidência"
 confianca_fonte = "alta"
-atualizado = "2026-08-12"
+atualizado = "2026-10-23"
 +++
 # Gestão Cósmica — RC-225
 
@@ -37,9 +37,15 @@ A Gestão Cósmica é o pano de fundo "político" do drama: as mitologias de tod
 ## Seres Associados
 Brahma (RC-037); Vishnu (RC-135); Shiva (RC-102); Jesus (RC-072); Sophia (RC-009).
 
+## Ampliação — OIDR26-02 (Onda incremental dry-run — Mitologias, tradições e reintegração (derivados normalizados))
+
+- **[P2 · Gestão Cósmica]** «Cristo começou a emparelhar a gestão cósmica com a presença de seus avatares. Os bolsonaristas acusavam Lula de ter emparelhado o governo com um monte de malucos de esquerda, de índios, da Bolívia, da Colômbia, da Lula.» (U0369) — candidata de cotejo ampliado; evidência `OIDR26-02-RC-225-001`, grafia literal `gestão cósmica`, sem homologação de pérola.
+
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| OIDR26-02 | Onda incremental dry-run — Mitologias, tradições e reintegração (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
 | O Drama Terreno de Javé (B033) | cap. 7 (Gestão Cósmica) | pp. 81–82 (aprox.) | capítulo dedicado |
 
 ## Citações-chave

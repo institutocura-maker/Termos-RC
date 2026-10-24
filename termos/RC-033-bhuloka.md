@@ -5,10 +5,10 @@ nome = "Bhuloka"
 categoria = "Termos Específicos"
 subcategoria = "8.1 Sânscrito / Hinduísmo"
 status = "verificado"
-fontes = ["B031", "P2025-03-15"]
+fontes = ["B031", "P2025-03-15", "OIDR26-03"]
 via = "P6-evidência"
 confianca_fonte = "alta"
-atualizado = "2026-09-10"
+atualizado = "2026-10-23"
 +++
 # Bhuloka — RC-033
 
@@ -25,10 +25,16 @@ Nome sânscrito do universo material — "o mundo" (B031): o universo que habita
 | Fonte da Vida (metáfora da ilha/oceano) | RC-356 | associado |
 | Cartas a Javé (obra e diálogo) | RC-416 | ← baseada-em |
 
+## Ampliação — OIDR26-03 (Onda incremental dry-run — Cosmogonia e história cósmica (derivados normalizados))
+
+- **[P3 · Bhuloka]** «Ou seja, quando os mamíferos surgiram, e Vishnu e algumas expressões avatáricas que ele criou propositadamente para mexer na evolução dos seres biológicos, porque ele foi quem criou o projeto que o Mahabharata chama de Bhuloka, ou seja, nossa loca, nosso universo, que em sânscrito quer dizer loca, a gente deve deduzir como universo biológico.» (U0409) — candidata de cotejo ampliado; evidência `OIDR26-03-RC-033-001`, grafia literal `Bhuloka`, sem homologação de pérola.
+
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| OIDR26-03 | Onda incremental dry-run — Cosmogonia e história cósmica (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | B031 | Painéis Emergentes da Revelação Cósmica — verbete "Universo Material": "o mundo"; 2 trilhões de galáxias; espíritos e karmas | livro impresso |
 | B013 | Tzimtzum — Bhuloka × Brahmaloka; intercâmbio à época de Vyasa (não consta do cadastro) | livro impresso |
 | P2025-03-15 | A Rebelião dos Elétrons e a Era do Colapso — índice de estudo registra a partição Bhuloka × Brahmaloka (não é STT) | palestra (índice) |

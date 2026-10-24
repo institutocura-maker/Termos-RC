@@ -1,3 +1,19 @@
+# Regime vigente da recepção — pós-R4 (24/10/2026)
+
+`uploads_recepcao/` é exclusivamente a **caixa de entrada para recebimentos futuros**. Após a R4 de FON-RECEPÇÃO, esta pasta conserva intencionalmente apenas `README.md` e `.gitkeep`; os objetos já deliberados vivem nas rotas canônicas registradas em `admin/logs/RELATORIO-LIMPEZA-R4-FON-RECEPCAO-2026-10-24.md`.
+
+## Protocolo obrigatório para uma nova entrada
+
+1. Receber o bruto nesta pasta, sem normalizar, renomear ou sobrescrever conteúdo existente.
+2. Registrar caminho, bytes e SHA-256 em inventário de entrada.
+3. Submeter uma matriz de decisão ao Curador; nenhum destino é inferido por nome, extensão ou semelhança temática.
+4. Após decisão explícita, copiar para o destino canônico e validar bytes e SHA-256 nas duas pontas.
+5. Remover a origem apenas com autorização curatorial posterior à prova de cópia; registrar o fechamento e atualizar contratos/verificadores quando necessário.
+
+A documentação abaixo é **histórica**: preserva as políticas e limpezas anteriores, mas referências a registros que antes ficavam nesta pasta não substituem a configuração canônica pós-R4.
+
+---
+
 # uploads_recepcao/ — o canal de recepção bruto
 
 **Política (instituída em 2026-08-26 por ordem do curador):** esta pasta é o

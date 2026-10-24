@@ -5,10 +5,10 @@ nome = "Transição Planetária"
 categoria = "Eventos & Eras"
 subcategoria = "7.2 Eras / Épocas / Ciclos"
 status = "em análise"
-fontes = ["B003", "B025", "B042", "P2022-12-17", "P2025-03-15", "P2025-02-16", "P2025-02-15", "P2024-11-30", "P2023-12-03"]
+fontes = ["B003", "B025", "B042", "P2022-12-17", "P2025-03-15", "P2025-02-16", "P2025-02-15", "P2024-11-30", "P2023-12-03", "OIDR26-04"]
 via = "P7-conhecimento"
 confianca_fonte = "baixa"
-atualizado = "2026-08-29"
+atualizado = "2026-10-23"
 +++
 # Transição Planetária — RC-344
 
@@ -42,9 +42,15 @@ Com isso:
 | Cinturão de Fótons | RC-573 | **sem aresta** em `RELACOES`; arquivo existe |
 
 
+## Ampliação — OIDR26-04 (Onda incremental dry-run — Experiência espiritual e ética evolutiva (derivados normalizados))
+
+- **[P4 · Transição Planetária]** «E tu, dia 13, palestra, você está preparado para a transição planetária? Em Florianópolis definimos o dia 28, mais um encontro lá em Florianópolis, vai ser diálogos com o Jean Valin, aqui está o link.» (U0234) — candidata de cotejo ampliado; evidência `OIDR26-04-RC-344-001`, grafia literal `transição planetária`, sem homologação de pérola.
+
+
 ## Fontes
 | Obra (sigla) | Título | Página | Tipo |
 |---|---|---|---|
+| OIDR26-04 | Onda incremental dry-run — Experiência espiritual e ética evolutiva (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
 | P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra) | — | transcrição automatizada; citação |
 | B003 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
 | B025 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |

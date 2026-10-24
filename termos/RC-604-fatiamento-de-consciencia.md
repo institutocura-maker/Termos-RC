@@ -5,10 +5,10 @@ nome = "Fatiamento de Consciência"
 categoria = "Processos & Fenômenos"
 subcategoria = "4.2 Fenômenos espirituais / mediúnicos"
 status = "em análise"
-fontes = ["P2021-12-04", "P2026-07-30", "P2024-05-04", "P2025-10-25", "P2025-02-16", "P2024-11-30", "P2024-07-14", "P2024-03-02", "P2023-05-13", "P2020-04-25", "P2022-03-26", "P2023-12-03", "P2020-04-04"]
+fontes = ["P2021-12-04", "P2026-07-30", "P2024-05-04", "P2025-10-25", "P2025-02-16", "P2024-11-30", "P2024-07-14", "P2024-03-02", "P2023-05-13", "P2020-04-25", "P2022-03-26", "P2023-12-03", "P2020-04-04", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA", "STT26-MITOLOGIAS_REINTEGRACAO"]
 via = "P7-conhecimento"
 confianca_fonte = "baixa"
-atualizado = "2026-08-29"
+atualizado = "2026-10-22"
 +++
 # Fatiamento de Consciência — RC-604
 
@@ -50,9 +50,20 @@ A palestra usa o conceito para conectar Adhyprabrajna, Adhymavatana, Brahma, Vis
 | Ganesha (exceção à metamorfose; cabeça de elefante) | RC-756 | ← relaciona-se-a |
 | As Cinco Lentes da Realidade | RC-761 | ← relaciona-se-a |
 
+## Ampliação — STT26-EXPERIENCIA_ESPIRITUAL_ETICA (Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados))
+
+- **[STT26-08 · Fatiamento de Consciência]** «Então, Simone diz, o que é fatiamento de consciência? É a arte que os seres que viviam no paraíso desenvolveram para não sair do paraíso e poder ter partes suas existindo em regiões que não eram mais tão paradisíacas, pois havia a possibilidade de existir e vida fora dos padrões que a perfeição impunha em termos dos conceitos que existiam no paraíso.» (U0985 · chars 76841–77193) — Candidata de cotejo; evidência `STT26-08-RC-604-001`, grafia encontrada `fatiamento de consciência`; decisão por lote `STT26-08: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+## Ampliação — STT26-MITOLOGIAS_REINTEGRACAO (Eixo STT26 — Mitologias, tradições e eixo de reintegração (derivados normalizados))
+
+- **[STT26-15 · Fatiamento de Consciência]** «E responder a primeira parte da pergunta, quem é o eu desse espírito, que, entre aspas, responde por toda essa dissociação de consciência, esse fatiamento de consciência em que outros eus foram produzidos, Este eu principal, ele é alguém cujo epíteto eu finalmente vou citar nesse livro, o funeral da evidência, porque esse tempo de vida existir, para a minha condição humana, que me permita ir mais além, do jeito que eu achei estranho quando eu estava na Índia no ano 2001 lá no Ashram de Sai Baba mas eu fui o último a entrar no Darshan ou seja, lá na na oportunidade em que ele estava aparecendo para as pessoas então eu fiquei na última fila tinha lá 20 mil pessoas entre eu e Sai Baba e eu sou comodista sempre fui no sentido de só fazer aquilo que eu acho que minimamente eu me sinta razoavelmente seguro e produtivo, e eu não sou muito afeito a multidões, mas eu tinha ido lá para homenagear Saibaba, nem que fosse de longe, então eu entrei na multidão, mas fiquei na periferia da multidão, muito distante de Saibaba.» (U6391 · chars 970460–971485) — Candidata de cotejo; evidência `STT26-15-RC-604-001`, grafia encontrada `fatiamento de consciência`; decisão por lote `STT26-15: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
+| STT26-MITOLOGIAS_REINTEGRACAO | Eixo STT26 — Mitologias, tradições e eixo de reintegração (derivados normalizados) (palestra) | transcrição automatizada; citação |
+| STT26-EXPERIENCIA_ESPIRITUAL_ETICA | Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | P2020-04-04 | Javé, Sophia e Jesus: a Trindade Jamais Percebida (palestra Q&A) (palestra) | — | transcrição; citação |
 | P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |
 

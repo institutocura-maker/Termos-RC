@@ -2,7 +2,7 @@
 @autor: Apostila de Estudo — Base Terminológica RC
 @data: 2026-08-20
 @local: Síntese da Base Terminológica RC e das convenções editoriais do Projeto
-@subtitulo: Apostila temática (abordagem crítica/metodológica) — Manual de auto-organização do ecossistema: as regras da Navalha de Ockham, o uso de quarentenas, a gestão de fichas retidas, o método à prova de aspas e o conceito de "conhecimento indigesto", sintetizados a partir da prática consolidada do Projeto (GUIA-MESTRE-RC-APOSTILA, convenções editoriais, CONTINUIDADE.md e o fluxo de re-curadoria).
+@subtitulo: Apostila temática (abordagem crítica/metodológica) — Manual de auto-organização do ecossistema: as regras da Navalha de Ockham, o uso de quarentenas, a gestão de fichas retidas, o método à prova de aspas e o conceito de "conhecimento indigesto", sintetizados a partir da prática consolidada do Projeto (GUIA-MESTRE-RC-APOSTILA, convenções editoriais, ../admin/logs/CONTINUIDADE.md e o fluxo de re-curadoria).
 @nota_editor: Esta apostila é uma **síntese metodológica** do próprio Projeto Base Terminológica RC — documenta o "arsenal do sistematizador": as regras e procedimentos que mantêm a ontologia íntegra (770 termos, 1.830 relações) ao absorver dezenas de milhares de palavras de transcrições. É um **manual de auto-organização para agentes autônomos** operando em bases de conhecimento descentralizadas — e um registro de governança para o curador. As regras aqui descritas foram consolidadas na prática (2026-08-18 a 2026-08-20) e seguem as convenções editoriais do Projeto.
 
 # PARTE I — A Arquitetura: a Tabela-Mestra
@@ -69,7 +69,7 @@ Nota do editor: a quarentena é o **filtro epistemológico** — distingue o que
 
 Quando uma ampliação mapeia um termo **sem ficha física**, o conteúdo é **retido** — registrado na Colecionar Incertezas com as unidades (U####) — até autorização expressa do curador para criar a ficha.
 
-> "Ampliações retidas (termos sem ficha física — padrão): RC-457/458/459 (Tridevi), RC-211 (Kundalini), RC-013/014 (Adhyatman/Adhydaiva) → registradas na Colecionar Incertezas; aguardam autorização." — CONTINUIDADE.md, P2020-07-11
+> "Ampliações retidas (termos sem ficha física — padrão): RC-457/458/459 (Tridevi), RC-211 (Kundalini), RC-013/014 (Adhyatman/Adhydaiva) → registradas na Colecionar Incertezas; aguardam autorização." — ../admin/logs/CONTINUIDADE.md, P2020-07-11
 
 ## O acervo de incertezas
 
@@ -89,7 +89,7 @@ Injetar ampliações com aspas e caracteres especiais diretamente em código Pyt
 2. Um script aplicador (`_aplicar_ampliacoes_<data>.py`) lê o TXT, localiza a ficha, e injeta a seção `## Ampliação — P<data>` antes de `## Fontes`;
 3. Após a execução, os scripts são **arquivados** na pasta `analise/` da apostila.
 
-> "Método à prova de aspas validado em 9+ ciclos (evita erros de escape em conteúdo com aspas e caracteres especiais)." — CONTINUIDADE.md
+> "Método à prova de aspas validado em 9+ ciclos (evita erros de escape em conteúdo com aspas e caracteres especiais)." — ../admin/logs/CONTINUIDADE.md
 
 Nota do editor: este é o **protocolo de escrita seguro** — o texto puro é o intermediário entre a curadoria e o grafo.
 
@@ -246,7 +246,7 @@ Nota do editor: o Arsenal do Sistematizador é o **registro vivo da governança*
 - **Qualificadores de fonte** — ex.: `P2024-05-04-R` (versão refatorada) [—]
 
 ## D — Governança
-- **CONTINUIDADE.md** — o diário de bordo [—]
+- **../admin/logs/CONTINUIDADE.md** — o diário de bordo [—]
 - **INDICE-PALESTRAS.md / INDICE-TEMATICAS.md** — a navegação [—]
 - **GUIA-MESTRE-RC-APOSTILA** — o manual-mestre [—]
 - **Convenções editoriais** — o código de conduta [—]

@@ -1,0 +1,38 @@
+# Fontes — arquitetura de fontes
+
+> Esta pasta organiza as fontes por proveniência. As coleções já migradas têm seus caminhos físicos autoritativos nesta árvore; as demais permanecem nos caminhos atuais até uma onda curatorial específica.
+
+## Taxonomia planejada
+
+```text
+fontes/
+├── recepcao/          # futuros brutos recebidos; hoje: uploads_recepcao/
+├── livros/            # obras e amostras; rota atual
+├── palestras/         # fontes classificadas como palestras
+├── online/youtube/    # fontes identificadas pelo canal, quando aplicável
+└── externas/          # materiais de terceiros; hoje: externas/
+```
+
+`palestras/` e `online/youtube/` representam eixos diferentes: palestra é tipo editorial; YouTube é canal de origem. Uma fonte pode precisar de ambos os metadados, sem cópia duplicada.
+
+## Estado da migração
+
+- **FON-EXTERNAS** foi migrada em 23/10/2026 para `externas/`, por `git mv`, com os 15 arquivos e a hash agregada conferidos contra o manifesto da Fase 0.
+- **FON-LIVROS** foi migrada em 23/10/2026 para `livros/`, por `git mv`, com a coleção literal conferida contra a linha Fase 0 + Fase 1B antes da atualização documental limitada desta onda.
+- **FON-RECEPÇÃO** foi reconfigurada em 24/10/2026 após deliberação R2 e cópia R3: `uploads_recepcao/` conserva apenas `README.md` e `.gitkeep` como caixa de entrada futura; os registros operacionais estão em `admin/logs/`, o documento administrativo em `admin/documentos/`, o DOCX bruto em `fontes/docx_originais/`, os pilotos históricos em `fontes/pilotos_historicos/` e o lote STT em `fontes/stt-lote-2026-10/`. Essas rotas são canônicas e imutáveis, verificadas por arquivo no manifesto.
+- **FON-APOSTILAS-CONCLUIDAS** foi migrada em 24/10/2026 por preservação modular integral: as 82 cápsulas e seus 1.629 arquivos vivem em `fontes/apostilas/`; `apostilas/CONCLUIDAS/` foi removida somente após prova R3 byte a byte. A linha R2/R3, os ajustes mínimos de rota e o fechamento R4 permanecem verificáveis no manifesto e nos registros curatoriais.
+- As demais rotas desenhadas acima permanecem planejadas; não devem ser usadas como caminhos de runtime até despacho e portões próprios.
+
+## O que não pertence aqui
+
+- `apostilas/`, `ciclos/` e `consolidacoes/` preservam transformação, deliberação, âncoras e cópias de evidência; não são apenas repositórios de fonte.
+- Cada cópia selada existente continua no seu local para preservar SHA-256, proveniência e referências históricas.
+
+## Manifesto de pré-migração
+
+[`manifestos/MANIFESTO-FONTES-FASE-0.json`](manifestos/MANIFESTO-FONTES-FASE-0.json) registra IDs estáveis, caminhos atuais, destinos propostos, hashes de cada arquivo e hash agregado das coleções. Gere-o com:
+
+```bash
+python3 ferramentas/gerar_manifestos_acervo.py
+python3 ferramentas/gerar_manifestos_acervo.py --validar
+```

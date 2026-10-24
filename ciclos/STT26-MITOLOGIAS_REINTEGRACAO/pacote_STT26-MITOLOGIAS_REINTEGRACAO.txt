@@ -1,0 +1,205 @@
+# Pacote de extração e cotejo — STT26-MITOLOGIAS_REINTEGRACAO
+#
+# As 45 entradas deste BLOCO 1 são candidatas, não aprovações: o Curador autorizou
+# o cotejo de todos os códigos que têm ao menos um despacho `AUTORIZAR-COTEJO-AMPLIADO`.
+# Cada aspa foi emitida pelo Motor a partir do `original.txt` selado e será conferida
+# outra vez pelo portão B. Nenhuma ficha, termo, relação, vínculo ou card RAG é criado
+# neste estágio; `[perolas].aprovadas` permanece vazio.
+
+### BLOCO 1 — candidatas para avaliação curatorial (sem homologação)
+
+### RC-002
+
+- **[STT26-13 · Rebelião de Lúcifer]** «Eles falam de uma história que aconteceu além das fronteiras terrestres, ou seja, no ambiente extraterrestre, quando então o chamado Cristo cósmico foi obrigado a tomar umas atitudes devido a algo que hoje na tradição esotérica da Terra se chama rebelião de Lúcifer e ou entendida como sendo a queda dos anjos, a doutrina dos anjos caídos que Kardec também aborda no capítulo 11 do livro A Gênese Nesse livro, A Caminho da Luz, Emmanuel e Chico mostram que muito tempo antes de existir ser humano na Terra Esse Cristo cósmico, em medo que parte das suas ovelhas estavam se desgarrando Devido a uma doença que adquiriram e sendo levadas para a Terra Ele prometeu que pessoalmente acompanharia o desenvolvimento dessas ovelhas desgarradas E que para tanto ele estava formulando um programa de revelações sucessivas para essas ovelhas, de acordo com a possibilidade de evolução que essas ovelhas fossem promovendo a si mesmas, ele então, ou seja, o Cristo Cósmico, faria ou daria curso a esse programa de revelações sucessivas.» (U0172 · chars 40149–41174) — Candidata de cotejo; evidência `STT26-13-RC-002-001`, grafia encontrada `rebelião de Lúcifer`; decisão por lote `STT26-13: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+### RC-003
+
+- **[STT26-13 · Reintegração Cósmica]** «Coincidentemente ou não, ele, enquanto Jesus, reafirmou a promessa que o seu espírito havia feito enquanto Cristo cósmico Se esse assunto é bobagem, se não é para ser refletido pelos cristãos, assim é que se Na minha tecnicidade humana, eu tentei refletir sobre o mesmo Eu tentei a fundo Por isso que ao escrever um livro chamado Reintegração Cósmica E aqui já vinha para o símbolo do final da palestra Para a gente conversar depois com mais tranquilidade Se houver tempo ainda O tema do livro Reintegração Cósmica Envolve três questões básicas que a gente precisa entender Uma, o fato da Terra estar isolada Alguém determinou que a Terra ficaria isolada Em que sentido?» (U0188 · chars 43228–43898) — Candidata de cotejo; evidência `STT26-13-RC-003-001`, grafia encontrada `Reintegração Cósmica`; decisão por lote `STT26-13: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+### RC-004
+
+- **[STT26-16 · Elohim]** «Em manuscritos mais antigos, como os do Mar Morto, ou a própria Septuaginta, que é a versão para o grego feita por 70 sábios dos 47 principais livros hebreus, incluindo os livros de Enoque, mas isso é outra história, informa que Javé de fato tinha dividido as nações da Terra com base no número de filhos de Deus que compõe o Elohim, ou seja, Elohim significa o que?» (U9629 · chars 1512255–1512622) — Candidata de cotejo; evidência `STT26-16-RC-004-001`, grafia encontrada `Elohim`; decisão por lote `STT26-16: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+### RC-007
+
+- **[STT26-13 · Exilados de Capela]** «o buraco de minhoc como é que chega a achar nada os multuniversos o buraco de minhoc ele está perguntando sobre multiuniversos buraco de minhoc e quanto Jesus ia gastar de gasolina para chegar aqui basicamente são essas suas perguntas tem uma pergunta que os livros espíritas mais relevantes nos revelam que os exilados de capela os espíritos que encarnaram aqui na terra, que foram exilados de capela deram uma alavancada no progresso do planeta terra e também nos livros científicos a vida dos espíritos da Suméria que são registros históricos nos falam que os alienígenas vieram aqui na terra e fizeram décadas e décadas de convivência com os humanos e eles alteraram o DNA humano para que fosse alavancada a evolução do homem na Terra.» (U0232 · chars 58998–59738) — Candidata de cotejo; evidência `STT26-13-RC-007-001`, grafia encontrada `exilados de capela`; decisão por lote `STT26-13: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+### RC-009
+
+- **[STT26-13 · Sophia (Cristo Cósmico)]** «Mas o psiquismo desse eu vai crescendo e vai lendo e vai percebendo, no caso de Jesus, as escrituras judaicas, que todos os profetas diziam que ia ter o Messias, e a cada vez que o coitado do menino Jesus lia isso, uma voz na sua consciência dizia, é você, é você, fala lá. Os anjos de Sophia, os anjos de Javé no universo vizinho, tudo isso em cima de uma criança, para fazer com que o eu emergente do avatar fosse edificado com base nos protocolos específicos que, no caso de Jesus, a consciência mãe Sophia retirou de si mesmo, manipulou os termos das ordens que Sophia recebeu de Viz de Brahma e inoculou em Maria.» (U1094 · chars 197068–197687) — Candidata de cotejo; evidência `STT26-13-RC-009-001`, grafia encontrada `Sophia`; decisão por lote `STT26-13: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+### RC-019
+
+- **[STT26-18 · Anjos clones]** «Quando queimava o seu estoque de hidrogênio, a estrela explodia, produzia novos elementos químicos E assim o nosso universo foi se formando, estrelas, planetas, blá blá blá, mas sem vida No universo vizinho, esse drama estava se desenrolando Porque os demônios quando surgiram, metamorfos, aqui surge a figura de Shiva que passa a criar uma raça demoníaca que se metamorfoseava, porque Brahma e seus anjos clones não se metamorfoseavam e eram robotizados.» (U14417 · chars 2343623–2344078) — Candidata de cotejo; evidência `STT26-18-RC-019-001`, grafia encontrada `anjos clones`; decisão por lote `STT26-18: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+### RC-034
+
+- **[STT26-16 · Big Bang]** «É basicamente um livro que eu escrevi Chamando de O Abismo da Consciência Cósmica É um abismo tão profundo Onde ali, nesse abismo que é a história universal A história do Big Bang, de como chegamos até aqui E das notícias que sobre essa trajetória existem mas ocultas, no âmbito dos compêndios mitológicos que ninguém leva a sério, porque foram também condicionados os seres humanos a não levar a sério nada disso, os seres humanos atuais.» (U8615 · chars 1328768–1329208) — Candidata de cotejo; evidência `STT26-16-RC-034-001`, grafia encontrada `Big Bang`; decisão por lote `STT26-16: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+### RC-037
+
+- **[STT26-13 · Brahma (Brajna)]** «Quando Faleg, filho de Eber, disse, pai, eu não vou dar continuidade a essa coisa de obedecer a esse ser, esse ser largou essa linhagem que veio através de Sem, filho de Noé, e procurou uma outra linhagem que veio através de outro filho de Noé, chamado Jafé, Gomer, neto de Jafé, de quem os arianos eram descendentes, e se apresentou a estes como sendo Brahma.» (U0482 · chars 116615–116975) — Candidata de cotejo; evidência `STT26-13-RC-037-001`, grafia encontrada `Brahma`; decisão por lote `STT26-13: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+### RC-039
+
+- **[STT26-13 · Capela (Sistema)]** «Primeiro deles, existia um Cristo cósmico que seria a forma cósmica daquele ser humano que nós conhecemos como Jesus, e esse Cristo cósmico já existia bem antes, e numa perspectiva de um problema ocorrido a Iuris, ou seja, além das fronteiras da Terra, num tempo em que sequer os humanos haviam já aqui surgido, Esse Cristo cósmico, ou seja, esse ser, havia se defrontado, palavras de Chico e Emmanuel, em um outro sistema solar, cuja estrela se chamava e se chama capela, com problemas estes que fizeram com que parte dos seres que ali existiam fosse banida e, em sendo esses seres exilados para outros mundos, parte desses seres teriam vindo para a Terra e, por trás desse exílio espiritual ou rebelião de alguns seres, o tema difícil de ser compreendido, a rebelião de Lúcifer, surgiu exatamente desse contexto.» (U0418 · chars 103287–104101) — Candidata de cotejo; evidência `STT26-13-RC-039-001`, grafia encontrada `capela`; decisão por lote `STT26-13: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+### RC-068
+
+- **[STT26-18 · Hiperbórea]** «Nós não sabemos disso muito bem, mas boa parte das mitologias setentrionais, ou seja, mitologias que falam das coisas do morte do planeta, Se referem a um tempo em que onde hoje é o chamado Polo Norte, existia um continente ou várias partes de terra que juntas compunham a civilização hiperbórea, alguns escandinavos chamam essa civilização de Thule, T-H-U-L-E, E essa civilização tinha uma característica singular.» (U14045 · chars 2282988–2283404) — Candidata de cotejo; evidência `STT26-18-RC-068-001`, grafia encontrada `hiperbórea`; decisão por lote `STT26-18: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+### RC-078
+
+- **[STT26-15 · Lúcifer (Yel Luzbel)]** «Logo mais à noite a gente está voltando aí para falar de Lúcifer. Mas, assim, seguidores, cuidado aí, seja alguém que se alinhe com suas próprias metas e objetivos, podemos todos caminhar juntos, quando um fica fraco a gente oferece um ombro, mas cada um com suas próprias pernas.» (U6099 · chars 934213–934493) — Candidata de cotejo; evidência `STT26-15-RC-078-001`, grafia encontrada `Lúcifer`; decisão por lote `STT26-15: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+### RC-081
+
+- **[STT26-15 · Mohen So (Avatar Keshava de Vishnu)]** «Nossa quarta pergunta. Rogério, se possível, nos esclareça esta dúvida. Já sabemos que Mohen So, antes de seu auto-extinguir, com o intuito de ajudar o espírito de Mavatma, transferiu seus conhecimentos, experiências e informações para o ser humano, Jean Val Elan.» (U6539 · chars 996326–996590) — Candidata de cotejo; evidência `STT26-15-RC-081-001`, grafia encontrada `Mohen So`; decisão por lote `STT26-15: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+### RC-086
+
+- **[STT26-17 · Pandora]** «Então, assim, existiu uma geração axial, essa turma aqui, estou de novo, esses estranhos filósofos aqui que eu falei, isso aqui é tudo muito antigo, 7, 6, 5, 4, 3 mil anos atrás, e são vários no meio aí eu poderia falar de Enoch dos vários Tirtancaras, dos Jainistas os Vedas tudo isso aí é filosofia pergunta sobre essa linhagem fazer uma pergunta sobre essa linhagem nossa, está com eco aqui o que acontece eu fiquei pensando quando você estava falando de toda a genética que propiciou isso, como como os gregos, que vieram de Heleno, de Pandora, também junto com os druídas.» (U10699 · chars 1693834–1694411) — Candidata de cotejo; evidência `STT26-17-RC-086-001`, grafia encontrada `Pandora`; decisão por lote `STT26-17: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+### RC-094
+
+- **[STT26-13 · Revelação Cósmica (conceito)]** «Enoque foi só uma dessas revelações, a primeira que o mundo recebeu nessa perspectiva de análise A vinda de Jesus foi outra A volta de Jesus é outra Houve uma época em que a revelação espiritual foi ofertada ao mundo A volta de Jesus faz parte de um contexto de uma revelação cósmica Uma outra das etapas da promessa que esse Cristo cósmico fez de, sucessivamente, ir entregando às suas ovelhas terrenas aquilo que elas tivessem capacidade de perceber.» (U0174 · chars 41176–41628) — Candidata de cotejo; evidência `STT26-13-RC-094-001`, grafia encontrada `revelação cósmica`; decisão por lote `STT26-13: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+### RC-102
+
+- **[STT26-13 · Shiva (Savna)]** «Aí, depois que um caiu, os outros dois mergulharam e a briga continuou aqui dentro. E esses três seres, indo agora para a perspectiva hindu-ariana, chamada Brahma, Vishnu e Shiva, sempre brigaram para ver quem dos três havia criado, de fato, a criação antes deles mergulharem, e agora que estavam caídos, quem dos três comandava isso aqui.» (U0590 · chars 132120–132459) — Candidata de cotejo; evidência `STT26-13-RC-102-001`, grafia encontrada `Shiva`; decisão por lote `STT26-13: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+### RC-104
+
+- **[STT26-13 · Trimurti]** «Qual? Esse ser que caiu, ele caiu porque ele estava brigando com outros dois. Era uma tríade, uma trindade, uma Trimurti.» (U0588 · chars 131997–132118) — Candidata de cotejo; evidência `STT26-13-RC-104-001`, grafia encontrada `Trimurti`; decisão por lote `STT26-13: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+### RC-106
+
+- **[STT26-16 · Universo Antimaterial (Brahmaloka / Universo Paralelo)]** «A gente só pode entender essa questão se a gente for para a revelação de Ifá, produzida por Orun Milá, em que ele fala que em cidades astrais, ou seja, de um universo antimaterial vizinho, tem uma feira e que, nessa feira, a raça das feiticeiras foi a primeira a vender os seus produtos.» (U9421 · chars 1478395–1478682) — Candidata de cotejo; evidência `STT26-16-RC-106-002`, grafia encontrada `universo antimaterial`; decisão por lote `STT26-16: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+### RC-135
+
+- **[STT26-13 · Vishnu (Mavatna)]** «Aí, depois que um caiu, os outros dois mergulharam e a briga continuou aqui dentro. E esses três seres, indo agora para a perspectiva hindu-ariana, chamada Brahma, Vishnu e Shiva, sempre brigaram para ver quem dos três havia criado, de fato, a criação antes deles mergulharem, e agora que estavam caídos, quem dos três comandava isso aqui.» (U0590 · chars 132120–132459) — Candidata de cotejo; evidência `STT26-13-RC-135-001`, grafia encontrada `Vishnu`; decisão por lote `STT26-13: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+### RC-162
+
+- **[STT26-13 · Elétrons (agente básico da vida universal)]** «Mas o nosso organismo, o cosmos ou o universo no qual a gente vive, o conceito mais moderno dele é que é um organismo vivo que está se reconstruindo ou se construindo a si mesmo por meio do que os elétrons marcam em si mesmos e do modo como eles se organizam e produzem ilhas de negentropia no meio do caos.» (U1648 · chars 267220–267528) — Candidata de cotejo; evidência `STT26-13-RC-162-001`, grafia encontrada `elétrons`; decisão por lote `STT26-13: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+### RC-166
+
+- **[STT26-14 · Mentalma]** «você vai ler aí, porque eu não tenho agenda aqui eu leio aqui, pode deixar só um minutinho, que eu me enrolei aqui um pouco então, pessoal próximo final de semana dias 20, 21 e 22 vai ter o curso Mentalma Dirigido em Criciúma em julho nos dias 5 e 6 tem dois encontros diálogos com João Valelã são diálogos com tema livre respondendo perguntas da plateia sem slides pré-definidos em Curitiba no dia 12 tem mais um encontro diálogos com João Valelã em Goiânia dia 19 tem a palestra Javé Sophia e as sincronicidades profetizáveis em Agosto no Rio de Janeiro curso Mentalma Dirigido nos dias 8, 9 e 10 e em São Paulo no dia 16 mais um encontro diálogos com o João Valelã As informações estão aqui no site, os links também para adquirir os ingressos.» (U2830 · chars 457233–457980) — Candidata de cotejo; evidência `STT26-14-RC-166-001`, grafia encontrada `Mentalma`; decisão por lote `STT26-14: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+### RC-301
+
+- **[STT26-17 · Prometeu (titã)]** «Então, assim, eu não vou levar a fundo, porque fica insuportável a quantidade de informações. Mas esse ser chamado Prometeu, que é um ser da mitologia grega, ele tinha uma filosofia própria.» (U10649 · chars 1685794–1685984) — Candidata de cotejo; evidência `STT26-17-RC-301-001`, grafia encontrada `Prometeu`; decisão por lote `STT26-17: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+### RC-302
+
+- **[STT26-17 · Epimeteu (titã)]** «Isso, quem lê a mitologia grega sabe do que eu estou falando, eu só não vou poder explicar aqui. Só que Prometeu tinha um irmão chamado Epimeteu, e Prometeu era muito sabido, Epimeteu era meio lésbico.» (U10793 · chars 1705849–1706051) — Candidata de cotejo; evidência `STT26-17-RC-302-001`, grafia encontrada `Epimeteu`; decisão por lote `STT26-17: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+### RC-306
+
+- **[STT26-16 · Apolo]** «Nietzsche, filósofo alemão, século XIX, Nietzsche, quando analisava a humanidade, ele tomava emprestado do panteão dos deuses gregos, dois daqueles deuses, para simbolizar com o comportamento deles os comportamentos básicos que a humanidade demonstrava possuir. Então Nietzsche tomou o deus Apolo e, segundo Apolo, os humanos deveriam ser obedientes.» (U8917 · chars 1389780–1390131) — Candidata de cotejo; evidência `STT26-16-RC-306-002`, grafia encontrada `Apolo`; decisão por lote `STT26-16: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+### RC-397
+
+- **[STT26-18 · Tirthankaras (Rishabh Dev, Jina Mahavira)]** «O nosso amigo Siddhartha Gautama, quando ele saiu da condição humana, como ele criou, em plena vida humana, uma ponte direta com o que a gente chama de paraíso, níveis espirituais superiores, E foi exatamente por isso que, antes de Siddhartha, antes de Buda, apenas os chamados Tirthankaras, que são figuras consideradas entes muito elevados da mais antiga religião dos hindus, essa religião chama-se Jainismo.» (U13109 · chars 2113087–2113498) — Candidata de cotejo; evidência `STT26-18-RC-397-001`, grafia encontrada `Tirthankaras`; decisão por lote `STT26-18: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+### RC-414
+
+- **[STT26-13 · Krishna (avatar de Vishnu/Shiva)]** «Ou seja, a volta de Jesus não vai impactar o planeta no sentido dele parar segundo esses mentores Jesus não pode ficar aqui até porque os nossos pedidos para ele seriam ótimos Jesus a calvície está avançada Jesus, minha unha está encravada Jesus, cure aqui qual novidade que Jesus teria para nos dizer será que já está tudo dito considera Gautama, Zoroastro Jesus, Krishna será que já tudo não foi dito Será que a sua simples presença durante algum tempo Dizendo, pessoal, é só pra dar um beijo em vocês Mas eu não posso fazer nada a vocês É que tem que promover o progresso aí na Terra Não adianta eu fazer assim que ninguém vai se transformar No que não é de uma hora pra outra A transformação de cada um se dá lentamente É a tal reforma íntima Então assim, Jesus não vem aqui pra resolver os nossos problemas É o que eles dizem Jesus prometeu que não nos deixaria órfãos no sentido de perdidos Ele virá e basta a sua presença durante algum tempo Para que nós tenhamos absoluta certeza de que não estamos sós no universo Que a vida é muito mais ampla, bela, cheia de desafios do que a gente imagina De que o amor é de fato o elo que deve nos unir Ou seja, Jesus vai se repetir Então segundo os mentores Numa primeira visita é assim que acontecerá Mas Jesus é um espírito evoluído Porque é que ele precisa de uma nave para se deslocar para cá Ele não precisa Mas nós precisamos que alguém que venha para cá Não chegue voando com a capa de super-homem ou de Batman Tem que vir uma nave porque é assim que as coisas funcionam no nosso espaço-tempo.» (U0226 · chars 54835–56382) — Candidata de cotejo; evidência `STT26-13-RC-414-001`, grafia encontrada `Krishna`; decisão por lote `STT26-13: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+### RC-465
+
+- **[STT26-16 · Asuras (= Titãs)]** «E conta não mais a mitologia nórdica. Agora nós vamos falando da mitologia ariana hindu. Conta esta mitologia que Brahma teria chamado os Asuras, que na mitologia grega corresponde aos titãs, e os devas, que na mitologia grega corresponde aos olimpianos, e exigido que eles, da mesma maneira que haviam trabalhado juntos no evento chamado Samudra Mantã, trabalhassem novamente juntos no sentido de descobrir um modo de fixar um contato via portal desse universo vizinho com o planeta Terra, onde as setas de moros que teriam sido endereçadas desde Asgard estavam agora escondidas, segundo essa história.» (U10373 · chars 1638959–1639562) — Candidata de cotejo; evidência `STT26-16-RC-465-001`, grafia encontrada `Asuras`; decisão por lote `STT26-16: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+### RC-471
+
+- **[STT26-16 · Bifrost (Portal interdimensional)]** «As runas deram a Odin a simbologia necessária para ele começar a criar reentendimento, conceitos, significados E assim uma maneira de fazer a leitura da vida A leitura dos fatos e do que acontecia em Yggdrasil surgiu e os outros que estavam fora de Yggdrasil ficaram com inveja do que Odin havia conseguido em Yggdrasil. O desenvolvimento que aconteceu em Yggdrasil fez com que em Marte, já que surgiu algo chamado Bifrost, que é uma ponte quântica, que com o tempo os cientistas de Odin criaram uma passagem que uniformizava os portais desses nove mundos, ou faixas de realidade.» (U10273 · chars 1620725–1621306) — Candidata de cotejo; evidência `STT26-16-RC-471-001`, grafia encontrada `Bifrost`; decisão por lote `STT26-16: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+### RC-474
+
+- **[STT26-13 · Arcontes (= Sophias e Indras; Conselho dos 70)]** «O próximo livro que está saindo, além da ordenação do caos, a face microbiana, é um outro assunto. Mas depois deste, o livro que deve sair é Sofia, os Avatares, Sofia, os Arcontes e a Disputa pela Suzerania Universal, que tem a ver com o Gnosticismo.» (U1600 · chars 260381–260631) — Candidata de cotejo; evidência `STT26-13-RC-474-001`, grafia encontrada `Arcontes`; decisão por lote `STT26-13: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+### RC-480
+
+- **[STT26-13 · Indra (título de arconte)]** «Zeus, que na época era o mais forte, que dera surra em todo mundo, na mitologia hindu, Zeus é chamado de Indra, Indra era o mais forte dos deuses, Vishnu, Shiva, todo mundo respeitava a Indra, E Havana começou a esculhambar com o reinado de Indra, ou seja, com o reinado de Zeus.» (U1356 · chars 231107–231386) — Candidata de cotejo; evidência `STT26-13-RC-480-001`, grafia encontrada `Indra`; decisão por lote `STT26-13: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+### RC-481
+
+- **[STT26-16 · Maitreya (Dionísio; forma adiágena de Vishnu)]** «Nesse Anagata Avança, esse livro difícil até de se pronunciar, Em que se fala sobre vidas passadas de Buda, que a gente não vai aqui falar disso, mas o interessante é que nesse livro Siddhartha Gautama diz, ó, eu sou o Buda, mas antes de mim existiram três seres que se aproximaram desse nível de iluminação, mas eu, Siddhartha Gautama, de fato, cheguei nesse estado de consciência chamado nirvana, e por isso eu sou chamado o Buda, mas virá outro, e esse que Buda chamou de Maitreya, Este virá quando eu sair da condição de nirvana para atingir a condição do nirvana absoluto. Então, tem essa distinção.» (U8297 · chars 1278713–1279318) — Candidata de cotejo; evidência `STT26-16-RC-481-001`, grafia encontrada `Maitreya`; decisão por lote `STT26-16: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+### RC-487
+
+- **[STT26-13 · Enlil (deus sumério, par de Enki)]** «Mas é uma revelação formidável. Jean, qual a ligação de Enki e Enlil com Javé? É outra palestra.» (U0692 · chars 145278–145374) — Candidata de cotejo; evidência `STT26-13-RC-487-001`, grafia encontrada `Enlil`; decisão por lote `STT26-13: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+### RC-489
+
+- **[STT26-13 · Enoque (sétimo patriarca; levado por Javé)]** «Mas antes disso, o livro de Enoch era muito conhecido e mais que isso, Mesmo tendo sido expurgado da Vulgata, que é a versão latina da Bíblia Ele ainda continua sendo citado na Bíblia nos livros do Antigo Testamento Mas o fato é que esses dois pedaços de livros que James Bruce encontrou Deles ainda é possível, foi possível A formatação de dois pequenos opúsculos, de dois pequenos livros Um chamado Livro de Enoque e o outro chamado Livro dos Segredos de Enoque.» (U0126 · chars 27472–27937) — Candidata de cotejo; evidência `STT26-13-RC-489-001`, grafia encontrada `Enoque`; decisão por lote `STT26-13: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+### RC-565
+
+- **[STT26-14 · Hochmah (2ª Sefirah — Sabedoria; = Sophia)]** «Olhem bem como a coisa é estranha. Esse Hochmah não é humano, ele é um ser biodemo, ou seja, parte biológica e parte com códigos desse universo vizinho, mas isso é outra história.» (U3628 · chars 574039–574218) — Candidata de cotejo; evidência `STT26-14-RC-565-001`, grafia encontrada `Hochmah`; decisão por lote `STT26-14: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+### RC-585
+
+- **[STT26-15 · Vyasa]** «Então ele foi embora, então restou Barata. Barata ficou lá, e a descendência de Barata, que está escrito no Mahabharata, e Vyasa.» (U5686 · chars 863627–863756) — Candidata de cotejo; evidência `STT26-15-RC-585-001`, grafia encontrada `Vyasa`; decisão por lote `STT26-15: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+### RC-586
+
+- **[STT26-18 · Rishis]** «Só que esse ser, ele em algum momento fez uma relação com outro ser que na mitologia ariana hindu chama-se Kasiapa, filho de Marit, um dos sete rishis sagrados da geração regenerada de Brahma, e Kasiapa criou uma porrada de seres peçonhentos aquáticos que mordiam todo mundo.» (U14543 · chars 2360622–2360898) — Candidata de cotejo; evidência `STT26-18-RC-586-001`, grafia encontrada `rishis`; decisão por lote `STT26-18: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+### RC-593
+
+- **[STT26-15 · Mahabharata]** «Foi a guerra de Kurukshetra, no norte da Índia, no estado de Uttar Pradesh. E essa guerra de Kurukshetra aqui na Terra envolvia dois ramos de primos descendentes da linhagem dos Barata. O Mahabharata significa a história dos Barata, que era descendência de Barata, irmão de Rama.» (U5680 · chars 863075–863355) — Candidata de cotejo; evidência `STT26-15-RC-593-001`, grafia encontrada `Mahabharata`; decisão por lote `STT26-15: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+### RC-604
+
+- **[STT26-15 · Fatiamento de Consciência]** «E responder a primeira parte da pergunta, quem é o eu desse espírito, que, entre aspas, responde por toda essa dissociação de consciência, esse fatiamento de consciência em que outros eus foram produzidos, Este eu principal, ele é alguém cujo epíteto eu finalmente vou citar nesse livro, o funeral da evidência, porque esse tempo de vida existir, para a minha condição humana, que me permita ir mais além, do jeito que eu achei estranho quando eu estava na Índia no ano 2001 lá no Ashram de Sai Baba mas eu fui o último a entrar no Darshan ou seja, lá na na oportunidade em que ele estava aparecendo para as pessoas então eu fiquei na última fila tinha lá 20 mil pessoas entre eu e Sai Baba e eu sou comodista sempre fui no sentido de só fazer aquilo que eu acho que minimamente eu me sinta razoavelmente seguro e produtivo, e eu não sou muito afeito a multidões, mas eu tinha ido lá para homenagear Saibaba, nem que fosse de longe, então eu entrei na multidão, mas fiquei na periferia da multidão, muito distante de Saibaba.» (U6391 · chars 970460–971485) — Candidata de cotejo; evidência `STT26-15-RC-604-001`, grafia encontrada `fatiamento de consciência`; decisão por lote `STT26-15: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+### RC-618
+
+- **[STT26-14 · Moksha]** «Só um instantinho. A tela. Professor, pergunta Ana Flávia Brumo. Seres humanos podem se desvincular do eu superior após o moksha?» (U3226 · chars 523005–523135) — Candidata de cotejo; evidência `STT26-14-RC-618-001`, grafia encontrada `moksha`; decisão por lote `STT26-14: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+### RC-643
+
+- **[STT26-15 · Santo Graal (Frequência Mestre)]** «Olha, essa pergunta é muito bem formulada Ela está nos seus termos É uma equação quase que perfeita Dessa questão central que ela invoca Sem dizer o nome Mas a questão que essa pergunta invoca É daquilo que se chama Santo Graal É uma receita, um código mágico Acostumem-se com o nome É uma frequência mestre que eu comecei a falar disso na última live, e vou ter que falar isso mais para frente nesses livros, que tem uma capacidade de resolução e de abrir.» (U6697 · chars 1018712–1019170) — Candidata de cotejo; evidência `STT26-15-RC-643-001`, grafia encontrada `Santo Graal`; decisão por lote `STT26-15: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+### RC-715
+
+- **[STT26-17 · Informações Vivas]** «O eu doente que existe em cada um de nós Só reflete o eu doente do criador caído porque as informações vivas, genéticas do eu caído criador é que estão no nosso corpo fazendo com que o eu da gente seja doente.» (U11531 · chars 1825521–1825730) — Candidata de cotejo; evidência `STT26-17-RC-715-001`, grafia encontrada `informações vivas`; decisão por lote `STT26-17: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+### RC-752
+
+- **[STT26-14 · Agenda Espiritual]** «Então, a agenda espiritual, todos nós nascemos com uma. Essa agenda foi organizada numa super reunião espiritual, teve comes e bebes, foi fácil arranjar pai ou mãe para a gente, ou não teve, isso tudo são crônicas da vida espiritual, que quando a gente, entre aspas, volta a ser um cidadão da espiritualidade, a gente retoma essas memórias e se lembra, mas aqui a gente não se lembra por causa desse impedimento.» (U3348 · chars 535073–535485) — Candidata de cotejo; evidência `STT26-14-RC-752-001`, grafia encontrada `agenda espiritual`; decisão por lote `STT26-14: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+### RC-756
+
+- **[STT26-16 · Ganesha (exceção à metamorfose; cabeça de elefante)]** «O Jaganesha tem nada a ver, outra história. Shiva, um dos deuses da Trindade, da Trimurti, E Parvati seria a sua consorte, no sentido daquilo que os humanos entendem como um casal, coisa que a isso se pareça, ainda que não estejamos falando aqui de questões relacionadas à produção sexual, mas sim à produção via união de gametas, como se fosse in vitro hoje em dia.» (U9931 · chars 1560216–1560582) — Candidata de cotejo; evidência `STT26-16-RC-756-001`, grafia encontrada `Ganesha`; decisão por lote `STT26-16: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+### RC-759
+
+- **[STT26-17 · Jainismo (antigo Druidismo — religião mais antiga)]** «Então vejam, são duas gêneses totalmente distintas. Na época em que lá na Índia e no Tiberno o vedismo surgiu, junto com outras expressões do jainismo, não existia nem vida no Ocidente no sentido de vida organizada, crítica.» (U10561 · chars 1668653–1668877) — Candidata de cotejo; evidência `STT26-17-RC-759-001`, grafia encontrada `jainismo`; decisão por lote `STT26-17: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+### RC-854
+
+- **[STT26-13 · Apocalipse (livro de João, ditado por Sofia/Rockman)]** «Quando eu fiz isso, sem querer eu terminei adquirindo mais liberdade, a minha mente ficou mais aberta ainda para escutar ou receber mensagens, certas ou erradas, E o meu drama é que eu erro bastante na hora em que eu procuro entender aquilo e colocar no papel Aí é que eu erro mesmo Por isso que eu deixo claro Tem muito equívoco no que eu faço E acho que todo ser humano deveria fazer isso Porque nenhum pé de manga dá jaca Nenhum pé de coco dá goiaba Nós seres humanos somos imperfeitos você pretender que você está escrevendo sobre o julgo mental de alguém no livro de 200, 300 páginas e que você não vai cometer nenhum erro como médium é uma pretensão estranha, infantil e o espiritismo padece desse problema quando os seguidores de um médium tal dizem esse médium erra, aquele não erra, todo mundo erra quando são humanos nesse ponto erram mas quando eu fiquei livre para errar Aí é que mais e mais mensagens chegavam mostrando sobre a perspectiva deles Como é que se dará a volta de Jesus No próprio Apocalipse é o momento em que um anjo toma de João Que é o escritor, o escrevente do Apocalipse E leva com a vara de Medir para tomar medida da Jerusalém Celeste Que o anjo mostrou a João no céu ou seja, Jerusalém celeste é a maior coisa a maior coisa que João conhecia na época em que ele viveu era a cidade de Jerusalém então se há uma metáfora aí de uma nave voadora bem grande ser chamada de Jerusalém celeste mas o fato é que foi medido e no Apocalipse aparece lá o resultado da medida em cômodos na metragem lá da época E se nós imaginarmos uma lua cheia E mais ainda, se imaginarmos metade de uma lua cheia Se essa Jerusalém celeste estacionar A mesma distância da Terra em que a lua se encontra E acender suas luzes O tamanho dela dá metade de uma lua cheia Isso é o que João e o anjo do Apocalipse mediram e estavam registrados Em côvados e sei lá o que, as metragens da época Então o que é dito?» (U0222 · chars 51835–53747) — Candidata de cotejo; evidência `STT26-13-RC-854-001`, grafia encontrada `Apocalipse`; decisão por lote `STT26-13: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+### RC-940
+
+- **[STT26-14 · Samsara]** «É um estado de consciência que aprisiona todos os seres no âmbito interno da criação de Brahma. Tem a ver com a roda de samsara?» (U3234 · chars 524365–524493) — Candidata de cotejo; evidência `STT26-14-RC-940-001`, grafia encontrada `samsara`; decisão por lote `STT26-14: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+### BLOCO 2 — termos tocados sem arquivo (fila para a cadência do teto)
+
+- Nenhum termo novo nem fila de criação nesta fase de cotejo; o teto permanece em vigor.
+
+### BLOCO 3 — obras, datas e anterioridade (nada harmonizado: D-9)
+
+- Nenhuma obra, data ou anterioridade é afirmada por este pacote de candidatas.
+
+### BLOCO 4 — radar datado (promessa só aqui, nunca em ficha: D-11)
+
+- Sem radar: a próxima decisão é exclusivamente curatorial, candidata por candidata.
+
+### BLOCO 5 — retidos por despacho (fora do pacote e sem citação)
+
+- Exclusivamente `DESCARTAR-DO-LOTE`, preservados fora das 45 candidatas: `RC-059`, `RC-072`, `RC-085`, `RC-096`, `RC-144`, `RC-190`, `RC-193`, `RC-239`, `RC-268`, `RC-335`, `RC-344`, `RC-393`, `RC-862`, `RC-892`, `RC-942`, `RC-943`, `RC-944`, `RC-945`.

@@ -5,10 +5,10 @@ nome = "Hiperbórea"
 categoria = "Lokas & Geografias"
 subcategoria = "3.3 Localidades terrestres"
 status = "em análise"
-fontes = ["B031", "B023", "B052", "P2024-04-13", "P2025-11-29", "P2021-05-15", "P2022-03-26", "P2023-12-03", "P2018-12-16", "P2022-10-01", "P2022-09-25", "P2022-09-18"]
+fontes = ["B031", "B023", "B052", "P2024-04-13", "P2025-11-29", "P2021-05-15", "P2022-03-26", "P2023-12-03", "P2018-12-16", "P2022-10-01", "P2022-09-25", "P2022-09-18", "STT26-MITOLOGIAS_REINTEGRACAO"]
 via = "P7-conhecimento"
 confianca_fonte = "baixa"
-atualizado = "2026-09-12"
+atualizado = "2026-10-22"
 +++
 # Hiperbórea — RC-068
 
@@ -32,10 +32,16 @@ Na RC, o **"Norte Sagrado"** — a região mítica do extremo norte (também **N
 | Pacto Aesir-Vanir como Origem Nórdica da Ideia de Pandora | RC-816 | associado |
 | Cidades Sagradas do Hiperbóreo | RC-932 | arquivado na fila (F031 aplicação; sem ficha) |
 
+## Ampliação — STT26-MITOLOGIAS_REINTEGRACAO (Eixo STT26 — Mitologias, tradições e eixo de reintegração (derivados normalizados))
+
+- **[STT26-18 · Hiperbórea]** «Nós não sabemos disso muito bem, mas boa parte das mitologias setentrionais, ou seja, mitologias que falam das coisas do morte do planeta, Se referem a um tempo em que onde hoje é o chamado Polo Norte, existia um continente ou várias partes de terra que juntas compunham a civilização hiperbórea, alguns escandinavos chamam essa civilização de Thule, T-H-U-L-E, E essa civilização tinha uma característica singular.» (U14045 · chars 2282988–2283404) — Candidata de cotejo; evidência `STT26-18-RC-068-001`, grafia encontrada `hiperbórea`; decisão por lote `STT26-18: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| STT26-MITOLOGIAS_REINTEGRACAO | Eixo STT26 — Mitologias, tradições e eixo de reintegração (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | P2022-09-25 | O Contexto Espiritual da Construção de Brasília (palestra) | — | transcrição automatizada; citação |
 | P2022-10-01 | A Wyrd e a Espiritualidade (palestra) | — | transcrição automatizada; citação |
 | P2018-12-16 | Terra Atlantis - Era Sapiens (palestra) | — | transcrição automatizada; citação |

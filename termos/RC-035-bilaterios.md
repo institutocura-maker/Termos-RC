@@ -5,10 +5,10 @@ nome = "Bilatérios"
 categoria = "Seres & Entidades"
 subcategoria = "1.7 Híbridos / Seres de transição"
 status = "em análise"
-fontes = ["B031", "P2019-08-25", "P2024-05-04", "P2025-02-16", "P2024-04-13", "P2021-05-15", "P2020-04-25", "P2023-12-03", "P2022-05-07"]
+fontes = ["B031", "P2019-08-25", "P2024-05-04", "P2025-02-16", "P2024-04-13", "P2021-05-15", "P2020-04-25", "P2023-12-03", "P2022-05-07", "STT26-SOCIEDADE_CONTEMPORANEA"]
 via = "P7-conhecimento"
 confianca_fonte = "baixa"
-atualizado = "2026-08-29"
+atualizado = "2026-10-22"
 +++
 # Bilatérios — RC-035
 
@@ -37,9 +37,15 @@ Com isso:
 | Fornos Replicadores (naves/estações de semeadura de vida do Projeto Talm; Awayen, Awaylengan e Awaymaion) | RC-771 | ← relaciona-se-a |
 | Forno de Awaylengan (forno de Shiva — o primeiro a funcionar) | RC-837 | associado |
 
+## Ampliação — STT26-SOCIEDADE_CONTEMPORANEA (Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados))
+
+- **[STT26-23 · Bilatérios]** «A esfinge é um exemplo dessas disputas, é só para explicar isso. A personalidade de Javé, depois do projeto Tau, quando surgiram os seres bilatérios, que são seres que têm dois hemisférios no cérebro, o que permite a eclosão da emoção, os seres biodermos têm cérebro radiata, então eles não têm emoção nem sexualidade, são só matemáticos.» (U10442 · chars 1681775–1682113) — Candidata de cotejo; evidência `STT26-23-RC-035-001`, grafia encontrada `bilatérios`; decisão por lote `STT26-23: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+
 ## Fontes
 | Obra (sigla) | Título | Página | Tipo |
 |---|---|---|---|
+| STT26-SOCIEDADE_CONTEMPORANEA | Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
 | P2022-05-07 | Shiva, o Projeto Talm e os Mistérios de Awaylengam (palestra) | — | transcrição automatizada; citação |
 | P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra) | — | transcrição automatizada; citação |
 | B031 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |

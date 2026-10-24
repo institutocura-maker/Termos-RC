@@ -5,10 +5,10 @@ nome = "Pirra"
 categoria = "Seres & Entidades"
 subcategoria = "1.5 Decaídos / Exilados / Demônios"
 status = "verificado"
-fontes = ["B021", "P2024-11-09", "B087", "B088", "B089"]
+fontes = ["B021", "P2024-11-09", "B087", "B088", "B089", "STT26-SOCIEDADE_CONTEMPORANEA"]
 via = "P6-evidência"
 confianca_fonte = "alta"
-atualizado = "2026-09-13"
+atualizado = "2026-10-22"
 +++
 # Pirra — RC-303
 
@@ -38,9 +38,15 @@ No B087 (psicografia de Jeane Miranda — versão paralela às obras primárias 
 ## Seres Associados
 Pandora (RC-086) e Epimeteu (RC-302, os criadores); Prometeu (RC-301, o "tio"); o macho especial (o aluno).
 
+## Ampliação — STT26-SOCIEDADE_CONTEMPORANEA (Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados))
+
+- **[STT26-19 · Pirra]** «Sim, eles não têm outro, a não ser que eles morram todos e quando chegar a vez da loca deles, a loca deles já esteja morta, seus espíritos aqui irão nascer aqui. Então, a descendência de Pirra, que é filha de Pandora, produziu os mais avançados traços do código-fonte definidor de espécies dos demos, que foi misturado ao DNA humano como forma das gerações antigas demo não se apropriarem para reforçar as suas posições.» (U2349 · chars 405917–406337) — Candidata de cotejo; evidência `STT26-19-RC-303-001`, grafia encontrada `Pirra`; decisão por lote `STT26-19: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| STT26-SOCIEDADE_CONTEMPORANEA | Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
 | Os Livros da Vida de Pandora 1 (B087) | Caps. 13–15 | pp. 69–86 (PDF): a criação, a missão, a percepção | narrativa psicografada (Pandora) |
 | Tempos Difíceis no Olimpo (B021) | — | — | base do termo (versão primária) |
 

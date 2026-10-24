@@ -1,0 +1,304 @@
+{
+  "meta": {
+    "artefato": "Template de despacho curatorial — triagem STT em lote",
+    "lote_id": "STT26-24",
+    "gerado_em": "2026-10-20",
+    "estado": "PENDENTE-CURADOR",
+    "fonte_operacional": "somente derivados normalizados; o STT bruto não foi aberto",
+    "efeito_atual": "nenhum: não cria ciclo nem altera a Base",
+    "instrucoes": [
+      "Decidir o conjunto do lote, não vídeo a vídeo.",
+      "Sinal literal não prova conceito, interpretação nem citação apta.",
+      "AUTORIZAR-COTEJO é apenas permissão para aprofundar a evidência no derivado.",
+      "ABRIR-CICLO exige despacho posterior com âncoras e fonte derivada explícitas; não é efeito deste template."
+    ],
+    "opcoes_por_candidato": [
+      "MANTER-EM-TRIAGEM",
+      "DESCARTAR-DO-LOTE",
+      "AUTORIZAR-COTEJO-AMPLIADO",
+      "RESERVAR-PARA-FUTURO-CICLO"
+    ]
+  },
+  "candidatos": [
+    {
+      "codigo": "RC-072",
+      "nome": "Jesus",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-24-RC-072-001",
+        "STT26-24-RC-072-003",
+        "STT26-24-RC-072-016"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-301",
+      "nome": "Prometeu (titã)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-24-RC-301-001",
+        "STT26-24-RC-301-054"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-162",
+      "nome": "Elétrons (agente básico da vida universal)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-24-RC-162-001",
+        "STT26-24-RC-162-002"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-414",
+      "nome": "Krishna (avatar de Vishnu/Shiva)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-24-RC-414-001",
+        "STT26-24-RC-414-002",
+        "STT26-24-RC-414-003"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-037",
+      "nome": "Brahma (Brajna)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-24-RC-037-001",
+        "STT26-24-RC-037-012",
+        "STT26-24-RC-037-013"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-474",
+      "nome": "Arcontes (= Sophias e Indras; Conselho dos 70)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-24-RC-474-001",
+        "STT26-24-RC-474-014"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-094",
+      "nome": "Revelação Cósmica (conceito)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-24-RC-094-001",
+        "STT26-24-RC-094-007",
+        "STT26-24-RC-094-012"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-009",
+      "nome": "Sophia (Cristo Cósmico)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-24-RC-009-001",
+        "STT26-24-RC-009-004",
+        "STT26-24-RC-009-005"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-306",
+      "nome": "Apolo",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-24-RC-306-001",
+        "STT26-24-RC-306-002",
+        "STT26-24-RC-306-006"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-841",
+      "nome": "Cronos (titã)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-24-RC-841-001",
+        "STT26-24-RC-841-005"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-854",
+      "nome": "Apocalipse (livro de João, ditado por Sofia/Rockman)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-24-RC-854-001"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-078",
+      "nome": "Lúcifer (Yel Luzbel)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-24-RC-078-001"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-086",
+      "nome": "Pandora",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-24-RC-086-001",
+        "STT26-24-RC-086-006"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-163",
+      "nome": "Mente Universal (Emergente)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-24-RC-163-001"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-302",
+      "nome": "Epimeteu (titã)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-24-RC-302-001"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-239",
+      "nome": "Hitler (figura histórica no RC)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-24-RC-239-001",
+        "STT26-24-RC-239-005"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-593",
+      "nome": "Mahabharata",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-24-RC-593-001",
+        "STT26-24-RC-593-004"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-631",
+      "nome": "Cérebro Radiata",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-24-RC-631-001"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-102",
+      "nome": "Shiva (Savna)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-24-RC-102-001",
+        "STT26-24-RC-102-004"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-104",
+      "nome": "Trimurti",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-24-RC-104-001",
+        "STT26-24-RC-104-003"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-303",
+      "nome": "Pirra",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-24-RC-303-001"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-529",
+      "nome": "Ressonância límbica (emoções como tecnologia cósmica)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-24-RC-529-001"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-002",
+      "nome": "Rebelião de Lúcifer",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-24-RC-002-001",
+        "STT26-24-RC-002-003"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-035",
+      "nome": "Bilatérios",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-24-RC-035-001",
+        "STT26-24-RC-035-002"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-036",
+      "nome": "Biodemos",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-24-RC-036-001",
+        "STT26-24-RC-036-002"
+      ],
+      "observacao": ""
+    }
+  ],
+  "despacho_de_lote": {
+    "resultado": "PENDENTE",
+    "candidatos_para_cotejo_ampliado": [],
+    "autorizacao_para_abrir_ciclo": false,
+    "observacao": ""
+  }
+}

@@ -1,0 +1,1416 @@
+[
+  {
+    "lote_id": "OIDR26-01",
+    "eixo": {
+      "codigo": "ANUNNAKI_GENETICA",
+      "nome": "Anunnaki, genética e humanidade"
+    },
+    "origem_da_alocacao": "despacho curatorial explícito; não inferido automaticamente",
+    "estado": "AGUARDANDO-DESPACHO-CURATORIAL",
+    "duracao_estimada_segundos": 12437,
+    "duracao_estimada": "3:27:17",
+    "ressalva_capacidade": "Lote mantido atômico no eixo por alocação curatorial explícita; não há mistura intereixos para atingir faixa horária.",
+    "fontes": [
+      {
+        "ingresso_id": "P1",
+        "arquivo": "2024-07_005_L90vP0VFSTc_Enki_Enlil_e_o_Fim_Subito_da_Babilonia_-_PALESTRA_COMPLETA_Jan_Val_Ellam.md",
+        "titulo": "Enki, Enlil e o Fim Súbito da Babilônia - PALESTRA COMPLETA (Jan Val Ellam)",
+        "duracao": "03:27:17",
+        "sha256_derivado": "74db4bc550f396607b06e586c3eefdd0ec591a95b05a03cafe230b4fe2b685f2"
+      }
+    ],
+    "limite_candidatos": 25,
+    "quantidade_candidatos": 25,
+    "candidatos_de_cotejo_base": [
+      {
+        "codigo": "RC-487",
+        "nome": "Enlil (deus sumério, par de Enki)",
+        "categoria": "Seres & Entidades",
+        "subcategoria": "1.3 Extraterrestres / Raças cósmicas",
+        "sinais_exatos": 61,
+        "primeiro_endereco": {
+          "ingresso_id": "P1",
+          "unidade": "U00135",
+          "linha": 135
+        },
+        "estado": "candidato-de-cotejo; não é pérola, citação aprovada ou ordem de ampliação"
+      },
+      {
+        "codigo": "RC-460",
+        "nome": "Marduk (= Ra; Anunnaki filho de Enki)",
+        "categoria": "Seres & Entidades",
+        "subcategoria": "1.3 Extraterrestres / Raças cósmicas",
+        "sinais_exatos": 43,
+        "primeiro_endereco": {
+          "ingresso_id": "P1",
+          "unidade": "U00359",
+          "linha": 359
+        },
+        "estado": "candidato-de-cotejo; não é pérola, citação aprovada ou ordem de ampliação"
+      },
+      {
+        "codigo": "RC-024",
+        "nome": "Anunnaki",
+        "categoria": "Seres & Entidades",
+        "subcategoria": "1.3 Extraterrestres / Raças cósmicas",
+        "sinais_exatos": 33,
+        "primeiro_endereco": {
+          "ingresso_id": "P1",
+          "unidade": "U00113",
+          "linha": 113
+        },
+        "estado": "candidato-de-cotejo; não é pérola, citação aprovada ou ordem de ampliação"
+      },
+      {
+        "codigo": "RC-072",
+        "nome": "Jesus",
+        "categoria": "Seres & Entidades",
+        "subcategoria": "1.6 Figuras humanas (históricas/míticas)",
+        "sinais_exatos": 20,
+        "primeiro_endereco": {
+          "ingresso_id": "P1",
+          "unidade": "U00089",
+          "linha": 89
+        },
+        "estado": "candidato-de-cotejo; não é pérola, citação aprovada ou ordem de ampliação"
+      },
+      {
+        "codigo": "RC-086",
+        "nome": "Pandora",
+        "categoria": "Seres & Entidades",
+        "subcategoria": "1.7 Híbridos / Seres de transição",
+        "sinais_exatos": 11,
+        "primeiro_endereco": {
+          "ingresso_id": "P1",
+          "unidade": "U00135",
+          "linha": 135
+        },
+        "estado": "candidato-de-cotejo; não é pérola, citação aprovada ou ordem de ampliação"
+      },
+      {
+        "codigo": "RC-589",
+        "nome": "Nibiru",
+        "categoria": "Lokas & Geografias",
+        "subcategoria": "3.1 Planetas / Sistemas estelares",
+        "sinais_exatos": 11,
+        "primeiro_endereco": {
+          "ingresso_id": "P1",
+          "unidade": "U00149",
+          "linha": 149
+        },
+        "estado": "candidato-de-cotejo; não é pérola, citação aprovada ou ordem de ampliação"
+      },
+      {
+        "codigo": "RC-102",
+        "nome": "Shiva (Savna)",
+        "categoria": "Seres & Entidades",
+        "subcategoria": "1.1 Divindades / Criadores",
+        "sinais_exatos": 9,
+        "primeiro_endereco": {
+          "ingresso_id": "P1",
+          "unidade": "U00085",
+          "linha": 85
+        },
+        "estado": "candidato-de-cotejo; não é pérola, citação aprovada ou ordem de ampliação"
+      },
+      {
+        "codigo": "RC-588",
+        "nome": "Ninurta",
+        "categoria": "Seres & Entidades",
+        "subcategoria": "1.3 Extraterrestres / Raças cósmicas",
+        "sinais_exatos": 6,
+        "primeiro_endereco": {
+          "ingresso_id": "P1",
+          "unidade": "U00229",
+          "linha": 229
+        },
+        "estado": "candidato-de-cotejo; não é pérola, citação aprovada ou ordem de ampliação"
+      },
+      {
+        "codigo": "RC-036",
+        "nome": "Biodemos",
+        "categoria": "Seres & Entidades",
+        "subcategoria": "1.3 Extraterrestres / Raças cósmicas",
+        "sinais_exatos": 3,
+        "primeiro_endereco": {
+          "ingresso_id": "P1",
+          "unidade": "U00163",
+          "linha": 163
+        },
+        "estado": "candidato-de-cotejo; não é pérola, citação aprovada ou ordem de ampliação"
+      },
+      {
+        "codigo": "RC-850",
+        "nome": "Alexandre Magno (tirano sob influência de Lemion)",
+        "categoria": "Seres & Entidades",
+        "subcategoria": "1.6 Figuras humanas (históricas/míticas)",
+        "sinais_exatos": 3,
+        "primeiro_endereco": {
+          "ingresso_id": "P1",
+          "unidade": "U00301",
+          "linha": 301
+        },
+        "estado": "candidato-de-cotejo; não é pérola, citação aprovada ou ordem de ampliação"
+      },
+      {
+        "codigo": "RC-942",
+        "nome": "Messias",
+        "categoria": "Termos Específicos",
+        "subcategoria": "8.4 Grego / Latim",
+        "sinais_exatos": 3,
+        "primeiro_endereco": {
+          "ingresso_id": "P1",
+          "unidade": "U00429",
+          "linha": 429
+        },
+        "estado": "candidato-de-cotejo; não é pérola, citação aprovada ou ordem de ampliação"
+      },
+      {
+        "codigo": "RC-003",
+        "nome": "Reintegração Cósmica",
+        "categoria": "Conceitos Cosmológicos",
+        "subcategoria": "2.5 Propósitos / Destinos",
+        "sinais_exatos": 2,
+        "primeiro_endereco": {
+          "ingresso_id": "P1",
+          "unidade": "U00501",
+          "linha": 501
+        },
+        "estado": "candidato-de-cotejo; não é pérola, citação aprovada ou ordem de ampliação"
+      },
+      {
+        "codigo": "RC-037",
+        "nome": "Brahma (Brajna)",
+        "categoria": "Seres & Entidades",
+        "subcategoria": "1.1 Divindades / Criadores",
+        "sinais_exatos": 2,
+        "primeiro_endereco": {
+          "ingresso_id": "P1",
+          "unidade": "U00333",
+          "linha": 333
+        },
+        "estado": "candidato-de-cotejo; não é pérola, citação aprovada ou ordem de ampliação"
+      },
+      {
+        "codigo": "RC-078",
+        "nome": "Lúcifer (Yel Luzbel)",
+        "categoria": "Seres & Entidades",
+        "subcategoria": "1.5 Decaídos / Exilados / Demônios",
+        "sinais_exatos": 2,
+        "primeiro_endereco": {
+          "ingresso_id": "P1",
+          "unidade": "U00373",
+          "linha": 373
+        },
+        "estado": "candidato-de-cotejo; não é pérola, citação aprovada ou ordem de ampliação"
+      },
+      {
+        "codigo": "RC-094",
+        "nome": "Revelação Cósmica (conceito)",
+        "categoria": "Conceitos Cosmológicos",
+        "subcategoria": "2.1 Cosmogonia / Criação",
+        "sinais_exatos": 2,
+        "primeiro_endereco": {
+          "ingresso_id": "P1",
+          "unidade": "U00511",
+          "linha": 511
+        },
+        "estado": "candidato-de-cotejo; não é pérola, citação aprovada ou ordem de ampliação"
+      },
+      {
+        "codigo": "RC-097",
+        "nome": "Seres Extrafísicos",
+        "categoria": "Seres & Entidades",
+        "subcategoria": "1.5 Decaídos / Exilados / Demônios",
+        "sinais_exatos": 2,
+        "primeiro_endereco": {
+          "ingresso_id": "P1",
+          "unidade": "U00157",
+          "linha": 157
+        },
+        "estado": "candidato-de-cotejo; não é pérola, citação aprovada ou ordem de ampliação"
+      },
+      {
+        "codigo": "RC-104",
+        "nome": "Trimurti",
+        "categoria": "Genealogias & Linhagens",
+        "subcategoria": "6.1 Famílias divinas / Celestiais",
+        "sinais_exatos": 2,
+        "primeiro_endereco": {
+          "ingresso_id": "P1",
+          "unidade": "U00209",
+          "linha": 209
+        },
+        "estado": "candidato-de-cotejo; não é pérola, citação aprovada ou ordem de ampliação"
+      },
+      {
+        "codigo": "RC-134",
+        "nome": "Viajores",
+        "categoria": "Termos Específicos",
+        "subcategoria": "8.5 Outros idiomas / jargão técnico",
+        "sinais_exatos": 2,
+        "primeiro_endereco": {
+          "ingresso_id": "P1",
+          "unidade": "U00263",
+          "linha": 263
+        },
+        "estado": "candidato-de-cotejo; não é pérola, citação aprovada ou ordem de ampliação"
+      },
+      {
+        "codigo": "RC-135",
+        "nome": "Vishnu (Mavatna)",
+        "categoria": "Seres & Entidades",
+        "subcategoria": "1.1 Divindades / Criadores",
+        "sinais_exatos": 2,
+        "primeiro_endereco": {
+          "ingresso_id": "P1",
+          "unidade": "U00451",
+          "linha": 451
+        },
+        "estado": "candidato-de-cotejo; não é pérola, citação aprovada ou ordem de ampliação"
+      },
+      {
+        "codigo": "RC-301",
+        "nome": "Prometeu (titã)",
+        "categoria": "Seres & Entidades",
+        "subcategoria": "1.5 Decaídos / Exilados / Demônios",
+        "sinais_exatos": 2,
+        "primeiro_endereco": {
+          "ingresso_id": "P1",
+          "unidade": "U00429",
+          "linha": 429
+        },
+        "estado": "candidato-de-cotejo; não é pérola, citação aprovada ou ordem de ampliação"
+      },
+      {
+        "codigo": "RC-464",
+        "nome": "Inanna (= Danu; Anunnaki)",
+        "categoria": "Seres & Entidades",
+        "subcategoria": "1.3 Extraterrestres / Raças cósmicas",
+        "sinais_exatos": 2,
+        "primeiro_endereco": {
+          "ingresso_id": "P1",
+          "unidade": "U00371",
+          "linha": 371
+        },
+        "estado": "candidato-de-cotejo; não é pérola, citação aprovada ou ordem de ampliação"
+      },
+      {
+        "codigo": "RC-528",
+        "nome": "Mergulho (designação ellâmica da queda)",
+        "categoria": "Conceitos Cosmológicos",
+        "subcategoria": "2.1 Cosmogonia / Criação",
+        "sinais_exatos": 2,
+        "primeiro_endereco": {
+          "ingresso_id": "P1",
+          "unidade": "U00087",
+          "linha": 87
+        },
+        "estado": "candidato-de-cotejo; não é pérola, citação aprovada ou ordem de ampliação"
+      },
+      {
+        "codigo": "RC-764",
+        "nome": "Ao Vencedor as Batatas (paradigma do domínio)",
+        "categoria": "Conceitos Cosmológicos",
+        "subcategoria": "2.6 Ética / Carma / Compromissos",
+        "sinais_exatos": 2,
+        "primeiro_endereco": {
+          "ingresso_id": "P1",
+          "unidade": "U00057",
+          "linha": 57
+        },
+        "estado": "candidato-de-cotejo; não é pérola, citação aprovada ou ordem de ampliação"
+      },
+      {
+        "codigo": "RC-834",
+        "nome": "Família Aya (Clone de Sophia para Inseminação Artificial de Maria)",
+        "categoria": "Seres & Entidades",
+        "subcategoria": "1.5 Decaídos / Exilados / Demônios",
+        "sinais_exatos": 2,
+        "primeiro_endereco": {
+          "ingresso_id": "P1",
+          "unidade": "U00447",
+          "linha": 447
+        },
+        "estado": "candidato-de-cotejo; não é pérola, citação aprovada ou ordem de ampliação"
+      },
+      {
+        "codigo": "RC-002",
+        "nome": "Rebelião de Lúcifer",
+        "categoria": "Eventos & Eras",
+        "subcategoria": "7.1 Guerras / Rebeliões / Conflitos",
+        "sinais_exatos": 1,
+        "primeiro_endereco": {
+          "ingresso_id": "P1",
+          "unidade": "U00447",
+          "linha": 447
+        },
+        "estado": "candidato-de-cotejo; não é pérola, citação aprovada ou ordem de ampliação"
+      }
+    ]
+  },
+  {
+    "lote_id": "OIDR26-02",
+    "eixo": {
+      "codigo": "MITOLOGIAS_REINTEGRACAO",
+      "nome": "Mitologias, tradições e reintegração"
+    },
+    "origem_da_alocacao": "despacho curatorial explícito; não inferido automaticamente",
+    "estado": "AGUARDANDO-DESPACHO-CURATORIAL",
+    "duracao_estimada_segundos": 12905,
+    "duracao_estimada": "3:35:05",
+    "ressalva_capacidade": "Lote mantido atômico no eixo por alocação curatorial explícita; não há mistura intereixos para atingir faixa horária.",
+    "fontes": [
+      {
+        "ingresso_id": "P2",
+        "arquivo": "2024-09_003_EbK2RfETyEM_Conspiracao_Demodharmica_-_Krishna_Jesus_e_Sai_Baba_-_PALESTRA_COMPLETA_Jan_Val_Ellam.md",
+        "titulo": "Conspiração Demodharmica: Krishna, Jesus e Sai Baba - PALESTRA COMPLETA (Jan Val Ellam)",
+        "duracao": "03:35:05",
+        "sha256_derivado": "954dfba1d95dec7ec9116b50eff7c638b87d4694bbfef492c354dcc4f07a0f75"
+      }
+    ],
+    "limite_candidatos": 25,
+    "quantidade_candidatos": 25,
+    "candidatos_de_cotejo_base": [
+      {
+        "codigo": "RC-072",
+        "nome": "Jesus",
+        "categoria": "Seres & Entidades",
+        "subcategoria": "1.6 Figuras humanas (históricas/míticas)",
+        "sinais_exatos": 101,
+        "primeiro_endereco": {
+          "ingresso_id": "P2",
+          "unidade": "U00085",
+          "linha": 85
+        },
+        "estado": "candidato-de-cotejo; não é pérola, citação aprovada ou ordem de ampliação"
+      },
+      {
+        "codigo": "RC-037",
+        "nome": "Brahma (Brajna)",
+        "categoria": "Seres & Entidades",
+        "subcategoria": "1.1 Divindades / Criadores",
+        "sinais_exatos": 67,
+        "primeiro_endereco": {
+          "ingresso_id": "P2",
+          "unidade": "U00081",
+          "linha": 81
+        },
+        "estado": "candidato-de-cotejo; não é pérola, citação aprovada ou ordem de ampliação"
+      },
+      {
+        "codigo": "RC-102",
+        "nome": "Shiva (Savna)",
+        "categoria": "Seres & Entidades",
+        "subcategoria": "1.1 Divindades / Criadores",
+        "sinais_exatos": 54,
+        "primeiro_endereco": {
+          "ingresso_id": "P2",
+          "unidade": "U00081",
+          "linha": 81
+        },
+        "estado": "candidato-de-cotejo; não é pérola, citação aprovada ou ordem de ampliação"
+      },
+      {
+        "codigo": "RC-414",
+        "nome": "Krishna (avatar de Vishnu/Shiva)",
+        "categoria": "Seres & Entidades",
+        "subcategoria": "1.3 Extraterrestres / Raças cósmicas",
+        "sinais_exatos": 52,
+        "primeiro_endereco": {
+          "ingresso_id": "P2",
+          "unidade": "U00105",
+          "linha": 105
+        },
+        "estado": "candidato-de-cotejo; não é pérola, citação aprovada ou ordem de ampliação"
+      },
+      {
+        "codigo": "RC-135",
+        "nome": "Vishnu (Mavatna)",
+        "categoria": "Seres & Entidades",
+        "subcategoria": "1.1 Divindades / Criadores",
+        "sinais_exatos": 34,
+        "primeiro_endereco": {
+          "ingresso_id": "P2",
+          "unidade": "U00081",
+          "linha": 81
+        },
+        "estado": "candidato-de-cotejo; não é pérola, citação aprovada ou ordem de ampliação"
+      },
+      {
+        "codigo": "RC-104",
+        "nome": "Trimurti",
+        "categoria": "Genealogias & Linhagens",
+        "subcategoria": "6.1 Famílias divinas / Celestiais",
+        "sinais_exatos": 8,
+        "primeiro_endereco": {
+          "ingresso_id": "P2",
+          "unidade": "U00367",
+          "linha": 367
+        },
+        "estado": "candidato-de-cotejo; não é pérola, citação aprovada ou ordem de ampliação"
+      },
+      {
+        "codigo": "RC-942",
+        "nome": "Messias",
+        "categoria": "Termos Específicos",
+        "subcategoria": "8.4 Grego / Latim",
+        "sinais_exatos": 7,
+        "primeiro_endereco": {
+          "ingresso_id": "P2",
+          "unidade": "U00137",
+          "linha": 137
+        },
+        "estado": "candidato-de-cotejo; não é pérola, citação aprovada ou ordem de ampliação"
+      },
+      {
+        "codigo": "RC-094",
+        "nome": "Revelação Cósmica (conceito)",
+        "categoria": "Conceitos Cosmológicos",
+        "subcategoria": "2.1 Cosmogonia / Criação",
+        "sinais_exatos": 6,
+        "primeiro_endereco": {
+          "ingresso_id": "P2",
+          "unidade": "U00705",
+          "linha": 705
+        },
+        "estado": "candidato-de-cotejo; não é pérola, citação aprovada ou ordem de ampliação"
+      },
+      {
+        "codigo": "RC-225",
+        "nome": "Gestão Cósmica",
+        "categoria": "Conceitos Cosmológicos",
+        "subcategoria": "2.2 Leis e princípios cósmicos",
+        "sinais_exatos": 5,
+        "primeiro_endereco": {
+          "ingresso_id": "P2",
+          "unidade": "U00355",
+          "linha": 355
+        },
+        "estado": "candidato-de-cotejo; não é pérola, citação aprovada ou ordem de ampliação"
+      },
+      {
+        "codigo": "RC-593",
+        "nome": "Mahabharata",
+        "categoria": "Tecnologias & Artefatos",
+        "subcategoria": "5.4 Escrituras / Objetos documentais",
+        "sinais_exatos": 4,
+        "primeiro_endereco": {
+          "ingresso_id": "P2",
+          "unidade": "U00105",
+          "linha": 105
+        },
+        "estado": "candidato-de-cotejo; não é pérola, citação aprovada ou ordem de ampliação"
+      },
+      {
+        "codigo": "RC-669",
+        "nome": "Pashupati (avatar de Shiva)",
+        "categoria": "Seres & Entidades",
+        "subcategoria": "1.3 Extraterrestres / Raças cósmicas",
+        "sinais_exatos": 4,
+        "primeiro_endereco": {
+          "ingresso_id": "P2",
+          "unidade": "U00189",
+          "linha": 189
+        },
+        "estado": "candidato-de-cotejo; não é pérola, citação aprovada ou ordem de ampliação"
+      },
+      {
+        "codigo": "RC-841",
+        "nome": "Cronos (titã)",
+        "categoria": "Seres & Entidades",
+        "subcategoria": "1.5 Decaídos / Exilados / Demônios",
+        "sinais_exatos": 4,
+        "primeiro_endereco": {
+          "ingresso_id": "P2",
+          "unidade": "U00069",
+          "linha": 69
+        },
+        "estado": "candidato-de-cotejo; não é pérola, citação aprovada ou ordem de ampliação"
+      },
+      {
+        "codigo": "RC-254",
+        "nome": "Dominação (premissa dos Três Primeiros Logos)",
+        "categoria": "Conceitos Cosmológicos",
+        "subcategoria": "2.6 Ética / Carma / Compromissos",
+        "sinais_exatos": 3,
+        "primeiro_endereco": {
+          "ingresso_id": "P2",
+          "unidade": "U00121",
+          "linha": 121
+        },
+        "estado": "candidato-de-cotejo; não é pérola, citação aprovada ou ordem de ampliação"
+      },
+      {
+        "codigo": "RC-301",
+        "nome": "Prometeu (titã)",
+        "categoria": "Seres & Entidades",
+        "subcategoria": "1.5 Decaídos / Exilados / Demônios",
+        "sinais_exatos": 3,
+        "primeiro_endereco": {
+          "ingresso_id": "P2",
+          "unidade": "U00199",
+          "linha": 199
+        },
+        "estado": "candidato-de-cotejo; não é pérola, citação aprovada ou ordem de ampliação"
+      },
+      {
+        "codigo": "RC-489",
+        "nome": "Enoque (sétimo patriarca; levado por Javé)",
+        "categoria": "Seres & Entidades",
+        "subcategoria": "1.6 Figuras humanas (históricas/míticas)",
+        "sinais_exatos": 3,
+        "primeiro_endereco": {
+          "ingresso_id": "P2",
+          "unidade": "U00137",
+          "linha": 137
+        },
+        "estado": "candidato-de-cotejo; não é pérola, citação aprovada ou ordem de ampliação"
+      },
+      {
+        "codigo": "RC-696",
+        "nome": "Geração Regenerada de Brahma",
+        "categoria": "Genealogias & Linhagens",
+        "subcategoria": "6.1 Famílias divinas / Celestiais",
+        "sinais_exatos": 3,
+        "primeiro_endereco": {
+          "ingresso_id": "P2",
+          "unidade": "U00095",
+          "linha": 95
+        },
+        "estado": "candidato-de-cotejo; não é pérola, citação aprovada ou ordem de ampliação"
+      },
+      {
+        "codigo": "RC-749",
+        "nome": "Vício Devocional",
+        "categoria": "Conceitos Cosmológicos",
+        "subcategoria": "2.6 Ética / Carma / Compromissos",
+        "sinais_exatos": 3,
+        "primeiro_endereco": {
+          "ingresso_id": "P2",
+          "unidade": "U00185",
+          "linha": 185
+        },
+        "estado": "candidato-de-cotejo; não é pérola, citação aprovada ou ordem de ampliação"
+      },
+      {
+        "codigo": "RC-061",
+        "nome": "Espiritualidade Laboratorial",
+        "categoria": "Conceitos Cosmológicos",
+        "subcategoria": "2.3 Dimensões / Planos de existência",
+        "sinais_exatos": 2,
+        "primeiro_endereco": {
+          "ingresso_id": "P2",
+          "unidade": "U00447",
+          "linha": 447
+        },
+        "estado": "candidato-de-cotejo; não é pérola, citação aprovada ou ordem de ampliação"
+      },
+      {
+        "codigo": "RC-106",
+        "nome": "Universo Antimaterial (Brahmaloka / Universo Paralelo)",
+        "categoria": "Conceitos Cosmológicos",
+        "subcategoria": "2.3 Dimensões / Planos de existência",
+        "sinais_exatos": 2,
+        "primeiro_endereco": {
+          "ingresso_id": "P2",
+          "unidade": "U00061",
+          "linha": 61
+        },
+        "estado": "candidato-de-cotejo; não é pérola, citação aprovada ou ordem de ampliação"
+      },
+      {
+        "codigo": "RC-162",
+        "nome": "Elétrons (agente básico da vida universal)",
+        "categoria": "Processos & Fenômenos",
+        "subcategoria": "4.4 Fenômenos físicos / energéticos",
+        "sinais_exatos": 2,
+        "primeiro_endereco": {
+          "ingresso_id": "P2",
+          "unidade": "U00467",
+          "linha": 467
+        },
+        "estado": "candidato-de-cotejo; não é pérola, citação aprovada ou ordem de ampliação"
+      },
+      {
+        "codigo": "RC-239",
+        "nome": "Hitler (figura histórica no RC)",
+        "categoria": "Seres & Entidades",
+        "subcategoria": "1.6 Figuras humanas (históricas/míticas)",
+        "sinais_exatos": 2,
+        "primeiro_endereco": {
+          "ingresso_id": "P2",
+          "unidade": "U00601",
+          "linha": 601
+        },
+        "estado": "candidato-de-cotejo; não é pérola, citação aprovada ou ordem de ampliação"
+      },
+      {
+        "codigo": "RC-024",
+        "nome": "Anunnaki",
+        "categoria": "Seres & Entidades",
+        "subcategoria": "1.3 Extraterrestres / Raças cósmicas",
+        "sinais_exatos": 1,
+        "primeiro_endereco": {
+          "ingresso_id": "P2",
+          "unidade": "U00091",
+          "linha": 91
+        },
+        "estado": "candidato-de-cotejo; não é pérola, citação aprovada ou ordem de ampliação"
+      },
+      {
+        "codigo": "RC-034",
+        "nome": "Big Bang",
+        "categoria": "Conceitos Cosmológicos",
+        "subcategoria": "2.1 Cosmogonia / Criação",
+        "sinais_exatos": 1,
+        "primeiro_endereco": {
+          "ingresso_id": "P2",
+          "unidade": "U00063",
+          "linha": 63
+        },
+        "estado": "candidato-de-cotejo; não é pérola, citação aprovada ou ordem de ampliação"
+      },
+      {
+        "codigo": "RC-059",
+        "nome": "Espiritualidade Superior",
+        "categoria": "Conceitos Cosmológicos",
+        "subcategoria": "2.3 Dimensões / Planos de existência",
+        "sinais_exatos": 1,
+        "primeiro_endereco": {
+          "ingresso_id": "P2",
+          "unidade": "U00423",
+          "linha": 423
+        },
+        "estado": "candidato-de-cotejo; não é pérola, citação aprovada ou ordem de ampliação"
+      },
+      {
+        "codigo": "RC-073",
+        "nome": "Keshava",
+        "categoria": "Termos Específicos",
+        "subcategoria": "8.1 Sânscrito / Hinduísmo",
+        "sinais_exatos": 1,
+        "primeiro_endereco": {
+          "ingresso_id": "P2",
+          "unidade": "U00159",
+          "linha": 159
+        },
+        "estado": "candidato-de-cotejo; não é pérola, citação aprovada ou ordem de ampliação"
+      }
+    ]
+  },
+  {
+    "lote_id": "OIDR26-03",
+    "eixo": {
+      "codigo": "COSMOGONIA_HISTORIA_COSMICA",
+      "nome": "Cosmogonia e história cósmica"
+    },
+    "origem_da_alocacao": "despacho curatorial explícito; não inferido automaticamente",
+    "estado": "AGUARDANDO-DESPACHO-CURATORIAL",
+    "duracao_estimada_segundos": 13655,
+    "duracao_estimada": "3:47:35",
+    "ressalva_capacidade": "Lote mantido atômico no eixo por alocação curatorial explícita; não há mistura intereixos para atingir faixa horária.",
+    "fontes": [
+      {
+        "ingresso_id": "P3",
+        "arquivo": "2025-07_002_lS8Bw-eaFYQ_A_Falencia_dos_Deuses_e_a_Destinacao_do_Lobo_-_PALESTRA_COMPLETA_Jan_Val_Ellam.md",
+        "titulo": "A Falência dos Deuses e a Destinação do Lobo - PALESTRA COMPLETA (Jan Val Ellam)",
+        "duracao": "03:47:35",
+        "sha256_derivado": "1153163ad88e48634165361f041e21ae9d40a4d90b42e2634e3f13727d531ab8"
+      }
+    ],
+    "limite_candidatos": 25,
+    "quantidade_candidatos": 25,
+    "candidatos_de_cotejo_base": [
+      {
+        "codigo": "RC-037",
+        "nome": "Brahma (Brajna)",
+        "categoria": "Seres & Entidades",
+        "subcategoria": "1.1 Divindades / Criadores",
+        "sinais_exatos": 49,
+        "primeiro_endereco": {
+          "ingresso_id": "P3",
+          "unidade": "U00097",
+          "linha": 97
+        },
+        "estado": "candidato-de-cotejo; não é pérola, citação aprovada ou ordem de ampliação"
+      },
+      {
+        "codigo": "RC-102",
+        "nome": "Shiva (Savna)",
+        "categoria": "Seres & Entidades",
+        "subcategoria": "1.1 Divindades / Criadores",
+        "sinais_exatos": 21,
+        "primeiro_endereco": {
+          "ingresso_id": "P3",
+          "unidade": "U00193",
+          "linha": 193
+        },
+        "estado": "candidato-de-cotejo; não é pérola, citação aprovada ou ordem de ampliação"
+      },
+      {
+        "codigo": "RC-135",
+        "nome": "Vishnu (Mavatna)",
+        "categoria": "Seres & Entidades",
+        "subcategoria": "1.1 Divindades / Criadores",
+        "sinais_exatos": 20,
+        "primeiro_endereco": {
+          "ingresso_id": "P3",
+          "unidade": "U00193",
+          "linha": 193
+        },
+        "estado": "candidato-de-cotejo; não é pérola, citação aprovada ou ordem de ampliação"
+      },
+      {
+        "codigo": "RC-696",
+        "nome": "Geração Regenerada de Brahma",
+        "categoria": "Genealogias & Linhagens",
+        "subcategoria": "6.1 Famílias divinas / Celestiais",
+        "sinais_exatos": 13,
+        "primeiro_endereco": {
+          "ingresso_id": "P3",
+          "unidade": "U00233",
+          "linha": 233
+        },
+        "estado": "candidato-de-cotejo; não é pérola, citação aprovada ou ordem de ampliação"
+      },
+      {
+        "codigo": "RC-072",
+        "nome": "Jesus",
+        "categoria": "Seres & Entidades",
+        "subcategoria": "1.6 Figuras humanas (históricas/míticas)",
+        "sinais_exatos": 12,
+        "primeiro_endereco": {
+          "ingresso_id": "P3",
+          "unidade": "U00083",
+          "linha": 83
+        },
+        "estado": "candidato-de-cotejo; não é pérola, citação aprovada ou ordem de ampliação"
+      },
+      {
+        "codigo": "RC-302",
+        "nome": "Epimeteu (titã)",
+        "categoria": "Seres & Entidades",
+        "subcategoria": "1.5 Decaídos / Exilados / Demônios",
+        "sinais_exatos": 10,
+        "primeiro_endereco": {
+          "ingresso_id": "P3",
+          "unidade": "U00751",
+          "linha": 751
+        },
+        "estado": "candidato-de-cotejo; não é pérola, citação aprovada ou ordem de ampliação"
+      },
+      {
+        "codigo": "RC-585",
+        "nome": "Vyasa",
+        "categoria": "Seres & Entidades",
+        "subcategoria": "1.6 Figuras humanas (históricas/míticas)",
+        "sinais_exatos": 9,
+        "primeiro_endereco": {
+          "ingresso_id": "P3",
+          "unidade": "U00131",
+          "linha": 131
+        },
+        "estado": "candidato-de-cotejo; não é pérola, citação aprovada ou ordem de ampliação"
+      },
+      {
+        "codigo": "RC-593",
+        "nome": "Mahabharata",
+        "categoria": "Tecnologias & Artefatos",
+        "subcategoria": "5.4 Escrituras / Objetos documentais",
+        "sinais_exatos": 9,
+        "primeiro_endereco": {
+          "ingresso_id": "P3",
+          "unidade": "U00131",
+          "linha": 131
+        },
+        "estado": "candidato-de-cotejo; não é pérola, citação aprovada ou ordem de ampliação"
+      },
+      {
+        "codigo": "RC-582",
+        "nome": "Ravana",
+        "categoria": "Seres & Entidades",
+        "subcategoria": "1.5 Decaídos / Exilados / Demônios",
+        "sinais_exatos": 7,
+        "primeiro_endereco": {
+          "ingresso_id": "P3",
+          "unidade": "U00427",
+          "linha": 427
+        },
+        "estado": "candidato-de-cotejo; não é pérola, citação aprovada ou ordem de ampliação"
+      },
+      {
+        "codigo": "RC-081",
+        "nome": "Mohen So (Avatar Keshava de Vishnu)",
+        "categoria": "Seres & Entidades",
+        "subcategoria": "1.3 Extraterrestres / Raças cósmicas",
+        "sinais_exatos": 6,
+        "primeiro_endereco": {
+          "ingresso_id": "P3",
+          "unidade": "U00203",
+          "linha": 203
+        },
+        "estado": "candidato-de-cotejo; não é pérola, citação aprovada ou ordem de ampliação"
+      },
+      {
+        "codigo": "RC-086",
+        "nome": "Pandora",
+        "categoria": "Seres & Entidades",
+        "subcategoria": "1.7 Híbridos / Seres de transição",
+        "sinais_exatos": 6,
+        "primeiro_endereco": {
+          "ingresso_id": "P3",
+          "unidade": "U00527",
+          "linha": 527
+        },
+        "estado": "candidato-de-cotejo; não é pérola, citação aprovada ou ordem de ampliação"
+      },
+      {
+        "codigo": "RC-104",
+        "nome": "Trimurti",
+        "categoria": "Genealogias & Linhagens",
+        "subcategoria": "6.1 Famílias divinas / Celestiais",
+        "sinais_exatos": 5,
+        "primeiro_endereco": {
+          "ingresso_id": "P3",
+          "unidade": "U00203",
+          "linha": 203
+        },
+        "estado": "candidato-de-cotejo; não é pérola, citação aprovada ou ordem de ampliação"
+      },
+      {
+        "codigo": "RC-414",
+        "nome": "Krishna (avatar de Vishnu/Shiva)",
+        "categoria": "Seres & Entidades",
+        "subcategoria": "1.3 Extraterrestres / Raças cósmicas",
+        "sinais_exatos": 5,
+        "primeiro_endereco": {
+          "ingresso_id": "P3",
+          "unidade": "U00091",
+          "linha": 91
+        },
+        "estado": "candidato-de-cotejo; não é pérola, citação aprovada ou ordem de ampliação"
+      },
+      {
+        "codigo": "RC-743",
+        "nome": "Destinação do Lobo",
+        "categoria": "Conceitos Cosmológicos",
+        "subcategoria": "2.5 Propósitos / Destinos",
+        "sinais_exatos": 5,
+        "primeiro_endereco": {
+          "ingresso_id": "P3",
+          "unidade": "U00109",
+          "linha": 109
+        },
+        "estado": "candidato-de-cotejo; não é pérola, citação aprovada ou ordem de ampliação"
+      },
+      {
+        "codigo": "RC-034",
+        "nome": "Big Bang",
+        "categoria": "Conceitos Cosmológicos",
+        "subcategoria": "2.1 Cosmogonia / Criação",
+        "sinais_exatos": 4,
+        "primeiro_endereco": {
+          "ingresso_id": "P3",
+          "unidade": "U00039",
+          "linha": 39
+        },
+        "estado": "candidato-de-cotejo; não é pérola, citação aprovada ou ordem de ampliação"
+      },
+      {
+        "codigo": "RC-094",
+        "nome": "Revelação Cósmica (conceito)",
+        "categoria": "Conceitos Cosmológicos",
+        "subcategoria": "2.1 Cosmogonia / Criação",
+        "sinais_exatos": 4,
+        "primeiro_endereco": {
+          "ingresso_id": "P3",
+          "unidade": "U00565",
+          "linha": 565
+        },
+        "estado": "candidato-de-cotejo; não é pérola, citação aprovada ou ordem de ampliação"
+      },
+      {
+        "codigo": "RC-529",
+        "nome": "Ressonância límbica (emoções como tecnologia cósmica)",
+        "categoria": "Processos & Fenômenos",
+        "subcategoria": "4.2 Fenômenos espirituais / mediúnicos",
+        "sinais_exatos": 4,
+        "primeiro_endereco": {
+          "ingresso_id": "P3",
+          "unidade": "U00399",
+          "linha": 399
+        },
+        "estado": "candidato-de-cotejo; não é pérola, citação aprovada ou ordem de ampliação"
+      },
+      {
+        "codigo": "RC-192",
+        "nome": "Pílula vermelha",
+        "categoria": "Termos Específicos",
+        "subcategoria": "8.5 Outros idiomas / jargão técnico",
+        "sinais_exatos": 3,
+        "primeiro_endereco": {
+          "ingresso_id": "P3",
+          "unidade": "U00041",
+          "linha": 41
+        },
+        "estado": "candidato-de-cotejo; não é pérola, citação aprovada ou ordem de ampliação"
+      },
+      {
+        "codigo": "RC-301",
+        "nome": "Prometeu (titã)",
+        "categoria": "Seres & Entidades",
+        "subcategoria": "1.5 Decaídos / Exilados / Demônios",
+        "sinais_exatos": 3,
+        "primeiro_endereco": {
+          "ingresso_id": "P3",
+          "unidade": "U00751",
+          "linha": 751
+        },
+        "estado": "candidato-de-cotejo; não é pérola, citação aprovada ou ordem de ampliação"
+      },
+      {
+        "codigo": "RC-742",
+        "nome": "Falência dos Deuses",
+        "categoria": "Eventos & Eras",
+        "subcategoria": "7.4 Catástrofes / Dilúvios / Quedas",
+        "sinais_exatos": 3,
+        "primeiro_endereco": {
+          "ingresso_id": "P3",
+          "unidade": "U00109",
+          "linha": 109
+        },
+        "estado": "candidato-de-cotejo; não é pérola, citação aprovada ou ordem de ampliação"
+      },
+      {
+        "codigo": "RC-852",
+        "nome": "Prajapati (a divindade antes de virar Brama)",
+        "categoria": "Seres & Entidades",
+        "subcategoria": "1.1 Divindades / Criadores",
+        "sinais_exatos": 3,
+        "primeiro_endereco": {
+          "ingresso_id": "P3",
+          "unidade": "U00191",
+          "linha": 191
+        },
+        "estado": "candidato-de-cotejo; não é pérola, citação aprovada ou ordem de ampliação"
+      },
+      {
+        "codigo": "RC-056",
+        "nome": "Especiação",
+        "categoria": "Processos & Fenômenos",
+        "subcategoria": "4.1 Processos biológicos / genéticos",
+        "sinais_exatos": 2,
+        "primeiro_endereco": {
+          "ingresso_id": "P3",
+          "unidade": "U00457",
+          "linha": 457
+        },
+        "estado": "candidato-de-cotejo; não é pérola, citação aprovada ou ordem de ampliação"
+      },
+      {
+        "codigo": "RC-839",
+        "nome": "Oxitocina (hormônio do bem — base bioquímica da Karuna)",
+        "categoria": "Processos & Fenômenos",
+        "subcategoria": "4.1 Processos biológicos / genéticos",
+        "sinais_exatos": 2,
+        "primeiro_endereco": {
+          "ingresso_id": "P3",
+          "unidade": "U00779",
+          "linha": 779
+        },
+        "estado": "candidato-de-cotejo; não é pérola, citação aprovada ou ordem de ampliação"
+      },
+      {
+        "codigo": "RC-033",
+        "nome": "Bhuloka",
+        "categoria": "Termos Específicos",
+        "subcategoria": "8.1 Sânscrito / Hinduísmo",
+        "sinais_exatos": 1,
+        "primeiro_endereco": {
+          "ingresso_id": "P3",
+          "unidade": "U00395",
+          "linha": 395
+        },
+        "estado": "candidato-de-cotejo; não é pérola, citação aprovada ou ordem de ampliação"
+      },
+      {
+        "codigo": "RC-059",
+        "nome": "Espiritualidade Superior",
+        "categoria": "Conceitos Cosmológicos",
+        "subcategoria": "2.3 Dimensões / Planos de existência",
+        "sinais_exatos": 1,
+        "primeiro_endereco": {
+          "ingresso_id": "P3",
+          "unidade": "U00763",
+          "linha": 763
+        },
+        "estado": "candidato-de-cotejo; não é pérola, citação aprovada ou ordem de ampliação"
+      }
+    ]
+  },
+  {
+    "lote_id": "OIDR26-04",
+    "eixo": {
+      "codigo": "EXPERIENCIA_ESPIRITUAL_ETICA",
+      "nome": "Experiência espiritual e ética evolutiva"
+    },
+    "origem_da_alocacao": "despacho curatorial explícito; não inferido automaticamente",
+    "estado": "AGUARDANDO-DESPACHO-CURATORIAL",
+    "duracao_estimada_segundos": 16795,
+    "duracao_estimada": "4:39:55",
+    "ressalva_capacidade": "Lote mantido atômico no eixo por alocação curatorial explícita; não há mistura intereixos para atingir faixa horária.",
+    "fontes": [
+      {
+        "ingresso_id": "P4",
+        "arquivo": "2025-07_035_JDaxXjYGyu0_Direitos_e_Deveres_Espirituais_VSC_10.md",
+        "titulo": "Direitos e Deveres Espirituais | VSC#10",
+        "duracao": "01:25:43",
+        "sha256_derivado": "9083e18b80c67bd1fa6401152ebe3e3e3ea1918be2c016273dcb34894af55a35"
+      },
+      {
+        "ingresso_id": "P5",
+        "arquivo": "2025-09_029_SzZtXArSltg_O_Quarto_Caminho_de_Gurdjieff_VSC_16.md",
+        "titulo": "O Quarto Caminho de Gurdjieff | VSC#16",
+        "duracao": "01:35:10",
+        "sha256_derivado": "9bc6358bd93b44eb846e599a1d2a9dd657c858b3021162266aca49a9b71aa37d"
+      },
+      {
+        "ingresso_id": "P6",
+        "arquivo": "2026-02_019_E2fBs7aocgU_O_Grande_Caminho_VSC_26.md",
+        "titulo": "O Grande Caminho | VSC#26",
+        "duracao": "01:39:02",
+        "sha256_derivado": "a68c477815c157e108fa960e4a9456435bbd4c890e701098455e98461a114173"
+      }
+    ],
+    "limite_candidatos": 25,
+    "quantidade_candidatos": 25,
+    "candidatos_de_cotejo_base": [
+      {
+        "codigo": "RC-072",
+        "nome": "Jesus",
+        "categoria": "Seres & Entidades",
+        "subcategoria": "1.6 Figuras humanas (históricas/míticas)",
+        "sinais_exatos": 38,
+        "primeiro_endereco": {
+          "ingresso_id": "P4",
+          "unidade": "U00056",
+          "linha": 56
+        },
+        "estado": "candidato-de-cotejo; não é pérola, citação aprovada ou ordem de ampliação"
+      },
+      {
+        "codigo": "RC-166",
+        "nome": "Mentalma",
+        "categoria": "Termos Específicos",
+        "subcategoria": "8.5 Outros idiomas / jargão técnico",
+        "sinais_exatos": 10,
+        "primeiro_endereco": {
+          "ingresso_id": "P4",
+          "unidade": "U00216",
+          "linha": 216
+        },
+        "estado": "candidato-de-cotejo; não é pérola, citação aprovada ou ordem de ampliação"
+      },
+      {
+        "codigo": "RC-239",
+        "nome": "Hitler (figura histórica no RC)",
+        "categoria": "Seres & Entidades",
+        "subcategoria": "1.6 Figuras humanas (históricas/míticas)",
+        "sinais_exatos": 4,
+        "primeiro_endereco": {
+          "ingresso_id": "P6",
+          "unidade": "U00152",
+          "linha": 152
+        },
+        "estado": "candidato-de-cotejo; não é pérola, citação aprovada ou ordem de ampliação"
+      },
+      {
+        "codigo": "RC-393",
+        "nome": "Enéas (espírito comunicante)",
+        "categoria": "Seres & Entidades",
+        "subcategoria": "1.6 Figuras humanas (históricas/míticas)",
+        "sinais_exatos": 4,
+        "primeiro_endereco": {
+          "ingresso_id": "P4",
+          "unidade": "U00042",
+          "linha": 42
+        },
+        "estado": "candidato-de-cotejo; não é pérola, citação aprovada ou ordem de ampliação"
+      },
+      {
+        "codigo": "RC-344",
+        "nome": "Transição Planetária",
+        "categoria": "Eventos & Eras",
+        "subcategoria": "7.2 Eras / Épocas / Ciclos",
+        "sinais_exatos": 3,
+        "primeiro_endereco": {
+          "ingresso_id": "P4",
+          "unidade": "U00220",
+          "linha": 220
+        },
+        "estado": "candidato-de-cotejo; não é pérola, citação aprovada ou ordem de ampliação"
+      },
+      {
+        "codigo": "RC-623",
+        "nome": "Corpo Átmico",
+        "categoria": "Conceitos Cosmológicos",
+        "subcategoria": "2.3 Dimensões / Planos de existência",
+        "sinais_exatos": 3,
+        "primeiro_endereco": {
+          "ingresso_id": "P5",
+          "unidade": "U00291",
+          "linha": 291
+        },
+        "estado": "candidato-de-cotejo; não é pérola, citação aprovada ou ordem de ampliação"
+      },
+      {
+        "codigo": "RC-843",
+        "nome": "Eru Ilúvatar (criador no Silmarillion)",
+        "categoria": "Seres & Entidades",
+        "subcategoria": "1.1 Divindades / Criadores",
+        "sinais_exatos": 3,
+        "primeiro_endereco": {
+          "ingresso_id": "P5",
+          "unidade": "U00201",
+          "linha": 201
+        },
+        "estado": "candidato-de-cotejo; não é pérola, citação aprovada ou ordem de ampliação"
+      },
+      {
+        "codigo": "RC-037",
+        "nome": "Brahma (Brajna)",
+        "categoria": "Seres & Entidades",
+        "subcategoria": "1.1 Divindades / Criadores",
+        "sinais_exatos": 2,
+        "primeiro_endereco": {
+          "ingresso_id": "P4",
+          "unidade": "U00226",
+          "linha": 226
+        },
+        "estado": "candidato-de-cotejo; não é pérola, citação aprovada ou ordem de ampliação"
+      },
+      {
+        "codigo": "RC-094",
+        "nome": "Revelação Cósmica (conceito)",
+        "categoria": "Conceitos Cosmológicos",
+        "subcategoria": "2.1 Cosmogonia / Criação",
+        "sinais_exatos": 2,
+        "primeiro_endereco": {
+          "ingresso_id": "P4",
+          "unidade": "U00196",
+          "linha": 196
+        },
+        "estado": "candidato-de-cotejo; não é pérola, citação aprovada ou ordem de ampliação"
+      },
+      {
+        "codigo": "RC-102",
+        "nome": "Shiva (Savna)",
+        "categoria": "Seres & Entidades",
+        "subcategoria": "1.1 Divindades / Criadores",
+        "sinais_exatos": 2,
+        "primeiro_endereco": {
+          "ingresso_id": "P4",
+          "unidade": "U00226",
+          "linha": 226
+        },
+        "estado": "candidato-de-cotejo; não é pérola, citação aprovada ou ordem de ampliação"
+      },
+      {
+        "codigo": "RC-135",
+        "nome": "Vishnu (Mavatna)",
+        "categoria": "Seres & Entidades",
+        "subcategoria": "1.1 Divindades / Criadores",
+        "sinais_exatos": 2,
+        "primeiro_endereco": {
+          "ingresso_id": "P4",
+          "unidade": "U00226",
+          "linha": 226
+        },
+        "estado": "candidato-de-cotejo; não é pérola, citação aprovada ou ordem de ampliação"
+      },
+      {
+        "codigo": "RC-414",
+        "nome": "Krishna (avatar de Vishnu/Shiva)",
+        "categoria": "Seres & Entidades",
+        "subcategoria": "1.3 Extraterrestres / Raças cósmicas",
+        "sinais_exatos": 2,
+        "primeiro_endereco": {
+          "ingresso_id": "P6",
+          "unidade": "U00318",
+          "linha": 318
+        },
+        "estado": "candidato-de-cotejo; não é pérola, citação aprovada ou ordem de ampliação"
+      },
+      {
+        "codigo": "RC-553",
+        "nome": "Eu Profundo (nível espiritual do Eu)",
+        "categoria": "Seres & Entidades",
+        "subcategoria": "1.8 Consciências coletivas / Logos",
+        "sinais_exatos": 2,
+        "primeiro_endereco": {
+          "ingresso_id": "P6",
+          "unidade": "U00328",
+          "linha": 328
+        },
+        "estado": "candidato-de-cotejo; não é pérola, citação aprovada ou ordem de ampliação"
+      },
+      {
+        "codigo": "RC-585",
+        "nome": "Vyasa",
+        "categoria": "Seres & Entidades",
+        "subcategoria": "1.6 Figuras humanas (históricas/míticas)",
+        "sinais_exatos": 2,
+        "primeiro_endereco": {
+          "ingresso_id": "P5",
+          "unidade": "U00157",
+          "linha": 157
+        },
+        "estado": "candidato-de-cotejo; não é pérola, citação aprovada ou ordem de ampliação"
+      },
+      {
+        "codigo": "RC-624",
+        "nome": "Corpo Búdico",
+        "categoria": "Conceitos Cosmológicos",
+        "subcategoria": "2.3 Dimensões / Planos de existência",
+        "sinais_exatos": 2,
+        "primeiro_endereco": {
+          "ingresso_id": "P5",
+          "unidade": "U00291",
+          "linha": 291
+        },
+        "estado": "candidato-de-cotejo; não é pérola, citação aprovada ou ordem de ampliação"
+      },
+      {
+        "codigo": "RC-704",
+        "nome": "Corpo Sutil Reencarnante",
+        "categoria": "Conceitos Cosmológicos",
+        "subcategoria": "2.3 Dimensões / Planos de existência",
+        "sinais_exatos": 2,
+        "primeiro_endereco": {
+          "ingresso_id": "P4",
+          "unidade": "U00100",
+          "linha": 100
+        },
+        "estado": "candidato-de-cotejo; não é pérola, citação aprovada ou ordem de ampliação"
+      },
+      {
+        "codigo": "RC-845",
+        "nome": "Nada Brahma (tudo é som)",
+        "categoria": "Termos Específicos",
+        "subcategoria": "8.1 Sânscrito / Hinduísmo",
+        "sinais_exatos": 2,
+        "primeiro_endereco": {
+          "ingresso_id": "P5",
+          "unidade": "U00197",
+          "linha": 197
+        },
+        "estado": "candidato-de-cotejo; não é pérola, citação aprovada ou ordem de ampliação"
+      },
+      {
+        "codigo": "RC-942",
+        "nome": "Messias",
+        "categoria": "Termos Específicos",
+        "subcategoria": "8.4 Grego / Latim",
+        "sinais_exatos": 2,
+        "primeiro_endereco": {
+          "ingresso_id": "P4",
+          "unidade": "U00272",
+          "linha": 272
+        },
+        "estado": "candidato-de-cotejo; não é pérola, citação aprovada ou ordem de ampliação"
+      },
+      {
+        "codigo": "RC-024",
+        "nome": "Anunnaki",
+        "categoria": "Seres & Entidades",
+        "subcategoria": "1.3 Extraterrestres / Raças cósmicas",
+        "sinais_exatos": 1,
+        "primeiro_endereco": {
+          "ingresso_id": "P5",
+          "unidade": "U00159",
+          "linha": 159
+        },
+        "estado": "candidato-de-cotejo; não é pérola, citação aprovada ou ordem de ampliação"
+      },
+      {
+        "codigo": "RC-039",
+        "nome": "Capela (Sistema)",
+        "categoria": "Lokas & Geografias",
+        "subcategoria": "3.1 Planetas / Sistemas estelares",
+        "sinais_exatos": 1,
+        "primeiro_endereco": {
+          "ingresso_id": "P6",
+          "unidade": "U00162",
+          "linha": 162
+        },
+        "estado": "candidato-de-cotejo; não é pérola, citação aprovada ou ordem de ampliação"
+      },
+      {
+        "codigo": "RC-059",
+        "nome": "Espiritualidade Superior",
+        "categoria": "Conceitos Cosmológicos",
+        "subcategoria": "2.3 Dimensões / Planos de existência",
+        "sinais_exatos": 1,
+        "primeiro_endereco": {
+          "ingresso_id": "P4",
+          "unidade": "U00050",
+          "linha": 50
+        },
+        "estado": "candidato-de-cotejo; não é pérola, citação aprovada ou ordem de ampliação"
+      },
+      {
+        "codigo": "RC-144",
+        "nome": "Zeitgeist",
+        "categoria": "Termos Específicos",
+        "subcategoria": "8.5 Outros idiomas / jargão técnico",
+        "sinais_exatos": 1,
+        "primeiro_endereco": {
+          "ingresso_id": "P4",
+          "unidade": "U00056",
+          "linha": 56
+        },
+        "estado": "candidato-de-cotejo; não é pérola, citação aprovada ou ordem de ampliação"
+      },
+      {
+        "codigo": "RC-162",
+        "nome": "Elétrons (agente básico da vida universal)",
+        "categoria": "Processos & Fenômenos",
+        "subcategoria": "4.4 Fenômenos físicos / energéticos",
+        "sinais_exatos": 1,
+        "primeiro_endereco": {
+          "ingresso_id": "P4",
+          "unidade": "U00096",
+          "linha": 96
+        },
+        "estado": "candidato-de-cotejo; não é pérola, citação aprovada ou ordem de ampliação"
+      },
+      {
+        "codigo": "RC-306",
+        "nome": "Apolo",
+        "categoria": "Seres & Entidades",
+        "subcategoria": "1.5 Decaídos / Exilados / Demônios",
+        "sinais_exatos": 1,
+        "primeiro_endereco": {
+          "ingresso_id": "P6",
+          "unidade": "U00182",
+          "linha": 182
+        },
+        "estado": "candidato-de-cotejo; não é pérola, citação aprovada ou ordem de ampliação"
+      },
+      {
+        "codigo": "RC-335",
+        "nome": "Lavagem Cerebral (condicionamento)",
+        "categoria": "Conceitos Cosmológicos",
+        "subcategoria": "2.6 Ética / Carma / Compromissos",
+        "sinais_exatos": 1,
+        "primeiro_endereco": {
+          "ingresso_id": "P4",
+          "unidade": "U00094",
+          "linha": 94
+        },
+        "estado": "candidato-de-cotejo; não é pérola, citação aprovada ou ordem de ampliação"
+      }
+    ]
+  }
+]

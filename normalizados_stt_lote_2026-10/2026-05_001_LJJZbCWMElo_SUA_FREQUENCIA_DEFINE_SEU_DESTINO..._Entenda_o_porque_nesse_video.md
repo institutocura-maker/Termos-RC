@@ -1,0 +1,43 @@
+---
+titulo: "SUA FREQUÊNCIA DEFINE SEU DESTINO... Entenda o porque nesse vídeo"
+data_publicacao_original: "2026-05-06"
+canal_autor: "Jan Val Ellam"
+id_youtube: "LJJZbCWMElo"
+link_original: "https://www.youtube.com/watch?v=LJJZbCWMElo"
+arquivo_fonte: "2026-05_001_LJJZbCWMElo_SUA_FREQUENCIA_DEFINE_SEU_DESTINO..._Entenda_o_porque_nesse_video.opus"
+duracao: "00:13:18"
+data_transcricao: "2026-10-18 03:43:35"
+motor_neural: "faster-whisper large-v3 (FP16 / CUDA)"
+descricao: |
+  Acesse o curso Mistérios do Xamismo  👉🏼 https://link.janvalellam.com.br/seminario-de-xamanismo
+  
+  Se você gostou deste conteúdo, deixe seu “Gostei”  e compartilhe com outros buscadores, ajudando a divulgar esses conhecimentos! Considere tornar-se membro do nosso canal e tenha acesso a conteúdo exclusivo e aprofundado.
+  
+  🌍 Mergulhe nos temas abordados e acesse nossos materiais gratuitos e cursos completos através do link: 👉🏼 https://janvalellam.com.br/
+  
+  Fortaleça o nosso trabalho e inscreva-se em nossos canais parceiros! 
+  📺 Canal de cortes: http://youtube.com/@JanValEllamCortes
+  📺 Canal em Espanhol: https://youtube.com/@UC5S685D_bVyjm7fkdmhRxRA 
+  📺 Canal em Inglês: https://youtube.com/@UCIaKoFPFuBMUARXDZTOWJTA
+  📺 Canal Farol Lusitano: https://youtube.com/@FarolLusitano?si=wSpVRFWBo2B9U6cc
+  
+  Outros links importantes:
+  📚 Livros e Agenda:  http://janvalellam.org
+  📸 Instagram: https://instagram.com/janvalellam/
+---
+
+# SUA FREQUÊNCIA DEFINE SEU DESTINO... Entenda o porque nesse vídeo
+
+> **Fonte Original:** [https://www.youtube.com/watch?v=LJJZbCWMElo](https://www.youtube.com/watch?v=LJJZbCWMElo) | **Duração:** 00:13:18
+
+A pulsação, a frequência que sai de um ser humano, ela tem uma importância que nós ainda não conseguimos vislumbrá-la ou percebê-la em toda a sua pujança, em todo o seu grau de efetivação no sentido de provocar na energia uma dada repercussão que faz com que essa energia se movimente sob a forma de onda, que normalmente a energia já é onda, ou mesmo que haja uma transformação dessa energia em partícula, e aí a gente está falando do jogo materialização e desmaterialização dos processos. E assim, a pulsação de um ser humano é exatamente a mais fundamental, a mais essencial das forças que consegue provocar esse tipo de repercussão no mundo que a gente chama da energia. Se a gente considerar que nesse campo energético, nesse mundo de energia, existe o contexto espiritual, nós também haveríamos, então, de por dedução, imaginar que realmente o ser humano, por estar no âmbito mais primitivo de tudo que existe, ou seja, nós vivemos no caos, então o caos é algo que não está fora do paraíso, porque nada existe fora do paraíso, tudo existe dentro do paraíso, ainda que separados essas faixas de realidade umas das outras por blindagens quânticas. Tomando, então, o exemplo de uma cebola, que é composta de camadas, mas aquilo lá é uma cebola, nós poderíamos tomar como suposição que o tudo que existe é uma cebola, sendo as suas camadas mais externas o paraíso, e para dentro são níveis de colapso quântico que foram existindo, e nós somos a coisa mais materializada dentro dessa cebola, e aí é necessário um pouco de imaginação nessa metáfora ao pobre, mas o que é que eu estou querendo dizer? Nessa cebola, quem vibra lá na superfície, a vibração fica ali mesmo.
+
+Mas quando algo existe no seu centro, e esse algo é primitivo, é uma pulsação que tem força e que sai de algum ponto do interior dessa cebola, toda ela sente.
+
+E é exatamente isso que estou tentando transmitir na hora em que digo que um ser humano, quando atinge minimamente certos níveis de equilíbrio pessoal, de pacificação pessoal, Por que pacificação? Para que a vibração não seja agressiva, para que a pulsação que sai de um ser humano não seja agressiva. ainda que ela seja definidora eventualmente, ainda que ela seja algo que está só se impondo eventualmente sobre uma dada situação do tipo você entra em algum lugar onde você percebe que a situação vibratória do lugar não é agradável e aquilo lhe causa algum tipo de atrito, Então, nessa hora, você vibra no sentido de se sentir bem, de se autoproteger, e essa sua pulsação termina prevalecendo sobre a do lugar. E essa cebola é o lugar inteiro em que a vibração de um ser humano nos moldes da atualidade de tudo que existe, a pulsação de um ser humano parece estar conseguindo chegar a Lourdes com o seu nível de mensagem pretendida. Se um ser humano vibra no sentido de repousar o seu eu na sua sensação de integridade pessoal, vinculada aos conceitos supremos de decência, dignidade, aquilo que de fato engrandece a frequência de um coração e de uma consciência humanas ou humanos, essa força é de uma frequência tal que ela interage com o que de mais belo existe nas regiões paradisíacas, no exemplo que estamos dando na extremidade da cebola, E assim, nada há que possa resistir. Ah, mas por que as vibrações vindas do paraíso não pulsam no caos? Porque as vibrações do paraíso são sutis, são superiores, são puras, são maravilhosas, são isso e aquilo, mas não conseguem modificar a situação do caos. Não conseguem embelezar o caos. Essas vibrações conseguem só serem recebidas por agentes vivos que, em estando mergulhados no caos, recebem essa força através do corpo átmico que compõe o espírito de cada um de nós. Mas a devolução do que sai de um ser humano, ou seja, a sua pulsação que marca toda a ambiência existencial, Aí sim, essa é a base da afirmação que eu fiz no sentido de dizer que quando um ser humano está íntegro, o espírito que lhe anima se lhe submete à consciência espiritual como uma espécie de reconhecimento, como uma espécie de resultado natural do fato de que no mundo da energia, os espíritos imaginaram a criação de um ser no pleno caos material, esse corpo surge, cria um cérebro, e agora esse cérebro, mesmo no caos, consegue vibrar num padrão de beleza que é, de alguma forma, semelhante ou, sob outro aspecto, superior à turma que vive no bem bom, lá no paraíso. Isso tem uma pulsação, isso tem uma pujança, se isso tem uma força, torna a dizer que nós não imaginamos.
+
+E é por isso que os nossos espíritos, não é que eles tenham outra opção, eles são obrigados a entrar em fluxo de ressonância consciente naquele instante ou durante o tempo em que isso se der, com a sua, vamos assim dizer, consciência humana transitória que está hospedado lá no corpo material, dentro ou no seio do caos. Então, o espírito está sempre fora da matrix, em uma das camadas da cebola, mas fora de onde o corpo físico está. Mas quando o corpo físico pulsa, respira, sente a sua integridade pessoal, isso torna a dizer, tem uma força que que meio que torna uma só vibração, uma só pulsação, esses dois tipos de eus que, no momento, pulsam como se fossem diferentes. Ah, mas isso é só através da respiração e da meditação?
+
+Isso que eu estou dizendo é. Não, mas se a pessoa rezar o dia inteiro, promove o mesmo espectro de onda, a mesma pulsação, a mesma frequência, não, é diferente. a entrega, a postura de contentamento permanente que eventualmente se pode sentir quando você está fervorosamente praticando atos devocionais a quem quer que seja, esse tipo de postura é um bocado diferente daquela em que você vibra pacificamente, amorosamente, consciencialmente, sem perder a noção crítica do mundo em que você está. Porque a entrega, entre aspas, no âmbito do êxtase religioso ao que você supõe ser Deus, esquecendo todo um contexto de sofrimento que pulsa ao seu redor e em você, haverá um momento lá na história humana em que a gente vai ver isso, e, ao invés de ver beleza nisso, nós veremos outra coisa. Filosoficamente, isso não é tão recomendável, ou melhor, não é recomendável quanto a questão de você, independente de existir outros seres maravilhosos, mas você mesmo se agiganta para tentar ser em pleno caos o melhor, o que você puder construir de melhor em você e ancorado em você mesmo, você produz, você homenageia a existência, ainda que feia, com o que de belo existia em você. Isso aqui vale muito mais. Isso aqui tem muito mais peso, vibratório, mérito, moral, autoridade moral, filosófica e espiritual. uma consciência que age assim, se compararmos o que não deveríamos, porque toda comparação é complicada, com as consciências que estão viciadas em encher o saco de Deus e o mundo para conseguir o que querem. Então, essa é a resposta que eu posso dar.
+
+Em vivências no campo do yoga, da meditação, do pranayama, enfim, naquilo que eu fiz que é o mental, é possível um ser humano logo, nos seus primeiros passos, nessa tentativa de autoconhecimento e de autogestão de si mesmo, chegar nesse ponto.

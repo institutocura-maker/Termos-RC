@@ -26,6 +26,7 @@ import re
 import statistics as st
 import subprocess
 import sys
+from pathlib import Path
 
 # RAIZ resolvida subindo até achar `ferramentas/dados_termos.py`, para que o
 # medidor funcione tanto na raiz quanto de dentro de uma pasta de ciclo.
@@ -38,7 +39,11 @@ def achar_raiz():
     raise SystemExit("raiz não encontrada (ferramentas/dados_termos.py ausente acima de aqui)")
 
 RAIZ = achar_raiz()
-CONC = os.path.join(RAIZ, "apostilas", "CONCLUIDAS")
+sys.path.insert(0, os.path.join(RAIZ, "ferramentas"))
+from caminhos_acervo import caminho_atual  # noqa: E402
+
+RECEPCAO = os.fspath(caminho_atual("fonte.recepcao", Path(RAIZ)))
+CONC = os.fspath(caminho_atual("fonte.apostilas_concluidas", Path(RAIZ)))
 SIGLA_RE = re.compile(r"P?(20\d\d)-(\d\d)-(\d\d)")
 GATE_RE = re.compile(r"portao|verificar|cobertura|auditor|aspas|cheque", re.I)
 
@@ -155,13 +160,13 @@ def governanca():
     def sz(*parts):
         return _bytes(os.path.join(RAIZ, *parts))
 
-    cont = os.path.join(RAIZ, "CONTINUIDADE.md")
+    cont = os.path.join(RAIZ, "admin", "logs", "CONTINUIDADE.md")
     txt = open(cont, encoding="utf-8", errors="ignore").read() if os.path.exists(cont) else ""
     blocos = [b for b in txt.split("\n\n") if b.strip()]
     cab = "\n\n".join(blocos[:4])
-    arquivos = sorted(glob.glob(os.path.join(RAIZ, "apostilas", "CONCLUIDAS", "*", "apostila.md")))
+    arquivos = sorted(glob.glob(os.path.join(CONC, "*", "apostila.md")))
     return dict(
-        PROMPT_bytes=sz("PROMPT-PROXIMA-SESSAO.md"),
+        PROMPT_bytes=sz("prompts", "PROMPT-PROXIMA-SESSAO.md"),
         CONTINUIDADE_bytes=len(txt.encode()),
         CONTINUIDADE_blocos=len(blocos),
         CONTINUIDADE_bytes_por_bloco=int(len(txt.encode()) / max(1, len(blocos))),
@@ -170,7 +175,7 @@ def governanca():
         INDICE_APOSTILAS_bytes=sz("apostilas", "INDICE-PALESTRAS.md"),
         GUIA_bytes=sz("GUIA-MESTRE-RC-APOSTILA-v1.1.md"),
         CONVENCOES_bytes=sz("convencoes-editoriais-rc.md"),
-        leitura_obrigatoria_bytes=sum([sz("PROMPT-PROXIMA-SESSAO.md"), sz("CONTINUIDADE.md"),
+        leitura_obrigatoria_bytes=sum([sz("prompts", "PROMPT-PROXIMA-SESSAO.md"), sz("admin", "logs", "CONTINUIDADE.md"),
                                       sz("INDICE-PALESTRAS.md"), sz("apostilas", "INDICE-PALESTRAS.md"),
                                       sz("GUIA-MESTRE-RC-APOSTILA-v1.1.md"),
                                       sz("convencoes-editoriais-rc.md")]),
@@ -196,7 +201,7 @@ def cadastro():
         v = ""
     mv = re.search(r"(\d+)\s*termos,\s*(\d+)\s*rela", v)
     fichas = glob.glob(os.path.join(RAIZ, "termos", "*.md"))
-    up = glob.glob(os.path.join(RAIZ, "uploads_recepcao", "*.txt"))
+    up = glob.glob(os.path.join(RECEPCAO, "*.txt"))
     conc = {os.path.basename(p)[:10] for p in glob.glob(os.path.join(CONC, "*"))}
     pend = []
     for f in up:

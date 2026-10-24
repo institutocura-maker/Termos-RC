@@ -5,10 +5,10 @@ nome = "Nada Brahma (tudo é som)"
 categoria = "Termos Específicos"
 subcategoria = "8.1 Sânscrito / Hinduísmo"
 status = "verificado"
-fontes = ["P2018-12-15"]
+fontes = ["P2018-12-15", "OIDR26-04"]
 via = "P6-evidência"
 confianca_fonte = "média"
-atualizado = "2026-08-31"
+atualizado = "2026-10-23"
 +++
 # Nada Brahma (tudo é som) — RC-845
 
@@ -36,9 +36,15 @@ Com isso:
 | Nidana (ovo cósmico) | RC-154 | **sem aresta** em `RELACOES`; arquivo existe |
 
 
+## Ampliação — OIDR26-04 (Onda incremental dry-run — Experiência espiritual e ética evolutiva (derivados normalizados))
+
+- **[P5 · Nada Brahma (tudo é som)]** «Um dos livros que eu mais estudei na vida chama-se Nada Brahma. É um nome sânscrito que nada brahma significa tudo é só.» (U0512) — candidata de cotejo ampliado; evidência `OIDR26-04-RC-845-001`, grafia literal `Nada Brahma`, sem homologação de pérola.
+
+
 ## Fontes
 | Obra (sigla) | Título | Página | Tipo |
 |---|---|---|---|
+| OIDR26-04 | Onda incremental dry-run — Experiência espiritual e ética evolutiva (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
 | P2018-12-15 | Terra Atlantis – Aprofundamento (palestra) | — | transcrição automatizada; citação |
 
 ## Ampliação

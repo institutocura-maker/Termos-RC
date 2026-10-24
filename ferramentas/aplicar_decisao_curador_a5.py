@@ -4,7 +4,7 @@
 APLICAR DECISÃO DO CURADOR A5 — U94
 ===================================
 
-Lê `uploads_recepcao/U93-U94-id-decisao.txt` e executa o que o Curador
+Lê `admin/logs/U93-U94-id-decisao.txt` e executa o que o Curador
 decidiu sobre as 212 instâncias do artefacto de curadoria.
 
 As três regras do despacho
@@ -50,6 +50,7 @@ import unicodedata
 RAIZ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, RAIZ)
 
+from ferramentas.caminhos_acervo import caminho_atual  # noqa: E402
 from ferramentas.censo_gap_v2 import carregar_corpus  # noqa: E402
 from ferramentas.extrair_fragmentos_a5 import (  # noqa: E402
     nucleo_da_linha, palavras_com_linha, alinhar, palavras, frouxo,
@@ -59,7 +60,7 @@ from ferramentas.materializar_lote import (  # noqa: E402
     caminho_da_obra, conferir, pagina)
 
 ARTEFACTO = os.path.join(RAIZ, "diagnostico", "U93-DIFF-CURATORIAL.md")
-DECISAO = os.path.join(RAIZ, "uploads_recepcao", "U93-U94-id-decisao.txt")
+DECISAO = os.fspath(caminho_atual("evidencia.recepcao.logs") / "U93-U94-id-decisao.txt")
 SAIDA = os.path.join(RAIZ, "diagnostico", "U94-A5-LOTE38-2026-09-15.json")
 APARELHO_R1 = re.compile(r"·\s*`original\.txt`\s*L\d+")
 ANCORA = re.compile(r"<!--\s*U93\|([^|]+)\|([^|]+)\|([^|]+)\|(\d+)\|([\d.]+)\|"

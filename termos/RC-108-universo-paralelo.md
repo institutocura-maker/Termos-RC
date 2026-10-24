@@ -5,10 +5,10 @@ nome = "Universo Paralelo"
 categoria = "Conceitos Cosmológicos"
 subcategoria = "2.3 Dimensões / Planos de existência"
 status = "verificado"
-fontes = ["B031", "P2025-02-16", "P2024-11-30", "P2024-11-09", "P2024-08-03"]
+fontes = ["B031", "P2025-02-16", "P2024-11-30", "P2024-11-09", "P2024-08-03", "STT26-EXTRATERRESTRES_TECNOLOGIA", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA", "STT26-SOCIEDADE_CONTEMPORANEA"]
 via = "P6-evidência"
 confianca_fonte = "alta"
-atualizado = "2026-09-13"
+atualizado = "2026-10-22"
 +++
 # Universo Paralelo — RC-108
 
@@ -33,10 +33,26 @@ Segundo o glossário de B031, é o universo paralelo ao nosso, chamado de Univer
 | Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | ← variação |
 | Pendências Existenciais em Realidades Paralelas | RC-744 | ← persiste-em |
 
+## Ampliação — STT26-EXTRATERRESTRES_TECNOLOGIA (Eixo STT26 — Extraterrestres, tecnologia e cosmos (derivados normalizados))
+
+- **[STT26-07 · Universo Paralelo]** «Sabe como é que eles chamam isso? Universo paralelo ao nosso. E já estão também apontando a possibilidade dos dois terem nascido juntos, ou seja, naquela singularidade, terem surgido dois universos.» (U0152 · chars 19641–19839) — Pérola homologada pelo Curador em 22/10/2026; corte literal conferido pelo Motor antes do pouso na Base.
+
+## Ampliação — STT26-EXPERIENCIA_ESPIRITUAL_ETICA (Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados))
+
+- **[STT26-09 · Universo Paralelo]** «Como também essa questão extrafísica referente ao universo paralelo, com as suas incontáveis locas e incontáveis estirpes demoníacas e clonadas. Ou seja, nós, seres humanos, estamos, no que se refere à órbita de Jandré, centrados numa espécie de aventura existencial na qual nós fomos gerados doentes, pois que fomos gerados com a doença do Criador inoculada nos nossos corpos, e apesar de termos sido gerados doentes, somos destinados a nos tornarmos livres dessa doença.» (U2977 · chars 413067–413539) — Candidata de cotejo; evidência `STT26-09-RC-108-001`, grafia encontrada `universo paralelo`; decisão por lote `STT26-09: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+## Ampliação — STT26-SOCIEDADE_CONTEMPORANEA (Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados))
+
+- **[STT26-19 · Universo Paralelo]** «Mas nós também teremos que voltar a conviver com os antigos, entre aspas, seres mitológicos, não biológicos, mas sim habitantes não deste universo, mas de um universo paralelo ao nosso, o que a gente chama de universo demo, e que a reintegração do ser terráqueo à convivência cósmica não seria só com a turma deste universo biológico, mas do branaloca, do universo demo.» (U1877 · chars 311160–311531) — Candidata de cotejo; evidência `STT26-19-RC-108-001`, grafia encontrada `universo paralelo`; decisão por lote `STT26-19: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+
 ## Fontes
 
 | Obra (sigla) | Título | Página | Tipo |
 |---|---|---|---|
+| STT26-SOCIEDADE_CONTEMPORANEA | Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
+| STT26-EXPERIENCIA_ESPIRITUAL_ETICA | Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
+| STT26-EXTRATERRESTRES_TECNOLOGIA | Eixo STT26 — Extraterrestres, tecnologia e cosmos (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
 | B031 | Painéis Emergentes da Revelação Cósmica | p. 147 | livro; citação intra-linha |
 | P2025-02-16 | P2025-02-16 | — | palestra/STT; citação intra-linha |
 

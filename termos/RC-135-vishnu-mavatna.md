@@ -5,10 +5,10 @@ nome = "Vishnu (Mavatna)"
 categoria = "Seres & Entidades"
 subcategoria = "1.1 Divindades / Criadores"
 status = "verificado"
-fontes = ["B031", "B024", "B044", "B001", "B033", "B016", "B014", "B020", "B021", "B022", "B051", "B036", "B060", "P2022-12-17", "P2021-12-04", "P2026-07-30", "P2024-05-04", "P2026-04-02", "P2025-03-15", "P2025-02-16", "P2024-11-30", "P2024-11-09", "P2024-08-03", "P2024-07-14", "P2023-04-15", "P2023-04-29", "P2020-05-09", "P2025-02-22", "P2022-05-07", "P2024-06-16", "P2012-02-19", "P2023-12-25-01", "P2020-04-04"]
+fontes = ["B031", "B024", "B044", "B001", "B033", "B016", "B014", "B020", "B021", "B022", "B051", "B036", "B060", "P2022-12-17", "P2021-12-04", "P2026-07-30", "P2024-05-04", "P2026-04-02", "P2025-03-15", "P2025-02-16", "P2024-11-30", "P2024-11-09", "P2024-08-03", "P2024-07-14", "P2023-04-15", "P2023-04-29", "P2020-05-09", "P2025-02-22", "P2022-05-07", "P2024-06-16", "P2012-02-19", "P2023-12-25-01", "P2020-04-04", "STT26-EXTRATERRESTRES_TECNOLOGIA", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA", "STT26-MITOLOGIAS_REINTEGRACAO", "STT26-SOCIEDADE_CONTEMPORANEA", "OIDR26-01", "OIDR26-02", "OIDR26-03", "OIDR26-04"]
 via = "P6-evidência"
 confianca_fonte = "alta"
-atualizado = "2026-08-31"
+atualizado = "2026-10-23"
 +++
 # Vishnu (Mavatna) — RC-135
 
@@ -65,9 +65,55 @@ Com isso:
 | Centro Alquímico-Farmacopédico | RC-789 | associado |
 | Eru Ilúvatar (criador no Silmarillion) | RC-843 | associado |
 
+## Ampliação — STT26-EXTRATERRESTRES_TECNOLOGIA (Eixo STT26 — Extraterrestres, tecnologia e cosmos (derivados normalizados))
+
+- **[STT26-07 · Vishnu (Mavatna)]** «Mas na medida em que Shiva apareceu, criou o Shiva-loka. Quando o Vishnu surgiu, criou o Vishnu-loka. Aí Indra, com inveja, também resolveu criar.» (U0166 · chars 21444–21590) — Pérola homologada pelo Curador em 22/10/2026; corte literal conferido pelo Motor antes do pouso na Base.
+
+## Ampliação — STT26-EXPERIENCIA_ESPIRITUAL_ETICA (Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados))
+
+- **[STT26-08 · Vishnu (Mavatna)]** «E ao que consta, tanto o ser B, Adi Savna, quanto o ser Adi Mavatma, mergulharam no caos, como Shiva e Vishnu, para ajudar.» (U0933 · chars 66452–66575) — Candidata de cotejo; evidência `STT26-08-RC-135-001`, grafia encontrada `Vishnu`; decisão por lote `STT26-08: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+## Ampliação — STT26-MITOLOGIAS_REINTEGRACAO (Eixo STT26 — Mitologias, tradições e eixo de reintegração (derivados normalizados))
+
+- **[STT26-13 · Vishnu (Mavatna)]** «Aí, depois que um caiu, os outros dois mergulharam e a briga continuou aqui dentro. E esses três seres, indo agora para a perspectiva hindu-ariana, chamada Brahma, Vishnu e Shiva, sempre brigaram para ver quem dos três havia criado, de fato, a criação antes deles mergulharem, e agora que estavam caídos, quem dos três comandava isso aqui.» (U0590 · chars 132120–132459) — Candidata de cotejo; evidência `STT26-13-RC-135-001`, grafia encontrada `Vishnu`; decisão por lote `STT26-13: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+
+## Ampliação — STT26-SOCIEDADE_CONTEMPORANEA (Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados))
+
+- **[STT26-19 · Vishnu (Mavatna)]** «A confusão é que o caso do eu, de Javé, desalmado, entre aspas, que ele é, ou ligado de uma forma absolutamente impossível de ser retratado em palavras, com parte do espírito dele, que tem problemas, mas como hoje é administrado pelo ser chamado Jesus, enquanto esse espírito foi somente Vishnu, morre em soro, Sophia, ele não conseguia dar um upgrade nele devido ao fato de ele ter parte dele mesmo com problemas lá atrás devido ao corpo mental ter se apartado, déjà vu.» (U1221 · chars 184228–184700) — Candidata de cotejo; evidência `STT26-19-RC-135-001`, grafia encontrada `Vishnu`; decisão por lote `STT26-19: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+
+## Ampliação — OIDR26-01 (Onda incremental dry-run — Anunnaki, genética e humanidade (derivados normalizados))
+
+- **[P1 · Vishnu (Mavatna)]** «e resolvendo assim a questão de como produzir um avatar humano da linhagem de Vishnu e de Sofia entre os humanos da história da Arca da Aliança que um dia eu vou contar que também tem a ver com essa questão mas vocês nem imaginam em que sentido também é algo que ninguém sabe aqui na Terra e não está escrito em lugar nenhum eles se dedicaram a fazer aquilo no caso dos Anunnakis eles tentaram umas duas ou três alternativas, mas a alternativa que funcionava para Javé, no caso dos Anunnakis, era via o padrão feminino dos Anunnakis.» (U0465) — candidata de cotejo ampliado; evidência `OIDR26-01-RC-135-001`, grafia literal `Vishnu`, sem homologação de pérola.
+
+
+## Ampliação — OIDR26-02 (Onda incremental dry-run — Mitologias, tradições e reintegração (derivados normalizados))
+
+- **[P2 · Vishnu (Mavatna)]** «Porque a primeira geração, Khaos, Tarta, Eros, blá, blá, blá, na mitologia grega, vamos chamar agora, usando os termos da mitologia ariana hindu, Brahma, Vishnu, Shiva, esses seres jamais saíram desse universo divino.» (U0095) — candidata de cotejo ampliado; evidência `OIDR26-02-RC-135-001`, grafia literal `Vishnu`, sem homologação de pérola.
+
+
+## Ampliação — OIDR26-03 (Onda incremental dry-run — Cosmogonia e história cósmica (derivados normalizados))
+
+- **[P3 · Vishnu (Mavatna)]** «Desse ovo cósmico, cerca de 4, 5 bilhões de anos depois que o universo se formou, nesse universo vizinho, Brahma e seus descendentes, Vishnu e seus descendentes, Shiva e seus descendentes e outras gerações de seres demoníacos, todos eles, cerca de 4, 5, 6 bilhões de anos depois, eles perceberam que estavam falidos.» (U0207) — candidata de cotejo ampliado; evidência `OIDR26-03-RC-135-001`, grafia literal `Vishnu`, sem homologação de pérola.
+
+
+## Ampliação — OIDR26-04 (Onda incremental dry-run — Experiência espiritual e ética evolutiva (derivados normalizados))
+
+- **[P4 · Vishnu (Mavatna)]** «mas como essas reflexões como essas notícias essas informações iriam desagradar e perturbar isso e aquilo isso e a lógica desses seres não são os espíritos são seres do universo vizinho como muito bem disse a Juscelia são os arcontes os deuses, não estamos falando aqui de espíritos esses seres eles vivem dessa forma medíocre, eles não têm vida própria porque faliram há muito tempo e eles vivem o que as espécies que eles criam conseguem vivenciar olhem bem o que eu estou dizendo esses seres, Brahma, Vishnu, Shiva descendentes de Vishnu, Shiva, Brahma seja lá o nome que a gente quiser dar ou a ótica mitológica que a gente observar esses seres todos Eles são mantidos vivos a partir dos efluvios das espécies que eles criam E a vida deles, como não tem maiores atrativos devido à demência que os marca Essa demência só permite a eles viver de apostas e dos desdobramentos que isso provoca No lento processo de evolução que mal eles conseguem produzir de acordo com os limites impostos pelo grau de demência que lhes marca.» (U0240) — candidata de cotejo ampliado; evidência `OIDR26-04-RC-135-001`, grafia literal `Vishnu`, sem homologação de pérola.
+
+
 ## Fontes
 | Obra (sigla) | Título | Página | Tipo |
 |---|---|---|---|
+| OIDR26-04 | Onda incremental dry-run — Experiência espiritual e ética evolutiva (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
+| OIDR26-03 | Onda incremental dry-run — Cosmogonia e história cósmica (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
+| OIDR26-02 | Onda incremental dry-run — Mitologias, tradições e reintegração (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
+| OIDR26-01 | Onda incremental dry-run — Anunnaki, genética e humanidade (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
+| STT26-SOCIEDADE_CONTEMPORANEA | Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
+| STT26-MITOLOGIAS_REINTEGRACAO | Eixo STT26 — Mitologias, tradições e eixo de reintegração (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
+| STT26-EXPERIENCIA_ESPIRITUAL_ETICA | Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
+| STT26-EXTRATERRESTRES_TECNOLOGIA | Eixo STT26 — Extraterrestres, tecnologia e cosmos (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
 | P2012-02-19 | Xadrez Cósmico de Brahma, Vishnu e Shiva (palestra) | — | transcrição automatizada; citação |
 | P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
 | P2022-05-07 | Shiva, o Projeto Talm e os Mistérios de Awaylengam (palestra) | — | transcrição automatizada; citação |

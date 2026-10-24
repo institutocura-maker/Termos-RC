@@ -1,0 +1,308 @@
+{
+  "meta": {
+    "artefato": "Template de despacho curatorial — triagem STT em lote",
+    "lote_id": "STT26-17",
+    "gerado_em": "2026-10-20",
+    "estado": "PENDENTE-CURADOR",
+    "fonte_operacional": "somente derivados normalizados; o STT bruto não foi aberto",
+    "efeito_atual": "nenhum: não cria ciclo nem altera a Base",
+    "instrucoes": [
+      "Decidir o conjunto do lote, não vídeo a vídeo.",
+      "Sinal literal não prova conceito, interpretação nem citação apta.",
+      "AUTORIZAR-COTEJO é apenas permissão para aprofundar a evidência no derivado.",
+      "ABRIR-CICLO exige despacho posterior com âncoras e fonte derivada explícitas; não é efeito deste template."
+    ],
+    "opcoes_por_candidato": [
+      "MANTER-EM-TRIAGEM",
+      "DESCARTAR-DO-LOTE",
+      "AUTORIZAR-COTEJO-AMPLIADO",
+      "RESERVAR-PARA-FUTURO-CICLO"
+    ]
+  },
+  "candidatos": [
+    {
+      "codigo": "RC-414",
+      "nome": "Krishna (avatar de Vishnu/Shiva)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-17-RC-414-001",
+        "STT26-17-RC-414-017",
+        "STT26-17-RC-414-100"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-037",
+      "nome": "Brahma (Brajna)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-17-RC-037-001",
+        "STT26-17-RC-037-004",
+        "STT26-17-RC-037-021"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-102",
+      "nome": "Shiva (Savna)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-17-RC-102-001",
+        "STT26-17-RC-102-005",
+        "STT26-17-RC-102-020"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-135",
+      "nome": "Vishnu (Mavatna)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-17-RC-135-001",
+        "STT26-17-RC-135-006",
+        "STT26-17-RC-135-021"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-072",
+      "nome": "Jesus",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-17-RC-072-001",
+        "STT26-17-RC-072-011",
+        "STT26-17-RC-072-042"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-474",
+      "nome": "Arcontes (= Sophias e Indras; Conselho dos 70)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-17-RC-474-001",
+        "STT26-17-RC-474-045"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-585",
+      "nome": "Vyasa",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-17-RC-585-001",
+        "STT26-17-RC-585-008",
+        "STT26-17-RC-585-012"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-593",
+      "nome": "Mahabharata",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-17-RC-593-001",
+        "STT26-17-RC-593-012",
+        "STT26-17-RC-593-016"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-104",
+      "nome": "Trimurti",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-17-RC-104-001",
+        "STT26-17-RC-104-008",
+        "STT26-17-RC-104-013"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-009",
+      "nome": "Sophia (Cristo Cósmico)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-17-RC-009-001",
+        "STT26-17-RC-009-019"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-480",
+      "nome": "Indra (título de arconte)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-17-RC-480-001"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-301",
+      "nome": "Prometeu (titã)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-17-RC-301-001",
+        "STT26-17-RC-301-011",
+        "STT26-17-RC-301-017"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-094",
+      "nome": "Revelação Cósmica (conceito)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-17-RC-094-001",
+        "STT26-17-RC-094-006",
+        "STT26-17-RC-094-007"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-086",
+      "nome": "Pandora",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-17-RC-086-001",
+        "STT26-17-RC-086-011"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-302",
+      "nome": "Epimeteu (titã)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-17-RC-302-001"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-162",
+      "nome": "Elétrons (agente básico da vida universal)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-17-RC-162-001",
+        "STT26-17-RC-162-007"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-940",
+      "nome": "Samsara",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-17-RC-940-001"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-193",
+      "nome": "Rebanho humano",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-17-RC-193-001",
+        "STT26-17-RC-193-003",
+        "STT26-17-RC-193-005"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-942",
+      "nome": "Messias",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-17-RC-942-001",
+        "STT26-17-RC-942-005"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-715",
+      "nome": "Informações Vivas",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-17-RC-715-001"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-106",
+      "nome": "Universo Antimaterial (Brahmaloka / Universo Paralelo)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-17-RC-106-001",
+        "STT26-17-RC-106-002"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-239",
+      "nome": "Hitler (figura histórica no RC)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-17-RC-239-001"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-465",
+      "nome": "Asuras (= Titãs)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-17-RC-465-001"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-759",
+      "nome": "Jainismo (antigo Druidismo — religião mais antiga)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-17-RC-759-001"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-892",
+      "nome": "Pós-Verdade",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-17-RC-892-001"
+      ],
+      "observacao": ""
+    }
+  ],
+  "despacho_de_lote": {
+    "resultado": "PENDENTE",
+    "candidatos_para_cotejo_ampliado": [],
+    "autorizacao_para_abrir_ciclo": false,
+    "observacao": ""
+  }
+}

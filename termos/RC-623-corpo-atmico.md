@@ -5,10 +5,10 @@ nome = "Corpo Átmico"
 categoria = "Conceitos Cosmológicos"
 subcategoria = "2.3 Dimensões / Planos de existência"
 status = "verificado"
-fontes = ["P2026-07-30", "P2024-05-04", "P2025-02-16", "P2025-02-15", "P2024-11-30", "P2024-11-09", "P2024-07-14", "P2024-04-14", "P2025-06-14b", "P2024-03-02", "P2024-09-28"]
+fontes = ["P2026-07-30", "P2024-05-04", "P2025-02-16", "P2025-02-15", "P2024-11-30", "P2024-11-09", "P2024-07-14", "P2024-04-14", "P2025-06-14b", "P2024-03-02", "P2024-09-28", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA", "STT26-SOCIEDADE_CONTEMPORANEA", "OIDR26-04"]
 via = "P6-evidência"
 confianca_fonte = "média"
-atualizado = "2026-08-18"
+atualizado = "2026-10-23"
 +++
 # Corpo Átmico — RC-623
 
@@ -45,9 +45,26 @@ Na live, o Corpo Átmico permanece ligado à condição original, enquanto o Cor
 ## Seres Associados
 Consultar relações acima.
 
+## Ampliação — STT26-EXPERIENCIA_ESPIRITUAL_ETICA (Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados))
+
+- **[STT26-09 · Corpo Átmico]** «Depois que esses quatro corpos estão formados no zigoto, quando o zigoto ainda nem é um embrião, ainda nem nasceu, Então, aí surge o nosso espírito, que é a tríade imortal, porque é o corpo átmico, o corpo búdico e o corpo manásico.» (U4871 · chars 708500–708733) — Candidata de cotejo; evidência `STT26-09-RC-623-001`, grafia encontrada `corpo átmico`; decisão por lote `STT26-09: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+## Ampliação — STT26-SOCIEDADE_CONTEMPORANEA (Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados))
+
+- **[STT26-21 · Corpo Átmico]** «Essa é um tipo de consciência espiritual particularizada, composta de um corpo átmico, que seria a alma, investida por duas vestimentas espirituais, os chamados corpos búdicos e manásicos, ou seja, emocional e mental, de âmbito superior.» (U4952 · chars 836742–836979) — Candidata de cotejo; evidência `STT26-21-RC-623-001`, grafia encontrada `corpo átmico`; decisão por lote `STT26-21: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+
+## Ampliação — OIDR26-04 (Onda incremental dry-run — Experiência espiritual e ética evolutiva (derivados normalizados))
+
+- **[P5 · Corpo Átmico]** «Quando os espíritos disseram que aqui era o corpo átmico, a alma, só que a alma, para poder, estando no paraíso 100% perfeito, perceber isso do desdobramento do paraíso, ela não conseguiu tomar consciência dessa sensação diferente que se sente para além das fronteiras, o paraíso 100% perfeito.» (U0606) — candidata de cotejo ampliado; evidência `OIDR26-04-RC-623-001`, grafia literal `corpo átmico`, sem homologação de pérola.
+
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
+| OIDR26-04 | Onda incremental dry-run — Experiência espiritual e ética evolutiva (derivados normalizados) (palestra) | transcrição automatizada; citação |
+| STT26-SOCIEDADE_CONTEMPORANEA | Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados) (palestra) | transcrição automatizada; citação |
+| STT26-EXPERIENCIA_ESPIRITUAL_ETICA | Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | P2026-07-30 — 4ª Edição Estagiários do Kaos | U0049–U0054 | STT pré-curado / devolutiva |
 | P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — |
 

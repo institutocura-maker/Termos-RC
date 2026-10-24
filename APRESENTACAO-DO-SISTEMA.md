@@ -21,7 +21,7 @@ Escala atual (11/09/2026): **946 termos · 671 fichas · 1898 relações · 102 
 ## 2. Como a arquitetura chegou aqui (histórico honesto)
 
 1. **Fase chats-avulsos (até ~ago/2026):** trabalho em workspaces isolados por sessão de chat, com pacotes de migração manuais (ver `PACOTE-MIGRACAO-*.md`, `PROMPT-CONTINUIDADE-*.md`, `STATUS-HANDOFF-*.md`). Continuidade frágil.
-2. **Fase GitHub (a partir de ~30/08/2026):** adoção do repositório como memória persistente. Os processos foram se adequando de forma orgânica: convenções de commit (1 commit por leva de chancela), `STATE-MIRROR.md` como resumo de estado, trilha de auditoria em `chancela/`.
+2. **Fase GitHub (a partir de ~30/08/2026):** adoção do repositório como memória persistente. Os processos foram se adequando de forma orgânica: convenções de commit (1 commit por leva de chancela), `admin/logs/STATE-MIRROR.md` como resumo de estado, trilha de auditoria em `chancela/`.
 3. **Fase atual:** volume grande e crescente; o Curador suspeita que decisões pragmáticas do início (sobretudo o §4) podem não ser as adequadas para o futuro. Daí esta auditoria.
 
 ## 3. Mapa do repositório
@@ -37,11 +37,11 @@ Escala atual (11/09/2026): **946 termos · 671 fichas · 1898 relações · 102 
 | `ferramentas/build_*.py` | Geradores dos espelhos (xlsx, docx, índices) + `motor.py` (esteira de validação) + `verificar_verbetes.py` | — |
 | `base-terminologica.xlsx` / `base-terminologica-leitura.docx` / `indice-mestre.md` | Espelhos gerados (leitura humana) | 292 KB / 1,7 MB / 228 KB |
 | `chancela/` | 20 planilhas CSV: templates + retornos de chancela (trilha de auditoria das decisões) | — |
-| `STATE-MIRROR.md` | Resumo de estado em 42 linhas (números oficiais + pendências) | — |
-| `RELATORIO-BASE-TERMINOLOGICA.md` / `GLOSSARIO-CANONICO-2026-08-31.md` | Relatório analítico (672 l.) + glossário canônico (702 l.) | — |
+| `admin/logs/STATE-MIRROR.md` | Resumo de estado em 42 linhas (números oficiais + pendências) | — |
+| `diagnostico/RELATORIO-BASE-TERMINOLOGICA.md` / `GLOSSARIO-CANONICO-2026-08-31.md` | Relatório analítico (672 l.) + glossário canônico (702 l.) | — |
 | `01-ficha-modelo.md`, `02-vocabulario-controlado.md`, `convencoes-editoriais-rc.md` | Padrões editoriais | — |
 | `uploads_recepcao/` | Caixa de entrada de arquivos do Curador (uso transitório; raiz preservada como histórico) | — |
-| `backups/`, `consolidacoes/`, `materiais_externos/`, `rag/`, `diagnostico/` | Áreas auxiliares/históricas | — |
+| `backups/`, `consolidacoes/`, `fontes/externas/`, `rag/`, `diagnostico/` | Áreas auxiliares/históricas | — |
 | `*.md` na raiz (~40 docs) | Despachos, diagnósticos, handoffs, planos — memória operacional acumulada | — |
 
 ## 4. O coração (e a principal preocupação): `ferramentas/dados_termos.py`
@@ -97,7 +97,7 @@ verificar_verbetes.py           →  confere verbatim byte-a-byte + existência 
 2. **Duplicação de status** cadastro↔ficha (§5): sincronia por convenção+script, não por construção.
 3. **Rebuilds totais** a cada leva: tempo e risco crescem com a base (hoje ~1 min; e com 3.000 termos?).
 4. **Binários versionados:** `.xlsx`/`.docx` (até 1,7 MB) commitados a cada leva — inchaço do histórico git.
-5. **Raiz com ~40 documentos** acumulados: memória valiosa, mas sem índice curatorial claro (há `INDICE-ARQUIVOS-RAIZ-2026-08-31.md`, possivelmente desatualizado).
+5. **Raiz com ~40 documentos** acumulados: memória valiosa, mas sem índice curatorial claro (há `docs/historico/INDICE-ARQUIVOS-RAIZ-2026-08-31.md`, possivelmente desatualizado).
 6. **Scripts legados** `_*.py` em `ferramentas/` (uso único, históricos): manter, arquivar ou remover?
 7. **Ausência de testes automatizados:** a validação é o verificador + asserts em scripts avulsos; sem suite de regressão.
 8. **`backups/` e áreas históricas:** política de retenção indefinida.
@@ -112,7 +112,7 @@ verificar_verbetes.py           →  confere verbatim byte-a-byte + existência 
 
 ## 11. Roteiro de leitura sugerido (2–3 horas)
 
-1. Este documento → 2. `STATE-MIRROR.md` → 3. cabeçalho + 20 linhas de `ferramentas/dados_termos.py` → 4. uma ficha exemplar (`termos/RC-565-*.md`, `termos/RC-024-*.md`) → 5. `ferramentas/build_xlsx.py` (skim) + `verificar_verbetes.py` (íntegra, 3,8 KB) → 6. `chancela/P7-8.2-hebraico_retorno.csv` (exemplo de decisão) → 7. `RELATORIO-BASE-TERMINOLOGICA.md` (skim) → 8. `POLITICA-QUARENTENA-ENTRE-ECOSSISTEMAS.md`.
+1. Este documento → 2. `admin/logs/STATE-MIRROR.md` → 3. cabeçalho + 20 linhas de `ferramentas/dados_termos.py` → 4. uma ficha exemplar (`termos/RC-565-*.md`, `termos/RC-024-*.md`) → 5. `ferramentas/build_xlsx.py` (skim) + `verificar_verbetes.py` (íntegra, 3,8 KB) → 6. `chancela/P7-8.2-hebraico_retorno.csv` (exemplo de decisão) → 7. `diagnostico/RELATORIO-BASE-TERMINOLOGICA.md` (skim) → 8. `POLITICA-QUARENTENA-ENTRE-ECOSSISTEMAS.md`.
 
 ---
 

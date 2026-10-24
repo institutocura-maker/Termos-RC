@@ -5,10 +5,10 @@ nome = "Corpo Sutil Reencarnante"
 categoria = "Conceitos Cosmológicos"
 subcategoria = "2.3 Dimensões / Planos de existência"
 status = "verificado"
-fontes = ["P2025-02-15", "P2024-11-30", "P2024-11-09", "P2024-07-14", "P2024-04-14"]
+fontes = ["P2025-02-15", "P2024-11-30", "P2024-11-09", "P2024-07-14", "P2024-04-14", "OIDR26-04"]
 via = "P6-evidência"
 confianca_fonte = "média"
-atualizado = "2026-08-15"
+atualizado = "2026-10-23"
 +++
 # Corpo Sutil Reencarnante — RC-704
 
@@ -55,9 +55,15 @@ Mantidos como subtermos de glossário: impressões, hábitos e tendências trans
 | Bagagem Espiritual Intransferível | RC-751 | ← relaciona-se-a |
 | Agenda Espiritual | RC-752 | associado |
 
+## Ampliação — OIDR26-04 (Onda incremental dry-run — Experiência espiritual e ética evolutiva (derivados normalizados))
+
+- **[P4 · Corpo Sutil Reencarnante]** «é assim que acontece em casos de boa morte do corpo o eu continua existindo mas o corpo está lá na terra e agora esse espírito está nessa cidade espiritual o espírito já estava lá o que houve foi só a transferência da sensação do eu ou seja, de um programa quântico instalado num corpo sutil reencarnante desse espírito que estava vinculado a um corpo o físico que acabou de morrer.» (U0114) — candidata de cotejo ampliado; evidência `OIDR26-04-RC-704-001`, grafia literal `corpo sutil reencarnante`, sem homologação de pérola.
+
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
+| OIDR26-04 | Onda incremental dry-run — Experiência espiritual e ética evolutiva (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | P2025-02-15 | U0357–U0439; U0820–U0860; U1034–U1040 | aula/palestra STT |
 
 ## Citações-chave

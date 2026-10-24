@@ -5,10 +5,10 @@ nome = "Nibiru"
 categoria = "Lokas & Geografias"
 subcategoria = "3.1 Planetas / Sistemas estelares"
 status = "verificado"
-fontes = ["P2022-12-17", "P2023-12-02", "P2021-03-27", "B089", "P2021-05-15", "P2023-10-14"]
+fontes = ["P2022-12-17", "P2023-12-02", "P2021-03-27", "B089", "P2021-05-15", "P2023-10-14", "OIDR26-01"]
 via = "P6-evidência"
 confianca_fonte = "alta"
-atualizado = "2026-08-28"
+atualizado = "2026-10-23"
 +++
 # Nibiru — RC-589
 
@@ -34,9 +34,15 @@ Aparece no relato da guerra entre os clãs de Enki e Enlil.
 ## Seres Associados
 Anunnakis (RC-024); Marduk (= Ra; Anunnaki filho de Enki) (RC-460); Ninurta (RC-588)
 
+## Ampliação — OIDR26-01 (Onda incremental dry-run — Anunnaki, genética e humanidade (derivados normalizados))
+
+- **[P1 · Nibiru]** «Então, nessa época anterior, quando o chefão dos Anunnakis, e como eu disse, não vou poder contar isso muito a fundo, só o mínimo para a gente introduzir o assunto, Anu, ou An, que é o nome do cara que hoje em dia ainda manda em Nibiru, e hoje em dia, nos últimos pelo menos 400 mil anos, ele é o imperador de Nibiru, dos Anunnakis, esse ser deixou na Terra dois filhos dele, Enki e Enlil.» (U0163) — candidata de cotejo ampliado; evidência `OIDR26-01-RC-589-001`, grafia literal `Nibiru`, sem homologação de pérola.
+
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
+| OIDR26-01 | Onda incremental dry-run — Anunnaki, genética e humanidade (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
 | P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
 | P2022-12-17 — O Incompreendido Ano de 2012 e a Falsa Noção do Fim do Mundo | U0819–U0821 | transcrição automatizada; paráfrase e citação |

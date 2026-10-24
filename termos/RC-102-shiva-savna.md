@@ -5,10 +5,10 @@ nome = "Shiva (Savna)"
 categoria = "Seres & Entidades"
 subcategoria = "1.1 Divindades / Criadores"
 status = "verificado"
-fontes = ["B031", "B024", "B044", "B001", "B033", "B016", "B020", "B021", "B022", "B050", "B051", "B036", "B060", "B037", "P2022-12-17", "P2021-12-04", "P2026-07-30", "P2024-05-04", "P2025-03-15", "P2025-02-16", "P2024-11-30", "P2024-11-09", "P2024-07-14", "P2025-11-29", "P2023-06-24", "P2023-04-15", "P2023-04-29", "P2020-07-04", "P2020-05-09", "P2024-11-03", "P2025-02-22", "P2021-05-15", "P2023-10-14", "P2022-03-26", "P2022-05-07", "P2024-06-16", "P2012-02-19", "P2022-12-03", "P2022-07-16", "P2026-03-21", "P2021-04-10", "P2021-06-26", "P2022-09-17", "P2023-12-25-01", "P2020-04-04"]
+fontes = ["B031", "B024", "B044", "B001", "B033", "B016", "B020", "B021", "B022", "B050", "B051", "B036", "B060", "B037", "P2022-12-17", "P2021-12-04", "P2026-07-30", "P2024-05-04", "P2025-03-15", "P2025-02-16", "P2024-11-30", "P2024-11-09", "P2024-07-14", "P2025-11-29", "P2023-06-24", "P2023-04-15", "P2023-04-29", "P2020-07-04", "P2020-05-09", "P2024-11-03", "P2025-02-22", "P2021-05-15", "P2023-10-14", "P2022-03-26", "P2022-05-07", "P2024-06-16", "P2012-02-19", "P2022-12-03", "P2022-07-16", "P2026-03-21", "P2021-04-10", "P2021-06-26", "P2022-09-17", "P2023-12-25-01", "P2020-04-04", "STT26-EXTRATERRESTRES_TECNOLOGIA", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA", "STT26-MITOLOGIAS_REINTEGRACAO", "STT26-SOCIEDADE_CONTEMPORANEA", "OIDR26-01", "OIDR26-02", "OIDR26-03", "OIDR26-04"]
 via = "P6-evidência"
 confianca_fonte = "alta"
-atualizado = "2026-08-28"
+atualizado = "2026-10-23"
 +++
 # Shiva (Savna) — RC-102
 
@@ -66,10 +66,56 @@ Um dos três da Trimurti (RC-104) — na RC, **Savna** (RC-409 ADHYSAVNA); princ
 | Prema Sai (Prima Sai / Prem Sai) | RC-929 | ← encarnação-de |
 | Kris Amon (Krysamon NEAD) | RC-934 | associado |
 
+## Ampliação — STT26-EXTRATERRESTRES_TECNOLOGIA (Eixo STT26 — Extraterrestres, tecnologia e cosmos (derivados normalizados))
+
+- **[STT26-07 · Shiva (Savna)]** «Mas na medida em que Shiva apareceu, criou o Shiva-loka. Quando o Vishnu surgiu, criou o Vishnu-loka. Aí Indra, com inveja, também resolveu criar.» (U0166 · chars 21444–21590) — Pérola homologada pelo Curador em 22/10/2026; corte literal conferido pelo Motor antes do pouso na Base.
+
+## Ampliação — STT26-EXPERIENCIA_ESPIRITUAL_ETICA (Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados))
+
+- **[STT26-08 · Shiva (Savna)]** «E esse é o drama de Javé. Logo no início do Rig Veda, lá nos Vedas, tem uma parte em que Shiva olha para Brahma e diz você não se envergonha do que você fez?» (U0911 · chars 61823–61981) — Candidata de cotejo; evidência `STT26-08-RC-102-001`, grafia encontrada `Shiva`; decisão por lote `STT26-08: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+## Ampliação — STT26-MITOLOGIAS_REINTEGRACAO (Eixo STT26 — Mitologias, tradições e eixo de reintegração (derivados normalizados))
+
+- **[STT26-13 · Shiva (Savna)]** «Aí, depois que um caiu, os outros dois mergulharam e a briga continuou aqui dentro. E esses três seres, indo agora para a perspectiva hindu-ariana, chamada Brahma, Vishnu e Shiva, sempre brigaram para ver quem dos três havia criado, de fato, a criação antes deles mergulharem, e agora que estavam caídos, quem dos três comandava isso aqui.» (U0590 · chars 132120–132459) — Candidata de cotejo; evidência `STT26-13-RC-102-001`, grafia encontrada `Shiva`; decisão por lote `STT26-13: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+
+## Ampliação — STT26-SOCIEDADE_CONTEMPORANEA (Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados))
+
+- **[STT26-19 · Shiva (Savna)]** «Todos os demais avatares que Vishnu criou foram funcionais, ou seja, resolver certo a função. Quando ele criou Morrenso, junto com Brahma e Shiva, Aí daqui surgiu a criação depois de Sophia e Jesus.» (U1321 · chars 203261–203459) — Candidata de cotejo; evidência `STT26-19-RC-102-001`, grafia encontrada `Shiva`; decisão por lote `STT26-19: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+
+## Ampliação — OIDR26-01 (Onda incremental dry-run — Anunnaki, genética e humanidade (derivados normalizados))
+
+- **[P1 · Shiva (Savna)]** «Mesmo no tempo em que eu li o Bhagavad Gita, e ainda não tinha visão minimamente profunda, eu estou falando dos meus tempos de juventude, em que eu li aquilo, os deuses hindus matando uns aos outros com um sorriso na face, Ou seja, a questão de destruir a figura de Shiva. Lá na minha juventude eu olhava um ser destruidor que tinha que destruir para o universo ir em frente.» (U0099) — candidata de cotejo ampliado; evidência `OIDR26-01-RC-102-001`, grafia literal `Shiva`, sem homologação de pérola.
+
+
+## Ampliação — OIDR26-02 (Onda incremental dry-run — Mitologias, tradições e reintegração (derivados normalizados))
+
+- **[P2 · Shiva (Savna)]** «Porque a primeira geração, Khaos, Tarta, Eros, blá, blá, blá, na mitologia grega, vamos chamar agora, usando os termos da mitologia ariana hindu, Brahma, Vishnu, Shiva, esses seres jamais saíram desse universo divino.» (U0095) — candidata de cotejo ampliado; evidência `OIDR26-02-RC-102-001`, grafia literal `Shiva`, sem homologação de pérola.
+
+
+## Ampliação — OIDR26-03 (Onda incremental dry-run — Cosmogonia e história cósmica (derivados normalizados))
+
+- **[P3 · Shiva (Savna)]** «Desse ovo cósmico, cerca de 4, 5 bilhões de anos depois que o universo se formou, nesse universo vizinho, Brahma e seus descendentes, Vishnu e seus descendentes, Shiva e seus descendentes e outras gerações de seres demoníacos, todos eles, cerca de 4, 5, 6 bilhões de anos depois, eles perceberam que estavam falidos.» (U0207) — candidata de cotejo ampliado; evidência `OIDR26-03-RC-102-001`, grafia literal `Shiva`, sem homologação de pérola.
+
+
+## Ampliação — OIDR26-04 (Onda incremental dry-run — Experiência espiritual e ética evolutiva (derivados normalizados))
+
+- **[P4 · Shiva (Savna)]** «mas como essas reflexões como essas notícias essas informações iriam desagradar e perturbar isso e aquilo isso e a lógica desses seres não são os espíritos são seres do universo vizinho como muito bem disse a Juscelia são os arcontes os deuses, não estamos falando aqui de espíritos esses seres eles vivem dessa forma medíocre, eles não têm vida própria porque faliram há muito tempo e eles vivem o que as espécies que eles criam conseguem vivenciar olhem bem o que eu estou dizendo esses seres, Brahma, Vishnu, Shiva descendentes de Vishnu, Shiva, Brahma seja lá o nome que a gente quiser dar ou a ótica mitológica que a gente observar esses seres todos Eles são mantidos vivos a partir dos efluvios das espécies que eles criam E a vida deles, como não tem maiores atrativos devido à demência que os marca Essa demência só permite a eles viver de apostas e dos desdobramentos que isso provoca No lento processo de evolução que mal eles conseguem produzir de acordo com os limites impostos pelo grau de demência que lhes marca.» (U0240) — candidata de cotejo ampliado; evidência `OIDR26-04-RC-102-001`, grafia literal `Shiva`, sem homologação de pérola.
+
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| OIDR26-04 | Onda incremental dry-run — Experiência espiritual e ética evolutiva (derivados normalizados) (palestra) | transcrição automatizada; citação |
+| OIDR26-03 | Onda incremental dry-run — Cosmogonia e história cósmica (derivados normalizados) (palestra) | transcrição automatizada; citação |
+| OIDR26-02 | Onda incremental dry-run — Mitologias, tradições e reintegração (derivados normalizados) (palestra) | transcrição automatizada; citação |
+| OIDR26-01 | Onda incremental dry-run — Anunnaki, genética e humanidade (derivados normalizados) (palestra) | transcrição automatizada; citação |
+| STT26-SOCIEDADE_CONTEMPORANEA | Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados) (palestra) | transcrição automatizada; citação |
+| STT26-MITOLOGIAS_REINTEGRACAO | Eixo STT26 — Mitologias, tradições e eixo de reintegração (derivados normalizados) (palestra) | transcrição automatizada; citação |
+| STT26-EXPERIENCIA_ESPIRITUAL_ETICA | Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados) (palestra) | transcrição automatizada; citação |
+| STT26-EXTRATERRESTRES_TECNOLOGIA | Eixo STT26 — Extraterrestres, tecnologia e cosmos (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | P2022-09-17 | A Hipóstase dos Arcontes (palestra) | — | transcrição automatizada; citação |
 | P2021-06-26 | Shiva - A Reconstrução do Erro de Brahma e o Tikum (palestra) | — | transcrição automatizada; citação |
 | P2021-04-10 | O Fechamento dos Portais e o Impasse no Exílio Espiritual de Len Mion — Aprofundamento (palestra) | — | transcrição automatizada; citação |
@@ -268,4 +314,3 @@ Um dos três da Trimurti (RC-104) — na RC, **Savna** (RC-409 ADHYSAVNA); princ
 ## Observações
 
 Papel de Shiva na entropia é **leitura do autor** (cosmovisão RC) — não é hinduísmo acadêmico validado.
-

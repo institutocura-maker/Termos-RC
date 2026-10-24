@@ -107,5 +107,5 @@ Se a matriz externa tiver valor, é **heurístico, nunca probatório**:
 - **RC-092** (Quarto Logos / Olm): *Nota de confinamento O-4* (precedente Jyotish) — linha ~100.
 - **Regra de ouro da esteira**: *não materializar termos fantasmas*; anti-fabricação,
   anti-pseudo-confirmação, cotejo com fonte primária (G1/G3).
-- **`PLANO-CORPUS-TREINAMENTO-IA-LOCAL.md`**: a IA Local deriva o corpus da Base consagrada;
+- **`docs/planos/PLANO-CORPUS-TREINAMENTO-IA-LOCAL.md`**: a IA Local deriva o corpus da Base consagrada;
   logo, a quarentena aqui defendida protege automaticamente o futuro corpus de treinamento.

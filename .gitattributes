@@ -1,0 +1,25 @@
+# Cópias STT derivadas preservam byte a byte a formatação do bruto, salvo as
+# substituições léxicas auditadas pelo normalizador dry-run. Os espaços finais e
+# CRLF existentes são proveniência da fonte, não estilo introduzido neste repo.
+normalizados_stt_dry_run/*.md whitespace=-trailing-space
+# A onda incremental é uma nova execução isolada sobre os mesmos seis brutos.
+# Seus derivados conservam integralmente CRLF/espaços herdados da fonte.
+onda_incremental_dry_run/derivados_normalizados/*.md whitespace=-trailing-space
+# O lote amplo segue a mesma regra: são cópias derivadas que retêm CRLF e
+# espaços finais dos brutos para preservar a procedência byte a byte.
+normalizados_stt_lote_2026-10/*.md whitespace=-trailing-space
+# O ciclo de eixo conserva os payloads normalizados byte a byte dentro de uma
+# composição selada; CRLF e espaços finais herdados não podem ser reformatados.
+ciclos/STT26-ANUNNAKI_GENETICA/original.txt whitespace=-trailing-space
+ciclos/STT26-COSMOGONIA_HISTORIA_COSMICA/original.txt whitespace=-trailing-space
+ciclos/STT26-EXTRATERRESTRES_TECNOLOGIA/original.txt whitespace=-trailing-space
+ciclos/STT26-EXPERIENCIA_ESPIRITUAL_ETICA/original.txt whitespace=-trailing-space
+ciclos/STT26-MITOLOGIAS_REINTEGRACAO/original.txt whitespace=-trailing-space
+ciclos/STT26-SOCIEDADE_CONTEMPORANEA/original.txt whitespace=-trailing-space
+# Os quatro ambientes OIDR carregam os derivados selados sem normalizar CRLF
+# ou espaços finais no payload. A exceção é deliberadamente limitada aos
+# originais compostos da onda incremental dry-run.
+ciclos/OIDR26-01/original.txt whitespace=-trailing-space
+ciclos/OIDR26-02/original.txt whitespace=-trailing-space
+ciclos/OIDR26-03/original.txt whitespace=-trailing-space
+ciclos/OIDR26-04/original.txt whitespace=-trailing-space

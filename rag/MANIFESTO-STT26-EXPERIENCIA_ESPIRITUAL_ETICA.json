@@ -1,0 +1,381 @@
+{
+ "motor": "ferramentas/motor.py",
+ "ciclo": "STT26-EXPERIENCIA_ESPIRITUAL_ETICA",
+ "politica": "apenas `status: aprovada` entra no corpus",
+ "fonte": "ciclos/STT26-EXPERIENCIA_ESPIRITUAL_ETICA/original.txt",
+ "sha256_fonte": "41a3a5d96c89a89e361f6415b2adbdff9a9eb398357f92b284c864d8ea475caf",
+ "cards_total": 53,
+ "cards": [
+  {
+   "id": "PER-STT26-EXPERIENCIA_ESPIRITUAL_ETICA-001",
+   "arquivo": "rag/perolas/PER-STT26-EXPERIENCIA_ESPIRITUAL_ETICA-001.md",
+   "sha256": "add6182f7d94de0eaf9a21ae1c6aa5c4557447b18b017f93d3729ab47180623a",
+   "termo": "RC-002",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-EXPERIENCIA_ESPIRITUAL_ETICA-002",
+   "arquivo": "rag/perolas/PER-STT26-EXPERIENCIA_ESPIRITUAL_ETICA-002.md",
+   "sha256": "e062e14690d3c86f70b52ff746ba0d4943f7f8d3b8da052544dced3d3db85c58",
+   "termo": "RC-047",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-EXPERIENCIA_ESPIRITUAL_ETICA-003",
+   "arquivo": "rag/perolas/PER-STT26-EXPERIENCIA_ESPIRITUAL_ETICA-003.md",
+   "sha256": "a952ee03c5a985796c15f51507ae98fe4a5ee8e9b8358e1720ac183ec3967e93",
+   "termo": "RC-104",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-EXPERIENCIA_ESPIRITUAL_ETICA-004",
+   "arquivo": "rag/perolas/PER-STT26-EXPERIENCIA_ESPIRITUAL_ETICA-004.md",
+   "sha256": "753be4e7f98b219d448c9838c266ff7b283192dde8cf50cb0d16e93020935248",
+   "termo": "RC-007",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-EXPERIENCIA_ESPIRITUAL_ETICA-005",
+   "arquivo": "rag/perolas/PER-STT26-EXPERIENCIA_ESPIRITUAL_ETICA-005.md",
+   "sha256": "3b5d32334a8f16a1bc532116df12a183202378d42b1d6d9a6bebc6db2df9d646",
+   "termo": "RC-009",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-EXPERIENCIA_ESPIRITUAL_ETICA-006",
+   "arquivo": "rag/perolas/PER-STT26-EXPERIENCIA_ESPIRITUAL_ETICA-006.md",
+   "sha256": "bddb03397550a7a78e52ac1fac82ae4eab30a652d21dc23e39914f6ac55574c4",
+   "termo": "RC-054",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-EXPERIENCIA_ESPIRITUAL_ETICA-007",
+   "arquivo": "rag/perolas/PER-STT26-EXPERIENCIA_ESPIRITUAL_ETICA-007.md",
+   "sha256": "d70c8000cfee22c09142235e05f022fb8a7a015b7618593bc4805773493e2804",
+   "termo": "RC-061",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-EXPERIENCIA_ESPIRITUAL_ETICA-008",
+   "arquivo": "rag/perolas/PER-STT26-EXPERIENCIA_ESPIRITUAL_ETICA-008.md",
+   "sha256": "764485536040666aa5323a9e8499b26b2f71b53bc37decdd286f2f0c0876be04",
+   "termo": "RC-106",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-EXPERIENCIA_ESPIRITUAL_ETICA-009",
+   "arquivo": "rag/perolas/PER-STT26-EXPERIENCIA_ESPIRITUAL_ETICA-009.md",
+   "sha256": "c67e16a0476baf290c94f894d4039a58a20d833dd9f649e91253a61b45062a56",
+   "termo": "RC-108",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-EXPERIENCIA_ESPIRITUAL_ETICA-010",
+   "arquivo": "rag/perolas/PER-STT26-EXPERIENCIA_ESPIRITUAL_ETICA-010.md",
+   "sha256": "9a578be43c53730d221a7a312f76182b39cc5bbc3011e0528d2e4c4309226454",
+   "termo": "RC-163",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-EXPERIENCIA_ESPIRITUAL_ETICA-011",
+   "arquivo": "rag/perolas/PER-STT26-EXPERIENCIA_ESPIRITUAL_ETICA-011.md",
+   "sha256": "dc15e67022522691a1fdbc5dd576e29d090b2d28a008e5d685ea2d0a1b9c295b",
+   "termo": "RC-166",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-EXPERIENCIA_ESPIRITUAL_ETICA-012",
+   "arquivo": "rag/perolas/PER-STT26-EXPERIENCIA_ESPIRITUAL_ETICA-012.md",
+   "sha256": "9258766aa1a03df2b571ddab28df54fb962e3643c77f830a82abf9be8f6a2d7f",
+   "termo": "RC-199",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-EXPERIENCIA_ESPIRITUAL_ETICA-013",
+   "arquivo": "rag/perolas/PER-STT26-EXPERIENCIA_ESPIRITUAL_ETICA-013.md",
+   "sha256": "1b79d79c28f66cf2320a0d9c4e05ef133cb18b89b5486eab042f9721438a94e3",
+   "termo": "RC-585",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-EXPERIENCIA_ESPIRITUAL_ETICA-014",
+   "arquivo": "rag/perolas/PER-STT26-EXPERIENCIA_ESPIRITUAL_ETICA-014.md",
+   "sha256": "4437ee31f0ecb20b573e95e0b21b79a18354393460033d75917515be826ebe93",
+   "termo": "RC-586",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-EXPERIENCIA_ESPIRITUAL_ETICA-015",
+   "arquivo": "rag/perolas/PER-STT26-EXPERIENCIA_ESPIRITUAL_ETICA-015.md",
+   "sha256": "325e9ba533206d158ada677c885f414e013fe0b24094907ec5af07a2a0c8a23d",
+   "termo": "RC-593",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-EXPERIENCIA_ESPIRITUAL_ETICA-016",
+   "arquivo": "rag/perolas/PER-STT26-EXPERIENCIA_ESPIRITUAL_ETICA-016.md",
+   "sha256": "b352e7789147e2671f58d9ed62eab4d4551151e4d85f59570b7f8166fdc62929",
+   "termo": "RC-623",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-EXPERIENCIA_ESPIRITUAL_ETICA-017",
+   "arquivo": "rag/perolas/PER-STT26-EXPERIENCIA_ESPIRITUAL_ETICA-017.md",
+   "sha256": "e81f5e78b555d216fb6ee6a2d18cb990c0fcb7678cb20424d2c09f5300a53486",
+   "termo": "RC-624",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-EXPERIENCIA_ESPIRITUAL_ETICA-018",
+   "arquivo": "rag/perolas/PER-STT26-EXPERIENCIA_ESPIRITUAL_ETICA-018.md",
+   "sha256": "46d5a55aa3c74dc421b9994715a7e1f909f943f692b3fc767399e6a76a469342",
+   "termo": "RC-938",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-EXPERIENCIA_ESPIRITUAL_ETICA-019",
+   "arquivo": "rag/perolas/PER-STT26-EXPERIENCIA_ESPIRITUAL_ETICA-019.md",
+   "sha256": "07ebd04b34ae722b6ff18a68a37fa62a3dd6c35024d3384a50f226bc73704fdd",
+   "termo": "RC-019",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-EXPERIENCIA_ESPIRITUAL_ETICA-020",
+   "arquivo": "rag/perolas/PER-STT26-EXPERIENCIA_ESPIRITUAL_ETICA-020.md",
+   "sha256": "6cc16212747b59f4366531f1dc95c90fb2dc672ccfa308928152472fe5c4d851",
+   "termo": "RC-037",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-EXPERIENCIA_ESPIRITUAL_ETICA-021",
+   "arquivo": "rag/perolas/PER-STT26-EXPERIENCIA_ESPIRITUAL_ETICA-021.md",
+   "sha256": "3896a93f0060a00e4eb735979d45301f58e18e18bc1d24a8a6a6646474c1661a",
+   "termo": "RC-086",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-EXPERIENCIA_ESPIRITUAL_ETICA-022",
+   "arquivo": "rag/perolas/PER-STT26-EXPERIENCIA_ESPIRITUAL_ETICA-022.md",
+   "sha256": "40672bff5a372a50c5706b35192ee41fdd52f1c74a13ac6ec6e817df6bf777c0",
+   "termo": "RC-092",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-EXPERIENCIA_ESPIRITUAL_ETICA-023",
+   "arquivo": "rag/perolas/PER-STT26-EXPERIENCIA_ESPIRITUAL_ETICA-023.md",
+   "sha256": "f56b2ec29c3529fdda9aa3c4614fc7aed2267ae4aa8d7b3956f79c0b18eea215",
+   "termo": "RC-094",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-EXPERIENCIA_ESPIRITUAL_ETICA-024",
+   "arquivo": "rag/perolas/PER-STT26-EXPERIENCIA_ESPIRITUAL_ETICA-024.md",
+   "sha256": "933857c72af41a10b502aea8df53397d567d06d7d18180f58b887578c5a5743c",
+   "termo": "RC-097",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-EXPERIENCIA_ESPIRITUAL_ETICA-025",
+   "arquivo": "rag/perolas/PER-STT26-EXPERIENCIA_ESPIRITUAL_ETICA-025.md",
+   "sha256": "ad9b79ab51b6fd1b343926cf69ae4df042f56c6d41ad554041b194d0cef70859",
+   "termo": "RC-102",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-EXPERIENCIA_ESPIRITUAL_ETICA-026",
+   "arquivo": "rag/perolas/PER-STT26-EXPERIENCIA_ESPIRITUAL_ETICA-026.md",
+   "sha256": "9134c9d9d3d149efd227d8ae24e6902b28dc4f08f7f764ad12be190fac340503",
+   "termo": "RC-135",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-EXPERIENCIA_ESPIRITUAL_ETICA-027",
+   "arquivo": "rag/perolas/PER-STT26-EXPERIENCIA_ESPIRITUAL_ETICA-027.md",
+   "sha256": "77f5f97992d0267cbfa12787d8308739eb60ed887d6122a804ecf95cc155dea1",
+   "termo": "RC-148",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-EXPERIENCIA_ESPIRITUAL_ETICA-028",
+   "arquivo": "rag/perolas/PER-STT26-EXPERIENCIA_ESPIRITUAL_ETICA-028.md",
+   "sha256": "0a4ca9636f20a2f54abebb6d62540f368c5e17031fb755354b4a617e99c0a321",
+   "termo": "RC-162",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-EXPERIENCIA_ESPIRITUAL_ETICA-029",
+   "arquivo": "rag/perolas/PER-STT26-EXPERIENCIA_ESPIRITUAL_ETICA-029.md",
+   "sha256": "867a33d22c7410430875c7451f697c3c3205146967224fef8a5e9129a1a1a948",
+   "termo": "RC-385",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-EXPERIENCIA_ESPIRITUAL_ETICA-030",
+   "arquivo": "rag/perolas/PER-STT26-EXPERIENCIA_ESPIRITUAL_ETICA-030.md",
+   "sha256": "2db2a05bfc37c8d980d789be59e64a7824ad0207ba13030c858efdac8546d703",
+   "termo": "RC-392",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-EXPERIENCIA_ESPIRITUAL_ETICA-031",
+   "arquivo": "rag/perolas/PER-STT26-EXPERIENCIA_ESPIRITUAL_ETICA-031.md",
+   "sha256": "b34d935336d9442373feb536a93cb47cc61af5488520d2f329473f6c10e78944",
+   "termo": "RC-397",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-EXPERIENCIA_ESPIRITUAL_ETICA-032",
+   "arquivo": "rag/perolas/PER-STT26-EXPERIENCIA_ESPIRITUAL_ETICA-032.md",
+   "sha256": "096c7c9e2c52fd37ef32cc87bc0dec42afec13ed4de35479ec487ca7877585dd",
+   "termo": "RC-414",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-EXPERIENCIA_ESPIRITUAL_ETICA-033",
+   "arquivo": "rag/perolas/PER-STT26-EXPERIENCIA_ESPIRITUAL_ETICA-033.md",
+   "sha256": "880e75180e006558cfd8dcaf3b91b2322410539916991a0b7a5132d0d5fb37fc",
+   "termo": "RC-474",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-EXPERIENCIA_ESPIRITUAL_ETICA-034",
+   "arquivo": "rag/perolas/PER-STT26-EXPERIENCIA_ESPIRITUAL_ETICA-034.md",
+   "sha256": "df31b1d1b92a53403333db09ee9c962ee525688b5af3d871f510fa6273be1360",
+   "termo": "RC-489",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-EXPERIENCIA_ESPIRITUAL_ETICA-035",
+   "arquivo": "rag/perolas/PER-STT26-EXPERIENCIA_ESPIRITUAL_ETICA-035.md",
+   "sha256": "b5545d6d7f9db2deae259b112ddd954d5d8e7b57503094cc8607aa8d03d6a3bd",
+   "termo": "RC-513",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-EXPERIENCIA_ESPIRITUAL_ETICA-036",
+   "arquivo": "rag/perolas/PER-STT26-EXPERIENCIA_ESPIRITUAL_ETICA-036.md",
+   "sha256": "00dbbcd98c3faeacda049336ef5c04c50e32d4be1e56e310bd9d55c23f09c5d6",
+   "termo": "RC-528",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-EXPERIENCIA_ESPIRITUAL_ETICA-037",
+   "arquivo": "rag/perolas/PER-STT26-EXPERIENCIA_ESPIRITUAL_ETICA-037.md",
+   "sha256": "8f098a158e2e20d88c1be5460a4bf6bf7ef2c504f6c2ec2c3484a24bdab96d54",
+   "termo": "RC-529",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-EXPERIENCIA_ESPIRITUAL_ETICA-038",
+   "arquivo": "rag/perolas/PER-STT26-EXPERIENCIA_ESPIRITUAL_ETICA-038.md",
+   "sha256": "95d84b26cfc483084086066941e40e4c10101dc7ede4eb51a8d6e19bf427bc5c",
+   "termo": "RC-553",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-EXPERIENCIA_ESPIRITUAL_ETICA-039",
+   "arquivo": "rag/perolas/PER-STT26-EXPERIENCIA_ESPIRITUAL_ETICA-039.md",
+   "sha256": "097e55036843ee10eb95b4c64714a1c6e10dd324ba4d7b20f526dbb39b8163d4",
+   "termo": "RC-559",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-EXPERIENCIA_ESPIRITUAL_ETICA-040",
+   "arquivo": "rag/perolas/PER-STT26-EXPERIENCIA_ESPIRITUAL_ETICA-040.md",
+   "sha256": "8d64b39baec989520faa9f48d0d27f77cb516cd8eeb2586f32aef3020887932a",
+   "termo": "RC-565",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-EXPERIENCIA_ESPIRITUAL_ETICA-041",
+   "arquivo": "rag/perolas/PER-STT26-EXPERIENCIA_ESPIRITUAL_ETICA-041.md",
+   "sha256": "4f405890db27e0d08f064b4d1b34e263673419c6918971e7aa3b38cf702709c7",
+   "termo": "RC-604",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-EXPERIENCIA_ESPIRITUAL_ETICA-042",
+   "arquivo": "rag/perolas/PER-STT26-EXPERIENCIA_ESPIRITUAL_ETICA-042.md",
+   "sha256": "15ed8cc31233ca45e7dbf2a098378e420dc13ace5134ecf29aa9b7046c216fe8",
+   "termo": "RC-752",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-EXPERIENCIA_ESPIRITUAL_ETICA-043",
+   "arquivo": "rag/perolas/PER-STT26-EXPERIENCIA_ESPIRITUAL_ETICA-043.md",
+   "sha256": "bc9f65f1fc870b76370b55e48b696d6cb0f0529becb0d29e45760fe978cbc014",
+   "termo": "RC-759",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-EXPERIENCIA_ESPIRITUAL_ETICA-044",
+   "arquivo": "rag/perolas/PER-STT26-EXPERIENCIA_ESPIRITUAL_ETICA-044.md",
+   "sha256": "65ffb59950e09372273c1b35eda324e08a71c44eb77d1071a0e5f87bab7a2d03",
+   "termo": "RC-854",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-EXPERIENCIA_ESPIRITUAL_ETICA-045",
+   "arquivo": "rag/perolas/PER-STT26-EXPERIENCIA_ESPIRITUAL_ETICA-045.md",
+   "sha256": "a5b97cb19eadf42241f60bd9f9edd316bb8e4cd267a11a3d5f60c0a2ad36e66f",
+   "termo": "RC-862",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-EXPERIENCIA_ESPIRITUAL_ETICA-046",
+   "arquivo": "rag/perolas/PER-STT26-EXPERIENCIA_ESPIRITUAL_ETICA-046.md",
+   "sha256": "92f91c4feed89eb931333c68d56df744a7877b1d25a5b2cf6d1b9bc4b1b3596c",
+   "termo": "RC-903",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-EXPERIENCIA_ESPIRITUAL_ETICA-047",
+   "arquivo": "rag/perolas/PER-STT26-EXPERIENCIA_ESPIRITUAL_ETICA-047.md",
+   "sha256": "f74535536911741f19691ab9b14b81743577765bc6b493690eb006bbbe759d92",
+   "termo": "RC-919",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-EXPERIENCIA_ESPIRITUAL_ETICA-048",
+   "arquivo": "rag/perolas/PER-STT26-EXPERIENCIA_ESPIRITUAL_ETICA-048.md",
+   "sha256": "6bf8823a242b667d42c739a74cf9f4ccab11562b90cafcf78fb65968b96a7790",
+   "termo": "RC-921",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-EXPERIENCIA_ESPIRITUAL_ETICA-049",
+   "arquivo": "rag/perolas/PER-STT26-EXPERIENCIA_ESPIRITUAL_ETICA-049.md",
+   "sha256": "5affa66c9c4547b06bdf70e5f2a5b33c01414a678071c4a3ece5dfc2781e1814",
+   "termo": "RC-924",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-EXPERIENCIA_ESPIRITUAL_ETICA-050",
+   "arquivo": "rag/perolas/PER-STT26-EXPERIENCIA_ESPIRITUAL_ETICA-050.md",
+   "sha256": "b55c1b5a8f7f714cc413792903cc3102a246d88063aa952690da82c60e843385",
+   "termo": "RC-940",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-EXPERIENCIA_ESPIRITUAL_ETICA-051",
+   "arquivo": "rag/perolas/PER-STT26-EXPERIENCIA_ESPIRITUAL_ETICA-051.md",
+   "sha256": "95dbe5b208c67a13f67e444d5d7f7904aafbb4613bd9e9625061da122a777353",
+   "termo": "RC-941",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-EXPERIENCIA_ESPIRITUAL_ETICA-052",
+   "arquivo": "rag/perolas/PER-STT26-EXPERIENCIA_ESPIRITUAL_ETICA-052.md",
+   "sha256": "f9dcb97d1222ceb0399b5e918cc2c853677e40ae572bf8b583f887f185cec6ce",
+   "termo": "RC-028",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-EXPERIENCIA_ESPIRITUAL_ETICA-053",
+   "arquivo": "rag/perolas/PER-STT26-EXPERIENCIA_ESPIRITUAL_ETICA-053.md",
+   "sha256": "0c113f6174086bf505543c87dd6bca81dfc64ead69d9b9ea73f27698b03f0d69",
+   "termo": "RC-292",
+   "status": "aprovada"
+  }
+ ]
+}

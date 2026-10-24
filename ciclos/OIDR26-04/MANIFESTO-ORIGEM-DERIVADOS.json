@@ -1,0 +1,104 @@
+{
+  "artefato": "Manifesto de origem da fonte consolidada — onda incremental dry-run",
+  "gerado_em": "2026-10-22",
+  "ciclo": "OIDR26-04",
+  "eixo": "EXPERIENCIA_ESPIRITUAL_ETICA",
+  "ingressos": [
+    "P4",
+    "P5",
+    "P6"
+  ],
+  "fonte_operacional": "somente onda_incremental_dry_run/derivados_normalizados/",
+  "fontes_brutas_abertas": 0,
+  "autorizacao_de_abertura": {
+    "caminho": "onda_incremental_dry_run/triagem_curatorial/AUTORIZACAO-ABERTURA-DE-CICLOS-2026-10-22.json",
+    "sha256": "56f10574ae72f3a5debce5dbe95383c4c9933a4c62a303116eef00275245ec32",
+    "despacho_cotejo_consolidado": "onda_incremental_dry_run/triagem_curatorial/CONSOLIDADO-DESPACHO-CURATORIAL.json",
+    "sha256_despacho_cotejo_consolidado": "f8a300189130a9c873d8b1f5029631e48792e7d4facd261f991662ce8628a9f7",
+    "candidatos_autorizados_para_cotejo": [
+      "RC-072",
+      "RC-166",
+      "RC-239",
+      "RC-393",
+      "RC-344",
+      "RC-623",
+      "RC-843",
+      "RC-037",
+      "RC-094",
+      "RC-102",
+      "RC-135",
+      "RC-414",
+      "RC-553",
+      "RC-585",
+      "RC-624",
+      "RC-704",
+      "RC-845",
+      "RC-942",
+      "RC-024",
+      "RC-039",
+      "RC-059",
+      "RC-144",
+      "RC-162",
+      "RC-306",
+      "RC-335"
+    ]
+  },
+  "baseline_commit": "e97b7a2",
+  "base_no_inicio": {
+    "sha256_dados_termos": "07f850448b3726a6f05e87649db1d6129ac0225483a5074238b765df3bf1cb3b",
+    "termos": 946,
+    "relacoes": 1887,
+    "ficha_true": 826,
+    "arquivos_ficha": 826
+  },
+  "sha256_original_consolidado": "d279e44f07e510519a2abb210a169694feb960c9d1803314ff51acb945406132",
+  "fontes": [
+    {
+      "ordem": 1,
+      "ingresso_id": "P4",
+      "arquivo_derivado": "onda_incremental_dry_run/derivados_normalizados/2025-07_035_JDaxXjYGyu0_Direitos_e_Deveres_Espirituais_VSC_10.md",
+      "titulo": "Direitos e Deveres Espirituais | VSC#10",
+      "duracao": "01:25:43",
+      "sha256_derivado": "9083e18b80c67bd1fa6401152ebe3e3e3ea1918be2c016273dcb34894af55a35",
+      "bytes_payload": 60538,
+      "inicio_byte_payload": 708,
+      "fim_byte_exclusivo_payload": 61246
+    },
+    {
+      "ordem": 2,
+      "ingresso_id": "P5",
+      "arquivo_derivado": "onda_incremental_dry_run/derivados_normalizados/2025-09_029_SzZtXArSltg_O_Quarto_Caminho_de_Gurdjieff_VSC_16.md",
+      "titulo": "O Quarto Caminho de Gurdjieff | VSC#16",
+      "duracao": "01:35:10",
+      "sha256_derivado": "9bc6358bd93b44eb846e599a1d2a9dd657c858b3021162266aca49a9b71aa37d",
+      "bytes_payload": 60747,
+      "inicio_byte_payload": 61647,
+      "fim_byte_exclusivo_payload": 122394
+    },
+    {
+      "ordem": 3,
+      "ingresso_id": "P6",
+      "arquivo_derivado": "onda_incremental_dry_run/derivados_normalizados/2026-02_019_E2fBs7aocgU_O_Grande_Caminho_VSC_26.md",
+      "titulo": "O Grande Caminho | VSC#26",
+      "duracao": "01:39:02",
+      "sha256_derivado": "a68c477815c157e108fa960e4a9456435bbd4c890e701098455e98461a114173",
+      "bytes_payload": 61774,
+      "inicio_byte_payload": 122769,
+      "fim_byte_exclusivo_payload": 184543
+    }
+  ],
+  "delta_esperado": {
+    "arquivos": 0,
+    "ficha_true": 0,
+    "termos": 0,
+    "relacoes": 0,
+    "vinculos": 0
+  },
+  "mutacoes_na_abertura": {
+    "dados_termos_alterado": false,
+    "fichas_criadas": 0,
+    "termos_criados": 0,
+    "relacoes_criadas": 0,
+    "apostilas_criadas": 0
+  }
+}

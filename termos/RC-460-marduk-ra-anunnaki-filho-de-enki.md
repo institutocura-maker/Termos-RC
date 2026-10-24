@@ -5,10 +5,10 @@ nome = "Marduk (= Ra; Anunnaki filho de Enki)"
 categoria = "Seres & Entidades"
 subcategoria = "1.3 Extraterrestres / Raças cósmicas"
 status = "verificado"
-fontes = ["B060", "P2022-12-17", "P2023-12-02", "P2021-03-27", "P2021-05-15", "P2023-10-14"]
+fontes = ["B060", "P2022-12-17", "P2023-12-02", "P2021-03-27", "P2021-05-15", "P2023-10-14", "OIDR26-01"]
 via = "P6-evidência"
 confianca_fonte = "alta"
-atualizado = "2026-08-28"
+atualizado = "2026-10-23"
 +++
 # Marduk (= Ra; Anunnaki filho de Enki) — RC-460
 
@@ -30,10 +30,16 @@ Na RC, deus mesopotâmico identificado como anunnaki filho de Enki, equivalente 
 | Enéade de Heliópolis | RC-627 | relaciona-se-a |
 | Relógio Messiânico | RC-765 | ← relaciona-se-a |
 
+## Ampliação — OIDR26-01 (Onda incremental dry-run — Anunnaki, genética e humanidade (derivados normalizados))
+
+- **[P1 · Marduk (= Ra; Anunnaki filho de Enki)]** «E aí vocês não se preocupem muito com os nomes, porque isso não tem muita importância, mas eu vou só me referir e dizer assim, no clã de Enki, o seu primogênito era uma figura chamada Marduk, e esse ser foi talvez a figura mais importante da história humana, pena que dele muito tenha ficado registrado, mas pouco tenha sido explorado no campo da interpretação.» (U0373) — candidata de cotejo ampliado; evidência `OIDR26-01-RC-460-001`, grafia literal `Marduk`, sem homologação de pérola.
+
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| OIDR26-01 | Onda incremental dry-run — Anunnaki, genética e humanidade (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
 | P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
 | P2023-12-02 | bloco Rá/Amon/corpo manásico; bloco da Enéade | palestra/STT pré-curada |
@@ -81,4 +87,3 @@ Na RC, deus mesopotâmico identificado como anunnaki filho de Enki, equivalente 
 
 
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-460.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
-

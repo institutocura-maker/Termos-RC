@@ -1,0 +1,317 @@
+{
+  "meta": {
+    "artefato": "Template de despacho curatorial — triagem STT em lote",
+    "lote_id": "STT26-15",
+    "gerado_em": "2026-10-20",
+    "estado": "PENDENTE-CURADOR",
+    "fonte_operacional": "somente derivados normalizados; o STT bruto não foi aberto",
+    "efeito_atual": "nenhum: não cria ciclo nem altera a Base",
+    "instrucoes": [
+      "Decidir o conjunto do lote, não vídeo a vídeo.",
+      "Sinal literal não prova conceito, interpretação nem citação apta.",
+      "AUTORIZAR-COTEJO é apenas permissão para aprofundar a evidência no derivado.",
+      "ABRIR-CICLO exige despacho posterior com âncoras e fonte derivada explícitas; não é efeito deste template."
+    ],
+    "opcoes_por_candidato": [
+      "MANTER-EM-TRIAGEM",
+      "DESCARTAR-DO-LOTE",
+      "AUTORIZAR-COTEJO-AMPLIADO",
+      "RESERVAR-PARA-FUTURO-CICLO"
+    ]
+  },
+  "candidatos": [
+    {
+      "codigo": "RC-072",
+      "nome": "Jesus",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-15-RC-072-001",
+        "STT26-15-RC-072-022",
+        "STT26-15-RC-072-031"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-009",
+      "nome": "Sophia (Cristo Cósmico)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-15-RC-009-001",
+        "STT26-15-RC-009-014",
+        "STT26-15-RC-009-016"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-094",
+      "nome": "Revelação Cósmica (conceito)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-15-RC-094-001",
+        "STT26-15-RC-094-004",
+        "STT26-15-RC-094-009"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-414",
+      "nome": "Krishna (avatar de Vishnu/Shiva)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-15-RC-414-001",
+        "STT26-15-RC-414-004",
+        "STT26-15-RC-414-019"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-135",
+      "nome": "Vishnu (Mavatna)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-15-RC-135-001",
+        "STT26-15-RC-135-003",
+        "STT26-15-RC-135-007"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-037",
+      "nome": "Brahma (Brajna)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-15-RC-037-001",
+        "STT26-15-RC-037-003",
+        "STT26-15-RC-037-008"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-102",
+      "nome": "Shiva (Savna)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-15-RC-102-001",
+        "STT26-15-RC-102-003",
+        "STT26-15-RC-102-007"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-854",
+      "nome": "Apocalipse (livro de João, ditado por Sofia/Rockman)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-15-RC-854-001",
+        "STT26-15-RC-854-020"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-942",
+      "nome": "Messias",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-15-RC-942-001",
+        "STT26-15-RC-942-002",
+        "STT26-15-RC-942-004"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-565",
+      "nome": "Hochmah (2ª Sefirah — Sabedoria; = Sophia)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-15-RC-565-001",
+        "STT26-15-RC-565-013",
+        "STT26-15-RC-565-016"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-166",
+      "nome": "Mentalma",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-15-RC-166-001",
+        "STT26-15-RC-166-002"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-585",
+      "nome": "Vyasa",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-15-RC-585-001",
+        "STT26-15-RC-585-009",
+        "STT26-15-RC-585-014"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-104",
+      "nome": "Trimurti",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-15-RC-104-001",
+        "STT26-15-RC-104-002",
+        "STT26-15-RC-104-003"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-489",
+      "nome": "Enoque (sétimo patriarca; levado por Javé)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-15-RC-489-001",
+        "STT26-15-RC-489-003",
+        "STT26-15-RC-489-010"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-944",
+      "nome": "João Batista",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-15-RC-944-001",
+        "STT26-15-RC-944-011"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-474",
+      "nome": "Arcontes (= Sophias e Indras; Conselho dos 70)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-15-RC-474-001",
+        "STT26-15-RC-474-003",
+        "STT26-15-RC-474-005"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-593",
+      "nome": "Mahabharata",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-15-RC-593-001",
+        "STT26-15-RC-593-008",
+        "STT26-15-RC-593-010"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-604",
+      "nome": "Fatiamento de Consciência",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-15-RC-604-001"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-945",
+      "nome": "Pedro (apóstolo)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-15-RC-945-001",
+        "STT26-15-RC-945-008"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-480",
+      "nome": "Indra (título de arconte)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-15-RC-480-001"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-862",
+      "nome": "Essênios (seita judaica puritana; criadores de João Batista)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-15-RC-862-001",
+        "STT26-15-RC-862-002"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-643",
+      "nome": "Santo Graal (Frequência Mestre)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-15-RC-643-001",
+        "STT26-15-RC-643-005"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-078",
+      "nome": "Lúcifer (Yel Luzbel)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-15-RC-078-001",
+        "STT26-15-RC-078-002"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-081",
+      "nome": "Mohen So (Avatar Keshava de Vishnu)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-15-RC-081-001"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-085",
+      "nome": "Orbum",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-15-RC-085-001",
+        "STT26-15-RC-085-003",
+        "STT26-15-RC-085-004"
+      ],
+      "observacao": ""
+    }
+  ],
+  "despacho_de_lote": {
+    "resultado": "PENDENTE",
+    "candidatos_para_cotejo_ampliado": [],
+    "autorizacao_para_abrir_ciclo": false,
+    "observacao": ""
+  }
+}

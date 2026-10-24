@@ -5,10 +5,10 @@ nome = "Eu Profundo (nível espiritual do Eu)"
 categoria = "Seres & Entidades"
 subcategoria = "1.8 Consciências coletivas / Logos"
 status = "verificado"
-fontes = ["B074", "B075", "P2026-07-30", "P2025-02-15", "P2024-11-30", "P2024-11-09", "P2024-04-14", "P2025-06-14b", "ART-2026-08-18"]
+fontes = ["B074", "B075", "P2026-07-30", "P2025-02-15", "P2024-11-30", "P2024-11-09", "P2024-04-14", "P2025-06-14b", "ART-2026-08-18", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA", "OIDR26-04"]
 via = "P6-evidência"
 confianca_fonte = "alta"
-atualizado = "2026-08-25"
+atualizado = "2026-10-23"
 +++
 # Eu Profundo — RC-553
 
@@ -43,9 +43,20 @@ No Mentalma I (B074, cap. 11 — "O 'Eu' que Surge da 'Caixa de Depósitos'"), E
 ## Seres Associados
 Espírito encarnado; os níveis do "Eu" da "Consciência Particularizada"; Jan Val Ellam (RC-071 — criador do método).
 
+## Ampliação — STT26-EXPERIENCIA_ESPIRITUAL_ETICA (Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados))
+
+- **[STT26-08 · Eu Profundo (nível espiritual do Eu)]** «Aí fui trabalhando minhas vontades, aí pensei, puxo, eu profundo, ou seja, a minha mente espiritual aflorou no psiquismo de Rogério.» (U0754 · chars 47133–47265) — Candidata de cotejo; evidência `STT26-08-RC-553-001`, grafia encontrada `eu profundo`; decisão por lote `STT26-08: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+## Ampliação — OIDR26-04 (Onda incremental dry-run — Experiência espiritual e ética evolutiva (derivados normalizados))
+
+- **[P6 · Eu Profundo (nível espiritual do Eu)]** «A sensação que sai desse eu cerebral é a do eu profundo do ser humano. Aí, quando esse corpo morre, o espírito recolhe esse eu aqui elegante, que controlou o eu intracraniano de Rogério.» (U0995) — candidata de cotejo ampliado; evidência `OIDR26-04-RC-553-001`, grafia literal `eu profundo`, sem homologação de pérola.
+
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| OIDR26-04 | Onda incremental dry-run — Experiência espiritual e ética evolutiva (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
+| STT26-EXPERIENCIA_ESPIRITUAL_ETICA | Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
 | Mentalma I (B074) | 11.1 "Tipos de 'Eus'" | pp. 139–140 (PDF) | definição da hierarquia |
 | Mentalma I (B074) | 3.1; 1º Exercício Mental | pp. 44, 25 (PDF) | citações |
 | Mentalma I (B074) | Cap. 13 (Ramana Maharshi) | p. 152 (PDF) | técnica |

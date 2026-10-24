@@ -5,10 +5,10 @@ nome = "Mente Universal (Emergente)"
 categoria = "Conceitos Cosmológicos"
 subcategoria = "2.5 Propósitos / Destinos"
 status = "verificado"
-fontes = ["B024", "P2025-03-15", "P2025-02-16", "P2025-02-15", "P2024-11-30", "P2024-11-09", "P2024-04-14", "P2025-06-14b", "P2023-11-19", "P2023-12-03"]
+fontes = ["B024", "P2025-03-15", "P2025-02-16", "P2025-02-15", "P2024-11-30", "P2024-11-09", "P2024-04-14", "P2025-06-14b", "P2023-11-19", "P2023-12-03", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA", "STT26-SOCIEDADE_CONTEMPORANEA"]
 via = "P6-evidência"
 confianca_fonte = "alta"
-atualizado = "2026-09-07"
+atualizado = "2026-10-22"
 +++
 # Mente Universal (Emergente) — RC-163
 
@@ -46,9 +46,20 @@ O conceito fecha o arco da apostila «A Queda»: a crise culmina na construção
 - RC-725 — ver ficha correspondente
 - RC-879 — ver ficha correspondente
 
+## Ampliação — STT26-EXPERIENCIA_ESPIRITUAL_ETICA (Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados))
+
+- **[STT26-09 · Mente Universal (Emergente)]** «Os anti-elétrons vão terminar de existir daqui a uns 800 milhões de anos Quando o drama loca lá acabar Aí as consciências que trabalharam esses anti-elétrons Vão guardar nelas e vão pular para cá Aí se junta numa só fase Eu falo assim no caso da mente universal Quando aí os elétrons vão compor então essa mente universal Com a atuação dos seres que vão matar positivamente esses elétrons E os anti-elétrons que estão lá, eles vão.» (U3121 · chars 442390–442821) — Candidata de cotejo; evidência `STT26-09-RC-163-001`, grafia encontrada `mente universal`; decisão por lote `STT26-09: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+## Ampliação — STT26-SOCIEDADE_CONTEMPORANEA (Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados))
+
+- **[STT26-24 · Mente Universal (Emergente)]** «Os códigos genômicos de espécies estruturados a partir da junção de elétrons, criam algoritmos e protocolos ancorados na memória dos mesmos. Então, uma mente universal que vai surgir agora a partir da experiência bio, ou seja, da biologia, e como na biologia a última espécie criada é a nossa, nós somos a espécie bebê, a mais moderna, os elétrons do universo não estão querendo saber o que os jacarés marcam, porque já é sobejamente conhecido para as memórias dos elétrons o que qualquer jacaré faz, o que qualquer urso, onça, cobra, inseto, mas os humanos são os únicos que surpreendem, ou deveriam surpreender, mas o humano fraco, não.» (U14024 · chars 2253099–2253738) — Candidata de cotejo; evidência `STT26-24-RC-163-001`, grafia encontrada `mente universal`; decisão por lote `STT26-24: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
+| STT26-SOCIEDADE_CONTEMPORANEA | Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados) (palestra) | transcrição automatizada; citação |
+| STT26-EXPERIENCIA_ESPIRITUAL_ETICA | Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | B024 | — | registro-mestre (fonte censada) |
 | P2025-03-15 | — | registro-mestre (fonte censada) |
 | P2025-02-16 | — | registro-mestre (fonte censada) |
@@ -69,4 +80,3 @@ Destino final do Volume V da Enciclopédia (V.22.4). Quarentena cosmológica: n�
 
 
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-163.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
-

@@ -1,0 +1,311 @@
+{
+  "meta": {
+    "artefato": "Template de despacho curatorial — triagem STT em lote",
+    "lote_id": "STT26-12",
+    "gerado_em": "2026-10-20",
+    "estado": "PENDENTE-CURADOR",
+    "fonte_operacional": "somente derivados normalizados; o STT bruto não foi aberto",
+    "efeito_atual": "nenhum: não cria ciclo nem altera a Base",
+    "instrucoes": [
+      "Decidir o conjunto do lote, não vídeo a vídeo.",
+      "Sinal literal não prova conceito, interpretação nem citação apta.",
+      "AUTORIZAR-COTEJO é apenas permissão para aprofundar a evidência no derivado.",
+      "ABRIR-CICLO exige despacho posterior com âncoras e fonte derivada explícitas; não é efeito deste template."
+    ],
+    "opcoes_por_candidato": [
+      "MANTER-EM-TRIAGEM",
+      "DESCARTAR-DO-LOTE",
+      "AUTORIZAR-COTEJO-AMPLIADO",
+      "RESERVAR-PARA-FUTURO-CICLO"
+    ]
+  },
+  "candidatos": [
+    {
+      "codigo": "RC-072",
+      "nome": "Jesus",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-12-RC-072-001",
+        "STT26-12-RC-072-031",
+        "STT26-12-RC-072-036"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-094",
+      "nome": "Revelação Cósmica (conceito)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-12-RC-094-001",
+        "STT26-12-RC-094-002",
+        "STT26-12-RC-094-003"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-162",
+      "nome": "Elétrons (agente básico da vida universal)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-12-RC-162-001",
+        "STT26-12-RC-162-002",
+        "STT26-12-RC-162-008"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-414",
+      "nome": "Krishna (avatar de Vishnu/Shiva)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-12-RC-414-001",
+        "STT26-12-RC-414-006",
+        "STT26-12-RC-414-008"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-059",
+      "nome": "Espiritualidade Superior",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-12-RC-059-001",
+        "STT26-12-RC-059-002",
+        "STT26-12-RC-059-007"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-166",
+      "nome": "Mentalma",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-12-RC-166-001",
+        "STT26-12-RC-166-002",
+        "STT26-12-RC-166-003"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-385",
+      "nome": "Egrégora (circuito dos elétrons rebeldes)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-12-RC-385-001",
+        "STT26-12-RC-385-007"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-028",
+      "nome": "Atlan",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-12-RC-028-001",
+        "STT26-12-RC-028-004",
+        "STT26-12-RC-028-005"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-623",
+      "nome": "Corpo Átmico",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-12-RC-623-001",
+        "STT26-12-RC-623-002",
+        "STT26-12-RC-623-003"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-037",
+      "nome": "Brahma (Brajna)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-12-RC-037-001",
+        "STT26-12-RC-037-004"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-085",
+      "nome": "Orbum",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-12-RC-085-001",
+        "STT26-12-RC-085-003"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-144",
+      "nome": "Zeitgeist",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-12-RC-144-001",
+        "STT26-12-RC-144-004"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-190",
+      "nome": "Revelação Espiritual (Kardec)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-12-RC-190-001",
+        "STT26-12-RC-190-002",
+        "STT26-12-RC-190-003"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-239",
+      "nome": "Hitler (figura histórica no RC)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-12-RC-239-001",
+        "STT26-12-RC-239-004"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-392",
+      "nome": "Reforma Íntima (tema do Grupo Atlan)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-12-RC-392-001",
+        "STT26-12-RC-392-003",
+        "STT26-12-RC-392-004"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-529",
+      "nome": "Ressonância límbica (emoções como tecnologia cósmica)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-12-RC-529-001",
+        "STT26-12-RC-529-003",
+        "STT26-12-RC-529-004"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-854",
+      "nome": "Apocalipse (livro de João, ditado por Sofia/Rockman)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-12-RC-854-001"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-474",
+      "nome": "Arcontes (= Sophias e Indras; Conselho dos 70)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-12-RC-474-001",
+        "STT26-12-RC-474-002"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-559",
+      "nome": "Teia quântica (o que sai de um ser volta para ele)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-12-RC-559-001",
+        "STT26-12-RC-559-002"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-565",
+      "nome": "Hochmah (2ª Sefirah — Sabedoria; = Sophia)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-12-RC-565-001"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-007",
+      "nome": "Exilados de Capela",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-12-RC-007-001"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-009",
+      "nome": "Sophia (Cristo Cósmico)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-12-RC-009-001"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-086",
+      "nome": "Pandora",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-12-RC-086-001"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-102",
+      "nome": "Shiva (Savna)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-12-RC-102-001",
+        "STT26-12-RC-102-002"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-106",
+      "nome": "Universo Antimaterial (Brahmaloka / Universo Paralelo)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-12-RC-106-001",
+        "STT26-12-RC-106-002"
+      ],
+      "observacao": ""
+    }
+  ],
+  "despacho_de_lote": {
+    "resultado": "PENDENTE",
+    "candidatos_para_cotejo_ampliado": [],
+    "autorizacao_para_abrir_ciclo": false,
+    "observacao": ""
+  }
+}

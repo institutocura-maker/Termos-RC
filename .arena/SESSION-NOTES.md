@@ -17,15 +17,15 @@
 
 - MUTIRÃO REVISAR EXTINTO (despacho Q-F041-E, 06/09/2026): F041 aplicado — 81 selos/78 fichas (AG 59 · RA 16 · IS 3 · TE 1 · DA 2); saldo oficial 25 vivas (bruta 27 — certidão de resíduo lavrada no ENCERRAMENTO-DO-MUTIRAO.md com inventário ficha a ficha; opção de microdespacho F042 para o zero bruto, com guarda RC-091 l.65 a reler). PLANO-MUTIRAO.md carimbado; régua histórica 206→25 (192 liquidadas). Commits: 9eb899a (aplicação) + 29578d8 (acerto). Vigília + Trilha Leve retomadas.
 - F042 EXECUTADO 06/09/2026 (microdespacho Q-A…C): 22 selos/18 fichas sobre os órfãos de censo (AG14/RA4/FA3/IS2); 5 não-seladas por direito (1 adjudicação em formato alternativo RC-102; 4 menções literais RC-036/RC-777); RC-091 l.65 byte-a-byte intacta (assert 80ec9a033914); régua bruta final = 4 menções estruturais; oficial = 47 resíduos chancelados; dossier consolidacoes/F042_varredura-residuo/; MUTIRÃO FECHADO EM LIMPEZA TOTAL. Vigília + Trilha Leve ativos.
-- F043 ABERTO+T1 EXECUTADO 06/09/2026 (despacho-curador via devolutiva do assistente dele): GKA = OBRA DE APOIO (não co-autoria; Anel D guardado). Fonte canificada em materiais_externos/2024-01-04_glossario-krys-amon/ (original byte a byte sha c9efbd49… + limpo com 2 duplicatas removidas + ficha_ingresso EXT-2024-01-04 + parecer anexado); ficha-pessoa RC-934 Kris Amon (COLISÃO EVITADA: RC-930=IEEA no registro-mestre — código livre vem de dados_termos.py, não dos nomes de arquivo; anti-duplicação reteve); Registro nº 21; caixa zerada de brutos. Base 934/1898. FILA: T2 (16 notas «GKA corrobora», relacoes/ blindado) e T3 (8 códigos RC-935..942 ≥5× + reabertura averbatória Perpérion na RC-047 l.70 com assert na l.65) — autorizados por despacho, aguardando ordem de execução do curador (a frase final dele mandou «executar a abertura do T1»).
+- F043 ABERTO+T1 EXECUTADO 06/09/2026 (despacho-curador via devolutiva do assistente dele): GKA = OBRA DE APOIO (não co-autoria; Anel D guardado). Fonte canificada em ../fontes/externas/2024-01-04_glossario-krys-amon/ (original byte a byte sha c9efbd49… + limpo com 2 duplicatas removidas + ficha_ingresso EXT-2024-01-04 + parecer anexado); ficha-pessoa RC-934 Kris Amon (COLISÃO EVITADA: RC-930=IEEA no registro-mestre — código livre vem de dados_termos.py, não dos nomes de arquivo; anti-duplicação reteve); Registro nº 21; caixa zerada de brutos. Base 934/1898. FILA: T2 (16 notas «GKA corrobora», relacoes/ blindado) e T3 (8 códigos RC-935..942 ≥5× + reabertura averbatória Perpérion na RC-047 l.70 com assert na l.65) — autorizados por despacho, aguardando ordem de execução do curador (a frase final dele mandou «executar a abertura do T1»).
 - F043 CONCLUÍDO 06/09/2026 (T2+T3 por despacho complementar): 16 notas GKA corrobora (Anéis A+B, costura-mestra na RC-160); 8 fichas novas RC-935..942 (Anel C ≥5×, GKA=fonte secundária; re-censo de código em dados_termos.py ANTES de gravar — lição IEEA procedimentalizada); reabertura RC-047 l.70 AGUARDA→AVERBADO Perpérion com duplo assert de hash nas l.65 (RC-047 95cf6f5f5f, RC-091 80ec9a033914). Base 942/632/1898; relacoes/ blindado; régua bruta 4 menções; ledger 47.
-- MIGRAÇÃO 06/09/2026: STATE-MIRROR.md agora VERSIONADO no raiz do repositório (o espelho fora do git se perdeu entre sessões — corrigido); conteúdo atualizado até F043 concluído. Próximo despacho esperado: F044 "Os Mistérios da Vida de Jesus" (curso amplo Ellam) em sessão nova.
+- MIGRAÇÃO 06/09/2026: STATE-MIRROR.md passou a ser VERSIONADO no repositório (o espelho fora do git se perdeu entre sessões — corrigido); atualmente em `../admin/logs/STATE-MIRROR.md`; conteúdo atualizado até F043 concluído. Próximo despacho esperado: F044 "Os Mistérios da Vida de Jesus" (curso amplo Ellam) em sessão nova.
 - F044 RECEBIDO 06/09/2026: curso «Os Mistérios da Vida de Jesus» (5 aulas Ellam, 57.179 palavras, docx revisados Curador↔áudio) — bruto chegou por upload web NA NOSSA BRANCH (d4d6e056, não na main!), conciliado e canonizado em ciclos/F044_misterios-da-vida-de-jesus/ (brutos byte a byte + translado txt fiel + ficha de ingresso + ciclo.toml fase RECEPCAO); REGISTRO-LIMPEZA nº 22; caixa expurgada; BASE INTACTA 942/632/1898/102; datas dos eventos desconhecidas (metadatas = datas de revisão; nada de P-code por dado narrativo); mapeamento+execução adiados p/ sessão nova por combinado.
-- PROMPT DE CONTINUIDADE do F044 lavrado e versionado: PROMPT-CONTINUIDADE-2026-09-06-F044.md (bootstrap, protocolo do ciclo, doutrinas, armadilhas, nº do próximo registro=23). Sessão Agente 20 ENCERRADA aqui; estado selado em aa38e6b2c.
+- PROMPT DE CONTINUIDADE do F044 lavrado e versionado: ../prompts/PROMPT-CONTINUIDADE-2026-09-06-F044.md (bootstrap, protocolo do ciclo, doutrinas, armadilhas, nº do próximo registro=23). Sessão Agente 20 ENCERRADA aqui; estado selado em aa38e6b2c.
 
 ## Sessão Agente 21 — abertura F044 (06/09/2026)
 - Sessão nova branch `arena/01a07777-termos-rc`; checkout inicial `d8bb396` NÃO tinha a camada F044/F043 (estava toda no HEAD da sessão anterior `aa38e6b2c`/árvore `b306419`). Sincronizei a árvore da sessão anterior (commit `fd160d8`) — repositório agora reflete o handoff real.
-- Bootstrap lido (PROMPT-CONTINUIDADE-2026-09-06-F044.md): STATE-MIRROR ✓ · SESSION-NOTES ✓ · F044 ingresso/ciclo.toml ✓ · dossiê F043 (anéis) ✓ · validador **OK: 942 termos, 1898 relações** ✓ · selftest 9/9 ✓.
+- Bootstrap lido (../prompts/PROMPT-CONTINUIDADE-2026-09-06-F044.md): STATE-MIRROR ✓ · SESSION-NOTES ✓ · F044 ingresso/ciclo.toml ✓ · dossiê F043 (anéis) ✓ · validador **OK: 942 termos, 1898 relações** ✓ · selftest 9/9 ✓.
 - Despacho do Curador (via ask_user): **datas pendentes** (sem código P) + escopo **censo integral + dossiê com anéis; executar apenas anéis A/B; códigos novos (C) só com novo despacho**.
 - Produzido `consolidacoes/F044_misterios-da-vida-de-jesus/` (censo.md · mapeamento.md A/B/C/D · devolutiva.md · ciclo.toml). Censo: Jesus 990 × Javé 181 × Sophia 64 × Hochmah 63; 0× Reb.Elétrons/conectoma/Perpérion; 35 termos da Base corroborados (Anel A), ~10 a ampliar (Anel B), ~20 conceitos sem código fiel (Anel C), genealogias/lugares (Anel D). Base INTOCADA 942/632/1898/102; relacoes/ blindado (0 arestas).
 - Flag anti-duplicação: **RC-193 × RC-941 "Rebanho humano"** (mesmo nome; F043-Anel C). Merge/alias recomendado (códigos imutáveis — não mexi).
@@ -43,7 +43,7 @@
 - **Registro-mestre editado** (`ferramentas/dados_termos.py`): deletado RC-941 (duplicidade); **renumerado RC-942 "Hipocampo"→RC-941** (gap do validador sequencial; ambos sem referências); inseridos **RC-942..946** (`ficha=True`, status provisório); setado `ficha=True` para **RC-862 e RC-887**. Validador: **OK 946 termos, 1898 relações** ✅ · sequência RC-001..RC-0NN ✅.
 - **Fichas no filesystem**: deletado `termos/RC-941-rebanho-humano.md`; renomeado `termos/RC-942-hipocampo.md`→`termos/RC-941-hipocampo.md`; criados `RC-942-messias.md`, `RC-943-maria-madalena.md`, `RC-944-joao-batista.md`, `RC-945-pedro.md`, `RC-946-poncio-pilatos-caifas-sinedrio.md`, `RC-887-nag-hammadi.md`, `RC-862-essenios.md`; **RC-193-rebanho-humano.md** atualizado (nota de merge + fonte F043 + definição GKA absorvida; removida a flag de duplicidade).
 - **Verificação**: 946 termos / **638 fichas=True / 638 arquivos .md** — matcher perfeito (0 ficha `True` sem arquivo · 0 arquivo sem registro). `relacoes/` intacto: **RELACOES = 1898** (Relações RC-887 pré-existentes P2022-09-17, não novas). Espelhos reconstruídos: indice 946 · xlsx 7 abas · docx 946/638/1898/102.
-- **Dossiê atualizado**: `ciclo.toml` (fase APLICACAO_ANEIS_A_B_C, base final 946/638/1898/102, seção anel_c + consolidacao), `mapeamento.md` (§3 Anel C APLICADO, merge executado, §5 duplicidade RESOLVIDA, base), `devolutiva.md` (seção ⚡ Anel C). `STATE-MIRROR.md` e `SESSION-NOTES.md` atualizados.
+- **Dossiê atualizado**: `ciclo.toml` (fase APLICACAO_ANEIS_A_B_C, base final 946/638/1898/102, seção anel_c + consolidacao), `mapeamento.md` (§3 Anel C APLICADO, merge executado, §5 duplicidade RESOLVIDA, base), `devolutiva.md` (seção ⚡ Anel C). `../admin/logs/STATE-MIRROR.md` e `SESSION-NOTES.md` atualizados.
 - **Backup**: `/tmp/bkp_F044/dados_termos.py.bak2` (pré-Anel C). **F044 CONSOLIDADO (A/B/C)**.
 - ANEL D permanece guardado (genealogias, Gólgota, Bodas de Canaã, Zoroastro, Cabala, druida, geografias — sem código, dado narrativo).
 
@@ -4194,3 +4194,294 @@ Artefacto: diagnostico/U98-INGESTAO-PENDENTE-A5.md (manifesto para o Curador).
 - Armadilha desactivada: B035 no corpus sem Portão B rebentaria execuções
   automáticas. Comporta G em aplicar_decisao_curador_a5.py: exige obra
   APARELHÁVEL antes de citar. B031 sim · B035 não · B061 fora.
+
+## U102 — Encerramento e selo da Campanha A5 (18/09/2026)
+- Despacho do Curador: «Vamos arquivar e encerrar a campanha A5 e virar a página.»
+- U100/U101 (15/09) fecharam a esteira de reanexação das 5 aulas de «Os Mistérios da
+  Vida de Jesus»: corpus 159→164, 11 citações reanexadas em 7 fichas (RC-862/887/942-946).
+- Encerramento lavrado em `diagnostico/ENCERRAMENTO-CAMPANHA-A5-2026-09-18.md` — selo
+  por números verificados no ato: `dados_termos.py` OK 946/1887 · suíte 21/21 · [T14]/[T15]
+  820/820 · `verificar_verbetes.py` 649 · 8 805 verbatim · 8 247 códigos · 0 falhas.
+- Arestas A1–A8: TODAS ✅. Dívida A5 remanescente TRANSFERIDA (não extinta): reextração
+  (A5-CITACOES-PRE-PORTAO-B), orfanato U95 (221), manifesto U98, RC-194 pendente por decisão.
+- ZERO mutação de dados nesta unidade (encerramento = registro). Base intacta: 946/820/1887.
+- Próxima etapa anunciada: livro de acesso ao estudante, a partir do índice da Enciclopédia.
+
+## U103 — Novo Projeto: livro «O Universo e seu Criador» (18/09/2026)
+- Despacho do Curador (ask_user): estrutura NARRATIVA cronológica · porte AMPLO ·
+  título sugerido «O Universo e seu Criador — uma história do antes da Criação aos dias
+  de hoje» · voz = paráfrase ancorada + caixas «Na voz do autor».
+- Plano lavrado em `pedagogico/livro/PLANO-LIVRO-UNIVERSO-E-SEU-CRIADOR.md` (Fases 0-3,
+  36 capítulos rascunho, pipeline de redação, guardas herdadas, referência única genérica).
+- Natureza: obra de PRODUÇÃO (0 códigos novos, 0 arestas, Base/relacoes/ Enciclopédia intactas).
+- Próximo passo: Fase 0 (contrato editorial + árvore validada + mapa de cobertura).
+
+## U104 — Livro · FASE 0 EXECUTADA (contrato + árvore + mapa de cobertura)
+- Despacho do Curador (18/09): plano aprovado na íntegra; início da Fase 0; PT-BR confirmado;
+  capa/autor = Jan Val Ellam + curadoria Instituto Cura; formato final SÓ DOCX (Fase 3);
+  árvore de capítulos aprovada no ato.
+- Artefactos lavrados em `pedagogico/livro/`:
+  * `README-contrato.md` — contrato editorial (natureza, referência única genérica, voz,
+    guardiões internos, capa/autoria/formato, o que fica de fora, assinatura).
+  * `INDICE-DO-LIVRO.md` — árvore canônica: Abertura (4) + Parte I (8) + Parte II (14) +
+    Parte III (16) + Fecho (6) = 38 capítulos + 10 peças. Exceção estrutural única: cap.4
+    (autor) entra na Parte I por contrato de narrador.
+  * `mapa-cobertura.md` — auditoria interna: 8 áreas × 40 subáreas (37 povoadas, 3 vazias:
+    5.2/6.4/8.3) mapeadas aos capítulos; 37 seções da Enciclopédia todas com correspondente
+    narrativo; ponte com as 7 narrativas top-down.
+- ACHADO CENSAL honesto: índice da Enciclopédia diz «671 fichas / 1.898 rel.»(fechado 07/09);
+  Base viva no ato = 946 / 820 / 1887 (R1 materializou 671→820 depois do índice).
+  Livro adota esqueleto de 37 seções + contagem viva. Enciclopédia INTOCADA.
+- ZERO mutação de dados: dados_termos.py continua OK (946/1887). Fase 0 = contrato, não redação.
+- Próximo: FASE 1 — redação dos capítulos em lotes (1º despacho: ordem/lote dos capítulos).
+
+## U105 — Livro · Fase 1 · Lote 1: Abertura + Parte I (caps. 1-4)
+- Despacho do Curador: «inicie já redigindo o lote de abertura (Abertura + Parte I, 1-4)!!!».
+- Redigidos `pedagogico/livro/capitulos/`: 00-abertura.md · 01-o-lado-de-fora.md ·
+  02-a-familia-unica-e-as-leis-de-deus.md · 03-condicao-adiatma-espirito-alfa.md ·
+  04-quem-conta-esta-historia.md (+ README da pasta).
+- MÉTODO: leitura de fichas-âncora (RC-059/060/061/204/600/606/603/601/604/152/071/120/001/037/410)
+  + corpus; paráfrase fiel; 5 caixas «Na voz do autor» VERBATIM.
+- PORTÃO B interno: 5/5 caixas conferidas byte a byte (B001 · P2021-12-04 · P2020-04-04 · B031),
+  0 não-conferidos. STT preservado como dito.
+- LIÇÕES (não repetir): (1) o B001 original tem artefacto de conversão (espaço duplo + marcador
+  de rodapé '¹') — caixa encurtada ao fragmento limpo; (2) P2021-12-04 diz «circuito da FEIÇÃO»
+  (ruído de STT) — preservado com nota, NÃO corrigido; (3) B031 usa aspas CURVAS “trilha cerebral”
+  — reproduzidas com os bytes exatos; (4) não inserir colchetes dentro de aspa verbatim (corrigido).
+- Conceitos confirmados NO CORPUS (não só na proposta): «condição adiátma» e «espírito alfa da
+  criação» em P2020-04-04; fatiamento em P2021-12-04.
+- Validação: dados_termos.py OK (946/1887) · suíte 21/21. 0 códigos novos · 0 arestas · relacoes/ intocado.
+- PRÓXIMO: outros lotes da Parte I (capitulos 5-8) ou Parte II, conforme despacho do Curador.
+
+## U106 — Livro · Fase 1 · Lote 2: Parte I (caps. 5-8)
+- Despacho do Curador: Lote 1 APROVADO NA ÍNTEGRA; seguir lote 2 (5-8).
+- Redigidos: 05 Prabrajna/projeção · 06 colapso+Demência · 07 Mergulho/criador refém ·
+  08 dois universos + Khaos + CFD. Ameaçam fechar a Parte I (checkpoint da parte no 08).
+- Âncoras lidas: RC-152/410/310/061/087/515/101/526/167/717/196/482/528/176/195/041/514/
+  106/294/040/284/107. 8 caixas «Na voz do autor» novas.
+- PORTÃO B interno: lote 2 = 8/8 conferidas; ACUMULADO livros 1+2 = 13 caixas · 0 falhas.
+- LIÇÕES (não repetir): (1) B041/B031 usam aspas CURVAS “ ” — repor byte exato;
+  (2) B031 tem "Criação" com caixa-alta — manter; (3) P2023-12-03 diz «FRAGMENTADO»,
+  não «fatiado» — nunca reescrever de memória; (4) não pôr «…» meu dentro de aspa verbatim
+  (B041/B031 começam em palavra natural); (5) B022 original tem quebras de PDF no meio das
+  frases — encurtar caixa ao fragmento contínuo.
+- Validação: dados_termos.py OK 946/1887 · suíte 21/21 · 0 códigos novos · relacoes/ intocado.
+- Parte I FECHADA no rascunho (checks de parte I no cap. 8). Próximo: lote 3 = Parte II
+  (caps. 9-22) — aguardando despacho do Curador.
+
+## U107 — Livro · Fase 1 · Lote 3: Parte II (caps. 9-13)
+- Despacho do Curador: Lote 2 APROVADO NA ÍNTEGRA; seguir Lote 3 = Parte II, caps. 9-13
+  (os nomes do Criador [Javé/Brahma/Alá] · o buraco negro mental · a Ressurreição do
+  Cadáver do Criador · a Trimurti · Vishnu e Shiva).
+- **INCIDENTE DE AMBIENTE (repetido):** HEAD local voltou a `41cfedb` (U101, base da branch);
+  worktree tinha os caps. 09-13 como não rastreados. Reparo da casa: `git fetch origin
+  +refs/heads/arena/01a0b65d-termos-rc` → remoto OK em `097ac3f` → `git reset --hard
+  origin/arena/01a0b65d-termos-rc`. Os 5 caps. novos (não rastreados) PRESERVADOS. Nada perdido.
+- Redigidos: 09 nomes do Criador (caixa B031 verbete Javé, 4 linhas hard-wrap recompostas;
+  distinção Criador×Deus via RC-052; Brajna→Brahma via RC-037/RC-310) · 10 buraco negro
+  (caixa P2024-11-30; cronologia 2017/2018/2021 conforme RC-717, divergência não fundida)
+  · 11 Ressurreição do Cadáver (caixa P2024-05-04 estendida até «Criador fragmentado»)
+  · 12 Trimurti (sem caixa nova; equação 3 seres/2 espíritos) · 13 Vishnu e Shiva
+  (3 caixas P2025-02-16; STT «brama, virgem e chiva», «Chiva produziu mais de 1000 avatares»,
+  «não corresponde a três espíritos» preservados com nota).
+- **PORTÃO B DO LIVRO:** escrevi verificador interno ` .arena/verifica_livro_portao_b.py`
+  (mesmo critério dos lotes: colapsar só espaços/quebras — caixa, acento e aspas intactos).
+  Varredura dos 22 boxes em 00-13: cap 09-13 todos [OK].
+  * REPARO DE FIDELIDADE NO LOTE 1 (achado na varredura): cap. 02 capitalizava «Os seres»
+    onde P2021-12-04 grafa «os seres» — corrigido ao byte.
+  * As 2 caixas do cap. 04 (dedicatória Raquel Braga + prefácio Ellam, ambas B031) são
+    associadas ao B031 por mapeamento por-nome no verificador — ambas [OK].
+- STT PRESERVADO como dito (nunca "corrigir" dentro da aspa): «virgem»=Vishnu, «chiva»=
+  Shiva, «brama»=Brahma, «não corresponde a três espíritos» (concordância de fala).
+- LIÇÕES (não repetir): (1) não capitalizar dentro de aspa (cap. 9/10 «surgiu…», «os três
+  seres…» em minúscula — a fonte começa minúscula); (2) não pôr ponto final que a fonte
+  não tem («…mais de 1000 avatares» segue com «e todos os nomes…»); (3) título H1 = árvore
+  canônica (cap. 11/12/13 ajustados); (4) âncora só se existe na Base — troquei RC-344 por
+  RC-081/RC-135 (cap. 13) e RC-565/RC-710 por RC-161/RC-378 (cap. 11); (5) remover “ ” de
+  paráfrase (cap. 13 «umbigo de Vishnu»), para não parecer verbatim.
+- Âncoras lidas/validadas: RC-001/037/052/284/310 (cap. 9) · RC-717/690/001/638 (cap. 10)
+  · RC-638/161/378/717 (cap. 11) · RC-104/408/409/135/102/001/037 (cap. 12) · RC-135/102/
+  104/001/037/638/081 (cap. 13). Todas existem na Base.
+- Validação: `dados_termos.py` OK 946/1887 · suíte 21/21 · 0 códigos novos · `relacoes/`
+  intocado. README dos capítulos atualizado (progresso + auditoria do lote 3).
+- Despacho ao Curador: entregue o Lote 3 (caps. 9-13) — aguardando V/X/?. Próximo lote:
+  caps. 14-22 (resto da Parte II), conforme ordem do Curador.
+
+## U108 — Livro · Fase 1 · Lote 4: Parte II completa (caps. 14-22)
+- Despacho do Curador: «Beleza ! Em frente com os caps. 14–22 ...» — Lote 3 implicitamente
+  aprovado; ordem de executar o resto da Parte II.
+- Ambiente estável na abertura (HEAD=remoto=4a55c14, árvore limpa) — sem incidente.
+- Redigidos 9 capítulos (Parte II FECHADA no rascunho): 14 avatares/emanações (caixas
+  B036×2 + P2018-02-24×2 — «Não tenho isto!»/«Eu sou o que sou tão somente»/Estratégia e
+  cobaias) · 15 geografia (B031 Universo Paralelo + P2025-02-16 Vyasa) · 16 três
+  Espiritualidades (B031 «nível mais alto») · 17 leis do tabuleiro (B024 Xadrez Cósmico +
+  B023 Senhores do Dharma) · 18 leis do tecido (B024 «momento zero», entropia) · 19
+  moradores (B019 Arquitetos Universais + P2017-05-14 «primeiro demo») · 20 Rebelião de
+  Lúcifer (B031 verbete «Rebelião de Lúcifer: … 213 bilhões…») · 21 Exilados de Capela
+  (B031 «Por volta de uns 742 mil anos…») · 22 Isolamento (B003 quarentena + B021 portais
+  + B031 Isolamento Cósmico) + checkpoint da Parte II no fecho do cap. 22.
+- PORTÃO B DO LIVRO: ` .arena/verifica_livro_portao_b.py` sobre os 36 boxes em 00-22 →
+  **36/36 · 0 falhas** (byte a byte, colapsando só espaços/quebras).
+- STT preservado: P2018-02-24 («agendas», «de Moisés e Mimos», «deles»), P2017-05-14
+  («os anjos glórios e chi o primeiro demo»), B023 artefato de espaçamento («Senhores do
+  Dharma ”» / «Lila ”» — mantido na aspa). Nunca "corrigir" dentro de aspa.
+- ERROS MEUS PRESOS PELO PORTÃO B ANTES DO COMMIT (3): (1) cap. 14 «não eram delas» →
+  fonte grafa «deles»; (2) cap. 17 caixa B023 fechando em ponto final quando a fonte
+  continua com dois-pontos («…desconfiar de uma coisa:»); (3) atribuição com aspas no
+  parêntese quebrando o regex do verificador (cap. 21).
+- REPAROS DE ÂNCORA: RC-517 (Protocolo Mental) indevidamente listada no cap. 19 →
+  substituída; RC-344 já corrigido no lote 3; todas as âncoras de rodapé existem na Base.
+- LIÇÕES (não repetir): verbetes do B031 quebram palavras por translineação («quaren
+  tena», «fra terna») — colapsar quebras ANTES de comparar, mas NUNCA tocar nos espaços
+  internos das palavras na aspa; números de capítulo da RC-155 (13,8 bi) × RC-107/B031
+  (13,7 bi) — usar a do glossário citado, sem fundir.
+- Validação: `dados_termos.py` OK 946/1887 · suíte 21/21 · 0 códigos novos · relacoes/
+  intocado. README dos capítulos atualizado (progresso + auditoria do lote 4).
+- Despacho ao Curador: entregue o Lote 4 (caps. 14-22) — aguardando V/X/?. Próximo lote:
+  Parte III (caps. 23-38), conforme ordem do Curador.
+
+## U109 — Livro · Fase 1 · Lote 5: Parte III, primeira metade (caps. 23-30)
+- Despacho do Curador: Lote 4 entregue (U108) e usuário seguiu com «continuando ...» → abrir
+  o próximo lote (Parte III).
+- INCIDENTE DE AMBIENTE (3ª recorrência): HEAD local regrediu a `41cfedb` + untracked
+  `diagnostico/ENCERRAMENTO-CAMPANHA-A5-2026-09-18.md` e `pedagogico/livro/`. Reparo:
+  `git fetch` + `git reset --hard origin/arena/01a0b65d-termos-rc` → HEAD `3bc9790`, árvore limpa.
+- Redigidos 8 capítulos (PARTE III aberta no rascunho): 23 Projeto Talm (2 caixas B031 —
+  «Á medida que…»refeita→«A doença do Criador…era o de Brahma.» + verbete «Em outras palavras,
+  foi um projeto edificado…onde vivemos.») · 24 semeadura/Agentes (B024 «Projeto Talm” ,» +
+  «agentes da vida» + «Chegará o momento…sua desdita.» + P2024-02-25 baralho 28.869) ·
+  25 DNA-holograma (B002 «projeção holográfica…» + P2024-02-25 «Cada código…microsensação.») ·
+  26 titãs/asuras/demos (B023 «Como isso se deu? Os dois irmãos titãs, Prometeu e Epimeteu» +
+  B021 escudo invisível) · 27 Pandora/Éden/hibridações (B015 genética da confiança + B020
+  serpente + B020 humanizar) · 28 ser humano por dentro (P2024-02-25 conectoma + B048
+  dehatma buddhi) · 29 os tempos da Terra (B024 «Até este momento…descritas a seguir.» +
+  tabela das 10 eras via RC-155) · 30 vozes e missões (B005 Enoque + B005 Missão do Mestre).
+- PORTÃO B DO LIVRO: 54 boxes em 00-30 → **54/54 · 0 falhas** (byte a byte, só espaços/quebras).
+- ERROS MEUS PRESOS PELO PORTÃO B ANTES DE GRAVAR (5): (1) cap. 23 caixa 1 fechando em ponto
+  onde a fonte só tem vírgula («…menor grau.» → frase completa até «era o de Brahma.»);
+  (2) atribuição `(B031, verbete "Projeto Talm")` quebra o regex de sigla → `(B031)` simples;
+  (3) cap. 24 «Chegará o momento…realize.» — faltava «– e não há mesmo uma outra opção para
+  eles e sua desdita»; (4) cap. 27 «humanizar-me» → fonte grafa «humanizar -me de vez»
+  (artefato de digitação, preservado); (5) cap. 28 «integramente…espirito.» → fonte continua
+  «, e sequer consigo perceber que tenho uma alma que me anima.»; (6) cap. 29 «…dez eras
+  universais.» → fonte segue «, que estão descritas a seguir.».
+- ARTEFATOS DE FONTE PRESERVADOS (nunca "corrigir" na aspa): B024 «“Projeto Talm” ,» (espaço
+  antes da vírgula) · B048 «dehatma-buddhi ,» · B020 «humanizar -me de vez» · B002/B024
+  travessão-forma «–» idem. Registrados no corpo dos caps. quando a leitura estranharia.
+- LIÇÕES (não repetir): P2024-02-25 é transcript de linha única (sem quebras) — buscar
+  substring com colapso prévio; B048 usa hífen espaçado no STT do sânscrito (dehatma-buddhi ,
+  ); B015/B020 têm marcadores «===== [PÁGINA n] =====» no meio de frases — evitar caixa que
+  os atravesse (B015 «Éden…laboratórios» cortado na p.52, usei o trecho B015 «Esses pequenos
+  grupos…» que é contínuo).
+- Validação: `dados_termos.py` OK 946/1887 · suíte 21/21 (`Ran 21 tests in 10.5s OK`) ·
+  0 códigos novos · `relacoes/` intocado. README dos capítulos atualizado (tabela 23-30 +
+  auditoria do lote 5).
+- Despacho ao Curador: entregue o Lote 5 (caps. 23-30) — aguardando V/X/?. Próximo lote:
+  caps. 31-38 (resto da Parte III + Fecho), conforme ordem do Curador.
+
+## U110 — Livro · Fase 1 · Lote 6: Parte III completa (caps. 31-38)
+- Despacho do Curador: usuário seguiu com «continuando ...» após o despacho do Lote 5 → abrir
+  o lote seguinte (Parte III, segunda metade).
+- Ambiente estável na abertura (HEAD=remoto=30df67d, árvore limpa) — sem incidente desta vez.
+- Redigidos 8 capítulos (PARTE III FECHADA no rascunho): 31 Sophia (2 caixas B031 — «E o
+  isolamento cósmico da Terra acabará…primeiro contato extraterreno oficial» + «Em palavras
+  simples, Sophia seria o “pai biológico” de Jesus») · 32 Jesus/Messias (B031 verbete Jesus,
+  encurtado antes do marcador [PÁGINA 138]; Messias ≠ Jesus via RC-942; Saulo/Paulo via
+  RC-856) · 33 colapso da Trimurti (P2024-02-25 «Trimur sucumbe colapsa no ano 2018…sobra
+  disso tudo?» — STT preservado) · 34 operador humano (B031 Favor Divino) · 35 problema do mal
+  (P2024-02-25 «Ah, eu pensei que o que regrava a vida…cumprem essa agenda.») · 36 caminho de
+  volta (B021 telos/tikun + B031 Reintegração Cósmica) · 37 Cidadão Cósmico (B033 «Apesar do
+  isolamento, o cidadão cósmico pretendido surgiu…») · 38 carbono×sílica (P2025-02-16 fluxo
+  encarnatório em corpos de sílica).
+- PORTÃO B DO LIVRO: 64 boxes em 00-38 → **64/64 · 0 falhas** (byte a byte, só espaços/quebras).
+- ERROS MEUS PRESOS ANTES DE GRAVAR (3): (1) cap. 32 caixa atravessava o marcador de página
+  do B031 → encurtada ao trecho contínuo (o resto virou paráfrase); (2) cap. 36 «(tikun)» →
+  fonte grafa «( tikun )» com espaços internos; (3) cap. 38 «imantarem» → fonte grafa
+  «mantarem» (STT) — caixa e nota corrigidas ao byte.
+- REPAROS DE ÂNCORA (não repetir): RC-889 = Biblioteca Genômica Humana (não Parameshthi) →
+  usar RC-556; RC-410 = Adhyaprabraja (não telos) → usar RC-292; RC-271 = só-cadastro,
+  ficha=False → removida do cap. 34. **Regra fixa: âncora só com arquivo físico em termos/.**
+- ARTEFATOS DE FONTE PRESERVADOS na aspa: P2024-02-25 «Trimur», «senhor para mestre» · B021
+  «( tikun )» · P2025-02-16 «mantarem» · «A espiritualidade tentou, mas não conseguiu. se
+  organizar…» (o «. se» é ruído de STT, mantido). Nunca "corrigir" dentro de aspa.
+- LIÇÕES (não repetir): verbetes do B031 contêm «===== [PÁGINA n] =====» no meio de frases —
+  sempre conferir se a caixa atravessa um marcador; P2024-02-25 é transcript de linha única;
+  B021/B024/B033 têm artefatos de espaçamento (dois espaços, «( tikun )») — colapsar quebras
+  antes de comparar mas reproduzir espaços internos na aspa.
+- Validação: `dados_termos.py` OK 946/1887 · suíte 21/21 (`Ran 21 tests in 10.5s OK`) ·
+  0 códigos novos · `relacoes/` intocado. README dos capítulos atualizado (tabela 31-38 +
+  auditoria do lote 6).
+- Despacho ao Curador: entregue o Lote 6 (caps. 31-38) — aguardando V/X/?. Próximo lote:
+  Fecho (F.1–F.6 — glossário do iniciante, linha do tempo, mapa de abstração, caderno de
+  quarentenas, para continuar, caderno de tensões/lacunas), conforme ordem do Curador.
+
+## U111 — Livro · Fase 1 · Lote 7: Fecho (F.1–F.6) — FASE 1 ENCERRADA
+- Despacho do Curador: usuário aprovou e pediu «prossiga com o Lote 7 — o Fecho (F.1–F.6)!!!».
+- AMBIENTE: sem regressão desta vez (HEAD=remoto=d5d6c0a na abertura, árvore limpa). Releitura
+  prévia de PLANO/contrato/INDICE/mapa-cobertura/abertura/INDICE-TEMATICAS/N0.
+- Redigidos 6 arquivos (FECHO): F.1 glossário do iniciante (5 blocos, termos das «Palavras
+  novas» dos 38 caps.) · F.2 linha do tempo por marcos (0–19, causalidade) · F.3 mapa N0
+  comentado (4 caixas + 7 setas + trama em 60s) · F.4 caderno de quarentenas (cláusulas 2/4.2)
+  · F.5 para continuar (apostilas/enciclopédia roteadas por parte) · F.6 tensões/lacunas
+  (RC-717, primeiro demo, 13,8×13,7; 3 subáreas vazias 5.2/6.4/8.3).
+- 0 caixas verbatim novas (é instrumento, não citação): Portão B inalterado em **64/64 · 0**.
+- REMENDO ESTRUTURAL: checkpoints de parte existiam só em I e II; a Parte III carecia do seu →
+  inserido o *Checkpoint da Parte III* no cap. 38 (pipeline item 5 do contrato). Títulos H1
+  dos F.1–F.6 alinhados byte a byte à árvore canônica do INDICE-DO-LIVRO.md (F.5 em especial).
+- Validação: `dados_termos.py` OK 946/1887 · suíte 21/21 (Ran 21 in 13.4s) · 0 códigos novos
+  · `relacoes/` intocado. README atualizado (tabela F.1–F.6 + auditoria do lote 7).
+- **FASE 1 (redação) ENCERRADA no rascunho:** Abertura (A.1–A.4) + Parte I (1–8) + Parte II
+  (9–22) + Parte III (23–38, com checkpoints) + Fecho (F.1–F.6). Árvore completa: 38 capítulos
+  + 10 peças = 48 arquivos (00–38 + F1–F6).
+- Despacho ao Curador: entregue o Lote 7 (Fecho) — aguardando V/X/?. Próximo: Fase 2/3
+  (revisão + compilação DOCX), conforme ordem do Curador.
+
+## U112 — Livro · Fase 3: Compilação (livro.md + DOCX final)
+- Despacho do Curador: «Lotes 5, 6 e 7 APROVADOS e sinal verde para seguir para a Fase 2/3.»
+  Fase 2 (Instrumentos) já entregue no Fecho F.1–F.6 (Lote 7). Aqui: Fase 3 — Compilação (§5).
+- AMBIENTE: `pandoc` ausente; `python-docx` ausente; pip global bloqueado por PEP 668 →
+  resolvido com `pip install --break-system-packages python-docx`.
+- FERRAMENTA: `ferramentas/build_livro.py` (novo). Compila as 45 fontes (`capitulos/00–38*` +
+  `F1–F6*`) em 2 produtos: `pedagogico/livro/livro.md` + `O-Universo-e-seu-Criador.docx`.
+- REGIME DE REFERÊNCIA ÚNICA (§2.1/§7) APLICADO NA COMPILAÇÃO: no produto NÃO há códigos
+  RC-### / B### / P####-MM-DD, nem selos ✔/✓, nem «fonte de trabalho», nem Rodapé de método.
+  As FONTES (capitulos/*.md) permanecem intactas — a limpeza é só no build. Códigos inline
+  removidos por filtro de parênteses + reescritas pontuais (cap.13 via fichas; cap.23 ficha;
+  cap.25 «— o B002 —»; cap.28 manásico; cap.29 sumário da régua; cap.30 cap. «A Missão do
+  Mestre»; cap.32 F044/; cap.33 B041,; cap.34 título do livro B048; cap.14 «fichado na Base»
+  → «registro no acervo»; F.6 ficha RC-717 → marca da divergência). Atribuições das caixas
+  perderam só o código entre parênteses.
+- REVISÃO DE FÔLEGO achou e corrigiu: (1) `**` literal em 180 linhas (negrito atravessa a
+  quebra de linha suave das fontes) → reflow de parágrafos lógicos + tokenizador de estado;
+  (2) títulos com marcas md (`*é*`, `**não**`) → título usa texto limpo, já é bold;
+  (3) glifo ✔ no checkpoint da Abertura (bloco) e no da Parte I (H2) → removidos no build.
+- PRODUTOS: `livro.md` 2.345 linhas reflowadas; DOCX com capa (título + autor Jan Val Ellam +
+  curadoria Instituto Cura + edição 2026.1), nota de referência única, sumário (campo TOC +
+  updateFields), 64 caixas «Na voz do autor», 4 checkpoints (Abertura + Partes I/II/III),
+  86 tabelas (dados + caixas), rodapé de créditos.
+- VALIDAÇÃO (tudo verde): `verifica_livro_compilacao.py` OK · Portão B `64 · 0` ·
+  `dados_termos.py` `946/1887` · suíte `21/21` · 0 códigos novos · `relacoes/` intocado.
+- DESPACHO A FAZER (Fase 3): publicação — 1 despacho do Curador (aprovar o DOCX final/loop).
+
+## U113 — Livro · Fase 3 (complemento): espelho de capa/título
+- §5 prevê «espelho de capa/título» como artefato da Fase 3 — faltava no U112. Entregue agora.
+- `ferramentas/build_livro.py`: nova saída `SAIDA_ESPELHO` + `montar_espelho()` — espelho gerado
+  a partir das MESMAS constantes do DOCX (fonte única: título/subtítulo/autor/curadoria/edição/
+  formato/produto) + árvore da obra espelhando o INDICE-DO-LIVRO.md.
+- Espelho registra as DUAS formas do nome de capa: «Jan Val Ellam» (capa) e «JAN VAL ELLAM»
+  (página de rosto do PDF acadêmico / referências bibliográficas) — conforme convenção do repo.
+- Verificador da compilação estendido (existe/título/subtítulo/autor/curadoria/caixa alta/
+  formato SÓ DOCX/produto). Tudo verde: compilação OK · Portão B 64/0 · base 946/1887 ·
+  suíte 21/21. Fase 3 agora COMPLETA (livro.md + DOCX + espelho).
+
+## U114 — Livro · Fechamento: certidão de conclusão (rascunho)
+- Fase 3 fechada (U112/U113). Fechamento (§5) = certidão de conclusão + selo + registro
+  das lacunas. Redigida `diagnostico/CERTIDAO-LIVRO-UNIVERSO-E-SEU-CRIADOR-2026-09-19.md`.
+- Padrão da casa seguido (CERTIDAO-U81 / DESPACHO-…-SELO-CAMPANHA-R1): abertura com estado
+  do repo; campanha unidade a unidade (U103→U113); contrato cláusula a cláusula; provas da
+  Fase 3 (verificador OK · Portão B 64/0 · 2.345 linhas · 48 H1 · 64 caixas · 4 checkpoints ·
+  campo TOC · docx 120 KB · suíte 21/21 · base 946/1887); lacunas honestas (F.6/§7); envelope
+  ASCII com o selo em aberto.
+- Números só reais (git log --oneline: U103→U113 batem 1:1 com as 11 unidades). Base/termos/
+  relacoes intocados (checado). Repro dutível: build_livro.py idempotente sobre 45 fontes.
+- AGUARDA O VEREDITO: selo é ato do Curador — 1 despacho (aprovar/selar/registrar).

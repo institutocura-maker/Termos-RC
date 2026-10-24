@@ -5,10 +5,10 @@ nome = "Prajapati (a divindade antes de virar Brama)"
 categoria = "Seres & Entidades"
 subcategoria = "1.1 Divindades / Criadores"
 status = "verificado"
-fontes = ["P2012-02-19", "P2025-06-14"]
+fontes = ["P2012-02-19", "P2025-06-14", "OIDR26-03"]
 via = "P6-evidência"
 confianca_fonte = "média"
-atualizado = "2026-08-31"
+atualizado = "2026-10-23"
 +++
 # Prajapati (a divindade antes de virar Brama) — RC-852
 
@@ -37,9 +37,15 @@ Com isso:
 | Pandemia de Buraco Branco que Traga (Javé Tragado pela Criação) | RC-809 | **sem aresta** em `RELACOES`; arquivo existe |
 
 
+## Ampliação — OIDR26-03 (Onda incremental dry-run — Cosmogonia e história cósmica (derivados normalizados))
+
+- **[P3 · Prajapati (a divindade antes de virar Brama)]** «aí eu crio o ovo cósmico aqui, coloco os meus 100 bilhões de neurônios aqui dentro e esse ovo cósmico se desgarra de mim, puxa o meu eu o resto do meu corpo desmaia, aí fica esse ovo cósmico com o meu eu preso lá dentro e meus 100 bilhões de neurônios que foram chupados pra cá, esse é o ovo cósmico se um ser pôs esse ovo cósmico o nome dele é prabrágena estão fazendo a analogia, o eu de Prajapati e os 100 bilhões de neurônios da cabeça dele foram chupados para dentro desse ovo e ele, feito uma galinha, desmaiou.» (U0205) — candidata de cotejo ampliado; evidência `OIDR26-03-RC-852-001`, grafia literal `Prajapati`, sem homologação de pérola.
+
+
 ## Fontes
 | Obra (sigla) | Título | Página | Tipo |
 |---|---|---|---|
+| OIDR26-03 | Onda incremental dry-run — Cosmogonia e história cósmica (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
 | P2025-06-14 | PALESTRA SOBRE A QUEDA DO CRIADOR-Refatorada (palestra) | — | transcrição automatizada; citação |
 | P2012-02-19 | Xadrez Cósmico de Brahma, Vishnu e Shiva (palestra) | — | transcrição automatizada; citação |
 

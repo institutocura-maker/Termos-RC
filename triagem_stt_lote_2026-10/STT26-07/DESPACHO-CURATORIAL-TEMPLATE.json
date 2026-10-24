@@ -1,0 +1,310 @@
+{
+  "meta": {
+    "artefato": "Template de despacho curatorial — triagem STT em lote",
+    "lote_id": "STT26-07",
+    "gerado_em": "2026-10-20",
+    "estado": "PENDENTE-CURADOR",
+    "fonte_operacional": "somente derivados normalizados; o STT bruto não foi aberto",
+    "efeito_atual": "nenhum: não cria ciclo nem altera a Base",
+    "instrucoes": [
+      "Decidir o conjunto do lote, não vídeo a vídeo.",
+      "Sinal literal não prova conceito, interpretação nem citação apta.",
+      "AUTORIZAR-COTEJO é apenas permissão para aprofundar a evidência no derivado.",
+      "ABRIR-CICLO exige despacho posterior com âncoras e fonte derivada explícitas; não é efeito deste template."
+    ],
+    "opcoes_por_candidato": [
+      "MANTER-EM-TRIAGEM",
+      "DESCARTAR-DO-LOTE",
+      "AUTORIZAR-COTEJO-AMPLIADO",
+      "RESERVAR-PARA-FUTURO-CICLO"
+    ]
+  },
+  "candidatos": [
+    {
+      "codigo": "RC-037",
+      "nome": "Brahma (Brajna)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-07-RC-037-001",
+        "STT26-07-RC-037-004",
+        "STT26-07-RC-037-009"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-094",
+      "nome": "Revelação Cósmica (conceito)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-07-RC-094-001",
+        "STT26-07-RC-094-003",
+        "STT26-07-RC-094-005"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-072",
+      "nome": "Jesus",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-07-RC-072-001",
+        "STT26-07-RC-072-003",
+        "STT26-07-RC-072-004"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-585",
+      "nome": "Vyasa",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-07-RC-585-001"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-102",
+      "nome": "Shiva (Savna)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-07-RC-102-001",
+        "STT26-07-RC-102-003",
+        "STT26-07-RC-102-014"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-489",
+      "nome": "Enoque (sétimo patriarca; levado por Javé)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-07-RC-489-001",
+        "STT26-07-RC-489-016"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-166",
+      "nome": "Mentalma",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-07-RC-166-001",
+        "STT26-07-RC-166-006",
+        "STT26-07-RC-166-013"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-355",
+      "nome": "Fator Extraterrestre (o Elo Perdido)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-07-RC-355-001",
+        "STT26-07-RC-355-008"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-162",
+      "nome": "Elétrons (agente básico da vida universal)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-07-RC-162-001",
+        "STT26-07-RC-162-007",
+        "STT26-07-RC-162-008"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-135",
+      "nome": "Vishnu (Mavatna)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-07-RC-135-001",
+        "STT26-07-RC-135-003",
+        "STT26-07-RC-135-007"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-009",
+      "nome": "Sophia (Cristo Cósmico)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-07-RC-009-001",
+        "STT26-07-RC-009-008"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-306",
+      "nome": "Apolo",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-07-RC-306-001"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-414",
+      "nome": "Krishna (avatar de Vishnu/Shiva)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-07-RC-414-001",
+        "STT26-07-RC-414-003"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-034",
+      "nome": "Big Bang",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-07-RC-034-001",
+        "STT26-07-RC-034-002",
+        "STT26-07-RC-034-003"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-078",
+      "nome": "Lúcifer (Yel Luzbel)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-07-RC-078-001"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-108",
+      "nome": "Universo Paralelo",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-07-RC-108-001",
+        "STT26-07-RC-108-005",
+        "STT26-07-RC-108-006"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-024",
+      "nome": "Anunnaki",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-07-RC-024-001",
+        "STT26-07-RC-024-004",
+        "STT26-07-RC-024-005"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-086",
+      "nome": "Pandora",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-07-RC-086-001",
+        "STT26-07-RC-086-004",
+        "STT26-07-RC-086-005"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-593",
+      "nome": "Mahabharata",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-07-RC-593-001"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-841",
+      "nome": "Cronos (titã)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-07-RC-841-001"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-002",
+      "nome": "Rebelião de Lúcifer",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-07-RC-002-001",
+        "STT26-07-RC-002-002",
+        "STT26-07-RC-002-004"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-036",
+      "nome": "Biodemos",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-07-RC-036-001",
+        "STT26-07-RC-036-002"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-924",
+      "nome": "Loop Mental",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-07-RC-924-001"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-085",
+      "nome": "Orbum",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-07-RC-085-001",
+        "STT26-07-RC-085-002"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-709",
+      "nome": "Humano Turbinado",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-07-RC-709-001"
+      ],
+      "observacao": ""
+    }
+  ],
+  "despacho_de_lote": {
+    "resultado": "PENDENTE",
+    "candidatos_para_cotejo_ampliado": [],
+    "autorizacao_para_abrir_ciclo": false,
+    "observacao": ""
+  }
+}

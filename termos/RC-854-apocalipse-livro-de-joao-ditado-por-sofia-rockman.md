@@ -5,10 +5,10 @@ nome = "Apocalipse (livro de João, ditado por Sofia/Rockman)"
 categoria = "Tecnologias & Artefatos"
 subcategoria = "5.4 Escrituras / Objetos documentais"
 status = "verificado"
-fontes = ["P2025-05-10", "P2023-02-11", "P2022-11-20", "P2026-03-21", "P2023-12-25-03"]
+fontes = ["P2025-05-10", "P2023-02-11", "P2022-11-20", "P2026-03-21", "P2023-12-25-03", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA", "STT26-MITOLOGIAS_REINTEGRACAO", "STT26-SOCIEDADE_CONTEMPORANEA"]
 via = "P6-evidência"
 confianca_fonte = "média"
-atualizado = "2026-08-31"
+atualizado = "2026-10-22"
 +++
 # Apocalipse (livro de João, ditado por Sofia/Rockman) — RC-854
 
@@ -37,9 +37,26 @@ Com isso:
 | Hochmah (2ª Sefirah — Sabedoria; = Sophia) | RC-565 | **sem aresta** em `RELACOES`; arquivo existe |
 | João Evangelista (apóstolo, o discípulo amado) | RC-855 | **sem aresta** em `RELACOES`; arquivo existe |
 
+## Ampliação — STT26-EXPERIENCIA_ESPIRITUAL_ETICA (Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados))
+
+- **[STT26-12 · Apocalipse (livro de João, ditado por Sofia/Rockman)]** «A vinda de Sofia é nos termos em que nós falamos que apenas repete os termos do Apocalipse. Nada eu inventei, nada é novidade.» (U13074 · chars 1980379–1980505) — Candidata de cotejo; evidência `STT26-12-RC-854-001`, grafia encontrada `Apocalipse`; decisão por lote `STT26-12: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+## Ampliação — STT26-MITOLOGIAS_REINTEGRACAO (Eixo STT26 — Mitologias, tradições e eixo de reintegração (derivados normalizados))
+
+- **[STT26-13 · Apocalipse (livro de João, ditado por Sofia/Rockman)]** «Quando eu fiz isso, sem querer eu terminei adquirindo mais liberdade, a minha mente ficou mais aberta ainda para escutar ou receber mensagens, certas ou erradas, E o meu drama é que eu erro bastante na hora em que eu procuro entender aquilo e colocar no papel Aí é que eu erro mesmo Por isso que eu deixo claro Tem muito equívoco no que eu faço E acho que todo ser humano deveria fazer isso Porque nenhum pé de manga dá jaca Nenhum pé de coco dá goiaba Nós seres humanos somos imperfeitos você pretender que você está escrevendo sobre o julgo mental de alguém no livro de 200, 300 páginas e que você não vai cometer nenhum erro como médium é uma pretensão estranha, infantil e o espiritismo padece desse problema quando os seguidores de um médium tal dizem esse médium erra, aquele não erra, todo mundo erra quando são humanos nesse ponto erram mas quando eu fiquei livre para errar Aí é que mais e mais mensagens chegavam mostrando sobre a perspectiva deles Como é que se dará a volta de Jesus No próprio Apocalipse é o momento em que um anjo toma de João Que é o escritor, o escrevente do Apocalipse E leva com a vara de Medir para tomar medida da Jerusalém Celeste Que o anjo mostrou a João no céu ou seja, Jerusalém celeste é a maior coisa a maior coisa que João conhecia na época em que ele viveu era a cidade de Jerusalém então se há uma metáfora aí de uma nave voadora bem grande ser chamada de Jerusalém celeste mas o fato é que foi medido e no Apocalipse aparece lá o resultado da medida em cômodos na metragem lá da época E se nós imaginarmos uma lua cheia E mais ainda, se imaginarmos metade de uma lua cheia Se essa Jerusalém celeste estacionar A mesma distância da Terra em que a lua se encontra E acender suas luzes O tamanho dela dá metade de uma lua cheia Isso é o que João e o anjo do Apocalipse mediram e estavam registrados Em côvados e sei lá o que, as metragens da época Então o que é dito?» (U0222 · chars 51835–53747) — Candidata de cotejo; evidência `STT26-13-RC-854-001`, grafia encontrada `Apocalipse`; decisão por lote `STT26-13: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+
+## Ampliação — STT26-SOCIEDADE_CONTEMPORANEA (Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados))
+
+- **[STT26-19 · Apocalipse (livro de João, ditado por Sofia/Rockman)]** «Seria o Covid-19 alguma parte do apocalipse de João que está se cumprindo antes da volta de Sofia? no livro da Sétima Trombeta do Apocalipse algumas coisas, haviam algumas coisas a serem cumpridas havia algumas coisas a serem cumpridas essa seria uma delas?» (U1525 · chars 247399–247656) — Candidata de cotejo; evidência `STT26-19-RC-854-001`, grafia encontrada `apocalipse`; decisão por lote `STT26-19: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+
 ## Fontes
 | Obra (sigla) | Título | Página | Tipo |
 |---|---|---|---|
+| STT26-SOCIEDADE_CONTEMPORANEA | Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
+| STT26-MITOLOGIAS_REINTEGRACAO | Eixo STT26 — Mitologias, tradições e eixo de reintegração (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
+| STT26-EXPERIENCIA_ESPIRITUAL_ETICA | Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
 | P2026-03-21 | Samudra Manthan A Enigmatica Alquimia de Vishnu (palestra) | — | transcrição automatizada; citação |
 | P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
 | P2023-02-11 | Agente Humano Jesus e os Arcontes (palestra) | — | transcrição automatizada; citação |

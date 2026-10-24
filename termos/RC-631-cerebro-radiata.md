@@ -5,10 +5,10 @@ nome = "Cérebro Radiata"
 categoria = "Processos & Fenômenos"
 subcategoria = "4.1 Processos biológicos / genéticos"
 status = "verificado"
-fontes = ["P2024-05-04", "P2025-02-16", "P2024-11-30", "P2024-04-13", "P2023-04-15", "P2021-05-15", "P2020-04-25", "P2022-03-26", "P2023-12-03", "P2022-11-26"]
+fontes = ["P2024-05-04", "P2025-02-16", "P2024-11-30", "P2024-04-13", "P2023-04-15", "P2021-05-15", "P2020-04-25", "P2022-03-26", "P2023-12-03", "P2022-11-26", "STT26-SOCIEDADE_CONTEMPORANEA"]
 via = "P6-evidência"
 confianca_fonte = "média"
-atualizado = "2026-08-29"
+atualizado = "2026-10-22"
 +++
 # Cérebro Radiata — RC-631
 
@@ -36,9 +36,15 @@ A hipótese de reparo por organoides parte desta arquitetura cerebral.
 ## Seres Associados
 Consultar relações acima.
 
+## Ampliação — STT26-SOCIEDADE_CONTEMPORANEA (Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados))
+
+- **[STT26-24 · Cérebro Radiata]** «E assim, lembre-se, tem a questão do cérebro radiata, que é só um eixo, E essas produções todas já surgiram com cérebro bilatério, ou seja, todos esses seres que estou falando, mamíferos, blá, blá, blá, que surgiram já são bilatérios.» (U13593 · chars 2187480–2187714) — Candidata de cotejo; evidência `STT26-24-RC-631-001`, grafia encontrada `cérebro radiata`; decisão por lote `STT26-24: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
+| STT26-SOCIEDADE_CONTEMPORANEA | Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | P2022-11-26 | Choque de Realidade – o Perpétuo Espanto dos Donos da Verdade (palestra) | — | transcrição automatizada; citação |
 | P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
 | P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |

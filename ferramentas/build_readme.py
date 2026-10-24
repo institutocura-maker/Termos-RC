@@ -28,9 +28,12 @@ st = Counter(t[4] for t in TERMOS)
 fichas = sum(1 for t in TERMOS if t[7])
 biblio_n = len(__import__("loader").BIBLIO)
 
-mirror = open(os.path.join(RAIZ, "STATE-MIRROR.md"), encoding="utf-8").read()
+mirror = open(os.path.join(RAIZ, "admin", "logs", "STATE-MIRROR.md"), encoding="utf-8").read()
 m = re.search(r"^- Base: \*\*(.*?)\*\* \((.*?)\)\.", mirror, re.M)
-fase = m.group(2) if m else "ver STATE-MIRROR.md"
+fase = m.group(2) if m else "ver admin/logs/STATE-MIRROR.md"
+# A narrativa vem de admin/logs/; ao copiá-la para README.md, os caminhos
+# relativos aos artefatos movidos precisam voltar a ser relativos à raiz.
+fase = fase.replace("../../prompts/", "prompts/").replace("../../admin/logs/", "admin/logs/")
 
 with open(os.path.join(RAIZ, "chancela", "HOLD.csv"), encoding="utf-8-sig") as f:
     hold = [r["código"].strip() for r in csv.DictReader(f, delimiter=";")
@@ -66,7 +69,8 @@ A("- `base-terminologica.xlsx` / `base-terminologica-leitura.docx` — espelhos 
   "gerados (leitura)")
 A("- `APRESENTACAO-DO-SISTEMA.md` — arquitetura para auditores")
 A("- `diagnostico/PLANO-APRIMORAMENTO-KB-2026-09-11.md` — ondas 0–3")
-A("- `STATE-MIRROR.md` — estado operacional entre sessões")
+A("- `admin/logs/STATE-MIRROR.md` — estado operacional entre sessões")
+A("- `docs/README.md` — mapa da documentação e regras de localização")
 A("- `01-ficha-modelo.md`, `02-vocabulario-controlado.md`, "
   "`convencoes-editoriais-rc.md` — padrões editoriais")
 A("")

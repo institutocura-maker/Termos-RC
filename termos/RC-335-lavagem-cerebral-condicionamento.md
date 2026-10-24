@@ -5,10 +5,10 @@ nome = "Lavagem Cerebral (condicionamento)"
 categoria = "Conceitos Cosmológicos"
 subcategoria = "2.6 Ética / Carma / Compromissos"
 status = "verificado"
-fontes = ["B048", "P2025-03-15", "P2025-02-15", "P2024-11-30", "P2024-11-09", "P2024-03-03", "P2026-08-04"]
+fontes = ["B048", "P2025-03-15", "P2025-02-15", "P2024-11-30", "P2024-11-09", "P2024-03-03", "P2026-08-04", "OIDR26-04"]
 via = "P6-evidência"
 confianca_fonte = "alta"
-atualizado = "2026-08-12"
+atualizado = "2026-10-23"
 +++
 # Lavagem Cerebral (condicionamento) — RC-335
 
@@ -55,9 +55,15 @@ A lavagem cerebral é o mecanismo pelo qual a Teocracia da Doença (RC-334) se m
 ## Seres Associados
 Criador/Javé (RC-041/RC-001); Seres Terrenos (RC-099).
 
+## Ampliação — OIDR26-04 (Onda incremental dry-run — Experiência espiritual e ética evolutiva (derivados normalizados))
+
+- **[P4 · Lavagem Cerebral (condicionamento)]** «Um espírito, se ele já não vem com a identidade dele para tentar se defender dessa lavagem cerebral, Se o espírito é simples e ignorante, você marca nele a sua função existencial.» (U0108) — candidata de cotejo ampliado; evidência `OIDR26-04-RC-335-001`, grafia literal `lavagem cerebral`, sem homologação de pérola.
+
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| OIDR26-04 | Onda incremental dry-run — Experiência espiritual e ética evolutiva (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
 | Favor Divino (B048) | Introdução; caps. 6, 10 | pp. 6–8, 45–60, 85–100 (aprox.) | mecanismo central |
 | P2026-08-04 | Podcast Irmãos Dias #272 (aliens e a Bíblia) | — | — |
 

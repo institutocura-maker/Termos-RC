@@ -1,0 +1,312 @@
+{
+  "meta": {
+    "artefato": "Template de despacho curatorial — triagem STT em lote",
+    "lote_id": "STT26-16",
+    "gerado_em": "2026-10-20",
+    "estado": "PENDENTE-CURADOR",
+    "fonte_operacional": "somente derivados normalizados; o STT bruto não foi aberto",
+    "efeito_atual": "nenhum: não cria ciclo nem altera a Base",
+    "instrucoes": [
+      "Decidir o conjunto do lote, não vídeo a vídeo.",
+      "Sinal literal não prova conceito, interpretação nem citação apta.",
+      "AUTORIZAR-COTEJO é apenas permissão para aprofundar a evidência no derivado.",
+      "ABRIR-CICLO exige despacho posterior com âncoras e fonte derivada explícitas; não é efeito deste template."
+    ],
+    "opcoes_por_candidato": [
+      "MANTER-EM-TRIAGEM",
+      "DESCARTAR-DO-LOTE",
+      "AUTORIZAR-COTEJO-AMPLIADO",
+      "RESERVAR-PARA-FUTURO-CICLO"
+    ]
+  },
+  "candidatos": [
+    {
+      "codigo": "RC-072",
+      "nome": "Jesus",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-16-RC-072-001",
+        "STT26-16-RC-072-008",
+        "STT26-16-RC-072-021"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-037",
+      "nome": "Brahma (Brajna)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-16-RC-037-001",
+        "STT26-16-RC-037-013",
+        "STT26-16-RC-037-016"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-102",
+      "nome": "Shiva (Savna)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-16-RC-102-001",
+        "STT26-16-RC-102-002",
+        "STT26-16-RC-102-003"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-135",
+      "nome": "Vishnu (Mavatna)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-16-RC-135-001",
+        "STT26-16-RC-135-002",
+        "STT26-16-RC-135-003"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-094",
+      "nome": "Revelação Cósmica (conceito)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-16-RC-094-001",
+        "STT26-16-RC-094-003",
+        "STT26-16-RC-094-005"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-104",
+      "nome": "Trimurti",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-16-RC-104-001",
+        "STT26-16-RC-104-002",
+        "STT26-16-RC-104-004"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-593",
+      "nome": "Mahabharata",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-16-RC-593-001",
+        "STT26-16-RC-593-002",
+        "STT26-16-RC-593-003"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-942",
+      "nome": "Messias",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-16-RC-942-001",
+        "STT26-16-RC-942-003",
+        "STT26-16-RC-942-012"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-585",
+      "nome": "Vyasa",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-16-RC-585-001",
+        "STT26-16-RC-585-002",
+        "STT26-16-RC-585-012"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-480",
+      "nome": "Indra (título de arconte)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-16-RC-480-001",
+        "STT26-16-RC-480-003"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-414",
+      "nome": "Krishna (avatar de Vishnu/Shiva)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-16-RC-414-001",
+        "STT26-16-RC-414-002",
+        "STT26-16-RC-414-005"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-481",
+      "nome": "Maitreya (Dionísio; forma adiágena de Vishnu)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-16-RC-481-001"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-004",
+      "nome": "Elohim",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-16-RC-004-001"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-009",
+      "nome": "Sophia (Cristo Cósmico)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-16-RC-009-001"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-106",
+      "nome": "Universo Antimaterial (Brahmaloka / Universo Paralelo)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-16-RC-106-001",
+        "STT26-16-RC-106-002",
+        "STT26-16-RC-106-003"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-306",
+      "nome": "Apolo",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-16-RC-306-001",
+        "STT26-16-RC-306-002",
+        "STT26-16-RC-306-005"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-471",
+      "nome": "Bifrost (Portal interdimensional)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-16-RC-471-001",
+        "STT26-16-RC-471-004"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-474",
+      "nome": "Arcontes (= Sophias e Indras; Conselho dos 70)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-16-RC-474-001",
+        "STT26-16-RC-474-002",
+        "STT26-16-RC-474-003"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-756",
+      "nome": "Ganesha (exceção à metamorfose; cabeça de elefante)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-16-RC-756-001"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-034",
+      "nome": "Big Bang",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-16-RC-034-001",
+        "STT26-16-RC-034-002",
+        "STT26-16-RC-034-003"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-081",
+      "nome": "Mohen So (Avatar Keshava de Vishnu)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-16-RC-081-001"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-166",
+      "nome": "Mentalma",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-16-RC-166-001",
+        "STT26-16-RC-166-002",
+        "STT26-16-RC-166-003"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-465",
+      "nome": "Asuras (= Titãs)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-16-RC-465-001"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-862",
+      "nome": "Essênios (seita judaica puritana; criadores de João Batista)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-16-RC-862-001"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-943",
+      "nome": "Maria Madalena",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-16-RC-943-001"
+      ],
+      "observacao": ""
+    }
+  ],
+  "despacho_de_lote": {
+    "resultado": "PENDENTE",
+    "candidatos_para_cotejo_ampliado": [],
+    "autorizacao_para_abrir_ciclo": false,
+    "observacao": ""
+  }
+}

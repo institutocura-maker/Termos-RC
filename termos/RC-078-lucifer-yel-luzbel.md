@@ -5,10 +5,10 @@ nome = "Lúcifer (Yel Luzbel)"
 categoria = "Seres & Entidades"
 subcategoria = "1.5 Decaídos / Exilados / Demônios"
 status = "verificado"
-fontes = ["B031", "B017", "B018", "B039", "B015", "B003", "B025", "B026", "B057", "B058", "B060", "P2022-12-17", "P2024-03-03", "P2020-04-25", "P2022-03-26", "P2023-12-03", "P2018-12-16", "P2023-08-27"]
+fontes = ["B031", "B017", "B018", "B039", "B015", "B003", "B025", "B026", "B057", "B058", "B060", "P2022-12-17", "P2024-03-03", "P2020-04-25", "P2022-03-26", "P2023-12-03", "P2018-12-16", "P2023-08-27", "STT26-EXTRATERRESTRES_TECNOLOGIA", "STT26-MITOLOGIAS_REINTEGRACAO", "STT26-SOCIEDADE_CONTEMPORANEA", "OIDR26-01"]
 via = "P6-evidência"
 confianca_fonte = "alta"
-atualizado = "2026-09-12"
+atualizado = "2026-10-23"
 +++
 # Lúcifer (Yel Luzbel) — RC-078
 
@@ -144,3 +144,19 @@ Yel Luzbel é o protagonista negativo-positivo do drama cósmico: sua inquietaç
 ---
 ---
 ---
+
+## Ampliação — STT26-EXTRATERRESTRES_TECNOLOGIA (Eixo STT26 — Extraterrestres, tecnologia e cosmos (derivados normalizados))
+
+- **[STT26-07 · Lúcifer (Yel Luzbel)]** «Então, a queda de Lúcifer foi, na verdade, uma singularidade, ou seja, a emancipação de uma consciência? E daí ele coloca, será que isso é ruim?» (U2810 · chars 467822–467966) — Pérola homologada pelo Curador em 22/10/2026; corte literal conferido pelo Motor antes do pouso na Base.
+
+## Ampliação — STT26-MITOLOGIAS_REINTEGRACAO (Eixo STT26 — Mitologias, tradições e eixo de reintegração (derivados normalizados))
+
+- **[STT26-15 · Lúcifer (Yel Luzbel)]** «Logo mais à noite a gente está voltando aí para falar de Lúcifer. Mas, assim, seguidores, cuidado aí, seja alguém que se alinhe com suas próprias metas e objetivos, podemos todos caminhar juntos, quando um fica fraco a gente oferece um ombro, mas cada um com suas próprias pernas.» (U6099 · chars 934213–934493) — Candidata de cotejo; evidência `STT26-15-RC-078-001`, grafia encontrada `Lúcifer`; decisão por lote `STT26-15: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+## Ampliação — STT26-SOCIEDADE_CONTEMPORANEA (Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados))
+
+- **[STT26-22 · Lúcifer (Yel Luzbel)]** «Spinoza foi alguém que disse vamos atrás de uma solução para resolver isso aqui ele não foi para a esquerda e direita, em cima e abaixo ele propôs uma religião da razão ou seja, algo filosófico como sendo uma possível solução para esse impasse existencial maravilhoso eu gosto muito de uma passagem quando ele fala que a queda de Adão e Eva na verdade não foi uma queda foi uma ascensão quando eles foram expulsos do paraíso é porque eles não eram mais crianças e acenderam essa queda, virou uma queda para cima, para acender através da semente do conhecimento que hipoteticamente, Lúcifer tenha dado essa essa semente do conhecimento para eles, o que na Bíblia fala que é Lúcifer, mas talvez muito atrás, lá na raiz, tenha sido Enki, o deus Sumério, que queria dar mais conhecimento no genoma humano, e Enlil, o irmão de Enki, chegou pra ele e falou não, mas esse serzinho aí não vai suportar tanto conhecimento, é perigoso, ele não tem capacidade.» (U7796 · chars 1272252–1273202) — Candidata de cotejo; evidência `STT26-22-RC-078-001`, grafia encontrada `Lúcifer`; decisão por lote `STT26-22: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+## Ampliação — OIDR26-01 (Onda incremental dry-run — Anunnaki, genética e humanidade (derivados normalizados))
+
+- **[P1 · Lúcifer (Yel Luzbel)]** «Então, quando o Enlil começou a atrapalhar isso, quando começou a dividir os seres humanos, quando procurou enfraquecer a estrutura de prestígio de Marduk, de Enki, em torno do que existia da cultura babilônica, isso, repito, num tempo em que não existia cidade chamada Babilônia, é importante que eu diga isso essa confusão toda fez com que Marduk como Enki não quis criar confusão mais ainda com o irmão, nem com o pai Marduk foi e se tornou o Lénion da história tipo, Lúcifer não queria mais confusão, nem nunca quis mas aí alguém se tornou mais chato então assim, esse Marduk ele começou a brigar com Enki com tudo que, desculpa com Enlil, com tudo que Enlil representava, e preste atenção como por trás de Enlil estava Javé tanto Javé como Enlil a paciência com a humanidade era essa mandavam destruir seres humanos em que não, então Marduk era dessa turma aqui contra Enlil e sem saber era contra Javé então Marduk passou a ser, olha o tamanho da confusão protegido de Lémion, na confusa situação que estava existindo na região da Suméria.» (U0387) — candidata de cotejo ampliado; evidência `OIDR26-01-RC-078-001`, grafia literal `Lúcifer`, sem homologação de pérola.

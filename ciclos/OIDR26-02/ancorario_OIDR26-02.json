@@ -1,0 +1,312 @@
+{
+ "sigla": "OIDR26-02",
+ "politica_de_cobertura": "CICLO INCREMENTAL — OIDR26-02 / MITOLOGIAS_REINTEGRACAO; ingresso P2; fonte composta exclusivamente de derivado normalizado e selada por manifesto/offsets. As 25 candidatas foram homologadas explicitamente para pouso após Dossiê RAG, com âncoras literais e portões do Motor.",
+ "fonte": "ciclos/OIDR26-02/original.txt",
+ "sha256": "39ce0ba276dea37093c3c667e8bd6aa0306f86e327e7f4768fa64ee4bbc7913d",
+ "bytes": 144796,
+ "unidades_com_fala": 449,
+ "homologacao_perolas": "Aprovação explícita do Curador em 22/10/2026: as 25 candidatas do DOSSIE-RAG_OIDR26-02 foram validadas para pouso na Base.",
+ "spans": [
+  {
+   "codigo": "RC-072",
+   "status": "aprovada",
+   "u": "U0099",
+   "chars": [
+    11354,
+    11666
+   ],
+   "largura": 312,
+   "verificada": true,
+   "texto": "Aí estes avatares nasciam ou surgiam aqui Ou alguns deles nasciam e surgiam nesse universo vizinho Mas vinham para cá porque estes podiam se deslocar para cá Este é o primeiro quadro que a gente tem que compreender Para em seguida podermos falar de Cristo, Jesus, Saibaba E outros desdobramentos de Deus Por quê?"
+  },
+  {
+   "codigo": "RC-037",
+   "status": "aprovada",
+   "u": "U0095",
+   "chars": [
+    10012,
+    10229
+   ],
+   "largura": 217,
+   "verificada": true,
+   "texto": "Porque a primeira geração, Khaos, Tarta, Eros, blá, blá, blá, na mitologia grega, vamos chamar agora, usando os termos da mitologia ariana hindu, Brahma, Vishnu, Shiva, esses seres jamais saíram desse universo divino."
+  },
+  {
+   "codigo": "RC-102",
+   "status": "aprovada",
+   "u": "U0095",
+   "chars": [
+    10012,
+    10229
+   ],
+   "largura": 217,
+   "verificada": true,
+   "texto": "Porque a primeira geração, Khaos, Tarta, Eros, blá, blá, blá, na mitologia grega, vamos chamar agora, usando os termos da mitologia ariana hindu, Brahma, Vishnu, Shiva, esses seres jamais saíram desse universo divino."
+  },
+  {
+   "codigo": "RC-414",
+   "status": "aprovada",
+   "u": "U0119",
+   "chars": [
+    16343,
+    16714
+   ],
+   "largura": 371,
+   "verificada": true,
+   "texto": "E Arjuna não queria ir para a guerra matar os primos, não queria ir para a guerra matar os mestres que o haviam ensinado a lutar e que agora estavam com os turus, os caudatas, e Arjuna era frigo dos pândalas. E Krishna disse, olha, todos esses conceitos e emoções que você tem, que estão inibindo a sua vontade de ir para a guerra são inferiores à obrigação que você tem."
+  },
+  {
+   "codigo": "RC-135",
+   "status": "aprovada",
+   "u": "U0095",
+   "chars": [
+    10012,
+    10229
+   ],
+   "largura": 217,
+   "verificada": true,
+   "texto": "Porque a primeira geração, Khaos, Tarta, Eros, blá, blá, blá, na mitologia grega, vamos chamar agora, usando os termos da mitologia ariana hindu, Brahma, Vishnu, Shiva, esses seres jamais saíram desse universo divino."
+  },
+  {
+   "codigo": "RC-104",
+   "status": "aprovada",
+   "u": "U0381",
+   "chars": [
+    53586,
+    53767
+   ],
+   "largura": 181,
+   "verificada": true,
+   "texto": "A Trimurti que havia criado Sofia como sendo representante da Trimurti e herdeiro das épocas porque era o único ser condenado à Trimurti título de preposto nesse universo biológico."
+  },
+  {
+   "codigo": "RC-942",
+   "status": "aprovada",
+   "u": "U0151",
+   "chars": [
+    21680,
+    22245
+   ],
+   "largura": 565,
+   "verificada": true,
+   "texto": "Houve um problema com Enoch, que o plano de Javé de ter um humano que o representasse foi para o espaço, aí Virgium disse, ei, já que através de Enoch, O filho dele, Matusalém Você anunciou ao mundo A sua agenda Dizendo que vai mandar O Messias seu No segmento Populacional descendente De Enoque Que passou a ser Matusalém, Lameque, Noé Shema, Fatsad Salé, blá blá blá Abraão, Isaac, Jacó Maria, Jesus Ou seja, Jesus nasceu nesse desdobramento Aí viram disse, já que o problema com o Enoque você não vai resolver, eu, Vishnu, me ofereço para produzir um avatar seu."
+  },
+  {
+   "codigo": "RC-094",
+   "status": "aprovada",
+   "u": "U0719",
+   "chars": [
+    111750,
+    112133
+   ],
+   "largura": 383,
+   "verificada": true,
+   "texto": "Saibaba no seu estado atual alinha-se discreta e estratégica aos postulados da revelação cósmica como maneira de encerrar a linhagem de Cristo de maneira pacífica via prima sai, que é o próximo avançado de Cristo, ofertando a sua concordância relativa ao inevitável cumprimento da função de Sofia, assessorada pelo quarto logo, que são as figuras que estão também por trás da mulher."
+  },
+  {
+   "codigo": "RC-225",
+   "status": "aprovada",
+   "u": "U0369",
+   "chars": [
+    51487,
+    51706
+   ],
+   "largura": 219,
+   "verificada": true,
+   "texto": "Cristo começou a emparelhar a gestão cósmica com a presença de seus avatares. Os bolsonaristas acusavam Lula de ter emparelhado o governo com um monte de malucos de esquerda, de índios, da Bolívia, da Colômbia, da Lula."
+  },
+  {
+   "codigo": "RC-593",
+   "status": "aprovada",
+   "u": "U0119",
+   "chars": [
+    16037,
+    16342
+   ],
+   "largura": 305,
+   "verificada": true,
+   "texto": "E é isso que no Bhagavad Gita, um dos capítulos do Mahabharata, o Senhor Cristo explica a Arjuna o conceito de Dharma, porque Arjuna não queria ir para a guerra contra os seus primos, porque antes do Dharma surgir, existia um outro conceito, que a gente vai falar sobre isso, mas quando eu for aprofundar."
+  },
+  {
+   "codigo": "RC-669",
+   "status": "aprovada",
+   "u": "U0203",
+   "chars": [
+    29183,
+    29332
+   ],
+   "largura": 149,
+   "verificada": true,
+   "texto": "Então, o senhor Shiva criou um senhor chamado Pashupati. E Pashupati gerou todos os animais que a gente conhece nesse universo vizinho, que depois."
+  },
+  {
+   "codigo": "RC-841",
+   "status": "aprovada",
+   "u": "U0083",
+   "chars": [
+    8960,
+    9030
+   ],
+   "largura": 70,
+   "verificada": true,
+   "texto": "Depois, a mitologia grega diz que surge a geração de cronos, os titãs."
+  },
+  {
+   "codigo": "RC-254",
+   "status": "aprovada",
+   "u": "U0135",
+   "chars": [
+    19020,
+    19505
+   ],
+   "largura": 485,
+   "verificada": true,
+   "texto": "Nesse tempo, Shiva resolve fincar a sua trincheira para a dominação da Terra e de certas áreas da Terra e dos seres híbridos que então existiam e dos humanos que eram tratados como animais de estimação desses seres híbridos, os humanos menos espertos, e outros humanos já mais espertos que nessa época existiam, Shiva escolheu o sul da Índia, num tempo em que, para além do continente indiano, descendo, existia o continente da Lemúria, ou a terra de Bhul, ou a tradição Kumari Kandan."
+  },
+  {
+   "codigo": "RC-301",
+   "status": "aprovada",
+   "u": "U0213",
+   "chars": [
+    31803,
+    31899
+   ],
+   "largura": 96,
+   "verificada": true,
+   "texto": "Mas Cristo se estabeleceu como o Senhor Supremo e Ele cumpre exatamente tudo o que Ele prometeu."
+  },
+  {
+   "codigo": "RC-489",
+   "status": "aprovada",
+   "u": "U0151",
+   "chars": [
+    21680,
+    22245
+   ],
+   "largura": 565,
+   "verificada": true,
+   "texto": "Houve um problema com Enoch, que o plano de Javé de ter um humano que o representasse foi para o espaço, aí Virgium disse, ei, já que através de Enoch, O filho dele, Matusalém Você anunciou ao mundo A sua agenda Dizendo que vai mandar O Messias seu No segmento Populacional descendente De Enoque Que passou a ser Matusalém, Lameque, Noé Shema, Fatsad Salé, blá blá blá Abraão, Isaac, Jacó Maria, Jesus Ou seja, Jesus nasceu nesse desdobramento Aí viram disse, já que o problema com o Enoque você não vai resolver, eu, Vishnu, me ofereço para produzir um avatar seu."
+  },
+  {
+   "codigo": "RC-696",
+   "status": "aprovada",
+   "u": "U0109",
+   "chars": [
+    13661,
+    13971
+   ],
+   "largura": 310,
+   "verificada": true,
+   "texto": "O Dharma surgiu para os seres híbridos e para os seres demoníacos desse universo todo, quando um ser chamado Kshivako, descendente de Daksha, descendente de Kasyapa, descendente de Marit, um dos seis rishis da geração regenerada de Brahma, esse ser criou o conceito de Dharma, significando como sendo de honra."
+  },
+  {
+   "codigo": "RC-749",
+   "status": "aprovada",
+   "u": "U0199",
+   "chars": [
+    27987,
+    28094
+   ],
+   "largura": 107,
+   "verificada": true,
+   "texto": "Cristo criou no DNA híbrido e humano o vício devocional. Cristo começou a criar uma série de procedimentos."
+  },
+  {
+   "codigo": "RC-061",
+   "status": "aprovada",
+   "u": "U0461",
+   "chars": [
+    67888,
+    68793
+   ],
+   "largura": 905,
+   "verificada": true,
+   "texto": "Se eu pudesse brincar, eu diria, se existir uma roda gigante bem grande aqui, qualquer ser que entre nessa roda gigante, mesmo que ela seja muito alta, quando esse ser estiver aqui ele vai continuar sentindo aquele contentamento permanente maravilhoso que é ser perfeito mas se você pegar essa roda gigante e armar nessa espiritualidade tradicional quando ele for entrar nela, quando chegar lá ensina ele, isso aqui cai no paraíso não tem como ele ter protocolos de se isso aqui cair porque lá tudo é 100% perfeito mas aqui as coisas já podem eu estou usando as palavras que eu posso para tentar mostrar a vocês um pouco do que a gente pode compreender sobre isso aí a baianada vem toda pra cá a riobaiã e se a gente tivesse um pouquinho mais de emoção nessa história aí criaram, desde o que já estava criado lá dentro, criaram para mais ainda dentro outro colapso E surgiu a espiritualidade laboratorial."
+  },
+  {
+   "codigo": "RC-106",
+   "status": "aprovada",
+   "u": "U0075",
+   "chars": [
+    7840,
+    7973
+   ],
+   "largura": 133,
+   "verificada": true,
+   "texto": "E então essa primeira geração de seres que vivem num universo antimaterial, gênero, vizinho, paralelo a este nosso universo material."
+  },
+  {
+   "codigo": "RC-162",
+   "status": "aprovada",
+   "u": "U0481",
+   "chars": [
+    71849,
+    72392
+   ],
+   "largura": 543,
+   "verificada": true,
+   "texto": "Então, em tese, tudo que existe aqui dentro desses dois universos gêmeos que surgiram na hora da queda do Criador existe porque aqui dentro o corpo manásico dele se despedaçou e o que a gente entende como elétrons desse universo e anti-elétrons opósitos no universo vizinho correspondem exatamente ao corpo manásico desse ser despedaçado então o eu dele a sensação do eu manásico dele caiu o corpo monásico em pedaços, surgiu dois universos, foi necessário criar uma erraticidade, ou seja, uma espiritualidade que passou a existir aqui dentro."
+  },
+  {
+   "codigo": "RC-239",
+   "status": "aprovada",
+   "u": "U0615",
+   "chars": [
+    94226,
+    94748
+   ],
+   "largura": 522,
+   "verificada": true,
+   "texto": "Aí Cristian não aceitava, e sempre junto do Papa, tem gente que quer ser mais católico que o Papa, junto de Hitler, tinha malucos que eram mais doidos do que Hitler junto de Bolsonaro e de Lula tem gente que é mais neolista e bolsonarista do que eles próprios sempre no meio da contagem dos cadáveres tem gente mais maluca do que aquele que no seu aquele processo e uma turma ao redor de Cristo nunca aceitou essa história e a coisa continua meio pendente de resolução nesse nível da aristocracia primurtiano, demodármica."
+  },
+  {
+   "codigo": "RC-024",
+   "status": "aprovada",
+   "u": "U0105",
+   "chars": [
+    13219,
+    13449
+   ],
+   "largura": 230,
+   "verificada": true,
+   "texto": "Mas uma mulher que era, entre aspas, obrigada a ter relações com um Anunnaki, um ijiji, um ser de fora, seja lá quem fosse, Zeus, esse ser que nascia dessa relação, parte da herança genética dele era humana, a outra parte não era."
+  },
+  {
+   "codigo": "RC-034",
+   "status": "aprovada",
+   "u": "U0077",
+   "chars": [
+    7975,
+    8171
+   ],
+   "largura": 196,
+   "verificada": true,
+   "texto": "Os dois surgiram na explosão do Big Bang. A própria ciência, hoje em dia, já atesta, já constata, já afirma a existência de um universo gênio, tanto paralelo onde o tempo lá foi para o outro lado."
+  },
+  {
+   "codigo": "RC-059",
+   "status": "aprovada",
+   "u": "U0437",
+   "chars": [
+    63774,
+    63923
+   ],
+   "largura": 149,
+   "verificada": true,
+   "texto": "ou falando de forma diferente, os Espíritos disseram, antes desse universo existir, já existia uma espiritualidade superior, pré-existente, incriada."
+  },
+  {
+   "codigo": "RC-073",
+   "status": "aprovada",
+   "u": "U0173",
+   "chars": [
+    25066,
+    25211
+   ],
+   "largura": 145,
+   "verificada": true,
+   "texto": "Os raksasas começaram a dominar todos os quadrantes, e isso uniu esses três seres, e eles resolveram começar a conduzir avatares do tipo Keshava."
+  }
+ ],
+ "recusa": []
+}

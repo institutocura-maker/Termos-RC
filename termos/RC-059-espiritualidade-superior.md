@@ -5,10 +5,10 @@ nome = "Espiritualidade Superior"
 categoria = "Conceitos Cosmológicos"
 subcategoria = "2.3 Dimensões / Planos de existência"
 status = "em análise"
-fontes = ["B031", "B024", "B013", "B027", "B051", "B060", "P2021-12-04", "P2025-02-16", "P2025-02-15", "P2024-11-30", "P2024-11-09", "P2024-07-14", "P2020-04-04"]
+fontes = ["B031", "B024", "B013", "B027", "B051", "B060", "P2021-12-04", "P2025-02-16", "P2025-02-15", "P2024-11-30", "P2024-11-09", "P2024-07-14", "P2020-04-04", "OIDR26-02", "OIDR26-03", "OIDR26-04"]
 via = "P7-conhecimento"
 confianca_fonte = "baixa"
-atualizado = "2026-09-07"
+atualizado = "2026-10-23"
 +++
 # Espiritualidade Superior — RC-059
 
@@ -45,9 +45,27 @@ A Espiritualidade Superior é o «lado de fora» do universo: o que não é acid
 - RC-012 — ver ficha correspondente
 - RC-100 — ver ficha correspondente
 
+## Ampliação — OIDR26-02 (Onda incremental dry-run — Mitologias, tradições e reintegração (derivados normalizados))
+
+- **[P2 · Espiritualidade Superior]** «ou falando de forma diferente, os Espíritos disseram, antes desse universo existir, já existia uma espiritualidade superior, pré-existente, incriada.» (U0437) — candidata de cotejo ampliado; evidência `OIDR26-02-RC-059-001`, grafia literal `espiritualidade superior`, sem homologação de pérola.
+
+
+## Ampliação — OIDR26-03 (Onda incremental dry-run — Cosmogonia e história cósmica (derivados normalizados))
+
+- **[P3 · Espiritualidade Superior]** «E aí tem essa história da omissão do universo superior, da espiritualidade superior com relação à omissão que eles têm com a gente.» (U0777) — candidata de cotejo ampliado; evidência `OIDR26-03-RC-059-001`, grafia literal `espiritualidade superior`, sem homologação de pérola.
+
+
+## Ampliação — OIDR26-04 (Onda incremental dry-run — Experiência espiritual e ética evolutiva (derivados normalizados))
+
+- **[P4 · Espiritualidade Superior]** «Os últimos, ou seja, os criados diante dessa extrema confusão que surgiu com a criação indesejável na qual existimos, estes ainda não tiveram tempo espiritual, o conjunto de vidas neles ainda não permitiu que houvesse uma espécie, sim, de evolução da condução espiritual de como os espíritos vivem na erraticidade, ou seja, na espiritualidade, não aquela que existe de todo o século, que a gente chama de paraíso, a espiritualidade superior.» (U0064) — candidata de cotejo ampliado; evidência `OIDR26-04-RC-059-001`, grafia literal `espiritualidade superior`, sem homologação de pérola.
+
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
+| OIDR26-04 | Onda incremental dry-run — Experiência espiritual e ética evolutiva (derivados normalizados) (palestra) | transcrição automatizada; citação |
+| OIDR26-03 | Onda incremental dry-run — Cosmogonia e história cósmica (derivados normalizados) (palestra) | transcrição automatizada; citação |
+| OIDR26-02 | Onda incremental dry-run — Mitologias, tradições e reintegração (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | B031 | — | registro-mestre (fonte censada) |
 | B024 | — | registro-mestre (fonte censada) |
 | B013 | — | registro-mestre (fonte censada) |

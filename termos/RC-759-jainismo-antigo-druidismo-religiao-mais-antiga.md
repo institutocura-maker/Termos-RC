@@ -5,10 +5,10 @@ nome = "Jainismo (antigo Druidismo — religião mais antiga)"
 categoria = "Conceitos Cosmológicos"
 subcategoria = "2.4 Espiritualidade / Doutrina"
 status = "verificado"
-fontes = ["P2024-02-03", "P2023-04-01", "P2025-02-22", "P2021-05-15"]
+fontes = ["P2024-02-03", "P2023-04-01", "P2025-02-22", "P2021-05-15", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA", "STT26-MITOLOGIAS_REINTEGRACAO"]
 via = "P6-evidência"
 confianca_fonte = "média"
-atualizado = "2026-08-28"
+atualizado = "2026-10-22"
 +++
 # Jainismo (antigo Druidismo — religião mais antiga) — RC-759
 
@@ -36,10 +36,21 @@ Na leitura de Jan Val Ellam (P2024-02-03), o **Jainismo é a religião mais anti
 | Escola da Decifração da Realidade (Método Druídico) | RC-755 | relaciona-se-a |
 | Vrittis e Cittas (atividades e núcleos mentais) | RC-760 | relaciona-se-a |
 
+## Ampliação — STT26-EXPERIENCIA_ESPIRITUAL_ETICA (Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados))
+
+- **[STT26-10 · Jainismo (antigo Druidismo — religião mais antiga)]** «É difícil a gente entender isso porque a gente quer ficar velando as figuras que a gente endeusa, que eles fiquem cuidando da gente, que eles velem por a gente, mas os titancaras não fazem nada disso. Eles não fundaram religião, o jainismo surgiu muito tempo depois como expressão da prática da disciplina tapas, que é antecessora do yoga em certo sentido, e o que diabos é a disciplina tapas?» (U7817 · chars 1172095–1172489) — Candidata de cotejo; evidência `STT26-10-RC-759-001`, grafia encontrada `jainismo`; decisão por lote `STT26-10: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+## Ampliação — STT26-MITOLOGIAS_REINTEGRACAO (Eixo STT26 — Mitologias, tradições e eixo de reintegração (derivados normalizados))
+
+- **[STT26-17 · Jainismo (antigo Druidismo — religião mais antiga)]** «Então vejam, são duas gêneses totalmente distintas. Na época em que lá na Índia e no Tiberno o vedismo surgiu, junto com outras expressões do jainismo, não existia nem vida no Ocidente no sentido de vida organizada, crítica.» (U10561 · chars 1668653–1668877) — Candidata de cotejo; evidência `STT26-17-RC-759-001`, grafia encontrada `jainismo`; decisão por lote `STT26-17: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| STT26-MITOLOGIAS_REINTEGRACAO | Eixo STT26 — Mitologias, tradições e eixo de reintegração (derivados normalizados) (palestra) | transcrição automatizada; citação |
+| STT26-EXPERIENCIA_ESPIRITUAL_ETICA | Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
 | P2024-02-03 | palestra integral (Jainismo/Druidismo) | palestra/STT pré-curada |
 

@@ -5,10 +5,10 @@ nome = "Santo Graal (Frequência Mestre)"
 categoria = "Conceitos Cosmológicos"
 subcategoria = "2.2 Leis e princípios cósmicos"
 status = "verificado"
-fontes = ["P2026-04-02", "P2025-03-15"]
+fontes = ["P2026-04-02", "P2025-03-15", "STT26-MITOLOGIAS_REINTEGRACAO"]
 via = "P6-evidência"
 confianca_fonte = "média"
-atualizado = "2026-08-15"
+atualizado = "2026-10-22"
 +++
 # Santo Graal (Frequência Mestre) — RC-643
 
@@ -36,9 +36,15 @@ Extraído da 3ª Edição dos Estagiários do Kaos.
 ## Seres Associados
 Consultar relações na Base.
 
+## Ampliação — STT26-MITOLOGIAS_REINTEGRACAO (Eixo STT26 — Mitologias, tradições e eixo de reintegração (derivados normalizados))
+
+- **[STT26-15 · Santo Graal (Frequência Mestre)]** «Olha, essa pergunta é muito bem formulada Ela está nos seus termos É uma equação quase que perfeita Dessa questão central que ela invoca Sem dizer o nome Mas a questão que essa pergunta invoca É daquilo que se chama Santo Graal É uma receita, um código mágico Acostumem-se com o nome É uma frequência mestre que eu comecei a falar disso na última live, e vou ter que falar isso mais para frente nesses livros, que tem uma capacidade de resolução e de abrir.» (U6697 · chars 1018712–1019170) — Candidata de cotejo; evidência `STT26-15-RC-643-001`, grafia encontrada `Santo Graal`; decisão por lote `STT26-15: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
+| STT26-MITOLOGIAS_REINTEGRACAO | Eixo STT26 — Mitologias, tradições e eixo de reintegração (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | P2026-04-02 | U0078–U0093 | live/STT pré-curado |
 
 ## Citações-chave

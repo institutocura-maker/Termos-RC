@@ -5,10 +5,10 @@ nome = "Seres Extrafísicos"
 categoria = "Seres & Entidades"
 subcategoria = "1.5 Decaídos / Exilados / Demônios"
 status = "verificado"
-fontes = ["B031", "P2020-04-04"]
+fontes = ["B031", "P2020-04-04", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA", "OIDR26-01"]
 via = "P6-evidência"
 confianca_fonte = "alta"
-atualizado = "2026-09-13"
+atualizado = "2026-10-23"
 +++
 # Seres Extrafísicos — RC-097
 
@@ -39,10 +39,21 @@ Os habitantes do universo paralelo (antimaterial): não são físicos — e muit
 | Teurgistas | RC-235 | associado |
 | Seres dos Portais | RC-241 | associado |
 
+## Ampliação — STT26-EXPERIENCIA_ESPIRITUAL_ETICA (Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados))
+
+- **[STT26-09 · Seres Extrafísicos]** «Alguns poucos a gente pode se meter. Mas, eu estou falando de ataques espirituais, Mas também tem ataques de seres extrafísicos, que são seres desse universo vizinho que estão atacando indiscriminadamente a humanidade para poder se estabelecer aqui na invasão do universo que está tendo.» (U4925 · chars 714772–715059) — Candidata de cotejo; evidência `STT26-09-RC-097-001`, grafia encontrada `seres extrafísicos`; decisão por lote `STT26-09: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+## Ampliação — OIDR26-01 (Onda incremental dry-run — Anunnaki, genética e humanidade (derivados normalizados))
+
+- **[P1 · Seres Extrafísicos]** «Nós humanos tentamos evoluir com isso aí Ainda estamos em pleno, em meio caminho disso E nós é que inventamos democracia E os aeronácticos nunca gostaram disso Mas pouco importa O fato é que quando em Lio Se sente o governante da terra E Enki se ia cuidar só de uma parte Aqui surge o grande problema a briga desses dois caras foi usada por Javé e os Anjos, foi usada por Lénion, foi usada por uma série de outras figuras e o que é que eu critico na obra de Sitchin é que ele diz, ah, Elio a partir de um certo momento ficou conhecido como Poseidon, como Zeus aliás, como Poseidon, Elio como Zeus ou seja, ele não faz a distinção dos seres extrafísicos com os seres biológicos, em que Elio nunca se metamorfosearam na vida e nem seus filhos, mas na tradução da descendência desses seres feita por alguns autores, eles misturam as coisas, respeitam, mas discordam.» (U0171) — candidata de cotejo ampliado; evidência `OIDR26-01-RC-097-001`, grafia literal `seres extrafísicos`, sem homologação de pérola.
+
+
 ## Fontes
 
 | Obra (sigla) | Título | Página | Tipo |
 |---|---|---|---|
+| OIDR26-01 | Onda incremental dry-run — Anunnaki, genética e humanidade (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
+| STT26-EXPERIENCIA_ESPIRITUAL_ETICA | Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
 | B031 | Painéis Emergentes da Revelação Cósmica | p. 29 | livro; citação intra-linha |
 
 ## Citações-chave

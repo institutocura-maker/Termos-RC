@@ -1,14 +1,14 @@
 +++
-# frontmatter curatorial (Onda 2.1 piloto) — fonte: registro-mestre
+# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre
 codigo = "RC-009"
 nome = "Sophia (Cristo Cósmico)"
 categoria = "Seres & Entidades"
 subcategoria = "1.1 Divindades / Criadores"
 status = "verificado"
-fontes = ["B031", "B017", "B018", "B039", "B016", "B014", "B013", "B057", "B058", "B060", "P2024-02-25", "P2022-12-17", "P2021-12-04", "P2026-07-30", "P2024-05-04", "P2026-04-02", "P2025-02-16", "P2025-02-15", "P2024-11-30", "P2024-11-09", "P2024-08-03", "P2024-07-14", "P2024-03-03", "P2026-08-04", "P2024-03-02", "ART-2026-08-18", "P2023-05-13", "P2023-12-02", "P2021-03-27", "P2024-09-28", "P2023-11-19", "P2023-04-30", "P2023-04-15", "P2023-04-29", "P2020-04-18", "P2020-07-04", "P2020-05-09", "P2020-08-08", "P2021-03-13", "P2021-05-08", "P2021-07-24", "P2021-09-04", "P2022-09-24", "P2024-11-03", "P2025-02-22", "P2021-05-15", "P2023-10-14", "P2020-04-25", "P2022-03-26", "P2023-12-03", "P2021-01-30", "P2022-05-07", "P2024-06-16", "P2018-12-15", "P2025-05-10", "P2023-02-11", "P2022-11-26", "P2022-11-20", "P2022-10-01", "P2022-09-18", "P2022-07-16", "P2021-06-26", "P2022-11-19", "P2025-12-14", "P2023-12-25-01", "P2020-04-04"]
+fontes = ["B031", "B017", "B018", "B039", "B016", "B014", "B013", "B057", "B058", "B060", "P2024-02-25", "P2022-12-17", "P2021-12-04", "P2026-07-30", "P2024-05-04", "P2026-04-02", "P2025-02-16", "P2025-02-15", "P2024-11-30", "P2024-11-09", "P2024-08-03", "P2024-07-14", "P2024-03-03", "P2026-08-04", "P2024-03-02", "ART-2026-08-18", "P2023-05-13", "P2023-12-02", "P2021-03-27", "P2024-09-28", "P2023-11-19", "P2023-04-30", "P2023-04-15", "P2023-04-29", "P2020-04-18", "P2020-07-04", "P2020-05-09", "P2020-08-08", "P2021-03-13", "P2021-05-08", "P2021-07-24", "P2021-09-04", "P2022-09-24", "P2024-11-03", "P2025-02-22", "P2021-05-15", "P2023-10-14", "P2020-04-25", "P2022-03-26", "P2023-12-03", "P2021-01-30", "P2022-05-07", "P2024-06-16", "P2018-12-15", "P2025-05-10", "P2023-02-11", "P2022-11-26", "P2022-11-20", "P2022-10-01", "P2022-09-18", "P2022-07-16", "P2021-06-26", "P2022-11-19", "P2025-12-14", "P2023-12-25-01", "P2020-04-04", "STT26-EXTRATERRESTRES_TECNOLOGIA", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA", "STT26-MITOLOGIAS_REINTEGRACAO", "STT26-SOCIEDADE_CONTEMPORANEA"]
 via = "P6-evidência"
 confianca_fonte = "alta"
-atualizado = "2026-09-12"
+atualizado = "2026-10-22"
 +++
 # Sophia (Cristo Cósmico) — RC-009
 
@@ -105,9 +105,31 @@ A vinda de Sophia ("Jesus em seu corpo glorioso") marca o fim do Isolamento Cós
 | Saulo de Tarso / Paulo (criador do 'Jesus Cristo') | RC-856 | associado |
 | Suserania Universal (herança prometida a Rockma/Sofia) | RC-859 | associado |
 
+## Ampliação — STT26-EXTRATERRESTRES_TECNOLOGIA (Eixo STT26 — Extraterrestres, tecnologia e cosmos (derivados normalizados))
+
+- **[STT26-07 · Sophia (Cristo Cósmico)]** «E essa turma toda, que repetiu Rai Narok, um que houve há 300 milhões de anos atrás, quando a vida em Marte foi destruída, essa turma agora está em cima da Terra. Sophia protege Essa borrifada aí é igual a gente na fazenda dar uma borrifada nos burros Pra gente continuar ousados Não é um gesto amoroso, compreendam É só uma estratégia De ordem e caos que está em curso Ah, Sophia nos ama Sophia não ama ninguém Ele não tem lado emocional Biodemo ainda não roda a cabeça desse jeito Ah, mas o espírito de Sophia, que é o de Jesus, nos ama Pode até amar, mas não adianta abulhufos nenhum, porque o amor de um espírito é o amor de um espírito que lá a espiritualidade vem nos enche.» (U0820 · chars 121069–121749) — Pérola homologada pelo Curador em 22/10/2026; corte literal conferido pelo Motor antes do pouso na Base.
+
+## Ampliação — STT26-EXPERIENCIA_ESPIRITUAL_ETICA (Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados))
+
+- **[STT26-08 · Sophia (Cristo Cósmico)]** «Então, como fica a origem do Espírito de Jesus, se Mavatma estava mergulhado e sujo como Vishnu, e Jesus afirma no Piste Sophia que veio do pleroma.» (U0935 · chars 66644–66793) — Candidata de cotejo; evidência `STT26-08-RC-009-001`, grafia encontrada `Sophia`; decisão por lote `STT26-08: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+## Ampliação — STT26-MITOLOGIAS_REINTEGRACAO (Eixo STT26 — Mitologias, tradições e eixo de reintegração (derivados normalizados))
+
+- **[STT26-13 · Sophia (Cristo Cósmico)]** «Mas o psiquismo desse eu vai crescendo e vai lendo e vai percebendo, no caso de Jesus, as escrituras judaicas, que todos os profetas diziam que ia ter o Messias, e a cada vez que o coitado do menino Jesus lia isso, uma voz na sua consciência dizia, é você, é você, fala lá. Os anjos de Sophia, os anjos de Javé no universo vizinho, tudo isso em cima de uma criança, para fazer com que o eu emergente do avatar fosse edificado com base nos protocolos específicos que, no caso de Jesus, a consciência mãe Sophia retirou de si mesmo, manipulou os termos das ordens que Sophia recebeu de Viz de Brahma e inoculou em Maria.» (U1094 · chars 197068–197687) — Candidata de cotejo; evidência `STT26-13-RC-009-001`, grafia encontrada `Sophia`; decisão por lote `STT26-13: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+
+## Ampliação — STT26-SOCIEDADE_CONTEMPORANEA (Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados))
+
+- **[STT26-19 · Sophia (Cristo Cósmico)]** «Essa pandemia no planeta poderia ser um desmembramento de Javé disseminando vírus para que ele seja preparado para encarnar? E se isso for possível, o espírito que animará Javé poderia ser de Sophia Jesus?» (U1193 · chars 177719–177924) — Candidata de cotejo; evidência `STT26-19-RC-009-001`, grafia encontrada `Sophia`; decisão por lote `STT26-19: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
+| STT26-SOCIEDADE_CONTEMPORANEA | Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados) (palestra) | transcrição automatizada; citação |
+| STT26-MITOLOGIAS_REINTEGRACAO | Eixo STT26 — Mitologias, tradições e eixo de reintegração (derivados normalizados) (palestra) | transcrição automatizada; citação |
+| STT26-EXPERIENCIA_ESPIRITUAL_ETICA | Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados) (palestra) | transcrição automatizada; citação |
+| STT26-EXTRATERRESTRES_TECNOLOGIA | Eixo STT26 — Extraterrestres, tecnologia e cosmos (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | P2020-04-04 | Javé, Sophia e Jesus: a Trindade Jamais Percebida (palestra Q&A) (palestra) | — | transcrição; citação |
 | P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |
 

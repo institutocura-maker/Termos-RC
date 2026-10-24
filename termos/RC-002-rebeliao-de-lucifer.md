@@ -5,10 +5,10 @@ nome = "Rebelião de Lúcifer"
 categoria = "Eventos & Eras"
 subcategoria = "7.1 Guerras / Rebeliões / Conflitos"
 status = "verificado"
-fontes = ["B031", "B003", "B026", "B057", "B058", "B017", "P2024-03-03", "P2024-04-13", "P2023-04-01", "P2020-09-19", "P2021-07-24", "P2023-04-01b", "P2024-11-03", "P2025-02-22", "P2020-04-25", "P2022-03-26", "P2023-12-03", "P2022-05-07", "P2023-08-27", "P2023-02-11", "P2021-02-28"]
+fontes = ["B031", "B003", "B026", "B057", "B058", "B017", "P2024-03-03", "P2024-04-13", "P2023-04-01", "P2020-09-19", "P2021-07-24", "P2023-04-01b", "P2024-11-03", "P2025-02-22", "P2020-04-25", "P2022-03-26", "P2023-12-03", "P2022-05-07", "P2023-08-27", "P2023-02-11", "P2021-02-28", "STT26-EXTRATERRESTRES_TECNOLOGIA", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA", "STT26-MITOLOGIAS_REINTEGRACAO", "STT26-SOCIEDADE_CONTEMPORANEA", "OIDR26-01"]
 via = "P6-evidência"
 confianca_fonte = "alta"
-atualizado = "2026-08-29"
+atualizado = "2026-10-23"
 +++
 # Rebelião de Lúcifer — RC-002
 
@@ -54,9 +54,37 @@ Período de inquietações de **Yel Luzbel (Lúcifer)** iniciado há **742 mil a
 ## Seres Associados
 Yel Luzbel (RC-078); Len Mion (RC-074); Família Yel (RC-136); Família Val (RC-109); Sophia (RC-009, impôs o isolamento).
 
+## Ampliação — STT26-EXTRATERRESTRES_TECNOLOGIA (Eixo STT26 — Extraterrestres, tecnologia e cosmos (derivados normalizados))
+
+- **[STT26-07 · Rebelião de Lúcifer]** «No livro Terra Atlantis, que é o que você se referiu, esses seres biodemo que estavam na Terra, a família Vol, a família El, no tempo da rebelião de Lúcifer, não sabiam de nada disso, mas sabiam que eles tinham chegado aqui na Terra em naves.» (U0170 · chars 21832–22074) — Pérola homologada pelo Curador em 22/10/2026; corte literal conferido pelo Motor antes do pouso na Base.
+
+## Ampliação — STT26-EXPERIENCIA_ESPIRITUAL_ETICA (Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados))
+
+- **[STT26-09 · Rebelião de Lúcifer]** «O problema é que nós não temos noção disso Mas os espíritos não só foram criados simples e ignorantes, como afirma a doutrina espírita Para evoluir de acordo com a natureza dos mundos a histórias anteriores a isso isso foi dito no século XIX através da revelação espiritual porque era o conceito plausível de ser entendido na época mas existem histórias antigas muito antigas que ainda estão em curso e a rebelião de Lúcifer é só uma das últimas desse contexto e muitas famílias se viram desagregadas por conta da questão da rebelião, e muitos dos seus membros estão aqui na Terra, enquanto outros de uma mesma família estão lá fora.» (U3533 · chars 524400–525033) — Candidata de cotejo; evidência `STT26-09-RC-002-001`, grafia encontrada `rebelião de Lúcifer`; decisão por lote `STT26-09: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+## Ampliação — STT26-MITOLOGIAS_REINTEGRACAO (Eixo STT26 — Mitologias, tradições e eixo de reintegração (derivados normalizados))
+
+- **[STT26-13 · Rebelião de Lúcifer]** «Eles falam de uma história que aconteceu além das fronteiras terrestres, ou seja, no ambiente extraterrestre, quando então o chamado Cristo cósmico foi obrigado a tomar umas atitudes devido a algo que hoje na tradição esotérica da Terra se chama rebelião de Lúcifer e ou entendida como sendo a queda dos anjos, a doutrina dos anjos caídos que Kardec também aborda no capítulo 11 do livro A Gênese Nesse livro, A Caminho da Luz, Emmanuel e Chico mostram que muito tempo antes de existir ser humano na Terra Esse Cristo cósmico, em medo que parte das suas ovelhas estavam se desgarrando Devido a uma doença que adquiriram e sendo levadas para a Terra Ele prometeu que pessoalmente acompanharia o desenvolvimento dessas ovelhas desgarradas E que para tanto ele estava formulando um programa de revelações sucessivas para essas ovelhas, de acordo com a possibilidade de evolução que essas ovelhas fossem promovendo a si mesmas, ele então, ou seja, o Cristo Cósmico, faria ou daria curso a esse programa de revelações sucessivas.» (U0172 · chars 40149–41174) — Candidata de cotejo; evidência `STT26-13-RC-002-001`, grafia encontrada `rebelião de Lúcifer`; decisão por lote `STT26-13: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+
+## Ampliação — STT26-SOCIEDADE_CONTEMPORANEA (Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados))
+
+- **[STT26-22 · Rebelião de Lúcifer]** «E hoje vamos tentar responder a pergunta do Armando Paulilho Jr. E essa pergunta ele fez após assistir a palestra ao Wyrd Quantica, o Processador Vol e a Rebelião de Lúcifer.» (U8482 · chars 1380412–1380587) — Candidata de cotejo; evidência `STT26-22-RC-002-001`, grafia encontrada `Rebelião de Lúcifer`; decisão por lote `STT26-22: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+
+## Ampliação — OIDR26-01 (Onda incremental dry-run — Anunnaki, genética e humanidade (derivados normalizados))
+
+- **[P1 · Rebelião de Lúcifer]** «E com os Anunnakis não foi diferente. A rebelião de Lúcifer é totalmente biodêmica, mas os desdobramentos dela terminaram envolvendo figuras não biodêmicas, figuras que têm sexualidade, como é o caso dos Anunnakis, figuras de toda uma história meio complexa.» (U0461) — candidata de cotejo ampliado; evidência `OIDR26-01-RC-002-001`, grafia literal `rebelião de Lúcifer`, sem homologação de pérola.
+
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| OIDR26-01 | Onda incremental dry-run — Anunnaki, genética e humanidade (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
+| STT26-SOCIEDADE_CONTEMPORANEA | Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
+| STT26-MITOLOGIAS_REINTEGRACAO | Eixo STT26 — Mitologias, tradições e eixo de reintegração (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
+| STT26-EXPERIENCIA_ESPIRITUAL_ETICA | Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
+| STT26-EXTRATERRESTRES_TECNOLOGIA | Eixo STT26 — Extraterrestres, tecnologia e cosmos (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
 | P2021-02-28 | Tragédia Anunciada - As Fórmulas Mentais do Poder Demo (palestra) | — | transcrição automatizada; citação |
 | P2023-02-11 | Agente Humano Jesus e os Arcontes (palestra) | — | transcrição automatizada; citação |
 | P2023-08-27 | Len Mion e os Senhores da Terra Alexandre Magno e Qin Shi Huang Di (palestra) | — | transcrição automatizada; citação |
@@ -211,4 +239,3 @@ Yel Luzbel (RC-078); Len Mion (RC-074); Família Yel (RC-136); Família Val (RC-
 
 ## Observações
 A cronologia (742 mil / 687 mil / 619 mil anos) vem do glossário de B031 e **precisa ser confirmada** na Cronologia Aproximada do próprio livro e nas obras primárias de Ellam. Verificar também o papel de Jesus na narrativa.
-

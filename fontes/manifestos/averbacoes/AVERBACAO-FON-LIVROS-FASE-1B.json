@@ -1,0 +1,25 @@
+{
+  "formato": "averbacao-manifesto-fontes/v1",
+  "data": "2026-10-23",
+  "colecao": "FON-LIVROS",
+  "manifesto_base": "fontes/manifestos/MANIFESTO-FONTES-FASE-0.json",
+  "natureza": "delta documental controlado posterior à Fase 0; não altera o manifesto-base nem autoriza migração física",
+  "origem": {
+    "commit": "0e56c1b",
+    "descricao": "O piloto FON-EXTERNAS atualizou em livros/README.md a rota documental de materiais de terceiros para ../fontes/externas/."
+  },
+  "alteracoes": [
+    {
+      "caminho_relativo": "README.md",
+      "fase_0": {
+        "bytes": 16950,
+        "sha256": "8ebd7c2fc15d74c800b8ec4e74fdff711eb7e196914fb4c7f9433f925d559972"
+      },
+      "pre_migracao": {
+        "bytes": 16950,
+        "sha256": "6bda4559fc37ec1949b4906a2622ce799cb047e76250ae29ee53a85b7d8eb50b"
+      }
+    }
+  ],
+  "sha256_colecao_pre_migracao": "06098a1590654708a6e0145502cf0147066e2048b16ed8b8a0dcd15d612c66d5"
+}

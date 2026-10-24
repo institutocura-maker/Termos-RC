@@ -1,0 +1,304 @@
+{
+  "meta": {
+    "artefato": "Template de despacho curatorial — triagem STT em lote",
+    "lote_id": "STT26-01",
+    "gerado_em": "2026-10-20",
+    "estado": "PENDENTE-CURADOR",
+    "fonte_operacional": "somente derivados normalizados; o STT bruto não foi aberto",
+    "efeito_atual": "nenhum: não cria ciclo nem altera a Base",
+    "instrucoes": [
+      "Decidir o conjunto do lote, não vídeo a vídeo.",
+      "Sinal literal não prova conceito, interpretação nem citação apta.",
+      "AUTORIZAR-COTEJO é apenas permissão para aprofundar a evidência no derivado.",
+      "ABRIR-CICLO exige despacho posterior com âncoras e fonte derivada explícitas; não é efeito deste template."
+    ],
+    "opcoes_por_candidato": [
+      "MANTER-EM-TRIAGEM",
+      "DESCARTAR-DO-LOTE",
+      "AUTORIZAR-COTEJO-AMPLIADO",
+      "RESERVAR-PARA-FUTURO-CICLO"
+    ]
+  },
+  "candidatos": [
+    {
+      "codigo": "RC-086",
+      "nome": "Pandora",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-01-RC-086-001",
+        "STT26-01-RC-086-005",
+        "STT26-01-RC-086-008"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-072",
+      "nome": "Jesus",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-01-RC-072-001",
+        "STT26-01-RC-072-008",
+        "STT26-01-RC-072-021"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-036",
+      "nome": "Biodemos",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-01-RC-036-001",
+        "STT26-01-RC-036-019"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-037",
+      "nome": "Brahma (Brajna)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-01-RC-037-001",
+        "STT26-01-RC-037-014",
+        "STT26-01-RC-037-018"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-094",
+      "nome": "Revelação Cósmica (conceito)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-01-RC-094-001",
+        "STT26-01-RC-094-005",
+        "STT26-01-RC-094-007"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-102",
+      "nome": "Shiva (Savna)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-01-RC-102-001",
+        "STT26-01-RC-102-011",
+        "STT26-01-RC-102-012"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-239",
+      "nome": "Hitler (figura histórica no RC)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-01-RC-239-001"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-009",
+      "nome": "Sophia (Cristo Cósmico)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-01-RC-009-001"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-089",
+      "nome": "Processador Val",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-01-RC-089-001"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-306",
+      "nome": "Apolo",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-01-RC-306-001",
+        "STT26-01-RC-306-003",
+        "STT26-01-RC-306-004"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-489",
+      "nome": "Enoque (sétimo patriarca; levado por Javé)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-01-RC-489-001",
+        "STT26-01-RC-489-002"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-841",
+      "nome": "Cronos (titã)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-01-RC-841-001",
+        "STT26-01-RC-841-004"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-414",
+      "nome": "Krishna (avatar de Vishnu/Shiva)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-01-RC-414-001"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-002",
+      "nome": "Rebelião de Lúcifer",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-01-RC-002-001",
+        "STT26-01-RC-002-006"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-593",
+      "nome": "Mahabharata",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-01-RC-593-001"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-059",
+      "nome": "Espiritualidade Superior",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-01-RC-059-001",
+        "STT26-01-RC-059-004"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-078",
+      "nome": "Lúcifer (Yel Luzbel)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-01-RC-078-001"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-301",
+      "nome": "Prometeu (titã)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-01-RC-301-001",
+        "STT26-01-RC-301-003",
+        "STT26-01-RC-301-004"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-034",
+      "nome": "Big Bang",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-01-RC-034-001"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-051",
+      "nome": "Despina",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-01-RC-051-001",
+        "STT26-01-RC-051-004"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-193",
+      "nome": "Rebanho humano",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-01-RC-193-001",
+        "STT26-01-RC-193-003",
+        "STT26-01-RC-193-004"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-487",
+      "nome": "Enlil (deus sumério, par de Enki)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-01-RC-487-001"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-024",
+      "nome": "Anunnaki",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-01-RC-024-001"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-065",
+      "nome": "Frota Norte",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-01-RC-065-001",
+        "STT26-01-RC-065-003"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-302",
+      "nome": "Epimeteu (titã)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-01-RC-302-001",
+        "STT26-01-RC-302-002"
+      ],
+      "observacao": ""
+    }
+  ],
+  "despacho_de_lote": {
+    "resultado": "PENDENTE",
+    "candidatos_para_cotejo_ampliado": [],
+    "autorizacao_para_abrir_ciclo": false,
+    "observacao": ""
+  }
+}

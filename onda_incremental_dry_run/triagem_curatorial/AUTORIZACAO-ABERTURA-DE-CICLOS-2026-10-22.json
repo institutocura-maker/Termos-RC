@@ -1,0 +1,65 @@
+{
+  "artefato": "Autorização explícita de abertura de ciclos — onda_incremental_dry_run",
+  "base_no_inicio": {
+    "arquivos_ficha": 826,
+    "ficha_true": 826,
+    "relacoes": 1887,
+    "sha256_dados_termos": "07f850448b3726a6f05e87649db1d6129ac0225483a5074238b765df3bf1cb3b",
+    "termos": 946
+  },
+  "baseline_commit": "e97b7a2",
+  "ciclos_autorizados": [
+    {
+      "candidatos": 25,
+      "eixo": "ANUNNAKI_GENETICA",
+      "ingressos": [
+        "P1"
+      ],
+      "sigla": "OIDR26-01"
+    },
+    {
+      "candidatos": 25,
+      "eixo": "MITOLOGIAS_REINTEGRACAO",
+      "ingressos": [
+        "P2"
+      ],
+      "sigla": "OIDR26-02"
+    },
+    {
+      "candidatos": 25,
+      "eixo": "COSMOGONIA_HISTORIA_COSMICA",
+      "ingressos": [
+        "P3"
+      ],
+      "sigla": "OIDR26-03"
+    },
+    {
+      "candidatos": 25,
+      "eixo": "EXPERIENCIA_ESPIRITUAL_ETICA",
+      "ingressos": [
+        "P4",
+        "P5",
+        "P6"
+      ],
+      "sigla": "OIDR26-04"
+    }
+  ],
+  "data": "2026-10-22",
+  "despacho_anterior": {
+    "caminho": "onda_incremental_dry_run/triagem_curatorial/CONSOLIDADO-DESPACHO-CURATORIAL.json",
+    "cotejo_ampliado_validado": 100,
+    "descartes": 0,
+    "sha256": "f8a300189130a9c873d8b1f5029631e48792e7d4facd261f991662ce8628a9f7"
+  },
+  "escopo": {
+    "abertura_de_ciclo": true,
+    "aprovacao_de_perolas": false,
+    "cotejo_ampliado": true,
+    "execucao_de_tudo": false,
+    "materializacao": false
+  },
+  "executor": "ferramentas/abrir_ciclos_onda_incremental_dry_run.py",
+  "fontes_brutas_abertas": 0,
+  "fundamento": "Autorização expressa do Curador para abrir OIDR26-01, OIDR26-02, OIDR26-03 e OIDR26-04 no Motor.",
+  "mutacoes_na_abertura": 0
+}

@@ -1,0 +1,292 @@
+{
+  "meta": {
+    "artefato": "Template de despacho curatorial — triagem STT em lote",
+    "lote_id": "STT26-20",
+    "gerado_em": "2026-10-20",
+    "estado": "PENDENTE-CURADOR",
+    "fonte_operacional": "somente derivados normalizados; o STT bruto não foi aberto",
+    "efeito_atual": "nenhum: não cria ciclo nem altera a Base",
+    "instrucoes": [
+      "Decidir o conjunto do lote, não vídeo a vídeo.",
+      "Sinal literal não prova conceito, interpretação nem citação apta.",
+      "AUTORIZAR-COTEJO é apenas permissão para aprofundar a evidência no derivado.",
+      "ABRIR-CICLO exige despacho posterior com âncoras e fonte derivada explícitas; não é efeito deste template."
+    ],
+    "opcoes_por_candidato": [
+      "MANTER-EM-TRIAGEM",
+      "DESCARTAR-DO-LOTE",
+      "AUTORIZAR-COTEJO-AMPLIADO",
+      "RESERVAR-PARA-FUTURO-CICLO"
+    ]
+  },
+  "candidatos": [
+    {
+      "codigo": "RC-072",
+      "nome": "Jesus",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-20-RC-072-001",
+        "STT26-20-RC-072-029",
+        "STT26-20-RC-072-034"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-094",
+      "nome": "Revelação Cósmica (conceito)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-20-RC-094-001",
+        "STT26-20-RC-094-009",
+        "STT26-20-RC-094-011"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-162",
+      "nome": "Elétrons (agente básico da vida universal)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-20-RC-162-001",
+        "STT26-20-RC-162-009"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-166",
+      "nome": "Mentalma",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-20-RC-166-001",
+        "STT26-20-RC-166-010"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-193",
+      "nome": "Rebanho humano",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-20-RC-193-001",
+        "STT26-20-RC-193-007"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-028",
+      "nome": "Atlan",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-20-RC-028-001",
+        "STT26-20-RC-028-005",
+        "STT26-20-RC-028-007"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-874",
+      "nome": "Transumanismo (o ponto de reencontro: IA humanizada e o novo batimento)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-20-RC-874-001",
+        "STT26-20-RC-874-003"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-086",
+      "nome": "Pandora",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-20-RC-086-001",
+        "STT26-20-RC-086-002"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-301",
+      "nome": "Prometeu (titã)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-20-RC-301-001"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-306",
+      "nome": "Apolo",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-20-RC-306-001"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-869",
+      "nome": "Mentalidade Comum (o contágio do rebanho)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-20-RC-869-001"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-226",
+      "nome": "Cidadão Cósmico",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-20-RC-226-001"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-239",
+      "nome": "Hitler (figura histórica no RC)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-20-RC-239-001"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-254",
+      "nome": "Dominação (premissa dos Três Primeiros Logos)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-20-RC-254-001"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-385",
+      "nome": "Egrégora (circuito dos elétrons rebeldes)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-20-RC-385-001"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-841",
+      "nome": "Cronos (titã)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-20-RC-841-001"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-938",
+      "nome": "Livre-arbítrio",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-20-RC-938-001"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-945",
+      "nome": "Pedro (apóstolo)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-20-RC-945-001",
+        "STT26-20-RC-945-002"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-024",
+      "nome": "Anunnaki",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-20-RC-024-001"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-036",
+      "nome": "Biodemos",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-20-RC-036-001"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-039",
+      "nome": "Capela (Sistema)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-20-RC-039-001"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-056",
+      "nome": "Especiação",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-20-RC-056-001"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-059",
+      "nome": "Espiritualidade Superior",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-20-RC-059-001"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-061",
+      "nome": "Espiritualidade Laboratorial",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-20-RC-061-001"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-085",
+      "nome": "Orbum",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-20-RC-085-001"
+      ],
+      "observacao": ""
+    }
+  ],
+  "despacho_de_lote": {
+    "resultado": "PENDENTE",
+    "candidatos_para_cotejo_ampliado": [],
+    "autorizacao_para_abrir_ciclo": false,
+    "observacao": ""
+  }
+}

@@ -1,0 +1,502 @@
+[
+  {
+    "codigo": "RC-072",
+    "nome": "Jesus",
+    "categoria": "Seres & Entidades",
+    "subcategoria": "1.6 Figuras humanas (históricas/míticas)",
+    "sinais_exatos": 101,
+    "fontes_com_sinal": 1,
+    "evidencias_representativas": [
+      {
+        "evidencia_id": "OIDR26-02-RC-072-001",
+        "ingresso_id": "P2",
+        "unidade": "U00085",
+        "linha": 85,
+        "grafia_encontrada": "Jesus",
+        "excerto": "…am para cá porque estes podiam se deslocar para cá Este é o primeiro quadro que a gente tem que compreender Para em seguida podermos falar de Cristo, Jesus, Saibaba E outros desdobramentos de Deus Por quê?"
+      }
+    ],
+    "estado": "PENDENTE-DE-DECISAO-CURATORIAL",
+    "limite": "Sinal automático literal; não autoriza pérola, ficha, relação, ciclo ou alteração da Base."
+  },
+  {
+    "codigo": "RC-037",
+    "nome": "Brahma (Brajna)",
+    "categoria": "Seres & Entidades",
+    "subcategoria": "1.1 Divindades / Criadores",
+    "sinais_exatos": 67,
+    "fontes_com_sinal": 1,
+    "evidencias_representativas": [
+      {
+        "evidencia_id": "OIDR26-02-RC-037-001",
+        "ingresso_id": "P2",
+        "unidade": "U00081",
+        "linha": 81,
+        "grafia_encontrada": "Brahma",
+        "excerto": "…he? Porque a primeira geração, Khaos, Tarta, Eros, blá, blá, blá, na mitologia grega, vamos chamar agora, usando os termos da mitologia ariana hindu, Brahma, Vishnu, Shiva, esses seres jamais saíram desse universo divino."
+      }
+    ],
+    "estado": "PENDENTE-DE-DECISAO-CURATORIAL",
+    "limite": "Sinal automático literal; não autoriza pérola, ficha, relação, ciclo ou alteração da Base."
+  },
+  {
+    "codigo": "RC-102",
+    "nome": "Shiva (Savna)",
+    "categoria": "Seres & Entidades",
+    "subcategoria": "1.1 Divindades / Criadores",
+    "sinais_exatos": 54,
+    "fontes_com_sinal": 1,
+    "evidencias_representativas": [
+      {
+        "evidencia_id": "OIDR26-02-RC-102-001",
+        "ingresso_id": "P2",
+        "unidade": "U00081",
+        "linha": 81,
+        "grafia_encontrada": "Shiva",
+        "excerto": "…meira geração, Khaos, Tarta, Eros, blá, blá, blá, na mitologia grega, vamos chamar agora, usando os termos da mitologia ariana hindu, Brahma, Vishnu, Shiva, esses seres jamais saíram desse universo divino."
+      }
+    ],
+    "estado": "PENDENTE-DE-DECISAO-CURATORIAL",
+    "limite": "Sinal automático literal; não autoriza pérola, ficha, relação, ciclo ou alteração da Base."
+  },
+  {
+    "codigo": "RC-414",
+    "nome": "Krishna (avatar de Vishnu/Shiva)",
+    "categoria": "Seres & Entidades",
+    "subcategoria": "1.3 Extraterrestres / Raças cósmicas",
+    "sinais_exatos": 52,
+    "fontes_com_sinal": 1,
+    "evidencias_representativas": [
+      {
+        "evidencia_id": "OIDR26-02-RC-414-001",
+        "ingresso_id": "P2",
+        "unidade": "U00105",
+        "linha": 105,
+        "grafia_encontrada": "Krishna",
+        "excerto": "…ria ir para a guerra matar os mestres que o haviam ensinado a lutar e que agora estavam com os turus, os caudatas, e Arjuna era frigo dos pândalas. E Krishna disse, olha, todos esses conceitos e emoções que você tem, que estão inibindo a sua vontade de ir para a guerra são inferiores à obrigação que você tem."
+      }
+    ],
+    "estado": "PENDENTE-DE-DECISAO-CURATORIAL",
+    "limite": "Sinal automático literal; não autoriza pérola, ficha, relação, ciclo ou alteração da Base."
+  },
+  {
+    "codigo": "RC-135",
+    "nome": "Vishnu (Mavatna)",
+    "categoria": "Seres & Entidades",
+    "subcategoria": "1.1 Divindades / Criadores",
+    "sinais_exatos": 34,
+    "fontes_com_sinal": 1,
+    "evidencias_representativas": [
+      {
+        "evidencia_id": "OIDR26-02-RC-135-001",
+        "ingresso_id": "P2",
+        "unidade": "U00081",
+        "linha": 81,
+        "grafia_encontrada": "Vishnu",
+        "excerto": "…ue a primeira geração, Khaos, Tarta, Eros, blá, blá, blá, na mitologia grega, vamos chamar agora, usando os termos da mitologia ariana hindu, Brahma, Vishnu, Shiva, esses seres jamais saíram desse universo divino."
+      }
+    ],
+    "estado": "PENDENTE-DE-DECISAO-CURATORIAL",
+    "limite": "Sinal automático literal; não autoriza pérola, ficha, relação, ciclo ou alteração da Base."
+  },
+  {
+    "codigo": "RC-104",
+    "nome": "Trimurti",
+    "categoria": "Genealogias & Linhagens",
+    "subcategoria": "6.1 Famílias divinas / Celestiais",
+    "sinais_exatos": 8,
+    "fontes_com_sinal": 1,
+    "evidencias_representativas": [
+      {
+        "evidencia_id": "OIDR26-02-RC-104-001",
+        "ingresso_id": "P2",
+        "unidade": "U00367",
+        "linha": 367,
+        "grafia_encontrada": "Trimurti",
+        "excerto": "A Trimurti que havia criado Sofia como sendo representante da Trimurti e herdeiro das épocas porque era o único ser condenado à Trimurti título de preposto nesse universo biológico."
+      }
+    ],
+    "estado": "PENDENTE-DE-DECISAO-CURATORIAL",
+    "limite": "Sinal automático literal; não autoriza pérola, ficha, relação, ciclo ou alteração da Base."
+  },
+  {
+    "codigo": "RC-942",
+    "nome": "Messias",
+    "categoria": "Termos Específicos",
+    "subcategoria": "8.4 Grego / Latim",
+    "sinais_exatos": 7,
+    "fontes_com_sinal": 1,
+    "evidencias_representativas": [
+      {
+        "evidencia_id": "OIDR26-02-RC-942-001",
+        "ingresso_id": "P2",
+        "unidade": "U00137",
+        "linha": 137,
+        "grafia_encontrada": "Messias",
+        "excerto": "…oi para o espaço, aí Virgium disse, ei, já que através de Enoch, O filho dele, Matusalém Você anunciou ao mundo A sua agenda Dizendo que vai mandar O Messias seu No segmento Populacional descendente De Enoque Que passou a ser Matusalém, Lameque, Noé Shema, Fatsad Salé, blá blá blá Abraão, Isaac, Jacó Maria, Jesus Ou seja, Jesus nasceu nesse desdobramento Aí viram disse, já que o problema com o Enoque você não vai…"
+      }
+    ],
+    "estado": "PENDENTE-DE-DECISAO-CURATORIAL",
+    "limite": "Sinal automático literal; não autoriza pérola, ficha, relação, ciclo ou alteração da Base."
+  },
+  {
+    "codigo": "RC-094",
+    "nome": "Revelação Cósmica (conceito)",
+    "categoria": "Conceitos Cosmológicos",
+    "subcategoria": "2.1 Cosmogonia / Criação",
+    "sinais_exatos": 6,
+    "fontes_com_sinal": 1,
+    "evidencias_representativas": [
+      {
+        "evidencia_id": "OIDR26-02-RC-094-001",
+        "ingresso_id": "P2",
+        "unidade": "U00705",
+        "linha": 705,
+        "grafia_encontrada": "revelação cósmica",
+        "excerto": "Problema 8. Saibaba no seu estado atual alinha-se discreta e estratégica aos postulados da revelação cósmica como maneira de encerrar a linhagem de Cristo de maneira pacífica via prima sai, que é o próximo avançado de Cristo, ofertando a sua concordância relativa ao inevitável cumprimento da função de Sofia, assessorada pelo quarto logo, que são as figuras que estão…"
+      }
+    ],
+    "estado": "PENDENTE-DE-DECISAO-CURATORIAL",
+    "limite": "Sinal automático literal; não autoriza pérola, ficha, relação, ciclo ou alteração da Base."
+  },
+  {
+    "codigo": "RC-225",
+    "nome": "Gestão Cósmica",
+    "categoria": "Conceitos Cosmológicos",
+    "subcategoria": "2.2 Leis e princípios cósmicos",
+    "sinais_exatos": 5,
+    "fontes_com_sinal": 1,
+    "evidencias_representativas": [
+      {
+        "evidencia_id": "OIDR26-02-RC-225-001",
+        "ingresso_id": "P2",
+        "unidade": "U00355",
+        "linha": 355,
+        "grafia_encontrada": "gestão cósmica",
+        "excerto": "Cristo começou a emparelhar a gestão cósmica com a presença de seus avatares. Os bolsonaristas acusavam Lula de ter emparelhado o governo com um monte de malucos de esquerda, de índios, da Bolívia, da Colômbia, da Lula. Os lulistas acusam os bolsonaristas de ter emparelhado o governo com o militar, com…"
+      }
+    ],
+    "estado": "PENDENTE-DE-DECISAO-CURATORIAL",
+    "limite": "Sinal automático literal; não autoriza pérola, ficha, relação, ciclo ou alteração da Base."
+  },
+  {
+    "codigo": "RC-593",
+    "nome": "Mahabharata",
+    "categoria": "Tecnologias & Artefatos",
+    "subcategoria": "5.4 Escrituras / Objetos documentais",
+    "sinais_exatos": 4,
+    "fontes_com_sinal": 1,
+    "evidencias_representativas": [
+      {
+        "evidencia_id": "OIDR26-02-RC-593-001",
+        "ingresso_id": "P2",
+        "unidade": "U00105",
+        "linha": 105,
+        "grafia_encontrada": "Mahabharata",
+        "excerto": "E é isso que no Bhagavad Gita, um dos capítulos do Mahabharata, o Senhor Cristo explica a Arjuna o conceito de Dharma, porque Arjuna não queria ir para a guerra contra os seus primos, porque antes do Dharma surgir, existia um outro conceito, que a gente vai falar sobre isso, mas quando eu for aprofundar. E Arjuna não que…"
+      }
+    ],
+    "estado": "PENDENTE-DE-DECISAO-CURATORIAL",
+    "limite": "Sinal automático literal; não autoriza pérola, ficha, relação, ciclo ou alteração da Base."
+  },
+  {
+    "codigo": "RC-669",
+    "nome": "Pashupati (avatar de Shiva)",
+    "categoria": "Seres & Entidades",
+    "subcategoria": "1.3 Extraterrestres / Raças cósmicas",
+    "sinais_exatos": 4,
+    "fontes_com_sinal": 1,
+    "evidencias_representativas": [
+      {
+        "evidencia_id": "OIDR26-02-RC-669-001",
+        "ingresso_id": "P2",
+        "unidade": "U00189",
+        "linha": 189,
+        "grafia_encontrada": "Pashupati",
+        "excerto": "Então, o senhor Shiva criou um senhor chamado Pashupati. E Pashupati gerou todos os animais que a gente conhece nesse universo vizinho, que depois..."
+      }
+    ],
+    "estado": "PENDENTE-DE-DECISAO-CURATORIAL",
+    "limite": "Sinal automático literal; não autoriza pérola, ficha, relação, ciclo ou alteração da Base."
+  },
+  {
+    "codigo": "RC-841",
+    "nome": "Cronos (titã)",
+    "categoria": "Seres & Entidades",
+    "subcategoria": "1.5 Decaídos / Exilados / Demônios",
+    "sinais_exatos": 4,
+    "fontes_com_sinal": 1,
+    "evidencias_representativas": [
+      {
+        "evidencia_id": "OIDR26-02-RC-841-001",
+        "ingresso_id": "P2",
+        "unidade": "U00069",
+        "linha": 69,
+        "grafia_encontrada": "cronos",
+        "excerto": "…é a primeira geração. Depois, a mitologia grega, que surge uma geração de Uranus, muito grande. Depois, a mitologia grega diz que surge a geração de cronos, os titãs."
+      }
+    ],
+    "estado": "PENDENTE-DE-DECISAO-CURATORIAL",
+    "limite": "Sinal automático literal; não autoriza pérola, ficha, relação, ciclo ou alteração da Base."
+  },
+  {
+    "codigo": "RC-254",
+    "nome": "Dominação (premissa dos Três Primeiros Logos)",
+    "categoria": "Conceitos Cosmológicos",
+    "subcategoria": "2.6 Ética / Carma / Compromissos",
+    "sinais_exatos": 3,
+    "fontes_com_sinal": 1,
+    "evidencias_representativas": [
+      {
+        "evidencia_id": "OIDR26-02-RC-254-001",
+        "ingresso_id": "P2",
+        "unidade": "U00121",
+        "linha": 121,
+        "grafia_encontrada": "dominação",
+        "excerto": "Há 23 mil anos que isso acontece. Nesse tempo, Shiva resolve fincar a sua trincheira para a dominação da Terra e de certas áreas da Terra e dos seres híbridos que então existiam e dos humanos que eram tratados como animais de estimação desses seres híbridos, os humanos menos espertos, e outros humanos já mais espertos que nessa época existiam, Shiva escolheu…"
+      }
+    ],
+    "estado": "PENDENTE-DE-DECISAO-CURATORIAL",
+    "limite": "Sinal automático literal; não autoriza pérola, ficha, relação, ciclo ou alteração da Base."
+  },
+  {
+    "codigo": "RC-301",
+    "nome": "Prometeu (titã)",
+    "categoria": "Seres & Entidades",
+    "subcategoria": "1.5 Decaídos / Exilados / Demônios",
+    "sinais_exatos": 3,
+    "fontes_com_sinal": 1,
+    "evidencias_representativas": [
+      {
+        "evidencia_id": "OIDR26-02-RC-301-001",
+        "ingresso_id": "P2",
+        "unidade": "U00199",
+        "linha": 199,
+        "grafia_encontrada": "prometeu",
+        "excerto": "Nem Brahma, nem Vishnu, nem Shiva nunca gostaram disso. Mas Cristo se estabeleceu como o Senhor Supremo e Ele cumpre exatamente tudo o que Ele prometeu."
+      }
+    ],
+    "estado": "PENDENTE-DE-DECISAO-CURATORIAL",
+    "limite": "Sinal automático literal; não autoriza pérola, ficha, relação, ciclo ou alteração da Base."
+  },
+  {
+    "codigo": "RC-489",
+    "nome": "Enoque (sétimo patriarca; levado por Javé)",
+    "categoria": "Seres & Entidades",
+    "subcategoria": "1.6 Figuras humanas (históricas/míticas)",
+    "sinais_exatos": 3,
+    "fontes_com_sinal": 1,
+    "evidencias_representativas": [
+      {
+        "evidencia_id": "OIDR26-02-RC-489-001",
+        "ingresso_id": "P2",
+        "unidade": "U00137",
+        "linha": 137,
+        "grafia_encontrada": "Enoque",
+        "excerto": "…és de Enoch, O filho dele, Matusalém Você anunciou ao mundo A sua agenda Dizendo que vai mandar O Messias seu No segmento Populacional descendente De Enoque Que passou a ser Matusalém, Lameque, Noé Shema, Fatsad Salé, blá blá blá Abraão, Isaac, Jacó Maria, Jesus Ou seja, Jesus nasceu nesse desdobramento Aí viram disse, já que o problema com o Enoque você não vai resolver, eu, Vishnu, me ofereço para produzir um a…"
+      }
+    ],
+    "estado": "PENDENTE-DE-DECISAO-CURATORIAL",
+    "limite": "Sinal automático literal; não autoriza pérola, ficha, relação, ciclo ou alteração da Base."
+  },
+  {
+    "codigo": "RC-696",
+    "nome": "Geração Regenerada de Brahma",
+    "categoria": "Genealogias & Linhagens",
+    "subcategoria": "6.1 Famílias divinas / Celestiais",
+    "sinais_exatos": 3,
+    "fontes_com_sinal": 1,
+    "evidencias_representativas": [
+      {
+        "evidencia_id": "OIDR26-02-RC-696-001",
+        "ingresso_id": "P2",
+        "unidade": "U00095",
+        "linha": 95,
+        "grafia_encontrada": "geração regenerada de Brahma",
+        "excerto": "…íacos desse universo todo, quando um ser chamado Kshivako, descendente de Daksha, descendente de Kasyapa, descendente de Marit, um dos seis rishis da geração regenerada de Brahma, esse ser criou o conceito de Dharma, significando como sendo de honra. Mas vocês querem saber o tipo de honra que eles falavam nessa época? É porque desde que os primordiais Mergulharam nessa criação Para ajudar o criador caído Que a incrível fórmula mental…"
+      }
+    ],
+    "estado": "PENDENTE-DE-DECISAO-CURATORIAL",
+    "limite": "Sinal automático literal; não autoriza pérola, ficha, relação, ciclo ou alteração da Base."
+  },
+  {
+    "codigo": "RC-749",
+    "nome": "Vício Devocional",
+    "categoria": "Conceitos Cosmológicos",
+    "subcategoria": "2.6 Ética / Carma / Compromissos",
+    "sinais_exatos": 3,
+    "fontes_com_sinal": 1,
+    "evidencias_representativas": [
+      {
+        "evidencia_id": "OIDR26-02-RC-749-001",
+        "ingresso_id": "P2",
+        "unidade": "U00185",
+        "linha": 185,
+        "grafia_encontrada": "vício devocional",
+        "excerto": "Cristo criou no DNA híbrido e humano o vício devocional. Cristo começou a criar uma série de procedimentos. Cristo não é do bem, tá, pessoal?"
+      }
+    ],
+    "estado": "PENDENTE-DE-DECISAO-CURATORIAL",
+    "limite": "Sinal automático literal; não autoriza pérola, ficha, relação, ciclo ou alteração da Base."
+  },
+  {
+    "codigo": "RC-061",
+    "nome": "Espiritualidade Laboratorial",
+    "categoria": "Conceitos Cosmológicos",
+    "subcategoria": "2.3 Dimensões / Planos de existência",
+    "sinais_exatos": 2,
+    "fontes_com_sinal": 1,
+    "evidencias_representativas": [
+      {
+        "evidencia_id": "OIDR26-02-RC-061-001",
+        "ingresso_id": "P2",
+        "unidade": "U00447",
+        "linha": 447,
+        "grafia_encontrada": "espiritualidade laboratorial",
+        "excerto": "…m pouquinho mais de emoção nessa história aí criaram, desde o que já estava criado lá dentro, criaram para mais ainda dentro outro colapso E surgiu a espiritualidade laboratorial."
+      }
+    ],
+    "estado": "PENDENTE-DE-DECISAO-CURATORIAL",
+    "limite": "Sinal automático literal; não autoriza pérola, ficha, relação, ciclo ou alteração da Base."
+  },
+  {
+    "codigo": "RC-106",
+    "nome": "Universo Antimaterial (Brahmaloka / Universo Paralelo)",
+    "categoria": "Conceitos Cosmológicos",
+    "subcategoria": "2.3 Dimensões / Planos de existência",
+    "sinais_exatos": 2,
+    "fontes_com_sinal": 1,
+    "evidencias_representativas": [
+      {
+        "evidencia_id": "OIDR26-02-RC-106-001",
+        "ingresso_id": "P2",
+        "unidade": "U00061",
+        "linha": 61,
+        "grafia_encontrada": "universo antimaterial",
+        "excerto": "E então essa primeira geração de seres que vivem num universo antimaterial, gênero, vizinho, paralelo a este nosso universo material."
+      }
+    ],
+    "estado": "PENDENTE-DE-DECISAO-CURATORIAL",
+    "limite": "Sinal automático literal; não autoriza pérola, ficha, relação, ciclo ou alteração da Base."
+  },
+  {
+    "codigo": "RC-162",
+    "nome": "Elétrons (agente básico da vida universal)",
+    "categoria": "Processos & Fenômenos",
+    "subcategoria": "4.4 Fenômenos físicos / energéticos",
+    "sinais_exatos": 2,
+    "fontes_com_sinal": 1,
+    "evidencias_representativas": [
+      {
+        "evidencia_id": "OIDR26-02-RC-162-001",
+        "ingresso_id": "P2",
+        "unidade": "U00467",
+        "linha": 467,
+        "grafia_encontrada": "elétrons",
+        "excerto": "…universos gêmeos que surgiram na hora da queda do Criador existe porque aqui dentro o corpo manásico dele se despedaçou e o que a gente entende como elétrons desse universo e anti-elétrons opósitos no universo vizinho correspondem exatamente ao corpo manásico desse ser despedaçado então o eu dele a sensação do eu manásico dele caiu o corpo monásico em pedaços, surgiu dois universos, foi necessário criar uma errati…"
+      }
+    ],
+    "estado": "PENDENTE-DE-DECISAO-CURATORIAL",
+    "limite": "Sinal automático literal; não autoriza pérola, ficha, relação, ciclo ou alteração da Base."
+  },
+  {
+    "codigo": "RC-239",
+    "nome": "Hitler (figura histórica no RC)",
+    "categoria": "Seres & Entidades",
+    "subcategoria": "1.6 Figuras humanas (históricas/míticas)",
+    "sinais_exatos": 2,
+    "fontes_com_sinal": 1,
+    "evidencias_representativas": [
+      {
+        "evidencia_id": "OIDR26-02-RC-239-001",
+        "ingresso_id": "P2",
+        "unidade": "U00601",
+        "linha": 601,
+        "grafia_encontrada": "Hitler",
+        "excerto": "…ê, Cristian, matou, ou seja, se trabalha. Aí Cristian não aceitava, e sempre junto do Papa, tem gente que quer ser mais católico que o Papa, junto de Hitler, tinha malucos que eram mais doidos do que Hitler junto de Bolsonaro e de Lula tem gente que é mais neolista e bolsonarista do que eles próprios sempre no meio da contagem dos cadáveres tem gente mais maluca do que aquele que no seu aquele processo e uma turm…"
+      }
+    ],
+    "estado": "PENDENTE-DE-DECISAO-CURATORIAL",
+    "limite": "Sinal automático literal; não autoriza pérola, ficha, relação, ciclo ou alteração da Base."
+  },
+  {
+    "codigo": "RC-024",
+    "nome": "Anunnaki",
+    "categoria": "Seres & Entidades",
+    "subcategoria": "1.3 Extraterrestres / Raças cósmicas",
+    "sinais_exatos": 1,
+    "fontes_com_sinal": 1,
+    "evidencias_representativas": [
+      {
+        "evidencia_id": "OIDR26-02-RC-024-001",
+        "ingresso_id": "P2",
+        "unidade": "U00091",
+        "linha": 91,
+        "grafia_encontrada": "Anunnaki",
+        "excerto": "Mas uma mulher que era, entre aspas, obrigada a ter relações com um Anunnaki, um ijiji, um ser de fora, seja lá quem fosse, Zeus, esse ser que nascia dessa relação, parte da herança genética dele era humana, a outra parte não era."
+      }
+    ],
+    "estado": "PENDENTE-DE-DECISAO-CURATORIAL",
+    "limite": "Sinal automático literal; não autoriza pérola, ficha, relação, ciclo ou alteração da Base."
+  },
+  {
+    "codigo": "RC-034",
+    "nome": "Big Bang",
+    "categoria": "Conceitos Cosmológicos",
+    "subcategoria": "2.1 Cosmogonia / Criação",
+    "sinais_exatos": 1,
+    "fontes_com_sinal": 1,
+    "evidencias_representativas": [
+      {
+        "evidencia_id": "OIDR26-02-RC-034-001",
+        "ingresso_id": "P2",
+        "unidade": "U00063",
+        "linha": 63,
+        "grafia_encontrada": "Big Bang",
+        "excerto": "Os dois surgiram na explosão do Big Bang. A própria ciência, hoje em dia, já atesta, já constata, já afirma a existência de um universo gênio, tanto paralelo onde o tempo lá foi para o outro lado."
+      }
+    ],
+    "estado": "PENDENTE-DE-DECISAO-CURATORIAL",
+    "limite": "Sinal automático literal; não autoriza pérola, ficha, relação, ciclo ou alteração da Base."
+  },
+  {
+    "codigo": "RC-059",
+    "nome": "Espiritualidade Superior",
+    "categoria": "Conceitos Cosmológicos",
+    "subcategoria": "2.3 Dimensões / Planos de existência",
+    "sinais_exatos": 1,
+    "fontes_com_sinal": 1,
+    "evidencias_representativas": [
+      {
+        "evidencia_id": "OIDR26-02-RC-059-001",
+        "ingresso_id": "P2",
+        "unidade": "U00423",
+        "linha": 423,
+        "grafia_encontrada": "espiritualidade superior",
+        "excerto": "…morar nesse paraíso se ele tiver esse ponto átimo. ou falando de forma diferente, os Espíritos disseram, antes desse universo existir, já existia uma espiritualidade superior, pré-existente, incriada."
+      }
+    ],
+    "estado": "PENDENTE-DE-DECISAO-CURATORIAL",
+    "limite": "Sinal automático literal; não autoriza pérola, ficha, relação, ciclo ou alteração da Base."
+  },
+  {
+    "codigo": "RC-073",
+    "nome": "Keshava",
+    "categoria": "Termos Específicos",
+    "subcategoria": "8.1 Sânscrito / Hinduísmo",
+    "sinais_exatos": 1,
+    "fontes_com_sinal": 1,
+    "evidencias_representativas": [
+      {
+        "evidencia_id": "OIDR26-02-RC-073-001",
+        "ingresso_id": "P2",
+        "unidade": "U00159",
+        "linha": 159,
+        "grafia_encontrada": "Keshava",
+        "excerto": "Os raksasas começaram a dominar todos os quadrantes, e isso uniu esses três seres, e eles resolveram começar a conduzir avatares do tipo Keshava."
+      }
+    ],
+    "estado": "PENDENTE-DE-DECISAO-CURATORIAL",
+    "limite": "Sinal automático literal; não autoriza pérola, ficha, relação, ciclo ou alteração da Base."
+  }
+]

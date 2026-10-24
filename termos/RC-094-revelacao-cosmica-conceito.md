@@ -5,10 +5,10 @@ nome = "Revelação Cósmica (conceito)"
 categoria = "Conceitos Cosmológicos"
 subcategoria = "2.1 Cosmogonia / Criação"
 status = "verificado"
-fontes = ["B031", "B044", "B035", "B013", "B014", "B022", "B023", "B048", "B003", "B005", "B011", "B049", "B043", "B041", "B006", "B050", "B027", "B051", "B034", "B036", "B040", "B052", "B042", "B009", "P2021-12-04", "P2025-10-25", "P2025-06-26", "P2025-02-15", "P2024-11-30", "P2024-11-09", "P2024-07-14", "P2023-12-02", "P2021-03-27", "P2023-10-14", "P2020-04-25", "P2023-12-03", "P2022-07-16", "P2021-06-26"]
+fontes = ["B031", "B044", "B035", "B013", "B014", "B022", "B023", "B048", "B003", "B005", "B011", "B049", "B043", "B041", "B006", "B050", "B027", "B051", "B034", "B036", "B040", "B052", "B042", "B009", "P2021-12-04", "P2025-10-25", "P2025-06-26", "P2025-02-15", "P2024-11-30", "P2024-11-09", "P2024-07-14", "P2023-12-02", "P2021-03-27", "P2023-10-14", "P2020-04-25", "P2023-12-03", "P2022-07-16", "P2021-06-26", "STT26-EXTRATERRESTRES_TECNOLOGIA", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA", "STT26-MITOLOGIAS_REINTEGRACAO", "STT26-SOCIEDADE_CONTEMPORANEA", "OIDR26-01", "OIDR26-02", "OIDR26-03", "OIDR26-04"]
 via = "P6-evidência"
 confianca_fonte = "alta"
-atualizado = "2026-08-29"
+atualizado = "2026-10-23"
 +++
 # Revelação Cósmica (conceito) — RC-094
 
@@ -305,3 +305,35 @@ A Revelação Cósmica é o **macroconceito** que engloba todos os demais termos
 ---
 ---
 ---
+
+## Ampliação — STT26-EXTRATERRESTRES_TECNOLOGIA (Eixo STT26 — Extraterrestres, tecnologia e cosmos (derivados normalizados))
+
+- **[STT26-07 · Revelação Cósmica (conceito)]** «E se você chegou até aqui, significa que você tem interesse profundo em aprender mais sobre a revelação cósmica e todos os painéis que fazem parte desse conhecimento.» (U0270 · chars 35377–35544) — Pérola homologada pelo Curador em 22/10/2026; corte literal conferido pelo Motor antes do pouso na Base.
+
+## Ampliação — STT26-EXPERIENCIA_ESPIRITUAL_ETICA (Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados))
+
+- **[STT26-08 · Revelação Cósmica (conceito)]** «O fato de que ninguém consegue entender direito direito, o espírito por trás da figura do ser humano Jesus. Os próprios hinduístas, os próprios estudiosos do hinduísmo também nunca conseguiram fazer nenhuma ponte razoável. A revelação cósmica, se por isso entendermos esses livros e palestras que nós estamos fazendo, é a primeira sistematização minimamente razoável que liga todas as componentes, espaças de um problema, o que deve ser essa apenas a face que vocês devem se recordar, da revelação cósmica no sentido do que ela fala a respeito do Espírito de Jesus.» (U0947 · chars 68314–68880) — Candidata de cotejo; evidência `STT26-08-RC-094-001`, grafia encontrada `revelação cósmica`; decisão por lote `STT26-08: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+## Ampliação — STT26-MITOLOGIAS_REINTEGRACAO (Eixo STT26 — Mitologias, tradições e eixo de reintegração (derivados normalizados))
+
+- **[STT26-13 · Revelação Cósmica (conceito)]** «Enoque foi só uma dessas revelações, a primeira que o mundo recebeu nessa perspectiva de análise A vinda de Jesus foi outra A volta de Jesus é outra Houve uma época em que a revelação espiritual foi ofertada ao mundo A volta de Jesus faz parte de um contexto de uma revelação cósmica Uma outra das etapas da promessa que esse Cristo cósmico fez de, sucessivamente, ir entregando às suas ovelhas terrenas aquilo que elas tivessem capacidade de perceber.» (U0174 · chars 41176–41628) — Candidata de cotejo; evidência `STT26-13-RC-094-001`, grafia encontrada `revelação cósmica`; decisão por lote `STT26-13: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+## Ampliação — STT26-SOCIEDADE_CONTEMPORANEA (Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados))
+
+- **[STT26-20 · Revelação Cósmica (conceito)]** «Olá pessoal, boa noite a todos que já estão presentes com nós, eu sou o Gabriel, sou da equipe do Ellam, vou estar conduzindo hoje a live, já deu, já deu, são sete e cinco, vamos começar a chamar aqui os palestrantes que vão estar conosco hoje do nosso evento, segundo encontro nacional da revelação cósmica, que vai acontecer dia 10 e 11.» (U3212 · chars 550093–550432) — Candidata de cotejo; evidência `STT26-20-RC-094-001`, grafia encontrada `revelação cósmica`; decisão por lote `STT26-20: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+## Ampliação — OIDR26-01 (Onda incremental dry-run — Anunnaki, genética e humanidade (derivados normalizados))
+
+- **[P1 · Revelação Cósmica (conceito)]** «Se, hein, quem lia, seja lá quem for à frente do Brasil para ribar, vai fazer algo para ajudar ou atrapalhar, se Sofia decide vir logo ou vai continuar nesse lenga não tem o que fazer é tudo muito esquisito, meu irmão mas assim, somos nós os autores e atores da nossa própria vida somos nós os autores e atrizes da minha própria da nossa própria vida na arquibancada eu não fico eu desço pro palco da vida e ando como posso andar, eu me arrasto como posso e faço isso com uma certa dose de alegria humana, ainda que às vezes me falte até oxigênio seguir adiante mas estamos, como eu disse no início estamos aqui vamos seguir adiante, como der agradeço muito, muito mesmo a todos vocês que me dão força e conexão pra gente continuar a tratar dessas loucuras e vamos ver o que é que nos espera a vida, mas enquanto isso vamos tratar da gente mesmo de produzir o que for possível um beijo, um abraço a todos, o meu muito obrigado, realmente o meu muito obrigado a cada um e a todos vocês e até a próxima oportunidade espero que você tenha gostado do conteúdo do nosso vídeo e se você chegou até aqui significa que você tem interesse em aprender mais ainda sobre a revelação cósmica e todos os painéis que fazem parte desse conhecimento por isso Gostaria de convidar você a conhecer a comunidade Orgum A nossa plataforma e aplicativo de ensino Com milhares de horas de conteúdo sobre os mais diversos tópicos e assuntos É só tocar no link que está na descrição deste vídeo Para conhecer e se juntar a nossa comunidade de estudos sobre a revelação cósmica» (U0525) — candidata de cotejo ampliado; evidência `OIDR26-01-RC-094-001`, grafia literal `revelação cósmica`, sem homologação de pérola.
+
+## Ampliação — OIDR26-02 (Onda incremental dry-run — Mitologias, tradições e reintegração (derivados normalizados))
+
+- **[P2 · Revelação Cósmica (conceito)]** «Saibaba no seu estado atual alinha-se discreta e estratégica aos postulados da revelação cósmica como maneira de encerrar a linhagem de Cristo de maneira pacífica via prima sai, que é o próximo avançado de Cristo, ofertando a sua concordância relativa ao inevitável cumprimento da função de Sofia, assessorada pelo quarto logo, que são as figuras que estão também por trás da mulher.» (U0719) — candidata de cotejo ampliado; evidência `OIDR26-02-RC-094-001`, grafia literal `revelação cósmica`, sem homologação de pérola.
+
+## Ampliação — OIDR26-03 (Onda incremental dry-run — Cosmogonia e história cósmica (derivados normalizados))
+
+- **[P3 · Revelação Cósmica (conceito)]** «O impressionante é que isso já era para ser do conhecimento da ciência terrestre, mas ainda não é. A revelação cósmica, meio que perifericamente, vai falando disso e vai ficar aí.» (U0579) — candidata de cotejo ampliado; evidência `OIDR26-03-RC-094-001`, grafia literal `revelação cósmica`, sem homologação de pérola.
+
+## Ampliação — OIDR26-04 (Onda incremental dry-run — Experiência espiritual e ética evolutiva (derivados normalizados))
+
+- **[P4 · Revelação Cósmica (conceito)]** «Não, Rogério, você pode estar totalmente enganado sobre todas essas premissas que você colocou. A revelação cósmica, se isso aqui que a gente está fazendo pode ser assim chamado, ela não tem o pressuposto de estar certa.» (U0210) — candidata de cotejo ampliado; evidência `OIDR26-04-RC-094-001`, grafia literal `revelação cósmica`, sem homologação de pérola.

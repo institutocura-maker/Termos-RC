@@ -1,0 +1,43 @@
+{
+  "candidatos": 25,
+  "duracao_estimada": "10:55:18",
+  "entrada_operacional": "somente normalizados_stt_lote_2026-10/",
+  "escopo": "Dossiê de triagem; nenhuma mutação na Base",
+  "estado": "AGUARDANDO-DESPACHO-CURATORIAL",
+  "fontes": 8,
+  "fontes_brutas_abertas": 0,
+  "gerado_em": "2026-10-20",
+  "hashes_de_entrada": {
+    "dados_termos.py": "a8cf12e7460a4d9ed14509d64d6df342826064a0590af6b490b3e96f522d558c",
+    "indice-termos-base.jsonl": "1e735e284772b5a4391c09d9aae2e19b882a449d0e8d93e502fc7b85e0935421",
+    "lotes-planejados.json": "701ad2f1f4136c7c0ec201247189d361d5b5198f0eb8c577454bc1a72035295c",
+    "manifesto-derivados-sha256.tsv": "906d8e755d701f1dd4e8a2cedbc7f3a1fc18ef29b2cbe6da821f381c8918c501",
+    "manifesto-fontes-sha256.tsv": "5dc085bd82e511160cae7372dad01097afc6ccb44e62c3862997264e019f4cf8",
+    "rastreio-antes-depois.jsonl": "be67a9649240d0f9830be7f5e90f3e3c2097f1ae215ff1fad83fb107116a554a",
+    "registro-mestre.jsonl": "f0b551895f506ca1483bf2091227031537f4b6adbd60e46a3a21fd84499ae9aa"
+  },
+  "integridade_fase0": {
+    "derivados_conferidos": 309,
+    "derivados_manifestados": 309,
+    "fontes_brutas_abertas": 0,
+    "fontes_manifestadas": 309,
+    "trocas_manifesto": 1306,
+    "trocas_rastreio": 1306
+  },
+  "lote_id": "STT26-17",
+  "max_candidatos": 25,
+  "max_evidencias_representativas_por_candidato": 3,
+  "mutacoes": {
+    "apostilas_criadas": 0,
+    "ciclos_criados": 0,
+    "dados_termos_alterado": false,
+    "fichas_criadas": 0,
+    "relacoes_criadas": 0,
+    "termos_criados": 0
+  },
+  "ocorrencias_literais": 933,
+  "tema": {
+    "codigo": "MITOLOGIAS_REINTEGRACAO",
+    "nome": "Mitologias, tradições e eixo de reintegração"
+  }
+}

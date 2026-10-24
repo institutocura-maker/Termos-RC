@@ -5,10 +5,10 @@ nome = "Big Bang"
 categoria = "Conceitos Cosmológicos"
 subcategoria = "2.1 Cosmogonia / Criação"
 status = "em análise"
-fontes = ["B031", "B024", "P2025-03-15", "P2025-02-16", "P2025-02-15", "P2024-11-30", "P2024-11-09", "P2023-12-03"]
+fontes = ["B031", "B024", "P2025-03-15", "P2025-02-16", "P2025-02-15", "P2024-11-30", "P2024-11-09", "P2023-12-03", "STT26-EXTRATERRESTRES_TECNOLOGIA", "STT26-MITOLOGIAS_REINTEGRACAO", "OIDR26-02", "OIDR26-03"]
 via = "P7-conhecimento"
 confianca_fonte = "baixa"
-atualizado = "2026-09-10"
+atualizado = "2026-10-23"
 +++
 # Big Bang — RC-034
 
@@ -26,10 +26,33 @@ A singularidade que criou o nosso universo — "teoria cosmológica sobre o dese
 | Fissão em Dois Universos (Matéria + Antimatéria) | RC-811 | associado |
 | Era do Colapso do Caos Organizado | RC-827 | associado |
 
+## Ampliação — STT26-EXTRATERRESTRES_TECNOLOGIA (Eixo STT26 — Extraterrestres, tecnologia e cosmos (derivados normalizados))
+
+- **[STT26-07 · Big Bang]** «Só que todas as estrelas que hoje existem surgiram a partir de quê? Do elemento químico hidrogênio, que se juntou em nuvens lá, logo após o Big Bang, que foi o único elemento que surgiu no universo, foi o hidrogênio.» (U0588 · chars 79701–79917) — Pérola homologada pelo Curador em 22/10/2026; corte literal conferido pelo Motor antes do pouso na Base.
+
+## Ampliação — STT26-MITOLOGIAS_REINTEGRACAO (Eixo STT26 — Mitologias, tradições e eixo de reintegração (derivados normalizados))
+
+- **[STT26-16 · Big Bang]** «É basicamente um livro que eu escrevi Chamando de O Abismo da Consciência Cósmica É um abismo tão profundo Onde ali, nesse abismo que é a história universal A história do Big Bang, de como chegamos até aqui E das notícias que sobre essa trajetória existem mas ocultas, no âmbito dos compêndios mitológicos que ninguém leva a sério, porque foram também condicionados os seres humanos a não levar a sério nada disso, os seres humanos atuais.» (U8615 · chars 1328768–1329208) — Candidata de cotejo; evidência `STT26-16-RC-034-001`, grafia encontrada `Big Bang`; decisão por lote `STT26-16: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+
+## Ampliação — OIDR26-02 (Onda incremental dry-run — Mitologias, tradições e reintegração (derivados normalizados))
+
+- **[P2 · Big Bang]** «Os dois surgiram na explosão do Big Bang. A própria ciência, hoje em dia, já atesta, já constata, já afirma a existência de um universo gênio, tanto paralelo onde o tempo lá foi para o outro lado.» (U0077) — candidata de cotejo ampliado; evidência `OIDR26-02-RC-034-001`, grafia literal `Big Bang`, sem homologação de pérola.
+
+
+## Ampliação — OIDR26-03 (Onda incremental dry-run — Cosmogonia e história cósmica (derivados normalizados))
+
+- **[P3 · Big Bang]** «Mas tem um gêmeo a esse, que surgiu também na hora do Big Bang, só que este é composto de matéria e este vizinho de antimatéria.» (U0053) — candidata de cotejo ampliado; evidência `OIDR26-03-RC-034-001`, grafia literal `Big Bang`, sem homologação de pérola.
+
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| OIDR26-03 | Onda incremental dry-run — Cosmogonia e história cósmica (derivados normalizados) (palestra) | transcrição automatizada; citação |
+| OIDR26-02 | Onda incremental dry-run — Mitologias, tradições e reintegração (derivados normalizados) (palestra) | transcrição automatizada; citação |
+| STT26-MITOLOGIAS_REINTEGRACAO | Eixo STT26 — Mitologias, tradições e eixo de reintegração (derivados normalizados) (palestra) | transcrição automatizada; citação |
+| STT26-EXTRATERRESTRES_TECNOLOGIA | Eixo STT26 — Extraterrestres, tecnologia e cosmos (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | B031 | Painéis Emergentes da Revelação Cósmica — verbete "Big Bang: ...Grande Expansão..."; Ovo Cósmico chinês (P'an Ku/Yin/Yang) | livro impresso |
 | B024 | Epopeia dos Agentes da Vida Universal — reunião operativa mental; germinação cancerosa de Prabrajna | livro impresso |
 | P2025-02-16 | O Oitavo Dia da Criação — universos gêmeos; singularidade; autodestruição criadora | palestra/STT |

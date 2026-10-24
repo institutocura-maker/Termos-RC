@@ -1,0 +1,315 @@
+{
+  "meta": {
+    "artefato": "Template de despacho curatorial — triagem STT em lote",
+    "lote_id": "STT26-11",
+    "gerado_em": "2026-10-20",
+    "estado": "PENDENTE-CURADOR",
+    "fonte_operacional": "somente derivados normalizados; o STT bruto não foi aberto",
+    "efeito_atual": "nenhum: não cria ciclo nem altera a Base",
+    "instrucoes": [
+      "Decidir o conjunto do lote, não vídeo a vídeo.",
+      "Sinal literal não prova conceito, interpretação nem citação apta.",
+      "AUTORIZAR-COTEJO é apenas permissão para aprofundar a evidência no derivado.",
+      "ABRIR-CICLO exige despacho posterior com âncoras e fonte derivada explícitas; não é efeito deste template."
+    ],
+    "opcoes_por_candidato": [
+      "MANTER-EM-TRIAGEM",
+      "DESCARTAR-DO-LOTE",
+      "AUTORIZAR-COTEJO-AMPLIADO",
+      "RESERVAR-PARA-FUTURO-CICLO"
+    ]
+  },
+  "candidatos": [
+    {
+      "codigo": "RC-072",
+      "nome": "Jesus",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-11-RC-072-001",
+        "STT26-11-RC-072-003",
+        "STT26-11-RC-072-004"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-940",
+      "nome": "Samsara",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-11-RC-940-001"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-135",
+      "nome": "Vishnu (Mavatna)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-11-RC-135-001",
+        "STT26-11-RC-135-002",
+        "STT26-11-RC-135-003"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-166",
+      "nome": "Mentalma",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-11-RC-166-001",
+        "STT26-11-RC-166-003",
+        "STT26-11-RC-166-004"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-037",
+      "nome": "Brahma (Brajna)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-11-RC-037-001",
+        "STT26-11-RC-037-003",
+        "STT26-11-RC-037-004"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-094",
+      "nome": "Revelação Cósmica (conceito)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-11-RC-094-001",
+        "STT26-11-RC-094-002",
+        "STT26-11-RC-094-003"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-102",
+      "nome": "Shiva (Savna)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-11-RC-102-001",
+        "STT26-11-RC-102-002",
+        "STT26-11-RC-102-003"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-414",
+      "nome": "Krishna (avatar de Vishnu/Shiva)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-11-RC-414-001",
+        "STT26-11-RC-414-002",
+        "STT26-11-RC-414-004"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-513",
+      "nome": "Espiritualidade Errática (4ª faixa manifestada)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-11-RC-513-001",
+        "STT26-11-RC-513-003",
+        "STT26-11-RC-513-005"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-553",
+      "nome": "Eu Profundo (nível espiritual do Eu)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-11-RC-553-001",
+        "STT26-11-RC-553-002",
+        "STT26-11-RC-553-003"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-009",
+      "nome": "Sophia (Cristo Cósmico)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-11-RC-009-001",
+        "STT26-11-RC-009-003",
+        "STT26-11-RC-009-004"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-752",
+      "nome": "Agenda Espiritual",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-11-RC-752-001",
+        "STT26-11-RC-752-005",
+        "STT26-11-RC-752-006"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-919",
+      "nome": "Vrites",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-11-RC-919-001",
+        "STT26-11-RC-919-005"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-028",
+      "nome": "Atlan",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-11-RC-028-001"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-586",
+      "nome": "Rishis",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-11-RC-586-001"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-921",
+      "nome": "Niroda",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-11-RC-921-001",
+        "STT26-11-RC-921-004"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-924",
+      "nome": "Loop Mental",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-11-RC-924-001"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-148",
+      "nome": "Agentes da Vida Universal",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-11-RC-148-001"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-474",
+      "nome": "Arcontes (= Sophias e Indras; Conselho dos 70)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-11-RC-474-001"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-059",
+      "nome": "Espiritualidade Superior",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-11-RC-059-001",
+        "STT26-11-RC-059-002",
+        "STT26-11-RC-059-003"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-071",
+      "nome": "Jan Val Ellam (Rogério de Almeida Freitas)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-11-RC-071-001",
+        "STT26-11-RC-071-002",
+        "STT26-11-RC-071-003"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-085",
+      "nome": "Orbum",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-11-RC-085-001",
+        "STT26-11-RC-085-002"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-104",
+      "nome": "Trimurti",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-11-RC-104-001",
+        "STT26-11-RC-104-002",
+        "STT26-11-RC-104-003"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-162",
+      "nome": "Elétrons (agente básico da vida universal)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-11-RC-162-001",
+        "STT26-11-RC-162-002",
+        "STT26-11-RC-162-003"
+      ],
+      "observacao": ""
+    },
+    {
+      "codigo": "RC-190",
+      "nome": "Revelação Espiritual (Kardec)",
+      "decisao": "PENDENTE",
+      "fundamento_curatorial": "",
+      "evidencias_disponiveis": [
+        "STT26-11-RC-190-001",
+        "STT26-11-RC-190-002",
+        "STT26-11-RC-190-003"
+      ],
+      "observacao": ""
+    }
+  ],
+  "despacho_de_lote": {
+    "resultado": "PENDENTE",
+    "candidatos_para_cotejo_ampliado": [],
+    "autorizacao_para_abrir_ciclo": false,
+    "observacao": ""
+  }
+}

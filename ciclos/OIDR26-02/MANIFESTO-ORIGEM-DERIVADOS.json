@@ -1,0 +1,80 @@
+{
+  "artefato": "Manifesto de origem da fonte consolidada — onda incremental dry-run",
+  "gerado_em": "2026-10-22",
+  "ciclo": "OIDR26-02",
+  "eixo": "MITOLOGIAS_REINTEGRACAO",
+  "ingressos": [
+    "P2"
+  ],
+  "fonte_operacional": "somente onda_incremental_dry_run/derivados_normalizados/",
+  "fontes_brutas_abertas": 0,
+  "autorizacao_de_abertura": {
+    "caminho": "onda_incremental_dry_run/triagem_curatorial/AUTORIZACAO-ABERTURA-DE-CICLOS-2026-10-22.json",
+    "sha256": "56f10574ae72f3a5debce5dbe95383c4c9933a4c62a303116eef00275245ec32",
+    "despacho_cotejo_consolidado": "onda_incremental_dry_run/triagem_curatorial/CONSOLIDADO-DESPACHO-CURATORIAL.json",
+    "sha256_despacho_cotejo_consolidado": "f8a300189130a9c873d8b1f5029631e48792e7d4facd261f991662ce8628a9f7",
+    "candidatos_autorizados_para_cotejo": [
+      "RC-072",
+      "RC-037",
+      "RC-102",
+      "RC-414",
+      "RC-135",
+      "RC-104",
+      "RC-942",
+      "RC-094",
+      "RC-225",
+      "RC-593",
+      "RC-669",
+      "RC-841",
+      "RC-254",
+      "RC-301",
+      "RC-489",
+      "RC-696",
+      "RC-749",
+      "RC-061",
+      "RC-106",
+      "RC-162",
+      "RC-239",
+      "RC-024",
+      "RC-034",
+      "RC-059",
+      "RC-073"
+    ]
+  },
+  "baseline_commit": "e97b7a2",
+  "base_no_inicio": {
+    "sha256_dados_termos": "07f850448b3726a6f05e87649db1d6129ac0225483a5074238b765df3bf1cb3b",
+    "termos": 946,
+    "relacoes": 1887,
+    "ficha_true": 826,
+    "arquivos_ficha": 826
+  },
+  "sha256_original_consolidado": "39ce0ba276dea37093c3c667e8bd6aa0306f86e327e7f4768fa64ee4bbc7913d",
+  "fontes": [
+    {
+      "ordem": 1,
+      "ingresso_id": "P2",
+      "arquivo_derivado": "onda_incremental_dry_run/derivados_normalizados/2024-09_003_EbK2RfETyEM_Conspiracao_Demodharmica_-_Krishna_Jesus_e_Sai_Baba_-_PALESTRA_COMPLETA_Jan_Val_Ellam.md",
+      "titulo": "Conspiração Demodharmica: Krishna, Jesus e Sai Baba - PALESTRA COMPLETA (Jan Val Ellam)",
+      "duracao": "03:35:05",
+      "sha256_derivado": "954dfba1d95dec7ec9116b50eff7c638b87d4694bbfef492c354dcc4f07a0f75",
+      "bytes_payload": 143963,
+      "inicio_byte_payload": 801,
+      "fim_byte_exclusivo_payload": 144764
+    }
+  ],
+  "delta_esperado": {
+    "arquivos": 0,
+    "ficha_true": 0,
+    "termos": 0,
+    "relacoes": 0,
+    "vinculos": 0
+  },
+  "mutacoes_na_abertura": {
+    "dados_termos_alterado": false,
+    "fichas_criadas": 0,
+    "termos_criados": 0,
+    "relacoes_criadas": 0,
+    "apostilas_criadas": 0
+  }
+}

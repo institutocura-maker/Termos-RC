@@ -5,10 +5,10 @@ nome = "Alexandre Magno (tirano sob influência de Lemion)"
 categoria = "Seres & Entidades"
 subcategoria = "1.6 Figuras humanas (históricas/míticas)"
 status = "verificado"
-fontes = ["P2023-08-27", "P2022-09-25"]
+fontes = ["P2023-08-27", "P2022-09-25", "OIDR26-01"]
 via = "P6-evidência"
 confianca_fonte = "média"
-atualizado = "2026-08-31"
+atualizado = "2026-10-23"
 +++
 # Alexandre Magno (tirano sob influência de Lemion) — RC-850
 
@@ -37,9 +37,15 @@ Com isso:
 | Bebida dos Deuses (Ambrosia/Amrita/Soma) | RC-466 | **sem aresta** em `RELACOES`; arquivo existe |
 | DNA Insubmisso / Linhagem Pandora–Eva–Noreia | RC-727 | **sem aresta** em `RELACOES`; arquivo existe |
 
+## Ampliação — OIDR26-01 (Onda incremental dry-run — Anunnaki, genética e humanidade (derivados normalizados))
+
+- **[P1 · Alexandre Magno (tirano sob influência de Lemion)]** «mas o que é que tinha então nesse período havia os sumérios que nas suas diversas cidades cada um deus sumério do clã de Enkel de Enlil com a sua trupe e com os seres humanos que aí já eram grande maioria em tudo que é cidade eles obedeciam cegamente ao seu deus sumério e os deuses sumérios disputavam entre si e em algum momento em que parece que propôs ao pessoal de um certo centro cultural que está no intestício do Império Sumério, cujas notícias foram repassadas por seus descendentes diretos, os acadianos, o intestício que eu falo é entre uma história, entre uma cultura e outra, em que a turma começou a construir uma torre e a turma de outras cidades que olhava e sabia que na cidade lá da cultura de Babel, porque nesse tempo, do jeito que o helenismo, você procura e diz, onde é que fica o helenismo na época de Alexandre Magno, ou seja, três séculos antes de Jesus, dois séculos.» (U0315) — candidata de cotejo ampliado; evidência `OIDR26-01-RC-850-001`, grafia literal `Alexandre Magno`, sem homologação de pérola.
+
+
 ## Fontes
 | Obra (sigla) | Título | Página | Tipo |
 |---|---|---|---|
+| OIDR26-01 | Onda incremental dry-run — Anunnaki, genética e humanidade (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
 | P2022-09-25 | O Contexto Espiritual da Construção de Brasília (palestra) | — | transcrição automatizada; citação |
 | P2023-08-27 | Len Mion e os Senhores da Terra Alexandre Magno e Qin Shi Huang Di (palestra) | — | transcrição automatizada; citação |
 

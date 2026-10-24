@@ -1,0 +1,388 @@
+{
+ "motor": "ferramentas/motor.py",
+ "ciclo": "STT26-SOCIEDADE_CONTEMPORANEA",
+ "politica": "apenas `status: aprovada` entra no corpus",
+ "fonte": "ciclos/STT26-SOCIEDADE_CONTEMPORANEA/original.txt",
+ "sha256_fonte": "9dded7a5dd3530a55b2b3b29da37be96df993dbd284f4d0f4b2d2fc84d9235b2",
+ "cards_total": 54,
+ "cards": [
+  {
+   "id": "PER-STT26-SOCIEDADE_CONTEMPORANEA-001",
+   "arquivo": "rag/perolas/PER-STT26-SOCIEDADE_CONTEMPORANEA-001.md",
+   "sha256": "c8eb71d3f21458fdbe137166ee686ee707392e91069fed20d59c5eb098bfa0c8",
+   "termo": "RC-003",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-SOCIEDADE_CONTEMPORANEA-002",
+   "arquivo": "rag/perolas/PER-STT26-SOCIEDADE_CONTEMPORANEA-002.md",
+   "sha256": "4978286421335b67b87c598824df4089b3bbe50f87852e3ed5faf31f035b0251",
+   "termo": "RC-037",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-SOCIEDADE_CONTEMPORANEA-003",
+   "arquivo": "rag/perolas/PER-STT26-SOCIEDADE_CONTEMPORANEA-003.md",
+   "sha256": "a0af76e90c2a229fd7e9f713587297555d8b93f841169ff11b805d2faf59830d",
+   "termo": "RC-102",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-SOCIEDADE_CONTEMPORANEA-004",
+   "arquivo": "rag/perolas/PER-STT26-SOCIEDADE_CONTEMPORANEA-004.md",
+   "sha256": "b8ae4951a02fa7d68872845548d83854c13877c1e41dcb4bb30d701fd3564b1e",
+   "termo": "RC-297",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-SOCIEDADE_CONTEMPORANEA-005",
+   "arquivo": "rag/perolas/PER-STT26-SOCIEDADE_CONTEMPORANEA-005.md",
+   "sha256": "658dc937842bcd1755b1a0317cd63ae1888548303389793deabaf9431f1fe81e",
+   "termo": "RC-826",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-SOCIEDADE_CONTEMPORANEA-006",
+   "arquivo": "rag/perolas/PER-STT26-SOCIEDADE_CONTEMPORANEA-006.md",
+   "sha256": "0abd2118ef72868ac802c4d9c2b6f891d82428028b17345f377ee3ddb788fafb",
+   "termo": "RC-887",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-SOCIEDADE_CONTEMPORANEA-007",
+   "arquivo": "rag/perolas/PER-STT26-SOCIEDADE_CONTEMPORANEA-007.md",
+   "sha256": "ffd5656c584e14ea14151094b88b687379c3e3169ccff9f1ae54a761de59ba7e",
+   "termo": "RC-002",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-SOCIEDADE_CONTEMPORANEA-008",
+   "arquivo": "rag/perolas/PER-STT26-SOCIEDADE_CONTEMPORANEA-008.md",
+   "sha256": "d2d4be589b1b704f1eb6a89450faa5f9dd6f173391a6caf6c1eff3b7d4c3dbb2",
+   "termo": "RC-035",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-SOCIEDADE_CONTEMPORANEA-009",
+   "arquivo": "rag/perolas/PER-STT26-SOCIEDADE_CONTEMPORANEA-009.md",
+   "sha256": "5af20d6bcf076b85747cc2194479669f0bbe9f86cfd96b73fd472c795c2390d7",
+   "termo": "RC-081",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-SOCIEDADE_CONTEMPORANEA-010",
+   "arquivo": "rag/perolas/PER-STT26-SOCIEDADE_CONTEMPORANEA-010.md",
+   "sha256": "cd82f51b6497fafc183982ca8d47d2f54bd36d4b1a77ec7a145f2aa75eccc845",
+   "termo": "RC-135",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-SOCIEDADE_CONTEMPORANEA-011",
+   "arquivo": "rag/perolas/PER-STT26-SOCIEDADE_CONTEMPORANEA-011.md",
+   "sha256": "37f519d09a5eecd6ae09f6cb441ef321b3205c3c55380ae7f1f864692bf9a3af",
+   "termo": "RC-162",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-SOCIEDADE_CONTEMPORANEA-012",
+   "arquivo": "rag/perolas/PER-STT26-SOCIEDADE_CONTEMPORANEA-012.md",
+   "sha256": "667736605e97891876fad5f7893c6e6dc23e29c8ddb1042638230f588e4eaab6",
+   "termo": "RC-163",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-SOCIEDADE_CONTEMPORANEA-013",
+   "arquivo": "rag/perolas/PER-STT26-SOCIEDADE_CONTEMPORANEA-013.md",
+   "sha256": "e5d7dc9a449f3fc31db60bceab801176635ba18ee87ffc070f4224a35e5ae6b6",
+   "termo": "RC-301",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-SOCIEDADE_CONTEMPORANEA-014",
+   "arquivo": "rag/perolas/PER-STT26-SOCIEDADE_CONTEMPORANEA-014.md",
+   "sha256": "b476c772c14474278ade4a9a56436063b0663acee50c05de6e7648ac520d9a44",
+   "termo": "RC-302",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-SOCIEDADE_CONTEMPORANEA-015",
+   "arquivo": "rag/perolas/PER-STT26-SOCIEDADE_CONTEMPORANEA-015.md",
+   "sha256": "745ae0149cb18b262588421385fddb525aaad9bd36459a76bd6fdf082f727aa8",
+   "termo": "RC-303",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-SOCIEDADE_CONTEMPORANEA-016",
+   "arquivo": "rag/perolas/PER-STT26-SOCIEDADE_CONTEMPORANEA-016.md",
+   "sha256": "2be1bd4d2c8142ed40c4885d7ba0262230c1197cb9919d39ec304a15ce24c7ac",
+   "termo": "RC-529",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-SOCIEDADE_CONTEMPORANEA-017",
+   "arquivo": "rag/perolas/PER-STT26-SOCIEDADE_CONTEMPORANEA-017.md",
+   "sha256": "b92439c4843b94601c086de15c00f500ee20c6d1602c82b8981e0ae925c1e642",
+   "termo": "RC-585",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-SOCIEDADE_CONTEMPORANEA-018",
+   "arquivo": "rag/perolas/PER-STT26-SOCIEDADE_CONTEMPORANEA-018.md",
+   "sha256": "e5d0c902ad39c95e4151741c28beb08451baa3e7204829d653cfec40b59638b2",
+   "termo": "RC-593",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-SOCIEDADE_CONTEMPORANEA-019",
+   "arquivo": "rag/perolas/PER-STT26-SOCIEDADE_CONTEMPORANEA-019.md",
+   "sha256": "95e040deae527571733215d43ef0a731b9b414514faff5b5fdc31dac808a19f4",
+   "termo": "RC-631",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-SOCIEDADE_CONTEMPORANEA-020",
+   "arquivo": "rag/perolas/PER-STT26-SOCIEDADE_CONTEMPORANEA-020.md",
+   "sha256": "1c490b24d01b70d7591aa17af2dcb81f8310e0f71669ec0d93fe8741eef83f59",
+   "termo": "RC-641",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-SOCIEDADE_CONTEMPORANEA-021",
+   "arquivo": "rag/perolas/PER-STT26-SOCIEDADE_CONTEMPORANEA-021.md",
+   "sha256": "3a9714f96d112396a979dfdf49bfecd8ca120fd7353a1954dc69e8b5d2cc332d",
+   "termo": "RC-841",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-SOCIEDADE_CONTEMPORANEA-022",
+   "arquivo": "rag/perolas/PER-STT26-SOCIEDADE_CONTEMPORANEA-022.md",
+   "sha256": "258d1e2f27debfbee096fbf161268112b7760a6b3b55793f10390e8409c07abb",
+   "termo": "RC-874",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-SOCIEDADE_CONTEMPORANEA-023",
+   "arquivo": "rag/perolas/PER-STT26-SOCIEDADE_CONTEMPORANEA-023.md",
+   "sha256": "ad6b3a5632e91b401050784c0f3afcf0fe098d0aa38c030aa56af5280f8732a8",
+   "termo": "RC-009",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-SOCIEDADE_CONTEMPORANEA-024",
+   "arquivo": "rag/perolas/PER-STT26-SOCIEDADE_CONTEMPORANEA-024.md",
+   "sha256": "a52886346729c90246bc1f5b5ca2494e6232f58d7974f571727ded052069062e",
+   "termo": "RC-024",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-SOCIEDADE_CONTEMPORANEA-025",
+   "arquivo": "rag/perolas/PER-STT26-SOCIEDADE_CONTEMPORANEA-025.md",
+   "sha256": "adb9dda30abb36ba5157b11c473215ae792f8ad90729b6d0015f5d0e7ca60e4e",
+   "termo": "RC-036",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-SOCIEDADE_CONTEMPORANEA-026",
+   "arquivo": "rag/perolas/PER-STT26-SOCIEDADE_CONTEMPORANEA-026.md",
+   "sha256": "c3e88dc148b14400ab8d4a5f40108bf0f992efc34095fb987044b09b666f51c0",
+   "termo": "RC-039",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-SOCIEDADE_CONTEMPORANEA-027",
+   "arquivo": "rag/perolas/PER-STT26-SOCIEDADE_CONTEMPORANEA-027.md",
+   "sha256": "65b73795a2f8a48404cf4a13e4ab7d8efa3e0f4dfbc98d1e8c74df3bacb0f493",
+   "termo": "RC-056",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-SOCIEDADE_CONTEMPORANEA-028",
+   "arquivo": "rag/perolas/PER-STT26-SOCIEDADE_CONTEMPORANEA-028.md",
+   "sha256": "1df79685b15d38a285479e0e69dac1ff18d5e8175ec0bc795f93a239c4fc6011",
+   "termo": "RC-061",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-SOCIEDADE_CONTEMPORANEA-029",
+   "arquivo": "rag/perolas/PER-STT26-SOCIEDADE_CONTEMPORANEA-029.md",
+   "sha256": "8b570292ad3894df272626f911c8b7ad79ff7e85bb3d727926ad12a01db8337c",
+   "termo": "RC-078",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-SOCIEDADE_CONTEMPORANEA-030",
+   "arquivo": "rag/perolas/PER-STT26-SOCIEDADE_CONTEMPORANEA-030.md",
+   "sha256": "d8c191b75972ccb35ff7b85f43721ecec14cda9882c4a990d30dd3363689c3ec",
+   "termo": "RC-086",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-SOCIEDADE_CONTEMPORANEA-031",
+   "arquivo": "rag/perolas/PER-STT26-SOCIEDADE_CONTEMPORANEA-031.md",
+   "sha256": "fa970e72477249e897298d8c7b5be6ab795f0fdd6fb190b998e2b482e91c4e41",
+   "termo": "RC-092",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-SOCIEDADE_CONTEMPORANEA-032",
+   "arquivo": "rag/perolas/PER-STT26-SOCIEDADE_CONTEMPORANEA-032.md",
+   "sha256": "68e589e57ca2812d0c84317226d6ed747d68b3f1f3be98a0cdd3ed2def2f1750",
+   "termo": "RC-094",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-SOCIEDADE_CONTEMPORANEA-033",
+   "arquivo": "rag/perolas/PER-STT26-SOCIEDADE_CONTEMPORANEA-033.md",
+   "sha256": "326624868093a417004d59f1178b7f994cdf3383ba5dfa7b6c9807b7cc10db3b",
+   "termo": "RC-104",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-SOCIEDADE_CONTEMPORANEA-034",
+   "arquivo": "rag/perolas/PER-STT26-SOCIEDADE_CONTEMPORANEA-034.md",
+   "sha256": "afbdec8b940c9be86d1ec0add4a2d11dd87780f76a865233bcc07e217786ad8e",
+   "termo": "RC-108",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-SOCIEDADE_CONTEMPORANEA-035",
+   "arquivo": "rag/perolas/PER-STT26-SOCIEDADE_CONTEMPORANEA-035.md",
+   "sha256": "4bb64357d63fbaaa37989349621539a7f926f1ad87437cc740aacb32d938d7e7",
+   "termo": "RC-152",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-SOCIEDADE_CONTEMPORANEA-036",
+   "arquivo": "rag/perolas/PER-STT26-SOCIEDADE_CONTEMPORANEA-036.md",
+   "sha256": "3c1c14fc96959313320ff3f87ea73771ce1f07c62fb7bd5f31cda23d409ef7fa",
+   "termo": "RC-166",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-SOCIEDADE_CONTEMPORANEA-037",
+   "arquivo": "rag/perolas/PER-STT26-SOCIEDADE_CONTEMPORANEA-037.md",
+   "sha256": "090e13cd94db39e2d99d5fce86f79aca8f3409538223a6a3b07066bf1eda5f23",
+   "termo": "RC-211",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-SOCIEDADE_CONTEMPORANEA-038",
+   "arquivo": "rag/perolas/PER-STT26-SOCIEDADE_CONTEMPORANEA-038.md",
+   "sha256": "3396dadb25f08d4f857e91fb33c9c97b782a1c8eeb712998d403dfd1f5b1e398",
+   "termo": "RC-254",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-SOCIEDADE_CONTEMPORANEA-039",
+   "arquivo": "rag/perolas/PER-STT26-SOCIEDADE_CONTEMPORANEA-039.md",
+   "sha256": "4df01d9aa500d55205aee186aad85343f764e3f3e2c81d03a60fe81ac43d571e",
+   "termo": "RC-385",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-SOCIEDADE_CONTEMPORANEA-040",
+   "arquivo": "rag/perolas/PER-STT26-SOCIEDADE_CONTEMPORANEA-040.md",
+   "sha256": "dd9a87fa433ee49a134d3884fb36170b39e16517ed74ddaf57148536291eef21",
+   "termo": "RC-397",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-SOCIEDADE_CONTEMPORANEA-041",
+   "arquivo": "rag/perolas/PER-STT26-SOCIEDADE_CONTEMPORANEA-041.md",
+   "sha256": "08b1bd5178c596260683d21505c26c08c622db52b94b30b064d8e2db5a0f81c9",
+   "termo": "RC-414",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-SOCIEDADE_CONTEMPORANEA-042",
+   "arquivo": "rag/perolas/PER-STT26-SOCIEDADE_CONTEMPORANEA-042.md",
+   "sha256": "6c2c85fb5ed7ed08eb75decc0567f2a03c49ea7b7a9eb7f3f30be11be90cacc8",
+   "termo": "RC-474",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-SOCIEDADE_CONTEMPORANEA-043",
+   "arquivo": "rag/perolas/PER-STT26-SOCIEDADE_CONTEMPORANEA-043.md",
+   "sha256": "9aaa428ef04b66f5137d2ca4ce8fb909617d313b34e9eb2138c0e448ab9514d9",
+   "termo": "RC-487",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-SOCIEDADE_CONTEMPORANEA-044",
+   "arquivo": "rag/perolas/PER-STT26-SOCIEDADE_CONTEMPORANEA-044.md",
+   "sha256": "aff069d5b2a32317778210ebc868a5e7191e62119151766e32777e7265fc28b9",
+   "termo": "RC-536",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-SOCIEDADE_CONTEMPORANEA-045",
+   "arquivo": "rag/perolas/PER-STT26-SOCIEDADE_CONTEMPORANEA-045.md",
+   "sha256": "f5a9f15169e8fe224bdf1eb571528123455ecb2f0ec6b9161b347164b171acfe",
+   "termo": "RC-559",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-SOCIEDADE_CONTEMPORANEA-046",
+   "arquivo": "rag/perolas/PER-STT26-SOCIEDADE_CONTEMPORANEA-046.md",
+   "sha256": "6422a8d05c333eadb69553b373e83088a0de599b7b08082f01be8df2300daadf",
+   "termo": "RC-623",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-SOCIEDADE_CONTEMPORANEA-047",
+   "arquivo": "rag/perolas/PER-STT26-SOCIEDADE_CONTEMPORANEA-047.md",
+   "sha256": "211ec3445c6f1a1616ec46ec563826b326814283ab5f036ddfc9474c42612144",
+   "termo": "RC-624",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-SOCIEDADE_CONTEMPORANEA-048",
+   "arquivo": "rag/perolas/PER-STT26-SOCIEDADE_CONTEMPORANEA-048.md",
+   "sha256": "52d39cb21d331ab8d75f5c9188b2311fe82f4a8e6019a947285d62fb27853d6c",
+   "termo": "RC-754",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-SOCIEDADE_CONTEMPORANEA-049",
+   "arquivo": "rag/perolas/PER-STT26-SOCIEDADE_CONTEMPORANEA-049.md",
+   "sha256": "dab63f163787347a0931fb102f547177b8a57e94411f9952bc22c30d5cfb9317",
+   "termo": "RC-839",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-SOCIEDADE_CONTEMPORANEA-050",
+   "arquivo": "rag/perolas/PER-STT26-SOCIEDADE_CONTEMPORANEA-050.md",
+   "sha256": "23389dc0f6f114ca6cda02f6ad0dc7355c3ff85235f343644e1e5b58b21e8f0d",
+   "termo": "RC-854",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-SOCIEDADE_CONTEMPORANEA-051",
+   "arquivo": "rag/perolas/PER-STT26-SOCIEDADE_CONTEMPORANEA-051.md",
+   "sha256": "eb273de8aa231193d13af227ee9683531c68eac5cba311cf2b60feb2ec6e6633",
+   "termo": "RC-870",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-SOCIEDADE_CONTEMPORANEA-052",
+   "arquivo": "rag/perolas/PER-STT26-SOCIEDADE_CONTEMPORANEA-052.md",
+   "sha256": "88285cc98cfb885f32b179b72bcb5f7b68be28359a8f5d0e630e8714980f0071",
+   "termo": "RC-904",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-SOCIEDADE_CONTEMPORANEA-053",
+   "arquivo": "rag/perolas/PER-STT26-SOCIEDADE_CONTEMPORANEA-053.md",
+   "sha256": "e95a7734033aa9954b24d1940e39aa357d68619cf1ecba550d9f6bfe1dbae5a0",
+   "termo": "RC-924",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-STT26-SOCIEDADE_CONTEMPORANEA-054",
+   "arquivo": "rag/perolas/PER-STT26-SOCIEDADE_CONTEMPORANEA-054.md",
+   "sha256": "f7c2dfbe87e422725cb5d0e8ecd9bf2e7f7bf678992080cee5429f48b1e6e32c",
+   "termo": "RC-306",
+   "status": "aprovada"
+  }
+ ]
+}

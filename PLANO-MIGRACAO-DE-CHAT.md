@@ -1,6 +1,6 @@
 # Plano de Migração de Chat — Projeto RC
 
-> **⚠️ ARQUIVO HISTÓRICO** (marcado na revisão de 2026-08-25 — AGENTE 10). Plano de 2026-08-18; migração já concluída. **Não usar como estado vigente** — prevalece `PROMPT-PROXIMA-SESSAO.md`.
+> **⚠️ ARQUIVO HISTÓRICO** (marcado na revisão de 2026-08-25 — AGENTE 10). Plano de 2026-08-18; migração já concluída. **Não usar como estado vigente** — prevalece `prompts/PROMPT-PROXIMA-SESSAO.md`.
 
 **Versão:** 1.1  
 **Data:** 18/08/2026  
@@ -14,7 +14,7 @@ Ordem de autoridade:
 
 1. `ferramentas/dados_termos.py` — fonte canônica;
 2. decisões oficiais do curador em cada pasta de palestra;
-3. `CONTINUIDADE.md`;
+3. `admin/logs/CONTINUIDADE.md`;
 4. Dossiê/itens travados/auditorias da palestra em curso;
 5. `README.md` e `apostilas/INDICE-PALESTRAS.md`;
 6. pacote de migração do checkpoint;
@@ -32,7 +32,7 @@ A migração é segura quando:
 - checksums dos arquivos centrais foram calculados;
 - nenhuma autorização do curador existe apenas no chat.
 
-**Checkpoint atual (18/08/2026):** adequado para migração. Base em **767 termos / 1.531 relações** (RC-768 em seguida); **13 apostilas concluídas** em `apostilas/CONCLUIDAS/` (incl. P2024-11-02 Fantasmas, P2024-02-03 Jainismo e as 5 da pausa estratégica: Enki, Bastidores, Thot, Sethianos, Ifá). Pausa estratégica de palestras novas **concluída**; retomada de novas palestras depende de novo material-fonte do curador. Pacote de migração atualizado: `PACOTE-MIGRACAO-CHAT-2026-08-18.md`.
+**Checkpoint atual (18/08/2026):** adequado para migração. Base em **767 termos / 1.531 relações** (RC-768 em seguida); **13 apostilas concluídas** em `apostilas/CONCLUIDAS/` (incl. P2024-11-02 Fantasmas, P2024-02-03 Jainismo e as 5 da pausa estratégica: Enki, Bastidores, Thot, Sethianos, Ifá). Pausa estratégica de palestras novas **concluída**; retomada de novas palestras depende de novo material-fonte do curador. Pacote de migração atualizado: `admin/logs/PACOTE-MIGRACAO-CHAT-2026-08-18.md`.
 
 ## 3. Arquivos obrigatórios do handoff
 
@@ -47,7 +47,7 @@ A migração é segura quando:
 ### Camada operacional
 
 - `README.md`
-- `CONTINUIDADE.md`
+- `admin/logs/CONTINUIDADE.md`
 - `convencoes-editoriais-rc.md`
 - `apostilas/INDICE-PALESTRAS.md`
 
@@ -82,7 +82,7 @@ python3 ferramentas/dados_termos.py
 ```
 
 3. conferir contagens e próximo código;
-4. atualizar `CONTINUIDADE.md` e o índice de palestras;
+4. atualizar `admin/logs/CONTINUIDADE.md` e o índice de palestras;
 5. calcular checksums dos arquivos centrais;
 6. gerar/atualizar o pacote de migração;
 7. não iniciar integração de códigos parcialmente.
@@ -91,7 +91,7 @@ python3 ferramentas/dados_termos.py
 
 ### Mensagem inicial recomendada
 
-> Continue o projeto “Base Terminológica das Revelações Cósmicas de Jan Val Ellam”. O curador é a autoridade e a IA é ferramenta. Leia, nesta ordem: `PLANO-MIGRACAO-DE-CHAT.md`, `PACOTE-MIGRACAO-CHAT-2026-08-16.md`, `CONTINUIDADE.md`, `README.md`, `ferramentas/dados_termos.py` e o Dossiê em `apostilas/2024-11-02_fantasmas_passado_mitologico/analise/`. Responda em PT-BR. A palestra P2024-11-02 está PAUSADA: não solicite decisão, não atribua códigos e não inicie a apostila até autorização expressa do curador. Preserve originais, separe a plateia e mantenha as quarentenas clínicas, científicas, históricas, políticas e fonéticas. Confirme apenas as contagens, a pausa e o próximo código; depois aguarde a próxima orientação.
+> Continue o projeto “Base Terminológica das Revelações Cósmicas de Jan Val Ellam”. O curador é a autoridade e a IA é ferramenta. Leia, nesta ordem: `PLANO-MIGRACAO-DE-CHAT.md`, `PACOTE-MIGRACAO-CHAT-2026-08-16.md`, `admin/logs/CONTINUIDADE.md`, `README.md`, `ferramentas/dados_termos.py` e o Dossiê em `apostilas/2024-11-02_fantasmas_passado_mitologico/analise/`. Responda em PT-BR. A palestra P2024-11-02 está PAUSADA: não solicite decisão, não atribua códigos e não inicie a apostila até autorização expressa do curador. Preserve originais, separe a plateia e mantenha as quarentenas clínicas, científicas, históricas, políticas e fonéticas. Confirme apenas as contagens, a pausa e o próximo código; depois aguarde a próxima orientação.
 
 ### Verificação obrigatória
 

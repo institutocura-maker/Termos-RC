@@ -1,0 +1,185 @@
+{
+ "motor": "ferramentas/motor.py",
+ "ciclo": "OIDR26-03",
+ "politica": "apenas `status: aprovada` entra no corpus",
+ "fonte": "ciclos/OIDR26-03/original.txt",
+ "sha256_fonte": "61884053b9ad7ceba28330e53d193dd46f008ca9e2469f15990df046e366859c",
+ "cards_total": 25,
+ "cards": [
+  {
+   "id": "PER-OIDR26-03-001",
+   "arquivo": "rag/perolas/PER-OIDR26-03-001.md",
+   "sha256": "07aeb9a544ae96a06297405c6e6b9e9126aebf84d7903a3d023953d82bcd2a3f",
+   "termo": "RC-033",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-OIDR26-03-002",
+   "arquivo": "rag/perolas/PER-OIDR26-03-002.md",
+   "sha256": "3bdcc3e99da0f84a3edfcd89d520773656c128f0fee78acdbb098d0085eef7a0",
+   "termo": "RC-081",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-OIDR26-03-003",
+   "arquivo": "rag/perolas/PER-OIDR26-03-003.md",
+   "sha256": "838af066161d6329c4e2bbe6af6627f30b6984298c6a8fe2fde61eaf88617ffc",
+   "termo": "RC-086",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-OIDR26-03-004",
+   "arquivo": "rag/perolas/PER-OIDR26-03-004.md",
+   "sha256": "035525f3e4f5a59b6db17ba6c5cac2e7aa7e1ad2e70ecdfd48581ecd781a5f90",
+   "termo": "RC-104",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-OIDR26-03-005",
+   "arquivo": "rag/perolas/PER-OIDR26-03-005.md",
+   "sha256": "3548f489c8fe0a05734748853177a8f5c2d9bc74a8035600be43148b7aa17362",
+   "termo": "RC-582",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-OIDR26-03-006",
+   "arquivo": "rag/perolas/PER-OIDR26-03-006.md",
+   "sha256": "597208f45cb360872ca7920d1a42d90132c4ee1e47a9cd1903c11fdd34c39e7a",
+   "termo": "RC-742",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-OIDR26-03-007",
+   "arquivo": "rag/perolas/PER-OIDR26-03-007.md",
+   "sha256": "b43d14937ab3ed091ae63896ad0bff1b8822cc93d611550b0915356adc112872",
+   "termo": "RC-743",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-OIDR26-03-008",
+   "arquivo": "rag/perolas/PER-OIDR26-03-008.md",
+   "sha256": "d415a1f6eb57ffef1481c748aa24f34e5e76ae5a771e7d540297a19644b1d1f7",
+   "termo": "RC-102",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-OIDR26-03-009",
+   "arquivo": "rag/perolas/PER-OIDR26-03-009.md",
+   "sha256": "8030e7b8f7b3861866f0d738bea1faf74da5a029356fa67f1025f2780f7abacf",
+   "termo": "RC-135",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-OIDR26-03-010",
+   "arquivo": "rag/perolas/PER-OIDR26-03-010.md",
+   "sha256": "e51593daebf137b2ad54f12a98931e4e8b97173c9ba2c96b18f4438c26dcefe7",
+   "termo": "RC-301",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-OIDR26-03-011",
+   "arquivo": "rag/perolas/PER-OIDR26-03-011.md",
+   "sha256": "9c5c84363b60b414028dc1639cb233afe55f32eaa7eddfbefb81403779c73c62",
+   "termo": "RC-302",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-OIDR26-03-012",
+   "arquivo": "rag/perolas/PER-OIDR26-03-012.md",
+   "sha256": "622e090d6aa3a56f60a606f3629ca3cc7601bdc7b8ee42e8d082e6beac39d642",
+   "termo": "RC-696",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-OIDR26-03-013",
+   "arquivo": "rag/perolas/PER-OIDR26-03-013.md",
+   "sha256": "9fd916b07efcbb6364e19635eacd430b67ea110b957b942be36f382deafaa286",
+   "termo": "RC-034",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-OIDR26-03-014",
+   "arquivo": "rag/perolas/PER-OIDR26-03-014.md",
+   "sha256": "19f48e384b33285d62299bdc75617dc5051616672de7ff3331cc5a268b11f3ed",
+   "termo": "RC-037",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-OIDR26-03-015",
+   "arquivo": "rag/perolas/PER-OIDR26-03-015.md",
+   "sha256": "43f9c18b4ff0ddb45211fa4f31421ec7aee341b749620f493f8526ea60924313",
+   "termo": "RC-056",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-OIDR26-03-016",
+   "arquivo": "rag/perolas/PER-OIDR26-03-016.md",
+   "sha256": "49fb57d4398fd57b03f6a174124455273121cb126f7863b552957e153a2e8335",
+   "termo": "RC-059",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-OIDR26-03-017",
+   "arquivo": "rag/perolas/PER-OIDR26-03-017.md",
+   "sha256": "a81f0d5cb3b40e6a9dcd26881873568a415f56d3b27089247a73110a88092b72",
+   "termo": "RC-072",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-OIDR26-03-018",
+   "arquivo": "rag/perolas/PER-OIDR26-03-018.md",
+   "sha256": "6ab7b55e27ec5bc1708e1d3232157dde713f04812d6457dae12f3860a9ad72a0",
+   "termo": "RC-094",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-OIDR26-03-019",
+   "arquivo": "rag/perolas/PER-OIDR26-03-019.md",
+   "sha256": "9f6010d47e8bb12a2245a80d538fca139b91bcefe4db5a7cd8dc08b073cef296",
+   "termo": "RC-192",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-OIDR26-03-020",
+   "arquivo": "rag/perolas/PER-OIDR26-03-020.md",
+   "sha256": "fc541695e41aa4cd10a44a26f462e2aa8fbd703b5c85ab95d5d8d47ea4ec1e5e",
+   "termo": "RC-414",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-OIDR26-03-021",
+   "arquivo": "rag/perolas/PER-OIDR26-03-021.md",
+   "sha256": "fd1341430e1bc6a9b7e76e6919c56b5a51d94c9939de6b0dc41dde26f8c935bc",
+   "termo": "RC-529",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-OIDR26-03-022",
+   "arquivo": "rag/perolas/PER-OIDR26-03-022.md",
+   "sha256": "8840e6f44307bace2c2d911632c2c43fde1497b898ab8c67f94fa8d42ea77e22",
+   "termo": "RC-585",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-OIDR26-03-023",
+   "arquivo": "rag/perolas/PER-OIDR26-03-023.md",
+   "sha256": "d3313ca8394d7d8096c46b18d76115cc3e5dfd40f11e812bae18142983b642f6",
+   "termo": "RC-593",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-OIDR26-03-024",
+   "arquivo": "rag/perolas/PER-OIDR26-03-024.md",
+   "sha256": "5d04f4b76f4bad40fe1ee1053322e135e111aabd8b47519d5e5ab82bfdd6df79",
+   "termo": "RC-839",
+   "status": "aprovada"
+  },
+  {
+   "id": "PER-OIDR26-03-025",
+   "arquivo": "rag/perolas/PER-OIDR26-03-025.md",
+   "sha256": "58221cebb41357d72ca333c09c5278840f9821fbc281f45b3a6819bcc06c5a89",
+   "termo": "RC-852",
+   "status": "aprovada"
+  }
+ ]
+}

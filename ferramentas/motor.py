@@ -52,12 +52,15 @@ import bisect
 import datetime
 import glob
 import hashlib
+import io
 import json
 import os
 import re
 import subprocess
 import sys
+import tokenize
 import unicodedata
+from pathlib import Path
 
 try:
     import tomllib
@@ -68,6 +71,7 @@ except ImportError:                                                     # pragma
 # O motor IMPORTA a regra — não a reimplementa (paridade com T13 garantida por construção).
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from loader import via_de, confianca_de  # noqa: E402
+from caminhos_acervo import caminho_atual  # noqa: E402
 
 # As duas famílias de linha do cadastro. Os dois estilos de aspa convivem no arquivo por
 # herança de ciclos, então a régua autoritativa é `medir_codigo` (executa o texto medido).
@@ -224,7 +228,7 @@ class Cfg:
         # A mesma exigência vale DENTRO das mesas: subchave que o motor não lê é regra
         # perdida, e código que não existe no cadastro é ordem órfã nascendo do .toml.
         formas = {"tese": {"pontos"}, "materializar": {"codigos"}, "ampliar": {"codigos", "substituir"},
-                  "vitorias": {"provas"}}
+                  "vitorias": {"provas"}, "perolas": {"aprovadas", "homologacao"}}
         for mesa, permitidas in formas.items():
             residuo = sorted(set(self.tabela(mesa)) - permitidas)
             if residuo:
@@ -306,6 +310,28 @@ class Fonte:
         b = self._fim_frase(self.mapa[min(m.end() - 1, len(self.mapa) - 1)])
         return True, a, b
 
+    def intervalo_ingresso(self, ingresso: str) -> tuple[int, int]:
+        """Delimita o payload de um derivado dentro da composição selada do ciclo.
+
+        A mesma fala pode aparecer em dois derivados. Nesse caso, o ingresso já
+        registrado no dossiê de triagem é a desambiguação auditável: a busca segue
+        byte a byte no ``original.txt`` consolidado, mas nunca escolhe silenciosamente
+        entre ocorrências idênticas de fontes diferentes.
+        """
+        cabecalho = re.compile(
+            rf"^===== INÍCIO FONTE \d+ · {re.escape(ingresso)} · [^\n]+ =====\n"
+            r"(?:[^\n]*\n){4}===== CONTEÚDO DERIVADO BYTE-A-BYTE =====\n",
+            re.M,
+        )
+        achados = list(cabecalho.finditer(self.raw))
+        if len(achados) != 1:
+            raise SystemExit(f"INGRESSO {ingresso!r} → {len(achados)} bloco(s) no original consolidado")
+        inicio = achados[0].end()
+        fim = re.search(rf"^===== FIM FONTE \d+ · {re.escape(ingresso)} =====$", self.raw[inicio:], re.M)
+        if not fim:
+            raise SystemExit(f"INGRESSO {ingresso!r}: marcador final ausente no original consolidado")
+        return inicio, inicio + fim.start()
+
     def localizar(self, ancora: str, fim: str | None = None) -> tuple[int, int, str]:
         """Garimpo: âncora frouxa → span exato estendido à fronteira de frase.
         0 ou >1 ocorrência aborta; é assim que o motor se protege da memória alheia."""
@@ -325,7 +351,7 @@ class Fonte:
 
 # ────────────────────────────────────────────────────────────────────────── pacote
 ASP = re.compile("«(.+?)»", re.S)
-UBLOCO = re.compile(r"\((U\d{4})")
+UBLOCO = re.compile(r"\((U\d+)")  # consolidado pode ultrapassar U9999
 
 
 class Pacote:
@@ -397,14 +423,41 @@ class Pacote:
                 if "[P" in b[:80] or b.strip().startswith("**[")]
 
 
+def aprovacoes_declaradas(ids_gerados: set[str], ids_selecionados: set[str],
+                           aprovadas: list, homologacao: str) -> set[str]:
+    """Valida o carimbo curatorial antes de ele liberar RAG ou escrita na Base.
+
+    A aprovação é declarativa no ``[perolas]`` do ciclo: cada ID é produzido
+    deterministamente pelo próprio pacote. Assim, não há aprovação implícita por código,
+    nem um ID de outro ciclo, retido ou fora do caderno que possa atravessar o portão.
+    """
+    if any(not isinstance(item, str) or not item.strip() for item in aprovadas):
+        sys.exit("[perolas] aprovadas precisa conter apenas IDs não vazios de pérolas do ciclo")
+    aprovadas_set = set(aprovadas)
+    if len(aprovadas_set) != len(aprovadas):
+        sys.exit("[perolas] aprovadas contém ID repetido — o carimbo curatorial deve ser unívoco")
+    desconhecidas = sorted(aprovadas_set - ids_gerados)
+    if desconhecidas:
+        sys.exit("[perolas] aprovadas nomeia ID que o pacote não produziu: " + ", ".join(desconhecidas))
+    fora_do_caderno = sorted(aprovadas_set - ids_selecionados)
+    if fora_do_caderno:
+        sys.exit("[perolas] aprovadas tenta liberar pérola fora da seleção do caderno: "
+                 + ", ".join(fora_do_caderno))
+    if aprovadas_set and not homologacao:
+        sys.exit("[perolas] aprovadas exige `homologacao` curatorial explícita")
+    if not aprovadas_set and homologacao:
+        sys.exit("[perolas] tem `homologacao`, mas não declara nenhuma pérola aprovada")
+    return aprovadas_set
+
+
 # ────────────────────────────────────────────────────────────────────────── ciclo
 class Ciclo:
     def __init__(self, sigla: str, raiz: str | None = None):
         self.raiz = raiz or self._raiz()
         self.sigla = sigla
         candidatos = [os.path.join(self.raiz, "ciclos", sigla, "ciclo.toml")]
-        for raio in ("apostilas", "apostilas/CONCLUIDAS"):
-            candidatos += glob.glob(os.path.join(self.raiz, raio, f"*{sigla.lstrip('P')}*", "ciclo.toml"))
+        apostilas = caminho_atual("fonte.apostilas_concluidas", Path(self.raiz))
+        candidatos += glob.glob(os.path.join(os.fspath(apostilas), f"*{sigla.lstrip('P')}*", "ciclo.toml"))
         self.toml = next((c for c in candidatos if os.path.exists(c)), None)
         if not self.toml:
             sys.exit(f"sem ciclo.toml para {sigla} (procurei em ciclos/{sigla}/ e nas pastas do ciclo)")
@@ -452,6 +505,9 @@ class Ciclo:
         self.observacoes = c.tabela("observacoes")
         self.travas = c.tabela("travas")
         self.lacunas = c.tabela("lacunas")
+        perolas = c.tabela("perolas")
+        self.perolas_aprovadas = list(perolas.get("aprovadas", []))
+        self.homologacao_perolas = str(perolas.get("homologacao", "")).strip()
         # `[vitorias]` é mesa com a chave `provas`: cada linha declara O QUE O CICLO CONSEGUIU
         # e onde está a prova (um trecho literal da `## Ampliação — <SIGLA>` da ficha). O dossiê
         # nasce do que foi conferido, nunca do que foi narrado.
@@ -521,7 +577,6 @@ class Ciclo:
         out = sorted(reg.values(), key=lambda r: (-r["pontos"], r["codigo"]))
         for n, r in enumerate(out, 1):
             r["id"] = f"PER-{self.sigla.lstrip('P')}-{n:03d}"
-            r["status"] = "candidata"
             r["selecionada"] = n <= self.max_perolas and r["pontos"] >= 0
             # O despacho quer o MOTIVO da recusa, não só a conta: "fora do teto" é outra
             # coisa que "pontuação negativa", e quem audita o caderno precisa ler a diferença.
@@ -534,6 +589,14 @@ class Ciclo:
                 r["recusa"] = (f"ficou fora do teto de {self.max_perolas} por pontuação "
                                f"({r['pontos']} pt(s), a #{n} do ranque)")
             r["lacuna"] = self.lacunas.get(r["codigo"], "")
+        aprovadas = aprovacoes_declaradas(
+            {r["id"] for r in out},
+            {r["id"] for r in out if r["selecionada"]},
+            self.perolas_aprovadas,
+            self.homologacao_perolas,
+        )
+        for r in out:
+            r["status"] = "aprovada" if r["id"] in aprovadas else "candidata"
         return out
 
     def mencoes(self, txt: str) -> list[str]:
@@ -708,10 +771,11 @@ def ancorario(c: Ciclo) -> None:
     'não transcrevemos tudo' não passa a significar 'não podemos responder se algo se
     perdeu'."""
     sel = c.candidatas()
+    status_por_span = {(r["codigo"], r["aspa"]): r["status"] for r in sel}
     reg = dict(sigla=c.sigla, politica_de_cobertura=c.cobertura,
                fonte=os.path.relpath(c.fonte.caminho, c.raiz), sha256=sha256(c.fonte.caminho),
                bytes=c.fonte.bytes, unidades_com_fala=len(c.fonte.unidades),
-               spans=[], recusa=[])
+               homologacao_perolas=c.homologacao_perolas, spans=[], recusa=[])
     for cod in c.pacote.blocos:
         for bullet in c.pacote.bullets(cod):
             a = ASP.search(bullet)
@@ -719,7 +783,8 @@ def ancorario(c: Ciclo) -> None:
                 continue
             aspa = " ".join(a.group(1).split())
             ok, i, f = c.fonte.verificar(aspa)
-            reg["spans"].append(dict(codigo=cod, u=c.fonte.uaddr(i), chars=[i, f], largura=f - i,
+            reg["spans"].append(dict(codigo=cod, status=status_por_span.get((cod, aspa), "candidata"),
+                                     u=c.fonte.uaddr(i), chars=[i, f], largura=f - i,
                                      verificada=ok, texto=aspa))
     for r in sel:
         if not r["selecionada"]:
@@ -740,7 +805,9 @@ def ancorario(c: Ciclo) -> None:
 
 
 def dossie(c: Ciclo) -> None:
-    sel = [r for r in c.candidatas() if r["selecionada"]]
+    candidatas = c.candidatas()
+    sel = [r for r in candidatas if r["selecionada"]]
+    aprovadas = [r for r in sel if r["status"] == "aprovada"]
     L = [f"# Dossiê RAG — {c.sigla} · {c.titulo}", "",
          "> Gerado pelo Motor Único (`ferramentas/motor.py`) no formato do despacho de 29/08/2026. "
          "Nenhuma aspa digitada à mão: toda citação foi recortada do `original.txt` pelo índice de "
@@ -753,15 +820,21 @@ def dossie(c: Ciclo) -> None:
          f"| Cobertura | {c.cobertura} |",
          f"| Termos tocados | {len(c.pacote.blocos)} códigos, {len([k for k in c.pacote.blocos if k in c.fichas])} com arquivo |",
          f"| Citações verificadas | {len(c.pacote.pares)} |",
-         f"| Caderno | {len(sel)} pérolas de {len(c.candidatas())} candidatas |",
+         f"| Caderno | {len(sel)} pérolas selecionadas de {len(candidatas)} candidatas; {len(aprovadas)} aprovadas |",
+         f"| Homologação curatorial | {c.homologacao_perolas or '—'} |",
          f"| Teto curatorial | {c.teto} |",
          f"| Livro-razão | `ancorario_{c.sigla}.json` |", "",
          *vitorias_para_dossie(c),
          "## 2 · Resumo executivo da tese", ""]
     L += ([f"* {t}" for t in c.tese] or ["* (declarações de tese em `ciclo.toml`, seção ausente)"])
-    L += ["", "## 3 · O Caderno de Pérolas", "",
-          "Toda pérola nasce `candidata`. O corpus RAG só recebe a que tiver carimbo do Curador "
-          "(`aprovada`) — o garimpo é do agente, a escolha é do curador.", ""]
+    status_caderno = (
+        f"Das {len(sel)} pérolas selecionadas, {len(aprovadas)} receberam o carimbo curatorial `aprovada` "
+        "declarado em `[perolas]`; somente estas seguem para o corpus RAG e para o pouso autorizado na Base."
+        if aprovadas else
+        "Toda pérola nasce `candidata`. O corpus RAG só recebe a que tiver carimbo do Curador "
+        "(`aprovada`) — o garimpo é do agente, a escolha é do curador."
+    )
+    L += ["", "## 3 · O Caderno de Pérolas", "", status_caderno, ""]
     for p in sel:
         _, i, f = c.fonte.verificar(p["aspa"])
         L += [f"### {p['id']} · {p['titulo']}", "",
@@ -786,7 +859,9 @@ def dossie(c: Ciclo) -> None:
           f"* **Fila aberta**: {len(fila)} código(s) tocado(s) por esta fonte e ainda sem arquivo — "
           "a fila nasce deste produto, e não de memória.", ""]
     destino = os.path.join(c.dir, f"DOSSIE-RAG_{c.sigla}.md")
-    open(destino, "w", encoding="utf-8").write("\n".join(L) + "\n")
+    # A lista termina com um separador lógico; remover apenas esse vazio evita uma linha
+    # em branco no EOF sem alterar os blocos do dossiê.
+    open(destino, "w", encoding="utf-8").write("\n".join(L).rstrip() + "\n")
     print(f"dossiê: {os.path.relpath(destino, c.raiz)} · {len(L)} linhas · {os.path.getsize(destino):,} B"
           .replace(",", "."))
 
@@ -854,10 +929,23 @@ def materializar(c: Ciclo) -> None:
             slug = re.sub(r"-{2,}", "-", re.sub(r"[^A-Za-z0-9]+", "-", fold(t[1].replace("´", " ")))).strip("-")
             arq = os.path.join(c.raiz, "termos", f"{cod}-{slug.lower()}.md")
         arestas = c.base.arestas(cod)
-        rels = [x.strip() for x in (t[6] or "").split(";") if x.strip()]
-        com_aresta = [r for r in rels if any(r in (a[0], a[2]) for a in arestas)]
+        # A tabela da ficha é o espelho bidirecional que T14 confere: relações
+        # declaradas pelo próprio termo, relações declaradas por outro termo e arestas
+        # tipadas. Materializar só a metade "de saída" deixa a ficha nova truncada.
+        diretos = {x.strip() for x in (t[6] or "").split(";") if x.strip()}
+        reversos = {
+            outro_cod for outro_cod, outro in c.base.termos.items()
+            if outro_cod != cod and cod in {x.strip() for x in str(outro[6] or "").split(";")}
+        }
+        por_arestas = {
+            b if a == cod else a
+            for a, _tipo, b, _fonte in arestas if cod in (a, b)
+        }
+        rels = sorted((diretos | reversos | por_arestas) - {cod})
+        com_aresta = [r for r in rels if any(cod in (a[0], a[2]) and r in (a[0], a[2])
+                                              for a in arestas)]
         sem_arquivo = [r for r in rels if r not in c.fichas]
-        obras = [x for x in (t[5] or []) if not str(x).startswith("P")]
+        obras = [x for x in(t[5] or []) if not str(x).startswith("P")]
         secao = c.secao_limpa(cod)
         rebatidas = c.log_rebaixado.get(cod, [])
         L = [f"# {t[1]} — {cod}", "",
@@ -900,6 +988,10 @@ def materializar(c: Ciclo) -> None:
         assert tomllib.loads(corpo[4:corpo.find("\n+++\n", 4)]).get("codigo") == cod, \
             f"{cod}: frontmatter gerado não round-tripa"
         open(arq, "w", encoding="utf-8").write(corpo)
+        # O ciclo continua vivo após este passo (`tudo` ainda amplia, vira e vincula).
+        # Registrar já a ficha recém-materializada garante que esses passos a incluam,
+        # sobretudo na sincronização do frontmatter depois de `ficha=False → True`.
+        c.fichas[cod] = arq
         assert f"## Ampliação — {c.sigla}" in corpo, f"{cod}: a seção do ciclo não entrou na ficha"
         print(f"  ficha: {os.path.relpath(arq, c.raiz)} · {os.path.getsize(arq):,} B · "
               f"{len(ASP.findall(corpo))} aspa(s)".replace(",", "."))
@@ -943,7 +1035,9 @@ def virar_ficha(c: Ciclo) -> None:
 
 
 def status(c: Ciclo) -> None:
-    sel = [r for r in c.candidatas() if r["selecionada"]]
+    candidatas = c.candidatas()
+    sel = [r for r in candidatas if r["selecionada"]]
+    aprovadas = [r for r in sel if r["status"] == "aprovada"]
     print(f"ciclo {c.sigla} · config {os.path.relpath(c.toml, c.raiz)}")
     print(f"  fonte {os.path.relpath(c.fonte.caminho, c.raiz)}: {c.fonte.bytes:,} B · "
           f"{len(c.fonte.unidades)} unidades com fala".replace(",", "."))
@@ -953,7 +1047,10 @@ def status(c: Ciclo) -> None:
     print(f"  malha: {len(c.pacote.blocos)} codigo(s) a vincular - "
           f"{len([x for x in c.pacote.blocos if x in c.fichas])} fichas a ampliar - "
           f"{len([x for x in c.materializar if x not in c.fichas])} fichas a criar")
-    print(f"  caderno: {len(sel)} pérolas de {len(c.candidatas())} candidatas (teto {c.max_perolas})")
+    print(f"  caderno: {len(sel)} pérolas selecionadas de {len(candidatas)} candidatas · "
+          f"{len(aprovadas)} aprovada(s) (teto {c.max_perolas})")
+    if aprovadas:
+        print(f"  homologação: {c.homologacao_perolas}")
     print(f"  portões ativos {''.join(c.portoes_ativos)} · teto {c.teto} · baseline {c.baseline[:7]}")
     if c.vitorias:
         for cod, af, prova, ok in vitorias_do_ciclo(c):
@@ -1014,7 +1111,7 @@ def novo(txt: str, sigla: str = "") -> None:
         open(cfg, "w", encoding="utf-8").write("\n".join([
             f"# ciclo.toml — ciclo leve {sigla} · andaime escrito por `motor.py novo`",
             "# ──────────────────────────────────────────────────────────────────────────────",
-            "# Toda curadoria mora AQUI. Regras vigentes: DESPACHO-DA-ESTEIRA-LEVE-2026-08-29.md.",
+            "# Toda curadoria mora AQUI. Regras vigentes: ../../admin/logs/DESPACHO-DA-ESTEIRA-LEVE-2026-08-29.md.",
             "# O que está vazio abaixo é pendência do aplicador, não estado da Base: o portão D",
             "# confere cada número declarado e o livro-razão responde pelo que foi recusado.",
             "",
@@ -1045,6 +1142,12 @@ def novo(txt: str, sigla: str = "") -> None:
             "termos = 0       # termos novos: só por pérola aprovada, com linha no §4 do dossiê",
             "relacoes = 0     # arestas novas: tipada + evidência + selo datado, ou nada",
             "vinculos = 0    # códigos que passam a carregar a sigla do ciclo na lista de fontes",
+            "",
+            "[perolas]",
+            "# IDs que receberam aprovação explícita do Curador; o Motor rejeita IDs repetidos,",
+            "# inexistentes ou fora do caderno selecionado. Sem aprovação, a lista permanece vazia.",
+            "aprovadas = []",
+            "homologacao = \"\"",
             "",
             "[materializar]",
             "codigos = []      # fichas a CRIAR (ordem do Curador; só com bloco no pacote)",
@@ -1099,26 +1202,34 @@ def novo(txt: str, sigla: str = "") -> None:
           "leitura integral com `fatias`, aspas cortadas com `busca`, portões com `tudo`")
 
 
-def busca(c: Ciclo, termo: str, limite: int = 20) -> None:
+def busca(c: Ciclo, termo: str, limite: int = 20, ingresso: str = "") -> None:
     """Corta a aspa em vez de deixá-la digitada: para cada ocorrência do termo, imprime o
     período verbatim com endereço — o que se cola no pacote é o que o motor acabou de tirar
     do bruto, e o portão B confere outra vez na saída. Nenhuma aspa digitada à mão significa
-    isto, não «prometo transcrever certo»."""
+    isto, não «prometo transcrever certo».
+
+    ``ingresso`` é opcional e só estreita a busca ao payload daquele derivado no mesmo
+    ``original.txt``. Ele resolve duplicata literal entre fontes sem abrir fonte externa.
+    """
     if not termo:
         sys.exit("busca pede a expressão-âncora: --ciclo <SIGLA> busca \"trecho do bruto\"")
     f = c.fonte
-    achados = [m.start() for m in re.finditer(re.escape(termo), f.raw, re.I)]
+    ini, fim = f.intervalo_ingresso(ingresso) if ingresso else (0, len(f.raw))
+    achados = [ini + m.start() for m in re.finditer(re.escape(termo), f.raw[ini:fim], re.I)]
+    escopo = f" no ingresso {ingresso}" if ingresso else ""
     if not achados:
-        sys.exit(f"busca: {termo!r} não ocorre no bruto — âncora inventada é o que a casa mais "
+        sys.exit(f"busca: {termo!r} não ocorre no bruto{escopo} — âncora inventada é o que a casa mais "
                  f"teme; confira a grafia que o STT escreveu (`fatias` mostra o que existe)")
     for n, i in enumerate(achados[:limite], 1):
         a = i
-        while a > 0 and f.raw[a - 1] != "\n" and not FRASE.search(f.raw[a - 1]):
+        while a > ini and f.raw[a - 1] != "\n" and not FRASE.search(f.raw[a - 1]):
             a -= 1
         b = i + len(termo)
-        while b < len(f.raw) and not FRASE.search(f.raw[b - 1]):
+        while b < fim and not FRASE.search(f.raw[b - 1]):
             b += 1
         span = " ".join(f.raw[a:b].split())
+        # A checagem do pacote é global; esta ainda prova que o recorte impresso vem do
+        # trecho delimitado do original quando a mesma fala ocorre em outro ingresso.
         ok, _, _ = f.verificar(span)
         print(f"  [{n}/{len(achados)}] {f.uaddr(a)} · chars {a}-{b} · {len(span)} c · "
               f"{'✓ verifica' if ok else '✗ NÃO VERIFICA'}")
@@ -1155,11 +1266,11 @@ def fatias(c: Ciclo, largura: int = 15000) -> None:
 
 
 # ───────────────────────────────────────────────────────────────────────── selftest
-CASOS_SELFTEST = 9        # a régua é UMA: o `9/9` impresso e o código de saída vêm daqui
+CASOS_SELFTEST = 10       # a régua é UMA: o total impresso e o código de saída vêm daqui
 
 
 def selftest() -> int:
-    """As 9 anomalias canônicas da casa, plantadas numa fonte falsa. Cada portão tem de
+    """As anomalias canônicas da casa, plantadas numa fonte falsa. Cada portão tem de
     pegar a sua. Sem isto, 'menos código por ciclo' significa só 'menos freio'."""
     import tempfile
     print("SELFTEST · anomalias plantadas, todas têm de ser detectadas")
@@ -1239,6 +1350,17 @@ def selftest() -> int:
             "`[vitorias]` deixaria o dossiê narrar uma vitória que a ficha não contém — o "
             "produto passaria a valer mais do que a prova")
         pegou += 1
+        aprovadas = aprovacoes_declaradas({"PER-001", "PER-002"}, {"PER-001"},
+                                          ["PER-001"], "carimbo explícito")
+        try:
+            aprovacoes_declaradas({"PER-001"}, {"PER-001"}, ["PER-999"], "carimbo explícito")
+            id_alheio_barrado = False
+        except SystemExit:
+            id_alheio_barrado = True
+        chk(aprovadas == {"PER-001"} and id_alheio_barrado,
+            "10 · aprovação é declarativa e ID alheio é barrado antes do pouso",
+            "o carimbo curatorial aceitaria ID alheio ou não chegaria ao RAG/Base")
+        pegou += 1
     print(f"  selftest: {pegou}/{CASOS_SELFTEST}")
     return pegou
 
@@ -1248,11 +1370,11 @@ def main() -> None:
     ap = argparse.ArgumentParser(description="Motor Único da esteira leve")
     ap.add_argument("--ciclo", default="")
     ap.add_argument("passo", nargs="?", default="status",
-                    choices=["status", "entrada", "ancorario", "dossier", "rag", "materializar",
+                    choices=["status", "entrada", "verbatim", "delta", "ancorario", "dossier", "rag", "materializar",
                              "virar", "ampliar", "vincular", "portoes", "tudo", "novo", "busca",
                              "fatias", "selftest"])
     ap.add_argument("args", nargs="*", default=[],
-                    help="`novo`: o TXT recebido · `busca`: a expressão-âncora [limite] · "
+                    help="`novo`: o TXT recebido · `busca`: a expressão-âncora [limite] [ingresso_id] · "
                          "`fatias`: largura em chars")
     a = ap.parse_args()
     if a.passo == "novo":
@@ -1276,7 +1398,8 @@ def main() -> None:
         ap.error("--ciclo <SIGLA> é obrigatório (exceto para selftest)")
     c = Ciclo(a.ciclo)
     if a.passo == "busca":
-        busca(c, a.args[0] if a.args else "", int(a.args[1]) if len(a.args) > 1 else 20)
+        busca(c, a.args[0] if a.args else "", int(a.args[1]) if len(a.args) > 1 else 20,
+              a.args[2] if len(a.args) > 2 else "")
         sys.exit(0)
     if a.passo == "fatias":
         fatias(c, int(a.args[0]) if a.args else 15000)
@@ -1286,6 +1409,10 @@ def main() -> None:
             status(c)
         elif a.passo == "entrada":
             portao_A(c)
+        elif a.passo == "verbatim":
+            portao_B(c)
+        elif a.passo == "delta":
+            portao_D(c)
         elif a.passo == "ancorario":
             ancorario(c)
         elif a.passo == "dossier":
@@ -1330,7 +1457,58 @@ def main() -> None:
 
 # ──────────────────────────── o ciclo leve sobre fichas que já existem, e a malha
 MARCACICLO = "**Materialização (não é criação).**"
-FONTE_LINHA = "| {sigla} | {titulo} (palestra) | — | transcrição automatizada; citação |"
+
+
+def linha_fonte_para_tabela(cabecalho: str, sigla: str, titulo: str) -> str:
+    """Molda a linha da fonte à aridade da tabela já existente na ficha.
+
+    Fichas históricas usam tanto tabelas de três quanto de quatro colunas em
+    ``## Fontes``. A linha do ciclo precisa respeitar o cabeçalho encontrado, sem
+    reformatar as fontes legadas nem produzir uma tabela Markdown malformada.
+    """
+    colunas = cabecalho.count("|") - 1
+    if colunas < 2:
+        raise ValueError(f"cabeçalho de fontes sem colunas suficientes: {cabecalho!r}")
+    campos = [sigla, f"{titulo} (palestra)"]
+    campos.extend("—" for _ in range(max(0, colunas - len(campos) - 1)))
+    campos.append("transcrição automatizada; citação")
+    return "| " + " | ".join(campos) + " |"
+
+
+def _campo_fontes_da_linha(linha: str) -> tuple[int, int] | None:
+    """Intervalo do sexto campo (lista de fontes) de uma linha de ``TERMOS``.
+
+    Procurar o último ``[]`` da linha parecia suficiente até o cadastro ter comentários
+    com colchetes e fontes vazias: a sigla acabava no comentário, ou nascia ``[, sigla]``.
+    O tokenizador preserva o texto original, mas conta somente vírgulas da tupla externa.
+    """
+    try:
+        tokens = tokenize.generate_tokens(io.StringIO(linha).readline)
+        profundidade, campo, inicio = 0, 0, None
+        for tok in tokens:
+            if tok.type != tokenize.OP:
+                continue
+            op, coluna = tok.string, tok.start[1]
+            if op == "(":
+                profundidade += 1
+                if profundidade == 1:
+                    campo, inicio = 0, tok.end[1]
+            elif op in "[{":
+                profundidade += 1
+            elif op in "]}":
+                profundidade -= 1
+            elif op == ")":
+                if profundidade == 1 and campo == 5 and inicio is not None:
+                    return inicio, coluna
+                profundidade -= 1
+            elif op == "," and profundidade == 1:
+                if campo == 5 and inicio is not None:
+                    return inicio, coluna
+                campo += 1
+                inicio = tok.end[1]
+    except (tokenize.TokenError, IndentationError):
+        return None
+    return None
 
 
 def inscreve_fonte(txt: str, cod: str, sigla: str) -> tuple[str, str]:
@@ -1344,23 +1522,60 @@ def inscreve_fonte(txt: str, cod: str, sigla: str) -> tuple[str, str]:
     mudou = "sem-linha"
     linhas = txt.split("\n")
     for n, l in enumerate(linhas):
-        m = re.match(r"^(\s*)\(\s*[\"']" + cod + "[\"']\s*,", l)
-        if not m:
+        if not re.match(r"^\s*\(\s*[\"']" + cod + "[\"']\s*,", l):
             continue
-        abre, fecha = l.rfind("["), l.rfind("]")
-        if abre < 0 or fecha <= abre:
+        intervalo = _campo_fontes_da_linha(l)
+        if not intervalo:
             mudou = "sem-lista"
             break
-        dentro = l[abre:fecha]
-        if re.search(r"[\"']" + sigla + r"[\"']", dentro):
+        inicio, fim = intervalo
+        segmento = l[inicio:fim]
+        lista = segmento.strip()
+        if not (lista.startswith("[") and lista.endswith("]")):
+            mudou = "sem-lista"
+            break
+        if re.search(r"[\"']" + re.escape(sigla) + r"[\"']", lista):
             mudou = "ja-estava"
             break
-        novo = dentro.rstrip()
-        novo = novo + f', "{sigla}"]' + l[fecha + 1:]               # fecha a lista, reabre o resto
-        linhas[n] = l[:abre] + novo
+        if lista == "[]":
+            nova_lista = f'["{sigla}"]'
+        else:
+            nova_lista = lista[:-1].rstrip() + f', "{sigla}"]'
+        # Mantém a indentação/espaço que cerca o campo e nunca toca em comentários ou
+        # nos índices [0]/[1] dos campos anteriores.
+        prefixo = segmento[:len(segmento) - len(segmento.lstrip())]
+        sufixo = segmento[len(segmento.rstrip()):]
+        linhas[n] = l[:inicio] + prefixo + nova_lista + sufixo + l[fim:]
         mudou = "inseriu"
         break
     return "\n".join(linhas), mudou
+
+
+def sincronizar_frontmatter(c: Ciclo, codigos: list[str]) -> int:
+    """Espelha no frontmatter o cadastro que acabou de receber o vínculo do ciclo.
+
+    O cadastro é a fonte autoritativa de ``fontes``. Atualizar somente
+    ``dados_termos.py`` deixaria a ficha visualmente ampliada, mas quebraria a
+    paridade TOML ↔ cadastro; por isso a sincronização recompõe o envelope com o
+    mesmo molde ``fm_toml`` e preserva todo o corpo histórico da ficha.
+    """
+    hoje = datetime.date.today().isoformat()
+    sincronizadas = 0
+    for cod in codigos:
+        arq = c.fichas.get(cod)
+        if not arq:
+            continue
+        corpo = open(arq, encoding="utf-8").read()
+        if not corpo.startswith("+++\n"):
+            continue
+        fim = corpo.find("\n+++\n", 4)
+        if fim < 0:
+            sys.exit(f"{cod}: frontmatter não fechado; vínculo não pode desselar a ficha")
+        atualizado = fm_toml(c.base.termos[cod], hoje) + corpo[fim + 5:]
+        if atualizado != corpo:
+            open(arq, "w", encoding="utf-8").write(atualizado)
+            sincronizadas += 1
+    return sincronizadas
 
 
 def vincular(c: Ciclo) -> None:
@@ -1378,9 +1593,10 @@ def vincular(c: Ciclo) -> None:
         open(caminho, "w", encoding="utf-8").write(txt)
         c.base = Base(c.raiz, c.sigla)                              # relê: a Base mudou de estado
     c.base = Base(c.raiz, c.sigla)
+    frontmatter = sincronizar_frontmatter(c, sorted(c.pacote.blocos))
     resumo = " · ".join(f"{k}: {v}" for k, v in sorted(estados.items()))
     chk(not estados.get("sem-linha") and not estados.get("sem-lista"),
-        f"vínculos do ciclo na malha — {resumo}",
+        f"vínculos do ciclo na malha — {resumo}; frontmatter sincronizado: {frontmatter}",
         f"não consegui vincular: " + "; ".join(
             f"{n} código(s) {k}" for k, n in estados.items() if k in ("sem-linha", "sem-lista")))
 
@@ -1414,19 +1630,33 @@ def ampliar(c: Ciclo) -> None:
                      else corpo.rstrip() + "\n\n" + secao)
             substituídas += 0
             novas += 0
-        # a tabela de Fontes da ficha também precisa ficar coerente com a seção que entrou
+        # A tabela de Fontes precisa ficar coerente com a seção que entrou. Há fichas
+        # legadas com aridades diferentes; a linha do ciclo é moldada pelo cabeçalho e
+        # também é corrigida idempotentemente se uma execução anterior a escreveu torta.
         secao_fontes = re.search(r"^## Fontes\s*$(.*?)(?=^## |\Z)", corpo, re.M | re.S)
-        if secao_fontes and f"| {c.sigla} |" not in secao_fontes.group(1) and f"{c.sigla}." not in secao_fontes.group(1):
-            i_fontes = corpo.index("## Fontes")
-            j = corpo.find("|---|", i_fontes)
-            if j >= 0:
-                linha = FONTE_LINHA.format(sigla=c.sigla, titulo=c.titulo)
-                k = corpo.index("\n", j)
-                corpo = corpo[:k + 1] + linha + corpo[k:]
-            else:
-                # `## Fontes` sem tabela markdown (prosa): acrescenta a sigla como linha de prosa
+        if secao_fontes:
+            linhas_fontes = [linha for linha in secao_fontes.group(1).splitlines() if linha.startswith("|")]
+            cabecalho = next((linha for linha in linhas_fontes if not re.fullmatch(r"\|[-:| ]+\|", linha)), None)
+            if cabecalho:
+                linha = linha_fonte_para_tabela(cabecalho, c.sigla, c.titulo)
+                padrao = rf"^\|\s*{re.escape(c.sigla)}\s*\|[^\n]*$"
+                if re.search(padrao, corpo, re.M):
+                    corpo = re.sub(padrao, linha, corpo, flags=re.M)
+                else:
+                    i_fontes = corpo.index("## Fontes")
+                    j = corpo.find("|---|", i_fontes)
+                    if j < 0:
+                        sys.exit(f"{cod}: tabela de Fontes sem régua Markdown")
+                    k = corpo.index("\n", j)
+                    corpo = corpo[:k + 1] + linha + "\n" + corpo[k + 1:]
+            elif f"{c.sigla}." not in secao_fontes.group(1):
+                # `## Fontes` sem tabela Markdown (prosa): acrescenta a sigla como prosa.
+                i_fontes = corpo.index("## Fontes")
                 k = corpo.index("\n", i_fontes)
                 corpo = corpo[:k + 1] + f"{c.sigla}.\n" + corpo[k + 1:]
+        # A seção é montada com separadores lógicos; no arquivo final há somente uma
+        # quebra de linha terminal, nunca uma linha em branco residual no EOF.
+        corpo = corpo.rstrip() + "\n"
         open(arq, "w", encoding="utf-8").write(corpo)
         assert f"## Ampliação — {c.sigla}" in corpo, f"{cod}: a seção não entrou na ficha"
         print(f"  · {cod}: seção do ciclo {'substituída (reexecução)' if m else 'inserida'} em "
@@ -1452,6 +1682,7 @@ def _selftest_vincular(tmp: str) -> bool:
         "TERMOS = [",
         '    ("RC-001", "Javé", A[0], A[1], P, ["B031", \'P2020-08-08\'], "RC-017", True),',
         '    (\'RC-002\', "Rebelião", B[0], B[1], P, [\'B031\'], "", False),',
+        '    ("RC-003", "Vazio", C[0], C[1], P, [], "", False),  # [comentário que não é fonte]',
         "]",
         'RELACOES = [',
         '    ("RC-001", "sinônimo", "RC-037", "B031"),',
@@ -1461,8 +1692,10 @@ def _selftest_vincular(tmp: str) -> bool:
     b, e2 = inscreve_fonte(a, "RC-001", "P2023-12-17")
     _, e3 = inscreve_fonte(a, "RC-002", "P2023-12-17")
     _, e4 = inscreve_fonte(a, "RC-999", "P2023-12-17")
-    return (e1, e2, e3, e4) == ("inseriu", "ja-estava", "inseriu", "sem-linha") and a == b \
-        and '("RC-001", "sinônimo", "RC-037", "B031"),' in a
+    vazio, e5 = inscreve_fonte(a, "RC-003", "P2023-12-17")
+    return (e1, e2, e3, e4, e5) == ("inseriu", "ja-estava", "inseriu", "sem-linha", "inseriu") and a == b \
+        and '("RC-001", "sinônimo", "RC-037", "B031"),' in a \
+        and 'P, ["P2023-12-17"], "", False),  # [comentário que não é fonte]' in vazio
 # ──────────────────────────────────── a vitória do ciclo: declarada, e provada na ficha
 LINHA_VITORIA = re.compile(r"^(RC-\d{3})\s*=\s*(.+)$")
 

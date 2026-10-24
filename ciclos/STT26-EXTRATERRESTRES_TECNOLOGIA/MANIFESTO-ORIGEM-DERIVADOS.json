@@ -1,0 +1,260 @@
+{
+  "artefato": "Manifesto de origem da fonte consolidada do ciclo STT",
+  "gerado_em": "2026-10-22",
+  "eixo": "EXTRATERRESTRES_TECNOLOGIA",
+  "lotes": [
+    "STT26-07"
+  ],
+  "fonte_operacional": "somente normalizados_stt_lote_2026-10/",
+  "fontes_brutas_abertas": 0,
+  "despacho": {
+    "caminho": "triagem_stt_lote_2026-10/EIXOS/EXTRATERRESTRES_TECNOLOGIA/DESPACHO-EIXO-TEMPLATE.json",
+    "sha256": "89b0103947d19589163a2ecc9a7003c76e8d22ea518f59f5e4e013a512c41ce3",
+    "resultado": "CONCLUIDO",
+    "autorizacao_para_abrir_ciclo": true,
+    "contagens_por_lote": {
+      "STT26-07": {
+        "AUTORIZAR-COTEJO-AMPLIADO": 22,
+        "DESCARTAR-DO-LOTE": 3
+      }
+    }
+  },
+  "sha256_original_consolidado": "e38588fcbd5897def1e7c4cff4f1a4966b5cf4f344bde3b8205c215b7e42acd0",
+  "fontes": [
+    {
+      "ordem": 1,
+      "lote_id": "STT26-07",
+      "ingresso_id": "STT-2026-10-032",
+      "arquivo_derivado": "normalizados_stt_lote_2026-10/2024-05_010_zR8HrHQBnNA_Deuses_na_Terra_Imperio_Assirio_Arcadianos_e_Zecharia_Sitchin-_ATLAN_10.md",
+      "titulo": "Deuses na Terra, Império Assírio, Arcadianos e Zecharia Sitchin- ATLAN #10",
+      "duracao": "00:12:19",
+      "sha256_derivado": "3b25d4421e656a8962fa51f606c50527db0724d7b5da3c40de2dfc9f406b6e81",
+      "bytes_payload": 10079,
+      "inicio_byte_payload": 759,
+      "fim_byte_exclusivo_payload": 10838
+    },
+    {
+      "ordem": 2,
+      "lote_id": "STT26-07",
+      "ingresso_id": "STT-2026-10-036",
+      "arquivo_derivado": "normalizados_stt_lote_2026-10/2024-06_012_l6dDPRC64Qw_Fisica_Quantica_Buda_Iluminacao_Nirvana_e_o_Progresso_Mental_-_ATLAN_12.md",
+      "titulo": "Física Quântica, Buda, Iluminação, Nirvana e o Progresso Mental  - ATLAN #12",
+      "duracao": "00:16:17",
+      "sha256_derivado": "2a2fa7e3a4fbf28471e5a95ff163bc8615d68882892511e3687afdf41c44d320",
+      "bytes_payload": 13462,
+      "inicio_byte_payload": 11323,
+      "fim_byte_exclusivo_payload": 24785
+    },
+    {
+      "ordem": 3,
+      "lote_id": "STT26-07",
+      "ingresso_id": "STT-2026-10-048",
+      "arquivo_derivado": "normalizados_stt_lote_2026-10/2024-08_021_VZ-0RU20j3k_Enoque_Deuses_Extraterrestres_Jave_Jesus_e_a_Genesis_da_Biblia_-_ATLAN_21.md",
+      "titulo": "Enoque, Deuses Extraterrestres, Javé, Jesus e a Gênesis da Bíblia - ATLAN #21",
+      "duracao": "00:15:17",
+      "sha256_derivado": "8547119c8f26787d193ff18660795355fb7914bdac55187a8fbc600774837f4e",
+      "bytes_payload": 11997,
+      "inicio_byte_payload": 25272,
+      "fim_byte_exclusivo_payload": 37269
+    },
+    {
+      "ordem": 4,
+      "lote_id": "STT26-07",
+      "ingresso_id": "STT-2026-10-081",
+      "arquivo_derivado": "normalizados_stt_lote_2026-10/2024-11_001_3l8Ut_ll9FM_A_Inteligencia_Artificial_ja_acordou.md",
+      "titulo": "A Inteligência Artificial já acordou!",
+      "duracao": "00:16:22",
+      "sha256_derivado": "73d0ebc0f65cd64f85f966d70a2c1f63d8f26b5e9802e67ce99048f6fa999abf",
+      "bytes_payload": 14389,
+      "inicio_byte_payload": 37678,
+      "fim_byte_exclusivo_payload": 52067
+    },
+    {
+      "ordem": 5,
+      "lote_id": "STT26-07",
+      "ingresso_id": "STT-2026-10-092",
+      "arquivo_derivado": "normalizados_stt_lote_2026-10/2024-12_001_Wp0T7Rzj_Z0_Pessoas_DESAPARECEM_por_CONTA_DISSO.md",
+      "titulo": "Pessoas DESAPARECEM por CONTA DISSO",
+      "duracao": "00:08:15",
+      "sha256_derivado": "434137a5acd142366c002d4ec8abe4cb1f9e307c791dea9b4776f915a0f17f72",
+      "bytes_payload": 8284,
+      "inicio_byte_payload": 52471,
+      "fim_byte_exclusivo_payload": 60755
+    },
+    {
+      "ordem": 6,
+      "lote_id": "STT26-07",
+      "ingresso_id": "STT-2026-10-099",
+      "arquivo_derivado": "normalizados_stt_lote_2026-10/2025-01_001_1z1vvzj09qA_Nem_Todos_os_Deuses_Eram_Astronautas_-_PALESTRA_COMPLETA_Jan_Val_Ellam.md",
+      "titulo": "Nem Todos os Deuses Eram Astronautas - PALESTRA COMPLETA (Jan Val Ellam)",
+      "duracao": "02:39:44",
+      "sha256_derivado": "55c96706f887e6a9633ebdb656c5f4eed81f4f40b3874d8da035cdee95300f00",
+      "bytes_payload": 112124,
+      "inicio_byte_payload": 61231,
+      "fim_byte_exclusivo_payload": 173355
+    },
+    {
+      "ordem": 7,
+      "lote_id": "STT26-07",
+      "ingresso_id": "STT-2026-10-121",
+      "arquivo_derivado": "normalizados_stt_lote_2026-10/2025-03_001_mEIYRGJ3nBQ_Ufologia_Exercitos_Extraterrestres_Programas_Secretos_OVNI_s_e_Abducoes_-_ATLAN_48.md",
+      "titulo": "Ufologia, Exércitos, Extraterrestres, Programas Secretos, OVNI's e Abduções - ATLAN #48",
+      "duracao": "00:12:20",
+      "sha256_derivado": "3dcc792dab5bb0d5a645908b4e22b4eb1dd95127a2ace3a5bc4dfd3985d0cb82",
+      "bytes_payload": 11195,
+      "inicio_byte_payload": 173861,
+      "fim_byte_exclusivo_payload": 185056
+    },
+    {
+      "ordem": 8,
+      "lote_id": "STT26-07",
+      "ingresso_id": "STT-2026-10-119",
+      "arquivo_derivado": "normalizados_stt_lote_2026-10/2025-03_001_ceZr_Yvj_zY_Contato_com_Racas_Alienigenas_Extraterrestres_Entidades_e_Espiritos-_ATLAN_49.md",
+      "titulo": "Contato com Raças Alienígenas, Extraterrestres, Entidades e Espíritos- ATLAN #49",
+      "duracao": "00:28:21",
+      "sha256_derivado": "c511b5174d83647bb1d2b024bf5613517e24dafa078c7c983e8f0570a16f6590",
+      "bytes_payload": 21786,
+      "inicio_byte_payload": 185550,
+      "fim_byte_exclusivo_payload": 207336
+    },
+    {
+      "ordem": 9,
+      "lote_id": "STT26-07",
+      "ingresso_id": "STT-2026-10-135",
+      "arquivo_derivado": "normalizados_stt_lote_2026-10/2025-04_001_t6slf7s9iNk_Os_Registros_Akashicos_sao_parte_do_Inconsciente_Coletivo.md",
+      "titulo": "Os Registros Akáshicos são parte do Inconsciente Coletivo?",
+      "duracao": "00:14:40",
+      "sha256_derivado": "9769c1ce34b191d5bc09a3972b134b50058be2213f0e7f9b6e9cd9e8e387c0ac",
+      "bytes_payload": 10068,
+      "inicio_byte_payload": 207787,
+      "fim_byte_exclusivo_payload": 217855
+    },
+    {
+      "ordem": 10,
+      "lote_id": "STT26-07",
+      "ingresso_id": "STT-2026-10-148",
+      "arquivo_derivado": "normalizados_stt_lote_2026-10/2025-06_001_GT_PGHCTdso_O_Manual_da_Busca_Filosofica_do_Sentido_da_Vida_por_Jan_Val_Ellam.md",
+      "titulo": "O Manual da Busca Filosófica do Sentido da Vida por Jan Val Ellam",
+      "duracao": "00:17:03",
+      "sha256_derivado": "ed557d38e54e4399090ffd09d69b04ac7a063b6ecc16672f51d9410fb61c915f",
+      "bytes_payload": 12384,
+      "inicio_byte_payload": 218320,
+      "fim_byte_exclusivo_payload": 230704
+    },
+    {
+      "ordem": 11,
+      "lote_id": "STT26-07",
+      "ingresso_id": "STT-2026-10-153",
+      "arquivo_derivado": "normalizados_stt_lote_2026-10/2025-06_001_UPHv1bYNIdw_De_Pietro_Ubaldi_a_Einstein_-_A_Teoria_da_Queda_Espiritual.md",
+      "titulo": "De Pietro Ubaldi a Einstein: A Teoria da Queda Espiritual",
+      "duracao": "00:20:56",
+      "sha256_derivado": "8341c3279e12373ac8893d46378debf70fe634275765c16b7764bf19e8e7820f",
+      "bytes_payload": 15620,
+      "inicio_byte_payload": 231153,
+      "fim_byte_exclusivo_payload": 246773
+    },
+    {
+      "ordem": 12,
+      "lote_id": "STT26-07",
+      "ingresso_id": "STT-2026-10-181",
+      "arquivo_derivado": "normalizados_stt_lote_2026-10/2025-08_001_Na7CBP2vMkg_Fator_Extraterrestre_por_Jan_Val_Ellam.md",
+      "titulo": "Fator Extraterrestre por Jan Val Ellam",
+      "duracao": "00:11:36",
+      "sha256_derivado": "423afaf9b63de0d6a283c68feda48c7afa5f528eab5bd9a6ee71275ada4c26be",
+      "bytes_payload": 8765,
+      "inicio_byte_payload": 247183,
+      "fim_byte_exclusivo_payload": 255948
+    },
+    {
+      "ordem": 13,
+      "lote_id": "STT26-07",
+      "ingresso_id": "STT-2026-10-245",
+      "arquivo_derivado": "normalizados_stt_lote_2026-10/2026-01_001_yCTLt1sVUP8_Os_Misterios_da_Materia_e_da_Antimateria_037.md",
+      "titulo": "Os Mistérios da Matéria e da Antimatéria | 037",
+      "duracao": "00:09:49",
+      "sha256_derivado": "51bc97e1b93fa498eb5f7fc5507fa49811ef5610bd2ddb84f684bf43df3004e8",
+      "bytes_payload": 8027,
+      "inicio_byte_payload": 256375,
+      "fim_byte_exclusivo_payload": 264402
+    },
+    {
+      "ordem": 14,
+      "lote_id": "STT26-07",
+      "ingresso_id": "STT-2026-10-243",
+      "arquivo_derivado": "normalizados_stt_lote_2026-10/2026-01_001_SMpMqghRhio_Paralisia_do_Sono_-_O_Que_Realmente_Esta_Acontecendo_com_Voce_038.md",
+      "titulo": "Paralisia do Sono: O Que Realmente Está Acontecendo com Você?  | 038",
+      "duracao": "00:14:46",
+      "sha256_derivado": "c5c2921b9ee650454691b219f688657629fe8c80ec3b6a93eda90e1543b74f1e",
+      "bytes_payload": 11945,
+      "inicio_byte_payload": 264871,
+      "fim_byte_exclusivo_payload": 276816
+    },
+    {
+      "ordem": 15,
+      "lote_id": "STT26-07",
+      "ingresso_id": "STT-2026-10-247",
+      "arquivo_derivado": "normalizados_stt_lote_2026-10/2026-01_021_NfifFW6wSCc_Imigracao_cosmica_VSC_24.md",
+      "titulo": "Imigração cósmica | VSC#24",
+      "duracao": "01:48:31",
+      "sha256_derivado": "1fb8cfe3826db48df85b4296b00615228ebcf20dd3fd26f9fc96b0718350cb2f",
+      "bytes_payload": 72429,
+      "inicio_byte_payload": 277203,
+      "fim_byte_exclusivo_payload": 349632
+    },
+    {
+      "ordem": 16,
+      "lote_id": "STT26-07",
+      "ingresso_id": "STT-2026-10-282",
+      "arquivo_derivado": "normalizados_stt_lote_2026-10/2026-06_001_6gaIVwiArxA_Atualidades_em_Foco_07_PodCast.md",
+      "titulo": "Atualidades em Foco #07 PodCast",
+      "duracao": "01:52:20",
+      "sha256_derivado": "a7d67bf26aec8cbc8fa13ea72b167ae48c84ff098af169e91209863e2dad86ac",
+      "bytes_payload": 79064,
+      "inicio_byte_payload": 350027,
+      "fim_byte_exclusivo_payload": 429091
+    },
+    {
+      "ordem": 17,
+      "lote_id": "STT26-07",
+      "ingresso_id": "STT-2026-10-290",
+      "arquivo_derivado": "normalizados_stt_lote_2026-10/2026-07_003_1ZVMiT_UzUE_A_Singularidade_Aconteceu_VSC_42.md",
+      "titulo": "A Singularidade Aconteceu | VSC #42",
+      "duracao": "01:36:45",
+      "sha256_derivado": "79c47486839843d7ca71f785a44a651dd194b2ea0e93ebddddd6fd428b980725",
+      "bytes_payload": 62808,
+      "inicio_byte_payload": 429492,
+      "fim_byte_exclusivo_payload": 492300
+    },
+    {
+      "ordem": 18,
+      "lote_id": "STT26-07",
+      "ingresso_id": "STT-2026-10-303",
+      "arquivo_derivado": "normalizados_stt_lote_2026-10/2026-09_003_v0gJWn50gg8_Alienigenas_e_humanos_-_Eles_ja_estao_entre_nos.md",
+      "titulo": "Alienígenas e humanos: Eles já estão entre nós?",
+      "duracao": "00:19:23",
+      "sha256_derivado": "22af3b847c5896bed93c2254622b623445e85a7dcd4b19c618045acdfc61ce79",
+      "bytes_payload": 12184,
+      "inicio_byte_payload": 492732,
+      "fim_byte_exclusivo_payload": 504916
+    },
+    {
+      "ordem": 19,
+      "lote_id": "STT26-07",
+      "ingresso_id": "STT-2026-10-301",
+      "arquivo_derivado": "normalizados_stt_lote_2026-10/2026-09_002_QiejclWu37g_Quando_um_universo_acaba_tudo_desaparece_com_ele_044.md",
+      "titulo": "Quando um universo acaba, tudo desaparece com ele? | 044",
+      "duracao": "00:11:02",
+      "sha256_derivado": "d1c41165f855480e3b9c359f6429ccf02ee96d9618508e92700cd2e914663727",
+      "bytes_payload": 8954,
+      "inicio_byte_payload": 505358,
+      "fim_byte_exclusivo_payload": 514312
+    }
+  ],
+  "mutacoes_na_abertura": {
+    "dados_termos_alterado": false,
+    "fichas_criadas": 0,
+    "termos_criados": 0,
+    "relacoes_criadas": 0,
+    "apostilas_criadas": 0
+  }
+}

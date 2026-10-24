@@ -1,0 +1,135 @@
+{
+  "onda": "onda_incremental_dry_run",
+  "gerado_em": "2026-10-22",
+  "executor": "ferramentas/normalizar_onda_incremental_dry_run.py",
+  "regras": [
+    {
+      "id": "STT-A01",
+      "formas": [
+        "anunaki"
+      ],
+      "destino": "Anunnaki",
+      "ancora": "RC-024 — Anunnaki",
+      "trocas": 6
+    },
+    {
+      "id": "STT-A02",
+      "formas": [
+        "trimurte",
+        "trimurto"
+      ],
+      "destino": "Trimurti",
+      "ancora": "RC-104 — Trimurti",
+      "trocas": 9
+    },
+    {
+      "id": "STT-A03",
+      "formas": [
+        "vismo",
+        "visma",
+        "vizno"
+      ],
+      "destino": "Vishnu",
+      "ancora": "RC-135 — Vishnu (Mavatna)",
+      "trocas": 20
+    },
+    {
+      "id": "STT-A04",
+      "formas": [
+        "pachupati",
+        "pachupato"
+      ],
+      "destino": "Pashupati",
+      "ancora": "RC-669 — Pashupati",
+      "trocas": 4
+    },
+    {
+      "id": "STT-A05",
+      "formas": [
+        "tikkun"
+      ],
+      "destino": "Tikun",
+      "ancora": "RC-514 — Tikun Cósmico",
+      "trocas": 4
+    },
+    {
+      "id": "STT-A06",
+      "formas": [
+        "mohensof",
+        "mohenso"
+      ],
+      "destino": "Mohen So",
+      "ancora": "RC-081 — Mohen So",
+      "trocas": 5
+    },
+    {
+      "id": "STT-A07",
+      "formas": [
+        "tirtankaras"
+      ],
+      "destino": "Tirthankaras",
+      "ancora": "RC-397 — Tirthankaras",
+      "trocas": 1
+    },
+    {
+      "id": "STT-A08",
+      "formas": [
+        "tote",
+        "toth"
+      ],
+      "destino": "Thoth",
+      "ancora": "RC-463/RC-534 — Thoth",
+      "trocas": 3
+    }
+  ],
+  "derivados": [
+    {
+      "arquivo": "2024-07_005_L90vP0VFSTc_Enki_Enlil_e_o_Fim_Subito_da_Babilonia_-_PALESTRA_COMPLETA_Jan_Val_Ellam.md",
+      "caminho_derivado": "onda_incremental_dry_run/derivados_normalizados/2024-07_005_L90vP0VFSTc_Enki_Enlil_e_o_Fim_Subito_da_Babilonia_-_PALESTRA_COMPLETA_Jan_Val_Ellam.md",
+      "bytes_derivado": 140746,
+      "sha256_fonte": "335a1b24cdcad1adb707e585c617a50dd277f550310abbbb35c328cf00d33134",
+      "sha256_derivado": "74db4bc550f396607b06e586c3eefdd0ec591a95b05a03cafe230b4fe2b685f2",
+      "mudancas": 11
+    },
+    {
+      "arquivo": "2024-09_003_EbK2RfETyEM_Conspiracao_Demodharmica_-_Krishna_Jesus_e_Sai_Baba_-_PALESTRA_COMPLETA_Jan_Val_Ellam.md",
+      "caminho_derivado": "onda_incremental_dry_run/derivados_normalizados/2024-09_003_EbK2RfETyEM_Conspiracao_Demodharmica_-_Krishna_Jesus_e_Sai_Baba_-_PALESTRA_COMPLETA_Jan_Val_Ellam.md",
+      "bytes_derivado": 143963,
+      "sha256_fonte": "d501d087d9113c91ee1cdf21b2ec7c1514252bc0acf69bf5881e988405f274fb",
+      "sha256_derivado": "954dfba1d95dec7ec9116b50eff7c638b87d4694bbfef492c354dcc4f07a0f75",
+      "mudancas": 23
+    },
+    {
+      "arquivo": "2025-07_002_lS8Bw-eaFYQ_A_Falencia_dos_Deuses_e_a_Destinacao_do_Lobo_-_PALESTRA_COMPLETA_Jan_Val_Ellam.md",
+      "caminho_derivado": "onda_incremental_dry_run/derivados_normalizados/2025-07_002_lS8Bw-eaFYQ_A_Falencia_dos_Deuses_e_a_Destinacao_do_Lobo_-_PALESTRA_COMPLETA_Jan_Val_Ellam.md",
+      "bytes_derivado": 158977,
+      "sha256_fonte": "260115a68f01c5c5d7a7669b8756624d0f0c74af28a47f42b998d6a67ba5b812",
+      "sha256_derivado": "1153163ad88e48634165361f041e21ae9d40a4d90b42e2634e3f13727d531ab8",
+      "mudancas": 15
+    },
+    {
+      "arquivo": "2025-07_035_JDaxXjYGyu0_Direitos_e_Deveres_Espirituais_VSC_10.md",
+      "caminho_derivado": "onda_incremental_dry_run/derivados_normalizados/2025-07_035_JDaxXjYGyu0_Direitos_e_Deveres_Espirituais_VSC_10.md",
+      "bytes_derivado": 60538,
+      "sha256_fonte": "4d6b32ef39504d28291d2e73f458c4af5a7fceaa220a74f037b11092dd4ca649",
+      "sha256_derivado": "9083e18b80c67bd1fa6401152ebe3e3e3ea1918be2c016273dcb34894af55a35",
+      "mudancas": 1
+    },
+    {
+      "arquivo": "2025-09_029_SzZtXArSltg_O_Quarto_Caminho_de_Gurdjieff_VSC_16.md",
+      "caminho_derivado": "onda_incremental_dry_run/derivados_normalizados/2025-09_029_SzZtXArSltg_O_Quarto_Caminho_de_Gurdjieff_VSC_16.md",
+      "bytes_derivado": 60747,
+      "sha256_fonte": "8656437f5b36dbb7e12b947584dacb8690d0d96415cfd6312fe87b8825fb3246",
+      "sha256_derivado": "9bc6358bd93b44eb846e599a1d2a9dd657c858b3021162266aca49a9b71aa37d",
+      "mudancas": 1
+    },
+    {
+      "arquivo": "2026-02_019_E2fBs7aocgU_O_Grande_Caminho_VSC_26.md",
+      "caminho_derivado": "onda_incremental_dry_run/derivados_normalizados/2026-02_019_E2fBs7aocgU_O_Grande_Caminho_VSC_26.md",
+      "bytes_derivado": 61774,
+      "sha256_fonte": "9d7e52325e556d5508f930ac4be32967bd3acbf9bfec1ed82f7c3892a323c33f",
+      "sha256_derivado": "a68c477815c157e108fa960e4a9456435bbd4c890e701098455e98461a114173",
+      "mudancas": 1
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "artefato": "Manifesto de origem da fonte consolidada — onda incremental dry-run",
+  "gerado_em": "2026-10-22",
+  "ciclo": "OIDR26-03",
+  "eixo": "COSMOGONIA_HISTORIA_COSMICA",
+  "ingressos": [
+    "P3"
+  ],
+  "fonte_operacional": "somente onda_incremental_dry_run/derivados_normalizados/",
+  "fontes_brutas_abertas": 0,
+  "autorizacao_de_abertura": {
+    "caminho": "onda_incremental_dry_run/triagem_curatorial/AUTORIZACAO-ABERTURA-DE-CICLOS-2026-10-22.json",
+    "sha256": "56f10574ae72f3a5debce5dbe95383c4c9933a4c62a303116eef00275245ec32",
+    "despacho_cotejo_consolidado": "onda_incremental_dry_run/triagem_curatorial/CONSOLIDADO-DESPACHO-CURATORIAL.json",
+    "sha256_despacho_cotejo_consolidado": "f8a300189130a9c873d8b1f5029631e48792e7d4facd261f991662ce8628a9f7",
+    "candidatos_autorizados_para_cotejo": [
+      "RC-037",
+      "RC-102",
+      "RC-135",
+      "RC-696",
+      "RC-072",
+      "RC-302",
+      "RC-585",
+      "RC-593",
+      "RC-582",
+      "RC-081",
+      "RC-086",
+      "RC-104",
+      "RC-414",
+      "RC-743",
+      "RC-034",
+      "RC-094",
+      "RC-529",
+      "RC-192",
+      "RC-301",
+      "RC-742",
+      "RC-852",
+      "RC-056",
+      "RC-839",
+      "RC-033",
+      "RC-059"
+    ]
+  },
+  "baseline_commit": "e97b7a2",
+  "base_no_inicio": {
+    "sha256_dados_termos": "07f850448b3726a6f05e87649db1d6129ac0225483a5074238b765df3bf1cb3b",
+    "termos": 946,
+    "relacoes": 1887,
+    "ficha_true": 826,
+    "arquivos_ficha": 826
+  },
+  "sha256_original_consolidado": "61884053b9ad7ceba28330e53d193dd46f008ca9e2469f15990df046e366859c",
+  "fontes": [
+    {
+      "ordem": 1,
+      "ingresso_id": "P3",
+      "arquivo_derivado": "onda_incremental_dry_run/derivados_normalizados/2025-07_002_lS8Bw-eaFYQ_A_Falencia_dos_Deuses_e_a_Destinacao_do_Lobo_-_PALESTRA_COMPLETA_Jan_Val_Ellam.md",
+      "titulo": "A Falência dos Deuses e a Destinação do Lobo - PALESTRA COMPLETA (Jan Val Ellam)",
+      "duracao": "03:47:35",
+      "sha256_derivado": "1153163ad88e48634165361f041e21ae9d40a4d90b42e2634e3f13727d531ab8",
+      "bytes_payload": 158977,
+      "inicio_byte_payload": 792,
+      "fim_byte_exclusivo_payload": 159769
+    }
+  ],
+  "delta_esperado": {
+    "arquivos": 0,
+    "ficha_true": 0,
+    "termos": 0,
+    "relacoes": 0,
+    "vinculos": 0
+  },
+  "mutacoes_na_abertura": {
+    "dados_termos_alterado": false,
+    "fichas_criadas": 0,
+    "termos_criados": 0,
+    "relacoes_criadas": 0,
+    "apostilas_criadas": 0
+  }
+}

@@ -5,10 +5,10 @@ nome = "Zeitgeist"
 categoria = "Termos Específicos"
 subcategoria = "8.5 Outros idiomas / jargão técnico"
 status = "provisório"
-fontes = ["B031"]
+fontes = ["B031", "OIDR26-04"]
 via = "P6-evidência"
 confianca_fonte = "média"
-atualizado = "2026-09-13"
+atualizado = "2026-10-23"
 +++
 # Zeitgeist — RC-144
 
@@ -31,10 +31,16 @@ Termo alemão cuja tradução significa o «espírito de cada época», espírit
 |---|---|---|
 | Revelação Cósmica (conceito) | RC-094 | associado |
 
+## Ampliação — OIDR26-04 (Onda incremental dry-run — Experiência espiritual e ética evolutiva (derivados normalizados))
+
+- **[P4 · Zeitgeist]** «E a época dita, entre aspas, o seu zeitgeist, ou seja, o espírito de cada época, e os humanos vivem de acordo com esses limites, com essas possibilidades, do jeito que hoje, nós, ano 2025, dia 30 de julho de 2025, nós vivemos com o que contemporaneamente nós conseguimos perceber como sendo aquilo que a gente acredita que é possível, que não é.» (U0070) — candidata de cotejo ampliado; evidência `OIDR26-04-RC-144-001`, grafia literal `zeitgeist`, sem homologação de pérola.
+
+
 ## Fontes
 
 | Obra (sigla) | Título | Página | Tipo |
 |---|---|---|---|
+| OIDR26-04 | Onda incremental dry-run — Experiência espiritual e ética evolutiva (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
 | B031 | Painéis Emergentes da Revelação Cósmica | p. 153 | livro; citação intra-linha |
 
 ## Citações-chave

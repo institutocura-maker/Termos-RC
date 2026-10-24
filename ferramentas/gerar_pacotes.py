@@ -23,6 +23,8 @@ import re
 import sys
 
 RAIZ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+sys.path.insert(0, os.path.join(RAIZ, "ferramentas"))
+from caminhos_acervo import caminho_atual
 SAIDA_PADRAO = os.path.join(RAIZ, "reconstrucao", "pacotes")
 
 # Estado canônico COMPUTADO DINAMICAMENTE a partir da fonte única de verdade
@@ -46,12 +48,12 @@ GRUPO_REGENERACAO = [
     "ferramentas/restaurar_pacotes.py",
     "ferramentas/gerar_pacotes.py",
     "README.md",
-    "CONTINUIDADE.md",
+    "admin/logs/CONTINUIDADE.md",
     "convencoes-editoriais-rc.md",
     "01-ficha-modelo.md",
     "02-vocabulario-controlado.md",
     "GUIA-MESTRE-RC-APOSTILA.txt",
-    "PROMPT-INICIAL-DO-AGENTE.md",
+    "prompts/PROMPT-INICIAL-DO-AGENTE.md",
     "apostilas/INDICE-PALESTRAS.md",
     "apostilas/INDICE-CURADOR-2026-08-17.txt",
 ]
@@ -64,8 +66,9 @@ GRUPO_FICHAS = [
 
 GRUPO_APOSTILAS = []
 GRUPO_ORIGINAIS = []
-for slug in sorted(os.listdir(os.path.join(RAIZ, "apostilas", "CONCLUIDAS"))):
-    base = os.path.join("apostilas", "CONCLUIDAS", slug)
+APOSTILAS_CONCLUIDAS = caminho_atual("fonte.apostilas_concluidas")
+for slug in sorted(os.listdir(APOSTILAS_CONCLUIDAS)):
+    base = os.path.relpath(os.path.join(APOSTILAS_CONCLUIDAS, slug), RAIZ)
     if os.path.isfile(os.path.join(RAIZ, base, "apostila.md")):
         GRUPO_APOSTILAS.append(os.path.join(base, "apostila.md"))
     if os.path.isfile(os.path.join(RAIZ, base, "ficha_ingresso.md")):
@@ -162,8 +165,8 @@ def main():
                       if f.startswith("RC-") and f.endswith(".md")]
     n_fisicas = len(fichas_fisicas)
     prox = f"RC-{n_termos + 1:03d}"
-    n_apostilas = len([s for s in sorted(os.listdir(os.path.join(RAIZ, "apostilas", "CONCLUIDAS")))
-                       if os.path.isdir(os.path.join(RAIZ, "apostilas", "CONCLUIDAS", s))])
+    n_apostilas = len([s for s in sorted(os.listdir(APOSTILAS_CONCLUIDAS))
+                       if os.path.isdir(os.path.join(APOSTILAS_CONCLUIDAS, s))])
     m = [
         "# MANIFESTO DOS PACOTES DE GARANTIA — PROJETO RC",
         "# Checkpoint: 2026-08-18",
@@ -173,7 +176,7 @@ def main():
         f"# - {n_rel} relações",
         f"# - {n_ficha_flag} termos com ficha; {n_fisicas} fichas físicas ({n_ficha_flag} canônicas + RC-004 investigação)",
         f"# - próximo código: {prox}",
-        f"# - {n_apostilas} apostilas concluídas em apostilas/CONCLUIDAS/",
+        f"# - {n_apostilas} apostilas concluídas em fontes/apostilas/",
         "",
         "# ARQUIVOS",
     ]

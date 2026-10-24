@@ -1,0 +1,22 @@
+{
+  "formato": "averbacao-manifesto-fontes/v1",
+  "data": "2026-10-23",
+  "colecao": "FON-LIVROS",
+  "manifesto_base": "fontes/manifestos/MANIFESTO-FONTES-FASE-0.json",
+  "averbacao_anterior": "fontes/manifestos/averbacoes/AVERBACAO-FON-LIVROS-FASE-1D.json",
+  "natureza": "micro-onda documental pós-migração; normaliza referências de rota no README sem alterar fontes primárias",
+  "alteracoes": [
+    {
+      "caminho_relativo": "README.md",
+      "anterior": {
+        "bytes": 16943,
+        "sha256": "1c5da15827a451a47a6368f2d546c204a32366f1556360b97bc76699a9fe3559"
+      },
+      "pos_migracao": {
+        "bytes": 17012,
+        "sha256": "be1c0ac599cf23454683309e183c6a77f20a7a7bc65148c2bfa9ddb23b794bf9"
+      }
+    }
+  ],
+  "sha256_colecao_resultante": "df1607e1328788008dc731b6f007d718e73cc5566c61825a24282edc1f3af3ff"
+}

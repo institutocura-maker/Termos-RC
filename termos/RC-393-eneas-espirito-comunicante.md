@@ -5,10 +5,10 @@ nome = "Enéas (espírito comunicante)"
 categoria = "Seres & Entidades"
 subcategoria = "1.6 Figuras humanas (históricas/míticas)"
 status = "provisório"
-fontes = ["B006"]
+fontes = ["B006", "OIDR26-04"]
 via = "P6-evidência"
 confianca_fonte = "média"
-atualizado = "2026-09-13"
+atualizado = "2026-10-23"
 +++
 # Enéas (espírito comunicante) — RC-393
 
@@ -32,10 +32,16 @@ Na B006 (*Nos Bastidores da Luz I*), o espírito comunicante apresentado na sec�
 | Revelação Cósmica (conceito) | RC-094 | associado |
 | Espíritos comunicantes do Grupo Atlan | RC-390 | ← inclui |
 
+## Ampliação — OIDR26-04 (Onda incremental dry-run — Experiência espiritual e ética evolutiva (derivados normalizados))
+
+- **[P4 · Enéas (espírito comunicante)]** «É um tema um bocado complexo, mas eu entendi o que o nosso irmão espiritual, o nome dele é Enéas, não é um espírito conhecido, é alguém que sempre me suporta, acompanha a vibratória ao longo desses anos e ele nunca foi alguém que ao longo de suas vidas o seu nome ficou registrado dessa ou daquela maneira, segundo ele a sua atuação discreta, que é a melhor que se pode ter mesmo ao longo da eternidade ele fez e faz um grande observador e ele é um grande observador também das coisas do mundo espiritual pelo que tenho aprendido com ele ao longo desses 35 anos de convivência vamos dizer, amigável, mediúnica e ao longo desses tempos eu tenho refletido sobre uma outra coisa que nós conversamos e outras tantas que ele não conversa comigo mas que eu fico pensando e anos depois, quando eu passo uns cinco anos pensando num assunto, aí ele diz, olha, é sobre isso aí que você tem pensado bastante, eu acho isso, eu acho aquilo.» (U0056) — candidata de cotejo ampliado; evidência `OIDR26-04-RC-393-001`, grafia literal `Enéas`, sem homologação de pérola.
+
+
 ## Fontes
 
 | Obra (sigla) | Título | Página | Tipo |
 |---|---|---|---|
+| OIDR26-04 | Onda incremental dry-run — Experiência espiritual e ética evolutiva (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
 | B006 | Nos Bastidores da Luz I | p. 4 | livro; citação intra-linha |
 
 ## Citações-chave

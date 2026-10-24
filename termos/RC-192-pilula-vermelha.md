@@ -5,10 +5,10 @@ nome = "Pílula vermelha"
 categoria = "Termos Específicos"
 subcategoria = "8.5 Outros idiomas / jargão técnico"
 status = "em análise"
-fontes = ["B044", "P2025-03-15", "P2025-02-15", "P2024-11-30", "P2023-05-13", "P2023-07-30", "P2023-06-24", "P2020-04-04"]
+fontes = ["B044", "P2025-03-15", "P2025-02-15", "P2024-11-30", "P2023-05-13", "P2023-07-30", "P2023-06-24", "P2020-04-04", "OIDR26-03"]
 via = "P7-conhecimento"
 confianca_fonte = "baixa"
-atualizado = "2026-08-18"
+atualizado = "2026-10-23"
 +++
 # Pílula vermelha — RC-192
 
@@ -31,10 +31,16 @@ Metáfora da trilogia Matrix incorporada por Jan Val Ellam à linguagem da RC: o
 | Dignidade como Critério de Consciência | RC-722 | ← relaciona-se-a |
 | As Cinco Lentes da Realidade | RC-761 | ← relaciona-se-a |
 
+## Ampliação — OIDR26-03 (Onda incremental dry-run — Cosmogonia e história cósmica (derivados normalizados))
+
+- **[P3 · Pílula vermelha]** «Só que é a tal história da pílula azul e da pílula vermelha no filme Matrix.» (U0055) — candidata de cotejo ampliado; evidência `OIDR26-03-RC-192-001`, grafia literal `pílula vermelha`, sem homologação de pérola.
+
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| OIDR26-03 | Onda incremental dry-run — Cosmogonia e história cósmica (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | B044 | — | obra publicada |
 | P2025-03-15 / P2025-02-15 / P2024-11-30 | — | palestras/STT |
 | P2023-05-13 | seções 2.2–2.3; bloco das múltiplas pílulas | palestra/STT pré-curada |

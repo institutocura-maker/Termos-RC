@@ -1,0 +1,307 @@
+{
+  "meta": {
+    "artefato": "Template de despacho curatorial — onda incremental dry-run",
+    "lote_id": "OIDR26-02",
+    "eixo": "MITOLOGIAS_REINTEGRACAO",
+    "gerado_em": "2026-10-22",
+    "estado": "PENDENTE-CURADOR",
+    "fonte_operacional": "somente derivados normalizados da onda; o STT bruto não foi aberto",
+    "efeito_atual": "nenhum: não cria ciclo nem altera a Base",
+    "instrucoes": [
+      "Decidir o conjunto do eixo/lote, não vídeo a vídeo.",
+      "Sinal literal não prova conceito, interpretação nem citação apta.",
+      "AUTORIZAR-COTEJO-AMPLIADO permite apenas aprofundar evidência no derivado.",
+      "ABRIR-CICLO exige despacho posterior com âncoras e fonte derivada explícitas; não é efeito deste template."
+    ],
+    "opcoes_por_candidato": [
+      "MANTER-EM-TRIAGEM",
+      "DESCARTAR-DO-LOTE",
+      "AUTORIZAR-COTEJO-AMPLIADO",
+      "RESERVAR-PARA-FUTURO-CICLO"
+    ]
+  },
+  "candidatos": [
+    {
+      "codigo": "RC-072",
+      "nome": "Jesus",
+      "decisao": "AUTORIZAR-COTEJO-AMPLIADO",
+      "fundamento_curatorial": "Despacho curatorial em bloco de 2026-10-22: AUTORIZAR-COTEJO-AMPLIADO para todos os 25 candidatos do OIDR26-02.",
+      "evidencias_disponiveis": [
+        "OIDR26-02-RC-072-001"
+      ],
+      "observacao": "0 descartes; autorização restrita ao cotejo ampliado no derivado."
+    },
+    {
+      "codigo": "RC-037",
+      "nome": "Brahma (Brajna)",
+      "decisao": "AUTORIZAR-COTEJO-AMPLIADO",
+      "fundamento_curatorial": "Despacho curatorial em bloco de 2026-10-22: AUTORIZAR-COTEJO-AMPLIADO para todos os 25 candidatos do OIDR26-02.",
+      "evidencias_disponiveis": [
+        "OIDR26-02-RC-037-001"
+      ],
+      "observacao": "0 descartes; autorização restrita ao cotejo ampliado no derivado."
+    },
+    {
+      "codigo": "RC-102",
+      "nome": "Shiva (Savna)",
+      "decisao": "AUTORIZAR-COTEJO-AMPLIADO",
+      "fundamento_curatorial": "Despacho curatorial em bloco de 2026-10-22: AUTORIZAR-COTEJO-AMPLIADO para todos os 25 candidatos do OIDR26-02.",
+      "evidencias_disponiveis": [
+        "OIDR26-02-RC-102-001"
+      ],
+      "observacao": "0 descartes; autorização restrita ao cotejo ampliado no derivado."
+    },
+    {
+      "codigo": "RC-414",
+      "nome": "Krishna (avatar de Vishnu/Shiva)",
+      "decisao": "AUTORIZAR-COTEJO-AMPLIADO",
+      "fundamento_curatorial": "Despacho curatorial em bloco de 2026-10-22: AUTORIZAR-COTEJO-AMPLIADO para todos os 25 candidatos do OIDR26-02.",
+      "evidencias_disponiveis": [
+        "OIDR26-02-RC-414-001"
+      ],
+      "observacao": "0 descartes; autorização restrita ao cotejo ampliado no derivado."
+    },
+    {
+      "codigo": "RC-135",
+      "nome": "Vishnu (Mavatna)",
+      "decisao": "AUTORIZAR-COTEJO-AMPLIADO",
+      "fundamento_curatorial": "Despacho curatorial em bloco de 2026-10-22: AUTORIZAR-COTEJO-AMPLIADO para todos os 25 candidatos do OIDR26-02.",
+      "evidencias_disponiveis": [
+        "OIDR26-02-RC-135-001"
+      ],
+      "observacao": "0 descartes; autorização restrita ao cotejo ampliado no derivado."
+    },
+    {
+      "codigo": "RC-104",
+      "nome": "Trimurti",
+      "decisao": "AUTORIZAR-COTEJO-AMPLIADO",
+      "fundamento_curatorial": "Despacho curatorial em bloco de 2026-10-22: AUTORIZAR-COTEJO-AMPLIADO para todos os 25 candidatos do OIDR26-02.",
+      "evidencias_disponiveis": [
+        "OIDR26-02-RC-104-001"
+      ],
+      "observacao": "0 descartes; autorização restrita ao cotejo ampliado no derivado."
+    },
+    {
+      "codigo": "RC-942",
+      "nome": "Messias",
+      "decisao": "AUTORIZAR-COTEJO-AMPLIADO",
+      "fundamento_curatorial": "Despacho curatorial em bloco de 2026-10-22: AUTORIZAR-COTEJO-AMPLIADO para todos os 25 candidatos do OIDR26-02.",
+      "evidencias_disponiveis": [
+        "OIDR26-02-RC-942-001"
+      ],
+      "observacao": "0 descartes; autorização restrita ao cotejo ampliado no derivado."
+    },
+    {
+      "codigo": "RC-094",
+      "nome": "Revelação Cósmica (conceito)",
+      "decisao": "AUTORIZAR-COTEJO-AMPLIADO",
+      "fundamento_curatorial": "Despacho curatorial em bloco de 2026-10-22: AUTORIZAR-COTEJO-AMPLIADO para todos os 25 candidatos do OIDR26-02.",
+      "evidencias_disponiveis": [
+        "OIDR26-02-RC-094-001"
+      ],
+      "observacao": "0 descartes; autorização restrita ao cotejo ampliado no derivado."
+    },
+    {
+      "codigo": "RC-225",
+      "nome": "Gestão Cósmica",
+      "decisao": "AUTORIZAR-COTEJO-AMPLIADO",
+      "fundamento_curatorial": "Despacho curatorial em bloco de 2026-10-22: AUTORIZAR-COTEJO-AMPLIADO para todos os 25 candidatos do OIDR26-02.",
+      "evidencias_disponiveis": [
+        "OIDR26-02-RC-225-001"
+      ],
+      "observacao": "0 descartes; autorização restrita ao cotejo ampliado no derivado."
+    },
+    {
+      "codigo": "RC-593",
+      "nome": "Mahabharata",
+      "decisao": "AUTORIZAR-COTEJO-AMPLIADO",
+      "fundamento_curatorial": "Despacho curatorial em bloco de 2026-10-22: AUTORIZAR-COTEJO-AMPLIADO para todos os 25 candidatos do OIDR26-02.",
+      "evidencias_disponiveis": [
+        "OIDR26-02-RC-593-001"
+      ],
+      "observacao": "0 descartes; autorização restrita ao cotejo ampliado no derivado."
+    },
+    {
+      "codigo": "RC-669",
+      "nome": "Pashupati (avatar de Shiva)",
+      "decisao": "AUTORIZAR-COTEJO-AMPLIADO",
+      "fundamento_curatorial": "Despacho curatorial em bloco de 2026-10-22: AUTORIZAR-COTEJO-AMPLIADO para todos os 25 candidatos do OIDR26-02.",
+      "evidencias_disponiveis": [
+        "OIDR26-02-RC-669-001"
+      ],
+      "observacao": "0 descartes; autorização restrita ao cotejo ampliado no derivado."
+    },
+    {
+      "codigo": "RC-841",
+      "nome": "Cronos (titã)",
+      "decisao": "AUTORIZAR-COTEJO-AMPLIADO",
+      "fundamento_curatorial": "Despacho curatorial em bloco de 2026-10-22: AUTORIZAR-COTEJO-AMPLIADO para todos os 25 candidatos do OIDR26-02.",
+      "evidencias_disponiveis": [
+        "OIDR26-02-RC-841-001"
+      ],
+      "observacao": "0 descartes; autorização restrita ao cotejo ampliado no derivado."
+    },
+    {
+      "codigo": "RC-254",
+      "nome": "Dominação (premissa dos Três Primeiros Logos)",
+      "decisao": "AUTORIZAR-COTEJO-AMPLIADO",
+      "fundamento_curatorial": "Despacho curatorial em bloco de 2026-10-22: AUTORIZAR-COTEJO-AMPLIADO para todos os 25 candidatos do OIDR26-02.",
+      "evidencias_disponiveis": [
+        "OIDR26-02-RC-254-001"
+      ],
+      "observacao": "0 descartes; autorização restrita ao cotejo ampliado no derivado."
+    },
+    {
+      "codigo": "RC-301",
+      "nome": "Prometeu (titã)",
+      "decisao": "AUTORIZAR-COTEJO-AMPLIADO",
+      "fundamento_curatorial": "Despacho curatorial em bloco de 2026-10-22: AUTORIZAR-COTEJO-AMPLIADO para todos os 25 candidatos do OIDR26-02.",
+      "evidencias_disponiveis": [
+        "OIDR26-02-RC-301-001"
+      ],
+      "observacao": "0 descartes; autorização restrita ao cotejo ampliado no derivado."
+    },
+    {
+      "codigo": "RC-489",
+      "nome": "Enoque (sétimo patriarca; levado por Javé)",
+      "decisao": "AUTORIZAR-COTEJO-AMPLIADO",
+      "fundamento_curatorial": "Despacho curatorial em bloco de 2026-10-22: AUTORIZAR-COTEJO-AMPLIADO para todos os 25 candidatos do OIDR26-02.",
+      "evidencias_disponiveis": [
+        "OIDR26-02-RC-489-001"
+      ],
+      "observacao": "0 descartes; autorização restrita ao cotejo ampliado no derivado."
+    },
+    {
+      "codigo": "RC-696",
+      "nome": "Geração Regenerada de Brahma",
+      "decisao": "AUTORIZAR-COTEJO-AMPLIADO",
+      "fundamento_curatorial": "Despacho curatorial em bloco de 2026-10-22: AUTORIZAR-COTEJO-AMPLIADO para todos os 25 candidatos do OIDR26-02.",
+      "evidencias_disponiveis": [
+        "OIDR26-02-RC-696-001"
+      ],
+      "observacao": "0 descartes; autorização restrita ao cotejo ampliado no derivado."
+    },
+    {
+      "codigo": "RC-749",
+      "nome": "Vício Devocional",
+      "decisao": "AUTORIZAR-COTEJO-AMPLIADO",
+      "fundamento_curatorial": "Despacho curatorial em bloco de 2026-10-22: AUTORIZAR-COTEJO-AMPLIADO para todos os 25 candidatos do OIDR26-02.",
+      "evidencias_disponiveis": [
+        "OIDR26-02-RC-749-001"
+      ],
+      "observacao": "0 descartes; autorização restrita ao cotejo ampliado no derivado."
+    },
+    {
+      "codigo": "RC-061",
+      "nome": "Espiritualidade Laboratorial",
+      "decisao": "AUTORIZAR-COTEJO-AMPLIADO",
+      "fundamento_curatorial": "Despacho curatorial em bloco de 2026-10-22: AUTORIZAR-COTEJO-AMPLIADO para todos os 25 candidatos do OIDR26-02.",
+      "evidencias_disponiveis": [
+        "OIDR26-02-RC-061-001"
+      ],
+      "observacao": "0 descartes; autorização restrita ao cotejo ampliado no derivado."
+    },
+    {
+      "codigo": "RC-106",
+      "nome": "Universo Antimaterial (Brahmaloka / Universo Paralelo)",
+      "decisao": "AUTORIZAR-COTEJO-AMPLIADO",
+      "fundamento_curatorial": "Despacho curatorial em bloco de 2026-10-22: AUTORIZAR-COTEJO-AMPLIADO para todos os 25 candidatos do OIDR26-02.",
+      "evidencias_disponiveis": [
+        "OIDR26-02-RC-106-001"
+      ],
+      "observacao": "0 descartes; autorização restrita ao cotejo ampliado no derivado."
+    },
+    {
+      "codigo": "RC-162",
+      "nome": "Elétrons (agente básico da vida universal)",
+      "decisao": "AUTORIZAR-COTEJO-AMPLIADO",
+      "fundamento_curatorial": "Despacho curatorial em bloco de 2026-10-22: AUTORIZAR-COTEJO-AMPLIADO para todos os 25 candidatos do OIDR26-02.",
+      "evidencias_disponiveis": [
+        "OIDR26-02-RC-162-001"
+      ],
+      "observacao": "0 descartes; autorização restrita ao cotejo ampliado no derivado."
+    },
+    {
+      "codigo": "RC-239",
+      "nome": "Hitler (figura histórica no RC)",
+      "decisao": "AUTORIZAR-COTEJO-AMPLIADO",
+      "fundamento_curatorial": "Despacho curatorial em bloco de 2026-10-22: AUTORIZAR-COTEJO-AMPLIADO para todos os 25 candidatos do OIDR26-02.",
+      "evidencias_disponiveis": [
+        "OIDR26-02-RC-239-001"
+      ],
+      "observacao": "0 descartes; autorização restrita ao cotejo ampliado no derivado."
+    },
+    {
+      "codigo": "RC-024",
+      "nome": "Anunnaki",
+      "decisao": "AUTORIZAR-COTEJO-AMPLIADO",
+      "fundamento_curatorial": "Despacho curatorial em bloco de 2026-10-22: AUTORIZAR-COTEJO-AMPLIADO para todos os 25 candidatos do OIDR26-02.",
+      "evidencias_disponiveis": [
+        "OIDR26-02-RC-024-001"
+      ],
+      "observacao": "0 descartes; autorização restrita ao cotejo ampliado no derivado."
+    },
+    {
+      "codigo": "RC-034",
+      "nome": "Big Bang",
+      "decisao": "AUTORIZAR-COTEJO-AMPLIADO",
+      "fundamento_curatorial": "Despacho curatorial em bloco de 2026-10-22: AUTORIZAR-COTEJO-AMPLIADO para todos os 25 candidatos do OIDR26-02.",
+      "evidencias_disponiveis": [
+        "OIDR26-02-RC-034-001"
+      ],
+      "observacao": "0 descartes; autorização restrita ao cotejo ampliado no derivado."
+    },
+    {
+      "codigo": "RC-059",
+      "nome": "Espiritualidade Superior",
+      "decisao": "AUTORIZAR-COTEJO-AMPLIADO",
+      "fundamento_curatorial": "Despacho curatorial em bloco de 2026-10-22: AUTORIZAR-COTEJO-AMPLIADO para todos os 25 candidatos do OIDR26-02.",
+      "evidencias_disponiveis": [
+        "OIDR26-02-RC-059-001"
+      ],
+      "observacao": "0 descartes; autorização restrita ao cotejo ampliado no derivado."
+    },
+    {
+      "codigo": "RC-073",
+      "nome": "Keshava",
+      "decisao": "AUTORIZAR-COTEJO-AMPLIADO",
+      "fundamento_curatorial": "Despacho curatorial em bloco de 2026-10-22: AUTORIZAR-COTEJO-AMPLIADO para todos os 25 candidatos do OIDR26-02.",
+      "evidencias_disponiveis": [
+        "OIDR26-02-RC-073-001"
+      ],
+      "observacao": "0 descartes; autorização restrita ao cotejo ampliado no derivado."
+    }
+  ],
+  "despacho_de_lote": {
+    "resultado": "CONCLUIDO",
+    "candidatos_para_cotejo_ampliado": [
+      "RC-072",
+      "RC-037",
+      "RC-102",
+      "RC-414",
+      "RC-135",
+      "RC-104",
+      "RC-942",
+      "RC-094",
+      "RC-225",
+      "RC-593",
+      "RC-669",
+      "RC-841",
+      "RC-254",
+      "RC-301",
+      "RC-489",
+      "RC-696",
+      "RC-749",
+      "RC-061",
+      "RC-106",
+      "RC-162",
+      "RC-239",
+      "RC-024",
+      "RC-034",
+      "RC-059",
+      "RC-073"
+    ],
+    "autorizacao_para_abrir_ciclo": false,
+    "observacao": "25/25 candidatos autorizados para cotejo ampliado; 0 descartes. Este despacho não autoriza abertura de ciclo nem chamada ao motor.py."
+  }
+}

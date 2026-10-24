@@ -8,7 +8,7 @@
 
 ## Instrução de retomada (para o curador)
 
-Anexe este arquivo (ou o `GUIA-MESTRE-RC-APOSTILA.txt` v1.1) numa nova conversa **junto com o `PROMPT-INICIAL-DO-AGENTE.md`** e escreva:
+Anexe este arquivo (ou o `GUIA-MESTRE-RC-APOSTILA.txt` v1.1) numa nova conversa **junto com o `prompts/PROMPT-INICIAL-DO-AGENTE.md`** e escreva:
 *"Leia o Guia-Mestre da RC e o Prompt Inicial, monte o workspace, valide a base e me apresente o estado + próximo passo."*
 
 **Curador:** analista de sistemas, programador, Pajé (tradição Rubens Saraceni), 14+ anos de estudo das RC, estudioso de Jyotish/Ifá.
@@ -48,7 +48,7 @@ O curador: veterano de IBM Brasil (25 anos), Pajé com Pai de Santo (tradição 
 4. A IA local é o destino (Professora de RC — agente pedagógico com anamnese de alunos).
 5. Não inventar, não completar, não interpolar. Se falta fonte, marca-se `[REVISAR]`/`[TEXTO INCOMPLETO]`.
 6. A voz do autor é maior que a do editor. Preservar a fala do Ellam (marcadores, humor, digressões).
-7. **Fluxo é lei:** cada ciclo termina com `gerar_pacotes.py` e atualização do `CONTINUIDADE.md`.
+7. **Fluxo é lei:** cada ciclo termina com `gerar_pacotes.py` e atualização do `admin/logs/CONTINUIDADE.md`.
 
 ## 1.3 Decisões canônicas (registradas)
 
@@ -132,9 +132,9 @@ A Base é um projeto orientado a dados: um arquivo Python é a fonte única de v
 
 ```
 rc-terminologia/
-├── README.md · CONTINUIDADE.md · convencoes-editoriais-rc.md
-├── GUIA-MESTRE-RC-APOSTILA.txt (v1.1) · PROMPT-INICIAL-DO-AGENTE.md
-├── PACOTE-MIGRACAO-CHAT-2026-08-18.md · PLANO-MIGRACAO-DE-CHAT.md
+├── README.md · admin/logs/CONTINUIDADE.md · convencoes-editoriais-rc.md
+├── GUIA-MESTRE-RC-APOSTILA.txt (v1.1) · prompts/PROMPT-INICIAL-DO-AGENTE.md
+├── admin/logs/PACOTE-MIGRACAO-CHAT-2026-08-18.md · PLANO-MIGRACAO-DE-CHAT.md
 ├── indice-mestre.md · base-terminologica.xlsx · base-terminologica-leitura.docx
 ├── ferramentas/
 │   ├── dados_termos.py ← TABELA-MESTRA (TERMOS + RELACOES) — FONTE ÚNICA
@@ -208,7 +208,7 @@ TXT da palestra
   → criar/ampliar fichas em termos/ + cruzar relações
   → atualizar dados_termos.py + validar
   → regenerar artefatos (índice, XLSX, DOCX)
-  → atualizar CONTINUIDADE.md + INDICE-PALESTRAS.md
+  → atualizar admin/logs/CONTINUIDADE.md + INDICE-PALESTRAS.md
   → python3 ferramentas/gerar_pacotes.py  ← HÁBITO OBRIGATÓRIO
   → (opcional) sincronizar GitHub
 ```
@@ -468,7 +468,7 @@ Bibliografia completa em BIBLIO; PDFs de livros adicionais pendentes.
 
 ## 12.1 O Prompt Inicial (materializado)
 
-**Leia o `PROMPT-INICIAL-DO-AGENTE.md`** — contém o prompt a colar no chat + a ordem de anexação + as regras de ouro. O essencial:
+**Leia o `prompts/PROMPT-INICIAL-DO-AGENTE.md`** — contém o prompt a colar no chat + a ordem de anexação + as regras de ouro. O essencial:
 
 > Autoridade do curador; estado canônico (767/1531/RC-768/13 apostilas); fluxo em 2 ciclos (Curadoria Base-first + Apostilas em Lote); regras de ouro (não inventar, quarentenas, grafias, voz do Ellam); fontes (GitHub ou pacotes); primeira ação (validar → ler docs → resumir → aguardar).
 
@@ -477,7 +477,7 @@ Bibliografia completa em BIBLIO; PDFs de livros adicionais pendentes.
 1. **Fonte A (GitHub):** `git clone https://x-access-token:TOKEN@github.com/institutocura-maker/Termos-RC.git` (token fornecido pelo curador);
    **Fonte B (pacotes):** restaurar de `reconstrucao/pacotes/` via `restaurar_pacotes.py` (ou do ZIP `PACOTE-DE-ORIGINAIS-2026-08-18.zip.txt`);
 2. Validar: `python3 ferramentas/dados_termos.py` → `OK: 767 termos, 1531 relações — dados válidos.`;
-3. Ler na ordem: `GUIA-MESTRE-RC-APOSTILA.txt` (v1.1) → `PROMPT-INICIAL-DO-AGENTE.md` → `PACOTE-MIGRACAO-CHAT-2026-08-18.md` → `PLANO-MIGRACAO-DE-CHAT.md` → `convencoes-editoriais-rc.md`;
+3. Ler na ordem: `GUIA-MESTRE-RC-APOSTILA.txt` (v1.1) → `prompts/PROMPT-INICIAL-DO-AGENTE.md` → `admin/logs/PACOTE-MIGRACAO-CHAT-2026-08-18.md` → `PLANO-MIGRACAO-DE-CHAT.md` → `convencoes-editoriais-rc.md`;
 4. Resumir ao curador o estado + próximo passo + pendências; aguardar confirmação.
 
 ## 12.3 Por onde começar (prioridade)
@@ -493,7 +493,7 @@ Bibliografia completa em BIBLIO; PDFs de livros adicionais pendentes.
 3. Falas da plateia nunca viram ontologia;
 4. Quarentenas: clínico, político, ufológico, teológico, STT — leitura do autor;
 5. Grafias canônicas (Parte 6.10);
-6. Todo ciclo termina com `gerar_pacotes.py` + CONTINUIDADE.md;
+6. Todo ciclo termina com `gerar_pacotes.py` + admin/logs/CONTINUIDADE.md;
 7. O GitHub é espelho; o local é a fonte primária;
 8. Só interrompa o curador por ambiguidade realmente impeditiva.
 

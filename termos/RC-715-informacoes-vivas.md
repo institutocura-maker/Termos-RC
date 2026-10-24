@@ -5,10 +5,10 @@ nome = "Informações Vivas"
 categoria = "Conceitos Cosmológicos"
 subcategoria = "2.2 Leis e princípios cósmicos"
 status = "verificado"
-fontes = ["P2024-11-30", "P2024-07-13"]
+fontes = ["P2024-11-30", "P2024-07-13", "STT26-MITOLOGIAS_REINTEGRACAO"]
 via = "P6-evidência"
 confianca_fonte = "média"
-atualizado = "2026-08-15"
+atualizado = "2026-10-22"
 +++
 # Informações Vivas — RC-715
 
@@ -51,9 +51,15 @@ A palestra trata elétrons/antielétrons como remanescentes informacionais da me
 | Buraco Negro Mental / Consciencial | RC-717 | ← envolve |
 | Sócios do Destino / Ausência de Justiça Externa | RC-720 | ← processa |
 
+## Ampliação — STT26-MITOLOGIAS_REINTEGRACAO (Eixo STT26 — Mitologias, tradições e eixo de reintegração (derivados normalizados))
+
+- **[STT26-17 · Informações Vivas]** «O eu doente que existe em cada um de nós Só reflete o eu doente do criador caído porque as informações vivas, genéticas do eu caído criador é que estão no nosso corpo fazendo com que o eu da gente seja doente.» (U11531 · chars 1825521–1825730) — Candidata de cotejo; evidência `STT26-17-RC-715-001`, grafia encontrada `informações vivas`; decisão por lote `STT26-17: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
+| STT26-MITOLOGIAS_REINTEGRACAO | Eixo STT26 — Mitologias, tradições e eixo de reintegração (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | P2024-11-30 | U0283–U0319; U0390–U0469; U0492–U0573; U0640–U0690; U1360–U1500; U1850–U1982 | palestra/STT |
 
 ## Citações-chave

@@ -5,10 +5,10 @@ nome = "Hochmah (2ª Sefirah — Sabedoria; = Sophia)"
 categoria = "Termos Específicos"
 subcategoria = "8.2 Hebraico / Cabala"
 status = "verificado"
-fontes = ["B060", "B013", "P2024-02-25", "P2024-07-14", "P2024-04-13", "P2026-08-04", "P2023-06-03", "P2023-05-20", "P2023-04-15", "P2023-04-01", "P2023-04-29", "P2020-04-18", "P2020-09-19", "P2021-05-08", "P2022-09-24", "P2023-04-01b", "P2024-11-03", "P2025-02-22", "P2023-10-14", "P2024-06-16", "P2025-05-10", "P2023-02-11", "P2022-12-03", "P2023-12-25-02", "P2020-04-04"]
+fontes = ["B060", "B013", "P2024-02-25", "P2024-07-14", "P2024-04-13", "P2026-08-04", "P2023-06-03", "P2023-05-20", "P2023-04-15", "P2023-04-01", "P2023-04-29", "P2020-04-18", "P2020-09-19", "P2021-05-08", "P2022-09-24", "P2023-04-01b", "P2024-11-03", "P2025-02-22", "P2023-10-14", "P2024-06-16", "P2025-05-10", "P2023-02-11", "P2022-12-03", "P2023-12-25-02", "P2020-04-04", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA", "STT26-MITOLOGIAS_REINTEGRACAO"]
 via = "P6-evidência"
 confianca_fonte = "alta"
-atualizado = "2026-08-28"
+atualizado = "2026-10-22"
 +++
 # Hochmah — RC-565
 
@@ -39,10 +39,21 @@ Grafia canônica para a 2ª Sefirah (Sabedoria) da Cabala, epíteto hebraico de 
 | Malkuth | RC-682 | relaciona-se-a |
 | Apocalipse (livro de João, ditado por Sofia/Rockman) | RC-854 | associado |
 
+## Ampliação — STT26-EXPERIENCIA_ESPIRITUAL_ETICA (Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados))
+
+- **[STT26-12 · Hochmah (2ª Sefirah — Sabedoria; = Sophia)]** «A pergunta do Elie Welton é sobre o tema da volta de Jesus. Ele pergunta aqui se esse negócio da volta de Jesus cósmico, Hochmah, será da forma como você mesmo falou nos livros e nas palestras ou se será como John Nelson Derby falou que seria através de arrebatamento, governo do anticristo e o império do milênio e ele complementa aqui até porque Nelson Derby falou, as igrejas protestantes falam também que Hochmah virá, vai ter o arrebatamento e depois terá a grande tribulação para depois vir o milênio e nisso terá a famosa batalha do Armagedon só para depois Jesus vir com sua nova Jerusalém e aterrissar nos montes das Oliveiras e logo em seguida destruir os que ficaram aqui na Terra?» (U13064 · chars 1977856–1978549) — Candidata de cotejo; evidência `STT26-12-RC-565-001`, grafia encontrada `Hochmah`; decisão por lote `STT26-12: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+## Ampliação — STT26-MITOLOGIAS_REINTEGRACAO (Eixo STT26 — Mitologias, tradições e eixo de reintegração (derivados normalizados))
+
+- **[STT26-14 · Hochmah (2ª Sefirah — Sabedoria; = Sophia)]** «Olhem bem como a coisa é estranha. Esse Hochmah não é humano, ele é um ser biodemo, ou seja, parte biológica e parte com códigos desse universo vizinho, mas isso é outra história.» (U3628 · chars 574039–574218) — Candidata de cotejo; evidência `STT26-14-RC-565-001`, grafia encontrada `Hochmah`; decisão por lote `STT26-14: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| STT26-MITOLOGIAS_REINTEGRACAO | Eixo STT26 — Mitologias, tradições e eixo de reintegração (derivados normalizados) (palestra) | transcrição automatizada; citação |
+| STT26-EXPERIENCIA_ESPIRITUAL_ETICA | Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | P2023-12-25-02 | Aula 02 — Os Anos de Pregação e a Promessa do Retorno (palestra) | — | transcrição automatizada; citação |
 | P2022-12-03 | O Ocaso do Criador e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
 | P2023-02-11 | Agente Humano Jesus e os Arcontes (palestra) | — | transcrição automatizada; citação |

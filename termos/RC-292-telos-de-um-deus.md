@@ -5,10 +5,10 @@ nome = "Telos (de um deus)"
 categoria = "Termos Específicos"
 subcategoria = "8.4 Grego / Latim"
 status = "verificado"
-fontes = ["B021", "P2024-09-29", "P2023-05-21"]
+fontes = ["B021", "P2024-09-29", "P2023-05-21", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA"]
 via = "P6-evidência"
 confianca_fonte = "alta"
-atualizado = "2026-08-12"
+atualizado = "2026-10-22"
 +++
 # Telos (de um deus) — RC-292
 
@@ -39,9 +39,14 @@ O conceito de telos é central para compreender a psicologia dos deuses demo nas
 ## Seres Associados
 Zeus (RC-145); demos do Olimpo (RC-049).
 
+## Ampliação — STT26-EXPERIENCIA_ESPIRITUAL_ETICA (Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados))
+
+- **[STT26-10 · Telos (de um deus)]** «Eles colocam, Nick Bostrom coloca algo que ele chama de telos da tecnologia. Telos, eu uso muito essa palavra nas palestras que eu faço, devido ao fato de que sou estudioso da obra de Exílio, de Homero e de outras figuras que usavam os conceitos gregos mais antigos, cujo significado tem a ver com o mundo da mitologia e uma interface desse mundo com os valores que nós humanos temos hoje.» (U7113 · chars 1045447–1045836) — Candidata de cotejo; evidência `STT26-10-RC-292-001`, grafia encontrada `telos`; decisão por lote `STT26-10: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| STT26-EXPERIENCIA_ESPIRITUAL_ETICA | Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
 | Tempos Difíceis no Olimpo (B021) | Sinopse; cap. 23 | pp. 5, 130–140 (aprox.) | conceito central |
 
 ## Citações-chave

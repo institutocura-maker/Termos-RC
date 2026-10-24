@@ -1,0 +1,41 @@
+{
+  "alocacao": "despacho curatorial explícito; sem classificação automática",
+  "barreiras": {
+    "apostilas_criadas": 0,
+    "ciclos_criados": 0,
+    "dados_termos_alterado": false,
+    "fichas_criadas": 0,
+    "fontes_brutas_abertas": 0,
+    "relacoes_criadas": 0,
+    "termos_criados": 0
+  },
+  "base_terminologica": {
+    "aliases_ambiguos_excluidos": 8,
+    "ocorrencias_exatas_indexadas": 951,
+    "termos_lidos": 946
+  },
+  "executor": "ferramentas/preparar_triagem_onda_incremental_dry_run.py",
+  "gerado_em": "2026-10-22",
+  "hashes_entrada_e_base_lida": {
+    "dados_termos.py": "07f850448b3726a6f05e87649db1d6129ac0225483a5074238b765df3bf1cb3b",
+    "manifesto-derivados.json": "4ff704b2b08b10999da7309e996c5a9a7b781253d7ab23299c9c880cc531cb9d",
+    "manifesto-fontes.json": "d5ff1a03afcab21ca22b9597509ad970d6f1fad2ae7fc08ad91bef2b1f68bedf",
+    "rastreio-antes-depois.jsonl": "c3d53e05fd00aaec2565998f813c3d45dd1b681031be5f1f29845b77761a2890"
+  },
+  "integridade": {
+    "derivados_conferidos": 6,
+    "derivados_manifestados": 6,
+    "diretorio_historico_do_piloto_lido_ou_alterado": false,
+    "fontes_brutas_abertas": 0,
+    "fontes_manifestadas": 6,
+    "trocas_rastreadas": 52
+  },
+  "mapeamento": {
+    "candidatos_de_cotejo": 100,
+    "eixos": 4,
+    "enderecos_de_linha": 1557,
+    "ingressos": 6,
+    "lotes": 4
+  },
+  "onda": "onda_incremental_dry_run"
+}

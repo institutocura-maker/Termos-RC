@@ -5,10 +5,10 @@ nome = "Espiritualidade Errática (4ª faixa manifestada)"
 categoria = "Conceitos Cosmológicos"
 subcategoria = "2.3 Dimensões / Planos de existência"
 status = "verificado"
-fontes = ["B060", "B071", "P2021-12-04", "P2024-05-04", "P2025-03-15", "P2024-11-09", "P2024-07-14", "P2024-03-03", "P2024-04-14", "P2025-06-14b", "P2023-12-03", "P2022-10-01", "P2022-09-25", "P2022-09-18", "P2022-07-16"]
+fontes = ["B060", "B071", "P2021-12-04", "P2024-05-04", "P2025-03-15", "P2024-11-09", "P2024-07-14", "P2024-03-03", "P2024-04-14", "P2025-06-14b", "P2023-12-03", "P2022-10-01", "P2022-09-25", "P2022-09-18", "P2022-07-16", "STT26-EXPERIENCIA_ESPIRITUAL_ETICA"]
 via = "P6-evidência"
 confianca_fonte = "alta"
-atualizado = "2026-08-29"
+atualizado = "2026-10-22"
 +++
 # Espiritualidade Errática (4ª faixa manifestada) — RC-513
 
@@ -42,9 +42,14 @@ Na cosmologia de Ellam, a faixa espiritual intermediária que envolve a Terra �
 - Universo Antimaterial — RC-106;
 - Abismo da Providência — RC-723.
 
+## Ampliação — STT26-EXPERIENCIA_ESPIRITUAL_ETICA (Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados))
+
+- **[STT26-11 · Espiritualidade Errática (4ª faixa manifestada)]** «Não existe instituição dentro dessa bolha, dentro desses dois universos e a espiritualidade errática, não tem nada estruturado no sentido do bem.» (U10019 · chars 1490031–1490176) — Candidata de cotejo; evidência `STT26-11-RC-513-001`, grafia encontrada `espiritualidade errática`; decisão por lote `STT26-11: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
+| STT26-EXPERIENCIA_ESPIRITUAL_ETICA | Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | P2022-07-16 | Do Ramayana ao Mahabharata (palestra) | — | transcrição automatizada; citação |
 | P2022-09-18 | Os Níveis de Estresse Extremo da Criação (palestra) | — | transcrição automatizada; citação |
 | P2022-09-25 | O Contexto Espiritual da Construção de Brasília (palestra) | — | transcrição automatizada; citação |

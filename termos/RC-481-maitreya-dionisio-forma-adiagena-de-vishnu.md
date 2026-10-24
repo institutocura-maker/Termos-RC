@@ -5,10 +5,10 @@ nome = "Maitreya (Dionísio; forma adiágena de Vishnu)"
 categoria = "Seres & Entidades"
 subcategoria = "1.1 Divindades / Criadores"
 status = "verificado"
-fontes = ["P2021-03-27", "B060", "P2021-06-26", "P2025-12-14"]
+fontes = ["P2021-03-27", "B060", "P2021-06-26", "P2025-12-14", "STT26-MITOLOGIAS_REINTEGRACAO"]
 via = "P6-evidência"
 confianca_fonte = "alta"
-atualizado = "2026-09-12"
+atualizado = "2026-10-22"
 +++
 # Maitreya (Dionísio; forma adiágena de Vishnu) — RC-481
 
@@ -25,10 +25,16 @@ Figura profética do Buda futuro — na RC, correlacionada a Dionísio e a uma f
 | ADHYMAVATANA (nome completo de Mavatna/Vishnu) | RC-408 | associado |
 | Relógio Messiânico | RC-765 | ← relaciona-se-a |
 
+## Ampliação — STT26-MITOLOGIAS_REINTEGRACAO (Eixo STT26 — Mitologias, tradições e eixo de reintegração (derivados normalizados))
+
+- **[STT26-16 · Maitreya (Dionísio; forma adiágena de Vishnu)]** «Nesse Anagata Avança, esse livro difícil até de se pronunciar, Em que se fala sobre vidas passadas de Buda, que a gente não vai aqui falar disso, mas o interessante é que nesse livro Siddhartha Gautama diz, ó, eu sou o Buda, mas antes de mim existiram três seres que se aproximaram desse nível de iluminação, mas eu, Siddhartha Gautama, de fato, cheguei nesse estado de consciência chamado nirvana, e por isso eu sou chamado o Buda, mas virá outro, e esse que Buda chamou de Maitreya, Este virá quando eu sair da condição de nirvana para atingir a condição do nirvana absoluto. Então, tem essa distinção.» (U8297 · chars 1278713–1279318) — Candidata de cotejo; evidência `STT26-16-RC-481-001`, grafia encontrada `Maitreya`; decisão por lote `STT26-16: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| STT26-MITOLOGIAS_REINTEGRACAO | Eixo STT26 — Mitologias, tradições e eixo de reintegração (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | P2025-12-14 | Os Fundamentos da Revelação Cósmica (palestra) | — | transcrição automatizada; citação |
 | P2021-06-26 | Shiva - A Reconstrução do Erro de Brahma e o Tikum (palestra) | — | transcrição automatizada; citação |
 | P2021-03-27 | bloco 9 (relógio messiânico) | palestra/STT pré-curada |

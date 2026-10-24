@@ -1,0 +1,1454 @@
+{
+  "meta": {
+    "artefato": "Template de despacho curatorial por eixo STT",
+    "eixo": {
+      "codigo": "EXPERIENCIA_ESPIRITUAL_ETICA",
+      "nome": "Experiência espiritual, morte e ética evolutiva"
+    },
+    "lotes": [
+      "STT26-08",
+      "STT26-09",
+      "STT26-10",
+      "STT26-11",
+      "STT26-12"
+    ],
+    "gerado_em": "2026-10-20",
+    "estado": "PENDENTE-CURADOR",
+    "escopo": "Matriz transversal: preserva o teto de 25 candidatos por lote; os códigos repetidos são vistos juntos sem fundir decisões de lote.",
+    "efeito_atual": "nenhum: não cria ciclo e não altera a Base",
+    "opcoes": [
+      "MANTER-EM-TRIAGEM",
+      "DESCARTAR-DO-LOTE",
+      "AUTORIZAR-COTEJO-AMPLIADO",
+      "RESERVAR-PARA-FUTURO-CICLO"
+    ]
+  },
+  "candidatos": [
+    {
+      "codigo": "RC-072",
+      "nome": "Jesus",
+      "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "Deliberações explícitas do Curador: arquitetura cósmica, psiquismo e mecânica de queda; metodologia, consciência e figuras centrais do teatro cósmico seguem ao cotejo. Descartes cobrem jargão social moderno, alegoria, exemplo histórico periférico ou espiritualidade genérica.",
+      "decisao_por_lote": {
+        "STT26-08": "DESCARTAR-DO-LOTE",
+        "STT26-09": "DESCARTAR-DO-LOTE",
+        "STT26-10": "DESCARTAR-DO-LOTE",
+        "STT26-11": "DESCARTAR-DO-LOTE",
+        "STT26-12": "DESCARTAR-DO-LOTE"
+      },
+      "evidencias_disponiveis": {
+        "STT26-08": [
+          "STT26-08-RC-072-001",
+          "STT26-08-RC-072-008",
+          "STT26-08-RC-072-072"
+        ],
+        "STT26-09": [
+          "STT26-09-RC-072-001",
+          "STT26-09-RC-072-007",
+          "STT26-09-RC-072-009"
+        ],
+        "STT26-10": [
+          "STT26-10-RC-072-001",
+          "STT26-10-RC-072-012",
+          "STT26-10-RC-072-015"
+        ],
+        "STT26-11": [
+          "STT26-11-RC-072-001",
+          "STT26-11-RC-072-003",
+          "STT26-11-RC-072-004"
+        ],
+        "STT26-12": [
+          "STT26-12-RC-072-001",
+          "STT26-12-RC-072-031",
+          "STT26-12-RC-072-036"
+        ]
+      },
+      "observacao": "Decisões registradas independentemente por lote; despacho do eixo integralmente deliberado."
+    },
+    {
+      "codigo": "RC-094",
+      "nome": "Revelação Cósmica (conceito)",
+      "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "Deliberações explícitas do Curador: arquitetura cósmica, psiquismo e mecânica de queda; metodologia, consciência e figuras centrais do teatro cósmico seguem ao cotejo. Descartes cobrem jargão social moderno, alegoria, exemplo histórico periférico ou espiritualidade genérica.",
+      "decisao_por_lote": {
+        "STT26-08": "AUTORIZAR-COTEJO-AMPLIADO",
+        "STT26-09": "AUTORIZAR-COTEJO-AMPLIADO",
+        "STT26-10": "AUTORIZAR-COTEJO-AMPLIADO",
+        "STT26-11": "AUTORIZAR-COTEJO-AMPLIADO",
+        "STT26-12": "AUTORIZAR-COTEJO-AMPLIADO"
+      },
+      "evidencias_disponiveis": {
+        "STT26-08": [
+          "STT26-08-RC-094-001",
+          "STT26-08-RC-094-007",
+          "STT26-08-RC-094-014"
+        ],
+        "STT26-09": [
+          "STT26-09-RC-094-001",
+          "STT26-09-RC-094-003",
+          "STT26-09-RC-094-005"
+        ],
+        "STT26-10": [
+          "STT26-10-RC-094-001",
+          "STT26-10-RC-094-002",
+          "STT26-10-RC-094-003"
+        ],
+        "STT26-11": [
+          "STT26-11-RC-094-001",
+          "STT26-11-RC-094-002",
+          "STT26-11-RC-094-003"
+        ],
+        "STT26-12": [
+          "STT26-12-RC-094-001",
+          "STT26-12-RC-094-002",
+          "STT26-12-RC-094-003"
+        ]
+      },
+      "observacao": "Decisões registradas independentemente por lote; despacho do eixo integralmente deliberado."
+    },
+    {
+      "codigo": "RC-162",
+      "nome": "Elétrons (agente básico da vida universal)",
+      "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "Deliberações explícitas do Curador: arquitetura cósmica, psiquismo e mecânica de queda; metodologia, consciência e figuras centrais do teatro cósmico seguem ao cotejo. Descartes cobrem jargão social moderno, alegoria, exemplo histórico periférico ou espiritualidade genérica.",
+      "decisao_por_lote": {
+        "STT26-08": "AUTORIZAR-COTEJO-AMPLIADO",
+        "STT26-09": "AUTORIZAR-COTEJO-AMPLIADO",
+        "STT26-10": "AUTORIZAR-COTEJO-AMPLIADO",
+        "STT26-11": "AUTORIZAR-COTEJO-AMPLIADO",
+        "STT26-12": "AUTORIZAR-COTEJO-AMPLIADO"
+      },
+      "evidencias_disponiveis": {
+        "STT26-08": [
+          "STT26-08-RC-162-001",
+          "STT26-08-RC-162-006"
+        ],
+        "STT26-09": [
+          "STT26-09-RC-162-001",
+          "STT26-09-RC-162-047"
+        ],
+        "STT26-10": [
+          "STT26-10-RC-162-001",
+          "STT26-10-RC-162-002",
+          "STT26-10-RC-162-003"
+        ],
+        "STT26-11": [
+          "STT26-11-RC-162-001",
+          "STT26-11-RC-162-002",
+          "STT26-11-RC-162-003"
+        ],
+        "STT26-12": [
+          "STT26-12-RC-162-001",
+          "STT26-12-RC-162-002",
+          "STT26-12-RC-162-008"
+        ]
+      },
+      "observacao": "Decisões registradas independentemente por lote; despacho do eixo integralmente deliberado."
+    },
+    {
+      "codigo": "RC-047",
+      "nome": "Deidade (Pai-Mãe Amantíssimo / Brahman)",
+      "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "Deliberação explícita do Curador: arquitetura cósmica, psiquismo e mecânica de queda seguem ao cotejo; descartes cobrem jargão social moderno, alegoria ou exemplo histórico periférico.",
+      "decisao_por_lote": {
+        "STT26-08": "AUTORIZAR-COTEJO-AMPLIADO"
+      },
+      "evidencias_disponiveis": {
+        "STT26-08": [
+          "STT26-08-RC-047-001",
+          "STT26-08-RC-047-065"
+        ]
+      },
+      "observacao": "Despacho restrito a STT26-08; demais lotes do eixo permanecem independentes."
+    },
+    {
+      "codigo": "RC-102",
+      "nome": "Shiva (Savna)",
+      "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "Deliberações explícitas do Curador: arquitetura cósmica, psiquismo e mecânica de queda; metodologia, consciência e figuras centrais do teatro cósmico seguem ao cotejo. Descartes cobrem jargão social moderno, alegoria, exemplo histórico periférico ou espiritualidade genérica.",
+      "decisao_por_lote": {
+        "STT26-08": "AUTORIZAR-COTEJO-AMPLIADO",
+        "STT26-09": "AUTORIZAR-COTEJO-AMPLIADO",
+        "STT26-11": "AUTORIZAR-COTEJO-AMPLIADO",
+        "STT26-12": "AUTORIZAR-COTEJO-AMPLIADO"
+      },
+      "evidencias_disponiveis": {
+        "STT26-08": [
+          "STT26-08-RC-102-001",
+          "STT26-08-RC-102-015",
+          "STT26-08-RC-102-020"
+        ],
+        "STT26-09": [
+          "STT26-09-RC-102-001",
+          "STT26-09-RC-102-003"
+        ],
+        "STT26-11": [
+          "STT26-11-RC-102-001",
+          "STT26-11-RC-102-002",
+          "STT26-11-RC-102-003"
+        ],
+        "STT26-12": [
+          "STT26-12-RC-102-001",
+          "STT26-12-RC-102-002"
+        ]
+      },
+      "observacao": "Decisões registradas independentemente por lote; despacho do eixo integralmente deliberado."
+    },
+    {
+      "codigo": "RC-166",
+      "nome": "Mentalma",
+      "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "Deliberações explícitas do Curador: arquitetura cósmica, psiquismo e mecânica de queda; metodologia, consciência e figuras centrais do teatro cósmico seguem ao cotejo. Descartes cobrem jargão social moderno, alegoria, exemplo histórico periférico ou espiritualidade genérica.",
+      "decisao_por_lote": {
+        "STT26-08": "AUTORIZAR-COTEJO-AMPLIADO",
+        "STT26-09": "AUTORIZAR-COTEJO-AMPLIADO",
+        "STT26-10": "AUTORIZAR-COTEJO-AMPLIADO",
+        "STT26-11": "AUTORIZAR-COTEJO-AMPLIADO",
+        "STT26-12": "AUTORIZAR-COTEJO-AMPLIADO"
+      },
+      "evidencias_disponiveis": {
+        "STT26-08": [
+          "STT26-08-RC-166-001",
+          "STT26-08-RC-166-004",
+          "STT26-08-RC-166-017"
+        ],
+        "STT26-09": [
+          "STT26-09-RC-166-001",
+          "STT26-09-RC-166-002",
+          "STT26-09-RC-166-003"
+        ],
+        "STT26-10": [
+          "STT26-10-RC-166-001",
+          "STT26-10-RC-166-002",
+          "STT26-10-RC-166-004"
+        ],
+        "STT26-11": [
+          "STT26-11-RC-166-001",
+          "STT26-11-RC-166-003",
+          "STT26-11-RC-166-004"
+        ],
+        "STT26-12": [
+          "STT26-12-RC-166-001",
+          "STT26-12-RC-166-002",
+          "STT26-12-RC-166-003"
+        ]
+      },
+      "observacao": "Decisões registradas independentemente por lote; despacho do eixo integralmente deliberado."
+    },
+    {
+      "codigo": "RC-940",
+      "nome": "Samsara",
+      "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "Deliberação explícita do Curador: mecânica psíquica e espiritual, divindades, entidades e grupos da cosmogonia seguem ao cotejo; descartes cobrem analogia, vinheta institucional ou do canal, e espiritualidade genérica.",
+      "decisao_por_lote": {
+        "STT26-11": "AUTORIZAR-COTEJO-AMPLIADO"
+      },
+      "evidencias_disponiveis": {
+        "STT26-11": [
+          "STT26-11-RC-940-001"
+        ]
+      },
+      "observacao": "Decisões registradas por lote; STT26-12 permanece independente e PENDENTE."
+    },
+    {
+      "codigo": "RC-135",
+      "nome": "Vishnu (Mavatna)",
+      "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "Deliberações explícitas do Curador: arquitetura cósmica, psiquismo e mecânica de queda; metodologia, consciência e figuras centrais do teatro cósmico seguem ao cotejo. Descartes cobrem jargão social moderno, alegoria, exemplo histórico periférico ou espiritualidade genérica.",
+      "decisao_por_lote": {
+        "STT26-08": "AUTORIZAR-COTEJO-AMPLIADO",
+        "STT26-09": "AUTORIZAR-COTEJO-AMPLIADO",
+        "STT26-11": "AUTORIZAR-COTEJO-AMPLIADO"
+      },
+      "evidencias_disponiveis": {
+        "STT26-08": [
+          "STT26-08-RC-135-001",
+          "STT26-08-RC-135-015",
+          "STT26-08-RC-135-023"
+        ],
+        "STT26-09": [
+          "STT26-09-RC-135-001",
+          "STT26-09-RC-135-003"
+        ],
+        "STT26-11": [
+          "STT26-11-RC-135-001",
+          "STT26-11-RC-135-002",
+          "STT26-11-RC-135-003"
+        ]
+      },
+      "observacao": "Decisões registradas por lote; STT26-12 permanece independente e PENDENTE."
+    },
+    {
+      "codigo": "RC-037",
+      "nome": "Brahma (Brajna)",
+      "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "Deliberações explícitas do Curador: arquitetura cósmica, psiquismo e mecânica de queda; metodologia, consciência e figuras centrais do teatro cósmico seguem ao cotejo. Descartes cobrem jargão social moderno, alegoria, exemplo histórico periférico ou espiritualidade genérica.",
+      "decisao_por_lote": {
+        "STT26-08": "AUTORIZAR-COTEJO-AMPLIADO",
+        "STT26-09": "AUTORIZAR-COTEJO-AMPLIADO",
+        "STT26-10": "AUTORIZAR-COTEJO-AMPLIADO",
+        "STT26-11": "AUTORIZAR-COTEJO-AMPLIADO",
+        "STT26-12": "AUTORIZAR-COTEJO-AMPLIADO"
+      },
+      "evidencias_disponiveis": {
+        "STT26-08": [
+          "STT26-08-RC-037-001",
+          "STT26-08-RC-037-017",
+          "STT26-08-RC-037-021"
+        ],
+        "STT26-09": [
+          "STT26-09-RC-037-001"
+        ],
+        "STT26-10": [
+          "STT26-10-RC-037-001",
+          "STT26-10-RC-037-002",
+          "STT26-10-RC-037-003"
+        ],
+        "STT26-11": [
+          "STT26-11-RC-037-001",
+          "STT26-11-RC-037-003",
+          "STT26-11-RC-037-004"
+        ],
+        "STT26-12": [
+          "STT26-12-RC-037-001",
+          "STT26-12-RC-037-004"
+        ]
+      },
+      "observacao": "Decisões registradas independentemente por lote; despacho do eixo integralmente deliberado."
+    },
+    {
+      "codigo": "RC-086",
+      "nome": "Pandora",
+      "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "Deliberações explícitas do Curador: arquitetura cósmica, psiquismo e mecânica de queda; metodologia, consciência e figuras centrais do teatro cósmico seguem ao cotejo. Descartes cobrem jargão social moderno, alegoria, exemplo histórico periférico ou espiritualidade genérica.",
+      "decisao_por_lote": {
+        "STT26-08": "AUTORIZAR-COTEJO-AMPLIADO",
+        "STT26-09": "AUTORIZAR-COTEJO-AMPLIADO",
+        "STT26-10": "AUTORIZAR-COTEJO-AMPLIADO",
+        "STT26-12": "AUTORIZAR-COTEJO-AMPLIADO"
+      },
+      "evidencias_disponiveis": {
+        "STT26-08": [
+          "STT26-08-RC-086-001",
+          "STT26-08-RC-086-003",
+          "STT26-08-RC-086-004"
+        ],
+        "STT26-09": [
+          "STT26-09-RC-086-001"
+        ],
+        "STT26-10": [
+          "STT26-10-RC-086-001",
+          "STT26-10-RC-086-023",
+          "STT26-10-RC-086-030"
+        ],
+        "STT26-12": [
+          "STT26-12-RC-086-001"
+        ]
+      },
+      "observacao": "Decisões registradas independentemente por lote; despacho do eixo integralmente deliberado."
+    },
+    {
+      "codigo": "RC-938",
+      "nome": "Livre-arbítrio",
+      "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "Deliberações explícitas do Curador: arquitetura cósmica, psiquismo e mecânica de queda; metodologia, consciência e figuras centrais do teatro cósmico seguem ao cotejo. Descartes cobrem jargão social moderno, alegoria, exemplo histórico periférico ou espiritualidade genérica.",
+      "decisao_por_lote": {
+        "STT26-08": "AUTORIZAR-COTEJO-AMPLIADO",
+        "STT26-09": "AUTORIZAR-COTEJO-AMPLIADO",
+        "STT26-10": "AUTORIZAR-COTEJO-AMPLIADO"
+      },
+      "evidencias_disponiveis": {
+        "STT26-08": [
+          "STT26-08-RC-938-001",
+          "STT26-08-RC-938-006"
+        ],
+        "STT26-09": [
+          "STT26-09-RC-938-001",
+          "STT26-09-RC-938-002",
+          "STT26-09-RC-938-003"
+        ],
+        "STT26-10": [
+          "STT26-10-RC-938-001",
+          "STT26-10-RC-938-002",
+          "STT26-10-RC-938-003"
+        ]
+      },
+      "observacao": "Decisões registradas por lote; STT26-11 e STT26-12 permanecem independentes e PENDENTES."
+    },
+    {
+      "codigo": "RC-009",
+      "nome": "Sophia (Cristo Cósmico)",
+      "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "Deliberações explícitas do Curador: arquitetura cósmica, psiquismo e mecânica de queda; metodologia, consciência e figuras centrais do teatro cósmico seguem ao cotejo. Descartes cobrem jargão social moderno, alegoria, exemplo histórico periférico ou espiritualidade genérica.",
+      "decisao_por_lote": {
+        "STT26-08": "AUTORIZAR-COTEJO-AMPLIADO",
+        "STT26-09": "AUTORIZAR-COTEJO-AMPLIADO",
+        "STT26-10": "AUTORIZAR-COTEJO-AMPLIADO",
+        "STT26-11": "AUTORIZAR-COTEJO-AMPLIADO",
+        "STT26-12": "AUTORIZAR-COTEJO-AMPLIADO"
+      },
+      "evidencias_disponiveis": {
+        "STT26-08": [
+          "STT26-08-RC-009-001",
+          "STT26-08-RC-009-011"
+        ],
+        "STT26-09": [
+          "STT26-09-RC-009-001",
+          "STT26-09-RC-009-002"
+        ],
+        "STT26-10": [
+          "STT26-10-RC-009-001",
+          "STT26-10-RC-009-002",
+          "STT26-10-RC-009-011"
+        ],
+        "STT26-11": [
+          "STT26-11-RC-009-001",
+          "STT26-11-RC-009-003",
+          "STT26-11-RC-009-004"
+        ],
+        "STT26-12": [
+          "STT26-12-RC-009-001"
+        ]
+      },
+      "observacao": "Decisões registradas independentemente por lote; despacho do eixo integralmente deliberado."
+    },
+    {
+      "codigo": "RC-414",
+      "nome": "Krishna (avatar de Vishnu/Shiva)",
+      "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "Deliberações explícitas do Curador: arquitetura cósmica, psiquismo e mecânica de queda; metodologia, consciência e figuras centrais do teatro cósmico seguem ao cotejo. Descartes cobrem jargão social moderno, alegoria, exemplo histórico periférico ou espiritualidade genérica.",
+      "decisao_por_lote": {
+        "STT26-08": "AUTORIZAR-COTEJO-AMPLIADO",
+        "STT26-09": "AUTORIZAR-COTEJO-AMPLIADO",
+        "STT26-10": "AUTORIZAR-COTEJO-AMPLIADO",
+        "STT26-11": "AUTORIZAR-COTEJO-AMPLIADO",
+        "STT26-12": "AUTORIZAR-COTEJO-AMPLIADO"
+      },
+      "evidencias_disponiveis": {
+        "STT26-08": [
+          "STT26-08-RC-414-001",
+          "STT26-08-RC-414-002"
+        ],
+        "STT26-09": [
+          "STT26-09-RC-414-001",
+          "STT26-09-RC-414-002",
+          "STT26-09-RC-414-008"
+        ],
+        "STT26-10": [
+          "STT26-10-RC-414-001",
+          "STT26-10-RC-414-003",
+          "STT26-10-RC-414-004"
+        ],
+        "STT26-11": [
+          "STT26-11-RC-414-001",
+          "STT26-11-RC-414-002",
+          "STT26-11-RC-414-004"
+        ],
+        "STT26-12": [
+          "STT26-12-RC-414-001",
+          "STT26-12-RC-414-006",
+          "STT26-12-RC-414-008"
+        ]
+      },
+      "observacao": "Decisões registradas independentemente por lote; despacho do eixo integralmente deliberado."
+    },
+    {
+      "codigo": "RC-028",
+      "nome": "Atlan",
+      "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "Deliberações explícitas do Curador: arquitetura cósmica, psiquismo e mecânica de queda; metodologia, consciência e figuras centrais do teatro cósmico seguem ao cotejo. Descartes cobrem jargão social moderno, alegoria, exemplo histórico periférico ou espiritualidade genérica.",
+      "decisao_por_lote": {
+        "STT26-09": "AUTORIZAR-COTEJO-AMPLIADO",
+        "STT26-10": "AUTORIZAR-COTEJO-AMPLIADO",
+        "STT26-11": "AUTORIZAR-COTEJO-AMPLIADO",
+        "STT26-12": "AUTORIZAR-COTEJO-AMPLIADO"
+      },
+      "evidencias_disponiveis": {
+        "STT26-09": [
+          "STT26-09-RC-028-001",
+          "STT26-09-RC-028-003",
+          "STT26-09-RC-028-008"
+        ],
+        "STT26-10": [
+          "STT26-10-RC-028-001",
+          "STT26-10-RC-028-005"
+        ],
+        "STT26-11": [
+          "STT26-11-RC-028-001"
+        ],
+        "STT26-12": [
+          "STT26-12-RC-028-001",
+          "STT26-12-RC-028-004",
+          "STT26-12-RC-028-005"
+        ]
+      },
+      "observacao": "Decisões registradas independentemente por lote; despacho do eixo integralmente deliberado."
+    },
+    {
+      "codigo": "RC-752",
+      "nome": "Agenda Espiritual",
+      "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "Deliberação explícita do Curador: anatomia espiritual, mecânica cósmica e conceitos densos seguem ao cotejo; descartes cobrem analogia, exemplo metodológico ou vinheta institucional.",
+      "decisao_por_lote": {
+        "STT26-10": "AUTORIZAR-COTEJO-AMPLIADO",
+        "STT26-11": "AUTORIZAR-COTEJO-AMPLIADO"
+      },
+      "evidencias_disponiveis": {
+        "STT26-10": [
+          "STT26-10-RC-752-001",
+          "STT26-10-RC-752-014",
+          "STT26-10-RC-752-024"
+        ],
+        "STT26-11": [
+          "STT26-11-RC-752-001",
+          "STT26-11-RC-752-005",
+          "STT26-11-RC-752-006"
+        ]
+      },
+      "observacao": "Decisões registradas por lote; STT26-12 permanece independente e PENDENTE."
+    },
+    {
+      "codigo": "RC-474",
+      "nome": "Arcontes (= Sophias e Indras; Conselho dos 70)",
+      "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "Deliberações explícitas do Curador: arquitetura cósmica, psiquismo e mecânica de queda; metodologia, consciência e figuras centrais do teatro cósmico seguem ao cotejo. Descartes cobrem jargão social moderno, alegoria, exemplo histórico periférico ou espiritualidade genérica.",
+      "decisao_por_lote": {
+        "STT26-09": "AUTORIZAR-COTEJO-AMPLIADO",
+        "STT26-10": "AUTORIZAR-COTEJO-AMPLIADO",
+        "STT26-11": "AUTORIZAR-COTEJO-AMPLIADO",
+        "STT26-12": "AUTORIZAR-COTEJO-AMPLIADO"
+      },
+      "evidencias_disponiveis": {
+        "STT26-09": [
+          "STT26-09-RC-474-001"
+        ],
+        "STT26-10": [
+          "STT26-10-RC-474-001",
+          "STT26-10-RC-474-008"
+        ],
+        "STT26-11": [
+          "STT26-11-RC-474-001"
+        ],
+        "STT26-12": [
+          "STT26-12-RC-474-001",
+          "STT26-12-RC-474-002"
+        ]
+      },
+      "observacao": "Decisões registradas independentemente por lote; despacho do eixo integralmente deliberado."
+    },
+    {
+      "codigo": "RC-059",
+      "nome": "Espiritualidade Superior",
+      "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "Deliberações explícitas do Curador: arquitetura cósmica, psiquismo e mecânica de queda; metodologia, consciência e figuras centrais do teatro cósmico seguem ao cotejo. Descartes cobrem jargão social moderno, alegoria, exemplo histórico periférico ou espiritualidade genérica.",
+      "decisao_por_lote": {
+        "STT26-08": "DESCARTAR-DO-LOTE",
+        "STT26-09": "DESCARTAR-DO-LOTE",
+        "STT26-11": "DESCARTAR-DO-LOTE",
+        "STT26-12": "DESCARTAR-DO-LOTE"
+      },
+      "evidencias_disponiveis": {
+        "STT26-08": [
+          "STT26-08-RC-059-001",
+          "STT26-08-RC-059-007"
+        ],
+        "STT26-09": [
+          "STT26-09-RC-059-001"
+        ],
+        "STT26-11": [
+          "STT26-11-RC-059-001",
+          "STT26-11-RC-059-002",
+          "STT26-11-RC-059-003"
+        ],
+        "STT26-12": [
+          "STT26-12-RC-059-001",
+          "STT26-12-RC-059-002",
+          "STT26-12-RC-059-007"
+        ]
+      },
+      "observacao": "Decisões registradas independentemente por lote; despacho do eixo integralmente deliberado."
+    },
+    {
+      "codigo": "RC-623",
+      "nome": "Corpo Átmico",
+      "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "Deliberações explícitas do Curador: arquitetura cósmica, psiquismo e mecânica de queda; metodologia, consciência e figuras centrais do teatro cósmico seguem ao cotejo. Descartes cobrem jargão social moderno, alegoria, exemplo histórico periférico ou espiritualidade genérica.",
+      "decisao_por_lote": {
+        "STT26-09": "AUTORIZAR-COTEJO-AMPLIADO",
+        "STT26-10": "AUTORIZAR-COTEJO-AMPLIADO",
+        "STT26-12": "AUTORIZAR-COTEJO-AMPLIADO"
+      },
+      "evidencias_disponiveis": {
+        "STT26-09": [
+          "STT26-09-RC-623-001"
+        ],
+        "STT26-10": [
+          "STT26-10-RC-623-001",
+          "STT26-10-RC-623-005",
+          "STT26-10-RC-623-009"
+        ],
+        "STT26-12": [
+          "STT26-12-RC-623-001",
+          "STT26-12-RC-623-002",
+          "STT26-12-RC-623-003"
+        ]
+      },
+      "observacao": "Decisões registradas independentemente por lote; despacho do eixo integralmente deliberado."
+    },
+    {
+      "codigo": "RC-054",
+      "nome": "Divindades (Co-criadoras)",
+      "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "Deliberação explícita do Curador: arquitetura cósmica, psiquismo e mecânica de queda seguem ao cotejo; descartes cobrem jargão social moderno, alegoria ou exemplo histórico periférico.",
+      "decisao_por_lote": {
+        "STT26-08": "AUTORIZAR-COTEJO-AMPLIADO"
+      },
+      "evidencias_disponiveis": {
+        "STT26-08": [
+          "STT26-08-RC-054-001"
+        ]
+      },
+      "observacao": "Despacho restrito a STT26-08; demais lotes do eixo permanecem independentes."
+    },
+    {
+      "codigo": "RC-190",
+      "nome": "Revelação Espiritual (Kardec)",
+      "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "Deliberações explícitas do Curador: arquitetura cósmica, psiquismo e mecânica de queda; metodologia, consciência e figuras centrais do teatro cósmico seguem ao cotejo. Descartes cobrem jargão social moderno, alegoria, exemplo histórico periférico ou espiritualidade genérica.",
+      "decisao_por_lote": {
+        "STT26-09": "DESCARTAR-DO-LOTE",
+        "STT26-11": "DESCARTAR-DO-LOTE",
+        "STT26-12": "DESCARTAR-DO-LOTE"
+      },
+      "evidencias_disponiveis": {
+        "STT26-09": [
+          "STT26-09-RC-190-001",
+          "STT26-09-RC-190-003",
+          "STT26-09-RC-190-004"
+        ],
+        "STT26-11": [
+          "STT26-11-RC-190-001",
+          "STT26-11-RC-190-002",
+          "STT26-11-RC-190-003"
+        ],
+        "STT26-12": [
+          "STT26-12-RC-190-001",
+          "STT26-12-RC-190-002",
+          "STT26-12-RC-190-003"
+        ]
+      },
+      "observacao": "Decisões registradas independentemente por lote; despacho do eixo integralmente deliberado."
+    },
+    {
+      "codigo": "RC-397",
+      "nome": "Tirthankaras (Rishabh Dev, Jina Mahavira)",
+      "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "Deliberação explícita do Curador: anatomia espiritual, mecânica cósmica e conceitos densos seguem ao cotejo; descartes cobrem analogia, exemplo metodológico ou vinheta institucional.",
+      "decisao_por_lote": {
+        "STT26-10": "AUTORIZAR-COTEJO-AMPLIADO"
+      },
+      "evidencias_disponiveis": {
+        "STT26-10": [
+          "STT26-10-RC-397-001",
+          "STT26-10-RC-397-013"
+        ]
+      },
+      "observacao": "Decisões registradas por lote; STT26-11 e STT26-12 permanecem independentes e PENDENTES."
+    },
+    {
+      "codigo": "RC-553",
+      "nome": "Eu Profundo (nível espiritual do Eu)",
+      "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "Deliberação explícita do Curador: arquitetura cósmica, psiquismo e mecânica de queda seguem ao cotejo; descartes cobrem jargão social moderno, alegoria ou exemplo histórico periférico.",
+      "decisao_por_lote": {
+        "STT26-08": "AUTORIZAR-COTEJO-AMPLIADO",
+        "STT26-11": "AUTORIZAR-COTEJO-AMPLIADO"
+      },
+      "evidencias_disponiveis": {
+        "STT26-08": [
+          "STT26-08-RC-553-001"
+        ],
+        "STT26-11": [
+          "STT26-11-RC-553-001",
+          "STT26-11-RC-553-002",
+          "STT26-11-RC-553-003"
+        ]
+      },
+      "observacao": "Decisões registradas por lote; STT26-12 permanece independente e PENDENTE."
+    },
+    {
+      "codigo": "RC-085",
+      "nome": "Orbum",
+      "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "Deliberação explícita do Curador: anatomia espiritual, mecânica cósmica e conceitos densos seguem ao cotejo; descartes cobrem analogia, exemplo metodológico ou vinheta institucional.",
+      "decisao_por_lote": {
+        "STT26-10": "DESCARTAR-DO-LOTE",
+        "STT26-11": "DESCARTAR-DO-LOTE",
+        "STT26-12": "DESCARTAR-DO-LOTE"
+      },
+      "evidencias_disponiveis": {
+        "STT26-10": [
+          "STT26-10-RC-085-001",
+          "STT26-10-RC-085-003",
+          "STT26-10-RC-085-004"
+        ],
+        "STT26-11": [
+          "STT26-11-RC-085-001",
+          "STT26-11-RC-085-002"
+        ],
+        "STT26-12": [
+          "STT26-12-RC-085-001",
+          "STT26-12-RC-085-003"
+        ]
+      },
+      "observacao": "Decisões registradas independentemente por lote; despacho do eixo integralmente deliberado."
+    },
+    {
+      "codigo": "RC-092",
+      "nome": "Quarto Logos (Olm / Codificador de Zian)",
+      "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "Deliberações explícitas do Curador: arquitetura cósmica, psiquismo e mecânica de queda; metodologia, consciência e figuras centrais do teatro cósmico seguem ao cotejo. Descartes cobrem jargão social moderno, alegoria, exemplo histórico periférico ou espiritualidade genérica.",
+      "decisao_por_lote": {
+        "STT26-09": "AUTORIZAR-COTEJO-AMPLIADO",
+        "STT26-10": "AUTORIZAR-COTEJO-AMPLIADO"
+      },
+      "evidencias_disponiveis": {
+        "STT26-09": [
+          "STT26-09-RC-092-001"
+        ],
+        "STT26-10": [
+          "STT26-10-RC-092-001"
+        ]
+      },
+      "observacao": "Decisões registradas por lote; STT26-11 e STT26-12 permanecem independentes e PENDENTES."
+    },
+    {
+      "codigo": "RC-385",
+      "nome": "Egrégora (circuito dos elétrons rebeldes)",
+      "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "Deliberações explícitas do Curador: arquitetura cósmica, psiquismo e mecânica de queda; metodologia, consciência e figuras centrais do teatro cósmico seguem ao cotejo. Descartes cobrem jargão social moderno, alegoria, exemplo histórico periférico ou espiritualidade genérica.",
+      "decisao_por_lote": {
+        "STT26-09": "AUTORIZAR-COTEJO-AMPLIADO",
+        "STT26-12": "AUTORIZAR-COTEJO-AMPLIADO"
+      },
+      "evidencias_disponiveis": {
+        "STT26-09": [
+          "STT26-09-RC-385-001"
+        ],
+        "STT26-12": [
+          "STT26-12-RC-385-001",
+          "STT26-12-RC-385-007"
+        ]
+      },
+      "observacao": "Decisões registradas independentemente por lote; despacho do eixo integralmente deliberado."
+    },
+    {
+      "codigo": "RC-019",
+      "nome": "Anjos clones",
+      "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "Deliberação explícita do Curador: anatomia espiritual, mecânica cósmica e conceitos densos seguem ao cotejo; descartes cobrem analogia, exemplo metodológico ou vinheta institucional.",
+      "decisao_por_lote": {
+        "STT26-10": "AUTORIZAR-COTEJO-AMPLIADO"
+      },
+      "evidencias_disponiveis": {
+        "STT26-10": [
+          "STT26-10-RC-019-001"
+        ]
+      },
+      "observacao": "Decisões registradas por lote; STT26-11 e STT26-12 permanecem independentes e PENDENTES."
+    },
+    {
+      "codigo": "RC-104",
+      "nome": "Trimurti",
+      "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "Deliberação explícita do Curador: anatomia espiritual, mecânica cósmica e conceitos densos seguem ao cotejo; descartes cobrem analogia, exemplo metodológico ou vinheta institucional.",
+      "decisao_por_lote": {
+        "STT26-10": "AUTORIZAR-COTEJO-AMPLIADO",
+        "STT26-11": "AUTORIZAR-COTEJO-AMPLIADO"
+      },
+      "evidencias_disponiveis": {
+        "STT26-10": [
+          "STT26-10-RC-104-001",
+          "STT26-10-RC-104-002"
+        ],
+        "STT26-11": [
+          "STT26-11-RC-104-001",
+          "STT26-11-RC-104-002",
+          "STT26-11-RC-104-003"
+        ]
+      },
+      "observacao": "Decisões registradas por lote; STT26-12 permanece independente e PENDENTE."
+    },
+    {
+      "codigo": "RC-292",
+      "nome": "Telos (de um deus)",
+      "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "Deliberação explícita do Curador: anatomia espiritual, mecânica cósmica e conceitos densos seguem ao cotejo; descartes cobrem analogia, exemplo metodológico ou vinheta institucional.",
+      "decisao_por_lote": {
+        "STT26-10": "AUTORIZAR-COTEJO-AMPLIADO"
+      },
+      "evidencias_disponiveis": {
+        "STT26-10": [
+          "STT26-10-RC-292-001"
+        ]
+      },
+      "observacao": "Decisões registradas por lote; STT26-11 e STT26-12 permanecem independentes e PENDENTES."
+    },
+    {
+      "codigo": "RC-392",
+      "nome": "Reforma Íntima (tema do Grupo Atlan)",
+      "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "Deliberação explícita do Curador: arquitetura cósmica, psiquismo e mecânica de queda seguem ao cotejo; descartes cobrem jargão social moderno, alegoria ou exemplo histórico periférico.",
+      "decisao_por_lote": {
+        "STT26-08": "AUTORIZAR-COTEJO-AMPLIADO",
+        "STT26-12": "AUTORIZAR-COTEJO-AMPLIADO"
+      },
+      "evidencias_disponiveis": {
+        "STT26-08": [
+          "STT26-08-RC-392-001",
+          "STT26-08-RC-392-003",
+          "STT26-08-RC-392-004"
+        ],
+        "STT26-12": [
+          "STT26-12-RC-392-001",
+          "STT26-12-RC-392-003",
+          "STT26-12-RC-392-004"
+        ]
+      },
+      "observacao": "Decisões registradas independentemente por lote; despacho do eixo integralmente deliberado."
+    },
+    {
+      "codigo": "RC-892",
+      "nome": "Pós-Verdade",
+      "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "Deliberação explícita do Curador: arquitetura cósmica, psiquismo e mecânica de queda seguem ao cotejo; descartes cobrem jargão social moderno, alegoria ou exemplo histórico periférico.",
+      "decisao_por_lote": {
+        "STT26-08": "DESCARTAR-DO-LOTE"
+      },
+      "evidencias_disponiveis": {
+        "STT26-08": [
+          "STT26-08-RC-892-001"
+        ]
+      },
+      "observacao": "Despacho restrito a STT26-08; demais lotes do eixo permanecem independentes."
+    },
+    {
+      "codigo": "RC-061",
+      "nome": "Espiritualidade Laboratorial",
+      "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "Deliberação explícita do Curador: arquitetura cósmica, psiquismo e mecânica de queda seguem ao cotejo; descartes cobrem jargão social moderno, alegoria ou exemplo histórico periférico.",
+      "decisao_por_lote": {
+        "STT26-08": "AUTORIZAR-COTEJO-AMPLIADO"
+      },
+      "evidencias_disponiveis": {
+        "STT26-08": [
+          "STT26-08-RC-061-001"
+        ]
+      },
+      "observacao": "Despacho restrito a STT26-08; demais lotes do eixo permanecem independentes."
+    },
+    {
+      "codigo": "RC-108",
+      "nome": "Universo Paralelo",
+      "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "Deliberações explícitas do Curador: arquitetura cósmica, psiquismo e mecânica de queda; metodologia, consciência e figuras centrais do teatro cósmico seguem ao cotejo. Descartes cobrem jargão social moderno, alegoria, exemplo histórico periférico ou espiritualidade genérica.",
+      "decisao_por_lote": {
+        "STT26-09": "AUTORIZAR-COTEJO-AMPLIADO"
+      },
+      "evidencias_disponiveis": {
+        "STT26-09": [
+          "STT26-09-RC-108-001",
+          "STT26-09-RC-108-006",
+          "STT26-09-RC-108-007"
+        ]
+      },
+      "observacao": "Decisões registradas por lote; STT26-10 a STT26-12 permanecem independentes e PENDENTES."
+    },
+    {
+      "codigo": "RC-193",
+      "nome": "Rebanho humano",
+      "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "Deliberação explícita do Curador: arquitetura cósmica, psiquismo e mecânica de queda seguem ao cotejo; descartes cobrem jargão social moderno, alegoria ou exemplo histórico periférico.",
+      "decisao_por_lote": {
+        "STT26-08": "DESCARTAR-DO-LOTE"
+      },
+      "evidencias_disponiveis": {
+        "STT26-08": [
+          "STT26-08-RC-193-001",
+          "STT26-08-RC-193-002"
+        ]
+      },
+      "observacao": "Despacho restrito a STT26-08; demais lotes do eixo permanecem independentes."
+    },
+    {
+      "codigo": "RC-239",
+      "nome": "Hitler (figura histórica no RC)",
+      "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "Deliberação explícita do Curador: arquitetura cósmica, psiquismo e mecânica de queda seguem ao cotejo; descartes cobrem jargão social moderno, alegoria ou exemplo histórico periférico.",
+      "decisao_por_lote": {
+        "STT26-08": "DESCARTAR-DO-LOTE",
+        "STT26-12": "DESCARTAR-DO-LOTE"
+      },
+      "evidencias_disponiveis": {
+        "STT26-08": [
+          "STT26-08-RC-239-001",
+          "STT26-08-RC-239-002"
+        ],
+        "STT26-12": [
+          "STT26-12-RC-239-001",
+          "STT26-12-RC-239-004"
+        ]
+      },
+      "observacao": "Decisões registradas independentemente por lote; despacho do eixo integralmente deliberado."
+    },
+    {
+      "codigo": "RC-513",
+      "nome": "Espiritualidade Errática (4ª faixa manifestada)",
+      "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "Deliberação explícita do Curador: mecânica psíquica e espiritual, divindades, entidades e grupos da cosmogonia seguem ao cotejo; descartes cobrem analogia, vinheta institucional ou do canal, e espiritualidade genérica.",
+      "decisao_por_lote": {
+        "STT26-11": "AUTORIZAR-COTEJO-AMPLIADO"
+      },
+      "evidencias_disponiveis": {
+        "STT26-11": [
+          "STT26-11-RC-513-001",
+          "STT26-11-RC-513-003",
+          "STT26-11-RC-513-005"
+        ]
+      },
+      "observacao": "Decisões registradas por lote; STT26-12 permanece independente e PENDENTE."
+    },
+    {
+      "codigo": "RC-528",
+      "nome": "Mergulho (designação ellâmica da queda)",
+      "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "Deliberação explícita do Curador: arquitetura cósmica, psiquismo e mecânica de queda seguem ao cotejo; descartes cobrem jargão social moderno, alegoria ou exemplo histórico periférico.",
+      "decisao_por_lote": {
+        "STT26-08": "AUTORIZAR-COTEJO-AMPLIADO"
+      },
+      "evidencias_disponiveis": {
+        "STT26-08": [
+          "STT26-08-RC-528-001",
+          "STT26-08-RC-528-006",
+          "STT26-08-RC-528-007"
+        ]
+      },
+      "observacao": "Despacho restrito a STT26-08; demais lotes do eixo permanecem independentes."
+    },
+    {
+      "codigo": "RC-163",
+      "nome": "Mente Universal (Emergente)",
+      "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "Deliberações explícitas do Curador: arquitetura cósmica, psiquismo e mecânica de queda; metodologia, consciência e figuras centrais do teatro cósmico seguem ao cotejo. Descartes cobrem jargão social moderno, alegoria, exemplo histórico periférico ou espiritualidade genérica.",
+      "decisao_por_lote": {
+        "STT26-09": "AUTORIZAR-COTEJO-AMPLIADO"
+      },
+      "evidencias_disponiveis": {
+        "STT26-09": [
+          "STT26-09-RC-163-001",
+          "STT26-09-RC-163-006"
+        ]
+      },
+      "observacao": "Decisões registradas por lote; STT26-10 a STT26-12 permanecem independentes e PENDENTES."
+    },
+    {
+      "codigo": "RC-604",
+      "nome": "Fatiamento de Consciência",
+      "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "Deliberação explícita do Curador: arquitetura cósmica, psiquismo e mecânica de queda seguem ao cotejo; descartes cobrem jargão social moderno, alegoria ou exemplo histórico periférico.",
+      "decisao_por_lote": {
+        "STT26-08": "AUTORIZAR-COTEJO-AMPLIADO"
+      },
+      "evidencias_disponiveis": {
+        "STT26-08": [
+          "STT26-08-RC-604-001"
+        ]
+      },
+      "observacao": "Despacho restrito a STT26-08; demais lotes do eixo permanecem independentes."
+    },
+    {
+      "codigo": "RC-919",
+      "nome": "Vrites",
+      "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "Deliberação explícita do Curador: mecânica psíquica e espiritual, divindades, entidades e grupos da cosmogonia seguem ao cotejo; descartes cobrem analogia, vinheta institucional ou do canal, e espiritualidade genérica.",
+      "decisao_por_lote": {
+        "STT26-11": "AUTORIZAR-COTEJO-AMPLIADO"
+      },
+      "evidencias_disponiveis": {
+        "STT26-11": [
+          "STT26-11-RC-919-001",
+          "STT26-11-RC-919-005"
+        ]
+      },
+      "observacao": "Decisões registradas por lote; STT26-12 permanece independente e PENDENTE."
+    },
+    {
+      "codigo": "RC-335",
+      "nome": "Lavagem Cerebral (condicionamento)",
+      "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "Deliberação explícita do Curador: arquitetura cósmica, psiquismo e mecânica de queda seguem ao cotejo; descartes cobrem jargão social moderno, alegoria ou exemplo histórico periférico.",
+      "decisao_por_lote": {
+        "STT26-08": "DESCARTAR-DO-LOTE"
+      },
+      "evidencias_disponiveis": {
+        "STT26-08": [
+          "STT26-08-RC-335-001",
+          "STT26-08-RC-335-004"
+        ]
+      },
+      "observacao": "Despacho restrito a STT26-08; demais lotes do eixo permanecem independentes."
+    },
+    {
+      "codigo": "RC-586",
+      "nome": "Rishis",
+      "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "Deliberação explícita do Curador: mecânica psíquica e espiritual, divindades, entidades e grupos da cosmogonia seguem ao cotejo; descartes cobrem analogia, vinheta institucional ou do canal, e espiritualidade genérica.",
+      "decisao_por_lote": {
+        "STT26-11": "AUTORIZAR-COTEJO-AMPLIADO"
+      },
+      "evidencias_disponiveis": {
+        "STT26-11": [
+          "STT26-11-RC-586-001"
+        ]
+      },
+      "observacao": "Decisões registradas por lote; STT26-12 permanece independente e PENDENTE."
+    },
+    {
+      "codigo": "RC-759",
+      "nome": "Jainismo (antigo Druidismo — religião mais antiga)",
+      "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "Deliberação explícita do Curador: anatomia espiritual, mecânica cósmica e conceitos densos seguem ao cotejo; descartes cobrem analogia, exemplo metodológico ou vinheta institucional.",
+      "decisao_por_lote": {
+        "STT26-10": "AUTORIZAR-COTEJO-AMPLIADO"
+      },
+      "evidencias_disponiveis": {
+        "STT26-10": [
+          "STT26-10-RC-759-001"
+        ]
+      },
+      "observacao": "Decisões registradas por lote; STT26-11 e STT26-12 permanecem independentes e PENDENTES."
+    },
+    {
+      "codigo": "RC-921",
+      "nome": "Niroda",
+      "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "Deliberação explícita do Curador: mecânica psíquica e espiritual, divindades, entidades e grupos da cosmogonia seguem ao cotejo; descartes cobrem analogia, vinheta institucional ou do canal, e espiritualidade genérica.",
+      "decisao_por_lote": {
+        "STT26-11": "AUTORIZAR-COTEJO-AMPLIADO"
+      },
+      "evidencias_disponiveis": {
+        "STT26-11": [
+          "STT26-11-RC-921-001",
+          "STT26-11-RC-921-004"
+        ]
+      },
+      "observacao": "Decisões registradas por lote; STT26-12 permanece independente e PENDENTE."
+    },
+    {
+      "codigo": "RC-924",
+      "nome": "Loop Mental",
+      "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "Deliberação explícita do Curador: mecânica psíquica e espiritual, divindades, entidades e grupos da cosmogonia seguem ao cotejo; descartes cobrem analogia, vinheta institucional ou do canal, e espiritualidade genérica.",
+      "decisao_por_lote": {
+        "STT26-11": "AUTORIZAR-COTEJO-AMPLIADO"
+      },
+      "evidencias_disponiveis": {
+        "STT26-11": [
+          "STT26-11-RC-924-001"
+        ]
+      },
+      "observacao": "Decisões registradas por lote; STT26-12 permanece independente e PENDENTE."
+    },
+    {
+      "codigo": "RC-002",
+      "nome": "Rebelião de Lúcifer",
+      "classificacao_tecnica": "COMPARTILHADO-NO-EIXO",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "Deliberações explícitas do Curador: arquitetura cósmica, psiquismo e mecânica de queda; metodologia, consciência e figuras centrais do teatro cósmico seguem ao cotejo. Descartes cobrem jargão social moderno, alegoria, exemplo histórico periférico ou espiritualidade genérica.",
+      "decisao_por_lote": {
+        "STT26-09": "AUTORIZAR-COTEJO-AMPLIADO",
+        "STT26-10": "AUTORIZAR-COTEJO-AMPLIADO"
+      },
+      "evidencias_disponiveis": {
+        "STT26-09": [
+          "STT26-09-RC-002-001"
+        ],
+        "STT26-10": [
+          "STT26-10-RC-002-001",
+          "STT26-10-RC-002-003"
+        ]
+      },
+      "observacao": "Decisões registradas por lote; STT26-11 e STT26-12 permanecem independentes e PENDENTES."
+    },
+    {
+      "codigo": "RC-144",
+      "nome": "Zeitgeist",
+      "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "Deliberação explícita do Curador: anatomia espiritual, mecânica cósmica e entidades-chave do processo seguem ao cotejo; descartes cobrem analogia histórica, conceito genérico, menção de plataforma ou fonte clássica.",
+      "decisao_por_lote": {
+        "STT26-12": "DESCARTAR-DO-LOTE"
+      },
+      "evidencias_disponiveis": {
+        "STT26-12": [
+          "STT26-12-RC-144-001",
+          "STT26-12-RC-144-004"
+        ]
+      },
+      "observacao": "Decisões registradas independentemente por lote; despacho do eixo integralmente deliberado."
+    },
+    {
+      "codigo": "RC-148",
+      "nome": "Agentes da Vida Universal",
+      "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "Deliberação explícita do Curador: mecânica psíquica e espiritual, divindades, entidades e grupos da cosmogonia seguem ao cotejo; descartes cobrem analogia, vinheta institucional ou do canal, e espiritualidade genérica.",
+      "decisao_por_lote": {
+        "STT26-11": "AUTORIZAR-COTEJO-AMPLIADO"
+      },
+      "evidencias_disponiveis": {
+        "STT26-11": [
+          "STT26-11-RC-148-001"
+        ]
+      },
+      "observacao": "Decisões registradas por lote; STT26-12 permanece independente e PENDENTE."
+    },
+    {
+      "codigo": "RC-199",
+      "nome": "Assinatura da Alma",
+      "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "Deliberação explícita do Curador: arquitetura cósmica, psiquismo e mecânica de queda seguem ao cotejo; descartes cobrem jargão social moderno, alegoria ou exemplo histórico periférico.",
+      "decisao_por_lote": {
+        "STT26-08": "AUTORIZAR-COTEJO-AMPLIADO"
+      },
+      "evidencias_disponiveis": {
+        "STT26-08": [
+          "STT26-08-RC-199-001"
+        ]
+      },
+      "observacao": "Despacho restrito a STT26-08; demais lotes do eixo permanecem independentes."
+    },
+    {
+      "codigo": "RC-529",
+      "nome": "Ressonância límbica (emoções como tecnologia cósmica)",
+      "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "Deliberação explícita do Curador: anatomia espiritual, mecânica cósmica e entidades-chave do processo seguem ao cotejo; descartes cobrem analogia histórica, conceito genérico, menção de plataforma ou fonte clássica.",
+      "decisao_por_lote": {
+        "STT26-12": "AUTORIZAR-COTEJO-AMPLIADO"
+      },
+      "evidencias_disponiveis": {
+        "STT26-12": [
+          "STT26-12-RC-529-001",
+          "STT26-12-RC-529-003",
+          "STT26-12-RC-529-004"
+        ]
+      },
+      "observacao": "Decisões registradas independentemente por lote; despacho do eixo integralmente deliberado."
+    },
+    {
+      "codigo": "RC-624",
+      "nome": "Corpo Búdico",
+      "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "Deliberação explícita do Curador: anatomia espiritual, mecânica cósmica e conceitos densos seguem ao cotejo; descartes cobrem analogia, exemplo metodológico ou vinheta institucional.",
+      "decisao_por_lote": {
+        "STT26-10": "AUTORIZAR-COTEJO-AMPLIADO"
+      },
+      "evidencias_disponiveis": {
+        "STT26-10": [
+          "STT26-10-RC-624-001",
+          "STT26-10-RC-624-003"
+        ]
+      },
+      "observacao": "Decisões registradas por lote; STT26-11 e STT26-12 permanecem independentes e PENDENTES."
+    },
+    {
+      "codigo": "RC-854",
+      "nome": "Apocalipse (livro de João, ditado por Sofia/Rockman)",
+      "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "Deliberação explícita do Curador: anatomia espiritual, mecânica cósmica e entidades-chave do processo seguem ao cotejo; descartes cobrem analogia histórica, conceito genérico, menção de plataforma ou fonte clássica.",
+      "decisao_por_lote": {
+        "STT26-12": "AUTORIZAR-COTEJO-AMPLIADO"
+      },
+      "evidencias_disponiveis": {
+        "STT26-12": [
+          "STT26-12-RC-854-001"
+        ]
+      },
+      "observacao": "Decisões registradas independentemente por lote; despacho do eixo integralmente deliberado."
+    },
+    {
+      "codigo": "RC-862",
+      "nome": "Essênios (seita judaica puritana; criadores de João Batista)",
+      "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "Deliberação explícita do Curador: arquitetura cósmica, psiquismo e mecânica de queda seguem ao cotejo; descartes cobrem jargão social moderno, alegoria ou exemplo histórico periférico.",
+      "decisao_por_lote": {
+        "STT26-08": "AUTORIZAR-COTEJO-AMPLIADO"
+      },
+      "evidencias_disponiveis": {
+        "STT26-08": [
+          "STT26-08-RC-862-001"
+        ]
+      },
+      "observacao": "Despacho restrito a STT26-08; demais lotes do eixo permanecem independentes."
+    },
+    {
+      "codigo": "RC-941",
+      "nome": "Hipocampo",
+      "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "Deliberação explícita do Curador: anatomia espiritual, mecânica cósmica e conceitos densos seguem ao cotejo; descartes cobrem analogia, exemplo metodológico ou vinheta institucional.",
+      "decisao_por_lote": {
+        "STT26-10": "AUTORIZAR-COTEJO-AMPLIADO"
+      },
+      "evidencias_disponiveis": {
+        "STT26-10": [
+          "STT26-10-RC-941-001",
+          "STT26-10-RC-941-003"
+        ]
+      },
+      "observacao": "Decisões registradas por lote; STT26-11 e STT26-12 permanecem independentes e PENDENTES."
+    },
+    {
+      "codigo": "RC-071",
+      "nome": "Jan Val Ellam (Rogério de Almeida Freitas)",
+      "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "Deliberação explícita do Curador: mecânica psíquica e espiritual, divindades, entidades e grupos da cosmogonia seguem ao cotejo; descartes cobrem analogia, vinheta institucional ou do canal, e espiritualidade genérica.",
+      "decisao_por_lote": {
+        "STT26-11": "DESCARTAR-DO-LOTE"
+      },
+      "evidencias_disponiveis": {
+        "STT26-11": [
+          "STT26-11-RC-071-001",
+          "STT26-11-RC-071-002",
+          "STT26-11-RC-071-003"
+        ]
+      },
+      "observacao": "Decisões registradas por lote; STT26-12 permanece independente e PENDENTE."
+    },
+    {
+      "codigo": "RC-301",
+      "nome": "Prometeu (titã)",
+      "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "Deliberação explícita do Curador: anatomia espiritual, mecânica cósmica e conceitos densos seguem ao cotejo; descartes cobrem analogia, exemplo metodológico ou vinheta institucional.",
+      "decisao_por_lote": {
+        "STT26-10": "DESCARTAR-DO-LOTE"
+      },
+      "evidencias_disponiveis": {
+        "STT26-10": [
+          "STT26-10-RC-301-001"
+        ]
+      },
+      "observacao": "Decisões registradas por lote; STT26-11 e STT26-12 permanecem independentes e PENDENTES."
+    },
+    {
+      "codigo": "RC-489",
+      "nome": "Enoque (sétimo patriarca; levado por Javé)",
+      "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "Deliberação explícita do Curador: anatomia espiritual, mecânica cósmica e conceitos densos seguem ao cotejo; descartes cobrem analogia, exemplo metodológico ou vinheta institucional.",
+      "decisao_por_lote": {
+        "STT26-10": "AUTORIZAR-COTEJO-AMPLIADO"
+      },
+      "evidencias_disponiveis": {
+        "STT26-10": [
+          "STT26-10-RC-489-001"
+        ]
+      },
+      "observacao": "Decisões registradas por lote; STT26-11 e STT26-12 permanecem independentes e PENDENTES."
+    },
+    {
+      "codigo": "RC-559",
+      "nome": "Teia quântica (o que sai de um ser volta para ele)",
+      "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "Deliberação explícita do Curador: anatomia espiritual, mecânica cósmica e entidades-chave do processo seguem ao cotejo; descartes cobrem analogia histórica, conceito genérico, menção de plataforma ou fonte clássica.",
+      "decisao_por_lote": {
+        "STT26-12": "AUTORIZAR-COTEJO-AMPLIADO"
+      },
+      "evidencias_disponiveis": {
+        "STT26-12": [
+          "STT26-12-RC-559-001",
+          "STT26-12-RC-559-002"
+        ]
+      },
+      "observacao": "Decisões registradas independentemente por lote; despacho do eixo integralmente deliberado."
+    },
+    {
+      "codigo": "RC-565",
+      "nome": "Hochmah (2ª Sefirah — Sabedoria; = Sophia)",
+      "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "Deliberação explícita do Curador: anatomia espiritual, mecânica cósmica e entidades-chave do processo seguem ao cotejo; descartes cobrem analogia histórica, conceito genérico, menção de plataforma ou fonte clássica.",
+      "decisao_por_lote": {
+        "STT26-12": "AUTORIZAR-COTEJO-AMPLIADO"
+      },
+      "evidencias_disponiveis": {
+        "STT26-12": [
+          "STT26-12-RC-565-001"
+        ]
+      },
+      "observacao": "Decisões registradas independentemente por lote; despacho do eixo integralmente deliberado."
+    },
+    {
+      "codigo": "RC-007",
+      "nome": "Exilados de Capela",
+      "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "Deliberação explícita do Curador: anatomia espiritual, mecânica cósmica e entidades-chave do processo seguem ao cotejo; descartes cobrem analogia histórica, conceito genérico, menção de plataforma ou fonte clássica.",
+      "decisao_por_lote": {
+        "STT26-12": "AUTORIZAR-COTEJO-AMPLIADO"
+      },
+      "evidencias_disponiveis": {
+        "STT26-12": [
+          "STT26-12-RC-007-001"
+        ]
+      },
+      "observacao": "Decisões registradas independentemente por lote; despacho do eixo integralmente deliberado."
+    },
+    {
+      "codigo": "RC-097",
+      "nome": "Seres Extrafísicos",
+      "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "Deliberações explícitas do Curador: arquitetura cósmica, psiquismo e mecânica de queda; metodologia, consciência e figuras centrais do teatro cósmico seguem ao cotejo. Descartes cobrem jargão social moderno, alegoria, exemplo histórico periférico ou espiritualidade genérica.",
+      "decisao_por_lote": {
+        "STT26-09": "AUTORIZAR-COTEJO-AMPLIADO"
+      },
+      "evidencias_disponiveis": {
+        "STT26-09": [
+          "STT26-09-RC-097-001"
+        ]
+      },
+      "observacao": "Decisões registradas por lote; STT26-10 a STT26-12 permanecem independentes e PENDENTES."
+    },
+    {
+      "codigo": "RC-106",
+      "nome": "Universo Antimaterial (Brahmaloka / Universo Paralelo)",
+      "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "Deliberação explícita do Curador: anatomia espiritual, mecânica cósmica e entidades-chave do processo seguem ao cotejo; descartes cobrem analogia histórica, conceito genérico, menção de plataforma ou fonte clássica.",
+      "decisao_por_lote": {
+        "STT26-12": "AUTORIZAR-COTEJO-AMPLIADO"
+      },
+      "evidencias_disponiveis": {
+        "STT26-12": [
+          "STT26-12-RC-106-001",
+          "STT26-12-RC-106-002"
+        ]
+      },
+      "observacao": "Decisões registradas independentemente por lote; despacho do eixo integralmente deliberado."
+    },
+    {
+      "codigo": "RC-585",
+      "nome": "Vyasa",
+      "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "Deliberações explícitas do Curador: arquitetura cósmica, psiquismo e mecânica de queda; metodologia, consciência e figuras centrais do teatro cósmico seguem ao cotejo. Descartes cobrem jargão social moderno, alegoria, exemplo histórico periférico ou espiritualidade genérica.",
+      "decisao_por_lote": {
+        "STT26-09": "AUTORIZAR-COTEJO-AMPLIADO"
+      },
+      "evidencias_disponiveis": {
+        "STT26-09": [
+          "STT26-09-RC-585-001"
+        ]
+      },
+      "observacao": "Decisões registradas por lote; STT26-10 a STT26-12 permanecem independentes e PENDENTES."
+    },
+    {
+      "codigo": "RC-593",
+      "nome": "Mahabharata",
+      "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "Deliberações explícitas do Curador: arquitetura cósmica, psiquismo e mecânica de queda; metodologia, consciência e figuras centrais do teatro cósmico seguem ao cotejo. Descartes cobrem jargão social moderno, alegoria, exemplo histórico periférico ou espiritualidade genérica.",
+      "decisao_por_lote": {
+        "STT26-09": "AUTORIZAR-COTEJO-AMPLIADO"
+      },
+      "evidencias_disponiveis": {
+        "STT26-09": [
+          "STT26-09-RC-593-001"
+        ]
+      },
+      "observacao": "Decisões registradas por lote; STT26-10 a STT26-12 permanecem independentes e PENDENTES."
+    },
+    {
+      "codigo": "RC-903",
+      "nome": "Umbrais",
+      "classificacao_tecnica": "ESPECIFICO-DE-UM-LOTE",
+      "decisao_eixo": "PENDENTE",
+      "fundamento_curatorial": "Deliberações explícitas do Curador: arquitetura cósmica, psiquismo e mecânica de queda; metodologia, consciência e figuras centrais do teatro cósmico seguem ao cotejo. Descartes cobrem jargão social moderno, alegoria, exemplo histórico periférico ou espiritualidade genérica.",
+      "decisao_por_lote": {
+        "STT26-09": "AUTORIZAR-COTEJO-AMPLIADO"
+      },
+      "evidencias_disponiveis": {
+        "STT26-09": [
+          "STT26-09-RC-903-001",
+          "STT26-09-RC-903-002"
+        ]
+      },
+      "observacao": "Decisões registradas por lote; STT26-10 a STT26-12 permanecem independentes e PENDENTES."
+    }
+  ],
+  "despacho_de_eixo": {
+    "resultado": "CONCLUIDO",
+    "lotes_autorizados_para_cotejo_ampliado": [
+      "STT26-08",
+      "STT26-09",
+      "STT26-10",
+      "STT26-11",
+      "STT26-12"
+    ],
+    "autorizacao_para_abrir_ciclo": true,
+    "observacao": "Despacho integral concluído para STT26-08 a STT26-12. Cotejo ampliado autorizado para todos os lotes; abertura do ciclo no Motor autorizada explicitamente pelo Curador em 22/10/2026, com preparação restrita à consolidação de derivados e delta zero na Base. A autorização não substitui âncoras literais nem os portões do Motor."
+  }
+}

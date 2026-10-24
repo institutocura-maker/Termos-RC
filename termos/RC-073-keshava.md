@@ -5,10 +5,10 @@ nome = "Keshava"
 categoria = "Termos Específicos"
 subcategoria = "8.1 Sânscrito / Hinduísmo"
 status = "verificado"
-fontes = ["B031", "P2026-04-02"]
+fontes = ["B031", "P2026-04-02", "OIDR26-02"]
 via = "P6-evidência"
 confianca_fonte = "alta"
-atualizado = "2026-09-13"
+atualizado = "2026-10-23"
 +++
 # Keshava — RC-073
 
@@ -37,10 +37,16 @@ Na Revelação Cósmica, um tipo de avatar urdido obrigatoriamente a partir do �
 | Krishna (avatar de Vishnu/Shiva) | RC-414 | ← relaciona-se-a |
 | Krishna como 'pretenso Keshava' | RC-425 | associado |
 
+## Ampliação — OIDR26-02 (Onda incremental dry-run — Mitologias, tradições e reintegração (derivados normalizados))
+
+- **[P2 · Keshava]** «Os raksasas começaram a dominar todos os quadrantes, e isso uniu esses três seres, e eles resolveram começar a conduzir avatares do tipo Keshava.» (U0173) — candidata de cotejo ampliado; evidência `OIDR26-02-RC-073-001`, grafia literal `Keshava`, sem homologação de pérola.
+
+
 ## Fontes
 
 | Obra (sigla) | Título | Página | Tipo |
 |---|---|---|---|
+| OIDR26-02 | Onda incremental dry-run — Mitologias, tradições e reintegração (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
 | B031 | Painéis Emergentes da Revelação Cósmica | p. 138 | livro; citação intra-linha |
 
 ## Citações-chave

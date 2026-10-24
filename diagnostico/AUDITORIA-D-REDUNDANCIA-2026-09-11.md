@@ -14,9 +14,9 @@ Classificação proposta:
 
 | Classe | Docs | Destino |
 |---|---|---|
-| VIVO (7) | `STATE-MIRROR.md`, `01-ficha-modelo.md`, `02-vocabulario-controlado.md`, `convencoes-editoriais-rc.md`, `POLITICA-QUARENTENA-ENTRE-ECOSSISTEMAS.md`, `APRESENTACAO-DO-SISTEMA.md`, README vivo (a gerar) | Ficam na raiz |
-| HISTÓRICO já marcado (5) | `README.md` (atual), `PROMPT-INICIAL-DO-AGENTE.md`, `PACOTE-…`, `PLANO-MIGRACAO-…`, `STATUS-RESTAURACAO.md` | Movem com placa |
-| DIÁRIO congelado (1) | `CONTINUIDADE.md` (1.681 linhas de `🔔 CICLO … FECHADO`, parado ~02/09, sucedido por STATE-MIRROR+git) | Congelar com placa "encerrado em …; sucedido por …" (não apagar: é a certidão da era dos ciclos) |
+| VIVO (7) | `../admin/logs/STATE-MIRROR.md`, `01-ficha-modelo.md`, `02-vocabulario-controlado.md`, `convencoes-editoriais-rc.md`, `POLITICA-QUARENTENA-ENTRE-ECOSSISTEMAS.md`, `APRESENTACAO-DO-SISTEMA.md`, README vivo (a gerar) | Ficam na raiz |
+| HISTÓRICO já marcado (5) | `README.md` (atual), `../prompts/PROMPT-INICIAL-DO-AGENTE.md`, `PACOTE-…`, `PLANO-MIGRACAO-…`, `../admin/logs/STATUS-RESTAURACAO.md` | Movem com placa |
+| DIÁRIO congelado (1) | `../admin/logs/CONTINUIDADE.md` (1.681 linhas de `🔔 CICLO … FECHADO`, parado ~02/09, sucedido por STATE-MIRROR+git) | Congelar com placa "encerrado em …; sucedido por …" (não apagar: é a certidão da era dos ciclos) |
 | DUPLICATA byte-idêntica (1 par) | `GUIA-MESTRE-RC-APOSTILA-v1.1.md` = `.txt` (29.426 bytes, `diff` limpo) | Apagar um (manter `.md`) |
 | SÉRIES temporais (13) | `PROMPT-CONTINUIDADE`×4, `PROMPT-COMPLETO`×2, `STATUS-HANDOFF`×4, `VERIFICACAO-DE-COBERTURA`×2, +3 correlatos | `docs/historico/prompts/` e `docs/historico/handoffs/`, com índice |
 | GERADOS na raiz (3) | `indice-mestre.md`, `base-terminologica.xlsx`, `base-terminologica-leitura.docx` | Decisão pendente (R4): raiz ou `espelhos/`? |

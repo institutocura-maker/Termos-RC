@@ -1,0 +1,85 @@
+# ciclo.toml — ciclo leve OIDR26-04 · andaime escrito por `motor.py novo`
+# ──────────────────────────────────────────────────────────────────────────────
+# Toda curadoria mora AQUI. Regras vigentes: DESPACHO-DA-ESTEIRA-LEVE-2026-08-29.md.
+# O que está vazio abaixo é pendência do aplicador, não estado da Base: o portão D
+# confere cada número declarado e o livro-razão responde pelo que foi recusado.
+
+sigla = "OIDR26-04"
+titulo = "Onda incremental dry-run — Experiência espiritual e ética evolutiva (derivados normalizados)"
+data_fonte = "22/10/2026"
+pasta_fonte = "ciclos/OIDR26-04"
+arquivo_fonte = "original.txt"
+pacote = "pacote_OIDR26-04.txt"
+sha256_fonte = "d279e44f07e510519a2abb210a169694feb960c9d1803314ff51acb945406132"
+
+baseline_commit = "e97b7a2"
+portoes_ativos = ["A", "B", "C", "D"]
+max_perolas = 25
+exportar_candidatas = false       # true só em ensaio declarado: o portão real é `aprovada`
+
+cobertura = "CICLO INCREMENTAL — OIDR26-04 / EXPERIENCIA_ESPIRITUAL_ETICA; ingressos P4, P5 e P6; fonte composta exclusivamente de derivado normalizado e selada por manifesto/offsets. As 25 candidatas foram homologadas explicitamente para pouso após Dossiê RAG, com âncoras literais e portões do Motor."
+teto = "pouso autorizado para as 25 pérolas aprovadas; nenhum termo ou relação novo"
+termos_novos = []
+veto_lexico = ["p****", "m****", "b******", "e******"]
+fichas_que_nomeiam_grupo = []
+
+[delta_esperado]
+arquivos = 0      # fichas criadas por este ciclo
+ficha_true = 0   # viradas no cadastro
+termos = 0       # termos novos: só por pérola aprovada, com linha no §4 do dossiê
+relacoes = 0     # arestas novas: tipada + evidência + selo datado, ou nada
+vinculos = 25   # 25 fichas existentes recebem a sigla do ciclo
+
+[perolas]
+# IDs que receberam aprovação explícita do Curador; o Motor rejeita IDs repetidos,
+# inexistentes ou fora do caderno selecionado. Sem aprovação, a lista permanece vazia.
+aprovadas = [
+  "PER-OIDR26-04-001",
+  "PER-OIDR26-04-002",
+  "PER-OIDR26-04-003",
+  "PER-OIDR26-04-004",
+  "PER-OIDR26-04-005",
+  "PER-OIDR26-04-006",
+  "PER-OIDR26-04-007",
+  "PER-OIDR26-04-008",
+  "PER-OIDR26-04-009",
+  "PER-OIDR26-04-010",
+  "PER-OIDR26-04-011",
+  "PER-OIDR26-04-012",
+  "PER-OIDR26-04-013",
+  "PER-OIDR26-04-014",
+  "PER-OIDR26-04-015",
+  "PER-OIDR26-04-016",
+  "PER-OIDR26-04-017",
+  "PER-OIDR26-04-018",
+  "PER-OIDR26-04-019",
+  "PER-OIDR26-04-020",
+  "PER-OIDR26-04-021",
+  "PER-OIDR26-04-022",
+  "PER-OIDR26-04-023",
+  "PER-OIDR26-04-024",
+  "PER-OIDR26-04-025",
+]
+homologacao = "Aprovação explícita do Curador em 22/10/2026: as 25 candidatas do DOSSIE-RAG_OIDR26-04 foram validadas para pouso na Base."
+
+[materializar]
+codigos = []      # fichas a CRIAR (ordem do Curador; só com bloco no pacote)
+
+[vitorias]
+provas = []         # uma linha por vitória: "RC-xxx = <afirmativa> | prova: <trecho>"
+# A prova é um trecho LITERAL da `## Ampliação — <SIGLA>` da ficha: o motor confere byte a
+# byte depois de ampliar e o §0 do dossiê só imprime o que passou. Mesa vazia é lícita (nem
+# todo ciclo vence algo novo); linha sem `| prova:` aborta — vitória narrada não é vitória.
+[ampliar]
+codigos = []      # vazio = todos os códigos do pacote que já têm arquivo
+
+[tese]
+pontos = []      # prosa SEM «…»: sem apostila, o verbatim não cobre o resumo
+
+[definicoes]
+
+[observacoes]
+
+[travas]
+
+[lacunas]
