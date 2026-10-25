@@ -6,7 +6,7 @@
 | Data | 2026-10-25 |
 | Diagnóstico de origem | `admin/logs/STATUS-HANDOFF-T1-T2.md` |
 | Escopo | `termos/*.md` — 826 fichas |
-| Artefato complementar | `admin/logs/T2-MAPEAMENTO-RELACOES.csv` (998 tipos brutos, 4 colunas de mapeamento em branco) |
+| Artefato complementar | `admin/logs/T2-MAPEAMENTO-RELACOES.csv` (998 tipos brutos; matriz De-Para preenchida conforme o Anexo A) |
 | Natureza | Registro descritivo. **Nenhuma ficha, tabela, relação ou citação foi alterada, normalizada ou reescrita.** |
 
 ## 1. Síntese quantitativa
@@ -739,13 +739,97 @@ O bloco `> Notas de processo:` de `RC-745-colegiados-espirituais-humanizados.md`
 
 - **Arquivo:** `admin/logs/T2-MAPEAMENTO-RELACOES.csv` — UTF-8 sem BOM, finais de linha LF, delimitador `;` (mesmo padrão dos demais CSVs de `admin/logs/`), aspas mínimas; campos que contêm `;` ou aspas duplas são delimitados por aspas, conforme RFC 4180.
 - **Colunas (6), nesta ordem:** `tipo_bruto`, `ocorrencias`, `relacao_controlada`, `direcao_controlada`, `notas_de_normalizacao`, `decisao_curatorial`.
-- **Linhas:** 1 cabeçalho + 998 tipos brutos. `tipo_bruto` e `ocorrencias` preenchidos; as 4 colunas de mapeamento estão **todas em branco**, sem placeholders, para deliberação do curador.
+- **Linhas:** 1 cabeçalho + 998 tipos brutos. `tipo_bruto` e `ocorrencias` preenchidos desde a geração inicial; as 4 colunas de mapeamento **foram preenchidas em 2026-10-25** conforme as deliberações do Anexo A (31 linhas `APROVADO`, 919 `PROPOSTO`, 48 `REVISAR`). Nenhuma célula contém placeholder: onde a decisão foi "deixar em branco", a célula está estritamente vazia.
 - **Ordem:** alfabética insensível a maiúsculas/minúsculas — a 1ª coluna, lida de cima para baixo, reproduz a lista bruta ordenada cujo SHA-256 é o do handoff T1 e o recalculado na seção 1.
 - **Conferência:** 998 tipos · soma das ocorrências = 7.761 · hash confirmado.
 
 ## 9. Salvaguardas e sequência
 
 - Esta ação 2 é **apenas descritiva**: nenhuma ficha Markdown foi alterada; o `git diff` desta sessão contém exclusivamente os dois arquivos novos em `admin/logs/`.
+- O **Anexo A**, acrescentado após a publicação inicial, registra as deliberações curatoriais sobre a matriz De-Para e a proposta de colapso mecânico; ele tampouco alterou qualquer ficha.
 - O vocabulário controlado e o De-Para devem ser definidos pelo curador no CSV (ação 3 do handoff).
 - A implementação do novo padrão de cinco colunas `Termo | Código | Relação | Direção | Notas` (ação 4) só ocorrerá após a aprovação da matriz T2, e deverá tratar separadamente as 45 seções deste log, os 6 rótulos fora do CSV e as 17 linhas de 4 colunas.
 - Semântica, direção (`←`), qualificadores entre parênteses e anotações históricas permanecem intactos.
+
+---
+
+# Anexo A — Matriz De-Para T2: deliberações e proposta de colapso
+
+**Data:** 2026-10-25 · **Artefato:** `admin/logs/T2-MAPEAMENTO-RELACOES.csv` · **Natureza:** registro das decisões do curador + proposta mecânica ainda **não aprovada**.
+
+> Este anexo foi acrescentado na mesma sessão da Fase T2. Continua válida a salvaguarda da seção 9: nenhuma ficha Markdown foi alterada nesta etapa.
+
+## A.1 Decisões aprovadas pelo curador
+
+1. As 22 linhas de mapeamento enviadas foram aprovadas; `*(deixar em branco)*` foi interpretado como **célula estritamente vazia** em `relacao_controlada` e `direcao_controlada`.
+2. `—` (86 ocorrências): nota definida como `sem relação informada; 17 linhas são registros de fonte com 4 colunas` — a redação cobre as 17 linhas de 4 colunas e as 69 linhas comuns sem relação informada.
+3. A raiz semântica `associado` e suas variações (`associado-a`, `← associado-a` etc.) passam a ser **sempre simétricas e bidirecionais (`<->`)**. As 2 linhas aprovadas foram ajustadas de `->`/`<-` para `<->`; a extensão da regra à família aparece como `PROPOSTO` em A.3.
+4. A regra das linhas "sem aresta" (relação e direção vazias + texto migrado para `notas_de_normalizacao`) foi estendida às outras **9 variações / 20 ocorrências** da família `sem aresta / RELACOES`, inclusive a variante `(P5d)` e os casos `listado no cadastro…`. O texto original, sem a formatação Markdown `**`/`` ` ``, foi preservado integralmente na coluna de notas.
+5. **Governança da futura tabela de cinco colunas:** as linhas com `Relação`/`Direção` vazias **não devem ser removidas**. Permanecerão na nova tabela `Termo | Código | Relação | Direção | Notas`, abrigando a observação na coluna `Notas`.
+
+## A.2 Vocabulário de status da coluna `decisao_curatorial`
+
+| Status | Significado | Tipos | Ocorrências |
+|---|---|---|---|
+| `APROVADO` | deliberado pelo curador nesta sessão | 31 | 5.975 |
+| `PROPOSTO` | gerado pela regra de colapso de A.3; **aguarda aprovação** | 919 | 1.735 |
+| `REVISAR` | rótulo livre, sem colapso mecânico confiável; exige decisão manual | 48 | 51 |
+| **Total** | | **998** | **7.761** |
+
+As colunas `tipo_bruto` e `ocorrencias` não foram alteradas: a lista ordenada conserva o SHA-256 `43ad4e8083ce83d5facb39b082488031625d81dd92e827f56938fdafa7d05213` do handoff T1.
+
+## A.3 Regra de colapso mecânica (status `PROPOSTO`)
+
+Aplicada somente aos tipos ainda não aprovados, nesta ordem:
+
+1. Remove o prefixo `← ` e registra a direção `<-`; sem o prefixo, propõe `->`.
+2. Remove o qualificador final entre parênteses `(...)` e o preserva em `notas_de_normalizacao`.
+3. Remove o sufixo ` / ...` e o preserva em `notas_de_normalizacao`.
+4. Se restar apenas o qualificador (ex.: `(contexto)`), promove o qualificador a rótulo-base.
+5. Mapeia qualquer base da família `associad*` para `associado` com direção `<->` (decisão 3).
+6. Se a base resultante contiver espaços, pontuação, setas, Maiúsculas ou Markdown, a linha é classificada como `REVISAR` — nenhum `relacao_controlada` é inventado.
+
+Resultado: 919 tipos / 1.735 ocorrências agrupados em **567 rótulos-base candidatos**; 48 tipos / 51 ocorrências ficaram para revisão manual.
+
+**Atenção:** os rótulos-base ainda não são um vocabulário controlado final — são clusters para deliberação. A redução a um conjunto enxuto de relações controladas é a etapa seguinte (ação 3 do handoff).
+
+## A.4 Maiores clusters propostos (top 25 por ocorrências)
+
+| `relacao_controlada` proposta | Tipos agrupados | Ocorrências | Exemplos de `tipo_bruto` |
+|---|---|---|---|
+| `ocorre-em` | 8 | 40 | `ocorre-em`; `ocorre-em (a Revolta deflagrada em Capela)`; `ocorre-em (mundo do sistema)` |
+| `relaciona-se-a` | 28 | 36 | `relaciona-se-a ("conectoma mental", p. 190–191)`; `relaciona-se-a (a "doença" que a gestão trata)`; `relaciona-se-a (a Vontade comanda o processo)` |
+| `aplica-se-a` | 2 | 33 | `aplica-se-a`; `← aplica-se-a` |
+| `associado` | 21 | 27 | `associada-a`; `associado-a (apêndice)`; `associado-a (base luciferiana)` |
+| `parte-de` | 4 | 25 | `parte-de (ambientes)`; `parte-de (favo improvisado)`; `parte-de (favo planejado)` |
+| `distingue-se-de` | 2 | 25 | `distingue-se-de`; `← distingue-se-de` |
+| `sinônimo` | 3 | 24 | `sinônimo`; `sinônimo (Deus Incognoscível)`; `← sinônimo` |
+| `opõe-se-a` | 6 | 23 | `opõe-se-a (atitudes antagônicas)`; `opõe-se-a (Deus Bíblico ≠ Deus Incognoscível)`; `opõe-se-a (distinção)` |
+| `manifesta-se-em` | 2 | 20 | `manifesta-se-em`; `← manifesta-se-em` |
+| `gera` | 3 | 19 | `gera`; `gera (cadeia)`; `← gera` |
+| `paralelo-com` | 6 | 18 | `paralelo-com`; `paralelo-com (avatar cristão)`; `paralelo-com (avatar hindu)` |
+| `é-paralelo-com` | 1 | 18 | `é-paralelo-com` |
+| `criado-por` | 4 | 17 | `criado-por`; `criado-por (agente)`; `criado-por (origem)` |
+| `é-um` | 14 | 16 | `é-um (avatar)`; `é-um (biocoletivo)`; `é-um (categoria)` |
+| `produz` | 3 | 16 | `produz`; `produz (avatares)`; `← produz` |
+| `origem-em` | 2 | 16 | `origem-em`; `← origem-em` |
+| `sucede` | 2 | 15 | `sucede`; `← sucede` |
+| `atualiza` | 2 | 14 | `atualiza`; `← atualiza` |
+| `estrutura-se-por` | 2 | 14 | `estrutura-se-por`; `← estrutura-se-por` |
+| `resulta-em` | 4 | 13 | `resulta-em`; `resulta-em (desdobramento)`; `resulta-em (quando imantada em Perpérion)` |
+| `atua-em` | 2 | 13 | `atua-em`; `← atua-em` |
+| `integra` | 2 | 13 | `integra`; `← integra` |
+| `orienta` | 2 | 13 | `orienta`; `← orienta` |
+| `precede` | 3 | 12 | `precede`; `precede (via Nidana B)`; `← precede` |
+| `compõe` | 2 | 12 | `compõe`; `← compõe` |
+
+A lista completa dos clusters está na própria matriz: filtre `decisao_curatorial = PROPOSTO`.
+
+## A.5 Pendências que a matriz ainda não resolve
+
+- 48 rótulos `REVISAR` (texto livre, setas internas, Maiúsculas, estados de fila) — exigem leitura manual.
+- 6 rótulos das 45 seções não conformes que **não têm linha no CSV** (seção 6 deste log).
+- 91 itens de lista Markdown livre e 4 rótulos de tabelas padrão embutidas ainda sem De-Para.
+- 3 linhas `aresta pré-existente; arquivo existe` das tabelas `Estado na malha`.
+- 17 linhas de 4 colunas em fichas conformes (seção 7.1) — cobertas pela nota de `—`, mas ainda sem regra de conversão.
+- Aprovada a manutenção das linhas sem `Relação`/`Direção` (decisão 5), falta definir o valor literal que essas células vazias terão na tabela de cinco colunas (vazio, `—` ou `n/a`).
