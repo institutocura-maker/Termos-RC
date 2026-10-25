@@ -36,13 +36,13 @@ O Mistério da Árvore da Vida e a Urdidura de Metatron.
 | Urdidura de Metatron | RC-674 | origina | -> | consolidação: "produz" → "origina" |
 | Urdidura de Metatron | RC-674 | relaciona-se-a | -> | - |
 | Urdidura de Metatron | RC-674 | relaciona-se-a | <- | - |
-| P2025-12-14 | Os Fundamentos da Revelação Cósmica (palestra) | - | - | sem relação informada; 17 linhas são registros de fonte com 4 colunas; transcrição automatizada; citação |
-| P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | - | - | sem relação informada; 17 linhas são registros de fonte com 4 colunas; transcrição automatizada; citação |
-| P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | - | - | sem relação informada; 17 linhas são registros de fonte com 4 colunas; transcrição automatizada; citação |
-| P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | - | - | sem relação informada; 17 linhas são registros de fonte com 4 colunas; transcrição automatizada; citação |
-| P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | - | - | sem relação informada; 17 linhas são registros de fonte com 4 colunas; transcrição automatizada; citação |
-| P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | - | - | sem relação informada; 17 linhas são registros de fonte com 4 colunas; transcrição automatizada; citação |
-| P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | - | - | sem relação informada; 17 linhas são registros de fonte com 4 colunas; transcrição automatizada; citação |
+| Os Fundamentos da Revelação Cósmica (palestra) | P2025-12-14 | - | - | sem relação informada; 17 linhas são registros de fonte com 4 colunas; transcrição automatizada; citação |
+| A Incompreendida Nova Aliança proposta por Jesus (palestra) | P2022-11-20 | - | - | sem relação informada; 17 linhas são registros de fonte com 4 colunas; transcrição automatizada; citação |
+| A Incompreendida Nova Aliança proposta por Jesus (palestra) | P2022-11-20 | - | - | sem relação informada; 17 linhas são registros de fonte com 4 colunas; transcrição automatizada; citação |
+| A Incompreendida Nova Aliança proposta por Jesus (palestra) | P2022-11-20 | - | - | sem relação informada; 17 linhas são registros de fonte com 4 colunas; transcrição automatizada; citação |
+| A Incompreendida Nova Aliança proposta por Jesus (palestra) | P2022-11-20 | - | - | sem relação informada; 17 linhas são registros de fonte com 4 colunas; transcrição automatizada; citação |
+| A Incompreendida Nova Aliança proposta por Jesus (palestra) | P2022-11-20 | - | - | sem relação informada; 17 linhas são registros de fonte com 4 colunas; transcrição automatizada; citação |
+| A Incompreendida Nova Aliança proposta por Jesus (palestra) | P2022-11-20 | - | - | sem relação informada; 17 linhas são registros de fonte com 4 colunas; transcrição automatizada; citação |
 
 ## Seres Associados
 Consultar Base.

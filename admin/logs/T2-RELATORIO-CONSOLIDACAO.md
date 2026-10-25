@@ -707,7 +707,7 @@ Novo cabeçalho aplicado: `| Termo | Código | Relação | Direção | Notas |` 
 
 Aplicação por linha: `Relação` e `Direção` vindas da matriz (ou `-` quando vazias); `Notas` = `notas_de_normalizacao` da matriz + eventuais notas originais da ficha (4ª célula das 17 linhas anômalas), unidas por `; `. Quando não há nota, a célula também recebe `-` — mesma regra de integridade estrutural aprovada para `Relação`/`Direção` (extensão registrada para sua confirmação).
 
-As 17 linhas de 4 colunas (RC-671, RC-672, RC-684) tiveram `Termo`/`Código` preservados **na ordem original** (código-fonte na 1ª coluna, título na 2ª) e a 4ª célula migrada para `Notas`; nenhuma inversão de colunas foi feita.
+As 17 linhas de 4 colunas (RC-671, RC-672, RC-684) tiveram `Termo`/`Código` preservados **na ordem original** (código-fonte na 1ª coluna, título na 2ª) e a 4ª célula migrada para `Notas`; nenhuma inversão de colunas foi feita **nesta fase** — a inversão foi autorizada e executada no encerramento (seção 12).
 
 ### 9.3 Conteúdo preservado literalmente
 
@@ -763,6 +763,41 @@ A matriz CSV **não foi alterada** nesta fase: continua com 998 linhas `APROVADO
 
 ### 11.4 Pendências residuais (não bloqueantes)
 
-- **17 linhas de 4 colunas** (RC-671, RC-672, RC-684): convertidas na Fase 1 com a ordem original `Termo`/`Código` preservada, mas ainda têm um código-fonte (`P2025-…`) na coluna `Termo` e o título na coluna `Código`. Requer decisão futura se você quiser inverter essas colunas.
+- ~~**17 linhas de 4 colunas** (RC-671, RC-672, RC-684)~~ — **resolvidas** no encerramento da T2: `Termo` e `Código` invertidos (seção 12).
 - **143 linhas extras** das 44 seções conformes (remissões, listas suplementares, avisos de quarentena, `### Remissão`) seguem preservadas literalmente, fora das tabelas.
 - Nenhuma aresta ou arquivo em `RELACOES`/`notas/` foi criado, removido ou renomeado.
+
+## 12. Encerramento oficial da Fase T2
+
+**Data:** 2026-10-25 · **Despacho:** inverter as 17 linhas de 4 colunas; manter as 143 linhas extras estritamente intocadas; declarar a T2 encerrada.
+
+### 12.1 Correção das 17 linhas
+
+| Arquivo | Linhas invertidas |
+|---|---|
+| `termos/RC-671-metatron.md` | 7 |
+| `termos/RC-672-os-366-manuscritos-de-enoque.md` | 7 |
+| `termos/RC-684-abel.md` | 3 |
+| **Total** | **17** |
+
+Operação puramente espacial: apenas as células 1 e 2 de cada linha trocaram de lugar. Exemplo:
+
+```
+- | P2025-12-14 | Os Fundamentos da Revelação Cósmica (palestra) | - | - | ... |
++ | Os Fundamentos da Revelação Cósmica (palestra) | P2025-12-14 | - | - | ... |
+```
+
+`Relação`, `Direção` e `Notas` permanecem byte a byte. Agora a coluna `Termo` exibe o título da fonte e a coluna `Código` exibe o seu identificador `Pxxxx-xx-xx`, alinhando-se visualmente às demais 7.900 linhas.
+
+### 12.2 Validação do encerramento
+
+- `git diff` restrito a **3 fichas / 17 linhas** — nenhuma outra linha divergiu; as **143 linhas extras** das 44 seções conformes permanecem literalmente intactas.
+- 0 códigos `Pxxxx-xx-xx` restantes na coluna `Termo`; 17 presentes na coluna `Código`.
+- Todas as 7.917 linhas seguem com exatamente 5 células; nenhum cabeçalho, separador, bloco `>`, subseção `###` ou final de linha foi alterado.
+- Matriz CSV inalterada: 998 linhas `APROVADO`, soma 7.761, SHA-256 `43ad4e8083ce83d5facb39b082488031625d81dd92e827f56938fdafa7d05213`.
+
+### 12.3 Estado final da T2
+
+**821 seções** em 5 colunas · **7.917 linhas** de relação · **998/998** tipos aprovados · **0 divergências estruturais** · **0 pendências bloqueantes**.
+
+A Fase T2 está **oficialmente encerrada**. A próxima frente (Onda 2 — Transição Semântica) é um escopo distinto e não altera a matriz nem as tabelas de relação aqui consolidadas.

@@ -749,7 +749,7 @@ O bloco `> Notas de processo:` de `RC-745-colegiados-espirituais-humanizados.md`
 - O **Anexo A**, acrescentado após a publicação inicial, registra as deliberações curatoriais sobre a matriz De-Para e a proposta de colapso mecânico; ele tampouco alterou qualquer ficha.
 - A **2ª rodada (consolidação)** está documentada em `admin/logs/T2-RELATORIO-CONSOLIDACAO.md`; também não alterou qualquer ficha.
 - O vocabulário controlado e o De-Para devem ser definidos pelo curador no CSV (ação 3 do handoff).
-- A implementação do novo padrão de cinco colunas (ação 4) foi **executada em duas fases**: 776 fichas conformes (2026-10-25) e 45 exceções (mesma data); ver seções 9 e 11 do relatório de consolidação. Os 6 rótulos fora do CSV foram resolvidos por fallback/notas, e as 17 linhas de 4 colunas aguardam apenas uma decisão estética de inversão de colunas.
+- A implementação do novo padrão de cinco colunas (ação 4) foi **executada em duas fases**: 776 fichas conformes (2026-10-25) e 45 exceções (mesma data); ver seções 9 e 11 do relatório de consolidação. Os 6 rótulos fora do CSV foram resolvidos por fallback/notas e as 17 linhas de 4 colunas tiveram `Termo`/`Código` invertidos no encerramento (seção 12 do relatório).
 - Semântica, direção (`←`), qualificadores entre parênteses e anotações históricas permanecem intactos.
 
 ---
@@ -834,7 +834,7 @@ A lista completa dos clusters está na própria matriz (coluna `relacao_controla
 - ~~6 rótulos das exceções fora do CSV~~ — **resolvidos na Fase 2** por fallback/notas; a matriz permanece com 998 linhas.
 - ~~91 itens de lista livre e tabelas padrão embutidas~~ — **convertidos na Fase 2** (37 anotações migradas para `Notas`).
 - ~~3 linhas `aresta pré-existente; arquivo existe`~~ — **resolvidas** como nota-apenas (`-`/`-`).
-- **Ainda pendente (estética):** 17 linhas de 4 colunas em fichas conformes (seção 7.1) foram convertidas na Fase 1, mas mantêm o código-fonte na coluna `Termo` e o título na coluna `Código`; falta decidir se invertemos.
+- ~~17 linhas de 4 colunas (seção 7.1)~~ — **resolvidas** em 2026-10-25: `Termo`/`Código` invertidos; a coluna `Termo` agora traz o título da fonte e `Código`, o identificador `Pxxxx-xx-xx`.
 - ~~Definir o valor literal das células vazias~~ — **resolvido e aplicado** na Fase 1: hífen ASCII `-` nas 297 linhas sem relação; a matriz CSV mantém suas células vazias.
 
 ---
@@ -933,3 +933,7 @@ A lista completa dos clusters está na própria matriz (coluna `relacao_controla
 | Total do projeto | **821 seções / 7.917 linhas** em 5 colunas |
 
 As transcrições das seções 1–7 deste log são o registro do **estado anterior** à conversão e foram mantidas como prova histórica. O estado atual das fichas é o padrão de cinco colunas descrito na seção 11 do relatório de consolidação.
+
+## B.7 Encerramento da T2
+
+As 17 linhas anômalas de RC-671, RC-672 e RC-684 tiveram `Termo` e `Código` invertidos por decisão do curador; as 143 linhas extras das seções conformes foram mantidas estritamente intocadas. A Fase T2 está oficialmente encerrada — ver seção 12 de `admin/logs/T2-RELATORIO-CONSOLIDACAO.md`.
