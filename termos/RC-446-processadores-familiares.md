@@ -25,13 +25,13 @@ Dispositivos psíquico-tecnológicos que **conectam todos os integrantes de cada
 Nos "Livros de Yel Luzbel", o Processador Familiar é o mecanismo que mantém cada estirpe de Capela unida e administrada: as decisões dos Sábios são transmitidas pelos Processadores, e os membros "emanam marcações" através deles. A ruptura de Yel Luzbel com sua família passa pelo desligamento do Processador Yel — gesto inédito entre os capelinos. A suspeita de que Sophia "engendrou" e controla os Processadores alimenta a paranoia que leva à Revolta Capelina.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Sophia (Cristo Cósmico) | RC-009 | criado-por |
-| Biodemos | RC-036 | associa-se-a |
-| Processador Val | RC-089 | análogo |
-| Família Yel | RC-442 | associado-a |
-| Família Mion | RC-443 | associado-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Sophia (Cristo Cósmico) | RC-009 | origina | <- | consolidação: "criado-por" → "origina"; direção invertida (forma passiva/inversa) |
+| Biodemos | RC-036 | associado | <-> | consolidação: "associa-se-a" → "associado" |
+| Processador Val | RC-089 | variação | -> | consolidação: "análogo" → "variação" |
+| Família Yel | RC-442 | associado | <-> | - |
+| Família Mion | RC-443 | associado | <-> | - |
 
 ## Seres Associados
 Yel Luzbel (RC-142, primeiro a se desligar); Sophia (RC-009, criadora); Sábios das famílias capelinas (administradores).

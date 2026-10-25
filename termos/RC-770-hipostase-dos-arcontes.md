@@ -18,23 +18,23 @@ Livro gnóstico (séculos I–III d.C.), também chamado "A Realidade dos Regent
 
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Sophia (Cristo Cósmico) | RC-009 | associado |
-| Jesus | RC-072 | relaciona-se-a |
-| Prabrajna | RC-152 | relaciona-se-a |
-| Sophia e a Ressurreição de Jesus | RC-280 | associado |
-| Elm (Moros — ser LM de Tempérion) | RC-454 | relaciona-se-a |
-| Elm (Moros — ser LM de Tempérion) | RC-454 | ← relaciona-se-a |
-| Arcontes (= Sophias e Indras; Conselho dos 70) | RC-474 | relaciona-se-a |
-| Arcontes (= Sophias e Indras; Conselho dos 70) | RC-474 | ← relaciona-se-a |
-| Ialdabaoth (= Javé/Samael/Saklas/Sabaoth) | RC-482 | relaciona-se-a |
-| Dinastia das Sophias | RC-494 | associado |
-| Pistis Sophia (feminino cósmico gnóstico) | RC-530 | relaciona-se-a |
-| Noreia (Norea) | RC-579 | relaciona-se-a |
-| Wyrd / Urd (Teia do Destino) | RC-658 | relaciona-se-a |
-| Nag Hammadi (a biblioteca egípcia onde em 1945 foi encontrada a cópia copta da Hipóstase dos Arcontes — STT «Naghama»; marco físico e histórico da recuperação da revelação gnóstica original) | RC-887 | ← relaciona-se-a |
-| Nag Hammadi (a biblioteca egípcia onde em 1945 foi encontrada a cópia copta da Hipóstase dos Arcontes — STT «Naghama»; marco físico e histórico da recuperação da revelação gnóstica original) | RC-887 | relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Sophia (Cristo Cósmico) | RC-009 | associado | <-> | - |
+| Jesus | RC-072 | relaciona-se-a | -> | - |
+| Prabrajna | RC-152 | relaciona-se-a | -> | - |
+| Sophia e a Ressurreição de Jesus | RC-280 | associado | <-> | - |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | relaciona-se-a | -> | - |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | relaciona-se-a | <- | - |
+| Arcontes (= Sophias e Indras; Conselho dos 70) | RC-474 | relaciona-se-a | -> | - |
+| Arcontes (= Sophias e Indras; Conselho dos 70) | RC-474 | relaciona-se-a | <- | - |
+| Ialdabaoth (= Javé/Samael/Saklas/Sabaoth) | RC-482 | relaciona-se-a | -> | - |
+| Dinastia das Sophias | RC-494 | associado | <-> | - |
+| Pistis Sophia (feminino cósmico gnóstico) | RC-530 | relaciona-se-a | -> | - |
+| Noreia (Norea) | RC-579 | relaciona-se-a | -> | - |
+| Wyrd / Urd (Teia do Destino) | RC-658 | relaciona-se-a | -> | - |
+| Nag Hammadi (a biblioteca egípcia onde em 1945 foi encontrada a cópia copta da Hipóstase dos Arcontes — STT «Naghama»; marco físico e histórico da recuperação da revelação gnóstica original) | RC-887 | relaciona-se-a | <- | - |
+| Nag Hammadi (a biblioteca egípcia onde em 1945 foi encontrada a cópia copta da Hipóstase dos Arcontes — STT «Naghama»; marco físico e histórico da recuperação da revelação gnóstica original) | RC-887 | relaciona-se-a | -> | - |
 
 
 ## Citações-chave

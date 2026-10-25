@@ -24,16 +24,16 @@ A **Transfiguração de Jesus** (Mateus 17:1-19) reinterpretada nas RC — o cap
 O B011 é dedicado a desvendar o enigma: "a Transfiguração relatada nas páginas do Novo Testamento é apenas mais um dos estranhos eventos que cercaram a vida de Jesus. Porém... o fenômeno por si só já abre todo um conjunto de possibilidades que, se verdadeiros, modificam por completo o entendimento que temos a respeito da personalidade de Jesus". A obra estrutura-se em 3 partes (Livro de Tiago, Livro de João Batista, Livro de Moisés) — os três personagens da Transfiguração bíblica.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Jesus | RC-072 | envolve |
-| Revelação Cósmica (conceito) | RC-094 | associado |
-| Agente do Mais Alto | RC-214 | relaciona-se-a |
-| O Fator Judas | RC-365 | associado |
-| Alteração Vibratória (Transfiguração) | RC-367 | é-um |
-| Assessoria Cósmica (equipes espirituais de Jesus) | RC-368 | contexto |
-| Hochmah (2ª Sefirah — Sabedoria; = Sophia) | RC-565 | relaciona-se-a |
-| Hochmah (2ª Sefirah — Sabedoria; = Sophia) | RC-565 | ← relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Jesus | RC-072 | envolve | -> | - |
+| Revelação Cósmica (conceito) | RC-094 | associado | <-> | - |
+| Agente do Mais Alto | RC-214 | relaciona-se-a | -> | - |
+| O Fator Judas | RC-365 | associado | <-> | - |
+| Alteração Vibratória (Transfiguração) | RC-367 | é-um | -> | - |
+| Assessoria Cósmica (equipes espirituais de Jesus) | RC-368 | contexto | -> | - |
+| Hochmah (2ª Sefirah — Sabedoria; = Sophia) | RC-565 | relaciona-se-a | -> | - |
+| Hochmah (2ª Sefirah — Sabedoria; = Sophia) | RC-565 | relaciona-se-a | <- | - |
 
 ## Seres Associados
 Jesus (RC-072); Moisés e Elias (personagens da Transfiguração); Pedro, Tiago e João (testemunhas).

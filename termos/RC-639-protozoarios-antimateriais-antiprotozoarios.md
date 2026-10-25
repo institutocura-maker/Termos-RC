@@ -23,13 +23,13 @@ Primeiras formas de vida plasmática do universo antimaterial, derivadas da orga
 São apresentadas como primeira face ressuscitada de Javé no universo vizinho.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | ocorre-em |
-| Elétrons (agente básico da vida universal) | RC-162 | relaciona-se-a |
-| Ressurreição do Cadáver do Criador | RC-638 | é-fase-de |
-| Transições de Fase / Face da Criação | RC-640 | ← inclui |
-| Face Microbiana do Criador | RC-641 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | contexto | -> | consolidação: "ocorre-em" → "contexto" |
+| Elétrons (agente básico da vida universal) | RC-162 | relaciona-se-a | -> | - |
+| Ressurreição do Cadáver do Criador | RC-638 | parte-de | -> | consolidação: "é-fase-de" → "parte-de" |
+| Transições de Fase / Face da Criação | RC-640 | inclui | <- | - |
+| Face Microbiana do Criador | RC-641 | associado | <-> | - |
 
 ## Seres Associados
 Consultar relações acima.

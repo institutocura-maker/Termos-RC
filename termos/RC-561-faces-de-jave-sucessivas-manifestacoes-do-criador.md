@@ -17,12 +17,12 @@ atualizado = "2026-08-19"
 As sucessivas manifestações/formas do eu do criador caído ao longo da história: primeiro nos segmentos hebreus (Adão→Noé→Sem→Éber→Faleg), depois nos arianos (Gomer; como Brahma Parameshthi), depois de volta aos hebreus (Abraão/Isaque/Jacó). 'Javé teve muitas faces ao longo de toda essa história. A última, essa que a gente chama de Javé ou de Brahma Parameshthi.' A face atual foi recriada pelos anjos clones desde a rebelião de Lúcifer; tentou se humanizar nos últimos ~27.000 anos.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | relaciona-se-a |
-| Joctan e Faleg (filhos de Heber) | RC-437 | relaciona-se-a |
-| Senhor Parameshthi / Brahma Parameshthi (face atual de Javé) | RC-556 | ← relaciona-se-a |
-| Geração Regenerada de Brahma | RC-696 | ← relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Javé | RC-001 | relaciona-se-a | -> | - |
+| Joctan e Faleg (filhos de Heber) | RC-437 | relaciona-se-a | -> | - |
+| Senhor Parameshthi / Brahma Parameshthi (face atual de Javé) | RC-556 | relaciona-se-a | <- | - |
+| Geração Regenerada de Brahma | RC-696 | relaciona-se-a | <- | - |
 
 ## Fontes
 

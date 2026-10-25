@@ -27,15 +27,15 @@ Biodemo da Família Yel que fazia parte do Conselho dos Cinco da Frota Norte em 
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Conselho dos Cinco | RC-043 | associado |
-| Jesus | RC-072 | associado |
-| Val El / Val Ellam | RC-120 | associado |
-| Yel (Família Yel) | RC-136 | associado |
-| Yel Liam | RC-140 | ← variação |
-| O Fator Judas | RC-365 | ← reabilita |
-| Evangelho de Judas | RC-647 | ← envolve |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Conselho dos Cinco | RC-043 | associado | <-> | - |
+| Jesus | RC-072 | associado | <-> | - |
+| Val El / Val Ellam | RC-120 | associado | <-> | - |
+| Yel (Família Yel) | RC-136 | associado | <-> | - |
+| Yel Liam | RC-140 | variação | <- | - |
+| O Fator Judas | RC-365 | protege | <- | consolidação: "reabilita" → "protege" |
+| Evangelho de Judas | RC-647 | envolve | <- | - |
 
 ## Fontes
 

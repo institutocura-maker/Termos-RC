@@ -27,27 +27,27 @@ Na cosmologia de Ellam, a linguagem silenciosa dos mamíferos que permite perceb
 - **Proveniência:** palestras de Jan Val Ellam; transcrições STT pré-curadas; devolutiva do curador registrada em 2026-08-20 (ficha autorizada).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Seres Terrenos (Homo Sapiens) | RC-099 | associado |
-| Genética da Confiança | RC-243 | associado |
-| Favor Divino (conceito invertido) | RC-332 | ← relaciona-se-a |
-| Ressonância Mórfica (agente da rebelião) | RC-381 | relaciona-se-a |
-| Nova Espiritualidade / Novo Paraíso (Paraíso B) | RC-612 | relaciona-se-a |
-| Nova Espiritualidade / Novo Paraíso (Paraíso B) | RC-612 | relaciona-se-a |
-| Nova Espiritualidade / Novo Paraíso (Paraíso B) | RC-612 | ← relaciona-se-a |
-| Moksha | RC-618 | relaciona-se-a |
-| Ser Humano Não Local | RC-708 | ← relaciona-se-a |
-| Ser Humano Não Local | RC-708 | sustenta-ponte-não-local |
-| Humano Turbinado | RC-709 | associado |
-| Universo de Egrégoras Emocionais | RC-711 | ← condensa |
-| Três Faíscas da Consciência Humana | RC-719 | ← relaciona-se-a |
-| Três Faíscas da Consciência Humana | RC-719 | relaciona-se-a |
-| Sócios do Destino / Ausência de Justiça Externa | RC-720 | ← relaciona-se-a |
-| Faixas Espirituais de Ressonância | RC-726 | ← relaciona-se-a |
-| Destinação do Lobo | RC-743 | ← expressa-sociabilidade-por |
-| Dessensibilização da Condição Humana | RC-746 | ← relaciona-se-a |
-| Eu Observador | RC-890 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Seres Terrenos (Homo Sapiens) | RC-099 | associado | <-> | - |
+| Genética da Confiança | RC-243 | associado | <-> | - |
+| Favor Divino (conceito invertido) | RC-332 | relaciona-se-a | <- | - |
+| Ressonância Mórfica (agente da rebelião) | RC-381 | relaciona-se-a | -> | - |
+| Nova Espiritualidade / Novo Paraíso (Paraíso B) | RC-612 | relaciona-se-a | -> | - |
+| Nova Espiritualidade / Novo Paraíso (Paraíso B) | RC-612 | relaciona-se-a | -> | - |
+| Nova Espiritualidade / Novo Paraíso (Paraíso B) | RC-612 | relaciona-se-a | <- | - |
+| Moksha | RC-618 | relaciona-se-a | -> | - |
+| Ser Humano Não Local | RC-708 | relaciona-se-a | <- | - |
+| Ser Humano Não Local | RC-708 | protege | -> | consolidação: "sustenta-ponte-não-local" → "protege" |
+| Humano Turbinado | RC-709 | associado | <-> | - |
+| Universo de Egrégoras Emocionais | RC-711 | inclui | <- | consolidação: "condensa" → "inclui" |
+| Três Faíscas da Consciência Humana | RC-719 | relaciona-se-a | <- | - |
+| Três Faíscas da Consciência Humana | RC-719 | relaciona-se-a | -> | - |
+| Sócios do Destino / Ausência de Justiça Externa | RC-720 | relaciona-se-a | <- | - |
+| Faixas Espirituais de Ressonância | RC-726 | relaciona-se-a | <- | - |
+| Destinação do Lobo | RC-743 | representa | <- | consolidação: "expressa-sociabilidade-por" → "representa" |
+| Dessensibilização da Condição Humana | RC-746 | relaciona-se-a | <- | - |
+| Eu Observador | RC-890 | associado | <-> | - |
 
 
 - Gestão da Sensação Pessoal — RC-633;

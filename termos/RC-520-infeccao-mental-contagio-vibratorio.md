@@ -29,15 +29,15 @@ Com isso:
 **Origem do conteúdo da ampliação:** palestra `P2022-11-26 — Choque de Realidade – o Perpétuo Espanto dos Donos da Verdade` (26/11/2022). Transcrição automatizada, **não conferida com o áudio**; cada aspa foi recortada do `original.txt` pelo índice de âncoras do motor e conferida byte a byte pelo portão B. Nada foi digitado de memória.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Seres Terrenos (Homo Sapiens) | RC-099 | **sem aresta** em `RELACOES`; **sem arquivo** |
-| Ressonância Mórfica (agente da rebelião) | RC-381 | **sem aresta** em `RELACOES`; arquivo existe |
-| Deslacre (rompimento dos lacres psíquicos) | RC-448 | relaciona-se-a |
-| Universo de Egrégoras Emocionais | RC-711 | ← relaciona-se-a |
-| Choque de Realidade (o perpétuo espanto dos donos da verdade) | RC-867 | associado |
-| Genoma da Dignidade (o código esquecido na criação) | RC-868 | associado |
-| Mentalidade Comum (o contágio do rebanho) | RC-869 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Seres Terrenos (Homo Sapiens) | RC-099 | - | - | sem aresta em RELACOES; sem arquivo |
+| Ressonância Mórfica (agente da rebelião) | RC-381 | - | - | sem aresta em RELACOES; arquivo existe |
+| Deslacre (rompimento dos lacres psíquicos) | RC-448 | relaciona-se-a | -> | - |
+| Universo de Egrégoras Emocionais | RC-711 | relaciona-se-a | <- | - |
+| Choque de Realidade (o perpétuo espanto dos donos da verdade) | RC-867 | associado | <-> | - |
+| Genoma da Dignidade (o código esquecido na criação) | RC-868 | associado | <-> | - |
+| Mentalidade Comum (o contágio do rebanho) | RC-869 | associado | <-> | - |
 
 
 ## Fontes

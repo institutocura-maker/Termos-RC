@@ -23,15 +23,15 @@ O "Sentido Gradualístico das Leis da Evolução Cósmica" — anunciado no cap.
 O aviso espiritual que inaugura o B027 estabelece o programa: "Se é dado a cada tempo e lugar somente o que é permitido e possível ser percebido pela mentalidade da época, o aspecto maior há de ser sempre algo modificado para que se enquadre dentro do que pode ser percebido em outra circunstância." O Sentido Gradualístico é a base filosófica da **Reintegração Cósmica** (RC-003): preparar gradualmente o entendimento humano para o retorno ao convívio cósmico.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Reintegração Cósmica | RC-003 | explica |
-| Espiritualidade Superior | RC-059 | origem |
-| Revelação Cósmica (conceito) | RC-094 | contexto |
-| Alvorecer de Aquário | RC-405 | contexto |
-| Evolução da Informação, não das Espécies | RC-693 | ← relaciona-se-a |
-| Sócios do Destino / Ausência de Justiça Externa | RC-720 | ← relaciona-se-a |
-| Sócios do Destino / Ausência de Justiça Externa | RC-720 | relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Reintegração Cósmica | RC-003 | explica | -> | - |
+| Espiritualidade Superior | RC-059 | origina | -> | consolidação: "origem" → "origina" |
+| Revelação Cósmica (conceito) | RC-094 | contexto | -> | - |
+| Alvorecer de Aquário | RC-405 | contexto | -> | - |
+| Evolução da Informação, não das Espécies | RC-693 | relaciona-se-a | <- | - |
+| Sócios do Destino / Ausência de Justiça Externa | RC-720 | relaciona-se-a | <- | - |
+| Sócios do Destino / Ausência de Justiça Externa | RC-720 | relaciona-se-a | -> | - |
 
 ## Seres Associados
 Mestre Jesus (RC-072); mentores espirituais (RC-100); Jan Val Ellam (RC-071).

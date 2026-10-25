@@ -32,14 +32,14 @@ O mecanismo pelo qual a **agressividade** da espécie, em vez de eliminada, é *
 **Origem do conteúdo da ampliação:** palestra `P2023-10-14 — A Esquecida Honra dos Anunnaki`, megabloco U0033 do `original.txt` (transcrição automatizada, **não conferida com o áudio**); aspas recortadas byte a byte por `_gerar_ampliacoes_P2023-10-14.py`.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| CFD (Código Fonte Definidor) | RC-040 | associado |
-| Revelação Cósmica (conceito) | RC-094 | associado |
-| Seres Terrenos (Homo Sapiens) | RC-099 | associado |
-| DNA como Projeção Holográfica do Psiquismo do Criador | RC-217 | origina-em |
-| Esporte como evolução da Guerra | RC-430 | ← canaliza |
-| Força de Atração Sexual (anterior à polaridade) | RC-433 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| CFD (Código Fonte Definidor) | RC-040 | associado | <-> | - |
+| Revelação Cósmica (conceito) | RC-094 | associado | <-> | - |
+| Seres Terrenos (Homo Sapiens) | RC-099 | associado | <-> | - |
+| DNA como Projeção Holográfica do Psiquismo do Criador | RC-217 | origina | -> | consolidação: "origina-em" → "origina" |
+| Esporte como evolução da Guerra | RC-430 | usa | <- | consolidação: "canaliza" → "usa" |
+| Força de Atração Sexual (anterior à polaridade) | RC-433 | associado | <-> | - |
 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo (citação/paráfrase) |

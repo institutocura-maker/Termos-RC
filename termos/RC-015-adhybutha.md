@@ -17,12 +17,12 @@ atualizado = "2026-09-10"
 Perispírito menor: instrumento modelador biológico e demo — a "base dos entes e dos seres elementais", parcialmente edificada pelas formas Adhydaiva para permitir o "mergulho" das suas consciências no universo biológico e em outras áreas do universo demo (B031). Para que avatares de Vishnu e Shiva atuassem no universo material, na construção de seus corpos biológicos foi necessária a geração de "Pacotes de Poder Mental" e de expressões espirituais intermediárias Adhybutha — então o único modo de produzir protótipos no universo biológico e mantê-los vivos (B024). Adhybutha seria uma "expansão", uma "projeção" da condição Adhyagia (B024, Nota 20). Seres adhyajna sem suporte da condição adhyagya recorrem a essa estruturação espiritual, dita adhybhuta (P2025-02-16).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Adhydaiva | RC-014 | edificada-por |
-| Adhyajna | RC-016 | dá-suporte-a |
-| Demos | RC-049 | associado-a |
-| Gênero Adhy (147 seres, 5 espécies) | RC-411 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Adhydaiva | RC-014 | origina | <- | consolidação: "edificada-por" → "origina"; direção invertida (forma passiva/inversa) |
+| Adhyajna | RC-016 | protege | -> | consolidação: "dá-suporte-a" → "protege" |
+| Demos | RC-049 | associado | <-> | - |
+| Gênero Adhy (147 seres, 5 espécies) | RC-411 | associado | <-> | - |
 
 ## Fontes
 

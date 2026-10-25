@@ -29,13 +29,13 @@ Com isso:
 **Origem do conteúdo da ampliação:** palestra `P2025-05-10 — Mistérios do Apocalipse` (10/05/2025). Transcrição automatizada, **não conferida com o áudio**; cada aspa foi recortada do `original.txt` pelo índice de âncoras do motor e conferida byte a byte pelo portão B. Nada foi digitado de memória.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Segundo Advento do Cristo (Volta de Jesus) | RC-005 | **sem aresta** em `RELACOES`; arquivo existe |
-| Sophia (Cristo Cósmico) | RC-009 | **sem aresta** em `RELACOES`; arquivo existe |
-| Coreografia Cósmica (vinda de Sophia) | RC-258 | **sem aresta** em `RELACOES`; arquivo existe |
-| Hochmah (2ª Sefirah — Sabedoria; = Sophia) | RC-565 | **sem aresta** em `RELACOES`; arquivo existe |
-| João Evangelista (apóstolo, o discípulo amado) | RC-855 | **sem aresta** em `RELACOES`; arquivo existe |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Segundo Advento do Cristo (Volta de Jesus) | RC-005 | - | - | sem aresta em RELACOES; arquivo existe |
+| Sophia (Cristo Cósmico) | RC-009 | - | - | sem aresta em RELACOES; arquivo existe |
+| Coreografia Cósmica (vinda de Sophia) | RC-258 | - | - | sem aresta em RELACOES; arquivo existe |
+| Hochmah (2ª Sefirah — Sabedoria; = Sophia) | RC-565 | - | - | sem aresta em RELACOES; arquivo existe |
+| João Evangelista (apóstolo, o discípulo amado) | RC-855 | - | - | sem aresta em RELACOES; arquivo existe |
 
 ## Ampliação — STT26-EXPERIENCIA_ESPIRITUAL_ETICA (Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados))
 

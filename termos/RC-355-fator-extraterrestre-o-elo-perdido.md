@@ -24,14 +24,14 @@ O **fator extraterrestre** é "o elo perdido" da origem humana — a **component
 O capítulo 12 de B005 ("A Busca do Elo Perdido: O Fator Extraterrestre") argumenta que o fator extraterrestre "é algo tão perceptível que chega a ser espantoso o assunto ser tratado, nos tempos modernos, como tema duvidoso". Também explica a origem dos **anjos decaídos** (RC-020): "até em relação ao mito do demônio, também existe, como pano de fundo, uma componente extraterrena que explica a origem dos anjos decaídos, entre os quais estavam alguns seres que, mais tarde, seriam tidos como demônios". O livro é a ponte entre a fase kardecista-ufológica (1999–2004) e a Revelação Cósmica plena.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Anjos caídos | RC-020 | explica |
-| Revelação Cósmica (conceito) | RC-094 | associado-a |
-| Seres Extraterrenos / Extraterrestres | RC-098 | é-um |
-| Seres Terrenos (Homo Sapiens) | RC-099 | origem |
-| Confederações de Mundos | RC-357 | contexto |
-| Abduções e Reparo Espiritual | RC-359 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Anjos caídos | RC-020 | explica | -> | - |
+| Revelação Cósmica (conceito) | RC-094 | associado | <-> | - |
+| Seres Extraterrenos / Extraterrestres | RC-098 | é-um | -> | - |
+| Seres Terrenos (Homo Sapiens) | RC-099 | origina | -> | consolidação: "origem" → "origina" |
+| Confederações de Mundos | RC-357 | contexto | -> | - |
+| Abduções e Reparo Espiritual | RC-359 | associado | <-> | - |
 
 ## Seres Associados
 Seres extraterrestres (RC-098); anjos decaídos (RC-020); Jesus (RC-072).

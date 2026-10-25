@@ -24,22 +24,22 @@ Leitura de 2012 como marco de encerramento de ciclos equinociais e zodiacais, e 
 O palestrante afirma que 2012 “ainda não acabou” porque a regência de Sophia, a Reintegração Cósmica e a superação dos padrões anteriores permaneceriam pendentes.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Reintegração Cósmica | RC-003 | antecede |
-| Drama do Fechamento dos Portais | RC-295 | relaciona-se-a |
-| Dissolução da Tríade (2015–2017) | RC-300 | relaciona-se-a |
-| Alvorecer de Aquário | RC-405 | relaciona-se-a |
-| Ciclo de Precessão Equinocial (Precessão dos Equinócios) | RC-567 | marca-fim-de |
-| Eras Equinociais (ciclos de aproximadamente 5.200 anos) | RC-568 | relaciona-se-a |
-| Eras Zodiacais (ciclos de aproximadamente 2.160 anos) | RC-569 | relaciona-se-a |
-| Fim dos Tempos / Final de Ciclo × Fim do Mundo | RC-572 | ← explica |
-| Cinturão de Fótons | RC-573 | ← relaciona-se-a |
-| Alcíone (Sistema) | RC-574 | associado |
-| Baktun 13 | RC-576 | ← associado-a |
-| Profecia Hopi da Estrela Azul | RC-591 | ← relaciona-se-a |
-| Era de Peixes | RC-592 | marca-fim-de |
-| Oitavo Dia da Criação | RC-694 | ← sucede |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Reintegração Cósmica | RC-003 | precede | -> | consolidação: "antecede" → "precede" |
+| Drama do Fechamento dos Portais | RC-295 | relaciona-se-a | -> | - |
+| Dissolução da Tríade (2015–2017) | RC-300 | relaciona-se-a | -> | - |
+| Alvorecer de Aquário | RC-405 | relaciona-se-a | -> | - |
+| Ciclo de Precessão Equinocial (Precessão dos Equinócios) | RC-567 | sucede | -> | consolidação: "marca-fim-de" → "sucede" |
+| Eras Equinociais (ciclos de aproximadamente 5.200 anos) | RC-568 | relaciona-se-a | -> | - |
+| Eras Zodiacais (ciclos de aproximadamente 2.160 anos) | RC-569 | relaciona-se-a | -> | - |
+| Fim dos Tempos / Final de Ciclo × Fim do Mundo | RC-572 | explica | <- | - |
+| Cinturão de Fótons | RC-573 | relaciona-se-a | <- | - |
+| Alcíone (Sistema) | RC-574 | associado | <-> | - |
+| Baktun 13 | RC-576 | associado | <-> | - |
+| Profecia Hopi da Estrela Azul | RC-591 | relaciona-se-a | <- | - |
+| Era de Peixes | RC-592 | sucede | -> | consolidação: "marca-fim-de" → "sucede" |
+| Oitavo Dia da Criação | RC-694 | sucede | <- | - |
 
 ## Seres Associados
 —

@@ -24,11 +24,11 @@ Metáfora conceitual para as escalas temporais pelas quais seres não humanos ob
 A palestra identifica duas janelas principais: a escala equinocial e a zodiacal. Elas serviriam à leitura de pactos, regências e conflitos de longa duração.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Gestão Cósmica | RC-225 | relaciona-se-a |
-| Eras Equinociais (ciclos de aproximadamente 5.200 anos) | RC-568 | usa |
-| Eras Zodiacais (ciclos de aproximadamente 2.160 anos) | RC-569 | usa |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Gestão Cósmica | RC-225 | relaciona-se-a | -> | - |
+| Eras Equinociais (ciclos de aproximadamente 5.200 anos) | RC-568 | usa | -> | - |
+| Eras Zodiacais (ciclos de aproximadamente 2.160 anos) | RC-569 | usa | -> | - |
 
 ## Seres Associados
 —

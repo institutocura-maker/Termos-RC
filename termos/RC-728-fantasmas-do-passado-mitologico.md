@@ -28,16 +28,16 @@ Formulação central de Jan Val Ellam segundo a qual heranças não resolvidas d
 - resposta ética do abraço sem submissão — `RC-735`.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Revelação Cósmica (conceito) | RC-094 | associado |
-| Jabutis Genéticos | RC-729 | estrutura-se-por |
-| Yggdrasil / Conglomerado dos Nove Mundos | RC-730 | estrutura-se-por |
-| Axis Mundi / Axismund | RC-731 | estrutura-se-por |
-| Invasão Ancestral do Genoma e do Psiquismo Humanos | RC-732 | estrutura-se-por |
-| Dominação Psíquica pela Devoção | RC-733 | estrutura-se-por |
-| Samudra Manthana / Batimento do Oceano de Leite | RC-734 | estrutura-se-por |
-| Abraço aos Fantasmas / Integridade sem Combate | RC-735 | estrutura-se-por |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Revelação Cósmica (conceito) | RC-094 | associado | <-> | - |
+| Jabutis Genéticos | RC-729 | inclui | -> | consolidação: "estrutura-se-por" → "inclui" |
+| Yggdrasil / Conglomerado dos Nove Mundos | RC-730 | inclui | -> | consolidação: "estrutura-se-por" → "inclui" |
+| Axis Mundi / Axismund | RC-731 | inclui | -> | consolidação: "estrutura-se-por" → "inclui" |
+| Invasão Ancestral do Genoma e do Psiquismo Humanos | RC-732 | inclui | -> | consolidação: "estrutura-se-por" → "inclui" |
+| Dominação Psíquica pela Devoção | RC-733 | inclui | -> | consolidação: "estrutura-se-por" → "inclui" |
+| Samudra Manthana / Batimento do Oceano de Leite | RC-734 | inclui | -> | consolidação: "estrutura-se-por" → "inclui" |
+| Abraço aos Fantasmas / Integridade sem Combate | RC-735 | inclui | -> | consolidação: "estrutura-se-por" → "inclui" |
 
 ## Fontes
 

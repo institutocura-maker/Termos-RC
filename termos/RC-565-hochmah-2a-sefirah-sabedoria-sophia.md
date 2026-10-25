@@ -17,27 +17,27 @@ atualizado = "2026-10-22"
 Grafia canônica para a 2ª Sefirah (Sabedoria) da Cabala, epíteto hebraico de Sophia (RC-009). Decisão canônica do curador: **Hochmah**, nunca "Rockman/Rockma" (veto estrito).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Segundo Advento do Cristo (Volta de Jesus) | RC-005 | ← relaciona-se-a |
-| Sophia (Cristo Cósmico) | RC-009 | variação |
-| Sophia (Cristo Cósmico) | RC-009 | relaciona-se-a |
-| Sophia (Cristo Cósmico) | RC-009 | variação |
-| Sophia (Cristo Cósmico) | RC-009 | ← relaciona-se-a |
-| Jesus | RC-072 | ← relaciona-se-a |
-| Jesus | RC-072 | ← relaciona-se-a |
-| Vishnu (Mavatna) | RC-135 | variação |
-| Vishnu (Mavatna) | RC-135 | variação |
-| Kether (Javé na Cabala) | RC-261 | relaciona-se-a |
-| Sefirot / Árvore da Vida | RC-263 | é-um |
-| O Enigma da Transfiguração | RC-366 | ← relaciona-se-a |
-| O Enigma da Transfiguração | RC-366 | relaciona-se-a |
-| Pistis Sophia (feminino cósmico gnóstico) | RC-530 | relaciona-se-a |
-| Cérebro Radiata | RC-631 | ← relaciona-se-a |
-| Binah | RC-675 | associado |
-| Malkuth | RC-682 | ← relaciona-se-a |
-| Malkuth | RC-682 | relaciona-se-a |
-| Apocalipse (livro de João, ditado por Sofia/Rockman) | RC-854 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Segundo Advento do Cristo (Volta de Jesus) | RC-005 | relaciona-se-a | <- | - |
+| Sophia (Cristo Cósmico) | RC-009 | variação | -> | - |
+| Sophia (Cristo Cósmico) | RC-009 | relaciona-se-a | -> | - |
+| Sophia (Cristo Cósmico) | RC-009 | variação | -> | - |
+| Sophia (Cristo Cósmico) | RC-009 | relaciona-se-a | <- | - |
+| Jesus | RC-072 | relaciona-se-a | <- | - |
+| Jesus | RC-072 | relaciona-se-a | <- | - |
+| Vishnu (Mavatna) | RC-135 | variação | -> | - |
+| Vishnu (Mavatna) | RC-135 | variação | -> | - |
+| Kether (Javé na Cabala) | RC-261 | relaciona-se-a | -> | - |
+| Sefirot / Árvore da Vida | RC-263 | é-um | -> | - |
+| O Enigma da Transfiguração | RC-366 | relaciona-se-a | <- | - |
+| O Enigma da Transfiguração | RC-366 | relaciona-se-a | -> | - |
+| Pistis Sophia (feminino cósmico gnóstico) | RC-530 | relaciona-se-a | -> | - |
+| Cérebro Radiata | RC-631 | relaciona-se-a | <- | - |
+| Binah | RC-675 | associado | <-> | - |
+| Malkuth | RC-682 | relaciona-se-a | <- | - |
+| Malkuth | RC-682 | relaciona-se-a | -> | - |
+| Apocalipse (livro de João, ditado por Sofia/Rockman) | RC-854 | associado | <-> | - |
 
 ## Ampliação — STT26-EXPERIENCIA_ESPIRITUAL_ETICA (Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados))
 

@@ -23,17 +23,17 @@ Na taxonomia temporal da palestra, cinco subdivisões de aproximadamente 5.120/5
 As eras equinociais estruturam a retrospectiva dos acontecimentos terrestres: cultos da Trimurti, patriarcas, Igigi, cataclismos, tradições védicas e conflitos Anunnaki.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Eras da Criação (10 eras) | RC-155 | associado |
-| Ciclo de Precessão Equinocial (Precessão dos Equinócios) | RC-567 | ← divide-se-em |
-| Ciclo de Precessão Equinocial (Precessão dos Equinócios) | RC-567 | parte-de |
-| Eras Zodiacais (ciclos de aproximadamente 2.160 anos) | RC-569 | relaciona-se-a |
-| Janelas Cósmicas (métricas temporais) | RC-570 | ← usa |
-| Ano de 2012 como Divisor de Ciclos | RC-571 | relaciona-se-a |
-| Yima | RC-590 | ← relaciona-se-a |
-| Mahabharata | RC-593 | relaciona-se-a |
-| Avesta | RC-595 | ← relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Eras da Criação (10 eras) | RC-155 | associado | <-> | - |
+| Ciclo de Precessão Equinocial (Precessão dos Equinócios) | RC-567 | inclui | <- | consolidação: "divide-se-em" → "inclui" |
+| Ciclo de Precessão Equinocial (Precessão dos Equinócios) | RC-567 | parte-de | -> | - |
+| Eras Zodiacais (ciclos de aproximadamente 2.160 anos) | RC-569 | relaciona-se-a | -> | - |
+| Janelas Cósmicas (métricas temporais) | RC-570 | usa | <- | - |
+| Ano de 2012 como Divisor de Ciclos | RC-571 | relaciona-se-a | -> | - |
+| Yima | RC-590 | relaciona-se-a | <- | - |
+| Mahabharata | RC-593 | relaciona-se-a | -> | - |
+| Avesta | RC-595 | relaciona-se-a | <- | - |
 
 ## Seres Associados
 —

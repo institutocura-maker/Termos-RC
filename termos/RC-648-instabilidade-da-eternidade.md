@@ -23,12 +23,12 @@ Fragilização do equilíbrio presumido da eternidade quando eus fatiados adoece
 Extraído da live P2025-10-25 — 2ª Edição Estagiários do Kaos.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| En Ma (Emá / Emar — espírito-âncora) | RC-476 | envolve |
-| Fatiamento de Consciência | RC-604 | envolve |
-| Protocolos / Algoritmos da Perfeição | RC-606 | — |
-| Eu Coalescente | RC-620 | — |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| En Ma (Emá / Emar — espírito-âncora) | RC-476 | envolve | -> | - |
+| Fatiamento de Consciência | RC-604 | envolve | -> | - |
+| Protocolos / Algoritmos da Perfeição | RC-606 | - | - | sem relação informada; 17 linhas são registros de fonte com 4 colunas |
+| Eu Coalescente | RC-620 | - | - | sem relação informada; 17 linhas são registros de fonte com 4 colunas |
 
 ## Seres Associados
 Consultar relações na Base.

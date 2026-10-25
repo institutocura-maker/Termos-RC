@@ -29,21 +29,21 @@ Com isso:
 **Origem do conteúdo da ampliação:** palestra `P2023-12-03 — A Rebelião de Lúcifer ainda por ser Finalizada` (03/12/2023, na sala). Transcrição automatizada, **não conferida com o áudio**; cada aspa foi recortada do `original.txt` pelo índice de âncoras do motor e conferida byte a byte pelo portão B. Nada foi digitado de memória.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Pandora | RC-086 | **sem aresta** em `RELACOES`; arquivo existe |
-| Seres Terrenos (Homo Sapiens) | RC-099 | **sem aresta** em `RELACOES`; **sem arquivo** |
-| Trava-demo | RC-184 | **sem aresta** em `RELACOES`; **sem arquivo** |
-| Linhagens Preferenciais do Criador | RC-202 | associado |
-| Éden do Criador (Éden como laboratório) | RC-242 | associado |
-| Linhagem dos Patriarcas Hebreus | RC-270 | associado |
-| Pandora como Serpente do Éden | RC-283 | ← protege |
-| Molécula-mãe (ancestral comum da vida terrestre) | RC-540 | distingue-se-de |
-| Travas e lacres (mecanismos de controle do despertar) | RC-563 | ← relaciona-se-a |
-| Noreia (Norea) | RC-579 | **sem aresta** em `RELACOES`; arquivo existe |
-| DNA Insubmisso / Linhagem Pandora–Eva–Noreia | RC-727 | ← inclui |
-| Sequência Formativa da Racionalidade Humana | RC-785 | associado |
-| Judaísmo como Destruidor do Mito de Pandora/Lilith | RC-796 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Pandora | RC-086 | - | - | sem aresta em RELACOES; arquivo existe |
+| Seres Terrenos (Homo Sapiens) | RC-099 | - | - | sem aresta em RELACOES; sem arquivo |
+| Trava-demo | RC-184 | - | - | sem aresta em RELACOES; sem arquivo |
+| Linhagens Preferenciais do Criador | RC-202 | associado | <-> | - |
+| Éden do Criador (Éden como laboratório) | RC-242 | associado | <-> | - |
+| Linhagem dos Patriarcas Hebreus | RC-270 | associado | <-> | - |
+| Pandora como Serpente do Éden | RC-283 | protege | <- | - |
+| Molécula-mãe (ancestral comum da vida terrestre) | RC-540 | opõe-se-a | -> | consolidação: "distingue-se-de" → "opõe-se-a" |
+| Travas e lacres (mecanismos de controle do despertar) | RC-563 | relaciona-se-a | <- | - |
+| Noreia (Norea) | RC-579 | - | - | sem aresta em RELACOES; arquivo existe |
+| DNA Insubmisso / Linhagem Pandora–Eva–Noreia | RC-727 | inclui | <- | - |
+| Sequência Formativa da Racionalidade Humana | RC-785 | associado | <-> | - |
+| Judaísmo como Destruidor do Mito de Pandora/Lilith | RC-796 | associado | <-> | - |
 
 ## Fontes
 | Obra (sigla) | Título | Página | Tipo |

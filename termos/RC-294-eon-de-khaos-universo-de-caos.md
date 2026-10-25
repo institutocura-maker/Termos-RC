@@ -25,15 +25,15 @@ O **"Universo de Caos"** — o conjunto dos genos (moradas) do universo antimate
 O "Eon de Khaos" é o nome grego para o universo antimaterial (Brahmaloka) visto pelos olimpianos: o conjunto de moradas (genos/eons) onde vivem os demos e deuses. Cada demo edificou seu geno usando a "energia mental" de Caos (a força Rajas de Brahma) — mas não construíram os "pilares" (bases), o que leva à decadência do universo demo descrita em B021 (a "casa caindo sobre suas cabeças").
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Brahmaloka | RC-038 | é-um |
-| Lokas | RC-077 | inclui |
-| Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | é-um |
-| Caos = Brahma = Javé (correspondência) | RC-284 | variação |
-| Telos (de um deus) | RC-292 | associado |
-| Timé (de um deus) | RC-293 | contexto (domínio) |
-| Antimundo / antimatéria ('outro lado' da criação) | RC-527 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Brahmaloka | RC-038 | é-um | -> | - |
+| Lokas | RC-077 | inclui | -> | - |
+| Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | é-um | -> | - |
+| Caos = Brahma = Javé (correspondência) | RC-284 | variação | -> | - |
+| Telos (de um deus) | RC-292 | associado | <-> | - |
+| Timé (de um deus) | RC-293 | contexto | -> | qualificador preservado: domínio |
+| Antimundo / antimatéria ('outro lado' da criação) | RC-527 | associado | <-> | - |
 
 ## Seres Associados
 Caos/Javé (RC-284); Zeus (RC-145); demos (RC-049).

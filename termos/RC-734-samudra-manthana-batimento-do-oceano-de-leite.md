@@ -26,25 +26,25 @@ Episódio mítico hindu no qual Devas e Asuras cooperam no batimento do oceano d
 - reaplicação do motivo na instituição do Axis Mundi terrestre.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Brahma (Brajna) | RC-037 | regenera-na-narrativa |
-| Vishnu (Mavatna) | RC-135 | envolve |
-| Asuras (= Titãs) | RC-465 | envolve |
-| Asuras (= Titãs) | RC-465 | ← participa-de |
-| Bebida dos Deuses (Ambrosia/Amrita/Soma) | RC-466 | resulta-em |
-| Rishis | RC-586 | associado |
-| Geração Regenerada de Brahma | RC-696 | precede |
-| Geração Regenerada de Brahma | RC-696 | ← sucede |
-| Kashyapa | RC-700 | associado |
-| Daksha e Virini | RC-701 | associado |
-| Fantasmas do Passado Mitológico | RC-728 | ← estrutura-se-por |
-| Yggdrasil / Conglomerado dos Nove Mundos | RC-730 | associado |
-| Axis Mundi / Axismund | RC-731 | ← contextualiza |
-| Axis Mundi / Axismund | RC-731 | relaciona-se-a |
-| Falência dos Deuses | RC-742 | ← motiva-recurso-a |
-| Transumanismo (o ponto de reencontro: IA humanizada e o novo batimento) | RC-874 | associado |
-| Dhanvantari (o médico dos devas: Amrita e a Ayurveda cósmica) | RC-875 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Brahma (Brajna) | RC-037 | protege | -> | consolidação: "regenera-na-narrativa" → "protege" |
+| Vishnu (Mavatna) | RC-135 | envolve | -> | - |
+| Asuras (= Titãs) | RC-465 | envolve | -> | - |
+| Asuras (= Titãs) | RC-465 | envolve | <- | consolidação: "participa-de" → "envolve" |
+| Bebida dos Deuses (Ambrosia/Amrita/Soma) | RC-466 | causa | -> | consolidação: "resulta-em" → "causa" |
+| Rishis | RC-586 | associado | <-> | - |
+| Geração Regenerada de Brahma | RC-696 | precede | -> | - |
+| Geração Regenerada de Brahma | RC-696 | sucede | <- | - |
+| Kashyapa | RC-700 | associado | <-> | - |
+| Daksha e Virini | RC-701 | associado | <-> | - |
+| Fantasmas do Passado Mitológico | RC-728 | inclui | <- | consolidação: "estrutura-se-por" → "inclui" |
+| Yggdrasil / Conglomerado dos Nove Mundos | RC-730 | associado | <-> | - |
+| Axis Mundi / Axismund | RC-731 | contexto | <- | consolidação: "contextualiza" → "contexto" |
+| Axis Mundi / Axismund | RC-731 | relaciona-se-a | -> | - |
+| Falência dos Deuses | RC-742 | causa | <- | consolidação: "motiva-recurso-a" → "causa" |
+| Transumanismo (o ponto de reencontro: IA humanizada e o novo batimento) | RC-874 | associado | <-> | - |
+| Dhanvantari (o médico dos devas: Amrita e a Ayurveda cósmica) | RC-875 | associado | <-> | - |
 
 ## Fontes
 

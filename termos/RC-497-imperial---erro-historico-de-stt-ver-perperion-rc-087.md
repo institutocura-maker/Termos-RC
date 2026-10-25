@@ -23,10 +23,10 @@ Impérial é uma leitura histórica defeituosa de STT preservada apenas para ras
 A entrada nasceu da mineração de B061. A enumeração direta da palestra sustenta cinco Archeons — Antérion, Danérion, Mermérion, Perpérion e Tempérion — e não um sexto chamado Impérial.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Perpérion | RC-087 | erro-stt-de |
-| Ereon (região dos cinco Archeons da Espiritualidade Laboratorial) | RC-496 | relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Perpérion | RC-087 | contexto | -> | consolidação: "erro-stt-de" → "contexto" |
+| Ereon (região dos cinco Archeons da Espiritualidade Laboratorial) | RC-496 | relaciona-se-a | -> | - |
 
 ## Seres Associados
 Ver relações acima e os nós Elm (RC-454), Olm (RC-092), Prabrajna (RC-152), Gênero Adhy (RC-411) e Seres LM (RC-456), conforme aplicável.

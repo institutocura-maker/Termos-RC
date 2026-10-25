@@ -27,13 +27,13 @@ Segundo B031, a cultura correspondente às páginas das mitologias que jamais fo
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Demos | RC-049 | associado |
-| Fenvans | RC-064 | associado |
-| Frota Norte | RC-065 | associado |
-| Lokas | RC-077 | associado |
-| Cultura Demodhármica | RC-183 | ← associado-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Demos | RC-049 | associado | <-> | - |
+| Fenvans | RC-064 | associado | <-> | - |
+| Frota Norte | RC-065 | associado | <-> | - |
+| Lokas | RC-077 | associado | <-> | - |
+| Cultura Demodhármica | RC-183 | associado | <-> | - |
 
 ## Fontes
 

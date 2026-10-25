@@ -25,11 +25,11 @@ atualizado = "2026-08-28"
 No B087 (psicografia de Jeane Miranda — versão paralela às obras primárias B020/B021): chamado por Zeus para "fazer o 'encerramento' daquelas 'prendas'" (p. 35); a mensagem mental: "ele obedeceria à ordem de Zeus, porém **deixaria que eu decidisse, em algum momento, se, de facto, gostaria de tornar-me um ser biológico humanoide, e quem decidiria isso seria eu e não Zeus. Esse foi o 'presente' que Hefesto me deu!**" (pp. 35–36); o último da fila na "Assembleia" (depois de Atena, a penúltima); coautor da caixa: "Zeus, **com a ajuda de Hefesto**, fez essa 'caixa' recheada com 'magias'" (p. 55). A nota mitológica da ed. 2022 (p. 36): "Hefesto foi responsável, entre outras obras, pelo escudo usado por Zeus, em sua batalha contra os titãs. Ele atuava como 'ferreiro dos deuses'."
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Pandora | RC-086 | cria |
-| Zeus | RC-145 | associado-a (executor das ordens; coautor da caixa) |
-| Opção Inusitada de Pandora (humanização) | RC-285 | possibilita (a decisão de ficar "totalmente homo") |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Pandora | RC-086 | origina | -> | consolidação: "cria" → "origina" |
+| Zeus | RC-145 | associado | <-> | qualificador preservado: executor das ordens; coautor da caixa; raiz semântica associado (decisão 3) |
+| Opção Inusitada de Pandora (humanização) | RC-285 | causa | -> | qualificador preservado: a decisão de ficar "totalmente homo"; consolidação: "possibilita" → "causa" |
 
 ## Seres Associados
 Zeus (RC-145, o comandante); Pandora (RC-086, a protegida); Atena (a cúmplice silenciosa na "Assembleia").

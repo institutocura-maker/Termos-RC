@@ -36,11 +36,11 @@ Figura do panteão anunnaki registrada na Base como **Inanna = Danu**: neta de *
 **Origem do conteúdo:** bloco 1–2 da palestra `P2021-05-15 — As Etnias Hiperbóreas e os Anunnakis` (U0003) e a resposta ao ouvinte em U0007/U0009. Transcrição automatizada, pré-curada; **não conferida com o áudio**.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Anunnaki | RC-024 | é-um |
-| Thuata de Dannan | RC-398 | relaciona-se-a |
-| Culto a Lilith (Transformação em Deusa Lil Babilônica) | RC-813 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Anunnaki | RC-024 | é-um | -> | - |
+| Thuata de Dannan | RC-398 | relaciona-se-a | -> | - |
+| Culto a Lilith (Transformação em Deusa Lil Babilônica) | RC-813 | associado | <-> | - |
 
 ## Seres Associados
 

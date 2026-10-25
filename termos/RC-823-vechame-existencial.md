@@ -24,14 +24,14 @@ Tese (leitura do autor, palestra **P2019-04-14**, U0004) de que **o "vechame exi
 Aparece em **P2019-04-14**, U0004. Contexto: a palestra denuncia que **"a mão que nos escraviza ainda quer ser beijada e a gente agradece"**. A saída proposta pelo autor **NÃO é revolta** ("É alguém azarado, esse nosso aí") nem **submissão** ("beijar a mão"). É o **"sangue de barata"** — a **indiferença amorosa**, o **vechame existencial**: "olhar para isso tudo e não ter nojo de quem nos pisa, de quem nos escraviza e ainda ajudar mesmo sabendo que está sendo ultra[jado]". É um **conceito ético único** — sem paralelo acadêmico direto.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | é-resposta-a |
-| Lavagem Cerebral (condicionamento) | RC-335 | é-resistência-a |
-| Desvio de Rota de Pandora (Contra o Plano de Zeus) | RC-806 | é-análogo-a |
-| Alimentação por Perfume dos Humanos (Demos se Alimentam de DNA) | RC-820 | associado |
-| Mahatma Magant como Libertador da Alimentação Demoníaca | RC-822 | pratica |
-| Greve de Fome Genética (Suicídio como Quebra do Código Demoníaco) | RC-824 | é-complemento-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Javé | RC-001 | comunica | -> | consolidação: "é-resposta-a" → "comunica" |
+| Lavagem Cerebral (condicionamento) | RC-335 | opõe-se-a | -> | consolidação: "é-resistência-a" → "opõe-se-a" |
+| Desvio de Rota de Pandora (Contra o Plano de Zeus) | RC-806 | variação | -> | consolidação: "é-análogo-a" → "variação" |
+| Alimentação por Perfume dos Humanos (Demos se Alimentam de DNA) | RC-820 | associado | <-> | - |
+| Mahatma Magant como Libertador da Alimentação Demoníaca | RC-822 | usa | -> | consolidação: "pratica" → "usa" |
+| Greve de Fome Genética (Suicídio como Quebra do Código Demoníaco) | RC-824 | associado | <-> | consolidação: "é-complemento-a" → "associado" |
 
 ## Seres Associados
 - **Javé (RC-001)** — quem é "ajudado mesmo sendo opressor"

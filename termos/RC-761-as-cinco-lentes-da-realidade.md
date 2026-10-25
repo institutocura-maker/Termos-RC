@@ -31,29 +31,29 @@ Estrutura epistemológica central apresentada por Jan Val Ellam na palestra "Bas
 Palestra integral dedicada ao tema (P2023-05-13). Ellam a apresenta como "o momento final" em que os seres humanos dizem aos que estão fora da Matrix o que se passa dentro — a RC como mensagem de dentro do simulacro para fora dele (Mensagem Talm, RC-080).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | relaciona-se-a |
-| Sophia (Cristo Cósmico) | RC-009 | relaciona-se-a |
-| Criatura Universal | RC-042 | relaciona-se-a |
-| Especiação | RC-056 | associado |
-| Jesus | RC-072 | associado |
-| Mensagem Talm | RC-080 | relaciona-se-a |
-| Quarto Logos (Olm / Codificador de Zian) | RC-092 | relaciona-se-a |
-| Revelação Cósmica (conceito) | RC-094 | integra |
-| Mentalma | RC-166 | relaciona-se-a |
-| Criação Indevida (Obra indevida) | RC-167 | associado |
-| Modelo Colmeia (Sistema/Controle Colmeia) | RC-176 | relaciona-se-a |
-| Pílula vermelha | RC-192 | relaciona-se-a |
-| Elm (Moros — ser LM de Tempérion) | RC-454 | associado |
-| Evolução Possível (terceira via: nem Darwin, nem deus) | RC-541 | relaciona-se-a |
-| Teia quântica (o que sai de um ser volta para ele) | RC-559 | associado |
-| Fatiamento de Consciência | RC-604 | relaciona-se-a |
-| Nova Espiritualidade / Novo Paraíso (Paraíso B) | RC-612 | associado |
-| Ciência Pessoal / Doutrina da Própria Personalidade | RC-695 | associado |
-| Camuflagem da Realidade | RC-702 | relaciona-se-a |
-| Buraco Negro Mental / Consciencial | RC-717 | associado |
-| As Três Escalas da Consciência (Sábio → Mago → Iniciado) | RC-762 | ← relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Javé | RC-001 | relaciona-se-a | -> | - |
+| Sophia (Cristo Cósmico) | RC-009 | relaciona-se-a | -> | - |
+| Criatura Universal | RC-042 | relaciona-se-a | -> | - |
+| Especiação | RC-056 | associado | <-> | - |
+| Jesus | RC-072 | associado | <-> | - |
+| Mensagem Talm | RC-080 | relaciona-se-a | -> | - |
+| Quarto Logos (Olm / Codificador de Zian) | RC-092 | relaciona-se-a | -> | - |
+| Revelação Cósmica (conceito) | RC-094 | inclui | -> | consolidação: "integra" → "inclui" |
+| Mentalma | RC-166 | relaciona-se-a | -> | - |
+| Criação Indevida (Obra indevida) | RC-167 | associado | <-> | - |
+| Modelo Colmeia (Sistema/Controle Colmeia) | RC-176 | relaciona-se-a | -> | - |
+| Pílula vermelha | RC-192 | relaciona-se-a | -> | - |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | associado | <-> | - |
+| Evolução Possível (terceira via: nem Darwin, nem deus) | RC-541 | relaciona-se-a | -> | - |
+| Teia quântica (o que sai de um ser volta para ele) | RC-559 | associado | <-> | - |
+| Fatiamento de Consciência | RC-604 | relaciona-se-a | -> | - |
+| Nova Espiritualidade / Novo Paraíso (Paraíso B) | RC-612 | associado | <-> | - |
+| Ciência Pessoal / Doutrina da Própria Personalidade | RC-695 | associado | <-> | - |
+| Camuflagem da Realidade | RC-702 | relaciona-se-a | -> | - |
+| Buraco Negro Mental / Consciencial | RC-717 | associado | <-> | - |
+| As Três Escalas da Consciência (Sábio → Mago → Iniciado) | RC-762 | relaciona-se-a | <- | - |
 
 ## Fontes
 

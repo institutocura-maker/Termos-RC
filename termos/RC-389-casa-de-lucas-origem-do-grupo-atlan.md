@@ -27,11 +27,11 @@ Na B006 (*Nos Bastidores da Luz I*, obra mediúnica), o centro espírita que aco
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Jan Val Ellam (Rogério de Almeida Freitas) | RC-071 | associado |
-| Revelação Cósmica (conceito) | RC-094 | associado |
-| Grupo Atlan | RC-388 | ← origina-em |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Jan Val Ellam (Rogério de Almeida Freitas) | RC-071 | associado | <-> | - |
+| Revelação Cósmica (conceito) | RC-094 | associado | <-> | - |
+| Grupo Atlan | RC-388 | origina | <- | consolidação: "origina-em" → "origina" |
 
 ## Fontes
 

@@ -17,19 +17,19 @@ atualizado = "2026-09-10"
 As formas avatáricas — demo ou homo — de Vishnu e Shiva, "base sacrificial": criadas porque as formas Adhydaiva não podem deixar o universo paralelo onde se encontram (B031). Obrigados a gerar de si "expressões das suas consciências" para atuar no universo biológico, os avatares — expressões Adhyajna — assumem corpos desse naipe para representar os interesses dos Criadores; dos três da Trimurti, somente Vishnu e Shiva o podem fazer — Brahma/Javé, não (B016). Krishna, Rama, Jesus e Saibaba são expressões adhyajna (P2025-02-16); Jesus é a expressão Adhyajna de Vishnu e avatar de Sophia (B031); a última Adhyajna humana de Shiva foi Sai Baba; Mohen So, criado por Vishnu, é Adhyajna (P2024-05-04; B024 — avatar keshava). "Vishnu e Shiva podiam criar avatares, expressões adhyajna [STT 'adiágena'] deles próprios. Javé nunca conseguiu fazer isso, devido ao seu problema de ser alguém desalmado" (P2020-05-09). Sem suporte da condição adhyagya, seres adhyajna recorrem à estruturação adhybhuta (P2025-02-16).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Adhyagia | RC-012 | associado |
-| Adhydaiva | RC-014 | associado |
-| Adhybutha | RC-015 | recorre-a (sem suporte) |
-| Jesus | RC-072 | tem-expressão |
-| Shiva (Savna) | RC-102 | avatar-de |
-| Vishnu (Mavatna) | RC-135 | avatar-de |
-| Prisioneiros da Brahmaloka | RC-260 | ← opõe-se-a |
-| Gênero Adhy (147 seres, 5 espécies) | RC-411 | associado |
-| Krishna (avatar de Vishnu/Shiva) | RC-414 | ← relaciona-se-a |
-| Javé sem avatares ('Não tenho isto!') | RC-426 | ← opõe-se-a |
-| Yajna (ritual de sacrifício/fogo) | RC-688 | ← relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Adhyagia | RC-012 | associado | <-> | - |
+| Adhydaiva | RC-014 | associado | <-> | - |
+| Adhybutha | RC-015 | relaciona-se-a | -> | qualificador preservado: sem suporte; consolidação: "recorre-a" → "relaciona-se-a" |
+| Jesus | RC-072 | representa | -> | consolidação: "tem-expressão" → "representa" |
+| Shiva (Savna) | RC-102 | origina | -> | consolidação: "avatar-de" → "origina" |
+| Vishnu (Mavatna) | RC-135 | origina | -> | consolidação: "avatar-de" → "origina" |
+| Prisioneiros da Brahmaloka | RC-260 | opõe-se-a | <- | - |
+| Gênero Adhy (147 seres, 5 espécies) | RC-411 | associado | <-> | - |
+| Krishna (avatar de Vishnu/Shiva) | RC-414 | relaciona-se-a | <- | - |
+| Javé sem avatares ('Não tenho isto!') | RC-426 | opõe-se-a | <- | - |
+| Yajna (ritual de sacrifício/fogo) | RC-688 | relaciona-se-a | <- | - |
 
 ## Fontes
 

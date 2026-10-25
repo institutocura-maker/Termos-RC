@@ -29,13 +29,13 @@ Com isso:
 **Origem do conteúdo da ampliação:** palestra `P2018-12-15 — Terra Atlantis – Aprofundamento` (15/12/2018). Transcrição automatizada, **não conferida com o áudio**; cada aspa foi recortada do `original.txt` pelo índice de âncoras do motor e conferida byte a byte pelo portão B. Nada foi digitado de memória.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Antlar | RC-022 | **sem aresta** em `RELACOES`; **sem arquivo** |
-| Espherian | RC-057 | **sem aresta** em `RELACOES`; arquivo existe (P5d) |
-| Espheron | RC-058 | **sem aresta** em `RELACOES`; arquivo existe (P5d) |
-| Quarto Logos (Olm / Codificador de Zian) | RC-092 | **sem aresta** em `RELACOES`; arquivo existe |
-| Trilogia Queda e Ascensão Espiritual | RC-354 | ← inclui |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Antlar | RC-022 | - | - | sem aresta em RELACOES; sem arquivo |
+| Espherian | RC-057 | - | - | sem aresta em RELACOES; arquivo existe (P5d) |
+| Espheron | RC-058 | - | - | sem aresta em RELACOES; arquivo existe (P5d) |
+| Quarto Logos (Olm / Codificador de Zian) | RC-092 | - | - | sem aresta em RELACOES; arquivo existe |
+| Trilogia Queda e Ascensão Espiritual | RC-354 | inclui | <- | - |
 
 
 ## Fontes

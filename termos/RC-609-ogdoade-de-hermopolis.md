@@ -24,15 +24,15 @@ Conjunto de oito figuras da tradição egípcia de Hermópolis correlacionado na
 Elm e Olm seriam os dois LM presentes na correlação; os demais correspondem à Trimurti e à Tridevi.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Quarto Logos (Olm / Codificador de Zian) | RC-092 | inclui |
-| Trimurti | RC-104 | inclui |
-| Krishna (avatar de Vishnu/Shiva) | RC-414 | relaciona-se-a |
-| Elm (Moros — ser LM de Tempérion) | RC-454 | inclui |
-| Tridevi | RC-610 | inclui |
-| Universo TÊNET | RC-626 | ← relaciona-se-a |
-| Enéade de Heliópolis | RC-627 | ← compara-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Quarto Logos (Olm / Codificador de Zian) | RC-092 | inclui | -> | - |
+| Trimurti | RC-104 | inclui | -> | - |
+| Krishna (avatar de Vishnu/Shiva) | RC-414 | relaciona-se-a | -> | - |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | inclui | -> | - |
+| Tridevi | RC-610 | inclui | -> | - |
+| Universo TÊNET | RC-626 | relaciona-se-a | <- | - |
+| Enéade de Heliópolis | RC-627 | variação | <- | consolidação: "compara-se-a" → "variação" |
 
 ## Seres Associados
 Consultar as relações tipadas acima.

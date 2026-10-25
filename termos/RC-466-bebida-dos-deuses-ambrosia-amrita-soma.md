@@ -29,15 +29,15 @@ Com isso:
 **Origem do conteúdo da ampliação:** palestra `P2024-06-16 — O Projeto TALM, os Fenvans e os Humanos` (16/06/2024). Transcrição automatizada, **não conferida com o áudio**; cada aspa foi recortada do `original.txt` pelo índice de âncoras do motor e conferida byte a byte pelo portão B. Nada foi digitado de memória.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Demos | RC-049 | **sem aresta** em `RELACOES`; arquivo existe |
-| Zeus | RC-145 | **sem aresta** em `RELACOES`; arquivo existe |
-| Samudra Manthana / Batimento do Oceano de Leite | RC-734 | ← resulta-em |
-| Satchidanandaghana (super código genômico do Projeto TALM) | RC-838 | associado |
-| Alexandre Magno (tirano sob influência de Lemion) | RC-850 | associado |
-| Qin Shi Huang Di (imperador chinês sob influência de Lemion) | RC-851 | associado |
-| Dhanvantari (o médico dos devas: Amrita e a Ayurveda cósmica) | RC-875 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Demos | RC-049 | - | - | sem aresta em RELACOES; arquivo existe |
+| Zeus | RC-145 | - | - | sem aresta em RELACOES; arquivo existe |
+| Samudra Manthana / Batimento do Oceano de Leite | RC-734 | causa | <- | consolidação: "resulta-em" → "causa" |
+| Satchidanandaghana (super código genômico do Projeto TALM) | RC-838 | associado | <-> | - |
+| Alexandre Magno (tirano sob influência de Lemion) | RC-850 | associado | <-> | - |
+| Qin Shi Huang Di (imperador chinês sob influência de Lemion) | RC-851 | associado | <-> | - |
+| Dhanvantari (o médico dos devas: Amrita e a Ayurveda cósmica) | RC-875 | associado | <-> | - |
 
 
 ## Fontes

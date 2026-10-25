@@ -27,17 +27,17 @@ Os habitantes do universo paralelo (antimaterial): não são físicos — e muit
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Anjos clones | RC-019 | associado |
-| Anunnaki | RC-024 | associado |
-| Aya e Aye | RC-031 | associado |
-| Demos | RC-049 | associado |
-| Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | associado |
-| Zeus | RC-145 | associado |
-| Mônada (Mônada Espiritual) | RC-149 | associado |
-| Teurgistas | RC-235 | associado |
-| Seres dos Portais | RC-241 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Anjos clones | RC-019 | associado | <-> | - |
+| Anunnaki | RC-024 | associado | <-> | - |
+| Aya e Aye | RC-031 | associado | <-> | - |
+| Demos | RC-049 | associado | <-> | - |
+| Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | associado | <-> | - |
+| Zeus | RC-145 | associado | <-> | - |
+| Mônada (Mônada Espiritual) | RC-149 | associado | <-> | - |
+| Teurgistas | RC-235 | associado | <-> | - |
+| Seres dos Portais | RC-241 | associado | <-> | - |
 
 ## Ampliação — STT26-EXPERIENCIA_ESPIRITUAL_ETICA (Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados))
 

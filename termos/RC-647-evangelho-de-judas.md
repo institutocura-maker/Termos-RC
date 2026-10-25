@@ -23,13 +23,13 @@ Texto gnóstico que apresenta Judas sob leitura distinta da tradição canônica
 Extraído da 3ª Edição dos Estagiários do Kaos.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Jesus | RC-072 | ← relaciona-se-a |
-| Yel Am / Yel Liam | RC-138 | envolve |
-| Gnosticismo (contraponto à Cabala) | RC-268 | relaciona-se-a |
-| O Fator Judas | RC-365 | tema-de |
-| Barbelo (Mãe-Pai primordial gnóstica) | RC-483 | relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Jesus | RC-072 | relaciona-se-a | <- | - |
+| Yel Am / Yel Liam | RC-138 | envolve | -> | - |
+| Gnosticismo (contraponto à Cabala) | RC-268 | relaciona-se-a | -> | - |
+| O Fator Judas | RC-365 | contexto | -> | consolidação: "tema-de" → "contexto" |
+| Barbelo (Mãe-Pai primordial gnóstica) | RC-483 | relaciona-se-a | -> | - |
 
 ## Seres Associados
 Consultar relações na Base.

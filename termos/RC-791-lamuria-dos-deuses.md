@@ -24,19 +24,19 @@ Tese (leitura do autor, palestra **P2025-04-06**, U0004) de que a **"lamúria do
 Aparece em **P2025-04-06**, U0004. Contexto: "central de informação. Eu chamo da da lamúria dos deuses. Lamúria é o quê? É um tipo de lamentação interminável, que importuna, mas que a nada leva. Mas era exatamente esse o padrão constante desses deuses. Eles viviam se lamuriando tudo. E quem é que diabos escutava isso aqui? Prometeu e Epimeteu."
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | lamuriou-se |
-| Sophia (Cristo Cósmico) | RC-009 | associado |
-| Mônada (Mônada Espiritual) | RC-149 | lamuriou-se |
-| Linhagem dos Patriarcas Hebreus | RC-270 | associado |
-| Pactos do Criador (troca de informações) | RC-271 | associado |
-| Prometeu (titã) | RC-301 | diagnosticou |
-| Epimeteu (titã) | RC-302 | diagnosticou |
-| Yggdrasil / Conglomerado dos Nove Mundos | RC-730 | associado |
-| Revolução Inacabada de Prometeu e Pandora | RC-788 | gatilho-de |
-| Centro Alquímico-Farmacopédico | RC-789 | ouviu-em |
-| Ragnarok | (ver RC-009/RC-730) | contextualizado-por |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Javé | RC-001 | relaciona-se-a | -> | consolidação: "lamuriou-se" → "relaciona-se-a" |
+| Sophia (Cristo Cósmico) | RC-009 | associado | <-> | - |
+| Mônada (Mônada Espiritual) | RC-149 | relaciona-se-a | -> | consolidação: "lamuriou-se" → "relaciona-se-a" |
+| Linhagem dos Patriarcas Hebreus | RC-270 | associado | <-> | - |
+| Pactos do Criador (troca de informações) | RC-271 | associado | <-> | - |
+| Prometeu (titã) | RC-301 | explica | -> | consolidação: "diagnosticou" → "explica" |
+| Epimeteu (titã) | RC-302 | explica | -> | consolidação: "diagnosticou" → "explica" |
+| Yggdrasil / Conglomerado dos Nove Mundos | RC-730 | associado | <-> | - |
+| Revolução Inacabada de Prometeu e Pandora | RC-788 | origina | -> | consolidação: "gatilho-de" → "origina" |
+| Centro Alquímico-Farmacopédico | RC-789 | relaciona-se-a | -> | consolidação: "ouviu-em" → "relaciona-se-a" |
+| Ragnarok | (ver RC-009/RC-730) | contexto | <- | consolidação: "contextualizado-por" → "contexto"; direção invertida (forma passiva/inversa) |
 
 ## Seres Associados
 - **Prometeu** (RC-301) — quem diagnosticou

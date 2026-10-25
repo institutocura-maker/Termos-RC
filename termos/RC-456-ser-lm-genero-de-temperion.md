@@ -24,21 +24,21 @@ Ser LM designa um gênero de seres de Tempérion dedicado à observação da imp
 A palestra descreve um grupo de cinco LM enviado a Perpérion. A maioria retornaria, enquanto dois — recuperáveis como Elm e Olm — permaneceriam em relação direta com os Adhy e mergulhariam em momentos distintos.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Espiritualidade Laboratorial | RC-061 | relaciona-se-a |
-| Perpérion | RC-087 | enviado-a |
-| Quarto Logos (Olm / Codificador de Zian) | RC-092 | ← é-um |
-| Quarto Logos (Olm / Codificador de Zian) | RC-092 | ← é-um |
-| Elm (Moros — ser LM de Tempérion) | RC-454 | ← é-um |
-| Elm (Moros — ser LM de Tempérion) | RC-454 | ← é-um |
-| Tempérion (Archeon de Ereon; setor dos seres LM) | RC-472 | ocorre-em |
-| Tempérion (Archeon de Ereon; setor dos seres LM) | RC-472 | ocorre-em |
-| Tempérion (Archeon de Ereon; setor dos seres LM) | RC-472 | ← abriga |
-| Autismo Funcional dos Seres da Espiritualidade Superior | RC-605 | ← aplica-se-a |
-| Cinco Seres LM de Tempérion | RC-607 | ← é-um |
-| Imponderabilidade (campo de estudo dos Seres LM) | RC-608 | ← estudado-por |
-| Conclave da Espiritualidade Laboratorial | RC-635 | ← envolve |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Espiritualidade Laboratorial | RC-061 | relaciona-se-a | -> | - |
+| Perpérion | RC-087 | transfere | -> | consolidação: "enviado-a" → "transfere" |
+| Quarto Logos (Olm / Codificador de Zian) | RC-092 | é-um | <- | - |
+| Quarto Logos (Olm / Codificador de Zian) | RC-092 | é-um | <- | - |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | é-um | <- | - |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | é-um | <- | - |
+| Tempérion (Archeon de Ereon; setor dos seres LM) | RC-472 | contexto | -> | consolidação: "ocorre-em" → "contexto" |
+| Tempérion (Archeon de Ereon; setor dos seres LM) | RC-472 | contexto | -> | consolidação: "ocorre-em" → "contexto" |
+| Tempérion (Archeon de Ereon; setor dos seres LM) | RC-472 | contexto | <- | consolidação: "abriga" → "contexto" |
+| Autismo Funcional dos Seres da Espiritualidade Superior | RC-605 | usa | <- | consolidação: "aplica-se-a" → "usa" |
+| Cinco Seres LM de Tempérion | RC-607 | é-um | <- | - |
+| Imponderabilidade (campo de estudo dos Seres LM) | RC-608 | observa | -> | consolidação: "estudado-por" → "observa"; direção invertida (forma passiva/inversa) |
+| Conclave da Espiritualidade Laboratorial | RC-635 | envolve | <- | - |
 
 ## Seres Associados
 Ver relações acima e os nós Elm (RC-454), Olm (RC-092), Prabrajna (RC-152), Gênero Adhy (RC-411) e Seres LM (RC-456), conforme aplicável.

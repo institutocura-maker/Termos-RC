@@ -22,12 +22,12 @@ Forma preferida: Yesod.
 O Mistério da Árvore da Vida e a Urdidura de Metatron.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Sefirot / Árvore da Vida | RC-263 | é-um |
-| Netzach | RC-679 | — |
-| Hod | RC-680 | — |
-| Malkuth | RC-682 | — |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Sefirot / Árvore da Vida | RC-263 | é-um | -> | - |
+| Netzach | RC-679 | - | - | sem relação informada; 17 linhas são registros de fonte com 4 colunas |
+| Hod | RC-680 | - | - | sem relação informada; 17 linhas são registros de fonte com 4 colunas |
+| Malkuth | RC-682 | - | - | sem relação informada; 17 linhas são registros de fonte com 4 colunas |
 
 ## Seres Associados
 Consultar Base.

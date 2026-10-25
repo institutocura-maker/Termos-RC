@@ -23,13 +23,13 @@ Releitura integrada das revelações antigas, espirituais, filosóficas e mític
 Extraído da live P2025-10-25 — 2ª Edição Estagiários do Kaos.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Revelação Cósmica (conceito) | RC-094 | atualiza |
-| Revelação Cósmica (conceito) | RC-094 | atualiza |
-| Revelação Espiritual (Kardec) | RC-190 | relaciona-se-a |
-| Projeto Orbum (cidadania planetária) | RC-535 | — |
-| Avesta | RC-595 | — |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Revelação Cósmica (conceito) | RC-094 | causa | -> | consolidação: "atualiza" → "causa" |
+| Revelação Cósmica (conceito) | RC-094 | causa | -> | consolidação: "atualiza" → "causa" |
+| Revelação Espiritual (Kardec) | RC-190 | relaciona-se-a | -> | - |
+| Projeto Orbum (cidadania planetária) | RC-535 | - | - | sem relação informada; 17 linhas são registros de fonte com 4 colunas |
+| Avesta | RC-595 | - | - | sem relação informada; 17 linhas são registros de fonte com 4 colunas |
 
 ## Seres Associados
 Consultar relações na Base.

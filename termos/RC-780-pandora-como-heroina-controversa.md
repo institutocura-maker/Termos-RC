@@ -24,13 +24,13 @@ Tese (leitura do autor, palestra **P2019-05-11 — Pandora e os Desacertos dos P
 Aparece em **P2019-05-11**, U0001 (abertura — Pandora escreve livros), U0002 (espírito de Pandora), U0004 (pactos desastrosos). É peça-chave do **tema Pandora × Pactos de Javé** (RC-086/RC-001) e contraponto à **Sequência Formativa** (RC-785) — Pandora é a pioneira da cadeia, mas sua ação tem custo.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Pandora | RC-086 | qualifica |
-| Razão Filosófica dos Terráqueos | RC-231 | manifesta-se-em |
-| Momento Zero de Pandora | RC-779 | paralelo-com |
-| Sequência Formativa da Racionalidade Humana | RC-785 | parte-de |
-| Choque de Realidade (o perpétuo espanto dos donos da verdade) | RC-867 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Pandora | RC-086 | explica | -> | consolidação: "qualifica" → "explica" |
+| Razão Filosófica dos Terráqueos | RC-231 | representa | -> | consolidação: "manifesta-se-em" → "representa" |
+| Momento Zero de Pandora | RC-779 | associado | <-> | consolidação: "paralelo-com" → "associado" |
+| Sequência Formativa da Racionalidade Humana | RC-785 | parte-de | -> | - |
+| Choque de Realidade (o perpétuo espanto dos donos da verdade) | RC-867 | associado | <-> | - |
 
 ## Seres Associados
 - **Pandora** (RC-086) — a heroína controversa

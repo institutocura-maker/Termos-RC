@@ -24,18 +24,18 @@ Analogia usada pelo palestrante para descrever seres quase perfeitos que funcion
 A analogia é aplicada a seres do Paraíso, da Operacional e da Laboratorial, com graus distintos de funcionalidade.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Gênero Adhy (147 seres, 5 espécies) | RC-411 | aplica-se-a |
-| Ser LM (gênero de Tempérion) | RC-456 | aplica-se-a |
-| Seres Originais do Paraíso | RC-600 | aplica-se-a |
-| Protocolos / Algoritmos da Perfeição | RC-606 | relaciona-se-a |
-| Conclave da Espiritualidade Laboratorial | RC-635 | associado |
-| Abismo da Consciência Cósmica | RC-721 | ← relaciona-se-a |
-| Abismo da Consciência Cósmica | RC-721 | relaciona-se-a |
-| Abismo da Providência / Falsa Providência | RC-723 | ← relaciona-se-a |
-| Abismo da Providência / Falsa Providência | RC-723 | relaciona-se-a |
-| Disforia de gênio (a confiança ilimitada na pretensa capacidade) | RC-878 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Gênero Adhy (147 seres, 5 espécies) | RC-411 | usa | -> | consolidação: "aplica-se-a" → "usa" |
+| Ser LM (gênero de Tempérion) | RC-456 | usa | -> | consolidação: "aplica-se-a" → "usa" |
+| Seres Originais do Paraíso | RC-600 | usa | -> | consolidação: "aplica-se-a" → "usa" |
+| Protocolos / Algoritmos da Perfeição | RC-606 | relaciona-se-a | -> | - |
+| Conclave da Espiritualidade Laboratorial | RC-635 | associado | <-> | - |
+| Abismo da Consciência Cósmica | RC-721 | relaciona-se-a | <- | - |
+| Abismo da Consciência Cósmica | RC-721 | relaciona-se-a | -> | - |
+| Abismo da Providência / Falsa Providência | RC-723 | relaciona-se-a | <- | - |
+| Abismo da Providência / Falsa Providência | RC-723 | relaciona-se-a | -> | - |
+| Disforia de gênio (a confiança ilimitada na pretensa capacidade) | RC-878 | associado | <-> | - |
 
 ## Seres Associados
 Consultar as relações tipadas acima.

@@ -33,35 +33,35 @@ Dentro e fora são posições relativas ao lugar onde o eu está centrado: corpo
 Conceito central de `P2025-02-15`. A camuflagem não é apenas falta de informação: envolve sentidos, processamento cerebral, condicionamentos, crenças, travas genéticas e repetição da realidade conhecida.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Reintegração Cósmica | RC-003 | ← rompe |
-| Mensagem Talm | RC-080 | associado |
-| Criação Indevida (Obra indevida) | RC-167 | relaciona-se-a |
-| Pílula vermelha | RC-192 | relaciona-se-a |
-| Pílula vermelha | RC-192 | ← relaciona-se-a |
-| Pílula vermelha | RC-192 | ← relaciona-se-a |
-| Liberdade Mental (premissa do Quarto Logos) | RC-253 | relaciona-se-a |
-| Lavagem Cerebral (condicionamento) | RC-335 | sustentada-por |
-| Lavagem Cerebral (condicionamento) | RC-335 | ← sustenta |
-| O Ser Humano Emancipado | RC-372 | rompida-por |
-| Protocolo Mental (padrões organizadores da mente) | RC-517 | associado |
-| Dehatma Buddhi (doença psíquica da mente identificada com o corpo) | RC-551 | relaciona-se-a |
-| Travas e lacres (mecanismos de controle do despertar) | RC-563 | sustentada-por |
-| Travas e lacres (mecanismos de controle do despertar) | RC-563 | ← sustenta |
-| Verdade Posta × Verdade a Construir | RC-657 | relaciona-se-a |
-| Verdade Posta × Verdade a Construir | RC-657 | ← relaciona-se-a |
-| Postulados Quânticos como Manual Operativo | RC-703 | rompida-por |
-| Postulados Quânticos como Manual Operativo | RC-703 | ← explica |
-| Bhavaṅga / Janela da Percepção | RC-706 | atravessada-por |
-| Bhavaṅga / Janela da Percepção | RC-706 | ← atravessa |
-| Bhavaṅga / Janela da Percepção | RC-706 | relaciona-se-a |
-| Ser Humano Não Local | RC-708 | ← atravessa |
-| Universo de Egrégoras Emocionais | RC-711 | ← reforça |
-| Universo de Egrégoras Emocionais | RC-711 | relaciona-se-a |
-| Universo de Egrégoras Emocionais | RC-711 | ← relaciona-se-a |
-| Dessensibilização da Condição Humana | RC-746 | ← relaciona-se-a |
-| As Cinco Lentes da Realidade | RC-761 | ← relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Reintegração Cósmica | RC-003 | danifica | <- | consolidação: "rompe" → "danifica" |
+| Mensagem Talm | RC-080 | associado | <-> | - |
+| Criação Indevida (Obra indevida) | RC-167 | relaciona-se-a | -> | - |
+| Pílula vermelha | RC-192 | relaciona-se-a | -> | - |
+| Pílula vermelha | RC-192 | relaciona-se-a | <- | - |
+| Pílula vermelha | RC-192 | relaciona-se-a | <- | - |
+| Liberdade Mental (premissa do Quarto Logos) | RC-253 | relaciona-se-a | -> | - |
+| Lavagem Cerebral (condicionamento) | RC-335 | protege | <- | consolidação: "sustentada-por" → "protege"; direção invertida (forma passiva/inversa) |
+| Lavagem Cerebral (condicionamento) | RC-335 | protege | <- | consolidação: "sustenta" → "protege" |
+| O Ser Humano Emancipado | RC-372 | danifica | <- | consolidação: "rompida-por" → "danifica"; direção invertida (forma passiva/inversa) |
+| Protocolo Mental (padrões organizadores da mente) | RC-517 | associado | <-> | - |
+| Dehatma Buddhi (doença psíquica da mente identificada com o corpo) | RC-551 | relaciona-se-a | -> | - |
+| Travas e lacres (mecanismos de controle do despertar) | RC-563 | protege | <- | consolidação: "sustentada-por" → "protege"; direção invertida (forma passiva/inversa) |
+| Travas e lacres (mecanismos de controle do despertar) | RC-563 | protege | <- | consolidação: "sustenta" → "protege" |
+| Verdade Posta × Verdade a Construir | RC-657 | relaciona-se-a | -> | - |
+| Verdade Posta × Verdade a Construir | RC-657 | relaciona-se-a | <- | - |
+| Postulados Quânticos como Manual Operativo | RC-703 | danifica | <- | consolidação: "rompida-por" → "danifica"; direção invertida (forma passiva/inversa) |
+| Postulados Quânticos como Manual Operativo | RC-703 | explica | <- | - |
+| Bhavaṅga / Janela da Percepção | RC-706 | contexto | <- | consolidação: "atravessada-por" → "contexto"; direção invertida (forma passiva/inversa) |
+| Bhavaṅga / Janela da Percepção | RC-706 | contexto | <- | consolidação: "atravessa" → "contexto" |
+| Bhavaṅga / Janela da Percepção | RC-706 | relaciona-se-a | -> | - |
+| Ser Humano Não Local | RC-708 | contexto | <- | consolidação: "atravessa" → "contexto" |
+| Universo de Egrégoras Emocionais | RC-711 | causa | <- | consolidação: "reforça" → "causa" |
+| Universo de Egrégoras Emocionais | RC-711 | relaciona-se-a | -> | - |
+| Universo de Egrégoras Emocionais | RC-711 | relaciona-se-a | <- | - |
+| Dessensibilização da Condição Humana | RC-746 | relaciona-se-a | <- | - |
+| As Cinco Lentes da Realidade | RC-761 | relaciona-se-a | <- | - |
 
 ## Ampliação
 ### P2026-07-25

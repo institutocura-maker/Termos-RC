@@ -29,25 +29,25 @@ O ato vale porque a pessoa reconhece em si uma proposição vivida com integrida
 
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Imperativo Categórico da Moral | RC-328 | relaciona-se-a |
-| Decência cósmica (ética ellâmica) | RC-508 | relaciona-se-a |
-| Decência cósmica (ética ellâmica) | RC-508 | ← relaciona-se-a |
-| Protagonismo consciencial | RC-509 | realiza |
-| Teia quântica (o que sai de um ser volta para ele) | RC-559 | relaciona-se-a |
-| Protocolo da Busca | RC-566 | relaciona-se-a |
-| Revelação de Ifá e Destinação dos Seres | RC-655 | ← relaciona-se-a |
-| Wyrd / Urd (Teia do Destino) | RC-658 | relaciona-se-a |
-| Ciência Pessoal / Doutrina da Própria Personalidade | RC-695 | orienta |
-| Postulados Quânticos como Manual Operativo | RC-703 | usa |
-| Dignidade como Critério de Consciência | RC-722 | ← realizada-por |
-| Dignidade como Critério de Consciência | RC-722 | realiza |
-| Ponto de Luz Humano / Ilha de Negentropia | RC-725 | ← realizada-por |
-| Ponto de Luz Humano / Ilha de Negentropia | RC-725 | realiza |
-| Abraço aos Fantasmas / Integridade sem Combate | RC-735 | ← relaciona-se-a |
-| Dessensibilização da Condição Humana | RC-746 | ← relaciona-se-a |
-| Vergonha de Existir | RC-747 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Imperativo Categórico da Moral | RC-328 | relaciona-se-a | -> | - |
+| Decência cósmica (ética ellâmica) | RC-508 | relaciona-se-a | -> | - |
+| Decência cósmica (ética ellâmica) | RC-508 | relaciona-se-a | <- | - |
+| Protagonismo consciencial | RC-509 | usa | -> | consolidação: "realiza" → "usa" |
+| Teia quântica (o que sai de um ser volta para ele) | RC-559 | relaciona-se-a | -> | - |
+| Protocolo da Busca | RC-566 | relaciona-se-a | -> | - |
+| Revelação de Ifá e Destinação dos Seres | RC-655 | relaciona-se-a | <- | - |
+| Wyrd / Urd (Teia do Destino) | RC-658 | relaciona-se-a | -> | - |
+| Ciência Pessoal / Doutrina da Própria Personalidade | RC-695 | controla | -> | consolidação: "orienta" → "controla" |
+| Postulados Quânticos como Manual Operativo | RC-703 | usa | -> | - |
+| Dignidade como Critério de Consciência | RC-722 | usa | -> | consolidação: "realizada-por" → "usa"; direção invertida (forma passiva/inversa) |
+| Dignidade como Critério de Consciência | RC-722 | usa | -> | consolidação: "realiza" → "usa" |
+| Ponto de Luz Humano / Ilha de Negentropia | RC-725 | usa | -> | consolidação: "realizada-por" → "usa"; direção invertida (forma passiva/inversa) |
+| Ponto de Luz Humano / Ilha de Negentropia | RC-725 | usa | -> | consolidação: "realiza" → "usa" |
+| Abraço aos Fantasmas / Integridade sem Combate | RC-735 | relaciona-se-a | <- | - |
+| Dessensibilização da Condição Humana | RC-746 | relaciona-se-a | <- | - |
+| Vergonha de Existir | RC-747 | associado | <-> | - |
 
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-705.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
 

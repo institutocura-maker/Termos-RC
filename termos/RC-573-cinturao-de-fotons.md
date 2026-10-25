@@ -24,12 +24,12 @@ Campo de fótons atribuído, na palestra, ao sistema de Alcíone e atravessado p
 É relacionado a 2012, à entrada na Era de Aquário e a possíveis efeitos vibratórios e bioquímicos na Terra e nos seres humanos.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Transição Planetária | RC-344 | relaciona-se-a |
-| Maré Cósmica (eventos cósmicos que afetam a Terra) | RC-537 | relaciona-se-a |
-| Ano de 2012 como Divisor de Ciclos | RC-571 | relaciona-se-a |
-| Alcíone (Sistema) | RC-574 | associado-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Transição Planetária | RC-344 | relaciona-se-a | -> | - |
+| Maré Cósmica (eventos cósmicos que afetam a Terra) | RC-537 | relaciona-se-a | -> | - |
+| Ano de 2012 como Divisor de Ciclos | RC-571 | relaciona-se-a | -> | - |
+| Alcíone (Sistema) | RC-574 | associado | <-> | - |
 
 ## Seres Associados
 —

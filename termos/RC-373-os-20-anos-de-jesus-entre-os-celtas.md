@@ -24,16 +24,16 @@ Os **20 anos da juventude de Jesus entre os celtas** — tema do romance espíri
 O B043 (2009, romance espírita psicografado por JVE) narra: o Drama dos Reis Gauleses; a jornada com José de Arimatéia; o encontro com **Mordon** (o druida da montanha); **Brendiver** e **Dolman** (sacerdotisa); Jesus entre os druidas; a influência da Índia (Mordon peregrinara ao Oriente); o retorno ao lar e "os sonhos de um jovem galileu". Complementa o quadro dos "anos perdidos" de Jesus (cf. B043/roteiro: "Narra fatos da desconhecida juventude de Jesus, sua amizade com José de Arimatéia e com seu irmão Thiago").
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Jesus | RC-072 | envolve |
-| Revelação Cósmica (conceito) | RC-094 | associado |
-| Mordon (o Druida da Montanha) | RC-374 | é-um |
-| Druidas Celtas (contexto RC) | RC-375 | contexto |
-| José de Arimatéia (no corpus RC) | RC-376 | acompanha |
-| Brendiver e Dolman (personagens celtas) | RC-377 | associado-a |
-| Thuata de Dannan | RC-398 | associado |
-| Colegiado Druídico | RC-403 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Jesus | RC-072 | envolve | -> | - |
+| Revelação Cósmica (conceito) | RC-094 | associado | <-> | - |
+| Mordon (o Druida da Montanha) | RC-374 | é-um | -> | - |
+| Druidas Celtas (contexto RC) | RC-375 | contexto | -> | - |
+| José de Arimatéia (no corpus RC) | RC-376 | associado | <-> | consolidação: "acompanha" → "associado" |
+| Brendiver e Dolman (personagens celtas) | RC-377 | associado | <-> | - |
+| Thuata de Dannan | RC-398 | associado | <-> | - |
+| Colegiado Druídico | RC-403 | associado | <-> | - |
 
 ## Seres Associados
 Jesus (RC-072); José de Arimatéia (RC-376); Mordon (RC-374); Brendiver e Dolman (RC-377).

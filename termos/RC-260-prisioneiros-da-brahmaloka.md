@@ -24,15 +24,15 @@ Expressão do apêndice homônimo de B016 para designar os **seres da Trimurti �
 O apêndice "Prisioneiros da Brahmaloka" (B016) é uma das fontes mais densas da taxonomia RC: detalha que Savna/Tusavna (Shiva) e Mavatna (Vishnu) — outros seres Adhy da corrente Atman em Perpérion — "mergulharam" na Criação e produziram incontáveis expressões Adhyajna (Shiva: última foi Sai Baba; Vishnu: Sophia como expressão bio-demo e Jesus como forma avatárica). Brahma, prisioneiro, é o único que não consegue. Os irmãos Adhy permaneceram observando "o 'ponto de tamanho menor que uma cabeça de um alfinete'" (a singularidade) que se tornou "fator de estudo" para os seres da Espiritualidade Laboratorial.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Sophia (Cristo Cósmico) | RC-009 | expressão Adhyajna de Vishnu |
-| Adhyagia | RC-012 | condição perdida |
-| Adhydaiva | RC-014 | expressões da Trimurti |
-| Adhyajna | RC-016 | opõe-se-a |
-| Brahmaloka | RC-038 | local |
-| Criador (Brahma/Javé/Demiurgo) | RC-041 | inclui |
-| Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | contexto |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Sophia (Cristo Cósmico) | RC-009 | relaciona-se-a | -> | texto bruto original: expressão Adhyajna de Vishnu |
+| Adhyagia | RC-012 | relaciona-se-a | -> | texto bruto original: condição perdida |
+| Adhydaiva | RC-014 | relaciona-se-a | -> | texto bruto original: expressões da Trimurti |
+| Adhyajna | RC-016 | opõe-se-a | -> | - |
+| Brahmaloka | RC-038 | contexto | -> | consolidação: "local" → "contexto" |
+| Criador (Brahma/Javé/Demiurgo) | RC-041 | inclui | -> | - |
+| Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | contexto | -> | - |
 
 ## Seres Associados
 Brahma/Javé (RC-037/RC-001); Shiva (RC-102); Vishnu (RC-135); Sophia (RC-009); Jesus (RC-072).

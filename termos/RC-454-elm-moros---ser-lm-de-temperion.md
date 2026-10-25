@@ -54,83 +54,83 @@ O eBook *Moros — O Livro* não é fonte canônica. Não incorporar: `Ealm`, Ph
 ---
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Espiritualidade Laboratorial | RC-061 | origina-se-em (eon) |
-| Hiperbórea | RC-068 | ← relaciona-se-a |
-| Jan Val Ellam (Rogério de Almeida Freitas) | RC-071 | relaciona-se-a |
-| Mohen So (Avatar Keshava de Vishnu) | RC-081 | ← vinculado-ao-espírito |
-| Mohen So (Avatar Keshava de Vishnu) | RC-081 | ← vinculado-ao-espírito |
-| Mohen So (Avatar Keshava de Vishnu) | RC-081 | ← distingue-se-de |
-| Perpérion | RC-087 | enviado-a |
-| Quarto Logos (Olm / Codificador de Zian) | RC-092 | é-um (mesmo gênero) |
-| Criação Indevida (Obra indevida) | RC-167 | mergulha-em |
-| Revelação Espiritual (Kardec) | RC-190 | relaciona-se-a |
-| Mohen So = Phanes / Protogonos / Vasuki / Kalki (correspondências) | RC-282 | ← relaciona-se-a |
-| Mohen So = Phanes / Protogonos / Vasuki / Kalki (correspondências) | RC-282 | ← distingue-se-de |
-| Ragnarok em Marte | RC-395 | ← relaciona-se-a |
-| Kvasir e Freya (Vanir/Aesir) | RC-396 | relaciona-se-a |
-| Kvasir e Freya (Vanir/Aesir) | RC-396 | ← vinculado-ao-espírito |
-| Heber (patriarca pós-dilúvio) | RC-436 | relaciona-se-a |
-| Ser LM (gênero de Tempérion) | RC-456 | é-um |
-| Ser LM (gênero de Tempérion) | RC-456 | é-um |
-| Moiras / Nornes / Súdices / Parcas (destino) | RC-467 | cria |
-| Moiras / Nornes / Súdices / Parcas (destino) | RC-467 | ← criado-por |
-| Moiras / Nornes / Súdices / Parcas (destino) | RC-467 | relaciona-se-a |
-| Moiras / Nornes / Súdices / Parcas (destino) | RC-467 | ← relaciona-se-a |
-| Moiras / Nornes / Súdices / Parcas (destino) | RC-467 | relaciona-se-a |
-| Moiras / Nornes / Súdices / Parcas (destino) | RC-467 | ← relaciona-se-a |
-| Tempérion (Archeon de Ereon; setor dos seres LM) | RC-472 | ocorre-em |
-| Tempérion (Archeon de Ereon; setor dos seres LM) | RC-472 | origem-em |
-| Supercomputador Cósmico (Moros — destino) | RC-533 | ← relaciona-se-a |
-| Teia quântica (o que sai de um ser volta para ele) | RC-559 | ← relaciona-se-a |
-| WD (variação de STT = Wyrd/Urd — fundido em RC-658) | RC-560 | ← relaciona-se-a |
-| Vyasa | RC-585 | ← vinculado-ao-espírito |
-| Vyasa | RC-585 | ← relaciona-se-a |
-| Vyasa | RC-585 | relaciona-se-a |
-| Vyasa | RC-585 | ← relaciona-se-a |
-| Fatiamento de Consciência | RC-604 | ← envolve |
-| Cinco Seres LM de Tempérion | RC-607 | ← inclui |
-| Imponderabilidade (campo de estudo dos Seres LM) | RC-608 | observa |
-| Ogdóade de Hermópolis | RC-609 | ← inclui |
-| Flechas / Profecias de Moros | RC-611 | ← proferida-por |
-| Flechas / Profecias de Moros | RC-611 | ← originada-em |
-| Nova Espiritualidade / Novo Paraíso (Paraíso B) | RC-612 | ← relaciona-se-a |
-| Eu Coalescente | RC-620 | associado |
-| Nyx | RC-621 | ← gera |
-| Singularidade de Quatro Cabeças | RC-649 | ← vinculado-ao-espírito |
-| Wyrd / Urd (Teia do Destino) | RC-658 | ← organizada-por |
-| Wyrd / Urd (Teia do Destino) | RC-658 | cria |
-| Wyrd / Urd (Teia do Destino) | RC-658 | ← criado-por |
-| Wyrd / Urd (Teia do Destino) | RC-658 | ← relaciona-se-a |
-| Wyrd / Urd (Teia do Destino) | RC-658 | ← relaciona-se-a |
-| Wyrd / Urd (Teia do Destino) | RC-658 | relaciona-se-a |
-| Wyrd / Urd (Teia do Destino) | RC-658 | ← relaciona-se-a |
-| Quirino Cornélio (Centurião da Crucificação) | RC-659 | ← vinculado-ao-espírito |
-| Orunmilá (Moros de Irém / Orum) | RC-665 | ← variação |
-| Orunmilá (Moros de Irém / Orum) | RC-665 | ← variação |
-| Orunmilá (Moros de Irém / Orum) | RC-665 | ← variação |
-| Orunmilá (Moros de Irém / Orum) | RC-665 | ← variação |
-| Metatron | RC-671 | ← relaciona-se-a |
-| Urdidura de Metatron | RC-674 | ← relaciona-se-a |
-| Arquivos do Destino Universal | RC-714 | ← criado-por |
-| Arquivos do Destino Universal | RC-714 | cria |
-| Informações Vivas | RC-715 | relaciona-se-a |
-| PIA — Peso da Inevitabilidade Ancestral | RC-716 | ← mapeado-por |
-| PIA — Peso da Inevitabilidade Ancestral | RC-716 | mapeia |
-| Cumprimento da Profecia de Moros pela Revelação Cósmica | RC-718 | ← iniciado-por |
-| Cumprimento da Profecia de Moros pela Revelação Cósmica | RC-718 | ← relaciona-se-a |
-| Kami (Projeto Japonês) | RC-740 | ← relaciona-se-a |
-| Projeto Orunmilá–Olodus | RC-741 | associado |
-| As Cinco Lentes da Realidade | RC-761 | associado |
-| Os 256 Caminhos Profetizáveis de Orunmilá | RC-767 | ← relaciona-se-a |
-| Hipóstase dos Arcontes (livro gnóstico; 'realidade dos regentes') | RC-770 | ← relaciona-se-a |
-| Hipóstase dos Arcontes (livro gnóstico; 'realidade dos regentes') | RC-770 | relaciona-se-a |
-| Éon das Três Esferas (superloka/geno; repositório de tesouros genéticos do Projeto TALM) | RC-775 | ← relaciona-se-a |
-| Ananque (estudou as necessidades dos códigos podres, com Moros; base das Nornes) | RC-777 | ← relaciona-se-a |
-| Nyx como Mãe de Origem de Pandora | RC-795 | associado |
-| Midana (o código original primordial semeado no universo biológico) | RC-871 | associado |
-| Revelação Psíquica (Kapila — escola Samkhya) | RC-933 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Espiritualidade Laboratorial | RC-061 | origina | -> | qualificador preservado: eon; consolidação: "origina-se-em" → "origina" |
+| Hiperbórea | RC-068 | relaciona-se-a | <- | - |
+| Jan Val Ellam (Rogério de Almeida Freitas) | RC-071 | relaciona-se-a | -> | - |
+| Mohen So (Avatar Keshava de Vishnu) | RC-081 | associado | <-> | consolidação: "vinculado-ao-espírito" → "associado" |
+| Mohen So (Avatar Keshava de Vishnu) | RC-081 | associado | <-> | consolidação: "vinculado-ao-espírito" → "associado" |
+| Mohen So (Avatar Keshava de Vishnu) | RC-081 | opõe-se-a | <- | consolidação: "distingue-se-de" → "opõe-se-a" |
+| Perpérion | RC-087 | transfere | -> | consolidação: "enviado-a" → "transfere" |
+| Quarto Logos (Olm / Codificador de Zian) | RC-092 | é-um | -> | qualificador preservado: mesmo gênero |
+| Criação Indevida (Obra indevida) | RC-167 | contexto | -> | consolidação: "mergulha-em" → "contexto" |
+| Revelação Espiritual (Kardec) | RC-190 | relaciona-se-a | -> | - |
+| Mohen So = Phanes / Protogonos / Vasuki / Kalki (correspondências) | RC-282 | relaciona-se-a | <- | - |
+| Mohen So = Phanes / Protogonos / Vasuki / Kalki (correspondências) | RC-282 | opõe-se-a | <- | consolidação: "distingue-se-de" → "opõe-se-a" |
+| Ragnarok em Marte | RC-395 | relaciona-se-a | <- | - |
+| Kvasir e Freya (Vanir/Aesir) | RC-396 | relaciona-se-a | -> | - |
+| Kvasir e Freya (Vanir/Aesir) | RC-396 | associado | <-> | consolidação: "vinculado-ao-espírito" → "associado" |
+| Heber (patriarca pós-dilúvio) | RC-436 | relaciona-se-a | -> | - |
+| Ser LM (gênero de Tempérion) | RC-456 | é-um | -> | - |
+| Ser LM (gênero de Tempérion) | RC-456 | é-um | -> | - |
+| Moiras / Nornes / Súdices / Parcas (destino) | RC-467 | origina | -> | consolidação: "cria" → "origina" |
+| Moiras / Nornes / Súdices / Parcas (destino) | RC-467 | origina | -> | consolidação: "criado-por" → "origina"; direção invertida (forma passiva/inversa) |
+| Moiras / Nornes / Súdices / Parcas (destino) | RC-467 | relaciona-se-a | -> | - |
+| Moiras / Nornes / Súdices / Parcas (destino) | RC-467 | relaciona-se-a | <- | - |
+| Moiras / Nornes / Súdices / Parcas (destino) | RC-467 | relaciona-se-a | -> | - |
+| Moiras / Nornes / Súdices / Parcas (destino) | RC-467 | relaciona-se-a | <- | - |
+| Tempérion (Archeon de Ereon; setor dos seres LM) | RC-472 | contexto | -> | consolidação: "ocorre-em" → "contexto" |
+| Tempérion (Archeon de Ereon; setor dos seres LM) | RC-472 | origina | -> | consolidação: "origem-em" → "origina" |
+| Supercomputador Cósmico (Moros — destino) | RC-533 | relaciona-se-a | <- | - |
+| Teia quântica (o que sai de um ser volta para ele) | RC-559 | relaciona-se-a | <- | - |
+| WD (variação de STT = Wyrd/Urd — fundido em RC-658) | RC-560 | relaciona-se-a | <- | - |
+| Vyasa | RC-585 | associado | <-> | consolidação: "vinculado-ao-espírito" → "associado" |
+| Vyasa | RC-585 | relaciona-se-a | <- | - |
+| Vyasa | RC-585 | relaciona-se-a | -> | - |
+| Vyasa | RC-585 | relaciona-se-a | <- | - |
+| Fatiamento de Consciência | RC-604 | envolve | <- | - |
+| Cinco Seres LM de Tempérion | RC-607 | inclui | <- | - |
+| Imponderabilidade (campo de estudo dos Seres LM) | RC-608 | observa | -> | - |
+| Ogdóade de Hermópolis | RC-609 | inclui | <- | - |
+| Flechas / Profecias de Moros | RC-611 | comunica | -> | consolidação: "proferida-por" → "comunica"; direção invertida (forma passiva/inversa) |
+| Flechas / Profecias de Moros | RC-611 | origina | -> | consolidação: "originada-em" → "origina"; direção invertida (forma passiva/inversa) |
+| Nova Espiritualidade / Novo Paraíso (Paraíso B) | RC-612 | relaciona-se-a | <- | - |
+| Eu Coalescente | RC-620 | associado | <-> | - |
+| Nyx | RC-621 | origina | <- | consolidação: "gera" → "origina" |
+| Singularidade de Quatro Cabeças | RC-649 | associado | <-> | consolidação: "vinculado-ao-espírito" → "associado" |
+| Wyrd / Urd (Teia do Destino) | RC-658 | inclui | -> | consolidação: "organizada-por" → "inclui"; direção invertida (forma passiva/inversa) |
+| Wyrd / Urd (Teia do Destino) | RC-658 | origina | -> | consolidação: "cria" → "origina" |
+| Wyrd / Urd (Teia do Destino) | RC-658 | origina | -> | consolidação: "criado-por" → "origina"; direção invertida (forma passiva/inversa) |
+| Wyrd / Urd (Teia do Destino) | RC-658 | relaciona-se-a | <- | - |
+| Wyrd / Urd (Teia do Destino) | RC-658 | relaciona-se-a | <- | - |
+| Wyrd / Urd (Teia do Destino) | RC-658 | relaciona-se-a | -> | - |
+| Wyrd / Urd (Teia do Destino) | RC-658 | relaciona-se-a | <- | - |
+| Quirino Cornélio (Centurião da Crucificação) | RC-659 | associado | <-> | consolidação: "vinculado-ao-espírito" → "associado" |
+| Orunmilá (Moros de Irém / Orum) | RC-665 | variação | <- | - |
+| Orunmilá (Moros de Irém / Orum) | RC-665 | variação | <- | - |
+| Orunmilá (Moros de Irém / Orum) | RC-665 | variação | <- | - |
+| Orunmilá (Moros de Irém / Orum) | RC-665 | variação | <- | - |
+| Metatron | RC-671 | relaciona-se-a | <- | - |
+| Urdidura de Metatron | RC-674 | relaciona-se-a | <- | - |
+| Arquivos do Destino Universal | RC-714 | origina | -> | consolidação: "criado-por" → "origina"; direção invertida (forma passiva/inversa) |
+| Arquivos do Destino Universal | RC-714 | origina | -> | consolidação: "cria" → "origina" |
+| Informações Vivas | RC-715 | relaciona-se-a | -> | - |
+| PIA — Peso da Inevitabilidade Ancestral | RC-716 | observa | -> | consolidação: "mapeado-por" → "observa"; direção invertida (forma passiva/inversa) |
+| PIA — Peso da Inevitabilidade Ancestral | RC-716 | observa | -> | consolidação: "mapeia" → "observa" |
+| Cumprimento da Profecia de Moros pela Revelação Cósmica | RC-718 | precede | -> | consolidação: "iniciado-por" → "precede"; direção invertida (forma passiva/inversa) |
+| Cumprimento da Profecia de Moros pela Revelação Cósmica | RC-718 | relaciona-se-a | <- | - |
+| Kami (Projeto Japonês) | RC-740 | relaciona-se-a | <- | - |
+| Projeto Orunmilá–Olodus | RC-741 | associado | <-> | - |
+| As Cinco Lentes da Realidade | RC-761 | associado | <-> | - |
+| Os 256 Caminhos Profetizáveis de Orunmilá | RC-767 | relaciona-se-a | <- | - |
+| Hipóstase dos Arcontes (livro gnóstico; 'realidade dos regentes') | RC-770 | relaciona-se-a | <- | - |
+| Hipóstase dos Arcontes (livro gnóstico; 'realidade dos regentes') | RC-770 | relaciona-se-a | -> | - |
+| Éon das Três Esferas (superloka/geno; repositório de tesouros genéticos do Projeto TALM) | RC-775 | relaciona-se-a | <- | - |
+| Ananque (estudou as necessidades dos códigos podres, com Moros; base das Nornes) | RC-777 | relaciona-se-a | <- | - |
+| Nyx como Mãe de Origem de Pandora | RC-795 | associado | <-> | - |
+| Midana (o código original primordial semeado no universo biológico) | RC-871 | associado | <-> | - |
+| Revelação Psíquica (Kapila — escola Samkhya) | RC-933 | associado | <-> | - |
 
 ## Seres Associados
 Val El / Jan Val Ellam (RC-071); Kardec; Olm (RC-092, colega eon); Prabajna/Javé (RC-001), Mavatina/Vishnu, Savna/Shiva (eons companheiros).

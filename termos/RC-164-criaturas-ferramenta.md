@@ -54,21 +54,21 @@ verbete fica preservado abaixo.
   bilhões de anos consegue fazer isso no paraíso» — o diferencial humano como
   ferramenta de ressignificação.
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | relaciona-se-a |
-| Biodemos | RC-036 | associado |
-| Seres Terrenos (Homo Sapiens) | RC-099 | associado |
-| Agentes da Vida Universal | RC-148 | ← relaciona-se-a |
-| Entropia e Negentropia | RC-160 | associado |
-| Mente Universal (Emergente) | RC-163 | associado |
-| A Vida do CFD de Javé no Ser Humano | RC-382 | associado |
-| Criaturas-ferramenta | RC-449 | ← variação |
-| Coconstrutores da Obra (tikun) | RC-545 | associado |
-| Moisés e o Êxodo (leitura RC) | RC-750 | ← é-um |
-| Bagagem Espiritual Intransferível | RC-751 | associado |
-| Agenda Espiritual | RC-752 | ← relaciona-se-a |
-| Ao Vencedor as Batatas (paradigma do domínio) | RC-764 | ← relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Javé | RC-001 | relaciona-se-a | -> | - |
+| Biodemos | RC-036 | associado | <-> | - |
+| Seres Terrenos (Homo Sapiens) | RC-099 | associado | <-> | - |
+| Agentes da Vida Universal | RC-148 | relaciona-se-a | <- | - |
+| Entropia e Negentropia | RC-160 | associado | <-> | - |
+| Mente Universal (Emergente) | RC-163 | associado | <-> | - |
+| A Vida do CFD de Javé no Ser Humano | RC-382 | associado | <-> | - |
+| Criaturas-ferramenta | RC-449 | variação | <- | - |
+| Coconstrutores da Obra (tikun) | RC-545 | associado | <-> | - |
+| Moisés e o Êxodo (leitura RC) | RC-750 | é-um | <- | - |
+| Bagagem Espiritual Intransferível | RC-751 | associado | <-> | - |
+| Agenda Espiritual | RC-752 | relaciona-se-a | <- | - |
+| Ao Vencedor as Batatas (paradigma do domínio) | RC-764 | relaciona-se-a | <- | - |
 
 ## Fontes
 

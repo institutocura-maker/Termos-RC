@@ -29,13 +29,13 @@ Com isso:
 **Origem do conteúdo da ampliação:** palestra `P2022-09-18 — Os Níveis de Estresse Extremo da Criação` (18/09/2022). Transcrição automatizada, **não conferida com o áudio**; cada aspa foi recortada do `original.txt` pelo índice de âncoras do motor e conferida byte a byte pelo portão B. Nada foi digitado de memória.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | **sem aresta** em `RELACOES`; arquivo existe |
-| Colmeia Universal | RC-174 | **sem aresta** em `RELACOES`; arquivo existe |
-| A Rebelião dos Elétrons | RC-378 | **sem aresta** em `RELACOES`; arquivo existe |
-| Tikun Cósmico (restabelecimento da Criação) | RC-514 | **sem aresta** em `RELACOES`; arquivo existe |
-| Pandemia de Buraco Branco que Traga (Javé Tragado pela Criação) | RC-809 | **sem aresta** em `RELACOES`; arquivo existe |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Javé | RC-001 | - | - | sem aresta em RELACOES; arquivo existe |
+| Colmeia Universal | RC-174 | - | - | sem aresta em RELACOES; arquivo existe |
+| A Rebelião dos Elétrons | RC-378 | - | - | sem aresta em RELACOES; arquivo existe |
+| Tikun Cósmico (restabelecimento da Criação) | RC-514 | - | - | sem aresta em RELACOES; arquivo existe |
+| Pandemia de Buraco Branco que Traga (Javé Tragado pela Criação) | RC-809 | - | - | sem aresta em RELACOES; arquivo existe |
 
 
 ## Fontes

@@ -25,15 +25,15 @@ O **dharma** como fator revelado em *O Dharma e as Castas Hindus* (B023, cap. 2)
 O Fator Dharma é a chave interpretativa do B023: o sistema de dharma/castas foi criado para **"demônios feito gente"** (a classe demo em transição), não para humanos. Na cultura demodhármica, "a simples questão da aplicação ou não dos critérios do dharma como dever moral definiria tudo o mais". O karma (em sânscrito) advém "do não cumprimento do dharma".
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Lila | RC-075 | variação |
-| Revelação Cósmica (conceito) | RC-094 | associado |
-| Trimurti | RC-104 | agentes |
-| Senhores do Dharma (= Senhores da Lila / Trimurti) | RC-320 | é-um |
-| Castas Trimurtianas | RC-321 | relaciona-se-a |
-| Dharma e Castas (origem demo) | RC-322 | é-um |
-| Imperativo Categórico da Moral | RC-328 | desdobramento |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Lila | RC-075 | variação | -> | - |
+| Revelação Cósmica (conceito) | RC-094 | associado | <-> | - |
+| Trimurti | RC-104 | envolve | -> | consolidação: "agentes" → "envolve" |
+| Senhores do Dharma (= Senhores da Lila / Trimurti) | RC-320 | é-um | -> | - |
+| Castas Trimurtianas | RC-321 | relaciona-se-a | -> | - |
+| Dharma e Castas (origem demo) | RC-322 | é-um | -> | - |
+| Imperativo Categórico da Moral | RC-328 | sucede | -> | consolidação: "desdobramento" → "sucede" |
 
 ## Seres Associados
 Trimurti (RC-104); Senhores do Dharma (RC-320); demos (RC-049); Seres Terrenos (RC-099).

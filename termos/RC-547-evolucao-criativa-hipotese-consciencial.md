@@ -27,10 +27,10 @@ Na B019 (*Nem Deus, nem Javé, nem Darwin*), a **quarta** hipótese que o autor 
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Evolução Possível (terceira via: nem Darwin, nem deus) | RC-541 | associado |
-| Primado da Consciência Criativa (Goswami) | RC-546 | relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Evolução Possível (terceira via: nem Darwin, nem deus) | RC-541 | associado | <-> | - |
+| Primado da Consciência Criativa (Goswami) | RC-546 | relaciona-se-a | -> | - |
 
 ## Fontes
 

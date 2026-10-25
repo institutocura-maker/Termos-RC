@@ -24,18 +24,18 @@ Tese (leitura do autor, palestra **P2023-11-11 — De Pandora a Eva e a Rebeliã
 Aparece em **P2023-11-11**, U0004, em conexão com a **Sequência Formativa** (RC-785) — depois que a racionalidade foi produzida, foi destruída. Contexto histórico: o **século IV** (com o fim da educação greco-romana via trívio/quadrívio de Marciano Capela) e o **século V** (com o assassinato de Boécio) são os pontos de virada.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | paralelo-com (Fausto como alegoria) |
-| Seres Terrenos (Homo Sapiens) | RC-099 | aplica-se-a |
-| Ulsh | RC-105 | trucidou-via |
-| Val Antien | RC-114 | associado |
-| Razão Filosófica dos Terráqueos | RC-231 | paralelo-com |
-| A Falsa Trindade (Concílio de Niceia) | RC-273 | contribuiu-para |
-| Lavagem Cerebral (condicionamento) | RC-335 | é-quebrada-por |
-| Sequência Formativa da Racionalidade Humana | RC-785 | desfecho-de |
-| Conceito Abaiano (Fazer Sem Esperar Receber) | RC-793 | associado |
-| Judaísmo como Destruidor do Mito de Pandora/Lilith | RC-796 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Javé | RC-001 | associado | <-> | qualificador preservado: Fausto como alegoria; consolidação: "paralelo-com" → "associado" |
+| Seres Terrenos (Homo Sapiens) | RC-099 | usa | -> | consolidação: "aplica-se-a" → "usa" |
+| Ulsh | RC-105 | danifica | -> | consolidação: "trucidou-via" → "danifica" |
+| Val Antien | RC-114 | associado | <-> | - |
+| Razão Filosófica dos Terráqueos | RC-231 | associado | <-> | consolidação: "paralelo-com" → "associado" |
+| A Falsa Trindade (Concílio de Niceia) | RC-273 | causa | -> | consolidação: "contribuiu-para" → "causa" |
+| Lavagem Cerebral (condicionamento) | RC-335 | causa | <- | consolidação: "é-quebrada-por" → "causa"; direção invertida (forma passiva/inversa) |
+| Sequência Formativa da Racionalidade Humana | RC-785 | sucede | -> | consolidação: "desfecho-de" → "sucede" |
+| Conceito Abaiano (Fazer Sem Esperar Receber) | RC-793 | associado | <-> | - |
+| Judaísmo como Destruidor do Mito de Pandora/Lilith | RC-796 | associado | <-> | - |
 
 ## Seres Associados
 - **Marciano Capela** (séc. V) — quem criou o sistema trívio/quadrívio

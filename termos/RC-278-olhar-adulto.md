@@ -27,13 +27,13 @@ Na B014 (*Sophia e o Logos Criadores*), a expressão que dá título ao capítul
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Revelação Cósmica (conceito) | RC-094 | associado |
-| Seres Terrenos (Homo Sapiens) | RC-099 | associado |
-| Razão Filosófica dos Terráqueos | RC-231 | associado |
-| Liberdade Mental (premissa do Quarto Logos) | RC-253 | associado |
-| Protocolo da Busca | RC-566 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Revelação Cósmica (conceito) | RC-094 | associado | <-> | - |
+| Seres Terrenos (Homo Sapiens) | RC-099 | associado | <-> | - |
+| Razão Filosófica dos Terráqueos | RC-231 | associado | <-> | - |
+| Liberdade Mental (premissa do Quarto Logos) | RC-253 | associado | <-> | - |
+| Protocolo da Busca | RC-566 | associado | <-> | - |
 
 ## Fontes
 

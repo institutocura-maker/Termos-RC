@@ -17,11 +17,11 @@ atualizado = "2026-09-12"
 Espírito primordial companheiro de En Ma (Emá, RC-476). Na leitura da RC, os 70 membros do conselho dos arcontes são consciências fatiadas de Emá **e de Ensá**; os seres de Ensá resolveram sair do conselho — Saibaba foi o penúltimo a sair ("o último não, o penúltimo"), recusando assento.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Arcontes (= Sophias e Indras; Conselho dos 70) | RC-474 | relaciona-se-a |
-| En Ma (Emá / Emar — espírito-âncora) | RC-476 | ← relaciona-se-a |
-| Dinastia das Sophias | RC-494 | relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Arcontes (= Sophias e Indras; Conselho dos 70) | RC-474 | relaciona-se-a | -> | - |
+| En Ma (Emá / Emar — espírito-âncora) | RC-476 | relaciona-se-a | <- | - |
+| Dinastia das Sophias | RC-494 | relaciona-se-a | -> | - |
 
 ## Fontes
 

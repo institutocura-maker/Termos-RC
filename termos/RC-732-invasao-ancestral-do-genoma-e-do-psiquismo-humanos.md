@@ -25,20 +25,20 @@ Na cosmologia de Jan Val Ellam, hipótese narrativa segundo a qual códigos, “
 - resposta ética de reconhecimento sem combate.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Mente Coletiva / Redes Psíquicas Coletivas | RC-188 | associado |
-| DNA como Projeção Holográfica do Psiquismo do Criador | RC-217 | atua-sobre |
-| Lavagem Cerebral (condicionamento) | RC-335 | relaciona-se-a |
-| Genoma Derivado (interação genoma × trajetória) | RC-518 | relaciona-se-a |
-| Ex-DNA-lixo (DNA não codificante reinterpretado) | RC-542 | ← relaciona-se-a |
-| Espelho da Herança Espiritual no Epigenoma | RC-543 | relaciona-se-a |
-| Transferência da Memória dos Antielétrons | RC-637 | associado |
-| Genes Críticos / Genes Dorminhocos | RC-710 | associado |
-| Fantasmas do Passado Mitológico | RC-728 | ← estrutura-se-por |
-| Jabutis Genéticos | RC-729 | ← contextualiza |
-| Jabutis Genéticos | RC-729 | manifesta-se-no-discurso-como |
-| Dominação Psíquica pela Devoção | RC-733 | favorece |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Mente Coletiva / Redes Psíquicas Coletivas | RC-188 | associado | <-> | - |
+| DNA como Projeção Holográfica do Psiquismo do Criador | RC-217 | contexto | -> | consolidação: "atua-sobre" → "contexto" |
+| Lavagem Cerebral (condicionamento) | RC-335 | relaciona-se-a | -> | - |
+| Genoma Derivado (interação genoma × trajetória) | RC-518 | relaciona-se-a | -> | - |
+| Ex-DNA-lixo (DNA não codificante reinterpretado) | RC-542 | relaciona-se-a | <- | - |
+| Espelho da Herança Espiritual no Epigenoma | RC-543 | relaciona-se-a | -> | - |
+| Transferência da Memória dos Antielétrons | RC-637 | associado | <-> | - |
+| Genes Críticos / Genes Dorminhocos | RC-710 | associado | <-> | - |
+| Fantasmas do Passado Mitológico | RC-728 | inclui | <- | consolidação: "estrutura-se-por" → "inclui" |
+| Jabutis Genéticos | RC-729 | contexto | <- | consolidação: "contextualiza" → "contexto" |
+| Jabutis Genéticos | RC-729 | representa | -> | consolidação: "manifesta-se-no-discurso-como" → "representa" |
+| Dominação Psíquica pela Devoção | RC-733 | causa | -> | consolidação: "favorece" → "causa" |
 
 ## Fontes
 

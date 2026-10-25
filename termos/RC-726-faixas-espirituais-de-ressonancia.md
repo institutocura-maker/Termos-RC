@@ -17,18 +17,18 @@ Ambientes espirituais que, segundo a palestra, seriam sustentados pela ressonân
 
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Orbe | RC-084 | é-um |
-| Holodomínio (esfera de influência extrafísica) | RC-507 | relaciona-se-a |
-| Espiritualidade Errática (4ª faixa manifestada) | RC-513 | relaciona-se-a |
-| Ressonância límbica (emoções como tecnologia cósmica) | RC-529 | relaciona-se-a |
-| Gestão da Sensação Pessoal | RC-633 | destinação-gerida-por |
-| Gestão da Sensação Pessoal | RC-633 | ← orienta-destinação-em |
-| Gestão da Sensação Pessoal | RC-633 | destinação-gerida-por |
-| Corpo Sutil Reencarnante | RC-704 | relaciona-se-a |
-| Corpo Sutil Reencarnante | RC-704 | ← relaciona-se-a |
-| Colegiados Espirituais Humanizados | RC-745 | ← organiza-se-em |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Orbe | RC-084 | é-um | -> | - |
+| Holodomínio (esfera de influência extrafísica) | RC-507 | relaciona-se-a | -> | - |
+| Espiritualidade Errática (4ª faixa manifestada) | RC-513 | relaciona-se-a | -> | - |
+| Ressonância límbica (emoções como tecnologia cósmica) | RC-529 | relaciona-se-a | -> | - |
+| Gestão da Sensação Pessoal | RC-633 | transfere | -> | consolidação: "destinação-gerida-por" → "transfere" |
+| Gestão da Sensação Pessoal | RC-633 | transfere | <- | consolidação: "orienta-destinação-em" → "transfere" |
+| Gestão da Sensação Pessoal | RC-633 | transfere | -> | consolidação: "destinação-gerida-por" → "transfere" |
+| Corpo Sutil Reencarnante | RC-704 | relaciona-se-a | -> | - |
+| Corpo Sutil Reencarnante | RC-704 | relaciona-se-a | <- | - |
+| Colegiados Espirituais Humanizados | RC-745 | inclui | <- | consolidação: "organiza-se-em" → "inclui" |
 
 
 - Orbe — RC-084;

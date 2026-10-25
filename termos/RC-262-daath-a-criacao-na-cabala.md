@@ -17,14 +17,14 @@ atualizado = "2026-08-28"
 Daath (Da'at) na Cabala: a sefirá oculta do conhecimento — na leitura da palestra, um conceito à parte da Otz Chim: Da'at significa incongruência — Da significa um abismo de luz (a luz que criou o que não devia, caiu onde não devia e ficou refém do próprio abismo).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Tzimtzum | RC-008 | ← relaciona-se-a |
-| Tzimtzum | RC-008 | relaciona-se-a |
-| Criação Indevida (Obra indevida) | RC-167 | associado |
-| Kether (Javé na Cabala) | RC-261 | associado |
-| Sefirot / Árvore da Vida | RC-263 | relaciona-se-a |
-| Isaac Luria e o conceito do Tzimtzum | RC-267 | relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Tzimtzum | RC-008 | relaciona-se-a | <- | - |
+| Tzimtzum | RC-008 | relaciona-se-a | -> | - |
+| Criação Indevida (Obra indevida) | RC-167 | associado | <-> | - |
+| Kether (Javé na Cabala) | RC-261 | associado | <-> | - |
+| Sefirot / Árvore da Vida | RC-263 | relaciona-se-a | -> | - |
+| Isaac Luria e o conceito do Tzimtzum | RC-267 | relaciona-se-a | -> | - |
 
 ## Fontes
 

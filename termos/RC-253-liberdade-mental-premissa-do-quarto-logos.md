@@ -24,39 +24,39 @@ A **premissa fundamental do Quarto Logos** — em ruptura com a premissa dos tr�
 A 38ª Constatação de B016 contrasta as duas premissas: os três primeiros Logos "trabalharam a partir da premissa básica e comum da dominação"; o Quarto Logos estabelece outra: "fora da 'liberdade mental' não parece existir 'salvação', assim dito no que se refere ao aspecto caótico e aprisionador desta Obra indevida". O conceito conecta-se à Genética da Confiança (RC-243), ao deslacre (RC-184) e à Razão Filosófica dos Terráqueos (RC-231): a liberdade mental é o que os humanos precisam exercer — "a crença em que 'Deus cuida de nós' solapa qualquer possibilidade de crivo lógico da parte da razão humana".
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Quarto Logos (Olm / Codificador de Zian) | RC-092 | associado |
-| Criação Indevida (Obra indevida) | RC-167 | associado |
-| Olm (Codificador de Zion/Zian) | RC-252 | associado |
-| Dominação (premissa dos Três Primeiros Logos) | RC-254 | rompe-com |
-| A Mensagem do Codificador de Zion | RC-255 | associado |
-| Escola dos Agentes Esclarecidos da Busca da Verdade | RC-256 | associado |
-| Espiritismo como Expressão do Quarto Logos | RC-257 | associado |
-| Apolônio de Tiana (encarnação do Quarto Logos) | RC-259 | associado |
-| Sacralização do Absurdo | RC-276 | ← opõe-se-a |
-| Olhar Adulto | RC-278 | associado |
-| Imperativo Categórico da Moral | RC-328 | associado |
-| Democracia do Amor da Deidade | RC-333 | associado |
-| Lavagem Cerebral (condicionamento) | RC-335 | associado |
-| Apego aos Conceitos Terrenos | RC-362 | ← opõe-se-a |
-| Ótica e Ética Cósmicas | RC-363 | associado |
-| Nietzsche como 'Amigo da Intenção de Jesus' | RC-369 | associado |
-| A Fé de Jesus e a Razão de Nietzsche | RC-371 | ← opõe-se-a |
-| O Ser Humano Emancipado | RC-372 | ← é-um |
-| Javé alimenta-se do senso crítico humano | RC-429 | associado |
-| Decência cósmica (ética ellâmica) | RC-508 | ← relaciona-se-a |
-| Protagonismo consciencial | RC-509 | ← relaciona-se-a |
-| Protocolo da Busca | RC-566 | ← relaciona-se-a |
-| Protocolos / Algoritmos da Perfeição | RC-606 | ← opõe-se-a |
-| Moksha | RC-618 | ← relaciona-se-a |
-| Genoma da Liberdade | RC-619 | ← relaciona-se-a |
-| Eu Coalescente | RC-620 | associado |
-| Verdade Posta × Verdade a Construir | RC-657 | associado |
-| Ciência Pessoal / Doutrina da Própria Personalidade | RC-695 | ← relaciona-se-a |
-| Camuflagem da Realidade | RC-702 | ← relaciona-se-a |
-| Postulados Quânticos como Manual Operativo | RC-703 | associado |
-| Abismo da Consciência Cósmica | RC-721 | ← relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Quarto Logos (Olm / Codificador de Zian) | RC-092 | associado | <-> | - |
+| Criação Indevida (Obra indevida) | RC-167 | associado | <-> | - |
+| Olm (Codificador de Zion/Zian) | RC-252 | associado | <-> | - |
+| Dominação (premissa dos Três Primeiros Logos) | RC-254 | danifica | -> | consolidação: "rompe-com" → "danifica" |
+| A Mensagem do Codificador de Zion | RC-255 | associado | <-> | - |
+| Escola dos Agentes Esclarecidos da Busca da Verdade | RC-256 | associado | <-> | - |
+| Espiritismo como Expressão do Quarto Logos | RC-257 | associado | <-> | - |
+| Apolônio de Tiana (encarnação do Quarto Logos) | RC-259 | associado | <-> | - |
+| Sacralização do Absurdo | RC-276 | opõe-se-a | <- | - |
+| Olhar Adulto | RC-278 | associado | <-> | - |
+| Imperativo Categórico da Moral | RC-328 | associado | <-> | - |
+| Democracia do Amor da Deidade | RC-333 | associado | <-> | - |
+| Lavagem Cerebral (condicionamento) | RC-335 | associado | <-> | - |
+| Apego aos Conceitos Terrenos | RC-362 | opõe-se-a | <- | - |
+| Ótica e Ética Cósmicas | RC-363 | associado | <-> | - |
+| Nietzsche como 'Amigo da Intenção de Jesus' | RC-369 | associado | <-> | - |
+| A Fé de Jesus e a Razão de Nietzsche | RC-371 | opõe-se-a | <- | - |
+| O Ser Humano Emancipado | RC-372 | é-um | <- | - |
+| Javé alimenta-se do senso crítico humano | RC-429 | associado | <-> | - |
+| Decência cósmica (ética ellâmica) | RC-508 | relaciona-se-a | <- | - |
+| Protagonismo consciencial | RC-509 | relaciona-se-a | <- | - |
+| Protocolo da Busca | RC-566 | relaciona-se-a | <- | - |
+| Protocolos / Algoritmos da Perfeição | RC-606 | opõe-se-a | <- | - |
+| Moksha | RC-618 | relaciona-se-a | <- | - |
+| Genoma da Liberdade | RC-619 | relaciona-se-a | <- | - |
+| Eu Coalescente | RC-620 | associado | <-> | - |
+| Verdade Posta × Verdade a Construir | RC-657 | associado | <-> | - |
+| Ciência Pessoal / Doutrina da Própria Personalidade | RC-695 | relaciona-se-a | <- | - |
+| Camuflagem da Realidade | RC-702 | relaciona-se-a | <- | - |
+| Postulados Quânticos como Manual Operativo | RC-703 | associado | <-> | - |
+| Abismo da Consciência Cósmica | RC-721 | relaciona-se-a | <- | - |
 
 ## Citações-chave
 > "O que se encontra geneticamente estabelecido como sendo os “elementos da lógica” de uma espécie irracional, somente a muito custo pode ser redimensionado . Contudo, no que se refere à programação de uma espécie que nasceu livre, ou livre se viu a partir de um determinado ponto da sua história evolutiva, um simples “vírus” , cujo objetivo seja “aniquilar com a programação anterior ou a original”, ainda que provoque efeitos colaterais, resolve a questão e pode promover a possibilidade de um “padrão de liberdade mental mais efetivo”. O caso de Yel Luzbel (Lúcifer) é um exemplo emblemático desse tipo de evento, só que de uma das espécies do gênero biodemo, conforme o contexto apresentado na trilogia “Terra Atlantis” 1 . Desde então, um encadeamento de mutações advindo desse padrão genético, associado ao conjunto das que estavam acontecendo “naturalmente” na Terra, levaram à “versão mulher” de Pandora, e depois, à da “Eva bíblica”, manifestações estas que influenciaram toda a humanidade posterior. 18ª Constatação: A humanidade nasceu programada, libertou-se, foi novamente condicionada, reprogramada pelo temor religioso, e assim permaneceu e permanece até os tempos atuais, submetida ao “vexame do primarismo religioso”, malversado tanto em teoria como em prática." — B014, p. 119

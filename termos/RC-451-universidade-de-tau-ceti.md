@@ -24,11 +24,11 @@ atualizado = "2026-08-25"
 Caps. 10–12 do B058: a recepção cerimoniosa ("Não é nosso costume ouvir indivíduos que não fazem parte do sistema académico, entretanto..."); a "sabatina"; o veredito do Grão-mestre: "Uma vez que **não conseguimos refutar as argumentações** que nos foram apresentadas, tentámos achar incoerências nas premissas... mas não alcançámos esse intento" (p. 54); "jamais tivemos contato direto com o Criador deste universo! Sempre foi Sophia ou alguém da sua Hierarquia que nos manteve informados" (p. 55); o ofício a Sophia (p. 55). **Nota 2 da p. 37 (ed. 2022): "Não confundir a 'Universidade' de Tau Ceti com a escola administrada pelo Codificador de Zion, citada no primeiro livro desta coleção"** — distinção canônica com RC-146.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Tau Ceti (Sistema) | RC-103 | associado-a |
-| Revolta Capelina | RC-450 | relaciona-se-a (o veredito valida o movimento) |
-| Grão-mestre (Sábios de Tau Ceti) | RC-452 | ← associado-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Tau Ceti (Sistema) | RC-103 | associado | <-> | - |
+| Revolta Capelina | RC-450 | relaciona-se-a | -> | qualificador preservado: o veredito valida o movimento |
+| Grão-mestre (Sábios de Tau Ceti) | RC-452 | associado | <-> | - |
 
 ## Seres Associados
 O Grão-mestre (RC-452) e os Mestres/Sábios; Yel Luzbel (RC-078, o avaliado); Len Mion (RC-074); o "Primeiro em Comando" da família Mion.

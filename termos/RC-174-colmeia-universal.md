@@ -24,22 +24,22 @@ A "Colmeia Universal" é a **forma-modelo** de como **Javé — o criador univer
 Termo-título da obra *A Divina Colmeia: A Trimurti Desencantada* (B044, 2019), que é "a descrição da 'forma-modelo' jamais compreendida de como Javé se relaciona com suas criaturas". A metáfora da colmeia percorre toda a obra: Javé = abelha-rainha; anjos-clones, demos, biodemos e seres biológicos = operárias; os dois universos = favos. O livro mostra a "aposentadoria" de Javé da função de abelha-rainha e o cenário final em que as "abelhas-rainhas aprenderão também a servir a propósitos nobres".
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | criador |
-| Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | parte-de (favo improvisado) |
-| Universo Material (Bhuloka) | RC-107 | parte-de (favo planejado) |
-| Abelha-Rainha (Javé) | RC-175 | integrante (topo) |
-| Modelo Colmeia (Sistema/Controle Colmeia) | RC-176 | é-um (o modelo de relação) |
-| Colmeia do Éden | RC-177 | associado |
-| Dois Grandes Favos | RC-178 | ← parte-de |
-| Plano Colmeia (para o Universo Biológico) | RC-179 | desdobramento biológico |
-| Fator Colmeia | RC-180 | relaciona-se-a |
-| Pluribus Unum | RC-181 | associado |
-| Unus Pluribum | RC-182 | associado |
-| Horda Colmeia | RC-185 | associado |
-| Rebanho humano | RC-193 | associado |
-| Ocaso do Criador (a segunda derrocada do criador reconstruído) | RC-863 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Javé | RC-001 | origina | -> | consolidação: "criador" → "origina" |
+| Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | parte-de | -> | qualificador preservado: favo improvisado |
+| Universo Material (Bhuloka) | RC-107 | parte-de | -> | qualificador preservado: favo planejado |
+| Abelha-Rainha (Javé) | RC-175 | envolve | -> | qualificador preservado: topo; consolidação: "integrante" → "envolve" |
+| Modelo Colmeia (Sistema/Controle Colmeia) | RC-176 | é-um | -> | qualificador preservado: o modelo de relação |
+| Colmeia do Éden | RC-177 | associado | <-> | - |
+| Dois Grandes Favos | RC-178 | parte-de | <- | - |
+| Plano Colmeia (para o Universo Biológico) | RC-179 | relaciona-se-a | -> | texto bruto original: desdobramento biológico |
+| Fator Colmeia | RC-180 | relaciona-se-a | -> | - |
+| Pluribus Unum | RC-181 | associado | <-> | - |
+| Unus Pluribum | RC-182 | associado | <-> | - |
+| Horda Colmeia | RC-185 | associado | <-> | - |
+| Rebanho humano | RC-193 | associado | <-> | - |
+| Ocaso do Criador (a segunda derrocada do criador reconstruído) | RC-863 | associado | <-> | - |
 
 ## Seres Associados
 Javé/Brahma (RC-001/RC-037); anjos-clones (RC-019); demos (RC-049); biodemos (RC-036); seres biológicos (RC-099).

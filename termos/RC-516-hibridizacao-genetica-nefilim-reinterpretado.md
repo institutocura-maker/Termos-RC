@@ -17,12 +17,12 @@ atualizado = "2026-08-29"
 Na RC, a **mistura genética entre anunnaki (RC-024) e humanos** — reinterpretação dos Nefilins (RC-488) como produto de hibridização, não como "anjos caídos" da teologia clássica.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Anunnaki | RC-024 | relaciona-se-a |
-| Entroncamentos Genéticos Intersiderais | RC-323 | relaciona-se-a |
-| Nefilins (= Anunnaki) | RC-488 | relaciona-se-a |
-| Igigi | RC-580 | ← envolve |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Anunnaki | RC-024 | relaciona-se-a | -> | - |
+| Entroncamentos Genéticos Intersiderais | RC-323 | relaciona-se-a | -> | - |
+| Nefilins (= Anunnaki) | RC-488 | relaciona-se-a | -> | - |
+| Igigi | RC-580 | envolve | <- | - |
 
 ## Fontes
 

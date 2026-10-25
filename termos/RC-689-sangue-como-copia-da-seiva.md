@@ -22,11 +22,11 @@ Forma preferida: Sangue como Cópia da Seiva.
 O Mistério da Árvore da Vida e a Urdidura de Metatron.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Força de Atração Sexual (anterior à polaridade) | RC-433 | — |
-| Xamanismo Cósmico (comunicação e deslacre) | RC-577 | — |
-| Plantas de Moléculas Complexas | RC-686 | — |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Força de Atração Sexual (anterior à polaridade) | RC-433 | - | - | sem relação informada; 17 linhas são registros de fonte com 4 colunas |
+| Xamanismo Cósmico (comunicação e deslacre) | RC-577 | - | - | sem relação informada; 17 linhas são registros de fonte com 4 colunas |
+| Plantas de Moléculas Complexas | RC-686 | - | - | sem relação informada; 17 linhas são registros de fonte com 4 colunas |
 
 ## Seres Associados
 Consultar Base.

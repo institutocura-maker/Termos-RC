@@ -24,19 +24,19 @@ Tese (leitura do autor, palestra **P2018-05-20**, U0003) de que **Eva é a 3ª t
 Aparece em **P2018-05-20**, U0003. Contexto: depois de Lilith fracassar (fugir do curral) e Agar fracassar ("Adão é de uma linhagem mais fraca"), Javé tenta uma 3ª combinação: **homem com mulher da espécie sábia** (ambos humanos racionais). **Funcionou** — "nós estamos aqui hoje porque isso aí funcionou". Mas funcionou "no sentido de produzir novos seres e funcionou durante muito tempo no sentido da humanidade ser dominada por Jahé".
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | tentou-3-vezes |
-| Pandora | RC-086 | racionalidade-instantânea |
-| Seres Terrenos (Homo Sapiens) | RC-099 | é-espécie-de |
-| Epimeteu (titã) | RC-302 | associado |
-| Pirra | RC-303 | racionalidade-reflexiva |
-| Adhytia (nível hierárquico) | RC-308 | é-1ª-tentativa-fracassada |
-| Lavagem Cerebral (condicionamento) | RC-335 | é-contexto-de |
-| Agar como 2ª Tentativa Fracassada de Fêmea para Adão | RC-817 | é-2ª-tentativa-fracassada |
-| Patriarcado desde Pandora (Origem no Feminino, Dominação pelo Masculino) | RC-818 | é-consequência-de |
-| Prole sem Face (Humanos Modificáveis sem Face Definida) | RC-819 | associado |
-| Adão | (RC-302 é Adão) | é-companheiro-de |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Javé | RC-001 | relaciona-se-a | -> | consolidação: "tentou-3-vezes" → "relaciona-se-a" |
+| Pandora | RC-086 | relaciona-se-a | -> | consolidação: "racionalidade-instantânea" → "relaciona-se-a" |
+| Seres Terrenos (Homo Sapiens) | RC-099 | é-um | -> | consolidação: "é-espécie-de" → "é-um" |
+| Epimeteu (titã) | RC-302 | associado | <-> | - |
+| Pirra | RC-303 | relaciona-se-a | -> | consolidação: "racionalidade-reflexiva" → "relaciona-se-a" |
+| Adhytia (nível hierárquico) | RC-308 | é-um | -> | consolidação: "é-1ª-tentativa-fracassada" → "é-um" |
+| Lavagem Cerebral (condicionamento) | RC-335 | contexto | -> | consolidação: "é-contexto-de" → "contexto" |
+| Agar como 2ª Tentativa Fracassada de Fêmea para Adão | RC-817 | é-um | -> | consolidação: "é-2ª-tentativa-fracassada" → "é-um" |
+| Patriarcado desde Pandora (Origem no Feminino, Dominação pelo Masculino) | RC-818 | causa | <- | consolidação: "é-consequência-de" → "causa"; direção invertida (forma passiva/inversa) |
+| Prole sem Face (Humanos Modificáveis sem Face Definida) | RC-819 | associado | <-> | - |
+| Adão | (RC-302 é Adão) | associado | <-> | consolidação: "é-companheiro-de" → "associado" |
 
 ## Seres Associados
 - **Eva** — quem é a 3ª tentativa

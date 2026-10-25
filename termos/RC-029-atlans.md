@@ -27,11 +27,11 @@ Uma das 40 bases luciferianas do «Império Atlante» que também sucumbiu devid
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Atlântida / Terra Atlantis | RC-010 | associado |
-| Atlan | RC-028 | associado |
-| Atlantes | RC-030 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Atlântida / Terra Atlantis | RC-010 | associado | <-> | - |
+| Atlan | RC-028 | associado | <-> | - |
+| Atlantes | RC-030 | associado | <-> | - |
 
 ## Fontes
 

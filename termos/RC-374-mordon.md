@@ -27,13 +27,13 @@ O «Druida da Montanha» que dá título a B043: o Venerável Mordon, ancião dr
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Jesus | RC-072 | associado |
-| Revelação Cósmica (conceito) | RC-094 | associado |
-| Os 20 Anos de Jesus entre os Celtas | RC-373 | associado |
-| Druidas Celtas (contexto RC) | RC-375 | é-um |
-| Brendiver e Dolman (personagens celtas) | RC-377 | ← associado-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Jesus | RC-072 | associado | <-> | - |
+| Revelação Cósmica (conceito) | RC-094 | associado | <-> | - |
+| Os 20 Anos de Jesus entre os Celtas | RC-373 | associado | <-> | - |
+| Druidas Celtas (contexto RC) | RC-375 | é-um | -> | - |
+| Brendiver e Dolman (personagens celtas) | RC-377 | associado | <-> | - |
 
 ## Fontes
 

@@ -24,24 +24,24 @@ A **autoconfissão de Javé** como "Ser-Criador fracassado" — o conceito centr
 A autoconfissão é o coração do B036: Javé renuncia ao trono de "Deus Absoluto" para se revelar como "um arquiteto atormentado", "doente", que "já nasceu para esta personalidade doente". O processo de **humanização** (RC-245) é apresentado como necessidade biológica: Javé busca aprender com a humanidade "a evoluir em decência e dignidade existencial" — qualidades que admite faltar em sua natureza original.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | é-um |
-| Criador (Brahma/Javé/Demiurgo) | RC-041 | é-um |
-| Revelação Cósmica (conceito) | RC-094 | associado |
-| A Humanização do Criador | RC-245 | relaciona-se-a |
-| Favor Divino (conceito invertido) | RC-332 | relaciona-se-a |
-| As Memórias de Javé (crônicas) | RC-421 | associado |
-| Criatura-teste (estágio avançado) | RC-427 | contexto |
-| Pactos de Javé (Brama / Vishnu / Shiva) | RC-781 | associado |
-| Javé como Caos Personificado | RC-782 | associado |
-| Sophia como Protetorado da Humanidade | RC-784 | associado |
-| Estratégia dos Avatares (Moisés/Krishna/Saibaba/Jesus/Maomé) | RC-797 | associado |
-| Jesus como Último Avatar (Não Mata) | RC-800 | associado |
-| Humanos como Cobaias dos Deuses | RC-802 | associado |
-| Era da Solidão de Javé (500 Milhões de Anos) | RC-808 | associado |
-| Pandemia de Buraco Branco que Traga (Javé Tragado pela Criação) | RC-809 | associado |
-| Shiva como Primeiro Demo (Saiu do Clone Destruído) | RC-810 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Javé | RC-001 | é-um | -> | - |
+| Criador (Brahma/Javé/Demiurgo) | RC-041 | é-um | -> | - |
+| Revelação Cósmica (conceito) | RC-094 | associado | <-> | - |
+| A Humanização do Criador | RC-245 | relaciona-se-a | -> | - |
+| Favor Divino (conceito invertido) | RC-332 | relaciona-se-a | -> | - |
+| As Memórias de Javé (crônicas) | RC-421 | associado | <-> | - |
+| Criatura-teste (estágio avançado) | RC-427 | contexto | -> | - |
+| Pactos de Javé (Brama / Vishnu / Shiva) | RC-781 | associado | <-> | - |
+| Javé como Caos Personificado | RC-782 | associado | <-> | - |
+| Sophia como Protetorado da Humanidade | RC-784 | associado | <-> | - |
+| Estratégia dos Avatares (Moisés/Krishna/Saibaba/Jesus/Maomé) | RC-797 | associado | <-> | - |
+| Jesus como Último Avatar (Não Mata) | RC-800 | associado | <-> | - |
+| Humanos como Cobaias dos Deuses | RC-802 | associado | <-> | - |
+| Era da Solidão de Javé (500 Milhões de Anos) | RC-808 | associado | <-> | - |
+| Pandemia de Buraco Branco que Traga (Javé Tragado pela Criação) | RC-809 | associado | <-> | - |
+| Shiva como Primeiro Demo (Saiu do Clone Destruído) | RC-810 | associado | <-> | - |
 
 ## Seres Associados
 Javé (RC-001); Jan Val Ellam (RC-071, o "advogado de acusação").

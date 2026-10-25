@@ -24,17 +24,17 @@ Família/espécie primordial do Paraíso Original, anterior à diferenciação e
 Seus movimentos de consciência teriam gerado porções da incompletude e, posteriormente, níveis laboratoriais.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Deidade (Pai-Mãe Amantíssimo / Brahman) | RC-047 | relaciona-se-a |
-| Espiritualidade Operacional | RC-060 | cria |
-| Realidade Maior / Paraíso Original | RC-204 | ocorre-em |
-| Realidade Maior / Paraíso Original | RC-204 | ← variação |
-| Círculo / Circuito da Perfeição | RC-603 | participa-de |
-| Círculo / Circuito da Perfeição | RC-603 | ← envolve |
-| Autismo Funcional dos Seres da Espiritualidade Superior | RC-605 | ← aplica-se-a |
-| Protocolos / Algoritmos da Perfeição | RC-606 | ← rege |
-| Trincheira Vibratória no Campo Informativo | RC-613 | ← comunica-com |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Deidade (Pai-Mãe Amantíssimo / Brahman) | RC-047 | relaciona-se-a | -> | - |
+| Espiritualidade Operacional | RC-060 | origina | -> | consolidação: "cria" → "origina" |
+| Realidade Maior / Paraíso Original | RC-204 | contexto | -> | consolidação: "ocorre-em" → "contexto" |
+| Realidade Maior / Paraíso Original | RC-204 | variação | <- | - |
+| Círculo / Circuito da Perfeição | RC-603 | envolve | -> | consolidação: "participa-de" → "envolve" |
+| Círculo / Circuito da Perfeição | RC-603 | envolve | <- | - |
+| Autismo Funcional dos Seres da Espiritualidade Superior | RC-605 | usa | <- | consolidação: "aplica-se-a" → "usa" |
+| Protocolos / Algoritmos da Perfeição | RC-606 | controla | <- | consolidação: "rege" → "controla" |
+| Trincheira Vibratória no Campo Informativo | RC-613 | comunica | <- | consolidação: "comunica-com" → "comunica" |
 
 ## Seres Associados
 Consultar as relações tipadas acima.

@@ -29,12 +29,12 @@ Com isso:
 **Origem do conteúdo da ampliação:** palestra `P2018-12-15 — Terra Atlantis – Aprofundamento` (15/12/2018). Transcrição automatizada, **não conferida com o áudio**; cada aspa foi recortada do `original.txt` pelo índice de âncoras do motor e conferida byte a byte pelo portão B. Nada foi digitado de memória.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Alt´Lam Gron | RC-018 | **sem aresta** em `RELACOES`; arquivo existe |
-| Benem | RC-032 | arestas `relaciona-se-a` →RC-022/→RC-058/→RC-109 acrescentadas via B018 na aplicação F030 (05/09/2026); **ainda sem arquivo** (fila) |
-| Espheron | RC-058 | **sem aresta** em `RELACOES`; arquivo existe (P5d) |
-| Hiperbórea | RC-068 | **sem aresta** em `RELACOES`; arquivo existe |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Alt´Lam Gron | RC-018 | - | - | sem aresta em RELACOES; arquivo existe |
+| Benem | RC-032 | - | - | arestas relaciona-se-a →RC-022/→RC-058/→RC-109 acrescentadas via B018 na aplicação F030 (05/09/2026); ainda sem arquivo (fila) |
+| Espheron | RC-058 | - | - | sem aresta em RELACOES; arquivo existe (P5d) |
+| Hiperbórea | RC-068 | - | - | sem aresta em RELACOES; arquivo existe |
 
 
 ## Fontes

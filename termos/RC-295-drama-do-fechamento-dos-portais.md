@@ -24,18 +24,18 @@ O processo de **fechamento dos portais entre o universo antimaterial e o materia
 O fechamento dos portais é o divisor entre o tempo em que os deuses conviviam diretamente com os humanos (mitologia) e a Era dos Humanos. B021 (cap. 21) detalha o "drama" vivido por Zeus com esse processo: percebendo que não poderia mais dominar diretamente os humanos, "Zeus implantou essa enganação religiosa, utilizando-se do medo e da submissão de homens e mulheres ao 'aconselhamento dos deuses'". O fechamento conecta-se ao Isolamento Cósmico (RC-070) e ao fim dos portais naturais (dez/2012, conforme B024/B031).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Isolamento Cósmico | RC-070 | associado |
-| Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | associado |
-| Zeus | RC-145 | envolve |
-| Pitonisas e Oráculos (Apolo/Delfos) | RC-296 | resulta-em |
-| Era dos Humanos (Zeus e a) | RC-297 | ← sucede |
-| Ano de 2012 como Divisor de Ciclos | RC-571 | ← relaciona-se-a |
-| Oitavo Dia da Criação | RC-694 | ← relaciona-se-a |
-| Oitavo Dia da Criação | RC-694 | relaciona-se-a |
-| Extísicos (seres do universo vizinho, não biológicos, compostos de plasma) | RC-861 | associado |
-| Choque de Realidade (o perpétuo espanto dos donos da verdade) | RC-867 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Isolamento Cósmico | RC-070 | associado | <-> | - |
+| Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | associado | <-> | - |
+| Zeus | RC-145 | envolve | -> | - |
+| Pitonisas e Oráculos (Apolo/Delfos) | RC-296 | causa | -> | consolidação: "resulta-em" → "causa" |
+| Era dos Humanos (Zeus e a) | RC-297 | sucede | <- | - |
+| Ano de 2012 como Divisor de Ciclos | RC-571 | relaciona-se-a | <- | - |
+| Oitavo Dia da Criação | RC-694 | relaciona-se-a | <- | - |
+| Oitavo Dia da Criação | RC-694 | relaciona-se-a | -> | - |
+| Extísicos (seres do universo vizinho, não biológicos, compostos de plasma) | RC-861 | associado | <-> | - |
+| Choque de Realidade (o perpétuo espanto dos donos da verdade) | RC-867 | associado | <-> | - |
 
 ## Ampliação
 ### B021 (Tempos Difíceis no Olimpo)

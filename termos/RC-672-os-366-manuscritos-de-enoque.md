@@ -24,20 +24,20 @@ Forma preferida: Os 366 Manuscritos de Enoque.
 O Mistério da Árvore da Vida e a Urdidura de Metatron.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Enoque (sétimo patriarca; levado por Javé) | RC-489 | escrito-por |
-| Enoque (sétimo patriarca; levado por Javé) | RC-489 | ← relaciona-se-a |
-| Enoque (sétimo patriarca; levado por Javé) | RC-489 | relaciona-se-a |
-| Enoque (sétimo patriarca; levado por Javé) | RC-489 | ← relaciona-se-a |
-| Metatron | RC-671 | — |
-| P2025-12-14 | Os Fundamentos da Revelação Cósmica (palestra) | — | transcrição automatizada; citação |
-| P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
-| P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
-| P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
-| P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
-| P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
-| P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Enoque (sétimo patriarca; levado por Javé) | RC-489 | comunica | <- | consolidação: "escrito-por" → "comunica"; direção invertida (forma passiva/inversa) |
+| Enoque (sétimo patriarca; levado por Javé) | RC-489 | relaciona-se-a | <- | - |
+| Enoque (sétimo patriarca; levado por Javé) | RC-489 | relaciona-se-a | -> | - |
+| Enoque (sétimo patriarca; levado por Javé) | RC-489 | relaciona-se-a | <- | - |
+| Metatron | RC-671 | - | - | sem relação informada; 17 linhas são registros de fonte com 4 colunas |
+| P2025-12-14 | Os Fundamentos da Revelação Cósmica (palestra) | - | - | sem relação informada; 17 linhas são registros de fonte com 4 colunas; transcrição automatizada; citação |
+| P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | - | - | sem relação informada; 17 linhas são registros de fonte com 4 colunas; transcrição automatizada; citação |
+| P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | - | - | sem relação informada; 17 linhas são registros de fonte com 4 colunas; transcrição automatizada; citação |
+| P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | - | - | sem relação informada; 17 linhas são registros de fonte com 4 colunas; transcrição automatizada; citação |
+| P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | - | - | sem relação informada; 17 linhas são registros de fonte com 4 colunas; transcrição automatizada; citação |
+| P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | - | - | sem relação informada; 17 linhas são registros de fonte com 4 colunas; transcrição automatizada; citação |
+| P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | - | - | sem relação informada; 17 linhas são registros de fonte com 4 colunas; transcrição automatizada; citação |
 
 ## Seres Associados
 Consultar Base.

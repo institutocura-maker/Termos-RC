@@ -24,14 +24,14 @@ Tese (leitura do autor, palestra **P2017-05-14**, U0002) de que **Javé (RC-001)
 Aparece em **P2017-05-14**, U0002. Contexto: depois que Javé (RC-001) caiu no buraco branco e foi "tragado" pela própria criação, ele passou **500 milhões de anos** se reconstruindo. Quando se reconstruiu, ele estava "totalmente demente e desagregado" — o que originou a "doença do criador" (violência, dominação) e os clones (anjos glores).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | protagoniza |
-| Rebelião de Lúcifer | RC-002 | é-contexto-de |
-| Ser-Criador fracassado (autoconfissão de Javé) | RC-422 | é-resultado-de |
-| Pandemia de Buraco Branco que Traga (Javé Tragado pela Criação) | RC-809 | contextualiza |
-| Shiva como Primeiro Demo (Saiu do Clone Destruído) | RC-810 | é-consequência-de |
-| Fissão em Dois Universos (Matéria + Antimatéria) | RC-811 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Javé | RC-001 | envolve | -> | consolidação: "protagoniza" → "envolve" |
+| Rebelião de Lúcifer | RC-002 | contexto | -> | consolidação: "é-contexto-de" → "contexto" |
+| Ser-Criador fracassado (autoconfissão de Javé) | RC-422 | causa | <- | consolidação: "é-resultado-de" → "causa"; direção invertida (forma passiva/inversa) |
+| Pandemia de Buraco Branco que Traga (Javé Tragado pela Criação) | RC-809 | contexto | -> | consolidação: "contextualiza" → "contexto" |
+| Shiva como Primeiro Demo (Saiu do Clone Destruído) | RC-810 | causa | <- | consolidação: "é-consequência-de" → "causa"; direção invertida (forma passiva/inversa) |
+| Fissão em Dois Universos (Matéria + Antimatéria) | RC-811 | associado | <-> | - |
 
 ## Seres Associados
 - **Javé** (RC-001) — quem passou a era da solidão

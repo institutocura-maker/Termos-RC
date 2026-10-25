@@ -27,12 +27,12 @@ Na B020 (*O Sorriso de Pandora*), o título do capítulo 5 — «O Vício de Epi
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Pandora | RC-086 | envolve |
-| Seres Terrenos (Homo Sapiens) | RC-099 | associado |
-| Zeus | RC-145 | associado |
-| Pandora como Serpente do Éden | RC-283 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Pandora | RC-086 | envolve | -> | - |
+| Seres Terrenos (Homo Sapiens) | RC-099 | associado | <-> | - |
+| Zeus | RC-145 | associado | <-> | - |
+| Pandora como Serpente do Éden | RC-283 | associado | <-> | - |
 
 ## Fontes
 

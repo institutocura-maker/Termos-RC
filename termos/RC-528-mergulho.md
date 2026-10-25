@@ -24,11 +24,11 @@ A designação ellâmica da queda: «mergulho», não «queda». O termo desloca
 O vocabulário importa: na RC, «mergulhar» é o que fazem os Logos e as cocriadoras quando descem aos níveis inferiores (o Quarto Logos, RC-092, «mergulhou» diretamente no universo biológico). A queda de Prabrajna (RC-152) é, nessa chave, o mergulho que deu errado e produziu a Criação Indevida (RC-167) — donde a proximidade com o acidente cosmogônico (RC-515).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Prabrajna | RC-152 | associado |
-| Criação Indevida (Obra indevida) | RC-167 | variação |
-| Acidente cosmogônico (queda de Prabrajna) | RC-515 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Prabrajna | RC-152 | associado | <-> | - |
+| Criação Indevida (Obra indevida) | RC-167 | variação | -> | - |
+| Acidente cosmogônico (queda de Prabrajna) | RC-515 | associado | <-> | - |
 
 - RC-167 — ver ficha correspondente
 - RC-515 — ver ficha correspondente

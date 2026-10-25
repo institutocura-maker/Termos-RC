@@ -27,13 +27,13 @@ Na B003 (*Reintegração Cósmica*), o portal que **estava para ser edificado** 
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Projeto Planeta Azul | RC-090 | destinação-de |
-| Revelação Cósmica (conceito) | RC-094 | associado |
-| Universo Material (Bhuloka) | RC-107 | associado |
-| Quarentena Sideral / Cósmica | RC-342 | associado |
-| Bifrost (Portal interdimensional) | RC-471 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Projeto Planeta Azul | RC-090 | transfere | -> | consolidação: "destinação-de" → "transfere" |
+| Revelação Cósmica (conceito) | RC-094 | associado | <-> | - |
+| Universo Material (Bhuloka) | RC-107 | associado | <-> | - |
+| Quarentena Sideral / Cósmica | RC-342 | associado | <-> | - |
+| Bifrost (Portal interdimensional) | RC-471 | associado | <-> | - |
 
 ## Fontes
 

@@ -29,15 +29,15 @@ Com isso:
 **Origem do conteúdo da ampliação:** palestra `P2018-12-16 — Terra Atlantis - Era Sapiens` (16/12/2018). Transcrição automatizada, **não conferida com o áudio**; cada aspa foi recortada do `original.txt` pelo índice de âncoras do motor e conferida byte a byte pelo portão B. Nada foi digitado de memória.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Len Mion (Satã) | RC-074 | dominado-por |
-| Lúcifer (Yel Luzbel) | RC-078 | **sem aresta** em `RELACOES`; arquivo existe |
-| O Calvário de um Inocente | RC-236 | **sem aresta** em `RELACOES`; arquivo existe |
-| Maria Orsic (médium da Sociedade Vril) | RC-846 | associado |
-| Sociedade Vril | RC-847 | associado |
-| Sociedade Thule | RC-848 | associado |
-| Nicola Tesla (recebia mensagens em sânscrito) | RC-849 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Len Mion (Satã) | RC-074 | controla | <- | consolidação: "dominado-por" → "controla"; direção invertida (forma passiva/inversa) |
+| Lúcifer (Yel Luzbel) | RC-078 | - | - | sem aresta em RELACOES; arquivo existe |
+| O Calvário de um Inocente | RC-236 | - | - | sem aresta em RELACOES; arquivo existe |
+| Maria Orsic (médium da Sociedade Vril) | RC-846 | associado | <-> | - |
+| Sociedade Vril | RC-847 | associado | <-> | - |
+| Sociedade Thule | RC-848 | associado | <-> | - |
+| Nicola Tesla (recebia mensagens em sânscrito) | RC-849 | associado | <-> | - |
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
 
 ## Ampliação — OIDR26-02 (Onda incremental dry-run — Mitologias, tradições e reintegração (derivados normalizados))

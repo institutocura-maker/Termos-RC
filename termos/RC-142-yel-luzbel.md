@@ -13,24 +13,24 @@ atualizado = "2026-08-29"
 # Yel Luzbel — RC-142
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Rebelião de Lúcifer | RC-002 | associado |
-| Alt´Lam | RC-017 | associado |
-| Astralização dos Biodemos | RC-026 | associado |
-| Isolamento Cósmico | RC-070 | associado |
-| Len Mion (Satã) | RC-074 | associado |
-| Lúcifer (Yel Luzbel) | RC-078 | ← variação |
-| Pandora | RC-086 | associado |
-| Shamb-Aha | RC-101 | associado |
-| Yel (Família Yel) | RC-136 | associado |
-| O Calvário de um Inocente | RC-236 | associado |
-| Família Yel | RC-442 | é-um |
-| Primeiro Pesquisador (cargo capelino) | RC-447 | ← associado-a |
-| Deslacre (rompimento dos lacres psíquicos) | RC-448 | ← relaciona-se-a |
-| Revolta Capelina | RC-450 | ← relaciona-se-a |
-| Ancoragem do Conglomerado Trimurtiano na Terra | RC-575 | associado |
-| Nyx como Mãe de Origem de Pandora | RC-795 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Rebelião de Lúcifer | RC-002 | associado | <-> | - |
+| Alt´Lam | RC-017 | associado | <-> | - |
+| Astralização dos Biodemos | RC-026 | associado | <-> | - |
+| Isolamento Cósmico | RC-070 | associado | <-> | - |
+| Len Mion (Satã) | RC-074 | associado | <-> | - |
+| Lúcifer (Yel Luzbel) | RC-078 | variação | <- | - |
+| Pandora | RC-086 | associado | <-> | - |
+| Shamb-Aha | RC-101 | associado | <-> | - |
+| Yel (Família Yel) | RC-136 | associado | <-> | - |
+| O Calvário de um Inocente | RC-236 | associado | <-> | - |
+| Família Yel | RC-442 | é-um | -> | - |
+| Primeiro Pesquisador (cargo capelino) | RC-447 | associado | <-> | - |
+| Deslacre (rompimento dos lacres psíquicos) | RC-448 | relaciona-se-a | <- | - |
+| Revolta Capelina | RC-450 | relaciona-se-a | <- | - |
+| Ancoragem do Conglomerado Trimurtiano na Terra | RC-575 | associado | <-> | - |
+| Nyx como Mãe de Origem de Pandora | RC-795 | associado | <-> | - |
 
 ### Remissão
 

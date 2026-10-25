@@ -27,15 +27,15 @@ Na B050 (*Guia das Eras Universais · Mapa* — infográfico «Linha do Tempo da
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Revelação Cósmica (conceito) | RC-094 | associado |
-| Seres Terrenos (Homo Sapiens) | RC-099 | é-um |
-| Revelação de Ifá e Destinação dos Seres | RC-655 | ← relaciona-se-a |
-| Descendência de Kadru (Nagas, Uragas e Maharagas) | RC-664 | ← relaciona-se-a |
-| Mão Invisível Multiforme / Conselho das Nagas | RC-697 | ← relaciona-se-a |
-| Escola da Decifração da Realidade (Método Druídico) | RC-755 | relaciona-se-a |
-| Jainismo (antigo Druidismo — religião mais antiga) | RC-759 | ← relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Revelação Cósmica (conceito) | RC-094 | associado | <-> | - |
+| Seres Terrenos (Homo Sapiens) | RC-099 | é-um | -> | - |
+| Revelação de Ifá e Destinação dos Seres | RC-655 | relaciona-se-a | <- | - |
+| Descendência de Kadru (Nagas, Uragas e Maharagas) | RC-664 | relaciona-se-a | <- | - |
+| Mão Invisível Multiforme / Conselho das Nagas | RC-697 | relaciona-se-a | <- | - |
+| Escola da Decifração da Realidade (Método Druídico) | RC-755 | relaciona-se-a | -> | - |
+| Jainismo (antigo Druidismo — religião mais antiga) | RC-759 | relaciona-se-a | <- | - |
 
 ## Ampliação — STT26-EXPERIENCIA_ESPIRITUAL_ETICA (Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados))
 

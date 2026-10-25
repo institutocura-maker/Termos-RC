@@ -23,18 +23,18 @@ Forno replicador de vida do **Projeto Talm** (RC-091) sob o controle de **Vishnu
 - **promovido a 🟡 com ficha física** pela Devolutiva ART-2025-08-01 (O-2/O-4): o STT "forno de **Alamaior**" (P2021-12-04, U0621) foi confirmado como corrupção fonética de **Awaymaion** — o contexto da fala ("produzir espécies... os biodemos") bate exatamente com a função do forno de Vishnu.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Sophia (Cristo Cósmico) | RC-009 | relaciona-se-a |
-| Biodemos | RC-036 | produz |
-| Quarto Logos (Olm / Codificador de Zian) | RC-092 | ← origem-em |
-| Radiatas | RC-093 | produz |
-| Shamb-Aha | RC-101 | ← manifesta-se-em |
-| ADHYMAVATANA (nome completo de Mavatna/Vishnu) | RC-408 | relaciona-se-a |
-| Almaior / Alamaior — erro histórico de STT (ver Forno de Awaymaion RC-499) | RC-500 | ← erro-stt-de |
-| Fornos Replicadores (naves/estações de semeadura de vida do Projeto Talm; Awayen, Awaylengan e Awaymaion) | RC-771 | ← inclui |
-| Forno de Awayen (forno de Brahma/Javé → Central de Realidades) | RC-836 | associado |
-| Forno de Awaylengan (forno de Shiva — o primeiro a funcionar) | RC-837 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Sophia (Cristo Cósmico) | RC-009 | relaciona-se-a | -> | - |
+| Biodemos | RC-036 | origina | -> | consolidação: "produz" → "origina" |
+| Quarto Logos (Olm / Codificador de Zian) | RC-092 | origina | <- | consolidação: "origem-em" → "origina" |
+| Radiatas | RC-093 | origina | -> | consolidação: "produz" → "origina" |
+| Shamb-Aha | RC-101 | representa | <- | consolidação: "manifesta-se-em" → "representa" |
+| ADHYMAVATANA (nome completo de Mavatna/Vishnu) | RC-408 | relaciona-se-a | -> | - |
+| Almaior / Alamaior — erro histórico de STT (ver Forno de Awaymaion RC-499) | RC-500 | contexto | <- | consolidação: "erro-stt-de" → "contexto" |
+| Fornos Replicadores (naves/estações de semeadura de vida do Projeto Talm; Awayen, Awaylengan e Awaymaion) | RC-771 | inclui | <- | - |
+| Forno de Awayen (forno de Brahma/Javé → Central de Realidades) | RC-836 | associado | <-> | - |
+| Forno de Awaylengan (forno de Shiva — o primeiro a funcionar) | RC-837 | associado | <-> | - |
 
 ## Seres Associados
 Vishnu (RC-408/135), Sophia (RC-009), Olm (RC-092), Mohen So (RC-081), Val Tam (RC-132 — via RC-771).

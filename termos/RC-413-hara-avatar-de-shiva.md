@@ -29,12 +29,12 @@ Com isso:
 **Origem do conteúdo da ampliação:** palestra `P2022-05-07 — Shiva, o Projeto Talm e os Mistérios de Awaylengam` (07/05/2022). Transcrição automatizada, **não conferida com o áudio**; cada aspa foi recortada do `original.txt` pelo índice de âncoras do motor e conferida byte a byte pelo portão B. Nada foi digitado de memória.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Keshava | RC-073 | **sem aresta** em `RELACOES`; **sem arquivo** |
-| Revelação Cósmica (conceito) | RC-094 | **sem aresta** em `RELACOES`; arquivo existe |
-| Shiva (Savna) | RC-102 | é-um |
-| ADHYSAVNA (nome completo de Savna/Shiva) | RC-409 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Keshava | RC-073 | - | - | sem aresta em RELACOES; sem arquivo |
+| Revelação Cósmica (conceito) | RC-094 | - | - | sem aresta em RELACOES; arquivo existe |
+| Shiva (Savna) | RC-102 | é-um | -> | - |
+| ADHYSAVNA (nome completo de Savna/Shiva) | RC-409 | associado | <-> | - |
 
 ## Fontes
 | Obra (sigla) | Título | Página | Tipo |

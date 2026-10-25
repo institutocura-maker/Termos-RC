@@ -23,14 +23,14 @@ Forma preferida: **Quirino Cornélio (Centurião da Crucificação)**.
 P2025-06-26 — 1ª Edição Estagiários do Kaos.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | — |
-| Jan Val Ellam (Rogério de Almeida Freitas) | RC-071 | encarnação-de |
-| Jesus | RC-072 | envolve |
-| Elm (Moros — ser LM de Tempérion) | RC-454 | vinculado-ao-espírito |
-| Pegadinha de Javé | RC-660 | ← envolve |
-| Cumprimento da Profecia de Moros pela Revelação Cósmica | RC-718 | ← envolve |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Javé | RC-001 | - | - | sem relação informada; 17 linhas são registros de fonte com 4 colunas |
+| Jan Val Ellam (Rogério de Almeida Freitas) | RC-071 | origina | -> | consolidação: "encarnação-de" → "origina" |
+| Jesus | RC-072 | envolve | -> | - |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | associado | <-> | consolidação: "vinculado-ao-espírito" → "associado" |
+| Pegadinha de Javé | RC-660 | envolve | <- | - |
+| Cumprimento da Profecia de Moros pela Revelação Cósmica | RC-718 | envolve | <- | - |
 
 ## Seres Associados
 Consultar Base.

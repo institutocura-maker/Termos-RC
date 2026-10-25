@@ -27,11 +27,11 @@ Na B002 (*O Drama Espiritual de Javé*), o título do capítulo 9 — «A Susten
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Criador (Brahma/Javé/Demiurgo) | RC-041 | associado |
-| Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | associado |
-| Universo Material (Bhuloka) | RC-107 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Criador (Brahma/Javé/Demiurgo) | RC-041 | associado | <-> | - |
+| Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | associado | <-> | - |
+| Universo Material (Bhuloka) | RC-107 | associado | <-> | - |
 
 ## Fontes
 

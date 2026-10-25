@@ -29,17 +29,17 @@ Com isso:
 **Origem do conteúdo da ampliação:** palestra `P2017-10-14 — Da Base Atlan ao Colégio Druídico` (14/10/2017). Transcrição automatizada, **não conferida com o áudio**; cada aspa foi recortada do `original.txt` pelo índice de âncoras do motor e conferida byte a byte pelo portão B. Nada foi digitado de memória.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Demos | RC-049 | é-um |
-| Hiperbórea | RC-068 | **sem aresta** em `RELACOES`; arquivo existe |
-| Revelação Cósmica (conceito) | RC-094 | **sem aresta** em `RELACOES`; arquivo existe |
-| Os 20 Anos de Jesus entre os Celtas | RC-373 | **sem aresta** em `RELACOES`; arquivo existe |
-| Inanna (= Danu; Anunnaki) | RC-464 | ← relaciona-se-a |
-| Escola da Decifração da Realidade (Método Druídico) | RC-755 | relaciona-se-a |
-| Jainismo (antigo Druidismo — religião mais antiga) | RC-759 | ← relaciona-se-a |
-| Milésios (raça da Irlanda) | RC-842 | relaciona-se-a |
-| Cidades Sagradas do Hiperbóreo | RC-932 | arquivado na fila (F031 aplicação; sem ficha) — Fálias/Górias/Mírias/Múrias/Solia/Exólia (P2024-03-17) |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Demos | RC-049 | é-um | -> | - |
+| Hiperbórea | RC-068 | - | - | sem aresta em RELACOES; arquivo existe |
+| Revelação Cósmica (conceito) | RC-094 | - | - | sem aresta em RELACOES; arquivo existe |
+| Os 20 Anos de Jesus entre os Celtas | RC-373 | - | - | sem aresta em RELACOES; arquivo existe |
+| Inanna (= Danu; Anunnaki) | RC-464 | relaciona-se-a | <- | - |
+| Escola da Decifração da Realidade (Método Druídico) | RC-755 | relaciona-se-a | -> | - |
+| Jainismo (antigo Druidismo — religião mais antiga) | RC-759 | relaciona-se-a | <- | - |
+| Milésios (raça da Irlanda) | RC-842 | relaciona-se-a | -> | - |
+| Cidades Sagradas do Hiperbóreo | RC-932 | relaciona-se-a | -> | texto bruto original: arquivado na fila (F031 aplicação; sem ficha) — Fálias/Górias/Mírias/Múrias/Solia/Exólia (P2024-03-17) |
 
 ## Fontes
 | Obra (sigla) | Título | Página | Tipo |

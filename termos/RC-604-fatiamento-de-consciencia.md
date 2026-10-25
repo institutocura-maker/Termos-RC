@@ -24,31 +24,31 @@ Projeção de múltiplos eus ou identidades sustentados por um mesmo espírito a
 A palestra usa o conceito para conectar Adhyprabrajna, Adhymavatana, Brahma, Vishnu, Sophia, Jesus, Elm e Olm.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | envolve |
-| Sophia (Cristo Cósmico) | RC-009 | envolve |
-| Sophia (Cristo Cósmico) | RC-009 | envolve |
-| Brahma (Brajna) | RC-037 | envolve |
-| Jesus | RC-072 | envolve |
-| Jesus | RC-072 | envolve |
-| Quarto Logos (Olm / Codificador de Zian) | RC-092 | envolve |
-| Shiva (Savna) | RC-102 | envolve |
-| Prabrajna | RC-152 | relaciona-se-a |
-| Prabrajna | RC-152 | ← relaciona-se-a |
-| DNA como Projeção Holográfica do Psiquismo do Criador | RC-217 | associado |
-| ADHYMAVATANA (nome completo de Mavatna/Vishnu) | RC-408 | envolve |
-| ADHYPRABRAJNA (grafia do diagrama) | RC-410 | envolve |
-| Elm (Moros — ser LM de Tempérion) | RC-454 | envolve |
-| Mavátma / Mavatna / Mavat (Vishnu em condição Adhyatman) | RC-503 | relaciona-se-a |
-| Eu Coalescente | RC-620 | ← integra |
-| Corpo Átmico | RC-623 | ← relaciona-se-a |
-| Corpo Átmico | RC-623 | relaciona-se-a |
-| Instabilidade da Eternidade | RC-648 | ← envolve |
-| Agenda do Desespero dos Espíritos | RC-662 | associado |
-| Falência dos Deuses | RC-742 | ← resulta-de |
-| Ganesha (exceção à metamorfose; cabeça de elefante) | RC-756 | ← relaciona-se-a |
-| As Cinco Lentes da Realidade | RC-761 | ← relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Javé | RC-001 | envolve | -> | - |
+| Sophia (Cristo Cósmico) | RC-009 | envolve | -> | - |
+| Sophia (Cristo Cósmico) | RC-009 | envolve | -> | - |
+| Brahma (Brajna) | RC-037 | envolve | -> | - |
+| Jesus | RC-072 | envolve | -> | - |
+| Jesus | RC-072 | envolve | -> | - |
+| Quarto Logos (Olm / Codificador de Zian) | RC-092 | envolve | -> | - |
+| Shiva (Savna) | RC-102 | envolve | -> | - |
+| Prabrajna | RC-152 | relaciona-se-a | -> | - |
+| Prabrajna | RC-152 | relaciona-se-a | <- | - |
+| DNA como Projeção Holográfica do Psiquismo do Criador | RC-217 | associado | <-> | - |
+| ADHYMAVATANA (nome completo de Mavatna/Vishnu) | RC-408 | envolve | -> | - |
+| ADHYPRABRAJNA (grafia do diagrama) | RC-410 | envolve | -> | - |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | envolve | -> | - |
+| Mavátma / Mavatna / Mavat (Vishnu em condição Adhyatman) | RC-503 | relaciona-se-a | -> | - |
+| Eu Coalescente | RC-620 | inclui | <- | consolidação: "integra" → "inclui" |
+| Corpo Átmico | RC-623 | relaciona-se-a | <- | - |
+| Corpo Átmico | RC-623 | relaciona-se-a | -> | - |
+| Instabilidade da Eternidade | RC-648 | envolve | <- | - |
+| Agenda do Desespero dos Espíritos | RC-662 | associado | <-> | - |
+| Falência dos Deuses | RC-742 | causa | -> | consolidação: "resulta-de" → "causa"; direção invertida (forma passiva/inversa) |
+| Ganesha (exceção à metamorfose; cabeça de elefante) | RC-756 | relaciona-se-a | <- | - |
+| As Cinco Lentes da Realidade | RC-761 | relaciona-se-a | <- | - |
 
 ## Ampliação — STT26-EXPERIENCIA_ESPIRITUAL_ETICA (Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados))
 

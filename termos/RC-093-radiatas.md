@@ -29,16 +29,16 @@ Com isso:
 **Origem do conteúdo da ampliação:** palestra `P2023-12-03 — A Rebelião de Lúcifer ainda por ser Finalizada` (03/12/2023, na sala). Transcrição automatizada, **não conferida com o áudio**; cada aspa foi recortada do `original.txt` pelo índice de âncoras do motor e conferida byte a byte pelo portão B. Nada foi digitado de memória.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Sophia (Cristo Cósmico) | RC-009 | **sem aresta** em `RELACOES`; arquivo existe |
-| Bilatérios | RC-035 | **sem aresta** em `RELACOES`; arquivo existe |
-| Val (Família Val) | RC-109 | **sem aresta** em `RELACOES`; **sem arquivo** |
-| Yel (Família Yel) | RC-136 | **sem aresta** em `RELACOES`; **sem arquivo** |
-| Forno de Awaymaion (forno de Vishnu; origem de Olm) | RC-499 | associado |
-| Cérebro Radiata | RC-631 | ← é-um |
-| Fornos Replicadores (naves/estações de semeadura de vida do Projeto Talm; Awayen, Awaylengan e Awaymaion) | RC-771 | ← relaciona-se-a |
-| Forno de Awaylengan (forno de Shiva — o primeiro a funcionar) | RC-837 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Sophia (Cristo Cósmico) | RC-009 | - | - | sem aresta em RELACOES; arquivo existe |
+| Bilatérios | RC-035 | - | - | sem aresta em RELACOES; arquivo existe |
+| Val (Família Val) | RC-109 | - | - | sem aresta em RELACOES; sem arquivo |
+| Yel (Família Yel) | RC-136 | - | - | sem aresta em RELACOES; sem arquivo |
+| Forno de Awaymaion (forno de Vishnu; origem de Olm) | RC-499 | associado | <-> | - |
+| Cérebro Radiata | RC-631 | é-um | <- | - |
+| Fornos Replicadores (naves/estações de semeadura de vida do Projeto Talm; Awayen, Awaylengan e Awaymaion) | RC-771 | relaciona-se-a | <- | - |
+| Forno de Awaylengan (forno de Shiva — o primeiro a funcionar) | RC-837 | associado | <-> | - |
 
 
 ## Fontes

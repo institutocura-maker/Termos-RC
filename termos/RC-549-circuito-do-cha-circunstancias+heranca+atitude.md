@@ -25,11 +25,11 @@ atualizado = "2026-08-13"
 Ellam contrapõe o "circuito do CHA" à "vontade de progredir": quem não desperta a vontade de progredir torna-se "personagem ou 'vítima' do circuito da vida", indo "para onde as ondas desse tormentoso oceano o levarem" (B074, p. 46). O circuito pode se repetir (manutenção) ou se renovar (evolução) conforme a resposta da atitude pessoal. É a "chave" dos arquivos mentais: se não é a vontade de progredir que os acessa, o aparente acaso da vida os abre.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Mentalma | RC-166 | relaciona-se-a |
-| Arquivos Mentais (coleção de conceitos no psiquismo) | RC-548 | relaciona-se-a |
-| Vontade de Progredir (chave dos arquivos mentais) | RC-550 | relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Mentalma | RC-166 | relaciona-se-a | -> | - |
+| Arquivos Mentais (coleção de conceitos no psiquismo) | RC-548 | relaciona-se-a | -> | - |
+| Vontade de Progredir (chave dos arquivos mentais) | RC-550 | relaciona-se-a | -> | - |
 
 ## Seres Associados
 Espírito encarnado; "Eu piloto automático" (o que vive o circuito).

@@ -27,13 +27,13 @@ Título do capítulo 3 de B048 (*Favor Divino*). Designa as religiões — «o j
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Revelação Cósmica (conceito) | RC-094 | associado |
-| Seres Terrenos (Homo Sapiens) | RC-099 | associado |
-| Revelação Espiritual (Kardec) | RC-190 | usa |
-| Favor Divino (conceito invertido) | RC-332 | associado |
-| Abismo da Providência / Falsa Providência | RC-723 | ← critica |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Revelação Cósmica (conceito) | RC-094 | associado | <-> | - |
+| Seres Terrenos (Homo Sapiens) | RC-099 | associado | <-> | - |
+| Revelação Espiritual (Kardec) | RC-190 | usa | -> | - |
+| Favor Divino (conceito invertido) | RC-332 | associado | <-> | - |
+| Abismo da Providência / Falsa Providência | RC-723 | opõe-se-a | <- | consolidação: "critica" → "opõe-se-a" |
 
 ## Fontes
 

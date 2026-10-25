@@ -29,12 +29,12 @@ Com isso:
 **Origem do conteúdo da ampliação:** palestra `P2023-12-03 — A Rebelião de Lúcifer ainda por ser Finalizada` (03/12/2023, na sala). Transcrição automatizada, **não conferida com o áudio**; cada aspa foi recortada do `original.txt` pelo índice de âncoras do motor e conferida byte a byte pelo portão B. Nada foi digitado de memória.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Revelação Cósmica (conceito) | RC-094 | **sem aresta** em `RELACOES`; arquivo existe |
-| Os 20 Anos de Jesus entre os Celtas | RC-373 | **sem aresta** em `RELACOES`; arquivo existe |
-| Mordon (o Druida da Montanha) | RC-374 | ← é-um |
-| Colegiado Druídico | RC-403 | ← associado-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Revelação Cósmica (conceito) | RC-094 | - | - | sem aresta em RELACOES; arquivo existe |
+| Os 20 Anos de Jesus entre os Celtas | RC-373 | - | - | sem aresta em RELACOES; arquivo existe |
+| Mordon (o Druida da Montanha) | RC-374 | é-um | <- | - |
+| Colegiado Druídico | RC-403 | associado | <-> | - |
 
 ## Fontes
 | Obra (sigla) | Título | Página | Tipo |

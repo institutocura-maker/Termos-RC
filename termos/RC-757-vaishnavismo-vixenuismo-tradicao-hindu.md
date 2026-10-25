@@ -25,13 +25,13 @@ O **vaishnavismo** (ou vixenuísmo) é uma das principais tradições do hinduí
 
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Trimurti | RC-104 | relaciona-se-a |
-| Vishnu (Mavatna) | RC-135 | relaciona-se-a |
-| Krishna (avatar de Vishnu/Shiva) | RC-414 | relaciona-se-a |
-| Krishna (avatar de Vishnu/Shiva) | RC-414 | ← relaciona-se-a |
-| Mavátma / Mavatna / Mavat (Vishnu em condição Adhyatman) | RC-503 | relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Trimurti | RC-104 | relaciona-se-a | -> | - |
+| Vishnu (Mavatna) | RC-135 | relaciona-se-a | -> | - |
+| Krishna (avatar de Vishnu/Shiva) | RC-414 | relaciona-se-a | -> | - |
+| Krishna (avatar de Vishnu/Shiva) | RC-414 | relaciona-se-a | <- | - |
+| Mavátma / Mavatna / Mavat (Vishnu em condição Adhyatman) | RC-503 | relaciona-se-a | -> | - |
 
 ## Fontes
 

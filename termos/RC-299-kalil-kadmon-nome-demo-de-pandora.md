@@ -26,13 +26,13 @@ Nome demo de Pandora anterior à sua humanização: na cosmologia de Ellam, a ca
 - **[P2024-08-03] Proveniência:** palestra de Jan Val Ellam; transcrição STT pré-curada; devolutiva do curador registrada em 2026-08-20 (ficha autorizada).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Pandora | RC-086 | variação |
-| Val Dimon | RC-118 | variação |
-| Zeus | RC-145 | associado |
-| Descendência de Pirra (Pirra e Deucalião) | RC-298 | associado |
-| Desvio de Rota de Pandora (Contra o Plano de Zeus) | RC-806 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Pandora | RC-086 | variação | -> | - |
+| Val Dimon | RC-118 | variação | -> | - |
+| Zeus | RC-145 | associado | <-> | - |
+| Descendência de Pirra (Pirra e Deucalião) | RC-298 | associado | <-> | - |
+| Desvio de Rota de Pandora (Contra o Plano de Zeus) | RC-806 | associado | <-> | - |
 
 
 - Pandora — RC-086;

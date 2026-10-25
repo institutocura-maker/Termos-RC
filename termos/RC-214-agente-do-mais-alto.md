@@ -27,14 +27,14 @@ Na B001, aquele que «se faz Emissário do “Deus Criador”» — título do c
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Espiritualidade Superior | RC-059 | associado |
-| Jesus | RC-072 | associado |
-| Emissários da Espiritualidade Maior | RC-215 | associado |
-| Agente Secreto do Bem | RC-219 | associado |
-| O Enigma da Transfiguração | RC-366 | associado |
-| Assessoria Cósmica (equipes espirituais de Jesus) | RC-368 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Espiritualidade Superior | RC-059 | associado | <-> | - |
+| Jesus | RC-072 | associado | <-> | - |
+| Emissários da Espiritualidade Maior | RC-215 | associado | <-> | - |
+| Agente Secreto do Bem | RC-219 | associado | <-> | - |
+| O Enigma da Transfiguração | RC-366 | associado | <-> | - |
+| Assessoria Cósmica (equipes espirituais de Jesus) | RC-368 | associado | <-> | - |
 
 ## Fontes
 

@@ -27,14 +27,14 @@ O curso usa Nag Hammadi como **marco físico-histórico da recuperação da reve
 - **[P2023-12-25-04]** Aula 04 — O Nascimento do Cristianismo, confronto entre a revelação «de Madalena» e a versão paulina.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Arcontes (= Sophias e Indras; Conselho dos 70) | RC-474 | relaciona-se-a |
-| Arcontes (= Sophias e Indras; Conselho dos 70) | RC-474 | ← relaciona-se-a |
-| Pistis Sophia (feminino cósmico gnóstico) | RC-530 | relaciona-se-a |
-| Pistis Sophia (feminino cósmico gnóstico) | RC-530 | ← relaciona-se-a |
-| Hipóstase dos Arcontes (livro gnóstico; 'realidade dos regentes') | RC-770 | relaciona-se-a |
-| Hipóstase dos Arcontes (livro gnóstico; 'realidade dos regentes') | RC-770 | ← relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Arcontes (= Sophias e Indras; Conselho dos 70) | RC-474 | relaciona-se-a | -> | - |
+| Arcontes (= Sophias e Indras; Conselho dos 70) | RC-474 | relaciona-se-a | <- | - |
+| Pistis Sophia (feminino cósmico gnóstico) | RC-530 | relaciona-se-a | -> | - |
+| Pistis Sophia (feminino cósmico gnóstico) | RC-530 | relaciona-se-a | <- | - |
+| Hipóstase dos Arcontes (livro gnóstico; 'realidade dos regentes') | RC-770 | relaciona-se-a | -> | - |
+| Hipóstase dos Arcontes (livro gnóstico; 'realidade dos regentes') | RC-770 | relaciona-se-a | <- | - |
 
 - Hipóstase dos Arcontes — RC-770;
 - Gnose / revelação gnóstica — RC-474;

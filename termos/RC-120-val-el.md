@@ -24,15 +24,15 @@ Nome composto «Val El / Val Ellam»: a forma pela qual o codificador das Revela
 Registrado com uma única fonte (B031), o verbete tem valor sobretudo prosopográfico e de aparato: é o ponto de encontro entre o autor empírico (RC-071) e a sua caracterização dentro da narrativa cósmica. As relações apontam para a família Val (RC-109), para o próprio Jan Val Ellam (RC-071) e para os códigos RC-140, RC-068 e RC-083.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Hiperbórea | RC-068 | associado |
-| Jan Val Ellam (Rogério de Almeida Freitas) | RC-071 | associado |
-| Norte Divino | RC-083 | associado |
-| Val (Família Val) | RC-109 | associado |
-| Val Gevi | RC-125 | associado |
-| Yel Am / Yel Liam | RC-138 | associado |
-| Yel Liam | RC-140 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Hiperbórea | RC-068 | associado | <-> | - |
+| Jan Val Ellam (Rogério de Almeida Freitas) | RC-071 | associado | <-> | - |
+| Norte Divino | RC-083 | associado | <-> | - |
+| Val (Família Val) | RC-109 | associado | <-> | - |
+| Val Gevi | RC-125 | associado | <-> | - |
+| Yel Am / Yel Liam | RC-138 | associado | <-> | - |
+| Yel Liam | RC-140 | associado | <-> | - |
 
 - RC-109 — ver ficha correspondente
 - RC-071 — ver ficha correspondente

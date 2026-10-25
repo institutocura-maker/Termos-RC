@@ -27,17 +27,17 @@ atualizado = "2026-08-18"
 - **Frase final:** "somente a raça inabalável dos antigos setianos e gnósticos barbelos setianos emancipados poderá se habilitar para a função. Os demais precisam apenas não atrapalhar o processo."
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Sophia (Cristo Cósmico) | RC-009 | relaciona-se-a |
-| Jesus | RC-072 | relaciona-se-a |
-| Quarto Logos (Olm / Codificador de Zian) | RC-092 | relaciona-se-a |
-| Barbelo (Mãe-Pai primordial gnóstica) | RC-483 | relaciona-se-a |
-| Ekatma (Adam Kadmon — Homem Primordial) | RC-506 | associado |
-| Tikun Cósmico (restabelecimento da Criação) | RC-514 | relaciona-se-a |
-| Linhagem de Seth | RC-594 | relaciona-se-a |
-| Dignidade como Critério de Consciência | RC-722 | relaciona-se-a |
-| Genótipo da Gentileza (GG) | RC-748 | relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Sophia (Cristo Cósmico) | RC-009 | relaciona-se-a | -> | - |
+| Jesus | RC-072 | relaciona-se-a | -> | - |
+| Quarto Logos (Olm / Codificador de Zian) | RC-092 | relaciona-se-a | -> | - |
+| Barbelo (Mãe-Pai primordial gnóstica) | RC-483 | relaciona-se-a | -> | - |
+| Ekatma (Adam Kadmon — Homem Primordial) | RC-506 | associado | <-> | - |
+| Tikun Cósmico (restabelecimento da Criação) | RC-514 | relaciona-se-a | -> | - |
+| Linhagem de Seth | RC-594 | relaciona-se-a | -> | - |
+| Dignidade como Critério de Consciência | RC-722 | relaciona-se-a | -> | - |
+| Genótipo da Gentileza (GG) | RC-748 | relaciona-se-a | -> | - |
 
 ## Fontes
 

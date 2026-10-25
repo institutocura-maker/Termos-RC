@@ -22,11 +22,11 @@ O "monstro ciberenergético" — programador genético que opera em nível atôm
 Criado por autorização excepcional do curador (Devolutiva Trilogia TALM, O-3 — RC-772) a partir do material ART-2025-08-03 (Dossiê Fenvans).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Projeto Talm | RC-091 | relaciona-se-a |
-| Nanotecnologia Prânica (manipulação da matéria em escala atômica; base tecnológica do Projeto TALM) | RC-773 | relaciona-se-a |
-| Éon das Três Esferas (superloka/geno; repositório de tesouros genéticos do Projeto TALM) | RC-775 | trabalha-em |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Projeto Talm | RC-091 | relaciona-se-a | -> | - |
+| Nanotecnologia Prânica (manipulação da matéria em escala atômica; base tecnológica do Projeto TALM) | RC-773 | relaciona-se-a | -> | - |
+| Éon das Três Esferas (superloka/geno; repositório de tesouros genéticos do Projeto TALM) | RC-775 | contexto | -> | consolidação: "trabalha-em" → "contexto" |
 
 ## Seres Associados
 Mohen So (RC-081), Moros (RC-454), Anã (RC-777), Nornes (RC-467).

@@ -25,13 +25,13 @@ atualizado = "2026-08-25"
 No Livro 2 (B058), após a declaração da Revolta Capelina, Len Mion revela o plano: "O plano consiste em **irmos primeiro a Antares** e, de lá, visitarmos os outros planetas que também já o estão a aguardar" (p. 34). No capítulo 9, Yel Luzbel palestra em "um mundo do sistema de Antares" diante de milhões de biodemos — onde confirma o fenômeno da "massa energética". A nota de rodapé da p. 37 (ed. 2022, do adaptador — fonte Wikipédia) identifica a estrela: "supergigante vermelha na constelação de Scorpius. É a 162ª estrela mais brilhante do céu noturno."
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Rebelião de Lúcifer | RC-002 | envolve (sistemas atingidos pela Revolta — B057) |
-| Alt´Lam | RC-017 | relaciona-se-a (relação prévia na malha) |
-| Capela (Sistema) | RC-039 | relaciona-se-a |
-| Gron Mion | RC-067 | associado |
-| Tau Ceti (Sistema) | RC-103 | relaciona-se-a (destinos da turnê) |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Rebelião de Lúcifer | RC-002 | envolve | -> | qualificador preservado: sistemas atingidos pela Revolta — B057 |
+| Alt´Lam | RC-017 | relaciona-se-a | -> | qualificador preservado: relação prévia na malha |
+| Capela (Sistema) | RC-039 | relaciona-se-a | -> | - |
+| Gron Mion | RC-067 | associado | <-> | - |
+| Tau Ceti (Sistema) | RC-103 | relaciona-se-a | -> | qualificador preservado: destinos da turnê |
 
 ## Seres Associados
 Yel Luzbel (RC-078); Len Mion (RC-074); as "famílias" biodemos de Antares (audiência do cap. 9).

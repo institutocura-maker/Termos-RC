@@ -23,24 +23,24 @@ Princípio pelo qual uma consciência criadora e sua criação permanecem ligada
 A palestra cria explicitamente o neologismo e o aplica à queda de Prabrajna, ao colapso de Javé, ao genoma e à responsabilidade cocriadora.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Prabrajna | RC-152 | vincula |
-| Criação Indevida (Obra indevida) | RC-167 | vincula |
-| Matriz Modeladora / Matriz de Cocriação | RC-210 | ← relaciona-se-a |
-| DNA como Projeção Holográfica do Psiquismo do Criador | RC-217 | envolve |
-| En Ma (Emá / Emar — espírito-âncora) | RC-476 | repercute-em |
-| Teia quântica (o que sai de um ser volta para ele) | RC-559 | relaciona-se-a |
-| WD (variação de STT = Wyrd/Urd — fundido em RC-658) | RC-560 | relaciona-se-a |
-| Reunião Operativa Mental dos 43 Pashvnaj | RC-629 | associado |
-| Duas Pulsações da Criação (elétrons e antielétrons) | RC-636 | associado |
-| Wyrd / Urd (Teia do Destino) | RC-658 | relaciona-se-a |
-| Autofagia do Criador | RC-667 | associado |
-| Yoga Ancestral (Origem Cósmica) | RC-670 | ← relaciona-se-a |
-| Bolhas Psíquicas | RC-899 | associado |
-| Germe da Morte | RC-900 | associado |
-| Tions | RC-905 | associado |
-| Sonhos como Realidades Paralelas | RC-908 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Prabrajna | RC-152 | associado | <-> | consolidação: "vincula" → "associado" |
+| Criação Indevida (Obra indevida) | RC-167 | associado | <-> | consolidação: "vincula" → "associado" |
+| Matriz Modeladora / Matriz de Cocriação | RC-210 | relaciona-se-a | <- | - |
+| DNA como Projeção Holográfica do Psiquismo do Criador | RC-217 | envolve | -> | - |
+| En Ma (Emá / Emar — espírito-âncora) | RC-476 | causa | -> | consolidação: "repercute-em" → "causa" |
+| Teia quântica (o que sai de um ser volta para ele) | RC-559 | relaciona-se-a | -> | - |
+| WD (variação de STT = Wyrd/Urd — fundido em RC-658) | RC-560 | relaciona-se-a | -> | - |
+| Reunião Operativa Mental dos 43 Pashvnaj | RC-629 | associado | <-> | - |
+| Duas Pulsações da Criação (elétrons e antielétrons) | RC-636 | associado | <-> | - |
+| Wyrd / Urd (Teia do Destino) | RC-658 | relaciona-se-a | -> | - |
+| Autofagia do Criador | RC-667 | associado | <-> | - |
+| Yoga Ancestral (Origem Cósmica) | RC-670 | relaciona-se-a | <- | - |
+| Bolhas Psíquicas | RC-899 | associado | <-> | - |
+| Germe da Morte | RC-900 | associado | <-> | - |
+| Tions | RC-905 | associado | <-> | - |
+| Sonhos como Realidades Paralelas | RC-908 | associado | <-> | - |
 
 ## Seres Associados
 Consultar relações acima.

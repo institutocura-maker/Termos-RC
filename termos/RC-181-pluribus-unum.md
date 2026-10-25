@@ -27,10 +27,10 @@ Expressão latina que a obra verte por «DE MUITOS, UM!» e apresenta como **uma
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Colmeia Universal | RC-174 | associado |
-| Unus Pluribum | RC-182 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Colmeia Universal | RC-174 | associado | <-> | - |
+| Unus Pluribum | RC-182 | associado | <-> | - |
 
 ## Fontes
 

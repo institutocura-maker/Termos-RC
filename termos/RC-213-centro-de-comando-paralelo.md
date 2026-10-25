@@ -27,12 +27,12 @@ Na B001, a realidade — ou o lugar — «de onde é que o Senhor Javé atua», 
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | associado |
-| Anjos clones | RC-019 | associado |
-| Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | associado |
-| Criador refém das próprias criaturas | RC-196 | ← variação |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Javé | RC-001 | associado | <-> | - |
+| Anjos clones | RC-019 | associado | <-> | - |
+| Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | associado | <-> | - |
+| Criador refém das próprias criaturas | RC-196 | variação | <- | - |
 
 ## Fontes
 

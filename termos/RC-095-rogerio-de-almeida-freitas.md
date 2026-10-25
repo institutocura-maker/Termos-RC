@@ -27,10 +27,10 @@ O nome civil do codificador das Revelações Cósmicas, conhecido pelo pseudôni
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Jan Val Ellam (Rogério de Almeida Freitas) | RC-071 | ← variação |
-| Revelação Cósmica (conceito) | RC-094 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Jan Val Ellam (Rogério de Almeida Freitas) | RC-071 | variação | <- | - |
+| Revelação Cósmica (conceito) | RC-094 | associado | <-> | - |
 
 ## Fontes
 

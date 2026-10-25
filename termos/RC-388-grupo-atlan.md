@@ -24,14 +24,14 @@ O **Grupo Atlan** é o grupo de estudos mediúnicos do qual Jan Val Ellam partic
 O Esclarecimento do B006 narra a origem: "No início, era a Casa de Lucas. Centro Espírita administrado por um grupo de amigos... Com a evolução dos trabalhos, seres cósmicos de naipe vibratório algo diferente... se fizeram presentes e, com isso, alguns mitos e limites do movimento espírita foram por nós ultrapassados... procuramos um outro espaço, mudando, a partir de então, a denominação — tanto do nosso grupo como do nosso recanto de estudo — para Atlan." O Grupo Atlan é o ambiente onde as mensagens de "Nos Bastidores da Luz" (e outras obras) foram recebidas — e o nome "Atlan" conecta-se à base luciferiana Atlan (RC-028) e à assinatura de Ellam ("Atlan, data").
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Atlan | RC-028 | associado-a |
-| Jan Val Ellam (Rogério de Almeida Freitas) | RC-071 | fundado-por |
-| Revelação Cósmica (conceito) | RC-094 | associado |
-| Seres Espirituais | RC-100 | contexto |
-| Casa de Lucas (origem do Grupo Atlan) | RC-389 | origina-em |
-| Espíritos comunicantes do Grupo Atlan | RC-390 | inclui |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Atlan | RC-028 | associado | <-> | - |
+| Jan Val Ellam (Rogério de Almeida Freitas) | RC-071 | origina | <- | consolidação: "fundado-por" → "origina"; direção invertida (forma passiva/inversa) |
+| Revelação Cósmica (conceito) | RC-094 | associado | <-> | - |
+| Seres Espirituais | RC-100 | contexto | -> | - |
+| Casa de Lucas (origem do Grupo Atlan) | RC-389 | origina | -> | consolidação: "origina-em" → "origina" |
+| Espíritos comunicantes do Grupo Atlan | RC-390 | inclui | -> | - |
 
 ## Seres Associados
 Jan Val Ellam (RC-071); espíritos comunicantes: Enéas (RC-393), Rochester, Mandreya Ramataiana (RC-394), Yammes, Francisco, Teodoro, Pe. Fratélio, François.

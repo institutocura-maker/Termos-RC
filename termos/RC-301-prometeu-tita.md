@@ -25,25 +25,25 @@ atualizado = "2026-10-23"
 Versão primária em B020/B021 (Ellam). No B087 (psicografia de Jeane Miranda — versão paralela): Prometeu cria "criaturas de barro" com materiais "que nem vou descrever" e deixa-as à vista para o irmão Epimeteu aplicar as "poções" (p. 26); "fazia algo e Epimeteu vinha depois e modificava" — o método experimental alternado (p. 25); as "peças" contra Zeus ("ele lhe pregaria uma peça para que Zeus não esquecesse quem era o mais esperto", p. 32); o pacto com Pandora ("Trabalharemos em conjunto com esse propósito? Seremos parceiros de ideal?", p. 44); o "marco evolutivo" ("em cima dos ombros dessa espécie tão grotesca perduram várias possibilidades de 'marco evolutivo' nunca antes visto", p. 58); a eliminação das "fêmeas-testes" ("os fins justificam os meios" — p. 61, com a nota 4: "Prometeu não sabia que essas duas fêmeas tinham sido criadas por Atena"); o pressentimento do castigo (p. 53); a doutrina da reencarnação como única evolução para as estirpes falidas ("não mais existir e, depois, retornar à vida nesta Criação sob uma nova forma corporal, um 'novo modelo de existir'", p. 59).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Pandora | RC-086 | parceiro-de-ideal (o pacto) |
-| Zeus | RC-145 | opõe-se-a |
-| Timé (de um deus) | RC-293 | ← corresponde-a |
-| Descendência de Pirra (Pirra e Deucalião) | RC-298 | associado |
-| Epimeteu (titã) | RC-302 | ← é-um |
-| Deucalião | RC-304 | ver malha |
-| Asuras (= Titãs) | RC-465 | é-um |
-| Revolução Inacabada de Prometeu e Pandora | RC-788 | associado |
-| Centro Alquímico-Farmacopédico | RC-789 | associado |
-| Quinaras / Centauros (Seres Reais que Hoje Nascem Humanos) | RC-790 | associado |
-| Lamúria dos Deuses (Diagnóstico de Prometeu) | RC-791 | associado |
-| Fogo que se Apaga (Fogo de Prometeu Hoje) | RC-792 | associado |
-| Judaísmo como Destruidor do Mito de Pandora/Lilith | RC-796 | associado |
-| Desvio de Rota de Pandora (Contra o Plano de Zeus) | RC-806 | associado |
-| Prometeu como Saca-Nica dos Olímpicos | RC-812 | associado |
-| Prole sem Face (Humanos Modificáveis sem Face Definida) | RC-819 | associado |
-| Cronos (titã) | RC-841 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Pandora | RC-086 | associado | <-> | qualificador preservado: o pacto; consolidação: "parceiro-de-ideal" → "associado" |
+| Zeus | RC-145 | opõe-se-a | -> | - |
+| Timé (de um deus) | RC-293 | variação | <- | consolidação: "corresponde-a" → "variação" |
+| Descendência de Pirra (Pirra e Deucalião) | RC-298 | associado | <-> | - |
+| Epimeteu (titã) | RC-302 | é-um | <- | - |
+| Deucalião | RC-304 | relaciona-se-a | -> | texto bruto original: ver malha |
+| Asuras (= Titãs) | RC-465 | é-um | -> | - |
+| Revolução Inacabada de Prometeu e Pandora | RC-788 | associado | <-> | - |
+| Centro Alquímico-Farmacopédico | RC-789 | associado | <-> | - |
+| Quinaras / Centauros (Seres Reais que Hoje Nascem Humanos) | RC-790 | associado | <-> | - |
+| Lamúria dos Deuses (Diagnóstico de Prometeu) | RC-791 | associado | <-> | - |
+| Fogo que se Apaga (Fogo de Prometeu Hoje) | RC-792 | associado | <-> | - |
+| Judaísmo como Destruidor do Mito de Pandora/Lilith | RC-796 | associado | <-> | - |
+| Desvio de Rota de Pandora (Contra o Plano de Zeus) | RC-806 | associado | <-> | - |
+| Prometeu como Saca-Nica dos Olímpicos | RC-812 | associado | <-> | - |
+| Prole sem Face (Humanos Modificáveis sem Face Definida) | RC-819 | associado | <-> | - |
+| Cronos (titã) | RC-841 | associado | <-> | - |
 
 ## Seres Associados
 Epimeteu (RC-302, o irmão); Pandora (RC-086, a discípula); Zeus (RC-145); Atena (as "fêmeas-testes" criadas por ela).

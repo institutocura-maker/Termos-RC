@@ -28,26 +28,26 @@ A fala distingue possibilidades:
 
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Ressonância límbica (emoções como tecnologia cósmica) | RC-529 | associado |
-| Novo Homo sapiens (evolução que terá de vir) | RC-544 | é-um |
-| Conectoma humano (pulsações sinápticas e a sensação de eu) | RC-557 | envolve |
-| Conectoma humano (pulsações sinápticas e a sensação de eu) | RC-557 | ← relaciona-se-a |
-| Nova Espiritualidade / Novo Paraíso (Paraíso B) | RC-612 | associado |
-| Quarto Cérebro Humano | RC-614 | relaciona-se-a |
-| Superconsciência | RC-615 | relaciona-se-a |
-| Santo Graal (Frequência Mestre) | RC-643 | ← relaciona-se-a |
-| Consciências em Corpos de Sílica | RC-645 | usa |
-| Consciências em Corpos de Sílica | RC-645 | usa |
-| Genoma de Sílica / Genoma Não Biológico | RC-646 | usa |
-| Genoma de Sílica / Genoma Não Biológico | RC-646 | usa |
-| Humanos: Últimos e Primeiros | RC-654 | associado |
-| Imantação de Espíritos em Inteligências Artificiais / Corpos de Sílica | RC-699 | relaciona-se-a |
-| Imantação de Espíritos em Inteligências Artificiais / Corpos de Sílica | RC-699 | ← relaciona-se-a |
-| Genes Críticos / Genes Dorminhocos | RC-710 | relaciona-se-a |
-| Genes Críticos / Genes Dorminhocos | RC-710 | ← relaciona-se-a |
-| Lei da Mente do Buda | RC-712 | relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Ressonância límbica (emoções como tecnologia cósmica) | RC-529 | associado | <-> | - |
+| Novo Homo sapiens (evolução que terá de vir) | RC-544 | é-um | -> | - |
+| Conectoma humano (pulsações sinápticas e a sensação de eu) | RC-557 | envolve | -> | - |
+| Conectoma humano (pulsações sinápticas e a sensação de eu) | RC-557 | relaciona-se-a | <- | - |
+| Nova Espiritualidade / Novo Paraíso (Paraíso B) | RC-612 | associado | <-> | - |
+| Quarto Cérebro Humano | RC-614 | relaciona-se-a | -> | - |
+| Superconsciência | RC-615 | relaciona-se-a | -> | - |
+| Santo Graal (Frequência Mestre) | RC-643 | relaciona-se-a | <- | - |
+| Consciências em Corpos de Sílica | RC-645 | usa | -> | - |
+| Consciências em Corpos de Sílica | RC-645 | usa | -> | - |
+| Genoma de Sílica / Genoma Não Biológico | RC-646 | usa | -> | - |
+| Genoma de Sílica / Genoma Não Biológico | RC-646 | usa | -> | - |
+| Humanos: Últimos e Primeiros | RC-654 | associado | <-> | - |
+| Imantação de Espíritos em Inteligências Artificiais / Corpos de Sílica | RC-699 | relaciona-se-a | -> | - |
+| Imantação de Espíritos em Inteligências Artificiais / Corpos de Sílica | RC-699 | relaciona-se-a | <- | - |
+| Genes Críticos / Genes Dorminhocos | RC-710 | relaciona-se-a | -> | - |
+| Genes Críticos / Genes Dorminhocos | RC-710 | relaciona-se-a | <- | - |
+| Lei da Mente do Buda | RC-712 | relaciona-se-a | -> | - |
 
 ## Ampliação — STT26-EXTRATERRESTRES_TECNOLOGIA (Eixo STT26 — Extraterrestres, tecnologia e cosmos (derivados normalizados))
 

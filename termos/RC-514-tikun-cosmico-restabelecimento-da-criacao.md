@@ -24,34 +24,34 @@ O "conserto" da Criação e a recuperação do Criador — conceito da Cabala (T
 
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Reintegração Cósmica | RC-003 | relaciona-se-a |
-| Pandora | RC-086 | relaciona-se-a |
-| Quarto Logos (Olm / Codificador de Zian) | RC-092 | relaciona-se-a |
-| Criação Indevida (Obra indevida) | RC-167 | associado |
-| DNA como Projeção Holográfica do Psiquismo do Criador | RC-217 | atua-em |
-| Razão Filosófica dos Terráqueos | RC-231 | usa |
-| Enigma da Esperança (Caixa de Pandora) | RC-287 | associado |
-| Favor Divino (conceito invertido) | RC-332 | relaciona-se-a |
-| Coconstrutores da Obra (tikun) | RC-545 | ← relaciona-se-a |
-| Coconstrutores da Obra (tikun) | RC-545 | relaciona-se-a |
-| Fios soltos (improviso humano × robô) | RC-564 | ← relaciona-se-a |
-| Linhagem de Seth | RC-594 | ← relaciona-se-a |
-| Moksha | RC-618 | ← relaciona-se-a |
-| Ressurreição do Cadáver do Criador | RC-638 | ← relaciona-se-a |
-| Santo Graal (Frequência Mestre) | RC-643 | ← relaciona-se-a |
-| Destino das Mônadas após o Tikun | RC-653 | ← sucede |
-| Destino das Mônadas após o Tikun | RC-653 | ← sucede |
-| Revelação de Ifá e Destinação dos Seres | RC-655 | ← relaciona-se-a |
-| Primado da Informação | RC-707 | ← usado-por |
-| Primado da Informação | RC-707 | usa |
-| Taumaturgia Genético-Química | RC-713 | ← relaciona-se-a |
-| Taumaturgia Genético-Química | RC-713 | relaciona-se-a |
-| Dignidade como Critério de Consciência | RC-722 | ← necessário-a |
-| Quarto Cérebro (centro de sabedoria vibracional) | RC-758 | ← relaciona-se-a |
-| A Raça Inabalável dos Sethianos Emancipados | RC-766 | ← relaciona-se-a |
-| Ocaso do Criador (a segunda derrocada do criador reconstruído) | RC-863 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Reintegração Cósmica | RC-003 | relaciona-se-a | -> | - |
+| Pandora | RC-086 | relaciona-se-a | -> | - |
+| Quarto Logos (Olm / Codificador de Zian) | RC-092 | relaciona-se-a | -> | - |
+| Criação Indevida (Obra indevida) | RC-167 | associado | <-> | - |
+| DNA como Projeção Holográfica do Psiquismo do Criador | RC-217 | contexto | -> | consolidação: "atua-em" → "contexto" |
+| Razão Filosófica dos Terráqueos | RC-231 | usa | -> | - |
+| Enigma da Esperança (Caixa de Pandora) | RC-287 | associado | <-> | - |
+| Favor Divino (conceito invertido) | RC-332 | relaciona-se-a | -> | - |
+| Coconstrutores da Obra (tikun) | RC-545 | relaciona-se-a | <- | - |
+| Coconstrutores da Obra (tikun) | RC-545 | relaciona-se-a | -> | - |
+| Fios soltos (improviso humano × robô) | RC-564 | relaciona-se-a | <- | - |
+| Linhagem de Seth | RC-594 | relaciona-se-a | <- | - |
+| Moksha | RC-618 | relaciona-se-a | <- | - |
+| Ressurreição do Cadáver do Criador | RC-638 | relaciona-se-a | <- | - |
+| Santo Graal (Frequência Mestre) | RC-643 | relaciona-se-a | <- | - |
+| Destino das Mônadas após o Tikun | RC-653 | sucede | <- | - |
+| Destino das Mônadas após o Tikun | RC-653 | sucede | <- | - |
+| Revelação de Ifá e Destinação dos Seres | RC-655 | relaciona-se-a | <- | - |
+| Primado da Informação | RC-707 | usa | -> | consolidação: "usado-por" → "usa"; direção invertida (forma passiva/inversa) |
+| Primado da Informação | RC-707 | usa | -> | - |
+| Taumaturgia Genético-Química | RC-713 | relaciona-se-a | <- | - |
+| Taumaturgia Genético-Química | RC-713 | relaciona-se-a | -> | - |
+| Dignidade como Critério de Consciência | RC-722 | requer | <- | consolidação: "necessário-a" → "requer" |
+| Quarto Cérebro (centro de sabedoria vibracional) | RC-758 | relaciona-se-a | <- | - |
+| A Raça Inabalável dos Sethianos Emancipados | RC-766 | relaciona-se-a | <- | - |
+| Ocaso do Criador (a segunda derrocada do criador reconstruído) | RC-863 | associado | <-> | - |
 
 ## Fontes
 

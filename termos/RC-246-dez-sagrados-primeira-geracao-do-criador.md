@@ -27,11 +27,11 @@ Na B015, os **dez seres primordiais da primeira geração** gerada pelo Criador 
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Criador (Brahma/Javé/Demiurgo) | RC-041 | associado |
-| En Drel | RC-055 | mentor-de |
-| Divindades Excelsas | RC-206 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Criador (Brahma/Javé/Demiurgo) | RC-041 | associado | <-> | - |
+| En Drel | RC-055 | controla | -> | consolidação: "mentor-de" → "controla" |
+| Divindades Excelsas | RC-206 | associado | <-> | - |
 
 ## Fontes
 

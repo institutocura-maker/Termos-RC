@@ -22,12 +22,12 @@ Forma preferida: Binah.
 O Mistério da Árvore da Vida e a Urdidura de Metatron.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Shiva (Savna) | RC-102 | correspondência-em-teologia-comparada-de |
-| Kether (Javé na Cabala) | RC-261 | — |
-| Sefirot / Árvore da Vida | RC-263 | é-um |
-| Hochmah (2ª Sefirah — Sabedoria; = Sophia) | RC-565 | — |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Shiva (Savna) | RC-102 | variação | -> | consolidação: "correspondência-em-teologia-comparada-de" → "variação" |
+| Kether (Javé na Cabala) | RC-261 | - | - | sem relação informada; 17 linhas são registros de fonte com 4 colunas |
+| Sefirot / Árvore da Vida | RC-263 | é-um | -> | - |
+| Hochmah (2ª Sefirah — Sabedoria; = Sophia) | RC-565 | - | - | sem relação informada; 17 linhas são registros de fonte com 4 colunas |
 
 ## Seres Associados
 Consultar Base.

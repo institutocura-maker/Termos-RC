@@ -28,15 +28,15 @@ Estrutura epistemológica apresentada por Jan Val Ellam na palestra "Thot, o Eni
 
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Quarto Logos (Olm / Codificador de Zian) | RC-092 | relaciona-se-a |
-| Planos de Existência da Cabala (Atziluth, Briah, Yetzirah, Assiah) | RC-264 | relaciona-se-a |
-| O Ser Humano Emancipado | RC-372 | relaciona-se-a |
-| Hermes Trismegisto (= Ningishzidda/Thoth/Quetzalcóatl) | RC-463 | relaciona-se-a |
-| Ciência Pessoal / Doutrina da Própria Personalidade | RC-695 | relaciona-se-a |
-| As Cinco Lentes da Realidade | RC-761 | relaciona-se-a |
-| As Sete Leis Herméticas | RC-763 | ← relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Quarto Logos (Olm / Codificador de Zian) | RC-092 | relaciona-se-a | -> | - |
+| Planos de Existência da Cabala (Atziluth, Briah, Yetzirah, Assiah) | RC-264 | relaciona-se-a | -> | - |
+| O Ser Humano Emancipado | RC-372 | relaciona-se-a | -> | - |
+| Hermes Trismegisto (= Ningishzidda/Thoth/Quetzalcóatl) | RC-463 | relaciona-se-a | -> | - |
+| Ciência Pessoal / Doutrina da Própria Personalidade | RC-695 | relaciona-se-a | -> | - |
+| As Cinco Lentes da Realidade | RC-761 | relaciona-se-a | -> | - |
+| As Sete Leis Herméticas | RC-763 | relaciona-se-a | <- | - |
 
 ## Fontes
 

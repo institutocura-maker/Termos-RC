@@ -23,19 +23,19 @@ Veículo plasmático produzido no mergulho no universo antimaterial, associado �
 É descrito em Vishnu/Mohen So e contraposto aos corpos biológicos; inclui plasma, duplo etéreo e condições de manifestação.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | relaciona-se-a |
-| Adhydaiva | RC-014 | relaciona-se-a |
-| Demos | RC-049 | relaciona-se-a |
-| Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | ocorre-em |
-| Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | ocorre-em |
-| Corpo Átmico | RC-623 | relaciona-se-a |
-| Corpo Manásico / Corpo Mental | RC-625 | relaciona-se-a |
-| Corpos Fenvã (terceira forma de vida do universo vizinho) | RC-769 | ← relaciona-se-a |
-| Corpos Fenvã (terceira forma de vida do universo vizinho) | RC-769 | relaciona-se-a |
-| Extísicos (seres do universo vizinho, não biológicos, compostos de plasma) | RC-861 | associado |
-| Fórmulas Mentais (o código dos demos, contraposto ao DNA humano) | RC-870 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Javé | RC-001 | relaciona-se-a | -> | - |
+| Adhydaiva | RC-014 | relaciona-se-a | -> | - |
+| Demos | RC-049 | relaciona-se-a | -> | - |
+| Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | contexto | -> | consolidação: "ocorre-em" → "contexto" |
+| Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | contexto | -> | consolidação: "ocorre-em" → "contexto" |
+| Corpo Átmico | RC-623 | relaciona-se-a | -> | - |
+| Corpo Manásico / Corpo Mental | RC-625 | relaciona-se-a | -> | - |
+| Corpos Fenvã (terceira forma de vida do universo vizinho) | RC-769 | relaciona-se-a | <- | - |
+| Corpos Fenvã (terceira forma de vida do universo vizinho) | RC-769 | relaciona-se-a | -> | - |
+| Extísicos (seres do universo vizinho, não biológicos, compostos de plasma) | RC-861 | associado | <-> | - |
+| Fórmulas Mentais (o código dos demos, contraposto ao DNA humano) | RC-870 | associado | <-> | - |
 
 ## Seres Associados
 Consultar relações acima.

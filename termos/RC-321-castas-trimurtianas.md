@@ -24,21 +24,21 @@ O sistema de castas conforme revelado em *O Dharma e as Castas Hindus* (B023, ca
 O sistema de castas chegaria aos humanos via descendentes de Gomer (ancestral dos arianos) e a civilização Saraswati, da qual emergiria o reino de Bharata (Índia). As castas arianas (hoje hindus) foram "sempre utilizadas para o refino de certas áreas do genoma demo-homo". A estrutura varna (brâmanes, xátrias, vaixás, sudras) é a expressão terrena desse sistema — ligada à timé/varna dos deuses (B021).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Hiperbórea | RC-068 | origina-em |
-| Revelação Cósmica (conceito) | RC-094 | associado |
-| Trimurti | RC-104 | associado |
-| Fator Dharma | RC-319 | relaciona-se-a |
-| Senhores do Dharma (= Senhores da Lila / Trimurti) | RC-320 | associado |
-| Dharma e Castas (origem demo) | RC-322 | associado |
-| Genética Totalitária | RC-325 | instrumento |
-| Homo hierarchicus | RC-327 | efeito |
-| Kumari Kandan (tradição) | RC-329 | origina-em |
-| Civilização Saraswati | RC-330 | contexto |
-| Rishis | RC-586 | associado |
-| Disforia de gênio (a confiança ilimitada na pretensa capacidade) | RC-878 | associado |
-| Savant (a genialidade preservada além do autismo num grau; figura útil no final) | RC-885 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Hiperbórea | RC-068 | origina | -> | consolidação: "origina-em" → "origina" |
+| Revelação Cósmica (conceito) | RC-094 | associado | <-> | - |
+| Trimurti | RC-104 | associado | <-> | - |
+| Fator Dharma | RC-319 | relaciona-se-a | -> | - |
+| Senhores do Dharma (= Senhores da Lila / Trimurti) | RC-320 | associado | <-> | - |
+| Dharma e Castas (origem demo) | RC-322 | associado | <-> | - |
+| Genética Totalitária | RC-325 | usa | -> | consolidação: "instrumento" → "usa" |
+| Homo hierarchicus | RC-327 | causa | -> | consolidação: "efeito" → "causa" |
+| Kumari Kandan (tradição) | RC-329 | origina | -> | consolidação: "origina-em" → "origina" |
+| Civilização Saraswati | RC-330 | contexto | -> | - |
+| Rishis | RC-586 | associado | <-> | - |
+| Disforia de gênio (a confiança ilimitada na pretensa capacidade) | RC-878 | associado | <-> | - |
+| Savant (a genialidade preservada além do autismo num grau; figura útil no final) | RC-885 | associado | <-> | - |
 
 ## Seres Associados
 Trimurti (RC-104); Senhores do Dharma (RC-320); Seres Terrenos (RC-099).

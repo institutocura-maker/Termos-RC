@@ -24,20 +24,20 @@ Tese (leitura do autor, palestra **P2025-04-06**, U0006) de que o **judaísmo** 
 Aparece em **P2025-04-06**, U0006, na conclusão da palestra. Contexto: depois de Pandora desistir e morrer "mal", o autor identifica o **judaísmo** como o **ponto de virada** que destruiu o mito. "a gente entende como religião surgiu o judaísmo [...] e foi destruindo todas essas questões e transformando a história de Eva nessa confusão toda, sumindo com as notícias para tirar o mito de Lilif, o mito de Pandora."
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Pandora | RC-086 | destruiu-mito-de |
-| Ulsh | RC-105 | inclui |
-| Eva (figura) | RC-189 | reescreveu-história-de |
-| Linhagem dos Patriarcas Hebreus | RC-270 | associado |
-| Prometeu (titã) | RC-301 | reescreveu-história-de |
-| Adhytia (nível hierárquico) | RC-308 | destruiu-mito-de |
-| Lavagem Cerebral (condicionamento) | RC-335 | é-mantida-por |
-| Racionalidade Humana Trucidada | RC-786 | é-parte-de |
-| Egrégora de Lilith / Noreia (Loop Mental Vivo) | RC-787 | ativou |
-| Lilith como Rakshasa (Espécie Não-Humana) | RC-794 | associado |
-| Culto a Lilith (Transformação em Deusa Lil Babilônica) | RC-813 | associado |
-| Patriarcado desde Pandora (Origem no Feminino, Dominação pelo Masculino) | RC-818 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Pandora | RC-086 | danifica | -> | consolidação: "destruiu-mito-de" → "danifica" |
+| Ulsh | RC-105 | inclui | -> | - |
+| Eva (figura) | RC-189 | explica | -> | consolidação: "reescreveu-história-de" → "explica" |
+| Linhagem dos Patriarcas Hebreus | RC-270 | associado | <-> | - |
+| Prometeu (titã) | RC-301 | explica | -> | consolidação: "reescreveu-história-de" → "explica" |
+| Adhytia (nível hierárquico) | RC-308 | danifica | -> | consolidação: "destruiu-mito-de" → "danifica" |
+| Lavagem Cerebral (condicionamento) | RC-335 | controla | <- | consolidação: "é-mantida-por" → "controla"; direção invertida (forma passiva/inversa) |
+| Racionalidade Humana Trucidada | RC-786 | parte-de | -> | consolidação: "é-parte-de" → "parte-de" |
+| Egrégora de Lilith / Noreia (Loop Mental Vivo) | RC-787 | relaciona-se-a | -> | consolidação: "ativou" → "relaciona-se-a" |
+| Lilith como Rakshasa (Espécie Não-Humana) | RC-794 | associado | <-> | - |
+| Culto a Lilith (Transformação em Deusa Lil Babilônica) | RC-813 | associado | <-> | - |
+| Patriarcado desde Pandora (Origem no Feminino, Dominação pelo Masculino) | RC-818 | associado | <-> | - |
 
 ## Seres Associados
 - **Judaísmo** (religião) — quem destruiu o mito

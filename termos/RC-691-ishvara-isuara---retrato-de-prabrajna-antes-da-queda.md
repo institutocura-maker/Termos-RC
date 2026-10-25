@@ -41,23 +41,23 @@ O curador fixou **Satchidananda** como a correção das formas severamente defor
 Satchidananda é mantido, neste ciclo, dentro da explicação de Ishvara e da cadeia Nidana–DNA–reconstrução, **sem código independente**.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Prabrajna | RC-152 | retrata-antes-da-queda |
-| Prabrajna | RC-152 | ← retratado-em |
-| Prabrajna | RC-152 | relaciona-se-a |
-| Nidana (ovo cósmico) | RC-154 | relaciona-se-a |
-| Memória Quântica dos Elétrons | RC-161 | codificado-em |
-| Mente Universal (Emergente) | RC-163 | relaciona-se-a |
-| Corpo Manásico / Corpo Mental | RC-625 | relaciona-se-a |
-| Duas Pulsações da Criação (elétrons e antielétrons) | RC-636 | ← relaciona-se-a |
-| Ressurreição do Cadáver do Criador | RC-638 | serve-de-modelo-para |
-| Ressurreição do Cadáver do Criador | RC-638 | ← tem-como-modelo |
-| Ressurreição do Cadáver do Criador | RC-638 | ← relaciona-se-a |
-| Colapso do Caos Organizado | RC-690 | ← relaciona-se-a |
-| Evolução da Informação, não das Espécies | RC-693 | relacionado-a |
-| Lei da Mente do Buda | RC-712 | relaciona-se-a |
-| Satchidanandaghana (super código genômico do Projeto TALM) | RC-838 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Prabrajna | RC-152 | representa | -> | consolidação: "retrata-antes-da-queda" → "representa" |
+| Prabrajna | RC-152 | contexto | <- | consolidação: "retratado-em" → "contexto" |
+| Prabrajna | RC-152 | relaciona-se-a | -> | - |
+| Nidana (ovo cósmico) | RC-154 | relaciona-se-a | -> | - |
+| Memória Quântica dos Elétrons | RC-161 | usa | -> | consolidação: "codificado-em" → "usa" |
+| Mente Universal (Emergente) | RC-163 | relaciona-se-a | -> | - |
+| Corpo Manásico / Corpo Mental | RC-625 | relaciona-se-a | -> | - |
+| Duas Pulsações da Criação (elétrons e antielétrons) | RC-636 | relaciona-se-a | <- | - |
+| Ressurreição do Cadáver do Criador | RC-638 | variação | -> | consolidação: "serve-de-modelo-para" → "variação" |
+| Ressurreição do Cadáver do Criador | RC-638 | variação | <- | consolidação: "tem-como-modelo" → "variação" |
+| Ressurreição do Cadáver do Criador | RC-638 | relaciona-se-a | <- | - |
+| Colapso do Caos Organizado | RC-690 | relaciona-se-a | <- | - |
+| Evolução da Informação, não das Espécies | RC-693 | relaciona-se-a | -> | consolidação: "relacionado-a" → "relaciona-se-a" |
+| Lei da Mente do Buda | RC-712 | relaciona-se-a | -> | - |
+| Satchidanandaghana (super código genômico do Projeto TALM) | RC-838 | associado | <-> | - |
 
 ## Fontes
 | Fonte | Localização | Tipo |

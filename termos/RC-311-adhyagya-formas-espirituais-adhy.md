@@ -25,15 +25,15 @@ Formas espirituais dos seres Adhy mencionadas em *Inquisição Trimurtiana* (B02
 Na Introdução do B022, Ellam conversa com as formas Adhyagya de Vishnu e Shiva, que o instruem sobre a Criação Bipartida, a queda de Adhyshprabrajna e o drama da Trimurti. O termo conecta-se à taxonomia Adhy: Adhyagia (RC-012, condição da alma pura), Adhyatman (RC-013, corpo causal), Adhydaiva (RC-014, formas caídas), Adhyajna (RC-016, avatares) — e agora **Adhyagya** como as formas espirituais/consciências que respondem pelas expressões Adhydaiva.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Adhyagia | RC-012 | é-um |
-| Adhyatman | RC-013 | relaciona-se-a |
-| Adhydaiva | RC-014 | responde-por |
-| Shiva (Savna) | RC-102 | responde-por |
-| Vishnu (Mavatna) | RC-135 | responde-por |
-| Adhytia (nível hierárquico) | RC-308 | relaciona-se-a |
-| Ordem dos Indecifráveis | RC-309 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Adhyagia | RC-012 | é-um | -> | - |
+| Adhyatman | RC-013 | relaciona-se-a | -> | - |
+| Adhydaiva | RC-014 | comunica | <- | consolidação: "responde-por" → "comunica"; direção invertida (forma passiva/inversa) |
+| Shiva (Savna) | RC-102 | comunica | <- | consolidação: "responde-por" → "comunica"; direção invertida (forma passiva/inversa) |
+| Vishnu (Mavatna) | RC-135 | comunica | <- | consolidação: "responde-por" → "comunica"; direção invertida (forma passiva/inversa) |
+| Adhytia (nível hierárquico) | RC-308 | relaciona-se-a | -> | - |
+| Ordem dos Indecifráveis | RC-309 | associado | <-> | - |
 
 ## Seres Associados
 Vishnu (RC-135); Shiva (RC-102); gênero Adhy (RC-011).

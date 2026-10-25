@@ -27,10 +27,10 @@ Quarta era (B024 §16.4), de 3,2 a 4,3 bilhões de anos após o início da Cria�
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Aya e Aye | RC-031 | associado |
-| Eras da Criação (10 eras) | RC-155 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Aya e Aye | RC-031 | associado | <-> | - |
+| Eras da Criação (10 eras) | RC-155 | associado | <-> | - |
 
 ## Fontes
 

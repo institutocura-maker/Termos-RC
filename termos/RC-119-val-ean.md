@@ -27,9 +27,9 @@ Biodemo da Família Val dotado de senso prático, de visão estratégica singula
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Val (Família Val) | RC-109 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Val (Família Val) | RC-109 | associado | <-> | - |
 
 ## Fontes
 

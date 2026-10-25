@@ -72,35 +72,35 @@ A palestra conserva duas formulações:
 Seus descendentes teriam atravessado os portais para procurá-la. As duas possibilidades permanecem abertas.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Pandora como Serpente do Éden | RC-283 | influencia |
-| Tirthankaras (Rishabh Dev, Jina Mahavira) | RC-397 | relaciona-se-a |
-| Xamanismo Cósmico (comunicação e deslacre) | RC-577 | relaciona-se-a |
-| Xamanismo Cósmico (comunicação e deslacre) | RC-577 | ← relaciona-se-a |
-| Áurea Catena | RC-663 | relaciona-se-a |
-| Som da Flauta / Som da Falta | RC-668 | relaciona-se-a |
-| Som da Flauta / Som da Falta | RC-668 | ← relaciona-se-a |
-| Yoga Ancestral (Origem Cósmica) | RC-670 | relaciona-se-a |
-| Yoga Ancestral (Origem Cósmica) | RC-670 | ← relaciona-se-a |
-| Farmacopeia Ancestral Extraterrestre | RC-687 | relaciona-se-a |
-| Farmacopeia Ancestral Extraterrestre | RC-687 | ← relaciona-se-a |
-| Yajna (ritual de sacrifício/fogo) | RC-688 | relaciona-se-a |
-| Geração Regenerada de Brahma | RC-696 | ← relaciona-se-a |
-| Geração Regenerada de Brahma | RC-696 | parte-de |
-| Mão Invisível Multiforme / Conselho das Nagas | RC-697 | ← inclui |
-| Mão Invisível Multiforme / Conselho das Nagas | RC-697 | atua-por |
-| Mão Invisível Multiforme / Conselho das Nagas | RC-697 | ← relaciona-se-a |
-| Mão Invisível Multiforme / Conselho das Nagas | RC-697 | relaciona-se-a |
-| Cessão Consciente do DNA Humano | RC-698 | ← relaciona-se-a |
-| Kashyapa | RC-700 | ← gera-linhagem-de |
-| Kashyapa | RC-700 | descende-de |
-| Kashyapa | RC-700 | ← relaciona-se-a |
-| Kashyapa | RC-700 | relaciona-se-a |
-| Daksha e Virini | RC-701 | ← gera-linhagem-de |
-| Daksha e Virini | RC-701 | descende-de |
-| Daksha e Virini | RC-701 | ← relaciona-se-a |
-| Kami (Projeto Japonês) | RC-740 | ← relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Pandora como Serpente do Éden | RC-283 | causa | -> | consolidação: "influencia" → "causa" |
+| Tirthankaras (Rishabh Dev, Jina Mahavira) | RC-397 | relaciona-se-a | -> | - |
+| Xamanismo Cósmico (comunicação e deslacre) | RC-577 | relaciona-se-a | -> | - |
+| Xamanismo Cósmico (comunicação e deslacre) | RC-577 | relaciona-se-a | <- | - |
+| Áurea Catena | RC-663 | relaciona-se-a | -> | - |
+| Som da Flauta / Som da Falta | RC-668 | relaciona-se-a | -> | - |
+| Som da Flauta / Som da Falta | RC-668 | relaciona-se-a | <- | - |
+| Yoga Ancestral (Origem Cósmica) | RC-670 | relaciona-se-a | -> | - |
+| Yoga Ancestral (Origem Cósmica) | RC-670 | relaciona-se-a | <- | - |
+| Farmacopeia Ancestral Extraterrestre | RC-687 | relaciona-se-a | -> | - |
+| Farmacopeia Ancestral Extraterrestre | RC-687 | relaciona-se-a | <- | - |
+| Yajna (ritual de sacrifício/fogo) | RC-688 | relaciona-se-a | -> | - |
+| Geração Regenerada de Brahma | RC-696 | relaciona-se-a | <- | - |
+| Geração Regenerada de Brahma | RC-696 | parte-de | -> | - |
+| Mão Invisível Multiforme / Conselho das Nagas | RC-697 | inclui | <- | - |
+| Mão Invisível Multiforme / Conselho das Nagas | RC-697 | contexto | -> | consolidação: "atua-por" → "contexto" |
+| Mão Invisível Multiforme / Conselho das Nagas | RC-697 | relaciona-se-a | <- | - |
+| Mão Invisível Multiforme / Conselho das Nagas | RC-697 | relaciona-se-a | -> | - |
+| Cessão Consciente do DNA Humano | RC-698 | relaciona-se-a | <- | - |
+| Kashyapa | RC-700 | origina | <- | consolidação: "gera-linhagem-de" → "origina" |
+| Kashyapa | RC-700 | origina | <- | consolidação: "descende-de" → "origina"; direção invertida (forma passiva/inversa) |
+| Kashyapa | RC-700 | relaciona-se-a | <- | - |
+| Kashyapa | RC-700 | relaciona-se-a | -> | - |
+| Daksha e Virini | RC-701 | origina | <- | consolidação: "gera-linhagem-de" → "origina" |
+| Daksha e Virini | RC-701 | origina | <- | consolidação: "descende-de" → "origina"; direção invertida (forma passiva/inversa) |
+| Daksha e Virini | RC-701 | relaciona-se-a | <- | - |
+| Kami (Projeto Japonês) | RC-740 | relaciona-se-a | <- | - |
 
 ## Fontes
 | Fonte | Localização | Tipo |

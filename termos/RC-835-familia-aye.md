@@ -25,15 +25,15 @@ atualizado = "2026-08-31"
 - **Aparece em P2023-12-17 (U0002):** "Como Sofia foi criado livre e pra vida biológico, Javé aceitou, mas desde que a família Aya e Aye, que são dois tipos de clones, conseguissem também engendrar membros deles ou conseguissem passar e, entre aspas, ficar ao lado de Sophia ou obedecendo Sophia no sentido técnico, mas no sentido político. Como Sofia foi criado livre, esses seres, esses anjos clones, na verdade estavam ali para caso Sophia fizesse algum movimento estranho, seria destruído."
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | é-progressivamente-livre-de |
-| Guerra do Éden | RC-006 | associado |
-| Sophia (Cristo Cósmico) | RC-009 | é-família-de |
-| Jesus | RC-072 | é-clone-para-inseminação-de |
-| Trimurti | RC-104 | é-vigiada-por |
-| Família Aya (Clone de Sophia para Inseminação Artificial de Maria) | RC-834 | é-paralelo-com |
-| Maria (mãe de Jesus) | (B031) | é-inseminada-por |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Javé | RC-001 | é-um | -> | consolidação: "é-progressivamente-livre-de" → "é-um" |
+| Guerra do Éden | RC-006 | associado | <-> | - |
+| Sophia (Cristo Cósmico) | RC-009 | é-um | -> | consolidação: "é-família-de" → "é-um" |
+| Jesus | RC-072 | origina | -> | consolidação: "é-clone-para-inseminação-de" → "origina" |
+| Trimurti | RC-104 | controla | <- | consolidação: "é-vigiada-por" → "controla"; direção invertida (forma passiva/inversa) |
+| Família Aya (Clone de Sophia para Inseminação Artificial de Maria) | RC-834 | associado | <-> | consolidação: "é-paralelo-com" → "associado" |
+| Maria (mãe de Jesus) | (B031) | origina | <- | consolidação: "é-inseminada-por" → "origina"; direção invertida (forma passiva/inversa) |
 
 ### Remissão
 

@@ -24,15 +24,15 @@ A **administração do universo** exercida pelos "três personagens" (a Trimurti
 A Gestão Cósmica é o pano de fundo "político" do drama: as mitologias de todos os povos (ariana/hindu, suméria/acadiana, egípcia, grega...) referem-se "aos problemas cósmicos das divindades em torno de disputas e incompreensões sobre a questão universal" — ou seja, as disputas de gestão. A "divisão da gestão" com Jesus conecta-se à Era da Geopolítica Universal e da Divisão do Comando (RC-171, 8ª era das Eras da Criação). Os termos da responsabilidade de Shiva (Sai Baba) já foram delineados.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | gestor atual |
-| Jesus | RC-072 | divide-com |
-| Trimurti | RC-104 | envolve |
-| Eras da Criação (10 eras) | RC-155 | ← fonte-em |
-| Era da Geopolítica Universal e da Divisão do Comando | RC-171 | desdobramento |
-| Janelas Cósmicas (métricas temporais) | RC-570 | ← relaciona-se-a |
-| Sai Baba | (candidato) | Shiva (termos delineados) |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Javé | RC-001 | relaciona-se-a | -> | texto bruto original: gestor atual |
+| Jesus | RC-072 | associado | <-> | consolidação: "divide-com" → "associado" |
+| Trimurti | RC-104 | envolve | -> | - |
+| Eras da Criação (10 eras) | RC-155 | origina | <- | consolidação: "fonte-em" → "origina" |
+| Era da Geopolítica Universal e da Divisão do Comando | RC-171 | sucede | -> | consolidação: "desdobramento" → "sucede" |
+| Janelas Cósmicas (métricas temporais) | RC-570 | relaciona-se-a | <- | - |
+| Sai Baba | (candidato) | relaciona-se-a | -> | texto bruto original: Shiva (termos delineados) |
 
 ## Seres Associados
 Brahma (RC-037); Vishnu (RC-135); Shiva (RC-102); Jesus (RC-072); Sophia (RC-009).

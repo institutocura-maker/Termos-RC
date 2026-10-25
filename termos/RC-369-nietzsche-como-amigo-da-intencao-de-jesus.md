@@ -24,15 +24,15 @@ A tese central de *Jesus e Nietzsche* (B049): **Friedrich Nietzsche como um "age
 O B049 (2019, 14 capítulos) examina o contraste e a complementaridade entre Jesus (fé) e Nietzsche (razão): a crítica nietzschiana aos ídolos e à moral cristã institucionalizada é lida como um serviço ao verdadeiro legado de Jesus — desmontando as distorções dos "donos do legado". O livro aborda a "morte de Deus" nietzschiana, o super-homem, a criação de ídolos e o "ser humano emancipado" como parceiro da intenção crística.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Jesus | RC-072 | parceria-de |
-| Revelação Cósmica (conceito) | RC-094 | associado |
-| Liberdade Mental (premissa do Quarto Logos) | RC-253 | relaciona-se-a |
-| A Criação de Ídolos para a Humanidade | RC-370 | contexto |
-| A Fé de Jesus e a Razão de Nietzsche | RC-371 | é-um |
-| O Ser Humano Emancipado | RC-372 | desdobramento |
-| Sophia Como Biodemo da Ordem e Caos | RC-831 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Jesus | RC-072 | associado | <-> | consolidação: "parceria-de" → "associado" |
+| Revelação Cósmica (conceito) | RC-094 | associado | <-> | - |
+| Liberdade Mental (premissa do Quarto Logos) | RC-253 | relaciona-se-a | -> | - |
+| A Criação de Ídolos para a Humanidade | RC-370 | contexto | -> | - |
+| A Fé de Jesus e a Razão de Nietzsche | RC-371 | é-um | -> | - |
+| O Ser Humano Emancipado | RC-372 | sucede | -> | consolidação: "desdobramento" → "sucede" |
+| Sophia Como Biodemo da Ordem e Caos | RC-831 | associado | <-> | - |
 
 ## Seres Associados
 Jesus (RC-072); Nietzsche (figura histórica, RC-369); Voltaire (precedente citado).

@@ -24,14 +24,14 @@ A "dança dos elétrons" é o processo pelo qual **o universo material se consti
 O cap. 7 de B041 (2018) detalha a dança: quarks e léptons (primeiras partículas), a descoberta de **Charon** (memória quântica infinita dos elétrons), e a comunicação instantânea não-local entre todos os elétrons do universo (Física Quântica). A dança é a base da "rebelião dos elétrons" (RC-378): se o elétron não "mudasse de órbita", nada disso aconteceria.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Revelação Cósmica (conceito) | RC-094 | associado |
-| Universo Material (Bhuloka) | RC-107 | sustenta |
-| Memória Quântica dos Elétrons | RC-161 | envolve |
-| Elétrons (agente básico da vida universal) | RC-162 | é-um |
-| A Rebelião dos Elétrons | RC-378 | relaciona-se-a |
-| Imanência e Transcendência (Upanishades) | RC-380 | ← base-de |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Revelação Cósmica (conceito) | RC-094 | associado | <-> | - |
+| Universo Material (Bhuloka) | RC-107 | protege | -> | consolidação: "sustenta" → "protege" |
+| Memória Quântica dos Elétrons | RC-161 | envolve | -> | - |
+| Elétrons (agente básico da vida universal) | RC-162 | é-um | -> | - |
+| A Rebelião dos Elétrons | RC-378 | relaciona-se-a | -> | - |
+| Imanência e Transcendência (Upanishades) | RC-380 | requer | <- | consolidação: "base-de" → "requer" |
 
 ## Seres Associados
 Charon (físico nuclear francês); Criador (RC-041).

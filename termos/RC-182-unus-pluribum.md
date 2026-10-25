@@ -27,10 +27,10 @@ Expressão latina que a obra verte por «UM A PARTIR DE TODOS» ou «um a partir
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Colmeia Universal | RC-174 | associado |
-| Pluribus Unum | RC-181 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Colmeia Universal | RC-174 | associado | <-> | - |
+| Pluribus Unum | RC-181 | associado | <-> | - |
 
 ## Fontes
 

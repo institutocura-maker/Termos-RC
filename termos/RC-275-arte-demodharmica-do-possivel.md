@@ -27,12 +27,12 @@ Na B014 (*Sophia e o Logos Criadores*), expressão cunhada pelo autor e **títul
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Segundo Advento do Cristo (Volta de Jesus) | RC-005 | associado |
-| Sophia (Cristo Cósmico) | RC-009 | associado |
-| Revelação Cósmica (conceito) | RC-094 | associado |
-| Cultura Demodhármica | RC-183 | relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Segundo Advento do Cristo (Volta de Jesus) | RC-005 | associado | <-> | - |
+| Sophia (Cristo Cósmico) | RC-009 | associado | <-> | - |
+| Revelação Cósmica (conceito) | RC-094 | associado | <-> | - |
+| Cultura Demodhármica | RC-183 | relaciona-se-a | -> | - |
 
 ## Fontes
 

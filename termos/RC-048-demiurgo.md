@@ -27,12 +27,12 @@ Artífice ou Criador Divino — o nome que Platão dá ao Criador. Segundo o glo
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Criador (Brahma/Javé/Demiurgo) | RC-041 | ← sinônimo |
-| Espiritualidade Laboratorial | RC-061 | associado |
-| Favor Divino | RC-063 | associado |
-| Perpérion | RC-087 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Criador (Brahma/Javé/Demiurgo) | RC-041 | variação | <- | consolidação: "sinônimo" → "variação" |
+| Espiritualidade Laboratorial | RC-061 | associado | <-> | - |
+| Favor Divino | RC-063 | associado | <-> | - |
+| Perpérion | RC-087 | associado | <-> | - |
 
 ## Fontes
 

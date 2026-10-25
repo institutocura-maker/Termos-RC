@@ -26,23 +26,23 @@ Na cosmologia de Ellam, a capacidade filosófica humana — apresentada como "ca
 - **[P2024-07-14] Proveniência:** palestra de Jan Val Ellam; transcrição STT pré-curada; devolutiva do curador registrada em 2026-08-20 (ficha autorizada).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | associado |
-| Revelação Cósmica (conceito) | RC-094 | associado |
-| Seres Terrenos (Homo Sapiens) | RC-099 | associado |
-| Cidadão Cósmico | RC-226 | associado |
-| A Humanização do Criador | RC-245 | associado |
-| Olhar Adulto | RC-278 | associado |
-| Imperativo Categórico da Moral | RC-328 | associado |
-| Antropocentrismo (crítica) | RC-361 | ← opõe-se-a |
-| A Fé de Jesus e a Razão de Nietzsche | RC-371 | associado |
-| O Ser Humano Emancipado | RC-372 | associado |
-| Javé alimenta-se do senso crítico humano | RC-429 | ← alimenta-se-de |
-| Tikun Cósmico (restabelecimento da Criação) | RC-514 | ← usa |
-| Protocolo da Busca | RC-566 | ← relaciona-se-a |
-| Pandora como Heroína Controversa | RC-780 | associado |
-| Racionalidade Humana Trucidada | RC-786 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Javé | RC-001 | associado | <-> | - |
+| Revelação Cósmica (conceito) | RC-094 | associado | <-> | - |
+| Seres Terrenos (Homo Sapiens) | RC-099 | associado | <-> | - |
+| Cidadão Cósmico | RC-226 | associado | <-> | - |
+| A Humanização do Criador | RC-245 | associado | <-> | - |
+| Olhar Adulto | RC-278 | associado | <-> | - |
+| Imperativo Categórico da Moral | RC-328 | associado | <-> | - |
+| Antropocentrismo (crítica) | RC-361 | opõe-se-a | <- | - |
+| A Fé de Jesus e a Razão de Nietzsche | RC-371 | associado | <-> | - |
+| O Ser Humano Emancipado | RC-372 | associado | <-> | - |
+| Javé alimenta-se do senso crítico humano | RC-429 | protege | <- | consolidação: "alimenta-se-de" → "protege" |
+| Tikun Cósmico (restabelecimento da Criação) | RC-514 | usa | <- | - |
+| Protocolo da Busca | RC-566 | relaciona-se-a | <- | - |
+| Pandora como Heroína Controversa | RC-780 | associado | <-> | - |
+| Racionalidade Humana Trucidada | RC-786 | associado | <-> | - |
 
 
 - Revelação Cósmica (conceito) — RC-094;

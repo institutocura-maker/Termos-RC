@@ -27,13 +27,13 @@ Segundo as Revelações Cósmicas, **Sathya Sai Baba** é a **segunda encarnaç�
 - Conhecido por relatos de materializações (vibhuti, objetos) e curas — fenômenos amplamente debatidos.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Lila | RC-075 | contexto |
-| Shiva (Savna) | RC-102 | encarnação-de |
-| Saibaba como Precursor de Jesus | RC-801 | parte-de |
-| Sai Baba de Shirdi (Shirdi Sai Baba) | RC-927 | encarnação-posterior-de |
-| Prema Sai (Prima Sai / Prem Sai) | RC-929 | ← encarnação-posterior-de |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Lila | RC-075 | contexto | -> | - |
+| Shiva (Savna) | RC-102 | origina | -> | consolidação: "encarnação-de" → "origina" |
+| Saibaba como Precursor de Jesus | RC-801 | parte-de | -> | - |
+| Sai Baba de Shirdi (Shirdi Sai Baba) | RC-927 | origina | -> | consolidação: "encarnação-posterior-de" → "origina" |
+| Prema Sai (Prima Sai / Prem Sai) | RC-929 | origina | <- | consolidação: "encarnação-posterior-de" → "origina" |
 
 ## Seres Associados
 - **Shiva** (RC-102) — a consciência que se encarna na linhagem Sai

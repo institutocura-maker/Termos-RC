@@ -27,11 +27,11 @@ Na B034 (*Cartas a Javé*), a autora das CARTAS que dão título ao livro, e que
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Jan Val Ellam (Rogério de Almeida Freitas) | RC-071 | associado |
-| Revelação Cósmica (conceito) | RC-094 | associado |
-| Cartas a Javé (obra e diálogo) | RC-416 | ← escrita-por |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Jan Val Ellam (Rogério de Almeida Freitas) | RC-071 | associado | <-> | - |
+| Revelação Cósmica (conceito) | RC-094 | associado | <-> | - |
+| Cartas a Javé (obra e diálogo) | RC-416 | comunica | -> | consolidação: "escrita-por" → "comunica"; direção invertida (forma passiva/inversa) |
 
 ## Fontes
 

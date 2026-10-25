@@ -24,19 +24,19 @@ Tese (leitura do autor, palestra **P2023-12-17**, U0002) de que **Sophia (RC-009
 Aparece em **P2023-12-17**, U0002. Contexto: a palestra reconstrói a **geração de Sophia** há ~6 bilhões de anos. Javé aceitou que se criassem **dois seres livres**: Morenu (avatar de Javé) e Sophia (representante da Trimurti no universo biológico). Mas Javé queria estar presente no corpo de Morenu, então compuseram **4 cabeças** — se Morenu descumprisse os termos da Trimurti, os três destruiriam Morenu naquele corpo. Sophia foi engendrado livre. A família **Aya e Aye** (dois tipos de clones) deveria obedecer Sophia no sentido técnico, mas no sentido político estavam ali para destruir Sophia se fizesse algum movimento estranho. Com o tempo, Javé foi esquecendo Sophia e os clones, que foram se livrando do controle mental e observando os "painéis positivos de Sophia" — porque Sophia é um gênio.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | é-controlado-por |
-| Javé | RC-001 | é-progressivamente-livre-de |
-| Rebelião de Lúcifer | RC-002 | tem-problemas-com |
-| Guerra do Éden | RC-006 | associado |
-| Sophia (Cristo Cósmico) | RC-009 | é-biodemo |
-| Jesus | RC-072 | é-parte-mais-bela-de |
-| Trimurti | RC-104 | é-representante-de |
-| Elétrons (agente básico da vida universal) | RC-162 | tem-pulsação-de |
-| Decifra-me ou Devoro (hábito demo) | RC-316 | é-paralelo-com |
-| Nietzsche como 'Amigo da Intenção de Jesus' | RC-369 | é-família-de |
-| A Rebelião dos Elétrons | RC-378 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Javé | RC-001 | controla | <- | consolidação: "é-controlado-por" → "controla"; direção invertida (forma passiva/inversa) |
+| Javé | RC-001 | é-um | -> | consolidação: "é-progressivamente-livre-de" → "é-um" |
+| Rebelião de Lúcifer | RC-002 | danifica | -> | consolidação: "tem-problemas-com" → "danifica" |
+| Guerra do Éden | RC-006 | associado | <-> | - |
+| Sophia (Cristo Cósmico) | RC-009 | é-um | -> | consolidação: "é-biodemo" → "é-um" |
+| Jesus | RC-072 | parte-de | -> | consolidação: "é-parte-mais-bela-de" → "parte-de" |
+| Trimurti | RC-104 | representa | -> | consolidação: "é-representante-de" → "representa" |
+| Elétrons (agente básico da vida universal) | RC-162 | relaciona-se-a | -> | consolidação: "tem-pulsação-de" → "relaciona-se-a" |
+| Decifra-me ou Devoro (hábito demo) | RC-316 | associado | <-> | consolidação: "é-paralelo-com" → "associado" |
+| Nietzsche como 'Amigo da Intenção de Jesus' | RC-369 | é-um | -> | consolidação: "é-família-de" → "é-um" |
+| A Rebelião dos Elétrons | RC-378 | associado | <-> | - |
 
 ## Seres Associados
 - **Sophia (RC-009)** — o biodemo protagonista

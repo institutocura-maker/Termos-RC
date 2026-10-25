@@ -27,14 +27,14 @@ Base construída no hemisfério sul, onde hoje é a Antártida, a partir da nave
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Antlartes | RC-023 | associado |
-| Asphezian | RC-025 | associado |
-| Atlantes | RC-030 | associado |
-| Benem | RC-032 | ← relaciona-se-a |
-| Demos | RC-049 | associado |
-| Mastlans Phisosferas / Luciferianas | RC-079 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Antlartes | RC-023 | associado | <-> | - |
+| Asphezian | RC-025 | associado | <-> | - |
+| Atlantes | RC-030 | associado | <-> | - |
+| Benem | RC-032 | relaciona-se-a | <- | - |
+| Demos | RC-049 | associado | <-> | - |
+| Mastlans Phisosferas / Luciferianas | RC-079 | associado | <-> | - |
 
 ## Fontes
 

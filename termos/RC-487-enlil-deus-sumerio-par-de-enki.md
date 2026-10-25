@@ -21,16 +21,16 @@ Anunnaki filho de Anu (RC-587), irmão de **Enki** (RC-486) e de Ninmah/Ninhursa
 **Ficha criada a partir da fonte primária P2021-03-27** (autorização do curador, 2026-08-18 — "criação vital"). Enlil é citado como comandante do efetivo anunnaki na Terra (~850–900, com a tipologia igigi) e como líder do clã que disputava as cidades sumérias com o clã de Enki.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | relaciona-se-a |
-| Anunnaki | RC-024 | é-um |
-| Ninmah (Anunnaki geneticista) | RC-461 | irmão-de |
-| Enki (Anunnaki; inoculou o gene FOXP2) | RC-486 | ← relaciona-se-a |
-| Guerra Nuclear Anunnaki (Sete Armas Atômicas) | RC-583 | ← envolve |
-| Anu (patriarca Anunnaki) | RC-587 | ← pai-de |
-| Ninurta | RC-588 | associado |
-| Ao Vencedor as Batatas (paradigma do domínio) | RC-764 | ← relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Javé | RC-001 | relaciona-se-a | -> | - |
+| Anunnaki | RC-024 | é-um | -> | - |
+| Ninmah (Anunnaki geneticista) | RC-461 | associado | <-> | consolidação: "irmão-de" → "associado" |
+| Enki (Anunnaki; inoculou o gene FOXP2) | RC-486 | relaciona-se-a | <- | - |
+| Guerra Nuclear Anunnaki (Sete Armas Atômicas) | RC-583 | envolve | <- | - |
+| Anu (patriarca Anunnaki) | RC-587 | origina | <- | consolidação: "pai-de" → "origina" |
+| Ninurta | RC-588 | associado | <-> | - |
+| Ao Vencedor as Batatas (paradigma do domínio) | RC-764 | relaciona-se-a | <- | - |
 
 ## Ampliação — STT26-MITOLOGIAS_REINTEGRACAO (Eixo STT26 — Mitologias, tradições e eixo de reintegração (derivados normalizados))
 

@@ -25,15 +25,15 @@ Forno replicador de vida do **Projeto Talm** (RC-091) sob o controle de **Shiva*
 - Antes desta materialização, Awaylengan vivia apenas como sub-entrada de **RC-771**. **Materializado como ficha independente por Devolutiva O-3 (2026-08-31)**, por simetria taxonômica com **Awaymaion** (RC-499).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Bilatérios | RC-035 | precede (via Nidana B) |
-| Projeto Talm | RC-091 | viabiliza |
-| Radiatas | RC-093 | produz |
-| Shiva (Savna) | RC-102 | pertence-a |
-| Forno de Awaymaion (forno de Vishnu; origem de Olm) | RC-499 | irmão-de (tríade de fornos) |
-| Fornos Replicadores (naves/estações de semeadura de vida do Projeto Talm; Awayen, Awaylengan e Awaymaion) | RC-771 | incluído-em |
-| Forno de Awayen (forno de Brahma/Javé → Central de Realidades) | RC-836 | irmão-de (tríade de fornos) |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Bilatérios | RC-035 | precede | -> | qualificador preservado: via Nidana B |
+| Projeto Talm | RC-091 | causa | -> | consolidação: "viabiliza" → "causa" |
+| Radiatas | RC-093 | origina | -> | consolidação: "produz" → "origina" |
+| Shiva (Savna) | RC-102 | envolve | -> | consolidação: "pertence-a" → "envolve" |
+| Forno de Awaymaion (forno de Vishnu; origem de Olm) | RC-499 | associado | <-> | qualificador preservado: tríade de fornos; consolidação: "irmão-de" → "associado" |
+| Fornos Replicadores (naves/estações de semeadura de vida do Projeto Talm; Awayen, Awaylengan e Awaymaion) | RC-771 | inclui | -> | consolidação: "incluído-em" → "inclui" |
+| Forno de Awayen (forno de Brahma/Javé → Central de Realidades) | RC-836 | associado | <-> | qualificador preservado: tríade de fornos; consolidação: "irmão-de" → "associado" |
 
 ## Seres Associados
 Shiva (RC-102), os fenvans (RC-064), os seres radiata (RC-093).

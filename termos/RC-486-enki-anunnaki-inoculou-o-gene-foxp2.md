@@ -17,20 +17,20 @@ atualizado = "2026-09-12"
 Anunnaki filho de Anu, irmão de Enlil — na RC, responsável pela inoculação do gene FOXP2 na linhagem humana; **pai de Thot/Ninjizida** (RC-463).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Anunnaki | RC-024 | é-um |
-| Genética Totalitária | RC-325 | atribuído-em-teologia-comparada-a |
-| Foz Côa / FOXP2 (símbolos) | RC-400 | relaciona-se-a |
-| Ninmah (Anunnaki geneticista) | RC-461 | ← relaciona-se-a |
-| Hermes Trismegisto (= Ningishzidda/Thoth/Quetzalcóatl) | RC-463 | ← relaciona-se-a |
-| Enlil (deus sumério, par de Enki) | RC-487 | relaciona-se-a |
-| Guerra Nuclear Anunnaki (Sete Armas Atômicas) | RC-583 | ← envolve |
-| Anu (patriarca Anunnaki) | RC-587 | ← pai-de |
-| DNA Insubmisso / Linhagem Pandora–Eva–Noreia | RC-727 | ← atribuída-em-teologia-comparada-a |
-| Genótipo da Gentileza (GG) | RC-748 | ← relaciona-se-a |
-| Ao Vencedor as Batatas (paradigma do domínio) | RC-764 | ← relaciona-se-a |
-| Qin Shi Huang Di (imperador chinês sob influência de Lemion) | RC-851 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Anunnaki | RC-024 | é-um | -> | - |
+| Genética Totalitária | RC-325 | variação | -> | consolidação: "atribuído-em-teologia-comparada-a" → "variação" |
+| Foz Côa / FOXP2 (símbolos) | RC-400 | relaciona-se-a | -> | - |
+| Ninmah (Anunnaki geneticista) | RC-461 | relaciona-se-a | <- | - |
+| Hermes Trismegisto (= Ningishzidda/Thoth/Quetzalcóatl) | RC-463 | relaciona-se-a | <- | - |
+| Enlil (deus sumério, par de Enki) | RC-487 | relaciona-se-a | -> | - |
+| Guerra Nuclear Anunnaki (Sete Armas Atômicas) | RC-583 | envolve | <- | - |
+| Anu (patriarca Anunnaki) | RC-587 | origina | <- | consolidação: "pai-de" → "origina" |
+| DNA Insubmisso / Linhagem Pandora–Eva–Noreia | RC-727 | variação | -> | consolidação: "atribuída-em-teologia-comparada-a" → "variação"; direção invertida (forma passiva/inversa) |
+| Genótipo da Gentileza (GG) | RC-748 | relaciona-se-a | <- | - |
+| Ao Vencedor as Batatas (paradigma do domínio) | RC-764 | relaciona-se-a | <- | - |
+| Qin Shi Huang Di (imperador chinês sob influência de Lemion) | RC-851 | associado | <-> | - |
 
 ## Fontes
 

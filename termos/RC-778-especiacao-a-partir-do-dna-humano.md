@@ -24,13 +24,13 @@ Tese (leitura do autor, palestra **P2018-10-06 — Humanidade em Disputa a Desce
 Aparece em **P2018-10-06 — Humanidade em Disputa a Descendência de Pandora**, U0004, no contexto da sequência formativa: **Pandora (RC-086) destrava a humanidade → humanidade produz DNA especializado → DNA gera novas espécies em outros mundos**. Conecta-se com a RC-783 (Especiação Humana — Levas Genéticas), que descreve o **processo operacional** (1, 2, 3 levas genéticas). É peça-chave do tema **Pandora × Especiação Cósmica** (RC-086/RC-099).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Especiação | RC-056 | associado-a |
-| Pandora | RC-086 | é-resultado-de |
-| Seres Terrenos (Homo Sapiens) | RC-099 | aplica-se-a |
-| Mente Coletiva / Redes Psíquicas Coletivas | RC-188 | instrumentalizado-por |
-| Especiação Humana — Levas Genéticas | RC-783 | sinônimo-parcial |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Especiação | RC-056 | associado | <-> | - |
+| Pandora | RC-086 | causa | <- | consolidação: "é-resultado-de" → "causa"; direção invertida (forma passiva/inversa) |
+| Seres Terrenos (Homo Sapiens) | RC-099 | usa | -> | consolidação: "aplica-se-a" → "usa" |
+| Mente Coletiva / Redes Psíquicas Coletivas | RC-188 | usa | <- | consolidação: "instrumentalizado-por" → "usa"; direção invertida (forma passiva/inversa) |
+| Especiação Humana — Levas Genéticas | RC-783 | variação | -> | consolidação: "sinônimo-parcial" → "variação" |
 
 ## Seres Associados
 - **Pandora** (RC-086) — quem destravou a humanidade para que a especiação fosse possível

@@ -25,22 +25,22 @@ Na formulação de Jan Val Ellam, é a distância entre poder ou conhecimento e 
 
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| O Mal: Subproduto da Ignorância Espiritual | RC-223 | ← comparado-a |
-| Liberdade Mental (premissa do Quarto Logos) | RC-253 | relaciona-se-a |
-| Decência cósmica (ética ellâmica) | RC-508 | associado |
-| Demência do Criador (fases da condição de Javé) | RC-526 | ← relaciona-se-a |
-| Autismo Funcional dos Seres da Espiritualidade Superior | RC-605 | relaciona-se-a |
-| Autismo Funcional dos Seres da Espiritualidade Superior | RC-605 | ← relaciona-se-a |
-| Humanos: Últimos e Primeiros | RC-654 | observado-de-dentro-por |
-| Humanos: Últimos e Primeiros | RC-654 | ← observa-de-dentro |
-| Buraco Negro Mental / Consciencial | RC-717 | relaciona-se-a |
-| Sócios do Destino / Ausência de Justiça Externa | RC-720 | relaciona-se-a |
-| Dignidade como Critério de Consciência | RC-722 | avaliado-por |
-| Dignidade como Critério de Consciência | RC-722 | relaciona-se-a |
-| Abismo da Providência / Falsa Providência | RC-723 | manifesta-se-em |
-| Abismo da Providência / Falsa Providência | RC-723 | relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| O Mal: Subproduto da Ignorância Espiritual | RC-223 | variação | <- | consolidação: "comparado-a" → "variação" |
+| Liberdade Mental (premissa do Quarto Logos) | RC-253 | relaciona-se-a | -> | - |
+| Decência cósmica (ética ellâmica) | RC-508 | associado | <-> | - |
+| Demência do Criador (fases da condição de Javé) | RC-526 | relaciona-se-a | <- | - |
+| Autismo Funcional dos Seres da Espiritualidade Superior | RC-605 | relaciona-se-a | -> | - |
+| Autismo Funcional dos Seres da Espiritualidade Superior | RC-605 | relaciona-se-a | <- | - |
+| Humanos: Últimos e Primeiros | RC-654 | observa | <- | consolidação: "observado-de-dentro-por" → "observa"; direção invertida (forma passiva/inversa) |
+| Humanos: Últimos e Primeiros | RC-654 | observa | <- | consolidação: "observa-de-dentro" → "observa" |
+| Buraco Negro Mental / Consciencial | RC-717 | relaciona-se-a | -> | - |
+| Sócios do Destino / Ausência de Justiça Externa | RC-720 | relaciona-se-a | -> | - |
+| Dignidade como Critério de Consciência | RC-722 | controla | <- | consolidação: "avaliado-por" → "controla"; direção invertida (forma passiva/inversa) |
+| Dignidade como Critério de Consciência | RC-722 | relaciona-se-a | -> | - |
+| Abismo da Providência / Falsa Providência | RC-723 | representa | -> | consolidação: "manifesta-se-em" → "representa" |
+| Abismo da Providência / Falsa Providência | RC-723 | relaciona-se-a | -> | - |
 
 ## Fontes
 | Fonte | Localização | Tipo |

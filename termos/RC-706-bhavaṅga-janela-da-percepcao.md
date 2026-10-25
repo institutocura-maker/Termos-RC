@@ -31,19 +31,19 @@ Formas STT: `bavanga`, `bafanga`.
 
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Mentalma | RC-166 | relaciona-se-a |
-| Disciplina dos 3As (respiração, mente, alinhamento) | RC-552 | usa |
-| Disciplina dos 3As (respiração, mente, alinhamento) | RC-552 | relaciona-se-a |
-| Corpo Átmico | RC-623 | relaciona-se-a |
-| Corpo Búdico | RC-624 | relaciona-se-a |
-| Corpo Manásico / Corpo Mental | RC-625 | relaciona-se-a |
-| Gestão da Sensação Pessoal | RC-633 | relaciona-se-a |
-| Camuflagem da Realidade | RC-702 | ← atravessada-por |
-| Camuflagem da Realidade | RC-702 | atravessa |
-| Camuflagem da Realidade | RC-702 | ← relaciona-se-a |
-| Corpo Sutil Reencarnante | RC-704 | relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Mentalma | RC-166 | relaciona-se-a | -> | - |
+| Disciplina dos 3As (respiração, mente, alinhamento) | RC-552 | usa | -> | - |
+| Disciplina dos 3As (respiração, mente, alinhamento) | RC-552 | relaciona-se-a | -> | - |
+| Corpo Átmico | RC-623 | relaciona-se-a | -> | - |
+| Corpo Búdico | RC-624 | relaciona-se-a | -> | - |
+| Corpo Manásico / Corpo Mental | RC-625 | relaciona-se-a | -> | - |
+| Gestão da Sensação Pessoal | RC-633 | relaciona-se-a | -> | - |
+| Camuflagem da Realidade | RC-702 | contexto | -> | consolidação: "atravessada-por" → "contexto"; direção invertida (forma passiva/inversa) |
+| Camuflagem da Realidade | RC-702 | contexto | -> | consolidação: "atravessa" → "contexto" |
+| Camuflagem da Realidade | RC-702 | relaciona-se-a | <- | - |
+| Corpo Sutil Reencarnante | RC-704 | relaciona-se-a | -> | - |
 
 ## Fontes
 | Fonte | Localização | Tipo |

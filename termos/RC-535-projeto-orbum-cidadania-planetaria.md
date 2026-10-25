@@ -25,13 +25,13 @@ atualizado = "2026-09-05"
 O Manifesto do Projeto Orbum (B042, pp. 226–228) convida à "filiação espiritual" à ideia da cidadania planetária, com o site www.orbum.org. É a expressão prática/ética da Revelação Cósmica: a consciência de que somos cidadãos cósmicos exercendo uma cidadania planetária, e que a reintegração da Terra à convivência com as demais civilizações passa pelo despertar dessa consciência.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Orbum | RC-085 | relaciona-se-a |
-| Revelação Cósmica (conceito) | RC-094 | relaciona-se-a |
-| Cidadão Cósmico | RC-226 | relaciona-se-a |
-| Transição Planetária | RC-344 | relaciona-se-a (contexto) |
-| Atualização das Revelações Anteriores | RC-656 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Orbum | RC-085 | relaciona-se-a | -> | - |
+| Revelação Cósmica (conceito) | RC-094 | relaciona-se-a | -> | - |
+| Cidadão Cósmico | RC-226 | relaciona-se-a | -> | - |
+| Transição Planetária | RC-344 | relaciona-se-a | -> | qualificador preservado: contexto |
+| Atualização das Revelações Anteriores | RC-656 | associado | <-> | - |
 
 ## Seres Associados
 Jan Val Ellam (RC-071, idealizador); Jesus (ensinamento da cidadania cósmica, segundo o livro).

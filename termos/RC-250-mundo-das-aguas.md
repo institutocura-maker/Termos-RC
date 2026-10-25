@@ -27,11 +27,11 @@ Na B015, a designação que o guardião-narrador (En Drel 29) dá ao planeta par
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Anunnaki | RC-024 | associado |
-| Viajores da Rebelião | RC-248 | habitado-por |
-| Expulsão dos Viajores (decreto do Criador) | RC-249 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Anunnaki | RC-024 | associado | <-> | - |
+| Viajores da Rebelião | RC-248 | contexto | <- | consolidação: "habitado-por" → "contexto"; direção invertida (forma passiva/inversa) |
+| Expulsão dos Viajores (decreto do Criador) | RC-249 | associado | <-> | - |
 
 ## Fontes
 

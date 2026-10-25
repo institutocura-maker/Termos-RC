@@ -27,11 +27,11 @@ Expressão que a B002 (*O Drama Espiritual de Javé*) emprega e explica: a vida 
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Biodemos | RC-036 | associado |
-| Criação Indevida (Obra indevida) | RC-167 | associado |
-| Criador de Padrões Dependentes | RC-208 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Biodemos | RC-036 | associado | <-> | - |
+| Criação Indevida (Obra indevida) | RC-167 | associado | <-> | - |
+| Criador de Padrões Dependentes | RC-208 | associado | <-> | - |
 
 ## Fontes
 

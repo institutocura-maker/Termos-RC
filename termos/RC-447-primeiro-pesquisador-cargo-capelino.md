@@ -25,10 +25,10 @@ atualizado = "2026-08-25"
 No B057: "Eu, Yel Luzbel, **um dos primeiros pesquisadores da família Yel**, fui encarregado de verificar os graus de atuação e de evolução dos seres que faziam parte deste universo" (p. 15); "Eu, Yel Luzbel, **primeiro pesquisador da família Yel**, continuava a trilhar a trajetória que os seres tinham que seguir ou mesmo ultrapassar para poderem conhecer o Criador e a sua Obra" (p. 26). O pesquisador pesquisava "o que a minha família mandava" (p. 18); a alta cúpula jamais se reunia "para receber um 'simples pesquisador', que era o meu caso" (p. 34). No âmbito administrativo de Capela, distinga-se o "primeiro escalão" de Orbum (nota p. 25) — os seres mais evoluídos que formam a assessoria direta dos Administradores.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Yel Luzbel | RC-142 | associado-a |
-| Família Yel | RC-442 | associado-a (cargo da família) |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Yel Luzbel | RC-142 | associado | <-> | - |
+| Família Yel | RC-442 | associado | <-> | qualificador preservado: cargo da família; raiz semântica associado (decisão 3) |
 
 ## Seres Associados
 Yel Luzbel (RC-078/RC-142, o titular); os sábios da Família Yel (que lhe incumbiam as pesquisas); Len Mion (RC-074, "companheiro de estudo e pesquisa").

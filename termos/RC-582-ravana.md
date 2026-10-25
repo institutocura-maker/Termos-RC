@@ -24,18 +24,18 @@ Rakshasa apresentado como ser extremamente poderoso, antagonista de Rama no cont
 Na cronologia da palestra, Ravana pertence à segunda era equinocial e sua força é vinculada ao consumo de sangue de mamíferos.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Krishna (avatar de Vishnu/Shiva) | RC-414 | relaciona-se-a |
-| Krishna (avatar de Vishnu/Shiva) | RC-414 | ← relaciona-se-a |
-| Rakshasas | RC-581 | ← inclui |
-| Rakshasas | RC-581 | é-um |
-| Rakshasas | RC-581 | relaciona-se-a |
-| Rakshasas | RC-581 | ← relaciona-se-a |
-| Rama (avatar de Vishnu) | RC-584 | opõe-se-a |
-| Rama (avatar de Vishnu) | RC-584 | ← opõe-se-a |
-| Rama (avatar de Vishnu) | RC-584 | ← relaciona-se-a |
-| Mahabharata | RC-593 | relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Krishna (avatar de Vishnu/Shiva) | RC-414 | relaciona-se-a | -> | - |
+| Krishna (avatar de Vishnu/Shiva) | RC-414 | relaciona-se-a | <- | - |
+| Rakshasas | RC-581 | inclui | <- | - |
+| Rakshasas | RC-581 | é-um | -> | - |
+| Rakshasas | RC-581 | relaciona-se-a | -> | - |
+| Rakshasas | RC-581 | relaciona-se-a | <- | - |
+| Rama (avatar de Vishnu) | RC-584 | opõe-se-a | -> | - |
+| Rama (avatar de Vishnu) | RC-584 | opõe-se-a | <- | - |
+| Rama (avatar de Vishnu) | RC-584 | relaciona-se-a | <- | - |
+| Mahabharata | RC-593 | relaciona-se-a | -> | - |
 
 ## Seres Associados
 Rakshasas (RC-581); Rama (avatar de Vishnu) (RC-584)

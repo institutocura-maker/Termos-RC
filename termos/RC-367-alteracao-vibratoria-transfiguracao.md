@@ -26,12 +26,12 @@ Modificação do estado vibratório do manifestante — o mecanismo pelo qual a 
 - Arestas em `RELACOES`: 2 — nada aberto, fechado ou reetiquetado nesta ficha.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| O Enigma da Transfiguração | RC-366 | associado |
-| Jesus | RC-072 | associado |
-| Revelação Cósmica (conceito) | RC-094 | associado |
-| Taumaturgia Genético-Química | RC-713 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| O Enigma da Transfiguração | RC-366 | associado | <-> | - |
+| Jesus | RC-072 | associado | <-> | - |
+| Revelação Cósmica (conceito) | RC-094 | associado | <-> | - |
+| Taumaturgia Genético-Química | RC-713 | associado | <-> | - |
 
 ## Fontes
 | Obra (sigla) | Título | Página | Tipo |

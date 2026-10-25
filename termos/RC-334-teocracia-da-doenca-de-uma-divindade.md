@@ -24,17 +24,17 @@ A **submissão doentia exigida pelo Senhor Javé** das suas criaturas — o polo
 O capítulo 6 de B048 (título completo: "A Democracia do Amor da Deidade x a Teocracia da Doença de uma Divindade") estabelece a antítese fundamental do corpus: **liberdade amorosa (Deidade) × submissão doentia (Javé)**. A teocracia da doença explica a "lavagem cerebral" religiosa, a cobrança de submissão e o "jogo da cobrança" (cap. 9): "Javé nos cobra submissão e subserviência para que seus desígnios possam ser cumpridos... sua vontade somente se movimenta em torno da sua doentia necessidade de sobreviver a qualquer custo".
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | agente |
-| Criador (Brahma/Javé/Demiurgo) | RC-041 | é-um |
-| Revelação Cósmica (conceito) | RC-094 | associado |
-| Modelo Colmeia (Sistema/Controle Colmeia) | RC-176 | expressão |
-| Favor Divino (conceito invertido) | RC-332 | associado |
-| Democracia do Amor da Deidade | RC-333 | ← opõe-se-a |
-| Lavagem Cerebral (condicionamento) | RC-335 | instrumento |
-| A Difícil Cobrança sobre os Humanos | RC-339 | desdobramento |
-| Tormento dos Eleitos de Javé | RC-685 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Javé | RC-001 | envolve | -> | consolidação: "agente" → "envolve" |
+| Criador (Brahma/Javé/Demiurgo) | RC-041 | é-um | -> | - |
+| Revelação Cósmica (conceito) | RC-094 | associado | <-> | - |
+| Modelo Colmeia (Sistema/Controle Colmeia) | RC-176 | representa | -> | consolidação: "expressão" → "representa" |
+| Favor Divino (conceito invertido) | RC-332 | associado | <-> | - |
+| Democracia do Amor da Deidade | RC-333 | opõe-se-a | <- | - |
+| Lavagem Cerebral (condicionamento) | RC-335 | usa | -> | consolidação: "instrumento" → "usa" |
+| A Difícil Cobrança sobre os Humanos | RC-339 | sucede | -> | consolidação: "desdobramento" → "sucede" |
+| Tormento dos Eleitos de Javé | RC-685 | associado | <-> | - |
 
 ## Seres Associados
 Javé (RC-001); Criador (RC-041); Seres Terrenos (RC-099, submetidos).

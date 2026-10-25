@@ -29,14 +29,14 @@ Com isso:
 **Origem do conteúdo da ampliação:** palestra `P2022-05-07 — Shiva, o Projeto Talm e os Mistérios de Awaylengam` (07/05/2022). Transcrição automatizada, **não conferida com o áudio**; cada aspa foi recortada do `original.txt` pelo índice de âncoras do motor e conferida byte a byte pelo portão B. Nada foi digitado de memória.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Trimurti | RC-104 | **sem aresta** em `RELACOES`; arquivo existe |
-| ADHYSAVNA (nome completo de Savna/Shiva) | RC-409 | relaciona-se-a |
-| Pashvnaj (espécie de 43 seres do Gênero Adhy) | RC-455 | é-um |
-| Tridevi | RC-610 | ← inclui |
-| Tridevi | RC-610 | ← inclui |
-| Ganesha (exceção à metamorfose; cabeça de elefante) | RC-756 | ← relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Trimurti | RC-104 | - | - | sem aresta em RELACOES; arquivo existe |
+| ADHYSAVNA (nome completo de Savna/Shiva) | RC-409 | relaciona-se-a | -> | - |
+| Pashvnaj (espécie de 43 seres do Gênero Adhy) | RC-455 | é-um | -> | - |
+| Tridevi | RC-610 | inclui | <- | - |
+| Tridevi | RC-610 | inclui | <- | - |
+| Ganesha (exceção à metamorfose; cabeça de elefante) | RC-756 | relaciona-se-a | <- | - |
 
 ## Fontes
 | Obra (sigla) | Título | Página | Tipo |

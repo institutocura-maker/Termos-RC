@@ -30,15 +30,15 @@ atualizado = "2026-09-13"
 Segundo verbete "Criaturas-ferramenta" da Base (paralelo ao RC-164): os seres vivos usados como **instrumentos** pelos criadores/deuses — a humanidade entre eles. Na RC, o uso por estirpe/espécie, "sem a menor preocupação", é marca do padrão de domínio (RC-764).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | relaciona-se-a |
-| Biodemos | RC-036 | relaciona-se-a |
-| Agentes da Vida Universal | RC-148 | relaciona-se-a |
-| Criaturas-ferramenta | RC-164 | variação |
-| Demência do Criador (fases da condição de Javé) | RC-526 | associado |
-| Travas e lacres (mecanismos de controle do despertar) | RC-563 | ← relaciona-se-a |
-| Ao Vencedor as Batatas (paradigma do domínio) | RC-764 | ← relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Javé | RC-001 | relaciona-se-a | -> | - |
+| Biodemos | RC-036 | relaciona-se-a | -> | - |
+| Agentes da Vida Universal | RC-148 | relaciona-se-a | -> | - |
+| Criaturas-ferramenta | RC-164 | variação | -> | - |
+| Demência do Criador (fases da condição de Javé) | RC-526 | associado | <-> | - |
+| Travas e lacres (mecanismos de controle do despertar) | RC-563 | relaciona-se-a | <- | - |
+| Ao Vencedor as Batatas (paradigma do domínio) | RC-764 | relaciona-se-a | <- | - |
 
 ## Fontes
 

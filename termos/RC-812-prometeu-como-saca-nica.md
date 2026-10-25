@@ -24,16 +24,16 @@ Tese (leitura do autor, palestra **P2017-05-14**, U0004) de que **Prometeu (RC-3
 Aparece em **P2017-05-14**, U0004. Contexto: a relação Prometeu-Zeus é de "rinha" — Prometeu, sendo "mais inteligente que Zeus", sacaneia os olímpicos sistematicamente. Zeus "não podia fazer nada com ele, porque Zeus precisava de Prometeu, porque só prometeu entre os titães e efestos entre os sabiam construir as coisas, sabiam resolver certos problemas, eram os dois cientistas". **O "presente funesto" (Pandora) foi a vingança de Zeus contra Prometeu** — mas acabou desviando a rota.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Pandora | RC-086 | é-vingança-via |
-| Mônada (Mônada Espiritual) | RC-149 | sacanela |
-| Mônada (Mônada Espiritual) | RC-149 | é-paralelo-com |
-| Linhagem dos Patriarcas Hebreus | RC-270 | associado |
-| Pactos do Criador (troca de informações) | RC-271 | associado |
-| Prometeu (titã) | RC-301 | protagoniza |
-| Epimeteu (titã) | RC-302 | é-irmão-de |
-| Desvio de Rota de Pandora (Contra o Plano de Zeus) | RC-806 | é-consequência-de |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Pandora | RC-086 | é-um | -> | consolidação: "é-vingança-via" → "é-um" |
+| Mônada (Mônada Espiritual) | RC-149 | relaciona-se-a | -> | consolidação: "sacanela" → "relaciona-se-a" |
+| Mônada (Mônada Espiritual) | RC-149 | associado | <-> | consolidação: "é-paralelo-com" → "associado" |
+| Linhagem dos Patriarcas Hebreus | RC-270 | associado | <-> | - |
+| Pactos do Criador (troca de informações) | RC-271 | associado | <-> | - |
+| Prometeu (titã) | RC-301 | envolve | -> | consolidação: "protagoniza" → "envolve" |
+| Epimeteu (titã) | RC-302 | é-um | -> | consolidação: "é-irmão-de" → "é-um" |
+| Desvio de Rota de Pandora (Contra o Plano de Zeus) | RC-806 | causa | <- | consolidação: "é-consequência-de" → "causa"; direção invertida (forma passiva/inversa) |
 
 ## Seres Associados
 - **Prometeu** (RC-301) — o "saca-nica"

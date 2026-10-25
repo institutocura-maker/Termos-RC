@@ -24,29 +24,29 @@ atualizado = "2026-08-29"
 O Isolamento Cósmico é o **fim do período da Rebelião de Lúcifer** e a condição que explica a ausência de contato oficial com ETs. Sua superação inicia a Reintegração Cósmica da Terra.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Rebelião de Lúcifer | RC-002 | ← resulta-em |
-| Reintegração Cósmica | RC-003 | associado |
-| Segundo Advento do Cristo (Volta de Jesus) | RC-005 | termina-com |
-| Exilados de Capela | RC-007 | associado |
-| Sophia (Cristo Cósmico) | RC-009 | associado |
-| Lúcifer (Yel Luzbel) | RC-078 | associado |
-| Ulsh | RC-105 | associado |
-| Yel Luzbel | RC-142 | associado |
-| Cidadão Cósmico | RC-226 | associado |
-| Coreografia Cósmica (vinda de Sophia) | RC-258 | associado |
-| Os 270 Mundos (profecia do Zohar) | RC-265 | associado |
-| Drama do Fechamento dos Portais | RC-295 | associado |
-| Fenômenos Denunciadores do Fim | RC-314 | associado |
-| Quarentena Sideral / Cósmica | RC-342 | ← variação |
-| Ilha Cósmica (mundos rebelados) | RC-353 | associado |
-| Terra de Ninguém (cósmica) | RC-358 | associado |
-| Blindagem cósmica (= quarentena terrestre) | RC-510 | ← variação |
-| Biblioteca Genômica Humana | RC-889 | associado |
-| Qualia como Processamento Humano | RC-894 | associado |
-| Point Interdimensional | RC-896 | associado |
-| Choque de Realidade | RC-898 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Rebelião de Lúcifer | RC-002 | causa | <- | consolidação: "resulta-em" → "causa" |
+| Reintegração Cósmica | RC-003 | associado | <-> | - |
+| Segundo Advento do Cristo (Volta de Jesus) | RC-005 | sucede | -> | consolidação: "termina-com" → "sucede" |
+| Exilados de Capela | RC-007 | associado | <-> | - |
+| Sophia (Cristo Cósmico) | RC-009 | associado | <-> | - |
+| Lúcifer (Yel Luzbel) | RC-078 | associado | <-> | - |
+| Ulsh | RC-105 | associado | <-> | - |
+| Yel Luzbel | RC-142 | associado | <-> | - |
+| Cidadão Cósmico | RC-226 | associado | <-> | - |
+| Coreografia Cósmica (vinda de Sophia) | RC-258 | associado | <-> | - |
+| Os 270 Mundos (profecia do Zohar) | RC-265 | associado | <-> | - |
+| Drama do Fechamento dos Portais | RC-295 | associado | <-> | - |
+| Fenômenos Denunciadores do Fim | RC-314 | associado | <-> | - |
+| Quarentena Sideral / Cósmica | RC-342 | variação | <- | - |
+| Ilha Cósmica (mundos rebelados) | RC-353 | associado | <-> | - |
+| Terra de Ninguém (cósmica) | RC-358 | associado | <-> | - |
+| Blindagem cósmica (= quarentena terrestre) | RC-510 | variação | <- | - |
+| Biblioteca Genômica Humana | RC-889 | associado | <-> | - |
+| Qualia como Processamento Humano | RC-894 | associado | <-> | - |
+| Point Interdimensional | RC-896 | associado | <-> | - |
+| Choque de Realidade | RC-898 | associado | <-> | - |
 
 ## Ampliação
 ### P2024-07-13

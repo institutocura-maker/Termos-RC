@@ -23,22 +23,22 @@ Pulsação dos elétrons do universo material e dos antielétrons do universo an
 A palestra compara a qualidade moral/psíquica das pulsações de seres biológicos e demos.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | ocorre-em |
-| Universo Material (Bhuloka) | RC-107 | ocorre-em |
-| Memória Quântica dos Elétrons | RC-161 | envolve |
-| Memória Quântica dos Elétrons | RC-161 | ← relaciona-se-a |
-| Memória Quântica dos Elétrons | RC-161 | relaciona-se-a |
-| Memória Quântica dos Elétrons | RC-161 | relaciona-se-a |
-| Elétrons (agente básico da vida universal) | RC-162 | envolve |
-| Simultaneidade Reversa | RC-628 | relaciona-se-a |
-| Transferência da Memória dos Antielétrons | RC-637 | associado |
-| Ishvara (Isuara — Retrato de Prabrajna Antes da Queda) | RC-691 | relaciona-se-a |
-| Kit Reencarnatório de Elétrons | RC-692 | ← relaciona-se-a |
-| Ser Humano Não Local | RC-708 | ← relaciona-se-a |
-| Atos performativos (as frases que fazem coisas com palavras) | RC-876 | associado |
-| Biocosmos emergente (a nova mente biológica global ancorada nos campos mórficos) | RC-879 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | contexto | -> | consolidação: "ocorre-em" → "contexto" |
+| Universo Material (Bhuloka) | RC-107 | contexto | -> | consolidação: "ocorre-em" → "contexto" |
+| Memória Quântica dos Elétrons | RC-161 | envolve | -> | - |
+| Memória Quântica dos Elétrons | RC-161 | relaciona-se-a | <- | - |
+| Memória Quântica dos Elétrons | RC-161 | relaciona-se-a | -> | - |
+| Memória Quântica dos Elétrons | RC-161 | relaciona-se-a | -> | - |
+| Elétrons (agente básico da vida universal) | RC-162 | envolve | -> | - |
+| Simultaneidade Reversa | RC-628 | relaciona-se-a | -> | - |
+| Transferência da Memória dos Antielétrons | RC-637 | associado | <-> | - |
+| Ishvara (Isuara — Retrato de Prabrajna Antes da Queda) | RC-691 | relaciona-se-a | -> | - |
+| Kit Reencarnatório de Elétrons | RC-692 | relaciona-se-a | <- | - |
+| Ser Humano Não Local | RC-708 | relaciona-se-a | <- | - |
+| Atos performativos (as frases que fazem coisas com palavras) | RC-876 | associado | <-> | - |
+| Biocosmos emergente (a nova mente biológica global ancorada nos campos mórficos) | RC-879 | associado | <-> | - |
 
 ## Seres Associados
 Consultar relações acima.

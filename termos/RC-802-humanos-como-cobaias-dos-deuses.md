@@ -24,14 +24,14 @@ Tese (leitura do autor, palestra **P2018-02-24**, U0004/U0005) de que **os human
 Aparece em **P2018-02-24**, U0004 e U0005. Contexto: depois de 2 avatares destruírem o mal centralizado, as trevas espalharam o mal em todos os corações humanos. Jesus, segundo o autor, "tentou avisar" que os humanos são cobaias que receberam o "final de genética da vida dos deuses" — incluindo a doença do criador.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Seres Terrenos (Homo Sapiens) | RC-099 | qualifica |
-| Ser-Criador fracassado (autoconfissão de Javé) | RC-422 | transferiu-doença-para |
-| DNA Insubmisso / Linhagem Pandora–Eva–Noreia | RC-727 | contrapõe-a |
-| Estratégia dos Avatares (Moisés/Krishna/Saibaba/Jesus/Maomé) | RC-797 | é-produto-de |
-| Pandora como Oposição à Estratégia dos Avatares | RC-799 | bate-duro-por |
-| Jesus como Último Avatar (Não Mata) | RC-800 | reconheceu |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Seres Terrenos (Homo Sapiens) | RC-099 | explica | -> | consolidação: "qualifica" → "explica" |
+| Ser-Criador fracassado (autoconfissão de Javé) | RC-422 | transfere | -> | consolidação: "transferiu-doença-para" → "transfere" |
+| DNA Insubmisso / Linhagem Pandora–Eva–Noreia | RC-727 | opõe-se-a | -> | consolidação: "contrapõe-a" → "opõe-se-a" |
+| Estratégia dos Avatares (Moisés/Krishna/Saibaba/Jesus/Maomé) | RC-797 | origina | <- | consolidação: "é-produto-de" → "origina"; direção invertida (forma passiva/inversa) |
+| Pandora como Oposição à Estratégia dos Avatares | RC-799 | relaciona-se-a | -> | consolidação: "bate-duro-por" → "relaciona-se-a" |
+| Jesus como Último Avatar (Não Mata) | RC-800 | observa | -> | consolidação: "reconheceu" → "observa" |
 
 ## Seres Associados
 - **Humanidade** (RC-099) — quem é cobaia

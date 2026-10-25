@@ -29,13 +29,13 @@ Evento/missão central da narrativa de Javé na leitura de Ellam: a retirada das
 - cronologia interna: Êxodo "cerca de 3.300 anos atrás" (datas conflitantes no próprio texto — ver divergências).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | relaciona-se-a |
-| Criaturas-ferramenta | RC-164 | é-um |
-| Pactos do Criador (troca de informações) | RC-271 | relaciona-se-a |
-| Linhagem dos Escolhidos (Adão, Enoch, Abraão, Jacó) | RC-424 | relaciona-se-a |
-| Torá / Pentateuco | RC-683 | relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Javé | RC-001 | relaciona-se-a | -> | - |
+| Criaturas-ferramenta | RC-164 | é-um | -> | - |
+| Pactos do Criador (troca de informações) | RC-271 | relaciona-se-a | -> | - |
+| Linhagem dos Escolhidos (Adão, Enoch, Abraão, Jacó) | RC-424 | relaciona-se-a | -> | - |
+| Torá / Pentateuco | RC-683 | relaciona-se-a | -> | - |
 
 ## Fontes
 

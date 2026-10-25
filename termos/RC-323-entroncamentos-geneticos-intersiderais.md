@@ -31,19 +31,19 @@ Os cruzamentos genéticos entre diferentes cepas (demo, biodemo, biodemol, human
 Os entroncamentos genéticos explicam a composição do genoma humano como "mosaico" de origens intersiderais: "como se mãos invisíveis estivessem manipulando as suas vidas naquele sentido". Conecta-se ao "problema" dos povos híbridos entre os contextos demoníaco e humano, e à história de Hiperbórea, dos nephelim/anunnaki e dos sirianos.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Anunnaki | RC-024 | envolve |
-| Biodemos | RC-036 | envolve |
-| Hiperbórea | RC-068 | local |
-| Nephilins | RC-082 | envolve |
-| Revelação Cósmica (conceito) | RC-094 | associado |
-| Seres Terrenos (Homo Sapiens) | RC-099 | associado |
-| Biodemol | RC-186 | envolve |
-| Grupos de Entroncamento (1-4) | RC-324 | é-um |
-| Hibridização genética (Nefilim reinterpretado) | RC-516 | ← relaciona-se-a |
-| Laboratório Genético Terra (linhagens monitoradas) | RC-531 | ← relaciona-se-a |
-| Aristocracia Olimpiana e Monarquias Terrestres | RC-736 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Anunnaki | RC-024 | envolve | -> | - |
+| Biodemos | RC-036 | envolve | -> | - |
+| Hiperbórea | RC-068 | contexto | -> | consolidação: "local" → "contexto" |
+| Nephilins | RC-082 | envolve | -> | - |
+| Revelação Cósmica (conceito) | RC-094 | associado | <-> | - |
+| Seres Terrenos (Homo Sapiens) | RC-099 | associado | <-> | - |
+| Biodemol | RC-186 | envolve | -> | - |
+| Grupos de Entroncamento (1-4) | RC-324 | é-um | -> | - |
+| Hibridização genética (Nefilim reinterpretado) | RC-516 | relaciona-se-a | <- | - |
+| Laboratório Genético Terra (linhagens monitoradas) | RC-531 | relaciona-se-a | <- | - |
+| Aristocracia Olimpiana e Monarquias Terrestres | RC-736 | associado | <-> | - |
 
 ## Seres Associados
 Biodemos (RC-036); Biodemol (RC-186); Nephilins/Anunnaki (RC-082/RC-024); Seres Terrenos (RC-099).

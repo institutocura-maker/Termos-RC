@@ -25,27 +25,27 @@ São os **seres vivos que expressam o fenômeno da vida** no universo: "sem os s
 Termo-título da obra primária *A Epopeia dos Agentes da Vida Universal* (B024, 2019). O livro narra a história por trás dos "Agentes" de um "Jogo" — o **Xadrez Cósmico** — executado por Divindades (a Trimurti), tomando as espécies da vida universal como suas "equipes". Inclui anjos-clones, demos, biodemos, fenvans e as espécies biológicas do universo material.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | origem |
-| Universo Material (Bhuloka) | RC-107 | habita |
-| Mônada (Mônada Espiritual) | RC-149 | é-um |
-| Xadrez Cósmico | RC-150 | contexto |
-| Entropia e Negentropia | RC-160 | forças que os afetam |
-| Elétrons (agente básico da vida universal) | RC-162 | associado |
-| Criaturas-ferramenta | RC-164 | relaciona-se-a |
-| Karuna | RC-165 | modo de agir |
-| Escola dos Agentes Esclarecidos da Busca da Verdade | RC-256 | associado |
-| Fonte da Vida (metáfora da ilha/oceano) | RC-356 | ← usa |
-| Criaturas-ferramenta | RC-449 | ← relaciona-se-a |
-| Coleta de informações (espírito encarnado) | RC-524 | ← relaciona-se-a |
-| Humanos: Últimos e Primeiros | RC-654 | ← relaciona-se-a |
-| Pactos de Javé (Brama / Vishnu / Shiva) | RC-781 | associado |
-| Shiva como Primeiro Demo (Saiu do Clone Destruído) | RC-810 | associado |
-| Alimentação por Perfume dos Humanos (Demos se Alimentam de DNA) | RC-820 | associado |
-| Soca/Reis/Rit como Receptor Universal (Instrumento da Trimurti) | RC-821 | associado |
-| Código Genético como Marca da Herança Demoníaca | RC-825 | associado |
-| Era do Colapso do Caos Organizado | RC-827 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | origina | -> | consolidação: "origem" → "origina" |
+| Universo Material (Bhuloka) | RC-107 | contexto | -> | consolidação: "habita" → "contexto" |
+| Mônada (Mônada Espiritual) | RC-149 | é-um | -> | - |
+| Xadrez Cósmico | RC-150 | contexto | -> | - |
+| Entropia e Negentropia | RC-160 | relaciona-se-a | -> | texto bruto original: forças que os afetam |
+| Elétrons (agente básico da vida universal) | RC-162 | associado | <-> | - |
+| Criaturas-ferramenta | RC-164 | relaciona-se-a | -> | - |
+| Karuna | RC-165 | relaciona-se-a | -> | texto bruto original: modo de agir |
+| Escola dos Agentes Esclarecidos da Busca da Verdade | RC-256 | associado | <-> | - |
+| Fonte da Vida (metáfora da ilha/oceano) | RC-356 | usa | <- | - |
+| Criaturas-ferramenta | RC-449 | relaciona-se-a | <- | - |
+| Coleta de informações (espírito encarnado) | RC-524 | relaciona-se-a | <- | - |
+| Humanos: Últimos e Primeiros | RC-654 | relaciona-se-a | <- | - |
+| Pactos de Javé (Brama / Vishnu / Shiva) | RC-781 | associado | <-> | - |
+| Shiva como Primeiro Demo (Saiu do Clone Destruído) | RC-810 | associado | <-> | - |
+| Alimentação por Perfume dos Humanos (Demos se Alimentam de DNA) | RC-820 | associado | <-> | - |
+| Soca/Reis/Rit como Receptor Universal (Instrumento da Trimurti) | RC-821 | associado | <-> | - |
+| Código Genético como Marca da Herança Demoníaca | RC-825 | associado | <-> | - |
+| Era do Colapso do Caos Organizado | RC-827 | associado | <-> | - |
 
 ## Seres Associados
 Anjos clones (RC-019); Demos (RC-049); Biodemos (RC-036); Fenvans (RC-064); Seres Terrenos (RC-099).

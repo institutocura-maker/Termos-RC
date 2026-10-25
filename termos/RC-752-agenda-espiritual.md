@@ -27,16 +27,16 @@ A **expressão prática** da bagagem espiritual: o conjunto de necessidades e pe
 - relação com o favor divino (RC-332) e com o papel de criatura-ferramenta (RC-164).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | relaciona-se-a |
-| Criaturas-ferramenta | RC-164 | relaciona-se-a |
-| Favor Divino (conceito invertido) | RC-332 | relaciona-se-a |
-| Ciência Pessoal / Doutrina da Própria Personalidade | RC-695 | relaciona-se-a |
-| Corpo Sutil Reencarnante | RC-704 | relaciona-se-a |
-| Bagagem Espiritual Intransferível | RC-751 | ← gera |
-| Messias | RC-942 | associado |
-| João Batista | RC-944 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Javé | RC-001 | relaciona-se-a | -> | - |
+| Criaturas-ferramenta | RC-164 | relaciona-se-a | -> | - |
+| Favor Divino (conceito invertido) | RC-332 | relaciona-se-a | -> | - |
+| Ciência Pessoal / Doutrina da Própria Personalidade | RC-695 | relaciona-se-a | -> | - |
+| Corpo Sutil Reencarnante | RC-704 | relaciona-se-a | -> | - |
+| Bagagem Espiritual Intransferível | RC-751 | origina | <- | consolidação: "gera" → "origina" |
+| Messias | RC-942 | associado | <-> | - |
+| João Batista | RC-944 | associado | <-> | - |
 
 ## Ampliação — STT26-EXPERIENCIA_ESPIRITUAL_ETICA (Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados))
 

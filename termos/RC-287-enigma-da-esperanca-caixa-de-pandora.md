@@ -24,14 +24,14 @@ Na Revelação Cósmica de Jan Val Ellam, a "Caixa de Pandora" — associada ao 
 
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Pandora | RC-086 | associado-a |
-| Pandora | RC-086 | ← relaciona-se-a |
-| Seres Terrenos (Homo Sapiens) | RC-099 | associado |
-| Zeus | RC-145 | associado |
-| En Ma (Emá / Emar — espírito-âncora) | RC-476 | (contexto) |
-| Tikun Cósmico (restabelecimento da Criação) | RC-514 | relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Pandora | RC-086 | associado | <-> | - |
+| Pandora | RC-086 | relaciona-se-a | <- | - |
+| Seres Terrenos (Homo Sapiens) | RC-099 | associado | <-> | - |
+| Zeus | RC-145 | associado | <-> | - |
+| En Ma (Emá / Emar — espírito-âncora) | RC-476 | contexto | -> | qualificador preservado: contexto; qualificador promovido a rótulo-base |
+| Tikun Cósmico (restabelecimento da Criação) | RC-514 | relaciona-se-a | -> | - |
 
 
 ## Fontes

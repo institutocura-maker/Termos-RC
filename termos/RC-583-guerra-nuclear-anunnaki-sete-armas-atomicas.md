@@ -24,17 +24,17 @@ Conflito entre clãs Anunnakis com uso de sete armas atômicas atribuídas a Nib
 A guerra envolve Enki, Enlil, Marduk, Anu e Ninurta e teria provocado o enfraquecimento do domínio Anunnaki na Terra.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Anunnaki | RC-024 | associado |
-| Marduk (= Ra; Anunnaki filho de Enki) | RC-460 | envolve |
-| Enki (Anunnaki; inoculou o gene FOXP2) | RC-486 | envolve |
-| Enlil (deus sumério, par de Enki) | RC-487 | envolve |
-| Igigi | RC-580 | associado |
-| Anu (patriarca Anunnaki) | RC-587 | envolve |
-| Ninurta | RC-588 | envolve |
-| Ninurta | RC-588 | ← envolve |
-| Nibiru | RC-589 | origem-em |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Anunnaki | RC-024 | associado | <-> | - |
+| Marduk (= Ra; Anunnaki filho de Enki) | RC-460 | envolve | -> | - |
+| Enki (Anunnaki; inoculou o gene FOXP2) | RC-486 | envolve | -> | - |
+| Enlil (deus sumério, par de Enki) | RC-487 | envolve | -> | - |
+| Igigi | RC-580 | associado | <-> | - |
+| Anu (patriarca Anunnaki) | RC-587 | envolve | -> | - |
+| Ninurta | RC-588 | envolve | -> | - |
+| Ninurta | RC-588 | envolve | <- | - |
+| Nibiru | RC-589 | origina | -> | consolidação: "origem-em" → "origina" |
 
 ## Seres Associados
 Enki (Anunnaki; inoculou o gene FOXP2) (RC-486); Enlil (deus sumério, par de Enki) (RC-487); Marduk (= Ra; Anunnaki filho de Enki) (RC-460); Anu (patriarca Anunnaki) (RC-587); Ninurta (RC-588)

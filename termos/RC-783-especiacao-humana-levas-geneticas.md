@@ -24,16 +24,16 @@ Tese (leitura do autor, palestra **P2019-05-11 — Pandora e os Desacertos dos P
 Aparece em **P2019-05-11**, U0005 (Q&A), em resposta à pergunta sobre "seres demos que encarnam na nova espécie". A tese: talvez se espere 1, 2, 3 levas genéticas até que se forme uma subespécie humana **livre de corrupção, livre de doença** — que será a **raça-raiz da nova mente espiritual**, a fonte das **novas marcações no elétron**.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Especiação | RC-056 | parte-de |
-| Seres Terrenos (Homo Sapiens) | RC-099 | aplica-se-a |
-| Ressurreição do Cadáver do Criador | RC-638 | associado |
-| Especiação a partir do DNA Humano | RC-778 | sinônimo-parcial |
-| Sophia como Protetorado da Humanidade | RC-784 | contextualizado-por |
-| DNA Neutralizado (código neutralizado de podridão do criador) | RC-864 | associado |
-| Midana (o código original primordial semeado no universo biológico) | RC-871 | associado |
-| Civilizações Insetoides (12 bi anos) | (RC-638) | opõe-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Especiação | RC-056 | parte-de | -> | - |
+| Seres Terrenos (Homo Sapiens) | RC-099 | usa | -> | consolidação: "aplica-se-a" → "usa" |
+| Ressurreição do Cadáver do Criador | RC-638 | associado | <-> | - |
+| Especiação a partir do DNA Humano | RC-778 | variação | -> | consolidação: "sinônimo-parcial" → "variação" |
+| Sophia como Protetorado da Humanidade | RC-784 | contexto | <- | consolidação: "contextualizado-por" → "contexto"; direção invertida (forma passiva/inversa) |
+| DNA Neutralizado (código neutralizado de podridão do criador) | RC-864 | associado | <-> | - |
+| Midana (o código original primordial semeado no universo biológico) | RC-871 | associado | <-> | - |
+| Civilizações Insetoides (12 bi anos) | (RC-638) | opõe-se-a | -> | - |
 
 ## Seres Associados
 - **Sophia / Sofia** (RC-009) — quem vai gerenciar a especiação

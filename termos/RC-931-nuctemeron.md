@@ -27,11 +27,11 @@ Em B016 (*O Quarto Logos*), o «Nuctemeron» é o único escrito de Apolônio de
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Quarto Logos (Olm / Codificador de Zian) | RC-092 | associado |
-| Apolônio de Tiana (encarnação do Quarto Logos) | RC-259 | associado |
-| Escola da Decifração da Realidade (Método Druídico) | RC-755 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Quarto Logos (Olm / Codificador de Zian) | RC-092 | associado | <-> | - |
+| Apolônio de Tiana (encarnação do Quarto Logos) | RC-259 | associado | <-> | - |
+| Escola da Decifração da Realidade (Método Druídico) | RC-755 | associado | <-> | - |
 
 ## Fontes
 

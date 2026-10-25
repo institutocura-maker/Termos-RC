@@ -17,18 +17,18 @@ atualizado = "2026-08-18"
 Corrente esotérica cujas fontes são os **evangelhos gnósticos** — na RC, um dos **focos de revelação** que Thot "organizou lá atrás", contraponto à Cabala (RC-261/262/264/468).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Jesus | RC-072 | ← relaciona-se-a |
-| Revelação Espiritual (Kardec) | RC-190 | associado |
-| Kether (Javé na Cabala) | RC-261 | opõe-se-a |
-| Sefirot / Árvore da Vida | RC-263 | associado |
-| Sepher ha-Zohar (e Shimon Bar Yochai) | RC-266 | associado |
-| Hermes Trismegisto (= Ningishzidda/Thoth/Quetzalcóatl) | RC-463 | ← relaciona-se-a |
-| Barbelo (Mãe-Pai primordial gnóstica) | RC-483 | relaciona-se-a |
-| Evangelho de Judas | RC-647 | ← relaciona-se-a |
-| As Sete Leis Herméticas | RC-763 | relaciona-se-a |
-| Cabala | RC-261/262/264/468 | contraponto-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Jesus | RC-072 | relaciona-se-a | <- | - |
+| Revelação Espiritual (Kardec) | RC-190 | associado | <-> | - |
+| Kether (Javé na Cabala) | RC-261 | opõe-se-a | -> | - |
+| Sefirot / Árvore da Vida | RC-263 | associado | <-> | - |
+| Sepher ha-Zohar (e Shimon Bar Yochai) | RC-266 | associado | <-> | - |
+| Hermes Trismegisto (= Ningishzidda/Thoth/Quetzalcóatl) | RC-463 | relaciona-se-a | <- | - |
+| Barbelo (Mãe-Pai primordial gnóstica) | RC-483 | relaciona-se-a | -> | - |
+| Evangelho de Judas | RC-647 | relaciona-se-a | <- | - |
+| As Sete Leis Herméticas | RC-763 | relaciona-se-a | -> | - |
+| Cabala | RC-261/262/264/468 | opõe-se-a | -> | consolidação: "contraponto-a" → "opõe-se-a" |
 
 ## Fontes
 

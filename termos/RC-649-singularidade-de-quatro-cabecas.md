@@ -23,13 +23,13 @@ Ser composto pelas três forças da Trimurti e uma cabeça livre, associado a Mo
 Extraído da live P2025-10-25 — 2ª Edição Estagiários do Kaos.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Mohen So (Avatar Keshava de Vishnu) | RC-081 | envolve |
-| Quarto Logos (Olm / Codificador de Zian) | RC-092 | associado |
-| Trimurti | RC-104 | envolve |
-| Mohen So = Phanes / Protogonos / Vasuki / Kalki (correspondências) | RC-282 | — |
-| Elm (Moros — ser LM de Tempérion) | RC-454 | vinculado-ao-espírito |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Mohen So (Avatar Keshava de Vishnu) | RC-081 | envolve | -> | - |
+| Quarto Logos (Olm / Codificador de Zian) | RC-092 | associado | <-> | - |
+| Trimurti | RC-104 | envolve | -> | - |
+| Mohen So = Phanes / Protogonos / Vasuki / Kalki (correspondências) | RC-282 | - | - | sem relação informada; 17 linhas são registros de fonte com 4 colunas |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | associado | <-> | consolidação: "vinculado-ao-espírito" → "associado" |
 
 ## Seres Associados
 Consultar relações na Base.

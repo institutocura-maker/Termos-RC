@@ -32,35 +32,35 @@ Após apropriar-se de conhecimentos associados ao Ragnarok e considerar-se parci
 Entre os filhos da mente aparecem Rishis como Marichi, Atri, Angiras, Pulastya, Pulaha e Kratu. A enumeração de sete nomes está incompleta no STT. Kashyapa, descendente de Marichi, torna-se grande hub genealógico. Daksha e Virini estruturam outra linha, ligada às filhas Aditi, Diti e Kadru.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Brahma (Brajna) | RC-037 | gerada-por |
-| Brahma (Brajna) | RC-037 | ← gera |
-| Brahma (Brajna) | RC-037 | ← relaciona-se-a |
-| DNA como Projeção Holográfica do Psiquismo do Criador | RC-217 | relaciona-se-a |
-| Asuras (= Titãs) | RC-465 | relaciona-se-a |
-| Indra (título de arconte) | RC-480 | relaciona-se-a |
-| Faces de Javé (sucessivas manifestações do Criador) | RC-561 | relaciona-se-a |
-| Rama (avatar de Vishnu) | RC-584 | relaciona-se-a |
-| Rishis | RC-586 | inclui |
-| Rishis | RC-586 | ← parte-de |
-| Rishis | RC-586 | ← integra |
-| Rishis | RC-586 | inclui |
-| Descendência de Kadru (Nagas, Uragas e Maharagas) | RC-664 | relaciona-se-a |
-| Descendência de Kadru (Nagas, Uragas e Maharagas) | RC-664 | ← parte-de |
-| Mão Invisível Multiforme / Conselho das Nagas | RC-697 | ← relaciona-se-a |
-| Kashyapa | RC-700 | inclui |
-| Kashyapa | RC-700 | ← parte-de |
-| Kashyapa | RC-700 | inclui |
-| Kashyapa | RC-700 | relaciona-se-a |
-| Kashyapa | RC-700 | ← relaciona-se-a |
-| Daksha e Virini | RC-701 | inclui |
-| Daksha e Virini | RC-701 | ← parte-de |
-| Daksha e Virini | RC-701 | relaciona-se-a |
-| Samudra Manthana / Batimento do Oceano de Leite | RC-734 | ← precede |
-| Samudra Manthana / Batimento do Oceano de Leite | RC-734 | sucede |
-| Corpos Fenvã (terceira forma de vida do universo vizinho) | RC-769 | ← relaciona-se-a |
-| Quinaras / Centauros (Seres Reais que Hoje Nascem Humanos) | RC-790 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Brahma (Brajna) | RC-037 | origina | <- | consolidação: "gerada-por" → "origina"; direção invertida (forma passiva/inversa) |
+| Brahma (Brajna) | RC-037 | origina | <- | consolidação: "gera" → "origina" |
+| Brahma (Brajna) | RC-037 | relaciona-se-a | <- | - |
+| DNA como Projeção Holográfica do Psiquismo do Criador | RC-217 | relaciona-se-a | -> | - |
+| Asuras (= Titãs) | RC-465 | relaciona-se-a | -> | - |
+| Indra (título de arconte) | RC-480 | relaciona-se-a | -> | - |
+| Faces de Javé (sucessivas manifestações do Criador) | RC-561 | relaciona-se-a | -> | - |
+| Rama (avatar de Vishnu) | RC-584 | relaciona-se-a | -> | - |
+| Rishis | RC-586 | inclui | -> | - |
+| Rishis | RC-586 | parte-de | <- | - |
+| Rishis | RC-586 | inclui | <- | consolidação: "integra" → "inclui" |
+| Rishis | RC-586 | inclui | -> | - |
+| Descendência de Kadru (Nagas, Uragas e Maharagas) | RC-664 | relaciona-se-a | -> | - |
+| Descendência de Kadru (Nagas, Uragas e Maharagas) | RC-664 | parte-de | <- | - |
+| Mão Invisível Multiforme / Conselho das Nagas | RC-697 | relaciona-se-a | <- | - |
+| Kashyapa | RC-700 | inclui | -> | - |
+| Kashyapa | RC-700 | parte-de | <- | - |
+| Kashyapa | RC-700 | inclui | -> | - |
+| Kashyapa | RC-700 | relaciona-se-a | -> | - |
+| Kashyapa | RC-700 | relaciona-se-a | <- | - |
+| Daksha e Virini | RC-701 | inclui | -> | - |
+| Daksha e Virini | RC-701 | parte-de | <- | - |
+| Daksha e Virini | RC-701 | relaciona-se-a | -> | - |
+| Samudra Manthana / Batimento do Oceano de Leite | RC-734 | precede | <- | - |
+| Samudra Manthana / Batimento do Oceano de Leite | RC-734 | sucede | -> | - |
+| Corpos Fenvã (terceira forma de vida do universo vizinho) | RC-769 | relaciona-se-a | <- | - |
+| Quinaras / Centauros (Seres Reais que Hoje Nascem Humanos) | RC-790 | associado | <-> | - |
 
 ## Ampliação — OIDR26-02 (Onda incremental dry-run — Mitologias, tradições e reintegração (derivados normalizados))
 

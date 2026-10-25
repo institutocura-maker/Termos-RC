@@ -24,22 +24,22 @@ Vestimenta/nível mental posterior ao búdico, no qual surgiria vontade de criar
 A live identifica este nível como origem do ímpeto criativo, após a tomada de consciência possibilitada pelo Corpo Búdico.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | ← relaciona-se-a |
-| Espiritualidade Laboratorial | RC-061 | ← associada-a |
-| Realidade Maior / Paraíso Original | RC-204 | associado |
-| Marduk (= Ra; Anunnaki filho de Enki) | RC-460 | associado |
-| Mêntion (estruturas da mente extrafísica) | RC-511 | relaciona-se-a |
-| Protocolo Mental (padrões organizadores da mente) | RC-517 | associado |
-| Protocolos / Algoritmos da Perfeição | RC-606 | associado |
-| Corpo Átmico | RC-623 | relaciona-se-a |
-| Corpo Búdico | RC-624 | ← investido-por |
-| Corpo Búdico | RC-624 | investe |
-| Corpo Daiva / Corpo Demoníaco de Plasma | RC-630 | associado |
-| Ishvara (Isuara — Retrato de Prabrajna Antes da Queda) | RC-691 | ← relaciona-se-a |
-| Corpo Sutil Reencarnante | RC-704 | ← relaciona-se-a |
-| Bhavaṅga / Janela da Percepção | RC-706 | ← relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Javé | RC-001 | relaciona-se-a | <- | - |
+| Espiritualidade Laboratorial | RC-061 | associado | <-> | raiz semântica associado (decisão 3) |
+| Realidade Maior / Paraíso Original | RC-204 | associado | <-> | - |
+| Marduk (= Ra; Anunnaki filho de Enki) | RC-460 | associado | <-> | - |
+| Mêntion (estruturas da mente extrafísica) | RC-511 | relaciona-se-a | -> | - |
+| Protocolo Mental (padrões organizadores da mente) | RC-517 | associado | <-> | - |
+| Protocolos / Algoritmos da Perfeição | RC-606 | associado | <-> | - |
+| Corpo Átmico | RC-623 | relaciona-se-a | -> | - |
+| Corpo Búdico | RC-624 | controla | -> | consolidação: "investido-por" → "controla"; direção invertida (forma passiva/inversa) |
+| Corpo Búdico | RC-624 | controla | -> | consolidação: "investe" → "controla" |
+| Corpo Daiva / Corpo Demoníaco de Plasma | RC-630 | associado | <-> | - |
+| Ishvara (Isuara — Retrato de Prabrajna Antes da Queda) | RC-691 | relaciona-se-a | <- | - |
+| Corpo Sutil Reencarnante | RC-704 | relaciona-se-a | <- | - |
+| Bhavaṅga / Janela da Percepção | RC-706 | relaciona-se-a | <- | - |
 
 ## Fontes
 | Fonte | Localização | Tipo |

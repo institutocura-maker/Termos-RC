@@ -23,19 +23,19 @@ Mensagem enviada **de fora do simulacro** (da espiritualidade / dos fenvans, lig
 - "Brasira" → provável Brahmaloka (STT) — não cadastrar como termo.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Anunnaki | RC-024 | associado |
-| Fenvans | RC-064 | associado |
-| Lúcifer (Yel Luzbel) | RC-078 | relaciona-se-a |
-| Processador Val | RC-089 | associado |
-| Projeto Talm | RC-091 | associado |
-| Yel Lupon | RC-141 | associado |
-| Karuna | RC-165 | associado |
-| Camuflagem da Realidade | RC-702 | relaciona-se-a |
-| As Cinco Lentes da Realidade | RC-761 | ← relaciona-se-a |
-| Ginnungagap (zona intercessória entre universos; prisão dos fenvans frustrados) | RC-776 | associado |
-| Carga virótica (a materialização da primeira carga mental do criador) | RC-877 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Anunnaki | RC-024 | associado | <-> | - |
+| Fenvans | RC-064 | associado | <-> | - |
+| Lúcifer (Yel Luzbel) | RC-078 | relaciona-se-a | -> | - |
+| Processador Val | RC-089 | associado | <-> | - |
+| Projeto Talm | RC-091 | associado | <-> | - |
+| Yel Lupon | RC-141 | associado | <-> | - |
+| Karuna | RC-165 | associado | <-> | - |
+| Camuflagem da Realidade | RC-702 | relaciona-se-a | -> | - |
+| As Cinco Lentes da Realidade | RC-761 | relaciona-se-a | <- | - |
+| Ginnungagap (zona intercessória entre universos; prisão dos fenvans frustrados) | RC-776 | associado | <-> | - |
+| Carga virótica (a materialização da primeira carga mental do criador) | RC-877 | associado | <-> | - |
 
 ## Fontes
 

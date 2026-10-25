@@ -27,14 +27,14 @@ No argumento de B019, o ancestral comum de toda a vida terrestre: apenas existe 
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Seres Terrenos (Homo Sapiens) | RC-099 | associado |
-| Eva (figura) | RC-189 | ← distingue-se-de |
-| DNA como Projeção Holográfica do Psiquismo do Criador | RC-217 | relaciona-se-a |
-| Arquitetos Universais (coletivo cocriador) | RC-539 | associado |
-| Evolução Possível (terceira via: nem Darwin, nem deus) | RC-541 | ← relaciona-se-a |
-| Ex-DNA-lixo (DNA não codificante reinterpretado) | RC-542 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Seres Terrenos (Homo Sapiens) | RC-099 | associado | <-> | - |
+| Eva (figura) | RC-189 | opõe-se-a | <- | consolidação: "distingue-se-de" → "opõe-se-a" |
+| DNA como Projeção Holográfica do Psiquismo do Criador | RC-217 | relaciona-se-a | -> | - |
+| Arquitetos Universais (coletivo cocriador) | RC-539 | associado | <-> | - |
+| Evolução Possível (terceira via: nem Darwin, nem deus) | RC-541 | relaciona-se-a | <- | - |
+| Ex-DNA-lixo (DNA não codificante reinterpretado) | RC-542 | associado | <-> | - |
 
 ## Fontes
 

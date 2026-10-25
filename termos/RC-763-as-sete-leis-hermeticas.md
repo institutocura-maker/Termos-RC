@@ -29,14 +29,14 @@ Conjunto basilar de **sete princípios** que, na cosmovisão apresentada por Jan
 **Física quântica como leitura moderna:** "hoje pra gente esses primeiros seis princípios aí, a física quântica e outras matérias já dão amparo" — os postulados quânticos (RC-703) explicam "de uma forma mais leve, fácil" o que era "muito hermético" na época.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Gnosticismo (contraponto à Cabala) | RC-268 | associado |
-| Hermes Trismegisto (= Ningishzidda/Thoth/Quetzalcóatl) | RC-463 | relaciona-se-a |
-| Teia quântica (o que sai de um ser volta para ele) | RC-559 | relaciona-se-a |
-| Wyrd / Urd (Teia do Destino) | RC-658 | relaciona-se-a |
-| Postulados Quânticos como Manual Operativo | RC-703 | relaciona-se-a |
-| As Três Escalas da Consciência (Sábio → Mago → Iniciado) | RC-762 | relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Gnosticismo (contraponto à Cabala) | RC-268 | associado | <-> | - |
+| Hermes Trismegisto (= Ningishzidda/Thoth/Quetzalcóatl) | RC-463 | relaciona-se-a | -> | - |
+| Teia quântica (o que sai de um ser volta para ele) | RC-559 | relaciona-se-a | -> | - |
+| Wyrd / Urd (Teia do Destino) | RC-658 | relaciona-se-a | -> | - |
+| Postulados Quânticos como Manual Operativo | RC-703 | relaciona-se-a | -> | - |
+| As Três Escalas da Consciência (Sábio → Mago → Iniciado) | RC-762 | relaciona-se-a | -> | - |
 
 ## Fontes
 

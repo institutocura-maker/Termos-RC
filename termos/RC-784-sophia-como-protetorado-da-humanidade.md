@@ -24,17 +24,17 @@ Tese (leitura do autor, palestra **P2019-05-11 — Pandora e os Desacertos dos P
 Aparece em **P2019-05-11**, U0005 (Q&A). Contexto: das 900 milhões de civilizações do cosmos, apenas uma minoria é capaz de construir "formação complexa" no campo da razão filosófica, emocional, do amor — e essa é a humanidade. **Sophia declara a humanidade como protetorado e manda embora "tudo que é pirata"**.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Sophia (Cristo Cósmico) | RC-009 | qualifica |
-| Seres Terrenos (Homo Sapiens) | RC-099 | protege |
-| Telos (de um deus) | RC-292 | é-cumprido-via |
-| Ser-Criador fracassado (autoconfissão de Javé) | RC-422 | resolve |
-| Ressurreição do Cadáver do Criador | RC-638 | associado |
-| Pactos de Javé (Brama / Vishnu / Shiva) | RC-781 | resposta-a |
-| Especiação Humana — Levas Genéticas | RC-783 | contextualizado-por |
-| Suserania Universal (herança prometida a Rockma/Sofia) | RC-859 | associado |
-| Civilizações Insetoides (12 bi anos) | (RC-638) | opõe-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Sophia (Cristo Cósmico) | RC-009 | explica | -> | consolidação: "qualifica" → "explica" |
+| Seres Terrenos (Homo Sapiens) | RC-099 | protege | -> | - |
+| Telos (de um deus) | RC-292 | usa | <- | consolidação: "é-cumprido-via" → "usa"; direção invertida (forma passiva/inversa) |
+| Ser-Criador fracassado (autoconfissão de Javé) | RC-422 | relaciona-se-a | -> | consolidação: "resolve" → "relaciona-se-a" |
+| Ressurreição do Cadáver do Criador | RC-638 | associado | <-> | - |
+| Pactos de Javé (Brama / Vishnu / Shiva) | RC-781 | comunica | -> | consolidação: "resposta-a" → "comunica" |
+| Especiação Humana — Levas Genéticas | RC-783 | contexto | <- | consolidação: "contextualizado-por" → "contexto"; direção invertida (forma passiva/inversa) |
+| Suserania Universal (herança prometida a Rockma/Sofia) | RC-859 | associado | <-> | - |
+| Civilizações Insetoides (12 bi anos) | (RC-638) | opõe-se-a | -> | - |
 
 ## Seres Associados
 - **Sophia / Sofia** (RC-009) — quem declara o protetorado

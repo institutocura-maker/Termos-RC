@@ -25,27 +25,27 @@ Consciência espiritual **particularizada** — também denominada "espírito" o
 A doutrina espírita explica que todos os espíritos foram criados simples e ignorantes e evoluem conforme os mundos onde cada mônada se situa — "até se tornar hominal" (racionalização). As mônadas originalmente imantadas a vegetais e animais irracionais encontram-se hoje, em muitos casos, encarnadas na condição humana. A mônada espiritual distingue-se dos **Seres Extrafísicos** (anjos clones, demos), que nada têm a ver com as consciências espirituais particularizadas.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Adhyagia | RC-012 | variação (alma pura) |
-| Adhyatman | RC-013 | condição |
-| Seres Extrafísicos | RC-097 | distingue-se |
-| Seres Espirituais | RC-100 | é-um |
-| Agentes da Vida Universal | RC-148 | ← é-um |
-| Assinatura da Alma | RC-199 | associado |
-| Kundalini (no contexto RC) | RC-211 | associado |
-| Filhos das Estrelas | RC-222 | ← associado-a |
-| Democracia do Amor da Deidade | RC-333 | é-um |
-| Círculo / Circuito da Perfeição | RC-603 | ← produz |
-| Destino das Mônadas após o Tikun | RC-653 | ← envolve |
-| Quinaras / Centauros (Seres Reais que Hoje Nascem Humanos) | RC-790 | associado |
-| Lamúria dos Deuses (Diagnóstico de Prometeu) | RC-791 | associado |
-| Fogo que se Apaga (Fogo de Prometeu Hoje) | RC-792 | associado |
-| Desvio de Rota de Pandora (Contra o Plano de Zeus) | RC-806 | associado |
-| Shiva como Primeiro Demo (Saiu do Clone Destruído) | RC-810 | associado |
-| Prometeu como Saca-Nica dos Olímpicos | RC-812 | associado |
-| Temis (Têmis) como Mãe-de-Pandora (Co-clonadora) | RC-815 | associado |
-| Prole sem Face (Humanos Modificáveis sem Face Definida) | RC-819 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Adhyagia | RC-012 | variação | -> | qualificador preservado: alma pura |
+| Adhyatman | RC-013 | relaciona-se-a | -> | consolidação: "condição" → "relaciona-se-a" |
+| Seres Extrafísicos | RC-097 | opõe-se-a | -> | consolidação: "distingue-se" → "opõe-se-a" |
+| Seres Espirituais | RC-100 | é-um | -> | - |
+| Agentes da Vida Universal | RC-148 | é-um | <- | - |
+| Assinatura da Alma | RC-199 | associado | <-> | - |
+| Kundalini (no contexto RC) | RC-211 | associado | <-> | - |
+| Filhos das Estrelas | RC-222 | associado | <-> | - |
+| Democracia do Amor da Deidade | RC-333 | é-um | -> | - |
+| Círculo / Circuito da Perfeição | RC-603 | origina | <- | consolidação: "produz" → "origina" |
+| Destino das Mônadas após o Tikun | RC-653 | envolve | <- | - |
+| Quinaras / Centauros (Seres Reais que Hoje Nascem Humanos) | RC-790 | associado | <-> | - |
+| Lamúria dos Deuses (Diagnóstico de Prometeu) | RC-791 | associado | <-> | - |
+| Fogo que se Apaga (Fogo de Prometeu Hoje) | RC-792 | associado | <-> | - |
+| Desvio de Rota de Pandora (Contra o Plano de Zeus) | RC-806 | associado | <-> | - |
+| Shiva como Primeiro Demo (Saiu do Clone Destruído) | RC-810 | associado | <-> | - |
+| Prometeu como Saca-Nica dos Olímpicos | RC-812 | associado | <-> | - |
+| Temis (Têmis) como Mãe-de-Pandora (Co-clonadora) | RC-815 | associado | <-> | - |
+| Prole sem Face (Humanos Modificáveis sem Face Definida) | RC-819 | associado | <-> | - |
 
 ## Seres Associados
 Espiritualidade Superior (RC-059); Seres Adhyatman (RC-013).

@@ -27,11 +27,11 @@ Segundo o glossário de B031, é o universo paralelo ao nosso, chamado de Univer
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Brahmaloka | RC-038 | associado |
-| Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | ← variação |
-| Pendências Existenciais em Realidades Paralelas | RC-744 | ← persiste-em |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Brahmaloka | RC-038 | associado | <-> | - |
+| Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | variação | <- | - |
+| Pendências Existenciais em Realidades Paralelas | RC-744 | contexto | <- | consolidação: "persiste-em" → "contexto" |
 
 ## Ampliação — STT26-EXTRATERRESTRES_TECNOLOGIA (Eixo STT26 — Extraterrestres, tecnologia e cosmos (derivados normalizados))
 

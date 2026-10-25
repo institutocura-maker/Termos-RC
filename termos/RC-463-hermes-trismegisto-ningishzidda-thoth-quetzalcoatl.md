@@ -24,18 +24,18 @@ atualizado = "2026-08-18"
 No verbete de B060, Hermes Trismegisto é listado como um personagem com múltiplas "imantações/encarnações" nas mitologias — padrão típico do corpus RC, em que deuses e heróis antigos são manifestações (avatares) de seres da Espiritualidade Laboratorial (Pashvnaj/LM, eons). Ningishzidda (filho de Enki) e Thoth como escriba dos deuses conectam-se ao Quarto Logos / Codificador de Zian (RC-092/RC-252) — hermetismo, alquimia e tradição esotérica como veículos desse conhecimento.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Anunnaki | RC-024 | relaciona-se-a |
-| Quarto Logos (Olm / Codificador de Zian) | RC-092 | relaciona-se-a (tradição hermética) |
-| Apolônio de Tiana (encarnação do Quarto Logos) | RC-259 | relaciona-se-a |
-| Gnosticismo (contraponto à Cabala) | RC-268 | relaciona-se-a |
-| Enki (Anunnaki; inoculou o gene FOXP2) | RC-486 | relaciona-se-a |
-| Enoque (sétimo patriarca; levado por Javé) | RC-489 | relaciona-se-a |
-| Usinas geodésicas de Gizé (engenharia de Thoth) | RC-534 | ← relaciona-se-a |
-| Revelação de Ifá e Destinação dos Seres | RC-655 | relaciona-se-a |
-| As Três Escalas da Consciência (Sábio → Mago → Iniciado) | RC-762 | ← relaciona-se-a |
-| As Sete Leis Herméticas | RC-763 | ← relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Anunnaki | RC-024 | relaciona-se-a | -> | - |
+| Quarto Logos (Olm / Codificador de Zian) | RC-092 | relaciona-se-a | -> | qualificador preservado: tradição hermética |
+| Apolônio de Tiana (encarnação do Quarto Logos) | RC-259 | relaciona-se-a | -> | - |
+| Gnosticismo (contraponto à Cabala) | RC-268 | relaciona-se-a | -> | - |
+| Enki (Anunnaki; inoculou o gene FOXP2) | RC-486 | relaciona-se-a | -> | - |
+| Enoque (sétimo patriarca; levado por Javé) | RC-489 | relaciona-se-a | -> | - |
+| Usinas geodésicas de Gizé (engenharia de Thoth) | RC-534 | relaciona-se-a | <- | - |
+| Revelação de Ifá e Destinação dos Seres | RC-655 | relaciona-se-a | -> | - |
+| As Três Escalas da Consciência (Sábio → Mago → Iniciado) | RC-762 | relaciona-se-a | <- | - |
+| As Sete Leis Herméticas | RC-763 | relaciona-se-a | <- | - |
 
 ## Seres Associados
 Ningishzidda/Thoth (Anunnaki/egípcio); Quetzalcóatl; Viracocha; Apolônio de Tiana (RC-259); Olm/Quarto Logos (RC-092, por afinidade de função).

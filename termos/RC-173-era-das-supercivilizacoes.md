@@ -27,10 +27,10 @@ Décima e última era (B024 §16.10): surgimento de «supercivilizações» no u
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Criatura Universal | RC-042 | associado |
-| Eras da Criação (10 eras) | RC-155 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Criatura Universal | RC-042 | associado | <-> | - |
+| Eras da Criação (10 eras) | RC-155 | associado | <-> | - |
 
 ## Fontes
 

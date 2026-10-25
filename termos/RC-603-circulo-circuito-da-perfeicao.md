@@ -24,15 +24,15 @@ Circuito de comunicabilidade e mente coletiva dos Seres Originais, associado à 
 É descrito como padrão máximo de movimento no Paraíso e como matriz da qual grupos projetam seres nos níveis inferiores.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Mônada (Mônada Espiritual) | RC-149 | produz |
-| Mente Coletiva / Redes Psíquicas Coletivas | RC-188 | relaciona-se-a |
-| Mente Coletiva / Redes Psíquicas Coletivas | RC-188 | ← relaciona-se-a |
-| Realidade Maior / Paraíso Original | RC-204 | associado |
-| Seres Originais do Paraíso | RC-600 | ← participa-de |
-| Seres Originais do Paraíso | RC-600 | envolve |
-| Protocolos / Algoritmos da Perfeição | RC-606 | relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Mônada (Mônada Espiritual) | RC-149 | origina | -> | consolidação: "produz" → "origina" |
+| Mente Coletiva / Redes Psíquicas Coletivas | RC-188 | relaciona-se-a | -> | - |
+| Mente Coletiva / Redes Psíquicas Coletivas | RC-188 | relaciona-se-a | <- | - |
+| Realidade Maior / Paraíso Original | RC-204 | associado | <-> | - |
+| Seres Originais do Paraíso | RC-600 | envolve | <- | consolidação: "participa-de" → "envolve" |
+| Seres Originais do Paraíso | RC-600 | envolve | -> | - |
+| Protocolos / Algoritmos da Perfeição | RC-606 | relaciona-se-a | -> | - |
 
 ## Seres Associados
 Consultar as relações tipadas acima.

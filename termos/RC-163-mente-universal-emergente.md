@@ -24,19 +24,19 @@ A «Mente Universal» (também chamada Biocosmos): a mente coletiva que emerge d
 O conceito fecha o arco da apostila «A Queda»: a crise culmina na construção do Paraíso B (RC-612) — a nova espiritualidade que incorpora o aprendizado do caos — e na formação da Mente Universal Emergente (RC-163). As criaturas-ferramenta (RC-164) são, na leitura de Ellam, as produtoras das informações que permitem a «emergência de uma Mente-una».
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Criatura Universal | RC-042 | associado |
-| Memória Quântica dos Elétrons | RC-161 | associado |
-| Criaturas-ferramenta | RC-164 | associado |
-| Era da Criatura Universal | RC-172 | associado |
-| Ishvara (Isuara — Retrato de Prabrajna Antes da Queda) | RC-691 | ← relaciona-se-a |
-| Oitavo Dia da Criação | RC-694 | relaciona-se-a |
-| Primado da Informação | RC-707 | associado |
-| Ponto de Luz Humano / Ilha de Negentropia | RC-725 | ← alimenta |
-| Ponto de Luz Humano / Ilha de Negentropia | RC-725 | alimentada-por |
-| Estrangulamento Cognitivo / Neural | RC-753 | ← relaciona-se-a |
-| Biocosmos emergente (a nova mente biológica global ancorada nos campos mórficos) | RC-879 | variação |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Criatura Universal | RC-042 | associado | <-> | - |
+| Memória Quântica dos Elétrons | RC-161 | associado | <-> | - |
+| Criaturas-ferramenta | RC-164 | associado | <-> | - |
+| Era da Criatura Universal | RC-172 | associado | <-> | - |
+| Ishvara (Isuara — Retrato de Prabrajna Antes da Queda) | RC-691 | relaciona-se-a | <- | - |
+| Oitavo Dia da Criação | RC-694 | relaciona-se-a | -> | - |
+| Primado da Informação | RC-707 | associado | <-> | - |
+| Ponto de Luz Humano / Ilha de Negentropia | RC-725 | protege | <- | consolidação: "alimenta" → "protege" |
+| Ponto de Luz Humano / Ilha de Negentropia | RC-725 | protege | <- | consolidação: "alimentada-por" → "protege"; direção invertida (forma passiva/inversa) |
+| Estrangulamento Cognitivo / Neural | RC-753 | relaciona-se-a | <- | - |
+| Biocosmos emergente (a nova mente biológica global ancorada nos campos mórficos) | RC-879 | variação | -> | - |
 
 - RC-161 — ver ficha correspondente
 - RC-042 — ver ficha correspondente

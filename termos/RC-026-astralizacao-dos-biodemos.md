@@ -27,14 +27,14 @@ Processo que se iniciou há uns 64.000 anos, pelo qual um total de 207 seres de 
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Len Mion (Satã) | RC-074 | associado |
-| Shamb-Aha | RC-101 | associado |
-| Val-Ha | RC-127 | associado |
-| Yel Lupon | RC-141 | associado |
-| Yel Luzbel | RC-142 | associado |
-| Trilogia Queda e Ascensão Espiritual | RC-354 | ← inclui |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Len Mion (Satã) | RC-074 | associado | <-> | - |
+| Shamb-Aha | RC-101 | associado | <-> | - |
+| Val-Ha | RC-127 | associado | <-> | - |
+| Yel Lupon | RC-141 | associado | <-> | - |
+| Yel Luzbel | RC-142 | associado | <-> | - |
+| Trilogia Queda e Ascensão Espiritual | RC-354 | inclui | <- | - |
 
 ## Fontes
 

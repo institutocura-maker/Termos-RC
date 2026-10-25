@@ -24,14 +24,14 @@ Tese (leitura do autor, palestra **P2019-04-14**, U0005) de que **o suicídio vo
 Aparece em **P2019-04-14**, U0005. Contexto: a palestra apresenta o **gesto extremo** — a **greve de fome genética**. O autor conta sua própria experiência: "Eu não vou mentir a vocês. Eu já fiz isso quando eu percebi no auge do meu susto que eu ia ter, eu ganhei grátis um ser que me estuprava todo santo dia [...] eu digo, vou vou Nada, lona, minha sata garra, eu sei fazer isso." Mas foi salvo: "quando eu vi amigos espirituais do meu lado de joelhos, jogando pedrinhas amorosas para eu abrir os olhos". **A humanidade tem medo** de quando isso se tornar conhecido — "os espíritos mais frágeis poderão fazer isso". O **jejum** (sem chegar à morte) é a versão moderada: "O jejum pode ser uma arma maravilhosa pra gente aprender a comer [...] Alimentação corpória do que pelo prazer da alimentação".
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | é-resistência-a |
-| Alimentação por Perfume dos Humanos (Demos se Alimentam de DNA) | RC-820 | é-alternativa-a |
-| Mahatma Magant como Libertador da Alimentação Demoníaca | RC-822 | lidera |
-| Vechame Existencial (Sangue de Barata = Amor sem Submissão) | RC-823 | é-extensão-de |
-| Código Genético como Marca da Herança Demoníaca | RC-825 | associado |
-| Jejum (parcial) | (prática) | é-versão-moderada-de |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Javé | RC-001 | opõe-se-a | -> | consolidação: "é-resistência-a" → "opõe-se-a" |
+| Alimentação por Perfume dos Humanos (Demos se Alimentam de DNA) | RC-820 | variação | -> | consolidação: "é-alternativa-a" → "variação" |
+| Mahatma Magant como Libertador da Alimentação Demoníaca | RC-822 | controla | -> | consolidação: "lidera" → "controla" |
+| Vechame Existencial (Sangue de Barata = Amor sem Submissão) | RC-823 | parte-de | -> | consolidação: "é-extensão-de" → "parte-de" |
+| Código Genético como Marca da Herança Demoníaca | RC-825 | associado | <-> | - |
+| Jejum (parcial) | (prática) | variação | -> | consolidação: "é-versão-moderada-de" → "variação" |
 
 ## Seres Associados
 - **O autor** — quem quase fez

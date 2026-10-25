@@ -32,18 +32,18 @@ Estas instâncias foram absorvidas sem código autônomo:
 As localizações e funções acima pertencem à cosmologia da fala e não estabelecem geografia física ou consenso religioso.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | associado |
-| Universo Material (Bhuloka) | RC-107 | associado |
-| Midgard (Marte + Terra) | RC-470 | ancora |
-| Bifrost (Portal interdimensional) | RC-471 | conecta-se-por |
-| Ancoragem do Conglomerado Trimurtiano na Terra | RC-575 | associado |
-| Fantasmas do Passado Mitológico | RC-728 | ← estrutura-se-por |
-| Yggdrasil / Conglomerado dos Nove Mundos | RC-730 | ← sucedido-por |
-| Yggdrasil / Conglomerado dos Nove Mundos | RC-730 | sucede |
-| Samudra Manthana / Batimento do Oceano de Leite | RC-734 | contextualiza |
-| Samudra Manthana / Batimento do Oceano de Leite | RC-734 | ← relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | associado | <-> | - |
+| Universo Material (Bhuloka) | RC-107 | associado | <-> | - |
+| Midgard (Marte + Terra) | RC-470 | contexto | -> | consolidação: "ancora" → "contexto" |
+| Bifrost (Portal interdimensional) | RC-471 | associado | <-> | consolidação: "conecta-se-por" → "associado" |
+| Ancoragem do Conglomerado Trimurtiano na Terra | RC-575 | associado | <-> | - |
+| Fantasmas do Passado Mitológico | RC-728 | inclui | <- | consolidação: "estrutura-se-por" → "inclui" |
+| Yggdrasil / Conglomerado dos Nove Mundos | RC-730 | sucede | -> | consolidação: "sucedido-por" → "sucede"; direção invertida (forma passiva/inversa) |
+| Yggdrasil / Conglomerado dos Nove Mundos | RC-730 | sucede | -> | - |
+| Samudra Manthana / Batimento do Oceano de Leite | RC-734 | contexto | -> | consolidação: "contextualiza" → "contexto" |
+| Samudra Manthana / Batimento do Oceano de Leite | RC-734 | relaciona-se-a | <- | - |
 
 ## Fontes
 

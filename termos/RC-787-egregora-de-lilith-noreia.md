@@ -24,17 +24,17 @@ Tese (leitura do autor, palestra **P2023-11-11 — De Pandora a Eva e a Rebeliã
 Aparece em **P2023-11-11**, U0004 e U0005 (Q&A). Contexto: o autor foi perguntado sobre Noreia e Lilith, e **se recusou a aprofundar**, explicando que há "loops mentais" que essas figuras criaram, e que "quando alguém faz uma palestra sobre isso, é uma confusão que rola entre eles". A analogia é o filme/livro **"Coração de Tinta" (Inkheart)** — onde ler um livro faz os personagens ganharem vida.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Adhytia (nível hierárquico) | RC-308 | compõe |
-| Ordem dos Indecifráveis | RC-309 | associado |
-| Lavagem Cerebral (condicionamento) | RC-335 | contextualizado-por |
-| Egrégora (circuito dos elétrons rebeldes) | RC-385 | associado |
-| Noreia (Norea) | RC-579 | compõe |
-| Sequência Formativa da Racionalidade Humana | RC-785 | parte-de |
-| Lilith como Rakshasa (Espécie Não-Humana) | RC-794 | associado |
-| Judaísmo como Destruidor do Mito de Pandora/Lilith | RC-796 | associado |
-| Egrégora | (sem ficha) | sinônimo |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Adhytia (nível hierárquico) | RC-308 | inclui | -> | consolidação: "compõe" → "inclui" |
+| Ordem dos Indecifráveis | RC-309 | associado | <-> | - |
+| Lavagem Cerebral (condicionamento) | RC-335 | contexto | <- | consolidação: "contextualizado-por" → "contexto"; direção invertida (forma passiva/inversa) |
+| Egrégora (circuito dos elétrons rebeldes) | RC-385 | associado | <-> | - |
+| Noreia (Norea) | RC-579 | inclui | -> | consolidação: "compõe" → "inclui" |
+| Sequência Formativa da Racionalidade Humana | RC-785 | parte-de | -> | - |
+| Lilith como Rakshasa (Espécie Não-Humana) | RC-794 | associado | <-> | - |
+| Judaísmo como Destruidor do Mito de Pandora/Lilith | RC-796 | associado | <-> | - |
+| Egrégora | (sem ficha) | variação | -> | consolidação: "sinônimo" → "variação" |
 
 ## Seres Associados
 - **Lilith** (RC-308) — quem criou parte do loop

@@ -28,20 +28,20 @@ A lista é uma arquitetura da palestra; identidades e cronologias devem permanec
 
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Revelação Cósmica (conceito) | RC-094 | é-evento-de |
-| Revelação Cósmica (conceito) | RC-094 | ← cumpre |
-| Revelação Espiritual (Kardec) | RC-190 | envolve |
-| Elm (Moros — ser LM de Tempérion) | RC-454 | iniciado-por |
-| Elm (Moros — ser LM de Tempérion) | RC-454 | relaciona-se-a |
-| Vyasa | RC-585 | envolve |
-| Flechas / Profecias de Moros | RC-611 | cumpre |
-| Quirino Cornélio (Centurião da Crucificação) | RC-659 | envolve |
-| Orunmilá (Moros de Irém / Orum) | RC-665 | envolve |
-| Arquivos do Destino Universal | RC-714 | ← cumpre-se-em |
-| Arquivos do Destino Universal | RC-714 | abre |
-| Arquivos do Destino Universal | RC-714 | relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Revelação Cósmica (conceito) | RC-094 | é-um | -> | consolidação: "é-evento-de" → "é-um" |
+| Revelação Cósmica (conceito) | RC-094 | usa | <- | consolidação: "cumpre" → "usa" |
+| Revelação Espiritual (Kardec) | RC-190 | envolve | -> | - |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | precede | <- | consolidação: "iniciado-por" → "precede"; direção invertida (forma passiva/inversa) |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | relaciona-se-a | -> | - |
+| Vyasa | RC-585 | envolve | -> | - |
+| Flechas / Profecias de Moros | RC-611 | usa | -> | consolidação: "cumpre" → "usa" |
+| Quirino Cornélio (Centurião da Crucificação) | RC-659 | envolve | -> | - |
+| Orunmilá (Moros de Irém / Orum) | RC-665 | envolve | -> | - |
+| Arquivos do Destino Universal | RC-714 | usa | <- | consolidação: "cumpre-se-em" → "usa" |
+| Arquivos do Destino Universal | RC-714 | relaciona-se-a | -> | consolidação: "abre" → "relaciona-se-a" |
+| Arquivos do Destino Universal | RC-714 | relaciona-se-a | -> | - |
 
 ## Ampliação
 ### P2024-11-30

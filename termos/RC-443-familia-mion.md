@@ -25,15 +25,15 @@ Estirpe capelina à qual pertencem **Len Mion (Satã)** e **Gron Mion**, descrit
 Na narrativa psicografada, enquanto os sábios da Família Yel aguardam resposta de Sophia às questões do Primeiro Pesquisador Yel Luzbel, a Família Mion decide agir por conta própria e contatar os demais Biocoletivos. Len Mion é o elo entre Yel Luzbel e a "causa": pressiona, confronta e, ao final do Livro 2, revela a suspeita de que Sophia acessava os Processadores Familiares — o que radicaliza Yel Luzbel.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Biodemos | RC-036 | é-um |
-| Capela (Sistema) | RC-039 | origina-se-em |
-| Len Mion (Satã) | RC-074 | ← é-um |
-| Família Yel | RC-442 | ← relaciona-se-a |
-| Biocoletivos | RC-445 | associado |
-| Processadores Familiares | RC-446 | associado-a |
-| Revolta Capelina | RC-450 | protagoniza |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Biodemos | RC-036 | é-um | -> | - |
+| Capela (Sistema) | RC-039 | origina | -> | consolidação: "origina-se-em" → "origina" |
+| Len Mion (Satã) | RC-074 | é-um | <- | - |
+| Família Yel | RC-442 | relaciona-se-a | <- | - |
+| Biocoletivos | RC-445 | associado | <-> | - |
+| Processadores Familiares | RC-446 | associado | <-> | - |
+| Revolta Capelina | RC-450 | envolve | -> | consolidação: "protagoniza" → "envolve" |
 
 ## Seres Associados
 Len Mion (RC-074); Gron Mion (RC-067, citado nas obras primárias); Yel Luzbel (RC-142, acolhido pela família); Sophia (RC-009, questionada pelos Mion).

@@ -17,20 +17,20 @@ atualizado = "2026-10-22"
 Na RC, o **"Norte Sagrado"** — a região mítica do extremo norte (também **Norte Divino**, RC-083) para onde convergia a geografia sagrada da antiguidade: "toda a história da Terra é voltada pro chamado norte sagrado, não era pro sul".
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Experiência Gron | RC-062 | associado |
-| Jan Val Ellam (Rogério de Almeida Freitas) | RC-071 | associado |
-| Norte Divino | RC-083 | ← sinônimo |
-| Val El / Val Ellam | RC-120 | associado |
-| Castas Trimurtianas | RC-321 | ← origina-em |
-| Entroncamentos Genéticos Intersiderais | RC-323 | associado |
-| Thuata de Dannan | RC-398 | associado |
-| Os Magos do Norte | RC-439 | ← associado-a |
-| Elm (Moros — ser LM de Tempérion) | RC-454 | relaciona-se-a |
-| Revelação de Ifá e Destinação dos Seres | RC-655 | relaciona-se-a |
-| Pacto Aesir-Vanir como Origem Nórdica da Ideia de Pandora | RC-816 | associado |
-| Cidades Sagradas do Hiperbóreo | RC-932 | arquivado na fila (F031 aplicação; sem ficha) |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Experiência Gron | RC-062 | associado | <-> | - |
+| Jan Val Ellam (Rogério de Almeida Freitas) | RC-071 | associado | <-> | - |
+| Norte Divino | RC-083 | variação | <- | consolidação: "sinônimo" → "variação" |
+| Val El / Val Ellam | RC-120 | associado | <-> | - |
+| Castas Trimurtianas | RC-321 | origina | <- | consolidação: "origina-em" → "origina" |
+| Entroncamentos Genéticos Intersiderais | RC-323 | associado | <-> | - |
+| Thuata de Dannan | RC-398 | associado | <-> | - |
+| Os Magos do Norte | RC-439 | associado | <-> | - |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | relaciona-se-a | -> | - |
+| Revelação de Ifá e Destinação dos Seres | RC-655 | relaciona-se-a | -> | - |
+| Pacto Aesir-Vanir como Origem Nórdica da Ideia de Pandora | RC-816 | associado | <-> | - |
+| Cidades Sagradas do Hiperbóreo | RC-932 | relaciona-se-a | -> | texto bruto original: arquivado na fila (F031 aplicação; sem ficha) |
 
 ## Ampliação — STT26-MITOLOGIAS_REINTEGRACAO (Eixo STT26 — Mitologias, tradições e eixo de reintegração (derivados normalizados))
 

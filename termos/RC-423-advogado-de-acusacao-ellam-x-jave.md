@@ -27,12 +27,12 @@ Na B036 (*Memórias de Javé*), a designação que **Javé** dá ao humano (Jan 
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | confronta |
-| Jan Val Ellam (Rogério de Almeida Freitas) | RC-071 | é-um |
-| Revelação Cósmica (conceito) | RC-094 | associado |
-| As Memórias de Javé (crônicas) | RC-421 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Javé | RC-001 | opõe-se-a | -> | consolidação: "confronta" → "opõe-se-a" |
+| Jan Val Ellam (Rogério de Almeida Freitas) | RC-071 | é-um | -> | - |
+| Revelação Cósmica (conceito) | RC-094 | associado | <-> | - |
+| As Memórias de Javé (crônicas) | RC-421 | associado | <-> | - |
 
 ## Fontes
 

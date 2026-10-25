@@ -25,47 +25,47 @@ atualizado = "2026-08-29"
 Presente em B031 (glossário Raquyel) e nas obras primárias B020 *O Sorriso de Pandora* e B021 *Tempos Difíceis no Olimpo* (versão canônica de Ellam). No B087 (psicografia de Jeane Miranda — versão paralela), Zeus domina o Olimpo pela "lei do mais forte": "Ele podia e fazia o que queria, e usava quem ele quisesse para qualquer fim" (p. 16); "parecido com o Criador dos dois universos desta Obra" (p. 20 — o paralelo explícito com o Criador); ordena aos doze deuses os "dons funestos" que transformam Pandora ("Quero que cada um de vocês escolha um 'dom funesto'... transformando-o num corpo com aparência feminina", p. 33); entrega a caixa-armadilha ("todo o bom pai deve, no casamento da sua filha, dar-lhe uma prenda", p. 51). A guerra contra os titãs e o aprisionamento no tártaro: p. 57–58 (notas p. 61).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Sophia (Cristo Cósmico) | RC-009 | relaciona-se-a (relação prévia) |
-| Deidade (Pai-Mãe Amantíssimo / Brahman) | RC-047 | relaciona-se-a (relação prévia na malha) |
-| Genos | RC-066 | associado |
-| Lokas | RC-077 | associado |
-| Pandora | RC-086 | cria (o criador tirânico) |
-| Seres Extrafísicos | RC-097 | associado |
-| Teurgistas | RC-235 | associado |
-| Império dos Descendentes dos Seres dos Portais | RC-240 | associado |
-| Seres dos Portais | RC-241 | ← associado-a |
-| Seres dos Portais | RC-241 | é-um |
-| Eros = Vishnu / Tártaro = Shiva (correspondências) | RC-286 | associado |
-| Enigma da Esperança (Caixa de Pandora) | RC-287 | associado |
-| Os Anais de uma Cultura Perdida | RC-288 | associado |
-| O Vício de Epimeteu | RC-289 | associado |
-| Telos (de um deus) | RC-292 | associado |
-| Timé (de um deus) | RC-293 | ← valoriza |
-| Drama do Fechamento dos Portais | RC-295 | ← envolve |
-| Pitonisas e Oráculos (Apolo/Delfos) | RC-296 | associado |
-| Era dos Humanos (Zeus e a) | RC-297 | ← envolve |
-| Kalil Kadmon (nome demo de Pandora) | RC-299 | associado |
-| Prometeu (titã) | RC-301 | ← opõe-se-a |
-| Epimeteu (titã) | RC-302 | associado |
-| Têmis | RC-305 | associado |
-| Apolo | RC-306 | associado |
-| Hefesto | RC-307 | associado-a (coautor da caixa; o "encerramento") |
-| Ragnarok em Marte | RC-395 | associado |
-| Asuras (= Titãs) | RC-465 | associado |
-| Bebida dos Deuses (Ambrosia/Amrita/Soma) | RC-466 | associado |
-| Moiras / Nornes / Súdices / Parcas (destino) | RC-467 | associado |
-| Arcontes (= Sophias e Indras; Conselho dos 70) | RC-474 | associado |
-| Indra (título de arconte) | RC-480 | variação |
-| Indra (título de arconte) | RC-480 | variação |
-| Indra (título de arconte) | RC-480 | variação |
-| Aristocracia Olimpiana e Monarquias Terrestres | RC-736 | associado |
-| Projeto Amaterasu–Kami no Japão | RC-737 | associado |
-| Amaterasu (Teologia Comparada de Ellam) | RC-738 | associado |
-| Susanoo (Teologia Comparada de Ellam) | RC-739 | associado |
-| Cronos (titã) | RC-841 | associado |
-| Disforia de gênio (a confiança ilimitada na pretensa capacidade) | RC-878 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Sophia (Cristo Cósmico) | RC-009 | relaciona-se-a | -> | qualificador preservado: relação prévia |
+| Deidade (Pai-Mãe Amantíssimo / Brahman) | RC-047 | relaciona-se-a | -> | qualificador preservado: relação prévia na malha |
+| Genos | RC-066 | associado | <-> | - |
+| Lokas | RC-077 | associado | <-> | - |
+| Pandora | RC-086 | origina | -> | qualificador preservado: o criador tirânico; consolidação: "cria" → "origina" |
+| Seres Extrafísicos | RC-097 | associado | <-> | - |
+| Teurgistas | RC-235 | associado | <-> | - |
+| Império dos Descendentes dos Seres dos Portais | RC-240 | associado | <-> | - |
+| Seres dos Portais | RC-241 | associado | <-> | - |
+| Seres dos Portais | RC-241 | é-um | -> | - |
+| Eros = Vishnu / Tártaro = Shiva (correspondências) | RC-286 | associado | <-> | - |
+| Enigma da Esperança (Caixa de Pandora) | RC-287 | associado | <-> | - |
+| Os Anais de uma Cultura Perdida | RC-288 | associado | <-> | - |
+| O Vício de Epimeteu | RC-289 | associado | <-> | - |
+| Telos (de um deus) | RC-292 | associado | <-> | - |
+| Timé (de um deus) | RC-293 | protege | <- | consolidação: "valoriza" → "protege" |
+| Drama do Fechamento dos Portais | RC-295 | envolve | <- | - |
+| Pitonisas e Oráculos (Apolo/Delfos) | RC-296 | associado | <-> | - |
+| Era dos Humanos (Zeus e a) | RC-297 | envolve | <- | - |
+| Kalil Kadmon (nome demo de Pandora) | RC-299 | associado | <-> | - |
+| Prometeu (titã) | RC-301 | opõe-se-a | <- | - |
+| Epimeteu (titã) | RC-302 | associado | <-> | - |
+| Têmis | RC-305 | associado | <-> | - |
+| Apolo | RC-306 | associado | <-> | - |
+| Hefesto | RC-307 | associado | <-> | qualificador preservado: coautor da caixa; o "encerramento"; raiz semântica associado (decisão 3) |
+| Ragnarok em Marte | RC-395 | associado | <-> | - |
+| Asuras (= Titãs) | RC-465 | associado | <-> | - |
+| Bebida dos Deuses (Ambrosia/Amrita/Soma) | RC-466 | associado | <-> | - |
+| Moiras / Nornes / Súdices / Parcas (destino) | RC-467 | associado | <-> | - |
+| Arcontes (= Sophias e Indras; Conselho dos 70) | RC-474 | associado | <-> | - |
+| Indra (título de arconte) | RC-480 | variação | -> | - |
+| Indra (título de arconte) | RC-480 | variação | -> | - |
+| Indra (título de arconte) | RC-480 | variação | -> | - |
+| Aristocracia Olimpiana e Monarquias Terrestres | RC-736 | associado | <-> | - |
+| Projeto Amaterasu–Kami no Japão | RC-737 | associado | <-> | - |
+| Amaterasu (Teologia Comparada de Ellam) | RC-738 | associado | <-> | - |
+| Susanoo (Teologia Comparada de Ellam) | RC-739 | associado | <-> | - |
+| Cronos (titã) | RC-841 | associado | <-> | - |
+| Disforia de gênio (a confiança ilimitada na pretensa capacidade) | RC-878 | associado | <-> | - |
 
 ## Seres Associados
 Pandora (RC-086, a criatura libertada); Prometeu e Epimeteu (RC-301/302, os adversários); Hefesto (RC-307); Atena (a filha protetora — sem termo na malha); Cronos e Urano (a teogonia).

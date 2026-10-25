@@ -17,11 +17,11 @@ atualizado = "2026-09-12"
 Na RC, o **Homem Primordial cósmico** (Adam Kadmon) — distinto do Adão bíblico da Terra; protótipo associado aos "demos hesitantes" e ao processo pré-criação.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Adhyatman | RC-013 | associado |
-| Planos de Existência da Cabala (Atziluth, Briah, Yetzirah, Assiah) | RC-264 | associado |
-| A Raça Inabalável dos Sethianos Emancipados | RC-766 | relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Adhyatman | RC-013 | associado | <-> | - |
+| Planos de Existência da Cabala (Atziluth, Briah, Yetzirah, Assiah) | RC-264 | associado | <-> | - |
+| A Raça Inabalável dos Sethianos Emancipados | RC-766 | relaciona-se-a | -> | - |
 
 ## Fontes
 

@@ -29,25 +29,25 @@ Com isso:
 **Origem do conteúdo da ampliação:** palestra `P2012-02-19 — Xadrez Cósmico de Brahma, Vishnu e Shiva` (19/02/2012). Transcrição automatizada, **não conferida com o áudio**; cada aspa foi recortada do `original.txt` pelo índice de âncoras do motor e conferida byte a byte pelo portão B. Nada foi digitado de memória.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Brahma (Brajna) | RC-037 | **sem aresta** em `RELACOES`; arquivo existe |
-| Shiva (Savna) | RC-102 | **sem aresta** em `RELACOES`; arquivo existe |
-| Trimurti | RC-104 | **sem aresta** em `RELACOES`; arquivo existe |
-| Vishnu (Mavatna) | RC-135 | **sem aresta** em `RELACOES`; arquivo existe |
-| Xadrez Cósmico | RC-150 | associado |
-| Karuna | RC-165 | associado |
-| Era da Lila e da Aceitação | RC-168 | associado |
-| Cultura Demodhármica | RC-183 | associado |
-| Modo Trimurtiano de Sophia | RC-279 | associado |
-| O Fim da Lila | RC-315 | ← encerra |
-| Decifra-me ou Devoro (hábito demo) | RC-316 | associado |
-| Fator Dharma | RC-319 | associado |
-| Senhores do Dharma (= Senhores da Lila / Trimurti) | RC-320 | ← variação |
-| Sankalpa (força de vontade e conhecimento que produz milagres) | RC-853 | associado |
-| Sai Baba de Shirdi (Shirdi Sai Baba) | RC-927 | associado |
-| Sathya Sai Baba | RC-928 | associado |
-| Prema Sai (Prima Sai / Prem Sai) | RC-929 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Brahma (Brajna) | RC-037 | - | - | sem aresta em RELACOES; arquivo existe |
+| Shiva (Savna) | RC-102 | - | - | sem aresta em RELACOES; arquivo existe |
+| Trimurti | RC-104 | - | - | sem aresta em RELACOES; arquivo existe |
+| Vishnu (Mavatna) | RC-135 | - | - | sem aresta em RELACOES; arquivo existe |
+| Xadrez Cósmico | RC-150 | associado | <-> | - |
+| Karuna | RC-165 | associado | <-> | - |
+| Era da Lila e da Aceitação | RC-168 | associado | <-> | - |
+| Cultura Demodhármica | RC-183 | associado | <-> | - |
+| Modo Trimurtiano de Sophia | RC-279 | associado | <-> | - |
+| O Fim da Lila | RC-315 | sucede | <- | consolidação: "encerra" → "sucede" |
+| Decifra-me ou Devoro (hábito demo) | RC-316 | associado | <-> | - |
+| Fator Dharma | RC-319 | associado | <-> | - |
+| Senhores do Dharma (= Senhores da Lila / Trimurti) | RC-320 | variação | <- | - |
+| Sankalpa (força de vontade e conhecimento que produz milagres) | RC-853 | associado | <-> | - |
+| Sai Baba de Shirdi (Shirdi Sai Baba) | RC-927 | associado | <-> | - |
+| Sathya Sai Baba | RC-928 | associado | <-> | - |
+| Prema Sai (Prima Sai / Prem Sai) | RC-929 | associado | <-> | - |
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
 
 ## Fontes

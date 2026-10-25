@@ -29,18 +29,18 @@ Formulação central de Jan Val Ellam (tema-título da palestra de 03/03/2024) s
 - condicionamento religioso (RC-335) e transtornos cognitivos como efeito colateral.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | relaciona-se-a |
-| Demos | RC-049 | relaciona-se-a |
-| Lavagem Cerebral (condicionamento) | RC-335 | relaciona-se-a |
-| A Rebelião dos Elétrons | RC-378 | relaciona-se-a |
-| Ressonância límbica (emoções como tecnologia cósmica) | RC-529 | relaciona-se-a |
-| Camuflagem da Realidade | RC-702 | relaciona-se-a |
-| Ato de Verdade / Satyagraha | RC-705 | relaciona-se-a |
-| Vergonha de Existir | RC-747 | relaciona-se-a |
-| Genótipo da Gentileza (GG) | RC-748 | relaciona-se-a |
-| Vício Devocional | RC-749 | ← relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Javé | RC-001 | relaciona-se-a | -> | - |
+| Demos | RC-049 | relaciona-se-a | -> | - |
+| Lavagem Cerebral (condicionamento) | RC-335 | relaciona-se-a | -> | - |
+| A Rebelião dos Elétrons | RC-378 | relaciona-se-a | -> | - |
+| Ressonância límbica (emoções como tecnologia cósmica) | RC-529 | relaciona-se-a | -> | - |
+| Camuflagem da Realidade | RC-702 | relaciona-se-a | -> | - |
+| Ato de Verdade / Satyagraha | RC-705 | relaciona-se-a | -> | - |
+| Vergonha de Existir | RC-747 | relaciona-se-a | -> | - |
+| Genótipo da Gentileza (GG) | RC-748 | relaciona-se-a | -> | - |
+| Vício Devocional | RC-749 | relaciona-se-a | <- | - |
 
 ## Fontes
 

@@ -35,35 +35,35 @@ Conceito central de `P2025-03-15 — A Rebelião dos Elétrons e a Era do Colaps
 A palestra situa o colapso das colmeias, desde 2006/2007, e o colapso de corais como manifestações biológicas do processo. Também associa o fenômeno ao colapso do universo antimaterial e à futura transferência de sua carga memorial.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Reintegração Cósmica | RC-003 | ← ocorre-em |
-| Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | afeta |
-| Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | afeta |
-| Universo Material (Bhuloka) | RC-107 | afeta |
-| Memória Quântica dos Elétrons | RC-161 | associado |
-| Elétrons (agente básico da vida universal) | RC-162 | associado |
-| Modelo Colmeia (Sistema/Controle Colmeia) | RC-176 | manifesta-se-em |
-| Modelo Colmeia (Sistema/Controle Colmeia) | RC-176 | manifesta-se-em |
-| Fenômenos Denunciadores do Fim | RC-203 | relaciona-se-a |
-| Fenômenos Denunciadores do Fim | RC-314 | relaciona-se-a |
-| A Rebelião dos Elétrons | RC-378 | impulsionado-por |
-| A Rebelião dos Elétrons | RC-378 | ← impulsiona |
-| A Rebelião dos Elétrons | RC-378 | ← relaciona-se-a |
-| A Rebelião dos Elétrons | RC-378 | relaciona-se-a |
-| Colapso da Matriz Quântica (3 níveis) | RC-415 | distingue-se-de |
-| Colapso da Matriz Quântica (3 níveis) | RC-415 | ← distingue-se-de |
-| Transferência da Memória dos Antielétrons | RC-637 | envolve |
-| Transferência da Memória dos Antielétrons | RC-637 | envolve |
-| Wyrd / Urd (Teia do Destino) | RC-658 | associado |
-| Ishvara (Isuara — Retrato de Prabrajna Antes da Queda) | RC-691 | relaciona-se-a |
-| Evolução da Informação, não das Espécies | RC-693 | ← relaciona-se-a |
-| Evolução da Informação, não das Espécies | RC-693 | ← relaciona-se-a |
-| Buraco Negro Mental / Consciencial | RC-717 | ← é-fenômeno-de |
-| Ponto de Luz Humano / Ilha de Negentropia | RC-725 | ← resiste-a |
-| Ponto de Luz Humano / Ilha de Negentropia | RC-725 | resistido-por |
-| Ponto de Luz Humano / Ilha de Negentropia | RC-725 | ← relaciona-se-a |
-| Fenômenos Denunciadores do Fim | RC-203 / RC-314 | relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Reintegração Cósmica | RC-003 | contexto | <- | consolidação: "ocorre-em" → "contexto" |
+| Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | causa | -> | consolidação: "afeta" → "causa" |
+| Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | causa | -> | consolidação: "afeta" → "causa" |
+| Universo Material (Bhuloka) | RC-107 | causa | -> | consolidação: "afeta" → "causa" |
+| Memória Quântica dos Elétrons | RC-161 | associado | <-> | - |
+| Elétrons (agente básico da vida universal) | RC-162 | associado | <-> | - |
+| Modelo Colmeia (Sistema/Controle Colmeia) | RC-176 | representa | -> | consolidação: "manifesta-se-em" → "representa" |
+| Modelo Colmeia (Sistema/Controle Colmeia) | RC-176 | representa | -> | consolidação: "manifesta-se-em" → "representa" |
+| Fenômenos Denunciadores do Fim | RC-203 | relaciona-se-a | -> | - |
+| Fenômenos Denunciadores do Fim | RC-314 | relaciona-se-a | -> | - |
+| A Rebelião dos Elétrons | RC-378 | causa | <- | consolidação: "impulsionado-por" → "causa"; direção invertida (forma passiva/inversa) |
+| A Rebelião dos Elétrons | RC-378 | causa | <- | consolidação: "impulsiona" → "causa" |
+| A Rebelião dos Elétrons | RC-378 | relaciona-se-a | <- | - |
+| A Rebelião dos Elétrons | RC-378 | relaciona-se-a | -> | - |
+| Colapso da Matriz Quântica (3 níveis) | RC-415 | opõe-se-a | -> | consolidação: "distingue-se-de" → "opõe-se-a" |
+| Colapso da Matriz Quântica (3 níveis) | RC-415 | opõe-se-a | <- | consolidação: "distingue-se-de" → "opõe-se-a" |
+| Transferência da Memória dos Antielétrons | RC-637 | envolve | -> | - |
+| Transferência da Memória dos Antielétrons | RC-637 | envolve | -> | - |
+| Wyrd / Urd (Teia do Destino) | RC-658 | associado | <-> | - |
+| Ishvara (Isuara — Retrato de Prabrajna Antes da Queda) | RC-691 | relaciona-se-a | -> | - |
+| Evolução da Informação, não das Espécies | RC-693 | relaciona-se-a | <- | - |
+| Evolução da Informação, não das Espécies | RC-693 | relaciona-se-a | <- | - |
+| Buraco Negro Mental / Consciencial | RC-717 | é-um | <- | consolidação: "é-fenômeno-de" → "é-um" |
+| Ponto de Luz Humano / Ilha de Negentropia | RC-725 | opõe-se-a | <- | consolidação: "resiste-a" → "opõe-se-a" |
+| Ponto de Luz Humano / Ilha de Negentropia | RC-725 | opõe-se-a | <- | consolidação: "resistido-por" → "opõe-se-a"; direção invertida (forma passiva/inversa) |
+| Ponto de Luz Humano / Ilha de Negentropia | RC-725 | relaciona-se-a | <- | - |
+| Fenômenos Denunciadores do Fim | RC-203 / RC-314 | relaciona-se-a | -> | - |
 
 ## Fontes
 | Fonte | Localização | Tipo |

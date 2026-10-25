@@ -24,17 +24,17 @@ Tese (leitura do autor, palestra **P2025-04-06**, U0004) de que existiram **dois
 Aparece em **P2025-04-06**, U0004. Contexto: depois da destruição de Asgard pelo Ragnarok, Prometeu e Epimeteu recolheram os "restos alquímicos" e operaram o segundo centro nos criatórios — que era **visitado por todas as estirpes** do universo vizinho (centauros, sátiros, etc.) e por humanos da Terra.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Vishnu (Mavatna) | RC-135 | gerou |
-| Linhagem dos Patriarcas Hebreus | RC-270 | associado |
-| Pactos do Criador (troca de informações) | RC-271 | associado |
-| Prometeu (titã) | RC-301 | operou-segundo |
-| Epimeteu (titã) | RC-302 | operou-segundo |
-| Kvasir e Freya (Vanir/Aesir) | RC-396 | primeiro-ocorreu-em |
-| Yggdrasil / Conglomerado dos Nove Mundos | RC-730 | ocorreu-em |
-| Revolução Inacabada de Prometeu e Pandora | RC-788 | base-de |
-| Lamúria dos Deuses (Diagnóstico de Prometeu) | RC-791 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Vishnu (Mavatna) | RC-135 | origina | -> | consolidação: "gerou" → "origina" |
+| Linhagem dos Patriarcas Hebreus | RC-270 | associado | <-> | - |
+| Pactos do Criador (troca de informações) | RC-271 | associado | <-> | - |
+| Prometeu (titã) | RC-301 | relaciona-se-a | -> | consolidação: "operou-segundo" → "relaciona-se-a" |
+| Epimeteu (titã) | RC-302 | relaciona-se-a | -> | consolidação: "operou-segundo" → "relaciona-se-a" |
+| Kvasir e Freya (Vanir/Aesir) | RC-396 | precede | -> | consolidação: "primeiro-ocorreu-em" → "precede" |
+| Yggdrasil / Conglomerado dos Nove Mundos | RC-730 | contexto | -> | consolidação: "ocorreu-em" → "contexto" |
+| Revolução Inacabada de Prometeu e Pandora | RC-788 | requer | -> | consolidação: "base-de" → "requer" |
+| Lamúria dos Deuses (Diagnóstico de Prometeu) | RC-791 | associado | <-> | - |
 
 ## Seres Associados
 - **Anões de Asgard** (criadores de Kvasir)

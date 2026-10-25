@@ -24,17 +24,17 @@ Tese (leitura do autor, palestra **P2018-05-20**, U0004) de que **o patriarcalis
 Aparece em **P2018-05-20**, U0004. Contexto: a palestra reconstrói a história do patriarcalismo como uma **continuidade desde Pandora**. O autor critica Javé por "usar expedientes" para privilegiar o masculino: "ele sempre optavam por privilegiar o lado masculino ferrando feminino, desde a coordenação dele para[it] que era uma feminina para toda a procreação deit. Então Javé ele usou desses expedientes o tempo inteiro." O resultado é a **humanidade atual, "totalmente mediocrizada"** pela dominação masculina desde o início.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | institui |
-| Pandora | RC-086 | é-início-de |
-| Ulsh | RC-105 | associado |
-| Pirra | RC-303 | continua |
-| Adhytia (nível hierárquico) | RC-308 | continua |
-| Lavagem Cerebral (condicionamento) | RC-335 | é-mecanismo-de |
-| Judaísmo como Destruidor do Mito de Pandora/Lilith | RC-796 | é-veículo-de |
-| Culto a Lilith (Transformação em Deusa Lil Babilônica) | RC-813 | é-resistência-a |
-| Eva como 3ª Tentativa de Fêmea para Adão (Homem + Mulher da Espécie Sábia) | RC-814 | é-sufocada-por |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Javé | RC-001 | relaciona-se-a | -> | consolidação: "institui" → "relaciona-se-a" |
+| Pandora | RC-086 | origina | -> | consolidação: "é-início-de" → "origina" |
+| Ulsh | RC-105 | associado | <-> | - |
+| Pirra | RC-303 | sucede | -> | consolidação: "continua" → "sucede" |
+| Adhytia (nível hierárquico) | RC-308 | sucede | -> | consolidação: "continua" → "sucede" |
+| Lavagem Cerebral (condicionamento) | RC-335 | usa | -> | consolidação: "é-mecanismo-de" → "usa" |
+| Judaísmo como Destruidor do Mito de Pandora/Lilith | RC-796 | usa | -> | consolidação: "é-veículo-de" → "usa" |
+| Culto a Lilith (Transformação em Deusa Lil Babilônica) | RC-813 | opõe-se-a | -> | consolidação: "é-resistência-a" → "opõe-se-a" |
+| Eva como 3ª Tentativa de Fêmea para Adão (Homem + Mulher da Espécie Sábia) | RC-814 | causa | <- | consolidação: "é-sufocada-por" → "causa"; direção invertida (forma passiva/inversa) |
 
 ## Seres Associados
 - **Javé** (RC-001) — quem instituiu o patriarcado

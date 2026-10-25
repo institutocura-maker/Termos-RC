@@ -23,12 +23,12 @@ Encontro mental dos 43 Pashvnaj para examinar o projeto de Prabrajna e lidar com
 A fala descreve um circuito interno de 14 e uma corrente secundária; esse detalhamento foi absorvido nesta ficha.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Prabrajna | RC-152 | envolve |
-| Criação Indevida (Obra indevida) | RC-167 | resulta-em |
-| Pashvnaj (espécie de 43 seres do Gênero Adhy) | RC-455 | envolve |
-| Simultaneidade Reversa | RC-628 | relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Prabrajna | RC-152 | envolve | -> | - |
+| Criação Indevida (Obra indevida) | RC-167 | causa | -> | consolidação: "resulta-em" → "causa" |
+| Pashvnaj (espécie de 43 seres do Gênero Adhy) | RC-455 | envolve | -> | - |
+| Simultaneidade Reversa | RC-628 | relaciona-se-a | -> | - |
 
 ## Seres Associados
 Consultar relações acima.

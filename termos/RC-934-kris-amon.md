@@ -24,11 +24,11 @@ Colaborador e parceiro próximo de Jan Val Ellam, atestado pelo curador em 06/09
 Registro de proveniência criado pelo ciclo F043 (despacho de 06/09/2026, §2) para sanar a lacuna verificada no Parecer: «Krysamon/Kris Amon = 0 ocorrências nas 623 fichas» — o autor do GKA não existia na KB. A assinatura de exportação do documento é «Krysamon NEAD» (NEAD sem par em fichas, preservado como veio). Não há (ainda) citação nominal de Kris Amon em fala ou obra de Ellam no acervo; toda menção futura a ele ancora aqui.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Deidade (Pai-Mãe Amantíssimo / Brahman) | RC-047 | associado |
-| Shiva (Savna) | RC-102 | associado |
-| Entropia e Negentropia | RC-160 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Deidade (Pai-Mãe Amantíssimo / Brahman) | RC-047 | associado | <-> | - |
+| Shiva (Savna) | RC-102 | associado | <-> | - |
+| Entropia e Negentropia | RC-160 | associado | <-> | - |
 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |

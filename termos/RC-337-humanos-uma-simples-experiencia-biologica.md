@@ -27,12 +27,12 @@ Título do capítulo 1 de B048 (*Favor Divino*). A tese que o capítulo enuncia:
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Criador (Brahma/Javé/Demiurgo) | RC-041 | associado |
-| Revelação Cósmica (conceito) | RC-094 | associado |
-| Seres Terrenos (Homo Sapiens) | RC-099 | associado |
-| Fim do Experimento Humano | RC-578 | ← relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Criador (Brahma/Javé/Demiurgo) | RC-041 | associado | <-> | - |
+| Revelação Cósmica (conceito) | RC-094 | associado | <-> | - |
+| Seres Terrenos (Homo Sapiens) | RC-099 | associado | <-> | - |
+| Fim do Experimento Humano | RC-578 | relaciona-se-a | <- | - |
 
 ## Fontes
 

@@ -27,12 +27,12 @@ Na B036 (*Memórias de Javé*), a designação que **Javé** dá ao humano a que
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Revelação Cósmica (conceito) | RC-094 | associado |
-| Seres Terrenos (Homo Sapiens) | RC-099 | é-um |
-| Terminal Nervoso do Criador (humano) | RC-418 | associado |
-| Ser-Criador fracassado (autoconfissão de Javé) | RC-422 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Revelação Cósmica (conceito) | RC-094 | associado | <-> | - |
+| Seres Terrenos (Homo Sapiens) | RC-099 | é-um | -> | - |
+| Terminal Nervoso do Criador (humano) | RC-418 | associado | <-> | - |
+| Ser-Criador fracassado (autoconfissão de Javé) | RC-422 | associado | <-> | - |
 
 ## Fontes
 

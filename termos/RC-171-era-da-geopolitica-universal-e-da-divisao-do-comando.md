@@ -27,12 +27,12 @@ Oitava era (B024 §16.8): inicia-se com a volta de Jesus/Sophia, quando a atuaç
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Sophia (Cristo Cósmico) | RC-009 | associado |
-| Quarto Logos (Olm / Codificador de Zian) | RC-092 | associado |
-| Eras da Criação (10 eras) | RC-155 | associado |
-| Gestão Cósmica | RC-225 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Sophia (Cristo Cósmico) | RC-009 | associado | <-> | - |
+| Quarto Logos (Olm / Codificador de Zian) | RC-092 | associado | <-> | - |
+| Eras da Criação (10 eras) | RC-155 | associado | <-> | - |
+| Gestão Cósmica | RC-225 | associado | <-> | - |
 
 ## Fontes
 

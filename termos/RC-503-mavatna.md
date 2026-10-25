@@ -13,11 +13,11 @@ atualizado = "2026-09-12"
 # Mavátma / Mavatna / Mavat (Vishnu em condição Adhyatman) — RC-503
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| ADHYMAVATANA (nome completo de Mavatna/Vishnu) | RC-408 | variação |
-| Fatiamento de Consciência | RC-604 | ← relaciona-se-a |
-| Vaishnavismo (vixenuísmo — tradição hindu de adoração a Vishnu/Krishna) | RC-757 | ← relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| ADHYMAVATANA (nome completo de Mavatna/Vishnu) | RC-408 | variação | -> | - |
+| Fatiamento de Consciência | RC-604 | relaciona-se-a | <- | - |
+| Vaishnavismo (vixenuísmo — tradição hindu de adoração a Vishnu/Krishna) | RC-757 | relaciona-se-a | <- | - |
 
 ## Fontes
 | Fonte | Localização | Tipo |

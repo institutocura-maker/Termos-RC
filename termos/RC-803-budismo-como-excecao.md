@@ -24,14 +24,14 @@ Tese (leitura do autor, palestra **P2018-02-24**, U0005) de que **o budismo (Gau
 Aparece em **P2018-02-24**, U0005. Contexto: depois de listar as religiões como instrumentos de dominação, o autor faz a única exceção: o budismo. "Só sobrou budismo que foi transformado devagarinho também em religião, quando jamais falou de Deus."
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Seres Espirituais | RC-100 | associado |
-| Ulsh | RC-105 | é-exceção-a |
-| Estratégia dos Avatares (Moisés/Krishna/Saibaba/Jesus/Maomé) | RC-797 | escapa-de |
-| Jesus como Último Avatar (Não Mata) | RC-800 | paralelo-com (séculos antes/depois) |
-| Espiritismo com Germe da Poluição Católica/Protestante | RC-805 | opõe-se-a |
-| Budismo / Gautama | RC-803 | qualifica |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Seres Espirituais | RC-100 | associado | <-> | - |
+| Ulsh | RC-105 | opõe-se-a | -> | consolidação: "é-exceção-a" → "opõe-se-a" |
+| Estratégia dos Avatares (Moisés/Krishna/Saibaba/Jesus/Maomé) | RC-797 | relaciona-se-a | -> | consolidação: "escapa-de" → "relaciona-se-a" |
+| Jesus como Último Avatar (Não Mata) | RC-800 | associado | <-> | qualificador preservado: séculos antes/depois; consolidação: "paralelo-com" → "associado" |
+| Espiritismo com Germe da Poluição Católica/Protestante | RC-805 | opõe-se-a | -> | - |
+| Budismo / Gautama | RC-803 | explica | -> | consolidação: "qualifica" → "explica" |
 
 ## Seres Associados
 - **Buda/Gautama** (~séc. V-IV AC)

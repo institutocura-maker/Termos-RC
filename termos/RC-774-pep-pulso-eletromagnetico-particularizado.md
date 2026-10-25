@@ -19,12 +19,12 @@ Mecanismo central de transferência de "nanopontos da genética" do universo ant
 Criado por autorização excepcional do curador (Devolutiva Trilogia TALM, O-3 — RC-774) a partir do ART-2025-08-03.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Mohen So (Avatar Keshava de Vishnu) | RC-081 | relaciona-se-a |
-| Projeto Talm | RC-091 | relaciona-se-a |
-| Nidana (ovo cósmico) | RC-154 | transfere-para |
-| Nanotecnologia Prânica (manipulação da matéria em escala atômica; base tecnológica do Projeto TALM) | RC-773 | ← usada-em |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Mohen So (Avatar Keshava de Vishnu) | RC-081 | relaciona-se-a | -> | - |
+| Projeto Talm | RC-091 | relaciona-se-a | -> | - |
+| Nidana (ovo cósmico) | RC-154 | transfere | -> | consolidação: "transfere-para" → "transfere" |
+| Nanotecnologia Prânica (manipulação da matéria em escala atômica; base tecnológica do Projeto TALM) | RC-773 | usa | <- | consolidação: "usada-em" → "usa" |
 
 ## Fontes
 | Obra/palestra | Localização | Tipo |

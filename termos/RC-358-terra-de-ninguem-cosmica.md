@@ -27,13 +27,13 @@ A condição atribuída pela B005 ao planeta Terra enquanto a sua população es
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Isolamento Cósmico | RC-070 | associado |
-| Revelação Cósmica (conceito) | RC-094 | associado |
-| Seres Terrenos (Homo Sapiens) | RC-099 | associado |
-| Confederações de Mundos | RC-357 | é-um |
-| Midgard (Marte + Terra) | RC-470 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Isolamento Cósmico | RC-070 | associado | <-> | - |
+| Revelação Cósmica (conceito) | RC-094 | associado | <-> | - |
+| Seres Terrenos (Homo Sapiens) | RC-099 | associado | <-> | - |
+| Confederações de Mundos | RC-357 | é-um | -> | - |
+| Midgard (Marte + Terra) | RC-470 | associado | <-> | - |
 
 ## Fontes
 

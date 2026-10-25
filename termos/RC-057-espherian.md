@@ -17,12 +17,12 @@ atualizado = "2026-09-10"
 A maior das três grandes naves com que a Família Val (736 membros) aportou na Terra há cerca de 620 mil anos, na região do Veneto — pousou primeiro; depois Asphezian (a mais requintada e poderosa) e, quase seis milênios depois, a menor (B017). Há 392 mil anos concluiu-se a sua destruição, ao mesmo tempo em que os Val se obrigaram a construir a estação Benem, que os serviu por milênios (então 695 despertos + 4 hibernados); parte da tecnologia de Espherian foi transferida e adaptada às necessidades daquela cidadela (B017). Na cronologia, a decisão foi sucatear primeiro Espherian e, se necessário, Asphezian em seguida, para construir bases sediadas no planeta — Espheron permaneceria atuante (B018).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Asphezian | RC-025 | nave-irmã (tríade Val) |
-| Benem | RC-032 | convertida-em (estação Benem) |
-| Espheron | RC-058 | nave-irmã (tríade Val) |
-| Frota Norte | RC-065 | associado-a (sediada em Benem) |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Asphezian | RC-025 | associado | <-> | qualificador preservado: tríade Val; consolidação: "nave-irmã" → "associado" |
+| Benem | RC-032 | variação | -> | qualificador preservado: estação Benem; consolidação: "convertida-em" → "variação" |
+| Espheron | RC-058 | associado | <-> | qualificador preservado: tríade Val; consolidação: "nave-irmã" → "associado" |
+| Frota Norte | RC-065 | associado | <-> | qualificador preservado: sediada em Benem; raiz semântica associado (decisão 3) |
 
 ## Fontes
 

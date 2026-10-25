@@ -17,36 +17,36 @@ atualizado = "2026-10-22"
 Na RC, colegiado de seres = "Sophias e Indras; Conselho dos 70" — linhagem de regentes ligada ao drama da criação (RC-167) e aos desdobramentos da vinda de Sophia (RC-009).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Elohim | RC-004 | sinônimo |
-| Elohim | RC-004 | relaciona-se-a |
-| Sophia (Cristo Cósmico) | RC-009 | relaciona-se-a |
-| Jesus | RC-072 | ← relaciona-se-a |
-| Trimurti | RC-104 | relaciona-se-a |
-| Zeus | RC-145 | associado |
-| Timé (de um deus) | RC-293 | relaciona-se-a |
-| Krishna (avatar de Vishnu/Shiva) | RC-414 | relaciona-se-a |
-| Ensá (espírito primordial companheiro de En Ma) | RC-477 | ← relaciona-se-a |
-| Belial (arconte; 'Satã' do livro de Jó) | RC-479 | ← relaciona-se-a |
-| Indra (título de arconte) | RC-480 | relaciona-se-a |
-| Ialdabaoth (= Javé/Samael/Saklas/Sabaoth) | RC-482 | associado |
-| Barbelo (Mãe-Pai primordial gnóstica) | RC-483 | associado |
-| Dinastia das Sophias | RC-494 | relaciona-se-a |
-| Holodomínio (esfera de influência extrafísica) | RC-507 | ← relaciona-se-a |
-| Noreia (Norea) | RC-579 | ← associado-a |
-| Princípio da Externalização (criação divina sem sexualidade) | RC-768 | associado |
-| Corpos Fenvã (terceira forma de vida do universo vizinho) | RC-769 | relaciona-se-a |
-| Hipóstase dos Arcontes (livro gnóstico; 'realidade dos regentes') | RC-770 | ← relaciona-se-a |
-| Hipóstase dos Arcontes (livro gnóstico; 'realidade dos regentes') | RC-770 | relaciona-se-a |
-| Suserania Universal (herança prometida a Rockma/Sofia) | RC-859 | associado |
-| Extísicos (seres do universo vizinho, não biológicos, compostos de plasma) | RC-861 | associado |
-| Fórmulas Mentais (o código dos demos, contraposto ao DNA humano) | RC-870 | associado |
-| Nag Hammadi (a biblioteca egípcia onde em 1945 foi encontrada a cópia copta da Hipóstase dos Arcontes — STT «Naghama»; marco físico e histórico da recuperação da revelação gnóstica original) | RC-887 | ← relaciona-se-a |
-| Nag Hammadi (a biblioteca egípcia onde em 1945 foi encontrada a cópia copta da Hipóstase dos Arcontes — STT «Naghama»; marco físico e histórico da recuperação da revelação gnóstica original) | RC-887 | relaciona-se-a |
-| Elelev / Eleleth (o grande anjo da revelação gnóstica que respondeu à busca de Noreia, indicando a incorruptibilidade Sofia/Pistes no interior dos domínios ilimitados) | RC-888 | ← relaciona-se-a |
-| Elelev / Eleleth (o grande anjo da revelação gnóstica que respondeu à busca de Noreia, indicando a incorruptibilidade Sofia/Pistes no interior dos domínios ilimitados) | RC-888 | relaciona-se-a |
-| Bondade Humana | RC-895 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Elohim | RC-004 | variação | -> | consolidação: "sinônimo" → "variação" |
+| Elohim | RC-004 | relaciona-se-a | -> | - |
+| Sophia (Cristo Cósmico) | RC-009 | relaciona-se-a | -> | - |
+| Jesus | RC-072 | relaciona-se-a | <- | - |
+| Trimurti | RC-104 | relaciona-se-a | -> | - |
+| Zeus | RC-145 | associado | <-> | - |
+| Timé (de um deus) | RC-293 | relaciona-se-a | -> | - |
+| Krishna (avatar de Vishnu/Shiva) | RC-414 | relaciona-se-a | -> | - |
+| Ensá (espírito primordial companheiro de En Ma) | RC-477 | relaciona-se-a | <- | - |
+| Belial (arconte; 'Satã' do livro de Jó) | RC-479 | relaciona-se-a | <- | - |
+| Indra (título de arconte) | RC-480 | relaciona-se-a | -> | - |
+| Ialdabaoth (= Javé/Samael/Saklas/Sabaoth) | RC-482 | associado | <-> | - |
+| Barbelo (Mãe-Pai primordial gnóstica) | RC-483 | associado | <-> | - |
+| Dinastia das Sophias | RC-494 | relaciona-se-a | -> | - |
+| Holodomínio (esfera de influência extrafísica) | RC-507 | relaciona-se-a | <- | - |
+| Noreia (Norea) | RC-579 | associado | <-> | - |
+| Princípio da Externalização (criação divina sem sexualidade) | RC-768 | associado | <-> | - |
+| Corpos Fenvã (terceira forma de vida do universo vizinho) | RC-769 | relaciona-se-a | -> | - |
+| Hipóstase dos Arcontes (livro gnóstico; 'realidade dos regentes') | RC-770 | relaciona-se-a | <- | - |
+| Hipóstase dos Arcontes (livro gnóstico; 'realidade dos regentes') | RC-770 | relaciona-se-a | -> | - |
+| Suserania Universal (herança prometida a Rockma/Sofia) | RC-859 | associado | <-> | - |
+| Extísicos (seres do universo vizinho, não biológicos, compostos de plasma) | RC-861 | associado | <-> | - |
+| Fórmulas Mentais (o código dos demos, contraposto ao DNA humano) | RC-870 | associado | <-> | - |
+| Nag Hammadi (a biblioteca egípcia onde em 1945 foi encontrada a cópia copta da Hipóstase dos Arcontes — STT «Naghama»; marco físico e histórico da recuperação da revelação gnóstica original) | RC-887 | relaciona-se-a | <- | - |
+| Nag Hammadi (a biblioteca egípcia onde em 1945 foi encontrada a cópia copta da Hipóstase dos Arcontes — STT «Naghama»; marco físico e histórico da recuperação da revelação gnóstica original) | RC-887 | relaciona-se-a | -> | - |
+| Elelev / Eleleth (o grande anjo da revelação gnóstica que respondeu à busca de Noreia, indicando a incorruptibilidade Sofia/Pistes no interior dos domínios ilimitados) | RC-888 | relaciona-se-a | <- | - |
+| Elelev / Eleleth (o grande anjo da revelação gnóstica que respondeu à busca de Noreia, indicando a incorruptibilidade Sofia/Pistes no interior dos domínios ilimitados) | RC-888 | relaciona-se-a | -> | - |
+| Bondade Humana | RC-895 | associado | <-> | - |
 
 ## Ampliação — STT26-EXPERIENCIA_ESPIRITUAL_ETICA (Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados))
 

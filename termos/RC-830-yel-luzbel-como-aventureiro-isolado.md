@@ -24,14 +24,14 @@ Tese (leitura do autor, palestra **P2023-12-17**, U0001) de que **Yel Luzbel** �
 Aparece em **P2023-12-17**, U0001. Contexto: a palestra abre com Yel Luzbel como figura emblemática. "Yel Luzbel, que é um ser que está basicamente a dois 1000 anos absolutamente isolado, sem contato com quem quer que seja, porque não quer ter contato com ninguém." Ele desmaiou aos pés da cruz porque **percebeu que o humano Jesus era uma expressão de Sophia** — o que o fez perceber que **Sophia (contra quem ele se rebelara) tinha se encarnado entre os humanos**. Esse foi um momento de colapso para Yel Luzbel, que desde então se isola.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Rebelião de Lúcifer | RC-002 | é-paralelo-com |
-| Guerra do Éden | RC-006 | associado |
-| Sophia (Cristo Cósmico) | RC-009 | rebelou-se-contra |
-| Jesus | RC-072 | desmaiou-aos-pés-da-cruz-de |
-| Belquior (poeta) | (referência cultural) | é-paralelo-com |
-| Fernando Pessoa (poeta) | (referência cultural) | é-paralelo-com |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Rebelião de Lúcifer | RC-002 | associado | <-> | consolidação: "é-paralelo-com" → "associado" |
+| Guerra do Éden | RC-006 | associado | <-> | - |
+| Sophia (Cristo Cósmico) | RC-009 | relaciona-se-a | -> | consolidação: "rebelou-se-contra" → "relaciona-se-a" |
+| Jesus | RC-072 | relaciona-se-a | -> | consolidação: "desmaiou-aos-pés-da-cruz-de" → "relaciona-se-a" |
+| Belquior (poeta) | (referência cultural) | associado | <-> | consolidação: "é-paralelo-com" → "associado" |
+| Fernando Pessoa (poeta) | (referência cultural) | associado | <-> | consolidação: "é-paralelo-com" → "associado" |
 
 ## Seres Associados
 - **Yel Luzbel** — quem está isolado

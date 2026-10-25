@@ -17,15 +17,15 @@ atualizado = "2026-09-13"
 Metáfora (da série Westworld, baseada na teoria da mente bicameral de Julian Jaynes [REVISAR → CHANCELA 2026-09-06 · F041-L5: AGUARDA-ÁUDIO (dívida perdoada até nova evidência na base; STT preservado como falado) — ver nota]) para o que diferencia um ser humano de um robô: o robô tem 'fio fechado' (cumpre ordens), o ser humano tem 'fios soltos' — precisa improvisar a cada situação. A construção de um eu (memórias + algoritmos de improviso + memórias encobridoras) é comparada à montagem dos androides do parque.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Seres Terrenos (Homo Sapiens) | RC-099 | relaciona-se-a |
-| Tikun Cósmico (restabelecimento da Criação) | RC-514 | relaciona-se-a |
-| Conectoma humano (pulsações sinápticas e a sensação de eu) | RC-557 | associado |
-| Sensação de eu (a sensação particular a cada instante) | RC-558 | relaciona-se-a |
-| Travas e lacres (mecanismos de controle do despertar) | RC-563 | relaciona-se-a |
-| Quarto Cérebro Humano | RC-614 | relaciona-se-a |
-| Genoma da Liberdade | RC-619 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Seres Terrenos (Homo Sapiens) | RC-099 | relaciona-se-a | -> | - |
+| Tikun Cósmico (restabelecimento da Criação) | RC-514 | relaciona-se-a | -> | - |
+| Conectoma humano (pulsações sinápticas e a sensação de eu) | RC-557 | associado | <-> | - |
+| Sensação de eu (a sensação particular a cada instante) | RC-558 | relaciona-se-a | -> | - |
+| Travas e lacres (mecanismos de controle do despertar) | RC-563 | relaciona-se-a | -> | - |
+| Quarto Cérebro Humano | RC-614 | relaciona-se-a | -> | - |
+| Genoma da Liberdade | RC-619 | associado | <-> | - |
 
 ## Fontes
 

@@ -24,17 +24,17 @@ atualizado = "2026-08-13"
 A obra materializa o diálogo direto Criador × criatura: Mônica abre a Carta 1 ("Caro Sr. Javé. Inicialmente gostaria de pedir-lhe permissão para tratá-lo por você... essa conversa franca e amorosa como se aprende que deveria ser a conversa entre pai e filha") e Javé responde em 1ª pessoa ("Acostumem-se e compreendam: **sou eu que vivo em vocês!**"). O livro confirma e aprofunda o Favor Divino (RC-332), a Vida do CFD no Ser Humano (RC-382) e o conceito do humano como "terminal nervoso do criador" (RC-418).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | destinatário |
-| Rebelião de Lúcifer | RC-002 | baseada-em |
-| Bhuloka | RC-033 | baseada-em |
-| Revelação Cósmica (conceito) | RC-094 | associado |
-| Resposta de Javé (em 1ª pessoa) | RC-417 | ← responde-a |
-| Terminal Nervoso do Criador (humano) | RC-418 | tema |
-| Sou eu que vivo em vocês (Javé) | RC-419 | tema |
-| Mônica Camargo (autora das cartas) | RC-420 | escrita-por |
-| As Memórias de Javé (crônicas) | RC-421 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Javé | RC-001 | transfere | -> | consolidação: "destinatário" → "transfere" |
+| Rebelião de Lúcifer | RC-002 | requer | -> | consolidação: "baseada-em" → "requer" |
+| Bhuloka | RC-033 | requer | -> | consolidação: "baseada-em" → "requer" |
+| Revelação Cósmica (conceito) | RC-094 | associado | <-> | - |
+| Resposta de Javé (em 1ª pessoa) | RC-417 | comunica | <- | consolidação: "responde-a" → "comunica" |
+| Terminal Nervoso do Criador (humano) | RC-418 | contexto | -> | consolidação: "tema" → "contexto" |
+| Sou eu que vivo em vocês (Javé) | RC-419 | contexto | -> | consolidação: "tema" → "contexto" |
+| Mônica Camargo (autora das cartas) | RC-420 | comunica | <- | consolidação: "escrita-por" → "comunica"; direção invertida (forma passiva/inversa) |
+| As Memórias de Javé (crônicas) | RC-421 | associado | <-> | - |
 
 ## Seres Associados
 Javé (RC-001); Mônica Camargo (RC-420); Jan Val Ellam (RC-071, intermediário).

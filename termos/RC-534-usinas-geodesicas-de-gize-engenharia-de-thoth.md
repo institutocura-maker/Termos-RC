@@ -17,10 +17,10 @@ atualizado = "2026-08-18"
 Complexo geodésico de Gizé atribuído, na RC, à engenharia de **Thoth** (RC-463) — tecnologia anunnaki preservada no Egito.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Anunnaki | RC-024 | associado |
-| Hermes Trismegisto (= Ningishzidda/Thoth/Quetzalcóatl) | RC-463 | relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Anunnaki | RC-024 | associado | <-> | - |
+| Hermes Trismegisto (= Ningishzidda/Thoth/Quetzalcóatl) | RC-463 | relaciona-se-a | -> | - |
 
 ## Fontes
 

@@ -17,13 +17,13 @@ atualizado = "2026-09-12"
 Epíteto gnóstico de Javé (o demiurgo): "Samael, o soberano cego; Saklas, o ignorante; Ialdabaoth, o blasfemador contra o divino; Sabaoth" — todos nomes do mesmo ser na leitura da RC (na Hipóstase dos Arcontes, RC-770). Na palestra P2026-07-25, o autor enumera esses epítetos ao apresentar os personagens do livro gnóstico.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | sinônimo |
-| Prabrajna | RC-152 | relaciona-se-a |
-| Arcontes (= Sophias e Indras; Conselho dos 70) | RC-474 | associado |
-| Pistis Sophia (feminino cósmico gnóstico) | RC-530 | relaciona-se-a |
-| Hipóstase dos Arcontes (livro gnóstico; 'realidade dos regentes') | RC-770 | ← relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Javé | RC-001 | variação | -> | consolidação: "sinônimo" → "variação" |
+| Prabrajna | RC-152 | relaciona-se-a | -> | - |
+| Arcontes (= Sophias e Indras; Conselho dos 70) | RC-474 | associado | <-> | - |
+| Pistis Sophia (feminino cósmico gnóstico) | RC-530 | relaciona-se-a | -> | - |
+| Hipóstase dos Arcontes (livro gnóstico; 'realidade dos regentes') | RC-770 | relaciona-se-a | <- | - |
 
 ## Fontes
 

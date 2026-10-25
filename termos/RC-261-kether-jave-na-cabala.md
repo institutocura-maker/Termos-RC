@@ -25,26 +25,26 @@ atualizado = "2026-08-29"
 B013 demonstra que Javé "há muito tempo tenta explicar e entender a sua 'situação' por meio da troca de informações com os humanos" — e a Cabala é uma dessas revelações. A figura de Kether/Javé "se encontra 'preso num lapso ou laço temporal' desde a sua 'queda'" (B013, cap. 11, na metáfora do Doutor Estranho/Dormammu). A 1ª Constatação de B013: o judaísmo escolheu um dos três "deuses" do "Triunvirato Universal" como vencedor da disputa pela autoria da Criação — e esse deus escolheu o povo hebreu como instrumento.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | variação |
-| Javé | RC-001 | variação |
-| Tzimtzum | RC-008 | ← explica |
-| Brahma (Brajna) | RC-037 | variação |
-| Brahma (Brajna) | RC-037 | variação |
-| Daath (a Criação na Cabala) | RC-262 | associado-a |
-| Sefirot / Árvore da Vida | RC-263 | ← compõe |
-| Planos de Existência da Cabala (Atziluth, Briah, Yetzirah, Assiah) | RC-264 | associado |
-| Sepher ha-Zohar (e Shimon Bar Yochai) | RC-266 | ← revelado-por |
-| Isaac Luria e o conceito do Tzimtzum | RC-267 | associado |
-| Gnosticismo (contraponto à Cabala) | RC-268 | ← opõe-se-a |
-| Linhagens Humanas: Preferidas e Preteridas | RC-269 | associado |
-| Linhagem dos Patriarcas Hebreus | RC-270 | associado |
-| Pactos do Criador (troca de informações) | RC-271 | associado |
-| Laço Temporal de Kether/Javé | RC-272 | condição |
-| Ein Sof (Prabrajna na Cabala) | RC-468 | ← relaciona-se-a |
-| Hochmah (2ª Sefirah — Sabedoria; = Sophia) | RC-565 | ← relaciona-se-a |
-| Binah | RC-675 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Javé | RC-001 | variação | -> | - |
+| Javé | RC-001 | variação | -> | - |
+| Tzimtzum | RC-008 | explica | <- | - |
+| Brahma (Brajna) | RC-037 | variação | -> | - |
+| Brahma (Brajna) | RC-037 | variação | -> | - |
+| Daath (a Criação na Cabala) | RC-262 | associado | <-> | - |
+| Sefirot / Árvore da Vida | RC-263 | inclui | <- | consolidação: "compõe" → "inclui" |
+| Planos de Existência da Cabala (Atziluth, Briah, Yetzirah, Assiah) | RC-264 | associado | <-> | - |
+| Sepher ha-Zohar (e Shimon Bar Yochai) | RC-266 | explica | -> | consolidação: "revelado-por" → "explica"; direção invertida (forma passiva/inversa) |
+| Isaac Luria e o conceito do Tzimtzum | RC-267 | associado | <-> | - |
+| Gnosticismo (contraponto à Cabala) | RC-268 | opõe-se-a | <- | - |
+| Linhagens Humanas: Preferidas e Preteridas | RC-269 | associado | <-> | - |
+| Linhagem dos Patriarcas Hebreus | RC-270 | associado | <-> | - |
+| Pactos do Criador (troca de informações) | RC-271 | associado | <-> | - |
+| Laço Temporal de Kether/Javé | RC-272 | relaciona-se-a | -> | consolidação: "condição" → "relaciona-se-a" |
+| Ein Sof (Prabrajna na Cabala) | RC-468 | relaciona-se-a | <- | - |
+| Hochmah (2ª Sefirah — Sabedoria; = Sophia) | RC-565 | relaciona-se-a | <- | - |
+| Binah | RC-675 | associado | <-> | - |
 
 ## Seres Associados
 Javé (RC-001); Brahma (RC-037); Criador (RC-041).

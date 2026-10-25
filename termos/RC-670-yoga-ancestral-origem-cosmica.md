@@ -22,16 +22,16 @@ Forma validada pelo curador.
 P2026-02-28.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Shiva (Savna) | RC-102 | criado-por |
-| Kundalini (no contexto RC) | RC-211 | associado |
-| Simultaneidade Reversa | RC-628 | relaciona-se-a |
-| Descendência de Kadru (Nagas, Uragas e Maharagas) | RC-664 | ← relaciona-se-a |
-| Descendência de Kadru (Nagas, Uragas e Maharagas) | RC-664 | relaciona-se-a |
-| Som da Flauta / Som da Falta | RC-668 | ← origina |
-| Pashupati (avatar de Shiva) | RC-669 | ← desenvolve |
-| Mão Invisível Multiforme / Conselho das Nagas | RC-697 | ← relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Shiva (Savna) | RC-102 | origina | <- | consolidação: "criado-por" → "origina"; direção invertida (forma passiva/inversa) |
+| Kundalini (no contexto RC) | RC-211 | associado | <-> | - |
+| Simultaneidade Reversa | RC-628 | relaciona-se-a | -> | - |
+| Descendência de Kadru (Nagas, Uragas e Maharagas) | RC-664 | relaciona-se-a | <- | - |
+| Descendência de Kadru (Nagas, Uragas e Maharagas) | RC-664 | relaciona-se-a | -> | - |
+| Som da Flauta / Som da Falta | RC-668 | origina | <- | - |
+| Pashupati (avatar de Shiva) | RC-669 | associado | <-> | consolidação: "desenvolve" → "associado" |
+| Mão Invisível Multiforme / Conselho das Nagas | RC-697 | relaciona-se-a | <- | - |
 
 ## Seres Associados
 Consultar Base.

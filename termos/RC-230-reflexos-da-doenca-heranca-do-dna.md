@@ -29,11 +29,11 @@ Com isso:
 **Origem do conteúdo da ampliação:** palestra `P2012-02-19 — Xadrez Cósmico de Brahma, Vishnu e Shiva` (19/02/2012). Transcrição automatizada, **não conferida com o áudio**; cada aspa foi recortada do `original.txt` pelo índice de âncoras do motor e conferida byte a byte pelo portão B. Nada foi digitado de memória.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| CFD (Código Fonte Definidor) | RC-040 | associado |
-| Seres Terrenos (Homo Sapiens) | RC-099 | **sem aresta** em `RELACOES`; **sem arquivo** |
-| DNA como Projeção Holográfica do Psiquismo do Criador | RC-217 | **sem aresta** em `RELACOES`; arquivo existe |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| CFD (Código Fonte Definidor) | RC-040 | associado | <-> | - |
+| Seres Terrenos (Homo Sapiens) | RC-099 | - | - | sem aresta em RELACOES; sem arquivo |
+| DNA como Projeção Holográfica do Psiquismo do Criador | RC-217 | - | - | sem aresta em RELACOES; arquivo existe |
 
 ## Fontes
 | Obra (sigla) | Título | Página | Tipo |

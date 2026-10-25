@@ -27,11 +27,11 @@ Na B025 (*Caminhos Espirituais*), o título da secção 1 de «V — O Terceiro 
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Segundo Advento do Cristo (Volta de Jesus) | RC-005 | variação |
-| Jesus | RC-072 | associado |
-| Revelação Cósmica (conceito) | RC-094 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Segundo Advento do Cristo (Volta de Jesus) | RC-005 | variação | -> | - |
+| Jesus | RC-072 | associado | <-> | - |
+| Revelação Cósmica (conceito) | RC-094 | associado | <-> | - |
 
 ## Fontes
 

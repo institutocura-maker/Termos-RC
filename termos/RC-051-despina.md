@@ -27,11 +27,11 @@ Na mitologia grega, deusa filha de Poseidon e Deméter, irmã gêmea do equino �
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Deidade (Pai-Mãe Amantíssimo / Brahman) | RC-047 | associado |
-| Val Anen | RC-112 | variação |
-| Seres dos Portais | RC-241 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Deidade (Pai-Mãe Amantíssimo / Brahman) | RC-047 | associado | <-> | - |
+| Val Anen | RC-112 | variação | -> | - |
+| Seres dos Portais | RC-241 | associado | <-> | - |
 
 ## Fontes
 

@@ -23,14 +23,14 @@ Família de **374 anjos clones criados por Javé no Brahmaloka**, membros da "cl
 O B015 (cap. 4, "A Geração dos En Drel") detalha a origem: foram **forjados pouco antes da grande conflagração** (a agressão ao Criador que diminuiu seu poder criador). Da primeira geração do Criador restaram **dez seres primordiais ("dez sagrados")**, e um deles — mentor dos En Drel — pediu ao Criador uma geração com as características dos guardiões. "Fomos, então, gerados, mas não a tempo de impedir a agressão endereçada ao Criador." Os En Drel e suas naves eram "um só corpo" nas viagens.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | criado-por |
-| Anjos clones | RC-019 | é-um |
-| Zont En Drel 29 | RC-147 | ← é-um |
-| Dez Sagrados (primeira geração do Criador) | RC-246 | ← mentor-de |
-| Endrelnianos | RC-247 | ← é-um |
-| Individualização Epifenomenológica dos Anjos Clones | RC-651 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Javé | RC-001 | origina | <- | consolidação: "criado-por" → "origina"; direção invertida (forma passiva/inversa) |
+| Anjos clones | RC-019 | é-um | -> | - |
+| Zont En Drel 29 | RC-147 | é-um | <- | - |
+| Dez Sagrados (primeira geração do Criador) | RC-246 | controla | <- | consolidação: "mentor-de" → "controla" |
+| Endrelnianos | RC-247 | é-um | <- | - |
+| Individualização Epifenomenológica dos Anjos Clones | RC-651 | associado | <-> | - |
 
 ## Seres Associados
 Javé (RC-001); Zont En Drel 29 (RC-147); Comandante En Drel 1; Criador (RC-041).

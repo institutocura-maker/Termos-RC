@@ -24,17 +24,17 @@ Libertação da roda reencarnacional por superação da ignorância e emancipaç
 É associado a Kapila, disciplina meditativa, Mentalma e busca de saída das redes religiosas opressivas.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Mentalma | RC-166 | relaciona-se-a |
-| Liberdade Mental (premissa do Quarto Logos) | RC-253 | relaciona-se-a |
-| Tikun Cósmico (restabelecimento da Criação) | RC-514 | relaciona-se-a |
-| Ressonância límbica (emoções como tecnologia cósmica) | RC-529 | ← relaciona-se-a |
-| Disciplina dos 3As (respiração, mente, alinhamento) | RC-552 | relaciona-se-a |
-| Corpo Sutil Reencarnante | RC-704 | ← relaciona-se-a |
-| Lei da Mente do Buda | RC-712 | ← relaciona-se-a |
-| Sócios do Destino / Ausência de Justiça Externa | RC-720 | ← relaciona-se-a |
-| Jainismo (antigo Druidismo — religião mais antiga) | RC-759 | ← relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Mentalma | RC-166 | relaciona-se-a | -> | - |
+| Liberdade Mental (premissa do Quarto Logos) | RC-253 | relaciona-se-a | -> | - |
+| Tikun Cósmico (restabelecimento da Criação) | RC-514 | relaciona-se-a | -> | - |
+| Ressonância límbica (emoções como tecnologia cósmica) | RC-529 | relaciona-se-a | <- | - |
+| Disciplina dos 3As (respiração, mente, alinhamento) | RC-552 | relaciona-se-a | -> | - |
+| Corpo Sutil Reencarnante | RC-704 | relaciona-se-a | <- | - |
+| Lei da Mente do Buda | RC-712 | relaciona-se-a | <- | - |
+| Sócios do Destino / Ausência de Justiça Externa | RC-720 | relaciona-se-a | <- | - |
+| Jainismo (antigo Druidismo — religião mais antiga) | RC-759 | relaciona-se-a | <- | - |
 
 ## Seres Associados
 Consultar as relações tipadas acima.

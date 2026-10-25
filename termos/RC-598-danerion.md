@@ -23,15 +23,15 @@ Um dos cinco Archeons de Ereon, ligado ao desenvolvimento das artes criativas de
 Aparece na sequência Antérion–Danérion–Mermérion, anterior ao surgimento de Perpérion e Tempérion.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Perpérion | RC-087 | relaciona-se-a |
-| Tempérion (Archeon de Ereon; setor dos seres LM) | RC-472 | relaciona-se-a |
-| Ereon (região dos cinco Archeons da Espiritualidade Laboratorial) | RC-496 | associado |
-| Archeons de Ereon | RC-596 | ← inclui |
-| Archeons de Ereon | RC-596 | é-um |
-| Antérion | RC-597 | desenvolve |
-| Mermérion | RC-599 | relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Perpérion | RC-087 | relaciona-se-a | -> | - |
+| Tempérion (Archeon de Ereon; setor dos seres LM) | RC-472 | relaciona-se-a | -> | - |
+| Ereon (região dos cinco Archeons da Espiritualidade Laboratorial) | RC-496 | associado | <-> | - |
+| Archeons de Ereon | RC-596 | inclui | <- | - |
+| Archeons de Ereon | RC-596 | é-um | -> | - |
+| Antérion | RC-597 | associado | <-> | consolidação: "desenvolve" → "associado" |
+| Mermérion | RC-599 | relaciona-se-a | -> | - |
 
 ## Seres Associados
 Consultar as relações tipadas acima.

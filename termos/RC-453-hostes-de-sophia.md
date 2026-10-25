@@ -25,11 +25,11 @@ atualizado = "2026-08-29"
 No Livro 2 (B058), as designações se sucedem: "Sophia e as suas Hostes" (recorrente); "Sophia e os seus Assessores" (pp. 25–26); "as suas 'Hostes de Comando'" (p. 67); "combater Sophia e **as suas Hostes bélicas**!" (p. 74 — o alvo do "Exército" rebelde). A relação canônica da malha (`RC-453 associado-a RC-009`, B058: "Hostes bélicas a serviço de Sophia") já registrava o vínculo. No Livro 1 (B057), as hostes eram o alvo da rebelião ("contra Sophia e as suas hostes", p. 19) e a suposta identidade do Criador na teoria do ser em revolta ("E se Sophia e as suas hostes, na verdade, fossem esse Criador...?", p. 49 — quarentena).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Sophia (Cristo Cósmico) | RC-009 | associado-a |
-| Biodemos | RC-036 | relaciona-se-a (os dois lados do conflito) |
-| Revolta Capelina | RC-450 | envolve (o alvo bélico do "Exército") |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Sophia (Cristo Cósmico) | RC-009 | associado | <-> | - |
+| Biodemos | RC-036 | relaciona-se-a | -> | qualificador preservado: os dois lados do conflito |
+| Revolta Capelina | RC-450 | envolve | -> | qualificador preservado: o alvo bélico do "Exército" |
 
 ## Seres Associados
 Sophia (RC-009, o comandante); os Administradores/Assessores; os "anjos assessores" (B057, p. 45); Yel Luzbel e Len Mion (os adversários).

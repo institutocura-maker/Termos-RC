@@ -24,22 +24,22 @@ Tese (leitura do autor, B019 cap. 12 + P2025-02-16/P2025-02-15) de que a humanid
 Formulação canônica em B019 — Nem Deus, nem Javé, nem Darwin (Conectar, 2021), cap. 12 "A Evolução que Terá de Vir: o Novo Homo sapiens" (pp. 135–141): do lobo que virou cão (Canis lupus → 2 mil raças) à subespécie lunar, marciana e das naves ("possivelmente, não terão pernas, mas quatro braços"). Desdobrada em P2025-02-16 (o novo ser humano como condição do Oitavo Dia) e P2025-02-15 (a "raça humana turbinada" contra o domínio dos computadores).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Criatura Universal | RC-042 | relaciona-se-a |
-| Seres Terrenos (Homo Sapiens) | RC-099 | relaciona-se-a |
-| Evolução Possível (terceira via: nem Darwin, nem deus) | RC-541 | listado no cadastro sem aresta |
-| Espelho da Herança Espiritual no Epigenoma | RC-543 | associado |
-| Fim do Experimento Humano | RC-578 | ← relaciona-se-a |
-| Quarto Cérebro Humano | RC-614 | ← relaciona-se-a |
-| Consciências em Corpos de Sílica | RC-645 | ← relaciona-se-a |
-| Oitavo Dia da Criação | RC-694 | ← requer |
-| Oitavo Dia da Criação | RC-694 | necessário-a |
-| Oitavo Dia da Criação | RC-694 | ← relaciona-se-a |
-| Ciência Pessoal / Doutrina da Própria Personalidade | RC-695 | listado no cadastro sem aresta |
-| Cessão Consciente do DNA Humano | RC-698 | ← relaciona-se-a |
-| Humano Turbinado | RC-709 | ← é-um |
-| Genes Críticos / Genes Dorminhocos | RC-710 | ← produz |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Criatura Universal | RC-042 | relaciona-se-a | -> | - |
+| Seres Terrenos (Homo Sapiens) | RC-099 | relaciona-se-a | -> | - |
+| Evolução Possível (terceira via: nem Darwin, nem deus) | RC-541 | - | - | listado no cadastro sem aresta |
+| Espelho da Herança Espiritual no Epigenoma | RC-543 | associado | <-> | - |
+| Fim do Experimento Humano | RC-578 | relaciona-se-a | <- | - |
+| Quarto Cérebro Humano | RC-614 | relaciona-se-a | <- | - |
+| Consciências em Corpos de Sílica | RC-645 | relaciona-se-a | <- | - |
+| Oitavo Dia da Criação | RC-694 | requer | <- | - |
+| Oitavo Dia da Criação | RC-694 | requer | -> | consolidação: "necessário-a" → "requer" |
+| Oitavo Dia da Criação | RC-694 | relaciona-se-a | <- | - |
+| Ciência Pessoal / Doutrina da Própria Personalidade | RC-695 | - | - | listado no cadastro sem aresta |
+| Cessão Consciente do DNA Humano | RC-698 | relaciona-se-a | <- | - |
+| Humano Turbinado | RC-709 | é-um | <- | - |
+| Genes Críticos / Genes Dorminhocos | RC-710 | origina | <- | consolidação: "produz" → "origina" |
 
 ## Seres Associados
 - **Homo sapiens** (RC-099) — a espécie que se especia

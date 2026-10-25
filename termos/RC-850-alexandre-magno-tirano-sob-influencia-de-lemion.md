@@ -29,13 +29,13 @@ Com isso:
 **Origem do conteúdo da ampliação:** palestra `P2023-08-27 — Len Mion e os Senhores da Terra Alexandre Magno e Qin Shi Huang Di` (27/08/2023). Transcrição automatizada, **não conferida com o áudio**; cada aspa foi recortada do `original.txt` pelo índice de âncoras do motor e conferida byte a byte pelo portão B. Nada foi digitado de memória.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Len Mion (Satã) | RC-074 | **sem aresta** em `RELACOES`; arquivo existe |
-| Diálogos de Sócrates, Platão e Aristóteles (nos Céus da Grécia) | RC-406 | **sem aresta** em `RELACOES`; **sem arquivo** |
-| Krishna (avatar de Vishnu/Shiva) | RC-414 | **sem aresta** em `RELACOES`; arquivo existe |
-| Bebida dos Deuses (Ambrosia/Amrita/Soma) | RC-466 | **sem aresta** em `RELACOES`; arquivo existe |
-| DNA Insubmisso / Linhagem Pandora–Eva–Noreia | RC-727 | **sem aresta** em `RELACOES`; arquivo existe |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Len Mion (Satã) | RC-074 | - | - | sem aresta em RELACOES; arquivo existe |
+| Diálogos de Sócrates, Platão e Aristóteles (nos Céus da Grécia) | RC-406 | - | - | sem aresta em RELACOES; sem arquivo |
+| Krishna (avatar de Vishnu/Shiva) | RC-414 | - | - | sem aresta em RELACOES; arquivo existe |
+| Bebida dos Deuses (Ambrosia/Amrita/Soma) | RC-466 | - | - | sem aresta em RELACOES; arquivo existe |
+| DNA Insubmisso / Linhagem Pandora–Eva–Noreia | RC-727 | - | - | sem aresta em RELACOES; arquivo existe |
 
 ## Ampliação — OIDR26-01 (Onda incremental dry-run — Anunnaki, genética e humanidade (derivados normalizados))
 

@@ -17,24 +17,24 @@ atualizado = "2026-09-10"
 As formas de vida surgidas como produto da queda: "Brahma, Vishnu e Shiva foram as formas que suas consciências pessoais puderam gerar nessa faixa de realidade" antimaterial — base da forma demo e "prisão" para as suas mentes (B031). São as expressões trimurtianas edificadas após o "mergulho" nesta Criação (B022) — os demos puros originais, com força mental para expressar a partir de si as formas Adhyajna (B016). Dos três seres adhydaiva, Shiva e Vishnu continuaram ligados aos seus espíritos (condições adhyatman/adhyagya); Brahma, por ter caído, rompeu a ligação — é desalmado, projeção holográfica de Prabrajna (P2025-02-16). Na Tela 4: Vishnu + Javé (ADHYDAIVA) — Vishnu é Mavatma que mergulhou, Javé é Prabrajna que projetou (P2024-05-04). O Criador Javé tem condição Adhydaiva, enquanto sua antiga condição Adhyatman segue "desmaiada, em coma" fora da blindagem da sua Obra (B044).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Adhy | RC-011 | associado |
-| Adhyagia | RC-012 | associado |
-| Adhyatman | RC-013 | provém-de (mergulho) |
-| Adhybutha | RC-015 | associado-a (suporte) |
-| Adhyajna | RC-016 | produz (avatares) |
-| Brahma (Brajna) | RC-037 | tem-forma (caída) |
-| Shiva (Savna) | RC-102 | tem-forma |
-| Vishnu (Mavatna) | RC-135 | tem-forma |
-| A Lógica de Javé e a Origem da Humanidade | RC-229 | associado |
-| Prisioneiros da Brahmaloka | RC-260 | associado |
-| Adhyshprabrajna (Adhy que caiu) | RC-310 | associado |
-| Adhyagya (formas espirituais Adhy) | RC-311 | associado |
-| ADHYMAVATANA (nome completo de Mavatna/Vishnu) | RC-408 | associado |
-| ADHYSAVNA (nome completo de Savna/Shiva) | RC-409 | associado |
-| Gênero Adhy (147 seres, 5 espécies) | RC-411 | associado |
-| Corpo Daiva / Corpo Demoníaco de Plasma | RC-630 | ← relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Adhy | RC-011 | associado | <-> | - |
+| Adhyagia | RC-012 | associado | <-> | - |
+| Adhyatman | RC-013 | origina | <- | qualificador preservado: mergulho; consolidação: "provém-de" → "origina"; direção invertida (forma passiva/inversa) |
+| Adhybutha | RC-015 | associado | <-> | qualificador preservado: suporte; raiz semântica associado (decisão 3) |
+| Adhyajna | RC-016 | origina | -> | qualificador preservado: avatares; consolidação: "produz" → "origina" |
+| Brahma (Brajna) | RC-037 | representa | -> | qualificador preservado: caída; consolidação: "tem-forma" → "representa" |
+| Shiva (Savna) | RC-102 | representa | -> | consolidação: "tem-forma" → "representa" |
+| Vishnu (Mavatna) | RC-135 | representa | -> | consolidação: "tem-forma" → "representa" |
+| A Lógica de Javé e a Origem da Humanidade | RC-229 | associado | <-> | - |
+| Prisioneiros da Brahmaloka | RC-260 | associado | <-> | - |
+| Adhyshprabrajna (Adhy que caiu) | RC-310 | associado | <-> | - |
+| Adhyagya (formas espirituais Adhy) | RC-311 | associado | <-> | - |
+| ADHYMAVATANA (nome completo de Mavatna/Vishnu) | RC-408 | associado | <-> | - |
+| ADHYSAVNA (nome completo de Savna/Shiva) | RC-409 | associado | <-> | - |
+| Gênero Adhy (147 seres, 5 espécies) | RC-411 | associado | <-> | - |
+| Corpo Daiva / Corpo Demoníaco de Plasma | RC-630 | relaciona-se-a | <- | - |
 
 ## Fontes
 

@@ -27,15 +27,15 @@ Na Revelação Cósmica, um tipo de avatar urdido obrigatoriamente a partir do �
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Brahma (Brajna) | RC-037 | associado |
-| Mohen So (Avatar Keshava de Vishnu) | RC-081 | ← é-um |
-| Shiva (Savna) | RC-102 | associado |
-| Vishnu (Mavatna) | RC-135 | associado |
-| Hara (avatar de Shiva) | RC-413 | associado |
-| Krishna (avatar de Vishnu/Shiva) | RC-414 | ← relaciona-se-a |
-| Krishna como 'pretenso Keshava' | RC-425 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Brahma (Brajna) | RC-037 | associado | <-> | - |
+| Mohen So (Avatar Keshava de Vishnu) | RC-081 | é-um | <- | - |
+| Shiva (Savna) | RC-102 | associado | <-> | - |
+| Vishnu (Mavatna) | RC-135 | associado | <-> | - |
+| Hara (avatar de Shiva) | RC-413 | associado | <-> | - |
+| Krishna (avatar de Vishnu/Shiva) | RC-414 | relaciona-se-a | <- | - |
+| Krishna como 'pretenso Keshava' | RC-425 | associado | <-> | - |
 
 ## Ampliação — OIDR26-02 (Onda incremental dry-run — Mitologias, tradições e reintegração (derivados normalizados))
 

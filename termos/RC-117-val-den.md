@@ -27,10 +27,10 @@ Biodemo da Família Val que faleceu logo na primeira experiência dos Val fora d
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Val (Família Val) | RC-109 | associado |
-| Val dos Corpos Perdidos / Dimensionados | RC-133 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Val (Família Val) | RC-109 | associado | <-> | - |
+| Val dos Corpos Perdidos / Dimensionados | RC-133 | associado | <-> | - |
 
 ## Fontes
 

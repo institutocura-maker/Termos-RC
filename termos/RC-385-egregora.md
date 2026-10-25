@@ -17,19 +17,19 @@ atualizado = "2026-10-22"
 Campo de energias extrafísicas formado no plano astral a partir das emoções e pensamentos liberados por um grupo de indivíduos com o mesmo padrão vibratório e/ou karmicamente vinculados a um mesmo padrão de circunstância (B041, Nota 21) — uma das três realidades "eternas" da Criação, com os elétrons e os códigos-fontes definidores das espécies. No sentido específico do cadastro, os humanos que "lideram" ou "tomam conta" de parte dos elétrons "rebeldes" estão congregados numa egrégora: "um tipo de circuito que passa a ter uma espécie de vida e/ou de 'personalidade representativa' própria" (B041, Proposta aos Elétrons). Antes do Homo sapiens, Javé "vampirizava" todas as egrégoras; depois, o processo inverteu-se — as egrégoras passaram a incomodá-lo e esgotá-lo (B041). De 2018 para cá, singularidades em campos quânticos que colecionam egrégoras ("buraco negro mental") vampirizam os corpos a elas conectados (P2023-06-24). Há ainda "outro inconsciente coletivo, de egrégoras, que reúne as emoções humanas sob a forma também de certo tipo de arcanos" (P2025-03-15) — e a Revelação Cósmica declara não pretender criar egrégoras no sentido de crenças (P2021-05-08; P2026-07-30). Egrégoras podem se personificar, influenciar por arquivos de maneira consciente e até tomar conta do genoma (B074).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | associado-a (vampirizava) |
-| Revelação Cósmica (conceito) | RC-094 | associado-a |
-| Elétrons (agente básico da vida universal) | RC-162 | associado-a (circuito) |
-| A Rebelião dos Elétrons | RC-378 | é-um |
-| Proposta de um Humano Terrestre aos Elétrons | RC-384 | associado-a (passagem-chave) |
-| Deva / Aurora (A Grande Deusa) | RC-475 | ← relaciona-se-a |
-| Universo de Egrégoras Emocionais | RC-711 | ← relaciona-se-a |
-| Formas-Pensamento e Formas-Sentimento | RC-724 | ← relaciona-se-a |
-| Dominação Psíquica pela Devoção | RC-733 | ← alimenta |
-| Princípio da Externalização (criação divina sem sexualidade) | RC-768 | ← relaciona-se-a |
-| Egrégora de Lilith / Noreia (Loop Mental Vivo) | RC-787 | associado-a (instância) |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Javé | RC-001 | associado | <-> | qualificador preservado: vampirizava; raiz semântica associado (decisão 3) |
+| Revelação Cósmica (conceito) | RC-094 | associado | <-> | - |
+| Elétrons (agente básico da vida universal) | RC-162 | associado | <-> | qualificador preservado: circuito; raiz semântica associado (decisão 3) |
+| A Rebelião dos Elétrons | RC-378 | é-um | -> | - |
+| Proposta de um Humano Terrestre aos Elétrons | RC-384 | associado | <-> | qualificador preservado: passagem-chave; raiz semântica associado (decisão 3) |
+| Deva / Aurora (A Grande Deusa) | RC-475 | relaciona-se-a | <- | - |
+| Universo de Egrégoras Emocionais | RC-711 | relaciona-se-a | <- | - |
+| Formas-Pensamento e Formas-Sentimento | RC-724 | relaciona-se-a | <- | - |
+| Dominação Psíquica pela Devoção | RC-733 | protege | <- | consolidação: "alimenta" → "protege" |
+| Princípio da Externalização (criação divina sem sexualidade) | RC-768 | relaciona-se-a | <- | - |
+| Egrégora de Lilith / Noreia (Loop Mental Vivo) | RC-787 | associado | <-> | qualificador preservado: instância; raiz semântica associado (decisão 3) |
 
 ## Ampliação — STT26-EXPERIENCIA_ESPIRITUAL_ETICA (Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados))
 

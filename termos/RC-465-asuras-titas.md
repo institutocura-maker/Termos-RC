@@ -24,16 +24,16 @@ Coletivo da tradição hindu apresentado, na Teologia Comparada de Ellam, em cor
 
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Zeus | RC-145 | associado |
-| Prometeu (titã) | RC-301 | ← é-um |
-| Epimeteu (titã) | RC-302 | ← é-um |
-| Geração Regenerada de Brahma | RC-696 | ← relaciona-se-a |
-| Kashyapa | RC-700 | ← gera-linhagem-de |
-| Daksha e Virini | RC-701 | ← relaciona-se-a |
-| Samudra Manthana / Batimento do Oceano de Leite | RC-734 | ← envolve |
-| Samudra Manthana / Batimento do Oceano de Leite | RC-734 | participa-de |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Zeus | RC-145 | associado | <-> | - |
+| Prometeu (titã) | RC-301 | é-um | <- | - |
+| Epimeteu (titã) | RC-302 | é-um | <- | - |
+| Geração Regenerada de Brahma | RC-696 | relaciona-se-a | <- | - |
+| Kashyapa | RC-700 | origina | <- | consolidação: "gera-linhagem-de" → "origina" |
+| Daksha e Virini | RC-701 | relaciona-se-a | <- | - |
+| Samudra Manthana / Batimento do Oceano de Leite | RC-734 | envolve | <- | - |
+| Samudra Manthana / Batimento do Oceano de Leite | RC-734 | envolve | -> | consolidação: "participa-de" → "envolve" |
 
 ## Ampliação — STT26-MITOLOGIAS_REINTEGRACAO (Eixo STT26 — Mitologias, tradições e eixo de reintegração (derivados normalizados))
 

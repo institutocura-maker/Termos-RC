@@ -24,15 +24,15 @@ A linhagem resultante da união de **Pirra** (filha de Pandora/Kalil Kadmon com 
 A descendência de Pirra representa a **mistura do CFD demo com o DNA humano**: "os mais avançados traços do código-fonte definidor de vida dos demos foi misturado ao DNA humano quando Pandora se viu existindo como mulher, após a sua 'transição de fase'". Pirra "já emergiu como um tipo de demo muito superior aos demais, pois havia herdado também as 'prendas genéticas' dos outros deuses do Olimpo". Deucalião, por sua vez, foi gerado por Prometeu "para contrariar Zeus", com o melhor de seu código genético titã. A linhagem Deucalião+Pirra é a base genética da nova humanidade pós-dilúvio (conectando à tradição grega do dilúvio e a Deucalião como "Noé grego").
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Pandora | RC-086 | origina-de |
-| Seres Terrenos (Homo Sapiens) | RC-099 | associado |
-| Kalil Kadmon (nome demo de Pandora) | RC-299 | nome demo de Pandora |
-| Prometeu (titã) | RC-301 | pai de Deucalião |
-| Epimeteu (titã) | RC-302 | pai de Pirra |
-| Pirra | RC-303 | ← parte-de |
-| Deucalião | RC-304 | ← parte-de |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Pandora | RC-086 | origina | <- | consolidação: "origina-de" → "origina"; direção invertida (forma passiva/inversa) |
+| Seres Terrenos (Homo Sapiens) | RC-099 | associado | <-> | - |
+| Kalil Kadmon (nome demo de Pandora) | RC-299 | relaciona-se-a | -> | texto bruto original: nome demo de Pandora |
+| Prometeu (titã) | RC-301 | relaciona-se-a | -> | texto bruto original: pai de Deucalião |
+| Epimeteu (titã) | RC-302 | relaciona-se-a | -> | texto bruto original: pai de Pirra |
+| Pirra | RC-303 | parte-de | <- | - |
+| Deucalião | RC-304 | parte-de | <- | - |
 
 ## Seres Associados
 Pirra (RC-303); Deucalião (RC-304); Pandora (RC-086); Epimeteu (RC-302); Prometeu (RC-301).

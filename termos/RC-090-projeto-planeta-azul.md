@@ -27,16 +27,16 @@ A empreitada cósmica que elegeu a Terra como portal: há cerca de 3 milhões de
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Revelação Cósmica (conceito) | RC-094 | associado |
-| Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | associado |
-| Universo Material (Bhuloka) | RC-107 | associado |
-| Opção Terra | RC-227 | associado |
-| Laboratórios do Criador | RC-251 | associado |
-| Quarentena Sideral / Cósmica | RC-342 | associado |
-| Portal Cósmico (destinação do Planeta Azul) | RC-343 | ← destinação-de |
-| Projeto Terra | RC-347 | ← é-um |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Revelação Cósmica (conceito) | RC-094 | associado | <-> | - |
+| Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | associado | <-> | - |
+| Universo Material (Bhuloka) | RC-107 | associado | <-> | - |
+| Opção Terra | RC-227 | associado | <-> | - |
+| Laboratórios do Criador | RC-251 | associado | <-> | - |
+| Quarentena Sideral / Cósmica | RC-342 | associado | <-> | - |
+| Portal Cósmico (destinação do Planeta Azul) | RC-343 | transfere | <- | consolidação: "destinação-de" → "transfere" |
+| Projeto Terra | RC-347 | é-um | <- | - |
 
 ## Fontes
 

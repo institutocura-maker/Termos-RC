@@ -27,12 +27,12 @@ Espécies extraterrestres que possuem a forma de insetos — popularmente chamad
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Biodemos | RC-036 | associado |
-| Projeto Talm | RC-091 | associado |
-| Seres Extraterrenos / Extraterrestres | RC-098 | é-um |
-| Plano Colmeia (para o Universo Biológico) | RC-179 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Biodemos | RC-036 | associado | <-> | - |
+| Projeto Talm | RC-091 | associado | <-> | - |
+| Seres Extraterrenos / Extraterrestres | RC-098 | é-um | -> | - |
+| Plano Colmeia (para o Universo Biológico) | RC-179 | associado | <-> | - |
 
 ## Fontes
 

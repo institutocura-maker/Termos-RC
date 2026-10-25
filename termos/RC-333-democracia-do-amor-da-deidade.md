@@ -24,15 +24,15 @@ A **liberdade total concedida pela Deidade** às suas criaturas — o polo opost
 A Democracia do Amor é o atributo da Deidade ("Esta é somente amor"): "Quem é somente amor... é incapaz de agir de modo a, por exemplo, impor ou limitar a atitude de quem quer que seja". "O que dele é emanado são **mônadas amorosas, ingênuas e incapacitadas de não amarem**". O gesto de amor da Deidade "em lugar nenhum é visto como um 'favor', pois que somente é um dos aspectos reveladores do Seu ministério amoroso".
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Deidade (Pai-Mãe Amantíssimo / Brahman) | RC-047 | é-um |
-| Deus / Deus Incognoscível | RC-052 | é-um |
-| Revelação Cósmica (conceito) | RC-094 | associado |
-| Mônada (Mônada Espiritual) | RC-149 | ← é-um |
-| Liberdade Mental (premissa do Quarto Logos) | RC-253 | relaciona-se-a |
-| Favor Divino (conceito invertido) | RC-332 | contraponto |
-| Teocracia da Doença de uma Divindade | RC-334 | opõe-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Deidade (Pai-Mãe Amantíssimo / Brahman) | RC-047 | é-um | -> | - |
+| Deus / Deus Incognoscível | RC-052 | é-um | -> | - |
+| Revelação Cósmica (conceito) | RC-094 | associado | <-> | - |
+| Mônada (Mônada Espiritual) | RC-149 | é-um | <- | - |
+| Liberdade Mental (premissa do Quarto Logos) | RC-253 | relaciona-se-a | -> | - |
+| Favor Divino (conceito invertido) | RC-332 | associado | <-> | consolidação: "contraponto" → "associado" |
+| Teocracia da Doença de uma Divindade | RC-334 | opõe-se-a | -> | - |
 
 ## Seres Associados
 Deidade (RC-047); Seres Terrenos (RC-099, beneficiários da liberdade).

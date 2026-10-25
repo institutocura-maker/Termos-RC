@@ -20,17 +20,17 @@ Crítica, na palestra, à distância entre a crença numa providência cuidadora
 
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Deus / Deus Incognoscível | RC-052 | relaciona-se-a |
-| Pai Supremo (Amantíssimo) | RC-205 | relaciona-se-a |
-| Ferramentas do Favor Divino (religiões e pensadores) | RC-341 | critica |
-| Espiritualidade Errática (4ª faixa manifestada) | RC-513 | relaciona-se-a |
-| Autismo Funcional dos Seres da Espiritualidade Superior | RC-605 | relaciona-se-a |
-| Autismo Funcional dos Seres da Espiritualidade Superior | RC-605 | ← relaciona-se-a |
-| Sócios do Destino / Ausência de Justiça Externa | RC-720 | relaciona-se-a |
-| Abismo da Consciência Cósmica | RC-721 | ← manifesta-se-em |
-| Abismo da Consciência Cósmica | RC-721 | ← relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Deus / Deus Incognoscível | RC-052 | relaciona-se-a | -> | - |
+| Pai Supremo (Amantíssimo) | RC-205 | relaciona-se-a | -> | - |
+| Ferramentas do Favor Divino (religiões e pensadores) | RC-341 | opõe-se-a | -> | consolidação: "critica" → "opõe-se-a" |
+| Espiritualidade Errática (4ª faixa manifestada) | RC-513 | relaciona-se-a | -> | - |
+| Autismo Funcional dos Seres da Espiritualidade Superior | RC-605 | relaciona-se-a | -> | - |
+| Autismo Funcional dos Seres da Espiritualidade Superior | RC-605 | relaciona-se-a | <- | - |
+| Sócios do Destino / Ausência de Justiça Externa | RC-720 | relaciona-se-a | -> | - |
+| Abismo da Consciência Cósmica | RC-721 | representa | <- | consolidação: "manifesta-se-em" → "representa" |
+| Abismo da Consciência Cósmica | RC-721 | relaciona-se-a | <- | - |
 
 
 - Deus / Deus Incognoscível — RC-052;

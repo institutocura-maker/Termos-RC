@@ -29,11 +29,11 @@ Com isso:
 **Origem do conteúdo da ampliação:** palestra `P2018-12-16 — Terra Atlantis - Era Sapiens` (16/12/2018). Transcrição automatizada, **não conferida com o áudio**; cada aspa foi recortada do `original.txt` pelo índice de âncoras do motor e conferida byte a byte pelo portão B. Nada foi digitado de memória.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Len Mion (Satã) | RC-074 | **sem aresta** em `RELACOES`; arquivo existe |
-| Hitler (figura histórica no RC) | RC-239 | **sem aresta** em `RELACOES`; **sem arquivo** |
-| Sociedade Vril | RC-847 | **sem aresta** em `RELACOES`; **sem arquivo** |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Len Mion (Satã) | RC-074 | - | - | sem aresta em RELACOES; arquivo existe |
+| Hitler (figura histórica no RC) | RC-239 | - | - | sem aresta em RELACOES; sem arquivo |
+| Sociedade Vril | RC-847 | - | - | sem aresta em RELACOES; sem arquivo |
 
 
 ## Fontes

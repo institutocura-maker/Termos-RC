@@ -27,12 +27,12 @@ Na B001, as personalizações da **Deidade**: esta, por ser incompreensível e i
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Deidade (Pai-Mãe Amantíssimo / Brahman) | RC-047 | associado |
-| Divindades (Co-criadoras) | RC-054 | associado |
-| Pai Supremo (Amantíssimo) | RC-205 | ← personifica-em |
-| Dez Sagrados (primeira geração do Criador) | RC-246 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Deidade (Pai-Mãe Amantíssimo / Brahman) | RC-047 | associado | <-> | - |
+| Divindades (Co-criadoras) | RC-054 | associado | <-> | - |
+| Pai Supremo (Amantíssimo) | RC-205 | representa | <- | consolidação: "personifica-em" → "representa" |
+| Dez Sagrados (primeira geração do Criador) | RC-246 | associado | <-> | - |
 
 ## Fontes
 

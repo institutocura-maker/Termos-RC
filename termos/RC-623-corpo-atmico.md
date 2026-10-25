@@ -24,23 +24,23 @@ Condição ou veículo espiritual original que recebe sucessivamente as vestimen
 Na live, o Corpo Átmico permanece ligado à condição original, enquanto o Corpo Búdico permite consciência de externalidade e o Manásico permite ímpeto criativo.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Adhyatman | RC-013 | relaciona-se-a |
-| Espiritualidade Superior | RC-059 | ← associada-a |
-| Realidade Maior / Paraíso Original | RC-204 | relaciona-se-a |
-| Mohen So = Phanes / Protogonos / Vasuki / Kalki (correspondências) | RC-282 | relaciona-se-a |
-| Fatiamento de Consciência | RC-604 | relaciona-se-a |
-| Fatiamento de Consciência | RC-604 | ← relaciona-se-a |
-| Protocolos / Algoritmos da Perfeição | RC-606 | associado |
-| Corpo Búdico | RC-624 | investido-por |
-| Corpo Búdico | RC-624 | ← investe |
-| Corpo Búdico | RC-624 | ← relaciona-se-a |
-| Corpo Manásico / Corpo Mental | RC-625 | ← relaciona-se-a |
-| Corpo Daiva / Corpo Demoníaco de Plasma | RC-630 | associado |
-| Corpo Sutil Reencarnante | RC-704 | ← relaciona-se-a |
-| Bhavaṅga / Janela da Percepção | RC-706 | ← relaciona-se-a |
-| Três Faíscas da Consciência Humana | RC-719 | ← inclui |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Adhyatman | RC-013 | relaciona-se-a | -> | - |
+| Espiritualidade Superior | RC-059 | associado | <-> | raiz semântica associado (decisão 3) |
+| Realidade Maior / Paraíso Original | RC-204 | relaciona-se-a | -> | - |
+| Mohen So = Phanes / Protogonos / Vasuki / Kalki (correspondências) | RC-282 | relaciona-se-a | -> | - |
+| Fatiamento de Consciência | RC-604 | relaciona-se-a | -> | - |
+| Fatiamento de Consciência | RC-604 | relaciona-se-a | <- | - |
+| Protocolos / Algoritmos da Perfeição | RC-606 | associado | <-> | - |
+| Corpo Búdico | RC-624 | controla | <- | consolidação: "investido-por" → "controla"; direção invertida (forma passiva/inversa) |
+| Corpo Búdico | RC-624 | controla | <- | consolidação: "investe" → "controla" |
+| Corpo Búdico | RC-624 | relaciona-se-a | <- | - |
+| Corpo Manásico / Corpo Mental | RC-625 | relaciona-se-a | <- | - |
+| Corpo Daiva / Corpo Demoníaco de Plasma | RC-630 | associado | <-> | - |
+| Corpo Sutil Reencarnante | RC-704 | relaciona-se-a | <- | - |
+| Bhavaṅga / Janela da Percepção | RC-706 | relaciona-se-a | <- | - |
+| Três Faíscas da Consciência Humana | RC-719 | inclui | <- | - |
 
 ## Seres Associados
 Consultar relações acima.

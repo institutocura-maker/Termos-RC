@@ -25,15 +25,15 @@ atualizado = "2026-10-22"
 No B087 (psicografia de Jeane Miranda — versão paralela às obras primárias B021): Pandora propõe a engenharia ("proponho que criemos um ser que terá mais dos seus genes do que do meu"); Epimeteu recusa primeiro ("não quero que Zeus pense que um filho meu é sua propriedade") e aceita após o argumento da libertação; o "círculo de luz": "juntámos a nossa força mental e formámos um 'círculo de luz' e, dentro dele, começámos a engendrar – ou a criar – um corpo" (p. 71); Pandora usa ocultamente os seus poderes mentais para urdi-la; o nome: "Pirra, que significa aquela cheia de sabedoria, de justiça e amor" (p. 72); a primeira fala: "Quem sou eu? Por que me criaram?"; a percepção aguda (descobre as manipulações secretas de Pandora com as "poções", p. 83); a divisão de trabalho com Pandora (estimular o macho especial de dia e de noite).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Pandora | RC-086 | criada-por (a co-criadora) |
-| Descendência de Pirra (Pirra e Deucalião) | RC-298 | parte-de |
-| Epimeteu (titã) | RC-302 | filha-de (o pai) |
-| Deucalião | RC-304 | ver malha |
-| Desvio de Rota de Pandora (Contra o Plano de Zeus) | RC-806 | associado |
-| Eva como 3ª Tentativa de Fêmea para Adão (Homem + Mulher da Espécie Sábia) | RC-814 | associado |
-| Patriarcado desde Pandora (Origem no Feminino, Dominação pelo Masculino) | RC-818 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Pandora | RC-086 | origina | <- | qualificador preservado: a co-criadora; consolidação: "criada-por" → "origina"; direção invertida (forma passiva/inversa) |
+| Descendência de Pirra (Pirra e Deucalião) | RC-298 | parte-de | -> | - |
+| Epimeteu (titã) | RC-302 | origina | -> | qualificador preservado: o pai; consolidação: "filha-de" → "origina" |
+| Deucalião | RC-304 | relaciona-se-a | -> | texto bruto original: ver malha |
+| Desvio de Rota de Pandora (Contra o Plano de Zeus) | RC-806 | associado | <-> | - |
+| Eva como 3ª Tentativa de Fêmea para Adão (Homem + Mulher da Espécie Sábia) | RC-814 | associado | <-> | - |
+| Patriarcado desde Pandora (Origem no Feminino, Dominação pelo Masculino) | RC-818 | associado | <-> | - |
 
 ## Seres Associados
 Pandora (RC-086) e Epimeteu (RC-302, os criadores); Prometeu (RC-301, o "tio"); o macho especial (o aluno).

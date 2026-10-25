@@ -28,21 +28,21 @@ Na leitura comparada de Jan Val Ellam, Yggdrasil designa um conglomerado de nove
 
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Senhores do Dharma (= Senhores da Lila / Trimurti) | RC-320 | associado |
-| Ragnarok em Marte | RC-395 | destruído-em |
-| Ragnarok em Marte | RC-395 | ← destrói |
-| Midgard (Marte + Terra) | RC-470 | inclui |
-| Midgard (Marte + Terra) | RC-470 | ← integra |
-| Bifrost (Portal interdimensional) | RC-471 | conecta-se-por |
-| Bifrost (Portal interdimensional) | RC-471 | ← conecta |
-| Fantasmas do Passado Mitológico | RC-728 | ← estrutura-se-por |
-| Axis Mundi / Axismund | RC-731 | sucedido-por |
-| Axis Mundi / Axismund | RC-731 | ← sucede |
-| Samudra Manthana / Batimento do Oceano de Leite | RC-734 | associado |
-| Centro Alquímico-Farmacopédico | RC-789 | associado |
-| Lamúria dos Deuses (Diagnóstico de Prometeu) | RC-791 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Senhores do Dharma (= Senhores da Lila / Trimurti) | RC-320 | associado | <-> | - |
+| Ragnarok em Marte | RC-395 | danifica | -> | consolidação: "destruído-em" → "danifica" |
+| Ragnarok em Marte | RC-395 | danifica | <- | consolidação: "destrói" → "danifica" |
+| Midgard (Marte + Terra) | RC-470 | inclui | -> | - |
+| Midgard (Marte + Terra) | RC-470 | inclui | <- | consolidação: "integra" → "inclui" |
+| Bifrost (Portal interdimensional) | RC-471 | associado | <-> | consolidação: "conecta-se-por" → "associado" |
+| Bifrost (Portal interdimensional) | RC-471 | associado | <-> | consolidação: "conecta" → "associado" |
+| Fantasmas do Passado Mitológico | RC-728 | inclui | <- | consolidação: "estrutura-se-por" → "inclui" |
+| Axis Mundi / Axismund | RC-731 | sucede | <- | consolidação: "sucedido-por" → "sucede"; direção invertida (forma passiva/inversa) |
+| Axis Mundi / Axismund | RC-731 | sucede | <- | - |
+| Samudra Manthana / Batimento do Oceano de Leite | RC-734 | associado | <-> | - |
+| Centro Alquímico-Farmacopédico | RC-789 | associado | <-> | - |
+| Lamúria dos Deuses (Diagnóstico de Prometeu) | RC-791 | associado | <-> | - |
 
 ## Fontes
 

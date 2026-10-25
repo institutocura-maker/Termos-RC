@@ -25,24 +25,24 @@ Humano que, por vontade, serenidade e decência, produziria um foco de resistên
 
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Entropia e Negentropia | RC-160 | é-ilha-de |
-| Entropia e Negentropia | RC-160 | ← manifesta-se-em |
-| Mente Universal (Emergente) | RC-163 | alimenta |
-| Mente Universal (Emergente) | RC-163 | ← alimentada-por |
-| Decência cósmica (ética ellâmica) | RC-508 | realiza |
-| Protagonismo consciencial | RC-509 | associado |
-| Colapso do Caos Organizado | RC-690 | resiste-a |
-| Colapso do Caos Organizado | RC-690 | ← resistido-por |
-| Colapso do Caos Organizado | RC-690 | relaciona-se-a |
-| Ato de Verdade / Satyagraha | RC-705 | realizada-por |
-| Ato de Verdade / Satyagraha | RC-705 | ← realiza |
-| Sócios do Destino / Ausência de Justiça Externa | RC-720 | ← relaciona-se-a |
-| Dignidade como Critério de Consciência | RC-722 | relaciona-se-a |
-| DNA Insubmisso / Linhagem Pandora–Eva–Noreia | RC-727 | associado |
-| Abraço aos Fantasmas / Integridade sem Combate | RC-735 | ← relaciona-se-a |
-| Pulsação Digna (a pulsação alinhada a conceitos supremos) | RC-865 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Entropia e Negentropia | RC-160 | parte-de | -> | consolidação: "é-ilha-de" → "parte-de" |
+| Entropia e Negentropia | RC-160 | representa | <- | consolidação: "manifesta-se-em" → "representa" |
+| Mente Universal (Emergente) | RC-163 | protege | -> | consolidação: "alimenta" → "protege" |
+| Mente Universal (Emergente) | RC-163 | protege | -> | consolidação: "alimentada-por" → "protege"; direção invertida (forma passiva/inversa) |
+| Decência cósmica (ética ellâmica) | RC-508 | usa | -> | consolidação: "realiza" → "usa" |
+| Protagonismo consciencial | RC-509 | associado | <-> | - |
+| Colapso do Caos Organizado | RC-690 | opõe-se-a | -> | consolidação: "resiste-a" → "opõe-se-a" |
+| Colapso do Caos Organizado | RC-690 | opõe-se-a | -> | consolidação: "resistido-por" → "opõe-se-a"; direção invertida (forma passiva/inversa) |
+| Colapso do Caos Organizado | RC-690 | relaciona-se-a | -> | - |
+| Ato de Verdade / Satyagraha | RC-705 | usa | <- | consolidação: "realizada-por" → "usa"; direção invertida (forma passiva/inversa) |
+| Ato de Verdade / Satyagraha | RC-705 | usa | <- | consolidação: "realiza" → "usa" |
+| Sócios do Destino / Ausência de Justiça Externa | RC-720 | relaciona-se-a | <- | - |
+| Dignidade como Critério de Consciência | RC-722 | relaciona-se-a | -> | - |
+| DNA Insubmisso / Linhagem Pandora–Eva–Noreia | RC-727 | associado | <-> | - |
+| Abraço aos Fantasmas / Integridade sem Combate | RC-735 | relaciona-se-a | <- | - |
+| Pulsação Digna (a pulsação alinhada a conceitos supremos) | RC-865 | associado | <-> | - |
 
 ## Fontes
 | Fonte | Localização | Tipo |

@@ -28,16 +28,16 @@ Aparece em **P2018-05-20**, U0002. Contexto: a palestra reconstrói a origem da 
 A Temis da palestra **NÃO É a Titã grega clássica** (Têmis grega = filha de Urano e Gaia, personificação da justiça divina, mãe das Horas e das Moiras). É uma **entidade específica da geração de Zeus** que "co-clona" Pandora.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Orbum | RC-085 | é-equivalente-feminino-de |
-| Pandora | RC-086 | é-mãe-de |
-| Mônada (Mônada Espiritual) | RC-149 | co-clona-com |
-| Dissolução da Tríade (2015–2017) | RC-300 | associado |
-| Têmis | RC-305 | é-paralelo-com |
-| A Rebelião dos Elétrons | RC-378 | associado |
-| Kvasir e Freya (Vanir/Aesir) | RC-396 | é-paralelo-nórdico-com |
-| Pacto Aesir-Vanir como Origem Nórdica da Ideia de Pandora | RC-816 | contextualiza |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Orbum | RC-085 | variação | -> | consolidação: "é-equivalente-feminino-de" → "variação" |
+| Pandora | RC-086 | origina | -> | consolidação: "é-mãe-de" → "origina" |
+| Mônada (Mônada Espiritual) | RC-149 | associado | <-> | consolidação: "co-clona-com" → "associado" |
+| Dissolução da Tríade (2015–2017) | RC-300 | associado | <-> | - |
+| Têmis | RC-305 | associado | <-> | consolidação: "é-paralelo-com" → "associado" |
+| A Rebelião dos Elétrons | RC-378 | associado | <-> | - |
+| Kvasir e Freya (Vanir/Aesir) | RC-396 | associado | <-> | consolidação: "é-paralelo-nórdico-com" → "associado" |
+| Pacto Aesir-Vanir como Origem Nórdica da Ideia de Pandora | RC-816 | contexto | -> | consolidação: "contextualiza" → "contexto" |
 
 ## Seres Associados
 - **Têmis** (RC-305) — quem co-clona

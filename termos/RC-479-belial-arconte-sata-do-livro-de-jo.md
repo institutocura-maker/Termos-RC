@@ -17,16 +17,16 @@ atualizado = "2026-09-13"
 Arconte do conselho ("Satã" no Livro de Jó): começou como anjo clone de Javé, tomou "fórmulas de poder mental" e transitou da condição de anjo para ser demoníaco (metamorfoseável) — um dos poucos a conseguir o trânsito; tornou-se arconte. Na leitura da RC, é o protagonista (com Javé) da aposta do Livro de Jó e um dos dois arcontes aprisionados por Jesus no Tártaro (junto com Hades/Reides).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Jesus | RC-072 | ← relaciona-se-a |
-| Len Mion (Satã) | RC-074 | associado |
-| Arcontes (= Sophias e Indras; Conselho dos 70) | RC-474 | relaciona-se-a |
-| Domínios de Morfeu | RC-901 | associado |
-| Tártaro Reides | RC-902 | associado |
-| Umbrais | RC-903 | associado |
-| Evangelho de Bartolomeu | RC-904 | associado |
-| Eros = Vishnu / Tártaro = Shiva (correspondências) | RC-286 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Jesus | RC-072 | relaciona-se-a | <- | - |
+| Len Mion (Satã) | RC-074 | associado | <-> | - |
+| Arcontes (= Sophias e Indras; Conselho dos 70) | RC-474 | relaciona-se-a | -> | - |
+| Domínios de Morfeu | RC-901 | associado | <-> | - |
+| Tártaro Reides | RC-902 | associado | <-> | - |
+| Umbrais | RC-903 | associado | <-> | - |
+| Evangelho de Bartolomeu | RC-904 | associado | <-> | - |
+| Eros = Vishnu / Tártaro = Shiva (correspondências) | RC-286 | associado | <-> | - |
 
 
 ## Ampliação

@@ -24,16 +24,16 @@ atualizado = "2026-08-12"
 O capítulo 10 de B041 conecta o CFD (RC-040) ao Favor Divino (RC-332): os humanos carregam o código de vida do Criador e, paradoxalmente, vivem suas próprias vidas transitórias enquanto contribuem para a "vida reconstrutiva" do Cocriador "caído". Ellam "briga" filosoficamente com Brahma, Vishnu e Shiva, dizendo que "eles 'faliram' e transferiram para nós uma responsabilidade que não é nossa" — as Divindades criaram criaturas-ferramentas e, depois, o livre-arbítrio para que espíritos "simples e ignorantes" pudessem se tornar "criaturas esclarecidas e potencialmente amorosas".
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| CFD (Código Fonte Definidor) | RC-040 | é-um |
-| Criador (Brahma/Javé/Demiurgo) | RC-041 | origem |
-| Revelação Cósmica (conceito) | RC-094 | associado |
-| Seres Terrenos (Homo Sapiens) | RC-099 | portadores |
-| Criaturas-ferramenta | RC-164 | é-um (contexto) |
-| Favor Divino (conceito invertido) | RC-332 | relaciona-se-a |
-| Resposta de Javé (em 1ª pessoa) | RC-417 | associado |
-| Sou eu que vivo em vocês (Javé) | RC-419 | ← relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| CFD (Código Fonte Definidor) | RC-040 | é-um | -> | - |
+| Criador (Brahma/Javé/Demiurgo) | RC-041 | origina | -> | consolidação: "origem" → "origina" |
+| Revelação Cósmica (conceito) | RC-094 | associado | <-> | - |
+| Seres Terrenos (Homo Sapiens) | RC-099 | envolve | -> | consolidação: "portadores" → "envolve" |
+| Criaturas-ferramenta | RC-164 | é-um | -> | qualificador preservado: contexto |
+| Favor Divino (conceito invertido) | RC-332 | relaciona-se-a | -> | - |
+| Resposta de Javé (em 1ª pessoa) | RC-417 | associado | <-> | - |
+| Sou eu que vivo em vocês (Javé) | RC-419 | relaciona-se-a | <- | - |
 
 ## Seres Associados
 Javé (RC-001); Seres Terrenos (RC-099); Deidade (RC-047).

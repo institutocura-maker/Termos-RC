@@ -23,16 +23,16 @@ Forma preferida: **Obatalá (correspondência de Javé em Ifá)**.
 P2025-06-26 — 1ª Edição Estagiários do Kaos.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | variação |
-| Javé | RC-001 | variação |
-| Javé | RC-001 | variação |
-| Revelação de Ifá e Destinação dos Seres | RC-655 | relaciona-se-a |
-| Revelação de Ifá e Destinação dos Seres | RC-655 | ← relaciona-se-a |
-| Orunmilá (Moros de Irém / Orum) | RC-665 | — |
-| Projeto Orunmilá–Olodus | RC-741 | ← relaciona-se-a |
-| Vício Devocional | RC-749 | relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Javé | RC-001 | variação | -> | - |
+| Javé | RC-001 | variação | -> | - |
+| Javé | RC-001 | variação | -> | - |
+| Revelação de Ifá e Destinação dos Seres | RC-655 | relaciona-se-a | -> | - |
+| Revelação de Ifá e Destinação dos Seres | RC-655 | relaciona-se-a | <- | - |
+| Orunmilá (Moros de Irém / Orum) | RC-665 | - | - | sem relação informada; 17 linhas são registros de fonte com 4 colunas |
+| Projeto Orunmilá–Olodus | RC-741 | relaciona-se-a | <- | - |
+| Vício Devocional | RC-749 | relaciona-se-a | -> | - |
 
 ## Seres Associados
 Consultar Base.

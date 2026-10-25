@@ -23,17 +23,17 @@ Forma preferida: Abel.
 O Mistério da Árvore da Vida e a Urdidura de Metatron.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Linhagem dos Escolhidos (Adão, Enoch, Abraão, Jacó) | RC-424 | — |
-| Caim (leitura RC: segundo a nascer) | RC-490 | ← relaciona-se-a |
-| Caim (leitura RC: segundo a nascer) | RC-490 | relaciona-se-a |
-| Caim (leitura RC: segundo a nascer) | RC-490 | relaciona-se-a |
-| Caim (leitura RC: segundo a nascer) | RC-490 | ← relaciona-se-a |
-| Linhagem de Seth | RC-594 | — |
-| P2022-09-17 | A Hipóstase dos Arcontes (palestra) | — | transcrição automatizada; citação |
-| P2023-08-27 | Len Mion e os Senhores da Terra Alexandre Magno e Qin Shi Huang Di (palestra) | — | transcrição automatizada; citação |
-| P2023-08-27 | Len Mion e os Senhores da Terra Alexandre Magno e Qin Shi Huang Di (palestra) | — | transcrição automatizada; citação |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Linhagem dos Escolhidos (Adão, Enoch, Abraão, Jacó) | RC-424 | - | - | sem relação informada; 17 linhas são registros de fonte com 4 colunas |
+| Caim (leitura RC: segundo a nascer) | RC-490 | relaciona-se-a | <- | - |
+| Caim (leitura RC: segundo a nascer) | RC-490 | relaciona-se-a | -> | - |
+| Caim (leitura RC: segundo a nascer) | RC-490 | relaciona-se-a | -> | - |
+| Caim (leitura RC: segundo a nascer) | RC-490 | relaciona-se-a | <- | - |
+| Linhagem de Seth | RC-594 | - | - | sem relação informada; 17 linhas são registros de fonte com 4 colunas |
+| P2022-09-17 | A Hipóstase dos Arcontes (palestra) | - | - | sem relação informada; 17 linhas são registros de fonte com 4 colunas; transcrição automatizada; citação |
+| P2023-08-27 | Len Mion e os Senhores da Terra Alexandre Magno e Qin Shi Huang Di (palestra) | - | - | sem relação informada; 17 linhas são registros de fonte com 4 colunas; transcrição automatizada; citação |
+| P2023-08-27 | Len Mion e os Senhores da Terra Alexandre Magno e Qin Shi Huang Di (palestra) | - | - | sem relação informada; 17 linhas são registros de fonte com 4 colunas; transcrição automatizada; citação |
 
 ## Seres Associados
 Consultar Base.

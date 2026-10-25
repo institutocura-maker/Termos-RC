@@ -17,22 +17,22 @@ atualizado = "2026-08-29"
 Epíteto gnóstico do ser criador na sua condição paradisíaca, **antes da queda**: na leitura da RC, Pistis Sophia = o ser que a base registra como Prabrajna (RC-152); depois da queda, o mesmo ser se reconstruiu como o "monstro" Ialdabaoth/Javé (RC-482). Não é nome próprio — é "um tipo de Sofia".
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Sophia (Cristo Cósmico) | RC-009 | relaciona-se-a |
-| Prabrajna | RC-152 | relaciona-se-a |
-| Prabrajna | RC-152 | ← relaciona-se-a |
-| Prabrajna | RC-152 | relaciona-se-a |
-| Ialdabaoth (= Javé/Samael/Saklas/Sabaoth) | RC-482 | associado |
-| Barbelo (Mãe-Pai primordial gnóstica) | RC-483 | relaciona-se-a |
-| Dinastia das Sophias | RC-494 | associado |
-| Hochmah (2ª Sefirah — Sabedoria; = Sophia) | RC-565 | associado |
-| Buraco Negro Mental / Consciencial | RC-717 | ← relaciona-se-a |
-| Hipóstase dos Arcontes (livro gnóstico; 'realidade dos regentes') | RC-770 | ← relaciona-se-a |
-| Nag Hammadi (a biblioteca egípcia onde em 1945 foi encontrada a cópia copta da Hipóstase dos Arcontes — STT «Naghama»; marco físico e histórico da recuperação da revelação gnóstica original) | RC-887 | ← relaciona-se-a |
-| Nag Hammadi (a biblioteca egípcia onde em 1945 foi encontrada a cópia copta da Hipóstase dos Arcontes — STT «Naghama»; marco físico e histórico da recuperação da revelação gnóstica original) | RC-887 | relaciona-se-a |
-| Elelev / Eleleth (o grande anjo da revelação gnóstica que respondeu à busca de Noreia, indicando a incorruptibilidade Sofia/Pistes no interior dos domínios ilimitados) | RC-888 | ← relaciona-se-a |
-| Elelev / Eleleth (o grande anjo da revelação gnóstica que respondeu à busca de Noreia, indicando a incorruptibilidade Sofia/Pistes no interior dos domínios ilimitados) | RC-888 | relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Sophia (Cristo Cósmico) | RC-009 | relaciona-se-a | -> | - |
+| Prabrajna | RC-152 | relaciona-se-a | -> | - |
+| Prabrajna | RC-152 | relaciona-se-a | <- | - |
+| Prabrajna | RC-152 | relaciona-se-a | -> | - |
+| Ialdabaoth (= Javé/Samael/Saklas/Sabaoth) | RC-482 | associado | <-> | - |
+| Barbelo (Mãe-Pai primordial gnóstica) | RC-483 | relaciona-se-a | -> | - |
+| Dinastia das Sophias | RC-494 | associado | <-> | - |
+| Hochmah (2ª Sefirah — Sabedoria; = Sophia) | RC-565 | associado | <-> | - |
+| Buraco Negro Mental / Consciencial | RC-717 | relaciona-se-a | <- | - |
+| Hipóstase dos Arcontes (livro gnóstico; 'realidade dos regentes') | RC-770 | relaciona-se-a | <- | - |
+| Nag Hammadi (a biblioteca egípcia onde em 1945 foi encontrada a cópia copta da Hipóstase dos Arcontes — STT «Naghama»; marco físico e histórico da recuperação da revelação gnóstica original) | RC-887 | relaciona-se-a | <- | - |
+| Nag Hammadi (a biblioteca egípcia onde em 1945 foi encontrada a cópia copta da Hipóstase dos Arcontes — STT «Naghama»; marco físico e histórico da recuperação da revelação gnóstica original) | RC-887 | relaciona-se-a | -> | - |
+| Elelev / Eleleth (o grande anjo da revelação gnóstica que respondeu à busca de Noreia, indicando a incorruptibilidade Sofia/Pistes no interior dos domínios ilimitados) | RC-888 | relaciona-se-a | <- | - |
+| Elelev / Eleleth (o grande anjo da revelação gnóstica que respondeu à busca de Noreia, indicando a incorruptibilidade Sofia/Pistes no interior dos domínios ilimitados) | RC-888 | relaciona-se-a | -> | - |
 
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-530.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
 

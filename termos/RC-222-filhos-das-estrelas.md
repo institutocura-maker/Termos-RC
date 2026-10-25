@@ -27,11 +27,11 @@ Na B002 (*O Drama Espiritual de Javé*), a designação que a obra dá a todos o
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Seres Espirituais | RC-100 | associado |
-| Universo Material (Bhuloka) | RC-107 | associado |
-| Mônada (Mônada Espiritual) | RC-149 | associado-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Seres Espirituais | RC-100 | associado | <-> | - |
+| Universo Material (Bhuloka) | RC-107 | associado | <-> | - |
+| Mônada (Mônada Espiritual) | RC-149 | associado | <-> | - |
 
 ## Fontes
 

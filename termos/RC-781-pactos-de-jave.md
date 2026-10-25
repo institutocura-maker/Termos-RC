@@ -24,17 +24,17 @@ Tese (leitura do autor, palestra **P2019-05-11 — Pandora e os Desacertos dos P
 Aparece em **P2019-05-11**, U0004. Contexto: depois de bilhões de anos de conflito, os três seres (Brama/Javé com os anjos glores, Shiva com sua descendência, Vishnu com a sua descendência) **nunca conseguiram prevalecer uns sobre os outros**, então fizeram pactos — o único tipo de "lógica" possível para o modo demo. A humanidade é o resultado desastroso desses pactos.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | pactuou-com |
-| Seres Terrenos (Homo Sapiens) | RC-099 | é-resultado-de |
-| Shiva (Savna) | RC-102 | pactuou-com |
-| Trimurti | RC-104 | contextualizado-por |
-| Agentes da Vida Universal | RC-148 | pactuou-com |
-| Ser-Criador fracassado (autoconfissão de Javé) | RC-422 | manifesta-se-em |
-| Javé como Caos Personificado | RC-782 | associado |
-| Sophia como Protetorado da Humanidade | RC-784 | resposta-a |
-| Nova Aliança (a proposta de Jesus contra a velha aliança dos pactos de Javé) | RC-860 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Javé | RC-001 | associado | <-> | consolidação: "pactuou-com" → "associado" |
+| Seres Terrenos (Homo Sapiens) | RC-099 | causa | <- | consolidação: "é-resultado-de" → "causa"; direção invertida (forma passiva/inversa) |
+| Shiva (Savna) | RC-102 | associado | <-> | consolidação: "pactuou-com" → "associado" |
+| Trimurti | RC-104 | contexto | <- | consolidação: "contextualizado-por" → "contexto"; direção invertida (forma passiva/inversa) |
+| Agentes da Vida Universal | RC-148 | associado | <-> | consolidação: "pactuou-com" → "associado" |
+| Ser-Criador fracassado (autoconfissão de Javé) | RC-422 | representa | -> | consolidação: "manifesta-se-em" → "representa" |
+| Javé como Caos Personificado | RC-782 | associado | <-> | - |
+| Sophia como Protetorado da Humanidade | RC-784 | comunica | -> | consolidação: "resposta-a" → "comunica" |
+| Nova Aliança (a proposta de Jesus contra a velha aliança dos pactos de Javé) | RC-860 | associado | <-> | - |
 
 ## Seres Associados
 - **Javé / Brama** (RC-001) — pactuante 1

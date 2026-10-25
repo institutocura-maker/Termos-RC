@@ -24,17 +24,17 @@ Tese (leitura do autor, **mediúnica literal de Pandora**, palestra **P2025-04-0
 Aparece em **P2025-04-06**, U0005. **Fonte mediúnica literal**: o autor cita uma mensagem de Pandora dita através dele. Contexto: depois de diagnosticar a "lamúria dos deuses" (RC-791), Prometeu cria o "fogo" (racionalidade + dignidade + inconformismo) e o entrega à humanidade via Pandora. Mas as religiões impositivas (RC-105) reescreveram a história e o fogo se apagou.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Pandora | RC-086 | carrega |
-| Ulsh | RC-105 | corrompe-via |
-| Mônada (Mônada Espiritual) | RC-149 | produziu-pacote-genético |
-| Linhagem dos Patriarcas Hebreus | RC-270 | associado |
-| Prometeu (titã) | RC-301 | trouxe |
-| Lavagem Cerebral (condicionamento) | RC-335 | apaga-via |
-| Revolução Inacabada de Prometeu e Pandora | RC-788 | metaforiza |
-| Conceito Abaiano (Fazer Sem Esperar Receber) | RC-793 | caminho-para-reacender |
-| Atena | (verificar RC) | produziu-pacote-genético |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Pandora | RC-086 | transfere | -> | consolidação: "carrega" → "transfere" |
+| Ulsh | RC-105 | danifica | -> | consolidação: "corrompe-via" → "danifica" |
+| Mônada (Mônada Espiritual) | RC-149 | origina | -> | consolidação: "produziu-pacote-genético" → "origina" |
+| Linhagem dos Patriarcas Hebreus | RC-270 | associado | <-> | - |
+| Prometeu (titã) | RC-301 | transfere | -> | consolidação: "trouxe" → "transfere" |
+| Lavagem Cerebral (condicionamento) | RC-335 | danifica | -> | consolidação: "apaga-via" → "danifica" |
+| Revolução Inacabada de Prometeu e Pandora | RC-788 | variação | -> | consolidação: "metaforiza" → "variação" |
+| Conceito Abaiano (Fazer Sem Esperar Receber) | RC-793 | relaciona-se-a | -> | consolidação: "caminho-para-reacender" → "relaciona-se-a" |
+| Atena | (verificar RC) | origina | -> | consolidação: "produziu-pacote-genético" → "origina" |
 
 ## Seres Associados
 - **Pandora** (RC-086) — quem carrega o fogo

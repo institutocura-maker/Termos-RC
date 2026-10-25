@@ -29,15 +29,15 @@ Com isso:
 **Origem do conteúdo da ampliação:** palestra `P2022-09-25 — O Contexto Espiritual da Construção de Brasília` (25/09/2022). Transcrição automatizada, **não conferida com o áudio**; cada aspa foi recortada do `original.txt` pelo índice de âncoras do motor e conferida byte a byte pelo portão B. Nada foi digitado de memória.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Atlântida / Terra Atlantis | RC-010 | **sem aresta** em `RELACOES`; arquivo existe |
-| Atlans | RC-029 | associado |
-| Atlantes | RC-030 | **sem aresta** em `RELACOES`; **sem arquivo** |
-| Mastlans Phisosferas / Luciferianas | RC-079 | **sem aresta** em `RELACOES`; arquivo existe (P5d) |
-| O Calvário de um Inocente | RC-236 | associado |
-| Land's End (Sinal de Land's End) | RC-237 | associado |
-| Grupo Atlan | RC-388 | ← associado-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Atlântida / Terra Atlantis | RC-010 | - | - | sem aresta em RELACOES; arquivo existe |
+| Atlans | RC-029 | associado | <-> | - |
+| Atlantes | RC-030 | - | - | sem aresta em RELACOES; sem arquivo |
+| Mastlans Phisosferas / Luciferianas | RC-079 | - | - | sem aresta em RELACOES; arquivo existe (P5d) |
+| O Calvário de um Inocente | RC-236 | associado | <-> | - |
+| Land's End (Sinal de Land's End) | RC-237 | associado | <-> | - |
+| Grupo Atlan | RC-388 | associado | <-> | - |
 
 
 ## Ampliação — STT26-EXPERIENCIA_ESPIRITUAL_ETICA (Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados))

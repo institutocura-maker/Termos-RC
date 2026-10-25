@@ -32,11 +32,11 @@ E (Aula 03), sobre a escolha da Igreja contra a revelação por Madalena:
 Na Aula 05, «a verdadeira face de Maria Madalena» é desdobrada (papel de apóstola-reveladora, contraposta à face construída pelo cristianismo paulino).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Jesus | RC-072 | associado |
-| Sophia e a Ressurreição de Jesus | RC-280 | associado |
-| Evangelho de Bartolomeu | RC-904 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Jesus | RC-072 | associado | <-> | - |
+| Sophia e a Ressurreição de Jesus | RC-280 | associado | <-> | - |
+| Evangelho de Bartolomeu | RC-904 | associado | <-> | - |
 
 - Jesus — RC-072;
 - Paulo/Saulo (revelação paulina) — RC-280;

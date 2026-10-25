@@ -27,14 +27,14 @@ Aparece em **P2018-10-06**, U0004, no contexto da **sequência formativa** (Pand
 - **RC-611** (Flechas/Profecias de Moros) — paralelo do "momento zero da criação" em sentido mais amplo
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Pandora | RC-086 | associado-a |
-| Opção Inusitada de Pandora (humanização) | RC-285 | parte-de |
-| Flechas / Profecias de Moros | RC-611 | paralelo-com |
-| Pandora como Heroína Controversa | RC-780 | associado |
-| Javé como Caos Personificado | RC-782 | associado |
-| Sequência Formativa da Racionalidade Humana | RC-785 | parte-de |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Pandora | RC-086 | associado | <-> | - |
+| Opção Inusitada de Pandora (humanização) | RC-285 | parte-de | -> | - |
+| Flechas / Profecias de Moros | RC-611 | associado | <-> | consolidação: "paralelo-com" → "associado" |
+| Pandora como Heroína Controversa | RC-780 | associado | <-> | - |
+| Javé como Caos Personificado | RC-782 | associado | <-> | - |
+| Sequência Formativa da Racionalidade Humana | RC-785 | parte-de | -> | - |
 
 ## Seres Associados
 - **Pandora** (RC-086) — o agente do Momento Zero

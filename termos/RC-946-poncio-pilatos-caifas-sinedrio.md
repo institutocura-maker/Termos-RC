@@ -38,11 +38,11 @@ E (Aula 04), sobre a releitura romana:
 > «Pôncio Pilatos, que representavam os romanos lá na crucificação, não queria crucificar Jesus. Ele tentou. Ele colocou Barrabás para dar uma opção para a turba decidir.» — P2023-12-25-04 · `original.txt` L10 · reanexado à fonte na U101 (A5); o trecho legado não trazia aparelho de linha nem era verificável byte a byte.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Jesus | RC-072 | associado |
-| A Falsa Trindade (Concílio de Niceia) | RC-273 | associado |
-| Sophia e a Ressurreição de Jesus | RC-280 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Jesus | RC-072 | associado | <-> | - |
+| A Falsa Trindade (Concílio de Niceia) | RC-273 | associado | <-> | - |
+| Sophia e a Ressurreição de Jesus | RC-280 | associado | <-> | - |
 
 - Jesus — RC-072;
 - Paulo/Saulo — RC-280;

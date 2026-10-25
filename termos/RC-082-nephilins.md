@@ -27,15 +27,15 @@ Termo derivado do hebraico naphal («ele caiu»), que ocorre duas vezes na Bíbl
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Anjos caídos | RC-020 | associado |
-| Anunnaki | RC-024 | associado |
-| Septuaginta | RC-096 | associado |
-| Viajores | RC-134 | associado |
-| Marca Val (A Estratégia do Possível) | RC-233 | associado |
-| Entroncamentos Genéticos Intersiderais | RC-323 | ← envolve |
-| Grupos de Entroncamento (1-4) | RC-324 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Anjos caídos | RC-020 | associado | <-> | - |
+| Anunnaki | RC-024 | associado | <-> | - |
+| Septuaginta | RC-096 | associado | <-> | - |
+| Viajores | RC-134 | associado | <-> | - |
+| Marca Val (A Estratégia do Possível) | RC-233 | associado | <-> | - |
+| Entroncamentos Genéticos Intersiderais | RC-323 | envolve | <- | - |
+| Grupos de Entroncamento (1-4) | RC-324 | associado | <-> | - |
 
 ## Fontes
 

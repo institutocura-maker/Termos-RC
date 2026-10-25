@@ -24,15 +24,15 @@ Tese (leitura do autor, palestra **P2018-05-20**, U0004) de que **Lilith (RC-308
 Aparece em **P2018-05-20**, U0004. Contexto: depois que Lilith foge do "curral chamado Javid" de Javé, ela "se fortalece" no Gênero da Descendência. Lá, ela vira **deusa em vários lugares da terra** (Babilônia, "mesa" [= Babel?], entre outros). **O culto a Lil** se torna "mais conhecido" do que o culto a Pandora (que era "discreta") ou Pirra (que era "mais relógica" [religiosa]). O judaísmo-cristianismo, ao criar a narrativa de Gênesis, **apagou Lilith** e a transformou em demônio.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Ulsh | RC-105 | associado |
-| Adhytia (nível hierárquico) | RC-308 | é-protagonista-de |
-| Inanna (= Danu; Anunnaki) | RC-464 | é-análoga-babilônica |
-| Enoque (sétimo patriarca; levado por Javé) | RC-489 | é-contexto-de |
-| Lilith como Rakshasa (Espécie Não-Humana) | RC-794 | é-paralelo-com |
-| Judaísmo como Destruidor do Mito de Pandora/Lilith | RC-796 | apagou |
-| Patriarcado desde Pandora (Origem no Feminino, Dominação pelo Masculino) | RC-818 | é-contexto-de |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Ulsh | RC-105 | associado | <-> | - |
+| Adhytia (nível hierárquico) | RC-308 | envolve | -> | consolidação: "é-protagonista-de" → "envolve" |
+| Inanna (= Danu; Anunnaki) | RC-464 | variação | -> | consolidação: "é-análoga-babilônica" → "variação" |
+| Enoque (sétimo patriarca; levado por Javé) | RC-489 | contexto | -> | consolidação: "é-contexto-de" → "contexto" |
+| Lilith como Rakshasa (Espécie Não-Humana) | RC-794 | associado | <-> | consolidação: "é-paralelo-com" → "associado" |
+| Judaísmo como Destruidor do Mito de Pandora/Lilith | RC-796 | danifica | -> | consolidação: "apagou" → "danifica" |
+| Patriarcado desde Pandora (Origem no Feminino, Dominação pelo Masculino) | RC-818 | contexto | -> | consolidação: "é-contexto-de" → "contexto" |
 
 ## Seres Associados
 - **Lilith** (RC-308) — quem se transformou em deusa

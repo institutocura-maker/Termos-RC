@@ -24,19 +24,19 @@ Ciclo astronômico de aproximadamente 25.920 anos usado, na palestra, como métr
 É a moldura temporal principal da exposição. O palestrante o relaciona ao movimento do eixo terrestre e afirma que seres do universo antimaterial o adotaram como relógio.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Eras da Criação (10 eras) | RC-155 | relaciona-se-a |
-| Eras Equinociais (ciclos de aproximadamente 5.200 anos) | RC-568 | divide-se-em |
-| Eras Equinociais (ciclos de aproximadamente 5.200 anos) | RC-568 | ← parte-de |
-| Eras Zodiacais (ciclos de aproximadamente 2.160 anos) | RC-569 | divide-se-em |
-| Eras Zodiacais (ciclos de aproximadamente 2.160 anos) | RC-569 | ← parte-de |
-| Ano de 2012 como Divisor de Ciclos | RC-571 | ← marca-fim-de |
-| Alcíone (Sistema) | RC-574 | associado |
-| Yima | RC-590 | associado |
-| Avesta | RC-595 | associado |
-| Tempo como Transformação / Permanente Agora | RC-634 | associado |
-| Oitavo Dia da Criação | RC-694 | ← relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Eras da Criação (10 eras) | RC-155 | relaciona-se-a | -> | - |
+| Eras Equinociais (ciclos de aproximadamente 5.200 anos) | RC-568 | inclui | -> | consolidação: "divide-se-em" → "inclui" |
+| Eras Equinociais (ciclos de aproximadamente 5.200 anos) | RC-568 | parte-de | <- | - |
+| Eras Zodiacais (ciclos de aproximadamente 2.160 anos) | RC-569 | inclui | -> | consolidação: "divide-se-em" → "inclui" |
+| Eras Zodiacais (ciclos de aproximadamente 2.160 anos) | RC-569 | parte-de | <- | - |
+| Ano de 2012 como Divisor de Ciclos | RC-571 | sucede | <- | consolidação: "marca-fim-de" → "sucede" |
+| Alcíone (Sistema) | RC-574 | associado | <-> | - |
+| Yima | RC-590 | associado | <-> | - |
+| Avesta | RC-595 | associado | <-> | - |
+| Tempo como Transformação / Permanente Agora | RC-634 | associado | <-> | - |
+| Oitavo Dia da Criação | RC-694 | relaciona-se-a | <- | - |
 
 ## Seres Associados
 —

@@ -26,9 +26,9 @@ atualizado = "2026-09-13"
 | **Última atualização** | 2026-09-10 |
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Rakshasas | RC-581 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Rakshasas | RC-581 | associado | <-> | - |
 
 ## Observações
 

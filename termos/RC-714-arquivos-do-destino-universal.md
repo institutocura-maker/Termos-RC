@@ -29,27 +29,27 @@ Conjunto de arquivos contendo Informações Vivas relativas à origem, peso ance
 Moros teria criado os arquivos após diagnosticar o PIA e perceber que seu conhecimento seria usado pela Trimurti para dominação e guerra. Os registros foram criptografados para decifração futura por mentes ligadas à codificação original.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Revelação Cósmica (conceito) | RC-094 | cumpre-se-em RC-718 |
-| Krishna (avatar de Vishnu/Shiva) | RC-414 | associado |
-| Krishna como 'pretenso Keshava' | RC-425 | ← opõe-se-a |
-| Elm (Moros — ser LM de Tempérion) | RC-454 | criado-por |
-| Elm (Moros — ser LM de Tempérion) | RC-454 | ← cria |
-| Moiras / Nornes / Súdices / Parcas (destino) | RC-467 | associado |
-| Arquivos da Memória Cósmica | RC-521 | relaciona-se-a |
-| Supercomputador Cósmico (Moros — destino) | RC-533 | associado |
-| Flechas / Profecias de Moros | RC-611 | transportado-por |
-| Flechas / Profecias de Moros | RC-611 | ← transporta |
-| Wyrd / Urd (Teia do Destino) | RC-658 | organizados-por |
-| Informações Vivas | RC-715 | contêm |
-| Informações Vivas | RC-715 | ← armazenado-em |
-| PIA — Peso da Inevitabilidade Ancestral | RC-716 | relaciona-se-a |
-| PIA — Peso da Inevitabilidade Ancestral | RC-716 | ← registrado-em |
-| Buraco Negro Mental / Consciencial | RC-717 | ← relaciona-se-a |
-| Cumprimento da Profecia de Moros pela Revelação Cósmica | RC-718 | cumpre-se-em |
-| Cumprimento da Profecia de Moros pela Revelação Cósmica | RC-718 | ← abre |
-| Cumprimento da Profecia de Moros pela Revelação Cósmica | RC-718 | ← relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Revelação Cósmica (conceito) | RC-094 | relaciona-se-a | -> | texto bruto original: cumpre-se-em RC-718 |
+| Krishna (avatar de Vishnu/Shiva) | RC-414 | associado | <-> | - |
+| Krishna como 'pretenso Keshava' | RC-425 | opõe-se-a | <- | - |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | origina | <- | consolidação: "criado-por" → "origina"; direção invertida (forma passiva/inversa) |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | origina | <- | consolidação: "cria" → "origina" |
+| Moiras / Nornes / Súdices / Parcas (destino) | RC-467 | associado | <-> | - |
+| Arquivos da Memória Cósmica | RC-521 | relaciona-se-a | -> | - |
+| Supercomputador Cósmico (Moros — destino) | RC-533 | associado | <-> | - |
+| Flechas / Profecias de Moros | RC-611 | transfere | <- | consolidação: "transportado-por" → "transfere"; direção invertida (forma passiva/inversa) |
+| Flechas / Profecias de Moros | RC-611 | transfere | <- | consolidação: "transporta" → "transfere" |
+| Wyrd / Urd (Teia do Destino) | RC-658 | inclui | <- | consolidação: "organizados-por" → "inclui"; direção invertida (forma passiva/inversa) |
+| Informações Vivas | RC-715 | inclui | -> | consolidação: "contêm" → "inclui" |
+| Informações Vivas | RC-715 | contexto | <- | consolidação: "armazenado-em" → "contexto" |
+| PIA — Peso da Inevitabilidade Ancestral | RC-716 | relaciona-se-a | -> | - |
+| PIA — Peso da Inevitabilidade Ancestral | RC-716 | contexto | <- | consolidação: "registrado-em" → "contexto" |
+| Buraco Negro Mental / Consciencial | RC-717 | relaciona-se-a | <- | - |
+| Cumprimento da Profecia de Moros pela Revelação Cósmica | RC-718 | usa | -> | consolidação: "cumpre-se-em" → "usa" |
+| Cumprimento da Profecia de Moros pela Revelação Cósmica | RC-718 | relaciona-se-a | <- | consolidação: "abre" → "relaciona-se-a" |
+| Cumprimento da Profecia de Moros pela Revelação Cósmica | RC-718 | relaciona-se-a | <- | - |
 
 ## Fontes
 | Fonte | Localização | Tipo |

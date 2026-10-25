@@ -32,19 +32,19 @@ A **ressonância mórfica** na RC não é apenas o mecanismo de herança de háb
 **Origem do conteúdo da ampliação:** palestra `P2023-10-14 — A Esquecida Honra dos Anunnaki` (U0047 e região do megabloco U0033), do `original.txt` (transcrição automatizada, **não conferida com o áudio**); aspas recortadas byte a byte por `_gerar_ampliacoes_P2023-10-14.py`.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Revelação Cósmica (conceito) | RC-094 | associado |
-| Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | vincula |
-| Elétrons (agente básico da vida universal) | RC-162 | associado |
-| A Rebelião dos Elétrons | RC-378 | ← envolve |
-| Infecção mental / contágio vibratório | RC-520 | associado |
-| Parasitismo energético (obsessão ampliada) | RC-522 | associado |
-| Vampirismo consciencial | RC-523 | associado |
-| Ressonância límbica (emoções como tecnologia cósmica) | RC-529 | ← relaciona-se-a |
-| Universo de Egrégoras Emocionais | RC-711 | relaciona-se-a |
-| Formas-Pensamento e Formas-Sentimento | RC-724 | ← relaciona-se-a |
-| Biocosmos emergente (a nova mente biológica global ancorada nos campos mórficos) | RC-879 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Revelação Cósmica (conceito) | RC-094 | associado | <-> | - |
+| Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | associado | <-> | consolidação: "vincula" → "associado" |
+| Elétrons (agente básico da vida universal) | RC-162 | associado | <-> | - |
+| A Rebelião dos Elétrons | RC-378 | envolve | <- | - |
+| Infecção mental / contágio vibratório | RC-520 | associado | <-> | - |
+| Parasitismo energético (obsessão ampliada) | RC-522 | associado | <-> | - |
+| Vampirismo consciencial | RC-523 | associado | <-> | - |
+| Ressonância límbica (emoções como tecnologia cósmica) | RC-529 | relaciona-se-a | <- | - |
+| Universo de Egrégoras Emocionais | RC-711 | relaciona-se-a | -> | - |
+| Formas-Pensamento e Formas-Sentimento | RC-724 | relaciona-se-a | <- | - |
+| Biocosmos emergente (a nova mente biológica global ancorada nos campos mórficos) | RC-879 | associado | <-> | - |
 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo (citação/paráfrase) |

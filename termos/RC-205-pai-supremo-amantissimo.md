@@ -27,13 +27,13 @@ Na B001 (*O Drama Cósmico de Javé*), uma das **personificações da Deidade** 
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Deidade (Pai-Mãe Amantíssimo / Brahman) | RC-047 | ← personifica-em |
-| Deus / Deus Incognoscível | RC-052 | associado |
-| Realidade Maior / Paraíso Original | RC-204 | associado |
-| Divindades Excelsas | RC-206 | personifica-em |
-| Abismo da Providência / Falsa Providência | RC-723 | ← relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Deidade (Pai-Mãe Amantíssimo / Brahman) | RC-047 | representa | <- | consolidação: "personifica-em" → "representa" |
+| Deus / Deus Incognoscível | RC-052 | associado | <-> | - |
+| Realidade Maior / Paraíso Original | RC-204 | associado | <-> | - |
+| Divindades Excelsas | RC-206 | representa | -> | consolidação: "personifica-em" → "representa" |
+| Abismo da Providência / Falsa Providência | RC-723 | relaciona-se-a | <- | - |
 
 ## Fontes
 

@@ -24,12 +24,12 @@ Ser que estudou as "necessidades" que surgiriam dos "códigos podres" no psiquis
 Criado por autorização excepcional do curador (Devolutiva Trilogia TALM, O-3 — RC-777) a partir do ART-2025-08-03, com a tag **[REVISAR → CHANCELA 2026-09-06 · F039-L3: AGUARDA-ÁUDIO (STT preservado como falado) — ver nota]** para futura checagem ortográfica/fonética com a fonte primária (grafia do nome não confirmada). ✅ **RESOLVIDO NA P2021-07-24 (24/07/2021)**: a fonte primária falou o nome ao vivo — "Só uma pessoa nesse universo ou na criação inteira sabe, é a [ANANQUE]" — e a Devolutiva O-4 consagrou a grafia **ANANQUE** (corrigindo as alucinações STT "Anunque/Anak/ANAC/Nan").
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Elm (Moros — ser LM de Tempérion) | RC-454 | relaciona-se-a |
-| Moiras / Nornes / Súdices / Parcas (destino) | RC-467 | relaciona-se-a |
-| PIA — Peso da Inevitabilidade Ancestral | RC-716 | relaciona-se-a |
-| Éon das Três Esferas (superloka/geno; repositório de tesouros genéticos do Projeto TALM) | RC-775 | relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Elm (Moros — ser LM de Tempérion) | RC-454 | relaciona-se-a | -> | - |
+| Moiras / Nornes / Súdices / Parcas (destino) | RC-467 | relaciona-se-a | -> | - |
+| PIA — Peso da Inevitabilidade Ancestral | RC-716 | relaciona-se-a | -> | - |
+| Éon das Três Esferas (superloka/geno; repositório de tesouros genéticos do Projeto TALM) | RC-775 | relaciona-se-a | -> | - |
 
 ## Fontes
 | Obra/palestra | Localização | Tipo |

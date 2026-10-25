@@ -25,15 +25,15 @@ Designação dos **seres da Trimurti (Brahma, Vishnu, Shiva) como os "Senhores d
 A equivalência Senhores do Dharma = Senhores da Lila = Trimurti consolida a leitura das RC: o dharma e a Lila são as duas faces do "jogo" de dominação dos três deuses. O B023 revela que o dharma/castas era "uma estranha disciplina existencial que havia sido criada para impor certa contrição de ordem educativa às diversas classes de 'demônios feito gente'".
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Lila | RC-075 | variação |
-| Revelação Cósmica (conceito) | RC-094 | associado |
-| Trimurti | RC-104 | variação |
-| Fator Dharma | RC-319 | agente |
-| Castas Trimurtianas | RC-321 | autores |
-| Dharma e Castas (origem demo) | RC-322 | autores |
-| Yggdrasil / Conglomerado dos Nove Mundos | RC-730 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Lila | RC-075 | variação | -> | - |
+| Revelação Cósmica (conceito) | RC-094 | associado | <-> | - |
+| Trimurti | RC-104 | variação | -> | - |
+| Fator Dharma | RC-319 | envolve | -> | consolidação: "agente" → "envolve" |
+| Castas Trimurtianas | RC-321 | envolve | -> | consolidação: "autores" → "envolve" |
+| Dharma e Castas (origem demo) | RC-322 | envolve | -> | consolidação: "autores" → "envolve" |
+| Yggdrasil / Conglomerado dos Nove Mundos | RC-730 | associado | <-> | - |
 
 ## Seres Associados
 Brahma (RC-037); Vishnu (RC-135); Shiva (RC-102).

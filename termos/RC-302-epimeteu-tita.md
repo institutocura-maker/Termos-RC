@@ -26,23 +26,23 @@ Titã irmão de Prometeu que, na cosmologia de Jan Val Ellam, teria sido o grand
 - **[P2024-08-03] Proveniência:** palestra de Jan Val Ellam; transcrição STT pré-curada; devolutiva do curador registrada em 2026-08-20 (ficha autorizada).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Pandora | RC-086 | associado |
-| Zeus | RC-145 | associado |
-| Descendência de Pirra (Pirra e Deucalião) | RC-298 | associado |
-| Prometeu (titã) | RC-301 | é-um |
-| Pirra | RC-303 | associado |
-| Asuras (= Titãs) | RC-465 | é-um |
-| Revolução Inacabada de Prometeu e Pandora | RC-788 | associado |
-| Centro Alquímico-Farmacopédico | RC-789 | associado |
-| Quinaras / Centauros (Seres Reais que Hoje Nascem Humanos) | RC-790 | associado |
-| Lamúria dos Deuses (Diagnóstico de Prometeu) | RC-791 | associado |
-| Desvio de Rota de Pandora (Contra o Plano de Zeus) | RC-806 | associado |
-| Prometeu como Saca-Nica dos Olímpicos | RC-812 | associado |
-| Eva como 3ª Tentativa de Fêmea para Adão (Homem + Mulher da Espécie Sábia) | RC-814 | associado |
-| Agar como 2ª Tentativa Fracassada de Fêmea para Adão | RC-817 | associado |
-| Prole sem Face (Humanos Modificáveis sem Face Definida) | RC-819 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Pandora | RC-086 | associado | <-> | - |
+| Zeus | RC-145 | associado | <-> | - |
+| Descendência de Pirra (Pirra e Deucalião) | RC-298 | associado | <-> | - |
+| Prometeu (titã) | RC-301 | é-um | -> | - |
+| Pirra | RC-303 | associado | <-> | - |
+| Asuras (= Titãs) | RC-465 | é-um | -> | - |
+| Revolução Inacabada de Prometeu e Pandora | RC-788 | associado | <-> | - |
+| Centro Alquímico-Farmacopédico | RC-789 | associado | <-> | - |
+| Quinaras / Centauros (Seres Reais que Hoje Nascem Humanos) | RC-790 | associado | <-> | - |
+| Lamúria dos Deuses (Diagnóstico de Prometeu) | RC-791 | associado | <-> | - |
+| Desvio de Rota de Pandora (Contra o Plano de Zeus) | RC-806 | associado | <-> | - |
+| Prometeu como Saca-Nica dos Olímpicos | RC-812 | associado | <-> | - |
+| Eva como 3ª Tentativa de Fêmea para Adão (Homem + Mulher da Espécie Sábia) | RC-814 | associado | <-> | - |
+| Agar como 2ª Tentativa Fracassada de Fêmea para Adão | RC-817 | associado | <-> | - |
+| Prole sem Face (Humanos Modificáveis sem Face Definida) | RC-819 | associado | <-> | - |
 
 
 - Prometeu (titã) — RC-301 (irmão);

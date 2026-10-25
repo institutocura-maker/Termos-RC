@@ -29,12 +29,12 @@ Com isso:
 **Origem do conteúdo da ampliação:** palestra `P2017-10-14 — Da Base Atlan ao Colégio Druídico` (14/10/2017). Transcrição automatizada, **não conferida com o áudio**; cada aspa foi recortada do `original.txt` pelo índice de âncoras do motor e conferida byte a byte pelo portão B. Nada foi digitado de memória.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Alt´Lam Gron | RC-018 | associado |
-| Antares (Sistema) | RC-021 | **sem aresta** em `RELACOES`; arquivo existe |
-| Mastlans Phisosferas / Luciferianas | RC-079 | **sem aresta** em `RELACOES`; arquivo existe (P5d) |
-| Yel Luzbel | RC-142 | **sem aresta** em `RELACOES`; arquivo existe |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Alt´Lam Gron | RC-018 | associado | <-> | - |
+| Antares (Sistema) | RC-021 | - | - | sem aresta em RELACOES; arquivo existe |
+| Mastlans Phisosferas / Luciferianas | RC-079 | - | - | sem aresta em RELACOES; arquivo existe (P5d) |
+| Yel Luzbel | RC-142 | - | - | sem aresta em RELACOES; arquivo existe |
 
 
 ## Fontes

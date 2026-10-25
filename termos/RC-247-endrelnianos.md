@@ -27,11 +27,11 @@ Na B015, a classe de seres «especialmente gerada para os conflitos e a guarda d
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Anjos clones | RC-019 | associado |
-| En Drel | RC-055 | é-um |
-| Zont En Drel 29 | RC-147 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Anjos clones | RC-019 | associado | <-> | - |
+| En Drel | RC-055 | é-um | -> | - |
+| Zont En Drel 29 | RC-147 | associado | <-> | - |
 
 ## Fontes
 

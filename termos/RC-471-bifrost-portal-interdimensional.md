@@ -24,18 +24,18 @@ Na cosmologia comparada de Jan Val Ellam, Bifrost é uma ponte periódica entre 
 
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | relaciona-se-a |
-| Universo Material (Bhuloka) | RC-107 | destino de travessia, segundo a narrativa |
-| Portal Cósmico (destinação do Planeta Azul) | RC-343 | associado |
-| Ragnarok em Marte | RC-395 | ← relaciona-se-a |
-| Ragnarok em Marte | RC-395 | ← relaciona-se-a |
-| Ragnarok em Marte | RC-395 | ← relaciona-se-a |
-| Midgard (Marte + Terra) | RC-470 | ← relaciona-se-a |
-| Yggdrasil / Conglomerado dos Nove Mundos | RC-730 | ← conecta-se-por |
-| Yggdrasil / Conglomerado dos Nove Mundos | RC-730 | conecta |
-| Axis Mundi / Axismund | RC-731 | ← conecta-se-por |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | relaciona-se-a | -> | - |
+| Universo Material (Bhuloka) | RC-107 | relaciona-se-a | -> | texto bruto original: destino de travessia, segundo a narrativa |
+| Portal Cósmico (destinação do Planeta Azul) | RC-343 | associado | <-> | - |
+| Ragnarok em Marte | RC-395 | relaciona-se-a | <- | - |
+| Ragnarok em Marte | RC-395 | relaciona-se-a | <- | - |
+| Ragnarok em Marte | RC-395 | relaciona-se-a | <- | - |
+| Midgard (Marte + Terra) | RC-470 | relaciona-se-a | <- | - |
+| Yggdrasil / Conglomerado dos Nove Mundos | RC-730 | associado | <-> | consolidação: "conecta-se-por" → "associado" |
+| Yggdrasil / Conglomerado dos Nove Mundos | RC-730 | associado | <-> | consolidação: "conecta" → "associado" |
+| Axis Mundi / Axismund | RC-731 | associado | <-> | consolidação: "conecta-se-por" → "associado" |
 
 ## Ampliação — STT26-MITOLOGIAS_REINTEGRACAO (Eixo STT26 — Mitologias, tradições e eixo de reintegração (derivados normalizados))
 

@@ -27,15 +27,15 @@ Em sânscrito, «mundo, morada, lugar ou plano de existência»: as lokas são a
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Brahmaloka | RC-038 | associado |
-| Cultura Demo | RC-044 | associado |
-| Genos | RC-066 | associado |
-| Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | associado |
-| Zeus | RC-145 | associado |
-| Os 270 Mundos (profecia do Zohar) | RC-265 | associado |
-| Eon de Khaos (Universo de Caos) | RC-294 | ← inclui |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Brahmaloka | RC-038 | associado | <-> | - |
+| Cultura Demo | RC-044 | associado | <-> | - |
+| Genos | RC-066 | associado | <-> | - |
+| Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | associado | <-> | - |
+| Zeus | RC-145 | associado | <-> | - |
+| Os 270 Mundos (profecia do Zohar) | RC-265 | associado | <-> | - |
+| Eon de Khaos (Universo de Caos) | RC-294 | inclui | <- | - |
 
 ## Fontes
 

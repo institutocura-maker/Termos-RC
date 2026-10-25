@@ -24,15 +24,15 @@ Tese (leitura do autor, palestra **P2019-04-14**, U0003) de que **Mahatma Magant
 Aparece em **P2019-04-14**, U0003. Contexto: a palestra explica que a **libertação** da humanidade da alimentação demoníaca está sendo liderada por **Mahatma Magant** — "o espírito do Mahatma Magant está à frente desse processo na espiritualidade". A libertação envolve **aprender a gerar do campo quântico** (e não do cadáver alheio) — "um dia a gente tem que criar no seio desse universo um modo de vida que não roube, que não se aproprie, que aprenda a gerar do campo quântico e não do cadáver alheio". O nome é uma **corruptela STT** — provavelmente "Mahatma" + "Gandhi" misturados, ou "Magant" como forma própria do autor.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Reintegração Cósmica | RC-003 | é-contexto-de |
-| Seres Terrenos (Homo Sapiens) | RC-099 | liberta |
-| Alimentação por Perfume dos Humanos (Demos se Alimentam de DNA) | RC-820 | liberta-de |
-| Vechame Existencial (Sangue de Barata = Amor sem Submissão) | RC-823 | associado |
-| Greve de Fome Genética (Suicídio como Quebra do Código Demoníaco) | RC-824 | é-método-de |
-| Código Genético como Marca da Herança Demoníaca | RC-825 | associado |
-| Mahatma Gandhi | (fato histórico) | é-paralelo-com |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Reintegração Cósmica | RC-003 | contexto | -> | consolidação: "é-contexto-de" → "contexto" |
+| Seres Terrenos (Homo Sapiens) | RC-099 | protege | -> | consolidação: "liberta" → "protege" |
+| Alimentação por Perfume dos Humanos (Demos se Alimentam de DNA) | RC-820 | protege | -> | consolidação: "liberta-de" → "protege" |
+| Vechame Existencial (Sangue de Barata = Amor sem Submissão) | RC-823 | associado | <-> | - |
+| Greve de Fome Genética (Suicídio como Quebra do Código Demoníaco) | RC-824 | usa | -> | consolidação: "é-método-de" → "usa" |
+| Código Genético como Marca da Herança Demoníaca | RC-825 | associado | <-> | - |
+| Mahatma Gandhi | (fato histórico) | associado | <-> | consolidação: "é-paralelo-com" → "associado" |
 
 ## Seres Associados
 - **Mahatma Magant** — quem lidera a libertação

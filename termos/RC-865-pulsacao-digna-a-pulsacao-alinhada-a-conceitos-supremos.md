@@ -29,12 +29,12 @@ Com isso:
 **Origem do conteúdo da ampliação:** palestra `P2022-11-20 — A Incompreendida Nova Aliança proposta por Jesus` (20/11/2022). Transcrição automatizada, **não conferida com o áudio**; cada aspa foi recortada do `original.txt` pelo índice de âncoras do motor e conferida byte a byte pelo portão B. Nada foi digitado de memória.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Entropia e Negentropia | RC-160 | **sem aresta** em `RELACOES`; arquivo existe |
-| Baralho genético (metáfora dos 28.869 genes) | RC-562 | **sem aresta** em `RELACOES`; arquivo existe |
-| Ponto de Luz Humano / Ilha de Negentropia | RC-725 | **sem aresta** em `RELACOES`; arquivo existe |
-| Pulsação dos Elétrons Como Afetividade Humana | RC-832 | **sem aresta** em `RELACOES`; arquivo existe |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Entropia e Negentropia | RC-160 | - | - | sem aresta em RELACOES; arquivo existe |
+| Baralho genético (metáfora dos 28.869 genes) | RC-562 | - | - | sem aresta em RELACOES; arquivo existe |
+| Ponto de Luz Humano / Ilha de Negentropia | RC-725 | - | - | sem aresta em RELACOES; arquivo existe |
+| Pulsação dos Elétrons Como Afetividade Humana | RC-832 | - | - | sem aresta em RELACOES; arquivo existe |
 
 ## Fontes
 | Obra (sigla) | Título | Página | Tipo |

@@ -29,13 +29,13 @@ Com isso:
 **Origem do conteúdo da ampliação:** palestra `P2023-12-03 — A Rebelião de Lúcifer ainda por ser Finalizada` (03/12/2023, na sala). Transcrição automatizada, **não conferida com o áudio**; cada aspa foi recortada do `original.txt` pelo índice de âncoras do motor e conferida byte a byte pelo portão B. Nada foi digitado de memória.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Biodemos | RC-036 | **sem aresta** em `RELACOES`; arquivo existe |
-| Radiatas | RC-093 | **sem aresta** em `RELACOES`; arquivo existe |
-| Cérebro Radiata | RC-631 | ← distingue-se-de |
-| Fornos Replicadores (naves/estações de semeadura de vida do Projeto Talm; Awayen, Awaylengan e Awaymaion) | RC-771 | ← relaciona-se-a |
-| Forno de Awaylengan (forno de Shiva — o primeiro a funcionar) | RC-837 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Biodemos | RC-036 | - | - | sem aresta em RELACOES; arquivo existe |
+| Radiatas | RC-093 | - | - | sem aresta em RELACOES; arquivo existe |
+| Cérebro Radiata | RC-631 | opõe-se-a | <- | consolidação: "distingue-se-de" → "opõe-se-a" |
+| Fornos Replicadores (naves/estações de semeadura de vida do Projeto Talm; Awayen, Awaylengan e Awaymaion) | RC-771 | relaciona-se-a | <- | - |
+| Forno de Awaylengan (forno de Shiva — o primeiro a funcionar) | RC-837 | associado | <-> | - |
 
 ## Ampliação — STT26-SOCIEDADE_CONTEMPORANEA (Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados))
 

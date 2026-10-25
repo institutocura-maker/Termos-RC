@@ -27,13 +27,13 @@ Na B019 (*Nem Deus, nem Javé, nem Darwin*), os integrantes do **“Consórcio d
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Criatura Universal | RC-042 | associado |
-| Arquiteto Universal | RC-207 | associado |
-| Consórcio de Mundos (Arquitetos Universais) | RC-538 | é-um |
-| Molécula-mãe (ancestral comum da vida terrestre) | RC-540 | associado |
-| Evolução Possível (terceira via: nem Darwin, nem deus) | RC-541 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Criatura Universal | RC-042 | associado | <-> | - |
+| Arquiteto Universal | RC-207 | associado | <-> | - |
+| Consórcio de Mundos (Arquitetos Universais) | RC-538 | é-um | -> | - |
+| Molécula-mãe (ancestral comum da vida terrestre) | RC-540 | associado | <-> | - |
+| Evolução Possível (terceira via: nem Darwin, nem deus) | RC-541 | associado | <-> | - |
 
 ## Fontes
 

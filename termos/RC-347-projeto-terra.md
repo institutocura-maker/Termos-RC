@@ -27,12 +27,12 @@ Na B026 (*Carma e Compromisso*, Livro III da Trilogia «Queda e Ascensão Espiri
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Projeto Planeta Azul | RC-090 | é-um |
-| Revelação Cósmica (conceito) | RC-094 | associado |
-| Seres Terrenos (Homo Sapiens) | RC-099 | associado |
-| Quarentena Sideral / Cósmica | RC-342 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Projeto Planeta Azul | RC-090 | é-um | -> | - |
+| Revelação Cósmica (conceito) | RC-094 | associado | <-> | - |
+| Seres Terrenos (Homo Sapiens) | RC-099 | associado | <-> | - |
+| Quarentena Sideral / Cósmica | RC-342 | associado | <-> | - |
 
 ## Fontes
 

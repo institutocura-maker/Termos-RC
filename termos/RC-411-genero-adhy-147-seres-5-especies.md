@@ -24,21 +24,21 @@ Gênero Adhy é o conjunto de 147 seres da Espiritualidade Laboratorial, distrib
 A palestra fornece a fonte direta mais detalhada da taxonomia: 147 seres, cinco espécies e Pashvnaj como uma espécie de 43. Prabrajna, Mavatna/Vishnu e outros personagens pertencem a ramificações desse gênero.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Adhy | RC-011 | é-um |
-| Adhyagia | RC-012 | relaciona-se-a |
-| Adhyatman | RC-013 | relaciona-se-a |
-| Adhydaiva | RC-014 | relaciona-se-a |
-| Adhybutha | RC-015 | relaciona-se-a |
-| Adhyajna | RC-016 | relaciona-se-a |
-| Perpérion | RC-087 | ← abriga |
-| Revelação Cósmica (conceito) | RC-094 | relaciona-se-a |
-| Pashvnaj (espécie de 43 seres do Gênero Adhy) | RC-455 | inclui |
-| Pashvnaj (espécie de 43 seres do Gênero Adhy) | RC-455 | inclui |
-| Pashvnaj (espécie de 43 seres do Gênero Adhy) | RC-455 | ← é-uma-espécie-de |
-| Autismo Funcional dos Seres da Espiritualidade Superior | RC-605 | ← aplica-se-a |
-| Conclave da Espiritualidade Laboratorial | RC-635 | ← envolve |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Adhy | RC-011 | é-um | -> | - |
+| Adhyagia | RC-012 | relaciona-se-a | -> | - |
+| Adhyatman | RC-013 | relaciona-se-a | -> | - |
+| Adhydaiva | RC-014 | relaciona-se-a | -> | - |
+| Adhybutha | RC-015 | relaciona-se-a | -> | - |
+| Adhyajna | RC-016 | relaciona-se-a | -> | - |
+| Perpérion | RC-087 | contexto | <- | consolidação: "abriga" → "contexto" |
+| Revelação Cósmica (conceito) | RC-094 | relaciona-se-a | -> | - |
+| Pashvnaj (espécie de 43 seres do Gênero Adhy) | RC-455 | inclui | -> | - |
+| Pashvnaj (espécie de 43 seres do Gênero Adhy) | RC-455 | inclui | -> | - |
+| Pashvnaj (espécie de 43 seres do Gênero Adhy) | RC-455 | é-um | <- | consolidação: "é-uma-espécie-de" → "é-um" |
+| Autismo Funcional dos Seres da Espiritualidade Superior | RC-605 | usa | <- | consolidação: "aplica-se-a" → "usa" |
+| Conclave da Espiritualidade Laboratorial | RC-635 | envolve | <- | - |
 
 ## Seres Associados
 Ver relações acima e os nós Elm (RC-454), Olm (RC-092), Prabrajna (RC-152), Gênero Adhy (RC-411) e Seres LM (RC-456), conforme aplicável.

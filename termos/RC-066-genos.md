@@ -27,13 +27,13 @@ Termo da Mitologia Grega para as «moradas» do universo antimaterial: os genos 
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Brahmaloka | RC-038 | associado |
-| Fenvans | RC-064 | associado |
-| Frota Norte | RC-065 | associado |
-| Lokas | RC-077 | associado |
-| Zeus | RC-145 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Brahmaloka | RC-038 | associado | <-> | - |
+| Fenvans | RC-064 | associado | <-> | - |
+| Frota Norte | RC-065 | associado | <-> | - |
+| Lokas | RC-077 | associado | <-> | - |
+| Zeus | RC-145 | associado | <-> | - |
 
 ## Fontes
 

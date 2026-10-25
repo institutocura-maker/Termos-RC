@@ -17,13 +17,13 @@ atualizado = "2026-09-12"
 As diversas classes de anjos clones de Javé que povoam Arabot-Ráquia (RC-495): serafins flamejantes, querubins, ofanins, galgalim, chayot, chashmalim — "os anjos de Javé não são de um só tipo". Anjos são "robôs" de Javé (clones robotizados); ninguém aceita anjo sentado no conselho dos arcontes — só seres demoníacos.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | relaciona-se-a |
-| Anjos ministradores (Usá, Azá, Aziel) | RC-484 | associado |
-| Enoque (sétimo patriarca; levado por Javé) | RC-489 | ← relaciona-se-a |
-| Arabot-Ráquia (ambiente de Javé; = Araboth) | RC-495 | ← relaciona-se-a |
-| Metatron | RC-671 | ← relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Javé | RC-001 | relaciona-se-a | -> | - |
+| Anjos ministradores (Usá, Azá, Aziel) | RC-484 | associado | <-> | - |
+| Enoque (sétimo patriarca; levado por Javé) | RC-489 | relaciona-se-a | <- | - |
+| Arabot-Ráquia (ambiente de Javé; = Araboth) | RC-495 | relaciona-se-a | <- | - |
+| Metatron | RC-671 | relaciona-se-a | <- | - |
 
 ## Fontes
 

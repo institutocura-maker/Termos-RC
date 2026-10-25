@@ -32,11 +32,11 @@ O nome que a RC dá ao **tráfego de informação na espiritualidade** — o cir
 **Origem do conteúdo da ampliação:** palestra `P2023-10-14 — A Esquecida Honra dos Anunnaki` (U0081, U0076 e o megabloco U0020), do `original.txt` (transcrição automatizada, **não conferida com o áudio**); aspas recortadas byte a byte por `_gerar_ampliacoes_P2023-10-14.py`.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Biodemos | RC-036 | associado |
-| Seres Extraterrenos / Extraterrestres | RC-098 | associado |
-| — (nenhuma aresta cadastrada) | — | — |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Biodemos | RC-036 | associado | <-> | - |
+| Seres Extraterrenos / Extraterrestres | RC-098 | associado | <-> | - |
+| — (nenhuma aresta cadastrada) | — | - | - | sem relação informada; 17 linhas são registros de fonte com 4 colunas |
 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo (citação/paráfrase) |

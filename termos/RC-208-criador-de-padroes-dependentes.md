@@ -27,12 +27,12 @@ Na B001, a designação da divindade co-criadora — «a divindade com problemas
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Criador (Brahma/Javé/Demiurgo) | RC-041 | associado |
-| Arquiteto Universal | RC-207 | associado |
-| Vida de Padrão Dependente | RC-209 | associado |
-| Matriz Modeladora / Matriz de Cocriação | RC-210 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Criador (Brahma/Javé/Demiurgo) | RC-041 | associado | <-> | - |
+| Arquiteto Universal | RC-207 | associado | <-> | - |
+| Vida de Padrão Dependente | RC-209 | associado | <-> | - |
+| Matriz Modeladora / Matriz de Cocriação | RC-210 | associado | <-> | - |
 
 ## Fontes
 

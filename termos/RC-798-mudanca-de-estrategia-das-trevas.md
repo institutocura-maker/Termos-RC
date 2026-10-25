@@ -24,14 +24,14 @@ Tese (leitura do autor, palestra **P2018-02-24**, U0004) de que **depois de 2 de
 Aparece em **P2018-02-24**, U0004. Contexto: a "estratégia antiga" das trevas era centralizar o mal em impérios/famílias. Depois de 2 avatares bem-sucedidos (Moisés, Krishna), a estratégia **inverteu** — o mal foi espalhado em todos os corações humanos, de modo que "se a luz quisesse destruir aquele DNA, aquela semente do mal, teria que destruir toda a humanidade".
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Jesus | RC-072 | replica-resposta-a |
-| Shiva (Savna) | RC-102 | destruiu-centralizado-em |
-| Estratégia dos Avatares (Moisés/Krishna/Saibaba/Jesus/Maomé) | RC-797 | fase-de |
-| Pandora como Oposição à Estratégia dos Avatares | RC-799 | opõe-se-a |
-| Jesus como Último Avatar (Não Mata) | RC-800 | resposta-a |
-| Saibaba como Precursor de Jesus | RC-801 | primeira-resposta-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Jesus | RC-072 | comunica | -> | consolidação: "replica-resposta-a" → "comunica" |
+| Shiva (Savna) | RC-102 | danifica | -> | consolidação: "destruiu-centralizado-em" → "danifica" |
+| Estratégia dos Avatares (Moisés/Krishna/Saibaba/Jesus/Maomé) | RC-797 | parte-de | -> | consolidação: "fase-de" → "parte-de" |
+| Pandora como Oposição à Estratégia dos Avatares | RC-799 | opõe-se-a | -> | - |
+| Jesus como Último Avatar (Não Mata) | RC-800 | comunica | -> | consolidação: "resposta-a" → "comunica" |
+| Saibaba como Precursor de Jesus | RC-801 | comunica | -> | consolidação: "primeira-resposta-a" → "comunica" |
 
 ## Seres Associados
 - **As trevas** (entidade cósmica) — quem mudou a estratégia

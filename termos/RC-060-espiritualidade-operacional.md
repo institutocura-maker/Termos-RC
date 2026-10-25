@@ -24,17 +24,17 @@ O primeiro desdobramento da Espiritualidade Superior (RC-059): o nível criado p
 Na sequência descrita por Ellam, a experiência da incompletude exigiu sucessivas vestimentas: «surgiu o corpo búdico, permitindo a experiência na Espiritualidade Operacional. Posteriormente, foi concebido o corpo manásico, que possibilitou a existência no nível da Espiritualidade Laboratorial». A Departamentalização da Vida (RC-601) envolve os três níveis, e os Seres Originais (RC-600) são descritos como criadores das condições desse desdobramento.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Espiritualidade Superior | RC-059 | associado |
-| Espiritualidade Laboratorial | RC-061 | associado |
-| Seres Espirituais | RC-100 | associado |
-| Planos de Existência da Cabala (Atziluth, Briah, Yetzirah, Assiah) | RC-264 | associado |
-| Colapso da Matriz Quântica (3 níveis) | RC-415 | ← inclui |
-| Seres Originais do Paraíso | RC-600 | ← cria |
-| Departamentalização da Vida | RC-601 | ← envolve |
-| Protocolos / Algoritmos da Perfeição | RC-606 | ← precede |
-| Corpo Búdico | RC-624 | associada-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Espiritualidade Superior | RC-059 | associado | <-> | - |
+| Espiritualidade Laboratorial | RC-061 | associado | <-> | - |
+| Seres Espirituais | RC-100 | associado | <-> | - |
+| Planos de Existência da Cabala (Atziluth, Briah, Yetzirah, Assiah) | RC-264 | associado | <-> | - |
+| Colapso da Matriz Quântica (3 níveis) | RC-415 | inclui | <- | - |
+| Seres Originais do Paraíso | RC-600 | origina | <- | consolidação: "cria" → "origina" |
+| Departamentalização da Vida | RC-601 | envolve | <- | - |
+| Protocolos / Algoritmos da Perfeição | RC-606 | precede | <- | - |
+| Corpo Búdico | RC-624 | associado | <-> | raiz semântica associado (decisão 3) |
 
 - RC-061 — ver ficha correspondente
 - RC-059 — ver ficha correspondente

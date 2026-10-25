@@ -24,14 +24,14 @@ atualizado = "2026-08-25"
 No Livro 2 (B058), Tau Ceti é o segundo destino da turnê rebelde ("depois conversaremos com os Mestres da 'Universidade' de Tau Ceti, e de lá, partiremos para outros mundos ainda mais longínquos", p. 40). A nota de rodapé da p. 46 (ed. 2022, do adaptador — fonte Wikipédia) identifica a estrela: "Tau Ceti é uma estrela na constelação Cetus e que é semelhante ao Sol em massa e tipo espectral. Localizada a menos de 11,90 anos-luz do sistema solar, é uma estrela relativamente próxima." A nota 2 da p. 37 **distingue** a Universidade de Tau Ceti da escola do Codificador de Zion (RC-146): "Não confundir a 'Universidade' de Tau Ceti com a escola administrada pelo Codificador de Zion, citada no primeiro livro desta coleção."
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Antares (Sistema) | RC-021 | relaciona-se-a (destinos da turnê) |
-| Capela (Sistema) | RC-039 | relaciona-se-a (relação prévia na malha) |
-| Gron Mion | RC-067 | associado |
-| Ragnarok em Marte | RC-395 | ← ocorre-em |
-| Universidade de Tau Ceti | RC-451 | ← associado-a |
-| Grão-mestre (Sábios de Tau Ceti) | RC-452 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Antares (Sistema) | RC-021 | relaciona-se-a | -> | qualificador preservado: destinos da turnê |
+| Capela (Sistema) | RC-039 | relaciona-se-a | -> | qualificador preservado: relação prévia na malha |
+| Gron Mion | RC-067 | associado | <-> | - |
+| Ragnarok em Marte | RC-395 | contexto | <- | consolidação: "ocorre-em" → "contexto" |
+| Universidade de Tau Ceti | RC-451 | associado | <-> | - |
+| Grão-mestre (Sábios de Tau Ceti) | RC-452 | associado | <-> | - |
 
 ## Seres Associados
 Yel Luzbel (RC-078); Len Mion (RC-074); o Grão-mestre e os Sábios de Tau Ceti (RC-452).

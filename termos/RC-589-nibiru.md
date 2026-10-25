@@ -24,12 +24,12 @@ Mundo ou astro associado aos Anunnakis e apresentado como origem das sete armas 
 Aparece no relato da guerra entre os clãs de Enki e Enlil.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Anunnaki | RC-024 | associado-a |
-| Marduk (= Ra; Anunnaki filho de Enki) | RC-460 | relaciona-se-a |
-| Guerra Nuclear Anunnaki (Sete Armas Atômicas) | RC-583 | ← origem-em |
-| Ninurta | RC-588 | relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Anunnaki | RC-024 | associado | <-> | - |
+| Marduk (= Ra; Anunnaki filho de Enki) | RC-460 | relaciona-se-a | -> | - |
+| Guerra Nuclear Anunnaki (Sete Armas Atômicas) | RC-583 | origina | <- | consolidação: "origem-em" → "origina" |
+| Ninurta | RC-588 | relaciona-se-a | -> | - |
 
 ## Seres Associados
 Anunnakis (RC-024); Marduk (= Ra; Anunnaki filho de Enki) (RC-460); Ninurta (RC-588)

@@ -18,10 +18,10 @@ Na leitura de Jan Val Ellam, o conjunto de registros/informações associado ao 
 
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Big Data Cósmico | RC-194 | relaciona-se-a |
-| O Livro do Criador | RC-201 | ← associado-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Big Data Cósmico | RC-194 | relaciona-se-a | -> | - |
+| O Livro do Criador | RC-201 | associado | <-> | - |
 
 ## Fontes
 

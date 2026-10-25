@@ -25,27 +25,27 @@ Conjunto de correspondências mitológicas de Mohen So, Avatar Keshava de Vishnu
 P2026-04-02 confirma que a forma transcrita Morren So corresponde a Mohen So e não deve gerar termo autônomo.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Sophia (Cristo Cósmico) | RC-009 | associado |
-| Mohen So (Avatar Keshava de Vishnu) | RC-081 | ← variação |
-| Mohen So (Avatar Keshava de Vishnu) | RC-081 | ← variação |
-| Mohen So (Avatar Keshava de Vishnu) | RC-081 | correspondência-em-teologia-comparada-de |
-| Mohen So (Avatar Keshava de Vishnu) | RC-081 | correspondência-em-teologia-comparada-de |
-| Projeto Talm | RC-091 | relaciona-se-a |
-| Projeto Talm | RC-091 | ← relaciona-se-a |
-| Revelação Cósmica (conceito) | RC-094 | associado |
-| Trimurti | RC-104 | relaciona-se-a |
-| Vishnu (Mavatna) | RC-135 | associado-a |
-| Elm (Moros — ser LM de Tempérion) | RC-454 | relaciona-se-a |
-| Elm (Moros — ser LM de Tempérion) | RC-454 | distingue-se-de |
-| Maitreya (Dionísio; forma adiágena de Vishnu) | RC-481 | associado |
-| Corpo Átmico | RC-623 | ← relaciona-se-a |
-| Singularidade de Quatro Cabeças | RC-649 | associado |
-| Relógio Messiânico | RC-765 | ← relaciona-se-a |
-| Corpos Fenvã (terceira forma de vida do universo vizinho) | RC-769 | relaciona-se-a |
-| Midana (o código original primordial semeado no universo biológico) | RC-871 | associado |
-| Dhanvantari (o médico dos devas: Amrita e a Ayurveda cósmica) | RC-875 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Sophia (Cristo Cósmico) | RC-009 | associado | <-> | - |
+| Mohen So (Avatar Keshava de Vishnu) | RC-081 | variação | <- | - |
+| Mohen So (Avatar Keshava de Vishnu) | RC-081 | variação | <- | - |
+| Mohen So (Avatar Keshava de Vishnu) | RC-081 | variação | -> | consolidação: "correspondência-em-teologia-comparada-de" → "variação" |
+| Mohen So (Avatar Keshava de Vishnu) | RC-081 | variação | -> | consolidação: "correspondência-em-teologia-comparada-de" → "variação" |
+| Projeto Talm | RC-091 | relaciona-se-a | -> | - |
+| Projeto Talm | RC-091 | relaciona-se-a | <- | - |
+| Revelação Cósmica (conceito) | RC-094 | associado | <-> | - |
+| Trimurti | RC-104 | relaciona-se-a | -> | - |
+| Vishnu (Mavatna) | RC-135 | associado | <-> | - |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | relaciona-se-a | -> | - |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | opõe-se-a | -> | consolidação: "distingue-se-de" → "opõe-se-a" |
+| Maitreya (Dionísio; forma adiágena de Vishnu) | RC-481 | associado | <-> | - |
+| Corpo Átmico | RC-623 | relaciona-se-a | <- | - |
+| Singularidade de Quatro Cabeças | RC-649 | associado | <-> | - |
+| Relógio Messiânico | RC-765 | relaciona-se-a | <- | - |
+| Corpos Fenvã (terceira forma de vida do universo vizinho) | RC-769 | relaciona-se-a | -> | - |
+| Midana (o código original primordial semeado no universo biológico) | RC-871 | associado | <-> | - |
+| Dhanvantari (o médico dos devas: Amrita e a Ayurveda cósmica) | RC-875 | associado | <-> | - |
 
 ## Seres Associados
 Mohen So, Vishnu, Elm/Moros.

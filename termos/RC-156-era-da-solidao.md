@@ -27,11 +27,11 @@ Primeira das dez eras da Criação (B024 §16.1): durou até cerca de 500 milhõ
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Brahma (Brajna) | RC-037 | associado |
-| Prabrajna | RC-152 | associado |
-| Eras da Criação (10 eras) | RC-155 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Brahma (Brajna) | RC-037 | associado | <-> | - |
+| Prabrajna | RC-152 | associado | <-> | - |
+| Eras da Criação (10 eras) | RC-155 | associado | <-> | - |
 
 ## Fontes
 

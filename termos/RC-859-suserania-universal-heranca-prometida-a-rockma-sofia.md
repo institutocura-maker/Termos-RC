@@ -29,12 +29,12 @@ Com isso:
 **Origem do conteúdo da ampliação:** palestra `P2022-11-26 — Choque de Realidade – o Perpétuo Espanto dos Donos da Verdade` (26/11/2022). Transcrição automatizada, **não conferida com o áudio**; cada aspa foi recortada do `original.txt` pelo índice de âncoras do motor e conferida byte a byte pelo portão B. Nada foi digitado de memória.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | **sem aresta** em `RELACOES`; arquivo existe |
-| Sophia (Cristo Cósmico) | RC-009 | **sem aresta** em `RELACOES`; arquivo existe |
-| Arcontes (= Sophias e Indras; Conselho dos 70) | RC-474 | **sem aresta** em `RELACOES`; arquivo existe |
-| Sophia como Protetorado da Humanidade | RC-784 | **sem aresta** em `RELACOES`; arquivo existe |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Javé | RC-001 | - | - | sem aresta em RELACOES; arquivo existe |
+| Sophia (Cristo Cósmico) | RC-009 | - | - | sem aresta em RELACOES; arquivo existe |
+| Arcontes (= Sophias e Indras; Conselho dos 70) | RC-474 | - | - | sem aresta em RELACOES; arquivo existe |
+| Sophia como Protetorado da Humanidade | RC-784 | - | - | sem aresta em RELACOES; arquivo existe |
 
 
 ## Fontes

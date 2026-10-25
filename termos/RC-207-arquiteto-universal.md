@@ -24,17 +24,17 @@ Função exercida por uma **divindade menor co-criadora** quando se apresenta, n
 Termo central da trilogia dos Dramas de Javé. O Arquiteto Universal é uma divindade cocriadora (ver RC-054) investida de função criadora, que se faz acompanhar por seres assessores. A queda transforma o arquiteto no "Senhor Javé", o Criador caído. B001 (cap. 3) o descreve como "Arquiteto por Excelência, 'Deus' por Necessidade".
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | ← é-um |
-| Criador (Brahma/Javé/Demiurgo) | RC-041 | variação |
-| Divindades (Co-criadoras) | RC-054 | é-um |
-| Prabrajna | RC-152 | identidade prévia |
-| Criador de Padrões Dependentes | RC-208 | modo de criar |
-| Matriz Modeladora / Matriz de Cocriação | RC-210 | associado |
-| Queda do Arquiteto Universal | RC-216 | evento |
-| Consórcio de Mundos (Arquitetos Universais) | RC-538 | ← relaciona-se-a |
-| Arquitetos Universais (coletivo cocriador) | RC-539 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Javé | RC-001 | é-um | <- | - |
+| Criador (Brahma/Javé/Demiurgo) | RC-041 | variação | -> | - |
+| Divindades (Co-criadoras) | RC-054 | é-um | -> | - |
+| Prabrajna | RC-152 | relaciona-se-a | -> | texto bruto original: identidade prévia |
+| Criador de Padrões Dependentes | RC-208 | relaciona-se-a | -> | texto bruto original: modo de criar |
+| Matriz Modeladora / Matriz de Cocriação | RC-210 | associado | <-> | - |
+| Queda do Arquiteto Universal | RC-216 | relaciona-se-a | -> | consolidação: "evento" → "relaciona-se-a" |
+| Consórcio de Mundos (Arquitetos Universais) | RC-538 | relaciona-se-a | <- | - |
+| Arquitetos Universais (coletivo cocriador) | RC-539 | associado | <-> | - |
 
 ## Seres Associados
 Prabrajna/Prajapati (RC-152); Javé (RC-001); Deidade (RC-047); Divindades Excelsas (RC-206).

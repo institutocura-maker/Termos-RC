@@ -17,26 +17,26 @@ atualizado = "2026-09-13"
 Na RC, figura correlacionada a **Satã** — ser de alto escalão no drama da criação problemática (RC-167), oponente/par de Javé (RC-001) no psiquismo dos "deuses".
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | relaciona-se-a |
-| Rebelião de Lúcifer | RC-002 | associado |
-| Astralização dos Biodemos | RC-026 | associado |
-| Gron Mion | RC-067 | associado |
-| Shamb-Aha | RC-101 | associado |
-| Yel Luzbel | RC-142 | associado |
-| O Calvário de um Inocente | RC-236 | associado |
-| Hitler (figura histórica no RC) | RC-239 | ← dominado-por |
-| Eros = Vishnu / Tártaro = Shiva (correspondências) | RC-286 | ← relaciona-se-a |
-| Família Mion | RC-443 | é-um |
-| Marduk (= Ra; Anunnaki filho de Enki) | RC-460 | ← relaciona-se-a |
-| Belial (arconte; 'Satã' do livro de Jó) | RC-479 | associado |
-| Senhor Parameshthi / Brahma Parameshthi (face atual de Javé) | RC-556 | ← relaciona-se-a |
-| Relógio Messiânico | RC-765 | ← relaciona-se-a |
-| Maria Orsic (médium da Sociedade Vril) | RC-846 | associado |
-| Nicola Tesla (recebia mensagens em sânscrito) | RC-849 | associado |
-| Alexandre Magno (tirano sob influência de Lemion) | RC-850 | associado |
-| Qin Shi Huang Di (imperador chinês sob influência de Lemion) | RC-851 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Javé | RC-001 | relaciona-se-a | -> | - |
+| Rebelião de Lúcifer | RC-002 | associado | <-> | - |
+| Astralização dos Biodemos | RC-026 | associado | <-> | - |
+| Gron Mion | RC-067 | associado | <-> | - |
+| Shamb-Aha | RC-101 | associado | <-> | - |
+| Yel Luzbel | RC-142 | associado | <-> | - |
+| O Calvário de um Inocente | RC-236 | associado | <-> | - |
+| Hitler (figura histórica no RC) | RC-239 | controla | -> | consolidação: "dominado-por" → "controla"; direção invertida (forma passiva/inversa) |
+| Eros = Vishnu / Tártaro = Shiva (correspondências) | RC-286 | relaciona-se-a | <- | - |
+| Família Mion | RC-443 | é-um | -> | - |
+| Marduk (= Ra; Anunnaki filho de Enki) | RC-460 | relaciona-se-a | <- | - |
+| Belial (arconte; 'Satã' do livro de Jó) | RC-479 | associado | <-> | - |
+| Senhor Parameshthi / Brahma Parameshthi (face atual de Javé) | RC-556 | relaciona-se-a | <- | - |
+| Relógio Messiânico | RC-765 | relaciona-se-a | <- | - |
+| Maria Orsic (médium da Sociedade Vril) | RC-846 | associado | <-> | - |
+| Nicola Tesla (recebia mensagens em sânscrito) | RC-849 | associado | <-> | - |
+| Alexandre Magno (tirano sob influência de Lemion) | RC-850 | associado | <-> | - |
+| Qin Shi Huang Di (imperador chinês sob influência de Lemion) | RC-851 | associado | <-> | - |
 
 ## Fontes
 

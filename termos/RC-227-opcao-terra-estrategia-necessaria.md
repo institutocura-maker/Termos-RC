@@ -27,12 +27,12 @@ Na B033 (*O Drama Terreno de Javé*), o título do capítulo 13 — «Opção Te
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Projeto Planeta Azul | RC-090 | associado |
-| Projeto Talm | RC-091 | associado |
-| Universo Material (Bhuloka) | RC-107 | associado |
-| Observação de Sileno (Filhos do Tormento e do Acaso) | RC-228 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Projeto Planeta Azul | RC-090 | associado | <-> | - |
+| Projeto Talm | RC-091 | associado | <-> | - |
+| Universo Material (Bhuloka) | RC-107 | associado | <-> | - |
+| Observação de Sileno (Filhos do Tormento e do Acaso) | RC-228 | associado | <-> | - |
 
 ## Fontes
 

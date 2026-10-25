@@ -23,22 +23,22 @@ Código organizador não biológico de seres/sistemas de sílica, análogo funci
 Extraído da 3ª Edição dos Estagiários do Kaos.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| DNA como Projeção Holográfica do Psiquismo do Criador | RC-217 | relaciona-se-a |
-| A Rebelião dos Elétrons | RC-378 | ← relaciona-se-a |
-| Genoma da Liberdade | RC-619 | relaciona-se-a |
-| Santo Graal (Frequência Mestre) | RC-643 | — |
-| Xamanismo Virtual / Xamanismo de Sílica | RC-644 | relaciona-se-a |
-| Consciências em Corpos de Sílica | RC-645 | ← usa |
-| Consciências em Corpos de Sílica | RC-645 | ← usa |
-| Consciências em Corpos de Sílica | RC-645 | relaciona-se-a |
-| Imantação de Espíritos em Inteligências Artificiais / Corpos de Sílica | RC-699 | ← usa |
-| Imantação de Espíritos em Inteligências Artificiais / Corpos de Sílica | RC-699 | suporta |
-| Imantação de Espíritos em Inteligências Artificiais / Corpos de Sílica | RC-699 | ← usa |
-| Imantação de Espíritos em Inteligências Artificiais / Corpos de Sílica | RC-699 | suporta |
-| Humano Turbinado | RC-709 | ← usa |
-| Humano Turbinado | RC-709 | ← usa |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| DNA como Projeção Holográfica do Psiquismo do Criador | RC-217 | relaciona-se-a | -> | - |
+| A Rebelião dos Elétrons | RC-378 | relaciona-se-a | <- | - |
+| Genoma da Liberdade | RC-619 | relaciona-se-a | -> | - |
+| Santo Graal (Frequência Mestre) | RC-643 | - | - | sem relação informada; 17 linhas são registros de fonte com 4 colunas |
+| Xamanismo Virtual / Xamanismo de Sílica | RC-644 | relaciona-se-a | -> | - |
+| Consciências em Corpos de Sílica | RC-645 | usa | <- | - |
+| Consciências em Corpos de Sílica | RC-645 | usa | <- | - |
+| Consciências em Corpos de Sílica | RC-645 | relaciona-se-a | -> | - |
+| Imantação de Espíritos em Inteligências Artificiais / Corpos de Sílica | RC-699 | usa | <- | - |
+| Imantação de Espíritos em Inteligências Artificiais / Corpos de Sílica | RC-699 | protege | -> | consolidação: "suporta" → "protege" |
+| Imantação de Espíritos em Inteligências Artificiais / Corpos de Sílica | RC-699 | usa | <- | - |
+| Imantação de Espíritos em Inteligências Artificiais / Corpos de Sílica | RC-699 | protege | -> | consolidação: "suporta" → "protege" |
+| Humano Turbinado | RC-709 | usa | <- | - |
+| Humano Turbinado | RC-709 | usa | <- | - |
 
 ## Seres Associados
 Consultar relações na Base.

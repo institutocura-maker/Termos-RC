@@ -30,11 +30,11 @@ E (Aula 02), sobre o batismo como necessidade:
 > «ele poderia ter iniciado seu ministério público, sem passar pelas mãos de João Batista pelo batismo de João Batista. Existiam outras maneiras.» — P2023-12-25-02 · `original.txt` L6 · reanexado à fonte na U101 (A5); o trecho legado não trazia aparelho de linha nem era verificável byte a byte.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Jesus | RC-072 | associado |
-| Agenda Espiritual | RC-752 | associado |
-| Essênios (seita judaica puritana; criadores de João Batista) | RC-862 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Jesus | RC-072 | associado | <-> | - |
+| Agenda Espiritual | RC-752 | associado | <-> | - |
+| Essênios (seita judaica puritana; criadores de João Batista) | RC-862 | associado | <-> | - |
 
 - Jesus — RC-072;
 - Essênios — RC-862;

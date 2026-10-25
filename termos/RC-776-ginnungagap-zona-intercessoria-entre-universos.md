@@ -19,11 +19,11 @@ Zona intercessória entre o universo material e o antimaterial, onde estão apri
 Criado por autorização excepcional do curador (Devolutiva Trilogia TALM, O-3 — RC-776) a partir do ART-2025-08-03; o termo já era citado em RC-080 (Mensagem Talm) sem código próprio.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Fenvans | RC-064 | relaciona-se-a |
-| Mensagem Talm | RC-080 | relaciona-se-a |
-| Nidana (ovo cósmico) | RC-154 | relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Fenvans | RC-064 | relaciona-se-a | -> | - |
+| Mensagem Talm | RC-080 | relaciona-se-a | -> | - |
+| Nidana (ovo cósmico) | RC-154 | relaciona-se-a | -> | - |
 
 ## Fontes
 | Obra/palestra | Localização | Tipo |

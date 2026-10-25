@@ -26,15 +26,15 @@ atualizado = "2026-10-23"
 - **Superação:** a superação do padrão predatório é parte da condição humana e do Quarto Logos (RC-092).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | relaciona-se-a |
-| Anunnaki | RC-024 | relaciona-se-a |
-| Criaturas-ferramenta | RC-164 | relaciona-se-a |
-| Criaturas-ferramenta | RC-449 | relaciona-se-a |
-| Enki (Anunnaki; inoculou o gene FOXP2) | RC-486 | relaciona-se-a |
-| Enlil (deus sumério, par de Enki) | RC-487 | relaciona-se-a |
-| Nefilins (= Anunnaki) | RC-488 | relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Javé | RC-001 | relaciona-se-a | -> | - |
+| Anunnaki | RC-024 | relaciona-se-a | -> | - |
+| Criaturas-ferramenta | RC-164 | relaciona-se-a | -> | - |
+| Criaturas-ferramenta | RC-449 | relaciona-se-a | -> | - |
+| Enki (Anunnaki; inoculou o gene FOXP2) | RC-486 | relaciona-se-a | -> | - |
+| Enlil (deus sumério, par de Enki) | RC-487 | relaciona-se-a | -> | - |
+| Nefilins (= Anunnaki) | RC-488 | relaciona-se-a | -> | - |
 
 ## Ampliação — OIDR26-01 (Onda incremental dry-run — Anunnaki, genética e humanidade (derivados normalizados))
 

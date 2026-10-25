@@ -27,12 +27,12 @@ Na B017 (*Terra Atlantis: O Sinal de Land's End*), o título do capítulo 7 — 
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Biodemos | RC-036 | associado |
-| Nephilins | RC-082 | associado |
-| Val (Família Val) | RC-109 | descoberto-por |
-| Biodemol | RC-186 | revela |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Biodemos | RC-036 | associado | <-> | - |
+| Nephilins | RC-082 | associado | <-> | - |
+| Val (Família Val) | RC-109 | observa | <- | consolidação: "descoberto-por" → "observa"; direção invertida (forma passiva/inversa) |
+| Biodemol | RC-186 | explica | -> | consolidação: "revela" → "explica" |
 
 ## Fontes
 

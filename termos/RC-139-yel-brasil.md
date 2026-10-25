@@ -27,10 +27,10 @@ Biodemo da Família Yel que ficou conhecido posteriormente como o «Deus Bress»
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Deidade (Pai-Mãe Amantíssimo / Brahman) | RC-047 | associado |
-| Yel (Família Yel) | RC-136 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Deidade (Pai-Mãe Amantíssimo / Brahman) | RC-047 | associado | <-> | - |
+| Yel (Família Yel) | RC-136 | associado | <-> | - |
 
 ## Fontes
 

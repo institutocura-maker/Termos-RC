@@ -17,13 +17,13 @@ atualizado = "2026-08-19"
 Isaac Luria (séc. XVI, Safed) — cabalista que sistematizou o conceito do Tzimtzum (contração divina) e a Cabala lurianica.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Tzimtzum | RC-008 | relaciona-se-a |
-| Kether (Javé na Cabala) | RC-261 | associado |
-| Daath (a Criação na Cabala) | RC-262 | associado |
-| Sefirot / Árvore da Vida | RC-263 | ← relaciona-se-a |
-| Sepher ha-Zohar (e Shimon Bar Yochai) | RC-266 | relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Tzimtzum | RC-008 | relaciona-se-a | -> | - |
+| Kether (Javé na Cabala) | RC-261 | associado | <-> | - |
+| Daath (a Criação na Cabala) | RC-262 | associado | <-> | - |
+| Sefirot / Árvore da Vida | RC-263 | relaciona-se-a | <- | - |
+| Sepher ha-Zohar (e Shimon Bar Yochai) | RC-266 | relaciona-se-a | -> | - |
 
 ## Fontes
 

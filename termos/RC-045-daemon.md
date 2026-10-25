@@ -27,11 +27,11 @@ Significa «divindade» ou «espírito». A palavra se originou com os gregos na
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Demos | RC-049 | associado |
-| Demônios | RC-050 | associado |
-| Deuses (os dois tipos) | RC-053 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Demos | RC-049 | associado | <-> | - |
+| Demônios | RC-050 | associado | <-> | - |
+| Deuses (os dois tipos) | RC-053 | associado | <-> | - |
 
 ## Fontes
 

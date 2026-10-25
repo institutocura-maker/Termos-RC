@@ -23,14 +23,14 @@ Denominação dada por Jan Val Ellam ao **"Jogo" executado por algumas Divindade
 A metáfora do xadrez estrutura toda a narrativa de B024: a "Epopeia da Consciência Espiritual" por trás dos Agentes do Jogo. A religião substituiu a história hindu e a fé sepultou a investigação sobre esse passado — "a 'Caverna de Platão' jamais estivera tão povoada de seres humanos, enquanto, lá fora, o tal 'Jogo' continuava a acontecer, visto por 'Outros Olhos'" (B024, Introdução).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Lila | RC-075 | relaciona-se-a |
-| Trimurti | RC-104 | envolve |
-| Agentes da Vida Universal | RC-148 | jogadores (equipes) |
-| Prabrajna | RC-152 | iniciador |
-| Karuna | RC-165 | estratégia (modo de agir) |
-| Criação Indevida (Obra indevida) | RC-167 | tabuleiro |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Lila | RC-075 | relaciona-se-a | -> | - |
+| Trimurti | RC-104 | envolve | -> | - |
+| Agentes da Vida Universal | RC-148 | relaciona-se-a | -> | qualificador preservado: equipes; consolidação: "jogadores" → "relaciona-se-a" |
+| Prabrajna | RC-152 | origina | -> | consolidação: "iniciador" → "origina" |
+| Karuna | RC-165 | relaciona-se-a | -> | qualificador preservado: modo de agir; consolidação: "estratégia" → "relaciona-se-a" |
+| Criação Indevida (Obra indevida) | RC-167 | relaciona-se-a | -> | consolidação: "tabuleiro" → "relaciona-se-a" |
 
 ## Seres Associados
 Brahma (RC-037); Vishnu (RC-135); Shiva (RC-102).

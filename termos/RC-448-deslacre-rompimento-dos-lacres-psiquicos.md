@@ -24,14 +24,14 @@ atualizado = "2026-08-25"
 No Livro 1 (B057), Yel Luzbel descreve a origem em si: a "vibração inusitada" causou "mutação no meu código genético" que fez "abrisse certos 'lacres mentais' em mim mesmo" (p. 19). No Livro 2 (B058), o deslacre generaliza-se: a SINTESE registra "depois de um certo **deslacre**, passaram a assinalar as mentes dos considerados **Rebelados de Capela**" (p. 1); Yel nota em si "algum 'bloqueio mental' relativo ao meu modo de proceder se havia **'rompido'**, e pude perceber 'falhas' na realidade" (p. 43); e o "Primeiro em Comando" dos Mion nomeia o grau máximo: "o **alto patamar de 'deslacre' que nós acreditamos que você ostenta**" (p. 73). Na malha, a relação prévia `RC-448 relaciona-se-a RC-142` (B057: "Yel Luzbel foi o 1º a abrir lacres mentais") já registrava o vínculo.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Biodemos | RC-036 | afeta (o condicionamento rompido) |
-| Yel Luzbel | RC-142 | relaciona-se-a |
-| Biocoletivos | RC-445 | relaciona-se-a (coletivo → individual) |
-| Protocolo Mental (padrões organizadores da mente) | RC-517 | associado |
-| Infecção mental / contágio vibratório | RC-520 | ← relaciona-se-a |
-| Xamanismo Cósmico (comunicação e deslacre) | RC-577 | ← relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Biodemos | RC-036 | causa | -> | qualificador preservado: o condicionamento rompido; consolidação: "afeta" → "causa" |
+| Yel Luzbel | RC-142 | relaciona-se-a | -> | - |
+| Biocoletivos | RC-445 | relaciona-se-a | -> | qualificador preservado: coletivo → individual |
+| Protocolo Mental (padrões organizadores da mente) | RC-517 | associado | <-> | - |
+| Infecção mental / contágio vibratório | RC-520 | relaciona-se-a | <- | - |
+| Xamanismo Cósmico (comunicação e deslacre) | RC-577 | relaciona-se-a | <- | - |
 
 ## Seres Associados
 Yel Luzbel (RC-078/RC-142, o inaugurador); os "Rebelados de Capela"; Len Mion (RC-074).

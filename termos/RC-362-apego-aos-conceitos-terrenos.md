@@ -27,12 +27,12 @@ Título do capítulo 10 de B005 (grafado «TERRESTRES» no corpo — ver o Hist�
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Revelação Cósmica (conceito) | RC-094 | associado |
-| Seres Terrenos (Homo Sapiens) | RC-099 | associado |
-| Liberdade Mental (premissa do Quarto Logos) | RC-253 | opõe-se-a |
-| Antropocentrismo (crítica) | RC-361 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Revelação Cósmica (conceito) | RC-094 | associado | <-> | - |
+| Seres Terrenos (Homo Sapiens) | RC-099 | associado | <-> | - |
+| Liberdade Mental (premissa do Quarto Logos) | RC-253 | opõe-se-a | -> | - |
+| Antropocentrismo (crítica) | RC-361 | associado | <-> | - |
 
 ## Fontes
 

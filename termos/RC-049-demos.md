@@ -25,34 +25,34 @@ Também chamados de "demônios" ou "daemon" (cultura grega), são **seres extraf
 Os Demos habitam o universo antimaterial (Brahmaloka) e são a matéria-prima das mitologias humanas (deuses gregos, nórdicos etc.). A "cultura demo" é a cultura dessas moradas do universo paralelo. A classe demo é fundamental para entender a categoria "Seres dos Portais" e os deuses mitológicos.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Adhybutha | RC-015 | associado |
-| Anjos clones | RC-019 | opõe-se-a (outra classe) |
-| Antlar | RC-022 | associado |
-| Biodemos | RC-036 | associado |
-| Brahmaloka | RC-038 | ocorre-em |
-| Cultura Demo | RC-044 | tema-relacionado |
-| Daemon | RC-045 | etimologia |
-| Demônios | RC-050 | variação (conceito histórico) |
-| Deuses (os dois tipos) | RC-053 | inclui |
-| Seres Extrafísicos | RC-097 | é-um |
-| Cultura Demodhármica | RC-183 | associado |
-| Trava-demo | RC-184 | associado |
-| Teurgistas | RC-235 | associado |
-| Seres dos Portais | RC-241 | ← é-um |
-| Decifra-me ou Devoro (hábito demo) | RC-316 | ← hábito-de |
-| Dharma e Castas (origem demo) | RC-322 | ← aplica-se-a |
-| Kvasir e Freya (Vanir/Aesir) | RC-396 | associado |
-| Thuata de Dannan | RC-398 | ← é-um |
-| Halos de Poder (demos) | RC-402 | ← estabiliza |
-| Força de Atração Sexual (anterior à polaridade) | RC-433 | ← surgiu-em |
-| Homoafetividade (resquício da força original) | RC-434 | associado |
-| Mistérios Dionisíacos | RC-441 | associado |
-| Bebida dos Deuses (Ambrosia/Amrita/Soma) | RC-466 | associado |
-| Corpo Daiva / Corpo Demoníaco de Plasma | RC-630 | associado |
-| Aristocracia Olimpiana e Monarquias Terrestres | RC-736 | associado |
-| Dessensibilização da Condição Humana | RC-746 | ← relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Adhybutha | RC-015 | associado | <-> | - |
+| Anjos clones | RC-019 | opõe-se-a | -> | qualificador preservado: outra classe |
+| Antlar | RC-022 | associado | <-> | - |
+| Biodemos | RC-036 | associado | <-> | - |
+| Brahmaloka | RC-038 | contexto | -> | consolidação: "ocorre-em" → "contexto" |
+| Cultura Demo | RC-044 | relaciona-se-a | -> | consolidação: "tema-relacionado" → "relaciona-se-a" |
+| Daemon | RC-045 | relaciona-se-a | -> | consolidação: "etimologia" → "relaciona-se-a" |
+| Demônios | RC-050 | variação | -> | qualificador preservado: conceito histórico |
+| Deuses (os dois tipos) | RC-053 | inclui | -> | - |
+| Seres Extrafísicos | RC-097 | é-um | -> | - |
+| Cultura Demodhármica | RC-183 | associado | <-> | - |
+| Trava-demo | RC-184 | associado | <-> | - |
+| Teurgistas | RC-235 | associado | <-> | - |
+| Seres dos Portais | RC-241 | é-um | <- | - |
+| Decifra-me ou Devoro (hábito demo) | RC-316 | relaciona-se-a | <- | consolidação: "hábito-de" → "relaciona-se-a" |
+| Dharma e Castas (origem demo) | RC-322 | usa | <- | consolidação: "aplica-se-a" → "usa" |
+| Kvasir e Freya (Vanir/Aesir) | RC-396 | associado | <-> | - |
+| Thuata de Dannan | RC-398 | é-um | <- | - |
+| Halos de Poder (demos) | RC-402 | protege | <- | consolidação: "estabiliza" → "protege" |
+| Força de Atração Sexual (anterior à polaridade) | RC-433 | contexto | <- | consolidação: "surgiu-em" → "contexto" |
+| Homoafetividade (resquício da força original) | RC-434 | associado | <-> | - |
+| Mistérios Dionisíacos | RC-441 | associado | <-> | - |
+| Bebida dos Deuses (Ambrosia/Amrita/Soma) | RC-466 | associado | <-> | - |
+| Corpo Daiva / Corpo Demoníaco de Plasma | RC-630 | associado | <-> | - |
+| Aristocracia Olimpiana e Monarquias Terrestres | RC-736 | associado | <-> | - |
+| Dessensibilização da Condição Humana | RC-746 | relaciona-se-a | <- | - |
 
 ## Seres Associados
 Zeus (RC-145); Seres dos Portais (mitologia grega/nórdica); Vishnu e Shiva (formas demo geradas pelas consciências Adhydaiva — ver RC-014).

@@ -24,20 +24,20 @@ Tese (leitura do autor, palestra **P2018-02-24 — Pandora e a Estratégia dos A
 Aparece em **P2018-02-24**, a palestra **mais antiga** do tema Pandora (Fev/2018). Contexto: depois que os avatares destruíram o mal centralizado 2 vezes (Moisés, Krishna), as trevas resolveram **espalhar o mal em todos os corações humanos** — o que obrigaria os avatares seguintes a propor a luta íntima (Saibaba, Jesus).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Jesus | RC-072 | é-avatar-de |
-| Shiva (Savna) | RC-102 | é-avatar-de |
-| Ulsh | RC-105 | é-efeito-colateral-de |
-| Ser-Criador fracassado (autoconfissão de Javé) | RC-422 | usa-via |
-| Mudança de Estratégia das Trevas (Centralizar → Espalhar) | RC-798 | fase-de |
-| Pandora como Oposição à Estratégia dos Avatares | RC-799 | opõe-se-a |
-| Jesus como Último Avatar (Não Mata) | RC-800 | manifesta-se-em |
-| Saibaba como Precursor de Jesus | RC-801 | paralelo-com |
-| Humanos como Cobaias dos Deuses | RC-802 | associado |
-| Budismo como Exceção (Sem Deus) | RC-803 | é-exceção-a |
-| Versão Oficial como Construção dos Seguidores | RC-804 | associado |
-| Desígnios Proféticos (profecia como instrumento de domínio e sua desconexão) | RC-858 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Jesus | RC-072 | origina | -> | consolidação: "é-avatar-de" → "origina" |
+| Shiva (Savna) | RC-102 | origina | -> | consolidação: "é-avatar-de" → "origina" |
+| Ulsh | RC-105 | causa | <- | consolidação: "é-efeito-colateral-de" → "causa"; direção invertida (forma passiva/inversa) |
+| Ser-Criador fracassado (autoconfissão de Javé) | RC-422 | usa | -> | consolidação: "usa-via" → "usa" |
+| Mudança de Estratégia das Trevas (Centralizar → Espalhar) | RC-798 | parte-de | -> | consolidação: "fase-de" → "parte-de" |
+| Pandora como Oposição à Estratégia dos Avatares | RC-799 | opõe-se-a | -> | - |
+| Jesus como Último Avatar (Não Mata) | RC-800 | representa | -> | consolidação: "manifesta-se-em" → "representa" |
+| Saibaba como Precursor de Jesus | RC-801 | associado | <-> | consolidação: "paralelo-com" → "associado" |
+| Humanos como Cobaias dos Deuses | RC-802 | associado | <-> | - |
+| Budismo como Exceção (Sem Deus) | RC-803 | opõe-se-a | -> | consolidação: "é-exceção-a" → "opõe-se-a" |
+| Versão Oficial como Construção dos Seguidores | RC-804 | associado | <-> | - |
+| Desígnios Proféticos (profecia como instrumento de domínio e sua desconexão) | RC-858 | associado | <-> | - |
 
 ## Seres Associados
 - **Moisés** (~séc. XIII AC, bíblico)

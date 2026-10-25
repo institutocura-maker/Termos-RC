@@ -25,14 +25,14 @@ atualizado = "2026-08-13"
 No Mentalma I (B074, itens 7.2 e 13.1 — "A 'primeira versão' do psiquismo humano e a 'doença do dehatma buddhi'") e no Mentalma II (B075, cap. 1.1 — "A educação humana e a 'doença do dehatma buddhi'"), o conceito descreve o psiquismo preso à "primeira versão" — reprodução acrítica da corrente mental coletiva e das ideias impostas pela educação/crenças. O Mentalma visa emancipar o psiquismo dessa condição.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Mentalma | RC-166 | relaciona-se-a |
-| Arquivos Mentais (coleção de conceitos no psiquismo) | RC-548 | relaciona-se-a |
-| Eu Profundo (nível espiritual do Eu) | RC-553 | relaciona-se-a (antídoto) |
-| Gestão Psíquica e Memórias Complexas (Mentalma II) | RC-554 | relaciona-se-a |
-| Série Mentalma (5 livros + curso) | RC-555 | associado |
-| Camuflagem da Realidade | RC-702 | ← relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Mentalma | RC-166 | relaciona-se-a | -> | - |
+| Arquivos Mentais (coleção de conceitos no psiquismo) | RC-548 | relaciona-se-a | -> | - |
+| Eu Profundo (nível espiritual do Eu) | RC-553 | relaciona-se-a | -> | qualificador preservado: antídoto |
+| Gestão Psíquica e Memórias Complexas (Mentalma II) | RC-554 | relaciona-se-a | -> | - |
+| Série Mentalma (5 livros + curso) | RC-555 | associado | <-> | - |
+| Camuflagem da Realidade | RC-702 | relaciona-se-a | <- | - |
 
 ## Seres Associados
 Ser humano comum ("dehatma buddhi"); praticante do Mentalma (em emancipação).

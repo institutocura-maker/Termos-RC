@@ -27,12 +27,12 @@ Na B020 (*O Sorriso de Pandora*), o título do capítulo 2 — «Os Anais de uma
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Pandora | RC-086 | associado |
-| Revelação Cósmica (conceito) | RC-094 | associado |
-| Zeus | RC-145 | associado |
-| Caos = Brahma = Javé (correspondência) | RC-284 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Pandora | RC-086 | associado | <-> | - |
+| Revelação Cósmica (conceito) | RC-094 | associado | <-> | - |
+| Zeus | RC-145 | associado | <-> | - |
+| Caos = Brahma = Javé (correspondência) | RC-284 | associado | <-> | - |
 
 ## Fontes
 

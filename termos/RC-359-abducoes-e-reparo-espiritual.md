@@ -24,15 +24,15 @@ A interpretação das **abduções** (1960–1990) no contexto das RC — o cap�
 Ellam pesquisou casos de abdução no interior do Nordeste (Paraíba, Rio Grande do Norte e Ceará) no final dos anos 70, junto ao pesquisador norte-americano **Bob Pratt** (autor de "UFO Danger Zone"). O capítulo reflete sobre o "possível 'porquê' daquela estranha série de ocorrências" e a função de reparo espiritual por trás dos aparentes abusos.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Revelação Cósmica (conceito) | RC-094 | contexto |
-| Seres Extraterrenos / Extraterrestres | RC-098 | realizada-por |
-| Seres Terrenos (Homo Sapiens) | RC-099 | vitimas |
-| Fator Extraterrestre (o Elo Perdido) | RC-355 | contexto |
-| Farmacopeia Ancestral Extraterrestre | RC-687 | associado |
-| Cessão Consciente do DNA Humano | RC-698 | ← distingue-se-de |
-| Cessão Consciente do DNA Humano | RC-698 | ← relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Revelação Cósmica (conceito) | RC-094 | contexto | -> | - |
+| Seres Extraterrenos / Extraterrestres | RC-098 | usa | <- | consolidação: "realizada-por" → "usa"; direção invertida (forma passiva/inversa) |
+| Seres Terrenos (Homo Sapiens) | RC-099 | danifica | -> | consolidação: "vitimas" → "danifica" |
+| Fator Extraterrestre (o Elo Perdido) | RC-355 | contexto | -> | - |
+| Farmacopeia Ancestral Extraterrestre | RC-687 | associado | <-> | - |
+| Cessão Consciente do DNA Humano | RC-698 | opõe-se-a | <- | consolidação: "distingue-se-de" → "opõe-se-a" |
+| Cessão Consciente do DNA Humano | RC-698 | relaciona-se-a | <- | - |
 
 ## Seres Associados
 Extraterrestres (RC-098); abduzidos humanos (RC-099); Bob Pratt (pesquisador).

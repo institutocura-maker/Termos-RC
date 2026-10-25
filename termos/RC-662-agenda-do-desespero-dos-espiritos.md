@@ -22,14 +22,14 @@ Forma preferida: **Agenda do Desespero dos Espíritos**.
 P2025-06-26 — 1ª Edição Estagiários do Kaos.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | associado |
-| Coleta de informações (espírito encarnado) | RC-524 | — |
-| Fatiamento de Consciência | RC-604 | — |
-| Eu Coalescente | RC-620 | — |
-| Pegadinha de Javé | RC-660 | motiva |
-| Dignidade como Critério de Consciência | RC-722 | confronta |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Javé | RC-001 | associado | <-> | - |
+| Coleta de informações (espírito encarnado) | RC-524 | - | - | sem relação informada; 17 linhas são registros de fonte com 4 colunas |
+| Fatiamento de Consciência | RC-604 | - | - | sem relação informada; 17 linhas são registros de fonte com 4 colunas |
+| Eu Coalescente | RC-620 | - | - | sem relação informada; 17 linhas são registros de fonte com 4 colunas |
+| Pegadinha de Javé | RC-660 | causa | -> | consolidação: "motiva" → "causa" |
+| Dignidade como Critério de Consciência | RC-722 | opõe-se-a | -> | consolidação: "confronta" → "opõe-se-a" |
 
 ## Seres Associados
 Consultar Base.

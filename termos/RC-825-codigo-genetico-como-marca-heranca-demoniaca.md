@@ -24,16 +24,16 @@ Tese (leitura do autor, palestra **P2019-04-14**, U0003/U0005) de que **o DNA do
 Aparece em **P2019-04-14**, U0003 e U0005. Contexto: a palestra explica que os humanos **não são apenas explorados externamente** — os demos **deixaram marcas no DNA** dos humanos. "Os nossos espíritos hoje guardam o reflexo de todas essas necessidades, ou seja, são infectados." As **necessidades biológicas** (comer, transar, defecar) são "reflexos" que o espírito humano herdou dos corpos que habitou. A humanidade precisa **aprender a se libertar** dessas marcas — seja via Mahatma Magant (libertação espiritual) ou via greve de fome (quebra do código).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | é-criador-de |
-| Trimurti | RC-104 | orquestra |
-| Agentes da Vida Universal | RC-148 | animalizou-via |
-| DNA Insubmisso / Linhagem Pandora–Eva–Noreia | RC-727 | é-complemento |
-| Padrão de Consciência Genético por Espécie | RC-807 | é-paralelo-com |
-| Alimentação por Perfume dos Humanos (Demos se Alimentam de DNA) | RC-820 | é-mecanismo-de |
-| Mahatma Magant como Libertador da Alimentação Demoníaca | RC-822 | liberta-de |
-| Greve de Fome Genética (Suicídio como Quebra do Código Demoníaco) | RC-824 | desestrutura |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Javé | RC-001 | origina | -> | consolidação: "é-criador-de" → "origina" |
+| Trimurti | RC-104 | controla | -> | consolidação: "orquestra" → "controla" |
+| Agentes da Vida Universal | RC-148 | relaciona-se-a | -> | consolidação: "animalizou-via" → "relaciona-se-a" |
+| DNA Insubmisso / Linhagem Pandora–Eva–Noreia | RC-727 | associado | <-> | consolidação: "é-complemento" → "associado" |
+| Padrão de Consciência Genético por Espécie | RC-807 | associado | <-> | consolidação: "é-paralelo-com" → "associado" |
+| Alimentação por Perfume dos Humanos (Demos se Alimentam de DNA) | RC-820 | usa | -> | consolidação: "é-mecanismo-de" → "usa" |
+| Mahatma Magant como Libertador da Alimentação Demoníaca | RC-822 | protege | -> | consolidação: "liberta-de" → "protege" |
+| Greve de Fome Genética (Suicídio como Quebra do Código Demoníaco) | RC-824 | danifica | -> | consolidação: "desestrutura" → "danifica" |
 
 ## Seres Associados
 - **Javé (RC-001)** — quem iniciou a sequência

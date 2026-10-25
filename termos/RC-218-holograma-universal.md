@@ -29,14 +29,14 @@ Com isso:
 **Origem do conteúdo da ampliação:** palestra `P2025-06-14 — PALESTRA SOBRE A QUEDA DO CRIADOR-Refatorada` (14/06/2025). Transcrição automatizada, **não conferida com o áudio**; cada aspa foi recortada do `original.txt` pelo índice de âncoras do motor e conferida byte a byte pelo portão B. Nada foi digitado de memória.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | **sem aresta** em `RELACOES`; arquivo existe |
-| DNA como Projeção Holográfica do Psiquismo do Criador | RC-217 | **sem aresta** em `RELACOES`; arquivo existe |
-| Agente Secreto do Bem | RC-219 | **sem aresta** em `RELACOES`; **sem arquivo** |
-| Primado da Informação | RC-707 | ← relaciona-se-a |
-| Primado da Informação | RC-707 | relaciona-se-a |
-| Ser Humano Não Local | RC-708 | **sem aresta** em `RELACOES`; arquivo existe |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | - | - | sem aresta em RELACOES; arquivo existe |
+| DNA como Projeção Holográfica do Psiquismo do Criador | RC-217 | - | - | sem aresta em RELACOES; arquivo existe |
+| Agente Secreto do Bem | RC-219 | - | - | sem aresta em RELACOES; sem arquivo |
+| Primado da Informação | RC-707 | relaciona-se-a | <- | - |
+| Primado da Informação | RC-707 | relaciona-se-a | -> | - |
+| Ser Humano Não Local | RC-708 | - | - | sem aresta em RELACOES; arquivo existe |
 
 ## Fontes
 | Obra (sigla) | Título | Página | Tipo |

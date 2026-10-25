@@ -27,29 +27,29 @@ Moros teria calculado o PIA de cada ser e Anank/Anankê `[REVISAR → CHANCELA 1
 
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| DNA como Projeção Holográfica do Psiquismo do Criador | RC-217 | atua-em |
-| Favor Divino (conceito invertido) | RC-332 | relaciona-se-a |
-| Favor Divino (conceito invertido) | RC-332 | ← relaciona-se-a |
-| Elm (Moros — ser LM de Tempérion) | RC-454 | mapeado-por |
-| Elm (Moros — ser LM de Tempérion) | RC-454 | ← mapeia |
-| Moiras / Nornes / Súdices / Parcas (destino) | RC-467 | ← relaciona-se-a |
-| Herança Cósmica (padrões de existências anteriores) | RC-519 | atua-em |
-| Supercomputador Cósmico (Moros — destino) | RC-533 | associado |
-| Wyrd / Urd (Teia do Destino) | RC-658 | processado-por |
-| Wyrd / Urd (Teia do Destino) | RC-658 | ← processa |
-| Arquivos do Destino Universal | RC-714 | ← relaciona-se-a |
-| Arquivos do Destino Universal | RC-714 | registrado-em |
-| Informações Vivas | RC-715 | ← medida-por |
-| Informações Vivas | RC-715 | mede |
-| Informações Vivas | RC-715 | ← relaciona-se-a |
-| Informações Vivas | RC-715 | relaciona-se-a |
-| Buraco Negro Mental / Consciencial | RC-717 | ← relaciona-se-a |
-| Sócios do Destino / Ausência de Justiça Externa | RC-720 | submete |
-| Sócios do Destino / Ausência de Justiça Externa | RC-720 | ← envolve |
-| Ananque (estudou as necessidades dos códigos podres, com Moros; base das Nornes) | RC-777 | ← relaciona-se-a |
-| Melkor (o filho dissonante) | RC-844 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| DNA como Projeção Holográfica do Psiquismo do Criador | RC-217 | contexto | -> | consolidação: "atua-em" → "contexto" |
+| Favor Divino (conceito invertido) | RC-332 | relaciona-se-a | -> | - |
+| Favor Divino (conceito invertido) | RC-332 | relaciona-se-a | <- | - |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | observa | <- | consolidação: "mapeado-por" → "observa"; direção invertida (forma passiva/inversa) |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | observa | <- | consolidação: "mapeia" → "observa" |
+| Moiras / Nornes / Súdices / Parcas (destino) | RC-467 | relaciona-se-a | <- | - |
+| Herança Cósmica (padrões de existências anteriores) | RC-519 | contexto | -> | consolidação: "atua-em" → "contexto" |
+| Supercomputador Cósmico (Moros — destino) | RC-533 | associado | <-> | - |
+| Wyrd / Urd (Teia do Destino) | RC-658 | usa | <- | consolidação: "processado-por" → "usa"; direção invertida (forma passiva/inversa) |
+| Wyrd / Urd (Teia do Destino) | RC-658 | usa | <- | consolidação: "processa" → "usa" |
+| Arquivos do Destino Universal | RC-714 | relaciona-se-a | <- | - |
+| Arquivos do Destino Universal | RC-714 | contexto | -> | consolidação: "registrado-em" → "contexto" |
+| Informações Vivas | RC-715 | observa | -> | consolidação: "medida-por" → "observa"; direção invertida (forma passiva/inversa) |
+| Informações Vivas | RC-715 | observa | -> | consolidação: "mede" → "observa" |
+| Informações Vivas | RC-715 | relaciona-se-a | <- | - |
+| Informações Vivas | RC-715 | relaciona-se-a | -> | - |
+| Buraco Negro Mental / Consciencial | RC-717 | relaciona-se-a | <- | - |
+| Sócios do Destino / Ausência de Justiça Externa | RC-720 | controla | -> | consolidação: "submete" → "controla" |
+| Sócios do Destino / Ausência de Justiça Externa | RC-720 | envolve | <- | - |
+| Ananque (estudou as necessidades dos códigos podres, com Moros; base das Nornes) | RC-777 | relaciona-se-a | <- | - |
+| Melkor (o filho dissonante) | RC-844 | associado | <-> | - |
 
 ## Fontes
 | Fonte | Localização | Tipo |

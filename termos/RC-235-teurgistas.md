@@ -27,11 +27,11 @@ Na B039 (*Terra Atlantis: A Era Sapiens*), o título do capítulo 6, designando 
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Demos | RC-049 | associado |
-| Seres Extrafísicos | RC-097 | associado |
-| Zeus | RC-145 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Demos | RC-049 | associado | <-> | - |
+| Seres Extrafísicos | RC-097 | associado | <-> | - |
+| Zeus | RC-145 | associado | <-> | - |
 
 ## Fontes
 

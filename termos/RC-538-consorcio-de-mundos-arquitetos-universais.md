@@ -25,13 +25,13 @@ atualizado = "2026-08-13"
 Na sinopse do B019: "Ao indicar um cenário de evolução possível, o autor ainda revela seus aspectos obscuros, como a existência de um 'Consórcio de Mundos', cujos integrantes, os 'Arquitetos Universais', estão comprometidos com a obtenção da tão esperada 'Criatura Universal'." O conceito conecta-se ao "Arquiteto Universal" (RC-207) e à "Era da Criatura Universal" (RC-172).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Criatura Universal | RC-042 | relaciona-se-a |
-| Revelação Cósmica (conceito) | RC-094 | associado |
-| Arquiteto Universal | RC-207 | relaciona-se-a |
-| Arquitetos Universais (coletivo cocriador) | RC-539 | ← é-um |
-| Evolução Possível (terceira via: nem Darwin, nem deus) | RC-541 | relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Criatura Universal | RC-042 | relaciona-se-a | -> | - |
+| Revelação Cósmica (conceito) | RC-094 | associado | <-> | - |
+| Arquiteto Universal | RC-207 | relaciona-se-a | -> | - |
+| Arquitetos Universais (coletivo cocriador) | RC-539 | é-um | <- | - |
+| Evolução Possível (terceira via: nem Darwin, nem deus) | RC-541 | relaciona-se-a | -> | - |
 
 ## Seres Associados
 Arquitetos Universais (RC-539); Arquiteto Universal (RC-207); Criatura Universal (RC-042, alvo do projeto).

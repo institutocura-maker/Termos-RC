@@ -31,10 +31,10 @@ atualizado = "2026-10-23"
 - **[P2024-08-03] Proveniência:** palestra de Jan Val Ellam; transcrição STT pré-curada; devolutiva oficial do curador registrada em 2026-08-16.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Semente da racionalidade (diferencial humano) | RC-525 | é-comparada-à-emergência-de |
-| Ressonância límbica (emoções como tecnologia cósmica) | RC-529 | expressa-sociabilidade-por |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Semente da racionalidade (diferencial humano) | RC-525 | variação | -> | consolidação: "é-comparada-à-emergência-de" → "variação" |
+| Ressonância límbica (emoções como tecnologia cósmica) | RC-529 | representa | -> | consolidação: "expressa-sociabilidade-por" → "representa" |
 
 ## Citações-chave
 > «Vamos falar sobre a falência dos deuses e a destinação do lobo. O que é que significa falência dos deuses? O que é que significa destinação do lobo? Por que é que diabos o nome da palestra é esse aqui? Essas duas senhoras me pediram para falar nisso. o nome da palestra é porque elas duas me pediram. Mas» » […] « «tem tudo a ver. Inclusive eu já havia feito uma abordagem antes sobre a questão do lobo em uma certa palestra que eu fiz e apenas agora eu vou aprofundar e introduzir uma série de temas que na época eu não tive coragem de fazer,» — P2024-08-03 · `original.txt` L68 · reconstrução aprovada pelo Curador na U93; 1 palavra da fonte omitida — » […] « assinala o fosso, ao passo que » … « assinala apenas quebra de hard-wrap.

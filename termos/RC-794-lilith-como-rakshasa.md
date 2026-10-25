@@ -24,14 +24,14 @@ Tese (leitura do autor, palestra **P2025-04-06**, U0006) de que **Lilith (RC-308
 Aparece em **P2025-04-06**, U0006, em resposta à pergunta sobre Nyx. Contexto: "Lilif é alguém que surgiu aqui para apoiar a Pandora. Só que Lilif não é humana, é Rxassa. E Lilif é monstruosa. A Pandora não fazia mal a ninguém."
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Pandora | RC-086 | apoia |
-| Adhytia (nível hierárquico) | RC-308 | é-da-espécie |
-| Sequência Formativa da Racionalidade Humana | RC-785 | paralela-a |
-| Egrégora de Lilith / Noreia (Loop Mental Vivo) | RC-787 | manifesta-em |
-| Judaísmo como Destruidor do Mito de Pandora/Lilith | RC-796 | reescreveu |
-| Culto a Lilith (Transformação em Deusa Lil Babilônica) | RC-813 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Pandora | RC-086 | protege | -> | consolidação: "apoia" → "protege" |
+| Adhytia (nível hierárquico) | RC-308 | é-um | -> | consolidação: "é-da-espécie" → "é-um" |
+| Sequência Formativa da Racionalidade Humana | RC-785 | variação | -> | consolidação: "paralela-a" → "variação" |
+| Egrégora de Lilith / Noreia (Loop Mental Vivo) | RC-787 | representa | -> | consolidação: "manifesta-em" → "representa" |
+| Judaísmo como Destruidor do Mito de Pandora/Lilith | RC-796 | explica | -> | consolidação: "reescreveu" → "explica" |
+| Culto a Lilith (Transformação em Deusa Lil Babilônica) | RC-813 | associado | <-> | - |
 
 ## Seres Associados
 - **Lilith** (RC-308) — espécime Rakshasa

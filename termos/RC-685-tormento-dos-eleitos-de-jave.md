@@ -23,12 +23,12 @@ Forma preferida: Tormento dos Eleitos de Javé.
 O Mistério da Árvore da Vida e a Urdidura de Metatron.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | — |
-| Jesus | RC-072 | relaciona-se-a |
-| Teocracia da Doença de uma Divindade | RC-334 | — |
-| Linhagem dos Escolhidos (Adão, Enoch, Abraão, Jacó) | RC-424 | — |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Javé | RC-001 | - | - | sem relação informada; 17 linhas são registros de fonte com 4 colunas |
+| Jesus | RC-072 | relaciona-se-a | -> | - |
+| Teocracia da Doença de uma Divindade | RC-334 | - | - | sem relação informada; 17 linhas são registros de fonte com 4 colunas |
+| Linhagem dos Escolhidos (Adão, Enoch, Abraão, Jacó) | RC-424 | - | - | sem relação informada; 17 linhas são registros de fonte com 4 colunas |
 
 ## Seres Associados
 Consultar Base.

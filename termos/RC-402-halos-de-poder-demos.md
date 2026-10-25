@@ -27,10 +27,10 @@ Na B050 (*Guia das Eras Universais · Mapa* — infográfico «Linha do Tempo da
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Demos | RC-049 | estabiliza |
-| Revelação Cósmica (conceito) | RC-094 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Demos | RC-049 | protege | -> | consolidação: "estabiliza" → "protege" |
+| Revelação Cósmica (conceito) | RC-094 | associado | <-> | - |
 
 ## Fontes
 

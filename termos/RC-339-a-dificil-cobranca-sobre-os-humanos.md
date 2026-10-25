@@ -27,13 +27,13 @@ Título do capítulo 9 de B048 (*Favor Divino*). Designa a exigência de «submi
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Criador (Brahma/Javé/Demiurgo) | RC-041 | associado |
-| Revelação Cósmica (conceito) | RC-094 | associado |
-| Seres Terrenos (Homo Sapiens) | RC-099 | cobra |
-| Teocracia da Doença de uma Divindade | RC-334 | associado |
-| Ética da Sobrevivência de Javé | RC-336 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Criador (Brahma/Javé/Demiurgo) | RC-041 | associado | <-> | - |
+| Revelação Cósmica (conceito) | RC-094 | associado | <-> | - |
+| Seres Terrenos (Homo Sapiens) | RC-099 | relaciona-se-a | -> | consolidação: "cobra" → "relaciona-se-a" |
+| Teocracia da Doença de uma Divindade | RC-334 | associado | <-> | - |
+| Ética da Sobrevivência de Javé | RC-336 | associado | <-> | - |
 
 ## Fontes
 

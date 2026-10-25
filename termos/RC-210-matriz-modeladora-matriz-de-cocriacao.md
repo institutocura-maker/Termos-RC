@@ -24,17 +24,17 @@ A **"Fonte Primordial Formadora do Todo"** — o padrão estruturante espiritual
 A Matriz Modeladora é o que faltou ao Criador de Padrões Dependentes: o modelo que ele criou "não conseguiu estabelecer ponte de ressonância com a já referida Fonte Primordial Formadora do Todo ou Matriz Modeladora Eterna". O conceito explica por que a Criação "indevida" não conseguiu sustentar-se nos padrões perfeitos da Realidade Maior — porque o arquiteto não soube/ não pôde conectar sua obra à Matriz Modeladora.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Deidade (Pai-Mãe Amantíssimo / Brahman) | RC-047 | origem |
-| Criação Indevida (Obra indevida) | RC-167 | contexto |
-| Realidade Maior / Paraíso Original | RC-204 | depende-de |
-| Arquiteto Universal | RC-207 | não-conectada-por |
-| Criador de Padrões Dependentes | RC-208 | opõe-se-a |
-| Kundalini (no contexto RC) | RC-211 | associado |
-| Genética da Confiança | RC-243 | associado |
-| Imanência e Transcendência (Upanishades) | RC-380 | associado |
-| Simultaneidade Reversa | RC-628 | relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Deidade (Pai-Mãe Amantíssimo / Brahman) | RC-047 | origina | -> | consolidação: "origem" → "origina" |
+| Criação Indevida (Obra indevida) | RC-167 | contexto | -> | - |
+| Realidade Maior / Paraíso Original | RC-204 | requer | -> | consolidação: "depende-de" → "requer" |
+| Arquiteto Universal | RC-207 | associado | <-> | consolidação: "não-conectada-por" → "associado" |
+| Criador de Padrões Dependentes | RC-208 | opõe-se-a | -> | - |
+| Kundalini (no contexto RC) | RC-211 | associado | <-> | - |
+| Genética da Confiança | RC-243 | associado | <-> | - |
+| Imanência e Transcendência (Upanishades) | RC-380 | associado | <-> | - |
+| Simultaneidade Reversa | RC-628 | relaciona-se-a | -> | - |
 
 ## Seres Associados
 Deidade (RC-047); Divindades Excelsas (RC-206).

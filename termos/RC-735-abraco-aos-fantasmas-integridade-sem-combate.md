@@ -25,17 +25,17 @@ Proposta ética de Jan Val Ellam para reconhecer e acolher processos ou seres an
 - qualquer ser que manifeste linguagem — inclusive o exemplo final do cachorro ou do computador — deve receber resposta antes de violência preventiva.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Mentalma | RC-166 | associado |
-| Decência cósmica (ética ellâmica) | RC-508 | relaciona-se-a |
-| Protagonismo consciencial | RC-509 | relaciona-se-a |
-| Ato de Verdade / Satyagraha | RC-705 | relaciona-se-a |
-| Dignidade como Critério de Consciência | RC-722 | relaciona-se-a |
-| Ponto de Luz Humano / Ilha de Negentropia | RC-725 | relaciona-se-a |
-| Fantasmas do Passado Mitológico | RC-728 | ← estrutura-se-por |
-| Dominação Psíquica pela Devoção | RC-733 | ← enfrentada-por |
-| Livre-arbítrio | RC-938 | relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Mentalma | RC-166 | associado | <-> | - |
+| Decência cósmica (ética ellâmica) | RC-508 | relaciona-se-a | -> | - |
+| Protagonismo consciencial | RC-509 | relaciona-se-a | -> | - |
+| Ato de Verdade / Satyagraha | RC-705 | relaciona-se-a | -> | - |
+| Dignidade como Critério de Consciência | RC-722 | relaciona-se-a | -> | - |
+| Ponto de Luz Humano / Ilha de Negentropia | RC-725 | relaciona-se-a | -> | - |
+| Fantasmas do Passado Mitológico | RC-728 | inclui | <- | consolidação: "estrutura-se-por" → "inclui" |
+| Dominação Psíquica pela Devoção | RC-733 | relaciona-se-a | -> | consolidação: "enfrentada-por" → "relaciona-se-a"; direção invertida (forma passiva/inversa) |
+| Livre-arbítrio | RC-938 | relaciona-se-a | -> | - |
 
 ## Fontes
 

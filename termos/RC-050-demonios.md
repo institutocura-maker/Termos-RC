@@ -27,12 +27,12 @@ Nas Revelações Cósmicas, «demônio» (ou **demo**, do grego *daemon*) não �
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Daemon | RC-045 | associado |
-| Demos | RC-049 | associado |
-| Lúcifer (Yel Luzbel) | RC-078 | associado |
-| Seres Desalmados | RC-661 | ← distingue-se-de |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Daemon | RC-045 | associado | <-> | - |
+| Demos | RC-049 | associado | <-> | - |
+| Lúcifer (Yel Luzbel) | RC-078 | associado | <-> | - |
+| Seres Desalmados | RC-661 | opõe-se-a | <- | consolidação: "distingue-se-de" → "opõe-se-a" |
 
 ## Fontes
 

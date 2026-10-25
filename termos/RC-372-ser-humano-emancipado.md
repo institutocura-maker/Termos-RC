@@ -27,17 +27,17 @@ Na B049 (*Jesus e Nietzsche*), o título do capítulo 9 — «O Ser Humano Emanc
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Revelação Cósmica (conceito) | RC-094 | associado |
-| Seres Terrenos (Homo Sapiens) | RC-099 | associado |
-| Razão Filosófica dos Terráqueos | RC-231 | associado |
-| Liberdade Mental (premissa do Quarto Logos) | RC-253 | é-um |
-| Nietzsche como 'Amigo da Intenção de Jesus' | RC-369 | associado |
-| A Fé de Jesus e a Razão de Nietzsche | RC-371 | associado |
-| Camuflagem da Realidade | RC-702 | ← rompida-por |
-| Ser Humano Não Local | RC-708 | ← é-um |
-| As Três Escalas da Consciência (Sábio → Mago → Iniciado) | RC-762 | ← relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Revelação Cósmica (conceito) | RC-094 | associado | <-> | - |
+| Seres Terrenos (Homo Sapiens) | RC-099 | associado | <-> | - |
+| Razão Filosófica dos Terráqueos | RC-231 | associado | <-> | - |
+| Liberdade Mental (premissa do Quarto Logos) | RC-253 | é-um | -> | - |
+| Nietzsche como 'Amigo da Intenção de Jesus' | RC-369 | associado | <-> | - |
+| A Fé de Jesus e a Razão de Nietzsche | RC-371 | associado | <-> | - |
+| Camuflagem da Realidade | RC-702 | danifica | -> | consolidação: "rompida-por" → "danifica"; direção invertida (forma passiva/inversa) |
+| Ser Humano Não Local | RC-708 | é-um | <- | - |
+| As Três Escalas da Consciência (Sábio → Mago → Iniciado) | RC-762 | relaciona-se-a | <- | - |
 
 ## Fontes
 

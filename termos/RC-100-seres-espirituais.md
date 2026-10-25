@@ -27,26 +27,26 @@ Categoria que B031 reparte em dois regimes. De um lado, os seres espirituais que
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Adhyagia | RC-012 | associado |
-| Divindades (Co-criadoras) | RC-054 | associado |
-| Espiritualidade Superior | RC-059 | associado |
-| Espiritualidade Operacional | RC-060 | associado |
-| Orbe | RC-084 | associado |
-| Mônada (Mônada Espiritual) | RC-149 | associado |
-| Revelação Espiritual (Kardec) | RC-190 | associado |
-| Emissários da Espiritualidade Maior | RC-215 | associado |
-| Filhos das Estrelas | RC-222 | associado |
-| Assessoria Cósmica (equipes espirituais de Jesus) | RC-368 | associado |
-| Grupo Atlan | RC-388 | associado |
-| Espíritos comunicantes do Grupo Atlan | RC-390 | associado |
-| Mesmice Espiritual | RC-391 | ← é-um |
-| Reforma Íntima (tema do Grupo Atlan) | RC-392 | associado |
-| Reencarnação iminente da grande leva de espíritos | RC-407 | ← relaciona-se-a |
-| Kit Reencarnatório de Elétrons | RC-692 | ← acompanha |
-| Imantação de Espíritos em Inteligências Artificiais / Corpos de Sílica | RC-699 | ← envolve |
-| Budismo como Exceção (Sem Deus) | RC-803 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Adhyagia | RC-012 | associado | <-> | - |
+| Divindades (Co-criadoras) | RC-054 | associado | <-> | - |
+| Espiritualidade Superior | RC-059 | associado | <-> | - |
+| Espiritualidade Operacional | RC-060 | associado | <-> | - |
+| Orbe | RC-084 | associado | <-> | - |
+| Mônada (Mônada Espiritual) | RC-149 | associado | <-> | - |
+| Revelação Espiritual (Kardec) | RC-190 | associado | <-> | - |
+| Emissários da Espiritualidade Maior | RC-215 | associado | <-> | - |
+| Filhos das Estrelas | RC-222 | associado | <-> | - |
+| Assessoria Cósmica (equipes espirituais de Jesus) | RC-368 | associado | <-> | - |
+| Grupo Atlan | RC-388 | associado | <-> | - |
+| Espíritos comunicantes do Grupo Atlan | RC-390 | associado | <-> | - |
+| Mesmice Espiritual | RC-391 | é-um | <- | - |
+| Reforma Íntima (tema do Grupo Atlan) | RC-392 | associado | <-> | - |
+| Reencarnação iminente da grande leva de espíritos | RC-407 | relaciona-se-a | <- | - |
+| Kit Reencarnatório de Elétrons | RC-692 | associado | <-> | consolidação: "acompanha" → "associado" |
+| Imantação de Espíritos em Inteligências Artificiais / Corpos de Sílica | RC-699 | envolve | <- | - |
+| Budismo como Exceção (Sem Deus) | RC-803 | associado | <-> | - |
 
 ## Fontes
 

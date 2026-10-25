@@ -18,17 +18,17 @@ Mecanismos de bloqueio que impediriam o ser humano de despertar seus potenciais:
 
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Pandora | RC-086 | relaciona-se-a |
-| Seres Terrenos (Homo Sapiens) | RC-099 | associado |
-| Eva (figura) | RC-189 | relaciona-se-a |
-| Criaturas-ferramenta | RC-449 | relaciona-se-a |
-| Fios soltos (improviso humano × robô) | RC-564 | relaciona-se-a |
-| Xamanismo Cósmico (comunicação e deslacre) | RC-577 | ← relaciona-se-a |
-| Camuflagem da Realidade | RC-702 | ← sustentada-por |
-| Camuflagem da Realidade | RC-702 | sustenta |
-| Lei da Mente do Buda | RC-712 | relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Pandora | RC-086 | relaciona-se-a | -> | - |
+| Seres Terrenos (Homo Sapiens) | RC-099 | associado | <-> | - |
+| Eva (figura) | RC-189 | relaciona-se-a | -> | - |
+| Criaturas-ferramenta | RC-449 | relaciona-se-a | -> | - |
+| Fios soltos (improviso humano × robô) | RC-564 | relaciona-se-a | -> | - |
+| Xamanismo Cósmico (comunicação e deslacre) | RC-577 | relaciona-se-a | <- | - |
+| Camuflagem da Realidade | RC-702 | protege | -> | consolidação: "sustentada-por" → "protege"; direção invertida (forma passiva/inversa) |
+| Camuflagem da Realidade | RC-702 | protege | -> | consolidação: "sustenta" → "protege" |
+| Lei da Mente do Buda | RC-712 | relaciona-se-a | -> | - |
 
 ## Fontes
 

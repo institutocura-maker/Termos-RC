@@ -25,9 +25,9 @@ atualizado = "2026-09-12"
 - **correção aprovada pela Devolutiva ART-2025-08-01 (O-4):** o material do curador "Fornos Replicadores" confirmou que o STT "Alamaior" = **Awaymaion** — o contexto da fala (biodemos) bate exatamente com a função do forno de Vishnu. Transformada em ficha de remissão direta para RC-499.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Forno de Awaymaion (forno de Vishnu; origem de Olm) | RC-499 | erro-stt-de |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Forno de Awaymaion (forno de Vishnu; origem de Olm) | RC-499 | contexto | -> | consolidação: "erro-stt-de" → "contexto" |
 
 ## Seres Associados
 Ver RC-499 (Vishnu, Sophia, Olm, Mohen So, biodemos).

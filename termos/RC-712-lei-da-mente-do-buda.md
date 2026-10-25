@@ -27,22 +27,22 @@ Fórmula doutrinária da palestra segundo a qual o que se pensa é criado, o que
 A lei é vinculada ao diálogo interior, aos RNA mensageiros, à prática mental, ao campo akáshico e à capacidade de o eu enviar novas informações durante a recomposição da realidade.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Protocolo Mental (padrões organizadores da mente) | RC-517 | usa |
-| Disciplina dos 3As (respiração, mente, alinhamento) | RC-552 | usa |
-| Travas e lacres (mecanismos de controle do despertar) | RC-563 | ← relaciona-se-a |
-| Moksha | RC-618 | relaciona-se-a |
-| Genoma da Liberdade | RC-619 | atua-em |
-| Gestão da Sensação Pessoal | RC-633 | orienta |
-| Ishvara (Isuara — Retrato de Prabrajna Antes da Queda) | RC-691 | ← relaciona-se-a |
-| Ciência Pessoal / Doutrina da Própria Personalidade | RC-695 | orienta |
-| Postulados Quânticos como Manual Operativo | RC-703 | ← relaciona-se-a |
-| Postulados Quânticos como Manual Operativo | RC-703 | relaciona-se-a |
-| Humano Turbinado | RC-709 | ← relaciona-se-a |
-| Genes Críticos / Genes Dorminhocos | RC-710 | ← relaciona-se-a |
-| Genes Críticos / Genes Dorminhocos | RC-710 | relaciona-se-a |
-| Taumaturgia Genético-Química | RC-713 | ← distingue-se-de |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Protocolo Mental (padrões organizadores da mente) | RC-517 | usa | -> | - |
+| Disciplina dos 3As (respiração, mente, alinhamento) | RC-552 | usa | -> | - |
+| Travas e lacres (mecanismos de controle do despertar) | RC-563 | relaciona-se-a | <- | - |
+| Moksha | RC-618 | relaciona-se-a | -> | - |
+| Genoma da Liberdade | RC-619 | contexto | -> | consolidação: "atua-em" → "contexto" |
+| Gestão da Sensação Pessoal | RC-633 | controla | -> | consolidação: "orienta" → "controla" |
+| Ishvara (Isuara — Retrato de Prabrajna Antes da Queda) | RC-691 | relaciona-se-a | <- | - |
+| Ciência Pessoal / Doutrina da Própria Personalidade | RC-695 | controla | -> | consolidação: "orienta" → "controla" |
+| Postulados Quânticos como Manual Operativo | RC-703 | relaciona-se-a | <- | - |
+| Postulados Quânticos como Manual Operativo | RC-703 | relaciona-se-a | -> | - |
+| Humano Turbinado | RC-709 | relaciona-se-a | <- | - |
+| Genes Críticos / Genes Dorminhocos | RC-710 | relaciona-se-a | <- | - |
+| Genes Críticos / Genes Dorminhocos | RC-710 | relaciona-se-a | -> | - |
+| Taumaturgia Genético-Química | RC-713 | opõe-se-a | <- | consolidação: "distingue-se-de" → "opõe-se-a" |
 
 ## Fontes
 | Fonte | Localização | Tipo |

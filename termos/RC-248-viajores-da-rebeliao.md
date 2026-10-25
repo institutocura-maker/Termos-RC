@@ -27,14 +27,14 @@ Na B015, seres que «a princípio, não se alinharam à rebelião de Lúcifer, m
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Rebelião de Lúcifer | RC-002 | associado |
-| Lúcifer (Yel Luzbel) | RC-078 | associado |
-| Viajores | RC-134 | associado-a |
-| Zont En Drel 29 | RC-147 | associado |
-| Expulsão dos Viajores (decreto do Criador) | RC-249 | associado |
-| Mundo das Águas | RC-250 | ← habitado-por |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Rebelião de Lúcifer | RC-002 | associado | <-> | - |
+| Lúcifer (Yel Luzbel) | RC-078 | associado | <-> | - |
+| Viajores | RC-134 | associado | <-> | - |
+| Zont En Drel 29 | RC-147 | associado | <-> | - |
+| Expulsão dos Viajores (decreto do Criador) | RC-249 | associado | <-> | - |
+| Mundo das Águas | RC-250 | contexto | -> | consolidação: "habitado-por" → "contexto"; direção invertida (forma passiva/inversa) |
 
 ## Fontes
 

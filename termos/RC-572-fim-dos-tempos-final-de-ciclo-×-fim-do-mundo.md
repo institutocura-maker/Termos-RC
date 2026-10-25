@@ -24,13 +24,13 @@ Distinção entre o encerramento de uma época, ciclo ou regime temporal e a des
 A palestra critica a transformação de calendários cíclicos e tradições antigas em anúncios modernos de fim do mundo.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Fenômenos Denunciadores do Fim | RC-314 | relaciona-se-a |
-| Ano de 2012 como Divisor de Ciclos | RC-571 | explica |
-| Baktun 13 | RC-576 | ← relaciona-se-a |
-| Fim do Experimento Humano | RC-578 | distingue-se-de |
-| Fim do Experimento Humano | RC-578 | ← relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Fenômenos Denunciadores do Fim | RC-314 | relaciona-se-a | -> | - |
+| Ano de 2012 como Divisor de Ciclos | RC-571 | explica | -> | - |
+| Baktun 13 | RC-576 | relaciona-se-a | <- | - |
+| Fim do Experimento Humano | RC-578 | opõe-se-a | -> | consolidação: "distingue-se-de" → "opõe-se-a" |
+| Fim do Experimento Humano | RC-578 | relaciona-se-a | <- | - |
 
 ## Seres Associados
 —

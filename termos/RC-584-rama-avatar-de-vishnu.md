@@ -24,15 +24,15 @@ Avatar de Vishnu apresentado como antagonista de Ravana e personagem central do 
 A palestra situa Rama na segunda era equinocial e o relaciona à reorganização de Kshatriyas e Brahmanes.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Vishnu (Mavatna) | RC-135 | é-um |
-| Krishna (avatar de Vishnu/Shiva) | RC-414 | ← relaciona-se-a |
-| Ravana | RC-582 | ← opõe-se-a |
-| Ravana | RC-582 | opõe-se-a |
-| Ravana | RC-582 | relaciona-se-a |
-| Mahabharata | RC-593 | relaciona-se-a |
-| Geração Regenerada de Brahma | RC-696 | ← relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Vishnu (Mavatna) | RC-135 | é-um | -> | - |
+| Krishna (avatar de Vishnu/Shiva) | RC-414 | relaciona-se-a | <- | - |
+| Ravana | RC-582 | opõe-se-a | <- | - |
+| Ravana | RC-582 | opõe-se-a | -> | - |
+| Ravana | RC-582 | relaciona-se-a | -> | - |
+| Mahabharata | RC-593 | relaciona-se-a | -> | - |
+| Geração Regenerada de Brahma | RC-696 | relaciona-se-a | <- | - |
 
 ## Seres Associados
 Vishnu (Mavatna) (RC-135); Ravana (RC-582)

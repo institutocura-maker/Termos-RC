@@ -29,12 +29,12 @@ Com isso:
 **Origem do conteúdo da ampliação:** palestra `P2012-02-19 — Xadrez Cósmico de Brahma, Vishnu e Shiva` (19/02/2012). Transcrição automatizada, **não conferida com o áudio**; cada aspa foi recortada do `original.txt` pelo índice de âncoras do motor e conferida byte a byte pelo portão B. Nada foi digitado de memória.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | **sem aresta** em `RELACOES`; arquivo existe |
-| Brahma (Brajna) | RC-037 | **sem aresta** em `RELACOES`; arquivo existe |
-| Deidade (Pai-Mãe Amantíssimo / Brahman) | RC-047 | **sem aresta** em `RELACOES`; arquivo existe |
-| Pandemia de Buraco Branco que Traga (Javé Tragado pela Criação) | RC-809 | **sem aresta** em `RELACOES`; arquivo existe |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Javé | RC-001 | - | - | sem aresta em RELACOES; arquivo existe |
+| Brahma (Brajna) | RC-037 | - | - | sem aresta em RELACOES; arquivo existe |
+| Deidade (Pai-Mãe Amantíssimo / Brahman) | RC-047 | - | - | sem aresta em RELACOES; arquivo existe |
+| Pandemia de Buraco Branco que Traga (Javé Tragado pela Criação) | RC-809 | - | - | sem aresta em RELACOES; arquivo existe |
 
 
 ## Ampliação — OIDR26-03 (Onda incremental dry-run — Cosmogonia e história cósmica (derivados normalizados))

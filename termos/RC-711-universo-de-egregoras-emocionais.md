@@ -35,22 +35,22 @@ Formações alimentadas pela repetição de emoções e sentimentos associados a
 
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Big Data Cósmico | RC-194 | relaciona-se-a |
-| Ressonância Mórfica (agente da rebelião) | RC-381 | ← relaciona-se-a |
-| Egrégora (circuito dos elétrons rebeldes) | RC-385 | relaciona-se-a |
-| Decência cósmica (ética ellâmica) | RC-508 | associado |
-| Protocolo Mental (padrões organizadores da mente) | RC-517 | usa |
-| Infecção mental / contágio vibratório | RC-520 | relaciona-se-a |
-| Vampirismo consciencial | RC-523 | relaciona-se-a |
-| Ressonância límbica (emoções como tecnologia cósmica) | RC-529 | condensa |
-| Arquivos Mentais (coleção de conceitos no psiquismo) | RC-548 | usa |
-| Camuflagem da Realidade | RC-702 | reforça |
-| Camuflagem da Realidade | RC-702 | ← relaciona-se-a |
-| Camuflagem da Realidade | RC-702 | relaciona-se-a |
-| Formas-Pensamento e Formas-Sentimento | RC-724 | ← armazenado-em |
-| Formas-Pensamento e Formas-Sentimento | RC-724 | ← armazenado-em |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Big Data Cósmico | RC-194 | relaciona-se-a | -> | - |
+| Ressonância Mórfica (agente da rebelião) | RC-381 | relaciona-se-a | <- | - |
+| Egrégora (circuito dos elétrons rebeldes) | RC-385 | relaciona-se-a | -> | - |
+| Decência cósmica (ética ellâmica) | RC-508 | associado | <-> | - |
+| Protocolo Mental (padrões organizadores da mente) | RC-517 | usa | -> | - |
+| Infecção mental / contágio vibratório | RC-520 | relaciona-se-a | -> | - |
+| Vampirismo consciencial | RC-523 | relaciona-se-a | -> | - |
+| Ressonância límbica (emoções como tecnologia cósmica) | RC-529 | inclui | -> | consolidação: "condensa" → "inclui" |
+| Arquivos Mentais (coleção de conceitos no psiquismo) | RC-548 | usa | -> | - |
+| Camuflagem da Realidade | RC-702 | causa | -> | consolidação: "reforça" → "causa" |
+| Camuflagem da Realidade | RC-702 | relaciona-se-a | <- | - |
+| Camuflagem da Realidade | RC-702 | relaciona-se-a | -> | - |
+| Formas-Pensamento e Formas-Sentimento | RC-724 | contexto | <- | consolidação: "armazenado-em" → "contexto" |
+| Formas-Pensamento e Formas-Sentimento | RC-724 | contexto | <- | consolidação: "armazenado-em" → "contexto" |
 
 ## Fontes
 | Fonte | Localização | Tipo |

@@ -24,15 +24,15 @@ Ser criado por Vishnu como personificação do desejo despertado nos deuses dian
 Surge após a externalização da cólera: o desejo coletivo dos deuses de levar a Grande Deusa para suas lokas é personificado em Kama.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Vishnu (Mavatna) | RC-135 | criado-por |
-| Eros = Vishnu / Tártaro = Shiva (correspondências) | RC-286 | relaciona-se-a |
-| Deva / Aurora (A Grande Deusa) | RC-475 | relaciona-se-a |
-| Deva / Aurora (A Grande Deusa) | RC-475 | ← relaciona-se-a |
-| Nyx | RC-621 | relaciona-se-a |
-| Princípio da Externalização (criação divina sem sexualidade) | RC-768 | ← relaciona-se-a |
-| Corpos Fenvã (terceira forma de vida do universo vizinho) | RC-769 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Vishnu (Mavatna) | RC-135 | origina | <- | consolidação: "criado-por" → "origina"; direção invertida (forma passiva/inversa) |
+| Eros = Vishnu / Tártaro = Shiva (correspondências) | RC-286 | relaciona-se-a | -> | - |
+| Deva / Aurora (A Grande Deusa) | RC-475 | relaciona-se-a | -> | - |
+| Deva / Aurora (A Grande Deusa) | RC-475 | relaciona-se-a | <- | - |
+| Nyx | RC-621 | relaciona-se-a | -> | - |
+| Princípio da Externalização (criação divina sem sexualidade) | RC-768 | relaciona-se-a | <- | - |
+| Corpos Fenvã (terceira forma de vida do universo vizinho) | RC-769 | associado | <-> | - |
 
 ## Seres Associados
 Consultar relações acima.

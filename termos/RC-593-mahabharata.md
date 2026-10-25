@@ -24,16 +24,16 @@ atualizado = "2026-10-23"
 É colocado na quarta era equinocial da cronologia apresentada.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Trimurti | RC-104 | envolve |
-| Eras Equinociais (ciclos de aproximadamente 5.200 anos) | RC-568 | associado |
-| Ravana | RC-582 | associado |
-| Rama (avatar de Vishnu) | RC-584 | relaciona-se-a |
-| Vyasa | RC-585 | ← relaciona-se-a |
-| Vyasa | RC-585 | associado-a |
-| Rishis | RC-586 | ← relaciona-se-a |
-| Rishis | RC-586 | envolve |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Trimurti | RC-104 | envolve | -> | - |
+| Eras Equinociais (ciclos de aproximadamente 5.200 anos) | RC-568 | associado | <-> | - |
+| Ravana | RC-582 | associado | <-> | - |
+| Rama (avatar de Vishnu) | RC-584 | relaciona-se-a | -> | - |
+| Vyasa | RC-585 | relaciona-se-a | <- | - |
+| Vyasa | RC-585 | associado | <-> | - |
+| Rishis | RC-586 | relaciona-se-a | <- | - |
+| Rishis | RC-586 | envolve | -> | - |
 
 ## Seres Associados
 Vyasa (RC-585); Rishis (RC-586); Rama (avatar de Vishnu) (RC-584)

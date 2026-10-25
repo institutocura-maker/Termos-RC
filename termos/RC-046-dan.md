@@ -25,12 +25,12 @@ atualizado = "2026-08-29"
 Termo do universo capelino da RC (glossário B031; presente também em B058). No B057: "Nasci no longínquo sistema solar de Capela. **Fui urdido numa grande nave-laboratório, como os demais membros das famílias de capelinos que também existiam por lá**" (p. 15); e "levei-as para o conhecimento dos **seres que administravam o mundo chamado 'Dan', no qual eu nasci**, e todos levaram um grande susto e não conseguiram responder-me a nenhuma delas" (p. 27). A urdidura em nave-laboratório (em vez de nascimento planetário comum) é traço distintivo da narrativa psicografada.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Biodemos | RC-036 | associado |
-| Capela (Sistema) | RC-039 | ocorre-em (mundo do sistema) |
-| Mastlans Phisosferas / Luciferianas | RC-079 | relaciona-se-a (relação prévia na malha) |
-| Yel (Família Yel) | RC-136 | relaciona-se-a (mundo de urdidura) |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Biodemos | RC-036 | associado | <-> | - |
+| Capela (Sistema) | RC-039 | contexto | -> | qualificador preservado: mundo do sistema; consolidação: "ocorre-em" → "contexto" |
+| Mastlans Phisosferas / Luciferianas | RC-079 | relaciona-se-a | -> | qualificador preservado: relação prévia na malha |
+| Yel (Família Yel) | RC-136 | relaciona-se-a | -> | qualificador preservado: mundo de urdidura |
 
 ## Seres Associados
 Yel Luzbel (RC-078, nascido em Dan); os administradores de Dan (seres anônimos da narrativa); Sophia (RC-009, criador das famílias).

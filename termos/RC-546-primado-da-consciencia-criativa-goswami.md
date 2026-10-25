@@ -27,12 +27,12 @@ Na B019 (*Nem Deus, nem Javé, nem Darwin*), a tese de que a **consciência** �
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Evolução Possível (terceira via: nem Darwin, nem deus) | RC-541 | relaciona-se-a |
-| Evolução Criativa (hipótese consciencial) | RC-547 | ← relaciona-se-a |
-| Postulados Quânticos como Manual Operativo | RC-703 | ← relaciona-se-a |
-| Primado da Informação | RC-707 | ← relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Evolução Possível (terceira via: nem Darwin, nem deus) | RC-541 | relaciona-se-a | -> | - |
+| Evolução Criativa (hipótese consciencial) | RC-547 | relaciona-se-a | <- | - |
+| Postulados Quânticos como Manual Operativo | RC-703 | relaciona-se-a | <- | - |
+| Primado da Informação | RC-707 | relaciona-se-a | <- | - |
 
 ## Fontes
 

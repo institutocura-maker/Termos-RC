@@ -21,21 +21,21 @@ A condição da alma ou espírito puro do gênero Adhy na Espiritualidade Operac
 Adhyagia (RC-012) é a **condição** do espírito puro Adhy; Adhyagya (RC-311) são as **formas** espirituais/consciências que respondem pelas expressões Adhydaiva de Vishnu e Shiva (B022, Introdução). Distinção resolvida nesta materialização (P5c) — sem fusão.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Adhy | RC-011 | condição-de (gênero) |
-| Adhyatman | RC-013 | resulta-em (quando imantada em Perpérion) |
-| Adhydaiva | RC-014 | associado-a (família Adhy) |
-| Adhyajna | RC-016 | associado-a (família Adhy) |
-| Deidade (Pai-Mãe Amantíssimo / Brahman) | RC-047 | associado-a |
-| Divindades (Co-criadoras) | RC-054 | associado |
-| Espiritualidade Superior | RC-059 | nível-abaixo-de |
-| Perpérion | RC-087 | associado-a (imantação → Adhyatman) |
-| Seres Espirituais | RC-100 | associado |
-| Mônada (Mônada Espiritual) | RC-149 | associado |
-| Prisioneiros da Brahmaloka | RC-260 | associado |
-| Adhyagya (formas espirituais Adhy) | RC-311 | ← é-um |
-| Gênero Adhy (147 seres, 5 espécies) | RC-411 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Adhy | RC-011 | requer | -> | qualificador preservado: gênero; consolidação: "condição-de" → "requer" |
+| Adhyatman | RC-013 | causa | -> | qualificador preservado: quando imantada em Perpérion; consolidação: "resulta-em" → "causa" |
+| Adhydaiva | RC-014 | associado | <-> | qualificador preservado: família Adhy; raiz semântica associado (decisão 3) |
+| Adhyajna | RC-016 | associado | <-> | qualificador preservado: família Adhy; raiz semântica associado (decisão 3) |
+| Deidade (Pai-Mãe Amantíssimo / Brahman) | RC-047 | associado | <-> | - |
+| Divindades (Co-criadoras) | RC-054 | associado | <-> | - |
+| Espiritualidade Superior | RC-059 | precede | -> | consolidação: "nível-abaixo-de" → "precede" |
+| Perpérion | RC-087 | associado | <-> | qualificador preservado: imantação → Adhyatman; raiz semântica associado (decisão 3) |
+| Seres Espirituais | RC-100 | associado | <-> | - |
+| Mônada (Mônada Espiritual) | RC-149 | associado | <-> | - |
+| Prisioneiros da Brahmaloka | RC-260 | associado | <-> | - |
+| Adhyagya (formas espirituais Adhy) | RC-311 | é-um | <- | - |
+| Gênero Adhy (147 seres, 5 espécies) | RC-411 | associado | <-> | - |
 
 ## Fontes
 

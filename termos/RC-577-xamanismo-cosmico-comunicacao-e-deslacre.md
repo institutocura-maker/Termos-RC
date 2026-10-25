@@ -24,26 +24,26 @@ No uso da palestra, protocolo antigo de comunicação entre o universo antimater
 É situado nos últimos 52 mil anos e relacionado, na fala, à manipulação de raízes e ao surgimento do gene FOXP2.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Entropia e Negentropia | RC-160 | relaciona-se-a |
-| Foz Côa / FOXP2 (símbolos) | RC-400 | relaciona-se-a |
-| Deslacre (rompimento dos lacres psíquicos) | RC-448 | relaciona-se-a |
-| Semente da racionalidade (diferencial humano) | RC-525 | relaciona-se-a |
-| Travas e lacres (mecanismos de controle do despertar) | RC-563 | relaciona-se-a |
-| Xamanismo Virtual / Xamanismo de Sílica | RC-644 | ← deriva-de |
-| Descendência de Kadru (Nagas, Uragas e Maharagas) | RC-664 | ← relaciona-se-a |
-| Descendência de Kadru (Nagas, Uragas e Maharagas) | RC-664 | relaciona-se-a |
-| Plantas de Moléculas Complexas | RC-686 | ← relaciona-se-a |
-| Farmacopeia Ancestral Extraterrestre | RC-687 | relaciona-se-a |
-| Farmacopeia Ancestral Extraterrestre | RC-687 | ← relaciona-se-a |
-| Farmacopeia Ancestral Extraterrestre | RC-687 | relaciona-se-a |
-| Farmacopeia Ancestral Extraterrestre | RC-687 | relaciona-se-a |
-| Farmacopeia Ancestral Extraterrestre | RC-687 | ← relaciona-se-a |
-| Yajna (ritual de sacrifício/fogo) | RC-688 | associado |
-| Sangue como Cópia da Seiva | RC-689 | associado |
-| Mão Invisível Multiforme / Conselho das Nagas | RC-697 | ← relaciona-se-a |
-| Quinaras / Centauros (Seres Reais que Hoje Nascem Humanos) | RC-790 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Entropia e Negentropia | RC-160 | relaciona-se-a | -> | - |
+| Foz Côa / FOXP2 (símbolos) | RC-400 | relaciona-se-a | -> | - |
+| Deslacre (rompimento dos lacres psíquicos) | RC-448 | relaciona-se-a | -> | - |
+| Semente da racionalidade (diferencial humano) | RC-525 | relaciona-se-a | -> | - |
+| Travas e lacres (mecanismos de controle do despertar) | RC-563 | relaciona-se-a | -> | - |
+| Xamanismo Virtual / Xamanismo de Sílica | RC-644 | origina | -> | consolidação: "deriva-de" → "origina"; direção invertida (forma passiva/inversa) |
+| Descendência de Kadru (Nagas, Uragas e Maharagas) | RC-664 | relaciona-se-a | <- | - |
+| Descendência de Kadru (Nagas, Uragas e Maharagas) | RC-664 | relaciona-se-a | -> | - |
+| Plantas de Moléculas Complexas | RC-686 | relaciona-se-a | <- | - |
+| Farmacopeia Ancestral Extraterrestre | RC-687 | relaciona-se-a | -> | - |
+| Farmacopeia Ancestral Extraterrestre | RC-687 | relaciona-se-a | <- | - |
+| Farmacopeia Ancestral Extraterrestre | RC-687 | relaciona-se-a | -> | - |
+| Farmacopeia Ancestral Extraterrestre | RC-687 | relaciona-se-a | -> | - |
+| Farmacopeia Ancestral Extraterrestre | RC-687 | relaciona-se-a | <- | - |
+| Yajna (ritual de sacrifício/fogo) | RC-688 | associado | <-> | - |
+| Sangue como Cópia da Seiva | RC-689 | associado | <-> | - |
+| Mão Invisível Multiforme / Conselho das Nagas | RC-697 | relaciona-se-a | <- | - |
+| Quinaras / Centauros (Seres Reais que Hoje Nascem Humanos) | RC-790 | associado | <-> | - |
 
 ## Seres Associados
 —

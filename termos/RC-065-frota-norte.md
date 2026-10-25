@@ -27,19 +27,19 @@ A designação dos 1.841 biodemos que passaram a viver em Benem, a base terrestr
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Benem | RC-032 | associado |
-| Conselho dos Cinco | RC-043 | associado |
-| Cultura Demo | RC-044 | associado |
-| Deuses (os dois tipos) | RC-053 | associado |
-| Espherian | RC-057 | associado |
-| Genos | RC-066 | associado |
-| Val (Família Val) | RC-109 | associado |
-| Val Amon | RC-111 | associado |
-| Yel Luziel | RC-143 | associado |
-| Cidades Voadoras | RC-234 | associado |
-| Conselho dos Cinco (comando da Frota Norte: 3 Val + 2 Yel) | RC-501 | ← associado-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Benem | RC-032 | associado | <-> | - |
+| Conselho dos Cinco | RC-043 | associado | <-> | - |
+| Cultura Demo | RC-044 | associado | <-> | - |
+| Deuses (os dois tipos) | RC-053 | associado | <-> | - |
+| Espherian | RC-057 | associado | <-> | - |
+| Genos | RC-066 | associado | <-> | - |
+| Val (Família Val) | RC-109 | associado | <-> | - |
+| Val Amon | RC-111 | associado | <-> | - |
+| Yel Luziel | RC-143 | associado | <-> | - |
+| Cidades Voadoras | RC-234 | associado | <-> | - |
+| Conselho dos Cinco (comando da Frota Norte: 3 Val + 2 Yel) | RC-501 | associado | <-> | - |
 
 ## Fontes
 

@@ -27,10 +27,10 @@ Quinta era (B024 §16.5), de 4,3 a 5,7 bilhões de anos após o início da Cria�
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Lila | RC-075 | associado |
-| Eras da Criação (10 eras) | RC-155 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Lila | RC-075 | associado | <-> | - |
+| Eras da Criação (10 eras) | RC-155 | associado | <-> | - |
 
 ## Fontes
 

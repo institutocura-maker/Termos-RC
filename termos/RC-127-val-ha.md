@@ -27,14 +27,14 @@ Dimensão ou realidade alternativa onde os 9 Val dos Corpos Perdidos foram parar
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Astralização dos Biodemos | RC-026 | associado |
-| Shamb-Aha | RC-101 | associado |
-| Val Aten | RC-115 | associado |
-| Val dos Corpos Perdidos / Dimensionados | RC-133 | associado |
-| Os 9 Val dos Corpos Perdidos | RC-493 | associado |
-| Val Aten (último Val de Val-Ha) | RC-502 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Astralização dos Biodemos | RC-026 | associado | <-> | - |
+| Shamb-Aha | RC-101 | associado | <-> | - |
+| Val Aten | RC-115 | associado | <-> | - |
+| Val dos Corpos Perdidos / Dimensionados | RC-133 | associado | <-> | - |
+| Os 9 Val dos Corpos Perdidos | RC-493 | associado | <-> | - |
+| Val Aten (último Val de Val-Ha) | RC-502 | associado | <-> | - |
 
 ## Fontes
 

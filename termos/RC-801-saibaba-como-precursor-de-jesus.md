@@ -25,16 +25,16 @@ Tese (leitura do autor, palestra **P2018-02-24**, U0004) de que **Saibaba** (ava
 Aparece em **P2018-02-24**, U0004. Contexto: depois que as trevas espalharam o mal em todos os corações humanos (RC-798), os avatares precisavam propor a luta íntima do bem e do mal. Saibaba (2000 anos antes de Jesus) foi o primeiro a fazê-lo, segundo o autor.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Jesus | RC-072 | paralelo-com (avatar cristão) |
-| Shiva (Savna) | RC-102 | paralelo-com (avatar hindu) |
-| Estratégia dos Avatares (Moisés/Krishna/Saibaba/Jesus/Maomé) | RC-797 | manifesta-se-em |
-| Mudança de Estratégia das Trevas (Centralizar → Espalhar) | RC-798 | primeira-resposta-a |
-| Jesus como Último Avatar (Não Mata) | RC-800 | precede |
-| Sai Baba de Shirdi (Shirdi Sai Baba) | RC-927 | ← parte-de |
-| Sathya Sai Baba | RC-928 | ← parte-de |
-| Prema Sai (Prima Sai / Prem Sai) | RC-929 | ← parte-de |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Jesus | RC-072 | associado | <-> | qualificador preservado: avatar cristão; consolidação: "paralelo-com" → "associado" |
+| Shiva (Savna) | RC-102 | associado | <-> | qualificador preservado: avatar hindu; consolidação: "paralelo-com" → "associado" |
+| Estratégia dos Avatares (Moisés/Krishna/Saibaba/Jesus/Maomé) | RC-797 | representa | -> | consolidação: "manifesta-se-em" → "representa" |
+| Mudança de Estratégia das Trevas (Centralizar → Espalhar) | RC-798 | comunica | -> | consolidação: "primeira-resposta-a" → "comunica" |
+| Jesus como Último Avatar (Não Mata) | RC-800 | precede | -> | - |
+| Sai Baba de Shirdi (Shirdi Sai Baba) | RC-927 | parte-de | <- | - |
+| Sathya Sai Baba | RC-928 | parte-de | <- | - |
+| Prema Sai (Prima Sai / Prem Sai) | RC-929 | parte-de | <- | - |
 
 ## Seres Associados
 - **Saibaba** (avatar hindu, ~séc. XIX-XX)

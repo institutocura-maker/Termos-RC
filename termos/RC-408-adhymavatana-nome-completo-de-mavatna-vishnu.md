@@ -25,22 +25,22 @@ atualizado = "2026-09-12"
 O diagrama (B051) apresenta os três "nomes completos" Adhy da Trimurti: **ADHYPRABRAJNA** (→ Brahma), **ADHYMAVATANA** (→ Vishnu) e **ADHYSAVNA** (→ Shiva) — paralelos a Adhyshprabrajna (RC-310, do B022). A cadeia de Vishnu registrada: ADHYMAVATANA → Vishnu → **Mohen So** → **Sophia** → **Jesus** — confirmando a linha do B014 (Sophia = avatar indireto de Vishnu via Mohen So).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Sophia (Cristo Cósmico) | RC-009 | gera (cadeia) |
-| Adhyatman | RC-013 | condição prévia |
-| Adhydaiva | RC-014 | expressão |
-| Jesus | RC-072 | gera (cadeia) |
-| Mohen So (Avatar Keshava de Vishnu) | RC-081 | gera |
-| Revelação Cósmica (conceito) | RC-094 | associado |
-| Vishnu (Mavatna) | RC-135 | variação |
-| Pashvnaj (espécie de 43 seres do Gênero Adhy) | RC-455 | ← relaciona-se-a |
-| Lakshimi (consorte de Vishnu, Tridevi) | RC-458 | ← relaciona-se-a |
-| Maitreya (Dionísio; forma adiágena de Vishnu) | RC-481 | associado |
-| Forno de Awaymaion (forno de Vishnu; origem de Olm) | RC-499 | associado |
-| Mavátma / Mavatna / Mavat (Vishnu em condição Adhyatman) | RC-503 | ← variação |
-| Adyadvaivatma / Adimavatma (= Vishnu) | RC-504 | ← variação |
-| Fatiamento de Consciência | RC-604 | ← envolve |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Sophia (Cristo Cósmico) | RC-009 | origina | -> | qualificador preservado: cadeia; consolidação: "gera" → "origina" |
+| Adhyatman | RC-013 | relaciona-se-a | -> | texto bruto original: condição prévia |
+| Adhydaiva | RC-014 | representa | -> | consolidação: "expressão" → "representa" |
+| Jesus | RC-072 | origina | -> | qualificador preservado: cadeia; consolidação: "gera" → "origina" |
+| Mohen So (Avatar Keshava de Vishnu) | RC-081 | origina | -> | consolidação: "gera" → "origina" |
+| Revelação Cósmica (conceito) | RC-094 | associado | <-> | - |
+| Vishnu (Mavatna) | RC-135 | variação | -> | - |
+| Pashvnaj (espécie de 43 seres do Gênero Adhy) | RC-455 | relaciona-se-a | <- | - |
+| Lakshimi (consorte de Vishnu, Tridevi) | RC-458 | relaciona-se-a | <- | - |
+| Maitreya (Dionísio; forma adiágena de Vishnu) | RC-481 | associado | <-> | - |
+| Forno de Awaymaion (forno de Vishnu; origem de Olm) | RC-499 | associado | <-> | - |
+| Mavátma / Mavatna / Mavat (Vishnu em condição Adhyatman) | RC-503 | variação | <- | - |
+| Adyadvaivatma / Adimavatma (= Vishnu) | RC-504 | variação | <- | - |
+| Fatiamento de Consciência | RC-604 | envolve | <- | - |
 
 ## Seres Associados
 Vishnu (RC-135); Mohen So (RC-081); Sophia (RC-009); Jesus (RC-072).

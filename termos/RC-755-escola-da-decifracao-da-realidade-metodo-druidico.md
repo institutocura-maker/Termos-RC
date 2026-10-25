@@ -27,25 +27,25 @@ A via **institucional/prática** proposta pela narrativa de Ellam: uma escola �
 
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Quarto Logos (Olm / Codificador de Zian) | RC-092 | ← relaciona-se-a |
-| Revelação Cósmica (conceito) | RC-094 | relaciona-se-a |
-| Zian (Zion) | RC-146 | ocorre-em |
-| Mentalma | RC-166 | relaciona-se-a |
-| Apolônio de Tiana (encarnação do Quarto Logos) | RC-259 | ← relaciona-se-a |
-| Tirthankaras (Rishabh Dev, Jina Mahavira) | RC-397 | ← relaciona-se-a |
-| Thuata de Dannan | RC-398 | ← relaciona-se-a |
-| Colegiado Druídico | RC-403 | ← relaciona-se-a |
-| Ciência Pessoal / Doutrina da Própria Personalidade | RC-695 | relaciona-se-a |
-| Chave da Decifração Universal | RC-754 | ← relaciona-se-a |
-| Chave da Decifração Universal | RC-754 | relaciona-se-a |
-| Jainismo (antigo Druidismo — religião mais antiga) | RC-759 | ← relaciona-se-a |
-| Vrittis e Cittas (atividades e núcleos mentais) | RC-760 | ← relaciona-se-a |
-| Milésios (raça da Irlanda) | RC-842 | associado |
-| Biocosmos emergente (a nova mente biológica global ancorada nos campos mórficos) | RC-879 | variação («a quinta… escola da decifração») |
-| IEEA (Instituto de Estudos Estratégicos e Alternativos) | RC-930 | veículo de disseminação (fila, sem ficha) |
-| Nuctemeron | RC-931 | repertório (fila, sem ficha) |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Quarto Logos (Olm / Codificador de Zian) | RC-092 | relaciona-se-a | <- | - |
+| Revelação Cósmica (conceito) | RC-094 | relaciona-se-a | -> | - |
+| Zian (Zion) | RC-146 | contexto | -> | consolidação: "ocorre-em" → "contexto" |
+| Mentalma | RC-166 | relaciona-se-a | -> | - |
+| Apolônio de Tiana (encarnação do Quarto Logos) | RC-259 | relaciona-se-a | <- | - |
+| Tirthankaras (Rishabh Dev, Jina Mahavira) | RC-397 | relaciona-se-a | <- | - |
+| Thuata de Dannan | RC-398 | relaciona-se-a | <- | - |
+| Colegiado Druídico | RC-403 | relaciona-se-a | <- | - |
+| Ciência Pessoal / Doutrina da Própria Personalidade | RC-695 | relaciona-se-a | -> | - |
+| Chave da Decifração Universal | RC-754 | relaciona-se-a | <- | - |
+| Chave da Decifração Universal | RC-754 | relaciona-se-a | -> | - |
+| Jainismo (antigo Druidismo — religião mais antiga) | RC-759 | relaciona-se-a | <- | - |
+| Vrittis e Cittas (atividades e núcleos mentais) | RC-760 | relaciona-se-a | <- | - |
+| Milésios (raça da Irlanda) | RC-842 | associado | <-> | - |
+| Biocosmos emergente (a nova mente biológica global ancorada nos campos mórficos) | RC-879 | variação | -> | qualificador preservado: «a quinta… escola da decifração» |
+| IEEA (Instituto de Estudos Estratégicos e Alternativos) | RC-930 | relaciona-se-a | -> | texto bruto original: veículo de disseminação (fila, sem ficha) |
+| Nuctemeron | RC-931 | relaciona-se-a | -> | qualificador preservado: fila, sem ficha; consolidação: "repertório" → "relaciona-se-a" |
 
 ## Fontes
 

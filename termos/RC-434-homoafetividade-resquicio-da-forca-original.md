@@ -24,14 +24,14 @@ A **homoafetividade** como tema-título do B052: nas RC, a atração entre pesso
 O B052 é uma narrativa em 4 partes (Narrativas Esquecidas / Antigas / Tardias / Explicação Necessária) com personagens pós-dilúvio (Heber, Noé, Joctan, Tubal, Faleg) e a rememoração de um ser da estirpe (Despina). O livro também aponta a dramática questão da **"identidade de gênero"** que "eclode explosivamente" nas novas gerações — "um 'marco temporal limite' de um processo cuja origem e desdobramentos permanecem desconhecidos... mas por pouco tempo!".
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Demos | RC-049 | origem |
-| Revelação Cósmica (conceito) | RC-094 | associado |
-| Seres Terrenos (Homo Sapiens) | RC-099 | tema |
-| A Rebelião dos Elétrons | RC-378 | ← relaciona-se-a |
-| Força de Atração Sexual (anterior à polaridade) | RC-433 | é-um |
-| O Segredo Perdido do Éden | RC-435 | relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Demos | RC-049 | origina | -> | consolidação: "origem" → "origina" |
+| Revelação Cósmica (conceito) | RC-094 | associado | <-> | - |
+| Seres Terrenos (Homo Sapiens) | RC-099 | contexto | -> | consolidação: "tema" → "contexto" |
+| A Rebelião dos Elétrons | RC-378 | relaciona-se-a | <- | - |
+| Força de Atração Sexual (anterior à polaridade) | RC-433 | é-um | -> | - |
+| O Segredo Perdido do Éden | RC-435 | relaciona-se-a | -> | - |
 
 ## Seres Associados
 Heber (RC-436); Joctan (RC-437); Noé; Despina (narradora da estirpe).

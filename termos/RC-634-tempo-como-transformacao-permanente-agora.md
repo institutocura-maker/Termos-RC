@@ -22,12 +22,12 @@ Concepção de tempo como transformação, necessidade e entropia; a consciênci
 A fala distingue tempo astronômico de transformação e afirma atemporalidade dos níveis espirituais.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Entropia e Negentropia | RC-160 | relaciona-se-a |
-| Laço Temporal de Kether/Javé | RC-272 | relaciona-se-a |
-| Espiritualidade Errática (4ª faixa manifestada) | RC-513 | relaciona-se-a |
-| Ciclo de Precessão Equinocial (Precessão dos Equinócios) | RC-567 | relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Entropia e Negentropia | RC-160 | relaciona-se-a | -> | - |
+| Laço Temporal de Kether/Javé | RC-272 | relaciona-se-a | -> | - |
+| Espiritualidade Errática (4ª faixa manifestada) | RC-513 | relaciona-se-a | -> | - |
+| Ciclo de Precessão Equinocial (Precessão dos Equinócios) | RC-567 | relaciona-se-a | -> | - |
 
 ## Seres Associados
 Consultar relações acima.

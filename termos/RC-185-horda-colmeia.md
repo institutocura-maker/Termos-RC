@@ -27,11 +27,11 @@ Conjunto dos seres das «famílias Aya e Aye» — mais especificamente os que f
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Anjos clones | RC-019 | associado |
-| Aya e Aye | RC-031 | associado |
-| Colmeia Universal | RC-174 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Anjos clones | RC-019 | associado | <-> | - |
+| Aya e Aye | RC-031 | associado | <-> | - |
+| Colmeia Universal | RC-174 | associado | <-> | - |
 
 ## Fontes
 

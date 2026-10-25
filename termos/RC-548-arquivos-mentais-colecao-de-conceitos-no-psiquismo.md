@@ -25,22 +25,22 @@ atualizado = "2026-08-18"
 No Mentalma I (B074, cap. 2 — "Cada Conceito, um Arquivo Mental"), Ellam explica que criou "jogos mentais" para repensar um por um seus conceitos e crenças. Os arquivos são "colecionados" pelo psiquismo ao longo da vida (e de vidas); após a morte do corpo, o Espírito sai "carregando vários arquivos", inclusive os ligados a emoções valorizadas — que viram espécies de "fantasminhas" (memórias marcadas emocionalmente). O **Circuito do CHA** (RC-549) define quais arquivos a pessoa coleciona; a **Vontade de Progredir** (RC-550) é a "chave" que os acessa conscientemente (em vez do acaso).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Mentalma | RC-166 | é-um |
-| Protocolo Mental (padrões organizadores da mente) | RC-517 | relaciona-se-a |
-| Circuito do CHA (Circunstâncias+Herança+Atitude) | RC-549 | ← relaciona-se-a |
-| Vontade de Progredir (chave dos arquivos mentais) | RC-550 | ← relaciona-se-a |
-| Dehatma Buddhi (doença psíquica da mente identificada com o corpo) | RC-551 | relaciona-se-a |
-| Gestão Psíquica e Memórias Complexas (Mentalma II) | RC-554 | associado |
-| Série Mentalma (5 livros + curso) | RC-555 | associado |
-| Corpo Sutil Reencarnante | RC-704 | ← transporta |
-| Universo de Egrégoras Emocionais | RC-711 | ← usa |
-| Formas-Pensamento e Formas-Sentimento | RC-724 | ← registradas-em |
-| Dominação Psíquica pela Devoção | RC-733 | associado |
-| Bagagem Espiritual Intransferível | RC-751 | ← relaciona-se-a |
-| Vrittis e Cittas (atividades e núcleos mentais) | RC-760 | ← relaciona-se-a |
-| Os 256 Caminhos Profetizáveis de Orunmilá | RC-767 | ← relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Mentalma | RC-166 | é-um | -> | - |
+| Protocolo Mental (padrões organizadores da mente) | RC-517 | relaciona-se-a | -> | - |
+| Circuito do CHA (Circunstâncias+Herança+Atitude) | RC-549 | relaciona-se-a | <- | - |
+| Vontade de Progredir (chave dos arquivos mentais) | RC-550 | relaciona-se-a | <- | - |
+| Dehatma Buddhi (doença psíquica da mente identificada com o corpo) | RC-551 | relaciona-se-a | -> | - |
+| Gestão Psíquica e Memórias Complexas (Mentalma II) | RC-554 | associado | <-> | - |
+| Série Mentalma (5 livros + curso) | RC-555 | associado | <-> | - |
+| Corpo Sutil Reencarnante | RC-704 | transfere | <- | consolidação: "transporta" → "transfere" |
+| Universo de Egrégoras Emocionais | RC-711 | usa | <- | - |
+| Formas-Pensamento e Formas-Sentimento | RC-724 | contexto | <- | consolidação: "registradas-em" → "contexto" |
+| Dominação Psíquica pela Devoção | RC-733 | associado | <-> | - |
+| Bagagem Espiritual Intransferível | RC-751 | relaciona-se-a | <- | - |
+| Vrittis e Cittas (atividades e núcleos mentais) | RC-760 | relaciona-se-a | <- | - |
+| Os 256 Caminhos Profetizáveis de Orunmilá | RC-767 | relaciona-se-a | <- | - |
 
 ## Seres Associados
 Espírito encarnado (colecionador dos arquivos); Jan Val Ellam (criador do método).

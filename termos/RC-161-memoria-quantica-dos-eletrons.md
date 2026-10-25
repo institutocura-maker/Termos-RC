@@ -24,40 +24,40 @@ Capacidade **misteriosa e exclusiva dos elétrons** (que as demais micropartícu
 O físico nuclear francês **Jean-Émile Charon** descortinou essa característica enigmática. Nas RC, o elétron serve de **"ponte quântica" entre o Criador 'caído' e as suas criaturas-ferramenta** — tema desenvolvido no livro *A Rebelião dos Elétrons e o Código de Vida do Criador* (B041). No fim do universo, as informações dos elétrons estarão associadas à emergente **Mente Universal**.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Entropia e Negentropia | RC-160 | associado |
-| Elétrons (agente básico da vida universal) | RC-162 | relaciona-se-a |
-| Mente Universal (Emergente) | RC-163 | associado |
-| Simbiose Quântica | RC-195 | associado |
-| A Rebelião dos Elétrons | RC-378 | ← envolve |
-| A Rebelião dos Elétrons | RC-378 | ← relaciona-se-a |
-| A Rebelião dos Elétrons | RC-378 | relaciona-se-a |
-| Dança dos Elétrons | RC-379 | associado |
-| Memórias para Javé | RC-386 | ← registra |
-| Arquivos da Memória Cósmica | RC-521 | ← relaciona-se-a |
-| Duas Pulsações da Criação (elétrons e antielétrons) | RC-636 | ← envolve |
-| Duas Pulsações da Criação (elétrons e antielétrons) | RC-636 | relaciona-se-a |
-| Duas Pulsações da Criação (elétrons e antielétrons) | RC-636 | ← relaciona-se-a |
-| Duas Pulsações da Criação (elétrons e antielétrons) | RC-636 | ← relaciona-se-a |
-| Transferência da Memória dos Antielétrons | RC-637 | ← transfere-para |
-| Transferência da Memória dos Antielétrons | RC-637 | relaciona-se-a |
-| Ressurreição do Cadáver do Criador | RC-638 | ← envolve |
-| Colapso do Caos Organizado | RC-690 | associado |
-| Ishvara (Isuara — Retrato de Prabrajna Antes da Queda) | RC-691 | ← codificado-em |
-| Kit Reencarnatório de Elétrons | RC-692 | ← relaciona-se-a |
-| Kit Reencarnatório de Elétrons | RC-692 | relaciona-se-a |
-| Kit Reencarnatório de Elétrons | RC-692 | ← usa |
-| Evolução da Informação, não das Espécies | RC-693 | ← envolve |
-| Primado da Informação | RC-707 | associado |
-| Ser Humano Não Local | RC-708 | ← envolve |
-| Ser Humano Não Local | RC-708 | ← envolve |
-| Ser Humano Não Local | RC-708 | ← relaciona-se-a |
-| Ser Humano Não Local | RC-708 | relaciona-se-a |
-| Informações Vivas | RC-715 | ← compõe |
-| Memória dos Elétrons e Arcanos | RC-829 | associado |
-| Guardadores de Lixo Memorial (os humanos como hospedeiros da sujeira) | RC-866 | associado |
-| Biocosmos emergente (a nova mente biológica global ancorada nos campos mórficos) | RC-879 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Entropia e Negentropia | RC-160 | associado | <-> | - |
+| Elétrons (agente básico da vida universal) | RC-162 | relaciona-se-a | -> | - |
+| Mente Universal (Emergente) | RC-163 | associado | <-> | - |
+| Simbiose Quântica | RC-195 | associado | <-> | - |
+| A Rebelião dos Elétrons | RC-378 | envolve | <- | - |
+| A Rebelião dos Elétrons | RC-378 | relaciona-se-a | <- | - |
+| A Rebelião dos Elétrons | RC-378 | relaciona-se-a | -> | - |
+| Dança dos Elétrons | RC-379 | associado | <-> | - |
+| Memórias para Javé | RC-386 | observa | <- | consolidação: "registra" → "observa" |
+| Arquivos da Memória Cósmica | RC-521 | relaciona-se-a | <- | - |
+| Duas Pulsações da Criação (elétrons e antielétrons) | RC-636 | envolve | <- | - |
+| Duas Pulsações da Criação (elétrons e antielétrons) | RC-636 | relaciona-se-a | -> | - |
+| Duas Pulsações da Criação (elétrons e antielétrons) | RC-636 | relaciona-se-a | <- | - |
+| Duas Pulsações da Criação (elétrons e antielétrons) | RC-636 | relaciona-se-a | <- | - |
+| Transferência da Memória dos Antielétrons | RC-637 | transfere | <- | consolidação: "transfere-para" → "transfere" |
+| Transferência da Memória dos Antielétrons | RC-637 | relaciona-se-a | -> | - |
+| Ressurreição do Cadáver do Criador | RC-638 | envolve | <- | - |
+| Colapso do Caos Organizado | RC-690 | associado | <-> | - |
+| Ishvara (Isuara — Retrato de Prabrajna Antes da Queda) | RC-691 | usa | <- | consolidação: "codificado-em" → "usa" |
+| Kit Reencarnatório de Elétrons | RC-692 | relaciona-se-a | <- | - |
+| Kit Reencarnatório de Elétrons | RC-692 | relaciona-se-a | -> | - |
+| Kit Reencarnatório de Elétrons | RC-692 | usa | <- | - |
+| Evolução da Informação, não das Espécies | RC-693 | envolve | <- | - |
+| Primado da Informação | RC-707 | associado | <-> | - |
+| Ser Humano Não Local | RC-708 | envolve | <- | - |
+| Ser Humano Não Local | RC-708 | envolve | <- | - |
+| Ser Humano Não Local | RC-708 | relaciona-se-a | <- | - |
+| Ser Humano Não Local | RC-708 | relaciona-se-a | -> | - |
+| Informações Vivas | RC-715 | inclui | <- | consolidação: "compõe" → "inclui" |
+| Memória dos Elétrons e Arcanos | RC-829 | associado | <-> | - |
+| Guardadores de Lixo Memorial (os humanos como hospedeiros da sujeira) | RC-866 | associado | <-> | - |
+| Biocosmos emergente (a nova mente biológica global ancorada nos campos mórficos) | RC-879 | associado | <-> | - |
 
 ## Citações-chave
 

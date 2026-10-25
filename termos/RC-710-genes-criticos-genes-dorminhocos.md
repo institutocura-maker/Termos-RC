@@ -31,26 +31,26 @@ O termo é neologismo/emprego próprio da palestra. Também aparece como “gene
 - formação do Humano Turbinado.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| DNA como Projeção Holográfica do Psiquismo do Criador | RC-217 | associado |
-| Foz Côa / FOXP2 (símbolos) | RC-400 | relaciona-se-a |
-| Genoma Derivado (interação genoma × trajetória) | RC-518 | atua-em |
-| Espelho da Herança Espiritual no Epigenoma | RC-543 | acionado-por |
-| Novo Homo sapiens (evolução que terá de vir) | RC-544 | produz |
-| Quarto Cérebro Humano | RC-614 | associado |
-| Genoma da Liberdade | RC-619 | relaciona-se-a |
-| Evolução da Informação, não das Espécies | RC-693 | relaciona-se-a |
-| Cessão Consciente do DNA Humano | RC-698 | relaciona-se-a |
-| Cessão Consciente do DNA Humano | RC-698 | ← relaciona-se-a |
-| Postulados Quânticos como Manual Operativo | RC-703 | ← relaciona-se-a |
-| Humano Turbinado | RC-709 | ← relaciona-se-a |
-| Humano Turbinado | RC-709 | relaciona-se-a |
-| Lei da Mente do Buda | RC-712 | relaciona-se-a |
-| Lei da Mente do Buda | RC-712 | ← relaciona-se-a |
-| Taumaturgia Genético-Química | RC-713 | ← relaciona-se-a |
-| Jabutis Genéticos | RC-729 | associado |
-| Invasão Ancestral do Genoma e do Psiquismo Humanos | RC-732 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| DNA como Projeção Holográfica do Psiquismo do Criador | RC-217 | associado | <-> | - |
+| Foz Côa / FOXP2 (símbolos) | RC-400 | relaciona-se-a | -> | - |
+| Genoma Derivado (interação genoma × trajetória) | RC-518 | contexto | -> | consolidação: "atua-em" → "contexto" |
+| Espelho da Herança Espiritual no Epigenoma | RC-543 | relaciona-se-a | -> | consolidação: "acionado-por" → "relaciona-se-a" |
+| Novo Homo sapiens (evolução que terá de vir) | RC-544 | origina | -> | consolidação: "produz" → "origina" |
+| Quarto Cérebro Humano | RC-614 | associado | <-> | - |
+| Genoma da Liberdade | RC-619 | relaciona-se-a | -> | - |
+| Evolução da Informação, não das Espécies | RC-693 | relaciona-se-a | -> | - |
+| Cessão Consciente do DNA Humano | RC-698 | relaciona-se-a | -> | - |
+| Cessão Consciente do DNA Humano | RC-698 | relaciona-se-a | <- | - |
+| Postulados Quânticos como Manual Operativo | RC-703 | relaciona-se-a | <- | - |
+| Humano Turbinado | RC-709 | relaciona-se-a | <- | - |
+| Humano Turbinado | RC-709 | relaciona-se-a | -> | - |
+| Lei da Mente do Buda | RC-712 | relaciona-se-a | -> | - |
+| Lei da Mente do Buda | RC-712 | relaciona-se-a | <- | - |
+| Taumaturgia Genético-Química | RC-713 | relaciona-se-a | <- | - |
+| Jabutis Genéticos | RC-729 | associado | <-> | - |
+| Invasão Ancestral do Genoma e do Psiquismo Humanos | RC-732 | associado | <-> | - |
 
 ## Fontes
 | Fonte | Localização | Tipo |

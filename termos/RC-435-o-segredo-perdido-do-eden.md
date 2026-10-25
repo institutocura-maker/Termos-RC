@@ -27,12 +27,12 @@ atualizado = "2026-09-13"
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Revelação Cósmica (conceito) | RC-094 | associado |
-| Éden do Criador (Éden como laboratório) | RC-242 | relaciona-se-a |
-| Força de Atração Sexual (anterior à polaridade) | RC-433 | associado |
-| Homoafetividade (resquício da força original) | RC-434 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Revelação Cósmica (conceito) | RC-094 | associado | <-> | - |
+| Éden do Criador (Éden como laboratório) | RC-242 | relaciona-se-a | -> | - |
+| Força de Atração Sexual (anterior à polaridade) | RC-433 | associado | <-> | - |
+| Homoafetividade (resquício da força original) | RC-434 | associado | <-> | - |
 
 ## Fontes
 

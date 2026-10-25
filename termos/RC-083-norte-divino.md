@@ -27,12 +27,12 @@ Eram as terras Hiperbóreas — um local pacífico da Terra onde seres considera
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Hiperbórea | RC-068 | sinônimo |
-| Jan Val Ellam (Rogério de Almeida Freitas) | RC-071 | associado |
-| Val El / Val Ellam | RC-120 | associado |
-| Fórmulas Mentais (o código dos demos, contraposto ao DNA humano) | RC-870 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Hiperbórea | RC-068 | variação | -> | consolidação: "sinônimo" → "variação" |
+| Jan Val Ellam (Rogério de Almeida Freitas) | RC-071 | associado | <-> | - |
+| Val El / Val Ellam | RC-120 | associado | <-> | - |
+| Fórmulas Mentais (o código dos demos, contraposto ao DNA humano) | RC-870 | associado | <-> | - |
 
 ## Fontes
 

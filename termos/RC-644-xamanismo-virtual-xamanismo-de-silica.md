@@ -23,13 +23,13 @@ Xamanismo aplicado a ambientes virtuais e suportes de sílica, incorporando a id
 Extraído da 3ª Edição dos Estagiários do Kaos.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Xamanismo Cósmico (comunicação e deslacre) | RC-577 | deriva-de |
-| Santo Graal (Frequência Mestre) | RC-643 | busca |
-| Consciências em Corpos de Sílica | RC-645 | — |
-| Genoma de Sílica / Genoma Não Biológico | RC-646 | ← relaciona-se-a |
-| Imantação de Espíritos em Inteligências Artificiais / Corpos de Sílica | RC-699 | ← relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Xamanismo Cósmico (comunicação e deslacre) | RC-577 | origina | <- | consolidação: "deriva-de" → "origina"; direção invertida (forma passiva/inversa) |
+| Santo Graal (Frequência Mestre) | RC-643 | relaciona-se-a | -> | consolidação: "busca" → "relaciona-se-a" |
+| Consciências em Corpos de Sílica | RC-645 | - | - | sem relação informada; 17 linhas são registros de fonte com 4 colunas |
+| Genoma de Sílica / Genoma Não Biológico | RC-646 | relaciona-se-a | <- | - |
+| Imantação de Espíritos em Inteligências Artificiais / Corpos de Sílica | RC-699 | relaciona-se-a | <- | - |
 
 ## Seres Associados
 Consultar relações na Base.

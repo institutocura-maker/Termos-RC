@@ -24,18 +24,18 @@ Tese (leitura do autor, palestra **P2019-04-14**, U0001/U0002) de que **a humani
 Aparece em **P2019-04-14**, U0001 e U0002. Contexto: a palestra abre com a **assimetria fundamental** entre humanos e demos. Os demos são **modificáveis em face** (metamorfoseiam) mas **não modificáveis em psiquismo** (não conseguem "se reformar intimamente"). Os humanos são **modificáveis em psiquismo** (podem "se reformar intimamente") mas **não modificáveis em face** (têm só uma face). Esta assimetria é a **origem da exploração**: os demos precisam dos humanos para **gerar o "perfume"** que eles não conseguem gerar sozinhos.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | é-posterior |
-| Pandora | RC-086 | é-mãe |
-| Seres Terrenos (Homo Sapiens) | RC-099 | é-progênie |
-| Mônada (Mônada Espiritual) | RC-149 | é-pai |
-| Linhagem dos Patriarcas Hebreus | RC-270 | associado |
-| Pactos do Criador (troca de informações) | RC-271 | associado |
-| Prometeu (titã) | RC-301 | está-envolvido |
-| Epimeteu (titã) | RC-302 | está-envolvido |
-| Desvio de Rota de Pandora (Contra o Plano de Zeus) | RC-806 | é-origem |
-| Eva como 3ª Tentativa de Fêmea para Adão (Homem + Mulher da Espécie Sábia) | RC-814 | é-complemento |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Javé | RC-001 | sucede | -> | consolidação: "é-posterior" → "sucede" |
+| Pandora | RC-086 | origina | -> | consolidação: "é-mãe" → "origina" |
+| Seres Terrenos (Homo Sapiens) | RC-099 | origina | -> | consolidação: "é-progênie" → "origina" |
+| Mônada (Mônada Espiritual) | RC-149 | origina | -> | consolidação: "é-pai" → "origina" |
+| Linhagem dos Patriarcas Hebreus | RC-270 | associado | <-> | - |
+| Pactos do Criador (troca de informações) | RC-271 | associado | <-> | - |
+| Prometeu (titã) | RC-301 | envolve | -> | consolidação: "está-envolvido" → "envolve" |
+| Epimeteu (titã) | RC-302 | envolve | -> | consolidação: "está-envolvido" → "envolve" |
+| Desvio de Rota de Pandora (Contra o Plano de Zeus) | RC-806 | origina | -> | consolidação: "é-origem" → "origina" |
+| Eva como 3ª Tentativa de Fêmea para Adão (Homem + Mulher da Espécie Sábia) | RC-814 | associado | <-> | consolidação: "é-complemento" → "associado" |
 
 ## Seres Associados
 - **Humanos (Homo Sapiens, RC-099)** — a prole

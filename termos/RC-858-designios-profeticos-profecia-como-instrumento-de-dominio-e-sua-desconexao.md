@@ -29,15 +29,15 @@ Com isso:
 **Origem do conteúdo da ampliação:** palestra `P2022-11-20 — A Incompreendida Nova Aliança proposta por Jesus` (20/11/2022). Transcrição automatizada, **não conferida com o áudio**; cada aspa foi recortada do `original.txt` pelo índice de âncoras do motor e conferida byte a byte pelo portão B. Nada foi digitado de memória.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | **sem aresta** em `RELACOES`; arquivo existe |
-| Big Data Cósmico | RC-194 | **sem aresta** em `RELACOES`; arquivo existe |
-| Os 270 Mundos (profecia do Zohar) | RC-265 | **sem aresta** em `RELACOES`; arquivo existe |
-| Povos Escolhidos (ariano, judeu, árabe) | RC-326 | **sem aresta** em `RELACOES`; **sem arquivo** |
-| Flechas / Profecias de Moros | RC-611 | **sem aresta** em `RELACOES`; arquivo existe |
-| Estratégia dos Avatares (Moisés/Krishna/Saibaba/Jesus/Maomé) | RC-797 | **sem aresta** em `RELACOES`; arquivo existe |
-| Nova Aliança (a proposta de Jesus contra a velha aliança dos pactos de Javé) | RC-860 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Javé | RC-001 | - | - | sem aresta em RELACOES; arquivo existe |
+| Big Data Cósmico | RC-194 | - | - | sem aresta em RELACOES; arquivo existe |
+| Os 270 Mundos (profecia do Zohar) | RC-265 | - | - | sem aresta em RELACOES; arquivo existe |
+| Povos Escolhidos (ariano, judeu, árabe) | RC-326 | - | - | sem aresta em RELACOES; sem arquivo |
+| Flechas / Profecias de Moros | RC-611 | - | - | sem aresta em RELACOES; arquivo existe |
+| Estratégia dos Avatares (Moisés/Krishna/Saibaba/Jesus/Maomé) | RC-797 | - | - | sem aresta em RELACOES; arquivo existe |
+| Nova Aliança (a proposta de Jesus contra a velha aliança dos pactos de Javé) | RC-860 | associado | <-> | - |
 
 
 ## Fontes

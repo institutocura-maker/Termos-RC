@@ -18,21 +18,21 @@ Metáfora do crupier/cassino aplicada ao genoma: assim como um baralho tem 52 ca
 
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| CFD (Código Fonte Definidor) | RC-040 | relaciona-se-a |
-| DNA como Projeção Holográfica do Psiquismo do Criador | RC-217 | relaciona-se-a |
-| Sensação de eu (a sensação particular a cada instante) | RC-558 | relaciona-se-a |
-| Teia quântica (o que sai de um ser volta para ele) | RC-559 | associado |
-| Satchidanandaghana (super código genômico do Projeto TALM) | RC-838 | associado |
-| DNA Neutralizado (código neutralizado de podridão do criador) | RC-864 | associado |
-| Pulsação Digna (a pulsação alinhada a conceitos supremos) | RC-865 | associado |
-| Genoma da Dignidade (o código esquecido na criação) | RC-868 | associado |
-| Fórmulas Mentais (o código dos demos, contraposto ao DNA humano) | RC-870 | associado |
-| Midana (o código original primordial semeado no universo biológico) | RC-871 | associado |
-| Carga virótica (a materialização da primeira carga mental do criador) | RC-877 | associado |
-| Bemisia tabaci / Mosca branca (a praga que incorporou um gene vegetal; metáfora do humano que domou o gene demo) | RC-884 | associado |
-| Savant (a genialidade preservada além do autismo num grau; figura útil no final) | RC-885 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| CFD (Código Fonte Definidor) | RC-040 | relaciona-se-a | -> | - |
+| DNA como Projeção Holográfica do Psiquismo do Criador | RC-217 | relaciona-se-a | -> | - |
+| Sensação de eu (a sensação particular a cada instante) | RC-558 | relaciona-se-a | -> | - |
+| Teia quântica (o que sai de um ser volta para ele) | RC-559 | associado | <-> | - |
+| Satchidanandaghana (super código genômico do Projeto TALM) | RC-838 | associado | <-> | - |
+| DNA Neutralizado (código neutralizado de podridão do criador) | RC-864 | associado | <-> | - |
+| Pulsação Digna (a pulsação alinhada a conceitos supremos) | RC-865 | associado | <-> | - |
+| Genoma da Dignidade (o código esquecido na criação) | RC-868 | associado | <-> | - |
+| Fórmulas Mentais (o código dos demos, contraposto ao DNA humano) | RC-870 | associado | <-> | - |
+| Midana (o código original primordial semeado no universo biológico) | RC-871 | associado | <-> | - |
+| Carga virótica (a materialização da primeira carga mental do criador) | RC-877 | associado | <-> | - |
+| Bemisia tabaci / Mosca branca (a praga que incorporou um gene vegetal; metáfora do humano que domou o gene demo) | RC-884 | associado | <-> | - |
+| Savant (a genialidade preservada além do autismo num grau; figura útil no final) | RC-885 | associado | <-> | - |
 
 ## Fontes
 

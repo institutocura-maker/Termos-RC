@@ -30,21 +30,21 @@ Aparece em **P2023-11-11**, U0002 (Prometeu/Epimeteu), U0003 (Pandora/metamorfos
 - **RC-579** (Noreia) — a continuadora
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Pandora | RC-086 | compõe |
-| Eva (figura) | RC-189 | compõe |
-| Opção Inusitada de Pandora (humanização) | RC-285 | associado |
-| Adhytia (nível hierárquico) | RC-308 | compõe |
-| Ordem dos Indecifráveis | RC-309 | associado |
-| Noreia (Norea) | RC-579 | compõe |
-| Momento Zero de Pandora | RC-779 | começa-em |
-| Pandora como Heroína Controversa | RC-780 | paralela-a |
-| Racionalidade Humana Trucidada | RC-786 | desfecho-de |
-| Egrégora de Lilith / Noreia (Loop Mental Vivo) | RC-787 | associado |
-| Revolução Inacabada de Prometeu e Pandora | RC-788 | associado |
-| Lilith como Rakshasa (Espécie Não-Humana) | RC-794 | associado |
-| Opção Inusitada de Pandora (Primeiro Sorriso) | (RC-285) | parte-de |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Pandora | RC-086 | inclui | -> | consolidação: "compõe" → "inclui" |
+| Eva (figura) | RC-189 | inclui | -> | consolidação: "compõe" → "inclui" |
+| Opção Inusitada de Pandora (humanização) | RC-285 | associado | <-> | - |
+| Adhytia (nível hierárquico) | RC-308 | inclui | -> | consolidação: "compõe" → "inclui" |
+| Ordem dos Indecifráveis | RC-309 | associado | <-> | - |
+| Noreia (Norea) | RC-579 | inclui | -> | consolidação: "compõe" → "inclui" |
+| Momento Zero de Pandora | RC-779 | precede | -> | consolidação: "começa-em" → "precede" |
+| Pandora como Heroína Controversa | RC-780 | variação | -> | consolidação: "paralela-a" → "variação" |
+| Racionalidade Humana Trucidada | RC-786 | sucede | -> | consolidação: "desfecho-de" → "sucede" |
+| Egrégora de Lilith / Noreia (Loop Mental Vivo) | RC-787 | associado | <-> | - |
+| Revolução Inacabada de Prometeu e Pandora | RC-788 | associado | <-> | - |
+| Lilith como Rakshasa (Espécie Não-Humana) | RC-794 | associado | <-> | - |
+| Opção Inusitada de Pandora (Primeiro Sorriso) | (RC-285) | parte-de | -> | - |
 
 ## Seres Associados
 - **Pandora** (RC-086) — elo 1

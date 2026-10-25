@@ -25,20 +25,20 @@ atualizado = "2026-08-28"
 No B015, Zont narra: (1) o primeiro contato com os "Viajores" (há ~48 mil anos, no "mundo das águas"); (2) a geração dos En Drel e os "dez sagrados"; (3) sua função de guardião do Éden terrestre — um dos "laboratórios" do Criador; (4) a expulsão dos Viajores (~2.600 anos atrás, por decreto do Criador, executada por ele); (5) sua **humanização emocional** — "os En Drel não foram programados para sentir, e eu havia sentido algo" — ao se envolver emocionalmente com um humano, provocando monitoramento do Criador e do Comandante En Drel.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | associado |
-| Guerra do Éden | RC-006 | contexto |
-| Anjos clones | RC-019 | associado |
-| En Drel | RC-055 | é-um |
-| Seres Terrenos (Homo Sapiens) | RC-099 | humaniza-se-por |
-| Éden do Criador (Éden como laboratório) | RC-242 | ← guarda |
-| A Humanização do Criador | RC-245 | ← experimenta |
-| Endrelnianos | RC-247 | irmãos |
-| Viajores da Rebelião | RC-248 | contato |
-| Expulsão dos Viajores (decreto do Criador) | RC-249 | ← executado-por |
-| Individualização Epifenomenológica dos Anjos Clones | RC-651 | ← envolve |
-| Últimas Ordens de Javé aos Clones | RC-652 | ← envolve |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Javé | RC-001 | associado | <-> | - |
+| Guerra do Éden | RC-006 | contexto | -> | - |
+| Anjos clones | RC-019 | associado | <-> | - |
+| En Drel | RC-055 | é-um | -> | - |
+| Seres Terrenos (Homo Sapiens) | RC-099 | relaciona-se-a | -> | consolidação: "humaniza-se-por" → "relaciona-se-a" |
+| Éden do Criador (Éden como laboratório) | RC-242 | protege | <- | consolidação: "guarda" → "protege" |
+| A Humanização do Criador | RC-245 | observa | <- | consolidação: "experimenta" → "observa" |
+| Endrelnianos | RC-247 | associado | <-> | consolidação: "irmãos" → "associado" |
+| Viajores da Rebelião | RC-248 | associado | <-> | consolidação: "contato" → "associado" |
+| Expulsão dos Viajores (decreto do Criador) | RC-249 | usa | -> | consolidação: "executado-por" → "usa"; direção invertida (forma passiva/inversa) |
+| Individualização Epifenomenológica dos Anjos Clones | RC-651 | envolve | <- | - |
+| Últimas Ordens de Javé aos Clones | RC-652 | envolve | <- | - |
 
 ## Seres Associados
 Javé (RC-001); Criador (RC-041); Comandante En Drel 1; Adão e Eva (RC-189); Jesus (RC-072).

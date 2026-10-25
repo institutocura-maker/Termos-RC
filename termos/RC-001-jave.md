@@ -24,153 +24,153 @@ Nas RC, Javé é o Deus bíblico do Antigo Testamento — Jeová/Yahweh, Alá, B
 Tema central da obra de Ellam (livros *O Drama Cósmico de Javé*, 2010, e *O Drama Espiritual de Javé*, 2011). O glossário de B031 situa Javé como o Criador do universo material e do universo antimaterial, cuja "queda" na própria Criação gerou os dois universos paralelos.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Rebelião de Lúcifer | RC-002 | associado |
-| Reintegração Cósmica | RC-003 | associado |
-| Elohim | RC-004 | associado |
-| Guerra do Éden | RC-006 | associado |
-| Exilados de Capela | RC-007 | associado |
-| Sophia (Cristo Cósmico) | RC-009 | associado |
-| Aya e Aye | RC-031 | associado |
-| Brahma (Brajna) | RC-037 | sinônimo |
-| Brahma (Brajna) | RC-037 | ← correspondência-em-teologia-comparada-de |
-| Criador (Brahma/Javé/Demiurgo) | RC-041 | sinônimo |
-| Criatura Universal | RC-042 | associado |
-| Deus / Deus Incognoscível | RC-052 | associado |
-| En Drel | RC-055 | associado |
-| Favor Divino | RC-063 | associado |
-| Jesus | RC-072 | ← relaciona-se-a |
-| Len Mion (Satã) | RC-074 | associado |
-| Zont En Drel 29 | RC-147 | associado |
-| Criaturas-ferramenta | RC-164 | ← relaciona-se-a |
-| Colmeia Universal | RC-174 | associado |
-| Abelha-Rainha (Javé) | RC-175 | ← variação |
-| Mente Coletiva / Redes Psíquicas Coletivas | RC-188 | associado |
-| Big Data Cósmico | RC-194 | ← instrumento-de |
-| Rédeas Genéticas | RC-198 | associado |
-| Linhagens Preferenciais do Criador | RC-202 | associado |
-| Arquiteto Universal | RC-207 | é-um |
-| O Grande Dia do Senhor Javé | RC-212 | associado |
-| Centro de Comando Paralelo | RC-213 | associado |
-| Queda do Arquiteto Universal | RC-216 | ← resulta-em |
-| Conspiração do Desespero | RC-220 | associado |
-| O Mal: Subproduto da Ignorância Espiritual | RC-223 | associado |
-| Gestão Cósmica | RC-225 | associado |
-| A Lógica de Javé e a Origem da Humanidade | RC-229 | associado |
-| Razão Filosófica dos Terráqueos | RC-231 | associado |
-| A Humanização do Criador | RC-245 | associado |
-| Expulsão dos Viajores (decreto do Criador) | RC-249 | associado |
-| Kether (Javé na Cabala) | RC-261 | ← variação |
-| Kether (Javé na Cabala) | RC-261 | ← variação |
-| Sepher ha-Zohar (e Shimon Bar Yochai) | RC-266 | associado |
-| A Falsa Trindade (Concílio de Niceia) | RC-273 | associado |
-| Caos = Brahma = Javé (correspondência) | RC-284 | ← variação |
-| Adhyshprabrajna (Adhy que caiu) | RC-310 | associado |
-| Genética Totalitária | RC-325 | associado |
-| Povos Escolhidos (ariano, judeu, árabe) | RC-326 | associado |
-| Ra-Atom / Og-mi (nomes do Criador) | RC-331 | associado |
-| Teocracia da Doença de uma Divindade | RC-334 | associado |
-| Ética da Sobrevivência de Javé | RC-336 | associado |
-| Jeová (grafia da trilogia) | RC-346 | ← variação |
-| Egrégora (circuito dos elétrons rebeldes) | RC-385 | associado |
-| Cartas a Javé (obra e diálogo) | RC-416 | associado |
-| Resposta de Javé (em 1ª pessoa) | RC-417 | ← é-um |
-| Sou eu que vivo em vocês (Javé) | RC-419 | ← é-um |
-| As Memórias de Javé (crônicas) | RC-421 | ← é-um |
-| As Memórias de Javé (crônicas) | RC-421 | ← dita-por |
-| Ser-Criador fracassado (autoconfissão de Javé) | RC-422 | associado |
-| Advogado de Acusação (Ellam × Javé) | RC-423 | ← confronta |
-| Linhagem dos Escolhidos (Adão, Enoch, Abraão, Jacó) | RC-424 | associado |
-| Javé sem avatares ('Não tenho isto!') | RC-426 | associado |
-| Tempo-limite (transição crítica de Javé) | RC-428 | associado |
-| Javé alimenta-se do senso crítico humano | RC-429 | associado |
-| Joctan e Faleg (filhos de Heber) | RC-437 | ← relaciona-se-a |
-| Criaturas-ferramenta | RC-449 | associado |
-| Marduk (= Ra; Anunnaki filho de Enki) | RC-460 | relaciona-se-a |
-| En Ma (Emá / Emar — espírito-âncora) | RC-476 | ← relaciona-se-a |
-| En Ma (Emá / Emar — espírito-âncora) | RC-476 | ← ancora |
-| En Ma (Emá / Emar — espírito-âncora) | RC-476 | ← relaciona-se-a |
-| Chequinhá (veículo/nave de Javé) | RC-478 | ← associado-a |
-| Ialdabaoth (= Javé/Samael/Saklas/Sabaoth) | RC-482 | ← sinônimo |
-| Anjos ministradores (Usá, Azá, Aziel) | RC-484 | associado |
-| Classes de anjos de Arabot-Ráquia (ofanim, serafins, galgaulim, chashmalim) | RC-485 | associado |
-| Enlil (deus sumério, par de Enki) | RC-487 | ← relaciona-se-a |
-| Caim (leitura RC: segundo a nascer) | RC-490 | ← relaciona-se-a |
-| Arabot-Ráquia (ambiente de Javé; = Araboth) | RC-495 | ← associado-a |
-| Demência do Criador (fases da condição de Javé) | RC-526 | associado |
-| Senhor Parameshthi / Brahma Parameshthi (face atual de Javé) | RC-556 | ← variação |
-| Senhor Parameshthi / Brahma Parameshthi (face atual de Javé) | RC-556 | ← relaciona-se-a |
-| Faces de Javé (sucessivas manifestações do Criador) | RC-561 | ← relaciona-se-a |
-| Fatiamento de Consciência | RC-604 | ← envolve |
-| Corpo Manásico / Corpo Mental | RC-625 | relaciona-se-a |
-| Corpo Daiva / Corpo Demoníaco de Plasma | RC-630 | ← relaciona-se-a |
-| Melquizedec | RC-650 | ← relaciona-se-a |
-| Últimas Ordens de Javé aos Clones | RC-652 | ← proferida-por |
-| Quirino Cornélio (Centurião da Crucificação) | RC-659 | associado |
-| Pegadinha de Javé | RC-660 | ← planejada-por |
-| Seres Desalmados | RC-661 | associado |
-| Agenda do Desespero dos Espíritos | RC-662 | associado |
-| Obatalá (correspondência de Javé em Ifá) | RC-666 | ← variação |
-| Obatalá (correspondência de Javé em Ifá) | RC-666 | ← variação |
-| Obatalá (correspondência de Javé em Ifá) | RC-666 | ← variação |
-| Autofagia do Criador | RC-667 | ← condição-de |
-| Metatron | RC-671 | associado |
-| Torá / Pentateuco | RC-683 | associado |
-| Tormento dos Eleitos de Javé | RC-685 | associado |
-| Buraco Negro Mental / Consciencial | RC-717 | ← primeiro-caso |
-| Buraco Negro Mental / Consciencial | RC-717 | ← relaciona-se-a |
-| Aristocracia Olimpiana e Monarquias Terrestres | RC-736 | ← atribuído-a |
-| Projeto Amaterasu–Kami no Japão | RC-737 | associado |
-| Projeto Orunmilá–Olodus | RC-741 | associado |
-| Dessensibilização da Condição Humana | RC-746 | ← relaciona-se-a |
-| Vício Devocional | RC-749 | ← relaciona-se-a |
-| Moisés e o Êxodo (leitura RC) | RC-750 | ← relaciona-se-a |
-| Agenda Espiritual | RC-752 | ← relaciona-se-a |
-| As Cinco Lentes da Realidade | RC-761 | ← relaciona-se-a |
-| Ao Vencedor as Batatas (paradigma do domínio) | RC-764 | ← relaciona-se-a |
-| Relógio Messiânico | RC-765 | ← relaciona-se-a |
-| Corpos Fenvã (terceira forma de vida do universo vizinho) | RC-769 | associado |
-| Pactos de Javé (Brama / Vishnu / Shiva) | RC-781 | associado |
-| Javé como Caos Personificado | RC-782 | associado |
-| Racionalidade Humana Trucidada | RC-786 | associado |
-| Lamúria dos Deuses (Diagnóstico de Prometeu) | RC-791 | associado |
-| Era da Solidão de Javé (500 Milhões de Anos) | RC-808 | associado |
-| Pandemia de Buraco Branco que Traga (Javé Tragado pela Criação) | RC-809 | associado |
-| Shiva como Primeiro Demo (Saiu do Clone Destruído) | RC-810 | associado |
-| Fissão em Dois Universos (Matéria + Antimatéria) | RC-811 | associado |
-| Eva como 3ª Tentativa de Fêmea para Adão (Homem + Mulher da Espécie Sábia) | RC-814 | associado |
-| Agar como 2ª Tentativa Fracassada de Fêmea para Adão | RC-817 | associado |
-| Patriarcado desde Pandora (Origem no Feminino, Dominação pelo Masculino) | RC-818 | associado |
-| Prole sem Face (Humanos Modificáveis sem Face Definida) | RC-819 | associado |
-| Alimentação por Perfume dos Humanos (Demos se Alimentam de DNA) | RC-820 | associado |
-| Vechame Existencial (Sangue de Barata = Amor sem Submissão) | RC-823 | associado |
-| Greve de Fome Genética (Suicídio como Quebra do Código Demoníaco) | RC-824 | associado |
-| Código Genético como Marca da Herança Demoníaca | RC-825 | associado |
-| Era do Colapso do Caos Organizado | RC-827 | associado |
-| Sistema Arcaico Mental (Javé Como Abelha Rainha) | RC-828 | associado |
-| Sophia Como Biodemo da Ordem e Caos | RC-831 | associado |
-| Família Aya (Clone de Sophia para Inseminação Artificial de Maria) | RC-834 | associado |
-| Família Aye (Clone de Sophia para Inseminação Artificial de Maria) | RC-835 | associado |
-| Forno de Awayen (forno de Brahma/Javé → Central de Realidades) | RC-836 | associado |
-| Prajapati (a divindade antes de virar Brama) | RC-852 | associado |
-| Elo Adâmico (o gene que Javé pôs em Adão) | RC-857 | associado |
-| Desígnios Proféticos (profecia como instrumento de domínio e sua desconexão) | RC-858 | associado |
-| Suserania Universal (herança prometida a Rockma/Sofia) | RC-859 | associado |
-| Nova Aliança (a proposta de Jesus contra a velha aliança dos pactos de Javé) | RC-860 | associado |
-| Ocaso do Criador (a segunda derrocada do criador reconstruído) | RC-863 | associado |
-| Fórmulas Mentais (o código dos demos, contraposto ao DNA humano) | RC-870 | associado |
-| Atos performativos (as frases que fazem coisas com palavras) | RC-876 | associado |
-| Carga virótica (a materialização da primeira carga mental do criador) | RC-877 | associado |
-| Disforia de gênio (a confiança ilimitada na pretensa capacidade) | RC-878 | associado |
-| Biocosmos emergente (a nova mente biológica global ancorada nos campos mórficos) | RC-879 | associado |
-| Maestria existencial (o valor repousado no modo como se vive) | RC-880 | associado |
-| O Tal (Tao) (a via de ressignificação que faz da podridão da criação alimento) | RC-881 | associado |
-| Fator Javé (o marco operacional do fim da atuação como médium passivo) | RC-882 | associado |
-| Bemisia tabaci / Mosca branca (a praga que incorporou um gene vegetal; metáfora do humano que domou o gene demo) | RC-884 | associado |
-| Biblioteca Genômica Humana | RC-889 | associado |
-| Ismos como Limitação Genômica | RC-891 | associado |
-| Point Interdimensional | RC-896 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Rebelião de Lúcifer | RC-002 | associado | <-> | - |
+| Reintegração Cósmica | RC-003 | associado | <-> | - |
+| Elohim | RC-004 | associado | <-> | - |
+| Guerra do Éden | RC-006 | associado | <-> | - |
+| Exilados de Capela | RC-007 | associado | <-> | - |
+| Sophia (Cristo Cósmico) | RC-009 | associado | <-> | - |
+| Aya e Aye | RC-031 | associado | <-> | - |
+| Brahma (Brajna) | RC-037 | variação | -> | consolidação: "sinônimo" → "variação" |
+| Brahma (Brajna) | RC-037 | variação | <- | consolidação: "correspondência-em-teologia-comparada-de" → "variação" |
+| Criador (Brahma/Javé/Demiurgo) | RC-041 | variação | -> | consolidação: "sinônimo" → "variação" |
+| Criatura Universal | RC-042 | associado | <-> | - |
+| Deus / Deus Incognoscível | RC-052 | associado | <-> | - |
+| En Drel | RC-055 | associado | <-> | - |
+| Favor Divino | RC-063 | associado | <-> | - |
+| Jesus | RC-072 | relaciona-se-a | <- | - |
+| Len Mion (Satã) | RC-074 | associado | <-> | - |
+| Zont En Drel 29 | RC-147 | associado | <-> | - |
+| Criaturas-ferramenta | RC-164 | relaciona-se-a | <- | - |
+| Colmeia Universal | RC-174 | associado | <-> | - |
+| Abelha-Rainha (Javé) | RC-175 | variação | <- | - |
+| Mente Coletiva / Redes Psíquicas Coletivas | RC-188 | associado | <-> | - |
+| Big Data Cósmico | RC-194 | usa | <- | consolidação: "instrumento-de" → "usa" |
+| Rédeas Genéticas | RC-198 | associado | <-> | - |
+| Linhagens Preferenciais do Criador | RC-202 | associado | <-> | - |
+| Arquiteto Universal | RC-207 | é-um | -> | - |
+| O Grande Dia do Senhor Javé | RC-212 | associado | <-> | - |
+| Centro de Comando Paralelo | RC-213 | associado | <-> | - |
+| Queda do Arquiteto Universal | RC-216 | causa | <- | consolidação: "resulta-em" → "causa" |
+| Conspiração do Desespero | RC-220 | associado | <-> | - |
+| O Mal: Subproduto da Ignorância Espiritual | RC-223 | associado | <-> | - |
+| Gestão Cósmica | RC-225 | associado | <-> | - |
+| A Lógica de Javé e a Origem da Humanidade | RC-229 | associado | <-> | - |
+| Razão Filosófica dos Terráqueos | RC-231 | associado | <-> | - |
+| A Humanização do Criador | RC-245 | associado | <-> | - |
+| Expulsão dos Viajores (decreto do Criador) | RC-249 | associado | <-> | - |
+| Kether (Javé na Cabala) | RC-261 | variação | <- | - |
+| Kether (Javé na Cabala) | RC-261 | variação | <- | - |
+| Sepher ha-Zohar (e Shimon Bar Yochai) | RC-266 | associado | <-> | - |
+| A Falsa Trindade (Concílio de Niceia) | RC-273 | associado | <-> | - |
+| Caos = Brahma = Javé (correspondência) | RC-284 | variação | <- | - |
+| Adhyshprabrajna (Adhy que caiu) | RC-310 | associado | <-> | - |
+| Genética Totalitária | RC-325 | associado | <-> | - |
+| Povos Escolhidos (ariano, judeu, árabe) | RC-326 | associado | <-> | - |
+| Ra-Atom / Og-mi (nomes do Criador) | RC-331 | associado | <-> | - |
+| Teocracia da Doença de uma Divindade | RC-334 | associado | <-> | - |
+| Ética da Sobrevivência de Javé | RC-336 | associado | <-> | - |
+| Jeová (grafia da trilogia) | RC-346 | variação | <- | - |
+| Egrégora (circuito dos elétrons rebeldes) | RC-385 | associado | <-> | - |
+| Cartas a Javé (obra e diálogo) | RC-416 | associado | <-> | - |
+| Resposta de Javé (em 1ª pessoa) | RC-417 | é-um | <- | - |
+| Sou eu que vivo em vocês (Javé) | RC-419 | é-um | <- | - |
+| As Memórias de Javé (crônicas) | RC-421 | é-um | <- | - |
+| As Memórias de Javé (crônicas) | RC-421 | controla | -> | consolidação: "dita-por" → "controla"; direção invertida (forma passiva/inversa) |
+| Ser-Criador fracassado (autoconfissão de Javé) | RC-422 | associado | <-> | - |
+| Advogado de Acusação (Ellam × Javé) | RC-423 | opõe-se-a | <- | consolidação: "confronta" → "opõe-se-a" |
+| Linhagem dos Escolhidos (Adão, Enoch, Abraão, Jacó) | RC-424 | associado | <-> | - |
+| Javé sem avatares ('Não tenho isto!') | RC-426 | associado | <-> | - |
+| Tempo-limite (transição crítica de Javé) | RC-428 | associado | <-> | - |
+| Javé alimenta-se do senso crítico humano | RC-429 | associado | <-> | - |
+| Joctan e Faleg (filhos de Heber) | RC-437 | relaciona-se-a | <- | - |
+| Criaturas-ferramenta | RC-449 | associado | <-> | - |
+| Marduk (= Ra; Anunnaki filho de Enki) | RC-460 | relaciona-se-a | -> | - |
+| En Ma (Emá / Emar — espírito-âncora) | RC-476 | relaciona-se-a | <- | - |
+| En Ma (Emá / Emar — espírito-âncora) | RC-476 | contexto | <- | consolidação: "ancora" → "contexto" |
+| En Ma (Emá / Emar — espírito-âncora) | RC-476 | relaciona-se-a | <- | - |
+| Chequinhá (veículo/nave de Javé) | RC-478 | associado | <-> | - |
+| Ialdabaoth (= Javé/Samael/Saklas/Sabaoth) | RC-482 | variação | <- | consolidação: "sinônimo" → "variação" |
+| Anjos ministradores (Usá, Azá, Aziel) | RC-484 | associado | <-> | - |
+| Classes de anjos de Arabot-Ráquia (ofanim, serafins, galgaulim, chashmalim) | RC-485 | associado | <-> | - |
+| Enlil (deus sumério, par de Enki) | RC-487 | relaciona-se-a | <- | - |
+| Caim (leitura RC: segundo a nascer) | RC-490 | relaciona-se-a | <- | - |
+| Arabot-Ráquia (ambiente de Javé; = Araboth) | RC-495 | associado | <-> | - |
+| Demência do Criador (fases da condição de Javé) | RC-526 | associado | <-> | - |
+| Senhor Parameshthi / Brahma Parameshthi (face atual de Javé) | RC-556 | variação | <- | - |
+| Senhor Parameshthi / Brahma Parameshthi (face atual de Javé) | RC-556 | relaciona-se-a | <- | - |
+| Faces de Javé (sucessivas manifestações do Criador) | RC-561 | relaciona-se-a | <- | - |
+| Fatiamento de Consciência | RC-604 | envolve | <- | - |
+| Corpo Manásico / Corpo Mental | RC-625 | relaciona-se-a | -> | - |
+| Corpo Daiva / Corpo Demoníaco de Plasma | RC-630 | relaciona-se-a | <- | - |
+| Melquizedec | RC-650 | relaciona-se-a | <- | - |
+| Últimas Ordens de Javé aos Clones | RC-652 | comunica | -> | consolidação: "proferida-por" → "comunica"; direção invertida (forma passiva/inversa) |
+| Quirino Cornélio (Centurião da Crucificação) | RC-659 | associado | <-> | - |
+| Pegadinha de Javé | RC-660 | relaciona-se-a | <- | consolidação: "planejada-por" → "relaciona-se-a" |
+| Seres Desalmados | RC-661 | associado | <-> | - |
+| Agenda do Desespero dos Espíritos | RC-662 | associado | <-> | - |
+| Obatalá (correspondência de Javé em Ifá) | RC-666 | variação | <- | - |
+| Obatalá (correspondência de Javé em Ifá) | RC-666 | variação | <- | - |
+| Obatalá (correspondência de Javé em Ifá) | RC-666 | variação | <- | - |
+| Autofagia do Criador | RC-667 | requer | <- | consolidação: "condição-de" → "requer" |
+| Metatron | RC-671 | associado | <-> | - |
+| Torá / Pentateuco | RC-683 | associado | <-> | - |
+| Tormento dos Eleitos de Javé | RC-685 | associado | <-> | - |
+| Buraco Negro Mental / Consciencial | RC-717 | é-um | <- | consolidação: "primeiro-caso" → "é-um" |
+| Buraco Negro Mental / Consciencial | RC-717 | relaciona-se-a | <- | - |
+| Aristocracia Olimpiana e Monarquias Terrestres | RC-736 | variação | -> | consolidação: "atribuído-a" → "variação"; direção invertida (forma passiva/inversa) |
+| Projeto Amaterasu–Kami no Japão | RC-737 | associado | <-> | - |
+| Projeto Orunmilá–Olodus | RC-741 | associado | <-> | - |
+| Dessensibilização da Condição Humana | RC-746 | relaciona-se-a | <- | - |
+| Vício Devocional | RC-749 | relaciona-se-a | <- | - |
+| Moisés e o Êxodo (leitura RC) | RC-750 | relaciona-se-a | <- | - |
+| Agenda Espiritual | RC-752 | relaciona-se-a | <- | - |
+| As Cinco Lentes da Realidade | RC-761 | relaciona-se-a | <- | - |
+| Ao Vencedor as Batatas (paradigma do domínio) | RC-764 | relaciona-se-a | <- | - |
+| Relógio Messiânico | RC-765 | relaciona-se-a | <- | - |
+| Corpos Fenvã (terceira forma de vida do universo vizinho) | RC-769 | associado | <-> | - |
+| Pactos de Javé (Brama / Vishnu / Shiva) | RC-781 | associado | <-> | - |
+| Javé como Caos Personificado | RC-782 | associado | <-> | - |
+| Racionalidade Humana Trucidada | RC-786 | associado | <-> | - |
+| Lamúria dos Deuses (Diagnóstico de Prometeu) | RC-791 | associado | <-> | - |
+| Era da Solidão de Javé (500 Milhões de Anos) | RC-808 | associado | <-> | - |
+| Pandemia de Buraco Branco que Traga (Javé Tragado pela Criação) | RC-809 | associado | <-> | - |
+| Shiva como Primeiro Demo (Saiu do Clone Destruído) | RC-810 | associado | <-> | - |
+| Fissão em Dois Universos (Matéria + Antimatéria) | RC-811 | associado | <-> | - |
+| Eva como 3ª Tentativa de Fêmea para Adão (Homem + Mulher da Espécie Sábia) | RC-814 | associado | <-> | - |
+| Agar como 2ª Tentativa Fracassada de Fêmea para Adão | RC-817 | associado | <-> | - |
+| Patriarcado desde Pandora (Origem no Feminino, Dominação pelo Masculino) | RC-818 | associado | <-> | - |
+| Prole sem Face (Humanos Modificáveis sem Face Definida) | RC-819 | associado | <-> | - |
+| Alimentação por Perfume dos Humanos (Demos se Alimentam de DNA) | RC-820 | associado | <-> | - |
+| Vechame Existencial (Sangue de Barata = Amor sem Submissão) | RC-823 | associado | <-> | - |
+| Greve de Fome Genética (Suicídio como Quebra do Código Demoníaco) | RC-824 | associado | <-> | - |
+| Código Genético como Marca da Herança Demoníaca | RC-825 | associado | <-> | - |
+| Era do Colapso do Caos Organizado | RC-827 | associado | <-> | - |
+| Sistema Arcaico Mental (Javé Como Abelha Rainha) | RC-828 | associado | <-> | - |
+| Sophia Como Biodemo da Ordem e Caos | RC-831 | associado | <-> | - |
+| Família Aya (Clone de Sophia para Inseminação Artificial de Maria) | RC-834 | associado | <-> | - |
+| Família Aye (Clone de Sophia para Inseminação Artificial de Maria) | RC-835 | associado | <-> | - |
+| Forno de Awayen (forno de Brahma/Javé → Central de Realidades) | RC-836 | associado | <-> | - |
+| Prajapati (a divindade antes de virar Brama) | RC-852 | associado | <-> | - |
+| Elo Adâmico (o gene que Javé pôs em Adão) | RC-857 | associado | <-> | - |
+| Desígnios Proféticos (profecia como instrumento de domínio e sua desconexão) | RC-858 | associado | <-> | - |
+| Suserania Universal (herança prometida a Rockma/Sofia) | RC-859 | associado | <-> | - |
+| Nova Aliança (a proposta de Jesus contra a velha aliança dos pactos de Javé) | RC-860 | associado | <-> | - |
+| Ocaso do Criador (a segunda derrocada do criador reconstruído) | RC-863 | associado | <-> | - |
+| Fórmulas Mentais (o código dos demos, contraposto ao DNA humano) | RC-870 | associado | <-> | - |
+| Atos performativos (as frases que fazem coisas com palavras) | RC-876 | associado | <-> | - |
+| Carga virótica (a materialização da primeira carga mental do criador) | RC-877 | associado | <-> | - |
+| Disforia de gênio (a confiança ilimitada na pretensa capacidade) | RC-878 | associado | <-> | - |
+| Biocosmos emergente (a nova mente biológica global ancorada nos campos mórficos) | RC-879 | associado | <-> | - |
+| Maestria existencial (o valor repousado no modo como se vive) | RC-880 | associado | <-> | - |
+| O Tal (Tao) (a via de ressignificação que faz da podridão da criação alimento) | RC-881 | associado | <-> | - |
+| Fator Javé (o marco operacional do fim da atuação como médium passivo) | RC-882 | associado | <-> | - |
+| Bemisia tabaci / Mosca branca (a praga que incorporou um gene vegetal; metáfora do humano que domou o gene demo) | RC-884 | associado | <-> | - |
+| Biblioteca Genômica Humana | RC-889 | associado | <-> | - |
+| Ismos como Limitação Genômica | RC-891 | associado | <-> | - |
+| Point Interdimensional | RC-896 | associado | <-> | - |
 
 ## Fontes
 | Fonte | Localização | Tipo |

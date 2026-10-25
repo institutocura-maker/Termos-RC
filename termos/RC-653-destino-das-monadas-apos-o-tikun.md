@@ -23,13 +23,13 @@ Questão sobre preservação da individualidade das mônadas e seu destino após
 Extraído da live P2025-10-25 — 2ª Edição Estagiários do Kaos.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Reintegração Cósmica | RC-003 | — |
-| Deidade (Pai-Mãe Amantíssimo / Brahman) | RC-047 | — |
-| Mônada (Mônada Espiritual) | RC-149 | envolve |
-| Tikun Cósmico (restabelecimento da Criação) | RC-514 | sucede |
-| Tikun Cósmico (restabelecimento da Criação) | RC-514 | sucede |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Reintegração Cósmica | RC-003 | - | - | sem relação informada; 17 linhas são registros de fonte com 4 colunas |
+| Deidade (Pai-Mãe Amantíssimo / Brahman) | RC-047 | - | - | sem relação informada; 17 linhas são registros de fonte com 4 colunas |
+| Mônada (Mônada Espiritual) | RC-149 | envolve | -> | - |
+| Tikun Cósmico (restabelecimento da Criação) | RC-514 | sucede | -> | - |
+| Tikun Cósmico (restabelecimento da Criação) | RC-514 | sucede | -> | - |
 
 ## Seres Associados
 Consultar relações na Base.

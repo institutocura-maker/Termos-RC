@@ -29,16 +29,16 @@ Era o Comando da Frota Norte, composto por 5 membros (3 Val e 2 Yel): Val Amon, 
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Benem | RC-032 | associado |
-| Frota Norte | RC-065 | associado |
-| Val Amon | RC-111 | associado |
-| Val Elliah | RC-121 | associado |
-| Val Ellieh | RC-122 | associado |
-| Yel Am / Yel Liam | RC-138 | associado |
-| Yel Luziel | RC-143 | associado |
-| Conselho dos Cinco (comando da Frota Norte: 3 Val + 2 Yel) | RC-501 | ← variação |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Benem | RC-032 | associado | <-> | - |
+| Frota Norte | RC-065 | associado | <-> | - |
+| Val Amon | RC-111 | associado | <-> | - |
+| Val Elliah | RC-121 | associado | <-> | - |
+| Val Ellieh | RC-122 | associado | <-> | - |
+| Yel Am / Yel Liam | RC-138 | associado | <-> | - |
+| Yel Luziel | RC-143 | associado | <-> | - |
+| Conselho dos Cinco (comando da Frota Norte: 3 Val + 2 Yel) | RC-501 | variação | <- | - |
 
 ## Fontes
 

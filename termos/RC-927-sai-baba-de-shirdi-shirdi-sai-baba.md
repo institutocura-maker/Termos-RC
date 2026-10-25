@@ -26,13 +26,13 @@ Segundo as Revelações Cósmicas, **Sai Baba de Shirdi (Shirdi Sai Baba)** é a
 - Reverenciado por hindus e muçulmanos; célebre pela vida simples e por transitar entre as duas tradições.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Lila | RC-075 | contexto |
-| Shiva (Savna) | RC-102 | encarnação-de |
-| Saibaba como Precursor de Jesus | RC-801 | parte-de |
-| Sathya Sai Baba | RC-928 | ← encarnação-posterior-de |
-| Prema Sai (Prima Sai / Prem Sai) | RC-929 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Lila | RC-075 | contexto | -> | - |
+| Shiva (Savna) | RC-102 | origina | -> | consolidação: "encarnação-de" → "origina" |
+| Saibaba como Precursor de Jesus | RC-801 | parte-de | -> | - |
+| Sathya Sai Baba | RC-928 | origina | <- | consolidação: "encarnação-posterior-de" → "origina" |
+| Prema Sai (Prima Sai / Prem Sai) | RC-929 | associado | <-> | - |
 
 ## Seres Associados
 - **Shiva** (RC-102) — a consciência que se encarna na linhagem Sai

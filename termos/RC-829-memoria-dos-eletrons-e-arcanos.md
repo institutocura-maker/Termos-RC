@@ -24,17 +24,17 @@ Tese (leitura do autor, palestra **P2023-12-17**, U0003/U0004) de que os **elét
 Aparece em **P2023-12-17**, U0003 e U0004. Contexto: a palestra apresenta a **memória dos elétrons** como o **arquivo mais antigo da criação** — mais antigo que qualquer ser, mais antigo que Javé, mais antigo que Sophia. "Os elétrons eles estão trabalhando com as formas arcanas no âmbito do inconsciente dos elétrons." O autor cita **Charon** (físico nuclear francês) como o descobridor da memória dos elétrons nos anos 70. Cita também **Jung** ("inconsciente coletivo aprovado matematicamente") como paralelo acadêmico.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Seres Terrenos (Homo Sapiens) | RC-099 | é-paralelo-a |
-| Nidana (ovo cósmico) | RC-154 | é-paralelo-formal-com |
-| Memória Quântica dos Elétrons | RC-161 | é-paralelo-com |
-| Elétrons (agente básico da vida universal) | RC-162 | tem-memória |
-| A Rebelião dos Elétrons | RC-378 | associado |
-| Rebelião dos Elétrons (Além da Entropia) | RC-826 | desfaz-arcanos-de |
-| Era do Colapso do Caos Organizado | RC-827 | é-contexto-de |
-| Sistema Arcaico Mental (Javé Como Abelha Rainha) | RC-828 | é-memória-mais-antiga-de |
-| Pulsação dos Elétrons Como Afetividade Humana | RC-832 | é-manifestação-de |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Seres Terrenos (Homo Sapiens) | RC-099 | associado | <-> | consolidação: "é-paralelo-a" → "associado" |
+| Nidana (ovo cósmico) | RC-154 | associado | <-> | consolidação: "é-paralelo-formal-com" → "associado" |
+| Memória Quântica dos Elétrons | RC-161 | associado | <-> | consolidação: "é-paralelo-com" → "associado" |
+| Elétrons (agente básico da vida universal) | RC-162 | relaciona-se-a | -> | consolidação: "tem-memória" → "relaciona-se-a" |
+| A Rebelião dos Elétrons | RC-378 | associado | <-> | - |
+| Rebelião dos Elétrons (Além da Entropia) | RC-826 | relaciona-se-a | -> | consolidação: "desfaz-arcanos-de" → "relaciona-se-a" |
+| Era do Colapso do Caos Organizado | RC-827 | contexto | -> | consolidação: "é-contexto-de" → "contexto" |
+| Sistema Arcaico Mental (Javé Como Abelha Rainha) | RC-828 | precede | -> | consolidação: "é-memória-mais-antiga-de" → "precede" |
+| Pulsação dos Elétrons Como Afetividade Humana | RC-832 | representa | -> | consolidação: "é-manifestação-de" → "representa" |
 
 ## Seres Associados
 - **Elétrons (RC-162)** — quem tem a memória

@@ -22,14 +22,14 @@ Forma validada pelo curador.
 P2026-02-28.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Shiva (Savna) | RC-102 | percebido-por |
-| Descendência de Kadru (Nagas, Uragas e Maharagas) | RC-664 | ← relaciona-se-a |
-| Descendência de Kadru (Nagas, Uragas e Maharagas) | RC-664 | relaciona-se-a |
-| Pashupati (avatar de Shiva) | RC-669 | associado |
-| Yoga Ancestral (Origem Cósmica) | RC-670 | origina |
-| Mão Invisível Multiforme / Conselho das Nagas | RC-697 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Shiva (Savna) | RC-102 | observa | -> | consolidação: "percebido-por" → "observa" |
+| Descendência de Kadru (Nagas, Uragas e Maharagas) | RC-664 | relaciona-se-a | <- | - |
+| Descendência de Kadru (Nagas, Uragas e Maharagas) | RC-664 | relaciona-se-a | -> | - |
+| Pashupati (avatar de Shiva) | RC-669 | associado | <-> | - |
+| Yoga Ancestral (Origem Cósmica) | RC-670 | origina | -> | - |
+| Mão Invisível Multiforme / Conselho das Nagas | RC-697 | associado | <-> | - |
 
 ## Seres Associados
 Consultar Base.

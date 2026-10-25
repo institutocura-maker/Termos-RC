@@ -17,19 +17,19 @@ atualizado = "2026-09-12"
 Na leitura da RC, Caim não foi o primogênito — Abel nasceu primeiro; Caim teria sido usado por Javé para anular a primogenitura de Abel.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | relaciona-se-a |
-| Cidadão Cósmico | RC-226 | relaciona-se-a |
-| Linhagem dos Escolhidos (Adão, Enoch, Abraão, Jacó) | RC-424 | associado |
-| Enoque (sétimo patriarca; levado por Javé) | RC-489 | relaciona-se-a |
-| Noreia (Norea) | RC-579 | associado |
-| Linhagem de Seth | RC-594 | associado |
-| Abel | RC-684 | relaciona-se-a |
-| Abel | RC-684 | ← relaciona-se-a |
-| Abel | RC-684 | ← relaciona-se-a |
-| Abel | RC-684 | relaciona-se-a |
-| Tonteltã | RC-907 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Javé | RC-001 | relaciona-se-a | -> | - |
+| Cidadão Cósmico | RC-226 | relaciona-se-a | -> | - |
+| Linhagem dos Escolhidos (Adão, Enoch, Abraão, Jacó) | RC-424 | associado | <-> | - |
+| Enoque (sétimo patriarca; levado por Javé) | RC-489 | relaciona-se-a | -> | - |
+| Noreia (Norea) | RC-579 | associado | <-> | - |
+| Linhagem de Seth | RC-594 | associado | <-> | - |
+| Abel | RC-684 | relaciona-se-a | -> | - |
+| Abel | RC-684 | relaciona-se-a | <- | - |
+| Abel | RC-684 | relaciona-se-a | <- | - |
+| Abel | RC-684 | relaciona-se-a | -> | - |
+| Tonteltã | RC-907 | associado | <-> | - |
 
 ## Fontes
 

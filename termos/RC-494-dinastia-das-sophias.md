@@ -17,15 +17,15 @@ atualizado = "2026-09-13"
 Nome do terceiro conselho dos deuses na leitura da RC: a dinastia dos arcontes ("Conselho dos 70", "Eloim", "Conselho dos Arcontes", "Dinastia das Sophias" são faces do mesmo colegiado). Composta por consciências fatiadas dos espíritos Emá (En Ma) e Ensá; surgiu quando a humanidade emergiu (últimos ~25.000 anos; fixada em 70 membros nos últimos ~4.000 anos). Na palestra P2026-07-25: "Sofia não é nome — é epíteto (personificação de um tipo de sabedoria)"; cada arconte é dono de um clã humano (70 clãs desde a Torre de Babel); a dinastia está em crise terminal (universo vizinho colapsando, sem novos membros, alguns se retirando — "dias contados").
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Sophia (Cristo Cósmico) | RC-009 | relaciona-se-a |
-| Timé (de um deus) | RC-293 | relaciona-se-a |
-| Arcontes (= Sophias e Indras; Conselho dos 70) | RC-474 | ← relaciona-se-a |
-| En Ma (Emá / Emar — espírito-âncora) | RC-476 | relaciona-se-a |
-| Ensá (espírito primordial companheiro de En Ma) | RC-477 | relaciona-se-a |
-| Pistis Sophia (feminino cósmico gnóstico) | RC-530 | associado |
-| Hipóstase dos Arcontes (livro gnóstico; 'realidade dos regentes') | RC-770 | relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Sophia (Cristo Cósmico) | RC-009 | relaciona-se-a | -> | - |
+| Timé (de um deus) | RC-293 | relaciona-se-a | -> | - |
+| Arcontes (= Sophias e Indras; Conselho dos 70) | RC-474 | relaciona-se-a | <- | - |
+| En Ma (Emá / Emar — espírito-âncora) | RC-476 | relaciona-se-a | -> | - |
+| Ensá (espírito primordial companheiro de En Ma) | RC-477 | relaciona-se-a | -> | - |
+| Pistis Sophia (feminino cósmico gnóstico) | RC-530 | associado | <-> | - |
+| Hipóstase dos Arcontes (livro gnóstico; 'realidade dos regentes') | RC-770 | relaciona-se-a | -> | - |
 
 ## Fontes
 

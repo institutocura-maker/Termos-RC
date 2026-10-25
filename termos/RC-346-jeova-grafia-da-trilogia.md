@@ -24,14 +24,14 @@ A grafia **"Jeová"** — usada na trilogia "Queda e Ascensão Espiritual" (B003
 A trilogia é a primeira fase do pensamento de Ellam (1999–2000), em que o vocabulário ainda usava "Jeová" (73 ocorrências no PDF) — antes da consolidação de "Javé" e das correspondências Caos/Brahma/Javé (RC-284) nas obras posteriores (a partir de 2007). O termo registra a evolução terminológica do corpus: **Jeová → Javé → Caos/Brahma/Javé**.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | variação |
-| Criador (Brahma/Javé/Demiurgo) | RC-041 | é-um |
-| Lúcifer (Yel Luzbel) | RC-078 | relaciona-se-a |
-| Revelação Cósmica (conceito) | RC-094 | associado |
-| Caos = Brahma = Javé (correspondência) | RC-284 | variação |
-| Mestres de Capela | RC-351 | contexto |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Javé | RC-001 | variação | -> | - |
+| Criador (Brahma/Javé/Demiurgo) | RC-041 | é-um | -> | - |
+| Lúcifer (Yel Luzbel) | RC-078 | relaciona-se-a | -> | - |
+| Revelação Cósmica (conceito) | RC-094 | associado | <-> | - |
+| Caos = Brahma = Javé (correspondência) | RC-284 | variação | -> | - |
+| Mestres de Capela | RC-351 | contexto | -> | - |
 
 ## Seres Associados
 Javé (RC-001); Criador (RC-041); Lúcifer (RC-078); Jesus (RC-072).

@@ -26,10 +26,10 @@ Aparece na Aula 03 (fonte primária F044). Verbatim-chave:
 > «No dia em que Jesus foi preso pela turma do Sinédrio, era para prender toda a turma de Jesus. Pedro negou várias vezes. Foi quando Jesus percebeu que aqueles 11 apóstolos que ele havia escolhido lá da Galileia, porque o 12º, era Judas da Judeia,» — P2023-12-25-03 · `original.txt` L13 · reanexado à fonte na U101 (A5); o trecho legado não trazia aparelho de linha nem era verificável byte a byte.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Jesus | RC-072 | associado |
-| Evangelho de Bartolomeu | RC-904 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Jesus | RC-072 | associado | <-> | - |
+| Evangelho de Bartolomeu | RC-904 | associado | <-> | - |
 
 - Jesus — RC-072;
 - Apóstolos — RC-904.

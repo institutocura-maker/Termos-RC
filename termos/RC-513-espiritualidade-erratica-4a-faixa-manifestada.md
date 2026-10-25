@@ -26,16 +26,16 @@ Na cosmologia de Ellam, a faixa espiritual intermediária que envolve a Terra �
 - **[P2024-07-14] Proveniência:** palestra de Jan Val Ellam; transcrição STT pré-curada; devolutiva do curador registrada em 2026-08-20 (ficha autorizada).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Espiritualidade Laboratorial | RC-061 | relaciona-se-a |
-| Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | relaciona-se-a |
-| Universo Material (Bhuloka) | RC-107 | associado |
-| Roseral do Alto | RC-616 | associado |
-| Tempo como Transformação / Permanente Agora | RC-634 | associado |
-| Abismo da Providência / Falsa Providência | RC-723 | ← relaciona-se-a |
-| Faixas Espirituais de Ressonância | RC-726 | ← relaciona-se-a |
-| Colegiados Espirituais Humanizados | RC-745 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Espiritualidade Laboratorial | RC-061 | relaciona-se-a | -> | - |
+| Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | relaciona-se-a | -> | - |
+| Universo Material (Bhuloka) | RC-107 | associado | <-> | - |
+| Roseral do Alto | RC-616 | associado | <-> | - |
+| Tempo como Transformação / Permanente Agora | RC-634 | associado | <-> | - |
+| Abismo da Providência / Falsa Providência | RC-723 | relaciona-se-a | <- | - |
+| Faixas Espirituais de Ressonância | RC-726 | relaciona-se-a | <- | - |
+| Colegiados Espirituais Humanizados | RC-745 | associado | <-> | - |
 
 
 - Faixas Espirituais de Ressonância — RC-726;

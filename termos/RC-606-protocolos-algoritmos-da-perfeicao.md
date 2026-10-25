@@ -24,19 +24,19 @@ Padrões originais que manteriam os seres paradisíacos dentro da perfeição, s
 A saída desses protocolos permitiria a incompletude, a criatividade e os riscos das faixas derivadas.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Espiritualidade Operacional | RC-060 | precede |
-| Mente Coletiva / Redes Psíquicas Coletivas | RC-188 | associado |
-| Realidade Maior / Paraíso Original | RC-204 | associado |
-| Liberdade Mental (premissa do Quarto Logos) | RC-253 | opõe-se-a |
-| Seres Originais do Paraíso | RC-600 | rege |
-| Círculo / Circuito da Perfeição | RC-603 | relaciona-se-a |
-| Autismo Funcional dos Seres da Espiritualidade Superior | RC-605 | associado |
-| Corpo Átmico | RC-623 | associado |
-| Corpo Búdico | RC-624 | associado |
-| Corpo Manásico / Corpo Mental | RC-625 | associado |
-| Instabilidade da Eternidade | RC-648 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Espiritualidade Operacional | RC-060 | precede | -> | - |
+| Mente Coletiva / Redes Psíquicas Coletivas | RC-188 | associado | <-> | - |
+| Realidade Maior / Paraíso Original | RC-204 | associado | <-> | - |
+| Liberdade Mental (premissa do Quarto Logos) | RC-253 | opõe-se-a | -> | - |
+| Seres Originais do Paraíso | RC-600 | controla | -> | consolidação: "rege" → "controla" |
+| Círculo / Circuito da Perfeição | RC-603 | relaciona-se-a | -> | - |
+| Autismo Funcional dos Seres da Espiritualidade Superior | RC-605 | associado | <-> | - |
+| Corpo Átmico | RC-623 | associado | <-> | - |
+| Corpo Búdico | RC-624 | associado | <-> | - |
+| Corpo Manásico / Corpo Mental | RC-625 | associado | <-> | - |
+| Instabilidade da Eternidade | RC-648 | associado | <-> | - |
 
 ## Seres Associados
 Consultar as relações tipadas acima.

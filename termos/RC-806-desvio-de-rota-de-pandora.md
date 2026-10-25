@@ -24,23 +24,23 @@ Tese (leitura do autor, palestra **P2017-05-14 — O Desvio de Rota de Pandora e
 Aparece em **P2017-05-14**, U0005. Contexto: a palestra reconstrói a história da criação de Pandora como "presente funesto" de Zeus, mas com um twist: o plano de Zeus **falha** porque os 12 do Olimpo inocularam o **melhor** (não o pior) e Pandora se apaixona pelos humanos. Este é o início da racionalidade humana — anterior a Adão.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Pandora | RC-086 | protagoniza |
-| Seres Terrenos (Homo Sapiens) | RC-099 | apaixona-se-por |
-| Mônada (Mônada Espiritual) | RC-149 | plano-original-de |
-| Linhagem dos Patriarcas Hebreus | RC-270 | associado |
-| Pactos do Criador (troca de informações) | RC-271 | associado |
-| Opção Inusitada de Pandora (humanização) | RC-285 | paralelo-com |
-| Kalil Kadmon (nome demo de Pandora) | RC-299 | é-morada-de |
-| Prometeu (titã) | RC-301 | motivo-da-vingança |
-| Epimeteu (titã) | RC-302 | alvo-do-plano |
-| Pirra | RC-303 | gera-com-epimeteu |
-| Revolução Inacabada de Prometeu e Pandora | RC-788 | paralelo-com |
-| Padrão de Consciência Genético por Espécie | RC-807 | associado |
-| Prometeu como Saca-Nica dos Olímpicos | RC-812 | associado |
-| Prole sem Face (Humanos Modificáveis sem Face Definida) | RC-819 | associado |
-| Vechame Existencial (Sangue de Barata = Amor sem Submissão) | RC-823 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Pandora | RC-086 | envolve | -> | consolidação: "protagoniza" → "envolve" |
+| Seres Terrenos (Homo Sapiens) | RC-099 | relaciona-se-a | -> | consolidação: "apaixona-se-por" → "relaciona-se-a" |
+| Mônada (Mônada Espiritual) | RC-149 | contexto | -> | consolidação: "plano-original-de" → "contexto" |
+| Linhagem dos Patriarcas Hebreus | RC-270 | associado | <-> | - |
+| Pactos do Criador (troca de informações) | RC-271 | associado | <-> | - |
+| Opção Inusitada de Pandora (humanização) | RC-285 | associado | <-> | consolidação: "paralelo-com" → "associado" |
+| Kalil Kadmon (nome demo de Pandora) | RC-299 | contexto | -> | consolidação: "é-morada-de" → "contexto" |
+| Prometeu (titã) | RC-301 | relaciona-se-a | -> | consolidação: "motivo-da-vingança" → "relaciona-se-a" |
+| Epimeteu (titã) | RC-302 | relaciona-se-a | -> | consolidação: "alvo-do-plano" → "relaciona-se-a" |
+| Pirra | RC-303 | origina | -> | consolidação: "gera-com-epimeteu" → "origina" |
+| Revolução Inacabada de Prometeu e Pandora | RC-788 | associado | <-> | consolidação: "paralelo-com" → "associado" |
+| Padrão de Consciência Genético por Espécie | RC-807 | associado | <-> | - |
+| Prometeu como Saca-Nica dos Olímpicos | RC-812 | associado | <-> | - |
+| Prole sem Face (Humanos Modificáveis sem Face Definida) | RC-819 | associado | <-> | - |
+| Vechame Existencial (Sangue de Barata = Amor sem Submissão) | RC-823 | associado | <-> | - |
 
 ## Seres Associados
 - **Pandora** (RC-086) — quem se desvia

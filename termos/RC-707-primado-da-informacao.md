@@ -22,23 +22,23 @@ O humano poderia emitir novas informações para participar da reparação da ob
 
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Prabrajna | RC-152 | relaciona-se-a |
-| Memória Quântica dos Elétrons | RC-161 | associado |
-| Mente Universal (Emergente) | RC-163 | associado |
-| Big Data Cósmico | RC-194 | organiza |
-| Holograma Universal | RC-218 | relaciona-se-a |
-| Holograma Universal | RC-218 | ← relaciona-se-a |
-| Tikun Cósmico (restabelecimento da Criação) | RC-514 | usado-por |
-| Tikun Cósmico (restabelecimento da Criação) | RC-514 | ← usa |
-| Supercomputador Cósmico (Moros — destino) | RC-533 | associado |
-| Primado da Consciência Criativa (Goswami) | RC-546 | relaciona-se-a |
-| Evolução da Informação, não das Espécies | RC-693 | relaciona-se-a |
-| Postulados Quânticos como Manual Operativo | RC-703 | ← relaciona-se-a |
-| Postulados Quânticos como Manual Operativo | RC-703 | explicado-por |
-| Ser Humano Não Local | RC-708 | relaciona-se-a |
-| Ser Humano Não Local | RC-708 | ← usa |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Prabrajna | RC-152 | relaciona-se-a | -> | - |
+| Memória Quântica dos Elétrons | RC-161 | associado | <-> | - |
+| Mente Universal (Emergente) | RC-163 | associado | <-> | - |
+| Big Data Cósmico | RC-194 | inclui | -> | consolidação: "organiza" → "inclui" |
+| Holograma Universal | RC-218 | relaciona-se-a | -> | - |
+| Holograma Universal | RC-218 | relaciona-se-a | <- | - |
+| Tikun Cósmico (restabelecimento da Criação) | RC-514 | usa | <- | consolidação: "usado-por" → "usa"; direção invertida (forma passiva/inversa) |
+| Tikun Cósmico (restabelecimento da Criação) | RC-514 | usa | <- | - |
+| Supercomputador Cósmico (Moros — destino) | RC-533 | associado | <-> | - |
+| Primado da Consciência Criativa (Goswami) | RC-546 | relaciona-se-a | -> | - |
+| Evolução da Informação, não das Espécies | RC-693 | relaciona-se-a | -> | - |
+| Postulados Quânticos como Manual Operativo | RC-703 | relaciona-se-a | <- | - |
+| Postulados Quânticos como Manual Operativo | RC-703 | explica | <- | consolidação: "explicado-por" → "explica"; direção invertida (forma passiva/inversa) |
+| Ser Humano Não Local | RC-708 | relaciona-se-a | -> | - |
+| Ser Humano Não Local | RC-708 | usa | <- | - |
 
 ## Fontes
 | Fonte | Localização | Tipo |

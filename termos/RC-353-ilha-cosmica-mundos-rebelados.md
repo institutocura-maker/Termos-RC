@@ -27,12 +27,12 @@ Na B003 (*Reintegração Cósmica*), o conjunto dos mundos atingidos pela rebeli
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Rebelião de Lúcifer | RC-002 | associado |
-| Isolamento Cósmico | RC-070 | associado |
-| Revelação Cósmica (conceito) | RC-094 | associado |
-| Quarentena Sideral / Cósmica | RC-342 | é-um |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Rebelião de Lúcifer | RC-002 | associado | <-> | - |
+| Isolamento Cósmico | RC-070 | associado | <-> | - |
+| Revelação Cósmica (conceito) | RC-094 | associado | <-> | - |
+| Quarentena Sideral / Cósmica | RC-342 | é-um | -> | - |
 
 ## Fontes
 

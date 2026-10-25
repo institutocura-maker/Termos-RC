@@ -34,24 +34,24 @@ O termo cria uma ponte entre:
 - recusa dos elétrons a repetir configurações intensamente predatórias.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Sophia (Cristo Cósmico) | RC-009 | relaciona-se-a |
-| Seres Espirituais | RC-100 | acompanha |
-| Memória Quântica dos Elétrons | RC-161 | relaciona-se-a |
-| Memória Quântica dos Elétrons | RC-161 | ← relaciona-se-a |
-| Memória Quântica dos Elétrons | RC-161 | usa |
-| Elétrons (agente básico da vida universal) | RC-162 | usa |
-| Elétrons (agente básico da vida universal) | RC-162 | usa |
-| Assinatura da Alma | RC-199 | reconhece |
-| Assinatura da Alma | RC-199 | ← reconhecida-por |
-| Sophia e a Ressurreição de Jesus | RC-280 | ← relaciona-se-a |
-| Herança Cósmica (padrões de existências anteriores) | RC-519 | transporta |
-| Coleta de informações (espírito encarnado) | RC-524 | relaciona-se-a |
-| Espelho da Herança Espiritual no Epigenoma | RC-543 | relaciona-se-a |
-| Duas Pulsações da Criação (elétrons e antielétrons) | RC-636 | relaciona-se-a |
-| Corpo Sutil Reencarnante | RC-704 | ← relaciona-se-a |
-| Corpo Sutil Reencarnante | RC-704 | relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Sophia (Cristo Cósmico) | RC-009 | relaciona-se-a | -> | - |
+| Seres Espirituais | RC-100 | associado | <-> | consolidação: "acompanha" → "associado" |
+| Memória Quântica dos Elétrons | RC-161 | relaciona-se-a | -> | - |
+| Memória Quântica dos Elétrons | RC-161 | relaciona-se-a | <- | - |
+| Memória Quântica dos Elétrons | RC-161 | usa | -> | - |
+| Elétrons (agente básico da vida universal) | RC-162 | usa | -> | - |
+| Elétrons (agente básico da vida universal) | RC-162 | usa | -> | - |
+| Assinatura da Alma | RC-199 | observa | -> | consolidação: "reconhece" → "observa" |
+| Assinatura da Alma | RC-199 | observa | -> | consolidação: "reconhecida-por" → "observa"; direção invertida (forma passiva/inversa) |
+| Sophia e a Ressurreição de Jesus | RC-280 | relaciona-se-a | <- | - |
+| Herança Cósmica (padrões de existências anteriores) | RC-519 | transfere | -> | consolidação: "transporta" → "transfere" |
+| Coleta de informações (espírito encarnado) | RC-524 | relaciona-se-a | -> | - |
+| Espelho da Herança Espiritual no Epigenoma | RC-543 | relaciona-se-a | -> | - |
+| Duas Pulsações da Criação (elétrons e antielétrons) | RC-636 | relaciona-se-a | -> | - |
+| Corpo Sutil Reencarnante | RC-704 | relaciona-se-a | <- | - |
+| Corpo Sutil Reencarnante | RC-704 | relaciona-se-a | -> | - |
 
 ## Fontes
 | Fonte | Localização | Tipo |

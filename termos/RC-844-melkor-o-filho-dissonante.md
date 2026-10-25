@@ -29,12 +29,12 @@ Com isso:
 **Origem do conteúdo da ampliação:** palestra `P2018-12-15 — Terra Atlantis – Aprofundamento` (15/12/2018). Transcrição automatizada, **não conferida com o áudio**; cada aspa foi recortada do `original.txt` pelo índice de âncoras do motor e conferida byte a byte pelo portão B. Nada foi digitado de memória.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Rebelião de Lúcifer | RC-002 | **sem aresta** em `RELACOES`; arquivo existe |
-| Lúcifer (Yel Luzbel) | RC-078 | **sem aresta** em `RELACOES`; arquivo existe |
-| PIA — Peso da Inevitabilidade Ancestral | RC-716 | **sem aresta** em `RELACOES`; arquivo existe |
-| Eru Ilúvatar (criador no Silmarillion) | RC-843 | **sem aresta** em `RELACOES`; **sem arquivo** |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Rebelião de Lúcifer | RC-002 | - | - | sem aresta em RELACOES; arquivo existe |
+| Lúcifer (Yel Luzbel) | RC-078 | - | - | sem aresta em RELACOES; arquivo existe |
+| PIA — Peso da Inevitabilidade Ancestral | RC-716 | - | - | sem aresta em RELACOES; arquivo existe |
+| Eru Ilúvatar (criador no Silmarillion) | RC-843 | - | - | sem aresta em RELACOES; sem arquivo |
 
 
 ## Fontes

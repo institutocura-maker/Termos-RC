@@ -25,16 +25,16 @@ Nome mais completo do Criador antes da queda, encontrado em *Inquisição Trimur
 O nome Adhyshprabrajna (Adhy + Prabrajna) revela a linhagem completa: um ser do **gênero Adhy** (RC-011), em condição **Adhyatman** (RC-013), cujo nome pré-queda era **Prabrajna** (RC-152) — e que após a queda tornou-se Brahma/Javé/Alá em forma Adhydaiva. É a variante mais completa da cadeia Adhyshprabrajna → Prabrajna → Brahma/Javé. A Introdução do B022 também registra as formas **Adhyagya** (espíritos) que respondem por Vishnu e Shiva.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | variação |
-| Adhyatman | RC-013 | condição pré-queda |
-| Adhydaiva | RC-014 | forma pós-queda |
-| Brahma (Brajna) | RC-037 | variação |
-| Criador (Brahma/Javé/Demiurgo) | RC-041 | é-um |
-| Revelação Cósmica (conceito) | RC-094 | associado |
-| Prabrajna | RC-152 | variação |
-| ADHYPRABRAJNA (grafia do diagrama) | RC-410 | ← variação |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Javé | RC-001 | variação | -> | - |
+| Adhyatman | RC-013 | relaciona-se-a | -> | texto bruto original: condição pré-queda |
+| Adhydaiva | RC-014 | relaciona-se-a | -> | texto bruto original: forma pós-queda |
+| Brahma (Brajna) | RC-037 | variação | -> | - |
+| Criador (Brahma/Javé/Demiurgo) | RC-041 | é-um | -> | - |
+| Revelação Cósmica (conceito) | RC-094 | associado | <-> | - |
+| Prabrajna | RC-152 | variação | -> | - |
+| ADHYPRABRAJNA (grafia do diagrama) | RC-410 | variação | <- | - |
 
 ## Seres Associados
 Prabrajna (RC-152); Brahma (RC-037); Javé (RC-001); Criador (RC-041).

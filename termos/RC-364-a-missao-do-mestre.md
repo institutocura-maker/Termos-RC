@@ -27,11 +27,11 @@ Título do capítulo 6 de B005. Segundo a obra, «como gesto de amor pelos que v
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Segundo Advento do Cristo (Volta de Jesus) | RC-005 | associado |
-| Jesus | RC-072 | envolve |
-| Revelação Cósmica (conceito) | RC-094 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Segundo Advento do Cristo (Volta de Jesus) | RC-005 | associado | <-> | - |
+| Jesus | RC-072 | envolve | -> | - |
+| Revelação Cósmica (conceito) | RC-094 | associado | <-> | - |
 
 ## Fontes
 

@@ -29,17 +29,17 @@ Com isso:
 **Origem do conteúdo da ampliação:** palestra `P2023-12-03 — A Rebelião de Lúcifer ainda por ser Finalizada` (03/12/2023, na sala). Transcrição automatizada, **não conferida com o áudio**; cada aspa foi recortada do `original.txt` pelo índice de âncoras do motor e conferida byte a byte pelo portão B. Nada foi digitado de memória.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Reintegração Cósmica | RC-003 | antecede |
-| Reintegração Cósmica | RC-003 | ← relaciona-se-a |
-| Segundo Advento do Cristo (Volta de Jesus) | RC-005 | **sem aresta** em `RELACOES`; arquivo existe |
-| Revelação Cósmica (conceito) | RC-094 | **sem aresta** em `RELACOES`; arquivo existe |
-| Quarentena Sideral / Cósmica | RC-342 | **sem aresta** em `RELACOES`; arquivo existe |
-| Projeto Orbum (cidadania planetária) | RC-535 | associado |
-| Era do Conhecimento e da Espiritualização | RC-536 | associado |
-| Maré Cósmica (eventos cósmicos que afetam a Terra) | RC-537 | ← relaciona-se-a |
-| Cinturão de Fótons | RC-573 | **sem aresta** em `RELACOES`; arquivo existe |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Reintegração Cósmica | RC-003 | precede | -> | consolidação: "antecede" → "precede" |
+| Reintegração Cósmica | RC-003 | relaciona-se-a | <- | - |
+| Segundo Advento do Cristo (Volta de Jesus) | RC-005 | - | - | sem aresta em RELACOES; arquivo existe |
+| Revelação Cósmica (conceito) | RC-094 | - | - | sem aresta em RELACOES; arquivo existe |
+| Quarentena Sideral / Cósmica | RC-342 | - | - | sem aresta em RELACOES; arquivo existe |
+| Projeto Orbum (cidadania planetária) | RC-535 | associado | <-> | - |
+| Era do Conhecimento e da Espiritualização | RC-536 | associado | <-> | - |
+| Maré Cósmica (eventos cósmicos que afetam a Terra) | RC-537 | relaciona-se-a | <- | - |
+| Cinturão de Fótons | RC-573 | - | - | sem aresta em RELACOES; arquivo existe |
 
 
 ## Ampliação — OIDR26-04 (Onda incremental dry-run — Experiência espiritual e ética evolutiva (derivados normalizados))

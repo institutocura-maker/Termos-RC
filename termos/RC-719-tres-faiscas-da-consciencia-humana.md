@@ -25,22 +25,22 @@ A fala admite faíscas adicionais construídas na vida interior, mas sem taxonom
 
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| DNA como Projeção Holográfica do Psiquismo do Criador | RC-217 | inclui |
-| Ressonância límbica (emoções como tecnologia cósmica) | RC-529 | relaciona-se-a |
-| Ressonância límbica (emoções como tecnologia cósmica) | RC-529 | ← relaciona-se-a |
-| Eu Profundo (nível espiritual do Eu) | RC-553 | inclui |
-| Eu Profundo (nível espiritual do Eu) | RC-553 | ← integra |
-| Conectoma humano (pulsações sinápticas e a sensação de eu) | RC-557 | relaciona-se-a |
-| Sensação de eu (a sensação particular a cada instante) | RC-558 | relaciona-se-a |
-| Nova Espiritualidade / Novo Paraíso (Paraíso B) | RC-612 | associado |
-| Corpo Átmico | RC-623 | inclui |
-| Gestão da Sensação Pessoal | RC-633 | gerida-por |
-| Gestão da Sensação Pessoal | RC-633 | ← gere |
-| Humanos: Últimos e Primeiros | RC-654 | aplica-se-a |
-| Humanos: Últimos e Primeiros | RC-654 | ← relaciona-se-a |
-| Corpo Sutil Reencarnante | RC-704 | relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| DNA como Projeção Holográfica do Psiquismo do Criador | RC-217 | inclui | -> | - |
+| Ressonância límbica (emoções como tecnologia cósmica) | RC-529 | relaciona-se-a | -> | - |
+| Ressonância límbica (emoções como tecnologia cósmica) | RC-529 | relaciona-se-a | <- | - |
+| Eu Profundo (nível espiritual do Eu) | RC-553 | inclui | -> | - |
+| Eu Profundo (nível espiritual do Eu) | RC-553 | inclui | <- | consolidação: "integra" → "inclui" |
+| Conectoma humano (pulsações sinápticas e a sensação de eu) | RC-557 | relaciona-se-a | -> | - |
+| Sensação de eu (a sensação particular a cada instante) | RC-558 | relaciona-se-a | -> | - |
+| Nova Espiritualidade / Novo Paraíso (Paraíso B) | RC-612 | associado | <-> | - |
+| Corpo Átmico | RC-623 | inclui | -> | - |
+| Gestão da Sensação Pessoal | RC-633 | controla | <- | consolidação: "gerida-por" → "controla"; direção invertida (forma passiva/inversa) |
+| Gestão da Sensação Pessoal | RC-633 | origina | <- | consolidação: "gere" → "origina" |
+| Humanos: Últimos e Primeiros | RC-654 | usa | -> | consolidação: "aplica-se-a" → "usa" |
+| Humanos: Últimos e Primeiros | RC-654 | relaciona-se-a | <- | - |
+| Corpo Sutil Reencarnante | RC-704 | relaciona-se-a | -> | - |
 
 ## Fontes
 | Fonte | Localização | Tipo |

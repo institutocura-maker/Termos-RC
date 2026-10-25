@@ -17,12 +17,12 @@ atualizado = "2026-08-28"
 Anunnaki geneticista, irmã de Enki (RC-486) e Enlil (RC-487) — também chamada **Ninhursag**; craque na **manipulação genética** das linhagens.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Anunnaki | RC-024 | é-um |
-| Viajores | RC-134 | associado |
-| Enki (Anunnaki; inoculou o gene FOXP2) | RC-486 | relaciona-se-a |
-| Enlil (deus sumério, par de Enki) | RC-487 | irmã-de |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Anunnaki | RC-024 | é-um | -> | - |
+| Viajores | RC-134 | associado | <-> | - |
+| Enki (Anunnaki; inoculou o gene FOXP2) | RC-486 | relaciona-se-a | -> | - |
+| Enlil (deus sumério, par de Enki) | RC-487 | associado | <-> | consolidação: "irmã-de" → "associado" |
 
 ## Fontes
 

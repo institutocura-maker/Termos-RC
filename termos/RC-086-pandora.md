@@ -25,56 +25,56 @@ Na Revelação Cósmica de Jan Val Ellam, Pandora é a figura que "destravou lac
 
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Deidade (Pai-Mãe Amantíssimo / Brahman) | RC-047 | associado |
-| Deuses (os dois tipos) | RC-053 | associado |
-| Lúcifer (Yel Luzbel) | RC-078 | ← associado-a |
-| Val Dimon | RC-118 | variação |
-| Yel Luzbel | RC-142 | associado |
-| Zeus | RC-145 | associado |
-| Trava-demo | RC-184 | rompe |
-| Eva (figura) | RC-189 | relaciona-se-a |
-| Seres dos Portais | RC-241 | associado |
-| Pandora como Serpente do Éden | RC-283 | é-um |
-| Opção Inusitada de Pandora (humanização) | RC-285 | associado |
-| Eros = Vishnu / Tártaro = Shiva (correspondências) | RC-286 | relaciona-se-a |
-| Enigma da Esperança (Caixa de Pandora) | RC-287 | ← associado-a |
-| Enigma da Esperança (Caixa de Pandora) | RC-287 | relaciona-se-a |
-| Os Anais de uma Cultura Perdida | RC-288 | associado |
-| O Vício de Epimeteu | RC-289 | ← envolve |
-| Cuidado com o 'Ide e Pregai' | RC-290 | associado |
-| Fim do Silêncio de Pandora | RC-291 | associado |
-| Descendência de Pirra (Pirra e Deucalião) | RC-298 | ← origina-de |
-| Kalil Kadmon (nome demo de Pandora) | RC-299 | ← variação |
-| Prometeu (titã) | RC-301 | associado |
-| Epimeteu (titã) | RC-302 | associado |
-| Pirra | RC-303 | associado |
-| Hefesto | RC-307 | ← cria |
-| Tikun Cósmico (restabelecimento da Criação) | RC-514 | associado |
-| Travas e lacres (mecanismos de controle do despertar) | RC-563 | ← relaciona-se-a |
-| DNA Insubmisso / Linhagem Pandora–Eva–Noreia | RC-727 | ← inclui |
-| Quarto Cérebro (centro de sabedoria vibracional) | RC-758 | ← relaciona-se-a |
-| Especiação a partir do DNA Humano | RC-778 | associado |
-| Momento Zero de Pandora | RC-779 | associado |
-| Pandora como Heroína Controversa | RC-780 | associado |
-| Sequência Formativa da Racionalidade Humana | RC-785 | associado |
-| Revolução Inacabada de Prometeu e Pandora | RC-788 | associado |
-| Fogo que se Apaga (Fogo de Prometeu Hoje) | RC-792 | associado |
-| Conceito Abaiano (Fazer Sem Esperar Receber) | RC-793 | associado |
-| Lilith como Rakshasa (Espécie Não-Humana) | RC-794 | associado |
-| Nyx como Mãe de Origem de Pandora | RC-795 | associado |
-| Judaísmo como Destruidor do Mito de Pandora/Lilith | RC-796 | associado |
-| Pandora como Oposição à Estratégia dos Avatares | RC-799 | associado |
-| Desvio de Rota de Pandora (Contra o Plano de Zeus) | RC-806 | associado |
-| Padrão de Consciência Genético por Espécie | RC-807 | associado |
-| Prometeu como Saca-Nica dos Olímpicos | RC-812 | associado |
-| Eva como 3ª Tentativa de Fêmea para Adão (Homem + Mulher da Espécie Sábia) | RC-814 | associado |
-| Temis (Têmis) como Mãe-de-Pandora (Co-clonadora) | RC-815 | associado |
-| Pacto Aesir-Vanir como Origem Nórdica da Ideia de Pandora | RC-816 | associado |
-| Agar como 2ª Tentativa Fracassada de Fêmea para Adão | RC-817 | associado |
-| Patriarcado desde Pandora (Origem no Feminino, Dominação pelo Masculino) | RC-818 | associado |
-| Prole sem Face (Humanos Modificáveis sem Face Definida) | RC-819 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Deidade (Pai-Mãe Amantíssimo / Brahman) | RC-047 | associado | <-> | - |
+| Deuses (os dois tipos) | RC-053 | associado | <-> | - |
+| Lúcifer (Yel Luzbel) | RC-078 | associado | <-> | - |
+| Val Dimon | RC-118 | variação | -> | - |
+| Yel Luzbel | RC-142 | associado | <-> | - |
+| Zeus | RC-145 | associado | <-> | - |
+| Trava-demo | RC-184 | danifica | -> | consolidação: "rompe" → "danifica" |
+| Eva (figura) | RC-189 | relaciona-se-a | -> | - |
+| Seres dos Portais | RC-241 | associado | <-> | - |
+| Pandora como Serpente do Éden | RC-283 | é-um | -> | - |
+| Opção Inusitada de Pandora (humanização) | RC-285 | associado | <-> | - |
+| Eros = Vishnu / Tártaro = Shiva (correspondências) | RC-286 | relaciona-se-a | -> | - |
+| Enigma da Esperança (Caixa de Pandora) | RC-287 | associado | <-> | - |
+| Enigma da Esperança (Caixa de Pandora) | RC-287 | relaciona-se-a | -> | - |
+| Os Anais de uma Cultura Perdida | RC-288 | associado | <-> | - |
+| O Vício de Epimeteu | RC-289 | envolve | <- | - |
+| Cuidado com o 'Ide e Pregai' | RC-290 | associado | <-> | - |
+| Fim do Silêncio de Pandora | RC-291 | associado | <-> | - |
+| Descendência de Pirra (Pirra e Deucalião) | RC-298 | origina | -> | consolidação: "origina-de" → "origina"; direção invertida (forma passiva/inversa) |
+| Kalil Kadmon (nome demo de Pandora) | RC-299 | variação | <- | - |
+| Prometeu (titã) | RC-301 | associado | <-> | - |
+| Epimeteu (titã) | RC-302 | associado | <-> | - |
+| Pirra | RC-303 | associado | <-> | - |
+| Hefesto | RC-307 | origina | <- | consolidação: "cria" → "origina" |
+| Tikun Cósmico (restabelecimento da Criação) | RC-514 | associado | <-> | - |
+| Travas e lacres (mecanismos de controle do despertar) | RC-563 | relaciona-se-a | <- | - |
+| DNA Insubmisso / Linhagem Pandora–Eva–Noreia | RC-727 | inclui | <- | - |
+| Quarto Cérebro (centro de sabedoria vibracional) | RC-758 | relaciona-se-a | <- | - |
+| Especiação a partir do DNA Humano | RC-778 | associado | <-> | - |
+| Momento Zero de Pandora | RC-779 | associado | <-> | - |
+| Pandora como Heroína Controversa | RC-780 | associado | <-> | - |
+| Sequência Formativa da Racionalidade Humana | RC-785 | associado | <-> | - |
+| Revolução Inacabada de Prometeu e Pandora | RC-788 | associado | <-> | - |
+| Fogo que se Apaga (Fogo de Prometeu Hoje) | RC-792 | associado | <-> | - |
+| Conceito Abaiano (Fazer Sem Esperar Receber) | RC-793 | associado | <-> | - |
+| Lilith como Rakshasa (Espécie Não-Humana) | RC-794 | associado | <-> | - |
+| Nyx como Mãe de Origem de Pandora | RC-795 | associado | <-> | - |
+| Judaísmo como Destruidor do Mito de Pandora/Lilith | RC-796 | associado | <-> | - |
+| Pandora como Oposição à Estratégia dos Avatares | RC-799 | associado | <-> | - |
+| Desvio de Rota de Pandora (Contra o Plano de Zeus) | RC-806 | associado | <-> | - |
+| Padrão de Consciência Genético por Espécie | RC-807 | associado | <-> | - |
+| Prometeu como Saca-Nica dos Olímpicos | RC-812 | associado | <-> | - |
+| Eva como 3ª Tentativa de Fêmea para Adão (Homem + Mulher da Espécie Sábia) | RC-814 | associado | <-> | - |
+| Temis (Têmis) como Mãe-de-Pandora (Co-clonadora) | RC-815 | associado | <-> | - |
+| Pacto Aesir-Vanir como Origem Nórdica da Ideia de Pandora | RC-816 | associado | <-> | - |
+| Agar como 2ª Tentativa Fracassada de Fêmea para Adão | RC-817 | associado | <-> | - |
+| Patriarcado desde Pandora (Origem no Feminino, Dominação pelo Masculino) | RC-818 | associado | <-> | - |
+| Prole sem Face (Humanos Modificáveis sem Face Definida) | RC-819 | associado | <-> | - |
 
 ## Ampliação — STT26-EXTRATERRESTRES_TECNOLOGIA (Eixo STT26 — Extraterrestres, tecnologia e cosmos (derivados normalizados))
 

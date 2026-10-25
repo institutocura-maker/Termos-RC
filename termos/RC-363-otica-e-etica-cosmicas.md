@@ -27,11 +27,11 @@ Título do capítulo 11 de B005, em que a obra contrapõe a chamada **ética da 
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Revelação Cósmica (conceito) | RC-094 | relaciona-se-a |
-| Seres Terrenos (Homo Sapiens) | RC-099 | associado |
-| Liberdade Mental (premissa do Quarto Logos) | RC-253 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Revelação Cósmica (conceito) | RC-094 | relaciona-se-a | -> | - |
+| Seres Terrenos (Homo Sapiens) | RC-099 | associado | <-> | - |
+| Liberdade Mental (premissa do Quarto Logos) | RC-253 | associado | <-> | - |
 
 ## Fontes
 

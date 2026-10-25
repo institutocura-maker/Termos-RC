@@ -24,22 +24,22 @@ A estratégia do Criador de **escolher um povo da Terra para, por meio dele, dom
 A Genética Totalitária conecta-se à escolha dos **três segmentos étnicos** (ariano, judeu e árabe) com "genética própria" como "palco e, ao mesmo tempo, exército terráqueo" das intenções do Criador. O traço cultural de "povo escolhido" foi repassado a outros povos (tribos hebreias de Héber → Judá → judeus). A "exclusividade" teve origem "no critério organizacional das castas arianas, hoje chamadas de hindus, que sempre foram utilizadas para o refino de certas áreas do genoma demo-homo".
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | agente |
-| Revelação Cósmica (conceito) | RC-094 | associado |
-| Seres Terrenos (Homo Sapiens) | RC-099 | alvo |
-| Caos = Brahma = Javé (correspondência) | RC-284 | agente |
-| Castas Trimurtianas | RC-321 | instrumento |
-| Povos Escolhidos (ariano, judeu, árabe) | RC-326 | usa |
-| Homo hierarchicus | RC-327 | associado |
-| Ra-Atom / Og-mi (nomes do Criador) | RC-331 | nomes do Criador |
-| Lavagem Cerebral (condicionamento) | RC-335 | associado |
-| Enki (Anunnaki; inoculou o gene FOXP2) | RC-486 | ← atribuído-em-teologia-comparada-a |
-| DNA Insubmisso / Linhagem Pandora–Eva–Noreia | RC-727 | ← opõe-se-a |
-| DNA Insubmisso / Linhagem Pandora–Eva–Noreia | RC-727 | opõe-se-a |
-| Jabutis Genéticos | RC-729 | associado |
-| Aristocracia Olimpiana e Monarquias Terrestres | RC-736 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Javé | RC-001 | envolve | -> | consolidação: "agente" → "envolve" |
+| Revelação Cósmica (conceito) | RC-094 | associado | <-> | - |
+| Seres Terrenos (Homo Sapiens) | RC-099 | relaciona-se-a | -> | consolidação: "alvo" → "relaciona-se-a" |
+| Caos = Brahma = Javé (correspondência) | RC-284 | envolve | -> | consolidação: "agente" → "envolve" |
+| Castas Trimurtianas | RC-321 | usa | -> | consolidação: "instrumento" → "usa" |
+| Povos Escolhidos (ariano, judeu, árabe) | RC-326 | usa | -> | - |
+| Homo hierarchicus | RC-327 | associado | <-> | - |
+| Ra-Atom / Og-mi (nomes do Criador) | RC-331 | relaciona-se-a | -> | texto bruto original: nomes do Criador |
+| Lavagem Cerebral (condicionamento) | RC-335 | associado | <-> | - |
+| Enki (Anunnaki; inoculou o gene FOXP2) | RC-486 | variação | <- | consolidação: "atribuído-em-teologia-comparada-a" → "variação" |
+| DNA Insubmisso / Linhagem Pandora–Eva–Noreia | RC-727 | opõe-se-a | <- | - |
+| DNA Insubmisso / Linhagem Pandora–Eva–Noreia | RC-727 | opõe-se-a | -> | - |
+| Jabutis Genéticos | RC-729 | associado | <-> | - |
+| Aristocracia Olimpiana e Monarquias Terrestres | RC-736 | associado | <-> | - |
 
 ## Seres Associados
 Criador (RC-041); Javé (RC-001); Pandora (RC-086, origem da fuga do controle genético).

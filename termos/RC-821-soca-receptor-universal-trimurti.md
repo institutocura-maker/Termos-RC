@@ -24,15 +24,15 @@ Tese (leitura do autor, palestra **P2019-04-14**, U0003) de que **Soca/Reis/Rit*
 Aparece em **P2019-04-14**, U0003. Contexto: a palestra explica o **mecanismo de extração** do "perfume" dos humanos. **Soca/Reis/Rit** é o **receptor** — "dependendo da mitologia, sempre foi usado por essas figuras, mas ele sempre achou que era ele o [protagonista]". É "um instrumento e ainda é de brama virgem Chiva [Brahma + Shiva] que retiravam dele." Soca **NÃO SABE** que é instrumento — acha que é o protagonista da própria história. **Shiva retira dele** as sequências genéticas; **Brahma** co-executa.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Brahma (Brajna) | RC-037 | co-executa |
-| Trimurti | RC-104 | manipula |
-| Agentes da Vida Universal | RC-148 | retira-sequências-de |
-| Alimentação por Perfume dos Humanos (Demos se Alimentam de DNA) | RC-820 | é-mecanismo-de |
-| Sokar (egípcio) | (fato mitológico) | é-paralelo-com |
-| Rudra (hindu) | (fato mitológico) | é-paralelo-com |
-| Reis (nórdico) | (fato mitológico) | é-paralelo-com |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Brahma (Brajna) | RC-037 | envolve | -> | consolidação: "co-executa" → "envolve" |
+| Trimurti | RC-104 | relaciona-se-a | -> | consolidação: "manipula" → "relaciona-se-a" |
+| Agentes da Vida Universal | RC-148 | relaciona-se-a | -> | consolidação: "retira-sequências-de" → "relaciona-se-a" |
+| Alimentação por Perfume dos Humanos (Demos se Alimentam de DNA) | RC-820 | usa | -> | consolidação: "é-mecanismo-de" → "usa" |
+| Sokar (egípcio) | (fato mitológico) | associado | <-> | consolidação: "é-paralelo-com" → "associado" |
+| Rudra (hindu) | (fato mitológico) | associado | <-> | consolidação: "é-paralelo-com" → "associado" |
+| Reis (nórdico) | (fato mitológico) | associado | <-> | consolidação: "é-paralelo-com" → "associado" |
 
 ## Seres Associados
 - **Soca/Reis/Rit** — quem é o receptor

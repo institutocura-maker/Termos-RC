@@ -27,12 +27,12 @@ Biodemo da Família Yel que, antes de fundir o seu código genético com Val El,
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Jesus | RC-072 | associado |
-| Val El / Val Ellam | RC-120 | associado |
-| Yel (Família Yel) | RC-136 | associado |
-| Yel Am / Yel Liam | RC-138 | variação |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Jesus | RC-072 | associado | <-> | - |
+| Val El / Val Ellam | RC-120 | associado | <-> | - |
+| Yel (Família Yel) | RC-136 | associado | <-> | - |
+| Yel Am / Yel Liam | RC-138 | variação | -> | - |
 
 ## Fontes
 

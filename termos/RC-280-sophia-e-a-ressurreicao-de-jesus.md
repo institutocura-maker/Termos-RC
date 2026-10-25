@@ -29,16 +29,16 @@ Com isso:
 **Origem do conteúdo da ampliação:** palestra `P2023-12-03 — A Rebelião de Lúcifer ainda por ser Finalizada` (03/12/2023, na sala). Transcrição automatizada, **não conferida com o áudio**; cada aspa foi recortada do `original.txt` pelo índice de âncoras do motor e conferida byte a byte pelo portão B. Nada foi digitado de memória.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Sophia (Cristo Cósmico) | RC-009 | envolve |
-| Jesus | RC-072 | envolve |
-| Revelação Cósmica (conceito) | RC-094 | **sem aresta** em `RELACOES`; arquivo existe |
-| Cápsula do Tempo de Sophia (João) | RC-274 | **sem aresta** em `RELACOES`; arquivo existe |
-| Kit Reencarnatório de Elétrons | RC-692 | relaciona-se-a |
-| Hipóstase dos Arcontes (livro gnóstico; 'realidade dos regentes') | RC-770 | **sem aresta** em `RELACOES`; arquivo existe |
-| Maria Madalena | RC-943 | associado |
-| Pôncio Pilatos / Caifás / Sinédrio | RC-946 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Sophia (Cristo Cósmico) | RC-009 | envolve | -> | - |
+| Jesus | RC-072 | envolve | -> | - |
+| Revelação Cósmica (conceito) | RC-094 | - | - | sem aresta em RELACOES; arquivo existe |
+| Cápsula do Tempo de Sophia (João) | RC-274 | - | - | sem aresta em RELACOES; arquivo existe |
+| Kit Reencarnatório de Elétrons | RC-692 | relaciona-se-a | -> | - |
+| Hipóstase dos Arcontes (livro gnóstico; 'realidade dos regentes') | RC-770 | - | - | sem aresta em RELACOES; arquivo existe |
+| Maria Madalena | RC-943 | associado | <-> | - |
+| Pôncio Pilatos / Caifás / Sinédrio | RC-946 | associado | <-> | - |
 
 
 ## Fontes

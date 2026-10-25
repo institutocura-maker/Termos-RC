@@ -29,12 +29,12 @@ Com isso:
 **Origem do conteúdo da ampliação:** palestra `P2022-11-20 — A Incompreendida Nova Aliança proposta por Jesus` (20/11/2022). Transcrição automatizada, **não conferida com o áudio**; cada aspa foi recortada do `original.txt` pelo índice de âncoras do motor e conferida byte a byte pelo portão B. Nada foi digitado de memória.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | **sem aresta** em `RELACOES`; arquivo existe |
-| Jesus | RC-072 | **sem aresta** em `RELACOES`; arquivo existe |
-| Pactos de Javé (Brama / Vishnu / Shiva) | RC-781 | **sem aresta** em `RELACOES`; arquivo existe |
-| Desígnios Proféticos (profecia como instrumento de domínio e sua desconexão) | RC-858 | **sem aresta** em `RELACOES`; arquivo existe |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Javé | RC-001 | - | - | sem aresta em RELACOES; arquivo existe |
+| Jesus | RC-072 | - | - | sem aresta em RELACOES; arquivo existe |
+| Pactos de Javé (Brama / Vishnu / Shiva) | RC-781 | - | - | sem aresta em RELACOES; arquivo existe |
+| Desígnios Proféticos (profecia como instrumento de domínio e sua desconexão) | RC-858 | - | - | sem aresta em RELACOES; arquivo existe |
 
 ## Fontes
 | Obra (sigla) | Título | Página | Tipo |

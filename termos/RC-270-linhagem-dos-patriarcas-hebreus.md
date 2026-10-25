@@ -27,28 +27,28 @@ Na B013 (*Tzimtzum*), o título de um **anexo** — «A Linhagem dos Patriarcas 
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Seres Terrenos (Homo Sapiens) | RC-099 | associado |
-| Eva (figura) | RC-189 | associado |
-| Kether (Javé na Cabala) | RC-261 | associado |
-| Linhagens Humanas: Preferidas e Preteridas | RC-269 | ← escolhe |
-| Pandora como Serpente do Éden | RC-283 | associado |
-| Povos Escolhidos (ariano, judeu, árabe) | RC-326 | ← inclui |
-| Emissários Humanos (Enoch, Abraão, Moisés, Jesus) | RC-412 | ← inclui |
-| Linhagem dos Escolhidos (Adão, Enoch, Abraão, Jacó) | RC-424 | ← é-um |
-| Heber (patriarca pós-dilúvio) | RC-436 | ← é-um |
-| Joctan e Faleg (filhos de Heber) | RC-437 | associado |
-| Tubal (filho de Jafé, centro de comércio) | RC-438 | ← é-um |
-| Revolução Inacabada de Prometeu e Pandora | RC-788 | associado |
-| Centro Alquímico-Farmacopédico | RC-789 | associado |
-| Quinaras / Centauros (Seres Reais que Hoje Nascem Humanos) | RC-790 | associado |
-| Lamúria dos Deuses (Diagnóstico de Prometeu) | RC-791 | associado |
-| Fogo que se Apaga (Fogo de Prometeu Hoje) | RC-792 | associado |
-| Judaísmo como Destruidor do Mito de Pandora/Lilith | RC-796 | associado |
-| Desvio de Rota de Pandora (Contra o Plano de Zeus) | RC-806 | associado |
-| Prometeu como Saca-Nica dos Olímpicos | RC-812 | associado |
-| Prole sem Face (Humanos Modificáveis sem Face Definida) | RC-819 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Seres Terrenos (Homo Sapiens) | RC-099 | associado | <-> | - |
+| Eva (figura) | RC-189 | associado | <-> | - |
+| Kether (Javé na Cabala) | RC-261 | associado | <-> | - |
+| Linhagens Humanas: Preferidas e Preteridas | RC-269 | relaciona-se-a | <- | consolidação: "escolhe" → "relaciona-se-a" |
+| Pandora como Serpente do Éden | RC-283 | associado | <-> | - |
+| Povos Escolhidos (ariano, judeu, árabe) | RC-326 | inclui | <- | - |
+| Emissários Humanos (Enoch, Abraão, Moisés, Jesus) | RC-412 | inclui | <- | - |
+| Linhagem dos Escolhidos (Adão, Enoch, Abraão, Jacó) | RC-424 | é-um | <- | - |
+| Heber (patriarca pós-dilúvio) | RC-436 | é-um | <- | - |
+| Joctan e Faleg (filhos de Heber) | RC-437 | associado | <-> | - |
+| Tubal (filho de Jafé, centro de comércio) | RC-438 | é-um | <- | - |
+| Revolução Inacabada de Prometeu e Pandora | RC-788 | associado | <-> | - |
+| Centro Alquímico-Farmacopédico | RC-789 | associado | <-> | - |
+| Quinaras / Centauros (Seres Reais que Hoje Nascem Humanos) | RC-790 | associado | <-> | - |
+| Lamúria dos Deuses (Diagnóstico de Prometeu) | RC-791 | associado | <-> | - |
+| Fogo que se Apaga (Fogo de Prometeu Hoje) | RC-792 | associado | <-> | - |
+| Judaísmo como Destruidor do Mito de Pandora/Lilith | RC-796 | associado | <-> | - |
+| Desvio de Rota de Pandora (Contra o Plano de Zeus) | RC-806 | associado | <-> | - |
+| Prometeu como Saca-Nica dos Olímpicos | RC-812 | associado | <-> | - |
+| Prole sem Face (Humanos Modificáveis sem Face Definida) | RC-819 | associado | <-> | - |
 
 ## Fontes
 

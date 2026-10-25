@@ -27,17 +27,17 @@ O exemplo principal é a cura de cegueira por Jesus com areia/argila e saliva, i
 
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Jesus | RC-072 | envolve |
-| DNA como Projeção Holográfica do Psiquismo do Criador | RC-217 | atua-em |
-| Apolônio de Tiana (encarnação do Quarto Logos) | RC-259 | envolve |
-| Alteração Vibratória (Transfiguração) | RC-367 | relaciona-se-a |
-| Tikun Cósmico (restabelecimento da Criação) | RC-514 | relaciona-se-a |
-| Tikun Cósmico (restabelecimento da Criação) | RC-514 | ← relaciona-se-a |
-| Gestão da Sensação Pessoal | RC-633 | relaciona-se-a |
-| Genes Críticos / Genes Dorminhocos | RC-710 | relaciona-se-a |
-| Lei da Mente do Buda | RC-712 | distingue-se-de |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Jesus | RC-072 | envolve | -> | - |
+| DNA como Projeção Holográfica do Psiquismo do Criador | RC-217 | contexto | -> | consolidação: "atua-em" → "contexto" |
+| Apolônio de Tiana (encarnação do Quarto Logos) | RC-259 | envolve | -> | - |
+| Alteração Vibratória (Transfiguração) | RC-367 | relaciona-se-a | -> | - |
+| Tikun Cósmico (restabelecimento da Criação) | RC-514 | relaciona-se-a | -> | - |
+| Tikun Cósmico (restabelecimento da Criação) | RC-514 | relaciona-se-a | <- | - |
+| Gestão da Sensação Pessoal | RC-633 | relaciona-se-a | -> | - |
+| Genes Críticos / Genes Dorminhocos | RC-710 | relaciona-se-a | -> | - |
+| Lei da Mente do Buda | RC-712 | opõe-se-a | -> | consolidação: "distingue-se-de" → "opõe-se-a" |
 
 ## Fontes
 | Fonte | Localização | Tipo |

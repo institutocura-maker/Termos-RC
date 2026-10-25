@@ -27,12 +27,12 @@ Capítulo 2 de B044 (*A Divina Colmeia*). A obra desenvolve o tema perguntando-s
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Guerra do Éden | RC-006 | associado |
-| Colmeia Universal | RC-174 | associado |
-| Modelo Colmeia (Sistema/Controle Colmeia) | RC-176 | associado |
-| Éden do Criador (Éden como laboratório) | RC-242 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Guerra do Éden | RC-006 | associado | <-> | - |
+| Colmeia Universal | RC-174 | associado | <-> | - |
+| Modelo Colmeia (Sistema/Controle Colmeia) | RC-176 | associado | <-> | - |
+| Éden do Criador (Éden como laboratório) | RC-242 | associado | <-> | - |
 
 ## Fontes
 

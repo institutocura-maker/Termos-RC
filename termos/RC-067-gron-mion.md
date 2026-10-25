@@ -27,12 +27,12 @@ Planeta do Sistema de Tau Ceti, base da Família Mion; Len Mion era oriundo dest
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Antares (Sistema) | RC-021 | associado |
-| Len Mion (Satã) | RC-074 | associado |
-| Tau Ceti (Sistema) | RC-103 | associado |
-| Yel (Família Yel) | RC-136 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Antares (Sistema) | RC-021 | associado | <-> | - |
+| Len Mion (Satã) | RC-074 | associado | <-> | - |
+| Tau Ceti (Sistema) | RC-103 | associado | <-> | - |
+| Yel (Família Yel) | RC-136 | associado | <-> | - |
 
 ## Fontes
 

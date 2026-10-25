@@ -27,13 +27,13 @@ Biodemo da Família Yel que descobriu a Mensagem Talm: ele fez a astralização 
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Astralização dos Biodemos | RC-026 | associado |
-| Mensagem Talm | RC-080 | associado |
-| Processador Val | RC-089 | associado |
-| Shamb-Aha | RC-101 | associado |
-| Yel (Família Yel) | RC-136 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Astralização dos Biodemos | RC-026 | associado | <-> | - |
+| Mensagem Talm | RC-080 | associado | <-> | - |
+| Processador Val | RC-089 | associado | <-> | - |
+| Shamb-Aha | RC-101 | associado | <-> | - |
+| Yel (Família Yel) | RC-136 | associado | <-> | - |
 
 ## Fontes
 

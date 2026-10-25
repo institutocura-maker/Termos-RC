@@ -23,14 +23,14 @@ Campo de estudo dos Seres LM dedicado ao imprevisível, ao ainda não realizado 
 A estratégia de Tempérion teria transformado o setor em lugar de observação dos três grandes âmbitos espirituais e de criações derivadas.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Quarto Logos (Olm / Codificador de Zian) | RC-092 | ← observa |
-| Elm (Moros — ser LM de Tempérion) | RC-454 | ← observa |
-| Ser LM (gênero de Tempérion) | RC-456 | estudado-por |
-| Tempérion (Archeon de Ereon; setor dos seres LM) | RC-472 | relaciona-se-a |
-| Cinco Seres LM de Tempérion | RC-607 | relaciona-se-a |
-| Nova Espiritualidade / Novo Paraíso (Paraíso B) | RC-612 | orienta |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Quarto Logos (Olm / Codificador de Zian) | RC-092 | observa | <- | - |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | observa | <- | - |
+| Ser LM (gênero de Tempérion) | RC-456 | observa | <- | consolidação: "estudado-por" → "observa"; direção invertida (forma passiva/inversa) |
+| Tempérion (Archeon de Ereon; setor dos seres LM) | RC-472 | relaciona-se-a | -> | - |
+| Cinco Seres LM de Tempérion | RC-607 | relaciona-se-a | -> | - |
+| Nova Espiritualidade / Novo Paraíso (Paraíso B) | RC-612 | controla | -> | consolidação: "orienta" → "controla" |
 
 ## Seres Associados
 Consultar as relações tipadas acima.

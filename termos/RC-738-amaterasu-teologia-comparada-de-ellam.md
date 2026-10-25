@@ -31,17 +31,17 @@ atualizado = "2026-08-16"
 - **[P2024-09-29] Proveniência:** palestra de Jan Val Ellam; transcrição STT pré-curada e devolutiva oficial do curador.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Zeus | RC-145 | relaciona-se-a / ver grafo |
-| Linhagens Humanas: Preferidas e Preteridas | RC-269 | relaciona-se-a / ver grafo |
-| Aristocracia Olimpiana e Monarquias Terrestres | RC-736 | ← relaciona-se-a |
-| Aristocracia Olimpiana e Monarquias Terrestres | RC-736 | relaciona-se-a |
-| Projeto Amaterasu–Kami no Japão | RC-737 | ← envolve |
-| Projeto Amaterasu–Kami no Japão | RC-737 | ← relaciona-se-a |
-| Susanoo (Teologia Comparada de Ellam) | RC-739 | relaciona-se-a |
-| Susanoo (Teologia Comparada de Ellam) | RC-739 | ← relaciona-se-a |
-| Kami (Projeto Japonês) | RC-740 | relaciona-se-a / ver grafo |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Zeus | RC-145 | relaciona-se-a | -> | ver grafo |
+| Linhagens Humanas: Preferidas e Preteridas | RC-269 | relaciona-se-a | -> | ver grafo |
+| Aristocracia Olimpiana e Monarquias Terrestres | RC-736 | relaciona-se-a | <- | - |
+| Aristocracia Olimpiana e Monarquias Terrestres | RC-736 | relaciona-se-a | -> | - |
+| Projeto Amaterasu–Kami no Japão | RC-737 | envolve | <- | - |
+| Projeto Amaterasu–Kami no Japão | RC-737 | relaciona-se-a | <- | - |
+| Susanoo (Teologia Comparada de Ellam) | RC-739 | relaciona-se-a | -> | - |
+| Susanoo (Teologia Comparada de Ellam) | RC-739 | relaciona-se-a | <- | - |
+| Kami (Projeto Japonês) | RC-740 | relaciona-se-a | -> | ver grafo |
 
 ## Citações-chave
 > "E Amaterasu, que é Atena, que é, entre aspas, filha de Zeus. E Atena é tida como deusa virgem. E o pior: de fato, assim ela permaneceu, porque tudo o que ela fez foi por manipulação genética. Então, a pureza do sangue dos descendentes da casa real japonesa tem a pretensão de ser, entre aspas, a pureza da deusa Amaterasu."" — P2024-09-29

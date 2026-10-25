@@ -31,12 +31,12 @@ atualizado = "2026-10-23"
 - **[P2024-08-03] Proveniência:** palestra de Jan Val Ellam; transcrição STT pré-curada; devolutiva oficial do curador registrada em 2026-08-16.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| CFD (Código Fonte Definidor) | RC-040 | é-falência-de |
-| Ragnarok em Marte | RC-395 | reaparece-como-destruição-em |
-| Fatiamento de Consciência | RC-604 | resulta-de |
-| Samudra Manthana / Batimento do Oceano de Leite | RC-734 | motiva-recurso-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| CFD (Código Fonte Definidor) | RC-040 | causa | -> | consolidação: "é-falência-de" → "causa" |
+| Ragnarok em Marte | RC-395 | danifica | -> | consolidação: "reaparece-como-destruição-em" → "danifica" |
+| Fatiamento de Consciência | RC-604 | causa | <- | consolidação: "resulta-de" → "causa"; direção invertida (forma passiva/inversa) |
+| Samudra Manthana / Batimento do Oceano de Leite | RC-734 | causa | -> | consolidação: "motiva-recurso-a" → "causa" |
 
 ## Ampliação
 ### P2024-07-14

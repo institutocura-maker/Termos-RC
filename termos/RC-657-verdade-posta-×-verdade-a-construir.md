@@ -23,20 +23,20 @@ Distinção entre destinos/verdades já postos e uma verdade futura construída 
 Extraído da live P2025-10-25 — 2ª Edição Estagiários do Kaos.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Liberdade Mental (premissa do Quarto Logos) | RC-253 | — |
-| Imperativo Categórico da Moral | RC-328 | — |
-| Lavagem Cerebral (condicionamento) | RC-335 | opõe-se-a |
-| Protocolo da Busca | RC-566 | relaciona-se-a |
-| Revelação de Ifá e Destinação dos Seres | RC-655 | relaciona-se-a |
-| Ciência Pessoal / Doutrina da Própria Personalidade | RC-695 | ← relaciona-se-a |
-| Camuflagem da Realidade | RC-702 | ← relaciona-se-a |
-| Camuflagem da Realidade | RC-702 | relaciona-se-a |
-| Postulados Quânticos como Manual Operativo | RC-703 | associado |
-| Choque de Realidade (o perpétuo espanto dos donos da verdade) | RC-867 | associado |
-| Genoma da Dignidade (o código esquecido na criação) | RC-868 | associado |
-| Mentalidade Comum (o contágio do rebanho) | RC-869 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Liberdade Mental (premissa do Quarto Logos) | RC-253 | - | - | sem relação informada; 17 linhas são registros de fonte com 4 colunas |
+| Imperativo Categórico da Moral | RC-328 | - | - | sem relação informada; 17 linhas são registros de fonte com 4 colunas |
+| Lavagem Cerebral (condicionamento) | RC-335 | opõe-se-a | -> | - |
+| Protocolo da Busca | RC-566 | relaciona-se-a | -> | - |
+| Revelação de Ifá e Destinação dos Seres | RC-655 | relaciona-se-a | -> | - |
+| Ciência Pessoal / Doutrina da Própria Personalidade | RC-695 | relaciona-se-a | <- | - |
+| Camuflagem da Realidade | RC-702 | relaciona-se-a | <- | - |
+| Camuflagem da Realidade | RC-702 | relaciona-se-a | -> | - |
+| Postulados Quânticos como Manual Operativo | RC-703 | associado | <-> | - |
+| Choque de Realidade (o perpétuo espanto dos donos da verdade) | RC-867 | associado | <-> | - |
+| Genoma da Dignidade (o código esquecido na criação) | RC-868 | associado | <-> | - |
+| Mentalidade Comum (o contágio do rebanho) | RC-869 | associado | <-> | - |
 
 ## Seres Associados
 Consultar relações na Base.

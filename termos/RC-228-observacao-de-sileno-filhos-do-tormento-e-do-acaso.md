@@ -29,11 +29,11 @@ Com isso:
 **Origem do conteúdo da ampliação:** palestra `P2017-10-14 — Da Base Atlan ao Colégio Druídico` (14/10/2017). Transcrição automatizada, **não conferida com o áudio**; cada aspa foi recortada do `original.txt` pelo índice de âncoras do motor e conferida byte a byte pelo portão B. Nada foi digitado de memória.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Revelação Cósmica (conceito) | RC-094 | **sem aresta** em `RELACOES`; arquivo existe |
-| Seres Terrenos (Homo Sapiens) | RC-099 | **sem aresta** em `RELACOES`; **sem arquivo** |
-| Opção Terra | RC-227 | **sem aresta** em `RELACOES`; **sem arquivo** |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Revelação Cósmica (conceito) | RC-094 | - | - | sem aresta em RELACOES; arquivo existe |
+| Seres Terrenos (Homo Sapiens) | RC-099 | - | - | sem aresta em RELACOES; sem arquivo |
+| Opção Terra | RC-227 | - | - | sem aresta em RELACOES; sem arquivo |
 
 ## Fontes
 | Obra (sigla) | Título | Página | Tipo |

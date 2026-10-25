@@ -27,11 +27,11 @@ Terceira era (B024 §16.3), de 2,2 a 3,2 bilhões de anos após o início da Cri
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Anjos clones | RC-019 | associado |
-| Shiva (Savna) | RC-102 | associado |
-| Eras da Criação (10 eras) | RC-155 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Anjos clones | RC-019 | associado | <-> | - |
+| Shiva (Savna) | RC-102 | associado | <-> | - |
+| Eras da Criação (10 eras) | RC-155 | associado | <-> | - |
 
 ## Fontes
 

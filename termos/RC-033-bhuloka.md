@@ -17,13 +17,13 @@ atualizado = "2026-10-23"
 Nome sânscrito do universo material — "o mundo" (B031): o universo que habitamos, surgido há 13,7 bilhões de anos do Big Bang, físico e sujeito às leis da Física, com 2 trilhões de galáxias. É o universo da vida biológica "de vida curta", para onde o Projeto Talm transferiu o código de vida do Criador (B031; ver RC-107). Os espíritos no Bhuloka seguem ligados a karmas, em contraste com as lokas do universo paralelo (B031). À época em que Vyasa viveu, o Bhuloka (universo biológico) mantinha intercâmbio com os mundos do Brahmaloka (B013).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Big Bang | RC-034 | originado-por |
-| Brahmaloka | RC-038 | associado-a (par complementar) |
-| Universo Material (Bhuloka) | RC-107 | ← sinônimo |
-| Fonte da Vida (metáfora da ilha/oceano) | RC-356 | associado |
-| Cartas a Javé (obra e diálogo) | RC-416 | ← baseada-em |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Big Bang | RC-034 | origina | <- | consolidação: "originado-por" → "origina"; direção invertida (forma passiva/inversa) |
+| Brahmaloka | RC-038 | associado | <-> | qualificador preservado: par complementar; raiz semântica associado (decisão 3) |
+| Universo Material (Bhuloka) | RC-107 | variação | <- | consolidação: "sinônimo" → "variação" |
+| Fonte da Vida (metáfora da ilha/oceano) | RC-356 | associado | <-> | - |
+| Cartas a Javé (obra e diálogo) | RC-416 | requer | <- | consolidação: "baseada-em" → "requer" |
 
 ## Ampliação — OIDR26-03 (Onda incremental dry-run — Cosmogonia e história cósmica (derivados normalizados))
 

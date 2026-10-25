@@ -17,20 +17,20 @@ atualizado = "2026-09-13"
 Terceira forma de vida do universo vizinho segundo a palestra: 1ª) corpos ígneos de plasma (anjos clones); 2ª) corpos daiva primitivos; 3ª) **corpos Fenvã** — "daivas modernos com menos problemas" (STT: "menos problemas de Fose" [REVISAR → CHANCELA 2026-09-06 · F039-L3: AGUARDA-ÁUDIO (STT preservado como falado) — ver nota]). Corpos de plasma metamorfoseáveis do universo antimaterial, associados ao segundo conselho (Deusa Dev/Aurora e Cama/Kama) e à geração regenerada de Brahma (Brahma tetracéfalo em versão Fenvã).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | associado |
-| Brahma (Brajna) | RC-037 | relaciona-se-a |
-| Fenvans | RC-064 | associado |
-| Trimurti | RC-104 | relaciona-se-a |
-| Mohen So = Phanes / Protogonos / Vasuki / Kalki (correspondências) | RC-282 | ← relaciona-se-a |
-| Arcontes (= Sophias e Indras; Conselho dos 70) | RC-474 | ← relaciona-se-a |
-| Deva / Aurora (A Grande Deusa) | RC-475 | relaciona-se-a |
-| Kama (personificação do desejo) | RC-622 | associado |
-| Corpo Daiva / Corpo Demoníaco de Plasma | RC-630 | relaciona-se-a |
-| Corpo Daiva / Corpo Demoníaco de Plasma | RC-630 | ← relaciona-se-a |
-| Geração Regenerada de Brahma | RC-696 | relaciona-se-a |
-| Princípio da Externalização (criação divina sem sexualidade) | RC-768 | relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Javé | RC-001 | associado | <-> | - |
+| Brahma (Brajna) | RC-037 | relaciona-se-a | -> | - |
+| Fenvans | RC-064 | associado | <-> | - |
+| Trimurti | RC-104 | relaciona-se-a | -> | - |
+| Mohen So = Phanes / Protogonos / Vasuki / Kalki (correspondências) | RC-282 | relaciona-se-a | <- | - |
+| Arcontes (= Sophias e Indras; Conselho dos 70) | RC-474 | relaciona-se-a | <- | - |
+| Deva / Aurora (A Grande Deusa) | RC-475 | relaciona-se-a | -> | - |
+| Kama (personificação do desejo) | RC-622 | associado | <-> | - |
+| Corpo Daiva / Corpo Demoníaco de Plasma | RC-630 | relaciona-se-a | -> | - |
+| Corpo Daiva / Corpo Demoníaco de Plasma | RC-630 | relaciona-se-a | <- | - |
+| Geração Regenerada de Brahma | RC-696 | relaciona-se-a | -> | - |
+| Princípio da Externalização (criação divina sem sexualidade) | RC-768 | relaciona-se-a | -> | - |
 
 ## Fontes
 

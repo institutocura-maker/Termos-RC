@@ -25,31 +25,31 @@ Período de inquietações de **Yel Luzbel (Lúcifer)** iniciado há **742 mil a
 É o grande evento de ruptura do corpus RC: explica a origem dos Exilados de Capela, o isolamento da Terra e a necessidade da Reintegração Cósmica. Conecta-se à doutrina cristã dos anjos decaídos e ao drama de Javé.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | envolve |
-| Reintegração Cósmica | RC-003 | encerra-se-com |
-| Exilados de Capela | RC-007 | gera |
-| Antares (Sistema) | RC-021 | ocorre-em (parte) |
-| Capela (Sistema) | RC-039 | inicia-em |
-| Isolamento Cósmico | RC-070 | resulta-em |
-| Len Mion (Satã) | RC-074 | associado |
-| Lúcifer (Yel Luzbel) | RC-078 | ← inicia |
-| Mastlans Phisosferas / Luciferianas | RC-079 | associado |
-| Yel Luzbel | RC-142 | associado |
-| Viajores da Rebelião | RC-248 | associado |
-| Quarentena Sideral / Cósmica | RC-342 | ← impõe-se-a |
-| Sentimento Luciferiano | RC-345 | associado |
-| Exílios Interplanetários | RC-349 | ← origina-em |
-| Ilha Cósmica (mundos rebelados) | RC-353 | associado |
-| Cartas a Javé (obra e diálogo) | RC-416 | ← baseada-em |
-| Revolta Capelina | RC-450 | ← relaciona-se-a |
-| Era da Solidão de Javé (500 Milhões de Anos) | RC-808 | associado |
-| Rebelião dos Elétrons (Além da Entropia) | RC-826 | associado |
-| Yel Luzbel Como Aventureiro Isolado (2.000 Anos) | RC-830 | associado |
-| Sophia Como Biodemo da Ordem e Caos | RC-831 | associado |
-| 13 Livros de Lúcifer com Humanos (Necessários Antes do Fim) | RC-833 | associado |
-| Melkor (o filho dissonante) | RC-844 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Javé | RC-001 | envolve | -> | - |
+| Reintegração Cósmica | RC-003 | sucede | -> | consolidação: "encerra-se-com" → "sucede" |
+| Exilados de Capela | RC-007 | origina | -> | consolidação: "gera" → "origina" |
+| Antares (Sistema) | RC-021 | contexto | -> | qualificador preservado: parte; consolidação: "ocorre-em" → "contexto" |
+| Capela (Sistema) | RC-039 | precede | -> | consolidação: "inicia-em" → "precede" |
+| Isolamento Cósmico | RC-070 | causa | -> | consolidação: "resulta-em" → "causa" |
+| Len Mion (Satã) | RC-074 | associado | <-> | - |
+| Lúcifer (Yel Luzbel) | RC-078 | precede | <- | consolidação: "inicia" → "precede" |
+| Mastlans Phisosferas / Luciferianas | RC-079 | associado | <-> | - |
+| Yel Luzbel | RC-142 | associado | <-> | - |
+| Viajores da Rebelião | RC-248 | associado | <-> | - |
+| Quarentena Sideral / Cósmica | RC-342 | controla | <- | consolidação: "impõe-se-a" → "controla" |
+| Sentimento Luciferiano | RC-345 | associado | <-> | - |
+| Exílios Interplanetários | RC-349 | origina | <- | consolidação: "origina-em" → "origina" |
+| Ilha Cósmica (mundos rebelados) | RC-353 | associado | <-> | - |
+| Cartas a Javé (obra e diálogo) | RC-416 | requer | <- | consolidação: "baseada-em" → "requer" |
+| Revolta Capelina | RC-450 | relaciona-se-a | <- | - |
+| Era da Solidão de Javé (500 Milhões de Anos) | RC-808 | associado | <-> | - |
+| Rebelião dos Elétrons (Além da Entropia) | RC-826 | associado | <-> | - |
+| Yel Luzbel Como Aventureiro Isolado (2.000 Anos) | RC-830 | associado | <-> | - |
+| Sophia Como Biodemo da Ordem e Caos | RC-831 | associado | <-> | - |
+| 13 Livros de Lúcifer com Humanos (Necessários Antes do Fim) | RC-833 | associado | <-> | - |
+| Melkor (o filho dissonante) | RC-844 | associado | <-> | - |
 
 ## Seres Associados
 Yel Luzbel (RC-078); Len Mion (RC-074); Família Yel (RC-136); Família Val (RC-109); Sophia (RC-009, impôs o isolamento).

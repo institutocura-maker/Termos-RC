@@ -26,13 +26,13 @@ Na cosmologia de Ellam, o conjunto dos humanos que se comportam dentro do mesmo 
 - **[P2024-07-14] Proveniência:** palestra de Jan Val Ellam; transcrição STT pré-curada; devolutiva do curador registrada em 2026-08-20 (ficha autorizada).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Seres Terrenos (Homo Sapiens) | RC-099 | associado |
-| Colmeia Universal | RC-174 | associado |
-| Modelo Colmeia (Sistema/Controle Colmeia) | RC-176 | associado |
-| Big Data da Terra | RC-197 | associado |
-| Colegiados Espirituais Humanizados | RC-745 | repercute-em |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Seres Terrenos (Homo Sapiens) | RC-099 | associado | <-> | - |
+| Colmeia Universal | RC-174 | associado | <-> | - |
+| Modelo Colmeia (Sistema/Controle Colmeia) | RC-176 | associado | <-> | - |
+| Big Data da Terra | RC-197 | associado | <-> | - |
+| Colegiados Espirituais Humanizados | RC-745 | causa | -> | consolidação: "repercute-em" → "causa" |
 
 
 - Colegiados Espirituais Humanizados — RC-745;

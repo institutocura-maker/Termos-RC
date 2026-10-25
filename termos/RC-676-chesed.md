@@ -22,11 +22,11 @@ Forma preferida: Chesed.
 O Mistério da Árvore da Vida e a Urdidura de Metatron.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Sefirot / Árvore da Vida | RC-263 | é-um |
-| Geburah | RC-677 | — |
-| Tiferet / Tiphareth | RC-678 | — |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Sefirot / Árvore da Vida | RC-263 | é-um | -> | - |
+| Geburah | RC-677 | - | - | sem relação informada; 17 linhas são registros de fonte com 4 colunas |
+| Tiferet / Tiphareth | RC-678 | - | - | sem relação informada; 17 linhas são registros de fonte com 4 colunas |
 
 ## Seres Associados
 Consultar Base.

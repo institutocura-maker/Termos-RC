@@ -24,17 +24,17 @@ Tese (leitura do autor, palestra **P2023-12-17**, U0003) de que o **sistema mais
 Aparece em **P2023-12-17**, U0003. Contexto: a palestra explica por que os elétrons estão colapsando colmeias e corais. "As calmeias [colmeias] trazem si o velho sistema comérico [cooperativo] mental que eu explorei no livro chamada Divina Céia, que é o sistema arcaico, mental. mais antigo porque surgiu com Javé e os clones. **Javé era abelha rainha, os clones, as abelhas operárias.** Mas aí surgiram essas formas de vida superiores a essa. Mas na hora em que a vida veio com seu código pro nosso universo, quem veio foi essa daqui, porque Javé queria que todo mundo aqui fosse abelhinha e ele mandasse." Os elétrons têm isso memorizado nos pósitrons e nos elétrons — e estão colapsando o sistema mais antigo.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | é-rainha-de |
-| Sophia (Cristo Cósmico) | RC-009 | é-análoga-a |
-| Elétrons (agente básico da vida universal) | RC-162 | colapsa |
-| Elétrons (agente básico da vida universal) | RC-162 | é-estado-de |
-| A Rebelião dos Elétrons | RC-378 | associado |
-| Rebelião dos Elétrons (Além da Entropia) | RC-826 | é-mecanismo-de |
-| Memória dos Elétrons e Arcanos | RC-829 | é-contexto-de |
-| Corais | (fato biológico) | colapsa |
-| Abelhas/Colmeias | (fato biológico) | colapsa |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Javé | RC-001 | controla | -> | consolidação: "é-rainha-de" → "controla" |
+| Sophia (Cristo Cósmico) | RC-009 | variação | -> | consolidação: "é-análoga-a" → "variação" |
+| Elétrons (agente básico da vida universal) | RC-162 | danifica | -> | consolidação: "colapsa" → "danifica" |
+| Elétrons (agente básico da vida universal) | RC-162 | é-um | -> | consolidação: "é-estado-de" → "é-um" |
+| A Rebelião dos Elétrons | RC-378 | associado | <-> | - |
+| Rebelião dos Elétrons (Além da Entropia) | RC-826 | usa | -> | consolidação: "é-mecanismo-de" → "usa" |
+| Memória dos Elétrons e Arcanos | RC-829 | contexto | -> | consolidação: "é-contexto-de" → "contexto" |
+| Corais | (fato biológico) | danifica | -> | consolidação: "colapsa" → "danifica" |
+| Abelhas/Colmeias | (fato biológico) | danifica | -> | consolidação: "colapsa" → "danifica" |
 
 ## Seres Associados
 - **Javé (RC-001)** — a abelha rainha

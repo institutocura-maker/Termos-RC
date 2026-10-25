@@ -25,12 +25,12 @@ atualizado = "2026-10-22"
 A abertura das *Crônicas de um Novo Tempo* (B042) situa o livro no contexto da virada de era (crônicas escritas ~1999–2002, mesma fase da trilogia Queda e Ascensão Espiritual). O autor denomina a nova era como a **"do conhecimento e da espiritualização"** — conectada à Revelação Cósmica (RC-094) e à preparação para a Reintegração Cósmica (RC-003).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Reintegração Cósmica | RC-003 | relaciona-se-a |
-| Revelação Cósmica (conceito) | RC-094 | relaciona-se-a |
-| Transição Planetária | RC-344 | relaciona-se-a |
-| Profecia Hopi da Estrela Azul | RC-591 | ← relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Reintegração Cósmica | RC-003 | relaciona-se-a | -> | - |
+| Revelação Cósmica (conceito) | RC-094 | relaciona-se-a | -> | - |
+| Transição Planetária | RC-344 | relaciona-se-a | -> | - |
+| Profecia Hopi da Estrela Azul | RC-591 | relaciona-se-a | <- | - |
 
 ## Ampliação — STT26-SOCIEDADE_CONTEMPORANEA (Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados))
 

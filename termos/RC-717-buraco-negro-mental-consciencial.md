@@ -20,25 +20,25 @@ Neologismo analógico para colapso/implosão de corpo e eu consciencial que prod
 O corpo de Javé teria colapsado em 2021, gerando o primeiro Buraco Negro Mental e deixando seu eu em condição parasitária.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | primeiro-caso |
-| Javé | RC-001 | relaciona-se-a |
-| Prabrajna | RC-152 | relaciona-se-a |
-| Lavagem Cerebral (condicionamento) | RC-335 | ← relaciona-se-a |
-| Krishna (avatar de Vishnu/Shiva) | RC-414 | ← risco-de |
-| Krishna como 'pretenso Keshava' | RC-425 | relaciona-se-a |
-| Pistis Sophia (feminino cósmico gnóstico) | RC-530 | relaciona-se-a |
-| Teia quântica (o que sai de um ser volta para ele) | RC-559 | relaciona-se-a |
-| Ressurreição do Cadáver do Criador | RC-638 | envolve |
-| Ressurreição do Cadáver do Criador | RC-638 | relaciona-se-a |
-| Colapso do Caos Organizado | RC-690 | é-fenômeno-de |
-| Arquivos do Destino Universal | RC-714 | relaciona-se-a |
-| Informações Vivas | RC-715 | ← pode-colapsar-em |
-| Informações Vivas | RC-715 | envolve |
-| PIA — Peso da Inevitabilidade Ancestral | RC-716 | relaciona-se-a |
-| Abismo da Consciência Cósmica | RC-721 | ← relaciona-se-a |
-| As Cinco Lentes da Realidade | RC-761 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Javé | RC-001 | é-um | -> | consolidação: "primeiro-caso" → "é-um" |
+| Javé | RC-001 | relaciona-se-a | -> | - |
+| Prabrajna | RC-152 | relaciona-se-a | -> | - |
+| Lavagem Cerebral (condicionamento) | RC-335 | relaciona-se-a | <- | - |
+| Krishna (avatar de Vishnu/Shiva) | RC-414 | causa | <- | consolidação: "risco-de" → "causa" |
+| Krishna como 'pretenso Keshava' | RC-425 | relaciona-se-a | -> | - |
+| Pistis Sophia (feminino cósmico gnóstico) | RC-530 | relaciona-se-a | -> | - |
+| Teia quântica (o que sai de um ser volta para ele) | RC-559 | relaciona-se-a | -> | - |
+| Ressurreição do Cadáver do Criador | RC-638 | envolve | -> | - |
+| Ressurreição do Cadáver do Criador | RC-638 | relaciona-se-a | -> | - |
+| Colapso do Caos Organizado | RC-690 | é-um | -> | consolidação: "é-fenômeno-de" → "é-um" |
+| Arquivos do Destino Universal | RC-714 | relaciona-se-a | -> | - |
+| Informações Vivas | RC-715 | danifica | <- | consolidação: "pode-colapsar-em" → "danifica" |
+| Informações Vivas | RC-715 | envolve | -> | - |
+| PIA — Peso da Inevitabilidade Ancestral | RC-716 | relaciona-se-a | -> | - |
+| Abismo da Consciência Cósmica | RC-721 | relaciona-se-a | <- | - |
+| As Cinco Lentes da Realidade | RC-761 | associado | <-> | - |
 
 ## Fontes
 | Fonte | Localização | Tipo |

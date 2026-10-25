@@ -24,16 +24,16 @@ Tese (leitura do autor, palestra **P2023-12-17**, U0005) de que **Lúcifer (RC-0
 Aparece em **P2023-12-17**, U0005. Contexto: a palestra encerra com a proposta de **13 livros de Lúcifer com humanos** como um dos gestos mais importantes da era do colapso. O autor vê a si mesmo como **um dos 9 humanos** que Lúcifer está usando para escrever esses livros — a **revelação cósmica** é parte desse processo. "Independente de eu publicar livro ou não, apenas contraindo, é um problemaço. Nós estamos vivendo a época do colapso do caos que conseguiu se organizar, porque o caos se organizou de tal forma que impede o progresso do próprio caos."
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Rebelião de Lúcifer | RC-002 | é-protagonista-de |
-| Sophia (Cristo Cósmico) | RC-009 | é-paralelo-com |
-| Seres Terrenos (Homo Sapiens) | RC-099 | é-coautor-de |
-| Rebelião dos Elétrons (Além da Entropia) | RC-826 | é-tema-de |
-| Era do Colapso do Caos Organizado | RC-827 | é-contexto-de |
-| Maria Helena | (pessoa real) | é-coautora-de |
-| Revelação Cósmica | B001 | é-obra-de |
-| Reintegração Cósmica | B018 | é-obra-de |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Rebelião de Lúcifer | RC-002 | envolve | -> | consolidação: "é-protagonista-de" → "envolve" |
+| Sophia (Cristo Cósmico) | RC-009 | associado | <-> | consolidação: "é-paralelo-com" → "associado" |
+| Seres Terrenos (Homo Sapiens) | RC-099 | envolve | -> | consolidação: "é-coautor-de" → "envolve" |
+| Rebelião dos Elétrons (Além da Entropia) | RC-826 | contexto | -> | consolidação: "é-tema-de" → "contexto" |
+| Era do Colapso do Caos Organizado | RC-827 | contexto | -> | consolidação: "é-contexto-de" → "contexto" |
+| Maria Helena | (pessoa real) | envolve | -> | consolidação: "é-coautora-de" → "envolve" |
+| Revelação Cósmica | B001 | origina | <- | consolidação: "é-obra-de" → "origina"; direção invertida (forma passiva/inversa) |
+| Reintegração Cósmica | B018 | origina | <- | consolidação: "é-obra-de" → "origina"; direção invertida (forma passiva/inversa) |
 
 ## Seres Associados
 - **Lúcifer (RC-002)** — quem escreve com humanos

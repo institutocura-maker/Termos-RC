@@ -24,18 +24,18 @@ Tese (leitura do autor, palestra **P2019-04-14**, U0003) de que **os demos se al
 Aparece em **P2019-04-14**, U0003. Contexto: a palestra explica **por que os humanos são explorados** — os demos precisam do "perfume" que os humanos produzem (e que eles não conseguem gerar sozinhos). "Os nossos espíritos hoje guardam o reflexo de todas essas necessidades, ou seja, são infectados." O processo é **triangular**: Trimurti → Soca → humanos. A humanidade é o **elo final** da extração.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | é-criminoso-de |
-| Brahma (Brajna) | RC-037 | co-executa |
-| Seres Terrenos (Homo Sapiens) | RC-099 | é-fonte-de |
-| Trimurti | RC-104 | origina |
-| Agentes da Vida Universal | RC-148 | executa |
-| Soca/Reis/Rit como Receptor Universal (Instrumento da Trimurti) | RC-821 | é-instrumento-de |
-| Mahatma Magant como Libertador da Alimentação Demoníaca | RC-822 | liberta-de |
-| Vechame Existencial (Sangue de Barata = Amor sem Submissão) | RC-823 | é-resposta-a |
-| Greve de Fome Genética (Suicídio como Quebra do Código Demoníaco) | RC-824 | associado |
-| Código Genético como Marca da Herança Demoníaca | RC-825 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Javé | RC-001 | envolve | -> | consolidação: "é-criminoso-de" → "envolve" |
+| Brahma (Brajna) | RC-037 | envolve | -> | consolidação: "co-executa" → "envolve" |
+| Seres Terrenos (Homo Sapiens) | RC-099 | origina | -> | consolidação: "é-fonte-de" → "origina" |
+| Trimurti | RC-104 | origina | -> | - |
+| Agentes da Vida Universal | RC-148 | usa | -> | consolidação: "executa" → "usa" |
+| Soca/Reis/Rit como Receptor Universal (Instrumento da Trimurti) | RC-821 | usa | -> | consolidação: "é-instrumento-de" → "usa" |
+| Mahatma Magant como Libertador da Alimentação Demoníaca | RC-822 | protege | -> | consolidação: "liberta-de" → "protege" |
+| Vechame Existencial (Sangue de Barata = Amor sem Submissão) | RC-823 | comunica | -> | consolidação: "é-resposta-a" → "comunica" |
+| Greve de Fome Genética (Suicídio como Quebra do Código Demoníaco) | RC-824 | associado | <-> | - |
+| Código Genético como Marca da Herança Demoníaca | RC-825 | associado | <-> | - |
 
 ## Seres Associados
 - **Trimurti (RC-104)** — quem orquestra

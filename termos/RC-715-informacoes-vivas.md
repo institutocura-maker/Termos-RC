@@ -30,26 +30,26 @@ A palestra trata elétrons/antielétrons como remanescentes informacionais da me
 
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Memória Quântica dos Elétrons | RC-161 | compõe |
-| Elétrons (agente básico da vida universal) | RC-162 | compõe |
-| Modelo Colmeia (Sistema/Controle Colmeia) | RC-176 | relaciona-se-a |
-| Modelo Colmeia (Sistema/Controle Colmeia) | RC-176 | ← relaciona-se-a |
-| DNA como Projeção Holográfica do Psiquismo do Criador | RC-217 | organiza-se-em |
-| Elm (Moros — ser LM de Tempérion) | RC-454 | ← relaciona-se-a |
-| Supercomputador Cósmico (Moros — destino) | RC-533 | associado |
-| Wyrd / Urd (Teia do Destino) | RC-658 | ← organiza |
-| Evolução da Informação, não das Espécies | RC-693 | relaciona-se-a |
-| Arquivos do Destino Universal | RC-714 | ← contêm |
-| Arquivos do Destino Universal | RC-714 | armazenado-em |
-| PIA — Peso da Inevitabilidade Ancestral | RC-716 | medida-por |
-| PIA — Peso da Inevitabilidade Ancestral | RC-716 | ← mede |
-| PIA — Peso da Inevitabilidade Ancestral | RC-716 | relaciona-se-a |
-| PIA — Peso da Inevitabilidade Ancestral | RC-716 | ← relaciona-se-a |
-| Buraco Negro Mental / Consciencial | RC-717 | pode-colapsar-em |
-| Buraco Negro Mental / Consciencial | RC-717 | ← envolve |
-| Sócios do Destino / Ausência de Justiça Externa | RC-720 | ← processa |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Memória Quântica dos Elétrons | RC-161 | inclui | -> | consolidação: "compõe" → "inclui" |
+| Elétrons (agente básico da vida universal) | RC-162 | inclui | -> | consolidação: "compõe" → "inclui" |
+| Modelo Colmeia (Sistema/Controle Colmeia) | RC-176 | relaciona-se-a | -> | - |
+| Modelo Colmeia (Sistema/Controle Colmeia) | RC-176 | relaciona-se-a | <- | - |
+| DNA como Projeção Holográfica do Psiquismo do Criador | RC-217 | inclui | -> | consolidação: "organiza-se-em" → "inclui" |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | relaciona-se-a | <- | - |
+| Supercomputador Cósmico (Moros — destino) | RC-533 | associado | <-> | - |
+| Wyrd / Urd (Teia do Destino) | RC-658 | inclui | <- | consolidação: "organiza" → "inclui" |
+| Evolução da Informação, não das Espécies | RC-693 | relaciona-se-a | -> | - |
+| Arquivos do Destino Universal | RC-714 | inclui | <- | consolidação: "contêm" → "inclui" |
+| Arquivos do Destino Universal | RC-714 | contexto | -> | consolidação: "armazenado-em" → "contexto" |
+| PIA — Peso da Inevitabilidade Ancestral | RC-716 | observa | <- | consolidação: "medida-por" → "observa"; direção invertida (forma passiva/inversa) |
+| PIA — Peso da Inevitabilidade Ancestral | RC-716 | observa | <- | consolidação: "mede" → "observa" |
+| PIA — Peso da Inevitabilidade Ancestral | RC-716 | relaciona-se-a | -> | - |
+| PIA — Peso da Inevitabilidade Ancestral | RC-716 | relaciona-se-a | <- | - |
+| Buraco Negro Mental / Consciencial | RC-717 | danifica | -> | consolidação: "pode-colapsar-em" → "danifica" |
+| Buraco Negro Mental / Consciencial | RC-717 | envolve | <- | - |
+| Sócios do Destino / Ausência de Justiça Externa | RC-720 | usa | <- | consolidação: "processa" → "usa" |
 
 ## Ampliação — STT26-MITOLOGIAS_REINTEGRACAO (Eixo STT26 — Mitologias, tradições e eixo de reintegração (derivados normalizados))
 

@@ -24,20 +24,20 @@ Tese (leitura do autor, palestra **P2025-04-06 — A Revolução Inacabada de Pr
 Aparece em **P2025-04-06** — palestra de 2025 que **encerra o tema Pandora** iniciado em P2018-10-06. Contexto: depois de 4 palestras (P2018, P2019, P2023-N, P2023-K), o autor **encerra o ciclo** com a mensagem de que a revolução foi inacabada, mas pode ser reacendida na intimidade de cada humano inconformado.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Pandora | RC-086 | protagoniza |
-| Ulsh | RC-105 | interrompeu |
-| Linhagem dos Patriarcas Hebreus | RC-270 | associado |
-| Pactos do Criador (troca de informações) | RC-271 | associado |
-| Prometeu (titã) | RC-301 | protagoniza |
-| Epimeteu (titã) | RC-302 | protagoniza |
-| Sequência Formativa da Racionalidade Humana | RC-785 | parte-de |
-| Centro Alquímico-Farmacopédico | RC-789 | instrumentalizado-via |
-| Lamúria dos Deuses (Diagnóstico de Prometeu) | RC-791 | associado |
-| Fogo que se Apaga (Fogo de Prometeu Hoje) | RC-792 | metaforiza |
-| Conceito Abaiano (Fazer Sem Esperar Receber) | RC-793 | reativa-via |
-| Desvio de Rota de Pandora (Contra o Plano de Zeus) | RC-806 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Pandora | RC-086 | envolve | -> | consolidação: "protagoniza" → "envolve" |
+| Ulsh | RC-105 | danifica | -> | consolidação: "interrompeu" → "danifica" |
+| Linhagem dos Patriarcas Hebreus | RC-270 | associado | <-> | - |
+| Pactos do Criador (troca de informações) | RC-271 | associado | <-> | - |
+| Prometeu (titã) | RC-301 | envolve | -> | consolidação: "protagoniza" → "envolve" |
+| Epimeteu (titã) | RC-302 | envolve | -> | consolidação: "protagoniza" → "envolve" |
+| Sequência Formativa da Racionalidade Humana | RC-785 | parte-de | -> | - |
+| Centro Alquímico-Farmacopédico | RC-789 | usa | -> | consolidação: "instrumentalizado-via" → "usa" |
+| Lamúria dos Deuses (Diagnóstico de Prometeu) | RC-791 | associado | <-> | - |
+| Fogo que se Apaga (Fogo de Prometeu Hoje) | RC-792 | variação | -> | consolidação: "metaforiza" → "variação" |
+| Conceito Abaiano (Fazer Sem Esperar Receber) | RC-793 | usa | -> | consolidação: "reativa-via" → "usa" |
+| Desvio de Rota de Pandora (Contra o Plano de Zeus) | RC-806 | associado | <-> | - |
 
 ## Seres Associados
 - **Prometeu** (RC-301) — o "cientista revoltado"

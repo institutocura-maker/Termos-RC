@@ -772,9 +772,9 @@ O bloco `> Notas de processo:` de `RC-745-colegiados-espirituais-humanizados.md`
 
 | Status | Significado | Tipos | Ocorrências |
 |---|---|---|---|
-| `APROVADO` | deliberado pelo curador nesta sessão | 31 | 5.975 |
-| `PROPOSTO-CONSOLIDACAO` | 2ª rodada: cluster consolidado em relação controlada; **aguarda aprovação final** | 919 | 1.735 |
-| `REVISAR` | rótulo livre, sem colapso mecânico confiável; exige decisão manual | 48 | 51 |
+| `APROVADO` | **todas as linhas aprovadas em 2026-10-25** (matriz 100% concluída) | 998 | 7.761 |
+| ~~`PROPOSTO-CONSOLIDACAO`~~ | status histórico da 2ª rodada; integralmente aprovado | 0 | 0 |
+| ~~`REVISAR`~~ | resolvido pelo fallback `relaciona-se-a` / `->` | 0 | 0 |
 | **Total** | | **998** | **7.761** |
 
 > `PROPOSTO` foi o status intermediário da 1ª rodada (colapso mecânico). Em 2026-10-25 todas as 919 linhas foram promovidas a `PROPOSTO-CONSOLIDACAO`; o De-Para completo está em `admin/logs/T2-RELATORIO-CONSOLIDACAO.md`.
@@ -830,9 +830,89 @@ A lista completa dos clusters está na própria matriz: filtre `decisao_curatori
 
 ## A.5 Pendências que a matriz ainda não resolve
 
-- 48 rótulos `REVISAR` (texto livre, setas internas, Maiúsculas, estados de fila) — exigem leitura manual.
+- ~~48 rótulos `REVISAR`~~ — **resolvidos** em 2026-10-25 pelo fallback aprovado; nenhum permanece pendente.
 - 6 rótulos das 45 seções não conformes que **não têm linha no CSV** (seção 6 deste log).
 - 91 itens de lista Markdown livre e 4 rótulos de tabelas padrão embutidas ainda sem De-Para.
 - 3 linhas `aresta pré-existente; arquivo existe` das tabelas `Estado na malha`.
 - 17 linhas de 4 colunas em fichas conformes (seção 7.1) — cobertas pela nota de `—`, mas ainda sem regra de conversão.
-- ~~Definir o valor literal das células vazias~~ — **resolvido em 2026-10-25:** hífen ASCII `-` na tabela de cinco colunas; matriz CSV mantém célula vazia. Resta aplicar a regra na ação 4.
+- ~~Definir o valor literal das células vazias~~ — **resolvido e aplicado** na Fase 1: hífen ASCII `-` nas 297 linhas sem relação; a matriz CSV mantém suas células vazias.
+
+---
+
+# Anexo B — Plano de conversão das 45 seções não conformes
+
+**Data:** 2026-10-25 · **Status:** aguarda aprovação do método. **Nenhuma exceção foi reescrita.**
+**Pré-condição cumprida:** Fase 1 concluída e validada (776 fichas conformes, 7.761 linhas, 0 divergências fora das tabelas — relatório em `admin/logs/T2-RELATORIO-CONSOLIDACAO.md`, seção 9).
+
+## B.0 Regras gerais propostas para as 3 classes
+
+1. **Uma única tabela** `| Termo | Código | Relação | Direção | Notas |` por seção `## Termos Relacionados`.
+2. `Termo` e `Código` preservados. Quando só existe o código, o `Termo` é resolvido pelo campo `nome` do frontmatter da ficha `RC-xxx` correspondente.
+3. Rótulo presente na matriz → De-Para aprovado. Rótulo ausente → fallback aprovado (`relaciona-se-a` / `->` + texto bruto em `Notas`) ou regra explícita abaixo.
+4. Células sem conteúdo → **`-`** (hífen ASCII), inclusive `Notas`.
+5. Blocos `>`, subseções `###`, avisos de quarentena e notas de processo ficam **literalmente preservados** após a tabela.
+6. Execução com dry-run + validação de diff antes de qualquer gravação.
+
+## B.1 Classe A — `Estado na malha` (6 seções / 27 linhas)
+
+**Situação:** tabelas `| Termo | Código | Estado na malha |` com 3 valores distintos:
+
+| Valor | Linhas | Na matriz? |
+|---|---|---|
+| ``**sem aresta** em `RELACOES`; arquivo existe`` | 22 | sim — aprovado com relação/direção vazias e nota |
+| ``**sem aresta** em `RELACOES`; **sem arquivo**`` | 2 | sim — idem |
+| `aresta pré-existente; arquivo existe` | 3 | **não** |
+
+**Método proposto:** aplicar a matriz às 24 linhas conhecidas (`Relação = -`, `Direção = -`, `Notas` = texto aprovado). Para as 3 linhas `aresta pré-existente; arquivo existe`, aplicar regra explícita de exceção: `-` / `-` / nota `aresta pré-existente; arquivo existe`, **sem alterar a matriz** (evita criar uma linha 999 com `ocorrencias = 0`).
+
+**Decisão necessária:** (a) aceitar as 3 linhas como nota-apenas com `-`, ou (b) criar um rótulo controlado novo (ex.: `aresta-pre-existente`) e incluí-lo na matriz.
+
+## B.2 Classe B — RC-745 (1 seção / 2 tabelas + bloco de notas)
+
+**Situação:** tabela `| Código | Relação |` (7 linhas), tabela padrão embutida (8 linhas) e bloco `> Notas de processo` com determinação VERBATIM.
+
+**Método proposto:**
+
+1. **Tabela padrão (8 linhas):** aplicar a matriz diretamente — todos os rótulos estão aprovados (`← repercute-em` → `causa`/`<-`; `associado` → `associado`/`<->`; `avaliado-por` → `controla`/`<-`; `organiza-se-em` → `inclui`/`->`; `← manifesta-se-em` → `representa`/`<-`).
+2. **Tabela `Código | Relação` (7 linhas):**
+   - Resolver `Termo` pelo frontmatter: RC-726, RC-722, RC-193, RC-733, RC-513 e RC-633 têm ficha com nome.
+   - `RC-612 / RC-613` → **proposta: dividir em 2 linhas**, uma para RC-612 (`Nova Espiritualidade / Novo Paraíso`) e outra para RC-613 (`Trincheira Vibratória no Campo Informativo`), mantendo a mesma nota. Alternativa: manter o código composto em uma linha.
+   - 2 rótulos na matriz (`organiza-se-em`, `avaliado-por`) → De-Para aprovado.
+   - 5 rótulos livres (`recebe repercussão de rebanho humano`, `recebe manifestação de dominação/êxtase pela devoção`, `mecanismo próximo de ressonância`, `gestão da sensação e destinação`, `destino editorial do projeto futuro, sem novo nó`) → **fallback aprovado**: `relaciona-se-a` / `->` com o texto original em `Notas`.
+3. **Unificação:** as duas tabelas referenciam os mesmos códigos. Proposta de uma única tabela final, eliminando apenas duplicatas **exatas** (mesmo Termo + Código + Relação + Direção + Notas) e mantendo linhas com relações distintas.
+4. **Bloco `> Notas de processo`:** preservado literalmente, sem reescrita (E05).
+
+**Decisão necessária:** aprovar (i) a divisão do código composto, (ii) a unificação das duas tabelas e (iii) o fallback para os 5 rótulos livres.
+
+## B.3 Classe C — Listas Markdown + tabela padrão (38 seções)
+
+**Situação levantada:** 91 itens de lista livre + 115 linhas em tabelas padrão embutidas. Verificação importante: **os 91 códigos das listas já existem na tabela da própria seção**, e não há código repetido dentro de nenhuma tabela (0 duplicatas). Ou seja, as listas são redundantes por código; apenas 37 itens carregam anotação em prosa após `—`.
+
+**Método proposto:**
+
+1. Aplicar a matriz às **115 linhas** das tabelas padrão (rótulos `associado` — 114 — e `← variação` — 1, ambos aprovados).
+2. **Migrar as 37 anotações em prosa** das listas para a coluna `Notas` da linha com o mesmo `Código`, concatenando após a nota da matriz com `; `.
+3. **Descartar as listas** (inclusive os 54 itens sem anotação), pois não há perda semântica: todo código já está na tabela.
+4. Normalizar a peculiaridade de RC-899 (lista colada à tabela, sem linha em branco).
+
+**Decisão necessária:** aprovar o descarte das listas redundantes e a migração das 37 anotações para `Notas`.
+
+## B.4 Volume estimado e validação
+
+| Classe | Seções | Linhas resultantes estimadas |
+|---|---|---|
+| A | 6 | 27 |
+| B | 1 | 8 (tabela padrão) + 8 (7 linhas, com o código composto dividido) − duplicatas exatas |
+| C | 38 | 115 |
+| **Total** | **45** | **≈ 150–158** |
+
+Validação prevista antes do commit: 45 seções com o cabeçalho de 5 colunas; 0 alterações fora dos blocos convertidos; blocos `>`/`###` idênticos ao original; contagem de linhas conferida com a tabela acima; `git diff` restrito às 45 fichas; relatório de divergências apresentado antes de qualquer publicação.
+
+## B.5 Checklist de aprovação do método
+
+- [ ] Classe A: 3 linhas `aresta pré-existente` como nota-apenas (`-`/`-`) — ou rótulo novo na matriz?
+- [ ] Classe B: dividir `RC-612 / RC-613` em duas linhas.
+- [ ] Classe B: unificar as duas tabelas em uma só, removendo duplicatas exatas.
+- [ ] Classe B: fallback `relaciona-se-a`/`->` para os 5 rótulos livres.
+- [ ] Classe C: descartar as listas e migrar as 37 anotações para `Notas`.
+- [ ] Confirmar que `Notas` vazia também usa `-`.

@@ -23,15 +23,15 @@ Cérebro biodemo/radiata de um hemisfério atribuído a Sophia, contraposto ao c
 A hipótese de reparo por organoides parte desta arquitetura cerebral.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Sophia (Cristo Cósmico) | RC-009 | associado-a |
-| Bilatérios | RC-035 | distingue-se-de |
-| Biodemos | RC-036 | relaciona-se-a |
-| Radiatas | RC-093 | é-um |
-| Hochmah (2ª Sefirah — Sabedoria; = Sophia) | RC-565 | relaciona-se-a |
-| Organoides Genéticos para Sophia | RC-632 | associado |
-| Imantação de Espíritos em Inteligências Artificiais / Corpos de Sílica | RC-699 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Sophia (Cristo Cósmico) | RC-009 | associado | <-> | - |
+| Bilatérios | RC-035 | opõe-se-a | -> | consolidação: "distingue-se-de" → "opõe-se-a" |
+| Biodemos | RC-036 | relaciona-se-a | -> | - |
+| Radiatas | RC-093 | é-um | -> | - |
+| Hochmah (2ª Sefirah — Sabedoria; = Sophia) | RC-565 | relaciona-se-a | -> | - |
+| Organoides Genéticos para Sophia | RC-632 | associado | <-> | - |
+| Imantação de Espíritos em Inteligências Artificiais / Corpos de Sílica | RC-699 | associado | <-> | - |
 
 ## Seres Associados
 Consultar relações acima.

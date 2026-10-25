@@ -25,40 +25,40 @@ atualizado = "2026-10-23"
 Termo do universo da Revelação Cósmica (presente nas obras primárias de Ellam e no glossário Raquyel, B031). No B057, a estirpe aparece na SINTESE da contracapa: o desassossego de Yel Luzbel foi "até então **nunca sentida pela estirpe dos biodemos**", espalhando-se "como uma espécie de 'vírus mental' para outros 'anjos' que apresentavam um tipo de mente coletiva" — e as perguntas dele "foram o estopim de conflitos e **modificações no genoma de alguns biodemos** que terminaram classificados como 'rebelados' pelas hostes celestiais que os exilaram daquele circuito cósmico". Os capelinos são **Biocoletivos** (RC-445): coletivos de biodemos. As famílias Yel (RC-442) e Mion (RC-443) são "coletivos de biodemos de Capela" (relações registradas em B058).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Bilatérios | RC-035 | associado |
-| Criador (Brahma/Javé/Demiurgo) | RC-041 | criado-por |
-| Dan | RC-046 | relaciona-se-a (mundo-nave de urdidura dos capelinos) |
-| Demos | RC-049 | relaciona-se-a (estirpe afim na malha) |
-| Processador Val | RC-089 | associado |
-| Seres Extraterrenos / Extraterrestres | RC-098 | é-um (categoria) |
-| Ulsh | RC-105 | associado |
-| Val (Família Val) | RC-109 | ← parte-de |
-| Yel (Família Yel) | RC-136 | ← parte-de |
-| Criaturas-ferramenta | RC-164 | associado |
-| Plano Colmeia (para o Universo Biológico) | RC-179 | associado |
-| Biodemol | RC-186 | ← é-um |
-| Insectoides | RC-187 | associado |
-| Fofocas cósmicas | RC-191 | associado |
-| Vida de Padrão Dependente | RC-209 | associado |
-| Ostronomos | RC-232 | associado |
-| Marca Val (A Estratégia do Possível) | RC-233 | associado |
-| A Jaula de Cada Espécie | RC-277 | associado |
-| Entroncamentos Genéticos Intersiderais | RC-323 | associado |
-| Grupos de Entroncamento (1-4) | RC-324 | associado |
-| Família Demolle (biodemos) | RC-401 | ← é-um |
-| Família Yel | RC-442 | ← é-um |
-| Família Mion | RC-443 | ← é-um |
-| Família Cromon | RC-444 | ← é-um |
-| Biocoletivos | RC-445 | ← variação |
-| Processadores Familiares | RC-446 | associado |
-| Deslacre (rompimento dos lacres psíquicos) | RC-448 | associado |
-| Criaturas-ferramenta | RC-449 | ← relaciona-se-a |
-| Hostes de Sophia | RC-453 | associado |
-| Família Shanlung (13 membros em Alt'Lam Gron) | RC-491 | ← é-um |
-| Forno de Awaymaion (forno de Vishnu; origem de Olm) | RC-499 | associado |
-| Cérebro Radiata | RC-631 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Bilatérios | RC-035 | associado | <-> | - |
+| Criador (Brahma/Javé/Demiurgo) | RC-041 | origina | <- | consolidação: "criado-por" → "origina"; direção invertida (forma passiva/inversa) |
+| Dan | RC-046 | relaciona-se-a | -> | qualificador preservado: mundo-nave de urdidura dos capelinos |
+| Demos | RC-049 | relaciona-se-a | -> | qualificador preservado: estirpe afim na malha |
+| Processador Val | RC-089 | associado | <-> | - |
+| Seres Extraterrenos / Extraterrestres | RC-098 | é-um | -> | qualificador preservado: categoria |
+| Ulsh | RC-105 | associado | <-> | - |
+| Val (Família Val) | RC-109 | parte-de | <- | - |
+| Yel (Família Yel) | RC-136 | parte-de | <- | - |
+| Criaturas-ferramenta | RC-164 | associado | <-> | - |
+| Plano Colmeia (para o Universo Biológico) | RC-179 | associado | <-> | - |
+| Biodemol | RC-186 | é-um | <- | - |
+| Insectoides | RC-187 | associado | <-> | - |
+| Fofocas cósmicas | RC-191 | associado | <-> | - |
+| Vida de Padrão Dependente | RC-209 | associado | <-> | - |
+| Ostronomos | RC-232 | associado | <-> | - |
+| Marca Val (A Estratégia do Possível) | RC-233 | associado | <-> | - |
+| A Jaula de Cada Espécie | RC-277 | associado | <-> | - |
+| Entroncamentos Genéticos Intersiderais | RC-323 | associado | <-> | - |
+| Grupos de Entroncamento (1-4) | RC-324 | associado | <-> | - |
+| Família Demolle (biodemos) | RC-401 | é-um | <- | - |
+| Família Yel | RC-442 | é-um | <- | - |
+| Família Mion | RC-443 | é-um | <- | - |
+| Família Cromon | RC-444 | é-um | <- | - |
+| Biocoletivos | RC-445 | variação | <- | - |
+| Processadores Familiares | RC-446 | associado | <-> | - |
+| Deslacre (rompimento dos lacres psíquicos) | RC-448 | associado | <-> | - |
+| Criaturas-ferramenta | RC-449 | relaciona-se-a | <- | - |
+| Hostes de Sophia | RC-453 | associado | <-> | - |
+| Família Shanlung (13 membros em Alt'Lam Gron) | RC-491 | é-um | <- | - |
+| Forno de Awaymaion (forno de Vishnu; origem de Olm) | RC-499 | associado | <-> | - |
+| Cérebro Radiata | RC-631 | associado | <-> | - |
 
 ## Seres Associados
 Yel Luzbel (RC-078/RC-142, o primeiro a mutar); Sophia (RC-009, criador das famílias capelinas); Len Mion (RC-074).

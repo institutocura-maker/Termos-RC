@@ -26,12 +26,12 @@ Na cosmologia de Jan Val Ellam (P2024-03-02), Ganesha é a divindade hindu descr
 
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Shiva (Savna) | RC-102 | relaciona-se-a |
-| Krishna (avatar de Vishnu/Shiva) | RC-414 | relaciona-se-a |
-| Parvathi (consorte de Shiva, Tridevi) | RC-459 | relaciona-se-a |
-| Fatiamento de Consciência | RC-604 | relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Shiva (Savna) | RC-102 | relaciona-se-a | -> | - |
+| Krishna (avatar de Vishnu/Shiva) | RC-414 | relaciona-se-a | -> | - |
+| Parvathi (consorte de Shiva, Tridevi) | RC-459 | relaciona-se-a | -> | - |
+| Fatiamento de Consciência | RC-604 | relaciona-se-a | -> | - |
 
 ## Ampliação — STT26-MITOLOGIAS_REINTEGRACAO (Eixo STT26 — Mitologias, tradições e eixo de reintegração (derivados normalizados))
 

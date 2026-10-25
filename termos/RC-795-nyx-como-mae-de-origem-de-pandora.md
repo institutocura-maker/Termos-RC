@@ -24,15 +24,15 @@ Tese (leitura do autor, palestra **P2025-04-06**, U0006) de que **Nyx (RC-621)**
 Aparece em **P2025-04-06**, U0006, em resposta à pergunta sobre Nyx e Pandora. Contexto: o plateísta pergunta se há relação entre Nyx e Pandora; o autor confirma a genealogia e adiciona o papel do Quarto Logos (RC-092) e de Moros (RC-454).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Sophia (Cristo Cósmico) | RC-009 | paralelo-com |
-| Pandora | RC-086 | descendente-de |
-| Quarto Logos (Olm / Codificador de Zian) | RC-092 | plantou-semente-em |
-| Yel Luzbel | RC-142 | paralelo-com (Y Luzb = "Y" = mesmo) |
-| Civilização Saraswati | RC-330 | associado |
-| Elm (Moros — ser LM de Tempérion) | RC-454 | mergulhou-em |
-| Nyx | RC-621 | é-mãe-de-origem |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Sophia (Cristo Cósmico) | RC-009 | associado | <-> | consolidação: "paralelo-com" → "associado" |
+| Pandora | RC-086 | origina | -> | consolidação: "descendente-de" → "origina" |
+| Quarto Logos (Olm / Codificador de Zian) | RC-092 | origina | -> | consolidação: "plantou-semente-em" → "origina" |
+| Yel Luzbel | RC-142 | associado | <-> | qualificador preservado: Y Luzb = "Y" = mesmo; consolidação: "paralelo-com" → "associado" |
+| Civilização Saraswati | RC-330 | associado | <-> | - |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | contexto | -> | consolidação: "mergulhou-em" → "contexto" |
+| Nyx | RC-621 | origina | -> | consolidação: "é-mãe-de-origem" → "origina" |
 
 ## Seres Associados
 - **Nyx** (RC-621) — a "mãe de origem"

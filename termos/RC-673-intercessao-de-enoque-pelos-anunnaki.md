@@ -23,12 +23,12 @@ Forma preferida: Intercessão de Enoque pelos Anunnaki.
 O Mistério da Árvore da Vida e a Urdidura de Metatron.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Anunnaki | RC-024 | envolve |
-| Enoque (sétimo patriarca; levado por Javé) | RC-489 | associado |
-| Igigi | RC-580 | ← relaciona-se-a |
-| Metatron | RC-671 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Anunnaki | RC-024 | envolve | -> | - |
+| Enoque (sétimo patriarca; levado por Javé) | RC-489 | associado | <-> | - |
+| Igigi | RC-580 | relaciona-se-a | <- | - |
+| Metatron | RC-671 | associado | <-> | - |
 
 ## Ampliação
 ### P2023-10-14 (A Esquecida Honra dos Anunnaki)

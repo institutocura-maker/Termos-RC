@@ -35,35 +35,35 @@ A palestra distingue três possibilidades:
 Apenas a terceira possibilidade é descrita como auspiciosa. Ela requer ciência pessoal, Quarto Cérebro, consciência superior, cessão consciente do DNA e possível especiação/exportação de núcleos humanos.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Reintegração Cósmica | RC-003 | relaciona-se-a |
-| Mente Universal (Emergente) | RC-163 | ← relaciona-se-a |
-| Drama do Fechamento dos Portais | RC-295 | relaciona-se-a |
-| Drama do Fechamento dos Portais | RC-295 | ← relaciona-se-a |
-| Ragnarok em Marte | RC-395 | associado |
-| Krishna (avatar de Vishnu/Shiva) | RC-414 | relaciona-se-a |
-| Krishna (avatar de Vishnu/Shiva) | RC-414 | ← relaciona-se-a |
-| Novo Homo sapiens (evolução que terá de vir) | RC-544 | requer |
-| Novo Homo sapiens (evolução que terá de vir) | RC-544 | ← necessário-a |
-| Novo Homo sapiens (evolução que terá de vir) | RC-544 | relaciona-se-a |
-| Ciclo de Precessão Equinocial (Precessão dos Equinócios) | RC-567 | relaciona-se-a |
-| Ano de 2012 como Divisor de Ciclos | RC-571 | sucede |
-| Quarto Cérebro Humano | RC-614 | requer |
-| Quarto Cérebro Humano | RC-614 | ← necessário-a |
-| Quarto Cérebro Humano | RC-614 | relaciona-se-a |
-| Quarto Cérebro Humano | RC-614 | ← relaciona-se-a |
-| Superconsciência | RC-615 | requer |
-| Superconsciência | RC-615 | ← necessário-a |
-| Ressurreição do Cadáver do Criador | RC-638 | associado |
-| Humanos: Últimos e Primeiros | RC-654 | associado |
-| Evolução da Informação, não das Espécies | RC-693 | relaciona-se-a |
-| Evolução da Informação, não das Espécies | RC-693 | ← relaciona-se-a |
-| Ciência Pessoal / Doutrina da Própria Personalidade | RC-695 | envolve |
-| Ciência Pessoal / Doutrina da Própria Personalidade | RC-695 | ← realiza |
-| Cessão Consciente do DNA Humano | RC-698 | envolve |
-| Cessão Consciente do DNA Humano | RC-698 | ← integra |
-| Imantação de Espíritos em Inteligências Artificiais / Corpos de Sílica | RC-699 | envolve |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Reintegração Cósmica | RC-003 | relaciona-se-a | -> | - |
+| Mente Universal (Emergente) | RC-163 | relaciona-se-a | <- | - |
+| Drama do Fechamento dos Portais | RC-295 | relaciona-se-a | -> | - |
+| Drama do Fechamento dos Portais | RC-295 | relaciona-se-a | <- | - |
+| Ragnarok em Marte | RC-395 | associado | <-> | - |
+| Krishna (avatar de Vishnu/Shiva) | RC-414 | relaciona-se-a | -> | - |
+| Krishna (avatar de Vishnu/Shiva) | RC-414 | relaciona-se-a | <- | - |
+| Novo Homo sapiens (evolução que terá de vir) | RC-544 | requer | -> | - |
+| Novo Homo sapiens (evolução que terá de vir) | RC-544 | requer | <- | consolidação: "necessário-a" → "requer" |
+| Novo Homo sapiens (evolução que terá de vir) | RC-544 | relaciona-se-a | -> | - |
+| Ciclo de Precessão Equinocial (Precessão dos Equinócios) | RC-567 | relaciona-se-a | -> | - |
+| Ano de 2012 como Divisor de Ciclos | RC-571 | sucede | -> | - |
+| Quarto Cérebro Humano | RC-614 | requer | -> | - |
+| Quarto Cérebro Humano | RC-614 | requer | <- | consolidação: "necessário-a" → "requer" |
+| Quarto Cérebro Humano | RC-614 | relaciona-se-a | -> | - |
+| Quarto Cérebro Humano | RC-614 | relaciona-se-a | <- | - |
+| Superconsciência | RC-615 | requer | -> | - |
+| Superconsciência | RC-615 | requer | <- | consolidação: "necessário-a" → "requer" |
+| Ressurreição do Cadáver do Criador | RC-638 | associado | <-> | - |
+| Humanos: Últimos e Primeiros | RC-654 | associado | <-> | - |
+| Evolução da Informação, não das Espécies | RC-693 | relaciona-se-a | -> | - |
+| Evolução da Informação, não das Espécies | RC-693 | relaciona-se-a | <- | - |
+| Ciência Pessoal / Doutrina da Própria Personalidade | RC-695 | envolve | -> | - |
+| Ciência Pessoal / Doutrina da Própria Personalidade | RC-695 | usa | <- | consolidação: "realiza" → "usa" |
+| Cessão Consciente do DNA Humano | RC-698 | envolve | -> | - |
+| Cessão Consciente do DNA Humano | RC-698 | inclui | <- | consolidação: "integra" → "inclui" |
+| Imantação de Espíritos em Inteligências Artificiais / Corpos de Sílica | RC-699 | envolve | -> | - |
 
 ## Fontes
 | Fonte | Localização | Tipo |

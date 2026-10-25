@@ -24,25 +24,25 @@ Espírito ou consciência-âncora que guarda múltiplos centros de consciência/
 A Devolutiva fixou a forma En Ma. As formas antigas Emá e Emar são preservadas como variações históricas para rastreabilidade.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | relaciona-se-a |
-| Javé | RC-001 | ancora |
-| Javé | RC-001 | relaciona-se-a |
-| Sophia (Cristo Cósmico) | RC-009 | ancora |
-| Sophia (Cristo Cósmico) | RC-009 | ← relaciona-se-a |
-| Sophia (Cristo Cósmico) | RC-009 | relaciona-se-a |
-| Brahma (Brajna) | RC-037 | relaciona-se-a |
-| Jesus | RC-072 | ancora |
-| Jesus | RC-072 | relaciona-se-a |
-| Vishnu (Mavatna) | RC-135 | ancora |
-| Enigma da Esperança (Caixa de Pandora) | RC-287 | associado |
-| Deva / Aurora (A Grande Deusa) | RC-475 | associado |
-| Ensá (espírito primordial companheiro de En Ma) | RC-477 | relaciona-se-a |
-| Dinastia das Sophias | RC-494 | associado |
-| Eu Coalescente | RC-620 | ← aplica-se-a |
-| Simultaneidade Reversa | RC-628 | ← repercute-em |
-| Instabilidade da Eternidade | RC-648 | ← envolve |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Javé | RC-001 | relaciona-se-a | -> | - |
+| Javé | RC-001 | contexto | -> | consolidação: "ancora" → "contexto" |
+| Javé | RC-001 | relaciona-se-a | -> | - |
+| Sophia (Cristo Cósmico) | RC-009 | contexto | -> | consolidação: "ancora" → "contexto" |
+| Sophia (Cristo Cósmico) | RC-009 | relaciona-se-a | <- | - |
+| Sophia (Cristo Cósmico) | RC-009 | relaciona-se-a | -> | - |
+| Brahma (Brajna) | RC-037 | relaciona-se-a | -> | - |
+| Jesus | RC-072 | contexto | -> | consolidação: "ancora" → "contexto" |
+| Jesus | RC-072 | relaciona-se-a | -> | - |
+| Vishnu (Mavatna) | RC-135 | contexto | -> | consolidação: "ancora" → "contexto" |
+| Enigma da Esperança (Caixa de Pandora) | RC-287 | associado | <-> | - |
+| Deva / Aurora (A Grande Deusa) | RC-475 | associado | <-> | - |
+| Ensá (espírito primordial companheiro de En Ma) | RC-477 | relaciona-se-a | -> | - |
+| Dinastia das Sophias | RC-494 | associado | <-> | - |
+| Eu Coalescente | RC-620 | usa | <- | consolidação: "aplica-se-a" → "usa" |
+| Simultaneidade Reversa | RC-628 | causa | <- | consolidação: "repercute-em" → "causa" |
+| Instabilidade da Eternidade | RC-648 | envolve | <- | - |
 
 ## Seres Associados
 Consultar relações acima.

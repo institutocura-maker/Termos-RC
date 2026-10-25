@@ -17,18 +17,18 @@ atualizado = "2026-10-23"
 Na RC, deus mesopotâmico identificado como anunnaki filho de Enki, equivalente ao egípcio **Ra** — contexto do panteão anunnaki divinizado no Egito (Enéade, RC-627).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | ← relaciona-se-a |
-| Anunnaki | RC-024 | é-um |
-| Len Mion (Satã) | RC-074 | relaciona-se-a |
-| Ra-Atom / Og-mi (nomes do Criador) | RC-331 | associado |
-| Guerra Nuclear Anunnaki (Sete Armas Atômicas) | RC-583 | ← envolve |
-| Nibiru | RC-589 | associado |
-| Era de Peixes | RC-592 | relaciona-se-a |
-| Corpo Manásico / Corpo Mental | RC-625 | relaciona-se-a |
-| Enéade de Heliópolis | RC-627 | relaciona-se-a |
-| Relógio Messiânico | RC-765 | ← relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Javé | RC-001 | relaciona-se-a | <- | - |
+| Anunnaki | RC-024 | é-um | -> | - |
+| Len Mion (Satã) | RC-074 | relaciona-se-a | -> | - |
+| Ra-Atom / Og-mi (nomes do Criador) | RC-331 | associado | <-> | - |
+| Guerra Nuclear Anunnaki (Sete Armas Atômicas) | RC-583 | envolve | <- | - |
+| Nibiru | RC-589 | associado | <-> | - |
+| Era de Peixes | RC-592 | relaciona-se-a | -> | - |
+| Corpo Manásico / Corpo Mental | RC-625 | relaciona-se-a | -> | - |
+| Enéade de Heliópolis | RC-627 | relaciona-se-a | -> | - |
+| Relógio Messiânico | RC-765 | relaciona-se-a | <- | - |
 
 ## Ampliação — OIDR26-01 (Onda incremental dry-run — Anunnaki, genética e humanidade (derivados normalizados))
 

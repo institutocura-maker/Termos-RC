@@ -27,11 +27,11 @@ Biodemo da Família Yel que fazia parte do Conselho dos Cinco da Frota Norte em 
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Conselho dos Cinco | RC-043 | associado |
-| Frota Norte | RC-065 | associado |
-| Yel (Família Yel) | RC-136 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Conselho dos Cinco | RC-043 | associado | <-> | - |
+| Frota Norte | RC-065 | associado | <-> | - |
+| Yel (Família Yel) | RC-136 | associado | <-> | - |
 
 ## Fontes
 

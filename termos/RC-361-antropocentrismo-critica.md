@@ -27,12 +27,12 @@ Na B005, o conceito que «entroniza o homem como o centro de todas as coisas» �
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Revelação Cósmica (conceito) | RC-094 | associado |
-| Seres Terrenos (Homo Sapiens) | RC-099 | associado |
-| Razão Filosófica dos Terráqueos | RC-231 | opõe-se-a |
-| Apego aos Conceitos Terrenos | RC-362 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Revelação Cósmica (conceito) | RC-094 | associado | <-> | - |
+| Seres Terrenos (Homo Sapiens) | RC-099 | associado | <-> | - |
+| Razão Filosófica dos Terráqueos | RC-231 | opõe-se-a | -> | - |
+| Apego aos Conceitos Terrenos | RC-362 | associado | <-> | - |
 
 ## Fontes
 

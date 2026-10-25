@@ -23,11 +23,11 @@ Avatar de Vishnu cuja condição é relacionada ao agravamento do descompasso e 
 A palestra descreve confronto de Shiva com Narasimha sem intenção de destruí-lo, pois isso afetaria Vishnu.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Shiva (Savna) | RC-102 | confronta |
-| Vishnu (Mavatna) | RC-135 | é-um |
-| Krishna (avatar de Vishnu/Shiva) | RC-414 | relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Shiva (Savna) | RC-102 | opõe-se-a | -> | consolidação: "confronta" → "opõe-se-a" |
+| Vishnu (Mavatna) | RC-135 | é-um | -> | - |
+| Krishna (avatar de Vishnu/Shiva) | RC-414 | relaciona-se-a | -> | - |
 
 ## Seres Associados
 Consultar relações acima.

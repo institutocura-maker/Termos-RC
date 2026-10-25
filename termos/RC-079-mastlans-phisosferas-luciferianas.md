@@ -17,13 +17,13 @@ atualizado = "2026-09-12"
 As seis naves-base dos rebelados — "Mastlans Phisosferas" ou "Mastlans Luciferianas" (B031) — desenvolvidas em Alt'Lam durante os quase 40 mil anos de permanência dos rebeldes naquele planeta (B017). Aportaram na Terra há cerca de 97 mil anos (98 mil em P2022-12-17, STT "mátalas") trazendo o quartel-general da rebelião e 6.029 seres biodemos de várias famílias, entre eles Yel Luzbel (B031; B018). Dispersão: duas se desintegraram ao interagir com a atmosfera; três pousaram em terras próximas ao equador — ali, a primeira base móvel do futuro império atlante; a sexta desgarrada permaneceu em órbita perigosíssima e depois pousou na Antártida (então sem gelo e fora do polo), onde jamais voltou a voar e serviu de residência — ali, o primeiro culto à Alt'Lam (B017). Com a ajuda das mastlans, bases iam sendo edificadas em muitos quadrantes; há 67 mil anos, uma foi destruída nas guerras dos seres dos portais (B018). No Império de Antlar restariam duas: uma sobrevivida à decadência e outra fixada no solo, incapacitada para o voo (B018).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Rebelião de Lúcifer | RC-002 | frota-de |
-| Alt´Lam | RC-017 | desenvolvida-em |
-| Antlar | RC-022 | associado-a (Império de Antlar) |
-| Atlan | RC-028 | associado-a (base luciferiana) |
-| Dan | RC-046 | associado-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Rebelião de Lúcifer | RC-002 | relaciona-se-a | -> | consolidação: "frota-de" → "relaciona-se-a" |
+| Alt´Lam | RC-017 | contexto | -> | consolidação: "desenvolvida-em" → "contexto" |
+| Antlar | RC-022 | associado | <-> | qualificador preservado: Império de Antlar; raiz semântica associado (decisão 3) |
+| Atlan | RC-028 | associado | <-> | qualificador preservado: base luciferiana; raiz semântica associado (decisão 3) |
+| Dan | RC-046 | associado | <-> | - |
 
 ## Fontes
 

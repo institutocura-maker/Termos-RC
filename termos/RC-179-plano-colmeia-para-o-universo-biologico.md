@@ -24,14 +24,14 @@ Foi o **planejamento da transferência do código do psiquismo e da consciência
 O "Plano Colmeia" é o elo entre a Colmeia Universal (RC-174) e o Projeto Talm (RC-091): a estratégia dos "Seres da Trimurti" de recriar, no universo material, a estrutura colmeia que existia no universo demo. O cap. 7 de B044 associa o plano aos **campos mórficos** de Rupert Sheldrake e aos **insectoides** (espécies extraterrestres com forma de insetos) surgidos após a semeadura do código-fonte de vida do Criador.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Biodemos | RC-036 | expressão biológica |
-| Projeto Talm | RC-091 | associado-a |
-| Universo Material (Bhuloka) | RC-107 | destino |
-| Colmeia Universal | RC-174 | desdobramento |
-| Cultura Demodhármica | RC-183 | código transferido |
-| Insectoides | RC-187 | produtos (espécies) |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Biodemos | RC-036 | relaciona-se-a | -> | texto bruto original: expressão biológica |
+| Projeto Talm | RC-091 | associado | <-> | - |
+| Universo Material (Bhuloka) | RC-107 | transfere | -> | consolidação: "destino" → "transfere" |
+| Colmeia Universal | RC-174 | sucede | -> | consolidação: "desdobramento" → "sucede" |
+| Cultura Demodhármica | RC-183 | relaciona-se-a | -> | texto bruto original: código transferido |
+| Insectoides | RC-187 | relaciona-se-a | -> | qualificador preservado: espécies; consolidação: "produtos" → "relaciona-se-a" |
 
 ## Seres Associados
 Seres da Trimurti (RC-104); Sophia (RC-009); Agentes da Vida Universal (RC-148).

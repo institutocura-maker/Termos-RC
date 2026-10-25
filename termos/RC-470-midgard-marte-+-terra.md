@@ -22,17 +22,17 @@ A palestra descreve Marte como o nono mundo material conectado a oito locas do u
 
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Universo Material (Bhuloka) | RC-107 | localiza-se-em |
-| Terra de Ninguém (cósmica) | RC-358 | associado |
-| Ragnarok em Marte | RC-395 | relaciona-se-a |
-| Ragnarok em Marte | RC-395 | ← ocorre-no-eixo-de |
-| Ragnarok em Marte | RC-395 | ← relaciona-se-a |
-| Bifrost (Portal interdimensional) | RC-471 | relaciona-se-a |
-| Yggdrasil / Conglomerado dos Nove Mundos | RC-730 | ← inclui |
-| Yggdrasil / Conglomerado dos Nove Mundos | RC-730 | integra |
-| Axis Mundi / Axismund | RC-731 | ← ancora |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Universo Material (Bhuloka) | RC-107 | contexto | -> | consolidação: "localiza-se-em" → "contexto" |
+| Terra de Ninguém (cósmica) | RC-358 | associado | <-> | - |
+| Ragnarok em Marte | RC-395 | relaciona-se-a | -> | - |
+| Ragnarok em Marte | RC-395 | contexto | <- | consolidação: "ocorre-no-eixo-de" → "contexto" |
+| Ragnarok em Marte | RC-395 | relaciona-se-a | <- | - |
+| Bifrost (Portal interdimensional) | RC-471 | relaciona-se-a | -> | - |
+| Yggdrasil / Conglomerado dos Nove Mundos | RC-730 | inclui | <- | - |
+| Yggdrasil / Conglomerado dos Nove Mundos | RC-730 | inclui | -> | consolidação: "integra" → "inclui" |
+| Axis Mundi / Axismund | RC-731 | contexto | <- | consolidação: "ancora" → "contexto" |
 
 ## Fontes
 

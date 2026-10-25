@@ -24,20 +24,20 @@ São os seres das **famílias biodemicas exilados do Sistema de Capela para a Te
 Resultado direto da Rebelião de Lúcifer e do consequente Isolamento Cósmico. Nas RC, os Exilados de Capela correspondem ao que outras literaturas chamam de "Anjos Caídos" — com a ressalva de que, na narrativa de Ellam, são **seres biodemos extraterrestres** (entre eles Lúcifer/Yel Luzbel), não "anjos" no sentido tradicional.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | associado |
-| Rebelião de Lúcifer | RC-002 | origem |
-| Reintegração Cósmica | RC-003 | destino |
-| Anjos caídos | RC-020 | equivalência parcial |
-| Capela (Sistema) | RC-039 | origem-em |
-| Isolamento Cósmico | RC-070 | contexto |
-| Lúcifer (Yel Luzbel) | RC-078 | inclui |
-| Ulsh | RC-105 | é-um (família específica) |
-| Roteiro do Exílio | RC-348 | associado |
-| Exílios Interplanetários | RC-349 | associado |
-| Jesus, o Capelino | RC-350 | associado |
-| Revolta Capelina | RC-450 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Javé | RC-001 | associado | <-> | - |
+| Rebelião de Lúcifer | RC-002 | origina | -> | consolidação: "origem" → "origina" |
+| Reintegração Cósmica | RC-003 | transfere | -> | consolidação: "destino" → "transfere" |
+| Anjos caídos | RC-020 | relaciona-se-a | -> | texto bruto original: equivalência parcial |
+| Capela (Sistema) | RC-039 | origina | -> | consolidação: "origem-em" → "origina" |
+| Isolamento Cósmico | RC-070 | contexto | -> | - |
+| Lúcifer (Yel Luzbel) | RC-078 | inclui | -> | - |
+| Ulsh | RC-105 | é-um | -> | qualificador preservado: família específica |
+| Roteiro do Exílio | RC-348 | associado | <-> | - |
+| Exílios Interplanetários | RC-349 | associado | <-> | - |
+| Jesus, o Capelino | RC-350 | associado | <-> | - |
+| Revolta Capelina | RC-450 | associado | <-> | - |
 
 ## Seres Associados
 Yel Luzbel (RC-078); Len Mion (RC-074); famílias Val (RC-109), Yel (RC-136), Mion, Cromon, Shanlung; Família Ulsh (RC-105).

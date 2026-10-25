@@ -24,18 +24,18 @@ Linhagem genealógica derivada de Seth, terceiro filho de Adão e Eva, preparada
 A palestra situa Seth entre Caim e os patriarcas Enos, Cainã, Jared e Enoque, descrevendo sua relação crítica com o projeto de Javé.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Jesus | RC-072 | relaciona-se-a |
-| Linhagem dos Escolhidos (Adão, Enoch, Abraão, Jacó) | RC-424 | relaciona-se-a |
-| Enoque (sétimo patriarca; levado por Javé) | RC-489 | relaciona-se-a |
-| Caim (leitura RC: segundo a nascer) | RC-490 | relaciona-se-a |
-| Tikun Cósmico (restabelecimento da Criação) | RC-514 | relaciona-se-a |
-| Noreia (Norea) | RC-579 | ← parte-de |
-| Noreia (Norea) | RC-579 | inclui |
-| Abel | RC-684 | associado |
-| A Raça Inabalável dos Sethianos Emancipados | RC-766 | ← relaciona-se-a |
-| Elo Adâmico (o gene que Javé pôs em Adão) | RC-857 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Jesus | RC-072 | relaciona-se-a | -> | - |
+| Linhagem dos Escolhidos (Adão, Enoch, Abraão, Jacó) | RC-424 | relaciona-se-a | -> | - |
+| Enoque (sétimo patriarca; levado por Javé) | RC-489 | relaciona-se-a | -> | - |
+| Caim (leitura RC: segundo a nascer) | RC-490 | relaciona-se-a | -> | - |
+| Tikun Cósmico (restabelecimento da Criação) | RC-514 | relaciona-se-a | -> | - |
+| Noreia (Norea) | RC-579 | parte-de | <- | - |
+| Noreia (Norea) | RC-579 | inclui | -> | - |
+| Abel | RC-684 | associado | <-> | - |
+| A Raça Inabalável dos Sethianos Emancipados | RC-766 | relaciona-se-a | <- | - |
+| Elo Adâmico (o gene que Javé pôs em Adão) | RC-857 | associado | <-> | - |
 
 ## Seres Associados
 Noreia (Norea) (RC-579); Enoque (sétimo patriarca; levado por Javé) (RC-489); Caim (leitura RC: segundo a nascer) (RC-490)

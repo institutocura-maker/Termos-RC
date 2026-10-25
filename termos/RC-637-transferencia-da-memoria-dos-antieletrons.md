@@ -23,19 +23,19 @@ Hipótese de que a memória dos antielétrons do universo antimaterial em colaps
 A transferência concentraria a informação dos dois universos nos elétrons restantes.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | origem-em |
-| Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | transfere-para |
-| Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | origem-em |
-| Universo Material (Bhuloka) | RC-107 | transfere-para |
-| Universo Material (Bhuloka) | RC-107 | descreve-transferência-de |
-| Memória Quântica dos Elétrons | RC-161 | transfere-para |
-| Memória Quântica dos Elétrons | RC-161 | ← relaciona-se-a |
-| Duas Pulsações da Criação (elétrons e antielétrons) | RC-636 | relaciona-se-a |
-| Colapso do Caos Organizado | RC-690 | ← envolve |
-| Colapso do Caos Organizado | RC-690 | ← envolve |
-| Invasão Ancestral do Genoma e do Psiquismo Humanos | RC-732 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | origina | -> | consolidação: "origem-em" → "origina" |
+| Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | transfere | -> | consolidação: "transfere-para" → "transfere" |
+| Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | origina | -> | consolidação: "origem-em" → "origina" |
+| Universo Material (Bhuloka) | RC-107 | transfere | -> | consolidação: "transfere-para" → "transfere" |
+| Universo Material (Bhuloka) | RC-107 | explica | -> | consolidação: "descreve-transferência-de" → "explica" |
+| Memória Quântica dos Elétrons | RC-161 | transfere | -> | consolidação: "transfere-para" → "transfere" |
+| Memória Quântica dos Elétrons | RC-161 | relaciona-se-a | <- | - |
+| Duas Pulsações da Criação (elétrons e antielétrons) | RC-636 | relaciona-se-a | -> | - |
+| Colapso do Caos Organizado | RC-690 | envolve | <- | - |
+| Colapso do Caos Organizado | RC-690 | envolve | <- | - |
+| Invasão Ancestral do Genoma e do Psiquismo Humanos | RC-732 | associado | <-> | - |
 
 ## Seres Associados
 Consultar relações acima.

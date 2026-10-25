@@ -24,18 +24,18 @@ Classe de **demos extrafísicos do universo antimaterial** que, nas RC, correspo
 Os Seres dos Portais viviam nas moradas do universo paralelo (lokas/genos) e transitavam para a Terra enquanto os portais entre os dois universos estavam abertos. Algumas consciências de biodemos migraram para essa família de demos (ex.: Val Anen → Despina; Val Dimon → Pandora; Val Bon → Astréia — RC-112, RC-118, RC-116). O B018 (cap. 11) narra o "Império dos Descendentes dos Seres dos Portais" — a linhagem de Poseidon que reconstruiu bases do Império Atlante (Portlan e Portlon, RC-088).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Astréia | RC-027 | associado |
-| Demos | RC-049 | é-um |
-| Despina | RC-051 | associado |
-| Pandora | RC-086 | associado |
-| Seres Extrafísicos | RC-097 | associado |
-| Zeus | RC-145 | associado-a |
-| Zeus | RC-145 | ← é-um |
-| Império dos Descendentes dos Seres dos Portais | RC-240 | ← é-um |
-| Timé (de um deus) | RC-293 | associado |
-| Extísicos (seres do universo vizinho, não biológicos, compostos de plasma) | RC-861 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Astréia | RC-027 | associado | <-> | - |
+| Demos | RC-049 | é-um | -> | - |
+| Despina | RC-051 | associado | <-> | - |
+| Pandora | RC-086 | associado | <-> | - |
+| Seres Extrafísicos | RC-097 | associado | <-> | - |
+| Zeus | RC-145 | associado | <-> | - |
+| Zeus | RC-145 | é-um | <- | - |
+| Império dos Descendentes dos Seres dos Portais | RC-240 | é-um | <- | - |
+| Timé (de um deus) | RC-293 | associado | <-> | - |
+| Extísicos (seres do universo vizinho, não biológicos, compostos de plasma) | RC-861 | associado | <-> | - |
 
 ## Ampliação
 ### B018 (Terra Atlantis II: A Frota Norte)

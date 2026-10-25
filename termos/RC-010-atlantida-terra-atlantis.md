@@ -29,18 +29,18 @@ Com isso:
 **Origem do conteúdo da ampliação:** palestra `P2018-12-15 — Terra Atlantis – Aprofundamento` (15/12/2018). Transcrição automatizada, **não conferida com o áudio**; cada aspa foi recortada do `original.txt` pelo índice de âncoras do motor e conferida byte a byte pelo portão B. Nada foi digitado de memória.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Antlartes | RC-023 | **sem aresta** em `RELACOES`; **sem arquivo** |
-| Atlan | RC-028 | associado |
-| Atlans | RC-029 | **sem aresta** em `RELACOES`; **sem arquivo** |
-| Atlantes | RC-030 | **sem aresta** em `RELACOES`; **sem arquivo** |
-| Portlan e Portlon | RC-088 | **sem aresta** em `RELACOES`; **sem arquivo** |
-| Land's End (Sinal de Land's End) | RC-237 | ← associado-a |
-| Era Sapiens | RC-238 | ← ocorre-após |
-| Império dos Descendentes dos Seres dos Portais | RC-240 | associado |
-| Kumari Kandan (tradição) | RC-329 | associado |
-| Dwarka (submersa) | RC-399 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Antlartes | RC-023 | - | - | sem aresta em RELACOES; sem arquivo |
+| Atlan | RC-028 | associado | <-> | - |
+| Atlans | RC-029 | - | - | sem aresta em RELACOES; sem arquivo |
+| Atlantes | RC-030 | - | - | sem aresta em RELACOES; sem arquivo |
+| Portlan e Portlon | RC-088 | - | - | sem aresta em RELACOES; sem arquivo |
+| Land's End (Sinal de Land's End) | RC-237 | associado | <-> | - |
+| Era Sapiens | RC-238 | sucede | <- | consolidação: "ocorre-após" → "sucede" |
+| Império dos Descendentes dos Seres dos Portais | RC-240 | associado | <-> | - |
+| Kumari Kandan (tradição) | RC-329 | associado | <-> | - |
+| Dwarka (submersa) | RC-399 | associado | <-> | - |
 
 
 ## Fontes

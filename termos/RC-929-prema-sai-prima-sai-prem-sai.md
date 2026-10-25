@@ -30,13 +30,13 @@ Segundo as Revelações Cósmicas, **Prema Sai** é a **terceira e última encar
 - Na tradição devocional ligada a Sathya Sai Baba, "Prema Sai" é o nome do **terceiro avatar previsto** da linhagem (após Shirdi e Sathya). Conforme B031 (leitura RC), teria nascido na Índia em 2019.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Lila | RC-075 | contexto |
-| Shiva (Savna) | RC-102 | encarnação-de |
-| Saibaba como Precursor de Jesus | RC-801 | parte-de |
-| Sai Baba de Shirdi (Shirdi Sai Baba) | RC-927 | é-encarnação-posterior-de |
-| Sathya Sai Baba | RC-928 | encarnação-posterior-de |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Lila | RC-075 | contexto | -> | - |
+| Shiva (Savna) | RC-102 | origina | -> | consolidação: "encarnação-de" → "origina" |
+| Saibaba como Precursor de Jesus | RC-801 | parte-de | -> | - |
+| Sai Baba de Shirdi (Shirdi Sai Baba) | RC-927 | origina | -> | consolidação: "é-encarnação-posterior-de" → "origina" |
+| Sathya Sai Baba | RC-928 | origina | -> | consolidação: "encarnação-posterior-de" → "origina" |
 
 ## Seres Associados
 - **Shiva** (RC-102) — a consciência que se encarna na linhagem Sai

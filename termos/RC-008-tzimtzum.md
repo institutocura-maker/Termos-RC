@@ -25,17 +25,17 @@ Conceito do rabino **Isaac Luria** (1534–1572) que significa, literalmente, um
 O subtítulo da obra de Ellam é *O Exílio Forçado de uma Divindade — Revelações Antigas da Cabala* (B013). O Tzimtzum é a tentativa cabalística de "transformar uma 'queda' num 'passo de dança'". Todas as principais mitologias da Antiguidade (ariana/hindu, grega, egípcia) afirmam a mesma temática: "um Ser que se pretendeu Criador de Realidades sucumbiu junto com a sua Expressão Mental, ou seja, acabou 'tragado' pelo que, da sua Mente, foi expelido como sendo uma 'Massa de Moldar Realidade'".
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Criador (Brahma/Javé/Demiurgo) | RC-041 | sujeito da queda |
-| Kether (Javé na Cabala) | RC-261 | explica |
-| Daath (a Criação na Cabala) | RC-262 | relaciona-se-a |
-| Daath (a Criação na Cabala) | RC-262 | ← relaciona-se-a |
-| Sefirot / Árvore da Vida | RC-263 | associado |
-| Os 270 Mundos (profecia do Zohar) | RC-265 | associado |
-| Sepher ha-Zohar (e Shimon Bar Yochai) | RC-266 | fonte |
-| Isaac Luria e o conceito do Tzimtzum | RC-267 | ← relaciona-se-a |
-| Laço Temporal de Kether/Javé | RC-272 | relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Criador (Brahma/Javé/Demiurgo) | RC-041 | relaciona-se-a | -> | texto bruto original: sujeito da queda |
+| Kether (Javé na Cabala) | RC-261 | explica | -> | - |
+| Daath (a Criação na Cabala) | RC-262 | relaciona-se-a | -> | - |
+| Daath (a Criação na Cabala) | RC-262 | relaciona-se-a | <- | - |
+| Sefirot / Árvore da Vida | RC-263 | associado | <-> | - |
+| Os 270 Mundos (profecia do Zohar) | RC-265 | associado | <-> | - |
+| Sepher ha-Zohar (e Shimon Bar Yochai) | RC-266 | origina | -> | consolidação: "fonte" → "origina" |
+| Isaac Luria e o conceito do Tzimtzum | RC-267 | relaciona-se-a | <- | - |
+| Laço Temporal de Kether/Javé | RC-272 | relaciona-se-a | -> | - |
 
 ## Seres Associados
 Kether/Javé (RC-261/RC-001); Criador (RC-041).

@@ -24,15 +24,15 @@ O **papel estratégico de Judas** na missão de Jesus — o capítulo 2 do Livro
 O B011 (Jesus e o Enigma da Transfiguração) narra os fatos do período final da vida de Jesus pela voz de Tiago, Elias e Moisés (Livro de Tiago o Maior). O "Fator Judas" conecta-se ao "Calvário de um Inocente" (RC-236, B039) e à perspectiva de Yel Luzbel/Len Mion sobre a crucificação.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Jesus | RC-072 | envolve |
-| Revelação Cósmica (conceito) | RC-094 | associado |
-| Yel Am / Yel Liam | RC-138 | envolve |
-| Yel Am / Yel Liam | RC-138 | reabilita |
-| O Calvário de um Inocente | RC-236 | relaciona-se-a |
-| O Enigma da Transfiguração | RC-366 | contexto |
-| Evangelho de Judas | RC-647 | ← tema-de |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Jesus | RC-072 | envolve | -> | - |
+| Revelação Cósmica (conceito) | RC-094 | associado | <-> | - |
+| Yel Am / Yel Liam | RC-138 | envolve | -> | - |
+| Yel Am / Yel Liam | RC-138 | protege | -> | consolidação: "reabilita" → "protege" |
+| O Calvário de um Inocente | RC-236 | relaciona-se-a | -> | - |
+| O Enigma da Transfiguração | RC-366 | contexto | -> | - |
+| Evangelho de Judas | RC-647 | contexto | <- | consolidação: "tema-de" → "contexto" |
 
 ## Seres Associados
 Judas (Yel Am/Yel Liam, RC-138); Jesus (RC-072); Tiago (narrador).

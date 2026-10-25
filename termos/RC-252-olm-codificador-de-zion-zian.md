@@ -24,15 +24,15 @@ Nome pelo qual se identifica o **Quarto Logos** — também chamado **Codificado
 Olm atua desde tempos antigos (a consciência que o personifica já atuou em outras épocas), mas o Quarto Logos **passa a operar a partir de 1989** (B031). Sua mensagem revela que, **há pouco mais de um milhão de anos**, ele convidou o espírito de Jan Val Ellam (então Val, biodemo) para uma **escola de "agentes esclarecidos da busca da verdade"** entre as famílias de Capela — interrompida pela Rebelião de Lúcifer. Sua única encarnação terrena foi **Apolônio de Tiana** (~2.000 anos atrás).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Quarto Logos (Olm / Codificador de Zian) | RC-092 | variação |
-| Liberdade Mental (premissa do Quarto Logos) | RC-253 | premissa |
-| A Mensagem do Codificador de Zion | RC-255 | ← proferida-por |
-| Escola dos Agentes Esclarecidos da Busca da Verdade | RC-256 | ← fundada-por |
-| Espiritismo como Expressão do Quarto Logos | RC-257 | relaciona-se-a |
-| Apolônio de Tiana (encarnação do Quarto Logos) | RC-259 | ← é-um |
-| Agentes do Quarto Logos | RC-281 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Quarto Logos (Olm / Codificador de Zian) | RC-092 | variação | -> | - |
+| Liberdade Mental (premissa do Quarto Logos) | RC-253 | relaciona-se-a | -> | consolidação: "premissa" → "relaciona-se-a" |
+| A Mensagem do Codificador de Zion | RC-255 | comunica | -> | consolidação: "proferida-por" → "comunica"; direção invertida (forma passiva/inversa) |
+| Escola dos Agentes Esclarecidos da Busca da Verdade | RC-256 | origina | -> | consolidação: "fundada-por" → "origina"; direção invertida (forma passiva/inversa) |
+| Espiritismo como Expressão do Quarto Logos | RC-257 | relaciona-se-a | -> | - |
+| Apolônio de Tiana (encarnação do Quarto Logos) | RC-259 | é-um | <- | - |
+| Agentes do Quarto Logos | RC-281 | associado | <-> | - |
 
 ## Seres Associados
 Jan Val Ellam (RC-071); Apolônio de Tiana (RC-259); Sophia (RC-009); Jesus (RC-072).

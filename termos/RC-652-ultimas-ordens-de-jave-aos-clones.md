@@ -23,12 +23,12 @@ Instruções finais atribuídas a Javé para que clones observem estudantes da R
 Extraído da live P2025-10-25 — 2ª Edição Estagiários do Kaos.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | proferida-por |
-| Anjos clones | RC-019 | destinada-a |
-| Revelação Cósmica (conceito) | RC-094 | — |
-| Zont En Drel 29 | RC-147 | envolve |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Javé | RC-001 | comunica | <- | consolidação: "proferida-por" → "comunica"; direção invertida (forma passiva/inversa) |
+| Anjos clones | RC-019 | transfere | -> | consolidação: "destinada-a" → "transfere" |
+| Revelação Cósmica (conceito) | RC-094 | - | - | sem relação informada; 17 linhas são registros de fonte com 4 colunas |
+| Zont En Drel 29 | RC-147 | envolve | -> | - |
 
 ## Seres Associados
 Consultar relações na Base.

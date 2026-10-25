@@ -27,14 +27,14 @@ Na B034 (*Cartas a Javé*), a declaração de **Javé** na resposta que dirige �
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | é-um |
-| Revelação Cósmica (conceito) | RC-094 | associado |
-| Favor Divino (conceito invertido) | RC-332 | relaciona-se-a |
-| A Vida do CFD de Javé no Ser Humano | RC-382 | relaciona-se-a |
-| Cartas a Javé (obra e diálogo) | RC-416 | associado |
-| Resposta de Javé (em 1ª pessoa) | RC-417 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Javé | RC-001 | é-um | -> | - |
+| Revelação Cósmica (conceito) | RC-094 | associado | <-> | - |
+| Favor Divino (conceito invertido) | RC-332 | relaciona-se-a | -> | - |
+| A Vida do CFD de Javé no Ser Humano | RC-382 | relaciona-se-a | -> | - |
+| Cartas a Javé (obra e diálogo) | RC-416 | associado | <-> | - |
+| Resposta de Javé (em 1ª pessoa) | RC-417 | associado | <-> | - |
 
 ## Fontes
 

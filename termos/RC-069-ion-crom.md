@@ -27,10 +27,10 @@ Biodemo da Família Cromon (ou Crom) — família que, conforme o corpo da obra,
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Alt´Lam Gron | RC-018 | associado |
-| Yel (Família Yel) | RC-136 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Alt´Lam Gron | RC-018 | associado | <-> | - |
+| Yel (Família Yel) | RC-136 | associado | <-> | - |
 
 ## Fontes
 

@@ -23,12 +23,12 @@ Rei-sacerdote híbrido ou não humano que funda Salém e legitima Javé diante d
 Extraído da live P2025-10-25 — 2ª Edição Estagiários do Kaos.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | relaciona-se-a |
-| Linhagem dos Escolhidos (Adão, Enoch, Abraão, Jacó) | RC-424 | relaciona-se-a |
-| Heber (patriarca pós-dilúvio) | RC-436 | — |
-| Joctan e Faleg (filhos de Heber) | RC-437 | — |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Javé | RC-001 | relaciona-se-a | -> | - |
+| Linhagem dos Escolhidos (Adão, Enoch, Abraão, Jacó) | RC-424 | relaciona-se-a | -> | - |
+| Heber (patriarca pós-dilúvio) | RC-436 | - | - | sem relação informada; 17 linhas são registros de fonte com 4 colunas |
+| Joctan e Faleg (filhos de Heber) | RC-437 | - | - | sem relação informada; 17 linhas são registros de fonte com 4 colunas |
 
 ## Seres Associados
 Consultar relações na Base.

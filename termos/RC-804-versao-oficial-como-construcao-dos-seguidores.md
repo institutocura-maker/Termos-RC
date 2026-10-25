@@ -24,13 +24,13 @@ Tese (leitura do autor, palestra **P2018-02-24**, U0001/U0005) de que **as "vers
 Aparece em **P2018-02-24**, U0001 (abertura) e U0005 (encerramento). Contexto: o autor abre a palestra dizendo que "as versões oficiais" são "produzidas, escritas, dirigidas, revisadas, modificadas, adequadas pelos seguidores" — e fecha dizendo que "o cristianismo ferrou com isso aqui, como Nietz, ferrou com esses valores, transformou a beleza grega em pecado".
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Jesus | RC-072 | versão-oficial-de |
-| Ulsh | RC-105 | é-mantida-via |
-| Lavagem Cerebral (condicionamento) | RC-335 | é-produzida-via |
-| Estratégia dos Avatares (Moisés/Krishna/Saibaba/Jesus/Maomé) | RC-797 | instrumentaliza |
-| Pandora como Oposição à Estratégia dos Avatares | RC-799 | opõe-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Jesus | RC-072 | variação | -> | consolidação: "versão-oficial-de" → "variação" |
+| Ulsh | RC-105 | controla | <- | consolidação: "é-mantida-via" → "controla"; direção invertida (forma passiva/inversa) |
+| Lavagem Cerebral (condicionamento) | RC-335 | causa | <- | consolidação: "é-produzida-via" → "causa"; direção invertida (forma passiva/inversa) |
+| Estratégia dos Avatares (Moisés/Krishna/Saibaba/Jesus/Maomé) | RC-797 | usa | -> | consolidação: "instrumentaliza" → "usa" |
+| Pandora como Oposição à Estratégia dos Avatares | RC-799 | opõe-se-a | -> | - |
 
 ## Seres Associados
 - **Os seguidores dos avatares** — quem produzem as versões oficiais

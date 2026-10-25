@@ -27,13 +27,13 @@ Na pregação do Grupo Atlan recolhida em B006, o processo de correção de si: 
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Revelação Cósmica (conceito) | RC-094 | associado |
-| Seres Terrenos (Homo Sapiens) | RC-099 | associado |
-| Seres Espirituais | RC-100 | associado |
-| Revelação Espiritual (Kardec) | RC-190 | relaciona-se-a |
-| Maestria existencial (o valor repousado no modo como se vive) | RC-880 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Revelação Cósmica (conceito) | RC-094 | associado | <-> | - |
+| Seres Terrenos (Homo Sapiens) | RC-099 | associado | <-> | - |
+| Seres Espirituais | RC-100 | associado | <-> | - |
+| Revelação Espiritual (Kardec) | RC-190 | relaciona-se-a | -> | - |
+| Maestria existencial (o valor repousado no modo como se vive) | RC-880 | associado | <-> | - |
 
 ## Ampliação — STT26-EXPERIENCIA_ESPIRITUAL_ETICA (Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados))
 

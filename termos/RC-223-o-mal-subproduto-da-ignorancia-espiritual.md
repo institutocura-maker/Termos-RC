@@ -24,16 +24,16 @@ Tese de B002 (cap. 17): **o mal não é uma força autônoma, mas subproduto da 
 O capítulo 17 de B002 desenvolve o tema mostrando a "brutal ditadura" sob a qual vivemos (à exceção de algumas civilizações que superaram a cota doentia do DNA do criador), exercida pelo Senhor Javé "em nome do 'bem'", e aponta que o discernimento de alguns membros da hierarquia já os permite coexistir com seres evoluídos. A reflexão integra o eixo ético da Revelação Cósmica: o mal como consequência da ignorância espiritual — conceito que dialoga com a Revelação Espiritual (Kardec).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | agente (ditadura) |
-| Criador (Brahma/Javé/Demiurgo) | RC-041 | origem |
-| Revelação Cósmica (conceito) | RC-094 | contexto |
-| Revelação Espiritual (Kardec) | RC-190 | associado-a |
-| DNA como Projeção Holográfica do Psiquismo do Criador | RC-217 | herança (cota doentia) |
-| Prevalece o Amor | RC-224 | contraponto |
-| Imperativo Categórico da Moral | RC-328 | associado |
-| Abismo da Consciência Cósmica | RC-721 | comparado-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Javé | RC-001 | envolve | -> | qualificador preservado: ditadura; consolidação: "agente" → "envolve" |
+| Criador (Brahma/Javé/Demiurgo) | RC-041 | origina | -> | consolidação: "origem" → "origina" |
+| Revelação Cósmica (conceito) | RC-094 | contexto | -> | - |
+| Revelação Espiritual (Kardec) | RC-190 | associado | <-> | - |
+| DNA como Projeção Holográfica do Psiquismo do Criador | RC-217 | origina | -> | qualificador preservado: cota doentia; consolidação: "herança" → "origina" |
+| Prevalece o Amor | RC-224 | associado | <-> | consolidação: "contraponto" → "associado" |
+| Imperativo Categórico da Moral | RC-328 | associado | <-> | - |
+| Abismo da Consciência Cósmica | RC-721 | variação | -> | consolidação: "comparado-a" → "variação" |
 
 ## Seres Associados
 Javé (RC-001); Jesus (RC-072); hierarquia celestial (Aya e Aye, RC-031).

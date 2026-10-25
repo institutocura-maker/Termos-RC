@@ -27,11 +27,11 @@ Título do capítulo 8 de B052 (*Homoafetividade: o Segredo Perdido do Éden*). 
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Hiperbórea | RC-068 | associado-a |
-| Revelação Cósmica (conceito) | RC-094 | associado |
-| Colegiado Druídico | RC-403 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Hiperbórea | RC-068 | associado | <-> | - |
+| Revelação Cósmica (conceito) | RC-094 | associado | <-> | - |
+| Colegiado Druídico | RC-403 | associado | <-> | - |
 
 ## Fontes
 

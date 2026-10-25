@@ -17,16 +17,16 @@ atualizado = "2026-09-05"
 Filhos de Heber (RC-436), patriarcas pós-diluvianos da linhagem hebraica — **Faleg** é o elo da linhagem de Sem/Abraão na genealogia bíblica da RC.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | relaciona-se-a |
-| Revelação Cósmica (conceito) | RC-094 | associado |
-| Linhagem dos Patriarcas Hebreus | RC-270 | associado |
-| Linhagem dos Escolhidos (Adão, Enoch, Abraão, Jacó) | RC-424 | relaciona-se-a |
-| Heber (patriarca pós-dilúvio) | RC-436 | é-um |
-| Senhor Parameshthi / Brahma Parameshthi (face atual de Javé) | RC-556 | ← relaciona-se-a |
-| Faces de Javé (sucessivas manifestações do Criador) | RC-561 | associado |
-| Melquizedec | RC-650 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Javé | RC-001 | relaciona-se-a | -> | - |
+| Revelação Cósmica (conceito) | RC-094 | associado | <-> | - |
+| Linhagem dos Patriarcas Hebreus | RC-270 | associado | <-> | - |
+| Linhagem dos Escolhidos (Adão, Enoch, Abraão, Jacó) | RC-424 | relaciona-se-a | -> | - |
+| Heber (patriarca pós-dilúvio) | RC-436 | é-um | -> | - |
+| Senhor Parameshthi / Brahma Parameshthi (face atual de Javé) | RC-556 | relaciona-se-a | <- | - |
+| Faces de Javé (sucessivas manifestações do Criador) | RC-561 | associado | <-> | - |
+| Melquizedec | RC-650 | associado | <-> | - |
 
 ## Fontes
 

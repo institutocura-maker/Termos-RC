@@ -26,17 +26,17 @@ Aparece em **P2018-05-20**, U0002. Contexto: o autor faz um **salto de 5 bilhõe
 A palestra **NÃO FUSIONA o Kvasir da mitologia nórdica clássica com o "princípio de Pandora"** — o autor usa o Kvasir como **analogia mítica** para mostrar que a ideia de "criar o melhor de todos a partir de uma tigela" é **uma estrutura mítica recorrente** que se repete em Pandora (Zeus + Têmis).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Hiperbórea | RC-068 | é-morada-de |
-| Orbum | RC-085 | protagoniza |
-| Pandora | RC-086 | é-paralelo-com |
-| A Rebelião dos Elétrons | RC-378 | associado |
-| Ragnarok em Marte | RC-395 | é-contexto-de |
-| Kvasir e Freya (Vanir/Aesir) | RC-396 | é-resultado-de |
-| Enoque (sétimo patriarca; levado por Javé) | RC-489 | convoca |
-| Shiva como Primeiro Demo (Saiu do Clone Destruído) | RC-810 | é-consequência-de |
-| Temis (Têmis) como Mãe-de-Pandora (Co-clonadora) | RC-815 | é-equivalente-grego |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Hiperbórea | RC-068 | contexto | -> | consolidação: "é-morada-de" → "contexto" |
+| Orbum | RC-085 | envolve | -> | consolidação: "protagoniza" → "envolve" |
+| Pandora | RC-086 | associado | <-> | consolidação: "é-paralelo-com" → "associado" |
+| A Rebelião dos Elétrons | RC-378 | associado | <-> | - |
+| Ragnarok em Marte | RC-395 | contexto | -> | consolidação: "é-contexto-de" → "contexto" |
+| Kvasir e Freya (Vanir/Aesir) | RC-396 | causa | <- | consolidação: "é-resultado-de" → "causa"; direção invertida (forma passiva/inversa) |
+| Enoque (sétimo patriarca; levado por Javé) | RC-489 | comunica | -> | consolidação: "convoca" → "comunica" |
+| Shiva como Primeiro Demo (Saiu do Clone Destruído) | RC-810 | causa | <- | consolidação: "é-consequência-de" → "causa"; direção invertida (forma passiva/inversa) |
+| Temis (Têmis) como Mãe-de-Pandora (Co-clonadora) | RC-815 | variação | -> | consolidação: "é-equivalente-grego" → "variação" |
 
 ## Seres Associados
 - **Fria** (RC-085) — a propositora

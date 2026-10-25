@@ -24,11 +24,11 @@ Livro anunciado por Jan Val Ellam, destinado a tratar do Roseral do Alto e dos p
 Em 2021, o autor dizia tentar concluí-lo e não saber se conseguiria publicá-lo nessa vida.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Jan Val Ellam (Rogério de Almeida Freitas) | RC-071 | anunciada-por |
-| Nova Espiritualidade / Novo Paraíso (Paraíso B) | RC-612 | tema-de |
-| Roseral do Alto | RC-616 | ← tema-de |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Jan Val Ellam (Rogério de Almeida Freitas) | RC-071 | comunica | <- | consolidação: "anunciada-por" → "comunica"; direção invertida (forma passiva/inversa) |
+| Nova Espiritualidade / Novo Paraíso (Paraíso B) | RC-612 | contexto | -> | consolidação: "tema-de" → "contexto" |
+| Roseral do Alto | RC-616 | contexto | <- | consolidação: "tema-de" → "contexto" |
 
 ## Seres Associados
 Consultar as relações tipadas acima.

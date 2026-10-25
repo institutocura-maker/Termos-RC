@@ -24,28 +24,28 @@ atualizado = "2026-08-29"
 O modelo colmeia **já vigia entre Javé e os seus anjos-clones no universo antimaterial (Brahmaloka)** e, muito mais tarde, seu código "apodrecido e doente" veio a se tornar a "molécula-mãe" da vida terrestre (cap. 1–2). Com os demos houve flexibilização; com a vida biológica o modelo foi reimposto "atavicamente registrado nos genes"; com o homem, a liberdade passou a ser essencial, impedindo que o modelo colmeia continue funcionando (cap. 11). É o correlato biológico do "controle colmeia" que foi "destravado" pelos humanos (cap. 14).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Anjos clones | RC-019 | associado |
-| Colmeia Universal | RC-174 | associado |
-| Abelha-Rainha (Javé) | RC-175 | associado |
-| Colmeia do Éden | RC-177 | associado |
-| Fator Colmeia | RC-180 | associado |
-| Biodemol | RC-186 | associado |
-| Mente Coletiva / Redes Psíquicas Coletivas | RC-188 | implementa |
-| Mente Coletiva / Redes Psíquicas Coletivas | RC-188 | ← distingue-se-de |
-| Rebanho humano | RC-193 | associado |
-| Criador refém das próprias criaturas | RC-196 | associado |
-| Dominação (premissa dos Três Primeiros Logos) | RC-254 | associado |
-| A Jaula de Cada Espécie | RC-277 | ← relaciona-se-a |
-| Teocracia da Doença de uma Divindade | RC-334 | associado |
-| Lavagem Cerebral (condicionamento) | RC-335 | associado |
-| Colapso do Caos Organizado | RC-690 | ← manifesta-se-em |
-| Colapso do Caos Organizado | RC-690 | ← manifesta-se-em |
-| Informações Vivas | RC-715 | ← relaciona-se-a |
-| Informações Vivas | RC-715 | relaciona-se-a |
-| Dominação Psíquica pela Devoção | RC-733 | associado |
-| As Cinco Lentes da Realidade | RC-761 | ← relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Anjos clones | RC-019 | associado | <-> | - |
+| Colmeia Universal | RC-174 | associado | <-> | - |
+| Abelha-Rainha (Javé) | RC-175 | associado | <-> | - |
+| Colmeia do Éden | RC-177 | associado | <-> | - |
+| Fator Colmeia | RC-180 | associado | <-> | - |
+| Biodemol | RC-186 | associado | <-> | - |
+| Mente Coletiva / Redes Psíquicas Coletivas | RC-188 | usa | -> | consolidação: "implementa" → "usa" |
+| Mente Coletiva / Redes Psíquicas Coletivas | RC-188 | opõe-se-a | <- | consolidação: "distingue-se-de" → "opõe-se-a" |
+| Rebanho humano | RC-193 | associado | <-> | - |
+| Criador refém das próprias criaturas | RC-196 | associado | <-> | - |
+| Dominação (premissa dos Três Primeiros Logos) | RC-254 | associado | <-> | - |
+| A Jaula de Cada Espécie | RC-277 | relaciona-se-a | <- | - |
+| Teocracia da Doença de uma Divindade | RC-334 | associado | <-> | - |
+| Lavagem Cerebral (condicionamento) | RC-335 | associado | <-> | - |
+| Colapso do Caos Organizado | RC-690 | representa | <- | consolidação: "manifesta-se-em" → "representa" |
+| Colapso do Caos Organizado | RC-690 | representa | <- | consolidação: "manifesta-se-em" → "representa" |
+| Informações Vivas | RC-715 | relaciona-se-a | <- | - |
+| Informações Vivas | RC-715 | relaciona-se-a | -> | - |
+| Dominação Psíquica pela Devoção | RC-733 | associado | <-> | - |
+| As Cinco Lentes da Realidade | RC-761 | relaciona-se-a | <- | - |
 
 ## Citações-chave
 > "Esse é outro ponto inquietante dessa indeterminação, ou seja, o modo como o futuro virá para todos os que se encontram “mergulhados” neste angustiante “enredo existencial”, dependerá da criatividade, da habilidade e da compreensão esclarecida sobre o dramático problema dos “agentes da vida” (Brahma, Vishnu e Shiva) – que acontece no âmbito interno desta Criação –, enfim, do livre arbítrio das criaturas despertas. Esse é um dos motivos que me obrigam a tentar produzir o presente conjunto de reflexões sobre diversos painéis pertinentes ao conhecimento humano, mas que se encontravam ocultos e esquecidos, como se perdidos nas brumas do tempo cósmico. Sendo o primeiro e engendrado nas piores condições de sobrevivência, em pleno caos inicial da Criação, o “sistema colmeia” nunca conseguiria, como jamais o fez, resolver o problema. Muito ao contrário: o “sistema colmeia” criou mais problemas ainda, pois que passou a ser aplicado sobre criaturas cuja destinação genética era tão somente a de produzir circuitos de manutenção que pudessem fluir para a vida de um único Ser! Continuemos, porém, a refletir sobre a questão da indeterminação conforme os postulados apresentados por Wolfgang Smith: “Se os sistemas quânticos não são, portanto, “incertos” por si mesmos, serão eles, não obstante, indeterminísticos?" — B044

@@ -26,11 +26,11 @@ O termo aparece nas aulas 01–05 do curso F044 (57.179 palavras, fonte primári
 > «o homem Jesus não seria o avatar de Javé, seria o Messias, seria o enviado, seria aquele que viria super poderoso em nome de Javé, resolver o tema principal e mais tarde foi transposto para as páginas da Bíblia, que tema era esse» » […] « «Um Criador,» — P2023-12-25-01 · `original.txt` L4 · reconstrução aprovada pelo Curador na U101; 1 palavra da fonte omitida — » […] « assinala o fosso, ao passo que » … « assinala apenas quebra de hard-wrap.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Segundo Advento do Cristo (Volta de Jesus) | RC-005 | associado |
-| Jesus | RC-072 | associado |
-| Agenda Espiritual | RC-752 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Segundo Advento do Cristo (Volta de Jesus) | RC-005 | associado | <-> | - |
+| Jesus | RC-072 | associado | <-> | - |
+| Agenda Espiritual | RC-752 | associado | <-> | - |
 
 - Jesus — RC-072;
 - Segundo Advento do Cristo (Volta de Jesus) — RC-005;

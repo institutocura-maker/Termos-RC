@@ -23,17 +23,17 @@ A fala retoma a anedota política da tartaruga ou do jabuti encontrado sobre uma
 
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| DNA como Projeção Holográfica do Psiquismo do Criador | RC-217 | metáfora-alegada-da-RC-sobre |
-| Genética Totalitária | RC-325 | relaciona-se-a |
-| Genoma Derivado (interação genoma × trajetória) | RC-518 | associado |
-| Espelho da Herança Espiritual no Epigenoma | RC-543 | relaciona-se-a |
-| Genoma da Liberdade | RC-619 | associado |
-| Genes Críticos / Genes Dorminhocos | RC-710 | associado |
-| Fantasmas do Passado Mitológico | RC-728 | ← estrutura-se-por |
-| Invasão Ancestral do Genoma e do Psiquismo Humanos | RC-732 | contextualiza |
-| Invasão Ancestral do Genoma e do Psiquismo Humanos | RC-732 | ← manifesta-se-no-discurso-como |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| DNA como Projeção Holográfica do Psiquismo do Criador | RC-217 | relaciona-se-a | -> | texto bruto original: metáfora-alegada-da-RC-sobre |
+| Genética Totalitária | RC-325 | relaciona-se-a | -> | - |
+| Genoma Derivado (interação genoma × trajetória) | RC-518 | associado | <-> | - |
+| Espelho da Herança Espiritual no Epigenoma | RC-543 | relaciona-se-a | -> | - |
+| Genoma da Liberdade | RC-619 | associado | <-> | - |
+| Genes Críticos / Genes Dorminhocos | RC-710 | associado | <-> | - |
+| Fantasmas do Passado Mitológico | RC-728 | inclui | <- | consolidação: "estrutura-se-por" → "inclui" |
+| Invasão Ancestral do Genoma e do Psiquismo Humanos | RC-732 | contexto | -> | consolidação: "contextualiza" → "contexto" |
+| Invasão Ancestral do Genoma e do Psiquismo Humanos | RC-732 | representa | <- | consolidação: "manifesta-se-no-discurso-como" → "representa" |
 
 ## Fontes
 

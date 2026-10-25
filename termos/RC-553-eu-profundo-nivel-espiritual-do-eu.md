@@ -25,20 +25,20 @@ atualizado = "2026-10-23"
 No Mentalma I (B074, cap. 11 — "O 'Eu' que Surge da 'Caixa de Depósitos'"), Ellam distingue o "Eu" ancorado em suas potencialidades espirituais do "Eu" ancorado nas questões do cotidiano, e estabelece que "existem vários níveis de 'Consciência' ou de 'Eus Mais Profundos'... há também o 'Eu Superior', o 'Eu Profundo', e o 'Eu Sagrado'" (p. 140). A "Vontade do Eu Profundo" "é quem responde pela administração dos impulsos anteriores ao pensamento" (p. 44). O despertar do "Eu Profundo" é a meta do 1º Exercício Mental (p. 25: "um 'Eu Profundo' poderá emergir com a continuada renovação dessa aspiração espiritual"). Ramana Maharshi é citado como fonte da técnica de se distanciar da "onda mental" para alcançar o "Eu Mais Profundo" (p. 152).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Mentalma | RC-166 | relaciona-se-a |
-| Dehatma Buddhi (doença psíquica da mente identificada com o corpo) | RC-551 | associado |
-| Disciplina dos 3As (respiração, mente, alinhamento) | RC-552 | relaciona-se-a (prática de alinhamento) |
-| Gestão Psíquica e Memórias Complexas (Mentalma II) | RC-554 | associado |
-| Série Mentalma (5 livros + curso) | RC-555 | associado |
-| Sensação de eu (a sensação particular a cada instante) | RC-558 | ← relaciona-se-a |
-| Eu Coalescente | RC-620 | ← relaciona-se-a |
-| Corpo Sutil Reencarnante | RC-704 | ← hospeda |
-| Ser Humano Não Local | RC-708 | relaciona-se-a |
-| Três Faíscas da Consciência Humana | RC-719 | ← inclui |
-| Três Faíscas da Consciência Humana | RC-719 | integra |
-| Quarto Cérebro (centro de sabedoria vibracional) | RC-758 | ← relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Mentalma | RC-166 | relaciona-se-a | -> | - |
+| Dehatma Buddhi (doença psíquica da mente identificada com o corpo) | RC-551 | associado | <-> | - |
+| Disciplina dos 3As (respiração, mente, alinhamento) | RC-552 | relaciona-se-a | -> | qualificador preservado: prática de alinhamento |
+| Gestão Psíquica e Memórias Complexas (Mentalma II) | RC-554 | associado | <-> | - |
+| Série Mentalma (5 livros + curso) | RC-555 | associado | <-> | - |
+| Sensação de eu (a sensação particular a cada instante) | RC-558 | relaciona-se-a | <- | - |
+| Eu Coalescente | RC-620 | relaciona-se-a | <- | - |
+| Corpo Sutil Reencarnante | RC-704 | contexto | <- | consolidação: "hospeda" → "contexto" |
+| Ser Humano Não Local | RC-708 | relaciona-se-a | -> | - |
+| Três Faíscas da Consciência Humana | RC-719 | inclui | <- | - |
+| Três Faíscas da Consciência Humana | RC-719 | inclui | -> | consolidação: "integra" → "inclui" |
+| Quarto Cérebro (centro de sabedoria vibracional) | RC-758 | relaciona-se-a | <- | - |
 
 ## Seres Associados
 Espírito encarnado; os níveis do "Eu" da "Consciência Particularizada"; Jan Val Ellam (RC-071 — criador do método).

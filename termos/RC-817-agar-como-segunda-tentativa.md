@@ -24,16 +24,16 @@ Tese (leitura do autor, palestra **P2018-05-20**, U0003) de que **Agar** é a **
 Aparece em **P2018-05-20**, U0003. Contexto: a palestra reconstrói a **sequência de 3 tentativas** que Javé fez para encontrar uma fêmea para Adão. Depois de Lilith fracassar (humilhar os anjos, fugir do curral), Javé tenta **Agar** — uma "mulher da espécie sábia" (humana já racional). Agar veio "da transada original da nossa mãe Pandora com os animais humanos" — ou seja, **Agar é descendente de Pandora**. Mas Adão é "de uma linhagem mais fraca" (segundo a própria Lilit, ao tentar dissuadir Agar) e a combinação **não funcionou**. Só a 3ª tentativa (Eva) funcionou.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | é-2ª-tentativa-de |
-| Pandora | RC-086 | é-mãe-de-Ascendência-de |
-| Seres Terrenos (Homo Sapiens) | RC-099 | é-da-espécie |
-| Epimeteu (titã) | RC-302 | associado |
-| Adhytia (nível hierárquico) | RC-308 | é-1ª-tentativa |
-| Pashvnaj (espécie de 43 seres do Gênero Adhy) | RC-455 | é-paralelo-com |
-| Eva como 3ª Tentativa de Fêmea para Adão (Homem + Mulher da Espécie Sábia) | RC-814 | é-3ª-tentativa-sucesso |
-| Adão | (RC-302 é Adão) | é-companheiro-de |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Javé | RC-001 | é-um | -> | consolidação: "é-2ª-tentativa-de" → "é-um" |
+| Pandora | RC-086 | relaciona-se-a | -> | texto bruto original: é-mãe-de-Ascendência-de |
+| Seres Terrenos (Homo Sapiens) | RC-099 | é-um | -> | consolidação: "é-da-espécie" → "é-um" |
+| Epimeteu (titã) | RC-302 | associado | <-> | - |
+| Adhytia (nível hierárquico) | RC-308 | é-um | -> | consolidação: "é-1ª-tentativa" → "é-um" |
+| Pashvnaj (espécie de 43 seres do Gênero Adhy) | RC-455 | associado | <-> | consolidação: "é-paralelo-com" → "associado" |
+| Eva como 3ª Tentativa de Fêmea para Adão (Homem + Mulher da Espécie Sábia) | RC-814 | é-um | -> | consolidação: "é-3ª-tentativa-sucesso" → "é-um" |
+| Adão | (RC-302 é Adão) | associado | <-> | consolidação: "é-companheiro-de" → "associado" |
 
 ## Seres Associados
 - **Agar** — quem é a 2ª tentativa

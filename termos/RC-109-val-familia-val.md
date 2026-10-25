@@ -29,43 +29,43 @@ Com isso:
 **Origem do conteúdo da ampliação:** palestra `P2017-10-14 — Da Base Atlan ao Colégio Druídico` (14/10/2017). Transcrição automatizada, **não conferida com o áudio**; cada aspa foi recortada do `original.txt` pelo índice de âncoras do motor e conferida byte a byte pelo portão B. Nada foi digitado de memória.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Benem | RC-032 | ← relaciona-se-a |
-| Biodemos | RC-036 | parte-de |
-| Capela (Sistema) | RC-039 | associado |
-| Frota Norte | RC-065 | associado |
-| Processador Val | RC-089 | **sem aresta** em `RELACOES`; arquivo existe |
-| Radiatas | RC-093 | associado |
-| Val Am | RC-110 | associado |
-| Val Amon | RC-111 | associado |
-| Val Anen | RC-112 | associado |
-| Val Anon | RC-113 | associado |
-| Val Antien | RC-114 | associado |
-| Val Aten | RC-115 | associado |
-| Val Bon | RC-116 | associado |
-| Val Den | RC-117 | associado |
-| Val Dimon | RC-118 | associado |
-| Val Ean | RC-119 | associado |
-| Val El / Val Ellam | RC-120 | **sem aresta** em `RELACOES`; **sem arquivo** |
-| Val Elliah | RC-121 | associado |
-| Val Ellieh | RC-122 | associado |
-| Val Eno | RC-123 | associado |
-| Val Eon | RC-124 | associado |
-| Val Gevi | RC-125 | associado |
-| Val Geon | RC-126 | associado |
-| Val Ilon | RC-128 | associado |
-| Val Pen | RC-129 | associado |
-| Val Sean | RC-130 | associado |
-| Val Sion | RC-131 | associado |
-| Val Tam | RC-132 | associado |
-| Val dos Corpos Perdidos / Dimensionados | RC-133 | associado |
-| Yel (Família Yel) | RC-136 | **sem aresta** em `RELACOES`; **sem arquivo** |
-| Zian (Zion) | RC-146 | **sem aresta** em `RELACOES`; arquivo existe |
-| Marca Val (A Estratégia do Possível) | RC-233 | ← descoberto-por |
-| Os 9 Val dos Corpos Perdidos | RC-493 | associado |
-| Conselho dos Cinco (comando da Frota Norte: 3 Val + 2 Yel) | RC-501 | associado |
-| Val Aten (último Val de Val-Ha) | RC-502 | ← é-um |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Benem | RC-032 | relaciona-se-a | <- | - |
+| Biodemos | RC-036 | parte-de | -> | - |
+| Capela (Sistema) | RC-039 | associado | <-> | - |
+| Frota Norte | RC-065 | associado | <-> | - |
+| Processador Val | RC-089 | - | - | sem aresta em RELACOES; arquivo existe |
+| Radiatas | RC-093 | associado | <-> | - |
+| Val Am | RC-110 | associado | <-> | - |
+| Val Amon | RC-111 | associado | <-> | - |
+| Val Anen | RC-112 | associado | <-> | - |
+| Val Anon | RC-113 | associado | <-> | - |
+| Val Antien | RC-114 | associado | <-> | - |
+| Val Aten | RC-115 | associado | <-> | - |
+| Val Bon | RC-116 | associado | <-> | - |
+| Val Den | RC-117 | associado | <-> | - |
+| Val Dimon | RC-118 | associado | <-> | - |
+| Val Ean | RC-119 | associado | <-> | - |
+| Val El / Val Ellam | RC-120 | - | - | sem aresta em RELACOES; sem arquivo |
+| Val Elliah | RC-121 | associado | <-> | - |
+| Val Ellieh | RC-122 | associado | <-> | - |
+| Val Eno | RC-123 | associado | <-> | - |
+| Val Eon | RC-124 | associado | <-> | - |
+| Val Gevi | RC-125 | associado | <-> | - |
+| Val Geon | RC-126 | associado | <-> | - |
+| Val Ilon | RC-128 | associado | <-> | - |
+| Val Pen | RC-129 | associado | <-> | - |
+| Val Sean | RC-130 | associado | <-> | - |
+| Val Sion | RC-131 | associado | <-> | - |
+| Val Tam | RC-132 | associado | <-> | - |
+| Val dos Corpos Perdidos / Dimensionados | RC-133 | associado | <-> | - |
+| Yel (Família Yel) | RC-136 | - | - | sem aresta em RELACOES; sem arquivo |
+| Zian (Zion) | RC-146 | - | - | sem aresta em RELACOES; arquivo existe |
+| Marca Val (A Estratégia do Possível) | RC-233 | observa | -> | consolidação: "descoberto-por" → "observa"; direção invertida (forma passiva/inversa) |
+| Os 9 Val dos Corpos Perdidos | RC-493 | associado | <-> | - |
+| Conselho dos Cinco (comando da Frota Norte: 3 Val + 2 Yel) | RC-501 | associado | <-> | - |
+| Val Aten (último Val de Val-Ha) | RC-502 | é-um | <- | - |
 
 ## Fontes
 | Obra (sigla) | Título | Página | Tipo |

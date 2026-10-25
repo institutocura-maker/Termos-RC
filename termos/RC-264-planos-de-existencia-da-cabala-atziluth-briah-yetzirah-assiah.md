@@ -31,22 +31,22 @@ Os **quatro universos/níveis dimensionais revelados pela Cabala**, mapeados por
 A Doutrina das Emanações das Sefiroth opera "por sobre" essas quatro dimensões. Na perspectiva terrena atual: "Assiah corresponde ao universo no qual vivemos e Yetzirah, ao universo vizinho, onde se encontra 'refém' o Criador 'caído'". Os cabalistas desconhecem que "as demais tradições esotéricas... sempre conceberam a ideia de que a Criação havia sido obra de três Entidades" — o "deus dos judeus" refere-se a apenas uma delas (a 1ª Constatação de B013).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Brahmaloka | RC-038 | inclui |
-| Espiritualidade Superior | RC-059 | inclui |
-| Espiritualidade Operacional | RC-060 | inclui (Atziluth) |
-| Espiritualidade Laboratorial | RC-061 | inclui |
-| Perpérion | RC-087 | inclui (Briah) |
-| Universo Material (Bhuloka) | RC-107 | inclui |
-| Kether (Javé na Cabala) | RC-261 | reside em Yetzirah |
-| Sefirot / Árvore da Vida | RC-263 | associado-a |
-| Ein Sof (Prabrajna na Cabala) | RC-468 | associado |
-| Khorsis (Mundo dos Tronos) | RC-469 | associado |
-| Ekatma (Adam Kadmon — Homem Primordial) | RC-506 | associado |
-| Urdidura de Metatron | RC-674 | ← inclui |
-| Malkuth | RC-682 | relaciona-se-a |
-| As Três Escalas da Consciência (Sábio → Mago → Iniciado) | RC-762 | ← relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Brahmaloka | RC-038 | inclui | -> | - |
+| Espiritualidade Superior | RC-059 | inclui | -> | - |
+| Espiritualidade Operacional | RC-060 | inclui | -> | qualificador preservado: Atziluth |
+| Espiritualidade Laboratorial | RC-061 | inclui | -> | - |
+| Perpérion | RC-087 | inclui | -> | qualificador preservado: Briah |
+| Universo Material (Bhuloka) | RC-107 | inclui | -> | - |
+| Kether (Javé na Cabala) | RC-261 | relaciona-se-a | -> | texto bruto original: reside em Yetzirah |
+| Sefirot / Árvore da Vida | RC-263 | associado | <-> | - |
+| Ein Sof (Prabrajna na Cabala) | RC-468 | associado | <-> | - |
+| Khorsis (Mundo dos Tronos) | RC-469 | associado | <-> | - |
+| Ekatma (Adam Kadmon — Homem Primordial) | RC-506 | associado | <-> | - |
+| Urdidura de Metatron | RC-674 | inclui | <- | - |
+| Malkuth | RC-682 | relaciona-se-a | -> | - |
+| As Três Escalas da Consciência (Sábio → Mago → Iniciado) | RC-762 | relaciona-se-a | <- | - |
 
 ## Seres Associados
 Kether/Javé (RC-261); Deidade (RC-047); Criador (RC-041).

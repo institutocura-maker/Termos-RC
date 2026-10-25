@@ -25,16 +25,16 @@ atualizado = "2026-09-12"
 O diagrama (B051) apresenta os três "nomes completos" Adhy da Trimurti. A cadeia de Shiva registrada: ADHYSAVNA → Shiva → **Hara** (avatar), **Krishna** (avatar), **Sai Baba** (última expressão Adhyajna, conforme B016). O B024 (cap. 16) já menciona Hara como o avatar de Savna que absorverá as "cinzas" do universo no fim.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Adhyatman | RC-013 | condição prévia |
-| Adhydaiva | RC-014 | expressão |
-| Revelação Cósmica (conceito) | RC-094 | associado |
-| Shiva (Savna) | RC-102 | variação |
-| Hara (avatar de Shiva) | RC-413 | é-um (avatar) |
-| Krishna (avatar de Vishnu/Shiva) | RC-414 | é-um (avatar) |
-| Parvathi (consorte de Shiva, Tridevi) | RC-459 | ← relaciona-se-a |
-| Sai Baba | (relacionado) | última expressão |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Adhyatman | RC-013 | relaciona-se-a | -> | texto bruto original: condição prévia |
+| Adhydaiva | RC-014 | representa | -> | consolidação: "expressão" → "representa" |
+| Revelação Cósmica (conceito) | RC-094 | associado | <-> | - |
+| Shiva (Savna) | RC-102 | variação | -> | - |
+| Hara (avatar de Shiva) | RC-413 | é-um | -> | qualificador preservado: avatar |
+| Krishna (avatar de Vishnu/Shiva) | RC-414 | é-um | -> | qualificador preservado: avatar |
+| Parvathi (consorte de Shiva, Tridevi) | RC-459 | relaciona-se-a | <- | - |
+| Sai Baba | (relacionado) | relaciona-se-a | -> | texto bruto original: última expressão |
 
 ## Seres Associados
 Shiva (RC-102); Hara (RC-413); Krishna (RC-414); Sai Baba (avatar).

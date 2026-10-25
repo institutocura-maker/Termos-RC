@@ -24,12 +24,12 @@ A "confusa 'Criação Bipartida'" (B022, Introdução, p. 4): dois universos par
 B022, Introdução (voz de Ellam, pp. 4–7): em experiência visionária, Ellam conversa com as formas Adhyagya de Vishnu e Shiva, que o instruem sobre a Criação Bipartida — "tudo abaixo de nós" parecia ser a confusa bipartição, "da qual o universo em que a Terra estava situada parecia ser tão somente uma das suas partes componentes". P2024-11-30: a profecia de Moros (três cápsulas atemporais / três setas) como o mecanismo pelo qual a história dos dois universos será um dia lida e compreendida — a Revelação Cósmica como "leitura crítica" humana das setas.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Revelação Cósmica (conceito) | RC-094 | integra |
-| Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | inclui |
-| Universo Material (Bhuloka) | RC-107 | inclui |
-| Criação Indevida (Obra indevida) | RC-167 | é-qualificada-como |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Revelação Cósmica (conceito) | RC-094 | inclui | -> | consolidação: "integra" → "inclui" |
+| Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | inclui | -> | - |
+| Universo Material (Bhuloka) | RC-107 | inclui | -> | - |
+| Criação Indevida (Obra indevida) | RC-167 | explica | -> | consolidação: "é-qualificada-como" → "explica" |
 
 ## Seres Associados
 - **Entes-clones** (sem código; cf. RC-167) — habitantes do universo retraído

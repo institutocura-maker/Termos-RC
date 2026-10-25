@@ -29,13 +29,13 @@ Com isso:
 **Origem do conteúdo da ampliação:** palestra `P2018-12-15 — Terra Atlantis – Aprofundamento` (15/12/2018). Transcrição automatizada, **não conferida com o áudio**; cada aspa foi recortada do `original.txt` pelo índice de âncoras do motor e conferida byte a byte pelo portão B. Nada foi digitado de memória.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Atlântida / Terra Atlantis | RC-010 | ocorre-após |
-| Seres Terrenos (Homo Sapiens) | RC-099 | **sem aresta** em `RELACOES`; **sem arquivo** |
-| Eras da Criação (10 eras) | RC-155 | **sem aresta** em `RELACOES`; arquivo existe |
-| O Calvário de um Inocente | RC-236 | associado |
-| Era dos Humanos (Zeus e a) | RC-297 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Atlântida / Terra Atlantis | RC-010 | sucede | -> | consolidação: "ocorre-após" → "sucede" |
+| Seres Terrenos (Homo Sapiens) | RC-099 | - | - | sem aresta em RELACOES; sem arquivo |
+| Eras da Criação (10 eras) | RC-155 | - | - | sem aresta em RELACOES; arquivo existe |
+| O Calvário de um Inocente | RC-236 | associado | <-> | - |
+| Era dos Humanos (Zeus e a) | RC-297 | associado | <-> | - |
 
 
 ## Fontes

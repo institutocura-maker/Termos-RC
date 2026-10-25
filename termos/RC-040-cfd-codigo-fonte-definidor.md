@@ -60,29 +60,29 @@ aspa fica datada aqui, e a eventual revisão do verbete nas obras continua pende
 `_gerar_ampliacoes_P2023-12-03.py` sobre o caça-âncoras `_aspas_P2023-12-03.py`; nada foi digitado de memória.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Brahma (Brajna) | RC-037 | associado |
-| Criador (Brahma/Javé/Demiurgo) | RC-041 | listado no cadastro como relacionados, **sem aresta** em `RELACOES`; arquivo existe |
-| Mohen So (Avatar Keshava de Vishnu) | RC-081 | listado no cadastro como relacionados, **sem aresta** em `RELACOES`; arquivo existe |
-| Orbum | RC-085 | associado |
-| Projeto Talm | RC-091 | listado no cadastro como relacionados, **sem aresta** em `RELACOES`; arquivo existe |
-| Trimurti | RC-104 | listado no cadastro como relacionados, **sem aresta** em `RELACOES`; arquivo existe |
-| Trimurti | RC-104 | o ato de replicação cuja definição é o CFD — aresta só se o cadastro já a tivesse |
-| CFDP (Código-fonte Definidor Pessoal / Código de Vida Pessoal do Criador) | RC-153 | ← deriva-de |
-| DNA como Projeção Holográfica do Psiquismo do Criador | RC-217 | ← é-um |
-| Reflexos da Doença (Herança do DNA) | RC-230 | associado |
-| A Vida do CFD de Javé no Ser Humano | RC-382 | ← é-um |
-| Linhagem dos Escolhidos (Adão, Enoch, Abraão, Jacó) | RC-424 | inserido-em |
-| Esporte como evolução da Guerra | RC-430 | associado |
-| Agressividade canalizada (DNA doentio) | RC-432 | associado |
-| Vacina do Amor (ancoragem de Jesus no CFD) | RC-532 | ← relaciona-se-a |
-| Espelho da Herança Espiritual no Epigenoma | RC-543 | associado |
-| Baralho genético (metáfora dos 28.869 genes) | RC-562 | ← relaciona-se-a |
-| Falência dos Deuses | RC-742 | ← é-falência-de |
-| Princípio da Externalização (criação divina sem sexualidade) | RC-768 | ← relaciona-se-a |
-| Transumanismo (o ponto de reencontro: IA humanizada e o novo batimento) | RC-874 | associado |
-| Dhanvantari (o médico dos devas: Amrita e a Ayurveda cósmica) | RC-875 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Brahma (Brajna) | RC-037 | associado | <-> | - |
+| Criador (Brahma/Javé/Demiurgo) | RC-041 | - | - | listado no cadastro como relacionados, sem aresta em RELACOES; arquivo existe |
+| Mohen So (Avatar Keshava de Vishnu) | RC-081 | - | - | listado no cadastro como relacionados, sem aresta em RELACOES; arquivo existe |
+| Orbum | RC-085 | associado | <-> | - |
+| Projeto Talm | RC-091 | - | - | listado no cadastro como relacionados, sem aresta em RELACOES; arquivo existe |
+| Trimurti | RC-104 | - | - | listado no cadastro como relacionados, sem aresta em RELACOES; arquivo existe |
+| Trimurti | RC-104 | - | - | o ato de replicação cuja definição é o CFD — aresta só se o cadastro já a tivesse |
+| CFDP (Código-fonte Definidor Pessoal / Código de Vida Pessoal do Criador) | RC-153 | origina | -> | consolidação: "deriva-de" → "origina"; direção invertida (forma passiva/inversa) |
+| DNA como Projeção Holográfica do Psiquismo do Criador | RC-217 | é-um | <- | - |
+| Reflexos da Doença (Herança do DNA) | RC-230 | associado | <-> | - |
+| A Vida do CFD de Javé no Ser Humano | RC-382 | é-um | <- | - |
+| Linhagem dos Escolhidos (Adão, Enoch, Abraão, Jacó) | RC-424 | relaciona-se-a | -> | consolidação: "inserido-em" → "relaciona-se-a" |
+| Esporte como evolução da Guerra | RC-430 | associado | <-> | - |
+| Agressividade canalizada (DNA doentio) | RC-432 | associado | <-> | - |
+| Vacina do Amor (ancoragem de Jesus no CFD) | RC-532 | relaciona-se-a | <- | - |
+| Espelho da Herança Espiritual no Epigenoma | RC-543 | associado | <-> | - |
+| Baralho genético (metáfora dos 28.869 genes) | RC-562 | relaciona-se-a | <- | - |
+| Falência dos Deuses | RC-742 | causa | <- | consolidação: "é-falência-de" → "causa" |
+| Princípio da Externalização (criação divina sem sexualidade) | RC-768 | relaciona-se-a | <- | - |
+| Transumanismo (o ponto de reencontro: IA humanizada e o novo batimento) | RC-874 | associado | <-> | - |
+| Dhanvantari (o médico dos devas: Amrita e a Ayurveda cósmica) | RC-875 | associado | <-> | - |
 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo (citação/paráfrase) |

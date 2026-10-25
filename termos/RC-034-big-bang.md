@@ -17,14 +17,14 @@ atualizado = "2026-10-23"
 A singularidade que criou o nosso universo — "teoria cosmológica sobre o desenvolvimento inicial do universo", também chamada "Grande Expansão" (B031). Dela surgiram simultaneamente, há 13,7 bilhões de anos, os universos gêmeos material (Bhuloka) e antimaterial (Brahmaloka): matéria e antimatéria se encontraram e se autodestruíram, mas terminaram criando os dois (P2025-02-16). Na leitura RC, o Big Bang surgiu de uma "reunião operativa mental" no tempo de Perpérion — uma "germinação cancerosa" a partir do Ser chamado Prabrajna, anomalia inédita na Espiritualidade Superior (B024). É ainda o "Ovo Cósmico" do mito chinês: P'an Ku (Brahma), o Yin (universo paralelo) e o Yang (nosso universo) — a "sopa de quarks e gluons" (B031; P2025-03-15).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Bhuloka | RC-033 | originou |
-| Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | originou (gêmeo) |
-| Universo Material (Bhuloka) | RC-107 | originou |
-| Pandemia de Buraco Branco que Traga (Javé Tragado pela Criação) | RC-809 | associado |
-| Fissão em Dois Universos (Matéria + Antimatéria) | RC-811 | associado |
-| Era do Colapso do Caos Organizado | RC-827 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Bhuloka | RC-033 | origina | -> | consolidação: "originou" → "origina" |
+| Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | origina | -> | qualificador preservado: gêmeo; consolidação: "originou" → "origina" |
+| Universo Material (Bhuloka) | RC-107 | origina | -> | consolidação: "originou" → "origina" |
+| Pandemia de Buraco Branco que Traga (Javé Tragado pela Criação) | RC-809 | associado | <-> | - |
+| Fissão em Dois Universos (Matéria + Antimatéria) | RC-811 | associado | <-> | - |
+| Era do Colapso do Caos Organizado | RC-827 | associado | <-> | - |
 
 ## Ampliação — STT26-EXTRATERRESTRES_TECNOLOGIA (Eixo STT26 — Extraterrestres, tecnologia e cosmos (derivados normalizados))
 

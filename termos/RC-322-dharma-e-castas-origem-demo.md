@@ -34,16 +34,16 @@ O **dharma** e o sistema de **castas** entendidos, na RC, como **instituição p
 **Origem do conteúdo da ampliação:** palestra `P2023-10-14 — A Esquecida Honra dos Anunnaki`, megabloco U0020 do `original.txt` (transcrição automatizada, **não conferida com o áudio**). Cada aspa foi recortada byte a byte por `_gerar_ampliacoes_P2023-10-14.py`; nada foi digitado de memória.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Demos | RC-049 | aplica-se-a |
-| Revelação Cósmica (conceito) | RC-094 | associado |
-| Fator Dharma | RC-319 | ← é-um |
-| Senhores do Dharma (= Senhores da Lila / Trimurti) | RC-320 | associado |
-| Castas Trimurtianas | RC-321 | associado |
-| Rakshasas | RC-581 | associado |
-| Rishis | RC-586 | associado |
-| Sinarquia Cósmica (o governo dos sábios) | RC-873 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Demos | RC-049 | usa | -> | consolidação: "aplica-se-a" → "usa" |
+| Revelação Cósmica (conceito) | RC-094 | associado | <-> | - |
+| Fator Dharma | RC-319 | é-um | <- | - |
+| Senhores do Dharma (= Senhores da Lila / Trimurti) | RC-320 | associado | <-> | - |
+| Castas Trimurtianas | RC-321 | associado | <-> | - |
+| Rakshasas | RC-581 | associado | <-> | - |
+| Rishis | RC-586 | associado | <-> | - |
+| Sinarquia Cósmica (o governo dos sábios) | RC-873 | associado | <-> | - |
 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo (citação/paráfrase) |

@@ -23,13 +23,13 @@ Reunião prolongada de famílias da Espiritualidade Laboratorial após o colapso
 A fala situa o conclave em curso há cerca de quatro anos, no ritmo próprio dos seres superiores.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Espiritualidade Laboratorial | RC-061 | ocorre-em |
-| Gênero Adhy (147 seres, 5 espécies) | RC-411 | envolve |
-| Ser LM (gênero de Tempérion) | RC-456 | envolve |
-| Autismo Funcional dos Seres da Espiritualidade Superior | RC-605 | relaciona-se-a |
-| Nova Espiritualidade / Novo Paraíso (Paraíso B) | RC-612 | relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Espiritualidade Laboratorial | RC-061 | contexto | -> | consolidação: "ocorre-em" → "contexto" |
+| Gênero Adhy (147 seres, 5 espécies) | RC-411 | envolve | -> | - |
+| Ser LM (gênero de Tempérion) | RC-456 | envolve | -> | - |
+| Autismo Funcional dos Seres da Espiritualidade Superior | RC-605 | relaciona-se-a | -> | - |
+| Nova Espiritualidade / Novo Paraíso (Paraíso B) | RC-612 | relaciona-se-a | -> | - |
 
 ## Seres Associados
 Consultar relações acima.

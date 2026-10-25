@@ -25,19 +25,19 @@ Correspondência estabelecida em *O Sorriso de Pandora* (B020): **Caos (Mitologi
 Em B020, Pandora narra sua convivência com o criador: "os desígnios de Caos/Javé", "Caos, o criador dos céus e da Terra", "Caos/Brahma/Javé humilhou Jesus, impondo-lhe a crucificação". A mesma cadeia inclui as outras duas divindades: **Eros = Vishnu** e **Tártaro = Shiva** (RC-286). A correspondência é essencial para ler a mitologia grega como fonte da cosmologia RC.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | variação |
-| Brahma (Brajna) | RC-037 | variação |
-| Criador (Brahma/Javé/Demiurgo) | RC-041 | é-um |
-| Deidade (Pai-Mãe Amantíssimo / Brahman) | RC-047 | associado |
-| Pandora como Serpente do Éden | RC-283 | ← afronta |
-| Eros = Vishnu / Tártaro = Shiva (correspondências) | RC-286 | paralelo |
-| Os Anais de uma Cultura Perdida | RC-288 | associado |
-| Eon de Khaos (Universo de Caos) | RC-294 | ← variação |
-| Genética Totalitária | RC-325 | associado |
-| Ra-Atom / Og-mi (nomes do Criador) | RC-331 | ← variação |
-| Jeová (grafia da trilogia) | RC-346 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Javé | RC-001 | variação | -> | - |
+| Brahma (Brajna) | RC-037 | variação | -> | - |
+| Criador (Brahma/Javé/Demiurgo) | RC-041 | é-um | -> | - |
+| Deidade (Pai-Mãe Amantíssimo / Brahman) | RC-047 | associado | <-> | - |
+| Pandora como Serpente do Éden | RC-283 | opõe-se-a | <- | consolidação: "afronta" → "opõe-se-a" |
+| Eros = Vishnu / Tártaro = Shiva (correspondências) | RC-286 | variação | -> | consolidação: "paralelo" → "variação" |
+| Os Anais de uma Cultura Perdida | RC-288 | associado | <-> | - |
+| Eon de Khaos (Universo de Caos) | RC-294 | variação | <- | - |
+| Genética Totalitária | RC-325 | associado | <-> | - |
+| Ra-Atom / Og-mi (nomes do Criador) | RC-331 | variação | <- | - |
+| Jeová (grafia da trilogia) | RC-346 | associado | <-> | - |
 
 ## Seres Associados
 Caos/Javé (RC-001); Brahma (RC-037); Criador (RC-041).

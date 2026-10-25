@@ -17,17 +17,17 @@ Estruturas mentais e emocionais que, segundo a explicação da palestra, seriam 
 
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Mente Coletiva / Redes Psíquicas Coletivas | RC-188 | relaciona-se-a |
-| Big Data Cósmico | RC-194 | relaciona-se-a |
-| Ressonância Mórfica (agente da rebelião) | RC-381 | relaciona-se-a |
-| Egrégora (circuito dos elétrons rebeldes) | RC-385 | relaciona-se-a |
-| Parasitismo energético (obsessão ampliada) | RC-522 | ← relaciona-se-a |
-| Arquivos Mentais (coleção de conceitos no psiquismo) | RC-548 | registradas-em |
-| Universo de Egrégoras Emocionais | RC-711 | armazenado-em |
-| Universo de Egrégoras Emocionais | RC-711 | armazenado-em |
-| Dominação Psíquica pela Devoção | RC-733 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Mente Coletiva / Redes Psíquicas Coletivas | RC-188 | relaciona-se-a | -> | - |
+| Big Data Cósmico | RC-194 | relaciona-se-a | -> | - |
+| Ressonância Mórfica (agente da rebelião) | RC-381 | relaciona-se-a | -> | - |
+| Egrégora (circuito dos elétrons rebeldes) | RC-385 | relaciona-se-a | -> | - |
+| Parasitismo energético (obsessão ampliada) | RC-522 | relaciona-se-a | <- | - |
+| Arquivos Mentais (coleção de conceitos no psiquismo) | RC-548 | contexto | -> | consolidação: "registradas-em" → "contexto" |
+| Universo de Egrégoras Emocionais | RC-711 | contexto | -> | consolidação: "armazenado-em" → "contexto" |
+| Universo de Egrégoras Emocionais | RC-711 | contexto | -> | consolidação: "armazenado-em" → "contexto" |
+| Dominação Psíquica pela Devoção | RC-733 | associado | <-> | - |
 
 
 - Arquivos Mentais — RC-548;

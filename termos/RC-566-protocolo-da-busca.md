@@ -23,15 +23,15 @@ Postura cognitiva e espiritual em que o ser humano não apenas percebe e reage, 
 A palestra abre distinguindo quem busca e percebe de quem apenas recebe concepções prontas. O “protocolo da busca” funciona como chave epistemológica para a leitura de 2012 e de toda informação religiosa ou cósmica.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Mentalma | RC-166 | ← orienta |
-| Cidadão Cósmico | RC-226 | relaciona-se-a |
-| Razão Filosófica dos Terráqueos | RC-231 | relaciona-se-a |
-| Liberdade Mental (premissa do Quarto Logos) | RC-253 | relaciona-se-a |
-| Olhar Adulto | RC-278 | relaciona-se-a |
-| Verdade Posta × Verdade a Construir | RC-657 | ← relaciona-se-a |
-| Ato de Verdade / Satyagraha | RC-705 | ← relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Mentalma | RC-166 | controla | <- | consolidação: "orienta" → "controla" |
+| Cidadão Cósmico | RC-226 | relaciona-se-a | -> | - |
+| Razão Filosófica dos Terráqueos | RC-231 | relaciona-se-a | -> | - |
+| Liberdade Mental (premissa do Quarto Logos) | RC-253 | relaciona-se-a | -> | - |
+| Olhar Adulto | RC-278 | relaciona-se-a | -> | - |
+| Verdade Posta × Verdade a Construir | RC-657 | relaciona-se-a | <- | - |
+| Ato de Verdade / Satyagraha | RC-705 | relaciona-se-a | <- | - |
 
 ## Seres Associados
 —

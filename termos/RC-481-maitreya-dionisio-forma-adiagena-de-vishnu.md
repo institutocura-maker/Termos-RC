@@ -17,13 +17,13 @@ atualizado = "2026-10-22"
 Figura profética do Buda futuro — na RC, correlacionada a Dionísio e a uma forma adiágena de Vishnu; figura do retorno messiânico.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Quarto Logos (Olm / Codificador de Zian) | RC-092 | encarnação-posterior-de |
-| Mohen So = Phanes / Protogonos / Vasuki / Kalki (correspondências) | RC-282 | relaciona-se-a |
-| Apolo | RC-306 | associado |
-| ADHYMAVATANA (nome completo de Mavatna/Vishnu) | RC-408 | associado |
-| Relógio Messiânico | RC-765 | ← relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Quarto Logos (Olm / Codificador de Zian) | RC-092 | origina | -> | consolidação: "encarnação-posterior-de" → "origina" |
+| Mohen So = Phanes / Protogonos / Vasuki / Kalki (correspondências) | RC-282 | relaciona-se-a | -> | - |
+| Apolo | RC-306 | associado | <-> | - |
+| ADHYMAVATANA (nome completo de Mavatna/Vishnu) | RC-408 | associado | <-> | - |
+| Relógio Messiânico | RC-765 | relaciona-se-a | <- | - |
 
 ## Ampliação — STT26-MITOLOGIAS_REINTEGRACAO (Eixo STT26 — Mitologias, tradições e eixo de reintegração (derivados normalizados))
 

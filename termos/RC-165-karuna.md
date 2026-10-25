@@ -20,16 +20,16 @@ atualizado = "2026-08-21"
 - **ficha materializada** por autorização da Devolutiva Trilogia TALM (O-7): "a Consciência Karuna ganhou peso narrativo suficiente no desfecho da trilogia como a 'resposta silenciosa'".
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Fenvans | RC-064 | relaciona-se-a |
-| Lila | RC-075 | associado |
-| Mensagem Talm | RC-080 | relaciona-se-a |
-| Agentes da Vida Universal | RC-148 | associado |
-| Xadrez Cósmico | RC-150 | associado |
-| Nova Espiritualidade / Novo Paraíso (Paraíso B) | RC-612 | relaciona-se-a |
-| Oxitocina (hormônio do bem — base bioquímica da Karuna) | RC-839 | associado |
-| Kleśas (cinco entraves mentais ao progresso humano) | RC-840 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Fenvans | RC-064 | relaciona-se-a | -> | - |
+| Lila | RC-075 | associado | <-> | - |
+| Mensagem Talm | RC-080 | relaciona-se-a | -> | - |
+| Agentes da Vida Universal | RC-148 | associado | <-> | - |
+| Xadrez Cósmico | RC-150 | associado | <-> | - |
+| Nova Espiritualidade / Novo Paraíso (Paraíso B) | RC-612 | relaciona-se-a | -> | - |
+| Oxitocina (hormônio do bem — base bioquímica da Karuna) | RC-839 | associado | <-> | - |
+| Kleśas (cinco entraves mentais ao progresso humano) | RC-840 | associado | <-> | - |
 
 ## Fontes
 | Obra/palestra | Localização | Tipo |

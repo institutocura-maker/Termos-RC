@@ -27,11 +27,11 @@ Título do capítulo 11 de B052 (*Homoafetividade: o Segredo Perdido do Éden*).
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Revelação Cósmica (conceito) | RC-094 | associado |
-| Seres Terrenos (Homo Sapiens) | RC-099 | associado |
-| Força de Atração Sexual (anterior à polaridade) | RC-433 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Revelação Cósmica (conceito) | RC-094 | associado | <-> | - |
+| Seres Terrenos (Homo Sapiens) | RC-099 | associado | <-> | - |
+| Força de Atração Sexual (anterior à polaridade) | RC-433 | associado | <-> | - |
 
 ## Fontes
 

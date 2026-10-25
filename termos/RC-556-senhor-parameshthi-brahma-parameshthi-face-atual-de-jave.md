@@ -17,19 +17,19 @@ atualizado = "2026-08-19"
 Última e mais atualizada face do eu do criador caído (Javé/Brahma). Na leitura da palestra, o ser que perdeu o seu eu no paraíso reconstruiu-se ao longo de 13,8 bilhões de anos e, nos últimos ~27.000 anos, tentou se humanizar 'à moda do Senhor Brahma Parameshthi'. Apresentou-se aos arianos (via Gomer, descendente de Jafé) com esse nome, sendo descrito por Vyasa no Mahabharata (assembleia de munis). Metáfora do autor: o crupier do cassino da criação. **O corpo colapsou em 2021** (morte corporal — 'não entrou em coma, colapsou'); o eu continua existindo, voltou a ser parasitário, à procura de corpo.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | variação |
-| Javé | RC-001 | relaciona-se-a |
-| Sophia (Cristo Cósmico) | RC-009 | ← relaciona-se-a |
-| Brahma (Brajna) | RC-037 | variação |
-| Jesus | RC-072 | ← relaciona-se-a |
-| Len Mion (Satã) | RC-074 | relaciona-se-a |
-| Trimurti | RC-104 | relaciona-se-a |
-| Joctan e Faleg (filhos de Heber) | RC-437 | relaciona-se-a |
-| Faces de Javé (sucessivas manifestações do Criador) | RC-561 | relaciona-se-a |
-| Vyasa | RC-585 | relaciona-se-a |
-| Vyasa | RC-585 | ← relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Javé | RC-001 | variação | -> | - |
+| Javé | RC-001 | relaciona-se-a | -> | - |
+| Sophia (Cristo Cósmico) | RC-009 | relaciona-se-a | <- | - |
+| Brahma (Brajna) | RC-037 | variação | -> | - |
+| Jesus | RC-072 | relaciona-se-a | <- | - |
+| Len Mion (Satã) | RC-074 | relaciona-se-a | -> | - |
+| Trimurti | RC-104 | relaciona-se-a | -> | - |
+| Joctan e Faleg (filhos de Heber) | RC-437 | relaciona-se-a | -> | - |
+| Faces de Javé (sucessivas manifestações do Criador) | RC-561 | relaciona-se-a | -> | - |
+| Vyasa | RC-585 | relaciona-se-a | -> | - |
+| Vyasa | RC-585 | relaciona-se-a | <- | - |
 
 ## Fontes
 

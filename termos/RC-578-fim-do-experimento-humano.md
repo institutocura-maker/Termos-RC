@@ -24,14 +24,14 @@ Risco de extinção ou fracasso da experiência humana, explicitamente distingui
 A palestra o apresenta como possibilidade real ligada à corrupção de seres criativos, à guerra e à incapacidade humana de superar padrões anteriores.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Seres Terrenos (Homo Sapiens) | RC-099 | ameaça |
-| Fenômenos Denunciadores do Fim | RC-314 | relaciona-se-a |
-| Humanos: uma simples Experiência Biológica | RC-337 | relaciona-se-a |
-| Novo Homo sapiens (evolução que terá de vir) | RC-544 | relaciona-se-a |
-| Fim dos Tempos / Final de Ciclo × Fim do Mundo | RC-572 | ← distingue-se-de |
-| Fim dos Tempos / Final de Ciclo × Fim do Mundo | RC-572 | relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Seres Terrenos (Homo Sapiens) | RC-099 | causa | -> | consolidação: "ameaça" → "causa" |
+| Fenômenos Denunciadores do Fim | RC-314 | relaciona-se-a | -> | - |
+| Humanos: uma simples Experiência Biológica | RC-337 | relaciona-se-a | -> | - |
+| Novo Homo sapiens (evolução que terá de vir) | RC-544 | relaciona-se-a | -> | - |
+| Fim dos Tempos / Final de Ciclo × Fim do Mundo | RC-572 | opõe-se-a | <- | consolidação: "distingue-se-de" → "opõe-se-a" |
+| Fim dos Tempos / Final de Ciclo × Fim do Mundo | RC-572 | relaciona-se-a | -> | - |
 
 ## Seres Associados
 Seres Terrenos (Homo Sapiens) (RC-099)

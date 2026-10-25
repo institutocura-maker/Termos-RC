@@ -24,14 +24,14 @@ Tese (leitura do autor, palestra **P2019-05-11 — Pandora e os Desacertos dos P
 Aparece em **P2019-05-11**, U0003, no contexto do **ovo cósmico de Brahman** que se partiu em Bramaloca (morada do deus) e Buloca (vidas biológicas rápidas). O ser que caiu na própria obra recebeu o epíteto de "caos" — não por desordem, mas por ser **a quintessência do pior**.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | qualifica |
-| Elétrons (agente básico da vida universal) | RC-162 | é-mente-desmembrada-em |
-| Ser-Criador fracassado (autoconfissão de Javé) | RC-422 | manifesta-se-em |
-| Momento Zero de Pandora | RC-779 | associado |
-| Pactos de Javé (Brama / Vishnu / Shiva) | RC-781 | contexto-de |
-| Ovo Cósmico de Brahman | (RC-779) | paralelo-com |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Javé | RC-001 | explica | -> | consolidação: "qualifica" → "explica" |
+| Elétrons (agente básico da vida universal) | RC-162 | é-um | -> | consolidação: "é-mente-desmembrada-em" → "é-um" |
+| Ser-Criador fracassado (autoconfissão de Javé) | RC-422 | representa | -> | consolidação: "manifesta-se-em" → "representa" |
+| Momento Zero de Pandora | RC-779 | associado | <-> | - |
+| Pactos de Javé (Brama / Vishnu / Shiva) | RC-781 | contexto | -> | consolidação: "contexto-de" → "contexto" |
+| Ovo Cósmico de Brahman | (RC-779) | associado | <-> | consolidação: "paralelo-com" → "associado" |
 
 ## Seres Associados
 - **Javé / Brama** (RC-001) — o Caos Personificado

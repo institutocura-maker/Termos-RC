@@ -24,16 +24,16 @@ Processo pelo qual **o Criador (Brahma/Javé) vem aprendendo a coexistir com aqu
 A Humanização do Criador é o tema do capítulo 17 de B015 e o arco dramático central das RC: o Criador caído, "refém" da própria criação, começa a se modificar pela convivência com os humanos — cuja genética da confiança e razão filosófica o afetam. O processo também se expressa no envolvimento emocional de Zont En Drel 29 (os En Drel "não foram programados para sentir, e eu havia sentido algo"), que desencadeia reações em toda a rede e no próprio Criador.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | identidade |
-| Criador (Brahma/Javé/Demiurgo) | RC-041 | sujeito |
-| Seres Terrenos (Homo Sapiens) | RC-099 | agentes |
-| Zont En Drel 29 | RC-147 | experimenta |
-| Razão Filosófica dos Terráqueos | RC-231 | fator |
-| Genética da Confiança | RC-243 | fator |
-| Ser-Criador fracassado (autoconfissão de Javé) | RC-422 | ← relaciona-se-a |
-| Individualização Epifenomenológica dos Anjos Clones | RC-651 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Javé | RC-001 | relaciona-se-a | -> | consolidação: "identidade" → "relaciona-se-a" |
+| Criador (Brahma/Javé/Demiurgo) | RC-041 | relaciona-se-a | -> | consolidação: "sujeito" → "relaciona-se-a" |
+| Seres Terrenos (Homo Sapiens) | RC-099 | envolve | -> | consolidação: "agentes" → "envolve" |
+| Zont En Drel 29 | RC-147 | observa | -> | consolidação: "experimenta" → "observa" |
+| Razão Filosófica dos Terráqueos | RC-231 | relaciona-se-a | -> | consolidação: "fator" → "relaciona-se-a" |
+| Genética da Confiança | RC-243 | relaciona-se-a | -> | consolidação: "fator" → "relaciona-se-a" |
+| Ser-Criador fracassado (autoconfissão de Javé) | RC-422 | relaciona-se-a | <- | - |
+| Individualização Epifenomenológica dos Anjos Clones | RC-651 | associado | <-> | - |
 
 ## Seres Associados
 Criador/Javé (RC-041/RC-001); Zont En Drel 29 (RC-147); Jesus (RC-072); Seres Terrenos (RC-099).

@@ -27,13 +27,13 @@ Personagem da mitologia grega relida pelas Revelações Cósmicas como identidad
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Deidade (Pai-Mãe Amantíssimo / Brahman) | RC-047 | associado |
-| Shamb-Aha | RC-101 | associado |
-| Val Bon | RC-116 | variação |
-| Seres dos Portais | RC-241 | associado |
-| Têmis | RC-305 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Deidade (Pai-Mãe Amantíssimo / Brahman) | RC-047 | associado | <-> | - |
+| Shamb-Aha | RC-101 | associado | <-> | - |
+| Val Bon | RC-116 | variação | -> | - |
+| Seres dos Portais | RC-241 | associado | <-> | - |
+| Têmis | RC-305 | associado | <-> | - |
 
 ## Fontes
 

@@ -29,14 +29,14 @@ Com isso:
 **Origem do conteúdo da ampliação:** palestra `P2022-05-07 — Shiva, o Projeto Talm e os Mistérios de Awaylengam` (07/05/2022). Transcrição automatizada, **não conferida com o áudio**; cada aspa foi recortada do `original.txt` pelo índice de âncoras do motor e conferida byte a byte pelo portão B. Nada foi digitado de memória.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Biodemos | RC-036 | é-um |
-| Lúcifer (Yel Luzbel) | RC-078 | **sem aresta** em `RELACOES`; arquivo existe |
-| Modelo Colmeia (Sistema/Controle Colmeia) | RC-176 | **sem aresta** em `RELACOES`; arquivo existe |
-| Marca Val (A Estratégia do Possível) | RC-233 | ← revela |
-| Entroncamentos Genéticos Intersiderais | RC-323 | associado |
-| Grupos de Entroncamento (1-4) | RC-324 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Biodemos | RC-036 | é-um | -> | - |
+| Lúcifer (Yel Luzbel) | RC-078 | - | - | sem aresta em RELACOES; arquivo existe |
+| Modelo Colmeia (Sistema/Controle Colmeia) | RC-176 | - | - | sem aresta em RELACOES; arquivo existe |
+| Marca Val (A Estratégia do Possível) | RC-233 | explica | <- | consolidação: "revela" → "explica" |
+| Entroncamentos Genéticos Intersiderais | RC-323 | associado | <-> | - |
+| Grupos de Entroncamento (1-4) | RC-324 | associado | <-> | - |
 
 
 ## Fontes

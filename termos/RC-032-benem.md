@@ -27,15 +27,15 @@ Base biodêmica estabelecida há 392 mil anos no Norte do planeta, onde hoje fic
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Antlar | RC-022 | relaciona-se-a |
-| Conselho dos Cinco | RC-043 | associado |
-| Espherian | RC-057 | associado |
-| Espheron | RC-058 | relaciona-se-a |
-| Experiência Gron | RC-062 | associado |
-| Frota Norte | RC-065 | associado |
-| Val (Família Val) | RC-109 | relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Antlar | RC-022 | relaciona-se-a | -> | - |
+| Conselho dos Cinco | RC-043 | associado | <-> | - |
+| Espherian | RC-057 | associado | <-> | - |
+| Espheron | RC-058 | relaciona-se-a | -> | - |
+| Experiência Gron | RC-062 | associado | <-> | - |
+| Frota Norte | RC-065 | associado | <-> | - |
+| Val (Família Val) | RC-109 | relaciona-se-a | -> | - |
 
 ## Fontes
 

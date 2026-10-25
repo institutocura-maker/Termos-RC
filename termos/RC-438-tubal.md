@@ -27,10 +27,10 @@ Figura da descendência de Jafé relida em B052 como fundador de um centro de co
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Revelação Cósmica (conceito) | RC-094 | associado |
-| Linhagem dos Patriarcas Hebreus | RC-270 | é-um |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Revelação Cósmica (conceito) | RC-094 | associado | <-> | - |
+| Linhagem dos Patriarcas Hebreus | RC-270 | é-um | -> | - |
 
 ## Fontes
 

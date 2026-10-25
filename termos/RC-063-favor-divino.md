@@ -17,13 +17,13 @@ atualizado = "2026-09-10"
 Título de um dos livros de Jan Val Ellam (B048), no qual se demonstra que os espíritos que animam os nossos corpos, nesta Criação indevida, fazem um "favor divino" a Javé (o Demiurgo) por assumirem cotas particularizadas da sua "doença" — deixando que os nossos egos "sofram" a doença e pensem que somos nós quem estamos "doentes"; através do nosso DNA e das "vivências na carne" ajudamos a curar esse Ser adoentado (B031). O livro inverte a contabilidade devocional: não são os deuses nem o criador os credores da humanidade, mas nós, "miseráveis humanos", quem concedemos indiretamente o favor de existirmos ao Senhor Javé, possibilitando o seu próprio progresso — "diretamente", quem o faz é a Deidade, que nos empresta como mônadas individualizadas para dar vida e possibilidade evolutiva à criação imperfeita de Javé (B048). Na fonte oral: "nós estamos fazendo um favor divino, colecionando em cada um de nós as piores informações dessa história e procurando ressignificá-las" (P2025-03-15, U1144).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | beneficia (o Ser adoentado) |
-| Criador (Brahma/Javé/Demiurgo) | RC-041 | beneficia (alvo do favor) |
-| Demiurgo | RC-048 | equivale-em-função |
-| Pactos do Criador (troca de informações) | RC-271 | associado |
-| Favor Divino (conceito invertido) | RC-332 | ← variação |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Javé | RC-001 | causa | -> | qualificador preservado: o Ser adoentado; consolidação: "beneficia" → "causa" |
+| Criador (Brahma/Javé/Demiurgo) | RC-041 | causa | -> | qualificador preservado: alvo do favor; consolidação: "beneficia" → "causa" |
+| Demiurgo | RC-048 | variação | -> | consolidação: "equivale-em-função" → "variação" |
+| Pactos do Criador (troca de informações) | RC-271 | associado | <-> | - |
+| Favor Divino (conceito invertido) | RC-332 | variação | <- | - |
 
 ## Fontes
 

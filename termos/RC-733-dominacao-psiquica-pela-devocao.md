@@ -28,18 +28,18 @@ Estado de estabilização ou anestesia devocional atribuído, na palestra, a pr�
 Espíritos bem-intencionados que manteriam modelos devocionais por considerá-los proteção contra condutas destrutivas. O qualificador não gera código autônomo.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Modelo Colmeia (Sistema/Controle Colmeia) | RC-176 | associado |
-| Mente Coletiva / Redes Psíquicas Coletivas | RC-188 | usa |
-| Lavagem Cerebral (condicionamento) | RC-335 | reforça |
-| Egrégora (circuito dos elétrons rebeldes) | RC-385 | alimenta |
-| Arquivos Mentais (coleção de conceitos no psiquismo) | RC-548 | associado |
-| Formas-Pensamento e Formas-Sentimento | RC-724 | associado |
-| Fantasmas do Passado Mitológico | RC-728 | ← estrutura-se-por |
-| Invasão Ancestral do Genoma e do Psiquismo Humanos | RC-732 | ← favorece |
-| Abraço aos Fantasmas / Integridade sem Combate | RC-735 | enfrentada-por |
-| Colegiados Espirituais Humanizados | RC-745 | manifesta-se-em |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Modelo Colmeia (Sistema/Controle Colmeia) | RC-176 | associado | <-> | - |
+| Mente Coletiva / Redes Psíquicas Coletivas | RC-188 | usa | -> | - |
+| Lavagem Cerebral (condicionamento) | RC-335 | causa | -> | consolidação: "reforça" → "causa" |
+| Egrégora (circuito dos elétrons rebeldes) | RC-385 | protege | -> | consolidação: "alimenta" → "protege" |
+| Arquivos Mentais (coleção de conceitos no psiquismo) | RC-548 | associado | <-> | - |
+| Formas-Pensamento e Formas-Sentimento | RC-724 | associado | <-> | - |
+| Fantasmas do Passado Mitológico | RC-728 | inclui | <- | consolidação: "estrutura-se-por" → "inclui" |
+| Invasão Ancestral do Genoma e do Psiquismo Humanos | RC-732 | causa | <- | consolidação: "favorece" → "causa" |
+| Abraço aos Fantasmas / Integridade sem Combate | RC-735 | relaciona-se-a | <- | consolidação: "enfrentada-por" → "relaciona-se-a"; direção invertida (forma passiva/inversa) |
+| Colegiados Espirituais Humanizados | RC-745 | representa | -> | consolidação: "manifesta-se-em" → "representa" |
 
 ## Fontes
 

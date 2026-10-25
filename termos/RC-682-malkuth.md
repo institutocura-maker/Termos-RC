@@ -23,16 +23,16 @@ Forma preferida: Malkuth.
 O Mistério da Árvore da Vida e a Urdidura de Metatron.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Sophia (Cristo Cósmico) | RC-009 | relaciona-se-a |
-| Universo Material (Bhuloka) | RC-107 | — |
-| Sefirot / Árvore da Vida | RC-263 | é-um |
-| Sefirot / Árvore da Vida | RC-263 | relaciona-se-a |
-| Planos de Existência da Cabala (Atziluth, Briah, Yetzirah, Assiah) | RC-264 | ← relaciona-se-a |
-| Hochmah (2ª Sefirah — Sabedoria; = Sophia) | RC-565 | relaciona-se-a |
-| Hochmah (2ª Sefirah — Sabedoria; = Sophia) | RC-565 | ← relaciona-se-a |
-| Yesod | RC-681 | — |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Sophia (Cristo Cósmico) | RC-009 | relaciona-se-a | -> | - |
+| Universo Material (Bhuloka) | RC-107 | - | - | sem relação informada; 17 linhas são registros de fonte com 4 colunas |
+| Sefirot / Árvore da Vida | RC-263 | é-um | -> | - |
+| Sefirot / Árvore da Vida | RC-263 | relaciona-se-a | -> | - |
+| Planos de Existência da Cabala (Atziluth, Briah, Yetzirah, Assiah) | RC-264 | relaciona-se-a | <- | - |
+| Hochmah (2ª Sefirah — Sabedoria; = Sophia) | RC-565 | relaciona-se-a | -> | - |
+| Hochmah (2ª Sefirah — Sabedoria; = Sophia) | RC-565 | relaciona-se-a | <- | - |
+| Yesod | RC-681 | - | - | sem relação informada; 17 linhas são registros de fonte com 4 colunas |
 
 ## Seres Associados
 Consultar Base.

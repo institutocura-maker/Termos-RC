@@ -25,15 +25,15 @@ Forno replicador de vida do **Projeto Talm** (RC-091) sob o controle de **Brahma
 - Antes desta materialização, Awayen vivia apenas como sub-entrada de **RC-771** (Fornos Replicadores, nó-guarda-chuva). **Materializado como ficha independente por Devolutiva O-3 (2026-08-31)**, por simetria taxonômica com **Awaymaion** (RC-499): os três fornos replicadores passam a ter o mesmo peso no grafo de relações.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | é-de |
-| Brahma (Brajna) | RC-037 | pertence-a |
-| Projeto Talm | RC-091 | viabiliza |
-| Val Tam | RC-132 | acopla (consciência) |
-| Forno de Awaymaion (forno de Vishnu; origem de Olm) | RC-499 | irmão-de (tríade de fornos) |
-| Fornos Replicadores (naves/estações de semeadura de vida do Projeto Talm; Awayen, Awaylengan e Awaymaion) | RC-771 | incluído-em |
-| Forno de Awaylengan (forno de Shiva — o primeiro a funcionar) | RC-837 | irmão-de (tríade de fornos) |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Javé | RC-001 | relaciona-se-a | -> | consolidação: "é-de" → "relaciona-se-a" |
+| Brahma (Brajna) | RC-037 | envolve | -> | consolidação: "pertence-a" → "envolve" |
+| Projeto Talm | RC-091 | causa | -> | consolidação: "viabiliza" → "causa" |
+| Val Tam | RC-132 | associado | <-> | qualificador preservado: consciência; consolidação: "acopla" → "associado" |
+| Forno de Awaymaion (forno de Vishnu; origem de Olm) | RC-499 | associado | <-> | qualificador preservado: tríade de fornos; consolidação: "irmão-de" → "associado" |
+| Fornos Replicadores (naves/estações de semeadura de vida do Projeto Talm; Awayen, Awaylengan e Awaymaion) | RC-771 | inclui | -> | consolidação: "incluído-em" → "inclui" |
+| Forno de Awaylengan (forno de Shiva — o primeiro a funcionar) | RC-837 | associado | <-> | qualificador preservado: tríade de fornos; consolidação: "irmão-de" → "associado" |
 
 ## Seres Associados
 Brahma/Javé (RC-037/RC-001), os Aya/Aye (RC-834/RC-835 — assessores), Val Tam (RC-132).

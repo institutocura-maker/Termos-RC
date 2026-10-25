@@ -29,21 +29,21 @@ Com isso:
 **Origem do conteúdo da ampliação:** palestra `P2012-02-19 — Xadrez Cósmico de Brahma, Vishnu e Shiva` (19/02/2012). Transcrição automatizada, **não conferida com o áudio**; cada aspa foi recortada do `original.txt` pelo índice de âncoras do motor e conferida byte a byte pelo portão B. Nada foi digitado de memória.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Jan Val Ellam (Rogério de Almeida Freitas) | RC-071 | **sem aresta** em `RELACOES`; arquivo existe |
-| Revelação Cósmica (conceito) | RC-094 | associado-a |
-| Seres Espirituais | RC-100 | **sem aresta** em `RELACOES`; **sem arquivo** |
-| O Mal: Subproduto da Ignorância Espiritual | RC-223 | ← associado-a |
-| Espiritismo como Expressão do Quarto Logos | RC-257 | ← é-um |
-| Gnosticismo (contraponto à Cabala) | RC-268 | associado |
-| Ferramentas do Favor Divino (religiões e pensadores) | RC-341 | ← usa |
-| Reforma Íntima (tema do Grupo Atlan) | RC-392 | ← relaciona-se-a |
-| Elm (Moros — ser LM de Tempérion) | RC-454 | ← relaciona-se-a |
-| Atualização das Revelações Anteriores | RC-656 | ← relaciona-se-a |
-| Cumprimento da Profecia de Moros pela Revelação Cósmica | RC-718 | ← envolve |
-| Fator Javé (o marco operacional do fim da atuação como médium passivo) | RC-882 | associado |
-| Revelação Psíquica (Kapila — escola Samkhya) | RC-933 | ← relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Jan Val Ellam (Rogério de Almeida Freitas) | RC-071 | - | - | sem aresta em RELACOES; arquivo existe |
+| Revelação Cósmica (conceito) | RC-094 | associado | <-> | - |
+| Seres Espirituais | RC-100 | - | - | sem aresta em RELACOES; sem arquivo |
+| O Mal: Subproduto da Ignorância Espiritual | RC-223 | associado | <-> | - |
+| Espiritismo como Expressão do Quarto Logos | RC-257 | é-um | <- | - |
+| Gnosticismo (contraponto à Cabala) | RC-268 | associado | <-> | - |
+| Ferramentas do Favor Divino (religiões e pensadores) | RC-341 | usa | <- | - |
+| Reforma Íntima (tema do Grupo Atlan) | RC-392 | relaciona-se-a | <- | - |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | relaciona-se-a | <- | - |
+| Atualização das Revelações Anteriores | RC-656 | relaciona-se-a | <- | - |
+| Cumprimento da Profecia de Moros pela Revelação Cósmica | RC-718 | envolve | <- | - |
+| Fator Javé (o marco operacional do fim da atuação como médium passivo) | RC-882 | associado | <-> | - |
+| Revelação Psíquica (Kapila — escola Samkhya) | RC-933 | relaciona-se-a | <- | - |
 
 ## Fontes
 | Obra (sigla) | Título | Página | Tipo |

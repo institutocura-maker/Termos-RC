@@ -25,32 +25,32 @@ O **codificador e transmissor das Revelações Cósmicas** — o "recebedor" pel
 Autor das obras-primária e complementar que fundamentam a base. Na B031 (a obra fundadora), aparece como **prefaciador AUTORIZADO** (pp. 9–10 — Natal, 07/09/2020) e como centro do ecossistema de difusão ("Outros Canais", pp. 155–158). **QUARENTENA BIOGRÁFICA ATIVA** (decisão da esteira): a ficha registra a persona doutrinária — codificador/transmissor —, jamais a vida pessoal; relatos biográficos (NDE de Petrolina, o Programa do Jô, encarnações atribuídas) entram como leitura/registro, nunca como fato ontológico.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Hiperbórea | RC-068 | associado |
-| Norte Divino | RC-083 | relaciona-se-a |
-| Revelação Cósmica (conceito) | RC-094 | codifica-transmite |
-| Rogério de Almeida Freitas | RC-095 | variação |
-| Val El / Val Ellam | RC-120 | vínculo-de-identidade (relato B060 — quarentena) |
-| Val Eno | RC-123 | associado |
-| Mentalma | RC-166 | associado |
-| Revelação Espiritual (Kardec) | RC-190 | associado |
-| Pílula vermelha | RC-192 | associado |
-| A Mensagem do Codificador de Zion | RC-255 | associado |
-| Escola dos Agentes Esclarecidos da Busca da Verdade | RC-256 | associado |
-| Espiritismo como Expressão do Quarto Logos | RC-257 | associado |
-| Apolônio de Tiana (encarnação do Quarto Logos) | RC-259 | associado |
-| Agentes do Quarto Logos | RC-281 | associado |
-| Fim do Silêncio de Pandora | RC-291 | associado |
-| Proposta de um Humano Terrestre aos Elétrons | RC-384 | associado |
-| Grupo Atlan | RC-388 | ← fundado-por |
-| Casa de Lucas (origem do Grupo Atlan) | RC-389 | associado |
-| Mônica Camargo (autora das cartas) | RC-420 | associado |
-| As Memórias de Javé (crônicas) | RC-421 | ← recebida-por |
-| Advogado de Acusação (Ellam × Javé) | RC-423 | ← é-um |
-| Elm (Moros — ser LM de Tempérion) | RC-454 | ← relaciona-se-a |
-| Inquisição Espiritual (obra anunciada) | RC-617 | ← anunciada-por |
-| Quirino Cornélio (Centurião da Crucificação) | RC-659 | ← encarnação-de |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Hiperbórea | RC-068 | associado | <-> | - |
+| Norte Divino | RC-083 | relaciona-se-a | -> | - |
+| Revelação Cósmica (conceito) | RC-094 | usa | -> | consolidação: "codifica-transmite" → "usa" |
+| Rogério de Almeida Freitas | RC-095 | variação | -> | - |
+| Val El / Val Ellam | RC-120 | associado | <-> | qualificador preservado: relato B060 — quarentena; consolidação: "vínculo-de-identidade" → "associado" |
+| Val Eno | RC-123 | associado | <-> | - |
+| Mentalma | RC-166 | associado | <-> | - |
+| Revelação Espiritual (Kardec) | RC-190 | associado | <-> | - |
+| Pílula vermelha | RC-192 | associado | <-> | - |
+| A Mensagem do Codificador de Zion | RC-255 | associado | <-> | - |
+| Escola dos Agentes Esclarecidos da Busca da Verdade | RC-256 | associado | <-> | - |
+| Espiritismo como Expressão do Quarto Logos | RC-257 | associado | <-> | - |
+| Apolônio de Tiana (encarnação do Quarto Logos) | RC-259 | associado | <-> | - |
+| Agentes do Quarto Logos | RC-281 | associado | <-> | - |
+| Fim do Silêncio de Pandora | RC-291 | associado | <-> | - |
+| Proposta de um Humano Terrestre aos Elétrons | RC-384 | associado | <-> | - |
+| Grupo Atlan | RC-388 | origina | -> | consolidação: "fundado-por" → "origina"; direção invertida (forma passiva/inversa) |
+| Casa de Lucas (origem do Grupo Atlan) | RC-389 | associado | <-> | - |
+| Mônica Camargo (autora das cartas) | RC-420 | associado | <-> | - |
+| As Memórias de Javé (crônicas) | RC-421 | transfere | -> | consolidação: "recebida-por" → "transfere"; direção invertida (forma passiva/inversa) |
+| Advogado de Acusação (Ellam × Javé) | RC-423 | é-um | <- | - |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | relaciona-se-a | <- | - |
+| Inquisição Espiritual (obra anunciada) | RC-617 | comunica | -> | consolidação: "anunciada-por" → "comunica"; direção invertida (forma passiva/inversa) |
+| Quirino Cornélio (Centurião da Crucificação) | RC-659 | origina | <- | consolidação: "encarnação-de" → "origina" |
 
 ## Seres Associados
 Ver Base (os relacionados acima cobrem o círculo direto; a Família Val: RC-109; o Codificador de Zion: RC-252/RC-092).

@@ -26,13 +26,13 @@ Na cosmologia de Ellam, o diferencial de racionalidade que tornou os humanos a �
 - **[P2024-08-03] Proveniência:** palestra de Jan Val Ellam; transcrição STT pré-curada; devolutiva do curador registrada em 2026-08-20 (ficha autorizada).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Seres Terrenos (Homo Sapiens) | RC-099 | associado |
-| Foz Côa / FOXP2 (símbolos) | RC-400 | relaciona-se-a |
-| Xamanismo Cósmico (comunicação e deslacre) | RC-577 | associado |
-| DNA Insubmisso / Linhagem Pandora–Eva–Noreia | RC-727 | manifesta-descontinuidade-em |
-| Destinação do Lobo | RC-743 | ← é-comparada-à-emergência-de |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Seres Terrenos (Homo Sapiens) | RC-099 | associado | <-> | - |
+| Foz Côa / FOXP2 (símbolos) | RC-400 | relaciona-se-a | -> | - |
+| Xamanismo Cósmico (comunicação e deslacre) | RC-577 | associado | <-> | - |
+| DNA Insubmisso / Linhagem Pandora–Eva–Noreia | RC-727 | representa | -> | consolidação: "manifesta-descontinuidade-em" → "representa" |
+| Destinação do Lobo | RC-743 | variação | <- | consolidação: "é-comparada-à-emergência-de" → "variação" |
 
 
 - DNA Insubmisso / Linhagem Pandora–Eva–Noreia — RC-727;

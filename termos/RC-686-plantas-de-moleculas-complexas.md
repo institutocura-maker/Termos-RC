@@ -22,13 +22,13 @@ Forma preferida: Plantas de Moléculas Complexas.
 O Mistério da Árvore da Vida e a Urdidura de Metatron.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| DNA como Projeção Holográfica do Psiquismo do Criador | RC-217 | — |
-| Xamanismo Cósmico (comunicação e deslacre) | RC-577 | relaciona-se-a |
-| Farmacopeia Ancestral Extraterrestre | RC-687 | ← usa |
-| Farmacopeia Ancestral Extraterrestre | RC-687 | relaciona-se-a |
-| Sangue como Cópia da Seiva | RC-689 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| DNA como Projeção Holográfica do Psiquismo do Criador | RC-217 | - | - | sem relação informada; 17 linhas são registros de fonte com 4 colunas |
+| Xamanismo Cósmico (comunicação e deslacre) | RC-577 | relaciona-se-a | -> | - |
+| Farmacopeia Ancestral Extraterrestre | RC-687 | usa | <- | - |
+| Farmacopeia Ancestral Extraterrestre | RC-687 | relaciona-se-a | -> | - |
+| Sangue como Cópia da Seiva | RC-689 | associado | <-> | - |
 
 ## Seres Associados
 Consultar Base.

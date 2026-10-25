@@ -29,11 +29,11 @@ Com isso:
 **Origem do conteúdo da ampliação:** palestra `P2025-05-10 — Mistérios do Apocalipse` (10/05/2025). Transcrição automatizada, **não conferida com o áudio**; cada aspa foi recortada do `original.txt` pelo índice de âncoras do motor e conferida byte a byte pelo portão B. Nada foi digitado de memória.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Sophia (Cristo Cósmico) | RC-009 | **sem aresta** em `RELACOES`; arquivo existe |
-| Cápsula do Tempo de Sophia (João) | RC-274 | **sem aresta** em `RELACOES`; arquivo existe |
-| Apocalipse (livro de João, ditado por Sofia/Rockman) | RC-854 | **sem aresta** em `RELACOES`; arquivo existe |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Sophia (Cristo Cósmico) | RC-009 | - | - | sem aresta em RELACOES; arquivo existe |
+| Cápsula do Tempo de Sophia (João) | RC-274 | - | - | sem aresta em RELACOES; arquivo existe |
+| Apocalipse (livro de João, ditado por Sofia/Rockman) | RC-854 | - | - | sem aresta em RELACOES; arquivo existe |
 
 ## Fontes
 | Obra (sigla) | Título | Página | Tipo |

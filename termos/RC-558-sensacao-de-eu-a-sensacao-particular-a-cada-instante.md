@@ -17,21 +17,21 @@ atualizado = "2026-08-19"
 Definição central da palestra: 'a sensação particular que você sente a cada instante' — a única definição aceitável para o sentido do eu. O eu humano é descrito como 'um programa quântico que funciona entre esses dois polos: a mente espiritual eterna e o cérebro transitório que nasce e morre'; o eu não morre nunca. Metáfora do rádio: o eu não está dentro do corpo. O genoma foi programado para não deixar o eu refletir sobre as sensações que sente.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Mentalma | RC-166 | relaciona-se-a |
-| Genoma Derivado (interação genoma × trajetória) | RC-518 | ← relaciona-se-a |
-| Eu Profundo (nível espiritual do Eu) | RC-553 | relaciona-se-a |
-| Conectoma humano (pulsações sinápticas e a sensação de eu) | RC-557 | ← relaciona-se-a |
-| Baralho genético (metáfora dos 28.869 genes) | RC-562 | associado |
-| Fios soltos (improviso humano × robô) | RC-564 | associado |
-| Quarto Cérebro Humano | RC-614 | relaciona-se-a |
-| Eu Coalescente | RC-620 | ← relaciona-se-a |
-| Corpo Sutil Reencarnante | RC-704 | ← hospeda |
-| Corpo Sutil Reencarnante | RC-704 | ← relaciona-se-a |
-| Ser Humano Não Local | RC-708 | associado |
-| Três Faíscas da Consciência Humana | RC-719 | ← relaciona-se-a |
-| Estrangulamento Cognitivo / Neural | RC-753 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Mentalma | RC-166 | relaciona-se-a | -> | - |
+| Genoma Derivado (interação genoma × trajetória) | RC-518 | relaciona-se-a | <- | - |
+| Eu Profundo (nível espiritual do Eu) | RC-553 | relaciona-se-a | -> | - |
+| Conectoma humano (pulsações sinápticas e a sensação de eu) | RC-557 | relaciona-se-a | <- | - |
+| Baralho genético (metáfora dos 28.869 genes) | RC-562 | associado | <-> | - |
+| Fios soltos (improviso humano × robô) | RC-564 | associado | <-> | - |
+| Quarto Cérebro Humano | RC-614 | relaciona-se-a | -> | - |
+| Eu Coalescente | RC-620 | relaciona-se-a | <- | - |
+| Corpo Sutil Reencarnante | RC-704 | contexto | <- | consolidação: "hospeda" → "contexto" |
+| Corpo Sutil Reencarnante | RC-704 | relaciona-se-a | <- | - |
+| Ser Humano Não Local | RC-708 | associado | <-> | - |
+| Três Faíscas da Consciência Humana | RC-719 | relaciona-se-a | <- | - |
+| Estrangulamento Cognitivo / Neural | RC-753 | associado | <-> | - |
 
 ## Fontes
 

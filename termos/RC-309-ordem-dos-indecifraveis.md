@@ -27,13 +27,13 @@ Título do capítulo 9 de B022 (*Inquisição Trimurtiana – Tempo de Apostasia
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Trimurti | RC-104 | associado |
-| Adhytia (nível hierárquico) | RC-308 | é-um |
-| Adhyagya (formas espirituais Adhy) | RC-311 | associado |
-| Sequência Formativa da Racionalidade Humana | RC-785 | associado |
-| Egrégora de Lilith / Noreia (Loop Mental Vivo) | RC-787 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Trimurti | RC-104 | associado | <-> | - |
+| Adhytia (nível hierárquico) | RC-308 | é-um | -> | - |
+| Adhyagya (formas espirituais Adhy) | RC-311 | associado | <-> | - |
+| Sequência Formativa da Racionalidade Humana | RC-785 | associado | <-> | - |
+| Egrégora de Lilith / Noreia (Loop Mental Vivo) | RC-787 | associado | <-> | - |
 
 ## Fontes
 

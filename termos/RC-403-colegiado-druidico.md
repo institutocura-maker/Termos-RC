@@ -29,14 +29,14 @@ Com isso:
 **Origem do conteúdo da ampliação:** palestra `P2017-10-14 — Da Base Atlan ao Colégio Druídico` (14/10/2017). Transcrição automatizada, **não conferida com o áudio**; cada aspa foi recortada do `original.txt` pelo índice de âncoras do motor e conferida byte a byte pelo portão B. Nada foi digitado de memória.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Revelação Cósmica (conceito) | RC-094 | **sem aresta** em `RELACOES`; arquivo existe |
-| Os 20 Anos de Jesus entre os Celtas | RC-373 | **sem aresta** em `RELACOES`; arquivo existe |
-| Druidas Celtas (contexto RC) | RC-375 | associado-a |
-| Os Magos do Norte | RC-439 | associado |
-| Escola da Decifração da Realidade (Método Druídico) | RC-755 | relaciona-se-a |
-| Milésios (raça da Irlanda) | RC-842 | ← relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Revelação Cósmica (conceito) | RC-094 | - | - | sem aresta em RELACOES; arquivo existe |
+| Os 20 Anos de Jesus entre os Celtas | RC-373 | - | - | sem aresta em RELACOES; arquivo existe |
+| Druidas Celtas (contexto RC) | RC-375 | associado | <-> | - |
+| Os Magos do Norte | RC-439 | associado | <-> | - |
+| Escola da Decifração da Realidade (Método Druídico) | RC-755 | relaciona-se-a | -> | - |
+| Milésios (raça da Irlanda) | RC-842 | relaciona-se-a | <- | - |
 
 
 ## Fontes

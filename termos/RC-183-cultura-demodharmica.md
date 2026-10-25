@@ -27,14 +27,14 @@ Modo comum à «cultura demo», associado à **lei do dharma** — que se referi
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Cultura Demo | RC-044 | associado-a |
-| Demos | RC-049 | associado |
-| Lila | RC-075 | associado |
-| Plano Colmeia (para o Universo Biológico) | RC-179 | associado |
-| Arte Demodhármica do Possível | RC-275 | ← relaciona-se-a |
-| Krishna (avatar de Vishnu/Shiva) | RC-414 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Cultura Demo | RC-044 | associado | <-> | - |
+| Demos | RC-049 | associado | <-> | - |
+| Lila | RC-075 | associado | <-> | - |
+| Plano Colmeia (para o Universo Biológico) | RC-179 | associado | <-> | - |
+| Arte Demodhármica do Possível | RC-275 | relaciona-se-a | <- | - |
+| Krishna (avatar de Vishnu/Shiva) | RC-414 | associado | <-> | - |
 
 ## Fontes
 

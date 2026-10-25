@@ -25,28 +25,28 @@ atualizado = "2026-10-23"
 Yel Luzbel é o protagonista negativo-positivo do drama cósmico: sua inquietação (742 mil anos atrás) gerou a pandemia que levou à rebelião e ao isolamento da Terra. Nas RC ele **não é o "diabo"** do cristianismo — é um biodemo rebelde exilado, cuja ação possibilitou o despertar mental. Relaciona-se aos "Anjos Caídos" das literaturas (com diferenciações, ver RC-020).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Rebelião de Lúcifer | RC-002 | inicia |
-| Exilados de Capela | RC-007 | associado |
-| Anjos caídos | RC-020 | associado |
-| Demônios | RC-050 | associado |
-| Isolamento Cósmico | RC-070 | associado |
-| Mensagem Talm | RC-080 | ← relaciona-se-a |
-| Pandora | RC-086 | associado-a |
-| Seres Extraterrenos / Extraterrestres | RC-098 | associado |
-| Yel (Família Yel) | RC-136 | associado |
-| Yel Luzbel | RC-142 | variação |
-| Trava-demo | RC-184 | associado |
-| Biodemol | RC-186 | associado |
-| O Calvário de um Inocente | RC-236 | ← afeta |
-| Hitler (figura histórica no RC) | RC-239 | associado |
-| Viajores da Rebelião | RC-248 | associado |
-| Sentimento Luciferiano | RC-345 | associado |
-| Jeová (grafia da trilogia) | RC-346 | associado |
-| Ancoragem do Conglomerado Trimurtiano na Terra | RC-575 | ← envolve |
-| Vergonha de Existir | RC-747 | ← relaciona-se-a |
-| Melkor (o filho dissonante) | RC-844 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Rebelião de Lúcifer | RC-002 | precede | -> | consolidação: "inicia" → "precede" |
+| Exilados de Capela | RC-007 | associado | <-> | - |
+| Anjos caídos | RC-020 | associado | <-> | - |
+| Demônios | RC-050 | associado | <-> | - |
+| Isolamento Cósmico | RC-070 | associado | <-> | - |
+| Mensagem Talm | RC-080 | relaciona-se-a | <- | - |
+| Pandora | RC-086 | associado | <-> | - |
+| Seres Extraterrenos / Extraterrestres | RC-098 | associado | <-> | - |
+| Yel (Família Yel) | RC-136 | associado | <-> | - |
+| Yel Luzbel | RC-142 | variação | -> | - |
+| Trava-demo | RC-184 | associado | <-> | - |
+| Biodemol | RC-186 | associado | <-> | - |
+| O Calvário de um Inocente | RC-236 | causa | <- | consolidação: "afeta" → "causa" |
+| Hitler (figura histórica no RC) | RC-239 | associado | <-> | - |
+| Viajores da Rebelião | RC-248 | associado | <-> | - |
+| Sentimento Luciferiano | RC-345 | associado | <-> | - |
+| Jeová (grafia da trilogia) | RC-346 | associado | <-> | - |
+| Ancoragem do Conglomerado Trimurtiano na Terra | RC-575 | envolve | <- | - |
+| Vergonha de Existir | RC-747 | relaciona-se-a | <- | - |
+| Melkor (o filho dissonante) | RC-844 | associado | <-> | - |
 
 ## Citações-chave
 

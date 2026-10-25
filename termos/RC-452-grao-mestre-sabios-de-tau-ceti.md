@@ -24,11 +24,11 @@ atualizado = "2026-08-25"
 Capítulos 10–12 do B058: "o 'Grão-mestre' daquela 'Universidade', ou seja, **o 'Primeiro Mestre' entre eles**, dirigiu-se a mim, respeitosamente!" (p. 47); o endereço cerimonioso — "Integrante Yel Luzbel, 'Primeiro Pesquisador' pertencente à 'família Yel', do planeta Dan, do sistema de Capela" (p. 47); a advertência metodológica — "tudo o que você expressar, **será analisado, cientificamente**, por mim e pelos outros Mestres aqui presentes" (p. 47); o veredito (pp. 54–56): "não conseguimos refutar as argumentações"; "As suas premissas foram irrefutáveis, mas **não as consideraremos como certas ou verdadeiras até ouvirmos as explicações do próprio Sophia**" (p. 56); o elogio final: "Você tem uma mente brilhante!" (p. 56).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Tau Ceti (Sistema) | RC-103 | associado-a (localização) |
-| Revolta Capelina | RC-450 | relaciona-se-a (o veredito dá respaldo ao movimento) |
-| Universidade de Tau Ceti | RC-451 | associado-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Tau Ceti (Sistema) | RC-103 | associado | <-> | qualificador preservado: localização; raiz semântica associado (decisão 3) |
+| Revolta Capelina | RC-450 | relaciona-se-a | -> | qualificador preservado: o veredito dá respaldo ao movimento |
+| Universidade de Tau Ceti | RC-451 | associado | <-> | - |
 
 ## Seres Associados
 Os Mestres/Sábios de Tau Ceti; Yel Luzbel (RC-078, o avaliado); Sophia (RC-009 — destinatário do ofício).

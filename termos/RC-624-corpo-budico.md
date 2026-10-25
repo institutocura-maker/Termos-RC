@@ -24,18 +24,18 @@ Primeira vestimenta espiritual dos desdobramentos paradisíacos, permitindo ao e
 É intermediário entre o Corpo Átmico e o Corpo Manásico. Ainda não produziria ímpeto criativo por si mesmo.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Espiritualidade Operacional | RC-060 | ← associada-a |
-| Realidade Maior / Paraíso Original | RC-204 | relaciona-se-a |
-| Protocolos / Algoritmos da Perfeição | RC-606 | relaciona-se-a |
-| Corpo Átmico | RC-623 | ← investido-por |
-| Corpo Átmico | RC-623 | investe |
-| Corpo Átmico | RC-623 | relaciona-se-a |
-| Corpo Manásico / Corpo Mental | RC-625 | investido-por |
-| Corpo Manásico / Corpo Mental | RC-625 | ← investe |
-| Corpo Sutil Reencarnante | RC-704 | ← relaciona-se-a |
-| Bhavaṅga / Janela da Percepção | RC-706 | ← relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Espiritualidade Operacional | RC-060 | associado | <-> | raiz semântica associado (decisão 3) |
+| Realidade Maior / Paraíso Original | RC-204 | relaciona-se-a | -> | - |
+| Protocolos / Algoritmos da Perfeição | RC-606 | relaciona-se-a | -> | - |
+| Corpo Átmico | RC-623 | controla | -> | consolidação: "investido-por" → "controla"; direção invertida (forma passiva/inversa) |
+| Corpo Átmico | RC-623 | controla | -> | consolidação: "investe" → "controla" |
+| Corpo Átmico | RC-623 | relaciona-se-a | -> | - |
+| Corpo Manásico / Corpo Mental | RC-625 | controla | <- | consolidação: "investido-por" → "controla"; direção invertida (forma passiva/inversa) |
+| Corpo Manásico / Corpo Mental | RC-625 | controla | <- | consolidação: "investe" → "controla" |
+| Corpo Sutil Reencarnante | RC-704 | relaciona-se-a | <- | - |
+| Bhavaṅga / Janela da Percepção | RC-706 | relaciona-se-a | <- | - |
 
 ## Seres Associados
 Consultar relações acima.

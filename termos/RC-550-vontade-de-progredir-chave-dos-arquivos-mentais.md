@@ -25,13 +25,13 @@ atualizado = "2026-08-25"
 No Mentalma I (B074, cap. 3.1 — "A 'Chave' da 'Vontade de Progredir'"), Ellam define-a como "o próprio Espírito tentando influenciar o seu 'ego terreno', no sentido de tentar fazê-lo cumprir seus objetivos maiores", vinda da "Consciência Profunda Espiritual", via "ego educado". O lema adotado por Ellam é de Sai Baba: "A Vontade é a essência do ser ou ele próprio em ação". A 1ª Constatação (p. 21) a vincula à "compreensão esclarecida": "surge quando a pessoa muda a sua maneira habitual de conduzir o seu pensamento diante das situações, e não consiste em uma compreensão baseada meramente na crença ou na fé, mas sim, na investigação constante da verdade". A 5ª Constatação (p. 45): "A melhor maneira de se lidar com arquivos mentais 'colecionados' é tendo a 'vontade e a compreensão esclarecidas'".
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Mentalma | RC-166 | relaciona-se-a (método) |
-| Arquivos Mentais (coleção de conceitos no psiquismo) | RC-548 | relaciona-se-a |
-| Circuito do CHA (Circunstâncias+Herança+Atitude) | RC-549 | ← relaciona-se-a |
-| Gestão Psíquica e Memórias Complexas (Mentalma II) | RC-554 | associado |
-| Série Mentalma (5 livros + curso) | RC-555 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Mentalma | RC-166 | relaciona-se-a | -> | qualificador preservado: método |
+| Arquivos Mentais (coleção de conceitos no psiquismo) | RC-548 | relaciona-se-a | -> | - |
+| Circuito do CHA (Circunstâncias+Herança+Atitude) | RC-549 | relaciona-se-a | <- | - |
+| Gestão Psíquica e Memórias Complexas (Mentalma II) | RC-554 | associado | <-> | - |
+| Série Mentalma (5 livros + curso) | RC-555 | associado | <-> | - |
 
 ## Seres Associados
 Espírito encarnado (fonte da "Vontade Maior"); Jan Val Ellam (criador do método — RC-071).

@@ -23,13 +23,13 @@ Forma validada pelo curador.
 P2026-02-28.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Shiva (Savna) | RC-102 | é-um |
-| Rishis | RC-586 | relaciona-se-a |
-| Som da Flauta / Som da Falta | RC-668 | associado |
-| Yoga Ancestral (Origem Cósmica) | RC-670 | desenvolve |
-| Daksha e Virini | RC-701 | ← relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Shiva (Savna) | RC-102 | é-um | -> | - |
+| Rishis | RC-586 | relaciona-se-a | -> | - |
+| Som da Flauta / Som da Falta | RC-668 | associado | <-> | - |
+| Yoga Ancestral (Origem Cósmica) | RC-670 | associado | <-> | consolidação: "desenvolve" → "associado" |
+| Daksha e Virini | RC-701 | relaciona-se-a | <- | - |
 
 ## Seres Associados
 Consultar Base.

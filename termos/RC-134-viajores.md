@@ -27,12 +27,12 @@ Nome pelo qual os biodemos chamavam os Anunnakis. Na narrativa de B015, «os “
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Anunnaki | RC-024 | associado |
-| Nephilins | RC-082 | associado |
-| Viajores da Rebelião | RC-248 | ← associado-a |
-| Ninmah (Anunnaki geneticista) | RC-461 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Anunnaki | RC-024 | associado | <-> | - |
+| Nephilins | RC-082 | associado | <-> | - |
+| Viajores da Rebelião | RC-248 | associado | <-> | - |
+| Ninmah (Anunnaki geneticista) | RC-461 | associado | <-> | - |
 
 ## Ampliação — OIDR26-01 (Onda incremental dry-run — Anunnaki, genética e humanidade (derivados normalizados))
 

@@ -24,18 +24,18 @@ Conjunto dos cinco níveis/subníveis da Espiritualidade Laboratorial reunidos n
 A palestra os descreve como padrões dimensionais com grupos de seres e estilos criadores próprios.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Espiritualidade Laboratorial | RC-061 | parte-de |
-| Perpérion | RC-087 | inclui |
-| Tempérion (Archeon de Ereon; setor dos seres LM) | RC-472 | inclui |
-| Ereon (região dos cinco Archeons da Espiritualidade Laboratorial) | RC-496 | corresponde-a |
-| Antérion | RC-597 | inclui |
-| Antérion | RC-597 | ← é-um |
-| Danérion | RC-598 | inclui |
-| Danérion | RC-598 | ← é-um |
-| Mermérion | RC-599 | inclui |
-| Mermérion | RC-599 | ← é-um |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Espiritualidade Laboratorial | RC-061 | parte-de | -> | - |
+| Perpérion | RC-087 | inclui | -> | - |
+| Tempérion (Archeon de Ereon; setor dos seres LM) | RC-472 | inclui | -> | - |
+| Ereon (região dos cinco Archeons da Espiritualidade Laboratorial) | RC-496 | variação | -> | consolidação: "corresponde-a" → "variação" |
+| Antérion | RC-597 | inclui | -> | - |
+| Antérion | RC-597 | é-um | <- | - |
+| Danérion | RC-598 | inclui | -> | - |
+| Danérion | RC-598 | é-um | <- | - |
+| Mermérion | RC-599 | inclui | -> | - |
+| Mermérion | RC-599 | é-um | <- | - |
 
 ## Seres Associados
 Consultar as relações tipadas acima.

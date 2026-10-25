@@ -27,11 +27,11 @@ Na B018 (*Terra Atlantis: A Frota Norte*), o título do capítulo 8, designando 
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Alt´Lam Gron | RC-018 | associado |
-| Espheron | RC-058 | associado-a |
-| Frota Norte | RC-065 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Alt´Lam Gron | RC-018 | associado | <-> | - |
+| Espheron | RC-058 | associado | <-> | - |
+| Frota Norte | RC-065 | associado | <-> | - |
 
 ## Fontes
 

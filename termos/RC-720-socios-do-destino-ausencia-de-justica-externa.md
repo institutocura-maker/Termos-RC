@@ -26,26 +26,26 @@ A palestra afirma que:
 
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Sophia (Cristo Cósmico) | RC-009 | ← relaciona-se-a |
-| Sophia (Cristo Cósmico) | RC-009 | relaciona-se-a |
-| Imperativo Categórico da Moral | RC-328 | relaciona-se-a |
-| Sentido Gradualístico das Leis da Evolução Cósmica | RC-404 | relaciona-se-a |
-| Sentido Gradualístico das Leis da Evolução Cósmica | RC-404 | ← relaciona-se-a |
-| Decência cósmica (ética ellâmica) | RC-508 | relaciona-se-a |
-| Herança Cósmica (padrões de existências anteriores) | RC-519 | envolve |
-| Ressonância límbica (emoções como tecnologia cósmica) | RC-529 | relaciona-se-a |
-| Moksha | RC-618 | relaciona-se-a |
-| Humanos: Últimos e Primeiros | RC-654 | associado |
-| Revelação de Ifá e Destinação dos Seres | RC-655 | explicado-por |
-| Wyrd / Urd (Teia do Destino) | RC-658 | submetidos-a |
-| Informações Vivas | RC-715 | processa |
-| PIA — Peso da Inevitabilidade Ancestral | RC-716 | ← submete |
-| PIA — Peso da Inevitabilidade Ancestral | RC-716 | envolve |
-| Abismo da Consciência Cósmica | RC-721 | ← relaciona-se-a |
-| Abismo da Providência / Falsa Providência | RC-723 | ← relaciona-se-a |
-| Ponto de Luz Humano / Ilha de Negentropia | RC-725 | relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Sophia (Cristo Cósmico) | RC-009 | relaciona-se-a | <- | - |
+| Sophia (Cristo Cósmico) | RC-009 | relaciona-se-a | -> | - |
+| Imperativo Categórico da Moral | RC-328 | relaciona-se-a | -> | - |
+| Sentido Gradualístico das Leis da Evolução Cósmica | RC-404 | relaciona-se-a | -> | - |
+| Sentido Gradualístico das Leis da Evolução Cósmica | RC-404 | relaciona-se-a | <- | - |
+| Decência cósmica (ética ellâmica) | RC-508 | relaciona-se-a | -> | - |
+| Herança Cósmica (padrões de existências anteriores) | RC-519 | envolve | -> | - |
+| Ressonância límbica (emoções como tecnologia cósmica) | RC-529 | relaciona-se-a | -> | - |
+| Moksha | RC-618 | relaciona-se-a | -> | - |
+| Humanos: Últimos e Primeiros | RC-654 | associado | <-> | - |
+| Revelação de Ifá e Destinação dos Seres | RC-655 | explica | <- | consolidação: "explicado-por" → "explica"; direção invertida (forma passiva/inversa) |
+| Wyrd / Urd (Teia do Destino) | RC-658 | controla | <- | consolidação: "submetidos-a" → "controla"; direção invertida (forma passiva/inversa) |
+| Informações Vivas | RC-715 | usa | -> | consolidação: "processa" → "usa" |
+| PIA — Peso da Inevitabilidade Ancestral | RC-716 | controla | <- | consolidação: "submete" → "controla" |
+| PIA — Peso da Inevitabilidade Ancestral | RC-716 | envolve | -> | - |
+| Abismo da Consciência Cósmica | RC-721 | relaciona-se-a | <- | - |
+| Abismo da Providência / Falsa Providência | RC-723 | relaciona-se-a | <- | - |
+| Ponto de Luz Humano / Ilha de Negentropia | RC-725 | relaciona-se-a | -> | - |
 
 ## Fontes
 | Fonte | Localização | Tipo |

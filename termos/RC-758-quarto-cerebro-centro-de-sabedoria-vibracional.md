@@ -28,14 +28,14 @@ atualizado = "2026-08-29"
 
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Sophia (Cristo Cósmico) | RC-009 | relaciona-se-a |
-| Pandora | RC-086 | relaciona-se-a |
-| Quarto Logos (Olm / Codificador de Zian) | RC-092 | manifesta-se-em |
-| Tikun Cósmico (restabelecimento da Criação) | RC-514 | relaciona-se-a |
-| Eu Profundo (nível espiritual do Eu) | RC-553 | relaciona-se-a |
-| Quarto Cérebro Humano | RC-614 | ← relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Sophia (Cristo Cósmico) | RC-009 | relaciona-se-a | -> | - |
+| Pandora | RC-086 | relaciona-se-a | -> | - |
+| Quarto Logos (Olm / Codificador de Zian) | RC-092 | representa | -> | consolidação: "manifesta-se-em" → "representa" |
+| Tikun Cósmico (restabelecimento da Criação) | RC-514 | relaciona-se-a | -> | - |
+| Eu Profundo (nível espiritual do Eu) | RC-553 | relaciona-se-a | -> | - |
+| Quarto Cérebro Humano | RC-614 | relaciona-se-a | <- | - |
 
 ## Fontes
 

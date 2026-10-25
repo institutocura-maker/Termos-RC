@@ -25,12 +25,12 @@ Conceito ético-evolutivo interno da Revelação Cósmica: um **genótipo** (na 
 - vínculo com a dignidade (RC-722) e com o ato de incomodar-se (RC-705).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Lúcifer (Yel Luzbel) | RC-078 | relaciona-se-a |
-| Ato de Verdade / Satyagraha | RC-705 | relaciona-se-a |
-| Dignidade como Critério de Consciência | RC-722 | relaciona-se-a |
-| Dessensibilização da Condição Humana | RC-746 | ← relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Lúcifer (Yel Luzbel) | RC-078 | relaciona-se-a | -> | - |
+| Ato de Verdade / Satyagraha | RC-705 | relaciona-se-a | -> | - |
+| Dignidade como Critério de Consciência | RC-722 | relaciona-se-a | -> | - |
+| Dessensibilização da Condição Humana | RC-746 | relaciona-se-a | <- | - |
 
 ## Fontes
 

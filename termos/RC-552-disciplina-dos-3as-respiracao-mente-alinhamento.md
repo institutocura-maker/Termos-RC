@@ -25,19 +25,19 @@ atualizado = "2026-08-13"
 Ellam relata que os "3As" tornaram-se "a mais preciosa" das práticas do seu cotidiano. A disciplina prepara a mente para a "vivência interior" e para a gestão dos arquivos mentais — condições para o despertar espiritual e a autorrealização.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Mentalma | RC-166 | relaciona-se-a |
-| Eu Profundo (nível espiritual do Eu) | RC-553 | relaciona-se-a |
-| Gestão Psíquica e Memórias Complexas (Mentalma II) | RC-554 | relaciona-se-a |
-| Série Mentalma (5 livros + curso) | RC-555 | associado |
-| Moksha | RC-618 | associado |
-| Gestão da Sensação Pessoal | RC-633 | ← usa |
-| Ciência Pessoal / Doutrina da Própria Personalidade | RC-695 | ← usa |
-| Postulados Quânticos como Manual Operativo | RC-703 | associado |
-| Bhavaṅga / Janela da Percepção | RC-706 | ← usa |
-| Bhavaṅga / Janela da Percepção | RC-706 | ← relaciona-se-a |
-| Lei da Mente do Buda | RC-712 | ← usa |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Mentalma | RC-166 | relaciona-se-a | -> | - |
+| Eu Profundo (nível espiritual do Eu) | RC-553 | relaciona-se-a | -> | - |
+| Gestão Psíquica e Memórias Complexas (Mentalma II) | RC-554 | relaciona-se-a | -> | - |
+| Série Mentalma (5 livros + curso) | RC-555 | associado | <-> | - |
+| Moksha | RC-618 | associado | <-> | - |
+| Gestão da Sensação Pessoal | RC-633 | usa | <- | - |
+| Ciência Pessoal / Doutrina da Própria Personalidade | RC-695 | usa | <- | - |
+| Postulados Quânticos como Manual Operativo | RC-703 | associado | <-> | - |
+| Bhavaṅga / Janela da Percepção | RC-706 | usa | <- | - |
+| Bhavaṅga / Janela da Percepção | RC-706 | relaciona-se-a | <- | - |
+| Lei da Mente do Buda | RC-712 | usa | <- | - |
 
 ## Seres Associados
 Praticante do Mentalma; o "Eu" que se alinha ao Espírito.

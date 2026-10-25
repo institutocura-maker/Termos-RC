@@ -17,54 +17,54 @@ atualizado = "2026-10-23"
 Um dos três da Trimurti (RC-104) — na RC, **Savna** (RC-409 ADHYSAVNA); princípio de reciclagem vinculado à entropia cósmica e à força tamásica (RC-151 Gunas).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Adhydaiva | RC-014 | associado |
-| Adhyajna | RC-016 | associado |
-| Brahma (Brajna) | RC-037 | associado |
-| Keshava | RC-073 | associado |
-| Lila | RC-075 | associado |
-| Logos / Logos Criadores | RC-076 | associado |
-| Projeto Talm | RC-091 | associado |
-| Trimurti | RC-104 | parte-de |
-| Vishnu (Mavatna) | RC-135 | associado |
-| Gunas Criadoras (Sattva, Rajas, Tamas) | RC-151 | ← associado-a |
-| Prabrajna | RC-152 | variação |
-| Era da Punição | RC-158 | associado |
-| Entropia e Negentropia | RC-160 | relaciona-se-a |
-| Conspiração do Desespero | RC-220 | associado |
-| Eros = Vishnu / Tártaro = Shiva (correspondências) | RC-286 | ← variação |
-| Dissolução da Tríade (2015–2017) | RC-300 | associado |
-| Adhyagya (formas espirituais Adhy) | RC-311 | ← responde-por |
-| A Estranha Autorrealização de Shiva | RC-318 | ← envolve |
-| Kumari Kandan (tradição) | RC-329 | associado-a |
-| Kumari Kandan (tradição) | RC-329 | ← relaciona-se-a |
-| Ragnarok em Marte | RC-395 | associado |
-| ADHYSAVNA (nome completo de Savna/Shiva) | RC-409 | ← variação |
-| Hara (avatar de Shiva) | RC-413 | ← é-um |
-| Krishna (avatar de Vishnu/Shiva) | RC-414 | associado |
-| Javé sem avatares ('Não tenho isto!') | RC-426 | associado |
-| Pashvnaj (espécie de 43 seres do Gênero Adhy) | RC-455 | ← relaciona-se-a |
-| Ancoragem do Conglomerado Trimurtiano na Terra | RC-575 | associado |
-| Rakshasas | RC-581 | associado |
-| Fatiamento de Consciência | RC-604 | ← envolve |
-| Narasimha (avatar de Vishnu) | RC-642 | ← confronta |
-| Som da Flauta / Som da Falta | RC-668 | ← percebido-por |
-| Pashupati (avatar de Shiva) | RC-669 | ← é-um |
-| Yoga Ancestral (Origem Cósmica) | RC-670 | ← criado-por |
-| Binah | RC-675 | ← correspondência-em-teologia-comparada-de |
-| Ganesha (exceção à metamorfose; cabeça de elefante) | RC-756 | ← relaciona-se-a |
-| Pactos de Javé (Brama / Vishnu / Shiva) | RC-781 | associado |
-| Estratégia dos Avatares (Moisés/Krishna/Saibaba/Jesus/Maomé) | RC-797 | associado |
-| Mudança de Estratégia das Trevas (Centralizar → Espalhar) | RC-798 | associado |
-| Saibaba como Precursor de Jesus | RC-801 | associado |
-| Forno de Awaylengan (forno de Shiva — o primeiro a funcionar) | RC-837 | associado |
-| Eru Ilúvatar (criador no Silmarillion) | RC-843 | associado |
-| Rara (o ser de energia tamásica criado por Chiva para o sacrifício final; indestrutível) | RC-883 | associado |
-| Sai Baba de Shirdi (Shirdi Sai Baba) | RC-927 | ← encarnação-de |
-| Sathya Sai Baba | RC-928 | ← encarnação-de |
-| Prema Sai (Prima Sai / Prem Sai) | RC-929 | ← encarnação-de |
-| Kris Amon (Krysamon NEAD) | RC-934 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Adhydaiva | RC-014 | associado | <-> | - |
+| Adhyajna | RC-016 | associado | <-> | - |
+| Brahma (Brajna) | RC-037 | associado | <-> | - |
+| Keshava | RC-073 | associado | <-> | - |
+| Lila | RC-075 | associado | <-> | - |
+| Logos / Logos Criadores | RC-076 | associado | <-> | - |
+| Projeto Talm | RC-091 | associado | <-> | - |
+| Trimurti | RC-104 | parte-de | -> | - |
+| Vishnu (Mavatna) | RC-135 | associado | <-> | - |
+| Gunas Criadoras (Sattva, Rajas, Tamas) | RC-151 | associado | <-> | - |
+| Prabrajna | RC-152 | variação | -> | - |
+| Era da Punição | RC-158 | associado | <-> | - |
+| Entropia e Negentropia | RC-160 | relaciona-se-a | -> | - |
+| Conspiração do Desespero | RC-220 | associado | <-> | - |
+| Eros = Vishnu / Tártaro = Shiva (correspondências) | RC-286 | variação | <- | - |
+| Dissolução da Tríade (2015–2017) | RC-300 | associado | <-> | - |
+| Adhyagya (formas espirituais Adhy) | RC-311 | comunica | -> | consolidação: "responde-por" → "comunica"; direção invertida (forma passiva/inversa) |
+| A Estranha Autorrealização de Shiva | RC-318 | envolve | <- | - |
+| Kumari Kandan (tradição) | RC-329 | associado | <-> | - |
+| Kumari Kandan (tradição) | RC-329 | relaciona-se-a | <- | - |
+| Ragnarok em Marte | RC-395 | associado | <-> | - |
+| ADHYSAVNA (nome completo de Savna/Shiva) | RC-409 | variação | <- | - |
+| Hara (avatar de Shiva) | RC-413 | é-um | <- | - |
+| Krishna (avatar de Vishnu/Shiva) | RC-414 | associado | <-> | - |
+| Javé sem avatares ('Não tenho isto!') | RC-426 | associado | <-> | - |
+| Pashvnaj (espécie de 43 seres do Gênero Adhy) | RC-455 | relaciona-se-a | <- | - |
+| Ancoragem do Conglomerado Trimurtiano na Terra | RC-575 | associado | <-> | - |
+| Rakshasas | RC-581 | associado | <-> | - |
+| Fatiamento de Consciência | RC-604 | envolve | <- | - |
+| Narasimha (avatar de Vishnu) | RC-642 | opõe-se-a | <- | consolidação: "confronta" → "opõe-se-a" |
+| Som da Flauta / Som da Falta | RC-668 | observa | <- | consolidação: "percebido-por" → "observa" |
+| Pashupati (avatar de Shiva) | RC-669 | é-um | <- | - |
+| Yoga Ancestral (Origem Cósmica) | RC-670 | origina | -> | consolidação: "criado-por" → "origina"; direção invertida (forma passiva/inversa) |
+| Binah | RC-675 | variação | <- | consolidação: "correspondência-em-teologia-comparada-de" → "variação" |
+| Ganesha (exceção à metamorfose; cabeça de elefante) | RC-756 | relaciona-se-a | <- | - |
+| Pactos de Javé (Brama / Vishnu / Shiva) | RC-781 | associado | <-> | - |
+| Estratégia dos Avatares (Moisés/Krishna/Saibaba/Jesus/Maomé) | RC-797 | associado | <-> | - |
+| Mudança de Estratégia das Trevas (Centralizar → Espalhar) | RC-798 | associado | <-> | - |
+| Saibaba como Precursor de Jesus | RC-801 | associado | <-> | - |
+| Forno de Awaylengan (forno de Shiva — o primeiro a funcionar) | RC-837 | associado | <-> | - |
+| Eru Ilúvatar (criador no Silmarillion) | RC-843 | associado | <-> | - |
+| Rara (o ser de energia tamásica criado por Chiva para o sacrifício final; indestrutível) | RC-883 | associado | <-> | - |
+| Sai Baba de Shirdi (Shirdi Sai Baba) | RC-927 | origina | <- | consolidação: "encarnação-de" → "origina" |
+| Sathya Sai Baba | RC-928 | origina | <- | consolidação: "encarnação-de" → "origina" |
+| Prema Sai (Prima Sai / Prem Sai) | RC-929 | origina | <- | consolidação: "encarnação-de" → "origina" |
+| Kris Amon (Krysamon NEAD) | RC-934 | associado | <-> | - |
 
 ## Ampliação — STT26-EXTRATERRESTRES_TECNOLOGIA (Eixo STT26 — Extraterrestres, tecnologia e cosmos (derivados normalizados))
 

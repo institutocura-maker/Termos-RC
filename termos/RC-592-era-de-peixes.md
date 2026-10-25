@@ -24,14 +24,14 @@ Era zodiacal ligada, na palestra, à vida de Jesus e a uma orientação de liber
 É apresentada como antecessora da Era de Aquário e como período em que Jesus se recusou a usar poder para controlar os humanos.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Jesus | RC-072 | envolve |
-| Alvorecer de Aquário | RC-405 | ← sucede |
-| Marduk (= Ra; Anunnaki filho de Enki) | RC-460 | ← relaciona-se-a |
-| Eras Zodiacais (ciclos de aproximadamente 2.160 anos) | RC-569 | é-um |
-| Ano de 2012 como Divisor de Ciclos | RC-571 | ← marca-fim-de |
-| Relógio Messiânico | RC-765 | ← relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Jesus | RC-072 | envolve | -> | - |
+| Alvorecer de Aquário | RC-405 | sucede | <- | - |
+| Marduk (= Ra; Anunnaki filho de Enki) | RC-460 | relaciona-se-a | <- | - |
+| Eras Zodiacais (ciclos de aproximadamente 2.160 anos) | RC-569 | é-um | -> | - |
+| Ano de 2012 como Divisor de Ciclos | RC-571 | sucede | <- | consolidação: "marca-fim-de" → "sucede" |
+| Relógio Messiânico | RC-765 | relaciona-se-a | <- | - |
 
 ## Seres Associados
 Jesus (RC-072)

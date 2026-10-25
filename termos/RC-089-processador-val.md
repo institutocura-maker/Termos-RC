@@ -38,14 +38,14 @@ Com isso:
 **Origem do conteúdo da ampliação:** palestra `P2022-03-26 — A Rebelião de Lúcifer e a Depressão Mental dos Seres` (São Paulo, 26/03/2022), bloco U0034 (com apoio em U0008) do `original.txt` — transcrição automatizada, **não conferida com o áudio**. Cada aspa foi recortada byte a byte por `_gerar_ampliacoes_P2022-03-26.py` sobre o caça-âncoras `_aspas_P2022-03-26.py`; nada foi digitado de memória.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Alt´Lam Gron | RC-018 | associado |
-| Biodemos | RC-036 | — (citação desta fala, não aresta) |
-| Mensagem Talm | RC-080 | associado |
-| Val (Família Val) | RC-109 | listado no cadastro sem aresta |
-| Yel Lupon | RC-141 | associado |
-| Processadores Familiares | RC-446 | análogo (aresta registrada na ficha RC-446; **não** há aresta em `RELACOES` para RC-089) |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Alt´Lam Gron | RC-018 | associado | <-> | - |
+| Biodemos | RC-036 | - | - | — (citação desta fala, não aresta) |
+| Mensagem Talm | RC-080 | associado | <-> | - |
+| Val (Família Val) | RC-109 | - | - | listado no cadastro sem aresta |
+| Yel Lupon | RC-141 | associado | <-> | - |
+| Processadores Familiares | RC-446 | - | - | análogo (aresta registrada na ficha RC-446; não há aresta em RELACOES para RC-089) |
 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo (citação/paráfrase) |

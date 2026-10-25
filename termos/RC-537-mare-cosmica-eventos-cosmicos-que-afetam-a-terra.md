@@ -26,12 +26,12 @@ Os ciclos de fluxo que varrem o sistema e alteram o curso da evolução terrestr
 - Arestas em `RELACOES`: 2 — nada aberto, fechado ou reetiquetado nesta ficha.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Transição Planetária | RC-344 | relaciona-se-a |
-| Revelação Cósmica (conceito) | RC-094 | associado |
-| Eras da Criação (10 eras) | RC-155 | associado |
-| Cinturão de Fótons | RC-573 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Transição Planetária | RC-344 | relaciona-se-a | -> | - |
+| Revelação Cósmica (conceito) | RC-094 | associado | <-> | - |
+| Eras da Criação (10 eras) | RC-155 | associado | <-> | - |
+| Cinturão de Fótons | RC-573 | associado | <-> | - |
 
 ## Fontes
 | Obra (sigla) | Título | Página | Tipo |

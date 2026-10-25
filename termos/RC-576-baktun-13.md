@@ -24,10 +24,10 @@ Marco do calendário maia associado ao ano de 2012 e reinterpretado na palestra 
 Surge na crítica às leituras apocalípticas modernas das estelas maias e à perda do contexto tolteca.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Ano de 2012 como Divisor de Ciclos | RC-571 | associado-a |
-| Fim dos Tempos / Final de Ciclo × Fim do Mundo | RC-572 | relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Ano de 2012 como Divisor de Ciclos | RC-571 | associado | <-> | - |
+| Fim dos Tempos / Final de Ciclo × Fim do Mundo | RC-572 | relaciona-se-a | -> | - |
 
 ## Seres Associados
 —

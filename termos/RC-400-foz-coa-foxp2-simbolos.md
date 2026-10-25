@@ -26,17 +26,17 @@ Registro que associa o gene FOXP2 — vinculado na cosmologia de Ellam à emerg�
 - **[P2024-08-03] Proveniência:** palestra de Jan Val Ellam; transcrição STT pré-curada; devolutiva do curador registrada em 2026-08-20 (ficha autorizada).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Revelação Cósmica (conceito) | RC-094 | associado |
-| Seres Terrenos (Homo Sapiens) | RC-099 | associado |
-| Enki (Anunnaki; inoculou o gene FOXP2) | RC-486 | ← relaciona-se-a |
-| Semente da racionalidade (diferencial humano) | RC-525 | ← relaciona-se-a |
-| Evolução Possível (terceira via: nem Darwin, nem deus) | RC-541 | ← relaciona-se-a |
-| Xamanismo Cósmico (comunicação e deslacre) | RC-577 | ← relaciona-se-a |
-| Quarto Cérebro Humano | RC-614 | associado |
-| Genoma da Liberdade | RC-619 | ← relaciona-se-a |
-| Genes Críticos / Genes Dorminhocos | RC-710 | ← relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Revelação Cósmica (conceito) | RC-094 | associado | <-> | - |
+| Seres Terrenos (Homo Sapiens) | RC-099 | associado | <-> | - |
+| Enki (Anunnaki; inoculou o gene FOXP2) | RC-486 | relaciona-se-a | <- | - |
+| Semente da racionalidade (diferencial humano) | RC-525 | relaciona-se-a | <- | - |
+| Evolução Possível (terceira via: nem Darwin, nem deus) | RC-541 | relaciona-se-a | <- | - |
+| Xamanismo Cósmico (comunicação e deslacre) | RC-577 | relaciona-se-a | <- | - |
+| Quarto Cérebro Humano | RC-614 | associado | <-> | - |
+| Genoma da Liberdade | RC-619 | relaciona-se-a | <- | - |
+| Genes Críticos / Genes Dorminhocos | RC-710 | relaciona-se-a | <- | - |
 
 
 - Enki (Anunnaki; inoculou o gene FOXP2) — RC-486;

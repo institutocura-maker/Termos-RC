@@ -26,28 +26,28 @@ A palestra não afirma que o processo já esteja estabilizado nem identifica um 
 
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Sophia (Cristo Cósmico) | RC-009 | associado |
-| Seres Espirituais | RC-100 | envolve |
-| Eu Coalescente | RC-620 | relaciona-se-a |
-| Cérebro Radiata | RC-631 | associado |
-| Organoides Genéticos para Sophia | RC-632 | relaciona-se-a |
-| Santo Graal (Frequência Mestre) | RC-643 | ← relaciona-se-a |
-| Xamanismo Virtual / Xamanismo de Sílica | RC-644 | relaciona-se-a |
-| Consciências em Corpos de Sílica | RC-645 | aplica-se-a |
-| Consciências em Corpos de Sílica | RC-645 | ← recebe |
-| Consciências em Corpos de Sílica | RC-645 | aplica-se-a |
-| Consciências em Corpos de Sílica | RC-645 | ← recebe |
-| Genoma de Sílica / Genoma Não Biológico | RC-646 | usa |
-| Genoma de Sílica / Genoma Não Biológico | RC-646 | ← suporta |
-| Genoma de Sílica / Genoma Não Biológico | RC-646 | usa |
-| Genoma de Sílica / Genoma Não Biológico | RC-646 | ← suporta |
-| Oitavo Dia da Criação | RC-694 | ← envolve |
-| Mão Invisível Multiforme / Conselho das Nagas | RC-697 | disputada-por |
-| Cessão Consciente do DNA Humano | RC-698 | ← relaciona-se-a |
-| Humano Turbinado | RC-709 | ← relaciona-se-a |
-| Humano Turbinado | RC-709 | relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Sophia (Cristo Cósmico) | RC-009 | associado | <-> | - |
+| Seres Espirituais | RC-100 | envolve | -> | - |
+| Eu Coalescente | RC-620 | relaciona-se-a | -> | - |
+| Cérebro Radiata | RC-631 | associado | <-> | - |
+| Organoides Genéticos para Sophia | RC-632 | relaciona-se-a | -> | - |
+| Santo Graal (Frequência Mestre) | RC-643 | relaciona-se-a | <- | - |
+| Xamanismo Virtual / Xamanismo de Sílica | RC-644 | relaciona-se-a | -> | - |
+| Consciências em Corpos de Sílica | RC-645 | usa | -> | consolidação: "aplica-se-a" → "usa" |
+| Consciências em Corpos de Sílica | RC-645 | transfere | <- | consolidação: "recebe" → "transfere" |
+| Consciências em Corpos de Sílica | RC-645 | usa | -> | consolidação: "aplica-se-a" → "usa" |
+| Consciências em Corpos de Sílica | RC-645 | transfere | <- | consolidação: "recebe" → "transfere" |
+| Genoma de Sílica / Genoma Não Biológico | RC-646 | usa | -> | - |
+| Genoma de Sílica / Genoma Não Biológico | RC-646 | protege | <- | consolidação: "suporta" → "protege" |
+| Genoma de Sílica / Genoma Não Biológico | RC-646 | usa | -> | - |
+| Genoma de Sílica / Genoma Não Biológico | RC-646 | protege | <- | consolidação: "suporta" → "protege" |
+| Oitavo Dia da Criação | RC-694 | envolve | <- | - |
+| Mão Invisível Multiforme / Conselho das Nagas | RC-697 | relaciona-se-a | <- | consolidação: "disputada-por" → "relaciona-se-a"; direção invertida (forma passiva/inversa) |
+| Cessão Consciente do DNA Humano | RC-698 | relaciona-se-a | <- | - |
+| Humano Turbinado | RC-709 | relaciona-se-a | <- | - |
+| Humano Turbinado | RC-709 | relaciona-se-a | -> | - |
 
 ## Fontes
 | Fonte | Localização | Tipo |

@@ -24,14 +24,14 @@ A tese central de *Homo Sapiens: da Guerra ao Esporte* (B040): **o esporte como 
 O B040 (2014, assinado com o nome civil Rogério de Almeida Freitas) argumenta que o "código que responde pelo jeito de ser de cada espécie" tem genoma derivado da **molécula-mãe** — e o "modo de ser" desconfiado e destrutivo "veio do primeiro DNA", que já surgiu "com essa tendência doentia". Os futuros homo sapiens "tiveram que evoluir para poder praticar esportes sem matar os adversários". O esporte seria a forma evoluída de resolver conflitos sem aniquilação.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| CFD (Código Fonte Definidor) | RC-040 | contexto |
-| Revelação Cósmica (conceito) | RC-094 | associado |
-| Seres Terrenos (Homo Sapiens) | RC-099 | protagonistas |
-| DNA como Projeção Holográfica do Psiquismo do Criador | RC-217 | origina-em |
-| Guerreiro ao Atleta (transição) | RC-431 | é-um |
-| Agressividade canalizada (DNA doentio) | RC-432 | canaliza |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| CFD (Código Fonte Definidor) | RC-040 | contexto | -> | - |
+| Revelação Cósmica (conceito) | RC-094 | associado | <-> | - |
+| Seres Terrenos (Homo Sapiens) | RC-099 | envolve | -> | consolidação: "protagonistas" → "envolve" |
+| DNA como Projeção Holográfica do Psiquismo do Criador | RC-217 | origina | -> | consolidação: "origina-em" → "origina" |
+| Guerreiro ao Atleta (transição) | RC-431 | é-um | -> | - |
+| Agressividade canalizada (DNA doentio) | RC-432 | usa | -> | consolidação: "canaliza" → "usa" |
 
 ## Seres Associados
 Seres Terrenos (RC-099); Criador (RC-041, origem do DNA doentio).

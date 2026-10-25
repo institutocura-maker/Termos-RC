@@ -27,11 +27,11 @@ Figura da mitologia grega relida pelas Revelações Cósmicas como produto de ma
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Descendência de Pirra (Pirra e Deucalião) | RC-298 | parte-de |
-| Prometeu (titã) | RC-301 | associado |
-| Pirra | RC-303 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Descendência de Pirra (Pirra e Deucalião) | RC-298 | parte-de | -> | - |
+| Prometeu (titã) | RC-301 | associado | <-> | - |
+| Pirra | RC-303 | associado | <-> | - |
 
 ## Fontes
 

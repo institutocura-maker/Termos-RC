@@ -24,12 +24,12 @@ Figura do Avesta associada à construção de abrigos subterrâneos destinados a
 A palestra cita Yima ao tratar das eras e de cidades subterrâneas na região da atual Turquia.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Ciclo de Precessão Equinocial (Precessão dos Equinócios) | RC-567 | relaciona-se-a |
-| Eras Equinociais (ciclos de aproximadamente 5.200 anos) | RC-568 | relaciona-se-a |
-| Avesta | RC-595 | tema-de |
-| Avesta | RC-595 | ← inclui |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Ciclo de Precessão Equinocial (Precessão dos Equinócios) | RC-567 | relaciona-se-a | -> | - |
+| Eras Equinociais (ciclos de aproximadamente 5.200 anos) | RC-568 | relaciona-se-a | -> | - |
+| Avesta | RC-595 | contexto | -> | consolidação: "tema-de" → "contexto" |
+| Avesta | RC-595 | inclui | <- | - |
 
 ## Seres Associados
 —

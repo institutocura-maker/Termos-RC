@@ -25,51 +25,51 @@ atualizado = "2026-10-22"
 Prabrajna é central para o capítulo 3 (Gunas): sua energia Rajásica criou os quarks e, em vibração com "distúrbio", os elétrons. Ele "caiu" e ficou "refém" da sua energia Rajas, tornando-se Brahma/Javé na Criação "indevida". Os "agentes da vida" do nível da Espiritualidade Laboratorial (Perpérion) trabalhavam **para libertar Prabrajna, que havia "caído"** (cap. 15).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Adhyatman | RC-013 | condição espiritual |
-| Brahma (Brajna) | RC-037 | ← variação |
-| Criador (Brahma/Javé/Demiurgo) | RC-041 | é-um |
-| Perpérion | RC-087 | ← relaciona-se-a |
-| Perpérion | RC-087 | ← abriga |
-| Revelação Cósmica (conceito) | RC-094 | associado |
-| Shiva (Savna) | RC-102 | ← variação |
-| Vishnu (Mavatna) | RC-135 | ← variação |
-| Xadrez Cósmico | RC-150 | iniciador |
-| Gunas Criadoras (Sattva, Rajas, Tamas) | RC-151 | energia Rajas |
-| Era da Solidão | RC-156 | associado |
-| Criação Indevida (Obra indevida) | RC-167 | inicia |
-| Criação Indevida (Obra indevida) | RC-167 | relaciona-se-a |
-| Criação Indevida (Obra indevida) | RC-167 | ← relaciona-se-a |
-| Criação Indevida (Obra indevida) | RC-167 | relaciona-se-a |
-| Arquiteto Universal | RC-207 | associado |
-| Adhyshprabrajna (Adhy que caiu) | RC-310 | ← variação |
-| Fragmentação do Poder Mental da Divindade | RC-387 | associado |
-| ADHYPRABRAJNA (grafia do diagrama) | RC-410 | associado |
-| Pashvnaj (espécie de 43 seres do Gênero Adhy) | RC-455 | ← relaciona-se-a |
-| Ein Sof (Prabrajna na Cabala) | RC-468 | ← sinônimo |
-| Ialdabaoth (= Javé/Samael/Saklas/Sabaoth) | RC-482 | associado |
-| Adyabradagna / Adabradagna (= Brahma/Javé) | RC-505 | ← variação |
-| Acidente cosmogônico (queda de Prabrajna) | RC-515 | associado |
-| Mergulho (designação ellâmica da queda) | RC-528 | associado |
-| Pistis Sophia (feminino cósmico gnóstico) | RC-530 | ← relaciona-se-a |
-| Pistis Sophia (feminino cósmico gnóstico) | RC-530 | relaciona-se-a |
-| Pistis Sophia (feminino cósmico gnóstico) | RC-530 | ← relaciona-se-a |
-| Teia quântica (o que sai de um ser volta para ele) | RC-559 | relaciona-se-a |
-| Fatiamento de Consciência | RC-604 | ← relaciona-se-a |
-| Fatiamento de Consciência | RC-604 | relaciona-se-a |
-| Simultaneidade Reversa | RC-628 | ← vincula |
-| Reunião Operativa Mental dos 43 Pashvnaj | RC-629 | ← envolve |
-| Ressurreição do Cadáver do Criador | RC-638 | ← reconstrói |
-| Ishvara (Isuara — Retrato de Prabrajna Antes da Queda) | RC-691 | ← retrata-antes-da-queda |
-| Ishvara (Isuara — Retrato de Prabrajna Antes da Queda) | RC-691 | retratado-em |
-| Ishvara (Isuara — Retrato de Prabrajna Antes da Queda) | RC-691 | ← relaciona-se-a |
-| Primado da Informação | RC-707 | ← relaciona-se-a |
-| Buraco Negro Mental / Consciencial | RC-717 | ← relaciona-se-a |
-| Hipóstase dos Arcontes (livro gnóstico; 'realidade dos regentes') | RC-770 | ← relaciona-se-a |
-| Eru Ilúvatar (criador no Silmarillion) | RC-843 | associado |
-| Nada Brahma (tudo é som) | RC-845 | associado |
-| Campo de Higgs (o campo de força mental de Mavatma que definiu o limite velocidade-da-luz) | RC-886 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Adhyatman | RC-013 | relaciona-se-a | -> | texto bruto original: condição espiritual |
+| Brahma (Brajna) | RC-037 | variação | <- | - |
+| Criador (Brahma/Javé/Demiurgo) | RC-041 | é-um | -> | - |
+| Perpérion | RC-087 | relaciona-se-a | <- | - |
+| Perpérion | RC-087 | contexto | <- | consolidação: "abriga" → "contexto" |
+| Revelação Cósmica (conceito) | RC-094 | associado | <-> | - |
+| Shiva (Savna) | RC-102 | variação | <- | - |
+| Vishnu (Mavatna) | RC-135 | variação | <- | - |
+| Xadrez Cósmico | RC-150 | origina | -> | consolidação: "iniciador" → "origina" |
+| Gunas Criadoras (Sattva, Rajas, Tamas) | RC-151 | relaciona-se-a | -> | texto bruto original: energia Rajas |
+| Era da Solidão | RC-156 | associado | <-> | - |
+| Criação Indevida (Obra indevida) | RC-167 | precede | -> | consolidação: "inicia" → "precede" |
+| Criação Indevida (Obra indevida) | RC-167 | relaciona-se-a | -> | - |
+| Criação Indevida (Obra indevida) | RC-167 | relaciona-se-a | <- | - |
+| Criação Indevida (Obra indevida) | RC-167 | relaciona-se-a | -> | - |
+| Arquiteto Universal | RC-207 | associado | <-> | - |
+| Adhyshprabrajna (Adhy que caiu) | RC-310 | variação | <- | - |
+| Fragmentação do Poder Mental da Divindade | RC-387 | associado | <-> | - |
+| ADHYPRABRAJNA (grafia do diagrama) | RC-410 | associado | <-> | - |
+| Pashvnaj (espécie de 43 seres do Gênero Adhy) | RC-455 | relaciona-se-a | <- | - |
+| Ein Sof (Prabrajna na Cabala) | RC-468 | variação | <- | consolidação: "sinônimo" → "variação" |
+| Ialdabaoth (= Javé/Samael/Saklas/Sabaoth) | RC-482 | associado | <-> | - |
+| Adyabradagna / Adabradagna (= Brahma/Javé) | RC-505 | variação | <- | - |
+| Acidente cosmogônico (queda de Prabrajna) | RC-515 | associado | <-> | - |
+| Mergulho (designação ellâmica da queda) | RC-528 | associado | <-> | - |
+| Pistis Sophia (feminino cósmico gnóstico) | RC-530 | relaciona-se-a | <- | - |
+| Pistis Sophia (feminino cósmico gnóstico) | RC-530 | relaciona-se-a | -> | - |
+| Pistis Sophia (feminino cósmico gnóstico) | RC-530 | relaciona-se-a | <- | - |
+| Teia quântica (o que sai de um ser volta para ele) | RC-559 | relaciona-se-a | -> | - |
+| Fatiamento de Consciência | RC-604 | relaciona-se-a | <- | - |
+| Fatiamento de Consciência | RC-604 | relaciona-se-a | -> | - |
+| Simultaneidade Reversa | RC-628 | associado | <-> | consolidação: "vincula" → "associado" |
+| Reunião Operativa Mental dos 43 Pashvnaj | RC-629 | envolve | <- | - |
+| Ressurreição do Cadáver do Criador | RC-638 | relaciona-se-a | <- | consolidação: "reconstrói" → "relaciona-se-a" |
+| Ishvara (Isuara — Retrato de Prabrajna Antes da Queda) | RC-691 | representa | <- | consolidação: "retrata-antes-da-queda" → "representa" |
+| Ishvara (Isuara — Retrato de Prabrajna Antes da Queda) | RC-691 | contexto | -> | consolidação: "retratado-em" → "contexto" |
+| Ishvara (Isuara — Retrato de Prabrajna Antes da Queda) | RC-691 | relaciona-se-a | <- | - |
+| Primado da Informação | RC-707 | relaciona-se-a | <- | - |
+| Buraco Negro Mental / Consciencial | RC-717 | relaciona-se-a | <- | - |
+| Hipóstase dos Arcontes (livro gnóstico; 'realidade dos regentes') | RC-770 | relaciona-se-a | <- | - |
+| Eru Ilúvatar (criador no Silmarillion) | RC-843 | associado | <-> | - |
+| Nada Brahma (tudo é som) | RC-845 | associado | <-> | - |
+| Campo de Higgs (o campo de força mental de Mavatma que definiu o limite velocidade-da-luz) | RC-886 | associado | <-> | - |
 
 ## Seres Associados
 Brahma/Javé (RC-037/RC-001); Mavatna (RC-135); Savna (RC-102).

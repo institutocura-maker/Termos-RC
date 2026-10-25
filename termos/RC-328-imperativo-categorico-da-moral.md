@@ -24,19 +24,19 @@ O **imperativo categórico da moral ou da espiritualização** — a constataç�
 O imperativo categórico marca a mudança provocada pelo modo humano de existir: "o modo humano de existir provocou uma mudança na maneira de como as leis ditas científicas, desta Criação, passaram a atuar no seu contexto quântico". A origem da vida biológica racionalizada "começou a 'cobrar' das organizações complexas pluricelulares... o que, na cultura demo e também na humana, passou a ser entendido como 'karma', advindo do não cumprimento do dharma".
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Revelação Cósmica (conceito) | RC-094 | associado |
-| Seres Terrenos (Homo Sapiens) | RC-099 | surge-em |
-| O Mal: Subproduto da Ignorância Espiritual | RC-223 | freia |
-| Razão Filosófica dos Terráqueos | RC-231 | surge-em |
-| Liberdade Mental (premissa do Quarto Logos) | RC-253 | relaciona-se-a |
-| Fator Dharma | RC-319 | desdobramento |
-| Eu Coalescente | RC-620 | associado |
-| Verdade Posta × Verdade a Construir | RC-657 | associado |
-| Ato de Verdade / Satyagraha | RC-705 | ← relaciona-se-a |
-| Sócios do Destino / Ausência de Justiça Externa | RC-720 | ← relaciona-se-a |
-| Dignidade como Critério de Consciência | RC-722 | ← relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Revelação Cósmica (conceito) | RC-094 | associado | <-> | - |
+| Seres Terrenos (Homo Sapiens) | RC-099 | contexto | -> | consolidação: "surge-em" → "contexto" |
+| O Mal: Subproduto da Ignorância Espiritual | RC-223 | danifica | -> | consolidação: "freia" → "danifica" |
+| Razão Filosófica dos Terráqueos | RC-231 | contexto | -> | consolidação: "surge-em" → "contexto" |
+| Liberdade Mental (premissa do Quarto Logos) | RC-253 | relaciona-se-a | -> | - |
+| Fator Dharma | RC-319 | sucede | -> | consolidação: "desdobramento" → "sucede" |
+| Eu Coalescente | RC-620 | associado | <-> | - |
+| Verdade Posta × Verdade a Construir | RC-657 | associado | <-> | - |
+| Ato de Verdade / Satyagraha | RC-705 | relaciona-se-a | <- | - |
+| Sócios do Destino / Ausência de Justiça Externa | RC-720 | relaciona-se-a | <- | - |
+| Dignidade como Critério de Consciência | RC-722 | relaciona-se-a | <- | - |
 
 ## Seres Associados
 Seres Terrenos (RC-099); Trimurti (RC-104); demos (RC-049).

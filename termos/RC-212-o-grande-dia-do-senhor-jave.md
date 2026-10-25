@@ -27,11 +27,11 @@ Na B001, o «algo inquestionável» que romperá a situação de ocultamento da 
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | associado |
-| Segundo Advento do Cristo (Volta de Jesus) | RC-005 | associado |
-| Sophia (Cristo Cósmico) | RC-009 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Javé | RC-001 | associado | <-> | - |
+| Segundo Advento do Cristo (Volta de Jesus) | RC-005 | associado | <-> | - |
+| Sophia (Cristo Cósmico) | RC-009 | associado | <-> | - |
 
 ## Fontes
 

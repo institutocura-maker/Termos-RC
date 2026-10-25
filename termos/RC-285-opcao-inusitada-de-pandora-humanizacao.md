@@ -24,17 +24,17 @@ O momento em que Pandora **decidiu se humanizar de vez**, usando "a opção ment
 A Opção Inusitada é o eixo do B020: criada pelos deuses como "demônio feito mulher" (armadilha para a humanidade), Pandora contrariou as expectativas — "Aos poucos, ela mesma foi quem construiu o seu psiquismo de primeira mulher-humana, contrariando por completo as expectativas dos deuses do Olimpo". O capítulo 6 narra o momento da escolha; o capítulo 7 ("Enfim, um Sorriso") mostra o desfecho. Sua humanização permitiu o "deslacre mental" dos humanos (paralelo ao deslacre de Yel Luzbel).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Pandora | RC-086 | sujeito |
-| Val Dimon | RC-118 | identidade anterior |
-| Trava-demo | RC-184 | rompe |
-| Éden do Criador (Éden como laboratório) | RC-242 | contexto posterior |
-| Pandora como Serpente do Éden | RC-283 | desdobramento |
-| Hefesto | RC-307 | associado |
-| Momento Zero de Pandora | RC-779 | associado |
-| Sequência Formativa da Racionalidade Humana | RC-785 | associado |
-| Desvio de Rota de Pandora (Contra o Plano de Zeus) | RC-806 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Pandora | RC-086 | relaciona-se-a | -> | consolidação: "sujeito" → "relaciona-se-a" |
+| Val Dimon | RC-118 | relaciona-se-a | -> | texto bruto original: identidade anterior |
+| Trava-demo | RC-184 | danifica | -> | consolidação: "rompe" → "danifica" |
+| Éden do Criador (Éden como laboratório) | RC-242 | relaciona-se-a | -> | texto bruto original: contexto posterior |
+| Pandora como Serpente do Éden | RC-283 | sucede | -> | consolidação: "desdobramento" → "sucede" |
+| Hefesto | RC-307 | associado | <-> | - |
+| Momento Zero de Pandora | RC-779 | associado | <-> | - |
+| Sequência Formativa da Racionalidade Humana | RC-785 | associado | <-> | - |
+| Desvio de Rota de Pandora (Contra o Plano de Zeus) | RC-806 | associado | <-> | - |
 
 ## Seres Associados
 Pandora (RC-086); Hefesto (deus que deixou a "opção mental"); Zeus (RC-145); Epimeteu (RC-289).

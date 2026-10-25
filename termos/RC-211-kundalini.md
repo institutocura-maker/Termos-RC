@@ -27,11 +27,11 @@ Na leitura das Revelações Cósmicas, o «potencial sagrado da energia espiritu
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Mônada (Mônada Espiritual) | RC-149 | associado |
-| Matriz Modeladora / Matriz de Cocriação | RC-210 | associado |
-| Yoga Ancestral (Origem Cósmica) | RC-670 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Mônada (Mônada Espiritual) | RC-149 | associado | <-> | - |
+| Matriz Modeladora / Matriz de Cocriação | RC-210 | associado | <-> | - |
+| Yoga Ancestral (Origem Cósmica) | RC-670 | associado | <-> | - |
 
 ## Ampliação — STT26-SOCIEDADE_CONTEMPORANEA (Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados))
 

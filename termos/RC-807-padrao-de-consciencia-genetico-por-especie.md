@@ -24,14 +24,14 @@ Tese (leitura do autor, palestra **P2017-05-14**, U0001) de que **cada espécie 
 Aparece em **P2017-05-14**, U0001 (abertura). Contexto: o autor abre a palestra explicando o conceito de "padrão de consciência" por espécie como base para entender o "desvio" de Pandora — que **rompe o lacre** da programação.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Pandora | RC-086 | rompeu-lacre-de |
-| Seres Terrenos (Homo Sapiens) | RC-099 | é-padrão-de |
-| Lavagem Cerebral (condicionamento) | RC-335 | é-programação-de |
-| DNA Insubmisso / Linhagem Pandora–Eva–Noreia | RC-727 | paralelo-com |
-| Desvio de Rota de Pandora (Contra o Plano de Zeus) | RC-806 | manifesta-se-via |
-| Código Genético como Marca da Herança Demoníaca | RC-825 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Pandora | RC-086 | danifica | -> | consolidação: "rompeu-lacre-de" → "danifica" |
+| Seres Terrenos (Homo Sapiens) | RC-099 | variação | -> | consolidação: "é-padrão-de" → "variação" |
+| Lavagem Cerebral (condicionamento) | RC-335 | usa | -> | consolidação: "é-programação-de" → "usa" |
+| DNA Insubmisso / Linhagem Pandora–Eva–Noreia | RC-727 | associado | <-> | consolidação: "paralelo-com" → "associado" |
+| Desvio de Rota de Pandora (Contra o Plano de Zeus) | RC-806 | representa | -> | consolidação: "manifesta-se-via" → "representa" |
+| Código Genético como Marca da Herança Demoníaca | RC-825 | associado | <-> | - |
 
 ## Seres Associados
 - **Todas as espécies biológicas** (leões, elefantes, macacos, vermes intestinais, etc.) — cada uma com seu padrão

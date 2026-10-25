@@ -24,22 +24,22 @@ O nível mais alto dos três em que a Revelação Cósmica divide a realidade n�
 A Espiritualidade Superior é o «lado de fora» do universo: o que não é acidente, não caiu e não precisa de conserto. É dela que partem as mônadas que estruturam os seres da criação caída — «a Espiritualidade Superior, vendo o drama do Criador caído, deu de si mônadas para estruturar os clones que Brahma criava». A Departamentalização da Vida (RC-601) e os corpos búdico (RC-060) e manásico (RC-061) são desdobramentos experimentais a partir deste nível. Distingue-se do Deus Incognoscível / Deidade (RC-052), que não é um nível e sim a Fonte.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Adhyagia | RC-012 | associado |
-| Deidade (Pai-Mãe Amantíssimo / Brahman) | RC-047 | associado |
-| Deus / Deus Incognoscível | RC-052 | associado |
-| Espiritualidade Operacional | RC-060 | associado |
-| Seres Espirituais | RC-100 | associado |
-| Realidade Maior / Paraíso Original | RC-204 | associado |
-| Agente do Mais Alto | RC-214 | associado |
-| Emissários da Espiritualidade Maior | RC-215 | associado |
-| Planos de Existência da Cabala (Atziluth, Briah, Yetzirah, Assiah) | RC-264 | ← inclui |
-| Confederações de Mundos | RC-357 | ← subordinada-a |
-| Sentido Gradualístico das Leis da Evolução Cósmica | RC-404 | associado |
-| Colapso da Matriz Quântica (3 níveis) | RC-415 | ← inclui |
-| Departamentalização da Vida | RC-601 | ← envolve |
-| Corpo Átmico | RC-623 | associada-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Adhyagia | RC-012 | associado | <-> | - |
+| Deidade (Pai-Mãe Amantíssimo / Brahman) | RC-047 | associado | <-> | - |
+| Deus / Deus Incognoscível | RC-052 | associado | <-> | - |
+| Espiritualidade Operacional | RC-060 | associado | <-> | - |
+| Seres Espirituais | RC-100 | associado | <-> | - |
+| Realidade Maior / Paraíso Original | RC-204 | associado | <-> | - |
+| Agente do Mais Alto | RC-214 | associado | <-> | - |
+| Emissários da Espiritualidade Maior | RC-215 | associado | <-> | - |
+| Planos de Existência da Cabala (Atziluth, Briah, Yetzirah, Assiah) | RC-264 | inclui | <- | - |
+| Confederações de Mundos | RC-357 | requer | <- | consolidação: "subordinada-a" → "requer" |
+| Sentido Gradualístico das Leis da Evolução Cósmica | RC-404 | associado | <-> | - |
+| Colapso da Matriz Quântica (3 níveis) | RC-415 | inclui | <- | - |
+| Departamentalização da Vida | RC-601 | envolve | <- | - |
+| Corpo Átmico | RC-623 | associado | <-> | raiz semântica associado (decisão 3) |
 
 - RC-052 — ver ficha correspondente
 - RC-012 — ver ficha correspondente

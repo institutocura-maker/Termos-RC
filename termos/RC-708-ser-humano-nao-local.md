@@ -22,30 +22,30 @@ O termo não se refere a deslocamento físico instantâneo, mas a atuação do e
 
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Memória Quântica dos Elétrons | RC-161 | envolve |
-| Memória Quântica dos Elétrons | RC-161 | envolve |
-| Memória Quântica dos Elétrons | RC-161 | relaciona-se-a |
-| Memória Quântica dos Elétrons | RC-161 | ← relaciona-se-a |
-| Holograma Universal | RC-218 | associado |
-| Assessoria Cósmica (equipes espirituais de Jesus) | RC-368 | relaciona-se-a |
-| O Ser Humano Emancipado | RC-372 | é-um |
-| Terminal Nervoso do Criador (humano) | RC-418 | aplica-se-a |
-| Protagonismo consciencial | RC-509 | realiza |
-| Coleta de informações (espírito encarnado) | RC-524 | associado |
-| Ressonância límbica (emoções como tecnologia cósmica) | RC-529 | relaciona-se-a |
-| Ressonância límbica (emoções como tecnologia cósmica) | RC-529 | ← sustenta-ponte-não-local |
-| Eu Profundo (nível espiritual do Eu) | RC-553 | associado |
-| Sensação de eu (a sensação particular a cada instante) | RC-558 | associado |
-| Teia quântica (o que sai de um ser volta para ele) | RC-559 | atua-em |
-| Teia quântica (o que sai de um ser volta para ele) | RC-559 | relaciona-se-a |
-| Duas Pulsações da Criação (elétrons e antielétrons) | RC-636 | relaciona-se-a |
-| Humanos: Últimos e Primeiros | RC-654 | aplica-se-a |
-| Camuflagem da Realidade | RC-702 | atravessa |
-| Primado da Informação | RC-707 | ← relaciona-se-a |
-| Primado da Informação | RC-707 | usa |
-| Estrangulamento Cognitivo / Neural | RC-753 | ← relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Memória Quântica dos Elétrons | RC-161 | envolve | -> | - |
+| Memória Quântica dos Elétrons | RC-161 | envolve | -> | - |
+| Memória Quântica dos Elétrons | RC-161 | relaciona-se-a | -> | - |
+| Memória Quântica dos Elétrons | RC-161 | relaciona-se-a | <- | - |
+| Holograma Universal | RC-218 | associado | <-> | - |
+| Assessoria Cósmica (equipes espirituais de Jesus) | RC-368 | relaciona-se-a | -> | - |
+| O Ser Humano Emancipado | RC-372 | é-um | -> | - |
+| Terminal Nervoso do Criador (humano) | RC-418 | usa | -> | consolidação: "aplica-se-a" → "usa" |
+| Protagonismo consciencial | RC-509 | usa | -> | consolidação: "realiza" → "usa" |
+| Coleta de informações (espírito encarnado) | RC-524 | associado | <-> | - |
+| Ressonância límbica (emoções como tecnologia cósmica) | RC-529 | relaciona-se-a | -> | - |
+| Ressonância límbica (emoções como tecnologia cósmica) | RC-529 | protege | <- | consolidação: "sustenta-ponte-não-local" → "protege" |
+| Eu Profundo (nível espiritual do Eu) | RC-553 | associado | <-> | - |
+| Sensação de eu (a sensação particular a cada instante) | RC-558 | associado | <-> | - |
+| Teia quântica (o que sai de um ser volta para ele) | RC-559 | contexto | -> | consolidação: "atua-em" → "contexto" |
+| Teia quântica (o que sai de um ser volta para ele) | RC-559 | relaciona-se-a | -> | - |
+| Duas Pulsações da Criação (elétrons e antielétrons) | RC-636 | relaciona-se-a | -> | - |
+| Humanos: Últimos e Primeiros | RC-654 | usa | -> | consolidação: "aplica-se-a" → "usa" |
+| Camuflagem da Realidade | RC-702 | contexto | -> | consolidação: "atravessa" → "contexto" |
+| Primado da Informação | RC-707 | relaciona-se-a | <- | - |
+| Primado da Informação | RC-707 | usa | -> | - |
+| Estrangulamento Cognitivo / Neural | RC-753 | relaciona-se-a | <- | - |
 
 ## Fontes
 | Fonte | Localização | Tipo |

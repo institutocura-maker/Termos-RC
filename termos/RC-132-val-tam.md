@@ -20,13 +20,13 @@ Ser vinculado à Frota Norte e ao Conselho dos Cinco (RC-501); na leitura da RC,
 - **ficha física materializada** por autorização da Devolutiva ART-2025-08-01 (O-2 — a devolutiva lista RC-132 explicitamente), a partir da conexão inédita trazida pelo material do curador.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Alt´Lam Gron | RC-018 | associado |
-| Val (Família Val) | RC-109 | associado |
-| Conselho dos Cinco (comando da Frota Norte: 3 Val + 2 Yel) | RC-501 | relaciona-se-a |
-| Fornos Replicadores (naves/estações de semeadura de vida do Projeto Talm; Awayen, Awaylengan e Awaymaion) | RC-771 | ← relaciona-se-a |
-| Forno de Awayen (forno de Brahma/Javé → Central de Realidades) | RC-836 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Alt´Lam Gron | RC-018 | associado | <-> | - |
+| Val (Família Val) | RC-109 | associado | <-> | - |
+| Conselho dos Cinco (comando da Frota Norte: 3 Val + 2 Yel) | RC-501 | relaciona-se-a | -> | - |
+| Fornos Replicadores (naves/estações de semeadura de vida do Projeto Talm; Awayen, Awaylengan e Awaymaion) | RC-771 | relaciona-se-a | <- | - |
+| Forno de Awayen (forno de Brahma/Javé → Central de Realidades) | RC-836 | associado | <-> | - |
 
 ## Seres Associados
 Val Aten (RC-502), Frota Norte (RC-065), Val-Ha (RC-109), Fornos Replicadores (RC-771).

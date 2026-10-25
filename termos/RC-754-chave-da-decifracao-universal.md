@@ -27,15 +27,15 @@ Tema-título da palestra de 14/06/2025: a **finalidade/propósito evolutivo** da
 - Pitágoras ("os humanos podem discernir o erro e descobrir a verdade") e Protágoras ("o homem é a medida de todas as coisas") como anunciadores.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Revelação Cósmica (conceito) | RC-094 | relaciona-se-a |
-| Decifra-me ou Devoro (hábito demo) | RC-316 | relaciona-se-a |
-| Ciência Pessoal / Doutrina da Própria Personalidade | RC-695 | relaciona-se-a |
-| Estrangulamento Cognitivo / Neural | RC-753 | ← relaciona-se-a |
-| Estrangulamento Cognitivo / Neural | RC-753 | relaciona-se-a |
-| Escola da Decifração da Realidade (Método Druídico) | RC-755 | relaciona-se-a |
-| Escola da Decifração da Realidade (Método Druídico) | RC-755 | ← relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Revelação Cósmica (conceito) | RC-094 | relaciona-se-a | -> | - |
+| Decifra-me ou Devoro (hábito demo) | RC-316 | relaciona-se-a | -> | - |
+| Ciência Pessoal / Doutrina da Própria Personalidade | RC-695 | relaciona-se-a | -> | - |
+| Estrangulamento Cognitivo / Neural | RC-753 | relaciona-se-a | <- | - |
+| Estrangulamento Cognitivo / Neural | RC-753 | relaciona-se-a | -> | - |
+| Escola da Decifração da Realidade (Método Druídico) | RC-755 | relaciona-se-a | -> | - |
+| Escola da Decifração da Realidade (Método Druídico) | RC-755 | relaciona-se-a | <- | - |
 
 ## Ampliação — STT26-SOCIEDADE_CONTEMPORANEA (Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados))
 

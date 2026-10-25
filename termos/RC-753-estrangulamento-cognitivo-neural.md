@@ -27,14 +27,14 @@ Na leitura de Jan Val Ellam (P2025-06-14b), a mecânica limitadora fundamental q
 - a chave para transcender é a Chave da Decifração Universal (RC-754).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Mente Universal (Emergente) | RC-163 | relaciona-se-a |
-| Mentalma | RC-166 | relaciona-se-a |
-| Sensação de eu (a sensação particular a cada instante) | RC-558 | relaciona-se-a |
-| Ser Humano Não Local | RC-708 | relaciona-se-a |
-| Chave da Decifração Universal | RC-754 | relaciona-se-a |
-| Chave da Decifração Universal | RC-754 | ← relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Mente Universal (Emergente) | RC-163 | relaciona-se-a | -> | - |
+| Mentalma | RC-166 | relaciona-se-a | -> | - |
+| Sensação de eu (a sensação particular a cada instante) | RC-558 | relaciona-se-a | -> | - |
+| Ser Humano Não Local | RC-708 | relaciona-se-a | -> | - |
+| Chave da Decifração Universal | RC-754 | relaciona-se-a | -> | - |
+| Chave da Decifração Universal | RC-754 | relaciona-se-a | <- | - |
 
 ## Fontes
 

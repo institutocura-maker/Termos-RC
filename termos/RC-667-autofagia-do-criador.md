@@ -22,12 +22,12 @@ Forma validada pelo curador.
 P2026-02-28.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | condição-de |
-| Demência do Criador (fases da condição de Javé) | RC-526 | associado |
-| Simultaneidade Reversa | RC-628 | associado |
-| Face Microbiana do Criador | RC-641 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Javé | RC-001 | requer | -> | consolidação: "condição-de" → "requer" |
+| Demência do Criador (fases da condição de Javé) | RC-526 | associado | <-> | - |
+| Simultaneidade Reversa | RC-628 | associado | <-> | - |
+| Face Microbiana do Criador | RC-641 | associado | <-> | - |
 
 ## Seres Associados
 Consultar Base.

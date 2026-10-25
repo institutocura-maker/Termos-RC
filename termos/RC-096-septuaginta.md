@@ -29,12 +29,12 @@ Com isso:
 **Origem do conteúdo da ampliação:** palestra `P2025-05-10 — Mistérios do Apocalipse` (10/05/2025). Transcrição automatizada, **não conferida com o áudio**; cada aspa foi recortada do `original.txt` pelo índice de âncoras do motor e conferida byte a byte pelo portão B. Nada foi digitado de memória.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Nephilins | RC-082 | **sem aresta** em `RELACOES`; **sem arquivo** |
-| Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | **sem aresta** em `RELACOES`; arquivo existe |
-| A Falsa Trindade (Concílio de Niceia) | RC-273 | relaciona-se-a |
-| Torá / Pentateuco | RC-683 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Nephilins | RC-082 | - | - | sem aresta em RELACOES; sem arquivo |
+| Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | - | - | sem aresta em RELACOES; arquivo existe |
+| A Falsa Trindade (Concílio de Niceia) | RC-273 | relaciona-se-a | -> | - |
+| Torá / Pentateuco | RC-683 | associado | <-> | - |
 
 ## Fontes
 | Obra (sigla) | Título | Página | Tipo |

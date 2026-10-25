@@ -25,20 +25,20 @@ atualizado = "2026-08-29"
 O livro (18 capítulos) percorre: as teorias da evolução, o "Jogo das Mutações", o desenvolvimento cerebral dos primatas, o "acaso inteligente", Goswami e o "Primado da Consciência Criativa", a "Evolução Criativa", o Ex-DNA-lixo, o epigenoma como "Espelho da Herança Espiritual", e a "Criatura Universal". A síntese: o Homo sapiens atual seria um "protótipo" da futura Criatura Universal, e a evolução possível dependeria da atitude mental de cada ser.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Criatura Universal | RC-042 | relaciona-se-a |
-| Revelação Cósmica (conceito) | RC-094 | relaciona-se-a |
-| Foz Côa / FOXP2 (símbolos) | RC-400 | relaciona-se-a |
-| Consórcio de Mundos (Arquitetos Universais) | RC-538 | associado |
-| Arquitetos Universais (coletivo cocriador) | RC-539 | associado |
-| Molécula-mãe (ancestral comum da vida terrestre) | RC-540 | relaciona-se-a |
-| Novo Homo sapiens (evolução que terá de vir) | RC-544 | associado |
-| Primado da Consciência Criativa (Goswami) | RC-546 | ← relaciona-se-a |
-| Evolução Criativa (hipótese consciencial) | RC-547 | associado |
-| Evolução da Informação, não das Espécies | RC-693 | ← relaciona-se-a |
-| Genótipo da Gentileza (GG) | RC-748 | associado |
-| As Cinco Lentes da Realidade | RC-761 | ← relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Criatura Universal | RC-042 | relaciona-se-a | -> | - |
+| Revelação Cósmica (conceito) | RC-094 | relaciona-se-a | -> | - |
+| Foz Côa / FOXP2 (símbolos) | RC-400 | relaciona-se-a | -> | - |
+| Consórcio de Mundos (Arquitetos Universais) | RC-538 | associado | <-> | - |
+| Arquitetos Universais (coletivo cocriador) | RC-539 | associado | <-> | - |
+| Molécula-mãe (ancestral comum da vida terrestre) | RC-540 | relaciona-se-a | -> | - |
+| Novo Homo sapiens (evolução que terá de vir) | RC-544 | associado | <-> | - |
+| Primado da Consciência Criativa (Goswami) | RC-546 | relaciona-se-a | <- | - |
+| Evolução Criativa (hipótese consciencial) | RC-547 | associado | <-> | - |
+| Evolução da Informação, não das Espécies | RC-693 | relaciona-se-a | <- | - |
+| Genótipo da Gentileza (GG) | RC-748 | associado | <-> | - |
+| As Cinco Lentes da Realidade | RC-761 | relaciona-se-a | <- | - |
 
 ## Citações-chave
 > "Alguns vão continuar no aspecto biológico, ainda que com muitas modificações, outros ostentarão a “inteligência artificial” como meio de expressão, e existirão aqueles que constituirão uma espécie biônica, meio carne, meio computador, ou algo similar. Desse modo, todas as épocas, com suas gerações, têm lá as suas próprias suposições, crenças e certezas. O conjunto dessas “supostas certezas” impõem os limites de cada momento histórico. A evolução mental e espiritual que é possível a cada época — sim, existe a evolução biológica, a tecnológica e a espiritual, todas elas demarcando a “evolução possível” —, sempre aconteceu de maneira extremamente lenta, tão ou mais devagar que o progresso humano ocorrido ao longo dos milênios. Contudo, premidos e pressionados pelos problemas ambientais que ainda começarão, as elites deste mundo implementarão um vertiginoso programa de “escape” e de “semeadura” da nossa espécie aonde for possível. Ray Kurzweil 3 , no seu livro “A Era das Máquinas Espirituais” , referindo-se a um problema com que esta humanidade ainda terá que se defrontar — ou seja, a questão da “inteligência artificial” no futuro planetário —, questiona se seria possível “uma inteligência criar outra inteligência mais inteligente do que ela própria?”." — B019

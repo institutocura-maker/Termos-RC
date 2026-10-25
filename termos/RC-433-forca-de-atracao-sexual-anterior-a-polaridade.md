@@ -24,17 +24,17 @@ A revelação central de *Homoafetividade: O Segredo Perdido do Éden* (B052): *
 A tese: a desconfiança (doença do DNA do Criador) impedia a união dos seres; a força de atração sexual surgiu como **mecanismo de coesão** — "o gosto ou preferência pelos indivíduos do mesmo sexo surgiu nesse ponto da evolução", antes de a questão "macho e fêmea" se estabelecer. Quando as polaridades foram edificadas, "já existia a força daquela atração marcada em muitos seres e, para eles, pouco ou nada importava se o corpo que agora possuíam era de macho ou de fêmea". A **homoafetividade** (RC-434) é o resquício dessa força original.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Demos | RC-049 | surgiu-em |
-| Revelação Cósmica (conceito) | RC-094 | associado |
-| Seres Terrenos (Homo Sapiens) | RC-099 | antecede |
-| Agressividade canalizada (DNA doentio) | RC-432 | contexto |
-| Homoafetividade (resquício da força original) | RC-434 | ← é-um |
-| O Segredo Perdido do Éden | RC-435 | relaciona-se-a |
-| A Sina dos Portadores | RC-440 | associado |
-| Mistérios Dionisíacos | RC-441 | ← associado-a |
-| Sangue como Cópia da Seiva | RC-689 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Demos | RC-049 | contexto | -> | consolidação: "surgiu-em" → "contexto" |
+| Revelação Cósmica (conceito) | RC-094 | associado | <-> | - |
+| Seres Terrenos (Homo Sapiens) | RC-099 | precede | -> | consolidação: "antecede" → "precede" |
+| Agressividade canalizada (DNA doentio) | RC-432 | contexto | -> | - |
+| Homoafetividade (resquício da força original) | RC-434 | é-um | <- | - |
+| O Segredo Perdido do Éden | RC-435 | relaciona-se-a | -> | - |
+| A Sina dos Portadores | RC-440 | associado | <-> | - |
+| Mistérios Dionisíacos | RC-441 | associado | <-> | - |
+| Sangue como Cópia da Seiva | RC-689 | associado | <-> | - |
 
 ## Seres Associados
 Demos da geração do Olimpo (RC-049); Despina (ser que narra); Heber (RC-436) e Joctan (RC-437), testemunhas.

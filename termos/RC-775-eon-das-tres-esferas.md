@@ -19,16 +19,16 @@ atualizado = "2026-08-21"
 Criado por autorização excepcional do curador (Devolutiva Trilogia TALM, O-3 — RC-775) a partir do ART-2025-08-03.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Fenvans | RC-064 | relaciona-se-a |
-| Mohen So (Avatar Keshava de Vishnu) | RC-081 | relaciona-se-a |
-| Projeto Talm | RC-091 | relaciona-se-a |
-| Elm (Moros — ser LM de Tempérion) | RC-454 | relaciona-se-a |
-| Moiras / Nornes / Súdices / Parcas (destino) | RC-467 | relaciona-se-a |
-| Fornos Replicadores (naves/estações de semeadura de vida do Projeto Talm; Awayen, Awaylengan e Awaymaion) | RC-771 | inclui |
-| Morlens (programador genético atômico do Projeto TALM; 'monstro ciberenergético') | RC-772 | ← trabalha-em |
-| Ananque (estudou as necessidades dos códigos podres, com Moros; base das Nornes) | RC-777 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Fenvans | RC-064 | relaciona-se-a | -> | - |
+| Mohen So (Avatar Keshava de Vishnu) | RC-081 | relaciona-se-a | -> | - |
+| Projeto Talm | RC-091 | relaciona-se-a | -> | - |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | relaciona-se-a | -> | - |
+| Moiras / Nornes / Súdices / Parcas (destino) | RC-467 | relaciona-se-a | -> | - |
+| Fornos Replicadores (naves/estações de semeadura de vida do Projeto Talm; Awayen, Awaylengan e Awaymaion) | RC-771 | inclui | -> | - |
+| Morlens (programador genético atômico do Projeto TALM; 'monstro ciberenergético') | RC-772 | contexto | <- | consolidação: "trabalha-em" → "contexto" |
+| Ananque (estudou as necessidades dos códigos podres, com Moros; base das Nornes) | RC-777 | associado | <-> | - |
 
 ## Fontes
 | Obra/palestra | Localização | Tipo |

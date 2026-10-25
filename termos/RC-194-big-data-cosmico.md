@@ -24,24 +24,24 @@ atualizado = "2026-08-28"
 Tema-título da obra *O Big Data do Criador* (B035): a ideia de que o Criador, após a queda, tornou-se um "ditador" que precisa monitorar cada parte da sua Criação para manter o controle do todo — o "plano de fundo mental-operacional do jogo que acontece por trás do tipo de vida que levamos". A tecnologia dos anjos-clones acompanha "as entradas e saídas" das sequências de DNA que identificam como pertencentes a "mentes individualizadas" — percebendo a continuidade de uma "mesma expressão mental" por trás de uma pessoa que "morreu" e "renasce" (reencarnação).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | instrumento-de |
-| Anjos clones | RC-019 | operadores |
-| Simbiose Quântica | RC-195 | relaciona-se-a |
-| Big Data da Terra | RC-197 | ← analogia-de |
-| Rédeas Genéticas | RC-198 | associado |
-| Assinatura da Alma | RC-199 | associado |
-| Base de Dados do Juízo Final | RC-200 | associado-a |
-| O Livro do Criador | RC-201 | desdobramento |
-| Linhagens Preferenciais do Criador | RC-202 | associado |
-| Linhagens Humanas: Preferidas e Preteridas | RC-269 | mapeia |
-| Primado da Informação | RC-707 | ← organiza |
-| Universo de Egrégoras Emocionais | RC-711 | ← relaciona-se-a |
-| Formas-Pensamento e Formas-Sentimento | RC-724 | ← relaciona-se-a |
-| Aristocracia Olimpiana e Monarquias Terrestres | RC-736 | associado |
-| Vício Devocional | RC-749 | ← relaciona-se-a |
-| Desígnios Proféticos (profecia como instrumento de domínio e sua desconexão) | RC-858 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Javé | RC-001 | usa | -> | consolidação: "instrumento-de" → "usa" |
+| Anjos clones | RC-019 | usa | -> | consolidação: "operadores" → "usa" |
+| Simbiose Quântica | RC-195 | relaciona-se-a | -> | - |
+| Big Data da Terra | RC-197 | variação | <- | consolidação: "analogia-de" → "variação" |
+| Rédeas Genéticas | RC-198 | associado | <-> | - |
+| Assinatura da Alma | RC-199 | associado | <-> | - |
+| Base de Dados do Juízo Final | RC-200 | associado | <-> | - |
+| O Livro do Criador | RC-201 | sucede | -> | consolidação: "desdobramento" → "sucede" |
+| Linhagens Preferenciais do Criador | RC-202 | associado | <-> | - |
+| Linhagens Humanas: Preferidas e Preteridas | RC-269 | observa | -> | consolidação: "mapeia" → "observa" |
+| Primado da Informação | RC-707 | inclui | <- | consolidação: "organiza" → "inclui" |
+| Universo de Egrégoras Emocionais | RC-711 | relaciona-se-a | <- | - |
+| Formas-Pensamento e Formas-Sentimento | RC-724 | relaciona-se-a | <- | - |
+| Aristocracia Olimpiana e Monarquias Terrestres | RC-736 | associado | <-> | - |
+| Vício Devocional | RC-749 | relaciona-se-a | <- | - |
+| Desígnios Proféticos (profecia como instrumento de domínio e sua desconexão) | RC-858 | associado | <-> | - |
 
 ## Seres Associados
 Javé (RC-001); anjos-clones (RC-019); criaturas-ferramenta (RC-164).

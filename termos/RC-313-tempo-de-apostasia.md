@@ -27,16 +27,16 @@ atualizado = "2026-09-13"
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Revelação Cósmica (conceito) | RC-094 | associado |
-| Trimurti | RC-104 | associado |
-| Dissolução da Tríade (2015–2017) | RC-300 | relaciona-se-a |
-| Adhytia (nível hierárquico) | RC-308 | associado |
-| Fenômenos Denunciadores do Fim | RC-314 | ← denuncia |
-| O Fim da Lila | RC-315 | associado |
-| Esgotamento e Solidão (dos Trimurtianos) | RC-317 | associado |
-| A Estranha Autorrealização de Shiva | RC-318 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Revelação Cósmica (conceito) | RC-094 | associado | <-> | - |
+| Trimurti | RC-104 | associado | <-> | - |
+| Dissolução da Tríade (2015–2017) | RC-300 | relaciona-se-a | -> | - |
+| Adhytia (nível hierárquico) | RC-308 | associado | <-> | - |
+| Fenômenos Denunciadores do Fim | RC-314 | opõe-se-a | <- | consolidação: "denuncia" → "opõe-se-a" |
+| O Fim da Lila | RC-315 | associado | <-> | - |
+| Esgotamento e Solidão (dos Trimurtianos) | RC-317 | associado | <-> | - |
+| A Estranha Autorrealização de Shiva | RC-318 | associado | <-> | - |
 
 ## Fontes
 

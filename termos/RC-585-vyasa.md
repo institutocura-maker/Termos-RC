@@ -24,23 +24,23 @@ Sábio associado à transmissão do Mahabharata e às tradições védicas; na p
 Aparece na quarta era equinocial junto aos Rishis, Kshatriyas e Brahmanes.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Jesus | RC-072 | relaciona-se-a |
-| Jesus | RC-072 | ← relaciona-se-a |
-| Krishna (avatar de Vishnu/Shiva) | RC-414 | relaciona-se-a |
-| Krishna (avatar de Vishnu/Shiva) | RC-414 | relaciona-se-a |
-| Heber (patriarca pós-dilúvio) | RC-436 | encarnação-posterior-de |
-| Elm (Moros — ser LM de Tempérion) | RC-454 | vinculado-ao-espírito |
-| Elm (Moros — ser LM de Tempérion) | RC-454 | relaciona-se-a |
-| Elm (Moros — ser LM de Tempérion) | RC-454 | ← relaciona-se-a |
-| Elm (Moros — ser LM de Tempérion) | RC-454 | relaciona-se-a |
-| Senhor Parameshthi / Brahma Parameshthi (face atual de Javé) | RC-556 | ← relaciona-se-a |
-| Senhor Parameshthi / Brahma Parameshthi (face atual de Javé) | RC-556 | relaciona-se-a |
-| Rishis | RC-586 | ← relaciona-se-a |
-| Mahabharata | RC-593 | relaciona-se-a |
-| Mahabharata | RC-593 | ← associado-a |
-| Cumprimento da Profecia de Moros pela Revelação Cósmica | RC-718 | ← envolve |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Jesus | RC-072 | relaciona-se-a | -> | - |
+| Jesus | RC-072 | relaciona-se-a | <- | - |
+| Krishna (avatar de Vishnu/Shiva) | RC-414 | relaciona-se-a | -> | - |
+| Krishna (avatar de Vishnu/Shiva) | RC-414 | relaciona-se-a | -> | - |
+| Heber (patriarca pós-dilúvio) | RC-436 | origina | -> | consolidação: "encarnação-posterior-de" → "origina" |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | associado | <-> | consolidação: "vinculado-ao-espírito" → "associado" |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | relaciona-se-a | -> | - |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | relaciona-se-a | <- | - |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | relaciona-se-a | -> | - |
+| Senhor Parameshthi / Brahma Parameshthi (face atual de Javé) | RC-556 | relaciona-se-a | <- | - |
+| Senhor Parameshthi / Brahma Parameshthi (face atual de Javé) | RC-556 | relaciona-se-a | -> | - |
+| Rishis | RC-586 | relaciona-se-a | <- | - |
+| Mahabharata | RC-593 | relaciona-se-a | -> | - |
+| Mahabharata | RC-593 | associado | <-> | - |
+| Cumprimento da Profecia de Moros pela Revelação Cósmica | RC-718 | envolve | <- | - |
 
 ## Seres Associados
 Heber (patriarca pós-dilúvio) (RC-436); Rishis (RC-586)

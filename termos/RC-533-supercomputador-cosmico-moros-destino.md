@@ -29,16 +29,16 @@ Com isso:
 **Origem do conteúdo da ampliação:** palestra `P2024-06-16 — O Projeto TALM, os Fenvans e os Humanos` (16/06/2024). Transcrição automatizada, **não conferida com o áudio**; cada aspa foi recortada do `original.txt` pelo índice de âncoras do motor e conferida byte a byte pelo portão B. Nada foi digitado de memória.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Elm (Moros — ser LM de Tempérion) | RC-454 | relaciona-se-a |
-| Moiras / Nornes / Súdices / Parcas (destino) | RC-467 | **sem aresta** em `RELACOES`; arquivo existe |
-| WD (variação de STT = Wyrd/Urd — fundido em RC-658) | RC-560 | ← relaciona-se-a |
-| Wyrd / Urd (Teia do Destino) | RC-658 | ← relaciona-se-a |
-| Primado da Informação | RC-707 | **sem aresta** em `RELACOES`; arquivo existe |
-| Arquivos do Destino Universal | RC-714 | **sem aresta** em `RELACOES`; arquivo existe |
-| Informações Vivas | RC-715 | **sem aresta** em `RELACOES`; arquivo existe |
-| PIA — Peso da Inevitabilidade Ancestral | RC-716 | **sem aresta** em `RELACOES`; arquivo existe |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Elm (Moros — ser LM de Tempérion) | RC-454 | relaciona-se-a | -> | - |
+| Moiras / Nornes / Súdices / Parcas (destino) | RC-467 | - | - | sem aresta em RELACOES; arquivo existe |
+| WD (variação de STT = Wyrd/Urd — fundido em RC-658) | RC-560 | relaciona-se-a | <- | - |
+| Wyrd / Urd (Teia do Destino) | RC-658 | relaciona-se-a | <- | - |
+| Primado da Informação | RC-707 | - | - | sem aresta em RELACOES; arquivo existe |
+| Arquivos do Destino Universal | RC-714 | - | - | sem aresta em RELACOES; arquivo existe |
+| Informações Vivas | RC-715 | - | - | sem aresta em RELACOES; arquivo existe |
+| PIA — Peso da Inevitabilidade Ancestral | RC-716 | - | - | sem aresta em RELACOES; arquivo existe |
 
 
 ## Fontes

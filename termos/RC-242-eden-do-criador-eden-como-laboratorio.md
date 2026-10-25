@@ -24,18 +24,18 @@ Nas RC, o Éden terrestre é **um dos "laboratórios" do Criador** — não um p
 O Éden do Criador (B015, cap. 10) esclarece o propósito dos experimentos edênicos: o Criador procurava "gerar o tipo de vida que poderia ser o seu grande instrumento de redenção". O processo evolutivo da Terra produziu "o mais promissor dentre os diversos laboratórios". Zont En Drel 29 foi o guardião dos "portões" do Éden, observando os fatos ao redor de Adão e Eva. O "Adão e Eva escolhidos" pelo Criador são distintos de outros humanos que personificaram "saltos evolutivos" da espécie.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Guerra do Éden | RC-006 | contexto |
-| Criador (Brahma/Javé/Demiurgo) | RC-041 | associado |
-| Zont En Drel 29 | RC-147 | guarda |
-| Colmeia do Éden | RC-177 | variação (B044) |
-| Eva (figura) | RC-189 | habitantes |
-| Genética da Confiança | RC-243 | base |
-| Laboratórios do Criador | RC-251 | é-um |
-| Pandora como Serpente do Éden | RC-283 | associado |
-| Opção Inusitada de Pandora (humanização) | RC-285 | associado |
-| O Segredo Perdido do Éden | RC-435 | ← relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Guerra do Éden | RC-006 | contexto | -> | - |
+| Criador (Brahma/Javé/Demiurgo) | RC-041 | associado | <-> | - |
+| Zont En Drel 29 | RC-147 | protege | -> | consolidação: "guarda" → "protege" |
+| Colmeia do Éden | RC-177 | variação | -> | qualificador preservado: B044 |
+| Eva (figura) | RC-189 | envolve | -> | consolidação: "habitantes" → "envolve" |
+| Genética da Confiança | RC-243 | requer | -> | consolidação: "base" → "requer" |
+| Laboratórios do Criador | RC-251 | é-um | -> | - |
+| Pandora como Serpente do Éden | RC-283 | associado | <-> | - |
+| Opção Inusitada de Pandora (humanização) | RC-285 | associado | <-> | - |
+| O Segredo Perdido do Éden | RC-435 | relaciona-se-a | <- | - |
 
 ## Seres Associados
 Criador (RC-041); Zont En Drel 29 (RC-147); Adão e Eva (RC-189); Jesus (RC-072).

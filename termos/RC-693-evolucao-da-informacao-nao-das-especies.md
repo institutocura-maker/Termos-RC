@@ -33,26 +33,26 @@ Tese conclusiva de `P2025-03-15`. A palestra distingue:
 O princípio organiza a relação entre Memória Quântica dos Elétrons, Nidana, DNA, Projeto Talm, transumanismo, Colapso do Caos Organizado e reconstrução de Ishvara.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Nidana (ovo cósmico) | RC-154 | relacionado-a |
-| Memória Quântica dos Elétrons | RC-161 | envolve |
-| Elétrons (agente básico da vida universal) | RC-162 | relaciona-se-a |
-| A Rebelião dos Elétrons | RC-378 | associado |
-| Sentido Gradualístico das Leis da Evolução Cósmica | RC-404 | relaciona-se-a |
-| Genoma Derivado (interação genoma × trajetória) | RC-518 | opera-em |
-| Genoma Derivado (interação genoma × trajetória) | RC-518 | relaciona-se-a |
-| Evolução Possível (terceira via: nem Darwin, nem deus) | RC-541 | relaciona-se-a |
-| Humanos: Últimos e Primeiros | RC-654 | aplica-se-a |
-| Colapso do Caos Organizado | RC-690 | relaciona-se-a |
-| Colapso do Caos Organizado | RC-690 | relaciona-se-a |
-| Ishvara (Isuara — Retrato de Prabrajna Antes da Queda) | RC-691 | relacionado-a |
-| Oitavo Dia da Criação | RC-694 | ← relaciona-se-a |
-| Oitavo Dia da Criação | RC-694 | relaciona-se-a |
-| Cessão Consciente do DNA Humano | RC-698 | ← relaciona-se-a |
-| Primado da Informação | RC-707 | ← relaciona-se-a |
-| Genes Críticos / Genes Dorminhocos | RC-710 | ← relaciona-se-a |
-| Informações Vivas | RC-715 | ← relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Nidana (ovo cósmico) | RC-154 | relaciona-se-a | -> | consolidação: "relacionado-a" → "relaciona-se-a" |
+| Memória Quântica dos Elétrons | RC-161 | envolve | -> | - |
+| Elétrons (agente básico da vida universal) | RC-162 | relaciona-se-a | -> | - |
+| A Rebelião dos Elétrons | RC-378 | associado | <-> | - |
+| Sentido Gradualístico das Leis da Evolução Cósmica | RC-404 | relaciona-se-a | -> | - |
+| Genoma Derivado (interação genoma × trajetória) | RC-518 | contexto | -> | consolidação: "opera-em" → "contexto" |
+| Genoma Derivado (interação genoma × trajetória) | RC-518 | relaciona-se-a | -> | - |
+| Evolução Possível (terceira via: nem Darwin, nem deus) | RC-541 | relaciona-se-a | -> | - |
+| Humanos: Últimos e Primeiros | RC-654 | usa | -> | consolidação: "aplica-se-a" → "usa" |
+| Colapso do Caos Organizado | RC-690 | relaciona-se-a | -> | - |
+| Colapso do Caos Organizado | RC-690 | relaciona-se-a | -> | - |
+| Ishvara (Isuara — Retrato de Prabrajna Antes da Queda) | RC-691 | relaciona-se-a | -> | consolidação: "relacionado-a" → "relaciona-se-a" |
+| Oitavo Dia da Criação | RC-694 | relaciona-se-a | <- | - |
+| Oitavo Dia da Criação | RC-694 | relaciona-se-a | -> | - |
+| Cessão Consciente do DNA Humano | RC-698 | relaciona-se-a | <- | - |
+| Primado da Informação | RC-707 | relaciona-se-a | <- | - |
+| Genes Críticos / Genes Dorminhocos | RC-710 | relaciona-se-a | <- | - |
+| Informações Vivas | RC-715 | relaciona-se-a | <- | - |
 
 ## Fontes
 | Fonte | Localização | Tipo |

@@ -29,28 +29,28 @@ Com isso:
 **Origem do conteúdo da ampliação:** palestra `P2024-06-16 — O Projeto TALM, os Fenvans e os Humanos` (16/06/2024). Transcrição automatizada, **não conferida com o áudio**; cada aspa foi recortada do `original.txt` pelo índice de âncoras do motor e conferida byte a byte pelo portão B. Nada foi digitado de memória.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Aya e Aye | RC-031 | **sem aresta** em `RELACOES`; **sem arquivo** |
-| Brahma (Brajna) | RC-037 | **sem aresta** em `RELACOES`; arquivo existe |
-| Criador (Brahma/Javé/Demiurgo) | RC-041 | associado |
-| Demos | RC-049 | associado |
-| En Drel | RC-055 | **sem aresta** em `RELACOES`; arquivo existe |
-| Seres Extrafísicos | RC-097 | associado |
-| Zont En Drel 29 | RC-147 | **sem aresta** em `RELACOES`; arquivo existe |
-| Era da Geração | RC-157 | associado |
-| Era da Punição | RC-158 | associado |
-| Modelo Colmeia (Sistema/Controle Colmeia) | RC-176 | associado |
-| Horda Colmeia | RC-185 | associado |
-| Mente Coletiva / Redes Psíquicas Coletivas | RC-188 | associado |
-| Big Data Cósmico | RC-194 | associado |
-| Centro de Comando Paralelo | RC-213 | associado |
-| Endrelnianos | RC-247 | associado |
-| Ressurreição do Cadáver do Criador | RC-638 | sustentam |
-| Individualização Epifenomenológica dos Anjos Clones | RC-651 | ← aplica-se-a |
-| Últimas Ordens de Javé aos Clones | RC-652 | ← destinada-a |
-| Seres Desalmados | RC-661 | ← distingue-se-de |
-| Vício Devocional | RC-749 | ← relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Aya e Aye | RC-031 | - | - | sem aresta em RELACOES; sem arquivo |
+| Brahma (Brajna) | RC-037 | - | - | sem aresta em RELACOES; arquivo existe |
+| Criador (Brahma/Javé/Demiurgo) | RC-041 | associado | <-> | - |
+| Demos | RC-049 | associado | <-> | - |
+| En Drel | RC-055 | - | - | sem aresta em RELACOES; arquivo existe |
+| Seres Extrafísicos | RC-097 | associado | <-> | - |
+| Zont En Drel 29 | RC-147 | - | - | sem aresta em RELACOES; arquivo existe |
+| Era da Geração | RC-157 | associado | <-> | - |
+| Era da Punição | RC-158 | associado | <-> | - |
+| Modelo Colmeia (Sistema/Controle Colmeia) | RC-176 | associado | <-> | - |
+| Horda Colmeia | RC-185 | associado | <-> | - |
+| Mente Coletiva / Redes Psíquicas Coletivas | RC-188 | associado | <-> | - |
+| Big Data Cósmico | RC-194 | associado | <-> | - |
+| Centro de Comando Paralelo | RC-213 | associado | <-> | - |
+| Endrelnianos | RC-247 | associado | <-> | - |
+| Ressurreição do Cadáver do Criador | RC-638 | protege | -> | consolidação: "sustentam" → "protege" |
+| Individualização Epifenomenológica dos Anjos Clones | RC-651 | usa | <- | consolidação: "aplica-se-a" → "usa" |
+| Últimas Ordens de Javé aos Clones | RC-652 | transfere | <- | consolidação: "destinada-a" → "transfere" |
+| Seres Desalmados | RC-661 | opõe-se-a | <- | consolidação: "distingue-se-de" → "opõe-se-a" |
+| Vício Devocional | RC-749 | relaciona-se-a | <- | - |
 
 
 ## Ampliação — STT26-EXPERIENCIA_ESPIRITUAL_ETICA (Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados))

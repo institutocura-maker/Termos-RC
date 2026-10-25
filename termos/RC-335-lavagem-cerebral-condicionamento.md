@@ -24,33 +24,33 @@ O **condicionamento imposto ao psiquismo humano** pelas crenças e revelações 
 A lavagem cerebral é o mecanismo pelo qual a Teocracia da Doença (RC-334) se mantém: "a 'lavagem cerebral' que se abateu sobre o psiquismo humano... foi e ainda é parte de uma etapa necessária de um processo maior" (Introdução). O condicionamento opera "via codificação do DNA ou mesmo por meio do tipo de educação veiculada na Terra" (cap. 6). O B023 (DHARMA) e o B044 (COLMEIA) complementam: o condicionamento demo/humano é o "modelo colmeia" aplicado ao psiquismo.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Criador (Brahma/Javé/Demiurgo) | RC-041 | aplica-se-a |
-| Revelação Cósmica (conceito) | RC-094 | associado |
-| Seres Terrenos (Homo Sapiens) | RC-099 | vitima |
-| Modelo Colmeia (Sistema/Controle Colmeia) | RC-176 | relaciona-se-a |
-| Liberdade Mental (premissa do Quarto Logos) | RC-253 | antídoto |
-| Genética Totalitária | RC-325 | relaciona-se-a |
-| Teocracia da Doença de uma Divindade | RC-334 | instrumento |
-| Verdade Posta × Verdade a Construir | RC-657 | ← opõe-se-a |
-| Camuflagem da Realidade | RC-702 | ← sustentada-por |
-| Camuflagem da Realidade | RC-702 | sustenta |
-| Buraco Negro Mental / Consciencial | RC-717 | relaciona-se-a |
-| Invasão Ancestral do Genoma e do Psiquismo Humanos | RC-732 | ← relaciona-se-a |
-| Dominação Psíquica pela Devoção | RC-733 | ← reforça |
-| Dessensibilização da Condição Humana | RC-746 | ← relaciona-se-a |
-| Vício Devocional | RC-749 | ← relaciona-se-a |
-| Racionalidade Humana Trucidada | RC-786 | associado |
-| Egrégora de Lilith / Noreia (Loop Mental Vivo) | RC-787 | associado |
-| Fogo que se Apaga (Fogo de Prometeu Hoje) | RC-792 | associado |
-| Judaísmo como Destruidor do Mito de Pandora/Lilith | RC-796 | associado |
-| Versão Oficial como Construção dos Seguidores | RC-804 | associado |
-| Espiritismo com Germe da Poluição Católica/Protestante | RC-805 | associado |
-| Padrão de Consciência Genético por Espécie | RC-807 | associado |
-| Eva como 3ª Tentativa de Fêmea para Adão (Homem + Mulher da Espécie Sábia) | RC-814 | associado |
-| Patriarcado desde Pandora (Origem no Feminino, Dominação pelo Masculino) | RC-818 | associado |
-| Vechame Existencial (Sangue de Barata = Amor sem Submissão) | RC-823 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Criador (Brahma/Javé/Demiurgo) | RC-041 | usa | -> | consolidação: "aplica-se-a" → "usa" |
+| Revelação Cósmica (conceito) | RC-094 | associado | <-> | - |
+| Seres Terrenos (Homo Sapiens) | RC-099 | danifica | -> | consolidação: "vitima" → "danifica" |
+| Modelo Colmeia (Sistema/Controle Colmeia) | RC-176 | relaciona-se-a | -> | - |
+| Liberdade Mental (premissa do Quarto Logos) | RC-253 | protege | -> | consolidação: "antídoto" → "protege" |
+| Genética Totalitária | RC-325 | relaciona-se-a | -> | - |
+| Teocracia da Doença de uma Divindade | RC-334 | usa | -> | consolidação: "instrumento" → "usa" |
+| Verdade Posta × Verdade a Construir | RC-657 | opõe-se-a | <- | - |
+| Camuflagem da Realidade | RC-702 | protege | -> | consolidação: "sustentada-por" → "protege"; direção invertida (forma passiva/inversa) |
+| Camuflagem da Realidade | RC-702 | protege | -> | consolidação: "sustenta" → "protege" |
+| Buraco Negro Mental / Consciencial | RC-717 | relaciona-se-a | -> | - |
+| Invasão Ancestral do Genoma e do Psiquismo Humanos | RC-732 | relaciona-se-a | <- | - |
+| Dominação Psíquica pela Devoção | RC-733 | causa | <- | consolidação: "reforça" → "causa" |
+| Dessensibilização da Condição Humana | RC-746 | relaciona-se-a | <- | - |
+| Vício Devocional | RC-749 | relaciona-se-a | <- | - |
+| Racionalidade Humana Trucidada | RC-786 | associado | <-> | - |
+| Egrégora de Lilith / Noreia (Loop Mental Vivo) | RC-787 | associado | <-> | - |
+| Fogo que se Apaga (Fogo de Prometeu Hoje) | RC-792 | associado | <-> | - |
+| Judaísmo como Destruidor do Mito de Pandora/Lilith | RC-796 | associado | <-> | - |
+| Versão Oficial como Construção dos Seguidores | RC-804 | associado | <-> | - |
+| Espiritismo com Germe da Poluição Católica/Protestante | RC-805 | associado | <-> | - |
+| Padrão de Consciência Genético por Espécie | RC-807 | associado | <-> | - |
+| Eva como 3ª Tentativa de Fêmea para Adão (Homem + Mulher da Espécie Sábia) | RC-814 | associado | <-> | - |
+| Patriarcado desde Pandora (Origem no Feminino, Dominação pelo Masculino) | RC-818 | associado | <-> | - |
+| Vechame Existencial (Sangue de Barata = Amor sem Submissão) | RC-823 | associado | <-> | - |
 
 ## Seres Associados
 Criador/Javé (RC-041/RC-001); Seres Terrenos (RC-099).

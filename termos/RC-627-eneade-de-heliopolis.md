@@ -24,11 +24,11 @@ Conjunto de nove deuses da tradição egípcia de Heliópolis, citado como narra
 A comparação mostra que os oito da Ogdóade não representam contagem exaustiva dos seres que mergulharam.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Marduk (= Ra; Anunnaki filho de Enki) | RC-460 | associado |
-| Ogdóade de Hermópolis | RC-609 | compara-se-a |
-| Universo TÊNET | RC-626 | relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Marduk (= Ra; Anunnaki filho de Enki) | RC-460 | associado | <-> | - |
+| Ogdóade de Hermópolis | RC-609 | variação | -> | consolidação: "compara-se-a" → "variação" |
+| Universo TÊNET | RC-626 | relaciona-se-a | -> | - |
 
 ## Seres Associados
 Consultar relações acima.

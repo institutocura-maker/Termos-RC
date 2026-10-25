@@ -24,14 +24,14 @@ Tese (leitura do autor, palestra **P2025-04-06**, U0005) do **"Conceito Abaiano"
 Aparece em **P2025-04-06**, U0005, no encerramento da palestra. Contexto: depois de Pandora dizer que se apaga, o autor propõe o **caminho humano** de reacender o fogo: o inconformismo inteligente, criativo, sem esperança, mas com sonho e ação. "365 dias por ano" — referência ao ethos baiano de festejar/agir apesar do cansaço.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Pandora | RC-086 | substitui |
-| Seres Terrenos (Homo Sapiens) | RC-099 | aplica-se-a |
-| Telos (de um deus) | RC-292 | é-cumprido-via |
-| Racionalidade Humana Trucidada | RC-786 | contrapõe-a |
-| Revolução Inacabada de Prometeu e Pandora | RC-788 | operacionaliza |
-| Fogo que se Apaga (Fogo de Prometeu Hoje) | RC-792 | caminho-para-reacender |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Pandora | RC-086 | relaciona-se-a | -> | consolidação: "substitui" → "relaciona-se-a" |
+| Seres Terrenos (Homo Sapiens) | RC-099 | usa | -> | consolidação: "aplica-se-a" → "usa" |
+| Telos (de um deus) | RC-292 | usa | <- | consolidação: "é-cumprido-via" → "usa"; direção invertida (forma passiva/inversa) |
+| Racionalidade Humana Trucidada | RC-786 | opõe-se-a | -> | consolidação: "contrapõe-a" → "opõe-se-a" |
+| Revolução Inacabada de Prometeu e Pandora | RC-788 | usa | -> | consolidação: "operacionaliza" → "usa" |
+| Fogo que se Apaga (Fogo de Prometeu Hoje) | RC-792 | relaciona-se-a | -> | consolidação: "caminho-para-reacender" → "relaciona-se-a" |
 
 ## Seres Associados
 - **Seres humanos inconformados** (RC-099) — quem pratica o Conceito Abaiano

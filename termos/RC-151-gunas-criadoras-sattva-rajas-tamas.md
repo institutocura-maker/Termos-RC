@@ -31,16 +31,16 @@ Segundo o entendimento dos arianos-hindus, **Rajas, Sattva e Tamas são as três
 As Gunas explicam a física da Criação "indevida" associada à mitologia hindu: a energia Rajásica de Prabrajna criou os quarks (e, com distúrbios, os elétrons); Mavatna usou a energia Sattva para criar os glúons e organizar a energia Rajas (as quatro forças fundamentais); a energia Tamas de Savna é a desagregadora, que faz tudo nascer com o "germe" da própria morte e presidirá a finalização do universo. Os hindus relacionam Brahma, Vishnu e Shiva às energias Rajas, Sattva e Tamas, respectivamente — os três pilares de criação.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Brahma (Brajna) | RC-037 | associado-a |
-| Shiva (Savna) | RC-102 | associado-a |
-| Trimurti | RC-104 | corresponde-a |
-| Vishnu (Mavatna) | RC-135 | associado-a |
-| Prabrajna | RC-152 | energia Rajas |
-| Entropia e Negentropia | RC-160 | ← relaciona-se-a |
-| Elétrons (agente básico da vida universal) | RC-162 | criados pela vibração Rajas |
-| Sankalpa (força de vontade e conhecimento que produz milagres) | RC-853 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Brahma (Brajna) | RC-037 | associado | <-> | - |
+| Shiva (Savna) | RC-102 | associado | <-> | - |
+| Trimurti | RC-104 | variação | -> | consolidação: "corresponde-a" → "variação" |
+| Vishnu (Mavatna) | RC-135 | associado | <-> | - |
+| Prabrajna | RC-152 | relaciona-se-a | -> | texto bruto original: energia Rajas |
+| Entropia e Negentropia | RC-160 | relaciona-se-a | <- | - |
+| Elétrons (agente básico da vida universal) | RC-162 | relaciona-se-a | -> | texto bruto original: criados pela vibração Rajas |
+| Sankalpa (força de vontade e conhecimento que produz milagres) | RC-853 | associado | <-> | - |
 
 ## Seres Associados
 Brahma (RC-037); Vishnu (RC-135); Shiva (RC-102).

@@ -22,12 +22,12 @@ Forma preferida: Yajna (ritual de sacrifício/fogo).
 O Mistério da Árvore da Vida e a Urdidura de Metatron.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Adhyajna | RC-016 | relaciona-se-a |
-| Xamanismo Cósmico (comunicação e deslacre) | RC-577 | — |
-| Rakshasas | RC-581 | ← relaciona-se-a |
-| Descendência de Kadru (Nagas, Uragas e Maharagas) | RC-664 | ← relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Adhyajna | RC-016 | relaciona-se-a | -> | - |
+| Xamanismo Cósmico (comunicação e deslacre) | RC-577 | - | - | sem relação informada; 17 linhas são registros de fonte com 4 colunas |
+| Rakshasas | RC-581 | relaciona-se-a | <- | - |
+| Descendência de Kadru (Nagas, Uragas e Maharagas) | RC-664 | relaciona-se-a | <- | - |
 
 ## Seres Associados
 Consultar Base.

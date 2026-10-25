@@ -24,10 +24,10 @@ Universo citado no título do encontro de Goiânia como destino conceitual da po
 A live apenas anuncia o tema; não fornece definição suficiente do universo.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Ogdóade de Hermópolis | RC-609 | relaciona-se-a |
-| Enéade de Heliópolis | RC-627 | relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Ogdóade de Hermópolis | RC-609 | relaciona-se-a | -> | - |
+| Enéade de Heliópolis | RC-627 | relaciona-se-a | -> | - |
 
 ## Seres Associados
 Consultar relações acima.

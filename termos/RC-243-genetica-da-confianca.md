@@ -24,17 +24,17 @@ Nova configuração genética surgida nos núcleos edênicos: os pequenos grupos
 A Genética da Confiança é o contraponto do **Germe da Desconfiança** (RC-244): "a dificuldade insuperável — que perdurou por cerca de 3 bilhões de anos desde o surgimento da molécula-mãe no planeta — dos seres unicelulares terrestres se reunirem para formar um corpo pluricelular, tem a ver exatamente com o germe da desconfiança herdado do modo de ser do Criador". A genética da confiança é o que tornou possível a cooperação celular, a vida pluricelular e, mais tarde, o amor humano — instrumento de redenção do Criador.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Criador (Brahma/Javé/Demiurgo) | RC-041 | origem da superação |
-| Seres Terrenos (Homo Sapiens) | RC-099 | base-do |
-| Matriz Modeladora / Matriz de Cocriação | RC-210 | associado |
-| Éden do Criador (Éden como laboratório) | RC-242 | local de surgimento |
-| Germe da Desconfiança | RC-244 | opõe-se-a |
-| A Humanização do Criador | RC-245 | associado |
-| Laboratórios do Criador | RC-251 | contexto |
-| Ressonância límbica (emoções como tecnologia cósmica) | RC-529 | associado |
-| Vacina do Amor (ancoragem de Jesus no CFD) | RC-532 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Criador (Brahma/Javé/Demiurgo) | RC-041 | relaciona-se-a | -> | texto bruto original: origem da superação |
+| Seres Terrenos (Homo Sapiens) | RC-099 | requer | -> | consolidação: "base-do" → "requer" |
+| Matriz Modeladora / Matriz de Cocriação | RC-210 | associado | <-> | - |
+| Éden do Criador (Éden como laboratório) | RC-242 | relaciona-se-a | -> | texto bruto original: local de surgimento |
+| Germe da Desconfiança | RC-244 | opõe-se-a | -> | - |
+| A Humanização do Criador | RC-245 | associado | <-> | - |
+| Laboratórios do Criador | RC-251 | contexto | -> | - |
+| Ressonância límbica (emoções como tecnologia cósmica) | RC-529 | associado | <-> | - |
+| Vacina do Amor (ancoragem de Jesus no CFD) | RC-532 | associado | <-> | - |
 
 ## Seres Associados
 Seres Terrenos (RC-099); Criador (RC-041); Adão e Eva (RC-189).

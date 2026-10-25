@@ -24,55 +24,55 @@ Nas RC, Brahma é o **"Criador caído, apodrecido e adoentado"** — a mesma ent
 Brahma integra a **Trimurti** (com Vishnu e Shiva) e é o **Primeiro Logos** da Criação. A identificação Brahma = Javé é central para a cosmologia RC e para o "drama do Criador".
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | ← sinônimo |
-| Javé | RC-001 | correspondência-em-teologia-comparada-de |
-| Adhydaiva | RC-014 | associado |
-| Anjos clones | RC-019 | associado |
-| Brahmaloka | RC-038 | associado |
-| CFD (Código Fonte Definidor) | RC-040 | fonte |
-| Criador (Brahma/Javé/Demiurgo) | RC-041 | é-um |
-| Deus / Deus Incognoscível | RC-052 | opõe-se-a (distinção) |
-| Divindades (Co-criadoras) | RC-054 | associado |
-| Keshava | RC-073 | associado |
-| Lila | RC-075 | associado |
-| Logos / Logos Criadores | RC-076 | associado |
-| Projeto Talm | RC-091 | associado |
-| Shiva (Savna) | RC-102 | associado-a |
-| Trimurti | RC-104 | parte-de |
-| Vishnu (Mavatna) | RC-135 | associado-a |
-| Gunas Criadoras (Sattva, Rajas, Tamas) | RC-151 | ← associado-a |
-| Prabrajna | RC-152 | variação |
-| Era da Solidão | RC-156 | associado |
-| Kether (Javé na Cabala) | RC-261 | ← variação |
-| Kether (Javé na Cabala) | RC-261 | ← variação |
-| Os 270 Mundos (profecia do Zohar) | RC-265 | relaciona-se-a |
-| Caos = Brahma = Javé (correspondência) | RC-284 | ← variação |
-| Dissolução da Tríade (2015–2017) | RC-300 | associado |
-| Adhyshprabrajna (Adhy que caiu) | RC-310 | ← variação |
-| ADHYPRABRAJNA (grafia do diagrama) | RC-410 | associado |
-| Sarasvati (consorte de Brahma, Tridevi) | RC-457 | ← relaciona-se-a |
-| En Ma (Emá / Emar — espírito-âncora) | RC-476 | ← relaciona-se-a |
-| Senhor Parameshthi / Brahma Parameshthi (face atual de Javé) | RC-556 | ← variação |
-| Ancoragem do Conglomerado Trimurtiano na Terra | RC-575 | associado |
-| Fatiamento de Consciência | RC-604 | ← envolve |
-| Geração Regenerada de Brahma | RC-696 | ← gerada-por |
-| Geração Regenerada de Brahma | RC-696 | gera |
-| Geração Regenerada de Brahma | RC-696 | relaciona-se-a |
-| Kashyapa | RC-700 | associado |
-| Daksha e Virini | RC-701 | relaciona-se-a |
-| Samudra Manthana / Batimento do Oceano de Leite | RC-734 | ← regenera-na-narrativa |
-| Aristocracia Olimpiana e Monarquias Terrestres | RC-736 | associado |
-| Projeto Orunmilá–Olodus | RC-741 | associado |
-| Corpos Fenvã (terceira forma de vida do universo vizinho) | RC-769 | ← relaciona-se-a |
-| Alimentação por Perfume dos Humanos (Demos se Alimentam de DNA) | RC-820 | associado |
-| Soca/Reis/Rit como Receptor Universal (Instrumento da Trimurti) | RC-821 | associado |
-| Forno de Awayen (forno de Brahma/Javé → Central de Realidades) | RC-836 | associado |
-| Cronos (titã) | RC-841 | associado |
-| Eru Ilúvatar (criador no Silmarillion) | RC-843 | associado |
-| Prajapati (a divindade antes de virar Brama) | RC-852 | associado |
-| Sinarquia Cósmica (o governo dos sábios) | RC-873 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Javé | RC-001 | variação | <- | consolidação: "sinônimo" → "variação" |
+| Javé | RC-001 | variação | -> | consolidação: "correspondência-em-teologia-comparada-de" → "variação" |
+| Adhydaiva | RC-014 | associado | <-> | - |
+| Anjos clones | RC-019 | associado | <-> | - |
+| Brahmaloka | RC-038 | associado | <-> | - |
+| CFD (Código Fonte Definidor) | RC-040 | origina | -> | consolidação: "fonte" → "origina" |
+| Criador (Brahma/Javé/Demiurgo) | RC-041 | é-um | -> | - |
+| Deus / Deus Incognoscível | RC-052 | opõe-se-a | -> | qualificador preservado: distinção |
+| Divindades (Co-criadoras) | RC-054 | associado | <-> | - |
+| Keshava | RC-073 | associado | <-> | - |
+| Lila | RC-075 | associado | <-> | - |
+| Logos / Logos Criadores | RC-076 | associado | <-> | - |
+| Projeto Talm | RC-091 | associado | <-> | - |
+| Shiva (Savna) | RC-102 | associado | <-> | - |
+| Trimurti | RC-104 | parte-de | -> | - |
+| Vishnu (Mavatna) | RC-135 | associado | <-> | - |
+| Gunas Criadoras (Sattva, Rajas, Tamas) | RC-151 | associado | <-> | - |
+| Prabrajna | RC-152 | variação | -> | - |
+| Era da Solidão | RC-156 | associado | <-> | - |
+| Kether (Javé na Cabala) | RC-261 | variação | <- | - |
+| Kether (Javé na Cabala) | RC-261 | variação | <- | - |
+| Os 270 Mundos (profecia do Zohar) | RC-265 | relaciona-se-a | -> | - |
+| Caos = Brahma = Javé (correspondência) | RC-284 | variação | <- | - |
+| Dissolução da Tríade (2015–2017) | RC-300 | associado | <-> | - |
+| Adhyshprabrajna (Adhy que caiu) | RC-310 | variação | <- | - |
+| ADHYPRABRAJNA (grafia do diagrama) | RC-410 | associado | <-> | - |
+| Sarasvati (consorte de Brahma, Tridevi) | RC-457 | relaciona-se-a | <- | - |
+| En Ma (Emá / Emar — espírito-âncora) | RC-476 | relaciona-se-a | <- | - |
+| Senhor Parameshthi / Brahma Parameshthi (face atual de Javé) | RC-556 | variação | <- | - |
+| Ancoragem do Conglomerado Trimurtiano na Terra | RC-575 | associado | <-> | - |
+| Fatiamento de Consciência | RC-604 | envolve | <- | - |
+| Geração Regenerada de Brahma | RC-696 | origina | -> | consolidação: "gerada-por" → "origina"; direção invertida (forma passiva/inversa) |
+| Geração Regenerada de Brahma | RC-696 | origina | -> | consolidação: "gera" → "origina" |
+| Geração Regenerada de Brahma | RC-696 | relaciona-se-a | -> | - |
+| Kashyapa | RC-700 | associado | <-> | - |
+| Daksha e Virini | RC-701 | relaciona-se-a | -> | - |
+| Samudra Manthana / Batimento do Oceano de Leite | RC-734 | protege | <- | consolidação: "regenera-na-narrativa" → "protege" |
+| Aristocracia Olimpiana e Monarquias Terrestres | RC-736 | associado | <-> | - |
+| Projeto Orunmilá–Olodus | RC-741 | associado | <-> | - |
+| Corpos Fenvã (terceira forma de vida do universo vizinho) | RC-769 | relaciona-se-a | <- | - |
+| Alimentação por Perfume dos Humanos (Demos se Alimentam de DNA) | RC-820 | associado | <-> | - |
+| Soca/Reis/Rit como Receptor Universal (Instrumento da Trimurti) | RC-821 | associado | <-> | - |
+| Forno de Awayen (forno de Brahma/Javé → Central de Realidades) | RC-836 | associado | <-> | - |
+| Cronos (titã) | RC-841 | associado | <-> | - |
+| Eru Ilúvatar (criador no Silmarillion) | RC-843 | associado | <-> | - |
+| Prajapati (a divindade antes de virar Brama) | RC-852 | associado | <-> | - |
+| Sinarquia Cósmica (o governo dos sábios) | RC-873 | associado | <-> | - |
 
 ## Seres Associados
 Javé (RC-001); Vishnu (RC-135); Shiva (RC-102); Mohen So (RC-081); Sophia (RC-009).

@@ -24,19 +24,19 @@ Tese (leitura do autor, palestra **P2025-04-06**, U0004) de que os **"Quinaras"*
 Aparece em **P2025-04-06**, U0004. O autor foi levado em espírito a uma "loca de centauros" e descreve a experiência: "locas de centauros, que eles próprios chamam de meio retardados. Ou seja, os centauros que já padecem de um certo retardamento, são distribuídos em várias locas e tem uma loca em especial onde centauros que lá estão são mais retardados que o resto, mas que era a única genética dos centauros possível de ser trabalhada para um dia ser transferida para a condição humana."
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Mônada (Mônada Espiritual) | RC-149 | associado |
-| Linhagem dos Patriarcas Hebreus | RC-270 | associado |
-| Pactos do Criador (troca de informações) | RC-271 | associado |
-| Prometeu (titã) | RC-301 | recebeu-visitas-de |
-| Epimeteu (titã) | RC-302 | recebeu-visitas-de |
-| Xamanismo Cósmico (comunicação e deslacre) | RC-577 | opõe-se-a |
-| Geração Regenerada de Brahma | RC-696 | contextualizado-por |
-| Sileno | (sem ficha) | mestre-de |
-| Quirón (centauro) | (sem ficha; pode haver RC) | paralelo-com |
-| Sátiros | (sem ficha) | variante-de |
-| Dioniso | (sem ficha; verificar RC-149 = Zeus?) | associado-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Mônada (Mônada Espiritual) | RC-149 | associado | <-> | - |
+| Linhagem dos Patriarcas Hebreus | RC-270 | associado | <-> | - |
+| Pactos do Criador (troca de informações) | RC-271 | associado | <-> | - |
+| Prometeu (titã) | RC-301 | transfere | -> | consolidação: "recebeu-visitas-de" → "transfere" |
+| Epimeteu (titã) | RC-302 | transfere | -> | consolidação: "recebeu-visitas-de" → "transfere" |
+| Xamanismo Cósmico (comunicação e deslacre) | RC-577 | opõe-se-a | -> | - |
+| Geração Regenerada de Brahma | RC-696 | contexto | <- | consolidação: "contextualizado-por" → "contexto"; direção invertida (forma passiva/inversa) |
+| Sileno | (sem ficha) | controla | -> | consolidação: "mestre-de" → "controla" |
+| Quirón (centauro) | (sem ficha; pode haver RC) | associado | <-> | consolidação: "paralelo-com" → "associado" |
+| Sátiros | (sem ficha) | variação | -> | consolidação: "variante-de" → "variação" |
+| Dioniso | (sem ficha; verificar RC-149 = Zeus?) | associado | <-> | - |
 
 ## Seres Associados
 - **Quirón** (centauro filósofo, mitologia grega)

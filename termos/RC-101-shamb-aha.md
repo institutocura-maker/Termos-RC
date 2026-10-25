@@ -29,17 +29,17 @@ Com isso:
 **Origem do conteúdo da ampliação:** palestra `P2018-12-15 — Terra Atlantis – Aprofundamento` (15/12/2018). Transcrição automatizada, **não conferida com o áudio**; cada aspa foi recortada do `original.txt` pelo índice de âncoras do motor e conferida byte a byte pelo portão B. Nada foi digitado de memória.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Astralização dos Biodemos | RC-026 | **sem aresta** em `RELACOES`; **sem arquivo** |
-| Astréia | RC-027 | associado |
-| Len Mion (Satã) | RC-074 | **sem aresta** em `RELACOES`; arquivo existe |
-| Val-Ha | RC-127 | **sem aresta** em `RELACOES`; **sem arquivo** |
-| Val dos Corpos Perdidos / Dimensionados | RC-133 | **sem aresta** em `RELACOES`; **sem arquivo** |
-| Yel Lupon | RC-141 | associado |
-| Yel Luzbel | RC-142 | **sem aresta** em `RELACOES`; arquivo existe |
-| Forno de Awaymaion (forno de Vishnu; origem de Olm) | RC-499 | manifesta-se-em |
-| Espiritismo com Germe da Poluição Católica/Protestante | RC-805 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Astralização dos Biodemos | RC-026 | - | - | sem aresta em RELACOES; sem arquivo |
+| Astréia | RC-027 | associado | <-> | - |
+| Len Mion (Satã) | RC-074 | - | - | sem aresta em RELACOES; arquivo existe |
+| Val-Ha | RC-127 | - | - | sem aresta em RELACOES; sem arquivo |
+| Val dos Corpos Perdidos / Dimensionados | RC-133 | - | - | sem aresta em RELACOES; sem arquivo |
+| Yel Lupon | RC-141 | associado | <-> | - |
+| Yel Luzbel | RC-142 | - | - | sem aresta em RELACOES; arquivo existe |
+| Forno de Awaymaion (forno de Vishnu; origem de Olm) | RC-499 | representa | -> | consolidação: "manifesta-se-em" → "representa" |
+| Espiritismo com Germe da Poluição Católica/Protestante | RC-805 | associado | <-> | - |
 
 
 ## Fontes

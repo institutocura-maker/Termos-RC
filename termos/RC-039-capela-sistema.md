@@ -25,21 +25,21 @@ atualizado = "2026-10-23"
 Sistema central da cosmologia capelina na Revelação Cósmica (obras primárias B003/B025 e glossário B031). No B057, Capela é o palco da Revolta (RC-002): "Nasci no longínquo sistema solar de Capela" (p. 15); a rebelião foi "deflagrada há uns 687 mil anos, **em Capela**, contra Sophia e as suas hostes" (p. 19). A nota de p. 10 identifica a estrela na astronomia terrena; a nota de p. 25 (extraída de *Carma e Compromisso*, B026) descreve a função governamental do sistema; a nota de p. 14 define os capelinos ("seres extraterrestres, de vários tipos, oriundos do sistema de Capela... Fonte: Trilogia 'Terra Atlantis', de Jan Val Ellam" — B017/B018/B039).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Rebelião de Lúcifer | RC-002 | ocorre-em (a Revolta deflagrada em Capela) |
-| Exilados de Capela | RC-007 | ← origem-em |
-| Antares (Sistema) | RC-021 | associado |
-| Dan | RC-046 | ocorre-em (mundo-nave de urdidura) |
-| Orbum | RC-085 | ocorre-em (sede governamental do sistema) |
-| Tau Ceti (Sistema) | RC-103 | associado |
-| Val (Família Val) | RC-109 | origina (as famílias de biodemos) |
-| Zian (Zion) | RC-146 | relaciona-se-a (planeta do Codificador) |
-| Land's End (Sinal de Land's End) | RC-237 | associado |
-| Jesus, o Capelino | RC-350 | associado |
-| Mestres de Capela | RC-351 | associado |
-| Família Yel | RC-442 | associado |
-| Família Mion | RC-443 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Rebelião de Lúcifer | RC-002 | contexto | -> | qualificador preservado: a Revolta deflagrada em Capela; consolidação: "ocorre-em" → "contexto" |
+| Exilados de Capela | RC-007 | origina | <- | consolidação: "origem-em" → "origina" |
+| Antares (Sistema) | RC-021 | associado | <-> | - |
+| Dan | RC-046 | contexto | -> | qualificador preservado: mundo-nave de urdidura; consolidação: "ocorre-em" → "contexto" |
+| Orbum | RC-085 | contexto | -> | qualificador preservado: sede governamental do sistema; consolidação: "ocorre-em" → "contexto" |
+| Tau Ceti (Sistema) | RC-103 | associado | <-> | - |
+| Val (Família Val) | RC-109 | origina | -> | qualificador preservado: as famílias de biodemos |
+| Zian (Zion) | RC-146 | relaciona-se-a | -> | qualificador preservado: planeta do Codificador |
+| Land's End (Sinal de Land's End) | RC-237 | associado | <-> | - |
+| Jesus, o Capelino | RC-350 | associado | <-> | - |
+| Mestres de Capela | RC-351 | associado | <-> | - |
+| Família Yel | RC-442 | associado | <-> | - |
+| Família Mion | RC-443 | associado | <-> | - |
 
 ## Seres Associados
 Sophia (RC-009, "Pai dos Capelinos" e Comandante); Yel Luzbel (RC-078); Len Mion (RC-074); Olm/Codificador de Zion (RC-092/RC-252); Val El (RC-071/B060).

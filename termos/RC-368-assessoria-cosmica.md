@@ -27,14 +27,14 @@ Na B011 (*Jesus e o Enigma da Transfiguração*), o título do capítulo 4 — �
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Jesus | RC-072 | assessora |
-| Revelação Cósmica (conceito) | RC-094 | associado |
-| Seres Espirituais | RC-100 | associado |
-| Agente do Mais Alto | RC-214 | associado |
-| O Enigma da Transfiguração | RC-366 | associado |
-| Ser Humano Não Local | RC-708 | ← relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Jesus | RC-072 | controla | -> | consolidação: "assessora" → "controla" |
+| Revelação Cósmica (conceito) | RC-094 | associado | <-> | - |
+| Seres Espirituais | RC-100 | associado | <-> | - |
+| Agente do Mais Alto | RC-214 | associado | <-> | - |
+| O Enigma da Transfiguração | RC-366 | associado | <-> | - |
+| Ser Humano Não Local | RC-708 | relaciona-se-a | <- | - |
 
 ## Fontes
 

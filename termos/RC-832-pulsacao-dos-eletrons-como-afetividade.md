@@ -24,18 +24,18 @@ Tese (leitura do autor, palestra **P2023-12-17**, U0004) de que o **comportament
 Aparece em **P2023-12-17**, U0004. Contexto: a palestra explica como os elétrons estão **reduzindo a reprodução humana** sem matar humanos. "Como no caso humano, masculino e feminino, masculino transa, feminino transa, cria mais seres humanos e mais nós, os elétrons se ferram, porque os humanos inventaram a pior coisa que a gente sente, que é o ódio racionalizado. Então, como é que eu disfaço os humanos? Nós elétrons não podemos matar os humanos, mas como é que a gente pode fazer? É fazer com que a turma no trans mais porque é a única maneira de impedir ou então transcrie. Aí surge como afetividade, surge identidade de gênero, surge, vontade de ficar só, surge, medo de ter relação sexual, surge, aí começa a surgir insegurança, e a humanidade começa a procriar menos."
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Sophia (Cristo Cósmico) | RC-009 | é-biodemo-com |
-| Seres Terrenos (Homo Sapiens) | RC-099 | é-alvo-de |
-| Elétrons (agente básico da vida universal) | RC-162 | tem-pulsação |
-| Civilização Saraswati | RC-330 | é-alvo-de |
-| A Rebelião dos Elétrons | RC-378 | associado |
-| Rebelião dos Elétrons (Além da Entropia) | RC-826 | é-mecanismo-de |
-| Era do Colapso do Caos Organizado | RC-827 | associado |
-| Memória dos Elétrons e Arcanos | RC-829 | é-contexto-de |
-| Pulsação Digna (a pulsação alinhada a conceitos supremos) | RC-865 | associado |
-| Identidade de Gênero | (tema social) | é-expressão-de |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Sophia (Cristo Cósmico) | RC-009 | é-um | -> | consolidação: "é-biodemo-com" → "é-um" |
+| Seres Terrenos (Homo Sapiens) | RC-099 | é-um | -> | consolidação: "é-alvo-de" → "é-um" |
+| Elétrons (agente básico da vida universal) | RC-162 | relaciona-se-a | -> | consolidação: "tem-pulsação" → "relaciona-se-a" |
+| Civilização Saraswati | RC-330 | é-um | -> | consolidação: "é-alvo-de" → "é-um" |
+| A Rebelião dos Elétrons | RC-378 | associado | <-> | - |
+| Rebelião dos Elétrons (Além da Entropia) | RC-826 | usa | -> | consolidação: "é-mecanismo-de" → "usa" |
+| Era do Colapso do Caos Organizado | RC-827 | associado | <-> | - |
+| Memória dos Elétrons e Arcanos | RC-829 | contexto | -> | consolidação: "é-contexto-de" → "contexto" |
+| Pulsação Digna (a pulsação alinhada a conceitos supremos) | RC-865 | associado | <-> | - |
+| Identidade de Gênero | (tema social) | representa | -> | consolidação: "é-expressão-de" → "representa" |
 
 ## Seres Associados
 - **Elétrons (RC-162)** — quem pulsa

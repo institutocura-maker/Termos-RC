@@ -24,14 +24,14 @@ Anunnaki relacionado à localização e ao uso das sete armas atômicas no confl
 É citado junto a Marduk, Anu e Nibiru na narrativa da guerra nuclear Anunnaki.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Anunnaki | RC-024 | é-um |
-| Enlil (deus sumério, par de Enki) | RC-487 | relaciona-se-a |
-| Guerra Nuclear Anunnaki (Sete Armas Atômicas) | RC-583 | ← envolve |
-| Guerra Nuclear Anunnaki (Sete Armas Atômicas) | RC-583 | envolve |
-| Anu (patriarca Anunnaki) | RC-587 | relaciona-se-a |
-| Nibiru | RC-589 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Anunnaki | RC-024 | é-um | -> | - |
+| Enlil (deus sumério, par de Enki) | RC-487 | relaciona-se-a | -> | - |
+| Guerra Nuclear Anunnaki (Sete Armas Atômicas) | RC-583 | envolve | <- | - |
+| Guerra Nuclear Anunnaki (Sete Armas Atômicas) | RC-583 | envolve | -> | - |
+| Anu (patriarca Anunnaki) | RC-587 | relaciona-se-a | -> | - |
+| Nibiru | RC-589 | associado | <-> | - |
 
 ## Seres Associados
 Anunnakis (RC-024); Enlil (deus sumério, par de Enki) (RC-487); Anu (patriarca Anunnaki) (RC-587)

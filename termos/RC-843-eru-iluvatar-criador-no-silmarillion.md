@@ -29,14 +29,14 @@ Com isso:
 **Origem do conteúdo da ampliação:** palestra `P2018-12-15 — Terra Atlantis – Aprofundamento` (15/12/2018). Transcrição automatizada, **não conferida com o áudio**; cada aspa foi recortada do `original.txt` pelo índice de âncoras do motor e conferida byte a byte pelo portão B. Nada foi digitado de memória.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Brahma (Brajna) | RC-037 | **sem aresta** em `RELACOES`; arquivo existe |
-| Quarto Logos (Olm / Codificador de Zian) | RC-092 | **sem aresta** em `RELACOES`; arquivo existe |
-| Shiva (Savna) | RC-102 | **sem aresta** em `RELACOES`; arquivo existe |
-| Vishnu (Mavatna) | RC-135 | **sem aresta** em `RELACOES`; arquivo existe |
-| Prabrajna | RC-152 | **sem aresta** em `RELACOES`; arquivo existe |
-| Melkor (o filho dissonante) | RC-844 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Brahma (Brajna) | RC-037 | - | - | sem aresta em RELACOES; arquivo existe |
+| Quarto Logos (Olm / Codificador de Zian) | RC-092 | - | - | sem aresta em RELACOES; arquivo existe |
+| Shiva (Savna) | RC-102 | - | - | sem aresta em RELACOES; arquivo existe |
+| Vishnu (Mavatna) | RC-135 | - | - | sem aresta em RELACOES; arquivo existe |
+| Prabrajna | RC-152 | - | - | sem aresta em RELACOES; arquivo existe |
+| Melkor (o filho dissonante) | RC-844 | associado | <-> | - |
 
 
 ## Ampliação — OIDR26-04 (Onda incremental dry-run — Experiência espiritual e ética evolutiva (derivados normalizados))

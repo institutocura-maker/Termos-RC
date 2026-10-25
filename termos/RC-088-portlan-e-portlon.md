@@ -27,10 +27,10 @@ Juntamente com Astlan, essas três bases do Império Atlante ficavam na Penínsu
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Atlântida / Terra Atlantis | RC-010 | associado |
-| Deidade (Pai-Mãe Amantíssimo / Brahman) | RC-047 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Atlântida / Terra Atlantis | RC-010 | associado | <-> | - |
+| Deidade (Pai-Mãe Amantíssimo / Brahman) | RC-047 | associado | <-> | - |
 
 ## Fontes
 

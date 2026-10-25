@@ -28,13 +28,13 @@ Termo guarda-chuva da palestra de 14/04/2024: o conjunto **intransferível** de 
 
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Criaturas-ferramenta | RC-164 | relaciona-se-a |
-| Favor Divino (conceito invertido) | RC-332 | relaciona-se-a |
-| Arquivos Mentais (coleção de conceitos no psiquismo) | RC-548 | relaciona-se-a |
-| Corpo Sutil Reencarnante | RC-704 | relaciona-se-a |
-| Agenda Espiritual | RC-752 | gera |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Criaturas-ferramenta | RC-164 | relaciona-se-a | -> | - |
+| Favor Divino (conceito invertido) | RC-332 | relaciona-se-a | -> | - |
+| Arquivos Mentais (coleção de conceitos no psiquismo) | RC-548 | relaciona-se-a | -> | - |
+| Corpo Sutil Reencarnante | RC-704 | relaciona-se-a | -> | - |
+| Agenda Espiritual | RC-752 | origina | -> | consolidação: "gera" → "origina" |
 
 ## Fontes
 

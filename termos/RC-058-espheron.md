@@ -17,14 +17,14 @@ atualizado = "2026-09-10"
 A terceira das três grandes naves da Família Val — a menor e mais adaptada para todo tipo de missão, que permaneceu em órbita como que sinalizando a presença Val na Terra (B017). Quando as irmãs foram sucateadas para construir bases planetárias, Espheron permaneceu atuante (B018) e sediou a Experiência Gron: o Processador Val foi transferido de Benem para Espheron, e nave e tripulantes passariam pela "elevação de fase vibratória" na "operação magnética" — experiência idealizada há cerca de 22 mil anos e concluída há cerca de 19.700 (B018). "A cidade de Espheron, ou Alt'Lam Gron" (B018): a cidadela suspensa e invisível — a nave Espheron com as fases vibratórias alteradas, próxima aos céus da Escócia e da Irlanda; dos 1.641 seres entre Benem e Espheron, 983 passaram pela experiência (B031). Na Era Sapiens, a "camuflagem de Espheron" é a cidade-base de Alt'Lam Gron, transmutada para uma dimensão de disfarce, com artefatos voadores em seu sistema operativo (B039).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Alt´Lam Gron | RC-018 | convertida-em (cidadela) |
-| Asphezian | RC-025 | nave-irmã (tríade Val) |
-| Benem | RC-032 | ← relaciona-se-a |
-| Espherian | RC-057 | nave-irmã (tríade Val) |
-| Experiência Gron | RC-062 | sediou |
-| Cidades Voadoras | RC-234 | ← associado-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Alt´Lam Gron | RC-018 | variação | -> | qualificador preservado: cidadela; consolidação: "convertida-em" → "variação" |
+| Asphezian | RC-025 | associado | <-> | qualificador preservado: tríade Val; consolidação: "nave-irmã" → "associado" |
+| Benem | RC-032 | relaciona-se-a | <- | - |
+| Espherian | RC-057 | associado | <-> | qualificador preservado: tríade Val; consolidação: "nave-irmã" → "associado" |
+| Experiência Gron | RC-062 | contexto | -> | consolidação: "sediou" → "contexto" |
+| Cidades Voadoras | RC-234 | associado | <-> | - |
 
 ## Fontes
 

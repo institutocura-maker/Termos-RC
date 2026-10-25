@@ -23,12 +23,12 @@ Processo pelo qual anjos clones desenvolvem senso de identidade e iniciativa ap�
 Extraído da live P2025-10-25 — 2ª Edição Estagiários do Kaos.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Anjos clones | RC-019 | aplica-se-a |
-| En Drel | RC-055 | — |
-| Zont En Drel 29 | RC-147 | envolve |
-| A Humanização do Criador | RC-245 | — |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Anjos clones | RC-019 | usa | -> | consolidação: "aplica-se-a" → "usa" |
+| En Drel | RC-055 | - | - | sem relação informada; 17 linhas são registros de fonte com 4 colunas |
+| Zont En Drel 29 | RC-147 | envolve | -> | - |
+| A Humanização do Criador | RC-245 | - | - | sem relação informada; 17 linhas são registros de fonte com 4 colunas |
 
 ## Seres Associados
 Consultar relações na Base.

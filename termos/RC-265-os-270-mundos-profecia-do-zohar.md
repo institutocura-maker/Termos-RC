@@ -24,16 +24,16 @@ Profecia registrada no **Sepher ha-Zohar** ("VAYEHI 21, 8B-9A"), revelada a Shim
 A profecia conecta-se ao Juízo Final (na cultura cristã, relacionado ao retorno de Jesus) e à Reintegração Cósmica: os 270 mundos incluem as moradas do universo paralelo "capazes de entenderem minimamente o que está sendo resgatado" + as civilizações deste universo biológico "que também acompanham e aguardam o momento da 'Reintegração Cósmica'". A Cabala foi elaborada "não somente para os terráqueos, mas também e, principalmente, para parte dos tais 270 mundos".
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Reintegração Cósmica | RC-003 | contexto |
-| Tzimtzum | RC-008 | associado |
-| Brahma (Brajna) | RC-037 | ← relaciona-se-a |
-| Isolamento Cósmico | RC-070 | contexto |
-| Lokas | RC-077 | é-um (moradas) |
-| Sepher ha-Zohar (e Shimon Bar Yochai) | RC-266 | profecias-em |
-| Desígnios Proféticos (profecia como instrumento de domínio e sua desconexão) | RC-858 | associado |
-| Juízo Final | (relacionado) | evento |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Reintegração Cósmica | RC-003 | contexto | -> | - |
+| Tzimtzum | RC-008 | associado | <-> | - |
+| Brahma (Brajna) | RC-037 | relaciona-se-a | <- | - |
+| Isolamento Cósmico | RC-070 | contexto | -> | - |
+| Lokas | RC-077 | é-um | -> | qualificador preservado: moradas |
+| Sepher ha-Zohar (e Shimon Bar Yochai) | RC-266 | contexto | -> | consolidação: "profecias-em" → "contexto" |
+| Desígnios Proféticos (profecia como instrumento de domínio e sua desconexão) | RC-858 | associado | <-> | - |
+| Juízo Final | (relacionado) | relaciona-se-a | -> | consolidação: "evento" → "relaciona-se-a" |
 
 ## Seres Associados
 Kether/Javé (RC-261); Shimon Bar Yochai (RC-266); Jan Val Ellam (RC-071, mensageiro da RC).

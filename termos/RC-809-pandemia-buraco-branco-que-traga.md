@@ -24,16 +24,16 @@ Tese (leitura do autor, palestra **P2017-05-14**, U0002) de que **Javé (RC-001)
 Aparece em **P2017-05-14**, U0002. Contexto: depois de criar os dois universos (matéria + antimatéria), Javé (RC-001) usou sua "cundaline [kundalini] pessoal" e "prana" para moldar o universo — mas **o universo criado começou a tragar Javé de volta** (como um buraco negro traga matéria). O "corpo mental" de Javé caiu, e ele passou 500 milhões de anos se reconstruindo.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | é-tragado-em |
-| Big Bang | RC-034 | é-contexto-de |
-| Ser-Criador fracassado (autoconfissão de Javé) | RC-422 | é-resultado-de |
-| Era da Solidão de Javé (500 Milhões de Anos) | RC-808 | é-consequência-de |
-| Fissão em Dois Universos (Matéria + Antimatéria) | RC-811 | contextualiza |
-| Prajapati (a divindade antes de virar Brama) | RC-852 | associado |
-| Ocaso do Criador (a segunda derrocada do criador reconstruído) | RC-863 | associado |
-| Buraco Negro (astrofísico) | (fato científico) | é-metáfora-para |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Javé | RC-001 | é-um | -> | consolidação: "é-tragado-em" → "é-um" |
+| Big Bang | RC-034 | contexto | -> | consolidação: "é-contexto-de" → "contexto" |
+| Ser-Criador fracassado (autoconfissão de Javé) | RC-422 | causa | <- | consolidação: "é-resultado-de" → "causa"; direção invertida (forma passiva/inversa) |
+| Era da Solidão de Javé (500 Milhões de Anos) | RC-808 | causa | <- | consolidação: "é-consequência-de" → "causa"; direção invertida (forma passiva/inversa) |
+| Fissão em Dois Universos (Matéria + Antimatéria) | RC-811 | contexto | -> | consolidação: "contextualiza" → "contexto" |
+| Prajapati (a divindade antes de virar Brama) | RC-852 | associado | <-> | - |
+| Ocaso do Criador (a segunda derrocada do criador reconstruído) | RC-863 | associado | <-> | - |
+| Buraco Negro (astrofísico) | (fato científico) | variação | -> | consolidação: "é-metáfora-para" → "variação" |
 
 ## Seres Associados
 - **Javé** (RC-001) — quem foi tragado

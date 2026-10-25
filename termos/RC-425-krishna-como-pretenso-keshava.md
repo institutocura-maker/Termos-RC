@@ -33,16 +33,16 @@ atualizado = "2026-08-29"
 **Origem do conteúdo da ampliação:** palestra `P2023-10-14 — A Esquecida Honra dos Anunnaki`, megabloco U0020 do `original.txt` (transcrição automatizada, **não conferida com o áudio**); aspas recortadas byte a byte por `_gerar_ampliacoes_P2023-10-14.py`.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Keshava | RC-073 | associado |
-| Revelação Cósmica (conceito) | RC-094 | associado |
-| Trimurti | RC-104 | associado |
-| Krishna (avatar de Vishnu/Shiva) | RC-414 | variação |
-| Krishna (avatar de Vishnu/Shiva) | RC-414 | ← relaciona-se-a |
-| Arquivos do Destino Universal | RC-714 | opõe-se-a |
-| Buraco Negro Mental / Consciencial | RC-717 | ← relaciona-se-a |
-| Dignidade como Critério de Consciência | RC-722 | relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Keshava | RC-073 | associado | <-> | - |
+| Revelação Cósmica (conceito) | RC-094 | associado | <-> | - |
+| Trimurti | RC-104 | associado | <-> | - |
+| Krishna (avatar de Vishnu/Shiva) | RC-414 | variação | -> | - |
+| Krishna (avatar de Vishnu/Shiva) | RC-414 | relaciona-se-a | <- | - |
+| Arquivos do Destino Universal | RC-714 | opõe-se-a | -> | - |
+| Buraco Negro Mental / Consciencial | RC-717 | relaciona-se-a | <- | - |
+| Dignidade como Critério de Consciência | RC-722 | relaciona-se-a | -> | - |
 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo (citação/paráfrase) |

@@ -50,20 +50,20 @@ que agora aponta da remissiva para o verbete canônico.
 Os fenômenos denunciadores do fim são o pano de fundo sensorial de todo o B022: o "firmamento em plena convulsão", os "potentíssimos fenômenos" que se sucedem, os campos protetores em torno dos três seres. Eles anunciam o **Tempo de Apostasia** (RC-313), a Dissolução da Tríade (RC-300) e o fim da Lila (RC-315). O termo apareceu primeiramente como título de capítulo no sumário de B035 (O Big Data do Criador), onde foi registrado como candidato — agora confirmado com o conteúdo de B022.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Isolamento Cósmico | RC-070 | associado |
-| Revelação Cósmica (conceito) | RC-094 | associado |
-| Trimurti | RC-104 | afeta |
-| Eras da Criação (10 eras) | RC-155 | associado |
-| Fenômenos Denunciadores do Fim | RC-203 | ← variação |
-| Dissolução da Tríade (2015–2017) | RC-300 | anuncia |
-| Tempo de Apostasia | RC-313 | denuncia |
-| O Fim da Lila | RC-315 | contexto |
-| Esgotamento e Solidão (dos Trimurtianos) | RC-317 | consequência |
-| Fim dos Tempos / Final de Ciclo × Fim do Mundo | RC-572 | associado |
-| Fim do Experimento Humano | RC-578 | associado |
-| Colapso do Caos Organizado | RC-690 | ← relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Isolamento Cósmico | RC-070 | associado | <-> | - |
+| Revelação Cósmica (conceito) | RC-094 | associado | <-> | - |
+| Trimurti | RC-104 | causa | -> | consolidação: "afeta" → "causa" |
+| Eras da Criação (10 eras) | RC-155 | associado | <-> | - |
+| Fenômenos Denunciadores do Fim | RC-203 | variação | <- | - |
+| Dissolução da Tríade (2015–2017) | RC-300 | comunica | -> | consolidação: "anuncia" → "comunica" |
+| Tempo de Apostasia | RC-313 | opõe-se-a | -> | consolidação: "denuncia" → "opõe-se-a" |
+| O Fim da Lila | RC-315 | contexto | -> | - |
+| Esgotamento e Solidão (dos Trimurtianos) | RC-317 | causa | -> | consolidação: "consequência" → "causa" |
+| Fim dos Tempos / Final de Ciclo × Fim do Mundo | RC-572 | associado | <-> | - |
+| Fim do Experimento Humano | RC-578 | associado | <-> | - |
+| Colapso do Caos Organizado | RC-690 | relaciona-se-a | <- | - |
 
 ## Seres Associados
 Brahma (RC-037); Vishnu (RC-135); Shiva (RC-102); Jan Val Ellam (RC-071, testemunha).

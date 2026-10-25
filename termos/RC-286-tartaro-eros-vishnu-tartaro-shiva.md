@@ -17,20 +17,20 @@ atualizado = "2026-09-12"
 Loca/morada do universo vizinho usada como prisão: abrigava os seres demoníacos derrotados nas guerras do universo antimaterial (titãs após a luta com Zeus/Cronos, por exemplo). A base registra a correspondência "Eros = Vishnu / Tártaro = Shiva" (RC-286). Na leitura da palestra P2026-07-25, o Tártaro ganhou nova função: o arconte Hades ("Ades/Reides", irmão de Zeus) passou a aprisionar ali os **eus mentais** dos humanos mortos (descendência de Adão vinculada ao DNA de Javé) — a "tecnologia de aprisionamento" que Jesus confrontou na cruz (os 500 passos).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Jesus | RC-072 | ← relaciona-se-a |
-| Jesus | RC-072 | relaciona-se-a |
-| Len Mion (Satã) | RC-074 | relaciona-se-a |
-| Pandora | RC-086 | ← relaciona-se-a |
-| Shiva (Savna) | RC-102 | variação |
-| Vishnu (Mavatna) | RC-135 | variação |
-| Zeus | RC-145 | associado |
-| Caos = Brahma = Javé (correspondência) | RC-284 | associado |
-| Deva / Aurora (A Grande Deusa) | RC-475 | ← relaciona-se-a |
-| Herança Cósmica (padrões de existências anteriores) | RC-519 | relaciona-se-a |
-| Kama (personificação do desejo) | RC-622 | associado |
-| Belial (arconte; 'Satã' do livro de Jó) | RC-479 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Jesus | RC-072 | relaciona-se-a | <- | - |
+| Jesus | RC-072 | relaciona-se-a | -> | - |
+| Len Mion (Satã) | RC-074 | relaciona-se-a | -> | - |
+| Pandora | RC-086 | relaciona-se-a | <- | - |
+| Shiva (Savna) | RC-102 | variação | -> | - |
+| Vishnu (Mavatna) | RC-135 | variação | -> | - |
+| Zeus | RC-145 | associado | <-> | - |
+| Caos = Brahma = Javé (correspondência) | RC-284 | associado | <-> | - |
+| Deva / Aurora (A Grande Deusa) | RC-475 | relaciona-se-a | <- | - |
+| Herança Cósmica (padrões de existências anteriores) | RC-519 | relaciona-se-a | -> | - |
+| Kama (personificação do desejo) | RC-622 | associado | <-> | - |
+| Belial (arconte; 'Satã' do livro de Jó) | RC-479 | associado | <-> | - |
 
 ## Fontes
 

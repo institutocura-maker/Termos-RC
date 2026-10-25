@@ -23,19 +23,19 @@ Forma preferida: Urdidura de Metatron.
 O Mistério da Árvore da Vida e a Urdidura de Metatron.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Segundo Advento do Cristo (Volta de Jesus) | RC-005 | ← relaciona-se-a |
-| Sefirot / Árvore da Vida | RC-263 | organiza |
-| Sefirot / Árvore da Vida | RC-263 | ← relaciona-se-a |
-| Sefirot / Árvore da Vida | RC-263 | relaciona-se-a |
-| Planos de Existência da Cabala (Atziluth, Briah, Yetzirah, Assiah) | RC-264 | inclui |
-| Telos (de um deus) | RC-292 | — |
-| Timé (de um deus) | RC-293 | — |
-| Elm (Moros — ser LM de Tempérion) | RC-454 | relaciona-se-a |
-| Metatron | RC-671 | ← produz |
-| Metatron | RC-671 | ← relaciona-se-a |
-| Metatron | RC-671 | relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Segundo Advento do Cristo (Volta de Jesus) | RC-005 | relaciona-se-a | <- | - |
+| Sefirot / Árvore da Vida | RC-263 | inclui | -> | consolidação: "organiza" → "inclui" |
+| Sefirot / Árvore da Vida | RC-263 | relaciona-se-a | <- | - |
+| Sefirot / Árvore da Vida | RC-263 | relaciona-se-a | -> | - |
+| Planos de Existência da Cabala (Atziluth, Briah, Yetzirah, Assiah) | RC-264 | inclui | -> | - |
+| Telos (de um deus) | RC-292 | - | - | sem relação informada; 17 linhas são registros de fonte com 4 colunas |
+| Timé (de um deus) | RC-293 | - | - | sem relação informada; 17 linhas são registros de fonte com 4 colunas |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | relaciona-se-a | -> | - |
+| Metatron | RC-671 | origina | <- | consolidação: "produz" → "origina" |
+| Metatron | RC-671 | relaciona-se-a | <- | - |
+| Metatron | RC-671 | relaciona-se-a | -> | - |
 
 ## Seres Associados
 Consultar Base.

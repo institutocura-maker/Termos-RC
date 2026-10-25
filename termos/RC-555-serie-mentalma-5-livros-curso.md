@@ -25,15 +25,15 @@ atualizado = "2026-08-28"
 A série é **paralela às RC, mas intimamente ligada** ao corpus (o termo já era citado em B024, 2019 — RC-166). O *Mentalma I* (B074, 2020) define o método (Arquivos Mentais RC-548; Circuito do CHA RC-549; Vontade de Progredir RC-550; Dehatma Buddhi RC-551; Disciplina dos 3As RC-552) e os **5 primeiros graus de maestria** (cap. 18); o *Mentalma II* (B075, 2022) aprofunda a **Gestão Psíquica e Memórias Complexas** (RC-554) e adiciona o **Grau 6 — "Maestria da Arquitetura do Projeto Espiritual de Vida"** (p. 185). Na Introdução do B075 (Atlan, 08/01/2022), a série é descrita como "sete partes, descritas na série de livros", "sendo que, até o momento, estão publicados os dois primeiros". O "Sobre o Autor" (B075, p. 196) lista: "Formulador do MENTALMA – A Yoga do Cotidiano (Ciclo de Cursos e Palestras)".
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Mentalma | RC-166 | relaciona-se-a |
-| Arquivos Mentais (coleção de conceitos no psiquismo) | RC-548 | relaciona-se-a (tema do vol. I) |
-| Vontade de Progredir (chave dos arquivos mentais) | RC-550 | relaciona-se-a (tema do vol. I) |
-| Dehatma Buddhi (doença psíquica da mente identificada com o corpo) | RC-551 | relaciona-se-a (tema dos vols. I–II) |
-| Disciplina dos 3As (respiração, mente, alinhamento) | RC-552 | relaciona-se-a (tema dos vols. I–II) |
-| Eu Profundo (nível espiritual do Eu) | RC-553 | relaciona-se-a (tema dos vols. I–II) |
-| Gestão Psíquica e Memórias Complexas (Mentalma II) | RC-554 | relaciona-se-a (tema do vol. II) |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Mentalma | RC-166 | relaciona-se-a | -> | - |
+| Arquivos Mentais (coleção de conceitos no psiquismo) | RC-548 | relaciona-se-a | -> | qualificador preservado: tema do vol. I |
+| Vontade de Progredir (chave dos arquivos mentais) | RC-550 | relaciona-se-a | -> | qualificador preservado: tema do vol. I |
+| Dehatma Buddhi (doença psíquica da mente identificada com o corpo) | RC-551 | relaciona-se-a | -> | qualificador preservado: tema dos vols. I–II |
+| Disciplina dos 3As (respiração, mente, alinhamento) | RC-552 | relaciona-se-a | -> | qualificador preservado: tema dos vols. I–II |
+| Eu Profundo (nível espiritual do Eu) | RC-553 | relaciona-se-a | -> | qualificador preservado: tema dos vols. I–II |
+| Gestão Psíquica e Memórias Complexas (Mentalma II) | RC-554 | relaciona-se-a | -> | qualificador preservado: tema do vol. II |
 
 ## Seres Associados
 Jan Val Ellam (RC-071, criador e formulador da série e do curso).

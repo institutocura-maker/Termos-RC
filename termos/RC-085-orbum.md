@@ -27,15 +27,15 @@ Planeta do Sistema de Capela — um magnífico sol cuja luz gasta cerca de 42 an
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Sophia (Cristo Cósmico) | RC-009 | ← ocorre-em |
-| Capela (Sistema) | RC-039 | associado |
-| CFD (Código Fonte Definidor) | RC-040 | associado |
-| Quarto Logos (Olm / Codificador de Zian) | RC-092 | associado |
-| Projeto Orbum (cidadania planetária) | RC-535 | ← relaciona-se-a |
-| Temis (Têmis) como Mãe-de-Pandora (Co-clonadora) | RC-815 | associado |
-| Pacto Aesir-Vanir como Origem Nórdica da Ideia de Pandora | RC-816 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Sophia (Cristo Cósmico) | RC-009 | contexto | <- | consolidação: "ocorre-em" → "contexto" |
+| Capela (Sistema) | RC-039 | associado | <-> | - |
+| CFD (Código Fonte Definidor) | RC-040 | associado | <-> | - |
+| Quarto Logos (Olm / Codificador de Zian) | RC-092 | associado | <-> | - |
+| Projeto Orbum (cidadania planetária) | RC-535 | relaciona-se-a | <- | - |
+| Temis (Têmis) como Mãe-de-Pandora (Co-clonadora) | RC-815 | associado | <-> | - |
+| Pacto Aesir-Vanir como Origem Nórdica da Ideia de Pandora | RC-816 | associado | <-> | - |
 
 ## Fontes
 

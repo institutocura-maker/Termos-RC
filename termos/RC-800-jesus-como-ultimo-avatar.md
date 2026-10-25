@@ -24,16 +24,16 @@ Tese (leitura do autor, palestra **P2018-02-24**, U0004/U0005) de que **Jesus (R
 Aparece em **P2018-02-24**, U0004 e U0005. Contexto: depois que as trevas espalharam o mal em todos os corações humanos (RC-798), Saibaba e Jesus foram os avatares que **não destruíram o mal centralizado** (porque ele já estava em todos), mas propuseram a **luta íntima**. Jesus "sabia" que Javé queria que ele matasse, usasse os poderes — mas ele se recusou.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Jesus | RC-072 | qualifica |
-| Ser-Criador fracassado (autoconfissão de Javé) | RC-422 | recusa-usar-poderes-de |
-| Estratégia dos Avatares (Moisés/Krishna/Saibaba/Jesus/Maomé) | RC-797 | é-último-de |
-| Mudança de Estratégia das Trevas (Centralizar → Espalhar) | RC-798 | responde-a |
-| Saibaba como Precursor de Jesus | RC-801 | paralelo-com |
-| Humanos como Cobaias dos Deuses | RC-802 | reconhece-que-humanos-são |
-| Budismo como Exceção (Sem Deus) | RC-803 | associado |
-| Espiritismo com Germe da Poluição Católica/Protestante | RC-805 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Jesus | RC-072 | explica | -> | consolidação: "qualifica" → "explica" |
+| Ser-Criador fracassado (autoconfissão de Javé) | RC-422 | usa | -> | consolidação: "recusa-usar-poderes-de" → "usa" |
+| Estratégia dos Avatares (Moisés/Krishna/Saibaba/Jesus/Maomé) | RC-797 | sucede | -> | consolidação: "é-último-de" → "sucede" |
+| Mudança de Estratégia das Trevas (Centralizar → Espalhar) | RC-798 | comunica | -> | consolidação: "responde-a" → "comunica" |
+| Saibaba como Precursor de Jesus | RC-801 | associado | <-> | consolidação: "paralelo-com" → "associado" |
+| Humanos como Cobaias dos Deuses | RC-802 | comunica | -> | consolidação: "reconhece-que-humanos-são" → "comunica" |
+| Budismo como Exceção (Sem Deus) | RC-803 | associado | <-> | - |
+| Espiritismo com Germe da Poluição Católica/Protestante | RC-805 | associado | <-> | - |
 
 ## Seres Associados
 - **Jesus** (RC-072) — o último avatar

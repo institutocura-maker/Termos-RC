@@ -24,16 +24,16 @@ atualizado = "2026-08-13"
 O livro é a sequência natural de *Cartas a Javé* (B034) e do *Favor Divino* (B048): após permitir que Javé respondesse às cartas de Mônica Camargo, Ellam passou a registrar as comunicações do Criador. A obra revela o **"Ser-Criador fracassado"** (RC-422), o processo de humanização de Javé, a linhagem dos escolhidos (RC-424) e o confronto com Krishna/Keshava (RC-425).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | é-um |
-| Javé | RC-001 | dita-por |
-| Jan Val Ellam (Rogério de Almeida Freitas) | RC-071 | recebida-por |
-| Revelação Cósmica (conceito) | RC-094 | associado |
-| Favor Divino (conceito invertido) | RC-332 | precede |
-| Cartas a Javé (obra e diálogo) | RC-416 | precede |
-| Ser-Criador fracassado (autoconfissão de Javé) | RC-422 | é-um (tema) |
-| Advogado de Acusação (Ellam × Javé) | RC-423 | recebida-por |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Javé | RC-001 | é-um | -> | - |
+| Javé | RC-001 | controla | <- | consolidação: "dita-por" → "controla"; direção invertida (forma passiva/inversa) |
+| Jan Val Ellam (Rogério de Almeida Freitas) | RC-071 | transfere | <- | consolidação: "recebida-por" → "transfere"; direção invertida (forma passiva/inversa) |
+| Revelação Cósmica (conceito) | RC-094 | associado | <-> | - |
+| Favor Divino (conceito invertido) | RC-332 | precede | -> | - |
+| Cartas a Javé (obra e diálogo) | RC-416 | precede | -> | - |
+| Ser-Criador fracassado (autoconfissão de Javé) | RC-422 | é-um | -> | qualificador preservado: tema |
+| Advogado de Acusação (Ellam × Javé) | RC-423 | transfere | <- | consolidação: "recebida-por" → "transfere"; direção invertida (forma passiva/inversa) |
 
 ## Seres Associados
 Javé (RC-001); Jan Val Ellam (RC-071); Mônica Camargo (RC-420, contexto).

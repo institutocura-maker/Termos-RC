@@ -17,12 +17,12 @@ atualizado = "2026-09-12"
 Morada principal de Javé no Brahmaloka (universo antimaterial): uma loca com uma grande base laboratorial dentro da qual há uma pequena nave antimaterial que leva o eu/corpo de Javé ao mundo material. Edificada "nos últimos tempos" (~25.000 anos, segundo a palestra P2026-07-25), desde o último estado de coma de Javé (que ficava milhões de anos apagado, mantido pelos anjos clones).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | associado-a |
-| Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | relaciona-se-a |
-| Classes de anjos de Arabot-Ráquia (ofanim, serafins, galgaulim, chashmalim) | RC-485 | relaciona-se-a |
-| Enoque (sétimo patriarca; levado por Javé) | RC-489 | relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Javé | RC-001 | associado | <-> | - |
+| Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | relaciona-se-a | -> | - |
+| Classes de anjos de Arabot-Ráquia (ofanim, serafins, galgaulim, chashmalim) | RC-485 | relaciona-se-a | -> | - |
+| Enoque (sétimo patriarca; levado por Javé) | RC-489 | relaciona-se-a | -> | - |
 
 ## Fontes
 

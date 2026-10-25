@@ -27,21 +27,21 @@ Os 9 Val que começaram a operar fora das naves e morreram logo na primeira expe
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Shamb-Aha | RC-101 | associado |
-| Val (Família Val) | RC-109 | associado |
-| Val Am | RC-110 | associado |
-| Val Anen | RC-112 | associado |
-| Val Antien | RC-114 | associado |
-| Val Aten | RC-115 | associado |
-| Val Bon | RC-116 | associado |
-| Val Den | RC-117 | associado |
-| Val Dimon | RC-118 | associado |
-| Val-Ha | RC-127 | associado |
-| Val Sean | RC-130 | associado |
-| Val Sion | RC-131 | associado |
-| Os 9 Val dos Corpos Perdidos | RC-493 | ← variação |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Shamb-Aha | RC-101 | associado | <-> | - |
+| Val (Família Val) | RC-109 | associado | <-> | - |
+| Val Am | RC-110 | associado | <-> | - |
+| Val Anen | RC-112 | associado | <-> | - |
+| Val Antien | RC-114 | associado | <-> | - |
+| Val Aten | RC-115 | associado | <-> | - |
+| Val Bon | RC-116 | associado | <-> | - |
+| Val Den | RC-117 | associado | <-> | - |
+| Val Dimon | RC-118 | associado | <-> | - |
+| Val-Ha | RC-127 | associado | <-> | - |
+| Val Sean | RC-130 | associado | <-> | - |
+| Val Sion | RC-131 | associado | <-> | - |
+| Os 9 Val dos Corpos Perdidos | RC-493 | variação | <- | - |
 
 ## Fontes
 

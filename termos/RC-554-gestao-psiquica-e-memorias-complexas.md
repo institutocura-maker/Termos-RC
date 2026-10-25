@@ -24,16 +24,16 @@ atualizado = "2026-08-25"
 No *Mentalma II* (B075), Ellam aprofunda o método do *Mentalma I* (B074) no terreno da **gestão** (não apenas da coleção) dos arquivos: a "caixa de depósitos" (mente) é comandada pela Vontade (RC-550); o "canal mental" (psiquismo) funciona como o "**conectoma mental**" (extrapolação RC, nota p. 190–191 — ver RC-557); a "memória quântica celular" (17ª Const.) é reprogramada pela "Vontade"; a "agenda espiritual" é o instrumento diário ("Dia Meta 10", p. 165–166). A "pacificação pessoal" (cap. 11) — "a morte diária", o desapego e a prática "Phowa" (a "arte de morrer bem" — **vocabulário da obra, leitura**) — é o estágio terminal da gestão: "rompi com todos os medos e receios" (p. 180).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Mentalma | RC-166 | é-um |
-| Arquivos Mentais (coleção de conceitos no psiquismo) | RC-548 | envolve (o que é gerido) |
-| Vontade de Progredir (chave dos arquivos mentais) | RC-550 | relaciona-se-a (a Vontade comanda o processo) |
-| Dehatma Buddhi (doença psíquica da mente identificada com o corpo) | RC-551 | relaciona-se-a (a "doença" que a gestão trata) |
-| Disciplina dos 3As (respiração, mente, alinhamento) | RC-552 | relaciona-se-a (prática-base: PRA) |
-| Eu Profundo (nível espiritual do Eu) | RC-553 | relaciona-se-a (o "Eu Mais Profundo" como gestor) |
-| Série Mentalma (5 livros + curso) | RC-555 | está-em (volume II) |
-| Conectoma humano (pulsações sinápticas e a sensação de eu) | RC-557 | relaciona-se-a ("conectoma mental", p. 190–191) |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Mentalma | RC-166 | é-um | -> | - |
+| Arquivos Mentais (coleção de conceitos no psiquismo) | RC-548 | envolve | -> | qualificador preservado: o que é gerido |
+| Vontade de Progredir (chave dos arquivos mentais) | RC-550 | relaciona-se-a | -> | qualificador preservado: a Vontade comanda o processo |
+| Dehatma Buddhi (doença psíquica da mente identificada com o corpo) | RC-551 | relaciona-se-a | -> | qualificador preservado: a "doença" que a gestão trata |
+| Disciplina dos 3As (respiração, mente, alinhamento) | RC-552 | relaciona-se-a | -> | qualificador preservado: prática-base: PRA |
+| Eu Profundo (nível espiritual do Eu) | RC-553 | relaciona-se-a | -> | qualificador preservado: o "Eu Mais Profundo" como gestor |
+| Série Mentalma (5 livros + curso) | RC-555 | contexto | -> | qualificador preservado: volume II; consolidação: "está-em" → "contexto" |
+| Conectoma humano (pulsações sinápticas e a sensação de eu) | RC-557 | relaciona-se-a | -> | qualificador preservado: "conectoma mental", p. 190–191 |
 
 ## Seres Associados
 Espírito encarnado (o "Eu organizador" em ação); Jan Val Ellam (RC-071, criador do método).

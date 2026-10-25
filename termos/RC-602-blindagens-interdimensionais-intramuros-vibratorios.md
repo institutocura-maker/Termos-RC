@@ -23,14 +23,14 @@ Barreiras quânticas/vibratórias entre níveis espirituais e criações derivad
 São distintas da Blindagem Cósmica terrestre/quarentena RC-510. A palestra afirma que informações do sofrimento começaram a passar nas entrelinhas dos códigos.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Colapso da Matriz Quântica (3 níveis) | RC-415 | relaciona-se-a |
-| Colapso da Matriz Quântica (3 níveis) | RC-415 | relaciona-se-a |
-| Blindagem cósmica (= quarentena terrestre) | RC-510 | distingue-se-de |
-| Departamentalização da Vida | RC-601 | ← produz |
-| Departamentalização da Vida | RC-601 | parte-de |
-| Trincheira Vibratória no Campo Informativo | RC-613 | ← atravessa |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Colapso da Matriz Quântica (3 níveis) | RC-415 | relaciona-se-a | -> | - |
+| Colapso da Matriz Quântica (3 níveis) | RC-415 | relaciona-se-a | -> | - |
+| Blindagem cósmica (= quarentena terrestre) | RC-510 | opõe-se-a | -> | consolidação: "distingue-se-de" → "opõe-se-a" |
+| Departamentalização da Vida | RC-601 | origina | <- | consolidação: "produz" → "origina" |
+| Departamentalização da Vida | RC-601 | parte-de | -> | - |
+| Trincheira Vibratória no Campo Informativo | RC-613 | contexto | <- | consolidação: "atravessa" → "contexto" |
 
 ## Seres Associados
 Consultar as relações tipadas acima.

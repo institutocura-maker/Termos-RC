@@ -13,17 +13,17 @@ atualizado = "2026-09-12"
 # Kvasir e Freya (Vanir/Aesir) — RC-396
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Demos | RC-049 | associado |
-| Revelação Cósmica (conceito) | RC-094 | associado |
-| Ragnarok em Marte | RC-395 | ← mata |
-| Elm (Moros — ser LM de Tempérion) | RC-454 | ← relaciona-se-a |
-| Elm (Moros — ser LM de Tempérion) | RC-454 | vinculado-ao-espírito |
-| Flechas / Profecias de Moros | RC-611 | associado |
-| Centro Alquímico-Farmacopédico | RC-789 | associado |
-| Temis (Têmis) como Mãe-de-Pandora (Co-clonadora) | RC-815 | associado |
-| Pacto Aesir-Vanir como Origem Nórdica da Ideia de Pandora | RC-816 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Demos | RC-049 | associado | <-> | - |
+| Revelação Cósmica (conceito) | RC-094 | associado | <-> | - |
+| Ragnarok em Marte | RC-395 | danifica | <- | consolidação: "mata" → "danifica" |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | relaciona-se-a | <- | - |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | associado | <-> | consolidação: "vinculado-ao-espírito" → "associado" |
+| Flechas / Profecias de Moros | RC-611 | associado | <-> | - |
+| Centro Alquímico-Farmacopédico | RC-789 | associado | <-> | - |
+| Temis (Têmis) como Mãe-de-Pandora (Co-clonadora) | RC-815 | associado | <-> | - |
+| Pacto Aesir-Vanir como Origem Nórdica da Ideia de Pandora | RC-816 | associado | <-> | - |
 
 ## Fontes
 | Fonte | Localização | Tipo |

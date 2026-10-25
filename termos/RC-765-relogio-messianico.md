@@ -26,16 +26,16 @@ atualizado = "2026-08-18"
 - **Metáfora do filme:** "a vida humana é curtinha... como se a gente entrasse num filme que tá ocorrendo a 2 horas" — os humanos veem os mesmos "10 minutos" do filme profético.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | relaciona-se-a |
-| Sophia (Cristo Cósmico) | RC-009 | relaciona-se-a |
-| Len Mion (Satã) | RC-074 | relaciona-se-a |
-| Abelha-Rainha (Javé) | RC-175 | associado |
-| Mohen So = Phanes / Protogonos / Vasuki / Kalki (correspondências) | RC-282 | relaciona-se-a |
-| Marduk (= Ra; Anunnaki filho de Enki) | RC-460 | relaciona-se-a |
-| Maitreya (Dionísio; forma adiágena de Vishnu) | RC-481 | relaciona-se-a |
-| Era de Peixes | RC-592 | relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Javé | RC-001 | relaciona-se-a | -> | - |
+| Sophia (Cristo Cósmico) | RC-009 | relaciona-se-a | -> | - |
+| Len Mion (Satã) | RC-074 | relaciona-se-a | -> | - |
+| Abelha-Rainha (Javé) | RC-175 | associado | <-> | - |
+| Mohen So = Phanes / Protogonos / Vasuki / Kalki (correspondências) | RC-282 | relaciona-se-a | -> | - |
+| Marduk (= Ra; Anunnaki filho de Enki) | RC-460 | relaciona-se-a | -> | - |
+| Maitreya (Dionísio; forma adiágena de Vishnu) | RC-481 | relaciona-se-a | -> | - |
+| Era de Peixes | RC-592 | relaciona-se-a | -> | - |
 
 ## Fontes
 

@@ -27,11 +27,11 @@ Na B001, título do capítulo em que a obra enumera as categorias de seres que a
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Espiritualidade Superior | RC-059 | associado |
-| Seres Espirituais | RC-100 | associado |
-| Agente do Mais Alto | RC-214 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Espiritualidade Superior | RC-059 | associado | <-> | - |
+| Seres Espirituais | RC-100 | associado | <-> | - |
+| Agente do Mais Alto | RC-214 | associado | <-> | - |
 
 ## Fontes
 

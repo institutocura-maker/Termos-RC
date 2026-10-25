@@ -26,15 +26,15 @@ Na leitura de Jan Val Ellam, um genótipo (GG) associado à gentileza, que teria
 
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Enki (Anunnaki; inoculou o gene FOXP2) | RC-486 | relaciona-se-a |
-| Evolução Possível (terceira via: nem Darwin, nem deus) | RC-541 | relaciona-se-a |
-| Espelho da Herança Espiritual no Epigenoma | RC-543 | relaciona-se-a |
-| Dignidade como Critério de Consciência | RC-722 | relaciona-se-a |
-| Dessensibilização da Condição Humana | RC-746 | ← relaciona-se-a |
-| A Raça Inabalável dos Sethianos Emancipados | RC-766 | ← relaciona-se-a |
-| Oxitocina (hormônio do bem — base bioquímica da Karuna) | RC-839 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Enki (Anunnaki; inoculou o gene FOXP2) | RC-486 | relaciona-se-a | -> | - |
+| Evolução Possível (terceira via: nem Darwin, nem deus) | RC-541 | relaciona-se-a | -> | - |
+| Espelho da Herança Espiritual no Epigenoma | RC-543 | relaciona-se-a | -> | - |
+| Dignidade como Critério de Consciência | RC-722 | relaciona-se-a | -> | - |
+| Dessensibilização da Condição Humana | RC-746 | relaciona-se-a | <- | - |
+| A Raça Inabalável dos Sethianos Emancipados | RC-766 | relaciona-se-a | <- | - |
+| Oxitocina (hormônio do bem — base bioquímica da Karuna) | RC-839 | associado | <-> | - |
 
 ## Fontes
 

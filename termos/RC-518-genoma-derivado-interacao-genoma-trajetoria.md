@@ -17,19 +17,19 @@ atualizado = "2026-08-19"
 Conceito da RC sobre a interação genoma × trajetória do eu. Na palestra P2026-07-25, o genoma humano é apresentado como "a grande joia" da criação de 13,8 bilhões de anos — não o corpo, mas **o que um eu faz do seu genoma**: a construção interior (padrões de genética pessoal, como Jesus e Sidarta Gautama) como preciosidade disputada pelos conselhos.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Seres Terrenos (Homo Sapiens) | RC-099 | associado |
-| DNA como Projeção Holográfica do Psiquismo do Criador | RC-217 | relaciona-se-a |
-| Herança Cósmica (padrões de existências anteriores) | RC-519 | ← relaciona-se-a |
-| Ex-DNA-lixo (DNA não codificante reinterpretado) | RC-542 | relaciona-se-a |
-| Sensação de eu (a sensação particular a cada instante) | RC-558 | relaciona-se-a |
-| Genoma da Liberdade | RC-619 | relaciona-se-a |
-| Evolução da Informação, não das Espécies | RC-693 | ← opera-em |
-| Evolução da Informação, não das Espécies | RC-693 | ← relaciona-se-a |
-| Genes Críticos / Genes Dorminhocos | RC-710 | ← atua-em |
-| Jabutis Genéticos | RC-729 | associado |
-| Invasão Ancestral do Genoma e do Psiquismo Humanos | RC-732 | ← relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Seres Terrenos (Homo Sapiens) | RC-099 | associado | <-> | - |
+| DNA como Projeção Holográfica do Psiquismo do Criador | RC-217 | relaciona-se-a | -> | - |
+| Herança Cósmica (padrões de existências anteriores) | RC-519 | relaciona-se-a | <- | - |
+| Ex-DNA-lixo (DNA não codificante reinterpretado) | RC-542 | relaciona-se-a | -> | - |
+| Sensação de eu (a sensação particular a cada instante) | RC-558 | relaciona-se-a | -> | - |
+| Genoma da Liberdade | RC-619 | relaciona-se-a | -> | - |
+| Evolução da Informação, não das Espécies | RC-693 | contexto | <- | consolidação: "opera-em" → "contexto" |
+| Evolução da Informação, não das Espécies | RC-693 | relaciona-se-a | <- | - |
+| Genes Críticos / Genes Dorminhocos | RC-710 | contexto | <- | consolidação: "atua-em" → "contexto" |
+| Jabutis Genéticos | RC-729 | associado | <-> | - |
+| Invasão Ancestral do Genoma e do Psiquismo Humanos | RC-732 | relaciona-se-a | <- | - |
 
 ## Fontes
 

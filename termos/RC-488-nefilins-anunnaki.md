@@ -17,16 +17,16 @@ atualizado = "2026-09-12"
 Na RC, os **Nefilins** da tradição bíblica (Gênesis 6) identificados com os **Anunnaki** (RC-024) — os "vigilantes"/híbridos da desobediência pré-diluviana.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Elohim | RC-004 | ← relaciona-se-a |
-| Anunnaki | RC-024 | variação |
-| Anunnaki | RC-024 | sinônimo |
-| Kumari Kandan (tradição) | RC-329 | associado |
-| Hibridização genética (Nefilim reinterpretado) | RC-516 | ← relaciona-se-a |
-| Igigi | RC-580 | ← relaciona-se-a |
-| Igigi | RC-580 | relaciona-se-a |
-| Ao Vencedor as Batatas (paradigma do domínio) | RC-764 | ← relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Elohim | RC-004 | relaciona-se-a | <- | - |
+| Anunnaki | RC-024 | variação | -> | - |
+| Anunnaki | RC-024 | variação | -> | consolidação: "sinônimo" → "variação" |
+| Kumari Kandan (tradição) | RC-329 | associado | <-> | - |
+| Hibridização genética (Nefilim reinterpretado) | RC-516 | relaciona-se-a | <- | - |
+| Igigi | RC-580 | relaciona-se-a | <- | - |
+| Igigi | RC-580 | relaciona-se-a | -> | - |
+| Ao Vencedor as Batatas (paradigma do domínio) | RC-764 | relaciona-se-a | <- | - |
 
 ## Fontes
 

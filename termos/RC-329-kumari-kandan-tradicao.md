@@ -17,15 +17,15 @@ atualizado = "2026-08-19"
 Kumari Kandam — o continente lemuriano do sul da Índia (tradição tâmil), citado na RC como o território onde Shiva estabeleceu seu quartel general.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Atlântida / Terra Atlantis | RC-010 | associado |
-| Seres Terrenos (Homo Sapiens) | RC-099 | associado |
-| Shiva (Savna) | RC-102 | ← associado-a |
-| Shiva (Savna) | RC-102 | relaciona-se-a |
-| Castas Trimurtianas | RC-321 | ← origina-em |
-| Krishna (avatar de Vishnu/Shiva) | RC-414 | relaciona-se-a |
-| Nefilins (= Anunnaki) | RC-488 | relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Atlântida / Terra Atlantis | RC-010 | associado | <-> | - |
+| Seres Terrenos (Homo Sapiens) | RC-099 | associado | <-> | - |
+| Shiva (Savna) | RC-102 | associado | <-> | - |
+| Shiva (Savna) | RC-102 | relaciona-se-a | -> | - |
+| Castas Trimurtianas | RC-321 | origina | <- | consolidação: "origina-em" → "origina" |
+| Krishna (avatar de Vishnu/Shiva) | RC-414 | relaciona-se-a | -> | - |
+| Nefilins (= Anunnaki) | RC-488 | relaciona-se-a | -> | - |
 
 ## Fontes
 

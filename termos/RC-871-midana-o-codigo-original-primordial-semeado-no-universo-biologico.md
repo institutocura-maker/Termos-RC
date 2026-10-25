@@ -29,15 +29,15 @@ Com isso:
 **Origem do conteúdo da ampliação:** palestra `P2022-09-25 — O Contexto Espiritual da Construção de Brasília` (25/09/2022). Transcrição automatizada, **não conferida com o áudio**; cada aspa foi recortada do `original.txt` pelo índice de âncoras do motor e conferida byte a byte pelo portão B. Nada foi digitado de memória.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Trimurti | RC-104 | **sem aresta** em `RELACOES`; arquivo existe |
-| Mohen So = Phanes / Protogonos / Vasuki / Kalki (correspondências) | RC-282 | **sem aresta** em `RELACOES`; arquivo existe |
-| Elm (Moros — ser LM de Tempérion) | RC-454 | **sem aresta** em `RELACOES`; arquivo existe |
-| Baralho genético (metáfora dos 28.869 genes) | RC-562 | **sem aresta** em `RELACOES`; arquivo existe |
-| Wyrd / Urd (Teia do Destino) | RC-658 | **sem aresta** em `RELACOES`; arquivo existe |
-| Especiação Humana — Levas Genéticas | RC-783 | **sem aresta** em `RELACOES`; arquivo existe |
-| Carga virótica (a materialização da primeira carga mental do criador) | RC-877 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Trimurti | RC-104 | - | - | sem aresta em RELACOES; arquivo existe |
+| Mohen So = Phanes / Protogonos / Vasuki / Kalki (correspondências) | RC-282 | - | - | sem aresta em RELACOES; arquivo existe |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | - | - | sem aresta em RELACOES; arquivo existe |
+| Baralho genético (metáfora dos 28.869 genes) | RC-562 | - | - | sem aresta em RELACOES; arquivo existe |
+| Wyrd / Urd (Teia do Destino) | RC-658 | - | - | sem aresta em RELACOES; arquivo existe |
+| Especiação Humana — Levas Genéticas | RC-783 | - | - | sem aresta em RELACOES; arquivo existe |
+| Carga virótica (a materialização da primeira carga mental do criador) | RC-877 | associado | <-> | - |
 
 
 ## Fontes

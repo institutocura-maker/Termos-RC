@@ -25,16 +25,16 @@ atualizado = "2026-10-22"
 O conceito de telos é central para compreender a psicologia dos deuses demo nas RC: cada demo tem um propósito (telos) cuja realização sustenta sua timé (honra/domínio). No B021, o telos de Zeus se torna "inglório" — gerenciar o fim do universo demo e o "projeto de migração" dos demos para o nosso universo (já que "tudo por lá vai se acabar").
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Revelação Cósmica (conceito) | RC-094 | associado |
-| Zeus | RC-145 | agente |
-| Timé (de um deus) | RC-293 | relaciona-se-a |
-| Eon de Khaos (Universo de Caos) | RC-294 | ambiente |
-| Era dos Humanos (Zeus e a) | RC-297 | contexto |
-| Urdidura de Metatron | RC-674 | associado |
-| Sophia como Protetorado da Humanidade | RC-784 | associado |
-| Conceito Abaiano (Fazer Sem Esperar Receber) | RC-793 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Revelação Cósmica (conceito) | RC-094 | associado | <-> | - |
+| Zeus | RC-145 | envolve | -> | consolidação: "agente" → "envolve" |
+| Timé (de um deus) | RC-293 | relaciona-se-a | -> | - |
+| Eon de Khaos (Universo de Caos) | RC-294 | contexto | -> | consolidação: "ambiente" → "contexto" |
+| Era dos Humanos (Zeus e a) | RC-297 | contexto | -> | - |
+| Urdidura de Metatron | RC-674 | associado | <-> | - |
+| Sophia como Protetorado da Humanidade | RC-784 | associado | <-> | - |
+| Conceito Abaiano (Fazer Sem Esperar Receber) | RC-793 | associado | <-> | - |
 
 ## Seres Associados
 Zeus (RC-145); demos do Olimpo (RC-049).

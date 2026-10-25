@@ -24,15 +24,15 @@ Tese (leitura do autor, palestra **P2018-02-24**, U0005) de que **o Espiritismo 
 Aparece em **P2018-02-24**, U0005. Contexto: o autor lista as religiões como instrumentos de dominação e inclui o Espiritismo entre elas, mas com a ressalva: "Por mais que ele tenha estranhado, mas o verme, no germe da poluição, veio através de espíritos de ex-católicos e ex-protestantes que soldados espíritas trouxeram."
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Shamb-Aha | RC-101 | qualifica |
-| Ulsh | RC-105 | inclui |
-| Lavagem Cerebral (condicionamento) | RC-335 | contém-germe-de |
-| Jesus como Último Avatar (Não Mata) | RC-800 | paralelo-com |
-| Budismo como Exceção (Sem Deus) | RC-803 | opõe-se-a |
-| Catolicismo | (parte de RC-105) | contaminou-via |
-| Protestantismo | (parte de RC-105) | contaminou-via |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Shamb-Aha | RC-101 | explica | -> | consolidação: "qualifica" → "explica" |
+| Ulsh | RC-105 | inclui | -> | - |
+| Lavagem Cerebral (condicionamento) | RC-335 | inclui | -> | consolidação: "contém-germe-de" → "inclui" |
+| Jesus como Último Avatar (Não Mata) | RC-800 | associado | <-> | consolidação: "paralelo-com" → "associado" |
+| Budismo como Exceção (Sem Deus) | RC-803 | opõe-se-a | -> | - |
+| Catolicismo | (parte de RC-105) | danifica | -> | consolidação: "contaminou-via" → "danifica" |
+| Protestantismo | (parte de RC-105) | danifica | -> | consolidação: "contaminou-via" → "danifica" |
 
 ## Seres Associados
 - **Kardec** (1804-1869) — codificador do Espiritismo

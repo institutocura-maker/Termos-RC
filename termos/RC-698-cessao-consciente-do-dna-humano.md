@@ -31,23 +31,23 @@ A cessão é vinculada a:
 - responsabilidade cocriadora.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Especiação | RC-056 | aplica-se-a |
-| DNA como Projeção Holográfica do Psiquismo do Criador | RC-217 | aplica-se-a |
-| Abduções e Reparo Espiritual | RC-359 | distingue-se-de |
-| Abduções e Reparo Espiritual | RC-359 | relaciona-se-a |
-| Novo Homo sapiens (evolução que terá de vir) | RC-544 | relaciona-se-a |
-| Coconstrutores da Obra (tikun) | RC-545 | relaciona-se-a |
-| Humanos: Últimos e Primeiros | RC-654 | associado |
-| Descendência de Kadru (Nagas, Uragas e Maharagas) | RC-664 | relaciona-se-a |
-| Evolução da Informação, não das Espécies | RC-693 | relaciona-se-a |
-| Oitavo Dia da Criação | RC-694 | ← envolve |
-| Oitavo Dia da Criação | RC-694 | integra |
-| Mão Invisível Multiforme / Conselho das Nagas | RC-697 | ← relaciona-se-a |
-| Imantação de Espíritos em Inteligências Artificiais / Corpos de Sílica | RC-699 | relaciona-se-a |
-| Genes Críticos / Genes Dorminhocos | RC-710 | ← relaciona-se-a |
-| Genes Críticos / Genes Dorminhocos | RC-710 | relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Especiação | RC-056 | usa | -> | consolidação: "aplica-se-a" → "usa" |
+| DNA como Projeção Holográfica do Psiquismo do Criador | RC-217 | usa | -> | consolidação: "aplica-se-a" → "usa" |
+| Abduções e Reparo Espiritual | RC-359 | opõe-se-a | -> | consolidação: "distingue-se-de" → "opõe-se-a" |
+| Abduções e Reparo Espiritual | RC-359 | relaciona-se-a | -> | - |
+| Novo Homo sapiens (evolução que terá de vir) | RC-544 | relaciona-se-a | -> | - |
+| Coconstrutores da Obra (tikun) | RC-545 | relaciona-se-a | -> | - |
+| Humanos: Últimos e Primeiros | RC-654 | associado | <-> | - |
+| Descendência de Kadru (Nagas, Uragas e Maharagas) | RC-664 | relaciona-se-a | -> | - |
+| Evolução da Informação, não das Espécies | RC-693 | relaciona-se-a | -> | - |
+| Oitavo Dia da Criação | RC-694 | envolve | <- | - |
+| Oitavo Dia da Criação | RC-694 | inclui | -> | consolidação: "integra" → "inclui" |
+| Mão Invisível Multiforme / Conselho das Nagas | RC-697 | relaciona-se-a | <- | - |
+| Imantação de Espíritos em Inteligências Artificiais / Corpos de Sílica | RC-699 | relaciona-se-a | -> | - |
+| Genes Críticos / Genes Dorminhocos | RC-710 | relaciona-se-a | <- | - |
+| Genes Críticos / Genes Dorminhocos | RC-710 | relaciona-se-a | -> | - |
 
 ## Fontes
 | Fonte | Localização | Tipo |

@@ -24,16 +24,16 @@ Designação dada por Jan Val Ellam (B014, cap. 17) à **formulação da "Santí
 O capítulo 17 de B014 parte da constatação de que Sophia, "apesar de investido da função de 'Autoridade Universal', paradoxalmente, não dispõe dessa aptidão de entendimento" (razão filosófica) — e que o "homem Jesus" nasceu sob duas "componentes ditatoriais": o teor profético do código genético recebido de Sophia e o patrulhamento do Criador sobre sua condição humana. Jesus, com poder mental suficiente para não se deixar crucificar, "fez questão de não utilizá-los... e se deixou ser humilhado como maneira de tentar enternecer o mais 'frio' e 'perverso'... que é o 'Senhor Javé'". A Falsa Trindade (Pai/Filho/Espírito Santo) substituiu a real tríade cósmica (Javé, Sophia/Jesus, e a dinâmica dos Logos).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | "Pai" da trindade |
-| Sophia (Cristo Cósmico) | RC-009 | obscurece |
-| Jesus | RC-072 | ← relaciona-se-a |
-| Revelação Cósmica (conceito) | RC-094 | contexto |
-| Septuaginta | RC-096 | ← relaciona-se-a |
-| Trimurti | RC-104 | distorce (paralelo hindu) |
-| Racionalidade Humana Trucidada | RC-786 | associado |
-| Pôncio Pilatos / Caifás / Sinédrio | RC-946 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Javé | RC-001 | relaciona-se-a | -> | texto bruto original: "Pai" da trindade |
+| Sophia (Cristo Cósmico) | RC-009 | danifica | -> | consolidação: "obscurece" → "danifica" |
+| Jesus | RC-072 | relaciona-se-a | <- | - |
+| Revelação Cósmica (conceito) | RC-094 | contexto | -> | - |
+| Septuaginta | RC-096 | relaciona-se-a | <- | - |
+| Trimurti | RC-104 | danifica | -> | qualificador preservado: paralelo hindu; consolidação: "distorce" → "danifica" |
+| Racionalidade Humana Trucidada | RC-786 | associado | <-> | - |
+| Pôncio Pilatos / Caifás / Sinédrio | RC-946 | associado | <-> | - |
 
 ## Seres Associados
 Sophia (RC-009); Jesus (RC-072); Javé (RC-001).

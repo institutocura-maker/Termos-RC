@@ -29,19 +29,19 @@ Com isso:
 **Origem do conteúdo da ampliação:** palestra `P2022-11-20 — A Incompreendida Nova Aliança proposta por Jesus` (20/11/2022). Transcrição automatizada, **não conferida com o áudio**; cada aspa foi recortada do `original.txt` pelo índice de âncoras do motor e conferida byte a byte pelo portão B. Nada foi digitado de memória.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | **sem aresta** em `RELACOES`; arquivo existe |
-| Norte Divino | RC-083 | **sem aresta** em `RELACOES`; **sem arquivo** |
-| Trimurti | RC-104 | **sem aresta** em `RELACOES`; arquivo existe |
-| Arcontes (= Sophias e Indras; Conselho dos 70) | RC-474 | **sem aresta** em `RELACOES`; arquivo existe |
-| Baralho genético (metáfora dos 28.869 genes) | RC-562 | **sem aresta** em `RELACOES`; arquivo existe |
-| Corpo Daiva / Corpo Demoníaco de Plasma | RC-630 | **sem aresta** em `RELACOES`; arquivo existe |
-| Atos performativos (as frases que fazem coisas com palavras) | RC-876 | associado |
-| Disforia de gênio (a confiança ilimitada na pretensa capacidade) | RC-878 | associado |
-| Maestria existencial (o valor repousado no modo como se vive) | RC-880 | associado |
-| O Tal (Tao) (a via de ressignificação que faz da podridão da criação alimento) | RC-881 | associado |
-| Savant (a genialidade preservada além do autismo num grau; figura útil no final) | RC-885 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Javé | RC-001 | - | - | sem aresta em RELACOES; arquivo existe |
+| Norte Divino | RC-083 | - | - | sem aresta em RELACOES; sem arquivo |
+| Trimurti | RC-104 | - | - | sem aresta em RELACOES; arquivo existe |
+| Arcontes (= Sophias e Indras; Conselho dos 70) | RC-474 | - | - | sem aresta em RELACOES; arquivo existe |
+| Baralho genético (metáfora dos 28.869 genes) | RC-562 | - | - | sem aresta em RELACOES; arquivo existe |
+| Corpo Daiva / Corpo Demoníaco de Plasma | RC-630 | - | - | sem aresta em RELACOES; arquivo existe |
+| Atos performativos (as frases que fazem coisas com palavras) | RC-876 | associado | <-> | - |
+| Disforia de gênio (a confiança ilimitada na pretensa capacidade) | RC-878 | associado | <-> | - |
+| Maestria existencial (o valor repousado no modo como se vive) | RC-880 | associado | <-> | - |
+| O Tal (Tao) (a via de ressignificação que faz da podridão da criação alimento) | RC-881 | associado | <-> | - |
+| Savant (a genialidade preservada além do autismo num grau; figura útil no final) | RC-885 | associado | <-> | - |
 
 
 ## Ampliação — STT26-SOCIEDADE_CONTEMPORANEA (Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados))

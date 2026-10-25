@@ -27,14 +27,14 @@ Na passagem em que a obra trata da «revolução solitária de Pandora» — uma
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Demos | RC-049 | associado |
-| Lúcifer (Yel Luzbel) | RC-078 | associado |
-| Pandora | RC-086 | ← rompe |
-| Eva (figura) | RC-189 | associado |
-| Pandora como Serpente do Éden | RC-283 | associado |
-| Opção Inusitada de Pandora (humanização) | RC-285 | ← rompe |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Demos | RC-049 | associado | <-> | - |
+| Lúcifer (Yel Luzbel) | RC-078 | associado | <-> | - |
+| Pandora | RC-086 | danifica | <- | consolidação: "rompe" → "danifica" |
+| Eva (figura) | RC-189 | associado | <-> | - |
+| Pandora como Serpente do Éden | RC-283 | associado | <-> | - |
+| Opção Inusitada de Pandora (humanização) | RC-285 | danifica | <- | consolidação: "rompe" → "danifica" |
 
 ## Fontes
 

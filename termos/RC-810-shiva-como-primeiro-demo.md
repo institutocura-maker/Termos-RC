@@ -24,14 +24,14 @@ Tese (leitura do autor, palestra **P2017-05-14**, U0002/U0003) de que **Shiva (C
 Aparece em **P2017-05-14**, U0002 e U0003. Contexto: depois que Javé se reconstruiu (RC-808), ele começou a criar clones (anjos glores). Um dos clones — "criou um plano de Chiv [Shiva] e agredir o Brandon [Brama]" — fez Javé parar de criar. Javé então **destruiu o corpo desse clone**, mas o clone "tinha alma" (chamamos de demo) e "saiu com a forma mental". Esse é **Shiva — o primeiro demo da história**.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | destruiu-clone-de |
-| Agentes da Vida Universal | RC-148 | é-primeiro-demo |
-| Mônada (Mônada Espiritual) | RC-149 | é-descendente-de |
-| Ser-Criador fracassado (autoconfissão de Javé) | RC-422 | origina |
-| Era da Solidão de Javé (500 Milhões de Anos) | RC-808 | contextualiza |
-| Pacto Aesir-Vanir como Origem Nórdica da Ideia de Pandora | RC-816 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Javé | RC-001 | danifica | -> | consolidação: "destruiu-clone-de" → "danifica" |
+| Agentes da Vida Universal | RC-148 | precede | -> | consolidação: "é-primeiro-demo" → "precede" |
+| Mônada (Mônada Espiritual) | RC-149 | origina | -> | consolidação: "é-descendente-de" → "origina" |
+| Ser-Criador fracassado (autoconfissão de Javé) | RC-422 | origina | -> | - |
+| Era da Solidão de Javé (500 Milhões de Anos) | RC-808 | contexto | -> | consolidação: "contextualiza" → "contexto" |
+| Pacto Aesir-Vanir como Origem Nórdica da Ideia de Pandora | RC-816 | associado | <-> | - |
 
 ## Seres Associados
 - **Shiva** (Chiva no STT; RC-148) — o primeiro demo

@@ -27,13 +27,13 @@ Biodemo da Família Val: foi quem passou os conteúdos da trilogia de livros Ter
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Alt´Lam Gron | RC-018 | associado |
-| Jan Val Ellam (Rogério de Almeida Freitas) | RC-071 | associado |
-| Val (Família Val) | RC-109 | associado |
-| Val Eon | RC-124 | associado |
-| Val Gevi | RC-125 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Alt´Lam Gron | RC-018 | associado | <-> | - |
+| Jan Val Ellam (Rogério de Almeida Freitas) | RC-071 | associado | <-> | - |
+| Val (Família Val) | RC-109 | associado | <-> | - |
+| Val Eon | RC-124 | associado | <-> | - |
+| Val Gevi | RC-125 | associado | <-> | - |
 
 ## Fontes
 

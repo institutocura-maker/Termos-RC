@@ -24,12 +24,12 @@ Os agentes do Quarto Logos — Olm, o Codificador de Zian (RC-092 / RC-252) — 
 Fonte única (B014). O Quarto Logos é o único dos quatro que não mergulhou no Brahmaloka, podendo por isso criar um CFD próprio — daí a função de «codificador». A Escola dos Agentes Esclarecidos da Busca da Verdade (RC-256) aparece como a instância de formação desses agentes.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Jan Val Ellam (Rogério de Almeida Freitas) | RC-071 | associado |
-| Quarto Logos (Olm / Codificador de Zian) | RC-092 | é-um |
-| Olm (Codificador de Zion/Zian) | RC-252 | associado |
-| Escola dos Agentes Esclarecidos da Busca da Verdade | RC-256 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Jan Val Ellam (Rogério de Almeida Freitas) | RC-071 | associado | <-> | - |
+| Quarto Logos (Olm / Codificador de Zian) | RC-092 | é-um | -> | - |
+| Olm (Codificador de Zion/Zian) | RC-252 | associado | <-> | - |
+| Escola dos Agentes Esclarecidos da Busca da Verdade | RC-256 | associado | <-> | - |
 
 - RC-092 — ver ficha correspondente
 - RC-252 — ver ficha correspondente

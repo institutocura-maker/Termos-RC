@@ -29,12 +29,12 @@ Com isso:
 **Origem do conteúdo da ampliação:** palestra `P2017-10-14 — Da Base Atlan ao Colégio Druídico` (14/10/2017). Transcrição automatizada, **não conferida com o áudio**; cada aspa foi recortada do `original.txt` pelo índice de âncoras do motor e conferida byte a byte pelo portão B. Nada foi digitado de memória.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Brahma (Brajna) | RC-037 | **sem aresta** em `RELACOES`; arquivo existe |
-| Zeus | RC-145 | **sem aresta** em `RELACOES`; arquivo existe |
-| Prometeu (titã) | RC-301 | **sem aresta** em `RELACOES`; arquivo existe |
-| Têmis | RC-305 | **sem aresta** em `RELACOES`; arquivo existe |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Brahma (Brajna) | RC-037 | - | - | sem aresta em RELACOES; arquivo existe |
+| Zeus | RC-145 | - | - | sem aresta em RELACOES; arquivo existe |
+| Prometeu (titã) | RC-301 | - | - | sem aresta em RELACOES; arquivo existe |
+| Têmis | RC-305 | - | - | sem aresta em RELACOES; arquivo existe |
 
 
 ## Ampliação — STT26-EXTRATERRESTRES_TECNOLOGIA (Eixo STT26 — Extraterrestres, tecnologia e cosmos (derivados normalizados))

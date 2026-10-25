@@ -24,19 +24,19 @@ O ser humano **consciente de sua pertença ao circuito cósmico** — aquele que
 O Cidadão Cósmico é o **ideal antropológico das RC**: o humano que desenvolve senso crítico, razão filosófica e consciência da história cósmica (do drama de Javé), superando o condicionamento religioso e a ignorância cultivada. O cap. 9 de B033 ("Apesar do Isolamento, eis o Cidadão Cósmico") é dedicado ao tema — o "quantum vibratório" já se faz presente em cada geração, embora o "amoroso incondicional e maduro" ainda esteja por ser edificado, apesar do esforço de Jesus e Sai Baba.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Reintegração Cósmica | RC-003 | relaciona-se-a |
-| Isolamento Cósmico | RC-070 | contexto |
-| Revelação Cósmica (conceito) | RC-094 | contexto |
-| Seres Terrenos (Homo Sapiens) | RC-099 | é-um (ideal) |
-| Razão Filosófica dos Terráqueos | RC-231 | capacita |
-| Diálogos de Sócrates, Platão e Aristóteles (nos Céus da Grécia) | RC-406 | ← envolve |
-| Caim (leitura RC: segundo a nascer) | RC-490 | associado |
-| Protagonismo consciencial | RC-509 | associado |
-| Projeto Orbum (cidadania planetária) | RC-535 | ← relaciona-se-a |
-| Protocolo da Busca | RC-566 | ← relaciona-se-a |
-| Revelação de Ifá e Destinação dos Seres | RC-655 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Reintegração Cósmica | RC-003 | relaciona-se-a | -> | - |
+| Isolamento Cósmico | RC-070 | contexto | -> | - |
+| Revelação Cósmica (conceito) | RC-094 | contexto | -> | - |
+| Seres Terrenos (Homo Sapiens) | RC-099 | é-um | -> | qualificador preservado: ideal |
+| Razão Filosófica dos Terráqueos | RC-231 | causa | -> | consolidação: "capacita" → "causa" |
+| Diálogos de Sócrates, Platão e Aristóteles (nos Céus da Grécia) | RC-406 | envolve | <- | - |
+| Caim (leitura RC: segundo a nascer) | RC-490 | associado | <-> | - |
+| Protagonismo consciencial | RC-509 | associado | <-> | - |
+| Projeto Orbum (cidadania planetária) | RC-535 | relaciona-se-a | <- | - |
+| Protocolo da Busca | RC-566 | relaciona-se-a | <- | - |
+| Revelação de Ifá e Destinação dos Seres | RC-655 | associado | <-> | - |
 
 ## Seres Associados
 Jesus (RC-072); Sai Baba (candidato); Sophia (RC-009).

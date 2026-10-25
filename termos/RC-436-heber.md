@@ -17,14 +17,14 @@ atualizado = "2026-09-10"
 Patriarca pós-diluviano da linhagem hebraica: filho de Salé, neto de Arfaxad, bisneto de Sem — tataraneto de Noé — e pai de Faleg (o primogênito, elo da linhagem de Sem/Abraão) e Joctan (B060; B052). É o protagonista do romance B052, aos seus quase 58 anos, em missão após a "grande devastação" ao centro de comércio fundado por Tubal (filho de Jafé): investido da responsabilidade por "meus pais Noé, Sem, Arfaxad e Salé", viaja com o filho Joctan e o veterano Bartar em busca do sábio Melmon, do oeste. No Islã, atende por Hude (B060). No mapeamento de B060, Heber integra a linha avatárica de Elm (RC-454) — informação sensível, a confirmar nas obras (ver RC-454). Sobre Faleg pesam a maldição de Javé (P2021-03-27) e a interrupção da linhagem hebreia — material registrado na ficha dos filhos (RC-437).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Revelação Cósmica (conceito) | RC-094 | associado-a |
-| Linhagem dos Patriarcas Hebreus | RC-270 | é-um |
-| Joctan e Faleg (filhos de Heber) | RC-437 | ← é-um |
-| Elm (Moros — ser LM de Tempérion) | RC-454 | ← relaciona-se-a |
-| Vyasa | RC-585 | ← encarnação-posterior-de |
-| Melquizedec | RC-650 | associado-a (cita RC-436) |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Revelação Cósmica (conceito) | RC-094 | associado | <-> | - |
+| Linhagem dos Patriarcas Hebreus | RC-270 | é-um | -> | - |
+| Joctan e Faleg (filhos de Heber) | RC-437 | é-um | <- | - |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | relaciona-se-a | <- | - |
+| Vyasa | RC-585 | origina | <- | consolidação: "encarnação-posterior-de" → "origina" |
+| Melquizedec | RC-650 | associado | <-> | qualificador preservado: cita RC-436; raiz semântica associado (decisão 3) |
 
 ## Fontes
 

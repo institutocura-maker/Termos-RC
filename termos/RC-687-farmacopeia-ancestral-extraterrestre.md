@@ -22,18 +22,18 @@ Forma preferida: Farmacopeia Ancestral Extraterrestre.
 O Mistério da Árvore da Vida e a Urdidura de Metatron.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Abduções e Reparo Espiritual | RC-359 | — |
-| Xamanismo Cósmico (comunicação e deslacre) | RC-577 | ← relaciona-se-a |
-| Xamanismo Cósmico (comunicação e deslacre) | RC-577 | relaciona-se-a |
-| Xamanismo Cósmico (comunicação e deslacre) | RC-577 | ← relaciona-se-a |
-| Xamanismo Cósmico (comunicação e deslacre) | RC-577 | ← relaciona-se-a |
-| Xamanismo Cósmico (comunicação e deslacre) | RC-577 | relaciona-se-a |
-| Descendência de Kadru (Nagas, Uragas e Maharagas) | RC-664 | ← relaciona-se-a |
-| Descendência de Kadru (Nagas, Uragas e Maharagas) | RC-664 | relaciona-se-a |
-| Plantas de Moléculas Complexas | RC-686 | usa |
-| Plantas de Moléculas Complexas | RC-686 | ← relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Abduções e Reparo Espiritual | RC-359 | - | - | sem relação informada; 17 linhas são registros de fonte com 4 colunas |
+| Xamanismo Cósmico (comunicação e deslacre) | RC-577 | relaciona-se-a | <- | - |
+| Xamanismo Cósmico (comunicação e deslacre) | RC-577 | relaciona-se-a | -> | - |
+| Xamanismo Cósmico (comunicação e deslacre) | RC-577 | relaciona-se-a | <- | - |
+| Xamanismo Cósmico (comunicação e deslacre) | RC-577 | relaciona-se-a | <- | - |
+| Xamanismo Cósmico (comunicação e deslacre) | RC-577 | relaciona-se-a | -> | - |
+| Descendência de Kadru (Nagas, Uragas e Maharagas) | RC-664 | relaciona-se-a | <- | - |
+| Descendência de Kadru (Nagas, Uragas e Maharagas) | RC-664 | relaciona-se-a | -> | - |
+| Plantas de Moléculas Complexas | RC-686 | usa | -> | - |
+| Plantas de Moléculas Complexas | RC-686 | relaciona-se-a | <- | - |
 
 ## Seres Associados
 Consultar Base.

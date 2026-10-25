@@ -24,16 +24,16 @@ Capítulo 11 de *Terra Atlantis III: A Era Sapiens* (B039) que narra o **impacto
 O evento marca o ponto de virada da Era Sapiens: após a crucificação, ocorre a **saída de Yel Luzbel dos ambientes em torno do planeta**, o que faz com que **Len Mion assuma o comando do restante da rebelião** — procurando atrapalhar qualquer interesse de Sophia ou do "deus dos judeus". Na sinopse do livro 3: "Após a crucificação, ocorre a saída de Yel Luzbel dos ambientes em torno do planeta, o que faz com que Len Mion assuma o comando do restante da rebelião."
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Atlan | RC-028 | refúgio |
-| Jesus | RC-072 | envolve |
-| Len Mion (Satã) | RC-074 | assume o comando |
-| Lúcifer (Yel Luzbel) | RC-078 | afeta |
-| Yel Luzbel | RC-142 | afeta (retirada) |
-| Era Sapiens | RC-238 | contexto |
-| Hitler (figura histórica no RC) | RC-239 | desdobramento |
-| O Fator Judas | RC-365 | ← relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Atlan | RC-028 | contexto | -> | consolidação: "refúgio" → "contexto" |
+| Jesus | RC-072 | envolve | -> | - |
+| Len Mion (Satã) | RC-074 | relaciona-se-a | -> | texto bruto original: assume o comando |
+| Lúcifer (Yel Luzbel) | RC-078 | causa | -> | consolidação: "afeta" → "causa" |
+| Yel Luzbel | RC-142 | causa | -> | qualificador preservado: retirada; consolidação: "afeta" → "causa" |
+| Era Sapiens | RC-238 | contexto | -> | - |
+| Hitler (figura histórica no RC) | RC-239 | sucede | -> | consolidação: "desdobramento" → "sucede" |
+| O Fator Judas | RC-365 | relaciona-se-a | <- | - |
 
 ## Seres Associados
 Jesus (RC-072); Yel Luzbel/Lúcifer (RC-142/RC-078); Len Mion/Satã (RC-074); Sophia (RC-009).

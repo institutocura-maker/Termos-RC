@@ -25,27 +25,27 @@ O "favor divino" **invertido** — a tese central de *Favor Divino* (B048): os h
 A sinopse de B048 pergunta: "Afinal, existem favores divinos? E se tudo for ao contrário do que fomos acostumados a pensar?" O livro mostra que a "lavagem cerebral" que produziu a percepção dos "favores de Deus" "foi e ainda é parte de uma etapa necessária de um processo maior". O capítulo 10 (O Reconhecimento que nunca veio) conclui: "o Senhor Javé e toda a sua hierarquia deveriam ser gratos... porque somos nós quem promovemos o progresso necessário à redenção de todos eles e, em especial, a do próprio criador. Mas, aqui na Terra, é tudo ao contrário!"
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Criador (Brahma/Javé/Demiurgo) | RC-041 | inverte |
-| Favor Divino | RC-063 | variação |
-| Revelação Cósmica (conceito) | RC-094 | associado |
-| Seres Terrenos (Homo Sapiens) | RC-099 | doadores |
-| Democracia do Amor da Deidade | RC-333 | contraponto |
-| Teocracia da Doença de uma Divindade | RC-334 | contexto |
-| O Reconhecimento que nunca veio | RC-338 | ← relaciona-se-a |
-| Ferramentas do Favor Divino (religiões e pensadores) | RC-341 | associado |
-| A Vida do CFD de Javé no Ser Humano | RC-382 | ← relaciona-se-a |
-| Proposta de um Humano Terrestre aos Elétrons | RC-384 | associado |
-| Sou eu que vivo em vocês (Javé) | RC-419 | ← relaciona-se-a |
-| As Memórias de Javé (crônicas) | RC-421 | ← precede |
-| Ser-Criador fracassado (autoconfissão de Javé) | RC-422 | associado |
-| Tikun Cósmico (restabelecimento da Criação) | RC-514 | associado |
-| Ressonância límbica (emoções como tecnologia cósmica) | RC-529 | relaciona-se-a |
-| PIA — Peso da Inevitabilidade Ancestral | RC-716 | ← relaciona-se-a |
-| PIA — Peso da Inevitabilidade Ancestral | RC-716 | relaciona-se-a |
-| Bagagem Espiritual Intransferível | RC-751 | associado |
-| Agenda Espiritual | RC-752 | ← relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Criador (Brahma/Javé/Demiurgo) | RC-041 | opõe-se-a | -> | consolidação: "inverte" → "opõe-se-a" |
+| Favor Divino | RC-063 | variação | -> | - |
+| Revelação Cósmica (conceito) | RC-094 | associado | <-> | - |
+| Seres Terrenos (Homo Sapiens) | RC-099 | envolve | -> | consolidação: "doadores" → "envolve" |
+| Democracia do Amor da Deidade | RC-333 | associado | <-> | consolidação: "contraponto" → "associado" |
+| Teocracia da Doença de uma Divindade | RC-334 | contexto | -> | - |
+| O Reconhecimento que nunca veio | RC-338 | relaciona-se-a | <- | - |
+| Ferramentas do Favor Divino (religiões e pensadores) | RC-341 | associado | <-> | - |
+| A Vida do CFD de Javé no Ser Humano | RC-382 | relaciona-se-a | <- | - |
+| Proposta de um Humano Terrestre aos Elétrons | RC-384 | associado | <-> | - |
+| Sou eu que vivo em vocês (Javé) | RC-419 | relaciona-se-a | <- | - |
+| As Memórias de Javé (crônicas) | RC-421 | precede | <- | - |
+| Ser-Criador fracassado (autoconfissão de Javé) | RC-422 | associado | <-> | - |
+| Tikun Cósmico (restabelecimento da Criação) | RC-514 | associado | <-> | - |
+| Ressonância límbica (emoções como tecnologia cósmica) | RC-529 | relaciona-se-a | -> | - |
+| PIA — Peso da Inevitabilidade Ancestral | RC-716 | relaciona-se-a | <- | - |
+| PIA — Peso da Inevitabilidade Ancestral | RC-716 | relaciona-se-a | -> | - |
+| Bagagem Espiritual Intransferível | RC-751 | associado | <-> | - |
+| Agenda Espiritual | RC-752 | relaciona-se-a | <- | - |
 
 ## Seres Associados
 Criador/Javé (RC-041/RC-001); Seres Terrenos (RC-099); Deidade (RC-047).

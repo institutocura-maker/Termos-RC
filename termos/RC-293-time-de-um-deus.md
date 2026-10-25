@@ -25,22 +25,22 @@ atualizado = "2026-08-12"
 Quanto mais cidades "conquistadas", preces e sacrifícios um deus recebia, "maior seria a sua timé". Qualquer influência dirigida ao "domínio" de um deus era uma ofensa à sua timé — "aspecto que sempre sobrava para Zeus... no que concerne a ter que definir uma solução para os incontáveis e intermináveis problemas... que sempre convergiam para as 'Assembleias do Olimpo'". A timé é o que motiva as disputas entre deuses e humanos (e entre os próprios deuses).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Jesus | RC-072 | ← relaciona-se-a |
-| Jesus | RC-072 | relaciona-se-a |
-| Revelação Cósmica (conceito) | RC-094 | associado |
-| Zeus | RC-145 | valoriza |
-| Seres dos Portais | RC-241 | é-um (deuses) |
-| Linhagens Humanas: Preferidas e Preteridas | RC-269 | expressa-se-em |
-| Telos (de um deus) | RC-292 | ← relaciona-se-a |
-| Eon de Khaos (Universo de Caos) | RC-294 | ambiente |
-| Prometeu (titã) | RC-301 | corresponde-a |
-| Arcontes (= Sophias e Indras; Conselho dos 70) | RC-474 | ← relaciona-se-a |
-| Indra (título de arconte) | RC-480 | associado |
-| Dinastia das Sophias | RC-494 | associado |
-| Urdidura de Metatron | RC-674 | associado |
-| Aristocracia Olimpiana e Monarquias Terrestres | RC-736 | ← relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Jesus | RC-072 | relaciona-se-a | <- | - |
+| Jesus | RC-072 | relaciona-se-a | -> | - |
+| Revelação Cósmica (conceito) | RC-094 | associado | <-> | - |
+| Zeus | RC-145 | protege | -> | consolidação: "valoriza" → "protege" |
+| Seres dos Portais | RC-241 | é-um | -> | qualificador preservado: deuses |
+| Linhagens Humanas: Preferidas e Preteridas | RC-269 | representa | -> | consolidação: "expressa-se-em" → "representa" |
+| Telos (de um deus) | RC-292 | relaciona-se-a | <- | - |
+| Eon de Khaos (Universo de Caos) | RC-294 | contexto | -> | consolidação: "ambiente" → "contexto" |
+| Prometeu (titã) | RC-301 | variação | -> | consolidação: "corresponde-a" → "variação" |
+| Arcontes (= Sophias e Indras; Conselho dos 70) | RC-474 | relaciona-se-a | <- | - |
+| Indra (título de arconte) | RC-480 | associado | <-> | - |
+| Dinastia das Sophias | RC-494 | associado | <-> | - |
+| Urdidura de Metatron | RC-674 | associado | <-> | - |
+| Aristocracia Olimpiana e Monarquias Terrestres | RC-736 | relaciona-se-a | <- | - |
 
 ## Seres Associados
 Zeus (RC-145); deuses do Olimpo (RC-241/RC-049).

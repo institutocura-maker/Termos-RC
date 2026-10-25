@@ -17,19 +17,19 @@ atualizado = "2026-10-23"
 Metáfora da trilogia Matrix incorporada por Jan Val Ellam à linguagem da RC: o **processo de deslacre perceptivo** — "algo químico que quando você toma destrava, deslacra o seu cérebro... despolui o modo como o seu cérebro, o seu conectoma funciona" — de modo que o eu se vê pensando usando elementos perturbadores presentes dentro da bolha (a camuflagem da realidade, RC-702). A pílula azul é a conformidade: "o oba-oba" de viver sem questionar.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Especiação | RC-056 | relaciona-se-a |
-| Jan Val Ellam (Rogério de Almeida Freitas) | RC-071 | associado |
-| Jesus | RC-072 | relaciona-se-a (reinar sobre o processo) |
-| Revelação Cósmica (conceito) | RC-094 | associado-a |
-| Revelação Cósmica (conceito) | RC-094 | relaciona-se-a |
-| A Rebelião dos Elétrons | RC-378 | relaciona-se-a |
-| Camuflagem da Realidade | RC-702 | ← relaciona-se-a |
-| Camuflagem da Realidade | RC-702 | relaciona-se-a |
-| Camuflagem da Realidade | RC-702 | relaciona-se-a |
-| Dignidade como Critério de Consciência | RC-722 | ← relaciona-se-a |
-| As Cinco Lentes da Realidade | RC-761 | ← relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Especiação | RC-056 | relaciona-se-a | -> | - |
+| Jan Val Ellam (Rogério de Almeida Freitas) | RC-071 | associado | <-> | - |
+| Jesus | RC-072 | relaciona-se-a | -> | qualificador preservado: reinar sobre o processo |
+| Revelação Cósmica (conceito) | RC-094 | associado | <-> | - |
+| Revelação Cósmica (conceito) | RC-094 | relaciona-se-a | -> | - |
+| A Rebelião dos Elétrons | RC-378 | relaciona-se-a | -> | - |
+| Camuflagem da Realidade | RC-702 | relaciona-se-a | <- | - |
+| Camuflagem da Realidade | RC-702 | relaciona-se-a | -> | - |
+| Camuflagem da Realidade | RC-702 | relaciona-se-a | -> | - |
+| Dignidade como Critério de Consciência | RC-722 | relaciona-se-a | <- | - |
+| As Cinco Lentes da Realidade | RC-761 | relaciona-se-a | <- | - |
 
 ## Ampliação — OIDR26-03 (Onda incremental dry-run — Cosmogonia e história cósmica (derivados normalizados))
 

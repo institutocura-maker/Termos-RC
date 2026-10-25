@@ -24,190 +24,190 @@ atualizado = "2026-10-23"
 A Revelação Cósmica é o **macroconceito** que engloba todos os demais termos da base. Foi codificada por Jan Val Ellam por meio de incontáveis palestras, conversas e livros (IEEA). A obra B031 (guia de Raquyel Braga) é um dos primeiros trabalhos de outros autores sobre a RC.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Reintegração Cósmica | RC-003 | associado |
-| Jan Val Ellam (Rogério de Almeida Freitas) | RC-071 | associado |
-| Projeto Planeta Azul | RC-090 | associado |
-| Rogério de Almeida Freitas | RC-095 | associado |
-| Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | associado |
-| Universo Material (Bhuloka) | RC-107 | associado |
-| Zeitgeist | RC-144 | associado |
-| Prabrajna | RC-152 | associado |
-| Eras da Criação (10 eras) | RC-155 | ← confirmada-por |
-| Criação Indevida (Obra indevida) | RC-167 | associado |
-| Revelação Espiritual (Kardec) | RC-190 | ← associado-a |
-| Pílula vermelha | RC-192 | ← associado-a |
-| Pílula vermelha | RC-192 | ← relaciona-se-a |
-| O Livro do Criador | RC-201 | associado |
-| O Mal: Subproduto da Ignorância Espiritual | RC-223 | associado |
-| Prevalece o Amor | RC-224 | associado |
-| Cidadão Cósmico | RC-226 | associado |
-| Observação de Sileno (Filhos do Tormento e do Acaso) | RC-228 | associado |
-| Razão Filosófica dos Terráqueos | RC-231 | associado |
-| A Falsa Trindade (Concílio de Niceia) | RC-273 | associado |
-| Cápsula do Tempo de Sophia (João) | RC-274 | associado |
-| Arte Demodhármica do Possível | RC-275 | associado |
-| Sacralização do Absurdo | RC-276 | associado |
-| A Jaula de Cada Espécie | RC-277 | associado |
-| Olhar Adulto | RC-278 | associado |
-| Modo Trimurtiano de Sophia | RC-279 | associado |
-| Sophia e a Ressurreição de Jesus | RC-280 | associado |
-| Mohen So = Phanes / Protogonos / Vasuki / Kalki (correspondências) | RC-282 | associado |
-| Os Anais de uma Cultura Perdida | RC-288 | associado |
-| Cuidado com o 'Ide e Pregai' | RC-290 | associado |
-| Fim do Silêncio de Pandora | RC-291 | ← inicia |
-| Telos (de um deus) | RC-292 | associado |
-| Timé (de um deus) | RC-293 | associado |
-| Era dos Humanos (Zeus e a) | RC-297 | associado |
-| Têmis | RC-305 | associado |
-| Apolo | RC-306 | associado |
-| Adhytia (nível hierárquico) | RC-308 | associado |
-| Adhyshprabrajna (Adhy que caiu) | RC-310 | associado |
-| Criação Bipartida | RC-312 | associado |
-| Tempo de Apostasia | RC-313 | associado |
-| Fenômenos Denunciadores do Fim | RC-314 | associado |
-| Fator Dharma | RC-319 | associado |
-| Senhores do Dharma (= Senhores da Lila / Trimurti) | RC-320 | associado |
-| Castas Trimurtianas | RC-321 | associado |
-| Dharma e Castas (origem demo) | RC-322 | associado |
-| Entroncamentos Genéticos Intersiderais | RC-323 | associado |
-| Genética Totalitária | RC-325 | associado |
-| Homo hierarchicus | RC-327 | associado |
-| Imperativo Categórico da Moral | RC-328 | associado |
-| Civilização Saraswati | RC-330 | associado |
-| Ra-Atom / Og-mi (nomes do Criador) | RC-331 | associado |
-| Favor Divino (conceito invertido) | RC-332 | associado |
-| Democracia do Amor da Deidade | RC-333 | associado |
-| Teocracia da Doença de uma Divindade | RC-334 | associado |
-| Lavagem Cerebral (condicionamento) | RC-335 | associado |
-| Ética da Sobrevivência de Javé | RC-336 | associado |
-| Humanos: uma simples Experiência Biológica | RC-337 | associado |
-| O Reconhecimento que nunca veio | RC-338 | associado |
-| A Difícil Cobrança sobre os Humanos | RC-339 | associado |
-| Atores de uma Peça Incompreensível | RC-340 | associado |
-| Ferramentas do Favor Divino (religiões e pensadores) | RC-341 | associado |
-| Quarentena Sideral / Cósmica | RC-342 | associado |
-| Portal Cósmico (destinação do Planeta Azul) | RC-343 | associado |
-| Transição Planetária | RC-344 | associado |
-| Sentimento Luciferiano | RC-345 | associado |
-| Jeová (grafia da trilogia) | RC-346 | associado |
-| Projeto Terra | RC-347 | associado |
-| Roteiro do Exílio | RC-348 | associado |
-| Exílios Interplanetários | RC-349 | associado |
-| Jesus, o Capelino | RC-350 | associado |
-| Mestres de Capela | RC-351 | associado |
-| A Segunda Grande Vinda | RC-352 | associado |
-| Ilha Cósmica (mundos rebelados) | RC-353 | associado |
-| Trilogia Queda e Ascensão Espiritual | RC-354 | associado |
-| Fator Extraterrestre (o Elo Perdido) | RC-355 | ← associado-a |
-| Fonte da Vida (metáfora da ilha/oceano) | RC-356 | associado |
-| Confederações de Mundos | RC-357 | associado |
-| Terra de Ninguém (cósmica) | RC-358 | associado |
-| Abduções e Reparo Espiritual | RC-359 | associado |
-| Atmosferizar a Lua ou Marte (Opção Final) | RC-360 | associado |
-| Antropocentrismo (crítica) | RC-361 | associado |
-| Apego aos Conceitos Terrenos | RC-362 | associado |
-| Ótica e Ética Cósmicas | RC-363 | ← relaciona-se-a |
-| A Missão do Mestre | RC-364 | associado |
-| O Fator Judas | RC-365 | associado |
-| O Enigma da Transfiguração | RC-366 | associado |
-| Alteração Vibratória (Transfiguração) | RC-367 | associado |
-| Assessoria Cósmica (equipes espirituais de Jesus) | RC-368 | associado |
-| Nietzsche como 'Amigo da Intenção de Jesus' | RC-369 | associado |
-| A Criação de Ídolos para a Humanidade | RC-370 | associado |
-| A Fé de Jesus e a Razão de Nietzsche | RC-371 | associado |
-| O Ser Humano Emancipado | RC-372 | associado |
-| Os 20 Anos de Jesus entre os Celtas | RC-373 | associado |
-| Mordon (o Druida da Montanha) | RC-374 | associado |
-| Druidas Celtas (contexto RC) | RC-375 | associado |
-| José de Arimatéia (no corpus RC) | RC-376 | associado |
-| Brendiver e Dolman (personagens celtas) | RC-377 | associado |
-| A Rebelião dos Elétrons | RC-378 | associado |
-| Dança dos Elétrons | RC-379 | associado |
-| Imanência e Transcendência (Upanishades) | RC-380 | associado |
-| Ressonância Mórfica (agente da rebelião) | RC-381 | associado |
-| A Vida do CFD de Javé no Ser Humano | RC-382 | associado |
-| Roteiro do Absurdo Implantado na Criação | RC-383 | associado |
-| Proposta de um Humano Terrestre aos Elétrons | RC-384 | associado |
-| Egrégora (circuito dos elétrons rebeldes) | RC-385 | associado |
-| Memórias para Javé | RC-386 | associado |
-| Fragmentação do Poder Mental da Divindade | RC-387 | associado |
-| Grupo Atlan | RC-388 | associado |
-| Casa de Lucas (origem do Grupo Atlan) | RC-389 | associado |
-| Espíritos comunicantes do Grupo Atlan | RC-390 | associado |
-| Mesmice Espiritual | RC-391 | associado |
-| Reforma Íntima (tema do Grupo Atlan) | RC-392 | associado |
-| Enéas (espírito comunicante) | RC-393 | associado |
-| Mandreya Ramataiana (espírito comunicante) | RC-394 | associado |
-| Ragnarok em Marte | RC-395 | associado |
-| Kvasir e Freya (Vanir/Aesir) | RC-396 | associado |
-| Tirthankaras (Rishabh Dev, Jina Mahavira) | RC-397 | associado |
-| Thuata de Dannan | RC-398 | associado |
-| Dwarka (submersa) | RC-399 | associado |
-| Foz Côa / FOXP2 (símbolos) | RC-400 | associado |
-| Família Demolle (biodemos) | RC-401 | associado |
-| Halos de Poder (demos) | RC-402 | associado |
-| Colegiado Druídico | RC-403 | associado |
-| Sentido Gradualístico das Leis da Evolução Cósmica | RC-404 | associado |
-| Alvorecer de Aquário | RC-405 | associado |
-| Diálogos de Sócrates, Platão e Aristóteles (nos Céus da Grécia) | RC-406 | associado |
-| Reencarnação iminente da grande leva de espíritos | RC-407 | associado |
-| ADHYMAVATANA (nome completo de Mavatna/Vishnu) | RC-408 | associado |
-| ADHYSAVNA (nome completo de Savna/Shiva) | RC-409 | associado |
-| ADHYPRABRAJNA (grafia do diagrama) | RC-410 | associado |
-| Gênero Adhy (147 seres, 5 espécies) | RC-411 | associado |
-| Emissários Humanos (Enoch, Abraão, Moisés, Jesus) | RC-412 | associado |
-| Hara (avatar de Shiva) | RC-413 | associado |
-| Krishna (avatar de Vishnu/Shiva) | RC-414 | associado |
-| Colapso da Matriz Quântica (3 níveis) | RC-415 | associado |
-| Cartas a Javé (obra e diálogo) | RC-416 | associado |
-| Resposta de Javé (em 1ª pessoa) | RC-417 | associado |
-| Terminal Nervoso do Criador (humano) | RC-418 | associado |
-| Sou eu que vivo em vocês (Javé) | RC-419 | associado |
-| Mônica Camargo (autora das cartas) | RC-420 | associado |
-| As Memórias de Javé (crônicas) | RC-421 | associado |
-| Ser-Criador fracassado (autoconfissão de Javé) | RC-422 | associado |
-| Advogado de Acusação (Ellam × Javé) | RC-423 | associado |
-| Linhagem dos Escolhidos (Adão, Enoch, Abraão, Jacó) | RC-424 | associado |
-| Krishna como 'pretenso Keshava' | RC-425 | associado |
-| Javé sem avatares ('Não tenho isto!') | RC-426 | associado |
-| Criatura-teste (estágio avançado) | RC-427 | associado |
-| Tempo-limite (transição crítica de Javé) | RC-428 | associado |
-| Javé alimenta-se do senso crítico humano | RC-429 | associado |
-| Esporte como evolução da Guerra | RC-430 | associado |
-| Guerreiro ao Atleta (transição) | RC-431 | associado |
-| Agressividade canalizada (DNA doentio) | RC-432 | associado |
-| Força de Atração Sexual (anterior à polaridade) | RC-433 | associado |
-| Homoafetividade (resquício da força original) | RC-434 | associado |
-| O Segredo Perdido do Éden | RC-435 | associado |
-| Heber (patriarca pós-dilúvio) | RC-436 | associado |
-| Joctan e Faleg (filhos de Heber) | RC-437 | associado |
-| Tubal (filho de Jafé, centro de comércio) | RC-438 | associado |
-| Os Magos do Norte | RC-439 | associado |
-| A Sina dos Portadores | RC-440 | associado |
-| Mistérios Dionisíacos | RC-441 | associado |
-| Decência cósmica (ética ellâmica) | RC-508 | associado |
-| Amnésia espiritual (esquecimento das origens) | RC-512 | associado |
-| Projeto Orbum (cidadania planetária) | RC-535 | ← relaciona-se-a |
-| Era do Conhecimento e da Espiritualização | RC-536 | ← relaciona-se-a |
-| Maré Cósmica (eventos cósmicos que afetam a Terra) | RC-537 | associado |
-| Consórcio de Mundos (Arquitetos Universais) | RC-538 | associado |
-| Evolução Possível (terceira via: nem Darwin, nem deus) | RC-541 | ← relaciona-se-a |
-| Flechas / Profecias de Moros | RC-611 | ← relaciona-se-a |
-| Últimas Ordens de Javé aos Clones | RC-652 | associado |
-| Atualização das Revelações Anteriores | RC-656 | ← atualiza |
-| Atualização das Revelações Anteriores | RC-656 | ← atualiza |
-| Áurea Catena | RC-663 | associado |
-| Arquivos do Destino Universal | RC-714 | associado |
-| Cumprimento da Profecia de Moros pela Revelação Cósmica | RC-718 | ← é-evento-de |
-| Cumprimento da Profecia de Moros pela Revelação Cósmica | RC-718 | cumpre |
-| Fantasmas do Passado Mitológico | RC-728 | associado |
-| Chave da Decifração Universal | RC-754 | associado |
-| Escola da Decifração da Realidade (Método Druídico) | RC-755 | ← relaciona-se-a |
-| As Cinco Lentes da Realidade | RC-761 | ← integra |
-| IEEA (Instituto de Estudos Estratégicos e Alternativos) | RC-930 | associado |
-| Revelação Psíquica (Kapila — escola Samkhya) | RC-933 | ← relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Reintegração Cósmica | RC-003 | associado | <-> | - |
+| Jan Val Ellam (Rogério de Almeida Freitas) | RC-071 | associado | <-> | - |
+| Projeto Planeta Azul | RC-090 | associado | <-> | - |
+| Rogério de Almeida Freitas | RC-095 | associado | <-> | - |
+| Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | associado | <-> | - |
+| Universo Material (Bhuloka) | RC-107 | associado | <-> | - |
+| Zeitgeist | RC-144 | associado | <-> | - |
+| Prabrajna | RC-152 | associado | <-> | - |
+| Eras da Criação (10 eras) | RC-155 | relaciona-se-a | -> | consolidação: "confirmada-por" → "relaciona-se-a"; direção invertida (forma passiva/inversa) |
+| Criação Indevida (Obra indevida) | RC-167 | associado | <-> | - |
+| Revelação Espiritual (Kardec) | RC-190 | associado | <-> | - |
+| Pílula vermelha | RC-192 | associado | <-> | - |
+| Pílula vermelha | RC-192 | relaciona-se-a | <- | - |
+| O Livro do Criador | RC-201 | associado | <-> | - |
+| O Mal: Subproduto da Ignorância Espiritual | RC-223 | associado | <-> | - |
+| Prevalece o Amor | RC-224 | associado | <-> | - |
+| Cidadão Cósmico | RC-226 | associado | <-> | - |
+| Observação de Sileno (Filhos do Tormento e do Acaso) | RC-228 | associado | <-> | - |
+| Razão Filosófica dos Terráqueos | RC-231 | associado | <-> | - |
+| A Falsa Trindade (Concílio de Niceia) | RC-273 | associado | <-> | - |
+| Cápsula do Tempo de Sophia (João) | RC-274 | associado | <-> | - |
+| Arte Demodhármica do Possível | RC-275 | associado | <-> | - |
+| Sacralização do Absurdo | RC-276 | associado | <-> | - |
+| A Jaula de Cada Espécie | RC-277 | associado | <-> | - |
+| Olhar Adulto | RC-278 | associado | <-> | - |
+| Modo Trimurtiano de Sophia | RC-279 | associado | <-> | - |
+| Sophia e a Ressurreição de Jesus | RC-280 | associado | <-> | - |
+| Mohen So = Phanes / Protogonos / Vasuki / Kalki (correspondências) | RC-282 | associado | <-> | - |
+| Os Anais de uma Cultura Perdida | RC-288 | associado | <-> | - |
+| Cuidado com o 'Ide e Pregai' | RC-290 | associado | <-> | - |
+| Fim do Silêncio de Pandora | RC-291 | precede | <- | consolidação: "inicia" → "precede" |
+| Telos (de um deus) | RC-292 | associado | <-> | - |
+| Timé (de um deus) | RC-293 | associado | <-> | - |
+| Era dos Humanos (Zeus e a) | RC-297 | associado | <-> | - |
+| Têmis | RC-305 | associado | <-> | - |
+| Apolo | RC-306 | associado | <-> | - |
+| Adhytia (nível hierárquico) | RC-308 | associado | <-> | - |
+| Adhyshprabrajna (Adhy que caiu) | RC-310 | associado | <-> | - |
+| Criação Bipartida | RC-312 | associado | <-> | - |
+| Tempo de Apostasia | RC-313 | associado | <-> | - |
+| Fenômenos Denunciadores do Fim | RC-314 | associado | <-> | - |
+| Fator Dharma | RC-319 | associado | <-> | - |
+| Senhores do Dharma (= Senhores da Lila / Trimurti) | RC-320 | associado | <-> | - |
+| Castas Trimurtianas | RC-321 | associado | <-> | - |
+| Dharma e Castas (origem demo) | RC-322 | associado | <-> | - |
+| Entroncamentos Genéticos Intersiderais | RC-323 | associado | <-> | - |
+| Genética Totalitária | RC-325 | associado | <-> | - |
+| Homo hierarchicus | RC-327 | associado | <-> | - |
+| Imperativo Categórico da Moral | RC-328 | associado | <-> | - |
+| Civilização Saraswati | RC-330 | associado | <-> | - |
+| Ra-Atom / Og-mi (nomes do Criador) | RC-331 | associado | <-> | - |
+| Favor Divino (conceito invertido) | RC-332 | associado | <-> | - |
+| Democracia do Amor da Deidade | RC-333 | associado | <-> | - |
+| Teocracia da Doença de uma Divindade | RC-334 | associado | <-> | - |
+| Lavagem Cerebral (condicionamento) | RC-335 | associado | <-> | - |
+| Ética da Sobrevivência de Javé | RC-336 | associado | <-> | - |
+| Humanos: uma simples Experiência Biológica | RC-337 | associado | <-> | - |
+| O Reconhecimento que nunca veio | RC-338 | associado | <-> | - |
+| A Difícil Cobrança sobre os Humanos | RC-339 | associado | <-> | - |
+| Atores de uma Peça Incompreensível | RC-340 | associado | <-> | - |
+| Ferramentas do Favor Divino (religiões e pensadores) | RC-341 | associado | <-> | - |
+| Quarentena Sideral / Cósmica | RC-342 | associado | <-> | - |
+| Portal Cósmico (destinação do Planeta Azul) | RC-343 | associado | <-> | - |
+| Transição Planetária | RC-344 | associado | <-> | - |
+| Sentimento Luciferiano | RC-345 | associado | <-> | - |
+| Jeová (grafia da trilogia) | RC-346 | associado | <-> | - |
+| Projeto Terra | RC-347 | associado | <-> | - |
+| Roteiro do Exílio | RC-348 | associado | <-> | - |
+| Exílios Interplanetários | RC-349 | associado | <-> | - |
+| Jesus, o Capelino | RC-350 | associado | <-> | - |
+| Mestres de Capela | RC-351 | associado | <-> | - |
+| A Segunda Grande Vinda | RC-352 | associado | <-> | - |
+| Ilha Cósmica (mundos rebelados) | RC-353 | associado | <-> | - |
+| Trilogia Queda e Ascensão Espiritual | RC-354 | associado | <-> | - |
+| Fator Extraterrestre (o Elo Perdido) | RC-355 | associado | <-> | - |
+| Fonte da Vida (metáfora da ilha/oceano) | RC-356 | associado | <-> | - |
+| Confederações de Mundos | RC-357 | associado | <-> | - |
+| Terra de Ninguém (cósmica) | RC-358 | associado | <-> | - |
+| Abduções e Reparo Espiritual | RC-359 | associado | <-> | - |
+| Atmosferizar a Lua ou Marte (Opção Final) | RC-360 | associado | <-> | - |
+| Antropocentrismo (crítica) | RC-361 | associado | <-> | - |
+| Apego aos Conceitos Terrenos | RC-362 | associado | <-> | - |
+| Ótica e Ética Cósmicas | RC-363 | relaciona-se-a | <- | - |
+| A Missão do Mestre | RC-364 | associado | <-> | - |
+| O Fator Judas | RC-365 | associado | <-> | - |
+| O Enigma da Transfiguração | RC-366 | associado | <-> | - |
+| Alteração Vibratória (Transfiguração) | RC-367 | associado | <-> | - |
+| Assessoria Cósmica (equipes espirituais de Jesus) | RC-368 | associado | <-> | - |
+| Nietzsche como 'Amigo da Intenção de Jesus' | RC-369 | associado | <-> | - |
+| A Criação de Ídolos para a Humanidade | RC-370 | associado | <-> | - |
+| A Fé de Jesus e a Razão de Nietzsche | RC-371 | associado | <-> | - |
+| O Ser Humano Emancipado | RC-372 | associado | <-> | - |
+| Os 20 Anos de Jesus entre os Celtas | RC-373 | associado | <-> | - |
+| Mordon (o Druida da Montanha) | RC-374 | associado | <-> | - |
+| Druidas Celtas (contexto RC) | RC-375 | associado | <-> | - |
+| José de Arimatéia (no corpus RC) | RC-376 | associado | <-> | - |
+| Brendiver e Dolman (personagens celtas) | RC-377 | associado | <-> | - |
+| A Rebelião dos Elétrons | RC-378 | associado | <-> | - |
+| Dança dos Elétrons | RC-379 | associado | <-> | - |
+| Imanência e Transcendência (Upanishades) | RC-380 | associado | <-> | - |
+| Ressonância Mórfica (agente da rebelião) | RC-381 | associado | <-> | - |
+| A Vida do CFD de Javé no Ser Humano | RC-382 | associado | <-> | - |
+| Roteiro do Absurdo Implantado na Criação | RC-383 | associado | <-> | - |
+| Proposta de um Humano Terrestre aos Elétrons | RC-384 | associado | <-> | - |
+| Egrégora (circuito dos elétrons rebeldes) | RC-385 | associado | <-> | - |
+| Memórias para Javé | RC-386 | associado | <-> | - |
+| Fragmentação do Poder Mental da Divindade | RC-387 | associado | <-> | - |
+| Grupo Atlan | RC-388 | associado | <-> | - |
+| Casa de Lucas (origem do Grupo Atlan) | RC-389 | associado | <-> | - |
+| Espíritos comunicantes do Grupo Atlan | RC-390 | associado | <-> | - |
+| Mesmice Espiritual | RC-391 | associado | <-> | - |
+| Reforma Íntima (tema do Grupo Atlan) | RC-392 | associado | <-> | - |
+| Enéas (espírito comunicante) | RC-393 | associado | <-> | - |
+| Mandreya Ramataiana (espírito comunicante) | RC-394 | associado | <-> | - |
+| Ragnarok em Marte | RC-395 | associado | <-> | - |
+| Kvasir e Freya (Vanir/Aesir) | RC-396 | associado | <-> | - |
+| Tirthankaras (Rishabh Dev, Jina Mahavira) | RC-397 | associado | <-> | - |
+| Thuata de Dannan | RC-398 | associado | <-> | - |
+| Dwarka (submersa) | RC-399 | associado | <-> | - |
+| Foz Côa / FOXP2 (símbolos) | RC-400 | associado | <-> | - |
+| Família Demolle (biodemos) | RC-401 | associado | <-> | - |
+| Halos de Poder (demos) | RC-402 | associado | <-> | - |
+| Colegiado Druídico | RC-403 | associado | <-> | - |
+| Sentido Gradualístico das Leis da Evolução Cósmica | RC-404 | associado | <-> | - |
+| Alvorecer de Aquário | RC-405 | associado | <-> | - |
+| Diálogos de Sócrates, Platão e Aristóteles (nos Céus da Grécia) | RC-406 | associado | <-> | - |
+| Reencarnação iminente da grande leva de espíritos | RC-407 | associado | <-> | - |
+| ADHYMAVATANA (nome completo de Mavatna/Vishnu) | RC-408 | associado | <-> | - |
+| ADHYSAVNA (nome completo de Savna/Shiva) | RC-409 | associado | <-> | - |
+| ADHYPRABRAJNA (grafia do diagrama) | RC-410 | associado | <-> | - |
+| Gênero Adhy (147 seres, 5 espécies) | RC-411 | associado | <-> | - |
+| Emissários Humanos (Enoch, Abraão, Moisés, Jesus) | RC-412 | associado | <-> | - |
+| Hara (avatar de Shiva) | RC-413 | associado | <-> | - |
+| Krishna (avatar de Vishnu/Shiva) | RC-414 | associado | <-> | - |
+| Colapso da Matriz Quântica (3 níveis) | RC-415 | associado | <-> | - |
+| Cartas a Javé (obra e diálogo) | RC-416 | associado | <-> | - |
+| Resposta de Javé (em 1ª pessoa) | RC-417 | associado | <-> | - |
+| Terminal Nervoso do Criador (humano) | RC-418 | associado | <-> | - |
+| Sou eu que vivo em vocês (Javé) | RC-419 | associado | <-> | - |
+| Mônica Camargo (autora das cartas) | RC-420 | associado | <-> | - |
+| As Memórias de Javé (crônicas) | RC-421 | associado | <-> | - |
+| Ser-Criador fracassado (autoconfissão de Javé) | RC-422 | associado | <-> | - |
+| Advogado de Acusação (Ellam × Javé) | RC-423 | associado | <-> | - |
+| Linhagem dos Escolhidos (Adão, Enoch, Abraão, Jacó) | RC-424 | associado | <-> | - |
+| Krishna como 'pretenso Keshava' | RC-425 | associado | <-> | - |
+| Javé sem avatares ('Não tenho isto!') | RC-426 | associado | <-> | - |
+| Criatura-teste (estágio avançado) | RC-427 | associado | <-> | - |
+| Tempo-limite (transição crítica de Javé) | RC-428 | associado | <-> | - |
+| Javé alimenta-se do senso crítico humano | RC-429 | associado | <-> | - |
+| Esporte como evolução da Guerra | RC-430 | associado | <-> | - |
+| Guerreiro ao Atleta (transição) | RC-431 | associado | <-> | - |
+| Agressividade canalizada (DNA doentio) | RC-432 | associado | <-> | - |
+| Força de Atração Sexual (anterior à polaridade) | RC-433 | associado | <-> | - |
+| Homoafetividade (resquício da força original) | RC-434 | associado | <-> | - |
+| O Segredo Perdido do Éden | RC-435 | associado | <-> | - |
+| Heber (patriarca pós-dilúvio) | RC-436 | associado | <-> | - |
+| Joctan e Faleg (filhos de Heber) | RC-437 | associado | <-> | - |
+| Tubal (filho de Jafé, centro de comércio) | RC-438 | associado | <-> | - |
+| Os Magos do Norte | RC-439 | associado | <-> | - |
+| A Sina dos Portadores | RC-440 | associado | <-> | - |
+| Mistérios Dionisíacos | RC-441 | associado | <-> | - |
+| Decência cósmica (ética ellâmica) | RC-508 | associado | <-> | - |
+| Amnésia espiritual (esquecimento das origens) | RC-512 | associado | <-> | - |
+| Projeto Orbum (cidadania planetária) | RC-535 | relaciona-se-a | <- | - |
+| Era do Conhecimento e da Espiritualização | RC-536 | relaciona-se-a | <- | - |
+| Maré Cósmica (eventos cósmicos que afetam a Terra) | RC-537 | associado | <-> | - |
+| Consórcio de Mundos (Arquitetos Universais) | RC-538 | associado | <-> | - |
+| Evolução Possível (terceira via: nem Darwin, nem deus) | RC-541 | relaciona-se-a | <- | - |
+| Flechas / Profecias de Moros | RC-611 | relaciona-se-a | <- | - |
+| Últimas Ordens de Javé aos Clones | RC-652 | associado | <-> | - |
+| Atualização das Revelações Anteriores | RC-656 | causa | <- | consolidação: "atualiza" → "causa" |
+| Atualização das Revelações Anteriores | RC-656 | causa | <- | consolidação: "atualiza" → "causa" |
+| Áurea Catena | RC-663 | associado | <-> | - |
+| Arquivos do Destino Universal | RC-714 | associado | <-> | - |
+| Cumprimento da Profecia de Moros pela Revelação Cósmica | RC-718 | é-um | <- | consolidação: "é-evento-de" → "é-um" |
+| Cumprimento da Profecia de Moros pela Revelação Cósmica | RC-718 | usa | -> | consolidação: "cumpre" → "usa" |
+| Fantasmas do Passado Mitológico | RC-728 | associado | <-> | - |
+| Chave da Decifração Universal | RC-754 | associado | <-> | - |
+| Escola da Decifração da Realidade (Método Druídico) | RC-755 | relaciona-se-a | <- | - |
+| As Cinco Lentes da Realidade | RC-761 | inclui | <- | consolidação: "integra" → "inclui" |
+| IEEA (Instituto de Estudos Estratégicos e Alternativos) | RC-930 | associado | <-> | - |
+| Revelação Psíquica (Kapila — escola Samkhya) | RC-933 | relaciona-se-a | <- | - |
 
 ## Citações-chave
 

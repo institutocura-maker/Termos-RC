@@ -24,13 +24,13 @@ Designação do Criador nas obras: «Ra-Atom / Og-mi». Integra a série de nome
 O verbete funciona como entrada filológica: é pela multiplicidade de nomes que a pedagogia top-down destrava a confusão número 1 do iniciante («afinal, Javé e Brahma são a mesma coisa?»). A relação com RC-284 (Caos = Brahma = Javé) e com RC-001 (Javé) está averbada na malha de relações, e o seu enquadramento geral é a Revelação Cósmica (RC-094).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | associado |
-| Revelação Cósmica (conceito) | RC-094 | associado |
-| Caos = Brahma = Javé (correspondência) | RC-284 | variação |
-| Genética Totalitária | RC-325 | associado |
-| Marduk (= Ra; Anunnaki filho de Enki) | RC-460 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Javé | RC-001 | associado | <-> | - |
+| Revelação Cósmica (conceito) | RC-094 | associado | <-> | - |
+| Caos = Brahma = Javé (correspondência) | RC-284 | variação | -> | - |
+| Genética Totalitária | RC-325 | associado | <-> | - |
+| Marduk (= Ra; Anunnaki filho de Enki) | RC-460 | associado | <-> | - |
 
 - RC-284 — ver ficha correspondente
 - RC-001 — ver ficha correspondente

@@ -25,17 +25,17 @@ Estirpe capelina da qual **Yel Luzbel (Lúcifer)** é integrante — a mais menc
 Nos livros de Jeane Miranda, as famílias capelinas são **Biocoletivos** (coletivos de biodemos) criados por Sophia para administrar a Obra do Criador. A Família Yel é descrita como "uma das espécies do género capelino", com seres que nascem individualizados mas permanecem ligados pelo Processador familiar. É da inquietação de Yel Luzbel, seu Primeiro Pesquisador, que nasce o processo da Revolta Capelina.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Biodemos | RC-036 | é-um |
-| Capela (Sistema) | RC-039 | origina-se-em |
-| Yel Luzbel | RC-142 | ← é-um |
-| Família Mion | RC-443 | relaciona-se-a |
-| Biocoletivos | RC-445 | associado |
-| Processadores Familiares | RC-446 | ← associado-a |
-| Primeiro Pesquisador (cargo capelino) | RC-447 | associado |
-| Revolta Capelina | RC-450 | envolvida-em |
-| Membros da Família Yel (Luziel, Adrax, Breasil, Lupon) | RC-492 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Biodemos | RC-036 | é-um | -> | - |
+| Capela (Sistema) | RC-039 | origina | -> | consolidação: "origina-se-em" → "origina" |
+| Yel Luzbel | RC-142 | é-um | <- | - |
+| Família Mion | RC-443 | relaciona-se-a | -> | - |
+| Biocoletivos | RC-445 | associado | <-> | - |
+| Processadores Familiares | RC-446 | associado | <-> | - |
+| Primeiro Pesquisador (cargo capelino) | RC-447 | associado | <-> | - |
+| Revolta Capelina | RC-450 | envolve | -> | consolidação: "envolvida-em" → "envolve" |
+| Membros da Família Yel (Luziel, Adrax, Breasil, Lupon) | RC-492 | associado | <-> | - |
 
 ## Seres Associados
 Yel Luzbel (RC-142); Len Mion (RC-074, estirpe rival); Sophia (RC-009, criadora dos biodemos); Olm / Mestre Codificador de Zion (RC-252, interlocutor).

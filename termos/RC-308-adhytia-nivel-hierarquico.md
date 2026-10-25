@@ -25,22 +25,22 @@ Nível hierárquico superior de seres mencionado em *Inquisição Trimurtiana* (
 Os Adhytia aparecem episodicamente nos registros da mitologia hindu (os Adityas), mas sem referências dignas de nota no academicismo. No B022, um deles se posiciona à frente, saudando Brahma e os "Senhores da Lila", e se volta ao humano com "profundo desprezo": "Só mesmo um pesado sacrifício, que estes três seres se autoimpuseram, para suportar a sua indecorosa decifração". Eles representam a linhagem decadente dos descendentes da Trimurti que tentarão preservar o poder após o fim dos três.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Adhy | RC-011 | é-um |
-| Revelação Cósmica (conceito) | RC-094 | associado |
-| Trimurti | RC-104 | superior-a |
-| Ordem dos Indecifráveis | RC-309 | ← é-um |
-| Adhyagya (formas espirituais Adhy) | RC-311 | relaciona-se-a |
-| Tempo de Apostasia | RC-313 | contexto |
-| Sequência Formativa da Racionalidade Humana | RC-785 | associado |
-| Egrégora de Lilith / Noreia (Loop Mental Vivo) | RC-787 | associado |
-| Lilith como Rakshasa (Espécie Não-Humana) | RC-794 | associado |
-| Judaísmo como Destruidor do Mito de Pandora/Lilith | RC-796 | associado |
-| Culto a Lilith (Transformação em Deusa Lil Babilônica) | RC-813 | associado |
-| Eva como 3ª Tentativa de Fêmea para Adão (Homem + Mulher da Espécie Sábia) | RC-814 | associado |
-| Agar como 2ª Tentativa Fracassada de Fêmea para Adão | RC-817 | associado |
-| Patriarcado desde Pandora (Origem no Feminino, Dominação pelo Masculino) | RC-818 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Adhy | RC-011 | é-um | -> | - |
+| Revelação Cósmica (conceito) | RC-094 | associado | <-> | - |
+| Trimurti | RC-104 | precede | -> | consolidação: "superior-a" → "precede" |
+| Ordem dos Indecifráveis | RC-309 | é-um | <- | - |
+| Adhyagya (formas espirituais Adhy) | RC-311 | relaciona-se-a | -> | - |
+| Tempo de Apostasia | RC-313 | contexto | -> | - |
+| Sequência Formativa da Racionalidade Humana | RC-785 | associado | <-> | - |
+| Egrégora de Lilith / Noreia (Loop Mental Vivo) | RC-787 | associado | <-> | - |
+| Lilith como Rakshasa (Espécie Não-Humana) | RC-794 | associado | <-> | - |
+| Judaísmo como Destruidor do Mito de Pandora/Lilith | RC-796 | associado | <-> | - |
+| Culto a Lilith (Transformação em Deusa Lil Babilônica) | RC-813 | associado | <-> | - |
+| Eva como 3ª Tentativa de Fêmea para Adão (Homem + Mulher da Espécie Sábia) | RC-814 | associado | <-> | - |
+| Agar como 2ª Tentativa Fracassada de Fêmea para Adão | RC-817 | associado | <-> | - |
+| Patriarcado desde Pandora (Origem no Feminino, Dominação pelo Masculino) | RC-818 | associado | <-> | - |
 
 ## Seres Associados
 Brahma (RC-037); Vishnu (RC-135); Shiva (RC-102); Jan Val Ellam (RC-071).

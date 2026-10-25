@@ -27,12 +27,12 @@ Na B015 (*O Guardião do Éden*), o traço «herdado do modo de ser do Criador»
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Criador (Brahma/Javé/Demiurgo) | RC-041 | herdado-de |
-| Universo Material (Bhuloka) | RC-107 | associado |
-| Criação Indevida (Obra indevida) | RC-167 | associado |
-| Genética da Confiança | RC-243 | ← opõe-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Criador (Brahma/Javé/Demiurgo) | RC-041 | origina | <- | consolidação: "herdado-de" → "origina"; direção invertida (forma passiva/inversa) |
+| Universo Material (Bhuloka) | RC-107 | associado | <-> | - |
+| Criação Indevida (Obra indevida) | RC-167 | associado | <-> | - |
+| Genética da Confiança | RC-243 | opõe-se-a | <- | - |
 
 ## Fontes
 

@@ -23,12 +23,12 @@ Tempérium é uma variação histórica/de STT de Tempérion, preservada para ra
 A descrição antiga “os cinco Archeons de Eeron” estava ontologicamente incorreta. A palestra mostra que Tempérion é apenas um dos cinco Archeons e o setor dos seres LM.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Espiritualidade Laboratorial | RC-061 | relaciona-se-a |
-| Tempérion (Archeon de Ereon; setor dos seres LM) | RC-472 | relaciona-se-a |
-| Tempérion (Archeon de Ereon; setor dos seres LM) | RC-472 | variação |
-| Ereon (região dos cinco Archeons da Espiritualidade Laboratorial) | RC-496 | relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Espiritualidade Laboratorial | RC-061 | relaciona-se-a | -> | - |
+| Tempérion (Archeon de Ereon; setor dos seres LM) | RC-472 | relaciona-se-a | -> | - |
+| Tempérion (Archeon de Ereon; setor dos seres LM) | RC-472 | variação | -> | - |
+| Ereon (região dos cinco Archeons da Espiritualidade Laboratorial) | RC-496 | relaciona-se-a | -> | - |
 
 ## Seres Associados
 Ver relações acima e os nós Elm (RC-454), Olm (RC-092), Prabrajna (RC-152), Gênero Adhy (RC-411) e Seres LM (RC-456), conforme aplicável.

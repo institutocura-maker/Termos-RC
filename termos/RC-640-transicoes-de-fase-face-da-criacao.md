@@ -23,11 +23,11 @@ Fases/faces sucessivas pelas quais os restos do Criador assumem formas microbian
 A fala anuncia palestra futura específica sobre as transferências de fase.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Ressurreição do Cadáver do Criador | RC-638 | relaciona-se-a |
-| Protozoários Antimateriais / Antiprotozoários | RC-639 | inclui |
-| Face Microbiana do Criador | RC-641 | inclui |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Ressurreição do Cadáver do Criador | RC-638 | relaciona-se-a | -> | - |
+| Protozoários Antimateriais / Antiprotozoários | RC-639 | inclui | -> | - |
+| Face Microbiana do Criador | RC-641 | inclui | -> | - |
 
 ## Seres Associados
 Consultar relações acima.

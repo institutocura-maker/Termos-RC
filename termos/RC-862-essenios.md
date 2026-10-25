@@ -27,10 +27,10 @@ Materialização autorizada pelo despacho F044 (Anel C, 06/09/2026). O termo já
 - **[P2023-12-25-01]** Aula 01 — Adolescência e a Juventude de Jesus: contato de Jesus com a expectativa messiânica e o papel de Batista.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Jesus | RC-072 | associado |
-| João Batista | RC-944 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Jesus | RC-072 | associado | <-> | - |
+| João Batista | RC-944 | associado | <-> | - |
 
 - João Batista — RC-944;
 - Jesus — RC-072.

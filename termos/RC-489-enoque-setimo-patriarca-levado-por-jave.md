@@ -17,23 +17,23 @@ atualizado = "2026-10-23"
 Sétimo patriarca bíblico, levado por Javé — na RC, figura-chave da intercessão pelos Anunnakis (RC-673) e dos 366 manuscritos (RC-672).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Linhagem dos Escolhidos (Adão, Enoch, Abraão, Jacó) | RC-424 | associado |
-| Hermes Trismegisto (= Ningishzidda/Thoth/Quetzalcóatl) | RC-463 | ← relaciona-se-a |
-| Classes de anjos de Arabot-Ráquia (ofanim, serafins, galgaulim, chashmalim) | RC-485 | relaciona-se-a |
-| Caim (leitura RC: segundo a nascer) | RC-490 | associado |
-| Arabot-Ráquia (ambiente de Javé; = Araboth) | RC-495 | associado |
-| Linhagem de Seth | RC-594 | ← relaciona-se-a |
-| Metatron | RC-671 | ← variação-posterior-de |
-| Metatron | RC-671 | relaciona-se-a |
-| Os 366 Manuscritos de Enoque | RC-672 | ← escrito-por |
-| Os 366 Manuscritos de Enoque | RC-672 | relaciona-se-a |
-| Os 366 Manuscritos de Enoque | RC-672 | ← relaciona-se-a |
-| Os 366 Manuscritos de Enoque | RC-672 | relaciona-se-a |
-| Intercessão de Enoque pelos Anunnaki | RC-673 | relaciona-se-a |
-| Culto a Lilith (Transformação em Deusa Lil Babilônica) | RC-813 | associado |
-| Pacto Aesir-Vanir como Origem Nórdica da Ideia de Pandora | RC-816 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Linhagem dos Escolhidos (Adão, Enoch, Abraão, Jacó) | RC-424 | associado | <-> | - |
+| Hermes Trismegisto (= Ningishzidda/Thoth/Quetzalcóatl) | RC-463 | relaciona-se-a | <- | - |
+| Classes de anjos de Arabot-Ráquia (ofanim, serafins, galgaulim, chashmalim) | RC-485 | relaciona-se-a | -> | - |
+| Caim (leitura RC: segundo a nascer) | RC-490 | associado | <-> | - |
+| Arabot-Ráquia (ambiente de Javé; = Araboth) | RC-495 | associado | <-> | - |
+| Linhagem de Seth | RC-594 | relaciona-se-a | <- | - |
+| Metatron | RC-671 | variação | <- | consolidação: "variação-posterior-de" → "variação" |
+| Metatron | RC-671 | relaciona-se-a | -> | - |
+| Os 366 Manuscritos de Enoque | RC-672 | comunica | -> | consolidação: "escrito-por" → "comunica"; direção invertida (forma passiva/inversa) |
+| Os 366 Manuscritos de Enoque | RC-672 | relaciona-se-a | -> | - |
+| Os 366 Manuscritos de Enoque | RC-672 | relaciona-se-a | <- | - |
+| Os 366 Manuscritos de Enoque | RC-672 | relaciona-se-a | -> | - |
+| Intercessão de Enoque pelos Anunnaki | RC-673 | relaciona-se-a | -> | - |
+| Culto a Lilith (Transformação em Deusa Lil Babilônica) | RC-813 | associado | <-> | - |
+| Pacto Aesir-Vanir como Origem Nórdica da Ideia de Pandora | RC-816 | associado | <-> | - |
 
 ## Ampliação — STT26-EXTRATERRESTRES_TECNOLOGIA (Eixo STT26 — Extraterrestres, tecnologia e cosmos (derivados normalizados))
 

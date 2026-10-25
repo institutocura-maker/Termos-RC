@@ -17,16 +17,16 @@ atualizado = "2026-09-13"
 Gênero espiritual da Espiritualidade Laboratorial (Perpérion): "Gênero espiritual cujo 'nome definidor' da sua linhagem operativa [...] seria algo próximo à expressão 'Adhy', composto por cinco espécies, tendo sido uma delas, a 'Pashvnaj', a responsável pela expressão desta Criação indevida" (B031). São 147 seres em 5 espécies — Pashvnaj com 43 figuras — que romperam com a mente coletiva e assumiram a individualidade; chamados também "filhos do abismo" (P2021-12-04; ver o censo em RC-411). A alma ou espírito puro do gênero está sob a condição Adhyagia (RC-012); imantada em corpo causal em Perpérion, assume a condição Adhyatman (RC-013) (B024, Nota 5). Os espíritos dos três da Trimurti pertencem a este gênero (B022) — que detém a capacidade de agir em múltiplas formas simultâneas, mantendo "duas ou mais formas de expressão, dependendo das suas atribuições e de onde tenham que viver" (B031). Na fonte oral, STT "seres arte/Ados/Ades/ISAD/Zad" (mapeamento de curadoria, RC-411).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Adhyagia | RC-012 | tem-condição |
-| Adhyatman | RC-013 | personifica-se-como (imantado) |
-| Adhydaiva | RC-014 | expressa-se-como (caídos) |
-| Deidade (Pai-Mãe Amantíssimo / Brahman) | RC-047 | associado |
-| Divindades (Co-criadoras) | RC-054 | associado-a |
-| Perpérion | RC-087 | habita |
-| Adhytia (nível hierárquico) | RC-308 | ← é-um |
-| Gênero Adhy (147 seres, 5 espécies) | RC-411 | ← é-um |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Adhyagia | RC-012 | requer | -> | consolidação: "tem-condição" → "requer" |
+| Adhyatman | RC-013 | representa | -> | qualificador preservado: imantado; consolidação: "personifica-se-como" → "representa" |
+| Adhydaiva | RC-014 | representa | -> | qualificador preservado: caídos; consolidação: "expressa-se-como" → "representa" |
+| Deidade (Pai-Mãe Amantíssimo / Brahman) | RC-047 | associado | <-> | - |
+| Divindades (Co-criadoras) | RC-054 | associado | <-> | - |
+| Perpérion | RC-087 | contexto | -> | consolidação: "habita" → "contexto" |
+| Adhytia (nível hierárquico) | RC-308 | é-um | <- | - |
+| Gênero Adhy (147 seres, 5 espécies) | RC-411 | é-um | <- | - |
 
 ## Fontes
 

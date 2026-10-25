@@ -25,13 +25,13 @@ atualizado = "2026-09-13"
 No B057 (cap. 2, pp. 21–22), Yel Luzbel explica o gênero capelino por contraste com os olimpianos citados por Pandora (RC-086, nota p. 25): "os olimpianos eram urdidos individualmente e **não são entes coletivos**, enquanto os capelinos, que podem pertencer a grandes ou a pequenas famílias, também possuem corpos individualizados, **porém são coletivos, e não têm uma identidade própria**, como os olimpianos". Ambos os gêneros "fazem parte de 'experiências' similares de um único 'projeto', que visa resolver os 'problemas' do Criador 'caído'". A condição biocoletiva é o que torna o contágio da "inquietação" de Yel Luzbel possível: "se um ser nasce de maneira coletiva... ele não tem como 'escolher, pensar ou sentir' de modo individualizado porque, a partir do momento que ele fizer algo diferente do que a sua família faz... causa 'perturbação' em todos os membros da sua espécie" (p. 22). Em B058, "a Família Mion contata os demais Biocoletivos" (registro da BIBLIO).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Biodemos | RC-036 | variação |
-| Família Yel | RC-442 | é-um (biocoletivo) |
-| Família Mion | RC-443 | é-um (biocoletivo) |
-| Deslacre (rompimento dos lacres psíquicos) | RC-448 | associado |
-| Revolta Capelina | RC-450 | relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Biodemos | RC-036 | variação | -> | - |
+| Família Yel | RC-442 | é-um | -> | qualificador preservado: biocoletivo |
+| Família Mion | RC-443 | é-um | -> | qualificador preservado: biocoletivo |
+| Deslacre (rompimento dos lacres psíquicos) | RC-448 | associado | <-> | - |
+| Revolta Capelina | RC-450 | relaciona-se-a | -> | - |
 
 ## Seres Associados
 Sophia (RC-009, criador das famílias); Pandora (RC-086, contraste com os olimpianos individuais); Yel Luzbel (RC-078, o biocoletivo que se individualizou).

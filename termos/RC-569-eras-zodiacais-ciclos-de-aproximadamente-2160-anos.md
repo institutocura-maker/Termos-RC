@@ -23,15 +23,15 @@ Doze subdivisões temporais de aproximadamente 2.160 anos que totalizam 25.920 a
 Segundo a palestra, tornaram-se relógio para pactos, apostas, avatares e regências de seres do universo antimaterial e de civilizações extraterrestres.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Alvorecer de Aquário | RC-405 | relaciona-se-a |
-| Ciclo de Precessão Equinocial (Precessão dos Equinócios) | RC-567 | ← divide-se-em |
-| Ciclo de Precessão Equinocial (Precessão dos Equinócios) | RC-567 | parte-de |
-| Eras Equinociais (ciclos de aproximadamente 5.200 anos) | RC-568 | relaciona-se-a |
-| Janelas Cósmicas (métricas temporais) | RC-570 | ← usa |
-| Ano de 2012 como Divisor de Ciclos | RC-571 | relaciona-se-a |
-| Era de Peixes | RC-592 | ← é-um |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Alvorecer de Aquário | RC-405 | relaciona-se-a | -> | - |
+| Ciclo de Precessão Equinocial (Precessão dos Equinócios) | RC-567 | inclui | <- | consolidação: "divide-se-em" → "inclui" |
+| Ciclo de Precessão Equinocial (Precessão dos Equinócios) | RC-567 | parte-de | -> | - |
+| Eras Equinociais (ciclos de aproximadamente 5.200 anos) | RC-568 | relaciona-se-a | -> | - |
+| Janelas Cósmicas (métricas temporais) | RC-570 | usa | <- | - |
+| Ano de 2012 como Divisor de Ciclos | RC-571 | relaciona-se-a | -> | - |
+| Era de Peixes | RC-592 | é-um | <- | - |
 
 ## Seres Associados
 —

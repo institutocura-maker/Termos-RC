@@ -24,19 +24,19 @@ Tese (leitura do autor, palestra **P2023-12-17 — Lúcifer e a Rebelião dos El
 Aparece em **P2023-12-17**, U0005. Contexto: a palestra apresenta o conceito de **"era do colapso do caos organizado"** como o pano de fundo histórico do nosso tempo. **Yel Luzbel** foi quem chamou atenção do autor para isso — "acho que você devia entender que vocês, nós estamos vivendo o início de uma nova era, era do conhecimento, era mas é a era do colapso do caos organizado". O caos conseguiu se organizar e construir vida (corais, colmeias, humanos), mas agora a entropia (já destrói o organizado) está sendo acrescida da **rebelião dos elétrons** — uma força **além da entropia**.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | é-criador-de |
-| Big Bang | RC-034 | é-origem-de |
-| Agentes da Vida Universal | RC-148 | é-mecanismo-de |
-| Elétrons (agente básico da vida universal) | RC-162 | é-agente-de |
-| Elétrons (agente básico da vida universal) | RC-162 | é-estado-de |
-| A Rebelião dos Elétrons | RC-378 | associado |
-| Rebelião dos Elétrons (Além da Entropia) | RC-826 | é-componente-de |
-| Memória dos Elétrons e Arcanos | RC-829 | associado |
-| Pulsação dos Elétrons Como Afetividade Humana | RC-832 | é-mecanismo-de |
-| 13 Livros de Lúcifer com Humanos (Necessários Antes do Fim) | RC-833 | associado |
-| Corais e Colmeias | (fato biológico) | são-primeiras-vítimas-de |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Javé | RC-001 | origina | -> | consolidação: "é-criador-de" → "origina" |
+| Big Bang | RC-034 | origina | -> | consolidação: "é-origem-de" → "origina" |
+| Agentes da Vida Universal | RC-148 | usa | -> | consolidação: "é-mecanismo-de" → "usa" |
+| Elétrons (agente básico da vida universal) | RC-162 | envolve | -> | consolidação: "é-agente-de" → "envolve" |
+| Elétrons (agente básico da vida universal) | RC-162 | é-um | -> | consolidação: "é-estado-de" → "é-um" |
+| A Rebelião dos Elétrons | RC-378 | associado | <-> | - |
+| Rebelião dos Elétrons (Além da Entropia) | RC-826 | parte-de | -> | consolidação: "é-componente-de" → "parte-de" |
+| Memória dos Elétrons e Arcanos | RC-829 | associado | <-> | - |
+| Pulsação dos Elétrons Como Afetividade Humana | RC-832 | usa | -> | consolidação: "é-mecanismo-de" → "usa" |
+| 13 Livros de Lúcifer com Humanos (Necessários Antes do Fim) | RC-833 | associado | <-> | - |
+| Corais e Colmeias | (fato biológico) | danifica | -> | consolidação: "são-primeiras-vítimas-de" → "danifica" |
 
 ## Seres Associados
 - **Elétrons (RC-162)** — quem está colapsando

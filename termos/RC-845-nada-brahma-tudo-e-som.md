@@ -29,11 +29,11 @@ Com isso:
 **Origem do conteúdo da ampliação:** palestra `P2018-12-15 — Terra Atlantis – Aprofundamento` (15/12/2018). Transcrição automatizada, **não conferida com o áudio**; cada aspa foi recortada do `original.txt` pelo índice de âncoras do motor e conferida byte a byte pelo portão B. Nada foi digitado de memória.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Brahmaloka | RC-038 | **sem aresta** em `RELACOES`; **sem arquivo** |
-| Prabrajna | RC-152 | **sem aresta** em `RELACOES`; arquivo existe |
-| Nidana (ovo cósmico) | RC-154 | **sem aresta** em `RELACOES`; arquivo existe |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Brahmaloka | RC-038 | - | - | sem aresta em RELACOES; sem arquivo |
+| Prabrajna | RC-152 | - | - | sem aresta em RELACOES; arquivo existe |
+| Nidana (ovo cósmico) | RC-154 | - | - | sem aresta em RELACOES; arquivo existe |
 
 
 ## Ampliação — OIDR26-04 (Onda incremental dry-run — Experiência espiritual e ética evolutiva (derivados normalizados))

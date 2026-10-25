@@ -17,31 +17,31 @@ atualizado = "2026-10-23"
 O "agente básico da vida universal": o único que existe desde o primeiro momento da Criação (B024). Sua face mais misteriosa é a memória quântica — o elétron "marca" em si tudo o que "vivencia" (B024); Charon percebeu que os elétrons têm memória quântica infinita, registrando nos seus circuitos e matrizes tudo o que vivenciam (B041). Elétrons, códigos-fontes definidores e egrégoras são as únicas coisas "eternas" que realmente existem (B041). São as "micropartes 'podres' e 'sujas' do Criador 'caído'" — os "neurônios da mente de Prabrajna que foi esculhambada pela criação" — e os humanos, pelo bom uso da razão e do sentimento, "limpam" os elétrons sob sua guarda; o Quarto Logos assumirá a Mente Universal Emergente quando uma massa crítica de elétrons organizados for alcançada (P2024-05-04). No fim, quando a energia Tamásica presidir a finalização das forças nucleares, as informações dos elétrons estarão associadas à emergente "Mente Universal" (B024).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Agentes da Vida Universal | RC-148 | associado-a |
-| Gunas Criadoras (Sattva, Rajas, Tamas) | RC-151 | associado |
-| Memória Quântica dos Elétrons | RC-161 | ← relaciona-se-a |
-| A Rebelião dos Elétrons | RC-378 | protagoniza |
-| Dança dos Elétrons | RC-379 | ← é-um |
-| Imanência e Transcendência (Upanishades) | RC-380 | associado |
-| Ressonância Mórfica (agente da rebelião) | RC-381 | associado |
-| Egrégora (circuito dos elétrons rebeldes) | RC-385 | associado |
-| Duas Pulsações da Criação (elétrons e antielétrons) | RC-636 | ← envolve |
-| Protozoários Antimateriais / Antiprotozoários | RC-639 | associado |
-| Colapso do Caos Organizado | RC-690 | associado-a |
-| Kit Reencarnatório de Elétrons | RC-692 | ← usa |
-| Kit Reencarnatório de Elétrons | RC-692 | ← usa |
-| Evolução da Informação, não das Espécies | RC-693 | ← relaciona-se-a |
-| Informações Vivas | RC-715 | ← compõe |
-| Javé como Caos Personificado | RC-782 | associado |
-| Fissão em Dois Universos (Matéria + Antimatéria) | RC-811 | associado |
-| Rebelião dos Elétrons (Além da Entropia) | RC-826 | associado |
-| Era do Colapso do Caos Organizado | RC-827 | associado |
-| Sistema Arcaico Mental (Javé Como Abelha Rainha) | RC-828 | associado |
-| Memória dos Elétrons e Arcanos | RC-829 | associado |
-| Sophia Como Biodemo da Ordem e Caos | RC-831 | associado |
-| Pulsação dos Elétrons Como Afetividade Humana | RC-832 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Agentes da Vida Universal | RC-148 | associado | <-> | - |
+| Gunas Criadoras (Sattva, Rajas, Tamas) | RC-151 | associado | <-> | - |
+| Memória Quântica dos Elétrons | RC-161 | relaciona-se-a | <- | - |
+| A Rebelião dos Elétrons | RC-378 | envolve | -> | consolidação: "protagoniza" → "envolve" |
+| Dança dos Elétrons | RC-379 | é-um | <- | - |
+| Imanência e Transcendência (Upanishades) | RC-380 | associado | <-> | - |
+| Ressonância Mórfica (agente da rebelião) | RC-381 | associado | <-> | - |
+| Egrégora (circuito dos elétrons rebeldes) | RC-385 | associado | <-> | - |
+| Duas Pulsações da Criação (elétrons e antielétrons) | RC-636 | envolve | <- | - |
+| Protozoários Antimateriais / Antiprotozoários | RC-639 | associado | <-> | - |
+| Colapso do Caos Organizado | RC-690 | associado | <-> | - |
+| Kit Reencarnatório de Elétrons | RC-692 | usa | <- | - |
+| Kit Reencarnatório de Elétrons | RC-692 | usa | <- | - |
+| Evolução da Informação, não das Espécies | RC-693 | relaciona-se-a | <- | - |
+| Informações Vivas | RC-715 | inclui | <- | consolidação: "compõe" → "inclui" |
+| Javé como Caos Personificado | RC-782 | associado | <-> | - |
+| Fissão em Dois Universos (Matéria + Antimatéria) | RC-811 | associado | <-> | - |
+| Rebelião dos Elétrons (Além da Entropia) | RC-826 | associado | <-> | - |
+| Era do Colapso do Caos Organizado | RC-827 | associado | <-> | - |
+| Sistema Arcaico Mental (Javé Como Abelha Rainha) | RC-828 | associado | <-> | - |
+| Memória dos Elétrons e Arcanos | RC-829 | associado | <-> | - |
+| Sophia Como Biodemo da Ordem e Caos | RC-831 | associado | <-> | - |
+| Pulsação dos Elétrons Como Afetividade Humana | RC-832 | associado | <-> | - |
 
 ## Ampliação — STT26-EXTRATERRESTRES_TECNOLOGIA (Eixo STT26 — Extraterrestres, tecnologia e cosmos (derivados normalizados))
 

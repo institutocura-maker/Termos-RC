@@ -24,13 +24,13 @@ Texto sagrado zoroástrico citado na palestra como fonte da narrativa de Yima e 
 Aparece no diálogo com as eras culturais de Rudolf Steiner e com a cronologia de cataclismos do final da era glacial.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Ciclo de Precessão Equinocial (Precessão dos Equinócios) | RC-567 | relaciona-se-a |
-| Eras Equinociais (ciclos de aproximadamente 5.200 anos) | RC-568 | relaciona-se-a |
-| Yima | RC-590 | ← tema-de |
-| Yima | RC-590 | inclui |
-| Atualização das Revelações Anteriores | RC-656 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Ciclo de Precessão Equinocial (Precessão dos Equinócios) | RC-567 | relaciona-se-a | -> | - |
+| Eras Equinociais (ciclos de aproximadamente 5.200 anos) | RC-568 | relaciona-se-a | -> | - |
+| Yima | RC-590 | contexto | <- | consolidação: "tema-de" → "contexto" |
+| Yima | RC-590 | inclui | -> | - |
+| Atualização das Revelações Anteriores | RC-656 | associado | <-> | - |
 
 ## Seres Associados
 Yima (RC-590)

@@ -35,13 +35,13 @@ Com isso:
 **Origem do conteúdo da ampliação:** palestra `P2020-04-25 — Os Desdobramentos da Rebelião de Lúcifer`, megabloco U0006 (e U0007–U0013) do `original.txt` — transcrição automatizada, **não conferida com o áudio**. Cada aspa foi recortada byte a byte por `_gerar_ampliacoes_P2020-04-25.py` sobre o caça-âncoras `_aspas_P2020-04-25.py`; nada foi digitado de memória.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Exilados de Capela | RC-007 | associado |
-| Anunnaki | RC-024 | associado |
-| Lúcifer (Yel Luzbel) | RC-078 | associado |
-| Nephilins | RC-082 | associado |
-| Fator Extraterrestre (o Elo Perdido) | RC-355 | ← explica |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Exilados de Capela | RC-007 | associado | <-> | - |
+| Anunnaki | RC-024 | associado | <-> | - |
+| Lúcifer (Yel Luzbel) | RC-078 | associado | <-> | - |
+| Nephilins | RC-082 | associado | <-> | - |
+| Fator Extraterrestre (o Elo Perdido) | RC-355 | explica | <- | - |
 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo (citação/paráfrase) |

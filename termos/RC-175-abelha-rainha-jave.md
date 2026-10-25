@@ -17,14 +17,14 @@ atualizado = "2026-08-28"
 Na RC, metáfora do **sistema colmeico de comando** — o modelo em que um comando central ("abelha rainha") dirige uma colônia de operários. Associada a Javé (RC-001) e ao Modelo Colmeia (RC-176).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | variação |
-| Elohim | RC-004 | ← relaciona-se-a |
-| Sophia (Cristo Cósmico) | RC-009 | ← relaciona-se-a |
-| Colmeia Universal | RC-174 | associado |
-| Modelo Colmeia (Sistema/Controle Colmeia) | RC-176 | relaciona-se-a |
-| Relógio Messiânico | RC-765 | relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Javé | RC-001 | variação | -> | - |
+| Elohim | RC-004 | relaciona-se-a | <- | - |
+| Sophia (Cristo Cósmico) | RC-009 | relaciona-se-a | <- | - |
+| Colmeia Universal | RC-174 | associado | <-> | - |
+| Modelo Colmeia (Sistema/Controle Colmeia) | RC-176 | relaciona-se-a | -> | - |
+| Relógio Messiânico | RC-765 | relaciona-se-a | -> | - |
 
 ## Fontes
 

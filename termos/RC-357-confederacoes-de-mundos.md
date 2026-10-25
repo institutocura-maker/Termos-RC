@@ -24,15 +24,15 @@ Organizações siderais de civilizações planetárias evoluídas — descritas 
 As Confederações de Mundos são o pano de fundo político-cósmico do B005: a Terra, por ser uma "espécie de 'terra de ninguém'" (RC-358), estava "passível de receber visitas exploratórias (muitas vezes com fins pouco nobres) de quaisquer civilizações que não estivessem vinculadas às confederações de mundos". A reintegração da Terra ao convívio cósmico implica sua reinserção nesse tecido de confederações.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Reintegração Cósmica | RC-003 | contexto |
-| Espiritualidade Superior | RC-059 | subordinada-a |
-| Revelação Cósmica (conceito) | RC-094 | associado |
-| Seres Extraterrenos / Extraterrestres | RC-098 | é-um |
-| Universo Material (Bhuloka) | RC-107 | associado |
-| Fator Extraterrestre (o Elo Perdido) | RC-355 | contexto |
-| Terra de Ninguém (cósmica) | RC-358 | ← é-um |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Reintegração Cósmica | RC-003 | contexto | -> | - |
+| Espiritualidade Superior | RC-059 | requer | -> | consolidação: "subordinada-a" → "requer" |
+| Revelação Cósmica (conceito) | RC-094 | associado | <-> | - |
+| Seres Extraterrenos / Extraterrestres | RC-098 | é-um | -> | - |
+| Universo Material (Bhuloka) | RC-107 | associado | <-> | - |
+| Fator Extraterrestre (o Elo Perdido) | RC-355 | contexto | -> | - |
+| Terra de Ninguém (cósmica) | RC-358 | é-um | <- | - |
 
 ## Seres Associados
 Prepostos da Deidade (RC-206); civilizações planetárias (RC-098).

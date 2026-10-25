@@ -24,14 +24,14 @@ O contraste e o choque entre a **fé de Jesus** e a **razão de Nietzsche** — 
 O B049 explora a dialética fé × razão como complementares: a fé de Jesus (amor, compaixão) e a razão de Nietzsche (crítica, emancipação) trabalham juntas para libertar o ser humano dos condicionamentos ("donos do legado"). O conceito conecta-se à Liberdade Mental (RC-253) e ao Imperativo Categórico da Moral (RC-328): a razão filosófica como freio ao mal.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Jesus | RC-072 | agente (fé) |
-| Revelação Cósmica (conceito) | RC-094 | associado |
-| Razão Filosófica dos Terráqueos | RC-231 | relaciona-se-a |
-| Liberdade Mental (premissa do Quarto Logos) | RC-253 | opõe-se-a |
-| Nietzsche como 'Amigo da Intenção de Jesus' | RC-369 | é-um |
-| O Ser Humano Emancipado | RC-372 | desdobramento |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Jesus | RC-072 | envolve | -> | qualificador preservado: fé; consolidação: "agente" → "envolve" |
+| Revelação Cósmica (conceito) | RC-094 | associado | <-> | - |
+| Razão Filosófica dos Terráqueos | RC-231 | relaciona-se-a | -> | - |
+| Liberdade Mental (premissa do Quarto Logos) | RC-253 | opõe-se-a | -> | - |
+| Nietzsche como 'Amigo da Intenção de Jesus' | RC-369 | é-um | -> | - |
+| O Ser Humano Emancipado | RC-372 | sucede | -> | consolidação: "desdobramento" → "sucede" |
 
 ## Seres Associados
 Jesus (RC-072); Nietzsche (RC-369); Seres Terrenos (RC-099).

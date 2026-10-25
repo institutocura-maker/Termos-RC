@@ -27,11 +27,11 @@ Em B043 (*Jesus e o Druida da Montanha*), DUAS sacerdotisas celtas — não uma 
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Revelação Cósmica (conceito) | RC-094 | associado |
-| Os 20 Anos de Jesus entre os Celtas | RC-373 | associado |
-| Mordon (o Druida da Montanha) | RC-374 | associado-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Revelação Cósmica (conceito) | RC-094 | associado | <-> | - |
+| Os 20 Anos de Jesus entre os Celtas | RC-373 | associado | <-> | - |
+| Mordon (o Druida da Montanha) | RC-374 | associado | <-> | - |
 
 ## Fontes
 

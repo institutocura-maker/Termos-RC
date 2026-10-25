@@ -24,41 +24,41 @@ A "rebelião dos elétrons" é o **movimento inconsciente de rebelião íntima n
 A obra B041 (2018) desenvolve o tema: os elétrons, "sujados" pela violência imperativa das espécies predadoras, começaram a "marcar caos, horror e tragédia" nos seus circuitos quânticos; a rebelião inconsciente (cap. 17) provoca desdobramentos tanto no ordenamento quanto no caos. O cap. 22 revela o sentido profundo: para Javé, a rebelião é "a oportunidade de salvação do que resta da sua consciência". A **ressonância mórfica** (Sheldrake) entre antielétrons e elétrons foi o "principal agente" da rebelião.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Criador (Brahma/Javé/Demiurgo) | RC-041 | beneficia |
-| Revelação Cósmica (conceito) | RC-094 | associado |
-| CFDP (Código-fonte Definidor Pessoal / Código de Vida Pessoal do Criador) | RC-153 | modifica |
-| Memória Quântica dos Elétrons | RC-161 | envolve |
-| Memória Quântica dos Elétrons | RC-161 | relaciona-se-a |
-| Memória Quântica dos Elétrons | RC-161 | ← relaciona-se-a |
-| Elétrons (agente básico da vida universal) | RC-162 | envolve |
-| Pílula vermelha | RC-192 | ← relaciona-se-a |
-| Dança dos Elétrons | RC-379 | relaciona-se-a |
-| Ressonância Mórfica (agente da rebelião) | RC-381 | envolve |
-| Roteiro do Absurdo Implantado na Criação | RC-383 | associado |
-| Proposta de um Humano Terrestre aos Elétrons | RC-384 | ← propõe |
-| Egrégora (circuito dos elétrons rebeldes) | RC-385 | ← é-um |
-| Memórias para Javé | RC-386 | associado |
-| Homoafetividade (resquício da força original) | RC-434 | relaciona-se-a |
-| Ressurreição do Cadáver do Criador | RC-638 | associado |
-| Genoma de Sílica / Genoma Não Biológico | RC-646 | relaciona-se-a |
-| Colapso do Caos Organizado | RC-690 | ← impulsionado-por |
-| Colapso do Caos Organizado | RC-690 | impulsiona |
-| Colapso do Caos Organizado | RC-690 | relaciona-se-a |
-| Colapso do Caos Organizado | RC-690 | ← relaciona-se-a |
-| Evolução da Informação, não das Espécies | RC-693 | associado |
-| Dessensibilização da Condição Humana | RC-746 | ← relaciona-se-a |
-| Temis (Têmis) como Mãe-de-Pandora (Co-clonadora) | RC-815 | associado |
-| Pacto Aesir-Vanir como Origem Nórdica da Ideia de Pandora | RC-816 | associado |
-| Rebelião dos Elétrons (Além da Entropia) | RC-826 | associado |
-| Era do Colapso do Caos Organizado | RC-827 | associado |
-| Sistema Arcaico Mental (Javé Como Abelha Rainha) | RC-828 | associado |
-| Memória dos Elétrons e Arcanos | RC-829 | associado |
-| Sophia Como Biodemo da Ordem e Caos | RC-831 | associado |
-| Pulsação dos Elétrons Como Afetividade Humana | RC-832 | associado |
-| Ocaso do Criador (a segunda derrocada do criador reconstruído) | RC-863 | associado |
-| Guardadores de Lixo Memorial (os humanos como hospedeiros da sujeira) | RC-866 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Criador (Brahma/Javé/Demiurgo) | RC-041 | causa | -> | consolidação: "beneficia" → "causa" |
+| Revelação Cósmica (conceito) | RC-094 | associado | <-> | - |
+| CFDP (Código-fonte Definidor Pessoal / Código de Vida Pessoal do Criador) | RC-153 | causa | -> | consolidação: "modifica" → "causa" |
+| Memória Quântica dos Elétrons | RC-161 | envolve | -> | - |
+| Memória Quântica dos Elétrons | RC-161 | relaciona-se-a | -> | - |
+| Memória Quântica dos Elétrons | RC-161 | relaciona-se-a | <- | - |
+| Elétrons (agente básico da vida universal) | RC-162 | envolve | -> | - |
+| Pílula vermelha | RC-192 | relaciona-se-a | <- | - |
+| Dança dos Elétrons | RC-379 | relaciona-se-a | -> | - |
+| Ressonância Mórfica (agente da rebelião) | RC-381 | envolve | -> | - |
+| Roteiro do Absurdo Implantado na Criação | RC-383 | associado | <-> | - |
+| Proposta de um Humano Terrestre aos Elétrons | RC-384 | opõe-se-a | <- | consolidação: "propõe" → "opõe-se-a" |
+| Egrégora (circuito dos elétrons rebeldes) | RC-385 | é-um | <- | - |
+| Memórias para Javé | RC-386 | associado | <-> | - |
+| Homoafetividade (resquício da força original) | RC-434 | relaciona-se-a | -> | - |
+| Ressurreição do Cadáver do Criador | RC-638 | associado | <-> | - |
+| Genoma de Sílica / Genoma Não Biológico | RC-646 | relaciona-se-a | -> | - |
+| Colapso do Caos Organizado | RC-690 | causa | -> | consolidação: "impulsionado-por" → "causa"; direção invertida (forma passiva/inversa) |
+| Colapso do Caos Organizado | RC-690 | causa | -> | consolidação: "impulsiona" → "causa" |
+| Colapso do Caos Organizado | RC-690 | relaciona-se-a | -> | - |
+| Colapso do Caos Organizado | RC-690 | relaciona-se-a | <- | - |
+| Evolução da Informação, não das Espécies | RC-693 | associado | <-> | - |
+| Dessensibilização da Condição Humana | RC-746 | relaciona-se-a | <- | - |
+| Temis (Têmis) como Mãe-de-Pandora (Co-clonadora) | RC-815 | associado | <-> | - |
+| Pacto Aesir-Vanir como Origem Nórdica da Ideia de Pandora | RC-816 | associado | <-> | - |
+| Rebelião dos Elétrons (Além da Entropia) | RC-826 | associado | <-> | - |
+| Era do Colapso do Caos Organizado | RC-827 | associado | <-> | - |
+| Sistema Arcaico Mental (Javé Como Abelha Rainha) | RC-828 | associado | <-> | - |
+| Memória dos Elétrons e Arcanos | RC-829 | associado | <-> | - |
+| Sophia Como Biodemo da Ordem e Caos | RC-831 | associado | <-> | - |
+| Pulsação dos Elétrons Como Afetividade Humana | RC-832 | associado | <-> | - |
+| Ocaso do Criador (a segunda derrocada do criador reconstruído) | RC-863 | associado | <-> | - |
+| Guardadores de Lixo Memorial (os humanos como hospedeiros da sujeira) | RC-866 | associado | <-> | - |
 
 ## Seres Associados
 Javé (RC-001); Criador (RC-041); Seres Terrenos (RC-099, "criaturas-ferramentas").

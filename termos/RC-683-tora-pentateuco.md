@@ -22,12 +22,12 @@ Forma preferida: Torá / Pentateuco.
 O Mistério da Árvore da Vida e a Urdidura de Metatron.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | — |
-| Septuaginta | RC-096 | — |
-| Linhagem dos Escolhidos (Adão, Enoch, Abraão, Jacó) | RC-424 | — |
-| Moisés e o Êxodo (leitura RC) | RC-750 | ← relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Javé | RC-001 | - | - | sem relação informada; 17 linhas são registros de fonte com 4 colunas |
+| Septuaginta | RC-096 | - | - | sem relação informada; 17 linhas são registros de fonte com 4 colunas |
+| Linhagem dos Escolhidos (Adão, Enoch, Abraão, Jacó) | RC-424 | - | - | sem relação informada; 17 linhas são registros de fonte com 4 colunas |
+| Moisés e o Êxodo (leitura RC) | RC-750 | relaciona-se-a | <- | - |
 
 ## Seres Associados
 Consultar Base.

@@ -24,12 +24,12 @@ atualizado = "2026-09-12"
 Termo do universo capelino da RC (glossário B031; também B061). No B057, o planeta aparece sempre na grafia **Zion**: o Codificador é "o Mestre Codificador de Zion" que "tinha vindo com Sophia para este nosso lado do universo" (p. 27); a nota de fim do capítulo 3 (p. 30) descreve a escola. A grafia "Zian" consta da tabela-mestra como variante canônica do mesmo planeta (RC-092 traz "Codificador de Zian" no nome).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Capela (Sistema) | RC-039 | ocorre-em (planeta do sistema) |
-| Quarto Logos (Olm / Codificador de Zian) | RC-092 | associado-a (o Codificador de Zion) |
-| Val (Família Val) | RC-109 | relaciona-se-a |
-| Escola da Decifração da Realidade (Método Druídico) | RC-755 | ← ocorre-em |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Capela (Sistema) | RC-039 | contexto | -> | qualificador preservado: planeta do sistema; consolidação: "ocorre-em" → "contexto" |
+| Quarto Logos (Olm / Codificador de Zian) | RC-092 | associado | <-> | qualificador preservado: o Codificador de Zion; raiz semântica associado (decisão 3) |
+| Val (Família Val) | RC-109 | relaciona-se-a | -> | - |
+| Escola da Decifração da Realidade (Método Druídico) | RC-755 | contexto | <- | consolidação: "ocorre-em" → "contexto" |
 
 ## Seres Associados
 Olm / Mestre Codificador de Zion (RC-092/RC-252); Sophia (RC-009, com quem o Codificador veio); Yel Luzbel (RC-078, que lhe entregou o levantamento de dados).

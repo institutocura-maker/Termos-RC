@@ -27,11 +27,11 @@ Padrão de funcionamento que, segundo a obra, vigora «entre Javé e seus anjos-
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Eras da Criação (10 eras) | RC-155 | associado |
-| Colmeia Universal | RC-174 | associado |
-| Modelo Colmeia (Sistema/Controle Colmeia) | RC-176 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Eras da Criação (10 eras) | RC-155 | associado | <-> | - |
+| Colmeia Universal | RC-174 | associado | <-> | - |
+| Modelo Colmeia (Sistema/Controle Colmeia) | RC-176 | associado | <-> | - |
 
 ## Fontes
 

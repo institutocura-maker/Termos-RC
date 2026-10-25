@@ -17,15 +17,15 @@ atualizado = "2026-09-12"
 Na gnose, a **Mãe-Pai primordial** — no material RC, a Deidade imanente do Pleroma que "deu de si a semente da sua deidade" presente em cada consciência particularizada (corpo átmico, RC-623).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Sophia (Cristo Cósmico) | RC-009 | ← relaciona-se-a |
-| Deidade (Pai-Mãe Amantíssimo / Brahman) | RC-047 | relaciona-se-a |
-| Gnosticismo (contraponto à Cabala) | RC-268 | ← relaciona-se-a |
-| Arcontes (= Sophias e Indras; Conselho dos 70) | RC-474 | associado |
-| Pistis Sophia (feminino cósmico gnóstico) | RC-530 | ← relaciona-se-a |
-| Evangelho de Judas | RC-647 | ← relaciona-se-a |
-| A Raça Inabalável dos Sethianos Emancipados | RC-766 | ← relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Sophia (Cristo Cósmico) | RC-009 | relaciona-se-a | <- | - |
+| Deidade (Pai-Mãe Amantíssimo / Brahman) | RC-047 | relaciona-se-a | -> | - |
+| Gnosticismo (contraponto à Cabala) | RC-268 | relaciona-se-a | <- | - |
+| Arcontes (= Sophias e Indras; Conselho dos 70) | RC-474 | associado | <-> | - |
+| Pistis Sophia (feminino cósmico gnóstico) | RC-530 | relaciona-se-a | <- | - |
+| Evangelho de Judas | RC-647 | relaciona-se-a | <- | - |
+| A Raça Inabalável dos Sethianos Emancipados | RC-766 | relaciona-se-a | <- | - |
 
 ## Fontes
 

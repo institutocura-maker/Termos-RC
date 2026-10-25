@@ -24,17 +24,17 @@ atualizado = "2026-09-12"
 A encarnação de Apolônio marca a atuação do Quarto Logos no mundo: sua mensagem (cap. 8) contrasta o modo de Jesus — usar o poder "não para submeter as pessoas, mas sim, para ajudar as mais frágeis" — com o "Deus Bíblico", que havia destinado seu messias para "dominar a humanidade em seu nome, só que pela força". É no capítulo 8 que Ellam registra a **38ª Constatação** (Liberdade Mental como premissa do Quarto Logos).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Jan Val Ellam (Rogério de Almeida Freitas) | RC-071 | atual agente |
-| Jesus | RC-072 | contemporâneo |
-| Quarto Logos (Olm / Codificador de Zian) | RC-092 | é-um (encarnação) |
-| Olm (Codificador de Zion/Zian) | RC-252 | é-um |
-| Liberdade Mental (premissa do Quarto Logos) | RC-253 | mensagem |
-| Hermes Trismegisto (= Ningishzidda/Thoth/Quetzalcóatl) | RC-463 | ← relaciona-se-a |
-| Taumaturgia Genético-Química | RC-713 | ← envolve |
-| Escola da Decifração da Realidade (Método Druídico) | RC-755 | relaciona-se-a |
-| Nuctemeron | RC-931 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Jan Val Ellam (Rogério de Almeida Freitas) | RC-071 | relaciona-se-a | -> | texto bruto original: atual agente |
+| Jesus | RC-072 | relaciona-se-a | -> | consolidação: "contemporâneo" → "relaciona-se-a" |
+| Quarto Logos (Olm / Codificador de Zian) | RC-092 | é-um | -> | qualificador preservado: encarnação |
+| Olm (Codificador de Zion/Zian) | RC-252 | é-um | -> | - |
+| Liberdade Mental (premissa do Quarto Logos) | RC-253 | comunica | -> | consolidação: "mensagem" → "comunica" |
+| Hermes Trismegisto (= Ningishzidda/Thoth/Quetzalcóatl) | RC-463 | relaciona-se-a | <- | - |
+| Taumaturgia Genético-Química | RC-713 | envolve | <- | - |
+| Escola da Decifração da Realidade (Método Druídico) | RC-755 | relaciona-se-a | -> | - |
+| Nuctemeron | RC-931 | associado | <-> | - |
 
 ## Seres Associados
 Olm (RC-252); Jesus (RC-072); Sophia (RC-009).

@@ -28,18 +28,18 @@ atualizado = "2026-08-18"
 
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Especiação | RC-056 | relaciona-se-a |
-| Elm (Moros — ser LM de Tempérion) | RC-454 | relaciona-se-a |
-| Protocolo Mental (padrões organizadores da mente) | RC-517 | relaciona-se-a |
-| Arquivos Mentais (coleção de conceitos no psiquismo) | RC-548 | relaciona-se-a |
-| Revelação de Ifá e Destinação dos Seres | RC-655 | relaciona-se-a |
-| Revelação de Ifá e Destinação dos Seres | RC-655 | ← relaciona-se-a |
-| Revelação de Ifá e Destinação dos Seres | RC-655 | ← relaciona-se-a |
-| Wyrd / Urd (Teia do Destino) | RC-658 | relaciona-se-a |
-| Orunmilá (Moros de Irém / Orum) | RC-665 | relaciona-se-a |
-| Vrittis e Cittas (atividades e núcleos mentais) | RC-760 | relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Especiação | RC-056 | relaciona-se-a | -> | - |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | relaciona-se-a | -> | - |
+| Protocolo Mental (padrões organizadores da mente) | RC-517 | relaciona-se-a | -> | - |
+| Arquivos Mentais (coleção de conceitos no psiquismo) | RC-548 | relaciona-se-a | -> | - |
+| Revelação de Ifá e Destinação dos Seres | RC-655 | relaciona-se-a | -> | - |
+| Revelação de Ifá e Destinação dos Seres | RC-655 | relaciona-se-a | <- | - |
+| Revelação de Ifá e Destinação dos Seres | RC-655 | relaciona-se-a | <- | - |
+| Wyrd / Urd (Teia do Destino) | RC-658 | relaciona-se-a | -> | - |
+| Orunmilá (Moros de Irém / Orum) | RC-665 | relaciona-se-a | -> | - |
+| Vrittis e Cittas (atividades e núcleos mentais) | RC-760 | relaciona-se-a | -> | - |
 
 ## Fontes
 

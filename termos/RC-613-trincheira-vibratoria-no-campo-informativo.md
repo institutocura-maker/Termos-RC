@@ -24,13 +24,13 @@ Mecanismo vibratório/informativo criado para tornar sofrimento e mensagens perc
 O Portal de Comunicação com o Paraíso foi absorvido nesta ficha por decisão do curador.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Seres Originais do Paraíso | RC-600 | comunica-com |
-| Blindagens Interdimensionais (Intramuros Vibratórios) | RC-602 | atravessa |
-| Nova Espiritualidade / Novo Paraíso (Paraíso B) | RC-612 | relaciona-se-a |
-| Nova Espiritualidade / Novo Paraíso (Paraíso B) | RC-612 | base-de |
-| Colegiados Espirituais Humanizados | RC-745 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Seres Originais do Paraíso | RC-600 | comunica | -> | consolidação: "comunica-com" → "comunica" |
+| Blindagens Interdimensionais (Intramuros Vibratórios) | RC-602 | contexto | -> | consolidação: "atravessa" → "contexto" |
+| Nova Espiritualidade / Novo Paraíso (Paraíso B) | RC-612 | relaciona-se-a | -> | - |
+| Nova Espiritualidade / Novo Paraíso (Paraíso B) | RC-612 | requer | -> | consolidação: "base-de" → "requer" |
+| Colegiados Espirituais Humanizados | RC-745 | associado | <-> | - |
 
 ## Seres Associados
 Consultar as relações tipadas acima.

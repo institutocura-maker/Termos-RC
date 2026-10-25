@@ -23,26 +23,26 @@ Forma preferida: Metatron.
 O Mistério da Árvore da Vida e a Urdidura de Metatron.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | — |
-| Sefirot / Árvore da Vida | RC-263 | — |
-| Elm (Moros — ser LM de Tempérion) | RC-454 | relaciona-se-a |
-| Classes de anjos de Arabot-Ráquia (ofanim, serafins, galgaulim, chashmalim) | RC-485 | relaciona-se-a |
-| Enoque (sétimo patriarca; levado por Javé) | RC-489 | variação-posterior-de |
-| Enoque (sétimo patriarca; levado por Javé) | RC-489 | ← relaciona-se-a |
-| Os 366 Manuscritos de Enoque | RC-672 | — |
-| Intercessão de Enoque pelos Anunnaki | RC-673 | — |
-| Urdidura de Metatron | RC-674 | produz |
-| Urdidura de Metatron | RC-674 | relaciona-se-a |
-| Urdidura de Metatron | RC-674 | ← relaciona-se-a |
-| P2025-12-14 | Os Fundamentos da Revelação Cósmica (palestra) | — | transcrição automatizada; citação |
-| P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
-| P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
-| P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
-| P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
-| P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
-| P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Javé | RC-001 | - | - | sem relação informada; 17 linhas são registros de fonte com 4 colunas |
+| Sefirot / Árvore da Vida | RC-263 | - | - | sem relação informada; 17 linhas são registros de fonte com 4 colunas |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | relaciona-se-a | -> | - |
+| Classes de anjos de Arabot-Ráquia (ofanim, serafins, galgaulim, chashmalim) | RC-485 | relaciona-se-a | -> | - |
+| Enoque (sétimo patriarca; levado por Javé) | RC-489 | variação | -> | consolidação: "variação-posterior-de" → "variação" |
+| Enoque (sétimo patriarca; levado por Javé) | RC-489 | relaciona-se-a | <- | - |
+| Os 366 Manuscritos de Enoque | RC-672 | - | - | sem relação informada; 17 linhas são registros de fonte com 4 colunas |
+| Intercessão de Enoque pelos Anunnaki | RC-673 | - | - | sem relação informada; 17 linhas são registros de fonte com 4 colunas |
+| Urdidura de Metatron | RC-674 | origina | -> | consolidação: "produz" → "origina" |
+| Urdidura de Metatron | RC-674 | relaciona-se-a | -> | - |
+| Urdidura de Metatron | RC-674 | relaciona-se-a | <- | - |
+| P2025-12-14 | Os Fundamentos da Revelação Cósmica (palestra) | - | - | sem relação informada; 17 linhas são registros de fonte com 4 colunas; transcrição automatizada; citação |
+| P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | - | - | sem relação informada; 17 linhas são registros de fonte com 4 colunas; transcrição automatizada; citação |
+| P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | - | - | sem relação informada; 17 linhas são registros de fonte com 4 colunas; transcrição automatizada; citação |
+| P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | - | - | sem relação informada; 17 linhas são registros de fonte com 4 colunas; transcrição automatizada; citação |
+| P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | - | - | sem relação informada; 17 linhas são registros de fonte com 4 colunas; transcrição automatizada; citação |
+| P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | - | - | sem relação informada; 17 linhas são registros de fonte com 4 colunas; transcrição automatizada; citação |
+| P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | - | - | sem relação informada; 17 linhas são registros de fonte com 4 colunas; transcrição automatizada; citação |
 
 ## Seres Associados
 Consultar Base.

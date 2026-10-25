@@ -17,18 +17,18 @@ atualizado = "2026-10-22"
 Título/epíteto, não nome próprio: na leitura da RC, "um Indra é um arconte". Diversos Indras existiram ao longo da história; Zeus, ao se tornar rei dos deuses, tornou-se "o último Indra" (na mitologia ariana hindu). As referências a Indras nos Puranas, Upanishads e Mahabharata são referências aos arcontes.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Zeus | RC-145 | ← variação |
-| Zeus | RC-145 | ← variação |
-| Zeus | RC-145 | ← variação |
-| Timé (de um deus) | RC-293 | relaciona-se-a |
-| Arcontes (= Sophias e Indras; Conselho dos 70) | RC-474 | ← relaciona-se-a |
-| Geração Regenerada de Brahma | RC-696 | ← relaciona-se-a |
-| Kashyapa | RC-700 | ← gera-linhagem-de |
-| Daksha e Virini | RC-701 | ← relaciona-se-a |
-| Aristocracia Olimpiana e Monarquias Terrestres | RC-736 | associado |
-| Zeus | — | relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Zeus | RC-145 | variação | <- | - |
+| Zeus | RC-145 | variação | <- | - |
+| Zeus | RC-145 | variação | <- | - |
+| Timé (de um deus) | RC-293 | relaciona-se-a | -> | - |
+| Arcontes (= Sophias e Indras; Conselho dos 70) | RC-474 | relaciona-se-a | <- | - |
+| Geração Regenerada de Brahma | RC-696 | relaciona-se-a | <- | - |
+| Kashyapa | RC-700 | origina | <- | consolidação: "gera-linhagem-de" → "origina" |
+| Daksha e Virini | RC-701 | relaciona-se-a | <- | - |
+| Aristocracia Olimpiana e Monarquias Terrestres | RC-736 | associado | <-> | - |
+| Zeus | — | relaciona-se-a | -> | - |
 
 ## Ampliação — STT26-MITOLOGIAS_REINTEGRACAO (Eixo STT26 — Mitologias, tradições e eixo de reintegração (derivados normalizados))
 

@@ -23,13 +23,13 @@ Primeira expressão viva/reconstruída do Criador sob formas virais e microbiana
 Vincula-se à obra B064 A Ordenação do Caos e às transições de fase.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Demência do Criador (fases da condição de Javé) | RC-526 | tema-de |
-| Ressurreição do Cadáver do Criador | RC-638 | é-fase-de |
-| Protozoários Antimateriais / Antiprotozoários | RC-639 | relaciona-se-a |
-| Transições de Fase / Face da Criação | RC-640 | ← inclui |
-| Autofagia do Criador | RC-667 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Demência do Criador (fases da condição de Javé) | RC-526 | contexto | -> | consolidação: "tema-de" → "contexto" |
+| Ressurreição do Cadáver do Criador | RC-638 | parte-de | -> | consolidação: "é-fase-de" → "parte-de" |
+| Protozoários Antimateriais / Antiprotozoários | RC-639 | relaciona-se-a | -> | - |
+| Transições de Fase / Face da Criação | RC-640 | inclui | <- | - |
+| Autofagia do Criador | RC-667 | associado | <-> | - |
 
 ## Seres Associados
 Consultar relações acima.

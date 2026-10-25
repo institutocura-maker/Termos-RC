@@ -36,30 +36,30 @@ Kashyapa atua como grande hub genealógico de `P2025-02-16`. A palestra lhe atri
 A genealogia é mediada pelas filhas de Daksha e Virini, especialmente Aditi, Diti e Kadru.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Brahma (Brajna) | RC-037 | associado |
-| Asuras (= Titãs) | RC-465 | gera-linhagem-de |
-| Indra (título de arconte) | RC-480 | gera-linhagem-de |
-| Rakshasas | RC-581 | gera-linhagem-de |
-| Rishis | RC-586 | relaciona-se-a |
-| Rishis | RC-586 | descende-de-membro-de |
-| Descendência de Kadru (Nagas, Uragas e Maharagas) | RC-664 | gera-linhagem-de |
-| Descendência de Kadru (Nagas, Uragas e Maharagas) | RC-664 | ← descende-de |
-| Descendência de Kadru (Nagas, Uragas e Maharagas) | RC-664 | relaciona-se-a |
-| Descendência de Kadru (Nagas, Uragas e Maharagas) | RC-664 | ← relaciona-se-a |
-| Geração Regenerada de Brahma | RC-696 | ← inclui |
-| Geração Regenerada de Brahma | RC-696 | parte-de |
-| Geração Regenerada de Brahma | RC-696 | ← inclui |
-| Geração Regenerada de Brahma | RC-696 | ← relaciona-se-a |
-| Geração Regenerada de Brahma | RC-696 | relaciona-se-a |
-| Mão Invisível Multiforme / Conselho das Nagas | RC-697 | ← relaciona-se-a |
-| Mão Invisível Multiforme / Conselho das Nagas | RC-697 | relaciona-se-a |
-| Daksha e Virini | RC-701 | relaciona-se-a |
-| Daksha e Virini | RC-701 | ← relaciona-se-a |
-| Daksha e Virini | RC-701 | une-se-às-filhas-de |
-| Daksha e Virini | RC-701 | ← tem-filhas-unidas-a |
-| Samudra Manthana / Batimento do Oceano de Leite | RC-734 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Brahma (Brajna) | RC-037 | associado | <-> | - |
+| Asuras (= Titãs) | RC-465 | origina | -> | consolidação: "gera-linhagem-de" → "origina" |
+| Indra (título de arconte) | RC-480 | origina | -> | consolidação: "gera-linhagem-de" → "origina" |
+| Rakshasas | RC-581 | origina | -> | consolidação: "gera-linhagem-de" → "origina" |
+| Rishis | RC-586 | relaciona-se-a | -> | - |
+| Rishis | RC-586 | origina | -> | consolidação: "descende-de-membro-de" → "origina" |
+| Descendência de Kadru (Nagas, Uragas e Maharagas) | RC-664 | origina | -> | consolidação: "gera-linhagem-de" → "origina" |
+| Descendência de Kadru (Nagas, Uragas e Maharagas) | RC-664 | origina | -> | consolidação: "descende-de" → "origina"; direção invertida (forma passiva/inversa) |
+| Descendência de Kadru (Nagas, Uragas e Maharagas) | RC-664 | relaciona-se-a | -> | - |
+| Descendência de Kadru (Nagas, Uragas e Maharagas) | RC-664 | relaciona-se-a | <- | - |
+| Geração Regenerada de Brahma | RC-696 | inclui | <- | - |
+| Geração Regenerada de Brahma | RC-696 | parte-de | -> | - |
+| Geração Regenerada de Brahma | RC-696 | inclui | <- | - |
+| Geração Regenerada de Brahma | RC-696 | relaciona-se-a | <- | - |
+| Geração Regenerada de Brahma | RC-696 | relaciona-se-a | -> | - |
+| Mão Invisível Multiforme / Conselho das Nagas | RC-697 | relaciona-se-a | <- | - |
+| Mão Invisível Multiforme / Conselho das Nagas | RC-697 | relaciona-se-a | -> | - |
+| Daksha e Virini | RC-701 | relaciona-se-a | -> | - |
+| Daksha e Virini | RC-701 | relaciona-se-a | <- | - |
+| Daksha e Virini | RC-701 | associado | <-> | consolidação: "une-se-às-filhas-de" → "associado" |
+| Daksha e Virini | RC-701 | associado | <-> | consolidação: "tem-filhas-unidas-a" → "associado" |
+| Samudra Manthana / Batimento do Oceano de Leite | RC-734 | associado | <-> | - |
 
 ## Fontes
 | Fonte | Localização | Tipo |

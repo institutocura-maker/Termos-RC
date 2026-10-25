@@ -24,14 +24,14 @@ As **respostas de Javé em primeira pessoa** — a parte mais singular de *Carta
 A Resposta de Javé é a **única fala extensa do Criador em 1ª pessoa** no corpus: "Não estava nos meus desígnios, nessa altura, comunicar-me com os humanos da Terra por meio de respostas às suas cartas... Digo 'minhas' porque efetivamente são minhas, pois fazem parte de mim, do que eu sou! Não há nada na minha criação que não seja parte do meu 'eu'." Javé também afirma: "Do que não limitei foi que surgiram as espécies com possibilidade de liberdade mental, sobre o que tenho procurado pacificar as minhas forças... Arrependo-me, mas nada me resta a fazer pois não posso destruir aos que amo."
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | é-um |
-| Revelação Cósmica (conceito) | RC-094 | associado |
-| A Vida do CFD de Javé no Ser Humano | RC-382 | relaciona-se-a |
-| Cartas a Javé (obra e diálogo) | RC-416 | responde-a |
-| Terminal Nervoso do Criador (humano) | RC-418 | tema |
-| Sou eu que vivo em vocês (Javé) | RC-419 | é-um (frase) |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Javé | RC-001 | é-um | -> | - |
+| Revelação Cósmica (conceito) | RC-094 | associado | <-> | - |
+| A Vida do CFD de Javé no Ser Humano | RC-382 | relaciona-se-a | -> | - |
+| Cartas a Javé (obra e diálogo) | RC-416 | comunica | -> | consolidação: "responde-a" → "comunica" |
+| Terminal Nervoso do Criador (humano) | RC-418 | contexto | -> | consolidação: "tema" → "contexto" |
+| Sou eu que vivo em vocês (Javé) | RC-419 | é-um | -> | qualificador preservado: frase |
 
 ## Seres Associados
 Javé (RC-001); Mônica Camargo (RC-420); Jan Val Ellam (RC-071, intermediário).

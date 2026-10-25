@@ -24,21 +24,21 @@ Pashvnaj é uma das cinco espécies do Gênero Adhy. A palestra atribui à espé
 O problema que culminou na Criação Indevida é ligado a um pequeno subgrupo Pashvnaj de Perpérion. Prabrajna e Mavatna/Vishnu são associados a essa linhagem taxonômica.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Espiritualidade Laboratorial | RC-061 | relaciona-se-a |
-| Perpérion | RC-087 | ← abriga |
-| Shiva (Savna) | RC-102 | relaciona-se-a |
-| Prabrajna | RC-152 | relaciona-se-a |
-| ADHYMAVATANA (nome completo de Mavatna/Vishnu) | RC-408 | relaciona-se-a |
-| Gênero Adhy (147 seres, 5 espécies) | RC-411 | ← inclui |
-| Gênero Adhy (147 seres, 5 espécies) | RC-411 | ← inclui |
-| Gênero Adhy (147 seres, 5 espécies) | RC-411 | é-uma-espécie-de |
-| Sarasvati (consorte de Brahma, Tridevi) | RC-457 | ← é-um |
-| Lakshimi (consorte de Vishnu, Tridevi) | RC-458 | ← é-um |
-| Parvathi (consorte de Shiva, Tridevi) | RC-459 | ← é-um |
-| Reunião Operativa Mental dos 43 Pashvnaj | RC-629 | ← envolve |
-| Agar como 2ª Tentativa Fracassada de Fêmea para Adão | RC-817 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Espiritualidade Laboratorial | RC-061 | relaciona-se-a | -> | - |
+| Perpérion | RC-087 | contexto | <- | consolidação: "abriga" → "contexto" |
+| Shiva (Savna) | RC-102 | relaciona-se-a | -> | - |
+| Prabrajna | RC-152 | relaciona-se-a | -> | - |
+| ADHYMAVATANA (nome completo de Mavatna/Vishnu) | RC-408 | relaciona-se-a | -> | - |
+| Gênero Adhy (147 seres, 5 espécies) | RC-411 | inclui | <- | - |
+| Gênero Adhy (147 seres, 5 espécies) | RC-411 | inclui | <- | - |
+| Gênero Adhy (147 seres, 5 espécies) | RC-411 | é-um | -> | consolidação: "é-uma-espécie-de" → "é-um" |
+| Sarasvati (consorte de Brahma, Tridevi) | RC-457 | é-um | <- | - |
+| Lakshimi (consorte de Vishnu, Tridevi) | RC-458 | é-um | <- | - |
+| Parvathi (consorte de Shiva, Tridevi) | RC-459 | é-um | <- | - |
+| Reunião Operativa Mental dos 43 Pashvnaj | RC-629 | envolve | <- | - |
+| Agar como 2ª Tentativa Fracassada de Fêmea para Adão | RC-817 | associado | <-> | - |
 
 ## Seres Associados
 Ver relações acima e os nós Elm (RC-454), Olm (RC-092), Prabrajna (RC-152), Gênero Adhy (RC-411) e Seres LM (RC-456), conforme aplicável.

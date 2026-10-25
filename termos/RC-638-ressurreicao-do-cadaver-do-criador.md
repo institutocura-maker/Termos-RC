@@ -23,26 +23,26 @@ Reconstrução progressiva dos restos fragmentados de Prabrajna/Javé por meio d
 A ficha absorve “cadáver triturado” e “bits quânticos”: informações do corpo manásico fragmentado na memória das partículas.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Anjos clones | RC-019 | ← sustentam |
-| Prabrajna | RC-152 | reconstrói |
-| Memória Quântica dos Elétrons | RC-161 | envolve |
-| Criação Indevida (Obra indevida) | RC-167 | associado |
-| A Rebelião dos Elétrons | RC-378 | relaciona-se-a |
-| Fragmentação do Poder Mental da Divindade | RC-387 | envolve |
-| Tikun Cósmico (restabelecimento da Criação) | RC-514 | relaciona-se-a |
-| Protozoários Antimateriais / Antiprotozoários | RC-639 | ← é-fase-de |
-| Transições de Fase / Face da Criação | RC-640 | associado |
-| Face Microbiana do Criador | RC-641 | ← é-fase-de |
-| Ishvara (Isuara — Retrato de Prabrajna Antes da Queda) | RC-691 | ← serve-de-modelo-para |
-| Ishvara (Isuara — Retrato de Prabrajna Antes da Queda) | RC-691 | tem-como-modelo |
-| Ishvara (Isuara — Retrato de Prabrajna Antes da Queda) | RC-691 | relaciona-se-a |
-| Oitavo Dia da Criação | RC-694 | associado |
-| Buraco Negro Mental / Consciencial | RC-717 | ← envolve |
-| Buraco Negro Mental / Consciencial | RC-717 | ← relaciona-se-a |
-| Especiação Humana — Levas Genéticas | RC-783 | associado |
-| Sophia como Protetorado da Humanidade | RC-784 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Anjos clones | RC-019 | protege | <- | consolidação: "sustentam" → "protege" |
+| Prabrajna | RC-152 | relaciona-se-a | -> | consolidação: "reconstrói" → "relaciona-se-a" |
+| Memória Quântica dos Elétrons | RC-161 | envolve | -> | - |
+| Criação Indevida (Obra indevida) | RC-167 | associado | <-> | - |
+| A Rebelião dos Elétrons | RC-378 | relaciona-se-a | -> | - |
+| Fragmentação do Poder Mental da Divindade | RC-387 | envolve | -> | - |
+| Tikun Cósmico (restabelecimento da Criação) | RC-514 | relaciona-se-a | -> | - |
+| Protozoários Antimateriais / Antiprotozoários | RC-639 | parte-de | <- | consolidação: "é-fase-de" → "parte-de" |
+| Transições de Fase / Face da Criação | RC-640 | associado | <-> | - |
+| Face Microbiana do Criador | RC-641 | parte-de | <- | consolidação: "é-fase-de" → "parte-de" |
+| Ishvara (Isuara — Retrato de Prabrajna Antes da Queda) | RC-691 | variação | <- | consolidação: "serve-de-modelo-para" → "variação" |
+| Ishvara (Isuara — Retrato de Prabrajna Antes da Queda) | RC-691 | variação | -> | consolidação: "tem-como-modelo" → "variação" |
+| Ishvara (Isuara — Retrato de Prabrajna Antes da Queda) | RC-691 | relaciona-se-a | -> | - |
+| Oitavo Dia da Criação | RC-694 | associado | <-> | - |
+| Buraco Negro Mental / Consciencial | RC-717 | envolve | <- | - |
+| Buraco Negro Mental / Consciencial | RC-717 | relaciona-se-a | <- | - |
+| Especiação Humana — Levas Genéticas | RC-783 | associado | <-> | - |
+| Sophia como Protetorado da Humanidade | RC-784 | associado | <-> | - |
 
 ## Seres Associados
 Consultar relações acima.

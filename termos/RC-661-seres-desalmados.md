@@ -23,11 +23,11 @@ Forma preferida: **Seres Desalmados**.
 P2025-06-26 — 1ª Edição Estagiários do Kaos.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | — |
-| Anjos clones | RC-019 | distingue-se-de |
-| Demônios | RC-050 | distingue-se-de |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Javé | RC-001 | - | - | sem relação informada; 17 linhas são registros de fonte com 4 colunas |
+| Anjos clones | RC-019 | opõe-se-a | -> | consolidação: "distingue-se-de" → "opõe-se-a" |
+| Demônios | RC-050 | opõe-se-a | -> | consolidação: "distingue-se-de" → "opõe-se-a" |
 
 ## Seres Associados
 Consultar Base.

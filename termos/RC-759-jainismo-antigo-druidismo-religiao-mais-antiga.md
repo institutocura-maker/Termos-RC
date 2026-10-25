@@ -28,13 +28,13 @@ Na leitura de Jan Val Ellam (P2024-02-03), o **Jainismo é a religião mais anti
 
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Tirthankaras (Rishabh Dev, Jina Mahavira) | RC-397 | relaciona-se-a |
-| Thuata de Dannan | RC-398 | relaciona-se-a |
-| Moksha | RC-618 | relaciona-se-a |
-| Escola da Decifração da Realidade (Método Druídico) | RC-755 | relaciona-se-a |
-| Vrittis e Cittas (atividades e núcleos mentais) | RC-760 | relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Tirthankaras (Rishabh Dev, Jina Mahavira) | RC-397 | relaciona-se-a | -> | - |
+| Thuata de Dannan | RC-398 | relaciona-se-a | -> | - |
+| Moksha | RC-618 | relaciona-se-a | -> | - |
+| Escola da Decifração da Realidade (Método Druídico) | RC-755 | relaciona-se-a | -> | - |
+| Vrittis e Cittas (atividades e núcleos mentais) | RC-760 | relaciona-se-a | -> | - |
 
 ## Ampliação — STT26-EXPERIENCIA_ESPIRITUAL_ETICA (Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados))
 

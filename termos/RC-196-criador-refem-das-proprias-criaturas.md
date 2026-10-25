@@ -24,12 +24,12 @@ A condição do Criador depois da queda: preso à própria obra, dependente das 
 A Base aproxima este verbete de dois outros: a Simbiose Quântica (RC-195), a interconexão não-local entre todos os seres gerados a partir da energia do criador caído, e o Modelo Colmeia (RC-176), o modo de operação em que todas as criaturas existem para servir a «abelha-rainha». A condição do Criador (RC-041) é, portanto, a de um refém que precisa das suas próprias ferramentas (RC-164) para se reerguer — é esse o motor ético do Tikun.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Criador (Brahma/Javé/Demiurgo) | RC-041 | é-um |
-| Modelo Colmeia (Sistema/Controle Colmeia) | RC-176 | associado |
-| Simbiose Quântica | RC-195 | associado |
-| Centro de Comando Paralelo | RC-213 | variação |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Criador (Brahma/Javé/Demiurgo) | RC-041 | é-um | -> | - |
+| Modelo Colmeia (Sistema/Controle Colmeia) | RC-176 | associado | <-> | - |
+| Simbiose Quântica | RC-195 | associado | <-> | - |
+| Centro de Comando Paralelo | RC-213 | variação | -> | - |
 
 - RC-041 — ver ficha correspondente
 - RC-195 — ver ficha correspondente

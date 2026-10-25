@@ -24,14 +24,14 @@ Revelação de Olm (B016, cap. 5): **"O espiritismo, adrede engendrado para ser 
 A afirmação integra a "Mensagem do Codificador de Zion": "Se antes a intenção era a codificação de uma disciplina esclarecedora... e a busca da verdade, pela necessidade da decifração do contexto problemático no qual todos estamos inseridos, não pode ser substituída pela fé, que deveria ser tão somente um estágio na evolução desta humanidade". No cap. 2 (Reconceituar), Ellam explica que o "espírito de Kardec" está "procurando fazer a parte que lhe cabe, que é a de reconceituar certas questões da 'Revelação Espiritual'" para adequá-la às novas percepções.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Jan Val Ellam (Rogério de Almeida Freitas) | RC-071 | codificador atual |
-| Quarto Logos (Olm / Codificador de Zian) | RC-092 | expressão |
-| Revelação Espiritual (Kardec) | RC-190 | é-um |
-| Olm (Codificador de Zion/Zian) | RC-252 | agente |
-| Liberdade Mental (premissa do Quarto Logos) | RC-253 | finalidade |
-| Fator Javé (o marco operacional do fim da atuação como médium passivo) | RC-882 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Jan Val Ellam (Rogério de Almeida Freitas) | RC-071 | relaciona-se-a | -> | texto bruto original: codificador atual |
+| Quarto Logos (Olm / Codificador de Zian) | RC-092 | representa | -> | consolidação: "expressão" → "representa" |
+| Revelação Espiritual (Kardec) | RC-190 | é-um | -> | - |
+| Olm (Codificador de Zion/Zian) | RC-252 | envolve | -> | consolidação: "agente" → "envolve" |
+| Liberdade Mental (premissa do Quarto Logos) | RC-253 | relaciona-se-a | -> | consolidação: "finalidade" → "relaciona-se-a" |
+| Fator Javé (o marco operacional do fim da atuação como médium passivo) | RC-882 | associado | <-> | - |
 
 ## Seres Associados
 Olm (RC-252); Allan Kardec (espírito codificador); Jan Val Ellam (RC-071).

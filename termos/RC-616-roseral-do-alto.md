@@ -24,11 +24,11 @@ Cidade espiritual situada acima da região montanhosa do norte da Espanha, em di
 É o cenário anunciado do livro Inquisição Espiritual e dos primeiros elementos da Nova Espiritualidade.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Espiritualidade Errática (4ª faixa manifestada) | RC-513 | relaciona-se-a |
-| Nova Espiritualidade / Novo Paraíso (Paraíso B) | RC-612 | relaciona-se-a |
-| Inquisição Espiritual (obra anunciada) | RC-617 | tema-de |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Espiritualidade Errática (4ª faixa manifestada) | RC-513 | relaciona-se-a | -> | - |
+| Nova Espiritualidade / Novo Paraíso (Paraíso B) | RC-612 | relaciona-se-a | -> | - |
+| Inquisição Espiritual (obra anunciada) | RC-617 | contexto | -> | consolidação: "tema-de" → "contexto" |
 
 ## Seres Associados
 Consultar as relações tipadas acima.

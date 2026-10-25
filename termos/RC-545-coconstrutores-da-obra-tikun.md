@@ -26,15 +26,15 @@ Na cosmologia de Ellam, os humanos que se habilitam — via conhecimento, limpez
 - **[P2024-07-14] Proveniência:** palestra de Jan Val Ellam; transcrição STT pré-curada; devolutiva do curador registrada em 2026-08-20 (ficha autorizada).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Criatura Universal | RC-042 | associado |
-| Criaturas-ferramenta | RC-164 | associado |
-| Tikun Cósmico (restabelecimento da Criação) | RC-514 | relaciona-se-a |
-| Tikun Cósmico (restabelecimento da Criação) | RC-514 | ← relaciona-se-a |
-| Espelho da Herança Espiritual no Epigenoma | RC-543 | associado |
-| Humanos: Últimos e Primeiros | RC-654 | associado |
-| Cessão Consciente do DNA Humano | RC-698 | ← relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Criatura Universal | RC-042 | associado | <-> | - |
+| Criaturas-ferramenta | RC-164 | associado | <-> | - |
+| Tikun Cósmico (restabelecimento da Criação) | RC-514 | relaciona-se-a | -> | - |
+| Tikun Cósmico (restabelecimento da Criação) | RC-514 | relaciona-se-a | <- | - |
+| Espelho da Herança Espiritual no Epigenoma | RC-543 | associado | <-> | - |
+| Humanos: Últimos e Primeiros | RC-654 | associado | <-> | - |
+| Cessão Consciente do DNA Humano | RC-698 | relaciona-se-a | <- | - |
 
 
 - Tikun Cósmico — RC-514;

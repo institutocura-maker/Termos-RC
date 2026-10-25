@@ -24,13 +24,13 @@ Tese (leitura do autor, palestra **P2017-05-14**, U0002) de que **a criação de
 Aparece em **P2017-05-14**, U0002. Contexto: o autor explica a cosmogonia de Javé (RC-001) em termos compatíveis com a física moderna (matéria + antimatéria, universo paralelo). A fissão em dois universos aconteceu nos "primeiros microsegundos" do Big Bang.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | criou |
-| Big Bang | RC-034 | ocorreu-em |
-| Elétrons (agente básico da vida universal) | RC-162 | paralelo-com |
-| Era da Solidão de Javé (500 Milhões de Anos) | RC-808 | contextualiza |
-| Pandemia de Buraco Branco que Traga (Javé Tragado pela Criação) | RC-809 | contextualiza |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Javé | RC-001 | origina | -> | consolidação: "criou" → "origina" |
+| Big Bang | RC-034 | contexto | -> | consolidação: "ocorreu-em" → "contexto" |
+| Elétrons (agente básico da vida universal) | RC-162 | associado | <-> | consolidação: "paralelo-com" → "associado" |
+| Era da Solidão de Javé (500 Milhões de Anos) | RC-808 | contexto | -> | consolidação: "contextualiza" → "contexto" |
+| Pandemia de Buraco Branco que Traga (Javé Tragado pela Criação) | RC-809 | contexto | -> | consolidação: "contextualiza" → "contexto" |
 
 ## Seres Associados
 - **Javé** (RC-001) — quem criou os dois universos

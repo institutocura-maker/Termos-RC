@@ -19,12 +19,12 @@ Base tecnológica do **Projeto TALM** (RC-091): manipulação da matéria em esc
 Criado por autorização excepcional do curador (Devolutiva Trilogia TALM, O-3 — RC-773) a partir do ART-2025-08-03.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Mohen So (Avatar Keshava de Vishnu) | RC-081 | relaciona-se-a |
-| Projeto Talm | RC-091 | relaciona-se-a |
-| Morlens (programador genético atômico do Projeto TALM; 'monstro ciberenergético') | RC-772 | ← relaciona-se-a |
-| PEP — Pulso Eletromagnético Particularizado (transferência de nanopontos da genética entre universos) | RC-774 | usada-em |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Mohen So (Avatar Keshava de Vishnu) | RC-081 | relaciona-se-a | -> | - |
+| Projeto Talm | RC-091 | relaciona-se-a | -> | - |
+| Morlens (programador genético atômico do Projeto TALM; 'monstro ciberenergético') | RC-772 | relaciona-se-a | <- | - |
+| PEP — Pulso Eletromagnético Particularizado (transferência de nanopontos da genética entre universos) | RC-774 | usa | -> | consolidação: "usada-em" → "usa" |
 
 ## Fontes
 | Obra/palestra | Localização | Tipo |

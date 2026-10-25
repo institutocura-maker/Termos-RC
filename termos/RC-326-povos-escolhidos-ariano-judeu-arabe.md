@@ -27,13 +27,13 @@ Na B023 (*O Dharma e as Castas Hindus*), os três povos que, segundo o autor, o 
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | associado |
-| Seres Terrenos (Homo Sapiens) | RC-099 | associado |
-| Linhagem dos Patriarcas Hebreus | RC-270 | inclui |
-| Genética Totalitária | RC-325 | ← usa |
-| Desígnios Proféticos (profecia como instrumento de domínio e sua desconexão) | RC-858 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Javé | RC-001 | associado | <-> | - |
+| Seres Terrenos (Homo Sapiens) | RC-099 | associado | <-> | - |
+| Linhagem dos Patriarcas Hebreus | RC-270 | inclui | -> | - |
+| Genética Totalitária | RC-325 | usa | <- | - |
+| Desígnios Proféticos (profecia como instrumento de domínio e sua desconexão) | RC-858 | associado | <-> | - |
 
 ## Fontes
 

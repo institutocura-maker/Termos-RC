@@ -27,14 +27,14 @@ Na B023 (*O Dharma e as Castas Hindus*), a civilização do vale do rio Saraswat
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Revelação Cósmica (conceito) | RC-094 | associado |
-| Seres Terrenos (Homo Sapiens) | RC-099 | associado |
-| Castas Trimurtianas | RC-321 | associado |
-| Nyx como Mãe de Origem de Pandora | RC-795 | associado |
-| Rebelião dos Elétrons (Além da Entropia) | RC-826 | associado |
-| Pulsação dos Elétrons Como Afetividade Humana | RC-832 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Revelação Cósmica (conceito) | RC-094 | associado | <-> | - |
+| Seres Terrenos (Homo Sapiens) | RC-099 | associado | <-> | - |
+| Castas Trimurtianas | RC-321 | associado | <-> | - |
+| Nyx como Mãe de Origem de Pandora | RC-795 | associado | <-> | - |
+| Rebelião dos Elétrons (Além da Entropia) | RC-826 | associado | <-> | - |
+| Pulsação dos Elétrons Como Afetividade Humana | RC-832 | associado | <-> | - |
 
 ## Fontes
 

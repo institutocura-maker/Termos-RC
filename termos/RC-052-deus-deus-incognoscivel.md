@@ -24,19 +24,19 @@ As RC fazem uma distinção fundamental: existe o **Deus Bíblico** — chamado 
 Esta distinção é a chave hermenêutica das RC: separa o "Deus" das religiões (Javé, o Criador problemático) do Princípio Maior incognoscível (Deus/Deidade). Responde diretamente às perguntas "Deus existe? Quem ou o que é Deus?" colocadas na sinopse do guia.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | opõe-se-a (Deus Bíblico ≠ Deus Incognoscível) |
-| Brahma (Brajna) | RC-037 | associado |
-| Criador (Brahma/Javé/Demiurgo) | RC-041 | distingue-se |
-| Deidade (Pai-Mãe Amantíssimo / Brahman) | RC-047 | sinônimo (Deus Incognoscível) |
-| Divindades (Co-criadoras) | RC-054 | acima-de |
-| Espiritualidade Superior | RC-059 | unificado-ao |
-| Realidade Maior / Paraíso Original | RC-204 | associado |
-| Pai Supremo (Amantíssimo) | RC-205 | associado |
-| Prevalece o Amor | RC-224 | associado |
-| Democracia do Amor da Deidade | RC-333 | associado |
-| Abismo da Providência / Falsa Providência | RC-723 | ← relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Javé | RC-001 | opõe-se-a | -> | qualificador preservado: Deus Bíblico ≠ Deus Incognoscível |
+| Brahma (Brajna) | RC-037 | associado | <-> | - |
+| Criador (Brahma/Javé/Demiurgo) | RC-041 | opõe-se-a | -> | consolidação: "distingue-se" → "opõe-se-a" |
+| Deidade (Pai-Mãe Amantíssimo / Brahman) | RC-047 | variação | -> | qualificador preservado: Deus Incognoscível; consolidação: "sinônimo" → "variação" |
+| Divindades (Co-criadoras) | RC-054 | precede | -> | consolidação: "acima-de" → "precede" |
+| Espiritualidade Superior | RC-059 | relaciona-se-a | -> | consolidação: "unificado-ao" → "relaciona-se-a" |
+| Realidade Maior / Paraíso Original | RC-204 | associado | <-> | - |
+| Pai Supremo (Amantíssimo) | RC-205 | associado | <-> | - |
+| Prevalece o Amor | RC-224 | associado | <-> | - |
+| Democracia do Amor da Deidade | RC-333 | associado | <-> | - |
+| Abismo da Providência / Falsa Providência | RC-723 | relaciona-se-a | <- | - |
 
 ## Seres Associados
 Deidade (RC-047); Criador/Brahma (RC-041, RC-037).

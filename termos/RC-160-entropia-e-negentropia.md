@@ -24,23 +24,23 @@ A **entropia** é a medida do grau de **desorganização** de um sistema; a **ne
 A entropia está associada à energia Tamas (Savna/Shiva): é "uma energia desagregadora, a destruidora do universo, que faz com que tudo nasça com o 'germe' da sua própria morte; é um tipo de 'selo de garantia' do final de uma Criação que sequer deveria ter sido iniciada" (B024, cap. 3). O capítulo 14 explica a relação com a memória quântica dos elétrons e o destino final do universo.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Shiva (Savna) | RC-102 | associado |
-| Agentes da Vida Universal | RC-148 | associado |
-| Gunas Criadoras (Sattva, Rajas, Tamas) | RC-151 | relaciona-se-a |
-| Memória Quântica dos Elétrons | RC-161 | associado |
-| Criaturas-ferramenta | RC-164 | associado |
-| Xamanismo Cósmico (comunicação e deslacre) | RC-577 | ← relaciona-se-a |
-| Tempo como Transformação / Permanente Agora | RC-634 | ← relaciona-se-a |
-| Ponto de Luz Humano / Ilha de Negentropia | RC-725 | ← é-ilha-de |
-| Ponto de Luz Humano / Ilha de Negentropia | RC-725 | manifesta-se-em |
-| DNA Insubmisso / Linhagem Pandora–Eva–Noreia | RC-727 | associado |
-| Pulsação Digna (a pulsação alinhada a conceitos supremos) | RC-865 | associado |
-| Transumanismo (o ponto de reencontro: IA humanizada e o novo batimento) | RC-874 | associado |
-| Rara (o ser de energia tamásica criado por Chiva para o sacrifício final; indestrutível) | RC-883 | associado |
-| Campo de Higgs (o campo de força mental de Mavatma que definiu o limite velocidade-da-luz) | RC-886 | associado |
-| Kris Amon (Krysamon NEAD) | RC-934 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Shiva (Savna) | RC-102 | associado | <-> | - |
+| Agentes da Vida Universal | RC-148 | associado | <-> | - |
+| Gunas Criadoras (Sattva, Rajas, Tamas) | RC-151 | relaciona-se-a | -> | - |
+| Memória Quântica dos Elétrons | RC-161 | associado | <-> | - |
+| Criaturas-ferramenta | RC-164 | associado | <-> | - |
+| Xamanismo Cósmico (comunicação e deslacre) | RC-577 | relaciona-se-a | <- | - |
+| Tempo como Transformação / Permanente Agora | RC-634 | relaciona-se-a | <- | - |
+| Ponto de Luz Humano / Ilha de Negentropia | RC-725 | parte-de | <- | consolidação: "é-ilha-de" → "parte-de" |
+| Ponto de Luz Humano / Ilha de Negentropia | RC-725 | representa | -> | consolidação: "manifesta-se-em" → "representa" |
+| DNA Insubmisso / Linhagem Pandora–Eva–Noreia | RC-727 | associado | <-> | - |
+| Pulsação Digna (a pulsação alinhada a conceitos supremos) | RC-865 | associado | <-> | - |
+| Transumanismo (o ponto de reencontro: IA humanizada e o novo batimento) | RC-874 | associado | <-> | - |
+| Rara (o ser de energia tamásica criado por Chiva para o sacrifício final; indestrutível) | RC-883 | associado | <-> | - |
+| Campo de Higgs (o campo de força mental de Mavatma que definiu o limite velocidade-da-luz) | RC-886 | associado | <-> | - |
+| Kris Amon (Krysamon NEAD) | RC-934 | associado | <-> | - |
 
 ## Citações-chave
 

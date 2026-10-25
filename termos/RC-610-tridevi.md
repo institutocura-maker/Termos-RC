@@ -24,19 +24,19 @@ Tríade feminina formada por Sarasvati, Lakshimi e Parvathi, correlacionada à T
 A Base já individualizava as três integrantes; este código consolida o coletivo.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Trimurti | RC-104 | relaciona-se-a |
-| Trimurti | RC-104 | relaciona-se-a |
-| Sarasvati (consorte de Brahma, Tridevi) | RC-457 | inclui |
-| Sarasvati (consorte de Brahma, Tridevi) | RC-457 | inclui |
-| Lakshimi (consorte de Vishnu, Tridevi) | RC-458 | inclui |
-| Lakshimi (consorte de Vishnu, Tridevi) | RC-458 | inclui |
-| Parvathi (consorte de Shiva, Tridevi) | RC-459 | inclui |
-| Parvathi (consorte de Shiva, Tridevi) | RC-459 | inclui |
-| Deva / Aurora (A Grande Deusa) | RC-475 | ← gera |
-| Ogdóade de Hermópolis | RC-609 | ← inclui |
-| Nyx | RC-621 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Trimurti | RC-104 | relaciona-se-a | -> | - |
+| Trimurti | RC-104 | relaciona-se-a | -> | - |
+| Sarasvati (consorte de Brahma, Tridevi) | RC-457 | inclui | -> | - |
+| Sarasvati (consorte de Brahma, Tridevi) | RC-457 | inclui | -> | - |
+| Lakshimi (consorte de Vishnu, Tridevi) | RC-458 | inclui | -> | - |
+| Lakshimi (consorte de Vishnu, Tridevi) | RC-458 | inclui | -> | - |
+| Parvathi (consorte de Shiva, Tridevi) | RC-459 | inclui | -> | - |
+| Parvathi (consorte de Shiva, Tridevi) | RC-459 | inclui | -> | - |
+| Deva / Aurora (A Grande Deusa) | RC-475 | origina | <- | consolidação: "gera" → "origina" |
+| Ogdóade de Hermópolis | RC-609 | inclui | <- | - |
+| Nyx | RC-621 | associado | <-> | - |
 
 ## Seres Associados
 Consultar as relações tipadas acima.

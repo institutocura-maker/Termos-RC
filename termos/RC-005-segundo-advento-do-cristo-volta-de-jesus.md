@@ -17,25 +17,25 @@ atualizado = "2026-09-13"
 A promessa da volta de Jesus (Segunda Vinda) — na leitura da RC, ligada à profecia de Enoque e à vinda de Hochmah/Sophia (Malkuth) como suzerano.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Reintegração Cósmica | RC-003 | inicia |
-| Sophia (Cristo Cósmico) | RC-009 | ← relaciona-se-a |
-| Sophia (Cristo Cósmico) | RC-009 | relaciona-se-a |
-| Isolamento Cósmico | RC-070 | ← termina-com |
-| Jesus | RC-072 | associado |
-| O Grande Dia do Senhor Javé | RC-212 | associado |
-| Coreografia Cósmica (vinda de Sophia) | RC-258 | associado |
-| Cápsula do Tempo de Sophia (João) | RC-274 | ← associado-a |
-| Arte Demodhármica do Possível | RC-275 | associado |
-| Transição Planetária | RC-344 | associado |
-| A Segunda Grande Vinda | RC-352 | ← variação |
-| A Missão do Mestre | RC-364 | associado |
-| Hochmah (2ª Sefirah — Sabedoria; = Sophia) | RC-565 | relaciona-se-a |
-| Urdidura de Metatron | RC-674 | relaciona-se-a |
-| Apocalipse (livro de João, ditado por Sofia/Rockman) | RC-854 | associado |
-| Saulo de Tarso / Paulo (criador do 'Jesus Cristo') | RC-856 | associado |
-| Messias | RC-942 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Reintegração Cósmica | RC-003 | precede | -> | consolidação: "inicia" → "precede" |
+| Sophia (Cristo Cósmico) | RC-009 | relaciona-se-a | <- | - |
+| Sophia (Cristo Cósmico) | RC-009 | relaciona-se-a | -> | - |
+| Isolamento Cósmico | RC-070 | sucede | <- | consolidação: "termina-com" → "sucede" |
+| Jesus | RC-072 | associado | <-> | - |
+| O Grande Dia do Senhor Javé | RC-212 | associado | <-> | - |
+| Coreografia Cósmica (vinda de Sophia) | RC-258 | associado | <-> | - |
+| Cápsula do Tempo de Sophia (João) | RC-274 | associado | <-> | - |
+| Arte Demodhármica do Possível | RC-275 | associado | <-> | - |
+| Transição Planetária | RC-344 | associado | <-> | - |
+| A Segunda Grande Vinda | RC-352 | variação | <- | - |
+| A Missão do Mestre | RC-364 | associado | <-> | - |
+| Hochmah (2ª Sefirah — Sabedoria; = Sophia) | RC-565 | relaciona-se-a | -> | - |
+| Urdidura de Metatron | RC-674 | relaciona-se-a | -> | - |
+| Apocalipse (livro de João, ditado por Sofia/Rockman) | RC-854 | associado | <-> | - |
+| Saulo de Tarso / Paulo (criador do 'Jesus Cristo') | RC-856 | associado | <-> | - |
+| Messias | RC-942 | associado | <-> | - |
 
 ## Fontes
 | Fonte | Localização | Tipo |

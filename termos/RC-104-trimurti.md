@@ -16,65 +16,65 @@ atualizado = "2026-10-23"
 Tríade hindu de princípios ontológicos de gênese (Brahma, Vishnu, Shiva) — na RC, correlacionada à leitura que Thot fazia da **Ogdóade de Hermópolis (RC-609)** e ao drama da criação problemática (RC-167).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Brahma (Brajna) | RC-037 | associado |
-| CFD (Código Fonte Definidor) | RC-040 | associado |
-| Lila | RC-075 | associado |
-| Logos / Logos Criadores | RC-076 | associado |
-| Projeto Talm | RC-091 | ← envolve |
-| Shiva (Savna) | RC-102 | associado |
-| Vishnu (Mavatna) | RC-135 | associado |
-| Xadrez Cósmico | RC-150 | ← envolve |
-| Gunas Criadoras (Sattva, Rajas, Tamas) | RC-151 | associado |
-| Gestão Cósmica | RC-225 | ← envolve |
-| Dominação (premissa dos Três Primeiros Logos) | RC-254 | ← premissa-de |
-| A Falsa Trindade (Concílio de Niceia) | RC-273 | associado |
-| Modo Trimurtiano de Sophia | RC-279 | associado |
-| Mohen So = Phanes / Protogonos / Vasuki / Kalki (correspondências) | RC-282 | ← relaciona-se-a |
-| Dissolução da Tríade (2015–2017) | RC-300 | ← envolve |
-| Adhytia (nível hierárquico) | RC-308 | ← superior-a |
-| Ordem dos Indecifráveis | RC-309 | associado |
-| Tempo de Apostasia | RC-313 | associado |
-| Fenômenos Denunciadores do Fim | RC-314 | associado |
-| O Fim da Lila | RC-315 | associado |
-| Decifra-me ou Devoro (hábito demo) | RC-316 | associado |
-| Esgotamento e Solidão (dos Trimurtianos) | RC-317 | associado |
-| A Estranha Autorrealização de Shiva | RC-318 | associado |
-| Fator Dharma | RC-319 | associado |
-| Senhores do Dharma (= Senhores da Lila / Trimurti) | RC-320 | ← variação |
-| Castas Trimurtianas | RC-321 | associado |
-| Krishna (avatar de Vishnu/Shiva) | RC-414 | relaciona-se-a |
-| Krishna como 'pretenso Keshava' | RC-425 | associado |
-| Sarasvati (consorte de Brahma, Tridevi) | RC-457 | associado |
-| Lakshimi (consorte de Vishnu, Tridevi) | RC-458 | associado |
-| Parvathi (consorte de Shiva, Tridevi) | RC-459 | associado |
-| Arcontes (= Sophias e Indras; Conselho dos 70) | RC-474 | associado |
-| Deva / Aurora (A Grande Deusa) | RC-475 | associado |
-| Senhor Parameshthi / Brahma Parameshthi (face atual de Javé) | RC-556 | ← relaciona-se-a |
-| Ancoragem do Conglomerado Trimurtiano na Terra | RC-575 | ← envolve |
-| Rakshasas | RC-581 | associado |
-| Mahabharata | RC-593 | ← envolve |
-| Ogdóade de Hermópolis | RC-609 | ← inclui |
-| Tridevi | RC-610 | ← relaciona-se-a |
-| Tridevi | RC-610 | ← relaciona-se-a |
-| Singularidade de Quatro Cabeças | RC-649 | ← envolve |
-| Kami (Projeto Japonês) | RC-740 | ← relaciona-se-a |
-| Vaishnavismo (vixenuísmo — tradição hindu de adoração a Vishnu/Krishna) | RC-757 | ← relaciona-se-a |
-| Princípio da Externalização (criação divina sem sexualidade) | RC-768 | ← relaciona-se-a |
-| Corpos Fenvã (terceira forma de vida do universo vizinho) | RC-769 | ← relaciona-se-a |
-| Pactos de Javé (Brama / Vishnu / Shiva) | RC-781 | associado |
-| Alimentação por Perfume dos Humanos (Demos se Alimentam de DNA) | RC-820 | associado |
-| Soca/Reis/Rit como Receptor Universal (Instrumento da Trimurti) | RC-821 | associado |
-| Código Genético como Marca da Herança Demoníaca | RC-825 | associado |
-| Sophia Como Biodemo da Ordem e Caos | RC-831 | associado |
-| Família Aya (Clone de Sophia para Inseminação Artificial de Maria) | RC-834 | associado |
-| Família Aye (Clone de Sophia para Inseminação Artificial de Maria) | RC-835 | associado |
-| Elo Adâmico (o gene que Javé pôs em Adão) | RC-857 | associado |
-| Choque de Realidade (o perpétuo espanto dos donos da verdade) | RC-867 | associado |
-| Fórmulas Mentais (o código dos demos, contraposto ao DNA humano) | RC-870 | associado |
-| Midana (o código original primordial semeado no universo biológico) | RC-871 | associado |
-| Sinarquia Cósmica (o governo dos sábios) | RC-873 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Brahma (Brajna) | RC-037 | associado | <-> | - |
+| CFD (Código Fonte Definidor) | RC-040 | associado | <-> | - |
+| Lila | RC-075 | associado | <-> | - |
+| Logos / Logos Criadores | RC-076 | associado | <-> | - |
+| Projeto Talm | RC-091 | envolve | <- | - |
+| Shiva (Savna) | RC-102 | associado | <-> | - |
+| Vishnu (Mavatna) | RC-135 | associado | <-> | - |
+| Xadrez Cósmico | RC-150 | envolve | <- | - |
+| Gunas Criadoras (Sattva, Rajas, Tamas) | RC-151 | associado | <-> | - |
+| Gestão Cósmica | RC-225 | envolve | <- | - |
+| Dominação (premissa dos Três Primeiros Logos) | RC-254 | relaciona-se-a | <- | consolidação: "premissa-de" → "relaciona-se-a" |
+| A Falsa Trindade (Concílio de Niceia) | RC-273 | associado | <-> | - |
+| Modo Trimurtiano de Sophia | RC-279 | associado | <-> | - |
+| Mohen So = Phanes / Protogonos / Vasuki / Kalki (correspondências) | RC-282 | relaciona-se-a | <- | - |
+| Dissolução da Tríade (2015–2017) | RC-300 | envolve | <- | - |
+| Adhytia (nível hierárquico) | RC-308 | precede | <- | consolidação: "superior-a" → "precede" |
+| Ordem dos Indecifráveis | RC-309 | associado | <-> | - |
+| Tempo de Apostasia | RC-313 | associado | <-> | - |
+| Fenômenos Denunciadores do Fim | RC-314 | associado | <-> | - |
+| O Fim da Lila | RC-315 | associado | <-> | - |
+| Decifra-me ou Devoro (hábito demo) | RC-316 | associado | <-> | - |
+| Esgotamento e Solidão (dos Trimurtianos) | RC-317 | associado | <-> | - |
+| A Estranha Autorrealização de Shiva | RC-318 | associado | <-> | - |
+| Fator Dharma | RC-319 | associado | <-> | - |
+| Senhores do Dharma (= Senhores da Lila / Trimurti) | RC-320 | variação | <- | - |
+| Castas Trimurtianas | RC-321 | associado | <-> | - |
+| Krishna (avatar de Vishnu/Shiva) | RC-414 | relaciona-se-a | -> | - |
+| Krishna como 'pretenso Keshava' | RC-425 | associado | <-> | - |
+| Sarasvati (consorte de Brahma, Tridevi) | RC-457 | associado | <-> | - |
+| Lakshimi (consorte de Vishnu, Tridevi) | RC-458 | associado | <-> | - |
+| Parvathi (consorte de Shiva, Tridevi) | RC-459 | associado | <-> | - |
+| Arcontes (= Sophias e Indras; Conselho dos 70) | RC-474 | associado | <-> | - |
+| Deva / Aurora (A Grande Deusa) | RC-475 | associado | <-> | - |
+| Senhor Parameshthi / Brahma Parameshthi (face atual de Javé) | RC-556 | relaciona-se-a | <- | - |
+| Ancoragem do Conglomerado Trimurtiano na Terra | RC-575 | envolve | <- | - |
+| Rakshasas | RC-581 | associado | <-> | - |
+| Mahabharata | RC-593 | envolve | <- | - |
+| Ogdóade de Hermópolis | RC-609 | inclui | <- | - |
+| Tridevi | RC-610 | relaciona-se-a | <- | - |
+| Tridevi | RC-610 | relaciona-se-a | <- | - |
+| Singularidade de Quatro Cabeças | RC-649 | envolve | <- | - |
+| Kami (Projeto Japonês) | RC-740 | relaciona-se-a | <- | - |
+| Vaishnavismo (vixenuísmo — tradição hindu de adoração a Vishnu/Krishna) | RC-757 | relaciona-se-a | <- | - |
+| Princípio da Externalização (criação divina sem sexualidade) | RC-768 | relaciona-se-a | <- | - |
+| Corpos Fenvã (terceira forma de vida do universo vizinho) | RC-769 | relaciona-se-a | <- | - |
+| Pactos de Javé (Brama / Vishnu / Shiva) | RC-781 | associado | <-> | - |
+| Alimentação por Perfume dos Humanos (Demos se Alimentam de DNA) | RC-820 | associado | <-> | - |
+| Soca/Reis/Rit como Receptor Universal (Instrumento da Trimurti) | RC-821 | associado | <-> | - |
+| Código Genético como Marca da Herança Demoníaca | RC-825 | associado | <-> | - |
+| Sophia Como Biodemo da Ordem e Caos | RC-831 | associado | <-> | - |
+| Família Aya (Clone de Sophia para Inseminação Artificial de Maria) | RC-834 | associado | <-> | - |
+| Família Aye (Clone de Sophia para Inseminação Artificial de Maria) | RC-835 | associado | <-> | - |
+| Elo Adâmico (o gene que Javé pôs em Adão) | RC-857 | associado | <-> | - |
+| Choque de Realidade (o perpétuo espanto dos donos da verdade) | RC-867 | associado | <-> | - |
+| Fórmulas Mentais (o código dos demos, contraposto ao DNA humano) | RC-870 | associado | <-> | - |
+| Midana (o código original primordial semeado no universo biológico) | RC-871 | associado | <-> | - |
+| Sinarquia Cósmica (o governo dos sábios) | RC-873 | associado | <-> | - |
 
 ## Ampliação — STT26-EXPERIENCIA_ESPIRITUAL_ETICA (Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados))
 

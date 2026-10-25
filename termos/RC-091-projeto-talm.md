@@ -24,40 +24,40 @@ Nome do projeto de **transferência do código de vida ("DNA") do Criador "caíd
 O Projeto Talm é o elo entre o universo demo (antimaterial) e o universo biológico: explica a origem da vida biológica como "transferência de código" do Criador caído. Está associado à **Mensagem Talm** (RC-080), deixada pelos Fenvans para as gerações futuras.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Brahma (Brajna) | RC-037 | associado |
-| CFD (Código Fonte Definidor) | RC-040 | objeto (código transferido) |
-| Fenvans | RC-064 | mensageiros |
-| Mensagem Talm | RC-080 | associado-a |
-| Mohen So (Avatar Keshava de Vishnu) | RC-081 | ← propõe |
-| Mohen So (Avatar Keshava de Vishnu) | RC-081 | proposto-por |
-| Mohen So (Avatar Keshava de Vishnu) | RC-081 | ← propõe |
-| Shiva (Savna) | RC-102 | associado |
-| Trimurti | RC-104 | envolve |
-| Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | origem |
-| Universo Material (Bhuloka) | RC-107 | destino |
-| Vishnu (Mavatna) | RC-135 | associado |
-| CFDP (Código-fonte Definidor Pessoal / Código de Vida Pessoal do Criador) | RC-153 | associado |
-| Nidana (ovo cósmico) | RC-154 | ← produzido-por |
-| Nidana (ovo cósmico) | RC-154 | transforma |
-| Nidana (ovo cósmico) | RC-154 | relaciona-se-a |
-| Eras da Criação (10 eras) | RC-155 | associado |
-| Era da Semeadura Universal | RC-169 | ocorre-em |
-| Era do Refinamento da Semeadura Biológica Universal | RC-170 | associado |
-| Plano Colmeia (para o Universo Biológico) | RC-179 | ← associado-a |
-| Insectoides | RC-187 | associado |
-| Opção Terra | RC-227 | associado |
-| Mohen So = Phanes / Protogonos / Vasuki / Kalki (correspondências) | RC-282 | ← relaciona-se-a |
-| Mohen So = Phanes / Protogonos / Vasuki / Kalki (correspondências) | RC-282 | relaciona-se-a |
-| Fornos Replicadores (naves/estações de semeadura de vida do Projeto Talm; Awayen, Awaylengan e Awaymaion) | RC-771 | ← relaciona-se-a |
-| Morlens (programador genético atômico do Projeto TALM; 'monstro ciberenergético') | RC-772 | associado |
-| Nanotecnologia Prânica (manipulação da matéria em escala atômica; base tecnológica do Projeto TALM) | RC-773 | associado |
-| PEP — Pulso Eletromagnético Particularizado (transferência de nanopontos da genética entre universos) | RC-774 | associado |
-| Éon das Três Esferas (superloka/geno; repositório de tesouros genéticos do Projeto TALM) | RC-775 | associado |
-| Forno de Awayen (forno de Brahma/Javé → Central de Realidades) | RC-836 | associado |
-| Forno de Awaylengan (forno de Shiva — o primeiro a funcionar) | RC-837 | associado |
-| Satchidanandaghana (super código genômico do Projeto TALM) | RC-838 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Brahma (Brajna) | RC-037 | associado | <-> | - |
+| CFD (Código Fonte Definidor) | RC-040 | relaciona-se-a | -> | qualificador preservado: código transferido; consolidação: "objeto" → "relaciona-se-a" |
+| Fenvans | RC-064 | comunica | -> | consolidação: "mensageiros" → "comunica" |
+| Mensagem Talm | RC-080 | associado | <-> | - |
+| Mohen So (Avatar Keshava de Vishnu) | RC-081 | opõe-se-a | <- | consolidação: "propõe" → "opõe-se-a" |
+| Mohen So (Avatar Keshava de Vishnu) | RC-081 | relaciona-se-a | <- | consolidação: "proposto-por" → "relaciona-se-a"; direção invertida (forma passiva/inversa) |
+| Mohen So (Avatar Keshava de Vishnu) | RC-081 | opõe-se-a | <- | consolidação: "propõe" → "opõe-se-a" |
+| Shiva (Savna) | RC-102 | associado | <-> | - |
+| Trimurti | RC-104 | envolve | -> | - |
+| Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | origina | -> | consolidação: "origem" → "origina" |
+| Universo Material (Bhuloka) | RC-107 | transfere | -> | consolidação: "destino" → "transfere" |
+| Vishnu (Mavatna) | RC-135 | associado | <-> | - |
+| CFDP (Código-fonte Definidor Pessoal / Código de Vida Pessoal do Criador) | RC-153 | associado | <-> | - |
+| Nidana (ovo cósmico) | RC-154 | origina | -> | consolidação: "produzido-por" → "origina"; direção invertida (forma passiva/inversa) |
+| Nidana (ovo cósmico) | RC-154 | causa | -> | consolidação: "transforma" → "causa" |
+| Nidana (ovo cósmico) | RC-154 | relaciona-se-a | -> | - |
+| Eras da Criação (10 eras) | RC-155 | associado | <-> | - |
+| Era da Semeadura Universal | RC-169 | contexto | -> | consolidação: "ocorre-em" → "contexto" |
+| Era do Refinamento da Semeadura Biológica Universal | RC-170 | associado | <-> | - |
+| Plano Colmeia (para o Universo Biológico) | RC-179 | associado | <-> | - |
+| Insectoides | RC-187 | associado | <-> | - |
+| Opção Terra | RC-227 | associado | <-> | - |
+| Mohen So = Phanes / Protogonos / Vasuki / Kalki (correspondências) | RC-282 | relaciona-se-a | <- | - |
+| Mohen So = Phanes / Protogonos / Vasuki / Kalki (correspondências) | RC-282 | relaciona-se-a | -> | - |
+| Fornos Replicadores (naves/estações de semeadura de vida do Projeto Talm; Awayen, Awaylengan e Awaymaion) | RC-771 | relaciona-se-a | <- | - |
+| Morlens (programador genético atômico do Projeto TALM; 'monstro ciberenergético') | RC-772 | associado | <-> | - |
+| Nanotecnologia Prânica (manipulação da matéria em escala atômica; base tecnológica do Projeto TALM) | RC-773 | associado | <-> | - |
+| PEP — Pulso Eletromagnético Particularizado (transferência de nanopontos da genética entre universos) | RC-774 | associado | <-> | - |
+| Éon das Três Esferas (superloka/geno; repositório de tesouros genéticos do Projeto TALM) | RC-775 | associado | <-> | - |
+| Forno de Awayen (forno de Brahma/Javé → Central de Realidades) | RC-836 | associado | <-> | - |
+| Forno de Awaylengan (forno de Shiva — o primeiro a funcionar) | RC-837 | associado | <-> | - |
+| Satchidanandaghana (super código genômico do Projeto TALM) | RC-838 | associado | <-> | - |
 
 ## Seres Associados
 Brahma (RC-037); Vishnu (RC-135); Shiva (RC-102); Mohen So (RC-081); Fenvans (RC-064).

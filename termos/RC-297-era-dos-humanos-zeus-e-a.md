@@ -24,15 +24,15 @@ A **"Era dos Humanos"** é o período em que a espécie humana emergiu como prot
 A Era dos Humanos sucede o fechamento dos portais: sem acesso direto, os deuses tentaram controlar a humanidade por oráculos, pitonisas e pelas artes trágicas gregas (Píndaro, Apolodoro, Sófocles, Eurípedes) — "todo esse conjunto de notícias que Zeus quis transmitir à humanidade, buscando mostrar o quanto ele era importante". A Era dos Humanos também é o cenário da **dissolução da Tríade (2015–2017)**: com o universo demo se desestruturando ("estão perdendo sua casa"), Zeus busca construir um "projeto de migração" dos demos para o nosso universo — movimento inverso ao de Yel Luzbel há ~50 mil anos.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Revelação Cósmica (conceito) | RC-094 | associado |
-| Seres Terrenos (Homo Sapiens) | RC-099 | protagonistas |
-| Zeus | RC-145 | envolve |
-| Era Sapiens | RC-238 | paralelo |
-| Telos (de um deus) | RC-292 | missão de Zeus |
-| Drama do Fechamento dos Portais | RC-295 | sucede |
-| Dissolução da Tríade (2015–2017) | RC-300 | contexto |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Revelação Cósmica (conceito) | RC-094 | associado | <-> | - |
+| Seres Terrenos (Homo Sapiens) | RC-099 | envolve | -> | consolidação: "protagonistas" → "envolve" |
+| Zeus | RC-145 | envolve | -> | - |
+| Era Sapiens | RC-238 | variação | -> | consolidação: "paralelo" → "variação" |
+| Telos (de um deus) | RC-292 | relaciona-se-a | -> | texto bruto original: missão de Zeus |
+| Drama do Fechamento dos Portais | RC-295 | sucede | -> | - |
+| Dissolução da Tríade (2015–2017) | RC-300 | contexto | -> | - |
 
 ## Seres Associados
 Zeus (RC-145); humanos (RC-099); demos (RC-049); Caos/Javé (RC-284).

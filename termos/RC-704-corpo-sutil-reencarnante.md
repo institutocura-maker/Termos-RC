@@ -30,30 +30,30 @@ Mantidos como subtermos de glossário: impressões, hábitos e tendências trans
 
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| DNA como Projeção Holográfica do Psiquismo do Criador | RC-217 | associado |
-| Herança Cósmica (padrões de existências anteriores) | RC-519 | transporta |
-| Herança Cósmica (padrões de existências anteriores) | RC-519 | ← transportado-por |
-| Coleta de informações (espírito encarnado) | RC-524 | associado |
-| Espelho da Herança Espiritual no Epigenoma | RC-543 | relaciona-se-a |
-| Arquivos Mentais (coleção de conceitos no psiquismo) | RC-548 | transporta |
-| Eu Profundo (nível espiritual do Eu) | RC-553 | hospeda |
-| Sensação de eu (a sensação particular a cada instante) | RC-558 | hospeda |
-| Sensação de eu (a sensação particular a cada instante) | RC-558 | relaciona-se-a |
-| Moksha | RC-618 | relaciona-se-a |
-| Corpo Átmico | RC-623 | relaciona-se-a |
-| Corpo Búdico | RC-624 | relaciona-se-a |
-| Corpo Manásico / Corpo Mental | RC-625 | relaciona-se-a |
-| Humanos: Últimos e Primeiros | RC-654 | associado |
-| Kit Reencarnatório de Elétrons | RC-692 | relaciona-se-a |
-| Kit Reencarnatório de Elétrons | RC-692 | ← relaciona-se-a |
-| Bhavaṅga / Janela da Percepção | RC-706 | ← relaciona-se-a |
-| Três Faíscas da Consciência Humana | RC-719 | ← relaciona-se-a |
-| Faixas Espirituais de Ressonância | RC-726 | ← relaciona-se-a |
-| Faixas Espirituais de Ressonância | RC-726 | relaciona-se-a |
-| Bagagem Espiritual Intransferível | RC-751 | ← relaciona-se-a |
-| Agenda Espiritual | RC-752 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| DNA como Projeção Holográfica do Psiquismo do Criador | RC-217 | associado | <-> | - |
+| Herança Cósmica (padrões de existências anteriores) | RC-519 | transfere | -> | consolidação: "transporta" → "transfere" |
+| Herança Cósmica (padrões de existências anteriores) | RC-519 | transfere | -> | consolidação: "transportado-por" → "transfere"; direção invertida (forma passiva/inversa) |
+| Coleta de informações (espírito encarnado) | RC-524 | associado | <-> | - |
+| Espelho da Herança Espiritual no Epigenoma | RC-543 | relaciona-se-a | -> | - |
+| Arquivos Mentais (coleção de conceitos no psiquismo) | RC-548 | transfere | -> | consolidação: "transporta" → "transfere" |
+| Eu Profundo (nível espiritual do Eu) | RC-553 | contexto | -> | consolidação: "hospeda" → "contexto" |
+| Sensação de eu (a sensação particular a cada instante) | RC-558 | contexto | -> | consolidação: "hospeda" → "contexto" |
+| Sensação de eu (a sensação particular a cada instante) | RC-558 | relaciona-se-a | -> | - |
+| Moksha | RC-618 | relaciona-se-a | -> | - |
+| Corpo Átmico | RC-623 | relaciona-se-a | -> | - |
+| Corpo Búdico | RC-624 | relaciona-se-a | -> | - |
+| Corpo Manásico / Corpo Mental | RC-625 | relaciona-se-a | -> | - |
+| Humanos: Últimos e Primeiros | RC-654 | associado | <-> | - |
+| Kit Reencarnatório de Elétrons | RC-692 | relaciona-se-a | -> | - |
+| Kit Reencarnatório de Elétrons | RC-692 | relaciona-se-a | <- | - |
+| Bhavaṅga / Janela da Percepção | RC-706 | relaciona-se-a | <- | - |
+| Três Faíscas da Consciência Humana | RC-719 | relaciona-se-a | <- | - |
+| Faixas Espirituais de Ressonância | RC-726 | relaciona-se-a | <- | - |
+| Faixas Espirituais de Ressonância | RC-726 | relaciona-se-a | -> | - |
+| Bagagem Espiritual Intransferível | RC-751 | relaciona-se-a | <- | - |
+| Agenda Espiritual | RC-752 | associado | <-> | - |
 
 ## Ampliação — OIDR26-04 (Onda incremental dry-run — Experiência espiritual e ética evolutiva (derivados normalizados))
 

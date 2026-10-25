@@ -23,12 +23,12 @@ Forma preferida: **Pegadinha de Javé**.
 P2025-06-26 — 1ª Edição Estagiários do Kaos.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | planejada-por |
-| Jesus | RC-072 | — |
-| Quirino Cornélio (Centurião da Crucificação) | RC-659 | envolve |
-| Agenda do Desespero dos Espíritos | RC-662 | ← motiva |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Javé | RC-001 | relaciona-se-a | -> | consolidação: "planejada-por" → "relaciona-se-a" |
+| Jesus | RC-072 | - | - | sem relação informada; 17 linhas são registros de fonte com 4 colunas |
+| Quirino Cornélio (Centurião da Crucificação) | RC-659 | envolve | -> | - |
+| Agenda do Desespero dos Espíritos | RC-662 | causa | <- | consolidação: "motiva" → "causa" |
 
 ## Seres Associados
 Consultar Base.

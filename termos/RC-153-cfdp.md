@@ -17,13 +17,13 @@ atualizado = "2026-09-10"
 O Código-fonte Definidor Pessoal — o "Código de Vida Pessoal" do Criador: Vishnu concluiu que tinha dezenas de bilhões de anos para criar "Projetos" de mundos onde seria colocado o CFDP do Criador, para que Brahma conseguisse se "reconectar" com sua alma (B024). Para se manter vivo, o Ser doente "semeou o seu 'Código-fonte Definidor Pessoal (CFDP)' em todo e em qualquer ser que existiu, exista e que venha a existir" — na natureza terrena, o predador é exatamente a sua "cara" (B041). O CFDP carrega as "doenças" do Criador: foi para vencê-las num nível mais modesto — cada progenitor dando uma célula — que a sexualidade bilateral substituiu a criação unilateral (B024). Semeado com cerca de 3% do potencial ativo, na busca de uma arquitetura de espécies, carrega a "podridão ancestral" da queda (B019).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| CFD (Código Fonte Definidor) | RC-040 | deriva-de |
-| Projeto Talm | RC-091 | associado-a (transferência) |
-| Nidana (ovo cósmico) | RC-154 | associado-a |
-| A Rebelião dos Elétrons | RC-378 | ← modifica |
-| Princípio da Externalização (criação divina sem sexualidade) | RC-768 | ← relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| CFD (Código Fonte Definidor) | RC-040 | origina | <- | consolidação: "deriva-de" → "origina"; direção invertida (forma passiva/inversa) |
+| Projeto Talm | RC-091 | associado | <-> | qualificador preservado: transferência; raiz semântica associado (decisão 3) |
+| Nidana (ovo cósmico) | RC-154 | associado | <-> | - |
+| A Rebelião dos Elétrons | RC-378 | causa | <- | consolidação: "modifica" → "causa" |
+| Princípio da Externalização (criação divina sem sexualidade) | RC-768 | relaciona-se-a | <- | - |
 
 ## Fontes
 

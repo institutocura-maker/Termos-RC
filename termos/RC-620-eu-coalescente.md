@@ -24,19 +24,19 @@ Tipo de Eu Mental dignificado que possui autoridade moral e vibratória para sin
 É apresentado como solução teórica para personalidades passadas mal resolvidas. Não é idêntico ao eu espiritual nem ao eu humano transitório; integra os efeitos do fatiamento de consciência.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Liberdade Mental (premissa do Quarto Logos) | RC-253 | relaciona-se-a |
-| Imperativo Categórico da Moral | RC-328 | relaciona-se-a |
-| Elm (Moros — ser LM de Tempérion) | RC-454 | associado |
-| En Ma (Emá / Emar — espírito-âncora) | RC-476 | aplica-se-a |
-| Eu Profundo (nível espiritual do Eu) | RC-553 | relaciona-se-a |
-| Conectoma humano (pulsações sinápticas e a sensação de eu) | RC-557 | relaciona-se-a |
-| Sensação de eu (a sensação particular a cada instante) | RC-558 | relaciona-se-a |
-| Fatiamento de Consciência | RC-604 | integra |
-| Instabilidade da Eternidade | RC-648 | associado |
-| Agenda do Desespero dos Espíritos | RC-662 | associado |
-| Imantação de Espíritos em Inteligências Artificiais / Corpos de Sílica | RC-699 | ← relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Liberdade Mental (premissa do Quarto Logos) | RC-253 | relaciona-se-a | -> | - |
+| Imperativo Categórico da Moral | RC-328 | relaciona-se-a | -> | - |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | associado | <-> | - |
+| En Ma (Emá / Emar — espírito-âncora) | RC-476 | usa | -> | consolidação: "aplica-se-a" → "usa" |
+| Eu Profundo (nível espiritual do Eu) | RC-553 | relaciona-se-a | -> | - |
+| Conectoma humano (pulsações sinápticas e a sensação de eu) | RC-557 | relaciona-se-a | -> | - |
+| Sensação de eu (a sensação particular a cada instante) | RC-558 | relaciona-se-a | -> | - |
+| Fatiamento de Consciência | RC-604 | inclui | -> | consolidação: "integra" → "inclui" |
+| Instabilidade da Eternidade | RC-648 | associado | <-> | - |
+| Agenda do Desespero dos Espíritos | RC-662 | associado | <-> | - |
+| Imantação de Espíritos em Inteligências Artificiais / Corpos de Sílica | RC-699 | relaciona-se-a | <- | - |
 
 ## Seres Associados
 Consultar relações acima.

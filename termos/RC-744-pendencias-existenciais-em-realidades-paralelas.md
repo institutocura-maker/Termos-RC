@@ -31,9 +31,9 @@ atualizado = "2026-08-16"
 - **[P2024-08-03] Proveniência:** palestra de Jan Val Ellam; transcrição STT pré-curada; devolutiva oficial do curador registrada em 2026-08-16.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Universo Paralelo | RC-108 | persiste-em |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Universo Paralelo | RC-108 | contexto | -> | consolidação: "persiste-em" → "contexto" |
 
 ## Ampliação
 ### P2024-08-03

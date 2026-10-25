@@ -24,19 +24,19 @@ Tese (leitura do autor, palestra **P2023-12-17 — Lúcifer e a Rebelião dos El
 Aparece em **P2023-12-17**, U0004. Contexto: a palestra reconstrói a história da rebelião dos elétrons. O **"Ih"** de Morenu (~9 bilhões de anos atrás, no universo vizinho) e o **"Ih" de Yel Luzbel** (~1 milhão de anos atrás, no nosso universo) são os primeiros momentos da percepção. "O que importa é o eu âncora, ou seja, o eu original no final. Falando em termos de expressão sânscrita, o eu adiágia é o que importa ainda que ele tenha se feito em eus adiátima." Os elétrons estão acumulando **informação negativa** em sua "infinitude memorial" e não suportam mais apropriar — então estão "trabalhando as formas arcanas no âmbito do inconsciente dos elétrons" para desfazê-los.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Rebelião de Lúcifer | RC-002 | é-vetor-de |
-| Sophia (Cristo Cósmico) | RC-009 | é-biodemo-de |
-| Seres Terrenos (Homo Sapiens) | RC-099 | é-alvo-de |
-| Elétrons (agente básico da vida universal) | RC-162 | protagoniza |
-| Civilização Saraswati | RC-330 | é-alvo-de |
-| A Rebelião dos Elétrons | RC-378 | associado |
-| Era do Colapso do Caos Organizado | RC-827 | contextualiza |
-| Sistema Arcaico Mental (Javé Como Abelha Rainha) | RC-828 | associado |
-| Memória dos Elétrons e Arcanos | RC-829 | é-contexto-de |
-| Pulsação dos Elétrons Como Afetividade Humana | RC-832 | é-mecanismo-de |
-| 13 Livros de Lúcifer com Humanos (Necessários Antes do Fim) | RC-833 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Rebelião de Lúcifer | RC-002 | usa | -> | consolidação: "é-vetor-de" → "usa" |
+| Sophia (Cristo Cósmico) | RC-009 | é-um | -> | consolidação: "é-biodemo-de" → "é-um" |
+| Seres Terrenos (Homo Sapiens) | RC-099 | é-um | -> | consolidação: "é-alvo-de" → "é-um" |
+| Elétrons (agente básico da vida universal) | RC-162 | envolve | -> | consolidação: "protagoniza" → "envolve" |
+| Civilização Saraswati | RC-330 | é-um | -> | consolidação: "é-alvo-de" → "é-um" |
+| A Rebelião dos Elétrons | RC-378 | associado | <-> | - |
+| Era do Colapso do Caos Organizado | RC-827 | contexto | -> | consolidação: "contextualiza" → "contexto" |
+| Sistema Arcaico Mental (Javé Como Abelha Rainha) | RC-828 | associado | <-> | - |
+| Memória dos Elétrons e Arcanos | RC-829 | contexto | -> | consolidação: "é-contexto-de" → "contexto" |
+| Pulsação dos Elétrons Como Afetividade Humana | RC-832 | usa | -> | consolidação: "é-mecanismo-de" → "usa" |
+| 13 Livros de Lúcifer com Humanos (Necessários Antes do Fim) | RC-833 | associado | <-> | - |
 
 ## Seres Associados
 - **Elétrons (RC-162)** — quem se rebela

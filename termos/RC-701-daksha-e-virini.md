@@ -31,25 +31,25 @@ Daksha é apresentado como ser gerado a partir do corpo regenerado de Brahma. Vi
 As duas contagens são preservadas, não harmonizadas.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Brahma (Brajna) | RC-037 | ← relaciona-se-a |
-| Pandora como Serpente do Éden | RC-283 | ← relaciona-se-a |
-| Asuras (= Titãs) | RC-465 | relaciona-se-a |
-| Indra (título de arconte) | RC-480 | relaciona-se-a |
-| Rishis | RC-586 | relaciona-se-a |
-| Descendência de Kadru (Nagas, Uragas e Maharagas) | RC-664 | gera-linhagem-de |
-| Descendência de Kadru (Nagas, Uragas e Maharagas) | RC-664 | ← descende-de |
-| Descendência de Kadru (Nagas, Uragas e Maharagas) | RC-664 | relaciona-se-a |
-| Pashupati (avatar de Shiva) | RC-669 | relaciona-se-a |
-| Geração Regenerada de Brahma | RC-696 | ← inclui |
-| Geração Regenerada de Brahma | RC-696 | parte-de |
-| Geração Regenerada de Brahma | RC-696 | ← relaciona-se-a |
-| Kashyapa | RC-700 | ← relaciona-se-a |
-| Kashyapa | RC-700 | relaciona-se-a |
-| Kashyapa | RC-700 | ← une-se-às-filhas-de |
-| Kashyapa | RC-700 | tem-filhas-unidas-a |
-| Samudra Manthana / Batimento do Oceano de Leite | RC-734 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Brahma (Brajna) | RC-037 | relaciona-se-a | <- | - |
+| Pandora como Serpente do Éden | RC-283 | relaciona-se-a | <- | - |
+| Asuras (= Titãs) | RC-465 | relaciona-se-a | -> | - |
+| Indra (título de arconte) | RC-480 | relaciona-se-a | -> | - |
+| Rishis | RC-586 | relaciona-se-a | -> | - |
+| Descendência de Kadru (Nagas, Uragas e Maharagas) | RC-664 | origina | -> | consolidação: "gera-linhagem-de" → "origina" |
+| Descendência de Kadru (Nagas, Uragas e Maharagas) | RC-664 | origina | -> | consolidação: "descende-de" → "origina"; direção invertida (forma passiva/inversa) |
+| Descendência de Kadru (Nagas, Uragas e Maharagas) | RC-664 | relaciona-se-a | -> | - |
+| Pashupati (avatar de Shiva) | RC-669 | relaciona-se-a | -> | - |
+| Geração Regenerada de Brahma | RC-696 | inclui | <- | - |
+| Geração Regenerada de Brahma | RC-696 | parte-de | -> | - |
+| Geração Regenerada de Brahma | RC-696 | relaciona-se-a | <- | - |
+| Kashyapa | RC-700 | relaciona-se-a | <- | - |
+| Kashyapa | RC-700 | relaciona-se-a | -> | - |
+| Kashyapa | RC-700 | associado | <-> | consolidação: "une-se-às-filhas-de" → "associado" |
+| Kashyapa | RC-700 | associado | <-> | consolidação: "tem-filhas-unidas-a" → "associado" |
+| Samudra Manthana / Batimento do Oceano de Leite | RC-734 | associado | <-> | - |
 
 ## Fontes
 | Fonte | Localização | Tipo |

@@ -27,23 +27,23 @@ Na B021 (*Tempos Difíceis no Olimpo*), o desfecho da preponderância da **Tría
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Brahma (Brajna) | RC-037 | associado |
-| Shiva (Savna) | RC-102 | associado |
-| Trimurti | RC-104 | envolve |
-| Vishnu (Mavatna) | RC-135 | associado |
-| Eras da Criação (10 eras) | RC-155 | associado |
-| Era dos Humanos (Zeus e a) | RC-297 | associado |
-| Tempo de Apostasia | RC-313 | ← relaciona-se-a |
-| Fenômenos Denunciadores do Fim | RC-314 | associado |
-| O Fim da Lila | RC-315 | associado |
-| Esgotamento e Solidão (dos Trimurtianos) | RC-317 | associado |
-| Ragnarok em Marte | RC-395 | associado |
-| Tempo-limite (transição crítica de Javé) | RC-428 | ← relaciona-se-a |
-| Moiras / Nornes / Súdices / Parcas (destino) | RC-467 | associado |
-| Ano de 2012 como Divisor de Ciclos | RC-571 | associado |
-| Temis (Têmis) como Mãe-de-Pandora (Co-clonadora) | RC-815 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Brahma (Brajna) | RC-037 | associado | <-> | - |
+| Shiva (Savna) | RC-102 | associado | <-> | - |
+| Trimurti | RC-104 | envolve | -> | - |
+| Vishnu (Mavatna) | RC-135 | associado | <-> | - |
+| Eras da Criação (10 eras) | RC-155 | associado | <-> | - |
+| Era dos Humanos (Zeus e a) | RC-297 | associado | <-> | - |
+| Tempo de Apostasia | RC-313 | relaciona-se-a | <- | - |
+| Fenômenos Denunciadores do Fim | RC-314 | associado | <-> | - |
+| O Fim da Lila | RC-315 | associado | <-> | - |
+| Esgotamento e Solidão (dos Trimurtianos) | RC-317 | associado | <-> | - |
+| Ragnarok em Marte | RC-395 | associado | <-> | - |
+| Tempo-limite (transição crítica de Javé) | RC-428 | relaciona-se-a | <- | - |
+| Moiras / Nornes / Súdices / Parcas (destino) | RC-467 | associado | <-> | - |
+| Ano de 2012 como Divisor de Ciclos | RC-571 | associado | <-> | - |
+| Temis (Têmis) como Mãe-de-Pandora (Co-clonadora) | RC-815 | associado | <-> | - |
 
 ## Fontes
 

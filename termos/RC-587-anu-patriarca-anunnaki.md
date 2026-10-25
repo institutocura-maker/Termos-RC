@@ -24,13 +24,13 @@ Patriarca Anunnaki apresentado como pai de Enki e Enlil e autoridade na lógica 
 Aparece na disputa entre clãs e na reação ao uso das armas atômicas que teriam vindo de Nibiru.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Anunnaki | RC-024 | é-um |
-| Enki (Anunnaki; inoculou o gene FOXP2) | RC-486 | pai-de |
-| Enlil (deus sumério, par de Enki) | RC-487 | pai-de |
-| Guerra Nuclear Anunnaki (Sete Armas Atômicas) | RC-583 | ← envolve |
-| Ninurta | RC-588 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Anunnaki | RC-024 | é-um | -> | - |
+| Enki (Anunnaki; inoculou o gene FOXP2) | RC-486 | origina | -> | consolidação: "pai-de" → "origina" |
+| Enlil (deus sumério, par de Enki) | RC-487 | origina | -> | consolidação: "pai-de" → "origina" |
+| Guerra Nuclear Anunnaki (Sete Armas Atômicas) | RC-583 | envolve | <- | - |
+| Ninurta | RC-588 | associado | <-> | - |
 
 ## Seres Associados
 Anunnakis (RC-024); Enki (Anunnaki; inoculou o gene FOXP2) (RC-486); Enlil (deus sumério, par de Enki) (RC-487)

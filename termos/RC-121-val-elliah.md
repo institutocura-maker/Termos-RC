@@ -29,11 +29,11 @@ Biodemo da Família Val que fazia parte do Conselho dos Cinco da Frota Norte em 
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Conselho dos Cinco | RC-043 | associado |
-| Jesus | RC-072 | associado |
-| Val (Família Val) | RC-109 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Conselho dos Cinco | RC-043 | associado | <-> | - |
+| Jesus | RC-072 | associado | <-> | - |
+| Val (Família Val) | RC-109 | associado | <-> | - |
 
 ## Fontes
 

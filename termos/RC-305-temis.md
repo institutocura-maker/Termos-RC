@@ -29,13 +29,13 @@ Com isso:
 **Origem do conteúdo da ampliação:** palestra `P2017-10-14 — Da Base Atlan ao Colégio Druídico` (14/10/2017). Transcrição automatizada, **não conferida com o áudio**; cada aspa foi recortada do `original.txt` pelo índice de âncoras do motor e conferida byte a byte pelo portão B. Nada foi digitado de memória.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Astréia | RC-027 | **sem aresta** em `RELACOES`; **sem arquivo** |
-| Revelação Cósmica (conceito) | RC-094 | **sem aresta** em `RELACOES`; arquivo existe |
-| Zeus | RC-145 | **sem aresta** em `RELACOES`; arquivo existe |
-| Temis (Têmis) como Mãe-de-Pandora (Co-clonadora) | RC-815 | associado |
-| Cronos (titã) | RC-841 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Astréia | RC-027 | - | - | sem aresta em RELACOES; sem arquivo |
+| Revelação Cósmica (conceito) | RC-094 | - | - | sem aresta em RELACOES; arquivo existe |
+| Zeus | RC-145 | - | - | sem aresta em RELACOES; arquivo existe |
+| Temis (Têmis) como Mãe-de-Pandora (Co-clonadora) | RC-815 | associado | <-> | - |
+| Cronos (titã) | RC-841 | associado | <-> | - |
 
 
 ## Fontes

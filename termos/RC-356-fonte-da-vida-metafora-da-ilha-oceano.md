@@ -27,12 +27,12 @@ Título do capítulo 1 de B005 (*Fator Extraterrestre*, 2004). A obra desenvolve
 - Censo do gap (13/09/2026): família **B · prosa citável na fonte declarada** (`CENSO-GAP-FICHAS-2026-09-13.json`).
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Bhuloka | RC-033 | associado |
-| Revelação Cósmica (conceito) | RC-094 | associado |
-| Universo Material (Bhuloka) | RC-107 | associado |
-| Agentes da Vida Universal | RC-148 | usa |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Bhuloka | RC-033 | associado | <-> | - |
+| Revelação Cósmica (conceito) | RC-094 | associado | <-> | - |
+| Universo Material (Bhuloka) | RC-107 | associado | <-> | - |
+| Agentes da Vida Universal | RC-148 | usa | -> | - |
 
 ## Fontes
 

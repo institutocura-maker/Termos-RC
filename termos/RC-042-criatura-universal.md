@@ -17,24 +17,24 @@ atualizado = "2026-08-29"
 Entidade cósmica resultante do **processo de especiação humana** (RC-056): a nova expressão de consciência que a humanidade em evolução vertical pode gerar — descrita na RC como o desdobramento futuro do homo terráqueo após a recomposição do criador. Em P2023-05-13, Ellam vincula a origem da Criatura Universal ao processo de especiação (item 9.6 do Sumário Doutrinário: "O Processo de Especiação Humana e a Origem da 'Criatura Universal'") e projeta um mundo de regeneração pós-2050.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | relaciona-se-a (recomposição do criador) |
-| Especiação | RC-056 | relaciona-se-a |
-| Seres Terrenos (Homo Sapiens) | RC-099 | associado |
-| Universo Material (Bhuloka) | RC-107 | associado |
-| Mente Universal (Emergente) | RC-163 | associado |
-| Era da Criatura Universal | RC-172 | associado |
-| Era das Supercivilizações | RC-173 | associado |
-| Consórcio de Mundos (Arquitetos Universais) | RC-538 | ← relaciona-se-a |
-| Arquitetos Universais (coletivo cocriador) | RC-539 | associado |
-| Evolução Possível (terceira via: nem Darwin, nem deus) | RC-541 | ← relaciona-se-a |
-| Novo Homo sapiens (evolução que terá de vir) | RC-544 | ← relaciona-se-a |
-| Coconstrutores da Obra (tikun) | RC-545 | associado |
-| Consciências em Corpos de Sílica | RC-645 | ← relaciona-se-a |
-| Humanos: Últimos e Primeiros | RC-654 | associado |
-| As Cinco Lentes da Realidade | RC-761 | ← relaciona-se-a |
-| Biocosmos emergente (a nova mente biológica global ancorada nos campos mórficos) | RC-879 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Javé | RC-001 | relaciona-se-a | -> | qualificador preservado: recomposição do criador |
+| Especiação | RC-056 | relaciona-se-a | -> | - |
+| Seres Terrenos (Homo Sapiens) | RC-099 | associado | <-> | - |
+| Universo Material (Bhuloka) | RC-107 | associado | <-> | - |
+| Mente Universal (Emergente) | RC-163 | associado | <-> | - |
+| Era da Criatura Universal | RC-172 | associado | <-> | - |
+| Era das Supercivilizações | RC-173 | associado | <-> | - |
+| Consórcio de Mundos (Arquitetos Universais) | RC-538 | relaciona-se-a | <- | - |
+| Arquitetos Universais (coletivo cocriador) | RC-539 | associado | <-> | - |
+| Evolução Possível (terceira via: nem Darwin, nem deus) | RC-541 | relaciona-se-a | <- | - |
+| Novo Homo sapiens (evolução que terá de vir) | RC-544 | relaciona-se-a | <- | - |
+| Coconstrutores da Obra (tikun) | RC-545 | associado | <-> | - |
+| Consciências em Corpos de Sílica | RC-645 | relaciona-se-a | <- | - |
+| Humanos: Últimos e Primeiros | RC-654 | associado | <-> | - |
+| As Cinco Lentes da Realidade | RC-761 | relaciona-se-a | <- | - |
+| Biocosmos emergente (a nova mente biológica global ancorada nos campos mórficos) | RC-879 | associado | <-> | - |
 
 ## Fontes
 

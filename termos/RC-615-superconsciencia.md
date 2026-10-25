@@ -24,19 +24,19 @@ Novo modo de expressão da consciência humana associado ao Quarto Cérebro, ao 
 É apresentado como marco de encerramento do ciclo anterior e início de nova convivência cósmica.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Reintegração Cósmica | RC-003 | relaciona-se-a |
-| Sophia (Cristo Cósmico) | RC-009 | envolve |
-| Quarto Logos (Olm / Codificador de Zian) | RC-092 | envolve |
-| Quarto Cérebro Humano | RC-614 | ← produz |
-| Quarto Cérebro Humano | RC-614 | resulta-de |
-| Genoma da Liberdade | RC-619 | relaciona-se-a |
-| Oitavo Dia da Criação | RC-694 | ← requer |
-| Oitavo Dia da Criação | RC-694 | necessário-a |
-| Ciência Pessoal / Doutrina da Própria Personalidade | RC-695 | ← relaciona-se-a |
-| Humano Turbinado | RC-709 | ← relaciona-se-a |
-| Oxitocina (hormônio do bem — base bioquímica da Karuna) | RC-839 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Reintegração Cósmica | RC-003 | relaciona-se-a | -> | - |
+| Sophia (Cristo Cósmico) | RC-009 | envolve | -> | - |
+| Quarto Logos (Olm / Codificador de Zian) | RC-092 | envolve | -> | - |
+| Quarto Cérebro Humano | RC-614 | origina | <- | consolidação: "produz" → "origina" |
+| Quarto Cérebro Humano | RC-614 | causa | <- | consolidação: "resulta-de" → "causa"; direção invertida (forma passiva/inversa) |
+| Genoma da Liberdade | RC-619 | relaciona-se-a | -> | - |
+| Oitavo Dia da Criação | RC-694 | requer | <- | - |
+| Oitavo Dia da Criação | RC-694 | requer | -> | consolidação: "necessário-a" → "requer" |
+| Ciência Pessoal / Doutrina da Própria Personalidade | RC-695 | relaciona-se-a | <- | - |
+| Humano Turbinado | RC-709 | relaciona-se-a | <- | - |
+| Oxitocina (hormônio do bem — base bioquímica da Karuna) | RC-839 | associado | <-> | - |
 
 ## Seres Associados
 Consultar as relações tipadas acima.

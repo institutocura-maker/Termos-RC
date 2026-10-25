@@ -3,7 +3,7 @@
 | Campo | Valor |
 |---|---|
 | Data | 2026-10-25 |
-| Status | **PROPOSTA — aguarda aprovação final do curador** |
+| Status | **APROVADO em 2026-10-25 — matriz 100% concluída** |
 | Matriz | `admin/logs/T2-MAPEAMENTO-RELACOES.csv` |
 | Log de exceções | `admin/logs/T2-EXCECOES-RELACOES.md` (Anexo A) |
 | Escopo | 919 linhas `PROPOSTO` (567 rótulos-base) consolidadas; 31 `APROVADO` e 48 `REVISAR` intactas |
@@ -661,19 +661,67 @@ Cada linha abaixo é um cluster da 1ª rodada. `Inv.` marca as bases cujas linha
 
 ## 7. O que ficou de fora desta rodada
 
-- **48 linhas `REVISAR`** (51 ocorrências): rótulos livres, setas internas, Maiúsculas e estados de fila — intocadas, para tratamento manual da cauda longa.
+- **48 linhas `REVISAR`** (51 ocorrências): resolvidas em 2026-10-25 pelo fallback aprovado (seção 9); nenhuma permanece pendente.
 - **31 linhas `APROVADO`** (5.975 ocorrências): nenhum campo foi alterado.
 - 6 rótulos das 45 seções não conformes que não têm linha no CSV; 91 itens de lista livre; 4 rótulos de tabelas padrão embutidas; 3 linhas `aresta pré-existente; arquivo existe`.
 - 17 linhas de 4 colunas em fichas conformes (RC-671, RC-672, RC-684) — cobertas pela nota de `—`, ainda sem regra de conversão estrutural.
 
 ## 8. Checklist para aprovação final
 
-- [ ] Aprovar as 23 relações controladas (ou indicar fusões/cisões).
-- [ ] Aprovar as 13 novas relações e suas definições.
-- [ ] Aprovar o mapeamento dos 567 clusters (seção 3) — ou marcar exceções específicas.
-- [ ] Aprovar as inversões de direção (seção 5).
-- [ ] Confirmar a regra do hífen `-` (seção 6).
-- [ ] Definir o tratamento das 48 linhas `REVISAR`.
-- [ ] Autorizar, só então, a implementação da tabela de cinco colunas nas fichas (ação 4 do handoff T1→T2).
+- [x] Aprovar as 23 relações controladas.
+- [x] Aprovar as 13 novas relações e suas definições.
+- [x] Aprovar o mapeamento dos 567 clusters (seção 3).
+- [x] Aprovar as inversões de direção (seção 5).
+- [x] Confirmar a regra do hífen `-` (seção 6).
+- [x] Definir o tratamento das 48 linhas `REVISAR` (seção 9).
+- [x] Autorizar a implementação da tabela de cinco colunas — **Fase 1 (776 fichas conformes) executada**; Fase 2 (45 exceções) aguarda aprovação do Anexo B.
 
 > Até a aprovação, nenhuma ficha será modificada. A matriz pode ser revertida a qualquer momento: as colunas `tipo_bruto` e `ocorrencias` permanecem idênticas à extração T1 (SHA-256 `43ad4e8083ce83d5facb39b082488031625d81dd92e827f56938fdafa7d05213`; soma 7.761).
+
+## 9. Resolução da cauda longa e Implementação Física — Fase 1
+
+**Data:** 2026-10-25 · **Despacho:** aprovação integral dos itens 1 a 5 do checklist + autorização de reescrita das 776 seções conformes.
+
+### 9.1 Matriz 100% concluída
+
+| Ação | Resultado |
+|---|---|
+| 48 linhas `REVISAR` | `relaciona-se-a` / `->`; texto bruto original **integral** transferido para `notas_de_normalizacao` com o prefixo `texto bruto original: ` |
+| `decisao_curatorial` | **todas as 998 linhas = `APROVADO`** |
+| `tipo_bruto` / `ocorrencias` | inalterados — SHA-256 `43ad4e8083ce83d5facb39b082488031625d81dd92e827f56938fdafa7d05213`; soma 7.761 |
+| Relações controladas | 23 + 12 linhas sem relação (família "sem aresta" e `—`), que geram `-` nas fichas |
+
+### 9.2 Reescrita das 776 seções conformes
+
+Novo cabeçalho aplicado: `| Termo | Código | Relação | Direção | Notas |` com separador de 5 colunas.
+
+| Métrica | Valor |
+|---|---|
+| Fichas reescritas | **776** (100% das seções conformes) |
+| Linhas de relação convertidas | **7.761** (7.744 de 3 células + 17 de 4 células) |
+| Tipos brutos da matriz efetivamente aplicados | **998 / 998** |
+| Linhas com `Notas` preenchidas | 2.017 |
+| Linhas com `Relação = -` e `Direção = -` | 297 |
+| Seções com conteúdo extra fora da tabela | 44 (143 linhas preservadas literalmente) |
+| Fichas **não** tocadas | 50 (45 exceções + 5 sem seção) |
+
+Aplicação por linha: `Relação` e `Direção` vindas da matriz (ou `-` quando vazias); `Notas` = `notas_de_normalizacao` da matriz + eventuais notas originais da ficha (4ª célula das 17 linhas anômalas), unidas por `; `. Quando não há nota, a célula também recebe `-` — mesma regra de integridade estrutural aprovada para `Relação`/`Direção` (extensão registrada para sua confirmação).
+
+As 17 linhas de 4 colunas (RC-671, RC-672, RC-684) tiveram `Termo`/`Código` preservados **na ordem original** (código-fonte na 1ª coluna, título na 2ª) e a 4ª célula migrada para `Notas`; nenhuma inversão de colunas foi feita.
+
+### 9.3 Conteúdo preservado literalmente
+
+As 143 linhas extras das 44 seções conformes **não** foram convertidas nem fundidas em `Notas`: são remissões (`- RC-xxx — ver ficha correspondente`, 53), listas suplementares de termos com código (70), blocos de citação/remissão (14), avisos de quarentena epistemológica (3) e subseções `### Remissão` (3). Convertê-las exigiria inventar relações — ficam para uma fase separada, se você autorizar.
+
+### 9.4 Validação executada
+
+- `git diff` linha a linha contra o HEAD: **0 alterações fora do bloco da tabela** nas 776 fichas.
+- `Termo` e `Código` de cada uma das 7.761 linhas conferidos com o original.
+- Todas as novas linhas têm exatamente 5 células; nenhuma contém `|` não escapado.
+- 50 fichas não tocadas comparadas byte a byte com o HEAD: **0 divergências**.
+- 45 exceções continuam com suas estruturas originais (classes A, B e C intactas).
+- Finais de linha, ausência de newline final em 7 arquivos e codificação UTF-8 preservados.
+
+## 10. Próxima etapa — 45 exceções
+
+O método de conversão das classes A, B e C está detalhado no **Anexo B** de `admin/logs/T2-EXCECOES-RELACOES.md` e **aguarda sua aprovação**. Nenhuma dessas 45 seções foi modificada.

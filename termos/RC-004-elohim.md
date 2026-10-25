@@ -24,14 +24,14 @@ Coletivo de entidades criadoras de origem hebraica, reinterpretado nas Revelaç�
 Termo do Antigo Testamento (plural de *Eloah*) reapropriado pela literatura ufológica e espiritualista. No corpus de Ellam, aparece associado aos Elohim da tradição — a relação exata com Javé e com a criação da humanidade precisa ser confirmada nas fontes.
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | associado-a |
-| Guerra do Éden | RC-006 | envolve (a confirmar) |
-| Abelha-Rainha (Javé) | RC-175 | relaciona-se-a |
-| Arcontes (= Sophias e Indras; Conselho dos 70) | RC-474 | ← sinônimo |
-| Arcontes (= Sophias e Indras; Conselho dos 70) | RC-474 | ← relaciona-se-a |
-| Nefilins (= Anunnaki) | RC-488 | relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Javé | RC-001 | associado | <-> | - |
+| Guerra do Éden | RC-006 | envolve | -> | qualificador preservado: a confirmar |
+| Abelha-Rainha (Javé) | RC-175 | relaciona-se-a | -> | - |
+| Arcontes (= Sophias e Indras; Conselho dos 70) | RC-474 | variação | <- | consolidação: "sinônimo" → "variação" |
+| Arcontes (= Sophias e Indras; Conselho dos 70) | RC-474 | relaciona-se-a | <- | - |
+| Nefilins (= Anunnaki) | RC-488 | relaciona-se-a | -> | - |
 
 ## Seres Associados
 Javé (RC-001).

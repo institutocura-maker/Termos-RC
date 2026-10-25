@@ -29,27 +29,27 @@ Não significa isolamento intelectual nem recusa de estudo. Implica:
 
 
 ## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Mentalma | RC-166 | ← relaciona-se-a |
-| Liberdade Mental (premissa do Quarto Logos) | RC-253 | relaciona-se-a |
-| Protagonismo consciencial | RC-509 | realiza |
-| Novo Homo sapiens (evolução que terá de vir) | RC-544 | associado |
-| Disciplina dos 3As (respiração, mente, alinhamento) | RC-552 | usa |
-| Quarto Cérebro Humano | RC-614 | relaciona-se-a |
-| Superconsciência | RC-615 | relaciona-se-a |
-| Gestão da Sensação Pessoal | RC-633 | relaciona-se-a |
-| Verdade Posta × Verdade a Construir | RC-657 | relaciona-se-a |
-| Oitavo Dia da Criação | RC-694 | ← envolve |
-| Oitavo Dia da Criação | RC-694 | realiza |
-| Postulados Quânticos como Manual Operativo | RC-703 | ← orienta |
-| Ato de Verdade / Satyagraha | RC-705 | ← orienta |
-| Lei da Mente do Buda | RC-712 | ← orienta |
-| Agenda Espiritual | RC-752 | ← relaciona-se-a |
-| Chave da Decifração Universal | RC-754 | ← relaciona-se-a |
-| Escola da Decifração da Realidade (Método Druídico) | RC-755 | ← relaciona-se-a |
-| As Cinco Lentes da Realidade | RC-761 | associado |
-| As Três Escalas da Consciência (Sábio → Mago → Iniciado) | RC-762 | ← relaciona-se-a |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Mentalma | RC-166 | relaciona-se-a | <- | - |
+| Liberdade Mental (premissa do Quarto Logos) | RC-253 | relaciona-se-a | -> | - |
+| Protagonismo consciencial | RC-509 | usa | -> | consolidação: "realiza" → "usa" |
+| Novo Homo sapiens (evolução que terá de vir) | RC-544 | associado | <-> | - |
+| Disciplina dos 3As (respiração, mente, alinhamento) | RC-552 | usa | -> | - |
+| Quarto Cérebro Humano | RC-614 | relaciona-se-a | -> | - |
+| Superconsciência | RC-615 | relaciona-se-a | -> | - |
+| Gestão da Sensação Pessoal | RC-633 | relaciona-se-a | -> | - |
+| Verdade Posta × Verdade a Construir | RC-657 | relaciona-se-a | -> | - |
+| Oitavo Dia da Criação | RC-694 | envolve | <- | - |
+| Oitavo Dia da Criação | RC-694 | usa | -> | consolidação: "realiza" → "usa" |
+| Postulados Quânticos como Manual Operativo | RC-703 | controla | <- | consolidação: "orienta" → "controla" |
+| Ato de Verdade / Satyagraha | RC-705 | controla | <- | consolidação: "orienta" → "controla" |
+| Lei da Mente do Buda | RC-712 | controla | <- | consolidação: "orienta" → "controla" |
+| Agenda Espiritual | RC-752 | relaciona-se-a | <- | - |
+| Chave da Decifração Universal | RC-754 | relaciona-se-a | <- | - |
+| Escola da Decifração da Realidade (Método Druídico) | RC-755 | relaciona-se-a | <- | - |
+| As Cinco Lentes da Realidade | RC-761 | associado | <-> | - |
+| As Três Escalas da Consciência (Sábio → Mago → Iniciado) | RC-762 | relaciona-se-a | <- | - |
 
 ## Fontes
 | Fonte | Localização | Tipo |
