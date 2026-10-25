@@ -1,999 +1,999 @@
 tipo_bruto;ocorrencias;relacao_controlada;direcao_controlada;notas_de_normalizacao;decisao_curatorial
 """Pai"" da trindade";1;;;"rótulo livre; revisão manual (sem colapso mecânico)";REVISAR
-(contexto);1;contexto;->;"qualificador preservado: contexto; qualificador promovido a rótulo-base";PROPOSTO
+(contexto);1;contexto;->;"qualificador preservado: contexto; qualificador promovido a rótulo-base";PROPOSTO-CONSOLIDACAO
 "**sem aresta** em `RELACOES`; **sem arquivo**";45;;;"sem aresta em RELACOES; sem arquivo";APROVADO
 "**sem aresta** em `RELACOES`; arquivo existe";146;;;"sem aresta em RELACOES; arquivo existe";APROVADO
 "**sem aresta** em `RELACOES`; arquivo existe (P5d)";5;;;"sem aresta em RELACOES; arquivo existe (P5d)";APROVADO
 a fala põe o processador da família **dentro** da nave: mesma cena, duas fichas;1;;;"rótulo livre; revisão manual (sem colapso mecânico)";REVISAR
-abrange;1;abrange;->;;PROPOSTO
-abre;1;abre;->;;PROPOSTO
-abriga;4;abriga;->;;PROPOSTO
-acima-de;1;acima-de;->;;PROPOSTO
-acionado-por;1;acionado-por;->;;PROPOSTO
-acompanha;3;acompanha;->;;PROPOSTO
-acopla (consciência);1;acopla;->;qualificador preservado: consciência;PROPOSTO
-afeta;5;afeta;->;;PROPOSTO
-afeta (o condicionamento rompido);1;afeta;->;qualificador preservado: o condicionamento rompido;PROPOSTO
-afeta (retirada);1;afeta;->;qualificador preservado: retirada;PROPOSTO
-afronta;1;afronta;->;;PROPOSTO
-agente;7;agente;->;;PROPOSTO
-agente (ditadura);1;agente;->;qualificador preservado: ditadura;PROPOSTO
-agente (fé);1;agente;->;qualificador preservado: fé;PROPOSTO
-agentes;2;agentes;->;;PROPOSTO
-alimenta;2;alimenta;->;;PROPOSTO
-alimentada-por;1;alimentada-por;->;;PROPOSTO
-alvo;1;alvo;->;;PROPOSTO
-alvo-do-plano;1;alvo-do-plano;->;;PROPOSTO
-ambiente;2;ambiente;->;;PROPOSTO
-ameaça;1;ameaça;->;;PROPOSTO
-ancora;5;ancora;->;;PROPOSTO
-animalizou-via;1;animalizou-via;->;;PROPOSTO
-antecede;3;antecede;->;;PROPOSTO
-antídoto;1;antídoto;->;;PROPOSTO
-anuncia;1;anuncia;->;;PROPOSTO
-anunciada-por;1;anunciada-por;->;;PROPOSTO
-análogo;1;análogo;->;;PROPOSTO
+abrange;1;inclui;->;"consolidação: ""abrange"" → ""inclui""";PROPOSTO-CONSOLIDACAO
+abre;1;relaciona-se-a;->;"consolidação: ""abre"" → ""relaciona-se-a""";PROPOSTO-CONSOLIDACAO
+abriga;4;contexto;->;"consolidação: ""abriga"" → ""contexto""";PROPOSTO-CONSOLIDACAO
+acima-de;1;precede;->;"consolidação: ""acima-de"" → ""precede""";PROPOSTO-CONSOLIDACAO
+acionado-por;1;relaciona-se-a;->;"consolidação: ""acionado-por"" → ""relaciona-se-a""";PROPOSTO-CONSOLIDACAO
+acompanha;3;associado;<->;"consolidação: ""acompanha"" → ""associado""";PROPOSTO-CONSOLIDACAO
+acopla (consciência);1;associado;<->;"qualificador preservado: consciência; consolidação: ""acopla"" → ""associado""";PROPOSTO-CONSOLIDACAO
+afeta;5;causa;->;"consolidação: ""afeta"" → ""causa""";PROPOSTO-CONSOLIDACAO
+afeta (o condicionamento rompido);1;causa;->;"qualificador preservado: o condicionamento rompido; consolidação: ""afeta"" → ""causa""";PROPOSTO-CONSOLIDACAO
+afeta (retirada);1;causa;->;"qualificador preservado: retirada; consolidação: ""afeta"" → ""causa""";PROPOSTO-CONSOLIDACAO
+afronta;1;opõe-se-a;->;"consolidação: ""afronta"" → ""opõe-se-a""";PROPOSTO-CONSOLIDACAO
+agente;7;envolve;->;"consolidação: ""agente"" → ""envolve""";PROPOSTO-CONSOLIDACAO
+agente (ditadura);1;envolve;->;"qualificador preservado: ditadura; consolidação: ""agente"" → ""envolve""";PROPOSTO-CONSOLIDACAO
+agente (fé);1;envolve;->;"qualificador preservado: fé; consolidação: ""agente"" → ""envolve""";PROPOSTO-CONSOLIDACAO
+agentes;2;envolve;->;"consolidação: ""agentes"" → ""envolve""";PROPOSTO-CONSOLIDACAO
+alimenta;2;protege;->;"consolidação: ""alimenta"" → ""protege""";PROPOSTO-CONSOLIDACAO
+alimentada-por;1;protege;<-;"consolidação: ""alimentada-por"" → ""protege""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+alvo;1;relaciona-se-a;->;"consolidação: ""alvo"" → ""relaciona-se-a""";PROPOSTO-CONSOLIDACAO
+alvo-do-plano;1;relaciona-se-a;->;"consolidação: ""alvo-do-plano"" → ""relaciona-se-a""";PROPOSTO-CONSOLIDACAO
+ambiente;2;contexto;->;"consolidação: ""ambiente"" → ""contexto""";PROPOSTO-CONSOLIDACAO
+ameaça;1;causa;->;"consolidação: ""ameaça"" → ""causa""";PROPOSTO-CONSOLIDACAO
+ancora;5;contexto;->;"consolidação: ""ancora"" → ""contexto""";PROPOSTO-CONSOLIDACAO
+animalizou-via;1;relaciona-se-a;->;"consolidação: ""animalizou-via"" → ""relaciona-se-a""";PROPOSTO-CONSOLIDACAO
+antecede;3;precede;->;"consolidação: ""antecede"" → ""precede""";PROPOSTO-CONSOLIDACAO
+antídoto;1;protege;->;"consolidação: ""antídoto"" → ""protege""";PROPOSTO-CONSOLIDACAO
+anuncia;1;comunica;->;"consolidação: ""anuncia"" → ""comunica""";PROPOSTO-CONSOLIDACAO
+anunciada-por;1;comunica;<-;"consolidação: ""anunciada-por"" → ""comunica""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+análogo;1;variação;->;"consolidação: ""análogo"" → ""variação""";PROPOSTO-CONSOLIDACAO
 "análogo (aresta registrada na ficha RC-446; **não** há aresta em `RELACOES` para RC-089)";1;;;"análogo (aresta registrada na ficha RC-446; não há aresta em RELACOES para RC-089)";APROVADO
-apaga-via;1;apaga-via;->;;PROPOSTO
-apagou;1;apagou;->;;PROPOSTO
-apaixona-se-por;1;apaixona-se-por;->;;PROPOSTO
-aplica-se-a;19;aplica-se-a;->;;PROPOSTO
-apoia;1;apoia;->;;PROPOSTO
+apaga-via;1;danifica;->;"consolidação: ""apaga-via"" → ""danifica""";PROPOSTO-CONSOLIDACAO
+apagou;1;danifica;->;"consolidação: ""apagou"" → ""danifica""";PROPOSTO-CONSOLIDACAO
+apaixona-se-por;1;relaciona-se-a;->;"consolidação: ""apaixona-se-por"" → ""relaciona-se-a""";PROPOSTO-CONSOLIDACAO
+aplica-se-a;19;usa;->;"consolidação: ""aplica-se-a"" → ""usa""";PROPOSTO-CONSOLIDACAO
+apoia;1;protege;->;"consolidação: ""apoia"" → ""protege""";PROPOSTO-CONSOLIDACAO
 "arestas `relaciona-se-a` →RC-022/→RC-058/→RC-109 acrescentadas via B018 na aplicação F030 (05/09/2026); **ainda sem arquivo** (fila)";1;;;"arestas relaciona-se-a →RC-022/→RC-058/→RC-109 acrescentadas via B018 na aplicação F030 (05/09/2026); ainda sem arquivo (fila)";APROVADO
-armazenado-em;3;armazenado-em;->;;PROPOSTO
+armazenado-em;3;contexto;->;"consolidação: ""armazenado-em"" → ""contexto""";PROPOSTO-CONSOLIDACAO
 "arquivado na fila (F031 aplicação; sem ficha)";1;;;"qualificador preservado: F031 aplicação; sem ficha; rótulo livre; revisão manual (sem colapso mecânico)";REVISAR
 "arquivado na fila (F031 aplicação; sem ficha) — Fálias/Górias/Mírias/Múrias/Solia/Exólia (P2024-03-17)";1;;;"qualificador preservado: P2024-03-17; rótulo livre; revisão manual (sem colapso mecânico)";REVISAR
-assessora;1;assessora;->;;PROPOSTO
-associa-se-a;1;associa-se-a;->;;PROPOSTO
-associada-a;3;associado;<->;raiz semântica associado (decisão 3);PROPOSTO
+assessora;1;controla;->;"consolidação: ""assessora"" → ""controla""";PROPOSTO-CONSOLIDACAO
+associa-se-a;1;associado;<->;"consolidação: ""associa-se-a"" → ""associado""";PROPOSTO-CONSOLIDACAO
+associada-a;3;associado;<->;raiz semântica associado (decisão 3);PROPOSTO-CONSOLIDACAO
 associado;2714;associado;<->;;APROVADO
 associado-a;59;associado;<->;;APROVADO
-associado-a (apêndice);1;associado;<->;"qualificador preservado: apêndice; raiz semântica associado (decisão 3)";PROPOSTO
-associado-a (base luciferiana);1;associado;<->;"qualificador preservado: base luciferiana; raiz semântica associado (decisão 3)";PROPOSTO
-associado-a (cargo da família);1;associado;<->;"qualificador preservado: cargo da família; raiz semântica associado (decisão 3)";PROPOSTO
-associado-a (circuito);1;associado;<->;"qualificador preservado: circuito; raiz semântica associado (decisão 3)";PROPOSTO
-associado-a (cita RC-436);1;associado;<->;"qualificador preservado: cita RC-436; raiz semântica associado (decisão 3)";PROPOSTO
-"associado-a (coautor da caixa; o ""encerramento"")";1;associado;<->;"qualificador preservado: coautor da caixa; o ""encerramento""; raiz semântica associado (decisão 3)";PROPOSTO
-"associado-a (executor das ordens; coautor da caixa)";1;associado;<->;"qualificador preservado: executor das ordens; coautor da caixa; raiz semântica associado (decisão 3)";PROPOSTO
-associado-a (família Adhy);2;associado;<->;"qualificador preservado: família Adhy; raiz semântica associado (decisão 3)";PROPOSTO
-associado-a (imantação → Adhyatman);1;associado;<->;"qualificador preservado: imantação → Adhyatman; raiz semântica associado (decisão 3)";PROPOSTO
-associado-a (Império de Antlar);1;associado;<->;"qualificador preservado: Império de Antlar; raiz semântica associado (decisão 3)";PROPOSTO
-associado-a (instância);1;associado;<->;"qualificador preservado: instância; raiz semântica associado (decisão 3)";PROPOSTO
-associado-a (localização);1;associado;<->;"qualificador preservado: localização; raiz semântica associado (decisão 3)";PROPOSTO
-associado-a (o Codificador de Zion);1;associado;<->;"qualificador preservado: o Codificador de Zion; raiz semântica associado (decisão 3)";PROPOSTO
-associado-a (par complementar);2;associado;<->;"qualificador preservado: par complementar; raiz semântica associado (decisão 3)";PROPOSTO
-associado-a (passagem-chave);1;associado;<->;"qualificador preservado: passagem-chave; raiz semântica associado (decisão 3)";PROPOSTO
-associado-a (sediada em Benem);1;associado;<->;"qualificador preservado: sediada em Benem; raiz semântica associado (decisão 3)";PROPOSTO
-associado-a (suporte);1;associado;<->;"qualificador preservado: suporte; raiz semântica associado (decisão 3)";PROPOSTO
-associado-a (transferência);1;associado;<->;"qualificador preservado: transferência; raiz semântica associado (decisão 3)";PROPOSTO
-associado-a (vampirizava);1;associado;<->;"qualificador preservado: vampirizava; raiz semântica associado (decisão 3)";PROPOSTO
+associado-a (apêndice);1;associado;<->;"qualificador preservado: apêndice; raiz semântica associado (decisão 3)";PROPOSTO-CONSOLIDACAO
+associado-a (base luciferiana);1;associado;<->;"qualificador preservado: base luciferiana; raiz semântica associado (decisão 3)";PROPOSTO-CONSOLIDACAO
+associado-a (cargo da família);1;associado;<->;"qualificador preservado: cargo da família; raiz semântica associado (decisão 3)";PROPOSTO-CONSOLIDACAO
+associado-a (circuito);1;associado;<->;"qualificador preservado: circuito; raiz semântica associado (decisão 3)";PROPOSTO-CONSOLIDACAO
+associado-a (cita RC-436);1;associado;<->;"qualificador preservado: cita RC-436; raiz semântica associado (decisão 3)";PROPOSTO-CONSOLIDACAO
+"associado-a (coautor da caixa; o ""encerramento"")";1;associado;<->;"qualificador preservado: coautor da caixa; o ""encerramento""; raiz semântica associado (decisão 3)";PROPOSTO-CONSOLIDACAO
+"associado-a (executor das ordens; coautor da caixa)";1;associado;<->;"qualificador preservado: executor das ordens; coautor da caixa; raiz semântica associado (decisão 3)";PROPOSTO-CONSOLIDACAO
+associado-a (família Adhy);2;associado;<->;"qualificador preservado: família Adhy; raiz semântica associado (decisão 3)";PROPOSTO-CONSOLIDACAO
+associado-a (imantação → Adhyatman);1;associado;<->;"qualificador preservado: imantação → Adhyatman; raiz semântica associado (decisão 3)";PROPOSTO-CONSOLIDACAO
+associado-a (Império de Antlar);1;associado;<->;"qualificador preservado: Império de Antlar; raiz semântica associado (decisão 3)";PROPOSTO-CONSOLIDACAO
+associado-a (instância);1;associado;<->;"qualificador preservado: instância; raiz semântica associado (decisão 3)";PROPOSTO-CONSOLIDACAO
+associado-a (localização);1;associado;<->;"qualificador preservado: localização; raiz semântica associado (decisão 3)";PROPOSTO-CONSOLIDACAO
+associado-a (o Codificador de Zion);1;associado;<->;"qualificador preservado: o Codificador de Zion; raiz semântica associado (decisão 3)";PROPOSTO-CONSOLIDACAO
+associado-a (par complementar);2;associado;<->;"qualificador preservado: par complementar; raiz semântica associado (decisão 3)";PROPOSTO-CONSOLIDACAO
+associado-a (passagem-chave);1;associado;<->;"qualificador preservado: passagem-chave; raiz semântica associado (decisão 3)";PROPOSTO-CONSOLIDACAO
+associado-a (sediada em Benem);1;associado;<->;"qualificador preservado: sediada em Benem; raiz semântica associado (decisão 3)";PROPOSTO-CONSOLIDACAO
+associado-a (suporte);1;associado;<->;"qualificador preservado: suporte; raiz semântica associado (decisão 3)";PROPOSTO-CONSOLIDACAO
+associado-a (transferência);1;associado;<->;"qualificador preservado: transferência; raiz semântica associado (decisão 3)";PROPOSTO-CONSOLIDACAO
+associado-a (vampirizava);1;associado;<->;"qualificador preservado: vampirizava; raiz semântica associado (decisão 3)";PROPOSTO-CONSOLIDACAO
 assume o comando;1;;;"rótulo livre; revisão manual (sem colapso mecânico)";REVISAR
-assume-regência;1;assume-regência;->;;PROPOSTO
-ativou;1;ativou;->;;PROPOSTO
-atravessa;3;atravessa;->;;PROPOSTO
-atravessada-por;1;atravessada-por;->;;PROPOSTO
-atribuída-em-teologia-comparada-a;1;atribuída-em-teologia-comparada-a;->;;PROPOSTO
-atribuído-a;1;atribuído-a;->;;PROPOSTO
-atribuído-em-teologia-comparada-a;1;atribuído-em-teologia-comparada-a;->;;PROPOSTO
-atua-em;7;atua-em;->;;PROPOSTO
-atua-por;1;atua-por;->;;PROPOSTO
-atua-sobre;2;atua-sobre;->;;PROPOSTO
+assume-regência;1;controla;->;"consolidação: ""assume-regência"" → ""controla""";PROPOSTO-CONSOLIDACAO
+ativou;1;relaciona-se-a;->;"consolidação: ""ativou"" → ""relaciona-se-a""";PROPOSTO-CONSOLIDACAO
+atravessa;3;contexto;->;"consolidação: ""atravessa"" → ""contexto""";PROPOSTO-CONSOLIDACAO
+atravessada-por;1;contexto;<-;"consolidação: ""atravessada-por"" → ""contexto""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+atribuída-em-teologia-comparada-a;1;variação;<-;"consolidação: ""atribuída-em-teologia-comparada-a"" → ""variação""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+atribuído-a;1;variação;<-;"consolidação: ""atribuído-a"" → ""variação""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+atribuído-em-teologia-comparada-a;1;variação;->;"consolidação: ""atribuído-em-teologia-comparada-a"" → ""variação""";PROPOSTO-CONSOLIDACAO
+atua-em;7;contexto;->;"consolidação: ""atua-em"" → ""contexto""";PROPOSTO-CONSOLIDACAO
+atua-por;1;contexto;->;"consolidação: ""atua-por"" → ""contexto""";PROPOSTO-CONSOLIDACAO
+atua-sobre;2;contexto;->;"consolidação: ""atua-sobre"" → ""contexto""";PROPOSTO-CONSOLIDACAO
 atual agente;1;;;"rótulo livre; revisão manual (sem colapso mecânico)";REVISAR
-atualiza;7;atualiza;->;;PROPOSTO
-autores;2;autores;->;;PROPOSTO
-avaliado-por;1;avaliado-por;->;;PROPOSTO
-avatar-de;2;avatar-de;->;;PROPOSTO
-base;1;base;->;;PROPOSTO
-base-de;2;base-de;->;;PROPOSTO
-base-do;1;base-do;->;;PROPOSTO
-baseada-em;2;baseada-em;->;;PROPOSTO
-bate-duro-por;2;bate-duro-por;->;;PROPOSTO
-beneficia;1;beneficia;->;;PROPOSTO
-beneficia (alvo do favor);1;beneficia;->;qualificador preservado: alvo do favor;PROPOSTO
-beneficia (o Ser adoentado);1;beneficia;->;qualificador preservado: o Ser adoentado;PROPOSTO
-busca;1;busca;->;;PROPOSTO
-caminho-para-reacender;2;caminho-para-reacender;->;;PROPOSTO
-canaliza;1;canaliza;->;;PROPOSTO
-capacita;1;capacita;->;;PROPOSTO
-carrega;1;carrega;->;;PROPOSTO
-co-clona-com;1;co-clona-com;->;;PROPOSTO
-co-executa;2;co-executa;->;;PROPOSTO
-cobra;1;cobra;->;;PROPOSTO
-codifica-transmite;1;codifica-transmite;->;;PROPOSTO
-codificado-em;1;codificado-em;->;;PROPOSTO
+atualiza;7;causa;->;"consolidação: ""atualiza"" → ""causa""";PROPOSTO-CONSOLIDACAO
+autores;2;envolve;->;"consolidação: ""autores"" → ""envolve""";PROPOSTO-CONSOLIDACAO
+avaliado-por;1;controla;<-;"consolidação: ""avaliado-por"" → ""controla""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+avatar-de;2;origina;->;"consolidação: ""avatar-de"" → ""origina""";PROPOSTO-CONSOLIDACAO
+base;1;requer;->;"consolidação: ""base"" → ""requer""";PROPOSTO-CONSOLIDACAO
+base-de;2;requer;->;"consolidação: ""base-de"" → ""requer""";PROPOSTO-CONSOLIDACAO
+base-do;1;requer;->;"consolidação: ""base-do"" → ""requer""";PROPOSTO-CONSOLIDACAO
+baseada-em;2;requer;->;"consolidação: ""baseada-em"" → ""requer""";PROPOSTO-CONSOLIDACAO
+bate-duro-por;2;relaciona-se-a;->;"consolidação: ""bate-duro-por"" → ""relaciona-se-a""";PROPOSTO-CONSOLIDACAO
+beneficia;1;causa;->;"consolidação: ""beneficia"" → ""causa""";PROPOSTO-CONSOLIDACAO
+beneficia (alvo do favor);1;causa;->;"qualificador preservado: alvo do favor; consolidação: ""beneficia"" → ""causa""";PROPOSTO-CONSOLIDACAO
+beneficia (o Ser adoentado);1;causa;->;"qualificador preservado: o Ser adoentado; consolidação: ""beneficia"" → ""causa""";PROPOSTO-CONSOLIDACAO
+busca;1;relaciona-se-a;->;"consolidação: ""busca"" → ""relaciona-se-a""";PROPOSTO-CONSOLIDACAO
+caminho-para-reacender;2;relaciona-se-a;->;"consolidação: ""caminho-para-reacender"" → ""relaciona-se-a""";PROPOSTO-CONSOLIDACAO
+canaliza;1;usa;->;"consolidação: ""canaliza"" → ""usa""";PROPOSTO-CONSOLIDACAO
+capacita;1;causa;->;"consolidação: ""capacita"" → ""causa""";PROPOSTO-CONSOLIDACAO
+carrega;1;transfere;->;"consolidação: ""carrega"" → ""transfere""";PROPOSTO-CONSOLIDACAO
+co-clona-com;1;associado;<->;"consolidação: ""co-clona-com"" → ""associado""";PROPOSTO-CONSOLIDACAO
+co-executa;2;envolve;->;"consolidação: ""co-executa"" → ""envolve""";PROPOSTO-CONSOLIDACAO
+cobra;1;relaciona-se-a;->;"consolidação: ""cobra"" → ""relaciona-se-a""";PROPOSTO-CONSOLIDACAO
+codifica-transmite;1;usa;->;"consolidação: ""codifica-transmite"" → ""usa""";PROPOSTO-CONSOLIDACAO
+codificado-em;1;usa;->;"consolidação: ""codificado-em"" → ""usa""";PROPOSTO-CONSOLIDACAO
 codificador atual;1;;;"rótulo livre; revisão manual (sem colapso mecânico)";REVISAR
-colapsa;3;colapsa;->;;PROPOSTO
-comandava;1;comandava;->;;PROPOSTO
-combate;1;combate;->;;PROPOSTO
-começa-em;1;começa-em;->;;PROPOSTO
-compara-se-a;1;compara-se-a;->;;PROPOSTO
-comparado-a;1;comparado-a;->;;PROPOSTO
-compõe;9;compõe;->;;PROPOSTO
-comunica-com;1;comunica-com;->;;PROPOSTO
-condensa;1;condensa;->;;PROPOSTO
-condição;2;condição;->;;PROPOSTO
+colapsa;3;danifica;->;"consolidação: ""colapsa"" → ""danifica""";PROPOSTO-CONSOLIDACAO
+comandava;1;controla;->;"consolidação: ""comandava"" → ""controla""";PROPOSTO-CONSOLIDACAO
+combate;1;danifica;->;"consolidação: ""combate"" → ""danifica""";PROPOSTO-CONSOLIDACAO
+começa-em;1;precede;->;"consolidação: ""começa-em"" → ""precede""";PROPOSTO-CONSOLIDACAO
+compara-se-a;1;variação;->;"consolidação: ""compara-se-a"" → ""variação""";PROPOSTO-CONSOLIDACAO
+comparado-a;1;variação;->;"consolidação: ""comparado-a"" → ""variação""";PROPOSTO-CONSOLIDACAO
+compõe;9;inclui;->;"consolidação: ""compõe"" → ""inclui""";PROPOSTO-CONSOLIDACAO
+comunica-com;1;comunica;->;"consolidação: ""comunica-com"" → ""comunica""";PROPOSTO-CONSOLIDACAO
+condensa;1;inclui;->;"consolidação: ""condensa"" → ""inclui""";PROPOSTO-CONSOLIDACAO
+condição;2;relaciona-se-a;->;"consolidação: ""condição"" → ""relaciona-se-a""";PROPOSTO-CONSOLIDACAO
 condição espiritual;1;;;"rótulo livre; revisão manual (sem colapso mecânico)";REVISAR
 condição perdida;1;;;"rótulo livre; revisão manual (sem colapso mecânico)";REVISAR
 condição pré-queda;1;;;"rótulo livre; revisão manual (sem colapso mecânico)";REVISAR
 condição prévia;2;;;"rótulo livre; revisão manual (sem colapso mecânico)";REVISAR
-condição-de;1;condição-de;->;;PROPOSTO
-condição-de (gênero);1;condição-de;->;qualificador preservado: gênero;PROPOSTO
-conecta;1;conecta;->;;PROPOSTO
-conecta-se-por;2;conecta-se-por;->;;PROPOSTO
-confirmada-por;1;confirmada-por;->;;PROPOSTO
-confronta;3;confronta;->;;PROPOSTO
-consequência;1;consequência;->;;PROPOSTO
-contaminou-via;2;contaminou-via;->;;PROPOSTO
-contato;1;contato;->;;PROPOSTO
-contemporâneo;1;contemporâneo;->;;PROPOSTO
+condição-de;1;requer;->;"consolidação: ""condição-de"" → ""requer""";PROPOSTO-CONSOLIDACAO
+condição-de (gênero);1;requer;->;"qualificador preservado: gênero; consolidação: ""condição-de"" → ""requer""";PROPOSTO-CONSOLIDACAO
+conecta;1;associado;<->;"consolidação: ""conecta"" → ""associado""";PROPOSTO-CONSOLIDACAO
+conecta-se-por;2;associado;<->;"consolidação: ""conecta-se-por"" → ""associado""";PROPOSTO-CONSOLIDACAO
+confirmada-por;1;relaciona-se-a;<-;"consolidação: ""confirmada-por"" → ""relaciona-se-a""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+confronta;3;opõe-se-a;->;"consolidação: ""confronta"" → ""opõe-se-a""";PROPOSTO-CONSOLIDACAO
+consequência;1;causa;->;"consolidação: ""consequência"" → ""causa""";PROPOSTO-CONSOLIDACAO
+contaminou-via;2;danifica;->;"consolidação: ""contaminou-via"" → ""danifica""";PROPOSTO-CONSOLIDACAO
+contato;1;associado;<->;"consolidação: ""contato"" → ""associado""";PROPOSTO-CONSOLIDACAO
+contemporâneo;1;relaciona-se-a;->;"consolidação: ""contemporâneo"" → ""relaciona-se-a""";PROPOSTO-CONSOLIDACAO
 contexto;44;contexto;->;;APROVADO
-contexto (domínio);1;contexto;->;qualificador preservado: domínio;PROPOSTO
+contexto (domínio);1;contexto;->;qualificador preservado: domínio;PROPOSTO-CONSOLIDACAO
 contexto posterior;1;;;"rótulo livre; revisão manual (sem colapso mecânico)";REVISAR
-contexto-de;1;contexto-de;->;;PROPOSTO
-contextualiza;10;contextualiza;->;;PROPOSTO
-contextualizado-por;6;contextualizado-por;->;;PROPOSTO
-continua;2;continua;->;;PROPOSTO
-contraponto;3;contraponto;->;;PROPOSTO
-contraponto-a;1;contraponto-a;->;;PROPOSTO
-contrapõe-a;2;contrapõe-a;->;;PROPOSTO
-contribuiu-para;1;contribuiu-para;->;;PROPOSTO
-contém-germe-de;1;contém-germe-de;->;;PROPOSTO
-contêm;1;contêm;->;;PROPOSTO
-converte-se-em;1;converte-se-em;->;;PROPOSTO
-convertida-em (cidadela);1;convertida-em;->;qualificador preservado: cidadela;PROPOSTO
-convertida-em (estação Benem);1;convertida-em;->;qualificador preservado: estação Benem;PROPOSTO
-convoca;1;convoca;->;;PROPOSTO
-correlato (física quântica);1;correlato;->;qualificador preservado: física quântica;PROPOSTO
-corresponde-a;3;corresponde-a;->;;PROPOSTO
-correspondência-em-teologia-comparada-de;5;correspondência-em-teologia-comparada-de;->;;PROPOSTO
-corrompe-via;1;corrompe-via;->;;PROPOSTO
-cria;5;cria;->;;PROPOSTO
-cria (o criador tirânico);1;cria;->;qualificador preservado: o criador tirânico;PROPOSTO
-criada-por (a co-criadora);1;criada-por;->;qualificador preservado: a co-criadora;PROPOSTO
-criado-por;8;criado-por;->;;PROPOSTO
-criado-por (agente);1;criado-por;->;qualificador preservado: agente;PROPOSTO
-criado-por (origem);1;criado-por;->;qualificador preservado: origem;PROPOSTO
-criador;1;criador;->;;PROPOSTO
+contexto-de;1;contexto;->;"consolidação: ""contexto-de"" → ""contexto""";PROPOSTO-CONSOLIDACAO
+contextualiza;10;contexto;->;"consolidação: ""contextualiza"" → ""contexto""";PROPOSTO-CONSOLIDACAO
+contextualizado-por;6;contexto;<-;"consolidação: ""contextualizado-por"" → ""contexto""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+continua;2;sucede;->;"consolidação: ""continua"" → ""sucede""";PROPOSTO-CONSOLIDACAO
+contraponto;3;associado;<->;"consolidação: ""contraponto"" → ""associado""";PROPOSTO-CONSOLIDACAO
+contraponto-a;1;opõe-se-a;->;"consolidação: ""contraponto-a"" → ""opõe-se-a""";PROPOSTO-CONSOLIDACAO
+contrapõe-a;2;opõe-se-a;->;"consolidação: ""contrapõe-a"" → ""opõe-se-a""";PROPOSTO-CONSOLIDACAO
+contribuiu-para;1;causa;->;"consolidação: ""contribuiu-para"" → ""causa""";PROPOSTO-CONSOLIDACAO
+contém-germe-de;1;inclui;->;"consolidação: ""contém-germe-de"" → ""inclui""";PROPOSTO-CONSOLIDACAO
+contêm;1;inclui;->;"consolidação: ""contêm"" → ""inclui""";PROPOSTO-CONSOLIDACAO
+converte-se-em;1;variação;->;"consolidação: ""converte-se-em"" → ""variação""";PROPOSTO-CONSOLIDACAO
+convertida-em (cidadela);1;variação;->;"qualificador preservado: cidadela; consolidação: ""convertida-em"" → ""variação""";PROPOSTO-CONSOLIDACAO
+convertida-em (estação Benem);1;variação;->;"qualificador preservado: estação Benem; consolidação: ""convertida-em"" → ""variação""";PROPOSTO-CONSOLIDACAO
+convoca;1;comunica;->;"consolidação: ""convoca"" → ""comunica""";PROPOSTO-CONSOLIDACAO
+correlato (física quântica);1;associado;<->;"qualificador preservado: física quântica; consolidação: ""correlato"" → ""associado""";PROPOSTO-CONSOLIDACAO
+corresponde-a;3;variação;->;"consolidação: ""corresponde-a"" → ""variação""";PROPOSTO-CONSOLIDACAO
+correspondência-em-teologia-comparada-de;5;variação;->;"consolidação: ""correspondência-em-teologia-comparada-de"" → ""variação""";PROPOSTO-CONSOLIDACAO
+corrompe-via;1;danifica;->;"consolidação: ""corrompe-via"" → ""danifica""";PROPOSTO-CONSOLIDACAO
+cria;5;origina;->;"consolidação: ""cria"" → ""origina""";PROPOSTO-CONSOLIDACAO
+cria (o criador tirânico);1;origina;->;"qualificador preservado: o criador tirânico; consolidação: ""cria"" → ""origina""";PROPOSTO-CONSOLIDACAO
+criada-por (a co-criadora);1;origina;<-;"qualificador preservado: a co-criadora; consolidação: ""criada-por"" → ""origina""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+criado-por;8;origina;<-;"consolidação: ""criado-por"" → ""origina""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+criado-por (agente);1;origina;<-;"qualificador preservado: agente; consolidação: ""criado-por"" → ""origina""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+criado-por (origem);1;origina;<-;"qualificador preservado: origem; consolidação: ""criado-por"" → ""origina""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+criador;1;origina;->;"consolidação: ""criador"" → ""origina""";PROPOSTO-CONSOLIDACAO
 criados pela vibração Rajas;1;;;"rótulo livre; revisão manual (sem colapso mecânico)";REVISAR
-criou;1;criou;->;;PROPOSTO
-critica;2;critica;->;;PROPOSTO
-cumpre;2;cumpre;->;;PROPOSTO
-cumpre-se-em;1;cumpre-se-em;->;;PROPOSTO
+criou;1;origina;->;"consolidação: ""criou"" → ""origina""";PROPOSTO-CONSOLIDACAO
+critica;2;opõe-se-a;->;"consolidação: ""critica"" → ""opõe-se-a""";PROPOSTO-CONSOLIDACAO
+cumpre;2;usa;->;"consolidação: ""cumpre"" → ""usa""";PROPOSTO-CONSOLIDACAO
+cumpre-se-em;1;usa;->;"consolidação: ""cumpre-se-em"" → ""usa""";PROPOSTO-CONSOLIDACAO
 cumpre-se-em RC-718;1;;;"rótulo livre; revisão manual (sem colapso mecânico)";REVISAR
 código transferido;1;;;"rótulo livre; revisão manual (sem colapso mecânico)";REVISAR
-denuncia;1;denuncia;->;;PROPOSTO
-depende-de;2;depende-de;->;;PROPOSTO
-deriva-de;2;deriva-de;->;;PROPOSTO
-descende-de;2;descende-de;->;;PROPOSTO
-descende-de-membro-de;1;descende-de-membro-de;->;;PROPOSTO
-descendente-de;1;descendente-de;->;;PROPOSTO
-descoberto-por;1;descoberto-por;->;;PROPOSTO
-descreve-transferência-de;1;descreve-transferência-de;->;;PROPOSTO
-desdobramento;11;desdobramento;->;;PROPOSTO
+denuncia;1;opõe-se-a;->;"consolidação: ""denuncia"" → ""opõe-se-a""";PROPOSTO-CONSOLIDACAO
+depende-de;2;requer;->;"consolidação: ""depende-de"" → ""requer""";PROPOSTO-CONSOLIDACAO
+deriva-de;2;origina;<-;"consolidação: ""deriva-de"" → ""origina""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+descende-de;2;origina;<-;"consolidação: ""descende-de"" → ""origina""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+descende-de-membro-de;1;origina;->;"consolidação: ""descende-de-membro-de"" → ""origina""";PROPOSTO-CONSOLIDACAO
+descendente-de;1;origina;->;"consolidação: ""descendente-de"" → ""origina""";PROPOSTO-CONSOLIDACAO
+descoberto-por;1;observa;<-;"consolidação: ""descoberto-por"" → ""observa""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+descreve-transferência-de;1;explica;->;"consolidação: ""descreve-transferência-de"" → ""explica""";PROPOSTO-CONSOLIDACAO
+desdobramento;11;sucede;->;"consolidação: ""desdobramento"" → ""sucede""";PROPOSTO-CONSOLIDACAO
 desdobramento biológico;1;;;"rótulo livre; revisão manual (sem colapso mecânico)";REVISAR
-desenvolve;2;desenvolve;->;;PROPOSTO
-desenvolvida-em;1;desenvolvida-em;->;;PROPOSTO
-desestrutura;1;desestrutura;->;;PROPOSTO
-desfaz-arcanos-de;1;desfaz-arcanos-de;->;;PROPOSTO
-desfecho-de;2;desfecho-de;->;;PROPOSTO
-desmaiou-aos-pés-da-cruz-de;1;desmaiou-aos-pés-da-cruz-de;->;;PROPOSTO
-destinada-a;1;destinada-a;->;;PROPOSTO
-destinado-a;1;destinado-a;->;;PROPOSTO
-destinatário;1;destinatário;->;;PROPOSTO
-destinação-de;1;destinação-de;->;;PROPOSTO
-destinação-gerida-por;2;destinação-gerida-por;->;;PROPOSTO
-destino;3;destino;->;;PROPOSTO
-destino (código de vida);1;destino;->;qualificador preservado: código de vida;PROPOSTO
+desenvolve;2;associado;<->;"consolidação: ""desenvolve"" → ""associado""";PROPOSTO-CONSOLIDACAO
+desenvolvida-em;1;contexto;->;"consolidação: ""desenvolvida-em"" → ""contexto""";PROPOSTO-CONSOLIDACAO
+desestrutura;1;danifica;->;"consolidação: ""desestrutura"" → ""danifica""";PROPOSTO-CONSOLIDACAO
+desfaz-arcanos-de;1;relaciona-se-a;->;"consolidação: ""desfaz-arcanos-de"" → ""relaciona-se-a""";PROPOSTO-CONSOLIDACAO
+desfecho-de;2;sucede;->;"consolidação: ""desfecho-de"" → ""sucede""";PROPOSTO-CONSOLIDACAO
+desmaiou-aos-pés-da-cruz-de;1;relaciona-se-a;->;"consolidação: ""desmaiou-aos-pés-da-cruz-de"" → ""relaciona-se-a""";PROPOSTO-CONSOLIDACAO
+destinada-a;1;transfere;->;"consolidação: ""destinada-a"" → ""transfere""";PROPOSTO-CONSOLIDACAO
+destinado-a;1;transfere;->;"consolidação: ""destinado-a"" → ""transfere""";PROPOSTO-CONSOLIDACAO
+destinatário;1;transfere;->;"consolidação: ""destinatário"" → ""transfere""";PROPOSTO-CONSOLIDACAO
+destinação-de;1;transfere;->;"consolidação: ""destinação-de"" → ""transfere""";PROPOSTO-CONSOLIDACAO
+destinação-gerida-por;2;transfere;->;"consolidação: ""destinação-gerida-por"" → ""transfere""";PROPOSTO-CONSOLIDACAO
+destino;3;transfere;->;"consolidação: ""destino"" → ""transfere""";PROPOSTO-CONSOLIDACAO
+destino (código de vida);1;transfere;->;"qualificador preservado: código de vida; consolidação: ""destino"" → ""transfere""";PROPOSTO-CONSOLIDACAO
 destino de travessia, segundo a narrativa;1;;;"rótulo livre; revisão manual (sem colapso mecânico)";REVISAR
-destruiu-centralizado-em;1;destruiu-centralizado-em;->;;PROPOSTO
-destruiu-clone-de;1;destruiu-clone-de;->;;PROPOSTO
-destruiu-mito-de;2;destruiu-mito-de;->;;PROPOSTO
-destruído-em;1;destruído-em;->;;PROPOSTO
-destrói;1;destrói;->;;PROPOSTO
-diagnosticou;2;diagnosticou;->;;PROPOSTO
-disputada-por;1;disputada-por;->;;PROPOSTO
-distingue-se;4;distingue-se;->;;PROPOSTO
-distingue-se-de;13;distingue-se-de;->;;PROPOSTO
-distorce (paralelo hindu);1;distorce;->;qualificador preservado: paralelo hindu;PROPOSTO
-dita-por;1;dita-por;->;;PROPOSTO
-divide-com;1;divide-com;->;;PROPOSTO
-divide-se-em;2;divide-se-em;->;;PROPOSTO
-doadores;1;doadores;->;;PROPOSTO
-dominado-por;1;dominado-por;->;;PROPOSTO
-dá-suporte-a;1;dá-suporte-a;->;;PROPOSTO
-edificada-por;1;edificada-por;->;;PROPOSTO
-efeito;1;efeito;->;;PROPOSTO
-encarnação-de;4;encarnação-de;->;;PROPOSTO
-encarnação-posterior-de;4;encarnação-posterior-de;->;;PROPOSTO
-encerra-com;2;encerra-com;->;;PROPOSTO
-encerra-se-com;1;encerra-se-com;->;;PROPOSTO
+destruiu-centralizado-em;1;danifica;->;"consolidação: ""destruiu-centralizado-em"" → ""danifica""";PROPOSTO-CONSOLIDACAO
+destruiu-clone-de;1;danifica;->;"consolidação: ""destruiu-clone-de"" → ""danifica""";PROPOSTO-CONSOLIDACAO
+destruiu-mito-de;2;danifica;->;"consolidação: ""destruiu-mito-de"" → ""danifica""";PROPOSTO-CONSOLIDACAO
+destruído-em;1;danifica;->;"consolidação: ""destruído-em"" → ""danifica""";PROPOSTO-CONSOLIDACAO
+destrói;1;danifica;->;"consolidação: ""destrói"" → ""danifica""";PROPOSTO-CONSOLIDACAO
+diagnosticou;2;explica;->;"consolidação: ""diagnosticou"" → ""explica""";PROPOSTO-CONSOLIDACAO
+disputada-por;1;relaciona-se-a;<-;"consolidação: ""disputada-por"" → ""relaciona-se-a""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+distingue-se;4;opõe-se-a;->;"consolidação: ""distingue-se"" → ""opõe-se-a""";PROPOSTO-CONSOLIDACAO
+distingue-se-de;13;opõe-se-a;->;"consolidação: ""distingue-se-de"" → ""opõe-se-a""";PROPOSTO-CONSOLIDACAO
+distorce (paralelo hindu);1;danifica;->;"qualificador preservado: paralelo hindu; consolidação: ""distorce"" → ""danifica""";PROPOSTO-CONSOLIDACAO
+dita-por;1;controla;<-;"consolidação: ""dita-por"" → ""controla""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+divide-com;1;associado;<->;"consolidação: ""divide-com"" → ""associado""";PROPOSTO-CONSOLIDACAO
+divide-se-em;2;inclui;->;"consolidação: ""divide-se-em"" → ""inclui""";PROPOSTO-CONSOLIDACAO
+doadores;1;envolve;->;"consolidação: ""doadores"" → ""envolve""";PROPOSTO-CONSOLIDACAO
+dominado-por;1;controla;<-;"consolidação: ""dominado-por"" → ""controla""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+dá-suporte-a;1;protege;->;"consolidação: ""dá-suporte-a"" → ""protege""";PROPOSTO-CONSOLIDACAO
+edificada-por;1;origina;<-;"consolidação: ""edificada-por"" → ""origina""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+efeito;1;causa;->;"consolidação: ""efeito"" → ""causa""";PROPOSTO-CONSOLIDACAO
+encarnação-de;4;origina;->;"consolidação: ""encarnação-de"" → ""origina""";PROPOSTO-CONSOLIDACAO
+encarnação-posterior-de;4;origina;->;"consolidação: ""encarnação-posterior-de"" → ""origina""";PROPOSTO-CONSOLIDACAO
+encerra-com;2;sucede;->;"consolidação: ""encerra-com"" → ""sucede""";PROPOSTO-CONSOLIDACAO
+encerra-se-com;1;sucede;->;"consolidação: ""encerra-se-com"" → ""sucede""";PROPOSTO-CONSOLIDACAO
 energia geradora;1;;;"rótulo livre; revisão manual (sem colapso mecânico)";REVISAR
 energia Rajas;2;;;"rótulo livre; revisão manual (sem colapso mecânico)";REVISAR
-enfrentada-por;1;enfrentada-por;->;;PROPOSTO
-enviado-a;4;enviado-a;->;;PROPOSTO
+enfrentada-por;1;relaciona-se-a;<-;"consolidação: ""enfrentada-por"" → ""relaciona-se-a""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+enviado-a;4;transfere;->;"consolidação: ""enviado-a"" → ""transfere""";PROPOSTO-CONSOLIDACAO
 envolve;105;envolve;->;;APROVADO
-envolve (a confirmar);1;envolve;->;qualificador preservado: a confirmar;PROPOSTO
-"envolve (o alvo bélico do ""Exército"")";1;envolve;->;"qualificador preservado: o alvo bélico do ""Exército""";PROPOSTO
-envolve (o que é gerido);1;envolve;->;qualificador preservado: o que é gerido;PROPOSTO
-envolve (sistemas atingidos pela Revolta — B057);1;envolve;->;qualificador preservado: sistemas atingidos pela Revolta — B057;PROPOSTO
-envolvida-em;1;envolvida-em;->;;PROPOSTO
-equivale-em-função;1;equivale-em-função;->;;PROPOSTO
+envolve (a confirmar);1;envolve;->;qualificador preservado: a confirmar;PROPOSTO-CONSOLIDACAO
+"envolve (o alvo bélico do ""Exército"")";1;envolve;->;"qualificador preservado: o alvo bélico do ""Exército""";PROPOSTO-CONSOLIDACAO
+envolve (o que é gerido);1;envolve;->;qualificador preservado: o que é gerido;PROPOSTO-CONSOLIDACAO
+envolve (sistemas atingidos pela Revolta — B057);1;envolve;->;qualificador preservado: sistemas atingidos pela Revolta — B057;PROPOSTO-CONSOLIDACAO
+envolvida-em;1;envolve;->;"consolidação: ""envolvida-em"" → ""envolve""";PROPOSTO-CONSOLIDACAO
+equivale-em-função;1;variação;->;"consolidação: ""equivale-em-função"" → ""variação""";PROPOSTO-CONSOLIDACAO
 equivalência parcial;1;;;"rótulo livre; revisão manual (sem colapso mecânico)";REVISAR
-erro-stt-de;2;erro-stt-de;->;;PROPOSTO
-escapa-de;1;escapa-de;->;;PROPOSTO
-escrita-por;1;escrita-por;->;;PROPOSTO
-escrito-por;1;escrito-por;->;;PROPOSTO
-estabiliza;1;estabiliza;->;;PROPOSTO
-estratégia (modo de agir);1;estratégia;->;qualificador preservado: modo de agir;PROPOSTO
-estrutura-se-por;7;estrutura-se-por;->;;PROPOSTO
-estudado-por;1;estudado-por;->;;PROPOSTO
-está-em (volume II);1;está-em;->;qualificador preservado: volume II;PROPOSTO
-está-envolvido;2;está-envolvido;->;;PROPOSTO
-etimologia;1;etimologia;->;;PROPOSTO
-evento;2;evento;->;;PROPOSTO
-executa;1;executa;->;;PROPOSTO
-experimenta;1;experimenta;->;;PROPOSTO
-explica;6;explica;->;;PROPOSTO
-explicado-por;2;explicado-por;->;;PROPOSTO
-expressa-se-como (caídos);1;expressa-se-como;->;qualificador preservado: caídos;PROPOSTO
-expressa-se-em;1;expressa-se-em;->;;PROPOSTO
-expressa-sociabilidade-por;1;expressa-sociabilidade-por;->;;PROPOSTO
-expressão;4;expressão;->;;PROPOSTO
+erro-stt-de;2;contexto;->;"consolidação: ""erro-stt-de"" → ""contexto""";PROPOSTO-CONSOLIDACAO
+escapa-de;1;relaciona-se-a;->;"consolidação: ""escapa-de"" → ""relaciona-se-a""";PROPOSTO-CONSOLIDACAO
+escrita-por;1;comunica;<-;"consolidação: ""escrita-por"" → ""comunica""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+escrito-por;1;comunica;<-;"consolidação: ""escrito-por"" → ""comunica""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+estabiliza;1;protege;->;"consolidação: ""estabiliza"" → ""protege""";PROPOSTO-CONSOLIDACAO
+estratégia (modo de agir);1;relaciona-se-a;->;"qualificador preservado: modo de agir; consolidação: ""estratégia"" → ""relaciona-se-a""";PROPOSTO-CONSOLIDACAO
+estrutura-se-por;7;inclui;->;"consolidação: ""estrutura-se-por"" → ""inclui""";PROPOSTO-CONSOLIDACAO
+estudado-por;1;observa;<-;"consolidação: ""estudado-por"" → ""observa""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+está-em (volume II);1;contexto;->;"qualificador preservado: volume II; consolidação: ""está-em"" → ""contexto""";PROPOSTO-CONSOLIDACAO
+está-envolvido;2;envolve;->;"consolidação: ""está-envolvido"" → ""envolve""";PROPOSTO-CONSOLIDACAO
+etimologia;1;relaciona-se-a;->;"consolidação: ""etimologia"" → ""relaciona-se-a""";PROPOSTO-CONSOLIDACAO
+evento;2;relaciona-se-a;->;"consolidação: ""evento"" → ""relaciona-se-a""";PROPOSTO-CONSOLIDACAO
+executa;1;usa;->;"consolidação: ""executa"" → ""usa""";PROPOSTO-CONSOLIDACAO
+experimenta;1;observa;->;"consolidação: ""experimenta"" → ""observa""";PROPOSTO-CONSOLIDACAO
+explica;6;explica;->;;PROPOSTO-CONSOLIDACAO
+explicado-por;2;explica;<-;"consolidação: ""explicado-por"" → ""explica""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+expressa-se-como (caídos);1;representa;->;"qualificador preservado: caídos; consolidação: ""expressa-se-como"" → ""representa""";PROPOSTO-CONSOLIDACAO
+expressa-se-em;1;representa;->;"consolidação: ""expressa-se-em"" → ""representa""";PROPOSTO-CONSOLIDACAO
+expressa-sociabilidade-por;1;representa;->;"consolidação: ""expressa-sociabilidade-por"" → ""representa""";PROPOSTO-CONSOLIDACAO
+expressão;4;representa;->;"consolidação: ""expressão"" → ""representa""";PROPOSTO-CONSOLIDACAO
 expressão Adhyajna de Vishnu;1;;;"rótulo livre; revisão manual (sem colapso mecânico)";REVISAR
 expressão biológica;1;;;"rótulo livre; revisão manual (sem colapso mecânico)";REVISAR
 expressões da Trimurti;1;;;"rótulo livre; revisão manual (sem colapso mecânico)";REVISAR
-fase-de;2;fase-de;->;;PROPOSTO
-fator;2;fator;->;;PROPOSTO
-favorece;1;favorece;->;;PROPOSTO
-filha-de (o pai);1;filha-de;->;qualificador preservado: o pai;PROPOSTO
-finalidade;1;finalidade;->;;PROPOSTO
-fonte;2;fonte;->;;PROPOSTO
-fonte-em;1;fonte-em;->;;PROPOSTO
+fase-de;2;parte-de;->;"consolidação: ""fase-de"" → ""parte-de""";PROPOSTO-CONSOLIDACAO
+fator;2;relaciona-se-a;->;"consolidação: ""fator"" → ""relaciona-se-a""";PROPOSTO-CONSOLIDACAO
+favorece;1;causa;->;"consolidação: ""favorece"" → ""causa""";PROPOSTO-CONSOLIDACAO
+filha-de (o pai);1;origina;->;"qualificador preservado: o pai; consolidação: ""filha-de"" → ""origina""";PROPOSTO-CONSOLIDACAO
+finalidade;1;relaciona-se-a;->;"consolidação: ""finalidade"" → ""relaciona-se-a""";PROPOSTO-CONSOLIDACAO
+fonte;2;origina;->;"consolidação: ""fonte"" → ""origina""";PROPOSTO-CONSOLIDACAO
+fonte-em;1;origina;->;"consolidação: ""fonte-em"" → ""origina""";PROPOSTO-CONSOLIDACAO
 forma pós-queda;1;;;"rótulo livre; revisão manual (sem colapso mecânico)";REVISAR
 forças que os afetam;1;;;"rótulo livre; revisão manual (sem colapso mecânico)";REVISAR
-freia;1;freia;->;;PROPOSTO
-frota-de;1;frota-de;->;;PROPOSTO
-fundado-por;1;fundado-por;->;;PROPOSTO
-gatilho-de;1;gatilho-de;->;;PROPOSTO
-gera;9;gera;->;;PROPOSTO
-gera (cadeia);2;gera;->;qualificador preservado: cadeia;PROPOSTO
-gera-com-epimeteu;1;gera-com-epimeteu;->;;PROPOSTO
-gera-linhagem-de;5;gera-linhagem-de;->;;PROPOSTO
-gerada-por;1;gerada-por;->;;PROPOSTO
-gere;1;gere;->;;PROPOSTO
-gerida-por;1;gerida-por;->;;PROPOSTO
-gerou;1;gerou;->;;PROPOSTO
+freia;1;danifica;->;"consolidação: ""freia"" → ""danifica""";PROPOSTO-CONSOLIDACAO
+frota-de;1;relaciona-se-a;->;"consolidação: ""frota-de"" → ""relaciona-se-a""";PROPOSTO-CONSOLIDACAO
+fundado-por;1;origina;<-;"consolidação: ""fundado-por"" → ""origina""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+gatilho-de;1;origina;->;"consolidação: ""gatilho-de"" → ""origina""";PROPOSTO-CONSOLIDACAO
+gera;9;origina;->;"consolidação: ""gera"" → ""origina""";PROPOSTO-CONSOLIDACAO
+gera (cadeia);2;origina;->;"qualificador preservado: cadeia; consolidação: ""gera"" → ""origina""";PROPOSTO-CONSOLIDACAO
+gera-com-epimeteu;1;origina;->;"consolidação: ""gera-com-epimeteu"" → ""origina""";PROPOSTO-CONSOLIDACAO
+gera-linhagem-de;5;origina;->;"consolidação: ""gera-linhagem-de"" → ""origina""";PROPOSTO-CONSOLIDACAO
+gerada-por;1;origina;<-;"consolidação: ""gerada-por"" → ""origina""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+gere;1;origina;->;"consolidação: ""gere"" → ""origina""";PROPOSTO-CONSOLIDACAO
+gerida-por;1;controla;<-;"consolidação: ""gerida-por"" → ""controla""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+gerou;1;origina;->;"consolidação: ""gerou"" → ""origina""";PROPOSTO-CONSOLIDACAO
 gestor atual;1;;;"rótulo livre; revisão manual (sem colapso mecânico)";REVISAR
-guarda;1;guarda;->;;PROPOSTO
-habita;3;habita;->;;PROPOSTO
-habitado-por;2;habitado-por;->;;PROPOSTO
-habitantes;1;habitantes;->;;PROPOSTO
-herança (cota doentia);1;herança;->;qualificador preservado: cota doentia;PROPOSTO
-herdado-de;1;herdado-de;->;;PROPOSTO
-hospeda;2;hospeda;->;;PROPOSTO
-humaniza-se-por;1;humaniza-se-por;->;;PROPOSTO
-identidade;1;identidade;->;;PROPOSTO
+guarda;1;protege;->;"consolidação: ""guarda"" → ""protege""";PROPOSTO-CONSOLIDACAO
+habita;3;contexto;->;"consolidação: ""habita"" → ""contexto""";PROPOSTO-CONSOLIDACAO
+habitado-por;2;contexto;<-;"consolidação: ""habitado-por"" → ""contexto""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+habitantes;1;envolve;->;"consolidação: ""habitantes"" → ""envolve""";PROPOSTO-CONSOLIDACAO
+herança (cota doentia);1;origina;->;"qualificador preservado: cota doentia; consolidação: ""herança"" → ""origina""";PROPOSTO-CONSOLIDACAO
+herdado-de;1;origina;<-;"consolidação: ""herdado-de"" → ""origina""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+hospeda;2;contexto;->;"consolidação: ""hospeda"" → ""contexto""";PROPOSTO-CONSOLIDACAO
+humaniza-se-por;1;relaciona-se-a;->;"consolidação: ""humaniza-se-por"" → ""relaciona-se-a""";PROPOSTO-CONSOLIDACAO
+identidade;1;relaciona-se-a;->;"consolidação: ""identidade"" → ""relaciona-se-a""";PROPOSTO-CONSOLIDACAO
 identidade anterior;1;;;"rótulo livre; revisão manual (sem colapso mecânico)";REVISAR
 identidade prévia;1;;;"rótulo livre; revisão manual (sem colapso mecânico)";REVISAR
-implementa;1;implementa;->;;PROPOSTO
-impulsiona;2;impulsiona;->;;PROPOSTO
-impulsionado-por;1;impulsionado-por;->;;PROPOSTO
-impõe-se-a;1;impõe-se-a;->;;PROPOSTO
+implementa;1;usa;->;"consolidação: ""implementa"" → ""usa""";PROPOSTO-CONSOLIDACAO
+impulsiona;2;causa;->;"consolidação: ""impulsiona"" → ""causa""";PROPOSTO-CONSOLIDACAO
+impulsionado-por;1;causa;<-;"consolidação: ""impulsionado-por"" → ""causa""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+impõe-se-a;1;controla;->;"consolidação: ""impõe-se-a"" → ""controla""";PROPOSTO-CONSOLIDACAO
 inclui;62;inclui;->;;APROVADO
-inclui (Atziluth);1;inclui;->;qualificador preservado: Atziluth;PROPOSTO
-inclui (Briah);1;inclui;->;qualificador preservado: Briah;PROPOSTO
-inclui (classe enfatizada);2;inclui;->;qualificador preservado: classe enfatizada;PROPOSTO
-inclui (exemplo de biodemo);2;inclui;->;qualificador preservado: exemplo de biodemo;PROPOSTO
-inclui (genos ≈ lokas);1;inclui;->;qualificador preservado: genos ≈ lokas;PROPOSTO
-incluído-em;2;incluído-em;->;;PROPOSTO
-influencia;1;influencia;->;;PROPOSTO
-inicia;3;inicia;->;;PROPOSTO
-inicia-em;2;inicia-em;->;;PROPOSTO
-iniciado-por;1;iniciado-por;->;;PROPOSTO
-iniciador;2;iniciador;->;;PROPOSTO
-inserido-em;1;inserido-em;->;;PROPOSTO
-institui;1;institui;->;;PROPOSTO
-instrumentaliza;1;instrumentaliza;->;;PROPOSTO
-instrumentalizado-por;1;instrumentalizado-por;->;;PROPOSTO
-instrumentalizado-via;1;instrumentalizado-via;->;;PROPOSTO
-instrumento;4;instrumento;->;;PROPOSTO
-instrumento-de;1;instrumento-de;->;;PROPOSTO
-integra;7;integra;->;;PROPOSTO
-integrante (topo);1;integrante;->;qualificador preservado: topo;PROPOSTO
-interagiu;3;interagiu;->;;PROPOSTO
-interrompeu;1;interrompeu;->;;PROPOSTO
-inverte;1;inverte;->;;PROPOSTO
-investe;2;investe;->;;PROPOSTO
-investido-por;2;investido-por;->;;PROPOSTO
-irmã-de;1;irmã-de;->;;PROPOSTO
-irmão-de;1;irmão-de;->;;PROPOSTO
-irmão-de (tríade de fornos);4;irmão-de;->;qualificador preservado: tríade de fornos;PROPOSTO
-irmãos;1;irmãos;->;;PROPOSTO
-jogadores (equipes);1;jogadores;->;qualificador preservado: equipes;PROPOSTO
-lamuriou-se;2;lamuriou-se;->;;PROPOSTO
-liberta;1;liberta;->;;PROPOSTO
-liberta-de;3;liberta-de;->;;PROPOSTO
-lidera;1;lidera;->;;PROPOSTO
+inclui (Atziluth);1;inclui;->;qualificador preservado: Atziluth;PROPOSTO-CONSOLIDACAO
+inclui (Briah);1;inclui;->;qualificador preservado: Briah;PROPOSTO-CONSOLIDACAO
+inclui (classe enfatizada);2;inclui;->;qualificador preservado: classe enfatizada;PROPOSTO-CONSOLIDACAO
+inclui (exemplo de biodemo);2;inclui;->;qualificador preservado: exemplo de biodemo;PROPOSTO-CONSOLIDACAO
+inclui (genos ≈ lokas);1;inclui;->;qualificador preservado: genos ≈ lokas;PROPOSTO-CONSOLIDACAO
+incluído-em;2;inclui;->;"consolidação: ""incluído-em"" → ""inclui""";PROPOSTO-CONSOLIDACAO
+influencia;1;causa;->;"consolidação: ""influencia"" → ""causa""";PROPOSTO-CONSOLIDACAO
+inicia;3;precede;->;"consolidação: ""inicia"" → ""precede""";PROPOSTO-CONSOLIDACAO
+inicia-em;2;precede;->;"consolidação: ""inicia-em"" → ""precede""";PROPOSTO-CONSOLIDACAO
+iniciado-por;1;precede;<-;"consolidação: ""iniciado-por"" → ""precede""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+iniciador;2;origina;->;"consolidação: ""iniciador"" → ""origina""";PROPOSTO-CONSOLIDACAO
+inserido-em;1;relaciona-se-a;->;"consolidação: ""inserido-em"" → ""relaciona-se-a""";PROPOSTO-CONSOLIDACAO
+institui;1;relaciona-se-a;->;"consolidação: ""institui"" → ""relaciona-se-a""";PROPOSTO-CONSOLIDACAO
+instrumentaliza;1;usa;->;"consolidação: ""instrumentaliza"" → ""usa""";PROPOSTO-CONSOLIDACAO
+instrumentalizado-por;1;usa;<-;"consolidação: ""instrumentalizado-por"" → ""usa""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+instrumentalizado-via;1;usa;->;"consolidação: ""instrumentalizado-via"" → ""usa""";PROPOSTO-CONSOLIDACAO
+instrumento;4;usa;->;"consolidação: ""instrumento"" → ""usa""";PROPOSTO-CONSOLIDACAO
+instrumento-de;1;usa;->;"consolidação: ""instrumento-de"" → ""usa""";PROPOSTO-CONSOLIDACAO
+integra;7;inclui;->;"consolidação: ""integra"" → ""inclui""";PROPOSTO-CONSOLIDACAO
+integrante (topo);1;envolve;->;"qualificador preservado: topo; consolidação: ""integrante"" → ""envolve""";PROPOSTO-CONSOLIDACAO
+interagiu;3;associado;<->;"consolidação: ""interagiu"" → ""associado""";PROPOSTO-CONSOLIDACAO
+interrompeu;1;danifica;->;"consolidação: ""interrompeu"" → ""danifica""";PROPOSTO-CONSOLIDACAO
+inverte;1;opõe-se-a;->;"consolidação: ""inverte"" → ""opõe-se-a""";PROPOSTO-CONSOLIDACAO
+investe;2;controla;->;"consolidação: ""investe"" → ""controla""";PROPOSTO-CONSOLIDACAO
+investido-por;2;controla;<-;"consolidação: ""investido-por"" → ""controla""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+irmã-de;1;associado;<->;"consolidação: ""irmã-de"" → ""associado""";PROPOSTO-CONSOLIDACAO
+irmão-de;1;associado;<->;"consolidação: ""irmão-de"" → ""associado""";PROPOSTO-CONSOLIDACAO
+irmão-de (tríade de fornos);4;associado;<->;"qualificador preservado: tríade de fornos; consolidação: ""irmão-de"" → ""associado""";PROPOSTO-CONSOLIDACAO
+irmãos;1;associado;<->;"consolidação: ""irmãos"" → ""associado""";PROPOSTO-CONSOLIDACAO
+jogadores (equipes);1;relaciona-se-a;->;"qualificador preservado: equipes; consolidação: ""jogadores"" → ""relaciona-se-a""";PROPOSTO-CONSOLIDACAO
+lamuriou-se;2;relaciona-se-a;->;"consolidação: ""lamuriou-se"" → ""relaciona-se-a""";PROPOSTO-CONSOLIDACAO
+liberta;1;protege;->;"consolidação: ""liberta"" → ""protege""";PROPOSTO-CONSOLIDACAO
+liberta-de;3;protege;->;"consolidação: ""liberta-de"" → ""protege""";PROPOSTO-CONSOLIDACAO
+lidera;1;controla;->;"consolidação: ""lidera"" → ""controla""";PROPOSTO-CONSOLIDACAO
 "listado no cadastro como relacionados, **sem aresta** em `RELACOES`; **sem arquivo**";2;;;"listado no cadastro como relacionados, sem aresta em RELACOES; sem arquivo";APROVADO
 "listado no cadastro como relacionados, **sem aresta** em `RELACOES`; arquivo existe";5;;;"listado no cadastro como relacionados, sem aresta em RELACOES; arquivo existe";APROVADO
 "listado no cadastro como relacionados, **sem aresta** em `RELACOES`; arquivo existe (P5d)";1;;;"listado no cadastro como relacionados, sem aresta em RELACOES; arquivo existe (P5d)";APROVADO
 listado no cadastro sem aresta;3;;;listado no cadastro sem aresta;APROVADO
-local;3;local;->;;PROPOSTO
+local;3;contexto;->;"consolidação: ""local"" → ""contexto""";PROPOSTO-CONSOLIDACAO
 local de surgimento;1;;;"rótulo livre; revisão manual (sem colapso mecânico)";REVISAR
-localiza-se-em;1;localiza-se-em;->;;PROPOSTO
-manifesta-descontinuidade-em;1;manifesta-descontinuidade-em;->;;PROPOSTO
-manifesta-em;1;manifesta-em;->;;PROPOSTO
-manifesta-se-em;14;manifesta-se-em;->;;PROPOSTO
-manifesta-se-no-discurso-como;1;manifesta-se-no-discurso-como;->;;PROPOSTO
-manifesta-se-via;1;manifesta-se-via;->;;PROPOSTO
-manipula;1;manipula;->;;PROPOSTO
-mapeado-por;1;mapeado-por;->;;PROPOSTO
-mapeia;2;mapeia;->;;PROPOSTO
-marca-fim-de;2;marca-fim-de;->;;PROPOSTO
-mata;1;mata;->;;PROPOSTO
-mede;1;mede;->;;PROPOSTO
-medida-por;1;medida-por;->;;PROPOSTO
-mensageiros;1;mensageiros;->;;PROPOSTO
-mensagem;1;mensagem;->;;PROPOSTO
-mentor-de;1;mentor-de;->;;PROPOSTO
-mergulha-em;2;mergulha-em;->;;PROPOSTO
-mergulhou-em;1;mergulhou-em;->;;PROPOSTO
-mestre-de;1;mestre-de;->;;PROPOSTO
-metaforiza;2;metaforiza;->;;PROPOSTO
+localiza-se-em;1;contexto;->;"consolidação: ""localiza-se-em"" → ""contexto""";PROPOSTO-CONSOLIDACAO
+manifesta-descontinuidade-em;1;representa;->;"consolidação: ""manifesta-descontinuidade-em"" → ""representa""";PROPOSTO-CONSOLIDACAO
+manifesta-em;1;representa;->;"consolidação: ""manifesta-em"" → ""representa""";PROPOSTO-CONSOLIDACAO
+manifesta-se-em;14;representa;->;"consolidação: ""manifesta-se-em"" → ""representa""";PROPOSTO-CONSOLIDACAO
+manifesta-se-no-discurso-como;1;representa;->;"consolidação: ""manifesta-se-no-discurso-como"" → ""representa""";PROPOSTO-CONSOLIDACAO
+manifesta-se-via;1;representa;->;"consolidação: ""manifesta-se-via"" → ""representa""";PROPOSTO-CONSOLIDACAO
+manipula;1;relaciona-se-a;->;"consolidação: ""manipula"" → ""relaciona-se-a""";PROPOSTO-CONSOLIDACAO
+mapeado-por;1;observa;<-;"consolidação: ""mapeado-por"" → ""observa""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+mapeia;2;observa;->;"consolidação: ""mapeia"" → ""observa""";PROPOSTO-CONSOLIDACAO
+marca-fim-de;2;sucede;->;"consolidação: ""marca-fim-de"" → ""sucede""";PROPOSTO-CONSOLIDACAO
+mata;1;danifica;->;"consolidação: ""mata"" → ""danifica""";PROPOSTO-CONSOLIDACAO
+mede;1;observa;->;"consolidação: ""mede"" → ""observa""";PROPOSTO-CONSOLIDACAO
+medida-por;1;observa;<-;"consolidação: ""medida-por"" → ""observa""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+mensageiros;1;comunica;->;"consolidação: ""mensageiros"" → ""comunica""";PROPOSTO-CONSOLIDACAO
+mensagem;1;comunica;->;"consolidação: ""mensagem"" → ""comunica""";PROPOSTO-CONSOLIDACAO
+mentor-de;1;controla;->;"consolidação: ""mentor-de"" → ""controla""";PROPOSTO-CONSOLIDACAO
+mergulha-em;2;contexto;->;"consolidação: ""mergulha-em"" → ""contexto""";PROPOSTO-CONSOLIDACAO
+mergulhou-em;1;contexto;->;"consolidação: ""mergulhou-em"" → ""contexto""";PROPOSTO-CONSOLIDACAO
+mestre-de;1;controla;->;"consolidação: ""mestre-de"" → ""controla""";PROPOSTO-CONSOLIDACAO
+metaforiza;2;variação;->;"consolidação: ""metaforiza"" → ""variação""";PROPOSTO-CONSOLIDACAO
 metáfora-alegada-da-RC-sobre;1;;;"rótulo livre; revisão manual (sem colapso mecânico)";REVISAR
 missão de Zeus;1;;;"rótulo livre; revisão manual (sem colapso mecânico)";REVISAR
-modifica;1;modifica;->;;PROPOSTO
+modifica;1;causa;->;"consolidação: ""modifica"" → ""causa""";PROPOSTO-CONSOLIDACAO
 modo de agir;1;;;"rótulo livre; revisão manual (sem colapso mecânico)";REVISAR
 modo de criar;1;;;"rótulo livre; revisão manual (sem colapso mecânico)";REVISAR
-morada-de;2;morada-de;->;;PROPOSTO
-motiva;1;motiva;->;;PROPOSTO
-motiva-recurso-a;1;motiva-recurso-a;->;;PROPOSTO
-motivo-da-vingança;1;motivo-da-vingança;->;;PROPOSTO
-nave-irmã (tríade Val);4;nave-irmã;->;qualificador preservado: tríade Val;PROPOSTO
-necessário-a;4;necessário-a;->;;PROPOSTO
+morada-de;2;contexto;->;"consolidação: ""morada-de"" → ""contexto""";PROPOSTO-CONSOLIDACAO
+motiva;1;causa;->;"consolidação: ""motiva"" → ""causa""";PROPOSTO-CONSOLIDACAO
+motiva-recurso-a;1;causa;->;"consolidação: ""motiva-recurso-a"" → ""causa""";PROPOSTO-CONSOLIDACAO
+motivo-da-vingança;1;relaciona-se-a;->;"consolidação: ""motivo-da-vingança"" → ""relaciona-se-a""";PROPOSTO-CONSOLIDACAO
+nave-irmã (tríade Val);4;associado;<->;"qualificador preservado: tríade Val; consolidação: ""nave-irmã"" → ""associado""";PROPOSTO-CONSOLIDACAO
+necessário-a;4;requer;->;"consolidação: ""necessário-a"" → ""requer""";PROPOSTO-CONSOLIDACAO
 nome demo de Pandora;1;;;"rótulo livre; revisão manual (sem colapso mecânico)";REVISAR
 nomes do Criador;1;;;"rótulo livre; revisão manual (sem colapso mecânico)";REVISAR
-não-conectada-por;1;não-conectada-por;->;;PROPOSTO
-nível-abaixo-de;1;nível-abaixo-de;->;;PROPOSTO
+não-conectada-por;1;associado;<->;"consolidação: ""não-conectada-por"" → ""associado""";PROPOSTO-CONSOLIDACAO
+nível-abaixo-de;1;precede;->;"consolidação: ""nível-abaixo-de"" → ""precede""";PROPOSTO-CONSOLIDACAO
 o ato de replicação cuja definição é o CFD — aresta só se o cadastro já a tivesse;1;;;o ato de replicação cuja definição é o CFD — aresta só se o cadastro já a tivesse;APROVADO
-objeto (código transferido);1;objeto;->;qualificador preservado: código transferido;PROPOSTO
-obscurece;1;obscurece;->;;PROPOSTO
-observa;2;observa;->;;PROPOSTO
-observa-de-dentro;1;observa-de-dentro;->;;PROPOSTO
-observado-de-dentro-por;1;observado-de-dentro-por;->;;PROPOSTO
-ocorre-após;1;ocorre-após;->;;PROPOSTO
-ocorre-em;18;ocorre-em;->;;PROPOSTO
-ocorre-em (a Revolta deflagrada em Capela);1;ocorre-em;->;qualificador preservado: a Revolta deflagrada em Capela;PROPOSTO
-ocorre-em (mundo do sistema);1;ocorre-em;->;qualificador preservado: mundo do sistema;PROPOSTO
-ocorre-em (mundo-nave de urdidura);1;ocorre-em;->;qualificador preservado: mundo-nave de urdidura;PROPOSTO
-ocorre-em (parte);1;ocorre-em;->;qualificador preservado: parte;PROPOSTO
-ocorre-em (planeta do sistema);1;ocorre-em;->;qualificador preservado: planeta do sistema;PROPOSTO
-ocorre-em (sede governamental do sistema);1;ocorre-em;->;qualificador preservado: sede governamental do sistema;PROPOSTO
-ocorre-no-eixo-de;1;ocorre-no-eixo-de;->;;PROPOSTO
-ocorreu-em;2;ocorreu-em;->;;PROPOSTO
-opera-em;1;opera-em;->;;PROPOSTO
-opera-por;1;opera-por;->;;PROPOSTO
-operacionaliza;1;operacionaliza;->;;PROPOSTO
-operadores;1;operadores;->;;PROPOSTO
-operam-em;1;operam-em;->;;PROPOSTO
-operou-segundo;2;operou-segundo;->;;PROPOSTO
+objeto (código transferido);1;relaciona-se-a;->;"qualificador preservado: código transferido; consolidação: ""objeto"" → ""relaciona-se-a""";PROPOSTO-CONSOLIDACAO
+obscurece;1;danifica;->;"consolidação: ""obscurece"" → ""danifica""";PROPOSTO-CONSOLIDACAO
+observa;2;observa;->;;PROPOSTO-CONSOLIDACAO
+observa-de-dentro;1;observa;->;"consolidação: ""observa-de-dentro"" → ""observa""";PROPOSTO-CONSOLIDACAO
+observado-de-dentro-por;1;observa;<-;"consolidação: ""observado-de-dentro-por"" → ""observa""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+ocorre-após;1;sucede;->;"consolidação: ""ocorre-após"" → ""sucede""";PROPOSTO-CONSOLIDACAO
+ocorre-em;18;contexto;->;"consolidação: ""ocorre-em"" → ""contexto""";PROPOSTO-CONSOLIDACAO
+ocorre-em (a Revolta deflagrada em Capela);1;contexto;->;"qualificador preservado: a Revolta deflagrada em Capela; consolidação: ""ocorre-em"" → ""contexto""";PROPOSTO-CONSOLIDACAO
+ocorre-em (mundo do sistema);1;contexto;->;"qualificador preservado: mundo do sistema; consolidação: ""ocorre-em"" → ""contexto""";PROPOSTO-CONSOLIDACAO
+ocorre-em (mundo-nave de urdidura);1;contexto;->;"qualificador preservado: mundo-nave de urdidura; consolidação: ""ocorre-em"" → ""contexto""";PROPOSTO-CONSOLIDACAO
+ocorre-em (parte);1;contexto;->;"qualificador preservado: parte; consolidação: ""ocorre-em"" → ""contexto""";PROPOSTO-CONSOLIDACAO
+ocorre-em (planeta do sistema);1;contexto;->;"qualificador preservado: planeta do sistema; consolidação: ""ocorre-em"" → ""contexto""";PROPOSTO-CONSOLIDACAO
+ocorre-em (sede governamental do sistema);1;contexto;->;"qualificador preservado: sede governamental do sistema; consolidação: ""ocorre-em"" → ""contexto""";PROPOSTO-CONSOLIDACAO
+ocorre-no-eixo-de;1;contexto;->;"consolidação: ""ocorre-no-eixo-de"" → ""contexto""";PROPOSTO-CONSOLIDACAO
+ocorreu-em;2;contexto;->;"consolidação: ""ocorreu-em"" → ""contexto""";PROPOSTO-CONSOLIDACAO
+opera-em;1;contexto;->;"consolidação: ""opera-em"" → ""contexto""";PROPOSTO-CONSOLIDACAO
+opera-por;1;usa;->;"consolidação: ""opera-por"" → ""usa""";PROPOSTO-CONSOLIDACAO
+operacionaliza;1;usa;->;"consolidação: ""operacionaliza"" → ""usa""";PROPOSTO-CONSOLIDACAO
+operadores;1;usa;->;"consolidação: ""operadores"" → ""usa""";PROPOSTO-CONSOLIDACAO
+operam-em;1;contexto;->;"consolidação: ""operam-em"" → ""contexto""";PROPOSTO-CONSOLIDACAO
+operou-segundo;2;relaciona-se-a;->;"consolidação: ""operou-segundo"" → ""relaciona-se-a""";PROPOSTO-CONSOLIDACAO
 opõe-se-a;26;opõe-se-a;->;;APROVADO
-opõe-se-a (atitudes antagônicas);1;opõe-se-a;->;qualificador preservado: atitudes antagônicas;PROPOSTO
-opõe-se-a (Deus Bíblico ≠ Deus Incognoscível);1;opõe-se-a;->;qualificador preservado: Deus Bíblico ≠ Deus Incognoscível;PROPOSTO
-opõe-se-a (distinção);2;opõe-se-a;->;qualificador preservado: distinção;PROPOSTO
-opõe-se-a (outra classe);1;opõe-se-a;->;qualificador preservado: outra classe;PROPOSTO
-opõe-se-a (paralelo);1;opõe-se-a;->;qualificador preservado: paralelo;PROPOSTO
-organiza;3;organiza;->;;PROPOSTO
-organiza-se-em;1;organiza-se-em;->;;PROPOSTO
-organizada-por;1;organizada-por;->;;PROPOSTO
-organizados-por;1;organizados-por;->;;PROPOSTO
-orienta;7;orienta;->;;PROPOSTO
-orienta-destinação-em;1;orienta-destinação-em;->;;PROPOSTO
-origem;10;origem;->;;PROPOSTO
-origem (reação);1;origem;->;qualificador preservado: reação;PROPOSTO
+opõe-se-a (atitudes antagônicas);1;opõe-se-a;->;qualificador preservado: atitudes antagônicas;PROPOSTO-CONSOLIDACAO
+opõe-se-a (Deus Bíblico ≠ Deus Incognoscível);1;opõe-se-a;->;qualificador preservado: Deus Bíblico ≠ Deus Incognoscível;PROPOSTO-CONSOLIDACAO
+opõe-se-a (distinção);2;opõe-se-a;->;qualificador preservado: distinção;PROPOSTO-CONSOLIDACAO
+opõe-se-a (outra classe);1;opõe-se-a;->;qualificador preservado: outra classe;PROPOSTO-CONSOLIDACAO
+opõe-se-a (paralelo);1;opõe-se-a;->;qualificador preservado: paralelo;PROPOSTO-CONSOLIDACAO
+organiza;3;inclui;->;"consolidação: ""organiza"" → ""inclui""";PROPOSTO-CONSOLIDACAO
+organiza-se-em;1;inclui;->;"consolidação: ""organiza-se-em"" → ""inclui""";PROPOSTO-CONSOLIDACAO
+organizada-por;1;inclui;<-;"consolidação: ""organizada-por"" → ""inclui""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+organizados-por;1;inclui;<-;"consolidação: ""organizados-por"" → ""inclui""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+orienta;7;controla;->;"consolidação: ""orienta"" → ""controla""";PROPOSTO-CONSOLIDACAO
+orienta-destinação-em;1;transfere;->;"consolidação: ""orienta-destinação-em"" → ""transfere""";PROPOSTO-CONSOLIDACAO
+origem;10;origina;->;"consolidação: ""origem"" → ""origina""";PROPOSTO-CONSOLIDACAO
+origem (reação);1;origina;->;"qualificador preservado: reação; consolidação: ""origem"" → ""origina""";PROPOSTO-CONSOLIDACAO
 origem comum (DNA);1;;;"qualificador preservado: DNA; rótulo livre; revisão manual (sem colapso mecânico)";REVISAR
 origem da superação;1;;;"rótulo livre; revisão manual (sem colapso mecânico)";REVISAR
-origem-em;8;origem-em;->;;PROPOSTO
-origina;3;origina;->;;PROPOSTO
-origina (as famílias de biodemos);1;origina;->;qualificador preservado: as famílias de biodemos;PROPOSTO
-origina-de;1;origina-de;->;;PROPOSTO
-origina-em;5;origina-em;->;;PROPOSTO
-origina-se-em;3;origina-se-em;->;;PROPOSTO
-origina-se-em (eon);1;origina-se-em;->;qualificador preservado: eon;PROPOSTO
-originada-em;1;originada-em;->;;PROPOSTO
-originado-por;1;originado-por;->;;PROPOSTO
-originou;2;originou;->;;PROPOSTO
-originou (gêmeo);1;originou;->;qualificador preservado: gêmeo;PROPOSTO
-orquestra;1;orquestra;->;;PROPOSTO
-ouviu-em;1;ouviu-em;->;;PROPOSTO
-pactuou-com;3;pactuou-com;->;;PROPOSTO
+origem-em;8;origina;->;"consolidação: ""origem-em"" → ""origina""";PROPOSTO-CONSOLIDACAO
+origina;3;origina;->;;PROPOSTO-CONSOLIDACAO
+origina (as famílias de biodemos);1;origina;->;qualificador preservado: as famílias de biodemos;PROPOSTO-CONSOLIDACAO
+origina-de;1;origina;<-;"consolidação: ""origina-de"" → ""origina""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+origina-em;5;origina;->;"consolidação: ""origina-em"" → ""origina""";PROPOSTO-CONSOLIDACAO
+origina-se-em;3;origina;->;"consolidação: ""origina-se-em"" → ""origina""";PROPOSTO-CONSOLIDACAO
+origina-se-em (eon);1;origina;->;"qualificador preservado: eon; consolidação: ""origina-se-em"" → ""origina""";PROPOSTO-CONSOLIDACAO
+originada-em;1;origina;<-;"consolidação: ""originada-em"" → ""origina""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+originado-por;1;origina;<-;"consolidação: ""originado-por"" → ""origina""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+originou;2;origina;->;"consolidação: ""originou"" → ""origina""";PROPOSTO-CONSOLIDACAO
+originou (gêmeo);1;origina;->;"qualificador preservado: gêmeo; consolidação: ""originou"" → ""origina""";PROPOSTO-CONSOLIDACAO
+orquestra;1;controla;->;"consolidação: ""orquestra"" → ""controla""";PROPOSTO-CONSOLIDACAO
+ouviu-em;1;relaciona-se-a;->;"consolidação: ""ouviu-em"" → ""relaciona-se-a""";PROPOSTO-CONSOLIDACAO
+pactuou-com;3;associado;<->;"consolidação: ""pactuou-com"" → ""associado""";PROPOSTO-CONSOLIDACAO
 pai de Deucalião;1;;;"rótulo livre; revisão manual (sem colapso mecânico)";REVISAR
 pai de Pirra;1;;;"rótulo livre; revisão manual (sem colapso mecânico)";REVISAR
-pai-de;2;pai-de;->;;PROPOSTO
+pai-de;2;origina;->;"consolidação: ""pai-de"" → ""origina""";PROPOSTO-CONSOLIDACAO
 "par nomeador — `RC-017` também está **sem arquivo**; nenhum dos dois recebeu materialização";1;;;"rótulo livre; revisão manual (sem colapso mecânico)";REVISAR
-paralela-a;2;paralela-a;->;;PROPOSTO
-paralelo;2;paralelo;->;;PROPOSTO
-paralelo-com;13;paralelo-com;->;;PROPOSTO
-paralelo-com (avatar cristão);1;paralelo-com;->;qualificador preservado: avatar cristão;PROPOSTO
-paralelo-com (avatar hindu);1;paralelo-com;->;qualificador preservado: avatar hindu;PROPOSTO
-paralelo-com (Fausto como alegoria);1;paralelo-com;->;qualificador preservado: Fausto como alegoria;PROPOSTO
-paralelo-com (séculos antes/depois);1;paralelo-com;->;qualificador preservado: séculos antes/depois;PROPOSTO
-"paralelo-com (Y Luzb = ""Y"" = mesmo)";1;paralelo-com;->;"qualificador preservado: Y Luzb = ""Y"" = mesmo";PROPOSTO
-parceiro-de-ideal (o pacto);1;parceiro-de-ideal;->;qualificador preservado: o pacto;PROPOSTO
-parceria-de;1;parceria-de;->;;PROPOSTO
+paralela-a;2;variação;->;"consolidação: ""paralela-a"" → ""variação""";PROPOSTO-CONSOLIDACAO
+paralelo;2;variação;->;"consolidação: ""paralelo"" → ""variação""";PROPOSTO-CONSOLIDACAO
+paralelo-com;13;associado;<->;"consolidação: ""paralelo-com"" → ""associado""";PROPOSTO-CONSOLIDACAO
+paralelo-com (avatar cristão);1;associado;<->;"qualificador preservado: avatar cristão; consolidação: ""paralelo-com"" → ""associado""";PROPOSTO-CONSOLIDACAO
+paralelo-com (avatar hindu);1;associado;<->;"qualificador preservado: avatar hindu; consolidação: ""paralelo-com"" → ""associado""";PROPOSTO-CONSOLIDACAO
+paralelo-com (Fausto como alegoria);1;associado;<->;"qualificador preservado: Fausto como alegoria; consolidação: ""paralelo-com"" → ""associado""";PROPOSTO-CONSOLIDACAO
+paralelo-com (séculos antes/depois);1;associado;<->;"qualificador preservado: séculos antes/depois; consolidação: ""paralelo-com"" → ""associado""";PROPOSTO-CONSOLIDACAO
+"paralelo-com (Y Luzb = ""Y"" = mesmo)";1;associado;<->;"qualificador preservado: Y Luzb = ""Y"" = mesmo; consolidação: ""paralelo-com"" → ""associado""";PROPOSTO-CONSOLIDACAO
+parceiro-de-ideal (o pacto);1;associado;<->;"qualificador preservado: o pacto; consolidação: ""parceiro-de-ideal"" → ""associado""";PROPOSTO-CONSOLIDACAO
+parceria-de;1;associado;<->;"consolidação: ""parceria-de"" → ""associado""";PROPOSTO-CONSOLIDACAO
 parte-de;40;parte-de;->;;APROVADO
-parte-de (ambientes);1;parte-de;->;qualificador preservado: ambientes;PROPOSTO
-parte-de (favo improvisado);1;parte-de;->;qualificador preservado: favo improvisado;PROPOSTO
-parte-de (favo planejado);1;parte-de;->;qualificador preservado: favo planejado;PROPOSTO
-participa-de;2;participa-de;->;;PROPOSTO
-percebido-por;1;percebido-por;->;;PROPOSTO
-persiste-em;1;persiste-em;->;;PROPOSTO
-personifica-em;2;personifica-em;->;;PROPOSTO
-personifica-se-como (imantado);1;personifica-se-como;->;qualificador preservado: imantado;PROPOSTO
-pertence-a;2;pertence-a;->;;PROPOSTO
-planejada-por;1;planejada-por;->;;PROPOSTO
-plano-original-de;1;plano-original-de;->;;PROPOSTO
-plantou-semente-em;1;plantou-semente-em;->;;PROPOSTO
-pode-colapsar-em;1;pode-colapsar-em;->;;PROPOSTO
-portadores;1;portadores;->;;PROPOSTO
-"possibilita (a decisão de ficar ""totalmente homo"")";1;possibilita;->;"qualificador preservado: a decisão de ficar ""totalmente homo""";PROPOSTO
-pratica;1;pratica;->;;PROPOSTO
-precede;7;precede;->;;PROPOSTO
-precede (via Nidana B);1;precede;->;qualificador preservado: via Nidana B;PROPOSTO
-premissa;1;premissa;->;;PROPOSTO
-primeira-resposta-a;2;primeira-resposta-a;->;;PROPOSTO
-primeiro-caso;1;primeiro-caso;->;;PROPOSTO
-primeiro-ocorreu-em;1;primeiro-ocorreu-em;->;;PROPOSTO
-processa;2;processa;->;;PROPOSTO
-processado-por;1;processado-por;->;;PROPOSTO
-produtos (espécies);1;produtos;->;qualificador preservado: espécies;PROPOSTO
-produz;9;produz;->;;PROPOSTO
-produz (avatares);1;produz;->;qualificador preservado: avatares;PROPOSTO
-produzido-por;1;produzido-por;->;;PROPOSTO
-produziu-pacote-genético;2;produziu-pacote-genético;->;;PROPOSTO
-profecias-em;1;profecias-em;->;;PROPOSTO
-proferida-por;2;proferida-por;->;;PROPOSTO
-promovido-por;1;promovido-por;->;;PROPOSTO
-proposto-por;1;proposto-por;->;;PROPOSTO
-propõe;2;propõe;->;;PROPOSTO
-protagonistas;2;protagonistas;->;;PROPOSTO
-protagoniza;11;protagoniza;->;;PROPOSTO
-protege;2;protege;->;;PROPOSTO
-provém-de (mergulho);1;provém-de;->;qualificador preservado: mergulho;PROPOSTO
-qualifica;7;qualifica;->;;PROPOSTO
-racionalidade-instantânea;1;racionalidade-instantânea;->;;PROPOSTO
-racionalidade-reflexiva;1;racionalidade-reflexiva;->;;PROPOSTO
-reabilita;1;reabilita;->;;PROPOSTO
-realiza;9;realiza;->;;PROPOSTO
-realizada-por;3;realizada-por;->;;PROPOSTO
-reaparece-como-destruição-em;1;reaparece-como-destruição-em;->;;PROPOSTO
-reativa-via;1;reativa-via;->;;PROPOSTO
-rebelou-se-contra;1;rebelou-se-contra;->;;PROPOSTO
-recebe;2;recebe;->;;PROPOSTO
-recebeu-visitas-de;2;recebeu-visitas-de;->;;PROPOSTO
-recebida-por;2;recebida-por;->;;PROPOSTO
-reconhece;1;reconhece;->;;PROPOSTO
-reconhece-que-humanos-são;1;reconhece-que-humanos-são;->;;PROPOSTO
-reconheceu;1;reconheceu;->;;PROPOSTO
-reconstrói;1;reconstrói;->;;PROPOSTO
-recorre-a (sem suporte);1;recorre-a;->;qualificador preservado: sem suporte;PROPOSTO
-recusa-usar-poderes-de;1;recusa-usar-poderes-de;->;;PROPOSTO
-reescreveu;1;reescreveu;->;;PROPOSTO
-reescreveu-história-de;2;reescreveu-história-de;->;;PROPOSTO
-reforça;2;reforça;->;;PROPOSTO
-refúgio;1;refúgio;->;;PROPOSTO
-rege;1;rege;->;;PROPOSTO
-regenera-na-narrativa;1;regenera-na-narrativa;->;;PROPOSTO
-registradas-em;1;registradas-em;->;;PROPOSTO
-registrado-em;1;registrado-em;->;;PROPOSTO
+parte-de (ambientes);1;parte-de;->;qualificador preservado: ambientes;PROPOSTO-CONSOLIDACAO
+parte-de (favo improvisado);1;parte-de;->;qualificador preservado: favo improvisado;PROPOSTO-CONSOLIDACAO
+parte-de (favo planejado);1;parte-de;->;qualificador preservado: favo planejado;PROPOSTO-CONSOLIDACAO
+participa-de;2;envolve;->;"consolidação: ""participa-de"" → ""envolve""";PROPOSTO-CONSOLIDACAO
+percebido-por;1;observa;->;"consolidação: ""percebido-por"" → ""observa""";PROPOSTO-CONSOLIDACAO
+persiste-em;1;contexto;->;"consolidação: ""persiste-em"" → ""contexto""";PROPOSTO-CONSOLIDACAO
+personifica-em;2;representa;->;"consolidação: ""personifica-em"" → ""representa""";PROPOSTO-CONSOLIDACAO
+personifica-se-como (imantado);1;representa;->;"qualificador preservado: imantado; consolidação: ""personifica-se-como"" → ""representa""";PROPOSTO-CONSOLIDACAO
+pertence-a;2;envolve;->;"consolidação: ""pertence-a"" → ""envolve""";PROPOSTO-CONSOLIDACAO
+planejada-por;1;relaciona-se-a;->;"consolidação: ""planejada-por"" → ""relaciona-se-a""";PROPOSTO-CONSOLIDACAO
+plano-original-de;1;contexto;->;"consolidação: ""plano-original-de"" → ""contexto""";PROPOSTO-CONSOLIDACAO
+plantou-semente-em;1;origina;->;"consolidação: ""plantou-semente-em"" → ""origina""";PROPOSTO-CONSOLIDACAO
+pode-colapsar-em;1;danifica;->;"consolidação: ""pode-colapsar-em"" → ""danifica""";PROPOSTO-CONSOLIDACAO
+portadores;1;envolve;->;"consolidação: ""portadores"" → ""envolve""";PROPOSTO-CONSOLIDACAO
+"possibilita (a decisão de ficar ""totalmente homo"")";1;causa;->;"qualificador preservado: a decisão de ficar ""totalmente homo""; consolidação: ""possibilita"" → ""causa""";PROPOSTO-CONSOLIDACAO
+pratica;1;usa;->;"consolidação: ""pratica"" → ""usa""";PROPOSTO-CONSOLIDACAO
+precede;7;precede;->;;PROPOSTO-CONSOLIDACAO
+precede (via Nidana B);1;precede;->;qualificador preservado: via Nidana B;PROPOSTO-CONSOLIDACAO
+premissa;1;relaciona-se-a;->;"consolidação: ""premissa"" → ""relaciona-se-a""";PROPOSTO-CONSOLIDACAO
+primeira-resposta-a;2;comunica;->;"consolidação: ""primeira-resposta-a"" → ""comunica""";PROPOSTO-CONSOLIDACAO
+primeiro-caso;1;é-um;->;"consolidação: ""primeiro-caso"" → ""é-um""";PROPOSTO-CONSOLIDACAO
+primeiro-ocorreu-em;1;precede;->;"consolidação: ""primeiro-ocorreu-em"" → ""precede""";PROPOSTO-CONSOLIDACAO
+processa;2;usa;->;"consolidação: ""processa"" → ""usa""";PROPOSTO-CONSOLIDACAO
+processado-por;1;usa;<-;"consolidação: ""processado-por"" → ""usa""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+produtos (espécies);1;relaciona-se-a;->;"qualificador preservado: espécies; consolidação: ""produtos"" → ""relaciona-se-a""";PROPOSTO-CONSOLIDACAO
+produz;9;origina;->;"consolidação: ""produz"" → ""origina""";PROPOSTO-CONSOLIDACAO
+produz (avatares);1;origina;->;"qualificador preservado: avatares; consolidação: ""produz"" → ""origina""";PROPOSTO-CONSOLIDACAO
+produzido-por;1;origina;<-;"consolidação: ""produzido-por"" → ""origina""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+produziu-pacote-genético;2;origina;->;"consolidação: ""produziu-pacote-genético"" → ""origina""";PROPOSTO-CONSOLIDACAO
+profecias-em;1;contexto;->;"consolidação: ""profecias-em"" → ""contexto""";PROPOSTO-CONSOLIDACAO
+proferida-por;2;comunica;<-;"consolidação: ""proferida-por"" → ""comunica""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+promovido-por;1;relaciona-se-a;<-;"consolidação: ""promovido-por"" → ""relaciona-se-a""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+proposto-por;1;relaciona-se-a;<-;"consolidação: ""proposto-por"" → ""relaciona-se-a""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+propõe;2;opõe-se-a;->;"consolidação: ""propõe"" → ""opõe-se-a""";PROPOSTO-CONSOLIDACAO
+protagonistas;2;envolve;->;"consolidação: ""protagonistas"" → ""envolve""";PROPOSTO-CONSOLIDACAO
+protagoniza;11;envolve;->;"consolidação: ""protagoniza"" → ""envolve""";PROPOSTO-CONSOLIDACAO
+protege;2;protege;->;;PROPOSTO-CONSOLIDACAO
+provém-de (mergulho);1;origina;<-;"qualificador preservado: mergulho; consolidação: ""provém-de"" → ""origina""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+qualifica;7;explica;->;"consolidação: ""qualifica"" → ""explica""";PROPOSTO-CONSOLIDACAO
+racionalidade-instantânea;1;relaciona-se-a;->;"consolidação: ""racionalidade-instantânea"" → ""relaciona-se-a""";PROPOSTO-CONSOLIDACAO
+racionalidade-reflexiva;1;relaciona-se-a;->;"consolidação: ""racionalidade-reflexiva"" → ""relaciona-se-a""";PROPOSTO-CONSOLIDACAO
+reabilita;1;protege;->;"consolidação: ""reabilita"" → ""protege""";PROPOSTO-CONSOLIDACAO
+realiza;9;usa;->;"consolidação: ""realiza"" → ""usa""";PROPOSTO-CONSOLIDACAO
+realizada-por;3;usa;<-;"consolidação: ""realizada-por"" → ""usa""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+reaparece-como-destruição-em;1;danifica;->;"consolidação: ""reaparece-como-destruição-em"" → ""danifica""";PROPOSTO-CONSOLIDACAO
+reativa-via;1;usa;->;"consolidação: ""reativa-via"" → ""usa""";PROPOSTO-CONSOLIDACAO
+rebelou-se-contra;1;relaciona-se-a;->;"consolidação: ""rebelou-se-contra"" → ""relaciona-se-a""";PROPOSTO-CONSOLIDACAO
+recebe;2;transfere;->;"consolidação: ""recebe"" → ""transfere""";PROPOSTO-CONSOLIDACAO
+recebeu-visitas-de;2;transfere;->;"consolidação: ""recebeu-visitas-de"" → ""transfere""";PROPOSTO-CONSOLIDACAO
+recebida-por;2;transfere;<-;"consolidação: ""recebida-por"" → ""transfere""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+reconhece;1;observa;->;"consolidação: ""reconhece"" → ""observa""";PROPOSTO-CONSOLIDACAO
+reconhece-que-humanos-são;1;comunica;->;"consolidação: ""reconhece-que-humanos-são"" → ""comunica""";PROPOSTO-CONSOLIDACAO
+reconheceu;1;observa;->;"consolidação: ""reconheceu"" → ""observa""";PROPOSTO-CONSOLIDACAO
+reconstrói;1;relaciona-se-a;->;"consolidação: ""reconstrói"" → ""relaciona-se-a""";PROPOSTO-CONSOLIDACAO
+recorre-a (sem suporte);1;relaciona-se-a;->;"qualificador preservado: sem suporte; consolidação: ""recorre-a"" → ""relaciona-se-a""";PROPOSTO-CONSOLIDACAO
+recusa-usar-poderes-de;1;usa;->;"consolidação: ""recusa-usar-poderes-de"" → ""usa""";PROPOSTO-CONSOLIDACAO
+reescreveu;1;explica;->;"consolidação: ""reescreveu"" → ""explica""";PROPOSTO-CONSOLIDACAO
+reescreveu-história-de;2;explica;->;"consolidação: ""reescreveu-história-de"" → ""explica""";PROPOSTO-CONSOLIDACAO
+reforça;2;causa;->;"consolidação: ""reforça"" → ""causa""";PROPOSTO-CONSOLIDACAO
+refúgio;1;contexto;->;"consolidação: ""refúgio"" → ""contexto""";PROPOSTO-CONSOLIDACAO
+rege;1;controla;->;"consolidação: ""rege"" → ""controla""";PROPOSTO-CONSOLIDACAO
+regenera-na-narrativa;1;protege;->;"consolidação: ""regenera-na-narrativa"" → ""protege""";PROPOSTO-CONSOLIDACAO
+registradas-em;1;contexto;->;"consolidação: ""registradas-em"" → ""contexto""";PROPOSTO-CONSOLIDACAO
+registrado-em;1;contexto;->;"consolidação: ""registrado-em"" → ""contexto""";PROPOSTO-CONSOLIDACAO
 relaciona-se-a;1104;relaciona-se-a;->;;APROVADO
-"relaciona-se-a (""conectoma mental"", p. 190–191)";1;relaciona-se-a;->;"qualificador preservado: ""conectoma mental"", p. 190–191";PROPOSTO
-"relaciona-se-a (a ""doença"" que a gestão trata)";1;relaciona-se-a;->;"qualificador preservado: a ""doença"" que a gestão trata";PROPOSTO
-relaciona-se-a (a Vontade comanda o processo);1;relaciona-se-a;->;qualificador preservado: a Vontade comanda o processo;PROPOSTO
-relaciona-se-a (antídoto);1;relaciona-se-a;->;qualificador preservado: antídoto;PROPOSTO
-relaciona-se-a (coletivo → individual);1;relaciona-se-a;->;qualificador preservado: coletivo → individual;PROPOSTO
-relaciona-se-a (contexto);1;relaciona-se-a;->;qualificador preservado: contexto;PROPOSTO
-relaciona-se-a (criadores);1;relaciona-se-a;->;qualificador preservado: criadores;PROPOSTO
-relaciona-se-a (destinos da turnê);2;relaciona-se-a;->;qualificador preservado: destinos da turnê;PROPOSTO
-relaciona-se-a (estirpe afim na malha);1;relaciona-se-a;->;qualificador preservado: estirpe afim na malha;PROPOSTO
-relaciona-se-a (família Adhy);2;relaciona-se-a;->;qualificador preservado: família Adhy;PROPOSTO
-relaciona-se-a (mundo de urdidura);1;relaciona-se-a;->;qualificador preservado: mundo de urdidura;PROPOSTO
-relaciona-se-a (mundo-nave de urdidura dos capelinos);1;relaciona-se-a;->;qualificador preservado: mundo-nave de urdidura dos capelinos;PROPOSTO
-relaciona-se-a (método);1;relaciona-se-a;->;qualificador preservado: método;PROPOSTO
-"relaciona-se-a (o ""Eu Mais Profundo"" como gestor)";1;relaciona-se-a;->;"qualificador preservado: o ""Eu Mais Profundo"" como gestor";PROPOSTO
-relaciona-se-a (o veredito dá respaldo ao movimento);1;relaciona-se-a;->;qualificador preservado: o veredito dá respaldo ao movimento;PROPOSTO
-relaciona-se-a (o veredito valida o movimento);1;relaciona-se-a;->;qualificador preservado: o veredito valida o movimento;PROPOSTO
-relaciona-se-a (os dois lados do conflito);1;relaciona-se-a;->;qualificador preservado: os dois lados do conflito;PROPOSTO
-relaciona-se-a (planeta do Codificador);1;relaciona-se-a;->;qualificador preservado: planeta do Codificador;PROPOSTO
-relaciona-se-a (prática de alinhamento);1;relaciona-se-a;->;qualificador preservado: prática de alinhamento;PROPOSTO
-relaciona-se-a (prática-base: PRA);1;relaciona-se-a;->;qualificador preservado: prática-base: PRA;PROPOSTO
-relaciona-se-a (recomposição do criador);1;relaciona-se-a;->;qualificador preservado: recomposição do criador;PROPOSTO
-relaciona-se-a (reinar sobre o processo);1;relaciona-se-a;->;qualificador preservado: reinar sobre o processo;PROPOSTO
-relaciona-se-a (relação prévia na malha);4;relaciona-se-a;->;qualificador preservado: relação prévia na malha;PROPOSTO
-relaciona-se-a (relação prévia);1;relaciona-se-a;->;qualificador preservado: relação prévia;PROPOSTO
-relaciona-se-a (tema do vol. I);2;relaciona-se-a;->;qualificador preservado: tema do vol. I;PROPOSTO
-relaciona-se-a (tema do vol. II);1;relaciona-se-a;->;qualificador preservado: tema do vol. II;PROPOSTO
-relaciona-se-a (tema dos vols. I–II);3;relaciona-se-a;->;qualificador preservado: tema dos vols. I–II;PROPOSTO
-relaciona-se-a (tradição hermética);1;relaciona-se-a;->;qualificador preservado: tradição hermética;PROPOSTO
+"relaciona-se-a (""conectoma mental"", p. 190–191)";1;relaciona-se-a;->;"qualificador preservado: ""conectoma mental"", p. 190–191";PROPOSTO-CONSOLIDACAO
+"relaciona-se-a (a ""doença"" que a gestão trata)";1;relaciona-se-a;->;"qualificador preservado: a ""doença"" que a gestão trata";PROPOSTO-CONSOLIDACAO
+relaciona-se-a (a Vontade comanda o processo);1;relaciona-se-a;->;qualificador preservado: a Vontade comanda o processo;PROPOSTO-CONSOLIDACAO
+relaciona-se-a (antídoto);1;relaciona-se-a;->;qualificador preservado: antídoto;PROPOSTO-CONSOLIDACAO
+relaciona-se-a (coletivo → individual);1;relaciona-se-a;->;qualificador preservado: coletivo → individual;PROPOSTO-CONSOLIDACAO
+relaciona-se-a (contexto);1;relaciona-se-a;->;qualificador preservado: contexto;PROPOSTO-CONSOLIDACAO
+relaciona-se-a (criadores);1;relaciona-se-a;->;qualificador preservado: criadores;PROPOSTO-CONSOLIDACAO
+relaciona-se-a (destinos da turnê);2;relaciona-se-a;->;qualificador preservado: destinos da turnê;PROPOSTO-CONSOLIDACAO
+relaciona-se-a (estirpe afim na malha);1;relaciona-se-a;->;qualificador preservado: estirpe afim na malha;PROPOSTO-CONSOLIDACAO
+relaciona-se-a (família Adhy);2;relaciona-se-a;->;qualificador preservado: família Adhy;PROPOSTO-CONSOLIDACAO
+relaciona-se-a (mundo de urdidura);1;relaciona-se-a;->;qualificador preservado: mundo de urdidura;PROPOSTO-CONSOLIDACAO
+relaciona-se-a (mundo-nave de urdidura dos capelinos);1;relaciona-se-a;->;qualificador preservado: mundo-nave de urdidura dos capelinos;PROPOSTO-CONSOLIDACAO
+relaciona-se-a (método);1;relaciona-se-a;->;qualificador preservado: método;PROPOSTO-CONSOLIDACAO
+"relaciona-se-a (o ""Eu Mais Profundo"" como gestor)";1;relaciona-se-a;->;"qualificador preservado: o ""Eu Mais Profundo"" como gestor";PROPOSTO-CONSOLIDACAO
+relaciona-se-a (o veredito dá respaldo ao movimento);1;relaciona-se-a;->;qualificador preservado: o veredito dá respaldo ao movimento;PROPOSTO-CONSOLIDACAO
+relaciona-se-a (o veredito valida o movimento);1;relaciona-se-a;->;qualificador preservado: o veredito valida o movimento;PROPOSTO-CONSOLIDACAO
+relaciona-se-a (os dois lados do conflito);1;relaciona-se-a;->;qualificador preservado: os dois lados do conflito;PROPOSTO-CONSOLIDACAO
+relaciona-se-a (planeta do Codificador);1;relaciona-se-a;->;qualificador preservado: planeta do Codificador;PROPOSTO-CONSOLIDACAO
+relaciona-se-a (prática de alinhamento);1;relaciona-se-a;->;qualificador preservado: prática de alinhamento;PROPOSTO-CONSOLIDACAO
+relaciona-se-a (prática-base: PRA);1;relaciona-se-a;->;qualificador preservado: prática-base: PRA;PROPOSTO-CONSOLIDACAO
+relaciona-se-a (recomposição do criador);1;relaciona-se-a;->;qualificador preservado: recomposição do criador;PROPOSTO-CONSOLIDACAO
+relaciona-se-a (reinar sobre o processo);1;relaciona-se-a;->;qualificador preservado: reinar sobre o processo;PROPOSTO-CONSOLIDACAO
+relaciona-se-a (relação prévia na malha);4;relaciona-se-a;->;qualificador preservado: relação prévia na malha;PROPOSTO-CONSOLIDACAO
+relaciona-se-a (relação prévia);1;relaciona-se-a;->;qualificador preservado: relação prévia;PROPOSTO-CONSOLIDACAO
+relaciona-se-a (tema do vol. I);2;relaciona-se-a;->;qualificador preservado: tema do vol. I;PROPOSTO-CONSOLIDACAO
+relaciona-se-a (tema do vol. II);1;relaciona-se-a;->;qualificador preservado: tema do vol. II;PROPOSTO-CONSOLIDACAO
+relaciona-se-a (tema dos vols. I–II);3;relaciona-se-a;->;qualificador preservado: tema dos vols. I–II;PROPOSTO-CONSOLIDACAO
+relaciona-se-a (tradição hermética);1;relaciona-se-a;->;qualificador preservado: tradição hermética;PROPOSTO-CONSOLIDACAO
 relaciona-se-a / ver grafo;28;relaciona-se-a;->;ver grafo;APROVADO
-relacionado-a;3;relacionado-a;->;;PROPOSTO
-repercute-em;2;repercute-em;->;;PROPOSTO
-repertório (fila, sem ficha);1;repertório;->;qualificador preservado: fila, sem ficha;PROPOSTO
-replica-resposta-a;1;replica-resposta-a;->;;PROPOSTO
-requer;3;requer;->;;PROPOSTO
+relacionado-a;3;relaciona-se-a;->;"consolidação: ""relacionado-a"" → ""relaciona-se-a""";PROPOSTO-CONSOLIDACAO
+repercute-em;2;causa;->;"consolidação: ""repercute-em"" → ""causa""";PROPOSTO-CONSOLIDACAO
+repertório (fila, sem ficha);1;relaciona-se-a;->;"qualificador preservado: fila, sem ficha; consolidação: ""repertório"" → ""relaciona-se-a""";PROPOSTO-CONSOLIDACAO
+replica-resposta-a;1;comunica;->;"consolidação: ""replica-resposta-a"" → ""comunica""";PROPOSTO-CONSOLIDACAO
+requer;3;requer;->;;PROPOSTO-CONSOLIDACAO
 reside em Yetzirah;1;;;"rótulo livre; revisão manual (sem colapso mecânico)";REVISAR
-resiste-a;1;resiste-a;->;;PROPOSTO
-resistido-por;1;resistido-por;->;;PROPOSTO
-resolve;1;resolve;->;;PROPOSTO
-responde-a;2;responde-a;->;;PROPOSTO
-responde-por;3;responde-por;->;;PROPOSTO
-resposta-a;3;resposta-a;->;;PROPOSTO
-resulta-de;2;resulta-de;->;;PROPOSTO
-resulta-em;5;resulta-em;->;;PROPOSTO
-resulta-em (desdobramento);1;resulta-em;->;qualificador preservado: desdobramento;PROPOSTO
-resulta-em (quando imantada em Perpérion);1;resulta-em;->;qualificador preservado: quando imantada em Perpérion;PROPOSTO
-retira-sequências-de;1;retira-sequências-de;->;;PROPOSTO
-retrata-antes-da-queda;1;retrata-antes-da-queda;->;;PROPOSTO
-retratado-em;1;retratado-em;->;;PROPOSTO
-revela;1;revela;->;;PROPOSTO
-revelada-a;1;revelada-a;->;;PROPOSTO
-revelado-por;1;revelado-por;->;;PROPOSTO
-risco-de;1;risco-de;->;;PROPOSTO
-rompe;3;rompe;->;;PROPOSTO
-rompe-com;1;rompe-com;->;;PROPOSTO
-rompeu-lacre-de;1;rompeu-lacre-de;->;;PROPOSTO
-rompida-por;2;rompida-por;->;;PROPOSTO
-sacanela;1;sacanela;->;;PROPOSTO
-sediou;1;sediou;->;;PROPOSTO
-serve-de-modelo-para;2;serve-de-modelo-para;->;;PROPOSTO
+resiste-a;1;opõe-se-a;->;"consolidação: ""resiste-a"" → ""opõe-se-a""";PROPOSTO-CONSOLIDACAO
+resistido-por;1;opõe-se-a;<-;"consolidação: ""resistido-por"" → ""opõe-se-a""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+resolve;1;relaciona-se-a;->;"consolidação: ""resolve"" → ""relaciona-se-a""";PROPOSTO-CONSOLIDACAO
+responde-a;2;comunica;->;"consolidação: ""responde-a"" → ""comunica""";PROPOSTO-CONSOLIDACAO
+responde-por;3;comunica;<-;"consolidação: ""responde-por"" → ""comunica""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+resposta-a;3;comunica;->;"consolidação: ""resposta-a"" → ""comunica""";PROPOSTO-CONSOLIDACAO
+resulta-de;2;causa;<-;"consolidação: ""resulta-de"" → ""causa""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+resulta-em;5;causa;->;"consolidação: ""resulta-em"" → ""causa""";PROPOSTO-CONSOLIDACAO
+resulta-em (desdobramento);1;causa;->;"qualificador preservado: desdobramento; consolidação: ""resulta-em"" → ""causa""";PROPOSTO-CONSOLIDACAO
+resulta-em (quando imantada em Perpérion);1;causa;->;"qualificador preservado: quando imantada em Perpérion; consolidação: ""resulta-em"" → ""causa""";PROPOSTO-CONSOLIDACAO
+retira-sequências-de;1;relaciona-se-a;->;"consolidação: ""retira-sequências-de"" → ""relaciona-se-a""";PROPOSTO-CONSOLIDACAO
+retrata-antes-da-queda;1;representa;->;"consolidação: ""retrata-antes-da-queda"" → ""representa""";PROPOSTO-CONSOLIDACAO
+retratado-em;1;contexto;->;"consolidação: ""retratado-em"" → ""contexto""";PROPOSTO-CONSOLIDACAO
+revela;1;explica;->;"consolidação: ""revela"" → ""explica""";PROPOSTO-CONSOLIDACAO
+revelada-a;1;explica;->;"consolidação: ""revelada-a"" → ""explica""";PROPOSTO-CONSOLIDACAO
+revelado-por;1;explica;<-;"consolidação: ""revelado-por"" → ""explica""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+risco-de;1;causa;->;"consolidação: ""risco-de"" → ""causa""";PROPOSTO-CONSOLIDACAO
+rompe;3;danifica;->;"consolidação: ""rompe"" → ""danifica""";PROPOSTO-CONSOLIDACAO
+rompe-com;1;danifica;->;"consolidação: ""rompe-com"" → ""danifica""";PROPOSTO-CONSOLIDACAO
+rompeu-lacre-de;1;danifica;->;"consolidação: ""rompeu-lacre-de"" → ""danifica""";PROPOSTO-CONSOLIDACAO
+rompida-por;2;danifica;<-;"consolidação: ""rompida-por"" → ""danifica""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+sacanela;1;relaciona-se-a;->;"consolidação: ""sacanela"" → ""relaciona-se-a""";PROPOSTO-CONSOLIDACAO
+sediou;1;contexto;->;"consolidação: ""sediou"" → ""contexto""";PROPOSTO-CONSOLIDACAO
+serve-de-modelo-para;2;variação;->;"consolidação: ""serve-de-modelo-para"" → ""variação""";PROPOSTO-CONSOLIDACAO
 Shiva (termos delineados);1;;;"qualificador preservado: termos delineados; rótulo livre; revisão manual (sem colapso mecânico)";REVISAR
-sinônimo;12;sinônimo;->;;PROPOSTO
-sinônimo (Deus Incognoscível);2;sinônimo;->;qualificador preservado: Deus Incognoscível;PROPOSTO
-sinônimo-parcial;2;sinônimo-parcial;->;;PROPOSTO
-submete;1;submete;->;;PROPOSTO
-submetidos-a;1;submetidos-a;->;;PROPOSTO
-subordinada-a;1;subordinada-a;->;;PROPOSTO
-substitui;1;substitui;->;;PROPOSTO
-sucede;7;sucede;->;;PROPOSTO
-sucedido-por;1;sucedido-por;->;;PROPOSTO
-sujeito;2;sujeito;->;;PROPOSTO
+sinônimo;12;variação;->;"consolidação: ""sinônimo"" → ""variação""";PROPOSTO-CONSOLIDACAO
+sinônimo (Deus Incognoscível);2;variação;->;"qualificador preservado: Deus Incognoscível; consolidação: ""sinônimo"" → ""variação""";PROPOSTO-CONSOLIDACAO
+sinônimo-parcial;2;variação;->;"consolidação: ""sinônimo-parcial"" → ""variação""";PROPOSTO-CONSOLIDACAO
+submete;1;controla;->;"consolidação: ""submete"" → ""controla""";PROPOSTO-CONSOLIDACAO
+submetidos-a;1;controla;<-;"consolidação: ""submetidos-a"" → ""controla""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+subordinada-a;1;requer;->;"consolidação: ""subordinada-a"" → ""requer""";PROPOSTO-CONSOLIDACAO
+substitui;1;relaciona-se-a;->;"consolidação: ""substitui"" → ""relaciona-se-a""";PROPOSTO-CONSOLIDACAO
+sucede;7;sucede;->;;PROPOSTO-CONSOLIDACAO
+sucedido-por;1;sucede;<-;"consolidação: ""sucedido-por"" → ""sucede""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+sujeito;2;relaciona-se-a;->;"consolidação: ""sujeito"" → ""relaciona-se-a""";PROPOSTO-CONSOLIDACAO
 sujeito da queda;1;;;"rótulo livre; revisão manual (sem colapso mecânico)";REVISAR
-superior-a;1;superior-a;->;;PROPOSTO
-suporta;2;suporta;->;;PROPOSTO
-surge-em;2;surge-em;->;;PROPOSTO
-surgiu-em;1;surgiu-em;->;;PROPOSTO
-sustenta;3;sustenta;->;;PROPOSTO
-sustenta-ponte-não-local;1;sustenta-ponte-não-local;->;;PROPOSTO
-sustentada-por;2;sustentada-por;->;;PROPOSTO
-sustentam;1;sustentam;->;;PROPOSTO
-são-primeiras-vítimas-de;1;são-primeiras-vítimas-de;->;;PROPOSTO
-tabuleiro;1;tabuleiro;->;;PROPOSTO
-tem-como-modelo;1;tem-como-modelo;->;;PROPOSTO
-tem-condição;1;tem-condição;->;;PROPOSTO
-tem-expressão;1;tem-expressão;->;;PROPOSTO
-tem-filhas-unidas-a;1;tem-filhas-unidas-a;->;;PROPOSTO
-tem-forma;2;tem-forma;->;;PROPOSTO
-tem-forma (caída);1;tem-forma;->;qualificador preservado: caída;PROPOSTO
-tem-memória;1;tem-memória;->;;PROPOSTO
-tem-problemas-com;1;tem-problemas-com;->;;PROPOSTO
-tem-pulsação;1;tem-pulsação;->;;PROPOSTO
-tem-pulsação-de;1;tem-pulsação-de;->;;PROPOSTO
-tema;4;tema;->;;PROPOSTO
-tema-de;5;tema-de;->;;PROPOSTO
-tema-relacionado;2;tema-relacionado;->;;PROPOSTO
-tentou-3-vezes;1;tentou-3-vezes;->;;PROPOSTO
-termina-com;1;termina-com;->;;PROPOSTO
-trabalha-em;1;trabalha-em;->;;PROPOSTO
-transfere-para;4;transfere-para;->;;PROPOSTO
-transferiu-doença-para;1;transferiu-doença-para;->;;PROPOSTO
-transforma;1;transforma;->;;PROPOSTO
-transporta;4;transporta;->;;PROPOSTO
-transportado-por;1;transportado-por;->;;PROPOSTO
-trouxe;1;trouxe;->;;PROPOSTO
-trucidou-via;1;trucidou-via;->;;PROPOSTO
-tutoria;1;tutoria;->;;PROPOSTO
-une-se-às-filhas-de;1;une-se-às-filhas-de;->;;PROPOSTO
-unificado-ao;1;unificado-ao;->;;PROPOSTO
+superior-a;1;precede;->;"consolidação: ""superior-a"" → ""precede""";PROPOSTO-CONSOLIDACAO
+suporta;2;protege;->;"consolidação: ""suporta"" → ""protege""";PROPOSTO-CONSOLIDACAO
+surge-em;2;contexto;->;"consolidação: ""surge-em"" → ""contexto""";PROPOSTO-CONSOLIDACAO
+surgiu-em;1;contexto;->;"consolidação: ""surgiu-em"" → ""contexto""";PROPOSTO-CONSOLIDACAO
+sustenta;3;protege;->;"consolidação: ""sustenta"" → ""protege""";PROPOSTO-CONSOLIDACAO
+sustenta-ponte-não-local;1;protege;->;"consolidação: ""sustenta-ponte-não-local"" → ""protege""";PROPOSTO-CONSOLIDACAO
+sustentada-por;2;protege;<-;"consolidação: ""sustentada-por"" → ""protege""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+sustentam;1;protege;->;"consolidação: ""sustentam"" → ""protege""";PROPOSTO-CONSOLIDACAO
+são-primeiras-vítimas-de;1;danifica;->;"consolidação: ""são-primeiras-vítimas-de"" → ""danifica""";PROPOSTO-CONSOLIDACAO
+tabuleiro;1;relaciona-se-a;->;"consolidação: ""tabuleiro"" → ""relaciona-se-a""";PROPOSTO-CONSOLIDACAO
+tem-como-modelo;1;variação;->;"consolidação: ""tem-como-modelo"" → ""variação""";PROPOSTO-CONSOLIDACAO
+tem-condição;1;requer;->;"consolidação: ""tem-condição"" → ""requer""";PROPOSTO-CONSOLIDACAO
+tem-expressão;1;representa;->;"consolidação: ""tem-expressão"" → ""representa""";PROPOSTO-CONSOLIDACAO
+tem-filhas-unidas-a;1;associado;<->;"consolidação: ""tem-filhas-unidas-a"" → ""associado""";PROPOSTO-CONSOLIDACAO
+tem-forma;2;representa;->;"consolidação: ""tem-forma"" → ""representa""";PROPOSTO-CONSOLIDACAO
+tem-forma (caída);1;representa;->;"qualificador preservado: caída; consolidação: ""tem-forma"" → ""representa""";PROPOSTO-CONSOLIDACAO
+tem-memória;1;relaciona-se-a;->;"consolidação: ""tem-memória"" → ""relaciona-se-a""";PROPOSTO-CONSOLIDACAO
+tem-problemas-com;1;danifica;->;"consolidação: ""tem-problemas-com"" → ""danifica""";PROPOSTO-CONSOLIDACAO
+tem-pulsação;1;relaciona-se-a;->;"consolidação: ""tem-pulsação"" → ""relaciona-se-a""";PROPOSTO-CONSOLIDACAO
+tem-pulsação-de;1;relaciona-se-a;->;"consolidação: ""tem-pulsação-de"" → ""relaciona-se-a""";PROPOSTO-CONSOLIDACAO
+tema;4;contexto;->;"consolidação: ""tema"" → ""contexto""";PROPOSTO-CONSOLIDACAO
+tema-de;5;contexto;->;"consolidação: ""tema-de"" → ""contexto""";PROPOSTO-CONSOLIDACAO
+tema-relacionado;2;relaciona-se-a;->;"consolidação: ""tema-relacionado"" → ""relaciona-se-a""";PROPOSTO-CONSOLIDACAO
+tentou-3-vezes;1;relaciona-se-a;->;"consolidação: ""tentou-3-vezes"" → ""relaciona-se-a""";PROPOSTO-CONSOLIDACAO
+termina-com;1;sucede;->;"consolidação: ""termina-com"" → ""sucede""";PROPOSTO-CONSOLIDACAO
+trabalha-em;1;contexto;->;"consolidação: ""trabalha-em"" → ""contexto""";PROPOSTO-CONSOLIDACAO
+transfere-para;4;transfere;->;"consolidação: ""transfere-para"" → ""transfere""";PROPOSTO-CONSOLIDACAO
+transferiu-doença-para;1;transfere;->;"consolidação: ""transferiu-doença-para"" → ""transfere""";PROPOSTO-CONSOLIDACAO
+transforma;1;causa;->;"consolidação: ""transforma"" → ""causa""";PROPOSTO-CONSOLIDACAO
+transporta;4;transfere;->;"consolidação: ""transporta"" → ""transfere""";PROPOSTO-CONSOLIDACAO
+transportado-por;1;transfere;<-;"consolidação: ""transportado-por"" → ""transfere""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+trouxe;1;transfere;->;"consolidação: ""trouxe"" → ""transfere""";PROPOSTO-CONSOLIDACAO
+trucidou-via;1;danifica;->;"consolidação: ""trucidou-via"" → ""danifica""";PROPOSTO-CONSOLIDACAO
+tutoria;1;controla;->;"consolidação: ""tutoria"" → ""controla""";PROPOSTO-CONSOLIDACAO
+une-se-às-filhas-de;1;associado;<->;"consolidação: ""une-se-às-filhas-de"" → ""associado""";PROPOSTO-CONSOLIDACAO
+unificado-ao;1;relaciona-se-a;->;"consolidação: ""unificado-ao"" → ""relaciona-se-a""";PROPOSTO-CONSOLIDACAO
 usa;30;usa;->;;APROVADO
-usa-via;1;usa-via;->;;PROPOSTO
-usada-em;1;usada-em;->;;PROPOSTO
-usado-por;1;usado-por;->;;PROPOSTO
-valoriza;1;valoriza;->;;PROPOSTO
-variante-de;1;variante-de;->;;PROPOSTO
+usa-via;1;usa;->;"consolidação: ""usa-via"" → ""usa""";PROPOSTO-CONSOLIDACAO
+usada-em;1;usa;->;"consolidação: ""usada-em"" → ""usa""";PROPOSTO-CONSOLIDACAO
+usado-por;1;usa;<-;"consolidação: ""usado-por"" → ""usa""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+valoriza;1;protege;->;"consolidação: ""valoriza"" → ""protege""";PROPOSTO-CONSOLIDACAO
+variante-de;1;variação;->;"consolidação: ""variante-de"" → ""variação""";PROPOSTO-CONSOLIDACAO
 variação;69;variação;->;;APROVADO
-variação (alma pura);1;variação;->;qualificador preservado: alma pura;PROPOSTO
-variação (B044);1;variação;->;qualificador preservado: B044;PROPOSTO
-variação (conceito histórico);1;variação;->;qualificador preservado: conceito histórico;PROPOSTO
-variação («a quinta… escola da decifração»);1;variação;->;qualificador preservado: «a quinta… escola da decifração»;PROPOSTO
-variação-posterior-de;1;variação-posterior-de;->;;PROPOSTO
+variação (alma pura);1;variação;->;qualificador preservado: alma pura;PROPOSTO-CONSOLIDACAO
+variação (B044);1;variação;->;qualificador preservado: B044;PROPOSTO-CONSOLIDACAO
+variação (conceito histórico);1;variação;->;qualificador preservado: conceito histórico;PROPOSTO-CONSOLIDACAO
+variação («a quinta… escola da decifração»);1;variação;->;qualificador preservado: «a quinta… escola da decifração»;PROPOSTO-CONSOLIDACAO
+variação-posterior-de;1;variação;->;"consolidação: ""variação-posterior-de"" → ""variação""";PROPOSTO-CONSOLIDACAO
 ver malha;2;;;"rótulo livre; revisão manual (sem colapso mecânico)";REVISAR
-versão-oficial-de;1;versão-oficial-de;->;;PROPOSTO
+versão-oficial-de;1;variação;->;"consolidação: ""versão-oficial-de"" → ""variação""";PROPOSTO-CONSOLIDACAO
 veículo de disseminação (fila, sem ficha);1;;;"qualificador preservado: fila, sem ficha; rótulo livre; revisão manual (sem colapso mecânico)";REVISAR
-viabiliza;2;viabiliza;->;;PROPOSTO
-vincula;3;vincula;->;;PROPOSTO
-vinculado-ao-espírito;6;vinculado-ao-espírito;->;;PROPOSTO
-vitima;1;vitima;->;;PROPOSTO
-vitimas;1;vitimas;->;;PROPOSTO
-vínculo-de-identidade (relato B060 — quarentena);1;vínculo-de-identidade;->;qualificador preservado: relato B060 — quarentena;PROPOSTO
-é-1ª-tentativa;1;é-1ª-tentativa;->;;PROPOSTO
-é-1ª-tentativa-fracassada;1;é-1ª-tentativa-fracassada;->;;PROPOSTO
-é-2ª-tentativa-de;1;é-2ª-tentativa-de;->;;PROPOSTO
-é-2ª-tentativa-fracassada;1;é-2ª-tentativa-fracassada;->;;PROPOSTO
-é-3ª-tentativa-sucesso;1;é-3ª-tentativa-sucesso;->;;PROPOSTO
-é-agente-de;1;é-agente-de;->;;PROPOSTO
-é-alternativa-a;1;é-alternativa-a;->;;PROPOSTO
-é-alvo-de;4;é-alvo-de;->;;PROPOSTO
-é-análoga-a;1;é-análoga-a;->;;PROPOSTO
-é-análoga-babilônica;1;é-análoga-babilônica;->;;PROPOSTO
-é-análogo-a;1;é-análogo-a;->;;PROPOSTO
-é-avatar-de;2;é-avatar-de;->;;PROPOSTO
-é-biodemo;1;é-biodemo;->;;PROPOSTO
-é-biodemo-com;1;é-biodemo-com;->;;PROPOSTO
-é-biodemo-de;1;é-biodemo-de;->;;PROPOSTO
-é-clone-para-inseminação-de;2;é-clone-para-inseminação-de;->;;PROPOSTO
-é-coautor-de;1;é-coautor-de;->;;PROPOSTO
-é-coautora-de;1;é-coautora-de;->;;PROPOSTO
-é-companheiro-de;2;é-companheiro-de;->;;PROPOSTO
-é-comparada-à-emergência-de;1;é-comparada-à-emergência-de;->;;PROPOSTO
-é-complemento;2;é-complemento;->;;PROPOSTO
-é-complemento-a;1;é-complemento-a;->;;PROPOSTO
-é-componente-de;1;é-componente-de;->;;PROPOSTO
-é-consequência-de;5;é-consequência-de;->;;PROPOSTO
-é-contexto-de;12;é-contexto-de;->;;PROPOSTO
-é-controlado-por;1;é-controlado-por;->;;PROPOSTO
-é-criador-de;2;é-criador-de;->;;PROPOSTO
-é-criminoso-de;1;é-criminoso-de;->;;PROPOSTO
-é-cumprido-via;2;é-cumprido-via;->;;PROPOSTO
-é-da-espécie;2;é-da-espécie;->;;PROPOSTO
-é-de;1;é-de;->;;PROPOSTO
-é-descendente-de;1;é-descendente-de;->;;PROPOSTO
-é-efeito-colateral-de;1;é-efeito-colateral-de;->;;PROPOSTO
-é-encarnação-posterior-de;1;é-encarnação-posterior-de;->;;PROPOSTO
-é-equivalente-feminino-de;1;é-equivalente-feminino-de;->;;PROPOSTO
-é-equivalente-grego;1;é-equivalente-grego;->;;PROPOSTO
-é-espécie-de;1;é-espécie-de;->;;PROPOSTO
-é-estado-de;2;é-estado-de;->;;PROPOSTO
-é-evento-de;1;é-evento-de;->;;PROPOSTO
-é-exceção-a;2;é-exceção-a;->;;PROPOSTO
-é-expressão-de;1;é-expressão-de;->;;PROPOSTO
-é-extensão-de;1;é-extensão-de;->;;PROPOSTO
-é-falência-de;1;é-falência-de;->;;PROPOSTO
-é-família-de;3;é-família-de;->;;PROPOSTO
-é-fase-de;2;é-fase-de;->;;PROPOSTO
-é-fenômeno-de;1;é-fenômeno-de;->;;PROPOSTO
-é-fonte-de;1;é-fonte-de;->;;PROPOSTO
-é-ilha-de;1;é-ilha-de;->;;PROPOSTO
-é-inseminada-por;2;é-inseminada-por;->;;PROPOSTO
-é-instrumento-de;1;é-instrumento-de;->;;PROPOSTO
-é-início-de;1;é-início-de;->;;PROPOSTO
-é-irmão-de;1;é-irmão-de;->;;PROPOSTO
-é-manifestação-de;1;é-manifestação-de;->;;PROPOSTO
-é-mantida-por;1;é-mantida-por;->;;PROPOSTO
-é-mantida-via;1;é-mantida-via;->;;PROPOSTO
-é-mecanismo-de;8;é-mecanismo-de;->;;PROPOSTO
-é-memória-mais-antiga-de;1;é-memória-mais-antiga-de;->;;PROPOSTO
-é-mente-desmembrada-em;1;é-mente-desmembrada-em;->;;PROPOSTO
-é-metáfora-para;1;é-metáfora-para;->;;PROPOSTO
-é-morada-de;2;é-morada-de;->;;PROPOSTO
-é-mãe;1;é-mãe;->;;PROPOSTO
-é-mãe-de;1;é-mãe-de;->;;PROPOSTO
+viabiliza;2;causa;->;"consolidação: ""viabiliza"" → ""causa""";PROPOSTO-CONSOLIDACAO
+vincula;3;associado;<->;"consolidação: ""vincula"" → ""associado""";PROPOSTO-CONSOLIDACAO
+vinculado-ao-espírito;6;associado;<->;"consolidação: ""vinculado-ao-espírito"" → ""associado""";PROPOSTO-CONSOLIDACAO
+vitima;1;danifica;->;"consolidação: ""vitima"" → ""danifica""";PROPOSTO-CONSOLIDACAO
+vitimas;1;danifica;->;"consolidação: ""vitimas"" → ""danifica""";PROPOSTO-CONSOLIDACAO
+vínculo-de-identidade (relato B060 — quarentena);1;associado;<->;"qualificador preservado: relato B060 — quarentena; consolidação: ""vínculo-de-identidade"" → ""associado""";PROPOSTO-CONSOLIDACAO
+é-1ª-tentativa;1;é-um;->;"consolidação: ""é-1ª-tentativa"" → ""é-um""";PROPOSTO-CONSOLIDACAO
+é-1ª-tentativa-fracassada;1;é-um;->;"consolidação: ""é-1ª-tentativa-fracassada"" → ""é-um""";PROPOSTO-CONSOLIDACAO
+é-2ª-tentativa-de;1;é-um;->;"consolidação: ""é-2ª-tentativa-de"" → ""é-um""";PROPOSTO-CONSOLIDACAO
+é-2ª-tentativa-fracassada;1;é-um;->;"consolidação: ""é-2ª-tentativa-fracassada"" → ""é-um""";PROPOSTO-CONSOLIDACAO
+é-3ª-tentativa-sucesso;1;é-um;->;"consolidação: ""é-3ª-tentativa-sucesso"" → ""é-um""";PROPOSTO-CONSOLIDACAO
+é-agente-de;1;envolve;->;"consolidação: ""é-agente-de"" → ""envolve""";PROPOSTO-CONSOLIDACAO
+é-alternativa-a;1;variação;->;"consolidação: ""é-alternativa-a"" → ""variação""";PROPOSTO-CONSOLIDACAO
+é-alvo-de;4;é-um;->;"consolidação: ""é-alvo-de"" → ""é-um""";PROPOSTO-CONSOLIDACAO
+é-análoga-a;1;variação;->;"consolidação: ""é-análoga-a"" → ""variação""";PROPOSTO-CONSOLIDACAO
+é-análoga-babilônica;1;variação;->;"consolidação: ""é-análoga-babilônica"" → ""variação""";PROPOSTO-CONSOLIDACAO
+é-análogo-a;1;variação;->;"consolidação: ""é-análogo-a"" → ""variação""";PROPOSTO-CONSOLIDACAO
+é-avatar-de;2;origina;->;"consolidação: ""é-avatar-de"" → ""origina""";PROPOSTO-CONSOLIDACAO
+é-biodemo;1;é-um;->;"consolidação: ""é-biodemo"" → ""é-um""";PROPOSTO-CONSOLIDACAO
+é-biodemo-com;1;é-um;->;"consolidação: ""é-biodemo-com"" → ""é-um""";PROPOSTO-CONSOLIDACAO
+é-biodemo-de;1;é-um;->;"consolidação: ""é-biodemo-de"" → ""é-um""";PROPOSTO-CONSOLIDACAO
+é-clone-para-inseminação-de;2;origina;->;"consolidação: ""é-clone-para-inseminação-de"" → ""origina""";PROPOSTO-CONSOLIDACAO
+é-coautor-de;1;envolve;->;"consolidação: ""é-coautor-de"" → ""envolve""";PROPOSTO-CONSOLIDACAO
+é-coautora-de;1;envolve;->;"consolidação: ""é-coautora-de"" → ""envolve""";PROPOSTO-CONSOLIDACAO
+é-companheiro-de;2;associado;<->;"consolidação: ""é-companheiro-de"" → ""associado""";PROPOSTO-CONSOLIDACAO
+é-comparada-à-emergência-de;1;variação;->;"consolidação: ""é-comparada-à-emergência-de"" → ""variação""";PROPOSTO-CONSOLIDACAO
+é-complemento;2;associado;<->;"consolidação: ""é-complemento"" → ""associado""";PROPOSTO-CONSOLIDACAO
+é-complemento-a;1;associado;<->;"consolidação: ""é-complemento-a"" → ""associado""";PROPOSTO-CONSOLIDACAO
+é-componente-de;1;parte-de;->;"consolidação: ""é-componente-de"" → ""parte-de""";PROPOSTO-CONSOLIDACAO
+é-consequência-de;5;causa;<-;"consolidação: ""é-consequência-de"" → ""causa""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+é-contexto-de;12;contexto;->;"consolidação: ""é-contexto-de"" → ""contexto""";PROPOSTO-CONSOLIDACAO
+é-controlado-por;1;controla;<-;"consolidação: ""é-controlado-por"" → ""controla""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+é-criador-de;2;origina;->;"consolidação: ""é-criador-de"" → ""origina""";PROPOSTO-CONSOLIDACAO
+é-criminoso-de;1;envolve;->;"consolidação: ""é-criminoso-de"" → ""envolve""";PROPOSTO-CONSOLIDACAO
+é-cumprido-via;2;usa;<-;"consolidação: ""é-cumprido-via"" → ""usa""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+é-da-espécie;2;é-um;->;"consolidação: ""é-da-espécie"" → ""é-um""";PROPOSTO-CONSOLIDACAO
+é-de;1;relaciona-se-a;->;"consolidação: ""é-de"" → ""relaciona-se-a""";PROPOSTO-CONSOLIDACAO
+é-descendente-de;1;origina;->;"consolidação: ""é-descendente-de"" → ""origina""";PROPOSTO-CONSOLIDACAO
+é-efeito-colateral-de;1;causa;<-;"consolidação: ""é-efeito-colateral-de"" → ""causa""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+é-encarnação-posterior-de;1;origina;->;"consolidação: ""é-encarnação-posterior-de"" → ""origina""";PROPOSTO-CONSOLIDACAO
+é-equivalente-feminino-de;1;variação;->;"consolidação: ""é-equivalente-feminino-de"" → ""variação""";PROPOSTO-CONSOLIDACAO
+é-equivalente-grego;1;variação;->;"consolidação: ""é-equivalente-grego"" → ""variação""";PROPOSTO-CONSOLIDACAO
+é-espécie-de;1;é-um;->;"consolidação: ""é-espécie-de"" → ""é-um""";PROPOSTO-CONSOLIDACAO
+é-estado-de;2;é-um;->;"consolidação: ""é-estado-de"" → ""é-um""";PROPOSTO-CONSOLIDACAO
+é-evento-de;1;é-um;->;"consolidação: ""é-evento-de"" → ""é-um""";PROPOSTO-CONSOLIDACAO
+é-exceção-a;2;opõe-se-a;->;"consolidação: ""é-exceção-a"" → ""opõe-se-a""";PROPOSTO-CONSOLIDACAO
+é-expressão-de;1;representa;->;"consolidação: ""é-expressão-de"" → ""representa""";PROPOSTO-CONSOLIDACAO
+é-extensão-de;1;parte-de;->;"consolidação: ""é-extensão-de"" → ""parte-de""";PROPOSTO-CONSOLIDACAO
+é-falência-de;1;causa;->;"consolidação: ""é-falência-de"" → ""causa""";PROPOSTO-CONSOLIDACAO
+é-família-de;3;é-um;->;"consolidação: ""é-família-de"" → ""é-um""";PROPOSTO-CONSOLIDACAO
+é-fase-de;2;parte-de;->;"consolidação: ""é-fase-de"" → ""parte-de""";PROPOSTO-CONSOLIDACAO
+é-fenômeno-de;1;é-um;->;"consolidação: ""é-fenômeno-de"" → ""é-um""";PROPOSTO-CONSOLIDACAO
+é-fonte-de;1;origina;->;"consolidação: ""é-fonte-de"" → ""origina""";PROPOSTO-CONSOLIDACAO
+é-ilha-de;1;parte-de;->;"consolidação: ""é-ilha-de"" → ""parte-de""";PROPOSTO-CONSOLIDACAO
+é-inseminada-por;2;origina;<-;"consolidação: ""é-inseminada-por"" → ""origina""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+é-instrumento-de;1;usa;->;"consolidação: ""é-instrumento-de"" → ""usa""";PROPOSTO-CONSOLIDACAO
+é-início-de;1;origina;->;"consolidação: ""é-início-de"" → ""origina""";PROPOSTO-CONSOLIDACAO
+é-irmão-de;1;é-um;->;"consolidação: ""é-irmão-de"" → ""é-um""";PROPOSTO-CONSOLIDACAO
+é-manifestação-de;1;representa;->;"consolidação: ""é-manifestação-de"" → ""representa""";PROPOSTO-CONSOLIDACAO
+é-mantida-por;1;controla;<-;"consolidação: ""é-mantida-por"" → ""controla""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+é-mantida-via;1;controla;<-;"consolidação: ""é-mantida-via"" → ""controla""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+é-mecanismo-de;8;usa;->;"consolidação: ""é-mecanismo-de"" → ""usa""";PROPOSTO-CONSOLIDACAO
+é-memória-mais-antiga-de;1;precede;->;"consolidação: ""é-memória-mais-antiga-de"" → ""precede""";PROPOSTO-CONSOLIDACAO
+é-mente-desmembrada-em;1;é-um;->;"consolidação: ""é-mente-desmembrada-em"" → ""é-um""";PROPOSTO-CONSOLIDACAO
+é-metáfora-para;1;variação;->;"consolidação: ""é-metáfora-para"" → ""variação""";PROPOSTO-CONSOLIDACAO
+é-morada-de;2;contexto;->;"consolidação: ""é-morada-de"" → ""contexto""";PROPOSTO-CONSOLIDACAO
+é-mãe;1;origina;->;"consolidação: ""é-mãe"" → ""origina""";PROPOSTO-CONSOLIDACAO
+é-mãe-de;1;origina;->;"consolidação: ""é-mãe-de"" → ""origina""";PROPOSTO-CONSOLIDACAO
 é-mãe-de-Ascendência-de;1;;;"rótulo livre; revisão manual (sem colapso mecânico)";REVISAR
-é-mãe-de-origem;1;é-mãe-de-origem;->;;PROPOSTO
-é-método-de;1;é-método-de;->;;PROPOSTO
-é-obra-de;2;é-obra-de;->;;PROPOSTO
-é-origem;1;é-origem;->;;PROPOSTO
-é-origem-de;1;é-origem-de;->;;PROPOSTO
-é-padrão-de;1;é-padrão-de;->;;PROPOSTO
-é-pai;1;é-pai;->;;PROPOSTO
-é-paralelo-a;1;é-paralelo-a;->;;PROPOSTO
-é-paralelo-com;18;é-paralelo-com;->;;PROPOSTO
-é-paralelo-formal-com;1;é-paralelo-formal-com;->;;PROPOSTO
-é-paralelo-nórdico-com;1;é-paralelo-nórdico-com;->;;PROPOSTO
-é-parte-de;1;é-parte-de;->;;PROPOSTO
-é-parte-mais-bela-de;1;é-parte-mais-bela-de;->;;PROPOSTO
-é-personificação-de;1;é-personificação-de;->;;PROPOSTO
-é-posterior;1;é-posterior;->;;PROPOSTO
-é-primeiro-demo;1;é-primeiro-demo;->;;PROPOSTO
-é-produto-de;1;é-produto-de;->;;PROPOSTO
-é-produzida-via;1;é-produzida-via;->;;PROPOSTO
-é-programação-de;1;é-programação-de;->;;PROPOSTO
-é-progressivamente-livre-de;3;é-progressivamente-livre-de;->;;PROPOSTO
-é-progênie;1;é-progênie;->;;PROPOSTO
-é-protagonista-de;2;é-protagonista-de;->;;PROPOSTO
-é-qualificada-como;1;é-qualificada-como;->;;PROPOSTO
-é-quebrada-por;1;é-quebrada-por;->;;PROPOSTO
-é-rainha-de;1;é-rainha-de;->;;PROPOSTO
-é-representante-de;1;é-representante-de;->;;PROPOSTO
-é-resistência-a;3;é-resistência-a;->;;PROPOSTO
-é-resposta-a;2;é-resposta-a;->;;PROPOSTO
-é-resultado-de;5;é-resultado-de;->;;PROPOSTO
-é-sufocada-por;1;é-sufocada-por;->;;PROPOSTO
-é-tema-de;1;é-tema-de;->;;PROPOSTO
-é-tragado-em;1;é-tragado-em;->;;PROPOSTO
+é-mãe-de-origem;1;origina;->;"consolidação: ""é-mãe-de-origem"" → ""origina""";PROPOSTO-CONSOLIDACAO
+é-método-de;1;usa;->;"consolidação: ""é-método-de"" → ""usa""";PROPOSTO-CONSOLIDACAO
+é-obra-de;2;origina;<-;"consolidação: ""é-obra-de"" → ""origina""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+é-origem;1;origina;->;"consolidação: ""é-origem"" → ""origina""";PROPOSTO-CONSOLIDACAO
+é-origem-de;1;origina;->;"consolidação: ""é-origem-de"" → ""origina""";PROPOSTO-CONSOLIDACAO
+é-padrão-de;1;variação;->;"consolidação: ""é-padrão-de"" → ""variação""";PROPOSTO-CONSOLIDACAO
+é-pai;1;origina;->;"consolidação: ""é-pai"" → ""origina""";PROPOSTO-CONSOLIDACAO
+é-paralelo-a;1;associado;<->;"consolidação: ""é-paralelo-a"" → ""associado""";PROPOSTO-CONSOLIDACAO
+é-paralelo-com;18;associado;<->;"consolidação: ""é-paralelo-com"" → ""associado""";PROPOSTO-CONSOLIDACAO
+é-paralelo-formal-com;1;associado;<->;"consolidação: ""é-paralelo-formal-com"" → ""associado""";PROPOSTO-CONSOLIDACAO
+é-paralelo-nórdico-com;1;associado;<->;"consolidação: ""é-paralelo-nórdico-com"" → ""associado""";PROPOSTO-CONSOLIDACAO
+é-parte-de;1;parte-de;->;"consolidação: ""é-parte-de"" → ""parte-de""";PROPOSTO-CONSOLIDACAO
+é-parte-mais-bela-de;1;parte-de;->;"consolidação: ""é-parte-mais-bela-de"" → ""parte-de""";PROPOSTO-CONSOLIDACAO
+é-personificação-de;1;representa;->;"consolidação: ""é-personificação-de"" → ""representa""";PROPOSTO-CONSOLIDACAO
+é-posterior;1;sucede;->;"consolidação: ""é-posterior"" → ""sucede""";PROPOSTO-CONSOLIDACAO
+é-primeiro-demo;1;precede;->;"consolidação: ""é-primeiro-demo"" → ""precede""";PROPOSTO-CONSOLIDACAO
+é-produto-de;1;origina;<-;"consolidação: ""é-produto-de"" → ""origina""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+é-produzida-via;1;causa;<-;"consolidação: ""é-produzida-via"" → ""causa""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+é-programação-de;1;usa;->;"consolidação: ""é-programação-de"" → ""usa""";PROPOSTO-CONSOLIDACAO
+é-progressivamente-livre-de;3;é-um;->;"consolidação: ""é-progressivamente-livre-de"" → ""é-um""";PROPOSTO-CONSOLIDACAO
+é-progênie;1;origina;->;"consolidação: ""é-progênie"" → ""origina""";PROPOSTO-CONSOLIDACAO
+é-protagonista-de;2;envolve;->;"consolidação: ""é-protagonista-de"" → ""envolve""";PROPOSTO-CONSOLIDACAO
+é-qualificada-como;1;explica;->;"consolidação: ""é-qualificada-como"" → ""explica""";PROPOSTO-CONSOLIDACAO
+é-quebrada-por;1;causa;<-;"consolidação: ""é-quebrada-por"" → ""causa""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+é-rainha-de;1;controla;->;"consolidação: ""é-rainha-de"" → ""controla""";PROPOSTO-CONSOLIDACAO
+é-representante-de;1;representa;->;"consolidação: ""é-representante-de"" → ""representa""";PROPOSTO-CONSOLIDACAO
+é-resistência-a;3;opõe-se-a;->;"consolidação: ""é-resistência-a"" → ""opõe-se-a""";PROPOSTO-CONSOLIDACAO
+é-resposta-a;2;comunica;->;"consolidação: ""é-resposta-a"" → ""comunica""";PROPOSTO-CONSOLIDACAO
+é-resultado-de;5;causa;<-;"consolidação: ""é-resultado-de"" → ""causa""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+é-sufocada-por;1;causa;<-;"consolidação: ""é-sufocada-por"" → ""causa""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+é-tema-de;1;contexto;->;"consolidação: ""é-tema-de"" → ""contexto""";PROPOSTO-CONSOLIDACAO
+é-tragado-em;1;é-um;->;"consolidação: ""é-tragado-em"" → ""é-um""";PROPOSTO-CONSOLIDACAO
 é-um;124;é-um;->;;APROVADO
-é-um (avatar);2;é-um;->;qualificador preservado: avatar;PROPOSTO
-é-um (biocoletivo);2;é-um;->;qualificador preservado: biocoletivo;PROPOSTO
-é-um (categoria);1;é-um;->;qualificador preservado: categoria;PROPOSTO
-é-um (contexto);1;é-um;->;qualificador preservado: contexto;PROPOSTO
-é-um (deuses);1;é-um;->;qualificador preservado: deuses;PROPOSTO
-é-um (encarnação);1;é-um;->;qualificador preservado: encarnação;PROPOSTO
-é-um (família específica);1;é-um;->;qualificador preservado: família específica;PROPOSTO
-é-um (frase);1;é-um;->;qualificador preservado: frase;PROPOSTO
-é-um (ideal);1;é-um;->;qualificador preservado: ideal;PROPOSTO
-é-um (mesmo gênero);1;é-um;->;qualificador preservado: mesmo gênero;PROPOSTO
-é-um (moradas);1;é-um;->;qualificador preservado: moradas;PROPOSTO
-é-um (o modelo de relação);1;é-um;->;qualificador preservado: o modelo de relação;PROPOSTO
-é-um (origem);1;é-um;->;qualificador preservado: origem;PROPOSTO
-é-um (tema);1;é-um;->;qualificador preservado: tema;PROPOSTO
-é-uma-espécie-de;1;é-uma-espécie-de;->;;PROPOSTO
-é-versão-moderada-de;1;é-versão-moderada-de;->;;PROPOSTO
-é-vetor-de;1;é-vetor-de;->;;PROPOSTO
-é-veículo-de;1;é-veículo-de;->;;PROPOSTO
-é-vigiada-por;2;é-vigiada-por;->;;PROPOSTO
-é-vingança-via;1;é-vingança-via;->;;PROPOSTO
-é-último-de;1;é-último-de;->;;PROPOSTO
+é-um (avatar);2;é-um;->;qualificador preservado: avatar;PROPOSTO-CONSOLIDACAO
+é-um (biocoletivo);2;é-um;->;qualificador preservado: biocoletivo;PROPOSTO-CONSOLIDACAO
+é-um (categoria);1;é-um;->;qualificador preservado: categoria;PROPOSTO-CONSOLIDACAO
+é-um (contexto);1;é-um;->;qualificador preservado: contexto;PROPOSTO-CONSOLIDACAO
+é-um (deuses);1;é-um;->;qualificador preservado: deuses;PROPOSTO-CONSOLIDACAO
+é-um (encarnação);1;é-um;->;qualificador preservado: encarnação;PROPOSTO-CONSOLIDACAO
+é-um (família específica);1;é-um;->;qualificador preservado: família específica;PROPOSTO-CONSOLIDACAO
+é-um (frase);1;é-um;->;qualificador preservado: frase;PROPOSTO-CONSOLIDACAO
+é-um (ideal);1;é-um;->;qualificador preservado: ideal;PROPOSTO-CONSOLIDACAO
+é-um (mesmo gênero);1;é-um;->;qualificador preservado: mesmo gênero;PROPOSTO-CONSOLIDACAO
+é-um (moradas);1;é-um;->;qualificador preservado: moradas;PROPOSTO-CONSOLIDACAO
+é-um (o modelo de relação);1;é-um;->;qualificador preservado: o modelo de relação;PROPOSTO-CONSOLIDACAO
+é-um (origem);1;é-um;->;qualificador preservado: origem;PROPOSTO-CONSOLIDACAO
+é-um (tema);1;é-um;->;qualificador preservado: tema;PROPOSTO-CONSOLIDACAO
+é-uma-espécie-de;1;é-um;->;"consolidação: ""é-uma-espécie-de"" → ""é-um""";PROPOSTO-CONSOLIDACAO
+é-versão-moderada-de;1;variação;->;"consolidação: ""é-versão-moderada-de"" → ""variação""";PROPOSTO-CONSOLIDACAO
+é-vetor-de;1;usa;->;"consolidação: ""é-vetor-de"" → ""usa""";PROPOSTO-CONSOLIDACAO
+é-veículo-de;1;usa;->;"consolidação: ""é-veículo-de"" → ""usa""";PROPOSTO-CONSOLIDACAO
+é-vigiada-por;2;controla;<-;"consolidação: ""é-vigiada-por"" → ""controla""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+é-vingança-via;1;é-um;->;"consolidação: ""é-vingança-via"" → ""é-um""";PROPOSTO-CONSOLIDACAO
+é-último-de;1;sucede;->;"consolidação: ""é-último-de"" → ""sucede""";PROPOSTO-CONSOLIDACAO
 última expressão;1;;;"rótulo livre; revisão manual (sem colapso mecânico)";REVISAR
 —;86;;;"sem relação informada; 17 linhas são registros de fonte com 4 colunas";APROVADO
 — (citação desta fala, não aresta);1;;;— (citação desta fala, não aresta);APROVADO
-← abrange;1;abrange;<-;;PROPOSTO
-← abre;1;abre;<-;;PROPOSTO
-← abriga;4;abriga;<-;;PROPOSTO
-← acionado-por;1;acionado-por;<-;;PROPOSTO
-← acompanha;2;acompanha;<-;;PROPOSTO
-← afeta;4;afeta;<-;;PROPOSTO
-← afronta;1;afronta;<-;;PROPOSTO
-← alimenta;2;alimenta;<-;;PROPOSTO
-← alimenta-se-de;1;alimenta-se-de;<-;;PROPOSTO
-← alimentada-por;1;alimentada-por;<-;;PROPOSTO
-← alternativa-a;1;alternativa-a;<-;;PROPOSTO
-← ameaça;1;ameaça;<-;;PROPOSTO
-← analogia-de;1;analogia-de;<-;;PROPOSTO
-← ancora;5;ancora;<-;;PROPOSTO
-← antecede;4;antecede;<-;;PROPOSTO
-← anunciada-por;1;anunciada-por;<-;;PROPOSTO
-← aplica-se-a;14;aplica-se-a;<-;;PROPOSTO
-← armazenado-em;3;armazenado-em;<-;;PROPOSTO
-← assessora;1;assessora;<-;;PROPOSTO
-← associada-a;3;associado;<->;raiz semântica associado (decisão 3);PROPOSTO
+← abrange;1;inclui;<-;"consolidação: ""abrange"" → ""inclui""";PROPOSTO-CONSOLIDACAO
+← abre;1;relaciona-se-a;<-;"consolidação: ""abre"" → ""relaciona-se-a""";PROPOSTO-CONSOLIDACAO
+← abriga;4;contexto;<-;"consolidação: ""abriga"" → ""contexto""";PROPOSTO-CONSOLIDACAO
+← acionado-por;1;relaciona-se-a;<-;"consolidação: ""acionado-por"" → ""relaciona-se-a""";PROPOSTO-CONSOLIDACAO
+← acompanha;2;associado;<->;"consolidação: ""acompanha"" → ""associado""";PROPOSTO-CONSOLIDACAO
+← afeta;4;causa;<-;"consolidação: ""afeta"" → ""causa""";PROPOSTO-CONSOLIDACAO
+← afronta;1;opõe-se-a;<-;"consolidação: ""afronta"" → ""opõe-se-a""";PROPOSTO-CONSOLIDACAO
+← alimenta;2;protege;<-;"consolidação: ""alimenta"" → ""protege""";PROPOSTO-CONSOLIDACAO
+← alimenta-se-de;1;protege;<-;"consolidação: ""alimenta-se-de"" → ""protege""";PROPOSTO-CONSOLIDACAO
+← alimentada-por;1;protege;->;"consolidação: ""alimentada-por"" → ""protege""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+← alternativa-a;1;variação;<-;"consolidação: ""alternativa-a"" → ""variação""";PROPOSTO-CONSOLIDACAO
+← ameaça;1;causa;<-;"consolidação: ""ameaça"" → ""causa""";PROPOSTO-CONSOLIDACAO
+← analogia-de;1;variação;<-;"consolidação: ""analogia-de"" → ""variação""";PROPOSTO-CONSOLIDACAO
+← ancora;5;contexto;<-;"consolidação: ""ancora"" → ""contexto""";PROPOSTO-CONSOLIDACAO
+← antecede;4;precede;<-;"consolidação: ""antecede"" → ""precede""";PROPOSTO-CONSOLIDACAO
+← anunciada-por;1;comunica;->;"consolidação: ""anunciada-por"" → ""comunica""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+← aplica-se-a;14;usa;<-;"consolidação: ""aplica-se-a"" → ""usa""";PROPOSTO-CONSOLIDACAO
+← armazenado-em;3;contexto;<-;"consolidação: ""armazenado-em"" → ""contexto""";PROPOSTO-CONSOLIDACAO
+← assessora;1;controla;<-;"consolidação: ""assessora"" → ""controla""";PROPOSTO-CONSOLIDACAO
+← associada-a;3;associado;<->;raiz semântica associado (decisão 3);PROPOSTO-CONSOLIDACAO
 ← associado-a;40;associado;<->;;APROVADO
-← assume-regência;1;assume-regência;<-;;PROPOSTO
-← atravessa;3;atravessa;<-;;PROPOSTO
-← atravessada-por;1;atravessada-por;<-;;PROPOSTO
-← atribuída-em-teologia-comparada-a;1;atribuída-em-teologia-comparada-a;<-;;PROPOSTO
-← atribuído-a;1;atribuído-a;<-;;PROPOSTO
-← atribuído-em-teologia-comparada-a;1;atribuído-em-teologia-comparada-a;<-;;PROPOSTO
-← atua-em;6;atua-em;<-;;PROPOSTO
-← atua-por;1;atua-por;<-;;PROPOSTO
-← atua-sobre;1;atua-sobre;<-;;PROPOSTO
-← atualiza;7;atualiza;<-;;PROPOSTO
-← avaliado-por;2;avaliado-por;<-;;PROPOSTO
-← base-de;2;base-de;<-;;PROPOSTO
-← base-do;1;base-do;<-;;PROPOSTO
-← baseada-em;2;baseada-em;<-;;PROPOSTO
-← busca;1;busca;<-;;PROPOSTO
-← canaliza;1;canaliza;<-;;PROPOSTO
-← cobra;1;cobra;<-;;PROPOSTO
-← codificado-em;1;codificado-em;<-;;PROPOSTO
-← compara-se-a;1;compara-se-a;<-;;PROPOSTO
-← comparado-a;1;comparado-a;<-;;PROPOSTO
-← compõe;3;compõe;<-;;PROPOSTO
-← comunica-com;2;comunica-com;<-;;PROPOSTO
-← condensa;1;condensa;<-;;PROPOSTO
-← condição-de;1;condição-de;<-;;PROPOSTO
-← conecta;1;conecta;<-;;PROPOSTO
-← conecta-se-por;2;conecta-se-por;<-;;PROPOSTO
-← confirmada-por;1;confirmada-por;<-;;PROPOSTO
-← confronta;3;confronta;<-;;PROPOSTO
-← contextualiza;2;contextualiza;<-;;PROPOSTO
-← controla;1;controla;<-;;PROPOSTO
-← contêm;1;contêm;<-;;PROPOSTO
-← converte-se-em;1;converte-se-em;<-;;PROPOSTO
-← corresponde-a;2;corresponde-a;<-;;PROPOSTO
-← correspondência-em-teologia-comparada-de;5;correspondência-em-teologia-comparada-de;<-;;PROPOSTO
-← cria;5;cria;<-;;PROPOSTO
-← criado-por;7;criado-por;<-;;PROPOSTO
-← critica;1;critica;<-;;PROPOSTO
-← crítica;1;crítica;<-;;PROPOSTO
-← cumpre;2;cumpre;<-;;PROPOSTO
-← cumpre-se-em;1;cumpre-se-em;<-;;PROPOSTO
-← denuncia;1;denuncia;<-;;PROPOSTO
-← depende-de;2;depende-de;<-;;PROPOSTO
-← deriva-de;2;deriva-de;<-;;PROPOSTO
-← descende-de;2;descende-de;<-;;PROPOSTO
-← descende-de-membro-de;1;descende-de-membro-de;<-;;PROPOSTO
-← descoberto-por;1;descoberto-por;<-;;PROPOSTO
-← descreve-transferência-de;1;descreve-transferência-de;<-;;PROPOSTO
-← desenvolve;2;desenvolve;<-;;PROPOSTO
-← destinada-a;1;destinada-a;<-;;PROPOSTO
-← destinado-a;1;destinado-a;<-;;PROPOSTO
-← destinação-de;1;destinação-de;<-;;PROPOSTO
-← destinação-gerida-por;2;destinação-gerida-por;<-;;PROPOSTO
-← destruído-em;1;destruído-em;<-;;PROPOSTO
-← destrói;1;destrói;<-;;PROPOSTO
-← disputada-por;1;disputada-por;<-;;PROPOSTO
-← distingue-se-de;12;distingue-se-de;<-;;PROPOSTO
-← dita-por;1;dita-por;<-;;PROPOSTO
-← divide-com;1;divide-com;<-;;PROPOSTO
-← divide-se-em;2;divide-se-em;<-;;PROPOSTO
-← dominado-por;1;dominado-por;<-;;PROPOSTO
-← encarnação-de;4;encarnação-de;<-;;PROPOSTO
-← encarnação-posterior-de;4;encarnação-posterior-de;<-;;PROPOSTO
-← encerra;1;encerra;<-;;PROPOSTO
-← encerra-com;2;encerra-com;<-;;PROPOSTO
-← enfrentada-por;1;enfrentada-por;<-;;PROPOSTO
-← enviado-a;4;enviado-a;<-;;PROPOSTO
+← assume-regência;1;controla;<-;"consolidação: ""assume-regência"" → ""controla""";PROPOSTO-CONSOLIDACAO
+← atravessa;3;contexto;<-;"consolidação: ""atravessa"" → ""contexto""";PROPOSTO-CONSOLIDACAO
+← atravessada-por;1;contexto;->;"consolidação: ""atravessada-por"" → ""contexto""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+← atribuída-em-teologia-comparada-a;1;variação;->;"consolidação: ""atribuída-em-teologia-comparada-a"" → ""variação""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+← atribuído-a;1;variação;->;"consolidação: ""atribuído-a"" → ""variação""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+← atribuído-em-teologia-comparada-a;1;variação;<-;"consolidação: ""atribuído-em-teologia-comparada-a"" → ""variação""";PROPOSTO-CONSOLIDACAO
+← atua-em;6;contexto;<-;"consolidação: ""atua-em"" → ""contexto""";PROPOSTO-CONSOLIDACAO
+← atua-por;1;contexto;<-;"consolidação: ""atua-por"" → ""contexto""";PROPOSTO-CONSOLIDACAO
+← atua-sobre;1;contexto;<-;"consolidação: ""atua-sobre"" → ""contexto""";PROPOSTO-CONSOLIDACAO
+← atualiza;7;causa;<-;"consolidação: ""atualiza"" → ""causa""";PROPOSTO-CONSOLIDACAO
+← avaliado-por;2;controla;->;"consolidação: ""avaliado-por"" → ""controla""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+← base-de;2;requer;<-;"consolidação: ""base-de"" → ""requer""";PROPOSTO-CONSOLIDACAO
+← base-do;1;requer;<-;"consolidação: ""base-do"" → ""requer""";PROPOSTO-CONSOLIDACAO
+← baseada-em;2;requer;<-;"consolidação: ""baseada-em"" → ""requer""";PROPOSTO-CONSOLIDACAO
+← busca;1;relaciona-se-a;<-;"consolidação: ""busca"" → ""relaciona-se-a""";PROPOSTO-CONSOLIDACAO
+← canaliza;1;usa;<-;"consolidação: ""canaliza"" → ""usa""";PROPOSTO-CONSOLIDACAO
+← cobra;1;relaciona-se-a;<-;"consolidação: ""cobra"" → ""relaciona-se-a""";PROPOSTO-CONSOLIDACAO
+← codificado-em;1;usa;<-;"consolidação: ""codificado-em"" → ""usa""";PROPOSTO-CONSOLIDACAO
+← compara-se-a;1;variação;<-;"consolidação: ""compara-se-a"" → ""variação""";PROPOSTO-CONSOLIDACAO
+← comparado-a;1;variação;<-;"consolidação: ""comparado-a"" → ""variação""";PROPOSTO-CONSOLIDACAO
+← compõe;3;inclui;<-;"consolidação: ""compõe"" → ""inclui""";PROPOSTO-CONSOLIDACAO
+← comunica-com;2;comunica;<-;"consolidação: ""comunica-com"" → ""comunica""";PROPOSTO-CONSOLIDACAO
+← condensa;1;inclui;<-;"consolidação: ""condensa"" → ""inclui""";PROPOSTO-CONSOLIDACAO
+← condição-de;1;requer;<-;"consolidação: ""condição-de"" → ""requer""";PROPOSTO-CONSOLIDACAO
+← conecta;1;associado;<->;"consolidação: ""conecta"" → ""associado""";PROPOSTO-CONSOLIDACAO
+← conecta-se-por;2;associado;<->;"consolidação: ""conecta-se-por"" → ""associado""";PROPOSTO-CONSOLIDACAO
+← confirmada-por;1;relaciona-se-a;->;"consolidação: ""confirmada-por"" → ""relaciona-se-a""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+← confronta;3;opõe-se-a;<-;"consolidação: ""confronta"" → ""opõe-se-a""";PROPOSTO-CONSOLIDACAO
+← contextualiza;2;contexto;<-;"consolidação: ""contextualiza"" → ""contexto""";PROPOSTO-CONSOLIDACAO
+← controla;1;controla;<-;;PROPOSTO-CONSOLIDACAO
+← contêm;1;inclui;<-;"consolidação: ""contêm"" → ""inclui""";PROPOSTO-CONSOLIDACAO
+← converte-se-em;1;variação;<-;"consolidação: ""converte-se-em"" → ""variação""";PROPOSTO-CONSOLIDACAO
+← corresponde-a;2;variação;<-;"consolidação: ""corresponde-a"" → ""variação""";PROPOSTO-CONSOLIDACAO
+← correspondência-em-teologia-comparada-de;5;variação;<-;"consolidação: ""correspondência-em-teologia-comparada-de"" → ""variação""";PROPOSTO-CONSOLIDACAO
+← cria;5;origina;<-;"consolidação: ""cria"" → ""origina""";PROPOSTO-CONSOLIDACAO
+← criado-por;7;origina;->;"consolidação: ""criado-por"" → ""origina""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+← critica;1;opõe-se-a;<-;"consolidação: ""critica"" → ""opõe-se-a""";PROPOSTO-CONSOLIDACAO
+← crítica;1;opõe-se-a;<-;"consolidação: ""crítica"" → ""opõe-se-a""";PROPOSTO-CONSOLIDACAO
+← cumpre;2;usa;<-;"consolidação: ""cumpre"" → ""usa""";PROPOSTO-CONSOLIDACAO
+← cumpre-se-em;1;usa;<-;"consolidação: ""cumpre-se-em"" → ""usa""";PROPOSTO-CONSOLIDACAO
+← denuncia;1;opõe-se-a;<-;"consolidação: ""denuncia"" → ""opõe-se-a""";PROPOSTO-CONSOLIDACAO
+← depende-de;2;requer;<-;"consolidação: ""depende-de"" → ""requer""";PROPOSTO-CONSOLIDACAO
+← deriva-de;2;origina;->;"consolidação: ""deriva-de"" → ""origina""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+← descende-de;2;origina;->;"consolidação: ""descende-de"" → ""origina""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+← descende-de-membro-de;1;origina;<-;"consolidação: ""descende-de-membro-de"" → ""origina""";PROPOSTO-CONSOLIDACAO
+← descoberto-por;1;observa;->;"consolidação: ""descoberto-por"" → ""observa""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+← descreve-transferência-de;1;explica;<-;"consolidação: ""descreve-transferência-de"" → ""explica""";PROPOSTO-CONSOLIDACAO
+← desenvolve;2;associado;<->;"consolidação: ""desenvolve"" → ""associado""";PROPOSTO-CONSOLIDACAO
+← destinada-a;1;transfere;<-;"consolidação: ""destinada-a"" → ""transfere""";PROPOSTO-CONSOLIDACAO
+← destinado-a;1;transfere;<-;"consolidação: ""destinado-a"" → ""transfere""";PROPOSTO-CONSOLIDACAO
+← destinação-de;1;transfere;<-;"consolidação: ""destinação-de"" → ""transfere""";PROPOSTO-CONSOLIDACAO
+← destinação-gerida-por;2;transfere;<-;"consolidação: ""destinação-gerida-por"" → ""transfere""";PROPOSTO-CONSOLIDACAO
+← destruído-em;1;danifica;<-;"consolidação: ""destruído-em"" → ""danifica""";PROPOSTO-CONSOLIDACAO
+← destrói;1;danifica;<-;"consolidação: ""destrói"" → ""danifica""";PROPOSTO-CONSOLIDACAO
+← disputada-por;1;relaciona-se-a;->;"consolidação: ""disputada-por"" → ""relaciona-se-a""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+← distingue-se-de;12;opõe-se-a;<-;"consolidação: ""distingue-se-de"" → ""opõe-se-a""";PROPOSTO-CONSOLIDACAO
+← dita-por;1;controla;->;"consolidação: ""dita-por"" → ""controla""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+← divide-com;1;associado;<->;"consolidação: ""divide-com"" → ""associado""";PROPOSTO-CONSOLIDACAO
+← divide-se-em;2;inclui;<-;"consolidação: ""divide-se-em"" → ""inclui""";PROPOSTO-CONSOLIDACAO
+← dominado-por;1;controla;->;"consolidação: ""dominado-por"" → ""controla""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+← encarnação-de;4;origina;<-;"consolidação: ""encarnação-de"" → ""origina""";PROPOSTO-CONSOLIDACAO
+← encarnação-posterior-de;4;origina;<-;"consolidação: ""encarnação-posterior-de"" → ""origina""";PROPOSTO-CONSOLIDACAO
+← encerra;1;sucede;<-;"consolidação: ""encerra"" → ""sucede""";PROPOSTO-CONSOLIDACAO
+← encerra-com;2;sucede;<-;"consolidação: ""encerra-com"" → ""sucede""";PROPOSTO-CONSOLIDACAO
+← enfrentada-por;1;relaciona-se-a;->;"consolidação: ""enfrentada-por"" → ""relaciona-se-a""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+← enviado-a;4;transfere;<-;"consolidação: ""enviado-a"" → ""transfere""";PROPOSTO-CONSOLIDACAO
 ← envolve;99;envolve;<-;;APROVADO
-← erro-stt-de;2;erro-stt-de;<-;;PROPOSTO
-← escolhe;1;escolhe;<-;;PROPOSTO
-← escrita-por;1;escrita-por;<-;;PROPOSTO
-← escrito-por;1;escrito-por;<-;;PROPOSTO
-← estabiliza;1;estabiliza;<-;;PROPOSTO
-← estrutura-se-por;7;estrutura-se-por;<-;;PROPOSTO
-← estudado-por;1;estudado-por;<-;;PROPOSTO
-← executado-por;1;executado-por;<-;;PROPOSTO
-← experimenta;1;experimenta;<-;;PROPOSTO
-← explica;5;explica;<-;;PROPOSTO
-← explicado-por;2;explicado-por;<-;;PROPOSTO
-← expressa-sociabilidade-por;1;expressa-sociabilidade-por;<-;;PROPOSTO
-← favorece;1;favorece;<-;;PROPOSTO
-← fonte-em;1;fonte-em;<-;;PROPOSTO
-← fundada-por;1;fundada-por;<-;;PROPOSTO
-← fundado-por;1;fundado-por;<-;;PROPOSTO
-← gera;8;gera;<-;;PROPOSTO
-← gera-linhagem-de;5;gera-linhagem-de;<-;;PROPOSTO
-← gerada-por;1;gerada-por;<-;;PROPOSTO
-← gere;1;gere;<-;;PROPOSTO
-← gerida-por;1;gerida-por;<-;;PROPOSTO
-← guarda;1;guarda;<-;;PROPOSTO
-← habitado-por;1;habitado-por;<-;;PROPOSTO
-← herdado-de;1;herdado-de;<-;;PROPOSTO
-← hospeda;2;hospeda;<-;;PROPOSTO
-← humaniza-se-por;1;humaniza-se-por;<-;;PROPOSTO
-← hábito-de;1;hábito-de;<-;;PROPOSTO
-← implementa;1;implementa;<-;;PROPOSTO
-← impulsiona;1;impulsiona;<-;;PROPOSTO
-← impulsionado-por;1;impulsionado-por;<-;;PROPOSTO
-← impõe-se-a;1;impõe-se-a;<-;;PROPOSTO
+← erro-stt-de;2;contexto;<-;"consolidação: ""erro-stt-de"" → ""contexto""";PROPOSTO-CONSOLIDACAO
+← escolhe;1;relaciona-se-a;<-;"consolidação: ""escolhe"" → ""relaciona-se-a""";PROPOSTO-CONSOLIDACAO
+← escrita-por;1;comunica;->;"consolidação: ""escrita-por"" → ""comunica""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+← escrito-por;1;comunica;->;"consolidação: ""escrito-por"" → ""comunica""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+← estabiliza;1;protege;<-;"consolidação: ""estabiliza"" → ""protege""";PROPOSTO-CONSOLIDACAO
+← estrutura-se-por;7;inclui;<-;"consolidação: ""estrutura-se-por"" → ""inclui""";PROPOSTO-CONSOLIDACAO
+← estudado-por;1;observa;->;"consolidação: ""estudado-por"" → ""observa""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+← executado-por;1;usa;->;"consolidação: ""executado-por"" → ""usa""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+← experimenta;1;observa;<-;"consolidação: ""experimenta"" → ""observa""";PROPOSTO-CONSOLIDACAO
+← explica;5;explica;<-;;PROPOSTO-CONSOLIDACAO
+← explicado-por;2;explica;->;"consolidação: ""explicado-por"" → ""explica""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+← expressa-sociabilidade-por;1;representa;<-;"consolidação: ""expressa-sociabilidade-por"" → ""representa""";PROPOSTO-CONSOLIDACAO
+← favorece;1;causa;<-;"consolidação: ""favorece"" → ""causa""";PROPOSTO-CONSOLIDACAO
+← fonte-em;1;origina;<-;"consolidação: ""fonte-em"" → ""origina""";PROPOSTO-CONSOLIDACAO
+← fundada-por;1;origina;->;"consolidação: ""fundada-por"" → ""origina""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+← fundado-por;1;origina;->;"consolidação: ""fundado-por"" → ""origina""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+← gera;8;origina;<-;"consolidação: ""gera"" → ""origina""";PROPOSTO-CONSOLIDACAO
+← gera-linhagem-de;5;origina;<-;"consolidação: ""gera-linhagem-de"" → ""origina""";PROPOSTO-CONSOLIDACAO
+← gerada-por;1;origina;->;"consolidação: ""gerada-por"" → ""origina""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+← gere;1;origina;<-;"consolidação: ""gere"" → ""origina""";PROPOSTO-CONSOLIDACAO
+← gerida-por;1;controla;->;"consolidação: ""gerida-por"" → ""controla""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+← guarda;1;protege;<-;"consolidação: ""guarda"" → ""protege""";PROPOSTO-CONSOLIDACAO
+← habitado-por;1;contexto;->;"consolidação: ""habitado-por"" → ""contexto""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+← herdado-de;1;origina;->;"consolidação: ""herdado-de"" → ""origina""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+← hospeda;2;contexto;<-;"consolidação: ""hospeda"" → ""contexto""";PROPOSTO-CONSOLIDACAO
+← humaniza-se-por;1;relaciona-se-a;<-;"consolidação: ""humaniza-se-por"" → ""relaciona-se-a""";PROPOSTO-CONSOLIDACAO
+← hábito-de;1;relaciona-se-a;<-;"consolidação: ""hábito-de"" → ""relaciona-se-a""";PROPOSTO-CONSOLIDACAO
+← implementa;1;usa;<-;"consolidação: ""implementa"" → ""usa""";PROPOSTO-CONSOLIDACAO
+← impulsiona;1;causa;<-;"consolidação: ""impulsiona"" → ""causa""";PROPOSTO-CONSOLIDACAO
+← impulsionado-por;1;causa;->;"consolidação: ""impulsionado-por"" → ""causa""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+← impõe-se-a;1;controla;<-;"consolidação: ""impõe-se-a"" → ""controla""";PROPOSTO-CONSOLIDACAO
 ← inclui;58;inclui;<-;;APROVADO
-← influencia;1;influencia;<-;;PROPOSTO
-← inicia;4;inicia;<-;;PROPOSTO
-← inicia-em;1;inicia-em;<-;;PROPOSTO
-← iniciado-por;1;iniciado-por;<-;;PROPOSTO
-← inserido-em;1;inserido-em;<-;;PROPOSTO
-← instrumento-de;1;instrumento-de;<-;;PROPOSTO
-← integra;6;integra;<-;;PROPOSTO
-← inverte;1;inverte;<-;;PROPOSTO
-← investe;2;investe;<-;;PROPOSTO
-← investido-por;2;investido-por;<-;;PROPOSTO
-← manifesta-descontinuidade-em;1;manifesta-descontinuidade-em;<-;;PROPOSTO
-← manifesta-se-em;6;manifesta-se-em;<-;;PROPOSTO
-← manifesta-se-no-discurso-como;1;manifesta-se-no-discurso-como;<-;;PROPOSTO
-← mapeado-por;1;mapeado-por;<-;;PROPOSTO
-← mapeia;1;mapeia;<-;;PROPOSTO
-← marca-fim-de;2;marca-fim-de;<-;;PROPOSTO
-← mata;1;mata;<-;;PROPOSTO
-← mede;1;mede;<-;;PROPOSTO
-← medida-por;1;medida-por;<-;;PROPOSTO
-← mentor-de;1;mentor-de;<-;;PROPOSTO
-← mergulha-em;2;mergulha-em;<-;;PROPOSTO
+← influencia;1;causa;<-;"consolidação: ""influencia"" → ""causa""";PROPOSTO-CONSOLIDACAO
+← inicia;4;precede;<-;"consolidação: ""inicia"" → ""precede""";PROPOSTO-CONSOLIDACAO
+← inicia-em;1;precede;<-;"consolidação: ""inicia-em"" → ""precede""";PROPOSTO-CONSOLIDACAO
+← iniciado-por;1;precede;->;"consolidação: ""iniciado-por"" → ""precede""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+← inserido-em;1;relaciona-se-a;<-;"consolidação: ""inserido-em"" → ""relaciona-se-a""";PROPOSTO-CONSOLIDACAO
+← instrumento-de;1;usa;<-;"consolidação: ""instrumento-de"" → ""usa""";PROPOSTO-CONSOLIDACAO
+← integra;6;inclui;<-;"consolidação: ""integra"" → ""inclui""";PROPOSTO-CONSOLIDACAO
+← inverte;1;opõe-se-a;<-;"consolidação: ""inverte"" → ""opõe-se-a""";PROPOSTO-CONSOLIDACAO
+← investe;2;controla;<-;"consolidação: ""investe"" → ""controla""";PROPOSTO-CONSOLIDACAO
+← investido-por;2;controla;->;"consolidação: ""investido-por"" → ""controla""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+← manifesta-descontinuidade-em;1;representa;<-;"consolidação: ""manifesta-descontinuidade-em"" → ""representa""";PROPOSTO-CONSOLIDACAO
+← manifesta-se-em;6;representa;<-;"consolidação: ""manifesta-se-em"" → ""representa""";PROPOSTO-CONSOLIDACAO
+← manifesta-se-no-discurso-como;1;representa;<-;"consolidação: ""manifesta-se-no-discurso-como"" → ""representa""";PROPOSTO-CONSOLIDACAO
+← mapeado-por;1;observa;->;"consolidação: ""mapeado-por"" → ""observa""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+← mapeia;1;observa;<-;"consolidação: ""mapeia"" → ""observa""";PROPOSTO-CONSOLIDACAO
+← marca-fim-de;2;sucede;<-;"consolidação: ""marca-fim-de"" → ""sucede""";PROPOSTO-CONSOLIDACAO
+← mata;1;danifica;<-;"consolidação: ""mata"" → ""danifica""";PROPOSTO-CONSOLIDACAO
+← mede;1;observa;<-;"consolidação: ""mede"" → ""observa""";PROPOSTO-CONSOLIDACAO
+← medida-por;1;observa;->;"consolidação: ""medida-por"" → ""observa""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+← mentor-de;1;controla;<-;"consolidação: ""mentor-de"" → ""controla""";PROPOSTO-CONSOLIDACAO
+← mergulha-em;2;contexto;<-;"consolidação: ""mergulha-em"" → ""contexto""";PROPOSTO-CONSOLIDACAO
 ← metáfora-alegada-da-RC-sobre;1;;;"rótulo livre; revisão manual (sem colapso mecânico)";REVISAR
-← modifica;1;modifica;<-;;PROPOSTO
-← motiva;1;motiva;<-;;PROPOSTO
-← motiva-recurso-a;1;motiva-recurso-a;<-;;PROPOSTO
-← necessário-a;4;necessário-a;<-;;PROPOSTO
-← obscurece;1;obscurece;<-;;PROPOSTO
-← observa;2;observa;<-;;PROPOSTO
-← observa-de-dentro;1;observa-de-dentro;<-;;PROPOSTO
-← observado-de-dentro-por;1;observado-de-dentro-por;<-;;PROPOSTO
-← ocorre-após;1;ocorre-após;<-;;PROPOSTO
-← ocorre-em;16;ocorre-em;<-;;PROPOSTO
-← ocorre-no-eixo-de;1;ocorre-no-eixo-de;<-;;PROPOSTO
-← opera-em;1;opera-em;<-;;PROPOSTO
-← operam-em;1;operam-em;<-;;PROPOSTO
-← opõe-se-a;17;opõe-se-a;<-;;PROPOSTO
-← organiza;3;organiza;<-;;PROPOSTO
-← organiza-se-em;2;organiza-se-em;<-;;PROPOSTO
-← organizada-por;1;organizada-por;<-;;PROPOSTO
-← organizados-por;1;organizados-por;<-;;PROPOSTO
-← orienta;6;orienta;<-;;PROPOSTO
-← orienta-destinação-em;1;orienta-destinação-em;<-;;PROPOSTO
-← origem-em;8;origem-em;<-;;PROPOSTO
-← origina;1;origina;<-;;PROPOSTO
-← origina-de;1;origina-de;<-;;PROPOSTO
-← origina-em;5;origina-em;<-;;PROPOSTO
-← originada-em;1;originada-em;<-;;PROPOSTO
-← pai-de;2;pai-de;<-;;PROPOSTO
-← parceria-de;1;parceria-de;<-;;PROPOSTO
-← parte-de;22;parte-de;<-;;PROPOSTO
-← participa-de;2;participa-de;<-;;PROPOSTO
-← percebido-por;1;percebido-por;<-;;PROPOSTO
-← persiste-em;1;persiste-em;<-;;PROPOSTO
-← personifica-em;2;personifica-em;<-;;PROPOSTO
-← planejada-por;1;planejada-por;<-;;PROPOSTO
-← pode-colapsar-em;1;pode-colapsar-em;<-;;PROPOSTO
-← precede;4;precede;<-;;PROPOSTO
-← premissa-de;1;premissa-de;<-;;PROPOSTO
-← primeiro-caso;1;primeiro-caso;<-;;PROPOSTO
-← processa;2;processa;<-;;PROPOSTO
-← processado-por;1;processado-por;<-;;PROPOSTO
-← produz;6;produz;<-;;PROPOSTO
-← produzido-por;1;produzido-por;<-;;PROPOSTO
-← profecias-em;1;profecias-em;<-;;PROPOSTO
-← proferida-por;3;proferida-por;<-;;PROPOSTO
-← proposto-por;1;proposto-por;<-;;PROPOSTO
-← propõe;3;propõe;<-;;PROPOSTO
-← protege;1;protege;<-;;PROPOSTO
-← reabilita;1;reabilita;<-;;PROPOSTO
-← realiza;3;realiza;<-;;PROPOSTO
-← realizada-por;3;realizada-por;<-;;PROPOSTO
-← reaparece-como-destruição-em;1;reaparece-como-destruição-em;<-;;PROPOSTO
-← recebe;2;recebe;<-;;PROPOSTO
-← recebida-por;1;recebida-por;<-;;PROPOSTO
-← reconhecida-por;1;reconhecida-por;<-;;PROPOSTO
-← reconstrói;1;reconstrói;<-;;PROPOSTO
-← reforça;2;reforça;<-;;PROPOSTO
-← rege;1;rege;<-;;PROPOSTO
-← regenera-na-narrativa;1;regenera-na-narrativa;<-;;PROPOSTO
-← registra;1;registra;<-;;PROPOSTO
-← registradas-em;1;registradas-em;<-;;PROPOSTO
-← registrado-em;1;registrado-em;<-;;PROPOSTO
+← modifica;1;causa;<-;"consolidação: ""modifica"" → ""causa""";PROPOSTO-CONSOLIDACAO
+← motiva;1;causa;<-;"consolidação: ""motiva"" → ""causa""";PROPOSTO-CONSOLIDACAO
+← motiva-recurso-a;1;causa;<-;"consolidação: ""motiva-recurso-a"" → ""causa""";PROPOSTO-CONSOLIDACAO
+← necessário-a;4;requer;<-;"consolidação: ""necessário-a"" → ""requer""";PROPOSTO-CONSOLIDACAO
+← obscurece;1;danifica;<-;"consolidação: ""obscurece"" → ""danifica""";PROPOSTO-CONSOLIDACAO
+← observa;2;observa;<-;;PROPOSTO-CONSOLIDACAO
+← observa-de-dentro;1;observa;<-;"consolidação: ""observa-de-dentro"" → ""observa""";PROPOSTO-CONSOLIDACAO
+← observado-de-dentro-por;1;observa;->;"consolidação: ""observado-de-dentro-por"" → ""observa""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+← ocorre-após;1;sucede;<-;"consolidação: ""ocorre-após"" → ""sucede""";PROPOSTO-CONSOLIDACAO
+← ocorre-em;16;contexto;<-;"consolidação: ""ocorre-em"" → ""contexto""";PROPOSTO-CONSOLIDACAO
+← ocorre-no-eixo-de;1;contexto;<-;"consolidação: ""ocorre-no-eixo-de"" → ""contexto""";PROPOSTO-CONSOLIDACAO
+← opera-em;1;contexto;<-;"consolidação: ""opera-em"" → ""contexto""";PROPOSTO-CONSOLIDACAO
+← operam-em;1;contexto;<-;"consolidação: ""operam-em"" → ""contexto""";PROPOSTO-CONSOLIDACAO
+← opõe-se-a;17;opõe-se-a;<-;;PROPOSTO-CONSOLIDACAO
+← organiza;3;inclui;<-;"consolidação: ""organiza"" → ""inclui""";PROPOSTO-CONSOLIDACAO
+← organiza-se-em;2;inclui;<-;"consolidação: ""organiza-se-em"" → ""inclui""";PROPOSTO-CONSOLIDACAO
+← organizada-por;1;inclui;->;"consolidação: ""organizada-por"" → ""inclui""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+← organizados-por;1;inclui;->;"consolidação: ""organizados-por"" → ""inclui""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+← orienta;6;controla;<-;"consolidação: ""orienta"" → ""controla""";PROPOSTO-CONSOLIDACAO
+← orienta-destinação-em;1;transfere;<-;"consolidação: ""orienta-destinação-em"" → ""transfere""";PROPOSTO-CONSOLIDACAO
+← origem-em;8;origina;<-;"consolidação: ""origem-em"" → ""origina""";PROPOSTO-CONSOLIDACAO
+← origina;1;origina;<-;;PROPOSTO-CONSOLIDACAO
+← origina-de;1;origina;->;"consolidação: ""origina-de"" → ""origina""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+← origina-em;5;origina;<-;"consolidação: ""origina-em"" → ""origina""";PROPOSTO-CONSOLIDACAO
+← originada-em;1;origina;->;"consolidação: ""originada-em"" → ""origina""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+← pai-de;2;origina;<-;"consolidação: ""pai-de"" → ""origina""";PROPOSTO-CONSOLIDACAO
+← parceria-de;1;associado;<->;"consolidação: ""parceria-de"" → ""associado""";PROPOSTO-CONSOLIDACAO
+← parte-de;22;parte-de;<-;;PROPOSTO-CONSOLIDACAO
+← participa-de;2;envolve;<-;"consolidação: ""participa-de"" → ""envolve""";PROPOSTO-CONSOLIDACAO
+← percebido-por;1;observa;<-;"consolidação: ""percebido-por"" → ""observa""";PROPOSTO-CONSOLIDACAO
+← persiste-em;1;contexto;<-;"consolidação: ""persiste-em"" → ""contexto""";PROPOSTO-CONSOLIDACAO
+← personifica-em;2;representa;<-;"consolidação: ""personifica-em"" → ""representa""";PROPOSTO-CONSOLIDACAO
+← planejada-por;1;relaciona-se-a;<-;"consolidação: ""planejada-por"" → ""relaciona-se-a""";PROPOSTO-CONSOLIDACAO
+← pode-colapsar-em;1;danifica;<-;"consolidação: ""pode-colapsar-em"" → ""danifica""";PROPOSTO-CONSOLIDACAO
+← precede;4;precede;<-;;PROPOSTO-CONSOLIDACAO
+← premissa-de;1;relaciona-se-a;<-;"consolidação: ""premissa-de"" → ""relaciona-se-a""";PROPOSTO-CONSOLIDACAO
+← primeiro-caso;1;é-um;<-;"consolidação: ""primeiro-caso"" → ""é-um""";PROPOSTO-CONSOLIDACAO
+← processa;2;usa;<-;"consolidação: ""processa"" → ""usa""";PROPOSTO-CONSOLIDACAO
+← processado-por;1;usa;->;"consolidação: ""processado-por"" → ""usa""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+← produz;6;origina;<-;"consolidação: ""produz"" → ""origina""";PROPOSTO-CONSOLIDACAO
+← produzido-por;1;origina;->;"consolidação: ""produzido-por"" → ""origina""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+← profecias-em;1;contexto;<-;"consolidação: ""profecias-em"" → ""contexto""";PROPOSTO-CONSOLIDACAO
+← proferida-por;3;comunica;->;"consolidação: ""proferida-por"" → ""comunica""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+← proposto-por;1;relaciona-se-a;->;"consolidação: ""proposto-por"" → ""relaciona-se-a""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+← propõe;3;opõe-se-a;<-;"consolidação: ""propõe"" → ""opõe-se-a""";PROPOSTO-CONSOLIDACAO
+← protege;1;protege;<-;;PROPOSTO-CONSOLIDACAO
+← reabilita;1;protege;<-;"consolidação: ""reabilita"" → ""protege""";PROPOSTO-CONSOLIDACAO
+← realiza;3;usa;<-;"consolidação: ""realiza"" → ""usa""";PROPOSTO-CONSOLIDACAO
+← realizada-por;3;usa;->;"consolidação: ""realizada-por"" → ""usa""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+← reaparece-como-destruição-em;1;danifica;<-;"consolidação: ""reaparece-como-destruição-em"" → ""danifica""";PROPOSTO-CONSOLIDACAO
+← recebe;2;transfere;<-;"consolidação: ""recebe"" → ""transfere""";PROPOSTO-CONSOLIDACAO
+← recebida-por;1;transfere;->;"consolidação: ""recebida-por"" → ""transfere""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+← reconhecida-por;1;observa;->;"consolidação: ""reconhecida-por"" → ""observa""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+← reconstrói;1;relaciona-se-a;<-;"consolidação: ""reconstrói"" → ""relaciona-se-a""";PROPOSTO-CONSOLIDACAO
+← reforça;2;causa;<-;"consolidação: ""reforça"" → ""causa""";PROPOSTO-CONSOLIDACAO
+← rege;1;controla;<-;"consolidação: ""rege"" → ""controla""";PROPOSTO-CONSOLIDACAO
+← regenera-na-narrativa;1;protege;<-;"consolidação: ""regenera-na-narrativa"" → ""protege""";PROPOSTO-CONSOLIDACAO
+← registra;1;observa;<-;"consolidação: ""registra"" → ""observa""";PROPOSTO-CONSOLIDACAO
+← registradas-em;1;contexto;<-;"consolidação: ""registradas-em"" → ""contexto""";PROPOSTO-CONSOLIDACAO
+← registrado-em;1;contexto;<-;"consolidação: ""registrado-em"" → ""contexto""";PROPOSTO-CONSOLIDACAO
 ← relaciona-se-a;858;relaciona-se-a;<-;;APROVADO
-← repercute-em;1;repercute-em;<-;;PROPOSTO
-← requer;3;requer;<-;;PROPOSTO
-← resiste-a;1;resiste-a;<-;;PROPOSTO
-← resistido-por;1;resistido-por;<-;;PROPOSTO
-← responde-a;1;responde-a;<-;;PROPOSTO
-← responde-por;2;responde-por;<-;;PROPOSTO
-← resulta-de;2;resulta-de;<-;;PROPOSTO
-← resulta-em;6;resulta-em;<-;;PROPOSTO
-← retrata-antes-da-queda;1;retrata-antes-da-queda;<-;;PROPOSTO
-← retratado-em;1;retratado-em;<-;;PROPOSTO
-← revela;1;revela;<-;;PROPOSTO
-← revelada-a;1;revelada-a;<-;;PROPOSTO
-← revelado-por;1;revelado-por;<-;;PROPOSTO
-← risco-de;1;risco-de;<-;;PROPOSTO
-← rompe;3;rompe;<-;;PROPOSTO
-← rompida-por;2;rompida-por;<-;;PROPOSTO
-← serve-de-modelo-para;2;serve-de-modelo-para;<-;;PROPOSTO
-← sinônimo;10;sinônimo;<-;;PROPOSTO
-← submete;1;submete;<-;;PROPOSTO
-← submetidos-a;1;submetidos-a;<-;;PROPOSTO
-← subordinada-a;1;subordinada-a;<-;;PROPOSTO
-← sucede;8;sucede;<-;;PROPOSTO
-← sucedido-por;1;sucedido-por;<-;;PROPOSTO
-← superior-a;1;superior-a;<-;;PROPOSTO
-← suporta;2;suporta;<-;;PROPOSTO
-← surge-em;1;surge-em;<-;;PROPOSTO
-← surgiu-em;1;surgiu-em;<-;;PROPOSTO
-← sustenta;3;sustenta;<-;;PROPOSTO
-← sustenta-ponte-não-local;1;sustenta-ponte-não-local;<-;;PROPOSTO
-← sustentada-por;2;sustentada-por;<-;;PROPOSTO
-← sustentam;1;sustentam;<-;;PROPOSTO
-← tem-como-modelo;1;tem-como-modelo;<-;;PROPOSTO
-← tem-filhas-unidas-a;1;tem-filhas-unidas-a;<-;;PROPOSTO
-← tema-de;5;tema-de;<-;;PROPOSTO
-← termina-com;1;termina-com;<-;;PROPOSTO
-← trabalha-em;1;trabalha-em;<-;;PROPOSTO
-← transfere-para;4;transfere-para;<-;;PROPOSTO
-← transforma;1;transforma;<-;;PROPOSTO
-← transporta;2;transporta;<-;;PROPOSTO
-← transportado-por;2;transportado-por;<-;;PROPOSTO
-← tutoria;1;tutoria;<-;;PROPOSTO
-← une-se-às-filhas-de;1;une-se-às-filhas-de;<-;;PROPOSTO
+← repercute-em;1;causa;<-;"consolidação: ""repercute-em"" → ""causa""";PROPOSTO-CONSOLIDACAO
+← requer;3;requer;<-;;PROPOSTO-CONSOLIDACAO
+← resiste-a;1;opõe-se-a;<-;"consolidação: ""resiste-a"" → ""opõe-se-a""";PROPOSTO-CONSOLIDACAO
+← resistido-por;1;opõe-se-a;->;"consolidação: ""resistido-por"" → ""opõe-se-a""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+← responde-a;1;comunica;<-;"consolidação: ""responde-a"" → ""comunica""";PROPOSTO-CONSOLIDACAO
+← responde-por;2;comunica;->;"consolidação: ""responde-por"" → ""comunica""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+← resulta-de;2;causa;->;"consolidação: ""resulta-de"" → ""causa""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+← resulta-em;6;causa;<-;"consolidação: ""resulta-em"" → ""causa""";PROPOSTO-CONSOLIDACAO
+← retrata-antes-da-queda;1;representa;<-;"consolidação: ""retrata-antes-da-queda"" → ""representa""";PROPOSTO-CONSOLIDACAO
+← retratado-em;1;contexto;<-;"consolidação: ""retratado-em"" → ""contexto""";PROPOSTO-CONSOLIDACAO
+← revela;1;explica;<-;"consolidação: ""revela"" → ""explica""";PROPOSTO-CONSOLIDACAO
+← revelada-a;1;explica;<-;"consolidação: ""revelada-a"" → ""explica""";PROPOSTO-CONSOLIDACAO
+← revelado-por;1;explica;->;"consolidação: ""revelado-por"" → ""explica""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+← risco-de;1;causa;<-;"consolidação: ""risco-de"" → ""causa""";PROPOSTO-CONSOLIDACAO
+← rompe;3;danifica;<-;"consolidação: ""rompe"" → ""danifica""";PROPOSTO-CONSOLIDACAO
+← rompida-por;2;danifica;->;"consolidação: ""rompida-por"" → ""danifica""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+← serve-de-modelo-para;2;variação;<-;"consolidação: ""serve-de-modelo-para"" → ""variação""";PROPOSTO-CONSOLIDACAO
+← sinônimo;10;variação;<-;"consolidação: ""sinônimo"" → ""variação""";PROPOSTO-CONSOLIDACAO
+← submete;1;controla;<-;"consolidação: ""submete"" → ""controla""";PROPOSTO-CONSOLIDACAO
+← submetidos-a;1;controla;->;"consolidação: ""submetidos-a"" → ""controla""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+← subordinada-a;1;requer;<-;"consolidação: ""subordinada-a"" → ""requer""";PROPOSTO-CONSOLIDACAO
+← sucede;8;sucede;<-;;PROPOSTO-CONSOLIDACAO
+← sucedido-por;1;sucede;->;"consolidação: ""sucedido-por"" → ""sucede""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+← superior-a;1;precede;<-;"consolidação: ""superior-a"" → ""precede""";PROPOSTO-CONSOLIDACAO
+← suporta;2;protege;<-;"consolidação: ""suporta"" → ""protege""";PROPOSTO-CONSOLIDACAO
+← surge-em;1;contexto;<-;"consolidação: ""surge-em"" → ""contexto""";PROPOSTO-CONSOLIDACAO
+← surgiu-em;1;contexto;<-;"consolidação: ""surgiu-em"" → ""contexto""";PROPOSTO-CONSOLIDACAO
+← sustenta;3;protege;<-;"consolidação: ""sustenta"" → ""protege""";PROPOSTO-CONSOLIDACAO
+← sustenta-ponte-não-local;1;protege;<-;"consolidação: ""sustenta-ponte-não-local"" → ""protege""";PROPOSTO-CONSOLIDACAO
+← sustentada-por;2;protege;->;"consolidação: ""sustentada-por"" → ""protege""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+← sustentam;1;protege;<-;"consolidação: ""sustentam"" → ""protege""";PROPOSTO-CONSOLIDACAO
+← tem-como-modelo;1;variação;<-;"consolidação: ""tem-como-modelo"" → ""variação""";PROPOSTO-CONSOLIDACAO
+← tem-filhas-unidas-a;1;associado;<->;"consolidação: ""tem-filhas-unidas-a"" → ""associado""";PROPOSTO-CONSOLIDACAO
+← tema-de;5;contexto;<-;"consolidação: ""tema-de"" → ""contexto""";PROPOSTO-CONSOLIDACAO
+← termina-com;1;sucede;<-;"consolidação: ""termina-com"" → ""sucede""";PROPOSTO-CONSOLIDACAO
+← trabalha-em;1;contexto;<-;"consolidação: ""trabalha-em"" → ""contexto""";PROPOSTO-CONSOLIDACAO
+← transfere-para;4;transfere;<-;"consolidação: ""transfere-para"" → ""transfere""";PROPOSTO-CONSOLIDACAO
+← transforma;1;causa;<-;"consolidação: ""transforma"" → ""causa""";PROPOSTO-CONSOLIDACAO
+← transporta;2;transfere;<-;"consolidação: ""transporta"" → ""transfere""";PROPOSTO-CONSOLIDACAO
+← transportado-por;2;transfere;->;"consolidação: ""transportado-por"" → ""transfere""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+← tutoria;1;controla;<-;"consolidação: ""tutoria"" → ""controla""";PROPOSTO-CONSOLIDACAO
+← une-se-às-filhas-de;1;associado;<->;"consolidação: ""une-se-às-filhas-de"" → ""associado""";PROPOSTO-CONSOLIDACAO
 ← usa;30;usa;<-;;APROVADO
-← usada-em;1;usada-em;<-;;PROPOSTO
-← usado-por;1;usado-por;<-;;PROPOSTO
-← valoriza;1;valoriza;<-;;PROPOSTO
+← usada-em;1;usa;<-;"consolidação: ""usada-em"" → ""usa""";PROPOSTO-CONSOLIDACAO
+← usado-por;1;usa;->;"consolidação: ""usado-por"" → ""usa""; direção invertida (forma passiva/inversa)";PROPOSTO-CONSOLIDACAO
+← valoriza;1;protege;<-;"consolidação: ""valoriza"" → ""protege""";PROPOSTO-CONSOLIDACAO
 ← variação;76;variação;<-;;APROVADO
-← variação-posterior-de;1;variação-posterior-de;<-;;PROPOSTO
-← vincula;3;vincula;<-;;PROPOSTO
-← vinculado-ao-espírito;6;vinculado-ao-espírito;<-;;PROPOSTO
-← vitima;1;vitima;<-;;PROPOSTO
-← é-comparada-à-emergência-de;1;é-comparada-à-emergência-de;<-;;PROPOSTO
-← é-evento-de;1;é-evento-de;<-;;PROPOSTO
-← é-falência-de;1;é-falência-de;<-;;PROPOSTO
-← é-fase-de;2;é-fase-de;<-;;PROPOSTO
-← é-fenômeno-de;1;é-fenômeno-de;<-;;PROPOSTO
-← é-ilha-de;1;é-ilha-de;<-;;PROPOSTO
+← variação-posterior-de;1;variação;<-;"consolidação: ""variação-posterior-de"" → ""variação""";PROPOSTO-CONSOLIDACAO
+← vincula;3;associado;<->;"consolidação: ""vincula"" → ""associado""";PROPOSTO-CONSOLIDACAO
+← vinculado-ao-espírito;6;associado;<->;"consolidação: ""vinculado-ao-espírito"" → ""associado""";PROPOSTO-CONSOLIDACAO
+← vitima;1;danifica;<-;"consolidação: ""vitima"" → ""danifica""";PROPOSTO-CONSOLIDACAO
+← é-comparada-à-emergência-de;1;variação;<-;"consolidação: ""é-comparada-à-emergência-de"" → ""variação""";PROPOSTO-CONSOLIDACAO
+← é-evento-de;1;é-um;<-;"consolidação: ""é-evento-de"" → ""é-um""";PROPOSTO-CONSOLIDACAO
+← é-falência-de;1;causa;<-;"consolidação: ""é-falência-de"" → ""causa""";PROPOSTO-CONSOLIDACAO
+← é-fase-de;2;parte-de;<-;"consolidação: ""é-fase-de"" → ""parte-de""";PROPOSTO-CONSOLIDACAO
+← é-fenômeno-de;1;é-um;<-;"consolidação: ""é-fenômeno-de"" → ""é-um""";PROPOSTO-CONSOLIDACAO
+← é-ilha-de;1;parte-de;<-;"consolidação: ""é-ilha-de"" → ""parte-de""";PROPOSTO-CONSOLIDACAO
 ← é-um;112;é-um;<-;;APROVADO
-← é-uma-espécie-de;1;é-uma-espécie-de;<-;;PROPOSTO
+← é-uma-espécie-de;1;é-um;<-;"consolidação: ""é-uma-espécie-de"" → ""é-um""";PROPOSTO-CONSOLIDACAO

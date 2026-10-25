@@ -739,7 +739,7 @@ O bloco `> Notas de processo:` de `RC-745-colegiados-espirituais-humanizados.md`
 
 - **Arquivo:** `admin/logs/T2-MAPEAMENTO-RELACOES.csv` — UTF-8 sem BOM, finais de linha LF, delimitador `;` (mesmo padrão dos demais CSVs de `admin/logs/`), aspas mínimas; campos que contêm `;` ou aspas duplas são delimitados por aspas, conforme RFC 4180.
 - **Colunas (6), nesta ordem:** `tipo_bruto`, `ocorrencias`, `relacao_controlada`, `direcao_controlada`, `notas_de_normalizacao`, `decisao_curatorial`.
-- **Linhas:** 1 cabeçalho + 998 tipos brutos. `tipo_bruto` e `ocorrencias` preenchidos desde a geração inicial; as 4 colunas de mapeamento **foram preenchidas em 2026-10-25** conforme as deliberações do Anexo A (31 linhas `APROVADO`, 919 `PROPOSTO`, 48 `REVISAR`). Nenhuma célula contém placeholder: onde a decisão foi "deixar em branco", a célula está estritamente vazia.
+- **Linhas:** 1 cabeçalho + 998 tipos brutos. `tipo_bruto` e `ocorrencias` preenchidos desde a geração inicial; as 4 colunas de mapeamento **foram preenchidas em 2026-10-25** conforme as deliberações do Anexo A e a 2ª rodada (31 linhas `APROVADO`, 919 `PROPOSTO-CONSOLIDACAO`, 48 `REVISAR`). Nenhuma célula contém placeholder: onde a decisão foi "deixar em branco", a célula está estritamente vazia.
 - **Ordem:** alfabética insensível a maiúsculas/minúsculas — a 1ª coluna, lida de cima para baixo, reproduz a lista bruta ordenada cujo SHA-256 é o do handoff T1 e o recalculado na seção 1.
 - **Conferência:** 998 tipos · soma das ocorrências = 7.761 · hash confirmado.
 
@@ -747,6 +747,7 @@ O bloco `> Notas de processo:` de `RC-745-colegiados-espirituais-humanizados.md`
 
 - Esta ação 2 é **apenas descritiva**: nenhuma ficha Markdown foi alterada; o `git diff` desta sessão contém exclusivamente os dois arquivos novos em `admin/logs/`.
 - O **Anexo A**, acrescentado após a publicação inicial, registra as deliberações curatoriais sobre a matriz De-Para e a proposta de colapso mecânico; ele tampouco alterou qualquer ficha.
+- A **2ª rodada (consolidação)** está documentada em `admin/logs/T2-RELATORIO-CONSOLIDACAO.md`; também não alterou qualquer ficha.
 - O vocabulário controlado e o De-Para devem ser definidos pelo curador no CSV (ação 3 do handoff).
 - A implementação do novo padrão de cinco colunas `Termo | Código | Relação | Direção | Notas` (ação 4) só ocorrerá após a aprovação da matriz T2, e deverá tratar separadamente as 45 seções deste log, os 6 rótulos fora do CSV e as 17 linhas de 4 colunas.
 - Semântica, direção (`←`), qualificadores entre parênteses e anotações históricas permanecem intactos.
@@ -763,22 +764,24 @@ O bloco `> Notas de processo:` de `RC-745-colegiados-espirituais-humanizados.md`
 
 1. As 22 linhas de mapeamento enviadas foram aprovadas; `*(deixar em branco)*` foi interpretado como **célula estritamente vazia** em `relacao_controlada` e `direcao_controlada`.
 2. `—` (86 ocorrências): nota definida como `sem relação informada; 17 linhas são registros de fonte com 4 colunas` — a redação cobre as 17 linhas de 4 colunas e as 69 linhas comuns sem relação informada.
-3. A raiz semântica `associado` e suas variações (`associado-a`, `← associado-a` etc.) passam a ser **sempre simétricas e bidirecionais (`<->`)**. As 2 linhas aprovadas foram ajustadas de `->`/`<-` para `<->`; a extensão da regra à família aparece como `PROPOSTO` em A.3.
+3. A raiz semântica `associado` e suas variações (`associado-a`, `← associado-a` etc.) passam a ser **sempre simétricas e bidirecionais (`<->`)**. As 2 linhas aprovadas foram ajustadas de `->`/`<-` para `<->`; a extensão da regra à família aparece em A.3 (hoje com status `PROPOSTO-CONSOLIDACAO`).
 4. A regra das linhas "sem aresta" (relação e direção vazias + texto migrado para `notas_de_normalizacao`) foi estendida às outras **9 variações / 20 ocorrências** da família `sem aresta / RELACOES`, inclusive a variante `(P5d)` e os casos `listado no cadastro…`. O texto original, sem a formatação Markdown `**`/`` ` ``, foi preservado integralmente na coluna de notas.
-5. **Governança da futura tabela de cinco colunas:** as linhas com `Relação`/`Direção` vazias **não devem ser removidas**. Permanecerão na nova tabela `Termo | Código | Relação | Direção | Notas`, abrigando a observação na coluna `Notas`.
+5. **Governança da futura tabela de cinco colunas:** as linhas com `Relação`/`Direção` vazias **não devem ser removidas**. Permanecerão na nova tabela `Termo | Código | Relação | Direção | Notas`, abrigando a observação na coluna `Notas`. Em 2026-10-25 o curador definiu que, na materialização, essas células recebem **um único hífen ASCII `-`** (nunca vazias, `—` ou `n/a`); na matriz CSV elas continuam estritamente vazias.
 
 ## A.2 Vocabulário de status da coluna `decisao_curatorial`
 
 | Status | Significado | Tipos | Ocorrências |
 |---|---|---|---|
 | `APROVADO` | deliberado pelo curador nesta sessão | 31 | 5.975 |
-| `PROPOSTO` | gerado pela regra de colapso de A.3; **aguarda aprovação** | 919 | 1.735 |
+| `PROPOSTO-CONSOLIDACAO` | 2ª rodada: cluster consolidado em relação controlada; **aguarda aprovação final** | 919 | 1.735 |
 | `REVISAR` | rótulo livre, sem colapso mecânico confiável; exige decisão manual | 48 | 51 |
 | **Total** | | **998** | **7.761** |
 
+> `PROPOSTO` foi o status intermediário da 1ª rodada (colapso mecânico). Em 2026-10-25 todas as 919 linhas foram promovidas a `PROPOSTO-CONSOLIDACAO`; o De-Para completo está em `admin/logs/T2-RELATORIO-CONSOLIDACAO.md`.
+
 As colunas `tipo_bruto` e `ocorrencias` não foram alteradas: a lista ordenada conserva o SHA-256 `43ad4e8083ce83d5facb39b082488031625d81dd92e827f56938fdafa7d05213` do handoff T1.
 
-## A.3 Regra de colapso mecânica (status `PROPOSTO`)
+## A.3 Regra de colapso mecânica (1ª rodada — status original `PROPOSTO`)
 
 Aplicada somente aos tipos ainda não aprovados, nesta ordem:
 
@@ -832,4 +835,4 @@ A lista completa dos clusters está na própria matriz: filtre `decisao_curatori
 - 91 itens de lista Markdown livre e 4 rótulos de tabelas padrão embutidas ainda sem De-Para.
 - 3 linhas `aresta pré-existente; arquivo existe` das tabelas `Estado na malha`.
 - 17 linhas de 4 colunas em fichas conformes (seção 7.1) — cobertas pela nota de `—`, mas ainda sem regra de conversão.
-- Aprovada a manutenção das linhas sem `Relação`/`Direção` (decisão 5), falta definir o valor literal que essas células vazias terão na tabela de cinco colunas (vazio, `—` ou `n/a`).
+- ~~Definir o valor literal das células vazias~~ — **resolvido em 2026-10-25:** hífen ASCII `-` na tabela de cinco colunas; matriz CSV mantém célula vazia. Resta aplicar a regra na ação 4.
