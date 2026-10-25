@@ -24,17 +24,12 @@ Os "ismos" (preferências, vícios, inclinações) são limitações impostas ao
 Conceito desenvolvido na palestra «A Quem Pertence o Planeta e a Biblioteca Genômica Mais Atualizada do Universo» (P2024-03-17). Ellam explica que, devido ao sentido holográfico do universo, cada ser humano contém o todo em si mesmo (ao contrário das civilizações biológicas de outros universos, cujos corpos não têm células). Os "ismos" — preferências, vícios, inclinações — são limitações que impedem o ser humano de acessar essa integralidade, mantendo-o preso a parcialidades que servem aos interesses de seres externos que manipulam o genoma humano.
 
 ## Termos Relacionados
-- RC-217 (DNA como Projeção Holográfica) — o todo está contido em cada parte
-- RC-001 (Javé) — o criador cujo código foi espalhado
-- RC-722 (Dignidade) — a pulsação da dignidade como caminho para superar os ismos
-- RC-889 (Biblioteca Genômica Humana) — o DNA como laboratório onde os ismos são impostos
-
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | associado |
-| DNA como Projeção Holográfica do Psiquismo do Criador | RC-217 | associado |
-| Dignidade como Critério de Consciência | RC-722 | associado |
-| Biblioteca Genômica Humana | RC-889 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Javé | RC-001 | associado | <-> | o criador cujo código foi espalhado |
+| DNA como Projeção Holográfica do Psiquismo do Criador | RC-217 | associado | <-> | o todo está contido em cada parte |
+| Dignidade como Critério de Consciência | RC-722 | associado | <-> | a pulsação da dignidade como caminho para superar os ismos |
+| Biblioteca Genômica Humana | RC-889 | associado | <-> | o DNA como laboratório onde os ismos são impostos |
 
 ## Fontes
 | Fonte | Localização | Tipo |

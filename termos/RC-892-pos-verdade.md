@@ -24,18 +24,14 @@ A Pós-Verdade é o fenômeno cognitivo e social em que narrativas construídas 
 Conceito central da palestra «A Falsa Queda do Ser Humano e a Indignidade Entronizada como Religião» (P2024-02-04). Ellam descreve como a humanidade oficializou a pós-verdade como modo dominante de processamento da realidade, exemplificando com o caso de Trump e sua posse, onde a narrativa prevaleceu sobre as fotografias que mostravam menos gente do que na posse de Obama.
 
 ## Termos Relacionados
-- RC-722 (Dignidade) — o inconformismo sábio como antídoto à pós-verdade
-- RC-749 (Vício Devocional) — a religião como narrativa falsa
-- RC-072 (Jesus) — a parábola do Bom Samaritano como narrativa verdadeira
-
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Jesus | RC-072 | associado |
-| Dignidade como Critério de Consciência | RC-722 | associado |
-| Vício Devocional | RC-749 | associado |
-| Pecado Original como Narrativa Cruel | RC-893 | associado |
-| Código Filosófico Pessoal | RC-897 | associado |
-| Choque de Realidade | RC-898 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Jesus | RC-072 | associado | <-> | a parábola do Bom Samaritano como narrativa verdadeira |
+| Dignidade como Critério de Consciência | RC-722 | associado | <-> | o inconformismo sábio como antídoto à pós-verdade |
+| Vício Devocional | RC-749 | associado | <-> | a religião como narrativa falsa |
+| Pecado Original como Narrativa Cruel | RC-893 | associado | <-> | - |
+| Código Filosófico Pessoal | RC-897 | associado | <-> | - |
+| Choque de Realidade | RC-898 | associado | <-> | - |
 
 ## Fontes
 | Fonte | Localização | Tipo |

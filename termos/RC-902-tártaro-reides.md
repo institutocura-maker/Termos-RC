@@ -16,12 +16,10 @@ atualizado = "2026-09-13"
 Tártaro Reides — conceito desenvolvido na palestra «A Teia da Vida e o Circuito Oculto dos Deuses» (P2024-01-13).
 
 ## Termos Relacionados
-- RC-479
-- RC-072
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Jesus | RC-072 | associado |
-| Belial (arconte; 'Satã' do livro de Jó) | RC-479 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Jesus | RC-072 | associado | <-> | - |
+| Belial (arconte; 'Satã' do livro de Jó) | RC-479 | associado | <-> | - |
 
 
 ## Ampliação

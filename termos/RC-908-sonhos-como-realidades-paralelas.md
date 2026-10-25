@@ -16,12 +16,10 @@ atualizado = "2026-09-13"
 Sonhos como Realidades Paralelas — conceito desenvolvido na palestra «A Teia da Vida e o Circuito Oculto dos Deuses» (P2024-01-13).
 
 ## Termos Relacionados
-- RC-557
-- RC-628
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Conectoma humano (pulsações sinápticas e a sensação de eu) | RC-557 | associado |
-| Simultaneidade Reversa | RC-628 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Conectoma humano (pulsações sinápticas e a sensação de eu) | RC-557 | associado | <-> | - |
+| Simultaneidade Reversa | RC-628 | associado | <-> | - |
 
 
 ## Ampliação

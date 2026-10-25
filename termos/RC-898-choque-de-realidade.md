@@ -43,17 +43,13 @@ despertar forçado é o outro nome da explosão.
 Conceito desenvolvido na palestra «A Falsa Queda do Ser Humano e a Indignidade Entronizada como Religião» (P2024-02-04). Ellam explica que a humanidade já engatilhou muitos processos que estão no nível máximo de represamento e vão ter que explodir — ninguém pode impedir essas explosões. O que se pode preparar é o âmbito pessoal, familiar, de uma cidade ou país, dependendo dos governantes, para que se escape e se sobreviva.
 
 ## Termos Relacionados
-- RC-892 (Pós-Verdade) — a estupidez humana como produto da pós-verdade
-- RC-722 (Dignidade) — o despertar como conquista da dignidade
-- RC-070 (Isolamento Cósmico) — os seres de fora apenas assistindo
-
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Isolamento Cósmico | RC-070 | associado |
-| Dignidade como Critério de Consciência | RC-722 | associado |
-| Choque de Realidade (o perpétuo espanto dos donos da verdade) | RC-867 | ← variação |
-| Pós-Verdade | RC-892 | associado |
-| Choque de realidade | RC-936 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Isolamento Cósmico | RC-070 | associado | <-> | os seres de fora apenas assistindo |
+| Dignidade como Critério de Consciência | RC-722 | associado | <-> | o despertar como conquista da dignidade |
+| Choque de Realidade (o perpétuo espanto dos donos da verdade) | RC-867 | variação | <- | - |
+| Pós-Verdade | RC-892 | associado | <-> | a estupidez humana como produto da pós-verdade |
+| Choque de realidade | RC-936 | associado | <-> | - |
 
 ## Fontes
 | Fonte | Localização | Tipo |

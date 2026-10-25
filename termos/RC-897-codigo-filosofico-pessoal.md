@@ -24,17 +24,12 @@ O Código Filosófico Pessoal é o único pouso seguro onde a consciência human
 Conceito desenvolvido na palestra «A Falsa Queda do Ser Humano e a Indignidade Entronizada como Religião» (P2024-02-04). Ellam argumenta que cada ser humano precisa se engrandecer e agigantar para além da pequena face do criador caído, resolvendo o problema dessa pequena face no genoma através da transcendência alcançada pelo código filosófico pessoal.
 
 ## Termos Relacionados
-- RC-722 (Dignidade) — a dignidade como resultado do código filosófico
-- RC-892 (Pós-Verdade) — a libertação das narrativas falsas
-- RC-749 (Vício Devocional) — a antítese da religião como peso
-- RC-890 (Eu Observador) — a autonomia decisória do observador
-
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Dignidade como Critério de Consciência | RC-722 | associado |
-| Vício Devocional | RC-749 | associado |
-| Eu Observador | RC-890 | associado |
-| Pós-Verdade | RC-892 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Dignidade como Critério de Consciência | RC-722 | associado | <-> | a dignidade como resultado do código filosófico |
+| Vício Devocional | RC-749 | associado | <-> | a antítese da religião como peso |
+| Eu Observador | RC-890 | associado | <-> | a autonomia decisória do observador |
+| Pós-Verdade | RC-892 | associado | <-> | a libertação das narrativas falsas |
 
 ## Fontes
 | Fonte | Localização | Tipo |

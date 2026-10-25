@@ -16,12 +16,10 @@ atualizado = "2026-09-13"
 O Banquete Metafórico — conceito desenvolvido na palestra «Delírio Humano a Insensatez Espiritual da Busca Religiosa» (P2023-10-15).
 
 ## Termos Relacionados
-- RC-722 (Dignidade)
-- RC-749 (Vício Devocional)
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Dignidade como Critério de Consciência | RC-722 | associado |
-| Vício Devocional | RC-749 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Dignidade como Critério de Consciência | RC-722 | associado | <-> | - |
+| Vício Devocional | RC-749 | associado | <-> | - |
 
 
 ## Ampliação

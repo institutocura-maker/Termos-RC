@@ -19,17 +19,14 @@ As Bolhas Psíquicas são realidades paralelas simultâneas geradas pelo sofrime
 Conceito desenvolvido na palestra «A Teia da Vida e o Circuito Oculto dos Deuses» (P2024-01-13). Ellam propõe que a humanidade vive em uma realidade simulada onde o sofrimento e os vícios emocionais geram essas bolhas psíquicas que aprisionam a consciência.
 
 ## Termos Relacionados
-- RC-559 (Teia Quântica) — o sistema que organiza as bolhas
-- RC-628 (Simultaneidade Reversa) — a simultaneidade das realidades
-- RC-557 (Conectoma) — os padrões mentais que geram as bolhas
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Conectoma humano (pulsações sinápticas e a sensação de eu) | RC-557 | associado |
-| Teia quântica (o que sai de um ser volta para ele) | RC-559 | associado |
-| Simultaneidade Reversa | RC-628 | associado |
-| Domínios de Morfeu | RC-901 | associado |
-| Umbrais | RC-903 | associado |
-| Yoga Tibetana dos Sonhos | RC-906 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Conectoma humano (pulsações sinápticas e a sensação de eu) | RC-557 | associado | <-> | os padrões mentais que geram as bolhas |
+| Teia quântica (o que sai de um ser volta para ele) | RC-559 | associado | <-> | o sistema que organiza as bolhas |
+| Simultaneidade Reversa | RC-628 | associado | <-> | a simultaneidade das realidades |
+| Domínios de Morfeu | RC-901 | associado | <-> | - |
+| Umbrais | RC-903 | associado | <-> | - |
+| Yoga Tibetana dos Sonhos | RC-906 | associado | <-> | - |
 
 
 ## Ampliação

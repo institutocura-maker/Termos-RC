@@ -7,7 +7,7 @@
 | Matriz | `admin/logs/T2-MAPEAMENTO-RELACOES.csv` |
 | Log de exceções | `admin/logs/T2-EXCECOES-RELACOES.md` (Anexo A) |
 | Escopo | 919 linhas `PROPOSTO` (567 rótulos-base) consolidadas; 31 `APROVADO` e 48 `REVISAR` intactas |
-| Salvaguarda | **Nenhuma ficha Markdown foi alterada.** |
+| Salvaguarda | Até a aprovação da matriz, nenhuma ficha foi alterada; a reescrita física veio depois (Fases 1 e 2 — seções 9 e 11). |
 
 ## 1. Síntese
 
@@ -20,7 +20,7 @@
 | Volume nas 10 relações aprovadas (base inteira) | **6.928 / 7.761 (89.3%)** |
 | Linhas com direção invertida (formas passivas) | 126 |
 | Linhas forçadas a `<->` (raiz `associado`, decisão 3) | 70 |
-| Linhas `REVISAR` mantidas intocadas | 48 (51 ocorrências) |
+| Linhas `REVISAR` (resolvidas na seção 9) | 48 (51 ocorrências) |
 
 A consolidação reduz 567 clusters a 23 relações controladas. Onde não havia ganho semântico comprovado, o rótulo-base foi enviado para `relaciona-se-a` (aprovada); o rótulo original foi preservado em `notas_de_normalizacao` em todas as linhas alteradas.
 
@@ -674,7 +674,7 @@ Cada linha abaixo é um cluster da 1ª rodada. `Inv.` marca as bases cujas linha
 - [x] Aprovar as inversões de direção (seção 5).
 - [x] Confirmar a regra do hífen `-` (seção 6).
 - [x] Definir o tratamento das 48 linhas `REVISAR` (seção 9).
-- [x] Autorizar a implementação da tabela de cinco colunas — **Fase 1 (776 fichas conformes) executada**; Fase 2 (45 exceções) aguarda aprovação do Anexo B.
+- [x] Autorizar a implementação da tabela de cinco colunas — **Fase 1 (776 fichas conformes) e Fase 2 (45 exceções) executadas** (seções 9 e 11).
 
 > Até a aprovação, nenhuma ficha será modificada. A matriz pode ser revertida a qualquer momento: as colunas `tipo_bruto` e `ocorrencias` permanecem idênticas à extração T1 (SHA-256 `43ad4e8083ce83d5facb39b082488031625d81dd92e827f56938fdafa7d05213`; soma 7.761).
 
@@ -703,7 +703,7 @@ Novo cabeçalho aplicado: `| Termo | Código | Relação | Direção | Notas |` 
 | Linhas com `Notas` preenchidas | 2.017 |
 | Linhas com `Relação = -` e `Direção = -` | 297 |
 | Seções com conteúdo extra fora da tabela | 44 (143 linhas preservadas literalmente) |
-| Fichas **não** tocadas | 50 (45 exceções + 5 sem seção) |
+| Fichas **não** tocadas nesta fase | 50 (45 exceções + 5 sem seção) — as 45 foram convertidas na Fase 2 |
 
 Aplicação por linha: `Relação` e `Direção` vindas da matriz (ou `-` quando vazias); `Notas` = `notas_de_normalizacao` da matriz + eventuais notas originais da ficha (4ª célula das 17 linhas anômalas), unidas por `; `. Quando não há nota, a célula também recebe `-` — mesma regra de integridade estrutural aprovada para `Relação`/`Direção` (extensão registrada para sua confirmação).
 
@@ -719,9 +719,50 @@ As 143 linhas extras das 44 seções conformes **não** foram convertidas nem fu
 - `Termo` e `Código` de cada uma das 7.761 linhas conferidos com o original.
 - Todas as novas linhas têm exatamente 5 células; nenhuma contém `|` não escapado.
 - 50 fichas não tocadas comparadas byte a byte com o HEAD: **0 divergências**.
-- 45 exceções continuam com suas estruturas originais (classes A, B e C intactas).
+- 45 exceções foram preservadas integralmente nesta fase; foram convertidas na Fase 2 (seção 11).
 - Finais de linha, ausência de newline final em 7 arquivos e codificação UTF-8 preservados.
 
 ## 10. Próxima etapa — 45 exceções
 
-O método de conversão das classes A, B e C está detalhado no **Anexo B** de `admin/logs/T2-EXCECOES-RELACOES.md` e **aguarda sua aprovação**. Nenhuma dessas 45 seções foi modificada.
+O método de conversão das classes A, B e C está detalhado no **Anexo B** de `admin/logs/T2-EXCECOES-RELACOES.md`. Foi **aprovado e executado em 2026-10-25** — resultado na seção 11.
+
+## 11. Implementação Física — Fase 2 (45 seções não conformes)
+
+**Data:** 2026-10-25 · **Despacho:** aprovação integral do Anexo B + autorização de reescrita das 45 exceções.
+**Método:** dry-run completo em memória antes de qualquer gravação; nenhuma ficha conforme da Fase 1 foi tocada.
+
+### 11.1 Resultado por classe
+
+| Classe | Seções | Entrada | Saída (linhas em 5 colunas) | Regra aplicada |
+|---|---|---|---|---|
+| **A — Estado na malha** | 6 | 27 linhas em tabelas de 3 colunas | **27** | 24 linhas pela matriz (`-`/`-` + nota aprovada); 3 linhas `aresta pré-existente; arquivo existe` tratadas como nota-apenas com `-`/`-`, **sem criar rótulo novo na matriz** |
+| **B — RC-745** | 1 | 7 linhas `Código \| Relação` + 8 linhas padrão + 1 bloco `>` | **14** | 8 linhas padrão pela matriz; `Termo` resolvido pelo frontmatter; `RC-612 / RC-613` dividido em 2; 5 rótulos livres (6 linhas) pelo fallback `relaciona-se-a`/`->` + texto em `Notas`; 2 duplicatas exatas removidas |
+| **C — Listas + tabela** | 38 | 91 itens de lista + 115 linhas padrão | **115** | 115 linhas pela matriz; **37 anotações em prosa migradas** para `Notas` da linha do mesmo código; 91 itens de lista descartados (100% dos códigos já estavam na tabela) |
+| **Total** | **45** | | **156** | |
+
+### 11.2 Totais consolidados do projeto
+
+| Métrica | Fase 1 | Fase 2 | **Total final** |
+|---|---|---|---|
+| Seções/fichas em 5 colunas | 776 | 45 | **821** |
+| Linhas de relação | 7.761 | 156 | **7.917** |
+| Linhas com `Notas` preenchidas | 2.017 | 74 | **2.091** |
+| Linhas com `Relação = -` | 297 | 27 | **324** |
+| Fichas sem seção `## Termos Relacionados` | — | — | **5** (inalteradas) |
+
+A matriz CSV **não foi alterada** nesta fase: continua com 998 linhas `APROVADO`, soma 7.761 e SHA-256 `43ad4e8083ce83d5facb39b082488031625d81dd92e827f56938fdafa7d05213`. Os 6 rótulos que só existiam nas exceções foram resolvidos por regras locais de fallback/as-notas, sem poluir o vocabulário controlado.
+
+### 11.3 Preservação e validação
+
+- Bloco `> Notas de processo ... VERBATIM` de RC-745 preservado **literalmente** (comparado com o HEAD).
+- Blocos `>`, subseções `###` e todo o conteúdo **fora** da seção `## Termos Relacionados` idênticos ao HEAD nas 45 fichas — verificação ancorada no próximo cabeçalho `##` (evita falso positivo por deslocamento de índices).
+- 80 itens de lista pertencentes a **outras seções** dessas mesmas fichas (ex.: `## Ampliação`) permanecem intactos; 0 itens de lista restaram dentro das seções convertidas.
+- RC-899 teve a peculiaridade "lista colada à tabela" normalizada; todas as 45 seções agora seguem o mesmo padrão da Fase 1 (cabeçalho imediatamente após o `##`).
+- Todas as 7.917 linhas finais têm exatamente 5 células; nenhuma contém `|` não escapado.
+- `git diff` restrito às 45 fichas da Fase 2 + aos 2 logs; CSV e 781 fichas restantes idênticos ao HEAD.
+
+### 11.4 Pendências residuais (não bloqueantes)
+
+- **17 linhas de 4 colunas** (RC-671, RC-672, RC-684): convertidas na Fase 1 com a ordem original `Termo`/`Código` preservada, mas ainda têm um código-fonte (`P2025-…`) na coluna `Termo` e o título na coluna `Código`. Requer decisão futura se você quiser inverter essas colunas.
+- **143 linhas extras** das 44 seções conformes (remissões, listas suplementares, avisos de quarentena, `### Remissão`) seguem preservadas literalmente, fora das tabelas.
+- Nenhuma aresta ou arquivo em `RELACOES`/`notas/` foi criado, removido ou renomeado.

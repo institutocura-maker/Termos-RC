@@ -49,10 +49,10 @@ Com isso:
 | B016 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
 
 ## Termos Relacionados
-| Termo | Código | Estado na malha |
-|---|---|---|
-| Trimurti | RC-104 | aresta pré-existente; arquivo existe |
-| Modelo Colmeia (Sistema/Controle Colmeia) | RC-176 | **sem aresta** em `RELACOES`; arquivo existe |
-| Liberdade Mental (premissa do Quarto Logos) | RC-253 | aresta pré-existente; arquivo existe |
-| Sacralização do Absurdo | RC-276 | **sem aresta** em `RELACOES`; **sem arquivo** |
-| Aristocracia Olimpiana e Monarquias Terrestres | RC-736 | **sem aresta** em `RELACOES`; arquivo existe |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Trimurti | RC-104 | - | - | aresta pré-existente; arquivo existe |
+| Modelo Colmeia (Sistema/Controle Colmeia) | RC-176 | - | - | sem aresta em RELACOES; arquivo existe |
+| Liberdade Mental (premissa do Quarto Logos) | RC-253 | - | - | aresta pré-existente; arquivo existe |
+| Sacralização do Absurdo | RC-276 | - | - | sem aresta em RELACOES; sem arquivo |
+| Aristocracia Olimpiana e Monarquias Terrestres | RC-736 | - | - | sem aresta em RELACOES; arquivo existe |

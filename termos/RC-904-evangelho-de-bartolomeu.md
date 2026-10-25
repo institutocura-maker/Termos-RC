@@ -16,15 +16,12 @@ atualizado = "2026-10-22"
 Evangelho de Bartolomeu — conceito desenvolvido na palestra «A Teia da Vida e o Circuito Oculto dos Deuses» (P2024-01-13).
 
 ## Termos Relacionados
-- RC-072
-- RC-479
-
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Jesus | RC-072 | associado |
-| Belial (arconte; 'Satã' do livro de Jó) | RC-479 | associado |
-| Maria Madalena | RC-943 | associado |
-| Pedro (apóstolo) | RC-945 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Jesus | RC-072 | associado | <-> | - |
+| Belial (arconte; 'Satã' do livro de Jó) | RC-479 | associado | <-> | - |
+| Maria Madalena | RC-943 | associado | <-> | - |
+| Pedro (apóstolo) | RC-945 | associado | <-> | - |
 
 
 ## Ampliação

@@ -16,12 +16,10 @@ atualizado = "2026-09-13"
 Espírito como Ator — conceito desenvolvido na palestra «O Reciclador das Informações Universais a Limpeza da Criação» (P2023-11-18).
 
 ## Termos Relacionados
-- RC-722 (Dignidade)
-- RC-901 (Domínios de Morfeu)
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Dignidade como Critério de Consciência | RC-722 | associado |
-| Domínios de Morfeu | RC-901 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Dignidade como Critério de Consciência | RC-722 | associado | <-> | - |
+| Domínios de Morfeu | RC-901 | associado | <-> | - |
 
 
 ## Ampliação

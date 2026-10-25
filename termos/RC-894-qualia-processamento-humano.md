@@ -24,15 +24,11 @@ Os Qualia são as experiências subjetivas e qualitativas da condição biológi
 Conceito desenvolvido na palestra «A Falsa Queda do Ser Humano e a Indignidade Entronizada como Religião» (P2024-02-04). Ellam explica que todos os seres extraterrestres, extracósmicos e de outras faixas de realidade estão olhando para o processador da mente humana como a única capacidade de produzir compreensão a partir da experiência biológica, algo que nem a inteligência artificial consegue fazer.
 
 ## Termos Relacionados
-- RC-217 (DNA como Projeção Holográfica) — o DNA como base do processamento
-- RC-070 (Isolamento Cósmico) — os seres de fora usando os qualia humanos
-- RC-889 (Biblioteca Genômica Humana) — o DNA como laboratório cósmico
-
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Isolamento Cósmico | RC-070 | associado |
-| DNA como Projeção Holográfica do Psiquismo do Criador | RC-217 | associado |
-| Biblioteca Genômica Humana | RC-889 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Isolamento Cósmico | RC-070 | associado | <-> | os seres de fora usando os qualia humanos |
+| DNA como Projeção Holográfica do Psiquismo do Criador | RC-217 | associado | <-> | o DNA como base do processamento |
+| Biblioteca Genômica Humana | RC-889 | associado | <-> | o DNA como laboratório cósmico |
 
 ## Fontes
 | Fonte | Localização | Tipo |

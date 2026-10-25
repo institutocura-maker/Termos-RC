@@ -102,7 +102,7 @@ Subpadrões da classe C (lista + tabela padrão):
 
 ## 5. Detalhamento por seção (verbatim, sem normalização)
 
-Os blocos abaixo são transcrições literais do estado atual das fichas. Servem de prova e de material de trabalho para a deliberação curatorial; nenhum conteúdo foi corrigido, deduplicado, reordenado ou reescrito.
+Os blocos abaixo são transcrições literais do estado **original** das fichas, anterior à conversão da Fase 2 (2026-10-25). Servem de prova e de material de trabalho para a deliberação curatorial; nenhum conteúdo foi corrigido, deduplicado, reordenado ou reescrito.
 
 ### E01 — RC-054 — Divindades (Co-criadoras)
 
@@ -714,7 +714,7 @@ Demais conteúdos das exceções, para referência:
 
 - Valores `Estado na malha` presentes no CSV: `` **sem aresta** em `RELACOES`; **sem arquivo** `` (2 linhas); `` **sem aresta** em `RELACOES`; arquivo existe `` (22 linhas).
 - Rótulos das tabelas padrão embutidas: `associado` (118), `← repercute-em` (1), `avaliado-por` (1), `organiza-se-em` (1), `← manifesta-se-em` (1), `← variação` (1) — todos já presentes nos 998 tipos.
-- 91 itens de lista livre não possuem rótulo de relação; 37 carregam anotação em prosa que ainda não existe em nenhuma coluna estruturada.
+- 91 itens de lista livre não possuíam rótulo de relação; as 37 anotações em prosa foram **migradas para `Notas` na Fase 2**.
 
 ## 7. Achados laterais (somente leitura, fora das 45 exceções)
 
@@ -739,7 +739,7 @@ O bloco `> Notas de processo:` de `RC-745-colegiados-espirituais-humanizados.md`
 
 - **Arquivo:** `admin/logs/T2-MAPEAMENTO-RELACOES.csv` — UTF-8 sem BOM, finais de linha LF, delimitador `;` (mesmo padrão dos demais CSVs de `admin/logs/`), aspas mínimas; campos que contêm `;` ou aspas duplas são delimitados por aspas, conforme RFC 4180.
 - **Colunas (6), nesta ordem:** `tipo_bruto`, `ocorrencias`, `relacao_controlada`, `direcao_controlada`, `notas_de_normalizacao`, `decisao_curatorial`.
-- **Linhas:** 1 cabeçalho + 998 tipos brutos. `tipo_bruto` e `ocorrencias` preenchidos desde a geração inicial; as 4 colunas de mapeamento **foram preenchidas em 2026-10-25** conforme as deliberações do Anexo A e a 2ª rodada (31 linhas `APROVADO`, 919 `PROPOSTO-CONSOLIDACAO`, 48 `REVISAR`). Nenhuma célula contém placeholder: onde a decisão foi "deixar em branco", a célula está estritamente vazia.
+- **Linhas:** 1 cabeçalho + 998 tipos brutos. `tipo_bruto` e `ocorrencias` preenchidos desde a geração inicial; as 4 colunas de mapeamento **foram preenchidas em 2026-10-25** conforme as deliberações do Anexo A e a 2ª rodada — **todas as 998 linhas estão hoje com `APROVADO`**. Nenhuma célula contém placeholder: onde a decisão foi "deixar em branco", a célula está estritamente vazia.
 - **Ordem:** alfabética insensível a maiúsculas/minúsculas — a 1ª coluna, lida de cima para baixo, reproduz a lista bruta ordenada cujo SHA-256 é o do handoff T1 e o recalculado na seção 1.
 - **Conferência:** 998 tipos · soma das ocorrências = 7.761 · hash confirmado.
 
@@ -749,22 +749,22 @@ O bloco `> Notas de processo:` de `RC-745-colegiados-espirituais-humanizados.md`
 - O **Anexo A**, acrescentado após a publicação inicial, registra as deliberações curatoriais sobre a matriz De-Para e a proposta de colapso mecânico; ele tampouco alterou qualquer ficha.
 - A **2ª rodada (consolidação)** está documentada em `admin/logs/T2-RELATORIO-CONSOLIDACAO.md`; também não alterou qualquer ficha.
 - O vocabulário controlado e o De-Para devem ser definidos pelo curador no CSV (ação 3 do handoff).
-- A implementação do novo padrão de cinco colunas `Termo | Código | Relação | Direção | Notas` (ação 4) só ocorrerá após a aprovação da matriz T2, e deverá tratar separadamente as 45 seções deste log, os 6 rótulos fora do CSV e as 17 linhas de 4 colunas.
+- A implementação do novo padrão de cinco colunas (ação 4) foi **executada em duas fases**: 776 fichas conformes (2026-10-25) e 45 exceções (mesma data); ver seções 9 e 11 do relatório de consolidação. Os 6 rótulos fora do CSV foram resolvidos por fallback/notas, e as 17 linhas de 4 colunas aguardam apenas uma decisão estética de inversão de colunas.
 - Semântica, direção (`←`), qualificadores entre parênteses e anotações históricas permanecem intactos.
 
 ---
 
 # Anexo A — Matriz De-Para T2: deliberações e proposta de colapso
 
-**Data:** 2026-10-25 · **Artefato:** `admin/logs/T2-MAPEAMENTO-RELACOES.csv` · **Natureza:** registro das decisões do curador + proposta mecânica ainda **não aprovada**.
+**Data:** 2026-10-25 · **Artefato:** `admin/logs/T2-MAPEAMENTO-RELACOES.csv` · **Natureza:** registro histórico das decisões do curador + proposta mecânica **aprovada e executada**.
 
-> Este anexo foi acrescentado na mesma sessão da Fase T2. Continua válida a salvaguarda da seção 9: nenhuma ficha Markdown foi alterada nesta etapa.
+> Este anexo foi acrescentado na etapa de elaboração da matriz, quando nenhuma ficha havia sido alterada. A reescrita física ocorreu depois, nas Fases 1 e 2 (seções 9 e 11 do relatório).
 
 ## A.1 Decisões aprovadas pelo curador
 
 1. As 22 linhas de mapeamento enviadas foram aprovadas; `*(deixar em branco)*` foi interpretado como **célula estritamente vazia** em `relacao_controlada` e `direcao_controlada`.
 2. `—` (86 ocorrências): nota definida como `sem relação informada; 17 linhas são registros de fonte com 4 colunas` — a redação cobre as 17 linhas de 4 colunas e as 69 linhas comuns sem relação informada.
-3. A raiz semântica `associado` e suas variações (`associado-a`, `← associado-a` etc.) passam a ser **sempre simétricas e bidirecionais (`<->`)**. As 2 linhas aprovadas foram ajustadas de `->`/`<-` para `<->`; a extensão da regra à família aparece em A.3 (hoje com status `PROPOSTO-CONSOLIDACAO`).
+3. A raiz semântica `associado` e suas variações (`associado-a`, `← associado-a` etc.) passam a ser **sempre simétricas e bidirecionais (`<->`)**. As 2 linhas aprovadas foram ajustadas de `->`/`<-` para `<->`; a extensão da regra à família aparece em A.3 (status final `APROVADO`).
 4. A regra das linhas "sem aresta" (relação e direção vazias + texto migrado para `notas_de_normalizacao`) foi estendida às outras **9 variações / 20 ocorrências** da família `sem aresta / RELACOES`, inclusive a variante `(P5d)` e os casos `listado no cadastro…`. O texto original, sem a formatação Markdown `**`/`` ` ``, foi preservado integralmente na coluna de notas.
 5. **Governança da futura tabela de cinco colunas:** as linhas com `Relação`/`Direção` vazias **não devem ser removidas**. Permanecerão na nova tabela `Termo | Código | Relação | Direção | Notas`, abrigando a observação na coluna `Notas`. Em 2026-10-25 o curador definiu que, na materialização, essas células recebem **um único hífen ASCII `-`** (nunca vazias, `—` ou `n/a`); na matriz CSV elas continuam estritamente vazias.
 
@@ -794,7 +794,7 @@ Aplicada somente aos tipos ainda não aprovados, nesta ordem:
 
 Resultado: 919 tipos / 1.735 ocorrências agrupados em **567 rótulos-base candidatos**; 48 tipos / 51 ocorrências ficaram para revisão manual.
 
-**Atenção:** os rótulos-base ainda não são um vocabulário controlado final — são clusters para deliberação. A redução a um conjunto enxuto de relações controladas é a etapa seguinte (ação 3 do handoff).
+**Nota histórica:** os rótulos-base eram clusters, não vocabulário controlado. A redução para **23 relações controladas** foi executada na 2ª rodada e está documentada em `admin/logs/T2-RELATORIO-CONSOLIDACAO.md`.
 
 ## A.4 Maiores clusters propostos (top 25 por ocorrências)
 
@@ -826,22 +826,22 @@ Resultado: 919 tipos / 1.735 ocorrências agrupados em **567 rótulos-base candi
 | `precede` | 3 | 12 | `precede`; `precede (via Nidana B)`; `← precede` |
 | `compõe` | 2 | 12 | `compõe`; `← compõe` |
 
-A lista completa dos clusters está na própria matriz: filtre `decisao_curatorial = PROPOSTO`.
+A lista completa dos clusters está na própria matriz (coluna `relacao_controlada`) e na seção 3 do relatório de consolidação; todas as linhas estão hoje com `decisao_curatorial = APROVADO`.
 
-## A.5 Pendências que a matriz ainda não resolve
+## A.5 Pendências históricas — situação em 2026-10-25
 
 - ~~48 rótulos `REVISAR`~~ — **resolvidos** em 2026-10-25 pelo fallback aprovado; nenhum permanece pendente.
-- 6 rótulos das 45 seções não conformes que **não têm linha no CSV** (seção 6 deste log).
-- 91 itens de lista Markdown livre e 4 rótulos de tabelas padrão embutidas ainda sem De-Para.
-- 3 linhas `aresta pré-existente; arquivo existe` das tabelas `Estado na malha`.
-- 17 linhas de 4 colunas em fichas conformes (seção 7.1) — cobertas pela nota de `—`, mas ainda sem regra de conversão.
+- ~~6 rótulos das exceções fora do CSV~~ — **resolvidos na Fase 2** por fallback/notas; a matriz permanece com 998 linhas.
+- ~~91 itens de lista livre e tabelas padrão embutidas~~ — **convertidos na Fase 2** (37 anotações migradas para `Notas`).
+- ~~3 linhas `aresta pré-existente; arquivo existe`~~ — **resolvidas** como nota-apenas (`-`/`-`).
+- **Ainda pendente (estética):** 17 linhas de 4 colunas em fichas conformes (seção 7.1) foram convertidas na Fase 1, mas mantêm o código-fonte na coluna `Termo` e o título na coluna `Código`; falta decidir se invertemos.
 - ~~Definir o valor literal das células vazias~~ — **resolvido e aplicado** na Fase 1: hífen ASCII `-` nas 297 linhas sem relação; a matriz CSV mantém suas células vazias.
 
 ---
 
 # Anexo B — Plano de conversão das 45 seções não conformes
 
-**Data:** 2026-10-25 · **Status:** aguarda aprovação do método. **Nenhuma exceção foi reescrita.**
+**Data:** 2026-10-25 · **Status:** **APROVADO E EXECUTADO** — as 45 seções foram convertidas; resultado na seção 11 do relatório e em B.6 abaixo.
 **Pré-condição cumprida:** Fase 1 concluída e validada (776 fichas conformes, 7.761 linhas, 0 divergências fora das tabelas — relatório em `admin/logs/T2-RELATORIO-CONSOLIDACAO.md`, seção 9).
 
 ## B.0 Regras gerais propostas para as 3 classes
@@ -906,13 +906,30 @@ A lista completa dos clusters está na própria matriz: filtre `decisao_curatori
 | C | 38 | 115 |
 | **Total** | **45** | **≈ 150–158** |
 
-Validação prevista antes do commit: 45 seções com o cabeçalho de 5 colunas; 0 alterações fora dos blocos convertidos; blocos `>`/`###` idênticos ao original; contagem de linhas conferida com a tabela acima; `git diff` restrito às 45 fichas; relatório de divergências apresentado antes de qualquer publicação.
+**Validação executada:** 45 seções com o cabeçalho de 5 colunas; **156 linhas** resultantes (A 27 + B 14 + C 115); 0 alterações fora dos blocos convertidos; blocos `>`/`###` idênticos ao original; `git diff` restrito às 45 fichas; CSV e 781 fichas restantes idênticos ao HEAD.
 
-## B.5 Checklist de aprovação do método
+## B.5 Checklist de aprovação do método (integralmente aprovado)
 
-- [ ] Classe A: 3 linhas `aresta pré-existente` como nota-apenas (`-`/`-`) — ou rótulo novo na matriz?
-- [ ] Classe B: dividir `RC-612 / RC-613` em duas linhas.
-- [ ] Classe B: unificar as duas tabelas em uma só, removendo duplicatas exatas.
-- [ ] Classe B: fallback `relaciona-se-a`/`->` para os 5 rótulos livres.
-- [ ] Classe C: descartar as listas e migrar as 37 anotações para `Notas`.
-- [ ] Confirmar que `Notas` vazia também usa `-`.
+- [x] Classe A: 3 linhas `aresta pré-existente` como nota-apenas (`-`/`-`); nenhum rótulo novo na matriz.
+- [x] Classe B: `RC-612 / RC-613` dividido em duas linhas.
+- [x] Classe B: tabelas unificadas; 2 duplicatas exatas removidas.
+- [x] Classe B: fallback `relaciona-se-a`/`->` aplicado aos 5 rótulos livres (6 linhas).
+- [x] Classe C: 91 listas descartadas; 37 anotações migradas para `Notas`.
+- [x] `Notas` vazia usa `-` em todas as 7.917 linhas finais.
+
+## B.6 Execução — registro final
+
+| Item | Resultado |
+|---|---|
+| Fichas reescritas | **45** (6 A + 1 B + 38 C) |
+| Linhas em 5 colunas geradas | **156** (27 + 14 + 115) |
+| Anotações em prosa migradas | **37** |
+| Códigos compostos divididos | 1 (`RC-612 / RC-613` → 2 linhas, com procedência registrada em `Notas`) |
+| Duplicatas exatas removidas | 2 (RC-726 e RC-722) |
+| Blocos `>` / `###` preservados | 1 bloco VERBATIM em RC-745; todos os demais idênticos |
+| Itens de lista descartados | 91 (100% dos códigos já presentes nas tabelas) |
+| Itens de lista de outras seções | 80 preservados |
+| Matriz CSV | **inalterada** (998 linhas `APROVADO`, soma 7.761) |
+| Total do projeto | **821 seções / 7.917 linhas** em 5 colunas |
+
+As transcrições das seções 1–7 deste log são o registro do **estado anterior** à conversão e foram mantidas como prova histórica. O estado atual das fichas é o padrão de cinco colunas descrito na seção 11 do relatório de consolidação.

@@ -24,17 +24,12 @@ A Bondade Humana é a capacidade única do ser humano de fazer o bem — uma cap
 Conceito desenvolvido na palestra «A Falsa Queda do Ser Humano e a Indignidade Entronizada como Religião» (P2024-02-04). Ellam ilustra com a parábola do Bom Samaritano de Jesus, onde o samaritano (considerado de quinta categoria) é o único que para para ajudar o homem caído na estrada, enquanto o fariseu e o saduceu (sangue azul) passam reto.
 
 ## Termos Relacionados
-- RC-474 (Arcontes) — a tentativa de destruir a bondade humana
-- RC-072 (Jesus) — a parábola do Bom Samaritano
-- RC-722 (Dignidade) — a bondade como expressão da dignidade
-- RC-771 (Fornos Replicadores) — o big data dos arcontes
-
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Jesus | RC-072 | associado |
-| Arcontes (= Sophias e Indras; Conselho dos 70) | RC-474 | associado |
-| Dignidade como Critério de Consciência | RC-722 | associado |
-| Fornos Replicadores (naves/estações de semeadura de vida do Projeto Talm; Awayen, Awaylengan e Awaymaion) | RC-771 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Jesus | RC-072 | associado | <-> | a parábola do Bom Samaritano |
+| Arcontes (= Sophias e Indras; Conselho dos 70) | RC-474 | associado | <-> | a tentativa de destruir a bondade humana |
+| Dignidade como Critério de Consciência | RC-722 | associado | <-> | a bondade como expressão da dignidade |
+| Fornos Replicadores (naves/estações de semeadura de vida do Projeto Talm; Awayen, Awaylengan e Awaymaion) | RC-771 | associado | <-> | o big data dos arcontes |
 
 ## Fontes
 | Fonte | Localização | Tipo |

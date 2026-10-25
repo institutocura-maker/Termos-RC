@@ -24,20 +24,15 @@ A Biblioteca Genômica Humana é o conceito que descreve o DNA humano como um la
 Conceito central da palestra «A Quem Pertence o Planeta e a Biblioteca Genômica Mais Atualizada do Universo» (P2024-03-17). Ellam descreve como civilizações de outros universos enxergam a humanidade não como indivíduos, mas como códigos genéticos — um laboratório vivo de experimentação. A pirataria cósmica ocorre quando essas civilizações tentam acessar e manipular o DNA humano para seus próprios fins.
 
 ## Termos Relacionados
-- RC-001 (Javé) — o criador cujo código falido foi espalhado
-- RC-217 (DNA como Projeção Holográfica) — cada célula contém o todo
-- RC-070 (Isolamento Cósmico) — a pirataria genômica como invasão
-- RC-722 (Dignidade) — a pulsação da dignidade protege o código genético
-
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | associado |
-| Isolamento Cósmico | RC-070 | associado |
-| DNA como Projeção Holográfica do Psiquismo do Criador | RC-217 | associado |
-| Dignidade como Critério de Consciência | RC-722 | associado |
-| Ismos como Limitação Genômica | RC-891 | associado |
-| Qualia como Processamento Humano | RC-894 | associado |
-| Point Interdimensional | RC-896 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Javé | RC-001 | associado | <-> | o criador cujo código falido foi espalhado |
+| Isolamento Cósmico | RC-070 | associado | <-> | a pirataria genômica como invasão |
+| DNA como Projeção Holográfica do Psiquismo do Criador | RC-217 | associado | <-> | cada célula contém o todo |
+| Dignidade como Critério de Consciência | RC-722 | associado | <-> | a pulsação da dignidade protege o código genético |
+| Ismos como Limitação Genômica | RC-891 | associado | <-> | - |
+| Qualia como Processamento Humano | RC-894 | associado | <-> | - |
+| Point Interdimensional | RC-896 | associado | <-> | - |
 
 ## Fontes
 | Fonte | Localização | Tipo |

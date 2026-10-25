@@ -24,16 +24,12 @@ O Eu Observador é a modalidade de consciência que não age no primeiro impulso
 Conceito desenvolvido na palestra «A Quem Pertence o Planeta e a Biblioteca Genômica Mais Atualizada do Universo» (P2024-03-17). Ellam distingue duas modalidades de consciência humana: o eu observador (que mantém autonomia decisória) e o eu usufruidor (que foi capturado pela emoção devocional inoculada por seres externos, vivendo em êxtase permanente enquanto o mundo ao redor se desfaz).
 
 ## Termos Relacionados
-- RC-749 (Vício Devocional) — o eu usufruidor como captura pela emoção devocional
-- RC-529 (Ressonância Límbica) — linguagem quântica que une os seres
-- RC-722 (Dignidade) — a pulsação da dignidade como proteção contra manipulação
-
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Ressonância límbica (emoções como tecnologia cósmica) | RC-529 | associado |
-| Dignidade como Critério de Consciência | RC-722 | associado |
-| Vício Devocional | RC-749 | associado |
-| Código Filosófico Pessoal | RC-897 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Ressonância límbica (emoções como tecnologia cósmica) | RC-529 | associado | <-> | linguagem quântica que une os seres |
+| Dignidade como Critério de Consciência | RC-722 | associado | <-> | a pulsação da dignidade como proteção contra manipulação |
+| Vício Devocional | RC-749 | associado | <-> | o eu usufruidor como captura pela emoção devocional |
+| Código Filosófico Pessoal | RC-897 | associado | <-> | - |
 
 ## Fontes
 | Fonte | Localização | Tipo |

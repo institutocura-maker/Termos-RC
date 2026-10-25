@@ -44,8 +44,8 @@ Com isso:
 | STT26-EXPERIENCIA_ESPIRITUAL_ETICA | Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
 
 ## Termos Relacionados
-| Termo | Código | Estado na malha |
-|---|---|---|
-| Mônada (Mônada Espiritual) | RC-149 | **sem aresta** em `RELACOES`; arquivo existe |
-| Big Data Cósmico | RC-194 | **sem aresta** em `RELACOES`; arquivo existe |
-| Kit Reencarnatório de Elétrons | RC-692 | aresta pré-existente; arquivo existe |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Mônada (Mônada Espiritual) | RC-149 | - | - | sem aresta em RELACOES; arquivo existe |
+| Big Data Cósmico | RC-194 | - | - | sem aresta em RELACOES; arquivo existe |
+| Kit Reencarnatório de Elétrons | RC-692 | - | - | aresta pré-existente; arquivo existe |

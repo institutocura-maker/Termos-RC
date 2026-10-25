@@ -24,27 +24,22 @@ atualizado = "2026-08-29"
 - A fonte descreve polos católico, islâmico, protestante, budista-yogue, demodármico devocional e filosófico, sem criar um RC para cada polo.
 
 ## Termos Relacionados
-
-| Código | Relação |
-|---|---|
-| RC-726 | organiza-se-em |
-| RC-722 | avaliado-por |
-| RC-193 | recebe repercussão de rebanho humano |
-| RC-733 | recebe manifestação de dominação/êxtase pela devoção |
-| RC-513 | mecanismo próximo de ressonância |
-| RC-633 | gestão da sensação e destinação |
-| RC-612 / RC-613 | destino editorial do projeto futuro, sem novo nó |
-
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Rebanho humano | RC-193 | ← repercute-em |
-| Espiritualidade Errática (4ª faixa manifestada) | RC-513 | associado |
-| Nova Espiritualidade / Novo Paraíso (Paraíso B) | RC-612 | associado |
-| Trincheira Vibratória no Campo Informativo | RC-613 | associado |
-| Gestão da Sensação Pessoal | RC-633 | associado |
-| Dignidade como Critério de Consciência | RC-722 | avaliado-por |
-| Faixas Espirituais de Ressonância | RC-726 | organiza-se-em |
-| Dominação Psíquica pela Devoção | RC-733 | ← manifesta-se-em |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Rebanho humano | RC-193 | causa | <- | consolidação: "repercute-em" → "causa" |
+| Espiritualidade Errática (4ª faixa manifestada) | RC-513 | associado | <-> | - |
+| Nova Espiritualidade / Novo Paraíso (Paraíso B) | RC-612 | associado | <-> | - |
+| Trincheira Vibratória no Campo Informativo | RC-613 | associado | <-> | - |
+| Gestão da Sensação Pessoal | RC-633 | associado | <-> | - |
+| Dignidade como Critério de Consciência | RC-722 | controla | <- | consolidação: "avaliado-por" → "controla"; direção invertida (forma passiva/inversa) |
+| Faixas Espirituais de Ressonância | RC-726 | inclui | -> | consolidação: "organiza-se-em" → "inclui" |
+| Dominação Psíquica pela Devoção | RC-733 | representa | <- | consolidação: "manifesta-se-em" → "representa" |
+| Rebanho humano | RC-193 | relaciona-se-a | -> | texto bruto original: recebe repercussão de rebanho humano |
+| Dominação Psíquica pela Devoção | RC-733 | relaciona-se-a | -> | texto bruto original: recebe manifestação de dominação/êxtase pela devoção |
+| Espiritualidade Errática (4ª faixa manifestada) | RC-513 | relaciona-se-a | -> | texto bruto original: mecanismo próximo de ressonância |
+| Gestão da Sensação Pessoal | RC-633 | relaciona-se-a | -> | texto bruto original: gestão da sensação e destinação |
+| Nova Espiritualidade / Novo Paraíso (Paraíso B) | RC-612 | relaciona-se-a | -> | texto bruto original: destino editorial do projeto futuro, sem novo nó; código composto original: RC-612 / RC-613 |
+| Trincheira Vibratória no Campo Informativo | RC-613 | relaciona-se-a | -> | texto bruto original: destino editorial do projeto futuro, sem novo nó; código composto original: RC-612 / RC-613 |
 
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-745.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
 

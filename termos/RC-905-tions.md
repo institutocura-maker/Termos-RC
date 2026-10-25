@@ -16,12 +16,10 @@ atualizado = "2026-09-13"
 Tions — conceito desenvolvido na palestra «A Teia da Vida e o Circuito Oculto dos Deuses» (P2024-01-13).
 
 ## Termos Relacionados
-- RC-559
-- RC-628
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Teia quântica (o que sai de um ser volta para ele) | RC-559 | associado |
-| Simultaneidade Reversa | RC-628 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Teia quântica (o que sai de um ser volta para ele) | RC-559 | associado | <-> | - |
+| Simultaneidade Reversa | RC-628 | associado | <-> | - |
 
 
 ## Ampliação

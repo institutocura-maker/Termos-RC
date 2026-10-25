@@ -48,8 +48,8 @@ Com isso:
 | STT26-SOCIEDADE_CONTEMPORANEA | Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
 
 ## Termos Relacionados
-| Termo | Código | Estado na malha |
-|---|---|---|
-| Karuna | RC-165 | **sem aresta** em `RELACOES`; arquivo existe |
-| Superconsciência | RC-615 | **sem aresta** em `RELACOES`; arquivo existe |
-| Genótipo da Gentileza (GG) | RC-748 | **sem aresta** em `RELACOES`; arquivo existe |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Karuna | RC-165 | - | - | sem aresta em RELACOES; arquivo existe |
+| Superconsciência | RC-615 | - | - | sem aresta em RELACOES; arquivo existe |
+| Genótipo da Gentileza (GG) | RC-748 | - | - | sem aresta em RELACOES; arquivo existe |

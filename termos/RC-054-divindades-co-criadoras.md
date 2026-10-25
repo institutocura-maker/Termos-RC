@@ -45,13 +45,13 @@ Com isso:
 | STT26-EXPERIENCIA_ESPIRITUAL_ETICA | Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
 
 ## Termos Relacionados
-| Termo | Código | Estado na malha |
-|---|---|---|
-| Adhy | RC-011 | **sem aresta** em `RELACOES`; arquivo existe |
-| Adhyagia | RC-012 | **sem aresta** em `RELACOES`; arquivo existe |
-| Brahma (Brajna) | RC-037 | **sem aresta** em `RELACOES`; arquivo existe |
-| Deidade (Pai-Mãe Amantíssimo / Brahman) | RC-047 | **sem aresta** em `RELACOES`; arquivo existe |
-| Deus / Deus Incognoscível | RC-052 | **sem aresta** em `RELACOES`; arquivo existe |
-| Seres Espirituais | RC-100 | **sem aresta** em `RELACOES`; arquivo existe |
-| Divindades Excelsas | RC-206 | **sem aresta** em `RELACOES`; arquivo existe |
-| Arquiteto Universal | RC-207 | **sem aresta** em `RELACOES`; arquivo existe |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Adhy | RC-011 | - | - | sem aresta em RELACOES; arquivo existe |
+| Adhyagia | RC-012 | - | - | sem aresta em RELACOES; arquivo existe |
+| Brahma (Brajna) | RC-037 | - | - | sem aresta em RELACOES; arquivo existe |
+| Deidade (Pai-Mãe Amantíssimo / Brahman) | RC-047 | - | - | sem aresta em RELACOES; arquivo existe |
+| Deus / Deus Incognoscível | RC-052 | - | - | sem aresta em RELACOES; arquivo existe |
+| Seres Espirituais | RC-100 | - | - | sem aresta em RELACOES; arquivo existe |
+| Divindades Excelsas | RC-206 | - | - | sem aresta em RELACOES; arquivo existe |
+| Arquiteto Universal | RC-207 | - | - | sem aresta em RELACOES; arquivo existe |

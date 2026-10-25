@@ -16,12 +16,10 @@ atualizado = "2026-09-13"
 Tonteltã — conceito desenvolvido na palestra «A Teia da Vida e o Circuito Oculto dos Deuses» (P2024-01-13).
 
 ## Termos Relacionados
-- RC-072
-- RC-490
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Jesus | RC-072 | associado |
-| Caim (leitura RC: segundo a nascer) | RC-490 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Jesus | RC-072 | associado | <-> | - |
+| Caim (leitura RC: segundo a nascer) | RC-490 | associado | <-> | - |
 
 
 ## Ampliação

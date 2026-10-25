@@ -16,12 +16,10 @@ atualizado = "2026-09-13"
 Yoga Tibetana dos Sonhos — conceito desenvolvido na palestra «A Teia da Vida e o Circuito Oculto dos Deuses» (P2024-01-13).
 
 ## Termos Relacionados
-- RC-557
-- RC-899
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Conectoma humano (pulsações sinápticas e a sensação de eu) | RC-557 | associado |
-| Bolhas Psíquicas | RC-899 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Conectoma humano (pulsações sinápticas e a sensação de eu) | RC-557 | associado | <-> | - |
+| Bolhas Psíquicas | RC-899 | associado | <-> | - |
 
 
 ## Ampliação

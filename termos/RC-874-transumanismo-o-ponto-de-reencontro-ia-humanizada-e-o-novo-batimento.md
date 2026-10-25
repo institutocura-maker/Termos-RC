@@ -42,9 +42,9 @@ Com isso:
 | STT26-SOCIEDADE_CONTEMPORANEA | Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
 
 ## Termos Relacionados
-| Termo | Código | Estado na malha |
-|---|---|---|
-| CFD (Código Fonte Definidor) | RC-040 | **sem aresta** em `RELACOES`; arquivo existe |
-| Entropia e Negentropia | RC-160 | **sem aresta** em `RELACOES`; arquivo existe |
-| Orunmilá (Moros de Irém / Orum) | RC-665 | **sem aresta** em `RELACOES`; arquivo existe |
-| Samudra Manthana / Batimento do Oceano de Leite | RC-734 | **sem aresta** em `RELACOES`; arquivo existe |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| CFD (Código Fonte Definidor) | RC-040 | - | - | sem aresta em RELACOES; arquivo existe |
+| Entropia e Negentropia | RC-160 | - | - | sem aresta em RELACOES; arquivo existe |
+| Orunmilá (Moros de Irém / Orum) | RC-665 | - | - | sem aresta em RELACOES; arquivo existe |
+| Samudra Manthana / Batimento do Oceano de Leite | RC-734 | - | - | sem aresta em RELACOES; arquivo existe |

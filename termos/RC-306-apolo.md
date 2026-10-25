@@ -56,9 +56,9 @@ Com isso:
 | B060 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
 
 ## Termos Relacionados
-| Termo | Código | Estado na malha |
-|---|---|---|
-| Revelação Cósmica (conceito) | RC-094 | **sem aresta** em `RELACOES`; arquivo existe |
-| Zeus | RC-145 | **sem aresta** em `RELACOES`; arquivo existe |
-| Pitonisas e Oráculos (Apolo/Delfos) | RC-296 | **sem aresta** em `RELACOES`; **sem arquivo** |
-| Maitreya (Dionísio; forma adiágena de Vishnu) | RC-481 | **sem aresta** em `RELACOES`; arquivo existe |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Revelação Cósmica (conceito) | RC-094 | - | - | sem aresta em RELACOES; arquivo existe |
+| Zeus | RC-145 | - | - | sem aresta em RELACOES; arquivo existe |
+| Pitonisas e Oráculos (Apolo/Delfos) | RC-296 | - | - | sem aresta em RELACOES; sem arquivo |
+| Maitreya (Dionísio; forma adiágena de Vishnu) | RC-481 | - | - | sem aresta em RELACOES; arquivo existe |

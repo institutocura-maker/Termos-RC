@@ -24,15 +24,11 @@ O Point Interdimensional é a caracterização da Terra como o centro de converg
 Conceito desenvolvido na palestra «A Falsa Queda do Ser Humano e a Indignidade Entronizada como Religião» (P2024-02-04). Ellam explica que todas as faixas de realidade com todas as espécies e gêneros de seres não sabem contar essa história devido à demência — só os humanos têm racionalidade para organizar os fatos e compreender o contexto cósmico.
 
 ## Termos Relacionados
-- RC-070 (Isolamento Cósmico) — a Terra como centro de convergência
-- RC-889 (Biblioteca Genômica Humana) — o DNA como laboratório cósmico
-- RC-001 (Javé) — a disputa da Suzerania Universal
-
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Javé | RC-001 | associado |
-| Isolamento Cósmico | RC-070 | associado |
-| Biblioteca Genômica Humana | RC-889 | associado |
+| Termo | Código | Relação | Direção | Notas |
+|---|---|---|---|---|
+| Javé | RC-001 | associado | <-> | a disputa da Suzerania Universal |
+| Isolamento Cósmico | RC-070 | associado | <-> | a Terra como centro de convergência |
+| Biblioteca Genômica Humana | RC-889 | associado | <-> | o DNA como laboratório cósmico |
 
 ## Fontes
 | Fonte | Localização | Tipo |
