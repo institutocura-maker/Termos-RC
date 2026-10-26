@@ -12,23 +12,14 @@ atualizado = "2026-08-31"
 +++
 # Val (Família Val) — RC-109
 
-## Definição Sintética
+## 1. Gênese e Definição
+
+### Definição Sintética
 
 Val (Família Val): a mais recente família biodêmica (surgida há ~230 milhões de anos), que já habitava a Terra há ~600.000 anos quando o quartel-general rebelde aportou; não participou da deflagração da rebelião.
 
-## Contexto / Origem
+### Termos Relacionados
 
-**Materialização (não é criação).** `RC-109` vivia só no cadastro: linha em `ferramentas/dados_termos.py`, `ficha=False`, sem arquivo em `termos/`. A virada foi autorizada pelo despacho do Curador de 29/08/2026, na linha que trata das ordens nomeadas sem arquivo, e executada pelo Motor Único em `ciclos/P2017-10-14/`.
-
-Com isso:
-
-* a Base ganha um **arquivo**; 0 termos novos e **0 relações novas** por este ciclo;
-- o cadastro lista 5 código(s) em `relacionados`: 1 com aresta correspondente em `RELACOES` e 2 sem arquivo de ficha. A ficha **declara** a lacuna em vez de preenchê-la — abrir aresta é decisão curatorial;
-- as fontes já registradas no cadastro são `B031`, `P2022-12-17`, `P2020-04-25`, `P2023-12-03`, `P2017-10-14`.
-
-**Origem do conteúdo da ampliação:** palestra `P2017-10-14 — Da Base Atlan ao Colégio Druídico` (14/10/2017). Transcrição automatizada, **não conferida com o áudio**; cada aspa foi recortada do `original.txt` pelo índice de âncoras do motor e conferida byte a byte pelo portão B. Nada foi digitado de memória.
-
-## Termos Relacionados
 | Termo | Código | Relação | Direção | Notas |
 |---|---|---|---|---|
 | Benem | RC-032 | relaciona-se-a | <- | - |
@@ -67,7 +58,44 @@ Com isso:
 | Conselho dos Cinco (comando da Frota Norte: 3 Val + 2 Yel) | RC-501 | associado | <-> | - |
 | Val Aten (último Val de Val-Ha) | RC-502 | é-um | <- | - |
 
-## Fontes
+### Contexto / Origem
+
+**Materialização (não é criação).** `RC-109` vivia só no cadastro: linha em `ferramentas/dados_termos.py`, `ficha=False`, sem arquivo em `termos/`. A virada foi autorizada pelo despacho do Curador de 29/08/2026, na linha que trata das ordens nomeadas sem arquivo, e executada pelo Motor Único em `ciclos/P2017-10-14/`.
+Com isso:
+* a Base ganha um **arquivo**; 0 termos novos e **0 relações novas** por este ciclo;
+- o cadastro lista 5 código(s) em `relacionados`: 1 com aresta correspondente em `RELACOES` e 2 sem arquivo de ficha. A ficha **declara** a lacuna em vez de preenchê-la — abrir aresta é decisão curatorial;
+- as fontes já registradas no cadastro são `B031`, `P2022-12-17`, `P2020-04-25`, `P2023-12-03`, `P2017-10-14`.
+**Origem do conteúdo da ampliação:** palestra `P2017-10-14 — Da Base Atlan ao Colégio Druídico` (14/10/2017). Transcrição automatizada, **não conferida com o áudio**; cada aspa foi recortada do `original.txt` pelo índice de âncoras do motor e conferida byte a byte pelo portão B. Nada foi digitado de memória.
+
+- **[Valel + Eulian = mix genético — origem do nome Val]** «enciava e Liamo junto comel terminaram fazendo um mix do código genérico dos dois em termos mais recentes, em que o nome de Val ficou Val, porque Valel pegou de Lian na parte final e o nome de Eulian» — ver RC-089 (Processador Val), RC-365 (Fator Judas). [Fonte: P2023-07-09]
+
+- **[Família Val — criados um por um, cada um como cobaia]** «os VS foram criados um por um, porque cada um trazia em si uma receita de cobaia que possivelmente poderia ser usada. em padrões de humanoides futuros sexuais» — ver RC-089 (Processador Val). [Fonte: P2023-07-09]
+
+## 2. Natureza e Atributos
+
+- **[Val, a última família biodêmica] (U0023)** «A última foi a Vol que foi criada h cerca de 230 milhões de anos.» — a família Val (RC-109): a última das ~250.000 espécies biodêmicas, criada há ~230 M anos na nave Asphezian (RC-025). [Fonte: P2018-12-15]
+
+## 3. Hierarquia e Geopolítica
+
+- **[a família Val e a rebelião] (U0008)** «Família V não fez parte da deflagração do processo.» — a família Val (STT `Vol`/`V`) não participou da deflagração da rebelião; as quatro famílias envolvidas foram Iel, Cromon, Mion e Chamon. [Fonte: P2017-10-14]
+
+**Fonte:** palestra «A Quem Pertence o Planeta e a Biblioteca Genômica Mais Atualizada do Universo» (17/03/2024).
+**Trecho verbatim:** «A militarização do ser humano veio dos elfos. E os gregos, quando perceberam que eles colocavam pelotão para ir pra guerra, na hora da guerra a turma fugia. O que é que os gregos fizeram? Colocavam no mesmo pelotão os membros da mesma família para assim evitar de um filho fugir deixando o pai lá ou ao contrário.»
+
+## 4. Histórico e Eventos Cósmicos
+
+## 5. Lentes Curatoriais e Quarentenas
+
+### Observações
+
+### Observações sobre o Estado da Malha
+* **Grafia STT:** 'Vol' / 'Família V' = Val. As quatro famílias da deflagração: Iel, Cromon, Mion e Chamon.
+* **Trava aplicável**: quarentena social — a leitura 'elitista' do percentual de biodemos na humanidade e dos 'mais habilitados' que levam a tocha da vida (linha U0149): dito, não endossado.
+
+## 6. Histórico Curatorial e Auditoria
+
+### Fontes
+
 | Obra (sigla) | Título | Página | Tipo |
 |---|---|---|---|
 | P2023-07-09 | A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
@@ -75,36 +103,9 @@ Com isso:
 | P2017-10-14 | Da Base Atlan ao Colégio Druídico (palestra) | — | transcrição automatizada; citação |
 | B031 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
 
-## Fontes
+### Fontes
+
 | Fonte | Localização | Tipo |
 |---|---|---|
 | P2024-03-17 | A Quem Pertence o Planeta e a Biblioteca Genômica Mais Atualizada do Universo (palestra) | transcrição automatizada; citação |
 | P2023-07-09 | A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
-
-## Ampliação
-### P2017-10-14 (Da Base Atlan ao Colégio Druídico)
-
-- **[a família Val e a rebelião] (U0008)** «Família V não fez parte da deflagração do processo.» — a família Val (STT `Vol`/`V`) não participou da deflagração da rebelião; as quatro famílias envolvidas foram Iel, Cromon, Mion e Chamon.
-
-### P2018-12-15 (Terra Atlantis – Aprofundamento)
-
-- **[Val, a última família biodêmica] (U0023)** «A última foi a Vol que foi criada h cerca de 230 milhões de anos.» — a família Val (RC-109): a última das ~250.000 espécies biodêmicas, criada há ~230 M anos na nave Asphezian (RC-025).
-
-## Ampliação
-### P2023-07-09 (A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons)
-
-- **[Valel + Eulian = mix genético — origem do nome Val]** «enciava e Liamo junto comel terminaram fazendo um mix do código genérico dos dois em termos mais recentes, em que o nome de Val ficou Val, porque Valel pegou de Lian na parte final e o nome de Eulian» — ver RC-089 (Processador Val), RC-365 (Fator Judas).
-- **[Família Val — criados um por um, cada um como cobaia]** «os VS foram criados um por um, porque cada um trazia em si uma receita de cobaia que possivelmente poderia ser usada. em padrões de humanoides futuros sexuais» — ver RC-089 (Processador Val).
-
-## Ampliação
-### P2024-03-17
-
-**Fonte:** palestra «A Quem Pertence o Planeta e a Biblioteca Genômica Mais Atualizada do Universo» (17/03/2024).
-
-**Trecho verbatim:** «A militarização do ser humano veio dos elfos. E os gregos, quando perceberam que eles colocavam pelotão para ir pra guerra, na hora da guerra a turma fugia. O que é que os gregos fizeram? Colocavam no mesmo pelotão os membros da mesma família para assim evitar de um filho fugir deixando o pai lá ou ao contrário.»
-
-## Observações
-### Observações sobre o Estado da Malha
-
-* **Grafia STT:** 'Vol' / 'Família V' = Val. As quatro famílias da deflagração: Iel, Cromon, Mion e Chamon.
-* **Trava aplicável**: quarentena social — a leitura 'elitista' do percentual de biodemos na humanidade e dos 'mais habilitados' que levam a tocha da vida (linha U0149): dito, não endossado.

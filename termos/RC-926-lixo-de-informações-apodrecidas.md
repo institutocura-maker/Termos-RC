@@ -12,17 +12,28 @@ atualizado = "2026-09-13"
 +++
 # Lixo de Informações Apodrecidas — RC-926
 
-## Definição Sintética
+## 1. Gênese e Definição
+
+### Definição Sintética
+
 Lixo de Informações Apodrecidas — conceito desenvolvido na palestra «O Reciclador das Informações Universais a Limpeza da Criação» (P2023-11-18).
 
-## Termos Relacionados
+### Termos Relacionados
+
 | Termo | Código | Relação | Direção | Notas |
 |---|---|---|---|---|
 | Dignidade como Critério de Consciência | RC-722 | associado | <-> | - |
 | Domínios de Morfeu | RC-901 | associado | <-> | - |
 
+## 2. Natureza e Atributos
 
-## Ampliação
-### P2023-11-18
+## 3. Hierarquia e Geopolítica
+
 **Fonte:** palestra «O Reciclador das Informações Universais a Limpeza da Criação» (18/11/2023).
 **Trecho verbatim:** «A gente poderia dizer o fosso ou o lixo de informações apodrecidas, um dia caídas da espiritualidade em um ambiente e todas essas informações precisam ser recicladas para que esse ambiente se limpe.»
+
+## 4. Histórico e Eventos Cósmicos
+
+## 5. Lentes Curatoriais e Quarentenas
+
+## 6. Histórico Curatorial e Auditoria

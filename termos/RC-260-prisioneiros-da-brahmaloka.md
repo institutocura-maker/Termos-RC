@@ -12,18 +12,14 @@ atualizado = "2026-08-12"
 +++
 # Prisioneiros da Brahmaloka — RC-260
 
-## Definição Sintética
+## 1. Gênese e Definição
+
+### Definição Sintética
+
 Expressão do apêndice homônimo de B016 para designar os **seres da Trimurti — sobretudo Brahma/Javé — presos no universo antimaterial (Brahmaloka)**: "Brahma ou Javé jamais saiu da 'morada' que conseguiu gerar para si, ainda que a sua Criação extrapole, e em muito, o seu 'brahmaloka', onde passou a viver." Por não ser dotado da condição Adhyagia (e dela ter se apartado desde a queda), **Brahma jamais conseguiu produzir expressões de si mesmo (expressões Adhyajna)** para endereçá-las a outras regiões da Criação — ao contrário de Shiva e Vishnu.
 
-## Etimologia e Grafias
-- **Grafia preferida:** Prisioneiros da Brahmaloka
-- **Variações:** presos no universo antimaterial; "morada" de Brahma; prisioneiros da criação
+### Termos Relacionados
 
-
-## Contexto / Origem
-O apêndice "Prisioneiros da Brahmaloka" (B016) é uma das fontes mais densas da taxonomia RC: detalha que Savna/Tusavna (Shiva) e Mavatna (Vishnu) — outros seres Adhy da corrente Atman em Perpérion — "mergulharam" na Criação e produziram incontáveis expressões Adhyajna (Shiva: última foi Sai Baba; Vishnu: Sophia como expressão bio-demo e Jesus como forma avatárica). Brahma, prisioneiro, é o único que não consegue. Os irmãos Adhy permaneceram observando "o 'ponto de tamanho menor que uma cabeça de um alfinete'" (a singularidade) que se tornou "fator de estudo" para os seres da Espiritualidade Laboratorial.
-
-## Termos Relacionados
 | Termo | Código | Relação | Direção | Notas |
 |---|---|---|---|---|
 | Sophia (Cristo Cósmico) | RC-009 | relaciona-se-a | -> | texto bruto original: expressão Adhyajna de Vishnu |
@@ -34,26 +30,49 @@ O apêndice "Prisioneiros da Brahmaloka" (B016) é uma das fontes mais densas da
 | Criador (Brahma/Javé/Demiurgo) | RC-041 | inclui | -> | - |
 | Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | contexto | -> | - |
 
-## Seres Associados
+### Etimologia e Grafias
+
+- **Grafia preferida:** Prisioneiros da Brahmaloka
+- **Variações:** presos no universo antimaterial; "morada" de Brahma; prisioneiros da criação
+
+### Contexto / Origem
+
+O apêndice "Prisioneiros da Brahmaloka" (B016) é uma das fontes mais densas da taxonomia RC: detalha que Savna/Tusavna (Shiva) e Mavatna (Vishnu) — outros seres Adhy da corrente Atman em Perpérion — "mergulharam" na Criação e produziram incontáveis expressões Adhyajna (Shiva: última foi Sai Baba; Vishnu: Sophia como expressão bio-demo e Jesus como forma avatárica). Brahma, prisioneiro, é o único que não consegue. Os irmãos Adhy permaneceram observando "o 'ponto de tamanho menor que uma cabeça de um alfinete'" (a singularidade) que se tornou "fator de estudo" para os seres da Espiritualidade Laboratorial.
+
+### Citações-chave
+
+> "Brahma ou Javé jamais saiu da 'morada' que conseguiu gerar para si, ainda que a sua Criação extrapole, e em muito, o seu 'brahmaloka', onde passou a viver. Por não ser dotado da sua condição Adhyagia e dela ter se apartado desde a sua 'queda', Brahma jamais conseguiu produzir expressões de si mesmo (expressões Adhyajna) para endereçá-las às outras regiões da sua Criação." — B016, apêndice
+
+## Citações Verbatim
+
+- **[B016 p. 185]** “Brahma ou Javé jamais saiu da ‘morada’ que conseguiu gerar para si […] o seu ‘brahmaloka’, onde passou a viver.”
+
+- **[B016 p. 185]** por ter-se apartado da condição Adhyagia na queda, “Brahma jamais conseguiu produzir expressões de si mesmo (expressões Adhyajna).”
+
+- **[B016 p. 185]** Savna/Tusavna mergulhou e edificou a expressão Adhydaiva Shiva; última Adhyajna humana: Sai Baba.
+
+- **[B016 p. 5 / 48]** só Vishnu e Shiva geram avatares; o Primeiro Logos “não podia gerar avatares.”
+
+- RC-014/RC-016 materializadas P5e. [Fonte: B016]
+
+## 3. Hierarquia e Geopolítica
+
+### Seres Associados
+
 Brahma/Javé (RC-037/RC-001); Shiva (RC-102); Vishnu (RC-135); Sophia (RC-009); Jesus (RC-072).
 
-## Fontes
+## 5. Lentes Curatoriais e Quarentenas
+
+### Observações
+
+Ficha baseada em B016 (obra primária). Apêndice-chave para a taxonomia Adhy (Adhyagia/Adhyatman/Adhydaiva/Adhyajna) e para a compreensão de por que Brahma não produz avatares enquanto Shiva e Vishnu o fazem. Cruzar com RC-016 e RC-014.
+
+## 6. Histórico Curatorial e Auditoria
+
+### Fontes
+
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
 | O Quarto Logos (B016) | Apêndice (Prisioneiros da brahmaloka) | pp. 90–105 (aprox.) | apêndice dedicado |
 
-## Citações-chave
-> "Brahma ou Javé jamais saiu da 'morada' que conseguiu gerar para si, ainda que a sua Criação extrapole, e em muito, o seu 'brahmaloka', onde passou a viver. Por não ser dotado da sua condição Adhyagia e dela ter se apartado desde a sua 'queda', Brahma jamais conseguiu produzir expressões de si mesmo (expressões Adhyajna) para endereçá-las às outras regiões da sua Criação." — B016, apêndice
-
-## Ampliação
-### B016 (O Quarto Logos)
-
-- **[B016 p. 185]** “Brahma ou Javé jamais saiu da ‘morada’ que conseguiu gerar para si […] o seu ‘brahmaloka’, onde passou a viver.”
-- **[B016 p. 185]** por ter-se apartado da condição Adhyagia na queda, “Brahma jamais conseguiu produzir expressões de si mesmo (expressões Adhyajna).”
-- **[B016 p. 185]** Savna/Tusavna mergulhou e edificou a expressão Adhydaiva Shiva; última Adhyajna humana: Sai Baba.
-- **[B016 p. 5 / 48]** só Vishnu e Shiva geram avatares; o Primeiro Logos “não podia gerar avatares.”
-- RC-014/RC-016 materializadas P5e.
-
-## Observações
-Ficha baseada em B016 (obra primária). Apêndice-chave para a taxonomia Adhy (Adhyagia/Adhyatman/Adhydaiva/Adhyajna) e para a compreensão de por que Brahma não produz avatares enquanto Shiva e Vishnu o fazem. Cruzar com RC-016 e RC-014.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

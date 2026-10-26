@@ -12,18 +12,14 @@ atualizado = "2026-08-12"
 +++
 # Genética da Confiança — RC-243
 
-## Definição Sintética
+## 1. Gênese e Definição
+
+### Definição Sintética
+
 Nova configuração genética surgida nos núcleos edênicos: os pequenos grupos de homo sapiens escolhidos pelo Criador eram "extremamente ricos em termos da nova configuração da **genética da confiança**, base do que os terráqueos entendem como **atração, desejo e amor**" (B015, cap. 10). O "efeito confiança" foi semeado na configuração do código genético das criaturas — a base psíquica que permite a cooperação, o vínculo e o amor entre os seres, ausente nas gerações diretas do Criador.
 
-## Etimologia e Grafias
-- **Grafia preferida:** Genética da Confiança
-- **Variações:** efeito confiança; configuração genética da confiança; genética do amor
+### Termos Relacionados
 
-
-## Contexto / Origem
-A Genética da Confiança é o contraponto do **Germe da Desconfiança** (RC-244): "a dificuldade insuperável — que perdurou por cerca de 3 bilhões de anos desde o surgimento da molécula-mãe no planeta — dos seres unicelulares terrestres se reunirem para formar um corpo pluricelular, tem a ver exatamente com o germe da desconfiança herdado do modo de ser do Criador". A genética da confiança é o que tornou possível a cooperação celular, a vida pluricelular e, mais tarde, o amor humano — instrumento de redenção do Criador.
-
-## Termos Relacionados
 | Termo | Código | Relação | Direção | Notas |
 |---|---|---|---|---|
 | Criador (Brahma/Javé/Demiurgo) | RC-041 | relaciona-se-a | -> | texto bruto original: origem da superação |
@@ -36,24 +32,45 @@ A Genética da Confiança é o contraponto do **Germe da Desconfiança** (RC-244
 | Ressonância límbica (emoções como tecnologia cósmica) | RC-529 | associado | <-> | - |
 | Vacina do Amor (ancoragem de Jesus no CFD) | RC-532 | associado | <-> | - |
 
-## Seres Associados
+### Etimologia e Grafias
+
+- **Grafia preferida:** Genética da Confiança
+- **Variações:** efeito confiança; configuração genética da confiança; genética do amor
+
+### Contexto / Origem
+
+A Genética da Confiança é o contraponto do **Germe da Desconfiança** (RC-244): "a dificuldade insuperável — que perdurou por cerca de 3 bilhões de anos desde o surgimento da molécula-mãe no planeta — dos seres unicelulares terrestres se reunirem para formar um corpo pluricelular, tem a ver exatamente com o germe da desconfiança herdado do modo de ser do Criador". A genética da confiança é o que tornou possível a cooperação celular, a vida pluricelular e, mais tarde, o amor humano — instrumento de redenção do Criador.
+
+### Citações-chave
+
+> «Esses pequenos grupos» » … « «de humanos, que aqui estou chamando de laboratórios, eram extremamente» » … « «ricos em termos da nova configuração da genética da confiança, base do que» » … « «os terráqueos entendem como atração, desejo e amor.» — B015 p. 52 · `original.txt` L1784 · reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte.
+
+## Citações Verbatim
+
+- **[B040 p. 9–10]** “gene da desconfiança” impede unicelulares de se unirem; “gene da confiança” só surge “muito tempo mais tarde.”
+
+- **[B040 p. 18–19]** hormônio da confiança (oxitocina) e “genes da gentileza” tornam possível “direcionar a sua força para a prática esportiva saudável.” **Quarentena científica** (oxitocina/OXTR = citação, não validação).
+
+## 3. Hierarquia e Geopolítica
+
+### Seres Associados
+
 Seres Terrenos (RC-099); Criador (RC-041); Adão e Eva (RC-189).
 
-## Fontes
+## 5. Lentes Curatoriais e Quarentenas
+
+### Observações
+
+Ficha baseada em B015 (obra primária). Conceito-chave para entender a especificidade humana nas RC: o amor/confiança como "novidade genética" que supera o padrão do Criador. Cruzar com RC-244 e com o "Favor Divino" (RC-063).
+
+## 6. Histórico Curatorial e Auditoria
+
+### Fontes
+
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
 | O Guardião do Éden (B015) | cap. 10 (O Éden do Criador) | pp. 60–70 (aprox.) | conceito central |
 
-## Citações-chave
-> «Esses pequenos grupos» » … « «de humanos, que aqui estou chamando de laboratórios, eram extremamente» » … « «ricos em termos da nova configuração da genética da confiança, base do que» » … « «os terráqueos entendem como atração, desejo e amor.» — B015 p. 52 · `original.txt` L1784 · reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte.
-
-## Ampliação
-### B040 (Homo Sapiens: da Guerra ao Esporte)
-
-- **[B040 p. 9–10]** “gene da desconfiança” impede unicelulares de se unirem; “gene da confiança” só surge “muito tempo mais tarde.”
-- **[B040 p. 18–19]** hormônio da confiança (oxitocina) e “genes da gentileza” tornam possível “direcionar a sua força para a prática esportiva saudável.” **Quarentena científica** (oxitocina/OXTR = citação, não validação).
 - **[B040 p. 40]** a espécie passa da “desconfiança absoluta” à confiança na hierarquia (exército) — marco psicológico, não ontologia militar. Sem fusão com B015. RC-244 permanece **sem ficha**. Fonte **B040** acrescentada na tabela-mestra.
 
-## Observações
-Ficha baseada em B015 (obra primária). Conceito-chave para entender a especificidade humana nas RC: o amor/confiança como "novidade genética" que supera o padrão do Criador. Cruzar com RC-244 e com o "Favor Divino" (RC-063).
 - ✅ **Reanexação A5 (U91, 15/09/2026):** o trecho entre aspas desta ficha foi reanexado às fontes e passa a trazer aparelho de linha (`— SIGLA · original.txt LNNNN`), conferido byte a byte pelo Portão B. **Quarentena epistemológica de 14/09/2026 (U86) levantada nesta ficha** — a nota original dizia que o trecho não resistia à verificação; agora resiste, porque deixou de ser uma transcrição solta e passou a ser extracto conferido. Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

@@ -12,17 +12,14 @@ atualizado = "2026-10-22"
 +++
 # Face Microbiana do Criador — RC-641
 
-## Definição Sintética
+## 1. Gênese e Definição
+
+### Definição Sintética
+
 Primeira expressão viva/reconstruída do Criador sob formas virais e microbianas.
 
-## Etimologia e Grafias
-- Grafia: Face Microbiana do Criador.
+### Termos Relacionados
 
-
-## Contexto / Origem
-Vincula-se à obra B064 A Ordenação do Caos e às transições de fase.
-
-## Termos Relacionados
 | Termo | Código | Relação | Direção | Notas |
 |---|---|---|---|---|
 | Demência do Criador (fases da condição de Javé) | RC-526 | contexto | -> | consolidação: "tema-de" → "contexto" |
@@ -31,32 +28,47 @@ Vincula-se à obra B064 A Ordenação do Caos e às transições de fase.
 | Transições de Fase / Face da Criação | RC-640 | inclui | <- | - |
 | Autofagia do Criador | RC-667 | associado | <-> | - |
 
-## Seres Associados
+### Etimologia e Grafias
+
+- Grafia: Face Microbiana do Criador.
+
+### Contexto / Origem
+
+Vincula-se à obra B064 A Ordenação do Caos e às transições de fase.
+
+### Citações-chave
+
+> “A primeira forma de vida [...] foi a vida microbiana.” — P2024-05-04
+
+- **[P2022-03-26 · FACE MICROBIANA DO CRIADOR NA FALA DE 26/03/2022]** "Daqui a um mês sai um livro chamado Além da Ordenação do Caos, a face virótica do Criador, em que nesse livro eu vou explicar a fundo algumas questões Eu não vou falar aqui na palestra porque eu vou ter que falar sobre o problema de Javé." (U0020) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⭐ **NOTA DE ANTERIORIDADE — P2022-03-26:** antecipa **25 meses** a atual fonte oral mais antiga da ficha (`P2024-05-04`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
+
+## 2. Natureza e Atributos
+
+## 3. Hierarquia e Geopolítica
+
+### Seres Associados
+
 Consultar relações acima.
 
-## Ampliação — STT26-SOCIEDADE_CONTEMPORANEA (Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados))
+## 4. Histórico e Eventos Cósmicos
+
+## 5. Lentes Curatoriais e Quarentenas
+
+### Observações
+
+Título oral “Além da Ordenação do Caos” diverge de B064; manter B064 canônico.
+Status candidato por depender de palestra e alegações ainda não cruzadas integralmente com obras primárias.
+
+## 6. Histórico Curatorial e Auditoria
 
 - **[STT26-21 · Face Microbiana do Criador]** «Isso faz parte dessa invasão de uma série de figuras microscópicas. O livro que eu escrevi chamado A Ordenação do Caos, A Face Microbiana do Criador, um livro que eu lancei uns dois, três anos atrás, mas acho que é além da ordenação do caos, a face microbiana do Criador, a gente analisa exatamente essas questões de toxoflasma gondii e outras, e lá eu insinuo um pouco desse problema.» (U6376 · chars 1057610–1057995) — Candidata de cotejo; evidência `STT26-21-RC-641-001`, grafia encontrada `Face Microbiana do Criador`; decisão por lote `STT26-21: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
 
+### Fontes
 
-## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
 | STT26-SOCIEDADE_CONTEMPORANEA | Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
 | P2024-05-04 — Prabrajna em Perpérion / Simultaneidade Reversa | U1171–U1195 | PDF/transcrição pré-curada |
 
-
-## Citações-chave
-> “A primeira forma de vida [...] foi a vida microbiana.” — P2024-05-04
-
-## Ampliação
-### P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
-
-- **[P2022-03-26 · FACE MICROBIANA DO CRIADOR NA FALA DE 26/03/2022]** "Daqui a um mês sai um livro chamado Além da Ordenação do Caos, a face virótica do Criador, em que nesse livro eu vou explicar a fundo algumas questões Eu não vou falar aqui na palestra porque eu vou ter que falar sobre o problema de Javé." (U0020) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⭐ **NOTA DE ANTERIORIDADE — P2022-03-26:** antecipa **25 meses** a atual fonte oral mais antiga da ficha (`P2024-05-04`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
-
-## Observações
-Título oral “Além da Ordenação do Caos” diverge de B064; manter B064 canônico.
-
-Status candidato por depender de palestra e alegações ainda não cruzadas integralmente com obras primárias.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

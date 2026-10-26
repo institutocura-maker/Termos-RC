@@ -12,11 +12,14 @@ atualizado = "2026-09-10"
 +++
 # Adhybutha — RC-015
 
-## Definição Sintética
+## 1. Gênese e Definição
+
+### Definição Sintética
 
 Perispírito menor: instrumento modelador biológico e demo — a "base dos entes e dos seres elementais", parcialmente edificada pelas formas Adhydaiva para permitir o "mergulho" das suas consciências no universo biológico e em outras áreas do universo demo (B031). Para que avatares de Vishnu e Shiva atuassem no universo material, na construção de seus corpos biológicos foi necessária a geração de "Pacotes de Poder Mental" e de expressões espirituais intermediárias Adhybutha — então o único modo de produzir protótipos no universo biológico e mantê-los vivos (B024). Adhybutha seria uma "expansão", uma "projeção" da condição Adhyagia (B024, Nota 20). Seres adhyajna sem suporte da condição adhyagya recorrem a essa estruturação espiritual, dita adhybhuta (P2025-02-16).
 
-## Termos Relacionados
+### Termos Relacionados
+
 | Termo | Código | Relação | Direção | Notas |
 |---|---|---|---|---|
 | Adhydaiva | RC-014 | origina | <- | consolidação: "edificada-por" → "origina"; direção invertida (forma passiva/inversa) |
@@ -24,7 +27,26 @@ Perispírito menor: instrumento modelador biológico e demo — a "base dos ente
 | Demos | RC-049 | associado | <-> | - |
 | Gênero Adhy (147 seres, 5 espécies) | RC-411 | associado | <-> | - |
 
-## Fontes
+### Citações-chave
+
+> "Adhybutha seria uma 'expansão' de um tipo de 'projeção' da condição Adhyagia." — B024, Nota 20
+> "Formas de vida que surgiram como produto da “queda” (experiência consequente) e que foram decorrentes do processo de estruturação possível ao contexto antimaterial ou universo paralelo, que se encontra situado como imediatamente “vizinho”; base da forma demo; “prisão” para as suas mentes. “Base divina” é uma denominação equivocada deste tipo de expressão." — B031
+
+## 2. Natureza e Atributos
+
+## 3. Hierarquia e Geopolítica
+
+## 4. Histórico e Eventos Cósmicos
+
+## 5. Lentes Curatoriais e Quarentenas
+
+### Observações
+
+Ficha materializada na escala do Apêndice C (P5f — fecho da família Adhy, 10/09/2026): código 🟡 provisório, sem colisão de uso no corpus. B051 consta do cadastro como fonte mas a pasta não foi localizada no acervo. Com esta, a família Adhy (011/012/013/014/015/016) está completa no corpus.
+
+## 6. Histórico Curatorial e Auditoria
+
+### Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
@@ -33,14 +55,4 @@ Perispírito menor: instrumento modelador biológico e demo — a "base dos ente
 | P2025-02-16 | O Oitavo Dia da Criação — adhyajna sem suporte recorrem à estruturação adhybhuta | palestra/STT |
 | P2021-12-04 · P2024-11-30 | fontes registradas; busca textual sem ocorrências — passagens ainda não extraídas | palestra/STT |
 
-## Citações-chave
-
-> "Adhybutha seria uma 'expansão' de um tipo de 'projeção' da condição Adhyagia." — B024, Nota 20
-
-> "Formas de vida que surgiram como produto da “queda” (experiência consequente) e que foram decorrentes do processo de estruturação possível ao contexto antimaterial ou universo paralelo, que se encontra situado como imediatamente “vizinho”; base da forma demo; “prisão” para as suas mentes. “Base divina” é uma denominação equivocada deste tipo de expressão." — B031
-
-
-## Observações
-
-Ficha materializada na escala do Apêndice C (P5f — fecho da família Adhy, 10/09/2026): código 🟡 provisório, sem colisão de uso no corpus. B051 consta do cadastro como fonte mas a pasta não foi localizada no acervo. Com esta, a família Adhy (011/012/013/014/015/016) está completa no corpus.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** os 2 trechos entre aspas desta ficha **não** resistem à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Só 1 dos 2 deixam vestígio no corpus. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

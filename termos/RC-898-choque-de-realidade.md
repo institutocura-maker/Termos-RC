@@ -12,37 +12,14 @@ atualizado = "2026-09-13"
 +++
 # Choque de Realidade — RC-898
 
-## Definição Sintética
+## 1. Gênese e Definição
+
+### Definição Sintética
+
 O Choque de Realidade é a forma pela qual a estupidez humana colecionada ao longo da história será confrontada — a única maneira de "bater na cara da estupidez humana" para que os humanos acordem (os que sobreviverem). Esses choques acontecerão como eventos inevitáveis resultantes de processos que a humanidade já engatilhou e que estão no nível máximo de represamento, prestes a explodir. Não são promovidos por seres de fora (que estão apenas assistindo), mas são consequência da própria ação humana.
 
-## Etimologia e Grafias
-- **Grafia preferida:** Choque de Realidade
-- **Variações:** choque; explosão; despertar forçado
-- **Idioma de origem:** Português
+### Termos Relacionados
 
-### Absorção de RC-936 — F045 · 07/09/2026
-
-O código **RC-936** («Choque de realidade», aberto por F043-T3 em 06/09/2026) era
-duplicata homônima deste verbete e foi absorvido aqui pelo despacho F045; a ficha
-RC-936 passa a remissiva. O material exclusivo daquela ficha — a definição
-dicionarizada do *Glossário Krys Amon* — fica preservado abaixo como **sentido
-registrado pelo grupo**.
-
-**Sentido 2 — registro do grupo (fonte secundária):** «Situação inesperada e que
-causa desilusão, interferindo drasticamente no modo de viver.»
-— EXT-2024-01-04 (Glossário Krys Amon), verbete «Choque de realidade»;
-paráfrase/definição, **fonte secundária** (a hierarquia das fontes primárias —
-obras e falas de Jan Val Ellam — permanece intacta).
-
-**Nota de método (por que os dois verbetes não conflitam):** a definição do grupo
-descreve o *efeito* do choque sobre o indivíduo — a desilusão que rompe a zona de
-conforto teórico; a definição canônica (acima) descreve a *causa* coletiva — os
-processos já represados que a humanidade mesma engatilhou. Efeito e causa: o
-despertar forçado é o outro nome da explosão.
-## Contexto / Origem
-Conceito desenvolvido na palestra «A Falsa Queda do Ser Humano e a Indignidade Entronizada como Religião» (P2024-02-04). Ellam explica que a humanidade já engatilhou muitos processos que estão no nível máximo de represamento e vão ter que explodir — ninguém pode impedir essas explosões. O que se pode preparar é o âmbito pessoal, familiar, de uma cidade ou país, dependendo dos governantes, para que se escape e se sobreviva.
-
-## Termos Relacionados
 | Termo | Código | Relação | Direção | Notas |
 |---|---|---|---|---|
 | Isolamento Cósmico | RC-070 | associado | <-> | os seres de fora apenas assistindo |
@@ -51,25 +28,54 @@ Conceito desenvolvido na palestra «A Falsa Queda do Ser Humano e a Indignidade 
 | Pós-Verdade | RC-892 | associado | <-> | a estupidez humana como produto da pós-verdade |
 | Choque de realidade | RC-936 | associado | <-> | - |
 
-## Fontes
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2024-02-04 | A Falsa Queda do Ser Humano e a Indignidade Entronizada como Religião (palestra) | transcrição automatizada; citação |
+### Etimologia e Grafias
 
+- **Grafia preferida:** Choque de Realidade
+- **Variações:** choque; explosão; despertar forçado
+- **Idioma de origem:** Português
 
----
+### Absorção de RC-936 — F045 · 07/09/2026
+O código **RC-936** («Choque de realidade», aberto por F043-T3 em 06/09/2026) era
+duplicata homônima deste verbete e foi absorvido aqui pelo despacho F045; a ficha
+RC-936 passa a remissiva. O material exclusivo daquela ficha — a definição
+dicionarizada do *Glossário Krys Amon* — fica preservado abaixo como **sentido
+registrado pelo grupo**.
+**Sentido 2 — registro do grupo (fonte secundária):** «Situação inesperada e que
+causa desilusão, interferindo drasticamente no modo de viver.»
+— EXT-2024-01-04 (Glossário Krys Amon), verbete «Choque de realidade»;
+paráfrase/definição, **fonte secundária** (a hierarquia das fontes primárias —
+obras e falas de Jan Val Ellam — permanece intacta).
+**Nota de método (por que os dois verbetes não conflitam):** a definição do grupo
+descreve o *efeito* do choque sobre o indivíduo — a desilusão que rompe a zona de
+conforto teórico; a definição canônica (acima) descreve a *causa* coletiva — os
+processos já represados que a humanidade mesma engatilhou. Efeito e causa: o
+despertar forçado é o outro nome da explosão.
 
-## Ampliação
-### P2024-02-04
+### Contexto / Origem
+
+Conceito desenvolvido na palestra «A Falsa Queda do Ser Humano e a Indignidade Entronizada como Religião» (P2024-02-04). Ellam explica que a humanidade já engatilhou muitos processos que estão no nível máximo de represamento e vão ter que explodir — ninguém pode impedir essas explosões. O que se pode preparar é o âmbito pessoal, familiar, de uma cidade ou país, dependendo dos governantes, para que se escape e se sobreviva.
+
+## 2. Natureza e Atributos
+
+## 3. Hierarquia e Geopolítica
+
+## 4. Histórico e Eventos Cósmicos
 
 **Fonte:** palestra «A Falsa Queda do Ser Humano e a Indignidade Entronizada como Religião» (04/02/2024).
-
 **Trecho verbatim:** «Mas assim, os choques de realidade que, infelizmente, a estupidez humana colecionou Aí esses choques vão acontecer como sendo a única forma de bater na cara da estupidez humana pros humanos acordarem os que sobreviverem ela.»
-
 **Trecho verbatim 2:** «O que é que pode ser controlado? Aquilo que os seres vivos produzem. Só que isso não pode mais ser controlado no âmbito da humanidade, que a humanidade já engatilhou muitos processos e todo Eles estão no nível máximo de represamento, então eles vão ter que explodir. Então ninguém pede essas explosões.»
 
-## Observações
+## 5. Lentes Curatoriais e Quarentenas
+
+### Observações
 
 ### Remissiva C6 (despacho 2.6 — 12/09/2026)
 Homônimo no cadastro: **RC-936** — Choque de realidade (provisório). O par RC-936 é entrada provisória do Anel C do GKA (obra de apoio, fonte SECUNDÁRIA); fundir contaminaria o lastro primário — mantidos separados por decisão de 2.6.
 
+## 6. Histórico Curatorial e Auditoria
+
+### Fontes
+
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2024-02-04 | A Falsa Queda do Ser Humano e a Indignidade Entronizada como Religião (palestra) | transcrição automatizada; citação |

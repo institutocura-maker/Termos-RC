@@ -12,18 +12,14 @@ atualizado = "2026-08-25"
 +++
 # Gestão Psíquica e Memórias Complexas — RC-554
 
-## Definição Sintética
+## 1. Gênese e Definição
+
+### Definição Sintética
+
 **Gestão Psíquica e Memórias Complexas** é o conceito central do *Mentalma II* (B075, 2022): a governança, pelo "Eu organizador", dos **Arquivos Mentais** (RC-548) — "capturar, organizar, colecionar e **deletar**" (10ª Constatação) — incluindo as **memórias complexas** ("fardo espiritual": lembranças pesadas, mal resolvidas, que "sujam" a Consciência). A prática inclui a "limpeza" das memórias (2 etapas: Vontade → "novo sentimento"), o "Dia Meta 10" (dez práticas diárias) e a **Pacificação Pessoal** ("o fim de todos os medos"). Coroa a série com o **Grau 6 de maestria — "Maestria da Arquitetura do Projeto Espiritual de Vida"**.
 
-## Etimologia e Grafias
-- **Grafia preferida:** Gestão Psíquica e Memórias Complexas
-- **Variações:** "Gestão Psíquica" (capa/curta); expressões afins: "limpeza das memórias", "gestão da 'bagagem espiritual'", "plano de maestria pessoal"
-- **Idioma de origem / etimologia:** português — expressão criada por Ellam (B075)
+### Termos Relacionados
 
-## Contexto / Origem
-No *Mentalma II* (B075), Ellam aprofunda o método do *Mentalma I* (B074) no terreno da **gestão** (não apenas da coleção) dos arquivos: a "caixa de depósitos" (mente) é comandada pela Vontade (RC-550); o "canal mental" (psiquismo) funciona como o "**conectoma mental**" (extrapolação RC, nota p. 190–191 — ver RC-557); a "memória quântica celular" (17ª Const.) é reprogramada pela "Vontade"; a "agenda espiritual" é o instrumento diário ("Dia Meta 10", p. 165–166). A "pacificação pessoal" (cap. 11) — "a morte diária", o desapego e a prática "Phowa" (a "arte de morrer bem" — **vocabulário da obra, leitura**) — é o estágio terminal da gestão: "rompi com todos os medos e receios" (p. 180).
-
-## Termos Relacionados
 | Termo | Código | Relação | Direção | Notas |
 |---|---|---|---|---|
 | Mentalma | RC-166 | é-um | -> | - |
@@ -35,10 +31,42 @@ No *Mentalma II* (B075), Ellam aprofunda o método do *Mentalma I* (B074) no ter
 | Série Mentalma (5 livros + curso) | RC-555 | contexto | -> | qualificador preservado: volume II; consolidação: "está-em" → "contexto" |
 | Conectoma humano (pulsações sinápticas e a sensação de eu) | RC-557 | relaciona-se-a | -> | qualificador preservado: "conectoma mental", p. 190–191 |
 
-## Seres Associados
+### Etimologia e Grafias
+
+- **Grafia preferida:** Gestão Psíquica e Memórias Complexas
+- **Variações:** "Gestão Psíquica" (capa/curta); expressões afins: "limpeza das memórias", "gestão da 'bagagem espiritual'", "plano de maestria pessoal"
+- **Idioma de origem / etimologia:** português — expressão criada por Ellam (B075)
+
+### Contexto / Origem
+
+No *Mentalma II* (B075), Ellam aprofunda o método do *Mentalma I* (B074) no terreno da **gestão** (não apenas da coleção) dos arquivos: a "caixa de depósitos" (mente) é comandada pela Vontade (RC-550); o "canal mental" (psiquismo) funciona como o "**conectoma mental**" (extrapolação RC, nota p. 190–191 — ver RC-557); a "memória quântica celular" (17ª Const.) é reprogramada pela "Vontade"; a "agenda espiritual" é o instrumento diário ("Dia Meta 10", p. 165–166). A "pacificação pessoal" (cap. 11) — "a morte diária", o desapego e a prática "Phowa" (a "arte de morrer bem" — **vocabulário da obra, leitura**) — é o estágio terminal da gestão: "rompi com todos os medos e receios" (p. 180).
+
+### Citações-chave
+
+> «Quando descobre que pode usar o “Eu terreno” — que a maioria dos» » … « «seres humanos pensa ser — como “instrumento quântico” para» » … « «“capturar, organizar, colecionar e deletar” arquivos mentais, ela se» » … « «torna mestre de si mesma.» — B075 p. 81 · `original.txt` L3336 · reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte.
+> «É necessário transcender tais memórias complicadas, de modo a acabar» » … « «com o “fardo espiritual”,» » […] « «a pessoa somente modifica essa memória se tiver vontade de» » … « «transcendê-la» » […] « «cérebro produzirá a PKMzeta, que proporcionará a» » … « «apropriação ou a “colagem do novo arquivo mental” — ou seja, morre uma» » … « «memória antiga e surge uma nova no hipocampo» — B075 p. 109 · `original.txt` L4511 · reconstrução aprovada pelo Curador na U93; 32 palavras da fonte omitidas — » […] « assinala o fosso, ao passo que » … « assinala apenas quebra de hard-wrap.
+> "A **Pacificação Pessoal**, o fim de todos os medos, eis o grande desafio da humanidade, que elegi como sendo o meu tema predileto. Rompi com todos os medos e receios por meio da prática do conjunto destas duas disciplinas: 1. 'Phowa', conhecida como 'a arte de morrer bem'...; 2. Libertação de posses e apegos diversos, de modo a me programar para uma possível 'morte diária'." — B075, p. 180
+
+## 2. Natureza e Atributos
+
+## 3. Hierarquia e Geopolítica
+
+### Seres Associados
+
 Espírito encarnado (o "Eu organizador" em ação); Jan Val Ellam (RC-071, criador do método).
 
-## Fontes
+## 4. Histórico e Eventos Cósmicos
+
+## 5. Lentes Curatoriais e Quarentenas
+
+### Observações
+
+Termo já constava na tabela-mestra desde o ciclo anterior (B075 nas fontes); **ficha criada no ciclo B075 (Devolutiva O-2, 2026-08-25)**. **Quarentena (O-7, aprovação do curador):** PKMzeta, hipnose e "Phowa" são **chaves de leitura filosófica do livro — jamais promover como terapia real**; NDEs, milagres e canalizações (Ramtha/Knight) ficam de fora da ontologia. O "Dia Meta 10" e o 6º grau de maestria são conceitos metodológicos (sem código próprio, O-3).
+
+## 6. Histórico Curatorial e Auditoria
+
+### Fontes
+
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
 | Mentalma II (B075) | Cap. 2 (autoconhecimento); 4 ("limpeza"); 10 ("Dia Meta 10"); 11 (pacificação); 12 (6º grau) | pp. 55–83, 99–114, 165–179, 180–184, 185–189 (PDF) | definição |
@@ -46,13 +74,4 @@ Espírito encarnado (o "Eu organizador" em ação); Jan Val Ellam (RC-071, criad
 | P2025-02-15 | Palestra | — | menção |
 | ART-2026-08-18 | O Quarto Cérebro de Pandora (artigo) | — | — |
 
-## Citações-chave
-> «Quando descobre que pode usar o “Eu terreno” — que a maioria dos» » … « «seres humanos pensa ser — como “instrumento quântico” para» » … « «“capturar, organizar, colecionar e deletar” arquivos mentais, ela se» » … « «torna mestre de si mesma.» — B075 p. 81 · `original.txt` L3336 · reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte.
-
-> «É necessário transcender tais memórias complicadas, de modo a acabar» » … « «com o “fardo espiritual”,» » […] « «a pessoa somente modifica essa memória se tiver vontade de» » … « «transcendê-la» » […] « «cérebro produzirá a PKMzeta, que proporcionará a» » … « «apropriação ou a “colagem do novo arquivo mental” — ou seja, morre uma» » … « «memória antiga e surge uma nova no hipocampo» — B075 p. 109 · `original.txt` L4511 · reconstrução aprovada pelo Curador na U93; 32 palavras da fonte omitidas — » […] « assinala o fosso, ao passo que » … « assinala apenas quebra de hard-wrap.
-
-> "A **Pacificação Pessoal**, o fim de todos os medos, eis o grande desafio da humanidade, que elegi como sendo o meu tema predileto. Rompi com todos os medos e receios por meio da prática do conjunto destas duas disciplinas: 1. 'Phowa', conhecida como 'a arte de morrer bem'...; 2. Libertação de posses e apegos diversos, de modo a me programar para uma possível 'morte diária'." — B075, p. 180
-
-## Observações
-Termo já constava na tabela-mestra desde o ciclo anterior (B075 nas fontes); **ficha criada no ciclo B075 (Devolutiva O-2, 2026-08-25)**. **Quarentena (O-7, aprovação do curador):** PKMzeta, hipnose e "Phowa" são **chaves de leitura filosófica do livro — jamais promover como terapia real**; NDEs, milagres e canalizações (Ramtha/Knight) ficam de fora da ontologia. O "Dia Meta 10" e o 6º grau de maestria são conceitos metodológicos (sem código próprio, O-3).
 - ✅ **Reanexação A5 (U92, 15/09/2026):** os 3 trechos entre aspas desta ficha foram reanexados às fontes e passam a trazer aparelho de linha (`— SIGLA · original.txt LNNNN`), conferido byte a byte pelo Portão B. **Quarentena epistemológica de 14/09/2026 (U86) levantada nesta ficha** — a nota original dizia que o trecho não resistia à verificação; agora resiste, porque deixou de ser uma transcrição solta e passou a ser extracto conferido. Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

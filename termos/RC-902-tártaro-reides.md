@@ -12,17 +12,28 @@ atualizado = "2026-09-13"
 +++
 # Tártaro Reides — RC-902
 
-## Definição Sintética
+## 1. Gênese e Definição
+
+### Definição Sintética
+
 Tártaro Reides — conceito desenvolvido na palestra «A Teia da Vida e o Circuito Oculto dos Deuses» (P2024-01-13).
 
-## Termos Relacionados
+### Termos Relacionados
+
 | Termo | Código | Relação | Direção | Notas |
 |---|---|---|---|---|
 | Jesus | RC-072 | associado | <-> | - |
 | Belial (arconte; 'Satã' do livro de Jó) | RC-479 | associado | <-> | - |
 
+## 2. Natureza e Atributos
 
-## Ampliação
-### P2024-01-13
+## 3. Hierarquia e Geopolítica
+
 **Fonte:** palestra «A Teia da Vida e o Circuito Oculto dos Deuses» (13/01/2024).
 **Trecho verbatim:** «o próprio tártaro, que é o domínio de Reides ou aquele irmão de Zeus que aparece nas mitologias»
+
+## 4. Histórico e Eventos Cósmicos
+
+## 5. Lentes Curatoriais e Quarentenas
+
+## 6. Histórico Curatorial e Auditoria

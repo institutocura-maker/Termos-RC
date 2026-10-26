@@ -12,11 +12,14 @@ atualizado = "2026-09-13"
 +++
 # Fios soltos (improviso humano × robô) — RC-564
 
-## Definição Sintética
+## 1. Gênese e Definição
+
+### Definição Sintética
 
 Metáfora (da série Westworld, baseada na teoria da mente bicameral de Julian Jaynes [REVISAR → CHANCELA 2026-09-06 · F041-L5: AGUARDA-ÁUDIO (dívida perdoada até nova evidência na base; STT preservado como falado) — ver nota]) para o que diferencia um ser humano de um robô: o robô tem 'fio fechado' (cumpre ordens), o ser humano tem 'fios soltos' — precisa improvisar a cada situação. A construção de um eu (memórias + algoritmos de improviso + memórias encobridoras) é comparada à montagem dos androides do parque.
 
-## Termos Relacionados
+### Termos Relacionados
+
 | Termo | Código | Relação | Direção | Notas |
 |---|---|---|---|---|
 | Seres Terrenos (Homo Sapiens) | RC-099 | relaciona-se-a | -> | - |
@@ -27,34 +30,35 @@ Metáfora (da série Westworld, baseada na teoria da mente bicameral de Julian J
 | Quarto Cérebro Humano | RC-614 | relaciona-se-a | -> | - |
 | Genoma da Liberdade | RC-619 | associado | <-> | - |
 
-## Fontes
+### Citações-chave
+
+> «eu chamo isso de os fios soltos que diferenciam o ser humano, um androide de um robô. Porque se tiver fio fechado, aí o robô é só cumprir aquilo ali. Fio solto é que você não sabe o que vai acontecer no próximo momento» — P2024-02-25 · `original.txt` L6 · reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte.
+> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+- «nós somos os fios soltos que precisaram ser livres ou libertos para tentar recapear, reconduzir esse fio solto, dando choque, que se chama javé, a uma condição de pretensa ou aparente normalidade.» — *ver:* **Ampliação — P2021-01-30 (A Mensagem TALM e os Fios Soltos…** U0015
+> Notas de processo: 2 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-564.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
+- ✅ **Reanexação A5 (U92, 15/09/2026):** o trecho entre aspas desta ficha foi reanexado às fontes e passa a trazer aparelho de linha (`— SIGLA · original.txt LNNNN`), conferido byte a byte pelo Portão B. **Quarentena epistemológica de 14/09/2026 (U86) levantada nesta ficha** — a nota original dizia que o trecho não resistia à verificação; agora resiste, porque deixou de ser uma transcrição solta e passou a ser extracto conferido. Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
+## 2. Natureza e Atributos
+
+- **[Fios soltos — a condição humana] (U0015)** «Cada um de nós hoje é uma espécie de um fio solto ainda por realizar a o alinhamento desse fio com algum propósito.» — fonte oral mais antiga do verbete (antes de P2021-12-04); a palestra é intitulada "os fios soltos do destino".
+
+## 3. Hierarquia e Geopolítica
+
+- **[Fios soltos — recapear o fio desencapado que é Javé] (U0015)** «nós somos os fios soltos que precisaram ser livres ou libertos para tentar recapear, reconduzir esse fio solto, dando choque, que se chama javé, a uma condição de pretensa ou aparente normalidade.» — Javé como o fio desencapado; ver RC-001. [Fonte: P2021-01-30]
+
+## 4. Histórico e Eventos Cósmicos
+
+## 5. Lentes Curatoriais e Quarentenas
+
+### Observações
+
+'Memórias encobridoras' permanece como subordinado (Colecionar Incertezas); referência a Jaynes é externa.
+
+## 6. Histórico Curatorial e Auditoria
+
+### Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
 | P2021-01-30 | A Mensagem TALM e os Fios Soltos do Destino (palestra) | — | transcrição automatizada; citação |
 | P2024-02-25 | As Faces de Javé — O Senhor Parameshthi (re-curadoria; dossiê aprovado 19/08/2026) | palestra/STT pré-curada |
-
-## Citações-chave
-
-> «eu chamo isso de os fios soltos que diferenciam o ser humano, um androide de um robô. Porque se tiver fio fechado, aí o robô é só cumprir aquilo ali. Fio solto é que você não sabe o que vai acontecer no próximo momento» — P2024-02-25 · `original.txt` L6 · reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte.
-
-
-> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
-
-- «nós somos os fios soltos que precisaram ser livres ou libertos para tentar recapear, reconduzir esse fio solto, dando choque, que se chama javé, a uma condição de pretensa ou aparente normalidade.» — *ver:* **Ampliação — P2021-01-30 (A Mensagem TALM e os Fios Soltos…** U0015
-
-
-> Notas de processo: 2 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-564.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
-- ✅ **Reanexação A5 (U92, 15/09/2026):** o trecho entre aspas desta ficha foi reanexado às fontes e passa a trazer aparelho de linha (`— SIGLA · original.txt LNNNN`), conferido byte a byte pelo Portão B. **Quarentena epistemológica de 14/09/2026 (U86) levantada nesta ficha** — a nota original dizia que o trecho não resistia à verificação; agora resiste, porque deixou de ser uma transcrição solta e passou a ser extracto conferido. Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
-
-## Ampliação
-### P2021-01-30 (A Mensagem TALM e os Fios Soltos do Destino)
-
-- **[Fios soltos — a condição humana] (U0015)** «Cada um de nós hoje é uma espécie de um fio solto ainda por realizar a o alinhamento desse fio com algum propósito.» — fonte oral mais antiga do verbete (antes de P2021-12-04); a palestra é intitulada "os fios soltos do destino".
-- **[Fios soltos — recapear o fio desencapado que é Javé] (U0015)** «nós somos os fios soltos que precisaram ser livres ou libertos para tentar recapear, reconduzir esse fio solto, dando choque, que se chama javé, a uma condição de pretensa ou aparente normalidade.» — Javé como o fio desencapado; ver RC-001.
-
-## Observações
-
-'Memórias encobridoras' permanece como subordinado (Colecionar Incertezas); referência a Jaynes é externa.
-
----

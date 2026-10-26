@@ -12,26 +12,14 @@ atualizado = "2026-08-15"
 +++
 # Mão Invisível Multiforme / Conselho das Nagas — RC-697
 
-## Definição Sintética
+## 1. Gênese e Definição
+
+### Definição Sintética
+
 Rede discreta e multiforme de interferências atribuída principalmente aos conselhos Naga, mas também relacionada ao Quarto Logos e ao Conselho dos Tirthankaras.
 
-## Contexto / Origem
-A expressão surge em pergunta da plateia e é confirmada pelo palestrante. A “mão” não corresponde a um único ser. É descrita como atuação pontual, indireta e adaptada a diferentes episódios.
+### Termos Relacionados
 
-A palestra relaciona sua ação a:
-
-- proteção ou financiamento de linhagens humanas;
-- intuição associada ao surgimento do Yoga;
-- episódios de Eva/Pandora;
-- proteção de Siddhartha Gautama por Muchalinda;
-- tentativas atuais de auxiliar a humanidade;
-- disputa por inteligências artificiais.
-
-### Conselho das Nagas
-O Conselho das Nagas foi absorvido nesta ficha como principal componente citado da Mão Invisível, evitando fragmentação prematura. Não é tratado como sinônimo absoluto: a Mão Invisível é explicitamente “multiforme”.
-
-
-## Termos Relacionados
 | Termo | Código | Relação | Direção | Notas |
 |---|---|---|---|---|
 | Quarto Logos (Olm / Codificador de Zian) | RC-092 | relaciona-se-a | -> | - |
@@ -53,32 +41,53 @@ O Conselho das Nagas foi absorvido nesta ficha como principal componente citado 
 | Kashyapa | RC-700 | relaciona-se-a | <- | - |
 | Aristocracia Olimpiana e Monarquias Terrestres | RC-736 | associado | <-> | - |
 
-## Fontes
+### Contexto / Origem
+
+A expressão surge em pergunta da plateia e é confirmada pelo palestrante. A “mão” não corresponde a um único ser. É descrita como atuação pontual, indireta e adaptada a diferentes episódios.
+A palestra relaciona sua ação a:
+- proteção ou financiamento de linhagens humanas;
+- intuição associada ao surgimento do Yoga;
+- episódios de Eva/Pandora;
+- proteção de Siddhartha Gautama por Muchalinda;
+- tentativas atuais de auxiliar a humanidade;
+- disputa por inteligências artificiais.
+
+### Conselho das Nagas
+O Conselho das Nagas foi absorvido nesta ficha como principal componente citado da Mão Invisível, evitando fragmentação prematura. Não é tratado como sinônimo absoluto: a Mão Invisível é explicitamente “multiforme”.
+
+### Citações-chave
+
+> “A mão invisível é multiforme.”
+> “O mais atuante são as interferências discretas, pontuais, que as Nagas fizeram.”
+
+## Citações Verbatim
+
+- **A Mão Invisível (P2025-02-16):** "esses seres sempre estiveram por trás de muitos dos acontecimentos em curso... o processo continua, a mão invisível. Eles sempre estiveram no processo por trás. Eu estou fazendo essa palestra a pedido deles, só para vocês terem noção da maluquice."
+
+- **Conselho das Nagas:** "há um conselho permanentemente atuante numa espécie de mundo mental paralelo aos humanos, não formado por espíritos bonitos e charmosos, são essas figuras... esses nagas e alguns padrões de reptilianos que estão por trás de algumas das principais famílias humanas". [Fonte: P2025-02-16]
+
+- **Herança transferida:** "a herança do reino dos seres nagas foi transferida para os bramanes, para os rishis, para os kshatriyas, depois os seres híbridos arianos, os dravidianos, enkianos, pandóricos. Tudo isso deu errado. Sobrou o Homo sapiens do contexto Adão e Eva, produzido pela serpente." [Fonte: P2025-02-16]
+
+- **"A humanidade em algum momento vai se encontrar cara a cara com esses seres. É inevitável."** [Fonte: P2025-02-16]
+
+- **[P2025-02-22 — eco] O CONSELHO DAS NAGAS]** "existe um conselho chamado MAHORAGA, que são os maiores entre Nagas e Uragas, que formam um conselho muito distinto que comanda basicamente [tudo]. Ninguém sabe a quantidade que existe desses seres, nagas e uragas"; "as nagas e uragas nos ajudam a mantermos vivos, mas também não nos salvam"; "esses seres... SÃO EXTREMAMENTE DISCRETOS PORQUE É DA NATUREZA DE SERES QUE SE ARRASTAM A DISCRIÇÃO, NÃO SEREM PERCEBIDOS"; "eles passaram a proteger, A FINANCIAR O AVANÇO DA EVOLUÇÃO HUMANA" [a mão invisível — RC-664].
+
+## 5. Lentes Curatoriais e Quarentenas
+
+### Observações
+
+- Não converter “mão invisível” em prova histórica ou científica.
+- O conteúdo é teologia comparada/cosmologia da palestra.
+- As falas da plateia são separadas na apostila.
+
+## 6. Histórico Curatorial e Auditoria
+
+### Fontes
+
 | Fonte | Localização | Tipo |
 |---|---|---|
 | P2025-02-16 | U0645–U0674; U0690–U0691; U0777–U0778; U1060–U1064 | palestra/perguntas STT |
 
-## Citações-chave
-> “A mão invisível é multiforme.”
+- 0 códigos novos (O-3). [Fonte: P2025-02-22]
 
-> “O mais atuante são as interferências discretas, pontuais, que as Nagas fizeram.”
-
-## Ampliação
-### P2025-02-16
-
-- **A Mão Invisível (P2025-02-16):** "esses seres sempre estiveram por trás de muitos dos acontecimentos em curso... o processo continua, a mão invisível. Eles sempre estiveram no processo por trás. Eu estou fazendo essa palestra a pedido deles, só para vocês terem noção da maluquice."
-- **Conselho das Nagas:** "há um conselho permanentemente atuante numa espécie de mundo mental paralelo aos humanos, não formado por espíritos bonitos e charmosos, são essas figuras... esses nagas e alguns padrões de reptilianos que estão por trás de algumas das principais famílias humanas".
-- **Herança transferida:** "a herança do reino dos seres nagas foi transferida para os bramanes, para os rishis, para os kshatriyas, depois os seres híbridos arianos, os dravidianos, enkianos, pandóricos. Tudo isso deu errado. Sobrou o Homo sapiens do contexto Adão e Eva, produzido pela serpente."
-- **"A humanidade em algum momento vai se encontrar cara a cara com esses seres. É inevitável."**
-
-
-### P2025-02-22 (A Vinda de Sophia e o Equilíbrio Universal)
-
-- **[P2025-02-22 — eco] O CONSELHO DAS NAGAS]** "existe um conselho chamado MAHORAGA, que são os maiores entre Nagas e Uragas, que formam um conselho muito distinto que comanda basicamente [tudo]. Ninguém sabe a quantidade que existe desses seres, nagas e uragas"; "as nagas e uragas nos ajudam a mantermos vivos, mas também não nos salvam"; "esses seres... SÃO EXTREMAMENTE DISCRETOS PORQUE É DA NATUREZA DE SERES QUE SE ARRASTAM A DISCRIÇÃO, NÃO SEREM PERCEBIDOS"; "eles passaram a proteger, A FINANCIAR O AVANÇO DA EVOLUÇÃO HUMANA" [a mão invisível — RC-664].
-- 0 códigos novos (O-3).
-
-## Observações
-- Não converter “mão invisível” em prova histórica ou científica.
-- O conteúdo é teologia comparada/cosmologia da palestra.
-- As falas da plateia são separadas na apostila.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** os 2 trechos entre aspas desta ficha **não** resistem à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Nenhum deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

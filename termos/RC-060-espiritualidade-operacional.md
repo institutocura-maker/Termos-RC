@@ -12,18 +12,14 @@ atualizado = "2026-09-07"
 +++
 # Espiritualidade Operacional — RC-060
 
-## Definição Sintética
+## 1. Gênese e Definição
+
+### Definição Sintética
+
 O primeiro desdobramento da Espiritualidade Superior (RC-059): o nível criado para que os seres puros pudessem experimentar a imperfeição por meio de uma «vestimenta espiritual» — o corpo búdico. É o degrau intermediário entre a perfeição obrigatória e a Espiritualidade Laboratorial (RC-061).
 
-## Etimologia e Grafias
-- Grafia preferida: Espiritualidade Operacional
-- Variações: Espiritualidade Operativa (grafia encontrada em fichas da Base)
-- Corpo associado: corpo búdico
+### Termos Relacionados
 
-## Contexto / Origem
-Na sequência descrita por Ellam, a experiência da incompletude exigiu sucessivas vestimentas: «surgiu o corpo búdico, permitindo a experiência na Espiritualidade Operacional. Posteriormente, foi concebido o corpo manásico, que possibilitou a existência no nível da Espiritualidade Laboratorial». A Departamentalização da Vida (RC-601) envolve os três níveis, e os Seres Originais (RC-600) são descritos como criadores das condições desse desdobramento.
-
-## Termos Relacionados
 | Termo | Código | Relação | Direção | Notas |
 |---|---|---|---|---|
 | Espiritualidade Superior | RC-059 | associado | <-> | - |
@@ -35,12 +31,37 @@ Na sequência descrita por Ellam, a experiência da incompletude exigiu sucessiv
 | Departamentalização da Vida | RC-601 | envolve | <- | - |
 | Protocolos / Algoritmos da Perfeição | RC-606 | precede | <- | - |
 | Corpo Búdico | RC-624 | associado | <-> | raiz semântica associado (decisão 3) |
-
 - RC-061 — ver ficha correspondente
 - RC-059 — ver ficha correspondente
 - RC-100 — ver ficha correspondente
 
-## Fontes
+### Etimologia e Grafias
+
+- Grafia preferida: Espiritualidade Operacional
+- Variações: Espiritualidade Operativa (grafia encontrada em fichas da Base)
+- Corpo associado: corpo búdico
+
+### Contexto / Origem
+
+Na sequência descrita por Ellam, a experiência da incompletude exigiu sucessivas vestimentas: «surgiu o corpo búdico, permitindo a experiência na Espiritualidade Operacional. Posteriormente, foi concebido o corpo manásico, que possibilitou a existência no nível da Espiritualidade Laboratorial». A Departamentalização da Vida (RC-601) envolve os três níveis, e os Seres Originais (RC-600) são descritos como criadores das condições desse desdobramento.
+
+## 2. Natureza e Atributos
+
+## 3. Hierarquia e Geopolítica
+
+## 4. Histórico e Eventos Cósmicos
+
+## 5. Lentes Curatoriais e Quarentenas
+
+### Observações
+
+Materialização de âncora estrutural: sem este verbete, a sequência «Superior → Operacional → Laboratorial» — repetida em praticamente toda a cosmografia — ficava sem o elo do meio.
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-060.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
+
+## 6. Histórico Curatorial e Auditoria
+
+### Fontes
+
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
 | B031 | — | registro-mestre (fonte censada) |
@@ -56,9 +77,3 @@ Na sequência descrita por Ellam, a experiência da incompletude exigiu sucessiv
 | P2023-06-17 | — | registro-mestre (fonte censada) |
 | P2023-12-03 | — | registro-mestre (fonte censada) |
 | P2020-04-04 | — | registro-mestre (fonte censada) |
-
-## Observações
-Materialização de âncora estrutural: sem este verbete, a sequência «Superior → Operacional → Laboratorial» — repetida em praticamente toda a cosmografia — ficava sem o elo do meio.
-
-
-> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-060.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

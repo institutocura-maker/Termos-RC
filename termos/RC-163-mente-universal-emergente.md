@@ -12,18 +12,14 @@ atualizado = "2026-10-22"
 +++
 # Mente Universal (Emergente) — RC-163
 
-## Definição Sintética
+## 1. Gênese e Definição
+
+### Definição Sintética
+
 A «Mente Universal» (também chamada Biocosmos): a mente coletiva que emerge da recomposição da criação — o resultado da integração das consciências particularizadas depois do Tikun (RC-514). Não é uma divindade nem uma soma de indivíduos: é a nova instância de consciência que a obra descreve como o destino do conjunto.
 
-## Etimologia e Grafias
-- Grafia preferida: Mente Universal (Emergente)
-- Variações: Mente Universal; Biocosmos; Mente-una
-- Par declarado pela fonte: RC-879 (variação)
+### Termos Relacionados
 
-## Contexto / Origem
-O conceito fecha o arco da apostila «A Queda»: a crise culmina na construção do Paraíso B (RC-612) — a nova espiritualidade que incorpora o aprendizado do caos — e na formação da Mente Universal Emergente (RC-163). As criaturas-ferramenta (RC-164) são, na leitura de Ellam, as produtoras das informações que permitem a «emergência de uma Mente-una».
-
-## Termos Relacionados
 | Termo | Código | Relação | Direção | Notas |
 |---|---|---|---|---|
 | Criatura Universal | RC-042 | associado | <-> | - |
@@ -37,7 +33,6 @@ O conceito fecha o arco da apostila «A Queda»: a crise culmina na construção
 | Ponto de Luz Humano / Ilha de Negentropia | RC-725 | protege | <- | consolidação: "alimentada-por" → "protege"; direção invertida (forma passiva/inversa) |
 | Estrangulamento Cognitivo / Neural | RC-753 | relaciona-se-a | <- | - |
 | Biocosmos emergente (a nova mente biológica global ancorada nos campos mórficos) | RC-879 | variação | -> | - |
-
 - RC-161 — ver ficha correspondente
 - RC-042 — ver ficha correspondente
 - RC-164 — ver ficha correspondente
@@ -46,16 +41,42 @@ O conceito fecha o arco da apostila «A Queda»: a crise culmina na construção
 - RC-725 — ver ficha correspondente
 - RC-879 — ver ficha correspondente
 
-## Ampliação — STT26-EXPERIENCIA_ESPIRITUAL_ETICA (Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados))
+### Etimologia e Grafias
+
+- Grafia preferida: Mente Universal (Emergente)
+- Variações: Mente Universal; Biocosmos; Mente-una
+- Par declarado pela fonte: RC-879 (variação)
+
+### Contexto / Origem
+
+O conceito fecha o arco da apostila «A Queda»: a crise culmina na construção do Paraíso B (RC-612) — a nova espiritualidade que incorpora o aprendizado do caos — e na formação da Mente Universal Emergente (RC-163). As criaturas-ferramenta (RC-164) são, na leitura de Ellam, as produtoras das informações que permitem a «emergência de uma Mente-una».
+
+### Citações-chave
+
+> "O elétron “marca” em si mesmo tudo o que ele “vivencia” e não é demais lembrar que esse “agente básico da vida universal” é o único que existe desde o primeiro momento da Criação, e existirá também como tal até não mais existirem elementos químicos, quando a energia Tamásica presidir a finalização das forças nucleares fraca e forte, que comandam a formação dos átomos. Nessa ocasião, a desorganização entrópica será total, resultando no fim do universo, e as informações dos elétrons estarão associadas à emergente “Mente Universal” que, a esse tempo, estará se libertando da “desgraça” promovida pelo seu “Eu caído”! No livro “ A Rebelião dos Elétrons e o Código da Vida do Criado r”, analiso essa e outras questões. O físico nuclear francês Jean-Émile Charon foi quem descortinou a característica enigmática dos elétrons, de “memorizar” as suas vivências. Ainda assim, o que os cientistas sabem sobre esse assunto parece não os estimular a um maior aprofundamento da questão – é como se soubessem do fato, mas sem conseguir entender o seu significado profundo." — B024
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
+## 2. Natureza e Atributos
+
+## 3. Hierarquia e Geopolítica
+
+## 4. Histórico e Eventos Cósmicos
+
+## 5. Lentes Curatoriais e Quarentenas
+
+### Observações
+
+Destino final do Volume V da Enciclopédia (V.22.4). Quarentena cosmológica: não há correspondência com qualquer conceito da física ou da neurociência acadêmicas.
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-163.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
+
+## 6. Histórico Curatorial e Auditoria
 
 - **[STT26-09 · Mente Universal (Emergente)]** «Os anti-elétrons vão terminar de existir daqui a uns 800 milhões de anos Quando o drama loca lá acabar Aí as consciências que trabalharam esses anti-elétrons Vão guardar nelas e vão pular para cá Aí se junta numa só fase Eu falo assim no caso da mente universal Quando aí os elétrons vão compor então essa mente universal Com a atuação dos seres que vão matar positivamente esses elétrons E os anti-elétrons que estão lá, eles vão.» (U3121 · chars 442390–442821) — Candidata de cotejo; evidência `STT26-09-RC-163-001`, grafia encontrada `mente universal`; decisão por lote `STT26-09: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
 
-## Ampliação — STT26-SOCIEDADE_CONTEMPORANEA (Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados))
-
 - **[STT26-24 · Mente Universal (Emergente)]** «Os códigos genômicos de espécies estruturados a partir da junção de elétrons, criam algoritmos e protocolos ancorados na memória dos mesmos. Então, uma mente universal que vai surgir agora a partir da experiência bio, ou seja, da biologia, e como na biologia a última espécie criada é a nossa, nós somos a espécie bebê, a mais moderna, os elétrons do universo não estão querendo saber o que os jacarés marcam, porque já é sobejamente conhecido para as memórias dos elétrons o que qualquer jacaré faz, o que qualquer urso, onça, cobra, inseto, mas os humanos são os únicos que surpreendem, ou deveriam surpreender, mas o humano fraco, não.» (U14024 · chars 2253099–2253738) — Candidata de cotejo; evidência `STT26-24-RC-163-001`, grafia encontrada `mente universal`; decisão por lote `STT26-24: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
 
+### Fontes
 
-## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
 | STT26-SOCIEDADE_CONTEMPORANEA | Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados) (palestra) | transcrição automatizada; citação |
@@ -70,13 +91,3 @@ O conceito fecha o arco da apostila «A Queda»: a crise culmina na construção
 | P2025-06-14b | — | registro-mestre (fonte censada) |
 | P2023-11-19 | — | registro-mestre (fonte censada) |
 | P2023-12-03 | — | registro-mestre (fonte censada) |
-
-## Citações-chave
-> "O elétron “marca” em si mesmo tudo o que ele “vivencia” e não é demais lembrar que esse “agente básico da vida universal” é o único que existe desde o primeiro momento da Criação, e existirá também como tal até não mais existirem elementos químicos, quando a energia Tamásica presidir a finalização das forças nucleares fraca e forte, que comandam a formação dos átomos. Nessa ocasião, a desorganização entrópica será total, resultando no fim do universo, e as informações dos elétrons estarão associadas à emergente “Mente Universal” que, a esse tempo, estará se libertando da “desgraça” promovida pelo seu “Eu caído”! No livro “ A Rebelião dos Elétrons e o Código da Vida do Criado r”, analiso essa e outras questões. O físico nuclear francês Jean-Émile Charon foi quem descortinou a característica enigmática dos elétrons, de “memorizar” as suas vivências. Ainda assim, o que os cientistas sabem sobre esse assunto parece não os estimular a um maior aprofundamento da questão – é como se soubessem do fato, mas sem conseguir entender o seu significado profundo." — B024
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
-
-## Observações
-Destino final do Volume V da Enciclopédia (V.22.4). Quarentena cosmológica: não há correspondência com qualquer conceito da física ou da neurociência acadêmicas.
-
-
-> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-163.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

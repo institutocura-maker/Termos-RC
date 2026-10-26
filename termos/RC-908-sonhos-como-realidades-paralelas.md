@@ -12,17 +12,28 @@ atualizado = "2026-09-13"
 +++
 # Sonhos como Realidades Paralelas — RC-908
 
-## Definição Sintética
+## 1. Gênese e Definição
+
+### Definição Sintética
+
 Sonhos como Realidades Paralelas — conceito desenvolvido na palestra «A Teia da Vida e o Circuito Oculto dos Deuses» (P2024-01-13).
 
-## Termos Relacionados
+### Termos Relacionados
+
 | Termo | Código | Relação | Direção | Notas |
 |---|---|---|---|---|
 | Conectoma humano (pulsações sinápticas e a sensação de eu) | RC-557 | associado | <-> | - |
 | Simultaneidade Reversa | RC-628 | associado | <-> | - |
 
+## 2. Natureza e Atributos
 
-## Ampliação
-### P2024-01-13
+## 3. Hierarquia e Geopolítica
+
 **Fonte:** palestra «A Teia da Vida e o Circuito Oculto dos Deuses» (13/01/2024).
 **Trecho verbatim:** «desdobramentos que o eu da gente espiritual ou encarnado faz em outros níveis de realidade independentes, mas simultâneas e paralelas»
+
+## 4. Histórico e Eventos Cósmicos
+
+## 5. Lentes Curatoriais e Quarentenas
+
+## 6. Histórico Curatorial e Auditoria

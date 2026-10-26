@@ -12,17 +12,28 @@ atualizado = "2026-09-13"
 +++
 # Programas Encarnatórios — RC-923
 
-## Definição Sintética
+## 1. Gênese e Definição
+
+### Definição Sintética
+
 Programas Encarnatórios — conceito desenvolvido na palestra «O Reciclador das Informações Universais a Limpeza da Criação» (P2023-11-18).
 
-## Termos Relacionados
+### Termos Relacionados
+
 | Termo | Código | Relação | Direção | Notas |
 |---|---|---|---|---|
 | Dignidade como Critério de Consciência | RC-722 | associado | <-> | - |
 | Domínios de Morfeu | RC-901 | associado | <-> | - |
 
-
-## Ampliação
-### P2023-11-18
 **Fonte:** palestra «O Reciclador das Informações Universais a Limpeza da Criação» (18/11/2023).
 **Trecho verbatim:** «Criando programa encarnatórios que dê oportunidade aos seres humanos de se melhorarem, de praticar yoga, de fazer alguma porcaria dessa, porque só vai se vivenciar a prática da disciplina mental.»
+
+## 2. Natureza e Atributos
+
+## 3. Hierarquia e Geopolítica
+
+## 4. Histórico e Eventos Cósmicos
+
+## 5. Lentes Curatoriais e Quarentenas
+
+## 6. Histórico Curatorial e Auditoria

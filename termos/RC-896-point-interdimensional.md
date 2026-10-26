@@ -12,32 +12,45 @@ atualizado = "2026-09-13"
 +++
 # Point Interdimensional — RC-896
 
-## Definição Sintética
+## 1. Gênese e Definição
+
+### Definição Sintética
+
 O Point Interdimensional é a caracterização da Terra como o centro de convergência, o ponto de encontro de todas as forças que disputam a Suzerania Universal. A Terra foi transformada nesse point interdimensional onde Jesus, Maomé, Cristo e outras figuras não foram para outros mundos — só nasceram aqui. O DNA humano é o mais novo DNA surgido no âmbito da obra de 13,8 bilhões de anos, e por ser o último a surgir, é o mais moderno — razão pela qual tudo está convergindo para a Terra.
 
-## Etimologia e Grafias
-- **Grafia preferida:** Point Interdimensional
-- **Variações:** point; centro de convergência; ponto de encontro
-- **Idioma de origem:** Inglês (point)
+### Termos Relacionados
 
-## Contexto / Origem
-Conceito desenvolvido na palestra «A Falsa Queda do Ser Humano e a Indignidade Entronizada como Religião» (P2024-02-04). Ellam explica que todas as faixas de realidade com todas as espécies e gêneros de seres não sabem contar essa história devido à demência — só os humanos têm racionalidade para organizar os fatos e compreender o contexto cósmico.
-
-## Termos Relacionados
 | Termo | Código | Relação | Direção | Notas |
 |---|---|---|---|---|
 | Javé | RC-001 | associado | <-> | a disputa da Suzerania Universal |
 | Isolamento Cósmico | RC-070 | associado | <-> | a Terra como centro de convergência |
 | Biblioteca Genômica Humana | RC-889 | associado | <-> | o DNA como laboratório cósmico |
 
-## Fontes
+### Etimologia e Grafias
+
+- **Grafia preferida:** Point Interdimensional
+- **Variações:** point; centro de convergência; ponto de encontro
+- **Idioma de origem:** Inglês (point)
+
+### Contexto / Origem
+
+Conceito desenvolvido na palestra «A Falsa Queda do Ser Humano e a Indignidade Entronizada como Religião» (P2024-02-04). Ellam explica que todas as faixas de realidade com todas as espécies e gêneros de seres não sabem contar essa história devido à demência — só os humanos têm racionalidade para organizar os fatos e compreender o contexto cósmico.
+
+## 2. Natureza e Atributos
+
+**Fonte:** palestra «A Falsa Queda do Ser Humano e a Indignidade Entronizada como Religião» (04/02/2024).
+**Trecho verbatim:** «Por quê? Porque todas as forças que convergem pra disputa da Suzirania Universal disputam agora o que se passa na Terra, já que a Terra terminou sendo Point, o centro de convergência, de encontro de toda essa porcalhada. Jesus, Maomé, Cristo, blá blá blá. Não foram para outros mundos, só nasceram aqui na Terra, porque a Terra foi transformada num espécie de point interdimensional e os DNA dos humanos é o mais novo DNA surgido no âmbito dessa obra de 13.8 bilhões. Sou o último a surgir, por isso é o mais moderno.»
+
+## 3. Hierarquia e Geopolítica
+
+## 4. Histórico e Eventos Cósmicos
+
+## 5. Lentes Curatoriais e Quarentenas
+
+## 6. Histórico Curatorial e Auditoria
+
+### Fontes
+
 | Fonte | Localização | Tipo |
 |---|---|---|
 | P2024-02-04 | A Falsa Queda do Ser Humano e a Indignidade Entronizada como Religião (palestra) | transcrição automatizada; citação |
-
-## Ampliação
-### P2024-02-04
-
-**Fonte:** palestra «A Falsa Queda do Ser Humano e a Indignidade Entronizada como Religião» (04/02/2024).
-
-**Trecho verbatim:** «Por quê? Porque todas as forças que convergem pra disputa da Suzirania Universal disputam agora o que se passa na Terra, já que a Terra terminou sendo Point, o centro de convergência, de encontro de toda essa porcalhada. Jesus, Maomé, Cristo, blá blá blá. Não foram para outros mundos, só nasceram aqui na Terra, porque a Terra foi transformada num espécie de point interdimensional e os DNA dos humanos é o mais novo DNA surgido no âmbito dessa obra de 13.8 bilhões. Sou o último a surgir, por isso é o mais moderno.»

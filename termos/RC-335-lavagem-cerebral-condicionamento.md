@@ -12,18 +12,14 @@ atualizado = "2026-10-23"
 +++
 # Lavagem Cerebral (condicionamento) — RC-335
 
-## Definição Sintética
+## 1. Gênese e Definição
+
+### Definição Sintética
+
 O **condicionamento imposto ao psiquismo humano** pelas crenças e revelações vindas do Criador — tema recorrente de *Favor Divino* (B048): "esta humanidade sempre foi mantida sob perene processo de lavagem cerebral, por meio de algumas visões religiosas... condicionados que fomos a sempre pedir e implorar por misericórdia e perdão divinos, quando os seres que estavam e ainda estão por trás do processo de 'concessão de graças e de bênçãos' nada têm de divinos no atual estágio em que suas personalidades se encontram" (cap. 10).
 
-## Etimologia e Grafias
-- **Grafia preferida:** Lavagem Cerebral
-- **Variações:** condicionamento; lavagem cerebral imposta; adestramento; "descondicione-se" (imperativo de Ellam)
+### Termos Relacionados
 
-
-## Contexto / Origem
-A lavagem cerebral é o mecanismo pelo qual a Teocracia da Doença (RC-334) se mantém: "a 'lavagem cerebral' que se abateu sobre o psiquismo humano... foi e ainda é parte de uma etapa necessária de um processo maior" (Introdução). O condicionamento opera "via codificação do DNA ou mesmo por meio do tipo de educação veiculada na Terra" (cap. 6). O B023 (DHARMA) e o B044 (COLMEIA) complementam: o condicionamento demo/humano é o "modelo colmeia" aplicado ao psiquismo.
-
-## Termos Relacionados
 | Termo | Código | Relação | Direção | Notas |
 |---|---|---|---|---|
 | Criador (Brahma/Javé/Demiurgo) | RC-041 | usa | -> | consolidação: "aplica-se-a" → "usa" |
@@ -52,36 +48,53 @@ A lavagem cerebral é o mecanismo pelo qual a Teocracia da Doença (RC-334) se m
 | Patriarcado desde Pandora (Origem no Feminino, Dominação pelo Masculino) | RC-818 | associado | <-> | - |
 | Vechame Existencial (Sangue de Barata = Amor sem Submissão) | RC-823 | associado | <-> | - |
 
-## Seres Associados
-Criador/Javé (RC-041/RC-001); Seres Terrenos (RC-099).
+### Etimologia e Grafias
 
-## Ampliação — OIDR26-04 (Onda incremental dry-run — Experiência espiritual e ética evolutiva (derivados normalizados))
+- **Grafia preferida:** Lavagem Cerebral
+- **Variações:** condicionamento; lavagem cerebral imposta; adestramento; "descondicione-se" (imperativo de Ellam)
+
+### Contexto / Origem
+
+A lavagem cerebral é o mecanismo pelo qual a Teocracia da Doença (RC-334) se mantém: "a 'lavagem cerebral' que se abateu sobre o psiquismo humano... foi e ainda é parte de uma etapa necessária de um processo maior" (Introdução). O condicionamento opera "via codificação do DNA ou mesmo por meio do tipo de educação veiculada na Terra" (cap. 6). O B023 (DHARMA) e o B044 (COLMEIA) complementam: o condicionamento demo/humano é o "modelo colmeia" aplicado ao psiquismo.
 
 - **[P4 · Lavagem Cerebral (condicionamento)]** «Um espírito, se ele já não vem com a identidade dele para tentar se defender dessa lavagem cerebral, Se o espírito é simples e ignorante, você marca nele a sua função existencial.» (U0108) — candidata de cotejo ampliado; evidência `OIDR26-04-RC-335-001`, grafia literal `lavagem cerebral`, sem homologação de pérola.
 
+### Citações-chave
 
-## Fontes
+> «Constatação: Esta humanidade sempre foi mantida sob perene processo de» » … « «lavagem cerebral, por meio de algumas visões religiosas» » […] « «não todas» » […] « «condicionados que fomos a sempre pedir e implorar por misericórdia e» » … « «perdão divinos, quando os seres que estavam e ainda estão por trás do» » … « «processo de “concessão de graças e de bênçãos” nada têm de divinos no» » … « «atual estágio em que suas personalidades se encontram.» — B048 p. 76 · `original.txt` L2877 · reconstrução aprovada pelo Curador na U93; 2 palavras da fonte omitidas — » […] « assinala o fosso, ao passo que » … « assinala apenas quebra de hard-wrap.
+
+## 2. Natureza e Atributos
+
+## 3. Hierarquia e Geopolítica
+
+### Seres Associados
+
+Criador/Javé (RC-041/RC-001); Seres Terrenos (RC-099).
+
+## 4. Histórico e Eventos Cósmicos
+
+## 5. Lentes Curatoriais e Quarentenas
+
+- **[B048 p. 6]** Introdução: a lavagem cerebral “foi e ainda é parte de uma etapa necessária de um processo maior”. Atlan, 20/06/2012.
+
+- **[B048 p. 14]** “existiram e existem muitas ‘lavagens cerebrais’” que motivam ofertas “em troca de ‘favores divinos’”; não é desse tipo de favor que o livro trata.
+
+- **[B048 p. 76]** Constatação: “Esta humanidade sempre foi mantida sob perene processo de lavagem cerebral, por meio de algumas visões religiosas — não todas.” Vaticano (p. 7) e fundamentalismo (p. 10) = **política, fora**.
+
+A Camuflagem da Realidade — RC-702 — é sustentada por condicionamentos religiosos, culturais, perceptivos e genéticos. A fala associa crenças repetidas a cadeados e travas, sem que isso constitua diagnóstico clínico.
+
+### Observações
+
+Ficha baseada em B048 (obra primária) + apoio de B023/B044. A lavagem cerebral é o mecanismo psíquico da dominação — o antídoto é o "descondicionamento" (lema de Ellam no B023). Cruzar com RC-253 e RC-325.
+
+## 6. Histórico Curatorial e Auditoria
+
+### Fontes
+
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
 | OIDR26-04 | Onda incremental dry-run — Experiência espiritual e ética evolutiva (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
 | Favor Divino (B048) | Introdução; caps. 6, 10 | pp. 6–8, 45–60, 85–100 (aprox.) | mecanismo central |
 | P2026-08-04 | Podcast Irmãos Dias #272 (aliens e a Bíblia) | — | — |
 
-## Citações-chave
-> «Constatação: Esta humanidade sempre foi mantida sob perene processo de» » … « «lavagem cerebral, por meio de algumas visões religiosas» » […] « «não todas» » […] « «condicionados que fomos a sempre pedir e implorar por misericórdia e» » … « «perdão divinos, quando os seres que estavam e ainda estão por trás do» » … « «processo de “concessão de graças e de bênçãos” nada têm de divinos no» » … « «atual estágio em que suas personalidades se encontram.» — B048 p. 76 · `original.txt` L2877 · reconstrução aprovada pelo Curador na U93; 2 palavras da fonte omitidas — » […] « assinala o fosso, ao passo que » … « assinala apenas quebra de hard-wrap.
-
-## Ampliação
-### B048 (Favor Divino)
-
-- **[B048 p. 6]** Introdução: a lavagem cerebral “foi e ainda é parte de uma etapa necessária de um processo maior”. Atlan, 20/06/2012.
-- **[B048 p. 14]** “existiram e existem muitas ‘lavagens cerebrais’” que motivam ofertas “em troca de ‘favores divinos’”; não é desse tipo de favor que o livro trata.
-- **[B048 p. 76]** Constatação: “Esta humanidade sempre foi mantida sob perene processo de lavagem cerebral, por meio de algumas visões religiosas — não todas.” Vaticano (p. 7) e fundamentalismo (p. 10) = **política, fora**.
-
-## Reforço
-### P2025-02-15
-
-A Camuflagem da Realidade — RC-702 — é sustentada por condicionamentos religiosos, culturais, perceptivos e genéticos. A fala associa crenças repetidas a cadeados e travas, sem que isso constitua diagnóstico clínico.
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
-
-## Observações
-Ficha baseada em B048 (obra primária) + apoio de B023/B044. A lavagem cerebral é o mecanismo psíquico da dominação — o antídoto é o "descondicionamento" (lema de Ellam no B023). Cruzar com RC-253 e RC-325.
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`. [Fonte: P2025-02-15]

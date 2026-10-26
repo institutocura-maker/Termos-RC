@@ -12,23 +12,14 @@ atualizado = "2026-08-31"
 +++
 # Biodemol — RC-186
 
-## Definição Sintética
+## 1. Gênese e Definição
+
+### Definição Sintética
 
 **Biodemol** é o ser híbrido da natureza atual que a palestra descreve como *parte biológico, parte demo, mas sexualizado* — a variante **sexualizada** do biodemo (RC-036).
 
-## Contexto / Origem
+### Termos Relacionados
 
-**Materialização (não é criação).** `RC-186` vivia só no cadastro: linha em `ferramentas/dados_termos.py`, `ficha=False`, sem arquivo em `termos/`. A virada foi autorizada pelo despacho do Curador de 29/08/2026, na linha que trata das ordens nomeadas sem arquivo, e executada pelo Motor Único em `ciclos/P2022-05-07/`.
-
-Com isso:
-
-* a Base ganha um **arquivo**; 0 termos novos e **0 relações novas** por este ciclo;
-- o cadastro lista 3 código(s) em `relacionados`: 1 com aresta correspondente em `RELACOES` e 0 sem arquivo de ficha. A ficha **declara** a lacuna em vez de preenchê-la — abrir aresta é decisão curatorial;
-- as fontes já registradas no cadastro são `B044`, `B017`, `B018`, `B023`, `P2024-11-30`, `P2024-04-13`, `P2021-05-15`, `P2023-12-03`, `P2022-05-07`.
-
-**Origem do conteúdo da ampliação:** palestra `P2022-05-07 — Shiva, o Projeto Talm e os Mistérios de Awaylengam` (07/05/2022). Transcrição automatizada, **não conferida com o áudio**; cada aspa foi recortada do `original.txt` pelo índice de âncoras do motor e conferida byte a byte pelo portão B. Nada foi digitado de memória.
-
-## Termos Relacionados
 | Termo | Código | Relação | Direção | Notas |
 |---|---|---|---|---|
 | Biodemos | RC-036 | é-um | -> | - |
@@ -38,8 +29,35 @@ Com isso:
 | Entroncamentos Genéticos Intersiderais | RC-323 | associado | <-> | - |
 | Grupos de Entroncamento (1-4) | RC-324 | associado | <-> | - |
 
+### Contexto / Origem
 
-## Fontes
+**Materialização (não é criação).** `RC-186` vivia só no cadastro: linha em `ferramentas/dados_termos.py`, `ficha=False`, sem arquivo em `termos/`. A virada foi autorizada pelo despacho do Curador de 29/08/2026, na linha que trata das ordens nomeadas sem arquivo, e executada pelo Motor Único em `ciclos/P2022-05-07/`.
+Com isso:
+* a Base ganha um **arquivo**; 0 termos novos e **0 relações novas** por este ciclo;
+- o cadastro lista 3 código(s) em `relacionados`: 1 com aresta correspondente em `RELACOES` e 0 sem arquivo de ficha. A ficha **declara** a lacuna em vez de preenchê-la — abrir aresta é decisão curatorial;
+- as fontes já registradas no cadastro são `B044`, `B017`, `B018`, `B023`, `P2024-11-30`, `P2024-04-13`, `P2021-05-15`, `P2023-12-03`, `P2022-05-07`.
+**Origem do conteúdo da ampliação:** palestra `P2022-05-07 — Shiva, o Projeto Talm e os Mistérios de Awaylengam` (07/05/2022). Transcrição automatizada, **não conferida com o áudio**; cada aspa foi recortada do `original.txt` pelo índice de âncoras do motor e conferida byte a byte pelo portão B. Nada foi digitado de memória.
+
+## 2. Natureza e Atributos
+
+- **[Biodemol — parte biológico, parte demo] (U0003)** «Hoje nós temos aqui na nossa natureza seres eh biodemol, ou seja, parte biológicos, parte demo, mas sexualizados.» — o biodemol como o tipo de ser da natureza atual; sexualização como a ruptura criativa de Shiva. [Fonte: P2022-05-07]
+
+## 3. Hierarquia e Geopolítica
+
+## 4. Histórico e Eventos Cósmicos
+
+## 5. Lentes Curatoriais e Quarentenas
+
+### Observações
+
+### Observações sobre o Estado da Malha
+* **Biodemol × biodemo:** a fonte distingue o biodemol (sexualizado) do biodemo (RC-036). A sexualização como ruptura criativa de Shiva é leitura do autor — ver trava.
+* **Trava aplicável**: Moldura Rígida (gênero/sexualidade): a sexualização como ruptura criativa de Shiva é leitura do autor.
+
+## 6. Histórico Curatorial e Auditoria
+
+### Fontes
+
 | Obra (sigla) | Título | Página | Tipo |
 |---|---|---|---|
 | P2022-05-07 | Shiva, o Projeto Talm e os Mistérios de Awaylengam (palestra) | — | transcrição automatizada; citação |
@@ -47,14 +65,3 @@ Com isso:
 | B017 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
 | B018 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
 | B023 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
-
-## Ampliação
-### P2022-05-07 (Shiva, o Projeto Talm e os Mistérios de Awaylengam)
-
-- **[Biodemol — parte biológico, parte demo] (U0003)** «Hoje nós temos aqui na nossa natureza seres eh biodemol, ou seja, parte biológicos, parte demo, mas sexualizados.» — o biodemol como o tipo de ser da natureza atual; sexualização como a ruptura criativa de Shiva.
-
-## Observações
-### Observações sobre o Estado da Malha
-
-* **Biodemol × biodemo:** a fonte distingue o biodemol (sexualizado) do biodemo (RC-036). A sexualização como ruptura criativa de Shiva é leitura do autor — ver trava.
-* **Trava aplicável**: Moldura Rígida (gênero/sexualidade): a sexualização como ruptura criativa de Shiva é leitura do autor.

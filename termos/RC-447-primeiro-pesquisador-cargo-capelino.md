@@ -12,28 +12,64 @@ atualizado = "2026-08-25"
 +++
 # Primeiro Pesquisador (cargo capelino) — RC-447
 
-## Definição Sintética
+## 1. Gênese e Definição
+
+### Definição Sintética
+
 **Primeiro Pesquisador** é o cargo capelino exercido por **Yel Luzbel** (RC-078) na Família Yel (RC-442): a incumbência de "**verificar os graus de atuação e de evolução dos seres que faziam parte deste universo**" — mapear como as criaturas percebiam a vida e as Hierarquias que administravam o universo, e o próprio Criador. Da pesquisa desse cargo nasceram as três constatações que deflagraram o processo da Revolta (RC-002). Em B058, Yel Luzbel demite-se do cargo (e do Processador Yel).
 
-## Etimologia e Grafias
-- **Grafia preferida:** Primeiro Pesquisador (cargo capelino)
-- **Variações:** "um dos primeiros pesquisadores da família Yel" (B057, p. 15); "primeiro pesquisador da família Yel" (B057, p. 26); "Primeiro Pesquisador" (B058, registro da BIBLIO)
-- **Obs.:** não confundir com o "primeiro escalão" de Orbum (nota p. 25 do B057) — este é o estrato administrativo, não um cargo de pesquisa
+### Termos Relacionados
 
-
-## Contexto / Origem
-No B057: "Eu, Yel Luzbel, **um dos primeiros pesquisadores da família Yel**, fui encarregado de verificar os graus de atuação e de evolução dos seres que faziam parte deste universo" (p. 15); "Eu, Yel Luzbel, **primeiro pesquisador da família Yel**, continuava a trilhar a trajetória que os seres tinham que seguir ou mesmo ultrapassar para poderem conhecer o Criador e a sua Obra" (p. 26). O pesquisador pesquisava "o que a minha família mandava" (p. 18); a alta cúpula jamais se reunia "para receber um 'simples pesquisador', que era o meu caso" (p. 34). No âmbito administrativo de Capela, distinga-se o "primeiro escalão" de Orbum (nota p. 25) — os seres mais evoluídos que formam a assessoria direta dos Administradores.
-
-## Termos Relacionados
 | Termo | Código | Relação | Direção | Notas |
 |---|---|---|---|---|
 | Yel Luzbel | RC-142 | associado | <-> | - |
 | Família Yel | RC-442 | associado | <-> | qualificador preservado: cargo da família; raiz semântica associado (decisão 3) |
 
-## Seres Associados
+### Etimologia e Grafias
+
+- **Grafia preferida:** Primeiro Pesquisador (cargo capelino)
+- **Variações:** "um dos primeiros pesquisadores da família Yel" (B057, p. 15); "primeiro pesquisador da família Yel" (B057, p. 26); "Primeiro Pesquisador" (B058, registro da BIBLIO)
+- **Obs.:** não confundir com o "primeiro escalão" de Orbum (nota p. 25 do B057) — este é o estrato administrativo, não um cargo de pesquisa
+
+### Contexto / Origem
+
+No B057: "Eu, Yel Luzbel, **um dos primeiros pesquisadores da família Yel**, fui encarregado de verificar os graus de atuação e de evolução dos seres que faziam parte deste universo" (p. 15); "Eu, Yel Luzbel, **primeiro pesquisador da família Yel**, continuava a trilhar a trajetória que os seres tinham que seguir ou mesmo ultrapassar para poderem conhecer o Criador e a sua Obra" (p. 26). O pesquisador pesquisava "o que a minha família mandava" (p. 18); a alta cúpula jamais se reunia "para receber um 'simples pesquisador', que era o meu caso" (p. 34). No âmbito administrativo de Capela, distinga-se o "primeiro escalão" de Orbum (nota p. 25) — os seres mais evoluídos que formam a assessoria direta dos Administradores.
+
+### Citações-chave
+
+> «Eu, Yel Luzbel, um dos primeiros pesquisadores da família Yel, fui encarregado de» » … « «verificar os graus de  atuação e de evolução dos seres que faziam parte deste universo.» — B057 p. 15 · `original.txt` L587 · reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte.
+> «Eu, Yel Luzbel, primeiro» » … « «pesquisador da família Yel, continuava a trilhar a trajetória que os seres tinham que» » … « «seguir ou mesmo ultrapassar para poderem conhecer o Criador e a sua Obra. Quais os» » … « «obstáculos que cada um tinha que passar para ter um vislumbre do que era existir?» — B057 p. 26 · `original.txt` L1010 · reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte.
+
+- **[B058 p. 42]** "Comecei a palestra a falar sobre as **minhas obrigações enquanto 'Primeiro Pesquisador' da 'família Yel'**." (em Antares.)
+
+## 2. Natureza e Atributos
+
+## 3. Hierarquia e Geopolítica
+
+### Seres Associados
+
 Yel Luzbel (RC-078/RC-142, o titular); os sábios da Família Yel (que lhe incumbiam as pesquisas); Len Mion (RC-074, "companheiro de estudo e pesquisa").
 
-## Fontes
+- **[B058 p. 67]** a censura: "reconheça que não está a portar-se de acordo com o cargo de **'Primeiro Pesquisador da Família Yel'**, que você ocupa!"
+
+- **[B058 p. 68 · A DEMISSÃO]** "Quero, neste momento, **renunciar à função que exerci desde que fui urdido para esta realidade!**" — o "Primeiro em Comando" dos Yel: "Não existe nenhum registo deste tipo de solicitação... Isso é inconcebível!... **como pode pensar que conseguirá viver sem que esteja ligado a uma 'família', hierarquia e função** que lhe define o motivo da sua existência?"
+
+- **[B058 p. 70]** o relato público: "Contei... **da minha demissão do cargo de 'Primeiro Pesquisador' e, consequentemente, do 'Processador Yel'**. Nada lhes ocultei!"; o surgimento do "**Segundo Pesquisador**" dos Yel na hierarquia.
+
+## 4. Histórico e Eventos Cósmicos
+
+- **[B058 p. 47]** o endereço cerimonioso do Grão-mestre: "Integrante Yel Luzbel, **'Primeiro Pesquisador' pertencente à 'família Yel'**, do planeta Dan, do sistema de Capela."
+
+## 5. Lentes Curatoriais e Quarentenas
+
+### Observações
+
+**Ficha criada no ciclo B057 (Devolutiva O-2, 2026-08-25)** — termo já constava da tabela-mestra (B057/B058 nas fontes) sem ficha física. A forma **"Primeiro Pesquisador"** como título do cargo está consolidada em B058 e na ficha de RC-442; B057 usa "um dos primeiros pesquisadores"/"primeiro pesquisador" (sem caixa alta). **Quarentena ufológica (O-7):** cargo de universo extraterrestre — cruzar, não materializar. 0 códigos novos (O-3).
+
+## 6. Histórico Curatorial e Auditoria
+
+### Fontes
+
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
 | A Revolta do Anjo Decaído (B057) | Cap. 1 | p. 15 (PDF): a incumbência | narrativa psicografada (Yel Luzbel) |
@@ -41,21 +77,6 @@ Yel Luzbel (RC-078/RC-142, o titular); os sábios da Família Yel (que lhe incum
 | A Revolta do Anjo Decaído (B057) | Cap. 5 | p. 34 (PDF): "um 'simples pesquisador'" | narrativa psicografada |
 | O Início da Revolta Capelina (B058) | — | — | Yel Luzbel demite-se do cargo e do Processador Yel |
 
-## Citações-chave
-> «Eu, Yel Luzbel, um dos primeiros pesquisadores da família Yel, fui encarregado de» » … « «verificar os graus de  atuação e de evolução dos seres que faziam parte deste universo.» — B057 p. 15 · `original.txt` L587 · reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte.
+- 0 códigos novos (O-3). [Fonte: B058]
 
-> «Eu, Yel Luzbel, primeiro» » … « «pesquisador da família Yel, continuava a trilhar a trajetória que os seres tinham que» » … « «seguir ou mesmo ultrapassar para poderem conhecer o Criador e a sua Obra. Quais os» » … « «obstáculos que cada um tinha que passar para ter um vislumbre do que era existir?» — B057 p. 26 · `original.txt` L1010 · reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte.
-
-## Ampliação
-### B058 (A Revolta do Anjo Decaído)
-
-- **[B058 p. 42]** "Comecei a palestra a falar sobre as **minhas obrigações enquanto 'Primeiro Pesquisador' da 'família Yel'**." (em Antares.)
-- **[B058 p. 47]** o endereço cerimonioso do Grão-mestre: "Integrante Yel Luzbel, **'Primeiro Pesquisador' pertencente à 'família Yel'**, do planeta Dan, do sistema de Capela."
-- **[B058 p. 67]** a censura: "reconheça que não está a portar-se de acordo com o cargo de **'Primeiro Pesquisador da Família Yel'**, que você ocupa!"
-- **[B058 p. 68 · A DEMISSÃO]** "Quero, neste momento, **renunciar à função que exerci desde que fui urdido para esta realidade!**" — o "Primeiro em Comando" dos Yel: "Não existe nenhum registo deste tipo de solicitação... Isso é inconcebível!... **como pode pensar que conseguirá viver sem que esteja ligado a uma 'família', hierarquia e função** que lhe define o motivo da sua existência?"
-- **[B058 p. 70]** o relato público: "Contei... **da minha demissão do cargo de 'Primeiro Pesquisador' e, consequentemente, do 'Processador Yel'**. Nada lhes ocultei!"; o surgimento do "**Segundo Pesquisador**" dos Yel na hierarquia.
-- 0 códigos novos (O-3).
-
-## Observações
-**Ficha criada no ciclo B057 (Devolutiva O-2, 2026-08-25)** — termo já constava da tabela-mestra (B057/B058 nas fontes) sem ficha física. A forma **"Primeiro Pesquisador"** como título do cargo está consolidada em B058 e na ficha de RC-442; B057 usa "um dos primeiros pesquisadores"/"primeiro pesquisador" (sem caixa alta). **Quarentena ufológica (O-7):** cargo de universo extraterrestre — cruzar, não materializar. 0 códigos novos (O-3).
 - ✅ **Reanexação A5 (U92, 15/09/2026):** os 2 trechos entre aspas desta ficha foram reanexados às fontes e passam a trazer aparelho de linha (`— SIGLA · original.txt LNNNN`), conferido byte a byte pelo Portão B. **Quarentena epistemológica de 14/09/2026 (U86) levantada nesta ficha** — a nota original dizia que o trecho não resistia à verificação; agora resiste, porque deixou de ser uma transcrição solta e passou a ser extracto conferido. Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

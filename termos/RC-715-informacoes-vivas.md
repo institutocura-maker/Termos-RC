@@ -12,24 +12,14 @@ atualizado = "2026-10-22"
 +++
 # Informações Vivas — RC-715
 
-## Definição Sintética
+## 1. Gênese e Definição
+
+### Definição Sintética
+
 Unidades informacionais vivas que comporiam elétrons, antielétrons, elementos químicos, moléculas, células, genomas, corpos e psiquismos, determinando necessidades e destinos conforme seu estado.
 
-## Contexto / Origem
-A palestra trata elétrons/antielétrons como remanescentes informacionais da mente do Criador. Ao se organizarem, formam níveis crescentes de matéria e vida. Informações doentes ou “podres” exigiriam experiências de ressignificação.
+### Termos Relacionados
 
-### Escalas descritas
-
-1. elétron/antielétron;
-2. elemento químico;
-3. molécula;
-4. microrganismo/célula;
-5. genoma;
-6. corpo e psiquismo;
-7. arquivos e destinos.
-
-
-## Termos Relacionados
 | Termo | Código | Relação | Direção | Notas |
 |---|---|---|---|---|
 | Memória Quântica dos Elétrons | RC-161 | inclui | -> | consolidação: "compõe" → "inclui" |
@@ -51,26 +41,44 @@ A palestra trata elétrons/antielétrons como remanescentes informacionais da me
 | Buraco Negro Mental / Consciencial | RC-717 | envolve | <- | - |
 | Sócios do Destino / Ausência de Justiça Externa | RC-720 | usa | <- | consolidação: "processa" → "usa" |
 
-## Ampliação — STT26-MITOLOGIAS_REINTEGRACAO (Eixo STT26 — Mitologias, tradições e eixo de reintegração (derivados normalizados))
+### Contexto / Origem
+
+A palestra trata elétrons/antielétrons como remanescentes informacionais da mente do Criador. Ao se organizarem, formam níveis crescentes de matéria e vida. Informações doentes ou “podres” exigiriam experiências de ressignificação.
+
+### Escalas descritas
+1. elétron/antielétron;
+2. elemento químico;
+3. molécula;
+4. microrganismo/célula;
+5. genoma;
+6. corpo e psiquismo;
+7. arquivos e destinos.
+
+### Citações-chave
+
+> “Tudo isso é informação viva.”
+
+## Citações Verbatim
+
+- **Informações Vivas (P2024-11-30):** "quando a vida surgiu nesse universo vizinho, misteriosamente ancorada numa só pulsação, num só [fluxo]... as informações vivas que estão vagando por aí, não alojadas no corpo"; antes do algoritmo de Moros "as informações sujas caíam em cima de todo mundo"; depois "se aquela informação suja havia sido produzida por fulaninho, voltava para fulaninho".
+
+- **Ananké:** "surgiu um ser chamado Ananké [STT 'Ank/Nanc'], que passou a trabalhar com Moros e estudou cada uma das codificações das consciências particularizadas... criou a relação de que tipo de necessidade aquele código, por portar aquele tipo de podridão, um dia iria sentir" (ver RC-716 PIA). [Fonte: P2024-11-30]
+
+## 5. Lentes Curatoriais e Quarentenas
+
+### Observações
+
+“Informação viva” é conceito cosmológico da palestra. Elétrons não são organismos vivos no sentido biológico aceito.
+
+## 6. Histórico Curatorial e Auditoria
 
 - **[STT26-17 · Informações Vivas]** «O eu doente que existe em cada um de nós Só reflete o eu doente do criador caído porque as informações vivas, genéticas do eu caído criador é que estão no nosso corpo fazendo com que o eu da gente seja doente.» (U11531 · chars 1825521–1825730) — Candidata de cotejo; evidência `STT26-17-RC-715-001`, grafia encontrada `informações vivas`; decisão por lote `STT26-17: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
 
+### Fontes
 
-## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
 | STT26-MITOLOGIAS_REINTEGRACAO | Eixo STT26 — Mitologias, tradições e eixo de reintegração (derivados normalizados) (palestra) | transcrição automatizada; citação |
 | P2024-11-30 | U0283–U0319; U0390–U0469; U0492–U0573; U0640–U0690; U1360–U1500; U1850–U1982 | palestra/STT |
 
-## Citações-chave
-> “Tudo isso é informação viva.”
-
-## Ampliação
-### P2024-11-30
-
-- **Informações Vivas (P2024-11-30):** "quando a vida surgiu nesse universo vizinho, misteriosamente ancorada numa só pulsação, num só [fluxo]... as informações vivas que estão vagando por aí, não alojadas no corpo"; antes do algoritmo de Moros "as informações sujas caíam em cima de todo mundo"; depois "se aquela informação suja havia sido produzida por fulaninho, voltava para fulaninho".
-- **Ananké:** "surgiu um ser chamado Ananké [STT 'Ank/Nanc'], que passou a trabalhar com Moros e estudou cada uma das codificações das consciências particularizadas... criou a relação de que tipo de necessidade aquele código, por portar aquele tipo de podridão, um dia iria sentir" (ver RC-716 PIA).
-
-## Observações
-“Informação viva” é conceito cosmológico da palestra. Elétrons não são organismos vivos no sentido biológico aceito.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

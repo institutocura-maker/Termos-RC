@@ -12,17 +12,14 @@ atualizado = "2026-09-13"
 +++
 # Últimas Ordens de Javé aos Clones — RC-652
 
-## Definição Sintética
+## 1. Gênese e Definição
+
+### Definição Sintética
+
 Instruções finais atribuídas a Javé para que clones observem estudantes da RC e busquem novos padrões de interpretação.
 
-## Etimologia e Grafias
-- Forma preferida: **Últimas Ordens de Javé aos Clones**.
+### Termos Relacionados
 
-
-## Contexto / Origem
-Extraído da live P2025-10-25 — 2ª Edição Estagiários do Kaos.
-
-## Termos Relacionados
 | Termo | Código | Relação | Direção | Notas |
 |---|---|---|---|---|
 | Javé | RC-001 | comunica | <- | consolidação: "proferida-por" → "comunica"; direção invertida (forma passiva/inversa) |
@@ -30,27 +27,43 @@ Extraído da live P2025-10-25 — 2ª Edição Estagiários do Kaos.
 | Revelação Cósmica (conceito) | RC-094 | - | - | sem relação informada; 17 linhas são registros de fonte com 4 colunas |
 | Zont En Drel 29 | RC-147 | envolve | -> | - |
 
-## Seres Associados
+### Etimologia e Grafias
+
+- Forma preferida: **Últimas Ordens de Javé aos Clones**.
+
+### Contexto / Origem
+
+Extraído da live P2025-10-25 — 2ª Edição Estagiários do Kaos.
+
+### Citações-chave
+
+> Ver P2025-10-25.
+
+## Citações Verbatim
+
+- **[P2025-10-25 — FONTE ORIGINAL] As últimas ordens de Javé aos clones (Pergunta 3 — Ana):** "as últimas ordens de Javé para eles [os clones]... isso é uma coisa que o meu código de ética não permite que eu vá além"; "nessas ordens tinha instruções que têm tudo a ver com a pergunta de Ana: Javé não disse 'olha, procurem vocês entre os judeus, como ele fazia antes, entre os arianos'; agora foi: 'vejam nos alunos, nas pessoas que estão estudando esses assuntos, o que é que vocês podem'"; "nós da Revelação Cósmica somos a base mais atual do que um dia foram os escolhidos de Javé, para isso ou para aquilo"; "nesse sentido, a resposta é afirmativa à pergunta de Ana".
+
+- **[Últimas Ordens de Javé aos Clones — a ressignificação] (U0006)** «Então os anjos clones o criador continuam cumprindo as últimas ordens recebidas de Brama e o novo projeto que o novo projeto é isso aqui que a gente precisa criar, já que o projeto Talm parou, precisa ser ressignificado lá na frente.» — os clones cumprem as últimas ordens de Brahma; o novo projeto precisa harmonizar-se com elas. [Fonte: P2024-06-16]
+
+## 3. Hierarquia e Geopolítica
+
+### Seres Associados
+
 Consultar relações na Base.
 
-## Fontes
+## 5. Lentes Curatoriais e Quarentenas
+
+### Observações
+
+Termo candidato, sujeito a cruzamento com obras e palestras adicionais.
+
+## 6. Histórico Curatorial e Auditoria
+
+### Fontes
+
 | Fonte | Localização | Tipo |
 |---|---|---|
 | P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
 | P2025-10-25 | ver dossiê e transcrição | live/STT |
 
-## Citações-chave
-> Ver P2025-10-25.
-
-## Ampliação
-### P2025-10-25
-
-- **[P2025-10-25 — FONTE ORIGINAL] As últimas ordens de Javé aos clones (Pergunta 3 — Ana):** "as últimas ordens de Javé para eles [os clones]... isso é uma coisa que o meu código de ética não permite que eu vá além"; "nessas ordens tinha instruções que têm tudo a ver com a pergunta de Ana: Javé não disse 'olha, procurem vocês entre os judeus, como ele fazia antes, entre os arianos'; agora foi: 'vejam nos alunos, nas pessoas que estão estudando esses assuntos, o que é que vocês podem'"; "nós da Revelação Cósmica somos a base mais atual do que um dia foram os escolhidos de Javé, para isso ou para aquilo"; "nesse sentido, a resposta é afirmativa à pergunta de Ana".
-
-### P2024-06-16 (O Projeto TALM, os Fenvans e os Humanos)
-
-- **[Últimas Ordens de Javé aos Clones — a ressignificação] (U0006)** «Então os anjos clones o criador continuam cumprindo as últimas ordens recebidas de Brama e o novo projeto que o novo projeto é isso aqui que a gente precisa criar, já que o projeto Talm parou, precisa ser ressignificado lá na frente.» — os clones cumprem as últimas ordens de Brahma; o novo projeto precisa harmonizar-se com elas.
-
-## Observações
-Termo candidato, sujeito a cruzamento com obras e palestras adicionais.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o bloco citado desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

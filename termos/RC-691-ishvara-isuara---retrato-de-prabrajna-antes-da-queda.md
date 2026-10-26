@@ -12,35 +12,14 @@ atualizado = "2026-08-15"
 +++
 # Ishvara (Isuara — Retrato de Prabrajna Antes da Queda) — RC-691
 
-## Definição Sintética
+## 1. Gênese e Definição
+
+### Definição Sintética
+
 Último retrato ou estado mental de Prabrajna antes da queda: modelo-limite preservado na memória dos elétrons e usado como referência para a reconstrução futura do Criador.
 
-## Etimologia e Grafias
-### Validação da Grafia Canônica
-A forma canônica adotada é **Ishvara**, transliteração corrente do sânscrito `Īśvara`. **Isuara** é preservada como variação oral/portuguesa da palestra.
+### Termos Relacionados
 
-Formas defeituosas do STT: `Iuara`, `Isvara`, `Ichuara`, `Chuara`, `Xiwara`, `Itibara`, `Ixuara` e `Chuárea`.
-
-Forma da Base:
-
-> **Ishvara (Isuara — Retrato de Prabrajna Antes da Queda)**
-
-## Contexto / Origem
-Na leitura própria de Jan Val Ellam, Ishvara não é simplesmente equiparado às definições tradicionais de Deus pessoal. É apresentado como a última imagem íntegra de Prabrajna antes de ele ser sugado pela criação e fragmentado entre elétrons e antielétrons.
-
-Esse retrato funcionaria como:
-
-1. memória anterior à queda;
-2. limite de modulação da reorganização do caos;
-3. modelo para reconstruir o Criador;
-4. referência para a transformação do Nidana em um estado reconstituído.
-
-### Satchidananda
-O curador fixou **Satchidananda** como a correção das formas severamente deformadas pelo STT: “Nanda Gana”, “satiandagana”, “satinadan”, “SAT da Ananda Gana” e outras.
-
-Satchidananda é mantido, neste ciclo, dentro da explicação de Ishvara e da cadeia Nidana–DNA–reconstrução, **sem código independente**.
-
-## Termos Relacionados
 | Termo | Código | Relação | Direção | Notas |
 |---|---|---|---|---|
 | Prabrajna | RC-152 | representa | -> | consolidação: "retrata-antes-da-queda" → "representa" |
@@ -59,7 +38,67 @@ Satchidananda é mantido, neste ciclo, dentro da explicação de Ishvara e da ca
 | Lei da Mente do Buda | RC-712 | relaciona-se-a | -> | - |
 | Satchidanandaghana (super código genômico do Projeto TALM) | RC-838 | associado | <-> | - |
 
-## Fontes
+### Etimologia e Grafias
+
+### Validação da Grafia Canônica
+A forma canônica adotada é **Ishvara**, transliteração corrente do sânscrito `Īśvara`. **Isuara** é preservada como variação oral/portuguesa da palestra.
+Formas defeituosas do STT: `Iuara`, `Isvara`, `Ichuara`, `Chuara`, `Xiwara`, `Itibara`, `Ixuara` e `Chuárea`.
+Forma da Base:
+> **Ishvara (Isuara — Retrato de Prabrajna Antes da Queda)**
+
+### Contexto / Origem
+
+Na leitura própria de Jan Val Ellam, Ishvara não é simplesmente equiparado às definições tradicionais de Deus pessoal. É apresentado como a última imagem íntegra de Prabrajna antes de ele ser sugado pela criação e fragmentado entre elétrons e antielétrons.
+Esse retrato funcionaria como:
+1. memória anterior à queda;
+2. limite de modulação da reorganização do caos;
+3. modelo para reconstruir o Criador;
+4. referência para a transformação do Nidana em um estado reconstituído.
+
+### Satchidananda
+O curador fixou **Satchidananda** como a correção das formas severamente deformadas pelo STT: “Nanda Gana”, “satiandagana”, “satinadan”, “SAT da Ananda Gana” e outras.
+Satchidananda é mantido, neste ciclo, dentro da explicação de Ishvara e da cadeia Nidana–DNA–reconstrução, **sem código independente**.
+
+### Citações-chave
+
+> “Ishvara [...] significa o eu do universo, ou o ego do universo, ou o senhor do universo.”
+> «O último retrato que essa mente tirou de si mesma antes de explodir passou para todos os elétrons» — P2025-03-15 · `original.txt` L50 · reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte.
+
+- **[Os tijolos podres do primeiro logos] (U0014)** «A energia Rajas apenas produziu os tijolos podres da construção da vida aqui dentro.» — "Esse foi o trabalho do primeiro logos": a energia rajásica de Prabrajna produziu os tijolos podres; Savna polarizou as partes podres e Mahavatma criou a rota evolutiva, mas nada pôde ser executado — as hesitações ferraram a possibilidade de reordenar a criação pelas gunas. [Fonte: P2022-12-03]
+
+- **[O paraíso que parou de criar] (U0016)** «Desde que para Bragna fez isso, parou tudo.» — "O fim das criações no universo... o que era normalíssimo... Desde que Para Brajna fez isso, parou tudo. Ninguém cria mais nada" — o paraíso "já era chato, agora está"; a pulsação digna dos humanos pode substituir temporariamente os alicerces de sustentabilidade da erraticidade do paraíso (grafia STT "para Bragna" = Para Brajna). [Fonte: P2022-12-03]
+
+## 2. Natureza e Atributos
+
+## 3. Hierarquia e Geopolítica
+
+- **[Ishvara — o ser com o Satchidanandaghana] (U0004)** «Mas ovvar é o ser com o sati nadana gana se um dia isso existir.» — Ishvara (STT "ovvar/Estivara") = o Javé/Brahma reconstruído com o Satchidanandaghana; "o mistério de Isvara" é o tema do livro em produção. [Fonte: P2024-06-16]
+
+## 4. Histórico e Eventos Cósmicos
+
+- **[Brama depois, Prabrajna antes da queda] (U0094)** «Brama é depois da queda para Brasna é antes da queda.» — na Q&A, Ellam fixa a distinção nominal: Brama é o mesmo espírito de Prabrajna, mas apenas DEPOIS da queda; antes dela, é Prabrajna (Prajapati) — o retrato de Ishvara corresponde à condição anterior. [Fonte: P2025-06-14b]
+
+- **"O retrato de Prabrajna" (P2025-03-15):** "dizem que o último retrato dele foi tirado... o último retrato de Prabrajna que alguém tirou chama-se Ishvara"; "o limite de modulação pré-estabelecido desde a queda do seu criador. Que limite? É o retrato de Ishvara".
+
+- **"Hoje a palestra vai falar pela primeira vez abertamente sobre o mistério de Ishvara"** (em Milen Brumana [STT — REVISAR → CHANCELA 10/09/2026 · F039-L5: AGUARDA-ÁUDIO (hapax) — ver nota]). [Fonte: P2025-03-15]
+
+## 5. Lentes Curatoriais e Quarentenas
+
+- **Epítetos:** "significa o eu do universo, o ego do universo, o senhor do universo, o Deus do universo — você encontra uns 20 epítetos e nenhum deles bate"; "o que de mais próximo se chegou foi o Samkhya que Kapila produziu". [Fonte: P2025-03-15]
+
+- **Verificabilidade:** "isso que você vai explicar é verificável? Não. Por isso vocês apenas vão entender, mas não vão assumir isso como verdade". [Fonte: P2025-03-15]
+
+### Observações
+
+- A equivalência cosmológica é própria da Revelação Cósmica e não deve ser confundida automaticamente com todas as escolas hindus.
+- O “Limite de Modulação de Ishvara” foi absorvido nesta ficha.
+- A fonte recebida termina no intervalo; nenhuma conclusão ausente foi reconstruída.
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-691.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
+
+## 6. Histórico Curatorial e Auditoria
+
+### Fontes
+
 | Fonte | Localização | Tipo |
 |---|---|---|
 | P2022-12-03 | O Ocaso do Criador e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
@@ -67,39 +106,4 @@ Satchidananda é mantido, neste ciclo, dentro da explicação de Ishvara e da ca
 | P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
 | P2025-03-15 | U0282–U0298; U0398–U0419; U0494–U0504; U0577–U0627; U1089–U1093 | palestra/STT — fonte incompleta |
 
-## Citações-chave
-> “Ishvara [...] significa o eu do universo, ou o ego do universo, ou o senhor do universo.”
-
-> «O último retrato que essa mente tirou de si mesma antes de explodir passou para todos os elétrons» — P2025-03-15 · `original.txt` L50 · reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte.
-
-## Ampliação
-### P2024-06-16 (O Projeto TALM, os Fenvans e os Humanos)
-
-- **[Ishvara — o ser com o Satchidanandaghana] (U0004)** «Mas ovvar é o ser com o sati nadana gana se um dia isso existir.» — Ishvara (STT "ovvar/Estivara") = o Javé/Brahma reconstruído com o Satchidanandaghana; "o mistério de Isvara" é o tema do livro em produção.
-
-### P2025-06-14b (A Consciência Humana e a Chave da Decifração Universal)
-
-- **[Brama depois, Prabrajna antes da queda] (U0094)** «Brama é depois da queda para Brasna é antes da queda.» — na Q&A, Ellam fixa a distinção nominal: Brama é o mesmo espírito de Prabrajna, mas apenas DEPOIS da queda; antes dela, é Prabrajna (Prajapati) — o retrato de Ishvara corresponde à condição anterior.
-
-
-### P2022-12-03 (O Ocaso do Criador e a Rebelião dos Elétrons)
-
-- **[Os tijolos podres do primeiro logos] (U0014)** «A energia Rajas apenas produziu os tijolos podres da construção da vida aqui dentro.» — "Esse foi o trabalho do primeiro logos": a energia rajásica de Prabrajna produziu os tijolos podres; Savna polarizou as partes podres e Mahavatma criou a rota evolutiva, mas nada pôde ser executado — as hesitações ferraram a possibilidade de reordenar a criação pelas gunas.
-- **[O paraíso que parou de criar] (U0016)** «Desde que para Bragna fez isso, parou tudo.» — "O fim das criações no universo... o que era normalíssimo... Desde que Para Brajna fez isso, parou tudo. Ninguém cria mais nada" — o paraíso "já era chato, agora está"; a pulsação digna dos humanos pode substituir temporariamente os alicerces de sustentabilidade da erraticidade do paraíso (grafia STT "para Bragna" = Para Brajna).
-
-
-### P2025-03-15 (A Rebelião dos Elétrons e a era do Colapso do Caos Organizado)
-
-- **"O retrato de Prabrajna" (P2025-03-15):** "dizem que o último retrato dele foi tirado... o último retrato de Prabrajna que alguém tirou chama-se Ishvara"; "o limite de modulação pré-estabelecido desde a queda do seu criador. Que limite? É o retrato de Ishvara".
-- **Epítetos:** "significa o eu do universo, o ego do universo, o senhor do universo, o Deus do universo — você encontra uns 20 epítetos e nenhum deles bate"; "o que de mais próximo se chegou foi o Samkhya que Kapila produziu".
-- **"Hoje a palestra vai falar pela primeira vez abertamente sobre o mistério de Ishvara"** (em Milen Brumana [STT — REVISAR → CHANCELA 10/09/2026 · F039-L5: AGUARDA-ÁUDIO (hapax) — ver nota]).
-- **Verificabilidade:** "isso que você vai explicar é verificável? Não. Por isso vocês apenas vão entender, mas não vão assumir isso como verdade".
-
-## Observações
-- A equivalência cosmológica é própria da Revelação Cósmica e não deve ser confundida automaticamente com todas as escolas hindus.
-- O “Limite de Modulação de Ishvara” foi absorvido nesta ficha.
-- A fonte recebida termina no intervalo; nenhuma conclusão ausente foi reconstruída.
-
-
-> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-691.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
 - ✅ **Reanexação A5 (U92, 15/09/2026):** os 3 trechos entre aspas desta ficha foram reanexados às fontes e passam a trazer aparelho de linha (`— SIGLA · original.txt LNNNN`), conferido byte a byte pelo Portão B. **Quarentena epistemológica de 14/09/2026 (U86) levantada nesta ficha** — a nota original dizia que o trecho não resistia à verificação; agora resiste, porque deixou de ser uma transcrição solta e passou a ser extracto conferido. Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

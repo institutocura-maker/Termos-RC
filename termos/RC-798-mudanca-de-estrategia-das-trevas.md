@@ -12,18 +12,14 @@ atualizado = "2026-08-30"
 +++
 # Mudança de Estratégia das Trevas (Centralizar → Espalhar) — RC-798
 
-## Definição Sintética
+## 1. Gênese e Definição
+
+### Definição Sintética
+
 Tese (leitura do autor, palestra **P2018-02-24**, U0004) de que **depois de 2 destruições pelos avatares** (Moisés contra o império egípcio, Krishna contra a guerra de Kurukshetra), **as trevas mudaram de estratégia**: em vez de **centralizar o mal em impérios/famílias**, resolveram **espalhar o mal em todos os corações humanos**. Essa mudança **obrigou** os avatares seguintes (Saibaba, Jesus) a **propor a luta íntima do bem e do mal** — transferindo a responsabilidade para os humanos. Ver RC-102 (Krishna), RC-750 (Moisés), RC-072 (Jesus), RC-797 (Estratégia dos Avatares).
 
-## Etimologia e Grafias
-- **Grafia preferida:** Mudança de Estratégia das Trevas (Centralizar → Espalhar)
-- **Variações STT capturadas:** "mudança de estratégia", "espalharam o mal", "centralizar o poder"
-- **Idioma de origem:** Português
+### Termos Relacionados
 
-## Contexto / Origem
-Aparece em **P2018-02-24**, U0004. Contexto: a "estratégia antiga" das trevas era centralizar o mal em impérios/famílias. Depois de 2 avatares bem-sucedidos (Moisés, Krishna), a estratégia **inverteu** — o mal foi espalhado em todos os corações humanos, de modo que "se a luz quisesse destruir aquele DNA, aquela semente do mal, teria que destruir toda a humanidade".
-
-## Termos Relacionados
 | Termo | Código | Relação | Direção | Notas |
 |---|---|---|---|---|
 | Jesus | RC-072 | comunica | -> | consolidação: "replica-resposta-a" → "comunica" |
@@ -33,27 +29,45 @@ Aparece em **P2018-02-24**, U0004. Contexto: a "estratégia antiga" das trevas e
 | Jesus como Último Avatar (Não Mata) | RC-800 | comunica | -> | consolidação: "resposta-a" → "comunica" |
 | Saibaba como Precursor de Jesus | RC-801 | comunica | -> | consolidação: "primeira-resposta-a" → "comunica" |
 
-## Seres Associados
+### Etimologia e Grafias
+
+- **Grafia preferida:** Mudança de Estratégia das Trevas (Centralizar → Espalhar)
+- **Variações STT capturadas:** "mudança de estratégia", "espalharam o mal", "centralizar o poder"
+- **Idioma de origem:** Português
+
+### Contexto / Origem
+
+Aparece em **P2018-02-24**, U0004. Contexto: a "estratégia antiga" das trevas era centralizar o mal em impérios/famílias. Depois de 2 avatares bem-sucedidos (Moisés, Krishna), a estratégia **inverteu** — o mal foi espalhado em todos os corações humanos, de modo que "se a luz quisesse destruir aquele DNA, aquela semente do mal, teria que destruir toda a humanidade".
+
+### Citações-chave
+
+> «as trevas, cansados de centrarem seus soldados num império, depois de uma família diante de dois sucesso seguido, já que a luz veio e derrotou, eles resolveram não mais centrar o poder deles em um lugar como uma família no império. Eles resolveram espalharam mal por todos os corações de todos os seres humanos.» — P2018-02-24 · `original.txt` L5 · reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte.
+> «Porque assim, se a luz quisesse destruir aquele DNA, aquela semente do mal, teria que destruir toda a humanidade.» — P2018-02-24 · `original.txt` L5 · reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte.
+
+## 3. Hierarquia e Geopolítica
+
+### Seres Associados
+
 - **As trevas** (entidade cósmica) — quem mudou a estratégia
 - **Moisés** (avatares anteriores)
 - **Krishna** (avatares anteriores)
 - **Saibaba** (primeiro a responder à nova estratégia)
 - **Jesus** (segundo a responder à nova estratégia)
 
-## Fontes
+## 5. Lentes Curatoriais e Quarentenas
+
+### Observações
+
+- [REVISAR → CHANCELA 2026-09-06 · F041-L5: AGUARDA-ÁUDIO (dívida perdoada até nova evidência na base; STT preservado como falado) — ver nota]: a palestra de 2018-02-24 é a única fonte primária da formulação específica "centralizar → espalhar"; pode haver paralelos em outras palestras.
+- Quarentena: leitura do autor; sem fusionar com teorias conspiratórias modernas sobre "novas estratégias do mal".
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-798.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
+
+## 6. Histórico Curatorial e Auditoria
+
+### Fontes
+
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
 | P2018-02-24 — Pandora e a Estratégia dos Avatares | U0004 (S4) | — | palestra (fonte primária, STT) |
 
-## Citações-chave
-> «as trevas, cansados de centrarem seus soldados num império, depois de uma família diante de dois sucesso seguido, já que a luz veio e derrotou, eles resolveram não mais centrar o poder deles em um lugar como uma família no império. Eles resolveram espalharam mal por todos os corações de todos os seres humanos.» — P2018-02-24 · `original.txt` L5 · reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte.
-
-> «Porque assim, se a luz quisesse destruir aquele DNA, aquela semente do mal, teria que destruir toda a humanidade.» — P2018-02-24 · `original.txt` L5 · reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte.
-
-## Observações
-- [REVISAR → CHANCELA 2026-09-06 · F041-L5: AGUARDA-ÁUDIO (dívida perdoada até nova evidência na base; STT preservado como falado) — ver nota]: a palestra de 2018-02-24 é a única fonte primária da formulação específica "centralizar → espalhar"; pode haver paralelos em outras palestras.
-- Quarentena: leitura do autor; sem fusionar com teorias conspiratórias modernas sobre "novas estratégias do mal".
-
-
-> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-798.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
 - ✅ **Reanexação A5 (U91, 15/09/2026):** os 2 trechos entre aspas desta ficha foram reanexados às fontes e passam a trazer aparelho de linha (`— SIGLA · original.txt LNNNN`), conferido byte a byte pelo Portão B. **Quarentena epistemológica de 14/09/2026 (U86) levantada nesta ficha** — a nota original dizia que o trecho não resistia à verificação; agora resiste, porque deixou de ser uma transcrição solta e passou a ser extracto conferido. Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

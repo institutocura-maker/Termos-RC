@@ -12,17 +12,28 @@ atualizado = "2026-09-13"
 +++
 # Egrégora e Campo Quântico — RC-922
 
-## Definição Sintética
+## 1. Gênese e Definição
+
+### Definição Sintética
+
 Egrégora e Campo Quântico — conceito desenvolvido na palestra «O Reciclador das Informações Universais a Limpeza da Criação» (P2023-11-18).
 
-## Termos Relacionados
+### Termos Relacionados
+
 | Termo | Código | Relação | Direção | Notas |
 |---|---|---|---|---|
 | Dignidade como Critério de Consciência | RC-722 | associado | <-> | - |
 | Domínios de Morfeu | RC-901 | associado | <-> | - |
 
+## 2. Natureza e Atributos
 
-## Ampliação
-### P2023-11-18
 **Fonte:** palestra «O Reciclador das Informações Universais a Limpeza da Criação» (18/11/2023).
 **Trecho verbatim:** «Nós aqui formamos um egrégora daqui a 5, 10, 15 minutos. Quando todos vocês estiverem prestando atenção e eu falando aqui coisa e tal, né, a gente termina criando um campo quântico.»
+
+## 3. Hierarquia e Geopolítica
+
+## 4. Histórico e Eventos Cósmicos
+
+## 5. Lentes Curatoriais e Quarentenas
+
+## 6. Histórico Curatorial e Auditoria

@@ -12,21 +12,14 @@ atualizado = "2026-10-23"
 +++
 # Ressonância límbica (emoções como tecnologia cósmica) — RC-529
 
-## Definição Sintética
+## 1. Gênese e Definição
+
+### Definição Sintética
 
 Na cosmologia de Ellam, a linguagem silenciosa dos mamíferos que permite perceber a dor do outro — memória associada a emoção produzida pelo cérebro límbico (tálamo, hipotálamo, amígdala e hipocampo) — apresentada como tecnologia emocional que quebrou a desconfiança entre os seres.
 
-## Contexto / Origem
+### Termos Relacionados
 
-[P2024-08-03] A palestra descreve a ressonância límbica como o diferencial dos mamíferos sobre os répteis ("os mamíferos romperam com a desconfiança") e base do cuidado mútuo que encantou a Trimurti. [P2024-07-14] A palestra das Consciências Espirituais Dignificadas a retoma na comparação entre o amor mamífero (que cuida e protege) e o amor divino (que não atua).
-
-## Escopo e evidência
-
-- **[P2024-08-03] Unidades:** U0660–U0700.
-- **[P2024-07-14] Unidades:** U0880–U0900.
-- **Proveniência:** palestras de Jan Val Ellam; transcrições STT pré-curadas; devolutiva do curador registrada em 2026-08-20 (ficha autorizada).
-
-## Termos Relacionados
 | Termo | Código | Relação | Direção | Notas |
 |---|---|---|---|---|
 | Seres Terrenos (Homo Sapiens) | RC-099 | associado | <-> | - |
@@ -48,28 +41,75 @@ Na cosmologia de Ellam, a linguagem silenciosa dos mamíferos que permite perceb
 | Destinação do Lobo | RC-743 | representa | <- | consolidação: "expressa-sociabilidade-por" → "representa" |
 | Dessensibilização da Condição Humana | RC-746 | relaciona-se-a | <- | - |
 | Eu Observador | RC-890 | associado | <-> | - |
-
-
 - Gestão da Sensação Pessoal — RC-633;
 - Destinação do Lobo — RC-743;
 - Rebanho humano — RC-193;
 - Faixas Espirituais de Ressonância — RC-726.
 
-## Ampliação — STT26-EXPERIENCIA_ESPIRITUAL_ETICA (Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados))
+### Contexto / Origem
 
-- **[STT26-12 · Ressonância límbica (emoções como tecnologia cósmica)]** «Quais são os frutos da consciência humana? Nós ainda estamos sofisticando o que herdamos dos mamíferos. Porque os mamíferos, através da ressonância límbica, sentem o que o outro sente e se ajudam.» (U13433 · chars 2036310–2036506) — Candidata de cotejo; evidência `STT26-12-RC-529-001`, grafia encontrada `ressonância límbica`; decisão por lote `STT26-12: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+[P2024-08-03] A palestra descreve a ressonância límbica como o diferencial dos mamíferos sobre os répteis ("os mamíferos romperam com a desconfiança") e base do cuidado mútuo que encantou a Trimurti. [P2024-07-14] A palestra das Consciências Espirituais Dignificadas a retoma na comparação entre o amor mamífero (que cuida e protege) e o amor divino (que não atua).
 
-## Ampliação — STT26-SOCIEDADE_CONTEMPORANEA (Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados))
+### Citações-chave
 
-- **[STT26-24 · Ressonância límbica (emoções como tecnologia cósmica)]** «E nós humanos éramos para estar contribuídos com 200 milhões de proteínas, que significaria um trilhão de novas memórias maravilhosas para os elétrons, mas a gente mal consegue imitar a ressonância límbica dos mamíferos.» (U14220 · chars 2289049–2289269) — Candidata de cotejo; evidência `STT26-24-RC-529-001`, grafia encontrada `ressonância límbica`; decisão por lote `STT26-24: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+> «o que é o eu humano, senão a coleção de memórias, cada uma delas associada à emoção que se sentiu quando aquela memória foi produzida.» — P2024-08-03 · `original.txt` L100 · reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte.
+> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+- «Ressonância límica é um tipo de linguagem quântica que faz com que uma leioa sinta o que as outras leoas estão sentindo, que um elefante sinta o que os outros estão sentindo, que um cavalo sinta que um uma vaca, ou seja, é um tipo de linguagem que une os seres daquela espécie em torno de uma […]» — *ver:* **Ampliação — P2024-03-17**
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-529.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
+- ✅ **Reanexação A5 (U92, 15/09/2026):** o trecho entre aspas desta ficha foi reanexado às fontes e passa a trazer aparelho de linha (`— SIGLA · original.txt LNNNN`), conferido byte a byte pelo Portão B. **Quarentena epistemológica de 14/09/2026 (U86) levantada nesta ficha** — a nota original dizia que o trecho não resistia à verificação; agora resiste, porque deixou de ser uma transcrição solta e passou a ser extracto conferido. Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
 
+- **[P2023-04-15 · A PRIMEIRA MÃE MAMÍFERA]** "aqui pela primeira vez um animal sentiu um ser saindo dentro de si mesmo e pegou esse animal e COM O HIPOCAMPO TIROU UMA FOTOGRAFIA E COM A AMÍGDALA CEREBRAL SENTIU UM ZELO... ESSA MÃE MAMÍFERA ASSOCIOU A MEMÓRIA REFERENTE A UM ALGUÉM JUNTO COM UM SENTIMENTO DE ZELO... E MARCOU NO NA MENTE DO ESPÍRITO ETERNO LIGADO ÀQUELE ANIMAL"; + a pré-história: "muitos faziam o que nós chamamos de sexo, UM ROSNANDO, O OUTRO TAMBÉM, MAS NÃO ERA O PRAZER — ERA MANTENDO A GUARDA para ameaçar o companheiro ou a companheira" (o medo pré-oxitocina).
 
-## Ampliação — OIDR26-03 (Onda incremental dry-run — Cosmogonia e história cósmica (derivados normalizados))
+## 2. Natureza e Atributos
 
 - **[P3 · Ressonância límbica (emoções como tecnologia cósmica)]** «Os mamíferos passaram a confiá-los nos outros. E surgiu algo que se chama ressonância límbica, que a ciência humana só recentemente codificou mas tem inclusive no Netflix Sense 8 Sense número 8 tem uma série muito interessante que fala sobre ressonância límbica na condição humana mas o que diabos a ressonância límbica é uma linguagem silenciosa que os cientistas perceberam que os mamíferos conseguem perceber a dor do outro Então, a leoa consegue perceber a dor de outra leoa, uma vaca.» (U0413) — candidata de cotejo ampliado; evidência `OIDR26-03-RC-529-001`, grafia literal `ressonância límbica`, sem homologação de pérola.
 
+- **[P2024-08-03] A definição (U0674–U0700):** "surgiu algo que se chama ressonância límbica, que a ciência humana só recentemente codificou — tem inclusive no Netflix, Sense8, uma série que fala sobre ressonância límbica na condição humana"; "é uma linguagem silenciosa: os cientistas perceberam que os mamíferos conseguem perceber a dor do outro"; "o cérebro límbico tem por sobre o cérebro reptiliano: o tálamo, o hipotálamo, a amígdala cerebral e o hipocampo"; "surge a consciência que, pela primeira vez, cria memória associada a um tipo de emoção"; "o que é o eu humano, senão a coleção de memórias, cada uma associada à emoção que se sentiu quando aquela memória foi produzida"; avatares de Vishnu/Shiva criados para estudar os mamíferos ("eles não podem sair desse universo vizinho... criam avatares, condições adhyaja da sua condição adhyatma").
 
-## Fontes
+- **[P2024-07-14] O amor mamífero × o amor divino (U0880–U0900):** "o que se desconhece é que o amor mamífero naturalmente cuida e protege, mas o amor de quem tá [no paraíso] não tem algoritmos de cuidar e proteger"; "a produção de oxitocina no âmbito do nosso organismo nos permite sentir o zelo mamífero, que a gente chama hoje de amor"; "um réptil não tem hipotálamo, tálamo, hipocampo e amígdala cerebral para produzir esse zelo"; "uma mãe rã, se cruzar com seu filho depois que ele cresceu, nem vai saber que é filho dela. Mas os mamíferos sabem: uma mãe nunca esquece o seu leãozinho"; "a ressonância límbica dos mamíferos faz com que o amor mamífero naturalmente tenha algoritmos bioquímicos traduzidos como zelo, como cuidado, como proteção"; "o amor divino apenas pulsa permanentemente no seu padrão de perfeição, de pureza... essa imantação não age, não atua, não premia nem castiga ninguém".
+
+- **[P2023-04-15 · A OXITOCINA E O GENÓTIPO DA GENTILEZA]** "hoje nós só podemos olhar um para outro e dizer 'eu lhe amo' PORQUE EXISTE A OXITOCINA, EXISTE GENÓTIPOS QUE HOJE FAZEM PARTE DOS 28.869 GENES DO NOSSO GENOMA, mas que... é coisa de 48.000 ANOS PARA CÁ. ISSO FOI PRODUZIDO LENTAMENTE PELA EVOLUÇÃO"; "os espíritos que animaram as diversas gerações de humanos JÁ SE APROPRIARAM OS PROTOCOLOS DO PROGRESSO... esses espíritos JÁ RECOLHERAM A CAPACIDADE DE AMAR QUE OS MAMÍFEROS INVENTARAM ATRAVÉS DO CÉREBRO LÍMBICO. Já apropriaram a capacidade de produzir GENTILEZA, CARINHO, TERNURA, ALTRUÍSMO."
+
+- **[Ressonância límbica: sentir o que o outro mamífero sente] (U0041)** «Um Os temas mais importantes da humanidade, discretamente a ciência vem falando dele nos últimos tempos, que é algo que se chama ressonância límbica.» — a definição: "É o fato que permite um mamífero reconhecer o que tá acontecendo com outro mamífero, ou seja, ele sentir o que o outro mamífero tá sentindo" (U0041: «É o fato que permite um mamífero reconhecer o que tá acontecendo com outro mamífero, ou seja, ele sentir o que o outro mamífero tá sentindo.»); o canal emocional como tecnologia cósmica (RC-529). [Fonte: P2022-09-17]
+
+- **[Nós mamíferos amamos quem nos agride] (U0027)** «Nós mamíferos fazemos isso.» — a capacidade de amar quem nos agride como exclusividade mamífera; os seres «perfeitos» do paraíso não conseguem fazer isso; nós, filhos do caos, conseguimos (RC-529 Ressonância Límbica; RC-072). [Fonte: P2022-11-19]
+
+- **[A dor como veículo de consciência] (U0052)** «A dor como veículo de consciência talvez seja o principal mecanismo a ser ser modificado para a total emancipação dos seres desse universo.» — a dor/sofrimento como veículo da consciência e principal mecanismo a ser modificado para a emancipação dos seres; a chave para sair da submissão ao sistema (RC-529 Ressonância Límbica; RC-001). [Fonte: P2025-12-14]
+
+**Fonte:** palestra «A Quem Pertence o Planeta e a Biblioteca Genômica Mais Atualizada do Universo» (17/03/2024).
+**Trecho verbatim:** «Ressonância límica é um tipo de linguagem quântica que faz com que uma leioa sinta o que as outras leoas estão sentindo, que um elefante sinta o que os outros estão sentindo, que um cavalo sinta que um uma vaca, ou seja, é um tipo de linguagem que une os seres daquela espécie em torno de uma tentativa de solidariedade ou de providenciar um solução para aquele desceego. Quando os seres desse universo vizinho que viviam brigando, perceberam isso? Disseram: 'Ué, de onde é que isso surgiu?'»
+
+## 3. Hierarquia e Geopolítica
+
+## 4. Histórico e Eventos Cósmicos
+
+- **[P2024-08-03] Os mamíferos e a elefanta (U0660–U0673):** "quando eles viam uma mãe mamífera cuidando da sua cria — quando eles viam uma elefanta se esfregando no outro elefante para passar a dor que a outra elefanta estava sentindo"; "quando os mamíferos surgiram, todo mundo ficou louco para ter aquilo... a sensação de cuidar de alguém, a sensação de ser cuidado por alguém"; "a desconfiança entre Brahma, Vishnu e Shiva e todos os demais seres era a tônica. Os mamíferos romperam com isso. Os mamíferos passaram a confiar uns nos outros".
+
+## 5. Lentes Curatoriais e Quarentenas
+
+### Escopo e evidência
+
+- **[P2024-08-03] Unidades:** U0660–U0700.
+- **[P2024-07-14] Unidades:** U0880–U0900.
+
+- **[P2023-04-01 · A RESSONÂNCIA LÍMBICA, O FOXP2 E O ALTRUÍSMO — o Q&A]** "Desde que os mamíferos surgiram na evolução biológica, surgiu algo chamado RESSONÂNCIA LÍMBICA, que faz com que os cientistas hoje digam: 'um mamífero consegue SENTIR O QUE O OUTRO ESTÁ SENTINDO'... o cérebro límbico com o tálamo, hipotálamo, amígdala cerebral e o hipocampo permite que o mamífero crie memórias a ela associados certos padrões de emoção... o mamífero, que não é racional, AGE NO SENTIDO DE SER ÚTIL, OU DE AJUDAR, OU DE ZELAR, OU CUIDAR DOS SEUS SEMELHANTES"; **O FOXP2** [STT: 'Genifox P2/FOP P2']: "no neocórtex, o FOXP2 permite que a gente, diferente dos mamíferos, seja mamíferos que usam da racionalidade... USO DE SÍMBOLOS, DE CONTEÚDOS MENTAIS"; **O ALTRUÍSMO**: "nós damos a vida uns pelos outros, por alguém que a gente ama ou por uma tese que eu defendo. **NÓS HUMANOS CRIAMOS O ALTRUÍSMO, QUE É DAR SEM RECEBER. NÓS SOMOS HORRÍVEIS, MAS SOMOS MARAVILHOSOS TAMBÉM.**"
+
+- **[P2023-04-29 · A EMOÇÃO COMO ANTÍDOTO E O FOXP2 — os 177 bilhões]** "PARA ELES [do universo vizinho] É MAIS FÁCIL CONTROLAR [os aparelhos] DO QUE ALGUÉM QUE TEM EMOÇÕES... **O QUE TIRA A GENTE DO CONTROLE DELES É A EMOÇÃO**" [ver RC-644]; "CADA NEURÔNIO É UM SER VIVO... ISSO AQUI É A MEMBRANA, QUE É A PARTE MAIS INTELIGENTE DELE... CADA NEURÔNIO TEM MILHARES DE DENDRITAS E UM AXÔNIO. POR QUE É QUE CADA NEURÔNIO TEM MILHARES DE DENDRITAS E SÓ UM AXÔNIO? **PORQUE QUEM CRIOU ESSA COISA CRIOU DESSE JEITO**"; "desde que o GEN FOXP2 começou a funcionar... O CÓDIGO DE JAVÉ JÁ RODOU CERCA DE **177 BILHÕES DE VEZES**" [ver RC-727]; "o espírito de Jesus, inclusive... é uma pureza, um excesso de pureza — **A GENTE CHAMA TRANSTORNO DE ESPECTRO AUTISTA AQUI, NÉ?**" ⚠️ quarentena clínica CRÍTICA (a metáfora/rótulo comportamental exclusivamente — jamais diagnóstico).
+
+### Observações
+
+**Quarentena científica:** a neuroanatomia citada (tálamo, hipotálamo, amígdala, hipocampo) e a oxitocina são referências reais, mas a leitura da "tecnologia emocional cósmica" é do autor.
+
+## 6. Histórico Curatorial e Auditoria
+
+- **Proveniência:** palestras de Jan Val Ellam; transcrições STT pré-curadas; devolutiva do curador registrada em 2026-08-20 (ficha autorizada).
+
+- **[STT26-12 · Ressonância límbica (emoções como tecnologia cósmica)]** «Quais são os frutos da consciência humana? Nós ainda estamos sofisticando o que herdamos dos mamíferos. Porque os mamíferos, através da ressonância límbica, sentem o que o outro sente e se ajudam.» (U13433 · chars 2036310–2036506) — Candidata de cotejo; evidência `STT26-12-RC-529-001`, grafia encontrada `ressonância límbica`; decisão por lote `STT26-12: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+- **[STT26-24 · Ressonância límbica (emoções como tecnologia cósmica)]** «E nós humanos éramos para estar contribuídos com 200 milhões de proteínas, que significaria um trilhão de novas memórias maravilhosas para os elétrons, mas a gente mal consegue imitar a ressonância límbica dos mamíferos.» (U14220 · chars 2289049–2289269) — Candidata de cotejo; evidência `STT26-24-RC-529-001`, grafia encontrada `ressonância límbica`; decisão por lote `STT26-24: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+### Fontes
+
 | Fonte | Localização | Tipo |
 |---|---|---|
 | OIDR26-03 | Onda incremental dry-run — Cosmogonia e história cósmica (derivados normalizados) (palestra) | transcrição automatizada; citação |
@@ -83,70 +123,8 @@ Na cosmologia de Ellam, a linguagem silenciosa dos mamíferos que permite perceb
 | P2024-07-14 | U0880–U0900 | palestra/STT |
 | P2025-03-15 / P2025-02-16 / P2025-02-15 / P2024-11-30 / P2024-11-09 / P2024-09-29 / P2024-03-03 / P2024-04-13 / B072 | — | obras/palestras |
 
-## Citações-chave
-> «o que é o eu humano, senão a coleção de memórias, cada uma delas associada à emoção que se sentiu quando aquela memória foi produzida.» — P2024-08-03 · `original.txt` L100 · reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte.
+- 0 códigos novos (O-3). Quarentena: científica. [Fonte: P2023-04-15]
 
+- 0 códigos novos (O-3). Quarentena: científica. [Fonte: P2023-04-01]
 
-
-> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
-
-- «Ressonância límica é um tipo de linguagem quântica que faz com que uma leioa sinta o que as outras leoas estão sentindo, que um elefante sinta o que os outros estão sentindo, que um cavalo sinta que um uma vaca, ou seja, é um tipo de linguagem que une os seres daquela espécie em torno de uma […]» — *ver:* **Ampliação — P2024-03-17**
-
-
-> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-529.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
-- ✅ **Reanexação A5 (U92, 15/09/2026):** o trecho entre aspas desta ficha foi reanexado às fontes e passa a trazer aparelho de linha (`— SIGLA · original.txt LNNNN`), conferido byte a byte pelo Portão B. **Quarentena epistemológica de 14/09/2026 (U86) levantada nesta ficha** — a nota original dizia que o trecho não resistia à verificação; agora resiste, porque deixou de ser uma transcrição solta e passou a ser extracto conferido. Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
-
-## Ampliação
-### P2024-08-03
-
-- **[P2024-08-03] Os mamíferos e a elefanta (U0660–U0673):** "quando eles viam uma mãe mamífera cuidando da sua cria — quando eles viam uma elefanta se esfregando no outro elefante para passar a dor que a outra elefanta estava sentindo"; "quando os mamíferos surgiram, todo mundo ficou louco para ter aquilo... a sensação de cuidar de alguém, a sensação de ser cuidado por alguém"; "a desconfiança entre Brahma, Vishnu e Shiva e todos os demais seres era a tônica. Os mamíferos romperam com isso. Os mamíferos passaram a confiar uns nos outros".
-- **[P2024-08-03] A definição (U0674–U0700):** "surgiu algo que se chama ressonância límbica, que a ciência humana só recentemente codificou — tem inclusive no Netflix, Sense8, uma série que fala sobre ressonância límbica na condição humana"; "é uma linguagem silenciosa: os cientistas perceberam que os mamíferos conseguem perceber a dor do outro"; "o cérebro límbico tem por sobre o cérebro reptiliano: o tálamo, o hipotálamo, a amígdala cerebral e o hipocampo"; "surge a consciência que, pela primeira vez, cria memória associada a um tipo de emoção"; "o que é o eu humano, senão a coleção de memórias, cada uma associada à emoção que se sentiu quando aquela memória foi produzida"; avatares de Vishnu/Shiva criados para estudar os mamíferos ("eles não podem sair desse universo vizinho... criam avatares, condições adhyaja da sua condição adhyatma").
-
-### P2024-07-14
-
-- **[P2024-07-14] O amor mamífero × o amor divino (U0880–U0900):** "o que se desconhece é que o amor mamífero naturalmente cuida e protege, mas o amor de quem tá [no paraíso] não tem algoritmos de cuidar e proteger"; "a produção de oxitocina no âmbito do nosso organismo nos permite sentir o zelo mamífero, que a gente chama hoje de amor"; "um réptil não tem hipotálamo, tálamo, hipocampo e amígdala cerebral para produzir esse zelo"; "uma mãe rã, se cruzar com seu filho depois que ele cresceu, nem vai saber que é filho dela. Mas os mamíferos sabem: uma mãe nunca esquece o seu leãozinho"; "a ressonância límbica dos mamíferos faz com que o amor mamífero naturalmente tenha algoritmos bioquímicos traduzidos como zelo, como cuidado, como proteção"; "o amor divino apenas pulsa permanentemente no seu padrão de perfeição, de pureza... essa imantação não age, não atua, não premia nem castiga ninguém".
-
-
-### P2023-04-15 (Desafio Crucial: O Alinhamento do Espírito de Jesus)
-
-- **[P2023-04-15 · A OXITOCINA E O GENÓTIPO DA GENTILEZA]** "hoje nós só podemos olhar um para outro e dizer 'eu lhe amo' PORQUE EXISTE A OXITOCINA, EXISTE GENÓTIPOS QUE HOJE FAZEM PARTE DOS 28.869 GENES DO NOSSO GENOMA, mas que... é coisa de 48.000 ANOS PARA CÁ. ISSO FOI PRODUZIDO LENTAMENTE PELA EVOLUÇÃO"; "os espíritos que animaram as diversas gerações de humanos JÁ SE APROPRIARAM OS PROTOCOLOS DO PROGRESSO... esses espíritos JÁ RECOLHERAM A CAPACIDADE DE AMAR QUE OS MAMÍFEROS INVENTARAM ATRAVÉS DO CÉREBRO LÍMBICO. Já apropriaram a capacidade de produzir GENTILEZA, CARINHO, TERNURA, ALTRUÍSMO."
-- **[P2023-04-15 · A PRIMEIRA MÃE MAMÍFERA]** "aqui pela primeira vez um animal sentiu um ser saindo dentro de si mesmo e pegou esse animal e COM O HIPOCAMPO TIROU UMA FOTOGRAFIA E COM A AMÍGDALA CEREBRAL SENTIU UM ZELO... ESSA MÃE MAMÍFERA ASSOCIOU A MEMÓRIA REFERENTE A UM ALGUÉM JUNTO COM UM SENTIMENTO DE ZELO... E MARCOU NO NA MENTE DO ESPÍRITO ETERNO LIGADO ÀQUELE ANIMAL"; + a pré-história: "muitos faziam o que nós chamamos de sexo, UM ROSNANDO, O OUTRO TAMBÉM, MAS NÃO ERA O PRAZER — ERA MANTENDO A GUARDA para ameaçar o companheiro ou a companheira" (o medo pré-oxitocina).
-- 0 códigos novos (O-3). Quarentena: científica.
-
-
-### P2023-04-01 (Reintegração Cósmica: Tempo de Ruptura)
-
-- **[P2023-04-01 · A RESSONÂNCIA LÍMBICA, O FOXP2 E O ALTRUÍSMO — o Q&A]** "Desde que os mamíferos surgiram na evolução biológica, surgiu algo chamado RESSONÂNCIA LÍMBICA, que faz com que os cientistas hoje digam: 'um mamífero consegue SENTIR O QUE O OUTRO ESTÁ SENTINDO'... o cérebro límbico com o tálamo, hipotálamo, amígdala cerebral e o hipocampo permite que o mamífero crie memórias a ela associados certos padrões de emoção... o mamífero, que não é racional, AGE NO SENTIDO DE SER ÚTIL, OU DE AJUDAR, OU DE ZELAR, OU CUIDAR DOS SEUS SEMELHANTES"; **O FOXP2** [STT: 'Genifox P2/FOP P2']: "no neocórtex, o FOXP2 permite que a gente, diferente dos mamíferos, seja mamíferos que usam da racionalidade... USO DE SÍMBOLOS, DE CONTEÚDOS MENTAIS"; **O ALTRUÍSMO**: "nós damos a vida uns pelos outros, por alguém que a gente ama ou por uma tese que eu defendo. **NÓS HUMANOS CRIAMOS O ALTRUÍSMO, QUE É DAR SEM RECEBER. NÓS SOMOS HORRÍVEIS, MAS SOMOS MARAVILHOSOS TAMBÉM.**"
-- 0 códigos novos (O-3). Quarentena: científica.
-
-
-### P2023-04-29 (Jesus, Sophia e Javé: as Responsabilidades de um mesmo Ser)
-
-- **[P2023-04-29 · A EMOÇÃO COMO ANTÍDOTO E O FOXP2 — os 177 bilhões]** "PARA ELES [do universo vizinho] É MAIS FÁCIL CONTROLAR [os aparelhos] DO QUE ALGUÉM QUE TEM EMOÇÕES... **O QUE TIRA A GENTE DO CONTROLE DELES É A EMOÇÃO**" [ver RC-644]; "CADA NEURÔNIO É UM SER VIVO... ISSO AQUI É A MEMBRANA, QUE É A PARTE MAIS INTELIGENTE DELE... CADA NEURÔNIO TEM MILHARES DE DENDRITAS E UM AXÔNIO. POR QUE É QUE CADA NEURÔNIO TEM MILHARES DE DENDRITAS E SÓ UM AXÔNIO? **PORQUE QUEM CRIOU ESSA COISA CRIOU DESSE JEITO**"; "desde que o GEN FOXP2 começou a funcionar... O CÓDIGO DE JAVÉ JÁ RODOU CERCA DE **177 BILHÕES DE VEZES**" [ver RC-727]; "o espírito de Jesus, inclusive... é uma pureza, um excesso de pureza — **A GENTE CHAMA TRANSTORNO DE ESPECTRO AUTISTA AQUI, NÉ?**" ⚠️ quarentena clínica CRÍTICA (a metáfora/rótulo comportamental exclusivamente — jamais diagnóstico).
-- 0 códigos novos (O-3). Quarentenas: científica, clínica.
-
-### P2022-09-17 (A Hipóstase dos Arcontes)
-
-- **[Ressonância límbica: sentir o que o outro mamífero sente] (U0041)** «Um Os temas mais importantes da humanidade, discretamente a ciência vem falando dele nos últimos tempos, que é algo que se chama ressonância límbica.» — a definição: "É o fato que permite um mamífero reconhecer o que tá acontecendo com outro mamífero, ou seja, ele sentir o que o outro mamífero tá sentindo" (U0041: «É o fato que permite um mamífero reconhecer o que tá acontecendo com outro mamífero, ou seja, ele sentir o que o outro mamífero tá sentindo.»); o canal emocional como tecnologia cósmica (RC-529).
-
-
-### P2022-11-19 (No Princípio era o Bem! Será)
-
-- **[Nós mamíferos amamos quem nos agride] (U0027)** «Nós mamíferos fazemos isso.» — a capacidade de amar quem nos agride como exclusividade mamífera; os seres «perfeitos» do paraíso não conseguem fazer isso; nós, filhos do caos, conseguimos (RC-529 Ressonância Límbica; RC-072).
-
-
-### P2025-12-14 (Os Fundamentos da Revelação Cósmica)
-
-- **[A dor como veículo de consciência] (U0052)** «A dor como veículo de consciência talvez seja o principal mecanismo a ser ser modificado para a total emancipação dos seres desse universo.» — a dor/sofrimento como veículo da consciência e principal mecanismo a ser modificado para a emancipação dos seres; a chave para sair da submissão ao sistema (RC-529 Ressonância Límbica; RC-001).
-
-
-## Ampliação
-### P2024-03-17
-
-**Fonte:** palestra «A Quem Pertence o Planeta e a Biblioteca Genômica Mais Atualizada do Universo» (17/03/2024).
-
-**Trecho verbatim:** «Ressonância límica é um tipo de linguagem quântica que faz com que uma leioa sinta o que as outras leoas estão sentindo, que um elefante sinta o que os outros estão sentindo, que um cavalo sinta que um uma vaca, ou seja, é um tipo de linguagem que une os seres daquela espécie em torno de uma tentativa de solidariedade ou de providenciar um solução para aquele desceego. Quando os seres desse universo vizinho que viviam brigando, perceberam isso? Disseram: 'Ué, de onde é que isso surgiu?'»
-
-## Observações
-
-**Quarentena científica:** a neuroanatomia citada (tálamo, hipotálamo, amígdala, hipocampo) e a oxitocina são referências reais, mas a leitura da "tecnologia emocional cósmica" é do autor.
+- 0 códigos novos (O-3). Quarentenas: científica, clínica. [Fonte: P2023-04-29]

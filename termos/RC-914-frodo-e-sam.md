@@ -12,17 +12,28 @@ atualizado = "2026-09-13"
 +++
 # Frodo e Sam — RC-914
 
-## Definição Sintética
+## 1. Gênese e Definição
+
+### Definição Sintética
+
 Frodo e Sam — conceito desenvolvido na palestra «Delírio Humano a Insensatez Espiritual da Busca Religiosa» (P2023-10-15).
 
-## Termos Relacionados
+### Termos Relacionados
+
 | Termo | Código | Relação | Direção | Notas |
 |---|---|---|---|---|
 | Dignidade como Critério de Consciência | RC-722 | associado | <-> | - |
 | Vício Devocional | RC-749 | associado | <-> | - |
 
+## 2. Natureza e Atributos
 
-## Ampliação
-### P2023-10-15
+## 3. Hierarquia e Geopolítica
+
+## 4. Histórico e Eventos Cósmicos
+
+## 5. Lentes Curatoriais e Quarentenas
+
 **Fonte:** palestra «Delírio Humano a Insensatez Espiritual da Busca Religiosa» (15/10/2023).
 **Trecho verbatim:** «Em nome do bem, senhor Frodo. Então assim, na boca de um personagem secundário, de um filme, tava lá uma mensagem que para mim é de uma extrema riqueza filosófica.»
+
+## 6. Histórico Curatorial e Auditoria

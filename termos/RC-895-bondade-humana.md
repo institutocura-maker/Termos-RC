@@ -12,18 +12,14 @@ atualizado = "2026-09-13"
 +++
 # Bondade Humana — RC-895
 
-## Definição Sintética
+## 1. Gênese e Definição
+
+### Definição Sintética
+
 A Bondade Humana é a capacidade única do ser humano de fazer o bem — uma capacidade que foge ao controle do big data dos arcontes e que eleva a vibração humana a um padrão incontrolável. Os arcontes, ao perceberem essa bondade nos humanos, tentaram destruí-la, pois ela escapa ao sistema de controle do genoma humano. Enquanto os arcontes não sabem fazer o bem (só podem não fazer o mal), e os seres do paraíso são de uma "gestosa inutilidade" em termos de eficácia do bem, só os humanos — apesar de "horrorosos" — têm a capacidade real de fazer o bem.
 
-## Etimologia e Grafias
-- **Grafia preferida:** Bondade Humana
-- **Variações:** coração bondoso; fazer o bem; próximo
-- **Idioma de origem:** Português
+### Termos Relacionados
 
-## Contexto / Origem
-Conceito desenvolvido na palestra «A Falsa Queda do Ser Humano e a Indignidade Entronizada como Religião» (P2024-02-04). Ellam ilustra com a parábola do Bom Samaritano de Jesus, onde o samaritano (considerado de quinta categoria) é o único que para para ajudar o homem caído na estrada, enquanto o fariseu e o saduceu (sangue azul) passam reto.
-
-## Termos Relacionados
 | Termo | Código | Relação | Direção | Notas |
 |---|---|---|---|---|
 | Jesus | RC-072 | associado | <-> | a parábola do Bom Samaritano |
@@ -31,16 +27,32 @@ Conceito desenvolvido na palestra «A Falsa Queda do Ser Humano e a Indignidade 
 | Dignidade como Critério de Consciência | RC-722 | associado | <-> | a bondade como expressão da dignidade |
 | Fornos Replicadores (naves/estações de semeadura de vida do Projeto Talm; Awayen, Awaylengan e Awaymaion) | RC-771 | associado | <-> | o big data dos arcontes |
 
-## Fontes
+### Etimologia e Grafias
+
+- **Grafia preferida:** Bondade Humana
+- **Variações:** coração bondoso; fazer o bem; próximo
+- **Idioma de origem:** Português
+
+### Contexto / Origem
+
+Conceito desenvolvido na palestra «A Falsa Queda do Ser Humano e a Indignidade Entronizada como Religião» (P2024-02-04). Ellam ilustra com a parábola do Bom Samaritano de Jesus, onde o samaritano (considerado de quinta categoria) é o único que para para ajudar o homem caído na estrada, enquanto o fariseu e o saduceu (sangue azul) passam reto.
+
+## 2. Natureza e Atributos
+
+**Fonte:** palestra «A Falsa Queda do Ser Humano e a Indignidade Entronizada como Religião» (04/02/2024).
+**Trecho verbatim:** «Porque nós temos o coração bondoso. É, é o que foi dito aí. Os arcontos quando perceberam que os humanos tinham essa coisa de bondade, eles caram que é isso? Que é isso? Que é isso? E quiseram destruir isso nos humanos, porque isso eleva a vibração dos humanos a um padrão que foge ao controle do big data, ou seja, da maneira como os clones e os arcontes acompanham o próprio genoma humano.»
+**Trecho verbatim 2:** «Só quem pode fazer o bem nessa história são os humanos. Anunque não sabe fazer o bem porque ele tem um padrão de demência que o limita. Ele pode não fazer o mal e não faz. Os anarcos atualmente não fazem. Eles se educaram, mas eles não se mov entam no sentido de fazer o bem. Só alguns anunaques humanizados é que já têm esse comportamento.»
+
+## 3. Hierarquia e Geopolítica
+
+## 4. Histórico e Eventos Cósmicos
+
+## 5. Lentes Curatoriais e Quarentenas
+
+## 6. Histórico Curatorial e Auditoria
+
+### Fontes
+
 | Fonte | Localização | Tipo |
 |---|---|---|
 | P2024-02-04 | A Falsa Queda do Ser Humano e a Indignidade Entronizada como Religião (palestra) | transcrição automatizada; citação |
-
-## Ampliação
-### P2024-02-04
-
-**Fonte:** palestra «A Falsa Queda do Ser Humano e a Indignidade Entronizada como Religião» (04/02/2024).
-
-**Trecho verbatim:** «Porque nós temos o coração bondoso. É, é o que foi dito aí. Os arcontos quando perceberam que os humanos tinham essa coisa de bondade, eles caram que é isso? Que é isso? Que é isso? E quiseram destruir isso nos humanos, porque isso eleva a vibração dos humanos a um padrão que foge ao controle do big data, ou seja, da maneira como os clones e os arcontes acompanham o próprio genoma humano.»
-
-**Trecho verbatim 2:** «Só quem pode fazer o bem nessa história são os humanos. Anunque não sabe fazer o bem porque ele tem um padrão de demência que o limita. Ele pode não fazer o mal e não faz. Os anarcos atualmente não fazem. Eles se educaram, mas eles não se mov entam no sentido de fazer o bem. Só alguns anunaques humanizados é que já têm esse comportamento.»

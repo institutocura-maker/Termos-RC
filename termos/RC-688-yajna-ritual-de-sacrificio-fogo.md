@@ -12,16 +12,14 @@ atualizado = "2026-08-15"
 +++
 # Yajna (ritual de sacrifício/fogo) — RC-688
 
-## Definição Sintética
+## 1. Gênese e Definição
+
+### Definição Sintética
+
 Termo extraído e aprovado na curadoria de P2025-05-31.
 
-## Etimologia e Grafias
-Forma preferida: Yajna (ritual de sacrifício/fogo).
+### Termos Relacionados
 
-## Contexto / Origem
-O Mistério da Árvore da Vida e a Urdidura de Metatron.
-
-## Termos Relacionados
 | Termo | Código | Relação | Direção | Notas |
 |---|---|---|---|---|
 | Adhyajna | RC-016 | relaciona-se-a | -> | - |
@@ -29,14 +27,32 @@ O Mistério da Árvore da Vida e a Urdidura de Metatron.
 | Rakshasas | RC-581 | relaciona-se-a | <- | - |
 | Descendência de Kadru (Nagas, Uragas e Maharagas) | RC-664 | relaciona-se-a | <- | - |
 
-## Seres Associados
-Consultar Base.
+### Etimologia e Grafias
 
-## Fontes
-P2025-05-31.
+Forma preferida: Yajna (ritual de sacrifício/fogo).
 
-## Citações-chave
+### Contexto / Origem
+
+O Mistério da Árvore da Vida e a Urdidura de Metatron.
+
+### Citações-chave
+
 Ver transcrição.
 
-## Observações
+## 3. Hierarquia e Geopolítica
+
+### Seres Associados
+
+Consultar Base.
+
+## 5. Lentes Curatoriais e Quarentenas
+
+### Observações
+
 Teologia comparada e alegações científicas permanecem atribuídas ao palestrante.
+
+## 6. Histórico Curatorial e Auditoria
+
+### Fontes
+
+P2025-05-31.

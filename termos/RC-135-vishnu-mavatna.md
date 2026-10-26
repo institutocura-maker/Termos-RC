@@ -12,23 +12,14 @@ atualizado = "2026-10-23"
 +++
 # Vishnu (Mavatna) — RC-135
 
-## Definição Sintética
+## 1. Gênese e Definição
+
+### Definição Sintética
 
 **Vishnu** é o segundo da Trimurti (RC-104); na RC, **Mavatna** é o nome que assume após o mergulho (variação de Prabrajna, RC-152). Antes do Projeto Talm, Vishnu e Shiva trabalharam "sempre em cima" do código de Brahma (RC-037), sem grandes ousadias; o forno de Vishnu é Awaymaion (RC-499).
 
-## Contexto / Origem
+### Termos Relacionados
 
-**Materialização (não é criação).** `RC-135` vivia só no cadastro: linha em `ferramentas/dados_termos.py`, `ficha=False`, sem arquivo em `termos/`. A virada foi autorizada pelo despacho do Curador de 29/08/2026, na linha que trata das ordens nomeadas sem arquivo, e executada pelo Motor Único em `ciclos/P2022-05-07/`.
-
-Com isso:
-
-* a Base ganha um **arquivo**; 0 termos novos e **0 relações novas** por este ciclo;
-- o cadastro lista 9 código(s) em `relacionados`: 6 com aresta correspondente em `RELACOES` e 0 sem arquivo de ficha. A ficha **declara** a lacuna em vez de preenchê-la — abrir aresta é decisão curatorial;
-- as fontes já registradas no cadastro são `B031`, `B024`, `B044`, `B001`, `B033`, `B016`, `B014`, `B020`, `B021`, `B022`, `B051`, `B036`, `B060`, `P2022-12-17`, `P2021-12-04`, `P2026-07-30`, `P2024-05-04`, `P2026-04-02`, `P2025-03-15`, `P2025-02-16`, `P2024-11-30`, `P2024-11-09`, `P2024-08-03`, `P2024-07-14`, `P2023-04-15`, `P2023-04-29`, `P2020-05-09`, `P2025-02-22`, `P2022-05-07`.
-
-**Origem do conteúdo da ampliação:** palestra `P2022-05-07 — Shiva, o Projeto Talm e os Mistérios de Awaylengam` (07/05/2022). Transcrição automatizada, **não conferida com o áudio**; cada aspa foi recortada do `original.txt` pelo índice de âncoras do motor e conferida byte a byte pelo portão B. Nada foi digitado de memória.
-
-## Termos Relacionados
 | Termo | Código | Relação | Direção | Notas |
 |---|---|---|---|---|
 | Sophia (Cristo Cósmico) | RC-009 | é-um | <- | - |
@@ -65,45 +56,68 @@ Com isso:
 | Centro Alquímico-Farmacopédico | RC-789 | associado | <-> | - |
 | Eru Ilúvatar (criador no Silmarillion) | RC-843 | associado | <-> | - |
 
-## Ampliação — STT26-EXTRATERRESTRES_TECNOLOGIA (Eixo STT26 — Extraterrestres, tecnologia e cosmos (derivados normalizados))
+### Contexto / Origem
 
-- **[STT26-07 · Vishnu (Mavatna)]** «Mas na medida em que Shiva apareceu, criou o Shiva-loka. Quando o Vishnu surgiu, criou o Vishnu-loka. Aí Indra, com inveja, também resolveu criar.» (U0166 · chars 21444–21590) — Pérola homologada pelo Curador em 22/10/2026; corte literal conferido pelo Motor antes do pouso na Base.
-
-## Ampliação — STT26-EXPERIENCIA_ESPIRITUAL_ETICA (Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados))
-
-- **[STT26-08 · Vishnu (Mavatna)]** «E ao que consta, tanto o ser B, Adi Savna, quanto o ser Adi Mavatma, mergulharam no caos, como Shiva e Vishnu, para ajudar.» (U0933 · chars 66452–66575) — Candidata de cotejo; evidência `STT26-08-RC-135-001`, grafia encontrada `Vishnu`; decisão por lote `STT26-08: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
-
-## Ampliação — STT26-MITOLOGIAS_REINTEGRACAO (Eixo STT26 — Mitologias, tradições e eixo de reintegração (derivados normalizados))
-
-- **[STT26-13 · Vishnu (Mavatna)]** «Aí, depois que um caiu, os outros dois mergulharam e a briga continuou aqui dentro. E esses três seres, indo agora para a perspectiva hindu-ariana, chamada Brahma, Vishnu e Shiva, sempre brigaram para ver quem dos três havia criado, de fato, a criação antes deles mergulharem, e agora que estavam caídos, quem dos três comandava isso aqui.» (U0590 · chars 132120–132459) — Candidata de cotejo; evidência `STT26-13-RC-135-001`, grafia encontrada `Vishnu`; decisão por lote `STT26-13: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
-
-
-## Ampliação — STT26-SOCIEDADE_CONTEMPORANEA (Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados))
-
-- **[STT26-19 · Vishnu (Mavatna)]** «A confusão é que o caso do eu, de Javé, desalmado, entre aspas, que ele é, ou ligado de uma forma absolutamente impossível de ser retratado em palavras, com parte do espírito dele, que tem problemas, mas como hoje é administrado pelo ser chamado Jesus, enquanto esse espírito foi somente Vishnu, morre em soro, Sophia, ele não conseguia dar um upgrade nele devido ao fato de ele ter parte dele mesmo com problemas lá atrás devido ao corpo mental ter se apartado, déjà vu.» (U1221 · chars 184228–184700) — Candidata de cotejo; evidência `STT26-19-RC-135-001`, grafia encontrada `Vishnu`; decisão por lote `STT26-19: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
-
-
-## Ampliação — OIDR26-01 (Onda incremental dry-run — Anunnaki, genética e humanidade (derivados normalizados))
-
-- **[P1 · Vishnu (Mavatna)]** «e resolvendo assim a questão de como produzir um avatar humano da linhagem de Vishnu e de Sofia entre os humanos da história da Arca da Aliança que um dia eu vou contar que também tem a ver com essa questão mas vocês nem imaginam em que sentido também é algo que ninguém sabe aqui na Terra e não está escrito em lugar nenhum eles se dedicaram a fazer aquilo no caso dos Anunnakis eles tentaram umas duas ou três alternativas, mas a alternativa que funcionava para Javé, no caso dos Anunnakis, era via o padrão feminino dos Anunnakis.» (U0465) — candidata de cotejo ampliado; evidência `OIDR26-01-RC-135-001`, grafia literal `Vishnu`, sem homologação de pérola.
-
-
-## Ampliação — OIDR26-02 (Onda incremental dry-run — Mitologias, tradições e reintegração (derivados normalizados))
+**Materialização (não é criação).** `RC-135` vivia só no cadastro: linha em `ferramentas/dados_termos.py`, `ficha=False`, sem arquivo em `termos/`. A virada foi autorizada pelo despacho do Curador de 29/08/2026, na linha que trata das ordens nomeadas sem arquivo, e executada pelo Motor Único em `ciclos/P2022-05-07/`.
+Com isso:
+* a Base ganha um **arquivo**; 0 termos novos e **0 relações novas** por este ciclo;
+- o cadastro lista 9 código(s) em `relacionados`: 6 com aresta correspondente em `RELACOES` e 0 sem arquivo de ficha. A ficha **declara** a lacuna em vez de preenchê-la — abrir aresta é decisão curatorial;
+- as fontes já registradas no cadastro são `B031`, `B024`, `B044`, `B001`, `B033`, `B016`, `B014`, `B020`, `B021`, `B022`, `B051`, `B036`, `B060`, `P2022-12-17`, `P2021-12-04`, `P2026-07-30`, `P2024-05-04`, `P2026-04-02`, `P2025-03-15`, `P2025-02-16`, `P2024-11-30`, `P2024-11-09`, `P2024-08-03`, `P2024-07-14`, `P2023-04-15`, `P2023-04-29`, `P2020-05-09`, `P2025-02-22`, `P2022-05-07`.
+**Origem do conteúdo da ampliação:** palestra `P2022-05-07 — Shiva, o Projeto Talm e os Mistérios de Awaylengam` (07/05/2022). Transcrição automatizada, **não conferida com o áudio**; cada aspa foi recortada do `original.txt` pelo índice de âncoras do motor e conferida byte a byte pelo portão B. Nada foi digitado de memória.
 
 - **[P2 · Vishnu (Mavatna)]** «Porque a primeira geração, Khaos, Tarta, Eros, blá, blá, blá, na mitologia grega, vamos chamar agora, usando os termos da mitologia ariana hindu, Brahma, Vishnu, Shiva, esses seres jamais saíram desse universo divino.» (U0095) — candidata de cotejo ampliado; evidência `OIDR26-02-RC-135-001`, grafia literal `Vishnu`, sem homologação de pérola.
 
+### Citações-chave
 
-## Ampliação — OIDR26-03 (Onda incremental dry-run — Cosmogonia e história cósmica (derivados normalizados))
+> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+- «Os seguidores de Vishnu dizem que a primeira encarnação dele foi Matsya, como peixe, na época do grande dilúvio, para salvar informações que estavam reproduzidas em pedras, em manuscritos [...] Isso não é, entre aspas, real, mas de fato, pelas fofocas na espiritualidade, o senhor Vishnu no tempo […]» — *ver:* **Ampliação — P2024-03-02 (O Drama Espiritual de Jesus)**
+- «Vishnu se fez um javali e matou o demônio Hiranyaksha, que era filho de Shiva e Brama, da mistura do DNA dos demos [...] Brama disse: 'Quais os animais que você que é antídoto contra eles?' A citou todos os animais que ele se lembrou, mas ele esqueceu javali.» — *ver:* **Ampliação — P2024-03-02 (O Drama Espiritual de Jesus)**
+- «A segunda encarnação avatárica de Vishnu é esse nome chamado Kurma, que significa em sânscrito tartaruga [...] Vishnu recebeu uma comunidade de deuses na sua loca chamada Vaikuntha.» — *ver:* **Ampliação — P2024-03-02 (O Drama Espiritual de Jesus)**
 
-- **[P3 · Vishnu (Mavatna)]** «Desse ovo cósmico, cerca de 4, 5 bilhões de anos depois que o universo se formou, nesse universo vizinho, Brahma e seus descendentes, Vishnu e seus descendentes, Shiva e seus descendentes e outras gerações de seres demoníacos, todos eles, cerca de 4, 5, 6 bilhões de anos depois, eles perceberam que estavam falidos.» (U0207) — candidata de cotejo ampliado; evidência `OIDR26-03-RC-135-001`, grafia literal `Vishnu`, sem homologação de pérola.
+- **[Vishnu, o preservador] (U0005)** «E é por isso que Vno é conhecido na tradição hindu como o preservador.» — Vishnu (RC-135, STT 'Vno/Virgno/Virgino') é conhecido na tradição hindu como 'o preservador': cabe a ele o modelo de criação possível no caos primeiro. [Fonte: P2012-02-19]
 
+- **[Kurma (tartaruga) — segunda "encarnação", recebeu deuses na loca Vaikuntha]:** «A segunda encarnação avatárica de Vishnu é esse nome chamado Kurma, que significa em sânscrito tartaruga [...] Vishnu recebeu uma comunidade de deuses na sua loca chamada Vaikuntha.» — «Tem uma loca X composta por algo parecido com o que hoje a gente chama de leite. E se esse leite fosse batido [...] da efervescência dos elementos químicos surgiria algo.» — ver RC-734 (Samudra Manthana). [Fonte: P2024-03-02]
 
-## Ampliação — OIDR26-04 (Onda incremental dry-run — Experiência espiritual e ética evolutiva (derivados normalizados))
+## 2. Natureza e Atributos
+
+- **[Vishnu — trabalhando sobre o código de Brahma] (U0003)** «Mas Chiva e Vído trabalharam sempre em cima.» — Chiva e Vishnu sempre trabalharam sobre o código de Brahma, sem grandes ousadias, até o Projeto Talm. [Fonte: P2022-05-07]
+
+- **[Varaha (javali) — matou Hiranyaksha]:** «Vishnu se fez um javali e matou o demônio Hiranyaksha, que era filho de Shiva e Brama, da mistura do DNA dos demos [...] Brama disse: 'Quais os animais que você que é antídoto contra eles?' A citou todos os animais que ele se lembrou, mas ele esqueceu javali.» — ver RC-642 (Narasimha). [Fonte: P2024-03-02]
+
+## 3. Hierarquia e Geopolítica
+
+- **[P1 · Vishnu (Mavatna)]** «e resolvendo assim a questão de como produzir um avatar humano da linhagem de Vishnu e de Sofia entre os humanos da história da Arca da Aliança que um dia eu vou contar que também tem a ver com essa questão mas vocês nem imaginam em que sentido também é algo que ninguém sabe aqui na Terra e não está escrito em lugar nenhum eles se dedicaram a fazer aquilo no caso dos Anunnakis eles tentaram umas duas ou três alternativas, mas a alternativa que funcionava para Javé, no caso dos Anunnakis, era via o padrão feminino dos Anunnakis.» (U0465) — candidata de cotejo ampliado; evidência `OIDR26-01-RC-135-001`, grafia literal `Vishnu`, sem homologação de pérola.
 
 - **[P4 · Vishnu (Mavatna)]** «mas como essas reflexões como essas notícias essas informações iriam desagradar e perturbar isso e aquilo isso e a lógica desses seres não são os espíritos são seres do universo vizinho como muito bem disse a Juscelia são os arcontes os deuses, não estamos falando aqui de espíritos esses seres eles vivem dessa forma medíocre, eles não têm vida própria porque faliram há muito tempo e eles vivem o que as espécies que eles criam conseguem vivenciar olhem bem o que eu estou dizendo esses seres, Brahma, Vishnu, Shiva descendentes de Vishnu, Shiva, Brahma seja lá o nome que a gente quiser dar ou a ótica mitológica que a gente observar esses seres todos Eles são mantidos vivos a partir dos efluvios das espécies que eles criam E a vida deles, como não tem maiores atrativos devido à demência que os marca Essa demência só permite a eles viver de apostas e dos desdobramentos que isso provoca No lento processo de evolução que mal eles conseguem produzir de acordo com os limites impostos pelo grau de demência que lhes marca.» (U0240) — candidata de cotejo ampliado; evidência `OIDR26-04-RC-135-001`, grafia literal `Vishnu`, sem homologação de pérola.
 
+## 4. Histórico e Eventos Cósmicos
 
-## Fontes
+- **[P3 · Vishnu (Mavatna)]** «Desse ovo cósmico, cerca de 4, 5 bilhões de anos depois que o universo se formou, nesse universo vizinho, Brahma e seus descendentes, Vishnu e seus descendentes, Shiva e seus descendentes e outras gerações de seres demoníacos, todos eles, cerca de 4, 5, 6 bilhões de anos depois, eles perceberam que estavam falidos.» (U0207) — candidata de cotejo ampliado; evidência `OIDR26-03-RC-135-001`, grafia literal `Vishnu`, sem homologação de pérola.
+
+- **[Vishnu — o terceiro logos] (U0006)** «Aí tem o terceiro logos que pôs tudo isso para evoluir, que foi virgino quando a força da sexualidade, fazendo com que a oxitocina surgisse.» — Vishnu (STT "virgino/virgno") como o 3º logos: pôs a vida a evoluir pela sexualidade, fazendo surgir a oxitocina. [Fonte: P2024-06-16]
+
+- **[Matsya (peixe) — primeira "encarnação" de Vishnu para salvar informações do dilúvio]:** «Os seguidores de Vishnu dizem que a primeira encarnação dele foi Matsya, como peixe, na época do grande dilúvio, para salvar informações que estavam reproduzidas em pedras, em manuscritos [...] Isso não é, entre aspas, real, mas de fato, pelas fofocas na espiritualidade, o senhor Vishnu no tempo fez isso: criar alguém, um peixe, devido ao dilúvio.» — ver RC-757 (Vaishnavismo). [Fonte: P2024-03-02]
+
+## 5. Lentes Curatoriais e Quarentenas
+
+### Observações
+
+### Observações sobre o Estado da Malha
+* **Grafia STT:** 'Vído' = Vishnu, 'Chiva' = Shiva. 'Trabalharam sempre em cima' = sobre o código de Brahma, até a 'carreira solo' do Projeto Talm.
+* **Trava aplicável**: nenhuma além das gerais do despacho.
+
+## 6. Histórico Curatorial e Auditoria
+
+- **[STT26-07 · Vishnu (Mavatna)]** «Mas na medida em que Shiva apareceu, criou o Shiva-loka. Quando o Vishnu surgiu, criou o Vishnu-loka. Aí Indra, com inveja, também resolveu criar.» (U0166 · chars 21444–21590) — Pérola homologada pelo Curador em 22/10/2026; corte literal conferido pelo Motor antes do pouso na Base.
+
+- **[STT26-08 · Vishnu (Mavatna)]** «E ao que consta, tanto o ser B, Adi Savna, quanto o ser Adi Mavatma, mergulharam no caos, como Shiva e Vishnu, para ajudar.» (U0933 · chars 66452–66575) — Candidata de cotejo; evidência `STT26-08-RC-135-001`, grafia encontrada `Vishnu`; decisão por lote `STT26-08: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+- **[STT26-13 · Vishnu (Mavatna)]** «Aí, depois que um caiu, os outros dois mergulharam e a briga continuou aqui dentro. E esses três seres, indo agora para a perspectiva hindu-ariana, chamada Brahma, Vishnu e Shiva, sempre brigaram para ver quem dos três havia criado, de fato, a criação antes deles mergulharem, e agora que estavam caídos, quem dos três comandava isso aqui.» (U0590 · chars 132120–132459) — Candidata de cotejo; evidência `STT26-13-RC-135-001`, grafia encontrada `Vishnu`; decisão por lote `STT26-13: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+- **[STT26-19 · Vishnu (Mavatna)]** «A confusão é que o caso do eu, de Javé, desalmado, entre aspas, que ele é, ou ligado de uma forma absolutamente impossível de ser retratado em palavras, com parte do espírito dele, que tem problemas, mas como hoje é administrado pelo ser chamado Jesus, enquanto esse espírito foi somente Vishnu, morre em soro, Sophia, ele não conseguia dar um upgrade nele devido ao fato de ele ter parte dele mesmo com problemas lá atrás devido ao corpo mental ter se apartado, déjà vu.» (U1221 · chars 184228–184700) — Candidata de cotejo; evidência `STT26-19-RC-135-001`, grafia encontrada `Vishnu`; decisão por lote `STT26-19: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+### Fontes
+
 | Obra (sigla) | Título | Página | Tipo |
 |---|---|---|---|
 | OIDR26-04 | Onda incremental dry-run — Experiência espiritual e ética evolutiva (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
@@ -131,44 +145,8 @@ Com isso:
 | B036 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
 | B060 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
 
-## Fontes
+### Fontes
+
 | Fonte | Localização | Tipo |
 |---|---|---|
 | P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |
-## Citações-chave
-
-> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
-
-- «Os seguidores de Vishnu dizem que a primeira encarnação dele foi Matsya, como peixe, na época do grande dilúvio, para salvar informações que estavam reproduzidas em pedras, em manuscritos [...] Isso não é, entre aspas, real, mas de fato, pelas fofocas na espiritualidade, o senhor Vishnu no tempo […]» — *ver:* **Ampliação — P2024-03-02 (O Drama Espiritual de Jesus)**
-- «Vishnu se fez um javali e matou o demônio Hiranyaksha, que era filho de Shiva e Brama, da mistura do DNA dos demos [...] Brama disse: 'Quais os animais que você que é antídoto contra eles?' A citou todos os animais que ele se lembrou, mas ele esqueceu javali.» — *ver:* **Ampliação — P2024-03-02 (O Drama Espiritual de Jesus)**
-- «A segunda encarnação avatárica de Vishnu é esse nome chamado Kurma, que significa em sânscrito tartaruga [...] Vishnu recebeu uma comunidade de deuses na sua loca chamada Vaikuntha.» — *ver:* **Ampliação — P2024-03-02 (O Drama Espiritual de Jesus)**
-
-
-## Ampliação
-### P2022-05-07 (Shiva, o Projeto Talm e os Mistérios de Awaylengam)
-
-- **[Vishnu — trabalhando sobre o código de Brahma] (U0003)** «Mas Chiva e Vído trabalharam sempre em cima.» — Chiva e Vishnu sempre trabalharam sobre o código de Brahma, sem grandes ousadias, até o Projeto Talm.
-
-### P2024-06-16 (O Projeto TALM, os Fenvans e os Humanos)
-
-- **[Vishnu — o terceiro logos] (U0006)** «Aí tem o terceiro logos que pôs tudo isso para evoluir, que foi virgino quando a força da sexualidade, fazendo com que a oxitocina surgisse.» — Vishnu (STT "virgino/virgno") como o 3º logos: pôs a vida a evoluir pela sexualidade, fazendo surgir a oxitocina.
-
-### P2012-02-19 (Xadrez Cósmico de Brahma, Vishnu e Shiva)
-
-- **[Vishnu, o preservador] (U0005)** «E é por isso que Vno é conhecido na tradição hindu como o preservador.» — Vishnu (RC-135, STT 'Vno/Virgno/Virgino') é conhecido na tradição hindu como 'o preservador': cabe a ele o modelo de criação possível no caos primeiro.
-
-## Ampliação
-### P2024-03-02 (O Drama Espiritual de Jesus)
-
-- **[Matsya (peixe) — primeira "encarnação" de Vishnu para salvar informações do dilúvio]:** «Os seguidores de Vishnu dizem que a primeira encarnação dele foi Matsya, como peixe, na época do grande dilúvio, para salvar informações que estavam reproduzidas em pedras, em manuscritos [...] Isso não é, entre aspas, real, mas de fato, pelas fofocas na espiritualidade, o senhor Vishnu no tempo fez isso: criar alguém, um peixe, devido ao dilúvio.» — ver RC-757 (Vaishnavismo).
-
-- **[Kurma (tartaruga) — segunda "encarnação", recebeu deuses na loca Vaikuntha]:** «A segunda encarnação avatárica de Vishnu é esse nome chamado Kurma, que significa em sânscrito tartaruga [...] Vishnu recebeu uma comunidade de deuses na sua loca chamada Vaikuntha.» — «Tem uma loca X composta por algo parecido com o que hoje a gente chama de leite. E se esse leite fosse batido [...] da efervescência dos elementos químicos surgiria algo.» — ver RC-734 (Samudra Manthana).
-
-- **[Varaha (javali) — matou Hiranyaksha]:** «Vishnu se fez um javali e matou o demônio Hiranyaksha, que era filho de Shiva e Brama, da mistura do DNA dos demos [...] Brama disse: 'Quais os animais que você que é antídoto contra eles?' A citou todos os animais que ele se lembrou, mas ele esqueceu javali.» — ver RC-642 (Narasimha).
-
-
-## Observações
-### Observações sobre o Estado da Malha
-
-* **Grafia STT:** 'Vído' = Vishnu, 'Chiva' = Shiva. 'Trabalharam sempre em cima' = sobre o código de Brahma, até a 'carreira solo' do Projeto Talm.
-* **Trava aplicável**: nenhuma além das gerais do despacho.

@@ -12,25 +12,14 @@ atualizado = "2026-08-29"
 +++
 # Aristocracia Olimpiana e Monarquias Terrestres — RC-736
 
-## Definição Sintética
+## 1. Gênese e Definição
+
+### Definição Sintética
 
 [P2024-09-29] Na cosmologia de Jan Val Ellam, modelo em que seres de gerações divinas ou demo ampliariam prestígio e poder mediante presença genética em linhagens humanas, com monarquias, clãs e genealogias como manifestações terrestres desse processo.
 
-## Etimologia e Grafias
-### Glossário interno
+### Termos Relacionados
 
-- **[P2024-09-29]** Dois projetos recentes: seção interna absorvida de NT-AM02; não possui código autônomo.
-
-## Contexto / Origem
-
-[P2024-09-29] Absorve NT-AM02: os dois projetos que Ellam atribui a Javé/Brahma no fim do ciclo dos portais — Amaterasu–Kami e Orunmilá–Olodus — ficam como ramos internos deste modelo.
-
-## Escopo e evidência
-
-- **[P2024-09-29] Unidades:** U0227–U0254; U0285–U0338; U0368–U0448; U0481–U0499; U0688–U0761; U0909–U0924.
-- **[P2024-09-29] Proveniência:** palestra de Jan Val Ellam; transcrição STT pré-curada e devolutiva oficial do curador.
-
-## Termos Relacionados
 | Termo | Código | Relação | Direção | Notas |
 |---|---|---|---|---|
 | Javé | RC-001 | variação | <- | consolidação: "atribuído-a" → "variação"; direção invertida (forma passiva/inversa) |
@@ -56,62 +45,70 @@ atualizado = "2026-08-29"
 | Susanoo (Teologia Comparada de Ellam) | RC-739 | relaciona-se-a | -> | - |
 | Projeto Orunmilá–Olodus | RC-741 | inclui | -> | - |
 
-## Ampliação
-### P2024-09-29
+### Etimologia e Grafias
+
+### Glossário interno
+- **[P2024-09-29]** Dois projetos recentes: seção interna absorvida de NT-AM02; não possui código autônomo.
+
+### Contexto / Origem
+
+[P2024-09-29] Absorve NT-AM02: os dois projetos que Ellam atribui a Javé/Brahma no fim do ciclo dos portais — Amaterasu–Kami e Orunmilá–Olodus — ficam como ramos internos deste modelo.
+
+## 2. Natureza e Atributos
+
+- **O imperador como "Deus":** "pro japonês, o imperador não é um ser humano: ele é Deus, um Deus descendente de Amaterasu. Simples assim. É assim que eles pensam. Nenhuma monarquia humana tem essa profissão de fé no rei imperador que os japoneses têm." [Fonte: P2024-09-29]
+
+## 3. Hierarquia e Geopolítica
 
 - **Aristocracia Olimpiana × Monarquias Terrestres (P2024-09-29):** as monarquias terrestres como cópia do modelo de dominação da aristocracia olimpiana (Zeus/Atena/Poseidon); "era isso que Javé, Zeus e todo mundo queria: humanos submetidos aos deuses"; "não há nenhum exemplo maior do que [o Japão], porque os japoneses de fato se submetem à casa imperial japonesa — o maior exemplo e o mais atual".
-- **O imperador como "Deus":** "pro japonês, o imperador não é um ser humano: ele é Deus, um Deus descendente de Amaterasu. Simples assim. É assim que eles pensam. Nenhuma monarquia humana tem essa profissão de fé no rei imperador que os japoneses têm."
-- **O ápice da submissão devocional:** "se passar um carro preto e alguém disser 'o imperador tá no carro', todos os japoneses baixam a cabeça e não olham pro carro" — o vínculo com o vício devocional de Javé (destaque da devolutiva O-2).
-
----
-
-### B087 (A Revolta do Anjo Decaído)
 
 - **[B087 p. 21–22 · a Assembleia]** "Zeus e os seus irmãos eram os principais deuses que formavam a **'Assembleia dos Eleitos'**, que tinha o poder de decidir o destino de todos. Entre todos os deuses dessa 'assembleia', o mais poderoso era Zeus." (nota 3 p. 19: **os doze** — Zeus, Hera, Poseidon, Atena, Ares, Deméter, Apolo, Ártemis, Hefesto, Afrodite, Hermes e Dionísio.)
+
 - **[B087 p. 28]** a "elite dos deuses do Olimpo" (Atena "fazia parte da 'elite' — e isso a tornava diferente dos outros 'filhos diretos' de Zeus").
+
 - **[B087 p. 20]** a estrutura de poder: "Ele se julgava importante o suficiente para se autoproclamar como o **'Senhor de Todos os Seres Viventes'** ou o 'Senhor de Toda a Criação', e assim, de título em título, a sua soberba não tinha fim."
-- 0 códigos novos (O-3). **B087 adicionada às fontes** (Devolutiva O-6).
-
----
-
-### B088 (A Revolta do Anjo Decaído)
 
 - **[B088 p. 84 e 88 · ARES]** "o mais terrível de todos, ou seja, **Ares, o deus da Guerra**! Ele e Atena apresentavam as suas armas em punho!" (p. 84); "O 'deus da guerra' era mais 'prático'... **destruía primeiro e perguntava depois**... **Ares era um deus frio e instável!** Ninguém sabia como ele agiria!" (p. 88 — personagem sem termo; registro observacional, O-3).
+
 - **[B088 p. 87–88 · o decreto e a caça]** a ordem irrevogável a Atena e Ares; "Todos os deuses ficaram nervosos porque sabiam que, a partir daquele instante, seriam investigados e pressionados" — "**uma verdadeira 'caça' aos possíveis inimigos de Zeus**" (p. 90).
-- 0 códigos novos (O-3). **B088 adicionada às fontes** (Devolutiva O-6).
 
----
-
-### B089 (A Revolta do Anjo Decaído)
-
-- **[B089 p. 40 · ARES caracterizado]** "**autoritário, violento, controlador, vil e malvado. Destruir, era sempre o seu objetivo, porém, antes... achava melhor se ainda pudesse humilhar o seu adversário... primeiro, ele adorava causar sofrimento, para só depois aniquilar** o adversário. Esse era Ares, o 'Deus da Guerra', filho de Zeus e Hera." (Ares = **nó satélite estrutural** — sem código, Devolutiva O-3.)
 - **[B089 p. 42 · TÉMIS]** "**a minha criadora faz parte dos doze titãs chamados de 'Deuses Anciães'**... Témis é tida entre nós, os olimpianos, como a **'Deusa da Justiça e do Conhecimento'**." (Témis = nó satélite estrutural — sem código.)
+
 - **[B089 p. 88–90 · o conselho e a guerra]** Zeus + Poseidon + Hades + Ares + Atena reunidos; "Convocai a 'Assembleia dos Deuses'!"; **o ataque chefiado por Ares e Atena** — a vitória total ("nenhum deles sobreviveu").
-- 0 códigos novos (O-3). **B089 adicionada às fontes** (Devolutiva O-6).
-
----
-
-### P2023-04-15 (Desafio Crucial: O Alinhamento do Espírito de Jesus)
 
 - **[P2023-04-15 · AS LOCAS PARTICULARES E A ARISTOCRACIA]** "com o tempo Vishnu passou a ter descendência — Nyx, Érebo, Moros, Tânatos... e isso gerou UMA ARISTOCRACIA EM TORNO DA TRIMURTI toda nesse universo vizinho. E essa aristocracia CHEGAVA AO PONTO DE QUE CADA SER IMPORTANTE TINHA SUA PRÓPRIA LOCA OU MORADA OU CÉU PARTICULAR nesse universo vizinho. E isso foi gerando muitos problemas entrópicos e guerra disso e guerra daquilo" — a estrutura social do universo vizinho na voz mais completa.
-- **[P2023-04-15 · A INVASÃO ESTRATÉGICA]** "infelizmente nos últimos 20 ANOS, esse universo começou a ser INVAZIDO por locas desse universo vizinho. PARTE DISSA TEM A VER COM A DISTRIBUIÇÃO ESTRATÉGICA DE FORÇAS DESSE LADO PARA IMPEDIR SOFIA DE CHEGAR SE APROXIMAR DA TERRA"; "os espíritos todos desses seres que estão imantados a esses corpos que estão morrendo no outro lado VIRÃO PARA CÁ. Só que alguns dessas figuras JÁ ESTÃO VINDO PARA CÁ PORQUE ESTÃO CONSEGUINDO TRAZER SEUS CORPOS" ⚠️ quarentena ufológica — o bloco retido na apostila.
-- 0 códigos novos (O-3). Quarentena: ufológica.
-
----
----
----
----
----
-
-### P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
 
 - **[P2023-12-03 · ARISTOCRACIA OLIMPIANA E MONARQUIAS TERRESTRES NA FALA DE 03/12/2023]** «tipo uma rainha da Inglaterra, um rei da Inglaterra, em que todo mundo faz de tudo e de vez em quando ele mostra lá, cara.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2023-04-15`); a entrada desta fonte é de **conteúdo**, não de data.
 
----
+## 4. Histórico e Eventos Cósmicos
+
+## 5. Lentes Curatoriais e Quarentenas
+
+### Escopo e evidência
+
+- **[P2024-09-29] Unidades:** U0227–U0254; U0285–U0338; U0368–U0448; U0481–U0499; U0688–U0761; U0909–U0924.
+
+- **[P2023-04-15 · A INVASÃO ESTRATÉGICA]** "infelizmente nos últimos 20 ANOS, esse universo começou a ser INVAZIDO por locas desse universo vizinho. PARTE DISSA TEM A VER COM A DISTRIBUIÇÃO ESTRATÉGICA DE FORÇAS DESSE LADO PARA IMPEDIR SOFIA DE CHEGAR SE APROXIMAR DA TERRA"; "os espíritos todos desses seres que estão imantados a esses corpos que estão morrendo no outro lado VIRÃO PARA CÁ. Só que alguns dessas figuras JÁ ESTÃO VINDO PARA CÁ PORQUE ESTÃO CONSEGUINDO TRAZER SEUS CORPOS" ⚠️ quarentena ufológica — o bloco retido na apostila.
+
+### Observações
+
+### Cautela editorial
+[P2024-09-29] Alegação extraordinária genética e histórica restrita à interpretação de Ellam. Descendência divina, marcadores genéticos e continuidade monárquica não são apresentados como genealogia ou genética validada.
+
+## 6. Histórico Curatorial e Auditoria
+
+- **[P2024-09-29] Proveniência:** palestra de Jan Val Ellam; transcrição STT pré-curada e devolutiva oficial do curador.
+
+- **O ápice da submissão devocional:** "se passar um carro preto e alguém disser 'o imperador tá no carro', todos os japoneses baixam a cabeça e não olham pro carro" — o vínculo com o vício devocional de Javé (destaque da devolutiva O-2). [Fonte: P2024-09-29]
+
+- 0 códigos novos (O-3). **B087 adicionada às fontes** (Devolutiva O-6).
+
+- 0 códigos novos (O-3). **B088 adicionada às fontes** (Devolutiva O-6).
+
+- **[B089 p. 40 · ARES caracterizado]** "**autoritário, violento, controlador, vil e malvado. Destruir, era sempre o seu objetivo, porém, antes... achava melhor se ainda pudesse humilhar o seu adversário... primeiro, ele adorava causar sofrimento, para só depois aniquilar** o adversário. Esse era Ares, o 'Deus da Guerra', filho de Zeus e Hera." (Ares = **nó satélite estrutural** — sem código, Devolutiva O-3.)
+
+- 0 códigos novos (O-3). **B089 adicionada às fontes** (Devolutiva O-6).
+
+- 0 códigos novos (O-3). Quarentena: ufológica. [Fonte: P2023-04-15]
 
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-736.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
-
-## Observações
-### Cautela editorial
-
-[P2024-09-29] Alegação extraordinária genética e histórica restrita à interpretação de Ellam. Descendência divina, marcadores genéticos e continuidade monárquica não são apresentados como genealogia ou genética validada.

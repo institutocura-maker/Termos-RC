@@ -12,21 +12,14 @@ atualizado = "2026-08-15"
 +++
 # Lei da Mente do Buda — RC-712
 
-## Definição Sintética
+## 1. Gênese e Definição
+
+### Definição Sintética
+
 Fórmula doutrinária da palestra segundo a qual o que se pensa é criado, o que se sente é atraído e aquilo que se aspira modifica o genoma e orienta a autotransformação.
 
-### Escopo rigoroso
+### Termos Relacionados
 
-- não é lei científica;
-- não é citação textual do Buda validada neste projeto;
-- não comprova cura genética, levitação ou caminhada sobre água;
-- registra a formulação doutrinária usada por Ellam.
-
-
-## Contexto / Origem
-A lei é vinculada ao diálogo interior, aos RNA mensageiros, à prática mental, ao campo akáshico e à capacidade de o eu enviar novas informações durante a recomposição da realidade.
-
-## Termos Relacionados
 | Termo | Código | Relação | Direção | Notas |
 |---|---|---|---|---|
 | Protocolo Mental (padrões organizadores da mente) | RC-517 | usa | -> | - |
@@ -44,35 +37,47 @@ A lei é vinculada ao diálogo interior, aos RNA mensageiros, à prática mental
 | Genes Críticos / Genes Dorminhocos | RC-710 | relaciona-se-a | -> | - |
 | Taumaturgia Genético-Química | RC-713 | opõe-se-a | <- | consolidação: "distingue-se-de" → "opõe-se-a" |
 
-## Fontes
+### Escopo rigoroso
+- não é lei científica;
+- não é citação textual do Buda validada neste projeto;
+- não comprova cura genética, levitação ou caminhada sobre água;
+- registra a formulação doutrinária usada por Ellam.
+
+### Contexto / Origem
+
+A lei é vinculada ao diálogo interior, aos RNA mensageiros, à prática mental, ao campo akáshico e à capacidade de o eu enviar novas informações durante a recomposição da realidade.
+
+### Citações-chave
+
+> “O que você pensa, você cria; o que você sente, você atrai; aquilo que aspira, o seu genoma se modifica.”
+
+## Citações Verbatim
+
+- **Trishna, Avidya e "Vatireca" (P2025-05-31 — resposta a Rogério):** Trishna = "tipo de ignorância que faz com que os seres humanos tenham desejos estúpidos... o desejo é a base do sofrimento" (4 Nobres Verdades; Nirvana); Avidya = "quando você não consegue entender que tem um corpo átmico, que você não é isso"; “Vatireca” [STT — REVISAR → CHANCELA 10/09/2026 · F039-L5: AGUARDA-ÁUDIO (uso coerente: trio Avidya/Trishna/Vatireca em RC-563/RC-760; mesma fala) — ver nota] = “pior do que Trishna... o estado natural que nós ostentamos... a gente pensa que é esse corpo e não é".
+
+- **Moksha (RC-618):** "se ancora em níveis profundos de compreensão da ignorância"; "alguns humanos podem evoluir e se libertar. A humanidade jamais" (devoção + corrupção). [Fonte: P2025-05-31]
+
+- **Os três tipos de ignorância (P2025-03-15):** "o Vedanta chama de Avidya; Buda chamava de Trishna; Kapila no Samkhya chamava de Vatireca [STT — REVISAR → CHANCELA 10/09/2026 · F039-L5: AGUARDA-ÁUDIO (ver nota) — ver nota]" — "são três tipos de ignorância que cegam toda a humanidade... você já nasce com eles"; reforço da relação com a Lei da Mente do Buda.
+
+- **Lei da Mente do Buda (P2025-02-15):** "a lei que explica o que você pode fazer em você mesmo. O que você pensa você cria, o que você sente você atrai, o que você aspira a ser, o seu genoma se modifica para você ser aquilo que aspira. Então aquilo se torna realidade."
+
+- **Diálogo interior (Mentalma):** "no Mentalma a gente fala da importância do diálogo constante interior: usar o seu discurso para dizer às suas células o que você quer ser". [Fonte: P2025-02-15]
+
+- **Transtorno cognitivo × religião:** "transtorno cognitivo é quando você acredita em algo que não é verdade, mas que lhe é agradável... Os ateus dizem: quando uma pessoa sozinha fica fazendo maluquice, a gente diz que fulano tá delirando. Quando várias deliram juntas, o nome disso é religião" [quarentena — leitura do autor]. [Fonte: P2025-02-15]
+
+## 5. Lentes Curatoriais e Quarentenas
+
+### Observações
+
+Preservar a atribuição “Lei da Mente do Buda” como nome usado na palestra, sem validar autoria histórica budista.
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-712.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
+
+## 6. Histórico Curatorial e Auditoria
+
+### Fontes
+
 | Fonte | Localização | Tipo |
 |---|---|---|
 | P2025-02-15 | U0830–U0883 | aula/palestra STT |
 
-## Citações-chave
-> “O que você pensa, você cria; o que você sente, você atrai; aquilo que aspira, o seu genoma se modifica.”
-
-## Ampliação
-### P2025-05-31
-
-- **Trishna, Avidya e "Vatireca" (P2025-05-31 — resposta a Rogério):** Trishna = "tipo de ignorância que faz com que os seres humanos tenham desejos estúpidos... o desejo é a base do sofrimento" (4 Nobres Verdades; Nirvana); Avidya = "quando você não consegue entender que tem um corpo átmico, que você não é isso"; “Vatireca” [STT — REVISAR → CHANCELA 10/09/2026 · F039-L5: AGUARDA-ÁUDIO (uso coerente: trio Avidya/Trishna/Vatireca em RC-563/RC-760; mesma fala) — ver nota] = “pior do que Trishna... o estado natural que nós ostentamos... a gente pensa que é esse corpo e não é".
-- **Moksha (RC-618):** "se ancora em níveis profundos de compreensão da ignorância"; "alguns humanos podem evoluir e se libertar. A humanidade jamais" (devoção + corrupção).
-
-
-### P2025-03-15
-
-- **Os três tipos de ignorância (P2025-03-15):** "o Vedanta chama de Avidya; Buda chamava de Trishna; Kapila no Samkhya chamava de Vatireca [STT — REVISAR → CHANCELA 10/09/2026 · F039-L5: AGUARDA-ÁUDIO (ver nota) — ver nota]" — "são três tipos de ignorância que cegam toda a humanidade... você já nasce com eles"; reforço da relação com a Lei da Mente do Buda.
-
-
-### P2025-02-15
-
-- **Lei da Mente do Buda (P2025-02-15):** "a lei que explica o que você pode fazer em você mesmo. O que você pensa você cria, o que você sente você atrai, o que você aspira a ser, o seu genoma se modifica para você ser aquilo que aspira. Então aquilo se torna realidade."
-- **Diálogo interior (Mentalma):** "no Mentalma a gente fala da importância do diálogo constante interior: usar o seu discurso para dizer às suas células o que você quer ser".
-- **Transtorno cognitivo × religião:** "transtorno cognitivo é quando você acredita em algo que não é verdade, mas que lhe é agradável... Os ateus dizem: quando uma pessoa sozinha fica fazendo maluquice, a gente diz que fulano tá delirando. Quando várias deliram juntas, o nome disso é religião" [quarentena — leitura do autor].
-
-## Observações
-Preservar a atribuição “Lei da Mente do Buda” como nome usado na palestra, sem validar autoria histórica budista.
-
-
-> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-712.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

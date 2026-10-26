@@ -12,13 +12,14 @@ atualizado = "2026-09-13"
 +++
 # Bolhas Psíquicas — RC-899
 
-## Definição Sintética
+## 1. Gênese e Definição
+
+### Definição Sintética
+
 As Bolhas Psíquicas são realidades paralelas simultâneas geradas pelo sofrimento e vícios emocionais humanos, que aprisionam a consciência em uma realidade simulada. São produzidas pelos lupos mentais dos humanos e outras estirpes quase racionalizadas, criando domínios onde a consciência fica enjaulada em padrões viciados.
 
-## Contexto / Origem
-Conceito desenvolvido na palestra «A Teia da Vida e o Circuito Oculto dos Deuses» (P2024-01-13). Ellam propõe que a humanidade vive em uma realidade simulada onde o sofrimento e os vícios emocionais geram essas bolhas psíquicas que aprisionam a consciência.
+### Termos Relacionados
 
-## Termos Relacionados
 | Termo | Código | Relação | Direção | Notas |
 |---|---|---|---|---|
 | Conectoma humano (pulsações sinápticas e a sensação de eu) | RC-557 | associado | <-> | os padrões mentais que geram as bolhas |
@@ -28,8 +29,19 @@ Conceito desenvolvido na palestra «A Teia da Vida e o Circuito Oculto dos Deuse
 | Umbrais | RC-903 | associado | <-> | - |
 | Yoga Tibetana dos Sonhos | RC-906 | associado | <-> | - |
 
+### Contexto / Origem
 
-## Ampliação
-### P2024-01-13
+Conceito desenvolvido na palestra «A Teia da Vida e o Circuito Oculto dos Deuses» (P2024-01-13). Ellam propõe que a humanidade vive em uma realidade simulada onde o sofrimento e os vícios emocionais geram essas bolhas psíquicas que aprisionam a consciência.
+
+## 2. Natureza e Atributos
+
+## 3. Hierarquia e Geopolítica
+
 **Fonte:** palestra «A Teia da Vida e o Circuito Oculto dos Deuses» (13/01/2024).
 **Trecho verbatim:** «O autor propõe que a humanidade vive em uma realidade simulada, onde o sofrimento e os vícios emocionais geram bolhas psíquicas e realidades paralelas simultâneas que aprisionam a consciência.»
+
+## 4. Histórico e Eventos Cósmicos
+
+## 5. Lentes Curatoriais e Quarentenas
+
+## 6. Histórico Curatorial e Auditoria

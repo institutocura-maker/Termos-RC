@@ -12,18 +12,14 @@ atualizado = "2026-10-23"
 +++
 # Espiritualidade Superior — RC-059
 
-## Definição Sintética
+## 1. Gênese e Definição
+
+### Definição Sintética
+
 O nível mais alto dos três em que a Revelação Cósmica divide a realidade não caída: o «todo» que contém tudo — inclusive a Criação Indevida, que nela existe como uma «cabeça de alfinete» blindada. É a condição dos Seres Originais (RC-600), que vivem sob os Protocolos / Algoritmos da Perfeição (RC-606), sem tempo, sem distância e sem mérito. Corresponde, na leitura de Ellam, ao «Paraíso» e ao que a tradição gnóstica chamou de Pleroma.
 
-## Etimologia e Grafias
-- Grafia preferida: Espiritualidade Superior
-- Variações: o Todo; o Paraíso; Pleroma (correspondência aproximada, [REVISAR → CHANCELA 10/09/2026 · F040-L5: APROXIMAÇÃO DECLARADA E MANTIDA — ver nota])
-- Uso na Base: nível 1 de 3 (Superior → Operacional → Laboratorial)
+### Termos Relacionados
 
-## Contexto / Origem
-A Espiritualidade Superior é o «lado de fora» do universo: o que não é acidente, não caiu e não precisa de conserto. É dela que partem as mônadas que estruturam os seres da criação caída — «a Espiritualidade Superior, vendo o drama do Criador caído, deu de si mônadas para estruturar os clones que Brahma criava». A Departamentalização da Vida (RC-601) e os corpos búdico (RC-060) e manásico (RC-061) são desdobramentos experimentais a partir deste nível. Distingue-se do Deus Incognoscível / Deidade (RC-052), que não é um nível e sim a Fonte.
-
-## Termos Relacionados
 | Termo | Código | Relação | Direção | Notas |
 |---|---|---|---|---|
 | Adhyagia | RC-012 | associado | <-> | - |
@@ -40,27 +36,43 @@ A Espiritualidade Superior é o «lado de fora» do universo: o que não é acid
 | Colapso da Matriz Quântica (3 níveis) | RC-415 | inclui | <- | - |
 | Departamentalização da Vida | RC-601 | envolve | <- | - |
 | Corpo Átmico | RC-623 | associado | <-> | raiz semântica associado (decisão 3) |
-
 - RC-052 — ver ficha correspondente
 - RC-012 — ver ficha correspondente
 - RC-100 — ver ficha correspondente
 
-## Ampliação — OIDR26-02 (Onda incremental dry-run — Mitologias, tradições e reintegração (derivados normalizados))
+### Etimologia e Grafias
+
+- Grafia preferida: Espiritualidade Superior
+- Variações: o Todo; o Paraíso; Pleroma (correspondência aproximada, [REVISAR → CHANCELA 10/09/2026 · F040-L5: APROXIMAÇÃO DECLARADA E MANTIDA — ver nota])
+- Uso na Base: nível 1 de 3 (Superior → Operacional → Laboratorial)
+
+### Contexto / Origem
+
+A Espiritualidade Superior é o «lado de fora» do universo: o que não é acidente, não caiu e não precisa de conserto. É dela que partem as mônadas que estruturam os seres da criação caída — «a Espiritualidade Superior, vendo o drama do Criador caído, deu de si mônadas para estruturar os clones que Brahma criava». A Departamentalização da Vida (RC-601) e os corpos búdico (RC-060) e manásico (RC-061) são desdobramentos experimentais a partir deste nível. Distingue-se do Deus Incognoscível / Deidade (RC-052), que não é um nível e sim a Fonte.
 
 - **[P2 · Espiritualidade Superior]** «ou falando de forma diferente, os Espíritos disseram, antes desse universo existir, já existia uma espiritualidade superior, pré-existente, incriada.» (U0437) — candidata de cotejo ampliado; evidência `OIDR26-02-RC-059-001`, grafia literal `espiritualidade superior`, sem homologação de pérola.
 
-
-## Ampliação — OIDR26-03 (Onda incremental dry-run — Cosmogonia e história cósmica (derivados normalizados))
-
 - **[P3 · Espiritualidade Superior]** «E aí tem essa história da omissão do universo superior, da espiritualidade superior com relação à omissão que eles têm com a gente.» (U0777) — candidata de cotejo ampliado; evidência `OIDR26-03-RC-059-001`, grafia literal `espiritualidade superior`, sem homologação de pérola.
-
-
-## Ampliação — OIDR26-04 (Onda incremental dry-run — Experiência espiritual e ética evolutiva (derivados normalizados))
 
 - **[P4 · Espiritualidade Superior]** «Os últimos, ou seja, os criados diante dessa extrema confusão que surgiu com a criação indesejável na qual existimos, estes ainda não tiveram tempo espiritual, o conjunto de vidas neles ainda não permitiu que houvesse uma espécie, sim, de evolução da condução espiritual de como os espíritos vivem na erraticidade, ou seja, na espiritualidade, não aquela que existe de todo o século, que a gente chama de paraíso, a espiritualidade superior.» (U0064) — candidata de cotejo ampliado; evidência `OIDR26-04-RC-059-001`, grafia literal `espiritualidade superior`, sem homologação de pérola.
 
+## 2. Natureza e Atributos
 
-## Fontes
+## 3. Hierarquia e Geopolítica
+
+## 4. Histórico e Eventos Cósmicos
+
+## 5. Lentes Curatoriais e Quarentenas
+
+### Observações
+
+Nível de referência de toda a cosmografia da RC — eixo do Volume II da Enciclopédia e caixa «O FORA» do Mapa de Abstração (N0). A correspondência com Pleroma é leitura comparada, não identidade declarada pelo autor.
+> Notas de processo: 2 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-059.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
+
+## 6. Histórico Curatorial e Auditoria
+
+### Fontes
+
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
 | OIDR26-04 | Onda incremental dry-run — Experiência espiritual e ética evolutiva (derivados normalizados) (palestra) | transcrição automatizada; citação |
@@ -79,9 +91,3 @@ A Espiritualidade Superior é o «lado de fora» do universo: o que não é acid
 | P2024-11-09 | — | registro-mestre (fonte censada) |
 | P2024-07-14 | — | registro-mestre (fonte censada) |
 | P2020-04-04 | — | registro-mestre (fonte censada) |
-
-## Observações
-Nível de referência de toda a cosmografia da RC — eixo do Volume II da Enciclopédia e caixa «O FORA» do Mapa de Abstração (N0). A correspondência com Pleroma é leitura comparada, não identidade declarada pelo autor.
-
-
-> Notas de processo: 2 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-059.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

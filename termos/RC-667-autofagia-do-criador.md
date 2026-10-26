@@ -12,16 +12,14 @@ atualizado = "2026-08-15"
 +++
 # Autofagia do Criador — RC-667
 
-## Definição Sintética
+## 1. Gênese e Definição
+
+### Definição Sintética
+
 Autofagia do Criador — condição de Brahma recém-reconstruído alimentando-se de si mesmo.
 
-## Etimologia e Grafias
-Forma validada pelo curador.
+### Termos Relacionados
 
-## Contexto / Origem
-P2026-02-28.
-
-## Termos Relacionados
 | Termo | Código | Relação | Direção | Notas |
 |---|---|---|---|---|
 | Javé | RC-001 | requer | -> | consolidação: "condição-de" → "requer" |
@@ -29,27 +27,44 @@ P2026-02-28.
 | Simultaneidade Reversa | RC-628 | associado | <-> | - |
 | Face Microbiana do Criador | RC-641 | associado | <-> | - |
 
-## Seres Associados
-Consultar Base.
+### Etimologia e Grafias
 
-## Fontes
+Forma validada pelo curador.
+
+### Contexto / Origem
+
 P2026-02-28.
 
-## Fontes
+### Citações-chave
+
+Ver transcrição.
+
+## Citações Verbatim
+
+- **[Autofagia de Brama/Javé — neurose e ansiedade]:** «Ele dava um jeito de não se comer todo, para deixar uma parte dele viva, se alimentando dele mesmo [...] Essa sensação de um psiquismo que o tempo inteiro precisa sobreviver a cada segundo novo é isso que a gente chama de neurose, ansiedade.» — ver RC-001 (Javé). [Fonte: P2024-03-02]
+
+- **[Vício em jogo — artimanha de Vishnu e Shiva para manter Brama ativo]:** «Vocês sabem qual a artimanha que eles dois [Vishnu e Shiva] usaram para manter Brama o tempo todo ativo? Provocar nele desafios através de apostas. O vício em jogo vem dos deuses, porque era a forma de manter todo mundo acordado e tentar fixar um dos padrões de metamorfose durante aquele jogo.» — ver RC-001 (Javé), RC-135 (Vishnu), RC-102 (Shiva). [Fonte: P2024-03-02]
+
+## 3. Hierarquia e Geopolítica
+
+### Seres Associados
+
+Consultar Base.
+
+## 5. Lentes Curatoriais e Quarentenas
+
+### Observações
+
+Termo candidato.
+
+## 6. Histórico Curatorial e Auditoria
+
+### Fontes
+
+P2026-02-28.
+
+### Fontes
+
 | Fonte | Localização | Tipo |
 |---|---|---|
 | P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |
-
-## Citações-chave
-Ver transcrição.
-
-## Ampliação
-### P2024-03-02 (O Drama Espiritual de Jesus)
-
-- **[Autofagia de Brama/Javé — neurose e ansiedade]:** «Ele dava um jeito de não se comer todo, para deixar uma parte dele viva, se alimentando dele mesmo [...] Essa sensação de um psiquismo que o tempo inteiro precisa sobreviver a cada segundo novo é isso que a gente chama de neurose, ansiedade.» — ver RC-001 (Javé).
-
-- **[Vício em jogo — artimanha de Vishnu e Shiva para manter Brama ativo]:** «Vocês sabem qual a artimanha que eles dois [Vishnu e Shiva] usaram para manter Brama o tempo todo ativo? Provocar nele desafios através de apostas. O vício em jogo vem dos deuses, porque era a forma de manter todo mundo acordado e tentar fixar um dos padrões de metamorfose durante aquele jogo.» — ver RC-001 (Javé), RC-135 (Vishnu), RC-102 (Shiva).
-
-
-## Observações
-Termo candidato.

@@ -12,23 +12,14 @@ atualizado = "2026-10-23"
 +++
 # Cronos (titã) — RC-841
 
-## Definição Sintética
+## 1. Gênese e Definição
+
+### Definição Sintética
 
 Cronos (titã): na genealogia grega, filho de Uranos e pai de Zeus — a geração dos Titãs; usurpou o pai e foi usurpado pelo filho, lido como eco distorcido da história biodêmica.
 
-## Contexto / Origem
+### Termos Relacionados
 
-**Materialização (não é criação).** `RC-841` vivia só no cadastro: linha em `ferramentas/dados_termos.py`, `ficha=False`, sem arquivo em `termos/`. A virada foi autorizada pelo despacho do Curador de 29/08/2026, na linha que trata das ordens nomeadas sem arquivo, e executada pelo Motor Único em `ciclos/P2017-10-14/`.
-
-Com isso:
-
-* a Base ganha um **arquivo**; 0 termos novos e **0 relações novas** por este ciclo;
-- o cadastro lista 4 código(s) em `relacionados`: 0 com aresta correspondente em `RELACOES` e 0 sem arquivo de ficha. A ficha **declara** a lacuna em vez de preenchê-la — abrir aresta é decisão curatorial;
-- as fontes já registradas no cadastro são `P2017-10-14`.
-
-**Origem do conteúdo da ampliação:** palestra `P2017-10-14 — Da Base Atlan ao Colégio Druídico` (14/10/2017). Transcrição automatizada, **não conferida com o áudio**; cada aspa foi recortada do `original.txt` pelo índice de âncoras do motor e conferida byte a byte pelo portão B. Nada foi digitado de memória.
-
-## Termos Relacionados
 | Termo | Código | Relação | Direção | Notas |
 |---|---|---|---|---|
 | Brahma (Brajna) | RC-037 | - | - | sem aresta em RELACOES; arquivo existe |
@@ -36,22 +27,43 @@ Com isso:
 | Prometeu (titã) | RC-301 | - | - | sem aresta em RELACOES; arquivo existe |
 | Têmis | RC-305 | - | - | sem aresta em RELACOES; arquivo existe |
 
+### Contexto / Origem
 
-## Ampliação — STT26-EXTRATERRESTRES_TECNOLOGIA (Eixo STT26 — Extraterrestres, tecnologia e cosmos (derivados normalizados))
+**Materialização (não é criação).** `RC-841` vivia só no cadastro: linha em `ferramentas/dados_termos.py`, `ficha=False`, sem arquivo em `termos/`. A virada foi autorizada pelo despacho do Curador de 29/08/2026, na linha que trata das ordens nomeadas sem arquivo, e executada pelo Motor Único em `ciclos/P2017-10-14/`.
+Com isso:
+* a Base ganha um **arquivo**; 0 termos novos e **0 relações novas** por este ciclo;
+- o cadastro lista 4 código(s) em `relacionados`: 0 com aresta correspondente em `RELACOES` e 0 sem arquivo de ficha. A ficha **declara** a lacuna em vez de preenchê-la — abrir aresta é decisão curatorial;
+- as fontes já registradas no cadastro são `P2017-10-14`.
+**Origem do conteúdo da ampliação:** palestra `P2017-10-14 — Da Base Atlan ao Colégio Druídico` (14/10/2017). Transcrição automatizada, **não conferida com o áudio**; cada aspa foi recortada do `original.txt` pelo índice de âncoras do motor e conferida byte a byte pelo portão B. Nada foi digitado de memória.
 
-- **[STT26-07 · Cronos (titã)]** «Se você estudar mitologia, e é algo que se passou no universo vizinho, surgem os deuses primordiais, que logo são dominados pelos deuses de primeira geração criativa, criativa, que logo são dominados pela geração de Uranus, que depois são dominados pela geração de Cronos, que depois são dominados pela geração de Zeus, usando aqui a mitologia grega.» (U2398 · chars 391275–391625) — Pérola homologada pelo Curador em 22/10/2026; corte literal conferido pelo Motor antes do pouso na Base.
+- **[Cronos castra Urano] (U0079)** «Cronos, um dos filhos de Urano, castrou-o para cessar sua prole e, ele próprio, começou a devorar seus filhos com Reia.» — Cronos (RC-841), um dos filhos de Urano, 'castrou-o para cessar sua prole e, ele próprio, começou a devorar seus filhos com Reia'. [Fonte: P2025-06-14]
 
-## Ampliação — STT26-SOCIEDADE_CONTEMPORANEA (Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados))
+## 2. Natureza e Atributos
 
-- **[STT26-19 · Cronos (titã)]** «E isso aqui não funcionou, eles criaram uma outra geração de deuses, que na frente esteve Urano, estou usando aqui a terminologia dos gregos, e essa geração de deuses perdurou durante muito tempo, até que uma outra geração, chefiada por Cronos, surge.» (U1905 · chars 320300–320552) — Candidata de cotejo; evidência `STT26-19-RC-841-001`, grafia encontrada `Cronos`; decisão por lote `STT26-19: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
-
-
-## Ampliação — OIDR26-02 (Onda incremental dry-run — Mitologias, tradições e reintegração (derivados normalizados))
+## 3. Hierarquia e Geopolítica
 
 - **[P2 · Cronos (titã)]** «Depois, a mitologia grega diz que surge a geração de cronos, os titãs.» (U0083) — candidata de cotejo ampliado; evidência `OIDR26-02-RC-841-001`, grafia literal `cronos`, sem homologação de pérola.
 
+- **[Cronos e a geração dos Titãs] (U0135)** «Depois da geração de Uranus surge a geração de cronos chamada de Titã.» — Cronos (STT `cronos`), filho de Uranos, é a geração dos Titãs; Zeus (RC-145) é seu filho e usurpou-lhe o poder. [Fonte: P2017-10-14]
 
-## Fontes
+## 4. Histórico e Eventos Cósmicos
+
+## 5. Lentes Curatoriais e Quarentenas
+
+### Observações
+
+### Observações sobre o Estado da Malha
+* **Grafia STT:** 'cronos' = Cronos. Genealogia Uranos → Cronos (Titãs) → Zeus (Olimpianos).
+* **Trava aplicável**: nenhuma além das gerais do despacho.
+
+## 6. Histórico Curatorial e Auditoria
+
+- **[STT26-07 · Cronos (titã)]** «Se você estudar mitologia, e é algo que se passou no universo vizinho, surgem os deuses primordiais, que logo são dominados pelos deuses de primeira geração criativa, criativa, que logo são dominados pela geração de Uranus, que depois são dominados pela geração de Cronos, que depois são dominados pela geração de Zeus, usando aqui a mitologia grega.» (U2398 · chars 391275–391625) — Pérola homologada pelo Curador em 22/10/2026; corte literal conferido pelo Motor antes do pouso na Base.
+
+- **[STT26-19 · Cronos (titã)]** «E isso aqui não funcionou, eles criaram uma outra geração de deuses, que na frente esteve Urano, estou usando aqui a terminologia dos gregos, e essa geração de deuses perdurou durante muito tempo, até que uma outra geração, chefiada por Cronos, surge.» (U1905 · chars 320300–320552) — Candidata de cotejo; evidência `STT26-19-RC-841-001`, grafia encontrada `Cronos`; decisão por lote `STT26-19: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+### Fontes
+
 | Obra (sigla) | Título | Página | Tipo |
 |---|---|---|---|
 | OIDR26-02 | Onda incremental dry-run — Mitologias, tradições e reintegração (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
@@ -59,18 +71,3 @@ Com isso:
 | STT26-EXTRATERRESTRES_TECNOLOGIA | Eixo STT26 — Extraterrestres, tecnologia e cosmos (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
 | P2025-06-14 | PALESTRA SOBRE A QUEDA DO CRIADOR-Refatorada (palestra) | — | transcrição automatizada; citação |
 | P2017-10-14 | Da Base Atlan ao Colégio Druídico (palestra) | — | transcrição automatizada; citação |
-
-## Ampliação
-### P2017-10-14 (Da Base Atlan ao Colégio Druídico)
-
-- **[Cronos e a geração dos Titãs] (U0135)** «Depois da geração de Uranus surge a geração de cronos chamada de Titã.» — Cronos (STT `cronos`), filho de Uranos, é a geração dos Titãs; Zeus (RC-145) é seu filho e usurpou-lhe o poder.
-
-### P2025-06-14 (PALESTRA SOBRE A QUEDA DO CRIADOR-Refatorada)
-
-- **[Cronos castra Urano] (U0079)** «Cronos, um dos filhos de Urano, castrou-o para cessar sua prole e, ele próprio, começou a devorar seus filhos com Reia.» — Cronos (RC-841), um dos filhos de Urano, 'castrou-o para cessar sua prole e, ele próprio, começou a devorar seus filhos com Reia'.
-
-## Observações
-### Observações sobre o Estado da Malha
-
-* **Grafia STT:** 'cronos' = Cronos. Genealogia Uranos → Cronos (Titãs) → Zeus (Olimpianos).
-* **Trava aplicável**: nenhuma além das gerais do despacho.

@@ -12,23 +12,14 @@ atualizado = "2026-10-23"
 +++
 # Alexandre Magno (tirano sob influência de Lemion) — RC-850
 
-## Definição Sintética
+## 1. Gênese e Definição
+
+### Definição Sintética
 
 Alexandre Magno (356–323 a.C., STT 'Alexandre Magno'): tirano sob influência de Lemion (RC-074) — para Lemion, 'o melhor DNA humano' já visto, DNA pandórico (RC-727) avesso a Javé. Uniu a cultura ocidental e a oriental, teve Aristóteles (RC-406) como preceptor e foi barrado no rio Indo por Krishna (RC-414); morreu na Babilônia e buscou, em vão, a ilha dos imortais (RC-466).
 
-## Contexto / Origem
+### Termos Relacionados
 
-**Materialização (não é criação).** `RC-850` vivia só no cadastro: linha em `ferramentas/dados_termos.py`, `ficha=False`, sem arquivo em `termos/`. A virada foi autorizada pelo despacho do Curador de 29/08/2026, na linha que trata das ordens nomeadas sem arquivo, e executada pelo Motor Único em `ciclos/P2023-08-27/`.
-
-Com isso:
-
-* a Base ganha um **arquivo**; 0 termos novos e **0 relações novas** por este ciclo;
-- o cadastro lista 5 código(s) em `relacionados`: 0 com aresta correspondente em `RELACOES` e 1 sem arquivo de ficha. A ficha **declara** a lacuna em vez de preenchê-la — abrir aresta é decisão curatorial;
-- as fontes já registradas no cadastro são `P2023-08-27`.
-
-**Origem do conteúdo da ampliação:** palestra `P2023-08-27 — Len Mion e os Senhores da Terra Alexandre Magno e Qin Shi Huang Di` (27/08/2023). Transcrição automatizada, **não conferida com o áudio**; cada aspa foi recortada do `original.txt` pelo índice de âncoras do motor e conferida byte a byte pelo portão B. Nada foi digitado de memória.
-
-## Termos Relacionados
 | Termo | Código | Relação | Direção | Notas |
 |---|---|---|---|---|
 | Len Mion (Satã) | RC-074 | - | - | sem aresta em RELACOES; arquivo existe |
@@ -37,41 +28,48 @@ Com isso:
 | Bebida dos Deuses (Ambrosia/Amrita/Soma) | RC-466 | - | - | sem aresta em RELACOES; arquivo existe |
 | DNA Insubmisso / Linhagem Pandora–Eva–Noreia | RC-727 | - | - | sem aresta em RELACOES; arquivo existe |
 
-## Ampliação — OIDR26-01 (Onda incremental dry-run — Anunnaki, genética e humanidade (derivados normalizados))
+### Contexto / Origem
+
+**Materialização (não é criação).** `RC-850` vivia só no cadastro: linha em `ferramentas/dados_termos.py`, `ficha=False`, sem arquivo em `termos/`. A virada foi autorizada pelo despacho do Curador de 29/08/2026, na linha que trata das ordens nomeadas sem arquivo, e executada pelo Motor Único em `ciclos/P2023-08-27/`.
+Com isso:
+* a Base ganha um **arquivo**; 0 termos novos e **0 relações novas** por este ciclo;
+- o cadastro lista 5 código(s) em `relacionados`: 0 com aresta correspondente em `RELACOES` e 1 sem arquivo de ficha. A ficha **declara** a lacuna em vez de preenchê-la — abrir aresta é decisão curatorial;
+- as fontes já registradas no cadastro são `P2023-08-27`.
+**Origem do conteúdo da ampliação:** palestra `P2023-08-27 — Len Mion e os Senhores da Terra Alexandre Magno e Qin Shi Huang Di` (27/08/2023). Transcrição automatizada, **não conferida com o áudio**; cada aspa foi recortada do `original.txt` pelo índice de âncoras do motor e conferida byte a byte pelo portão B. Nada foi digitado de memória.
+
+### Citações-chave
+
+> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+- «E ele quando viu Alexandre Magno que analisou o DNA do rapaz, pessoal, esse aqui é o melhor DNA humano que até então o nosso amigo Lemion havia visto no sentido de melhor DNA humano paraa lógica dele, não entre no mérito.» — *ver:* **Ampliação — P2023-08-27 (Len Mion e os Senhores da Terra …** U0004
+- «Alexandre Magno, quando tinha 8, 9, 10, 11, 12, 13, 14, 15, 16 anos, até os 16 anos ele foi educado por Aristóteles, mas não foi só ele, ele e mais vários amigos dele, filhos também das principais famílias da Macedônia.» — *ver:* **Ampliação — P2022-09-25 (O Contexto Espiritual da Constru…** U0003
+- «Ele conseguiu unir a cultura ocidental e a cultura oriental, o que de melhor havia na cultura ocidental, produzido pelos filósofos gregos e Alexandre Magno teve como preceptor a figura de Aristóteles.» — *ver:* **Ampliação — P2023-08-27 (Len Mion e os Senhores da Terra …** U0004
+
+## Citações Verbatim
 
 - **[P1 · Alexandre Magno (tirano sob influência de Lemion)]** «mas o que é que tinha então nesse período havia os sumérios que nas suas diversas cidades cada um deus sumério do clã de Enkel de Enlil com a sua trupe e com os seres humanos que aí já eram grande maioria em tudo que é cidade eles obedeciam cegamente ao seu deus sumério e os deuses sumérios disputavam entre si e em algum momento em que parece que propôs ao pessoal de um certo centro cultural que está no intestício do Império Sumério, cujas notícias foram repassadas por seus descendentes diretos, os acadianos, o intestício que eu falo é entre uma história, entre uma cultura e outra, em que a turma começou a construir uma torre e a turma de outras cidades que olhava e sabia que na cidade lá da cultura de Babel, porque nesse tempo, do jeito que o helenismo, você procura e diz, onde é que fica o helenismo na época de Alexandre Magno, ou seja, três séculos antes de Jesus, dois séculos.» (U0315) — candidata de cotejo ampliado; evidência `OIDR26-01-RC-850-001`, grafia literal `Alexandre Magno`, sem homologação de pérola.
 
+- **[Alexandre Magno, o melhor DNA humano] (U0004)** «E ele quando viu Alexandre Magno que analisou o DNA do rapaz, pessoal, esse aqui é o melhor DNA humano que até então o nosso amigo Lemion havia visto no sentido de melhor DNA humano paraa lógica dele, não entre no mérito.» — Alexandre Magno (356–323 a.C.): para Lemion (RC-074), 'o melhor DNA humano' já visto — DNA pandórico (RC-727), avesso a Javé; o primeiro projeto de dominação que Lemion concebeu. [Fonte: P2023-08-27]
 
-## Fontes
+- **[Alexandre une Ocidente e Oriente] (U0004)** «Ele conseguiu unir a cultura ocidental e a cultura oriental, o que de melhor havia na cultura ocidental, produzido pelos filósofos gregos e Alexandre Magno teve como preceptor a figura de Aristóteles.» — Alexandre Magno uniu a cultura ocidental e a oriental; teve Aristóteles (RC-406) como preceptor, a serviço de Filipe da Macedônia. [Fonte: P2023-08-27]
+
+- **[Alexandre Magno: o mesmo espírito de Iel Brasil] (U0003)** «Aí agora vamos entrar no processo histórico, porque o espírito do nosso amigo e é Yell Br, seja lá como for, um belo dia nasce como Alexandre o Grande a cerca de 2400 anos atrás, lá na Macedônia.» — "E o famoso Alexandre Magno é o ser cujo espírito era o mesmo espírito queva ou que alimentava ou que dava vida ao ser biodemo chamado Iel Brasil" (U0003: «E o famoso Alexandre Magno é o ser cujo espírito era o mesmo espírito queva ou que alimentava ou que dava vida ao ser biodemo chamado Iel Brasil.»); "Alexandre Magno, quando tinha 8, 9, 10, 11, 12, 13, 14, 15, 16 anos, até os 16 anos ele foi educado por Aristóteles" (U0003: «Alexandre Magno, quando tinha 8, 9, 10, 11, 12, 13, 14, 15, 16 anos, até os 16 anos ele foi educado por Aristóteles, mas não foi só ele, ele e mais vários amigos dele, filhos também das principais famílias da Macedônia.»); "Dos 12 principais generais de Alexandre, quatro eram da família Iel, seus amigos I, que também estavam reencarnados" (U0003: «Dos 12 principais generais de Alexandre, quatro eram da família Iel, seus amigos I, que também estavam reencarnados.»); "a tese da mente bicameral de Julian James, que diz que a voz dos deuses incide no hemisfério" (U0003: `Que o velho estabelecido na Terra... a tese da mente bicameral de Julian James, que diz que a voz dos deuses incide no hemisfério.`); ⚠️ DIVERGÊNCIA datada vs ficha RC-850 ("tirano sob influência de Lemion", P2023-02-11): aqui Alexandre é o espírito de Iel Brasil/Deus Bres tentando implantar a cultura helênica da liberdade — sem harmonização (D-9).
+
+- **[O sonho de Alexandre: novas cidades] (U0005)** «Aí Alexandre morreu, mas ficou faltando outras cidades a serem criadas no sonho desses caras.» — "foi daqui que Alexandre Magno e seus generais saíram para, entre aspas, dominar o mundo no sentido de fincar nesse mundo a cultura helênica, ou seja, que veio de Heleno, a cultura da liberdade, que cada cultura tivesse o que quisesse como Deus"; "Alexandre, seus generais queriam construir o quê? Novas cidades. Para que nessas novas cidades, novas possibilidades e pessoas que estavam cansada da vida viciada dos grandes centros fossem para essas novas cidades... E foi por isso que Alexandre e seus generais criaram a Alexandrópolis, a Alexandria" — "Aí Alexandre morreu, mas ficou faltando outras cidades a serem criadas no sonho desses caras" (o processo segue pelos Templários, Portugal, até Brasília). [Fonte: P2022-09-25]
+
+## 5. Lentes Curatoriais e Quarentenas
+
+### Observações
+
+### Observações sobre o Estado da Malha
+* **Grafia STT:** 'Alexandre Magno' (literal). O palestrante também o referencia como 'Alexandre' e 'o rapaz' cujo DNA Lemion analisou antes de conceber o projeto de dominar o mundo.
+* **Trava aplicável**: nenhuma além das gerais do despacho.
+
+## 6. Histórico Curatorial e Auditoria
+
+### Fontes
+
 | Obra (sigla) | Título | Página | Tipo |
 |---|---|---|---|
 | OIDR26-01 | Onda incremental dry-run — Anunnaki, genética e humanidade (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
 | P2022-09-25 | O Contexto Espiritual da Construção de Brasília (palestra) | — | transcrição automatizada; citação |
 | P2023-08-27 | Len Mion e os Senhores da Terra Alexandre Magno e Qin Shi Huang Di (palestra) | — | transcrição automatizada; citação |
-
-## Citações-chave
-
-> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
-
-- «E ele quando viu Alexandre Magno que analisou o DNA do rapaz, pessoal, esse aqui é o melhor DNA humano que até então o nosso amigo Lemion havia visto no sentido de melhor DNA humano paraa lógica dele, não entre no mérito.» — *ver:* **Ampliação — P2023-08-27 (Len Mion e os Senhores da Terra …** U0004
-- «Alexandre Magno, quando tinha 8, 9, 10, 11, 12, 13, 14, 15, 16 anos, até os 16 anos ele foi educado por Aristóteles, mas não foi só ele, ele e mais vários amigos dele, filhos também das principais famílias da Macedônia.» — *ver:* **Ampliação — P2022-09-25 (O Contexto Espiritual da Constru…** U0003
-- «Ele conseguiu unir a cultura ocidental e a cultura oriental, o que de melhor havia na cultura ocidental, produzido pelos filósofos gregos e Alexandre Magno teve como preceptor a figura de Aristóteles.» — *ver:* **Ampliação — P2023-08-27 (Len Mion e os Senhores da Terra …** U0004
-
-
-## Ampliação
-### P2023-08-27 (Len Mion e os Senhores da Terra Alexandre Magno e Qin Shi Huang Di)
-
-- **[Alexandre Magno, o melhor DNA humano] (U0004)** «E ele quando viu Alexandre Magno que analisou o DNA do rapaz, pessoal, esse aqui é o melhor DNA humano que até então o nosso amigo Lemion havia visto no sentido de melhor DNA humano paraa lógica dele, não entre no mérito.» — Alexandre Magno (356–323 a.C.): para Lemion (RC-074), 'o melhor DNA humano' já visto — DNA pandórico (RC-727), avesso a Javé; o primeiro projeto de dominação que Lemion concebeu.
-- **[Alexandre une Ocidente e Oriente] (U0004)** «Ele conseguiu unir a cultura ocidental e a cultura oriental, o que de melhor havia na cultura ocidental, produzido pelos filósofos gregos e Alexandre Magno teve como preceptor a figura de Aristóteles.» — Alexandre Magno uniu a cultura ocidental e a oriental; teve Aristóteles (RC-406) como preceptor, a serviço de Filipe da Macedônia.
-
-### P2022-09-25 (O Contexto Espiritual da Construção de Brasília)
-
-- **[Alexandre Magno: o mesmo espírito de Iel Brasil] (U0003)** «Aí agora vamos entrar no processo histórico, porque o espírito do nosso amigo e é Yell Br, seja lá como for, um belo dia nasce como Alexandre o Grande a cerca de 2400 anos atrás, lá na Macedônia.» — "E o famoso Alexandre Magno é o ser cujo espírito era o mesmo espírito queva ou que alimentava ou que dava vida ao ser biodemo chamado Iel Brasil" (U0003: «E o famoso Alexandre Magno é o ser cujo espírito era o mesmo espírito queva ou que alimentava ou que dava vida ao ser biodemo chamado Iel Brasil.»); "Alexandre Magno, quando tinha 8, 9, 10, 11, 12, 13, 14, 15, 16 anos, até os 16 anos ele foi educado por Aristóteles" (U0003: «Alexandre Magno, quando tinha 8, 9, 10, 11, 12, 13, 14, 15, 16 anos, até os 16 anos ele foi educado por Aristóteles, mas não foi só ele, ele e mais vários amigos dele, filhos também das principais famílias da Macedônia.»); "Dos 12 principais generais de Alexandre, quatro eram da família Iel, seus amigos I, que também estavam reencarnados" (U0003: «Dos 12 principais generais de Alexandre, quatro eram da família Iel, seus amigos I, que também estavam reencarnados.»); "a tese da mente bicameral de Julian James, que diz que a voz dos deuses incide no hemisfério" (U0003: `Que o velho estabelecido na Terra... a tese da mente bicameral de Julian James, que diz que a voz dos deuses incide no hemisfério.`); ⚠️ DIVERGÊNCIA datada vs ficha RC-850 ("tirano sob influência de Lemion", P2023-02-11): aqui Alexandre é o espírito de Iel Brasil/Deus Bres tentando implantar a cultura helênica da liberdade — sem harmonização (D-9).
-- **[O sonho de Alexandre: novas cidades] (U0005)** «Aí Alexandre morreu, mas ficou faltando outras cidades a serem criadas no sonho desses caras.» — "foi daqui que Alexandre Magno e seus generais saíram para, entre aspas, dominar o mundo no sentido de fincar nesse mundo a cultura helênica, ou seja, que veio de Heleno, a cultura da liberdade, que cada cultura tivesse o que quisesse como Deus"; "Alexandre, seus generais queriam construir o quê? Novas cidades. Para que nessas novas cidades, novas possibilidades e pessoas que estavam cansada da vida viciada dos grandes centros fossem para essas novas cidades... E foi por isso que Alexandre e seus generais criaram a Alexandrópolis, a Alexandria" — "Aí Alexandre morreu, mas ficou faltando outras cidades a serem criadas no sonho desses caras" (o processo segue pelos Templários, Portugal, até Brasília).
-
-
-## Observações
-### Observações sobre o Estado da Malha
-
-* **Grafia STT:** 'Alexandre Magno' (literal). O palestrante também o referencia como 'Alexandre' e 'o rapaz' cujo DNA Lemion analisou antes de conceber o projeto de dominar o mundo.
-* **Trava aplicável**: nenhuma além das gerais do despacho.

@@ -12,17 +12,28 @@ atualizado = "2026-09-13"
 +++
 # Reciclador das Informações Universais — RC-917
 
-## Definição Sintética
+## 1. Gênese e Definição
+
+### Definição Sintética
+
 Reciclador das Informações Universais — conceito desenvolvido na palestra «O Reciclador das Informações Universais a Limpeza da Criação» (P2023-11-18).
 
-## Termos Relacionados
+### Termos Relacionados
+
 | Termo | Código | Relação | Direção | Notas |
 |---|---|---|---|---|
 | Dignidade como Critério de Consciência | RC-722 | associado | <-> | - |
 | Domínios de Morfeu | RC-901 | associado | <-> | - |
 
+## 2. Natureza e Atributos
 
-## Ampliação
-### P2023-11-18
 **Fonte:** palestra «O Reciclador das Informações Universais a Limpeza da Criação» (18/11/2023).
 **Trecho verbatim:** «Um corpo humano ou qualquer corpo vivo, ele é uma antena de receber, guardar, processar de novo e repassar a informação. Os seres vivos só existem para isso aqui.»
+
+## 3. Hierarquia e Geopolítica
+
+## 4. Histórico e Eventos Cósmicos
+
+## 5. Lentes Curatoriais e Quarentenas
+
+## 6. Histórico Curatorial e Auditoria

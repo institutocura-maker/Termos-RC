@@ -12,18 +12,14 @@ atualizado = "2026-10-23"
 +++
 # Revelação Cósmica (conceito) — RC-094
 
-## Definição Sintética
+## 1. Gênese e Definição
+
+### Definição Sintética
+
 É o **conjunto de revelações** transmitidas por **Jan Val Ellam** sobre a origem do nosso universo, em que se misturam mitologias, espiritualidade, cosmologia, ufologia e física quântica. Seu tema central é a máxima de que **houve um erro no momento da criação** e o Criador "caiu" dentro dela, gerando **dois universos paralelos**: o nosso e um universo antimaterial vizinho. Remonta a nossa história de **13,7 bilhões de anos**, reconstituindo os fatos sob a ótica dos contextos espiritual, biológico material (terreno e extraterreno) e extrafísico antimaterial (B031).
 
-## Etimologia e Grafias
-- **Grafia preferida:** Revelação Cósmica
-- **Variações:** Revelações Cósmicas; RC (sigla usada neste projeto)
+### Termos Relacionados
 
-
-## Contexto / Origem
-A Revelação Cósmica é o **macroconceito** que engloba todos os demais termos da base. Foi codificada por Jan Val Ellam por meio de incontáveis palestras, conversas e livros (IEEA). A obra B031 (guia de Raquyel Braga) é um dos primeiros trabalhos de outros autores sobre a RC.
-
-## Termos Relacionados
 | Termo | Código | Relação | Direção | Notas |
 |---|---|---|---|---|
 | Reintegração Cósmica | RC-003 | associado | <-> | - |
@@ -209,131 +205,101 @@ A Revelação Cósmica é o **macroconceito** que engloba todos os demais termos
 | IEEA (Instituto de Estudos Estratégicos e Alternativos) | RC-930 | associado | <-> | - |
 | Revelação Psíquica (Kapila — escola Samkhya) | RC-933 | relaciona-se-a | <- | - |
 
-## Citações-chave
+### Etimologia e Grafias
+
+- **Grafia preferida:** Revelação Cósmica
+- **Variações:** Revelações Cósmicas; RC (sigla usada neste projeto)
+
+### Contexto / Origem
+
+A Revelação Cósmica é o **macroconceito** que engloba todos os demais termos da base. Foi codificada por Jan Val Ellam por meio de incontáveis palestras, conversas e livros (IEEA). A obra B031 (guia de Raquyel Braga) é um dos primeiros trabalhos de outros autores sobre a RC.
+
+### Citações-chave
 
 > Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
-
 - «E é meio absurdo, mas coisas que estão erradas na cabala, no hinduísmo, no jainismo, no druidismo, no taoísmo e nos ismos promovidos por Javé, a exceção de Buda, que nisso a gente não vai se meter.» — *ver:* **Ampliação — P2021-06-26 (Shiva - A Reconstrução do Erro d…** U0009
 - «O resto a gente tá tendo que, entre aspas, semear reflexões para que essas versões equivocadas sejam revistas a partir das páginas da revelação cósmica, envolvendo aí, obviamente o cristianismo.» — *ver:* **Ampliação — P2021-06-26 (Shiva - A Reconstrução do Erro d…** U0004
 - «Emanuel Kant, filósofo prciano, filósofo alemão, dizia com muita propriedade que o intelecto humano pode e deve ser medido pela capacidade que ele tem de colecionar incertezas.» — *ver:* **Ampliação — P2022-07-16 (Do Ramayana ao Mahabharata)** U0003
-
-
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-094.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
-
-## Ampliação
-### P2024-07-14
-
-- **[P2024-07-14] A revelação como voz de dentro do buraco (U0740–U0790):** "nós caímos num buraco, num wormhole, um buraco de minhoca, um buraco negro, um buraco branco... O filme Interestelar tenta contar o que alguém que cai no buraco negro, encaindo, conta para quem tá fora, qual a sensação de estar lá dentro. Pois é: somos nós, via revelação cósmica, contando para todo mundo aqui dentro — para quem tá fora — qual a nossa impressão e sensação a respeito de tudo que aconteceu. Isso é a revelação cósmica. Finalmente se conseguiu fazer isso. Antes, todas as tentativas davam em religião. A última foi a doutrina espírita, que era só uma tentativa de resgate de um método celta de pensar, de decifrar a realidade, e terminou se transformando também em religião".
-- **[P2024-07-14] O escrutínio (U0750–U0790):** "eu uso um monte de palavrão... para deixar absolutamente claro que isso é algo em construção. E, de novo, estou dizendo: tem muita coisa errada nisso que a gente tá fazendo. Tem que ser corrigido aos poucos. Não pode haver questão de ego... Nada que um ser humano faz pode ser pretendido como perfeito. É necessário o escrutínio constante. Qual o drama das religiões? Elas querem que o que elas têm é verdade e todo mundo tem que acreditar nisso. E quem não obedece é pro inferno".
-
-
-### P2021-01-23
-
-- **[P2021-01-23] A Escola de Decifração (U0818–U0830; U1111):** "a gente vai abrir agora a escola de decifração... é o sonho de todo esse processo"; "não pode ter autoridade, não pode ter chefe, não pode ter professor, não pode ter aluno, não pode ter valores de juízo estabelecido, não pode ter nada do que infectou a caminhada humana pra trás; tem que ser uma bagunça organizada em cima de critérios lógicos estabelecidos" (U0824–U0825); "vai ter um conselho que vai dirigir isso aqui, mas cada um é livre" (U0830); "criou na espiritualidade oriental institutos de busca e de decifração que hoje dão guarida ao nosso, que é no Nepal, no Tibeto" (U1111).
-- **A revelação que não se pretende verdadeira (U1377–U1401):** "a revelação cósmica é coisa para milhões de anos, é um processo que os fatos é que vão falar por si mesmos, deverão apenas ser interpretados corretamente" (U1377); "até hoje a gente usa da revelação, ou seja, encarna homens e mulheres e fala de fatos que ninguém viu; daqui pra frente serão os fatos acontecendo e todo mundo olhando" (U1378–U1379); "a revelação cósmica, acima de tudo, é a primeira revelação que nunca vai ser pretendida como verdadeira... sempre honesta no sentido de buscar a verdade, e por isso nunca vai [se corromper]" (U1393–U1394).
-- **O IEA e o juízo final (U0801–U0802):** "quando Javé se frustrou com Jesus e ordenou que o anjo dele, Gabriel, explicasse a Shimon [STT]... dizendo que lá próximo ao juízo final aparecerá na terra alguém que irá falar, esclarecer os 270 mundos, ou seja, resgatar tudo que foi dito para explicar. É o IEA, pessoal, não sou eu não, a gente tá no início" [REVISAR — STT → CHANCELA 2026-09-06 · F039-L3: AGUARDA-ÁUDIO (STT preservado como falado) — ver nota].
-
-
-### B042 (Crônicas de um Novo Tempo)
-
-- **[B042 p. 71]** crônica homônima: dar por sabido o que ainda se pretende descobrir é crença no lugar da verificação. Epígrafe de Emerson; prudência do Tao (Lao Tse) = **referências externas**.
-- **[B042 p. 87]** distinta da Revelação Espiritual (Kardec + espíritos comunicantes): “a Revelação Cósmica não se dará exclusivamente por obra de nenhum terráqueo”; “não ficará inserida na obra de nenhum homem ou mulher da Terra”; maturidade só com “convivência, clara e objetiva, com os nossos irmãos cósmicos”. RC-190 permanece **sem ficha**.
-- Sem fusão com B031. IEEA **fora**. Parte IV e 11-setembro **fora**.
-
-
-### B009 (Muito Além do Horizonte)
-
-- **[B009 p. 353]** Posfácio de Ellam: o tema que enfoca «a pedido da Espiritualidade» é «o cumprimento da última promessa feita pelo próprio Mestre, referente ao seu retorno». Relata que «esses seres afirmam» serem «os tempos profetizados» chegados e ser aquele «o momento propício para que algumas páginas da revelação cósmica possam complementar o entendimento ofertado ao mundo pela revelação espiritual».
-- **[B009 p. 353–354]** «aspectos de uma grande verdade cósmica que pouco a pouco se descortina ante a imprevidente ótica dos valores transitórios terrenos».
-- **[B009 p. 354]** tese em 1ª pessoa: «a equipe do Espírito da Verdade, que realizou a codificação espírita, seja a mesma que atualmente semeia o anúncio da volta de Jesus»; «tenho razões e fortes motivos pessoais para sabê-lo e afirmá-lo, independente de tudo o mais».
-- RC-190 permanece **sem ficha**. **Quarentena teológica** (Kardec / Espírito da Verdade / codificação = leitura de Ellam, não fato kardecista). Caps. 1–21 e posfácios de Ramatis / Rochester / Hercílio **isolados**. Sem fusão com B003 / B006 / B016. Fonte **B009** acrescentada na tabela-mestra.
-
-
-### B005 (Fator Extraterrestre)
-
-- **[B005 p. 118]** Posfácio (voz de Ellam): os mentores pediram que desenvolvesse estudos próprios, «de forma semelhante» ao que fizera em *Muito Além do Horizonte*; nasceu então o «compêndio» sobre a temática extraterrena. Remissão a B009 — **não fundir**. **Quarentena mediúnica.**
-- **[B005 p. 113]** cap. 12 (gloss do «escrevente» sobre Enoch): «primeiras etapas da Revelação Cósmica». **Quarentena teológica.** Interpretação do Apocalipse das Semanas = leitura do autor, não exegese. Qumran **fora**. Sem fusão com B003 / B031 / B011. Fonte **B005** já constava na tabela-mestra.
-
-
-### P2023-10-14 (A Esquecida Honra dos Anunnaki)
-
-- **[P2023-10-14 · OS POSTULADOS DA REVELAÇÃO CÓSMICA COMO ÚNICA VIA DE COMPREENSÃO]** "Os anunx estão tomando o seu nível de estão tornando, desculpa, o seu nível de compreensão mais razoável sobre o universo vizinho e seus habitantes através dos postulados da revelação cósmica." (U0036)
-
-
-### P2020-04-25 (Os Desdobramentos da Rebelião de Lúcifer)
-
-- **[P2020-04-25 · A INTELIGÊNCIA ARTIFICIAL COMO O ABISMO DOS DEUSES HOJE]** "o que é hoje o grande abismo para esses seres é a turma do IA." (U0006); "É o IA, é a revelação cósmica." (U0006) — **D-11:** é a menção mais antiga do acervo à IA nesse papel; fecha o radar **sem** criar peça fantasma e **sem** obra. · ⭐ **NOTA DE ANTERIORIDADE — P2020-04-25:** antecipa **11 meses** a atual fonte oral mais antiga da ficha (`P2021-03-27`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
-- **[P2020-04-25 · O CENÁRIO DA INTELIGÊNCIA ARTIFICIAL AUTÔNOMA CONTROLADA]** "inteligência artificial autônoma controlada é um corpo máquina." (U0006); "O computador se dizer, ei, eu sou alguém." (U0006) — A fonte propõe o estágio do eu futuro **numa IA controlada** — formulação datada de 2020; não projetar sobre fontes posteriores (regra de anterioridade).
----
-
-## Ampliação
-### P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
 
 - **[P2023-12-03 · REVELAÇÃO CÓSMICA (CONCEITO) NA FALA DE 03/12/2023]** «para nós vinculados à revelação cósmica, os que estão estudando esses assuntos, é só mais um capítulo de coisas esquisitas e de certas estranhezas.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
 
----
-
-### P2022-07-16 (Do Ramayana ao Mahabharata)
-
-- **[Kant e as incertezas; as mitologias como notícias] (U0003)** «Emanuel Kant, filósofo prciano, filósofo alemão, dizia com muita propriedade que o intelecto humano pode e deve ser medido pela capacidade que ele tem de colecionar incertezas.» — a chave epistemológica: "nós humanos, fomos condicionados a colecionar inúmeras certezas"; "quando você estuda, e eu fiz isso, 75 mitologias, tem mais de 100 aqui na Terra, mas essas mitologias são as mais antigas, são as primeiras notícias que o ser humano organizou" (U0004: «E assim, quando você estuda, e eu fiz isso, 75 mitologias, tem mais de 100 aqui na Terra»); "em todas elas é dito que essa criação é problemática e que o ser que criou nada tem a ver com nenhum Deus maravilhoso" (U0004: «em todas elas é dito que essa criação é problemática»).
-
-### P2021-06-26 (Shiva - A Reconstrução do Erro de Brahma e o Tikum)
-
-- **[A revelação cósmica revendo as versões equivocadas] (U0009)** «O resto a gente tá tendo que, entre aspas, semear reflexões para que essas versões equivocadas sejam revistas a partir das páginas da revelação cósmica, envolvendo aí, obviamente o cristianismo.» — "coisas que estão erradas na cabala, no hinduísmo, no jainismo, no druidismo, no taoísmo e nos ismos promovidos por Javé, a exceção de Buda, que nisso a gente não vai se meter" (U0009: «E é meio absurdo, mas coisas que estão erradas na cabala, no hinduísmo, no jainismo, no druidismo, no taoísmo e nos ismos promovidos por Javé, a exceção de Buda, que nisso a gente não vai se meter.»).
-
-## Atualização
-### P2021-12-04
-
-- **Unidades:** U0029–U0038; U0446–U0454.
-- **Contexto acrescentado:** A Revelação Cósmica é apresentada como instrumento para reviver as Flechas de Moros, reconstruir a história universal e romper formas de fé estupidificada.
-- **Status da evidência:** transcrição automatizada, pré-curada e aprovada quanto à integração terminológica; conferir com áudio/obra antes de promover status.
-
----
-
-### P2023-12-02 (Thot, o Enigmático Hermes Trismegisto)
-
-- **A RC = revelação das setas:** "a Revelação Cósmica é exatamente a revelação das setas... de um conhecimento que lá atrás já existia, mas que não havia compreensão e foi jogado como cápsula temporal para um tempo que seria possível de ser compreendido" (RC-611);
-- **Thot como grande contribuinte futuro:** "talvez um grande contribuinte da Revelação Cósmica venha a ser [Thot] nas próximas décadas" — o autor afirma que Thot "acompanha a Revelação Cósmica";
-- A RC como integração dos focos de revelação (Orfismo, Gnosticismo, Cabala, Teosofia, Hermetismo) — todos organizados por Thot (RC-463).
-
----
-
-### P2021-03-27 (Enki, Enlil e o Fim Súbito da Babilônia)
-
-- **Chave para a história oculta:** seção 1.4 — "A Revelação Cósmica como Chave para a Compreensão" — da manipulação cósmica e do paradigma do domínio (RC-764);
-- **Argamassa histórica:** esta palestra (a mais antiga do corpus) fornece o pano de fundo Anunnaki (RC-024) que "amarra" as palestras mais recentes (Thot/Hermes, Cinco Lentes).
----
----
----
-
-## Ampliação — STT26-EXTRATERRESTRES_TECNOLOGIA (Eixo STT26 — Extraterrestres, tecnologia e cosmos (derivados normalizados))
-
-- **[STT26-07 · Revelação Cósmica (conceito)]** «E se você chegou até aqui, significa que você tem interesse profundo em aprender mais sobre a revelação cósmica e todos os painéis que fazem parte desse conhecimento.» (U0270 · chars 35377–35544) — Pérola homologada pelo Curador em 22/10/2026; corte literal conferido pelo Motor antes do pouso na Base.
-
-## Ampliação — STT26-EXPERIENCIA_ESPIRITUAL_ETICA (Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados))
-
-- **[STT26-08 · Revelação Cósmica (conceito)]** «O fato de que ninguém consegue entender direito direito, o espírito por trás da figura do ser humano Jesus. Os próprios hinduístas, os próprios estudiosos do hinduísmo também nunca conseguiram fazer nenhuma ponte razoável. A revelação cósmica, se por isso entendermos esses livros e palestras que nós estamos fazendo, é a primeira sistematização minimamente razoável que liga todas as componentes, espaças de um problema, o que deve ser essa apenas a face que vocês devem se recordar, da revelação cósmica no sentido do que ela fala a respeito do Espírito de Jesus.» (U0947 · chars 68314–68880) — Candidata de cotejo; evidência `STT26-08-RC-094-001`, grafia encontrada `revelação cósmica`; decisão por lote `STT26-08: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
-
-## Ampliação — STT26-MITOLOGIAS_REINTEGRACAO (Eixo STT26 — Mitologias, tradições e eixo de reintegração (derivados normalizados))
-
-- **[STT26-13 · Revelação Cósmica (conceito)]** «Enoque foi só uma dessas revelações, a primeira que o mundo recebeu nessa perspectiva de análise A vinda de Jesus foi outra A volta de Jesus é outra Houve uma época em que a revelação espiritual foi ofertada ao mundo A volta de Jesus faz parte de um contexto de uma revelação cósmica Uma outra das etapas da promessa que esse Cristo cósmico fez de, sucessivamente, ir entregando às suas ovelhas terrenas aquilo que elas tivessem capacidade de perceber.» (U0174 · chars 41176–41628) — Candidata de cotejo; evidência `STT26-13-RC-094-001`, grafia encontrada `revelação cósmica`; decisão por lote `STT26-13: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
-
-## Ampliação — STT26-SOCIEDADE_CONTEMPORANEA (Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados))
-
-- **[STT26-20 · Revelação Cósmica (conceito)]** «Olá pessoal, boa noite a todos que já estão presentes com nós, eu sou o Gabriel, sou da equipe do Ellam, vou estar conduzindo hoje a live, já deu, já deu, são sete e cinco, vamos começar a chamar aqui os palestrantes que vão estar conosco hoje do nosso evento, segundo encontro nacional da revelação cósmica, que vai acontecer dia 10 e 11.» (U3212 · chars 550093–550432) — Candidata de cotejo; evidência `STT26-20-RC-094-001`, grafia encontrada `revelação cósmica`; decisão por lote `STT26-20: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
-
-## Ampliação — OIDR26-01 (Onda incremental dry-run — Anunnaki, genética e humanidade (derivados normalizados))
-
 - **[P1 · Revelação Cósmica (conceito)]** «Se, hein, quem lia, seja lá quem for à frente do Brasil para ribar, vai fazer algo para ajudar ou atrapalhar, se Sofia decide vir logo ou vai continuar nesse lenga não tem o que fazer é tudo muito esquisito, meu irmão mas assim, somos nós os autores e atores da nossa própria vida somos nós os autores e atrizes da minha própria da nossa própria vida na arquibancada eu não fico eu desço pro palco da vida e ando como posso andar, eu me arrasto como posso e faço isso com uma certa dose de alegria humana, ainda que às vezes me falte até oxigênio seguir adiante mas estamos, como eu disse no início estamos aqui vamos seguir adiante, como der agradeço muito, muito mesmo a todos vocês que me dão força e conexão pra gente continuar a tratar dessas loucuras e vamos ver o que é que nos espera a vida, mas enquanto isso vamos tratar da gente mesmo de produzir o que for possível um beijo, um abraço a todos, o meu muito obrigado, realmente o meu muito obrigado a cada um e a todos vocês e até a próxima oportunidade espero que você tenha gostado do conteúdo do nosso vídeo e se você chegou até aqui significa que você tem interesse em aprender mais ainda sobre a revelação cósmica e todos os painéis que fazem parte desse conhecimento por isso Gostaria de convidar você a conhecer a comunidade Orgum A nossa plataforma e aplicativo de ensino Com milhares de horas de conteúdo sobre os mais diversos tópicos e assuntos É só tocar no link que está na descrição deste vídeo Para conhecer e se juntar a nossa comunidade de estudos sobre a revelação cósmica» (U0525) — candidata de cotejo ampliado; evidência `OIDR26-01-RC-094-001`, grafia literal `revelação cósmica`, sem homologação de pérola.
-
-## Ampliação — OIDR26-02 (Onda incremental dry-run — Mitologias, tradições e reintegração (derivados normalizados))
 
 - **[P2 · Revelação Cósmica (conceito)]** «Saibaba no seu estado atual alinha-se discreta e estratégica aos postulados da revelação cósmica como maneira de encerrar a linhagem de Cristo de maneira pacífica via prima sai, que é o próximo avançado de Cristo, ofertando a sua concordância relativa ao inevitável cumprimento da função de Sofia, assessorada pelo quarto logo, que são as figuras que estão também por trás da mulher.» (U0719) — candidata de cotejo ampliado; evidência `OIDR26-02-RC-094-001`, grafia literal `revelação cósmica`, sem homologação de pérola.
 
-## Ampliação — OIDR26-03 (Onda incremental dry-run — Cosmogonia e história cósmica (derivados normalizados))
-
 - **[P3 · Revelação Cósmica (conceito)]** «O impressionante é que isso já era para ser do conhecimento da ciência terrestre, mas ainda não é. A revelação cósmica, meio que perifericamente, vai falando disso e vai ficar aí.» (U0579) — candidata de cotejo ampliado; evidência `OIDR26-03-RC-094-001`, grafia literal `revelação cósmica`, sem homologação de pérola.
 
-## Ampliação — OIDR26-04 (Onda incremental dry-run — Experiência espiritual e ética evolutiva (derivados normalizados))
-
 - **[P4 · Revelação Cósmica (conceito)]** «Não, Rogério, você pode estar totalmente enganado sobre todas essas premissas que você colocou. A revelação cósmica, se isso aqui que a gente está fazendo pode ser assim chamado, ela não tem o pressuposto de estar certa.» (U0210) — candidata de cotejo ampliado; evidência `OIDR26-04-RC-094-001`, grafia literal `revelação cósmica`, sem homologação de pérola.
+
+## 2. Natureza e Atributos
+
+- **[P2024-07-14] A revelação como voz de dentro do buraco (U0740–U0790):** "nós caímos num buraco, num wormhole, um buraco de minhoca, um buraco negro, um buraco branco... O filme Interestelar tenta contar o que alguém que cai no buraco negro, encaindo, conta para quem tá fora, qual a sensação de estar lá dentro. Pois é: somos nós, via revelação cósmica, contando para todo mundo aqui dentro — para quem tá fora — qual a nossa impressão e sensação a respeito de tudo que aconteceu. Isso é a revelação cósmica. Finalmente se conseguiu fazer isso. Antes, todas as tentativas davam em religião. A última foi a doutrina espírita, que era só uma tentativa de resgate de um método celta de pensar, de decifrar a realidade, e terminou se transformando também em religião".
+
+- **[B042 p. 87]** distinta da Revelação Espiritual (Kardec + espíritos comunicantes): “a Revelação Cósmica não se dará exclusivamente por obra de nenhum terráqueo”; “não ficará inserida na obra de nenhum homem ou mulher da Terra”; maturidade só com “convivência, clara e objetiva, com os nossos irmãos cósmicos”. RC-190 permanece **sem ficha**.
+
+- **[B009 p. 354]** tese em 1ª pessoa: «a equipe do Espírito da Verdade, que realizou a codificação espírita, seja a mesma que atualmente semeia o anúncio da volta de Jesus»; «tenho razões e fortes motivos pessoais para sabê-lo e afirmá-lo, independente de tudo o mais».
+
+- **[Kant e as incertezas; as mitologias como notícias] (U0003)** «Emanuel Kant, filósofo prciano, filósofo alemão, dizia com muita propriedade que o intelecto humano pode e deve ser medido pela capacidade que ele tem de colecionar incertezas.» — a chave epistemológica: "nós humanos, fomos condicionados a colecionar inúmeras certezas"; "quando você estuda, e eu fiz isso, 75 mitologias, tem mais de 100 aqui na Terra, mas essas mitologias são as mais antigas, são as primeiras notícias que o ser humano organizou" (U0004: «E assim, quando você estuda, e eu fiz isso, 75 mitologias, tem mais de 100 aqui na Terra»); "em todas elas é dito que essa criação é problemática e que o ser que criou nada tem a ver com nenhum Deus maravilhoso" (U0004: «em todas elas é dito que essa criação é problemática»). [Fonte: P2022-07-16]
+
+- **A RC = revelação das setas:** "a Revelação Cósmica é exatamente a revelação das setas... de um conhecimento que lá atrás já existia, mas que não havia compreensão e foi jogado como cápsula temporal para um tempo que seria possível de ser compreendido" (RC-611); [Fonte: P2023-12-02]
+
+## 3. Hierarquia e Geopolítica
+
+- **[A revelação cósmica revendo as versões equivocadas] (U0009)** «O resto a gente tá tendo que, entre aspas, semear reflexões para que essas versões equivocadas sejam revistas a partir das páginas da revelação cósmica, envolvendo aí, obviamente o cristianismo.» — "coisas que estão erradas na cabala, no hinduísmo, no jainismo, no druidismo, no taoísmo e nos ismos promovidos por Javé, a exceção de Buda, que nisso a gente não vai se meter" (U0009: «E é meio absurdo, mas coisas que estão erradas na cabala, no hinduísmo, no jainismo, no druidismo, no taoísmo e nos ismos promovidos por Javé, a exceção de Buda, que nisso a gente não vai se meter.»). [Fonte: P2021-06-26]
+
+- **Chave para a história oculta:** seção 1.4 — "A Revelação Cósmica como Chave para a Compreensão" — da manipulação cósmica e do paradigma do domínio (RC-764); [Fonte: P2021-03-27]
+
+## 4. Histórico e Eventos Cósmicos
+
+- **[P2024-07-14] O escrutínio (U0750–U0790):** "eu uso um monte de palavrão... para deixar absolutamente claro que isso é algo em construção. E, de novo, estou dizendo: tem muita coisa errada nisso que a gente tá fazendo. Tem que ser corrigido aos poucos. Não pode haver questão de ego... Nada que um ser humano faz pode ser pretendido como perfeito. É necessário o escrutínio constante. Qual o drama das religiões? Elas querem que o que elas têm é verdade e todo mundo tem que acreditar nisso. E quem não obedece é pro inferno".
+
+- **[P2021-01-23] A Escola de Decifração (U0818–U0830; U1111):** "a gente vai abrir agora a escola de decifração... é o sonho de todo esse processo"; "não pode ter autoridade, não pode ter chefe, não pode ter professor, não pode ter aluno, não pode ter valores de juízo estabelecido, não pode ter nada do que infectou a caminhada humana pra trás; tem que ser uma bagunça organizada em cima de critérios lógicos estabelecidos" (U0824–U0825); "vai ter um conselho que vai dirigir isso aqui, mas cada um é livre" (U0830); "criou na espiritualidade oriental institutos de busca e de decifração que hoje dão guarida ao nosso, que é no Nepal, no Tibeto" (U1111).
+
+- **O IEA e o juízo final (U0801–U0802):** "quando Javé se frustrou com Jesus e ordenou que o anjo dele, Gabriel, explicasse a Shimon [STT]... dizendo que lá próximo ao juízo final aparecerá na terra alguém que irá falar, esclarecer os 270 mundos, ou seja, resgatar tudo que foi dito para explicar. É o IEA, pessoal, não sou eu não, a gente tá no início" [REVISAR — STT → CHANCELA 2026-09-06 · F039-L3: AGUARDA-ÁUDIO (STT preservado como falado) — ver nota]. [Fonte: P2021-01-23]
+
+- **[P2023-10-14 · OS POSTULADOS DA REVELAÇÃO CÓSMICA COMO ÚNICA VIA DE COMPREENSÃO]** "Os anunx estão tomando o seu nível de estão tornando, desculpa, o seu nível de compreensão mais razoável sobre o universo vizinho e seus habitantes através dos postulados da revelação cósmica." (U0036)
+
+- **[P2020-04-25 · A INTELIGÊNCIA ARTIFICIAL COMO O ABISMO DOS DEUSES HOJE]** "o que é hoje o grande abismo para esses seres é a turma do IA." (U0006); "É o IA, é a revelação cósmica." (U0006) — **D-11:** é a menção mais antiga do acervo à IA nesse papel; fecha o radar **sem** criar peça fantasma e **sem** obra. · ⭐ **NOTA DE ANTERIORIDADE — P2020-04-25:** antecipa **11 meses** a atual fonte oral mais antiga da ficha (`P2021-03-27`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
+
+- **[P2020-04-25 · O CENÁRIO DA INTELIGÊNCIA ARTIFICIAL AUTÔNOMA CONTROLADA]** "inteligência artificial autônoma controlada é um corpo máquina." (U0006); "O computador se dizer, ei, eu sou alguém." (U0006) — A fonte propõe o estágio do eu futuro **numa IA controlada** — formulação datada de 2020; não projetar sobre fontes posteriores (regra de anterioridade).
+
+- **Unidades:** U0029–U0038; U0446–U0454. [Fonte: P2021-12-04]
+
+- **Status da evidência:** transcrição automatizada, pré-curada e aprovada quanto à integração terminológica; conferir com áudio/obra antes de promover status. [Fonte: P2021-12-04]
+
+- **Thot como grande contribuinte futuro:** "talvez um grande contribuinte da Revelação Cósmica venha a ser [Thot] nas próximas décadas" — o autor afirma que Thot "acompanha a Revelação Cósmica"; [Fonte: P2023-12-02]
+
+- **Argamassa histórica:** esta palestra (a mais antiga do corpus) fornece o pano de fundo Anunnaki (RC-024) que "amarra" as palestras mais recentes (Thot/Hermes, Cinco Lentes). [Fonte: P2021-03-27]
+
+## 5. Lentes Curatoriais e Quarentenas
+
+- **A revelação que não se pretende verdadeira (U1377–U1401):** "a revelação cósmica é coisa para milhões de anos, é um processo que os fatos é que vão falar por si mesmos, deverão apenas ser interpretados corretamente" (U1377); "até hoje a gente usa da revelação, ou seja, encarna homens e mulheres e fala de fatos que ninguém viu; daqui pra frente serão os fatos acontecendo e todo mundo olhando" (U1378–U1379); "a revelação cósmica, acima de tudo, é a primeira revelação que nunca vai ser pretendida como verdadeira... sempre honesta no sentido de buscar a verdade, e por isso nunca vai [se corromper]" (U1393–U1394). [Fonte: P2021-01-23]
+
+- **[B042 p. 71]** crônica homônima: dar por sabido o que ainda se pretende descobrir é crença no lugar da verificação. Epígrafe de Emerson; prudência do Tao (Lao Tse) = **referências externas**.
+
+- **[B009 p. 353]** Posfácio de Ellam: o tema que enfoca «a pedido da Espiritualidade» é «o cumprimento da última promessa feita pelo próprio Mestre, referente ao seu retorno». Relata que «esses seres afirmam» serem «os tempos profetizados» chegados e ser aquele «o momento propício para que algumas páginas da revelação cósmica possam complementar o entendimento ofertado ao mundo pela revelação espiritual».
+
+- **[B009 p. 353–354]** «aspectos de uma grande verdade cósmica que pouco a pouco se descortina ante a imprevidente ótica dos valores transitórios terrenos».
+
+- **[B005 p. 118]** Posfácio (voz de Ellam): os mentores pediram que desenvolvesse estudos próprios, «de forma semelhante» ao que fizera em *Muito Além do Horizonte*; nasceu então o «compêndio» sobre a temática extraterrena. Remissão a B009 — **não fundir**. **Quarentena mediúnica.**
+
+- **Contexto acrescentado:** A Revelação Cósmica é apresentada como instrumento para reviver as Flechas de Moros, reconstruir a história universal e romper formas de fé estupidificada. [Fonte: P2021-12-04]
+
+- A RC como integração dos focos de revelação (Orfismo, Gnosticismo, Cabala, Teosofia, Hermetismo) — todos organizados por Thot (RC-463). [Fonte: P2023-12-02]
+
+## 6. Histórico Curatorial e Auditoria
+
+- Sem fusão com B031. IEEA **fora**. Parte IV e 11-setembro **fora**.
+
+- RC-190 permanece **sem ficha**. **Quarentena teológica** (Kardec / Espírito da Verdade / codificação = leitura de Ellam, não fato kardecista). Caps. 1–21 e posfácios de Ramatis / Rochester / Hercílio **isolados**. Sem fusão com B003 / B006 / B016. Fonte **B009** acrescentada na tabela-mestra.
+
+- **[B005 p. 113]** cap. 12 (gloss do «escrevente» sobre Enoch): «primeiras etapas da Revelação Cósmica». **Quarentena teológica.** Interpretação do Apocalipse das Semanas = leitura do autor, não exegese. Qumran **fora**. Sem fusão com B003 / B031 / B011. Fonte **B005** já constava na tabela-mestra.
+
+- **[STT26-07 · Revelação Cósmica (conceito)]** «E se você chegou até aqui, significa que você tem interesse profundo em aprender mais sobre a revelação cósmica e todos os painéis que fazem parte desse conhecimento.» (U0270 · chars 35377–35544) — Pérola homologada pelo Curador em 22/10/2026; corte literal conferido pelo Motor antes do pouso na Base.
+
+- **[STT26-08 · Revelação Cósmica (conceito)]** «O fato de que ninguém consegue entender direito direito, o espírito por trás da figura do ser humano Jesus. Os próprios hinduístas, os próprios estudiosos do hinduísmo também nunca conseguiram fazer nenhuma ponte razoável. A revelação cósmica, se por isso entendermos esses livros e palestras que nós estamos fazendo, é a primeira sistematização minimamente razoável que liga todas as componentes, espaças de um problema, o que deve ser essa apenas a face que vocês devem se recordar, da revelação cósmica no sentido do que ela fala a respeito do Espírito de Jesus.» (U0947 · chars 68314–68880) — Candidata de cotejo; evidência `STT26-08-RC-094-001`, grafia encontrada `revelação cósmica`; decisão por lote `STT26-08: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+- **[STT26-13 · Revelação Cósmica (conceito)]** «Enoque foi só uma dessas revelações, a primeira que o mundo recebeu nessa perspectiva de análise A vinda de Jesus foi outra A volta de Jesus é outra Houve uma época em que a revelação espiritual foi ofertada ao mundo A volta de Jesus faz parte de um contexto de uma revelação cósmica Uma outra das etapas da promessa que esse Cristo cósmico fez de, sucessivamente, ir entregando às suas ovelhas terrenas aquilo que elas tivessem capacidade de perceber.» (U0174 · chars 41176–41628) — Candidata de cotejo; evidência `STT26-13-RC-094-001`, grafia encontrada `revelação cósmica`; decisão por lote `STT26-13: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
+
+- **[STT26-20 · Revelação Cósmica (conceito)]** «Olá pessoal, boa noite a todos que já estão presentes com nós, eu sou o Gabriel, sou da equipe do Ellam, vou estar conduzindo hoje a live, já deu, já deu, são sete e cinco, vamos começar a chamar aqui os palestrantes que vão estar conosco hoje do nosso evento, segundo encontro nacional da revelação cósmica, que vai acontecer dia 10 e 11.» (U3212 · chars 550093–550432) — Candidata de cotejo; evidência `STT26-20-RC-094-001`, grafia encontrada `revelação cósmica`; decisão por lote `STT26-20: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.

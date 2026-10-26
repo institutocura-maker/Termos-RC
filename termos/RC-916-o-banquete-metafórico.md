@@ -12,17 +12,28 @@ atualizado = "2026-09-13"
 +++
 # O Banquete Metafórico — RC-916
 
-## Definição Sintética
+## 1. Gênese e Definição
+
+### Definição Sintética
+
 O Banquete Metafórico — conceito desenvolvido na palestra «Delírio Humano a Insensatez Espiritual da Busca Religiosa» (P2023-10-15).
 
-## Termos Relacionados
+### Termos Relacionados
+
 | Termo | Código | Relação | Direção | Notas |
 |---|---|---|---|---|
 | Dignidade como Critério de Consciência | RC-722 | associado | <-> | - |
 | Vício Devocional | RC-749 | associado | <-> | - |
 
+## 2. Natureza e Atributos
 
-## Ampliação
-### P2023-10-15
+## 3. Hierarquia e Geopolítica
+
+## 4. Histórico e Eventos Cósmicos
+
 **Fonte:** palestra «Delírio Humano a Insensatez Espiritual da Busca Religiosa» (15/10/2023).
 **Trecho verbatim:** «E o padre com toda boa vontade tentando, e ele dizendo: E o pai nos vida para o banquete. O banquete já está servido e nós humanos não conseguimos nos banquetear com o que o pai nos oferta.»
+
+## 5. Lentes Curatoriais e Quarentenas
+
+## 6. Histórico Curatorial e Auditoria

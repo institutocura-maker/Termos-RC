@@ -12,21 +12,30 @@ atualizado = "2026-10-22"
 +++
 # Umbrais — RC-903
 
-## Definição Sintética
+## 1. Gênese e Definição
+
+### Definição Sintética
+
 Umbrais — conceito desenvolvido na palestra «A Teia da Vida e o Circuito Oculto dos Deuses» (P2024-01-13).
 
-## Termos Relacionados
+### Termos Relacionados
+
 | Termo | Código | Relação | Direção | Notas |
 |---|---|---|---|---|
 | Belial (arconte; 'Satã' do livro de Jó) | RC-479 | associado | <-> | - |
 | Bolhas Psíquicas | RC-899 | associado | <-> | - |
 
+## 2. Natureza e Atributos
 
-## Ampliação
-### P2024-01-13
+## 3. Hierarquia e Geopolítica
+
 **Fonte:** palestra «A Teia da Vida e o Circuito Oculto dos Deuses» (13/01/2024).
 **Trecho verbatim:** «os famosos umbrais dos domínios espirituais, que isso aqui é uma exculhambação»
 
-## Ampliação — STT26-EXPERIENCIA_ESPIRITUAL_ETICA (Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados))
+## 4. Histórico e Eventos Cósmicos
+
+## 5. Lentes Curatoriais e Quarentenas
+
+## 6. Histórico Curatorial e Auditoria
 
 - **[STT26-09 · Umbrais]** «O outro aspecto do que a gente chama natural é que a maioria dos espíritos, infelizmente, está nos andares mais baixos e pior, para baixo, tem o subsolo, que são os umbrais, que são.» (U3901 · chars 575160–575343) — Candidata de cotejo; evidência `STT26-09-RC-903-001`, grafia encontrada `umbrais`; decisão por lote `STT26-09: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.

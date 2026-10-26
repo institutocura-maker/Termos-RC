@@ -12,18 +12,14 @@ atualizado = "2026-09-13"
 +++
 # Igigi — RC-580
 
-## Definição Sintética
+## 1. Gênese e Definição
+
+### Definição Sintética
+
 Classe de Anunnakis de menor escalão apresentada, na palestra, como rebelde e envolvida em cruzamentos com seres humanos.
 
-## Etimologia e Grafias
-- Grafia preferida: Igigi. Forma usada na fala: Igigis.
-- **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
+### Termos Relacionados
 
-
-## Contexto / Origem
-A hibridização atribuída aos Igigi é situada na segunda era equinocial e ligada à geração de descendentes fora do padrão desejado.
-
-## Termos Relacionados
 | Termo | Código | Relação | Direção | Notas |
 |---|---|---|---|---|
 | Anunnaki | RC-024 | é-um | -> | - |
@@ -35,46 +31,57 @@ A hibridização atribuída aos Igigi é situada na segunda era equinocial e lig
 | Guerra Nuclear Anunnaki (Sete Armas Atômicas) | RC-583 | relaciona-se-a | -> | - |
 | Intercessão de Enoque pelos Anunnaki | RC-673 | relaciona-se-a | -> | - |
 
-## Seres Associados
+### Etimologia e Grafias
+
+- Grafia preferida: Igigi. Forma usada na fala: Igigis.
+- **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
+
+### Contexto / Origem
+
+A hibridização atribuída aos Igigi é situada na segunda era equinocial e ligada à geração de descendentes fora do padrão desejado.
+
+### Citações-chave
+
+> ““Uma certa classe de Anunnaki chamada Igigi fez isso.”” — P2022-12-17, U0707–U0723
+
+- **[P2023-10-14 · A ESCASSEZ DE MÃO DE OBRA COMO CAUSA DA FABRICAÇÃO]** "Então, poucos anulacques, por mais que chegasse, sempre eram poucos para a quantidade de trabalhos 300.000 anos, 200.000 anos, 100.000 anos e em que uma irmã dele chamada Narsc e um outro irmão chamado Eno que já tinha vindo depois dele." (U0005)
+
+## 2. Natureza e Atributos
+
+- **Tipologia:** "um grupo de 600 anunnaki que tinha uma tipologia muito semelhante à nossa humana e um outro grupo que também se parece conosco, mas que o corpo deles pode receber complemento... eles já nascem com essa genética que o corpo dele já é como se nascesse com lugares para você instalar algumas coisas biônicas... E esses são chamados igigi"; [Fonte: P2023-12-02]
+
+## 3. Hierarquia e Geopolítica
+
+### Seres Associados
+
 Anunnakis (RC-024); Nefilins (= Anunnaki) (RC-488)
 
-## Fontes
+- **Os igigis (P2025-05-31):** ramo dos Anunnakis ("igis") que se recusou ao trabalho pesado (retirar ouro para Nibiru); "há 15–16.000 anos" transaram com mulheres humanas na época de Jarede (pai de Enoque) → "raça ímpia"/gigantes; presos por Javé em "prisões onde a energia do mundo [deles]..."; Enoque intercedeu (RC-673); "Lammur" = Marte (STT).
+
+- **[P2022-12-17 — FONTE ORIGINAL] Os Igigi (U0750–U0760):** "os Anunnakis rebeldes desobedeceram, Enki e Anu, desobedeceram todo mundo e resolveram transar com seres humanos, ou seja, com mulheres. E também Anunnakis fêmeas transaram com humanos machos"; "uma certa classe de Anunnaki chamada Igigi fez isso e a vida na Terra tornou-se muito complicada"; "esses filhos híbridos de Anunnakis com seres humanos criaram problemas pros interesses da Trimurti, pros interesses de Zeus... uma confusão que só acabou com as explosões de Sodoma e Gomorra".
+
+- **Efetivo:** ~850–900 anunnaki na Terra há ~20.000 anos, "comandados por Enlil"; Enki "era o outro irmão"; [Fonte: P2023-12-02]
+
+- Os igigi como categoria distinta dos anunnaki de tipologia humana (RC-024). [Fonte: P2023-12-02]
+
+## 4. Histórico e Eventos Cósmicos
+
+- **[P2023-10-14 · A REVOLTA DOS IGIGI, DATADA POR ESTA FONTE]** "Decorridos 360, 360.000 anos depois da chegada de Alalu, uma um certo tipo de anunque chamado Igii veio pra Terra para trabalhar como sendo os mineradores." (U0005)
+
+## 5. Lentes Curatoriais e Quarentenas
+
+### Observações
+
+Grafia e contexto mesopotâmico validados pelo curador. Status permanece candidato até cruzamento com obra primária/áudio.
+**Regra de status:** permanece ⚪ candidato porque a fonte é STT sem áudio anexado. A aprovação do curador valida a modelagem terminológica, não substitui a futura conferência com áudio ou obra primária.
+
+## 6. Histórico Curatorial e Auditoria
+
+### Fontes
+
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
 | P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
 | P2022-12-17 — O Incompreendido Ano de 2012 e a Falsa Noção do Fim do Mundo | U0707–U0723 | transcrição automatizada; paráfrase e citação |
 
-
-## Citações-chave
-> ““Uma certa classe de Anunnaki chamada Igigi fez isso.”” — P2022-12-17, U0707–U0723
-
-## Ampliação
-### P2025-05-31
-
-- **Os igigis (P2025-05-31):** ramo dos Anunnakis ("igis") que se recusou ao trabalho pesado (retirar ouro para Nibiru); "há 15–16.000 anos" transaram com mulheres humanas na época de Jarede (pai de Enoque) → "raça ímpia"/gigantes; presos por Javé em "prisões onde a energia do mundo [deles]..."; Enoque intercedeu (RC-673); "Lammur" = Marte (STT).
-
-
-### P2022-12-17
-
-- **[P2022-12-17 — FONTE ORIGINAL] Os Igigi (U0750–U0760):** "os Anunnakis rebeldes desobedeceram, Enki e Anu, desobedeceram todo mundo e resolveram transar com seres humanos, ou seja, com mulheres. E também Anunnakis fêmeas transaram com humanos machos"; "uma certa classe de Anunnaki chamada Igigi fez isso e a vida na Terra tornou-se muito complicada"; "esses filhos híbridos de Anunnakis com seres humanos criaram problemas pros interesses da Trimurti, pros interesses de Zeus... uma confusão que só acabou com as explosões de Sodoma e Gomorra".
-
-
-### P2023-10-14 (A Esquecida Honra dos Anunnaki)
-
-- **[P2023-10-14 · A REVOLTA DOS IGIGI, DATADA POR ESTA FONTE]** "Decorridos 360, 360.000 anos depois da chegada de Alalu, uma um certo tipo de anunque chamado Igii veio pra Terra para trabalhar como sendo os mineradores." (U0005)
-- **[P2023-10-14 · A ESCASSEZ DE MÃO DE OBRA COMO CAUSA DA FABRICAÇÃO]** "Então, poucos anulacques, por mais que chegasse, sempre eram poucos para a quantidade de trabalhos 300.000 anos, 200.000 anos, 100.000 anos e em que uma irmã dele chamada Narsc e um outro irmão chamado Eno que já tinha vindo depois dele." (U0005)
-
-## Atualização
-### P2023-12-02 (Thot, o Enigmático Hermes Trismegisto)
-
-- **Tipologia:** "um grupo de 600 anunnaki que tinha uma tipologia muito semelhante à nossa humana e um outro grupo que também se parece conosco, mas que o corpo deles pode receber complemento... eles já nascem com essa genética que o corpo dele já é como se nascesse com lugares para você instalar algumas coisas biônicas... E esses são chamados igigi";
-- **Efetivo:** ~850–900 anunnaki na Terra há ~20.000 anos, "comandados por Enlil"; Enki "era o outro irmão";
-- Os igigi como categoria distinta dos anunnaki de tipologia humana (RC-024).
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
-
-## Observações
-Grafia e contexto mesopotâmico validados pelo curador. Status permanece candidato até cruzamento com obra primária/áudio.
-
-**Regra de status:** permanece ⚪ candidato porque a fonte é STT sem áudio anexado. A aprovação do curador valida a modelagem terminológica, não substitui a futura conferência com áudio ou obra primária.
-
----
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`. [Fonte: P2023-12-02]

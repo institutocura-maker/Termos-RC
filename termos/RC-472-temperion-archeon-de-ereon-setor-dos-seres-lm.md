@@ -12,17 +12,14 @@ atualizado = "2026-09-12"
 +++
 # Tempérion (Archeon de Ereon; setor dos seres LM) — RC-472
 
-## Definição Sintética
+## 1. Gênese e Definição
+
+### Definição Sintética
+
 Tempérion é um dos cinco Archeons de Ereon e o setor da Espiritualidade Laboratorial associado aos seres do gênero LM, entre eles Elm e Olm.
 
-## Etimologia e Grafias
-- Grafia preferida: Tempérion. Variações históricas/STT: Tempérium, Tempério. Não é variação de Perpérion.
-- **Fonte de decisão:** curadoria estrutural C-01 a C-07, 2026-08-14.
+### Termos Relacionados
 
-## Contexto / Origem
-Na palestra, Tempérion contrasta com Perpérion: os LM desenvolveram estratégia de observação e imponderabilidade, enquanto Perpérion concentrou as experiências Adhy ligadas à Criação Indevida.
-
-## Termos Relacionados
 | Termo | Código | Relação | Direção | Notas |
 |---|---|---|---|---|
 | Espiritualidade Laboratorial | RC-061 | parte-de | -> | - |
@@ -47,20 +44,43 @@ Na palestra, Tempérion contrasta com Perpérion: os LM desenvolveram estratégi
 | Imponderabilidade (campo de estudo dos Seres LM) | RC-608 | associado | <-> | - |
 | Nova Espiritualidade / Novo Paraíso (Paraíso B) | RC-612 | associado | <-> | - |
 
-## Seres Associados
+### Etimologia e Grafias
+
+- Grafia preferida: Tempérion. Variações históricas/STT: Tempérium, Tempério. Não é variação de Perpérion.
+- **Fonte de decisão:** curadoria estrutural C-01 a C-07, 2026-08-14.
+
+### Contexto / Origem
+
+Na palestra, Tempérion contrasta com Perpérion: os LM desenvolveram estratégia de observação e imponderabilidade, enquanto Perpérion concentrou as experiências Adhy ligadas à Criação Indevida.
+
+### Citações-chave
+
+> “A turma de Tempérion [...] decidiu transformar Tempérion num lugar de observação, de estudo.” — P2021-12-04, U0051; U0294; U0313–U0337; U0375–U0385; U0459–U0467
+
+## 2. Natureza e Atributos
+
+## 3. Hierarquia e Geopolítica
+
+### Seres Associados
+
 Ver relações acima e os nós Elm (RC-454), Olm (RC-092), Prabrajna (RC-152), Gênero Adhy (RC-411) e Seres LM (RC-456), conforme aplicável.
 
-## Fontes
+## 4. Histórico e Eventos Cósmicos
+
+## 5. Lentes Curatoriais e Quarentenas
+
+### Observações
+
+Decisão C-03/C-04: RC-472 é o termo canônico. RC-498 permanece apenas como remissão histórica de Tempérium.
+**Regra de evidência:** as correções ontológicas foram aprovadas pelo curador, mas a fonte continua sendo STT sem áudio anexado.
+
+## 6. Histórico Curatorial e Auditoria
+
+### Fontes
+
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
 | P2021-12-04 — Os Archeons de Ereon e os Seres Adhy | U0051; U0294; U0313–U0337; U0375–U0385; U0459–U0467 | transcrição automatizada; pré-curadoria validada |
 | Fontes anteriores da Base | B060, B061 | apoio/remissão |
 
-## Citações-chave
-> “A turma de Tempérion [...] decidiu transformar Tempérion num lugar de observação, de estudo.” — P2021-12-04, U0051; U0294; U0313–U0337; U0375–U0385; U0459–U0467
-
-## Observações
-Decisão C-03/C-04: RC-472 é o termo canônico. RC-498 permanece apenas como remissão histórica de Tempérium.
-
-**Regra de evidência:** as correções ontológicas foram aprovadas pelo curador, mas a fonte continua sendo STT sem áudio anexado.
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

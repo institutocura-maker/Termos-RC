@@ -12,18 +12,14 @@ atualizado = "2026-08-30"
 +++
 # Lilith como Rakshasa (Espécie Não-Humana) — RC-794
 
-## Definição Sintética
+## 1. Gênese e Definição
+
+### Definição Sintética
+
 Tese (leitura do autor, palestra **P2025-04-06**, U0006) de que **Lilith (RC-308)** **não é humana** — é da **espécie Rakshasa** (STT "Rxaça") (também grafada "racha"), que tem **mais de 1000 tipos/subespécies**. Lilith é **"monstruosa"**, mas **surgiu para apoiar Pandora (RC-086)**. Seus descendentes **mantinham o mito dela** como forma de **esconder Pandora** ("fazendo crer que ela estava morta para ver se ela ganhava um descanso"). A tese afasta Lilith da demonologia judaica-cristã (1ª esposa de Adão) e a reinscreve como **espécie cósmica não-humana**. Ver RC-308 (Lilith), RC-086 (Pandora), RC-796 (Judaísmo).
 
-## Etimologia e Grafias
-- **Grafia preferida:** Lilith como Rakshasa (Espécie Não-Humana)
-- **Variações STT capturadas:** "Rxassa", "Rchaça", "Rxaças", "rachaças", "Lilif", "Lili"
-- **Idioma de origem:** Sânscrito rākṣasa (clássico); "Rxaça/Rxassa/rachaça/raxchaça" são degradação STT — ver Resolução 10/09/2026 em Observações
+### Termos Relacionados
 
-## Contexto / Origem
-Aparece em **P2025-04-06**, U0006, em resposta à pergunta sobre Nyx. Contexto: "Lilif é alguém que surgiu aqui para apoiar a Pandora. Só que Lilif não é humana, é Rxassa. E Lilif é monstruosa. A Pandora não fazia mal a ninguém."
-
-## Termos Relacionados
 | Termo | Código | Relação | Direção | Notas |
 |---|---|---|---|---|
 | Pandora | RC-086 | protege | -> | consolidação: "apoia" → "protege" |
@@ -33,34 +29,51 @@ Aparece em **P2025-04-06**, U0006, em resposta à pergunta sobre Nyx. Contexto: 
 | Judaísmo como Destruidor do Mito de Pandora/Lilith | RC-796 | explica | -> | consolidação: "reescreveu" → "explica" |
 | Culto a Lilith (Transformação em Deusa Lil Babilônica) | RC-813 | associado | <-> | - |
 
-## Seres Associados
+### Etimologia e Grafias
+
+- **Grafia preferida:** Lilith como Rakshasa (Espécie Não-Humana)
+- **Variações STT capturadas:** "Rxassa", "Rchaça", "Rxaças", "rachaças", "Lilif", "Lili"
+- **Idioma de origem:** Sânscrito rākṣasa (clássico); "Rxaça/Rxassa/rachaça/raxchaça" são degradação STT — ver Resolução 10/09/2026 em Observações
+
+### Contexto / Origem
+
+Aparece em **P2025-04-06**, U0006, em resposta à pergunta sobre Nyx. Contexto: "Lilif é alguém que surgiu aqui para apoiar a Pandora. Só que Lilif não é humana, é Rxassa. E Lilif é monstruosa. A Pandora não fazia mal a ninguém."
+
+### Citações-chave
+
+> «um gênero chamado rxá que tem mais de 1000 espécies, tem mais de 1000 tipos de rachas. A gente fala os rchaças, não dá para falar assim porque é uma complexidade muito grande. E uma dessas espécies, Lilif é alguém que surgiu aqui para apoiar a Pandora. Só que Lilif não é humana, é Rxassa. E Lilif é monstruosa.» — P2025-04-06 · `original.txt` L32 · reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte.
+> «Lilif saiu e teve descendência de Lili que passou a manter o mito dela. Então, houve momentos em que o mito de Liliff era mais forte do que Pandora, porque a estratégia era esconder Pandora para que alguns pensassem que ela tava morta para ver se ela ganhava um descanso.» — P2025-04-06 · `original.txt` L32 · reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte.
+
+## Citações Verbatim
+
+**Fonte:** palestra «A Quem Pertence o Planeta e a Biblioteca Genômica Mais Atualizada do Universo» (17/03/2024).
+**Trecho verbatim:** «A mais desagradável é que ela era uma raxchaça. O que é uma rachaça? Um vampiro. Um ser criado nesse universo vizinho que passava pelos portais para cá. Mas o vampiro não tem culpa de ser vampiro. Ele já foi criado desse jeito. Só que Lili era uma rachaça esclarecida e que Vendo o que Pandora havia feito, revoltou-se contra o controle dos deuses sobre os humanos e sobre os próprios raquchas.»
+
+## 3. Hierarquia e Geopolítica
+
+### Seres Associados
+
 - **Lilith** (RC-308) — espécime Rakshasa
 - **Pandora** (RC-086) — quem Lilith apoiava
 - **Descendentes de Lilith** — que mantinham o mito dela
 
-## Fontes
+## 5. Lentes Curatoriais e Quarentenas
+
+### Observações
+
+- **Quarentena demonológica FORTE**: a tese afasta Lilith da demonologia judaica-cristã tradicional (1ª esposa de Adão, mãe de demônios) — **NÃO FUSIONAR**.
+- [REVISAR → ENCERRADO 2026-09-05 · F038-L2: ver nota — paralelos confirmados em 4 palestras]: a grafia "Rxaça" pode ter paralelo em outras palestras com a grafia "rachacha" ou similar.
+- ~~O conceito de "espécie Rxaça" pode ter ficha dedicada (RC-###) — verificar.~~ **RESOLVIDO 10/09/2026: é RC-581 (Rakshasas) — ver Resolução abaixo.**
+
+## 6. Histórico Curatorial e Auditoria
+
+### Fontes
+
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
 | P2025-04-06 — A Revolução Inacabada de Prometeu e Pandora | U0006 (S6) | — | palestra (fonte primária, STT) |
 | P2023-11-11 — De Pandora a Eva e a Rebelião de Lilith | U0004 (S4) | — | palestra (fonte secundária, contexto) |
 
-## Citações-chave
-> «um gênero chamado rxá que tem mais de 1000 espécies, tem mais de 1000 tipos de rachas. A gente fala os rchaças, não dá para falar assim porque é uma complexidade muito grande. E uma dessas espécies, Lilif é alguém que surgiu aqui para apoiar a Pandora. Só que Lilif não é humana, é Rxassa. E Lilif é monstruosa.» — P2025-04-06 · `original.txt` L32 · reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte.
-
-> «Lilif saiu e teve descendência de Lili que passou a manter o mito dela. Então, houve momentos em que o mito de Liliff era mais forte do que Pandora, porque a estratégia era esconder Pandora para que alguns pensassem que ela tava morta para ver se ela ganhava um descanso.» — P2025-04-06 · `original.txt` L32 · reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte.
-
-## Ampliação
-### P2024-03-17
-
-**Fonte:** palestra «A Quem Pertence o Planeta e a Biblioteca Genômica Mais Atualizada do Universo» (17/03/2024).
-
-**Trecho verbatim:** «A mais desagradável é que ela era uma raxchaça. O que é uma rachaça? Um vampiro. Um ser criado nesse universo vizinho que passava pelos portais para cá. Mas o vampiro não tem culpa de ser vampiro. Ele já foi criado desse jeito. Só que Lili era uma rachaça esclarecida e que Vendo o que Pandora havia feito, revoltou-se contra o controle dos deuses sobre os humanos e sobre os próprios raquchas.»
-
-
 > Notas de processo: 2 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-794.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
-- ✅ **Reanexação A5 (U91, 15/09/2026):** os 2 trechos entre aspas desta ficha foram reanexados às fontes e passam a trazer aparelho de linha (`— SIGLA · original.txt LNNNN`), conferido byte a byte pelo Portão B. **Quarentena epistemológica de 14/09/2026 (U86) levantada nesta ficha** — a nota original dizia que o trecho não resistia à verificação; agora resiste, porque deixou de ser uma transcrição solta e passou a ser extracto conferido. Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
 
-## Observações
-- **Quarentena demonológica FORTE**: a tese afasta Lilith da demonologia judaica-cristã tradicional (1ª esposa de Adão, mãe de demônios) — **NÃO FUSIONAR**.
-- [REVISAR → ENCERRADO 2026-09-05 · F038-L2: ver nota — paralelos confirmados em 4 palestras]: a grafia "Rxaça" pode ter paralelo em outras palestras com a grafia "rachacha" ou similar.
-- ~~O conceito de "espécie Rxaça" pode ter ficha dedicada (RC-###) — verificar.~~ **RESOLVIDO 10/09/2026: é RC-581 (Rakshasas) — ver Resolução abaixo.**
+- ✅ **Reanexação A5 (U91, 15/09/2026):** os 2 trechos entre aspas desta ficha foram reanexados às fontes e passam a trazer aparelho de linha (`— SIGLA · original.txt LNNNN`), conferido byte a byte pelo Portão B. **Quarentena epistemológica de 14/09/2026 (U86) levantada nesta ficha** — a nota original dizia que o trecho não resistia à verificação; agora resiste, porque deixou de ser uma transcrição solta e passou a ser extracto conferido. Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`. [Fonte: P2024-03-17]

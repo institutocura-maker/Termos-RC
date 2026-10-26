@@ -12,18 +12,14 @@ atualizado = "2026-08-30"
 +++
 # Lamúria dos Deuses (Diagnóstico de Prometeu) — RC-791
 
-## Definição Sintética
+## 1. Gênese e Definição
+
+### Definição Sintética
+
 Tese (leitura do autor, palestra **P2025-04-06**, U0004) de que a **"lamúria dos deuses"** — a lamentação interminável e improdutiva de Javé, Zeus, Brahma, Shiva, Vishnu e outros — é o **fato comum** desde o **Ragnarok (300 milhões de anos atrás)**. **Prometeu (RC-301) e Epimeteu (RC-302)** ouviam essa lamúria (especialmente no criatório) e a **catalogavam como diagnóstico** — o que os levou a **negar a existência dos deuses** e a iniciar a **revolução inacabada** (RC-788). A "lamúria" é, portanto, o **gatilho** da revolta de Prometeu. Ver RC-301, RC-302, RC-149 (Zeus), RC-001 (Javé).
 
-## Etimologia e Grafias
-- **Grafia preferida:** Lamúria dos Deuses (Diagnóstico de Prometeu)
-- **Variações STT capturadas:** "lamúria", "lamúria dos deuses", "lamentação dos deuses"
-- **Idioma de origem:** Português
+### Termos Relacionados
 
-## Contexto / Origem
-Aparece em **P2025-04-06**, U0004. Contexto: "central de informação. Eu chamo da da lamúria dos deuses. Lamúria é o quê? É um tipo de lamentação interminável, que importuna, mas que a nada leva. Mas era exatamente esse o padrão constante desses deuses. Eles viviam se lamuriando tudo. E quem é que diabos escutava isso aqui? Prometeu e Epimeteu."
-
-## Termos Relacionados
 | Termo | Código | Relação | Direção | Notas |
 |---|---|---|---|---|
 | Javé | RC-001 | relaciona-se-a | -> | consolidação: "lamuriou-se" → "relaciona-se-a" |
@@ -38,27 +34,44 @@ Aparece em **P2025-04-06**, U0004. Contexto: "central de informação. Eu chamo 
 | Centro Alquímico-Farmacopédico | RC-789 | relaciona-se-a | -> | consolidação: "ouviu-em" → "relaciona-se-a" |
 | Ragnarok | (ver RC-009/RC-730) | contexto | <- | consolidação: "contextualizado-por" → "contexto"; direção invertida (forma passiva/inversa) |
 
-## Seres Associados
+### Etimologia e Grafias
+
+- **Grafia preferida:** Lamúria dos Deuses (Diagnóstico de Prometeu)
+- **Variações STT capturadas:** "lamúria", "lamúria dos deuses", "lamentação dos deuses"
+- **Idioma de origem:** Português
+
+### Contexto / Origem
+
+Aparece em **P2025-04-06**, U0004. Contexto: "central de informação. Eu chamo da da lamúria dos deuses. Lamúria é o quê? É um tipo de lamentação interminável, que importuna, mas que a nada leva. Mas era exatamente esse o padrão constante desses deuses. Eles viviam se lamuriando tudo. E quem é que diabos escutava isso aqui? Prometeu e Epimeteu."
+
+### Citações-chave
+
+> «a lamúria dos deuses passou a ser o fato comum ao longo dos últimos 300 milhões de anos, porque foi o tempo em que o Rinarok exatamente aconteceu.» — P2025-04-06 · `original.txt` L6 · reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte.
+> «Lamúria é o quê? É um tipo de lamentação interminável, que importuna, mas que a nada leva. Mas era exatamente esse o padrão constante desses deuses. Eles viviam se lamuriando tudo. E quem é que diabos escutava isso aqui? Prometeu e Epimeteu. Então, esses caras eles foram colecionando a lamúria de todo mundo.» — P2025-04-06, U0004
+> «Prometeu, começou a ser alguém que parou de levar a sério a si mesmo, a Zeus, a tudo que era ser que se pretendia superior.» — P2025-04-06 · `original.txt` L5 · reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte.
+
+## 3. Hierarquia e Geopolítica
+
+### Seres Associados
+
 - **Prometeu** (RC-301) — quem diagnosticou
 - **Epimeteu** (RC-302) — quem diagnosticou
 - **Javé, Zeus, Brahma, Shiva, Vishnu** — os "lamurientos"
 
-## Fontes
+## 5. Lentes Curatoriais e Quarentenas
+
+### Observações
+
+- [REVISAR → CHANCELA 2026-09-06 · F041-L5: AGUARDA-ÁUDIO (dívida perdoada até nova evidência na base; STT preservado como falado) — ver nota]: o conceito de "lamúria dos deuses" é leitura do autor — pode aparecer em outras palestras com formulações similares.
+- Quarentena: leitura do autor; sem fusionar com teologia negativa acadêmica ou com crítica filosófica aos deuses.
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-791.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
+
+## 6. Histórico Curatorial e Auditoria
+
+### Fontes
+
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
 | P2025-04-06 — A Revolução Inacabada de Prometeu e Pandora | U0004 (S4) | — | palestra (fonte primária, STT) |
 
-## Citações-chave
-> «a lamúria dos deuses passou a ser o fato comum ao longo dos últimos 300 milhões de anos, porque foi o tempo em que o Rinarok exatamente aconteceu.» — P2025-04-06 · `original.txt` L6 · reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte.
-
-> «Lamúria é o quê? É um tipo de lamentação interminável, que importuna, mas que a nada leva. Mas era exatamente esse o padrão constante desses deuses. Eles viviam se lamuriando tudo. E quem é que diabos escutava isso aqui? Prometeu e Epimeteu. Então, esses caras eles foram colecionando a lamúria de todo mundo.» — P2025-04-06, U0004
-
-> «Prometeu, começou a ser alguém que parou de levar a sério a si mesmo, a Zeus, a tudo que era ser que se pretendia superior.» — P2025-04-06 · `original.txt` L5 · reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte.
-
-## Observações
-- [REVISAR → CHANCELA 2026-09-06 · F041-L5: AGUARDA-ÁUDIO (dívida perdoada até nova evidência na base; STT preservado como falado) — ver nota]: o conceito de "lamúria dos deuses" é leitura do autor — pode aparecer em outras palestras com formulações similares.
-- Quarentena: leitura do autor; sem fusionar com teologia negativa acadêmica ou com crítica filosófica aos deuses.
-
-
-> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-791.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
 - ✅ **Reanexação A5 (U91, U92, 15/09/2026):** os 3 trechos entre aspas desta ficha foram reanexados às fontes e passam a trazer aparelho de linha (`— SIGLA · original.txt LNNNN`), conferido byte a byte pelo Portão B. **Quarentena epistemológica de 14/09/2026 (U86) levantada nesta ficha** — a nota original dizia que o trecho não resistia à verificação; agora resiste, porque deixou de ser uma transcrição solta e passou a ser extracto conferido. Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

@@ -12,16 +12,14 @@ atualizado = "2026-08-15"
 +++
 # Plantas de Moléculas Complexas — RC-686
 
-## Definição Sintética
+## 1. Gênese e Definição
+
+### Definição Sintética
+
 Termo extraído e aprovado na curadoria de P2025-05-31.
 
-## Etimologia e Grafias
-Forma preferida: Plantas de Moléculas Complexas.
+### Termos Relacionados
 
-## Contexto / Origem
-O Mistério da Árvore da Vida e a Urdidura de Metatron.
-
-## Termos Relacionados
 | Termo | Código | Relação | Direção | Notas |
 |---|---|---|---|---|
 | DNA como Projeção Holográfica do Psiquismo do Criador | RC-217 | - | - | sem relação informada; 17 linhas são registros de fonte com 4 colunas |
@@ -30,23 +28,38 @@ O Mistério da Árvore da Vida e a Urdidura de Metatron.
 | Farmacopeia Ancestral Extraterrestre | RC-687 | relaciona-se-a | -> | - |
 | Sangue como Cópia da Seiva | RC-689 | associado | <-> | - |
 
-## Seres Associados
-Consultar Base.
+### Etimologia e Grafias
 
-## Fontes
-P2025-05-31.
+Forma preferida: Plantas de Moléculas Complexas.
 
-## Citações-chave
+### Contexto / Origem
+
+O Mistério da Árvore da Vida e a Urdidura de Metatron.
+
+### Citações-chave
+
 Ver transcrição.
 
-## Reforço
-### P2025-02-15
+## Citações Verbatim
 
 A palestra volta a afirmar que plantas psicoativas possuem centenas de moléculas complexas e teriam sido manipuladas. A afirmação exige ressalva botânica e científica.
 
-### P2024-11-30
-
 Cannabis e outras plantas são descritas como portadoras de centenas de moléculas complexas e possível manipulação externa. Exige ressalva botânica e científica.
 
-## Observações
+## 3. Hierarquia e Geopolítica
+
+### Seres Associados
+
+Consultar Base.
+
+## 5. Lentes Curatoriais e Quarentenas
+
+### Observações
+
 Teologia comparada e alegações científicas permanecem atribuídas ao palestrante.
+
+## 6. Histórico Curatorial e Auditoria
+
+### Fontes
+
+P2025-05-31.

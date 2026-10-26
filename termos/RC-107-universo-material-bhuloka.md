@@ -12,18 +12,14 @@ atualizado = "2026-08-12"
 +++
 # Universo Material (Bhuloka) — RC-107
 
-## Definição Sintética
+## 1. Gênese e Definição
+
+### Definição Sintética
+
 É o universo que habitamos, que passou a existir há **13,7 bilhões de anos** a partir de uma singularidade chamada **Big Bang** ("Grande Expansão"). Formado por bilhões de galáxias, estrelas e planetas; também chamado de **Bhuloka** (termo sânscrito). É o universo da vida biológica "de vida curta", para onde o Projeto Talm transferiu o código de vida do Criador (B031).
 
-## Etimologia e Grafias
-- **Grafia preferida:** Universo Material
-- **Variações:** Bhuloka (sânscrito); nosso universo; universo biológico
+### Termos Relacionados
 
-
-## Contexto / Origem
-Um dos dois universos paralelos resultantes da queda do Criador. É o cenário dos seres biológicos: biodemos, extraterrestres biológicos e seres terrenos (humanos).
-
-## Termos Relacionados
 | Termo | Código | Relação | Direção | Notas |
 |---|---|---|---|---|
 | Bhuloka | RC-033 | variação | -> | consolidação: "sinônimo" → "variação" |
@@ -62,25 +58,48 @@ Um dos dois universos paralelos resultantes da queda do Criador. É o cenário d
 | Colapso do Caos Organizado | RC-690 | causa | <- | consolidação: "afeta" → "causa" |
 | Axis Mundi / Axismund | RC-731 | associado | <-> | - |
 
-## Seres Associados
+### Etimologia e Grafias
+
+- **Grafia preferida:** Universo Material
+- **Variações:** Bhuloka (sânscrito); nosso universo; universo biológico
+
+### Contexto / Origem
+
+Um dos dois universos paralelos resultantes da queda do Criador. É o cenário dos seres biológicos: biodemos, extraterrestres biológicos e seres terrenos (humanos).
+
+### Citações-chave
+
+> «É o universo que habitamos e que passou a» » … « «existir há 13,7 bilhões de anos, a partir de uma singularidade a qual» » … « «chamamos de “Big Bang”. É formado por bilhões de galáxias, estrelas e» » … « «planetas. Também chamado de Bhuloka.» — B031 p. 147 · `original.txt` L3882 · reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte.
+
+## 2. Natureza e Atributos
+
+## 3. Hierarquia e Geopolítica
+
+### Seres Associados
+
 Biodemos (RC-036); Seres Terrenos (RC-099); Sophia (RC-009, suserano).
 
-## Fontes
+## 4. Histórico e Eventos Cósmicos
+
+## 5. Lentes Curatoriais e Quarentenas
+
+- **[B060 p. 8 · verbete "Universo Material"]** equivalências: Assiah (Cabala) · **Bhuloka (✓ RC-107)** · Daath (RC-262) · **Hutukara (Yanomami, BR)** · **Hyron (Druidística — o par de Hyren; cross B085)** · Iav (Eslava) · **Midgard (Marte+Terra — Nórdica; RC-470 ✓)** · Musphelhein [sic] (Nórdica) · Realidade subjacente (RC).
+
+- **[B060 · quarentena]** idem RC-106; a dupla Hyren (antimaterial) / Hyron (material) na druidística — a "colisão" da B085.
+
+### Observações
+
+Ficha baseada no glossário de B031.
+
+## 6. Histórico Curatorial e Auditoria
+
+### Fontes
+
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
 | Painéis Emergentes... (B031) | Glossário de Termos | p. 145 (aprox.) | verbete "Universo Material" |
 | Painéis Emergentes... (B031) | Glossário de Termos | p. 126 (aprox.) | verbete "Bhuloka" |
 
-## Citações-chave
-> «É o universo que habitamos e que passou a» » … « «existir há 13,7 bilhões de anos, a partir de uma singularidade a qual» » … « «chamamos de “Big Bang”. É formado por bilhões de galáxias, estrelas e» » … « «planetas. Também chamado de Bhuloka.» — B031 p. 147 · `original.txt` L3882 · reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte.
+- 0 códigos novos (O-3). [Fonte: B060]
 
-## Ampliação
-### B060 (Personagens e Terminologias da Revelação Cósmica)
-
-- **[B060 p. 8 · verbete "Universo Material"]** equivalências: Assiah (Cabala) · **Bhuloka (✓ RC-107)** · Daath (RC-262) · **Hutukara (Yanomami, BR)** · **Hyron (Druidística — o par de Hyren; cross B085)** · Iav (Eslava) · **Midgard (Marte+Terra — Nórdica; RC-470 ✓)** · Musphelhein [sic] (Nórdica) · Realidade subjacente (RC).
-- **[B060 · quarentena]** idem RC-106; a dupla Hyren (antimaterial) / Hyron (material) na druidística — a "colisão" da B085.
-- 0 códigos novos (O-3).
-
-## Observações
-Ficha baseada no glossário de B031.
 - ✅ **Reanexação A5 (U92, 15/09/2026):** o trecho entre aspas desta ficha foi reanexado às fontes e passa a trazer aparelho de linha (`— SIGLA · original.txt LNNNN`), conferido byte a byte pelo Portão B. **Quarentena epistemológica de 14/09/2026 (U86) levantada nesta ficha** — a nota original dizia que o trecho não resistia à verificação; agora resiste, porque deixou de ser uma transcrição solta e passou a ser extracto conferido. Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.

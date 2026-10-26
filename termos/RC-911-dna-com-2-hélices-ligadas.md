@@ -12,17 +12,28 @@ atualizado = "2026-09-13"
 +++
 # DNA com 2 Hélices Ligadas — RC-911
 
-## Definição Sintética
+## 1. Gênese e Definição
+
+### Definição Sintética
+
 DNA com 2 Hélices Ligadas — conceito desenvolvido na palestra «Delírio Humano a Insensatez Espiritual da Busca Religiosa» (P2023-10-15).
 
-## Termos Relacionados
+### Termos Relacionados
+
 | Termo | Código | Relação | Direção | Notas |
 |---|---|---|---|---|
 | Dignidade como Critério de Consciência | RC-722 | associado | <-> | - |
 | Vício Devocional | RC-749 | associado | <-> | - |
 
+## 2. Natureza e Atributos
 
-## Ampliação
-### P2023-10-15
+## 3. Hierarquia e Geopolítica
+
 **Fonte:** palestra «Delírio Humano a Insensatez Espiritual da Busca Religiosa» (15/10/2023).
 **Trecho verbatim:** «Nós estamos só com duas hélices ligadas e as outras 10 hélices. Na realidade nós teríamos que ter as 12 hélices ligadas e não duas, que é o que acontece. Isso é escravidão pura.»
+
+## 4. Histórico e Eventos Cósmicos
+
+## 5. Lentes Curatoriais e Quarentenas
+
+## 6. Histórico Curatorial e Auditoria

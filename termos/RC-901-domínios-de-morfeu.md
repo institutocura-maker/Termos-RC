@@ -12,10 +12,14 @@ atualizado = "2026-09-13"
 +++
 # Domínios de Morfeu — RC-901
 
-## Definição Sintética
+## 1. Gênese e Definição
+
+### Definição Sintética
+
 Domínios de Morfeu — conceito desenvolvido na palestra «A Teia da Vida e o Circuito Oculto dos Deuses» (P2024-01-13).
 
-## Termos Relacionados
+### Termos Relacionados
+
 | Termo | Código | Relação | Direção | Notas |
 |---|---|---|---|---|
 | Belial (arconte; 'Satã' do livro de Jó) | RC-479 | associado | <-> | - |
@@ -31,8 +35,15 @@ Domínios de Morfeu — conceito desenvolvido na palestra «A Teia da Vida e o C
 | Espírito como Ator | RC-925 | associado | <-> | - |
 | Lixo de Informações Apodrecidas | RC-926 | associado | <-> | - |
 
+## 2. Natureza e Atributos
 
-## Ampliação
-### P2024-01-13
+## 3. Hierarquia e Geopolítica
+
 **Fonte:** palestra «A Teia da Vida e o Circuito Oculto dos Deuses» (13/01/2024).
 **Trecho verbatim:** «Quais são os domínios de Morfeu? Boa parte das faixas de realidades produzidas pelos lupos mentais dos humanos»
+
+## 4. Histórico e Eventos Cósmicos
+
+## 5. Lentes Curatoriais e Quarentenas
+
+## 6. Histórico Curatorial e Auditoria

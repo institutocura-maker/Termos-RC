@@ -12,25 +12,14 @@ atualizado = "2026-08-18"
 +++
 # Daksha e Virini — RC-701
 
-## Definição Sintética
+## 1. Gênese e Definição
+
+### Definição Sintética
+
 Dupla ancestral associada, na genealogia apresentada, às filhas que estruturam as linhagens ligadas a Kashyapa, incluindo Aditi, Diti e Kadru.
 
-## Etimologia e Grafias
-Formas preferidas: **Daksha** e **Virini**.
+### Termos Relacionados
 
-Formas STT: `Daxha`, `Daxa`, `Dakar`, `Virine`.
-
-
-## Contexto / Origem
-Daksha é apresentado como ser gerado a partir do corpo regenerado de Brahma. Virini participa da geração de suas filhas. A fala menciona:
-
-- 69 filhas de Daksha no total;
-- 13 filhas especialmente relacionadas a Kashyapa e às linhagens abordadas;
-- Aditi, Diti e Kadru como protagonistas.
-
-As duas contagens são preservadas, não harmonizadas.
-
-## Termos Relacionados
 | Termo | Código | Relação | Direção | Notas |
 |---|---|---|---|---|
 | Brahma (Brajna) | RC-037 | relaciona-se-a | <- | - |
@@ -51,45 +40,60 @@ As duas contagens são preservadas, não harmonizadas.
 | Kashyapa | RC-700 | associado | <-> | consolidação: "tem-filhas-unidas-a" → "associado" |
 | Samudra Manthana / Batimento do Oceano de Leite | RC-734 | associado | <-> | - |
 
-## Fontes
+### Etimologia e Grafias
+
+Formas preferidas: **Daksha** e **Virini**.
+Formas STT: `Daxha`, `Daxa`, `Dakar`, `Virine`.
+
+### Contexto / Origem
+
+Daksha é apresentado como ser gerado a partir do corpo regenerado de Brahma. Virini participa da geração de suas filhas. A fala menciona:
+- 69 filhas de Daksha no total;
+- 13 filhas especialmente relacionadas a Kashyapa e às linhagens abordadas;
+- Aditi, Diti e Kadru como protagonistas.
+As duas contagens são preservadas, não harmonizadas.
+
+### Citações-chave
+
+> “Daksha teve 69 filhas.”
+> “Essas 13 filhas de Daksha são as mães de quase tudo que nós vemos.”
+
+- **Aditi →** 12 Adityas/senhores da criação (→ Vivasvan → Yama/Manu → Manavas); **Diti →** Asuras; **Kadru →** Nagas e Uragas. [Fonte: P2025-02-16]
+
+## 2. Natureza e Atributos
+
+- **Daksha e Virini (P2025-02-16):** "Daksha teve 69 filhas... essas 13 filhas de Daksha são as mães de quase tudo que vemos no universo e particularmente aqui na Terra"; "dessas 13, Aditi, Diti e Kadru têm protagonismo maior".
+
+- **Cadru (13ª filha) + Cásiapa = serpentes:** "13 filhas uniram os seus códigos-fontes definidores ao de Cásiapa. E principalmente a 13ª filha chama-se Cadru. Cadru e Cásiapa criaram todos os tipos de serpentes que existem no universo vizinho" — centenas/milhares de espécies; [Fonte: P2024-09-28]
+
+- **Pashupati (RC-669):** "foi quando Shiva criou a expressão adiágena dele como Pashupati para interagir com isso... Pashupati centralizou, tomou desse trabalho e a partir dele migrou as informações pro universo biológico" (nova aresta RC-701 ↔ RC-669). [Fonte: P2024-09-28]
+
+## 3. Hierarquia e Geopolítica
+
+- **69 filhas de Daksha:** as últimas 13 deram origem a Olímpicos e Titãs; duas dessas 13 → os olimpianos/titãs; uma delas ("Ira" [REVISAR → CHANCELA 2026-09-06 · F039-L3: AGUARDA-ÁUDIO (STT preservado como falado) — ver nota]) produziu todas as plantas, inclusive a cuscuta (STT da palestra P2026-07-25).
+
+## 4. Histórico e Eventos Cósmicos
+
+- **[Daksha e Virini — filho de Brahma] (U0003)** «Olha, Daxa é um filho de Brama que teve várias consortes e teve 10 filhas.» — Daksha (STT "Daxa/Daxha") como filho/descendente de Brahma, pai de Sati; a festa sem convidar Shiva motiva o Virabhadra (radar). [Fonte: P2022-05-07]
+
+## 5. Lentes Curatoriais e Quarentenas
+
+- **Daksha com 69 filhas:** "esse Daxa teve 69 filhas... cada uma dessas 69 filhas é responsável por uma maluquice à parte"; [Fonte: P2024-09-28]
+
+### Observações
+
+- Preservar 69 e 13 como contagens de conjuntos diferentes na fala.
+- Não completar a lista de filhas com fontes externas dentro da transcrição editada.
+
+## 6. Histórico Curatorial e Auditoria
+
+### Fontes
+
 | Fonte | Localização | Tipo |
 |---|---|---|
 | P2022-05-07 | Shiva, o Projeto Talm e os Mistérios de Awaylengam (palestra) | — | transcrição automatizada; citação |
 | P2025-02-16 | U0477–U0480; U0485; U0503; U0674–U0684 | aula/palestra STT |
 
-## Citações-chave
-> “Daksha teve 69 filhas.”
-
-> “Essas 13 filhas de Daksha são as mães de quase tudo que nós vemos.”
-
-## Ampliação
-### P2026-07-25
-
-- **69 filhas de Daksha:** as últimas 13 deram origem a Olímpicos e Titãs; duas dessas 13 → os olimpianos/titãs; uma delas ("Ira" [REVISAR → CHANCELA 2026-09-06 · F039-L3: AGUARDA-ÁUDIO (STT preservado como falado) — ver nota]) produziu todas as plantas, inclusive a cuscuta (STT da palestra P2026-07-25).
-
-
-### P2025-02-16
-
-- **Daksha e Virini (P2025-02-16):** "Daksha teve 69 filhas... essas 13 filhas de Daksha são as mães de quase tudo que vemos no universo e particularmente aqui na Terra"; "dessas 13, Aditi, Diti e Kadru têm protagonismo maior".
-- **Aditi →** 12 Adityas/senhores da criação (→ Vivasvan → Yama/Manu → Manavas); **Diti →** Asuras; **Kadru →** Nagas e Uragas.
-
-### P2022-05-07 (Shiva, o Projeto Talm e os Mistérios de Awaylengam)
-
-- **[Daksha e Virini — filho de Brahma] (U0003)** «Olha, Daxa é um filho de Brama que teve várias consortes e teve 10 filhas.» — Daksha (STT "Daxa/Daxha") como filho/descendente de Brahma, pai de Sati; a festa sem convidar Shiva motiva o Virabhadra (radar).
-
-## Atualização
-### P2024-09-28 (A Raça Inabalável dos Sethianos Emancipados) — ABSORÇÃO NT-ST02
-
-- **Daksha com 69 filhas:** "esse Daxa teve 69 filhas... cada uma dessas 69 filhas é responsável por uma maluquice à parte";
-- **Cadru (13ª filha) + Cásiapa = serpentes:** "13 filhas uniram os seus códigos-fontes definidores ao de Cásiapa. E principalmente a 13ª filha chama-se Cadru. Cadru e Cásiapa criaram todos os tipos de serpentes que existem no universo vizinho" — centenas/milhares de espécies;
-- **Pashupati (RC-669):** "foi quando Shiva criou a expressão adiágena dele como Pashupati para interagir com isso... Pashupati centralizou, tomou desse trabalho e a partir dele migrou as informações pro universo biológico" (nova aresta RC-701 ↔ RC-669).
-
-
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-701.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** os 2 trechos entre aspas desta ficha **não** resistem à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Só 1 dos 2 deixam vestígio no corpus. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
 
-## Observações
-- Preservar 69 e 13 como contagens de conjuntos diferentes na fala.
-- Não completar a lista de filhas com fontes externas dentro da transcrição editada.
-
----
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** os 2 trechos entre aspas desta ficha **não** resistem à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Só 1 dos 2 deixam vestígio no corpus. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`. [Fonte: P2024-09-28]

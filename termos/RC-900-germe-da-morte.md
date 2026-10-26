@@ -12,17 +12,28 @@ atualizado = "2026-09-13"
 +++
 # Germe da Morte — RC-900
 
-## Definição Sintética
+## 1. Gênese e Definição
+
+### Definição Sintética
+
 Germe da Morte — conceito desenvolvido na palestra «A Teia da Vida e o Circuito Oculto dos Deuses» (P2024-01-13).
 
-## Termos Relacionados
+### Termos Relacionados
+
 | Termo | Código | Relação | Direção | Notas |
 |---|---|---|---|---|
 | Teia quântica (o que sai de um ser volta para ele) | RC-559 | associado | <-> | - |
 | Simultaneidade Reversa | RC-628 | associado | <-> | - |
 
+## 2. Natureza e Atributos
 
-## Ampliação
-### P2024-01-13
+## 3. Hierarquia e Geopolítica
+
 **Fonte:** palestra «A Teia da Vida e o Circuito Oculto dos Deuses» (13/01/2024).
 **Trecho verbatim:** «nada existe de vivo que não traga em si o germe da sua própria morte»
+
+## 4. Histórico e Eventos Cósmicos
+
+## 5. Lentes Curatoriais e Quarentenas
+
+## 6. Histórico Curatorial e Auditoria

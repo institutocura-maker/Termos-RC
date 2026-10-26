@@ -12,19 +12,14 @@ atualizado = "2026-08-29"
 +++
 # Evolução Possível (terceira via) — RC-541
 
-## Definição Sintética
+## 1. Gênese e Definição
+
+### Definição Sintética
+
 **Evolução Possível** é a tese central de *Nem Deus, nem Javé, nem Darwin* (B019, 2021): uma **terceira via** para compreender a evolução da vida — nem o "deus bíblico" (criacionismo), nem a "seleção natural" darwiniana pura, nem a aleatoriedade absoluta. Segundo Ellam, a evolução terrestre seria um processo conduzido (e disputado) por múltiplos agentes cósmicos — o "Consórcio de Mundos"/"Arquitetos Universais" (RC-538/539) — comprometidos com a edificação da **Criatura Universal** (RC-042).
 
-## Etimologia e Grafias
-- **Grafia preferida:** Evolução Possível
-- **Variações:** "a evolução possível" (subtítulo); "Evolução Possível para Quem?" (cap. 1)
-- **Obs.:** título do livro também traz a fórmula "Nem Deus, nem Javé, nem Darwin"
+### Termos Relacionados
 
-
-## Contexto / Origem
-O livro (18 capítulos) percorre: as teorias da evolução, o "Jogo das Mutações", o desenvolvimento cerebral dos primatas, o "acaso inteligente", Goswami e o "Primado da Consciência Criativa", a "Evolução Criativa", o Ex-DNA-lixo, o epigenoma como "Espelho da Herança Espiritual", e a "Criatura Universal". A síntese: o Homo sapiens atual seria um "protótipo" da futura Criatura Universal, e a evolução possível dependeria da atitude mental de cada ser.
-
-## Termos Relacionados
 | Termo | Código | Relação | Direção | Notas |
 |---|---|---|---|---|
 | Criatura Universal | RC-042 | relaciona-se-a | -> | - |
@@ -40,37 +35,45 @@ O livro (18 capítulos) percorre: as teorias da evolução, o "Jogo das Mutaçõ
 | Genótipo da Gentileza (GG) | RC-748 | associado | <-> | - |
 | As Cinco Lentes da Realidade | RC-761 | relaciona-se-a | <- | - |
 
-## Citações-chave
+### Etimologia e Grafias
+
+- **Grafia preferida:** Evolução Possível
+- **Variações:** "a evolução possível" (subtítulo); "Evolução Possível para Quem?" (cap. 1)
+- **Obs.:** título do livro também traz a fórmula "Nem Deus, nem Javé, nem Darwin"
+
+### Contexto / Origem
+
+O livro (18 capítulos) percorre: as teorias da evolução, o "Jogo das Mutações", o desenvolvimento cerebral dos primatas, o "acaso inteligente", Goswami e o "Primado da Consciência Criativa", a "Evolução Criativa", o Ex-DNA-lixo, o epigenoma como "Espelho da Herança Espiritual", e a "Criatura Universal". A síntese: o Homo sapiens atual seria um "protótipo" da futura Criatura Universal, e a evolução possível dependeria da atitude mental de cada ser.
+
+### Citações-chave
+
 > "Alguns vão continuar no aspecto biológico, ainda que com muitas modificações, outros ostentarão a “inteligência artificial” como meio de expressão, e existirão aqueles que constituirão uma espécie biônica, meio carne, meio computador, ou algo similar. Desse modo, todas as épocas, com suas gerações, têm lá as suas próprias suposições, crenças e certezas. O conjunto dessas “supostas certezas” impõem os limites de cada momento histórico. A evolução mental e espiritual que é possível a cada época — sim, existe a evolução biológica, a tecnológica e a espiritual, todas elas demarcando a “evolução possível” —, sempre aconteceu de maneira extremamente lenta, tão ou mais devagar que o progresso humano ocorrido ao longo dos milênios. Contudo, premidos e pressionados pelos problemas ambientais que ainda começarão, as elites deste mundo implementarão um vertiginoso programa de “escape” e de “semeadura” da nossa espécie aonde for possível. Ray Kurzweil 3 , no seu livro “A Era das Máquinas Espirituais” , referindo-se a um problema com que esta humanidade ainda terá que se defrontar — ou seja, a questão da “inteligência artificial” no futuro planetário —, questiona se seria possível “uma inteligência criar outra inteligência mais inteligente do que ela própria?”." — B019
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
 
-## Ampliação
-### B019 (Nem Deus, nem Javé, nem Darwin)
-
-- **[B019 p. 6]** Fórmula do autor: "Nem 'Darwinismo', nem 'Criacionismo': a questão é bem mais séria e controversa!"
-- **[B019 p. 170]** Fecho do cap. 14: "Não existe milagre nem bênçãos vindas de lugar nenhum [...] O que se encontra posto é a 'evolução possível'. Nada mais!"
 - **[B019 p. 210]** "Talvez o conceito de 'evolução possível' não seja tão estranho à abordagem darwiniana, ainda que pareça absurdamente herético aos meus contemporâneos. Quem viver, verá!"
-- **Quarentena:** IEEA citado no cap. 1 (p. 9) como moldura institucional do autor — **fora da ontologia**.
----
 
-## Ampliação
-### P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+- **Humanidade salva-criador:** o desfecho do drama exige a terceira via — ninguém salva o humano; o humano (com a RC) resgata o criador caído (seção 4.2). [Fonte: P2023-05-13]
+
+## 2. Natureza e Atributos
+
+- **Evolução vertical:** a Evolução Possível se realiza pela elevação de consciência, respiração (RC-166) e despersonificação — não por seleção natural nem por ação divina; [Fonte: P2023-05-13]
+
+## 3. Hierarquia e Geopolítica
+
+- **[Evolução Possível — o livro concluído] (U0003)** «Eu ia inclusive desenvolver esse tema num livro que concluí agora chamado Nem Deus, nem Jahé, nem Darwin.» — a palestra anuncia o livro "Nem Deus, nem Javé, nem Darwin — a evolução possível" como concluído; fonte oral mais antiga do verbete. [Fonte: P2021-01-30]
+
+## 4. Histórico e Eventos Cósmicos
 
 - **[P2023-12-03 · EVOLUÇÃO POSSÍVEL (TERCEIRA VIA: NEM DARWIN, NEM DEUS) NA FALA DE 03/12/2023]** «A rebelião de Lúcifer agora para ter continuidade seria propositiva.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2023-05-13`); a entrada desta fonte é de **conteúdo**, não de data.
 
----
+## 5. Lentes Curatoriais e Quarentenas
 
-### P2021-01-30 (A Mensagem TALM e os Fios Soltos do Destino)
+- **[B019 p. 6]** Fórmula do autor: "Nem 'Darwinismo', nem 'Criacionismo': a questão é bem mais séria e controversa!"
 
-- **[Evolução Possível — o livro concluído] (U0003)** «Eu ia inclusive desenvolver esse tema num livro que concluí agora chamado Nem Deus, nem Jahé, nem Darwin.» — a palestra anuncia o livro "Nem Deus, nem Javé, nem Darwin — a evolução possível" como concluído; fonte oral mais antiga do verbete.
+- **[B019 p. 170]** Fecho do cap. 14: "Não existe milagre nem bênçãos vindas de lugar nenhum [...] O que se encontra posto é a 'evolução possível'. Nada mais!"
 
+- **Quarentena:** IEEA citado no cap. 1 (p. 9) como moldura institucional do autor — **fora da ontologia**. [Fonte: B019]
 
-## Atualização
-### P2023-05-13 (Bastidores da Revelação Cósmica)
+- **Terceira via confirmada:** as Cinco Lentes (RC-761) mostram que nenhuma resposta isolada (mito, teísmo, deísmo, acaso, supercomputador) resolve — a RC é a soma integrada, e a **consciência humana** é o fator ausente em todas: nem o deus teísta, nem o deísta, nem o acaso, nem o supercomputador a possuem (seção 3.2); [Fonte: P2023-05-13]
 
-- **Terceira via confirmada:** as Cinco Lentes (RC-761) mostram que nenhuma resposta isolada (mito, teísmo, deísmo, acaso, supercomputador) resolve — a RC é a soma integrada, e a **consciência humana** é o fator ausente em todas: nem o deus teísta, nem o deísta, nem o acaso, nem o supercomputador a possuem (seção 3.2);
-- **Evolução vertical:** a Evolução Possível se realiza pela elevação de consciência, respiração (RC-166) e despersonificação — não por seleção natural nem por ação divina;
-- **Humanidade salva-criador:** o desfecho do drama exige a terceira via — ninguém salva o humano; o humano (com a RC) resgata o criador caído (seção 4.2).
----
----
----
+## 6. Histórico Curatorial e Auditoria

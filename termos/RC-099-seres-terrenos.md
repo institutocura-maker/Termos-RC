@@ -12,18 +12,14 @@ atualizado = "2026-09-12"
 +++
 # Seres Terrenos (Homo Sapiens) — RC-099
 
-## Definição Sintética
+## 1. Gênese e Definição
+
+### Definição Sintética
+
 A espécie humana na leitura da Revelação Cósmica: o ser terreno atual (Homo sapiens), habitante do Universo Material (RC-107) e portador do DNA como projeção holográfica do psiquismo do Criador (RC-217). Não é apresentado como produto de evolução darwiniana nem de criação divina direta, mas como resultado de sucessivas levas genéticas e de um projeto de semeadura, e como candidato à especiação (RC-056) que produz a Criatura Universal (RC-042).
 
-## Etimologia e Grafias
-- Grafia preferida: Seres Terrenos
-- Variações: Homo sapiens; humano; humanidade terrestre
-- Uso na Base: 1.6 Figuras humanas (espécie, não indivíduo)
+### Termos Relacionados
 
-## Contexto / Origem
-O termo é o «nós» da narrativa: aparece em 21 fontes do censo, o que o torna um dos nós mais densos da Base. A RC trata o humano simultaneamente como criatura-ferramenta (RC-164) da Criação Indevida e como o agente do Tikun — a criatura capaz de produzir, com a sua própria experiência no caos, as informações que faltam ao Criador para se recompor. O Fim do Experimento Humano (RC-578) é o risco que paira sobre a espécie.
-
-## Termos Relacionados
 | Termo | Código | Relação | Direção | Notas |
 |---|---|---|---|---|
 | Criatura Universal | RC-042 | associado | <-> | - |
@@ -126,13 +122,44 @@ O termo é o «nós» da narrativa: aparece em 21 fontes do censo, o que o torna
 | Memória dos Elétrons e Arcanos | RC-829 | associado | <-> | - |
 | Pulsação dos Elétrons Como Afetividade Humana | RC-832 | associado | <-> | - |
 | 13 Livros de Lúcifer com Humanos (Necessários Antes do Fim) | RC-833 | associado | <-> | - |
-
 - RC-042 — ver ficha correspondente
 - RC-056 — ver ficha correspondente
 - RC-107 — ver ficha correspondente
 - RC-578 — ver ficha correspondente
 
-## Fontes
+### Etimologia e Grafias
+
+- Grafia preferida: Seres Terrenos
+- Variações: Homo sapiens; humano; humanidade terrestre
+- Uso na Base: 1.6 Figuras humanas (espécie, não indivíduo)
+
+### Contexto / Origem
+
+O termo é o «nós» da narrativa: aparece em 21 fontes do censo, o que o torna um dos nós mais densos da Base. A RC trata o humano simultaneamente como criatura-ferramenta (RC-164) da Criação Indevida e como o agente do Tikun — a criatura capaz de produzir, com a sua própria experiência no caos, as informações que faltam ao Criador para se recompor. O Fim do Experimento Humano (RC-578) é o risco que paira sobre a espécie.
+
+### Citações-chave
+
+> "Há seres extraterrestres já são “populares”, como é o caso dos greys, os sirianos, os pleiadianos, os reptilianos, etc. Na Revelação Cósmica, damos ênfase a duas classes de seres extraterrenos: os fenvans e os biodemos. Podemos comparar os fenvans a astronautas dimensionais, que tinham como missão transplantar a vida do universo paralelo para o nosso. Como exemplos de fenvans temos os seres das Famílias Aya e Aye (Arcanjos Gabriel, Miguel, Rafael, etc.), e dos biodemos temos Sophia (Cristo Cósmico) e Lúcifer (Yel Luzbel, da Família Yel).  Seres Terrenos Somos nós, os seres humanos (Homo Sapiens), com corpos físicos e biológicos, habitantes do Planeta Terra. Deidade, Divindades, Deuses e Deus É importante fazer uma distinção clara entre esses conceitos dentro da Revelação Cósmica, pois eles acabam sendo confundidos. 1.  A “Deidade” seria o Pai-Mãe Amantíssimo ou Incognoscível, o Ser Supremo que deu origem a toda a Matriz Divina. Seria o “Brahman” da tradição Hindu. 2.  As “Divindades” seriam os seres conscienciais perfeitos que surgiram a partir da Deidade; são os “Filhos Criadores ou Divindades Co-Criadoras”." — B031, p. 11
+> "Extrapolando, agora, e ssa tese sobre o tempo de vida na Terra para outros mundos, vamos também supor que a vida de um ser em qualquer planeta, duraria, em média, cerca de cem anos no fuso horário de qualquer orbe.  Dessa forma, Netuno, nosso vizinho próximo, para completar um giro orbital completo em torno da nossa estrela, leva cerca de 165 anos terrestres. Se houvesse, portanto, a título de exemplo, vida em Netuno, e supondo um tempo de vida útil para os netunianos  de cem giros ao redor do Sol da mesma forma com que fizemos para com os seres terrenos, em termos de nosso tempo, um ser que lá residisse viveria cerca de 16.500 anos terrestres, ou seja, cem anos netunianos. Dez anos em Netuno corresponderiam a 1.650 anos terrestres. Ou seja, sob a ótica do tempo netuniano, o Mestre esteve na Terra há, aproximadamente, doze anos. E sob a ótica do tempo capelino? Pode ter sido ontem.  Vamos, agora, imaginar, que o período de uma órbita completa do planeta Zian ao redor de um hipotético centro gravitacional no sistema múltiplo de Cap ela, correspondesse ao período de tempo no qual a T erra daria cerca de quatro mil e trezentas voltas ao redor do Sol." — B026
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
+## 2. Natureza e Atributos
+
+## 3. Hierarquia e Geopolítica
+
+## 4. Histórico e Eventos Cósmicos
+
+## 5. Lentes Curatoriais e Quarentenas
+
+### Observações
+
+Materialização de âncora estrutural do Volume IV (Antropogênese). Quarentena: a antropogênese da RC é leitura de Ellam e não substitui nem a biologia evolutiva nem a teologia das religiões.
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-099.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
+
+## 6. Histórico Curatorial e Auditoria
+
+### Fontes
+
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
 | B031 | — | registro-mestre (fonte censada) |
@@ -155,15 +182,3 @@ O termo é o «nós» da narrativa: aparece em 21 fontes do censo, o que o torna
 | P2025-02-15 | — | registro-mestre (fonte censada) |
 | P2024-11-30 | — | registro-mestre (fonte censada) |
 | P2024-11-09 | — | registro-mestre (fonte censada) |
-
-## Citações-chave
-> "Há seres extraterrestres já são “populares”, como é o caso dos greys, os sirianos, os pleiadianos, os reptilianos, etc. Na Revelação Cósmica, damos ênfase a duas classes de seres extraterrenos: os fenvans e os biodemos. Podemos comparar os fenvans a astronautas dimensionais, que tinham como missão transplantar a vida do universo paralelo para o nosso. Como exemplos de fenvans temos os seres das Famílias Aya e Aye (Arcanjos Gabriel, Miguel, Rafael, etc.), e dos biodemos temos Sophia (Cristo Cósmico) e Lúcifer (Yel Luzbel, da Família Yel).  Seres Terrenos Somos nós, os seres humanos (Homo Sapiens), com corpos físicos e biológicos, habitantes do Planeta Terra. Deidade, Divindades, Deuses e Deus É importante fazer uma distinção clara entre esses conceitos dentro da Revelação Cósmica, pois eles acabam sendo confundidos. 1.  A “Deidade” seria o Pai-Mãe Amantíssimo ou Incognoscível, o Ser Supremo que deu origem a toda a Matriz Divina. Seria o “Brahman” da tradição Hindu. 2.  As “Divindades” seriam os seres conscienciais perfeitos que surgiram a partir da Deidade; são os “Filhos Criadores ou Divindades Co-Criadoras”." — B031, p. 11
-> "Extrapolando, agora, e ssa tese sobre o tempo de vida na Terra para outros mundos, vamos também supor que a vida de um ser em qualquer planeta, duraria, em média, cerca de cem anos no fuso horário de qualquer orbe.  Dessa forma, Netuno, nosso vizinho próximo, para completar um giro orbital completo em torno da nossa estrela, leva cerca de 165 anos terrestres. Se houvesse, portanto, a título de exemplo, vida em Netuno, e supondo um tempo de vida útil para os netunianos  de cem giros ao redor do Sol da mesma forma com que fizemos para com os seres terrenos, em termos de nosso tempo, um ser que lá residisse viveria cerca de 16.500 anos terrestres, ou seja, cem anos netunianos. Dez anos em Netuno corresponderiam a 1.650 anos terrestres. Ou seja, sob a ótica do tempo netuniano, o Mestre esteve na Terra há, aproximadamente, doze anos. E sob a ótica do tempo capelino? Pode ter sido ontem.  Vamos, agora, imaginar, que o período de uma órbita completa do planeta Zian ao redor de um hipotético centro gravitacional no sistema múltiplo de Cap ela, correspondesse ao período de tempo no qual a T erra daria cerca de quatro mil e trezentas voltas ao redor do Sol." — B026
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
-
-## Observações
-Materialização de âncora estrutural do Volume IV (Antropogênese). Quarentena: a antropogênese da RC é leitura de Ellam e não substitui nem a biologia evolutiva nem a teologia das religiões.
-
-
-> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-099.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
-

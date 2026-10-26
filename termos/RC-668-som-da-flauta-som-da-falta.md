@@ -12,16 +12,14 @@ atualizado = "2026-08-15"
 +++
 # Som da Flauta/Som da Falta — RC-668
 
-## Definição Sintética
+## 1. Gênese e Definição
+
+### Definição Sintética
+
 Som da Flauta/Som da Falta — frequência percebida por Shiva na pacificação da Naga.
 
-## Etimologia e Grafias
-Forma validada pelo curador.
+### Termos Relacionados
 
-## Contexto / Origem
-P2026-02-28.
-
-## Termos Relacionados
 | Termo | Código | Relação | Direção | Notas |
 |---|---|---|---|---|
 | Shiva (Savna) | RC-102 | observa | -> | consolidação: "percebido-por" → "observa" |
@@ -31,22 +29,38 @@ P2026-02-28.
 | Yoga Ancestral (Origem Cósmica) | RC-670 | origina | -> | - |
 | Mão Invisível Multiforme / Conselho das Nagas | RC-697 | associado | <-> | - |
 
-## Seres Associados
-Consultar Base.
+### Etimologia e Grafias
 
-## Fontes
+Forma validada pelo curador.
+
+### Contexto / Origem
+
 P2026-02-28.
 
-## Citações-chave
+### Citações-chave
+
 Ver transcrição.
 
-## Reforço
-### P2025-02-16
+## Citações Verbatim
 
 O episódio da Naga pacificada pelo som da flauta é retomado. A palestra acrescenta a hipótese de intuição do Conselho das Nagas na descoberta da respiração/Yoga por Shiva. O nome `Anarata/Ana Rata` permanece `[REVISAR → CHANCELA 10/09/2026 · F039-L5: AGUARDA-ÁUDIO (hapax) — ver nota] STT`.
 
+## 3. Hierarquia e Geopolítica
+
+### Seres Associados
+
+Consultar Base.
+
+## 5. Lentes Curatoriais e Quarentenas
+
+### Observações
+
+Termo candidato.
+
+## 6. Histórico Curatorial e Auditoria
+
+### Fontes
+
+P2026-02-28.
 
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-668.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
-
-## Observações
-Termo candidato.

@@ -12,23 +12,14 @@ atualizado = "2026-10-22"
 +++
 # Apocalipse (livro de João, ditado por Sofia/Rockman) — RC-854
 
-## Definição Sintética
+## 1. Gênese e Definição
+
+### Definição Sintética
 
 Apocalipse (livro de João, ditado por Sofia/Rockman): o último livro do Novo Testamento, escrito pelo apóstolo João (RC-855) perto do ano 100, dominado pelos anjos de Sofia (RC-009) — a exceção ao pressuposto de que profecia predispõe sem impor: nele, tudo 'inexoravelmente vai acontecer'; seu significado é 'revelação'.
 
-## Contexto / Origem
+### Termos Relacionados
 
-**Materialização (não é criação).** `RC-854` vivia só no cadastro: linha em `ferramentas/dados_termos.py`, `ficha=False`, sem arquivo em `termos/`. A virada foi autorizada pelo despacho do Curador de 29/08/2026, na linha que trata das ordens nomeadas sem arquivo, e executada pelo Motor Único em `ciclos/P2025-05-10/`.
-
-Com isso:
-
-* a Base ganha um **arquivo**; 0 termos novos e **0 relações novas** por este ciclo;
-- o cadastro lista 5 código(s) em `relacionados`: 0 com aresta correspondente em `RELACOES` e 0 sem arquivo de ficha. A ficha **declara** a lacuna em vez de preenchê-la — abrir aresta é decisão curatorial;
-- as fontes já registradas no cadastro são `P2025-05-10`.
-
-**Origem do conteúdo da ampliação:** palestra `P2025-05-10 — Mistérios do Apocalipse` (10/05/2025). Transcrição automatizada, **não conferida com o áudio**; cada aspa foi recortada do `original.txt` pelo índice de âncoras do motor e conferida byte a byte pelo portão B. Nada foi digitado de memória.
-
-## Termos Relacionados
 | Termo | Código | Relação | Direção | Notas |
 |---|---|---|---|---|
 | Segundo Advento do Cristo (Volta de Jesus) | RC-005 | - | - | sem aresta em RELACOES; arquivo existe |
@@ -37,21 +28,59 @@ Com isso:
 | Hochmah (2ª Sefirah — Sabedoria; = Sophia) | RC-565 | - | - | sem aresta em RELACOES; arquivo existe |
 | João Evangelista (apóstolo, o discípulo amado) | RC-855 | - | - | sem aresta em RELACOES; arquivo existe |
 
-## Ampliação — STT26-EXPERIENCIA_ESPIRITUAL_ETICA (Eixo STT26 — Experiência espiritual, morte e ética evolutiva (derivados normalizados))
+### Contexto / Origem
+
+**Materialização (não é criação).** `RC-854` vivia só no cadastro: linha em `ferramentas/dados_termos.py`, `ficha=False`, sem arquivo em `termos/`. A virada foi autorizada pelo despacho do Curador de 29/08/2026, na linha que trata das ordens nomeadas sem arquivo, e executada pelo Motor Único em `ciclos/P2025-05-10/`.
+Com isso:
+* a Base ganha um **arquivo**; 0 termos novos e **0 relações novas** por este ciclo;
+- o cadastro lista 5 código(s) em `relacionados`: 0 com aresta correspondente em `RELACOES` e 0 sem arquivo de ficha. A ficha **declara** a lacuna em vez de preenchê-la — abrir aresta é decisão curatorial;
+- as fontes já registradas no cadastro são `P2025-05-10`.
+**Origem do conteúdo da ampliação:** palestra `P2025-05-10 — Mistérios do Apocalipse` (10/05/2025). Transcrição automatizada, **não conferida com o áudio**; cada aspa foi recortada do `original.txt` pelo índice de âncoras do motor e conferida byte a byte pelo portão B. Nada foi digitado de memória.
+
+### Citações-chave
+
+> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+- «Os termos do estranho livro do Apocalipse, que nada mais é do que a confirmação de Sofia, dizendo que iria cumprir sim a promessa que o eu humano dele havia feito em nome dele, de que no futuro ele retornaria e o apocalipse seria exatamente o enredo e o roteiro das profecias que inevit aconteceria.» — *ver:* **Ampliação — P2023-02-11 (Agente Humano Jesus e os Arcontes)** U0033
+- «Esses 30 minutos que é dito, que vai acontecer entre o toque do da sexta trombeta de um anjo e o da sétima trombeta, que já anuncia a chegada de Jesus, são 30 minutos em que o próprio Sofia na época ficou sem saber o que é que diabos ia acontecer direito ali.» — *ver:* **Ampliação — P2026-03-21 (Samudra Manthan A Enigmatica Alq…** U0032
+- «Então, quando Sofia escreveu Apocalipse através de um anjo através de João, o apóstolo, foi dizendo: "Eu vou cumprir tudo que o meu avatar humano disse que faria em relação a boa nova que ele deixou entre os homens.» — *ver:* **Ampliação — P2022-11-20 (A Incompreendida Nova Aliança pr…** U0007
+
+- **[Revelação, não fim de mundo] (U0007)** «O significado do apocalipse não é fim de mundo, não é Graça não é isso, é revelação.» — 'o significado do apocalipse não é fim de mundo' — é 'revelação' (julgamento está nos evangelhos). [Fonte: P2025-05-10]
+
+- **[O Apocalipse: a confirmação de Sofia] (U0033)** «Os termos do estranho livro do Apocalipse, que nada mais é do que a confirmação de Sofia, dizendo que iria cumprir sim a promessa que o eu humano dele havia feito em nome dele, de que no futuro ele retornaria e o apocalipse seria exatamente o enredo e o roteiro das profecias que inevit aconteceria.» — ~70 anos após a crucificação, Sofia (então chamada assim pelos seguidores de Jesus reunidos em torno de Maria Madalena) ditou, via um anjo, a João — o único apóstolo ainda vivo — os termos do Apocalipse: a ratificação da promessa de retorno feita pelo eu humano de Jesus. [Fonte: P2023-02-11]
+
+## 2. Natureza e Atributos
+
+- **[O Apocalipse, exceção às profecias] (U0003)** «Porém, a pretensão de quem produziu o livro Apocalipse é a de que no Apocalipse do que ali está inexoravelmente vai acontecer.» — o Apocalipse (RC-854) pretende ser a exceção ao pressuposto prudente de que profecia 'predispõe mas não impõe': nele, o que está 'inexoravelmente vai acontecer'. [Fonte: P2025-05-10]
+
+## 3. Hierarquia e Geopolítica
+
+- **[Javé no trono sem saber tirar os selos] (U0007)** «E quando ele escreveu Apocalipse, ele botou Javé sentado num trono, os sete livros selados, mas dizendo o que?» — Sofia escreveu o Apocalipse "através de um anjo através de João, o apóstolo" (U0007: «Então, quando Sofia escreveu Apocalipse através de um anjo através de João, o apóstolo, foi dizendo: "Eu vou cumprir tudo que o meu avatar humano disse que faria em relação a boa nova que ele deixou entre os homens.») — e botou Javé no trono com os sete livros selados "dizendo o quê? Que nem sabia tirar os selos dos livros e dizer de todas as profecias ali descritas, quais as que de fato iriam acontecer" (prosa); a carimbada final da nova aliança: "com o desastre que Javé fez com Jesus, Sofia rompeu com Javé" (veto léxico — formulação retida no BLOCO 5, registrada em prosa). [Fonte: P2022-11-20]
+
+## 4. Histórico e Eventos Cósmicos
+
+- **[Os 30 minutos entre a sexta e a sétima trombeta: a angústia de Sofia] (U0032)** «Esses 30 minutos que é dito, que vai acontecer entre o toque do da sexta trombeta de um anjo e o da sétima trombeta, que já anuncia a chegada de Jesus, são 30 minutos em que o próprio Sofia na época ficou sem saber o que é que diabos ia acontecer direito ali.» — o tempo se organizou e se esgotou: "E esse algum tempo ele chamou de 30 minutos aproveite para se organizar e assim esses 30 minutos já se acabaram" (U0032: «E esse algum tempo ele chamou de 30 minutos aproveite para se organizar e assim esses 30 minutos já se acabaram.»); "2026 se acaba isso é o que eles dizem" (U0032: «2026 se acaba isso é o que eles dizem.»). [Fonte: P2026-03-21]
+
+- **[O Apocalipse encomendado no meio da confusão] (U0032)** «Então, Apocalipse é esse livro encomendado no meio dessa confusão.» — a queda das torres no capítulo 18: "João, nos capítulos 18, no Apocalipse descreve a queda das torres do Road Trade Center" (U0032: «João, nos capítulos 18, no Apocalipse descreve a queda das torres do Road Trade Center.») [STT «Road Trade Center» = World Trade Center — sem emenda]. [Fonte: P2026-03-21]
+
+## 5. Lentes Curatoriais e Quarentenas
+
+### Observações
+
+### Observações sobre o Estado da Malha
+* **Grafia STT:** 'Apocalipse' (literal). Produzido por João, dominado pelos anjos de Sofia, para esclarecer que a vinda não era no tempo da vida de João.
+* **Decisão curatorial:** 'Nova Jerusalém' absorvida em RC-258; 'Nag Hammadi' em RC-268; 'Babilônia' (= Nova York/World Trade Center) e 'as duas testemunhas' (Rogério + João Paulo I) não materializadas.
+* **Trava aplicável**: nenhuma além das gerais do despacho.
+
+## 6. Histórico Curatorial e Auditoria
 
 - **[STT26-12 · Apocalipse (livro de João, ditado por Sofia/Rockman)]** «A vinda de Sofia é nos termos em que nós falamos que apenas repete os termos do Apocalipse. Nada eu inventei, nada é novidade.» (U13074 · chars 1980379–1980505) — Candidata de cotejo; evidência `STT26-12-RC-854-001`, grafia encontrada `Apocalipse`; decisão por lote `STT26-12: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
 
-## Ampliação — STT26-MITOLOGIAS_REINTEGRACAO (Eixo STT26 — Mitologias, tradições e eixo de reintegração (derivados normalizados))
-
 - **[STT26-13 · Apocalipse (livro de João, ditado por Sofia/Rockman)]** «Quando eu fiz isso, sem querer eu terminei adquirindo mais liberdade, a minha mente ficou mais aberta ainda para escutar ou receber mensagens, certas ou erradas, E o meu drama é que eu erro bastante na hora em que eu procuro entender aquilo e colocar no papel Aí é que eu erro mesmo Por isso que eu deixo claro Tem muito equívoco no que eu faço E acho que todo ser humano deveria fazer isso Porque nenhum pé de manga dá jaca Nenhum pé de coco dá goiaba Nós seres humanos somos imperfeitos você pretender que você está escrevendo sobre o julgo mental de alguém no livro de 200, 300 páginas e que você não vai cometer nenhum erro como médium é uma pretensão estranha, infantil e o espiritismo padece desse problema quando os seguidores de um médium tal dizem esse médium erra, aquele não erra, todo mundo erra quando são humanos nesse ponto erram mas quando eu fiquei livre para errar Aí é que mais e mais mensagens chegavam mostrando sobre a perspectiva deles Como é que se dará a volta de Jesus No próprio Apocalipse é o momento em que um anjo toma de João Que é o escritor, o escrevente do Apocalipse E leva com a vara de Medir para tomar medida da Jerusalém Celeste Que o anjo mostrou a João no céu ou seja, Jerusalém celeste é a maior coisa a maior coisa que João conhecia na época em que ele viveu era a cidade de Jerusalém então se há uma metáfora aí de uma nave voadora bem grande ser chamada de Jerusalém celeste mas o fato é que foi medido e no Apocalipse aparece lá o resultado da medida em cômodos na metragem lá da época E se nós imaginarmos uma lua cheia E mais ainda, se imaginarmos metade de uma lua cheia Se essa Jerusalém celeste estacionar A mesma distância da Terra em que a lua se encontra E acender suas luzes O tamanho dela dá metade de uma lua cheia Isso é o que João e o anjo do Apocalipse mediram e estavam registrados Em côvados e sei lá o que, as metragens da época Então o que é dito?» (U0222 · chars 51835–53747) — Candidata de cotejo; evidência `STT26-13-RC-854-001`, grafia encontrada `Apocalipse`; decisão por lote `STT26-13: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
-
-
-## Ampliação — STT26-SOCIEDADE_CONTEMPORANEA (Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados))
 
 - **[STT26-19 · Apocalipse (livro de João, ditado por Sofia/Rockman)]** «Seria o Covid-19 alguma parte do apocalipse de João que está se cumprindo antes da volta de Sofia? no livro da Sétima Trombeta do Apocalipse algumas coisas, haviam algumas coisas a serem cumpridas havia algumas coisas a serem cumpridas essa seria uma delas?» (U1525 · chars 247399–247656) — Candidata de cotejo; evidência `STT26-19-RC-854-001`, grafia encontrada `apocalipse`; decisão por lote `STT26-19: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
 
+### Fontes
 
-## Fontes
 | Obra (sigla) | Título | Página | Tipo |
 |---|---|---|---|
 | STT26-SOCIEDADE_CONTEMPORANEA | Eixo STT26 — Sociedade, comportamento e atualidades (derivados normalizados) (palestra) | — | transcrição automatizada; citação |
@@ -61,41 +90,3 @@ Com isso:
 | P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
 | P2023-02-11 | Agente Humano Jesus e os Arcontes (palestra) | — | transcrição automatizada; citação |
 | P2025-05-10 | Mistérios do Apocalipse (palestra) | — | transcrição automatizada; citação |
-
-## Citações-chave
-
-> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
-
-- «Os termos do estranho livro do Apocalipse, que nada mais é do que a confirmação de Sofia, dizendo que iria cumprir sim a promessa que o eu humano dele havia feito em nome dele, de que no futuro ele retornaria e o apocalipse seria exatamente o enredo e o roteiro das profecias que inevit aconteceria.» — *ver:* **Ampliação — P2023-02-11 (Agente Humano Jesus e os Arcontes)** U0033
-- «Esses 30 minutos que é dito, que vai acontecer entre o toque do da sexta trombeta de um anjo e o da sétima trombeta, que já anuncia a chegada de Jesus, são 30 minutos em que o próprio Sofia na época ficou sem saber o que é que diabos ia acontecer direito ali.» — *ver:* **Ampliação — P2026-03-21 (Samudra Manthan A Enigmatica Alq…** U0032
-- «Então, quando Sofia escreveu Apocalipse através de um anjo através de João, o apóstolo, foi dizendo: "Eu vou cumprir tudo que o meu avatar humano disse que faria em relação a boa nova que ele deixou entre os homens.» — *ver:* **Ampliação — P2022-11-20 (A Incompreendida Nova Aliança pr…** U0007
-
-
-## Ampliação
-### P2025-05-10 (Mistérios do Apocalipse)
-
-- **[O Apocalipse, exceção às profecias] (U0003)** «Porém, a pretensão de quem produziu o livro Apocalipse é a de que no Apocalipse do que ali está inexoravelmente vai acontecer.» — o Apocalipse (RC-854) pretende ser a exceção ao pressuposto prudente de que profecia 'predispõe mas não impõe': nele, o que está 'inexoravelmente vai acontecer'.
-- **[Revelação, não fim de mundo] (U0007)** «O significado do apocalipse não é fim de mundo, não é Graça não é isso, é revelação.» — 'o significado do apocalipse não é fim de mundo' — é 'revelação' (julgamento está nos evangelhos).
-
-### P2023-02-11 (Agente Humano Jesus e os Arcontes)
-
-- **[O Apocalipse: a confirmação de Sofia] (U0033)** «Os termos do estranho livro do Apocalipse, que nada mais é do que a confirmação de Sofia, dizendo que iria cumprir sim a promessa que o eu humano dele havia feito em nome dele, de que no futuro ele retornaria e o apocalipse seria exatamente o enredo e o roteiro das profecias que inevit aconteceria.» — ~70 anos após a crucificação, Sofia (então chamada assim pelos seguidores de Jesus reunidos em torno de Maria Madalena) ditou, via um anjo, a João — o único apóstolo ainda vivo — os termos do Apocalipse: a ratificação da promessa de retorno feita pelo eu humano de Jesus.
-
-
-### P2022-11-20 (A Incompreendida Nova Aliança proposta por Jesus)
-
-- **[Javé no trono sem saber tirar os selos] (U0007)** «E quando ele escreveu Apocalipse, ele botou Javé sentado num trono, os sete livros selados, mas dizendo o que?» — Sofia escreveu o Apocalipse "através de um anjo através de João, o apóstolo" (U0007: «Então, quando Sofia escreveu Apocalipse através de um anjo através de João, o apóstolo, foi dizendo: "Eu vou cumprir tudo que o meu avatar humano disse que faria em relação a boa nova que ele deixou entre os homens.») — e botou Javé no trono com os sete livros selados "dizendo o quê? Que nem sabia tirar os selos dos livros e dizer de todas as profecias ali descritas, quais as que de fato iriam acontecer" (prosa); a carimbada final da nova aliança: "com o desastre que Javé fez com Jesus, Sofia rompeu com Javé" (veto léxico — formulação retida no BLOCO 5, registrada em prosa).
-
-
-### P2026-03-21 (Samudra Manthan A Enigmatica Alquimia de Vishnu)
-
-- **[Os 30 minutos entre a sexta e a sétima trombeta: a angústia de Sofia] (U0032)** «Esses 30 minutos que é dito, que vai acontecer entre o toque do da sexta trombeta de um anjo e o da sétima trombeta, que já anuncia a chegada de Jesus, são 30 minutos em que o próprio Sofia na época ficou sem saber o que é que diabos ia acontecer direito ali.» — o tempo se organizou e se esgotou: "E esse algum tempo ele chamou de 30 minutos aproveite para se organizar e assim esses 30 minutos já se acabaram" (U0032: «E esse algum tempo ele chamou de 30 minutos aproveite para se organizar e assim esses 30 minutos já se acabaram.»); "2026 se acaba isso é o que eles dizem" (U0032: «2026 se acaba isso é o que eles dizem.»).
-- **[O Apocalipse encomendado no meio da confusão] (U0032)** «Então, Apocalipse é esse livro encomendado no meio dessa confusão.» — a queda das torres no capítulo 18: "João, nos capítulos 18, no Apocalipse descreve a queda das torres do Road Trade Center" (U0032: «João, nos capítulos 18, no Apocalipse descreve a queda das torres do Road Trade Center.») [STT «Road Trade Center» = World Trade Center — sem emenda].
-
-
-## Observações
-### Observações sobre o Estado da Malha
-
-* **Grafia STT:** 'Apocalipse' (literal). Produzido por João, dominado pelos anjos de Sofia, para esclarecer que a vinda não era no tempo da vida de João.
-* **Decisão curatorial:** 'Nova Jerusalém' absorvida em RC-258; 'Nag Hammadi' em RC-268; 'Babilônia' (= Nova York/World Trade Center) e 'as duas testemunhas' (Rogério + João Paulo I) não materializadas.
-* **Trava aplicável**: nenhuma além das gerais do despacho.

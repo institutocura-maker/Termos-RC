@@ -12,18 +12,14 @@ atualizado = "2026-09-13"
 +++
 # Ismos como Limitação Genômica — RC-891
 
-## Definição Sintética
+## 1. Gênese e Definição
+
+### Definição Sintética
+
 Os "ismos" (preferências, vícios, inclinações) são limitações impostas ao DNA humano que restringem a capacidade de cada ser humano de acessar o todo que está contido em si mesmo. Segundo a perspectiva holográfica do universo, cada ser humano traz em si o todo — mas os "ismos" funcionam como filtros que limitam essa potencialidade integral, mantendo o ser humano preso a parcialidades.
 
-## Etimologia e Grafias
-- **Grafia preferida:** Ismos como Limitação Genômica
-- **Variações:** ismos; preferências limitantes; vícios genômicos
-- **Idioma de origem:** Português
+### Termos Relacionados
 
-## Contexto / Origem
-Conceito desenvolvido na palestra «A Quem Pertence o Planeta e a Biblioteca Genômica Mais Atualizada do Universo» (P2024-03-17). Ellam explica que, devido ao sentido holográfico do universo, cada ser humano contém o todo em si mesmo (ao contrário das civilizações biológicas de outros universos, cujos corpos não têm células). Os "ismos" — preferências, vícios, inclinações — são limitações que impedem o ser humano de acessar essa integralidade, mantendo-o preso a parcialidades que servem aos interesses de seres externos que manipulam o genoma humano.
-
-## Termos Relacionados
 | Termo | Código | Relação | Direção | Notas |
 |---|---|---|---|---|
 | Javé | RC-001 | associado | <-> | o criador cujo código foi espalhado |
@@ -31,14 +27,31 @@ Conceito desenvolvido na palestra «A Quem Pertence o Planeta e a Biblioteca Gen
 | Dignidade como Critério de Consciência | RC-722 | associado | <-> | a pulsação da dignidade como caminho para superar os ismos |
 | Biblioteca Genômica Humana | RC-889 | associado | <-> | o DNA como laboratório onde os ismos são impostos |
 
-## Fontes
+### Etimologia e Grafias
+
+- **Grafia preferida:** Ismos como Limitação Genômica
+- **Variações:** ismos; preferências limitantes; vícios genômicos
+- **Idioma de origem:** Português
+
+### Contexto / Origem
+
+Conceito desenvolvido na palestra «A Quem Pertence o Planeta e a Biblioteca Genômica Mais Atualizada do Universo» (P2024-03-17). Ellam explica que, devido ao sentido holográfico do universo, cada ser humano contém o todo em si mesmo (ao contrário das civilizações biológicas de outros universos, cujos corpos não têm células). Os "ismos" — preferências, vícios, inclinações — são limitações que impedem o ser humano de acessar essa integralidade, mantendo-o preso a parcialidades que servem aos interesses de seres externos que manipulam o genoma humano.
+
+## 2. Natureza e Atributos
+
+**Fonte:** palestra «A Quem Pertence o Planeta e a Biblioteca Genômica Mais Atualizada do Universo» (17/03/2024).
+**Trecho verbatim:** «Então assim, cada ser humano ou cada ser biológico, mas aí os O humano por ser racional, ele é muito mais completo que um simples mamífero. Então, cada ser humano traz em si o todo. Nós somos os únicos a ter essa característica. A turma desse universo vizinho não é assim, porque o corpo deles não tem células. E das civilizações biológicas que têm células, só a nossa chegou nesse grau de racionalização.»
+
+## 3. Hierarquia e Geopolítica
+
+## 4. Histórico e Eventos Cósmicos
+
+## 5. Lentes Curatoriais e Quarentenas
+
+## 6. Histórico Curatorial e Auditoria
+
+### Fontes
+
 | Fonte | Localização | Tipo |
 |---|---|---|
 | P2024-03-17 | A Quem Pertence o Planeta e a Biblioteca Genômica Mais Atualizada do Universo (palestra) | transcrição automatizada; citação |
-
-## Ampliação
-### P2024-03-17
-
-**Fonte:** palestra «A Quem Pertence o Planeta e a Biblioteca Genômica Mais Atualizada do Universo» (17/03/2024).
-
-**Trecho verbatim:** «Então assim, cada ser humano ou cada ser biológico, mas aí os O humano por ser racional, ele é muito mais completo que um simples mamífero. Então, cada ser humano traz em si o todo. Nós somos os únicos a ter essa característica. A turma desse universo vizinho não é assim, porque o corpo deles não tem células. E das civilizações biológicas que têm células, só a nossa chegou nesse grau de racionalização.»

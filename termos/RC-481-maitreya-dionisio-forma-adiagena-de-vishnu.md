@@ -12,11 +12,14 @@ atualizado = "2026-10-22"
 +++
 # Maitreya (Dionísio; forma adiágena de Vishnu) — RC-481
 
-## Definição Sintética
+## 1. Gênese e Definição
+
+### Definição Sintética
 
 Figura profética do Buda futuro — na RC, correlacionada a Dionísio e a uma forma adiágena de Vishnu; figura do retorno messiânico.
 
-## Termos Relacionados
+### Termos Relacionados
+
 | Termo | Código | Relação | Direção | Notas |
 |---|---|---|---|---|
 | Quarto Logos (Olm / Codificador de Zian) | RC-092 | origina | -> | consolidação: "encarnação-posterior-de" → "origina" |
@@ -25,12 +28,36 @@ Figura profética do Buda futuro — na RC, correlacionada a Dionísio e a uma f
 | ADHYMAVATANA (nome completo de Mavatna/Vishnu) | RC-408 | associado | <-> | - |
 | Relógio Messiânico | RC-765 | relaciona-se-a | <- | - |
 
-## Ampliação — STT26-MITOLOGIAS_REINTEGRACAO (Eixo STT26 — Mitologias, tradições e eixo de reintegração (derivados normalizados))
+### Citações-chave
+
+> "O retorno de Maitreya, a vinda do Avatar Kalki, a volta de Jesus... é continuação da confusão que Marduk fez há 4.000 anos." — P2021-03-27
+> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+- «Na hora em que um saibar mantém como homem e espírito apoio ao sistema de castas na Índia, ele está prisioneiro de um uma jaula, de um processo mental que foi gerado lá atrás para organizar seres que eram dementes em classes.» — *ver:* **Ampliação — P2021-06-26 (Shiva - A Reconstrução do Erro d…** U0013
+- «E esse alguém é chamado de a vinda de Madiim, a vinda de do Messias, a segunda vinda de Jesus, eh, a vinda do Avatar Calque, ou seja, a a vinda do Caico para os incas.» — *ver:* **Ampliação — P2025-12-14 (Os Fundamentos da Revelação Cósm…** U0013
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-481.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
+- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
+
+- **[A vinda de Madiim: o anúncio de todos os avatares] (U0070)** «E esse alguém é chamado de a vinda de Madiim, a vinda de do Messias, a segunda vinda de Jesus, eh, a vinda do Avatar Calque, ou seja, a a vinda do Caico para os incas.» — STT «Madiim» = Maitreya; «Calque»/«Caico» = Maitreya/Messias nas diferentes tradições; o anúncio unânime de todos os avatares: `algo de fora viria à terra para encerrar esse período maluco` (RC-481 Maitreya; RC-072 segunda vinda). [Fonte: P2025-12-14]
+
+## 2. Natureza e Atributos
+
+- **[Os avatares humanos de Chiva: Sai Baba e os demais] (U0013)** «Baba de Sird, sai Baba, Sátia sai, o Prima sai.» — "São três avatares de Cristo, na verdade conduzidos pelo espírito de Chiva, mas pelo temperamento e o código genético de Cristo que está vivíssimo" (U0013: «São três avatares de Cristo, na verdade conduzidos pelo espírito de Chiva, mas pelo temperamento e o código genético de Cristo que está vivíssimo.»); o limite do avatar: "Na hora em que um saibar mantém como homem e espírito apoio ao sistema de castas na Índia, ele está prisioneiro de um uma jaula, de um processo mental que foi gerado lá atrás para organizar seres que eram dementes em classes" (U0013: «Na hora em que um saibar mantém como homem e espírito apoio ao sistema de castas na Índia, ele está prisioneiro de um uma jaula, de um processo mental que foi gerado lá atrás para organizar seres que eram dementes em classes.»); "Krishna que é um avatar de Chiva" (U0013: «Krishna que é um avatar de Chiva.»); "os avatares de Krishna e não de Chiva para a fase final do mesmo jeito" (U0020: «Então, eh, como eu como eu disse, só pra gente concluir isso aqui, os avatares de Krishna e não de Chiva para a fase final do mesmo jeito.»); "Ele tem um dharma particular e ele segue isso aí" (U0013: «Ele tem um dharma particular e ele segue isso aí.»). [Fonte: P2021-06-26]
+
+## 3. Hierarquia e Geopolítica
+
+- **Retorno profetizado:** "todas as religiões e movimentos da antiguidade falam no retorno dos deuses, a vinda do Messias, o retorno de Maitreya, a vinda do Avatar Kalki, a volta de Jesus — essa história toda é continuação da confusão que Marduk fez há 4.000 anos" (relógio messiânico — RC-765); [Fonte: P2021-03-27]
+
+## 4. Histórico e Eventos Cósmicos
+
+## 5. Lentes Curatoriais e Quarentenas
+
+- Maitreya entre os "enviados dos céus" do relógio profético (nova aresta RC-765 ↔ RC-481). [Fonte: P2021-03-27]
+
+## 6. Histórico Curatorial e Auditoria
 
 - **[STT26-16 · Maitreya (Dionísio; forma adiágena de Vishnu)]** «Nesse Anagata Avança, esse livro difícil até de se pronunciar, Em que se fala sobre vidas passadas de Buda, que a gente não vai aqui falar disso, mas o interessante é que nesse livro Siddhartha Gautama diz, ó, eu sou o Buda, mas antes de mim existiram três seres que se aproximaram desse nível de iluminação, mas eu, Siddhartha Gautama, de fato, cheguei nesse estado de consciência chamado nirvana, e por isso eu sou chamado o Buda, mas virá outro, e esse que Buda chamou de Maitreya, Este virá quando eu sair da condição de nirvana para atingir a condição do nirvana absoluto. Então, tem essa distinção.» (U8297 · chars 1278713–1279318) — Candidata de cotejo; evidência `STT26-16-RC-481-001`, grafia encontrada `Maitreya`; decisão por lote `STT26-16: AUTORIZAR-COTEJO-AMPLIADO`. Sem homologação curatorial e sem pouso na Base.
 
-
-## Fontes
+### Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
@@ -38,34 +65,3 @@ Figura profética do Buda futuro — na RC, correlacionada a Dionísio e a uma f
 | P2025-12-14 | Os Fundamentos da Revelação Cósmica (palestra) | — | transcrição automatizada; citação |
 | P2021-06-26 | Shiva - A Reconstrução do Erro de Brahma e o Tikum (palestra) | — | transcrição automatizada; citação |
 | P2021-03-27 | bloco 9 (relógio messiânico) | palestra/STT pré-curada |
-
-## Citações-chave
-
-> "O retorno de Maitreya, a vinda do Avatar Kalki, a volta de Jesus... é continuação da confusão que Marduk fez há 4.000 anos." — P2021-03-27
-
-
-> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
-
-- «Na hora em que um saibar mantém como homem e espírito apoio ao sistema de castas na Índia, ele está prisioneiro de um uma jaula, de um processo mental que foi gerado lá atrás para organizar seres que eram dementes em classes.» — *ver:* **Ampliação — P2021-06-26 (Shiva - A Reconstrução do Erro d…** U0013
-- «E esse alguém é chamado de a vinda de Madiim, a vinda de do Messias, a segunda vinda de Jesus, eh, a vinda do Avatar Calque, ou seja, a a vinda do Caico para os incas.» — *ver:* **Ampliação — P2025-12-14 (Os Fundamentos da Revelação Cósm…** U0013
-
-
-> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-481.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
-- ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Não deixa vestígio no corpus ingerido. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
-
-## Ampliação
-### P2021-06-26 (Shiva - A Reconstrução do Erro de Brahma e o Tikum)
-
-- **[Os avatares humanos de Chiva: Sai Baba e os demais] (U0013)** «Baba de Sird, sai Baba, Sátia sai, o Prima sai.» — "São três avatares de Cristo, na verdade conduzidos pelo espírito de Chiva, mas pelo temperamento e o código genético de Cristo que está vivíssimo" (U0013: «São três avatares de Cristo, na verdade conduzidos pelo espírito de Chiva, mas pelo temperamento e o código genético de Cristo que está vivíssimo.»); o limite do avatar: "Na hora em que um saibar mantém como homem e espírito apoio ao sistema de castas na Índia, ele está prisioneiro de um uma jaula, de um processo mental que foi gerado lá atrás para organizar seres que eram dementes em classes" (U0013: «Na hora em que um saibar mantém como homem e espírito apoio ao sistema de castas na Índia, ele está prisioneiro de um uma jaula, de um processo mental que foi gerado lá atrás para organizar seres que eram dementes em classes.»); "Krishna que é um avatar de Chiva" (U0013: «Krishna que é um avatar de Chiva.»); "os avatares de Krishna e não de Chiva para a fase final do mesmo jeito" (U0020: «Então, eh, como eu como eu disse, só pra gente concluir isso aqui, os avatares de Krishna e não de Chiva para a fase final do mesmo jeito.»); "Ele tem um dharma particular e ele segue isso aí" (U0013: «Ele tem um dharma particular e ele segue isso aí.»).
-
-
-### P2025-12-14 (Os Fundamentos da Revelação Cósmica)
-
-- **[A vinda de Madiim: o anúncio de todos os avatares] (U0070)** «E esse alguém é chamado de a vinda de Madiim, a vinda de do Messias, a segunda vinda de Jesus, eh, a vinda do Avatar Calque, ou seja, a a vinda do Caico para os incas.» — STT «Madiim» = Maitreya; «Calque»/«Caico» = Maitreya/Messias nas diferentes tradições; o anúncio unânime de todos os avatares: `algo de fora viria à terra para encerrar esse período maluco` (RC-481 Maitreya; RC-072 segunda vinda).
-
-
-## Atualização
-### P2021-03-27
-
-- **Retorno profetizado:** "todas as religiões e movimentos da antiguidade falam no retorno dos deuses, a vinda do Messias, o retorno de Maitreya, a vinda do Avatar Kalki, a volta de Jesus — essa história toda é continuação da confusão que Marduk fez há 4.000 anos" (relógio messiânico — RC-765);
-- Maitreya entre os "enviados dos céus" do relógio profético (nova aresta RC-765 ↔ RC-481).

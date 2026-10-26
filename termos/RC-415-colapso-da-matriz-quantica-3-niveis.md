@@ -12,33 +12,20 @@ atualizado = "2026-08-29"
 +++
 # Colapso da Matriz Quântica (3 níveis) — RC-415
 
-## Definição Sintética
-A estrutura da realidade espiritual em **3 níveis de colapso da Matriz Quântica**, conforme o Diagrama Geral de Ligações (B051):
+## 1. Gênese e Definição
 
+### Definição Sintética
+
+A estrutura da realidade espiritual em **3 níveis de colapso da Matriz Quântica**, conforme o Diagrama Geral de Ligações (B051):
 | Nível | Colapso | Realidade |
 |---|---|---|
 | 1º | 1º Nível do Colapso da Matriz Quântica | **Espiritualidade Operativa** (após a Superior) |
 | 2º | 2º Nível | **Espiritualidade Laboratorial** |
 | 3º | 3º Nível | **Criação Indevida** |
-
 O diagrama posiciona a **Espiritualidade Superior** (Deidade e Espíritos Superiores) acima do 1º nível, e, abaixo da Criação Indevida, os dois universos (Antimaterial e Material). O conceito conecta a estrutura dos níveis espirituais à **Criação Indevida** como o 3º "colapso" — a queda do Criador.
 
-### Distinção ratificada — P2025-03-15
+### Termos Relacionados
 
-O curador determinou que **RC-415 não seja fundido com RC-690 — Colapso do Caos Organizado**. RC-690 é o evento amplo de desestruturação biológica, informacional e cósmica; RC-415 conserva a especificidade do colapso da matriz quântica em três níveis.
----
----
----
-
-## Etimologia e Grafias
-- **Grafia preferida:** Colapso da Matriz Quântica
-- **Variações:** colapso quântico; níveis do colapso da Matriz Quântica (1º/2º/3º)
-
-
-## Contexto / Origem
-O diagrama B051 organiza verticalmente a cosmologia: Espiritualidade Superior → Espiritualidade Operativa (1º colapso) → Espiritualidade Laboratorial (2º colapso) → Criação Indevida (3º colapso) → Universos Antimaterial/Material. Essa estrutura confirma e complementa o mapeamento da Cabala (B013: Atziluth/Briah/Yetzirah/Assiah) e as Espiritualidades do corpus (RC-059/060/061).
-
-## Termos Relacionados
 | Termo | Código | Relação | Direção | Notas |
 |---|---|---|---|---|
 | Espiritualidade Superior | RC-059 | inclui | -> | - |
@@ -51,22 +38,34 @@ O diagrama B051 organiza verticalmente a cosmologia: Espiritualidade Superior �
 | Colapso do Caos Organizado | RC-690 | opõe-se-a | <- | consolidação: "distingue-se-de" → "opõe-se-a" |
 | Colapso do Caos Organizado | RC-690 | opõe-se-a | -> | consolidação: "distingue-se-de" → "opõe-se-a" |
 
-## Ampliação
-### P2025-03-15
+### Distinção ratificada — P2025-03-15
+O curador determinou que **RC-415 não seja fundido com RC-690 — Colapso do Caos Organizado**. RC-690 é o evento amplo de desestruturação biológica, informacional e cósmica; RC-415 conserva a especificidade do colapso da matriz quântica em três níveis.
+
+### Etimologia e Grafias
+
+- **Grafia preferida:** Colapso da Matriz Quântica
+- **Variações:** colapso quântico; níveis do colapso da Matriz Quântica (1º/2º/3º)
+
+### Contexto / Origem
+
+O diagrama B051 organiza verticalmente a cosmologia: Espiritualidade Superior → Espiritualidade Operativa (1º colapso) → Espiritualidade Laboratorial (2º colapso) → Criação Indevida (3º colapso) → Universos Antimaterial/Material. Essa estrutura confirma e complementa o mapeamento da Cabala (B013: Atziluth/Briah/Yetzirah/Assiah) e as Espiritualidades do corpus (RC-059/060/061).
+
+## 2. Natureza e Atributos
+
+## 3. Hierarquia e Geopolítica
+
+## 4. Histórico e Eventos Cósmicos
 
 - **Colapso da matriz quântica (P2025-03-15 — contexto):** a rebelião dos elétrons como o mecanismo do colapso: "na hora que a energia pulsa... a recarga que os elétrons dão em si mesmos quando vão se materializar de novo está produzindo situações de desobediência ao que antes já estava em curso" — o colapso do caos organizado.
----
-
-## Ampliação
-### P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
 
 - **[P2023-12-03 · COLAPSO DA MATRIZ QUÂNTICA (3 NÍVEIS) NA FALA DE 03/12/2023]** «tempo for começar a ser rompido pela entropia, isso satisfaz.» (U0038) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2021-12-04`); a entrada desta fonte é de **conteúdo**, não de data.
 
----
+- **Unidades:** U0045–U0051; U0102–U0108. [Fonte: P2021-12-04]
 
-## Atualização
-### P2021-12-04
+- **Contexto acrescentado:** Os colapsos quânticos são apresentados como origem das faixas da Espiritualidade Laboratorial a partir das porções operacionais. [Fonte: P2021-12-04]
 
-- **Unidades:** U0045–U0051; U0102–U0108.
-- **Contexto acrescentado:** Os colapsos quânticos são apresentados como origem das faixas da Espiritualidade Laboratorial a partir das porções operacionais.
-- **Status da evidência:** transcrição automatizada, pré-curada e aprovada quanto à integração terminológica; conferir com áudio/obra antes de promover status.
+- **Status da evidência:** transcrição automatizada, pré-curada e aprovada quanto à integração terminológica; conferir com áudio/obra antes de promover status. [Fonte: P2021-12-04]
+
+## 5. Lentes Curatoriais e Quarentenas
+
+## 6. Histórico Curatorial e Auditoria
