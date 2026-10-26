@@ -58,6 +58,8 @@ Forno replicador de vida do **Projeto Talm** (RC-091) sob o controle de **Vishnu
 
 - **Grafias embrionárias (não renomear):** "Aon/Aô/a maior/Mayon/Mayão/Amaion". [Fonte: P2019-08-25]
 
+  - Mohen So (RC-081, avatar Keshava de Vishnu) produziu os fenvans (RC-064) e, a partir deles, Sophia, "sua contraparte no universo material". [Fonte: ART-2025-08-01]
+
 ## 2. Natureza e Atributos
 
   - "quando os protótipos dos fornos de Vishnu (Awaymaion) e de Shiva (Awaylengan) se encontraram, há aproximadamente 4 bilhões de anos, surgiu o cérebro bilatério (com dois hemisférios) neste universo" [REVISAR — conferir B050 → CHANCELA 2026-09-05 · F037-L1: TENSÃO INSOLÚVEL — ver nota ao fim da ficha] — origem das espécies mais complexas, incluindo os humanos ("subproduto" da última criação do Projeto Talm);
@@ -65,6 +67,10 @@ Forno replicador de vida do **Projeto Talm** (RC-091) sob o controle de **Vishnu
   - "a semeadura da vida biológica... não foi um processo aleatório, mas uma tentativa de 'recriar a Colmeia Trimurtiana em moldes biológicos'"; [Fonte: ART-2025-08-01]
 
 - "Aí surge Sophia, no Awaymaion. Sophia é um ser parte demo, parte biológico" (STT) — o grau oral "**A maior**" ≈ Awaymaion (canônico), e a associação fundadora Sophia↔Awaymaion; [Fonte: P2019-08-25]
+
+  - "nave ou estação gigantesca, com formato de charuto gigante, localizada em nossa galáxia, a Via Láctea"; [Fonte: ART-2025-08-01]
+  - produção de seres radiatas "mais racionalizados, frios e lógicos, com poucas emoções"; responsável pela emergência do gênero existencial "biodemo"; [Fonte: ART-2025-08-01]
+  - "figuras cruciais como Sophia e outros avatares de Vishnu foram produzidos a partir de suas instalações"; [Fonte: ART-2025-08-01]
 
 ## 3. Hierarquia e Geopolítica
 
@@ -81,14 +87,6 @@ Vishnu (RC-408/135), Sophia (RC-009), Olm (RC-092), Mohen So (RC-081), Val Tam (
 ## 5. Lentes Curatoriais e Quarentenas
 
 - **[ART-2025-08-01 — material do curador] Awaymaion (Parte III):**
-
-  - "nave ou estação gigantesca, com formato de charuto gigante, localizada em nossa galáxia, a Via Láctea"; [Fonte: ART-2025-08-01]
-
-  - produção de seres radiatas "mais racionalizados, frios e lógicos, com poucas emoções"; responsável pela emergência do gênero existencial "biodemo"; [Fonte: ART-2025-08-01]
-
-  - "figuras cruciais como Sophia e outros avatares de Vishnu foram produzidos a partir de suas instalações"; [Fonte: ART-2025-08-01]
-
-  - Mohen So (RC-081, avatar Keshava de Vishnu) produziu os fenvans (RC-064) e, a partir deles, Sophia, "sua contraparte no universo material". [Fonte: ART-2025-08-01]
 
 ### Observações
 

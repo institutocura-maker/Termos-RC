@@ -39,13 +39,15 @@ Criado por autorização excepcional do curador (Devolutiva Trilogia TALM, O-3 �
 
 > "O Éon das Três Esferas... é a única estrutura organizada do universo vizinho que sobreviverá à sua eventual desagregação." — ART-2025-08-03, Cap. 2
 
+## 2. Natureza e Atributos
+
+- "as Três Esferas — Brahma, Vishnu e Shiva — atuavam como ambientes experimentais distintos... cada um dos membros da Trimúrti edificou uma esfera gigantesca, que orbitam umas nas outras"; esfera de Brahma = **cinzenta** (Awayen); de Vishnu = **esverdeada opaca** (Awaymaion); de Shiva = **amarronzada** (Awaylengan); [Fonte: ART-2025-08-03]
+
 ## Citações Verbatim
 
 - **Cap. 2:** "o Éon das Três Esferas, também conhecido como 'super-loka', 'Loca das Três Esferas', 'geno' ou mesmo 'Brahmaloka' (em seu aspecto yang), foi uma estrutura crucial concebida por Mohen So e a Trimúrti no universo antimaterial, funcionando como um vasto repositório de 'tesouros genéticos'"; [Fonte: ART-2025-08-03]
 
 - "guarda as intrincadas sequências descritas por **Moros** (RC-454) e **Anã** (RC-777); Moros, o primeiro a empregar a racionalidade para mapear a 'podridão ancestral', criou uma 'planilha' em um 'computador quântico' onde essa podridão era criptografada como um 'código fonte definidor'; Anã estudou as 'necessidades' que surgiriam desses 'códigos podres'... As **Nornes** (RC-467) foram então criadas para operacionalizar os resultados desses estudos"; [Fonte: ART-2025-08-03]
-
-- "as Três Esferas — Brahma, Vishnu e Shiva — atuavam como ambientes experimentais distintos... cada um dos membros da Trimúrti edificou uma esfera gigantesca, que orbitam umas nas outras"; esfera de Brahma = **cinzenta** (Awayen); de Vishnu = **esverdeada opaca** (Awaymaion); de Shiva = **amarronzada** (Awaylengan); [Fonte: ART-2025-08-03]
 
 - "a chave de acesso a esta 'super-loka' tornou-se exclusiva de Mohen So... a chave foi repassada para uma 'condição humana', um dos poucos meios capazes de propiciar a compreensão e ajudar na 'complementariedade' dos corpos 'estranhos' e incompletos ali existentes — um dos focos de trabalho para as mentes humanas vinculadas ao IEEA"; [Fonte: ART-2025-08-03]
 

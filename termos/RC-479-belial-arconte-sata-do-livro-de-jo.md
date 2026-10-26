@@ -47,11 +47,11 @@ Arconte do conselho ("Satã" no Livro de Jó): começou como anjo clone de Javé
 
 ## 4. Histórico e Eventos Cósmicos
 
+- Aprisionado por Jesus nos 500 passos (Evangelho de Bartolomeu) — ver RC-072 e RC-286. [Fonte: P2026-07-25]
+
 ## 5. Lentes Curatoriais e Quarentenas
 
 - Obra relacionada: **B080 Perversa Gratidão** (o autor: "o penúltimo livro que eu lancei chama-se Perversa Gratidão. É sobre o livro de Jó").
-
-- Aprisionado por Jesus nos 500 passos (Evangelho de Bartolomeu) — ver RC-072 e RC-286. [Fonte: P2026-07-25]
 
 - **[P2024-07-13] O Evangelho de Bartolomeu (U0630–U0650):** "quando Jesus estava crucificado, conforme uma passagem do Evangelho de Bartolomeu, um dos evangelhos chamados de proscrito ou gnóstico, Jesus sai da cruz, dá 500 passos em direção ao Hades, o inferno, o Tártaro, e liberta as almas dos humanos que indevidamente estavam lá junto com os seres titães presos"; "Bartolomeu, eu fui ao inferno libertar a alma de Adão, de Sete, de Enos"; "desde que Adão foi escolhido por Javé, na medida em que essa turma ia morrendo, Belial levava para, no pacto feito com Hades"; "há 2.000 anos atrás, Jesus ressuscitado desceu ao inferno, prendeu essas duas figuras lá" [quarentena teológica — leitura do autor sobre texto gnóstico].
 

@@ -61,19 +61,19 @@ Vishnu (Mavatna) (RC-135); Ravana (RC-582)
 
 - **[P2023-04-30 · OS RISHIS]** "se tornaram A RAÇA MAIS PODEROSA — ATÉ OS DEUSES PASSARAM A TER MEDO... SE UM RISHI EXPLODIR EM FÚRIA, O UNIVERSO SE DESTRÓI" (a geração regenerada de Brahma).
 
+- **[P2023-04-30 · A SINARQUIA]** "O MAIOR HERÓI PLANETÁRIO... QUE DE FATO IMPLEMENTOU A ÚNICA SINARQUIA DECENTE NA HISTÓRIA HUMANA — UM COLEGIADO DE SÁBIOS" (a convergência com P2026-07-25/P2024-08-03).
+
 ## 4. Histórico e Eventos Cósmicos
 
 - **[P2024-08-03] Sita e Ravana (U0741–U0775):** "criaram uma confusão... de tal modo que Sita, a esposa de Rama, foi sequestrada"; Ravana não fez nada com Sita; a opinião pública de Ayodhya (séculos antes do caso da esposa de César); Sita na fogueira (Agni a preserva); "o único governo decente que teve aqui na terra, cuja sede era a cidade de Ayodhya"; Sita praticou o mahasamadhi; Rama seguiu-se ao rio Sarayu; os personagens "estão todos encarnados" hoje (Sita, Hanuman etc.) — "eu tive que cometer essa indelicadeza de falar com cada um deles" [relato pessoal do autor].
 
 - **[P2024-08-03] A lição sinárquica (U0755–U0760):** "na condição humana hoje está a esposa de Rama, está esse ser que foi Ravana"; "todos nós estávamos lá"; "o passado somos nós, os humanos, feito humanos" — dramas, traumas, condicionamentos e sensações inquietantes como herança.
 
-## 5. Lentes Curatoriais e Quarentenas
-
 - **Rama (P2024-11-30):** "Rama era o rei de Ayodhya — existia a Ayodhya terrena e a Ayodhya do universo vizinho; Rama é o rei das duas"; Bharata (irmão) o substituía no reinado sinárquico; Sita sequestrada por Ravana; a opinião pública de Ayodhya (impureza); o teste de fogo de Sita; Rama e os irmãos fazem um samadhi no rio Sarayu, deixando Bharata como único descendente da linhagem da geração regenerada de Brahma.
 
-- **[P2023-04-30 · O MASSACRE DOS KSHATRIYAS]** "Rama percebeu que tinha que destruir primeiro os KSHATRIYAS... 'Vou matar todos os kshatriyas que tem na face da Terra' — E MATOU TODOS: 22.000 E TAL, ou 24.000 segundo outras contas... DEIXOU CERCA DE 20.000 VIÚVAS"; as viúvas e os brâmanes castos: "100 ritos de purificação... ouvia relação sexual, ouvia INSEMINAÇÃO MENTAL" ⚠️ quarentena clínica leve — o relato mítico registrado como narrativa, sem leitura biomédica.
+## 5. Lentes Curatoriais e Quarentenas
 
-- **[P2023-04-30 · A SINARQUIA]** "O MAIOR HERÓI PLANETÁRIO... QUE DE FATO IMPLEMENTOU A ÚNICA SINARQUIA DECENTE NA HISTÓRIA HUMANA — UM COLEGIADO DE SÁBIOS" (a convergência com P2026-07-25/P2024-08-03).
+- **[P2023-04-30 · O MASSACRE DOS KSHATRIYAS]** "Rama percebeu que tinha que destruir primeiro os KSHATRIYAS... 'Vou matar todos os kshatriyas que tem na face da Terra' — E MATOU TODOS: 22.000 E TAL, ou 24.000 segundo outras contas... DEIXOU CERCA DE 20.000 VIÚVAS"; as viúvas e os brâmanes castos: "100 ritos de purificação... ouvia relação sexual, ouvia INSEMINAÇÃO MENTAL" ⚠️ quarentena clínica leve — o relato mítico registrado como narrativa, sem leitura biomédica.
 
 ### Observações
 

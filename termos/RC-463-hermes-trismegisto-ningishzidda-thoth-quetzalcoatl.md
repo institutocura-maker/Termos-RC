@@ -57,6 +57,8 @@ No verbete de B060, Hermes Trismegisto é listado como um personagem com múltip
 
 Descrições biográficas (140–150 mil anos; nascimento; descendência) são **cronologia interna do autor** — registro doutrinário, não biografia validada.
 
+- **Paradoxo:** se autodenominava **sábio** (limites) mesmo sendo iniciado — prudência; [Fonte: P2023-12-02]
+
 ## 2. Natureza e Atributos
 
 - **Biológico:** "Tot é biológico como a gente" — **anunnaki terráqueo**, nascido na Terra há ~140–150 mil anos, **filho de Enki** (RC-486); [Fonte: P2023-12-02]
@@ -71,6 +73,8 @@ Ningishzidda/Thoth (Anunnaki/egípcio); Quetzalcóatl; Viracocha; Apolônio de T
 
 - **Relações:** trabalhou com **anjos de Javé, Adão bíblico e Enoque** (RC-489); governante no Egito; **deus na Mesoamérica** (maias, incas, astecas); vivo hoje (na Terra); [Fonte: P2023-12-02]
 
+- Hermes Trismegisto ↔ Apolônio de Tiana (RC-259): contato via teurgia/magia, "não foi no grau de iniciação". [Fonte: P2023-12-02]
+
 ## 4. Histórico e Eventos Cósmicos
 
 - **[Ningizida, o futuro Tot] (U0056)** «Tô falando dos nefelin bíblicos na linguagem sumeriana ou os Anunax na linguagem acadiana.» — os três seres do criatório: "E Enenk e a irmã dele e Ningizida, que viria a ser conhecido mais tarde na cultura egípcia como Tot" (U0056: «E Enenk e a irmã dele e Ningizida, que viria a ser conhecido mais tarde na cultura egípcia como Tot.»); STT «Enenk» (= Enki; RC-460 Marduk = Ra, filho de Enki) e «Ningizida» (= Ningishzidda/Thoth; RC-463 Hermes Trismegisto); RC-488. [Fonte: P2022-09-17]
@@ -79,11 +83,7 @@ Ningishzidda/Thoth (Anunnaki/egípcio); Quetzalcóatl; Viracocha; Apolônio de T
 
 ## 5. Lentes Curatoriais e Quarentenas
 
-- **Paradoxo:** se autodenominava **sábio** (limites) mesmo sendo iniciado — prudência; [Fonte: P2023-12-02]
-
 - **Absorções (decisão do curador 2026-08-18):** **Maat** (NT-TT03 — "o importante é Maat", figura que Thot destacava como ponto de inflexão) e **Kybalion** (NT-TT04 — obra-síntese do hermetismo, organizada ~1900/1908 [STT] a partir dos ensinamentos de Thot) foram **absorvidos aqui**, sem códigos autônomos; [Fonte: P2023-12-02]
-
-- Hermes Trismegisto ↔ Apolônio de Tiana (RC-259): contato via teurgia/magia, "não foi no grau de iniciação". [Fonte: P2023-12-02]
 
 - **Tot inventou o alfabeto:** diálogo com o faraó (~4.261 a.C. [STT — `[REVISAR → CHANCELA 10/09/2026 · F039-L5: AGUARDA-ÁUDIO (data STT como falada) — ver nota]`]): "Tot entra na sala do faraó e diz: 'Faraó, tive uma ideia... estou inventando um método de representar em símbolos os sons que as nossas bocas expressam'"; [Fonte: P2025-11-29]
 

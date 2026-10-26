@@ -60,6 +60,10 @@ Não significa isolamento intelectual nem recusa de estudo. Implica:
 
 - **[A ciência pessoal de cada ser único] (U0029)** «O que implica dizer que cada ser humano sob essa perspectiva tem que criar sua ciência pessoal, já que cada um de nós é único.» — o Mentalma é a primeira versão da ciência pessoal do autor; cada ser humano, sendo único, precisa criar a sua própria. [Fonte: P2025-06-14b]
 
+- **Doutrina da própria personalidade (P2025-02-16):** "cada ser humano que a isso pretenda desenvolva a sua ciência pessoal ou a sua doutrina, a doutrina da sua própria personalidade, porque cada um de nós é de um jeito. Regras gerais existem, mas cada um de nós precisa também de regras específicas"; "seja você o seu próprio guru".
+- **Desenraizar:** "você perceber uma nova ideia é fácil. O difícil é desenraizar as velhas ideias... sem o processo da vivência do yoga ou algo parecido, não há possibilidade de renovação do ser humano." [Fonte: P2025-02-16]
+- **Esforço intelectual e psíquico como imperativo:** seção 5.4 — "A Crítica à Crença e à Passividade Religiosa: O Esforço Intelectual e Psíquico como Imperativo" — a Ciência Pessoal como método de autodescoberta da função humana na Matrix (seção 5.3); [Fonte: P2023-05-13]
+
 ## 2. Natureza e Atributos
 
 - **O espelho:** "você olha para um espelho, quando você sai da frente do espelho sua imagem fica lá. Isso aqui é o eu humano que fica dentro do espelho, mas o espírito dele é o que tá fora. Nós somos imagens refletidas dos nossos espíritos que se movimentam dentro de um espelho — só que esse espelho pra gente é uma faixa de realidade." [Fonte: P2025-02-16]
@@ -71,12 +75,6 @@ Não significa isolamento intelectual nem recusa de estudo. Implica:
 ## 4. Histórico e Eventos Cósmicos
 
 ## 5. Lentes Curatoriais e Quarentenas
-
-- **Doutrina da própria personalidade (P2025-02-16):** "cada ser humano que a isso pretenda desenvolva a sua ciência pessoal ou a sua doutrina, a doutrina da sua própria personalidade, porque cada um de nós é de um jeito. Regras gerais existem, mas cada um de nós precisa também de regras específicas"; "seja você o seu próprio guru".
-
-- **Desenraizar:** "você perceber uma nova ideia é fácil. O difícil é desenraizar as velhas ideias... sem o processo da vivência do yoga ou algo parecido, não há possibilidade de renovação do ser humano." [Fonte: P2025-02-16]
-
-- **Esforço intelectual e psíquico como imperativo:** seção 5.4 — "A Crítica à Crença e à Passividade Religiosa: O Esforço Intelectual e Psíquico como Imperativo" — a Ciência Pessoal como método de autodescoberta da função humana na Matrix (seção 5.3); [Fonte: P2023-05-13]
 
 - **Despersonificação:** "você tem que se, entre aspas, despersonificar um pouco, porque o tipo de personificação que nós estamos tendo é animalizada, é primitiva" — necessária à autogestão e autoproteção conscencial (seção 5.2); [Fonte: P2023-05-13]
 

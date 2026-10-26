@@ -52,6 +52,9 @@ A Humanização do Criador é o tema do capítulo 17 de B015 e o arco dramático
 
 - **[B037 p. 24]** o Ser no trono parece «ser humanizado» no corpo, mas «nas suas posturas… poderia ser tudo, menos um ser humano».
 
+- **[B037 p. 55]** ao aproximar-se da Terra, «ia humanizando-se, ainda que no seu modesto padrão».
+- **[B037 p. 76]** as três personificações «jamais se “humanizaram” do modo como você entende»; Brahma, «Eu não!».
+
 ## 3. Hierarquia e Geopolítica
 
 ### Seres Associados
@@ -65,10 +68,6 @@ Criador/Javé (RC-041/RC-001); Zont En Drel 29 (RC-147); Jesus (RC-072); Seres T
 ## 5. Lentes Curatoriais e Quarentenas
 
 - **[B048 p. 23–24]** Constatação: a “máquina de pensar” Brahma/Javé/Alá processa informações mas não “o significado mental das coisas”; “O processo de ‘humanização da sua natureza pessoal’… influenciá-lo, por meio da ponte do seu DNA.” **Quarentena clínica + científica.**
-
-- **[B037 p. 55]** ao aproximar-se da Terra, «ia humanizando-se, ainda que no seu modesto padrão».
-
-- **[B037 p. 76]** as três personificações «jamais se “humanizaram” do modo como você entende»; Brahma, «Eu não!».
 
 ### Observações
 

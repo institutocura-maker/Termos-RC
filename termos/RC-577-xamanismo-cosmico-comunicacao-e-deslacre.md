@@ -54,6 +54,8 @@ No uso da palestra, protocolo antigo de comunicação entre o universo antimater
 
 > ““Há duas eras equinociais [...] que a gente tenta desenvolver uma forma de comunicação desse universo com os humanos. E o xamanismo foi isso.”” — P2022-12-17, U0550–U0557; U0730
 
+- **Serpente no Gênesis:** "todo mundo que entra em transe se defronta com serpente" — a serpente como realidade subjacente (RC-283 Pandora como Serpente); [Fonte: P2024-09-28]
+
 ## 2. Natureza e Atributos
 
 ### Xamanismo Naga / P2025-02-16
@@ -83,8 +85,6 @@ O Xamanismo é apresentado como canal ancestral de deslacre perceptivo, alimenta
 - **Quinara (futuro):** "daqui a uns 4.000 e poucos anos... essa pessoa se reassuma como uma quinara. É um outro tipo de teriantropia mais parecida com centauros” — `[REVISAR → RESOLVIDO 10/09/2026 · F038-L5: ver RC-790 (ficha dedicada: Quinaras/Centauros, seres reais) — ver nota]` (Colecionar Incertezas); [Fonte: P2024-09-28]
 
 ## 5. Lentes Curatoriais e Quarentenas
-
-- **Serpente no Gênesis:** "todo mundo que entra em transe se defronta com serpente" — a serpente como realidade subjacente (RC-283 Pandora como Serpente); [Fonte: P2024-09-28]
 
 - Nova aresta RC-577 ↔ RC-160 (Xamanismo ~ Entropia). [Fonte: P2024-09-28]
 

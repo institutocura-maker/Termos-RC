@@ -44,17 +44,16 @@ O B043 (2009, romance espírita psicografado por JVE) narra: o Drama dos Reis Ga
 
 > "Dos arquivos espirituais sobre a sua rápida passagem na Terra surgem episódios que se guardavam velados até então. São fatos da sua juventude, que vão desde a decisiva participação de José de Arimatéia em sua vida e na dos demais filhos e filhas de Maria, até profundos e reveladores diálogos com seu irmão Tiago." — B043, Sinopse
 
+## 4. Histórico e Eventos Cósmicos
+
+- **[B043 p. 16]** Maria viúva há seis anos; Jesus e Tiago no ofício da carpintaria; chegada de José de Arimatéia.
+- **[B043 p. 52–53]** encontro na caverna da montanha sagrada: Mordon, Dolman, Brendiver e José; diálogo a sós após a saída dos reis.
+
 ## Citações Verbatim
 
 - **[B043 p. 6]** “São fatos da sua juventude, que vão desde a decisiva participação de José de Arimateia em sua vida […] até profundos e reveladores diálogos com seu irmão Tiago”; Jesus se dirige “ao norte mítico” e encontra “o velho druida da montanha, guardador dos mistérios ancestrais.”
 
-- **[B043 p. 16]** Maria viúva há seis anos; Jesus e Tiago no ofício da carpintaria; chegada de José de Arimatéia.
-
 - **[B043 p. 31]** interesse de José “mais além” do comercial; comentários sobre o nascimento e os “estranhos poderes” do menino — **não ontologizar**.
-
-- **[B043 p. 52–53]** encontro na caverna da montanha sagrada: Mordon, Dolman, Brendiver e José; diálogo a sós após a saída dos reis.
-
-- RC-374 Mordon, RC-375 Druidas, RC-376 José de Arimatéia, RC-377 Brendiver/Dolman permanecem **sem ficha**. [Fonte: B043]
 
 ## 3. Hierarquia e Geopolítica
 
@@ -67,6 +66,8 @@ Jesus (RC-072); José de Arimatéia (RC-376); Mordon (RC-374); Brendiver e Dolma
 ### Observações
 
 Ficha baseada em B043 (obra primária). Complementa o quadro da juventude de Jesus — conectar com B011 (Transfiguração) e o tema dos "anos perdidos".
+
+- RC-374 Mordon, RC-375 Druidas, RC-376 José de Arimatéia, RC-377 Brendiver/Dolman permanecem **sem ficha**. [Fonte: B043]
 
 ## 6. Histórico Curatorial e Auditoria
 

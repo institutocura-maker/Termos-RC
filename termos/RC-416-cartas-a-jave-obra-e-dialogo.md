@@ -49,10 +49,6 @@ A obra materializa o diálogo direto Criador × criatura: Mônica abre a Carta 1
 
 - **[B034 p. 5]** sinopse: “estratégia em curso” para o livro nascer; só depois das cartas o destinatário — Senhor Javé — resolveu respondê-las, “precisando, para tanto, de um intermediário”. “Livro único, singular… revelador em seus propósitos.”
 
-- **[B034 p. 4]** sumário: **15** cartas + Resposta em 2 partes + 2 posfácios. BIBLIO diz 16 cartas → **`[REVISAR → CHANCELA 10/09/2026 · F040-L5: DIVERGÊNCIA REGISTRADA (sumário 15 × BIBLIO 16) — ver nota]`** de contagem. BIBLIO intocada.
-
-- **[B034 p. 6]** prefácio de Mônica: escreveu enquanto lia B002 e B033 — **voz da missivista, isolada**; **não fundir** com B002 / B033.
-
 - **[B034 p. 67–68]** posfácios: Mônica descreve um Javé “autêntico” (não o do AT nem o de Jesus) — **não ontologizar**. Ellam reluta em intermediar; “não confio nele” — **quarentena biográfica**. IEEA / Orbum / entrevista **fora**.
 
 ## 3. Hierarquia e Geopolítica
@@ -67,6 +63,9 @@ Javé (RC-001); Mônica Camargo (RC-420); Jan Val Ellam (RC-071, intermediário)
 
 Ficha baseada em B034 (obra primária, 2014). O livro é único no corpus: **Javé fala em 1ª pessoa** — fonte primária valiosíssima para a psicologia do Criador. Nota técnica: o PDF tem 94 págs; páginas 1 (capa) e 72 sem texto (extração das demais OK).
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-416.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
+
+- **[B034 p. 4]** sumário: **15** cartas + Resposta em 2 partes + 2 posfácios. BIBLIO diz 16 cartas → **`[REVISAR → CHANCELA 10/09/2026 · F040-L5: DIVERGÊNCIA REGISTRADA (sumário 15 × BIBLIO 16) — ver nota]`** de contagem. BIBLIO intocada.
+- **[B034 p. 6]** prefácio de Mônica: escreveu enquanto lia B002 e B033 — **voz da missivista, isolada**; **não fundir** com B002 / B033.
 
 ## 6. Histórico Curatorial e Auditoria
 

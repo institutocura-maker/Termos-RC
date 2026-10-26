@@ -138,11 +138,11 @@ Yel Luzbel (RC-078); Len Mion (RC-074); Família Yel (RC-136); Família Val (RC-
 
 - "Só que a coisa foi Lúcifer quando rompeu, destravou o lacre da família Yel, ele acabou com essa história toda" (STT) — o destrave do lacre da família Yel (RC-834/RC-835); [Fonte: P2019-08-25]
 
+- **[B057 p. 19]** o grupo remanescente: "quase todos morreram neste planeta – entretanto, existe um pequeno grupo de capelinos que, na **única nave dos 'ex-rebelados', ainda apta para se locomover à volta da Terra**, se submeteu a um processo de **alteração dimensional**."
+
 ## 5. Lentes Curatoriais e Quarentenas
 
 - **[P2024-07-13] A quarentena progressiva (U0465–U0490):** "os seres que se sentiam doentes resolveram, por eles mesmos, se isolar... isso não foi uma decisão de Sofia"; "o nome disso é quarentena"; "esses 19 mundos estavam em quarentena, depois 18, depois 17... com o passar do tempo, cada mundo ia sendo reintegrado à convivência cósmica e os doentes que ainda existiam redistribuídos pelos outros"; "há cerca de 100.000 anos, dos 19 mundos só tinham dois: Outland e a Terra"; "Sofia tomou a decisão de reintegrá-los, e Lúcifer veio pro último bastião que ele tinha para poder construir uma trincheira para manter a rebelião viva, que foi a Terra"; "o quartel-general de Lúcifer tava aqui e está aqui até hoje".
-
-- **[B057 p. 19]** o grupo remanescente: "quase todos morreram neste planeta – entretanto, existe um pequeno grupo de capelinos que, na **única nave dos 'ex-rebelados', ainda apta para se locomover à volta da Terra**, se submeteu a um processo de **alteração dimensional**."
 
 - **[B057 p. 18–19 · divergência de datas]** "liberdade mental" conquistada "há uns **740 mil anos**" (p. 18) / "**742 mil anos, aproximadamente**" (p. 19) × Revolta deflagrada "há uns **687 mil anos**" (p. 19) — nota de fim de capítulo (p. 20): "**todos os tempos usados neste livro são referenciados a anos terrestres**". A base já registrava "700 mil vs 742 mil" (B061, seção E.7) → **variante B057 (687 mil) anotada como nota de curadoria** (O-4 — absorver, preservando o artefato).
 

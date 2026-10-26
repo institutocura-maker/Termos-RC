@@ -43,11 +43,13 @@ No B057 (cap. 2, pp. 21–22), Yel Luzbel explica o gênero capelino por contras
 > "havia uma pequena diferença entre esses seres extrafísicos e os de Capela, pois os olimpianos eram urdidos individualmente e não são entes coletivos, enquanto os capelinos, que podem pertencer a grandes ou a pequenas famílias, também possuem corpos individualizados, **porém são coletivos, e não têm uma identidade própria**, como os olimpianos. **Os capelinos apresentam uma identidade coletiva, baseada e alicerçada nas características da família em que estão inseridos.**" — B057, p. 21
 > «tanto os seres de Capela quanto os olimpianos» » … « «fazem parte de “experiências” similares de um único “projeto”, que visa resolver os» » … « «“problemas” do Criador “caído”.» — B057 p. 21 · `original.txt` L826 · reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte.
 
+## 2. Natureza e Atributos
+
+- **[B058 p. 70 · o limiar da individualidade]** Yel Luzbel: "Se eu deixar de ser um integrante da minha 'família' e, portanto, desligar-me do 'Processador' que nos une a todos, **não mais existirei como um ser coletivo para este universo?**"
+
 ## Citações Verbatim
 
 - **[B058 p. 1 · SINTESE]** "a Família Mion decide entrar em contato com **os demais Biocoletivos espalhados pelo universo**"; "os lacres que marcavam o psiquismo coletivo desses seres passaram a ser rompidos, dando lugar a um **senso de individualidade inquietante jamais intentado**" (RC-448).
-
-- **[B058 p. 70 · o limiar da individualidade]** Yel Luzbel: "Se eu deixar de ser um integrante da minha 'família' e, portanto, desligar-me do 'Processador' que nos une a todos, **não mais existirei como um ser coletivo para este universo?**"
 
 - **[B058 p. 71]** "Precisamos libertar-nos dos nossos grilhões, e o facto de estarmos todos ligados a 'Processadores Familiares', **parece ser exatamente o que nos mantêm dominados e controlados!**"
 

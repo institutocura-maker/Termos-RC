@@ -53,8 +53,6 @@ O apêndice "Prisioneiros da Brahmaloka" (B016) é uma das fontes mais densas da
 
 - **[B016 p. 5 / 48]** só Vishnu e Shiva geram avatares; o Primeiro Logos “não podia gerar avatares.”
 
-- RC-014/RC-016 materializadas P5e. [Fonte: B016]
-
 ## 3. Hierarquia e Geopolítica
 
 ### Seres Associados
@@ -66,6 +64,8 @@ Brahma/Javé (RC-037/RC-001); Shiva (RC-102); Vishnu (RC-135); Sophia (RC-009); 
 ### Observações
 
 Ficha baseada em B016 (obra primária). Apêndice-chave para a taxonomia Adhy (Adhyagia/Adhyatman/Adhydaiva/Adhyajna) e para a compreensão de por que Brahma não produz avatares enquanto Shiva e Vishnu o fazem. Cruzar com RC-016 e RC-014.
+
+- RC-014/RC-016 materializadas P5e. [Fonte: B016]
 
 ## 6. Histórico Curatorial e Auditoria
 

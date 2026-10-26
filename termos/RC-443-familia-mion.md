@@ -58,6 +58,8 @@ Na narrativa psicografada, enquanto os sábios da Família Yel aguardam resposta
 
 - **[B057 p. 60–61 · a "perdição"]]** a família "se tornou extremamente 'violenta' e 'descontrolada'"; a "agressividade": "partir imediatamente para o confronto direto ou indireto" (p. 61); "essa foi a perdição da família Mion" (p. 61).
 
+- **[B058 p. 63]** o registro do desvio: "extremismo, nervosismo e agressividade" (percepção de Yel Luzbel).
+
 ## 3. Hierarquia e Geopolítica
 
 ### Seres Associados
@@ -72,6 +74,11 @@ Len Mion (RC-074); Gron Mion (RC-067, citado nas obras primárias); Yel Luzbel (
 
 - **[P2022-03-26 · FAMÍLIA MION NA FALA DE 26/03/2022]** "foi feito um, não um pacto, uma mistura de genética entre os voz e diversos outros seres das famílias, Iel, Chamum, Cromon e Mion, para que estes fossem absorvidos pelo processador vol." (U0034) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
 
+- **[B057 p. 52 · Len Mion apresenta a família]** "eu reuni aqui, perante você, aqueles seres da minha família que **julgo mais ousados, mais inteligentes e mais corajosos na maneira de pensar**... Nós, da família Mion, somos assim! Somos ousados e permitimo-nos pensar um pouco mais além do que vocês, da família Yel."
+- **[B058 p. 14]** Len Mion convoca o conclave da família: "Vamos Luzbel, **teremos de tratar deste assunto por nós mesmos!** A minha 'família' já não tem mais paciência..."
+- **[B058 p. 61]** a irredutibilidade: "Nós, da 'família Mion', **não colecionamos dúvidas!**... iremos até ao fim, seja lá o que aconteça!"
+- **[B058 p. 71]** a oferta ao renunciante: "acharemos uma maneira de **você ser ligado ao 'Processador' da 'família Mion'**!"
+
 ## 4. Histórico e Eventos Cósmicos
 
 - **[B057 p. 60 · o Processador Mion]** "essa energia foi se propagando – digamos assim – **através do 'Processador Mion'** e, depois de um certo tempo, **todos dessa família acabaram por pensar da mesma maneira** – assim funcionava o 'Processador' de cada família!" (RC-446.)
@@ -82,17 +89,7 @@ Len Mion (RC-074); Gron Mion (RC-067, citado nas obras primárias); Yel Luzbel (
 
 ## 5. Lentes Curatoriais e Quarentenas
 
-- **[B057 p. 52 · Len Mion apresenta a família]** "eu reuni aqui, perante você, aqueles seres da minha família que **julgo mais ousados, mais inteligentes e mais corajosos na maneira de pensar**... Nós, da família Mion, somos assim! Somos ousados e permitimo-nos pensar um pouco mais além do que vocês, da família Yel."
-
-- **[B058 p. 14]** Len Mion convoca o conclave da família: "Vamos Luzbel, **teremos de tratar deste assunto por nós mesmos!** A minha 'família' já não tem mais paciência..."
-
 - **[B058 p. 58]** a divisão de papéis: "A 'família Mion' **seguia administrando e organizando o nosso movimento**, enquanto o que me cabia fazer, era somente falar diante do público."
-
-- **[B058 p. 61]** a irredutibilidade: "Nós, da 'família Mion', **não colecionamos dúvidas!**... iremos até ao fim, seja lá o que aconteça!"
-
-- **[B058 p. 71]** a oferta ao renunciante: "acharemos uma maneira de **você ser ligado ao 'Processador' da 'família Mion'**!"
-
-- **[B058 p. 63]** o registro do desvio: "extremismo, nervosismo e agressividade" (percepção de Yel Luzbel).
 
 ### Observações
 

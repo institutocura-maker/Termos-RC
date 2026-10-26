@@ -67,6 +67,8 @@ Autor das obras-primária e complementar que fundamentam a base. Na B031 (a obra
 
 - **[P2023-12-03 · A CADEIA ELÃ → ENOQUE]** «esse Valan, que foi uma das figuras que o meu espírito personalizou, personificou, lá atrás, ficou vivendo aqui na Terra. E com essas duas questões dos 600 e poucos foram morrendo, mas isso foi na época, exatamente na época em que existiam terras aonde hoje é o polo norte. Foi na época do hiperbório. E lá no Polo Norte, muitas partes de terra que hoje não mais existem Porque todas sucumbiram no problema que iria» (U0004) — D-12: entra **só** a cadeia de encarnações que a fonte atribui ao espírito que a anima (Valan/Elã → Enoque), sem adjetivação confirmatória e sem as frases em que a fonte se coloca como «a última opção» dos três — essas ficam na transcrição, com moldura, e não aqui.
 
+- **[B031 p. 10 · PREFÁCIO — a autorização da obra]** "O livro produzido por Raquel Braga traz consigo a preocupação de expressar esses elementos informativos que convidam o leitor a descobrir as 'novas trilhas' que os atuais tempos da Revelação Cósmica que estamos principiando a viver requerem" — assinado "**Jan Val Ellam / Natal, 07 de Setembro de 2020**".
+
 ## 2. Natureza e Atributos
 
 - **[B031 pp. 9–10 · PREFÁCIO DE JAN VAL ELLAM — paratexto AUTORIZADO (hierarquia superior ao de Kummer/B089)]** a "trilha cerebral": a Educação como "um conjunto de elementos que compõem um determinado modo — método — de ofertar ao ser humano uma **'trilha cerebral'** para que o seu psiquismo possa, então, racionalmente, apropriar e/ou conviver com um dado padrão de conhecimento"; "Trilha cerebral aqui significa o conjunto dos novos elementos agora colecionados no **jogo sináptico dos mais de 80 bilhões de neurônios produzindo cerca de 100 trilhões de estradas neurais no cérebro humano**".
@@ -82,8 +84,6 @@ Ver Base (os relacionados acima cobrem o círculo direto; a Família Val: RC-109
 ## 5. Lentes Curatoriais e Quarentenas
 
 - **[B031 p. 9 · PREFÁCIO]** o "perspectivo": "na prática do **perspectivo** — que é a visão filosófica que se preocupa em considerar ou analisar algo **segundo vários pontos de vista ou planos diferentes** — reside, talvez, a única maneira disponível ao ser humano adulto de se livrar das 'mesmices'".
-
-- **[B031 p. 10 · PREFÁCIO — a autorização da obra]** "O livro produzido por Raquel Braga traz consigo a preocupação de expressar esses elementos informativos que convidam o leitor a descobrir as 'novas trilhas' que os atuais tempos da Revelação Cósmica que estamos principiando a viver requerem" — assinado "**Jan Val Ellam / Natal, 07 de Setembro de 2020**".
 
 - **[B031 p. 155 · OUTROS CANAIS DE JAN VAL ELLAM]** "Além das dezenas de livros publicados, **Jan Val Ellam já escreveu mais de uma centena deles que ainda não foram publicados**. Como ele diz que 'nesta vida' não conseguirá publicar todos, Ellam criou alguns outros canais..." (palestras, YouTube, lives, Institutos **IEEA/IESP/INSTALM**, Rádio Atlan — quarentena institucional; o radar do futuro: **100+ livros inéditos**).
 

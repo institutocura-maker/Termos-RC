@@ -44,11 +44,11 @@ O evento marca o ponto de virada da Era Sapiens: após a crucificação, ocorre 
 
 > "Yel Luzbel retirou-se atordoado e, a partir daquele momento, não mais voltou ao convívio dos seus pares, que passaram a procurá-lo desesperadamente. Desde aquele instante, Lúcifer isolou-se, e não mais comandou a sua falange ou o que dela restava. A base Atlan voltou a ser o seu 'refúgio'." — B039, cap. 11
 
-## Citações Verbatim
-
-- **[B011 p. 80]** véspera pascal; "postura grave do Mestre"; lava-pés: "a postura dos seres de Seu porte era a preocupação de servir e não de ser servido"; "há bem mais alegria em dar do que em receber".
+## 4. Histórico e Eventos Cósmicos
 
 - **[B011 p. 81]** "Um de vós me há de trair." — inquietação; Pedro pergunta a João.
+
+## Citações Verbatim
 
 - **[B011 p. 163–164]** o posfácio declara omissão sobre opções que "teriam tido o condão de ter modificado o rumo dos acontecimentos" — permanece **[NÃO REVELADO]**; não completar.
 
@@ -59,6 +59,8 @@ O evento marca o ponto de virada da Era Sapiens: após a crucificação, ocorre 
 ### Seres Associados
 
 Jesus (RC-072); Yel Luzbel/Lúcifer (RC-142/RC-078); Len Mion/Satã (RC-074); Sophia (RC-009).
+
+- **[B011 p. 80]** véspera pascal; "postura grave do Mestre"; lava-pés: "a postura dos seres de Seu porte era a preocupação de servir e não de ser servido"; "há bem mais alegria em dar do que em receber".
 
 ## 5. Lentes Curatoriais e Quarentenas
 

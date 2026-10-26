@@ -49,11 +49,11 @@ Com isso:
 
 ## 3. Hierarquia e Geopolítica
 
+- Aula 03 confirma o papel de **José de Arimateia** como financiador/tutor do Jesus jovem (as caravanas e as viagens) — já registrado na ficha (RC-376). [Fonte: P2023-12-25]
+
 ## 4. Histórico e Eventos Cósmicos
 
 ## 5. Lentes Curatoriais e Quarentenas
-
-- Aula 03 confirma o papel de **José de Arimateia** como financiador/tutor do Jesus jovem (as caravanas e as viagens) — já registrado na ficha (RC-376). [Fonte: P2023-12-25]
 
 ### Observações
 

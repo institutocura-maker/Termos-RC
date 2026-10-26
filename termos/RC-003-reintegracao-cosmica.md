@@ -82,6 +82,9 @@ Conceito que amarra os três eixos do pensamento de Ellam — cristianismo, espi
 
 - **[A reintegração e o retorno de Sophia] (U0063)** «A Reintegração Cósmica da Terra, marcada pelo retorno de Sophia (Cristo Cósmico/Jesus), e a ascensão do Quarto Logos dependem crucialmente da contribuição consciente dos humanos para a recomposição do Criador.» — a Reintegração Cósmica da Terra (RC-003), marcada pelo retorno de Sophia (Cristo Cósmico/Jesus), depende da contribuição consciente dos humanos para a recomposição do Criador. [Fonte: P2025-06-14]
 
+- **[B009 p. 13]** Esclarecimento: Ellam distingue entidade «espiritual (espíritos desencarnados)» e «cósmica (seres que vivem fora do contexto terrestre)» — horizonte cósmico da voz do autor, sem interpolar o termo.
+- **«A reintegração cósmica meio que é refém da vinda de Sofia»** [Fonte: P2020-04-04]
+
 ## 2. Natureza e Atributos
 
 - **Reintegração Cósmica / planeta regenerado (P2025-02-15):** "a Terra só poderá ser o tal planeta regenerado, que a doutrina espírita fala com muita propriedade, quando os humanos que aqui surgirem estiverem vinculados, ou sejam produtos de espíritos limpos, minimamente regenerados" (kardecismo — sem endosso).
@@ -128,21 +131,19 @@ Conceito que amarra os três eixos do pensamento de Ellam — cristianismo, espi
 
 - **Status da evidência:** transcrição automatizada, pré-curada e aprovada quanto à integração terminológica; conferir com áudio/obra antes de promover status. [Fonte: P2021-12-04]
 
+- **[B027 p. 7]** Esclarecimento (voz de Ellam): «em que a comunidade planetária terrestre está prestes a ser reintegrada à convivência cósmica»; os mentores pretendem adaptar aos dias atuais ensinamentos dos «grandes mestres da humanidade».
+- **[B017 p. 6]** Esclarecimentos: Ellam não sabe como os desdobramentos serão conduzidos «após a reintegração da Terra ao convívio com o circuito de intercâmbio cósmico no qual o nosso planeta se encontra há muito inserido».
+- **[B003 p. 3]** Ellam: a reintegração de uma coletividade «à sociedade cósmica», após «longuíssima e dolorosa penalidade», exige esclarecimento; «este livro — como outros a serem lançados — foi produzido» para quem «seremos em breve reintegrados à convivência cósmica».
+- **[Reintegração Cósmica — rumo a uma nova convivência]:** «O fechamento dos portais e o fim da era da Trimúrti [...] A Reintegração Cósmica: rumo a uma nova convivência.» — ver RC-092 (Quarto Logos), RC-070 (Isolamento Cósmico). [Fonte: P2024-03-02]
+- **Contexto acrescentado:** A Reintegração é apresentada como consequência pendente da chegada/regência de Sophia, capaz de retirar a Terra do isolamento e iniciar o “intercâmbio cósmico”. [Fonte: P2022-12-17]
+
 ## 5. Lentes Curatoriais e Quarentenas
 
 - **[P2024-07-13] O detalhe da quarentena (U0463–U0490):** "a reintegração cósmica, ela tem um detalhe. No início eram 19 mundos isolados da convivência com os demais planetas. Por que isolados? Porque era um caso de saúde pública"; "quando dos 19 mundos, um desses mundos, a população daquele mundo se curava, esse mundo era reintegrado à convivência e o restinho da população daquele mundo que ainda estava doente era elevada e distribuída pelos 18 mundos que ainda estavam isolados".
 
 - Lemma «reintegração» **não** ocorre no Esclarecimento. Prefácio de Val Eom **vetado** (voz de terceiro). [Fonte: B009]
 
-- **[B009 p. 13]** Esclarecimento: Ellam distingue entidade «espiritual (espíritos desencarnados)» e «cósmica (seres que vivem fora do contexto terrestre)» — horizonte cósmico da voz do autor, sem interpolar o termo.
-
 - Lemma «reintegração cósmica» **não** ocorre como locução fechada no Esclarecimento. Sem interpolar o título da ficha. Ocorre «reintegrada à convivência cósmica». [Fonte: B027]
-
-- **[B027 p. 7]** Esclarecimento (voz de Ellam): «em que a comunidade planetária terrestre está prestes a ser reintegrada à convivência cósmica»; os mentores pretendem adaptar aos dias atuais ensinamentos dos «grandes mestres da humanidade».
-
-- **[B017 p. 6]** Esclarecimentos: Ellam não sabe como os desdobramentos serão conduzidos «após a reintegração da Terra ao convívio com o circuito de intercâmbio cósmico no qual o nosso planeta se encontra há muito inserido».
-
-- **[B003 p. 3]** Ellam: a reintegração de uma coletividade «à sociedade cósmica», após «longuíssima e dolorosa penalidade», exige esclarecimento; «este livro — como outros a serem lançados — foi produzido» para quem «seremos em breve reintegrados à convivência cósmica».
 
 - **[B003 p. 8–9]** Introdução: analogia do cárcere; «ilha cósmica»; retorno à convivência cósmica «por força de uma lei maior». «Pobre e frágil psicologia humana» = **clínica** (leitura, jamais diagnóstico).
 
@@ -151,12 +152,6 @@ Conceito que amarra os três eixos do pensamento de Ellam — cristianismo, espi
 - **[B026 p. 427]** fecho (J. V. Ellam): agradece quem passou «pelas páginas desta trilogia»; os erros «deverão ser corrigidos pelos reais autores». **Quarentena mediúnica.**
 
 - **[P2023-12-03 · ATÉ QUANDO, SEGUNDO A FONTE]** «Mas até o ano 2049, 50, 51, 52, isso aqui vai continuar a acontecer.» (U0016) — D-13: a reintegração world-by-world recebe da fonte um horizonte declarado — «até o ano 2049, 50, 51, 52, isso aqui vai continuar a acontecer» — que é **o que a fala diz**, não uma previsão da Base. O valor para a ficha é o procedimento (redistribuir os doentes e reintegrar o mundo), não o calendário; a janela viaja com endereço.
-
-- **[Reintegração Cósmica — rumo a uma nova convivência]:** «O fechamento dos portais e o fim da era da Trimúrti [...] A Reintegração Cósmica: rumo a uma nova convivência.» — ver RC-092 (Quarto Logos), RC-070 (Isolamento Cósmico). [Fonte: P2024-03-02]
-
-- **«A reintegração cósmica meio que é refém da vinda de Sofia»** [Fonte: P2020-04-04]
-
-- **Contexto acrescentado:** A Reintegração é apresentada como consequência pendente da chegada/regência de Sophia, capaz de retirar a Terra do isolamento e iniciar o “intercâmbio cósmico”. [Fonte: P2022-12-17]
 
 - **Status da evidência:** transcrição automatizada, pré-curada e validada terminologicamente pelo curador; conferir com áudio/obra primária antes de promoção de status. [Fonte: P2022-12-17]
 

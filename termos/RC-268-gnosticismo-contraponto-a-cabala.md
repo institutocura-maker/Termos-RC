@@ -45,6 +45,9 @@ Corrente esotérica cujas fontes são os **evangelhos gnósticos** — na RC, um
 
 - **Línguas:** "esses livros começaram a ser produzidos em aramaico e em grego. Por isso que essas expressões arconte, gnose... foram se tornando presentes nos livros chamados hoje de gnósticos" (nova aresta RC-268 ↔ RC-483 Barbelo). [Fonte: P2024-09-28]
 
+- **Thot por trás:** "se eu pegar o Orfismo ou o Gnosticismo ou a Cabala ou a Teosofia ou o hermetismo, Thot está por trás de cada um deles"; [Fonte: P2023-12-02]
+- **Gnose = verdade esclarecida:** "gnose significa a verdade profunda, a verdade esclarecida e não a verdade fajuta que Paulo e os apóstolos estavam divulgando"; [Fonte: P2024-09-28]
+
 ## 2. Natureza e Atributos
 
 - **Gnose de Jesus:** "o que chamamos de gnosticismo propriamente dito surgiu como necessidade do eu de Jesus após a sua morte, de explicar os seus afetos, notadamente a sua mãe, porque ele se recusou a ser o rei dos judeus nos termos exigidos por Javé"; [Fonte: P2024-09-28]
@@ -57,11 +60,7 @@ Corrente esotérica cujas fontes são os **evangelhos gnósticos** — na RC, um
 
 ## 5. Lentes Curatoriais e Quarentenas
 
-- **Thot por trás:** "se eu pegar o Orfismo ou o Gnosticismo ou a Cabala ou a Teosofia ou o hermetismo, Thot está por trás de cada um deles"; [Fonte: P2023-12-02]
-
 - O Gnosticismo é citado como herança do conhecimento codificado por Thot (com os demais focos) — conexão com RC-463 (nova aresta). [Fonte: P2023-12-02]
-
-- **Gnose = verdade esclarecida:** "gnose significa a verdade profunda, a verdade esclarecida e não a verdade fajuta que Paulo e os apóstolos estavam divulgando"; [Fonte: P2024-09-28]
 
 ## 6. Histórico Curatorial e Auditoria
 

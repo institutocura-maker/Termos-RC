@@ -63,11 +63,11 @@ Lúcifer (RC-078); Jesus (RC-072); Exilados de Capela (RC-007).
 
 - **[P2024-07-13] A Terra como caso de saúde pública (U0463–U0494):** "por que isolados? Porque era um caso de saúde pública"; "os seres que se sentiam doentes resolveram por eles mesmos se isolar, porque só tem gente boa biodêmica"; "quando a coisa complicou, o movimento deixou de ser uma questão de saúde pública e se tornou um movimento de antagonismo a Sofia e a quem Sofia representava".
 
+- **[B042 p. 108]** *“Meu Reino não é deste Mundo”*: a Terra como “mundo rebelado e, portanto, impedido de conviver com as demais famílias planetárias do cosmos”; o retorno de Jesus = “momento final” do “doloroso isolamento”.
+
 ## 5. Lentes Curatoriais e Quarentenas
 
 - **[P2024-07-13] A pandemia e os 19 mundos (U0450–U0490):** "há cerca de 700.000 anos... ocorreu a chamada rebelião de Lúcifer"; "quando a rebelião de Lúcifer aconteceu, surgiu uma pandemia... que contaminou mais de 200 bilhões de seres. E esses seres foram distribuídos em 19 mundos, e a Terra foi um dos mundos que recebeu seres rebeldes"; "a rebelião de Lúcifer não foi um movimento político: começou com um problema virótico. Lúcifer fixou a mente dele num problema e não conseguia parar de pensar naquilo. Terminou invadindo a mente dele com um tipo de ser vivo referente àquela dúvida. Isso chama-se vírus novo"; "o nome disso é quarentena"; a dinâmica progressiva: 19 → 18 → 17...; "há cerca de 100.000 anos, dos 19 mundos só tinham dois: Outland e a Terra"; "Sofia tomou a decisão de reintegrá-los, e Lúcifer veio pro último bastião... que foi a Terra"; "o quartel-general de Lúcifer tava aqui e está aqui até hoje".
-
-- **[B042 p. 108]** *“Meu Reino não é deste Mundo”*: a Terra como “mundo rebelado e, portanto, impedido de conviver com as demais famílias planetárias do cosmos”; o retorno de Jesus = “momento final” do “doloroso isolamento”.
 
 - **[B003 p. 9]** Introdução (voz de Ellam): a Terra deve ficar livre «da quarentena cósmica que lhe foi imposta para que os eflúvios nocivos que nele habitam não influenciassem outros mundos».
 

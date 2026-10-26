@@ -76,9 +76,9 @@ As duas contagens são preservadas, não harmonizadas.
 
 - **[Daksha e Virini — filho de Brahma] (U0003)** «Olha, Daxa é um filho de Brama que teve várias consortes e teve 10 filhas.» — Daksha (STT "Daxa/Daxha") como filho/descendente de Brahma, pai de Sati; a festa sem convidar Shiva motiva o Virabhadra (radar). [Fonte: P2022-05-07]
 
-## 5. Lentes Curatoriais e Quarentenas
-
 - **Daksha com 69 filhas:** "esse Daxa teve 69 filhas... cada uma dessas 69 filhas é responsável por uma maluquice à parte"; [Fonte: P2024-09-28]
+
+## 5. Lentes Curatoriais e Quarentenas
 
 ### Observações
 

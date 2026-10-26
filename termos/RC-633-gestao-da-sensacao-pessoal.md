@@ -63,6 +63,8 @@ Observar o primeiro impulso, respirar e agir a partir de camada mais profunda pe
 
 A sensação predominante do eu é apresentada como critério de associação a Faixas Espirituais de Ressonância — RC-726. É formulação doutrinária, não mecanismo físico demonstrado.
 
+- **Gestão da Sensação Pessoal (P2025-02-16):** "a sensação da novidade aparece de vez em quando... mas quando você quiser reter em você a sensação dessa novidade, a coisa escapa de você e você não retém, porque você já está cheio de outras coisas" — a gestão da sensação como caminho (yoga/ciência pessoal).
+
 ## 3. Hierarquia e Geopolítica
 
 ### Seres Associados
@@ -76,8 +78,6 @@ Consultar relações acima.
 - **[P2022-03-26 · GESTÃO DA SENSAÇÃO PESSOAL NA FALA DE 26/03/2022]** "você desperta o seu eu mais oculto, que age no segundo impulso, e aí você sente os impulsos, as vontades, os ímpetos, as inclinações, mas o seu eu vai dando o seu ritmo." (U0049) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⭐ **NOTA DE ANTERIORIDADE — P2022-03-26:** antecipa **25 meses** a atual fonte oral mais antiga da ficha (`P2024-05-04`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
 
 ## 5. Lentes Curatoriais e Quarentenas
-
-- **Gestão da Sensação Pessoal (P2025-02-16):** "a sensação da novidade aparece de vez em quando... mas quando você quiser reter em você a sensação dessa novidade, a coisa escapa de você e você não retém, porque você já está cheio de outras coisas" — a gestão da sensação como caminho (yoga/ciência pessoal).
 
 ### Observações
 

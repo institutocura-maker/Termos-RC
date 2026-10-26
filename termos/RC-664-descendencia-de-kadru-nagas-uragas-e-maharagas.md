@@ -107,6 +107,10 @@ Seus descendentes teriam atravessado os portais para procurá-la. As duas possib
 > “Kadru, com a sua genética, criou dois tipos de seres: Nagas e Uragas.”
 > “O primeiro reino efetivamente organizado [...] foi o reino dos Uragas e das Nagas.”
 
+## 2. Natureza e Atributos
+
+- **Serpentes teriantrópicas (P2024-09-29):** "os dois dragões aquáticos, ou seja, serpentes teriantrópicas — que a gente falou ontem — parte alguma coisa e parte humana" (ligação com P2024-09-28); o imperador Yu como filho dos dragões do Yangtzé/Amarelo.
+
 ## Citações Verbatim
 
 - **Nagas e Uragas (P2025-02-16):** "Kadru com a sua genética criou dois tipos de seres: nagas e uragas. Nagas são cobras pensantes com característica teriantrópica (parte serpente, parte humana); Uragas são seres reptilianos primordiais, dentre eles surgiu uma subraça chamada Maharaga (raça de divindade entre os uragas)".
@@ -116,8 +120,6 @@ Seus descendentes teriam atravessado os portais para procurá-la. As duas possib
 - **Filhos de Ofiúco:** "os Nagas mergulharam em mundos de Sírius, na Terra... em Sírius geraram os filhos de Ofiúco [STT 'Ostrogonos'] — seres anfíbios, parte peixe serpentoide, parte humana, descritos na trilogia Terra Atlantis"; quando os rebelados de Capela chegaram à Terra (600.000 anos), já encontraram esses seres nos rios e mares, pacíficos. [Fonte: P2025-02-16]
 
 - **Robert Temple/Dogons:** referência ao "Mistério de Sírius" (casal de antropólogos franceses e os Dogons) — quarentena. [Fonte: P2025-02-16]
-
-- **Serpentes teriantrópicas (P2024-09-29):** "os dois dragões aquáticos, ou seja, serpentes teriantrópicas — que a gente falou ontem — parte alguma coisa e parte humana" (ligação com P2024-09-28); o imperador Yu como filho dos dragões do Yangtzé/Amarelo.
 
 - **[P2025-06-26 — FONTE ORIGINAL] A descendência de Kadru (pergunta 6):** "a descendência de Kadru, ou seja, os Nagas e Uragas e o conselho dos Maharagas e outras ramificações dos chamados Tirthankaras, esse conjunto de seres é que tem a ver com toda essa questão de acidentes ou incidentes que foram ocorrendo e que terminaram produzindo a humanidade"; "o quarto logos não tem muito a ver com isso; ele participou disso numa concepção muito teórica de reunião de espíritos fora do âmbito dessa criação".
 

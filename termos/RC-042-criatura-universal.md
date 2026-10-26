@@ -77,13 +77,13 @@ Entidade cósmica resultante do **processo de especiação humana** (RC-056): a 
 
 - **[P2020-04-25 · O DRAMA TERRENO DE JAVÉ (nome próprio da fonte)]** "Drama Terreno de Javé que se chama Criatura Universal, já deverá estar existindo, que é produto da especiação da especiação da especiação da espécie Homo Sápiens, dessa espécie Velchamá e outras que estão se dirigindo para essa convergência para poder dar essa característica a esse ser." (U0006)
 
+- **[B019 p. 8]** O *Homo sapiens sapiens* "jamais cumpriu a contento" o papel de criatura "obediente e submissa"; tornou-se "o único protótipo possível de agir antes de um 'salto quântico' [...] na tentativa de se edificar a futura 'Criatura Universal' possível de ser sonhada perante as circunstâncias".
+
 ## 4. Histórico e Eventos Cósmicos
 
 - **Cronologia:** projetada para o horizonte pós-2050, num mundo de regeneração; [Fonte: P2023-05-13]
 
 ## 5. Lentes Curatoriais e Quarentenas
-
-- **[B019 p. 8]** O *Homo sapiens sapiens* "jamais cumpriu a contento" o papel de criatura "obediente e submissa"; tornou-se "o único protótipo possível de agir antes de um 'salto quântico' [...] na tentativa de se edificar a futura 'Criatura Universal' possível de ser sonhada perante as circunstâncias".
 
 - **[B041 p. 73]** o “jogo da marcação energética” mudou por “imposição” de certa massa crítica de elétrons que não tinham mais como receber tanta “infecção informativa”; prece fervorosa / temor / submissão “já não podem mais influenciar o Criador”. Início do “problema”: **2007–2016** — **quarentena cronológica**.
 

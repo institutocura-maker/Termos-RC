@@ -61,6 +61,8 @@ O ato vale porque a pessoa reconhece em si uma proposição vivida com integrida
 
 - **[P2023-12-03 · ATO DE VERDADE / SATYAGRAHA NA FALA DE 03/12/2023]** «usando a expressão sâns do satagrar, que a resistência pacífica e amorosa em torno da verdade que se acredita ser reto, real.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2023-11-19`); a entrada desta fonte é de **conteúdo**, não de data.
 
+- **O vínculo:** "o vínculo aqui é que é, entre aspas, a questão da WD — da teia quântica nórdica — ou da rede de Ifá, o que seja" (ver RC-658/RC-559). [Fonte: P2025-02-15]
+
 ## 2. Natureza e Atributos
 
 ## 3. Hierarquia e Geopolítica
@@ -70,8 +72,6 @@ O ato vale porque a pessoa reconhece em si uma proposição vivida com integrida
 - **Finalize em você mesmo (P2025-02-15):** "se você errar no presente, o que é que eu preciso fazer para finalizar em mim isso que eu acabei de fazer? Eu preciso pedir desculpas. Se ficar pendência relativa ao que outros acharam daquilo que eu fiz, problema dos outros. Se eu não repetir a besteira ou se eu não tiver feito algo por mal... Encerre em mim mesmo aquilo. Se eu ajo assim, eu não crio futuro. Eu sou alguém livre, ainda que eu vá viver futuro. Não gera um futuro vinculante."
 
 ## 5. Lentes Curatoriais e Quarentenas
-
-- **O vínculo:** "o vínculo aqui é que é, entre aspas, a questão da WD — da teia quântica nórdica — ou da rede de Ifá, o que seja" (ver RC-658/RC-559). [Fonte: P2025-02-15]
 
 - **[P2023-11-19 · cap. 5.2]** "A prática da 'Satyagraha', uma expressão sânscrita que significa **'resistência pacífica e amorosa'**, ensinada por Gandhi, é recomendada como um meio de manter uma 'visão crítica' e uma 'distância prudente' [a síntese se corta]" — a Satyagraha como postura diante do desmonte (quarentena biográfica: Gandhi como referência).
 

@@ -43,9 +43,9 @@ A Democracia do Amor é o atributo da Deidade ("Esta é somente amor"): "Quem é
 
 > "Observando a liberdade total que a Deidade, ainda que presente em todos os demais seres, concede à personalidade destes para que atuem conforme o tirocínio que lhe for próprio, sem jamais obrigar ou impor coisa alguma a quem quer que seja, e agora comparando com a submissão doentia exigida pelo Senhor Javé da parte das suas criaturas, vemos como realmente existe algo de muito errado com a postura deste último." — B048, cap. 6
 
-## Citações Verbatim
-
 - **[B048 p. 47]** “liberdade total que a Deidade… concede à personalidade destes… sem jamais obrigar ou impor coisa alguma a quem quer que seja.”
+
+## Citações Verbatim
 
 - **[B048 p. 48]** “Quem é somente amor… é incapaz de… impor ou limitar a atitude de quem quer que seja”; “O que dele é emanado são mônadas amorosas, ingênuas e incapacitadas de não amarem”; “marca da democracia amorosa da Deidade em todos os seres criados.”
 

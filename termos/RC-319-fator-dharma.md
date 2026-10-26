@@ -44,6 +44,8 @@ O Fator Dharma é a chave interpretativa do B023: o sistema de dharma/castas foi
 
 > "Talvez poucas expressões da atual linguagem humana 'escondam' – no seu significado e no contexto em que ela surgiu – tantos mistérios como é o caso de 'dharma'... Desde que me defrontei com os intrigantes aspectos vindos da minha não menos enigmática convivência com seres que se apresentavam como 'Senhores do Dharma' – os mesmos autoaclamados 'Senhores da Lila', da Trimurti hindu – comecei a... desconfiar." — B023, cap. 2
 
+- **[B023 p. 15]** cap. 2: «talvez poucas expressões da atual linguagem humana “escondam” […] tantos mistérios como é o caso de “dharma”».
+
 ## 2. Natureza e Atributos
 
 - **[P2023-10-14 · A TRÍADE VARNA–DHARMA–KARMA COMO PEDAGOGIA PARA HÍBRIDOS (anterioridade)]** "Então varma, dma e karma são três conceitos foram criados não para humanidade, mas para educar esses seres híbridos." (U0020) — 🆕 anterioridade: P2024-11-30 —  [REVISAR: «varma, dma» são as grafias do bruto para varna/dharma → ENCERRADO 2026-09-05 · F038-L2: ver nota.]
@@ -59,8 +61,6 @@ Trimurti (RC-104); Senhores do Dharma (RC-320); demos (RC-049); Seres Terrenos (
 - **[P2022-03-26 · FATOR DHARMA NA FALA DE 26/03/2022]** "A trimurte apodreceu, os filhos da Trimurte brigam entre eles." (U0048) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⭐ **NOTA DE ANTERIORIDADE — P2022-03-26:** antecipa **19 meses** a atual fonte oral mais antiga da ficha (`P2023-10-14`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
 
 ## 5. Lentes Curatoriais e Quarentenas
-
-- **[B023 p. 15]** cap. 2: «talvez poucas expressões da atual linguagem humana “escondam” […] tantos mistérios como é o caso de “dharma”».
 
 - **[B023 p. 15]** se o dharma fosse o «painel mental» sobre o qual os Senhores se apoiavam para interpretar as escrituras védicas, «essas precisavam ser revistas».
 

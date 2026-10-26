@@ -61,11 +61,11 @@ Judas (Yel Am/Yel Liam, RC-138); Jesus (RC-072); Tiago (narrador).
 
 - **[O sinal verde de Judas] (U0005)** «disse: "Cara, já que você vai ter que fazer, faça logo.» — na última ceia, Jesus anuncia a traição e olha para Judas: "já que você vai ter que fazer, faça logo" — "Judas se levantou crente que tinha recebido um sinal verde de Jesus para criar tal situação em que na hora H"; a leitura do autor: Judas não traiu por maldade — "Judas só enxergava o que ele queria enxergar... ele tá dizendo que não é, que não vai fazer isso"; "Judas se suicidou porque viu que Jesus não ia fazer nada" (U0006: «Judas se suicidou porque viu que Jesus não ia fazer nada.»); o Messias recusado: "Judas, eu sou o Messias" (U0005: «Judas, eu sou o Messias.») — "mas eu não serei o tipo de Messias que vocês esperam" (prosa). [Fonte: P2022-11-20]
 
+- **[B011 p. 81]** na ceia: "Um de vós me há de trair." — o anúncio, na voz de Tiago, sem interpolar o desfecho.
+
 ## 5. Lentes Curatoriais e Quarentenas
 
 - **[B011 p. 19–20]** Judas, "antes de todos os outros, passou a demonstrar pouca surpresa"; "Motivado pelo orgulho intelectual [...] jactava-se em ser conhecedor do plano de Jesus"; o "óbvio" para ele era que Jesus "assumiria [...] uma espécie de governo planetário, em que os judeus exerceriam a supremacia política" e Judas "ocuparia posição de vulto no pretenso reinado".
-
-- **[B011 p. 81]** na ceia: "Um de vós me há de trair." — o anúncio, na voz de Tiago, sem interpolar o desfecho.
 
 - Não ontologizar Yel Am/Yel Liam (RC-138 sem ficha). [Fonte: B011]
 

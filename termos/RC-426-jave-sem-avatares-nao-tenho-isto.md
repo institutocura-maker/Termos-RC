@@ -43,6 +43,8 @@ A declaração confirma e reforça o que o B016 já apontava (apêndice "Prision
 
 - **[B036 p. 41]** declaração verbatim, voz atribuída a Javé: “Na descendência deles, existem as suas expressões pessoais que, na Terra, elas são conhecidas por avatares. Não tenho isto! Eu sou o que sou tão somente. Não tenho variações de mim mesmo, pelo menos nos termos avatáricos, apesar de que tudo e todos os que existem são expressões do que sou!”
 
+- **[B016 p. 185]** jamais produziu Adhyajna; permanece no brahmaloka.
+
 ## 3. Hierarquia e Geopolítica
 
 - **[B016 p. 48]** “Como o Primeiro Logos — Brahma/Javé —, não podia gerar avatares, os dois outros Logos foram obrigados a criar tipos especiais desses seres.”
@@ -58,8 +60,6 @@ A declaração confirma e reforça o que o B016 já apontava (apêndice "Prision
 - **Fonte:** palestra *O Incompreendido Ano de 2012 e a Falsa Noção do Fim do Mundo* — unidades U0662–U0666. [Fonte: P2022-12-17]
 
 ## 5. Lentes Curatoriais e Quarentenas
-
-- **[B016 p. 185]** jamais produziu Adhyajna; permanece no brahmaloka.
 
 - **Quarentena teológica.** [Fonte: B016]
 

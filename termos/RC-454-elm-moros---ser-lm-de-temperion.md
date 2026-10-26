@@ -169,6 +169,9 @@ O eBook *Moros — O Livro* não é fonte canônica. Não incorporar: `Ealm`, Ph
 
 - **Grafia STT:** `Morençou`, `Morrensor`, `Morençor` e formas próximas; aplicar **Morren So**, a grafia vigente já registrada nesta ficha, sem abrir ficha autônoma. [Fonte: P2025-07-18]
 
+- **Contexto:** Elm é confirmado como um dos seres LM ligados a Tempérion, um dos dois membros recuperáveis do grupo que permaneceu em relação direta com os Adhy. A estratégia/flechas de Moros é associada à reabertura da história universal. [Fonte: P2021-12-04]
+- **Orunmilá = Moros de Orum:** "Orunmilá, que Orilá, ou seja, Moros de Orum" (RC-665); [Fonte: P2025-11-29]
+
 ## 2. Natureza e Atributos
 
 - **Hipóstase dos Arcontes (RC-770):** Moros é um dos personagens-chave do livro gnóstico. [Fonte: P2026-07-25]
@@ -199,6 +202,8 @@ O eBook *Moros — O Livro* não é fonte canônica. Não incorporar: `Ealm`, Ph
 
 - **[P2025-07-18 · U00012–U00016]** O expositor apresenta Morren So como ser criado “sem lacres, sem travas”, com o código dos três, capaz de observar a doença distribuída no criador e pensar na transferência/ressignificação dos códigos. A fala o liga ao **Projeto Talm** e à organização de vida nos dois universos.
 
+- **Teia quântica (RC-559):** "essa teia quântica, que seria o tear da vida" — as nornas administram a teia da qual Elm participa (nova aresta RC-559 ↔ RC-454, fonte P2023-05-13);
+
 ## 3. Hierarquia e Geopolítica
 
 ### Seres Associados
@@ -216,6 +221,8 @@ Val El / Jan Val Ellam (RC-071); Kardec; Olm (RC-092, colega eon); Prabajna/Jav�
 - **Disputa Trimurti × Moros:** "surgiu uma disputa absurda entre a Trimurti, Brama, Vishnu, Shiva e seus descendentes e um ser chamado Moros, que nunca disputou nada com ninguém, nunca quis nada para ele, apenas foi um alguém que foi ajudando como pôde"; [Fonte: P2025-11-29]
 
 - **"Os orixás foi a última fase dessa questão"** — a destinação dos seres (RC-767) como o desfecho da disputa. [Fonte: P2025-11-29]
+
+- **Sabe o destino dos arcontes (P2026-07-25):** "o único ser que sabe do destino deles é Moros... nunca se sentou nesse conselho, nunca quis ser dono de alguma coisa, nunca se submeteu à Trimurti".
 
 ## 4. Histórico e Eventos Cósmicos
 
@@ -239,11 +246,10 @@ Val El / Jan Val Ellam (RC-071); Kardec; Olm (RC-092, colega eon); Prabajna/Jav�
 
 - **Cruzamento estrutural aprovado:** relacionar a narrativa às notas de RC-091 (Projeto Talm) e RC-771 (Fornos Replicadores). A palestra também vincula a samudra manthana, o amrita e a participação de Vishnu; estes elementos permanecem notas narrativas e não novos nós. [Fonte: P2025-07-18]
 
-## 5. Lentes Curatoriais e Quarentenas
-
-- **Sabe o destino dos arcontes (P2026-07-25):** "o único ser que sabe do destino deles é Moros... nunca se sentou nesse conselho, nunca quis ser dono de alguma coisa, nunca se submeteu à Trimurti".
-
 - **Vyasa = encarnação de Moros (P2024-02-25):** 'Brahma queria que Krishna conseguisse convencer Vyasa, que era a encarnação de Moros, a modificar os termos do computador quântico que ele havia feito lá atrás.'
+- **Choque com Krishna (RC-414):** "há um choque de metodologia na maneira como Krishna pretende resolver os problemas acumulados do universo e o que está em curso promovido por Hen-Orl ou Moros"; [Fonte: P2023-12-02]
+
+## 5. Lentes Curatoriais e Quarentenas
 
 - **A divisão do conhecimento:** "Moros pegou 25% das informações vivas da sua inteligência, criou um ser; 25% criou outro; 25% criou outro; e ficou com ele só com 25%" — as três Moiras/Nornas (RC-467). [Fonte: P2024-11-30]
 
@@ -257,23 +263,15 @@ Val El / Jan Val Ellam (RC-071); Kardec; Olm (RC-092, colega eon); Prabajna/Jav�
 
 - **Status da evidência:** transcrição automatizada, pré-curada e validada terminologicamente pelo curador; conferir com áudio/obra primária antes de promoção de status. [Fonte: P2022-12-17]
 
-- **Contexto:** Elm é confirmado como um dos seres LM ligados a Tempérion, um dos dois membros recuperáveis do grupo que permaneceu em relação direta com os Adhy. A estratégia/flechas de Moros é associada à reabertura da história universal. [Fonte: P2021-12-04]
-
 - **Decisão:** grafias Elm/Olm validadas pelo curador; os outros três LM do grupo permanecem sem nome. [Fonte: P2021-12-04]
 
 - **Orlog / teia do destino:** Ellam situa a administração do destino na linhagem de **Orlog** (STT "Orlock" — corrigido, confirmado pelo curador) e das **nornas**, sobre a teia do destino ("teia do Earth" → Urd/Wyrd, RC-658); [Fonte: P2023-05-13]
-
-- **Teia quântica (RC-559):** "essa teia quântica, que seria o tear da vida" — as nornas administram a teia da qual Elm participa (nova aresta RC-559 ↔ RC-454, fonte P2023-05-13);
 
 - Mantém-se a distinção canônica: **Elm/Moros ≠ En Ma**; é ser LM de Tempérion (não distanciar de Perpérion ≠ Tempérion). [Fonte: P2023-05-13]
 
 - **Processo em curso:** "o processo que está em curso promovido por Hen-Orl ou Moros" (`[REVISAR → CHANCELA 10/09/2026 · F039-L5: AGUARDA-ÁUDIO (paralelo em RC-749; hipótese Orlog/Hen-Orl registrada) — ver nota]` — provável Orlog/Hen-Orl?) — contexto da ogdóade (RC-609): Rem e Renete como o único processo ativo, "a exemplo do de Shiva é impecável no sentido de funcionalidade"; [Fonte: P2023-12-02]
 
-- **Choque com Krishna (RC-414):** "há um choque de metodologia na maneira como Krishna pretende resolver os problemas acumulados do universo e o que está em curso promovido por Hen-Orl ou Moros"; [Fonte: P2023-12-02]
-
 - Mantém-se a distinção canônica: Elm/Moros é ser LM de Tempérion. [Fonte: P2023-12-02]
-
-- **Orunmilá = Moros de Orum:** "Orunmilá, que Orilá, ou seja, Moros de Orum" (RC-665); [Fonte: P2025-11-29]
 
 - **Quarentena:** “avatar do código dos três”, “legista” e gênese cosmológica são alegações do expositor e devem permanecer rotulados como leitura RC. [Fonte: P2025-07-18]
 

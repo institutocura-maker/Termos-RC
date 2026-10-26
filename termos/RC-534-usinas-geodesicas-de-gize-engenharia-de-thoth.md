@@ -29,13 +29,13 @@ Complexo geodésico de Gizé atribuído, na RC, à engenharia de **Thoth** (RC-4
 
 > "Nas pirâmides não tem nada de inscrição, é tudo escondido. Mas nos outros templos egípcios tem lá muita coisa que deixou e a turma ainda não sabe descrever ou entender aqueles sinais." — P2023-12-02
 
+- Contexto: a engenharia de Thot integra o legado científico que ele deixou à humanidade. [Fonte: P2023-12-02]
+
 ## Citações Verbatim
 
 - **Confirmação:** Thot como engenheiro/mentor técnico — "a compreensão cosmológica quântica da ancestralidade, a geração de alfabetos e processos organizacionais diversos no campo da matemática e da astronáutica" (bloco final); [Fonte: P2023-12-02]
 
 - "Nas pirâmides não tem nada inscrito, é tudo escondido" — nos templos egípcios há registros que "a turma ainda não sabe descrever ou entender aqueles sinais" (leitura do autor); [Fonte: P2023-12-02]
-
-- Contexto: a engenharia de Thot integra o legado científico que ele deixou à humanidade. [Fonte: P2023-12-02]
 
 ## 5. Lentes Curatoriais e Quarentenas
 

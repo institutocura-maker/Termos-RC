@@ -149,6 +149,8 @@ Na RC, os "deuses" da antiga Suméria: seres biológicos de **Nibiru** (RC-589) 
 **Fonte:** palestra «A Quem Pertence o Planeta e a Biblioteca Genômica Mais Atualizada do Universo» (17/03/2024).
 **Trecho verbatim:** «E ele fez isso e conseguiu introduzir o DNA de Enk em muitas linhagens humanas. Isso aconteceu há 48.000 anos atrás.»
 
+- **Retirada:** ~600 a.C. (era axial) — "Anu foi obrigado a dizer: vamos embora, não vai ficar mais ninguém aqui"; deixaram netos/bisnetos; [Fonte: P2021-03-27]
+
 ## 5. Lentes Curatoriais e Quarentenas
 
 - **[B015 p. 18]** NAT: Ellam julga que a referência de Zont aos «poucos terráqueos» que estudam o passado «tem a ver com os livros de Zecharia Sitchin, dentre outros»; o revelado «apenas confirma o que já havia sido publicado». **Referência externa — não ontologia.**
@@ -164,8 +166,6 @@ Na RC, os "deuses" da antiga Suméria: seres biológicos de **Nibiru** (RC-589) 
 - **[P2021-05-15 · OS ANUNNAKI EM MARTE, NA LUA E NAS NAVES DOS SIRIANOS]** "O fato é que na Terra, desculpa, os sirianos, Júpiter, Saturno e os Anunax terminaram também ocupando Marte e Lua." (U0003) — ⚠️ quarentena ufológica.
 
 - **[P2023-10-14 · PODERES CIRCUNSTANCIAIS ≠ PODER DE DOMINAÇÃO (a fórmula de segurança da fonte)]** "E como eu disse no início da palestra, eles têm poderes circunstanciais, mas não tem poder de dominação." (U0081) — ⚠️ **Obrigatória em todo uso desta fonte**: desarma a leitura apocalíptica do bloco ufológico.
-
-- **Retirada:** ~600 a.C. (era axial) — "Anu foi obrigado a dizer: vamos embora, não vai ficar mais ninguém aqui"; deixaram netos/bisnetos; [Fonte: P2021-03-27]
 
 ## 6. Histórico Curatorial e Auditoria
 

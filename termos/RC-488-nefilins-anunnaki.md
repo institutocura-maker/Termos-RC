@@ -47,6 +47,8 @@ Na RC, os **Nefilins** da tradição bíblica (Gênesis 6) identificados com os 
 
 - **Absorção NT-BA04:** o candidato "Anaquins/Enacins" **rejeitado como termo autônomo** e absorvido aqui (sem código novo). [Fonte: P2021-03-27]
 
+- **Região:** terras de Canaã (onde Jerusalém está situada), deserto da Arábia Saudita, ao lado do Egito; [Fonte: P2021-03-27]
+
 ## 2. Natureza e Atributos
 
 ## 3. Hierarquia e Geopolítica
@@ -70,8 +72,6 @@ Na RC, os **Nefilins** da tradição bíblica (Gênesis 6) identificados com os 
 ## 5. Lentes Curatoriais e Quarentenas
 
 - **Correlação bíblica direta (absorvida aqui, decisão do curador):** "a Bíblia fala de cidades que eram dos povos chamados anaquins, enacins, e na linguagem bíblica essas duas expressões, anaquins e enacins, é a mesma coisa que Anunnaki e Nefilim"; [Fonte: P2021-03-27]
-
-- **Região:** terras de Canaã (onde Jerusalém está situada), deserto da Arábia Saudita, ao lado do Egito; [Fonte: P2021-03-27]
 
 - Nova aresta RC-004 ↔ RC-488 (Elohim ~ Nefelins) — desambiguação confirmada pelo curador. [Fonte: P2024-09-28]
 

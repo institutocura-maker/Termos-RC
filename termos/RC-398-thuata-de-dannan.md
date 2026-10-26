@@ -59,9 +59,9 @@ Com isso:
 
 - **Precisão mitográfica (o STT lido com a bússola F030 — o refatorado NÃO é fonte):** «deus de Águeda» = **caldeirão de Dagda**; «rei Lug» = **lança de Lugh**; «rei doado» = **espada de Nuada**; «pedra falante» = **Pedra do Destino (Fál)**, a pedra que nomeava o rei na sucessão. O estudo de terceiros (F030, Daniela D. Ferro) reproduz as mesmas quatro relíquias na ordem Pedra/lança/espada/caldeirão — convergência registrada; a degradação fonética do STT é corrigida pela própria fala, não pelo doc. [Fonte: P2022-09-18]
 
-## 5. Lentes Curatoriais e Quarentenas
-
 - **Datação do episódio:** «há 14.000 anos atrás» (a saída do hiperbório) é a âncora desta ficha — as datas "20 mil"/"15 mil" do refatorado F030 **não foram adotadas** (ledger D-9). [Fonte: P2022-09-18]
+
+## 5. Lentes Curatoriais e Quarentenas
 
 ### Observações
 

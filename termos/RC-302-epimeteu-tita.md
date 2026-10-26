@@ -62,6 +62,8 @@ Titã irmão de Prometeu que, na cosmologia de Jan Val Ellam, teria sido o grand
 
 - **[B087 p. 25–26 · as "poções"]** "Epimeteu havia criado uma série de '**misturas mágicas**' que alteravam os componentes dos corpos... essas 'poções' criavam **mutações nos corpos e nas mentes** de quem as tomasse!"
 
+- **[B089 p. 76 · os 'mundos virtuais']** (via Pirra): "se eu ou você não existíssemos na sua vida, **ele já teria se transportado para um dos seus mundos virtuais, pois lá ele é feliz**" — o refúgio do vício das poções.
+
 ## 3. Hierarquia e Geopolítica
 
 - **[P3 · Epimeteu (titã)]** «É a figura mais louca que eu conheço em toda essa história, é alguém viciado, cheirava todas, tomava todas, criou tudo que nós imaginamos como sendo a base do xamanismo, se por isso entendermos, quem misturou, veja só, qualquer árvore que você pegar aí fora, se você for pegar o genoma de qualquer árvore, vai ter cinco, quatro, três moléculas complexas, qualquer grama, qualquer pé de árvore qualquer coisa mas existem umas árvores umas plantas aqui na terra, na biologia terrena que tem mais de 500 moléculas complexas, a terra não faz isso e essas poucas plantas e árvores e arbustos que existem com essa característica é porque alguém fez isso e plantou ou seja, foi manipulado ayahuasca, cannabis e uma série de outras raízes com essas características todas elas têm como ponto comum o fato de possuírem mais de 500 moléculas complexas ou seja, isso não foi criação da evolução biológica no reino vegetal, alguém fez isso, manipulou quem mais fez isso foi a figura chamada Epimeteu que era irmão de Prometeu só que Prometeu era sábio, Epimeteu era maluco Prometeu era sagaz Epimeteu era leso Sabe aquele cientista leso?» (U0765) — candidata de cotejo ampliado; evidência `OIDR26-03-RC-302-001`, grafia literal `Epimeteu`, sem homologação de pérola.
@@ -78,6 +80,9 @@ Titã irmão de Prometeu que, na cosmologia de Jan Val Ellam, teria sido o grand
 
 - **[B089 p. 71–72 · a estratégia da 'propriedade']** "os Anunnaki gostam de respeitar as hierarquias... **se eu me colocasse na posição de responsável por você, eles teriam de falar comigo**" — a proteção pela lei da hierarquia Anunnaki.
 
+- **[B087 p. 40]** "— **Eu a protegerei com a minha própria vida, se for preciso!** Ninguém tocará em você, a não ser que você permita, asseguro-lhe!" (a Pandora, ao chegar banida do Olimpo.)
+- **[B088 p. 42]** "**Éramos como pai e filha**, cada um cuidando e protegendo o outro!"
+
 ## 4. Histórico e Eventos Cósmicos
 
 - **[P2024-08-03] Frankenstein e as criaturas (U1498–U1515):** "sabe aquele doutor do filme Frankenstein, o Dr. Frankenstein e as suas criaturas? Epimeteu foi Frankenstein para uma porrada de criaturas que hoje existe. Ele só pensava nisso, o tempo inteiro. E ele também usava ele próprio como cobaia"; "essa figura destravou, desbloqueou todos os códigos que a turma da Trimurti, durante milhões de anos, produziu".
@@ -88,6 +93,8 @@ Titã irmão de Prometeu que, na cosmologia de Jan Val Ellam, teria sido o grand
 
 - **[P2021-05-15 · AS BEBERAGENS DE EPIMETEU COMO BANCO DE SEQUÊNCIAS]** "E como no organismo de Pandora já tinha várias beberagens repetidas das poções de epimeteu, nos quais existia sequência dos animais humanos que ele trabalhava." (U0006); "Ela trouxe o que os humanos de então tinham conseguido até o momento em que Epimeteu recolheu o DNA deles e os transformou em poção deberagem." (U0006)
 
+- **[B089 p. 98 · O PRESSENTIMENTO]** "**Talvez o meu tempo já esteja por acabar**, e devo treiná-las a sobreviverem sem a minha ajuda. Eu sinto isso..." (eco do destino trágico do mito — o fecho da trilogia deixa a sombra).
+
 ## 5. Lentes Curatoriais e Quarentenas
 
 ### Escopo e evidência
@@ -96,19 +103,11 @@ Titã irmão de Prometeu que, na cosmologia de Jan Val Ellam, teria sido o grand
 
 - **[B087 p. 26 · o vício — quarentena clínica]** "De tanto provar nele mesmo as 'misturas mágicas', Epimeteu acabou por **ficar viciado em algumas delas**, passando a viver... com a sua mente em **estado alterado de consciência**... passou a viver perdido nos seus pensamentos e sensações, no '**mundo ilusório**' que ele criou para si mesmo." (leitura narrativa — jamais promoção/diagnóstico; O-7.)
 
-- **[B087 p. 40]** "— **Eu a protegerei com a minha própria vida, se for preciso!** Ninguém tocará em você, a não ser que você permita, asseguro-lhe!" (a Pandora, ao chegar banida do Olimpo.)
-
 - **[B087 p. 54 · A VARIANTE]** **quem abre a caixa é Epimeteu** (não Pandora): "a 'caixa' estava 'enfeitiçada' – ou seja, magnetizada – para que Epimeteu, ao vê-la, sentisse uma vontade irresistível de abri-la, **e ele assim o fez**." — **divergência estrutural × o mito clássico × B020** (variante narrativa da psicografia; **jamais fusão** — O-4).
 
 - **[B088 p. 37 · o cuidado]** (via Pirra): "Ele disse-me que **não deixaria você correr mais nenhum risco** e, portanto, **não permitiria que novamente tomasse qualquer beberagem sem antes experimentá-la nele**" — o titã testava tudo em si primeiro (quarentena clínica — leitura narrativa).
 
-- **[B088 p. 42]** "**Éramos como pai e filha**, cada um cuidando e protegendo o outro!"
-
 - **[B089 p. 77–78 · a poção de camuflagem]** "**terá a propriedade de camuflar a verdadeira constituição da sua atual genética**... baralhe o seu código, por algumas horas" (de 4 em 4 horas — a proteção do genótipo contra a pesquisa de Enlil; quarentena clínica — leitura narrativa).
-
-- **[B089 p. 76 · os 'mundos virtuais']** (via Pirra): "se eu ou você não existíssemos na sua vida, **ele já teria se transportado para um dos seus mundos virtuais, pois lá ele é feliz**" — o refúgio do vício das poções.
-
-- **[B089 p. 98 · O PRESSENTIMENTO]** "**Talvez o meu tempo já esteja por acabar**, e devo treiná-las a sobreviverem sem a minha ajuda. Eu sinto isso..." (eco do destino trágico do mito — o fecho da trilogia deixa a sombra).
 
 ### Observações
 

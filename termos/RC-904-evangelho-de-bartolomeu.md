@@ -36,11 +36,10 @@ Evangelho de Bartolomeu — conceito desenvolvido na palestra «A Teia da Vida e
 
 ## 4. Histórico e Eventos Cósmicos
 
-## 5. Lentes Curatoriais e Quarentenas
-
 - **«conversando com Judas Dídimo Tomé, que além de apóstolo de Jesus, era também irmão dele»** [Fonte: P2023-12-25]
-
 - Aula 03 situa a revelação pós-ressurreição a **apóstolos + mulheres** (Tomé, Filipe, Bartolomeu, Madalena) — contexto do Evangelho de Bartolomeu (RC-904). [Fonte: P2023-12-25]
+
+## 5. Lentes Curatoriais e Quarentenas
 
 ## 6. Histórico Curatorial e Auditoria
 

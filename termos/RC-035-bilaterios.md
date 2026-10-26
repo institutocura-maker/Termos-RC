@@ -39,6 +39,8 @@ Com isso:
 
 - **[P2023-12-03 · BILATÉRIOS NA FALA DE 03/12/2023]** «O nosso é bilatério.» (U0038) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
 
+- **[P2019-08-25 · A FONTE ORAL FUNDADORA DOS BILATÉRIOS — O NIDANA B]** (predata P2023-12-03 em 4 anos):
+
 ## 2. Natureza e Atributos
 
 - **[Bilatérios — antes do cérebro, o corpo] (U0003)** «Então, primeiro, antes de surgir, desculpa, um cérebro bilatério, teve que surgir um corpo bilatério.» — a bilateralidade corporal (produto de Awaylengan) precede a cerebral; ver RC-093. [Fonte: P2022-05-07]
@@ -54,8 +56,6 @@ Com isso:
 ## 4. Histórico e Eventos Cósmicos
 
 ## 5. Lentes Curatoriais e Quarentenas
-
-- **[P2019-08-25 · A FONTE ORAL FUNDADORA DOS BILATÉRIOS — O NIDANA B]** (predata P2023-12-03 em 4 anos):
 
 ### Observações
 

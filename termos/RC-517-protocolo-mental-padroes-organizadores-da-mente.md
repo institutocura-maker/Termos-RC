@@ -50,6 +50,8 @@ Na RC, os **padrões organizadores da mente** — os protocolos mentais que uma 
 
 - **Ferramenta da condição humana:** "só quem tem no seu cérebro os protocolos mentais da condição humana pode recolher essas vrittis ressignificá-las" — os humanos como únicos capazes de operar o Nirodha (RC-760/RC-548); [Fonte: P2025-11-29]
 
+- Contexto: os protocolos mentais como base técnica do destino (RC-767) e do Tikun (RC-514). [Fonte: P2025-11-29]
+
 ## 3. Hierarquia e Geopolítica
 
 ## 4. Histórico e Eventos Cósmicos
@@ -57,8 +59,6 @@ Na RC, os **padrões organizadores da mente** — os protocolos mentais que uma 
 - **[P2022-03-26 · O PROTOCOLO DA PERFEIÇÃO E A QUEBRA DELE]** "a perfeição não é democrática, ela é autoritária." (U0005); "foi criado um novo nível espiritual que a gente chama de operacional para que espíritos que aqui existiam pudessem ou mergulhar para cá ou criar projeções de si mesmo ou ar a sua consciência e criar outra parte de si existindo aqui para ter experiências fora situadas além do círculo ou circuito da perfeição. Caso ocorresse algum problema, uma leve blindagem separando esses dois níveis perfeitos, foi estabelecido e assim a coisa seguiu." (U0005) — A fórmula *a perfeição não é democrática, ela é autoritária* é a premissa de todo o ciclo; a quebra do protocolo é o que abre o nível operacional. Entram juntas para que a primeira não seja lida como elogio da autoridade.
 
 ## 5. Lentes Curatoriais e Quarentenas
-
-- Contexto: os protocolos mentais como base técnica do destino (RC-767) e do Tikun (RC-514). [Fonte: P2025-11-29]
 
 ### Observações
 

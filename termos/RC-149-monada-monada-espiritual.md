@@ -66,6 +66,8 @@ A doutrina espírita explica que todos os espíritos foram criados simples e ign
 
 - **Contexto acrescentado:** A Mônada é descrita como princípio espiritual produzido/doado coletivamente pelo Círculo da Perfeição para animar um novo ser quando o original permanece no Paraíso. [Fonte: P2021-12-04]
 
+- **[B048 p. 48]** mônadas “amorosas, ingênuas e incapacitadas de não amarem.”
+
 ## 3. Hierarquia e Geopolítica
 
 ### Seres Associados
@@ -83,8 +85,6 @@ Espiritualidade Superior (RC-059); Seres Adhyatman (RC-013).
 - **Status da evidência:** transcrição automatizada, pré-curada e aprovada quanto à integração terminológica; conferir com áudio/obra antes de promover status. [Fonte: P2021-12-04]
 
 ## 5. Lentes Curatoriais e Quarentenas
-
-- **[B048 p. 48]** mônadas “amorosas, ingênuas e incapacitadas de não amarem.”
 
 ### Observações
 

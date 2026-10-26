@@ -115,6 +115,9 @@ Tríade hindu de princípios ontológicos de gênese (Brahma, Vishnu, Shiva) —
 
 - **[Morensor: o criador de Ig Brasil e a alquimia ressignificada] (U0013)** «Protoos, porque ele ressignificou toda a alquimia que existia até ali e criou o Ig Brasil, porque foi ele que criou eh os seres de Ig Brasil, os cevães, os elfos, e semeou o universo biológico com esses códigos.» — [STT «Protoos» prov. "Morensor" — sem emenda]; a criação do Ig Brasil na região do Bramaloca: "E todos eles foram destinados a viverem numa região específica do Bramaloca, região essa que mais tarde foi chamada de Ig Brasil, no âmbito da mitologia nórdica" (U0008: «E todos eles foram destinados a viverem numa região específica do Bramaloca, região essa que mais tarde foi chamada de Ig Brasil, no âmbito da mitologia nórdica.»). [Fonte: P2026-03-21]
 
+- **[B023 p. 15]** Trimurti = os autoaclamados Senhores da Lila / Senhores do Dharma.
+- **[P2019-08-25 · A TRIMURTI E A LILA NA FONTE MAIS ANTIGA]** (fonte oral fundadora):
+
 ## 2. Natureza e Atributos
 
 - **[B020 p. 117]** Posfácio (fala de Ellam): «o “sentir-se especial”, é um dos piores venenos e tudo o que vem por meio dos três da trimurti, sempre aqui chega com esse tempero: “eu sou isso”, “eu sou aquilo”, “sou assim com Deus”, basta!»
@@ -209,6 +212,10 @@ Tríade hindu de princípios ontológicos de gênese (Brahma, Vishnu, Shiva) —
 
 - **"Os orixás foi a última fase dessa questão"** — a destinação dos seres (RC-767) no desfecho da disputa. [Fonte: P2025-11-29]
 
+- **[B024 p. 76]** não podendo destruir uns aos outros, viveram juntos e criaram a Lila; Vishnu e Shiva mantêm Brahma “acordado” por apostas. “Apostasia”, no livro, é o Deus que perde e não paga.
+- **[B024 p. 108]** competências: Brahma doa o CFDP; Vishnu o modelo consciencial; Shiva organiza/destrói e ensina a saída do *samsara*.
+- **[B039 p. 48]** NAT: «Seres do Conglomerado» = «a Trimurti e os seus níveis aristocráticos».
+
 ## 4. Histórico e Eventos Cósmicos
 
 - Fonte **B024** acrescentada na tabela-mestra (epopeia da Trimurti na Criação).
@@ -243,31 +250,21 @@ Tríade hindu de princípios ontológicos de gênese (Brahma, Vishnu, Shiva) —
 
 - **Colapso:** "o colapso que ela [Lakshmi] começou lá atrás, eu termino agora, quando a própria Trimurti colapsou também ano “20171” [STT — `[REVISAR → CHANCELA 10/09/2026 · F039-L5: AGUARDA-ÁUDIO (número como falado; hapax) — ver nota]`], mas isso começou há uns 20.000 anos lá atrás"; [Fonte: P2023-12-02]
 
+- O sumiço de **Moros** (o ponto fraco das três descendências) → a "era do impasse" (ver RC-454). [Fonte: P2019-08-25]
+
 ## 5. Lentes Curatoriais e Quarentenas
 
 - **[B017 p. 23]** NAT: «um dos senhores da criação universal e da vida — pertencente ao ordenamento geopolítico da trimurti, a saber, Brahma, Visnhu e Shiva». Grafia **Visnhu** × canônico Vishnu. «Geopolítico» = leitura do autor, **não** fato político.
 
 - **[B022 p. 158]** Posfácio: de 2008 a 2015, convivência forçada com «estes três seres» / «Senhores da Lila». RC-075 **não** materializada. Bloco político do Posfácio (2015) **fora**.
 
-- **[B023 p. 15]** Trimurti = os autoaclamados Senhores da Lila / Senhores do Dharma.
-
 - **[B024 p. 52]** os “Senhores da Trimurti” — Brahma, Vishnu e Shiva — “estavam visivelmente com ‘câncer’” em suas formas Adhydaiva; Brahma = “projeção holográfica” sem alma imantada ao Eu reconstruído. Vishnu “se desconstituiu em 2016”. **Quarentena clínica** (leitura, jamais diagnóstico). RC-014 materializada P5e (RC-135 já tem ficha).
 
-- **[B024 p. 76]** não podendo destruir uns aos outros, viveram juntos e criaram a Lila; Vishnu e Shiva mantêm Brahma “acordado” por apostas. “Apostasia”, no livro, é o Deus que perde e não paga.
-
-- **[B024 p. 108]** competências: Brahma doa o CFDP; Vishnu o modelo consciencial; Shiva organiza/destrói e ensina a saída do *samsara*.
-
 - **[B037 p. 15]** ardil da Trimurti na data da vinda de Jesus — **não fundir** com B022.
-
-- **[B039 p. 48]** NAT: «Seres do Conglomerado» = «a Trimurti e os seus níveis aristocráticos».
 
 - **[B044 p. 11]** Javé e os dois outros “Seres da Trimurti” se encontravam “doentes”; não podiam cuidar nem deles próprios — **quarentena clínica** (leitura, não diagnóstico).
 
 - **[B060 · quarentena]** teológica (as tríades); a "Tríade Grega CAOS-TARTAR-EROS" espelha o panteão RC (Caos=Javé/B088; Tártaro=Shiva; Eros=Vishnu — RC-286); grifos [sic] preservados ("CHOKMACH", "SVENTOVIT").
-
-- **[P2019-08-25 · A TRIMURTI E A LILA NA FONTE MAIS ANTIGA]** (fonte oral fundadora):
-
-- O sumiço de **Moros** (o ponto fraco das três descendências) → a "era do impasse" (ver RC-454). [Fonte: P2019-08-25]
 
 - **[P2020-05-09 · O SUPREMO TRIBUNAL CRIMINAL + A APOSTA TRIPARTITE]** "A TRIMURTE ERA ACIMA DE TUDO UMA ESPÉCIE DE UM SUPREMO TRIBUNAL CRIMINAL. ELES JULGAVAM A TODOS, MAS NÃO JULGAVAM A ELES PRÓPRIOS, os três"; "eram seres adaiva [STT — REVISAR → CHANCELA 10/09/2026 · F039-L5: AGUARDA-ÁUDIO (paralelo em RC-102: “adidaiva” e “adaiva”, duas grafias, mesma palavra) — ver nota], eram seres demo... ABSOLUTAMENTE DESTITUÍDOS DE QUALQUER CONDIÇÃO MINIMAMENTE MORAL NO CAMPO DA DECÊNCIA, DA DIGNIDADE, DA VIRTUDE... seres cuja natureza não tem como absolutamente pretender julgar quem quer que seja. MAS ELES JULGAVAM"; "TEVE UMA HORA QUE OS TRÊS LÁ FIZERAM UM PACTO E PEDIRAM PARA EU JULGAR, PARA EU AVALIAR OS TRÊS... E EU ME RECUSEI" ⚠️ biomediúnica (a cena do livro Inquisição Trimurtiana — B022); **A REGRA DA LILA**: "pelas normas da Lila, quando os três seres da Trimurti, quando DOIS DOS TRÊS DISCUTIAM, OU ELES SE RESOLVIAM, OU ENTÃO CHAMAVA O TERCEIRO PARA SER UMA ESPÉCIE DE JUIZ DOS DOIS" (por isso Shiva foi chamado — "o que Brama não gostou nem um pouco"); **A APOSTA**: "quando um demo nesse nível desafia o outro, não mais para um duelo, uma guerra — ninguém matava ninguém, então isso não tinha mais graça — SÓ UMA APOSTA"; "Virgno basicamente forçou Javé... 'VOCÊ NÃO TEM CONDIÇÕES DE SAIR DESSE UNIVERSO PARA IR LÁ DO JEITO QUE VOCÊ TÁ. VOCÊ DIZ QUE VAI FAZER O JUÍZO FINAL DESSAS CRIATURAS... VOCÊ NÃO VAI JULGAR SERES HUMANOS. ELES NASCEM E MORREM... você não sabe nem ENCONTRAR A ASSINATURA DE NINGUÉM'"; "'EU APOSTO'... 'MEU PODER PELO SEU'... 'ESSA AQUI VAI SER A NOSSA ÚLTIMA APOSTA. Porque você não tem mais nem de onde tirar fichas genéticas e nem eu também'"; **O CÓDIGO-FONTE NO DNA**: "escreva SUA FÓRMULA DE PODER FINAL NO CÓDIGO FONTE DEFINIDOR DA PESSOA DE ENOQUE. Eu também escrevo... a minha fórmula de poder mental... e se Enoque fizer o que você tá dizendo... instantaneamente o seu DNA se acende absolvendo o meu... OS DEMOS SÃO OBRIGADOS A HONRAR A APOSTA" [as três fórmulas: Brahma, Vishnu (em Vaikunta) e Shiva (na loca dele)]; **O DESFECHO**: a implosão de Enoque ("os três tomaram um susto"); "Vdo começou a espalhar que Javé... iria também fazer o juízo final sobre os [demos]... ZEUS DIZIA: 'SE ELE VIER PARA CÁ, EU DOU UMA SURRA NELE'... várias estirpes de demos não querem se submeter... porque ELES ERAM MAIS FORTES E LÚCIDOS DO QUE JAVÉ... E VIRGNO INVENTOU ISSO SÓ PARA DESGASTAR JAVÉ" [a aposta como arma da geopolítica!]; **O JUÍZO SOBRE A TRIMURTI**: "Se juízo final houve até agora, FOI O QUE CAIU SOBRE AS CABEÇAS DA TRIMURTE"; + o fecho do Q&A: "a previsão era Sofia já ter chegado... NÃO TEM NINGUÉM NO COMANDO, não tem um comando central".
 

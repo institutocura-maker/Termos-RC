@@ -32,9 +32,11 @@ As diversas classes de anjos clones de Javé que povoam Arabot-Ráquia (RC-495):
 
 > «os anjos de Javé não são de um só tipo, é de vários tipos.» — P2026-07-25 · `original.txt` L275 · reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte.
 
-## Citações Verbatim
+## 3. Hierarquia e Geopolítica
 
 - **Príncipes da Merkabah:** arcontes da aristocracia em torno dos três grandes seres (equivalência com os 70 clãs: cada nação comandada por um príncipe). [Fonte: P2026-07-25]
+
+## Citações Verbatim
 
 - **Anjos ministradores:** Uzza, Azza e Azael (STT "Usá, Azá e Aziel") — anjos com poder de não ser robotizados e de criar processos; acusaram Javé de ter criado a humanidade; resposta de Javé: "Eu fiz e eu carrego, e eu carrego e eu livro" (frase reproduzida pelo profeta Isaías). [Fonte: P2026-07-25]
 

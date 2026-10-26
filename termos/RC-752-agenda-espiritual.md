@@ -52,11 +52,11 @@ A **expressão prática** da bagagem espiritual: o conjunto de necessidades e pe
 
 ## 3. Hierarquia e Geopolítica
 
+- **«O homem Jesus estava se recusando a cumprir a agenda de seu próprio espírito»** [Fonte: P2023-12-25]
+
 ## 4. Histórico e Eventos Cósmicos
 
 ## 5. Lentes Curatoriais e Quarentenas
-
-- **«O homem Jesus estava se recusando a cumprir a agenda de seu próprio espírito»** [Fonte: P2023-12-25]
 
 ### Observações
 

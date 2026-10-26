@@ -217,6 +217,9 @@ Tema central da obra de Ellam (livros *O Drama Cósmico de Javé*, 2010, e *O Dr
 
 - **Krishna roubou a devoção:** "quando Krishna surgiu na Índia, existiam mais de 5.000 templos que adoravam Brama. Hoje tem um templo só" (RC-414); [Fonte: P2025-11-29]
 
+- **[B034 p. 54]** confirma, na própria voz, o “terminal nervoso” dito pela missivista: cada criatura é terminal do “eu incomensurável”. RC-418 permanece **sem ficha**.
+- **[B048 p. 26]** “Sou o que sou e não posso ser diferente. Fiz-me de mim mesmo e nada devo a outrem.”
+
 ## 2. Natureza e Atributos
 
 - **[B002 p. 6–7]** reconstituição pós-queda; DNA = projeção holográfica do seu psiquismo (âncora em RC-217).
@@ -271,6 +274,8 @@ Tema central da obra de Ellam (livros *O Drama Cósmico de Javé*, 2010, e *O Dr
 - "o corpo Amon que foi despedaçado, que é o corpo manásico" — conecta ao drama da criação indevida (RC-167). [Fonte: P2023-12-02]
 
 - **Maldição de Faleg/Gômer (RC-437):** "jogou uma maldição que transformava o DNA de tudo que era mulheres em um tipo de DNA estéril" — contexto do pacto com Abraão; [Fonte: P2021-03-27]
+
+- **[B036 p. 8–11]** 1ª crônica em 1ª pessoa: criou o universo e não sabe poesia; faces sem alma; “advogado de acusação de um julgamento inexistente… fui eu mesmo que o contratei” (Ano: 2012).
 
 ## 3. Hierarquia e Geopolítica
 
@@ -471,21 +476,15 @@ Tema central da obra de Ellam (livros *O Drama Cósmico de Javé*, 2010, e *O Dr
 
 - **[B033 p. 81]** divisão da gestão com Jesus; «estado de saúde pessoal» = **clínica — fora**.
 
-- **[B034 p. 54]** confirma, na própria voz, o “terminal nervoso” dito pela missivista: cada criatura é terminal do “eu incomensurável”. RC-418 permanece **sem ficha**.
-
 - Cartas de Mônica (p. 7–44) = **voz da missivista, isolada**; não entram na ontologia deste nó. [Fonte: B034]
 
 - **[B035 p. 4–5]** mesmo bloco do «ser-criador» / jogo / supercontrole (bloco opcional autorizado). «cientista enlouquecido» = **clínica**.
-
-- **[B036 p. 8–11]** 1ª crônica em 1ª pessoa: criou o universo e não sabe poesia; faces sem alma; “advogado de acusação de um julgamento inexistente… fui eu mesmo que o contratei” (Ano: 2012).
 
 - **[B039 p. 113]** NAT: disputa Jesus × Javé; o Criador enviara um Messias «pela força»; Jesus recusou. **Quarentena teológica.**
 
 - **Quarentena teológica:** leitura do romance, não exegese. Pai Incognoscível absorvido aqui e em RC-072 — **sem código novo**. IEEA/Orbum **fora**. Fonte **B043** acrescentada na tabela-mestra.
 
 - **Quarentena clínica:** “câncer” do corpo (p. 9), “doentes”, “demência” (p. 97) = leitura do autor, **jamais** diagnóstico. Encontro 2010 = biográfica. Política (p. 19, 123, 145) **fora**. [Fonte: B044]
-
-- **[B048 p. 26]** “Sou o que sou e não posso ser diferente. Fiz-me de mim mesmo e nada devo a outrem.”
 
 - **[B060 · quarentena]** teológica (a cadeia Alá=Javé=Caos...); cultural (Tolkien — jamais ontologia); antropológica (Dogon/Yanomami/Bosquinamos — etnografia de terceiros).
 

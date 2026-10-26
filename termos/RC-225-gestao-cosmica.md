@@ -49,8 +49,6 @@ A Gestão Cósmica é o pano de fundo "político" do drama: as mitologias de tod
 
 - **[B033 p. 79]** cap. 7 *Gestão Cósmica*: «o “computador” foi gerado, mas quem o gerou, dele se tornou refém»; Javé «não tem permitido que ninguém o faça por ele». «Conspiração amorosa» **não** ganha código (O-3).
 
-- **[B033 p. 80]** «sempre o que esteve em jogo foi e é a gestão do cosmos» — «quem exerce a supremacia sobre os diversos processos em curso».
-
 - **[B033 p. 81]** Brahma «já aceitou a divisão da gestão universal com aquele a quem conhecemos atualmente como Mestre Jesus, e a sua tão prometida volta tem tudo a ver com os termos desta questão» (data de escrita: 22/02/2012).
 
 ## 3. Hierarquia e Geopolítica
@@ -58,6 +56,8 @@ A Gestão Cósmica é o pano de fundo "político" do drama: as mitologias de tod
 ### Seres Associados
 
 Brahma (RC-037); Vishnu (RC-135); Shiva (RC-102); Jesus (RC-072); Sophia (RC-009).
+
+- **[B033 p. 80]** «sempre o que esteve em jogo foi e é a gestão do cosmos» — «quem exerce a supremacia sobre os diversos processos em curso».
 
 ## 5. Lentes Curatoriais e Quarentenas
 

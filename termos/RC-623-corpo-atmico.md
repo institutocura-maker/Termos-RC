@@ -67,6 +67,8 @@ Na live, o Corpo Átmico permanece ligado à condição original, enquanto o Cor
 
 O Corpo Átmico integra a Tríade Imortal e é relacionado ao Corpo Sutil Reencarnante e ao Bhavaṅga. A Constituição Setenária permanece pacote contextual, sem códigos adicionais.
 
+- Contexto: a base da "assinatura algorítmica da insubmissão" dos setianos (RC-766). [Fonte: P2024-09-28]
+
 ## 3. Hierarquia e Geopolítica
 
 ### Seres Associados
@@ -80,8 +82,6 @@ Consultar relações acima.
 - **[P2024-07-14] O corpo átmico (U0140–U0200):** na constituição septenária segundo Krishna (Bhagavad Gita, a Arjuna): "o corpo átmico, investido dos corpos búdico e manásico, formariam a tríade imortal"; "o corpo átmico é inviolável... por pior que seja o eu humano, esse corpo átmico não se suja; os outros níveis de eu dos corpos da constituição septenária se sujam"; "quando esse tenta mergulhar aqui, aí produz esses choques, esses atritos... o eu fica com defeito. E o defeito são as síndromes, os transtornos que a gente chama" [quarentena clínica].
 
 - **Fonte:** P2024-05-04.
-
-- Contexto: a base da "assinatura algorítmica da insubmissão" dos setianos (RC-766). [Fonte: P2024-09-28]
 
 ### Observações
 

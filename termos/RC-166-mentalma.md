@@ -70,6 +70,8 @@ Criado ao longo dos anos pelo próprio Ellam ("fui transformando as minhas atua�
 
 - **Primeiro impulso:** sem se libertar do primeiro impulso, "não há passos a serem dados" — a respiração como via de **evolução vertical** (seção 5.5); [Fonte: P2023-05-13]
 
+- **[B075 p. 185]** "Quando criei o Mentalma, cheguei perto da busca por **vinte maestrias pessoais** que desejei praticar nesta vida, e assim sigo fazendo. Elas estão distribuídas pelos **sete módulos** do Mentalma." (sete módulos = sete volumes da série).
+
 ## 2. Natureza e Atributos
 
 - **Mentalma (P2025-02-15):** "a importância do diálogo constante interior de você: usar o seu discurso para dizer às suas células o que você quer ser"; "eu estava fazendo um pouco de yoga e me perguntando há quanto tempo eu não crio uma novidade para surpreender os meus RNA mensageiros".
@@ -108,6 +110,12 @@ Criado ao longo dos anos pelo próprio Ellam ("fui transformando as minhas atua�
 
 - **Limite da bondade:** "você pode continuar sendo um ser humano maravilhoso, formidável, bondoso, generoso... mas para o tipo de ser humano que é necessário desesperadamente que venha surgir na terra, tá longe" — a emancipação exige mais que ética pessoal; [Fonte: P2023-05-13]
 
+- **Super sensações (P2024-02-25):** 'é necessário antes que você aprenda a criar super sensações ou sensação adulta. E é isso que o Mentalma tenta ensinar.'
+- **Mentalma (P2024-11-30 — pergunta da plateia):** "o exercício de, na hora de dormir, me perguntar o que ainda me envergonha"; "eu comecei a observar que vinham informações... que estavam engavetadas, que elas estão vindo à tona"; o padrão vinculado ao odu do jogo de Ifá.
+- **Contexto acrescentado:** Mentalma é apresentado no fechamento como sinalização prática de intencionalidade espiritual para orientar a improvisação humana. [Fonte: P2022-12-17]
+- **Contexto acrescentado:** Mentalma é citado como disciplina de meditação, respiração e emancipação psíquica capaz de apoiar a busca de Moksha. [Fonte: P2021-12-04]
+- Mentalma/respiração é relacionado à gestão consciente da sensação pessoal. [Fonte: P2024-05-04]
+
 ## 3. Hierarquia e Geopolítica
 
 ### Seres Associados
@@ -140,23 +148,11 @@ Jan Val Ellam (RC-071, criador).
 
 ## 5. Lentes Curatoriais e Quarentenas
 
-- **Super sensações (P2024-02-25):** 'é necessário antes que você aprenda a criar super sensações ou sensação adulta. E é isso que o Mentalma tenta ensinar.'
-
-- **Mentalma (P2024-11-30 — pergunta da plateia):** "o exercício de, na hora de dormir, me perguntar o que ainda me envergonha"; "eu comecei a observar que vinham informações... que estavam engavetadas, que elas estão vindo à tona"; o padrão vinculado ao odu do jogo de Ifá.
-
 - **[B074 pp. 19–20]** "manual de voo pessoal": síntese dos mestres orientais + "professor Hermógenes" ("copiei de onde podia"); "uma certa dose de interferência dos amigos espirituais, não no sentido de corrigir o rumo, mas confirmando" (**quarentena mediúnica** — leitura, não ontologia).
-
-- **[B075 p. 185]** "Quando criei o Mentalma, cheguei perto da busca por **vinte maestrias pessoais** que desejei praticar nesta vida, e assim sigo fazendo. Elas estão distribuídas pelos **sete módulos** do Mentalma." (sete módulos = sete volumes da série).
 
 - **[B075 pp. 165–166]** o "**Dia Meta 10**": dez práticas diárias (Yoga tradicional e rodopio; PAC; "contemplação quântica"; PRA; "negação de mim mesmo"; PAR; relaxamento/concentração/meditação; alongamentos; "Phowa"; "nada concluir" + "indiferença amorosa"). Origem da ideia: "nenhum mestre digno desse título deixa que o dia lhe aconteça, porém, diferente disso, ele 'cria o seu dia'" (Judy Z. Knight — **canalização/mediúnica, leitura isolada**, p. 165).
 
-- **Contexto acrescentado:** Mentalma é apresentado no fechamento como sinalização prática de intencionalidade espiritual para orientar a improvisação humana. [Fonte: P2022-12-17]
-
 - **Status da evidência:** transcrição automatizada, pré-curada e validada terminologicamente pelo curador; conferir com áudio/obra primária antes de promoção de status. [Fonte: P2022-12-17]
-
-- **Contexto acrescentado:** Mentalma é citado como disciplina de meditação, respiração e emancipação psíquica capaz de apoiar a busca de Moksha. [Fonte: P2021-12-04]
-
-- Mentalma/respiração é relacionado à gestão consciente da sensação pessoal. [Fonte: P2024-05-04]
 
 - Relação nova: Mentalma ↔ Ciência Pessoal (RC-695) — o laboratório íntimo do esforço psíquico (aresta P2023-05-13).
 

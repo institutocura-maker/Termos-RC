@@ -113,9 +113,9 @@ Heber (patriarca pós-dilúvio) (RC-436); Rishis (RC-586)
 
 - **[P2021-05-15 · A FINALIDADE DA SISTEMATIZAÇÃO: A BUSCA DA VERDADE]** "O fato de eu discordar não quer dizer que eu esteja certo e ele errado." (U0010) — a fórmula «razão filosófica… sem afetação» aparece no mesmo bloco (U0003) e é o elo com RC-755.
 
-## 5. Lentes Curatoriais e Quarentenas
-
 - **Narada e o Bhagavatam:** Narada convenceu o velho Vyasa a escrever o Bhagavatam (devoção a Krishna) — interferência da Trimurti. [Fonte: P2024-02-25]
+
+## 5. Lentes Curatoriais e Quarentenas
 
 - **Encarnação de Moros:** ver RC-454. [Fonte: P2024-02-25]
 

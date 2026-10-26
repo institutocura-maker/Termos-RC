@@ -40,11 +40,13 @@ atualizado = "2026-08-21"
 
 > "A resposta silenciosa: como a Consciência Karuna e o 'novo eu' de Javé podem redimi-los indiretamente." — ART-2025-08-03, Cap. 7
 
+## 2. Natureza e Atributos
+
+- "a egrégora do IEEA e a Verbalização: 'reativando os filmes parados' e dando força aos Fenvans para superarem seus obstáculos"; [Fonte: ART-2025-08-03]
+
 ## Citações Verbatim
 
 - **Cap. 7:** "a resposta silenciosa: como a Consciência Karuna e o 'novo eu' de Javé podem redimi-los indiretamente"; [Fonte: ART-2025-08-03]
-
-- "a egrégora do IEEA e a Verbalização: 'reativando os filmes parados' e dando força aos Fenvans para superarem seus obstáculos"; [Fonte: ART-2025-08-03]
 
 - "a verbalização desses conhecimentos, especialmente na língua portuguesa, possui o condão de acionar mecanismos ancestrais adormecidos nas interligações das bases genéticas do genoma humano (o 'DNA lixo' de 95–97% inativo). Essa ativação religa o DNA e permite que 'filmes parados' retomem seu curso" [QUARENTENA CLÍNICA — leitura do autor, não genética validada]; [Fonte: ART-2025-08-03]
 

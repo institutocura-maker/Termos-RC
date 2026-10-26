@@ -60,9 +60,9 @@ Anunnakis (RC-024); Enlil (deus sumério, par de Enki) (RC-487); Anu (patriarca 
 
 ## 4. Histórico e Eventos Cósmicos
 
-## 5. Lentes Curatoriais e Quarentenas
-
 - **Contexto:** "Ninurta e Nergal jogaram as tais bombas para tentar impedir a supremacia de Marduk"; [Fonte: P2021-03-27]
+
+## 5. Lentes Curatoriais e Quarentenas
 
 - **Quarentena histórica:** os detalhes (vitrificações, Sodoma/Gomorra, Mohenjo-Daro) são **contexto da disputa**, não entidades ontológicas (decisão do curador — RC-024/486/487 absorvem o desfecho). [Fonte: P2021-03-27]
 

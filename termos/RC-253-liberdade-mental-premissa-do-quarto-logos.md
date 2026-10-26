@@ -68,6 +68,9 @@ A 38ª Constatação de B016 contrasta as duas premissas: os três primeiros Log
 > "O que se encontra geneticamente estabelecido como sendo os “elementos da lógica” de uma espécie irracional, somente a muito custo pode ser redimensionado . Contudo, no que se refere à programação de uma espécie que nasceu livre, ou livre se viu a partir de um determinado ponto da sua história evolutiva, um simples “vírus” , cujo objetivo seja “aniquilar com a programação anterior ou a original”, ainda que provoque efeitos colaterais, resolve a questão e pode promover a possibilidade de um “padrão de liberdade mental mais efetivo”. O caso de Yel Luzbel (Lúcifer) é um exemplo emblemático desse tipo de evento, só que de uma das espécies do gênero biodemo, conforme o contexto apresentado na trilogia “Terra Atlantis” 1 . Desde então, um encadeamento de mutações advindo desse padrão genético, associado ao conjunto das que estavam acontecendo “naturalmente” na Terra, levaram à “versão mulher” de Pandora, e depois, à da “Eva bíblica”, manifestações estas que influenciaram toda a humanidade posterior. 18ª Constatação: A humanidade nasceu programada, libertou-se, foi novamente condicionada, reprogramada pelo temor religioso, e assim permaneceu e permanece até os tempos atuais, submetida ao “vexame do primarismo religioso”, malversado tanto em teoria como em prática." — B014, p. 119
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** o trecho entre aspas desta ficha **não** resiste à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Deixa vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
 
+- **[B016 p. 147]** o Quarto Logos “rompe com esta premissa e estabelece outra bem diferente: fora da ‘liberdade mental’ não parece existir ‘salvação’”; “Por que a liberdade é essencial? Para que possa haver correção de rumos!”
+- **[B016 p. 147]** “a crença em que ‘Deus cuida de nós’ solapa qualquer possibilidade de crivo lógico da parte da razão humana.”
+
 ## 2. Natureza e Atributos
 
 - **Contexto acrescentado:** A Liberdade Mental é contraposta aos Protocolos da Perfeição e associada ao Moksha e ao Genoma da Liberdade. [Fonte: P2021-12-04]
@@ -87,10 +90,6 @@ A 38ª Constatação de B016 contrasta as duas premissas: os três primeiros Log
 - **Status da evidência:** transcrição automatizada, pré-curada e aprovada quanto à integração terminológica; conferir com áudio/obra antes de promover status. [Fonte: P2021-12-04]
 
 ## 5. Lentes Curatoriais e Quarentenas
-
-- **[B016 p. 147]** o Quarto Logos “rompe com esta premissa e estabelece outra bem diferente: fora da ‘liberdade mental’ não parece existir ‘salvação’”; “Por que a liberdade é essencial? Para que possa haver correção de rumos!”
-
-- **[B016 p. 147]** “a crença em que ‘Deus cuida de nós’ solapa qualquer possibilidade de crivo lógico da parte da razão humana.”
 
 - **[B049 p. 9]** método: separar o pretendido pelo fundador-revelador do que fazem os seguidores; Nietzsche agrava o abismo; livre da «infecção da crença» — **clínica** (metáfora, não diagnóstico).
 

@@ -90,6 +90,8 @@ O Universo Antimaterial é um dos dois produtos do "erro da criação" (a queda 
 
 ## 2. Natureza e Atributos
 
+- **P2026-07-25:** Arabot-Ráquia (RC-495) situa-se no Brahmaloka — "uma morada no Brama Loca, onde há uma grande base laboratorial"; Shekinah como nave antimaterial que une os dois universos.
+
 ## 3. Hierarquia e Geopolítica
 
 - **Contexto acrescentado:** “Universo vizinho” é usado reiteradamente como forma contextual do universo antimaterial/paralelo e como domínio do conglomerado de realidades da Trimurti. [Fonte: P2022-12-17]
@@ -101,8 +103,6 @@ O Universo Antimaterial é um dos dois produtos do "erro da criação" (a queda 
 - **Fonte:** palestra *O Incompreendido Ano de 2012 e a Falsa Noção do Fim do Mundo* — unidades U0114–U0121; U0129–U0156; U0414–U0425. [Fonte: P2022-12-17]
 
 ## 5. Lentes Curatoriais e Quarentenas
-
-- **P2026-07-25:** Arabot-Ráquia (RC-495) situa-se no Brahmaloka — "uma morada no Brama Loca, onde há uma grande base laboratorial"; Shekinah como nave antimaterial que une os dois universos.
 
 - **[B060 · quarentena]** antropológica (Yanomami); as equivalências druídicas Hyren/Hyron são o elo nominal com a B085 — registro, não validação da obra (sem PDF).
 

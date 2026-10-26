@@ -66,6 +66,8 @@ Processo descrito na Revelação Cósmica como a **mudança de expressão consce
 
 - **[P3 · Especiação]** «Então, assim, todos os cachorrinhos que existem hoje vieram dessa espécie Canis lupus, o nome disso chama-se especiação. há 10 mil anos atrás não tinha cachorro só essa espécie de lobo todos os cachorrinhos que existem hoje é a genética desse lobo que foi especiado só que a condição da sensação do lobo no psiquismo do cachorro está adormecida no seu DNA para que o cachorrinho possa ter uma nova sensação frente ao ser humano que é de balançar o rabo, o cachorrinho ama o homem o lobo, matava Mas se o cachorrinho sentir a sensação do lobo, mesmo ele sendo um cachorrinho, ele age como um lobo.» (U0471) — candidata de cotejo ampliado; evidência `OIDR26-03-RC-056-001`, grafia literal `especiação`, sem homologação de pérola.
 
+- Contexto: a especiação como via de ressignificação das vrittis (RC-760). [Fonte: P2025-11-29]
+
 ## 3. Hierarquia e Geopolítica
 
 - **Especiação anunnaki:** "os anunnaki já vêm se especiando há um bom tempo. Eles são conhecidos como viajantes... já saíram do mundo deles e já terminaram viajando"; [Fonte: P2021-03-27]
@@ -75,8 +77,6 @@ Processo descrito na Revelação Cósmica como a **mudança de expressão consce
 ## 5. Lentes Curatoriais e Quarentenas
 
 - Relaciona-se à resposta às perguntas da plateia sobre "já fomos IA" e sobre a experiência terrena (intervenções 1–3 — isoladas, não ontologizadas). [Fonte: P2023-05-13]
-
-- Contexto: a especiação como via de ressignificação das vrittis (RC-760). [Fonte: P2025-11-29]
 
 ## 6. Histórico Curatorial e Auditoria
 

@@ -57,6 +57,8 @@ Na RC, deus mesopotâmico identificado como anunnaki filho de Enki, equivalente 
 
 - **A "confusão de Marduk":** "todas as religiões... falam no retorno dos deuses... essa história toda é continuação da confusão que Marduk fez há 4.000 anos"; [Fonte: P2021-03-27]
 
+- **Influência de Len Mion (RC-074):** seção 6.2 — "a atuação de Len Mion e sua influência em Marduk"; [Fonte: P2021-03-27]
+
 ## 4. Histórico e Eventos Cósmicos
 
 - **[P2023-10-14 · MARDUK, A VEZ DELE E AS CIDADES SIMPÁTICAS]** "Quando chegou a vez de Marduque assumir, 2200 anos antes de Cristo, a chefia ou comando Anuna aqui na terra, Ninurta, filho de Eli, disse: «Não, os dois foram pro pau.»" (U0018); "Tem lá o vale do Sidim, um pouco mais abaixo, onde existia cidade de Sodoma e Gomorra e essas cidades eram simpáticas a Marduk." (U0018)
@@ -66,8 +68,6 @@ Na RC, deus mesopotâmico identificado como anunnaki filho de Enki, equivalente 
 ## 5. Lentes Curatoriais e Quarentenas
 
 - **[P1 · Marduk (= Ra; Anunnaki filho de Enki)]** «E aí vocês não se preocupem muito com os nomes, porque isso não tem muita importância, mas eu vou só me referir e dizer assim, no clã de Enki, o seu primogênito era uma figura chamada Marduk, e esse ser foi talvez a figura mais importante da história humana, pena que dele muito tenha ficado registrado, mas pouco tenha sido explorado no campo da interpretação.» (U0373) — candidata de cotejo ampliado; evidência `OIDR26-01-RC-460-001`, grafia literal `Marduk`, sem homologação de pérola.
-
-- **Influência de Len Mion (RC-074):** seção 6.2 — "a atuação de Len Mion e sua influência em Marduk"; [Fonte: P2021-03-27]
 
 - **Guerras atômicas (contexto):** a disputa dos clãs (Enki/Enlil) e a busca de supremacia contra Marduk — "Ninurta e Nergal jogaram as tais bombas para tentar impedir a supremacia de Marduk" — **quarentena histórica** (contexto, não ontologia). [Fonte: P2021-03-27]
 

@@ -65,6 +65,8 @@ Na leitura de B013, a Cabala surgiu como **reação de Javé ao gnosticismo** (s
 
 - **[P2023-12-03 · SEFIROT / ÁRVORE DA VIDA NA FALA DE 03/12/2023]** «Não tem nada de árvore da vida, mas foi assim que os cabalistas chamaram.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2023-10-14`); a entrada desta fonte é de **conteúdo**, não de data.
 
+- **[B013 p. 71]** a Árvore da Vida é “um diagrama da emanação do universo a partir do ‘Uno’”; também “um plano para permitir ao homem a escalada das dez ‘Sefiroth’”, “dez ‘Emanações da Divindade’”, “chave para decifrar os mistérios da Cabala, até atingir a ‘União com Deus’.”
+
 ## 2. Natureza e Atributos
 
 - **A planilha de Enoque:** Enoque, via a inteligência artificial de Metatron, "compôs uma espécie de organograma, uma planilha, um fluxo de informações" para explicar à elite trimurtiana as principais emanações dos três senhores (4 mundos, 10 sefirot, 22 caminhos). "O tarô, o I Ching, a Cabala moderna utilizaram isso para outros fins." [Fonte: P2025-05-31]
@@ -98,8 +100,6 @@ Kether/Javé (RC-261); Deidade (RC-047).
 ## 5. Lentes Curatoriais e Quarentenas
 
 - **[P2024-07-14] A árvore da vida (U0805–U0815):** "a tradução disso é árvore da vida. Essa tradução não era para ser chamada assim, mas os cabalistas fizeram"; "quando isso foi entregue a Shimon Bar Yochai com o conceito de Tikun, dizendo que os humanos eram os únicos capazes de, sob o comando de Malkuth, um dia reparar tanto os defeitos da obra quanto do criador nela caído"; "os judeus transformaram que Malkuth é o Messias que virá... é uma distorção, uma deformação, uma difamação da revelação que Javé entregou aos judeus" [leitura do autor — quarentena].
-
-- **[B013 p. 71]** a Árvore da Vida é “um diagrama da emanação do universo a partir do ‘Uno’”; também “um plano para permitir ao homem a escalada das dez ‘Sefiroth’”, “dez ‘Emanações da Divindade’”, “chave para decifrar os mistérios da Cabala, até atingir a ‘União com Deus’.”
 
 - **Quarentena teológica.** Páginas “aprox.” da ficha antiga substituídas pelo rastreio do PDF. [Fonte: B013]
 

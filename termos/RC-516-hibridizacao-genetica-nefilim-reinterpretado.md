@@ -43,6 +43,8 @@ Na RC, a **mistura genética entre anunnaki (RC-024) e humanos** — reinterpret
 
 - **Produto:** "terminou gerando uma série de linhagens de aparentemente seres humanos, mas também tinham gigantes, figuras deformadas"; [Fonte: P2021-03-27]
 
+- **Contexto de escassez:** "um gigante comia o que um ser humano comia em 30 dias... não tinha comida para todo mundo"; [Fonte: P2021-03-27]
+
 ## 3. Hierarquia e Geopolítica
 
 - **[P2021-05-15 · O FIM DO REGIME: A AÇÃO DE JAVÉ (ver RC-001)]** "Mas Javé foi um dos caras que mais trabalhou para que a ponixia não fosse adiante, né?" (U0003) — [STT: «ponixia».] ⚠️ **VETO DE CÓDIGO MANTIDO:** «Pamíxia» fica como termo-observação (aqui, RC-056, RC-729).
@@ -62,8 +64,6 @@ Na RC, a **mistura genética entre anunnaki (RC-024) e humanos** — reinterpret
 ## 5. Lentes Curatoriais e Quarentenas
 
 - **[P2023-12-03 · HIBRIDIZAÇÃO GENÉTICA (NEFILIM REINTERPRETADO) NA FALA DE 03/12/2023]** «dois tipos de seres da terra.» (U0009) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
-
-- **Contexto de escassez:** "um gigante comia o que um ser humano comia em 30 dias... não tinha comida para todo mundo"; [Fonte: P2021-03-27]
 
 ### Observações
 

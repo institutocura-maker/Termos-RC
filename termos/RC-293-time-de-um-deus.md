@@ -51,9 +51,11 @@ Quanto mais cidades "conquistadas", preces e sacrifícios um deus recebia, "maio
 
 > «Para um deus, quanto mais cidades “conquistadas”, preces de prestígios» » … « «recebidas, como também sacrifícios endereçados a ele, maior seria a sua» » … « «timé» » […] « «A pior desgraça de “domínio” a ser sentida pelos deuses» » […] « «o que de mais tenebroso pode» » … « «acontecer a um deus é ter a sua honra atingida devido à perda da sua» » … « «timé» — B021 p. 10 · `original.txt` L261 · reconstrução aprovada pelo Curador na U93; 12 palavras da fonte omitidas — » […] « assinala o fosso, ao passo que » … « assinala apenas quebra de hard-wrap.
 
-## Citações Verbatim
+## 4. Histórico e Eventos Cósmicos
 
 - **Crime de Jesus:** agredir a Timé de um arconte é crime no conselho — Jesus invadiu o Tártaro (Timé de Hades e Belial) → processo aberto contra Jesus, sem resolução até hoje. [Fonte: P2026-07-25]
+
+## Citações Verbatim
 
 - **Aumento de Timé:** cada ser que assumia assento no conselho dos 70 tinha a Timé aumentada — motivo de guerras e perseguição a humanos (ex.: Apolo obrigado a "se livrar" de jogadores humanos). [Fonte: P2026-07-25]
 

@@ -38,6 +38,11 @@ atualizado = "2026-08-19"
 
 > "O corpo de Javé ou do Brahma Parameshthi, que sempre se apresentava sentado num trono, esse corpo agora ele não entrou em coma, ele colapsou... o eu dele continua existindo, voltou a ser parasitário, voltou a ser aquele eu atrás de um corpo."
 
+## 4. Histórico e Eventos Cósmicos
+
+- Escanteado: nos últimos 4.000 anos todos os templos de Brahma sumiram (Krishna); a Santíssima Trindade 'cancelou' o Deus dos judeus no ocidente. [Fonte: P2024-02-25]
+- Fortaleceu-se após a morte de Jesus ao produzir a Cabala e o Islã; Len Mion fez confronto brabo aos seus projetos (Terra Atlantis). [Fonte: P2024-02-25]
+
 ## Citações Verbatim
 
 - Colapso do corpo em 2021; 'entenda-se por colapso... a morte corporal'. [Fonte: P2024-02-25]
@@ -45,10 +50,6 @@ atualizado = "2026-08-19"
 - Face recriada pelos anjos clones desde os tempos em que a rebelião de Lúcifer se encontrava em curso (700.000 anos); o 'último capítulo' começou no meio da questão luciferiana. [Fonte: P2024-02-25]
 
 - 'Ao ser reanimado, voltou com força e foi ele que basicamente causou toda essa confusão: humilhou Jesus, humilhou Saibaba, humilhou Krishna.' [Fonte: P2024-02-25]
-
-- Escanteado: nos últimos 4.000 anos todos os templos de Brahma sumiram (Krishna); a Santíssima Trindade 'cancelou' o Deus dos judeus no ocidente. [Fonte: P2024-02-25]
-
-- Fortaleceu-se após a morte de Jesus ao produzir a Cabala e o Islã; Len Mion fez confronto brabo aos seus projetos (Terra Atlantis). [Fonte: P2024-02-25]
 
 - 'Versão mais atualizada e quase funcional desse ser'; o eu ancestral do criador caído continua perdido. [Fonte: P2024-02-25]
 

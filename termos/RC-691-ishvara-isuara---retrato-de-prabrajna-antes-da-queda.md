@@ -68,6 +68,9 @@ Satchidananda é mantido, neste ciclo, dentro da explicação de Ishvara e da ca
 
 - **[O paraíso que parou de criar] (U0016)** «Desde que para Bragna fez isso, parou tudo.» — "O fim das criações no universo... o que era normalíssimo... Desde que Para Brajna fez isso, parou tudo. Ninguém cria mais nada" — o paraíso "já era chato, agora está"; a pulsação digna dos humanos pode substituir temporariamente os alicerces de sustentabilidade da erraticidade do paraíso (grafia STT "para Bragna" = Para Brajna). [Fonte: P2022-12-03]
 
+- **Epítetos:** "significa o eu do universo, o ego do universo, o senhor do universo, o Deus do universo — você encontra uns 20 epítetos e nenhum deles bate"; "o que de mais próximo se chegou foi o Samkhya que Kapila produziu". [Fonte: P2025-03-15]
+- **Verificabilidade:** "isso que você vai explicar é verificável? Não. Por isso vocês apenas vão entender, mas não vão assumir isso como verdade". [Fonte: P2025-03-15]
+
 ## 2. Natureza e Atributos
 
 ## 3. Hierarquia e Geopolítica
@@ -83,10 +86,6 @@ Satchidananda é mantido, neste ciclo, dentro da explicação de Ishvara e da ca
 - **"Hoje a palestra vai falar pela primeira vez abertamente sobre o mistério de Ishvara"** (em Milen Brumana [STT — REVISAR → CHANCELA 10/09/2026 · F039-L5: AGUARDA-ÁUDIO (hapax) — ver nota]). [Fonte: P2025-03-15]
 
 ## 5. Lentes Curatoriais e Quarentenas
-
-- **Epítetos:** "significa o eu do universo, o ego do universo, o senhor do universo, o Deus do universo — você encontra uns 20 epítetos e nenhum deles bate"; "o que de mais próximo se chegou foi o Samkhya que Kapila produziu". [Fonte: P2025-03-15]
-
-- **Verificabilidade:** "isso que você vai explicar é verificável? Não. Por isso vocês apenas vão entender, mas não vão assumir isso como verdade". [Fonte: P2025-03-15]
 
 ### Observações
 

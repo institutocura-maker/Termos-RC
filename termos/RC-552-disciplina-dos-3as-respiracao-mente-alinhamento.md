@@ -61,6 +61,8 @@ Ellam relata que os "3As" tornaram-se "a mais preciosa" das práticas do seu cot
 
 - **[B075 p. 94]** "vivência interior": "O único fator que habilita o ser individualizado a exercer a sua '**cidadania dupla**' (espiritual e terrena) é a vivência interior, e para que isso aconteça, ele terá que praticar **umas boas centenas ou milhares de horas meditando** (o suficiente para romper o primarismo vibratório da condição animalizada), como fizeram Yogananda e vários outros gurus e mestres hindus"; o "pranayama extremante simples... constitui a **primeira fase da disciplina dos '3As'** (Aprofundar a respiração / Acalmar a mente / Alinhar-me com meu 'Eu Espiritual')".
 
+- **Contexto acrescentado:** A prática respiratória, meditativa e de alinhamento é reforçada como disciplina de emancipação vinculada ao Mentalma e ao Moksha. [Fonte: P2021-12-04]
+
 ## 3. Hierarquia e Geopolítica
 
 ### Seres Associados
@@ -84,8 +86,6 @@ Praticante do Mentalma; o "Eu" que se alinha ao Espírito.
 - **[B074 p. 184]** segundo "erro fatal": não utilizar a educação respiratória para controlar as emoções ("a outra opção é tomar remédios" — clínico, **fora da malha**).
 
 - **[B075 p. 23]** respiração dirigida a arquivos específicos (exemplo da claustrofobia — **clínica, exemplo**): "a respiração pode ser **direcionada, com uma precisão cirúrgica**, para arquivos mentais de problemas específicos, no sentido de atacar a causa e as consequências desses".
-
-- **Contexto acrescentado:** A prática respiratória, meditativa e de alinhamento é reforçada como disciplina de emancipação vinculada ao Mentalma e ao Moksha. [Fonte: P2021-12-04]
 
 ### Observações
 

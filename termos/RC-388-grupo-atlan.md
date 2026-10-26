@@ -42,9 +42,9 @@ O Esclarecimento do B006 narra a origem: "No início, era a Casa de Lucas. Centr
 
 > "Quatro, seis, às vezes oito reuniões por mês, desde o ano de 1986, foi a rotina de trabalho, em grupos de estudo, do autor terreno destas páginas, cujas mensagens formam a temática deste livro." — B006, Esclarecimento
 
-## Citações Verbatim
-
 - **[B006 p. 1]** Apresentação (JAN VAL ELLAM): o livro oferta «um conjunto de reflexões» para a «percepção dos contextos espiritual e cósmico que envolvem a vida terrena».
+
+## Citações Verbatim
 
 - **[B006 p. 2–4]** Esclarecimento (Atlan, 22/03/2000 — voz de Ellam): «No início, era a Casa de Lucas.» Com a presença de «seres cósmicos» distintos dos «espíritos desencarnados», o grupo e o recanto passaram a chamar-se **Atlan**. «Quatro, seis, às vezes oito reuniões por mês, desde o ano de 1986, foi a rotina de trabalho, em grupos de estudo, do autor terreno destas páginas.» Transcrições do período 11/11/1997–17/03/2000 (Manuel Pereira Júnior e Ricardo Frederico de Carvalho). «Este trabalho é dedicado a todos os membros da família Atlan.»
 

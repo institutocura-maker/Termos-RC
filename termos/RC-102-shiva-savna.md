@@ -105,6 +105,8 @@ Um dos três da Trimurti (RC-104) — na RC, **Savna** (RC-409 ADHYSAVNA); princ
 
 - **Força tamásica = entropia:** "a força tamásica de Shiva é a entropia dessa criação" (reforço de P2021-03-27/P2023-12-02) — Shiva como reciclagem que "funciona até o fim";
 
+- **[P2019-08-25 · SHIVA COMO SEGUNDO LOGOS E O FORNO AWAYLENGAN]** (fonte oral fundadora):
+
 ## 2. Natureza e Atributos
 
 - **[P2023-06-24 · A FÍSICA DE SAVNA — a resposta a Cristiane]** "**Sávenna... criou AS LEIS que fizeram com que prótons e nêutrons se unessem NO NÚCLEO ATÔMICO** para atrair o elétron — e todos os elementos químicos da tabela periódica... um próton de um núcleo não salta pro outro, **mas um elétron de um elemento químico SALTA para outro elemento químico** [levando consigo as informações]" ["uma vátima que veio a ser vígena" — [REVISAR → CHANCELA 2026-09-06 · F041-L5: AGUARDA-ÁUDIO (dívida perdoada até nova evidência na base; STT preservado como falado) — ver nota]].
@@ -124,6 +126,8 @@ Um dos três da Trimurti (RC-104) — na RC, **Savna** (RC-409 ADHYSAVNA); princ
 - **[Os três Chivas] (U0006)** «Eu percebi que ao longo desses anos Shiva se aproximou de mim de três maneiras.» — o primeiro: respeito com olhar malicioso que convida à aposta e ao desafio; o segundo: o parceiro de azar, íntimo "com a minhoca, com um macaquinho, com inseto, com o animal, com o ser humano" (glosa sem aspa); o terceiro: o olhar terrível, "naquele rosto meio que maquiado surge um terceiro olho" (U0006: «Aí esse terceiro ser os o olhar dele é terrível, porque naquele rosto meio que maquiado surge um terceiro olho.») — "a forma como o código fonte de fim de dor dele penetra no seu DNA, se sobrepondo e querendo efetivamente lhe Repito, não no sentido de matar, mas de lhe reciclar ao no modo em que ele gostaria que você fosse" (glosa sem aspa). [Fonte: P2021-04-10]
 
 - **[Chiva criou Krishna e Saibaba por causa do olhar de amor] (U0006)** «Então assim, Shiv, ele me disse que ele criou Krishna e Saibaba porque estes olhavam pros seres humanos com o carinho, a ternura que ele enquanto Shiva à moda desses três tipos de consciência, ele não conseguia olhar, né?» — "realmente, né? E é meio o Chiva número dois" (glosa); um avatar híbrido e outro humano; "o Chiva real, o Chiva que tem função nessa história é o um e o três e principalmente o três" (glosa sem aspa): "se eu não destruir, ninguém destruirá do noso, permitindo a reciclagem, permitindo o ressurgimento" (glosa sem aspa). [Fonte: P2021-04-10]
+
+- **[B033 p. 79]** o «1/3 faltante» da atitude mental da autoria universal «se refere à participação do Senhor Shiva».
 
 ## 3. Hierarquia e Geopolítica
 
@@ -171,21 +175,17 @@ Um dos três da Trimurti (RC-104) — na RC, **Savna** (RC-409 ADHYSAVNA); princ
 
 - **[A falência de Chiva] (U0012)** «Do jeito que Virgem se desintegrou, do jeito que Brama implodu, Chiva vai embora junto comigo por questões outras.» — "Ele fez 100 planos. Desses 100 não sobrou nenhum plano porque deu tudo errado" (U0012: «Ele fez 100 planos. Desses 100 não sobrou nenhum plano porque deu tudo errado.»); a rede de avatares: "O espírito de Chiva toma conta mais de 1000" (U0013: «O espírito de Chiva toma conta mais de 1000.»). [Fonte: P2021-06-26]
 
+- **[P2023-04-15 · A OPÇÃO METAVERSO]** "existe uma loucura aí que a gente tá vendo na espiritualidade, que é o fato de que SE ESSAS OITO PESSOAS FALHAREM, SHIVA COLOCAR TODA ESSA M*** NO METAVERSO, MANTER PARA BRAJNA DO JEITO QUE TÁ, RECOMEÇAR TUDO NUM OUTRO UNIVERSO. MAS ISSO AINDA TEM BILHÕES DE ANOS PARA A FRENTE"; "eu penso que essa é a única solução, caso um Sofia deixe de existir".
+
 ## 5. Lentes Curatoriais e Quarentenas
 
 - **[P1 · Shiva (Savna)]** «Mesmo no tempo em que eu li o Bhagavad Gita, e ainda não tinha visão minimamente profunda, eu estou falando dos meus tempos de juventude, em que eu li aquilo, os deuses hindus matando uns aos outros com um sorriso na face, Ou seja, a questão de destruir a figura de Shiva. Lá na minha juventude eu olhava um ser destruidor que tinha que destruir para o universo ir em frente.» (U0099) — candidata de cotejo ampliado; evidência `OIDR26-01-RC-102-001`, grafia literal `Shiva`, sem homologação de pérola.
-
-- **[B033 p. 79]** o «1/3 faltante» da atitude mental da autoria universal «se refere à participação do Senhor Shiva».
 
 - **[B060 pp. 6-7 · verbete "Shiva" — OS AVATARES EXÓTICOS]** "Savna, ser Pashvnaj do gênero Adhy de Perperion... Segundo Logos - Energia Tamas - Energia Escura - Destruidor" (✓ RC-102): equivalentes Binah (RC-675 ✓), Kek, Nidogue [Nidhogg], Perun, Shu, Tartar [Tártaro], Tefnut, Thyré. **Avatares (registro de curadoria religiosa/biográfica — O-4):** Bava · Brida · Hara · Ishvara (RC-691 ✓) · Kalki · Krishna ("avatar biodemol keshava") · Ogo (Dogon) · Pashupati (RC-669 ✓) · Prima Sai · **Rama** (Ramayana) · **Sai Baba de Shirdi (1838(?)–1918, Índia)** · **Sathya Sai Baba (1926–2011, "nome Sathyanarayana Raju")** · **Shankaracharya** ("Adi Xancara, formulador da Advaita Vedanta") — com a OBS. do documento: "na literatura Védica/Ariana/Hindu existem mais de 1.000 nomes de seus avatares".
 
 - **[B060 · quarentena]** religiosa/biográfica (os Sai Baba são personagens recentes reais); os avatares hindus = leitura de terceiros.
 
-- **[P2023-04-15 · A OPÇÃO METAVERSO]** "existe uma loucura aí que a gente tá vendo na espiritualidade, que é o fato de que SE ESSAS OITO PESSOAS FALHAREM, SHIVA COLOCAR TODA ESSA M*** NO METAVERSO, MANTER PARA BRAJNA DO JEITO QUE TÁ, RECOMEÇAR TUDO NUM OUTRO UNIVERSO. MAS ISSO AINDA TEM BILHÕES DE ANOS PARA A FRENTE"; "eu penso que essa é a única solução, caso um Sofia deixe de existir".
-
 - **[P2021-05-15 · SIVA COMO ADMINISTRADOR DO SEGUNDO FORNO — E O «JAMAIS» NAS ILHAS]** "Então, eles nunca colocaram o pé deles em nenhuma dessas ilhas hiperbórias, tá?" (U0003) — ⚠️ quarentena religiosa/hinduísta: as grafias orais da Trimúrti nesta fonte («Brama, virgem e chiva») **não** substituem as grafias canônicas da Base.
-
-- **[P2019-08-25 · SHIVA COMO SEGUNDO LOGOS E O FORNO AWAYLENGAN]** (fonte oral fundadora):
 
 - A morada de Shiva no Himalaia (a "Aingan" / base cósmica) — quarentena ufológica. [Fonte: P2019-08-25]
 

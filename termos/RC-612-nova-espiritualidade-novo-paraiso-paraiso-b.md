@@ -58,6 +58,9 @@ Reorganização futura dos níveis espirituais que não seria mero retorno aos p
 
 - **[P2021-12-04 — FONTE ORIGINAL] A nova espiritualidade (U0495–U0496; U0523; U0560–U0564):** "essa nova espiritualidade que eu brinco chamando de novo paraíso é a **estratégia de Tempérion sobre a velha estratégia de Perpérion**, de querer fazer mais do mesmo e continuar tudo como sempre foi" (U0495–U0496); "os Seres Adhy que mergulharam só sabem voltar pro ponto em que eles estavam antes dessa criação" (U0523); "um novo paraíso é necessário, uma nova espiritualidade é necessária, novos caminhos que unem essas distinções de como se organizam os lá fora e aqui dentro... esse novo paraíso, essa nova espiritualidade, o nome novo aí é só num certo sentido, porque isso ainda vai ter que se ancorar na energia da matriz primordial do ser a quem chamamos de Deus na sua criação original" (U0560–U0563); "a infecção via as pontes informativas, via os furos que estão começando a aparecer na blindagem... em algum momento vai infeccionar mais e mais a chamada espiritualidade superior" (U0565–U0567).
 
+- **Paraíso B (P2025-03-15):** "talvez a gente precise construir um paraíso B, porque a turma que sai suja, mas consegue dignificar-se do caos, se entrar no paraíso, gera [problemas]" — Sidarta Gautama como exemplo de espírito que já entrou; o amor do caos como mérito.
+- **Esperança de evolução contínua:** seção 8.5 — "A Esperança de um 'Paraíso B' e a Evolução Contínua dos Espíritos"; [Fonte: P2023-05-13]
+
 ## 2. Natureza e Atributos
 
 - **[P2024-07-14] O futuro colegiado (U0540–U0590):** "não existem colegiados de consciências dignificadas ainda. Nós precisamos criar o primeiro... ainda não somos nem 10. Mas daqui a pouco vai ser 20, 30, 50. E assim, nós temos 18.000 anos para fazer isso, se sobrevivermos enquanto experiência biológica"; "tudo que existe nesse sentido é um pequeno grupo de espíritos lúcidos que finalmente estão conseguindo compor uma equipe de seres esclarecidos via os seus eus humanos, que doravante irão trabalhar em diversas esferas para construir, atingir este fim"; "para além disso, existe ainda o colegiado paradisíaco, que não se mistura também com aqueles outros, dos tais seres puros, distribuídos pelos seus três principais níveis de expressão" (paradisíaco imutável; operacional e laboratorial mutáveis — "a revolução começou nesses dois níveis").
@@ -98,13 +101,9 @@ Consultar as relações tipadas acima.
 
 ## 5. Lentes Curatoriais e Quarentenas
 
-- **Paraíso B (P2025-03-15):** "talvez a gente precise construir um paraíso B, porque a turma que sai suja, mas consegue dignificar-se do caos, se entrar no paraíso, gera [problemas]" — Sidarta Gautama como exemplo de espírito que já entrou; o amor do caos como mérito.
-
 - **[P2024-05-04-R] A transformação do caos em beleza (U1752):** "a atual crise cósmica exige um processo de alquimia para ser transmutada em beleza"; "a aptidão para encontrar o belo na feiura e conferir sentido e significado maior para a nossa existência é o que distingue a humanidade"; "a visão final é de uma dignidade e harmonia alcançadas através do esforço consciente humano".
 
 - **Fonte:** P2024-05-04.
-
-- **Esperança de evolução contínua:** seção 8.5 — "A Esperança de um 'Paraíso B' e a Evolução Contínua dos Espíritos"; [Fonte: P2023-05-13]
 
 ### Observações
 

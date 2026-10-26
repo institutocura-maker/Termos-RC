@@ -73,6 +73,8 @@ Conceito central de `P2025-02-15`. A camuflagem não é apenas falta de informa�
 
 - A camuflagem é a interface da Criação Indevida: a bolha da Obra problemática (RC-167). [Fonte: P2023-05-13]
 
+- **Nota P2026-07-25:** o "cisne negro" (absorvido em RC-192) é a chave da camuflagem: a realidade se camufla sob a crença de que o impossível não existe; os véus "se decerram" quando o eu se autodescobre (pulsação digna — RC-722).
+
 ## 2. Natureza e Atributos
 
 - **Pílula azul/vermelha:** "a pílula azul é aquela que nos deixa agradável dentro do caos; a pílula vermelha desperta a gente para a consciência de que está no caos"; "a humanidade, quase toda, repousa na pílula azul". [Fonte: P2025-02-15]
@@ -89,6 +91,8 @@ Conceito central de `P2025-02-15`. A camuflagem não é apenas falta de informa�
 
 - **Pílula vermelha como deslacre:** "destrava, deslacra o seu cérebro... despolui o modo como o seu cérebro, o seu conectoma funciona" (RC-192); [Fonte: P2023-05-13]
 
+- **Impressões ilusórias:** "o entorno de cada um de nós é o conjunto dessas impressões ilusórias ou impressões inconscientes que levam um quarto de segundo para você ver ou não". [Fonte: P2025-02-15]
+
 ## 3. Hierarquia e Geopolítica
 
 - **[P2024-07-13] Kierkegaard (U0300–U0320):** "Søren Kierkegaard, filósofo dinamarquês, ironicamente diz que o ser humano costuma se enganar de duas maneiras: uma, acreditando em muita coisa como sendo verdade, mas que não é verdade; e a segunda, deixando de acreditar ou de perceber o que é verdade, porque a gente não tem olhos para perceber"; "quem hoje em dia não sabe que existe vida extraterrestre é ignorante de pai e mãe... as pessoas bem informadas da Terra sabem que existe vida extraterrestre... mais de 1.000 ex-militares dos Estados Unidos desde o ano 2001 disseram abertamente que de fato conviveram com coisas que não eram humanas"; Paul Hellyer (ministro da defesa do Canadá; ONU 2006; "quatro civilizações de fora já têm acampamento aqui na Terra com a proteção do governo estadunidense; dois ETs trabalham no governo dos Estados Unidos").
@@ -100,10 +104,6 @@ Conceito central de `P2025-02-15`. A camuflagem não é apenas falta de informa�
 - **[P2022-03-26 · CAMUFLAGEM DA REALIDADE NA FALA DE 26/03/2022]** "A infecção que antes existia aqui hoje está totalmente distribuída em todos os ambientes. espirituais da rato cidade e há pouco tempo furou a blindagem, começou a chegar aqui." (U0029) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⭐ **NOTA DE ANTERIORIDADE — P2022-03-26:** antecipa **12 meses** a atual fonte oral mais antiga da ficha (`P2023-04-01`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
 
 ## 5. Lentes Curatoriais e Quarentenas
-
-- **Nota P2026-07-25:** o "cisne negro" (absorvido em RC-192) é a chave da camuflagem: a realidade se camufla sob a crença de que o impossível não existe; os véus "se decerram" quando o eu se autodescobre (pulsação digna — RC-722).
-
-- **Impressões ilusórias:** "o entorno de cada um de nós é o conjunto dessas impressões ilusórias ou impressões inconscientes que levam um quarto de segundo para você ver ou não". [Fonte: P2025-02-15]
 
 - **"A ignorância é uma bênção formidável"** — para a maioria, não ver é melhor (leitura do autor). [Fonte: P2025-02-15]
 

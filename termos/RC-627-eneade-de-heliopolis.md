@@ -39,6 +39,8 @@ A comparação mostra que os oito da Ogdóade não representam contagem exaustiv
 
 > “A história contada em Heliópolis [...] fala não em Ogdóade, mas em Enéade, ou seja, nove deuses.” — P2026-07-30, U0016–U0018
 
+- Memphis e Tebas: "muito ligadas ao culto da morte... não tem muita importância" (na avaliação do autor); [Fonte: P2023-12-02]
+
 ## Citações Verbatim
 
 - **[P2020-07-11] A Enéade em contraponto (U0380–U0400):** a Ogdóade de Hermópolis (oito) em contraste com a Enéade de Heliópolis (nove); a palestra usa a Ogdóade como base dos oito entes primordiais [REVISAR — correlação a validar → CHANCELA 2026-09-06 · F041-L5: AGUARDA-ÁUDIO (dívida perdoada até nova evidência na base; STT preservado como falado) — ver nota].
@@ -48,8 +50,6 @@ A comparação mostra que os oito da Ogdóade não representam contagem exaustiv
 - **Enéade = adaptação dos 9 anunnaki divinizados:** "o conceito de Enéade... foi uma adaptação posterior que iniciados fizeram para adequar os nove principais anunnaki ao divino do Egito. Aí os nomes de Ptah, Osíris, Ísis, Hórus... tudo surge aqui. E cada uma dessas figuras era um anunnaki que ficou no poder durante 500 anos, 1000 anos, 2000 anos"; [Fonte: P2023-12-02]
 
 - **Ogdóade × Enéade:** "se havia o Díog em Hermópolis [ogdóade], o de Enéade são nove seres" — segunda geração de seres, "ontologicamente posteriores aos oito inengendrados"; [Fonte: P2023-12-02]
-
-- Memphis e Tebas: "muito ligadas ao culto da morte... não tem muita importância" (na avaliação do autor); [Fonte: P2023-12-02]
 
 - Thot "não pôde fugir a isso porque eram os irmãos dele e os primos que basicamente o obrigaram a construir isso". [Fonte: P2023-12-02]
 

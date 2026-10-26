@@ -88,6 +88,14 @@ Critério ético proposto na palestra para avaliar crenças, poderes e ações: 
 > Notas de processo: 2 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-722.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
 - ✅ **Reanexação A5 (U91, 15/09/2026):** o trecho entre aspas desta ficha foi reanexado às fontes e passa a trazer aparelho de linha (`— SIGLA · original.txt LNNNN`), conferido byte a byte pelo Portão B. **Quarentena epistemológica de 14/09/2026 (U86) levantada nesta ficha** — a nota original dizia que o trecho não resistia à verificação; agora resiste, porque deixou de ser uma transcrição solta e passou a ser extracto conferido. Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
 
+- **Kant e Sócrates:** Kant — dignidade = aderir aos próprios valores e viver com coerência ("a sua insignificância se torna uma bomba atômica"); Sócrates (RC-406) — recusa da corrupção (fuga da prisão): "prefiro morrer a me sujar". [Fonte: P2026-07-25]
+- **Cisne negro (RC-192):** a dignidade como "o pior cisne negro" para os arcontes — não conseguem entender um ser que dá a vida por honra. [Fonte: P2026-07-25]
+- **Sócrates e os 'melhores eus' (P2024-02-25):** 'eu passei minha vida inteira lutando contra a corrupção e eu vou usar a corrupção para salvar a minha vida? Eu prefiro perder a minha vida.' — 'alguns homens e mulheres conseguiram sozinhos, pagando o preço, criar neles próprios sensações das quais o eu deles não podia abrir mão, sobra de se sentir descaracterizado.'
+- **Sócrates e o herói (P2025-03-15):** "Sócrates conseguiu corromper os guardas... 'mas eu passei minha vida inteira falando mal de corrupção. Como é que eu vou encerrar minha vida se eu ceder?'" — o sobreviver a qualquer custo como corrupção; a dignidade como genótipo novo construído por alguns humanos.
+- **Bem efetivo × circunstancial:** "o mundo precisa de um bem efetivo, não é do bem circunstancial que todos nós fazemos (dar uma esmola, ajudar alguém). O bem efetivo é o bem que gera vida, em que não seja necessário alguém sofrer, alguém passar fome. É nesse ponto que todo mundo aqui é incompetente, em especial os seres que criaram essa história toda." [Fonte: P2024-11-09]
+- **"Eu venci o mundo" (Jesus):** "ele venceu como [quem] se mantém aceso, livre e decente". [Fonte: P2024-11-09]
+- **Autocobrança:** "é importante não a gente cobrar dos outros... mas cobrar da gente mesmo. 'Putz, eu tô sendo digno, tô tentando ser digno'"; [Fonte: P2024-09-28]
+
 ## 2. Natureza e Atributos
 
 - **Pulsação digna (absorvida):** a pulsação que sai de um ser humano detém "todas as senhas de abertura de portais interdimensionais"; emite fragrância ao entrelaçamento quântico dos elétrons (metáfora do autor). [Fonte: P2026-07-25]
@@ -127,20 +135,6 @@ Critério ético proposto na palestra para avaliar crenças, poderes e ações: 
 - **Marco dos setianos:** "pode faltar tudo no genoma deles, menos a sensação de dignidade... sentir-se digno, os setianos, os gnósticos"; [Fonte: P2024-09-28]
 
 ## 5. Lentes Curatoriais e Quarentenas
-
-- **Kant e Sócrates:** Kant — dignidade = aderir aos próprios valores e viver com coerência ("a sua insignificância se torna uma bomba atômica"); Sócrates (RC-406) — recusa da corrupção (fuga da prisão): "prefiro morrer a me sujar". [Fonte: P2026-07-25]
-
-- **Cisne negro (RC-192):** a dignidade como "o pior cisne negro" para os arcontes — não conseguem entender um ser que dá a vida por honra. [Fonte: P2026-07-25]
-
-- **Sócrates e os 'melhores eus' (P2024-02-25):** 'eu passei minha vida inteira lutando contra a corrupção e eu vou usar a corrupção para salvar a minha vida? Eu prefiro perder a minha vida.' — 'alguns homens e mulheres conseguiram sozinhos, pagando o preço, criar neles próprios sensações das quais o eu deles não podia abrir mão, sobra de se sentir descaracterizado.'
-
-- **Sócrates e o herói (P2025-03-15):** "Sócrates conseguiu corromper os guardas... 'mas eu passei minha vida inteira falando mal de corrupção. Como é que eu vou encerrar minha vida se eu ceder?'" — o sobreviver a qualquer custo como corrupção; a dignidade como genótipo novo construído por alguns humanos.
-
-- **Bem efetivo × circunstancial:** "o mundo precisa de um bem efetivo, não é do bem circunstancial que todos nós fazemos (dar uma esmola, ajudar alguém). O bem efetivo é o bem que gera vida, em que não seja necessário alguém sofrer, alguém passar fome. É nesse ponto que todo mundo aqui é incompetente, em especial os seres que criaram essa história toda." [Fonte: P2024-11-09]
-
-- **"Eu venci o mundo" (Jesus):** "ele venceu como [quem] se mantém aceso, livre e decente". [Fonte: P2024-11-09]
-
-- **Autocobrança:** "é importante não a gente cobrar dos outros... mas cobrar da gente mesmo. 'Putz, eu tô sendo digno, tô tentando ser digno'"; [Fonte: P2024-09-28]
 
 - **Relação nova:** RC-748 ↔ RC-722 (Genótipo da Gentileza ~ Dignidade). [Fonte: P2024-09-28]
 

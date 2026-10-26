@@ -51,6 +51,8 @@ O diagrama (B051) apresenta os três "nomes completos" Adhy da Trimurti. A cadei
 
 - **[P2024-05-04-R] ADHYSAVNA e o Segundo Logos (U0900–U1100):** "o Segundo Logos é personificado por Shiva, que trouxe a diversidade e a geração de polaridades distintas entre os seres demos. Sua atuação foi fundamental para ordenar o que havia sido semeado pelo Primeiro Logos"; "Shiva, juntamente com Mohen So, um avatar de Vishnu, criou os campos morfogenéticos de todas as espécies. Esses campos funcionam como bancos de dados de informação, sem vibração, transmitindo informações indefinidamente fora do espaço-tempo"; "a força de Shiva é associada à energia Tamásica, responsável pela reciclagem e finalização"; "a ação de Shiva representa a força de ordenamento e diversificação necessária para estruturar a vida que emergiu da singularidade problemática de Brahma".
 
+- **Contexto acrescentado:** Shiva/Savna aparece como clone rebelde na cadeia de desdobramentos Adhy; o trecho exige futura conferência com áudio/obra. [Fonte: P2021-12-04]
+
 ## 3. Hierarquia e Geopolítica
 
 ### Seres Associados
@@ -68,8 +70,6 @@ Shiva (RC-102); Hara (RC-413); Krishna (RC-414); Sai Baba (avatar).
 - **Status da evidência:** transcrição automatizada, pré-curada e aprovada quanto à integração terminológica; conferir com áudio/obra antes de promover status. [Fonte: P2021-12-04]
 
 ## 5. Lentes Curatoriais e Quarentenas
-
-- **Contexto acrescentado:** Shiva/Savna aparece como clone rebelde na cadeia de desdobramentos Adhy; o trecho exige futura conferência com áudio/obra. [Fonte: P2021-12-04]
 
 ### Observações
 

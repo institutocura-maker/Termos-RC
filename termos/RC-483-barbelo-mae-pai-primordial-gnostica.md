@@ -36,11 +36,11 @@ Na gnose, a **Mãe-Pai primordial** — no material RC, a Deidade imanente do Pl
 > "Esse barbelo não premia nem castiga ninguém, não se mete. Ele deu de si a semente da sua deidade. E isso está presente em cada consciência particularizada, porque é o tal do corpo átmico presente em cada ser." — P2024-09-28
 - ⚠️ **Quarentena epistemológica — citações da geração pré-Portão B (A5, U86, 14/09/2026):** os 2 trechos entre aspas desta ficha **não** resistem à verificação byte a byte do Portão B — são transcrições editadas (elisões, colchetes, suavização de transcrição) ou paráfrases, não extractos conferidos. Todos deixam vestígio no corpus; a reextração fica diferida. As únicas citações verificadas da Base são as que trazem aparelho de linha (`— SIGLA · original.txt LNNNN`). Censo: `diagnostico/A5-CITACOES-PRE-PORTAO-B-2026-09-14.json`.
 
+- **"Encomenda" dos setianos:** "esses setianos, segundo o que Sofia disse no hipócase [Hipócrates? `[REVISAR → CHANCELA 10/09/2026 · F039-L5: AGUARDA-ÁUDIO (paralelo em RC-009, mesma fala) — ver nota]`], teriam sido encomendados por esse rapazinho [o pai-mãe]... os mais belos gnósticos setianos... seriam uma encomenda, um sonho desse Deus que é imanente a tudo"; [Fonte: P2024-09-28]
+
 ## Citações Verbatim
 
 - **Pleroma como paraíso pré-existente:** "nos livros gnósticos existe pleroma como sendo paraíso... algo já era pré-existente, já existia de todo sempre criado. E lá tem um ser, pai-mãe amantíssimo, também criado"; [Fonte: P2024-09-28]
-
-- **"Encomenda" dos setianos:** "esses setianos, segundo o que Sofia disse no hipócase [Hipócrates? `[REVISAR → CHANCELA 10/09/2026 · F039-L5: AGUARDA-ÁUDIO (paralelo em RC-009, mesma fala) — ver nota]`], teriam sido encomendados por esse rapazinho [o pai-mãe]... os mais belos gnósticos setianos... seriam uma encomenda, um sonho desse Deus que é imanente a tudo"; [Fonte: P2024-09-28]
 
 - **Não se mete:** "esse barbelo não premia nem castiga ninguém, não se mete. Ele deu de si a semente da sua deidade... a partir daí é cada consciência particularizada com suas opções aos mecanismos das leis de causa e efeito"; [Fonte: P2024-09-28]
 

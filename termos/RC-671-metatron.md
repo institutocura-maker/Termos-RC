@@ -61,6 +61,8 @@ Ver transcrição.
 
 - **[P2021-05-08 · A FUNDAÇÃO DE 2021 · O METATRON QUE "NÃO SUPORTOU" — A TRAGÉDIA DOS TRÊS]** "a última tradução mais compreensível seria o Metatron... SUCUMBIU, ELE NÃO SUPORTOU. O Enoque humano morreu lá fora, ficou essa forma clonada de Metatron que nunca [conseguiu]... NÃO CONSEGUIU LEVAR ADIANTE A PERSONALIDADE DE ENOQUE"; "E OS TRÊS CARAS PERDERAM DE VEZ O ACESSO AO CAMPO MÓRFICO HUMANO... O QUE PARA ELES FOI UMA TRAGÉDIA" [⚠️ a tragédia trimurtiana — a perda do acesso ao campo mórfico humano]; o clonado que nunca funcionou; + o elo com a aposta (a RC-489).
 
+- **[P2026-07-30 — FONTE ORIGINAL] O cubo de Metatron (Pergunta 2):** "se a gente for contar essa história envolvendo outros seres e esquecendo a Wyrd... se a gente for falar do cubo de Metatron, que significa 12 funções, aí é que a coisa vai pro espaço e ninguém entende coisa alguma" [contexto; Colecionar Incertezas — "cubo de Metatron = 12 funções"].
+
 ## 3. Hierarquia e Geopolítica
 
 ### Seres Associados
@@ -92,8 +94,6 @@ Consultar Base.
 ## 5. Lentes Curatoriais e Quarentenas
 
 - **O "suicídio" de Enoque [REVISAR — interpretativo → CHANCELA 2026-09-06 · F041-L5: ISOLAMENTO (orfandade 1× no corpus — precedentes Olga/deibir) — ver nota]:** "a urdidura do nosso amigo Enoque, sendo obrigado a se transformar em Metatron e, em algum momento da história, ele lá dentro meio que se suicidou... não suportou, o espírito dele se liberou, esse espírito voltou a nascer" — ligado às revelações progressivas (Kardec → RC). [Fonte: P2025-05-31]
-
-- **[P2026-07-30 — FONTE ORIGINAL] O cubo de Metatron (Pergunta 2):** "se a gente for contar essa história envolvendo outros seres e esquecendo a Wyrd... se a gente for falar do cubo de Metatron, que significa 12 funções, aí é que a coisa vai pro espaço e ninguém entende coisa alguma" [contexto; Colecionar Incertezas — "cubo de Metatron = 12 funções"].
 
 ### Observações
 

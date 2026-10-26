@@ -84,13 +84,13 @@ Anunnakis (RC-024); Marduk (= Ra; Anunnaki filho de Enki) (RC-460); Ninurta (RC-
 
 - **[P2023-10-14 · O SOL COMO VIA DE TRÂNSITO (e não como «o portal»)]** "Quando os caras perceberam isso, eles passaram a usar as estrelas como sendo um tipo de portal natural." (U0041); "E essa invasão tá se dando pelo sol, mas também já está se dando portais." (U0046) — A formulação «o portal é o Sol», aventada na leitura inicial, **não existe na fonte** (retirada documentada em camada-0 §23).
 
+- **Alalu e a descoberta do ouro na Terra:** Alalu "descobriu que aqui tinha ouro... fez uma negociação" que trouxe os filhos de Anu à Terra (~450.000 anos); [Fonte: P2023-12-02]
+
 ## 5. Lentes Curatoriais e Quarentenas
 
 - **[P2021-05-15 · O CONTEXTO ASTRONÔMICO CITADO (com [REVISAR → ENCERRADO 2026-09-06 · F041-L5: RATIFICADO — o cadastro tem primazia; registra-se o processo do autor sem harmonização artificial — ver nota] e quarentena científica)]** "Até pouco tempo atrás, Plutão era um planeta considerado assim pelos cientistas." (U0010); "Saturno e Júpiter com as suas 81 e 72 luas, eu acho cada um deles, respectivamente, acho que os números são esses, a última utilização, a atualização que eu fiz, constantemente se descobre e se atualiza o número de de satélites em torno desse plan." (U0010) — [REVISAR: «nuvem de Earth» ≈ nuvem de Oort; «SEDA» ≈ Sedna. → ENCERRADO 2026-09-06 · F041-L5: RATIFICADO — o cadastro tem primazia; registra-se o processo do autor sem harmonização artificial — ver nota] ⚠️ as luas são dadas como cifra viva pelo próprio autor («constantemente se descobre e se atualiza o número»).
 
 - **[P2021-05-15 · QUARENTENA UFOLÓGICA (a frase que não se amplia)]** "O governo dos Estados Unidos é engraçado, tem a astrônomos aí dizendo que Nibiro não existe e tem grupos de cientistas conversando com a Nunx escondido e que sabe de tudo." (U0010) — [STT: «a Nunx» ≈ os Anunnaki.] Registro apenas.
-
-- **Alalu e a descoberta do ouro na Terra:** Alalu "descobriu que aqui tinha ouro... fez uma negociação" que trouxe os filhos de Anu à Terra (~450.000 anos); [Fonte: P2023-12-02]
 
 ### Observações
 

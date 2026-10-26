@@ -80,6 +80,9 @@ Avatar hindu — na RC, avatar de Vishnu (e correlacionado a Shiva), "pretenso K
 
 - **[Krishna Murti: a figura mais admirada] (U0002)** «Krishna murte é uma das figuras que eu mais admiro em termos de condição humana.» — revelação de opinião pessoal do autor: Krishna Murti é uma das figuras que mais admira em condição humana — "não sei se a sua condição humana sabe o quanto ele brigou em silêncio com a agenda do espírito que o animava"; "Krishnam nasceu para ser uma coisa e se recusou a ser" (grafias STT "Krishna murte"/"Krishnam" = Krishna Murti). [Fonte: P2022-11-26]
 
+- **Krishna (P2024-09-29 — contexto):** a astrologia védica de Parashara como critério de comprovação de avatares ("eu sou avatar de Shiva, eu sou avatar de Vishnu — ninguém podia provar nada"); "Jesus teria que nascer dentro desses critérios para que magos da cultura persa, egípcia... pudessem ver nos astros o anúncio de que alguém importante, um avatar divino, nasceria na Terra".
+- **[P2023-04-30 · A LIGAÇÃO AOS DOIS ESPÍRITOS]** "gestado pelos três [Brahma, Vishnu, Shiva], amparado pelos dois espíritos [o um e o dois], e FAZ A OPÇÃO DE SE LIGAR AO DE SHIVA"; "OS TRÊS ESTÃO CONTIDOS NELE — JÁ QUE ELE É O BRAHMAN E NÃO SÓ BRAHMA."
+
 ## 2. Natureza e Atributos
 
 - **[P6 · Krishna (avatar de Vishnu/Shiva)]** «E esses espíritos, e o espírito aí é esse composto pelo corpo átmico, búdico e manásico, é a tríade imortal a qual Krishna se referia no Uttara Gita. Bhagavad Gita é um livro, Uttara Gita é um outro livro.» (U0985) — candidata de cotejo ampliado; evidência `OIDR26-04-RC-414-001`, grafia literal `Krishna`, sem homologação de pérola.
@@ -121,6 +124,8 @@ Avatar hindu — na RC, avatar de Vishnu (e correlacionado a Shiva), "pretenso K
 - **Proclamação de superioridade:** "Krishna meio que olhou pros três da Trimurti e disse: 'Ei, eu sou maior que vocês'... e os três tiveram que ser devotos, porque Krishna mostrou para eles que tinha mais energia que os três"; [Fonte: P2023-12-02]
 
 - **Devoção criticada (RC-749):** "ser devoto é você não usar a mente, não usar seus potenciais... Krishna foi o único avatar que começou a produzir avatares dele mesmo para engrandecê-lo" (Chaitanya/Hare Krishna; Sai Baba [Sathya Sai Baba] como "continuação" — leitura do autor); [Fonte: P2023-12-02]
+
+- Krishna entre os seres que "enlouqueceram a tal ponto que mesmo produzindo figuras maravilhosas... o ato deles se autoafirmarem... não tem importância nenhuma" (P2024-09-28).
 
 ## 3. Hierarquia e Geopolítica
 
@@ -187,33 +192,26 @@ Avatar hindu — na RC, avatar de Vishnu (e correlacionado a Shiva), "pretenso K
 **Fonte:** palestra «A Quem Pertence o Planeta e a Biblioteca Genômica Mais Atualizada do Universo» (17/03/2024).
 **Trecho verbatim:** «Compreendam quem dominou mesmo a humanidade foi Krishna e seu manual de usuário devocional atuando a partir da Índia. Compreendam quem inventou a devoção aqui na terra foi Krishna há cerca de 4.000 anos atrás. Tudo que veio depois veio com base nisso, em que lá atrás produziu o DNA submisso, mas o devocional que é a lei do submisso, foi Krishna que produziu.»
 
+- **4.000 anos de engrandecimento:** 'o eu do Senhor Parameshthi se torna bem menor e simplório do que o eu de Krishna ao longo dos 4.000 anos'; todos os templos de Brahma sumiram; Krishna criou avatares de si mesmo para engrandecê-lo. [Fonte: P2024-02-25]
+- **Choque de metodologia:** "há um choque de metodologia na maneira como Krishna pretende resolver os problemas acumulados do universo e o que está em curso promovido por Hen-Orl ou Moros" (RC-454); [Fonte: P2023-12-02]
+
 ## 5. Lentes Curatoriais e Quarentenas
 
 - **Geopolítica da devoção:** manipula a epifania; Índia como reino terrestre (18h diárias de adoração); templos bramânicos → vaishnavas. [Fonte: P2026-07-25]
-
-- **4.000 anos de engrandecimento:** 'o eu do Senhor Parameshthi se torna bem menor e simplório do que o eu de Krishna ao longo dos 4.000 anos'; todos os templos de Brahma sumiram; Krishna criou avatares de si mesmo para engrandecê-lo. [Fonte: P2024-02-25]
 
 - **Crítica do autor (quarentena):** "eu percebi maldade em Krishna... eu sinto a vergonha por ti que você deveria sentir"; "Krishna não está à altura do passado dele"; "ele olha para qualquer um de nós como pobres coitados... agem feito carrapatos". [Fonte: P2024-11-30]
 
 - **Castas:** "o sistema de castas lá na Índia seja tido como meio normal de educar as pessoas" (Sai Baba defendia) — quarentena. [Fonte: P2024-11-09]
 
-- **Krishna (P2024-09-29 — contexto):** a astrologia védica de Parashara como critério de comprovação de avatares ("eu sou avatar de Shiva, eu sou avatar de Vishnu — ninguém podia provar nada"); "Jesus teria que nascer dentro desses critérios para que magos da cultura persa, egípcia... pudessem ver nos astros o anúncio de que alguém importante, um avatar divino, nasceria na Terra".
-
 - **[P2023-06-25 · o Q&A]** **A PROPOSTA AOS DEVOTOS**: "Quanto mais você fizer isso, maior será a ligação sua comigo **e Krishna lhe financiarei.** E ele faz isso. Ou seja, não é uma mentira... **Mas o que dizer de um ser humano que vai passar a vida inteira [devoto]? Que tipo de situação esse ser humano vai marcar no seu DNA?**... Jesus disse 'a cada um é dado de acordo com suas obras'. **E será que isso não é um método de apaziguamento?**" [a pergunta que fica] + **as EXPRESSÕES ARETALÓGICAS** ("eu sou a encarnação de Deus, eu sou o ser supremo, eu sou a sustentação de tudo... **os hindus perfeitamente entendem**; nós ocidentais não") + o bhakti: "Krishna e o Quarto Logos são basicamente **as duas vertentes: BHAKTI [a devoção] e o método druída [a decifração da realidade]**"; "eu mesmo impedi o trabalho do Quarto Logos lá na frente" [quarentena biográfica].
 
-- **[P2023-04-30 · A LIGAÇÃO AOS DOIS ESPÍRITOS]** "gestado pelos três [Brahma, Vishnu, Shiva], amparado pelos dois espíritos [o um e o dois], e FAZ A OPÇÃO DE SE LIGAR AO DE SHIVA"; "OS TRÊS ESTÃO CONTIDOS NELE — JÁ QUE ELE É O BRAHMAN E NÃO SÓ BRAHMA."
-
 - **[P2023-04-30 · OS AVATARES DELE]** "o primeiro avatar que começou a CRIAR AVATARES A PARTIR DELE MESMO... SAI BABA FOI O ÚLTIMO"; a promessa das três encarnações (Sai Baba; PREMA SAI = "o senhor Shiva à moda de Krishna"); **OS DOIS MARCADOS NA VIDA DE ROGÉRIO**: "Sai Baba e Prema Sai, um atrás do outro. E DEPENDENDO DO QUE PREMA SAI FAÇA, OU ESSA HISTÓRIA SE ALINHA DE VEZ OU SE DESALINHA DE VEZ" ⚠️ quarentena biomediúnica — registro fenomênico do autor-foco.
-
-- **Choque de metodologia:** "há um choque de metodologia na maneira como Krishna pretende resolver os problemas acumulados do universo e o que está em curso promovido por Hen-Orl ou Moros" (RC-454); [Fonte: P2023-12-02]
 
 - **Ogdóade (RC-609):** Krishna como desdobramento da leitura dos oito princípios (nova aresta). [Fonte: P2023-12-02]
 
 - Leitura do autor (Teologia Comparada) — não endossa violência. [Fonte: P2024-09-28]
 
 - **Batalha Islã × Krishna × orixás:** "houve uma batalha do Islã, de Krishna e dos orixás... o que resta hoje é uma gestão de escombros. É tipo Ragnarök 2" — leitura do autor (quarentena histórico-religiosa/geopolítica); [Fonte: P2025-11-29]
-
-- Krishna entre os seres que "enlouqueceram a tal ponto que mesmo produzindo figuras maravilhosas... o ato deles se autoafirmarem... não tem importância nenhuma" (P2024-09-28).
 
 ### Observações
 

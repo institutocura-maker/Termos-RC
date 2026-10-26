@@ -64,6 +64,8 @@ As Gunas explicam a física da Criação "indevida" associada à mitologia hindu
 
 - **[As três gunas compõem tudo] (U0005)** «Segundo a concepção dos nossos irmãos arianos hindus, existem três gunas que formam ou compõem absolutamente tudo que existe.» — as três gunas (RC-151) 'formam ou compõem absolutamente tudo que existe' — e o que podemos perceber é só 4% da matéria e energia do universo. [Fonte: P2012-02-19]
 
+- Shiva como "reciclagem vinculada à entropia cósmica, vinculada à força tamásica" (reforço de P2023-12-02).
+
 ## 3. Hierarquia e Geopolítica
 
 ### Seres Associados
@@ -83,8 +85,6 @@ Brahma (RC-037); Vishnu (RC-135); Shiva (RC-102).
 - **[B024 p. 38]** no instante da Singularidade, Savna “expressou” Tamas como selo de garantia; a ciência chama isso, “sob um certo aspecto”, de entropia e, “por outro”, de energia escura — mesma **quarentena científica**.
 
 - **[B041 p. 43]** Prajapati / Prabrajna sofria de “inconsistência psíquica” que o autor chama de “doença do primeiro impulso” — **quarentena clínica** (leitura, jamais diagnóstico). Outras Divindades (Mavatna e Savna) tentaram ajustar o projeto na mente dela; Prajapati as expulsou e, na expulsão, a Criação “sugou” o corpo mental, “despedaçando-o”. Brahma diz que “não ‘caiu’… mas que ‘foi empurrado’”.
-
-- Shiva como "reciclagem vinculada à entropia cósmica, vinculada à força tamásica" (reforço de P2023-12-02).
 
 ### Observações
 

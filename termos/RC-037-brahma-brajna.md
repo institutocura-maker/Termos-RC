@@ -133,6 +133,9 @@ Brahma integra a **Trimurti** (com Vishnu e Shiva) e é o **Primeiro Logos** da 
 
 - **[Capila e Buda: o divisor de águas de 2.700 anos] (U0006)** «E mais especificamente, a cerca de 2700 anos para cá, quando um certo divisor de águas, seguramente promovido através de um plano, quando na Índia Capilas Sidart Gautama produziram o Squia e o ismo, dizendo, ó, essa história de Deuses, de religião, esqueçam, tá estragando a vida humana que ainda está no laboratório.» — STT «Capilas» = Capila, «Sidart Gautama» = Siddhartha Gautama (Buda), «Squia e o ismo» = Samkhya e Budismo; o divisor de águas que introduziu o raciocínio crítico (RC-037 Brahma/Trimurti; RC-104). [Fonte: P2022-11-19]
 
+- **[B037 p. 76]** «Chame-me de “Brahma”»; «Estas três personificações jamais se “humanizaram”… Eu não!»; o circuito mental com Vishnu e Shiva depende do nome.
+- o forno de Brahma (Awayen) "nunca funcionou" → Central de Realidades (ver RC-836). [Fonte: P2019-08-25]
+
 ## 3. Hierarquia e Geopolítica
 
 ### Seres Associados
@@ -189,13 +192,9 @@ Javé (RC-001); Vishnu (RC-135); Shiva (RC-102); Mohen So (RC-081); Sophia (RC-0
 
 ## 5. Lentes Curatoriais e Quarentenas
 
-- **[B037 p. 76]** «Chame-me de “Brahma”»; «Estas três personificações jamais se “humanizaram”… Eu não!»; o circuito mental com Vishnu e Shiva depende do nome.
-
 - **[B037 p. 80]** mente de Brahma vinculada à divindade da qual é expressão, «apesar de “adoentada”» — **quarentena clínica**. Energia *rajas*; holografia / colapso quântico = **científica**.
 
 - **[B022 p. 161]** Posfácio (voz de Ellam): «Este ser — Brahma/Javé — me defraudou deliberada e calculadamente em inúmeras situações». Bloco político do mesmo parágrafo **fora**.
-
-- o forno de Brahma (Awayen) "nunca funcionou" → Central de Realidades (ver RC-836). [Fonte: P2019-08-25]
 
 - **Status da evidência:** transcrição automatizada, pré-curada e validada terminologicamente pelo curador; conferir com áudio/obra primária antes de promoção de status. [Fonte: P2022-12-17]
 

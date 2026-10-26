@@ -54,6 +54,9 @@ O livro (18 capítulos) percorre: as teorias da evolução, o "Jogo das Mutaçõ
 
 - **Humanidade salva-criador:** o desfecho do drama exige a terceira via — ninguém salva o humano; o humano (com a RC) resgata o criador caído (seção 4.2). [Fonte: P2023-05-13]
 
+- **[B019 p. 6]** Fórmula do autor: "Nem 'Darwinismo', nem 'Criacionismo': a questão é bem mais séria e controversa!"
+- **[B019 p. 170]** Fecho do cap. 14: "Não existe milagre nem bênçãos vindas de lugar nenhum [...] O que se encontra posto é a 'evolução possível'. Nada mais!"
+
 ## 2. Natureza e Atributos
 
 - **Evolução vertical:** a Evolução Possível se realiza pela elevação de consciência, respiração (RC-166) e despersonificação — não por seleção natural nem por ação divina; [Fonte: P2023-05-13]
@@ -67,10 +70,6 @@ O livro (18 capítulos) percorre: as teorias da evolução, o "Jogo das Mutaçõ
 - **[P2023-12-03 · EVOLUÇÃO POSSÍVEL (TERCEIRA VIA: NEM DARWIN, NEM DEUS) NA FALA DE 03/12/2023]** «A rebelião de Lúcifer agora para ter continuidade seria propositiva.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2023-05-13`); a entrada desta fonte é de **conteúdo**, não de data.
 
 ## 5. Lentes Curatoriais e Quarentenas
-
-- **[B019 p. 6]** Fórmula do autor: "Nem 'Darwinismo', nem 'Criacionismo': a questão é bem mais séria e controversa!"
-
-- **[B019 p. 170]** Fecho do cap. 14: "Não existe milagre nem bênçãos vindas de lugar nenhum [...] O que se encontra posto é a 'evolução possível'. Nada mais!"
 
 - **Quarentena:** IEEA citado no cap. 1 (p. 9) como moldura institucional do autor — **fora da ontologia**. [Fonte: B019]
 

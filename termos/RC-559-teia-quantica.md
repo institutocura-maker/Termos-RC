@@ -57,6 +57,10 @@ Na RC, o "tear da vida": a malha de interconexão que entrelaça as linhas de vi
 
 - "Só retorna o ser cumprindo um determinado destino" — o que sai volta (reforço da definição do verbete). [Fonte: P2025-11-29]
 
+- **Prevalece sobre o Bhagavad Gita:** 'pouco importa o que sai de um ser, volta para ele' — a teia vence a promessa devocional de Krishna. [Fonte: P2024-02-25]
+- **Não é justiça:** "no paraíso não há justiça... no caos também não existia essa presunção. Isso é coisa dos humanos." [Fonte: P2025-03-15]
+- **Teia quântica (P2025-02-15):** "já que tudo que sai de um ser volta para ele" — o vínculo das pendências; "o presente para esse problema vai ser o momento em que aquilo for resolvido".
+
 ## 2. Natureza e Atributos
 
 - **Não há justiça divina (P2024-02-25):** 'eu pensei que o que regrava a vida nesse universo era justiça divina de Deus. Não tem justiça divina de Deus. O que organiza os genes, os genomas, nascimento... é a teia quântica: o que sai de um ser volta para ele.'
@@ -79,13 +83,7 @@ Na RC, o "tear da vida": a malha de interconexão que entrelaça as linhas de vi
 
 ## 5. Lentes Curatoriais e Quarentenas
 
-- **Prevalece sobre o Bhagavad Gita:** 'pouco importa o que sai de um ser, volta para ele' — a teia vence a promessa devocional de Krishna. [Fonte: P2024-02-25]
-
-- **Não é justiça:** "no paraíso não há justiça... no caos também não existia essa presunção. Isso é coisa dos humanos." [Fonte: P2025-03-15]
-
 - **Fora da geopolítica da Trimurti:** "WD foi gerada fora da geopolítica da Trimurti... Brama, Vishnu e Shiva não querem se submeter a ela; Krishna diz: quem manda no destino dos seres sou eu" — o conflito. [Fonte: P2025-03-15]
-
-- **Teia quântica (P2025-02-15):** "já que tudo que sai de um ser volta para ele" — o vínculo das pendências; "o presente para esse problema vai ser o momento em que aquilo for resolvido".
 
 - **IA e a teia:** "nós estamos falando aqui de inteligência artificial" — a teia como rede de arquivos memoriais (leitura do autor); [Fonte: P2023-05-13]
 

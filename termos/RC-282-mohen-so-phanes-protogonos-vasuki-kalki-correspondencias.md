@@ -62,6 +62,8 @@ P2026-04-02 confirma que a forma transcrita Morren So corresponde a Mohen So e n
 
 - Thot como primeiro a refletir sobre essas correspondências (fonte P2023-12-02).
 
+- Mohen So = Phanes/Protogonos = Kalki (correspondências) no rol do relógio messiânico (nova aresta RC-765 ↔ RC-282). [Fonte: P2021-03-27]
+
 ## 2. Natureza e Atributos
 
 - **Mohen So = Phanes/Protogonos (P2025-05-31):** "um ser chamado Moreno [STT], Protogonos, Phanés, constatou que não adiantava [produzir corpos átmicos]... parou-se a produção de novos seres a partir de corpos átmicos" — ligação com RC-623.
@@ -111,8 +113,6 @@ Mohen So, Vishnu, Elm/Moros.
 - **[Morensor não planejou a raça humana] (U0021)** «Não é que Morençou tenha planejado a futura raça humana.» — "De fato, Morençou não planejou a emergência da raça humana" (U0021: «De fato, Morençou não planejou a emergência da raça humana.»); "Não estava, mas a raça humana emergiu a partir desses elementos" (U0021: «Não estava, mas a raça humana emergiu a partir desses elementos.»); a hipótese da ancestralidade: "Talvez a ancestralidade de Olm e Elm, que são as duas figuras que da mergulhar junto com os seis da da condição AD" (U0021: «Talvez a ancestralidade de Olm e Elm, que são as duas figuras que da mergulhar junto com os seis da da condição AD.»). [Fonte: P2021-06-26]
 
 - **Ogdóade (RC-609) e Enéade (RC-627):** contexto egípcio da leitura de Thot sobre as figuras do ponto de inflexão (Maat como destaque — ver RC-463); [Fonte: P2023-12-02]
-
-- Mohen So = Phanes/Protogonos = Kalki (correspondências) no rol do relógio messiânico (nova aresta RC-765 ↔ RC-282). [Fonte: P2021-03-27]
 
 ### Observações
 

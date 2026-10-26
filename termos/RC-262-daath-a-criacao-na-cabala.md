@@ -33,13 +33,15 @@ Daath (Da'at) na Cabala: a sefirá oculta do conhecimento — na leitura da pale
 
 > «Existia uma luz que criou o que não devia, caiu onde não devia e por isso a sua luz se tornou refém. do abismo que ela própria criou.» — P2025-05-31 · `original.txt` L119 · reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte.
 
+## 4. Histórico e Eventos Cósmicos
+
+- Distorção judaica: os judeus mantiveram isso, só que mudaram a história (nacionalismo — Deus mergulhou por causa dos judeus). [Fonte: P2025-05-31]
+
 ## Citações Verbatim
 
 - **Na palestra (P2025-05-31):** na Otz Chim original da Cabala não é uma sefirá — Enoque apresentou a Shimon bar Yochai a Otz Chim com Da'at como um conceito à parte.
 
 - Da'at é o abismo onde essas 10 emanações atuam; só Assiah e Yetzirah são os dois mundos dentro do abismo. [Fonte: P2025-05-31]
-
-- Distorção judaica: os judeus mantiveram isso, só que mudaram a história (nacionalismo — Deus mergulhou por causa dos judeus). [Fonte: P2025-05-31]
 
 - Livro do autor: B013 Tzimtzum (o barulho quântico da queda ou do exílio forçado de uma divindade em sua própria criação).
 

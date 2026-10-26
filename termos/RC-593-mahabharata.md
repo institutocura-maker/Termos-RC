@@ -72,6 +72,8 @@ Vyasa (RC-585); Rishis (RC-586); Rama (avatar de Vishnu) (RC-584)
 
 - **[P2023-06-25 · O FINANCIAMENTO PÓS-MORTE]** "quando a batalha de Kurukshetra acabou... a vitória de Pirro [a explicação: o general romano]... **Krishna financiou a passagem de cada figura que morreu em Kurukshetra pro nível de espiritualidade que tá organizado — porque não era uma guerra de ódio, era uma guerra em torno do cumprimento do Dharma. E Krishna financiou o retorno de todos os seres híbridos para as suas respectivas locas.**"
 
+- **[P2023-06-25 · A PROPOSTA DE SALVAÇÃO — o financiamento]** "Quando no Bhagavad Gita Krishna diz: **'Arjuna, cumpri o teu dharma** — como Rama, antes de mim, cumpriu o dele mesmo perdendo a esposa. O teu é matar os Kurus'... 'o dharma de um kshatriya é preservar a luz. Se para isso for necessário destruir, ele destrói cumprindo o dharma **E ISSO NÃO GERA KARMA. Arjuna, PENSA EM MIM na hora em que estiveres matando — alguém que tu não gerarás karma. PORQUE EU SOU O FINANCIADOR. Eu sou o ser supremo que estou financiando tudo isso. EU SOU O SER POR TRÁS DOS KURUS, POR TRÁS DOS PÂNDAVAS, POR TRÁS DO BEM E DO MAL.**'"
+
 ## 4. Histórico e Eventos Cósmicos
 
 - **[P2021-01-23 — FONTE ORIGINAL] As várias versões (U0799–U0800):** "Vyasa tentou narrar o Mahabharata não através de uma versão, mas criou cinco ou seis versões: uma pros gandarvas que estavam presos lá na lokas deles... outra pros rakshasas... cada família daquela presa lá do universo vizinho, Vyasa escrevia para eles entenderem".
@@ -85,8 +87,6 @@ Vyasa (RC-585); Rishis (RC-586); Rama (avatar de Vishnu) (RC-584)
 - **[P2023-10-14 · O DIÁLOGO DE KRISHNA NO BAGAVAGUITA]** "Então, Krishna no Bagavaguita, que é um dos capítulos do Marabarata, ele explica com outras palavras, porque ele se diz o introdutor do conceito de dharma." (U0020)
 
 ## 5. Lentes Curatoriais e Quarentenas
-
-- **[P2023-06-25 · A PROPOSTA DE SALVAÇÃO — o financiamento]** "Quando no Bhagavad Gita Krishna diz: **'Arjuna, cumpri o teu dharma** — como Rama, antes de mim, cumpriu o dele mesmo perdendo a esposa. O teu é matar os Kurus'... 'o dharma de um kshatriya é preservar a luz. Se para isso for necessário destruir, ele destrói cumprindo o dharma **E ISSO NÃO GERA KARMA. Arjuna, PENSA EM MIM na hora em que estiveres matando — alguém que tu não gerarás karma. PORQUE EU SOU O FINANCIADOR. Eu sou o ser supremo que estou financiando tudo isso. EU SOU O SER POR TRÁS DOS KURUS, POR TRÁS DOS PÂNDAVAS, POR TRÁS DO BEM E DO MAL.**'"
 
 ### Observações
 

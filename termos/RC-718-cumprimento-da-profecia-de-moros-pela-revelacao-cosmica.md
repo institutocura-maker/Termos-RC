@@ -69,9 +69,9 @@ A lista é uma arquitetura da palestra; identidades e cronologias devem permanec
 
 - **O cumprimento em curso:** a distinção reforça o registro existente — a Revelação Cósmica como a revelação das setas (P2023-12-02) e os 256 caminhos de Orunmilá (RC-767) como o compêndio de leitura do "futuro que já se encontra escrito";
 
-## 5. Lentes Curatoriais e Quarentenas
-
 - **Sexta etapa por ocorrer:** "terá que ser feita pelas gerações humanas futuras... sendo esta a única maneira de organizar e minimizar o sofrimento do inevitável trânsito de todos os seres do Orum para a condição humana". [Fonte: P2025-11-29]
+
+## 5. Lentes Curatoriais e Quarentenas
 
 - **Quarentena:** a profetização é apresentada pelo expositor como hipótese cosmológica ligada à teia do destino; não é afirmação de causalidade científica nem de previsão verificável. [Fonte: P2025-07-18]
 

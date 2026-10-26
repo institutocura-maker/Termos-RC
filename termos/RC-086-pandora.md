@@ -164,6 +164,8 @@ Na Revelação Cósmica de Jan Val Ellam, Pandora é a figura que "destravou lac
 
 - **[A beberagem que deturpou a codificação: Pandora ou Eva] (U0008)** «Mas aconteceu um acidente, alguém tomou outra porção líquida, seja Pandora, seja Eva, e essa porção, essa porção líquida, essa beberagem provocou reações químicas que deturparam essa codificação.» — o livro Sorriso de Pandora: "Pandora dois, porque Pandora também vai quando Eu escrevi o livro Sorriso de Pandora" (U0032: «Aí eu digo: "Pandora dois, porque Pandora também vai quando Eu escrevi o livro Sorriso de Pandora.»). [Fonte: P2026-03-21]
 
+- **[B089 p. 106 · o final aberto]** o reencontro com os proto-humanos fica prometido ("Teria de aguardar por mais algum tempo para obter essa resposta!") — a trilogia fecha sem fechar.
+
 ## 5. Lentes Curatoriais e Quarentenas
 
 - **[B020 p. 5–8]** Introdução (Atlan, 17/04/2014 — voz de Ellam): «Por entre risos e lágrimas, Pandora sobreviveu.» Ellam resume o ardil de Zeus / Prometeu / Hefesto e cita Hesíodo (*Os Trabalhos e os Dias*; *Teogonia*) = **referência externa, não ontologia**. «Ela mesmo foi quem construiu o seu psiquismo de primeira mulher-humana, contrariando por completo as expetativas dos deuses do Olimpo.» «Começa, portanto, o fim do seu silêncio!»
@@ -177,8 +179,6 @@ Na Revelação Cósmica de Jan Val Ellam, Pandora é a figura que "destravou lac
 - **[B089 p. 9 · paratexto de Kummer — QUARENTENA INSTITUCIONAL (doutrina de segunda mão)]** "**Ao nascer como um ser assexuado e já pronto para a vida, KADMON, filho da titânide Themis (ou Témis) e de Zeus, o 'Rei do Olimpo', jamais imaginou que se tornaria a primeira mulher da humanidade terrestre**, a grande ancestral que, mais tarde, ficou conhecida como Pandora." (a origem do nome — cross RC-299.)
 
 - **[B089 p. 73–74 · a "propriedade" simulada]** a estratégia de sobrevivência: "**Como poderei... ter um comportamento dessa classe, deixando que me vejam como uma propriedade de alguém?**" (quarentena social/de gênero — a submissão era SIMULADA, e ela a detestava.)
-
-- **[B089 p. 106 · o final aberto]** o reencontro com os proto-humanos fica prometido ("Teria de aguardar por mais algum tempo para obter essa resposta!") — a trilogia fecha sem fechar.
 
 ### Observações
 

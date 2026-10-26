@@ -57,9 +57,13 @@ O diagrama (B051) apresenta os três "nomes completos" Adhy da Trimurti: **ADHYP
 
 - Vishnu ("Virgo") propôs a **Trimurti** e a **Lila** (a constituição): "vamos fazer um trimur aqui... vamos criar em torno dessa tríade... algo que depois passou a se chamar na língua sânscrita, Lila"; [Fonte: P2019-08-25]
 
+- Vishnu engendrou Sophia **junto com** Morren So: "Vishnu, junto com Morren So, engendrou Sophia". [Fonte: P2019-08-25]
+
 ## 2. Natureza e Atributos
 
 - **Contexto acrescentado:** Adhymavatana/Mavatna é aprofundado como face do mesmo espírito ligado a Adhyprabrajna, mais tarde manifestado como Vishnu. [Fonte: P2021-12-04]
+
+- O forno de Vishnu (Awaymaion) = o **segundo** a funcionar; a "Mensagem Talm" codificada nele (ver RC-499); [Fonte: P2019-08-25]
 
 ## 3. Hierarquia e Geopolítica
 
@@ -78,10 +82,6 @@ Vishnu (RC-135); Mohen So (RC-081); Sophia (RC-009); Jesus (RC-072).
 - **Status da evidência:** transcrição automatizada, pré-curada e aprovada quanto à integração terminológica; conferir com áudio/obra antes de promover status. [Fonte: P2021-12-04]
 
 ## 5. Lentes Curatoriais e Quarentenas
-
-- O forno de Vishnu (Awaymaion) = o **segundo** a funcionar; a "Mensagem Talm" codificada nele (ver RC-499); [Fonte: P2019-08-25]
-
-- Vishnu engendrou Sophia **junto com** Morren So: "Vishnu, junto com Morren So, engendrou Sophia". [Fonte: P2019-08-25]
 
 ### Observações
 

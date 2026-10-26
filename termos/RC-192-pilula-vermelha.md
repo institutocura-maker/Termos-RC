@@ -46,6 +46,9 @@ Metáfora da trilogia Matrix incorporada por Jan Val Ellam à linguagem da RC: o
 
 - **Faixas de realidade:** as pílulas revelam as faixas definidas × improvisadas (ver RC-702). [Fonte: P2023-05-13]
 
+- **[B044 p. 30]** deixar o “paraíso da robotização”, da “pílula azul” (Matrix), da “crença infantilizada, feita verdade”.
+- **[P2023-07-30 · a caverna]** "isso aqui ainda é **a caverna de Platão**: a gente só vê o que pode ver, porque o que a gente pode ver já tá determinado por quem de fora obriga que você veja — **você só tá vendo as sombras da caverna.**" (cross o "oculto que se torna evidente" de Jesus.)
+
 ## 2. Natureza e Atributos
 
 - **Pílula vermelha (P2025-02-15):** "a pílula azul é aquela que nos deixa agradável dentro do caos; a pílula vermelha desperta a gente para a consciência de que está no caos. E a partir daí é com o livre arbítrio, ou com o grau de inquietação ou de inconformismo de cada um."
@@ -62,6 +65,8 @@ Metáfora da trilogia Matrix incorporada por Jan Val Ellam à linguagem da RC: o
 
 - **Especiação e novas proteínas:** a consciência "Doravante vai ser obrigada a tomar" muitas e inúmeras pílulas — o despertar é contínuo, ligado à produção das novas proteínas (RC-056); [Fonte: P2023-05-13]
 
+- **[B044 p. 157]** a “pílula vermelha” convida à maturidade emocional, “aspecto primário da idade adulta espiritual” (fecho da entrevista; **não** ontologizar o fecho institucional).
+
 ## 3. Hierarquia e Geopolítica
 
 - **Pílula vermelha (P2025-03-15):** "saber disso é tomar a pílula vermelha. Vocês estão ferrados." — o despertar para a rebelião dos elétrons; "vão sair daqui ficando pensando nisso... pra maioria da humanidade isso aqui é loucura".
@@ -70,13 +75,7 @@ Metáfora da trilogia Matrix incorporada por Jan Val Ellam à linguagem da RC: o
 
 ## 5. Lentes Curatoriais e Quarentenas
 
-- **[B044 p. 30]** deixar o “paraíso da robotização”, da “pílula azul” (Matrix), da “crença infantilizada, feita verdade”.
-
-- **[B044 p. 157]** a “pílula vermelha” convida à maturidade emocional, “aspecto primário da idade adulta espiritual” (fecho da entrevista; **não** ontologizar o fecho institucional).
-
 - Uso analógico (Matrix) — **não** termo técnico nem hipótese de simulação. IEEA/Orbum **fora**. [Fonte: B044]
-
-- **[P2023-07-30 · a caverna]** "isso aqui ainda é **a caverna de Platão**: a gente só vê o que pode ver, porque o que a gente pode ver já tá determinado por quem de fora obriga que você veja — **você só tá vendo as sombras da caverna.**" (cross o "oculto que se torna evidente" de Jesus.)
 
 ### Observações
 

@@ -61,6 +61,8 @@ Na cosmologia de Ellam, a capacidade filosófica humana — apresentada como "ca
 
 - **[A razão filosófica, dádiva do homo sapiens] (U0005)** «Nós Somos, apesar de miseráveis, uma das poucas raças no cosmos, com a razão filosófica desperta para o bem e, infelizmente, para o mal, mas com razão filosófica desperta.» — somos 'uma das poucas raças no cosmos, com a razão filosófica desperta' (RC-231) — para o bem e para o mal, algo que as civilizações cósmicas valorizam imensamente. [Fonte: P2012-02-19]
 
+- **[B033 p. 192]** CONSTATAÇÃO: os terráqueos podem ser «um protótipo melhorado»; a «maior surpresa» foi a «razão filosófica» que os humanos passaram a apresentar.
+
 ## 3. Hierarquia e Geopolítica
 
 - **[B049 p. 122–123]** a razão filosófica do «homem Jesus» impede o aprisionamento no papel destinado por Javé; só com a idade ela confronta a fé da família, dos apóstolos, do povo e do próprio Javé.
@@ -76,8 +78,6 @@ Na cosmologia de Ellam, a capacidade filosófica humana — apresentada como "ca
 - **[P2024-07-14] Unidades:** U0495–U0539.
 
 - **[B033 p. 191]** cap. 18 *A Surpresa de Javé: a Razão Filosófica dos Terráqueos*: o universo «há cerca de 13,7 bilhões de anos»; a humanidade «há cerca de duzentos mil anos» — **quarentena científica**.
-
-- **[B033 p. 192]** CONSTATAÇÃO: os terráqueos podem ser «um protótipo melhorado»; a «maior surpresa» foi a «razão filosófica» que os humanos passaram a apresentar.
 
 ### Observações
 

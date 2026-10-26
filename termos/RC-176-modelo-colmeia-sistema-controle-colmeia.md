@@ -70,6 +70,8 @@ O modelo colmeia **já vigia entre Javé e os seus anjos-clones no universo anti
 
 - **Equação magna:** "os esforços convergindo para o resultado que essa é a equação magna do problema que a gente vive... cada ser humano é levado ao padrão da sua consciência"; "qual é o meu salário de abelha operária? Nenhum, cara. Só quem tem salário aqui é a abelha rainha"; [Fonte: P2023-05-13]
 
+- **Singularidade humana:** "um ser humano sozinho pode fazer coisas que... um cupim, uma abelha, que sozinhos não fazem nada. Mas uma sociedade de seres humanos pode fazer pra cacete" — o potencial humano difere da colônia; [Fonte: P2023-05-13]
+
 ## 3. Hierarquia e Geopolítica
 
 - **[P2024-07-13] O sistema colmeia falindo (U1400–U1420):** "compreenda: uma abelha rainha com suas abelhas operárias convivem do mesmo jeito que Javé sempre conviveu com os anjos clones. Um manda, o resto obedece... esse resto aqui nem tem individuação, eles são só robôs"; "por que é que o sistema colmeia está falindo no nosso mundo? Porque o sistema colmeia faliu lá: a Trimurti colapsou também. Então, Javé lidava com os anjos de um jeito; como isso aqui faliu, o sistema que vem importado de lá para cá, para criar vida biológica, o mesmo sistema faliu no lado de cá. E vários sistemas estão falindo nos dois lugares"; "é preciso nós aprendermos a reconstruir ou construir outros novos sistemas... de interação, de convivência, de coexistência de seres vivos".
@@ -89,6 +91,8 @@ O modelo colmeia **já vigia entre Javé e os seus anjos-clones no universo anti
 ### Sistema Operacional Colmeico-Clone / P2024-11-30
 
 O modelo é explicitado como um ser alfa/abelha-rainha comandando clones/operárias sem individualidade. A estrutura Javé–anjos clones teria sido exportada para espécies e sociedades. “Sistema Operacional Colmeico-Clone” foi absorvido nesta ficha.
+
+- **Sofia como "abelha rainha":** "um monte de civilizações que obedece Sofia, mas obedece porque a Sofia é a abelha rainha, ou seja, é o velho sistema colmeico que funciona entre eles" — o modelo colmeico aplicado ao séquito de Sophia (RC-009; RC-175); [Fonte: P2021-03-27]
 
 ## 4. Histórico e Eventos Cósmicos
 
@@ -114,14 +118,10 @@ O modelo é explicitado como um ser alfa/abelha-rainha comandando clones/operár
 
 - **Contexto acrescentado:** O STT “sistema colbaico” foi interpretado como Sistema Colmeia: modelo atávico em que os Adhy mandam e os demais funcionam sob lógica de abelha-rainha. [Fonte: P2021-12-04]
 
-- **Singularidade humana:** "um ser humano sozinho pode fazer coisas que... um cupim, uma abelha, que sozinhos não fazem nada. Mas uma sociedade de seres humanos pode fazer pra cacete" — o potencial humano difere da colônia; [Fonte: P2023-05-13]
-
 ### Quarentena
 
 ### Quarentena
 
 A crítica à colmeia/ditadura e a menção ao imperador japonês como "abelha rainha" são **leituras do autor** (quarentena político/geopolítico) — não viram ontologia.
-
-- **Sofia como "abelha rainha":** "um monte de civilizações que obedece Sofia, mas obedece porque a Sofia é a abelha rainha, ou seja, é o velho sistema colmeico que funciona entre eles" — o modelo colmeico aplicado ao séquito de Sophia (RC-009; RC-175); [Fonte: P2021-03-27]
 
 ## 6. Histórico Curatorial e Auditoria

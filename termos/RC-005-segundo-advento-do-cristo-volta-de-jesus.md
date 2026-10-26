@@ -50,6 +50,9 @@ A promessa da volta de Jesus (Segunda Vinda) — na leitura da RC, ligada à pro
 
 - **[P2023-12-03 · SEGUNDO ADVENTO DO CRISTO (VOLTA DE JESUS) NA FALA DE 03/12/2023]** «aí ele vem porque não tem outra opção.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-18`); a entrada desta fonte é de **conteúdo**, não de data.
 
+- **«Retorno»** [Fonte: P2023-12-25]
+- O título da própria aula 02 («…e a Promessa do Retorno») e o verbatim da apostila ecoam o **Segundo Advento** — o prometido retorno na condição do Cristo Cósmico. [Fonte: P2023-12-25]
+
 ## 2. Natureza e Atributos
 
 - **[B011 p. 5]** as três individualidades "afirmaram aqui se encontrar em missão de apoio nestes dias que antecedem o que eles anunciam como sendo o prometido retorno do Mestre Jesus".
@@ -75,6 +78,8 @@ A promessa da volta de Jesus (Segunda Vinda) — na leitura da RC, ligada à pro
 - **[Selos, trombetas e taças] (U0010)** «Ele coloca que entre a sexta e a sétima trombeta, ou seja, isso aqui seria a penúltima trombeta, que é exatamente essa que a gente acabou de ver com os tanques de guerra.» — a estrutura do Apocalipse (RC-005): sete selos, sete trombetas, sete taças — 'entre a sexta e a sétima trombeta' os 'decretos do pequeno livro aberto'; a sétima anuncia a vinda de Sofia. [Fonte: P2025-05-10]
 
 - **[Segundo Advento — Sofia, não o espírito de Jesus]:** «Depois disso é a chegada dele, dele quem? Sofia nos termos do Apocalipse. Mas aí já não era o espírito de Jesus aparecendo ressuscitado. Era Sofia, que é um ser biológico da nave dele se projetando com tecnologia e seus anjos aparecendo para alguns humanos.» — ver RC-274 (Cápsula do Tempo), RC-009 (Sophia). [Fonte: P2024-03-02]
+
+- **[B014 p. 145]** a “forma cósmica de Jesus” que se apresentará “não seja o ‘Jesus efusivo e bem-humorado’ que muitos corações humanos endeusaram.”
 
 ## 3. Hierarquia e Geopolítica
 
@@ -108,19 +113,14 @@ A promessa da volta de Jesus (Segunda Vinda) — na leitura da RC, ligada à pro
 
 - **[P2023-12-03 · A POSSE QUE NÃO HOUVE]** «Sabe aquela cerimônia de posse nunca houve.» (U0004) — D-6: a segunda vinda é lida pela fonte como **cerimônia de posse retida**, não como atraso. «posse» é metáfora de investidura no glossário, nunca rito histórico, e nenhuma relação de fundamento é aberta por esta entrada.
 
+- E nós estamos vivendo os dias em que só falta o sétimo anjo tocar a sétima trombeta (B004 A Sétima Trombeta do Apocalipse); humor do autor: a torcida do Corinthians vai fazer gol... mas Sofia chega, é maluco.
+- **[B011 p. 34]** Jesus a João: "era necessário que os fatos acontecessem conforme a escolha das pessoas que tinham relação com sua vida, para que a responsabilidade dos que vivem nesta morada fosse preservada e mais tarde requerida para ajudar-Lhe quando de Sua volta".
+- **[B016 p. 125]** a volta “dar-se-á nos moldes anunciados”; Sophia “cumprirá o que a sua forma humana de Jesus revelou.”
+- **[B009 p. 353]** Posfácio: «a última promessa feita pelo próprio Mestre, referente ao seu retorno»; «estamos vivendo o momento em que essa promessa há de se cumprir»; «os tempos profetizados estão chegados» — anúncio, não calendário.
+
 ## 5. Lentes Curatoriais e Quarentenas
 
-- E nós estamos vivendo os dias em que só falta o sétimo anjo tocar a sétima trombeta (B004 A Sétima Trombeta do Apocalipse); humor do autor: a torcida do Corinthians vai fazer gol... mas Sofia chega, é maluco.
-
-- **[B011 p. 34]** Jesus a João: "era necessário que os fatos acontecessem conforme a escolha das pessoas que tinham relação com sua vida, para que a responsabilidade dos que vivem nesta morada fosse preservada e mais tarde requerida para ajudar-Lhe quando de Sua volta".
-
-- **[B014 p. 145]** a “forma cósmica de Jesus” que se apresentará “não seja o ‘Jesus efusivo e bem-humorado’ que muitos corações humanos endeusaram.”
-
-- **[B016 p. 125]** a volta “dar-se-á nos moldes anunciados”; Sophia “cumprirá o que a sua forma humana de Jesus revelou.”
-
 - **[B042 p. 95]** *A Volta do Mestre*: “Afinal, Jesus voltará? Quando? De que modo?” — pergunta, não calendário. Leituras protestante / católica / espírita = **teologia comparada**, não ontologia.
-
-- **[B009 p. 353]** Posfácio: «a última promessa feita pelo próprio Mestre, referente ao seu retorno»; «estamos vivendo o momento em que essa promessa há de se cumprir»; «os tempos profetizados estão chegados» — anúncio, não calendário.
 
 - **[B009 p. 353]** «o Mestre Jesus possa voltar à Terra na sua condição de ser cósmico extraterreno» — **quarentena ufológica** (leitura, jamais fato).
 
@@ -137,10 +137,6 @@ A promessa da volta de Jesus (Segunda Vinda) — na leitura da RC, ligada à pro
 - **[P2020-07-04 · O APOCALIPSE DITADO — o roteiro da vinda]** "O HOMEM JESUS DISSE: 'EU VOLTO — não como homem, mas volto na minha condição celeste de HOCHMAH ou Sofia'... O homem morreu cerca de 100 ANOS DEPOIS. SOFIA RESOLVEU PEGAR JOÃO, O APÓSTOLO EVANGELISTA — O ÚNICO QUE TAVA VIVO AINDA — E DITAR PARA ELE O APOCALIPSE, confirmando que ele, Sofia, que foi dele que Jesus saiu para existir como ser humano, estava confirmando que IRIA CUMPRIR A PROFECIA OU A PROMESSA QUE O SEU AVATAR HUMANO HAVIA FEITO... Jesus não soube sinalizar quando ele voltaria. ENTÃO SOFIA FEZ O APOCALIPSE PARA MOSTRAR QUANDO ELE VOLTARIA"; "SE VOCÊ PEGAR O APOCALIPSE NO SEU PRIMEIRO VERSÍCULO... VOCÊ VÊ JOÃO DIZENDO QUE ESTAVA RECEBENDO UMA REVELAÇÃO POR ORDEM DE DEUS DADA A JESUS CRISTO. E ESTE, POR SUA VEZ, MANDOU UM ANJO DELE COMUNICAR A ELE, JOÃO... QUEM CONVERSOU COM JOÃO... NÃO FOI DEUS, NEM JESUS, NEM SOFIA — FOI UM ANJO DE SOFIA" [a leitura do primeiro versículo!]; **A SÉTIMA TROMBETA**: "só falta dentro do que foi mostrado no Apocalipse o sétimo anjo tocar a sétima trombeta — QUE DE FATO JÁ TOCOU... A SÉTIMA TROMBETA ENTRE ELES JÁ FOI TOCADA HÁ 4 ANOS ATRÁS NUMA COISA DELES QUE NINGUÉM AQUI NA TERRA SABE"; **O CAPÍTULO 11 EM ABERTO**: "COMO EU NÃO ACEITEI TAL TAREFA, O QUE ESTAVA DETERMINADO NO APOCALIPSE, NO CAPÍTULO 11, FICOU ABSOLUTAMENTE EM ABERTO depois da morte das testemunhas — exatamente porque ELES NÃO SABIAM O QUE COLOCAR, eles previam só uma certa sequência de acontecimentos" ⚠️ biomediúnica; "é como se alguém tivesse soprado a trombeta, MAS A B*** TAVA UM POUCO ENTUPIDA... não saiu o toque direito"; **A CERTEZA**: "A VINDA DE SOFIA NÃO É UMA QUESTÃO DE SE — É SÓ DE QUANDO... na tesitura dos fatos, no estudo dos vaticínios... É ALGO QUE ESTÁ ALI MARCADO, JÁ FAZ PARTE DA INTERIORIZAÇÃO DOS ATORES... é um destino, entre aspas, JÁ FECHADO"; **OS 18.000 ANOS**: "a partir daquele instante [o início do ano 2000], ao longo dos próximos 18.000 ANOS... seria definido o rumo dos outros bilhões de anos da obra universal" [a janela]; "JAVÉ SE ENGANOU INGENUAMENTE DIZENDO QUE AQUILO ERA O JUÍZO FINAL. MAS NÃO É: AQUILO É A CICATRIZAÇÃO DA PODRIDÃO DELE... num certo nível em que os humanos podem suportar para continuar a levar esse DNA em frente. ENTÃO ELE TEM QUE VIR. Não é nem porque Jesus prometeu... É POR NECESSIDADE DO CRIADOR."
 
 - **[Antes e depois da divisão do comando] (U0005)** «Os mentores cósmicos afirmam que a história deste universo, dentro em pouco, será dividida em dois momentos, o antes da divisão do comando e o depois da divisão do comando.» — a história do universo será dividida em 'o antes da divisão do comando e o depois da divisão do comando' — a vinda de Jesus (RC-005) será o divisor de águas. [Fonte: P2012-02-19]
-
-- **«Retorno»** [Fonte: P2023-12-25]
-
-- O título da própria aula 02 («…e a Promessa do Retorno») e o verbatim da apostila ecoam o **Segundo Advento** — o prometido retorno na condição do Cristo Cósmico. [Fonte: P2023-12-25]
 
 ## 6. Histórico Curatorial e Auditoria
 

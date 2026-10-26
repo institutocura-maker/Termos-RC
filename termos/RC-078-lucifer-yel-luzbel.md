@@ -88,6 +88,9 @@ Yel Luzbel é o protagonista negativo-positivo do drama cósmico: sua inquietaç
 
 - **[Lúcifer reconstituído no corpo físico] (U0006)** «Então, ele foi reconstituído no corpo físico que ele tinha antes como biodemo.» — após a crucificação, o espírito de Jesus recolheu Elusbell (Lúcifer, RC-078), que foi 'reconstituído no corpo físico que ele tinha antes como biodemo' — algo parecido com o que foi feito com Enoque (RC-489), numa forma 'metatrônica' (RC-671). [Fonte: P2023-08-27]
 
+- **[B058 p. 30]** o efeito sobre as plateias: "parecia que estávamos **hipnotizados pelo seu magnetismo pessoal**!"; "Você, Luzbel, **cresce em tamanho e força quando fala** sobre estes assuntos." (relato da equipa de pesquisa.)
+- **[B058 p. 58]** "Tenho de confessar que estava com o **'ego inflamado'**, como diz esta escritora."
+
 ## 3. Hierarquia e Geopolítica
 
 - **[B018 p. 68]** NAT: Yel Luzbel «hoje se encontra em vivência isolada e fora deste contexto»; os biodemos rebelados só perceberam o «fator Javé» por trás do problema com Sophia ao monitorar a relação de Javé com «este escrevente» (2006–2017).
@@ -114,27 +117,20 @@ Yel Luzbel é o protagonista negativo-positivo do drama cósmico: sua inquietaç
 
 - **Fonte:** palestra *O Incompreendido Ano de 2012 e a Falsa Noção do Fim do Mundo* — unidades U0125–U0156. [Fonte: P2022-12-17]
 
+- **[B057 p. 43]** "O problema tinha se iniciado, e eu estava a ser o **veículo disseminador** de tudo aquilo. O que não tem remédio, remediado está! – diz esta escritora."
+- **[B057 p. 58/61 · a "pólvora" à família Mion]** "E eu, fui 'aquele' que lhes deu a **'pólvora' certa para fazerem 'explodir'**, neles próprios, esse tipo de comportamento" (p. 61; ver RC-074/RC-443).
+- **[B057 p. 62 · a "redenção"]** "cabe-me ajudá-los! E o farei para que eu possa, em algum momento, **redimir-me diante de mim mesmo**. Esse é o objetivo que pretendo alcançar."
+- **Contexto acrescentado:** A fala distingue a chegada antiga da Família Val da instalação posterior de Lúcifer/Mastlans na Terra, em torno de 98–100 mil anos, e relaciona esse fato à ancoragem trimurtiana. [Fonte: P2022-12-17]
+
 ## 5. Lentes Curatoriais e Quarentenas
 
 - **[B017 p. 5]** a narrativa «não pertence à autoria intelectual deste escrevente», e sim a «um autor situado em um outro contexto». **Quarentena mediúnica.**
 
 - **[B039 p. 6]** Esclarecimentos (Atlan, 29/08/2018 — bloco **novo**, não o de B017/B018): Ellam descortinou o contexto da «rebelião» creditada a Yel Luzbel, os problemas de Sophia e a função dos «Processadores» (notadamente o da família Val). Val Eno = «autor real» da Parte I — **quarentena mediúnica**.
 
-- **[B057 p. 43]** "O problema tinha se iniciado, e eu estava a ser o **veículo disseminador** de tudo aquilo. O que não tem remédio, remediado está! – diz esta escritora."
-
-- **[B057 p. 58/61 · a "pólvora" à família Mion]** "E eu, fui 'aquele' que lhes deu a **'pólvora' certa para fazerem 'explodir'**, neles próprios, esse tipo de comportamento" (p. 61; ver RC-074/RC-443).
-
 - **[B057 p. 45 · fase revoltada, autoqualificada]** "Eu estava **contaminado com tantas ideias equivocadas** que já não atinava com nada!" — o próprio livro qualifica a voz dos caps. 5–7 como leitura do ser em revolta (O-7).
 
-- **[B057 p. 62 · a "redenção"]** "cabe-me ajudá-los! E o farei para que eu possa, em algum momento, **redimir-me diante de mim mesmo**. Esse é o objetivo que pretendo alcançar."
-
-- **[B058 p. 30]** o efeito sobre as plateias: "parecia que estávamos **hipnotizados pelo seu magnetismo pessoal**!"; "Você, Luzbel, **cresce em tamanho e força quando fala** sobre estes assuntos." (relato da equipa de pesquisa.)
-
-- **[B058 p. 58]** "Tenho de confessar que estava com o **'ego inflamado'**, como diz esta escritora."
-
 - **[B058 p. 36–37]** a insubordinação formal: anuncia pelo Processador Yel que não comparecerá à assembleia do Conselho; "cheguei à conclusão de que **o tempo da minha submissão havia acabado!**"; insere "o 'germe da divisão' no contexto da 'família Yel'".
-
-- **Contexto acrescentado:** A fala distingue a chegada antiga da Família Val da instalação posterior de Lúcifer/Mastlans na Terra, em torno de 98–100 mil anos, e relaciona esse fato à ancoragem trimurtiana. [Fonte: P2022-12-17]
 
 - **Status da evidência:** transcrição automatizada, pré-curada e validada terminologicamente pelo curador; conferir com áudio/obra primária antes de promoção de status. [Fonte: P2022-12-17]
 

@@ -37,6 +37,10 @@ Com isso:
 - as fontes já registradas no cadastro são `B031`, `P2018-12-15`.
 **Origem do conteúdo da ampliação:** palestra `P2018-12-15 — Terra Atlantis – Aprofundamento` (15/12/2018). Transcrição automatizada, **não conferida com o áudio**; cada aspa foi recortada do `original.txt` pelo índice de âncoras do motor e conferida byte a byte pelo portão B. Nada foi digitado de memória.
 
+## 4. Histórico e Eventos Cósmicos
+
+- **[B017 — mensagem dos rebeldes]** "A mensagem dos rebeldes forçou-nos também a destruir 'asphezian'."
+
 ## Citações Verbatim
 
 - **[Aspesian aportou em Zian/Capela] (U0023)** «Essa na Tuto, ou seja, Aspesian, havia portado no planeta Zan, que é um dos planetas em torno que se chama de Capela, h cerca de 270 milhões de anos, trazendo um pequeno número de seres que se representantes do preposto universal que edificaram aquela nave com vistas a objetivos que não poderiam ser naquela época compreendidos.» — Asphezian (STT 'Aspesian', RC-025): a nave que aportou no planeta Zan (Capela) há ~270 M anos, onde depois os Vol foram engendrados em casulos. [Fonte: P2018-12-15]
@@ -52,8 +56,6 @@ Com isso:
 - **[B018 — sucateamento]** "a difícil decisão em torno da inevitabilidade de sucatear primeiro a nave 'Espherian' e, se necessário, 'Asphezian' em seguida, para construir bases sediadas no planeta. A nave 'Espheron' permaneceria atuante."
 
 - **[B018 — desconstrução]** "pôr em prática a decisão tomada há milénios de desconstruir totalmente 'Aspheziam' [sic]"; Espheron foi poupada e virou casa móvel na Experiência Gron.
-
-- **[B017 — mensagem dos rebeldes]** "A mensagem dos rebeldes forçou-nos também a destruir 'asphezian'."
 
 - **[Antlar (RC-022)]** rel sem aresta; passagem explícita da conversão do casco em Antlar não localizada em B017/B018 — sem aresta (aguarda evidência). B017/B018 não constam do cadastro de RC-025 (só B031 e P2018-12-15, esta sem pasta no acervo).
 

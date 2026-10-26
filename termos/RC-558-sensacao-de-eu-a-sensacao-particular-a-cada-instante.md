@@ -46,6 +46,8 @@ Definição central da palestra: 'a sensação particular que você sente a cada
 
 - O eu humano profundo deve ser despertado pela vontade dele mesmo e observar o eu imediato (primeiro impulso). [Fonte: P2024-02-25]
 
+- **Sensação de eu (P2025-02-15):** "o que cada um de nós pensa ser, o que cada um de nós acha que é... isso é só um estágio, é só uma etapa no processo de uma obra que foi iniciada"; "ser um ser humano não é isso que nós estamos certos".
+
 ## 2. Natureza e Atributos
 
 - Quando o corpo morre, o espírito 'coleciona, puxa, escaneia todas as sensações que definiram aquele eu'; a sensação continua existindo. [Fonte: P2024-02-25]
@@ -54,15 +56,13 @@ Definição central da palestra: 'a sensação particular que você sente a cada
 
 - **[Componente humana 7-8% — dignidade, não equilíbrio]:** «Eu queria perguntar sobre a componente humana que você falou que precisaria ainda ser desenvolvida para ajudar Jesus. Tem a ver com essa pacificação mental que a gente precisa?» — «Não, não tem a ver com dignidade, dignidade. Você pode até ser inquieto, ser desequilibrado, mas se você fodesse com seu padrão de integridade pessoal, você consegue modificar o genoma no padrão que é necessário para isso. Não é só equilíbrio, ser bonzinho; tem que ter ousadia, dignidade.» — ver RC-722 (Dignidade), RC-072 (Jesus). [Fonte: P2024-03-02]
 
+- 'Se a sensação for uma merda, o eu adentra uma nova situação existencial se sentindo um merda' — gerir sensações como tarefa existencial. [Fonte: P2024-02-25]
+
 ## 3. Hierarquia e Geopolítica
 
 ## 4. Histórico e Eventos Cósmicos
 
 ## 5. Lentes Curatoriais e Quarentenas
-
-- 'Se a sensação for uma merda, o eu adentra uma nova situação existencial se sentindo um merda' — gerir sensações como tarefa existencial. [Fonte: P2024-02-25]
-
-- **Sensação de eu (P2025-02-15):** "o que cada um de nós pensa ser, o que cada um de nós acha que é... isso é só um estágio, é só uma etapa no processo de uma obra que foi iniciada"; "ser um ser humano não é isso que nós estamos certos".
 
 ### Observações
 

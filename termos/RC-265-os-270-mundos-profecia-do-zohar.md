@@ -46,8 +46,6 @@ A profecia conecta-se ao Juízo Final (na cultura cristã, relacionado ao retorn
 
 ## Citações Verbatim
 
-- **Parameshthi (P2026-07-25):** "o senhor Brahma Parameshthi... cerca de 270 mundos que observam o que se passa na Terra" (Vyasa/Mahabharata) — alinhado ao registro do Zohar (RC-265).
-
 - **[B013 p. 10]** profecia VAYEHI 21, 8B-9A: o mensageiro será ouvido “nos 270 mundos da Criação.”
 
 - **[B013 p. 12]** os livros da Revelação Cósmica “estão sendo produzidos exatamente para chamar a atenção dos ‘270 mundos’ (‘moradas’ ou ‘lokas’) diretamente envolvidos com os problemas mal resolvidos do passado imemorial.”
@@ -67,6 +65,8 @@ A profecia conecta-se ao Juízo Final (na cultura cristã, relacionado ao retorn
 ### Seres Associados
 
 Kether/Javé (RC-261); Shimon Bar Yochai (RC-266); Jan Val Ellam (RC-071, mensageiro da RC).
+
+- **Parameshthi (P2026-07-25):** "o senhor Brahma Parameshthi... cerca de 270 mundos que observam o que se passa na Terra" (Vyasa/Mahabharata) — alinhado ao registro do Zohar (RC-265).
 
 ## 5. Lentes Curatoriais e Quarentenas
 

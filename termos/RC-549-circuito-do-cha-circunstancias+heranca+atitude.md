@@ -41,6 +41,8 @@ Ellam contrapõe o "circuito do CHA" à "vontade de progredir": quem não desper
 > "Vivenciar o 'circuito do CHA' se refere ao fato das 'circunstâncias da vida' ou os seus aparentes acasos despertarem a 'herança' dos hábitos e habilidades do Espírito encarnado... Assim, a sigla 'CHA' foi elaborada a partir das letras iniciais das expressões: Circunstâncias da vida; 'Herança espiritual' (hábitos e habilidades espirituais); Atitude mental/espiritual." — B074, p. 46
 > "Caso a 'vontade de progredir' se encontre ausente no psiquismo pessoal... somente lhe resta se tornar um personagem ou 'vítima' do circuito da vida, que eu denomino de 'circuito do CHA' ou o 'império das circunstâncias'." — B074, p. 46
 
+- **[B074 p. 158]** o karma (Kapila: "questão de ressonância, e não de fatalidade") = "a lei da ação e reação, de causa e efeito que rege os caminhos do 'circuito do CHA'" = "o resgate de um 'banco de arquivos' produzidos pelas nossas atitudes mentais".
+
 ## Citações Verbatim
 
 - **[B074 pp. 46–47]** definição do acrônimo: **C** = Circunstâncias da vida; **H** = "Herança espiritual" (hábitos e habilidades espirituais); **A** = Atitude mental/espiritual. Sinônimo "império das circunstâncias"; o "aparente acaso, inerente às circunstâncias da vida"; o "Eu piloto automático" vive o circuito (a "chave" do progresso pessoal transferida para as situações).
@@ -48,8 +50,6 @@ Ellam contrapõe o "circuito do CHA" à "vontade de progredir": quem não desper
 - **[B074 pp. 47–48]** exemplo do "chato": arquivos de existência passada abrem-se imediatamente na vida nova (50 anos depois, "nunca se visto antes"); "orai e vigiai" = "prudência emocional e atitudinal"; "botão psíquico" acionado pela vontade pessoal vs. "livre-arbítrio de momento".
 
 - **[B074 pp. 50–51]** "**samsara**": "o ciclo contínuo de reencarnações sempre em torno das mesmas questões", com o "mais do mesmo" da "coleção" de arquivos "algo 'infectada'" — vocabulário da obra (sem código, O-3). "Soberania espiritual" vs. "império das pseudorrealidades"; "rebanho humano".
-
-- **[B074 p. 158]** o karma (Kapila: "questão de ressonância, e não de fatalidade") = "a lei da ação e reação, de causa e efeito que rege os caminhos do 'circuito do CHA'" = "o resgate de um 'banco de arquivos' produzidos pelas nossas atitudes mentais".
 
 ## 3. Hierarquia e Geopolítica
 

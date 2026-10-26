@@ -53,11 +53,15 @@ A encarnação de Apolônio marca a atuação do Quarto Logos no mundo: sua mens
 
 - **Apolônio e o conhecimento de Thot:** "quando Apolônio de Tiana viveu, foi a mesma época de Jesus... o conhecimento de Thot no âmbito da cultura judaico-semítica e greco-romana já estava travestido da face da teurgia, ou seja, da magia. Já não era o dos iniciados"; [Fonte: P2023-12-02]
 
+- **Contexto acrescentado:** Apolônio de Tiana é reafirmado como única encarnação humana de Olm, contemporânea de Jesus e descrita em O Quarto Logos. [Fonte: P2021-12-04]
+
 ## 2. Natureza e Atributos
 
 - **[B016 p. 147]** Apolônio = atuação da consciência do Quarto Logos; contemporâneo de Jesus; “encarnação-teste” — “não dele, nem do seu ego humano”, mas de um dos métodos do codificador.
 
 - **[P2024-11-03 · O NÃO-CRUZAMENTO COM JESUS]** "ELE TENTOU IR AO ORIENTE MÉDIO, FOI, MAS SÓ QUE ELE E JESUS NÃO CRUZARAM, QUE EU SAIBA, MAS AINDA É UM MISTÉRIO, porque ELES PODEM TER TIDO ALGUM TIPO DE CONTATO, SÓ QUE EU ACHO QUE NÃO TEVE, MAS A POLÔNIA PODE TER VISTO JESUS E TER DECIDIDO NÃO. ISSO AQUI FICA EM ABERTO. UM DIA ELES EXPLICAM" [⚠️⚠️⚠️ a lacuna deixada em aberto pelo próprio autor]; **PEDRO E PAULO EM ROMA**: "Quando PEDRO E PAULO CHEGARAM EM ROMA, nos seus já na sua velice, SOUBERAM QUE TINHA LÁ OU TINHA PASSADO POR LAR OU TAVA LÁ EM ROMA ALGUÉM COM AQUELES PODERES que eles sabiam que Jesus também tinha. Só que Jesus já havia sido crucificado HÁ UNS 20 ANOS. ELES PROCURAVAM [A] APOL[ÔNIO DE TIANA] E ESTRANHAMENTE ESSES CONTATOS NÃO FORAM FEITOS... HÁ UMA LIBERDADE EM APOL[ÔNIO DE TIANA] QUE FERE TODO O PRINCÍPIO... DO EXCLUSIVISMO DOS JUDEUS... eu penso, ISSO É SÓ FOFOCA, que A COISA NÃO RODOU com várias figuras que conheceram Jesus e terminaram indo para Roma".
+
+- **[B016 p. 146]** capítulo em 1ª pessoa: “Costumo olhar para a humanidade com o mesmo padrão de compaixão que dedico a mim mesmo.”
 
 ## 3. Hierarquia e Geopolítica
 
@@ -66,6 +70,8 @@ A encarnação de Apolônio marca a atuação do Quarto Logos no mundo: sua mens
 Olm (RC-252); Jesus (RC-072); Sophia (RC-009).
 
 - **[B016 p. 146]** Jesus usou o poder “não para submeter as pessoas, mas sim, para ajudar as mais frágeis”; contraste com o “Deus Bíblico”, que haveria destinado o messias a “dominar a humanidade em seu nome, só que pela força.”
+
+- **"Só magia e sabedoria":** "Apolônio de Tiana está muito além disso, mas ele lidou com só magia e sabedoria, não foi no grau de iniciação"; [Fonte: P2023-12-02]
 
 ## 4. Histórico e Eventos Cósmicos
 
@@ -79,15 +85,9 @@ Olm (RC-252); Jesus (RC-072); Sophia (RC-009).
 
 ## 5. Lentes Curatoriais e Quarentenas
 
-- **[B016 p. 146]** capítulo em 1ª pessoa: “Costumo olhar para a humanidade com o mesmo padrão de compaixão que dedico a mim mesmo.”
-
 - **Quarentena histórico-religiosa:** Apolônio histórico ≠ validação acadêmica da leitura de Ellam. [Fonte: B016]
 
 - **[P2024-11-03 · A MORTE E A BIOFORMA]** "NINGUÉM FEZ ISSO QUE ELE FEZ, OU SEJA, VIVEU 80, 90, 100 ANOS E NINGUÉM NEM SABE COMO ELE MORREU, PORQUE ELE FOI EMBORA [NA] HORA QUE ELE QUIS... A HISTÓRIA DESSE TURCO HELENIZADO SE PARECE COM A HISTÓRIA DOS HINDUS MALUCOS QUE TAMBÉM VÃO EMBORA QUANDO QUER... O CARA PRATICA UMA [RAJA YOGA — STT “raçamadi”, REVISAR → CHANCELA 10/09/2026 · F039-L5: AGUARDA-ÁUDIO (hipótese RAJA YOGA registrada; hapax) — ver nota], FICA LÁ O CORPO E VAI EMBORA. MAS ÀS VEZES NEM CORPO SE ENCONTRA... há uma crônica que fala da morte dele... mas assim, PELAS FOFOCAS ESPIRITUAIS, ELE SIMPLEMENTMENTE FOI. PORQUE... ELE TINHA UM CORPO QUE ERA UMA BIOFORMA QUE ELE USAVA LÁ EM ZAM, QUE É UM PLANETA TÃO FÍSICO QUANTO O NOSSO. E ELE DESFEZ ESSA FORMA. O ESPÍRITO DELE PRODUZIU APOL[ÔNIO]. QUANDO ELE QUIS, APOL[ÔNIO] SE ENCERROU E ESSA BIOFORMA FOI RECONSTRUÍDA E ELE TÁ LÁ DE NOVO, COMO O CODIFICADOR DIZIA, AGUARDANDO O INÍCIO DA IDADE ADULTA DA HUMANIDADE" (ver RC-092).
-
-- **Contexto acrescentado:** Apolônio de Tiana é reafirmado como única encarnação humana de Olm, contemporânea de Jesus e descrita em O Quarto Logos. [Fonte: P2021-12-04]
-
-- **"Só magia e sabedoria":** "Apolônio de Tiana está muito além disso, mas ele lidou com só magia e sabedoria, não foi no grau de iniciação"; [Fonte: P2023-12-02]
 
 - **Três magos = três iniciados:** "Jesus recebeu a visita de três magos. Não, foram três iniciados. Iniciado era um arquétipo antigo" (leitura do autor); [Fonte: P2023-12-02]
 

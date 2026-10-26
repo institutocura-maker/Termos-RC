@@ -47,6 +47,8 @@ Circuito de comunicabilidade e mente coletiva dos Seres Originais, associado à 
 
 ## 2. Natureza e Atributos
 
+- O Círculo da Perfeição é descrito como mecanismo de circulação entre níveis paradisíacos. [Fonte: P2024-05-04]
+
 ## 3. Hierarquia e Geopolítica
 
 ### Seres Associados
@@ -58,8 +60,6 @@ Consultar as relações tipadas acima.
 - Divergências e alegações científicas permanecem abertas/atribuídas à palestra. [Fonte: P2024-05-04]
 
 ## 5. Lentes Curatoriais e Quarentenas
-
-- O Círculo da Perfeição é descrito como mecanismo de circulação entre níveis paradisíacos. [Fonte: P2024-05-04]
 
 ### Observações
 

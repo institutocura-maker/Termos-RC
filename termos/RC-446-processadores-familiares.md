@@ -70,6 +70,8 @@ Nos "Livros de Yel Luzbel", o Processador Familiar é o mecanismo que mantém ca
 
 Yel Luzbel (RC-142, primeiro a se desligar); Sophia (RC-009, criadora); Sábios das famílias capelinas (administradores).
 
+- **[B058 p. 70]** o desligamento de Yel: "**Jamais alguém havia abdicado da sua função ou sequer se desligado do 'Processador' da sua 'família'!**"
+
 ## 4. Histórico e Eventos Cósmicos
 
 - **[B057 p. 34]** o monitoramento: "Já faz algum tempo que **estávamos a monitorar as vibrações que você emitia para o 'Processador Yel'**, e nos deparámos com a magnitude das expressões desarmónicas e nervosas que você estava a marcar nele." (a alta cúpula da família Yel reunida — evento inédito.)
@@ -79,8 +81,6 @@ Yel Luzbel (RC-142, primeiro a se desligar); Sophia (RC-009, criadora); Sábios 
 ## 5. Lentes Curatoriais e Quarentenas
 
 - **[B058 p. 71–72 · a suspeita]** "Não sabemos se **Sophia e as suas Hostes se conetam aos 'Processadores Familiares'**... Isso é algo que teremos de descobrir!"; "**Sophia, que nos engendrou, também criou todos os nossos 'Processadores'.**"; "Sophia e as suas Hostes **devem espionar-nos por meio dos 'Processadores Familiares'!**" (leitura do ser em revolta — O-7.)
-
-- **[B058 p. 70]** o desligamento de Yel: "**Jamais alguém havia abdicado da sua função ou sequer se desligado do 'Processador' da sua 'família'!**"
 
 ### Observações
 

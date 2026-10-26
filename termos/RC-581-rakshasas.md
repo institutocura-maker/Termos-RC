@@ -69,6 +69,8 @@ A palestra relaciona os Rakshasas aos sacrifícios, ao sangue de mamíferos e ao
 
 - **[P2024-08-03] O fim e a mistura (U0743–U0755):** Rama liquidou os rakshasas; "os rakshasas na época começaram, para fugir da fúria da turma de lá, a manipular os seus DNA e se uniram a ursos e lobos"; "hoje tem uma mistureba... pendente de resolução, morrendo de fome e de dor, algumas loucas para vir para cá para comer".
 
+- **[P2023-04-30 · A MOTIVAÇÃO]** o mistério dos mamíferos que cuidam uns dos outros (o zelo que o sangue amarelado de plasma não tem — a curiosidade que motivou a engenharia; ver a ampliação P2025-02-16).
+
 ## 3. Hierarquia e Geopolítica
 
 ### Seres Associados
@@ -85,11 +87,9 @@ Ravana (RC-582)
 
 - **[P2022-12-17 — FONTE ORIGINAL] Os Rakshasas (U0780–U0800):** "foi quando os Rakshasas [STT 'racchaças'], uma espécie, uma estirpe de ser, foi criada pela turma do universo vizinho... todo mundo se apaixonou pelos mamíferos... no sangue humano é que estava o segredo para o tipo de comportamento que mamífero, primata e ser humano passou a ter"; "os Rakshasas foram criados como vampiros para passarem pelos portais e atacar os mamíferos"; "um Rakshasa faminto ficava vigiando o sacrifício, pegava a presa e desaparecia com uma vítima que ia ser sacrificada. E com isso os deuses começaram a ficar p da vida com os Rakshasas, porque a experiência que eles queriam para eles, os Rakshasas terminaram tendo só para eles próprios".
 
-## 5. Lentes Curatoriais e Quarentenas
-
 - **[P2023-04-30 · OS SACRIFÍCIOS E AS CATEGORIAS DE VAMPIROS]** "vamos ensinar eles a fazerem SACRIFÍCIOS... VÁRIOS TIPOS DE CATEGORIAS DE VAMPIROS... quem só puder se alimentar A PARTIR DOS EFLÚVIOS, DO CHEIRO do churrasco".
 
-- **[P2023-04-30 · A MOTIVAÇÃO]** o mistério dos mamíferos que cuidam uns dos outros (o zelo que o sangue amarelado de plasma não tem — a curiosidade que motivou a engenharia; ver a ampliação P2025-02-16).
+## 5. Lentes Curatoriais e Quarentenas
 
 ### Observações
 

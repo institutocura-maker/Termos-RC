@@ -51,8 +51,6 @@ A Matriz Modeladora é o que faltou ao Criador de Padrões Dependentes: o modelo
 
 - Matriz de Cocriação foi incorporada como variação da Matriz Modeladora: faixa/universo gerado por divindades da periferia do Paraíso. [Fonte: P2024-05-04]
 
-- **Fonte:** P2024-05-04.
-
 ## 3. Hierarquia e Geopolítica
 
 ### Seres Associados
@@ -64,6 +62,8 @@ Deidade (RC-047); Divindades Excelsas (RC-206).
 ### Observações
 
 Ficha baseada em B001 (obra primária). Conceito chave para entender o "defeito de fábrica" da Criação: a obra do Criador não ressoa com a Matriz Modeladora. Verificar aprofundamento no cap. 4 de B001.
+
+- **Fonte:** P2024-05-04.
 
 ## 6. Histórico Curatorial e Auditoria
 

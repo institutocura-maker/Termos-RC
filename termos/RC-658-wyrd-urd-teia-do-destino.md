@@ -88,6 +88,11 @@ Tudo.» (U0037) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, t
 
 - **[A teia e o sonho: o novelo do nome Brasil] (U0006)** «Ou a única coisa que parece ter vingado nessa história, o único novelo que se a gente puxar o nome aqui Brasil chega a um história de 20, 30.» — a Wyrd como fio condutor: "o único novelo que se a gente puxar o nome aqui Brasil chega a um história de 20, 30.000 anos é exatamente o nome Brasil" (span truncado no bruto em "20, 30."; sem emenda) — "mesmo com todos os desacertos, Cabral descobriu isso aqui, pôs o nome do Brasil. Só que não foi Cabral que descobriu. Antes de Cabral, uma porrada de gente já tinha estado aqui" (U0006: «Só que não foi Cabral que descobriu.»). [Fonte: P2022-09-25]
 
+- **STTs unificados:** 'WD', 'Word', 'Werde', 'teia da verde' — todos → Wyrd/Urd. [Fonte: P2024-02-25]
+- **Não é karma:** "isso aqui é o que existia... nada a ver com o que a gente hoje chama de karma, justiça divina" — o autor reforça a distinção. [Fonte: P2025-05-31]
+- **[P2023-12-03 · WYRD / URD (TEIA DO DESTINO) NA FALA DE 03/12/2023]** «a teia de Orlo.
+- **Destino e retorno:** "só retorna o ser cumprindo um determinado destino" — os 256 caminhos (RC-767) como desdobramento da teia; [Fonte: P2025-11-29]
+
 ## 2. Natureza e Atributos
 
 - **WD/Word = computador quântico de Moros (P2024-02-25):** 'ele criou a WD... computador quântico que organiza a genética de todos os seres vivos... o que saia de um ser retorne para ele. Isso não é punição, não é uma justiça, era só uma organização.'
@@ -117,6 +122,9 @@ Tudo.» (U0037) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, t
 - **[P2025-07-18 · U00009–U00012] Sincronicidade profetizável:** o expositor parte de Jung e define sincronicidade como coincidência significativa, relacionando-a a intenção, campos mentais, informação e encruzilhadas. Esta é uma **nota cruzada** com RC-611 e RC-718, não um novo termo ou código.
 
 - **Grafia e escopo:** a forma canônica **Wyrd/Urd** permanece. As formas dos componentes são preservadas como variações a revisar e não são automaticamente apagadas ou convertidas em novos seres. [Fonte: P2025-07-18]
+
+- **Processador da teia:** na Hipóstase dos Arcontes, o processador da teia da vida (Wyrd/Moiras/Nornas) mostra os cenários dos destinos dos arcontes — os arcontes "se ficaram loucos" quando Noreia recebeu de Eleleth as notícias sobre o destino deles. [Fonte: P2026-07-25]
+- **A Wyrd como organizadora do caos:** "o caos se organizou sob a forma de dois universos e de uma espiritualidade criada, improvisada" — a Wyrd como o processador que organiza o fluxo de informações (reforço do RC-658). [Fonte: P2025-03-15]
 
 ## 3. Hierarquia e Geopolítica
 
@@ -148,15 +156,7 @@ Tudo.» (U0037) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, t
 
 ## 5. Lentes Curatoriais e Quarentenas
 
-- **Processador da teia:** na Hipóstase dos Arcontes, o processador da teia da vida (Wyrd/Moiras/Nornas) mostra os cenários dos destinos dos arcontes — os arcontes "se ficaram loucos" quando Noreia recebeu de Eleleth as notícias sobre o destino deles. [Fonte: P2026-07-25]
-
-- **STTs unificados:** 'WD', 'Word', 'Werde', 'teia da verde' — todos → Wyrd/Urd. [Fonte: P2024-02-25]
-
-- **Não é karma:** "isso aqui é o que existia... nada a ver com o que a gente hoje chama de karma, justiça divina" — o autor reforça a distinção. [Fonte: P2025-05-31]
-
 - **"Fora da geopolítica da Trimurti" (P2025-03-15):** "a WD foi gerada fora da geopolítica da Trimurti"; "os três senhores não querem se submeter à Wyrd"; "Krishna diz: quem manda no destino dos seres sou eu" — a oposição de Krishna à Wyrd (ver RC-559).
-
-- **A Wyrd como organizadora do caos:** "o caos se organizou sob a forma de dois universos e de uma espiritualidade criada, improvisada" — a Wyrd como o processador que organiza o fluxo de informações (reforço do RC-658). [Fonte: P2025-03-15]
 
 - **[P2025-06-26 — FONTE ORIGINAL — 1ª Edição Estagiários do Kaos] A mecânica da Wyrd/Urd (perguntas 8–9 da plateia):** "a Wyrd atua como mecanismo de retorno repetição e reorganização até que haja lucidez"; "cada ser carrega em seu DNA um programa vibracional que atende aos requisitos da inevitabilidade do retorno da Wyrd, ou seja, delimita o campo de atuação dos padrões que precisam retornar ao ponto de origem"; "não somos apenas o resultado da nossa história pessoal, mas o acúmulo de camadas ancestrais que não foram reorganizadas e seguem gerando ciclos de repetição e desdobramentos cármicos"; "Urd é a base da organização de tudo que é informação"; "Moros foi sendo transformado no deus do destino só porque ele tava explicando que haveria um destino a ser cumprido devido às pendências registradas em Urd"; "Moros sumiu com a Wyrd, criou uma loka cheia de mistérios, empurrou a Wyrd lá dentro e deixou as três Nornes como referências pros seres"; "os seres até hoje... sempre foi encontrar a Wyrd para destruí-la e ferrar com Moros"; "quando a vida biológica atingiu uma massa crítica de pulsação... as informações desse universo ficavam carentes de um polo aglutinador e foi quando a Wyrd começou a estranhamente servir de base para essa questão"; "a velha Wyrd ou a velha Ifá pulsando mas sem determinar nada, a não ser o destino que precisa ser cumprido devido aos acúmulos e pendências do passado"; "a velha regra da Wyrd é a única coisa que funciona para além do paraíso em termos do caos onde a gente vive"; "isso não é decente, isso não é bonito, isso não é ético; é simplesmente um padrão organizacional, um conjunto de algoritmos e de protocolos gerados para organizar o caos, mas não é para resolver o problema do caos"; "o que sai da mente de um ser volta para ele"; "a Wyrd reorganiza mas não pune" — **o desmonte da ideia de "justiça divina"** [quarentena teológica — leitura do autor].
 
@@ -164,13 +164,9 @@ Tudo.» (U0037) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, t
 
 - **[P2023-10-14 · O ESTUDO DA WER COMO ÚNICO ACESSO À QUESTÃO DO DESTINO]** "Só o estudo da WER, que é uma teia quântica da mitologia nórdica, no âmbito do entendimento das runas, como elas eram empregadas lá atrás, permitem uma visão profunda sobre essa questão." (U0033)
 
-- **[P2023-12-03 · WYRD / URD (TEIA DO DESTINO) NA FALA DE 03/12/2023]** «a teia de Orlo.
-
 - **Contexto Orlog/nornas (P2023-05-13) e Sete Leis (P2023-12-02):** a teia do destino (Wyrd/Urd) ecoa nas **leis de ritmo e causa e efeito** das Sete Leis Herméticas (RC-763) — "o que você pensa, você cria; o que você sente, você atrai" (nova aresta RC-763 ↔ RC-658);
 
 - **"Hen-Orl" [REVISAR → ENCERRADO 2026-09-06 · F041-L5: RATIFICADO — o cadastro tem primazia; registra-se o processo do autor sem harmonização artificial — ver nota]:** noção citada junto a Moros (RC-454) — possível fonema relacionado a Orlog (registrar em Colecionar Incertezas); [Fonte: P2023-12-02]
-
-- **Destino e retorno:** "só retorna o ser cumprindo um determinado destino" — os 256 caminhos (RC-767) como desdobramento da teia; [Fonte: P2025-11-29]
 
 - Nova aresta RC-665 ↔ RC-658 (Orunmilá ~ Wyrd); RC-760 ↔ RC-658 (Vrittis ~ Wyrd). [Fonte: P2025-11-29]
 

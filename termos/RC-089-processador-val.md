@@ -60,6 +60,8 @@ Com isso:
 
 - **[Conexão Processador Val ↔ Wyrd via espírito de Orlog]** «a mesma mente de Kivas, mesma mente de Orlot ao do universo de Z, ligou-se, criou um tran tran tran aí qualquer uma espécie de Frost particular, uma ponte quântica» — ver RC-658 (Wyrd), RC-454 (Moros/Orlog). [Fonte: P2023-07-09]
 
+- **[Processador Val astralizado — existe até hoje]** «isso foi astralizado, ficou esse processador existe até hoje, protegido dentro de um sistema de astralização» — ver RC-109 (Família Val). [Fonte: P2023-07-09]
+
 ## 3. Hierarquia e Geopolítica
 
 ## 4. Histórico e Eventos Cósmicos
@@ -71,8 +73,6 @@ Com isso:
 - **[P2023-12-03 · O ÚNICO ARQUIVO VIVO DA REBELIÃO]** «passou a ser a coisa mais importante da rebelião de Lúcifera, porque trazia todas as notícias atualizadas do antes da rebelião, porque ele foi o último processador a ser gerado, ele era o mais moderno, então teve tudo atualizado até aqui, todo o processo ocorrido e terminou apropriando a memória dos principais cabeças da rebelião, que sabiam tudo que tinha se passado na rebelião.» (U0004) — Materializada no ciclo anterior, esta ficha recebe a peça de fechamento: o processador da Vol sobreviveu porque **era o mais moderno**, atualizado até o fim, e acabou apropriando a memória dos cabeças da rebelião — é isso que, na fala, mantém a rebelião viva («a questão era proteger o processador»).
 
 ## 5. Lentes Curatoriais e Quarentenas
-
-- **[Processador Val astralizado — existe até hoje]** «isso foi astralizado, ficou esse processador existe até hoje, protegido dentro de um sistema de astralização» — ver RC-109 (Família Val). [Fonte: P2023-07-09]
 
 ### Observações
 

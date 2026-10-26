@@ -55,6 +55,8 @@ A Era dos Humanos sucede o fechamento dos portais: sem acesso direto, os deuses 
 
 - **Contexto da destinação:** "os humanos são a última espécie e a espécie que vai definir o futuro universal" — a Era dos Humanos como o palco da ressignificação das vrittis (RC-760) e dos 256 caminhos (RC-767); [Fonte: P2025-11-29]
 
+- "Em nascendo na condição humana, 256 possibilidades eles terão" (todos os seres que precisam cumprir destinos). [Fonte: P2025-11-29]
+
 ## 3. Hierarquia e Geopolítica
 
 ### Seres Associados
@@ -70,8 +72,6 @@ Zeus (RC-145); humanos (RC-099); demos (RC-049); Caos/Javé (RC-284).
 ## 5. Lentes Curatoriais e Quarentenas
 
 - **[B088 p. 46–47 · o programa cerebral]** "uma poção que faça com que **o cérebro do 'macho especial' aumente de tamanho**... Epimeteu acredita que esse aumento craniano proporcionará **mais espaço para o surgimento de novos neurónios** e, consequentemente, **uma maior produção de novas sinapses**" (notas de rodapé com fonte Wikipédia — quarentena institucional, O-4).
-
-- "Em nascendo na condição humana, 256 possibilidades eles terão" (todos os seres que precisam cumprir destinos). [Fonte: P2025-11-29]
 
 ### Observações
 

@@ -134,13 +134,13 @@ Brahma (RC-037); Vishnu (RC-135); Shiva (RC-102); Mohen So (RC-081); Fenvans (RC
 
 - **[P2025-07-18 · U00012–U00016]** O Projeto Talm é explicitamente mencionado como o programa que trouxe “o código da vida do universo antimaterial para o material”. No arco narrativo, a coordenação é atribuída a **Morren So**.
 
+- **Contexto acrescentado:** O Projeto Talm é citado como via pela qual a vida do universo vizinho chega a este universo, no contexto de Sophia, Olm e biodemos. [Fonte: P2021-12-04]
+
 ## 5. Lentes Curatoriais e Quarentenas
 
 - **[B044 p. 55]** a principal causa do desassossego da Trimurti, enquanto a vida se manteve no universo demo, foi a ausência de resultados animadores; todos os engendrados surgiam “doentes”, ainda que poderosos — **quarentena clínica** (leitura, não diagnóstico).
 
 - **[Projeto Talm — idealizado por Morren So] (U0003)** «o projeto Tal foi idealizado por Morençou, mas foi executado pelos Fenvães e a maneira deles.» — fonte oral mais antiga do verbete (antes de P2021-12-04); a divisão idealizador × executores.
-
-- **Contexto acrescentado:** O Projeto Talm é citado como via pela qual a vida do universo vizinho chega a este universo, no contexto de Sophia, Olm e biodemos. [Fonte: P2021-12-04]
 
 - **Quarentena:** transferência de código, universo antimaterial/material e microinstantes são linguagem cosmológica do expositor; não são biologia, física ou engenharia demonstradas. [Fonte: P2025-07-18]
 

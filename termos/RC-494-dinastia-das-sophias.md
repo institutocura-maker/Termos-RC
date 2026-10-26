@@ -34,15 +34,17 @@ Nome do terceiro conselho dos deuses na leitura da RC: a dinastia dos arcontes (
 
 > "A nossa palestra é sobre o Eloim, o conselho dos arcontes ou o conselho das Sophias ou a dinastia das Sophias, porque são conceitos que significam a mesma coisa." — P2026-07-25
 
+- **Valores supremos:** ritos de passagem e Timé (RC-293). [Fonte: P2026-07-25]
+
+## 2. Natureza e Atributos
+
+- **Lógica não humana:** nenhum membro pensa como humano; o único arconte humano legítimo rejeitado foi Jesus; Saibaba não quis entrar. [Fonte: P2026-07-25]
+
 ## Citações Verbatim
 
 - **Três conselhos** (esqueleto da palestra): 1º Trimurti (deuses primevos, ~4 bi anos) → 2º Dev/Aurora + Cama/Kama + descendência trimurtiana → 3º Dinastia das Sophias/70 arcontes (com os humanos). [Fonte: P2026-07-25]
 
 - **Função declarada:** manter o criador caído vivo (administrar o caos, retirar dele o que servir à reconstrução do eu de Javé). [Fonte: P2026-07-25]
-
-- **Lógica não humana:** nenhum membro pensa como humano; o único arconte humano legítimo rejeitado foi Jesus; Saibaba não quis entrar. [Fonte: P2026-07-25]
-
-- **Valores supremos:** ritos de passagem e Timé (RC-293). [Fonte: P2026-07-25]
 
 - **Crise:** colapso do universo vizinho; decisão recente atribuída a Krishna ("desde a semana passada"); fim da dinastia como transição (arcontes nascendo como humanos). [Fonte: P2026-07-25]
 

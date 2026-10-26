@@ -111,6 +111,13 @@ A partir de 1989 passou a operar o Quarto Logos, substituindo os 3 primeiros Log
 
 - **Cocriadores parceiros:** "consciências humanas habilitadas à realização do Tikun e possíveis de serem cocriadoras parceiras do Quarto Logos frente a esse mistério" — os Sethianos Emancipados (RC-766); [Fonte: P2024-09-28]
 
+- **[B014 p. 5]** “Como o ‘Quarto Logos’ atua? Qual o perfil de seus agentes?”
+- **[B016 p. 101]** o “Codificador de Zion” “se identificou como Olm” na mensagem recebida pelo autor.
+- **Contexto:** Olm é confirmado como ser LM de Tempérion, relacionado à estratégia do Quarto Logos e à encarnação como Apolônio de Tiana, contemporânea de Jesus. [Fonte: P2021-12-04]
+- **Conexão com Thot/Hermes:** a tradição hermética como veículo do conhecimento do Codificador (afinidade de função — escriba/codificador); [Fonte: P2023-12-02]
+- Contexto das Flechas de Moros (RC-611): a RC como revelação das setas, da qual o Quarto Logos é agente. [Fonte: P2023-12-02]
+- Contexto: a superação do padrão "ao vencedor as batatas" (RC-764) como tarefa da nova etapa. [Fonte: P2021-03-27]
+
 ## 2. Natureza e Atributos
 
 - **[ART-2025-08-02/03 — material do curador] Olm e o Éon (ART-02 Gloss.; ART-03 Cap. 2):** "o Quarto Logos (Olm/Codificador de Zion) surgiu do forno de Awaymaion há aproximadamente 6 a 7 bilhões de anos e passou a assessorar Sophia" [REVISAR — conferir B050 → CHANCELA 2026-09-05 · F037-L1: TENSÃO INSOLÚVEL — ver nota ao fim da ficha]; "diferente dos três primeiros, Olm não mergulhou no universo antimaterial e conseguiu criar um 'DNA' ou CFD próprio, livre da programação existencial gerada pelo Primeiro Logos"; "a função primordial do Quarto Logos é prover o 'conhecimento esclarecido', ofertando a 'pílula vermelha' para despertar a 'compreensão adulta', e coordenar uma 'inovação de ruptura'; a lógica crítica e o tirocínio da natureza humana são a 'chave' para a abertura da mente de 'todos os modos de pensar desta Criação'"; "Sophia assume o controle da 'Gestão Universal', atuando como 'Coagente' do Quarto Logos, que será o novo tutor e mentor universal".
@@ -147,6 +154,8 @@ A partir de 1989 passou a operar o Quarto Logos, substituindo os 3 primeiros Log
 
 - **Papel na superação do padrão predatório:** seção 7.4 — "A Revelação Cósmica e o Papel do Quarto Logos" — junto à singularidade da consciência humana (seção 7.3); [Fonte: P2021-03-27]
 
+- **[B057 p. 27]** "o Codificador de Zion **fechava os seus 'circuitos mentais'** e não permitia que nós percebêssemos o que ele 'pensava ou sentia'." (no encontro com **Val El**, membro da família Val — p. 27.)
+
 ## 3. Hierarquia e Geopolítica
 
 - **[P2021-12-04 — FONTE ORIGINAL] Olm e Apolônio de Tiana (U0613–U0625):** "Apolônio de Tiana foi a única encarnação que Olm [STT 'H'] fez. Esse ser chamado Olm: ele mergulhou nesse universo; ele não mergulhou no universo anterior" (U0613–U0616); "Olm não ficou lá fora, e só quando a vida veio do universo vizinho para este, através do projeto [Tal], quando mais uma face do espírito fatiado, que respondia já por [Mohen So — STT 'vir morrensor'], se fez como Sophia, aí Olm se fez junto de Sophia nesse universo como espécie de irmão mais velho dele, amigo número um" (U0619–U0620); "quando Sophia ordenou ou recebeu a ordem de Brahma ou de Javé de que ele deveria criar um avatar dele entre os humanos, quando os anjos de Sophia tomaram de um código dele e introduziram no óvulo artificial em Maria para produzir Jesus, os mesmos moldes Olm fez consigo próprio e também nasceu na mesma época de Jesus como Apolônio de Tiana. Só que Jesus teve uma vida breve e Apolônio de Tiana viveu cerca de um século. Isso está descrito no livro O Quarto Logos" (U0622–U0625 — B016).
@@ -166,6 +175,8 @@ A partir de 1989 passou a operar o Quarto Logos, substituindo os 3 primeiros Log
 - **[Quarto Logos — a grande novidade] (U0003)** «Mas é nesse ponto que surge o quarto logos, como sendo a grande novidade que convidará os humanos não a exercer o império de uma força mental estupidificada ou cretinizada por esse passado de equívoco dos três primeiros logos, mas sim como alguém que vai promover sua própria evolução através da ex especiação, levar essa natureza humana esclarecida para outros rincões do do mundo e do universo, dá exemplo disso.» — o Quarto Logos como o projeto decente, contraposto ao império do mais forte. [Fonte: P2021-01-30]
 
 - **[A locomotiva já partiu] (U0014)** «Metaforicamente falando, Jesus ainda não chegou, Sofia ainda não chegou, mas a locomotiva já partiu.» — a resposta do autor ao "não vai dar tempo": "o planejamento do quarto logos e a especiação humana e o que ela poderá produzir já foi planejada, já tá sendo planejada" (U0014: «A locomotiva já partiu, ou seja, o planejamento do quarto logos e a especiação humana e o que ela poderá produzir já foi planejada, já tá sendo planejada e alguns espíritos não conseguem se inscrever nesse processo, mesmo não sendo espíritos que serão exilados.»); "as matrículas para certas coisas já foram encerradas e isso não tem como mudar mais" (U0014: «E o que está posto é as matrículas para certas coisas já foram encerradas e isso não tem como mudar mais.»); desde 2007 as colmeias colapsam e "não deu para esperar pro Sofia". [Fonte: P2022-11-20]
+
+- **[B016 p. 161]** mesmo antes de Apolônio, Sidarta e Lao Tse já ofertavam o concurso do processo; agentes do Quarto Logos acumulam conhecimento e se libertam da ignorância.
 
 ## 4. Histórico e Eventos Cósmicos
 
@@ -195,6 +206,11 @@ A partir de 1989 passou a operar o Quarto Logos, substituindo os 3 primeiros Log
 
 - **Transumanismo:** "fazer uso da consciência de alguns para o transumanismo como maneira de realizar o Tikun deverá ser comum no futuro". [Fonte: P2024-09-28]
 
+- **[B057 p. 27]** "Entreguei todo o levantamento de dados que fiz para aquele que, entre nós, era conhecido como o **Mestre Codificador de Zion¹**... na tentativa de encontrar alguma resposta, já que **ele tinha vindo com Sophia para este nosso lado do universo**." ("Ledo engano! Ele, também, nada me falou. Se algo sabia, não me disse.")
+- **[B057 p. 40]** "Recordo-me de quando o Codificador de Zion se levantou, sendo seguido por Val El, e **desejou-me 'sorte'**." (Yel, já em desequilíbrio, rejeitaria qualquer mensagem — p. 40.)
+- **[P2023-04-01b · O PARALELO DOS SEIS]** "esses dois seres criaram UM PROCESSO PARALELO, INDEPENDENTE do que os seis da Trimurte e da Tridevi estavam fazendo NO SENTIDO DE QUE SE DESSE TUDO ERRADO EM TERMOS DO PROJETO DOS SEIS, O PROJETO DESSES DOIS TALVEZ FUNCIONASSE de algum modo" [a dupla desconhecida da Ogload; a função de plano B universal].
+- **[Quarto Logos — Reintegração Cósmica]:** «O fechamento dos portais e o fim da era da Trimúrti [...] A Reintegração Cósmica: rumo a uma nova convivência.» — ver RC-003 (Reintegração Cósmica), RC-070 (Isolamento Cósmico). [Fonte: P2024-03-02]
+
 ## 5. Lentes Curatoriais e Quarentenas
 
 - **[P2020-07-11] A estratégia do conhecimento (U0630–U0720):** a analogia dos anos 80/90: "nerds, estudantes norte-americanos, desenvolveram as sementes de pequenas empresas que trabalhavam com a internet; hoje valem 200, 300 bilhões, 1 trilhão; tomaram o poder dos presidentes das nações e passaram a mandar no mundo"; "o codificador de Zian fez algo muito parecido: produziu aos poucos um conhecimento, foi produzindo hipóteses, essa estratégia de decifração começou a funcionar associada a uma capacidade filosófica de se unir a princípios e propósitos decentes"; "a revelação cósmica é o momento em que o conhecimento foi sendo criado; essa turma da Trimurti, da Tridevi começou a ser provocada"; "resultado da decisão de Aleteia, ou seja, do quarto Logos, de promover a busca da verdade através do comportamento decente".
@@ -203,19 +219,7 @@ A partir de 1989 passou a operar o Quarto Logos, substituindo os 3 primeiros Log
 
 - **[P2025-06-26 — FONTE ORIGINAL] Olm e a vida biológica (pergunta 5):** "o quarto logos só mergulhou quando a vida biológica surgiu"; "o quarto logos só começou, entre aspas, a operar depois que a vida biológica surgiu, depois do plano de [Morphia? REVISAR → CHANCELA 10/09/2026 · F039-L5: AGUARDA-ÁUDIO (hapax; hipótese registrada) — ver nota] — STT] junto com Sophia"; "o quarto logos muitas vezes pode atuar como essa mão invisível [que o grupo comenta]" [contexto do grupo; a resposta do autor não confirma a participação na Áurea Catena].
 
-- **[B014 p. 5]** “Como o ‘Quarto Logos’ atua? Qual o perfil de seus agentes?”
-
 - **[B014 p. 19]** Sophia, “Suserano da Geopolítica Universal”, “trabalhando sempre associado ao ‘Quarto Logos’.”
-
-- **[B016 p. 101]** o “Codificador de Zion” “se identificou como Olm” na mensagem recebida pelo autor.
-
-- **[B016 p. 161]** mesmo antes de Apolônio, Sidarta e Lao Tse já ofertavam o concurso do processo; agentes do Quarto Logos acumulam conhecimento e se libertam da ignorância.
-
-- **[B057 p. 27]** "Entreguei todo o levantamento de dados que fiz para aquele que, entre nós, era conhecido como o **Mestre Codificador de Zion¹**... na tentativa de encontrar alguma resposta, já que **ele tinha vindo com Sophia para este nosso lado do universo**." ("Ledo engano! Ele, também, nada me falou. Se algo sabia, não me disse.")
-
-- **[B057 p. 27]** "o Codificador de Zion **fechava os seus 'circuitos mentais'** e não permitia que nós percebêssemos o que ele 'pensava ou sentia'." (no encontro com **Val El**, membro da família Val — p. 27.)
-
-- **[B057 p. 40]** "Recordo-me de quando o Codificador de Zion se levantou, sendo seguido por Val El, e **desejou-me 'sorte'**." (Yel, já em desequilíbrio, rejeitaria qualquer mensagem — p. 40.)
 
 - **[B057 p. 49 · fase revoltada]** "**Até o Codificador estava a ser enganado** – pensava eu. Ele também não sabia da 'verdade', e era controlado por Sophia, aliás, todos eram controlados por Sophia." (leitura do ser em revolta — O-7.)
 
@@ -229,25 +233,13 @@ A partir de 1989 passou a operar o Quarto Logos, substituindo os 3 primeiros Log
 
 - **[P2023-04-01b · O OITAVO DA OGDOAD]** "a de Hermópolis é a ÚNICA mitologia que fala em algo chamado OGDOAD: OITO DEUSES PRIMORDIAIS... esses oito seres criaram tudo"; "o boato, as fofocas que corriam nesse universo era de que SEIS DOS PRIMORDIAIS JÁ ERAM IDENTIFICADOS [Brahma, Vishnu, Shiva, Sarasvati, Lakshmi, Parvati]. MOROS FOI TAMBÉM IDENTIFICADO COMO SENDO UM SÉTIMO PERSONAGEM, MAS O OITAVO PERSONAGEM NINGUÉM SABIA QUEM ERA. E NÓS VAMOS FALAR NESSA PALESTRA SOBRE ESSE OITAVO PERSONAGEM, QUE É O QUARTO LOGOS, QUE EU CHAMO DENTRO DE UMA ORIENTAÇÃO QUE ME FOI PASSADA, QUE ME FOI SOLICITADA, porque assim seria melhor compreendido pela humanidade. E POR ISSO PRODUZI O LIVRO QUARTO LOGOS [B016]" [⚠️ a confirmação da estrutura 6+2 e a OITAVA cadeira; a "orientação que me foi passada" ⚠️ quarentena biomediúnica].
 
-- **[P2023-04-01b · O PARALELO DOS SEIS]** "esses dois seres criaram UM PROCESSO PARALELO, INDEPENDENTE do que os seis da Trimurte e da Tridevi estavam fazendo NO SENTIDO DE QUE SE DESSE TUDO ERRADO EM TERMOS DO PROJETO DOS SEIS, O PROJETO DESSES DOIS TALVEZ FUNCIONASSE de algum modo" [a dupla desconhecida da Ogload; a função de plano B universal].
-
 - **[P2023-04-01b · O FIM DOS MILAGRES]** "os taumaturgos de então, como [Apolônio] de Tiana, Jesus, ELES COLOCARAM UM FIM NA EXPERIÊNCIA TAUMATÚRGICA. NÃO TEM MAIS MILAGRE PRA HUMANIDADE HÁ MUITO TEMPO. E é impressionante é como diariamente a quantidade de milagres que acontece são anunciados. E É TUDO MENTIRA, pessoal" [⚠️ quarentena teológica — a leitura do autor sobre o fenômeno religioso contemporâneo].
-
-- **[Quarto Logos — Reintegração Cósmica]:** «O fechamento dos portais e o fim da era da Trimúrti [...] A Reintegração Cósmica: rumo a uma nova convivência.» — ver RC-003 (Reintegração Cósmica), RC-070 (Isolamento Cósmico). [Fonte: P2024-03-02]
-
-- **Contexto:** Olm é confirmado como ser LM de Tempérion, relacionado à estratégia do Quarto Logos e à encarnação como Apolônio de Tiana, contemporânea de Jesus. [Fonte: P2021-12-04]
 
 - **Decisão:** grafias **Olm/Elm** validadas pelo curador; os outros três LM do grupo permanecem sem nome. [Fonte: P2021-12-04]
 
 - **Diferença dos três Logos anteriores:** seção 7.2; [Fonte: P2023-05-13]
 
 - O Quarto Logos é a lente do futuro nas Cinco Lentes (RC-761): a etapa pós-falência da Lila. [Fonte: P2023-05-13]
-
-- **Conexão com Thot/Hermes:** a tradição hermética como veículo do conhecimento do Codificador (afinidade de função — escriba/codificador); [Fonte: P2023-12-02]
-
-- Contexto das Flechas de Moros (RC-611): a RC como revelação das setas, da qual o Quarto Logos é agente. [Fonte: P2023-12-02]
-
-- Contexto: a superação do padrão "ao vencedor as batatas" (RC-764) como tarefa da nova etapa. [Fonte: P2021-03-27]
 
 ## 6. Histórico Curatorial e Auditoria
 

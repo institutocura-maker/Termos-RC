@@ -89,13 +89,13 @@ Epimeteu (RC-302, o irmão); Pandora (RC-086, a discípula); Zeus (RC-145); Aten
 
 - **[P2023-12-03 · PROMETEU (TITÃ) NA FALA DE 03/12/2023]** «como a rebelião de Prometeu, foi algo que aconteceu nos Demobi, ou seja, várias rebeliões.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2021-05-15`); a entrada desta fonte é de **conteúdo**, não de data.
 
+- **[B088 p. 19 e 47]** "Algo ou alguém estava a usar-nos" (reflexão de Pandora); "**Algo age por meio de nós, ó Pandora!** Agora, tenho plena convicção disso!"
+
 ## 4. Histórico e Eventos Cósmicos
 
 - **[B088 p. 17–18 · os transes]** em transe, formula o coquetel e orienta Pandora — e depois: "**Não sei de onde vem esta informação** que agora estou para lhe dizer"; "**devo confessar-lhe que não me lembro de nada**" (a "força" misteriosa que o guia).
 
 ## 5. Lentes Curatoriais e Quarentenas
-
-- **[B088 p. 19 e 47]** "Algo ou alguém estava a usar-nos" (reflexão de Pandora); "**Algo age por meio de nós, ó Pandora!** Agora, tenho plena convicção disso!"
 
 ### Observações
 

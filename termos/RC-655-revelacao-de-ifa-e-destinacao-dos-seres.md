@@ -59,6 +59,9 @@ Extraído da live P2025-10-25 — 2ª Edição Estagiários do Kaos.
 
 Ifá é apresentado como atualização humana de Wyrd por Orunmilá, com 16 Molés/Olodus `[REVISAR → RESOLVIDO 10/09/2026 · F038-L5: “Olodus” (16) é termo canônico (RC-741, Projeto Orunmilá–Olodus); “Molés” = forma STT paralela, preservada — ver nota]` e 256 caminhos. A distinção entre destino obrigatório e destino criado pelo eu é ampliada.
 
+- **256 caminhos (RC-767):** "o principal objetivo desse maravilhoso trabalho é resgatar o que for possível dos 256 caminhos profetizáveis de Orunmilá, quanto à destinação dos seres"; [Fonte: P2025-11-29]
+- A Revelação de Ifá ≠ culto dos orixás: "o culto dos orixás nasce a partir da revelação de Ifá, mas toma suas cores próprias". [Fonte: P2025-11-29]
+
 ## 2. Natureza e Atributos
 
 - **[P2024-08-03] Os portais de Ifá (U0540–U0543):** "a doutrina dos orixás, a famosa revelação dos corpos de Ifá, que mostra a união que era possível existir entre a comunidade que vivia em Orum e a que vivia no Aiê"; "quando você vinha do mundo invisível pro mundo visível, você passava por um riacho e tinha Exu, portal de uma certa encruzilhada entre mundos"; "há diversos tipos de encruzilhadas... tá descrito no corpo de Ifá, os tais portais".
@@ -108,11 +111,7 @@ Consultar relações na Base.
 
 - **As 6 etapas da Revelação de Ifá (absorção NT-IF02):** [Fonte: P2025-11-29]
 
-- **256 caminhos (RC-767):** "o principal objetivo desse maravilhoso trabalho é resgatar o que for possível dos 256 caminhos profetizáveis de Orunmilá, quanto à destinação dos seres"; [Fonte: P2025-11-29]
-
 - **Candomblé/umbanda/santeria:** "cada uma dessas novas faces do culto dos orixás se transformou numa religião"; "a Umbanda, o candomblé e a santeria é o SUS da espiritualidade, recebe todo mundo" (citação literária ilustrativa — não preceito da Base); [Fonte: P2025-11-29]
-
-- A Revelação de Ifá ≠ culto dos orixás: "o culto dos orixás nasce a partir da revelação de Ifá, mas toma suas cores próprias". [Fonte: P2025-11-29]
 
 - **Quarentena:** a cadeia é uma leitura mitológico-cosmológica; termos como genoma, alma, trânsito de espécies e destino não devem ser tratados como genética ou antropologia validadas. [Fonte: P2025-07-18]
 

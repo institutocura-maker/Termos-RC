@@ -74,11 +74,11 @@ O fechamento dos portais é o divisor entre o tempo em que os deuses conviviam d
 
 O fechamento dos portais naturais em 2012 é atribuído à entropia e ao encerramento de ciclo da precessão equinocial. A fala menciona portais tecnológicos posteriores; o STT oscila entre 2002 e 2012, devendo permanecer `[REVISAR DATA → ENCERRADO 2026-09-05 · F037-L1: ver nota ao fim da ficha]`.
 
+- **[B021 p. 15–16]** quando as passagens se fecharam, os entes do universo paralelo «tiveram que permanecer apenas do lado de lá».
+
 ## 5. Lentes Curatoriais e Quarentenas
 
 - **[B021 p. 9]** portais «foram se fechando, movidos pela "entropia universal"»; «lacre do destino» (bloqueio total) «no ano de 2012». **Quarentena ufológica / científica** (entropia / 2012 = leitura).
-
-- **[B021 p. 15–16]** quando as passagens se fecharam, os entes do universo paralelo «tiveram que permanecer apenas do lado de lá».
 
 - **Status da evidência:** transcrição automatizada, pré-curada e validada terminologicamente pelo curador; conferir com áudio/obra primária antes de promoção de status. [Fonte: P2022-12-17]
 

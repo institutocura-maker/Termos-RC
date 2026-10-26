@@ -72,6 +72,8 @@ Javé/Brahma (RC-001/RC-037); anjos-clones (RC-019); demos (RC-049); biodemos (R
 
 - **[O colapso da colmeia trimurtiana (2018)] (U0018)** «2013, 2014, 2015, até o ano 2018, a minha condição humana foi obrigada a ver a colmeia que existe nesse universo vizinho, formado por essas três abelhas rainhas Javé, Virgem e Chiva, em um monte de abelha sem rainha e um monte de abelha demo operária.» — a colmeia do universo vizinho, com as três abelhas-rainha (Javé, Vishnu, Shiva), ruiu diante de Ellam entre 2013 e 2018. [Fonte: P2023-02-12]
 
+- **[B044 p. 127]** nova etapa da “velha e decadente Colmeia Universal”, quando as “Abelhas-rainhas” aprenderão também a servir a propósitos nobres da coletividade que elas mesmas geraram.
+
 ## 4. Histórico e Eventos Cósmicos
 
 - **[B044 p. 39]** os dois “grandes favos” que compõem a “Colmeia” gerada pela mente do Criador: um planejado (o universo em que vivemos) e o outro improvisado no momento da “queda” (universo paralelo, onde vivem demos e anjos-clones). RC-178 permanece **sem ficha**.
@@ -85,8 +87,6 @@ Javé/Brahma (RC-001/RC-037); anjos-clones (RC-019); demos (RC-049); biodemos (R
 - **[O sistema colmeico sucumbiu de vez] (U0012)** «O sistema colméico entre Jahé e os anjos foi se degradando entre os anos 2019 e 2020 sucumbiu de vez.» — a degradação: "ainda que em 2016, 17, 18 já se sentia a fraqueza total do sistema operativo desses anjos colonos"; "primeiro colapsam os sistemas, depois os entes que geram sistemas" (U0031: «Primeiro colapsam os sistemas, depois os entes que geram sistemas»); a colmeia real como circuito: "E o que nós entendemos como comé é na verdade um circuito eletromagnético consciencial funcionando e a gente não percebe, a gente só vê a Calmeia" (U0002: «E o que nós entendemos como comé é na verdade um circuito eletromagnético consciencial funcionando e a gente não percebe, a gente só vê a Calmeia»). [Fonte: P2022-09-18]
 
 ## 5. Lentes Curatoriais e Quarentenas
-
-- **[B044 p. 127]** nova etapa da “velha e decadente Colmeia Universal”, quando as “Abelhas-rainhas” aprenderão também a servir a propósitos nobres da coletividade que elas mesmas geraram.
 
 ### Observações
 

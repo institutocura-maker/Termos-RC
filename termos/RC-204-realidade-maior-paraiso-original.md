@@ -47,6 +47,8 @@ B001 registra a Realidade Maior. P2021-12-04 a descreve como Paraíso Original o
 
 - **[P2023-12-03 · REALIDADE MAIOR / PARAÍSO ORIGINAL NA FALA DE 03/12/2023]** «todos esses seres são 100% pacíficos.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2021-12-04`); a entrada desta fonte é de **conteúdo**, não de data.
 
+- **[B001 p. 13]** «A Realidade Maior é pré-existente a tudo»; universo espiritual «onde nada é transitório posto que tudo é eterno pela vontade do Pai Supremo».
+
 ## 2. Natureza e Atributos
 
 - **Contexto acrescentado:** O Paraíso Original é descrito como plenitude/êxtase permanente que inibe ímpeto criativo; seus desdobramentos búdico e manásico permitiriam consciência de externalidade e criação. [Fonte: P2026-07-30]
@@ -60,8 +62,6 @@ B001 registra a Realidade Maior. P2021-12-04 a descreve como Paraíso Original o
 - **Status:** live em STT sem áudio anexado; manter divergências abertas. [Fonte: P2026-07-30]
 
 ## 5. Lentes Curatoriais e Quarentenas
-
-- **[B001 p. 13]** «A Realidade Maior é pré-existente a tudo»; universo espiritual «onde nada é transitório posto que tudo é eterno pela vontade do Pai Supremo».
 
 ## 6. Histórico Curatorial e Auditoria
 

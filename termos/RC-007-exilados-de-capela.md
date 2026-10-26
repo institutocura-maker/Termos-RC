@@ -84,9 +84,9 @@ Yel Luzbel (RC-078); Len Mion (RC-074); famílias Val (RC-109), Yel (RC-136), Mi
 
 - **[A Caminho da Luz: a primeira notícia de exílio planetário] (U0006)** «Porque quando em 1000 eh 96, o livro tá da luz de Chico Xavier e Emanuel foi produzido ali naquele livro maravilhoso, pela primeira vez aparece em termos de literatura espiritual espírita, a notícia de um exílio planetária.» — [REVISAR: STT grafa "em 1000 eh 96" = 1996 → CHANCELA 2026-09-06 · F039-L3: FONTE AUSENTE DA ARCA — ver nota]; capítulo 4 de A Caminho da Luz: o exílio de Capela (mundo que girava em torno da estrela de Capela, na constelação do Cocheiro, norte astronômico); Kardec já tinha dado a base em A Gênese, capítulo 11 (queda dos anjos); Edgard Armond escreveu "Exilados e Capela" em homenagem ao capítulo (STT "Edgarmon" — grafia canônica: Edgard Armond). [Fonte: P2021-04-10]
 
-## 5. Lentes Curatoriais e Quarentenas
-
 - **[B057 p. 19]** "Com o passar do tempo, **quase todos morreram neste planeta** – entretanto, existe um pequeno grupo de capelinos que, na **única nave dos 'ex-rebelados', ainda apta para se locomover à volta da Terra, se submeteu a um processo de alteração dimensional**."
+
+## 5. Lentes Curatoriais e Quarentenas
 
 - **[B031 p. 171 · POSFÁCIO — paratexto inédito]** a autora **se inclui entre os Exilados**: "nós – **os Exilados de Capela** – nos encontramos novamente enfrentando um novo vírus (COVID-19)"; "(muitas delas sendo ainda os tais **'Exilados de Capela' encarnados**)" (a COVID-19 atingindo os exilados reencarnados — **quarentena clínica**: leitura, não fato).
 

@@ -76,6 +76,9 @@ verbete fica preservado abaixo.
 
 - A humanidade como "cobaia" de experiências: "o espírito é um instrumento, é um agente também, é uma cobaia de experiências que ele vai reunindo na sua mente eterna" (contexto RC-767). [Fonte: P2025-11-29]
 
+- **[B058 p. 9]** a tríade: «o "Espelho" (o Espírito) modificar o "reflexo" (o ego da
+- «o pior dos 8 bilhões de seres humanos é capaz de agir como um herói em um dado [Fonte: P2025-03-15]
+
 ## 3. Hierarquia e Geopolítica
 
   humanos**, por exemplo — que surgiram para a vida nesta Criação "imperfeita", de
@@ -93,6 +96,10 @@ verbete fica preservado abaixo.
 
 - A humanidade como criatura-ferramenta útil quando "dominada" — lucidez/tirocínio útil aos deuses que a dominavam. [Fonte: P2021-03-27]
 
+- **[B058 p. 8]** «Que culpa têm as **criaturas-ferramentas — como os capelinos e os
+- **[B019 p. 205]** "o homem é a 'criatura-ferramenta' mais recente no 'Palco Universal'".
+- **[B035 p. 15]** as criaturas, «por serem meras extensões e ferramentas dele, receberiam as suas ordens, e agiriam no sentido de alimentá-lo com as atitudes por ele ordenadas».
+
 ## 4. Histórico e Eventos Cósmicos
 
   instante... ele dá a vida dele por alguém que ele ama. Ponto. Ninguém nesses 13,8
@@ -101,17 +108,7 @@ verbete fica preservado abaixo.
 
 ## 5. Lentes Curatoriais e Quarentenas
 
-- **[B058 p. 8]** «Que culpa têm as **criaturas-ferramentas — como os capelinos e os
-
-- **[B058 p. 9]** a tríade: «o "Espelho" (o Espírito) modificar o "reflexo" (o ego da
-
   **leitura teológica/filosófica do ser** (O-7 — jamais fato ontológico primário).
-
-- «o pior dos 8 bilhões de seres humanos é capaz de agir como um herói em um dado [Fonte: P2025-03-15]
-
-- **[B019 p. 205]** "o homem é a 'criatura-ferramenta' mais recente no 'Palco Universal'".
-
-- **[B035 p. 15]** as criaturas, «por serem meras extensões e ferramentas dele, receberiam as suas ordens, e agiriam no sentido de alimentá-lo com as atitudes por ele ordenadas».
 
 ### Observações
 

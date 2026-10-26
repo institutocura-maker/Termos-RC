@@ -70,6 +70,10 @@ No Mentalma I (B074, cap. 2 — "Cada Conceito, um Arquivo Mental"), Ellam expli
 
 - **Álbum memorial das vidas:** 3º elemento dos 256 caminhos (RC-767) — "o álbum memorial das vidas sucessivas desenvolvidas na natureza humana"; [Fonte: P2025-11-29]
 
+- **[B075 p. 100]** "'Limpar' a memória animal resulta em também **'despoluir' a memória espiritual**."
+- **[B075 p. 101]** a "**memória quântica**" desperta as sinapses na varredura do "pior momento" (arquivo negativo a descartar).
+- **Ressignificação:** "a gente educa todas as cittas, pacifica as vrittis" — os arquivos mentais como base do destino. [Fonte: P2025-11-29]
+
 ## 3. Hierarquia e Geopolítica
 
 ### Seres Associados
@@ -84,13 +88,7 @@ Espírito encarnado (colecionador dos arquivos); Jan Val Ellam (criador do méto
 
 - **[B074 pp. 29–32]** arquivo = "um **quantum de informação**"; "**arquivo-mãe**" / "código de vida-mãe" (3,8 bilhões de anos; "molécula-mãe"); "infecção primeva" / "arquivos sujos" / "arquivos infectados" (leitura do autor — quarentena clínica/científica); elétrons que "marcam" em sua "intimidade" = "arquivos akáshicos" (vocabulário da obra — **sem código**, O-3).
 
-- **[B075 p. 100]** "'Limpar' a memória animal resulta em também **'despoluir' a memória espiritual**."
-
-- **[B075 p. 101]** a "**memória quântica**" desperta as sinapses na varredura do "pior momento" (arquivo negativo a descartar).
-
 - **[B075 p. 107]** **PKMzeta** (molécula real citada): "acionada por posturas mentais habilmente trabalhadas pelo seu psiquismo"; os "jogos mentais" do Mentalma "proporcionam a produção desse hormônio" — **leitura científica/clínica, jamais promover como terapia** (O-7).
-
-- **Ressignificação:** "a gente educa todas as cittas, pacifica as vrittis" — os arquivos mentais como base do destino. [Fonte: P2025-11-29]
 
 ### Observações
 

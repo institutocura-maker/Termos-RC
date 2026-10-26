@@ -142,6 +142,11 @@ A vinda de Sophia ("Jesus em seu corpo glorioso") marca o fim do Isolamento Cós
 
 - **"Sophia não é nome — é epíteto"** (personificação de um tipo de sabedoria); os membros do conselho são "personificações diversas de Sophia" (eus de Emá/Ensá). [Fonte: P2026-07-25]
 
+- **[B013 p. 18]** o Messias da “vinda” = Hochmah / Sophia.
+- **[B014 p. 5]** sinopse: “Quem é Sophia? Trata-se de Jesus na sua ‘forma gloriosa’? Seria o ‘Cristo Cósmico’?”
+- **[P2019-08-25 · O ENGENDRAMENTO DE SOPHIA — A "BOMBA" DE BRAHMA]** (fonte oral fundadora):
+- **Setianos encomendados:** "segundo o que Sofia disse no hipócase [Hipócrates? `[REVISAR → CHANCELA 10/09/2026 · F039-L5: AGUARDA-ÁUDIO (paralelo em RC-483, mesma fala) — ver nota]`], [os setianos] teriam sido encomendados por esse rapazinho [a Deidade/Barbelo RC-483]" (nova aresta RC-009 ↔ RC-483). [Fonte: P2024-09-28]
+
 ## 2. Natureza e Atributos
 
 - **[B014 p. 8]** a “volta de Jesus, no seu estado glorioso”, “nada mais é do que a sua condição conhecida como Sophia, tido mais recentemente como sendo o ‘Cristo Cósmico’.”
@@ -232,6 +237,9 @@ A vinda de Sophia ("Jesus em seu corpo glorioso") marca o fim do Isolamento Cós
 
 - **Rockma/Sofia engravidou Maria:** "devolver o corpo de fundo, os elétrons do corpo para Rockma Sofia, que havia engravidado Maria" — contexto da encarnação de Jesus (RC-072); [Fonte: P2024-09-28]
 
+- **Contexto acrescentado:** Sophia integra a cadeia de fatiamento do mesmo espírito ligado a Vishnu/Prabrajna e participa da Nova Espiritualidade, do Quarto Logos e da futura convivência cósmica. [Fonte: P2021-12-04]
+- **Não ama:** "Sofia não ama ninguém... não tem essa perspectiva mamífera de amar... O tipo de amor desses seres é: fulaninho tá se lascando, é, que se lasca"; [Fonte: P2024-09-28]
+
 ## 3. Hierarquia e Geopolítica
 
 - **[B013 p. 74]** Hochmah = Sophia = “feitor de Javé” / “deus executivo de Javé” (desde Enoch); reaparece em João como Verbo / forma celestial de Jesus.
@@ -299,6 +307,15 @@ A vinda de Sophia ("Jesus em seu corpo glorioso") marca o fim do Isolamento Cós
 - **Sofia não se metia:** "Sofia não faz nada nesses 4.000 anos nesse sentido. Ele fica assistindo essas coisas porque ele não se mete, porque Javé é quem se mete, Zeus se mete, Enki se mete"; [Fonte: P2021-03-27]
 
 - **Genoma "ordem e desordem":** "o genoma dele é ordem e desordem. O Sofia já destruiu muitas civilizações aí fora... ele foi engendrado como um suzerano" (resposta à pergunta sobre os elétrons de Jesus); [Fonte: P2024-09-28]
+
+- **[B014 p. 47]** capítulo: Sophia, o “Soberano Universal”.
+- **[B058 p. 10]** "esperámos muito tempo pela resposta de **Sophia – o 'Comandante deste universo' e 'Pai dos Biodemos'** – quanto ao pedido de se fazer uma reunião entre ele e os vários Sábios das 'famílias de biodemos'... **essa solicitação nunca foi atendida!**" (resolve o cliffhanger do B057.)
+- **«Sofia vai herdar tudo»** [Fonte: P2020-04-04]
+- **Consórcio:** humanos + Sophia (RC-720) — "somos todos sócios e parceiros de um destino"; vinda como "finalização de uma etapa". [Fonte: P2026-07-25]
+- **Contexto acrescentado:** Sophia aparece como representante do conglomerado trimurtiano neste universo e como futura mandatária/regente celeste, cuja chegada se vincula à Reintegração da Terra. [Fonte: P2022-12-17]
+- **Paraíso B:** Sophia como agente ligada ao "novo paraíso" para espíritos que pulsam de forma diferente (RC-612); [Fonte: P2023-05-13]
+- **Abelha rainha (RC-175):** "um monte de civilizações que obedece Sofia, mas obedece porque a Sofia é a abelha rainha, ou seja, é o velho sistema colmeico" — nova aresta RC-009 ↔ RC-175; [Fonte: P2021-03-27]
+- **Contexto arconte:** a vinda como promessa de Jesus/humano em intriga entre arcontes (RC-474 — P2023-12-02).
 
 ## 4. Histórico e Eventos Cósmicos
 
@@ -368,19 +385,15 @@ A vinda de Sophia ("Jesus em seu corpo glorioso") marca o fim do Isolamento Cós
 
 A pergunta sobre transferência para máquinas produz uma analogia com Jesus/Sophia. A palestra distingue a triangulação Sophia–Jesus–espírito da transferência simples de um conectoma para suporte cibernético.
 
+- **[B013 p. 82]** vinda de Hochmah/Sophia cumpre a promessa do “Avatar humano” Jesus (Apocalipse); cabalistas não viram Malkuth em Jesus.
+- **[B014 p. 20]** Sophia — “avatar da linhagem de Vishnu”; “mexeu de tal maneira com a Trimurti” que esta “teve mesmo que deixar de existir como tal desde o ano de 2015 — finalizando sua atuação em 2017.”
+- **[B039 p. 6]** Esclarecimentos: «incontáveis problemas que envolveram e envolvem o ser cósmico Sophia».
+- **[B057 p. 68 · cliffhanger]** "todos nós esperámos muito tempo por uma resposta de Sophia e, aqui, adianto o que será discutido no segundo livro desta trilogia: **essa explicação nunca veio!**" (→ B058).
+- **Relógio messiânico (RC-765):** a vinda é a "badalada" final do relógio — "deve cair agora, desse tempinho aqui da nossa vida, mas tem problemas; às vezes fasta para cá, fasta para lá, mas que vem, vem"; [Fonte: P2021-03-27]
+
 ## 5. Lentes Curatoriais e Quarentenas
 
-- **[B013 p. 18]** o Messias da “vinda” = Hochmah / Sophia.
-
-- **[B013 p. 82]** vinda de Hochmah/Sophia cumpre a promessa do “Avatar humano” Jesus (Apocalipse); cabalistas não viram Malkuth em Jesus.
-
 - **Quarentena teológica:** leitura de Ellam (Cabala × RC). Sem código novo. IEEA/Orbum **fora**. Fonte **B013** acrescentada na tabela-mestra.
-
-- **[B014 p. 5]** sinopse: “Quem é Sophia? Trata-se de Jesus na sua ‘forma gloriosa’? Seria o ‘Cristo Cósmico’?”
-
-- **[B014 p. 20]** Sophia — “avatar da linhagem de Vishnu”; “mexeu de tal maneira com a Trimurti” que esta “teve mesmo que deixar de existir como tal desde o ano de 2015 — finalizando sua atuação em 2017.”
-
-- **[B014 p. 47]** capítulo: Sophia, o “Soberano Universal”.
 
 - **Quarentena teológica:** forma gloriosa / Cristo Cósmico / Suserano = leitura de Ellam. IEEA/Orbum **fora**. RC-076/279/280 permanecem **sem ficha**. [Fonte: B014]
 
@@ -392,21 +405,11 @@ A pergunta sobre transferência para máquinas produz uma analogia com Jesus/Sop
 
 - **[B031 p. 172 · POSFÁCIO — QUARENTENA TEOLÓGICA/UFOLÓGICA: isolamento sumário (O-7)]** "já está mais do que na hora de Sophia vir nos tirar desse isolamento. Sei que para muitos poderá parecer loucura **Jesus voltar por cima das nuvens, em seu disco voador, cheio de naves ao seu redor**." — a "Segunda Volta" como **leitura da autora** (o próprio posfácio a apresenta como "um pensamento que tive, para que cada um reflita à sua maneira e chegue à conclusão que queira").
 
-- **[B039 p. 6]** Esclarecimentos: «incontáveis problemas que envolveram e envolvem o ser cósmico Sophia».
-
 - **[B057 p. 49 · leitura do ser em revolta — quarentena]** "E se **Sophia e as suas hostes, na verdade, fossem esse Criador** que tenta fazer-nos de **massa de manobra** para que soframos, e que nós... tenhamos que elaborar a 'cura' para ele próprio **através do nosso sofrimento**?" — teoria formulada na fase revoltada (caps. 5–7); o próprio Yel Luzbel a desqualifica depois ("contaminado com tantas ideias equivocadas", p. 45). **Não fato ontológico.**
-
-- **[B057 p. 68 · cliffhanger]** "todos nós esperámos muito tempo por uma resposta de Sophia e, aqui, adianto o que será discutido no segundo livro desta trilogia: **essa explicação nunca veio!**" (→ B058).
-
-- **[B058 p. 10]** "esperámos muito tempo pela resposta de **Sophia – o 'Comandante deste universo' e 'Pai dos Biodemos'** – quanto ao pedido de se fazer uma reunião entre ele e os vários Sábios das 'famílias de biodemos'... **essa solicitação nunca foi atendida!**" (resolve o cliffhanger do B057.)
 
 - **[B058 caps. 10–13]** o silêncio persiste: nem o **ofício da Universidade de Tau Ceti** ("enviaremos, imediatamente, um ofício da 'Universidade', solicitando que tudo seja desvendado por ele", p. 55) obtém resposta; Len Mion: "Ele nada dirá, **porque nada sabe!**" (p. 59 — leitura do ser em revolta).
 
 - **[B058 p. 72 · a suspeita — leitura do ser em revolta]** "**Sophia, que nos engendrou, também criou todos os nossos 'Processadores'.**"; "agora está evidente para mim que **Sophia e as suas Hostes devem espionar-nos por meio dos 'Processadores Familiares'!**" (RC-446/RC-453; O-7 — não fato ontológico.)
-
-- **[P2019-08-25 · O ENGENDRAMENTO DE SOPHIA — A "BOMBA" DE BRAHMA]** (fonte oral fundadora):
-
-- **«Sofia vai herdar tudo»** [Fonte: P2020-04-04]
 
 - **[P2020-04-18 · AS EGRÉGORAS QUE ELE NÃO PERCEBE — a limitação estrutural]** "SOFIA NÃO PERCEBEU NENHUMA EGRÉGORA... as egrégoras formam um universo à parte. Sofia é um ser biodemo... SOFIA NÃO TEM O PODER QUE NÓS HUMANOS TEMOS NO CAMPO DA MEDIUNIDADE OU DA PARANORMALIDADE... MAS ELE NÃO TEM COMO INTERAGIR COM AS EGRÉGORAS. SOFIA TEM QUE ESPERAR OS SERES HUMANOS SE RESOLVEREM. O QUE SOBRAR DESSA HISTÓRIA, ELE VAI TER QUE ASSUMIR" [ver RC-385]; "quando ele foi assumir os traumas humanos, eu disse: VOCÊ TEM QUE ABSORVER É O PORQUÊ DA GENTE CHORAR... ISSO É QUE VOCÊ TEM QUE ABSORVER — SÃO OS NOSSOS TRAUMAS" ⚠️ quarentena biomediúnica (a conversa).
 
@@ -434,33 +437,15 @@ A pergunta sobre transferência para máquinas produz uma analogia com Jesus/Sop
 
 - **Krishna impede a vinda:** medo da perda total da devoção humana (2 bilhões de muçulmanos + 2 bilhões de adoradores de Krishna); vinda = "festival de naves" (quarentena ufológica). [Fonte: P2026-07-25]
 
-- **Consórcio:** humanos + Sophia (RC-720) — "somos todos sócios e parceiros de um destino"; vinda como "finalização de uma etapa". [Fonte: P2026-07-25]
-
 - **[P2026-07-30 — FONTE ORIGINAL] Sophia e a vulnerabilidade (Pergunta 4):** "no início da Covid eu tive que dizer: 'ó, parece que Sofia foi agredido'... por forças que estavam procurando liquidá-lo"; "a vinda de Sofia está estabelecida de uma forma muito frágil em torno de promessas que o eu humano de Jesus fez; Sofia garantiu que cumpria, mas até agora a ausência de coerência total da parte desses eus"; "o problema é que existe um grupo de seres que quer saber a qualquer custo a vulnerabilidade em torno dessa questão de En Ma, que envolve Javé, Jesus e Sofia" [QUARENTENA TEOLÓGICA/BIOGRÁFICA — leitura do autor].
 
-- **Contexto acrescentado:** Sophia aparece como representante do conglomerado trimurtiano neste universo e como futura mandatária/regente celeste, cuja chegada se vincula à Reintegração da Terra. [Fonte: P2022-12-17]
-
 - **Status da evidência:** transcrição automatizada, pré-curada e validada terminologicamente pelo curador; conferir com áudio/obra primária antes de promoção de status. [Fonte: P2022-12-17]
-
-- **Contexto acrescentado:** Sophia integra a cadeia de fatiamento do mesmo espírito ligado a Vishnu/Prabrajna e participa da Nova Espiritualidade, do Quarto Logos e da futura convivência cósmica. [Fonte: P2021-12-04]
-
-- **Paraíso B:** Sophia como agente ligada ao "novo paraíso" para espíritos que pulsam de forma diferente (RC-612); [Fonte: P2023-05-13]
 
 - A lente religiosa das Cinco Lentes (RC-761) usa a vinda de Sophia como elemento de reintegração. [Fonte: P2023-05-13]
 
 - **"Sofia não tem nada a dar":** pergunta da plateia respondida com a leitura do autor sobre a vinda ("a gente vai falar disso"); [Fonte: P2023-12-02]
 
 - Contexto: a vinda de Sophia (RC-258 Coreografia Cósmica) é reintegração, mas o relato a insere no drama arconte (leitura do autor — quarentena geopolítica). [Fonte: P2023-12-02]
-
-- **Abelha rainha (RC-175):** "um monte de civilizações que obedece Sofia, mas obedece porque a Sofia é a abelha rainha, ou seja, é o velho sistema colmeico" — nova aresta RC-009 ↔ RC-175; [Fonte: P2021-03-27]
-
-- **Relógio messiânico (RC-765):** a vinda é a "badalada" final do relógio — "deve cair agora, desse tempinho aqui da nossa vida, mas tem problemas; às vezes fasta para cá, fasta para lá, mas que vem, vem"; [Fonte: P2021-03-27]
-
-- **Contexto arconte:** a vinda como promessa de Jesus/humano em intriga entre arcontes (RC-474 — P2023-12-02).
-
-- **Não ama:** "Sofia não ama ninguém... não tem essa perspectiva mamífera de amar... O tipo de amor desses seres é: fulaninho tá se lascando, é, que se lasca"; [Fonte: P2024-09-28]
-
-- **Setianos encomendados:** "segundo o que Sofia disse no hipócase [Hipócrates? `[REVISAR → CHANCELA 10/09/2026 · F039-L5: AGUARDA-ÁUDIO (paralelo em RC-483, mesma fala) — ver nota]`], [os setianos] teriam sido encomendados por esse rapazinho [a Deidade/Barbelo RC-483]" (nova aresta RC-009 ↔ RC-483). [Fonte: P2024-09-28]
 
 ### Observações
 

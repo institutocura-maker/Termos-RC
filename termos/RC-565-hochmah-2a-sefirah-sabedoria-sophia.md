@@ -123,9 +123,9 @@ Na palestra, o ser que inseminou Maria para gerar Jesus aparece em variações S
 
 - **[Rockman: o diretor executivo de Deus] (U0009)** «Ele disse: "Não sei, parece que um diretor executivo de Deus.» — a resposta de José de Arimateia à pergunta do jovem Jesus sobre quem era Rockman: segundo o livro da Sabedoria de Salomão, um diretor executivo de Deus — "Deus sem esse diretor executivo não teria feito o que fez"; a mesma pergunta que o menino Jesus fizera aos rabinos do Sinédrio sem resposta. [Fonte: P2023-02-11]
 
-## 5. Lentes Curatoriais e Quarentenas
-
 - **[B013 p. 82]** “A vinda de Hochmah/Sophia à Terra, como cumprimento da promessa feita pelo seu ‘Avatar humano’ Jesus.”
+
+## 5. Lentes Curatoriais e Quarentenas
 
 - **[P2023-06-03 · O CÉREBRO RADIATO E O PAPAGAIO]** "esse ser SE SENTE de umas formas porque NÃO TINHA EMOÇÃO ATÉ ENTÃO E ELE NÃO SABE FAZER USO DESSAS EMOÇÕES — **[Hochmah] é um CÉREBRO RADIATO, enquanto nós humanos temos a mente bicameral dos hemisférios. Até hoje esse ser tá processando a grandeza da devolução genética** que um simples homem que viveu 33-35 anos conseguiu produzir" + "minha mãe tinha um PAPAGAIO que prestava atenção louca a tudo que ela ensinava, MAS NUNCA APRENDEU A DIZER NADA. [Hochmah/Sofia] me dá a impressão desse papagaio... **ELE NÃO CONSEGUIU AINDA APROPRIAR NELE A BELEZA DO QUE JESUS DEVOLVEU PARA ELE quando entregou o genoma de volta. Até hoje esse ser tenta despertar nele a beleza do avatar humano que ele criou — E NÃO CONSEGUE.**" ⚠️ [a comparação com o papagaio = quarentena biográfica (a mãe); o conceito citável].
 

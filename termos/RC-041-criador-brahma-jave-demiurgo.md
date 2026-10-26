@@ -125,6 +125,8 @@ Brahma (RC-037); Javé (RC-001); Vishnu (RC-135); Shiva (RC-102); En Drel (RC-05
 
 - **[B039 p. 32]** NAT: remissão a B052 (*Homoafetividade*) — **não fundir**. Len Mion «estragou os planos do “Senhor de Noé”, o Criador», em duas ocasiões: à linhagem de Sem apresentou-se como «Javé»; aos arianos de Gomer, como «Brahma».
 
+- **[B033 p. 79]** quem gerou o «computador» «dele se tornou refém». Lemma «refém» — absorvido aqui; RC-196 **não materializada**.
+
 ## 4. Histórico e Eventos Cósmicos
 
 - **[B035 p. 15]** após a «queda sofrida», o mecanismo foi organizado para emanar ordens e receber alimento; «o criador é refém das suas próprias criaturas». RC-196 permanece **sem ficha**.
@@ -138,8 +140,6 @@ Brahma (RC-037); Javé (RC-001); Vishnu (RC-135); Shiva (RC-102); En Drel (RC-05
 - **[B035 p. 17]** «O criador nunca conseguiu “controlar” as informações pessoais que passaram a acontecer à revelia da sua vontade. Até hoje ele “sofre” com isso!» «desalmado» = «desprovido de alma» — **clínica / cosmologia, não diagnóstico**.
 
 - **[B001 p. 11]** lemma «refém» na voz de Ellam — absorvido aqui; RC-196 **não materializada**.
-
-- **[B033 p. 79]** quem gerou o «computador» «dele se tornou refém». Lemma «refém» — absorvido aqui; RC-196 **não materializada**.
 
 - **[B018 p. 68]** NAT: a face referida por Val Eno era a de um «Criador falido» — **quarentena clínica** (leitura, jamais diagnóstico); o «fator Javé» só se tornou consciente para os biodemos de Alt'Lam Gron e Shamb-Aha entre 2006 e 2017.
 

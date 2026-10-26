@@ -56,13 +56,13 @@ A equivalência Senhores do Dharma = Senhores da Lila = Trimurti consolida a lei
 
 Brahma (RC-037); Vishnu (RC-135); Shiva (RC-102).
 
+- **[B023 p. 15]** «seres que se apresentavam como “Senhores do Dharma” – os mesmos autoaclamados “Senhores da Lila”, da Trimurti hindu».
+
 ## 4. Histórico e Eventos Cósmicos
 
 - **[P2022-03-26 · SENHORES DA LILA NA FALA DE 26/03/2022]** "os níveis de aristocracia em torno da Trimurte. gerações que foram surgindo, que querem ser deles a trimurto e a última que surgiu em termos de de informação que a gente tem é a mitologia grega chamando de Zeus, os Olimpiados." (U0048) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⭐ **NOTA DE ANTERIORIDADE — P2022-03-26:** antecipa **19 meses** a atual fonte oral mais antiga da ficha (`P2023-10-14`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
 
 ## 5. Lentes Curatoriais e Quarentenas
-
-- **[B023 p. 15]** «seres que se apresentavam como “Senhores do Dharma” – os mesmos autoaclamados “Senhores da Lila”, da Trimurti hindu».
 
 ### Observações
 

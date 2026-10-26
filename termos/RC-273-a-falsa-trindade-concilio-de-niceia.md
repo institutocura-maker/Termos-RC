@@ -78,21 +78,17 @@ Sophia (RC-009); Jesus (RC-072); Javé (RC-001).
 
 - **«O Concílio de Nicéia, ferou com Ário, ferrou com o Arianismo e surgiu então o que? Os trinitaristas.»** [Fonte: P2023-12-25]
 
-## 5. Lentes Curatoriais e Quarentenas
-
 - **[B014 p. 187]** a urdidura da “Santíssima Trindade” no Concílio de Niceia — o autor remete o detalhe ao cap. 17.
-
 - **[B014 p. 196]** “Sophia ficou mais ‘espantado’ ainda ao acompanhar a formulação da ideia da ‘Santíssima Trindade’, produzida pelo ‘Concílio de Niceia’, no ano 325.”
+- Aula 04 narra o **Concílio de Niceia** e a imposição do trinitarismo (Ário derrotado) — corrobora e amplia a Falsa Trindade (RC-273). [Fonte: P2023-12-25]
+- **Tese de Ário:** "a tese de Ário? Que Jesus era só um ser humano que divinizou a si mesmo pela sua grandeza pessoal" — rejeitada pelos bispos trinitaristas; [Fonte: P2024-09-28]
+- Nova aresta RC-072 ↔ RC-273 (Jesus ~ Falsa Trindade). [Fonte: P2024-09-28]
+
+## 5. Lentes Curatoriais e Quarentenas
 
 - **Quarentena histórico-religiosa e teológica:** Niceia = narrativa de Ellam, **não** fato histórico validado. Sem código novo. [Fonte: B014]
 
 - **[Agostinho de Hipona e a imposição dogmática] (U0008)** «Então assim, aí Agostinho bateu na mesa e disse: "A partir de hoje, quem desconfia de que a vida não é boa ou que Deus não é perfeito, vai pro inferno".» — STT «Agostinho Dipona»/«Agostinho de Pon» = Agostinho de Hipona (séc. IV-V); a imposição que encerrou o questionamento sobre a bondade divina e o problema do mal durante séculos (RC-273; religião institucional como quarentena). [Fonte: P2022-11-19]
-
-- Aula 04 narra o **Concílio de Niceia** e a imposição do trinitarismo (Ário derrotado) — corrobora e amplia a Falsa Trindade (RC-273). [Fonte: P2023-12-25]
-
-- **Tese de Ário:** "a tese de Ário? Que Jesus era só um ser humano que divinizou a si mesmo pela sua grandeza pessoal" — rejeitada pelos bispos trinitaristas; [Fonte: P2024-09-28]
-
-- Nova aresta RC-072 ↔ RC-273 (Jesus ~ Falsa Trindade). [Fonte: P2024-09-28]
 
 ### Observações
 

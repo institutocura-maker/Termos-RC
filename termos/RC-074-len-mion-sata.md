@@ -113,6 +113,10 @@ Na RC, figura correlacionada a **Satã** — ser de alto escalão no drama da cr
 
 - Conecta-se ao drama de Lúcifer/Yel Luzbel (RC-078) e à Rebelião (RC-002) — par de Javé no desfecho cósmico. [Fonte: P2021-03-27]
 
+- **[B057 p. 43 · o conclave Mion]** "— **Se, por um acaso, eu concordar com você nas suas teorias, mudarei o rumo da vida da minha família e não seguirei mais Sophia.** Conte-me e veremos o que vai acontecer em seguida." (Len Mion, após ouvir as questões.)
+- **[B057 p. 42]** o desafio de Yel: "Quer anexar em você a incerteza e a preocupação ao descobrir que está envolvido numa **'simulação fantasiosa'** a respeito da vida que levamos neste ambiente...?"
+- **Influência em Marduk:** "a atuação de Len Mion e sua influência em Marduk" (seção 6.2 do Sumário) — contexto do relógio messiânico (RC-765): Marduk (RC-460) tentou assumir a regência da Era de Peixes e "a turma não aceitou"; [Fonte: P2021-03-27]
+
 ## 4. Histórico e Eventos Cósmicos
 
 - **[B057 p. 61]** a "pólvora": "E eu, fui 'aquele' que lhes deu a **'pólvora' certa** para fazerem 'explodir', neles próprios, esse tipo de comportamento. Então, essa foi a **perdição da família Mion**."
@@ -125,15 +129,9 @@ Na RC, figura correlacionada a **Satã** — ser de alto escalão no drama da cr
 
 ## 5. Lentes Curatoriais e Quarentenas
 
-- **[B057 p. 43 · o conclave Mion]** "— **Se, por um acaso, eu concordar com você nas suas teorias, mudarei o rumo da vida da minha família e não seguirei mais Sophia.** Conte-me e veremos o que vai acontecer em seguida." (Len Mion, após ouvir as questões.)
-
-- **[B057 p. 42]** o desafio de Yel: "Quer anexar em você a incerteza e a preocupação ao descobrir que está envolvido numa **'simulação fantasiosa'** a respeito da vida que levamos neste ambiente...?"
-
 - **[B058 p. 52 · a ruptura com Yel]** "Mesmo que você desista, **eu não recuarei!**... daremos seguimento à nossa 'causa'"; "estes Sábios que vivem **enclausurados e ligados em dogmatismos de cunho científico**"; "a sua Hierarquia **'falida'** e a este **falso Criador, inventado por eles, para somente nos dominar!**" (leitura do ser em revolta — O-7.)
 
 - **[P2020-04-25 · LEMION E MUITOS COM ELE AINDA NÃO FORAM EXILADOS [REVISAR: Len Mion → CHANCELA 2026-09-06 · F042-VARREDURA: ISOLAMENTO (orfandade 1× no corpus — precedente Olga/deibir) — ver nota]]** "Lemion e muitos com ele ainda não foram exilados uma pane maluca nesse negócio aí de exílio espiritual." (U0013) — **D-7:** grafia preservada, hipótese declarada. Afirmação **contra** o estado da ficha: o ciclo a registra como divergência datada, não como correção. · 🆕 **primeira fonte oral desta ficha** — o cadastro só tinha `B031`, `B017`, `B018`, `B039`, `B057`, `B058`, `B060`, `P2021-03-27; RC-286`, `P2020-04-25`; `P2020-04-25` entra como a primeira fala registrada, **com a data de 25/04/2020**.
-
-- **Influência em Marduk:** "a atuação de Len Mion e sua influência em Marduk" (seção 6.2 do Sumário) — contexto do relógio messiânico (RC-765): Marduk (RC-460) tentou assumir a regência da Era de Peixes e "a turma não aceitou"; [Fonte: P2021-03-27]
 
 ### Observações
 

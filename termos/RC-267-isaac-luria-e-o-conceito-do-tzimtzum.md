@@ -38,15 +38,11 @@ Isaac Luria (séc. XVI, Safed) — cabalista que sistematizou o conceito do Tzim
 
 - Tzimtzum distorcido: Isaac Lúria disse que é por isso que tem luz no abismo — o Deus que criou mergulhou no abismo por amor aos que estavam no abismo; Deus mergulhou por causa dos judeus (crítica do autor ao viés nacionalista); cabalistas profundos, porém descuidados. [Fonte: P2025-05-31]
 
-- Ver B013 (livro do autor sobre o Tzimtzum).
-
 - **[B013 p. 6]** Isaac Luria “produziu o conceito do ‘Tzimtzum’” e interpretou a obra de Shimon Bar Yochai.
 
 - **[B013 p. 14]** a visão de Luria sobre a Cabala produziu o conceito “por ele criado”; a frase “exílio de deus dentro dele mesmo” “corresponde exatamente ao conceito da ‘queda de um deus no âmbito da sua Criação’.”
 
 - **[B013 p. 18]** Luria “prefere classificar a ‘queda’ desse Ser como sendo um ‘exílio’”; o termo camufla a queda.
-
-- **[B013 p. 30–31]** citação lurianica da contração; Daniel Matt sobre vasos que se estilhaçam e “tikun” como “reparo” — **não** acrescentar B013 a RC-514 sem autorização; fica só o contexto de Luria.
 
 - **Quarentena teológica / histórico-religiosa:** Luria (Safed, séc. XVI) e o Zohar — narrativa do autor, não biografia acadêmica. Sem ficha nova. [Fonte: B013]
 
@@ -56,6 +52,9 @@ Isaac Luria (séc. XVI, Safed) — cabalista que sistematizou o conceito do Tzim
 
 [Aguardando Ditado Livre]
 Quarentena teológica — leitura do autor.
+
+- Ver B013 (livro do autor sobre o Tzimtzum).
+- **[B013 p. 30–31]** citação lurianica da contração; Daniel Matt sobre vasos que se estilhaçam e “tikun” como “reparo” — **não** acrescentar B013 a RC-514 sem autorização; fica só o contexto de Luria.
 
 ## 6. Histórico Curatorial e Auditoria
 

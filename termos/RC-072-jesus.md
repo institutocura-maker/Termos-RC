@@ -159,6 +159,10 @@ Figura central do drama da RC: na leitura de Jan Val Ellam, Jesus é a expressã
 
 - **Sethianos (RC-766):** "a mesma turma que tava encarnada na época de Seth encarnou na época de Jesus" (novas arestas RC-072 ↔ RC-273, RC-072 ↔ RC-268). [Fonte: P2024-09-28]
 
+- **[B014 p. 8]** a tradição cristã chama de volta no “estado glorioso” o que o livro identifica como Sophia.
+- **[B039 p. 50]** NAT: Jesus = avatar humano de Sophia; a ressurreição devolve a herança ao «feitor».
+- **[B043 p. 94]** “Se minha doutrina não servir para despertar nas pessoas a ousadia do comportamento amoroso para muito pouco servirá.”
+
 ## 2. Natureza e Atributos
 
 - **[B014 p. 22]** “o ‘homem Jesus’, o seu avatar humano, reside nele [Sophia], na sua ‘Consciência Mais Profunda’.”
@@ -232,6 +236,8 @@ Figura central do drama da RC: na leitura de Jan Val Ellam, Jesus é a expressã
 - **Jesus ressuscitado criou a gnose:** para explicar a Maria o porquê do sofrimento — "o que chamamos de gnosticismo propriamente dito surgiu como necessidade do eu de Jesus após a sua morte, de explicar os seus afetos, notadamente a sua mãe"; [Fonte: P2024-09-28]
 
 - **Elétrons devolvidos a Sofia (RC-009):** "devolver o corpo de fundo, os elétrons do corpo para Rockma Sofia"; Getsêmani/transfiguração: "você pode alterar seu DNA e ao devolver a Sofia, você vai vir abalado"; [Fonte: P2024-09-28]
+
+- **[B014 p. 30]** o “humano Jesus” é “o caso mais extremo” do fatiamento: produziu um “Eu” “muito superior às demais ‘expressões fatiadas’.”
 
 ## 3. Hierarquia e Geopolítica
 
@@ -329,6 +335,17 @@ Figura central do drama da RC: na leitura de Jan Val Ellam, Jesus é a expressã
 
 - Contexto: a recusa de Jesus como o "chute no pau da barraca" da agenda de Javé (reforço de P2024-09-28).
 
+- **[B009 p. 353]** Ellam: «estar servindo ao Mestre Jesus»; o que faz, faz «acreditando […] estar servindo […] ao amigo maior, Jesus»; se houver equívoco, registra só «a minha boa intenção em servi-Lo».
+- **[B025 p. 109]** Esclarecimento: «Que o Bom Amigo e Mestre Jesus nos dê a Sua Paz.»
+- **[B026 p. 206]** hoje «desejosos de por Ele trabalharem»; «convocados pelo amor de Jesus que a todos abraça»; «Que a Sua paz seja conosco!»
+- **[B027 p. 7]** Esclarecimento: «essas sinfonias têm na pessoa do Mestre Jesus, o maestro amigo que, em profunda harmonia com os mentores e trabalhadores deste e de outros orbes, tomam nas mãos os instrumentos terrenos necessários para que a música possa ser escutada na esfera dos encarnados».
+- **[B027 p. 7]** «É da vontade do Mestre que assim o seja!»; «conforme a vontade dEle, que é o reflexo maior do amor do Pai».
+- **[B043 p. 63]** “não sou o ser a quem nosso patriarca se refere; sou um, em uníssono com ele”; “Aqui, encontro-me a serviço direto do deus do nosso povo, mas atendendo ao mister amoroso do Pai Celestial.”
+- **«a destinação terrível de ser aquele Messias violento»** [Fonte: P2020-04-04]
+- **«Ele nunca quis assumir aquilo»** [Fonte: P2020-04-04]
+- **"Reinar sobre o processo":** Ellam atribui a Jesus a fala sobre a busca da verdade — "quem busca a verdade vai ter o estranho hábito de nunca deixar de procurar a verdade" — cada dose de susto (pílula vermelha, RC-192) vai ajeitando o buscador até "passar a reinar sobre o processo"; [Fonte: P2023-05-13]
+- **Recusa do reinado:** "o homem Jesus chutou o pau da barraca e disse: 'Eu não faço, não vou fazer'... ele tentou fazer, é que ele não conseguiu"; [Fonte: P2024-09-28]
+
 ## 4. Histórico e Eventos Cósmicos
 
 - **[P1 · Jesus]** «E mais especificamente, há cerca de 4 mil anos atrás, 2 mil anos atrás e agora Porque como a gente vai ver, nesse ramo da história Que tem a ver com a questão de Javé, de Jesus, Sofia, vinda de Sofia Ainda que as coisas não tenham caminhado de uma forma muito clara para os olhos humanos Mas os olhos humanos que se adestram na arte de tentar entender as cores que se situam além da vida humana, mas que tentam entender todo esse processo, que é isso que a gente está fazendo aqui juntos, o pior é que a gente consegue ter um quadro mais abjeto ainda, mais nojento, mais terrível, do que aquele que só a vida humana, por si só, constrói.» (U0103) — candidata de cotejo ampliado; evidência `OIDR26-01-RC-072-001`, grafia literal `Jesus`, sem homologação de pérola.
@@ -358,9 +375,12 @@ Figura central do drama da RC: na leitura de Jan Val Ellam, Jesus é a expressã
 
 - **Vinda de Sophia (Jesus/Cristo Cósmico):** seção 9.4 do Sumário — "A Vinda de Sophia (Jesus/Cristo Cósmico) e a Reintegração Cósmica da Terra", após o fechamento dos portais (2012, cronologia interna); [Fonte: P2023-05-13]
 
-## 5. Lentes Curatoriais e Quarentenas
-
 - **[B003 p. 3 / p. 9]** Ellam: «empunhar os lenços brancos de paz e concórdia e acenar para o Mestre Jesus», pedindo que a Terra seja «mais uma vez, integrada à convivência cósmica».
+- **[B043 p. 18]** Jesus, “por aqueles dias, estava com 21 anos incompletos”; parte com José de Arimatéia rumo às terras dos gauleses.
+- **[B049 p. 77]** cap. 7: Jesus pretendeu «arrebanhar» a humanidade para uma convergência, «mas nem tanto».
+- **Maria Madalena:** 1ª a quem Jesus ressuscitado apareceu (não a mãe); [Fonte: P2024-09-28]
+
+## 5. Lentes Curatoriais e Quarentenas
 
 - **[B003 p. 9]** «irmãos de outros orbes» / «Fraternidade Cósmica» = **ufológica** (leitura, não contacto validado).
 
@@ -368,43 +388,15 @@ Figura central do drama da RC: na leitura de Jan Val Ellam, Jesus é a expressã
 
 - **[B009 p. 19]** Esclarecimento: o «juízo do mundo» «sequer logra […] estar na direção analítica correta» quanto a «Jesus e os temas centrais de sua mensagem», «mesmo decorridos dois mil anos»; «missões complementares ao testemunho do Cristo» (Espiritismo = «exemplo mais recente») também desfiguradas — **quarentena teológica**.
 
-- **[B009 p. 353]** Ellam: «estar servindo ao Mestre Jesus»; o que faz, faz «acreditando […] estar servindo […] ao amigo maior, Jesus»; se houver equívoco, registra só «a minha boa intenção em servi-Lo».
-
 - **[B011 p. 134–135]** diretriz pré-encarnação: sem interferência de naves; a consciência maior "encontrava-se submetida aos fatores limitantes de um cérebro físico terrestre" — **quarentena ufológica** na menção a naves; o limite cerebral é leitura do narrador (Moisés).
-
-- **[B014 p. 8]** a tradição cristã chama de volta no “estado glorioso” o que o livro identifica como Sophia.
-
-- **[B014 p. 30]** o “humano Jesus” é “o caso mais extremo” do fatiamento: produziu um “Eu” “muito superior às demais ‘expressões fatiadas’.”
 
 - **[B017 p. 14]** NAT: ao tempo de B026, os mentores apresentaram «a figura cósmica que viria a ser conhecida mais tarde através da figura de Jesus» como «uma das “autoridades cósmicas” que presidia a um grupo de civilizações» na Via Láctea. **Quarentena mediúnica.**
 
 - **[B018 p. 56]** NAT: o espírito de Yel Am, emancipado da condição biodemo, «viria a ter […] a função de apóstolo junto ao Mestre Jesus, mais especificamente como a personificação de Judas Iscariotes». **Quarentena mediúnica / teológica.**
 
-- **[B025 p. 109]** Esclarecimento: «Que o Bom Amigo e Mestre Jesus nos dê a Sua Paz.»
-
-- **[B026 p. 206]** hoje «desejosos de por Ele trabalharem»; «convocados pelo amor de Jesus que a todos abraça»; «Que a Sua paz seja conosco!»
-
-- **[B027 p. 7]** Esclarecimento: «essas sinfonias têm na pessoa do Mestre Jesus, o maestro amigo que, em profunda harmonia com os mentores e trabalhadores deste e de outros orbes, tomam nas mãos os instrumentos terrenos necessários para que a música possa ser escutada na esfera dos encarnados».
-
-- **[B027 p. 7]** «É da vontade do Mestre que assim o seja!»; «conforme a vontade dEle, que é o reflexo maior do amor do Pai».
-
-- **[B039 p. 50]** NAT: Jesus = avatar humano de Sophia; a ressurreição devolve a herança ao «feitor».
-
 - **[B039 p. 113]** NAT: disputa «explícita entre Jesus e Javé»; o Criador enviara um «Messias» que «teria que dominar pela força»; Jesus «recusou-se» e «pagou o “preço” ao ser crucificado»; ao ressuscitar, «mostrou ter poder superior ao de Javé e mesmo ao de Sophia». **Quarentena teológica.**
 
-- **[B043 p. 18]** Jesus, “por aqueles dias, estava com 21 anos incompletos”; parte com José de Arimatéia rumo às terras dos gauleses.
-
-- **[B043 p. 63]** “não sou o ser a quem nosso patriarca se refere; sou um, em uníssono com ele”; “Aqui, encontro-me a serviço direto do deus do nosso povo, mas atendendo ao mister amoroso do Pai Celestial.”
-
-- **[B043 p. 94]** “Se minha doutrina não servir para despertar nas pessoas a ousadia do comportamento amoroso para muito pouco servirá.”
-
 - **Quarentena teológica / histórico-religiosa:** voz do romance (psicografia). Pai Incognoscível **não** vira código (O-4). RC-374/376 não materializados. [Fonte: B043]
-
-- **[B049 p. 77]** cap. 7: Jesus pretendeu «arrebanhar» a humanidade para uma convergência, «mas nem tanto».
-
-- **«a destinação terrível de ser aquele Messias violento»** [Fonte: P2020-04-04]
-
-- **«Ele nunca quis assumir aquilo»** [Fonte: P2020-04-04]
 
 - **[P2020-04-25 · A RECUSA DO PODER LIDA COMO PRODUTO DA GENÉTICA INSERIDA]** "Ele entrou em guerra com Jesus até um tempo atrás que ele não aceitava o modelo genético que Jesus criou." (U0006) — ⚠️ Quarentena teológica (retenção): entra com rótulo, e o ciclo **não** a projeta sobre nenhuma tradição viva. · ⭐ **NOTA DE ANTERIORIDADE — P2020-04-25:** antecipa **14 dias** a atual fonte oral mais antiga da ficha (`P2020-05-09`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
 
@@ -425,12 +417,6 @@ Figura central do drama da RC: na leitura de Jan Val Ellam, Jesus é a expressã
 - **[P2024-11-03 · O FATIAMENTO E A CICATRIZ]** "o espírito que deu sustentabilidade à face humana de Jesus UTILIZOU-SE DE UMA DE SUAS FORMAS [ADIBUTA — REVISAR → CHANCELA 10/09/2026 · F039-L5: AGUARDA-ÁUDIO (hipótese adibuddha registrada; hapax) — ver nota]... Já o outro ser que foi Jesus, ELE TEVE QUE SE ANCORAR NUMA ESPÉCIE DE UMA DUPLICATA DA SUA CONDIÇÃO ESPIRITUAL, JÁ QUE JESUS É UMA CONSCIÊNCIA FATEADA DE UM OUTRO ESPÍRITO QUE TAMBÉM JÁ CUIDA DE UM OUTRO SER FATEADO... O NASCIMENTO DE JESUS FOI MUITO COMPLICADO SE COMPARADO COM O DE APOL[ÔNIO]"; "ELE SE DEIXOU CRUCIFICAR PARA PODER TENTAR SENSIBILIZAR JAVÉ A SE RENDER AO SACRIFÍCIO DELE. E NÃO ADIANTOU"; "NINGUÉM SAIU LIMPO TOTALMENTE DISTO. TODO MUNDO TEM CICATRIZES E OU SUJEIRAS. **NEM JESUS SAIU TOTALMENTE LIVRE DISSO. TEM CICATRIZ**"; "esses seres que estão [hoje] não humanos, MARIA, ALGUNS APÓSTOLOS DE JESUS, DISCÍPULOS, ESTÃO AQUI EXATAMENTE DANDO FORÇA À REVELAÇÃO CÓSMICA, PORQUE É ISSO QUE JESUS, ENTRE ASPAS, QUER"; "JESUS SE ESQUECEU DISSO [o tikun]. TÁ, TÁ TENDO QUE SE RELEMBRAR E REDIMENSIONAR AS CERTEZAS E EXCLUSIVISTAS QUE ELE TINHA" (RC-514).
 
 - **[P2026-07-30 — FONTE ORIGINAL] Jesus e a não-continuidade (Pergunta 4):** "Jesus nasceu 2.000 anos [atrás]; esse espírito era para estar produzindo outros corpos humanos dando sequência a Jesus, mas não consegue fazer"; "tudo o que Jesus prometeu que aconteceria na frente ainda não se cumpriu, porque seu espírito não sabe acender o fósforo [STT “fóssil” — REVISAR → CHANCELA 10/09/2026 · F039-L5: AGUARDA-ÁUDIO (leitura “fósforo” registrada, não confirmada) — ver nota], seu espírito não tem força devido ao estado de profunda decadência de alguns dos seus eus"; "muita gente, não necessariamente humana, observa a atuação desse espírito e a não continuidade; esse problema começou desde a rebelião de Lúcifer" [QUARENTENA TEOLÓGICA — leitura do autor].
-
-- **"Reinar sobre o processo":** Ellam atribui a Jesus a fala sobre a busca da verdade — "quem busca a verdade vai ter o estranho hábito de nunca deixar de procurar a verdade" — cada dose de susto (pílula vermelha, RC-192) vai ajeitando o buscador até "passar a reinar sobre o processo"; [Fonte: P2023-05-13]
-
-- **Recusa do reinado:** "o homem Jesus chutou o pau da barraca e disse: 'Eu não faço, não vou fazer'... ele tentou fazer, é que ele não conseguiu"; [Fonte: P2024-09-28]
-
-- **Maria Madalena:** 1ª a quem Jesus ressuscitado apareceu (não a mãe); [Fonte: P2024-09-28]
 
 ## 6. Histórico Curatorial e Auditoria
 

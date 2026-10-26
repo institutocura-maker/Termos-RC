@@ -64,6 +64,8 @@ Naves ou estações gigantescas de semeadura de vida biológica, construídas pe
 
 - **[os três fornos — o de Brahma não funcionou] (U0005)** «A gente diz que um for de Brama chamado a não funcionou.» — os três fornos replicadores: STT `Brama`=Brahma (forno de Awayen RC-836, não funcionou); `China`/`Chiva`=Shiva (forno de Awaylengan RC-837, vida emocional/animalidade); `Virgo`=Vishnu (forno de Awaymaion RC-499, biodemos/sensatez). [Fonte: P2017-10-14]
 
+- **[P2019-08-25 · FONTE ORAL FUNDADORA — a fonte mais antiga dos três fornos]** (predata P2021-05-15 em 2 anos e o ART-2025-08-01 em 6 anos):
+
 ## 2. Natureza e Atributos
 
   - **Awaylengan** (Shiva — Segundo Logos): o **primeiro** forno a surgir e o **mais ativo**; "universidade genética"; emergiram os gêneros **demol** e **demobiol**; seres **radiata** (RC-093) mais animalizados, voltados às emoções; avatares de Shiva (ex.: Sai Baba, edificado a partir do que veio de Krishna); [Fonte: ART-2025-08-01]
@@ -79,6 +81,8 @@ Naves ou estações gigantescas de semeadura de vida biológica, construídas pe
 - **[Fornos Replicadores — os três fornos criadores] (U0003)** «Foi quando A e Aá maon, a Lingan, esses três formos criadores foram gerados e durante muitos milhões de anos, a mente de cada um desses três seres, Brama, Virgem e Cho, funcionava a ligado, vinculado a esses fornos de replicação.» — a tríade Awayen (Brahma), Awaymaion (Vishnu) e Awaylengan (Shiva), a mente de cada Trimurtiano vinculada ao seu forno. [Fonte: P2022-05-07]
 
 - **Cruzamento estrutural aprovado:** preservar a leitura em conjunto com RC-454 e RC-091, sem criar fichas para os componentes e sem alterar a malha. [Fonte: P2025-07-18]
+
+- **A Mensagem Talm já codificada** no forno de Vishnu "há muito tempo", mesmo antes de funcionar. [Fonte: P2019-08-25]
 
 ## 3. Hierarquia e Geopolítica
 
@@ -96,10 +100,6 @@ Naves ou estações gigantescas de semeadura de vida biológica, construídas pe
 ## 5. Lentes Curatoriais e Quarentenas
 
 - **[ART-2025-08-01 — material do curador] Os três fornos (Partes I–III):**
-
-- **[P2019-08-25 · FONTE ORAL FUNDADORA — a fonte mais antiga dos três fornos]** (predata P2021-05-15 em 2 anos e o ART-2025-08-01 em 6 anos):
-
-- **A Mensagem Talm já codificada** no forno de Vishnu "há muito tempo", mesmo antes de funcionar. [Fonte: P2019-08-25]
 
 - **Quarentena:** fornos, plasma, cérebro radiato e transferência interuniversal permanecem em registro ufológico/cosmológico do autor, não em literalidade científica. [Fonte: P2025-07-18]
 

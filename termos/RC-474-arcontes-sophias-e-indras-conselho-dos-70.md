@@ -76,6 +76,8 @@ Na RC, colegiado de seres = "Sophias e Indras; Conselho dos 70" — linhagem de 
 
 - "vários outros arcontes não querem que nenhum desses dois assuma nada" (Cristo/Sophia vs. o processo em curso) — confusão registrada pelo autor. [Fonte: P2023-12-02]
 
+- **Lógica não humana:** nenhum membro pensa como humano; únicos candidatos humanos: Jesus (rejeitado) e Saibaba (não quis entrar). [Fonte: P2026-07-25]
+
 ## 3. Hierarquia e Geopolítica
 
 - **Três conselhos (esqueleto da palestra):** 1º Trimurti (deuses primevos, ~4 bi anos) → 2º Dev/Aurora + Cama/Kama + descendência trimurtiana → 3º Dinastia das Sophias/Conselho dos 70 (com os humanos). [Fonte: P2026-07-25]
@@ -106,11 +108,9 @@ Na RC, colegiado de seres = "Sophias e Indras; Conselho dos 70" — linhagem de 
 
 - **[Arcontes — a oposição a Sophia] (U0003)** «porque está enfrentando uma oposição de arcontos.» — Sophia não cumpre a promessa porque enfrenta a oposição dos arcontes (suserania universal). [Fonte: P2022-05-07]
 
-## 5. Lentes Curatoriais e Quarentenas
-
-- **Lógica não humana:** nenhum membro pensa como humano; únicos candidatos humanos: Jesus (rejeitado) e Saibaba (não quis entrar). [Fonte: P2026-07-25]
-
 - **Crise:** "dias contados" — universo vizinho colapsando, sem novos membros, seres de Ensá saindo, Krishna alinhado ao inevitável; transição: arcontes nascendo como humanos. [Fonte: P2026-07-25]
+
+## 5. Lentes Curatoriais e Quarentenas
 
 - **[A geopolítica cósmica e a sucessão de avatares] (U0069)** «Então assim, o segundo ponto da revelação cósmica Não em importância, mas que se um ser humano quiser compreender os próximos acontecimentos da geopolítica que envolve a Terra, fatalmente vai ter que estudar bastante sobre Enoque, sobre a figura de Metatron, sobre a geopolítica cósmica e sobre essa história de que ao longo das páginas da evolução humana sempre tem anúncio de avatares vindo à Terra e esses avatares chegam aqui e produzem revelações.» — a geopolítica cósmica como segundo ponto da revelação cósmica: Enoque, Metatron, a sucessão de avatares na Terra cumprindo a agenda de Javé; RC-474 Arcontes; RC-001. [Fonte: P2025-12-14]
 

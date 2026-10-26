@@ -122,11 +122,11 @@ Após o Ragnarok em Marte, o Axis Mundi teria sido transferido para Naimisharany
 
 Antes da destruição de Marte, Kvasir teria repetido o gesto de Moros e enviado três arquivos ao universo material. A palestra relaciona o evento à Brahmastra e às localizações Edimburgo, Split e Naimisharanya. Alegações de xenônio/John Brandenburg permanecem controversas.
 
+- **[P2023-08-05 · as Flechas de Moros]** "uma outra história... que tem a ver com as setas ou Flechas de Moros terminaram concentrando aqui em Marte e na Terra todo o interesse dessa turma" (cross RC-611).
+
 ## 5. Lentes Curatoriais e Quarentenas
 
 - **[B050 · trilha A2 — o pano de fundo biológico]** "Surgem os dinossauros na Terra (230 milhões a.p.)" · "4ª grande extinção dos seres vivos (225 milhões)" · "Primeiros mamíferos (pequenos ratos) (190–80 milhões)" — o Ragnarok datado entre a explosão cambriana (540 mi) e a extinção dos dinossauros (66 mi) — **quarentena científica** para a datação geológica convencional (O-7).
-
-- **[P2023-08-05 · as Flechas de Moros]** "uma outra história... que tem a ver com as setas ou Flechas de Moros terminaram concentrando aqui em Marte e na Terra todo o interesse dessa turma" (cross RC-611).
 
 - **[P2023-05-20 · O ESPÍRITO DE ODIN]** ⚠️ [quarentena biomediúnica] "**O ODIN FOI MORTO NO RAGNAROK. O ESPÍRITO DE ODIN HÁ UNS 20 ANOS ME TRANSMITE NOTÍCIAS.** E eu comecei a tomar nota disso. Tem uns livros que eu comecei a escrever, MAS NÃO VOU TERMINAR, chamado 'A HORA MAIS SOMBRIA QUE AINDA VIRÁ'... é exatamente Odin em espírito dizendo umas coisas... é como se o Ragnarok tivesse a sua parte um, MAS TEM UMA OUTRA PARTE" [a obra inédita no radar — B094].
 

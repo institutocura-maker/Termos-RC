@@ -87,9 +87,9 @@ A palestra situa o colapso das colmeias, desde 2006/2007, e o colapso de corais 
 
 - **[P2024-07-13] A entropia destrói (U1070–U1110):** "é um momento de colapso... mas colapso de quê? Daquilo que o caos conseguiu construir desde que o caos surgiu aqui. Então, o caos passou 13,8 bilhões de anos construindo, mas chegou um ponto em que a entropia agora tá destruindo tudo que foi construído. Nós vamos precisar reconstruir outros sistemas".
 
-## 5. Lentes Curatoriais e Quarentenas
-
 - **O experimento humano em perigo:** "se os humanos saírem de cena da vida universal, ferrou, porque não tem plano B — na verdade não existia nem plano A" (humanos surgiram "num acidente" — Eva e a beberagem do chamanismo). [Fonte: P2025-03-15]
+
+## 5. Lentes Curatoriais e Quarentenas
 
 - **[P2024-07-13] Os choques de realidade (U1080–U1130):** "convulsões geológicas e climáticas; percepção da vida extraterrestre do contexto Sophia. Só esses dois aqui já é para bagunçar tudo que tem na Terra"; "as convulsões vão mudar drasticamente as áreas agricultáveis de todo o planeta"; Groenlândia descongelando (Dinamarca; petróleo); "a corrente Golf Stream, que é uma corrente de água quente dentro dos oceanos, já colapsou"; "o oceano vai subir entre 5 a 7 metros e com isso vai acabar quase todas as cidades litorâneas do mundo. Ele já fez isso há 11.000 anos atrás"; "isso não é o fim do mundo. São fins de ciclo"; "não há nada que possa ser feito para impedir o problema. O que a gente pode fazer é minorar os efeitos sobre a gente, sobre a nossa família" [quarentena climática — leitura do autor].
 

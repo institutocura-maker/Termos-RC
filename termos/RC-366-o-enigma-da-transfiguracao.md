@@ -44,6 +44,8 @@ O B011 é dedicado a desvendar o enigma: "a Transfiguração relatada nas págin
 
 > "A Transfiguração relatada nas páginas do Novo Testamento é apenas mais um dos estranhos eventos que cercaram a vida de Jesus. Porém, diferente dos demais, o fenômeno por si só já abre todo um conjunto de possibilidades que, se verdadeiros, modificam por completo o entendimento que temos a respeito da personalidade de Jesus." — B011, Esclarecimento
 
+- **[B011 p. 5]** o objetivo das revelações é "o porquê de ter acontecido — nos moldes em que se deu — o encontro entre Jesus e as entidades descritas e o que conversaram".
+
 ## 2. Natureza e Atributos
 
 - **[B011 p. 135]** o encontro foi **solicitado** porque, "mesmo sendo Ele quem era, Sua consciência maior encontrava-se submetida aos fatores limitantes de um cérebro físico terrestre"; "caberia ao próprio Mestre acenar com a hora".
@@ -71,8 +73,6 @@ Jesus (RC-072); Moisés e Elias (personagens da Transfiguração); Pedro, Tiago 
 - **[O não-interferir da Transfiguração] (U0005)** «Não interfiram. É comigo até o final.» — no monte da Transfiguração (a nave; "uma nuvem já tinha dominado, ou seja, uma nave"), anjos de Sofia e do criador cobram o cumprimento da agenda milenar; Jesus transfigura o corpo, "se fez igual aos anjos, falou com eles na linguagem de capela que Sofia falava" (U0005: «Aí Jesus transfigurou o corpo humano dele, se fez igual aos anjos, falou com eles na linguagem de capela que Sofia falava.») e responde "Eu estou entendendo muito bem. Eu sei o que estou fazendo. Sei também o que não estou fazendo. Não interfiram. É comigo até o final." — episódio "que eu descrevo no livro o enigma da transfiguração de Jesus" (U0005: «de Jesus que eu descrevo no livro o enigma da transfiguração de Jesus.»). [Fonte: P2022-11-20]
 
 ## 5. Lentes Curatoriais e Quarentenas
-
-- **[B011 p. 5]** o objetivo das revelações é "o porquê de ter acontecido — nos moldes em que se deu — o encontro entre Jesus e as entidades descritas e o que conversaram".
 
 - **[B011 p. 134]** "antes de nascer para o mundo terreno, nosso Mestre havia deixado clara Sua diretriz para todas as hostes que O assessoravam, e sabíamos que, em nenhuma hipótese, poderia haver qualquer tipo de interferência de nossa parte. [...] teríamos de nos fazer homens."
 

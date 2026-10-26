@@ -44,9 +44,13 @@ No Mentalma I (B074, cap. 3.1 — "A 'Chave' da 'Vontade de Progredir'"), Ellam 
 > "A 'vontade de progredir' representa uma 'Vontade Maior' que a do simples 'ego transitório'. Essa 'vontade de progredir' é o próprio Espírito tentando influenciar o seu 'ego terreno'..." — B074, p. 44
 > "'A Vontade é a essência do ser ou ele próprio em ação' — respondem as tradições orientais, por meio de Sai Baba, e essa frase fantástica eu tomei como lema da minha compreensão." — B074, p. 44
 
-## Citações Verbatim
+- **[B075 p. 177]** "nada concluir": "não quero ter certezas e também nunca me fecho no sentido de vir a aprender algo mais" (Sócrates) — a Vontade permanece aberta.
+
+## 2. Natureza e Atributos
 
 - **[B075 p. 80]** o "Eu organizador" = o ego "associado à sua **'Vontade Espiritual'** — qualquer procura interior ocorre dessa maneira"; a "Vontade pessoal" organiza a "casa mental" (a "vida íntima").
+
+## Citações Verbatim
 
 - **[B075 p. 109]** na "limpeza" das memórias, "a sua 'Vontade' [é] que comanda os 'processos quânticos-mentais' da perene reorganização do cérebro"; 16ª Const.: "Ninguém pode fazer isso pelo ser humano, **nem mesmo Jesus ou Deus**, porque o mecanismo interno do progresso mental é acionado pela **Vontade própria** do indivíduo".
 
@@ -55,8 +59,6 @@ No Mentalma I (B074, cap. 3.1 — "A 'Chave' da 'Vontade de Progredir'"), Ellam 
 - **[B075 p. 111]** a "**Vontade adulta**" em nível superior de conduta torna a pessoa "cocriadora, ou seja, 'dona do processo' da vida".
 
 - **[B075 p. 136]** "a Espiritualidade **planeja** que, num futuro não tão distante, a humanidade seja emancipada, posto que somente com esse tipo de liberdade é que a Terra estará segura" (bloco "rebanhos teleguiados" — **político, fora da malha**).
-
-- **[B075 p. 177]** "nada concluir": "não quero ter certezas e também nunca me fecho no sentido de vir a aprender algo mais" (Sócrates) — a Vontade permanece aberta.
 
 ## 3. Hierarquia e Geopolítica
 

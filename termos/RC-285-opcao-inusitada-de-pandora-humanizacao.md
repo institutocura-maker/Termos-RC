@@ -53,6 +53,8 @@ A Opção Inusitada é o eixo do B020: criada pelos deuses como "demônio feito 
 
 - **[B089 p. 60–62]** a apresentação a Enlil: Pandora "**fez uma transferência de fase e tornou-se um protótipo de uma nova espécie que estamos a chamar de biológica**" (Prometeu); o diagnóstico do aparelho: "**as moléculas... ainda estão em fase de transformação. Portanto, ela não está definida enquanto espécie.**" — a "Opção Inusitada" segue ABERTA (a transmutação de Pirra, sem poções, como o eco — p. 77).
 
+- **[B088 p. 38–41 · as emoções]** o abraço do "macho especial" ("senti vontade de que ele me abraçasse... 'sensações' de 'paz' e de 'aconchego'"); "Aquele foi o dia das grandes 'emoções'. Cada encontro... provocava-me emoções fisiológicas e psíquicas."
+
 ## 3. Hierarquia e Geopolítica
 
 ### Seres Associados
@@ -80,8 +82,6 @@ Pandora (RC-086); Hefesto (deus que deixou a "opção mental"); Zeus (RC-145); E
 ## 5. Lentes Curatoriais e Quarentenas
 
 - **[B088 p. 45 · o processo CONCLUÍDO]** "Conseguimos, ó querida Pandora!... **Você está livre da genética de Zeus e ainda mantém os seus poderes mentais!**" + "viverá bem mais do que eu!" — a "Opção Inusitada" (B020) contada até o fim pela psicografia.
-
-- **[B088 p. 38–41 · as emoções]** o abraço do "macho especial" ("senti vontade de que ele me abraçasse... 'sensações' de 'paz' e de 'aconchego'"); "Aquele foi o dia das grandes 'emoções'. Cada encontro... provocava-me emoções fisiológicas e psíquicas."
 
 ### Observações
 

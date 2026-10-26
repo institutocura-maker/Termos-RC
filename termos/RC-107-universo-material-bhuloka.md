@@ -71,6 +71,8 @@ Um dos dois universos paralelos resultantes da queda do Criador. É o cenário d
 
 > «É o universo que habitamos e que passou a» » … « «existir há 13,7 bilhões de anos, a partir de uma singularidade a qual» » … « «chamamos de “Big Bang”. É formado por bilhões de galáxias, estrelas e» » … « «planetas. Também chamado de Bhuloka.» — B031 p. 147 · `original.txt` L3882 · reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte.
 
+- **[B060 p. 8 · verbete "Universo Material"]** equivalências: Assiah (Cabala) · **Bhuloka (✓ RC-107)** · Daath (RC-262) · **Hutukara (Yanomami, BR)** · **Hyron (Druidística — o par de Hyren; cross B085)** · Iav (Eslava) · **Midgard (Marte+Terra — Nórdica; RC-470 ✓)** · Musphelhein [sic] (Nórdica) · Realidade subjacente (RC).
+
 ## 2. Natureza e Atributos
 
 ## 3. Hierarquia e Geopolítica
@@ -82,8 +84,6 @@ Biodemos (RC-036); Seres Terrenos (RC-099); Sophia (RC-009, suserano).
 ## 4. Histórico e Eventos Cósmicos
 
 ## 5. Lentes Curatoriais e Quarentenas
-
-- **[B060 p. 8 · verbete "Universo Material"]** equivalências: Assiah (Cabala) · **Bhuloka (✓ RC-107)** · Daath (RC-262) · **Hutukara (Yanomami, BR)** · **Hyron (Druidística — o par de Hyren; cross B085)** · Iav (Eslava) · **Midgard (Marte+Terra — Nórdica; RC-470 ✓)** · Musphelhein [sic] (Nórdica) · Realidade subjacente (RC).
 
 - **[B060 · quarentena]** idem RC-106; a dupla Hyren (antimaterial) / Hyron (material) na druidística — a "colisão" da B085.
 

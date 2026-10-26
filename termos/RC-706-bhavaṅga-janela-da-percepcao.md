@@ -52,15 +52,16 @@ Formas STT: `bavanga`, `bafanga`.
 
 > “Bhavaṅga é quando você consegue furar essa camuflagem e constrói uma janelinha.”
 
-## Citações Verbatim
+## 2. Natureza e Atributos
 
 - **Bhavanga — a janela (P2025-02-15 — destaque C-2):** "bavanga é quando você consegue furar essa camuflagem e constrói uma janelinha, e dessa janela você olha o além, ou alguém situado no além olha para você por essa janelinha".
+- **Entorno limpo:** "para que um ser humano possa gerar o seu bhavanga e isso seja uma experiência agradável, o seu entorno tem que estar limpo". [Fonte: P2025-02-15]
+
+## Citações Verbatim
 
 - **A respiração como chave de fenda:** "você tem que usar o mecanismo respiratório como sendo uma espécie de chave de fenda que aperta todos os parafusos do seu genoma, das fórmulas mentais sanscáricas do duplo etérico, do corpo mental inferior, do corpo emocional inferior, que compõem os quatro corpos do chamado quaternário inferior". [Fonte: P2025-02-15]
 
 - **Tríade imortal × quaternário inferior:** "a esses quatro corpos, o seu espírito está ligado, que é a tríade imortal — o corpo átmico, búdico e manásico. Esses três corpos com os quatro do quaternário inferior: esses sete corpos chama-se a constituição setenária de um ser humano." [Fonte: P2025-02-15]
-
-- **Entorno limpo:** "para que um ser humano possa gerar o seu bhavanga e isso seja uma experiência agradável, o seu entorno tem que estar limpo". [Fonte: P2025-02-15]
 
 ## 5. Lentes Curatoriais e Quarentenas
 

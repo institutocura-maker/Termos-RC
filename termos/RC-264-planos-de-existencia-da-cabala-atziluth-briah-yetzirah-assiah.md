@@ -56,9 +56,11 @@ A Doutrina das Emanações das Sefiroth opera "por sobre" essas quatro dimensõe
 
 > "1º nível – 'Atziluth': o 'Universo ou Dimensão Arquetípica ou das Emanações', o 'Mundo Divino', ou seja, o que tenho chamado de realidades da 'Espiritualidade Superior' e da 'Espiritualidade Operacional'... 2º nível – 'Briah': o 'Universo da Criação' ou 'Khorsis', o 'Mundo dos Tronos', ou seja, o que tenho chamado de contexto da 'Espiritualidade Laboratorial', mais especificamente como 'Perpérion'." — B013, cap. 6
 
-## Citações Verbatim
+## 2. Natureza e Atributos
 
 - **Os 4 mundos na fala (P2025-05-31):** Atziluth (Kether/Chokhmah/Binah = Brahma/Vishnu/Shiva; "espiritualidade operacional"), Beriah (Chesed/Geburah/Tiferet; "espiritualidade laboratorial"), Yetzirah (Netzach/Hod/Yesod; o universo vizinho/antimaterial = "Ietsirá"), Assiah (Malkuth = Hochmah/Sophia; nosso universo material).
+
+## Citações Verbatim
 
 - **"Só Aciá e Edirá [Assiah e Yetzirah] são os dois [mundos] dentro do abismo"** (Da'at); Atziluth e Beriah "são lá fora" (paraíso). [Fonte: P2025-05-31]
 

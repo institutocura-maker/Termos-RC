@@ -52,9 +52,9 @@ Com isso:
 
 ## 4. Histórico e Eventos Cósmicos
 
-## 5. Lentes Curatoriais e Quarentenas
-
 - **«Pôncio Pilatos queria logo produzir para ninguém acreditar que Jesus ressuscitou»** [Fonte: P2023-12-25]
+
+## 5. Lentes Curatoriais e Quarentenas
 
 - Aula 03 dá a **versão político-jurídica da ressurreição** (suborno do centurião por José de Arimatéia; Pilatos pressionado por Caifás/Anás) e a **revelação pós-ressurreição** intermediada por **Madalena** — expande o eixo Sophia/Ressurreição. [Fonte: P2023-12-25]
 

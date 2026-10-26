@@ -56,8 +56,6 @@ O Éden do Criador (B015, cap. 10) esclarece o propósito dos experimentos edên
 
 - **[B052 p. 236]** um "Colegiado Ascendente da Consciência Universal" tentou fincar "o alicerce do conhecimento dos segredos esquecidos do criador e das suas peripécias no Jardim do Éden".
 
-- RC-435 (O Segredo Perdido do Éden) permanece **sem ficha**. IEEA/Orbum **fora**. [Fonte: B052]
-
 ## 3. Hierarquia e Geopolítica
 
 ### Seres Associados
@@ -69,6 +67,8 @@ Criador (RC-041); Zont En Drel 29 (RC-147); Adão e Eva (RC-189); Jesus (RC-072)
 ### Observações
 
 Ficha baseada em B015 (obra primária). O Éden como "laboratório" redefine o conceito bíblico: não é paraíso, mas campo experimental do Criador caído para sua cura/redenção. Cruzar com RC-177 (Colmeia do Éden, B044) e RC-006 (Guerra do Éden).
+
+- RC-435 (O Segredo Perdido do Éden) permanece **sem ficha**. IEEA/Orbum **fora**. [Fonte: B052]
 
 ## 6. Histórico Curatorial e Auditoria
 

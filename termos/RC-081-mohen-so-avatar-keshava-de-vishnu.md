@@ -86,6 +86,8 @@ A live P2026-04-02 normaliza os ruídos Morren So/Morrençor como Mohen So e o r
 
 - **[P3 · Mohen So (Avatar Keshava de Vishnu)]** «Pela primeira vez, esses três seres resolveram criar um ser sem lacre mental, sem trava genética, sem memória encobridora no seu cérebro, se é que diabos eles tinham cérebro nessa altura. E surgiu, então, um ser chamado Mohen So. E esse ser surgiu livre para poder sentir no corpo dele as dores de Brahma, Vishnu e Shiva, e dizer para esses seres o que precisava ser feito.» (U0217) — candidata de cotejo ampliado; evidência `OIDR26-03-RC-081-001`, grafia literal `Mohen So`, sem homologação de pérola.
 
+- **[B014 p. 33–34]** Mohen So = avatar direto de Vishnu; Sophia = forma Adhyajna de Mohen So; Jesus = avatar terreno de Sophia.
+
 ## 2. Natureza e Atributos
 
 - **[P2024-08-03 — Morren So] O ser sem lacre (U0345–U0361):** pela primeira vez a Trimurti criou "um ser sem lacre mental, sem trava genética, sem memória encobridora no seu cérebro... chamado Morren So"; ele sentia no corpo as dores de Brahma/Vishnu/Shiva e dizia o que precisava ser feito: "vou ter que colocar de novo no mesmo lugar a velha genética apodrecida... preciso criar um novo ovo cósmico com a genética apodrecida para fazer uma alquimia"; propôs criar "mais um tipo de espécie de seres demo, só do tipo Fenvan, e separou metade do universo vizinho para que esses novos demos Fenvans vivessem".
@@ -122,17 +124,15 @@ A live P2026-04-02 normaliza os ruídos Morren So/Morrençor como Mohen So e o r
 
 - **[Morren So — idealizador do Projeto Talm] (U0003)** «o projeto Tal foi idealizado por Morençou, mas foi executado pelos Fenvães e a maneira deles.» — a função de Morren So como progenitor/orquestrador. [Fonte: P2021-01-30]
 
+- **Ponto de inflexão:** "o ponto de inflexão foi com Phanes, Protogonos, Mohen So" — Thot "produziu inúmeras reflexões sobre isso" (Hermópolis/Enéade); [Fonte: P2023-12-02]
+
 ## 5. Lentes Curatoriais e Quarentenas
 
 - **[P2025-06-26 — FONTE ORIGINAL] Mohen So e a quarta cabeça (pergunta 5):** "Mohen So escaneou a mente, a sua própria mente, e passou, disponibilizou isso pro espírito que me anime, para minha condição humana — isso é um fato"; "não foi o espírito de Moros que estava por trás da quarta cabeça, não é bem assim"; "a partir de um certo momento terminou o ser chamado Moros trabalhando discretamente com Mohen So quando as três pessoas da Trimurti relaxaram e se acostumaram com a presença de Mohen So; mas antes da criação de Mohen So era impensável para o ser chamado [Moros] voltar a ter contato com os três"; "via Mohen So é que Moros e Mohen So discretamente geraram e produziram a ideia de ainda tentar algo no universo vizinho — foi quando os Fenvans começaram a ser criados e Bur, Odin e Yggdrasil, toda aquela história, foi meio ainda uma tentativa de última hora"; "Mohen So é que é a figura genial do processo... quase tudo que hoje nós existimos veio da cabeça de Mohen So: os códigos originais de toda a alquimia da vida que hoje a gente vê em Iron [nosso universo], essa coisa chamada vida biológica"; "Eros gerou Nix e Érebo, e essas duas figuras, em especial Nix, produziram uma série de outros seres entre os quais Moros, Tânatos, Hipnos"; "Mohen So foi criado sem nenhum bloqueio, sem nenhuma trava ou lacre"; "quando ele se desconstituiu, o que ele passou pro espírito que me anime... até hoje fica pululando, mas nem o espírito nem a minha condição humana conseguem processar muita coisa" [relato pessoal — quarentena biográfica].
 
 - **[P2026-04-02 — FONTE ORIGINAL] Mohen So e a transmissão à descendência (Pergunta 3):** "já sabemos que Mohen So, antes de se autoextinguir, transferiu seus conhecimentos, experiências e informações para o ser humano Jan Val Ellam"; "a capacidade dele é tão gigantesca que ele não podia passar o conteúdo mental dele pra ascendência dele, teve que passar pra descendência, e o que restava da descendência só se encontrava na condição humana porque o Ragnarok acabou com tudo que ele havia feito com Odin lá em Yggdrasil"; "o nosso amigo... é uma espécie de mentor, tutor ou irmão mais velho" [relato pessoal — quarentena biográfica]; "a pergunta sobre o eu transitório do Fenvã antimaterial ter sido escaneado ou ter tido autonomia: 'é uma história complicada, eu não pretendia falar disso... se um dia eu lançar o livro Projeto TALM, talvez em um dos capítulos finais eu viesse a falar disso'".
 
-- **[B014 p. 33–34]** Mohen So = avatar direto de Vishnu; Sophia = forma Adhyajna de Mohen So; Jesus = avatar terreno de Sophia.
-
 - Fontes: **P2025-08-03** acrescentada ao cadastro; o alíás «Moron» está espelhado na ficha RC-282.
-
-- **Ponto de inflexão:** "o ponto de inflexão foi com Phanes, Protogonos, Mohen So" — Thot "produziu inúmeras reflexões sobre isso" (Hermópolis/Enéade); [Fonte: P2023-12-02]
 
 - Corrobora RC-282 (Mohen So = Phanes/Protogonos). [Fonte: P2023-12-02]
 

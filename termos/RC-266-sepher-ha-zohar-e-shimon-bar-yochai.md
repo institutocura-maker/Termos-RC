@@ -36,11 +36,11 @@ O Zohar (Livro do Esplendor) é atribuído pela tradição ao rabino Shimon bar 
 > «precisava criar um sistema que» » […] « «servisse de contraponto a derrota dele pelo fato de Jesus ter ressuscitado.» — P2025-05-31 · `original.txt` L103 · reconstrução aprovada pelo Curador na U93; 1 palavra da fonte omitida — » […] « assinala o fosso, ao passo que » … « assinala apenas quebra de hard-wrap.
 > "Na verdade, se juntarmos essas “moradas” do universo paralelo – capazes de entenderem minimamente o que está sendo resgatado desse passado antes oculto para o entendimento humano – com as civilizações deste universo biológico que também acompanham e aguardam o momento da “Reintegração Cósmica da Terra”, a quantidade de “mundos” que têm acompanhado os temas colecionados pelos estudos estratégicos dos institutos vinculados a estes livros que produzo, é muito, mais muito superior ao apontado pelo “Sepher ha-Zohar” . POR QUE O “MENSAGEIRO” FOI ANUNCIADO? Nas intrigas da época, o que se encontrava e ainda se encontra em “jogo” é o domínio sobre o planeta Terra, objetivo maior de Javé e de outros que o confrontavam. Nesse contexto, o seu “desígnio” apontava para a construção de um outro “pacto” entre ele e o “escriba inicial” da “Revelação Cósmica”, para que este o ratificasse como “Deus Todo-Poderoso”, “Criador dos Céus e da Terra”, conforme registrado nas escrituras do judaísmo. Contudo, pela primeira vez, uma criatura humana se recusou a ser submissa à vontade deste Ser, e o “pacto” não foi firmado, ainda que não se negue o reconhecimento do fato de que ele é efetivamente o “caído” Criador da Realidade na qual vivemos." — B013, p. 5
 
+- **[B013 p. 6]** os mistérios da revelação “registrada pelo rabino Shimon Bar Yochai, na obra ‘Sepher ha-Zohar’.”
+
 ## Citações Verbatim
 
 - **Na palestra (P2025-05-31):** no século 2 depois de Cristo, após a morte de Jesus, Javé (pé da vida se achando traído) deu ordens para a Cabalá ser criada; os anjos (com Metatron desativado) apareceram ao rabino Shimon bar Yochai (STT "Shimon Bariokai/Yariosai") e entregaram a Otz Chim e mais uma série de informações sobre a Cabalá; esse rabino agiu da forma mais séria possível e guardou; contraponto à derrota de Javé pela ressurreição de Jesus (e pelos livros via Maria Madalena).
-
-- **[B013 p. 6]** os mistérios da revelação “registrada pelo rabino Shimon Bar Yochai, na obra ‘Sepher ha-Zohar’.”
 
 - **[B013 p. 10]** citação (VAYEHI 21, 8B-9A): “Quando os tempos do Juízo Final estiverem chegados, aparecerá um mensageiro cuja proclamação será ouvida nos 270 mundos da Criação.” O Zohar = “O Livro do Esplendor”.
 

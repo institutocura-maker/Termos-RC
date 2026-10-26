@@ -63,13 +63,13 @@ Sophia (RC-009); Jesus (RC-072); João (apóstolo, escritor do Apocalipse).
 
 - **[Apocalipse por ordem exclusiva de Sofia — cápsula temporal]:** «Aí Sofia é que uns 40 anos depois disso se recompôs e passou com os anjos a encher o saco de João, que era o único apóstolo vivo com 100 anos de idade [...] E o apocalipse por ordem exclusiva de Sofia. E o apocalipse é Sofia mandando um anjo avisar as igrejas da época que ele Sofia no futuro iria cumprir as promessas que o humano Jesus fez de que no futuro voltaria mais na sua condição de autoridade cósmica. E o apocalipse foi uma cápsula temporal que Ele mostrou o tempo em que isso aconteceria e disse: 'Só a geração que estiver vivendo esses tempos irá compreender que somos nós.'» — ver RC-009 (Sophia), RC-005 (Segundo Advento). [Fonte: P2024-03-02]
 
+- **[B014 p. 212]** texto complementar *O Apocalipse: a “Cápsula do Tempo”!* — reproduz material já ligado a B012; **remissão, sem fusão**.
+
 ## 5. Lentes Curatoriais e Quarentenas
 
 - **P2026-07-25:** a vinda de Sophia é tratada como "finalização de uma etapa" — contexto da cápsula do tempo (João).
 
 - **[B014 p. 145]** o cérebro biodemo “somente se dá por vivência”; o psiquismo do “simples homem” de ~30 anos “vale bem mais” do que o que Sophia ostenta “há cerca de 5 bilhões” [cronologia — quarentena].
-
-- **[B014 p. 212]** texto complementar *O Apocalipse: a “Cápsula do Tempo”!* — reproduz material já ligado a B012; **remissão, sem fusão**.
 
 - **Quarentena político-geopolítica ABSOLUTA:** qualquer âncora em evento terrestre de 2001 permanece **fora da ontologia** (O-4 / O-7). [Fonte: B014]
 

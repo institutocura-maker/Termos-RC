@@ -88,6 +88,8 @@ A entropia está associada à energia Tamas (Savna/Shiva): é "uma energia desag
 
 - **Fim do truque:** "isso acabou agora... a entropia tá caindo lá. O truque que eles fizeram acabou e por isso que eles estão todos colapsando loucamente"; [Fonte: P2024-09-28]
 
+- **Entropia e programas encarnatórios:** "interfere nos programas encarnatórios dos espíritos... tem muitos riscos" — conexão com transumanismo (RC-644/092). [Fonte: P2024-09-28]
+
 ## 3. Hierarquia e Geopolítica
 
 - **[P2023-04-01b · A REBELIÃO DOS ELÉTRONS]** "eles já marcaram tanto sofrimento... que não conseguem mais... ESTÃO CRIANDO 100 ALTERNATIVAS PARA MUDAR A REGRA DO JOGO [o mais forte manda]... eles ultrapassaram o ponto do caos, aquele limite suportável" [B005/B041 — "um dos livros mais sérios da história da humanidade. Pena que escrito por alguém do meu tamanho" (a citação ao vivo)].
@@ -109,8 +111,6 @@ A entropia está associada à energia Tamas (Savna/Shiva): é "uma energia desag
 - **[P2021-05-15 · A ENTROPIA COMO POLÍTICA DOS DEUSES (o medo de 49.000 anos atrás)]** "essa coisa de hoje, hoje que eu digo nos últimos tempos, nos últimos 10 anos, eles se perguntarem se o que fez para garantir que com entropia funcionando, o ser humano viva pouco, já que na época ele tinha medo, eles tinham medo de que se isso pode ser revertido ou se algum tipo de CPH, sabe sei lá o quê, a ser adicionado." (U0003)
 
 - **[P2020-04-25 · O BIG CRUNCH DO UNIVERSO VIZINHO (a física de borda)]** "a expansão virou uma um big crush, voltou a ir pro seu tempo inicial, que promove um tempo negativo." (U0009); "buraco de minhoca e saber interagir com ele e produzir uma nova matéria um tipo novo Bos de Higs que crie uma matéria que até então não existia com uma certa massa que permita você interagir e trabalhar uma uma transmissão de informação que cria um novo corpo e projeta o seu código genético numa época X." (U0009) — ⚠️ Quarentena científica (retenção): cosmologia especulativa contada como fato; entra como dito, sem virar verbete de física.
-
-- **Entropia e programas encarnatórios:** "interfere nos programas encarnatórios dos espíritos... tem muitos riscos" — conexão com transumanismo (RC-644/092). [Fonte: P2024-09-28]
 
 ## 6. Histórico Curatorial e Auditoria
 

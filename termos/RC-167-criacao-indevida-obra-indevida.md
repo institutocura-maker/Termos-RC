@@ -124,11 +124,11 @@ A Criação "indevida" é o **tema central da Revelação Cósmica**: "houve um 
 
 - Divergências e alegações científicas permanecem abertas/atribuídas à palestra. [Fonte: P2024-05-04]
 
+- **[B024 p. 36]** a Obra “jamais deveria ter existido”; as criaturas-ferramentas passam pela morte “porque esta Obra não foi finalizada, ou não pôde ser” (já na ficha; âncora confirmada no cap. 3).
+
 ## 5. Lentes Curatoriais e Quarentenas
 
 - **[B024 p. 27]** cap. 2: a Criação “inusitada”. Remissão a *O Drama Cósmico de Javé* (B001) = **não fundir**. Kardec (Espiritualidade Superior preexistente) = **referência externa**.
-
-- **[B024 p. 36]** a Obra “jamais deveria ter existido”; as criaturas-ferramentas passam pela morte “porque esta Obra não foi finalizada, ou não pôde ser” (já na ficha; âncora confirmada no cap. 3).
 
 - **[B001 p. 103]** «os problemas gerados com a criação indevida da divindade adoentada – e o repito, jamais planejada» — **quarentena clínica** («adoentada» = leitura, jamais diagnóstico).
 

@@ -62,13 +62,13 @@ Na RC, metáfora do **sistema colmeico de comando** — o modelo em que um coman
 
 - Reforça o modelo colmeico como estrutura de comando de Javé (contraste com os Sethianos Emancipados, RC-766). [Fonte: P2024-09-28]
 
+- **Sophia como "abelha rainha":** "um monte de civilizações que obedece Sofia, mas obedece porque a Sofia é a abelha rainha, ou seja, é o velho sistema colmeico que funciona entre eles" — o modelo colmeico também se aplica ao séquito de Sophia (RC-009), no contexto do relógio messiânico (RC-765); [Fonte: P2021-03-27]
+
 ## 4. Histórico e Eventos Cósmicos
 
 ## 5. Lentes Curatoriais e Quarentenas
 
 - **Quarentena clínica:** “dementada” (p. 97) é leitura filosófica do autor, **jamais** diagnóstico. Encontro 2010 / dor corporal = **biográfica**, fora da ontologia. [Fonte: B044]
-
-- **Sophia como "abelha rainha":** "um monte de civilizações que obedece Sofia, mas obedece porque a Sofia é a abelha rainha, ou seja, é o velho sistema colmeico que funciona entre eles" — o modelo colmeico também se aplica ao séquito de Sophia (RC-009), no contexto do relógio messiânico (RC-765); [Fonte: P2021-03-27]
 
 ### Observações
 

@@ -47,6 +47,8 @@ P2025-06-26 — 1ª Edição Estagiários do Kaos.
 
 ## 2. Natureza e Atributos
 
+- **Fome de devoção:** "o que é devoção para esses seres? É alimento. Isso aplaca a fome deles" (RC-749 — nova aresta RC-666 ↔ RC-749); [Fonte: P2025-11-29]
+
 ## 3. Hierarquia e Geopolítica
 
 ### Seres Associados
@@ -68,8 +70,6 @@ Consultar Base.
 **Marco:** fonte primária definitiva do verbete (antes: live P2025-06-26, ficha minimalista).
 
 ## 5. Lentes Curatoriais e Quarentenas
-
-- **Fome de devoção:** "o que é devoção para esses seres? É alimento. Isso aplaca a fome deles" (RC-749 — nova aresta RC-666 ↔ RC-749); [Fonte: P2025-11-29]
 
 ### Observações
 

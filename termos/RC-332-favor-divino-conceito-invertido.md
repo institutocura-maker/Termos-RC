@@ -66,6 +66,8 @@ A sinopse de B048 pergunta: "Afinal, existem favores divinos? E se tudo for ao c
 
 O Favor Divino é ligado ao PIA: espíritos assumem cotas da condição informacional do Criador e os eus encarnados trabalham mutações/ressignificações que repercutiriam no todo.
 
+- **Favor Divino invertido (P2025-03-15):** "nós estamos fazendo um favor divino, colecionando em cada um de nós as piores informações dessa história e procurando ressignificá-las ao longo da nossa existência" — o mérito do amor do caos (ver RC-529/RC-612).
+
 ## 2. Natureza e Atributos
 
 - **[B041 p. 70]** o Favor Divino é “a chave de toda questão”: os espíritos são agentes da Deidade na ajuda às Divindades problemáticas, enquanto cada ser “emancipa o seu psiquismo”.
@@ -85,8 +87,6 @@ Criador/Javé (RC-041/RC-001); Seres Terrenos (RC-099); Deidade (RC-047).
 ## 4. Histórico e Eventos Cósmicos
 
 ## 5. Lentes Curatoriais e Quarentenas
-
-- **Favor Divino invertido (P2025-03-15):** "nós estamos fazendo um favor divino, colecionando em cada um de nós as piores informações dessa história e procurando ressignificá-las ao longo da nossa existência" — o mérito do amor do caos (ver RC-529/RC-612).
 
 - **[B041 p. 16]** o autor se viu obrigado a publicar *Favor Divino* (B048) para explicar o “aspecto desagradável” dos espíritos portarem o código da “doença pessoal” do Criador decaído — **quarentena clínica** (leitura, jamais diagnóstico). **Não fundir** com B048.
 

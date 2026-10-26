@@ -56,15 +56,15 @@ Filhos de Heber (RC-436), patriarcas pós-diluvianos da linhagem hebraica — **
 
 - **Contexto do pacto com Abraão:** a maldição tornou Sara estéril — "os anjos de Javé estavam fazendo com Abraão e Sara a mesma coisa que Anu... fez com a irmã" ("sangue azul"; regra monástica) — e o pacto dependia da descendência (nova aresta RC-437 ↔ RC-001); [Fonte: P2021-03-27]
 
+- **[B052 p. 108]** Faleg: "Não quero mais ser o elo da linhagem... Sempre achei Joctan mais habilitado para isso"; Joctan: "quanto mais faço as coisas encomendadas pelo Senhor, mas me sinto como você."
+
 ## 4. Histórico e Eventos Cósmicos
 
 - A maldição sobre Faleg/Gômer é **leitura do autor** (Teologia Comparada) — não é relato histórico validado. [Fonte: P2021-03-27]
 
-## 5. Lentes Curatoriais e Quarentenas
-
-- **[B052 p. 108]** Faleg: "Não quero mais ser o elo da linhagem... Sempre achei Joctan mais habilitado para isso"; Joctan: "quanto mais faço as coisas encomendadas pelo Senhor, mas me sinto como você."
-
 - **[B052 p. 111]** após a morte do irmão, Joctan é enviado ao norte (Magos) com a bolsa das folhas — RC-439 permanece **sem ficha**.
+
+## 5. Lentes Curatoriais e Quarentenas
 
 - **Quarentena teológica:** `n.e.` p. 109 ("o Senhor estava começando a se apresentar aos futuros arianos como sendo Brahma") é leitura do autor, não história validada. Heber (RC-436) **não** materializado. [Fonte: B052]
 

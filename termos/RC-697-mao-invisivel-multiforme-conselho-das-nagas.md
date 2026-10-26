@@ -60,6 +60,10 @@ O Conselho das Nagas foi absorvido nesta ficha como principal componente citado 
 > “A mão invisível é multiforme.”
 > “O mais atuante são as interferências discretas, pontuais, que as Nagas fizeram.”
 
+## 4. Histórico e Eventos Cósmicos
+
+- **"A humanidade em algum momento vai se encontrar cara a cara com esses seres. É inevitável."** [Fonte: P2025-02-16]
+
 ## Citações Verbatim
 
 - **A Mão Invisível (P2025-02-16):** "esses seres sempre estiveram por trás de muitos dos acontecimentos em curso... o processo continua, a mão invisível. Eles sempre estiveram no processo por trás. Eu estou fazendo essa palestra a pedido deles, só para vocês terem noção da maluquice."
@@ -67,8 +71,6 @@ O Conselho das Nagas foi absorvido nesta ficha como principal componente citado 
 - **Conselho das Nagas:** "há um conselho permanentemente atuante numa espécie de mundo mental paralelo aos humanos, não formado por espíritos bonitos e charmosos, são essas figuras... esses nagas e alguns padrões de reptilianos que estão por trás de algumas das principais famílias humanas". [Fonte: P2025-02-16]
 
 - **Herança transferida:** "a herança do reino dos seres nagas foi transferida para os bramanes, para os rishis, para os kshatriyas, depois os seres híbridos arianos, os dravidianos, enkianos, pandóricos. Tudo isso deu errado. Sobrou o Homo sapiens do contexto Adão e Eva, produzido pela serpente." [Fonte: P2025-02-16]
-
-- **"A humanidade em algum momento vai se encontrar cara a cara com esses seres. É inevitável."** [Fonte: P2025-02-16]
 
 - **[P2025-02-22 — eco] O CONSELHO DAS NAGAS]** "existe um conselho chamado MAHORAGA, que são os maiores entre Nagas e Uragas, que formam um conselho muito distinto que comanda basicamente [tudo]. Ninguém sabe a quantidade que existe desses seres, nagas e uragas"; "as nagas e uragas nos ajudam a mantermos vivos, mas também não nos salvam"; "esses seres... SÃO EXTREMAMENTE DISCRETOS PORQUE É DA NATUREZA DE SERES QUE SE ARRASTAM A DISCRIÇÃO, NÃO SEREM PERCEBIDOS"; "eles passaram a proteger, A FINANCIAR O AVANÇO DA EVOLUÇÃO HUMANA" [a mão invisível — RC-664].
 

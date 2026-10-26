@@ -49,6 +49,8 @@ Anunnaki filho de Anu (RC-587), irmão de **Enki** (RC-486) e de Ninmah/Ninhursa
 
 - **[B089 p. 61–62]** **a análise genética de Pandora e Pirra** com o equipamento da nave (Pirra: "um poder de renovação"; Pandora: "em fase de transformação... não está definida enquanto espécie"); "**Como matéria de pesquisa, Prometeu, quero acompanhar a evolução dela!**"
 
+- **[B089 p. 53 e 61]** a caracterização: "um ser **frio, sem expressões emocionais**... educado e que falava de modo cortês, porém não demonstrava qualquer emoção" — "a malícia por trás da cordialidade" (SINTESE, p. 1).
+
 ## 3. Hierarquia e Geopolítica
 
 - **[P1 · Enlil (deus sumério, par de Enki)]** «De cada X que nascia, a partir do DNA já modificado, dos descendentes de Pandora e dos testes em que Um dos dois principais Anunnakis que residia aqui na Terra realizou por volta de 48 mil anos atrás com seu irmão Enlil e uma irmã sua que era a oficial que promovia essas manipulações, Njifri Sag, mas o nome é complicado, vamos deixar para lá.» (U0149) — candidata de cotejo ampliado; evidência `OIDR26-01-RC-487-001`, grafia literal `Enlil`, sem homologação de pérola.
@@ -73,19 +75,17 @@ Anunnaki filho de Anu (RC-587), irmão de **Enki** (RC-486) e de Ninmah/Ninhursa
 
 - **Desobediência à regra de Anu:** "o próprio Enki e Enlil começaram a meio que desobedecer e também os filhos deles e os netos e os bisnetos começaram a produzir relação com seres humanos" (pré-diluviano); [Fonte: P2021-03-27]
 
+- **[B089 p. 80–84 · o banquete]** vestido simples + a coroa ("a minha palavra é sagrada"); o pedido ("retirar um pouco do seu fluído vital"); **a recusa de Epimeteu e o recuo régio**: "**Sem a sua permissão, nada será feito**... Todavia, digo-lhes que **não mais serão convidados à minha presença**."
+
 ## 4. Histórico e Eventos Cósmicos
 
 - **[P2021-05-15 · O CLÃ NAS BOMBAS]** "Ele olhou tanto para essas questões que esqueceu de olhar pra descendência de seus dois filhos e foi exat também que o grande problema que a eh acabou com a perspectiva dos anunaques dominarem a terra, que foi aquilo que a gente falou numa numas palestras meses atrás, né, quando Nerginta, filho de Enquenil, brigaram tanto que terminaram saltando bombas de uma briga com Mardur e outras figuras aí do clã Hen Lil soltaram bombas atômicas no Vale do Sinai e no Vale do Sidim." (U0003)
 
+- **Retirada:** ~600 a.C. (era axial) — "Anu foi obrigado a dizer: vamos embora, não vai ficar mais ninguém aqui" (ainda deixaram netos/bisnetos). [Fonte: P2021-03-27]
+
 ## 5. Lentes Curatoriais e Quarentenas
 
-- **[B089 p. 53 e 61]** a caracterização: "um ser **frio, sem expressões emocionais**... educado e que falava de modo cortês, porém não demonstrava qualquer emoção" — "a malícia por trás da cordialidade" (SINTESE, p. 1).
-
-- **[B089 p. 80–84 · o banquete]** vestido simples + a coroa ("a minha palavra é sagrada"); o pedido ("retirar um pouco do seu fluído vital"); **a recusa de Epimeteu e o recuo régio**: "**Sem a sua permissão, nada será feito**... Todavia, digo-lhes que **não mais serão convidados à minha presença**."
-
 - **Guerras atômicas (contexto):** a pontaria de Ninurta (RC-588) e Nergal, no âmbito da disputa dos clãs, atingiu Sinai/vale de Sidim (Sodoma e Gomorra) e a radioatividade levada pelo vento dizimou a Suméria — **contexto da disputa, não entidade ontológica** (quarentena histórica — decisão do curador); [Fonte: P2021-03-27]
-
-- **Retirada:** ~600 a.C. (era axial) — "Anu foi obrigado a dizer: vamos embora, não vai ficar mais ninguém aqui" (ainda deixaram netos/bisnetos). [Fonte: P2021-03-27]
 
 ### Observações
 

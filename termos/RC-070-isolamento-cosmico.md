@@ -59,6 +59,9 @@ O Isolamento Cósmico é o **fim do período da Rebelião de Lúcifer** e a cond
 
 - **[P2023-12-03 · ISOLAMENTO CÓSMICO NA FALA DE 03/12/2023]** «distribuíram nesses 19 mundos situados em vários sistemas.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
 
+- **[B033 p. 98]** cap. 9: o isolamento é o pano de fundo do cidadão cósmico — título *Apesar do Isolamento*.
+- **[B005 p. 20–21]** cap. 2: analogia do exílio na floresta — os descendentes «acharão que estão sós»; a ótica terrena inclina-se a pensar que a Terra é «o único habitado por seres inteligentes».
+
 ## 2. Natureza e Atributos
 
 - **[B003 p. 3 / p. 8]** Ellam: «cárcere isolado»; «excluídos que fomos da convivência com as outras coletividades do cosmos»; «prisão planetária»; «fronteiras da prisão».
@@ -89,17 +92,13 @@ O Isolamento Cósmico é o **fim do período da Rebelião de Lúcifer** e a cond
 
 - **Fonte:** palestra *O Incompreendido Ano de 2012 e a Falsa Noção do Fim do Mundo* — unidades U0862–U0881. [Fonte: P2022-12-17]
 
-## 5. Lentes Curatoriais e Quarentenas
+- **Contexto acrescentado:** O Isolamento Cósmico é descrito como condição que deverá terminar com a chegada de Sophia e a Reintegração da Terra. [Fonte: P2022-12-17]
 
-- **[B033 p. 98]** cap. 9: o isolamento é o pano de fundo do cidadão cósmico — título *Apesar do Isolamento*.
+## 5. Lentes Curatoriais e Quarentenas
 
 - **[B026 p. 206]** «orgulho doentio» = **clínica** (leitura, jamais diagnóstico).
 
-- **[B005 p. 20–21]** cap. 2: analogia do exílio na floresta — os descendentes «acharão que estão sós»; a ótica terrena inclina-se a pensar que a Terra é «o único habitado por seres inteligentes».
-
 - **[P2021-05-15 · OS QUE ESPERAM O FIM DO ISOLAMENTO PARA PEGAR UMA FATIA]** "E porque as outras civilizações que existem aqui nesse nosso universo biológico não tem força representativa nem em mar, nem na lua, nem aqui, nem em lugar algum para fazer nada, estão por aqui como piratas cósmicos, como Figuras que também participaram de hibridagens lá atrás se sentem vinculadas ao progresso humano e estão esperando ver como é que acaba essa zorra aqui do isolamento terrestre para pegar uma fatia disso ou daquilo, mas não são importantes no sentido de terem influenciado." (U0003) — ⚠️ quarentena ufológica.
-
-- **Contexto acrescentado:** O Isolamento Cósmico é descrito como condição que deverá terminar com a chegada de Sophia e a Reintegração da Terra. [Fonte: P2022-12-17]
 
 - **Status da evidência:** transcrição automatizada, pré-curada e validada terminologicamente pelo curador; conferir com áudio/obra primária antes de promoção de status. [Fonte: P2022-12-17]
 

@@ -232,6 +232,11 @@ A Revelação Cósmica é o **macroconceito** que engloba todos os demais termos
 
 - **[P4 · Revelação Cósmica (conceito)]** «Não, Rogério, você pode estar totalmente enganado sobre todas essas premissas que você colocou. A revelação cósmica, se isso aqui que a gente está fazendo pode ser assim chamado, ela não tem o pressuposto de estar certa.» (U0210) — candidata de cotejo ampliado; evidência `OIDR26-04-RC-094-001`, grafia literal `revelação cósmica`, sem homologação de pérola.
 
+- **[B042 p. 71]** crônica homônima: dar por sabido o que ainda se pretende descobrir é crença no lugar da verificação. Epígrafe de Emerson; prudência do Tao (Lao Tse) = **referências externas**.
+- **[B009 p. 353–354]** «aspectos de uma grande verdade cósmica que pouco a pouco se descortina ante a imprevidente ótica dos valores transitórios terrenos».
+- **Contexto acrescentado:** A Revelação Cósmica é apresentada como instrumento para reviver as Flechas de Moros, reconstruir a história universal e romper formas de fé estupidificada. [Fonte: P2021-12-04]
+- A RC como integração dos focos de revelação (Orfismo, Gnosticismo, Cabala, Teosofia, Hermetismo) — todos organizados por Thot (RC-463). [Fonte: P2023-12-02]
+
 ## 2. Natureza e Atributos
 
 - **[P2024-07-14] A revelação como voz de dentro do buraco (U0740–U0790):** "nós caímos num buraco, num wormhole, um buraco de minhoca, um buraco negro, um buraco branco... O filme Interestelar tenta contar o que alguém que cai no buraco negro, encaindo, conta para quem tá fora, qual a sensação de estar lá dentro. Pois é: somos nós, via revelação cósmica, contando para todo mundo aqui dentro — para quem tá fora — qual a nossa impressão e sensação a respeito de tudo que aconteceu. Isso é a revelação cósmica. Finalmente se conseguiu fazer isso. Antes, todas as tentativas davam em religião. A última foi a doutrina espírita, que era só uma tentativa de resgate de um método celta de pensar, de decifrar a realidade, e terminou se transformando também em religião".
@@ -272,21 +277,13 @@ A Revelação Cósmica é o **macroconceito** que engloba todos os demais termos
 
 - **Argamassa histórica:** esta palestra (a mais antiga do corpus) fornece o pano de fundo Anunnaki (RC-024) que "amarra" as palestras mais recentes (Thot/Hermes, Cinco Lentes). [Fonte: P2021-03-27]
 
+- **[B009 p. 353]** Posfácio de Ellam: o tema que enfoca «a pedido da Espiritualidade» é «o cumprimento da última promessa feita pelo próprio Mestre, referente ao seu retorno». Relata que «esses seres afirmam» serem «os tempos profetizados» chegados e ser aquele «o momento propício para que algumas páginas da revelação cósmica possam complementar o entendimento ofertado ao mundo pela revelação espiritual».
+
 ## 5. Lentes Curatoriais e Quarentenas
 
 - **A revelação que não se pretende verdadeira (U1377–U1401):** "a revelação cósmica é coisa para milhões de anos, é um processo que os fatos é que vão falar por si mesmos, deverão apenas ser interpretados corretamente" (U1377); "até hoje a gente usa da revelação, ou seja, encarna homens e mulheres e fala de fatos que ninguém viu; daqui pra frente serão os fatos acontecendo e todo mundo olhando" (U1378–U1379); "a revelação cósmica, acima de tudo, é a primeira revelação que nunca vai ser pretendida como verdadeira... sempre honesta no sentido de buscar a verdade, e por isso nunca vai [se corromper]" (U1393–U1394). [Fonte: P2021-01-23]
 
-- **[B042 p. 71]** crônica homônima: dar por sabido o que ainda se pretende descobrir é crença no lugar da verificação. Epígrafe de Emerson; prudência do Tao (Lao Tse) = **referências externas**.
-
-- **[B009 p. 353]** Posfácio de Ellam: o tema que enfoca «a pedido da Espiritualidade» é «o cumprimento da última promessa feita pelo próprio Mestre, referente ao seu retorno». Relata que «esses seres afirmam» serem «os tempos profetizados» chegados e ser aquele «o momento propício para que algumas páginas da revelação cósmica possam complementar o entendimento ofertado ao mundo pela revelação espiritual».
-
-- **[B009 p. 353–354]** «aspectos de uma grande verdade cósmica que pouco a pouco se descortina ante a imprevidente ótica dos valores transitórios terrenos».
-
 - **[B005 p. 118]** Posfácio (voz de Ellam): os mentores pediram que desenvolvesse estudos próprios, «de forma semelhante» ao que fizera em *Muito Além do Horizonte*; nasceu então o «compêndio» sobre a temática extraterrena. Remissão a B009 — **não fundir**. **Quarentena mediúnica.**
-
-- **Contexto acrescentado:** A Revelação Cósmica é apresentada como instrumento para reviver as Flechas de Moros, reconstruir a história universal e romper formas de fé estupidificada. [Fonte: P2021-12-04]
-
-- A RC como integração dos focos de revelação (Orfismo, Gnosticismo, Cabala, Teosofia, Hermetismo) — todos organizados por Thot (RC-463). [Fonte: P2023-12-02]
 
 ## 6. Histórico Curatorial e Auditoria
 

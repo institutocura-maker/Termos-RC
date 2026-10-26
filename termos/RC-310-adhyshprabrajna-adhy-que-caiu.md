@@ -45,6 +45,10 @@ O nome Adhyshprabrajna (Adhy + Prabrajna) revela a linhagem completa: um ser do 
 
 > "A Criação Universal indevida foi procedida por Adhyshprabrajna, na sua expressão Adhyatman. Após a sua 'queda' na Criação indevida, esta entidade – antes Adhyshprabrajna – conseguiu erigir uma forma de expressão (Adhydaiva) que viria a ser conhecida, na cultura humana, como Brahma/Javé/Alá." — B022, Introdução
 
+## 2. Natureza e Atributos
+
+- **Contexto acrescentado:** Adhyprabrajna aparece em relação de fatiamento com Adhymavatana: faces distintas sustentadas por um mesmo espírito ancestral. [Fonte: P2021-12-04]
+
 ## Citações Verbatim
 
 - **[B022 p. 5]** Introdução (Atlan, 30/11/2015 — voz de Ellam): a Criação Universal indevida «foi procedida por **Adhyshprabrajna**, na sua expressão Adhyatman». Após a «queda» na Criação indevida, esta entidade — «antes Adhyshprabrajna» — erigiu uma forma de expressão (Adhydaiva) conhecida, na cultura humana, como **Brahma/Javé/Alá**, «da qual tornou-se prisioneira e dela jamais se libertou».
@@ -52,8 +56,6 @@ O nome Adhyshprabrajna (Adhy + Prabrajna) revela a linhagem completa: um ser do 
 - **[B022 p. 5–6]** o espírito, ou forma Adhyagya, de Adhyshprabrajna «não se encontrava presente àquele encontro porque jamais conseguira se imantar à sua expressão Adhydaiva — Brahma». Desde então Brahma «sempre foi e ainda é um ser holográfico, sem “alma”»; da condição Adhyatman foi «extraído» o «corpo mental», e é este que responde pela existência como Brahma.
 
 - **Unidades:** U0212–U0243. [Fonte: P2021-12-04]
-
-- **Contexto acrescentado:** Adhyprabrajna aparece em relação de fatiamento com Adhymavatana: faces distintas sustentadas por um mesmo espírito ancestral. [Fonte: P2021-12-04]
 
 - **Status da evidência:** transcrição automatizada, pré-curada e aprovada quanto à integração terminológica; conferir com áudio/obra antes de promover status. [Fonte: P2021-12-04]
 

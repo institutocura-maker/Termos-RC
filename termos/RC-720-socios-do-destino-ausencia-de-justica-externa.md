@@ -54,9 +54,9 @@ A palestra afirma que:
 
 > «não há autoridade, não há justiça divina em curso.» — P2024-11-30 · `original.txt` L162 · reanexado à fonte na U91 (A5); o trecho legado era fiel ao sentido mas não trazia aparelho de linha nem era verificável byte a byte.
 
-## Citações Verbatim
-
 - **Sócios do Destino (P2024-11-30):** "sem milkshake grátis: enquanto essa zorra aqui não se acabar, não tem milkshake grátis" (ver RC-529); "a ausência de justiça divina": a teia como organização pura (RC-658); "só tem sansara funcionando mesmo" (RC-618).
+
+## Citações Verbatim
 
 A palestra reforça humanos como elos e parceiros do mesmo conjunto informacional: não haveria solução puramente individual nem providência externa substitutiva. A ausência de juiz externo, na cosmologia apresentada, não significa ausência de consequências.
 

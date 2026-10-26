@@ -59,6 +59,8 @@ O termo cria uma ponte entre:
 
 > «cada espírito fora desses dois universos,» » […] « «usa o mesmo kit de elétrons para sempre imantar-se nos corpos diferentes que aparentemente» » […] « «produz a cada vida,» — P2025-03-15 · `original.txt` L50 · reconstrução aprovada pelo Curador na U93; 2 palavras da fonte omitidas — » […] « assinala o fosso, ao passo que » … « assinala apenas quebra de hard-wrap.
 
+- **Roda de Samsara:** "livrar-se disso ninguém se livra. Isso aí é a roda de Samsara. Bem-vindos." (Ver RC-618/RC-712.) [Fonte: P2025-03-15]
+
 ## 2. Natureza e Atributos
 
 - **A mecânica da assinatura quântica (P2025-03-15):** "os elétrons que um dia já compuseram outros corpos desse mesmo espírito, obrigatoriamente desaparecem de onde estão e aparecem lá no óvulo de mamãe que acabou de ser fecundado"; "cada espírito usa o mesmo kit de elétrons para sempre imantar-se nos corpos diferentes que aparentemente ele produz a cada vida, mas no fundo são os mesmos elétrons".
@@ -80,8 +82,6 @@ Na explicação sobre Jesus e Sophia, a ressurreição é descrita como devoluç
 - **Espiritismo clássico:** "o espiritismo não diz isso... diz o que foi possível ser dito no século XIX"; "isso deve ser como incerteza, deixa que o futuro confirme ou não". [Fonte: P2025-03-15]
 
 ## 5. Lentes Curatoriais e Quarentenas
-
-- **Roda de Samsara:** "livrar-se disso ninguém se livra. Isso aí é a roda de Samsara. Bem-vindos." (Ver RC-618/RC-712.) [Fonte: P2025-03-15]
 
 ### Observações
 
