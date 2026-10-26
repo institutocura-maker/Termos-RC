@@ -133,3 +133,52 @@ Cada bala foi **movida como linha inteira**, preservando inclusive o sufixo ` [F
 | UTF-8 sem BOM, LF, newline final | **826 / 826** |
 
 H2 finais no corpus: `## 1` e `## 6` em 826 fichas; `## 5` em 815; `## 3` em 569; `## 4` em 407; `## 2` em 404; `## Citações Verbatim` em 186.
+
+## 8. Encerramento oficial da Onda 2
+
+**Data:** 2026-10-26 · **Despacho do Curador:** Onda 2 declarada **OFICIALMENTE ENCERRADA**.
+
+### 8.1 Deliberações finais
+
+| Item | Decisão |
+|---|---|
+| Mapa de calor por ficha | **Não executado** — dispensado pelo Curador |
+| Reprocessamento das 3.881 balas de alta confiança | **Não executado** — classificação lexical aprovada como definitiva para o volume principal; custo-benefício do LLM em tudo não se justifica |
+| Fila de revisão (384 itens) | **Resolvida** pela leitura semântica individual (seção 7) |
+| Estrutura de 5 gavetas (H2) | **Aprovada e implementada** nas 826 fichas |
+| Numeração não contígua nas fichas simples | **Validada** pelo Curador |
+
+### 8.2 Estado final congelado do corpus
+
+| Métrica | Valor |
+|---|---|
+| Fichas `.md` | **826** |
+| `## 1. Gênese e Definição` / `## 6. Histórico Curatorial e Auditoria` | 826 / 826 |
+| `## 5` / `## 3` / `## 4` / `## 2` | 815 / 569 / 407 / 404 |
+| `## Citações Verbatim` (fichas simples) | 186 |
+| Linhas de relação T2 (5 colunas) | **7.917**, intactas e ordenadas |
+| Matriz `T2-MAPEAMENTO-RELACOES.csv` | 998 linhas `APROVADO`; soma 7.761; SHA-256 `43ad4e80…5213` — **inalterada** |
+| Tabela `Termos Relacionados` no topo da Gaveta 1 | 821 / 821 |
+| Frontmatter TOML preservado byte a byte | 826 / 826 |
+| Sufixos `[Fonte: X]` | 2.178 |
+| H3 com sigla/data | **0** (eram 2.324) |
+| Unidades de baixa confiança reclassificadas | 384 (G1 110 · G2 72 · G3 63 · G4 87 · G5 52) |
+| Paridade *verbatim* das citações | **100% — 0 perdas, 0 ganhos** |
+| Codificação | UTF-8 sem BOM, LF, newline final preservado (7 arquivos) |
+
+### 8.3 Cadeia de commits desta frente
+
+| Commit | Marco |
+|---|---|
+| `e39d9e1` | T2 — Fase 2 (45 seções não conformes) |
+| `cd657b1` | T2 — encerramento (inversão das 17 linhas) |
+| `5bb4ca9` | Onda 2 — Transição Semântica em lote (826 fichas) |
+| `2275156` | Onda 2 — reclassificação semântica das 384 balas |
+
+### 8.4 Artefatos de governança (todos publicados)
+
+`ONDA2-RELATORIO-TRANSICAO-SEMANTICA.md` · `ONDA2-AUDITORIA-ROTEAMENTO.csv` · `ONDA2-FILA-REVISAO.csv` · `ONDA2-RECLASSIFICACAO-384.csv` · `T2-MAPEAMENTO-RELACOES.csv` · `T2-RELATORIO-CONSOLIDACAO.md` · `T2-EXCECOES-RELACOES.md`.
+
+### 8.5 Prontidão para a próxima frente
+
+Nenhuma pendência bloqueante resta. O workspace está sincronizado com `origin/arena/ad2ca972-termos-rc`, sem arquivos não versionados e sem scripts temporários. A próxima interação abandona a refatoração do legado e inicia a **ingestão do lote de áudios de outubro** — escopo novo, sem dependência dos conversores da Onda 2 (que foram descartados após uso). Critérios de lastro, quarentena e paridade *verbatim* aqui consolidados devem ser reaproveitados como Lei Maior dessa ingestão.
