@@ -156,7 +156,12 @@
     "P2022-05-07",
     "P2023-08-27",
     "P2023-02-11",
-    "P2021-02-28"
+    "P2021-02-28",
+    "STT26-EXTRATERRESTRES_TECNOLOGIA",
+    "STT26-EXPERIENCIA_ESPIRITUAL_ETICA",
+    "STT26-MITOLOGIAS_REINTEGRACAO",
+    "STT26-SOCIEDADE_CONTEMPORANEA",
+    "OIDR26-01"
    ],
    "relacionados": [
     "RC-001",
@@ -197,7 +202,10 @@
     "P2023-12-03",
     "P2025-06-14",
     "P2023-12-25-03",
-    "P2020-04-04"
+    "P2020-04-04",
+    "STT26-MITOLOGIAS_REINTEGRACAO",
+    "STT26-SOCIEDADE_CONTEMPORANEA",
+    "OIDR26-01"
    ],
    "relacionados": [
     "RC-005",
@@ -228,7 +236,8 @@
    "subcategoria": "1.2 Coletivos criadores",
    "status": "em análise",
    "fontes": [
-    "P2024-09-28"
+    "P2024-09-28",
+    "STT26-MITOLOGIAS_REINTEGRACAO"
    ],
    "relacionados": [
     "RC-001",
@@ -326,7 +335,9 @@
     "P2020-04-25",
     "P2023-12-03",
     "P2012-02-19",
-    "P2021-04-10"
+    "P2021-04-10",
+    "STT26-EXPERIENCIA_ESPIRITUAL_ETICA",
+    "STT26-MITOLOGIAS_REINTEGRACAO"
    ],
    "relacionados": [
     "RC-002",
@@ -437,7 +448,11 @@
     "P2022-11-19",
     "P2025-12-14",
     "P2023-12-25-01",
-    "P2020-04-04"
+    "P2020-04-04",
+    "STT26-EXTRATERRESTRES_TECNOLOGIA",
+    "STT26-EXPERIENCIA_ESPIRITUAL_ETICA",
+    "STT26-MITOLOGIAS_REINTEGRACAO",
+    "STT26-SOCIEDADE_CONTEMPORANEA"
    ],
    "relacionados": [
     "RC-003",
@@ -728,7 +743,9 @@
     "P2020-05-09",
     "P2021-03-13",
     "P2024-06-16",
-    "P2020-04-04"
+    "P2020-04-04",
+    "STT26-EXPERIENCIA_ESPIRITUAL_ETICA",
+    "STT26-MITOLOGIAS_REINTEGRACAO"
    ],
    "relacionados": [
     "RC-031",
@@ -854,7 +871,12 @@
     "P2023-10-14",
     "P2023-12-03",
     "P2022-05-07",
-    "P2017-10-14"
+    "P2017-10-14",
+    "STT26-EXTRATERRESTRES_TECNOLOGIA",
+    "STT26-SOCIEDADE_CONTEMPORANEA",
+    "OIDR26-01",
+    "OIDR26-02",
+    "OIDR26-04"
    ],
    "relacionados": [
     "RC-053",
@@ -943,7 +965,8 @@
     "B018",
     "B039",
     "B006",
-    "P2022-09-25"
+    "P2022-09-25",
+    "STT26-EXPERIENCIA_ESPIRITUAL_ETICA"
    ],
    "relacionados": [
     "RC-010",
@@ -1047,7 +1070,8 @@
    "status": "verificado",
    "fontes": [
     "B031",
-    "P2025-03-15"
+    "P2025-03-15",
+    "OIDR26-03"
    ],
    "relacionados": [
     "RC-107",
@@ -1072,7 +1096,11 @@
     "P2025-02-15",
     "P2024-11-30",
     "P2024-11-09",
-    "P2023-12-03"
+    "P2023-12-03",
+    "STT26-EXTRATERRESTRES_TECNOLOGIA",
+    "STT26-MITOLOGIAS_REINTEGRACAO",
+    "OIDR26-02",
+    "OIDR26-03"
    ],
    "relacionados": [
     "RC-033",
@@ -1098,7 +1126,8 @@
     "P2021-05-15",
     "P2020-04-25",
     "P2023-12-03",
-    "P2022-05-07"
+    "P2022-05-07",
+    "STT26-SOCIEDADE_CONTEMPORANEA"
    ],
    "relacionados": [
     "RC-093",
@@ -1139,7 +1168,10 @@
     "P2017-10-14",
     "P2023-08-27",
     "P2022-10-01",
-    "P2022-09-25"
+    "P2022-09-25",
+    "STT26-EXTRATERRESTRES_TECNOLOGIA",
+    "STT26-SOCIEDADE_CONTEMPORANEA",
+    "OIDR26-01"
    ],
    "relacionados": [
     "RC-041",
@@ -1201,7 +1233,15 @@
     "P2021-06-26",
     "P2022-11-19",
     "P2025-12-14",
-    "P2023-12-25-01"
+    "P2023-12-25-01",
+    "STT26-EXTRATERRESTRES_TECNOLOGIA",
+    "STT26-EXPERIENCIA_ESPIRITUAL_ETICA",
+    "STT26-MITOLOGIAS_REINTEGRACAO",
+    "STT26-SOCIEDADE_CONTEMPORANEA",
+    "OIDR26-01",
+    "OIDR26-02",
+    "OIDR26-03",
+    "OIDR26-04"
    ],
    "relacionados": [
     "RC-001",
@@ -1263,7 +1303,10 @@
     "B057",
     "B058",
     "P2023-04-01",
-    "P2023-12-03"
+    "P2023-12-03",
+    "STT26-MITOLOGIAS_REINTEGRACAO",
+    "STT26-SOCIEDADE_CONTEMPORANEA",
+    "OIDR26-04"
    ],
    "relacionados": [
     "RC-002",
@@ -1502,7 +1545,8 @@
     "P2023-04-29",
     "P2020-04-18",
     "P2022-03-26",
-    "P2012-02-19"
+    "P2012-02-19",
+    "STT26-EXPERIENCIA_ESPIRITUAL_ETICA"
    ],
    "relacionados": [
     "RC-011",
@@ -1679,7 +1723,8 @@
    "status": "provisório",
    "fontes": [
     "B031",
-    "B024"
+    "B024",
+    "STT26-EXPERIENCIA_ESPIRITUAL_ETICA"
    ],
    "relacionados": [
     "RC-011",
@@ -1689,7 +1734,7 @@
     "RC-052",
     "RC-207"
    ],
-   "ficha": false,
+   "ficha": true,
    "via": "P6-evidência",
    "confianca_fonte": "média"
   },
@@ -1731,7 +1776,9 @@
     "P2021-05-15",
     "P2020-04-25",
     "P2022-03-26",
-    "P2023-12-03"
+    "P2023-12-03",
+    "STT26-SOCIEDADE_CONTEMPORANEA",
+    "OIDR26-03"
    ],
    "relacionados": [
     "RC-042",
@@ -1803,7 +1850,10 @@
     "P2024-11-30",
     "P2024-11-09",
     "P2024-07-14",
-    "P2020-04-04"
+    "P2020-04-04",
+    "OIDR26-02",
+    "OIDR26-03",
+    "OIDR26-04"
    ],
    "relacionados": [
     "RC-012",
@@ -1866,7 +1916,10 @@
     "P2024-11-30",
     "P2024-11-09",
     "P2024-07-14",
-    "P2020-04-04"
+    "P2020-04-04",
+    "STT26-EXPERIENCIA_ESPIRITUAL_ETICA",
+    "STT26-SOCIEDADE_CONTEMPORANEA",
+    "OIDR26-02"
    ],
    "relacionados": [
     "RC-060",
@@ -2037,7 +2090,8 @@
     "P2018-12-16",
     "P2022-10-01",
     "P2022-09-25",
-    "P2022-09-18"
+    "P2022-09-18",
+    "STT26-MITOLOGIAS_REINTEGRACAO"
    ],
    "relacionados": [
     "RC-062",
@@ -2200,7 +2254,11 @@
     "P2025-12-14",
     "P2023-12-25-01",
     "P2023-12-25-02",
-    "P2020-04-04"
+    "P2020-04-04",
+    "OIDR26-01",
+    "OIDR26-02",
+    "OIDR26-03",
+    "OIDR26-04"
    ],
    "relacionados": [
     "RC-001",
@@ -2244,7 +2302,8 @@
    "status": "verificado",
    "fontes": [
     "B031",
-    "P2026-04-02"
+    "P2026-04-02",
+    "OIDR26-02"
    ],
    "relacionados": [
     "RC-037",
@@ -2389,7 +2448,11 @@
     "P2022-03-26",
     "P2023-12-03",
     "P2018-12-16",
-    "P2023-08-27"
+    "P2023-08-27",
+    "STT26-EXTRATERRESTRES_TECNOLOGIA",
+    "STT26-MITOLOGIAS_REINTEGRACAO",
+    "STT26-SOCIEDADE_CONTEMPORANEA",
+    "OIDR26-01"
    ],
    "relacionados": [
     "RC-002",
@@ -2474,7 +2537,10 @@
     "P2023-12-02",
     "P2023-06-25",
     "P2023-12-03",
-    "P2021-01-30"
+    "P2021-01-30",
+    "STT26-MITOLOGIAS_REINTEGRACAO",
+    "STT26-SOCIEDADE_CONTEMPORANEA",
+    "OIDR26-03"
    ],
    "relacionados": [
     "RC-135",
@@ -2598,7 +2664,13 @@
     "P2022-09-25",
     "P2022-07-16",
     "P2026-03-21",
-    "P2021-02-28"
+    "P2021-02-28",
+    "STT26-EXTRATERRESTRES_TECNOLOGIA",
+    "STT26-EXPERIENCIA_ESPIRITUAL_ETICA",
+    "STT26-MITOLOGIAS_REINTEGRACAO",
+    "STT26-SOCIEDADE_CONTEMPORANEA",
+    "OIDR26-01",
+    "OIDR26-03"
    ],
    "relacionados": [
     "RC-047",
@@ -2812,7 +2884,9 @@
     "P2022-07-16",
     "P2021-04-10",
     "P2021-06-26",
-    "P2022-09-17"
+    "P2022-09-17",
+    "STT26-EXPERIENCIA_ESPIRITUAL_ETICA",
+    "STT26-SOCIEDADE_CONTEMPORANEA"
    ],
    "relacionados": [
     "RC-009",
@@ -2914,7 +2988,15 @@
     "P2020-04-25",
     "P2023-12-03",
     "P2022-07-16",
-    "P2021-06-26"
+    "P2021-06-26",
+    "STT26-EXTRATERRESTRES_TECNOLOGIA",
+    "STT26-EXPERIENCIA_ESPIRITUAL_ETICA",
+    "STT26-MITOLOGIAS_REINTEGRACAO",
+    "STT26-SOCIEDADE_CONTEMPORANEA",
+    "OIDR26-01",
+    "OIDR26-02",
+    "OIDR26-03",
+    "OIDR26-04"
    ],
    "relacionados": [
     "RC-071",
@@ -2977,7 +3059,9 @@
    "status": "verificado",
    "fontes": [
     "B031",
-    "P2020-04-04"
+    "P2020-04-04",
+    "STT26-EXPERIENCIA_ESPIRITUAL_ETICA",
+    "OIDR26-01"
    ],
    "relacionados": [
     "RC-019",
@@ -3154,7 +3238,15 @@
     "P2021-06-26",
     "P2022-09-17",
     "P2023-12-25-01",
-    "P2020-04-04"
+    "P2020-04-04",
+    "STT26-EXTRATERRESTRES_TECNOLOGIA",
+    "STT26-EXPERIENCIA_ESPIRITUAL_ETICA",
+    "STT26-MITOLOGIAS_REINTEGRACAO",
+    "STT26-SOCIEDADE_CONTEMPORANEA",
+    "OIDR26-01",
+    "OIDR26-02",
+    "OIDR26-03",
+    "OIDR26-04"
    ],
    "relacionados": [
     "RC-016",
@@ -3253,7 +3345,13 @@
     "P2021-06-26",
     "P2022-11-19",
     "P2025-12-14",
-    "P2023-12-25-01"
+    "P2023-12-25-01",
+    "STT26-EXPERIENCIA_ESPIRITUAL_ETICA",
+    "STT26-MITOLOGIAS_REINTEGRACAO",
+    "STT26-SOCIEDADE_CONTEMPORANEA",
+    "OIDR26-01",
+    "OIDR26-02",
+    "OIDR26-03"
    ],
    "relacionados": [
     "RC-037",
@@ -3320,7 +3418,10 @@
     "P2024-08-03",
     "P2024-07-13",
     "P2023-12-03",
-    "P2025-06-14"
+    "P2025-06-14",
+    "STT26-EXPERIENCIA_ESPIRITUAL_ETICA",
+    "STT26-MITOLOGIAS_REINTEGRACAO",
+    "OIDR26-02"
    ],
    "relacionados": [
     "RC-003",
@@ -3395,7 +3496,10 @@
     "P2025-02-16",
     "P2024-11-30",
     "P2024-11-09",
-    "P2024-08-03"
+    "P2024-08-03",
+    "STT26-EXTRATERRESTRES_TECNOLOGIA",
+    "STT26-EXPERIENCIA_ESPIRITUAL_ETICA",
+    "STT26-SOCIEDADE_CONTEMPORANEA"
    ],
    "relacionados": [
     "RC-106",
@@ -3884,7 +3988,8 @@
    "status": "provisório",
    "fontes": [
     "B031",
-    "B015"
+    "B015",
+    "OIDR26-01"
    ],
    "relacionados": [
     "RC-024",
@@ -3933,7 +4038,15 @@
     "P2024-06-16",
     "P2012-02-19",
     "P2023-12-25-01",
-    "P2020-04-04"
+    "P2020-04-04",
+    "STT26-EXTRATERRESTRES_TECNOLOGIA",
+    "STT26-EXPERIENCIA_ESPIRITUAL_ETICA",
+    "STT26-MITOLOGIAS_REINTEGRACAO",
+    "STT26-SOCIEDADE_CONTEMPORANEA",
+    "OIDR26-01",
+    "OIDR26-02",
+    "OIDR26-03",
+    "OIDR26-04"
    ],
    "relacionados": [
     "RC-037",
@@ -4128,7 +4241,8 @@
    "subcategoria": "8.5 Outros idiomas / jargão técnico",
    "status": "provisório",
    "fontes": [
-    "B031"
+    "B031",
+    "OIDR26-04"
    ],
    "relacionados": [
     "RC-094"
@@ -4238,7 +4352,8 @@
     "B002",
     "B014",
     "B005",
-    "P2020-04-04"
+    "P2020-04-04",
+    "STT26-EXPERIENCIA_ESPIRITUAL_ETICA"
    ],
    "relacionados": [
     "RC-149",
@@ -4356,7 +4471,8 @@
     "B089",
     "P2024-11-03",
     "P2024-06-16",
-    "P2021-06-26"
+    "P2021-06-26",
+    "STT26-SOCIEDADE_CONTEMPORANEA"
    ],
    "relacionados": [
     "RC-013",
@@ -4637,7 +4753,13 @@
     "P2024-03-03",
     "P2024-04-14",
     "P2025-06-14b",
-    "P2023-11-19"
+    "P2023-11-19",
+    "STT26-EXTRATERRESTRES_TECNOLOGIA",
+    "STT26-EXPERIENCIA_ESPIRITUAL_ETICA",
+    "STT26-MITOLOGIAS_REINTEGRACAO",
+    "STT26-SOCIEDADE_CONTEMPORANEA",
+    "OIDR26-02",
+    "OIDR26-04"
    ],
    "relacionados": [
     "RC-148",
@@ -4674,7 +4796,9 @@
     "P2024-04-14",
     "P2025-06-14b",
     "P2023-11-19",
-    "P2023-12-03"
+    "P2023-12-03",
+    "STT26-EXPERIENCIA_ESPIRITUAL_ETICA",
+    "STT26-SOCIEDADE_CONTEMPORANEA"
    ],
    "relacionados": [
     "RC-161",
@@ -4773,7 +4897,12 @@
     "P2023-07-05",
     "P2023-04-01",
     "P2020-04-25",
-    "P2022-03-26"
+    "P2022-03-26",
+    "STT26-EXTRATERRESTRES_TECNOLOGIA",
+    "STT26-EXPERIENCIA_ESPIRITUAL_ETICA",
+    "STT26-MITOLOGIAS_REINTEGRACAO",
+    "STT26-SOCIEDADE_CONTEMPORANEA",
+    "OIDR26-04"
    ],
    "relacionados": [
     "RC-071",
@@ -5370,7 +5499,8 @@
     "P2023-05-13",
     "P2023-07-30",
     "P2023-06-24",
-    "P2020-04-04"
+    "P2020-04-04",
+    "OIDR26-03"
    ],
    "relacionados": [
     "RC-056",
@@ -5525,14 +5655,15 @@
    "status": "candidato",
    "fontes": [
     "B035",
-    "P2025-03-15"
+    "P2025-03-15",
+    "STT26-EXPERIENCIA_ESPIRITUAL_ETICA"
    ],
    "relacionados": [
     "RC-149",
     "RC-194",
     "RC-692"
    ],
-   "ficha": false,
+   "ficha": true,
    "via": "P6-evidência",
    "confianca_fonte": "baixa"
   },
@@ -5784,7 +5915,8 @@
     "B001",
     "B075",
     "P2024-05-04",
-    "P2024-11-03"
+    "P2024-11-03",
+    "STT26-SOCIEDADE_CONTEMPORANEA"
    ],
    "relacionados": [
     "RC-210",
@@ -6091,7 +6223,8 @@
    "subcategoria": "2.2 Leis e princípios cósmicos",
    "status": "verificado",
    "fontes": [
-    "B033"
+    "B033",
+    "OIDR26-02"
    ],
    "relacionados": [
     "RC-104",
@@ -6384,7 +6517,9 @@
    "status": "verificado",
    "fontes": [
     "B039",
-    "P2018-12-16"
+    "P2018-12-16",
+    "OIDR26-02",
+    "OIDR26-04"
    ],
    "relacionados": [
     "RC-074",
@@ -6729,14 +6864,16 @@
    "status": "provisório",
    "fontes": [
     "B016",
-    "P2024-09-29"
+    "P2024-09-29",
+    "STT26-SOCIEDADE_CONTEMPORANEA",
+    "OIDR26-02"
    ],
    "relacionados": [
     "RC-104",
     "RC-253",
     "RC-176"
    ],
-   "ficha": false,
+   "ficha": true,
    "via": "P6-evidência",
    "confianca_fonte": "média"
   },
@@ -7613,7 +7750,8 @@
    "fontes": [
     "B021",
     "P2024-09-29",
-    "P2023-05-21"
+    "P2023-05-21",
+    "STT26-EXPERIENCIA_ESPIRITUAL_ETICA"
    ],
    "relacionados": [
     "RC-094",
@@ -7736,7 +7874,8 @@
     "B021",
     "P2025-11-29",
     "B087",
-    "B088"
+    "B088",
+    "STT26-SOCIEDADE_CONTEMPORANEA"
    ],
    "relacionados": [
     "RC-094",
@@ -7844,7 +7983,12 @@
     "B088",
     "B089",
     "P2021-05-15",
-    "P2023-12-03"
+    "P2023-12-03",
+    "STT26-MITOLOGIAS_REINTEGRACAO",
+    "STT26-SOCIEDADE_CONTEMPORANEA",
+    "OIDR26-01",
+    "OIDR26-02",
+    "OIDR26-03"
    ],
    "relacionados": [
     "RC-086",
@@ -7882,7 +8026,10 @@
     "B087",
     "B088",
     "B089",
-    "P2021-05-15"
+    "P2021-05-15",
+    "STT26-MITOLOGIAS_REINTEGRACAO",
+    "STT26-SOCIEDADE_CONTEMPORANEA",
+    "OIDR26-03"
    ],
    "relacionados": [
     "RC-086",
@@ -7914,7 +8061,8 @@
     "P2024-11-09",
     "B087",
     "B088",
-    "B089"
+    "B089",
+    "STT26-SOCIEDADE_CONTEMPORANEA"
    ],
    "relacionados": [
     "RC-298",
@@ -7978,14 +8126,17 @@
     "P2024-04-13",
     "P2023-05-21",
     "P2023-12-03",
-    "P2020-04-04"
+    "P2020-04-04",
+    "STT26-MITOLOGIAS_REINTEGRACAO",
+    "STT26-SOCIEDADE_CONTEMPORANEA",
+    "OIDR26-04"
    ],
    "relacionados": [
     "RC-145",
     "RC-296",
     "RC-094"
    ],
-   "ficha": false,
+   "ficha": true,
    "via": "P6-evidência",
    "confianca_fonte": "média"
   },
@@ -8655,7 +8806,8 @@
     "P2024-11-30",
     "P2024-11-09",
     "P2024-03-03",
-    "P2026-08-04"
+    "P2026-08-04",
+    "OIDR26-04"
    ],
    "relacionados": [
     "RC-041",
@@ -8851,7 +9003,8 @@
     "P2025-02-16",
     "P2025-02-15",
     "P2024-11-30",
-    "P2023-12-03"
+    "P2023-12-03",
+    "OIDR26-04"
    ],
    "relacionados": [
     "RC-003",
@@ -9067,7 +9220,8 @@
    "status": "verificado",
    "fontes": [
     "B005",
-    "B042"
+    "B042",
+    "STT26-EXTRATERRESTRES_TECNOLOGIA"
    ],
    "relacionados": [
     "RC-020",
@@ -9732,7 +9886,9 @@
     "P2026-07-30",
     "P2025-03-15",
     "P2023-06-24",
-    "P2021-05-08"
+    "P2021-05-08",
+    "STT26-EXPERIENCIA_ESPIRITUAL_ETICA",
+    "STT26-SOCIEDADE_CONTEMPORANEA"
    ],
    "relacionados": [
     "RC-001",
@@ -9883,7 +10039,8 @@
     "B006",
     "B074",
     "B075",
-    "P2025-03-15"
+    "P2025-03-15",
+    "STT26-EXPERIENCIA_ESPIRITUAL_ETICA"
    ],
    "relacionados": [
     "RC-100",
@@ -9902,7 +10059,8 @@
    "subcategoria": "1.6 Figuras humanas (históricas/míticas)",
    "status": "provisório",
    "fontes": [
-    "B006"
+    "B006",
+    "OIDR26-04"
    ],
    "relacionados": [
     "RC-390",
@@ -10014,7 +10172,10 @@
     "B050",
     "P2025-10-25",
     "P2025-02-16",
-    "P2024-02-03"
+    "P2024-02-03",
+    "STT26-EXPERIENCIA_ESPIRITUAL_ETICA",
+    "STT26-MITOLOGIAS_REINTEGRACAO",
+    "STT26-SOCIEDADE_CONTEMPORANEA"
    ],
    "relacionados": [
     "RC-094",
@@ -10426,7 +10587,14 @@
     "P2024-06-16",
     "P2023-08-27",
     "P2022-11-26",
-    "P2022-07-16"
+    "P2022-07-16",
+    "STT26-EXTRATERRESTRES_TECNOLOGIA",
+    "STT26-EXPERIENCIA_ESPIRITUAL_ETICA",
+    "STT26-MITOLOGIAS_REINTEGRACAO",
+    "STT26-SOCIEDADE_CONTEMPORANEA",
+    "OIDR26-02",
+    "OIDR26-03",
+    "OIDR26-04"
    ],
    "relacionados": [
     "RC-009",
@@ -11501,7 +11669,8 @@
     "P2023-12-02",
     "P2021-03-27",
     "P2021-05-15",
-    "P2023-10-14"
+    "P2023-10-14",
+    "OIDR26-01"
    ],
    "relacionados": [
     "RC-024",
@@ -11590,7 +11759,8 @@
    "fontes": [
     "B060",
     "P2021-05-15",
-    "P2023-12-03"
+    "P2023-12-03",
+    "OIDR26-01"
    ],
    "relacionados": [
     "RC-024",
@@ -11614,7 +11784,8 @@
     "P2024-09-29",
     "P2024-04-13",
     "B087",
-    "B088"
+    "B088",
+    "STT26-MITOLOGIAS_REINTEGRACAO"
    ],
    "relacionados": [
     "RC-301",
@@ -11760,7 +11931,8 @@
     "P2024-11-30",
     "P2024-11-02",
     "P2024-08-03",
-    "P2026-03-21"
+    "P2026-03-21",
+    "STT26-MITOLOGIAS_REINTEGRACAO"
    ],
    "relacionados": [
     "RC-106",
@@ -11842,7 +12014,10 @@
     "P2022-11-26",
     "P2022-11-20",
     "P2022-09-17",
-    "P2025-12-14"
+    "P2025-12-14",
+    "STT26-EXPERIENCIA_ESPIRITUAL_ETICA",
+    "STT26-MITOLOGIAS_REINTEGRACAO",
+    "STT26-SOCIEDADE_CONTEMPORANEA"
    ],
    "relacionados": [
     "RC-004",
@@ -11979,7 +12154,8 @@
     "P2022-12-17",
     "P2025-10-25",
     "P2025-02-16",
-    "P2024-09-29"
+    "P2024-09-29",
+    "STT26-MITOLOGIAS_REINTEGRACAO"
    ],
    "relacionados": [
     "RC-145",
@@ -12003,7 +12179,8 @@
     "P2021-03-27",
     "B060",
     "P2021-06-26",
-    "P2025-12-14"
+    "P2025-12-14",
+    "STT26-MITOLOGIAS_REINTEGRACAO"
    ],
    "relacionados": [
     "RC-092",
@@ -12132,7 +12309,10 @@
     "B089",
     "P2021-05-15",
     "P2023-10-14",
-    "P2023-12-03"
+    "P2023-12-03",
+    "STT26-MITOLOGIAS_REINTEGRACAO",
+    "STT26-SOCIEDADE_CONTEMPORANEA",
+    "OIDR26-01"
    ],
    "relacionados": [
     "RC-001",
@@ -12196,7 +12376,11 @@
     "P2022-10-01",
     "P2022-07-16",
     "P2025-12-14",
-    "P2023-12-25-01"
+    "P2023-12-25-01",
+    "STT26-EXTRATERRESTRES_TECNOLOGIA",
+    "STT26-EXPERIENCIA_ESPIRITUAL_ETICA",
+    "STT26-MITOLOGIAS_REINTEGRACAO",
+    "OIDR26-02"
    ],
    "relacionados": [
     "RC-424",
@@ -12683,7 +12867,8 @@
     "P2022-10-01",
     "P2022-09-25",
     "P2022-09-18",
-    "P2022-07-16"
+    "P2022-07-16",
+    "STT26-EXPERIENCIA_ESPIRITUAL_ETICA"
    ],
    "relacionados": [
     "RC-061",
@@ -13067,7 +13252,9 @@
    "fontes": [
     "B072",
     "P2023-07-30",
-    "P2023-12-03"
+    "P2023-12-03",
+    "STT26-EXPERIENCIA_ESPIRITUAL_ETICA",
+    "OIDR26-01"
    ],
    "relacionados": [
     "RC-167",
@@ -13101,7 +13288,10 @@
     "P2023-04-29",
     "P2022-09-17",
     "P2022-11-19",
-    "P2025-12-14"
+    "P2025-12-14",
+    "STT26-EXPERIENCIA_ESPIRITUAL_ETICA",
+    "STT26-SOCIEDADE_CONTEMPORANEA",
+    "OIDR26-03"
    ],
    "relacionados": [
     "RC-381",
@@ -13262,7 +13452,8 @@
    "status": "verificado",
    "fontes": [
     "B042",
-    "P2022-12-17"
+    "P2022-12-17",
+    "STT26-SOCIEDADE_CONTEMPORANEA"
    ],
    "relacionados": [
     "RC-094",
@@ -13674,7 +13865,9 @@
     "P2024-11-09",
     "P2024-04-14",
     "P2025-06-14b",
-    "ART-2026-08-18"
+    "ART-2026-08-18",
+    "STT26-EXPERIENCIA_ESPIRITUAL_ETICA",
+    "OIDR26-04"
    ],
    "relacionados": [
     "RC-166",
@@ -13844,7 +14037,9 @@
     "P2023-05-13",
     "P2025-11-29",
     "P2023-10-14",
-    "P2023-12-03"
+    "P2023-12-03",
+    "STT26-EXPERIENCIA_ESPIRITUAL_ETICA",
+    "STT26-SOCIEDADE_CONTEMPORANEA"
    ],
    "relacionados": [
     "RC-560",
@@ -14017,7 +14212,9 @@
     "P2023-02-11",
     "P2022-12-03",
     "P2023-12-25-02",
-    "P2020-04-04"
+    "P2020-04-04",
+    "STT26-EXPERIENCIA_ESPIRITUAL_ETICA",
+    "STT26-MITOLOGIAS_REINTEGRACAO"
    ],
    "relacionados": [
     "RC-009",
@@ -14412,7 +14609,8 @@
     "P2023-09-09",
     "P2023-04-30",
     "P2021-02-28",
-    "P2022-09-17"
+    "P2022-09-17",
+    "OIDR26-03"
    ],
    "relacionados": [
     "RC-581",
@@ -14484,7 +14682,13 @@
     "P2023-06-25",
     "P2021-05-15",
     "P2022-03-26",
-    "P2024-06-16"
+    "P2024-06-16",
+    "STT26-EXTRATERRESTRES_TECNOLOGIA",
+    "STT26-EXPERIENCIA_ESPIRITUAL_ETICA",
+    "STT26-MITOLOGIAS_REINTEGRACAO",
+    "STT26-SOCIEDADE_CONTEMPORANEA",
+    "OIDR26-03",
+    "OIDR26-04"
    ],
    "relacionados": [
     "RC-436",
@@ -14513,7 +14717,9 @@
     "P2024-11-02",
     "P2024-08-03",
     "P2024-09-28",
-    "P2024-06-16"
+    "P2024-06-16",
+    "STT26-EXPERIENCIA_ESPIRITUAL_ETICA",
+    "STT26-MITOLOGIAS_REINTEGRACAO"
    ],
    "relacionados": [
     "RC-585",
@@ -14560,7 +14766,8 @@
    "fontes": [
     "P2022-12-17",
     "P2021-03-27",
-    "P2023-10-14"
+    "P2023-10-14",
+    "OIDR26-01"
    ],
    "relacionados": [
     "RC-024",
@@ -14584,7 +14791,8 @@
     "P2021-03-27",
     "B089",
     "P2021-05-15",
-    "P2023-10-14"
+    "P2023-10-14",
+    "OIDR26-01"
    ],
    "relacionados": [
     "RC-024",
@@ -14667,7 +14875,13 @@
     "P2023-10-14",
     "P2022-03-26",
     "P2023-12-03",
-    "P2024-06-16"
+    "P2024-06-16",
+    "STT26-EXTRATERRESTRES_TECNOLOGIA",
+    "STT26-EXPERIENCIA_ESPIRITUAL_ETICA",
+    "STT26-MITOLOGIAS_REINTEGRACAO",
+    "STT26-SOCIEDADE_CONTEMPORANEA",
+    "OIDR26-02",
+    "OIDR26-03"
    ],
    "relacionados": [
     "RC-585",
@@ -14921,7 +15135,9 @@
     "P2020-04-25",
     "P2022-03-26",
     "P2023-12-03",
-    "P2020-04-04"
+    "P2020-04-04",
+    "STT26-EXPERIENCIA_ESPIRITUAL_ETICA",
+    "STT26-MITOLOGIAS_REINTEGRACAO"
    ],
    "relacionados": [
     "RC-408",
@@ -15286,7 +15502,8 @@
    "fontes": [
     "P2021-12-04",
     "P2026-07-30",
-    "P2024-02-03"
+    "P2024-02-03",
+    "STT26-MITOLOGIAS_REINTEGRACAO"
    ],
    "relacionados": [
     "RC-166",
@@ -15418,7 +15635,10 @@
     "P2024-04-14",
     "P2025-06-14b",
     "P2024-03-02",
-    "P2024-09-28"
+    "P2024-09-28",
+    "STT26-EXPERIENCIA_ESPIRITUAL_ETICA",
+    "STT26-SOCIEDADE_CONTEMPORANEA",
+    "OIDR26-04"
    ],
    "relacionados": [
     "RC-204",
@@ -15449,7 +15669,10 @@
     "P2024-11-30",
     "P2024-11-09",
     "P2024-07-14",
-    "P2024-03-02"
+    "P2024-03-02",
+    "STT26-EXPERIENCIA_ESPIRITUAL_ETICA",
+    "STT26-SOCIEDADE_CONTEMPORANEA",
+    "OIDR26-04"
    ],
    "relacionados": [
     "RC-204",
@@ -15615,7 +15838,8 @@
     "P2020-04-25",
     "P2022-03-26",
     "P2023-12-03",
-    "P2022-11-26"
+    "P2022-11-26",
+    "STT26-SOCIEDADE_CONTEMPORANEA"
    ],
    "relacionados": [
     "RC-093",
@@ -15864,7 +16088,8 @@
     "P2024-05-04",
     "B064",
     "P2024-11-30",
-    "P2022-03-26"
+    "P2022-03-26",
+    "STT26-SOCIEDADE_CONTEMPORANEA"
    ],
    "relacionados": [
     "RC-638",
@@ -15904,7 +16129,8 @@
    "status": "verificado",
    "fontes": [
     "P2026-04-02",
-    "P2025-03-15"
+    "P2025-03-15",
+    "STT26-MITOLOGIAS_REINTEGRACAO"
    ],
    "relacionados": [
     "RC-217",
@@ -16539,7 +16765,8 @@
     "P2025-02-16",
     "P2024-09-28",
     "P2022-05-07",
-    "P2018-12-16"
+    "P2018-12-16",
+    "OIDR26-02"
    ],
    "relacionados": [
     "RC-102",
@@ -17165,7 +17392,9 @@
     "P2024-11-02",
     "P2024-08-03",
     "P2024-07-13",
-    "P2023-10-14"
+    "P2023-10-14",
+    "OIDR26-02",
+    "OIDR26-03"
    ],
    "relacionados": [
     "RC-037",
@@ -17393,7 +17622,8 @@
     "P2024-11-30",
     "P2024-11-09",
     "P2024-07-14",
-    "P2024-04-14"
+    "P2024-04-14",
+    "OIDR26-04"
    ],
    "relacionados": [
     "RC-519",
@@ -17527,7 +17757,8 @@
    "status": "verificado",
    "fontes": [
     "P2025-02-15",
-    "P2024-07-13"
+    "P2024-07-13",
+    "STT26-EXTRATERRESTRES_TECNOLOGIA"
    ],
    "relacionados": [
     "RC-544",
@@ -17683,7 +17914,8 @@
    "status": "verificado",
    "fontes": [
     "P2024-11-30",
-    "P2024-07-13"
+    "P2024-07-13",
+    "STT26-MITOLOGIAS_REINTEGRACAO"
    ],
    "relacionados": [
     "RC-161",
@@ -18417,7 +18649,8 @@
     "P2023-10-14",
     "P2020-04-25",
     "P2022-03-26",
-    "P2023-12-03"
+    "P2023-12-03",
+    "OIDR26-03"
    ],
    "relacionados": [
     "RC-040",
@@ -18436,7 +18669,8 @@
    "subcategoria": "2.5 Propósitos / Destinos",
    "status": "verificado",
    "fontes": [
-    "P2024-08-03"
+    "P2024-08-03",
+    "OIDR26-03"
    ],
    "relacionados": [
     "RC-529",
@@ -18565,7 +18799,8 @@
     "P2024-04-13",
     "P2023-12-02",
     "P2025-11-29",
-    "P2024-06-16"
+    "P2024-06-16",
+    "OIDR26-02"
    ],
    "relacionados": [
     "RC-001",
@@ -18627,7 +18862,9 @@
    "status": "verificado",
    "fontes": [
     "P2024-04-14",
-    "P2023-12-25-01"
+    "P2023-12-25-01",
+    "STT26-EXPERIENCIA_ESPIRITUAL_ETICA",
+    "STT26-MITOLOGIAS_REINTEGRACAO"
    ],
    "relacionados": [
     "RC-751",
@@ -18668,7 +18905,8 @@
    "subcategoria": "2.5 Propósitos / Destinos",
    "status": "verificado",
    "fontes": [
-    "P2025-06-14b"
+    "P2025-06-14b",
+    "STT26-SOCIEDADE_CONTEMPORANEA"
    ],
    "relacionados": [
     "RC-753",
@@ -18721,7 +18959,8 @@
    "status": "verificado",
    "fontes": [
     "P2024-03-02",
-    "P2021-05-15"
+    "P2021-05-15",
+    "STT26-MITOLOGIAS_REINTEGRACAO"
    ],
    "relacionados": [
     "RC-102",
@@ -18788,7 +19027,9 @@
     "P2024-02-03",
     "P2023-04-01",
     "P2025-02-22",
-    "P2021-05-15"
+    "P2021-05-15",
+    "STT26-EXPERIENCIA_ESPIRITUAL_ETICA",
+    "STT26-MITOLOGIAS_REINTEGRACAO"
    ],
    "relacionados": [
     "RC-397",
@@ -18914,7 +19155,8 @@
    "subcategoria": "2.6 Ética / Carma / Compromissos",
    "status": "verificado",
    "fontes": [
-    "P2021-03-27"
+    "P2021-03-27",
+    "OIDR26-01"
    ],
    "relacionados": [
     "RC-024",
@@ -20313,7 +20555,8 @@
    "status": "verificado",
    "fontes": [
     "P2023-12-17",
-    "P2023-12-03"
+    "P2023-12-03",
+    "STT26-SOCIEDADE_CONTEMPORANEA"
    ],
    "relacionados": [
     "RC-002",
@@ -20499,7 +20742,8 @@
     "P2023-12-17",
     "B031",
     "P2023-02-11",
-    "P2026-03-21"
+    "P2026-03-21",
+    "OIDR26-01"
    ],
    "relacionados": [
     "RC-001",
@@ -20613,14 +20857,16 @@
    "subcategoria": "4.1 Processos biológicos / genéticos",
    "status": "candidato",
    "fontes": [
-    "P2024-06-16"
+    "P2024-06-16",
+    "STT26-SOCIEDADE_CONTEMPORANEA",
+    "OIDR26-03"
    ],
    "relacionados": [
     "RC-165",
     "RC-615",
     "RC-748"
    ],
-   "ficha": false,
+   "ficha": true,
    "via": "P6-evidência",
    "confianca_fonte": "baixa"
   },
@@ -20649,7 +20895,10 @@
    "status": "verificado",
    "fontes": [
     "P2017-10-14",
-    "P2025-06-14"
+    "P2025-06-14",
+    "STT26-EXTRATERRESTRES_TECNOLOGIA",
+    "STT26-SOCIEDADE_CONTEMPORANEA",
+    "OIDR26-02"
    ],
    "relacionados": [
     "RC-145",
@@ -20686,7 +20935,8 @@
    "subcategoria": "1.1 Divindades / Criadores",
    "status": "verificado",
    "fontes": [
-    "P2018-12-15"
+    "P2018-12-15",
+    "OIDR26-04"
    ],
    "relacionados": [
     "RC-152",
@@ -20725,7 +20975,8 @@
    "subcategoria": "8.1 Sânscrito / Hinduísmo",
    "status": "verificado",
    "fontes": [
-    "P2018-12-15"
+    "P2018-12-15",
+    "OIDR26-04"
    ],
    "relacionados": [
     "RC-154",
@@ -20818,7 +21069,8 @@
    "status": "verificado",
    "fontes": [
     "P2023-08-27",
-    "P2022-09-25"
+    "P2022-09-25",
+    "OIDR26-01"
    ],
    "relacionados": [
     "RC-074",
@@ -20857,7 +21109,8 @@
    "status": "verificado",
    "fontes": [
     "P2012-02-19",
-    "P2025-06-14"
+    "P2025-06-14",
+    "OIDR26-03"
    ],
    "relacionados": [
     "RC-037",
@@ -20897,7 +21150,10 @@
     "P2023-02-11",
     "P2022-11-20",
     "P2026-03-21",
-    "P2023-12-25-03"
+    "P2023-12-25-03",
+    "STT26-EXPERIENCIA_ESPIRITUAL_ETICA",
+    "STT26-MITOLOGIAS_REINTEGRACAO",
+    "STT26-SOCIEDADE_CONTEMPORANEA"
    ],
    "relacionados": [
     "RC-855",
@@ -21059,7 +21315,8 @@
    "status": "verificado",
    "fontes": [
     "P2023-02-11",
-    "P2023-12-25-01"
+    "P2023-12-25-01",
+    "STT26-EXPERIENCIA_ESPIRITUAL_ETICA"
    ],
    "relacionados": [
     "RC-072"
@@ -21215,7 +21472,8 @@
    "fontes": [
     "P2022-11-20",
     "P2021-02-28",
-    "P2021-04-10"
+    "P2021-04-10",
+    "STT26-SOCIEDADE_CONTEMPORANEA"
    ],
    "relacionados": [
     "RC-562",
@@ -21293,7 +21551,8 @@
    "subcategoria": "2.5 Propósitos / Destinos",
    "status": "candidato",
    "fontes": [
-    "P2026-03-21"
+    "P2026-03-21",
+    "STT26-SOCIEDADE_CONTEMPORANEA"
    ],
    "relacionados": [
     "RC-665",
@@ -21301,7 +21560,7 @@
     "RC-040",
     "RC-160"
    ],
-   "ficha": false,
+   "ficha": true,
    "via": "P6-evidência",
    "confianca_fonte": "baixa"
   },
@@ -21541,7 +21800,8 @@
    "status": "verificado",
    "fontes": [
     "P2022-09-17",
-    "P2023-12-25-04"
+    "P2023-12-25-04",
+    "STT26-SOCIEDADE_CONTEMPORANEA"
    ],
    "relacionados": [
     "RC-770",
@@ -21891,7 +22151,8 @@
     "P2023-11-18",
     "P2024-01-13",
     "P2024-02-04",
-    "P2024-03-17"
+    "P2024-03-17",
+    "STT26-EXPERIENCIA_ESPIRITUAL_ETICA"
    ],
    "relacionados": [
     "RC-479",
@@ -21913,7 +22174,8 @@
     "P2024-01-13",
     "P2024-02-04",
     "P2024-03-17",
-    "P2023-12-25-03"
+    "P2023-12-25-03",
+    "STT26-SOCIEDADE_CONTEMPORANEA"
    ],
    "relacionados": [
     "RC-072",
@@ -22228,7 +22490,8 @@
     "P2023-11-18",
     "P2024-01-13",
     "P2024-02-04",
-    "P2024-03-17"
+    "P2024-03-17",
+    "STT26-EXPERIENCIA_ESPIRITUAL_ETICA"
    ],
    "relacionados": [
     "RC-722",
@@ -22270,7 +22533,8 @@
     "P2023-11-18",
     "P2024-01-13",
     "P2024-02-04",
-    "P2024-03-17"
+    "P2024-03-17",
+    "STT26-EXPERIENCIA_ESPIRITUAL_ETICA"
    ],
    "relacionados": [
     "RC-722",
@@ -22333,7 +22597,10 @@
     "P2023-11-18",
     "P2024-01-13",
     "P2024-02-04",
-    "P2024-03-17"
+    "P2024-03-17",
+    "STT26-EXTRATERRESTRES_TECNOLOGIA",
+    "STT26-EXPERIENCIA_ESPIRITUAL_ETICA",
+    "STT26-SOCIEDADE_CONTEMPORANEA"
    ],
    "relacionados": [
     "RC-722",
@@ -22587,7 +22854,9 @@
    "categoria": "Conceitos Cosmológicos",
    "subcategoria": "2.2 Leis e princípios cósmicos",
    "status": "provisório",
-   "fontes": [],
+   "fontes": [
+    "STT26-EXPERIENCIA_ESPIRITUAL_ETICA"
+   ],
    "relacionados": [
     "RC-735"
    ],
@@ -22613,7 +22882,10 @@
    "categoria": "Conceitos Cosmológicos",
    "subcategoria": "2.4 Espiritualidade / Doutrina",
    "status": "provisório",
-   "fontes": [],
+   "fontes": [
+    "STT26-EXPERIENCIA_ESPIRITUAL_ETICA",
+    "STT26-MITOLOGIAS_REINTEGRACAO"
+   ],
    "relacionados": [],
    "ficha": true,
    "via": "P6-evidência",
@@ -22625,7 +22897,9 @@
    "categoria": "Processos & Fenômenos",
    "subcategoria": "4.1 Processos biológicos / genéticos",
    "status": "provisório",
-   "fontes": [],
+   "fontes": [
+    "STT26-EXPERIENCIA_ESPIRITUAL_ETICA"
+   ],
    "relacionados": [],
    "ficha": true,
    "via": "P6-evidência",
@@ -22641,7 +22915,10 @@
     "P2023-12-25-01",
     "P2023-12-25-02",
     "P2023-12-25-03",
-    "P2020-04-04"
+    "P2020-04-04",
+    "OIDR26-01",
+    "OIDR26-02",
+    "OIDR26-04"
    ],
    "relacionados": [
     "RC-072",

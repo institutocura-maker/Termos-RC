@@ -1,7 +1,8 @@
 # Mapa de Dados — Base de Conhecimento e Terminológica das Revelações Cósmicas
 
-**Levantamento:** 2026-10-26 · **Commit de referência:** `9c8b4d6` · **Branch:** `arena/ad2ca972-termos-rc`
+**Levantamento:** 2026-10-26 · **Atualizado:** 2026-10-27 (achado §9.1 resolvido) · **Commit de referência:** `9c8b4d6` · **Branch:** `arena/ad2ca972-termos-rc`
 **Método:** censo direto do working tree (6.065 arquivos versionados, 249,62 MB, excluindo `.git/` e `.arena/`) + leitura dos contratos de governança.
+**Registro da regeneração:** `diagnostico/DIAGNOSTICO-T14-REGENERACAO-ESPELHOS-2026-10-27.md`.
 
 > Documento de navegação. Complementa `docs/README.md` (mapa da documentação) e `APRESENTACAO-DO-SISTEMA.md` (arquitetura histórica de 11/09/2026, com rotas já migradas). Para números oficiais em vigor, ver §9 — os espelhos de estado estão defasados.
 
@@ -190,7 +191,7 @@ Migrações já executadas (23–24/10/2026): `FON-EXTERNAS`, `FON-LIVROS`, `FON
 
 ## 9. Achados de governança deste censo
 
-1. **Espelhos de estado defasados.** `README.md` diz *946 termos · **820 fichas** · 1887 relações · 104 obras*; `admin/logs/STATE-MIRROR.md` diz *946 · **689 fichas** · 1887 · **102 obras***. O real é **946 · 826 fichas · 1887 relações · 104 obras**. Ambos são gerados/manuais e não foram regenerados após T2/Onda 2. Recomenda-se rebuild antes da ingestão.
+1. ~~**Espelhos de estado defasados.**~~ **RESOLVIDO em 27/10/2026** (regeneração autorizada pelo Curador). O censo original apontava `README.md` com *820 fichas* e `STATE-MIRROR.md` com *689 fichas / 102 obras*. A causa raiz era `base/canonico.json` desatualizado em relação ao mestre: 6 flags `ficha` e 274 siglas `STT26-*`/`OIDR26-*` ausentes. A cadeia completa foi reexecutada — `exportar_json.py` → `build_readme` / `build_indice` / `build_xlsx` / `build_word` — e todos os espelhos agora leem **946 termos · 826 fichas · 1887 relações · 104 obras**. Ver `admin/logs/STATE-MIRROR.md` §8. Nenhuma ficha, fonte ou relação foi alterada.
 2. **Rotas históricas em documentos antigos.** `APRESENTACAO-DO-SISTEMA.md` (11/09/2026) ainda cita `livros/CONCLUIDOS/` e `apostilas/CONCLUIDAS/`, ambas migradas para `fontes/` em 23–24/10/2026. O documento é arquitetura histórica, não mapa de runtime.
 3. **Gap de fichas:** 120 termos cadastrados sem ficha (`946 − 826`). Censo detalhado em `diagnostico/CENSO-GAP-FICHAS-2026-09-13.*`.
 4. **Fronteira de ingestão travada:** os 24 lotes `STT26-01…24` estão com despacho `PENDENTE`. Nenhum ciclo novo pode ser aberto sem decisão curatorial consolidada.
